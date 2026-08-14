@@ -6,13 +6,11 @@ printed_page: "xxviii"
 work: "thirukkural"
 section: "திருக்குறள் அதிகார அகர வரிசை — 2"
 page_type: "index"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf"
-transcription_method: "first-pass direct visual transcription from source scan; source scan remains authoritative"
+transcription_method: "direct visual comparison with source scan"
 ---
-
-# அதிகார எண் — தொடர்ச்சி
 
 | அதிகாரம் | அதிகார எண் | அதிகாரம் | அதிகார எண் |
 |---|---:|---|---:|
