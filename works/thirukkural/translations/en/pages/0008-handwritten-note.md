@@ -32,4 +32,10 @@ Individual letters or fragments appear partly recognizable in places, but the so
 
 At the quality of the controlling scan, only the title, signature presence, date and the factual page description can be preserved safely in English. A fuller translation of the handwritten body should be attempted only if a clearer scan or facsimile becomes available.
 
+## Source-limited alignment check
+
+The English record has been compared against the audited partial Tamil archival record. The heading, decorative divider, signature presence, date, bleed-through description, and deliberate omission of the unreadable continuous handwriting all align with the source record. **No translation-text correction was required.**
+
+The page remains `source-limited`; completion of this alignment check does not make the unreadable handwritten body translated or verified.
+
 <!-- Source scan page: 8; printed page: vii; Tamil source status: partial -->
