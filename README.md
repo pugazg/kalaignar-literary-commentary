@@ -6,7 +6,7 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Part 001 archival-ready; Part 002 **21/21 records complete, 13 verified / 8 needs-review** |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Part 001 archival-ready; Part 002 **21/21 visually verified, audit pending** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில மொழிபெயர்ப்பு | பின்னர் சேர்க்கப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -56,12 +56,15 @@ works/
 - local PDF pages: **21**
 - overall scans: **21–41**
 - page records: **21 / 21**
-- `verified`: **13** — scans 21–33
-- `needs-review`: **8** — scans 34–41
+- `verified`: **21 / 21**
+- `needs-review`: **0**
 - `not-started`: **0**
+- audit/release report: **pending**
 
-The first two Part 002 verification batches are complete. Scans 21–27 cover the end of `மதிப்புரை` and `பதிப்புரை`; scans 28–33 cover both index sections, the `அறம்` title page, and the blank verso. Source-specific index differences were preserved instead of harmonized, and scan 33 was confirmed to contain only reverse-side bleed-through rather than current-page body text.
+The full Part 002 visual-verification cycle is complete. Scans 21–33 cover the end of `மதிப்புரை`, `பதிப்புரை`, both index sections, the `அறம்` title page and blank verso. Scans 34–41 cover Kural **1–40** and Kalaignar's commentary across `வழிபாடு`, `வான் சிறப்பு`, `நீத்தார் பெருமை`, and `அறன் வலியுறுத்தல்`.
 
-Next activity: direct visual verification of **scans 34–41**, containing Kural **1–40** and Kalaignar's commentary across `வழிபாடு`, `வான் சிறப்பு`, `நீத்தார் பெருமை`, and `அறன் வலியுறுத்தல்`. After that, create the Part 002 audit/release report.
+The final body-page pass confirmed the source-specific Kural forms and corrected one genuine first-pass reading on scan 37: `ஒழுக்கமே கெட்டகடும்` → **`ஒழுக்கமே கெட்டுக்கூடும்`**.
+
+Next activity: run the **Part 002 release/audit pass**, create `works/thirukkural/AUDIT_PART_002.md`, and record the release decision.
 
 விரிவான நிலை: [`works/thirukkural/README.md`](works/thirukkural/README.md) மற்றும் [`works/thirukkural/indexes/page-map.md`](works/thirukkural/indexes/page-map.md).
