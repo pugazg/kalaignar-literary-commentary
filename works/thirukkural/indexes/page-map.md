@@ -59,14 +59,14 @@ The attachment contains **21 local PDF pages** and directly continues the book a
 | 31 | 11 | xxx | அதிகார அருஞ்சொற்பொருள் அகரவரிசை — 2 | needs-review | `pages/0031-athikara-arunchol-akaravarisai-02.md` |
 | 32 | 12 | xxxi* | `திருக்குறள் / கலைஞர் உரை / அறம்` section title | needs-review | `pages/0032-aram-title.md` |
 | 33 | 13 | — | blank / reverse-side bleed-through | needs-review | `pages/0033-blank.md` |
-| 34 | 14 | 1 | அறம் — பாயிரம் — `1. வழிபாடு` — குறள் 1–5 | not-started | `pages/0034-aram-vazhipadu-01.md` |
-| 35 | 15 | 2 | `1. வழிபாடு` — குறள் 6–10 | not-started | `pages/0035-aram-vazhipadu-02.md` |
-| 36 | 16 | 3 | `2. வான் சிறப்பு` — குறள் 11–15 | not-started | `pages/0036-aram-vaan-sirappu-01.md` |
-| 37 | 17 | 4 | `2. வான் சிறப்பு` — குறள் 16–20 | not-started | `pages/0037-aram-vaan-sirappu-02.md` |
-| 38 | 18 | 5 | `3. நீத்தார் பெருமை` — குறள் 21–25 | not-started | `pages/0038-aram-neeththar-perumai-01.md` |
-| 39 | 19 | 6 | `3. நீத்தார் பெருமை` — குறள் 26–30 | not-started | `pages/0039-aram-neeththar-perumai-02.md` |
-| 40 | 20 | 7 | `4. அறன் வலியுறுத்தல்` — குறள் 31–35 | not-started | `pages/0040-aram-aran-valiyuruththal-01.md` |
-| 41 | 21 | 8 | `4. அறன் வலியுறுத்தல்` — குறள் 36–40 | not-started | `pages/0041-aram-aran-valiyuruththal-02.md` |
+| 34 | 14 | 1 | அறம் — பாயிரம் — `1. வழிபாடு` — குறள் 1–5 | needs-review | `pages/0034-aram-vazhipadu-01.md` |
+| 35 | 15 | 2 | `1. வழிபாடு` — குறள் 6–10 | needs-review | `pages/0035-aram-vazhipadu-02.md` |
+| 36 | 16 | 3 | `2. வான் சிறப்பு` — குறள் 11–15 | needs-review | `pages/0036-aram-vaan-sirappu-01.md` |
+| 37 | 17 | 4 | `2. வான் சிறப்பு` — குறள் 16–20 | needs-review | `pages/0037-aram-vaan-sirappu-02.md` |
+| 38 | 18 | 5 | `3. நீத்தார் பெருமை` — குறள் 21–25 | needs-review | `pages/0038-aram-neeththar-perumai-01.md` |
+| 39 | 19 | 6 | `3. நீத்தார் பெருமை` — குறள் 26–30 | needs-review | `pages/0039-aram-neeththar-perumai-02.md` |
+| 40 | 20 | 7 | `4. அறன் வலியுறுத்தல்` — குறள் 31–35 | needs-review | `pages/0040-aram-aran-valiyuruththal-01.md` |
+| 41 | 21 | 8 | `4. அறன் வலியுறுத்தல்` — குறள் 36–40 | needs-review | `pages/0041-aram-aran-valiyuruththal-02.md` |
 
 `*` Printed numeral is not visibly printed on that scan. `xxvi` is supported by the Part 001 contents page plus the surrounding `xxv` → `xxvii` sequence; `xxxi` is supported by the contents entry `அறத்துப்பால் — xxxi` and the surrounding front-matter sequence. These are recorded as source-supported pagination facts, not silently invented visible text.
 
@@ -74,24 +74,26 @@ The attachment contains **21 local PDF pages** and directly continues the book a
 
 - source pages in attachment: **21**
 - overall scan range: **21–41**
-- page records created so far: **13 / 21** — scans 21–33
-- `needs-review`: **13** — scans 21–33
-- `not-started`: **8** — scans 34–41
+- page records created: **21 / 21**
+- `needs-review`: **21** — scans 21–41
+- `not-started`: **0**
 - `verified`: **0** in Part 002 so far
 
 ### Part 002 source observations
 
 - The batch begins on printed page `xx`, so the transition from Part 001 (`xix`) is continuous.
 - Scans 21–26 complete பேராசிரியர் மா. நன்னன்'s `மதிப்புரை`; scan 27 is `பதிப்புரை` signed `பூம்புகார் பதிப்பகத்தார்`.
-- Scans 28–29 are `திருக்குறள் அதிகார அகர வரிசை`; both now have first-pass source-order transcriptions.
-- Scans 30–31 are `அதிகார அருஞ்சொற்பொருள் அகரவரிசை`; both now have first-pass term/meaning transcriptions.
-- Scan 32 is the section-title page `திருக்குறள் / கலைஞர் உரை / அறம்`; scan 33 is visually blank apart from reverse-side bleed-through. Scan 33 remains `needs-review` until a later explicit final visual pass.
-- Scan 34 begins numbered book page **1**, `அறம் - பாயிரம் - வழிபாடு`.
-- Reverse-side bleed-through is visible throughout several pages and must not be transcribed as current-page text.
+- Scans 28–31 contain the two index sections; scans 32–33 are the `அறம்` title page and blank verso.
+- Scans 34–41 now have first-pass source-based transcriptions for Kural **1–40** and Kalaignar's commentary across `வழிபாடு`, `வான் சிறப்பு`, `நீத்தார் பெருமை`, and `அறன் வலியுறுத்தல்`.
+- Reverse-side bleed-through visible on several pages is not treated as current-page text.
+- Kural wording remains source-specific and must not be replaced with a standard/web edition during verification.
 
 ## அடுத்த செயல்
 
-1. Process scans **34–41**, the first main-body pages: `வழிபாடு` (குறள் 1–10), `வான் சிறப்பு` (11–20), `நீத்தார் பெருமை` (21–30), and `அறன் வலியுறுத்தல்` (31–40).
-2. Preserve every printed Kural number, line break, spelling, spacing and Kalaignar commentary exactly as printed in this scan; do not substitute a standard/web edition.
-3. Keep all new body records `needs-review` until a later direct visual verification pass.
-4. After all Part 002 page records exist, run visual verification in small batches and then create a Part 002 audit/release report.
+Run the **Part 002 direct visual verification cycle** in small batches.
+
+1. Start with scans **21–27** and compare every character, punctuation mark, heading and source-page marker against the scan.
+2. Then verify scans **28–33** (indexes/title/blank).
+3. Then verify scans **34–41** (Kural 1–40 + Kalaignar commentary), preserving source-specific spacing and forms.
+4. Promote a page to `verified` only after the direct visual comparison is complete.
+5. After all Part 002 pages are reviewed, create `AUDIT_PART_002.md` and a release decision.
