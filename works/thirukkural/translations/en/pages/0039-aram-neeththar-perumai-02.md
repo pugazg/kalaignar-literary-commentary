@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Prefatory Chapters — The Greatness of Renunciants"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -35,5 +35,7 @@ If great people who are mountains of virtue become angry, that anger will not re
 for they live with tender compassion toward every living being.**
 
 Any worthy people who love all living beings and shower compassion upon them are called `anthanar`.
+
+> Source-check note: Kural 30 keeps `அந்தணர்` as `anthanar` because Kalaignar's commentary itself defines who may be called by that term: **any worthy people who love all living beings and shower compassion upon them**. No caste- or religion-specific definition from outside this source is substituted.
 
 <!-- Source scan page: 39; Part 002 local page: 19; printed page: 6 -->
