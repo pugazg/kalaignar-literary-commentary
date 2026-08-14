@@ -6,7 +6,7 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Part 001 archival-ready; Part 002 **ARCHIVAL-READY** |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–002 archival-ready; Part 003 **7/21 records created** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில மொழிபெயர்ப்பு | பின்னர் சேர்க்கப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -54,18 +54,29 @@ works/
 
 `திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf`
 
-- local PDF pages: **21**
 - overall scans: **21–41**
 - page records: **21 / 21**
 - `verified`: **21 / 21**
-- `needs-review`: **0**
 - release decision: **ARCHIVAL-READY**
 - audit: [`works/thirukkural/AUDIT_PART_002.md`](works/thirukkural/AUDIT_PART_002.md)
 
-Part 002 covers the end of `மதிப்புரை`, `பதிப்புரை`, both index sections, the `அறம்` title/blank pages, and Kural **1–40** with Kalaignar's commentary across `வழிபாடு`, `வான் சிறப்பு`, `நீத்தார் பெருமை`, and `அறன் வலியுறுத்தல்`.
+### Part 003
 
-The audit confirms complete Part 002 coverage with one record for each overall scan **21–41**, all 21 records visually verified, source-supported pagination distinctions retained, and no remaining unresolved Part 002 page.
+`திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf`
 
-The currently supplied Thirukkural material ends at overall scan **41** / printed page **8**. Continue only when the next source PDF batch is supplied and its continuity is verified from the scan itself.
+- local PDF pages: **21**
+- overall scans: **42–62**
+- printed pages: **9–29**
+- Kural range: **41–145**
+- page records: **7 / 21** — scans 42–48
+- `needs-review`: **7**
+- `not-started`: **14**
+- `verified`: **0**
+
+The source itself confirms direct continuity from Part 002: scan 41 ends at printed page 8 / Kural 40, and Part 003 scan 42 begins printed page 9 / Kural 41.
+
+The first Part 003 batch covers `இல்வாழ்க்கை` (41–50), `வாழ்க்கைத் துணைநலம்` (51–60), `மக்கட்பேறு` (61–70), and the first half of `அன்புடைமை` (71–75). All remain first-pass `needs-review` records.
+
+Next activity: continue first-pass transcription with **scans 49–55**, then finish scans 56–62 before beginning the separate Part 003 verification cycle.
 
 விரிவான நிலை: [`works/thirukkural/README.md`](works/thirukkural/README.md) மற்றும் [`works/thirukkural/indexes/page-map.md`](works/thirukkural/indexes/page-map.md).
