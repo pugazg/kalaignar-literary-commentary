@@ -57,19 +57,30 @@ Permanent cadence:
 
 ### English status now
 
-- Part 001 English page files: **12 / 20 created**
-- `draft`: **11** — scans 1–7 and 9–12
-- `source-limited`: **1** — scan 8
-- scans **13–20**: not yet translated
+Part 001 first-pass translation is **complete**:
+
+- Part 001 English page files: **20 / 20 created**
+- `draft`: **19** — scans 1–7 and 9–20
+- `source-limited`: **1** — scan 8 handwritten facsimile
+- `source-checked`: **0**
+- `editorial-reviewed`: **0**
+- `release-ready`: **0**
 - Part 002 English pages: **0 / 21**
 - Part 003 English pages: **0 / 21**
-- no English page has yet completed source-check/editorial review
 
-Scans **9–12** now contain the first-pass English translation of `பேராசிரியரின் அணிந்துரை` / **The Professor's Foreword** by K. Anbazhagan. The translation preserves the poem-like line structure, quotations, repetitions and source-supported emphasis.
+Scans **13–20** now contain the first-pass English translation of Professor Ma. Nannan's `மதிப்புரை` / **Critical Appreciation**. The batch covers `தேவை`, `வழிபாடு`, `பெண்வழிச் சேறல்`, `ஊழ்`, and the opening of `பல்வகைச் சிறப்புகள்`.
 
-Source-sensitive draft decisions are documented rather than silently normalized. In particular, scan 10 retains the verified source form `திருவிடம்` as **Tiruvidam** with a translation note; `முப்பால்` is provisionally retained as **Muppaal**, and `ஊழ்` as **oozh**, pending the dedicated review pass.
+Source-sensitive choices remain deliberately reviewable rather than silently normalized. These include:
 
-Scan 8 remains deliberately `source-limited`: only the securely established heading/date/signature/page-condition information is represented in English; the unreadable continuous handwriting is not reconstructed.
+- `பெண்வழிச் சேறல்` → **Following a Woman's Lead** provisionally;
+- `ஊழ்` → **Oozh**, with Nannan's stated explanation rendered as **natural condition**;
+- `பிறிது மொழிதல்` → ***pirithu mozhithal*** with an explanatory gloss;
+- scan 19's quoted phrase `அடுத்தூர்வது அஃதொப்பதில்` → provisional English pending source-check;
+- scan 20 literary headings → **Poetic Quality**, **Excellence of Poetic Figure**, **Excellence of Epithets**.
+
+The Kural examples on scan 20 were translated from this audited Tamil source and Kalaignar's accompanying explanation; no external/published English Kural rendering was substituted.
+
+Scan 8 remains deliberately `source-limited`: only securely established heading/date/signature/page-condition information is represented in English; the unreadable continuous handwriting is not reconstructed.
 
 ## Source-first rule
 
@@ -79,7 +90,7 @@ Scan 8 remains deliberately `source-limited`: only the securely established head
 
 ## அடுத்த செயல்
 
-Continue Part 001 English first-pass translation with scans **13–20**, covering `மதிப்புரை` / Critical Appreciation and the remaining literary-analysis front matter. Create one-to-one aligned English files and keep them `draft`; source-check/editorial review remains a separate later stage.
+Begin the separate Part 001 English **source-check** cycle with scans **1–7**. Compare each English draft directly against its audited Tamil record for omissions, additions, meaning drift, headings and metadata. Promote a page to `source-checked` only after that check; editorial consistency review remains a later separate stage.
 
 Tamil source intake can continue later from overall scan **63** when the next PDF is supplied and continuity after scan 62 / printed page 29 / Kural 145 is confirmed from the scan itself.
 
