@@ -45,8 +45,14 @@ Source: `திருக்குறள்_கலைஞர்_உரை_part_002
 - page records: **21 / 21**
 - `verified`: **21 / 21**
 - `needs-review`: **0**
+- `partial`: **0**
+- `blocked`: **0**
 - `not-started`: **0**
-- audit/release report: **pending**
+- audit complete
+- release decision: **ARCHIVAL-READY**
+- audit report: `works/thirukkural/AUDIT_PART_002.md`
+
+Do not redo or renumber Part 002.
 
 ### Part 002 scan map
 
@@ -72,7 +78,20 @@ Source: `திருக்குறள்_கலைஞர்_உரை_part_002
 - 40 / 7 — `4. அறன் வலியுறுத்தல்`, குறள் 31–35 + commentary — **verified**
 - 41 / 8 — `4. அறன் வலியுறுத்தல்`, குறள் 36–40 + commentary — **verified**
 
-`*` `xxvi` and `xxxi` are supported by the same-source contents/sequence but the numeral is not visibly printed on those scans. This basis is explicitly documented in the relevant page records.
+`*` `xxvi` and `xxxi` are supported by the same-source contents/sequence but the numeral is not visibly printed on those scans. This basis is explicitly documented in the relevant page records and in `AUDIT_PART_002.md`.
+
+## Part 002 audit result
+
+The release audit confirmed:
+
+1. exactly one page record for every overall scan **21–41**;
+2. continuous Part 002 local pages **1–21**;
+3. no missing or duplicate record in the Part 002 range;
+4. all 21 records are `verified` and use `transcription_method: "direct visual comparison with source scan"`;
+5. source filename and page markers are present/consistent;
+6. scan 27 (`xxvi`) and scan 32 (`xxxi`) remain explicitly source-supported pagination inferences, not visible numerals;
+7. scan 33 is a verified blank/bleed-through-only page;
+8. there is no unresolved Part 002 page.
 
 ## Verification summary
 
@@ -102,10 +121,9 @@ Direct visual verification is complete for Kural **1–40** and Kalaignar's comm
 - scan 37 commentary had one genuine first-pass error corrected from the exact scan:
   - `ஒழுக்கமே கெட்டகடும்` → **`ஒழுக்கமே கெட்டுக்கூடும்`**
 
-Every Part 002 page now uses `status: "verified"` and `transcription_method: "direct visual comparison with source scan"`.
+## Files synchronized with Part 002 release
 
-## Files to keep synchronized
-
+- `works/thirukkural/AUDIT_PART_002.md`
 - `works/thirukkural/metadata/source.md`
 - `works/thirukkural/indexes/page-map.md`
 - `works/thirukkural/README.md`
@@ -114,16 +132,19 @@ Every Part 002 page now uses `status: "verified"` and `transcription_method: "di
 
 ## Next exact activity
 
-Run the **Part 002 release/audit pass**.
+Wait for the **next Thirukkural source PDF batch**.
 
-1. Confirm exactly one page record for each overall scan 21–41, with no gaps or duplicates.
-2. Confirm `part: 2`, local `part_page: 1–21`, and printed-page continuity/bases.
-3. Confirm all 21 records are `verified` and use `direct visual comparison with source scan`.
-4. Confirm source filename and source-page markers are present/consistent.
-5. Confirm scan 27 (`xxvi`) and scan 32 (`xxxi`) remain explicitly source-supported pagination inferences rather than visible numerals.
-6. Confirm scan 33 is a verified blank/bleed-through-only page.
-7. Create `works/thirukkural/AUDIT_PART_002.md` and record the release decision.
-8. Synchronize root README, work README, page map and this handover with the audit result.
+When it arrives:
+
+1. inspect the actual scan before creating metadata or page records;
+2. confirm continuity after overall scan **41** / printed page **8** from the source itself;
+3. continue at overall scan **42** only if the scan supports that sequence;
+4. do not alter or renumber Parts 001–002;
+5. preserve source-specific Kural wording, line breaks, spacing and Kalaignar commentary exactly as printed;
+6. keep new records `needs-review` until a separate direct visual-verification cycle;
+7. after the new part is complete, run the same release/audit process.
+
+The currently supplied material reaches overall scan **41** / printed page **8** only. It does **not** establish the full book's total scan-page count.
 
 ## Source authority rule
 
