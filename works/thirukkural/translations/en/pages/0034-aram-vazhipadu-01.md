@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Prefatory Chapters — Worship"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -34,10 +34,10 @@ there will be no suffering at any time.**
 Those who follow and live by the way of one who stands without desire or hatred and without selfishness will never encounter suffering.
 
 **5. The twin deeds joined with darkness will not cling  
-to those who seek praise grounded in the meaning of `iraivan`.**
+to those who seek praise grounded in the meaning of *iraivan*.**
 
-Those who understand the meaning of the word `iraivan` and wish to gain praise will face good and evil in equal measure.
+Those who understand the meaning of the word *iraivan* and wish to gain praise will face good and evil in equal measure.
 
-> Source-check note: `ஆதி பகவன்` is retained as **Aadhi Bhagavan** because Kalaignar's own commentary uses the expression directly. In Kural 5, `இறைவன்` is retained as `iraivan` in the verse because Kalaignar explicitly directs the reader to understand the meaning of that word rather than supplying a doctrinal equivalent. No conventional theological English title has been imported.
+> Editorial review note: `ஆதி பகவன்` is retained as **Aadhi Bhagavan** because Kalaignar's own commentary uses the expression directly. In Kural 5, `இறைவன்` is retained as *iraivan* because Kalaignar explicitly directs the reader to understand the meaning of that word rather than supplying a doctrinal equivalent. No conventional theological English title is imported.
 
 <!-- Source scan page: 34; Part 002 local page: 14; printed page: 1 -->
