@@ -40,31 +40,30 @@ The currently archived main-body Tamil reaches Kural **145**.
 
 ## English progress
 
-Part 001 has **20/20 aligned English records**:
+Part 001 has **20/20 aligned English records** and its source-check stage is now complete for all fully translatable pages:
 
 - scans **1–7**: `source-checked`;
 - scan **8**: `source-limited`, with source-limited alignment check complete;
-- scans **9–12**: `source-checked`;
-- scans **13–20**: `draft`.
+- scans **9–20**: `source-checked`.
 
 Current counts:
 
-- `source-checked`: **11**
+- `source-checked`: **19**
 - `source-limited`: **1**
-- `draft`: **8**
+- `draft`: **0**
 - `editorial-reviewed`: **0**
 - `release-ready`: **0**
 
-### Source-check scans 9–12 — The Professor's Foreword
+### Source-check outcome
 
-K. Anbazhagan's four-page poetic foreword has now completed the source-check stage. Scan 9 received one fidelity tightening in the line corresponding to `சிறப்பொவ்வா செய்தொழில் வேற்றுமையான்`; scan 10 clarified the reference to the ten commentators. Scans 11–12 required no translation-text correction.
+The source-check compared each English page directly with its audited Tamil page. Corrections were limited to source-supported fidelity issues. Among the more important fixes:
 
-Source-sensitive forms remain deliberately reviewable rather than normalized:
+- scan 14 corrected the agency in `மாந்தர் பிறர் பொருளைச் சுரண்டாமல் காப்பது`, now rendered as **people being prevented from exploiting the property of others**;
+- scan 16 restored the omitted source element `கற்பித்துப் பேச`, explicitly representing fabricated claims used to demean and blame women;
+- scan 19 withdrew the speculative first-pass expansion of `அடுத்தூர்வது அஃதொப்பதில்`; the phrase is now retained exactly in Tamil with a note rather than presented with an insecure English meaning;
+- scan 20's Kural examples 1101, 1098 and 17 were source-checked against this archived Tamil edition and Kalaignar's adjacent explanations without substituting published English Kural wording.
 
-- **Muppaal** for `முப்பால்`;
-- **Tiruvidam** for the verified source form `திருவிடம்`;
-- **oozh** where the poem explicitly names `ஊழ்`;
-- **counsel** provisionally for `வாயுறை`, with final poetic nuance deferred to editorial review.
+Review-sensitive terms remain visible for the editorial stage, including **Muppaal**, **Tiruvidam**, **oozh / Oozh**, `வாயுறை` → **counsel**, **Following a Woman's Lead**, *pirithu mozhithal*, and the scan-20 literary headings.
 
 Scan 8 remains `source-limited`; its unreadable continuous handwriting is not reconstructed.
 
@@ -76,4 +75,4 @@ See:
 
 ## Next activity
 
-Source-check Part 001 scans **13–20**, covering Professor Ma. Nannan's **Critical Appreciation**. Compare each English draft directly with its audited Tamil page, preserve the quoted Kural examples from this source, and keep editorial-consistency review as the next separate stage.
+Run the full **Part 001 editorial-consistency / glossary reconciliation pass** across scans 1–20. Review repeated terminology, titles, poetic/register choices, transliteration, punctuation and English readability as one set. Document decisions in `reviews/PART_001_REVIEW.md`, promote eligible fully translatable pages to `editorial-reviewed` only after that pass, and preserve scan 8's source limitation. The Part 001 release report comes only after the editorial review is complete.
