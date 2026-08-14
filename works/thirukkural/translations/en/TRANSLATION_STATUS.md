@@ -12,33 +12,48 @@
 
 | Tamil part | Overall scans | Tamil state | English state |
 |---|---:|---|---|
-| Part 001 | 1–20 | archival-ready; scan 8 documented partial | not started |
+| Part 001 | 1–20 | archival-ready; scan 8 documented partial | **7 drafts created (scans 1–7)** |
 | Part 002 | 21–41 | archival-ready | not started |
 | Part 003 | 42–62 | archival-ready | not started |
 
 ## Current English counts
 
-- English page files: **0**
-- `draft`: **0**
+- English page files: **7**
+- `draft`: **7** — scans 1–7
 - `source-checked`: **0**
 - `editorial-reviewed`: **0**
 - `release-ready`: **0**
 - `source-limited`: **0**
 - `blocked`: **0**
 
-## Planned translation sequence
+## Part 001 progress
 
-### Part 001
+### Completed first-pass drafts — scans 1–7
 
-1. scans 1–7 — cover/title/publication/contents/preface material;
-2. scan 8 — handwritten facsimile, handled separately as `source-limited`;
-3. scans 9–12 — பேராசிரியரின் அணிந்துரை;
-4. scans 13–20 — மதிப்புரை and literary-analysis front matter;
-5. source-check pass;
-6. editorial consistency review;
-7. `PART_001_RELEASE_REPORT.md`.
+Matching English files now exist for:
 
-### Part 002
+1. scan 1 — cover;
+2. scan 2 — title page;
+3. scan 3 — blank page record;
+4. scan 4 — full title / publisher details;
+5. scan 5 — edition / price / rights / printer details;
+6. scan 6 — contents;
+7. scan 7 / printed vi — Kalaignar's Preface.
+
+All seven files are `draft`. No English page has yet completed the separate source-check or editorial-review stages.
+
+The Preface translation preserves Kalaignar's distinction between the source title `கடவுள் வாழ்த்து` (`Invocation to God`) and his adopted chapter title `வழிபாடு` (`Worship`), and treats the translation as project-created rather than as an official published English rendering.
+
+### Remaining Part 001 first-pass work
+
+1. scan 8 — handwritten facsimile, to be created separately as `source-limited`;
+2. scans 9–12 — பேராசிரியரின் அணிந்துரை / Professor's Foreword;
+3. scans 13–20 — மதிப்புரை and literary-analysis front matter;
+4. source-check pass for all translatable Part 001 English pages;
+5. editorial consistency review;
+6. `PART_001_RELEASE_REPORT.md`.
+
+## Part 002 plan
 
 After Part 001 English release review:
 
@@ -47,7 +62,7 @@ After Part 001 English release review:
 3. source-check and editorial review;
 4. Part 002 translation release report.
 
-### Part 003
+## Part 003 plan
 
 After Part 002 English release review:
 
@@ -65,13 +80,12 @@ Do not wait until all 1,330 Kurals are archived before translating newly audited
 
 ## Next exact activity
 
-Create English page-aligned `draft` files for **Part 001 scans 1–7**.
+Create the aligned English record for **Part 001 scan 8** as `source-limited`.
 
 Rules:
 
-- mirror Tamil filenames exactly under `translations/en/pages/`;
-- translate only source-supported content;
-- keep source metadata and page identity explicit;
-- do not claim official English status;
-- do not translate scan 8 in the first batch;
-- do not promote any new English page beyond `draft` during the first-pass creation activity.
+- mirror `0008-handwritten-note.md` under `translations/en/pages/`;
+- translate only the Tamil heading/date/signature description and other content safely established by the audited Tamil record;
+- explicitly state that the continuous handwritten body cannot be safely translated from the controlling source;
+- do not reconstruct or paraphrase unreadable handwriting;
+- after scan 8, continue Part 001 first-pass translation with scans 9–12.
