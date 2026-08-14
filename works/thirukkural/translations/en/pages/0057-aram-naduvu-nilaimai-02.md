@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Impartiality"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -19,7 +19,7 @@ If the thought arises in a person that one may act by departing from impartialit
 **117. The world will not regard as decline the low state of one  
 who remains impartial and abides in goodness.**
 
-If a person who lives on the path of aram without departing from impartiality becomes poor because wealth does not accumulate for that reason, the world will praise that person rather than regard him as low.
+If a person who lives on the path of aram without departing from impartiality becomes poor because wealth does not accumulate for that reason, the world will praise that person rather than regard them as low.
 
 **118. Like a balance poised to weigh evenly,  
 not leaning to one side is an ornament to the worthy.**
