@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Self-Control"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -19,7 +19,7 @@ Like a tortoise drawing its limbs within one shell, the firmness that restrains 
 **127. Whatever else one may fail to guard, guard the tongue;  
 if it is not guarded, one will suffer, caught by the fault of one's own words.**
 
-Even if a person cannot guard anything else, the tongue at least must be restrained and guarded. Otherwise the very words that person speaks will become the cause of his suffering.
+Even if a person cannot guard anything else, the tongue at least must be restrained and guarded. Otherwise the very words that person speaks will become the cause of their suffering.
 
 **128. If even one evil word produces a harmful result,  
 the good in the whole speech will cease to be good.**
