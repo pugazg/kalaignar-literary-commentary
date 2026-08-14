@@ -87,20 +87,21 @@ The attachment contains **21 local PDF pages**. Local page 1 is overall scan **4
 | 53 | 12 | 20 | `10. இனியவை கூறல்` — குறள் 96–100 | verified | `pages/0053-aram-iniyavai-kooral-02.md` |
 | 54 | 13 | 21 | `11. செய்ந்நன்றியறிதல்` — குறள் 101–105 | verified | `pages/0054-aram-seynnandriyarithal-01.md` |
 | 55 | 14 | 22 | `11. செய்ந்நன்றியறிதல்` — குறள் 106–110 | verified | `pages/0055-aram-seynnandriyarithal-02.md` |
-| 56 | 15 | 23 | `12. நடுவு நிலைமை` — குறள் 111–115 | needs-review | `pages/0056-aram-naduvu-nilaimai-01.md` |
-| 57 | 16 | 24 | `12. நடுவு நிலைமை` — குறள் 116–120 | needs-review | `pages/0057-aram-naduvu-nilaimai-02.md` |
-| 58 | 17 | 25 | `13. அடக்கம் உடைமை` — குறள் 121–125 | needs-review | `pages/0058-aram-adakkam-udaimai-01.md` |
-| 59 | 18 | 26 | `13. அடக்கம் உடைமை` — குறள் 126–130 | needs-review | `pages/0059-aram-adakkam-udaimai-02.md` |
-| 60 | 19 | 27 | `14. ஒழுக்கம் உடைமை` — குறள் 131–135 | needs-review | `pages/0060-aram-ozhukkam-udaimai-01.md` |
-| 61 | 20 | 28 | `14. ஒழுக்கம் உடைமை` — குறள் 136–140 | needs-review | `pages/0061-aram-ozhukkam-udaimai-02.md` |
-| 62 | 21 | 29 | `15. பிறனில் விழையாமை` — குறள் 141–145 | needs-review | `pages/0062-aram-piranil-vizhaiyaamai-01.md` |
+| 56 | 15 | 23 | `12. நடுவு நிலைமை` — குறள் 111–115 | verified | `pages/0056-aram-naduvu-nilaimai-01.md` |
+| 57 | 16 | 24 | `12. நடுவு நிலைமை` — குறள் 116–120 | verified | `pages/0057-aram-naduvu-nilaimai-02.md` |
+| 58 | 17 | 25 | `13. அடக்கம் உடைமை` — குறள் 121–125 | verified | `pages/0058-aram-adakkam-udaimai-01.md` |
+| 59 | 18 | 26 | `13. அடக்கம் உடைமை` — குறள் 126–130 | verified | `pages/0059-aram-adakkam-udaimai-02.md` |
+| 60 | 19 | 27 | `14. ஒழுக்கம் உடைமை` — குறள் 131–135 | verified | `pages/0060-aram-ozhukkam-udaimai-01.md` |
+| 61 | 20 | 28 | `14. ஒழுக்கம் உடைமை` — குறள் 136–140 | verified | `pages/0061-aram-ozhukkam-udaimai-02.md` |
+| 62 | 21 | 29 | `15. பிறனில் விழையாமை` — குறள் 141–145 | verified | `pages/0062-aram-piranil-vizhaiyaamai-01.md` |
 
 ### Part 003 current status
 
 - page records: **21 / 21**
-- `verified`: **14** — scans 42–55
-- `needs-review`: **7** — scans 56–62
+- `verified`: **21 / 21** — scans 42–62
+- `needs-review`: **0**
 - `not-started`: **0**
+- audit: pending
 
 ### Verification completed — scans 42–48
 
@@ -110,6 +111,10 @@ Direct visual comparison is complete for Kural **41–75** and Kalaignar's comme
 
 Direct visual comparison is complete for Kural **76–110** and Kalaignar's commentary, covering the remainder of `அன்புடைமை`, `விருந்தோம்பல்`, `இனியவை கூறல்`, and `செய்ந்நன்றியறிதல்`. The first-pass text matched the scan; no transcription corrections were required.
 
+### Verification completed — scans 56–62
+
+Direct visual comparison is complete for Kural **111–145** and Kalaignar's commentary, covering `நடுவு நிலைமை`, `அடக்கம் உடைமை`, `ஒழுக்கம் உடைமை`, and the beginning of `பிறனில் விழையாமை`. The first-pass text matched the scan; no transcription corrections were required.
+
 Verified Part 003 records use:
 
 - `status: "verified"`
@@ -117,4 +122,4 @@ Verified Part 003 records use:
 
 ## அடுத்த செயல்
 
-Verify **scans 56–62** against the exact Part 003 source scan. These cover `நடுவு நிலைமை` (111–120), `அடக்கம் உடைமை` (121–130), `ஒழுக்கம் உடைமை` (131–140), and `பிறனில் விழையாமை` (141–145). Correct only source-supported differences. After all seven are verified, create `AUDIT_PART_003.md` and make the Part 003 release decision.
+Run the **Part 003 release/audit pass**. Confirm page-record uniqueness and continuity, local pages 1–21, printed pages 9–29, Kural 41–145, and verified metadata consistency; then create `AUDIT_PART_003.md` and record the Part 003 release decision.
