@@ -23,7 +23,7 @@
 - `source-checked`: **7** — scans 1–7
 - `editorial-reviewed`: **0**
 - `release-ready`: **0**
-- `source-limited`: **1** — scan 8 handwritten facsimile
+- `source-limited`: **1** — scan 8 handwritten facsimile; source-limited alignment check complete
 - `blocked`: **0**
 
 ## Part 001 first-pass status — COMPLETE
@@ -32,32 +32,39 @@ A one-to-one English record exists for every Part 001 scan. Scan 8 is deliberate
 
 ## Source-check completed — scans 1–7
 
-Scans **1–7** have now been compared line-by-line / paragraph-by-paragraph against their audited Tamil archival pages and promoted from `draft` to `source-checked`.
+Scans **1–7** were compared line-by-line / paragraph-by-paragraph against their audited Tamil archival pages and promoted from `draft` to `source-checked`.
 
 ### Result
 
-- scans 1–5: no translation-text correction required; metadata/status updated after comparison;
-- scan 6: the contents entry `பேராசிரியரின் அணிந்துரை` was tightened from `Professor's Foreword` to **`The Professor's Foreword`** to match the controlled source title;
-- scan 7 / Kalaignar's Preface: source-check resolved three fidelity points:
-  - `நிறைவேற்றி மகிழ்` is now represented by **“Having fulfilled that desire, to my joy”** rather than leaving the joy element implicit;
-  - `உண்மை நிலை` is rendered as **“the fact”** rather than the weaker first-pass phrase “the factual possibility”;
-  - `இனமான ஏந்தல்` is represented more fully as **“standard-bearer of the dignity of our people.”**
-
-The Preface continues to preserve Kalaignar's explicit distinction between `கடவுள் வாழ்த்து` (**Invocation to God**) and his adopted title `வழிபாடு` (**Worship**).
+- scans 1–5: no translation-text correction required;
+- scan 6: `பேராசிரியரின் அணிந்துரை` tightened to **The Professor's Foreword**;
+- scan 7 / Kalaignar's Preface: source-check restored the source sense of `நிறைவேற்றி மகிழ்`, `உண்மை நிலை`, and `இனமான ஏந்தல்` while retaining Kalaignar's distinction between `கடவுள் வாழ்த்து` (**Invocation to God**) and `வழிபாடு` (**Worship**).
 
 No page in this batch has undergone the later editorial-consistency review.
 
-## Scan 8
+## Scan 8 — source-limited alignment check COMPLETE
 
-`0008-handwritten-note.md` remains `source-limited` because the Tamil archival source itself is partial. Its alignment must be reviewed as a **source-limited check**, not promoted to `source-checked` as though the continuous handwriting had been translated.
+`0008-handwritten-note.md` has now been compared against the audited partial Tamil archival record.
+
+Confirmed aligned elements:
+
+- heading: **An Introduction to the Preface!**;
+- decorative divider presence;
+- Kalaignar's signature presence;
+- clearly readable date **27/12/2007**;
+- reverse-side bleed-through correctly excluded from current-page handwriting;
+- unreadable continuous handwritten body deliberately left untranslated and unreconstructed.
+
+**No translation-text correction was required.**
+
+The page remains `status: "source-limited"` because the controlling Tamil archival record itself is `partial`. Completion of the alignment check does not justify promotion to `source-checked` or reconstruction of the missing handwriting.
 
 ## Remaining Part 001 source-check work
 
-1. review scan 8's English `source-limited` record against the partial Tamil archival record;
-2. source-check scans 9–12 — The Professor's Foreword;
-3. source-check scans 13–20 — Critical Appreciation;
-4. run Part 001 editorial consistency/glossary reconciliation;
-5. create the Part 001 English review/release artefacts and promote eligible pages only after that review.
+1. source-check scans **9–12** — The Professor's Foreword;
+2. source-check scans **13–20** — Critical Appreciation;
+3. run Part 001 editorial consistency / glossary reconciliation;
+4. create the Part 001 English review/release artefacts and promote eligible pages only after that review.
 
 ## Part 002 plan
 
@@ -84,10 +91,13 @@ For every newly supplied Tamil PDF after Part 003:
 
 ## Next exact activity
 
-Review **Part 001 scan 8** as a source-limited English alignment check.
+Source-check **Part 001 scans 9–12**, covering K. Anbazhagan's `பேராசிரியரின் அணிந்துரை` / **The Professor's Foreword**.
 
-- compare the English record only with content securely established in the partial Tamil archival record;
-- confirm heading, date, signature/page-condition description and omission of unreadable handwriting;
-- do not reconstruct the handwritten body;
-- keep `status: "source-limited"` unless a clearer controlling source is supplied;
-- after that, continue the source-check cycle with scans **9–12**.
+For each page:
+
+1. compare the English draft line-by-line with the audited Tamil page;
+2. verify poem-line structure, quotations, emphasis and page metadata;
+3. resolve review-sensitive choices such as **Muppaal**, **Tiruvidam**, **oozh**, and `வாயுறை` → `counsel` only from the Tamil source and project glossary;
+4. correct only source-supported translation issues;
+5. promote each page to `source-checked` only after comparison;
+6. do not perform editorial-review promotion in the same activity.
