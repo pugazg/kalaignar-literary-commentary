@@ -12,7 +12,7 @@ When context requires a different rendering, preserve the source meaning and rec
 | கலைஞர் உரை | Kalaignar's Commentary | In prose, `Kalaignar's Commentary on the Thirukkural` is also acceptable. |
 | குறளோவியம் | Kuraloviyam | Retain the work title in transliteration. |
 | சங்கத்தமிழ் | Sangathamizh | Retain the source work title in transliteration in the current project translation. |
-| முப்பால் | Muppaal | Source-check of the Professor's Foreword retains this source term rather than replacing it with another title. Final presentation remains for editorial review. |
+| முப்பால் | Muppaal | Part 001 editorial review retains this source term in the Professor's Foreword rather than replacing it with another title. |
 | அறம் | Aram / virtue / right conduct | Prefer `Aram` in structural labels; translate contextually in prose. |
 | அறத்துப்பால் | Book of Aram (Virtue / Right Conduct) | First significant English use may include gloss; later `Book of Aram`. |
 | பொருட்பால் | Book of Porul | Retain `Porul` in structural labels until a later section-level review establishes whether a gloss should accompany it. |
@@ -24,7 +24,7 @@ When context requires a different rendering, preserve the source meaning and rec
 | முன்னுரை | Introduction | Keep distinct from `முகவுரை` when both occur in the same source. |
 | அணிந்துரை | Foreword | Use for the contributor's commendatory introductory essay. |
 | பேராசிரியரின் அணிந்துரை | The Professor's Foreword | Controlled title for Part 001 scans 9–12. |
-| மதிப்புரை | Critical Appreciation | Current controlled title for Professor Ma. Nannan's Part 001 assessment; Part 001 source-check is complete. |
+| மதிப்புரை | Critical Appreciation | Controlled Part 001 title for Professor Ma. Nannan's assessment after source-check and editorial review. |
 | பதிப்புரை | Publisher's Note | Preferred when it is actually a publisher-issued introductory note. In scan 13, where Nannan's source sentence itself says `இப்பதிப்புரை`, the translation uses `this publication note` rather than silently correcting the source wording. |
 | கடவுள் வாழ்த்து | Invocation to God | Source title explicitly discussed in Kalaignar's Preface; do not replace it with `Worship` when translating that quoted title. |
 | அதிகார அகர வரிசை | Alphabetical Index of Chapters | Default for the front-matter index heading. |
@@ -36,12 +36,12 @@ When context requires a different rendering, preserve the source meaning and rec
 | Tamil | Default English | Editorial note |
 |---|---|---|
 | வழிபாடு | Worship | Kalaignar's replacement title for `கடவுள் வாழ்த்து` in this edition. |
-| பெண்வழிச் சேறல் | Following a Woman's Lead | Source-check of scans 16–17 found this rendering consistent with Nannan's argument against readings that place blame on women. Keep as the current project heading pending editorial consistency review. |
-| ஊழ் | Oozh | Retain when the Tamil text explicitly discusses the term as a concept; translate Nannan's stated explanation contextually. |
-| பல்வகைச் சிறப்புகள் | Various Distinctive Merits | Source-checked analytical heading; final stylistic choice remains for editorial review. |
-| பா நலம் | Poetic Quality | Source-checked scan-20 literary heading; final literary terminology remains for editorial review. |
-| அணி நலம் | Excellence of Poetic Figure | Source-checked scan-20 heading; review whether a more standard literary label improves English without flattening the Tamil term. |
-| அடை நலம் | Excellence of Epithets | Source-checked scan-20 heading; `அடை` refers to qualifying/epithetic expression in this context. |
+| பெண்வழிச் சேறல் | Following a Woman's Lead | Retained by Part 001 editorial review because it remains consistent with Nannan's argument against readings that place blame on women. |
+| ஊழ் | Oozh | Use as heading/concept title; use *oozh* in running prose when the Tamil term itself is being named. |
+| பல்வகைச் சிறப்புகள் | Various Distinctive Merits | Retained as the Part 001 analytical heading. |
+| பா நலம் | Poetic Quality | Retained as the Part 001 scan-20 literary heading. |
+| அணி நலம் | Excellence of Poetic Figure | Retained for Part 001. Revisit only if later source material establishes a broader technical usage that warrants a deliberate project-wide change. |
+| அடை நலம் | Excellence of Epithets | Retained for Part 001; `அடை` refers to qualifying/epithetic expression in this context. |
 
 ## Chapter-title defaults for currently archived main body
 
@@ -65,7 +65,7 @@ These titles correspond to headings actually present in the archived edition thr
 | 14 | ஒழுக்கம் உடைமை | Good Conduct |
 | 15 | பிறனில் விழையாமை | Not Desiring Another Man's Wife |
 
-These are **provisional controlled headings**. If a better rendering is adopted during English review, change the glossary deliberately and update every affected translation file consistently.
+These are **provisional controlled headings**. If a better rendering is adopted during English review of the main-body pages, change the glossary deliberately and update every affected translation file consistently.
 
 ## Recurring ethical / social terms
 
@@ -87,8 +87,8 @@ These are **provisional controlled headings**. If a better rendering is adopted 
 | வாழ்க்கைத் துணை | life partner / spouse | Use `life partner` in heading; `spouse` may suit prose. |
 | மனைவி | wife | Preserve source gender specificity. |
 | பிறன் மனைவி | another man's wife | Do not neutralize to `another's partner` in passages where the Tamil is explicit. |
-| ஊழ் | oozh / fate / consequence of conditions | When the source theorizes the term itself, retain `oozh`; Part 001 source-check confirms that the Foreword and Critical Appreciation should not be flattened to `fate`. |
-| இயற்கை நிலை | natural condition | Nannan states that Kalaignar gives this meaning to `ஊழ்`; source-check of scans 18–19 confirms that this is an attributed interpretation, not a project-wide definition of the Tamil word. |
+| ஊழ் | oozh / fate / consequence of conditions | When the source theorizes the term itself, retain `oozh`; Part 001 review confirms that the Foreword and Critical Appreciation should not be flattened to `fate`. |
+| இயற்கை நிலை | natural condition | Nannan states that Kalaignar gives this meaning to `ஊழ்`; Part 001 review confirms that this is an attributed interpretation, not a project-wide definition of the Tamil word. |
 | பகுத்தறிவு | rational inquiry; rationalism | Use `rationalist` for `பகுத்தறிவாளர்` where the source identifies Kalaignar as such. |
 | வருணம் | varna | Retain the social-category term where the source explicitly uses it. |
 | மநுவாதி | doctrine of Manu / Manu doctrine | Translate the polemical source meaning without importing external doctrinal detail. |
@@ -98,7 +98,7 @@ These are **provisional controlled headings**. If a better rendering is adopted 
 
 | Tamil | Current English | Editorial note |
 |---|---|---|
-| பிறிது மொழிதல் | *pirithu mozhithal* — saying one thing in order to convey another | Source-check of scan 20 retains the Tamil technical term and explanatory gloss. Do not substitute an external rhetorical label until the literary editorial review establishes that it fits the source usage. |
+| பிறிது மொழிதல் | *pirithu mozhithal* — saying one thing in order to convey another | Part 001 editorial review retains the Tamil technical term and explanatory gloss. Do not substitute an external rhetorical label without a later source-based project decision. |
 | உவமை | simile | Ordinary default. |
 | அடைமொழி | epithet / qualifying expression | Choose according to syntax; scan 20 discusses the explanatory force created by such qualifiers. |
 
@@ -106,9 +106,9 @@ These are **provisional controlled headings**. If a better rendering is adopted 
 
 | Tamil source form | Current treatment | Review note |
 |---|---|---|
-| திருவிடம் | Tiruvidam | Source-check of scan 10 confirms that the verified Tamil archival text reads `திருவிடம்`; retain **Tiruvidam** rather than silently normalizing it. Final semantic treatment remains for Part 001 editorial review. |
-| வாயுறை | counsel | Source-check found no source basis to replace this provisional scan-10 rendering; retain **counsel** for now and settle the poetic nuance during editorial review. |
-| அடுத்தூர்வது அஃதொப்பதில் | retained exactly in Tamil | The first-pass English expansion `to meet what comes upon us in like measure` was withdrawn during scan-19 source-check because the immediate audited source does not establish a sufficiently secure English expansion. Do not import an external Kural translation or commentary to force a reading during source-controlled review. |
+| திருவிடம் | Tiruvidam | Part 001 editorial review confirms deliberate retention because the verified Tamil archival text reads `திருவிடம்`. Do not silently normalize it to another Tamil form. |
+| வாயுறை | counsel | Part 001 editorial review retains **counsel** as the source-compatible scan-10 rendering. |
+| அடுத்தூர்வது அஃதொப்பதில் | retained exactly in Tamil | Part 001 editorial review confirms that the immediate audited source does not establish a sufficiently secure English expansion. The unresolved rendering is documented rather than guessed; do not import an external Kural translation or commentary to force a reading. |
 
 ## Names and established forms
 
