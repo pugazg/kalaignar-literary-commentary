@@ -6,10 +6,10 @@ printed_page: "16"
 work: "thirukkural"
 section: "அறம் — இல்லறவியல் — அன்புடைமை"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf"
-transcription_method: "first-pass direct visual transcription from source scan; source scan remains authoritative"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **76. அறத்திற்கே அன்புசார் பென்ப அறியார்  
