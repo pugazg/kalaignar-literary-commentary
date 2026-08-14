@@ -45,7 +45,7 @@ Part 001 has complete one-to-one English coverage:
 
 - page files: **20 / 20**
 - `source-checked`: **7** — scans 1–7
-- `source-limited`: **1** — scan 8
+- `source-limited`: **1** — scan 8; source-limited alignment check complete
 - `draft`: **12** — scans 9–20
 - `editorial-reviewed`: **0**
 - `release-ready`: **0**
@@ -54,7 +54,7 @@ Part 001 has complete one-to-one English coverage:
 
 The source-check of scans 1–7 found no translation-text changes necessary on scans 1–5. Scan 6 now uses **The Professor's Foreword** for `பேராசிரியரின் அணிந்துரை`. Scan 7's Preface was tightened to restore the source meaning of `நிறைவேற்றி மகிழ்`, `உண்மை நிலை`, and `இனமான ஏந்தல்` without importing external English wording.
 
-Scan 8 remains deliberately `source-limited`; the unreadable continuous handwriting is not reconstructed.
+Scan 8 has now completed its **source-limited alignment check** against the partial Tamil archival record. The heading, decorative divider, signature presence, date **27/12/2007**, bleed-through description and deliberate omission of unreadable handwriting all align. No translation-text correction was required. The page remains `source-limited` and the handwritten body is not reconstructed.
 
 ## Source-first rule
 
@@ -64,6 +64,6 @@ Scan 8 remains deliberately `source-limited`; the unreadable continuous handwrit
 
 ## அடுத்த செயல்
 
-Review English scan **8** against the partial Tamil archival record as a source-limited alignment check. Keep it `source-limited`; do not infer unreadable handwriting. Then continue the English source-check cycle with scans **9–12**.
+Source-check English scans **9–12**, covering `பேராசிரியரின் அணிந்துரை` / **The Professor's Foreword**. Compare each draft against the audited Tamil page, resolve source-sensitive translation choices only from the source, and promote to `source-checked` only after comparison. Editorial review remains a separate later stage.
 
 Tamil source intake can later continue from overall scan **63** only when a newly supplied scan itself confirms continuity after scan 62 / printed page 29 / Kural 145.
