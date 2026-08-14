@@ -40,8 +40,7 @@ Do not redo or renumber Part 001.
 Source: `திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf`
 
 - local PDF pages: **21**
-- overall scan range: **21–41**
-- page records: **21 / 21**
+- overall scans: **21–41**
 - `verified`: **21 / 21**
 - audit complete
 - release decision: **ARCHIVAL-READY**
@@ -53,67 +52,45 @@ Do not redo or renumber Part 002.
 
 Source: `திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf`
 
-### Source continuity
+### Final source range
 
 - local PDF pages: **21**
-- overall scan range: **42–62**
-- printed page range: **9–29**
-- Part 003 local page 1 / overall scan 42 visibly begins printed page **9**, directly after Part 002 scan 41 / printed page **8**.
-- Kural sequence continues directly: Part 002 ends at Kural **40**; Part 003 begins at Kural **41**.
-- supplied Part 003 reaches Kural **145** on printed page **29**.
+- overall scans: **42–62**
+- printed pages: **9–29**
+- Kural range: **41–145**
+- starts directly after Part 002 scan 41 / printed page 8 / Kural 40
+- ends at scan 62 / printed page 29 / Kural 145
 
-### Part 003 scan map
+### Chapter coverage
 
-- 42 / local 1 / printed 9 — `5. இல்வாழ்க்கை`, குறள் 41–45 — **verified**
-- 43 / local 2 / printed 10 — `5. இல்வாழ்க்கை`, குறள் 46–50 — **verified**
-- 44 / local 3 / printed 11 — `6. வாழ்க்கைத் துணைநலம்`, குறள் 51–55 — **verified**
-- 45 / local 4 / printed 12 — `6. வாழ்க்கைத் துணைநலம்`, குறள் 56–60 — **verified**
-- 46 / local 5 / printed 13 — `7. மக்கட்பேறு`, குறள் 61–65 — **verified**
-- 47 / local 6 / printed 14 — `7. மக்கட்பேறு`, குறள் 66–70 — **verified**
-- 48 / local 7 / printed 15 — `8. அன்புடைமை`, குறள் 71–75 — **verified**
-- 49 / local 8 / printed 16 — `8. அன்புடைமை`, குறள் 76–80 — **verified**
-- 50 / local 9 / printed 17 — `9. விருந்தோம்பல்`, குறள் 81–85 — **verified**
-- 51 / local 10 / printed 18 — `9. விருந்தோம்பல்`, குறள் 86–90 — **verified**
-- 52 / local 11 / printed 19 — `10. இனியவை கூறல்`, குறள் 91–95 — **verified**
-- 53 / local 12 / printed 20 — `10. இனியவை கூறல்`, குறள் 96–100 — **verified**
-- 54 / local 13 / printed 21 — `11. செய்ந்நன்றியறிதல்`, குறள் 101–105 — **verified**
-- 55 / local 14 / printed 22 — `11. செய்ந்நன்றியறிதல்`, குறள் 106–110 — **verified**
-- 56 / local 15 / printed 23 — `12. நடுவு நிலைமை`, குறள் 111–115 — **verified**
-- 57 / local 16 / printed 24 — `12. நடுவு நிலைமை`, குறள் 116–120 — **verified**
-- 58 / local 17 / printed 25 — `13. அடக்கம் உடைமை`, குறள் 121–125 — **verified**
-- 59 / local 18 / printed 26 — `13. அடக்கம் உடைமை`, குறள் 126–130 — **verified**
-- 60 / local 19 / printed 27 — `14. ஒழுக்கம் உடைமை`, குறள் 131–135 — **verified**
-- 61 / local 20 / printed 28 — `14. ஒழுக்கம் உடைமை`, குறள் 136–140 — **verified**
-- 62 / local 21 / printed 29 — `15. பிறனில் விழையாமை`, குறள் 141–145 — **verified**
+- `5. இல்வாழ்க்கை` — 41–50
+- `6. வாழ்க்கைத் துணைநலம்` — 51–60
+- `7. மக்கட்பேறு` — 61–70
+- `8. அன்புடைமை` — 71–80
+- `9. விருந்தோம்பல்` — 81–90
+- `10. இனியவை கூறல்` — 91–100
+- `11. செய்ந்நன்றியறிதல்` — 101–110
+- `12. நடுவு நிலைமை` — 111–120
+- `13. அடக்கம் உடைமை` — 121–130
+- `14. ஒழுக்கம் உடைமை` — 131–140
+- `15. பிறனில் விழையாமை` — 141–145 in this supplied part
 
-### Current Part 003 status
+### Final Part 003 state
 
-- page records created: **21 / 21**
-- `verified`: **21 / 21** — scans 42–62
+- page records: **21 / 21**
+- `verified`: **21 / 21**
 - `needs-review`: **0**
-- `not-started`: **0**
-- audit: pending
+- `partial`: **0**
+- `blocked`: **0**
+- all records use `transcription_method: "direct visual comparison with source scan"`
+- all three verification batches (42–48, 49–55, 56–62) matched the supplied scan; no source-text correction was required during Part 003 verification
+- audit complete
+- release decision: **ARCHIVAL-READY**
+- audit report: `works/thirukkural/AUDIT_PART_003.md`
 
-### Verification completed — scans 42–48
+Source-specific Kural spelling, word joins, spacing, punctuation, line breaks and Kalaignar commentary were retained rather than normalized or replaced from another edition.
 
-Direct visual comparison against the exact Part 003 source pages is complete for scans **42–48** / printed pages **9–15** / Kural **41–75**. All seven first-pass transcriptions matched the source; no text correction was required.
-
-### Verification completed — scans 49–55
-
-Direct visual comparison against the exact Part 003 source pages is complete for scans **49–55** / printed pages **16–22** / Kural **76–110**.
-
-- All seven first-pass transcriptions matched the source wording and Kalaignar commentary.
-- No text correction was required in this verification batch.
-- Source-specific forms were retained rather than normalized, including `என்பி லதனை`, `அன்பி லதனை`, `புறத்துறுப் பெல்லாம்`, `செல்விருந் தோம்பி`, `இணைத்துணைத் தென்பதொன் றில்லை`, `அகன்அமர்ந் தீதலின்`, `இன்சொ லினதே`, `துன்புறூஉம்`, `கனிஇருப்பக் காய்கவர்ந் தற்று`, `காலத்தி னாற்செய்த`, and `ஒன்றுநன் றுள்ளக் கெடும்`.
-
-### Verification completed — scans 56–62
-
-Direct visual comparison against the exact Part 003 source pages is complete for scans **56–62** / printed pages **23–29** / Kural **111–145**.
-
-- All seven first-pass transcriptions matched the source wording and Kalaignar commentary.
-- **No transcription correction was required in the final verification batch.**
-- Source-sensitive forms were retained exactly as printed, including `தகுதி யெனவொன்று`, `பாற்பட் டொழுகப்`, `கெடுவல்யான்`, `நடுவொரீஇ`, `அதனினூஉங்`, `சோகாப்பர்`, `ஒன்றானுந்`, `அழுக்கா றுடையான்கண்`, `ஒழுக்கத்தி னொல்கார்`, `ஏதம் படுபாக் கறிந்து`, `உலகத்தோ டொட்ட`, `தறம்பொருள் கண்டார்க ணில்`, and `எளிதென இல்லிறப்பான்`.
-- Verified records use `status: "verified"` and `transcription_method: "direct visual comparison with source scan"`.
+Do not redo or renumber Part 003.
 
 ## Files kept synchronized
 
@@ -121,21 +98,21 @@ Direct visual comparison against the exact Part 003 source pages is complete for
 - `works/thirukkural/indexes/page-map.md`
 - `works/thirukkural/README.md`
 - root `README.md`
+- `works/thirukkural/AUDIT_PART_003.md`
 - this `HANDOVER.md`
 
 ## Next exact activity
 
-Run the **Part 003 release/audit pass**.
+Continue only when the **next Thirukkural source PDF batch** is supplied.
 
-1. Confirm exactly one page record exists for each overall scan **42–62**.
-2. Confirm Part 003 local-page continuity **1–21**.
-3. Confirm printed-page continuity **9–29**.
-4. Confirm Kural continuity **41–145** and chapter boundaries from `இல்வாழ்க்கை` through the opening of `பிறனில் விழையாமை`.
-5. Confirm all 21 records are `verified` and use `transcription_method: "direct visual comparison with source scan"`.
-6. Confirm source filenames and page markers are consistent.
-7. Create `works/thirukkural/AUDIT_PART_003.md`.
-8. Record the formal Part 003 release decision and synchronize README / page map / metadata / handover accordingly.
+1. Inspect the actual next scan before creating metadata or page records.
+2. Confirm whether it directly follows overall scan **62** / printed page **29** / Kural **145**.
+3. Continue with overall scan **63** only if the source itself supports that sequence.
+4. Do not alter or renumber Parts 001–003.
+5. Preserve source-specific Tamil, Kural typography and Kalaignar commentary exactly as printed.
+6. Keep newly created pages `needs-review` until a separate direct visual-verification cycle is complete.
+7. Do not infer the total page count of the full book from the material supplied so far.
 
 ## Source authority rule
 
-The supplied scans remain the controlling source for this edition. Do not silently modernize, normalize, correct, reconstruct or improve Tamil. Apparent historical/typographical forms stay as printed unless rereading this exact scan supports a correction.
+The supplied scans remain the controlling source for this edition. Do not silently modernize, normalize, correct, reconstruct or improve Tamil. Apparent historical/typographical forms stay as printed unless rereading the exact controlling scan supports a correction.
