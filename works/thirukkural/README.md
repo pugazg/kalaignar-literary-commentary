@@ -62,31 +62,15 @@ Release decision: **RELEASE-READY**.
 
 The released Part 002 layer preserves Kalaignar's source-specific readings and Nannan's source-sensitive language rather than normalizing them toward external interpretations.
 
-### Part 003 English — FIRST PASS COMPLETE
+### Part 003 English — SOURCE-CHECK IN PROGRESS
 
 - Tamil scans **42–62**: audited / archival-ready
 - English pages: **21 / 21** — scans 42–62
-- `draft`: **21**
-- `source-checked`: **0**
-- current English coverage: Kural **41–145**
+- `source-checked`: **7** — scans 42–48
+- `draft`: **14** — scans 49–62
+- coverage: Kural **41–145**
 
-The complete first pass covers:
-
-- **Domestic Life**, Kural 41–50;
-- **The Worth of a Life Partner**, Kural 51–60;
-- **The Blessing of Children**, Kural 61–70;
-- **Love**, Kural 71–80;
-- **Hospitality**, Kural 81–90;
-- **Speaking Pleasant Words**, Kural 91–100;
-- **Gratitude for Help Received**, Kural 101–110;
-- **Impartiality**, Kural 111–120;
-- **Self-Control**, Kural 121–130;
-- **Good Conduct**, Kural 131–140;
-- the supplied beginning of **Not Desiring Another Man's Wife**, Kural 141–145.
-
-The final batch preserves source-sensitive language rather than modernizing it: Kalaignar's enemy/neighbour/friend explanation of impartiality, the balance image, the **imperishable fame / life itself dark** explanation for Kural 121, the Kural/commentary distinction between **seven lives** and protection **through all time** in Kural 126, the poison-in-milk image, **Aram waiting upon the path**, the explicit Brahmin and birth/lineage language in Kurals 133–134, and repeated **another man's wife** wording in Kurals 141–145.
-
-All of these are still first-pass choices and remain subject to direct source-check.
+The first source-check batch has directly compared Kural **41–75** and Kalaignar's commentary against the verified Tamil records. Kural 41 and Kural 43 were tightened so verse and commentary remain distinct; Kural 67 now preserves singular **son** in the Kural while Kalaignar's commentary retains **children**. Kalaignar-specific interpretations including **those without protection**, Kural 55's slave/rain reading, Kural 58's **new world**, and Kural 62's **seven times seven generations** explanation remain preserved.
 
 ## Source-first rule
 
@@ -96,8 +80,8 @@ All of these are still first-pass choices and remain subject to direct source-ch
 
 ## அடுத்த செயல்
 
-Begin the dedicated **Part 003 English source-check with scans 42–48**. Compare each English page directly with its verified Tamil source, correct only source-supported fidelity issues, and promote a page to `source-checked` only after the comparison is complete.
+Continue the dedicated **Part 003 English source-check with scans 49–55**, covering Kural **76–110**: completion of **Love**, **Hospitality**, **Speaking Pleasant Words**, and **Gratitude for Help Received**.
 
-Do not begin editorial consistency review until all **21/21** Part 003 pages have completed source-check.
+Compare every Kural and commentary paragraph against the verified Tamil record; correct only source-supported fidelity issues; preserve Kalaignar's language and interpretation; and promote only fully checked pages to `source-checked`. Do not begin editorial consistency review until all **21/21** Part 003 pages are source-checked.
 
 Tamil source intake can later continue from overall scan **63** only when a newly supplied scan itself confirms continuity after scan 62 / printed page 29 / Kural 145.
