@@ -41,89 +41,72 @@ Source: `திருக்குறள்_கலைஞர்_உரை_part_002
 
 - local PDF pages: **21**
 - overall scan range: **21–41**
-- source continuity confirmed: local page 1 / overall scan 21 is printed **xx**, directly after Part 001 scan 20 / printed **xix**
 - page records: **21 / 21**
 - `verified`: **21 / 21**
-- `needs-review`: **0**
-- `partial`: **0**
-- `blocked`: **0**
-- `not-started`: **0**
 - audit complete
 - release decision: **ARCHIVAL-READY**
 - audit report: `works/thirukkural/AUDIT_PART_002.md`
 
 Do not redo or renumber Part 002.
 
-### Part 002 scan map
+## Part 003
 
-- 21 / xx — மதிப்புரை: `ஈ. உரைக் குறள்`, `உ. இடைமிடை சொல்நலம்` — **verified**
-- 22 / xxi — `ஊ. தெளிவு`, `எ. சுருக்க விளக்கம்`, `ஏ. புதுப்பொருள்` — **verified**
-- 23 / xxii — புதுப்பொருள் continuation — **verified**
-- 24 / xxiii — `அய். புத்தம்புது விளக்கம்`, `ஒ. நுண்மாண் நுழைபுலம்` — **verified**
-- 25 / xxiv — நுண்மாண் நுழைபுலம் continuation / `6. நன்றி` — **verified**
-- 26 / xxv — `நன்றி` conclusion of மதிப்புரை — **verified**
-- 27 / xxvi* — `பதிப்புரை`, signed `பூம்புகார் பதிப்பகத்தார்` — **verified**
-- 28 / xxvii — `திருக்குறள் அதிகார அகர வரிசை` page 1 — **verified**
-- 29 / xxviii — same index page 2 — **verified**
-- 30 / xxix — `அதிகார அருஞ்சொற்பொருள் அகரவரிசை` page 1 — **verified**
-- 31 / xxx — same index page 2 — **verified**
-- 32 / xxxi* — `திருக்குறள் / கலைஞர் உரை / அறம்` title page — **verified**
-- 33 / — — blank verso with reverse-side bleed-through only — **verified**
-- 34 / 1 — `1. வழிபாடு`, குறள் 1–5 + Kalaignar commentary — **verified**
-- 35 / 2 — `1. வழிபாடு`, குறள் 6–10 + commentary — **verified**
-- 36 / 3 — `2. வான் சிறப்பு`, குறள் 11–15 + commentary — **verified**
-- 37 / 4 — `2. வான் சிறப்பு`, குறள் 16–20 + commentary — **verified**
-- 38 / 5 — `3. நீத்தார் பெருமை`, குறள் 21–25 + commentary — **verified**
-- 39 / 6 — `3. நீத்தார் பெருமை`, குறள் 26–30 + commentary — **verified**
-- 40 / 7 — `4. அறன் வலியுறுத்தல்`, குறள் 31–35 + commentary — **verified**
-- 41 / 8 — `4. அறன் வலியுறுத்தல்`, குறள் 36–40 + commentary — **verified**
+Source: `திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf`
 
-`*` `xxvi` and `xxxi` are supported by the same-source contents/sequence but the numeral is not visibly printed on those scans. This basis is explicitly documented in the relevant page records and in `AUDIT_PART_002.md`.
+### Source continuity
 
-## Part 002 audit result
+- local PDF pages: **21**
+- overall scan range: **42–62**
+- printed page range: **9–29**
+- Part 003 local page 1 / overall scan 42 visibly begins printed page **9**, directly after Part 002 scan 41 / printed page **8**.
+- Kural sequence also continues directly: Part 002 ends at Kural **40**; Part 003 begins at Kural **41**.
+- the supplied Part 003 file reaches Kural **145** on printed page **29**.
 
-The release audit confirmed:
+### Part 003 scan map
 
-1. exactly one page record for every overall scan **21–41**;
-2. continuous Part 002 local pages **1–21**;
-3. no missing or duplicate record in the Part 002 range;
-4. all 21 records are `verified` and use `transcription_method: "direct visual comparison with source scan"`;
-5. source filename and page markers are present/consistent;
-6. scan 27 (`xxvi`) and scan 32 (`xxxi`) remain explicitly source-supported pagination inferences, not visible numerals;
-7. scan 33 is a verified blank/bleed-through-only page;
-8. there is no unresolved Part 002 page.
+- 42 / local 1 / printed 9 — `5. இல்வாழ்க்கை`, குறள் 41–45 — **needs-review**
+- 43 / local 2 / printed 10 — `5. இல்வாழ்க்கை`, குறள் 46–50 — **needs-review**
+- 44 / local 3 / printed 11 — `6. வாழ்க்கைத் துணைநலம்`, குறள் 51–55 — **needs-review**
+- 45 / local 4 / printed 12 — `6. வாழ்க்கைத் துணைநலம்`, குறள் 56–60 — **needs-review**
+- 46 / local 5 / printed 13 — `7. மக்கட்பேறு`, குறள் 61–65 — **needs-review**
+- 47 / local 6 / printed 14 — `7. மக்கட்பேறு`, குறள் 66–70 — **needs-review**
+- 48 / local 7 / printed 15 — `8. அன்புடைமை`, குறள் 71–75 — **needs-review**
+- 49 / local 8 / printed 16 — `8. அன்புடைமை`, குறள் 76–80 — not-started
+- 50 / local 9 / printed 17 — `9. விருந்தோம்பல்`, குறள் 81–85 — not-started
+- 51 / local 10 / printed 18 — `9. விருந்தோம்பல்`, குறள் 86–90 — not-started
+- 52 / local 11 / printed 19 — `10. இனியவை கூறல்`, குறள் 91–95 — not-started
+- 53 / local 12 / printed 20 — `10. இனியவை கூறல்`, குறள் 96–100 — not-started
+- 54 / local 13 / printed 21 — `11. செய்ந்நன்றியறிதல்`, குறள் 101–105 — not-started
+- 55 / local 14 / printed 22 — `11. செய்ந்நன்றியறிதல்`, குறள் 106–110 — not-started
+- 56 / local 15 / printed 23 — `12. நடுவு நிலைமை`, குறள் 111–115 — not-started
+- 57 / local 16 / printed 24 — `12. நடுவு நிலைமை`, குறள் 116–120 — not-started
+- 58 / local 17 / printed 25 — `13. அடக்கம் உடைமை`, குறள் 121–125 — not-started
+- 59 / local 18 / printed 26 — `13. அடக்கம் உடைமை`, குறள் 126–130 — not-started
+- 60 / local 19 / printed 27 — `14. ஒழுக்கம் உடைமை`, குறள் 131–135 — not-started
+- 61 / local 20 / printed 28 — `14. ஒழுக்கம் உடைமை`, குறள் 136–140 — not-started
+- 62 / local 21 / printed 29 — `15. பிறனில் விழையாமை`, குறள் 141–145 — not-started
 
-## Verification summary
+### Current Part 003 status
 
-### Scans 21–27
+- page records created: **7 / 21** — scans 42–48
+- `needs-review`: **7**
+- `not-started`: **14**
+- `verified`: **0**
 
-- scans 21–26 matched the first-pass wording during final comparison.
-- source-sensitive forms were retained, including `நோக்கமிம்`, `ஏஎர்`, `ஆற்றேன்இந்`, `நோயைநோய்`, `தும்மினே னாக`, `புத்தேளிர்`, `நீரியைந் தன்னா ரகத்து`, `அய். புத்தம்புது விளக்கம்`, `அடுத்தூர்வது அஃதொப்ப தில்`, and `வேண்டாவாகும்`.
-- scan 27 corrections from the exact scan:
-  - `எந்நிலையையூட்டும்` → **`எந்நினைவையூட்டும்`**
-  - `உலக நிலையையூட்டுதல்` → **`உலக நினைவையூட்டுதல்`**
-  - source punctuation spacing restored; sign-off preserved as `- பூம்புகார் பதிப்பகத்தார்`.
+### Files created in the first Part 003 batch
 
-### Scans 28–33
+- `works/thirukkural/pages/0042-aram-ilvaazhkkai-01.md`
+- `works/thirukkural/pages/0043-aram-ilvaazhkkai-02.md`
+- `works/thirukkural/pages/0044-aram-vaazhkkaith-thunainalam-01.md`
+- `works/thirukkural/pages/0045-aram-vaazhkkaith-thunainalam-02.md`
+- `works/thirukkural/pages/0046-aram-makkatperu-01.md`
+- `works/thirukkural/pages/0047-aram-makkatperu-02.md`
+- `works/thirukkural/pages/0048-aram-anbudaimai-01.md`
 
-- both index sections were checked directly.
-- source-specific differences remain distinct: `உறுப்புநலன் அழிதல்` vs `உறுப்பு நலன் அழிதல்`; `செய்ந்நன்றியறிதல்` vs `செய்ந்நன்றி யறிதல்`; `நாணுத் துறவுரைத்தல்` vs `நாணுத்துறவு உரைத்தல்`.
-- non-source continuation headings previously added to scans 29 and 31 were removed.
-- scan 32 title text was confirmed; `xxxi` remains source-supported/inferred.
-- scan 33 was confirmed blank/current-page-text-free; reverse-side bleed-through is excluded.
+Each is intentionally first-pass only and uses `status: "needs-review"` plus the Part 003 local-page/source-page metadata. Do not promote any of them to `verified` until the later verification cycle.
 
-### Scans 34–41
+## Files kept synchronized
 
-Direct visual verification is complete for Kural **1–40** and Kalaignar's commentary.
-
-- scans 34–36 and 38–41 matched their first-pass wording.
-- source-specific Kural forms were retained, including `நீடுவாழ் வார்`, `வானின் றுலகம்`, `உள்நின் றுடற்றும்`, `சார்வாய்மற் றாங்கே`, `அகல்விசும்பு ளார்கோமான்`, `நாற்றமென றைந்தின்`, `அறவோர்மற் றெவ்வுயிர்க்கும்`, `அறத்தினூஉங்கு`, `அறத்தினூஉங்`, `அழுக்கா றவாவெகுளி`, `அறத்தா றிதுவென`, and `இன்பமற் றெல்லாம்`.
-- scan 37 commentary had one genuine first-pass error corrected from the exact scan:
-  - `ஒழுக்கமே கெட்டகடும்` → **`ஒழுக்கமே கெட்டுக்கூடும்`**
-
-## Files synchronized with Part 002 release
-
-- `works/thirukkural/AUDIT_PART_002.md`
 - `works/thirukkural/metadata/source.md`
 - `works/thirukkural/indexes/page-map.md`
 - `works/thirukkural/README.md`
@@ -132,20 +115,16 @@ Direct visual verification is complete for Kural **1–40** and Kalaignar's comm
 
 ## Next exact activity
 
-Wait for the **next Thirukkural source PDF batch**.
+Continue first-pass transcription for **Part 003 scans 49–55**.
 
-When it arrives:
-
-1. inspect the actual scan before creating metadata or page records;
-2. confirm continuity after overall scan **41** / printed page **8** from the source itself;
-3. continue at overall scan **42** only if the scan supports that sequence;
-4. do not alter or renumber Parts 001–002;
-5. preserve source-specific Kural wording, line breaks, spacing and Kalaignar commentary exactly as printed;
-6. keep new records `needs-review` until a separate direct visual-verification cycle;
-7. after the new part is complete, run the same release/audit process.
-
-The currently supplied material reaches overall scan **41** / printed page **8** only. It does **not** establish the full book's total scan-page count.
+1. scan 49 / printed 16 — finish `8. அன்புடைமை`, Kural 76–80.
+2. scans 50–51 / printed 17–18 — `9. விருந்தோம்பல்`, Kural 81–90.
+3. scans 52–53 / printed 19–20 — `10. இனியவை கூறல்`, Kural 91–100.
+4. scans 54–55 / printed 21–22 — `11. செய்ந்நன்றியறிதல்`, Kural 101–110.
+5. Preserve source-specific Kural spelling, spacing, line breaks, punctuation and Kalaignar commentary exactly as printed.
+6. Keep every new page `needs-review`.
+7. After scans 49–55, continue scans 56–62; only after all 21 Part 003 page records exist should the separate visual-verification cycle begin.
 
 ## Source authority rule
 
-The supplied scans remain the controlling source for this edition. Do not silently modernize, normalize, correct, reconstruct or improve Tamil. Apparent typographical/historical forms stay as printed unless rereading this exact scan supports a correction.
+The supplied scans remain the controlling source for this edition. Do not silently modernize, normalize, correct, reconstruct or improve Tamil. Apparent historical/typographical forms stay as printed unless rereading this exact scan supports a correction.
