@@ -6,7 +6,7 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Part 001 archival-ready; Part 002 **21/21 records complete, 7 verified / 14 needs-review** |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Part 001 archival-ready; Part 002 **21/21 records complete, 13 verified / 8 needs-review** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில மொழிபெயர்ப்பு | பின்னர் சேர்க்கப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -56,12 +56,12 @@ works/
 - local PDF pages: **21**
 - overall scans: **21–41**
 - page records: **21 / 21**
-- `verified`: **7** — scans 21–27
-- `needs-review`: **14** — scans 28–41
+- `verified`: **13** — scans 21–33
+- `needs-review`: **8** — scans 34–41
 - `not-started`: **0**
 
-The first Part 002 verification batch is complete. Scans 21–26 matched the first-pass transcription. Scan 27 (`பதிப்புரை`) required source-supported corrections, including `எந்நினைவையூட்டும்` and `உலக நினைவையூட்டுதல்`, plus restoration of the scan's punctuation spacing.
+The first two Part 002 verification batches are complete. Scans 21–27 cover the end of `மதிப்புரை` and `பதிப்புரை`; scans 28–33 cover both index sections, the `அறம்` title page, and the blank verso. Source-specific index differences were preserved instead of harmonized, and scan 33 was confirmed to contain only reverse-side bleed-through rather than current-page body text.
 
-Next activity: direct visual verification of **scans 28–33** — the two authority-index pages, two அருஞ்சொற்பொருள் index pages, the `அறம்` title page, and the blank verso. After that, verify scans 34–41 containing Kural 1–40 and Kalaignar's commentary.
+Next activity: direct visual verification of **scans 34–41**, containing Kural **1–40** and Kalaignar's commentary across `வழிபாடு`, `வான் சிறப்பு`, `நீத்தார் பெருமை`, and `அறன் வலியுறுத்தல்`. After that, create the Part 002 audit/release report.
 
 விரிவான நிலை: [`works/thirukkural/README.md`](works/thirukkural/README.md) மற்றும் [`works/thirukkural/indexes/page-map.md`](works/thirukkural/indexes/page-map.md).
