@@ -80,6 +80,36 @@ The release audit confirmed:
 - all 21 records `verified` with `transcription_method: "direct visual comparison with source scan"`;
 - no unresolved Part 003 page.
 
+## English project translation layer
+
+The English framework is now initialized at:
+
+`translations/en/`
+
+This English layer is explicitly a **project-created translation**, not a publisher/official English edition. The Tamil scans remain the ultimate authority, and the audited Tamil Markdown pages are the working translation basis.
+
+Created framework files:
+
+- [`translations/en/README.md`](translations/en/README.md)
+- [`translations/en/TRANSLATION_GUIDE.md`](translations/en/TRANSLATION_GUIDE.md)
+- [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md)
+- [`translations/en/TRANSLATION_STATUS.md`](translations/en/TRANSLATION_STATUS.md)
+
+Permanent cadence for each supplied Tamil PDF part:
+
+**Tamil transcription → visual verification → Tamil audit → English draft → source-check → editorial review → English release report.**
+
+We will therefore **not wait until the entire 1,330-Kural book has been supplied** before translating audited parts.
+
+### English status now
+
+- translation framework: **established**
+- Part 001 English pages: **0 / 20 created**
+- Part 002 English pages: **0 / 21 created**
+- Part 003 English pages: **0 / 21 created**
+
+Part 001 scan 8 will necessarily be `source-limited` because the controlling handwritten Tamil page is itself partial; no English reconstruction will be invented.
+
 ## Source-first rule
 
 > **ஸ்கேன் தான் controlling source. Markdown பாதுகாப்பு அடுக்கு; corrected edition அல்ல.**
@@ -88,6 +118,8 @@ The release audit confirmed:
 
 ## அடுத்த செயல்
 
-Continue only when the **next Thirukkural source PDF batch** is supplied. Inspect the scan itself first and continue from overall scan **63** only if it confirms continuity after scan 62 / printed page 29 / Kural 145.
+Begin the **Part 001 English first-pass translation** with scans **1–7**. Create one-to-one matching files under `translations/en/pages/`, mark them `draft`, translate only source-supported content, and do not promote them during the first-pass creation activity.
 
-விரிவான page-level நிலை: [`indexes/page-map.md`](indexes/page-map.md).
+Tamil source continuation remains ready for overall scan **63** whenever the next PDF is supplied and its source continuity is confirmed.
+
+விரிவான Tamil page-level நிலை: [`indexes/page-map.md`](indexes/page-map.md).
