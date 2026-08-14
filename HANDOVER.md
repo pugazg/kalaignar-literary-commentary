@@ -6,20 +6,7 @@
 
 ## Project scope
 
-Archive Kalaignar M. Karunanidhi's literary commentary works in source-faithful, page-by-page Markdown.
-
-Planned works:
-
-1. திருக்குறள் — கலைஞர் உரை
-2. திருக்குறள் — project-created English translation of Kalaignar's commentary
-3. சங்கத்தமிழ் — Tamil
-4. Sangatamil — published English translation when source is supplied
-5. குறளோவியம் — Tamil
-6. Kuraloviyam — published English translation when source is supplied
-
-Reference implementation: `pugazg/tolkappiyap-poonga`.
-
-Core rules: scan authority, one record per scan page, stable filenames, explicit review status, metadata/manifests, no silent normalization, and visible uncertainty.
+Archive Kalaignar M. Karunanidhi's literary commentary works in source-faithful, page-by-page Markdown, with a clearly separate project-created English translation layer where requested.
 
 # திருக்குறள் — Tamil archival state
 
@@ -32,7 +19,7 @@ Source: `திருக்குறள்_கலைஞர்_உரை_part_001
 - release decision: **ARCHIVAL-READY WITH ONE DOCUMENTED PARTIAL FACSIMILE**
 - `verified`: 19
 - `partial`: 1 — scan 8 handwritten facsimile
-- audit report: `works/thirukkural/AUDIT_PART_001.md`
+- audit: `works/thirukkural/AUDIT_PART_001.md`
 
 Do not redo or renumber Part 001.
 
@@ -44,7 +31,7 @@ Source: `திருக்குறள்_கலைஞர்_உரை_part_002
 - `verified`: **21 / 21**
 - audit complete
 - release decision: **ARCHIVAL-READY**
-- audit report: `works/thirukkural/AUDIT_PART_002.md`
+- audit: `works/thirukkural/AUDIT_PART_002.md`
 
 Do not redo or renumber Part 002.
 
@@ -58,9 +45,11 @@ Source: `திருக்குறள்_கலைஞர்_உரை_part_003
 - `verified`: **21 / 21**
 - audit complete
 - release decision: **ARCHIVAL-READY**
-- audit report: `works/thirukkural/AUDIT_PART_003.md`
+- audit: `works/thirukkural/AUDIT_PART_003.md`
 
 Do not redo or renumber Part 003.
+
+Tamil source intake can later continue from overall scan **63** only if the next supplied scan confirms continuity after scan 62 / printed page 29 / Kural 145.
 
 # English project translation
 
@@ -72,24 +61,20 @@ Permanent cadence:
 
 ## Translation identity
 
-The current English layer is a **project-created English translation**, not an official/publisher English edition.
-
-Every English page must carry:
+The current English layer is a **project-created English translation**, not an official/publisher English edition. Every English page must carry:
 
 ```yaml
 translation_type: "project_translation"
 ```
 
-If a published English edition is later supplied, archive it separately and do not overwrite the project translation.
+Authority order:
 
-## Translation authority
-
-1. supplied Tamil scan — ultimate authority;
-2. corresponding audited/verified Tamil page — working translation basis;
-3. English translation guide and controlled glossary;
+1. supplied Tamil scan;
+2. corresponding audited/verified Tamil page;
+3. English `TRANSLATION_GUIDE.md` and `GLOSSARY.md`;
 4. review notes.
 
-Do not silently import a web Kural, another Tamil edition, another commentator, or an existing English Kural translation.
+Do not silently import another Tamil edition, web Kural, another commentator, or an existing English Kural translation.
 
 ## English framework files
 
@@ -100,79 +85,73 @@ Do not silently import a web Kural, another Tamil edition, another commentator, 
 
 ## Part 001 English progress
 
-Aligned English records now exist for **scans 1–8**:
+Aligned English records now exist for **scans 1–12**:
 
-- `0001-cover.md` — draft
-- `0002-title-page.md` — draft
-- `0003-blank.md` — draft
-- `0004-publication-details.md` — draft
-- `0005-edition-details.md` — draft
-- `0006-contents.md` — draft
-- `0007-mugavurai.md` — draft
-- `0008-handwritten-note.md` — source-limited
+- scans 1–7 — `draft`;
+- scan 8 — `source-limited`;
+- scans 9–12 — `draft`.
 
 Current English counts:
 
-- page files: **8**
-- `draft`: **7**
+- page files: **12**
+- `draft`: **11**
+- `source-limited`: **1** — scan 8
 - `source-checked`: **0**
 - `editorial-reviewed`: **0**
 - `release-ready`: **0**
-- `source-limited`: **1** — scan 8
 - `blocked`: **0**
 
-No English source-check has yet been performed; first-pass creation and review remain separate.
+No English source-check has yet been performed. First-pass creation and review remain separate stages.
 
-### Preface translation decisions established
+### Scans 9–12 — completed first-pass batch
 
-The scan 7 draft preserves Kalaignar's distinction between:
+Created:
 
-- `கடவுள் வாழ்த்து` → `Invocation to God` when translating the source title he discusses;
-- `வழிபாடு` → `Worship` for the title Kalaignar says he adopted.
+- `translations/en/pages/0009-aninthurai-01.md`
+- `translations/en/pages/0010-aninthurai-02.md`
+- `translations/en/pages/0011-aninthurai-03.md`
+- `translations/en/pages/0012-aninthurai-04.md`
 
-### Scan 8 — source-limited English record
+These translate `பேராசிரியரின் அணிந்துரை` / **The Professor's Foreword** by K. Anbazhagan. All four use `status: "draft"` and preserve the poem-like line structure, quotations, rhetorical repetition and source-supported emphasis.
 
-The Tamil archival record `works/thirukkural/pages/0008-handwritten-note.md` remains intentionally `partial` after high-resolution source review.
+Source-sensitive decisions deliberately left reviewable:
 
-The aligned English record:
+- `முப்பால்` → **Muppaal** provisionally;
+- `திருவிடம்` → **Tiruvidam** because that is the verified source form; scan 10 carries a translation note instead of silently normalizing it;
+- `ஊழ்` → **oozh** in the foreword's explicit discussion of the term;
+- `வாயுறை` → **counsel** provisionally, flagged in the glossary for source-check review;
+- Periyar, Anna and K. Anbazhagan retained in established source-supported English forms.
 
-`works/thirukkural/translations/en/pages/0008-handwritten-note.md`
+The controlled glossary has been expanded for these terms.
 
-uses `status: "source-limited"` and translates only securely established content.
+### Scan 8 — source-limited
 
-Established English content includes:
+`translations/en/pages/0008-handwritten-note.md` remains `source-limited`. It translates only securely established heading/date/signature/page-condition information; the unreadable continuous handwriting is not reconstructed.
 
-- heading: **“An Introduction to the Preface!”**;
-- decorative divider presence;
-- Kalaignar's signature presence;
-- clearly readable date **27/12/2007**;
-- factual note that reverse-side bleed-through is not current-page handwriting.
+## Files synchronized after scans 9–12
 
-The continuous handwritten body remains untranslated because the controlling Tamil source does not support a reliable transcription. Do not reconstruct it unless a clearer scan/facsimile is supplied.
-
-## Files synchronized after scan 8
-
-- `works/thirukkural/translations/en/pages/0008-handwritten-note.md`
-- `works/thirukkural/translations/en/TRANSLATION_STATUS.md`
-- `works/thirukkural/translations/en/README.md`
-- `works/thirukkural/README.md`
-- this `HANDOVER.md`
+- four new English page drafts `0009`–`0012`;
+- `works/thirukkural/translations/en/TRANSLATION_STATUS.md`;
+- `works/thirukkural/translations/en/README.md`;
+- `works/thirukkural/translations/en/GLOSSARY.md`;
+- `works/thirukkural/README.md`;
+- root `README.md`;
+- this `HANDOVER.md`.
 
 # Next exact activity
 
-Continue Part 001 English first-pass translation with **scans 9–12**, `பேராசிரியரின் அணிந்துரை`.
+Continue Part 001 English first-pass translation with **scans 13–20**, covering `மதிப்புரை` / Critical Appreciation and the remaining literary-analysis front matter.
 
-1. Fetch Tamil page files `0009-aninthurai-01.md` through `0012-aninthurai-04.md`.
-2. Create exact matching filenames under `works/thirukkural/translations/en/pages/`.
-3. Use `translation_type: "project_translation"`.
-4. Use `status: "draft"` for all four new pages.
+1. Fetch Tamil page files `0013-mathippurai-01.md` through `0020-mathippurai-paa-nalam.md`.
+2. Inspect their exact headings, quotations, Kural citations and paragraph structure before translating.
+3. Create exact matching filenames under `works/thirukkural/translations/en/pages/`.
+4. Use `translation_type: "project_translation"` and `status: "draft"`.
 5. Translate only audited Tamil source content.
-6. Preserve the poem-like line structure, repetitions, quotations, names and emphasis as closely as natural English permits.
-7. Do not normalize unusual Tamil source forms before translating.
-8. Do not perform source-check/editorial promotion in the same activity.
-9. Update translation status, translation README, work README and this handover after the batch.
-
-Tamil source intake can continue later from overall scan **63** when the next PDF is supplied and its continuity after scan 62 / printed page 29 / Kural 145 is confirmed.
+6. Preserve source Kural quotations/citations without substituting familiar English Kural translations.
+7. Preserve analytical headings and distinctions rather than harmonizing terminology prematurely.
+8. Add concise translation notes only where a source-specific form materially affects interpretation.
+9. Do not source-check or editorially promote these pages in the same activity.
+10. After all scans 13–20 drafts exist, update translation status/README/work README/handover. The next stage after that will be the separate Part 001 English source-check pass.
 
 ## Source authority rule
 
