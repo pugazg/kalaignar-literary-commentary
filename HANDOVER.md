@@ -41,80 +41,64 @@ Every English page must retain `translation_type: "project_translation"`.
 
 Binding Part 002 source-fidelity decisions remain in force, including **Aadhi Bhagavan**, *iraivan*, *anthanar*, Kalaignar's Kural-25 Indra reading, Kural 12 **the food they drink**, Kural 20's conduct warning, Kural 34 **clamour**, Kural 38's path-and-stone image, Nannan's ***puththelir* / new world**, and **“the low-priced edition of the people's hearts.”**
 
-# Part 003 English — SOURCE-CHECK IN PROGRESS
+# Part 003 English — SOURCE-CHECK COMPLETE
 
 Tamil source: `திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf`
 
 Current English state:
 
 - aligned English records: **21 / 21** — scans 42–62;
-- `source-checked`: **14** — scans 42–55;
-- `draft`: **7** — scans 56–62;
+- `source-checked`: **21** — scans 42–62;
+- `draft`: **0**;
 - `editorial-reviewed`: **0**;
 - `release-ready`: **0**.
 
-## Source-checked files — scans 42–55
+## Source-check coverage
 
-- `0042-aram-ilvaazhkkai-01.md` — Kural 41–45
-- `0043-aram-ilvaazhkkai-02.md` — Kural 46–50
-- `0044-aram-vaazhkkaith-thunainalam-01.md` — Kural 51–55
-- `0045-aram-vaazhkkaith-thunainalam-02.md` — Kural 56–60
-- `0046-aram-makkatperu-01.md` — Kural 61–65
-- `0047-aram-makkatperu-02.md` — Kural 66–70
-- `0048-aram-anbudaimai-01.md` — Kural 71–75
-- `0049-aram-anbudaimai-02.md` — Kural 76–80
-- `0050-aram-virundhombal-01.md` — Kural 81–85
-- `0051-aram-virundhombal-02.md` — Kural 86–90
-- `0052-aram-iniyavai-kooral-01.md` — Kural 91–95
-- `0053-aram-iniyavai-kooral-02.md` — Kural 96–100
-- `0054-aram-seynnandriyarithal-01.md` — Kural 101–105
-- `0055-aram-seynnandriyarithal-02.md` — Kural 106–110
+- `0042-aram-ilvaazhkkai-01.md` through `0062-aram-piranil-vizhaiyaamai-01.md` are all `status: "source-checked"`.
+- coverage: Kural **41–145**.
 
-## Source-check decisions from scans 49–55
+## Binding source-check decisions to carry into editorial review
 
-- **Kural 77** — retain Kalaignar's **conscience** explanation while keeping the Kural's sun-scorching image.
-- **Kural 78** — the Kural was tightened to **hard barren ground**; Kalaignar's commentary separately retains his **desert** image.
-- **Kural 83** — retain the already released Part 002 wording exactly.
-- **Kural 85** — retain Kalaignar's seed-for-hospitality interpretation.
-- **Kural 86** — retain **heaven of fame**.
-- **Kural 87** — retain hospitality as **sacrifice** tied to the guest's distinction.
-- **Kural 90** — retain the **anicham flower** and slight-frown explanation.
-- **Kural 91** — tightened `செம்பொருள்` toward **truth** rather than the first-pass “true meaning”.
-- **Kural 94** and **Kural 98** — retain the already released Part 002 wording exactly.
-- **Kural 95** — commentary corrected to **humble quality** instead of “restrained quality”.
-- **Kural 101** — retain **“a great gem that came unbidden”** and Kalaignar's unbidden-help explanation.
-- **Kural 103** — the Kural was tightened so it no longer imports Kalaignar's explicit **love** motive; that motive remains in the commentary.
-- **Kural 104** — retain millet / palmyra imagery and the palmyra's many-uses explanation.
-- **Kural 107** — keep the verse compact; Kalaignar's commentary explicitly supplies **seven times seven generations / births** and says remembrance has **no time limit**.
-- **Kural 110** — follow Kalaignar's own aram/help distinction, not an external interpretation.
+Earlier decisions remain active, including Kural 42 **those without protection**, Kural 55's slave/rain interpretation, Kural 58 **new world**, Kural 62 **seven births** versus **seven times seven generations**, Kural 67 singular **son** versus broader **children**, Kural 77 **conscience**, Kural 78 verse **hard barren ground** versus commentary **desert**, Kural 85 seed-for-hospitality, Kural 86 **heaven of fame**, Kural 87 hospitality as **sacrifice**, Kural 90 **anicham flower**, Kural 101 **“a great gem that came unbidden”**, Kural 104 millet/palmyra, and Kural 107 seven-times-seven/no-time-limit.
+
+Final-batch decisions:
+
+- **Kural 111** — keep Kalaignar's **enemy / neighbour / friend** explanation in commentary; do not force that list into the verse.
+- **Kural 112** — use **wealth**, aligned with Kalaignar's `செல்வம்` explanation.
+- **Kural 117** — verse uses **low state / decline**; commentary separately retains poverty caused by wealth not accumulating.
+- **Kural 118** — retain balance / needle and justice imagery.
+- **Kural 121** — keep verse deathless/deep-darkness imagery distinct from commentary **imperishable fame / life itself dark**.
+- **Kural 126** — keep **seven lives** in the verse distinct from protection **through all time** in commentary.
+- **Kural 128** — retain **drop of poison in a pot of milk**.
+- **Kural 130** — retain **Aram waiting upon the path**.
+- **Kural 132** — verse no longer imports the commentary's explicit hardship/suffering clause.
+- **Kural 135** — no added **true** before prosperity.
+- **Kural 136** — use **those of firm mind**, aligned with Kalaignar's prose.
+- **Kurals 133–134** — preserve explicit birth/lineage and **Brahmin** wording; do not neutralize the source.
+- **Kural 140** — verse remains **live in accord with the world**; commentary separately explains conduct **accepted by the great**.
+- **Kural 141** — verse says those who have **discerned aram and wealth**; commentary separately expands this to works on aram and works on wealth.
+- **Kurals 141–145** — preserve repeated **another man's wife** wording and Kural 143's living-man-as-**corpse** image.
 
 No editorial consistency review has begun.
 
 # Next exact activity
 
-Complete the dedicated **Part 003 English source-check with scans 56–62**.
+Begin the dedicated **Part 003 English editorial-consistency / glossary-reconciliation review across scans 42–62**.
 
-1. Fetch current `TRANSLATION_GUIDE.md`, `GLOSSARY.md`, `TRANSLATION_STATUS.md`, the verified Tamil files for scans 56–62 and their English drafts.
-2. Compare each Kural directly with the verified Tamil while preserving number and two-line structure.
-3. Compare Kalaignar's commentary paragraph-by-paragraph for omissions, additions, softened social language, or imported conventional readings.
-4. Preserve already queued source-sensitive choices, especially:
-   - Kural 111 enemy / neighbour / friend framing;
-   - Kural 115 rise / decline as worldly nature;
-   - Kural 117 poverty while remaining on the path of aram and impartiality;
-   - Kural 118 balance / needle image;
-   - Kural 121 **imperishable fame / life itself dark** distinction;
-   - Kural 126 **seven lives** in the verse versus protection **through all time** in Kalaignar's commentary;
-   - Kural 128 **drop of poison in a pot of milk**;
-   - Kural 130 **Aram waiting upon the path**;
-   - Kurals 133–134 explicit birth / lineage and **Brahmin** language;
-   - Kural 140 verse/commentary distinction around conduct accepted by the great;
-   - Kurals 141–145 repeated **another man's wife** wording and Kural 143's living-man-as-**corpse** image.
-5. Correct only source-supported fidelity issues.
-6. Promote each checked page to `status: "source-checked"`.
-7. Synchronize status, READMEs and this handover.
-8. Do **not** begin editorial consistency review in the same activity.
+1. Fetch current `TRANSLATION_GUIDE.md`, `GLOSSARY.md`, `TRANSLATION_STATUS.md`, and all 21 source-checked Part 003 English pages.
+2. Review chapter headings 5–15 for consistency with the controlled glossary.
+3. Reconcile recurring concepts such as `அறம்`, `அன்பு`, `நன்றி`, `நடுவுநிலைமை`, `அடக்கம்`, `ஒழுக்கம்`, and source-specific relationship/gender terms without flattening contextual differences.
+4. Verify repeated Kural wording against already released occurrences where applicable.
+5. Review punctuation, quotation handling, pronouns, singular/plural choices, transliterated terms, and verse/commentary separation.
+6. Preserve all source-check decisions above unless a deliberate, source-supported editorial change is documented.
+7. Create `works/thirukkural/translations/en/reviews/PART_003_REVIEW.md` documenting review decisions.
+8. Update `GLOSSARY.md` only for genuinely controlled recurring decisions.
+9. Promote all qualifying Part 003 pages to `status: "editorial-reviewed"` after the review is complete.
+10. Synchronize status, READMEs and this handover.
+11. Do **not** create the Part 003 release report or promote pages to `release-ready` in the same activity.
 
-After scans **56–62** are source-checked, Part 003 source-check will be **21/21 complete**. The following activity is the dedicated Part 003 editorial-consistency / glossary-reconciliation review.
+After the editorial-consistency review, the following activity is the separate **Part 003 English release gate**.
 
 ## Source authority rule
 
