@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Alphabetical Index of Chapters — 2"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -49,6 +49,6 @@ translation_basis: "verified Tamil archival transcription; controlling scan rema
 | Fame | 24 | Avoiding Terrorizing Acts | 57 |
 | Joy of Union | 111 |  |  |
 
-> Source-check note: entry order and chapter numbers were checked against the verified Tamil index. Two first-pass titles were brought closer to this edition's own glossary on scan 31: `புல்லறிவாண்மை` is **Possession of Little Understanding** rather than **Petty-Minded Ignorance**, and `நெஞ்சொடு புலத்தல்` is **Sulking with the Heart** rather than **Quarrelling with the Heart**. `வரைவின் மகளிர்` remains provisionally **Women Beyond Bounds** at title level, while the source's own gloss on scan 31 remains separately translated as **Women for hire**. No external chapter-title list is used.
+> Editorial review note: entry order and chapter numbers remain source-controlled. `புல்லறிவாண்மை` stays **Possession of Little Understanding** and `நெஞ்சொடு புலத்தல்` stays **Sulking with the Heart**, in line with this edition's own explanatory glossary. `வரைவின் மகளிர்` remains **Women Beyond Bounds** as the title-level project rendering, while the source's separate gloss remains **Women for hire**; the distinction is intentional and no external conventional title is substituted.
 
 <!-- Source scan page: 29; Part 002 local page: 9; printed page: xxviii -->
