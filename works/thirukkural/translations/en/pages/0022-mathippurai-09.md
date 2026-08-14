@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Critical Appreciation — Various Distinctive Merits"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -32,11 +32,11 @@ As an example of concise explanation:
 **1317. When I sneezed she blessed me; then she wept, asking,  
 “Thinking of whom did you sneeze?”**
 
-I sneezed; as is customary, she blessed me. At once, seized by some suspicion, she asked, “Because who was thinking of you did you sneeze?” and, contrary to the blessing she had first offered, began to cry—we may observe and enjoy this as well.
+I sneezed; as is customary, she blessed me. At once, seized by some suspicion, she asked, “Who was thinking of you that made you sneeze?” and, contrary to the blessing she had first offered, began to cry—we may observe and enjoy this as well.
 
 ## H. New Meaning
 
-The following passages bear witness to the innovation that does not depart from fidelity which Kalaignar found in assigning meanings to difficult words.
+The following passages bear witness to Kalaignar's innovation, without departure from fidelity, in assigning meanings to difficult words.
 
 **98. Sweet speech free from pettiness  
 brings joy both in this life and after it.**
