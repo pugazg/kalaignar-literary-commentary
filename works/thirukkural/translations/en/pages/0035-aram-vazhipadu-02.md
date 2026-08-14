@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Prefatory Chapters — Worship"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -21,10 +21,10 @@ it is hard to dispel mental anguish.**
 
 There is no way for the mental anguish of others to be relieved except for those who walk in the footsteps of one who has neither equal nor superior.
 
-**8. Except for those who follow the feet of the `anthanar`, an ocean of aram,  
+**8. Except for those who follow the feet of the *anthanar*, an ocean of aram,  
 it is hard to cross the other seas.**
 
-Since `anthanar` means worthy people, only those who walk in the footsteps of such worthy people, who are themselves an ocean of aram, can cross the other seas of suffering with ease; for others it is no easy task.
+Since *anthanar* means worthy people, only those who walk in the footsteps of such worthy people, who are themselves an ocean of aram, can cross the other seas of suffering with ease; for others it is no easy task.
 
 **9. A head that does not bow to the feet of one endowed with eight qualities  
 is like sense-organs that exist but have no function.**
@@ -36,6 +36,6 @@ those who do not follow will struggle and fail to cross.**
 
 Those who set out to swim across the great sea called life will be left struggling, unable to cross, if they do not continue in the footsteps of the one who stands foremost.
 
-> Source-check note: Kural 8 retains `அந்தணர்` as `anthanar` in the verse because Kalaignar himself immediately defines the term as **worthy people** (`சான்றோர்`). Kural 10 follows Kalaignar's explicit reading of `பிறவிப் பெருங்கடல்` as **the great sea called life** and `இறைவன்` as **the one who stands foremost**. These readings are preserved rather than replaced with conventional external interpretations.
+> Editorial review note: Kural 8 retains `அந்தணர்` as *anthanar* because Kalaignar himself immediately defines the term as **worthy people** (`சான்றோர்`). Kural 10 follows Kalaignar's explicit reading of `பிறவிப் பெருங்கடல்` as **the great sea called life** and `இறைவன்` as **the one who stands foremost**. These source-specific readings are retained rather than replaced with conventional external interpretations.
 
 <!-- Source scan page: 35; Part 002 local page: 15; printed page: 2 -->
