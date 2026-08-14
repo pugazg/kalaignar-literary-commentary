@@ -48,22 +48,19 @@ Permanent cadence:
 - page files: **20 / 20**
 - `release-ready`: **19** — scans 1–7 and 9–20
 - `source-limited`: **1** — scan 8
-- `editorial-reviewed`: **0**
-- `source-checked`: **0**
-- `draft`: **0**
-- `blocked`: **0**
 
 Release decision: **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**.
 
-Scan 8 remains deliberately `source-limited`; its unreadable continuous handwriting is not reconstructed. Scan 19 deliberately retains `அடுத்தூர்வது அஃதொப்பதில்` in Tamil with a translation note because the audited source does not establish a sufficiently secure English expansion. The scan-20 Kural examples 1101, 1098 and 17 remain project translations grounded in this archived Tamil source and Kalaignar's adjacent explanations; no published English Kural wording was substituted.
-
-Part 001 controlled terminology includes **Muppaal**, source-specific **Tiruvidam**, **Oozh / oozh**, `வாயுறை` → **counsel**, `பெண்வழிச் சேறல்` → **Following a Woman's Lead**, ***pirithu mozhithal***, and the reviewed scan-20 literary headings.
-
-#### Part 002
+#### Part 002 — FIRST PASS IN PROGRESS
 
 - Tamil scans **21–41**: audited / archival-ready
-- English pages: **0 / 21**
-- next English batch: scans **21–27**
+- English pages: **7 / 21**
+- `draft`: **7** — scans 21–27
+- source-check/editorial/release: not yet started
+
+Scans **21–26** complete Professor Ma. Nannan's `மதிப்புரை` / **Critical Appreciation** in first-pass English; scan **27** is the **Publisher's Note**. New Part 002 draft terminology is recorded in the controlled glossary.
+
+Review-sensitive items remain deliberately visible: scan 25 now contains the complete Kural with `அடுத்தூர்வது அஃதொப்பதில்` and a provisional English rendering that must be source-checked before any Part 001 cross-reference is changed; scan 26 retains `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு` with a contextual gloss; scan 27 preserves inferred printed page **xxvi** with its basis documented.
 
 #### Part 003
 
@@ -78,11 +75,13 @@ Part 001 controlled terminology includes **Muppaal**, source-specific **Tiruvida
 
 ## அடுத்த செயல்
 
-Begin Part 002 English first-pass translation with overall scans **21–27**:
+Continue Part 002 English first-pass translation with overall scans **28–33**:
 
-- scans 21–26 — `மதிப்புரை` / **Critical Appreciation** continuation and completion;
-- scan 27 — `பதிப்புரை` / **Publisher's Note**.
+- scans 28–29 — `திருக்குறள் அதிகார அகர வரிசை` / **Alphabetical Index of Chapters**;
+- scans 30–31 — `அதிகார அருஞ்சொற்பொருள் அகரவரிசை` / **Alphabetical Glossary of Chapter Terms**;
+- scan 32 — `திருக்குறள் / கலைஞர் உரை / அறம்` section title;
+- scan 33 — blank / reverse-side bleed-through.
 
-Create matching English records under `translations/en/pages/` with `status: "draft"`. Continue the Part 001 controlled glossary and add or revise terminology only when the audited Part 002 source requires it.
+Create matching English records under `translations/en/pages/` with `status: "draft"`. Preserve source ordering, numbering, pagination notes and blank-page status exactly. Do not begin Kural 1–40 until scans 28–33 are complete.
 
 Tamil source intake can later continue from overall scan **63** only when a newly supplied scan itself confirms continuity after scan 62 / printed page 29 / Kural 145.
