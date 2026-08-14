@@ -59,18 +59,18 @@ Source: `திருக்குறள்_கலைஞர்_உரை_part_003
 - overall scan range: **42–62**
 - printed page range: **9–29**
 - Part 003 local page 1 / overall scan 42 visibly begins printed page **9**, directly after Part 002 scan 41 / printed page **8**.
-- Kural sequence also continues directly: Part 002 ends at Kural **40**; Part 003 begins at Kural **41**.
-- the supplied Part 003 file reaches Kural **145** on printed page **29**.
+- Kural sequence continues directly: Part 002 ends at Kural **40**; Part 003 begins at Kural **41**.
+- supplied Part 003 reaches Kural **145** on printed page **29**.
 
 ### Part 003 scan map
 
-- 42 / local 1 / printed 9 — `5. இல்வாழ்க்கை`, குறள் 41–45 — **needs-review**
-- 43 / local 2 / printed 10 — `5. இல்வாழ்க்கை`, குறள் 46–50 — **needs-review**
-- 44 / local 3 / printed 11 — `6. வாழ்க்கைத் துணைநலம்`, குறள் 51–55 — **needs-review**
-- 45 / local 4 / printed 12 — `6. வாழ்க்கைத் துணைநலம்`, குறள் 56–60 — **needs-review**
-- 46 / local 5 / printed 13 — `7. மக்கட்பேறு`, குறள் 61–65 — **needs-review**
-- 47 / local 6 / printed 14 — `7. மக்கட்பேறு`, குறள் 66–70 — **needs-review**
-- 48 / local 7 / printed 15 — `8. அன்புடைமை`, குறள் 71–75 — **needs-review**
+- 42 / local 1 / printed 9 — `5. இல்வாழ்க்கை`, குறள் 41–45 — **verified**
+- 43 / local 2 / printed 10 — `5. இல்வாழ்க்கை`, குறள் 46–50 — **verified**
+- 44 / local 3 / printed 11 — `6. வாழ்க்கைத் துணைநலம்`, குறள் 51–55 — **verified**
+- 45 / local 4 / printed 12 — `6. வாழ்க்கைத் துணைநலம்`, குறள் 56–60 — **verified**
+- 46 / local 5 / printed 13 — `7. மக்கட்பேறு`, குறள் 61–65 — **verified**
+- 47 / local 6 / printed 14 — `7. மக்கட்பேறு`, குறள் 66–70 — **verified**
+- 48 / local 7 / printed 15 — `8. அன்புடைமை`, குறள் 71–75 — **verified**
 - 49 / local 8 / printed 16 — `8. அன்புடைமை`, குறள் 76–80 — **needs-review**
 - 50 / local 9 / printed 17 — `9. விருந்தோம்பல்`, குறள் 81–85 — **needs-review**
 - 51 / local 10 / printed 18 — `9. விருந்தோம்பல்`, குறள் 86–90 — **needs-review**
@@ -89,43 +89,18 @@ Source: `திருக்குறள்_கலைஞர்_உரை_part_003
 ### Current Part 003 status
 
 - page records created: **21 / 21**
-- `needs-review`: **21**
+- `verified`: **7** — scans 42–48
+- `needs-review`: **14** — scans 49–62
 - `not-started`: **0**
-- `verified`: **0**
 
-### Part 003 files created
+### Verification completed — scans 42–48
 
-First batch:
+Direct visual comparison against the exact Part 003 source pages is complete for scans **42–48** / printed pages **9–15** / Kural **41–75**.
 
-- `works/thirukkural/pages/0042-aram-ilvaazhkkai-01.md`
-- `works/thirukkural/pages/0043-aram-ilvaazhkkai-02.md`
-- `works/thirukkural/pages/0044-aram-vaazhkkaith-thunainalam-01.md`
-- `works/thirukkural/pages/0045-aram-vaazhkkaith-thunainalam-02.md`
-- `works/thirukkural/pages/0046-aram-makkatperu-01.md`
-- `works/thirukkural/pages/0047-aram-makkatperu-02.md`
-- `works/thirukkural/pages/0048-aram-anbudaimai-01.md`
-
-Second batch:
-
-- `works/thirukkural/pages/0049-aram-anbudaimai-02.md`
-- `works/thirukkural/pages/0050-aram-virundhombal-01.md`
-- `works/thirukkural/pages/0051-aram-virundhombal-02.md`
-- `works/thirukkural/pages/0052-aram-iniyavai-kooral-01.md`
-- `works/thirukkural/pages/0053-aram-iniyavai-kooral-02.md`
-- `works/thirukkural/pages/0054-aram-seynnandriyarithal-01.md`
-- `works/thirukkural/pages/0055-aram-seynnandriyarithal-02.md`
-
-Final first-pass batch:
-
-- `works/thirukkural/pages/0056-aram-naduvu-nilaimai-01.md`
-- `works/thirukkural/pages/0057-aram-naduvu-nilaimai-02.md`
-- `works/thirukkural/pages/0058-aram-adakkam-udaimai-01.md`
-- `works/thirukkural/pages/0059-aram-adakkam-udaimai-02.md`
-- `works/thirukkural/pages/0060-aram-ozhukkam-udaimai-01.md`
-- `works/thirukkural/pages/0061-aram-ozhukkam-udaimai-02.md`
-- `works/thirukkural/pages/0062-aram-piranil-vizhaiyaamai-01.md`
-
-Every Part 003 file is intentionally first-pass only and uses `status: "needs-review"` plus Part 003 local-page/source-page metadata. Do not promote any Part 003 page to `verified` until the separate visual-verification cycle.
+- All seven first-pass transcriptions matched the source wording and commentary.
+- No text correction was required in this verification batch.
+- Source-specific spelling, joins, spacing and punctuation were retained, including forms such as `போஒய்ப்`, `திண்மைஉண் டாகப்`, `பெற்றாற் பெறின்பெறுவர்`, `மக்கட்பே றல்ல`, `குழலினி தியாழினி`, `அன்போ டியைந்த`, and `அன்புற் றமர்ந்த`.
+- The verified records now use `status: "verified"` and `transcription_method: "direct visual comparison with source scan"`.
 
 ## Files kept synchronized
 
@@ -137,14 +112,18 @@ Every Part 003 file is intentionally first-pass only and uses `status: "needs-re
 
 ## Next exact activity
 
-Begin the separate direct visual-verification cycle for **Part 003 scans 42–48**.
+Continue the separate direct visual-verification cycle for **Part 003 scans 49–55**.
 
-1. Compare scans 42–48 character-by-character against their first-pass Markdown records.
-2. Preserve source-specific Kural spelling, spacing, line breaks, punctuation and Kalaignar commentary exactly as printed.
-3. Correct only differences supported by this exact scan.
-4. Change a page to `status: "verified"` and `transcription_method: "direct visual comparison with source scan"` only after that page's comparison is complete.
-5. After scans 42–48, continue verification in later batches until all scans 42–62 are reviewed.
-6. Create `AUDIT_PART_003.md` only after the complete verification cycle.
+1. scan 49 / printed 16 — `8. அன்புடைமை`, Kural 76–80.
+2. scans 50–51 / printed 17–18 — `9. விருந்தோம்பல்`, Kural 81–90.
+3. scans 52–53 / printed 19–20 — `10. இனியவை கூறல்`, Kural 91–100.
+4. scans 54–55 / printed 21–22 — `11. செய்ந்நன்றியறிதல்`, Kural 101–110.
+5. Compare character-by-character against the exact scan.
+6. Preserve source-specific spelling, spacing, line breaks, punctuation and Kalaignar commentary exactly as printed.
+7. Correct only source-supported differences.
+8. Promote each page to `verified` only after its comparison is complete.
+9. After scans 49–55, continue verification with scans 56–62.
+10. Create `AUDIT_PART_003.md` only after all Part 003 pages have completed direct visual verification.
 
 ## Source authority rule
 
