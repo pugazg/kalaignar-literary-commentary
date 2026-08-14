@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Edition / price / rights / printer"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -14,10 +14,10 @@ translation_basis: "verified Tamil archival transcription; controlling scan rema
 **Price: Rs. 180/-**
 
 Publication No.: 700  
-First Edition: December, 2007  
+First Edition: December 2007  
 Second Edition: March 2010  
 Rights: With the commentator  
-P. C. No. : 98152J11
+P. C. No.: 98152J11
 
 Printers: Eagle Press, Chennai - 600 013.
 
