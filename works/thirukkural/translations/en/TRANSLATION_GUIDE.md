@@ -280,8 +280,10 @@ If the user later supplies a published English translation of this same work:
 
 Published English versions of other works such as `Sangatamil` or `Kuraloviyam` likewise retain their own source authority and must not be treated as project translations.
 
-## 19. Current starting point
+## 19. Current workflow point
 
-Tamil Parts 001–003 are audited and ready to serve as the translation basis.
+Tamil Parts 001–003 are audited and archival-ready for the supplied material.
 
-The first English production activity is **Part 001 scans 1–7**. Create matching English page files as `draft`; scan 8 will be handled separately as `source-limited`.
+English Parts 001–002 have completed their release gates. Part 003 has completed first-pass translation, direct source-check, and editorial-consistency / glossary-reconciliation review for all **21 / 21** supplied pages, covering Kural **41–145**.
+
+The next activity is the separate **Part 003 English release gate**. Create the part-level release report and promote pages to `release-ready` only if that gate passes. Do not treat editorial review alone as release approval.
