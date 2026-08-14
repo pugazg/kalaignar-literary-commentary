@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–003 audited / archival-ready for supplied material |
-| Thirukkural — Kalaignar's Commentary | English project translation | Part 001 **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS** |
+| Thirukkural — Kalaignar's Commentary | English project translation | Part 001 released; Part 002 **7/21 drafts complete** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -49,10 +49,6 @@ Permanent cadence:
 - aligned English page files: **20 / 20**
 - `release-ready`: **19** — scans 1–7 and 9–20
 - `source-limited`: **1** — scan 8
-- `editorial-reviewed`: **0**
-- `source-checked`: **0**
-- `draft`: **0**
-- `blocked`: **0**
 
 Release decision: **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**.
 
@@ -61,14 +57,20 @@ Review artefacts:
 - [`works/thirukkural/translations/en/reviews/PART_001_REVIEW.md`](works/thirukkural/translations/en/reviews/PART_001_REVIEW.md)
 - [`works/thirukkural/translations/en/reviews/PART_001_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_001_RELEASE_REPORT.md)
 
-Scan 8 remains `source-limited` because its handwritten body is not securely readable. Scan 19's `அடுத்தூர்வது அஃதொப்பதில்` remains explicitly documented in Tamil rather than being given an insecure English expansion. The scan-20 Kural examples remain project translations based on this archived Tamil edition; no published English Kural wording was substituted.
+### Part 002 English — FIRST PASS IN PROGRESS
 
-### Part 002 English
+- aligned English page files: **7 / 21**
+- `draft`: **7** — scans 21–27
+- source-check/editorial/release: not yet started
 
-Not yet started. Tamil scans **21–41** are already audited / archival-ready. The next English batch is scans **21–27**, covering the remaining **Critical Appreciation** pages and the **Publisher's Note**.
+Scans **21–26** complete Professor Ma. Nannan's **Critical Appreciation** in first-pass English, and scan **27** contains the **Publisher's Note**. The controlled glossary has been extended for the new analytical headings and source-sensitive terms.
+
+Review-sensitive items remain explicit rather than silently resolved: scan 25 now provides the complete quoted Kural containing `அடுத்தூர்வது அஃதொப்பதில்`, with a provisional Part 002 English rendering pending source-check; scan 26 retains `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு` with a contextual gloss; scan 27 records printed page **xxvi** as a same-source pagination inference because the numeral is not visibly printed.
 
 ### Part 003 English
 
 Not yet started. Tamil scans **42–62** are already audited / archival-ready.
+
+Next English activity: continue **Part 002 scans 28–33**, covering the alphabetical chapter index, chapter-term glossary index, `அறம்` title page, and blank verso. Kural 1–40 translation begins only after those six records are complete.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md) and [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md).
