@@ -44,17 +44,19 @@ Permanent cadence:
 Part 001 has complete one-to-one English coverage:
 
 - page files: **20 / 20**
-- `source-checked`: **7** — scans 1–7
+- `source-checked`: **11** — scans 1–7 and 9–12
 - `source-limited`: **1** — scan 8; source-limited alignment check complete
-- `draft`: **12** — scans 9–20
+- `draft`: **8** — scans 13–20
 - `editorial-reviewed`: **0**
 - `release-ready`: **0**
 - Part 002 English pages: **0 / 21**
 - Part 003 English pages: **0 / 21**
 
-The source-check of scans 1–7 found no translation-text changes necessary on scans 1–5. Scan 6 now uses **The Professor's Foreword** for `பேராசிரியரின் அணிந்துரை`. Scan 7's Preface was tightened to restore the source meaning of `நிறைவேற்றி மகிழ்`, `உண்மை நிலை`, and `இனமான ஏந்தல்` without importing external English wording.
+Scans **9–12**, K. Anbazhagan's `பேராசிரியரின் அணிந்துரை` / **The Professor's Foreword**, have completed source-check. Scan 9 received one fidelity tightening for `சிறப்பொவ்வா செய்தொழில் வேற்றுமையான்`; scan 10 clarified the reference to the ten commentators and retains the verified source form `திருவிடம்` as **Tiruvidam**. Scans 11–12 required no translation-text correction.
 
-Scan 8 has now completed its **source-limited alignment check** against the partial Tamil archival record. The heading, decorative divider, signature presence, date **27/12/2007**, bleed-through description and deliberate omission of unreadable handwriting all align. No translation-text correction was required. The page remains `source-limited` and the handwritten body is not reconstructed.
+Review-sensitive terms **Muppaal**, **Tiruvidam**, **oozh**, and provisional `வாயுறை` → **counsel** remain visible for the later editorial-consistency stage rather than being silently normalized.
+
+Scan 8 remains deliberately `source-limited`; the unreadable continuous handwriting is not reconstructed.
 
 ## Source-first rule
 
@@ -64,6 +66,6 @@ Scan 8 has now completed its **source-limited alignment check** against the part
 
 ## அடுத்த செயல்
 
-Source-check English scans **9–12**, covering `பேராசிரியரின் அணிந்துரை` / **The Professor's Foreword**. Compare each draft against the audited Tamil page, resolve source-sensitive translation choices only from the source, and promote to `source-checked` only after comparison. Editorial review remains a separate later stage.
+Source-check English scans **13–20**, covering Professor Ma. Nannan's `மதிப்புரை` / **Critical Appreciation**. Compare each draft against the audited Tamil page, recheck the review-sensitive terms and quoted Kural examples, and promote pages to `source-checked` only after comparison. Editorial review remains a separate later stage.
 
 Tamil source intake can later continue from overall scan **63** only when a newly supplied scan itself confirms continuity after scan 62 / printed page 29 / Kural 145.
