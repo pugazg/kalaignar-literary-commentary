@@ -6,7 +6,7 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Part 001 archival-ready — 19 verified + 1 reviewed partial |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Part 001 archival-ready; Part 002 processing started through scan 27 |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில மொழிபெயர்ப்பு | பின்னர் சேர்க்கப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -38,22 +38,34 @@ works/
 
 ## தற்போதைய நிலை — திருக்குறள்
 
-முதல் கிடைத்த ஸ்கேன் தொகுதி: `திருக்குறள்_கலைஞர்_உரை_part_001_pages_1-20.pdf` — **20 ஸ்கேன் பக்கங்கள்**.
+### Part 001
 
-- 20 / 20 page records உருவாக்கப்பட்டுள்ளன.
+`திருக்குறள்_கலைஞர்_உரை_part_001_pages_1-20.pdf`
+
+- overall scans: **1–20**
+- page records: **20 / 20**
 - `verified`: **19**
-- `needs-review`: **0**
-- `partial`: **1** — scan 8 handwritten facsimile; high-resolution review complete
-- duplicate / missing page records: **0**
+- `partial`: **1** — scan 8 handwritten facsimile
+- release decision: **ARCHIVAL-READY WITH ONE DOCUMENTED PARTIAL FACSIMILE**
+- audit: [`works/thirukkural/AUDIT_PART_001.md`](works/thirukkural/AUDIT_PART_001.md)
 
-Part 001 release/audit pass முடிந்தது. தீர்மானம்:
+### Part 002
 
-**ARCHIVAL-READY WITH ONE DOCUMENTED PARTIAL FACSIMILE**
+`திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf`
 
-Scan 8 unprocessed page அல்ல. தலைப்பு, கையொப்பம், `27/12/2007` தேதி உறுதியாகப் பதிவாகியுள்ளன; body handwriting கிடைத்த scan quality-ல் source-faithful ஆக முழுமையாக வாசிக்க முடியாததால் அது திட்டமிட்டு `partial` ஆக வைக்கப்பட்டுள்ளது.
+- local PDF pages: **21**
+- overall scans: **21–41**
+- source continuity confirmed: overall scan 21 is printed page **xx**, directly after Part 001 scan 20 / printed page **xix**
+- page records created so far: **7 / 21** — scans 21–27
+- these seven records are first-pass and remain `needs-review`
+- remaining `not-started`: **14** — scans 28–41
 
-Audit report: [`works/thirukkural/AUDIT_PART_001.md`](works/thirukkural/AUDIT_PART_001.md).
+Completed in the current Part 002 startup round:
 
-அடுத்த செயல்: **அடுத்த Thirukkural source PDF batch** கிடைக்கும் போது தொடருதல்; அல்லது scan 8-ன் தெளிவான facsimile கிடைத்தால் அந்தப் பக்கத்தை மட்டும் மீண்டும் திறத்தல்.
+- scans 21–26 — completion of பேராசிரியர் மா. நன்னன்'s `மதிப்புரை`
+- scan 27 — `பதிப்புரை`, signed `பூம்புகார் பதிப்பகத்தார்`
+- source metadata, page map, work README, and handover updated for the new batch
+
+Next activity: **scans 28–33** — two `திருக்குறள் அதிகார அகர வரிசை` pages, two `அதிகார அருஞ்சொற்பொருள் அகரவரிசை` pages, the `அறம்` section-title page, and the blank verso. After that, begin scans 34–41 containing Kural 1–40 and Kalaignar's commentary.
 
 விரிவான நிலை: [`works/thirukkural/README.md`](works/thirukkural/README.md) மற்றும் [`works/thirukkural/indexes/page-map.md`](works/thirukkural/indexes/page-map.md).
