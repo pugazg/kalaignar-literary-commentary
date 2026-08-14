@@ -6,10 +6,10 @@ printed_page: "3"
 work: "thirukkural"
 section: "அறம் — பாயிரம் — வான் சிறப்பு"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf"
-transcription_method: "first-pass direct visual transcription from source scan; source scan remains authoritative"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 # 2. வான் சிறப்பு
