@@ -12,15 +12,15 @@
 
 | Tamil part | Overall scans | Tamil state | English state |
 |---|---:|---|---|
-| Part 001 | 1–20 | archival-ready; scan 8 documented partial | **20/20 aligned English records created: 19 drafts + 1 source-limited** |
+| Part 001 | 1–20 | archival-ready; scan 8 documented partial | **20/20 aligned English records; source-check in progress** |
 | Part 002 | 21–41 | archival-ready | not started |
 | Part 003 | 42–62 | archival-ready | not started |
 
 ## Current English counts
 
 - English page files: **20**
-- `draft`: **19** — scans 1–7 and 9–20
-- `source-checked`: **0**
+- `draft`: **12** — scans 9–20
+- `source-checked`: **7** — scans 1–7
 - `editorial-reviewed`: **0**
 - `release-ready`: **0**
 - `source-limited`: **1** — scan 8 handwritten facsimile
@@ -28,43 +28,36 @@
 
 ## Part 001 first-pass status — COMPLETE
 
-The one-to-one English first-pass layer now exists for every Part 001 scan.
+A one-to-one English record exists for every Part 001 scan. Scan 8 is deliberately `source-limited`; all other pages received first-pass English drafts.
 
-### Scans 1–7
+## Source-check completed — scans 1–7
 
-Cover, title page, blank-page record, publication details, edition details, contents, and Kalaignar's Preface are present as `draft` English records.
+Scans **1–7** have now been compared line-by-line / paragraph-by-paragraph against their audited Tamil archival pages and promoted from `draft` to `source-checked`.
 
-### Scan 8
+### Result
 
-`0008-handwritten-note.md` remains `source-limited` because the controlling Tamil archival record is itself `partial`. Only securely established source elements are represented; the unreadable continuous handwriting is not reconstructed.
+- scans 1–5: no translation-text correction required; metadata/status updated after comparison;
+- scan 6: the contents entry `பேராசிரியரின் அணிந்துரை` was tightened from `Professor's Foreword` to **`The Professor's Foreword`** to match the controlled source title;
+- scan 7 / Kalaignar's Preface: source-check resolved three fidelity points:
+  - `நிறைவேற்றி மகிழ்` is now represented by **“Having fulfilled that desire, to my joy”** rather than leaving the joy element implicit;
+  - `உண்மை நிலை` is rendered as **“the fact”** rather than the weaker first-pass phrase “the factual possibility”;
+  - `இனமான ஏந்தல்` is represented more fully as **“standard-bearer of the dignity of our people.”**
 
-### Scans 9–12 — The Professor's Foreword
+The Preface continues to preserve Kalaignar's explicit distinction between `கடவுள் வாழ்த்து` (**Invocation to God**) and his adopted title `வழிபாடு` (**Worship**).
 
-All four pages of `பேராசிரியரின் அணிந்துரை` / **The Professor's Foreword** by K. Anbazhagan are present as `draft` records. The poem-like line structure, quotations and emphasis are preserved.
+No page in this batch has undergone the later editorial-consistency review.
 
-Review-sensitive choices remain deliberately visible, including **Muppaal**, **Tiruvidam**, **oozh**, and the provisional rendering of `வாயுறை` as `counsel`.
+## Scan 8
 
-### Scans 13–20 — Critical Appreciation
+`0008-handwritten-note.md` remains `source-limited` because the Tamil archival source itself is partial. Its alignment must be reviewed as a **source-limited check**, not promoted to `source-checked` as though the continuous handwriting had been translated.
 
-All eight remaining Part 001 pages are now present as `draft` records:
+## Remaining Part 001 source-check work
 
-- scans 13–14 — `தேவை` / **Need**;
-- scan 15 — `வழிபாடு` / **Worship**;
-- scans 16–17 — `பெண்வழிச் சேறல்` / **Following a Woman's Lead**;
-- scans 18–19 — `ஊழ்` / **Oozh**;
-- scans 19–20 — `பல்வகைச் சிறப்புகள்` / **Various Distinctive Merits**, including poetic/literary examples.
-
-Source Kural citations on scan 20 were translated afresh from the audited Tamil source and Kalaignar's adjacent explanation; no existing published English Kural translation was imported.
-
-Review-sensitive choices introduced in this batch include:
-
-- `பெண்வழிச் சேறல்` → **Following a Woman's Lead** provisionally;
-- `ஊழ்` retained as **Oozh**, with Nannan's source explanation rendered as **natural condition**;
-- `பிறிது மொழிதல்` retained as ***pirithu mozhithal*** with the gloss “saying one thing in order to convey another”;
-- the quoted phrase `அடுத்தூர்வது அஃதொப்பதில்` rendered provisionally as **“to meet what comes upon us in like measure”** for dedicated source-check review;
-- `பா நலம்`, `அணி நலம்`, `அடை நலம்` rendered provisionally as **Poetic Quality**, **Excellence of Poetic Figure**, and **Excellence of Epithets**.
-
-No English page has yet completed the separate source-check or editorial-review stages.
+1. review scan 8's English `source-limited` record against the partial Tamil archival record;
+2. source-check scans 9–12 — The Professor's Foreword;
+3. source-check scans 13–20 — Critical Appreciation;
+4. run Part 001 editorial consistency/glossary reconciliation;
+5. create the Part 001 English review/release artefacts and promote eligible pages only after that review.
 
 ## Part 002 plan
 
@@ -91,15 +84,10 @@ For every newly supplied Tamil PDF after Part 003:
 
 ## Next exact activity
 
-Begin the separate **Part 001 English source-check cycle with scans 1–7**.
+Review **Part 001 scan 8** as a source-limited English alignment check.
 
-For each page:
-
-1. compare the English record line-by-line / paragraph-by-paragraph with its audited Tamil page;
-2. check for omissions, additions, meaning drift, heading errors and metadata mismatch;
-3. resolve only source-supported translation issues;
-4. retain project-translation identity;
-5. promote a page from `draft` to `source-checked` only after that comparison is complete;
-6. do not perform the later editorial-consistency promotion in the same activity.
-
-After scans 1–7 are source-checked, review scan 8's source-limited alignment separately, then continue source-checking scans 9–12 and 13–20.
+- compare the English record only with content securely established in the partial Tamil archival record;
+- confirm heading, date, signature/page-condition description and omission of unreadable handwriting;
+- do not reconstruct the handwritten body;
+- keep `status: "source-limited"` unless a clearer controlling source is supplied;
+- after that, continue the source-check cycle with scans **9–12**.
