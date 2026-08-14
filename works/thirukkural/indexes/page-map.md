@@ -95,31 +95,18 @@ The attachment contains **21 local PDF pages**. Local page 1 is overall scan **4
 | 61 | 20 | 28 | `14. ஒழுக்கம் உடைமை` — குறள் 136–140 | verified | `pages/0061-aram-ozhukkam-udaimai-02.md` |
 | 62 | 21 | 29 | `15. பிறனில் விழையாமை` — குறள் 141–145 | verified | `pages/0062-aram-piranil-vizhaiyaamai-01.md` |
 
-### Part 003 current status
+### Part 003 final status
 
 - page records: **21 / 21**
 - `verified`: **21 / 21** — scans 42–62
 - `needs-review`: **0**
-- `not-started`: **0**
-- audit: pending
+- `partial`: **0**
+- `blocked`: **0**
+- audit: [`../AUDIT_PART_003.md`](../AUDIT_PART_003.md)
+- release decision: **ARCHIVAL-READY**
 
-### Verification completed — scans 42–48
-
-Direct visual comparison is complete for Kural **41–75** and Kalaignar's commentary. The first-pass text matched the scan; no transcription corrections were required.
-
-### Verification completed — scans 49–55
-
-Direct visual comparison is complete for Kural **76–110** and Kalaignar's commentary, covering the remainder of `அன்புடைமை`, `விருந்தோம்பல்`, `இனியவை கூறல்`, and `செய்ந்நன்றியறிதல்`. The first-pass text matched the scan; no transcription corrections were required.
-
-### Verification completed — scans 56–62
-
-Direct visual comparison is complete for Kural **111–145** and Kalaignar's commentary, covering `நடுவு நிலைமை`, `அடக்கம் உடைமை`, `ஒழுக்கம் உடைமை`, and the beginning of `பிறனில் விழையாமை`. The first-pass text matched the scan; no transcription corrections were required.
-
-Verified Part 003 records use:
-
-- `status: "verified"`
-- `transcription_method: "direct visual comparison with source scan"`
+Direct visual comparison is complete for Kural **41–145** and Kalaignar's commentary. The three verification batches (42–48, 49–55, 56–62) all matched the supplied scan; no source-text correction was required during the Part 003 verification cycle.
 
 ## அடுத்த செயல்
 
-Run the **Part 003 release/audit pass**. Confirm page-record uniqueness and continuity, local pages 1–21, printed pages 9–29, Kural 41–145, and verified metadata consistency; then create `AUDIT_PART_003.md` and record the Part 003 release decision.
+Continue only when the **next Thirukkural source PDF batch** is supplied. Inspect the actual source first and continue with overall scan **63** only if the scan itself confirms continuity after scan 62 / printed page 29 / Kural 145.
