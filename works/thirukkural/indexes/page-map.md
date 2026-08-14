@@ -92,13 +92,13 @@ The attachment contains **21 local PDF pages**. Local page 1 is overall scan **4
 | 46 | 5 | 13 | `7. மக்கட்பேறு` — குறள் 61–65 | needs-review | `pages/0046-aram-makkatperu-01.md` |
 | 47 | 6 | 14 | `7. மக்கட்பேறு` — குறள் 66–70 | needs-review | `pages/0047-aram-makkatperu-02.md` |
 | 48 | 7 | 15 | `8. அன்புடைமை` — குறள் 71–75 | needs-review | `pages/0048-aram-anbudaimai-01.md` |
-| 49 | 8 | 16 | `8. அன்புடைமை` — குறள் 76–80 | not-started | planned `pages/0049-aram-anbudaimai-02.md` |
-| 50 | 9 | 17 | `9. விருந்தோம்பல்` — குறள் 81–85 | not-started | planned `pages/0050-aram-virundhombal-01.md` |
-| 51 | 10 | 18 | `9. விருந்தோம்பல்` — குறள் 86–90 | not-started | planned `pages/0051-aram-virundhombal-02.md` |
-| 52 | 11 | 19 | `10. இனியவை கூறல்` — குறள் 91–95 | not-started | planned `pages/0052-aram-iniyavai-kooral-01.md` |
-| 53 | 12 | 20 | `10. இனியவை கூறல்` — குறள் 96–100 | not-started | planned `pages/0053-aram-iniyavai-kooral-02.md` |
-| 54 | 13 | 21 | `11. செய்ந்நன்றியறிதல்` — குறள் 101–105 | not-started | planned `pages/0054-aram-seynnandriyarithal-01.md` |
-| 55 | 14 | 22 | `11. செய்ந்நன்றியறிதல்` — குறள் 106–110 | not-started | planned `pages/0055-aram-seynnandriyarithal-02.md` |
+| 49 | 8 | 16 | `8. அன்புடைமை` — குறள் 76–80 | needs-review | `pages/0049-aram-anbudaimai-02.md` |
+| 50 | 9 | 17 | `9. விருந்தோம்பல்` — குறள் 81–85 | needs-review | `pages/0050-aram-virundhombal-01.md` |
+| 51 | 10 | 18 | `9. விருந்தோம்பல்` — குறள் 86–90 | needs-review | `pages/0051-aram-virundhombal-02.md` |
+| 52 | 11 | 19 | `10. இனியவை கூறல்` — குறள் 91–95 | needs-review | `pages/0052-aram-iniyavai-kooral-01.md` |
+| 53 | 12 | 20 | `10. இனியவை கூறல்` — குறள் 96–100 | needs-review | `pages/0053-aram-iniyavai-kooral-02.md` |
+| 54 | 13 | 21 | `11. செய்ந்நன்றியறிதல்` — குறள் 101–105 | needs-review | `pages/0054-aram-seynnandriyarithal-01.md` |
+| 55 | 14 | 22 | `11. செய்ந்நன்றியறிதல்` — குறள் 106–110 | needs-review | `pages/0055-aram-seynnandriyarithal-02.md` |
 | 56 | 15 | 23 | `12. நடுவு நிலைமை` — குறள் 111–115 | not-started | planned `pages/0056-aram-naduvu-nilaimai-01.md` |
 | 57 | 16 | 24 | `12. நடுவு நிலைமை` — குறள் 116–120 | not-started | planned `pages/0057-aram-naduvu-nilaimai-02.md` |
 | 58 | 17 | 25 | `13. அடக்கம் உடைமை` — குறள் 121–125 | not-started | planned `pages/0058-aram-adakkam-udaimai-01.md` |
@@ -113,9 +113,9 @@ The attachment contains **21 local PDF pages**. Local page 1 is overall scan **4
 - overall scan range: **42–62**
 - printed pages: **9–29**
 - Kural range: **41–145**
-- page records created: **7 / 21** — scans 42–48
-- `needs-review`: **7** — scans 42–48
-- `not-started`: **14** — scans 49–62
+- page records created: **14 / 21** — scans 42–55
+- `needs-review`: **14** — scans 42–55
+- `not-started`: **7** — scans 56–62
 - `verified`: **0**
 
 ### Source observations
@@ -127,10 +127,10 @@ The attachment contains **21 local PDF pages**. Local page 1 is overall scan **4
 
 ## அடுத்த செயல்
 
-Continue Part 003 first-pass transcription with scans **49–55**:
+Finish the Part 003 first pass with scans **56–62**:
 
-1. scan 49 / printed 16 — `அன்புடைமை`, குறள் 76–80;
-2. scans 50–51 / printed 17–18 — `விருந்தோம்பல்`, குறள் 81–90;
-3. scans 52–53 / printed 19–20 — `இனியவை கூறல்`, குறள் 91–100;
-4. scans 54–55 / printed 21–22 — `செய்ந்நன்றியறிதல்`, குறள் 101–110;
-5. keep all first-pass records `needs-review` until a later direct visual-verification cycle.
+1. scans 56–57 / printed 23–24 — `12. நடுவு நிலைமை`, குறள் 111–120;
+2. scans 58–59 / printed 25–26 — `13. அடக்கம் உடைமை`, குறள் 121–130;
+3. scans 60–61 / printed 27–28 — `14. ஒழுக்கம் உடைமை`, குறள் 131–140;
+4. scan 62 / printed 29 — begin `15. பிறனில் விழையாமை`, குறள் 141–145;
+5. keep all first-pass records `needs-review` until the separate direct visual-verification cycle.
