@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–003 audited / archival-ready for supplied material |
-| Thirukkural — Kalaignar's Commentary | English project translation | Part 001 **12/20 aligned records created** |
+| Thirukkural — Kalaignar's Commentary | English project translation | Part 001 **20/20 aligned records created; source-check pending** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -77,15 +77,15 @@ Permanent cadence:
 
 Current English production status:
 
-- English page files: **12**
-- `draft`: **11** — Part 001 scans 1–7 and 9–12
+- English page files: **20** — complete one-to-one Part 001 coverage
+- `draft`: **19** — scans 1–7 and 9–20
 - `source-limited`: **1** — scan 8 handwritten facsimile
 - `source-checked`: **0**
 - `editorial-reviewed`: **0**
 - `release-ready`: **0**
 
-Scans **9–12** now contain the first-pass translation of K. Anbazhagan's `பேராசிரியரின் அணிந்துரை` / **The Professor's Foreword**. The poetic line structure is retained. Source-sensitive terms such as **Muppaal**, **Tiruvidam**, and **oozh** remain explicitly reviewable rather than being silently normalized.
+Part 001 first-pass English translation is now complete. Scans 13–20 contain Professor Ma. Nannan's **Critical Appreciation**, including the discussions of Need, Worship, Following a Woman's Lead, Oozh, and literary merits. Source-sensitive terms remain explicitly provisional in the controlled glossary rather than being silently normalized.
 
-Next English activity: create Part 001 first-pass `draft` translations for **scans 13–20**, covering `மதிப்புரை` / Critical Appreciation and related literary-analysis front matter.
+Next English activity: begin the dedicated **Part 001 source-check cycle with scans 1–7**. Review and status promotion will remain separate from later editorial-consistency review.
 
 விரிவான நிலை: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), மற்றும் [`works/thirukkural/indexes/page-map.md`](works/thirukkural/indexes/page-map.md).
