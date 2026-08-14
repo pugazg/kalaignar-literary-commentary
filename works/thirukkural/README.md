@@ -14,7 +14,7 @@ The supplied Tamil archive currently reaches overall scan **62** / printed page 
 
 ## Tamil archival state
 
-- Part 001: **20/20 records; 19 verified + scan 8 documented partial; archival-ready with one documented partial facsimile**.
+- Part 001: **20/20 records; 19 verified + scan 8 documented partial**.
 - Part 002: **21/21 verified; ARCHIVAL-READY**.
 - Part 003: **21/21 verified; ARCHIVAL-READY**.
 
@@ -41,39 +41,35 @@ Permanent cadence:
 
 **Tamil transcription → visual verification → Tamil audit → English draft → source-check → editorial review → English release report.**
 
-### English status now
-
-#### Part 001 — RELEASE COMPLETE
+### Part 001 English — RELEASE COMPLETE
 
 - page files: **20 / 20**
-- `release-ready`: **19** — scans 1–7 and 9–20
+- `release-ready`: **19**
 - `source-limited`: **1** — scan 8
 
 Release decision: **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**.
 
-#### Part 002 — FIRST PASS IN PROGRESS
+### Part 002 English — FIRST PASS COMPLETE
 
 - Tamil scans **21–41**: audited / archival-ready
-- English pages: **13 / 21**
-- `draft`: **13** — scans 21–33
-- source-check/editorial/release: not yet started
+- English page files: **21 / 21**
+- `draft`: **21**
+- source-check/editorial/release: not yet completed
 
-Completed first-pass English now covers:
+First-pass English now covers all Part 002 material, including front matter, indexes, the Aram title page, blank verso, and Kural **1–40** with Kalaignar's commentary.
 
-- scans 21–26 — Professor Ma. Nannan's `மதிப்புரை` / **Critical Appreciation** completion;
-- scan 27 — `பதிப்புரை` / **Publisher's Note**;
-- scans 28–29 — `திருக்குறள் அதிகார அகர வரிசை` / **Alphabetical Index of Chapters**;
-- scans 30–31 — `அதிகார அருஞ்சொற்பொருள் அகரவரிசை` / **Alphabetical Glossary of Chapter Terms**;
-- scan 32 — `திருக்குறள் / கலைஞர் உரை / அறம்` title page;
-- scan 33 — blank verso / reverse-side bleed-through only.
+Main-body coverage:
 
-The index and glossary records preserve source order and numbers. Newly encountered chapter-title translations are first-pass project renderings, not yet editorially controlled. The source glossary itself is translated rather than replaced with outside definitions. Review-sensitive examples include `வரைவின் மகளிர்`, provisionally **Women Beyond Bounds** while the source gloss `விலை மகளிர்` is translated as **Women for hire**.
+- scans 34–35 — `1. வழிபாடு` / **Worship**, Kural 1–10;
+- scans 36–37 — `2. வான் சிறப்பு` / **The Excellence of Rain**, Kural 11–20;
+- scans 38–39 — `3. நீத்தார் பெருமை` / **The Greatness of Renunciants**, Kural 21–30;
+- scans 40–41 — `4. அறன் வலியுறுத்தல்` / **Affirming Aram**, Kural 31–40.
 
-Scan 32 preserves printed page **xxxi** as an explicit same-source pagination inference; the numeral is not visible on the scan. Scan 33 contains no distinct printed text and does not treat reverse-side bleed-through as body text.
+The English pages preserve Kural numbers and two-line verse structure and keep Kalaignar's commentary separate. No published English Kural wording or outside commentary was imported. Kural 17 reuses the project's released wording from Part 001 scan 20; Kurals 29 and 37 remain consistent with their earlier Part 002 review examples.
 
-Earlier review-sensitive Part 002 items remain open for later source-check: scan 25's provisional English for the complete Kural containing `அடுத்தூர்வது அஃதொப்பதில்`, scan 26's retained `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு`, and scan 27's inferred printed page **xxvi**.
+Review-sensitive first-pass choices remain explicit for source-check, including `ஆதி பகவன்`, `இறைவன்`, `அந்தணர்`, the Indra example in Kural 25, Kural 38's `வாழ்நாள் வழியடைக்கும் கல்`, scan 25's `அடுத்தூர்வது அஃதொப்பதில்`, scan 26's `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு`, and inferred pagination on scans 27 and 32.
 
-#### Part 003
+### Part 003 English
 
 - Tamil scans **42–62**: audited / archival-ready
 - English pages: **0 / 21**
@@ -86,13 +82,6 @@ Earlier review-sensitive Part 002 items remain open for later source-check: scan
 
 ## அடுத்த செயல்
 
-Complete Part 002 English first-pass translation with overall scans **34–41**:
-
-- scans 34–35 — `1. வழிபாடு`, Kural 1–10;
-- scans 36–37 — `2. வான் சிறப்பு`, Kural 11–20;
-- scans 38–39 — `3. நீத்தார் பெருமை`, Kural 21–30;
-- scans 40–41 — `4. அறன் வலியுறுத்தல்`, Kural 31–40.
-
-Create matching English records under `translations/en/pages/` with `status: "draft"`. Preserve Kural numbering and two-line verse structure, translate Kalaignar's commentary separately, and do not use a published English Thirukkural translation. Do not begin Part 002 source-check until all eight remaining drafts are complete.
+Begin the dedicated **Part 002 English source-check with scans 21–27**. Compare each English draft against its verified Tamil page for omissions, additions, meaning drift, agency, headings, quotations and metadata. Promote only completed pages to `source-checked`. Do not begin editorial review until all Part 002 pages complete source-check.
 
 Tamil source intake can later continue from overall scan **63** only when a newly supplied scan itself confirms continuity after scan 62 / printed page 29 / Kural 145.
