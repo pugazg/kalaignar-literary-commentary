@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Speaking Pleasant Words"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -36,6 +36,6 @@ Those who speak sweetly and deal with everyone kindly suffer no misery of povert
 **95. For a person, humility and sweet speech are the ornament;  
 there is no finer ornament besides them.**
 
-Apart from a humble quality and the nature of speaking sweetly, there can be no finer ornament for a person.
+Apart from humility and the nature of speaking sweetly, there can be no finer ornament for a person.
 
 <!-- Source scan page: 52; Part 003 local page: 11; printed page: 19 -->
