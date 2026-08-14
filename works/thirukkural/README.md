@@ -7,7 +7,7 @@
 | Part | Source file | Local pages | Overall scans | நிலை |
 |---|---|---:|---:|---|
 | 001 | `திருக்குறள்_கலைஞர்_உரை_part_001_pages_1-20.pdf` | 20 | 1–20 | audited / archival-ready; scan 8 மட்டும் documented partial |
-| 002 | `திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf` | 21 | 21–41 | **21/21 visually verified; audit pending** |
+| 002 | `திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf` | 21 | 21–41 | **audited / ARCHIVAL-READY** |
 
 Part 002 local page 1 printed page **xx**-இல் தொடங்குகிறது; Part 001 scan 20 printed page **xix**-இல் முடிவதால் source continuity நேரடியாக உறுதியாகிறது.
 
@@ -30,15 +30,18 @@ Part 002-ல் புதிய edition statement இல்லை; publication m
 - Audit: [`AUDIT_PART_001.md`](AUDIT_PART_001.md)
 - Release decision: **ARCHIVAL-READY WITH ONE DOCUMENTED PARTIAL FACSIMILE**
 
-## Part 002 — current state
+## Part 002 — audited state
 
 - source pages: **21**
 - overall scans: **21–41**
 - page records: **21 / 21**
 - `verified`: **21 / 21**
 - `needs-review`: **0**
+- `partial`: **0**
+- `blocked`: **0**
 - `not-started`: **0**
-- audit/release report: **pending**
+- Audit: [`AUDIT_PART_002.md`](AUDIT_PART_002.md)
+- Release decision: **ARCHIVAL-READY**
 
 ### Structure
 
@@ -55,14 +58,16 @@ Part 002-ல் புதிய edition statement இல்லை; publication m
 | 38–39 | `3. நீத்தார் பெருமை` — குறள் 21–30 + கலைஞர் உரை | verified |
 | 40–41 | `4. அறன் வலியுறுத்தல்` — குறள் 31–40 + கலைஞர் உரை | verified |
 
-## Part 002 verification notes
+## Part 002 audit notes
 
-All 21 records have now been compared directly with the supplied scan and use:
+Repository-tree audit confirmed one page record for every overall scan **21–41**, with no gap or duplicate in that range. Local Part 002 pages run **1–21**.
+
+All 21 records completed direct visual verification and use:
 
 - `status: "verified"`
 - `transcription_method: "direct visual comparison with source scan"`
 
-Source-specific forms have been retained rather than replaced from another Thirukkural edition. Examples include `நோக்கமிம்`, `அய். புத்தம்புது விளக்கம்`, `நீரியைந் தன்னா ரகத்து`, `வானின் றுலகம்`, `உள்நின் றுடற்றும்`, `அகல்விசும்பு ளார்கோமான்`, `அறத்தினூஉங்`, and `அறத்தா றிதுவென`.
+Source-specific forms remain preserved rather than replaced from another Thirukkural edition. Examples include `நோக்கமிம்`, `அய். புத்தம்புது விளக்கம்`, `நீரியைந் தன்னா ரகத்து`, `வானின் றுலகம்`, `உள்நின் றுடற்றும்`, `அகல்விசும்பு ளார்கோமான்`, `அறத்தினூஉங்`, and `அறத்தா றிதுவென`.
 
 The verification cycle found genuine scan-supported corrections, including:
 
@@ -70,9 +75,11 @@ The verification cycle found genuine scan-supported corrections, including:
 - scan 27: `உலக நிலையையூட்டுதல்` → **`உலக நினைவையூட்டுதல்`**
 - scan 37 commentary: `ஒழுக்கமே கெட்டகடும்` → **`ஒழுக்கமே கெட்டுக்கூடும்`**
 
-Scans 29 and 31 also had non-source editorial continuation headings removed; the source index contents themselves were unchanged.
+Scans 29 and 31 also had non-source editorial continuation headings removed; their source index entries themselves were not normalized.
 
 Scan 27 has no visible printed numeral; `xxvi` is supported by the same-source contents and surrounding `xxv → xxvii` sequence. Scan 32 likewise has no visible numeral; `xxxi` is supported by the contents entry `அறத்துப்பால் — xxxi` and surrounding sequence. Scan 33 was directly confirmed to contain no current-page body text; reverse-side bleed-through is excluded.
+
+The currently supplied material reaches overall scan **41** / printed book page **8**. This does not establish the full book's total scan-page count.
 
 ## Source-first rule
 
@@ -82,13 +89,13 @@ Scan 27 has no visible printed numeral; `xxvi` is supported by the same-source c
 
 ## அடுத்த செயல்
 
-Run the **Part 002 release/audit pass** and create `AUDIT_PART_002.md`:
+**Next Thirukkural source batch கிடைக்கும் வரை Parts 001–002-ஐ மாற்ற வேண்டாம்.**
 
-1. page-record completeness / uniqueness;
-2. overall-scan, local-page and printed-page continuity;
-3. final status/method consistency;
-4. source-page marker and metadata checks;
-5. release decision;
-6. synchronize root README, this README, page map and `HANDOVER.md`.
+அடுத்த PDF கிடைத்ததும்:
+
+1. actual scan-ஐ முதலில் inspect செய்ய வேண்டும்;
+2. overall scan **41** / printed page **8**-இலிருந்து continuity-ஐ source மூலம் உறுதி செய்ய வேண்டும்;
+3. source ஆதரித்தால் மட்டுமே overall scan **42**-இல் தொடர வேண்டும்;
+4. புதிய page records-ஐ first pass-ல் `needs-review` ஆக வைத்துப் பின்னர் தனி visual-verification pass செய்ய வேண்டும்.
 
 விரிவான page-level நிலை: [`indexes/page-map.md`](indexes/page-map.md).
