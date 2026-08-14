@@ -41,20 +41,20 @@ Permanent cadence:
 
 ### English status now
 
-Part 001 has complete one-to-one English coverage:
+Part 001 has complete one-to-one English coverage and its source-check stage is complete for all fully translatable pages:
 
 - page files: **20 / 20**
-- `source-checked`: **11** — scans 1–7 and 9–12
+- `source-checked`: **19** — scans 1–7 and 9–20
 - `source-limited`: **1** — scan 8; source-limited alignment check complete
-- `draft`: **8** — scans 13–20
+- `draft`: **0**
 - `editorial-reviewed`: **0**
 - `release-ready`: **0**
 - Part 002 English pages: **0 / 21**
 - Part 003 English pages: **0 / 21**
 
-Scans **9–12**, K. Anbazhagan's `பேராசிரியரின் அணிந்துரை` / **The Professor's Foreword**, have completed source-check. Scan 9 received one fidelity tightening for `சிறப்பொவ்வா செய்தொழில் வேற்றுமையான்`; scan 10 clarified the reference to the ten commentators and retains the verified source form `திருவிடம்` as **Tiruvidam**. Scans 11–12 required no translation-text correction.
+The final source-check batch, scans **13–20**, covered Professor Ma. Nannan's `மதிப்புரை` / **Critical Appreciation**. Source-supported corrections included the agency of the property-exploitation sentence on scan 14, restoration of `கற்பித்துப் பேச` on scan 16, and withdrawal of the insecure first-pass English expansion for `அடுத்தூர்வது அஃதொப்பதில்` on scan 19. The quoted Kurals on scan 20 remain project translations grounded in this archived Tamil source and Kalaignar's adjacent explanations; no published English Kural wording was substituted.
 
-Review-sensitive terms **Muppaal**, **Tiruvidam**, **oozh**, and provisional `வாயுறை` → **counsel** remain visible for the later editorial-consistency stage rather than being silently normalized.
+Review-sensitive terms remain explicit for editorial reconciliation: **Muppaal**, **Tiruvidam**, **oozh / Oozh**, `வாயுறை` → **counsel**, `பெண்வழிச் சேறல்` → **Following a Woman's Lead**, *pirithu mozhithal*, `அடுத்தூர்வது அஃதொப்பதில்`, and the scan-20 literary headings.
 
 Scan 8 remains deliberately `source-limited`; the unreadable continuous handwriting is not reconstructed.
 
@@ -66,6 +66,6 @@ Scan 8 remains deliberately `source-limited`; the unreadable continuous handwrit
 
 ## அடுத்த செயல்
 
-Source-check English scans **13–20**, covering Professor Ma. Nannan's `மதிப்புரை` / **Critical Appreciation**. Compare each draft against the audited Tamil page, recheck the review-sensitive terms and quoted Kural examples, and promote pages to `source-checked` only after comparison. Editorial review remains a separate later stage.
+Run the full Part 001 English **editorial-consistency / glossary reconciliation** pass across scans 1–20. Create `translations/en/reviews/PART_001_REVIEW.md` to record decisions, promote eligible fully translatable pages to `editorial-reviewed` only after that pass, and preserve scan 8's source limitation. The Part 001 English release report comes after editorial review, not before.
 
 Tamil source intake can later continue from overall scan **63** only when a newly supplied scan itself confirms continuity after scan 62 / printed page 29 / Kural 145.
