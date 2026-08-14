@@ -1,13 +1,15 @@
 ---
 scan_page: 22
+part: 2
+part_page: 2
 printed_page: "xxi"
 work: "thirukkural"
 section: "மதிப்புரை — பல்வகைச் சிறப்புகள் தொடர்ச்சி"
 page_type: "review"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf"
-transcription_method: "first-pass direct visual transcription from source scan; source scan remains authoritative"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **1052. இன்பம் ஒருவற்கு இரத்தல் இரந்தவை  
@@ -42,4 +44,4 @@ transcription_method: "first-pass direct visual transcription from source scan; 
 
 சிறுமைத்தனமற்ற இனியசொல் ஒருவனுக்கு அவன் வாழும் போதும், வாழ்ந்து மறைந்த பிறகும் புகழைத் தரக்கூடியதாகும்.
 
-<!-- மூல ஸ்கேன் பக்கம்: 22; அச்சுப் பக்கம்: xxi -->
+<!-- மூல ஸ்கேன் பக்கம்: 22; Part 002 உள்ளூர் பக்கம்: 2; அச்சுப் பக்கம்: xxi -->
