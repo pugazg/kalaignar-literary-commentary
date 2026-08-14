@@ -8,7 +8,7 @@
 |---|---|---:|---:|---|
 | 001 | `திருக்குறள்_கலைஞர்_உரை_part_001_pages_1-20.pdf` | 20 | 1–20 | audited / archival-ready; scan 8 documented partial |
 | 002 | `திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf` | 21 | 21–41 | audited / **ARCHIVAL-READY** |
-| 003 | `திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf` | 21 | 42–62 | **21/21 records created; 7 verified, 14 needs-review** |
+| 003 | `திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf` | 21 | 42–62 | **21/21 records created; 14 verified, 7 needs-review** |
 
 Part 003 local page 1 visibly carries printed page **9**, directly after Part 002 scan 41 / printed page **8**. The supplied Part 003 scan continues without a gap through printed page **29**.
 
@@ -44,8 +44,8 @@ Parts 002–003 contain no new edition statement; publication metadata-க்க
 Part 003 contains **21 pages**, overall scans **42–62**, printed pages **9–29**, covering Kural **41–145**.
 
 - page records: **21 / 21**
-- `verified`: **7** — scans 42–48
-- `needs-review`: **14** — scans 49–62
+- `verified`: **14** — scans 42–55
+- `needs-review`: **7** — scans 56–62
 - `not-started`: **0**
 
 ### Structure
@@ -55,11 +55,10 @@ Part 003 contains **21 pages**, overall scans **42–62**, printed pages **9–2
 | 42–43 | `5. இல்வாழ்க்கை` — குறள் 41–50 + கலைஞர் உரை | **verified** |
 | 44–45 | `6. வாழ்க்கைத் துணைநலம்` — குறள் 51–60 + உரை | **verified** |
 | 46–47 | `7. மக்கட்பேறு` — குறள் 61–70 + உரை | **verified** |
-| 48 | `8. அன்புடைமை` — குறள் 71–75 + உரை | **verified** |
-| 49 | `8. அன்புடைமை` — குறள் 76–80 + உரை | needs-review |
-| 50–51 | `9. விருந்தோம்பல்` — குறள் 81–90 + உரை | needs-review |
-| 52–53 | `10. இனியவை கூறல்` — குறள் 91–100 + உரை | needs-review |
-| 54–55 | `11. செய்ந்நன்றியறிதல்` — குறள் 101–110 + உரை | needs-review |
+| 48–49 | `8. அன்புடைமை` — குறள் 71–80 + உரை | **verified** |
+| 50–51 | `9. விருந்தோம்பல்` — குறள் 81–90 + உரை | **verified** |
+| 52–53 | `10. இனியவை கூறல்` — குறள் 91–100 + உரை | **verified** |
+| 54–55 | `11. செய்ந்நன்றியறிதல்` — குறள் 101–110 + உரை | **verified** |
 | 56–57 | `12. நடுவு நிலைமை` — குறள் 111–120 + உரை | needs-review |
 | 58–59 | `13. அடக்கம் உடைமை` — குறள் 121–130 + உரை | needs-review |
 | 60–61 | `14. ஒழுக்கம் உடைமை` — குறள் 131–140 + உரை | needs-review |
@@ -67,12 +66,18 @@ Part 003 contains **21 pages**, overall scans **42–62**, printed pages **9–2
 
 ### Verification completed — scans 42–48
 
-Direct visual comparison against Part 003 local pages 1–7 is complete for Kural **41–75** and Kalaignar's commentary. All seven first-pass records matched the exact scan, so no transcription correction was required. Their metadata now uses:
+Direct visual comparison against Part 003 local pages 1–7 is complete for Kural **41–75** and Kalaignar's commentary. All seven first-pass records matched the exact scan, so no transcription correction was required.
+
+### Verification completed — scans 49–55
+
+Direct visual comparison against Part 003 local pages 8–14 is complete for Kural **76–110** and Kalaignar's commentary. All seven first-pass records again matched the source scan, so no transcription correction was required.
+
+Verified records use:
 
 - `status: "verified"`
 - `transcription_method: "direct visual comparison with source scan"`
 
-Source-specific forms and spacing were preserved rather than normalized.
+Source-specific Kural forms, spacing, punctuation, line breaks and commentary wording remain scan-controlled rather than normalized.
 
 ## Source-first rule
 
@@ -82,6 +87,13 @@ Source-specific forms and spacing were preserved rather than normalized.
 
 ## அடுத்த செயல்
 
-Continue the Part 003 direct visual-verification cycle with **scans 49–55**: finish `அன்புடைமை`, then verify `விருந்தோம்பல்`, `இனியவை கூறல்`, and `செய்ந்நன்றியறிதல்`. Correct only source-supported differences and promote each page only after direct comparison.
+Finish the Part 003 direct visual-verification cycle with **scans 56–62**:
+
+1. scans 56–57 — `நடுவு நிலைமை`, குறள் 111–120;
+2. scans 58–59 — `அடக்கம் உடைமை`, குறள் 121–130;
+3. scans 60–61 — `ஒழுக்கம் உடைமை`, குறள் 131–140;
+4. scan 62 — `பிறனில் விழையாமை`, குறள் 141–145.
+
+After all seven are verified, create `AUDIT_PART_003.md` and make the Part 003 release decision.
 
 விரிவான page-level நிலை: [`indexes/page-map.md`](indexes/page-map.md).
