@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–003 audited / archival-ready for supplied material |
-| Thirukkural — Kalaignar's Commentary | English project translation | Part 001 **editorial review complete: 19 editorial-reviewed + 1 source-limited** |
+| Thirukkural — Kalaignar's Commentary | English project translation | Part 001 **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -44,17 +44,31 @@ Permanent cadence:
 
 **Tamil transcription → Tamil visual verification → Tamil audit → English draft → English source-check → editorial consistency review → part-level English release report.**
 
-Current Part 001 English status:
+### Part 001 English — RELEASE COMPLETE
 
 - aligned English page files: **20 / 20**
-- `editorial-reviewed`: **19** — scans 1–7 and 9–20
-- `source-limited`: **1** — scan 8; alignment and editorial checks complete within the source limitation
+- `release-ready`: **19** — scans 1–7 and 9–20
+- `source-limited`: **1** — scan 8
+- `editorial-reviewed`: **0**
 - `source-checked`: **0**
 - `draft`: **0**
-- `release-ready`: **0**
+- `blocked`: **0**
 
-Part 001 editorial review is documented at [`works/thirukkural/translations/en/reviews/PART_001_REVIEW.md`](works/thirukkural/translations/en/reviews/PART_001_REVIEW.md). The review finalized controlled terminology and preserved source-specific uncertainty explicitly. In particular, scan 19 retains `அடுத்தூர்வது அஃதொப்பதில்` in Tamil rather than forcing an insecure English expansion, and scan 8 remains source-limited because its handwritten body is not reliably readable.
+Release decision: **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**.
 
-Next English activity: create the **Part 001 release report** at `works/thirukkural/translations/en/reviews/PART_001_RELEASE_REPORT.md` and run the release gate before any page is promoted to `release-ready`.
+Review artefacts:
+
+- [`works/thirukkural/translations/en/reviews/PART_001_REVIEW.md`](works/thirukkural/translations/en/reviews/PART_001_REVIEW.md)
+- [`works/thirukkural/translations/en/reviews/PART_001_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_001_RELEASE_REPORT.md)
+
+Scan 8 remains `source-limited` because its handwritten body is not securely readable. Scan 19's `அடுத்தூர்வது அஃதொப்பதில்` remains explicitly documented in Tamil rather than being given an insecure English expansion. The scan-20 Kural examples remain project translations based on this archived Tamil edition; no published English Kural wording was substituted.
+
+### Part 002 English
+
+Not yet started. Tamil scans **21–41** are already audited / archival-ready. The next English batch is scans **21–27**, covering the remaining **Critical Appreciation** pages and the **Publisher's Note**.
+
+### Part 003 English
+
+Not yet started. Tamil scans **42–62** are already audited / archival-ready.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md) and [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md).
