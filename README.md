@@ -6,7 +6,7 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | part 001 — 20/20 page records; verification நடைபெற வேண்டும் |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Part 001 archival-ready — 19 verified + 1 reviewed partial |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில மொழிபெயர்ப்பு | பின்னர் சேர்க்கப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -21,6 +21,7 @@ HANDOVER.md
 works/
   thirukkural/
     README.md
+    AUDIT_PART_001.md
     metadata/
     indexes/
     pages/
@@ -35,16 +36,24 @@ works/
 
 மூலத்தில் இருப்பதை அமைதியாகச் சீர்திருத்தவோ, நவீனப்படுத்தவோ, ஊகித்து நிரப்பவோ கூடாது. தெளிவில்லாத வாசிப்புகள் வெளிப்படையாக `needs-review`, `partial`, அல்லது `blocked` எனக் குறிக்கப்பட வேண்டும்.
 
-## தற்போதைய செயல் — திருக்குறள்
+## தற்போதைய நிலை — திருக்குறள்
 
 முதல் கிடைத்த ஸ்கேன் தொகுதி: `திருக்குறள்_கலைஞர்_உரை_part_001_pages_1-20.pdf` — **20 ஸ்கேன் பக்கங்கள்**.
 
 - 20 / 20 page records உருவாக்கப்பட்டுள்ளன.
-- scans 1–6: `verified`
-- scan 7: `needs-review`
-- scan 8 handwritten facsimile: `partial`
-- scans 9–20: source-based first-pass transcription complete; `needs-review`
+- `verified`: **19**
+- `needs-review`: **0**
+- `partial`: **1** — scan 8 handwritten facsimile; high-resolution review complete
+- duplicate / missing page records: **0**
 
-அடுத்த செயல்: scans **7–20**-க்கு direct visual verification செய்து, scan ஆதரிக்கும் வடிவங்களையே வைத்துக் கொண்டு ஒவ்வொரு பக்கத்தையும் `verified` நிலைக்கு நகர்த்துதல்.
+Part 001 release/audit pass முடிந்தது. தீர்மானம்:
+
+**ARCHIVAL-READY WITH ONE DOCUMENTED PARTIAL FACSIMILE**
+
+Scan 8 unprocessed page அல்ல. தலைப்பு, கையொப்பம், `27/12/2007` தேதி உறுதியாகப் பதிவாகியுள்ளன; body handwriting கிடைத்த scan quality-ல் source-faithful ஆக முழுமையாக வாசிக்க முடியாததால் அது திட்டமிட்டு `partial` ஆக வைக்கப்பட்டுள்ளது.
+
+Audit report: [`works/thirukkural/AUDIT_PART_001.md`](works/thirukkural/AUDIT_PART_001.md).
+
+அடுத்த செயல்: **அடுத்த Thirukkural source PDF batch** கிடைக்கும் போது தொடருதல்; அல்லது scan 8-ன் தெளிவான facsimile கிடைத்தால் அந்தப் பக்கத்தை மட்டும் மீண்டும் திறத்தல்.
 
 விரிவான நிலை: [`works/thirukkural/README.md`](works/thirukkural/README.md) மற்றும் [`works/thirukkural/indexes/page-map.md`](works/thirukkural/indexes/page-map.md).
