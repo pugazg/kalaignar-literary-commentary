@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Alphabetical Index of Chapters — 1"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -48,6 +48,6 @@ translation_basis: "verified Tamil archival transcription; controlling scan rema
 | Understanding Mutual Help | 22 | Ascetic Practice | 27 |
 | Good Conduct | 14 | Intensity of Solitary Longing | 120 |
 
-> Source-check note: entry order and chapter numbers were checked against the verified Tamil index. `அருளுடைமை` is kept closer to the source as **Possession of Compassion**; the first-pass **Compassionate Conduct** added the idea of conduct, which is not present in the title. Other chapter-title renderings not already controlled remain eligible for later editorial consistency review; no external standard English chapter-title list is used.
+> Editorial review note: entry order and chapter numbers remain source-controlled. `அருளுடைமை` is retained as **Possession of Compassion**, avoiding the added idea of conduct. Titles introduced only by the full index are treated as reviewed project renderings for this index, not as permission to import or imitate an external standard English chapter-title list; later source context may justify a deliberate, documented project-wide refinement.
 
 <!-- Source scan page: 28; Part 002 local page: 8; printed page: xxvii -->
