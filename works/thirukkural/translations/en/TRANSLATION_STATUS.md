@@ -19,8 +19,8 @@
 ## Current English counts
 
 - English page files: **20**
-- `draft`: **12** — scans 9–20
-- `source-checked`: **7** — scans 1–7
+- `draft`: **8** — scans 13–20
+- `source-checked`: **11** — scans 1–7 and 9–12
 - `editorial-reviewed`: **0**
 - `release-ready`: **0**
 - `source-limited`: **1** — scan 8 handwritten facsimile; source-limited alignment check complete
@@ -32,39 +32,45 @@ A one-to-one English record exists for every Part 001 scan. Scan 8 is deliberate
 
 ## Source-check completed — scans 1–7
 
-Scans **1–7** were compared line-by-line / paragraph-by-paragraph against their audited Tamil archival pages and promoted from `draft` to `source-checked`.
+Scans **1–7** were compared line-by-line / paragraph-by-paragraph against their audited Tamil archival pages and promoted to `source-checked`.
 
-### Result
+Key corrections already recorded:
 
-- scans 1–5: no translation-text correction required;
-- scan 6: `பேராசிரியரின் அணிந்துரை` tightened to **The Professor's Foreword**;
-- scan 7 / Kalaignar's Preface: source-check restored the source sense of `நிறைவேற்றி மகிழ்`, `உண்மை நிலை`, and `இனமான ஏந்தல்` while retaining Kalaignar's distinction between `கடவுள் வாழ்த்து` (**Invocation to God**) and `வழிபாடு` (**Worship**).
-
-No page in this batch has undergone the later editorial-consistency review.
+- scan 6: `பேராசிரியரின் அணிந்துரை` aligned to **The Professor's Foreword**;
+- scan 7: source sense restored for `நிறைவேற்றி மகிழ்`, `உண்மை நிலை`, and `இனமான ஏந்தல்`.
 
 ## Scan 8 — source-limited alignment check COMPLETE
 
-`0008-handwritten-note.md` has now been compared against the audited partial Tamil archival record.
+The aligned English record was checked against the partial Tamil archival record. Heading, decorative divider, signature presence, date **27/12/2007**, bleed-through description, and deliberate omission of the unreadable continuous handwriting all align.
 
-Confirmed aligned elements:
+**No translation-text correction was required.** The page remains `source-limited` because the Tamil source remains partial.
 
-- heading: **An Introduction to the Preface!**;
-- decorative divider presence;
-- Kalaignar's signature presence;
-- clearly readable date **27/12/2007**;
-- reverse-side bleed-through correctly excluded from current-page handwriting;
-- unreadable continuous handwritten body deliberately left untranslated and unreconstructed.
+## Source-check completed — scans 9–12
 
-**No translation-text correction was required.**
+The four pages of K. Anbazhagan's `பேராசிரியரின் அணிந்துரை` / **The Professor's Foreword** have now been compared line-by-line with the audited Tamil archival pages and promoted to `source-checked`.
 
-The page remains `status: "source-limited"` because the controlling Tamil archival record itself is `partial`. Completion of the alignment check does not justify promotion to `source-checked` or reconstruction of the missing handwriting.
+### Result
+
+- scan 9 / printed viii: one fidelity tightening changed the awkward first-pass line `Though distinction may differ because occupations differ` to **`Though distinctions are unequal because the work performed differs`**, better preserving `சிறப்பொவ்வா செய்தொழில் வேற்றுமையான்`;
+- scan 10 / printed ix: `the ten who wrote commentaries` was clarified to **`the ten commentators who wrote on this ancient work of aram`**; the verified source form `திருவிடம்` remains **Tiruvidam**, with an explicit source note rather than normalization;
+- scan 11 / printed x: no translation-text correction was required; poem-like line structure, quotation, emphasis, Periyar/Anna references and the *Sangathamizh* / *Kuraloviyam* titles align with the audited Tamil source;
+- scan 12 / printed xi: no translation-text correction was required; the honeycomb / pressed-essence metaphor, medicinal-benefit comparison, hand-lamp / sacred-lamp contrast and K. Anbazhagan attribution align with the source.
+
+Review-sensitive terms remain deliberately visible for the later editorial-consistency stage:
+
+- `முப்பால்` → **Muppaal**;
+- `திருவிடம்` → **Tiruvidam** because that is the verified source form;
+- `ஊழ்` → **oozh** where the foreword explicitly names the concept;
+- `வாயுறை` → **counsel** provisionally; source-check found no basis to replace it, but final poetic nuance remains for editorial review.
+
+No page in this batch has undergone `editorial-reviewed` promotion.
 
 ## Remaining Part 001 source-check work
 
-1. source-check scans **9–12** — The Professor's Foreword;
-2. source-check scans **13–20** — Critical Appreciation;
-3. run Part 001 editorial consistency / glossary reconciliation;
-4. create the Part 001 English review/release artefacts and promote eligible pages only after that review.
+1. source-check scans **13–20** — Professor Ma. Nannan's Critical Appreciation;
+2. run Part 001 editorial consistency / glossary reconciliation;
+3. create the Part 001 English review/release artefacts;
+4. promote eligible pages only after the relevant review/report stages.
 
 ## Part 002 plan
 
@@ -91,13 +97,14 @@ For every newly supplied Tamil PDF after Part 003:
 
 ## Next exact activity
 
-Source-check **Part 001 scans 9–12**, covering K. Anbazhagan's `பேராசிரியரின் அணிந்துரை` / **The Professor's Foreword**.
+Source-check **Part 001 scans 13–20**, covering Professor Ma. Nannan's `மதிப்புரை` / **Critical Appreciation**.
 
 For each page:
 
-1. compare the English draft line-by-line with the audited Tamil page;
-2. verify poem-line structure, quotations, emphasis and page metadata;
-3. resolve review-sensitive choices such as **Muppaal**, **Tiruvidam**, **oozh**, and `வாயுறை` → `counsel` only from the Tamil source and project glossary;
-4. correct only source-supported translation issues;
-5. promote each page to `source-checked` only after comparison;
-6. do not perform editorial-review promotion in the same activity.
+1. compare the English draft line-by-line / paragraph-by-paragraph with the audited Tamil page;
+2. verify headings, quotations, numbered points, Kural citations, paragraph boundaries, names and metadata;
+3. resolve source-sensitive terms only from the Tamil source and controlled glossary;
+4. recheck especially `பெண்வழிச் சேறல்`, `ஊழ்` / `இயற்கை நிலை`, `பிறிது மொழிதல்`, `அடுத்தூர்வது அஃதொப்பதில்`, and the literary headings on scan 20;
+5. do not import published English Kural wording for the quoted examples;
+6. promote each page to `source-checked` only after comparison;
+7. keep editorial-consistency review as the next separate stage after all eight pages are source-checked.
