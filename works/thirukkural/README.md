@@ -10,7 +10,7 @@
 | 002 | `திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf` | 21 | 21–41 | audited / **ARCHIVAL-READY** |
 | 003 | `திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf` | 21 | 42–62 | **7/21 records created; scans 42–48 needs-review** |
 
-Part 003 local page 1 visibly carries printed page **9**, directly after Part 002 scan 41 / printed page **8**. The supplied Part 003 scan continues without a gap through printed page **29**. fileciteturn313file0L11-L17
+Part 003 local page 1 visibly carries printed page **9**, directly after Part 002 scan 41 / printed page **8**. The supplied Part 003 scan continues without a gap through printed page **29**.
 
 ## Edition metadata
 
@@ -65,7 +65,7 @@ Part 003 contains **21 pages**, overall scans **42–62**, printed pages **9–2
 | 60–61 | `14. ஒழுக்கம் உடைமை` — குறள் 131–140 | not-started |
 | 62 | `15. பிறனில் விழையாமை` — குறள் 141–145 | not-started |
 
-The final pages of this supplied part show the continuation through `அடக்கம் உடைமை`, `ஒழுக்கம் உடைமை`, and the beginning of `பிறனில் விழையாமை`, ending at Kural 145 / printed page 29. fileciteturn311file0L11-L14
+The final pages of this supplied part show the continuation through `அடக்கம் உடைமை`, `ஒழுக்கம் உடைமை`, and the beginning of `பிறனில் விழையாமை`, ending at Kural 145 / printed page 29.
 
 ## Part 003 first-pass rule
 
