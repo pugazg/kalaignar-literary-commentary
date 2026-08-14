@@ -12,7 +12,7 @@ The supplied scans are the controlling sources. Do not silently modernize, norma
 
 The translation must retain **Kalaignar's own language, images, emphases and interpretive direction** as closely as clear English allows. Do not replace his explanation with the familiar or conventional interpretation of a Kural. If Kalaignar deliberately reads a term in a particular way, the English must translate that reading, not correct it toward another commentator.
 
-The same source-fidelity rule applies to Professor Nannan and publisher prose. Do not silently smooth away metaphors, repetition, rhetoric or source-specific terminology merely because a more conventional English phrase is available.
+The same source-fidelity rule applies to Professor Nannan, publisher prose, indexes and source glossaries. Do not silently smooth away or normalize metaphors, repetition, rhetoric, definitions or source-specific terminology merely because a more conventional English phrase is available.
 
 Natural English syntax is allowed. Source meaning and voice outrank elegance.
 
@@ -61,8 +61,8 @@ Tamil state: **21/21 verified; ARCHIVAL-READY**.
 Current English state:
 
 - aligned English records: **21 / 21**;
-- `source-checked`: **7** — scans 21–27;
-- `draft`: **14** — scans 28–41;
+- `source-checked`: **13** — scans 21–33;
+- `draft`: **8** — scans 34–41;
 - `editorial-reviewed`: **0**;
 - `release-ready`: **0**;
 - `source-limited`: **0**;
@@ -70,26 +70,28 @@ Current English state:
 
 ## Source-check completed — scans 21–27
 
-Each English page was compared directly with its verified Tamil record. Source-supported changes only:
+Fidelity-first corrections include restoring Nannan's source metaphors and removing unsupported interpretive additions. Scan 25 now uses **“nothing equals that for driving it away”** for the full Kural containing `அடுத்தூர்வது அஃதொப்பதில்`; scan 26 preserves `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு` closely as **“the low-priced edition of the people's hearts.”** Released Part 001 scan 19 remains unchanged at this stage.
 
-- **scan 21** — removed the first-pass addition that Kalaignar's commentary has the “compactness” of a Kural. `பாட்டும் குறள்; ... உரையும் குறளாக அமைந்திருப்பது` is now represented simply as the verse being a Kural and Kalaignar's commentary itself being formed as a Kural.
-- **scan 22** — `நேர்மை பிறழாப் புதுமை` is now kept closer to the source as **“innovation that does not depart from fidelity”**, instead of “unfailing originality and integrity.”
-- **scan 23** — Kural 58 now uses **“If women obtain a husband worthy of being obtained...”**, guided by Kalaignar's immediately adjacent explanation while keeping verse and commentary separate.
-- **scan 24** — no source-fidelity correction required.
-- **scan 25** — the draft **“pressing forward to meet it”** for `அடுத்தூர்வது அஃதொப்பதில்` added an image not securely demanded by this source. The source-checked full-Kural line is now **“nothing equals that for driving it away.”** Part 001 scan 19 remains unchanged in this batch.
-- **scan 26** — the source metaphor `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு` is no longer softened into “an edition readily accessible to the people's hearts.” It is retained closely as **“the low-priced edition of the people's hearts”**, with a source-check note. This awkwardness is intentional at the fidelity stage; editorial review may later consider wording only if the source image remains intact.
-- **scan 27** — text required no correction. `printed_page: "xxvi"` remains explicitly marked as inferred from the contents / surrounding same-source sequence; the numeral is not visible on the scan.
+## Source-check completed — scans 28–33
 
-## Released Part 001 / later context
+All six English pages were compared against their verified Tamil records and promoted to `source-checked`.
 
-Part 002 now gives fuller context for `அடுத்தூர்வது அஃதொப்பதில்`, but **do not revise Part 001 scan 19 during source-check**. Any cross-part revision must be made during a separately documented editorial consistency decision after Part 002 source-check is complete.
+Source-supported decisions:
+
+- scan 28 — source order and chapter numbers verified; `அருளுடைமை` corrected from **Compassionate Conduct** to **Possession of Compassion**, avoiding the added idea of conduct;
+- scan 29 — source order and numbers verified; `புல்லறிவாண்மை` → **Possession of Little Understanding** and `நெஞ்சொடு புலத்தல்` → **Sulking with the Heart**, guided by this edition's own explanatory glossary;
+- scan 30 — this edition's own glosses are preserved. `நடுவு நிலைமை | பொதுவாக இருத்தல்` is represented as **Impartiality | Being common to all**, not silently normalized to a conventional definition; `நாணத்தை மீறுதலைக் கூறுதல்` is **Speaking of transgressing modesty**;
+- scan 31 — source gloss distinctions remain explicit: `பெண் வழிச் சேறல் | பெண் பித்தராதல்` → **Following a Woman's Lead | Becoming obsessed with women**; `வரைவின் மகளிர் | விலை மகளிர்` retains the gloss **Women for hire**; `வழிபாடு | பின்பற்றுதல்` → **Worship | Following**;
+- scan 32 — `printed_page: "xxxi"` remains a same-source pagination inference supported by the Part 001 contents entry and surrounding sequence; the numeral is not visible on the scan;
+- scan 33 — blank verso / reverse-side bleed-through only; no bleed-through text is current-page body text.
+
+Do not convert the full index to a standard external English chapter-title list during source-check or editorial review. Any stylistic refinement must remain grounded in this edition and be documented.
 
 # Remaining Part 002 source-check
 
-- scans 28–33 — index, chapter-term glossary, Aram title page, blank verso;
-- scans 34–41 — Kural 1–40 + Kalaignar commentary.
+Only scans **34–41** remain: Kural **1–40** plus Kalaignar commentary.
 
-For scans 34–41, special attention is required for preserving Kalaignar's own reading of:
+Special attention is required for preserving Kalaignar's own reading of:
 
 - Kural 1 / `ஆதி பகவன்`;
 - Kurals 5 and 10 / `இறைவன்`;
@@ -105,16 +107,17 @@ Tamil scans 42–62 are audited / archival-ready and contain Kural 41–145 plus
 
 # Next exact activity
 
-Continue the dedicated **Part 002 English source-check with scans 28–33**.
+Complete the dedicated **Part 002 English source-check with scans 34–41**.
 
-1. Fetch the current English records and exact verified Tamil source files for scans 28–33.
-2. Compare every index/glossary entry for omissions, numbering errors, meaning drift and over-normalized chapter-title wording.
-3. Preserve the source's own `அருஞ்சொற்பொருள்` explanations rather than replacing them with standard definitions from another edition.
-4. Confirm scan 32 retains `printed_page: "xxxi"` only as the documented same-source inference; numeral not visible on scan.
-5. Confirm scan 33 remains a blank / reverse-side bleed-through record only.
-6. Promote each completed page to `source-checked`.
-7. Do not begin scans 34–41 source-check until 28–33 are complete and documentation is synchronized.
-8. Do not begin Part 002 editorial consistency review until all 21 Part 002 records are source-checked.
+1. Fetch the current English drafts and exact verified Tamil source files for scans 34–41.
+2. Compare every Kural verse and every Kalaignar commentary paragraph directly for omissions, additions, meaning drift, doctrinal normalization, imagery and metadata.
+3. Preserve each Kural number and two-line verse structure.
+4. Translate Kalaignar's explanation as **his explanation**. Do not replace it with standard Thirukkural wording or another commentator's reading.
+5. Pay special attention to `ஆதி பகவன்`, `இறைவன்`, `அந்தணர்`, Indra and Kural 38's stone/path image.
+6. Correct only source-supported fidelity issues.
+7. Promote each completed page from `draft` to `source-checked`.
+8. After all eight are complete, synchronize status/docs and make the next activity the Part 002 editorial-consistency / glossary-reconciliation review.
+9. Do not begin editorial review in the same source-check activity.
 
 ## Source authority rule
 
