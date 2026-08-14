@@ -78,20 +78,21 @@ Source: `திருக்குறள்_கலைஞர்_உரை_part_003
 - 53 / local 12 / printed 20 — `10. இனியவை கூறல்`, குறள் 96–100 — **verified**
 - 54 / local 13 / printed 21 — `11. செய்ந்நன்றியறிதல்`, குறள் 101–105 — **verified**
 - 55 / local 14 / printed 22 — `11. செய்ந்நன்றியறிதல்`, குறள் 106–110 — **verified**
-- 56 / local 15 / printed 23 — `12. நடுவு நிலைமை`, குறள் 111–115 — **needs-review**
-- 57 / local 16 / printed 24 — `12. நடுவு நிலைமை`, குறள் 116–120 — **needs-review**
-- 58 / local 17 / printed 25 — `13. அடக்கம் உடைமை`, குறள் 121–125 — **needs-review**
-- 59 / local 18 / printed 26 — `13. அடக்கம் உடைமை`, குறள் 126–130 — **needs-review**
-- 60 / local 19 / printed 27 — `14. ஒழுக்கம் உடைமை`, குறள் 131–135 — **needs-review**
-- 61 / local 20 / printed 28 — `14. ஒழுக்கம் உடைமை`, குறள் 136–140 — **needs-review**
-- 62 / local 21 / printed 29 — `15. பிறனில் விழையாமை`, குறள் 141–145 — **needs-review**
+- 56 / local 15 / printed 23 — `12. நடுவு நிலைமை`, குறள் 111–115 — **verified**
+- 57 / local 16 / printed 24 — `12. நடுவு நிலைமை`, குறள் 116–120 — **verified**
+- 58 / local 17 / printed 25 — `13. அடக்கம் உடைமை`, குறள் 121–125 — **verified**
+- 59 / local 18 / printed 26 — `13. அடக்கம் உடைமை`, குறள் 126–130 — **verified**
+- 60 / local 19 / printed 27 — `14. ஒழுக்கம் உடைமை`, குறள் 131–135 — **verified**
+- 61 / local 20 / printed 28 — `14. ஒழுக்கம் உடைமை`, குறள் 136–140 — **verified**
+- 62 / local 21 / printed 29 — `15. பிறனில் விழையாமை`, குறள் 141–145 — **verified**
 
 ### Current Part 003 status
 
 - page records created: **21 / 21**
-- `verified`: **14** — scans 42–55
-- `needs-review`: **7** — scans 56–62
+- `verified`: **21 / 21** — scans 42–62
+- `needs-review`: **0**
 - `not-started`: **0**
+- audit: pending
 
 ### Verification completed — scans 42–48
 
@@ -104,6 +105,14 @@ Direct visual comparison against the exact Part 003 source pages is complete for
 - All seven first-pass transcriptions matched the source wording and Kalaignar commentary.
 - No text correction was required in this verification batch.
 - Source-specific forms were retained rather than normalized, including `என்பி லதனை`, `அன்பி லதனை`, `புறத்துறுப் பெல்லாம்`, `செல்விருந் தோம்பி`, `இணைத்துணைத் தென்பதொன் றில்லை`, `அகன்அமர்ந் தீதலின்`, `இன்சொ லினதே`, `துன்புறூஉம்`, `கனிஇருப்பக் காய்கவர்ந் தற்று`, `காலத்தி னாற்செய்த`, and `ஒன்றுநன் றுள்ளக் கெடும்`.
+
+### Verification completed — scans 56–62
+
+Direct visual comparison against the exact Part 003 source pages is complete for scans **56–62** / printed pages **23–29** / Kural **111–145**.
+
+- All seven first-pass transcriptions matched the source wording and Kalaignar commentary.
+- **No transcription correction was required in the final verification batch.**
+- Source-sensitive forms were retained exactly as printed, including `தகுதி யெனவொன்று`, `பாற்பட் டொழுகப்`, `கெடுவல்யான்`, `நடுவொரீஇ`, `அதனினூஉங்`, `சோகாப்பர்`, `ஒன்றானுந்`, `அழுக்கா றுடையான்கண்`, `ஒழுக்கத்தி னொல்கார்`, `ஏதம் படுபாக் கறிந்து`, `உலகத்தோ டொட்ட`, `தறம்பொருள் கண்டார்க ணில்`, and `எளிதென இல்லிறப்பான்`.
 - Verified records use `status: "verified"` and `transcription_method: "direct visual comparison with source scan"`.
 
 ## Files kept synchronized
@@ -116,17 +125,16 @@ Direct visual comparison against the exact Part 003 source pages is complete for
 
 ## Next exact activity
 
-Finish the Part 003 direct visual-verification cycle for **scans 56–62**.
+Run the **Part 003 release/audit pass**.
 
-1. scans 56–57 / printed 23–24 — `12. நடுவு நிலைமை`, Kural 111–120.
-2. scans 58–59 / printed 25–26 — `13. அடக்கம் உடைமை`, Kural 121–130.
-3. scans 60–61 / printed 27–28 — `14. ஒழுக்கம் உடைமை`, Kural 131–140.
-4. scan 62 / printed 29 — `15. பிறனில் விழையாமை`, Kural 141–145.
-5. Compare character-by-character against the exact source scan.
-6. Preserve source-specific spelling, spacing, line breaks, punctuation and Kalaignar commentary exactly as printed.
-7. Correct only source-supported differences.
-8. Promote each page to `verified` only after its comparison is complete.
-9. After scans 56–62 are verified, create `works/thirukkural/AUDIT_PART_003.md`, run continuity/status checks, and record the Part 003 release decision.
+1. Confirm exactly one page record exists for each overall scan **42–62**.
+2. Confirm Part 003 local-page continuity **1–21**.
+3. Confirm printed-page continuity **9–29**.
+4. Confirm Kural continuity **41–145** and chapter boundaries from `இல்வாழ்க்கை` through the opening of `பிறனில் விழையாமை`.
+5. Confirm all 21 records are `verified` and use `transcription_method: "direct visual comparison with source scan"`.
+6. Confirm source filenames and page markers are consistent.
+7. Create `works/thirukkural/AUDIT_PART_003.md`.
+8. Record the formal Part 003 release decision and synchronize README / page map / metadata / handover accordingly.
 
 ## Source authority rule
 
