@@ -28,7 +28,9 @@ The new archive follows the same core principles: scan authority, one record per
 
 - 20 scan pages in this attachment.
 - The attachment is a partial book segment, not evidence of total book length.
-- Edition information visible: first edition December 2007; second edition March 2010.
+- Visible edition information: first edition December 2007; second edition March 2010.
+- Publisher: பூம்புகார் பதிப்பகம், சென்னை.
+- Price shown: ரூ. 180/-.
 
 ## Completed
 
@@ -40,35 +42,48 @@ Repository foundation:
 - `works/thirukkural/metadata/source.md`
 - `works/thirukkural/indexes/page-map.md`
 
-Page records completed:
+Page records now exist for **all scans 1–20** in part 001.
 
-- scan 1 — cover — `verified`
-- scan 2 — title page — `verified`
-- scan 3 — blank — `verified`
-- scan 4 — publication details — `verified`
-- scan 5 — edition details — `verified`
-- scan 6 — contents — `verified`
-- scan 7 — முகவுரை — first-pass transcription, `needs-review`
+Status:
+
+- scans 1–6 — `verified`
+- scan 7 — முகவுரை — `needs-review`
 - scan 8 — handwritten facsimile — `partial`; uncertain handwriting deliberately not guessed
+- scans 9–12 — பேராசிரியரின் அணிந்துரை — first-pass complete, `needs-review`
+- scans 13–19 — மதிப்புரை by பேராசிரியர் மா. நன்னன் — first-pass complete, `needs-review`
+- scan 20 — `அ. பா நலம்`, `ஆ. அணி நலம்`, `இ. அடை நலம்` begins — first-pass complete, `needs-review`
+
+First-pass transcription of scans 9–20 used the rendered source pages directly. Tamil OCR was used only as an assistant for character recognition and was checked against the scan; OCR is not source authority.
 
 ## Next exact activity
 
-Create and transcribe scan pages **9–20** in order:
+Run the **visual verification round for scans 7–20**.
 
-- 9–12: `பேராசிரியரின் அணிந்துரை`
-- 13–19: `மதிப்புரை` by பேராசிரியர் மா. நன்னன்
-- 20: begins `அ. பா நலம்`, then `ஆ. அணி நலம்`, `இ. அடை நலம்`
+Recommended order:
 
-After pages 9–20 are created:
+1. scan 7 — verify `முகவுரை` character by character; correct only what the scan supports and set `verified` when complete.
+2. scan 8 — make a high-resolution attempt on the handwritten facsimile; preserve `partial` if any handwriting remains uncertain rather than guessing.
+3. scans 9–12 — verify the full poetic `பேராசிரியரின் அணிந்துரை`, especially line breaks, sandhi/spelling and punctuation.
+4. scans 13–20 — verify the `மதிப்புரை` prose, numbered lists, quoted wording and printed Kural lines.
+5. after each verified page, update front matter to `status: "verified"` and `transcription_method: "direct visual comparison with source scan"`.
+6. update `works/thirukkural/indexes/page-map.md`, `works/thirukkural/README.md`, and this handover with the verified counts.
 
-1. update `indexes/page-map.md` statuses and filenames;
-2. update `works/thirukkural/README.md` progress;
-3. run visual verification of scan page 7;
-4. make a high-resolution attempt on page 8 handwriting without guessing unclear text;
-5. preserve printed wording exactly even where another Thirukkural edition differs.
+## Source-sensitive forms to recheck, not silently normalize
+
+Several printed forms in this edition may look unusual. Treat them as source forms until the verification pass proves otherwise. Examples encountered in the first pass include:
+
+- scan 9: `மநுவாதிக்கு`, `செல்வமீனும்`, `உற்றிடுமியற்கைச்`, `தொழல்`, `வான்றோய் முகில்பொழி தூநீர் அனையதாய்`
+- scan 13: `அய்ந்து`, `ஈகையறம்`, `ஒழுகலாறு`
+- scan 14: `மன்பதையைச்`
+- scan 16: the printed form around `அக் கருத்துக்காட்பட்ட ...` requires careful final visual confirmation
+- scan 18: `முன்னவை யிரண்டையும்விட`, `இயற்கையின் அமைதி`
+- scan 19: the quotation rendered in first pass as `அடுத்தூர்வது அஃதொப்பதில்` must be verified directly from the scan
+- scan 20: preserve the Kural wording exactly as printed, including `அசையியற்கு உண்டாண்டோர் ஏஎர்யான் நோக்கப் ...`; do not substitute an internet or standard-edition version
 
 ## Important source observations
 
 - Reverse-side bleed-through is visible on several front-matter pages; do not transcribe it as current-page text.
 - Handwriting and signatures must be kept separate from printed text.
 - Do not import internet/standard Thirukkural wording to 'correct' the source.
+- Paragraph line wrapping may be normalized in Markdown, but poetic/Kural line breaks must remain source-faithful.
+- Apparent typographical or historical spelling forms must remain unchanged unless a visual reread of this exact scan supports a correction.
