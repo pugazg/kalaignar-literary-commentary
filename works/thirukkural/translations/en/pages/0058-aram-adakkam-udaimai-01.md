@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Self-Control"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -26,7 +26,7 @@ What must be guarded with the greatest firmness is self-control. There is nothin
 **123. If one understands what must be understood and restrains oneself accordingly,  
 recognition of that character will bring distinction.**
 
-Praise will gather around the person whose character is understood and appreciated because he knows what must be known and conducts himself with self-control accordingly.
+Praise will gather around a person whose character is recognized and appreciated because they know what must be known and conduct themselves with self-control accordingly.
 
 **124. The stature of one who remains restrained without departing from his state  
 is greater in worth than a mountain.**
