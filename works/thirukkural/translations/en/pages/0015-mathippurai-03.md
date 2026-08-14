@@ -6,12 +6,12 @@ work: "thirukkural"
 section: "Critical Appreciation — Worship"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
 
-Although Valluvar taught aram by following an incomparable method, it would be more accurate to say not merely that people lacked the capacity to understand it because of differences in their levels of knowledge, but that they were made incapable of understanding it. That is why, beginning with the ten earliest commentaries on the Kural, so many commentaries have appeared down to the present day. Among them, the lucid commentary that has arisen with the ability to meet the needs of our time properly is Kalaignar's commentary.
+Although Valluvar taught aram by following an incomparable method, it would be more accurate to say not merely that people lacked the capacity to understand it because of differences in their levels of knowledge, but that they were made incapable of understanding it. That is why, beginning with the ten earliest commentaries on the Kural, so many commentaries have appeared down to the present day. Among them, Kalaignar's lucid commentary has emerged as one capable of properly meeting the needs of our time.
 
 ## 2. Worship
 
