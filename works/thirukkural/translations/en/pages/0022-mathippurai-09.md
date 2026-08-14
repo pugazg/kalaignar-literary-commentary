@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Critical Appreciation — Various Distinctive Merits"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -36,7 +36,7 @@ I sneezed; as is customary, she blessed me. At once, seized by some suspicion, s
 
 ## H. New Meaning
 
-The following passages testify to Kalaignar's unfailing originality and integrity in assigning meanings to difficult words.
+The following passages bear witness to the innovation that does not depart from fidelity which Kalaignar found in assigning meanings to difficult words.
 
 **98. Sweet speech free from pettiness  
 brings joy both in this life and after it.**
