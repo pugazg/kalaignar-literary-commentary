@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Impartiality"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -16,7 +16,7 @@ one should know, “I am going to ruin.”**
 
 If the thought arises in a person that one may act by departing from impartiality, that person should understand for himself that he is on the way to ruin.
 
-**117. The world will not regard as decline the poverty of one  
+**117. The world will not regard as decline the low state of one  
 who remains impartial and abides in goodness.**
 
 If a person who lives on the path of aram without departing from impartiality becomes poor because wealth does not accumulate for that reason, the world will praise that person rather than regard him as low.
