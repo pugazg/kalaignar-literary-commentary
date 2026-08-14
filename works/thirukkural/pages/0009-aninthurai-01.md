@@ -4,10 +4,10 @@ printed_page: "viii"
 work: "thirukkural"
 section: "பேராசிரியரின் அணிந்துரை"
 page_type: "foreword"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_001_pages_1-20.pdf"
-transcription_method: "first-pass visual transcription with OCR assistance; source scan remains authoritative"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 # பேராசிரியரின் அணிந்துரை
@@ -22,7 +22,7 @@ transcription_method: "first-pass visual transcription with OCR assistance; sour
 பிறவிவழியாம் வருணத்துக் கொருநீதி புகன்றிடும்  
 அறக்கேடாம் மநுவாதிக்கு மறுத்திட்டார் வள்ளுவர்!
 
-சிறப்புடன் செல்வமீனும் அறத்தினூங்கு ஆக்கமில்லை  
+சிறப்புடன் செல்வமினும் அறத்தினூங்கு ஆக்கமில்லை  
 மறத்தலின் கேடில்லை; மாசற்றமனச் சான்றாண்மை  
 திறத்தினாவது இன்பம்; அழுக்காறு அவாவெகுளி  
 புறத்ததா, இன்னாச்சொல் தவிர்தலே அறமெனவும்;  
