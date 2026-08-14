@@ -19,7 +19,7 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 |---|---:|---|---|
 | Part 001 | 1–20 | archival-ready; scan 8 documented partial | **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS** |
 | Part 002 | 21–41 | archival-ready | **RELEASE-READY — 21/21** |
-| Part 003 | 42–62 | archival-ready | **source-check COMPLETE — 21/21 source-checked** |
+| Part 003 | 42–62 | archival-ready | **EDITORIAL REVIEW COMPLETE — 21/21 editorial-reviewed** |
 
 ## Current English counts
 
@@ -37,9 +37,9 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 ### Part 003
 
 - English page files: **21 / 21** — scans 42–62
-- `source-checked`: **21** — scans 42–62
+- `editorial-reviewed`: **21** — scans 42–62
+- `source-checked`: **0**
 - `draft`: **0**
-- `editorial-reviewed`: **0**
 - `release-ready`: **0**
 - `source-limited`: **0**
 - `blocked`: **0**
@@ -60,11 +60,15 @@ Release decision: **RELEASE-READY**.
 
 Binding Part 002 source-fidelity decisions remain in force, including **Aadhi Bhagavan**, *iraivan*, *anthanar*, Kalaignar's Kural-25 Indra interpretation, Kural 12's **food they drink**, Kural 20's conduct warning, Kural 34's **clamour**, Kural 38's path-and-stone image, Nannan's ***puththelir* / new world**, and **“the low-priced edition of the people's hearts.”**
 
-# Part 003 English source-check — COMPLETE
+# Part 003 English editorial review — COMPLETE
 
-Tamil scans **42–62** are verified, audited and archival-ready. The English first pass is complete for all 21 pages, and every page has now been directly source-checked against the verified Tamil archival record.
+Tamil scans **42–62** are verified, audited and archival-ready. The English first pass and direct source-check are complete for all 21 pages. The dedicated editorial-consistency / glossary-reconciliation review has now also completed.
 
-Source-checked coverage:
+Review artefact:
+
+- [`reviews/PART_003_REVIEW.md`](reviews/PART_003_REVIEW.md)
+
+Editorial-reviewed coverage:
 
 - scans 42–43 — **Domestic Life**, Kural 41–50;
 - scans 44–45 — **The Worth of a Life Partner**, Kural 51–60;
@@ -78,15 +82,15 @@ Source-checked coverage:
 - scans 60–61 — **Good Conduct**, Kural 131–140;
 - scan 62 — beginning of **Not Desiring Another Man's Wife**, Kural 141–145.
 
-## Source-check decisions from scans 42–55
+## Binding source-sensitive decisions retained
 
-Earlier source-check decisions remain unchanged, including:
+The editorial review preserves the established source-check decisions, including:
 
 - Kural 42 **those without protection**;
 - Kural 55 slave/rain interpretation;
 - Kural 58 **new world**;
-- Kural 62 **seven births** in the Kural versus **seven times seven generations** in the commentary;
-- Kural 67 singular **son** in the Kural versus broader **children** in the commentary;
+- Kural 62 **seven births** in the Kural versus **seven times seven generations** in commentary;
+- Kural 67 singular **son** in the Kural versus broader **children** in commentary;
 - Kural 77 **conscience**;
 - Kural 78 **hard barren ground** in the verse versus Kalaignar's **desert** image in commentary;
 - Kural 85 seed-for-hospitality reading;
@@ -95,35 +99,38 @@ Earlier source-check decisions remain unchanged, including:
 - Kural 90 **anicham flower**;
 - Kural 101 **“a great gem that came unbidden”**;
 - Kural 104 millet / palmyra imagery;
-- Kural 107 seven-times-seven / no-time-limit explanation.
+- Kural 107 seven-times-seven / no-time-limit explanation;
+- Kural 111 enemy / neighbour / friend explanation kept in commentary rather than forced into the verse;
+- Kural 117 verse **low state / decline** versus commentary poverty explanation;
+- Kural 121 deathless/deep-darkness verse versus **imperishable fame / life itself dark** commentary;
+- Kural 126 **seven lives** in the verse versus protection **through all time** in commentary;
+- Kural 128 **drop of poison in a pot of milk**;
+- Kural 130 **Aram waiting upon the path**;
+- Kurals 133–134 explicit birth / lineage and **Brahmin** wording;
+- Kural 140 **live in accord with the world** in the verse versus conduct **accepted by the great** in commentary;
+- Kural 141 **discerned aram and wealth** in the verse versus the expanded works-on-aram/wealth commentary;
+- Kurals 141–145 repeated **another man's wife** wording and Kural 143's living-person-as-**corpse** image.
 
-## Source-check decisions from scans 56–62
+## Editorial consistency decisions
 
-- **Kural 111** retains the verse's impartiality framing, while Kalaignar's commentary separately preserves the explicit **enemy / neighbour / friend** distinction and refusal to stand one-sidedly.
-- **Kural 112** was tightened from generic **prosperity** to **wealth**, matching Kalaignar's `செல்வம்` explanation.
-- **Kural 117** was tightened so the Kural itself says a **low state / decline** rather than importing the commentary's explicit poverty explanation; Kalaignar's prose separately retains poverty caused by wealth not accumulating.
-- **Kural 118** retains the balance image and Kalaignar's **honest needle of a balance / speak what is just** explanation.
-- **Kural 121** keeps the Kural's deathless / deep-darkness imagery distinct from Kalaignar's commentary: self-control gives **imperishable fame**, while lack of it makes **life itself dark**.
-- **Kural 126** keeps **seven lives** in the Kural distinct from Kalaignar's commentary, where restraint becomes a protecting fortress for life **through all time**.
-- **Kural 128** retains Kalaignar's **drop of poison in a pot of milk** explanation.
-- **Kural 130** retains Kalaignar's personification of **Aram waiting upon the path**.
-- **Kural 132** was tightened so the Kural itself no longer imports the commentary's explicit hardship/suffering clause; that remains in Kalaignar's prose.
-- **Kural 135** was tightened by removing the added word **true** before prosperity.
-- **Kural 136** was tightened to **those of firm mind**, aligning with Kalaignar's `மன உறுதி கொண்டவர்கள்` explanation.
-- **Kurals 133–134** retain explicit birth / lineage language and the **Brahmin** reference; the source is not neutralized or modernized.
-- **Kural 140** keeps the verse's **live in accord with the world** wording distinct from Kalaignar's commentary, which specifically explains conduct **accepted by the great**.
-- **Kural 141** was tightened so the Kural itself says those who have **discerned aram and wealth**; Kalaignar's commentary separately expands this to works on aram and works on wealth.
-- **Kurals 141–145** retain the repeated **another man's wife** wording and source gender/social specificity. Kural 143 also retains Kalaignar's living-person-as-**corpse** image.
+- Chapter headings 5–15 are now controlled / editorial-reviewed through the supplied Kural 145.
+- `இல்லறவியல்` remains **Domestic Life** at section level; chapter 5 `இல்வாழ்க்கை` is also **Domestic Life**, and the duplicate metadata wording is deliberate.
+- Repeated Kurals **55, 58, 83, 94, and 98** retain their already reviewed/released Part 002 wording where the same source wording recurs.
+- Kural 95 commentary was reconciled to the controlled term **humility**.
+- Kural 97 commentary was lightly smoothed from the awkward phrase `good benefit` to **beneficial results** without semantic change.
+- Generic source referents in Kural 117, Kural 123 and Kural 127 commentary were reconciled to singular **they/them** rather than inserted masculine pronouns.
+- Kural 144 now uses generic **one** for the actor while retaining the explicit object **another man's wife**.
+- `GLOSSARY.md` now records the reviewed Part 003 source-sensitive forms and the explicit **Brahmin** social vocabulary.
 
-No editorial consistency review has begun.
+No Part 003 page has been promoted to `release-ready` yet.
 
 ## Next exact activity
 
-Begin the dedicated **Part 003 English editorial-consistency / glossary-reconciliation review across scans 42–62**.
+Run the separate **Part 003 English release gate**.
 
-Review all 21 `source-checked` pages for consistency of chapter titles, recurring terminology, names, punctuation, verse/commentary separation, repeated Kural wording, and readability **without weakening Kalaignar's language, imagery, social specificity or interpretive direction**.
+Verify all 21 `editorial-reviewed` page records, metadata, chapter-heading and glossary alignment, repeated-Kural consistency, and all binding source-fidelity decisions. Create `reviews/PART_003_RELEASE_REPORT.md`. Promote pages to `release-ready` only if the release gate passes.
 
-Create `reviews/PART_003_REVIEW.md` as the formal review artefact. Promote pages to `editorial-reviewed` only after the review is complete. Do **not** run the Part 003 release gate in the same activity.
+Do not begin Part 004 English work in the same activity.
 
 Permanent cadence:
 
