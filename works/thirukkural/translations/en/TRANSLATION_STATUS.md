@@ -12,82 +12,89 @@
 
 | Tamil part | Overall scans | Tamil state | English state |
 |---|---:|---|---|
-| Part 001 | 1–20 | archival-ready; scan 8 documented partial | **editorial review complete; release report pending** |
+| Part 001 | 1–20 | archival-ready; scan 8 documented partial | **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS** |
 | Part 002 | 21–41 | archival-ready | not started |
 | Part 003 | 42–62 | archival-ready | not started |
 
 ## Current English counts
 
-- English page files: **20**
-- `draft`: **0**
+### Part 001
+
+- English page files: **20 / 20**
+- `release-ready`: **19** — scans 1–7 and 9–20
+- `source-limited`: **1** — scan 8 handwritten facsimile
+- `editorial-reviewed`: **0**
 - `source-checked`: **0**
-- `editorial-reviewed`: **19** — scans 1–7 and 9–20
-- `release-ready`: **0**
-- `source-limited`: **1** — scan 8 handwritten facsimile; source-check and editorial consistency checks complete within the source limitation
+- `draft`: **0**
 - `blocked`: **0**
 
-# Part 001 English editorial review — COMPLETE
+# Part 001 English release — COMPLETE
 
-The Part 001 project translation has now completed:
+Part 001 has completed the full project-translation workflow:
 
-**first-pass translation → source-check → editorial consistency / glossary reconciliation.**
+**first-pass translation → source-check → editorial consistency / glossary reconciliation → release gate.**
 
-Review artefact:
+Review artefacts:
 
 - [`reviews/PART_001_REVIEW.md`](reviews/PART_001_REVIEW.md)
+- [`reviews/PART_001_RELEASE_REPORT.md`](reviews/PART_001_RELEASE_REPORT.md)
 
-All **19 fully translatable pages** have been promoted to `editorial-reviewed`. Scan 8 remains `source-limited` because its controlling Tamil facsimile remains partial.
+Final release decision:
 
-## Editorial decisions finalized for Part 001
+**RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS.**
+
+All **19 fully translatable pages** are now `release-ready`. Scan 8 remains `source-limited` because the controlling Tamil facsimile remains partial.
+
+## Controlled Part 001 decisions
 
 - `முப்பால்` → **Muppaal**;
 - verified source form `திருவிடம்` → **Tiruvidam**, deliberately retained rather than normalized;
-- `ஊழ்` → **Oozh** as a heading/concept title and *oozh* in running discussion when the Tamil term itself is named;
+- `ஊழ்` → **Oozh** as a heading/concept title and *oozh* in running discussion where the Tamil term itself is named;
 - `இயற்கை நிலை` → **natural condition** only as Professor Nannan's explicit account of Kalaignar's interpretation;
 - `வாயுறை` → **counsel**;
 - `பெண்வழிச் சேறல்` → **Following a Woman's Lead**;
 - `பிறிது மொழிதல்` → ***pirithu mozhithal*** with the gloss “saying one thing in order to convey another”;
-- `அடுத்தூர்வது அஃதொப்பதில்` → intentionally retained in Tamil because the audited source does not establish a sufficiently secure English expansion;
+- `அடுத்தூர்வது அஃதொப்பதில்` → intentionally retained exactly in Tamil because the audited source does not establish a sufficiently secure English expansion;
 - `பா நலம்` → **Poetic Quality**;
 - `அணி நலம்` → **Excellence of Poetic Figure**;
 - `அடை நலம்` → **Excellence of Epithets**.
 
 The distinction between source title **Invocation to God** (`கடவுள் வாழ்த்து`) and Kalaignar's adopted title **Worship** (`வழிபாடு`) remains mandatory.
 
-## Editorial corrections in this pass
+## Scan 8 — source-limited release record
 
-The review made limited readability/consistency corrections after source fidelity had already been established:
+The scan-8 English record has completed its source-limited alignment and editorial checks but remains `source-limited`.
 
-- scan 5 — normalized English punctuation in edition details;
-- scan 10 — smoothed `Muppaal ... counsel` word order and finalized deliberate retention of **Tiruvidam**;
-- scan 15 — improved the English sentence introducing Kalaignar's lucid commentary without changing Nannan's argument;
-- scan 16 — clarified how earlier explanations of `பெண்வழிச் சேறல்` became established;
-- scan 17 — improved the English syntax of numbered point 7;
-- scan 19 — finalized the documented non-translation of `அடுத்தூர்வது அஃதொப்பதில்`.
-
-No external/published English Kural wording was imported. The Kural examples 1101, 1098 and 17 on scan 20 remain project translations based on this archived Tamil source.
-
-## Scan 8 — source-limited after editorial review
-
-The scan-8 English record has completed both its source-limited alignment check and editorial consistency review. It still represents only the securely established source elements:
+Securely established material includes:
 
 - title **An Introduction to the Preface!**;
 - decorative divider presence;
 - Kalaignar's signature presence;
 - date **27/12/2007**;
-- reverse-side bleed-through excluded from current-page handwriting;
-- continuous handwritten body left untranslated and unreconstructed.
+- reverse-side bleed-through / page-condition description.
 
-Its status remains `source-limited`. A clearer controlling source is required for fuller translation.
+The continuous handwritten body remains untranslated and unreconstructed. A clearer controlling source would be required for fuller translation.
+
+## Scan 19 — intentionally retained Tamil phrase
+
+`அடுத்தூர்வது அஃதொப்பதில்` remains visible in Tamil with a translation note. This is an explicit editorial decision, not a hidden omission. No external Kural translation or another commentator was imported to force a reading.
+
+## Scan 20 — quoted Kurals
+
+Kurals **1101, 1098 and 17** and their adjacent Kalaignar explanations remain project translations based on this archived Tamil source. No published/external English Kural wording was substituted.
 
 ## Part 002 plan
 
-After Part 001 English release:
+Part 002 Tamil scans **21–41** are already audited / archival-ready.
 
-1. scans 21–33 — remaining front matter, indexes, section title and blank verso;
-2. scans 34–41 — Kural 1–40 + Kalaignar commentary;
-3. source-check and editorial review;
-4. Part 002 translation release report.
+English first-pass translation will proceed in source order:
+
+1. scans **21–27** — completion of Professor Ma. Nannan's `மதிப்புரை` / **Critical Appreciation**, followed by `பதிப்புரை` / **Publisher's Note**;
+2. scans **28–33** — indexes, `அறம்` section title and blank verso;
+3. scans **34–41** — Kural **1–40** plus Kalaignar commentary;
+4. source-check;
+5. editorial consistency review;
+6. Part 002 English release report.
 
 ## Part 003 plan
 
@@ -105,15 +112,10 @@ For every newly supplied Tamil PDF after Part 003:
 
 ## Next exact activity
 
-Create the separate **Part 001 English release report** at:
+Begin **Part 002 English first-pass translation with scans 21–27**.
 
-`reviews/PART_001_RELEASE_REPORT.md`
-
-Release-gate checks:
-
-1. confirm **20/20** aligned English records exist;
-2. confirm **19** fully translatable pages are `editorial-reviewed`;
-3. confirm scan 8 remains explicitly `source-limited`;
-4. confirm `PART_001_REVIEW.md`, `GLOSSARY.md`, page metadata and this status file agree;
-5. confirm the intentionally retained Tamil phrase on scan 19 is documented rather than hidden;
-6. if the gate passes, promote eligible pages to `release-ready` while keeping scan 8 `source-limited` and record the final Part 001 English release decision.
+- fetch Tamil files `0021-mathippurai-08.md` through `0027-pathippurai.md`;
+- create matching English files under `translations/en/pages/`;
+- use `status: "draft"` initially;
+- continue the controlled glossary from Part 001 and add/revise terms only where the new source context requires it;
+- translate only from the audited Tamil records / controlling scans, with no external English Kural wording or outside commentary.
