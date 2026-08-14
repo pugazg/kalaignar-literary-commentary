@@ -43,7 +43,7 @@ The currently archived main-body Tamil reaches Kural **145**.
 Part 001 has **20/20 aligned English records**:
 
 - scans **1–7**: `source-checked`;
-- scan **8**: `source-limited`;
+- scan **8**: `source-limited`, with source-limited alignment check complete;
 - scans **9–20**: `draft`.
 
 No page has yet undergone the later editorial-consistency stage.
@@ -52,7 +52,11 @@ No page has yet undergone the later editorial-consistency stage.
 
 The first source-check batch is complete. Scans 1–5 required no translation-text changes. Scan 6 now uses the controlled title **The Professor's Foreword**. The Preface on scan 7 was tightened to restore source meaning in `நிறைவேற்றி மகிழ்`, `உண்மை நிலை`, and `இனமான ஏந்தல்`, while preserving Kalaignar's distinction between **Invocation to God** and **Worship**.
 
-Scan 8 remains intentionally source-limited and is not to be reconstructed from uncertain handwriting.
+### Scan 8 — source-limited alignment reviewed
+
+The aligned English page has been checked against the partial Tamil archival record. The title, decorative divider, signature presence, date **27/12/2007**, bleed-through description and deliberate omission of unreadable handwriting all match the source-supported record. No translation-text correction was required.
+
+Scan 8 remains `source-limited`; the unreadable continuous handwriting must not be reconstructed unless a clearer controlling source is supplied.
 
 See:
 
@@ -62,4 +66,4 @@ See:
 
 ## Next activity
 
-Review scan **8** against the partial Tamil archival record as a source-limited alignment check. Keep it `source-limited`; translate no uncertain handwriting. Then continue source-checking scans **9–12**.
+Source-check Part 001 scans **9–12**, covering **The Professor's Foreword**. Resolve translation-sensitive choices only from the audited Tamil source and project glossary; keep editorial-consistency review as a later separate stage.
