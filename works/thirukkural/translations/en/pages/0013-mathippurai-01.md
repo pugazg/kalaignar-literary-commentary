@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Critical Appreciation — Need"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -19,7 +19,7 @@ It is considered the duty of this publication note to point out the qualities of
 
 ## 1. Need
 
-What is the reason behind sayings such as “Those who gave food gave life itself,” and behind calling giving an aram? Is it not because want exists in the world? Is that alone the cause of giving? No. If there were no possession—that is, if there were only lack of ownership—giving could not have arisen, could it? Thus poverty exists in the world, and so does possession, its opposite. It is from this that the aram of giving arose.
+What is the reason behind sayings such as “Those who gave food gave life itself,” and behind saying that giving is aram? Is it not because want exists in the world? Is that alone the cause of giving? No. If possession did not exist—that is, if there were no ownership—giving could not have arisen, could it? Thus poverty exists in the world, and so does possession, its opposite. It is from this that the aram of giving arose.
 
 From this situation we can understand something else as well. What is it? Some people possess wealth beyond their needs; for that very reason, it is unavailable to meet the needs of some others. To put this still more plainly, the reason the world suffers from poverty is not that material resources do not exist, but that there is no arrangement by which those resources are available to everyone.
 
