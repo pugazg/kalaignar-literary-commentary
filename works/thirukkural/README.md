@@ -57,20 +57,26 @@ Release decision: **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**.
 
 - English page files: **21 / 21**
 - `release-ready`: **21** — scans 21–41
-- `editorial-reviewed`: **0**
-- `source-checked`: **0**
-- `draft`: **0**
 
 Release decision: **RELEASE-READY**.
 
-The Part 002 release preserves Kalaignar's source-specific readings in Kural 1–40, including **Aadhi Bhagavan**, *iraivan*, *anthanar*, his Indra interpretation in Kural 25, Kural 12's **food they drink**, Kural 20's conduct warning, and Kural 38's **stone that sets the path of life in order**.
+The released Part 002 layer preserves Kalaignar's source-specific readings and Nannan's source-sensitive language rather than normalizing them toward external interpretations.
 
-The full 133-chapter index remains an index-local project translation rather than an imported standard English list. This edition's own explanatory glossary remains a separate source layer. `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு` remains **“the low-priced edition of the people's hearts.”** The Part 001 / Part 002 difference for `அடுத்தூர்வது அஃதொப்பதில்` remains explicitly documented rather than silently harmonized.
-
-### Part 003 English
+### Part 003 English — FIRST PASS IN PROGRESS
 
 - Tamil scans **42–62**: audited / archival-ready
-- English pages: **0 / 21**
+- English pages: **7 / 21** — scans 42–48
+- `draft`: **7**
+- remaining first-pass pages: **14** — scans 49–62
+
+Completed draft coverage reaches Kural **75**:
+
+- scans 42–43 — **Domestic Life**, Kural 41–50;
+- scans 44–45 — **The Worth of a Life Partner**, Kural 51–60;
+- scans 46–47 — **The Blessing of Children**, Kural 61–70;
+- scan 48 — beginning of **Love**, Kural 71–75.
+
+These are first-pass translations only. Source-sensitive choices—including Kalaignar's readings of Kural 42, Kural 43, Kural 57, Kural 62 and Kural 70—remain queued for the dedicated Part 003 source-check after all 21 first-pass pages exist.
 
 ## Source-first rule
 
@@ -80,13 +86,13 @@ The full 133-chapter index remains an index-local project translation rather tha
 
 ## அடுத்த செயல்
 
-Begin the **Part 003 English first-pass translation with scans 42–48**.
+Continue the **Part 003 English first-pass translation with scans 49–55**:
 
-- scans 42–43 — `5. இல்வாழ்க்கை` / **Domestic Life**, Kural 41–50;
-- scans 44–45 — `6. வாழ்க்கைத் துணைநலம்` / **The Worth of a Life Partner**, Kural 51–60;
-- scans 46–47 — `7. மக்கட்பேறு` / **The Blessing of Children**, Kural 61–70;
-- scan 48 — beginning of `8. அன்புடைமை` / **Love**, Kural 71–75.
+- scan 49 — completion of **Love**, Kural 76–80;
+- scans 50–51 — **Hospitality**, Kural 81–90;
+- scans 52–53 — **Speaking Pleasant Words**, Kural 91–100;
+- scans 54–55 — **Gratitude for Help Received**, Kural 101–110.
 
-Create one-to-one English pages as `draft`; preserve Kural number and two-line structure; translate Kalaignar's commentary separately; and do not import published English Kural wording or outside commentary.
+Create one-to-one English pages as `draft`; preserve Kural number and two-line structure; translate Kalaignar's commentary separately; and do not import published English Kural wording or outside commentary. Do not source-check these drafts until the full Part 003 first pass is complete.
 
 Tamil source intake can later continue from overall scan **63** only when a newly supplied scan itself confirms continuity after scan 62 / printed page 29 / Kural 145.
