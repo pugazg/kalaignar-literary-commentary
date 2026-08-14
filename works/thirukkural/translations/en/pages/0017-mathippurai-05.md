@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Critical Appreciation — Following a Woman's Lead"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -15,7 +15,7 @@ translation_basis: "verified Tamil archival transcription; controlling scan rema
 
 6. Those who submit to a wife merely because she is beautiful, though she lacks knowledge and good character, may imaginatively present themselves as people endowed with a divine nature; in truth, they possess no greatness at all.
 
-7. More worthy of honour than the manliness of a man who lies clinging around a woman's feet is the womanhood of a woman who possesses a sense of dignity.
+7. More worthy of honour than the manliness of a man who lies at a woman's feet, clinging to them, is the womanhood of a woman who possesses a sense of dignity.
 
 8. Those who become infatuated with a woman merely because of her beauty and lose their reason will neither care about their friends nor perform good deeds.
 
