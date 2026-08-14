@@ -17,7 +17,7 @@ Do not import a published English Thirukkural translation, another Tamil edition
 
 The English should retain the source author's language, images, emphases and interpretive direction as closely as clear English allows. Kalaignar's commentary must remain Kalaignar's commentary: a familiar conventional interpretation must never replace what he actually says merely because it sounds more standard in English.
 
-Source metaphors and emphatic formulations should not be silently softened. Where close English sounds unusual but accurately preserves a meaningful source image, retain it and let later editorial review decide whether a clearly documented refinement is justified.
+The same source-first discipline applies to Nannan, the publisher, indexes and the edition's own glossaries. Source-specific metaphors, definitions and unusual formulations must not be silently normalized away.
 
 ## Status model
 
@@ -47,22 +47,17 @@ Part 002 has **21/21 aligned English records** covering scans **21–41**.
 
 Current counts:
 
-- `source-checked`: **7** — scans 21–27
-- `draft`: **14** — scans 28–41
+- `source-checked`: **13** — scans 21–33
+- `draft`: **8** — scans 34–41
 - `editorial-reviewed`: **0**
 - `release-ready`: **0**
 
-The scans 21–27 source-check was deliberately fidelity-first. Notable corrections include:
+Scans **21–27** have completed source-check with fidelity-first corrections to Nannan's prose and quoted Kurals. Scans **28–33** are now also source-checked: chapter-index order/numbers were verified, the edition's own `அருஞ்சொற்பொருள்` explanations were preserved rather than replaced by conventional definitions, scan 32's inferred **xxxi** pagination basis was retained explicitly, and scan 33 remains only a blank / bleed-through record.
 
-- scan 21 — removed the added idea that Kalaignar's commentary has the **compactness** of a Kural; the source says it is itself formed as a Kural;
-- scan 22 — `நேர்மை பிறழாப் புதுமை` is now closer to **“innovation that does not depart from fidelity”**;
-- scan 23 — Kural 58 now reflects Kalaignar's adjacent explanation more precisely while retaining Kural and commentary as separate layers;
-- scan 25 — the first-pass phrase **“pressing forward to meet it”** added an image not securely required by the source. The source-checked line is **“nothing equals that for driving it away.”** Released Part 001 scan 19 remains unchanged for now;
-- scan 26 — `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு` is kept close to the source metaphor as **“the low-priced edition of the people's hearts”** rather than being silently smoothed into a different image;
-- scan 27 — the inferred printed page **xxvi** remains explicitly identified as a same-source pagination inference.
+Notable source-close corrections in scans 28–31 include **Possession of Compassion** for `அருளுடைமை`, **Possession of Little Understanding** for `புல்லறிவாண்மை`, **Sulking with the Heart** for `நெஞ்சொடு புலத்தல்`, and the exact source-gloss distinction **Worship | Following** for `வழிபாடு | பின்பற்றுதல்`.
 
 See [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md) for the detailed source-check record.
 
 ## Next activity
 
-Continue the dedicated **Part 002 source-check with scans 28–33**: the chapter index, chapter-term glossary, Aram title page and blank verso. Preserve this edition's own entry order, numbers and glossary explanations rather than normalizing them against another edition.
+Complete the dedicated **Part 002 source-check with scans 34–41**, Kural **1–40** plus Kalaignar's commentary. Preserve Kalaignar's own readings—especially `ஆதி பகவன்`, `இறைவன்`, `அந்தணர்`, the Indra example and Kural 38's image—rather than substituting conventional external interpretations. Editorial consistency review begins only after all 21 Part 002 pages are source-checked.
