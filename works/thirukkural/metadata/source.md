@@ -47,8 +47,8 @@
   - `13. அடக்கம் உடைமை` — 121–130;
   - `14. ஒழுக்கம் உடைமை` — 131–140;
   - `15. பிறனில் விழையாமை` begins with Kural 141–145 on printed page 29.
-- Current processing state: scans **42–48** have first-pass page records; scans **49–62** are not started.
-- All new Part 003 records remain `needs-review` until a separate direct visual-verification pass.
+- Current processing state: scans **42–55** have first-pass page records; scans **56–62** are not started.
+- All Part 003 records remain `needs-review` until a separate direct visual-verification pass.
 
 ## Publication details visible in Part 001
 
