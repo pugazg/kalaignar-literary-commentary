@@ -6,48 +6,35 @@ This directory contains the **project-created English translation layer** for th
 
 This is **not being presented as an official or publisher-issued English edition** of Kalaignar's commentary.
 
-Unless a separately published English source is later supplied and archived as its own source-controlled edition, every English page under this directory must be identified as:
+Unless a separately published English source is later supplied and archived independently, every English page under this directory is identified as:
 
 `translation_type: "project_translation"`
 
-The translation is produced from the repository's audited Tamil transcription, while the **supplied Tamil scan remains the ultimate controlling source** if any discrepancy is discovered.
+The supplied Tamil scan remains the ultimate controlling source; the audited Tamil archival record is the working translation basis.
 
 ## Authority order
 
 1. exact supplied Tamil scan;
-2. corresponding verified/audited Tamil archival page in `works/thirukkural/pages/`;
+2. corresponding verified/audited Tamil archival page;
 3. `TRANSLATION_GUIDE.md` and `GLOSSARY.md`;
 4. project translation notes created during review.
 
-Do **not** silently import wording from an existing English Thirukkural translation, another Tamil edition, another commentator, or a web text.
+Do not silently import wording from an existing English Thirukkural translation, another Tamil edition, another commentator, or a web text.
 
 ## One-to-one page alignment
 
-English page files mirror the Tamil archival page filenames exactly:
-
-```text
-works/thirukkural/pages/0034-aram-vazhipadu-01.md
-works/thirukkural/translations/en/pages/0034-aram-vazhipadu-01.md
-```
+English page files mirror Tamil filenames exactly under `translations/en/pages/`.
 
 ## Translation statuses
 
 - `draft` — first complete English rendering exists;
-- `source-checked` — English has been checked line/paragraph-wise against the verified Tamil source record;
+- `source-checked` — English has been checked line/paragraph-wise against the audited Tamil source record;
 - `editorial-reviewed` — fidelity, terminology, consistency and English readability review completed;
 - `release-ready` — final page-level review completed and included in the part-level release report;
 - `source-limited` — English completeness is limited because the controlling Tamil source itself is partial;
 - `blocked` — translation cannot safely proceed for a documented reason.
 
 A page must not jump directly from `draft` to `release-ready`.
-
-## Translation method
-
-Where present in the archived Tamil page, translate titles, Kural text, Kalaignar's commentary, prefaces, forewords, reviews, publisher's notes, and useful contents/index material. Kural and commentary layers remain visibly separate.
-
-The English may use natural syntax, but must not modernize Kalaignar's interpretation, harmonize him with another commentator, or repair unusual Tamil by substitution from another edition.
-
-For Part 001 scan 8, whose Tamil archival record is deliberately `partial`, the aligned English record uses `status: "source-limited"` and does not reconstruct the unreadable handwriting.
 
 ## Current Tamil source readiness
 
@@ -61,19 +48,29 @@ The currently archived main-body Tamil reaches Kural **145**.
 
 Translation framework: **established**.
 
-Part 001 English production now has **12 aligned page records**:
+### Part 001 first-pass translation — COMPLETE
 
-- scans **1–7**: `draft`;
-- scan **8**: `source-limited`;
-- scans **9–12**: `draft`;
-- scans **13–20**: not yet translated;
-- no page has yet completed the separate source-check or editorial-review stages.
+Part 001 now has **20/20 aligned English page records**:
 
-### Scans 9–12 — The Professor's Foreword
+- scans **1–7** — `draft`;
+- scan **8** — `source-limited`;
+- scans **9–20** — `draft`.
 
-The four-page poetic foreword by **K. Anbazhagan** is now present as a first-pass English draft. The translation preserves the source's poem-like line structure, quotations, repeated rhetorical emphasis and highlighted lines rather than reducing the text to prose.
+Current Part 001 English totals:
 
-A source-sensitive note is carried on scan 10 because the verified Tamil source reads `திருவிடம்`; the English draft therefore retains **Tiruvidam** instead of silently substituting a different Tamil form. `முப்பால்` is provisionally retained as **Muppaal**, and `ஊழ்` as **oozh**, pending the dedicated source-check/editorial review.
+- `draft`: **19**;
+- `source-limited`: **1**;
+- `source-checked`: **0**;
+- `editorial-reviewed`: **0**;
+- `release-ready`: **0**.
+
+Scans 13–20 complete the first-pass translation of Professor Ma. Nannan's `மதிப்புரை` / **Critical Appreciation**, including `Need`, `Worship`, `Following a Woman's Lead`, `Oozh`, and the opening discussion of the commentary's various literary merits.
+
+The scan-20 Kural examples were translated from this project's audited Tamil source rather than copied from a published English Thirukkural.
+
+Review-sensitive terms remain intentionally provisional and visible in `GLOSSARY.md`, including **Muppaal**, **Tiruvidam**, **Oozh**, **Following a Woman's Lead**, ***pirithu mozhithal***, and the three literary headings rendered as **Poetic Quality**, **Excellence of Poetic Figure**, and **Excellence of Epithets**.
+
+Scan 8 remains `source-limited`; its unreadable handwritten body has not been reconstructed.
 
 See:
 
@@ -83,6 +80,4 @@ See:
 
 ## Next activity
 
-Create Part 001 English first-pass `draft` files for **scans 13–20**, covering `மதிப்புரை` / Critical Appreciation and the remaining literary-analysis front matter.
-
-Preserve source headings, quotations, Kural references, paragraph structure and emphasis. Review/promotion remains a separate later activity.
+Begin the dedicated **Part 001 English source-check cycle with scans 1–7**. Compare each draft with the audited Tamil page for completeness and fidelity, correct only source-supported translation issues, and promote a page to `source-checked` only after that comparison is complete. Editorial consistency review remains a later separate stage.
