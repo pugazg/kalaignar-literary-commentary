@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–003 audited / archival-ready for supplied material |
-| Thirukkural — Kalaignar's Commentary | English project translation | Part 001 **20/20 aligned; 11 source-checked; scan 8 source-limited** |
+| Thirukkural — Kalaignar's Commentary | English project translation | Part 001 **20/20 aligned; 19 source-checked + 1 source-limited** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -47,14 +47,14 @@ Permanent cadence:
 Current Part 001 English status:
 
 - aligned English page files: **20 / 20**
-- `source-checked`: **11** — scans 1–7 and 9–12
+- `source-checked`: **19** — scans 1–7 and 9–20
 - `source-limited`: **1** — scan 8; alignment check complete
-- `draft`: **8** — scans 13–20
+- `draft`: **0**
 - `editorial-reviewed`: **0**
 - `release-ready`: **0**
 
-The Professor's Foreword on scans **9–12** has completed source-check. Review-sensitive forms such as **Muppaal**, **Tiruvidam**, **oozh**, and provisional **counsel** for `வாயுறை` remain explicitly visible for later editorial review rather than being normalized silently.
+The Part 001 English source-check stage is now complete. The final batch, scans 13–20, corrected only source-supported fidelity issues and retained unresolved source-sensitive wording explicitly rather than forcing an external interpretation. In particular, scan 19 now preserves `அடுத்தூர்வது அஃதொப்பதில்` in Tamil after withdrawing the insecure first-pass English expansion.
 
-Next English activity: source-check scans **13–20**, covering Professor Ma. Nannan's **Critical Appreciation**.
+Next English activity: run the full **Part 001 editorial-consistency / glossary reconciliation pass**, document decisions in `works/thirukkural/translations/en/reviews/PART_001_REVIEW.md`, and only then promote eligible pages to `editorial-reviewed`.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md) and [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md).
