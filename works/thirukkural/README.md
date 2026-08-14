@@ -23,7 +23,9 @@ Part 001-ல் தெரியும் edition information:
 
 Parts 002–003 contain no new edition statement; publication metadata-க்கு Part 001 தான் ஆதாரம்.
 
-## Part 001
+## Tamil archival state
+
+### Part 001
 
 - page records: **20 / 20**
 - `verified`: **19**
@@ -31,7 +33,7 @@ Parts 002–003 contain no new edition statement; publication metadata-க்க
 - Audit: [`AUDIT_PART_001.md`](AUDIT_PART_001.md)
 - Release decision: **ARCHIVAL-READY WITH ONE DOCUMENTED PARTIAL FACSIMILE**
 
-## Part 002
+### Part 002
 
 - page records: **21 / 21**
 - `verified`: **21 / 21**
@@ -39,7 +41,7 @@ Parts 002–003 contain no new edition statement; publication metadata-க்க
 - Audit: [`AUDIT_PART_002.md`](AUDIT_PART_002.md)
 - Release decision: **ARCHIVAL-READY**
 
-## Part 003
+### Part 003
 
 Part 003 contains **21 pages**, overall scans **42–62**, printed pages **9–29**, covering Kural **41–145**.
 
@@ -51,64 +53,34 @@ Part 003 contains **21 pages**, overall scans **42–62**, printed pages **9–2
 - Audit: [`AUDIT_PART_003.md`](AUDIT_PART_003.md)
 - Release decision: **ARCHIVAL-READY**
 
-### Structure
-
-| Overall scan | உள்ளடக்கம் | நிலை |
-|---:|---|---|
-| 42–43 | `5. இல்வாழ்க்கை` — குறள் 41–50 + கலைஞர் உரை | **verified** |
-| 44–45 | `6. வாழ்க்கைத் துணைநலம்` — குறள் 51–60 + உரை | **verified** |
-| 46–47 | `7. மக்கட்பேறு` — குறள் 61–70 + உரை | **verified** |
-| 48–49 | `8. அன்புடைமை` — குறள் 71–80 + உரை | **verified** |
-| 50–51 | `9. விருந்தோம்பல்` — குறள் 81–90 + உரை | **verified** |
-| 52–53 | `10. இனியவை கூறல்` — குறள் 91–100 + உரை | **verified** |
-| 54–55 | `11. செய்ந்நன்றியறிதல்` — குறள் 101–110 + உரை | **verified** |
-| 56–57 | `12. நடுவு நிலைமை` — குறள் 111–120 + உரை | **verified** |
-| 58–59 | `13. அடக்கம் உடைமை` — குறள் 121–130 + உரை | **verified** |
-| 60–61 | `14. ஒழுக்கம் உடைமை` — குறள் 131–140 + உரை | **verified** |
-| 62 | `15. பிறனில் விழையாமை` — குறள் 141–145 + உரை | **verified** |
-
-### Verification and audit outcome
-
-Direct visual comparison was completed in three batches: scans 42–48, 49–55, and 56–62. All 21 first-pass records matched the exact source scan, so **no source-text correction was required during the Part 003 verification cycle**.
-
-The release audit confirmed:
-
-- one record for every scan 42–62;
-- local-page continuity 1–21;
-- printed-page continuity 9–29;
-- Kural continuity 41–145;
-- all 21 records `verified` with `transcription_method: "direct visual comparison with source scan"`;
-- no unresolved Part 003 page.
-
 ## English project translation layer
 
-The English framework is now initialized at:
+The English layer is a **project-created translation**, not a publisher/official English edition. The Tamil scans remain the ultimate authority, and the audited Tamil Markdown pages are the working translation basis.
 
-`translations/en/`
-
-This English layer is explicitly a **project-created translation**, not a publisher/official English edition. The Tamil scans remain the ultimate authority, and the audited Tamil Markdown pages are the working translation basis.
-
-Created framework files:
+Framework files:
 
 - [`translations/en/README.md`](translations/en/README.md)
 - [`translations/en/TRANSLATION_GUIDE.md`](translations/en/TRANSLATION_GUIDE.md)
 - [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md)
 - [`translations/en/TRANSLATION_STATUS.md`](translations/en/TRANSLATION_STATUS.md)
 
-Permanent cadence for each supplied Tamil PDF part:
+Permanent cadence:
 
 **Tamil transcription → visual verification → Tamil audit → English draft → source-check → editorial review → English release report.**
 
-We will therefore **not wait until the entire 1,330-Kural book has been supplied** before translating audited parts.
-
 ### English status now
 
-- translation framework: **established**
-- Part 001 English pages: **0 / 20 created**
-- Part 002 English pages: **0 / 21 created**
-- Part 003 English pages: **0 / 21 created**
+- Part 001 English page files: **7 / 20 created**
+- scans **1–7**: `draft`
+- scan **8**: not yet created; must be `source-limited`
+- scans **9–20**: not yet translated
+- Part 002 English pages: **0 / 21**
+- Part 003 English pages: **0 / 21**
+- no English page has yet completed source-check/editorial review
 
-Part 001 scan 8 will necessarily be `source-limited` because the controlling handwritten Tamil page is itself partial; no English reconstruction will be invented.
+The first seven drafts cover the cover, title page, blank page, publication details, edition details, contents, and Kalaignar's Preface (printed page vi).
+
+The controlled glossary has also been extended for front-matter terms including `முன்னுரை`, `பொருட்பால்`, `இன்பத்துப்பால்`, `கடவுள் வாழ்த்து`, and the alphabetical index labels.
 
 ## Source-first rule
 
@@ -118,7 +90,7 @@ Part 001 scan 8 will necessarily be `source-limited` because the controlling han
 
 ## அடுத்த செயல்
 
-Begin the **Part 001 English first-pass translation** with scans **1–7**. Create one-to-one matching files under `translations/en/pages/`, mark them `draft`, translate only source-supported content, and do not promote them during the first-pass creation activity.
+Create the aligned English record for **Part 001 scan 8** as `source-limited`. Translate only content safely established by the audited Tamil record; do not reconstruct the unreadable handwritten body. After scan 8, continue Part 001 first-pass translation with scans **9–12**.
 
 Tamil source continuation remains ready for overall scan **63** whenever the next PDF is supplied and its source continuity is confirmed.
 
