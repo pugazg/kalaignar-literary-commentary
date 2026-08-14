@@ -35,6 +35,7 @@ Framework:
 - [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md)
 - [`translations/en/TRANSLATION_STATUS.md`](translations/en/TRANSLATION_STATUS.md)
 - [`translations/en/reviews/PART_001_REVIEW.md`](translations/en/reviews/PART_001_REVIEW.md)
+- [`translations/en/reviews/PART_001_RELEASE_REPORT.md`](translations/en/reviews/PART_001_RELEASE_REPORT.md)
 
 Permanent cadence:
 
@@ -42,22 +43,32 @@ Permanent cadence:
 
 ### English status now
 
-Part 001 has complete one-to-one English coverage and has completed source-check plus editorial-consistency review:
+#### Part 001 — RELEASE COMPLETE
 
 - page files: **20 / 20**
-- `editorial-reviewed`: **19** — scans 1–7 and 9–20
-- `source-limited`: **1** — scan 8; source-limited alignment and editorial checks complete
+- `release-ready`: **19** — scans 1–7 and 9–20
+- `source-limited`: **1** — scan 8
+- `editorial-reviewed`: **0**
 - `source-checked`: **0**
 - `draft`: **0**
-- `release-ready`: **0**
-- Part 002 English pages: **0 / 21**
-- Part 003 English pages: **0 / 21**
+- `blocked`: **0**
 
-The Part 001 editorial review finalized the controlled treatment of **Muppaal**, source-specific **Tiruvidam**, **Oozh / oozh**, `வாயுறை` → **counsel**, `பெண்வழிச் சேறல்` → **Following a Woman's Lead**, ***pirithu mozhithal***, and the scan-20 literary headings. `அடுத்தூர்வது அஃதொப்பதில்` remains intentionally in Tamil because the audited source does not support a sufficiently secure English expansion; that unresolved rendering is documented rather than guessed.
+Release decision: **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**.
 
-The scan-20 Kural examples 1101, 1098 and 17 remain project translations grounded in this archived Tamil source and Kalaignar's adjacent explanations; no published English Kural wording was substituted.
+Scan 8 remains deliberately `source-limited`; its unreadable continuous handwriting is not reconstructed. Scan 19 deliberately retains `அடுத்தூர்வது அஃதொப்பதில்` in Tamil with a translation note because the audited source does not establish a sufficiently secure English expansion. The scan-20 Kural examples 1101, 1098 and 17 remain project translations grounded in this archived Tamil source and Kalaignar's adjacent explanations; no published English Kural wording was substituted.
 
-Scan 8 remains deliberately `source-limited`; the unreadable continuous handwriting is not reconstructed.
+Part 001 controlled terminology includes **Muppaal**, source-specific **Tiruvidam**, **Oozh / oozh**, `வாயுறை` → **counsel**, `பெண்வழிச் சேறல்` → **Following a Woman's Lead**, ***pirithu mozhithal***, and the reviewed scan-20 literary headings.
+
+#### Part 002
+
+- Tamil scans **21–41**: audited / archival-ready
+- English pages: **0 / 21**
+- next English batch: scans **21–27**
+
+#### Part 003
+
+- Tamil scans **42–62**: audited / archival-ready
+- English pages: **0 / 21**
 
 ## Source-first rule
 
@@ -67,6 +78,11 @@ Scan 8 remains deliberately `source-limited`; the unreadable continuous handwrit
 
 ## அடுத்த செயல்
 
-Create the separate Part 001 English **release report** at `translations/en/reviews/PART_001_RELEASE_REPORT.md`. Verify 20/20 aligned records, 19 `editorial-reviewed` pages, scan 8's continuing `source-limited` status, glossary/review consistency and the documented scan-19 Tamil phrase. Only after the release gate passes should eligible pages be promoted to `release-ready`.
+Begin Part 002 English first-pass translation with overall scans **21–27**:
+
+- scans 21–26 — `மதிப்புரை` / **Critical Appreciation** continuation and completion;
+- scan 27 — `பதிப்புரை` / **Publisher's Note**.
+
+Create matching English records under `translations/en/pages/` with `status: "draft"`. Continue the Part 001 controlled glossary and add or revise terminology only when the audited Part 002 source requires it.
 
 Tamil source intake can later continue from overall scan **63** only when a newly supplied scan itself confirms continuity after scan 62 / printed page 29 / Kural 145.
