@@ -24,11 +24,11 @@ When context requires a different rendering, preserve the source meaning and rec
 | முன்னுரை | Introduction | Keep distinct from `முகவுரை` when both occur in the same source. |
 | அணிந்துரை | Foreword | Use for the contributor's commendatory introductory essay. |
 | பேராசிரியரின் அணிந்துரை | The Professor's Foreword | Controlled title for Part 001 scans 9–12. |
-| மதிப்புரை | Critical Appreciation | Controlled title for Professor Ma. Nannan's assessment; Part 001 portion is release-reviewed, Part 002 continuation is currently draft. |
+| மதிப்புரை | Critical Appreciation | Controlled title for Professor Ma. Nannan's assessment; Part 001 is release-reviewed and the Part 002 continuation is editorial-reviewed. |
 | பதிப்புரை | Publisher's Note | Preferred when it is actually a publisher-issued introductory note. Scan 27 is translated under this title; scan 13's source sentence `இப்பதிப்புரை` remains `this publication note` rather than being silently corrected. |
 | கடவுள் வாழ்த்து | Invocation to God | Source title explicitly discussed in Kalaignar's Preface; do not replace it with `Worship` when translating that quoted title. |
-| அதிகார அகர வரிசை | Alphabetical Index of Chapters | Default for the front-matter index heading. |
-| அதிகார அருஞ்சொற்பொருள் அகரவரிசை | Alphabetical Glossary of Chapter Terms | Provisional structural rendering; retain source distinctions during review. |
+| அதிகார அகர வரிசை | Alphabetical Index of Chapters | Controlled structural heading for scans 28–29. |
+| அதிகார அருஞ்சொற்பொருள் அகரவரிசை | Alphabetical Glossary of Chapter Terms | Retained after Part 002 editorial review; translate this edition's own glosses rather than replacing them with conventional definitions. |
 | குறள் முதற்குறிப்பு அகரவரிசை | Alphabetical Index by the Opening Words of the Kurals | Default for the contents entry and later index heading. |
 
 ## Chapter / analytical heading defaults now encountered
@@ -42,13 +42,13 @@ When context requires a different rendering, preserve the source meaning and rec
 | பா நலம் | Poetic Quality | Retained as the Part 001 scan-20 literary heading. |
 | அணி நலம் | Excellence of Poetic Figure | Retained for Part 001. Revisit only if later source material establishes a broader technical usage that warrants a deliberate project-wide change. |
 | அடை நலம் | Excellence of Epithets | Retained for Part 001; `அடை` refers to qualifying/epithetic expression in this context. |
-| உரைக் குறள் | Commentary in Kural Form | Part 002 scan 21 draft heading; source says both the Kural and Kalaignar's commentary take a compact Kural-like form. Review before Part 002 release. |
-| இடைமிடை சொல்நலம் | Grace of Interposed Words | Part 002 scan 21 draft heading; refers to added words that remove an obstacle to understanding the Kural's meaning. |
-| தெளிவு | Clarity | Part 002 scan 22 draft analytical heading. |
-| சுருக்க விளக்கம் | Concise Explanation | Part 002 scan 22 draft analytical heading. |
-| புதுப்பொருள் | New Meaning | Part 002 scans 22–23 draft analytical heading. |
-| புத்தம்புது விளக்கம் | Entirely Fresh Explanation | Part 002 scan 24 draft analytical heading; review stylistic wording at source-check/editorial stage. |
-| நுண்மாண் நுழைபுலம் | Subtle Penetrating Insight | Part 002 scans 24–25 draft analytical heading. |
+| உரைக் குறள் | Commentary in Kural Form | Part 002 editorial review retains this heading. The source says the verse is a Kural and Kalaignar's commentary itself is formed as a Kural; do not add a separate claim about “compactness.” |
+| இடைமிடை சொல்நலம் | Grace of Interposed Words | Part 002 editorial review retains this source-sensitive analytical heading. |
+| தெளிவு | Clarity | Part 002 editorial-reviewed analytical heading. |
+| சுருக்க விளக்கம் | Concise Explanation | Part 002 editorial-reviewed analytical heading. |
+| புதுப்பொருள் | New Meaning | Part 002 editorial-reviewed analytical heading. |
+| புத்தம்புது விளக்கம் | Entirely Fresh Explanation | Part 002 editorial review retains this intentionally emphatic wording. |
+| நுண்மாண் நுழைபுலம் | Subtle Penetrating Insight | Part 002 editorial-reviewed analytical heading. |
 | நன்றி | Gratitude | In Professor Nannan's Part 002 concluding section, used as a heading for acknowledgement/gratitude; do not mechanically apply this heading sense to every occurrence of `நன்றி`. |
 
 ## Chapter-title defaults for currently archived main body
@@ -73,7 +73,18 @@ These titles correspond to headings actually present in the archived edition thr
 | 14 | ஒழுக்கம் உடைமை | Good Conduct |
 | 15 | பிறனில் விழையாமை | Not Desiring Another Man's Wife |
 
-These are **provisional controlled headings**. If a better rendering is adopted during English review of the main-body pages, change the glossary deliberately and update every affected translation file consistently.
+Headings **1–4** are editorial-reviewed through the Part 002 main-body review. Headings **5–15** remain provisional until their corresponding Part 003 English main-body pages complete review. If a later source-supported change is adopted, record it deliberately and propagate it consistently.
+
+## Part 002 index-specific reviewed forms
+
+The full 133-chapter index on scans 28–29 has been editorial-reviewed as an **index-local project translation**. It is not imported from a standard external English chapter-title list, and later main-body context may justify a deliberate project-wide refinement.
+
+| Tamil | Part 002 index form | Editorial note |
+|---|---|---|
+| அருளுடைமை | Possession of Compassion | Retains `உடைமை`; avoids the added first-pass idea of “conduct.” |
+| புல்லறிவாண்மை | Possession of Little Understanding | Reconciled with this edition's own gloss `சிற்றறிவுடைமை`. |
+| நெஞ்சொடு புலத்தல் | Sulking with the Heart | Reconciled with the source gloss `மனத்தோடு ஊடுதல்`. |
+| வரைவின் மகளிர் | Women Beyond Bounds | Title-level project rendering; this edition separately glosses it as `விலை மகளிர்` → **Women for hire**. Do not collapse title and gloss into one wording. |
 
 ## Recurring ethical / social terms
 
@@ -84,7 +95,7 @@ These are **provisional controlled headings**. If a better rendering is adopted 
 | ஒழுக்கம் | conduct; good conduct; moral discipline | `conduct` is often safest; use stronger moral wording only where source context supports it. |
 | ஒழுகலாறு | manner of conduct | Used analytically by Nannan in scans 13–14. |
 | அடக்கம் | self-control; restraint | Preserve distinction from `ஒழுக்கம்`. |
-| நடுவுநிலைமை | impartiality; even-handedness | Avoid `neutrality` where the sense is justice/fair dealing. |
+| நடுவுநிலைமை | impartiality; even-handedness | Avoid `neutrality` where the sense is justice/fair dealing. The scan-30 source gloss `பொதுவாக இருத்தல்` is separately retained as **Being common to all**. |
 | நன்றி | gratitude; benefit; good done | Meaning varies by construction; Part 002 also uses it as a concluding section heading meaning gratitude/acknowledgement. |
 | செய்ந்நன்றி | help/benefit received | In chapter 11, the emphasis is recognizing and remembering help done to one. |
 | அன்பு | love; affection | Use `love` by default unless relational context requires `affection`. |
@@ -96,8 +107,8 @@ These are **provisional controlled headings**. If a better rendering is adopted 
 | மனைவி | wife | Preserve source gender specificity. |
 | பிறன் மனைவி | another man's wife | Do not neutralize to `another's partner` in passages where the Tamil is explicit. |
 | ஊழ் | oozh / fate / consequence of conditions | When the source theorizes the term itself, retain `oozh`; Part 001 review confirms that the Foreword and Critical Appreciation should not be flattened to `fate`. |
-| இயற்கை நிலை | natural condition | Nannan states that Kalaignar gives this meaning to `ஊழ்`; Part 001 review confirms that this is an attributed interpretation, not a project-wide definition of the Tamil word. |
-| பகுத்தறிவு | rational inquiry; rationalism | Use `rationalist` for `பகுத்தறிவாளர்`; scan 27's `பகுத்தறிவுப் பெட்டகம்` is drafted as `treasury of rational thought`. |
+| இயற்கை நிலை | natural condition | Nannan states that Kalaignar gives this meaning to `ஊழ்`; this is an attributed interpretation, not a project-wide definition of the Tamil word. |
+| பகுத்தறிவு | rational inquiry; rationalism | Use `rationalist` for `பகுத்தறிவாளர்`; scan 27's `பகுத்தறிவுப் பெட்டகம்` remains **treasury of rational thought**. |
 | வருணம் | varna | Retain the social-category term where the source explicitly uses it. |
 | மநுவாதி | doctrine of Manu / Manu doctrine | Translate the polemical source meaning without importing external doctrinal detail. |
 | மாயை | maya / illusion | In poetic or quoted contexts, `maya` may be retained where `illusion` would flatten the source's cultural register. |
@@ -110,7 +121,7 @@ These are **provisional controlled headings**. If a better rendering is adopted 
 | பிறிது மொழிதல் | *pirithu mozhithal* — saying one thing in order to convey another | Part 001 editorial review retains the Tamil technical term and explanatory gloss. Do not substitute an external rhetorical label without a later source-based project decision. |
 | உவமை | simile | Ordinary default. |
 | அடைமொழி | epithet / qualifying expression | Choose according to syntax; scan 20 discusses the explanatory force created by such qualifiers. |
-| புத்தேளிர் / புத்தேள் உலகு | *puththelir* / new world | Part 002 scan 23 is specifically discussing Kalaignar's derivation of `புத்தேளிர்` from `புதுமை` (newness). The draft therefore uses `new world` in the cited examples; review this source-specific interpretation during Part 002 source-check. |
+| புத்தேளிர் / புத்தேள் உலகு | *puththelir* / new world | Part 002 editorial review retains this source-specific treatment because Nannan explicitly explains Kalaignar's derivation from `புதுமை` (newness). Do not replace it with an external traditional gloss. |
 
 ## Source-specific / review-sensitive forms and phrases
 
@@ -118,8 +129,12 @@ These are **provisional controlled headings**. If a better rendering is adopted 
 |---|---|---|
 | திருவிடம் | Tiruvidam | Part 001 editorial review confirms deliberate retention because the verified Tamil archival text reads `திருவிடம்`. Do not silently normalize it to another Tamil form. |
 | வாயுறை | counsel | Part 001 editorial review retains **counsel** as the source-compatible scan-10 rendering. |
-| அடுத்தூர்வது அஃதொப்பதில் | Part 001: retained exactly in Tamil; Part 002 scan 25 draft: “nothing equals pressing forward to meet it” | Part 001 release remains unchanged. Part 002 supplies the complete quoted Kural and allows a provisional first-pass rendering, but that wording must be source-checked before any cross-part editorial revision is considered. Do not import an external Kural translation or commentary. |
-| மக்கள் நெஞ்சின் மலிவுப் பதிப்பு | retained in Tamil with contextual English gloss | Part 002 scan 26 uses a compressed metaphor attributed to the Revolutionary Poet. The draft glosses it as an edition readily accessible to the people's hearts rather than pretending a settled literal equivalent; review later. |
+| ஆதி பகவன் | Aadhi Bhagavan | Part 002 editorial review retains the expression because Kalaignar's commentary itself uses it directly; no doctrinal English title is imported. |
+| இறைவன் | *iraivan* / the one who stands foremost | Retain *iraivan* where Kalaignar makes the word itself significant, as in Kural 5. Use **the one who stands foremost** only where Kalaignar explicitly gives that reading, as in Kural 10. |
+| அந்தணர் | *anthanar* / worthy people | Retain *anthanar* in the verse where the term itself matters; follow Kalaignar's own explanation in commentary. Kural 8 defines the term through `சான்றோர்`; Kural 30 through worthy people who love all living beings and shower compassion upon them. |
+| அடுத்தூர்வது அஃதொப்பதில் | Part 001: retained exactly in Tamil; Part 002: “nothing equals that for driving it away” | Part 002 supplies the complete Kural plus Nannan's immediately preceding explanation, supporting this source-close rendering. Part 001 scan 19 remains unchanged by explicit editorial decision; the difference is documented rather than silently harmonized. |
+| மக்கள் நெஞ்சின் மலிவுப் பதிப்பு | “the low-priced edition of the people's hearts” | Part 002 editorial review deliberately preserves Nannan's quoted metaphor. The smoother paraphrase “an edition readily accessible to the people's hearts” is not used because it weakens the source image. |
+| வாழ்நாள் வழியடைக்கும் கல் | the stone that sets the path of life in order | Kural 38 follows Kalaignar's own path-and-stone explanation. Do not replace it with a conventional external interpretation. |
 
 ## Names and established forms
 
