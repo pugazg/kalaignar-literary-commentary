@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Gratitude for Help Received"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -23,8 +23,8 @@ its worth is greater than the world.**
 
 Even if help given at the time it is needed is small in amount, it will be valued as greater than the world.
 
-**103. The worth of help done from love, without calculating what gain may return,  
-is greater than the sea.**
+**103. If the worth of help done without weighing what gain may return is weighed,  
+its goodness is greater than the sea.**
 
 The distinction of help that a person gives out of love, without considering what benefit may come from it, is greater than the sea.
 
