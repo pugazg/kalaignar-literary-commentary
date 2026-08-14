@@ -59,25 +59,26 @@ The attachment contains **21 local PDF pages** and directly continues the book a
 | 31 | 11 | xxx | அதிகார அருஞ்சொற்பொருள் அகரவரிசை — 2 | verified | `pages/0031-athikara-arunchol-akaravarisai-02.md` |
 | 32 | 12 | xxxi* | `திருக்குறள் / கலைஞர் உரை / அறம்` section title | verified | `pages/0032-aram-title.md` |
 | 33 | 13 | — | blank / reverse-side bleed-through | verified | `pages/0033-blank.md` |
-| 34 | 14 | 1 | அறம் — பாயிரம் — `1. வழிபாடு` — குறள் 1–5 | needs-review | `pages/0034-aram-vazhipadu-01.md` |
-| 35 | 15 | 2 | `1. வழிபாடு` — குறள் 6–10 | needs-review | `pages/0035-aram-vazhipadu-02.md` |
-| 36 | 16 | 3 | `2. வான் சிறப்பு` — குறள் 11–15 | needs-review | `pages/0036-aram-vaan-sirappu-01.md` |
-| 37 | 17 | 4 | `2. வான் சிறப்பு` — குறள் 16–20 | needs-review | `pages/0037-aram-vaan-sirappu-02.md` |
-| 38 | 18 | 5 | `3. நீத்தார் பெருமை` — குறள் 21–25 | needs-review | `pages/0038-aram-neeththar-perumai-01.md` |
-| 39 | 19 | 6 | `3. நீத்தார் பெருமை` — குறள் 26–30 | needs-review | `pages/0039-aram-neeththar-perumai-02.md` |
-| 40 | 20 | 7 | `4. அறன் வலியுறுத்தல்` — குறள் 31–35 | needs-review | `pages/0040-aram-aran-valiyuruththal-01.md` |
-| 41 | 21 | 8 | `4. அறன் வலியுறுத்தல்` — குறள் 36–40 | needs-review | `pages/0041-aram-aran-valiyuruththal-02.md` |
+| 34 | 14 | 1 | அறம் — பாயிரம் — `1. வழிபாடு` — குறள் 1–5 | verified | `pages/0034-aram-vazhipadu-01.md` |
+| 35 | 15 | 2 | `1. வழிபாடு` — குறள் 6–10 | verified | `pages/0035-aram-vazhipadu-02.md` |
+| 36 | 16 | 3 | `2. வான் சிறப்பு` — குறள் 11–15 | verified | `pages/0036-aram-vaan-sirappu-01.md` |
+| 37 | 17 | 4 | `2. வான் சிறப்பு` — குறள் 16–20 | verified | `pages/0037-aram-vaan-sirappu-02.md` |
+| 38 | 18 | 5 | `3. நீத்தார் பெருமை` — குறள் 21–25 | verified | `pages/0038-aram-neeththar-perumai-01.md` |
+| 39 | 19 | 6 | `3. நீத்தார் பெருமை` — குறள் 26–30 | verified | `pages/0039-aram-neeththar-perumai-02.md` |
+| 40 | 20 | 7 | `4. அறன் வலியுறுத்தல்` — குறள் 31–35 | verified | `pages/0040-aram-aran-valiyuruththal-01.md` |
+| 41 | 21 | 8 | `4. அறன் வலியுறுத்தல்` — குறள் 36–40 | verified | `pages/0041-aram-aran-valiyuruththal-02.md` |
 
-`*` Printed numeral is not visibly printed on that scan. `xxvi` is supported by the Part 001 contents page plus the surrounding `xxv` → `xxvii` sequence; `xxxi` is supported by the contents entry `அறத்துப்பால் — xxxi` and the surrounding front-matter sequence. These are recorded as source-supported pagination facts, not silently invented visible text.
+`*` Printed numeral is not visibly printed on that scan. `xxvi` is supported by the Part 001 contents page plus the surrounding `xxv` → `xxvii` sequence; `xxxi` is supported by the contents entry `அறத்துப்பால் — xxxi` and the surrounding front-matter sequence. These are source-supported pagination facts, not silently invented visible text.
 
 ### Part 002 current status
 
 - source pages in attachment: **21**
 - overall scan range: **21–41**
 - page records created: **21 / 21**
-- `verified`: **13** — scans 21–33
-- `needs-review`: **8** — scans 34–41
+- `verified`: **21 / 21**
+- `needs-review`: **0**
 - `not-started`: **0**
+- audit/release report: **pending**
 
 ### Verification completed — scans 21–27
 
@@ -85,35 +86,33 @@ Direct visual comparison against Part 002 local pages 1–7 is complete.
 
 - scans 21–26 matched their first-pass wording; source-specific forms including `நோக்கமிம்`, `ஏஎர்`, `துன்புறூஉந்`, `ஆற்றேன்இந்`, `நோயைநோய்`, `தும்மினே னாக`, `புத்தேளிர்`, `நீரியைந் தன்னா ரகத்து`, `அய். புத்தம்புது விளக்கம்`, `அடுத்தூர்வது அஃதொப்ப தில்`, `இற்றெனக் கிளந்து, தெற்றெனக் காட்டுவதையே`, and final `வேண்டாவாகும்` were visually confirmed and retained.
 - scan 27 had source-supported corrections: `எந்நிலையையூட்டும்` → `எந்நினைவையூட்டும்`, `உலக நிலையையூட்டுதல்` → `உலக நினைவையூட்டுதல்`; source spacing before `!` and `?` was restored, and the printed signature line is preserved with a hyphen (`- பூம்புகார் பதிப்பகத்தார்`).
-- scans 21–27 use `transcription_method: "direct visual comparison with source scan"`.
 
 ### Verification completed — scans 28–33
 
 Direct visual comparison against Part 002 local pages 8–13 is complete.
 
-- scans 28–31 index entries and authority numbers / term-meaning pairs matched the source during the final comparison.
+- scans 28–31 matched the source; authority numbers and term/meaning pairs were rechecked.
 - source-specific distinctions were retained rather than harmonized, including scan 28 `உறுப்புநலன் அழிதல்` vs scan 30 `உறுப்பு நலன் அழிதல்`, scan 28 `செய்ந்நன்றியறிதல்` vs scan 30 `செய்ந்நன்றி யறிதல்`, and scan 29 `நாணுத் துறவுரைத்தல்` vs scan 30 `நாணுத்துறவு உரைத்தல்`.
-- non-source editorial continuation headings previously added to scans 29 and 31 were removed; the actual index contents were unchanged.
-- scan 32 title text `திருக்குறள் / கலைஞர் உரை / அறம்` was confirmed. Its `xxxi` pagination remains explicitly source-supported from the contents/sequence because no numeral is visibly printed on the page.
-- scan 33 was confirmed to contain no current-page printed body text; only reverse-side bleed-through is visible and remains excluded from transcription.
-- scans 28–33 now use `status: "verified"` and `transcription_method: "direct visual comparison with source scan"`.
+- non-source editorial continuation headings previously added to scans 29 and 31 were removed.
+- scan 32 title text `திருக்குறள் / கலைஞர் உரை / அறம்` was confirmed; `xxxi` remains explicitly source-supported/inferred.
+- scan 33 contains no current-page printed body text; reverse-side bleed-through remains excluded.
 
-### Part 002 source observations
+### Verification completed — scans 34–41
 
-- The batch begins on printed page `xx`, so the transition from Part 001 (`xix`) is continuous.
-- Scan 27 is `பதிப்புரை`; its printed numeral is not visible, while `xxvi` remains supported by same-source contents and the surrounding pagination sequence.
-- Scans 28–31 contain the two index sections; scans 32–33 are the `அறம்` title page and blank verso.
-- Scans 34–41 contain Kural **1–40** and Kalaignar's commentary across `வழிபாடு`, `வான் சிறப்பு`, `நீத்தார் பெருமை`, and `அறன் வலியுறுத்தல்`.
-- Reverse-side bleed-through visible on several pages is not treated as current-page text.
-- Kural wording remains source-specific and must not be replaced with a standard/web edition during verification.
+Direct visual comparison against Part 002 local pages 14–21 is complete for Kural **1–40** and Kalaignar's commentary.
+
+- scans 34–36 and 38–41 matched their first-pass wording during final comparison.
+- source-specific Kural forms were rechecked and retained, including `நீடுவாழ் வார்`, `வானின் றுலகம்`, `உள்நின் றுடற்றும்`, `சார்வாய்மற் றாங்கே`, `அகல்விசும்பு ளார்கோமான்`, `நாற்றமென றைந்தின்`, `அறவோர்மற் றெவ்வுயிர்க்கும்`, `அறத்தினூஉங்கு`, `அறத்தினூஉங்`, `அழுக்கா றவாவெகுளி`, `அறத்தா றிதுவென`, and `இன்பமற் றெல்லாம்`.
+- scan 37 had one genuine first-pass transcription correction in Kalaignar's commentary: `ஒழுக்கமே கெட்டகடும்` → **`ஒழுக்கமே கெட்டுக்கூடும்`**.
+- all scans 34–41 now use `status: "verified"` and `transcription_method: "direct visual comparison with source scan"`.
 
 ## அடுத்த செயல்
 
-Run direct visual verification for scans **34–41**.
+Run the **Part 002 release/audit pass**:
 
-1. scans 34–35 — `வழிபாடு`, குறள் 1–10 + Kalaignar commentary.
-2. scans 36–37 — `வான் சிறப்பு`, குறள் 11–20 + commentary.
-3. scans 38–39 — `நீத்தார் பெருமை`, குறள் 21–30 + commentary.
-4. scans 40–41 — `அறன் வலியுறுத்தல்`, குறள் 31–40 + commentary.
-5. Verify every Kural number, line break, source spacing/spelling, punctuation and commentary directly from the scan; correct only scan-supported differences.
-6. After scans 34–41 are reviewed, create `AUDIT_PART_002.md` and record the Part 002 release decision.
+1. confirm one page record for every overall scan 21–41 with no gaps or duplicates;
+2. confirm local-page and printed-page continuity/bases;
+3. confirm every Part 002 record is `verified` and uses the final visual-comparison method;
+4. confirm source-page markers and metadata consistency;
+5. create `works/thirukkural/AUDIT_PART_002.md` and record the release decision;
+6. synchronize the work README, root README and `HANDOVER.md` with that release state.
