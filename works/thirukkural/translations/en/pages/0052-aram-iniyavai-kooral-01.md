@@ -6,14 +6,14 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Speaking Pleasant Words"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
 
 # 10. Speaking Pleasant Words
 
-**91. Words from the mouths of those who have discerned true meaning,  
+**91. Words from the mouths of those who have discerned truth,  
 mingled with love and free from deceit, are sweet speech.**
 
 A word that comes from a person's mouth is called sweet speech when it is mingled with love, free from deceit, and truthful.
@@ -36,6 +36,6 @@ Those who speak sweetly and deal with everyone kindly suffer no misery of povert
 **95. For a person, humility and sweet speech are the ornament;  
 there is no finer ornament besides them.**
 
-Apart from a restrained quality and the nature of speaking sweetly, there can be no finer ornament for a person.
+Apart from a humble quality and the nature of speaking sweetly, there can be no finer ornament for a person.
 
 <!-- Source scan page: 52; Part 003 local page: 11; printed page: 19 -->
