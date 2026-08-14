@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Alphabetical Index of Chapters — 2"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -17,7 +17,7 @@ translation_basis: "verified Tamil archival transcription; controlling scan rema
 | Dread of Evil Deeds | 21 | Lovers' Quarrel | 131 |
 | Renunciation | 35 | Nuances of Lovers' Quarrel | 132 |
 | The Envoy | 69 | Abstaining from Meat | 26 |
-| Acting after Deliberation | 47 | Petty-Minded Ignorance | 85 |
+| Acting after Deliberation | 47 | Possession of Little Understanding | 85 |
 | Selecting with Discernment | 51 | Not Slandering | 19 |
 | Entrusting Tasks after Discernment | 52 | Following a Woman's Lead | 91 |
 | Impartiality | 12 | Seeking the Support of the Great | 45 |
@@ -34,7 +34,7 @@ translation_basis: "verified Tamil archival transcription; controlling scan rema
 | Lamenting the Absent Beloved | 121 | Conduct in the Presence of Kings | 70 |
 | The Greatness of Renunciants | 3 | Honour | 97 |
 | Speaking with the Heart | 125 | Realizing Truth | 36 |
-| Quarrelling with the Heart | 130 | Women Beyond Bounds | 92 |
+| Sulking with the Heart | 130 | Women Beyond Bounds | 92 |
 | Assessing the Nature of Enmity | 88 | Knowing Strength | 48 |
 | Excellence in Enmity | 87 | Worship | 1 |
 | Suffering from Pallor | 119 | Truthfulness | 30 |
@@ -49,6 +49,6 @@ translation_basis: "verified Tamil archival transcription; controlling scan rema
 | Fame | 24 | Avoiding Terrorizing Acts | 57 |
 | Joy of Union | 111 |  |  |
 
-> Draft terminology note: chapter-title renderings not already controlled by `GLOSSARY.md` are first-pass project translations from this index and remain subject to Part 002 source-check and editorial consistency review. The rendering **Women Beyond Bounds** for `வரைவின் மகளிர்` is deliberately provisional because the source's separate glossary on scan 31 supplies a more explicit explanatory gloss that must be considered during review.
+> Source-check note: entry order and chapter numbers were checked against the verified Tamil index. Two first-pass titles were brought closer to this edition's own glossary on scan 31: `புல்லறிவாண்மை` is **Possession of Little Understanding** rather than **Petty-Minded Ignorance**, and `நெஞ்சொடு புலத்தல்` is **Sulking with the Heart** rather than **Quarrelling with the Heart**. `வரைவின் மகளிர்` remains provisionally **Women Beyond Bounds** at title level, while the source's own gloss on scan 31 remains separately translated as **Women for hire**. No external chapter-title list is used.
 
 <!-- Source scan page: 29; Part 002 local page: 9; printed page: xxviii -->
