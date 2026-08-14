@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Prefatory Chapters — Affirming Aram"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -36,6 +36,6 @@ what is to be avoided is blame.**
 
 Avoiding deeds worthy of blame and taking an interest in praiseworthy actions on the path of aram is what brings a person fame.
 
-> Source-check note: Kural 38 deliberately follows Kalaignar's own explanation of `வாழ்நாள் வழியடைக்கும் கல்`: the good deeds themselves become **the stone that sets the path of life in order**. The first-pass word **“shapes”** was removed because Kalaignar's commentary specifically says the stone sets and orders the life-path. No conventional external interpretation is substituted.
+> Editorial review note: Kural 38 deliberately follows Kalaignar's own explanation of `வாழ்நாள் வழியடைக்கும் கல்`: the good deeds themselves become **the stone that sets the path of life in order**. The first-pass word **“shapes”** remains excluded because Kalaignar's commentary specifically says the stone sets and orders the life-path. No conventional external interpretation is substituted.
 
 <!-- Source scan page: 41; Part 002 local page: 21; printed page: 8 -->
