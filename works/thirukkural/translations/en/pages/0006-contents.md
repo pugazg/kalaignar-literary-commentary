@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Contents"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -17,7 +17,7 @@ translation_basis: "verified Tamil archival transcription; controlling scan rema
 |---:|---|---:|
 | 1 | Preface | vi |
 | 2 | An Introduction Along with the Preface | vii |
-| 3 | Professor's Foreword | viii |
+| 3 | The Professor's Foreword | viii |
 | 4 | Critical Appreciation | xii |
 | 5 | Publisher's Note | xxvi |
 | 6 | Alphabetical Index of Chapters | xxvii |
