@@ -4,10 +4,10 @@ printed_page: "xix"
 work: "thirukkural"
 section: "மதிப்புரை — பல்வகைச் சிறப்புகள்"
 page_type: "review"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_001_pages_1-20.pdf"
-transcription_method: "first-pass visual transcription with OCR assistance; source scan remains authoritative"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 ## அ. பா நலம்
