@@ -4,10 +4,10 @@ printed_page: "xviii"
 work: "thirukkural"
 section: "மதிப்புரை — ஊழ் / பல்வகைச் சிறப்புகள்"
 page_type: "review"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_001_pages_1-20.pdf"
-transcription_method: "first-pass visual transcription with OCR assistance; source scan remains authoritative"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 மேலும் “இயற்கை நிலையை மாற்றி மற்றொரு செயற்கை நிலையை அமைத்திட முனைந்தாலும், இயற்கை நிலையே முதன்மையாக வந்து நிற்பதால் அதைவிட வலிமையானவையாக வேறு எவை உள்ளன” என்பதும் காணத் தகும்.
