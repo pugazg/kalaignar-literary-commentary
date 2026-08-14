@@ -13,6 +13,12 @@ Authority order:
 
 Do not import a published English Thirukkural translation, another Tamil edition, another commentator or web text.
 
+## Translation fidelity
+
+The English should retain the source author's language, images, emphases and interpretive direction as closely as clear English allows. Kalaignar's commentary must remain Kalaignar's commentary: a familiar conventional interpretation must never replace what he actually says merely because it sounds more standard in English.
+
+Source metaphors and emphatic formulations should not be silently softened. Where close English sounds unusual but accurately preserves a meaningful source image, retain it and let later editorial review decide whether a clearly documented refinement is justified.
+
 ## Status model
 
 - `draft` — first complete English rendering;
@@ -35,34 +41,28 @@ Review artefacts:
 - [`reviews/PART_001_REVIEW.md`](reviews/PART_001_REVIEW.md)
 - [`reviews/PART_001_RELEASE_REPORT.md`](reviews/PART_001_RELEASE_REPORT.md)
 
-## Part 002 — FIRST PASS COMPLETE
+## Part 002 — FIRST PASS COMPLETE / SOURCE-CHECK IN PROGRESS
 
-Part 002 now has **21/21 aligned English drafts**, covering scans **21–41**.
+Part 002 has **21/21 aligned English records** covering scans **21–41**.
 
-- scans 21–26 — completion of Professor Ma. Nannan's **Critical Appreciation**;
-- scan 27 — **Publisher's Note**;
-- scans 28–29 — **Alphabetical Index of Chapters**;
-- scans 30–31 — **Alphabetical Glossary of Chapter Terms**;
-- scan 32 — **Aram** section-title page;
-- scan 33 — blank verso / reverse-side bleed-through only;
-- scans 34–35 — **Worship**, Kural 1–10;
-- scans 36–37 — **The Excellence of Rain**, Kural 11–20;
-- scans 38–39 — **The Greatness of Renunciants**, Kural 21–30;
-- scans 40–41 — **Affirming Aram**, Kural 31–40.
+Current counts:
 
-Current Part 002 counts:
-
-- `draft`: **21**
-- `source-checked`: **0**
+- `source-checked`: **7** — scans 21–27
+- `draft`: **14** — scans 28–41
 - `editorial-reviewed`: **0**
 - `release-ready`: **0**
 
-The main-body records preserve each Kural number and two-line structure and translate Kalaignar's commentary separately. Kural 17 is kept consistent with the released Part 001 scan-20 example; Kurals 29 and 37 are kept consistent with their earlier Part 002 Critical Appreciation examples.
+The scans 21–27 source-check was deliberately fidelity-first. Notable corrections include:
 
-Draft choices requiring special source-check include `ஆதி பகவன்`, `இறைவன்`, `அந்தணர்`, the Indra example in Kural 25, and the Kural 38 `வாழ்நாள் வழியடைக்கும் கல்` image. Earlier Part 002 review-sensitive items—`அடுத்தூர்வது அஃதொப்பதில்`, `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு`, and inferred front-matter pagination—also remain open.
+- scan 21 — removed the added idea that Kalaignar's commentary has the **compactness** of a Kural; the source says it is itself formed as a Kural;
+- scan 22 — `நேர்மை பிறழாப் புதுமை` is now closer to **“innovation that does not depart from fidelity”**;
+- scan 23 — Kural 58 now reflects Kalaignar's adjacent explanation more precisely while retaining Kural and commentary as separate layers;
+- scan 25 — the first-pass phrase **“pressing forward to meet it”** added an image not securely required by the source. The source-checked line is **“nothing equals that for driving it away.”** Released Part 001 scan 19 remains unchanged for now;
+- scan 26 — `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு` is kept close to the source metaphor as **“the low-priced edition of the people's hearts”** rather than being silently smoothed into a different image;
+- scan 27 — the inferred printed page **xxvi** remains explicitly identified as a same-source pagination inference.
 
-See [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md) for the detailed queue.
+See [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md) for the detailed source-check record.
 
 ## Next activity
 
-Begin the dedicated **Part 002 source-check with scans 21–27**. Compare every draft directly against the verified Tamil page and promote only completed pages to `source-checked`. Do not begin editorial consistency review until all Part 002 pages have completed source-check.
+Continue the dedicated **Part 002 source-check with scans 28–33**: the chapter index, chapter-term glossary, Aram title page and blank verso. Preserve this edition's own entry order, numbers and glossary explanations rather than normalizing them against another edition.
