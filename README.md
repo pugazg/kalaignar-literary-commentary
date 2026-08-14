@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–003 audited / archival-ready for supplied material |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–002 released; Part 003 **14/21 source-checked** |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–002 released; Part 003 **21/21 source-checked** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -41,15 +41,15 @@ Tamil Parts 001–003 are archival-ready for the supplied material. The Tamil ar
 - aligned English pages: **21 / 21**
 - `release-ready`: **21** — scans 21–41
 
-### Part 003 English — SOURCE-CHECK IN PROGRESS
+### Part 003 English — SOURCE-CHECK COMPLETE
 
 - English pages: **21 / 21** — scans 42–62
-- `source-checked`: **14** — scans 42–55
-- `draft`: **7** — scans 56–62
+- `source-checked`: **21** — scans 42–62
+- `draft`: **0**
 - current English coverage: Kural **41–145**
 
-Source-check now reaches Kural **110**. Kalaignar-specific readings—including Kural 77's **conscience**, Kural 85's seed-for-hospitality interpretation, Kural 86's **heaven of fame**, Kural 87's hospitality-as-**sacrifice**, Kural 90's **anicham flower**, Kural 101's unbidden-gem image, Kural 104's millet/palmyra image, and Kural 107's seven-times-seven/no-time-limit explanation—remain preserved.
+The completed source-check preserves Kalaignar's interpretation and source-specific language. Final-batch examples include Kural 121's **imperishable fame / life itself dark**, Kural 126's **seven lives** versus protection **through all time**, Kural 130's **Aram waiting upon the path**, the explicit **Brahmin** and birth/lineage language in Kurals 133–134, and repeated **another man's wife** wording in Kurals 141–145.
 
-Next English activity: complete the dedicated **Part 003 source-check with scans 56–62**, covering Kural **111–145**. Editorial consistency review begins only after all 21 Part 003 pages complete source-check.
+Next English activity: begin the dedicated **Part 003 editorial-consistency / glossary-reconciliation review across scans 42–62**. Create `works/thirukkural/translations/en/reviews/PART_003_REVIEW.md`; do not run the Part 003 release gate in the same activity.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md) and [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md).
