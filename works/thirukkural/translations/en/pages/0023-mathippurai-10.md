@@ -6,14 +6,14 @@ work: "thirukkural"
 section: "Critical Appreciation — New Meaning"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
 
 The passages below stand as examples of the distinction with which Kalaignar takes the word *puththelir* (`புத்தேளிர்`) as having arisen from *puthumai*—newness—and assigns it a meaning that clears away perplexity.
 
-**58. If women obtain the one they ought to obtain,  
+**58. If women obtain a husband worthy of being obtained,  
 they will gain the great distinction of a new world.**
 
 If a woman obtains as her husband a man endowed with good character, domestic life will become for her a new world of great distinction.
