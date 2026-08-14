@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Alphabetical Glossary of Chapter Terms — 1"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -42,12 +42,12 @@ translation_basis: "verified Tamil archival transcription; controlling scan rema
 | Being Struck by the Beloved's Beauty | Melting at the thought of the beloved |
 | Intensity of Solitary Longing | The sorrow of loneliness |
 | Acting after Deliberation | Acting after examination |
-| Impartiality | Remaining even-handed |
+| Impartiality | Being common to all |
 | Poverty | Poverty |
 | Wealth Without Benefit | Useless wealth |
-| Declaring the Abandonment of Modesty | Speaking of crossing beyond modesty |
+| Declaring the Abandonment of Modesty | Speaking of transgressing modesty |
 | Impermanence | Lack of permanence |
 
-> Draft terminology note: this page translates the source's own explanatory glosses rather than substituting definitions from another Thirukkural edition. Chapter-title English remains provisional where Part 001 has not already established a controlled form.
+> Source-check note: every source gloss was checked against the verified Tamil page and is translated as this edition phrases it. In particular, `நடுவு நிலைமை | பொதுவாக இருத்தல்` is kept as **Being common to all** rather than being silently replaced by the more conventional interpretive gloss **Remaining even-handed**. Likewise, `நாணத்தை மீறுதலைக் கூறுதல்` is retained closely as **Speaking of transgressing modesty**. Chapter-title English remains a separate layer and may still undergo later editorial consistency review.
 
 <!-- Source scan page: 30; Part 002 local page: 10; printed page: xxix -->
