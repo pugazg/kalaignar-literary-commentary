@@ -42,12 +42,11 @@ Repository foundation:
 - `works/thirukkural/metadata/source.md`
 - `works/thirukkural/indexes/page-map.md`
 
-Page records now exist for **all scans 1–20** in part 001.
+Page records exist for **all scans 1–20** in part 001.
 
-Status:
+Current status:
 
-- scans 1–6 — `verified`
-- scan 7 — முகவுரை — `needs-review`
+- scans 1–7 — `verified`
 - scan 8 — handwritten facsimile — `partial`; uncertain handwriting deliberately not guessed
 - scans 9–12 — பேராசிரியரின் அணிந்துரை — first-pass complete, `needs-review`
 - scans 13–19 — மதிப்புரை by பேராசிரியர் மா. நன்னன் — first-pass complete, `needs-review`
@@ -55,18 +54,30 @@ Status:
 
 First-pass transcription of scans 9–20 used the rendered source pages directly. Tamil OCR was used only as an assistant for character recognition and was checked against the scan; OCR is not source authority.
 
+## Verification completed in latest activity
+
+### Scan 7 — `முகவுரை`
+
+Direct character-by-character visual comparison with the source scan is complete. The page is now `verified` with `transcription_method: "direct visual comparison with source scan"` and a source-page marker.
+
+Two first-pass transcription errors were corrected because the exact scan visibly supports the correction:
+
+- `முன்னூற்று ஐம்பது நான்கு` → `முன்னூற்று ஐம்பத்து நான்கு`
+- `பொருளையொன்னியில்` → `பொருளையன்றி`
+
+No modernization or external-edition substitution was used.
+
 ## Next exact activity
 
-Run the **visual verification round for scans 7–20**.
+Continue the **visual verification round** with scan 8.
 
-Recommended order:
-
-1. scan 7 — verify `முகவுரை` character by character; correct only what the scan supports and set `verified` when complete.
-2. scan 8 — make a high-resolution attempt on the handwritten facsimile; preserve `partial` if any handwriting remains uncertain rather than guessing.
-3. scans 9–12 — verify the full poetic `பேராசிரியரின் அணிந்துரை`, especially line breaks, sandhi/spelling and punctuation.
-4. scans 13–20 — verify the `மதிப்புரை` prose, numbered lists, quoted wording and printed Kural lines.
-5. after each verified page, update front matter to `status: "verified"` and `transcription_method: "direct visual comparison with source scan"`.
-6. update `works/thirukkural/indexes/page-map.md`, `works/thirukkural/README.md`, and this handover with the verified counts.
+1. scan 8 — make a high-resolution attempt on the handwritten facsimile.
+2. Add only text that can be confidently read from the scan itself.
+3. Keep `status: "partial"` if any handwriting remains uncertain; do not infer missing words from context.
+4. Preserve the visible signature and date `27/12/2007` separately from the transcription.
+5. After scan 8 review, move to scans 9–12 and verify the full poetic `பேராசிரியரின் அணிந்துரை`, especially line breaks, sandhi/spelling and punctuation.
+6. After each verified page, update front matter to `status: "verified"` and `transcription_method: "direct visual comparison with source scan"`.
+7. Keep `works/thirukkural/indexes/page-map.md`, `works/thirukkural/README.md`, and this handover synchronized with verified counts.
 
 ## Source-sensitive forms to recheck, not silently normalize
 
