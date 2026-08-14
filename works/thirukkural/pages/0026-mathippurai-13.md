@@ -1,13 +1,15 @@
 ---
 scan_page: 26
+part: 2
+part_page: 6
 printed_page: "xxv"
 work: "thirukkural"
 section: "மதிப்புரை — நன்றி தொடர்ச்சி"
 page_type: "review"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf"
-transcription_method: "first-pass direct visual transcription from source scan; source scan remains authoritative"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 தொல்காப்பியரின் அகர முதல் னகர இறுவாய் என்னும் கூற்றுக் கிணங்கத் திருக்குறள் ‘அ’ கரத்தில் தொடங்கி ‘ன’ கரத்தில் முடிவதைப் போன்றே கலைஞருரையும் ‘அ’ கரத்தில் தொடங்கி ‘ன’ கரத்தில் முடியும் நலம் அறிந்து மகிழத்தக்கது.
@@ -16,4 +18,4 @@ transcription_method: "first-pass direct visual transcription from source scan; 
 
 இந் நூலை வாங்கிப் படித்து மனத்தில் பதித்துக் கொள்வதோடு இயன்றவரை தேவையான இடத்திலெல்லாம் பின்பற்றுமாறும் நான் தமிழ்மக்களை அன்புடன் வேண்டுகிறேன். இக் கருத்துகளைத் தமிழன், முரசொலி ஆகிய நாளேடுகளில் எழுதியதற்கும், இப்போது அவற்றைத் தொகுத்து இந் நூலாக வெளியிடுவதற்கும் கலைஞர் எதிர்பார்க்கும் பயன் அதுவேயாகும். அந் நன்றியைத் தமிழகம் செய்ய வேண்டும் என்பது எனது வேண்டாவாகும்.
 
-<!-- மூல ஸ்கேன் பக்கம்: 26; அச்சுப் பக்கம்: xxv -->
+<!-- மூல ஸ்கேன் பக்கம்: 26; Part 002 உள்ளூர் பக்கம்: 6; அச்சுப் பக்கம்: xxv -->
