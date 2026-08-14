@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Not Desiring Another Man's Wife"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -29,9 +29,9 @@ are truly no different from the dead.**
 A man who, in the house of one who has trusted him and lived in friendship with him, attempts to engage in improper conduct with that man's wife is like a corpse even though he is alive.
 
 **144. However great a person may be, what worth is that greatness  
-if he enters another's home without considering even a millet-sized wrong?**
+if one enters another's home without considering even a millet-sized wrong?**
 
-Without thinking even to the measure of a millet seed that he is committing a wrong, desiring another man's wife will cause a person of however great a standing to lose respect.
+Without thinking even to the measure of a millet seed that one is committing a wrong, desiring another man's wife will cause a person of however great a standing to lose respect.
 
 **145. The blame gained by one who thinks it easy  
 and trespasses in another's home will never perish.**
