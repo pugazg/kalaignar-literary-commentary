@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–003 audited / archival-ready for supplied material |
-| Thirukkural — Kalaignar's Commentary | English project translation | Part 001 released; Part 002 **21/21 first pass complete, 13/21 source-checked** |
+| Thirukkural — Kalaignar's Commentary | English project translation | Part 001 released; Part 002 **21/21 source-checked; editorial review pending** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -39,21 +39,19 @@ Tamil Parts 001–003 are archival-ready for the supplied material. The Tamil ar
 - `source-limited`: **1** — scan 8
 - release decision: **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**
 
-### Part 002 English — SOURCE-CHECK IN PROGRESS
+### Part 002 English — SOURCE-CHECK COMPLETE
 
 - aligned English pages: **21 / 21**
-- `source-checked`: **13** — scans 21–33
-- `draft`: **8** — scans 34–41
+- `source-checked`: **21** — scans 21–41
+- `draft`: **0**
 - editorial/release: pending
 
-The source-check is fidelity-first. Scans 28–33 now preserve this edition's own index order, chapter numbers and explanatory glossary wording instead of normalizing them against another edition. Examples include **Possession of Compassion** for `அருளுடைமை`, **Possession of Little Understanding** for `புல்லறிவாண்மை`, and **Sulking with the Heart** for `நெஞ்சொடு புலத்தல்`. The glossary distinction `வழிபாடு | பின்பற்றுதல்` remains **Worship | Following**.
-
-Scan 32 retains inferred page **xxxi** with its source basis documented; scan 33 remains a blank / reverse-side bleed-through record only.
+The final source-check batch covered Kural **1–40** plus Kalaignar's commentary. The English deliberately preserves Kalaignar's own source-sensitive readings, including **Aadhi Bhagavan**, `iraivan`, `anthanar`, his Indra interpretation in Kural 25, and Kural 38's image of good deeds as **the stone that sets the path of life in order**. Conventional external interpretations were not substituted.
 
 ### Part 003 English
 
 Not yet started. Tamil scans **42–62** are already audited / archival-ready.
 
-Next English activity: complete the dedicated **Part 002 source-check with scans 34–41**, Kural **1–40** plus Kalaignar's commentary. Editorial review begins only after all 21 Part 002 pages are source-checked.
+Next English activity: perform the **Part 002 editorial-consistency / glossary-reconciliation review across scans 21–41**. The review may improve consistency and readability only without undoing source-check fidelity decisions. The Part 002 release gate remains a separate later activity.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md) and [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md).
