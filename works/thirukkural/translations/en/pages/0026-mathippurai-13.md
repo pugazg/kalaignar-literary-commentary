@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Critical Appreciation — Gratitude"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -17,6 +17,6 @@ Instead of proceeding through methods such as traditional meaning, word meaning,
 
 I lovingly request the Tamil people not only to buy and read this book and impress it upon their minds, but also, as far as possible, to follow it wherever necessary. That alone is the benefit Kalaignar expects from having written these thoughts in the dailies *Tamizhan* and *Murasoli* and from now collecting and publishing them as this book. My request is that Tamil Nadu render that gratitude.
 
-> Source-check note: `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு` is deliberately kept close to Nannan's quoted metaphor as **“the low-priced edition of the people's hearts.”** The earlier smoothing to “an edition readily accessible to the people's hearts” conveyed the implication but weakened the source's actual image. The literal metaphor is therefore retained here; any stylistic adjustment belongs to the later editorial review, not source-check.
+> Editorial review note: `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு` is deliberately retained close to Nannan's quoted metaphor as **“the low-priced edition of the people's hearts.”** A smoother paraphrase such as “an edition readily accessible to the people's hearts” conveys an implication but weakens the source image. The source-close metaphor is therefore retained intentionally.
 
 <!-- Source scan page: 26; Part 002 local page: 6; printed page: xxv -->
