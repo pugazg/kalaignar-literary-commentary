@@ -40,24 +40,20 @@ Permanent cadence:
 - `release-ready`: **19**
 - `source-limited`: **1** — scan 8
 
-Release decision: **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**.
-
 ### Part 002 English — RELEASE COMPLETE
 
 - English page files: **21 / 21**
 - `release-ready`: **21** — scans 21–41
 
-Release decision: **RELEASE-READY**.
-
-### Part 003 English — SOURCE-CHECK IN PROGRESS
+### Part 003 English — SOURCE-CHECK COMPLETE
 
 - Tamil scans **42–62**: audited / archival-ready
 - English pages: **21 / 21** — scans 42–62
-- `source-checked`: **14** — scans 42–55
-- `draft`: **7** — scans 56–62
+- `source-checked`: **21** — scans 42–62
+- `draft`: **0**
 - coverage: Kural **41–145**
 
-Source-check now reaches Kural **110**. The second checked batch preserves Kalaignar's **conscience**, **heaven of fame**, hospitality-as-**sacrifice**, **anicham flower**, unbidden-gem, millet/palmyra and seven-times-seven/no-time-limit readings. Kural 78 was tightened so the verse retains **hard barren ground** while Kalaignar's commentary separately keeps his **desert** image; Kural 103 was likewise tightened so the Kural does not import the commentary's explicit love motive.
+The final source-check preserved Kalaignar's source-sensitive distinctions, including **enemy / neighbour / friend** in the impartiality commentary, Kural 121's **imperishable fame / life itself dark**, Kural 126's **seven lives** versus protection **through all time**, Kural 128's poison-in-milk image, Kural 130's **Aram waiting upon the path**, explicit birth/lineage and **Brahmin** language in Kurals 133–134, and repeated **another man's wife** wording in Kurals 141–145.
 
 ## Source-first rule
 
@@ -67,8 +63,8 @@ Source-check now reaches Kural **110**. The second checked batch preserves Kalai
 
 ## அடுத்த செயல்
 
-Complete the dedicated **Part 003 English source-check with scans 56–62**, covering Kural **111–145**: **Impartiality**, **Self-Control**, **Good Conduct**, and the supplied beginning of **Not Desiring Another Man's Wife**.
+Begin the dedicated **Part 003 English editorial-consistency / glossary-reconciliation review across scans 42–62**. Create `translations/en/reviews/PART_003_REVIEW.md`, reconcile recurring terminology and repeated Kural wording without weakening Kalaignar's voice, and promote pages to `editorial-reviewed` only after that review is complete.
 
-After that, Part 003 source-check will be **21/21 complete** and the next activity will be the dedicated editorial-consistency / glossary-reconciliation review. Do not begin that review in the same source-check activity.
+Do not run the Part 003 release gate in the same activity.
 
 Tamil source intake can later continue from overall scan **63** only when a newly supplied scan itself confirms continuity after scan 62 / printed page 29 / Kural 145.
