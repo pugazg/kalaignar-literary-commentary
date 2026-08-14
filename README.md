@@ -7,37 +7,11 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–003 audited / archival-ready for supplied material |
-| Thirukkural — Kalaignar's Commentary | English project translation | Part 001 **20/20 aligned records created; source-check pending** |
+| Thirukkural — Kalaignar's Commentary | English project translation | Part 001 **20/20 aligned; scans 1–7 source-checked** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Kuraloviyam | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
-
-## களஞ்சிய அமைப்பு
-
-```text
-README.md
-LITERARY_COMMENTARY_PROCESSING_GUIDE.md
-HANDOVER.md
-works/
-  thirukkural/
-    README.md
-    AUDIT_PART_001.md
-    AUDIT_PART_002.md
-    AUDIT_PART_003.md
-    metadata/
-    indexes/
-    pages/
-    sections/
-    translations/
-      en/
-        README.md
-        TRANSLATION_GUIDE.md
-        GLOSSARY.md
-        TRANSLATION_STATUS.md
-        pages/
-        reviews/
-```
 
 ## மூலக் கொள்கை
 
@@ -49,17 +23,12 @@ works/
 
 இந்த repository இரண்டு வகை English material-ஐ தெளிவாகப் பிரிக்கிறது:
 
-1. **Published / official English source** — தனியாக வெளியிடப்பட்ட scan/source கிடைத்தால், அதன் சொந்த pagination / wording / metadata-உடன் source-controlled edition ஆக archive செய்யப்படும்.
-2. **Project-created English translation** — audited Tamil source-இலிருந்து உருவாக்கப்படும் மொழிபெயர்ப்பு. இது `translation_type: "project_translation"` என்று வெளிப்படையாகக் குறிக்கப்படும்; publisher/official translation என்று காட்டப்படாது.
+1. **Published / official English source** — தனியாக வெளியிடப்பட்ட source கிடைத்தால், அதன் சொந்த pagination / wording / metadata-உடன் source-controlled edition ஆக archive செய்யப்படும்.
+2. **Project-created English translation** — audited Tamil source-இலிருந்து உருவாக்கப்படும் மொழிபெயர்ப்பு; `translation_type: "project_translation"` என்று வெளிப்படையாகக் குறிக்கப்படும்.
 
 ## தற்போதைய நிலை — திருக்குறள்
 
-### Tamil Parts 001–003
-
-- Part 001: **ARCHIVAL-READY WITH ONE DOCUMENTED PARTIAL FACSIMILE**
-- Part 002: **ARCHIVAL-READY**
-- Part 003: **ARCHIVAL-READY**
-- supplied Tamil archive currently reaches overall scan **62** / printed page **29** / Kural **145**
+Tamil Parts 001–003 are archival-ready for the supplied material. The Tamil archive currently reaches overall scan **62** / printed page **29** / Kural **145**.
 
 Audits:
 
@@ -75,17 +44,17 @@ Permanent cadence:
 
 **Tamil transcription → Tamil visual verification → Tamil audit → English draft → English source-check → editorial consistency review → part-level English release report.**
 
-Current English production status:
+Current Part 001 English status:
 
-- English page files: **20** — complete one-to-one Part 001 coverage
-- `draft`: **19** — scans 1–7 and 9–20
-- `source-limited`: **1** — scan 8 handwritten facsimile
-- `source-checked`: **0**
+- aligned English page files: **20 / 20**
+- `source-checked`: **7** — scans 1–7
+- `source-limited`: **1** — scan 8
+- `draft`: **12** — scans 9–20
 - `editorial-reviewed`: **0**
 - `release-ready`: **0**
 
-Part 001 first-pass English translation is now complete. Scans 13–20 contain Professor Ma. Nannan's **Critical Appreciation**, including the discussions of Need, Worship, Following a Woman's Lead, Oozh, and literary merits. Source-sensitive terms remain explicitly provisional in the controlled glossary rather than being silently normalized.
+The first source-check batch is complete. Scans 1–5 required no translation-text corrections; scan 6's controlled title was aligned, and scan 7's Preface received source-supported fidelity corrections without using external English wording.
 
-Next English activity: begin the dedicated **Part 001 source-check cycle with scans 1–7**. Review and status promotion will remain separate from later editorial-consistency review.
+Next English activity: review scan **8** as a source-limited alignment check, then source-check scans **9–12**.
 
-விரிவான நிலை: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), மற்றும் [`works/thirukkural/indexes/page-map.md`](works/thirukkural/indexes/page-map.md).
+Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md) and [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md).
