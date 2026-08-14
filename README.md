@@ -6,7 +6,7 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Part 001 archival-ready; Part 002 **21/21 first-pass records complete**, verification pending |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Part 001 archival-ready; Part 002 **21/21 records complete, 7 verified / 14 needs-review** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில மொழிபெயர்ப்பு | பின்னர் சேர்க்கப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -56,12 +56,12 @@ works/
 - local PDF pages: **21**
 - overall scans: **21–41**
 - page records: **21 / 21**
-- `needs-review`: **21**
+- `verified`: **7** — scans 21–27
+- `needs-review`: **14** — scans 28–41
 - `not-started`: **0**
-- `verified`: **0**
 
-Part 002 now includes the end of `மதிப்புரை`, `பதிப்புரை`, both index sections, the `அறம்` title/blank pages, and the first main-body Kural commentary for **குறள் 1–40** across `வழிபாடு`, `வான் சிறப்பு`, `நீத்தார் பெருமை`, and `அறன் வலியுறுத்தல்`.
+The first Part 002 verification batch is complete. Scans 21–26 matched the first-pass transcription. Scan 27 (`பதிப்புரை`) required source-supported corrections, including `எந்நினைவையூட்டும்` and `உலக நினைவையூட்டுதல்`, plus restoration of the scan's punctuation spacing.
 
-All Part 002 records remain first-pass `needs-review`. The next activity is a separate direct visual verification cycle, beginning with scans **21–27**, before any page is promoted to `verified`.
+Next activity: direct visual verification of **scans 28–33** — the two authority-index pages, two அருஞ்சொற்பொருள் index pages, the `அறம்` title page, and the blank verso. After that, verify scans 34–41 containing Kural 1–40 and Kalaignar's commentary.
 
 விரிவான நிலை: [`works/thirukkural/README.md`](works/thirukkural/README.md) மற்றும் [`works/thirukkural/indexes/page-map.md`](works/thirukkural/indexes/page-map.md).
