@@ -40,31 +40,43 @@ The currently archived main-body Tamil reaches Kural **145**.
 
 ## English progress
 
-Part 001 has **20/20 aligned English records** and has completed both source-check and editorial-consistency review:
+### Part 001 — RELEASE COMPLETE
 
-- scans **1–7**: `editorial-reviewed`;
-- scan **8**: `source-limited`, with source-limited alignment and editorial consistency checks complete;
-- scans **9–20**: `editorial-reviewed`.
+Part 001 has **20/20 aligned English records** and has completed first pass, source-check, editorial consistency review and release gate.
 
-Current counts:
+Final state:
 
-- `editorial-reviewed`: **19**
+- scans **1–7**: `release-ready`;
+- scan **8**: `source-limited`;
+- scans **9–20**: `release-ready`.
+
+Counts:
+
+- `release-ready`: **19**
 - `source-limited`: **1**
+- `editorial-reviewed`: **0**
 - `source-checked`: **0**
 - `draft`: **0**
-- `release-ready`: **0**
+- `blocked`: **0**
 
-Review artefact:
+Release decision: **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**.
+
+Review artefacts:
 
 - [`reviews/PART_001_REVIEW.md`](reviews/PART_001_REVIEW.md)
+- [`reviews/PART_001_RELEASE_REPORT.md`](reviews/PART_001_RELEASE_REPORT.md)
 
-### Editorial decisions now controlled for Part 001
+### Documented source limitations
 
-The review finalized the current treatment of **Muppaal**, source-specific **Tiruvidam**, **Oozh / oozh**, `வாயுறை` → **counsel**, **Following a Woman's Lead**, ***pirithu mozhithal***, and the scan-20 literary headings. It also confirms that `அடுத்தூர்வது அஃதொப்பதில்` remains intentionally in Tamil because the audited source does not support a sufficiently secure English expansion.
+Scan 8 remains `source-limited` because its continuous handwritten body is not securely readable in the controlling Tamil facsimile. The English record does not reconstruct it.
 
-The distinction between **Invocation to God** and **Worship** remains mandatory. The scan-20 Kural examples 1101, 1098 and 17 remain project translations from this archived Tamil edition; no published English Kural wording has been substituted.
+On scan 19, `அடுத்தூர்வது அஃதொப்பதில்` remains intentionally in Tamil with a translation note because the audited source does not establish a sufficiently secure English expansion. This is a documented editorial retention, not a hidden omission.
 
-Scan 8 remains `source-limited`; its unreadable continuous handwriting is not reconstructed.
+The scan-20 Kural examples **1101, 1098 and 17** remain project translations from this archived Tamil source; no published English Kural wording has been substituted.
+
+### Controlled terminology
+
+Part 001 release retains the reviewed treatment of **Muppaal**, source-specific **Tiruvidam**, **Oozh / oozh**, **counsel** for `வாயுறை`, **Following a Woman's Lead**, ***pirithu mozhithal***, and the scan-20 literary headings. The distinction between **Invocation to God** and **Worship** remains mandatory.
 
 See:
 
@@ -72,7 +84,8 @@ See:
 - [`GLOSSARY.md`](GLOSSARY.md)
 - [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md)
 - [`reviews/PART_001_REVIEW.md`](reviews/PART_001_REVIEW.md)
+- [`reviews/PART_001_RELEASE_REPORT.md`](reviews/PART_001_RELEASE_REPORT.md)
 
 ## Next activity
 
-Create the separate **Part 001 English release report** at `reviews/PART_001_RELEASE_REPORT.md`. Verify all 20 aligned records, the 19 `editorial-reviewed` pages, scan 8's continuing `source-limited` status, glossary/review consistency, and the documented unresolved Tamil phrase on scan 19. Only after the release gate passes should eligible pages be promoted to `release-ready`.
+Begin **Part 002 English first-pass translation with scans 21–27**: the remaining pages of Professor Ma. Nannan's **Critical Appreciation** followed by the **Publisher's Note**. Create matching English records as `draft` and continue the Part 001 controlled glossary unless new source context requires a documented addition or revision.
