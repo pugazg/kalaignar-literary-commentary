@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–003 audited / archival-ready for supplied material |
-| Thirukkural — Kalaignar's Commentary | English project translation | Part 001 released; Part 002 **7/21 drafts complete** |
+| Thirukkural — Kalaignar's Commentary | English project translation | Part 001 released; Part 002 **13/21 drafts complete** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -59,18 +59,20 @@ Review artefacts:
 
 ### Part 002 English — FIRST PASS IN PROGRESS
 
-- aligned English page files: **7 / 21**
-- `draft`: **7** — scans 21–27
+- aligned English page files: **13 / 21**
+- `draft`: **13** — scans 21–33
 - source-check/editorial/release: not yet started
 
-Scans **21–26** complete Professor Ma. Nannan's **Critical Appreciation** in first-pass English, and scan **27** contains the **Publisher's Note**. The controlled glossary has been extended for the new analytical headings and source-sensitive terms.
+The completed Part 002 draft layer now includes the end of Professor Ma. Nannan's **Critical Appreciation**, the **Publisher's Note**, the two-page **Alphabetical Index of Chapters**, the two-page **Alphabetical Glossary of Chapter Terms**, the **Aram** title page, and the blank verso.
 
-Review-sensitive items remain explicit rather than silently resolved: scan 25 now provides the complete quoted Kural containing `அடுத்தூர்வது அஃதொப்பதில்`, with a provisional Part 002 English rendering pending source-check; scan 26 retains `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு` with a contextual gloss; scan 27 records printed page **xxvi** as a same-source pagination inference because the numeral is not visibly printed.
+The index preserves source order and chapter numbers. English titles newly introduced by the full index remain first-pass project renderings until source-check/editorial review. The glossary pages translate this edition's own explanatory glosses instead of replacing them with outside definitions. Scan 32 preserves inferred printed page **xxxi** with its basis documented; scan 33 does not treat reverse-side bleed-through as body text.
+
+Earlier review-sensitive Part 002 items remain explicit: scan 25's provisional rendering of the complete Kural containing `அடுத்தூர்வது அஃதொப்பதில்`, scan 26's retained `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு`, and scan 27's inferred page **xxvi**.
 
 ### Part 003 English
 
 Not yet started. Tamil scans **42–62** are already audited / archival-ready.
 
-Next English activity: continue **Part 002 scans 28–33**, covering the alphabetical chapter index, chapter-term glossary index, `அறம்` title page, and blank verso. Kural 1–40 translation begins only after those six records are complete.
+Next English activity: complete **Part 002 scans 34–41**, translating Kural **1–40** and Kalaignar's commentary as eight `draft` page records. Part 002 source-check begins only after those drafts bring the first-pass layer to 21/21.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md) and [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md).
