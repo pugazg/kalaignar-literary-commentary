@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Impartiality"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -18,7 +18,7 @@ if one can conduct oneself without leaning to one side among different parties.*
 
 The quality called impartiality, which can bring good, lies precisely in not taking a one-sided position after dividing people as enemy, neighbour, or friend.
 
-**112. The prosperity of one who possesses impartiality will not decay;  
+**112. The wealth of one who possesses impartiality will not decay;  
 it stands as security for those who come after.**
 
 The wealth of one who remains impartial does not perish; it will also bring benefit to successive generations.
