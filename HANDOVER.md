@@ -20,7 +20,7 @@ Planned works:
 
 `pugazg/tolkappiyap-poonga`
 
-The new archive follows the same core principles: scan authority, one record per scan page, stable page filenames, explicit status model, metadata, manifests, no silent normalization, and visible review state.
+The archive follows the same core principles: scan authority, one record per scan page, stable page filenames, explicit status model, metadata, manifests, no silent normalization, and visible review state.
 
 ## Current source
 
@@ -47,18 +47,18 @@ Page records exist for **all scans 1–20** in part 001.
 Current status:
 
 - scans 1–7 — `verified`
-- scan 8 — handwritten facsimile — `partial`; uncertain handwriting deliberately not guessed
+- scan 8 — handwritten facsimile — `partial`; high-resolution review complete, uncertain body deliberately not guessed
 - scans 9–12 — பேராசிரியரின் அணிந்துரை — first-pass complete, `needs-review`
 - scans 13–19 — மதிப்புரை by பேராசிரியர் மா. நன்னன் — first-pass complete, `needs-review`
 - scan 20 — `அ. பா நலம்`, `ஆ. அணி நலம்`, `இ. அடை நலம்` begins — first-pass complete, `needs-review`
 
 First-pass transcription of scans 9–20 used the rendered source pages directly. Tamil OCR was used only as an assistant for character recognition and was checked against the scan; OCR is not source authority.
 
-## Verification completed in latest activity
+## Verification completed
 
 ### Scan 7 — `முகவுரை`
 
-Direct character-by-character visual comparison with the source scan is complete. The page is now `verified` with `transcription_method: "direct visual comparison with source scan"` and a source-page marker.
+Direct character-by-character visual comparison with the source scan is complete. The page is `verified` with `transcription_method: "direct visual comparison with source scan"` and a source-page marker.
 
 Two first-pass transcription errors were corrected because the exact scan visibly supports the correction:
 
@@ -67,17 +67,30 @@ Two first-pass transcription errors were corrected because the exact scan visibl
 
 No modernization or external-edition substitution was used.
 
+### Scan 8 — handwritten facsimile
+
+A new **300-DPI high-resolution render** was inspected directly.
+
+Confidently recoverable elements:
+
+- handwritten heading: **`முகவுரையின் ஒரு முன்னுரை!`**
+- decorative separator below the heading
+- Kalaignar's signature at the bottom
+- date: **`27/12/2007`**
+
+The continuous handwritten body remains insufficiently legible for a reliable source-faithful transcription. Although individual shapes/words appear partly recognizable, they were not entered when the full word or sentence could not be confidently established. `status: "partial"` is therefore intentionally retained. A clearer facsimile/source would be required before attempting the missing body text.
+
 ## Next exact activity
 
-Continue the **visual verification round** with scan 8.
+Continue the **visual verification round with scans 9–12** — the four-page `பேராசிரியரின் அணிந்துரை`.
 
-1. scan 8 — make a high-resolution attempt on the handwritten facsimile.
-2. Add only text that can be confidently read from the scan itself.
-3. Keep `status: "partial"` if any handwriting remains uncertain; do not infer missing words from context.
-4. Preserve the visible signature and date `27/12/2007` separately from the transcription.
-5. After scan 8 review, move to scans 9–12 and verify the full poetic `பேராசிரியரின் அணிந்துரை`, especially line breaks, sandhi/spelling and punctuation.
-6. After each verified page, update front matter to `status: "verified"` and `transcription_method: "direct visual comparison with source scan"`.
-7. Keep `works/thirukkural/indexes/page-map.md`, `works/thirukkural/README.md`, and this handover synchronized with verified counts.
+1. Open scans 9–12 at readable/high resolution.
+2. Compare each existing Markdown page character by character with the exact scan.
+3. Preserve poetic line breaks exactly as printed.
+4. Recheck source-sensitive forms rather than normalizing them from memory or another edition.
+5. Correct only differences supported by this scan.
+6. For each completed page, set `status: "verified"`, use `transcription_method: "direct visual comparison with source scan"`, and ensure the source-page marker is present.
+7. Update `works/thirukkural/indexes/page-map.md`, `works/thirukkural/README.md`, and this handover with the new verified counts.
 
 ## Source-sensitive forms to recheck, not silently normalize
 
