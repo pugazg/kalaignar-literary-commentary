@@ -22,7 +22,7 @@
 | 4 | முழுத் தலைப்பு / பதிப்பக விவரம் | verified |
 | 5 | விலை / பதிப்பு / உரிமை / அச்சகம் | verified |
 | 6 | உள்ளுறை | verified |
-| 7 | முகவுரை | needs-review |
+| 7 | முகவுரை | verified |
 | 8 | கையெழுத்து facsimile | partial |
 | 9–12 | பேராசிரியரின் அணிந்துரை | needs-review — first-pass complete |
 | 13–19 | மதிப்புரை — பேராசிரியர் மா. நன்னன் | needs-review — first-pass complete |
@@ -32,19 +32,20 @@
 
 இந்த source part-இன் **20 / 20 scan pages**-க்கும் page record உருவாக்கப்பட்டுள்ளது.
 
-- `verified`: 6
-- `needs-review`: 13
+- `verified`: 7
+- `needs-review`: 12
 - `partial`: 1
 - இன்னும் உருவாக்கப்படாத page record: 0
+
+ஸ்கேன் 7 (`முகவுரை`) மூலப் படத்துடன் எழுத்துக்கு எழுத்து ஒப்பிட்டு `verified` செய்யப்பட்டது. முதல் சுற்றில் தவறாகப் பதிவான `ஐம்பது நான்கு`, `பொருளையொன்னியில்` ஆகிய வாசிப்புகள் ஸ்கேனில் தெளிவாகத் தெரியும் `ஐம்பத்து நான்கு`, `பொருளையன்றி` எனத் திருத்தப்பட்டன. இது மொழிச்சீரமைப்பு அல்ல; இந்த exact scan-இன் visual reread அடிப்படையிலான transcription correction.
 
 ஸ்கேன் 9–20-க்கான முதல் சுற்று transcription மூலப் படங்களை நேரடியாக வாசித்து, OCR-ஐ உதவிக்கருவியாக மட்டும் பயன்படுத்தி அமைக்கப்பட்டுள்ளது. OCR வெளியீடு source authority ஆகக் கருதப்படவில்லை. வரலாற்றுச் சொல்வடிவம், சந்தி, அச்சுப் பிழை எனத் தோன்றும் வடிவம், குறள் உரை ஆகியவை இணையம் அல்லது வேறு பதிப்பின் அடிப்படையில் அமைதியாகச் சீர்திருத்தப்படவில்லை.
 
 ## அடுத்த செயல்
 
-**Visual verification round — scans 7–20.**
+**Visual verification round தொடர்ச்சி — scan 8, பின்னர் scans 9–20.**
 
-1. scan 7 (`முகவுரை`) — source scan-உடன் எழுத்துக்கு எழுத்து ஒப்பிடுதல்.
-2. scan 8 — high-resolution handwritten facsimile review; தெளிவில்லாத எழுத்தை ஊகிக்கக் கூடாது.
-3. scans 9–20 — headings, prose, poetic line breaks, punctuation, bold/quoted forms மற்றும் source-supported historical spellings அனைத்தையும் scan-உடன் மீண்டும் ஒப்பிட்டு `verified` நிலைக்கு நகர்த்துதல்.
+1. scan 8 — high-resolution handwritten facsimile review; தெளிவில்லாத எழுத்தை ஊகிக்கக் கூடாது; உறுதியாக வாசிக்க முடிவதை மட்டும் transcription-இல் சேர்க்க வேண்டும்.
+2. scans 9–20 — headings, prose, poetic line breaks, punctuation, bold/quoted forms மற்றும் source-supported historical spellings அனைத்தையும் scan-உடன் மீண்டும் ஒப்பிட்டு `verified` நிலைக்கு நகர்த்துதல்.
 
 விரிவான பக்க நிலை: [`indexes/page-map.md`](indexes/page-map.md).
