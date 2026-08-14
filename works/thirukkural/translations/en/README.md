@@ -17,7 +17,7 @@ The translation is produced from the repository's audited Tamil transcription, w
 For this project translation, use the following authority order:
 
 1. exact supplied Tamil scan;
-2. corresponding verified Tamil archival page in `works/thirukkural/pages/`;
+2. corresponding verified/audited Tamil archival page in `works/thirukkural/pages/`;
 3. this translation guide and controlled glossary;
 4. project translation notes created during review.
 
@@ -36,7 +36,7 @@ This keeps scan, Tamil transcription and English translation permanently alignab
 
 ## Translation-file front matter
 
-Use this pattern:
+Normal translatable pages use this pattern:
 
 ```yaml
 ---
@@ -51,7 +51,7 @@ translation_basis: "verified Tamil archival transcription; controlling scan rema
 ---
 ```
 
-For Part 001 scan 8, whose Tamil archival record is deliberately `partial`, use `status: "source-limited"` and translate only what the Tamil source review has safely established. Never reconstruct the unreadable handwriting in English.
+For Part 001 scan 8, whose Tamil archival record is deliberately `partial`, the aligned English record uses `status: "source-limited"`. It translates only what the Tamil source review safely established and does not reconstruct the unreadable handwriting.
 
 ## Translation statuses
 
@@ -94,15 +94,14 @@ The currently archived main-body Tamil reaches Kural **145**.
 
 Translation framework: **established**.
 
-Part 001 first-pass translation has started:
+Part 001 English production now has **8 aligned page records**:
 
-- English page files: **7**;
 - scans **1–7**: `draft`;
-- scan **8**: not yet created; must be `source-limited`;
+- scan **8**: `source-limited`;
 - scans **9–20**: not yet translated;
 - no page has yet completed the separate source-check or editorial-review stages.
 
-The first seven drafts cover the cover, title page, blank page record, publication and edition details, contents, and Kalaignar's Preface on printed page vi.
+Scan 8 translates only the securely established handwritten heading and factual page elements. Its continuous handwritten body remains untranslated because the Tamil source itself is partial after high-resolution review.
 
 See:
 
@@ -112,4 +111,4 @@ See:
 
 ## Next activity
 
-Create the aligned English page for **Part 001 scan 8** as `source-limited`, translating only what the audited Tamil source safely establishes. Do not reconstruct the unreadable handwritten body. After that, continue first-pass translation with scans **9–12**.
+Create Part 001 English first-pass `draft` files for **scans 9–12**, covering `பேராசிரியரின் அணிந்துரை`. Preserve the poetic line structure and source-supported wording, and keep review as a separate later activity.
