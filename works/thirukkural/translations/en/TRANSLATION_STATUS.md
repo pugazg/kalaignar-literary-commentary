@@ -6,14 +6,13 @@
 - official/publisher English source supplied: **no**
 - controlling source: supplied Tamil scans
 - working basis: audited Tamil archival page records
-- translation framework established: **yes**
 
 ## Current source readiness
 
 | Tamil part | Overall scans | Tamil state | English state |
 |---|---:|---|---|
 | Part 001 | 1–20 | archival-ready; scan 8 documented partial | **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS** |
-| Part 002 | 21–41 | archival-ready | **13/21 English drafts complete; first pass in progress** |
+| Part 002 | 21–41 | archival-ready | **21/21 English drafts complete; source-check pending** |
 | Part 003 | 42–62 | archival-ready | not started |
 
 ## Current English counts
@@ -22,16 +21,12 @@
 
 - English page files: **20 / 20**
 - `release-ready`: **19** — scans 1–7 and 9–20
-- `source-limited`: **1** — scan 8 handwritten facsimile
-- `editorial-reviewed`: **0**
-- `source-checked`: **0**
-- `draft`: **0**
-- `blocked`: **0**
+- `source-limited`: **1** — scan 8
 
 ### Part 002
 
-- English page files: **13 / 21** — scans 21–33
-- `draft`: **13**
+- English page files: **21 / 21** — scans 21–41
+- `draft`: **21**
 - `source-checked`: **0**
 - `editorial-reviewed`: **0**
 - `release-ready`: **0**
@@ -40,91 +35,70 @@
 
 # Part 001 English release — COMPLETE
 
-Part 001 completed the full project-translation workflow:
+Part 001 completed first-pass translation, source-check, editorial consistency review and release gate. Final decision: **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**.
 
-**first-pass translation → source-check → editorial consistency / glossary reconciliation → release gate.**
+Released Part 001 wording must not be silently revised because later Part 002 context appears. Any cross-part change must be separately source-checked, editorially reviewed and documented.
 
-Review artefacts:
+# Part 002 English first pass — COMPLETE
 
-- [`reviews/PART_001_REVIEW.md`](reviews/PART_001_REVIEW.md)
-- [`reviews/PART_001_RELEASE_REPORT.md`](reviews/PART_001_RELEASE_REPORT.md)
+All **21/21** aligned English page records now exist as `draft`.
 
-Final release decision: **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**.
+## Scans 21–27
 
-Part 001's controlled terminology and documented limitations remain in force. In particular, scan 8 remains source-limited and scan 19 retains `அடுத்தூர்வது அஃதொப்பதில்` in Tamil. Later Part 002 context must not silently alter released Part 001 wording.
+- completion of Professor Ma. Nannan's **Critical Appreciation**;
+- **Publisher's Note**.
 
-# Part 002 English first pass — IN PROGRESS
+Open review-sensitive items include the complete quoted Kural containing `அடுத்தூர்வது அஃதொப்பதில்`, the phrase `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு`, and inferred printed page **xxvi** on scan 27.
 
-## Scans 21–27 — COMPLETE AS DRAFTS
+## Scans 28–33
 
-Seven one-to-one English records cover the completion of Professor Ma. Nannan's **Critical Appreciation** and the **Publisher's Note**. All remain `status: "draft"`.
+- **Alphabetical Index of Chapters**;
+- **Alphabetical Glossary of Chapter Terms**;
+- **Aram** section-title page;
+- blank verso / reverse-side bleed-through page.
 
-Review-sensitive items from that batch remain open for later source-check:
+The index preserves source order and chapter numbers. New chapter-title renderings remain first-pass project translations. The glossary pages translate this edition's own explanatory glosses rather than importing outside definitions. Scan 32 retains source-supported inferred page **xxxi**; scan 33 does not treat bleed-through as current-page text.
 
-- scan 25 supplies the complete quoted Kural containing `அடுத்தூர்வது அஃதொப்பதில்`; its provisional second-line rendering is **“nothing equals pressing forward to meet it.”** Part 001 remains unchanged;
-- scan 26 retains `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு` visibly in Tamil with a contextual English gloss;
-- scan 27 retains inferred printed page **xxvi** with the basis explicitly documented because the numeral is not visible on the scan.
+## Scans 34–41 — Kural 1–40
 
-## Scans 28–33 — COMPLETE AS DRAFTS
+The main-body first pass is now complete:
 
-Six additional aligned records now exist:
+- scans 34–35 — **1. Worship**, Kural 1–10;
+- scans 36–37 — **2. The Excellence of Rain**, Kural 11–20;
+- scans 38–39 — **3. The Greatness of Renunciants**, Kural 21–30;
+- scans 40–41 — **4. Affirming Aram**, Kural 31–40.
 
-- scans 28–29 — `திருக்குறள் அதிகார அகர வரிசை` / **Alphabetical Index of Chapters**;
-- scans 30–31 — `அதிகார அருஞ்சொற்பொருள் அகரவரிசை` / **Alphabetical Glossary of Chapter Terms**;
-- scan 32 — `திருக்குறள் / கலைஞர் உரை / அறம்` section-title page;
-- scan 33 — blank verso with reverse-side bleed-through only.
+Each record preserves the Kural number and two-line verse structure, with Kalaignar's commentary translated as a separate layer. No published English Thirukkural wording, outside commentator or web text was substituted.
 
-All six are `status: "draft"`.
+### Main-body draft consistency carried forward
 
-### Index and glossary handling
+- Kural **17** uses the same project wording already established in the released Part 001 scan-20 example, and the adjacent Kalaignar commentary is likewise kept consistent.
+- Kural **29** and Kural **37** reuse the wording already drafted in the Part 002 Critical Appreciation examples so the same source verse is not translated differently without reason.
 
-- source entry order, chapter numbers and two-column index layout were preserved;
-- chapter titles already controlled by Part 001 use the existing project forms;
-- chapter titles newly encountered only in the full index have first-pass English renderings and are **not yet editorially controlled**;
-- scans 30–31 translate the source's own explanatory glosses rather than importing definitions from another Thirukkural edition;
-- `வழிபாடு` remains the controlled chapter title **Worship**, while the source glossary's own explanation `பின்பற்றுதல்` is translated as **Following**;
-- `பெண்வழிச் சேறல்` remains **Following a Woman's Lead**, while the source glossary explicitly explains it as `பெண் பித்தராதல்`, drafted as **becoming obsessed with women**;
-- `வரைவின் மகளிர்` is provisionally rendered **Women Beyond Bounds**, while the source gloss `விலை மகளிர்` is translated directly as **Women for hire**. The title-level rendering must be reviewed later rather than treated as settled.
+### Main-body source-check items
 
-### Pagination and blank-page integrity
+The following first-pass choices require deliberate source-check rather than silent normalization:
 
-- scan 32 retains printed page **xxxi** with `printed_page_basis` stating that the value is supported by the Part 001 contents entry and surrounding source sequence; the numeral is not visibly printed on the scan;
-- scan 33 contains no distinct printed text. Only faint reverse-side bleed-through is represented as a page-condition note; no bleed-through text was invented or translated.
-
-No external/published English Kural wording, web text, another Tamil edition, or outside commentary was used in scans 21–33.
-
-## Remaining Part 002 first-pass plan
-
-The only remaining first-pass batch is scans **34–41**, containing Kural **1–40** plus Kalaignar's commentary:
-
-1. scans 34–35 — `1. வழிபாடு`, Kural 1–10;
-2. scans 36–37 — `2. வான் சிறப்பு`, Kural 11–20;
-3. scans 38–39 — `3. நீத்தார் பெருமை`, Kural 21–30;
-4. scans 40–41 — `4. அறன் வலியுறுத்தல்`, Kural 31–40.
-
-After all eight drafts exist, Part 002 first pass will be **21/21 complete**. Only then begin the dedicated Part 002 source-check, followed by editorial consistency review and the Part 002 release report.
+- Kural 1 / `ஆதி பகவன்` — draft retains **Aadhi Bhagavan** instead of importing a doctrinal English title;
+- Kurals 5 and 10 / `இறைவன்` — draft follows Kalaignar's adjacent non-doctrinal explanatory direction and records the choice explicitly;
+- Kurals 8 and 30 / `அந்தணர்` — draft uses `anthanar` / worthy people according to Kalaignar's explanation rather than importing a caste or religious definition;
+- Kural 25 — Indra is retained because the source explicitly uses him as Kalaignar's example concerning control of the senses;
+- Kural 38 — the `வாழ்நாள் வழியடைக்கும் கல்` image is rendered in line with Kalaignar's commentary as a stone that sets the life-path in order; this interpretive wording must be checked closely against the source.
 
 ## Part 003 plan
 
-After Part 002 English release:
-
-1. scans 42–62 — Kural 41–145 + Kalaignar commentary;
-2. source-check and editorial review;
-3. Part 003 translation release report.
-
-## Future cadence
-
-For every newly supplied Tamil PDF after Part 003:
-
-**Tamil transcription → Tamil verification → Tamil audit → English draft → English source check → editorial review → translation release report.**
+After Part 002 English release, translate scans 42–62, Kural 41–145 plus Kalaignar commentary, followed by the same source-check → editorial review → release-report workflow.
 
 ## Next exact activity
 
-Complete the **Part 002 English first pass with scans 34–41**, translating Kural **1–40** and Kalaignar's commentary from the verified Tamil archival records.
+Begin the dedicated **Part 002 English source-check in source order with scans 21–27**.
 
-- preserve each Kural number and two-line verse structure;
-- translate the Kural and Kalaignar's commentary as separate layers;
-- use the controlled chapter titles **Worship**, **The Excellence of Rain**, **The Greatness of Renunciants**, and **Affirming Aram**;
-- create matching English files as `draft`;
-- do not substitute any published English Thirukkural translation;
-- do not begin source-check until all eight main-body drafts are complete.
+1. Compare each English draft directly with its verified Tamil archival page for omissions, additions, agency reversal, meaning drift, headings, quotations and metadata.
+2. Promote a page to `source-checked` only after the comparison is complete.
+3. Re-evaluate scan 25's provisional rendering of the complete Kural containing `அடுத்தூர்வது அஃதொப்பதில்`; do not revise released Part 001 scan 19 in the same step.
+4. Recheck scan 26's `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு` treatment and scan 27's inferred pagination metadata.
+5. Do not begin editorial consistency review until all Part 002 pages have completed source-check.
+
+Permanent cadence:
+
+**Tamil transcription → Tamil verification → Tamil audit → English draft → English source check → editorial review → translation release report.**
