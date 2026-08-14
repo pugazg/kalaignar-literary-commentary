@@ -6,10 +6,10 @@ printed_page: null
 work: "thirukkural"
 section: "அறம் — தலைப்புப் பக்கத்தின் பின்பக்கம்"
 page_type: "blank"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf"
-transcription_method: "first-pass direct visual inspection of source scan; source scan remains authoritative"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 ## பக்க நிலை
