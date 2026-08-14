@@ -15,7 +15,8 @@
 - Source filename: `திருக்குறள்_கலைஞர்_உரை_part_001_pages_1-20.pdf`
 - Local PDF pages: **20**
 - Overall scan range: **1–20**
-- Current release state: audited / archival-ready, with scan 8 retained as a documented partial handwritten facsimile.
+- Release state: audited / archival-ready, with scan 8 retained as a documented partial handwritten facsimile.
+- Audit: `works/thirukkural/AUDIT_PART_001.md`
 
 ### Part 002
 
@@ -24,6 +25,8 @@
 - Overall scan range: **21–41**
 - Continuity: Part 002 local page 1 is overall scan 21 and carries printed page **xx**, directly following Part 001 scan 20 / printed page **xix**.
 - This establishes that the two supplied files are consecutive segments of the same scanned edition.
+- Final status: **21/21 verified; ARCHIVAL-READY**.
+- Audit: `works/thirukkural/AUDIT_PART_002.md`
 
 ## Publication details visible in Part 001
 
@@ -66,6 +69,18 @@ Part 002 confirms the continuation of this structure:
 - overall scan 33: visually blank verso with reverse-side bleed-through;
 - overall scan 34: printed book page **1**, beginning `அறம் - பாயிரம் - வழிபாடு` and `1. வழிபாடு`;
 - overall scans 34–41: printed book pages **1–8**, covering குறள் 1–40 through `4. அறன் வலியுறுத்தல்`.
+
+## Part 002 audit state
+
+The repository-tree and page-map audit confirms:
+
+- one page record for every overall scan **21–41**;
+- local Part 002 pages **1–21** with no gap;
+- all **21/21** page records verified;
+- `needs-review`: **0**;
+- no unresolved Part 002 page;
+- scan 27 (`xxvi`) and scan 32 (`xxxi`) remain explicitly documented as same-source pagination inferences, not visible numerals;
+- scan 33 remains a verified blank/bleed-through-only page.
 
 ## Source condition / observations
 
