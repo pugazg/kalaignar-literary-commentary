@@ -38,6 +38,7 @@ Framework:
 - [`translations/en/TRANSLATION_STATUS.md`](translations/en/TRANSLATION_STATUS.md)
 - [`translations/en/reviews/PART_001_REVIEW.md`](translations/en/reviews/PART_001_REVIEW.md)
 - [`translations/en/reviews/PART_001_RELEASE_REPORT.md`](translations/en/reviews/PART_001_RELEASE_REPORT.md)
+- [`translations/en/reviews/PART_002_REVIEW.md`](translations/en/reviews/PART_002_REVIEW.md)
 
 Permanent cadence:
 
@@ -51,17 +52,17 @@ Permanent cadence:
 
 Release decision: **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**.
 
-### Part 002 English — SOURCE-CHECK COMPLETE
+### Part 002 English — EDITORIAL REVIEW COMPLETE
 
 - English page files: **21 / 21**
-- `source-checked`: **21** — scans 21–41
+- `editorial-reviewed`: **21** — scans 21–41
+- `source-checked`: **0**
 - `draft`: **0**
-- `editorial-reviewed`: **0**
 - `release-ready`: **0**
 
-All Part 002 English pages have now been compared directly with their verified Tamil records. The source-check preserves this edition's own index order and glossary wording and, in the main body, Kalaignar's own interpretations rather than familiar external ones.
+The Part 002 review preserves Kalaignar's source-specific readings in Kural 1–40, including **Aadhi Bhagavan**, *iraivan*, *anthanar*, his Indra interpretation in Kural 25, Kural 12's **food they drink**, Kural 20's conduct warning, and Kural 38's **stone that sets the path of life in order**.
 
-Key main-body decisions include retaining **Aadhi Bhagavan**, `iraivan`, and `anthanar` where Kalaignar's commentary makes those terms themselves significant; following his explicit reading of Kural 10's great sea as **life** and `இறைவன்` as **the one who stands foremost**; preserving his Indra interpretation in Kural 25; and retaining Kural 38's image of good deeds as **the stone that sets the path of life in order**.
+The full 133-chapter index remains an index-local project translation rather than an imported standard English list. This edition's own explanatory glossary remains a separate source layer. The review also confirms `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு` as **“the low-priced edition of the people's hearts”** and documents the intentional Part 001 / Part 002 difference for `அடுத்தூர்வது அஃதொப்பதில்` rather than silently changing the released Part 001 record.
 
 ### Part 003 English
 
@@ -76,6 +77,8 @@ Key main-body decisions include retaining **Aadhi Bhagavan**, `iraivan`, and `an
 
 ## அடுத்த செயல்
 
-Begin the **Part 002 English editorial-consistency / glossary-reconciliation review across scans 21–41**. Review terminology, repeated Kural wording, chapter titles, punctuation, names and readability while preserving all source-check fidelity decisions. Any cross-part decision involving released Part 001 must be explicitly documented. Do not perform the release gate in the same activity.
+Perform the separate **Part 002 English release gate**. Verify all 21 `editorial-reviewed` pages against `PART_002_REVIEW.md`, `GLOSSARY.md`, metadata and translation status; create `translations/en/reviews/PART_002_RELEASE_REPORT.md`; and, if the gate passes, promote all 21 Part 002 pages to `release-ready`.
+
+Do not begin Part 003 English in the same activity.
 
 Tamil source intake can later continue from overall scan **63** only when a newly supplied scan itself confirms continuity after scan 62 / printed page 29 / Kural 145.
