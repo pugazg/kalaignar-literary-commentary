@@ -99,13 +99,13 @@ The attachment contains **21 local PDF pages**. Local page 1 is overall scan **4
 | 53 | 12 | 20 | `10. இனியவை கூறல்` — குறள் 96–100 | needs-review | `pages/0053-aram-iniyavai-kooral-02.md` |
 | 54 | 13 | 21 | `11. செய்ந்நன்றியறிதல்` — குறள் 101–105 | needs-review | `pages/0054-aram-seynnandriyarithal-01.md` |
 | 55 | 14 | 22 | `11. செய்ந்நன்றியறிதல்` — குறள் 106–110 | needs-review | `pages/0055-aram-seynnandriyarithal-02.md` |
-| 56 | 15 | 23 | `12. நடுவு நிலைமை` — குறள் 111–115 | not-started | planned `pages/0056-aram-naduvu-nilaimai-01.md` |
-| 57 | 16 | 24 | `12. நடுவு நிலைமை` — குறள் 116–120 | not-started | planned `pages/0057-aram-naduvu-nilaimai-02.md` |
-| 58 | 17 | 25 | `13. அடக்கம் உடைமை` — குறள் 121–125 | not-started | planned `pages/0058-aram-adakkam-udaimai-01.md` |
-| 59 | 18 | 26 | `13. அடக்கம் உடைமை` — குறள் 126–130 | not-started | planned `pages/0059-aram-adakkam-udaimai-02.md` |
-| 60 | 19 | 27 | `14. ஒழுக்கம் உடைமை` — குறள் 131–135 | not-started | planned `pages/0060-aram-ozhukkam-udaimai-01.md` |
-| 61 | 20 | 28 | `14. ஒழுக்கம் உடைமை` — குறள் 136–140 | not-started | planned `pages/0061-aram-ozhukkam-udaimai-02.md` |
-| 62 | 21 | 29 | `15. பிறனில் விழையாமை` — குறள் 141–145 | not-started | planned `pages/0062-aram-piranil-vizhaiyaamai-01.md` |
+| 56 | 15 | 23 | `12. நடுவு நிலைமை` — குறள் 111–115 | needs-review | `pages/0056-aram-naduvu-nilaimai-01.md` |
+| 57 | 16 | 24 | `12. நடுவு நிலைமை` — குறள் 116–120 | needs-review | `pages/0057-aram-naduvu-nilaimai-02.md` |
+| 58 | 17 | 25 | `13. அடக்கம் உடைமை` — குறள் 121–125 | needs-review | `pages/0058-aram-adakkam-udaimai-01.md` |
+| 59 | 18 | 26 | `13. அடக்கம் உடைமை` — குறள் 126–130 | needs-review | `pages/0059-aram-adakkam-udaimai-02.md` |
+| 60 | 19 | 27 | `14. ஒழுக்கம் உடைமை` — குறள் 131–135 | needs-review | `pages/0060-aram-ozhukkam-udaimai-01.md` |
+| 61 | 20 | 28 | `14. ஒழுக்கம் உடைமை` — குறள் 136–140 | needs-review | `pages/0061-aram-ozhukkam-udaimai-02.md` |
+| 62 | 21 | 29 | `15. பிறனில் விழையாமை` — குறள் 141–145 | needs-review | `pages/0062-aram-piranil-vizhaiyaamai-01.md` |
 
 ### Part 003 current status
 
@@ -113,9 +113,9 @@ The attachment contains **21 local PDF pages**. Local page 1 is overall scan **4
 - overall scan range: **42–62**
 - printed pages: **9–29**
 - Kural range: **41–145**
-- page records created: **14 / 21** — scans 42–55
-- `needs-review`: **14** — scans 42–55
-- `not-started`: **7** — scans 56–62
+- page records created: **21 / 21**
+- `needs-review`: **21** — scans 42–62
+- `not-started`: **0**
 - `verified`: **0**
 
 ### Source observations
@@ -127,10 +127,4 @@ The attachment contains **21 local PDF pages**. Local page 1 is overall scan **4
 
 ## அடுத்த செயல்
 
-Finish the Part 003 first pass with scans **56–62**:
-
-1. scans 56–57 / printed 23–24 — `12. நடுவு நிலைமை`, குறள் 111–120;
-2. scans 58–59 / printed 25–26 — `13. அடக்கம் உடைமை`, குறள் 121–130;
-3. scans 60–61 / printed 27–28 — `14. ஒழுக்கம் உடைமை`, குறள் 131–140;
-4. scan 62 / printed 29 — begin `15. பிறனில் விழையாமை`, குறள் 141–145;
-5. keep all first-pass records `needs-review` until the separate direct visual-verification cycle.
+Begin the separate **Part 003 direct visual-verification cycle** with scans **42–48**. Compare each first-pass page record character-by-character against the exact scan, correct only source-supported differences, and promote a page to `verified` only after that comparison is complete.
