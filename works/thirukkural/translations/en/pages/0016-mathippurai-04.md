@@ -6,14 +6,14 @@ work: "thirukkural"
 section: "Critical Appreciation — Following a Woman's Lead"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
 
 ## 3. Following a Woman's Lead
 
-Just as the fox that wished to forget the grapes on the vine because they were beyond its reach tried instead to despise them and said, “Ugh, these grapes are sour,” those who wished to forget the pleasure of women, but could not do so, began to hate it and, for that very reason, began to fabricate claims that demeaned and blamed women. This tendency has found a broad place in works such as the *Naladiyar*. Commentators such as Parimelazhagar, who came under the influence of that view, likewise became unable to write commentary without casting a blemish upon Thiruvalluvar's thought. The result became established in the explanations they gave for the ten Kurals of the chapter called *Following a Woman's Lead*. Kalaignar's role in seeking to change this tendency, which bends Thiruvalluvar's doctrine out of shape, is noteworthy.
+Just as the fox that wished to forget the grapes on the vine because they were beyond its reach tried instead to despise them and said, “Ugh, these grapes are sour,” those who wished to forget the pleasure of women, but could not do so, began to hate it and, for that very reason, began to fabricate claims that demeaned and blamed women. This tendency has found a broad place in works such as the *Naladiyar*. Commentators such as Parimelazhagar, who came under the influence of that view, likewise became unable to write commentary without casting a blemish upon Thiruvalluvar's thought. The result is the set of explanations they gave for the ten Kurals of the chapter called *Following a Woman's Lead*, which became established in this form. Kalaignar's role in seeking to change this tendency, which bends Thiruvalluvar's doctrine out of shape, is noteworthy.
 
 Let us look, in order, at the commentary Kalaignar gives for the ten Kurals in this chapter.
 
