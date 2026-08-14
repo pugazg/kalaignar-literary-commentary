@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Love"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -22,7 +22,7 @@ as the sun scorches a boneless creature.**
 Even when a person knows what aram is, if that person does not follow it, their own conscience will torment them. It will be like the sun's heat tormenting a worm.
 
 **78. A life without love in the heart is like  
-a withered tree sprouting in a desert.**
+a withered tree sprouting on hard barren ground.**
 
 The life of one who has no love in the heart is like a withered tree putting forth shoots in a desert.
 
