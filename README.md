@@ -6,7 +6,7 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Part 001 archival-ready; Part 002 first-pass complete through scan 33 |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Part 001 archival-ready; Part 002 **21/21 first-pass records complete**, verification pending |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில மொழிபெயர்ப்பு | பின்னர் சேர்க்கப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -55,22 +55,13 @@ works/
 
 - local PDF pages: **21**
 - overall scans: **21–41**
-- source continuity confirmed: overall scan 21 is printed page **xx**, directly after Part 001 scan 20 / printed page **xix**
-- page records created so far: **13 / 21** — scans 21–33
-- `needs-review`: **13**
-- remaining `not-started`: **8** — scans 34–41
+- page records: **21 / 21**
+- `needs-review`: **21**
+- `not-started`: **0**
+- `verified`: **0**
 
-Completed so far in Part 002:
+Part 002 now includes the end of `மதிப்புரை`, `பதிப்புரை`, both index sections, the `அறம்` title/blank pages, and the first main-body Kural commentary for **குறள் 1–40** across `வழிபாடு`, `வான் சிறப்பு`, `நீத்தார் பெருமை`, and `அறன் வலியுறுத்தல்`.
 
-- scans 21–26 — completion of பேராசிரியர் மா. நன்னன்'s `மதிப்புரை`
-- scan 27 — `பதிப்புரை`, signed `பூம்புகார் பதிப்பகத்தார்`
-- scans 28–29 — `திருக்குறள் அதிகார அகர வரிசை`
-- scans 30–31 — `அதிகார அருஞ்சொற்பொருள் அகரவரிசை`
-- scan 32 — `திருக்குறள் / கலைஞர் உரை / அறம்` title page
-- scan 33 — blank verso; reverse-side bleed-through explicitly excluded from transcription
-
-All Part 002 records remain first-pass `needs-review`; final direct visual verification has not yet begun.
-
-Next activity: **scans 34–41**, the first main body pages containing Kural **1–40** and Kalaignar's commentary across `வழிபாடு`, `வான் சிறப்பு`, `நீத்தார் பெருமை`, and `அறன் வலியுறுத்தல்`.
+All Part 002 records remain first-pass `needs-review`. The next activity is a separate direct visual verification cycle, beginning with scans **21–27**, before any page is promoted to `verified`.
 
 விரிவான நிலை: [`works/thirukkural/README.md`](works/thirukkural/README.md) மற்றும் [`works/thirukkural/indexes/page-map.md`](works/thirukkural/indexes/page-map.md).
