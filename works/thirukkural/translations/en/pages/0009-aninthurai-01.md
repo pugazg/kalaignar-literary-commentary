@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "The Professor's Foreword"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -18,7 +18,7 @@ examining every thought that soaks into the heart,
 Valluvar discerned that what must be cast aside is imagination born of religion,  
 and that what must be embraced is the path of mutual help!
 
-Though distinction may differ because occupations differ,  
+Though distinctions are unequal because the work performed differs,  
 he declared, “Birth is alike to all living beings,”  
 and rejected the doctrine of Manu, a corruption of aram,  
 that lays down a law for the birth-based varna order!
