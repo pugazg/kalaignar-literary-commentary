@@ -1,13 +1,15 @@
 ---
 scan_page: 23
+part: 2
+part_page: 3
 printed_page: "xxii"
 work: "thirukkural"
 section: "மதிப்புரை — புதுப்பொருள்"
 page_type: "review"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf"
-transcription_method: "first-pass direct visual transcription from source scan; source scan remains authoritative"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 புத்தேளிர் என்னும் சொல் புதுமை என்பதனடியாகப் பிறந்தது எனக் கொண்டு பொருள் தந்து மருட்கை தெளிவிக்கும் மாட்சிக்குக் கீழ்க் காணப்படும் பகுதிகள் எடுத்துக்காட்டுகளாகத் திகழ்கின்றன.
@@ -34,4 +36,4 @@ transcription_method: "first-pass direct visual transcription from source scan; 
 
 இவற்றுள் ஈற்றில் இடம்பெற்றுள்ள பகுதி புத்தம்புதிய விழுமிய கருத்தையளிக்கும் உரையாகவும் இலங்குவதைக் காணமுடியும்.
 
-<!-- மூல ஸ்கேன் பக்கம்: 23; அச்சுப் பக்கம்: xxii -->
+<!-- மூல ஸ்கேன் பக்கம்: 23; Part 002 உள்ளூர் பக்கம்: 3; அச்சுப் பக்கம்: xxii -->
