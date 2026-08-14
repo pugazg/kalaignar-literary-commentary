@@ -4,10 +4,10 @@ printed_page: "xiii"
 work: "thirukkural"
 section: "மதிப்புரை — தேவை"
 page_type: "review"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_001_pages_1-20.pdf"
-transcription_method: "first-pass visual transcription with OCR assistance; source scan remains authoritative"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 அதனையொட்டிய நெறிமுறைகள் ஆகியன தேவை. இன்று உலகின் ஒழுகலாறு அஃதாவது உலக நடைமுறை கடைமுறையாகிக் குடைசாய் முறையாகவும் ஆகிக் கொண்டிருப்பதை நாம் பலரும் அறிந்து, கண் கலங்குவோரும் கைபிசைவோரும் படபடப்போரும் துடிதுடிப்போருமாக உள்ளோம். உலகில் அறம் இல்லாமையாலோ, ஒழுக்கம் பிறக்காமையாலோ, அஃது அழிந்துவிட்டதாலோ இந்நிலை ஏற்படவில்லை. ஒழுக்க நெறிமுறை அல்லது அறநெறி பலருக்கும் அறியக்கூடியதாக ஆக்கப்படாமையும் இதற்குக் காரணமாக உள்ளது.
