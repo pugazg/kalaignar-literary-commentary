@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Prefatory Chapters — The Excellence of Rain"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -35,5 +35,7 @@ If rain fails in this great world, it becomes an obstacle both to charity perfor
 neither can conduct endure for anyone without rain.**
 
 Since there is a condition in which conduct itself may deteriorate if there is no rain in the world, we must recognize the indispensability of water and act accordingly.
+
+> Source-check note: Kural 17 and Kalaignar's accompanying social analogy remain aligned with the already released Part 001 example. No outside interpretation was introduced. Kural 20 retains Kalaignar's explicit warning that **conduct itself may deteriorate** when there is no rain.
 
 <!-- Source scan page: 37; Part 002 local page: 17; printed page: 4 -->
