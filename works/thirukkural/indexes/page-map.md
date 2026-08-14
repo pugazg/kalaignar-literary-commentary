@@ -70,15 +70,18 @@ The attachment contains **21 local PDF pages** and directly continues the book a
 
 `*` Printed numeral is not visibly printed on that scan. `xxvi` is supported by the Part 001 contents page plus the surrounding `xxv` → `xxvii` sequence; `xxxi` is supported by the contents entry `அறத்துப்பால் — xxxi` and the surrounding front-matter sequence. These are source-supported pagination facts, not silently invented visible text.
 
-### Part 002 current status
+### Part 002 final status
 
 - source pages in attachment: **21**
 - overall scan range: **21–41**
 - page records created: **21 / 21**
 - `verified`: **21 / 21**
 - `needs-review`: **0**
+- `partial`: **0**
+- `blocked`: **0**
 - `not-started`: **0**
-- audit/release report: **pending**
+- audit: [`../AUDIT_PART_002.md`](../AUDIT_PART_002.md)
+- release decision: **ARCHIVAL-READY**
 
 ### Verification completed — scans 21–27
 
@@ -104,15 +107,12 @@ Direct visual comparison against Part 002 local pages 14–21 is complete for Ku
 - scans 34–36 and 38–41 matched their first-pass wording during final comparison.
 - source-specific Kural forms were rechecked and retained, including `நீடுவாழ் வார்`, `வானின் றுலகம்`, `உள்நின் றுடற்றும்`, `சார்வாய்மற் றாங்கே`, `அகல்விசும்பு ளார்கோமான்`, `நாற்றமென றைந்தின்`, `அறவோர்மற் றெவ்வுயிர்க்கும்`, `அறத்தினூஉங்கு`, `அறத்தினூஉங்`, `அழுக்கா றவாவெகுளி`, `அறத்தா றிதுவென`, and `இன்பமற் றெல்லாம்`.
 - scan 37 had one genuine first-pass transcription correction in Kalaignar's commentary: `ஒழுக்கமே கெட்டகடும்` → **`ஒழுக்கமே கெட்டுக்கூடும்`**.
-- all scans 34–41 now use `status: "verified"` and `transcription_method: "direct visual comparison with source scan"`.
+- all scans 34–41 use `status: "verified"` and `transcription_method: "direct visual comparison with source scan"`.
+
+### Part 002 audit result
+
+Repository-tree audit confirmed the continuous file sequence `0021-...md` through `0041-...md`, with no missing or duplicate Part 002 scan record. The pagination bases, blank-page handling, metadata, source markers, and final verification states are documented in [`../AUDIT_PART_002.md`](../AUDIT_PART_002.md).
 
 ## அடுத்த செயல்
 
-Run the **Part 002 release/audit pass**:
-
-1. confirm one page record for every overall scan 21–41 with no gaps or duplicates;
-2. confirm local-page and printed-page continuity/bases;
-3. confirm every Part 002 record is `verified` and uses the final visual-comparison method;
-4. confirm source-page markers and metadata consistency;
-5. create `works/thirukkural/AUDIT_PART_002.md` and record the release decision;
-6. synchronize the work README, root README and `HANDOVER.md` with that release state.
+Continue only when the **next Thirukkural source PDF batch** is supplied. Inspect that scan first and continue from overall scan **42** only if the source itself supports continuity after scan 41 / printed page 8.
