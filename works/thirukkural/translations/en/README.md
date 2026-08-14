@@ -14,11 +14,9 @@ The translation is produced from the repository's audited Tamil transcription, w
 
 ## Authority order
 
-For this project translation, use the following authority order:
-
 1. exact supplied Tamil scan;
 2. corresponding verified/audited Tamil archival page in `works/thirukkural/pages/`;
-3. this translation guide and controlled glossary;
+3. `TRANSLATION_GUIDE.md` and `GLOSSARY.md`;
 4. project translation notes created during review.
 
 Do **not** silently import wording from an existing English Thirukkural translation, another Tamil edition, another commentator, or a web text.
@@ -32,27 +30,6 @@ works/thirukkural/pages/0034-aram-vazhipadu-01.md
 works/thirukkural/translations/en/pages/0034-aram-vazhipadu-01.md
 ```
 
-This keeps scan, Tamil transcription and English translation permanently alignable.
-
-## Translation-file front matter
-
-Normal translatable pages use this pattern:
-
-```yaml
----
-source_scan_page: 34
-source_tamil_file: "../../../pages/0034-aram-vazhipadu-01.md"
-work: "thirukkural"
-language: "en"
-translation_type: "project_translation"
-status: "draft"
-source_tamil_status: "verified"
-translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
----
-```
-
-For Part 001 scan 8, whose Tamil archival record is deliberately `partial`, the aligned English record uses `status: "source-limited"`. It translates only what the Tamil source review safely established and does not reconstruct the unreadable handwriting.
-
 ## Translation statuses
 
 - `draft` — first complete English rendering exists;
@@ -64,23 +41,13 @@ For Part 001 scan 8, whose Tamil archival record is deliberately `partial`, the 
 
 A page must not jump directly from `draft` to `release-ready`.
 
-## What is translated
+## Translation method
 
-Where present in the archived Tamil page, translate:
+Where present in the archived Tamil page, translate titles, Kural text, Kalaignar's commentary, prefaces, forewords, reviews, publisher's notes, and useful contents/index material. Kural and commentary layers remain visibly separate.
 
-- titles and section headings;
-- Kural text;
-- Kalaignar's commentary;
-- prefaces, forewords, reviews and publisher's notes;
-- contents/index explanatory material when useful for a complete English archival layer.
+The English may use natural syntax, but must not modernize Kalaignar's interpretation, harmonize him with another commentator, or repair unusual Tamil by substitution from another edition.
 
-Non-text artefacts, bleed-through and unreadable handwriting are described or left source-limited; they are not invented as English prose.
-
-## Verse/commentary separation
-
-The English rendering of each Kural and the English translation of Kalaignar's commentary must remain visibly separate. Do not replace the Kural translation with a prose summary of the commentary.
-
-Where the compressed Tamil verse permits more than one English reading, use Kalaignar's own adjacent commentary as the first interpretive aid and record a translation note if the choice is materially interpretive. Do not import a different commentator's interpretation without an explicit research task.
+For Part 001 scan 8, whose Tamil archival record is deliberately `partial`, the aligned English record uses `status: "source-limited"` and does not reconstruct the unreadable handwriting.
 
 ## Current Tamil source readiness
 
@@ -94,14 +61,19 @@ The currently archived main-body Tamil reaches Kural **145**.
 
 Translation framework: **established**.
 
-Part 001 English production now has **8 aligned page records**:
+Part 001 English production now has **12 aligned page records**:
 
 - scans **1–7**: `draft`;
 - scan **8**: `source-limited`;
-- scans **9–20**: not yet translated;
+- scans **9–12**: `draft`;
+- scans **13–20**: not yet translated;
 - no page has yet completed the separate source-check or editorial-review stages.
 
-Scan 8 translates only the securely established handwritten heading and factual page elements. Its continuous handwritten body remains untranslated because the Tamil source itself is partial after high-resolution review.
+### Scans 9–12 — The Professor's Foreword
+
+The four-page poetic foreword by **K. Anbazhagan** is now present as a first-pass English draft. The translation preserves the source's poem-like line structure, quotations, repeated rhetorical emphasis and highlighted lines rather than reducing the text to prose.
+
+A source-sensitive note is carried on scan 10 because the verified Tamil source reads `திருவிடம்`; the English draft therefore retains **Tiruvidam** instead of silently substituting a different Tamil form. `முப்பால்` is provisionally retained as **Muppaal**, and `ஊழ்` as **oozh**, pending the dedicated source-check/editorial review.
 
 See:
 
@@ -111,4 +83,6 @@ See:
 
 ## Next activity
 
-Create Part 001 English first-pass `draft` files for **scans 9–12**, covering `பேராசிரியரின் அணிந்துரை`. Preserve the poetic line structure and source-supported wording, and keep review as a separate later activity.
+Create Part 001 English first-pass `draft` files for **scans 13–20**, covering `மதிப்புரை` / Critical Appreciation and the remaining literary-analysis front matter.
+
+Preserve source headings, quotations, Kural references, paragraph structure and emphasis. Review/promotion remains a separate later activity.
