@@ -12,25 +12,25 @@
 
 | Tamil part | Overall scans | Tamil state | English state |
 |---|---:|---|---|
-| Part 001 | 1–20 | archival-ready; scan 8 documented partial | **7 drafts created (scans 1–7)** |
+| Part 001 | 1–20 | archival-ready; scan 8 documented partial | **8 English records created: 7 drafts + 1 source-limited** |
 | Part 002 | 21–41 | archival-ready | not started |
 | Part 003 | 42–62 | archival-ready | not started |
 
 ## Current English counts
 
-- English page files: **7**
+- English page files: **8**
 - `draft`: **7** — scans 1–7
 - `source-checked`: **0**
 - `editorial-reviewed`: **0**
 - `release-ready`: **0**
-- `source-limited`: **0**
+- `source-limited`: **1** — scan 8 handwritten facsimile
 - `blocked`: **0**
 
 ## Part 001 progress
 
 ### Completed first-pass drafts — scans 1–7
 
-Matching English files now exist for:
+Matching English files exist for:
 
 1. scan 1 — cover;
 2. scan 2 — title page;
@@ -44,14 +44,27 @@ All seven files are `draft`. No English page has yet completed the separate sour
 
 The Preface translation preserves Kalaignar's distinction between the source title `கடவுள் வாழ்த்து` (`Invocation to God`) and his adopted chapter title `வழிபாடு` (`Worship`), and treats the translation as project-created rather than as an official published English rendering.
 
+### Source-limited record — scan 8
+
+`0008-handwritten-note.md` now exists with `status: "source-limited"`.
+
+The controlling Tamil archival record is itself `partial` after high-resolution direct visual review. The English page therefore translates only what is securely established:
+
+- the handwritten title, rendered as **“An Introduction to the Preface!”**;
+- the presence of a decorative divider;
+- the presence of Kalaignar's signature;
+- the clearly readable date **27/12/2007**;
+- the fact that reverse-side bleed-through is not current-page handwriting.
+
+The continuous handwritten body is not translated or reconstructed. A fuller English rendering is deferred unless a clearer source becomes available.
+
 ### Remaining Part 001 first-pass work
 
-1. scan 8 — handwritten facsimile, to be created separately as `source-limited`;
-2. scans 9–12 — பேராசிரியரின் அணிந்துரை / Professor's Foreword;
-3. scans 13–20 — மதிப்புரை and literary-analysis front matter;
-4. source-check pass for all translatable Part 001 English pages;
-5. editorial consistency review;
-6. `PART_001_RELEASE_REPORT.md`.
+1. scans 9–12 — பேராசிரியரின் அணிந்துரை / Professor's Foreword;
+2. scans 13–20 — மதிப்புரை and literary-analysis front matter;
+3. source-check pass for all translatable Part 001 English pages;
+4. editorial consistency review;
+5. `PART_001_RELEASE_REPORT.md`.
 
 ## Part 002 plan
 
@@ -80,12 +93,13 @@ Do not wait until all 1,330 Kurals are archived before translating newly audited
 
 ## Next exact activity
 
-Create the aligned English record for **Part 001 scan 8** as `source-limited`.
+Create Part 001 English first-pass `draft` files for **scans 9–12**, covering `பேராசிரியரின் அணிந்துரை`.
 
 Rules:
 
-- mirror `0008-handwritten-note.md` under `translations/en/pages/`;
-- translate only the Tamil heading/date/signature description and other content safely established by the audited Tamil record;
-- explicitly state that the continuous handwritten body cannot be safely translated from the controlling source;
-- do not reconstruct or paraphrase unreadable handwriting;
-- after scan 8, continue Part 001 first-pass translation with scans 9–12.
+- mirror Tamil filenames exactly under `translations/en/pages/`;
+- translate only the audited Tamil source content;
+- preserve verse/poetic line structure where present;
+- preserve names, quotations, repetitions and source-supported emphasis;
+- keep all new files `draft` during first-pass creation;
+- do not source-check or editorially promote them in the same activity.
