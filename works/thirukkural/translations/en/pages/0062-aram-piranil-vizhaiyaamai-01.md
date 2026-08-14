@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Not Desiring Another Man's Wife"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -14,7 +14,7 @@ translation_basis: "verified Tamil archival transcription; controlling scan rema
 # 15. Not Desiring Another Man's Wife
 
 **141. The folly of desiring another man's wife  
-is absent among those in the world who have understood works of aram and wealth.**
+is absent among those in the world who have discerned aram and wealth.**
 
 The ignorance of desiring another man's wife is not found among those in the world who have studied and understood works on aram and works on wealth.
 
