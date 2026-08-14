@@ -6,7 +6,7 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–002 archival-ready; Part 003 **14/21 records created** |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–002 archival-ready; Part 003 **21/21 first-pass records created** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில மொழிபெயர்ப்பு | பின்னர் சேர்க்கப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -68,15 +68,15 @@ works/
 - overall scans: **42–62**
 - printed pages: **9–29**
 - Kural range: **41–145**
-- page records: **14 / 21** — scans 42–55
-- `needs-review`: **14**
-- `not-started`: **7**
+- page records: **21 / 21**
+- `needs-review`: **21**
+- `not-started`: **0**
 - `verified`: **0**
 
 The source itself confirms direct continuity from Part 002: scan 41 ends at printed page 8 / Kural 40, and Part 003 scan 42 begins printed page 9 / Kural 41.
 
-First-pass transcription is now complete through Kural **110**, covering `இல்வாழ்க்கை`, `வாழ்க்கைத் துணைநலம்`, `மக்கட்பேறு`, `அன்புடைமை`, `விருந்தோம்பல்`, `இனியவை கூறல்`, and `செய்ந்நன்றியறிதல்`. All Part 003 records remain `needs-review` until the separate visual-verification cycle.
+Part 003 first-pass transcription is complete through Kural **145**, covering `இல்வாழ்க்கை` through the beginning of `பிறனில் விழையாமை`. All 21 Part 003 records remain `needs-review` until the separate visual-verification cycle.
 
-Next activity: finish first-pass transcription with **scans 56–62**, then begin the separate Part 003 verification cycle.
+Next activity: begin direct visual verification with **scans 42–48**.
 
 விரிவான நிலை: [`works/thirukkural/README.md`](works/thirukkural/README.md) மற்றும் [`works/thirukkural/indexes/page-map.md`](works/thirukkural/indexes/page-map.md).
