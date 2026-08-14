@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Alphabetical Glossary of Chapter Terms — 2"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -44,6 +44,6 @@ translation_basis: "verified Tamil archival transcription; controlling scan rema
 | Freedom from Anger | Not becoming angry |
 | Not Coveting | Not wishing to seize another's property |
 
-> Source-check note: this page preserves the source's own explanatory glosses rather than substituting conventional chapter definitions. `புல்லறிவாண்மை | சிற்றறிவுடைமை` is therefore represented as **Possession of Little Understanding | Possessing little understanding**; `நெஞ்சொடு புலத்தல் | மனத்தோடு ஊடுதல்` as **Sulking with the Heart | Sulking with one's mind**. The source itself glosses `பெண் வழிச் சேறல்` as **becoming obsessed with women**, `வரைவின் மகளிர்` as **Women for hire**, and `வழிபாடு` as **Following**; those glosses remain distinct from the project chapter titles and are not normalized away.
+> Editorial review note: this page preserves the source's own explanatory glosses rather than substituting conventional chapter definitions. `புல்லறிவாண்மை | சிற்றறிவுடைமை` remains **Possession of Little Understanding | Possessing little understanding**; `நெஞ்சொடு புலத்தல் | மனத்தோடு ஊடுதல்` remains **Sulking with the Heart | Sulking with one's mind**. The source itself glosses `பெண் வழிச் சேறல்` as **Becoming obsessed with women**, `வரைவின் மகளிர்` as **Women for hire**, and `வழிபாடு` as **Following**; these remain distinct from the project chapter titles.
 
 <!-- Source scan page: 31; Part 002 local page: 11; printed page: xxx -->
