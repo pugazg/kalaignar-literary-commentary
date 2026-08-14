@@ -12,56 +12,59 @@
 
 | Tamil part | Overall scans | Tamil state | English state |
 |---|---:|---|---|
-| Part 001 | 1–20 | archival-ready; scan 8 documented partial | **12 English records created: 11 drafts + 1 source-limited** |
+| Part 001 | 1–20 | archival-ready; scan 8 documented partial | **20/20 aligned English records created: 19 drafts + 1 source-limited** |
 | Part 002 | 21–41 | archival-ready | not started |
 | Part 003 | 42–62 | archival-ready | not started |
 
 ## Current English counts
 
-- English page files: **12**
-- `draft`: **11** — scans 1–7 and 9–12
+- English page files: **20**
+- `draft`: **19** — scans 1–7 and 9–20
 - `source-checked`: **0**
 - `editorial-reviewed`: **0**
 - `release-ready`: **0**
 - `source-limited`: **1** — scan 8 handwritten facsimile
 - `blocked`: **0**
 
-## Part 001 progress
+## Part 001 first-pass status — COMPLETE
 
-### Completed first-pass drafts — scans 1–7
+The one-to-one English first-pass layer now exists for every Part 001 scan.
 
-Matching English files exist for the cover, title page, blank-page record, publication details, edition details, contents, and Kalaignar's Preface.
+### Scans 1–7
 
-### Source-limited record — scan 8
+Cover, title page, blank-page record, publication details, edition details, contents, and Kalaignar's Preface are present as `draft` English records.
 
-`0008-handwritten-note.md` uses `status: "source-limited"` because the controlling Tamil archival record is itself `partial`. It translates only securely established elements and does not reconstruct the unreadable continuous handwriting.
+### Scan 8
 
-### Completed first-pass drafts — scans 9–12
+`0008-handwritten-note.md` remains `source-limited` because the controlling Tamil archival record is itself `partial`. Only securely established source elements are represented; the unreadable continuous handwriting is not reconstructed.
 
-Matching English files now exist for all four pages of `பேராசிரியரின் அணிந்துரை` / **The Professor's Foreword**:
+### Scans 9–12 — The Professor's Foreword
 
-- scan 9 / printed viii — `0009-aninthurai-01.md`;
-- scan 10 / printed ix — `0010-aninthurai-02.md`;
-- scan 11 / printed x — `0011-aninthurai-03.md`;
-- scan 12 / printed xi — `0012-aninthurai-04.md`.
+All four pages of `பேராசிரியரின் அணிந்துரை` / **The Professor's Foreword** by K. Anbazhagan are present as `draft` records. The poem-like line structure, quotations and emphasis are preserved.
 
-All four remain `draft`. The first pass preserves the poem-like line structure, source quotations and emphatic lines rather than converting the foreword into prose.
+Review-sensitive choices remain deliberately visible, including **Muppaal**, **Tiruvidam**, **oozh**, and the provisional rendering of `வாயுறை` as `counsel`.
 
-Source-sensitive translation choices recorded in this batch include:
+### Scans 13–20 — Critical Appreciation
 
-- `முப்பால்` retained as **Muppaal** pending part-level review;
-- source form `திருவிடம்` retained as **Tiruvidam** rather than silently replacing it with a different Tamil form;
-- `ஊழ்` retained as **oozh** in the foreword where the source explicitly discusses the term;
-- names and political/cultural honorifics such as Periyar, Anna and Anbazhagan retained in source-supported form.
+All eight remaining Part 001 pages are now present as `draft` records:
+
+- scans 13–14 — `தேவை` / **Need**;
+- scan 15 — `வழிபாடு` / **Worship**;
+- scans 16–17 — `பெண்வழிச் சேறல்` / **Following a Woman's Lead**;
+- scans 18–19 — `ஊழ்` / **Oozh**;
+- scans 19–20 — `பல்வகைச் சிறப்புகள்` / **Various Distinctive Merits**, including poetic/literary examples.
+
+Source Kural citations on scan 20 were translated afresh from the audited Tamil source and Kalaignar's adjacent explanation; no existing published English Kural translation was imported.
+
+Review-sensitive choices introduced in this batch include:
+
+- `பெண்வழிச் சேறல்` → **Following a Woman's Lead** provisionally;
+- `ஊழ்` retained as **Oozh**, with Nannan's source explanation rendered as **natural condition**;
+- `பிறிது மொழிதல்` retained as ***pirithu mozhithal*** with the gloss “saying one thing in order to convey another”;
+- the quoted phrase `அடுத்தூர்வது அஃதொப்பதில்` rendered provisionally as **“to meet what comes upon us in like measure”** for dedicated source-check review;
+- `பா நலம்`, `அணி நலம்`, `அடை நலம்` rendered provisionally as **Poetic Quality**, **Excellence of Poetic Figure**, and **Excellence of Epithets**.
 
 No English page has yet completed the separate source-check or editorial-review stages.
-
-### Remaining Part 001 first-pass work
-
-1. scans 13–20 — `மதிப்புரை` / Critical Appreciation and related literary-analysis front matter;
-2. source-check pass for all translatable Part 001 English pages;
-3. editorial consistency review and glossary reconciliation;
-4. `PART_001_RELEASE_REPORT.md`.
 
 ## Part 002 plan
 
@@ -86,17 +89,17 @@ For every newly supplied Tamil PDF after Part 003:
 
 **Tamil transcription → Tamil verification → Tamil audit → English draft → English source check → editorial review → translation release report.**
 
-Do not wait until all 1,330 Kurals are archived before translating newly audited parts.
-
 ## Next exact activity
 
-Create Part 001 English first-pass `draft` files for **scans 13–20**, covering `மதிப்புரை` and the literary-analysis front matter.
+Begin the separate **Part 001 English source-check cycle with scans 1–7**.
 
-Rules:
+For each page:
 
-- mirror Tamil filenames exactly under `translations/en/pages/`;
-- translate only the audited Tamil source content;
-- preserve headings, quotations, Kural citations, paragraph structure and source-supported emphasis;
-- keep all new files `draft` during first-pass creation;
-- add translation notes only where a source-specific form materially affects interpretation;
-- do not source-check or editorially promote the pages in the same activity.
+1. compare the English record line-by-line / paragraph-by-paragraph with its audited Tamil page;
+2. check for omissions, additions, meaning drift, heading errors and metadata mismatch;
+3. resolve only source-supported translation issues;
+4. retain project-translation identity;
+5. promote a page from `draft` to `source-checked` only after that comparison is complete;
+6. do not perform the later editorial-consistency promotion in the same activity.
+
+After scans 1–7 are source-checked, review scan 8's source-limited alignment separately, then continue source-checking scans 9–12 and 13–20.
