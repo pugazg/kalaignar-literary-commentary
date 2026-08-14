@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–003 audited / archival-ready for supplied material |
-| Thirukkural — Kalaignar's Commentary | English project translation | Part 001 **20/20 aligned; scans 1–7 source-checked; scan 8 source-limited alignment checked** |
+| Thirukkural — Kalaignar's Commentary | English project translation | Part 001 **20/20 aligned; 11 source-checked; scan 8 source-limited** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -47,14 +47,14 @@ Permanent cadence:
 Current Part 001 English status:
 
 - aligned English page files: **20 / 20**
-- `source-checked`: **7** — scans 1–7
+- `source-checked`: **11** — scans 1–7 and 9–12
 - `source-limited`: **1** — scan 8; alignment check complete
-- `draft`: **12** — scans 9–20
+- `draft`: **8** — scans 13–20
 - `editorial-reviewed`: **0**
 - `release-ready`: **0**
 
-The scan 8 English record has been checked against the partial Tamil archival record. Its securely established title, decorative divider, signature presence, date **27/12/2007**, bleed-through description and omission of unreadable handwriting all align. It remains `source-limited`; no reconstruction was added.
+The Professor's Foreword on scans **9–12** has completed source-check. Review-sensitive forms such as **Muppaal**, **Tiruvidam**, **oozh**, and provisional **counsel** for `வாயுறை` remain explicitly visible for later editorial review rather than being normalized silently.
 
-Next English activity: source-check scans **9–12**, covering **The Professor's Foreword**.
+Next English activity: source-check scans **13–20**, covering Professor Ma. Nannan's **Critical Appreciation**.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md) and [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md).
