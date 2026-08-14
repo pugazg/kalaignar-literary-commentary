@@ -8,7 +8,7 @@
 |---|---|---:|---:|---|
 | 001 | `திருக்குறள்_கலைஞர்_உரை_part_001_pages_1-20.pdf` | 20 | 1–20 | audited / archival-ready; scan 8 documented partial |
 | 002 | `திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf` | 21 | 21–41 | audited / **ARCHIVAL-READY** |
-| 003 | `திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf` | 21 | 42–62 | **14/21 records created; scans 42–55 needs-review** |
+| 003 | `திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf` | 21 | 42–62 | **21/21 first-pass records created; all needs-review** |
 
 Part 003 local page 1 visibly carries printed page **9**, directly after Part 002 scan 41 / printed page **8**. The supplied Part 003 scan continues without a gap through printed page **29**.
 
@@ -39,13 +39,13 @@ Parts 002–003 contain no new edition statement; publication metadata-க்க
 - Audit: [`AUDIT_PART_002.md`](AUDIT_PART_002.md)
 - Release decision: **ARCHIVAL-READY**
 
-## Part 003 — current state
+## Part 003 — first pass complete
 
 Part 003 contains **21 pages**, overall scans **42–62**, printed pages **9–29**, covering Kural **41–145**.
 
-- page records: **14 / 21**
-- `needs-review`: **14** — scans 42–55
-- `not-started`: **7** — scans 56–62
+- page records: **21 / 21**
+- `needs-review`: **21** — scans 42–62
+- `not-started`: **0**
 - `verified`: **0**
 
 ### Structure
@@ -59,16 +59,16 @@ Part 003 contains **21 pages**, overall scans **42–62**, printed pages **9–2
 | 50–51 | `9. விருந்தோம்பல்` — குறள் 81–90 + உரை | first-pass complete; needs-review |
 | 52–53 | `10. இனியவை கூறல்` — குறள் 91–100 + உரை | first-pass complete; needs-review |
 | 54–55 | `11. செய்ந்நன்றியறிதல்` — குறள் 101–110 + உரை | first-pass complete; needs-review |
-| 56–57 | `12. நடுவு நிலைமை` — குறள் 111–120 | not-started |
-| 58–59 | `13. அடக்கம் உடைமை` — குறள் 121–130 | not-started |
-| 60–61 | `14. ஒழுக்கம் உடைமை` — குறள் 131–140 | not-started |
-| 62 | `15. பிறனில் விழையாமை` — குறள் 141–145 | not-started |
+| 56–57 | `12. நடுவு நிலைமை` — குறள் 111–120 + உரை | first-pass complete; needs-review |
+| 58–59 | `13. அடக்கம் உடைமை` — குறள் 121–130 + உரை | first-pass complete; needs-review |
+| 60–61 | `14. ஒழுக்கம் உடைமை` — குறள் 131–140 + உரை | first-pass complete; needs-review |
+| 62 | `15. பிறனில் விழையாமை` — குறள் 141–145 + உரை | first-pass complete; needs-review |
 
-The second Part 003 first-pass batch added scans 49–55, covering the completion of `அன்புடைமை`, all of `விருந்தோம்பல்`, all of `இனியவை கூறல்`, and all of `செய்ந்நன்றியறிதல்`.
+The final first-pass batch added scans 56–62, covering all of `நடுவு நிலைமை`, `அடக்கம் உடைமை`, `ஒழுக்கம் உடைமை`, and the opening five Kurals of `பிறனில் விழையாமை`.
 
 ## Part 003 first-pass rule
 
-Every newly created Part 003 record uses:
+Every Part 003 record uses:
 
 - `status: "needs-review"`
 - `transcription_method: "first-pass direct visual transcription from source scan; source scan remains authoritative"`
@@ -76,7 +76,7 @@ Every newly created Part 003 record uses:
 - explicit `part_page`
 - overall scan / Part 003 local page / printed-page source marker
 
-No Part 003 page will be promoted to `verified` until a separate source-comparison pass.
+No Part 003 page will be promoted to `verified` until the separate source-comparison pass.
 
 ## Source-first rule
 
@@ -86,13 +86,6 @@ No Part 003 page will be promoted to `verified` until a separate source-comparis
 
 ## அடுத்த செயல்
 
-Finish the Part 003 first pass with **scans 56–62**:
-
-1. scans 56–57 — `நடுவு நிலைமை`, குறள் 111–120;
-2. scans 58–59 — `அடக்கம் உடைமை`, குறள் 121–130;
-3. scans 60–61 — `ஒழுக்கம் உடைமை`, குறள் 131–140;
-4. scan 62 — `பிறனில் விழையாமை`, குறள் 141–145.
-
-After all scans 42–62 have first-pass records, run a separate Part 003 visual-verification cycle and then `AUDIT_PART_003.md`.
+Begin the separate Part 003 direct visual-verification cycle with **scans 42–48**. Compare each page record character-by-character against the source scan, correct only source-supported differences, and promote a page to `verified` only after that comparison is complete.
 
 விரிவான page-level நிலை: [`indexes/page-map.md`](indexes/page-map.md).
