@@ -24,9 +24,31 @@
 - Local PDF pages: **21**
 - Overall scan range: **21–41**
 - Continuity: Part 002 local page 1 is overall scan 21 and carries printed page **xx**, directly following Part 001 scan 20 / printed page **xix**.
-- This establishes that the two supplied files are consecutive segments of the same scanned edition.
 - Final status: **21/21 verified; ARCHIVAL-READY**.
 - Audit: `works/thirukkural/AUDIT_PART_002.md`
+
+### Part 003
+
+- Source filename: `திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf`
+- Local PDF pages: **21**
+- Overall scan range: **42–62**
+- Continuity: Part 003 local page 1 / overall scan 42 visibly carries printed page **9**, directly following Part 002 scan 41 / printed page **8**.
+- Printed-page range in this supplied part: **9–29**, continuous.
+- Content range: Kural **41–145** with Kalaignar's commentary.
+- Chapter range visible in this part:
+  - `5. இல்வாழ்க்கை` — Kural 41–50;
+  - `6. வாழ்க்கைத் துணைநலம்` — 51–60;
+  - `7. மக்கட்பேறு` — 61–70;
+  - `8. அன்புடைமை` — 71–80;
+  - `9. விருந்தோம்பல்` — 81–90;
+  - `10. இனியவை கூறல்` — 91–100;
+  - `11. செய்ந்நன்றியறிதல்` — 101–110;
+  - `12. நடுவு நிலைமை` — 111–120;
+  - `13. அடக்கம் உடைமை` — 121–130;
+  - `14. ஒழுக்கம் உடைமை` — 131–140;
+  - `15. பிறனில் விழையாமை` begins with Kural 141–145 on printed page 29.
+- Current processing state: scans **42–48** have first-pass page records; scans **49–62** are not started.
+- All new Part 003 records remain `needs-review` until a separate direct visual-verification pass.
 
 ## Publication details visible in Part 001
 
@@ -59,40 +81,36 @@ The contents page in Part 001 lists:
 10. இன்பத்துப்பால் — 219
 11. குறள் முதற்குறிப்பு அகரவரிசை — 271
 
-Part 002 confirms the continuation of this structure:
+Part 002 confirms the end of the front matter and the start of `அறம்`; Part 003 continues the same main body without a pagination break.
 
-- overall scans 21–26: remaining pages of பேராசிரியர் மா. நன்னன்'s `மதிப்புரை`, printed pages xx–xxv;
-- overall scan 27: `பதிப்புரை`, signed `பூம்புகார் பதிப்பகத்தார்`; the page numeral is not visibly printed, but `xxvi` is supported by the contents page and the surrounding xxv → xxvii sequence;
-- overall scans 28–29: `திருக்குறள் அதிகார அகர வரிசை`, printed pages xxvii–xxviii;
-- overall scans 30–31: `அதிகார அருஞ்சொற்பொருள் அகரவரிசை`, printed pages xxix–xxx;
-- overall scan 32: section-title page `திருக்குறள் / கலைஞர் உரை / அறம்`; `xxxi` is supported by the contents entry `அறத்துப்பால் — xxxi` and the surrounding sequence, although the numeral is not visibly printed on the title page;
-- overall scan 33: visually blank verso with reverse-side bleed-through;
-- overall scan 34: printed book page **1**, beginning `அறம் - பாயிரம் - வழிபாடு` and `1. வழிபாடு`;
-- overall scans 34–41: printed book pages **1–8**, covering குறள் 1–40 through `4. அறன் வலியுறுத்தல்`.
+## Audited states
 
-## Part 002 audit state
+### Part 001
 
-The repository-tree and page-map audit confirms:
+- one record for each overall scan 1–20;
+- 19 verified;
+- scan 8 reviewed but retained as a documented partial handwritten facsimile;
+- release decision: **ARCHIVAL-READY WITH ONE DOCUMENTED PARTIAL FACSIMILE**.
 
-- one page record for every overall scan **21–41**;
-- local Part 002 pages **1–21** with no gap;
-- all **21/21** page records verified;
-- `needs-review`: **0**;
+### Part 002
+
+- one record for each overall scan 21–41;
+- all 21 records verified;
 - no unresolved Part 002 page;
-- scan 27 (`xxvi`) and scan 32 (`xxxi`) remain explicitly documented as same-source pagination inferences, not visible numerals;
-- scan 33 remains a verified blank/bleed-through-only page.
+- release decision: **ARCHIVAL-READY**.
 
 ## Source condition / observations
 
 - Part 001 scan 3 is visually blank.
 - Part 001 scan 8 is a handwritten facsimile with signature and date **27/12/2007**; uncertain handwriting must not be guessed.
 - Part 002 scan 33 is visually blank apart from reverse-side bleed-through.
-- Reverse-side bleed-through is visible on many front-matter and body pages. It is not current-page text and must not be transcribed as such.
-- Part 002 contains no new edition statement; Part 001 remains the source for publication metadata.
-- The currently supplied material reaches overall scan **41** / printed book page **8**. This still does **not** establish the total scan-page count of the full book.
+- Reverse-side bleed-through is visible on many pages and is not current-page text.
+- Part 003 consists of continuous printed main-body pages 9–29. Its first page begins Kural 41, which confirms direct continuity after Part 002's Kural 40 / printed page 8.
+- Part 003 contains no new edition statement; Part 001 remains the source for publication metadata.
+- The currently supplied material reaches overall scan **62** / printed book page **29**. This still does **not** establish the total scan-page count of the full book.
 
 ## Authority rule
 
 The supplied scans are the controlling sources for this edition. No external Thirukkural text, later edition, web transcription, remembered Kural wording, or modernized Tamil may silently replace what is printed here.
 
-When a printed page number is not visibly present but can be established from another page of the same source (for example the contents page plus an unbroken pagination sequence), that basis must be recorded explicitly rather than presented as visible page text.
+New page records remain `needs-review` until they have been independently compared against the exact source scan in a later verification pass.
