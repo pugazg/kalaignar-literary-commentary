@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Prefatory Chapters — Worship"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -26,7 +26,7 @@ However much a person may have learned, what use is it if that person lacks the 
 **3. Those who follow the honoured feet of one who abides in a flower-like heart  
 will live long upon the earth.**
 
-The life of fame of those who follow one who fills a flower-like heart will endure for a long time in the world.
+The life of fame of those who follow one who abides in a flower-like heart will endure for a long time in the world.
 
 **4. For those who follow the feet of one free from desire and aversion,  
 there will be no suffering at any time.**
@@ -34,10 +34,10 @@ there will be no suffering at any time.**
 Those who follow and live by the way of one who stands without desire or hatred and without selfishness will never encounter suffering.
 
 **5. The twin deeds joined with darkness will not cling  
-to those who seek praise grounded in the meaning of the foremost one.**
+to those who seek praise grounded in the meaning of `iraivan`.**
 
-Those who understand the meaning appropriate to the term `iraivan` and wish to gain praise will face good and evil in equal measure.
+Those who understand the meaning of the word `iraivan` and wish to gain praise will face good and evil in equal measure.
 
-> Draft translation note: the Kural uses `இறைவன்`, while Kalaignar's commentary directs attention to the meaning carried by that term rather than supplying a theological expansion. This first-pass English therefore avoids importing an external doctrinal equivalent; the wording should be reviewed during Part 002 source-check.
+> Source-check note: `ஆதி பகவன்` is retained as **Aadhi Bhagavan** because Kalaignar's own commentary uses the expression directly. In Kural 5, `இறைவன்` is retained as `iraivan` in the verse because Kalaignar explicitly directs the reader to understand the meaning of that word rather than supplying a doctrinal equivalent. No conventional theological English title has been imported.
 
 <!-- Source scan page: 34; Part 002 local page: 14; printed page: 1 -->
