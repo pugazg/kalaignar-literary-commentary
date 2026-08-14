@@ -6,10 +6,10 @@ printed_page: "4"
 work: "thirukkural"
 section: "அறம் — பாயிரம் — வான் சிறப்பு தொடர்ச்சி"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf"
-transcription_method: "first-pass direct visual transcription from source scan; source scan remains authoritative"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **16. விசும்பின் துளிவீழின் அல்லால்மற் றாங்கே  
@@ -35,6 +35,6 @@ transcription_method: "first-pass direct visual transcription from source scan; 
 **20. நீரின் றமையா துலகெனின் யார்யார்க்கும்  
 வானின் றமையா தொழுக்கு.**
 
-உலகில் மழையே இல்லையென்றால் ஒழுக்கமே கெட்டகடும் என்ற நிலை இருப்பதால், நீரின் இன்றியமையாமையை உணர்ந்து செயல்பட வேண்டும்.
+உலகில் மழையே இல்லையென்றால் ஒழுக்கமே கெட்டுக்கூடும் என்ற நிலை இருப்பதால், நீரின் இன்றியமையாமையை உணர்ந்து செயல்பட வேண்டும்.
 
 <!-- மூல ஸ்கேன் பக்கம்: 37; Part 002 உள்ளூர் பக்கம்: 17; அச்சுப் பக்கம்: 4 -->
