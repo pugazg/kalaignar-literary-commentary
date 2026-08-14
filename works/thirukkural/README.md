@@ -8,7 +8,7 @@
 |---|---|---:|---:|---|
 | 001 | `திருக்குறள்_கலைஞர்_உரை_part_001_pages_1-20.pdf` | 20 | 1–20 | audited / archival-ready; scan 8 documented partial |
 | 002 | `திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf` | 21 | 21–41 | audited / **ARCHIVAL-READY** |
-| 003 | `திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf` | 21 | 42–62 | **21/21 records created; 14 verified, 7 needs-review** |
+| 003 | `திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf` | 21 | 42–62 | **21/21 verified; audit pending** |
 
 Part 003 local page 1 visibly carries printed page **9**, directly after Part 002 scan 41 / printed page **8**. The supplied Part 003 scan continues without a gap through printed page **29**.
 
@@ -39,14 +39,15 @@ Parts 002–003 contain no new edition statement; publication metadata-க்க
 - Audit: [`AUDIT_PART_002.md`](AUDIT_PART_002.md)
 - Release decision: **ARCHIVAL-READY**
 
-## Part 003 — verification in progress
+## Part 003 — visual verification complete
 
 Part 003 contains **21 pages**, overall scans **42–62**, printed pages **9–29**, covering Kural **41–145**.
 
 - page records: **21 / 21**
-- `verified`: **14** — scans 42–55
-- `needs-review`: **7** — scans 56–62
+- `verified`: **21 / 21** — scans 42–62
+- `needs-review`: **0**
 - `not-started`: **0**
+- audit: pending
 
 ### Structure
 
@@ -59,10 +60,10 @@ Part 003 contains **21 pages**, overall scans **42–62**, printed pages **9–2
 | 50–51 | `9. விருந்தோம்பல்` — குறள் 81–90 + உரை | **verified** |
 | 52–53 | `10. இனியவை கூறல்` — குறள் 91–100 + உரை | **verified** |
 | 54–55 | `11. செய்ந்நன்றியறிதல்` — குறள் 101–110 + உரை | **verified** |
-| 56–57 | `12. நடுவு நிலைமை` — குறள் 111–120 + உரை | needs-review |
-| 58–59 | `13. அடக்கம் உடைமை` — குறள் 121–130 + உரை | needs-review |
-| 60–61 | `14. ஒழுக்கம் உடைமை` — குறள் 131–140 + உரை | needs-review |
-| 62 | `15. பிறனில் விழையாமை` — குறள் 141–145 + உரை | needs-review |
+| 56–57 | `12. நடுவு நிலைமை` — குறள் 111–120 + உரை | **verified** |
+| 58–59 | `13. அடக்கம் உடைமை` — குறள் 121–130 + உரை | **verified** |
+| 60–61 | `14. ஒழுக்கம் உடைமை` — குறள் 131–140 + உரை | **verified** |
+| 62 | `15. பிறனில் விழையாமை` — குறள் 141–145 + உரை | **verified** |
 
 ### Verification completed — scans 42–48
 
@@ -72,12 +73,16 @@ Direct visual comparison against Part 003 local pages 1–7 is complete for Kura
 
 Direct visual comparison against Part 003 local pages 8–14 is complete for Kural **76–110** and Kalaignar's commentary. All seven first-pass records again matched the source scan, so no transcription correction was required.
 
+### Verification completed — scans 56–62
+
+Direct visual comparison against Part 003 local pages 15–21 is complete for Kural **111–145** and Kalaignar's commentary, covering `நடுவு நிலைமை`, `அடக்கம் உடைமை`, `ஒழுக்கம் உடைமை`, and the opening of `பிறனில் விழையாமை`.
+
+All seven first-pass records matched the exact source scan. **No transcription correction was required in this final verification batch.** Source-specific Kural spelling, joins, spacing, punctuation, line breaks and commentary wording were retained rather than normalized.
+
 Verified records use:
 
 - `status: "verified"`
 - `transcription_method: "direct visual comparison with source scan"`
-
-Source-specific Kural forms, spacing, punctuation, line breaks and commentary wording remain scan-controlled rather than normalized.
 
 ## Source-first rule
 
@@ -87,13 +92,12 @@ Source-specific Kural forms, spacing, punctuation, line breaks and commentary wo
 
 ## அடுத்த செயல்
 
-Finish the Part 003 direct visual-verification cycle with **scans 56–62**:
+Run the **Part 003 release/audit pass**:
 
-1. scans 56–57 — `நடுவு நிலைமை`, குறள் 111–120;
-2. scans 58–59 — `அடக்கம் உடைமை`, குறள் 121–130;
-3. scans 60–61 — `ஒழுக்கம் உடைமை`, குறள் 131–140;
-4. scan 62 — `பிறனில் விழையாமை`, குறள் 141–145.
-
-After all seven are verified, create `AUDIT_PART_003.md` and make the Part 003 release decision.
+1. confirm exactly one page record for each overall scan **42–62**;
+2. confirm local-page continuity **1–21** and printed-page continuity **9–29**;
+3. confirm all 21 records are `verified` and use the direct visual-comparison method;
+4. confirm Kural continuity **41–145** and chapter boundaries;
+5. create `AUDIT_PART_003.md` and record the formal Part 003 release decision.
 
 விரிவான page-level நிலை: [`indexes/page-map.md`](indexes/page-map.md).
