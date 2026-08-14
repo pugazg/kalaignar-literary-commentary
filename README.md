@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–003 audited / archival-ready for supplied material |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–002 released; Part 003 **7/21 first-pass drafts complete** |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–002 released; Part 003 **14/21 first-pass drafts complete** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -52,12 +52,15 @@ Review/release artefacts:
 
 ### Part 003 English — FIRST PASS IN PROGRESS
 
-- English pages: **7 / 21** — scans 42–48
-- `draft`: **7**
-- current English coverage: Kural **41–75**
+- English pages: **14 / 21** — scans 42–55
+- `draft`: **14**
+- current English coverage: Kural **41–110**
+- remaining first-pass pages: **7** — scans 56–62
 
-The completed first-pass batch covers **Domestic Life**, **The Worth of a Life Partner**, **The Blessing of Children**, and the first half of **Love**. Kalaignar's commentary remains the primary interpretive aid; no published English Kural wording or outside commentary is imported.
+The completed Part 003 drafts currently cover **Domestic Life**, **The Worth of a Life Partner**, **The Blessing of Children**, **Love**, **Hospitality**, **Speaking Pleasant Words**, and **Gratitude for Help Received**. Kalaignar's commentary remains the primary interpretive aid; no published English Kural wording or outside commentary is imported.
 
-Next English activity: continue **Part 003 first-pass translation with scans 49–55**, covering Kural **76–110**: completion of **Love**, **Hospitality**, **Speaking Pleasant Words**, and **Gratitude for Help Received**. Keep all new pages as `draft`; source-check begins only after the full Part 003 first pass is complete.
+Source-sensitive draft choices remain visible for later checking—for example Kural 86's **heaven of fame**, Kural 87's hospitality-as-**sacrifice**, Kural 101's unbidden-help reading, and Kural 107's explanation that seven-times-seven generations/births signifies remembrance without a time limit. Repeated Kurals **83, 94 and 98** retain their already released Part 002 wording.
+
+Next English activity: complete **Part 003 first-pass translation with scans 56–62**, covering Kural **111–145**: **Impartiality**, **Self-Control**, **Good Conduct**, and the supplied beginning of **Not Desiring Another Man's Wife**. Keep all remaining pages as `draft`; source-check begins only after the full Part 003 first pass reaches **21/21**.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md) and [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md).
