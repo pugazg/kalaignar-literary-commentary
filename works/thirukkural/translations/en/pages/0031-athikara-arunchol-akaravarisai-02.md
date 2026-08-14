@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Alphabetical Glossary of Chapter Terms — 2"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -16,7 +16,7 @@ translation_basis: "verified Tamil archival transcription; controlling scan rema
 | Loss of Restraint | Mental self-control being disturbed |
 | The Greatness of Renunciants | The greatness of renunciation |
 | Speaking with the Heart | Speaking with one's mind |
-| Quarrelling with the Heart | Sulking with one's mind |
+| Sulking with the Heart | Sulking with one's mind |
 | Suffering from Pallor | The sorrow of pallor |
 | Languishing in Longing | The sorrow of remembrance |
 | Martial Pride | Military skill / the strength of the army |
@@ -26,7 +26,7 @@ translation_basis: "verified Tamil archival transcription; controlling scan rema
 | Longing for Union | The longing to unite |
 | Lovers' Quarrel | A quarrel between lovers |
 | Nuances of Lovers' Quarrel | The subtleties of the quarrel |
-| Petty-Minded Ignorance | Possessing little understanding |
+| Possession of Little Understanding | Possessing little understanding |
 | Following a Woman's Lead | Becoming obsessed with women |
 | Foolishness | Knowing nothing |
 | Not Forgetting | Not forgetting |
@@ -44,6 +44,6 @@ translation_basis: "verified Tamil archival transcription; controlling scan rema
 | Freedom from Anger | Not becoming angry |
 | Not Coveting | Not wishing to seize another's property |
 
-> Draft terminology note: the source itself glosses `பெண் வழிச் சேறல்` as `பெண் பித்தராதல்`; this is translated here as **becoming obsessed with women** while the already reviewed chapter title **Following a Woman's Lead** is retained. Likewise, `வரைவின் மகளிர்` is provisionally **Women Beyond Bounds**, while the source gloss is translated directly as **Women for hire**. Both title-level renderings remain review-sensitive for Part 002.
+> Source-check note: this page preserves the source's own explanatory glosses rather than substituting conventional chapter definitions. `புல்லறிவாண்மை | சிற்றறிவுடைமை` is therefore represented as **Possession of Little Understanding | Possessing little understanding**; `நெஞ்சொடு புலத்தல் | மனத்தோடு ஊடுதல்` as **Sulking with the Heart | Sulking with one's mind**. The source itself glosses `பெண் வழிச் சேறல்` as **becoming obsessed with women**, `வரைவின் மகளிர்` as **Women for hire**, and `வழிபாடு` as **Following**; those glosses remain distinct from the project chapter titles and are not normalized away.
 
 <!-- Source scan page: 31; Part 002 local page: 11; printed page: xxx -->
