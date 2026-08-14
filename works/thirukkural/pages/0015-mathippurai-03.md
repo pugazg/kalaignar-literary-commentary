@@ -4,10 +4,10 @@ printed_page: "xiv"
 work: "thirukkural"
 section: "மதிப்புரை — வழிபாடு"
 page_type: "review"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_001_pages_1-20.pdf"
-transcription_method: "first-pass visual transcription with OCR assistance; source scan remains authoritative"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 வள்ளுவர் ஈடற்ற முறை ஒன்றைப் பின்பற்றி அறம் உரைத்தாராயினும், மக்கள் அறிவுநிலை வேறுபாட்டால் அதை உணரும் திறம் அற்றவர்கள் ஆயினர் என்பதை விட ஆக்கப்பட்டனர் என்றுரைப்பதே சரி. அதனாற்றான் குறளுக்கு முதலில் தோன்றிய பத்து உரைகளோடு இன்று வரை எத்தனையோ உரைகள் வந்துள்ளன. அவற்றுள் இக்காலத் தேவையைச் சரியாக ஈடு செய்யவல்லதாய் எழுந்ததே கலைஞர் உரை என்னும் தெரியுரையாகும்.
