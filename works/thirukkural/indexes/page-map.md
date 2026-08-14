@@ -1,4 +1,6 @@
-# பக்க வரைபடம் — part 001
+# பக்க வரைபடம் — திருக்குறள்
+
+## Part 001
 
 Source: `திருக்குறள்_கலைஞர்_உரை_part_001_pages_1-20.pdf`
 
@@ -25,51 +27,71 @@ Source: `திருக்குறள்_கலைஞர்_உரை_part_001
 | 19 | xviii | மதிப்புரை — ஊழ் / பல்வகைச் சிறப்புகள் | verified | `pages/0019-mathippurai-07.md` |
 | 20 | xix | `அ. பா நலம்` / `ஆ. அணி நலம்` / `இ. அடை நலம்` | verified | `pages/0020-mathippurai-paa-nalam.md` |
 
-## கணக்கு
+Part 001 status:
 
-- Source scan pages: **20**
-- Page records created: **20 / 20**
-- `verified`: **19** (all printed/blank pages except scan 8 facsimile)
+- page records: **20 / 20**
+- `verified`: **19**
+- `partial`: **1** — scan 8 handwritten facsimile
 - `needs-review`: **0**
-- `partial`: **1** (scan 8 handwritten facsimile)
-- Remaining uncreated page records in this source part: **0**
+- audit: [`../AUDIT_PART_001.md`](../AUDIT_PART_001.md)
+- release decision: **ARCHIVAL-READY WITH ONE DOCUMENTED PARTIAL FACSIMILE**
 
-## சரிபார்ப்பு முன்னேற்றம்
+---
 
-- scan 7 (`முகவுரை`) — direct visual comparison complete; `verified`.
-- During scan 7 verification, first-pass readings including `ஐம்பது நான்கு` and `பொருளையொன்னியில்` were corrected to the forms visibly printed in the scan: `ஐம்பத்து நான்கு` and `பொருளையன்றி`.
-- scan 8 — 300-DPI high-resolution visual review complete. The handwritten heading is confidently read as `முகவுரையின் ஒரு முன்னுரை!`; the signature and date `27/12/2007` are clear. The continuous handwritten body remains insufficiently legible for a source-faithful transcription, so the page correctly remains `partial` rather than being guessed.
-- scans 9–12 (`பேராசிரியரின் அணிந்துரை`) — direct character-by-character visual comparison complete; all four pages are `verified` and preserve the printed poetic line breaks.
-- scan 9 first-pass `செல்வமீனும்` was corrected from the exact scan to **`செல்வமினும்`**. Source-supported forms including `மநுவாதிக்கு`, `உற்றிடுமியற்கைச்`, `‘தொழல்’`, and `வான்றோய் முகில்பொழி தூநீர் அனையதாய்` were retained after visual rereading rather than normalized.
-- scans 10–12 required no source-supported wording corrections during the final comparison; their first-pass text was confirmed and their status/transcription method were upgraded to `verified`.
-- scans 13–16 (`மதிப்புரை`) — direct visual comparison complete; all four pages are `verified`. Their first-pass wording matched the exact scan, so no textual correction was required.
-- Source-sensitive forms on scans 13–16 were explicitly confirmed from the scan and retained: scan 13 `அய்ந்து`, `ஈகையறம்`, `ஒழுகலாறு`; scan 14 `மன்பதையைச்`; scan 15 `அவைகளை யெல்லாம்` and `உறுதிப்படுத்தப் படாமையால்`; scan 16 `அக் கருத்துக்காட்பட்ட`.
-- scans **17–20** — final printed-page verification complete; all four pages are `verified`.
-- scans 17, 18 and 20 matched the first-pass wording during direct visual comparison.
-- scan 18 source-sensitive forms `முன்னவை யிரண்டையும்விட` and `இயற்கையின் அமைதி` were confirmed and retained.
-- scan 19 had one source-supported punctuation/transcription correction: the quotation is **`“ஒருவர் தமக்கு உரிமையல்லாதவற்றை முயன்று பாதுகாத்தாலும் தங்காமல் போய் விடவும் கூடும்”`**; the first pass had closed the quotation before `கூடும்`. The separate quoted form `அடுத்தூர்வது அஃதொப்பதில்` was visually confirmed and retained.
-- scan 20 printed Kural wording, including `அசையியற்கு உண்டாண்டோர் ஏஎர்யான் நோக்கப் / பசையினள் பைய நகும்`, was verified directly from this scan and retained without substitution from another edition.
+## Part 002
 
-## Part 001 audit
+Source: `திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf`
 
-Release / audit pass completed on **2026-08-14**.
+The attachment contains **21 local PDF pages** and directly continues the book after Part 001. Local PDF page 1 is overall scan **21**, carrying printed page **xx**, immediately after Part 001 scan 20 / printed page xix.
 
-Audit report: [`../AUDIT_PART_001.md`](../AUDIT_PART_001.md)
+| Overall scan | Part 002 local page | Printed page | Page type / section | Status | File |
+|---:|---:|:---:|---|---|---|
+| 21 | 1 | xx | மதிப்புரை — பல்வகைச் சிறப்புகள் தொடர்ச்சி | needs-review | `pages/0021-mathippurai-08.md` |
+| 22 | 2 | xxi | மதிப்புரை — தெளிவு / சுருக்க விளக்கம் / புதுப்பொருள் | needs-review | `pages/0022-mathippurai-09.md` |
+| 23 | 3 | xxii | மதிப்புரை — புதுப்பொருள் தொடர்ச்சி | needs-review | `pages/0023-mathippurai-10.md` |
+| 24 | 4 | xxiii | `அய். புத்தம்புது விளக்கம்` / `ஒ. நுண்மாண் நுழைபுலம்` | needs-review | `pages/0024-mathippurai-11.md` |
+| 25 | 5 | xxiv | மதிப்புரை — நுண்மாண் நுழைபுலம் / `6. நன்றி` | needs-review | `pages/0025-mathippurai-12.md` |
+| 26 | 6 | xxv | மதிப்புரை — `நன்றி` தொடர்ச்சி | needs-review | `pages/0026-mathippurai-13.md` |
+| 27 | 7 | xxvi* | பதிப்புரை — பூம்புகார் பதிப்பகத்தார் | needs-review | `pages/0027-pathippurai.md` |
+| 28 | 8 | xxvii | திருக்குறள் அதிகார அகர வரிசை — 1 | not-started | `pages/0028-athikara-akara-varisai-01.md` |
+| 29 | 9 | xxviii | திருக்குறள் அதிகார அகர வரிசை — 2 | not-started | `pages/0029-athikara-akara-varisai-02.md` |
+| 30 | 10 | xxix | அதிகார அருஞ்சொற்பொருள் அகரவரிசை — 1 | not-started | `pages/0030-athikara-arunchol-akaravarisai-01.md` |
+| 31 | 11 | xxx | அதிகார அருஞ்சொற்பொருள் அகரவரிசை — 2 | not-started | `pages/0031-athikara-arunchol-akaravarisai-02.md` |
+| 32 | 12 | xxxi* | `திருக்குறள் / கலைஞர் உரை / அறம்` section title | not-started | `pages/0032-aram-title.md` |
+| 33 | 13 | — | blank / reverse-side bleed-through | not-started | `pages/0033-blank.md` |
+| 34 | 14 | 1 | அறம் — பாயிரம் — `1. வழிபாடு` — குறள் 1–5 | not-started | `pages/0034-aram-vazhipadu-01.md` |
+| 35 | 15 | 2 | `1. வழிபாடு` — குறள் 6–10 | not-started | `pages/0035-aram-vazhipadu-02.md` |
+| 36 | 16 | 3 | `2. வான் சிறப்பு` — குறள் 11–15 | not-started | `pages/0036-aram-vaan-sirappu-01.md` |
+| 37 | 17 | 4 | `2. வான் சிறப்பு` — குறள் 16–20 | not-started | `pages/0037-aram-vaan-sirappu-02.md` |
+| 38 | 18 | 5 | `3. நீத்தார் பெருமை` — குறள் 21–25 | not-started | `pages/0038-aram-neeththar-perumai-01.md` |
+| 39 | 19 | 6 | `3. நீத்தார் பெருமை` — குறள் 26–30 | not-started | `pages/0039-aram-neeththar-perumai-02.md` |
+| 40 | 20 | 7 | `4. அறன் வலியுறுத்தல்` — குறள் 31–35 | not-started | `pages/0040-aram-aran-valiyuruththal-01.md` |
+| 41 | 21 | 8 | `4. அறன் வலியுறுத்தல்` — குறள் 36–40 | not-started | `pages/0041-aram-aran-valiyuruththal-02.md` |
 
-Result: **ARCHIVAL-READY WITH ONE DOCUMENTED PARTIAL FACSIMILE**.
+`*` Printed numeral is not visibly printed on that scan. `xxvi` is supported by the Part 001 contents page plus the surrounding `xxv` → `xxvii` sequence; `xxxi` is supported by the contents entry `அறத்துப்பால் — xxxi` and the surrounding front-matter sequence. These are recorded as source-supported pagination facts, not silently invented visible text.
 
-Audit confirmed:
+### Part 002 current status
 
-- exactly one page record for every scan 1–20;
-- no missing or duplicate scan number;
-- printed-page continuity `vi`–`xix` for scans 7–20;
-- source metadata and front-matter details consistent with the supplied scan;
-- source-page markers present;
-- verified pages use the standard direct-visual-comparison transcription method;
-- scan 8 is reviewed but intentionally `partial`, not unprocessed;
-- reverse-side bleed-through is not treated as current-page text.
+- source pages in attachment: **21**
+- overall scan range: **21–41**
+- page records created so far: **7 / 21** — scans 21–27
+- `needs-review`: **7**
+- `not-started`: **14** — scans 28–41
+- `verified`: **0** in Part 002 so far
+
+### Part 002 source observations
+
+- The batch begins on printed page `xx`, so the transition from Part 001 (`xix`) is continuous.
+- Scans 21–26 complete பேராசிரியர் மா. நன்னன்'s `மதிப்புரை`; scan 27 is `பதிப்புரை` signed `பூம்புகார் பதிப்பகத்தார்`.
+- Scans 28–29 are `திருக்குறள் அதிகார அகர வரிசை`.
+- Scans 30–31 are `அதிகார அருஞ்சொற்பொருள் அகரவரிசை`.
+- Scan 32 is the section-title page `திருக்குறள் / கலைஞர் உரை / அறம்`; scan 33 is visually blank apart from reverse-side bleed-through.
+- Scan 34 begins numbered book page **1**, `அறம் - பாயிரம் - வழிபாடு`.
+- Reverse-side bleed-through is visible throughout several pages and must not be transcribed as current-page text.
 
 ## அடுத்த செயல்
 
-1. Wait for the **next Thirukkural source PDF batch** and continue after Part 001 without changing or duplicating existing page records; or
-2. if a clearer scan 8 facsimile becomes available, reopen only `pages/0008-handwritten-note.md` and add only source-supported readings.
+1. Process scans **28–33**: the two அதிகார அகர வரிசை pages, the two அதிகார அருஞ்சொற்பொருள் அகரவரிசை pages, the `அறம்` title page, and the blank verso.
+2. Keep these first-pass records as `needs-review` (blank may be verified only after an explicit final visual pass).
+3. Then begin the main commentary body at scans **34–41**, preserving every printed Kural and Kalaignar commentary exactly as this scan prints them.
+4. After all Part 002 page records exist, run the same visual-verification and release/audit cycle used for Part 001.
