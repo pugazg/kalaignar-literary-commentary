@@ -10,15 +10,23 @@ When context requires a different rendering, preserve the source meaning and rec
 |---|---|---|
 | திருக்குறள் | Thirukkural | Use established English title. |
 | கலைஞர் உரை | Kalaignar's Commentary | In prose, `Kalaignar's Commentary on the Thirukkural` is also acceptable. |
+| குறளோவியம் | Kuraloviyam | Retain the work title in transliteration. |
 | அறம் | Aram / virtue / right conduct | Prefer `Aram` in structural labels; translate contextually in prose. |
 | அறத்துப்பால் | Book of Aram (Virtue / Right Conduct) | First significant English use may include gloss; later `Book of Aram`. |
+| பொருட்பால் | Book of Porul | Retain `Porul` in structural labels until a later section-level review establishes whether a gloss should accompany it. |
+| இன்பத்துப்பால் | Book of Inbam | Retain `Inbam` in structural labels until a later section-level review establishes whether a gloss should accompany it. |
 | இல்லறவியல் | Domestic Life | Section-level editorial default; review globally before release. |
 | குறள் | Kural | Use `Kural 1`, `Kural 2`, etc. when referring to numbered verses in prose. |
 | உரை | commentary | Use `commentary`, not `translation`, for Kalaignar's Tamil explanatory prose. |
 | முகவுரை | Preface | Context may justify `Introduction`; use source function, not title convention from another edition. |
+| முன்னுரை | Introduction | Keep distinct from `முகவுரை` when both occur in the same source. |
 | அணிந்துரை | Foreword | Use for the contributor's commendatory introductory essay. |
 | மதிப்புரை | Critical Appreciation | Provisional; `Review` may be used if context is plainly evaluative rather than scholarly. |
 | பதிப்புரை | Publisher's Note | Preferred for publisher-issued introductory note. |
+| கடவுள் வாழ்த்து | Invocation to God | Source title explicitly discussed in Kalaignar's Preface; do not replace it with `Worship` when translating that quoted title. |
+| அதிகார அகர வரிசை | Alphabetical Index of Chapters | Default for the front-matter index heading. |
+| அதிகார அருஞ்சொற்பொருள் அகரவரிசை | Alphabetical Glossary of Chapter Terms | Provisional structural rendering; retain source distinctions during review. |
+| குறள் முதற்குறிப்பு அகரவரிசை | Alphabetical Index by the Opening Words of the Kurals | Default for the contents entry and later index heading. |
 
 ## Chapter-title defaults for currently archived main body
 
@@ -71,7 +79,13 @@ These are **provisional controlled headings**. If a better rendering is adopted 
 | கலைஞர் | Kalaignar |
 | மு. கருணாநிதி | M. Karunanidhi |
 | திருவள்ளுவர் | Thiruvalluvar |
-| பூம்புகார் பதிப்பகம் | Poompuhar Pathippagam | Keep publisher name transliterated unless a printed English form from the same edition is available. |
+| வள்ளுவர் | Valluvar |
+| முரசொலி | Murasoli |
+| அன்பழகனார் | Anbazhagan |
+| நன்னன் | Nannan |
+| பூம்புகார் பதிப்பகம் | Poompuhar Pathippagam |
+
+Keep the publisher name transliterated unless a printed English form from the same edition is available.
 
 ## Translation-note policy
 
