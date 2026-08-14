@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Domestic Life — The Blessing of Children"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -16,8 +16,8 @@ will say that the flute and the yaazh are sweet.**
 
 Only those who have not heard their own children's prattling speech will say that the sound of the flute and the sound of the yaazh are both sweet.
 
-**67. The good a father should do for his children  
-is to make them stand with distinction in an assembly of scholars.**
+**67. The good a father should do for his son  
+is to make him stand foremost in an assembly.**
 
 The good help a father must give his children is to make them shine with honour in an assembly of learned people.
 
@@ -32,7 +32,7 @@ when she hears her son praised as a worthy person.**
 When people of the town praise her as the woman who gave birth to a good son, that mother experiences greater joy than she felt at the time she bore him.
 
 **70. The return a son can make to his father  
-is to make people say, “What great fortune his father gained to have him as a child!”**
+is to make people say, “What great fortune his father gained to have such a son!”**
 
 For a son to be praised with the words, “Ah! What a great blessing his father received in having him as a child!” is the return he can make to his father.
 
