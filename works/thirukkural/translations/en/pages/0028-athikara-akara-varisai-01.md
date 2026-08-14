@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Alphabetical Index of Chapters — 1"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -18,7 +18,7 @@ translation_basis: "verified Tamil archival transcription; controlling scan rema
 | Self-Control | 13 | Espionage | 59 |
 | The Minister | 64 | Compassion | 58 |
 | Fortress | 75 | Lamenting the Eyes | 118 |
-| Compassionate Conduct | 25 | Baseness | 108 |
+| Possession of Compassion | 25 | Baseness | 108 |
 | Awareness of Gossip | 115 | Lack of Learning | 41 |
 | Longing for the Beloved | 127 | Learning | 40 |
 | Eradication of Desire | 37 | Abstaining from Liquor | 93 |
@@ -48,6 +48,6 @@ translation_basis: "verified Tamil archival transcription; controlling scan rema
 | Understanding Mutual Help | 22 | Ascetic Practice | 27 |
 | Good Conduct | 14 | Intensity of Solitary Longing | 120 |
 
-> Draft terminology note: chapter-title renderings not already controlled by `GLOSSARY.md` are first-pass project translations from this index and remain subject to Part 002 source-check and editorial consistency review.
+> Source-check note: entry order and chapter numbers were checked against the verified Tamil index. `அருளுடைமை` is kept closer to the source as **Possession of Compassion**; the first-pass **Compassionate Conduct** added the idea of conduct, which is not present in the title. Other chapter-title renderings not already controlled remain eligible for later editorial consistency review; no external standard English chapter-title list is used.
 
 <!-- Source scan page: 28; Part 002 local page: 8; printed page: xxvii -->
