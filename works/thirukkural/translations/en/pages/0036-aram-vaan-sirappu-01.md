@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Prefatory Chapters — The Excellence of Rain"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -38,6 +38,6 @@ and by falling, it can raise up those whose lives have declined.**
 
 Rain can destroy the lives of living beings by failing to fall; and when it does fall, it is rain itself that adds prosperity to their weakened lives.
 
-> Source-check note: Kural 12's commentary deliberately retains Kalaignar's formulation that rain becomes **the food they drink** (`அவர்கள் அருந்தும் உணவு`) rather than smoothing the image into simply “water.”
+> Editorial review note: Kural 12's commentary deliberately retains Kalaignar's formulation that rain becomes **the food they drink** (`அவர்கள் அருந்தும் உணவு`) rather than smoothing the image into simply “water.”
 
 <!-- Source scan page: 36; Part 002 local page: 16; printed page: 3 -->
