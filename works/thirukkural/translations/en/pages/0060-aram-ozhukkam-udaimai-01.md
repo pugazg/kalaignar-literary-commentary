@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Good Conduct"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -18,8 +18,8 @@ conduct is cherished as greater even than life.**
 
 Since conduct is what can raise a person, that conduct itself is honoured as greater than life.
 
-**132. Guard conduct with care, even at the cost of hardship;  
-however one examines life, it alone is the finest support.**
+**132. Cherish and guard conduct with care;  
+even when examined with discernment, it alone is support.**
 
 Since conduct is the best support in life however many ways one examines it, it must be protected even by accepting whatever suffering is necessary.
 
@@ -33,7 +33,7 @@ but if the conduct that gives distinction to his birth declines, he is ruined.**
 
 If a Brahmin forgets what he has learned, he can study it again. But if he departs from the conduct that adds distinction to his birth, he becomes a low person.
 
-**135. Just as true prosperity does not belong to one possessed by envy,  
+**135. As prosperity does not belong to one possessed by envy,  
 there is no elevation for one without good conduct.**
 
 The life that belongs to an envious person, and to one without good conduct, will not be regarded as an elevated life.
