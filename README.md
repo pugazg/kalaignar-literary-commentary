@@ -6,7 +6,7 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–002 archival-ready; Part 003 **21/21 verified; audit pending** |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–003 audited / archival-ready for supplied material |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில மொழிபெயர்ப்பு | பின்னர் சேர்க்கப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -23,6 +23,7 @@ works/
     README.md
     AUDIT_PART_001.md
     AUDIT_PART_002.md
+    AUDIT_PART_003.md
     metadata/
     indexes/
     pages/
@@ -70,14 +71,12 @@ works/
 - Kural range: **41–145**
 - page records: **21 / 21**
 - `verified`: **21 / 21**
-- `needs-review`: **0**
-- `not-started`: **0**
-- audit: pending
+- unresolved: **0**
+- release decision: **ARCHIVAL-READY**
+- audit: [`works/thirukkural/AUDIT_PART_003.md`](works/thirukkural/AUDIT_PART_003.md)
 
-The source itself confirms direct continuity from Part 002: scan 41 ends at printed page 8 / Kural 40, and Part 003 scan 42 begins printed page 9 / Kural 41.
+The source confirms direct continuity from Part 002: scan 41 ends at printed page 8 / Kural 40, and Part 003 scan 42 begins printed page 9 / Kural 41. The currently supplied material reaches scan **62** / printed page **29** / Kural **145**.
 
-Part 003 first-pass transcription and direct visual verification are complete through scan **62** / printed page **29** / Kural **145**. All three verification batches (42–48, 49–55, and 56–62) matched the source without requiring text corrections.
-
-Next activity: run the Part 003 release/audit pass and create `AUDIT_PART_003.md`.
+Next activity: continue only when the next Thirukkural source PDF batch is supplied. Inspect that scan first and continue from overall scan **63** only if the source itself confirms continuity.
 
 விரிவான நிலை: [`works/thirukkural/README.md`](works/thirukkural/README.md) மற்றும் [`works/thirukkural/indexes/page-map.md`](works/thirukkural/indexes/page-map.md).
