@@ -54,13 +54,24 @@ Release decision: **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**.
 #### Part 002 — FIRST PASS IN PROGRESS
 
 - Tamil scans **21–41**: audited / archival-ready
-- English pages: **7 / 21**
-- `draft`: **7** — scans 21–27
+- English pages: **13 / 21**
+- `draft`: **13** — scans 21–33
 - source-check/editorial/release: not yet started
 
-Scans **21–26** complete Professor Ma. Nannan's `மதிப்புரை` / **Critical Appreciation** in first-pass English; scan **27** is the **Publisher's Note**. New Part 002 draft terminology is recorded in the controlled glossary.
+Completed first-pass English now covers:
 
-Review-sensitive items remain deliberately visible: scan 25 now contains the complete Kural with `அடுத்தூர்வது அஃதொப்பதில்` and a provisional English rendering that must be source-checked before any Part 001 cross-reference is changed; scan 26 retains `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு` with a contextual gloss; scan 27 preserves inferred printed page **xxvi** with its basis documented.
+- scans 21–26 — Professor Ma. Nannan's `மதிப்புரை` / **Critical Appreciation** completion;
+- scan 27 — `பதிப்புரை` / **Publisher's Note**;
+- scans 28–29 — `திருக்குறள் அதிகார அகர வரிசை` / **Alphabetical Index of Chapters**;
+- scans 30–31 — `அதிகார அருஞ்சொற்பொருள் அகரவரிசை` / **Alphabetical Glossary of Chapter Terms**;
+- scan 32 — `திருக்குறள் / கலைஞர் உரை / அறம்` title page;
+- scan 33 — blank verso / reverse-side bleed-through only.
+
+The index and glossary records preserve source order and numbers. Newly encountered chapter-title translations are first-pass project renderings, not yet editorially controlled. The source glossary itself is translated rather than replaced with outside definitions. Review-sensitive examples include `வரைவின் மகளிர்`, provisionally **Women Beyond Bounds** while the source gloss `விலை மகளிர்` is translated as **Women for hire**.
+
+Scan 32 preserves printed page **xxxi** as an explicit same-source pagination inference; the numeral is not visible on the scan. Scan 33 contains no distinct printed text and does not treat reverse-side bleed-through as body text.
+
+Earlier review-sensitive Part 002 items remain open for later source-check: scan 25's provisional English for the complete Kural containing `அடுத்தூர்வது அஃதொப்பதில்`, scan 26's retained `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு`, and scan 27's inferred printed page **xxvi**.
 
 #### Part 003
 
@@ -75,13 +86,13 @@ Review-sensitive items remain deliberately visible: scan 25 now contains the com
 
 ## அடுத்த செயல்
 
-Continue Part 002 English first-pass translation with overall scans **28–33**:
+Complete Part 002 English first-pass translation with overall scans **34–41**:
 
-- scans 28–29 — `திருக்குறள் அதிகார அகர வரிசை` / **Alphabetical Index of Chapters**;
-- scans 30–31 — `அதிகார அருஞ்சொற்பொருள் அகரவரிசை` / **Alphabetical Glossary of Chapter Terms**;
-- scan 32 — `திருக்குறள் / கலைஞர் உரை / அறம்` section title;
-- scan 33 — blank / reverse-side bleed-through.
+- scans 34–35 — `1. வழிபாடு`, Kural 1–10;
+- scans 36–37 — `2. வான் சிறப்பு`, Kural 11–20;
+- scans 38–39 — `3. நீத்தார் பெருமை`, Kural 21–30;
+- scans 40–41 — `4. அறன் வலியுறுத்தல்`, Kural 31–40.
 
-Create matching English records under `translations/en/pages/` with `status: "draft"`. Preserve source ordering, numbering, pagination notes and blank-page status exactly. Do not begin Kural 1–40 until scans 28–33 are complete.
+Create matching English records under `translations/en/pages/` with `status: "draft"`. Preserve Kural numbering and two-line verse structure, translate Kalaignar's commentary separately, and do not use a published English Thirukkural translation. Do not begin Part 002 source-check until all eight remaining drafts are complete.
 
 Tamil source intake can later continue from overall scan **63** only when a newly supplied scan itself confirms continuity after scan 62 / printed page 29 / Kural 145.
