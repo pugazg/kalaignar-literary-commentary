@@ -60,18 +60,7 @@ Do not silently revise released Part 001 wording because later context appears. 
 - `release-ready`: **21** — scans 21–41;
 - release decision: **RELEASE-READY**.
 
-Binding Part 002 source-fidelity decisions include:
-
-- **Aadhi Bhagavan** for `ஆதி பகவன்` where Kalaignar uses it directly;
-- *iraivan* where `இறைவன்` itself is significant; **the one who stands foremost** only where Kalaignar explicitly gives that reading;
-- *anthanar* where `அந்தணர்` itself matters, with Kalaignar's own commentary explanations retained;
-- Kural 12 **the food they drink**;
-- Kural 20 warning that conduct may deteriorate without rain;
-- Kalaignar's Kural-25 Indra interpretation;
-- Kural 34 **clamour**;
-- Kural 38 **the stone that sets the path of life in order**;
-- Nannan's ***puththelir* / new world**;
-- `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு` → **“the low-priced edition of the people's hearts.”**
+Binding Part 002 source-fidelity decisions include **Aadhi Bhagavan**, *iraivan*, *anthanar*, Kalaignar's Kural-25 Indra reading, Kural 12 **the food they drink**, Kural 20's conduct warning, Kural 34 **clamour**, Kural 38's path-and-stone image, Nannan's ***puththelir* / new world**, and **“the low-priced edition of the people's hearts.”**
 
 Released Part 001 scan 19 remains unchanged with `அடுத்தூர்வது அஃதொப்பதில்` retained in Tamil. Released Part 002 scan 25 carries **“nothing equals that for driving it away”** from the complete Kural + Nannan's adjacent explanation. This difference is deliberate and documented.
 
@@ -83,18 +72,16 @@ Tamil state: **21/21 verified; ARCHIVAL-READY**.
 
 Current English state:
 
-- aligned English records: **7 / 21**;
-- `draft`: **7** — scans 42–48;
+- aligned English records: **14 / 21**;
+- `draft`: **14** — scans 42–55;
 - `source-checked`: **0**;
 - `editorial-reviewed`: **0**;
 - `release-ready`: **0**;
 - `source-limited`: **0**;
 - `blocked`: **0**;
-- remaining first-pass pages: **14** — scans 49–62.
+- remaining first-pass pages: **7** — scans 56–62.
 
-## Completed first-pass batch — scans 42–48
-
-Created one-to-one English drafts:
+## Completed first-pass files — scans 42–55
 
 - `0042-aram-ilvaazhkkai-01.md` — Kural 41–45;
 - `0043-aram-ilvaazhkkai-02.md` — Kural 46–50;
@@ -102,47 +89,70 @@ Created one-to-one English drafts:
 - `0045-aram-vaazhkkaith-thunainalam-02.md` — Kural 56–60;
 - `0046-aram-makkatperu-01.md` — Kural 61–65;
 - `0047-aram-makkatperu-02.md` — Kural 66–70;
-- `0048-aram-anbudaimai-01.md` — Kural 71–75.
+- `0048-aram-anbudaimai-01.md` — Kural 71–75;
+- `0049-aram-anbudaimai-02.md` — Kural 76–80;
+- `0050-aram-virundhombal-01.md` — Kural 81–85;
+- `0051-aram-virundhombal-02.md` — Kural 86–90;
+- `0052-aram-iniyavai-kooral-01.md` — Kural 91–95;
+- `0053-aram-iniyavai-kooral-02.md` — Kural 96–100;
+- `0054-aram-seynnandriyarithal-01.md` — Kural 101–105;
+- `0055-aram-seynnandriyarithal-02.md` — Kural 106–110.
 
-All seven remain `status: "draft"`. Do **not** source-check them until the full Part 003 first pass is complete.
+All 14 remain `status: "draft"`. Do **not** source-check them until the full Part 003 first pass is complete.
 
-### Draft fidelity choices to preserve for later source-check
+## Draft fidelity choices to preserve for later source-check
 
-These are first-pass choices and must be checked against the verified Tamil source before promotion:
+Earlier batch:
 
-- **Kural 42** — the third group is rendered as **those without protection**, following Kalaignar's own `பாதுகாப்பற்றவர்` explanation rather than an imported conventional interpretation of `இறந்தார்`.
-- **Kural 43** — Kalaignar's five duties are retained: remembering those who lived and passed away; honouring those who live worthily; hospitality; caring for kin; and establishing oneself so those duties can be fulfilled.
-- **Kural 44** — commentary preserves Kalaignar's contrast between wealth accumulated without fearing blame and wealth gathered while fearing blame and shared before eating.
-- **Kural 50** — retains Kalaignar's language about a god **said to dwell in heaven** rather than making the statement more doctrinal.
-- **Kural 55** — wording is aligned with the already reviewed/released Part 002 occurrence; do not introduce stylistic variation during later review without a reason.
-- **Kural 57** — preserves Kalaignar's explicit statement that thinking of treating self-guarding, principled women as slaves is ignorance.
-- **Kural 58** — keeps the already established source-specific **new world** treatment.
-- **Kural 62** — verse retains its seven-birth wording; commentary follows Kalaignar's explicit **seven times seven generations** explanation.
-- **Kural 67** — commentary uses **children**, following Kalaignar's `மக்கள்` wording rather than narrowing his prose to a singular son.
-- **Kural 70** — follows Kalaignar's explanation of the father's praise as **great fortune / blessing**, not an external penance-based interpretation.
-- **Kurals 71–75** — preserve Kalaignar's emphasis on love revealed through tears, the loving person's body/possessions/life being for others, and love joined with action.
+- Kural 42 — **those without protection**, following Kalaignar's `பாதுகாப்பற்றவர்` explanation.
+- Kural 43 — retain Kalaignar's five duties exactly as he explains them.
+- Kural 50 — retain the god **said to dwell in heaven** formulation.
+- Kural 55 — keep wording aligned with the released Part 002 occurrence.
+- Kural 57 — retain Kalaignar's criticism of treating self-guarding women as slaves.
+- Kural 58 — retain the established **new world** reading.
+- Kural 62 — keep Kalaignar's **seven times seven generations** explanation distinct from the verse wording.
+- Kural 67 — commentary refers to **children**, following Kalaignar's prose.
+- Kural 70 — follow Kalaignar's **great fortune / blessing** explanation.
+
+New scans 49–55:
+
+- Kural 77 — retain Kalaignar's **conscience** explanation while keeping the verse's sun-scorching image.
+- Kural 78 — retain the **withered tree sprouting in a desert** image from Kalaignar's commentary.
+- Kural 83 — reuse the released Part 002 English wording exactly.
+- Kural 85 — preserve Kalaignar's reading that the devoted host would not withhold even seed intended for the field.
+- Kural 86 — retain **the heaven of fame** (`புகழ்வானில்`) rather than normalizing it into doctrinal heaven.
+- Kural 87 — retain hospitality as a **sacrifice** tied to the distinction of the guest.
+- Kural 90 — retain the **anicham flower** image and slight-frown explanation.
+- Kural 94 — reuse the released Part 002 wording, including **poverty in friendship**.
+- Kural 98 — reuse the released Part 002 wording and Kalaignar's fame-while-living/after-death explanation.
+- Kural 101 — draft uses **“a great gem that came unbidden”** for `வாராது வந்த மாமணி` and treats `செய்யாமற் செய்த உதவி` as help rendered without being sought; verify this carefully during source-check.
+- Kural 104 — retain the millet / palmyra scale image and Kalaignar's many-uses explanation.
+- Kural 107 — retain Kalaignar's statement that seven-times-seven generations/births is an exaggeration pointing to remembrance with **no time limit**.
+- Kural 110 — follow Kalaignar's own commentary that one may live after forgetting another aram, but not after forgetting help received.
 
 # Next exact activity
 
-Continue **Part 003 English first-pass translation with scans 49–55**.
+Complete **Part 003 English first-pass translation with scans 56–62**.
 
-1. Fetch current `TRANSLATION_GUIDE.md`, `GLOSSARY.md`, `TRANSLATION_STATUS.md` and the exact verified Tamil files for scans 49–55.
-2. Confirm no corresponding English pages already exist; continue existing work rather than creating duplicates.
-3. Create matching English files as `status: "draft"`.
+1. Fetch the current `TRANSLATION_GUIDE.md`, `GLOSSARY.md`, `TRANSLATION_STATUS.md` and exact verified Tamil source files for scans 56–62.
+2. Confirm no corresponding English page already exists; continue existing work if it does rather than creating duplicates.
+3. Create matching one-to-one English files, all initially `status: "draft"`.
 4. Coverage:
-   - scan 49 — completion of `8. அன்புடைமை` / **Love**, Kural 76–80;
-   - scans 50–51 — `9. விருந்தோம்பல்` / **Hospitality**, Kural 81–90;
-   - scans 52–53 — `10. இனியவை கூறல்` / **Speaking Pleasant Words**, Kural 91–100;
-   - scans 54–55 — `11. செய்ந்நன்றியறிதல்` / **Gratitude for Help Received**, Kural 101–110.
+   - scans 56–57 — `12. நடுவு நிலைமை` / **Impartiality**, Kural 111–120;
+   - scans 58–59 — `13. அடக்கம் உடைமை` / **Self-Control**, Kural 121–130;
+   - scans 60–61 — `14. ஒழுக்கம் உடைமை` / **Good Conduct**, Kural 131–140;
+   - scan 62 — beginning of `15. பிறனில் விழையாமை` / **Not Desiring Another Man's Wife**, Kural 141–145.
 5. Preserve every Kural number and two-line verse structure.
 6. Translate Kalaignar's commentary separately from the Kural.
 7. Use Kalaignar's adjacent commentary as the first interpretive aid for compressed or ambiguous Kural language.
 8. Do not import published English Kural wording, another commentator, web text or another Tamil edition.
 9. Preserve source gender/social specificity, metaphors and emphases rather than smoothing them into conventional English doctrine.
-10. Reuse already controlled terminology where the same Kural or concept has appeared earlier; do not vary wording for style alone.
+10. Reuse already controlled wording where the same Kural or concept has appeared earlier; do not vary wording merely for style.
 11. Update the glossary only if a genuinely recurring new term requires it.
 12. Synchronize translation status and README/handover after the batch.
 13. Do **not** begin source-check in the same activity.
+
+After scans 56–62 are drafted, Part 003 first pass will be **21/21 complete**. The following activity is the dedicated Part 003 source-check beginning with scans **42–48**.
 
 ## Source authority rule
 
