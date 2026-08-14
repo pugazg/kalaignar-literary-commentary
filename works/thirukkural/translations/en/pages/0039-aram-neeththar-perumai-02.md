@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Prefatory Chapters — The Greatness of Renunciants"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -31,11 +31,11 @@ it is hard for that anger to remain even for an instant.**
 
 If great people who are mountains of virtue become angry, that anger will not remain in their hearts even for a moment.
 
-**30. Those called `anthanar` are people of aram,  
+**30. Those called *anthanar* are people of aram,  
 for they live with tender compassion toward every living being.**
 
-Any worthy people who love all living beings and shower compassion upon them are called `anthanar`.
+Any worthy people who love all living beings and shower compassion upon them are called *anthanar*.
 
-> Source-check note: Kural 30 keeps `அந்தணர்` as `anthanar` because Kalaignar's commentary itself defines who may be called by that term: **any worthy people who love all living beings and shower compassion upon them**. No caste- or religion-specific definition from outside this source is substituted.
+> Editorial review note: Kural 30 keeps `அந்தணர்` as *anthanar* because Kalaignar's commentary itself defines who may be called by that term: **any worthy people who love all living beings and shower compassion upon them**. No caste- or religion-specific definition from outside this source is substituted.
 
 <!-- Source scan page: 39; Part 002 local page: 19; printed page: 6 -->
