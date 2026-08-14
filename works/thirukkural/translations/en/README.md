@@ -61,24 +61,29 @@ Tamil scans **42–62** are already audited / archival-ready and cover Kural **4
 
 Current English state:
 
-- aligned English records: **7 / 21** — scans 42–48;
-- `draft`: **7**;
-- remaining first-pass pages: **14** — scans 49–62;
+- aligned English records: **14 / 21** — scans 42–55;
+- `draft`: **14**;
+- remaining first-pass pages: **7** — scans 56–62;
 - source-check/editorial/release: not started.
 
-Completed first-pass coverage:
+Completed first-pass coverage now reaches Kural **110**:
 
 - scans 42–43 — **Domestic Life**, Kural 41–50;
 - scans 44–45 — **The Worth of a Life Partner**, Kural 51–60;
 - scans 46–47 — **The Blessing of Children**, Kural 61–70;
-- scan 48 — beginning of **Love**, Kural 71–75.
+- scans 48–49 — **Love**, Kural 71–80;
+- scans 50–51 — **Hospitality**, Kural 81–90;
+- scans 52–53 — **Speaking Pleasant Words**, Kural 91–100;
+- scans 54–55 — **Gratitude for Help Received**, Kural 101–110.
 
-The drafts retain Kalaignar's own interpretive direction. Examples queued for later source-check include Kural 42's **those without protection**, Kural 43's five duties as Kalaignar explains them, Kural 57's criticism of treating women as slaves, Kural 58's established **new world** reading, Kural 62's **seven times seven generations** commentary, and Kural 70's **great fortune / blessing** reading.
+The drafts continue to retain Kalaignar's interpretive direction. Source-sensitive choices queued for later review include his **heaven of fame** wording in Kural 86, the hospitality-as-**sacrifice** image in Kural 87, the **anicham flower** image in Kural 90, the unbidden-help reading in Kural 101, the millet/palmyra image in Kural 104, and the no-time-limit explanation of seven-times-seven generations/births in Kural 107.
+
+Repeated Kurals **83, 94 and 98** reuse their already released Part 002 English wording rather than being rewritten for stylistic variety.
 
 See [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md) for the detailed state.
 
 ## Next activity
 
-Continue **Part 003 English first-pass translation with scans 49–55**: Kural **76–110**, covering the completion of **Love**, **Hospitality**, **Speaking Pleasant Words**, and **Gratitude for Help Received**.
+Complete **Part 003 English first-pass translation with scans 56–62**: Kural **111–145**, covering **Impartiality**, **Self-Control**, **Good Conduct**, and the supplied beginning of **Not Desiring Another Man's Wife**.
 
-Create one-to-one English page files as `draft`, preserve Kural number/two-line structure, translate Kalaignar's commentary separately, and do not import published English Kural wording or outside commentary. Do not begin source-check until the full Part 003 first pass is complete.
+Create the remaining one-to-one English page files as `draft`. Do not begin source-check until all **21/21** Part 003 first-pass pages exist. After that, begin the dedicated Part 003 source-check from scan 42 onward.
