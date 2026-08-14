@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Prefatory Chapters — Affirming Aram"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -38,6 +38,6 @@ envy, greed, surging anger, and hurtful speech.**
 
 Envy, greed, swelling anger, and words that wound—these four do not belong to the path of aram.
 
-> Source-check note: the first-pass addition **“display”** in Kural 34's commentary was removed. Kalaignar says simply that everything else is `ஆரவாரம்`—**clamour**—and the English now keeps that image without expansion.
+> Editorial review note: the source-close treatment of Kural 34 is retained. Kalaignar says that everything else is `ஆரவாரம்`—**clamour**—and the English does not reintroduce the first-pass addition “display.”
 
 <!-- Source scan page: 40; Part 002 local page: 20; printed page: 7 -->
