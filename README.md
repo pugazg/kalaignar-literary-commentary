@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–003 audited / archival-ready for supplied material |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–002 released; Part 003 not started |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–002 released; Part 003 **7/21 first-pass drafts complete** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -43,24 +43,21 @@ Tamil Parts 001–003 are archival-ready for the supplied material. The Tamil ar
 
 - aligned English pages: **21 / 21**
 - `release-ready`: **21** — scans 21–41
-- `editorial-reviewed`: **0**
-- `source-checked`: **0**
-- `draft`: **0**
 - release decision: **RELEASE-READY**
-
-The released Part 002 layer preserves Kalaignar's own source-sensitive readings rather than conventional external interpretations. The full chapter index remains an index-local project translation, this edition's own glossary remains a distinct source layer, and Nannan's source metaphors remain intact.
-
-The cross-part `அடுத்தூர்வது அஃதொப்பதில்` decision remains explicit: Part 002 uses **“nothing equals that for driving it away”** from the complete Kural and Nannan's adjacent explanation, while released Part 001 scan 19 remains unchanged with the compact phrase retained in Tamil.
 
 Review/release artefacts:
 
 - [`works/thirukkural/translations/en/reviews/PART_002_REVIEW.md`](works/thirukkural/translations/en/reviews/PART_002_REVIEW.md)
 - [`works/thirukkural/translations/en/reviews/PART_002_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_002_RELEASE_REPORT.md)
 
-### Part 003 English
+### Part 003 English — FIRST PASS IN PROGRESS
 
-Not yet started. Tamil scans **42–62** are already audited / archival-ready and contain Kural **41–145** plus Kalaignar's commentary.
+- English pages: **7 / 21** — scans 42–48
+- `draft`: **7**
+- current English coverage: Kural **41–75**
 
-Next English activity: begin **Part 003 first-pass translation with scans 42–48**, covering Kural **41–75**. Create matching English pages as `draft`, preserve Kalaignar's commentary as the primary interpretive aid, and do not import published English Kural wording or outside commentary.
+The completed first-pass batch covers **Domestic Life**, **The Worth of a Life Partner**, **The Blessing of Children**, and the first half of **Love**. Kalaignar's commentary remains the primary interpretive aid; no published English Kural wording or outside commentary is imported.
+
+Next English activity: continue **Part 003 first-pass translation with scans 49–55**, covering Kural **76–110**: completion of **Love**, **Hospitality**, **Speaking Pleasant Words**, and **Gratitude for Help Received**. Keep all new pages as `draft`; source-check begins only after the full Part 003 first pass is complete.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md) and [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md).
