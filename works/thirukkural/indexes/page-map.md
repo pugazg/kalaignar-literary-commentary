@@ -11,7 +11,7 @@ Source: `திருக்குறள்_கலைஞர்_உரை_part_001
 | 5 | — | edition / price / rights / printer | verified | `pages/0005-edition-details.md` |
 | 6 | — | contents | verified | `pages/0006-contents.md` |
 | 7 | vi | முகவுரை | verified | `pages/0007-mugavurai.md` |
-| 8 | vii | handwritten facsimile | partial | `pages/0008-handwritten-note.md` |
+| 8 | vii | `முகவுரையின் ஒரு முன்னுரை!` — handwritten facsimile | partial | `pages/0008-handwritten-note.md` |
 | 9 | viii | பேராசிரியரின் அணிந்துரை | needs-review | `pages/0009-aninthurai-01.md` |
 | 10 | ix | பேராசிரியரின் அணிந்துரை | needs-review | `pages/0010-aninthurai-02.md` |
 | 11 | x | பேராசிரியரின் அணிந்துரை | needs-review | `pages/0011-aninthurai-03.md` |
@@ -37,9 +37,11 @@ Source: `திருக்குறள்_கலைஞர்_உரை_part_001
 ## சரிபார்ப்பு முன்னேற்றம்
 
 - scan 7 (`முகவுரை`) — direct visual comparison complete; `verified`.
-- During verification, first-pass readings including `ஐம்பது நான்கு` and `பொருளையொன்னியில்` were corrected to the forms visibly printed in the scan: `ஐம்பத்து நான்கு` and `பொருளையன்றி`.
+- During scan 7 verification, first-pass readings including `ஐம்பது நான்கு` and `பொருளையொன்னியில்` were corrected to the forms visibly printed in the scan: `ஐம்பத்து நான்கு` and `பொருளையன்றி`.
+- scan 8 — 300-DPI high-resolution visual review complete. The handwritten heading is confidently read as `முகவுரையின் ஒரு முன்னுரை!`; the signature and date `27/12/2007` are clear. The continuous handwritten body remains insufficiently legible for a source-faithful transcription, so the page correctly remains `partial` rather than being guessed.
 
 ## அடுத்த சரிபார்ப்பு சுற்று
 
-1. scan 8 — handwriting: high-resolution review; unreadable text must not be guessed.
-2. scans 9–20 — compare every character, punctuation mark, verse line and source-supported historical form against the scan before changing status to `verified`.
+1. scans 9–12 — verify the full poetic `பேராசிரியரின் அணிந்துரை` character by character, preserving printed line breaks, sandhi/spelling and punctuation.
+2. scans 13–20 — then verify the `மதிப்புரை` prose, numbered lists, quotations and printed Kural lines.
+3. scan 8 should be revisited only if a clearer source/facsimile becomes available; do not reconstruct its unreadable body from context.
