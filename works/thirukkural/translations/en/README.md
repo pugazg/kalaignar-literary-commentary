@@ -41,32 +41,38 @@ Review artefacts:
 - [`reviews/PART_001_REVIEW.md`](reviews/PART_001_REVIEW.md)
 - [`reviews/PART_001_RELEASE_REPORT.md`](reviews/PART_001_RELEASE_REPORT.md)
 
-## Part 002 — EDITORIAL REVIEW COMPLETE
+## Part 002 — RELEASE COMPLETE
 
-Part 002 has **21/21 aligned English records**, and all **21/21 are now `editorial-reviewed`**.
+- aligned English records: **21 / 21**;
+- `release-ready`: **21** — scans 21–41;
+- `editorial-reviewed`: **0** remaining;
+- `source-checked`: **0**;
+- `draft`: **0**.
 
-- `editorial-reviewed`: **21** — scans 21–41
-- `source-checked`: **0**
-- `draft`: **0**
-- `release-ready`: **0**
+Release decision: **RELEASE-READY**.
 
-Review artefact:
+Review artefacts:
 
 - [`reviews/PART_002_REVIEW.md`](reviews/PART_002_REVIEW.md)
+- [`reviews/PART_002_RELEASE_REPORT.md`](reviews/PART_002_RELEASE_REPORT.md)
 
-The review preserved all fidelity-first source-check decisions. **Aadhi Bhagavan**, *iraivan*, *anthanar*, Kalaignar's Kural-25 Indra interpretation, Kural 12's **food they drink**, Kural 20's warning about conduct, Kural 34's **clamour**, and Kural 38's **stone that sets the path of life in order** remain source-controlled choices rather than conventionalized replacements.
+The release preserves all fidelity-first decisions. **Aadhi Bhagavan**, *iraivan*, *anthanar*, Kalaignar's Kural-25 Indra interpretation, Kural 12's **food they drink**, Kural 20's warning about conduct, Kural 34's **clamour**, and Kural 38's **stone that sets the path of life in order** remain source-controlled choices rather than conventionalized replacements.
 
-The full chapter index on scans 28–29 is treated as an **index-local project translation**, not an imported standard English chapter-title set. The edition's own source glosses on scans 30–31 remain distinct from chapter-title English. Examples include **Worship | Following**, **Following a Woman's Lead | Becoming obsessed with women**, and **Women Beyond Bounds | Women for hire**.
+The full chapter index on scans 28–29 remains an **index-local project translation**, not an imported standard English chapter-title set. The edition's own source glosses on scans 30–31 remain distinct from chapter-title English.
 
-The review also finalized two source-sensitive expressions:
+Source-sensitive expressions are also release-confirmed:
 
-- `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு` remains **“the low-priced edition of the people's hearts”** to preserve Nannan's metaphor;
-- Part 002 renders `அடுத்தூர்வது அஃதொப்பதில்` as **“nothing equals that for driving it away”** from the complete Kural plus Nannan's adjacent explanation, while released Part 001 scan 19 remains unchanged with the compact Tamil phrase retained. The difference is explicitly documented in the review and glossary.
+- `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு` remains **“the low-priced edition of the people's hearts”**;
+- Part 002 renders `அடுத்தூர்வது அஃதொப்பதில்` as **“nothing equals that for driving it away”** from the complete Kural plus Nannan's adjacent explanation, while released Part 001 scan 19 remains unchanged with the compact Tamil phrase retained. The difference is explicit and documented.
 
 See [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md) for the detailed state.
 
+## Part 003 — NOT STARTED
+
+Tamil scans **42–62** are already audited / archival-ready and cover Kural **41–145** with Kalaignar's commentary.
+
 ## Next activity
 
-Perform the separate **Part 002 English release gate**. Verify all 21 pages, the Part 002 review, glossary, metadata and documented cross-part decisions; create `reviews/PART_002_RELEASE_REPORT.md`; and, if the gate passes, promote all 21 Part 002 pages to `release-ready`.
+Begin **Part 003 English first-pass translation with scans 42–48**: Kural **41–75**, covering **Domestic Life**, **The Worth of a Life Partner**, **The Blessing of Children**, and the beginning of **Love**.
 
-Do not begin Part 003 English in the same activity.
+Create one-to-one English page files as `draft`, preserving Kural number/two-line structure and Kalaignar's commentary as a separate source-controlled layer. Do not import published English Kural wording or outside commentary.
