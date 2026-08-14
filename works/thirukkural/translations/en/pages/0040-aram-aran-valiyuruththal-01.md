@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Prefatory Chapters — Affirming Aram"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -29,13 +29,15 @@ at every opportunity that comes.**
 Whatever actions can be done, they must everywhere be carried out without slackening from the path of aram.
 
 **34. To be without stain in the mind is all aram;  
-all else is nothing but empty clamour.**
+all else is nothing but clamour.**
 
-Purity of mind itself is aram; everything else is nothing more than noise and display.
+Purity of mind itself is aram; everything else is nothing more than clamour.
 
 **35. Aram is what can be practised without swerving into these four:  
 envy, greed, surging anger, and hurtful speech.**
 
 Envy, greed, swelling anger, and words that wound—these four do not belong to the path of aram.
+
+> Source-check note: the first-pass addition **“display”** in Kural 34's commentary was removed. Kalaignar says simply that everything else is `ஆரவாரம்`—**clamour**—and the English now keeps that image without expansion.
 
 <!-- Source scan page: 40; Part 002 local page: 20; printed page: 7 -->
