@@ -39,6 +39,19 @@
 
 அதாவது இந்த 20-page source part-இல் உள்ள **அனைத்து printed / blank pages-உம் visual verification முடித்து `verified` செய்யப்பட்டுள்ளன**. ஒரே unresolved item scan 8 கையெழுத்து facsimile body மட்டுமே; கிடைத்த scan quality முழு source-faithful transcription-ஐ ஆதரிக்காததால் அது திட்டமிட்டு `partial` ஆகவே வைக்கப்பட்டுள்ளது.
 
+## Part 001 archival status
+
+Release / audit pass முடிந்தது.
+
+- Audit report: [`AUDIT_PART_001.md`](AUDIT_PART_001.md)
+- Release decision: **ARCHIVAL-READY WITH ONE DOCUMENTED PARTIAL FACSIMILE**
+- Scan coverage: **20 / 20**
+- Duplicate / missing page record: **0**
+- Printed / blank pages verified: **19**
+- Reviewed partial: **scan 8 மட்டும்**
+
+Scan 8 என்பது unprocessed / failed page அல்ல. அது high-resolution review செய்யப்பட்ட source-limited facsimile; தலைப்பு, கையொப்பம், தேதி மட்டும் உறுதியாகப் பதிவாகியுள்ளன.
+
 ## சரிபார்ப்பில் உறுதிசெய்யப்பட்ட முக்கிய வாசிப்புகள்
 
 - scan 7: `முன்னூற்று ஐம்பத்து நான்கு`, `பொருளையன்றி`
@@ -60,12 +73,9 @@
 
 ## அடுத்த செயல்
 
-**Part 001 release / audit pass**:
+Part 001 audit முடிந்ததால், அடுத்த செயல் source availability-ஐப் பொறுத்தது:
 
-1. scan 1–20 page continuity மற்றும் one-record-per-scan consistency சரிபார்த்தல்;
-2. front matter metadata, source-page markers, status values அனைத்தையும் audit செய்தல்;
-3. scan 8 partial status-ஐ unresolved-but-reviewed item ஆக audit note-இல் பதிவு செய்தல்;
-4. Part 001 archival-ready report உருவாக்குதல்;
-5. அதன் பிறகு அடுத்த Thirukkural source PDF batch கிடைக்கும் போது தொடருதல்.
+1. **அடுத்த Thirukkural source PDF batch** கிடைத்தால், Part 001-ஐ மாற்றாமல் அடுத்த scan/page sequence-ஐத் தொடருதல்; அல்லது
+2. scan 8-ன் **தெளிவான facsimile** கிடைத்தால், அந்தப் பக்கத்தை மட்டும் மீண்டும் திறந்து source-supported வாசிப்புகளைச் சேர்த்தல்.
 
 விரிவான பக்க நிலை: [`indexes/page-map.md`](indexes/page-map.md).
