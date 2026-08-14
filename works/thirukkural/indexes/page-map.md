@@ -10,7 +10,7 @@ Source: `திருக்குறள்_கலைஞர்_உரை_part_001
 | 4 | — | title / publisher details | verified | `pages/0004-publication-details.md` |
 | 5 | — | edition / price / rights / printer | verified | `pages/0005-edition-details.md` |
 | 6 | — | contents | verified | `pages/0006-contents.md` |
-| 7 | vi | முகவுரை | needs-review | `pages/0007-mugavurai.md` |
+| 7 | vi | முகவுரை | verified | `pages/0007-mugavurai.md` |
 | 8 | vii | handwritten facsimile | partial | `pages/0008-handwritten-note.md` |
 | 9 | viii | பேராசிரியரின் அணிந்துரை | needs-review | `pages/0009-aninthurai-01.md` |
 | 10 | ix | பேராசிரியரின் அணிந்துரை | needs-review | `pages/0010-aninthurai-02.md` |
@@ -29,13 +29,17 @@ Source: `திருக்குறள்_கலைஞர்_உரை_part_001
 
 - Source scan pages: **20**
 - Page records created: **20 / 20**
-- `verified`: **6**
-- `needs-review`: **13** (scan 7 and 9–20)
+- `verified`: **7**
+- `needs-review`: **12** (scan 9–20)
 - `partial`: **1** (scan 8 handwritten facsimile)
 - Remaining uncreated page records in this source part: **0**
 
+## சரிபார்ப்பு முன்னேற்றம்
+
+- scan 7 (`முகவுரை`) — direct visual comparison complete; `verified`.
+- During verification, first-pass readings including `ஐம்பது நான்கு` and `பொருளையொன்னியில்` were corrected to the forms visibly printed in the scan: `ஐம்பத்து நான்கு` and `பொருளையன்றி`.
+
 ## அடுத்த சரிபார்ப்பு சுற்று
 
-1. scan 7 — முகவுரை: எழுத்துக்கு எழுத்து visual verification.
-2. scan 8 — handwriting: high-resolution review; unreadable text must not be guessed.
-3. scans 9–20 — first-pass transcription exists; compare every character, punctuation mark, verse line and source-supported historical form against the scan before changing status to `verified`.
+1. scan 8 — handwriting: high-resolution review; unreadable text must not be guessed.
+2. scans 9–20 — compare every character, punctuation mark, verse line and source-supported historical form against the scan before changing status to `verified`.
