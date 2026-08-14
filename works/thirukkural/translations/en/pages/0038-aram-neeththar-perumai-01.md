@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Prefatory Chapters — The Greatness of Renunciants"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -36,8 +36,8 @@ One who uses the goad called firmness to restrain and guard the five senses beco
 **25. Indra, lord of those in the wide sky, is sufficient witness  
 to the power of one who has subdued the five.**
 
-Indra stands as an example of a person who goes astray because he cannot control the senses, and he shows the power of those whose fame reaches the sky because they have controlled the desires caused by the five senses.
+Indra stands as an example of a person who goes astray because he cannot control the senses; through that example, he shows the power of those whose fame reaches the sky because they have controlled the desires caused by the five senses.
 
-> Source-check note: Kalaignar explicitly uses **Indra** as the example here. His commentary first presents Indra as one who goes astray through failure to control the senses and then points to the power of those who control the desires produced by the five senses. That interpretive direction is retained without replacing it with another commentator's reading.
+> Editorial review note: Kalaignar explicitly uses **Indra** as the example here. His commentary presents Indra as one who goes astray through failure to control the senses and, through that example, points to the power of those who control the desires produced by the five senses. That interpretive direction is retained without replacing it with another commentator's reading.
 
 <!-- Source scan page: 38; Part 002 local page: 18; printed page: 5 -->
