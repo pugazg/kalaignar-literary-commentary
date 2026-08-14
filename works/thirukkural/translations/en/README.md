@@ -25,7 +25,7 @@ Do **not** silently import wording from an existing English Thirukkural translat
 
 ## One-to-one page alignment
 
-English page files must mirror the Tamil archival page filenames exactly:
+English page files mirror the Tamil archival page filenames exactly:
 
 ```text
 works/thirukkural/pages/0034-aram-vazhipadu-01.md
@@ -94,7 +94,15 @@ The currently archived main-body Tamil reaches Kural **145**.
 
 Translation framework: **established**.
 
-Page translation: **not yet started**.
+Part 001 first-pass translation has started:
+
+- English page files: **7**;
+- scans **1–7**: `draft`;
+- scan **8**: not yet created; must be `source-limited`;
+- scans **9–20**: not yet translated;
+- no page has yet completed the separate source-check or editorial-review stages.
+
+The first seven drafts cover the cover, title page, blank page record, publication and edition details, contents, and Kalaignar's Preface on printed page vi.
 
 See:
 
@@ -104,4 +112,4 @@ See:
 
 ## Next activity
 
-Begin **Part 001 English translation** in small page-aligned batches. Start with scans **1–7**, create matching English page files, and keep them `draft` until the separate source-check pass.
+Create the aligned English page for **Part 001 scan 8** as `source-limited`, translating only what the audited Tamil source safely establishes. Do not reconstruct the unreadable handwritten body. After that, continue first-pass translation with scans **9–12**.
