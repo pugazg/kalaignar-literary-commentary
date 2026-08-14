@@ -32,34 +32,28 @@ The English should retain the source author's language, images, emphases and int
 - `release-ready`: **19**;
 - `source-limited`: **1** — scan 8 handwritten facsimile.
 
-Release decision: **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**.
-
 ## Part 002 — RELEASE COMPLETE
 
 - aligned English records: **21 / 21**;
 - `release-ready`: **21** — scans 21–41.
 
-Release decision: **RELEASE-READY**.
+## Part 003 — SOURCE-CHECK COMPLETE
 
-## Part 003 — SOURCE-CHECK IN PROGRESS
-
-Tamil scans **42–62** are audited / archival-ready and cover Kural **41–145** with Kalaignar's commentary. The English first pass is complete for all **21 / 21** pages.
+Tamil scans **42–62** are audited / archival-ready and cover Kural **41–145** with Kalaignar's commentary.
 
 Current English state:
 
 - aligned English records: **21 / 21** — scans 42–62;
-- `source-checked`: **14** — scans 42–55;
-- `draft`: **7** — scans 56–62;
+- `source-checked`: **21** — scans 42–62;
+- `draft`: **0**;
 - editorial review/release: not started.
 
-The completed source-check now covers **Domestic Life**, **The Worth of a Life Partner**, **The Blessing of Children**, **Love**, **Hospitality**, **Speaking Pleasant Words**, and **Gratitude for Help Received**, through Kural **110**.
-
-Source-specific decisions remain intact: Kural 77's **conscience**, Kural 85's seed-for-hospitality reading, Kural 86's **heaven of fame**, Kural 87's hospitality-as-**sacrifice**, Kural 90's **anicham flower**, Kural 101's **great gem that came unbidden**, Kural 104's millet/palmyra image, and Kural 107's seven-times-seven / no-time-limit explanation. Source-check also tightened Kural 78 so the verse says **hard barren ground** while Kalaignar's commentary separately retains the **desert** image, and Kural 103 so the verse no longer imports the commentary's explicit love motive.
+The completed source-check preserves Kalaignar's interpretations and keeps the Kural layer distinct from his commentary where needed. Final-batch source decisions include Kural 117's **low state** in the verse versus explicit poverty in commentary, Kural 121's deathless/darkness imagery versus **imperishable fame / life itself dark**, Kural 126's **seven lives** versus protection **through all time**, Kural 130's **Aram waiting upon the path**, explicit birth/lineage and **Brahmin** language in Kurals 133–134, and repeated **another man's wife** wording in Kurals 141–145.
 
 See [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md) for detailed decisions.
 
 ## Next activity
 
-Complete the dedicated **Part 003 English source-check with scans 56–62**, covering Kural **111–145**: **Impartiality**, **Self-Control**, **Good Conduct**, and the supplied beginning of **Not Desiring Another Man's Wife**.
+Begin the dedicated **Part 003 English editorial-consistency / glossary-reconciliation review across scans 42–62**. Create `reviews/PART_003_REVIEW.md`, reconcile terminology and repeated wording without weakening Kalaignar's language or interpretation, and promote pages to `editorial-reviewed` only after the review is complete.
 
-Do not begin editorial consistency review until all **21/21** Part 003 pages have completed source-check.
+Do not run the Part 003 release gate in the same activity.
