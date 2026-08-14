@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Alphabetical Index of Chapters — 1"
 language: "en"
 translation_type: "project_translation"
-status: "editorial-reviewed"
+status: "release-ready"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
