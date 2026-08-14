@@ -85,13 +85,13 @@ The attachment contains **21 local PDF pages**. Local page 1 is overall scan **4
 
 | Overall scan | Part 003 local page | Printed page | Page type / section | Status | File |
 |---:|---:|---:|---|---|---|
-| 42 | 1 | 9 | `5. இல்வாழ்க்கை` — குறள் 41–45 | needs-review | `pages/0042-aram-ilvaazhkkai-01.md` |
-| 43 | 2 | 10 | `5. இல்வாழ்க்கை` — குறள் 46–50 | needs-review | `pages/0043-aram-ilvaazhkkai-02.md` |
-| 44 | 3 | 11 | `6. வாழ்க்கைத் துணைநலம்` — குறள் 51–55 | needs-review | `pages/0044-aram-vaazhkkaith-thunainalam-01.md` |
-| 45 | 4 | 12 | `6. வாழ்க்கைத் துணைநலம்` — குறள் 56–60 | needs-review | `pages/0045-aram-vaazhkkaith-thunainalam-02.md` |
-| 46 | 5 | 13 | `7. மக்கட்பேறு` — குறள் 61–65 | needs-review | `pages/0046-aram-makkatperu-01.md` |
-| 47 | 6 | 14 | `7. மக்கட்பேறு` — குறள் 66–70 | needs-review | `pages/0047-aram-makkatperu-02.md` |
-| 48 | 7 | 15 | `8. அன்புடைமை` — குறள் 71–75 | needs-review | `pages/0048-aram-anbudaimai-01.md` |
+| 42 | 1 | 9 | `5. இல்வாழ்க்கை` — குறள் 41–45 | verified | `pages/0042-aram-ilvaazhkkai-01.md` |
+| 43 | 2 | 10 | `5. இல்வாழ்க்கை` — குறள் 46–50 | verified | `pages/0043-aram-ilvaazhkkai-02.md` |
+| 44 | 3 | 11 | `6. வாழ்க்கைத் துணைநலம்` — குறள் 51–55 | verified | `pages/0044-aram-vaazhkkaith-thunainalam-01.md` |
+| 45 | 4 | 12 | `6. வாழ்க்கைத் துணைநலம்` — குறள் 56–60 | verified | `pages/0045-aram-vaazhkkaith-thunainalam-02.md` |
+| 46 | 5 | 13 | `7. மக்கட்பேறு` — குறள் 61–65 | verified | `pages/0046-aram-makkatperu-01.md` |
+| 47 | 6 | 14 | `7. மக்கட்பேறு` — குறள் 66–70 | verified | `pages/0047-aram-makkatperu-02.md` |
+| 48 | 7 | 15 | `8. அன்புடைமை` — குறள் 71–75 | verified | `pages/0048-aram-anbudaimai-01.md` |
 | 49 | 8 | 16 | `8. அன்புடைமை` — குறள் 76–80 | needs-review | `pages/0049-aram-anbudaimai-02.md` |
 | 50 | 9 | 17 | `9. விருந்தோம்பல்` — குறள் 81–85 | needs-review | `pages/0050-aram-virundhombal-01.md` |
 | 51 | 10 | 18 | `9. விருந்தோம்பல்` — குறள் 86–90 | needs-review | `pages/0051-aram-virundhombal-02.md` |
@@ -114,9 +114,13 @@ The attachment contains **21 local PDF pages**. Local page 1 is overall scan **4
 - printed pages: **9–29**
 - Kural range: **41–145**
 - page records created: **21 / 21**
-- `needs-review`: **21** — scans 42–62
+- `verified`: **7** — scans 42–48
+- `needs-review`: **14** — scans 49–62
 - `not-started`: **0**
-- `verified`: **0**
+
+### Verification completed — scans 42–48
+
+Direct visual comparison against Part 003 local pages 1–7 is complete for Kural **41–75** and Kalaignar's commentary. The first-pass wording matched the source on all seven pages, so no transcription correction was required. Source-specific spacing, wording and punctuation were retained as printed.
 
 ### Source observations
 
@@ -127,4 +131,4 @@ The attachment contains **21 local PDF pages**. Local page 1 is overall scan **4
 
 ## அடுத்த செயல்
 
-Begin the separate **Part 003 direct visual-verification cycle** with scans **42–48**. Compare each first-pass page record character-by-character against the exact scan, correct only source-supported differences, and promote a page to `verified` only after that comparison is complete.
+Continue the separate **Part 003 direct visual-verification cycle** with scans **49–55**. Compare each page record character-by-character against the exact scan, correct only source-supported differences, and promote a page to `verified` only after that comparison is complete.
