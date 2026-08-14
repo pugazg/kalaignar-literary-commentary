@@ -47,10 +47,10 @@
   - `13. அடக்கம் உடைமை` — 121–130;
   - `14. ஒழுக்கம் உடைமை` — 131–140;
   - `15. பிறனில் விழையாமை` begins with Kural 141–145 on printed page 29.
-- Current processing state: **21/21 page records created**.
-- Verification state: **21/21 verified; 0 needs-review**.
+- Final processing state: **21/21 verified; 0 unresolved**.
 - Direct visual comparison of scans 42–48, 49–55, and 56–62 found no first-pass text differences; wording, source spacing, punctuation, line breaks and commentary were retained as printed.
-- Release audit: pending.
+- Release state: **ARCHIVAL-READY**.
+- Audit: `works/thirukkural/AUDIT_PART_003.md`.
 
 ## Publication details visible in Part 001
 
@@ -103,10 +103,12 @@ Part 002 confirms the end of the front matter and the start of `அறம்`; P
 
 ### Part 003
 
-- one record exists for each overall scan **42–62**;
-- all **21** records have completed direct visual comparison and are `verified`;
-- Kural range verified from **41–145**;
-- release audit still pending.
+- one record for each overall scan **42–62**;
+- all **21** records verified by direct visual comparison;
+- printed pages **9–29** continuous;
+- Kural range **41–145** continuous;
+- no unresolved Part 003 page;
+- release decision: **ARCHIVAL-READY**.
 
 ## Source condition / observations
 
@@ -116,10 +118,10 @@ Part 002 confirms the end of the front matter and the start of `அறம்`; P
 - Reverse-side bleed-through is visible on many pages and is not current-page text.
 - Part 003 consists of continuous printed main-body pages 9–29. Its first page begins Kural 41, which confirms direct continuity after Part 002's Kural 40 / printed page 8.
 - Part 003 contains no new edition statement; Part 001 remains the source for publication metadata.
-- The currently supplied material reaches overall scan **62** / printed book page **29**. This still does **not** establish the total scan-page count of the full book.
+- The currently supplied material reaches overall scan **62** / printed book page **29** / Kural **145**. This still does **not** establish the total scan-page count of the full book.
 
 ## Authority rule
 
 The supplied scans are the controlling sources for this edition. No external Thirukkural text, later edition, web transcription, remembered Kural wording, or modernized Tamil may silently replace what is printed here.
 
-Part 003 scans 42–62 have completed independent direct visual comparison and are all `verified`. The next repository step is the formal Part 003 release/audit pass.
+Parts 001–003 are audited for the material supplied so far. Future processing must inspect the next source scan first and establish continuity from overall scan 62 / printed page 29 / Kural 145.
