@@ -6,7 +6,7 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–002 archival-ready; Part 003 **21/21 records, 7 verified** |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–002 archival-ready; Part 003 **21/21 records, 14 verified** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில மொழிபெயர்ப்பு | பின்னர் சேர்க்கப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -69,14 +69,14 @@ works/
 - printed pages: **9–29**
 - Kural range: **41–145**
 - page records: **21 / 21**
-- `verified`: **7** — scans 42–48
-- `needs-review`: **14** — scans 49–62
+- `verified`: **14** — scans 42–55
+- `needs-review`: **7** — scans 56–62
 - `not-started`: **0**
 
 The source itself confirms direct continuity from Part 002: scan 41 ends at printed page 8 / Kural 40, and Part 003 scan 42 begins printed page 9 / Kural 41.
 
-Part 003 first-pass transcription is complete through Kural **145**. Direct visual verification is complete through scan **48** / printed page **15** / Kural **75**; those seven records matched the source without requiring text corrections.
+Part 003 first-pass transcription is complete through Kural **145**. Direct visual verification is complete through scan **55** / printed page **22** / Kural **110**. Verification batches 42–48 and 49–55 matched the source without requiring text corrections.
 
-Next activity: continue direct visual verification with **scans 49–55**.
+Next activity: finish direct visual verification with **scans 56–62**, then create `AUDIT_PART_003.md`.
 
 விரிவான நிலை: [`works/thirukkural/README.md`](works/thirukkural/README.md) மற்றும் [`works/thirukkural/indexes/page-map.md`](works/thirukkural/indexes/page-map.md).
