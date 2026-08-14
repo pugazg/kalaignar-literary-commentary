@@ -46,13 +46,13 @@ The attachment contains **21 local PDF pages** and directly continues the book a
 
 | Overall scan | Part 002 local page | Printed page | Page type / section | Status | File |
 |---:|---:|:---:|---|---|---|
-| 21 | 1 | xx | மதிப்புரை — பல்வகைச் சிறப்புகள் தொடர்ச்சி | needs-review | `pages/0021-mathippurai-08.md` |
-| 22 | 2 | xxi | மதிப்புரை — தெளிவு / சுருக்க விளக்கம் / புதுப்பொருள் | needs-review | `pages/0022-mathippurai-09.md` |
-| 23 | 3 | xxii | மதிப்புரை — புதுப்பொருள் தொடர்ச்சி | needs-review | `pages/0023-mathippurai-10.md` |
-| 24 | 4 | xxiii | `அய். புத்தம்புது விளக்கம்` / `ஒ. நுண்மாண் நுழைபுலம்` | needs-review | `pages/0024-mathippurai-11.md` |
-| 25 | 5 | xxiv | மதிப்புரை — நுண்மாண் நுழைபுலம் / `6. நன்றி` | needs-review | `pages/0025-mathippurai-12.md` |
-| 26 | 6 | xxv | மதிப்புரை — `நன்றி` தொடர்ச்சி | needs-review | `pages/0026-mathippurai-13.md` |
-| 27 | 7 | xxvi* | பதிப்புரை — பூம்புகார் பதிப்பகத்தார் | needs-review | `pages/0027-pathippurai.md` |
+| 21 | 1 | xx | மதிப்புரை — பல்வகைச் சிறப்புகள் தொடர்ச்சி | verified | `pages/0021-mathippurai-08.md` |
+| 22 | 2 | xxi | மதிப்புரை — தெளிவு / சுருக்க விளக்கம் / புதுப்பொருள் | verified | `pages/0022-mathippurai-09.md` |
+| 23 | 3 | xxii | மதிப்புரை — புதுப்பொருள் தொடர்ச்சி | verified | `pages/0023-mathippurai-10.md` |
+| 24 | 4 | xxiii | `அய். புத்தம்புது விளக்கம்` / `ஒ. நுண்மாண் நுழைபுலம்` | verified | `pages/0024-mathippurai-11.md` |
+| 25 | 5 | xxiv | மதிப்புரை — நுண்மாண் நுழைபுலம் / `6. நன்றி` | verified | `pages/0025-mathippurai-12.md` |
+| 26 | 6 | xxv | மதிப்புரை — `நன்றி` தொடர்ச்சி | verified | `pages/0026-mathippurai-13.md` |
+| 27 | 7 | xxvi* | பதிப்புரை — பூம்புகார் பதிப்பகத்தார் | verified | `pages/0027-pathippurai.md` |
 | 28 | 8 | xxvii | திருக்குறள் அதிகார அகர வரிசை — 1 | needs-review | `pages/0028-athikara-akara-varisai-01.md` |
 | 29 | 9 | xxviii | திருக்குறள் அதிகார அகர வரிசை — 2 | needs-review | `pages/0029-athikara-akara-varisai-02.md` |
 | 30 | 10 | xxix | அதிகார அருஞ்சொற்பொருள் அகரவரிசை — 1 | needs-review | `pages/0030-athikara-arunchol-akaravarisai-01.md` |
@@ -75,25 +75,33 @@ The attachment contains **21 local PDF pages** and directly continues the book a
 - source pages in attachment: **21**
 - overall scan range: **21–41**
 - page records created: **21 / 21**
-- `needs-review`: **21** — scans 21–41
+- `verified`: **7** — scans 21–27
+- `needs-review`: **14** — scans 28–41
 - `not-started`: **0**
-- `verified`: **0** in Part 002 so far
+
+### Verification completed — scans 21–27
+
+Direct visual comparison against Part 002 local pages 1–7 is complete.
+
+- scans 21–26 matched their first-pass wording; source-specific forms including `நோக்கமிம்`, `ஏஎர்`, `துன்புறூஉந்`, `ஆற்றேன்இந்`, `நோயைநோய்`, `தும்மினே னாக`, `புத்தேளிர்`, `நீரியைந் தன்னா ரகத்து`, `அய். புத்தம்புது விளக்கம்`, `அடுத்தூர்வது அஃதொப்ப தில்`, `இற்றெனக் கிளந்து, தெற்றெனக் காட்டுவதையே`, and final `வேண்டாவாகும்` were visually confirmed and retained.
+- scan 27 had source-supported corrections: `எந்நிலையையூட்டும்` → `எந்நினைவையூட்டும்`, `உலக நிலையையூட்டுதல்` → `உலக நினைவையூட்டுதல்`; source spacing before `!` and `?` was restored, and the printed signature line is preserved with a hyphen (`- பூம்புகார் பதிப்பகத்தார்`).
+- scans 21–27 now include explicit Part 002 local-page metadata and use `transcription_method: "direct visual comparison with source scan"`.
 
 ### Part 002 source observations
 
 - The batch begins on printed page `xx`, so the transition from Part 001 (`xix`) is continuous.
-- Scans 21–26 complete பேராசிரியர் மா. நன்னன்'s `மதிப்புரை`; scan 27 is `பதிப்புரை` signed `பூம்புகார் பதிப்பகத்தார்`.
+- Scan 27 is `பதிப்புரை`; its printed numeral is not visible, while `xxvi` remains supported by same-source contents and the surrounding pagination sequence.
 - Scans 28–31 contain the two index sections; scans 32–33 are the `அறம்` title page and blank verso.
-- Scans 34–41 now have first-pass source-based transcriptions for Kural **1–40** and Kalaignar's commentary across `வழிபாடு`, `வான் சிறப்பு`, `நீத்தார் பெருமை`, and `அறன் வலியுறுத்தல்`.
+- Scans 34–41 contain Kural **1–40** and Kalaignar's commentary across `வழிபாடு`, `வான் சிறப்பு`, `நீத்தார் பெருமை`, and `அறன் வலியுறுத்தல்`.
 - Reverse-side bleed-through visible on several pages is not treated as current-page text.
 - Kural wording remains source-specific and must not be replaced with a standard/web edition during verification.
 
 ## அடுத்த செயல்
 
-Run the **Part 002 direct visual verification cycle** in small batches.
+Run direct visual verification for scans **28–33**.
 
-1. Start with scans **21–27** and compare every character, punctuation mark, heading and source-page marker against the scan.
-2. Then verify scans **28–33** (indexes/title/blank).
-3. Then verify scans **34–41** (Kural 1–40 + Kalaignar commentary), preserving source-specific spacing and forms.
-4. Promote a page to `verified` only after the direct visual comparison is complete.
-5. After all Part 002 pages are reviewed, create `AUDIT_PART_002.md` and a release decision.
+1. Verify both `திருக்குறள் அதிகார அகர வரிசை` pages character-by-character, including authority numbers and source-specific word joining.
+2. Verify both `அதிகார அருஞ்சொற்பொருள் அகரவரிசை` pages, preserving the source's distinct term spellings/spacing rather than harmonizing them with scans 28–29.
+3. Verify scan 32 title page and the source-supported `xxxi` pagination basis.
+4. Verify scan 33 as blank/current-page-text-free and keep bleed-through excluded.
+5. Promote only directly checked pages to `verified`; after that proceed to scans 34–41.
