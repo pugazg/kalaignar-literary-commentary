@@ -7,7 +7,7 @@
 | Part | Source file | Local pages | Overall scans | நிலை |
 |---|---|---:|---:|---|
 | 001 | `திருக்குறள்_கலைஞர்_உரை_part_001_pages_1-20.pdf` | 20 | 1–20 | audited / archival-ready; scan 8 மட்டும் documented partial |
-| 002 | `திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf` | 21 | 21–41 | first-pass records complete through scan 33 |
+| 002 | `திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf` | 21 | 21–41 | **21/21 first-pass page records complete; visual verification pending** |
 
 Part 002 local page 1 printed page **xx**-இல் தொடங்குகிறது; Part 001 scan 20 printed page **xix**-இல் முடிவதால் source continuity நேரடியாக உறுதியாகிறது.
 
@@ -27,15 +27,19 @@ Part 002-ல் புதிய edition statement இல்லை; publication m
 - page records: **20 / 20**
 - `verified`: **19**
 - `partial`: **1** — scan 8 handwritten facsimile
-- `needs-review`: **0**
 - Audit report: [`AUDIT_PART_001.md`](AUDIT_PART_001.md)
 - Release decision: **ARCHIVAL-READY WITH ONE DOCUMENTED PARTIAL FACSIMILE**
 
-Scan 8 high-resolution review செய்யப்பட்ட source-limited facsimile. உறுதியாகப் பதிவானவை `முகவுரையின் ஒரு முன்னுரை!`, கலைஞரின் கையொப்பம், `27/12/2007`; உட்பகுதி கையெழுத்து ஊகித்து நிரப்பப்படவில்லை.
+## Part 002 — current state
 
-## Part 002 — scan structure
+Part 002 contains **21 pages**, overall scans **21–41**.
 
-Part 002 contains **21 pages**, overall scans **21–41**:
+- page records: **21 / 21**
+- `needs-review`: **21**
+- `not-started`: **0**
+- `verified`: **0**
+
+### Structure
 
 | Overall scan | உள்ளடக்கம் | நிலை |
 |---:|---|---|
@@ -44,41 +48,28 @@ Part 002 contains **21 pages**, overall scans **21–41**:
 | 28–29 | `திருக்குறள் அதிகார அகர வரிசை` | first-pass complete; needs-review |
 | 30–31 | `அதிகார அருஞ்சொற்பொருள் அகரவரிசை` | first-pass complete; needs-review |
 | 32 | `திருக்குறள் / கலைஞர் உரை / அறம்` section-title page | first-pass complete; needs-review |
-| 33 | blank verso / reverse-side bleed-through | first-pass visual record complete; needs-review |
-| 34–35 | `1. வழிபாடு` — குறள் 1–10 | not-started |
-| 36–37 | `2. வான் சிறப்பு` — குறள் 11–20 | not-started |
-| 38–39 | `3. நீத்தார் பெருமை` — குறள் 21–30 | not-started |
-| 40–41 | `4. அறன் வலியுறுத்தல்` — குறள் 31–40 | not-started |
+| 33 | blank verso / reverse-side bleed-through | visual record complete; needs-review |
+| 34–35 | `1. வழிபாடு` — குறள் 1–10 + கலைஞர் உரை | first-pass complete; needs-review |
+| 36–37 | `2. வான் சிறப்பு` — குறள் 11–20 + கலைஞர் உரை | first-pass complete; needs-review |
+| 38–39 | `3. நீத்தார் பெருமை` — குறள் 21–30 + கலைஞர் உரை | first-pass complete; needs-review |
+| 40–41 | `4. அறன் வலியுறுத்தல்` — குறள் 31–40 + கலைஞர் உரை | first-pass complete; needs-review |
 
-Part 002 current count:
-
-- source pages: **21**
-- page records created: **13 / 21** — scans 21–33
-- `needs-review`: **13** — scans 21–33
-- `not-started`: **8** — scans 34–41
-- `verified`: **0** in Part 002 so far
-
-## Scans 28–33 — completed first pass
+## Scans 34–41 — first-pass transcription complete
 
 Created:
 
-- `pages/0028-athikara-akara-varisai-01.md`
-- `pages/0029-athikara-akara-varisai-02.md`
-- `pages/0030-athikara-arunchol-akaravarisai-01.md`
-- `pages/0031-athikara-arunchol-akaravarisai-02.md`
-- `pages/0032-aram-title.md`
-- `pages/0033-blank.md`
+- `pages/0034-aram-vazhipadu-01.md`
+- `pages/0035-aram-vazhipadu-02.md`
+- `pages/0036-aram-vaan-sirappu-01.md`
+- `pages/0037-aram-vaan-sirappu-02.md`
+- `pages/0038-aram-neeththar-perumai-01.md`
+- `pages/0039-aram-neeththar-perumai-02.md`
+- `pages/0040-aram-aran-valiyuruththal-01.md`
+- `pages/0041-aram-aran-valiyuruththal-02.md`
 
-The two authority-index pages preserve source order and printed authority numbers; the two அருஞ்சொற்பொருள் pages preserve the printed term/meaning pairings. Source-visible differences between index sections are not silently harmonized. Examples to recheck during final verification include `உறுப்புநலன் அழிதல்` vs `உறுப்பு நலன் அழிதல்`, `செய்ந்நன்றியறிதல்` vs `செய்ந்நன்றி யறிதல்`, and `நாணுத் துறவுரைத்தல்` vs `நாணுத்துறவு உரைத்தல்`.
+The Kural text and Kalaignar commentary were transcribed from the supplied scan itself. Apparent source-specific spacing and forms are retained for later verification rather than replaced from a standard/web edition.
 
-Scan 32 records `திருக்குறள் / கலைஞர் உரை / அறம்`; its `xxxi` pagination comes from the same-source contents/sequence because the numeral itself is not visibly printed. Scan 33 contains no current-page printed body text; reverse-side bleed-through is deliberately excluded and the page remains `needs-review` until an explicit final visual pass.
-
-## Part 002 — source-sensitive observations
-
-- scan 27 (`பதிப்புரை`) has no visible printed numeral on the page itself. `xxvi` is supported by the book's contents page plus the surrounding `xxv` → `xxvii` sequence.
-- scan 32 (`அறம்` title page) likewise has no visible numeral; the contents page places `அறத்துப்பால்` at `xxxi` and the preceding index ends at `xxx`.
-- scan 34 is the first numbered body page (**1**) and begins `அறம் - பாயிரம் - வழிபாடு`.
-- Kural wording must be preserved exactly as printed in this scan, even where spacing, sandhi, spelling or typography differs from another edition.
+Examples requiring especially close verification in the next pass include source forms such as `வானின் றுலகம்`, `உள்நின் றுடற்றும்`, `அகல்விசும்பு ளார்கோமான்`, `அறத்தா றிதுவென`, and the scan-37 commentary phrase currently read as `ஒழுக்கமே கெட்டகடும்`.
 
 ## Source-first rule
 
@@ -88,12 +79,12 @@ Scan 32 records `திருக்குறள் / கலைஞர் உர�
 
 ## அடுத்த செயல்
 
-**Part 002 scans 34–41 — main commentary body**:
+**Part 002 direct visual verification**:
 
-1. scans 34–35 — `1. வழிபாடு`, குறள் 1–10 + கலைஞர் உரை;
-2. scans 36–37 — `2. வான் சிறப்பு`, குறள் 11–20 + உரை;
-3. scans 38–39 — `3. நீத்தார் பெருமை`, குறள் 21–30 + உரை;
-4. scans 40–41 — `4. அறன் வலியுறுத்தல்`, குறள் 31–40 + உரை;
-5. preserve exact printed Kural line breaks, numbering, spelling, spacing and commentary; keep all new pages `needs-review` until the later verification round.
+1. scans **21–27** — மதிப்புரை + பதிப்புரை;
+2. scans **28–33** — indexes / title / blank;
+3. scans **34–41** — Kural 1–40 + Kalaignar commentary;
+4. source-supported corrections மட்டும் செய்ய வேண்டும்;
+5. verification முடிந்த பிறகு `AUDIT_PART_002.md` உருவாக்கி release decision பதிவு செய்ய வேண்டும்.
 
 விரிவான page-level நிலை: [`indexes/page-map.md`](indexes/page-map.md).
