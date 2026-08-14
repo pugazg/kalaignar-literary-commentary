@@ -12,7 +12,7 @@ When context requires a different rendering, preserve the source meaning and rec
 | கலைஞர் உரை | Kalaignar's Commentary | In prose, `Kalaignar's Commentary on the Thirukkural` is also acceptable. |
 | குறளோவியம் | Kuraloviyam | Retain the work title in transliteration. |
 | சங்கத்தமிழ் | Sangathamizh | Retain the source work title in transliteration in the current project translation. |
-| முப்பால் | Muppaal | Provisional retention for the traditional three-part designation of the Thirukkural; review before release rather than silently replacing it with another title. |
+| முப்பால் | Muppaal | Source-check of the Professor's Foreword retains this source term rather than replacing it with another title. Final presentation remains for editorial review. |
 | அறம் | Aram / virtue / right conduct | Prefer `Aram` in structural labels; translate contextually in prose. |
 | அறத்துப்பால் | Book of Aram (Virtue / Right Conduct) | First significant English use may include gloss; later `Book of Aram`. |
 | பொருட்பால் | Book of Porul | Retain `Porul` in structural labels until a later section-level review establishes whether a gloss should accompany it. |
@@ -87,7 +87,7 @@ These are **provisional controlled headings**. If a better rendering is adopted 
 | வாழ்க்கைத் துணை | life partner / spouse | Use `life partner` in heading; `spouse` may suit prose. |
 | மனைவி | wife | Preserve source gender specificity. |
 | பிறன் மனைவி | another man's wife | Do not neutralize to `another's partner` in passages where the Tamil is explicit. |
-| ஊழ் | oozh / fate / consequence of conditions | When the source theorizes the term itself, retain `oozh`; do not flatten the whole discussion to `fate`. |
+| ஊழ் | oozh / fate / consequence of conditions | When the source theorizes the term itself, retain `oozh`; source-check of scan 9 confirmed retention in the Professor's Foreword. Do not flatten the whole discussion to `fate`. |
 | இயற்கை நிலை | natural condition | Nannan states that Kalaignar gives this meaning to `ஊழ்`; preserve that attribution rather than generalizing it as a project definition. |
 | பகுத்தறிவு | rational inquiry; rationalism | Use `rationalist` for `பகுத்தறிவாளர்` where the source identifies Kalaignar as such. |
 | வருணம் | varna | Retain the social-category term where the source explicitly uses it. |
@@ -106,8 +106,8 @@ These are **provisional controlled headings**. If a better rendering is adopted 
 
 | Tamil source form | Draft treatment | Review note |
 |---|---|---|
-| திருவிடம் | Tiruvidam | The verified source reads `திருவிடம்`. Do not silently normalize it to a different Tamil form. Final semantic treatment remains for Part 001 editorial review. |
-| வாயுறை | counsel | Provisional rendering in scan 10; review in the source-check pass because the poetic compound is context-sensitive. |
+| திருவிடம் | Tiruvidam | Source-check of scan 10 confirms that the verified Tamil archival text reads `திருவிடம்`; retain **Tiruvidam** rather than silently normalizing it. Final semantic treatment remains for Part 001 editorial review. |
+| வாயுறை | counsel | Source-check found no source basis to replace this provisional scan-10 rendering; retain **counsel** for now and settle the poetic nuance during editorial review. |
 | அடுத்தூர்வது அஃதொப்பதில் | “to meet what comes upon us in like measure” | Provisional scan-19 rendering. Recheck syntax and immediate source argument during source-check; do not replace it from an external Kural translation. |
 
 ## Names and established forms
