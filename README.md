@@ -6,7 +6,7 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Part 001 archival-ready; Part 002 **21/21 visually verified, audit pending** |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Part 001 archival-ready; Part 002 **ARCHIVAL-READY** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில மொழிபெயர்ப்பு | பின்னர் சேர்க்கப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -22,6 +22,7 @@ works/
   thirukkural/
     README.md
     AUDIT_PART_001.md
+    AUDIT_PART_002.md
     metadata/
     indexes/
     pages/
@@ -58,13 +59,13 @@ works/
 - page records: **21 / 21**
 - `verified`: **21 / 21**
 - `needs-review`: **0**
-- `not-started`: **0**
-- audit/release report: **pending**
+- release decision: **ARCHIVAL-READY**
+- audit: [`works/thirukkural/AUDIT_PART_002.md`](works/thirukkural/AUDIT_PART_002.md)
 
-The full Part 002 visual-verification cycle is complete. Scans 21–33 cover the end of `மதிப்புரை`, `பதிப்புரை`, both index sections, the `அறம்` title page and blank verso. Scans 34–41 cover Kural **1–40** and Kalaignar's commentary across `வழிபாடு`, `வான் சிறப்பு`, `நீத்தார் பெருமை`, and `அறன் வலியுறுத்தல்`.
+Part 002 covers the end of `மதிப்புரை`, `பதிப்புரை`, both index sections, the `அறம்` title/blank pages, and Kural **1–40** with Kalaignar's commentary across `வழிபாடு`, `வான் சிறப்பு`, `நீத்தார் பெருமை`, and `அறன் வலியுறுத்தல்`.
 
-The final body-page pass confirmed the source-specific Kural forms and corrected one genuine first-pass reading on scan 37: `ஒழுக்கமே கெட்டகடும்` → **`ஒழுக்கமே கெட்டுக்கூடும்`**.
+The audit confirms complete Part 002 coverage with one record for each overall scan **21–41**, all 21 records visually verified, source-supported pagination distinctions retained, and no remaining unresolved Part 002 page.
 
-Next activity: run the **Part 002 release/audit pass**, create `works/thirukkural/AUDIT_PART_002.md`, and record the release decision.
+The currently supplied Thirukkural material ends at overall scan **41** / printed page **8**. Continue only when the next source PDF batch is supplied and its continuity is verified from the scan itself.
 
 விரிவான நிலை: [`works/thirukkural/README.md`](works/thirukkural/README.md) மற்றும் [`works/thirukkural/indexes/page-map.md`](works/thirukkural/indexes/page-map.md).
