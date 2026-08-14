@@ -41,23 +41,23 @@ Review artefacts:
 - [`reviews/PART_001_REVIEW.md`](reviews/PART_001_REVIEW.md)
 - [`reviews/PART_001_RELEASE_REPORT.md`](reviews/PART_001_RELEASE_REPORT.md)
 
-## Part 002 — FIRST PASS COMPLETE / SOURCE-CHECK IN PROGRESS
+## Part 002 — SOURCE-CHECK COMPLETE
 
-Part 002 has **21/21 aligned English records** covering scans **21–41**.
+Part 002 has **21/21 aligned English records**, and all **21/21 are now `source-checked`**.
 
-Current counts:
-
-- `source-checked`: **13** — scans 21–33
-- `draft`: **8** — scans 34–41
+- `source-checked`: **21** — scans 21–41
+- `draft`: **0**
 - `editorial-reviewed`: **0**
 - `release-ready`: **0**
 
-Scans **21–27** have completed source-check with fidelity-first corrections to Nannan's prose and quoted Kurals. Scans **28–33** are now also source-checked: chapter-index order/numbers were verified, the edition's own `அருஞ்சொற்பொருள்` explanations were preserved rather than replaced by conventional definitions, scan 32's inferred **xxxi** pagination basis was retained explicitly, and scan 33 remains only a blank / bleed-through record.
+The source-check remained fidelity-first throughout. Front matter, indexes, source glossaries, Kural verses and Kalaignar's commentary were checked directly against their verified Tamil records.
 
-Notable source-close corrections in scans 28–31 include **Possession of Compassion** for `அருளுடைமை`, **Possession of Little Understanding** for `புல்லறிவாண்மை`, **Sulking with the Heart** for `நெஞ்சொடு புலத்தல்`, and the exact source-gloss distinction **Worship | Following** for `வழிபாடு | பின்பற்றுதல்`.
+Main-body source-check decisions deliberately preserve Kalaignar's own readings. `ஆதி பகவன்` remains **Aadhi Bhagavan**; Kural 5 retains `iraivan` rather than importing a doctrinal title; Kural 8 retains `anthanar` with Kalaignar's own explanation that it means worthy people; Kural 10 follows Kalaignar's reading of the great sea as **life** and `இறைவன்` as **the one who stands foremost**; Kural 25 preserves his explicit Indra interpretation; Kural 30 retains his compassion-based definition of `anthanar`; and Kural 38 keeps his image of good deeds as **the stone that sets the path of life in order**.
+
+Other fidelity corrections include retaining Kalaignar's Kural-12 image that rain becomes **the food they drink**, preserving the Kural-20 warning that conduct may deteriorate without rain, and removing the unsupported first-pass word **“display”** from Kural 34's `ஆரவாரம்` / **clamour**.
 
 See [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md) for the detailed source-check record.
 
 ## Next activity
 
-Complete the dedicated **Part 002 source-check with scans 34–41**, Kural **1–40** plus Kalaignar's commentary. Preserve Kalaignar's own readings—especially `ஆதி பகவன்`, `இறைவன்`, `அந்தணர்`, the Indra example and Kural 38's image—rather than substituting conventional external interpretations. Editorial consistency review begins only after all 21 Part 002 pages are source-checked.
+Begin the **Part 002 editorial-consistency / glossary-reconciliation review across scans 21–41**. Review terminology, repeated Kural wording, chapter titles, punctuation, names and readability while preserving all source-check fidelity decisions. Any cross-part decision involving released Part 001 must be explicitly documented rather than silently changed. Do not perform the Part 002 release gate in the same activity.
