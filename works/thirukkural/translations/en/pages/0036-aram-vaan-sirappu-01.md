@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Prefatory Chapters — The Excellence of Rain"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -21,7 +21,7 @@ Since it is rain that keeps the world alive, rain itself is called nectar.
 **12. Rain produces food for those who eat,  
 and for those who eat, rain itself becomes food.**
 
-For the very people for whom rain serves by producing food, that same rain also becomes the water they consume, making a rare sacrifice.
+For the very people for whom rain serves by producing food, that same rain also becomes the food they drink, making a rare sacrifice.
 
 **13. If the sky fails, hunger will torment  
 within the vast world surrounded by broad waters.**
@@ -37,5 +37,7 @@ If the wealth of the resource called rain declines, agriculture itself will decl
 and by falling, it can raise up those whose lives have declined.**
 
 Rain can destroy the lives of living beings by failing to fall; and when it does fall, it is rain itself that adds prosperity to their weakened lives.
+
+> Source-check note: Kural 12's commentary deliberately retains Kalaignar's formulation that rain becomes **the food they drink** (`அவர்கள் அருந்தும் உணவு`) rather than smoothing the image into simply “water.”
 
 <!-- Source scan page: 36; Part 002 local page: 16; printed page: 3 -->
