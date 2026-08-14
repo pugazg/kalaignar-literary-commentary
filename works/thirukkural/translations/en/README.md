@@ -44,20 +44,8 @@ The currently archived main-body Tamil reaches Kural **145**.
 
 Part 001 has **20/20 aligned English records** and has completed first pass, source-check, editorial consistency review and release gate.
 
-Final state:
-
-- scans **1–7**: `release-ready`;
-- scan **8**: `source-limited`;
-- scans **9–20**: `release-ready`.
-
-Counts:
-
-- `release-ready`: **19**
-- `source-limited`: **1**
-- `editorial-reviewed`: **0**
-- `source-checked`: **0**
-- `draft`: **0**
-- `blocked`: **0**
+- `release-ready`: **19** — scans 1–7 and 9–20
+- `source-limited`: **1** — scan 8
 
 Release decision: **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**.
 
@@ -66,26 +54,39 @@ Review artefacts:
 - [`reviews/PART_001_REVIEW.md`](reviews/PART_001_REVIEW.md)
 - [`reviews/PART_001_RELEASE_REPORT.md`](reviews/PART_001_RELEASE_REPORT.md)
 
-### Documented source limitations
+Scan 8 remains source-limited and unreconstructed. Part 001 scan 19 deliberately retains `அடுத்தூர்வது அஃதொப்பதில்` in Tamil; the Part 001 release is not altered merely because later source context appears.
 
-Scan 8 remains `source-limited` because its continuous handwritten body is not securely readable in the controlling Tamil facsimile. The English record does not reconstruct it.
+### Part 002 — FIRST PASS IN PROGRESS
 
-On scan 19, `அடுத்தூர்வது அஃதொப்பதில்` remains intentionally in Tamil with a translation note because the audited source does not establish a sufficiently secure English expansion. This is a documented editorial retention, not a hidden omission.
+Part 002 now has **7/21 aligned English drafts**, covering scans **21–27**:
 
-The scan-20 Kural examples **1101, 1098 and 17** remain project translations from this archived Tamil source; no published English Kural wording has been substituted.
+- scans **21–26** — completion of Professor Ma. Nannan's **Critical Appreciation**;
+- scan **27** — **Publisher's Note**.
 
-### Controlled terminology
+Current Part 002 counts:
 
-Part 001 release retains the reviewed treatment of **Muppaal**, source-specific **Tiruvidam**, **Oozh / oozh**, **counsel** for `வாயுறை`, **Following a Woman's Lead**, ***pirithu mozhithal***, and the scan-20 literary headings. The distinction between **Invocation to God** and **Worship** remains mandatory.
+- `draft`: **7**
+- `source-checked`: **0**
+- `editorial-reviewed`: **0**
+- `release-ready`: **0**
+- `source-limited`: **0**
+- `blocked`: **0**
+
+New draft terminology from this batch is recorded in [`GLOSSARY.md`](GLOSSARY.md), including **Commentary in Kural Form**, **Grace of Interposed Words**, **Clarity**, **Concise Explanation**, **New Meaning**, **Entirely Fresh Explanation**, **Subtle Penetrating Insight**, and the source-specific `புத்தேளிர்` discussion.
+
+Two items are deliberately marked for later Part 002 review:
+
+- scan 25 supplies the full quoted Kural containing `அடுத்தூர்வது அஃதொப்பதில்`; the current Part 002 rendering **“nothing equals pressing forward to meet it”** is only a first-pass draft and must be source-checked before any cross-part revision;
+- scan 26 retains `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு` in Tamil with a contextual gloss because the metaphor does not yet have a settled project equivalent.
+
+Scan 27 preserves printed page **xxvi** as an explicit same-source pagination inference; the numeral is not visibly printed on that scan.
 
 See:
 
 - [`TRANSLATION_GUIDE.md`](TRANSLATION_GUIDE.md)
 - [`GLOSSARY.md`](GLOSSARY.md)
 - [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md)
-- [`reviews/PART_001_REVIEW.md`](reviews/PART_001_REVIEW.md)
-- [`reviews/PART_001_RELEASE_REPORT.md`](reviews/PART_001_RELEASE_REPORT.md)
 
 ## Next activity
 
-Begin **Part 002 English first-pass translation with scans 21–27**: the remaining pages of Professor Ma. Nannan's **Critical Appreciation** followed by the **Publisher's Note**. Create matching English records as `draft` and continue the Part 001 controlled glossary unless new source context requires a documented addition or revision.
+Continue **Part 002 first-pass translation with scans 28–33**: the alphabetical chapter index, chapter-term glossary index, `அறம்` section-title page, and blank verso. Create all six aligned English files as `draft`, preserving entry order, numbers, inferred-pagination notes, and blank-page status exactly. The Kural 1–40 translation batch begins only after scans 28–33 are complete.
