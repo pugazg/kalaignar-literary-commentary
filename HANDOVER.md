@@ -43,8 +43,8 @@ Source: `திருக்குறள்_கலைஞர்_உரை_part_002
 - overall scan range: **21–41**
 - source continuity confirmed: local page 1 / overall scan 21 is printed **xx**, directly after Part 001 scan 20 / printed **xix**
 - page records exist for **all scans 21–41**
-- `verified`: **7** — scans 21–27
-- `needs-review`: **14** — scans 28–41
+- `verified`: **13** — scans 21–33
+- `needs-review`: **8** — scans 34–41
 - `not-started`: **0**
 
 ### Part 002 scan map
@@ -56,12 +56,12 @@ Source: `திருக்குறள்_கலைஞர்_உரை_part_002
 - 25 / xxiv — நுண்மாண் நுழைபுலம் continuation / `6. நன்றி` — **verified**
 - 26 / xxv — `நன்றி` conclusion of மதிப்புரை — **verified**
 - 27 / xxvi* — `பதிப்புரை`, signed `பூம்புகார் பதிப்பகத்தார்` — **verified**
-- 28 / xxvii — `திருக்குறள் அதிகார அகர வரிசை` page 1 — needs-review
-- 29 / xxviii — same index page 2 — needs-review
-- 30 / xxix — `அதிகார அருஞ்சொற்பொருள் அகரவரிசை` page 1 — needs-review
-- 31 / xxx — same index page 2 — needs-review
-- 32 / xxxi* — `திருக்குறள் / கலைஞர் உரை / அறம்` title page — needs-review
-- 33 / — — blank verso with reverse-side bleed-through only — needs-review
+- 28 / xxvii — `திருக்குறள் அதிகார அகர வரிசை` page 1 — **verified**
+- 29 / xxviii — same index page 2 — **verified**
+- 30 / xxix — `அதிகார அருஞ்சொற்பொருள் அகரவரிசை` page 1 — **verified**
+- 31 / xxx — same index page 2 — **verified**
+- 32 / xxxi* — `திருக்குறள் / கலைஞர் உரை / அறம்` title page — **verified**
+- 33 / — — blank verso with reverse-side bleed-through only — **verified**
 - 34 / 1 — `1. வழிபாடு`, குறள் 1–5 + Kalaignar commentary — needs-review
 - 35 / 2 — `1. வழிபாடு`, குறள் 6–10 + commentary — needs-review
 - 36 / 3 — `2. வான் சிறப்பு`, குறள் 11–15 + commentary — needs-review
@@ -77,7 +77,7 @@ Source: `திருக்குறள்_கலைஞர்_உரை_part_002
 
 Direct visual comparison against Part 002 local PDF pages 1–7 is complete.
 
-Each verified page now uses:
+Each verified page uses:
 
 - `status: "verified"`
 - `transcription_method: "direct visual comparison with source scan"`
@@ -106,15 +106,50 @@ The final visual pass found genuine first-pass errors and corrected them from th
 
 The page itself does not visibly print `xxvi`; `xxvi` remains a same-source pagination inference from the contents and `xxv → xxvii` sequence, not invented visible text.
 
-## Index distinctions that must remain separate
+## Verification completed — scans 28–33
 
-When verifying scans 28–31, do not harmonize the two index sections. Existing source-specific differences include:
+Direct visual comparison against Part 002 local PDF pages 8–13 is complete.
+
+### Scans 28–29 — `திருக்குறள் அதிகார அகர வரிசை`
+
+Every listed authority name and authority number was checked against the scan. The source entries matched the first-pass transcription.
+
+Source forms retained include:
+
+- `உறுப்புநலன் அழிதல்`
+- `செய்ந்நன்றியறிதல்`
+- `நாணுத் துறவுரைத்தல்`
+- `படர்மெலிந் திரங்கல்`
+- `மன்னரைச்சேர்ந்தொழுகல்`
+- `வாழ்க்கைத் துணைநலம்`
+
+The non-source editorial heading `அதிகார எண் — தொடர்ச்சி` that had been introduced in the scan-29 Markdown was removed; the source page itself prints only the continuing index columns / column headings.
+
+### Scans 30–31 — `அதிகார அருஞ்சொற்பொருள் அகரவரிசை`
+
+Every term/meaning pair was directly checked. Source differences from scans 28–29 remain intentionally distinct:
 
 - scan 28 `உறுப்புநலன் அழிதல்` vs scan 30 `உறுப்பு நலன் அழிதல்`
 - scan 28 `செய்ந்நன்றியறிதல்` vs scan 30 `செய்ந்நன்றி யறிதல்`
 - scan 29 `நாணுத் துறவுரைத்தல்` vs scan 30 `நாணுத்துறவு உரைத்தல்`
+- scan 31 `பெண் வழிச் சேறல்` is preserved with the source's spacing
+- scan 31 `படைச் செருக்கு` is preserved with the source's spacing
 
-Only the exact scan may justify a correction.
+The non-source editorial continuation heading previously added to scan 31 was removed; the source page is a continuation of the same index without that printed heading.
+
+### Scan 32 — `அறம்` title page
+
+Source text confirmed exactly as:
+
+- `திருக்குறள்`
+- `கலைஞர் உரை`
+- `அறம்`
+
+No numeral is visibly printed. `xxxi` remains recorded only because Part 001 contents says `அறத்துப்பால் — xxxi` and the surrounding front-matter sequence supports it.
+
+### Scan 33 — blank verso
+
+Confirmed as current-page-text-free. Only reverse-side bleed-through is visible. It is now `verified`; bleed-through remains excluded from body transcription.
 
 ## Main-body forms still awaiting verification
 
@@ -138,16 +173,18 @@ Scans 34–41 are first-pass only. Preserve and check closely:
 
 ## Next exact activity
 
-Run direct visual verification for **Part 002 scans 28–33**.
+Run direct visual verification for **Part 002 scans 34–41**.
 
-1. scan 28 / xxvii — verify first page of `திருக்குறள் அதிகார அகர வரிசை`, including every authority name/number and source word joining.
-2. scan 29 / xxviii — verify the second page of that index.
-3. scan 30 / xxix — verify first `அதிகார அருஞ்சொற்பொருள் அகரவரிசை` page; preserve its own term forms.
-4. scan 31 / xxx — verify the second அருஞ்சொற்பொருள் page.
-5. scan 32 — verify `திருக்குறள் / கலைஞர் உரை / அறம்`; keep `xxxi` explicitly source-supported/inferred because the numeral is not visible on the page.
-6. scan 33 — verify that there is no current-page body text and that visible content is reverse-side bleed-through only; then it may be promoted to `verified`.
-7. After scans 28–33, proceed to main-body scans 34–41.
-8. When all Part 002 pages are reviewed, create `works/thirukkural/AUDIT_PART_002.md` and record a release decision.
+1. scan 34 / printed 1 — `வழிபாடு`, குறள் 1–5 + Kalaignar commentary.
+2. scan 35 / printed 2 — `வழிபாடு`, குறள் 6–10 + commentary.
+3. scan 36 / printed 3 — `வான் சிறப்பு`, குறள் 11–15 + commentary.
+4. scan 37 / printed 4 — `வான் சிறப்பு`, குறள் 16–20 + commentary; resolve the currently uncertain commentary phrase only from this exact scan.
+5. scan 38 / printed 5 — `நீத்தார் பெருமை`, குறள் 21–25 + commentary.
+6. scan 39 / printed 6 — `நீத்தார் பெருமை`, குறள் 26–30 + commentary.
+7. scan 40 / printed 7 — `அறன் வலியுறுத்தல்`, குறள் 31–35 + commentary.
+8. scan 41 / printed 8 — `அறன் வலியுறுத்தல்`, குறள் 36–40 + commentary.
+9. Preserve exact printed Kural numbers, line breaks, spelling, word joining, punctuation and Kalaignar commentary. Do not substitute a standard/web Kural text.
+10. After scans 34–41 are verified, create `works/thirukkural/AUDIT_PART_002.md` and record a release decision.
 
 ## Source authority rule
 
