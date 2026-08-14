@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Critical Appreciation — Subtle Penetrating Insight / Gratitude"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -20,7 +20,7 @@ nothing equals that for driving it away.**
 
 If the thought of this Kural is considered together with the preceding commentary, we can see the richness of Kalaignar's scholarship shine forth.
 
-> Source-check note: this page supplies the complete quoted Kural containing `அடுத்தூர்வது அஃதொப்பதில்`, which Part 001 deliberately retained untranslated when only the compact phrase appeared there. The first-pass wording “pressing forward to meet it” added an image not securely required by this source. The source-checked rendering therefore stays closer to the verse and Nannan's immediately preceding explanation: **“nothing equals that for driving it away.”** The released Part 001 scan-19 record is not changed in this source-check batch.
+> Editorial review note: this page supplies the complete quoted Kural containing `அடுத்தூர்வது அஃதொப்பதில்`, which Part 001 deliberately retained untranslated when only the compact phrase appeared there. The Part 002 rendering **“nothing equals that for driving it away”** is retained because it stays close to the complete verse and Nannan's immediately preceding explanation. The released Part 001 scan-19 record remains unchanged; that difference is intentional and documented rather than silently harmonized.
 
 ## 6. Gratitude
 
