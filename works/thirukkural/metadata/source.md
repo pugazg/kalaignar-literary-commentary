@@ -48,8 +48,8 @@
   - `14. ஒழுக்கம் உடைமை` — 131–140;
   - `15. பிறனில் விழையாமை` begins with Kural 141–145 on printed page 29.
 - Current processing state: **21/21 page records created**.
-- Verification state: **7 verified (scans 42–48), 14 needs-review (scans 49–62)**.
-- Direct visual comparison of scans 42–48 found no first-pass text differences; their wording, spacing and punctuation were retained as printed.
+- Verification state: **14 verified (scans 42–55), 7 needs-review (scans 56–62)**.
+- Direct visual comparison of scans 42–48 and 49–55 found no first-pass text differences; wording, source spacing, punctuation and commentary were retained as printed.
 
 ## Publication details visible in Part 001
 
@@ -114,4 +114,4 @@ Part 002 confirms the end of the front matter and the start of `அறம்`; P
 
 The supplied scans are the controlling sources for this edition. No external Thirukkural text, later edition, web transcription, remembered Kural wording, or modernized Tamil may silently replace what is printed here.
 
-Part 003 pages remain `needs-review` until independently compared against their exact source scan; scans 42–48 have completed that comparison and are now `verified`.
+Part 003 scans 42–55 have completed independent direct visual comparison and are `verified`; scans 56–62 remain `needs-review` until their exact source pages are compared.
