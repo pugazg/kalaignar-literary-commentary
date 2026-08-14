@@ -51,16 +51,17 @@ Permanent cadence:
 
 Release decision: **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**.
 
-### Part 002 English — FIRST PASS COMPLETE / SOURCE-CHECK IN PROGRESS
+### Part 002 English — SOURCE-CHECK COMPLETE
 
 - English page files: **21 / 21**
-- `source-checked`: **13** — scans 21–33
-- `draft`: **8** — scans 34–41
-- editorial/release: not yet started
+- `source-checked`: **21** — scans 21–41
+- `draft`: **0**
+- `editorial-reviewed`: **0**
+- `release-ready`: **0**
 
-Scans 21–27 have completed fidelity-first source-check. Scans 28–33 are now also source-checked. The full chapter index retains source order and chapter numbers; this edition's own `அருஞ்சொற்பொருள்` explanations are translated as printed rather than replaced by conventional definitions. Source-close corrections include `அருளுடைமை` → **Possession of Compassion**, `புல்லறிவாண்மை` → **Possession of Little Understanding**, and `நெஞ்சொடு புலத்தல்` → **Sulking with the Heart**.
+All Part 002 English pages have now been compared directly with their verified Tamil records. The source-check preserves this edition's own index order and glossary wording and, in the main body, Kalaignar's own interpretations rather than familiar external ones.
 
-The source glossary keeps distinctions such as `வழிபாடு | பின்பற்றுதல்` → **Worship | Following**, `பெண் வழிச் சேறல் | பெண் பித்தராதல்` → **Following a Woman's Lead | Becoming obsessed with women**, and `வரைவின் மகளிர் | விலை மகளிர்` with its gloss **Women for hire**. Scan 32 retains **xxxi** only as a documented same-source pagination inference; scan 33 remains blank / reverse-side bleed-through only.
+Key main-body decisions include retaining **Aadhi Bhagavan**, `iraivan`, and `anthanar` where Kalaignar's commentary makes those terms themselves significant; following his explicit reading of Kural 10's great sea as **life** and `இறைவன்` as **the one who stands foremost**; preserving his Indra interpretation in Kural 25; and retaining Kural 38's image of good deeds as **the stone that sets the path of life in order**.
 
 ### Part 003 English
 
@@ -75,6 +76,6 @@ The source glossary keeps distinctions such as `வழிபாடு | பி�
 
 ## அடுத்த செயல்
 
-Complete the dedicated **Part 002 English source-check with scans 34–41**, covering Kural **1–40** plus Kalaignar's commentary. Special attention remains on preserving Kalaignar's own readings of `ஆதி பகவன்`, `இறைவன்`, `அந்தணர்`, Indra and Kural 38's image rather than replacing them with conventional external interpretations. Only after all 21 pages are source-checked should Part 002 editorial consistency review begin.
+Begin the **Part 002 English editorial-consistency / glossary-reconciliation review across scans 21–41**. Review terminology, repeated Kural wording, chapter titles, punctuation, names and readability while preserving all source-check fidelity decisions. Any cross-part decision involving released Part 001 must be explicitly documented. Do not perform the release gate in the same activity.
 
 Tamil source intake can later continue from overall scan **63** only when a newly supplied scan itself confirms continuity after scan 62 / printed page 29 / Kural 145.
