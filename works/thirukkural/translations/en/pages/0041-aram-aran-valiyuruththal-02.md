@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Prefatory Chapters — Affirming Aram"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -24,7 +24,7 @@ Those who walk in the path of aram will travel through life joyfully, regarding 
 **38. If one performs good so that not even a single day passes uselessly,  
 those good deeds become the stone that sets one's path of life in order.**
 
-For a person who does not let even a single day pass without benefit and remains continually engaged in good deeds, those very deeds become the stone that shapes and sets the path of life in order.
+For a person who does not let even a single day pass without benefit and remains continually engaged in good deeds, those very good deeds become the stone that sets the path of life in order.
 
 **39. The happiness that comes through aram alone is happiness;  
 what comes by other ways is neither worthy of praise nor true happiness.**
@@ -35,5 +35,7 @@ Happiness arises from the praise that comes through a life lived on the path of 
 what is to be avoided is blame.**
 
 Avoiding deeds worthy of blame and taking an interest in praiseworthy actions on the path of aram is what brings a person fame.
+
+> Source-check note: Kural 38 deliberately follows Kalaignar's own explanation of `வாழ்நாள் வழியடைக்கும் கல்`: the good deeds themselves become **the stone that sets the path of life in order**. The first-pass word **“shapes”** was removed because Kalaignar's commentary specifically says the stone sets and orders the life-path. No conventional external interpretation is substituted.
 
 <!-- Source scan page: 41; Part 002 local page: 21; printed page: 8 -->
