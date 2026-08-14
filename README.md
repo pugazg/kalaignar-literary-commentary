@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–003 audited / archival-ready for supplied material |
-| Thirukkural — Kalaignar's Commentary | English project translation | Part 001 released; Part 002 **13/21 drafts complete** |
+| Thirukkural — Kalaignar's Commentary | English project translation | Part 001 released; Part 002 **21/21 first-pass drafts complete** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -30,49 +30,32 @@
 
 Tamil Parts 001–003 are archival-ready for the supplied material. The Tamil archive currently reaches overall scan **62** / printed page **29** / Kural **145**.
 
-Audits:
-
-- [`works/thirukkural/AUDIT_PART_001.md`](works/thirukkural/AUDIT_PART_001.md)
-- [`works/thirukkural/AUDIT_PART_002.md`](works/thirukkural/AUDIT_PART_002.md)
-- [`works/thirukkural/AUDIT_PART_003.md`](works/thirukkural/AUDIT_PART_003.md)
-
-## Thirukkural English project translation
-
-Framework: [`works/thirukkural/translations/en/`](works/thirukkural/translations/en/README.md)
-
-Permanent cadence:
-
-**Tamil transcription → Tamil visual verification → Tamil audit → English draft → English source-check → editorial consistency review → part-level English release report.**
-
 ### Part 001 English — RELEASE COMPLETE
 
-- aligned English page files: **20 / 20**
-- `release-ready`: **19** — scans 1–7 and 9–20
+- aligned English pages: **20 / 20**
+- `release-ready`: **19**
 - `source-limited`: **1** — scan 8
-
-Release decision: **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**.
+- release decision: **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**
 
 Review artefacts:
 
 - [`works/thirukkural/translations/en/reviews/PART_001_REVIEW.md`](works/thirukkural/translations/en/reviews/PART_001_REVIEW.md)
 - [`works/thirukkural/translations/en/reviews/PART_001_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_001_RELEASE_REPORT.md)
 
-### Part 002 English — FIRST PASS IN PROGRESS
+### Part 002 English — FIRST PASS COMPLETE
 
-- aligned English page files: **13 / 21**
-- `draft`: **13** — scans 21–33
-- source-check/editorial/release: not yet started
+- aligned English pages: **21 / 21**
+- `draft`: **21**
+- source-check/editorial/release: pending
 
-The completed Part 002 draft layer now includes the end of Professor Ma. Nannan's **Critical Appreciation**, the **Publisher's Note**, the two-page **Alphabetical Index of Chapters**, the two-page **Alphabetical Glossary of Chapter Terms**, the **Aram** title page, and the blank verso.
+Part 002 now includes complete first-pass English for its front matter and Kural **1–40** with Kalaignar's commentary. The main-body draft covers **Worship**, **The Excellence of Rain**, **The Greatness of Renunciants**, and **Affirming Aram**. The project preserves Kural numbering and two-line verse structure and does not substitute published English Thirukkural wording.
 
-The index preserves source order and chapter numbers. English titles newly introduced by the full index remain first-pass project renderings until source-check/editorial review. The glossary pages translate this edition's own explanatory glosses instead of replacing them with outside definitions. Scan 32 preserves inferred printed page **xxxi** with its basis documented; scan 33 does not treat reverse-side bleed-through as body text.
-
-Earlier review-sensitive Part 002 items remain explicit: scan 25's provisional rendering of the complete Kural containing `அடுத்தூர்வது அஃதொப்பதில்`, scan 26's retained `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு`, and scan 27's inferred page **xxvi**.
+Review-sensitive choices remain visible for source-check, including `ஆதி பகவன்`, `இறைவன்`, `அந்தணர்`, Kural 25's Indra example, Kural 38's `வாழ்நாள் வழியடைக்கும் கல்`, scan 25's `அடுத்தூர்வது அஃதொப்பதில்`, scan 26's `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு`, and inferred front-matter pagination.
 
 ### Part 003 English
 
 Not yet started. Tamil scans **42–62** are already audited / archival-ready.
 
-Next English activity: complete **Part 002 scans 34–41**, translating Kural **1–40** and Kalaignar's commentary as eight `draft` page records. Part 002 source-check begins only after those drafts bring the first-pass layer to 21/21.
+Next English activity: begin the dedicated **Part 002 source-check with scans 21–27**. Editorial review begins only after all 21 Part 002 pages are source-checked.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md) and [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md).
