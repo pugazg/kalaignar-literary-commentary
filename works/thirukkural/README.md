@@ -28,6 +28,8 @@ Audits:
 
 The English layer is a **project-created translation**, not a publisher/official English edition. Tamil scans remain the ultimate authority; audited Tamil Markdown pages are the working translation basis.
 
+A key translation rule is now explicit: **retain Kalaignar's language, images and interpretive direction rather than replacing them with familiar standard interpretations.** The same source-fidelity rule applies to Nannan's review and publisher prose: source metaphors and emphases should not be silently smoothed away.
+
 Framework:
 
 - [`translations/en/README.md`](translations/en/README.md)
@@ -49,25 +51,20 @@ Permanent cadence:
 
 Release decision: **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**.
 
-### Part 002 English — FIRST PASS COMPLETE
+### Part 002 English — FIRST PASS COMPLETE / SOURCE-CHECK IN PROGRESS
 
-- Tamil scans **21–41**: audited / archival-ready
 - English page files: **21 / 21**
-- `draft`: **21**
-- source-check/editorial/release: not yet completed
+- `source-checked`: **7** — scans 21–27
+- `draft`: **14** — scans 28–41
+- editorial/release: not yet started
 
-First-pass English now covers all Part 002 material, including front matter, indexes, the Aram title page, blank verso, and Kural **1–40** with Kalaignar's commentary.
+The scans 21–27 source-check restored several source-specific formulations instead of making them smoother but less faithful. In particular:
 
-Main-body coverage:
+- scan 22 keeps `நேர்மை பிறழாப் புதுமை` close to **“innovation that does not depart from fidelity”**;
+- scan 25 now renders the full Kural's second line as **“nothing equals that for driving it away”**, removing the unsupported first-pass image “pressing forward to meet it”;
+- scan 26 preserves `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு` close to the quoted metaphor as **“the low-priced edition of the people's hearts.”**
 
-- scans 34–35 — `1. வழிபாடு` / **Worship**, Kural 1–10;
-- scans 36–37 — `2. வான் சிறப்பு` / **The Excellence of Rain**, Kural 11–20;
-- scans 38–39 — `3. நீத்தார் பெருமை` / **The Greatness of Renunciants**, Kural 21–30;
-- scans 40–41 — `4. அறன் வலியுறுத்தல்` / **Affirming Aram**, Kural 31–40.
-
-The English pages preserve Kural numbers and two-line verse structure and keep Kalaignar's commentary separate. No published English Kural wording or outside commentary was imported. Kural 17 reuses the project's released wording from Part 001 scan 20; Kurals 29 and 37 remain consistent with their earlier Part 002 review examples.
-
-Review-sensitive first-pass choices remain explicit for source-check, including `ஆதி பகவன்`, `இறைவன்`, `அந்தணர்`, the Indra example in Kural 25, Kural 38's `வாழ்நாள் வழியடைக்கும் கல்`, scan 25's `அடுத்தூர்வது அஃதொப்பதில்`, scan 26's `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு`, and inferred pagination on scans 27 and 32.
+Released Part 001 scan 19 remains unchanged at this stage; cross-part revision is not done silently during source-check.
 
 ### Part 003 English
 
@@ -82,6 +79,6 @@ Review-sensitive first-pass choices remain explicit for source-check, including 
 
 ## அடுத்த செயல்
 
-Begin the dedicated **Part 002 English source-check with scans 21–27**. Compare each English draft against its verified Tamil page for omissions, additions, meaning drift, agency, headings, quotations and metadata. Promote only completed pages to `source-checked`. Do not begin editorial review until all Part 002 pages complete source-check.
+Continue the dedicated **Part 002 English source-check with scans 28–33**. Verify the chapter index, source glossary, Aram title page and blank verso against the audited Tamil records, preserving this edition's own wording and definitions rather than normalizing them against another edition. Only completed pages should move to `source-checked`.
 
 Tamil source intake can later continue from overall scan **63** only when a newly supplied scan itself confirms continuity after scan 62 / printed page 29 / Kural 145.
