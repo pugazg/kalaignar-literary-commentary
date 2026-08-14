@@ -49,16 +49,17 @@ Current status:
 - scans 1–7 — `verified`
 - scan 8 — handwritten facsimile — `partial`; high-resolution review complete, uncertain body deliberately not guessed
 - scans 9–12 — `பேராசிரியரின் அணிந்துரை` — `verified`
-- scans 13–19 — மதிப்புரை by பேராசிரியர் மா. நன்னன் — first-pass complete, `needs-review`
+- scans 13–16 — பேராசிரியர் மா. நன்னன்'s `மதிப்புரை` (`தேவை`, `வழிபாடு`, `பெண்வழிச் சேறல்` தொடக்கம்) — `verified`
+- scans 17–19 — `மதிப்புரை` continuation — first-pass complete, `needs-review`
 - scan 20 — `அ. பா நலம்`, `ஆ. அணி நலம்`, `இ. அடை நலம்` begins — first-pass complete, `needs-review`
 
 Current count:
 
-- `verified`: **11**
-- `needs-review`: **8**
+- `verified`: **15**
+- `needs-review`: **4**
 - `partial`: **1**
 
-First-pass transcription of scans 13–20 used the rendered source pages directly. Tamil OCR was used only as an assistant for character recognition and was checked against the scan; OCR is not source authority.
+First-pass transcription of scans 17–20 used the rendered source pages directly. Tamil OCR was used only as an assistant for character recognition and was checked against the scan; OCR is not source authority.
 
 ## Verification completed
 
@@ -75,7 +76,7 @@ No modernization or external-edition substitution was used.
 
 ### Scan 8 — handwritten facsimile
 
-A new **300-DPI high-resolution render** was inspected directly.
+A **300-DPI high-resolution render** was inspected directly.
 
 Confidently recoverable elements:
 
@@ -88,34 +89,49 @@ The continuous handwritten body remains insufficiently legible for a reliable so
 
 ### Scans 9–12 — `பேராசிரியரின் அணிந்துரை`
 
-All four pages were opened at readable/high resolution and compared character by character against the existing Markdown. Printed poetic line breaks, punctuation, quote marks, word joining and visually emphasized lines were preserved.
+All four pages were compared character by character against the existing Markdown. Printed poetic line breaks, punctuation, quote marks, word joining and visually emphasized lines were preserved.
 
 Results:
 
 - scan 9 — `verified`; one first-pass character reading was corrected: `செல்வமீனும்` → **`செல்வமினும்`**, because the exact scan clearly supports `செல்வமினும்`.
 - scan 9 source-supported forms including `மநுவாதிக்கு`, `உற்றிடுமியற்கைச்`, `‘தொழல்’`, and `வான்றோய் முகில்பொழி தூநீர் அனையதாய்` were retained rather than normalized.
 - scans 10–12 — `verified`; no source-supported wording correction was required. Their first-pass transcription was confirmed by direct visual comparison.
-- all four files now use `status: "verified"` and `transcription_method: "direct visual comparison with source scan"`.
+- all four files use `status: "verified"` and `transcription_method: "direct visual comparison with source scan"`.
+
+### Scans 13–16 — `மதிப்புரை`
+
+The first four pages of பேராசிரியர் மா. நன்னன்'s `மதிப்புரை` were compared directly against scans 13–16.
+
+Coverage:
+
+- scan 13 — opening `மதிப்புரை` and `1. தேவை`
+- scan 14 — continuation of `தேவை`
+- scan 15 — `2. வழிபாடு`
+- scan 16 — opening of `3. பெண்வழிச் சேறல்` and numbered explanations 1–4
+
+Results:
+
+- all four pages are now `verified` with `transcription_method: "direct visual comparison with source scan"`.
+- the first-pass wording matched the exact source scan; **no textual correction was required** in this verification batch.
+- source-sensitive forms were explicitly reread and retained from the scan rather than normalized: scan 13 `அய்ந்து`, `ஈகையறம்`, `ஒழுகலாறு`; scan 14 `மன்பதையைச்`; scan 15 `அவைகளை யெல்லாம்`, `உறுதிப்படுத்தப் படாமையால்`; scan 16 `அக் கருத்துக்காட்பட்ட`.
+- paragraph boundaries, quotation marks, section headings and numbered-list wording were also checked against the source.
 
 ## Next exact activity
 
-Continue the **visual verification round with scans 13–16** — the first four pages of பேராசிரியர் மா. நன்னன்'s `மதிப்புரை`.
+Finish the **visual verification round with scans 17–20**.
 
-1. scan 13 — verify the opening of `மதிப்புரை` and `1. தேவை`, including the numbered/quoted wording and paragraph boundaries.
-2. scan 14 — continue `தேவை`; preserve source wording even where it appears archaic, unusual, or editorially awkward.
-3. scan 15 — verify `2. வழிபாடு` completely.
-4. scan 16 — verify the opening of `3. பெண்வழிச் சேறல்`, including the numbered list and the source-sensitive sentence around `அக் கருத்துக்காட்பட்ட ...`.
-5. Correct only what the exact scan supports; do not use an internet Thirukkural text or another edition as a silent authority.
-6. For each completed page, set `status: "verified"`, use `transcription_method: "direct visual comparison with source scan"`, and ensure the source-page marker is present.
-7. Update `works/thirukkural/indexes/page-map.md`, `works/thirukkural/README.md`, and this handover.
+1. scan 17 — verify `பெண்வழிச் சேறல்` numbered explanations 5–10 and the concluding paragraph.
+2. scan 18 — verify `4. ஊழ்`, including the source-sensitive wording and paragraph structure.
+3. scan 19 — verify the continuation of `ஊழ்`, then `5. பல்வகைச் சிறப்புகள்`; confirm the quotation wording directly from the scan.
+4. scan 20 — verify `அ. பா நலம்`, `ஆ. அணி நலம்`, `இ. அடை நலம்`, including every printed Kural line exactly as this edition prints it.
+5. Do not silently replace a printed Kural, quotation, spelling or word-joining form with an internet/standard-edition version.
+6. For each completed page, set `status: "verified"`, use `transcription_method: "direct visual comparison with source scan"`, and retain the source-page marker.
+7. After scans 17–20, update `works/thirukkural/indexes/page-map.md`, `works/thirukkural/README.md`, and this handover. If all printed pages are verified, Part 001 should then have only scan 8 remaining `partial` because of the handwriting source limitation.
 
 ## Source-sensitive forms still pending verification
 
 Treat these as provisional first-pass readings until their own page is visually verified:
 
-- scan 13: `அய்ந்து`, `ஈகையறம்`, `ஒழுகலாறு`
-- scan 14: `மன்பதையைச்`
-- scan 16: the printed form around `அக் கருத்துக்காட்பட்ட ...` requires careful direct confirmation
 - scan 18: `முன்னவை யிரண்டையும்விட`, `இயற்கையின் அமைதி`
 - scan 19: the quotation rendered in first pass as `அடுத்தூர்வது அஃதொப்பதில்` must be verified directly from the scan
 - scan 20: preserve the Kural wording exactly as printed, including `அசையியற்கு உண்டாண்டோர் ஏஎர்யான் நோக்கப் ...`; do not substitute an internet or standard-edition version
