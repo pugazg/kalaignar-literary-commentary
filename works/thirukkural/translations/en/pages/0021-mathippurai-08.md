@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Critical Appreciation — Various Distinctive Merits"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -18,7 +18,7 @@ Is it Death that takes life? Is it an intimate gaze? Is it a bewildering doe? Th
 
 ## D. Commentary in Kural Form
 
-The verse itself is a Kural; next, observe how the commentary Kalaignar has fashioned for it is also formed with the compactness of a Kural.
+The verse itself is a Kural; next, observe how the commentary Kalaignar has fashioned for it is itself formed as a Kural.
 
 **1305. Sulking in the heart of the flower-eyed woman  
 adds beauty to a worthy and good lover.**
