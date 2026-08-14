@@ -44,19 +44,29 @@ Part 001 has **20/20 aligned English records**:
 
 - scans **1–7**: `source-checked`;
 - scan **8**: `source-limited`, with source-limited alignment check complete;
-- scans **9–20**: `draft`.
+- scans **9–12**: `source-checked`;
+- scans **13–20**: `draft`.
 
-No page has yet undergone the later editorial-consistency stage.
+Current counts:
 
-### Source-check scans 1–7
+- `source-checked`: **11**
+- `source-limited`: **1**
+- `draft`: **8**
+- `editorial-reviewed`: **0**
+- `release-ready`: **0**
 
-The first source-check batch is complete. Scans 1–5 required no translation-text changes. Scan 6 now uses the controlled title **The Professor's Foreword**. The Preface on scan 7 was tightened to restore source meaning in `நிறைவேற்றி மகிழ்`, `உண்மை நிலை`, and `இனமான ஏந்தல்`, while preserving Kalaignar's distinction between **Invocation to God** and **Worship**.
+### Source-check scans 9–12 — The Professor's Foreword
 
-### Scan 8 — source-limited alignment reviewed
+K. Anbazhagan's four-page poetic foreword has now completed the source-check stage. Scan 9 received one fidelity tightening in the line corresponding to `சிறப்பொவ்வா செய்தொழில் வேற்றுமையான்`; scan 10 clarified the reference to the ten commentators. Scans 11–12 required no translation-text correction.
 
-The aligned English page has been checked against the partial Tamil archival record. The title, decorative divider, signature presence, date **27/12/2007**, bleed-through description and deliberate omission of unreadable handwriting all match the source-supported record. No translation-text correction was required.
+Source-sensitive forms remain deliberately reviewable rather than normalized:
 
-Scan 8 remains `source-limited`; the unreadable continuous handwriting must not be reconstructed unless a clearer controlling source is supplied.
+- **Muppaal** for `முப்பால்`;
+- **Tiruvidam** for the verified source form `திருவிடம்`;
+- **oozh** where the poem explicitly names `ஊழ்`;
+- **counsel** provisionally for `வாயுறை`, with final poetic nuance deferred to editorial review.
+
+Scan 8 remains `source-limited`; its unreadable continuous handwriting is not reconstructed.
 
 See:
 
@@ -66,4 +76,4 @@ See:
 
 ## Next activity
 
-Source-check Part 001 scans **9–12**, covering **The Professor's Foreword**. Resolve translation-sensitive choices only from the audited Tamil source and project glossary; keep editorial-consistency review as a later separate stage.
+Source-check Part 001 scans **13–20**, covering Professor Ma. Nannan's **Critical Appreciation**. Compare each English draft directly with its audited Tamil page, preserve the quoted Kural examples from this source, and keep editorial-consistency review as the next separate stage.
