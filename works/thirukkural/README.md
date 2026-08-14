@@ -7,7 +7,7 @@
 | Part | Source file | Local pages | Overall scans | நிலை |
 |---|---|---:|---:|---|
 | 001 | `திருக்குறள்_கலைஞர்_உரை_part_001_pages_1-20.pdf` | 20 | 1–20 | audited / archival-ready; scan 8 மட்டும் documented partial |
-| 002 | `திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf` | 21 | 21–41 | **21/21 page records complete; scans 21–33 verified** |
+| 002 | `திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf` | 21 | 21–41 | **21/21 visually verified; audit pending** |
 
 Part 002 local page 1 printed page **xx**-இல் தொடங்குகிறது; Part 001 scan 20 printed page **xix**-இல் முடிவதால் source continuity நேரடியாக உறுதியாகிறது.
 
@@ -22,22 +22,23 @@ Part 001-ல் தெரியும் edition information:
 
 Part 002-ல் புதிய edition statement இல்லை; publication metadata-க்கு Part 001 தான் ஆதாரம்.
 
-## Part 001 — முடிக்கப்பட்ட நிலை
+## Part 001
 
 - page records: **20 / 20**
 - `verified`: **19**
 - `partial`: **1** — scan 8 handwritten facsimile
-- Audit report: [`AUDIT_PART_001.md`](AUDIT_PART_001.md)
+- Audit: [`AUDIT_PART_001.md`](AUDIT_PART_001.md)
 - Release decision: **ARCHIVAL-READY WITH ONE DOCUMENTED PARTIAL FACSIMILE**
 
 ## Part 002 — current state
 
-Part 002 contains **21 pages**, overall scans **21–41**.
-
+- source pages: **21**
+- overall scans: **21–41**
 - page records: **21 / 21**
-- `verified`: **13** — scans 21–33
-- `needs-review`: **8** — scans 34–41
+- `verified`: **21 / 21**
+- `needs-review`: **0**
 - `not-started`: **0**
+- audit/release report: **pending**
 
 ### Structure
 
@@ -49,61 +50,45 @@ Part 002 contains **21 pages**, overall scans **21–41**.
 | 30–31 | `அதிகார அருஞ்சொற்பொருள் அகரவரிசை` | verified |
 | 32 | `திருக்குறள் / கலைஞர் உரை / அறம்` section-title page | verified |
 | 33 | blank verso / reverse-side bleed-through | verified |
-| 34–35 | `1. வழிபாடு` — குறள் 1–10 + கலைஞர் உரை | first-pass complete; needs-review |
-| 36–37 | `2. வான் சிறப்பு` — குறள் 11–20 + கலைஞர் உரை | first-pass complete; needs-review |
-| 38–39 | `3. நீத்தார் பெருமை` — குறள் 21–30 + கலைஞர் உரை | first-pass complete; needs-review |
-| 40–41 | `4. அறன் வலியுறுத்தல்` — குறள் 31–40 + கலைஞர் உரை | first-pass complete; needs-review |
+| 34–35 | `1. வழிபாடு` — குறள் 1–10 + கலைஞர் உரை | verified |
+| 36–37 | `2. வான் சிறப்பு` — குறள் 11–20 + கலைஞர் உரை | verified |
+| 38–39 | `3. நீத்தார் பெருமை` — குறள் 21–30 + கலைஞர் உரை | verified |
+| 40–41 | `4. அறன் வலியுறுத்தல்` — குறள் 31–40 + கலைஞர் உரை | verified |
 
-## Scans 21–27 — direct visual verification complete
+## Part 002 verification notes
 
-The seven pages were compared directly against Part 002 local scan pages 1–7. They now use:
+All 21 records have now been compared directly with the supplied scan and use:
 
 - `status: "verified"`
 - `transcription_method: "direct visual comparison with source scan"`
-- explicit `part: 2` and `part_page` metadata
 
-Scans 21–26 required no wording changes during the final comparison. Source-specific forms were rechecked and retained, including `நோக்கமிம்`, `ஏஎர்`, `துன்புறூஉந்`, `இன்புறூஉம்`, `ஆற்றேன்இந்`, `நோயைநோய்`, `தும்மினே னாக`, `புத்தேளிர்`, `நீரியைந் தன்னா ரகத்து`, `அய். புத்தம்புது விளக்கம்`, `அடுத்தூர்வது அஃதொப்ப தில்`, `இற்றெனக் கிளந்து, தெற்றெனக் காட்டுவதையே`, and `வேண்டாவாகும்`.
+Source-specific forms have been retained rather than replaced from another Thirukkural edition. Examples include `நோக்கமிம்`, `அய். புத்தம்புது விளக்கம்`, `நீரியைந் தன்னா ரகத்து`, `வானின் றுலகம்`, `உள்நின் றுடற்றும்`, `அகல்விசும்பு ளார்கோமான்`, `அறத்தினூஉங்`, and `அறத்தா றிதுவென`.
 
-Scan 27 (`பதிப்புரை`) had genuine first-pass errors corrected from the scan:
+The verification cycle found genuine scan-supported corrections, including:
 
-- `எந்நிலையையூட்டும்` → **`எந்நினைவையூட்டும்`**
-- `உலக நிலையையூட்டுதல்` → **`உலக நினைவையூட்டுதல்`**
-- source spacing before `!` and `?` was restored (`நிகர் !`, `எந்நினைவையூட்டும் ?`)
-- the source's signature line is preserved as **`- பூம்புகார் பதிப்பகத்தார்`**
+- scan 27: `எந்நிலையையூட்டும்` → **`எந்நினைவையூட்டும்`**
+- scan 27: `உலக நிலையையூட்டுதல்` → **`உலக நினைவையூட்டுதல்`**
+- scan 37 commentary: `ஒழுக்கமே கெட்டகடும்` → **`ஒழுக்கமே கெட்டுக்கூடும்`**
 
-The page itself still does not visibly print `xxvi`; that pagination remains documented as supported by the same-source contents and surrounding `xxv → xxvii` sequence.
+Scans 29 and 31 also had non-source editorial continuation headings removed; the source index contents themselves were unchanged.
 
-## Scans 28–33 — direct visual verification complete
-
-The six pages were compared directly against Part 002 local scan pages 8–13.
-
-- scans 28–31 matched the source in their actual index entries, authority numbers and term/meaning pairs.
-- source distinctions were preserved rather than normalized: scan 28 `உறுப்புநலன் அழிதல்` vs scan 30 `உறுப்பு நலன் அழிதல்`; scan 28 `செய்ந்நன்றியறிதல்` vs scan 30 `செய்ந்நன்றி யறிதல்`; scan 29 `நாணுத் துறவுரைத்தல்` vs scan 30 `நாணுத்துறவு உரைத்தல்`.
-- non-source editorial continuation headings that had been added to scans 29 and 31 were removed; the source entries themselves did not require correction.
-- scan 32 title text `திருக்குறள் / கலைஞர் உரை / அறம்` was confirmed. Its `xxxi` pagination remains source-supported from the same book's contents/sequence; no numeral is visibly printed on the page.
-- scan 33 was confirmed to have no current-page printed body text. Reverse-side bleed-through remains excluded from transcription.
-
-All six now use `status: "verified"` and `transcription_method: "direct visual comparison with source scan"`.
-
-## Main-body first pass
-
-Scans 34–41 already contain first-pass transcriptions for Kural **1–40** and Kalaignar commentary. Apparent source-specific spacing/forms remain untouched until their own verification pass. Items needing especially close checking include `வானின் றுலகம்`, `உள்நின் றுடற்றும்`, `அகல்விசும்பு ளார்கோமான்`, `அறத்தா றிதுவென`, and the scan-37 commentary phrase currently read as `ஒழுக்கமே கெட்டகடும்`.
+Scan 27 has no visible printed numeral; `xxvi` is supported by the same-source contents and surrounding `xxv → xxvii` sequence. Scan 32 likewise has no visible numeral; `xxxi` is supported by the contents entry `அறத்துப்பால் — xxxi` and surrounding sequence. Scan 33 was directly confirmed to contain no current-page body text; reverse-side bleed-through is excluded.
 
 ## Source-first rule
 
 > **ஸ்கேன் தான் controlling source. Markdown பாதுகாப்பு அடுக்கு; corrected edition அல்ல.**
 
-அமைதியாக modernize / normalize / reconstruct / internet-text substitution செய்யக்கூடாது. ஒரு பக்கம் exact scan-ஐ நேரடியாக ஒப்பிட்டு முடித்த பிறகே `verified` செய்யப்படும்.
+அமைதியாக modernize / normalize / reconstruct / internet-text substitution செய்யக்கூடாது.
 
 ## அடுத்த செயல்
 
-**Part 002 scans 34–41 direct visual verification**:
+Run the **Part 002 release/audit pass** and create `AUDIT_PART_002.md`:
 
-1. scans 34–35 — `வழிபாடு`, குறள் 1–10 + உரை;
-2. scans 36–37 — `வான் சிறப்பு`, குறள் 11–20 + உரை;
-3. scans 38–39 — `நீத்தார் பெருமை`, குறள் 21–30 + உரை;
-4. scans 40–41 — `அறன் வலியுறுத்தல்`, குறள் 31–40 + உரை;
-5. exact source line breaks, spacing, spelling, punctuation and commentary-ஐ character-by-character verify செய்த பிறகே `verified` செய்ய வேண்டும்;
-6. அதன் பின் `AUDIT_PART_002.md` உருவாக்கி Part 002 release decision பதிவு செய்ய வேண்டும்.
+1. page-record completeness / uniqueness;
+2. overall-scan, local-page and printed-page continuity;
+3. final status/method consistency;
+4. source-page marker and metadata checks;
+5. release decision;
+6. synchronize root README, this README, page map and `HANDOVER.md`.
 
 விரிவான page-level நிலை: [`indexes/page-map.md`](indexes/page-map.md).
