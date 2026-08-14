@@ -78,22 +78,22 @@ Source: `திருக்குறள்_கலைஞர்_உரை_part_003
 - 53 / local 12 / printed 20 — `10. இனியவை கூறல்`, குறள் 96–100 — **needs-review**
 - 54 / local 13 / printed 21 — `11. செய்ந்நன்றியறிதல்`, குறள் 101–105 — **needs-review**
 - 55 / local 14 / printed 22 — `11. செய்ந்நன்றியறிதல்`, குறள் 106–110 — **needs-review**
-- 56 / local 15 / printed 23 — `12. நடுவு நிலைமை`, குறள் 111–115 — not-started
-- 57 / local 16 / printed 24 — `12. நடுவு நிலைமை`, குறள் 116–120 — not-started
-- 58 / local 17 / printed 25 — `13. அடக்கம் உடைமை`, குறள் 121–125 — not-started
-- 59 / local 18 / printed 26 — `13. அடக்கம் உடைமை`, குறள் 126–130 — not-started
-- 60 / local 19 / printed 27 — `14. ஒழுக்கம் உடைமை`, குறள் 131–135 — not-started
-- 61 / local 20 / printed 28 — `14. ஒழுக்கம் உடைமை`, குறள் 136–140 — not-started
-- 62 / local 21 / printed 29 — `15. பிறனில் விழையாமை`, குறள் 141–145 — not-started
+- 56 / local 15 / printed 23 — `12. நடுவு நிலைமை`, குறள் 111–115 — **needs-review**
+- 57 / local 16 / printed 24 — `12. நடுவு நிலைமை`, குறள் 116–120 — **needs-review**
+- 58 / local 17 / printed 25 — `13. அடக்கம் உடைமை`, குறள் 121–125 — **needs-review**
+- 59 / local 18 / printed 26 — `13. அடக்கம் உடைமை`, குறள் 126–130 — **needs-review**
+- 60 / local 19 / printed 27 — `14. ஒழுக்கம் உடைமை`, குறள் 131–135 — **needs-review**
+- 61 / local 20 / printed 28 — `14. ஒழுக்கம் உடைமை`, குறள் 136–140 — **needs-review**
+- 62 / local 21 / printed 29 — `15. பிறனில் விழையாமை`, குறள் 141–145 — **needs-review**
 
 ### Current Part 003 status
 
-- page records created: **14 / 21** — scans 42–55
-- `needs-review`: **14**
-- `not-started`: **7**
+- page records created: **21 / 21**
+- `needs-review`: **21**
+- `not-started`: **0**
 - `verified`: **0**
 
-### Part 003 files created so far
+### Part 003 files created
 
 First batch:
 
@@ -115,7 +115,17 @@ Second batch:
 - `works/thirukkural/pages/0054-aram-seynnandriyarithal-01.md`
 - `works/thirukkural/pages/0055-aram-seynnandriyarithal-02.md`
 
-Every Part 003 file is intentionally first-pass only and uses `status: "needs-review"` plus Part 003 local-page/source-page metadata. Do not promote any Part 003 page to `verified` until the later verification cycle.
+Final first-pass batch:
+
+- `works/thirukkural/pages/0056-aram-naduvu-nilaimai-01.md`
+- `works/thirukkural/pages/0057-aram-naduvu-nilaimai-02.md`
+- `works/thirukkural/pages/0058-aram-adakkam-udaimai-01.md`
+- `works/thirukkural/pages/0059-aram-adakkam-udaimai-02.md`
+- `works/thirukkural/pages/0060-aram-ozhukkam-udaimai-01.md`
+- `works/thirukkural/pages/0061-aram-ozhukkam-udaimai-02.md`
+- `works/thirukkural/pages/0062-aram-piranil-vizhaiyaamai-01.md`
+
+Every Part 003 file is intentionally first-pass only and uses `status: "needs-review"` plus Part 003 local-page/source-page metadata. Do not promote any Part 003 page to `verified` until the separate visual-verification cycle.
 
 ## Files kept synchronized
 
@@ -127,15 +137,14 @@ Every Part 003 file is intentionally first-pass only and uses `status: "needs-re
 
 ## Next exact activity
 
-Finish first-pass transcription for **Part 003 scans 56–62**.
+Begin the separate direct visual-verification cycle for **Part 003 scans 42–48**.
 
-1. scans 56–57 / printed 23–24 — `12. நடுவு நிலைமை`, Kural 111–120.
-2. scans 58–59 / printed 25–26 — `13. அடக்கம் உடைமை`, Kural 121–130.
-3. scans 60–61 / printed 27–28 — `14. ஒழுக்கம் உடைமை`, Kural 131–140.
-4. scan 62 / printed 29 — begin `15. பிறனில் விழையாமை`, Kural 141–145.
-5. Preserve source-specific Kural spelling, spacing, line breaks, punctuation and Kalaignar commentary exactly as printed.
-6. Keep every new page `needs-review`.
-7. After all 21 Part 003 page records exist, start the separate direct visual-verification cycle before creating `AUDIT_PART_003.md`.
+1. Compare scans 42–48 character-by-character against their first-pass Markdown records.
+2. Preserve source-specific Kural spelling, spacing, line breaks, punctuation and Kalaignar commentary exactly as printed.
+3. Correct only differences supported by this exact scan.
+4. Change a page to `status: "verified"` and `transcription_method: "direct visual comparison with source scan"` only after that page's comparison is complete.
+5. After scans 42–48, continue verification in later batches until all scans 42–62 are reviewed.
+6. Create `AUDIT_PART_003.md` only after the complete verification cycle.
 
 ## Source authority rule
 
