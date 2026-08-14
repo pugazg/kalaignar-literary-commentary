@@ -40,30 +40,29 @@ The currently archived main-body Tamil reaches Kural **145**.
 
 ## English progress
 
-Part 001 has **20/20 aligned English records** and its source-check stage is now complete for all fully translatable pages:
+Part 001 has **20/20 aligned English records** and has completed both source-check and editorial-consistency review:
 
-- scans **1–7**: `source-checked`;
-- scan **8**: `source-limited`, with source-limited alignment check complete;
-- scans **9–20**: `source-checked`.
+- scans **1–7**: `editorial-reviewed`;
+- scan **8**: `source-limited`, with source-limited alignment and editorial consistency checks complete;
+- scans **9–20**: `editorial-reviewed`.
 
 Current counts:
 
-- `source-checked`: **19**
+- `editorial-reviewed`: **19**
 - `source-limited`: **1**
+- `source-checked`: **0**
 - `draft`: **0**
-- `editorial-reviewed`: **0**
 - `release-ready`: **0**
 
-### Source-check outcome
+Review artefact:
 
-The source-check compared each English page directly with its audited Tamil page. Corrections were limited to source-supported fidelity issues. Among the more important fixes:
+- [`reviews/PART_001_REVIEW.md`](reviews/PART_001_REVIEW.md)
 
-- scan 14 corrected the agency in `மாந்தர் பிறர் பொருளைச் சுரண்டாமல் காப்பது`, now rendered as **people being prevented from exploiting the property of others**;
-- scan 16 restored the omitted source element `கற்பித்துப் பேச`, explicitly representing fabricated claims used to demean and blame women;
-- scan 19 withdrew the speculative first-pass expansion of `அடுத்தூர்வது அஃதொப்பதில்`; the phrase is now retained exactly in Tamil with a note rather than presented with an insecure English meaning;
-- scan 20's Kural examples 1101, 1098 and 17 were source-checked against this archived Tamil edition and Kalaignar's adjacent explanations without substituting published English Kural wording.
+### Editorial decisions now controlled for Part 001
 
-Review-sensitive terms remain visible for the editorial stage, including **Muppaal**, **Tiruvidam**, **oozh / Oozh**, `வாயுறை` → **counsel**, **Following a Woman's Lead**, *pirithu mozhithal*, and the scan-20 literary headings.
+The review finalized the current treatment of **Muppaal**, source-specific **Tiruvidam**, **Oozh / oozh**, `வாயுறை` → **counsel**, **Following a Woman's Lead**, ***pirithu mozhithal***, and the scan-20 literary headings. It also confirms that `அடுத்தூர்வது அஃதொப்பதில்` remains intentionally in Tamil because the audited source does not support a sufficiently secure English expansion.
+
+The distinction between **Invocation to God** and **Worship** remains mandatory. The scan-20 Kural examples 1101, 1098 and 17 remain project translations from this archived Tamil edition; no published English Kural wording has been substituted.
 
 Scan 8 remains `source-limited`; its unreadable continuous handwriting is not reconstructed.
 
@@ -72,7 +71,8 @@ See:
 - [`TRANSLATION_GUIDE.md`](TRANSLATION_GUIDE.md)
 - [`GLOSSARY.md`](GLOSSARY.md)
 - [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md)
+- [`reviews/PART_001_REVIEW.md`](reviews/PART_001_REVIEW.md)
 
 ## Next activity
 
-Run the full **Part 001 editorial-consistency / glossary reconciliation pass** across scans 1–20. Review repeated terminology, titles, poetic/register choices, transliteration, punctuation and English readability as one set. Document decisions in `reviews/PART_001_REVIEW.md`, promote eligible fully translatable pages to `editorial-reviewed` only after that pass, and preserve scan 8's source limitation. The Part 001 release report comes only after the editorial review is complete.
+Create the separate **Part 001 English release report** at `reviews/PART_001_RELEASE_REPORT.md`. Verify all 20 aligned records, the 19 `editorial-reviewed` pages, scan 8's continuing `source-limited` status, glossary/review consistency, and the documented unresolved Tamil phrase on scan 19. Only after the release gate passes should eligible pages be promoted to `release-ready`.
