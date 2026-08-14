@@ -43,6 +43,37 @@ Page records exist for **all scans 1–20**.
 
 All printed/blank pages in this source part have completed direct visual verification. Scan 8 has also been reviewed at high resolution, but its continuous handwritten body is not sufficiently legible for a reliable source-faithful transcription, so it remains intentionally `partial`.
 
+## Part 001 audit / release status
+
+Audit completed on **2026-08-14**.
+
+Report:
+
+- `works/thirukkural/AUDIT_PART_001.md`
+
+Decision:
+
+**ARCHIVAL-READY WITH ONE DOCUMENTED PARTIAL FACSIMILE**
+
+The audit confirmed:
+
+- exactly **20** page records for scans 1–20;
+- no missing or duplicate scan record;
+- `scan_page` continuity 1–20;
+- printed-page sequence `vi`–`xix` for scans 7–20;
+- source identity and publication metadata consistent with the supplied scan;
+- source-page markers present;
+- all verified records use `transcription_method: "direct visual comparison with source scan"`;
+- reverse-side bleed-through is not treated as current-page body text;
+- scan 8 is reviewed-but-partial, not missing work.
+
+One source distinction was explicitly retained rather than normalized:
+
+- contents page label: `முகவுரையுடன் ஒரு முன்னுரை`;
+- handwritten scan 8 heading: `முகவுரையின் ஒரு முன்னுரை!`.
+
+Both are source-supported forms occurring in different places and must remain distinct.
+
 ## Completed verification history
 
 ### Scan 7 — `முகவுரை`
@@ -106,6 +137,7 @@ Do not substitute internet/standard-edition Kural text.
 - `works/thirukkural/README.md`
 - `works/thirukkural/indexes/page-map.md`
 - `works/thirukkural/metadata/source.md`
+- `works/thirukkural/AUDIT_PART_001.md`
 - this `HANDOVER.md`
 
 Each verified page uses:
@@ -116,16 +148,15 @@ Each verified page uses:
 
 ## Next exact activity
 
-Run a **Part 001 release/audit pass** before treating the batch as archival-ready.
+Part 001 is audited and archival-ready. Do **not** redo or renumber it.
 
-1. Check scan continuity 1–20 and confirm exactly one Markdown page record per scan.
-2. Check printed-page numbering, page types, front-matter metadata and section labels.
-3. Check every page status and `transcription_method` for consistency.
-4. Check source-page markers are present and correct.
-5. Confirm no reverse-side bleed-through was accidentally transcribed as current-page text.
-6. Record scan 8 as **reviewed but partial**, not as missing or failed work.
-7. Create a concise audit/release report for Part 001.
-8. After the audit, wait for the next Thirukkural source PDF batch or a clearer scan 8 facsimile.
+Proceed only when new source material is supplied:
+
+1. If the **next Thirukkural PDF batch** is supplied, inspect the actual scan first, determine how its scan sequence relates to Part 001, then continue without creating duplicate page records.
+2. Preserve the existing source-first rules: scan authority, no silent normalization, one page record per scan, explicit uncertainty, and direct visual verification before `verified`.
+3. Update `metadata/source.md` only with new source identity / pagination facts actually supported by the new batch.
+4. Extend `indexes/page-map.md` for the new batch while preserving the completed Part 001 entries.
+5. If instead a clearer scan 8 facsimile is supplied, reopen only `pages/0008-handwritten-note.md`; add only text directly supported by the clearer source and keep uncertainty explicit.
 
 ## Source authority rule
 
