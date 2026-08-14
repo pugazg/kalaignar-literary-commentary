@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–003 audited / archival-ready for supplied material |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–002 released; Part 003 **21/21 first-pass drafts complete** |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–002 released; Part 003 **7/21 source-checked** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -50,17 +50,15 @@ Review/release artefacts:
 - [`works/thirukkural/translations/en/reviews/PART_002_REVIEW.md`](works/thirukkural/translations/en/reviews/PART_002_REVIEW.md)
 - [`works/thirukkural/translations/en/reviews/PART_002_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_002_RELEASE_REPORT.md)
 
-### Part 003 English — FIRST PASS COMPLETE
+### Part 003 English — SOURCE-CHECK IN PROGRESS
 
 - English pages: **21 / 21** — scans 42–62
-- `draft`: **21**
+- `source-checked`: **7** — scans 42–48
+- `draft`: **14** — scans 49–62
 - current English coverage: Kural **41–145**
-- `source-checked`: **0**
 
-The complete Part 003 first pass covers **Domestic Life**, **The Worth of a Life Partner**, **The Blessing of Children**, **Love**, **Hospitality**, **Speaking Pleasant Words**, **Gratitude for Help Received**, **Impartiality**, **Self-Control**, **Good Conduct**, and the supplied beginning of **Not Desiring Another Man's Wife**.
+The completed source-check batch covers **Domestic Life**, **The Worth of a Life Partner**, **The Blessing of Children**, and Kural 71–75 of **Love**. Source-driven corrections keep the Kural layer distinct from Kalaignar's explanatory prose where necessary, while preserving his interpretation. Kural 67 now keeps singular **son** in the Kural and **children** in Kalaignar's commentary. Source-specific readings such as Kural 42 **those without protection**, Kural 55's slave/rain interpretation, Kural 58's **new world**, and Kural 62's **seven times seven generations** commentary remain intact.
 
-Kalaignar's commentary remains the primary interpretive aid; published English Kural wording and outside commentary are not imported. The final draft batch preserves source-specific formulations such as the enemy/neighbour/friend framing of impartiality, the balance image, Kural 121's **imperishable fame / life itself dark** explanation, Kural 126's distinction between **seven lives** in the verse and protection **through all time** in the commentary, Kural 130's image of **Aram waiting upon the path**, explicit birth/lineage and Brahmin language in Kurals 133–134, and **another man's wife** throughout Kurals 141–145.
-
-Next English activity: begin the dedicated **Part 003 source-check with scans 42–48**. Each draft must be directly compared with its verified Tamil record before promotion to `source-checked`; editorial consistency review begins only after all 21 Part 003 pages complete source-check.
+Next English activity: continue the dedicated **Part 003 source-check with scans 49–55**, covering Kural **76–110**. Editorial consistency review starts only after all 21 Part 003 pages complete source-check.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md) and [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md).
