@@ -64,7 +64,7 @@ Do not redo or renumber Part 003.
 
 # English project translation
 
-The user chose **not to wait until the entire Thirukkural book is supplied**. English proceeds after each Tamil PDF part has completed Tamil verification and audit.
+English proceeds after each Tamil PDF part has completed Tamil verification and audit.
 
 Permanent cadence:
 
@@ -100,7 +100,7 @@ Do not silently import a web Kural, another Tamil edition, another commentator, 
 
 ## Part 001 English progress
 
-First-pass English drafts now exist for **scans 1–7** with exact filename alignment under `works/thirukkural/translations/en/pages/`:
+Aligned English records now exist for **scans 1–8**:
 
 - `0001-cover.md` — draft
 - `0002-title-page.md` — draft
@@ -109,62 +109,68 @@ First-pass English drafts now exist for **scans 1–7** with exact filename alig
 - `0005-edition-details.md` — draft
 - `0006-contents.md` — draft
 - `0007-mugavurai.md` — draft
+- `0008-handwritten-note.md` — source-limited
 
 Current English counts:
 
-- page files: **7**
+- page files: **8**
 - `draft`: **7**
 - `source-checked`: **0**
 - `editorial-reviewed`: **0**
 - `release-ready`: **0**
-- `source-limited`: **0**
+- `source-limited`: **1** — scan 8
 - `blocked`: **0**
 
-No English source-check was performed during this first-pass creation activity; draft creation and review remain separate.
+No English source-check has yet been performed; first-pass creation and review remain separate.
 
-### Preface translation decisions now established
+### Preface translation decisions established
 
-The draft preserves Kalaignar's distinction between:
+The scan 7 draft preserves Kalaignar's distinction between:
 
 - `கடவுள் வாழ்த்து` → `Invocation to God` when translating the source title he discusses;
 - `வழிபாடு` → `Worship` for the title Kalaignar says he adopted.
 
-The controlled glossary was expanded for Part 001 front matter, including `முன்னுரை`, `பொருட்பால்`, `இன்பத்துப்பால்`, `கடவுள் வாழ்த்து`, `அதிகார அகர வரிசை`, `அதிகார அருஞ்சொற்பொருள் அகரவரிசை`, `குறள் முதற்குறிப்பு அகரவரிசை`, `முரசொலி`, `நன்னன்`, and `அன்பழகனார்`.
+### Scan 8 — source-limited English record
 
-## Special source-limited page — scan 8
+The Tamil archival record `works/thirukkural/pages/0008-handwritten-note.md` remains intentionally `partial` after high-resolution source review.
 
-Part 001 scan 8 is a handwritten facsimile whose Tamil archival record remains intentionally `partial` after high-resolution review.
+The aligned English record:
 
-Its English page must:
+`works/thirukkural/translations/en/pages/0008-handwritten-note.md`
 
-- mirror `0008-handwritten-note.md`;
-- use `status: "source-limited"`;
-- translate only the heading/date/signature description and other securely established content in the Tamil record;
-- explicitly state that the continuous handwritten body cannot be safely translated from the controlling source;
-- never reconstruct or infer the unreadable English content.
+uses `status: "source-limited"` and translates only securely established content.
 
-## Files synchronized after scans 1–7
+Established English content includes:
 
-- `works/thirukkural/translations/en/pages/0001-cover.md` through `0007-mugavurai.md`
-- `works/thirukkural/translations/en/GLOSSARY.md`
+- heading: **“An Introduction to the Preface!”**;
+- decorative divider presence;
+- Kalaignar's signature presence;
+- clearly readable date **27/12/2007**;
+- factual note that reverse-side bleed-through is not current-page handwriting.
+
+The continuous handwritten body remains untranslated because the controlling Tamil source does not support a reliable transcription. Do not reconstruct it unless a clearer scan/facsimile is supplied.
+
+## Files synchronized after scan 8
+
+- `works/thirukkural/translations/en/pages/0008-handwritten-note.md`
 - `works/thirukkural/translations/en/TRANSLATION_STATUS.md`
 - `works/thirukkural/translations/en/README.md`
 - `works/thirukkural/README.md`
-- root `README.md`
 - this `HANDOVER.md`
 
 # Next exact activity
 
-Create the aligned English record for **Part 001 scan 8**.
+Continue Part 001 English first-pass translation with **scans 9–12**, `பேராசிரியரின் அணிந்துரை`.
 
-1. Fetch Tamil `works/thirukkural/pages/0008-handwritten-note.md`.
-2. Create `works/thirukkural/translations/en/pages/0008-handwritten-note.md`.
+1. Fetch Tamil page files `0009-aninthurai-01.md` through `0012-aninthurai-04.md`.
+2. Create exact matching filenames under `works/thirukkural/translations/en/pages/`.
 3. Use `translation_type: "project_translation"`.
-4. Use `status: "source-limited"`, not `draft`.
-5. Translate only securely established source content and factual source-limit notes.
-6. Do not infer the continuous handwritten body.
-7. Update `TRANSLATION_STATUS.md`, translation README, work README and this handover.
-8. After scan 8, the next first-pass translation batch is scans **9–12** (`பேராசிரியரின் அணிந்துரை`).
+4. Use `status: "draft"` for all four new pages.
+5. Translate only audited Tamil source content.
+6. Preserve the poem-like line structure, repetitions, quotations, names and emphasis as closely as natural English permits.
+7. Do not normalize unusual Tamil source forms before translating.
+8. Do not perform source-check/editorial promotion in the same activity.
+9. Update translation status, translation README, work README and this handover after the batch.
 
 Tamil source intake can continue later from overall scan **63** when the next PDF is supplied and its continuity after scan 62 / printed page 29 / Kural 145 is confirmed.
 
