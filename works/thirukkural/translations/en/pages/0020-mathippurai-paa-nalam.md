@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Critical Appreciation — Various Distinctive Merits"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
