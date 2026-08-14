@@ -1,13 +1,15 @@
 ---
 scan_page: 24
+part: 2
+part_page: 4
 printed_page: "xxiii"
 work: "thirukkural"
 section: "மதிப்புரை — புத்தம்புது விளக்கம் / நுண்மாண் நுழைபுலம்"
 page_type: "review"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf"
-transcription_method: "first-pass direct visual transcription from source scan; source scan remains authoritative"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 ## அய். புத்தம்புது விளக்கம்
@@ -38,4 +40,4 @@ transcription_method: "first-pass direct visual transcription from source scan; 
 **622. வெள்ளத் தனைய இடும்பை அறிவுடையான்  
 உள்ளத்தின் உள்ளக் கெடும்.**
 
-<!-- மூல ஸ்கேன் பக்கம்: 24; அச்சுப் பக்கம்: xxiii -->
+<!-- மூல ஸ்கேன் பக்கம்: 24; Part 002 உள்ளூர் பக்கம்: 4; அச்சுப் பக்கம்: xxiii -->
