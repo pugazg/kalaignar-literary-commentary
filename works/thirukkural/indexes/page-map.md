@@ -50,12 +50,26 @@ Source: `திருக்குறள்_கலைஞர்_உரை_part_001
 - scan 19 had one source-supported punctuation/transcription correction: the quotation is **`“ஒருவர் தமக்கு உரிமையல்லாதவற்றை முயன்று பாதுகாத்தாலும் தங்காமல் போய் விடவும் கூடும்”`**; the first pass had closed the quotation before `கூடும்`. The separate quoted form `அடுத்தூர்வது அஃதொப்பதில்` was visually confirmed and retained.
 - scan 20 printed Kural wording, including `அசையியற்கு உண்டாண்டோர் ஏஎர்யான் நோக்கப் / பசையினள் பைய நகும்`, was verified directly from this scan and retained without substitution from another edition.
 
-## Part 001 நிலை
+## Part 001 audit
 
-All **printed/blank pages in scans 1–20 are now verified**. The only unresolved item is scan 8's handwritten facsimile body, which remains intentionally `partial` because the available scan does not support a reliable full transcription.
+Release / audit pass completed on **2026-08-14**.
+
+Audit report: [`../AUDIT_PART_001.md`](../AUDIT_PART_001.md)
+
+Result: **ARCHIVAL-READY WITH ONE DOCUMENTED PARTIAL FACSIMILE**.
+
+Audit confirmed:
+
+- exactly one page record for every scan 1–20;
+- no missing or duplicate scan number;
+- printed-page continuity `vi`–`xix` for scans 7–20;
+- source metadata and front-matter details consistent with the supplied scan;
+- source-page markers present;
+- verified pages use the standard direct-visual-comparison transcription method;
+- scan 8 is reviewed but intentionally `partial`, not unprocessed;
+- reverse-side bleed-through is not treated as current-page text.
 
 ## அடுத்த செயல்
 
-1. Run a **Part 001 release/audit pass**: check page continuity, front-matter metadata, status consistency, source-page markers, and that every scan 1–20 is represented exactly once.
-2. Record the unresolved scan 8 handwriting explicitly in an audit/release note rather than treating it as a missing transcription.
-3. After the audit, Part 001 can be considered archival-ready pending a clearer scan 8 facsimile or the next source PDF batch.
+1. Wait for the **next Thirukkural source PDF batch** and continue after Part 001 without changing or duplicating existing page records; or
+2. if a clearer scan 8 facsimile becomes available, reopen only `pages/0008-handwritten-note.md` and add only source-supported readings.
