@@ -10,18 +10,7 @@
 | 002 | `திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf` | 21 | 21–41 | audited / **ARCHIVAL-READY** |
 | 003 | `திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf` | 21 | 42–62 | audited / **ARCHIVAL-READY** |
 
-Part 003 local page 1 visibly carries printed page **9**, directly after Part 002 scan 41 / printed page **8**. The supplied Part 003 scan continues without a gap through printed page **29**.
-
-## Edition metadata
-
-Part 001-ல் தெரியும் edition information:
-
-- முதற் பதிப்பு — **டிசம்பர் 2007**
-- இரண்டாவது பதிப்பு — **மார்ச் 2010**
-- Publisher — **பூம்புகார் பதிப்பகம், சென்னை**
-- விலை — **ரூ. 180/-**
-
-Parts 002–003 contain no new edition statement; publication metadata-க்கு Part 001 தான் ஆதாரம்.
+The supplied Tamil archive currently reaches overall scan **62** / printed page **29** / Kural **145**.
 
 ## Tamil archival state
 
@@ -43,13 +32,11 @@ Parts 002–003 contain no new edition statement; publication metadata-க்க
 
 ### Part 003
 
-Part 003 contains **21 pages**, overall scans **42–62**, printed pages **9–29**, covering Kural **41–145**.
-
 - page records: **21 / 21**
 - `verified`: **21 / 21**
-- `needs-review`: **0**
-- `partial`: **0**
-- `blocked`: **0**
+- unresolved: **0**
+- printed pages: **9–29**
+- Kural range: **41–145**
 - Audit: [`AUDIT_PART_003.md`](AUDIT_PART_003.md)
 - Release decision: **ARCHIVAL-READY**
 
@@ -70,28 +57,30 @@ Permanent cadence:
 
 ### English status now
 
-- Part 001 English page files: **8 / 20 created**
-- scans **1–7**: `draft`
-- scan **8**: `source-limited`
-- scans **9–20**: not yet translated
+- Part 001 English page files: **12 / 20 created**
+- `draft`: **11** — scans 1–7 and 9–12
+- `source-limited`: **1** — scan 8
+- scans **13–20**: not yet translated
 - Part 002 English pages: **0 / 21**
 - Part 003 English pages: **0 / 21**
 - no English page has yet completed source-check/editorial review
 
-The first seven drafts cover the cover, title page, blank page, publication details, edition details, contents, and Kalaignar's Preface (printed page vi).
+Scans **9–12** now contain the first-pass English translation of `பேராசிரியரின் அணிந்துரை` / **The Professor's Foreword** by K. Anbazhagan. The translation preserves the poem-like line structure, quotations, repetitions and source-supported emphasis.
 
-Scan 8 now has an aligned English record at `translations/en/pages/0008-handwritten-note.md`. Because the controlling Tamil archival page remains `partial`, the English record is deliberately `source-limited`: it preserves the title **“An Introduction to the Preface!”**, the presence of Kalaignar's signature, the date **27/12/2007**, and the factual page-condition notes, while leaving the unreadable continuous handwriting untranslated.
+Source-sensitive draft decisions are documented rather than silently normalized. In particular, scan 10 retains the verified source form `திருவிடம்` as **Tiruvidam** with a translation note; `முப்பால்` is provisionally retained as **Muppaal**, and `ஊழ்` as **oozh**, pending the dedicated review pass.
+
+Scan 8 remains deliberately `source-limited`: only the securely established heading/date/signature/page-condition information is represented in English; the unreadable continuous handwriting is not reconstructed.
 
 ## Source-first rule
 
 > **ஸ்கேன் தான் controlling source. Markdown பாதுகாப்பு அடுக்கு; corrected edition அல்ல.**
 
-அமைதியாக modernize / normalize / reconstruct / internet-text substitution செய்யக்கூடாது. Kural wording, spacing, line breaks and Kalaignar commentary are preserved from this scan even where another edition may differ.
+அமைதியாக modernize / normalize / reconstruct / internet-text substitution செய்யக்கூடாது. Tamil wording and Kalaignar-related source material remain scan-controlled; the project English layer translates that audited record without claiming official status.
 
 ## அடுத்த செயல்
 
-Continue Part 001 English first-pass translation with scans **9–12**, covering `பேராசிரியரின் அணிந்துரை`. Create one-to-one aligned English files, keep them `draft`, preserve the poetic line structure, and leave source-check/editorial review for the separate review stage.
+Continue Part 001 English first-pass translation with scans **13–20**, covering `மதிப்புரை` / Critical Appreciation and the remaining literary-analysis front matter. Create one-to-one aligned English files and keep them `draft`; source-check/editorial review remains a separate later stage.
 
-Tamil source continuation remains ready for overall scan **63** whenever the next PDF is supplied and its source continuity is confirmed.
+Tamil source intake can continue later from overall scan **63** when the next PDF is supplied and continuity after scan 62 / printed page 29 / Kural 145 is confirmed from the scan itself.
 
 விரிவான Tamil page-level நிலை: [`indexes/page-map.md`](indexes/page-map.md).
