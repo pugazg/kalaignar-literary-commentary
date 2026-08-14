@@ -71,13 +71,13 @@ Source: `திருக்குறள்_கலைஞர்_உரை_part_003
 - 46 / local 5 / printed 13 — `7. மக்கட்பேறு`, குறள் 61–65 — **needs-review**
 - 47 / local 6 / printed 14 — `7. மக்கட்பேறு`, குறள் 66–70 — **needs-review**
 - 48 / local 7 / printed 15 — `8. அன்புடைமை`, குறள் 71–75 — **needs-review**
-- 49 / local 8 / printed 16 — `8. அன்புடைமை`, குறள் 76–80 — not-started
-- 50 / local 9 / printed 17 — `9. விருந்தோம்பல்`, குறள் 81–85 — not-started
-- 51 / local 10 / printed 18 — `9. விருந்தோம்பல்`, குறள் 86–90 — not-started
-- 52 / local 11 / printed 19 — `10. இனியவை கூறல்`, குறள் 91–95 — not-started
-- 53 / local 12 / printed 20 — `10. இனியவை கூறல்`, குறள் 96–100 — not-started
-- 54 / local 13 / printed 21 — `11. செய்ந்நன்றியறிதல்`, குறள் 101–105 — not-started
-- 55 / local 14 / printed 22 — `11. செய்ந்நன்றியறிதல்`, குறள் 106–110 — not-started
+- 49 / local 8 / printed 16 — `8. அன்புடைமை`, குறள் 76–80 — **needs-review**
+- 50 / local 9 / printed 17 — `9. விருந்தோம்பல்`, குறள் 81–85 — **needs-review**
+- 51 / local 10 / printed 18 — `9. விருந்தோம்பல்`, குறள் 86–90 — **needs-review**
+- 52 / local 11 / printed 19 — `10. இனியவை கூறல்`, குறள் 91–95 — **needs-review**
+- 53 / local 12 / printed 20 — `10. இனியவை கூறல்`, குறள் 96–100 — **needs-review**
+- 54 / local 13 / printed 21 — `11. செய்ந்நன்றியறிதல்`, குறள் 101–105 — **needs-review**
+- 55 / local 14 / printed 22 — `11. செய்ந்நன்றியறிதல்`, குறள் 106–110 — **needs-review**
 - 56 / local 15 / printed 23 — `12. நடுவு நிலைமை`, குறள் 111–115 — not-started
 - 57 / local 16 / printed 24 — `12. நடுவு நிலைமை`, குறள் 116–120 — not-started
 - 58 / local 17 / printed 25 — `13. அடக்கம் உடைமை`, குறள் 121–125 — not-started
@@ -88,12 +88,14 @@ Source: `திருக்குறள்_கலைஞர்_உரை_part_003
 
 ### Current Part 003 status
 
-- page records created: **7 / 21** — scans 42–48
-- `needs-review`: **7**
-- `not-started`: **14**
+- page records created: **14 / 21** — scans 42–55
+- `needs-review`: **14**
+- `not-started`: **7**
 - `verified`: **0**
 
-### Files created in the first Part 003 batch
+### Part 003 files created so far
+
+First batch:
 
 - `works/thirukkural/pages/0042-aram-ilvaazhkkai-01.md`
 - `works/thirukkural/pages/0043-aram-ilvaazhkkai-02.md`
@@ -103,7 +105,17 @@ Source: `திருக்குறள்_கலைஞர்_உரை_part_003
 - `works/thirukkural/pages/0047-aram-makkatperu-02.md`
 - `works/thirukkural/pages/0048-aram-anbudaimai-01.md`
 
-Each is intentionally first-pass only and uses `status: "needs-review"` plus the Part 003 local-page/source-page metadata. Do not promote any of them to `verified` until the later verification cycle.
+Second batch:
+
+- `works/thirukkural/pages/0049-aram-anbudaimai-02.md`
+- `works/thirukkural/pages/0050-aram-virundhombal-01.md`
+- `works/thirukkural/pages/0051-aram-virundhombal-02.md`
+- `works/thirukkural/pages/0052-aram-iniyavai-kooral-01.md`
+- `works/thirukkural/pages/0053-aram-iniyavai-kooral-02.md`
+- `works/thirukkural/pages/0054-aram-seynnandriyarithal-01.md`
+- `works/thirukkural/pages/0055-aram-seynnandriyarithal-02.md`
+
+Every Part 003 file is intentionally first-pass only and uses `status: "needs-review"` plus Part 003 local-page/source-page metadata. Do not promote any Part 003 page to `verified` until the later verification cycle.
 
 ## Files kept synchronized
 
@@ -115,15 +127,15 @@ Each is intentionally first-pass only and uses `status: "needs-review"` plus the
 
 ## Next exact activity
 
-Continue first-pass transcription for **Part 003 scans 49–55**.
+Finish first-pass transcription for **Part 003 scans 56–62**.
 
-1. scan 49 / printed 16 — finish `8. அன்புடைமை`, Kural 76–80.
-2. scans 50–51 / printed 17–18 — `9. விருந்தோம்பல்`, Kural 81–90.
-3. scans 52–53 / printed 19–20 — `10. இனியவை கூறல்`, Kural 91–100.
-4. scans 54–55 / printed 21–22 — `11. செய்ந்நன்றியறிதல்`, Kural 101–110.
+1. scans 56–57 / printed 23–24 — `12. நடுவு நிலைமை`, Kural 111–120.
+2. scans 58–59 / printed 25–26 — `13. அடக்கம் உடைமை`, Kural 121–130.
+3. scans 60–61 / printed 27–28 — `14. ஒழுக்கம் உடைமை`, Kural 131–140.
+4. scan 62 / printed 29 — begin `15. பிறனில் விழையாமை`, Kural 141–145.
 5. Preserve source-specific Kural spelling, spacing, line breaks, punctuation and Kalaignar commentary exactly as printed.
 6. Keep every new page `needs-review`.
-7. After scans 49–55, continue scans 56–62; only after all 21 Part 003 page records exist should the separate visual-verification cycle begin.
+7. After all 21 Part 003 page records exist, start the separate direct visual-verification cycle before creating `AUDIT_PART_003.md`.
 
 ## Source authority rule
 
