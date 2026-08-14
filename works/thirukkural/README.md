@@ -8,7 +8,7 @@
 |---|---|---:|---:|---|
 | 001 | `திருக்குறள்_கலைஞர்_உரை_part_001_pages_1-20.pdf` | 20 | 1–20 | audited / archival-ready; scan 8 documented partial |
 | 002 | `திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf` | 21 | 21–41 | audited / **ARCHIVAL-READY** |
-| 003 | `திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf` | 21 | 42–62 | **21/21 verified; audit pending** |
+| 003 | `திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf` | 21 | 42–62 | audited / **ARCHIVAL-READY** |
 
 Part 003 local page 1 visibly carries printed page **9**, directly after Part 002 scan 41 / printed page **8**. The supplied Part 003 scan continues without a gap through printed page **29**.
 
@@ -39,15 +39,17 @@ Parts 002–003 contain no new edition statement; publication metadata-க்க
 - Audit: [`AUDIT_PART_002.md`](AUDIT_PART_002.md)
 - Release decision: **ARCHIVAL-READY**
 
-## Part 003 — visual verification complete
+## Part 003
 
 Part 003 contains **21 pages**, overall scans **42–62**, printed pages **9–29**, covering Kural **41–145**.
 
 - page records: **21 / 21**
-- `verified`: **21 / 21** — scans 42–62
+- `verified`: **21 / 21**
 - `needs-review`: **0**
-- `not-started`: **0**
-- audit: pending
+- `partial`: **0**
+- `blocked`: **0**
+- Audit: [`AUDIT_PART_003.md`](AUDIT_PART_003.md)
+- Release decision: **ARCHIVAL-READY**
 
 ### Structure
 
@@ -65,24 +67,18 @@ Part 003 contains **21 pages**, overall scans **42–62**, printed pages **9–2
 | 60–61 | `14. ஒழுக்கம் உடைமை` — குறள் 131–140 + உரை | **verified** |
 | 62 | `15. பிறனில் விழையாமை` — குறள் 141–145 + உரை | **verified** |
 
-### Verification completed — scans 42–48
+### Verification and audit outcome
 
-Direct visual comparison against Part 003 local pages 1–7 is complete for Kural **41–75** and Kalaignar's commentary. All seven first-pass records matched the exact scan, so no transcription correction was required.
+Direct visual comparison was completed in three batches: scans 42–48, 49–55, and 56–62. All 21 first-pass records matched the exact source scan, so **no source-text correction was required during the Part 003 verification cycle**.
 
-### Verification completed — scans 49–55
+The release audit confirmed:
 
-Direct visual comparison against Part 003 local pages 8–14 is complete for Kural **76–110** and Kalaignar's commentary. All seven first-pass records again matched the source scan, so no transcription correction was required.
-
-### Verification completed — scans 56–62
-
-Direct visual comparison against Part 003 local pages 15–21 is complete for Kural **111–145** and Kalaignar's commentary, covering `நடுவு நிலைமை`, `அடக்கம் உடைமை`, `ஒழுக்கம் உடைமை`, and the opening of `பிறனில் விழையாமை`.
-
-All seven first-pass records matched the exact source scan. **No transcription correction was required in this final verification batch.** Source-specific Kural spelling, joins, spacing, punctuation, line breaks and commentary wording were retained rather than normalized.
-
-Verified records use:
-
-- `status: "verified"`
-- `transcription_method: "direct visual comparison with source scan"`
+- one record for every scan 42–62;
+- local-page continuity 1–21;
+- printed-page continuity 9–29;
+- Kural continuity 41–145;
+- all 21 records `verified` with `transcription_method: "direct visual comparison with source scan"`;
+- no unresolved Part 003 page.
 
 ## Source-first rule
 
@@ -92,12 +88,6 @@ Verified records use:
 
 ## அடுத்த செயல்
 
-Run the **Part 003 release/audit pass**:
-
-1. confirm exactly one page record for each overall scan **42–62**;
-2. confirm local-page continuity **1–21** and printed-page continuity **9–29**;
-3. confirm all 21 records are `verified` and use the direct visual-comparison method;
-4. confirm Kural continuity **41–145** and chapter boundaries;
-5. create `AUDIT_PART_003.md` and record the formal Part 003 release decision.
+Continue only when the **next Thirukkural source PDF batch** is supplied. Inspect the scan itself first and continue from overall scan **63** only if it confirms continuity after scan 62 / printed page 29 / Kural 145.
 
 விரிவான page-level நிலை: [`indexes/page-map.md`](indexes/page-map.md).
