@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Critical Appreciation — Entirely Fresh Explanation / Subtle Penetrating Insight"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
