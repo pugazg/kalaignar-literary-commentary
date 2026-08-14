@@ -27,13 +27,7 @@ Source: `திருக்குறள்_கலைஞர்_உரை_part_001
 | 19 | xviii | மதிப்புரை — ஊழ் / பல்வகைச் சிறப்புகள் | verified | `pages/0019-mathippurai-07.md` |
 | 20 | xix | `அ. பா நலம்` / `ஆ. அணி நலம்` / `இ. அடை நலம்` | verified | `pages/0020-mathippurai-paa-nalam.md` |
 
-Part 001 status:
-
-- page records: **20 / 20**
-- `verified`: **19**
-- `partial`: **1** — scan 8 handwritten facsimile
-- audit: [`../AUDIT_PART_001.md`](../AUDIT_PART_001.md)
-- release decision: **ARCHIVAL-READY WITH ONE DOCUMENTED PARTIAL FACSIMILE**
+Part 001 status: **19 verified, 1 documented partial**. Audit: [`../AUDIT_PART_001.md`](../AUDIT_PART_001.md). Release: **ARCHIVAL-READY WITH ONE DOCUMENTED PARTIAL FACSIMILE**.
 
 ---
 
@@ -67,13 +61,7 @@ Source: `திருக்குறள்_கலைஞர்_உரை_part_002
 
 `*` `xxvi` and `xxxi` are same-source pagination inferences documented in the page records and Part 002 audit; those numerals are not visibly printed on scans 27 and 32.
 
-Part 002 status:
-
-- page records: **21 / 21**
-- `verified`: **21 / 21**
-- unresolved: **0**
-- audit: [`../AUDIT_PART_002.md`](../AUDIT_PART_002.md)
-- release decision: **ARCHIVAL-READY**
+Part 002 status: **21/21 verified**. Audit: [`../AUDIT_PART_002.md`](../AUDIT_PART_002.md). Release: **ARCHIVAL-READY**.
 
 ---
 
@@ -81,7 +69,7 @@ Part 002 status:
 
 Source: `திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf`
 
-The attachment contains **21 local PDF pages**. Local page 1 is overall scan **42**, visibly printed page **9**, directly continuing Part 002 scan 41 / printed page 8. Printed pagination remains continuous through local page 21 / overall scan 62 / printed page **29**.
+The attachment contains **21 local PDF pages**. Local page 1 is overall scan **42**, printed page **9**, directly continuing Part 002 scan 41 / printed page 8. The supplied part continues through overall scan 62 / printed page **29**.
 
 | Overall scan | Part 003 local page | Printed page | Page type / section | Status | File |
 |---:|---:|---:|---|---|---|
@@ -92,13 +80,13 @@ The attachment contains **21 local PDF pages**. Local page 1 is overall scan **4
 | 46 | 5 | 13 | `7. மக்கட்பேறு` — குறள் 61–65 | verified | `pages/0046-aram-makkatperu-01.md` |
 | 47 | 6 | 14 | `7. மக்கட்பேறு` — குறள் 66–70 | verified | `pages/0047-aram-makkatperu-02.md` |
 | 48 | 7 | 15 | `8. அன்புடைமை` — குறள் 71–75 | verified | `pages/0048-aram-anbudaimai-01.md` |
-| 49 | 8 | 16 | `8. அன்புடைமை` — குறள் 76–80 | needs-review | `pages/0049-aram-anbudaimai-02.md` |
-| 50 | 9 | 17 | `9. விருந்தோம்பல்` — குறள் 81–85 | needs-review | `pages/0050-aram-virundhombal-01.md` |
-| 51 | 10 | 18 | `9. விருந்தோம்பல்` — குறள் 86–90 | needs-review | `pages/0051-aram-virundhombal-02.md` |
-| 52 | 11 | 19 | `10. இனியவை கூறல்` — குறள் 91–95 | needs-review | `pages/0052-aram-iniyavai-kooral-01.md` |
-| 53 | 12 | 20 | `10. இனியவை கூறல்` — குறள் 96–100 | needs-review | `pages/0053-aram-iniyavai-kooral-02.md` |
-| 54 | 13 | 21 | `11. செய்ந்நன்றியறிதல்` — குறள் 101–105 | needs-review | `pages/0054-aram-seynnandriyarithal-01.md` |
-| 55 | 14 | 22 | `11. செய்ந்நன்றியறிதல்` — குறள் 106–110 | needs-review | `pages/0055-aram-seynnandriyarithal-02.md` |
+| 49 | 8 | 16 | `8. அன்புடைமை` — குறள் 76–80 | verified | `pages/0049-aram-anbudaimai-02.md` |
+| 50 | 9 | 17 | `9. விருந்தோம்பல்` — குறள் 81–85 | verified | `pages/0050-aram-virundhombal-01.md` |
+| 51 | 10 | 18 | `9. விருந்தோம்பல்` — குறள் 86–90 | verified | `pages/0051-aram-virundhombal-02.md` |
+| 52 | 11 | 19 | `10. இனியவை கூறல்` — குறள் 91–95 | verified | `pages/0052-aram-iniyavai-kooral-01.md` |
+| 53 | 12 | 20 | `10. இனியவை கூறல்` — குறள் 96–100 | verified | `pages/0053-aram-iniyavai-kooral-02.md` |
+| 54 | 13 | 21 | `11. செய்ந்நன்றியறிதல்` — குறள் 101–105 | verified | `pages/0054-aram-seynnandriyarithal-01.md` |
+| 55 | 14 | 22 | `11. செய்ந்நன்றியறிதல்` — குறள் 106–110 | verified | `pages/0055-aram-seynnandriyarithal-02.md` |
 | 56 | 15 | 23 | `12. நடுவு நிலைமை` — குறள் 111–115 | needs-review | `pages/0056-aram-naduvu-nilaimai-01.md` |
 | 57 | 16 | 24 | `12. நடுவு நிலைமை` — குறள் 116–120 | needs-review | `pages/0057-aram-naduvu-nilaimai-02.md` |
 | 58 | 17 | 25 | `13. அடக்கம் உடைமை` — குறள் 121–125 | needs-review | `pages/0058-aram-adakkam-udaimai-01.md` |
@@ -109,26 +97,24 @@ The attachment contains **21 local PDF pages**. Local page 1 is overall scan **4
 
 ### Part 003 current status
 
-- source pages: **21**
-- overall scan range: **42–62**
-- printed pages: **9–29**
-- Kural range: **41–145**
-- page records created: **21 / 21**
-- `verified`: **7** — scans 42–48
-- `needs-review`: **14** — scans 49–62
+- page records: **21 / 21**
+- `verified`: **14** — scans 42–55
+- `needs-review`: **7** — scans 56–62
 - `not-started`: **0**
 
 ### Verification completed — scans 42–48
 
-Direct visual comparison against Part 003 local pages 1–7 is complete for Kural **41–75** and Kalaignar's commentary. The first-pass wording matched the source on all seven pages, so no transcription correction was required. Source-specific spacing, wording and punctuation were retained as printed.
+Direct visual comparison is complete for Kural **41–75** and Kalaignar's commentary. The first-pass text matched the scan; no transcription corrections were required.
 
-### Source observations
+### Verification completed — scans 49–55
 
-- Part 003 begins directly with Kural 41 / printed page 9, confirming continuity after Part 002's Kural 40 / printed page 8.
-- The source continues through eleven chapter headings, ending this supplied part partway through `15. பிறனில் விழையாமை` at Kural 145.
-- Reverse-side bleed-through is visible but is not transcribed as current-page text.
-- Source-specific Kural spelling, spacing, line breaks, punctuation and Kalaignar commentary must remain scan-controlled.
+Direct visual comparison is complete for Kural **76–110** and Kalaignar's commentary, covering the remainder of `அன்புடைமை`, `விருந்தோம்பல்`, `இனியவை கூறல்`, and `செய்ந்நன்றியறிதல்`. The first-pass text matched the scan; no transcription corrections were required.
+
+Verified Part 003 records use:
+
+- `status: "verified"`
+- `transcription_method: "direct visual comparison with source scan"`
 
 ## அடுத்த செயல்
 
-Continue the separate **Part 003 direct visual-verification cycle** with scans **49–55**. Compare each page record character-by-character against the exact scan, correct only source-supported differences, and promote a page to `verified` only after that comparison is complete.
+Verify **scans 56–62** against the exact Part 003 source scan. These cover `நடுவு நிலைமை` (111–120), `அடக்கம் உடைமை` (121–130), `ஒழுக்கம் உடைமை` (131–140), and `பிறனில் விழையாமை` (141–145). Correct only source-supported differences. After all seven are verified, create `AUDIT_PART_003.md` and make the Part 003 release decision.
