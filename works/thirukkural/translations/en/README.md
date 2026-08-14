@@ -41,23 +41,32 @@ Review artefacts:
 - [`reviews/PART_001_REVIEW.md`](reviews/PART_001_REVIEW.md)
 - [`reviews/PART_001_RELEASE_REPORT.md`](reviews/PART_001_RELEASE_REPORT.md)
 
-## Part 002 — SOURCE-CHECK COMPLETE
+## Part 002 — EDITORIAL REVIEW COMPLETE
 
-Part 002 has **21/21 aligned English records**, and all **21/21 are now `source-checked`**.
+Part 002 has **21/21 aligned English records**, and all **21/21 are now `editorial-reviewed`**.
 
-- `source-checked`: **21** — scans 21–41
+- `editorial-reviewed`: **21** — scans 21–41
+- `source-checked`: **0**
 - `draft`: **0**
-- `editorial-reviewed`: **0**
 - `release-ready`: **0**
 
-The source-check remained fidelity-first throughout. Front matter, indexes, source glossaries, Kural verses and Kalaignar's commentary were checked directly against their verified Tamil records.
+Review artefact:
 
-Main-body source-check decisions deliberately preserve Kalaignar's own readings. `ஆதி பகவன்` remains **Aadhi Bhagavan**; Kural 5 retains `iraivan` rather than importing a doctrinal title; Kural 8 retains `anthanar` with Kalaignar's own explanation that it means worthy people; Kural 10 follows Kalaignar's reading of the great sea as **life** and `இறைவன்` as **the one who stands foremost**; Kural 25 preserves his explicit Indra interpretation; Kural 30 retains his compassion-based definition of `anthanar`; and Kural 38 keeps his image of good deeds as **the stone that sets the path of life in order**.
+- [`reviews/PART_002_REVIEW.md`](reviews/PART_002_REVIEW.md)
 
-Other fidelity corrections include retaining Kalaignar's Kural-12 image that rain becomes **the food they drink**, preserving the Kural-20 warning that conduct may deteriorate without rain, and removing the unsupported first-pass word **“display”** from Kural 34's `ஆரவாரம்` / **clamour**.
+The review preserved all fidelity-first source-check decisions. **Aadhi Bhagavan**, *iraivan*, *anthanar*, Kalaignar's Kural-25 Indra interpretation, Kural 12's **food they drink**, Kural 20's warning about conduct, Kural 34's **clamour**, and Kural 38's **stone that sets the path of life in order** remain source-controlled choices rather than conventionalized replacements.
 
-See [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md) for the detailed source-check record.
+The full chapter index on scans 28–29 is treated as an **index-local project translation**, not an imported standard English chapter-title set. The edition's own source glosses on scans 30–31 remain distinct from chapter-title English. Examples include **Worship | Following**, **Following a Woman's Lead | Becoming obsessed with women**, and **Women Beyond Bounds | Women for hire**.
+
+The review also finalized two source-sensitive expressions:
+
+- `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு` remains **“the low-priced edition of the people's hearts”** to preserve Nannan's metaphor;
+- Part 002 renders `அடுத்தூர்வது அஃதொப்பதில்` as **“nothing equals that for driving it away”** from the complete Kural plus Nannan's adjacent explanation, while released Part 001 scan 19 remains unchanged with the compact Tamil phrase retained. The difference is explicitly documented in the review and glossary.
+
+See [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md) for the detailed state.
 
 ## Next activity
 
-Begin the **Part 002 editorial-consistency / glossary-reconciliation review across scans 21–41**. Review terminology, repeated Kural wording, chapter titles, punctuation, names and readability while preserving all source-check fidelity decisions. Any cross-part decision involving released Part 001 must be explicitly documented rather than silently changed. Do not perform the Part 002 release gate in the same activity.
+Perform the separate **Part 002 English release gate**. Verify all 21 pages, the Part 002 review, glossary, metadata and documented cross-part decisions; create `reviews/PART_002_RELEASE_REPORT.md`; and, if the gate passes, promote all 21 Part 002 pages to `release-ready`.
+
+Do not begin Part 003 English in the same activity.
