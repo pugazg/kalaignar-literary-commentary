@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–003 audited / archival-ready for supplied material |
-| Thirukkural — Kalaignar's Commentary | English project translation | Part 001 released; Part 002 **21/21 editorial-reviewed; release gate pending** |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–002 released; Part 003 not started |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -39,24 +39,28 @@ Tamil Parts 001–003 are archival-ready for the supplied material. The Tamil ar
 - `source-limited`: **1** — scan 8
 - release decision: **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**
 
-### Part 002 English — EDITORIAL REVIEW COMPLETE
+### Part 002 English — RELEASE COMPLETE
 
 - aligned English pages: **21 / 21**
-- `editorial-reviewed`: **21** — scans 21–41
+- `release-ready`: **21** — scans 21–41
+- `editorial-reviewed`: **0**
 - `source-checked`: **0**
 - `draft`: **0**
-- release gate: pending
+- release decision: **RELEASE-READY**
 
-The completed Part 002 editorial review preserves Kalaignar's own source-sensitive readings instead of conventional external interpretations. The full chapter index remains an index-local project translation, this edition's own glossary remains a distinct source layer, and source-specific expressions such as **“the low-priced edition of the people's hearts”** remain intact rather than being smoothed into different imagery.
+The released Part 002 layer preserves Kalaignar's own source-sensitive readings rather than conventional external interpretations. The full chapter index remains an index-local project translation, this edition's own glossary remains a distinct source layer, and Nannan's source metaphors remain intact.
 
-The cross-part `அடுத்தூர்வது அஃதொப்பதில்` decision is explicit: Part 002 uses **“nothing equals that for driving it away”** from the complete Kural and Nannan's adjacent explanation, while released Part 001 scan 19 remains unchanged with the compact phrase retained in Tamil.
+The cross-part `அடுத்தூர்வது அஃதொப்பதில்` decision remains explicit: Part 002 uses **“nothing equals that for driving it away”** from the complete Kural and Nannan's adjacent explanation, while released Part 001 scan 19 remains unchanged with the compact phrase retained in Tamil.
 
-Review artefact: [`works/thirukkural/translations/en/reviews/PART_002_REVIEW.md`](works/thirukkural/translations/en/reviews/PART_002_REVIEW.md).
+Review/release artefacts:
+
+- [`works/thirukkural/translations/en/reviews/PART_002_REVIEW.md`](works/thirukkural/translations/en/reviews/PART_002_REVIEW.md)
+- [`works/thirukkural/translations/en/reviews/PART_002_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_002_RELEASE_REPORT.md)
 
 ### Part 003 English
 
-Not yet started. Tamil scans **42–62** are already audited / archival-ready.
+Not yet started. Tamil scans **42–62** are already audited / archival-ready and contain Kural **41–145** plus Kalaignar's commentary.
 
-Next English activity: perform the separate **Part 002 release gate**, create `PART_002_RELEASE_REPORT.md`, and—if all checks pass—promote the 21 Part 002 pages to `release-ready`. Do not begin Part 003 English in the same activity.
+Next English activity: begin **Part 003 first-pass translation with scans 42–48**, covering Kural **41–75**. Create matching English pages as `draft`, preserve Kalaignar's commentary as the primary interpretive aid, and do not import published English Kural wording or outside commentary.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md) and [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md).
