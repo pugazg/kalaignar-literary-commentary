@@ -70,9 +70,9 @@ Permanent cadence:
 
 ### English status now
 
-- Part 001 English page files: **7 / 20 created**
+- Part 001 English page files: **8 / 20 created**
 - scans **1–7**: `draft`
-- scan **8**: not yet created; must be `source-limited`
+- scan **8**: `source-limited`
 - scans **9–20**: not yet translated
 - Part 002 English pages: **0 / 21**
 - Part 003 English pages: **0 / 21**
@@ -80,7 +80,7 @@ Permanent cadence:
 
 The first seven drafts cover the cover, title page, blank page, publication details, edition details, contents, and Kalaignar's Preface (printed page vi).
 
-The controlled glossary has also been extended for front-matter terms including `முன்னுரை`, `பொருட்பால்`, `இன்பத்துப்பால்`, `கடவுள் வாழ்த்து`, and the alphabetical index labels.
+Scan 8 now has an aligned English record at `translations/en/pages/0008-handwritten-note.md`. Because the controlling Tamil archival page remains `partial`, the English record is deliberately `source-limited`: it preserves the title **“An Introduction to the Preface!”**, the presence of Kalaignar's signature, the date **27/12/2007**, and the factual page-condition notes, while leaving the unreadable continuous handwriting untranslated.
 
 ## Source-first rule
 
@@ -90,7 +90,7 @@ The controlled glossary has also been extended for front-matter terms including 
 
 ## அடுத்த செயல்
 
-Create the aligned English record for **Part 001 scan 8** as `source-limited`. Translate only content safely established by the audited Tamil record; do not reconstruct the unreadable handwritten body. After scan 8, continue Part 001 first-pass translation with scans **9–12**.
+Continue Part 001 English first-pass translation with scans **9–12**, covering `பேராசிரியரின் அணிந்துரை`. Create one-to-one aligned English files, keep them `draft`, preserve the poetic line structure, and leave source-check/editorial review for the separate review stage.
 
 Tamil source continuation remains ready for overall scan **63** whenever the next PDF is supplied and its source continuity is confirmed.
 
