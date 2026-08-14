@@ -6,12 +6,12 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Good Conduct"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
 
-**136. Those of firm understanding will not weaken in conduct,  
+**136. Those of firm mind will not weaken in conduct,  
 knowing the disgrace that comes from departing from it.**
 
 People of firm mind understand the degradation that results from departing from conduct, and so they will not behave in a way that allows good conduct to decline.
