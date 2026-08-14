@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Domestic Life"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -14,7 +14,7 @@ translation_basis: "verified Tamil archival transcription; controlling scan rema
 # 5. Domestic Life
 
 **41. A householder is one who stands as a support in the good path  
-to the three who naturally belong to the household.**
+to the three who belong by nature.**
 
 It is the duty of those who conduct family life to support the three who are naturally part of it: parents, a life partner, and children.
 
@@ -23,8 +23,8 @@ to those who suffer from hunger, and to those without protection.**
 
 Those who conduct family life should stand as a support to unattached renunciants, to those wasting from hunger, and to those without protection.
 
-**43. Remembering those who have lived and passed away, honouring those who live worthily,  
-welcoming guests, caring for kin, and keeping oneself established—these five are foremost.**
+**43. Those who have lived and passed away, those who live worthily, guests, kin, and oneself—  
+tending these five in their due order is foremost.**
 
 The five forms of aram proper to domestic life are these: remembering those who lived and passed away; honouring those who live in a worthy manner; hospitality; caring for one's circle of kin; and keeping oneself established so as to fulfil these duties.
 
