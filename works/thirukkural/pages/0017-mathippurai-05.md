@@ -4,10 +4,10 @@ printed_page: "xvi"
 work: "thirukkural"
 section: "மதிப்புரை — பெண்வழிச் சேறல்"
 page_type: "review"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_001_pages_1-20.pdf"
-transcription_method: "first-pass visual transcription with OCR assistance; source scan remains authoritative"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 5. எப்போதுமே நல்லோர்க்கு நன்மை செய்வதில் தவறு ஏற்பட்டுவிடக் கூடாதே என்று அஞ்சுகிறவன் தவறு நேராமல் கண்காணிக்கும் மனைவிக்கு அஞ்சி நடப்பான்.
