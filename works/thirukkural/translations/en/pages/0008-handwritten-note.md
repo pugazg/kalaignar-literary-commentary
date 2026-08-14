@@ -36,6 +36,8 @@ At the quality of the controlling scan, only the title, signature presence, date
 
 The English record has been compared against the audited partial Tamil archival record. The heading, decorative divider, signature presence, date, bleed-through description, and deliberate omission of the unreadable continuous handwriting all align with the source record. **No translation-text correction was required.**
 
-The page remains `source-limited`; completion of this alignment check does not make the unreadable handwritten body translated or verified.
+## Editorial consistency review
+
+Part 001 editorial review confirms that this page is internally consistent with the English translation layer while remaining necessarily incomplete. The heading, terminology, page-condition description, and non-reconstruction policy require no editorial change. Its status remains `source-limited`; editorial review does not convert unreadable source material into translated content.
 
 <!-- Source scan page: 8; printed page: vii; Tamil source status: partial -->
