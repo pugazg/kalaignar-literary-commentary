@@ -6,12 +6,12 @@ work: "thirukkural"
 section: "The Professor's Foreword"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
 
-Though Valluvar's Muppaal, offered as counsel, is available,  
+Though Valluvar's Muppaal is available as counsel,  
 the ten commentators who wrote on this ancient work of aram  
 blended into it the colours of their respective sects and religions  
 and mixed in Sanskrit aligned with theistic belief;  
@@ -42,6 +42,6 @@ the capacity of those who seek clarity in its meaning differs;
 not merely by rearranging the way the Kural's phrases are joined,  
 Kalaignar gave a commentary so that the Kural's path would take root in the heart.
 
-> Translation note: source-check confirms that the verified Tamil archival text reads `திருவிடம்`. It is therefore retained here as **Tiruvidam** rather than silently normalized to a different Tamil form. Its final semantic treatment remains for the Part 001 editorial-consistency review.
+> Translation note: the verified Tamil archival text reads `திருவிடம்`. Part 001 editorial review therefore retains **Tiruvidam** rather than silently normalizing it to a different Tamil form. The source-specific form is preserved deliberately.
 
 <!-- Source scan page: 10; printed page: ix -->
