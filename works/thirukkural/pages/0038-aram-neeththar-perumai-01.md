@@ -6,10 +6,10 @@ printed_page: "5"
 work: "thirukkural"
 section: "அறம் — பாயிரம் — நீத்தார் பெருமை"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf"
-transcription_method: "first-pass direct visual transcription from source scan; source scan remains authoritative"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 # 3. நீத்தார் பெருமை
