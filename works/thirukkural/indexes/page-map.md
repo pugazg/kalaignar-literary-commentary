@@ -20,17 +20,17 @@ Source: `திருக்குறள்_கலைஞர்_உரை_part_001
 | 14 | xiii | மதிப்புரை — தேவை | verified | `pages/0014-mathippurai-02.md` |
 | 15 | xiv | மதிப்புரை — வழிபாடு | verified | `pages/0015-mathippurai-03.md` |
 | 16 | xv | மதிப்புரை — பெண்வழிச் சேறல் | verified | `pages/0016-mathippurai-04.md` |
-| 17 | xvi | மதிப்புரை — பெண்வழிச் சேறல் தொடர்ச்சி | needs-review | `pages/0017-mathippurai-05.md` |
-| 18 | xvii | மதிப்புரை — ஊழ் | needs-review | `pages/0018-mathippurai-06.md` |
-| 19 | xviii | மதிப்புரை — ஊழ் / பல்வகைச் சிறப்புகள் | needs-review | `pages/0019-mathippurai-07.md` |
-| 20 | xix | `அ. பா நலம்` / `ஆ. அணி நலம்` / `இ. அடை நலம்` | needs-review | `pages/0020-mathippurai-paa-nalam.md` |
+| 17 | xvi | மதிப்புரை — பெண்வழிச் சேறல் தொடர்ச்சி | verified | `pages/0017-mathippurai-05.md` |
+| 18 | xvii | மதிப்புரை — ஊழ் | verified | `pages/0018-mathippurai-06.md` |
+| 19 | xviii | மதிப்புரை — ஊழ் / பல்வகைச் சிறப்புகள் | verified | `pages/0019-mathippurai-07.md` |
+| 20 | xix | `அ. பா நலம்` / `ஆ. அணி நலம்` / `இ. அடை நலம்` | verified | `pages/0020-mathippurai-paa-nalam.md` |
 
 ## கணக்கு
 
 - Source scan pages: **20**
 - Page records created: **20 / 20**
-- `verified`: **15** (scans 1–7, 9–16)
-- `needs-review`: **4** (scans 17–20)
+- `verified`: **19** (all printed/blank pages except scan 8 facsimile)
+- `needs-review`: **0**
 - `partial`: **1** (scan 8 handwritten facsimile)
 - Remaining uncreated page records in this source part: **0**
 
@@ -42,11 +42,20 @@ Source: `திருக்குறள்_கலைஞர்_உரை_part_001
 - scans 9–12 (`பேராசிரியரின் அணிந்துரை`) — direct character-by-character visual comparison complete; all four pages are `verified` and preserve the printed poetic line breaks.
 - scan 9 first-pass `செல்வமீனும்` was corrected from the exact scan to **`செல்வமினும்`**. Source-supported forms including `மநுவாதிக்கு`, `உற்றிடுமியற்கைச்`, `‘தொழல்’`, and `வான்றோய் முகில்பொழி தூநீர் அனையதாய்` were retained after visual rereading rather than normalized.
 - scans 10–12 required no source-supported wording corrections during the final comparison; their first-pass text was confirmed and their status/transcription method were upgraded to `verified`.
-- scans **13–16** (`மதிப்புரை`) — direct visual comparison complete; all four pages are now `verified`. Their first-pass wording matched the exact scan, so no textual correction was required.
-- Source-sensitive forms on these pages were explicitly confirmed from the scan and retained: scan 13 `அய்ந்து`, `ஈகையறம்`, `ஒழுகலாறு`; scan 14 `மன்பதையைச்`; scan 15 `அவைகளை யெல்லாம்` and `உறுதிப்படுத்தப் படாமையால்`; scan 16 `அக் கருத்துக்காட்பட்ட`.
+- scans 13–16 (`மதிப்புரை`) — direct visual comparison complete; all four pages are `verified`. Their first-pass wording matched the exact scan, so no textual correction was required.
+- Source-sensitive forms on scans 13–16 were explicitly confirmed from the scan and retained: scan 13 `அய்ந்து`, `ஈகையறம்`, `ஒழுகலாறு`; scan 14 `மன்பதையைச்`; scan 15 `அவைகளை யெல்லாம்` and `உறுதிப்படுத்தப் படாமையால்`; scan 16 `அக் கருத்துக்காட்பட்ட`.
+- scans **17–20** — final printed-page verification complete; all four pages are `verified`.
+- scans 17, 18 and 20 matched the first-pass wording during direct visual comparison.
+- scan 18 source-sensitive forms `முன்னவை யிரண்டையும்விட` and `இயற்கையின் அமைதி` were confirmed and retained.
+- scan 19 had one source-supported punctuation/transcription correction: the quotation is **`“ஒருவர் தமக்கு உரிமையல்லாதவற்றை முயன்று பாதுகாத்தாலும் தங்காமல் போய் விடவும் கூடும்”`**; the first pass had closed the quotation before `கூடும்`. The separate quoted form `அடுத்தூர்வது அஃதொப்பதில்` was visually confirmed and retained.
+- scan 20 printed Kural wording, including `அசையியற்கு உண்டாண்டோர் ஏஎர்யான் நோக்கப் / பசையினள் பைய நகும்`, was verified directly from this scan and retained without substitution from another edition.
 
-## அடுத்த சரிபார்ப்பு சுற்று
+## Part 001 நிலை
 
-1. scans **17–20** — verify the remaining `மதிப்புரை`: `பெண்வழிச் சேறல்` continuation, `ஊழ்`, `பல்வகைச் சிறப்புகள்`, and the printed Kural examples under `அ. பா நலம்`, `ஆ. அணி நலம்`, `இ. அடை நலம்`.
-2. Preserve quotation wording, numbered-list wording and Kural text exactly as printed; do not substitute another edition.
-3. scan 8 should be revisited only if a clearer source/facsimile becomes available; do not reconstruct its unreadable body from context.
+All **printed/blank pages in scans 1–20 are now verified**. The only unresolved item is scan 8's handwritten facsimile body, which remains intentionally `partial` because the available scan does not support a reliable full transcription.
+
+## அடுத்த செயல்
+
+1. Run a **Part 001 release/audit pass**: check page continuity, front-matter metadata, status consistency, source-page markers, and that every scan 1–20 is represented exactly once.
+2. Record the unresolved scan 8 handwriting explicitly in an audit/release note rather than treating it as a missing transcription.
+3. After the audit, Part 001 can be considered archival-ready pending a clearer scan 8 facsimile or the next source PDF batch.
