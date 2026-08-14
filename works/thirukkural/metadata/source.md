@@ -48,8 +48,9 @@
   - `14. ஒழுக்கம் உடைமை` — 131–140;
   - `15. பிறனில் விழையாமை` begins with Kural 141–145 on printed page 29.
 - Current processing state: **21/21 page records created**.
-- Verification state: **14 verified (scans 42–55), 7 needs-review (scans 56–62)**.
-- Direct visual comparison of scans 42–48 and 49–55 found no first-pass text differences; wording, source spacing, punctuation and commentary were retained as printed.
+- Verification state: **21/21 verified; 0 needs-review**.
+- Direct visual comparison of scans 42–48, 49–55, and 56–62 found no first-pass text differences; wording, source spacing, punctuation, line breaks and commentary were retained as printed.
+- Release audit: pending.
 
 ## Publication details visible in Part 001
 
@@ -100,6 +101,13 @@ Part 002 confirms the end of the front matter and the start of `அறம்`; P
 - no unresolved Part 002 page;
 - release decision: **ARCHIVAL-READY**.
 
+### Part 003
+
+- one record exists for each overall scan **42–62**;
+- all **21** records have completed direct visual comparison and are `verified`;
+- Kural range verified from **41–145**;
+- release audit still pending.
+
 ## Source condition / observations
 
 - Part 001 scan 3 is visually blank.
@@ -114,4 +122,4 @@ Part 002 confirms the end of the front matter and the start of `அறம்`; P
 
 The supplied scans are the controlling sources for this edition. No external Thirukkural text, later edition, web transcription, remembered Kural wording, or modernized Tamil may silently replace what is printed here.
 
-Part 003 scans 42–55 have completed independent direct visual comparison and are `verified`; scans 56–62 remain `needs-review` until their exact source pages are compared.
+Part 003 scans 42–62 have completed independent direct visual comparison and are all `verified`. The next repository step is the formal Part 003 release/audit pass.
