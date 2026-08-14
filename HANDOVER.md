@@ -28,88 +28,100 @@ Framework:
 - `works/thirukkural/translations/en/TRANSLATION_GUIDE.md`
 - `works/thirukkural/translations/en/GLOSSARY.md`
 - `works/thirukkural/translations/en/TRANSLATION_STATUS.md`
+- `works/thirukkural/translations/en/reviews/PART_001_REVIEW.md`
 
 Every English page must retain:
 
 `translation_type: "project_translation"`
 
-## Part 001 English first pass — COMPLETE
+# Part 001 English progress
+
+## First pass — COMPLETE
 
 One-to-one aligned English records exist for all **20/20** scans.
 
-## Part 001 source-check — COMPLETE
+## Source-check — COMPLETE
 
-Current status:
+Every fully translatable page was compared against its audited Tamil record. Scan 8 completed a source-limited alignment check without reconstructing unreadable handwriting.
 
-- `source-checked`: **19** — scans 1–7 and 9–20
-- `source-limited`: **1** — scan 8; source-limited alignment check complete
-- `draft`: **0**
-- `editorial-reviewed`: **0**
-- `release-ready`: **0**
+## Editorial consistency / glossary reconciliation — COMPLETE
 
-All fully translatable Part 001 English pages have now been compared against the audited Tamil source. Scan 8 remains source-limited because its continuous handwriting is not securely readable in the controlling scan.
+Current page status:
 
-### Source-check history
+- `editorial-reviewed`: **19** — scans 1–7 and 9–20;
+- `source-limited`: **1** — scan 8; source-limited alignment and editorial checks complete;
+- `source-checked`: **0**;
+- `draft`: **0**;
+- `release-ready`: **0**.
 
-- scans 1–7 — complete;
-- scan 8 — source-limited alignment check complete;
-- scans 9–12 — complete;
-- scans 13–20 — complete.
+Editorial review artefact:
 
-### Scans 13–20 source-check results
+`works/thirukkural/translations/en/reviews/PART_001_REVIEW.md`
 
-Professor Ma. Nannan's `மதிப்புரை` / **Critical Appreciation** is now source-checked page by page.
-
-Important source-supported corrections:
-
-- scan 13 — clarified the `ஈகை அறம்` and possession/ownership sentences without changing Nannan's argument;
-- scan 14 — corrected an agency reversal in `மாந்தர் பிறர் பொருளைச் சுரண்டாமல் காப்பது`; English now states that people must be prevented from exploiting the property of others;
-- scan 15 — tightened `கட்டிக்காத்து` to **safeguard them all**;
-- scan 16 — restored the omitted `கற்பித்துப் பேச` element by representing fabricated claims used to demean and blame women;
-- scan 17 — clarified numbered points 7 and 9 so agency and evaluative force align with the Tamil;
-- scan 18 — no translation-text correction required;
-- scan 19 — `ஊக்கம்` tightened to **initiative**. The first-pass English expansion of `அடுத்தூர்வது அஃதொப்பதில்` was withdrawn as insufficiently supported; the phrase is now retained exactly in Tamil with a source-check note;
-- scan 20 — quoted Kurals **1101, 1098 and 17**, their Kalaignar explanations and the literary headings were source-checked without importing published English Kural wording.
-
-### Review-sensitive terms carried into editorial review
+### Controlled Part 001 editorial decisions
 
 - `முப்பால்` → **Muppaal**;
-- source form `திருவிடம்` → **Tiruvidam**;
-- `ஊழ்` → **oozh / Oozh** when explicitly named;
-- `வாயுறை` → **counsel** provisionally;
+- verified source form `திருவிடம்` → **Tiruvidam**, deliberately retained rather than normalized;
+- `ஊழ்` → **Oozh** as heading/concept title and *oozh* in running prose where the Tamil term itself is named;
+- `இயற்கை நிலை` → **natural condition** only as Professor Nannan's explicit attribution of Kalaignar's interpretation;
+- `வாயுறை` → **counsel**;
 - `பெண்வழிச் சேறல்` → **Following a Woman's Lead**;
-- `இயற்கை நிலை` → **natural condition**, specifically as Nannan's attribution of Kalaignar's interpretation;
-- `பிறிது மொழிதல்` → ***pirithu mozhithal*** with explanatory gloss;
-- `அடுத்தூர்வது அஃதொப்பதில்` → retained in Tamil pending a secure editorial decision;
+- `பிறிது மொழிதல்` → ***pirithu mozhithal*** with the gloss “saying one thing in order to convey another”;
+- `அடுத்தூர்வது அஃதொப்பதில்` → intentionally retained exactly in Tamil because the audited source does not support a sufficiently secure English expansion;
 - `பா நலம்` → **Poetic Quality**;
 - `அணி நலம்` → **Excellence of Poetic Figure**;
 - `அடை நலம்` → **Excellence of Epithets**.
 
-The controlled glossary has been updated to reflect these source-check outcomes.
+The source-title distinction remains mandatory:
+
+- `கடவுள் வாழ்த்து` → **Invocation to God** when that source title is named;
+- `வழிபாடு` → **Worship** for Kalaignar's adopted chapter title.
+
+### Editorial corrections made in the full-set pass
+
+- scan 5 — normalized English punctuation in edition details;
+- scan 10 — smoothed the `Muppaal ... counsel` word order and finalized deliberate retention of **Tiruvidam**;
+- scan 15 — improved English readability in the sentence introducing Kalaignar's lucid commentary without changing Nannan's argument;
+- scan 16 — clarified how earlier explanations of `பெண்வழிச் சேறல்` became established;
+- scan 17 — improved syntax of numbered point 7;
+- scan 19 — finalized the documented non-translation of `அடுத்தூர்வது அஃதொப்பதில்`.
+
+The scan-20 Kural examples **1101, 1098 and 17** remain project translations from this archived Tamil source; no published English Kural wording was substituted.
+
+## Scan 8 — source limitation remains
+
+`works/thirukkural/translations/en/pages/0008-handwritten-note.md` remains `source-limited`.
+
+Securely established English content is limited to:
+
+- heading **An Introduction to the Preface!**;
+- decorative divider presence;
+- Kalaignar's signature presence;
+- date **27/12/2007**;
+- page-condition / bleed-through description.
+
+The continuous handwritten body remains untranslated and unreconstructed. Editorial review does not remove this limitation.
 
 # Next exact activity
 
-Run the **Part 001 English editorial-consistency / glossary reconciliation pass** across all scans 1–20.
+Create and execute the **Part 001 English release gate**.
 
-1. Review all 19 `source-checked` English pages as one editorial set rather than page-by-page in isolation.
-2. Review scan 8 separately while preserving its `source-limited` status and source limitation.
-3. Check English consistency for:
-   - work/section/chapter titles;
-   - Aram / aram capitalization and contextual rendering;
-   - transliterated forms such as **Muppaal**, **Tiruvidam**, **oozh / Oozh**, *Sangathamizh*, *Kuraloviyam*;
-   - names and honorifics;
-   - quoted source titles **Invocation to God** / **Worship**;
-   - poetic line style in scans 9–12;
-   - analytical prose/register in scans 13–20;
-   - punctuation, emphasis, quotation marks and recurring phrase treatment;
-   - literary terms on scan 20.
-4. Resolve or explicitly preserve the review-sensitive terms listed above. Do not use external Kural translations or silently normalize source-specific Tamil.
-5. Create `works/thirukkural/translations/en/reviews/PART_001_REVIEW.md` documenting the editorial decisions, corrections and any intentionally unresolved/source-limited items.
-6. Apply editorial corrections consistently to all affected English page files.
-7. Promote eligible fully translatable pages from `source-checked` to `editorial-reviewed` only after the full consistency pass is complete.
-8. Scan 8 must retain its source limitation; do not pretend the unreadable body has been translated.
-9. Update `GLOSSARY.md`, `TRANSLATION_STATUS.md`, English README, work README, root README and this handover after the review.
-10. Do **not** create `PART_001_RELEASE_REPORT.md` until the editorial review is complete. That release report is the activity after this one.
+1. Verify all **20/20** aligned English page files exist.
+2. Verify scans **1–7 and 9–20** are all `editorial-reviewed`.
+3. Verify scan **8** remains `source-limited` and its documented limitation is carried into the release decision.
+4. Verify consistency between:
+   - `reviews/PART_001_REVIEW.md`;
+   - `GLOSSARY.md`;
+   - `TRANSLATION_STATUS.md`;
+   - English page metadata;
+   - English README / work README.
+5. Confirm scan 19's retained Tamil phrase `அடுத்தூர்வது அஃதொப்பதில்` is explicitly documented and not hidden.
+6. Confirm no external/published English Kural translation has been substituted for the scan-20 examples.
+7. Create `works/thirukkural/translations/en/reviews/PART_001_RELEASE_REPORT.md` documenting the release checks and decision.
+8. If the release gate passes, promote the 19 fully translatable pages from `editorial-reviewed` to `release-ready`.
+9. Keep scan 8 as `source-limited`; do not falsely promote the unreadable body.
+10. Update `TRANSLATION_STATUS.md`, English README, work README, root README and this handover after release.
+11. Do not begin Part 002 English translation until the Part 001 release gate is complete.
 
 ## Source authority rule
 
