@@ -6,7 +6,7 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–002 archival-ready; Part 003 **21/21 first-pass records created** |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–002 archival-ready; Part 003 **21/21 records, 7 verified** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில மொழிபெயர்ப்பு | பின்னர் சேர்க்கப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -69,14 +69,14 @@ works/
 - printed pages: **9–29**
 - Kural range: **41–145**
 - page records: **21 / 21**
-- `needs-review`: **21**
+- `verified`: **7** — scans 42–48
+- `needs-review`: **14** — scans 49–62
 - `not-started`: **0**
-- `verified`: **0**
 
 The source itself confirms direct continuity from Part 002: scan 41 ends at printed page 8 / Kural 40, and Part 003 scan 42 begins printed page 9 / Kural 41.
 
-Part 003 first-pass transcription is complete through Kural **145**, covering `இல்வாழ்க்கை` through the beginning of `பிறனில் விழையாமை`. All 21 Part 003 records remain `needs-review` until the separate visual-verification cycle.
+Part 003 first-pass transcription is complete through Kural **145**. Direct visual verification is complete through scan **48** / printed page **15** / Kural **75**; those seven records matched the source without requiring text corrections.
 
-Next activity: begin direct visual verification with **scans 42–48**.
+Next activity: continue direct visual verification with **scans 49–55**.
 
 விரிவான நிலை: [`works/thirukkural/README.md`](works/thirukkural/README.md) மற்றும் [`works/thirukkural/indexes/page-map.md`](works/thirukkural/indexes/page-map.md).
