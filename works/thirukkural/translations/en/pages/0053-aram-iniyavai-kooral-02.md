@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Speaking Pleasant Words"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -19,7 +19,7 @@ If evil deeds are to be removed and the path of aram made to flourish, sweet wor
 **97. Words that yield benefit and never depart from good character  
 bring delight and goodness to the one who speaks them.**
 
-Words that are capable of bringing good benefit and do not depart from good character can bring both joy and goodness to those who speak them.
+Words that can bring beneficial results and do not depart from good character can bring both joy and goodness to those who speak them.
 
 **98. Sweet speech free from pettiness  
 brings joy both in this life and after it.**
