@@ -44,10 +44,7 @@ Review artefacts:
 ## Part 002 — RELEASE COMPLETE
 
 - aligned English records: **21 / 21**;
-- `release-ready`: **21** — scans 21–41;
-- `editorial-reviewed`: **0** remaining;
-- `source-checked`: **0**;
-- `draft`: **0**.
+- `release-ready`: **21** — scans 21–41.
 
 Release decision: **RELEASE-READY**.
 
@@ -56,23 +53,32 @@ Review artefacts:
 - [`reviews/PART_002_REVIEW.md`](reviews/PART_002_REVIEW.md)
 - [`reviews/PART_002_RELEASE_REPORT.md`](reviews/PART_002_RELEASE_REPORT.md)
 
-The release preserves all fidelity-first decisions. **Aadhi Bhagavan**, *iraivan*, *anthanar*, Kalaignar's Kural-25 Indra interpretation, Kural 12's **food they drink**, Kural 20's warning about conduct, Kural 34's **clamour**, and Kural 38's **stone that sets the path of life in order** remain source-controlled choices rather than conventionalized replacements.
+The released Part 002 layer preserves Kalaignar's source-sensitive readings rather than conventional external interpretations, and retains Nannan's source metaphors and this edition's own index/glossary distinctions.
 
-The full chapter index on scans 28–29 remains an **index-local project translation**, not an imported standard English chapter-title set. The edition's own source glosses on scans 30–31 remain distinct from chapter-title English.
-
-Source-sensitive expressions are also release-confirmed:
-
-- `மக்கள் நெஞ்சின் மலிவுப் பதிப்பு` remains **“the low-priced edition of the people's hearts”**;
-- Part 002 renders `அடுத்தூர்வது அஃதொப்பதில்` as **“nothing equals that for driving it away”** from the complete Kural plus Nannan's adjacent explanation, while released Part 001 scan 19 remains unchanged with the compact Tamil phrase retained. The difference is explicit and documented.
-
-See [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md) for the detailed state.
-
-## Part 003 — NOT STARTED
+## Part 003 — FIRST PASS IN PROGRESS
 
 Tamil scans **42–62** are already audited / archival-ready and cover Kural **41–145** with Kalaignar's commentary.
 
+Current English state:
+
+- aligned English records: **7 / 21** — scans 42–48;
+- `draft`: **7**;
+- remaining first-pass pages: **14** — scans 49–62;
+- source-check/editorial/release: not started.
+
+Completed first-pass coverage:
+
+- scans 42–43 — **Domestic Life**, Kural 41–50;
+- scans 44–45 — **The Worth of a Life Partner**, Kural 51–60;
+- scans 46–47 — **The Blessing of Children**, Kural 61–70;
+- scan 48 — beginning of **Love**, Kural 71–75.
+
+The drafts retain Kalaignar's own interpretive direction. Examples queued for later source-check include Kural 42's **those without protection**, Kural 43's five duties as Kalaignar explains them, Kural 57's criticism of treating women as slaves, Kural 58's established **new world** reading, Kural 62's **seven times seven generations** commentary, and Kural 70's **great fortune / blessing** reading.
+
+See [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md) for the detailed state.
+
 ## Next activity
 
-Begin **Part 003 English first-pass translation with scans 42–48**: Kural **41–75**, covering **Domestic Life**, **The Worth of a Life Partner**, **The Blessing of Children**, and the beginning of **Love**.
+Continue **Part 003 English first-pass translation with scans 49–55**: Kural **76–110**, covering the completion of **Love**, **Hospitality**, **Speaking Pleasant Words**, and **Gratitude for Help Received**.
 
-Create one-to-one English page files as `draft`, preserving Kural number/two-line structure and Kalaignar's commentary as a separate source-controlled layer. Do not import published English Kural wording or outside commentary.
+Create one-to-one English page files as `draft`, preserve Kural number/two-line structure, translate Kalaignar's commentary separately, and do not import published English Kural wording or outside commentary. Do not begin source-check until the full Part 003 first pass is complete.
