@@ -39,25 +39,33 @@ Permanent cadence:
 - Part 002: **21/21 `release-ready`**;
 - Part 003: **21/21 `release-ready`**, through Kural 145.
 
-### Part 004 English — SOURCE-CHECK COMPLETE
+### Part 004 English — EDITORIAL REVIEW COMPLETE
 
-All **22/22** English records for scans **63–84 / printed pages 30–51 / Kural 146–255** are now `source-checked`.
+All **22/22** English records for scans **63–84 / printed pages 30–51 / Kural 146–255** are now `editorial-reviewed`.
 
 Current state:
 
-- `source-checked`: **22**;
+- `editorial-reviewed`: **22**;
+- `source-checked`: **0**;
 - `draft`: **0**;
-- `editorial-reviewed`: **0**;
 - `release-ready`: **0**.
 
-The source-check preserved Kalaignar's source-specific imagery and interpretations throughout the part, including explicit **another man's wife** wording, the earth images, **“let us forget, let us forgive,”** Lakshmi / Moodevi, the **chaff** comparison, **aram surrounding the plotter**, pursuing-enemy and shadow imagery, *oppuravu* as helping others, the **today's world / new world yet to come** readings, village water tank / fruit tree / medicinal tree imagery, the higher-world qualification in Giving, the treasury image for feeding the starving, **fame as the life of the human body**, the wealth-of-compassion and world-and-wind images, and the compassion/flesh-eating argument through Kural 255.
+Review artefact:
 
-The final source-check batch also restored important verse/commentary boundaries, including Kurals 216/217/219, 221/222, 226, 233, 239, 246/247 and 251/252. Working chapter headings remain provisional until the later editorial/glossary review.
+- [`translations/en/reviews/PART_004_REVIEW.md`](translations/en/reviews/PART_004_REVIEW.md)
+
+The review reconciled Part 004 main-body chapter headings 16–26 against this project's own glossary and the edition's released Part 002 index/glossary layer. It also controls `துறவறவியல்` as **Renunciant Life**.
+
+Four main-body headings deliberately refine the earlier index-local forms: `புறங்கூறாமை` → **Not Speaking Ill Behind Another's Back**; `தீவினையச்சம்` → **Fear of Evil Deeds**; `ஒப்புரவறிதல்` → **Understanding Helpfulness**; and `புலால் மறுத்தல்` → **Abstaining from Flesh**. The released index files themselves remain unchanged.
+
+All source-sensitive Kalaignar readings established during source-check remain intact, including explicit **another man's wife** wording, Lakshmi / Moodevi, **aram surrounding the plotter**, *oppuravu* / new-world readings, the higher-world qualification in Giving, **fame as the life of the human body**, and the compassion / flesh-eating argument through Kural 255.
+
+`translations/en/GLOSSARY.md` now records the Part 004 controlled main-body extension through Kural 255.
 
 ## அடுத்த செயல்
 
-Perform the **Part 004 English editorial-consistency / glossary-reconciliation review** across all scans **63–84 / Kural 146–255**.
+Perform the separate **Part 004 English release gate**.
 
-Review all 22 `source-checked` records as one set, reconcile working chapter headings and recurring terminology with the existing project glossary and this edition's own index/glossary layer, preserve all source-sensitive Kalaignar readings, create `translations/en/reviews/PART_004_REVIEW.md`, and promote qualifying pages to `editorial-reviewed`.
+Verify all 22 `editorial-reviewed` records, metadata, `PART_004_REVIEW.md`, glossary alignment and source-fidelity constraints; create `translations/en/reviews/PART_004_RELEASE_REPORT.md`; and promote pages to `release-ready` only if the gate passes.
 
-Do not perform the release gate or begin Part 005 English translation in the same activity.
+Do not begin Part 005 English translation in the same release-gate activity.
