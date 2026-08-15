@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Not Speaking Ill Behind Another's Back"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -21,8 +21,8 @@ will divide their companions by divisive speech.**
 
 Those who do not know how to behave pleasantly and continue a friendship will speak behind others' backs to the point of destroying friendship and will lose their friends.
 
-**188. What will they not do to strangers,  
-those whose habit is to revile even the faults of those close to them?**
+**188. What then of strangers,  
+when their habit is to revile even the faults of those close to them?**
 
 If people have the nature of speaking behind the backs of even those with whom they have been close and reviling their faults, what will they not say about those who are not close to them?
 
