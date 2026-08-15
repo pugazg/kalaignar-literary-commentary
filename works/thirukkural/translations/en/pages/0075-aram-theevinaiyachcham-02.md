@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Fear of Evil Deeds"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -31,8 +31,8 @@ one should not approach evil deeds even in the slightest.**
 
 A person who desires his own welfare must not move even a little toward evil actions.
 
-**210. Know one to be beyond rare ruin  
-if one does not stray from the path and commit evil deeds.**
+**210. Know one to be hard to ruin  
+if one does not stray aside and commit evil.**
 
 Know that no harm will come to a person who does not go astray and cause injury to others.
 
