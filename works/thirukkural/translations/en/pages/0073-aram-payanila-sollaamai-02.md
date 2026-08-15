@@ -6,13 +6,13 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Not Speaking Useless Words"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
 
-**196. One who praises useless speech for gain  
-is better called chaff among people than a son of humankind.**
+**196. One who keeps speaking useless words  
+should be called chaff among people, not a human being.**
 
 A person who speaks useless things hoping to gain from them is more fittingly called chaff than called a human being.
 
