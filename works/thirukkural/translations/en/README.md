@@ -46,23 +46,23 @@ Tamil Part 005 is **ARCHIVAL-READY**, covering scans **85–106 / printed pages 
 
 English state:
 
-- aligned English records: **7 / 22**;
-- `draft`: **7** — scans 85–91 / Kural 256–290;
+- aligned English records: **14 / 22**;
+- `draft`: **14** — scans 85–98 / Kural 256–325;
 - `source-checked`: **0**;
 - `editorial-reviewed`: **0**;
 - `release-ready`: **0**;
-- uncreated: **15** — scans 92–106.
+- uncreated: **8** — scans 99–106.
 
-The first batch continues **Abstaining from Flesh** through Kural 260 and then introduces the first-pass main-body headings **Ascetic Practice**, **Improper Conduct**, and **Not Stealing**. These three forms already occur in the released Part 002 index, but their Part 005 main-body status remains provisional until later editorial/glossary reconciliation.
+First-pass coverage now includes completion of **Abstaining from Flesh**, followed by **Ascetic Practice**, **Improper Conduct**, **Not Stealing**, **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, and the beginning of **Non-killing**. The chapter 27–33 forms already occur in the released Part 002 index, but their Part 005 main-body status remains provisional until later editorial/glossary reconciliation.
 
-The drafts preserve Kalaignar-specific imagery and explanation, including flesh as another living being's wound, sacrificial offerings, endurance and non-harm in ascetic practice, the five elements laughing at deceit, the cow in a tiger's skin, hunter and kunrimani images, the straight arrow / curved yaazh contrast, and the commentary's **world of fame** reading at Kural 290.
+The newer drafts preserve Kalaignar-specific explanations such as faultless good allowing even a false statement to stand as truth, conscience punishing falsehood, the inner lamp of truthfulness, anger as a fire that burns both the angry person and the protecting circle of kin, doing good to shame a wrongdoer, treating another living being's pain as one's own, the morning/afternoon consequence image, and the equalizing sharing principle in Kural 322.
 
 ## Next activity
 
-Continue **Part 005 English first-pass translation for scans 92–98 / printed pages 59–65 / Kural 291–325**.
+Complete the **Part 005 English first-pass translation for scans 99–106 / printed pages 66–73 / Kural 326–365**.
 
-Working headings for that batch are **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, and the beginning of **Non-killing**. Create `draft` records only.
+The final first-pass batch completes **Non-killing**, then covers **Impermanence**, **Renunciation**, **Realizing Truth**, and the supplied beginning of **Eradication of Desire**. Create `draft` records only.
 
-Do not begin Part 005 source-check or editorial review, and do not translate scan 99 onward in that same activity.
+Do not begin Part 005 source-check or editorial review in the same first-pass activity.
 
 See [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md) for detailed state.
