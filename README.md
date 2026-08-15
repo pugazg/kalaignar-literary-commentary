@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–005 **ARCHIVAL-READY** |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–004 **released**; Part 005 not started |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–004 **released**; Part 005 first pass **7/22 drafts** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -37,13 +37,13 @@ Tamil Parts 001–005 are archival-ready for all currently supplied source mater
 - Part 003: **21/21 `release-ready`**, through Kural **145**;
 - Part 004: **22/22 `release-ready`**, through Kural **255**.
 
-Part 004 release is documented in [`works/thirukkural/translations/en/reviews/PART_004_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_004_RELEASE_REPORT.md), following the completed editorial review in `PART_004_REVIEW.md`.
+Part 004 release is documented in [`works/thirukkural/translations/en/reviews/PART_004_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_004_RELEASE_REPORT.md).
 
-The released Part 004 main body retains the source-controlled forms **Not Speaking Ill Behind Another's Back**, **Fear of Evil Deeds**, **Understanding Helpfulness**, **Giving**, **Fame**, **Possession of Compassion**, and **Abstaining from Flesh**; `துறவறவியல்` remains **Renunciant Life**. The deliberate differences from earlier index-local title wording are documented rather than silently harmonized.
+### English Part 005 — FIRST PASS IN PROGRESS
 
-### English Part 005 — NOT STARTED
+Seven `draft` pages now cover scans **85–91 / printed pages 52–58 / Kural 256–290**, completing **Abstaining from Flesh** and adding first-pass translations for **Ascetic Practice**, **Improper Conduct**, and **Not Stealing**.
 
-Tamil Part 005 is already archival-ready. The next English activity is its first-pass translation for scans **85–91 / printed pages 52–58 / Kural 256–290**, creating `draft` records only. Do not combine that first pass with source-check or editorial review.
+No Part 005 source-check or editorial review has begun. The next batch is scans **92–98 / printed pages 59–65 / Kural 291–325**, using working forms **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, and **Non-killing**.
 
 For further Tamil archival work, the next source must continue after overall scan **106** / printed page **73** / Kural **365**.
 
