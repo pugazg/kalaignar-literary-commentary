@@ -20,7 +20,7 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 | Part 001 | 1–20 | archival-ready; scan 8 documented partial | **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS** |
 | Part 002 | 21–41 | archival-ready | **RELEASE-READY — 21/21** |
 | Part 003 | 42–62 | archival-ready | **RELEASE-READY — 21/21** |
-| Part 004 | 63–84 | archival-ready | **SOURCE-CHECK IN PROGRESS — 7/22 source-checked** |
+| Part 004 | 63–84 | archival-ready | **SOURCE-CHECK IN PROGRESS — 14/22 source-checked** |
 | Part 005 | 85–106 | archival-ready | not started |
 
 ## Current English counts
@@ -37,35 +37,56 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 
 ### Part 004
 - English page files: **22 / 22** — scans 63–84
-- `source-checked`: **7** — scans 63–69 / Kural 146–180
-- `draft`: **15** — scans 70–84 / Kural 181–255
+- `source-checked`: **14** — scans 63–76 / Kural 146–215
+- `draft`: **8** — scans 77–84 / Kural 216–255
 - `editorial-reviewed`: **0**
 - `release-ready`: **0**
 
 # Part 004 English source-check — IN PROGRESS
 
-The first source-check batch is complete for scans **63–69 / printed pages 30–36 / Kural 146–180**.
+Two source-check batches are complete:
 
-Checked coverage:
+- scans **63–69 / Kural 146–180**;
+- scans **70–76 / Kural 181–215**.
 
-- scan 63 — completion of **Not Desiring Another Man's Wife**, Kural 146–150;
-- scans 64–65 — **Forbearance**, Kural 151–160;
-- scans 66–67 — **Freedom from Envy**, Kural 161–170;
-- scans 68–69 — **Not Coveting**, Kural 171–180.
+The second batch covers **Not Speaking Ill Behind Another's Back**, **Not Speaking Useless Words**, **Fear of Evil Deeds**, and the supplied beginning of **Understanding Helpfulness**.
 
-All seven records were compared directly against the verified Tamil page. The established source-sensitive readings were retained, including explicit **another man's wife** wording, the earth-bearing-those-who-dig image, **“let us forget, let us forgive,”** Lakshmi / Moodevi, and Kalaignar's immediate-versus-lasting-benefit explanation.
+Source-sensitive readings retained in this batch include:
 
-One fidelity correction was made in scan 63 / Kural 149: the verse now says **“Those who do not touch the shoulders of the woman who belongs to another”** rather than shifting the grammatical action onto their own shoulders. The commentary remains separately rendered as touching the shoulder of another man's wife.
+- Kural 183 commentary's preference for death over a falsely lived life of backbiting;
+- Kural 189 commentary's image of the earth bearing the backbiter because bearing even such a person is itself aram;
+- Kural 196 commentary's comparison of the useless speaker to **chaff**;
+- Kural 204 commentary's **aram surrounding** the person who plots another's harm;
+- Kural 207's evil-deed-as-pursuing-enemy image and Kural 208's shadow image;
+- Kural 211's rain giving without expecting repayment;
+- Kural 213 commentary's *oppuravu* as helping others and Kalaignar's **today's world / new world yet to come** reading;
+- Kural 214 commentary's truly-living versus dead contrast;
+- Kural 215's village water-tank image for wealth serving the common good.
 
-The working Part 004 chapter headings remain provisional until editorial/glossary reconciliation.
+Source-check corrections in scans 70–76:
+
+1. **Kural 188** — the verse was tightened from the over-explicit “What will they not do to strangers?” to **“What then of strangers”**, leaving Kalaignar's commentary to supply the explicit “what will they not say?” explanation.
+2. **Kural 196** — removed the commentary-derived idea of speaking “for gain” from the verse. The verse now says **“One who keeps speaking useless words / should be called chaff among people, not a human being.”** Kalaignar's separate commentary retains the idea of hoping to gain from useless speech.
+3. **Kural 210** — replaced the awkward first-pass “beyond rare ruin” with the source-faithful **“hard to ruin.”**
+4. **Kural 214** — removed the commentary-derived idea of making one's life helpful to others from the verse. The verse now says **“One who knows what is fitting truly lives; / the other is counted among the dead.”** Kalaignar's commentary separately identifies this with *oppuravu* and helping others.
+
+Working Part 004 chapter headings remain provisional until editorial/glossary reconciliation.
 
 ## Next exact activity
 
-Continue the dedicated **Part 004 English source-check** with scans **70–76 / printed pages 37–43 / Kural 181–215**.
+Complete the dedicated **Part 004 English source-check** with scans **77–84 / printed pages 44–51 / Kural 216–255**.
+
+Coverage:
+
+- scan 77 — completion of **Understanding Helpfulness**, Kural 216–220;
+- scans 78–79 — **Giving**, Kural 221–230;
+- scans 80–81 — **Fame**, Kural 231–240;
+- scans 82–83 — **Possession of Compassion**, Kural 241–250;
+- scan 84 — supplied beginning of **Abstaining from Flesh**, Kural 251–255.
 
 Compare every Kural and Kalaignar commentary paragraph directly against the verified Tamil source. Correct only source-supported fidelity issues and promote only fully checked records to `source-checked`.
 
-Do **not** begin scans 77 onward source-check, editorial review, or Part 005 English translation in the same activity.
+Do **not** begin Part 004 editorial review or Part 005 English translation in the same activity.
 
 Permanent cadence:
 
