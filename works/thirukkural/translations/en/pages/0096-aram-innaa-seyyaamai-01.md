@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Renunciant Life — Not Causing Pain"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -33,7 +33,7 @@ is to do them good so that they bow their heads in shame.**
 
 The right way to punish a person who has harmed us is to do good to that person in such a way that he becomes ashamed and bows his head.
 
-**315. What use is intelligence if one does not regard another life's pain  
+**315. What use is intelligence if one does not regard another being's pain  
 as one's own pain and move to protect it?**
 
 For those who do not regard the suffering that comes to other living beings as their own suffering and come forward to protect them, what use is intelligence even if they possess it?
