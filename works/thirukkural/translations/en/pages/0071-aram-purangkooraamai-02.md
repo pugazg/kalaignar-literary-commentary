@@ -6,15 +6,15 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Not Speaking Ill Behind Another's Back"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
 
 **186. Of one who speaks of another's blame,  
-his own blame too will be examined and spoken of in its worst form.**
+one's own blame too will be examined and spoken of in its worst form.**
 
-If a person goes about speaking ill of others behind their backs, people will examine his own blameworthy acts and come to speak of the cruelest among them against him.
+If a person goes about speaking ill of others behind their backs, people will examine their own blameworthy acts and come to speak against them of the cruelest among those acts.
 
 **187. Those who do not know how to sustain friendship with pleasant words  
 will divide their companions by divisive speech.**
