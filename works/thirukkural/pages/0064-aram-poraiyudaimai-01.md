@@ -6,18 +6,18 @@ printed_page: "31"
 work: "thirukkural"
 section: "அறம் — இல்லறவியல் — பொறையுடைமை"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_004_pages_63-84.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 # 16. பொறையுடைமை
 
-**151. அகழ்வாரைத் தாங்கும் நிலம்போலத் தம்மை  
+**151. அகழ்வாரைத் தாங்கும் நிலம் போலத் தம்மை  
 இகழ்வார்ப் பொறுத்தல் தலை.**
 
-தன்னை குழி பறிப்போரையே தாங்குகின்ற பூமியைப் போல் தம்மை இகழ்ந்து பேசுகிறவர்களின் செயலையும் பொறுத்துக் கொள்வதே தலைசிறந்த பண்பாகும்.
+தன்மீது குழி பறிப்போரையே தாங்குகின்ற பூமியைப் போல் தம்மை இகழ்ந்து பேசுகிறவர்களின் செயலையும் பொறுத்துக் கொள்வதே தலைசிறந்த பண்பாகும்.
 
 **152. பொறுத்த லிறப்பினை யென்றும் அதனை  
 மறத்த லதனினும் நன்று.**
