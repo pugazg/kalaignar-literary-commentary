@@ -6,10 +6,10 @@ printed_page: "30"
 work: "thirukkural"
 section: "அறம் — இல்லறவியல் — பிறனில் விழையாமை"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_004_pages_63-84.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **146. பகையாவும் அச்சம் பழியென நான்கும்  
@@ -32,9 +32,9 @@ transcription_method: "manual transcription from source scan; direct visual veri
 
 பிறன் மனைவியின் தோளைத் தீண்டாதவரே கடல் சூழ் இவ்வுலகின் பெருமைகளை அடைவதற்குத் தகுதியுடையவர்.
 
-**150. அறன்வரையான் அல்ல செயினும் பிறன்வரையாள்  
+**150. அறன்வரையா னல்ல செயினும் பிறன்வரையாள்  
 பெண்மை நயவாமை நன்று.**
 
-பிறன் மனைவியை விரும்பிச் செயல்படுவது அறவழியில் நடக்காதவர் செயலிலே தீமையானதாகும்.
+பிறன் மனைவியை விரும்பிச் செயல்படுவது அறவழியில் நடக்காதவர் செயலைவிடத் தீமையானதாகும்.
 
 <!-- மூல ஸ்கேன் பக்கம்: 63; Part 004 உள்ளூர் பக்கம்: 1; அச்சுப் பக்கம்: 30 -->
