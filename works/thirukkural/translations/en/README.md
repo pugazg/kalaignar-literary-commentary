@@ -26,44 +26,46 @@ The English should retain the source author's language, images, emphases and int
 - `source-limited` — completeness limited by controlling source;
 - `blocked` — safe translation cannot proceed.
 
-## Part 001 — RELEASE COMPLETE
+## Parts 001–003 — RELEASE COMPLETE
 
-- aligned English records: **20 / 20**;
-- `release-ready`: **19**;
-- `source-limited`: **1** — scan 8 handwritten facsimile.
+- Part 001: 19 `release-ready` + scan 8 `source-limited`;
+- Part 002: **21/21 `release-ready`**;
+- Part 003: **21/21 `release-ready`**, through Kural 145.
 
-## Part 002 — RELEASE COMPLETE
+The established Part 001–003 review/release decisions remain binding, especially the rule that Kalaignar's interpretation is not to be replaced by a familiar external reading.
 
-- aligned English records: **21 / 21**;
-- `release-ready`: **21** — scans 21–41.
+## Part 004 — FIRST PASS IN PROGRESS
 
-## Part 003 — RELEASE COMPLETE
+Tamil Part 004 is **ARCHIVAL-READY**, covering scans **63–84 / printed pages 30–51 / Kural 146–255**.
 
-Tamil scans **42–62** are audited / archival-ready and cover Kural **41–145** with Kalaignar's commentary.
+English first-pass state:
 
-Current English state:
-
-- aligned English records: **21 / 21** — scans 42–62;
-- `release-ready`: **21** — scans 42–62;
-- `editorial-reviewed`: **0**;
+- aligned English records: **7 / 22** — scans 63–69;
+- `draft`: **7**;
 - `source-checked`: **0**;
-- `draft`: **0**.
+- `editorial-reviewed`: **0**;
+- `release-ready`: **0**;
+- current coverage: Kural **146–180**.
 
-Review/release artefacts:
+Current first-pass chapter coverage:
 
-- [`reviews/PART_003_REVIEW.md`](reviews/PART_003_REVIEW.md)
-- [`reviews/PART_003_RELEASE_REPORT.md`](reviews/PART_003_RELEASE_REPORT.md)
+- scan 63 — completion of **Not Desiring Another Man's Wife**, Kural 146–150;
+- scans 64–65 — **Forbearance**, Kural 151–160;
+- scans 66–67 — **Freedom from Envy**, Kural 161–170;
+- scans 68–69 — **Not Coveting**, Kural 171–180.
 
-Final release decision: **RELEASE-READY**.
+These are project-created first-pass renderings. The new chapter headings are working English forms and will be reconciled formally during the later Part 004 editorial/glossary review rather than being treated as imported standard titles.
 
-The release preserves all source-sensitive Kalaignar decisions established during source-check and editorial review. Examples include Kural 42 **those without protection**, Kural 55's slave/rain interpretation, Kural 58 **new world**, Kural 77 **conscience**, Kural 86 **heaven of fame**, Kural 87 hospitality-as-**sacrifice**, Kural 121's deathless/darkness verse versus **imperishable fame / life itself dark** commentary, Kural 126's **seven lives** versus protection **through all time**, Kural 130's **Aram waiting upon the path**, explicit birth/lineage and **Brahmin** language in Kurals 133–134, and **another man's wife** in the supplied Kural 141–145 material.
+The first pass retains source-sensitive features including the repeated **another man's wife** framing, Kalaignar's earth image for patience, the phrase **“let us forget, let us forgive”**, his explicit Lakshmi/Moodevi explanation, and his distinction between immediate and lasting benefit.
 
-Repeated Kurals **55, 58, 83, 94 and 98** retain their reviewed/released Part 002 wording where the same source wording recurs.
+## Part 005
 
-Part 003 ends with the supplied beginning of chapter 15 at Kural **145**. The English layer does not imply that the chapter is complete.
-
-See [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md), [`reviews/PART_003_REVIEW.md`](reviews/PART_003_REVIEW.md), and [`reviews/PART_003_RELEASE_REPORT.md`](reviews/PART_003_RELEASE_REPORT.md) for detailed decisions.
+Tamil Part 005 is also archival-ready, but its English translation has not started. Finish the Part 004 workflow before beginning Part 005 English.
 
 ## Next activity
 
-Do **not** begin speculative Part 004 English work. Future work resumes only when a new Tamil source confirms continuity from overall scan **63** after scan 62 / printed page 29 / Kural 145. That material must first complete Tamil transcription, direct visual verification and audit before English translation begins.
+Continue **Part 004 English first-pass translation** with scans **70–76 / printed pages 37–43 / Kural 181–215**, covering `புறங்கூறாமை`, `பயனில சொல்லாமை`, `தீவினையச்சம்`, and the beginning of `ஒப்புரவறிதல்`.
+
+Keep every newly created page at `draft`. Do not begin source-check in the same first-pass activity.
+
+See [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md) for detailed state.
