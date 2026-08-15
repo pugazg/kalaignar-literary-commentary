@@ -6,13 +6,13 @@ work: "thirukkural"
 section: "Aram — Renunciant Life — Truthfulness"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
 
-**296. There is no fame like living without falsehood;  
-that life gives every good of aram without departing.**
+**296. There is no fame like freedom from falsehood;  
+it gives every aram without fail.**
 
 There is no other life of fame equal to living without falsehood; it is that life which gives the benefits of the path of aram without ever leaving.
 
