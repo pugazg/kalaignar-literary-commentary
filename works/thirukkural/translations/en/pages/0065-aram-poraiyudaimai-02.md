@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Forbearance"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -34,6 +34,6 @@ Those who bear the cruel words of people who behave beyond all limits are like p
 **160. Those who fast without eating are great;  
 yet they stand only after those who endure others' cruel words.**
 
-Even those with the resolve to endure hunger and undertake a fast without food are honoured only in the place after those who bear the cruel words spoken by others.
+Even those with the resolve to endure hunger and undertake a fast without food are honoured only after those who bear the cruel words spoken by others.
 
 <!-- Source scan page: 65; Part 004 local page: 3; printed page: 32 -->
