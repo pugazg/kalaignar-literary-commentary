@@ -40,32 +40,38 @@ Part 004 release artefacts:
 
 The released Part 004 layer controls **Abstaining from Flesh** and structural **Renunciant Life**, which continue into Part 005.
 
-## Part 005 — SOURCE-CHECK IN PROGRESS
+## Part 005 — SOURCE-CHECK COMPLETE
 
 Tamil Part 005 is **ARCHIVAL-READY**, covering scans **85–106 / printed pages 52–73 / Kural 256–365**.
 
 English state:
 
 - aligned English records: **22 / 22**;
-- `source-checked`: **14** — scans 85–98 / Kural 256–325;
-- `draft`: **8** — scans 99–106 / Kural 326–365;
+- `source-checked`: **22 / 22**;
+- `draft`: **0**;
 - `editorial-reviewed`: **0**;
 - `release-ready`: **0**.
 
-The completed source-check now covers **Abstaining from Flesh**, **Ascetic Practice**, **Improper Conduct**, **Not Stealing**, **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, and the beginning of **Non-killing**.
+The completed source-check covers **Abstaining from Flesh**, **Ascetic Practice**, **Improper Conduct**, **Not Stealing**, **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, **Non-killing**, **Impermanence**, **Renunciation**, **Realizing Truth**, and the supplied beginning of **Eradication of Desire**.
 
-Three documented verse-level refinements currently matter for later review. Kural 270 retains **`few practise ascetic discipline`**, with firmness of mind left to Kalaignar's commentary. Kural 290 keeps `புத்தே ளுலகு` as **the higher world** in the verse while the commentary separately retains **life in the world of fame**. Kural 296 now reads **`There is no fame like freedom from falsehood; / it gives every aram without fail.`** rather than the first-pass grammatical drift.
+Documented source-check refinements include:
 
-Kural 319 remains intentionally layered: the Kural keeps the **morning / afternoon** image, while Kalaignar's commentary presents the returning harm as effectively immediate.
+- Kural 270 keeps **`few practise ascetic discipline`**, with firmness of mind left to Kalaignar's commentary;
+- Kural 290 keeps `புத்தே ளுலகு` as **the higher world** in the verse while the commentary separately retains **life in the world of fame**;
+- Kural 296 now reads **`There is no fame like freedom from falsehood; / it gives every aram without fail.`**;
+- Kural 337 now reads **`Those who do not know how to live even for a moment`**, avoiding an unsupported survival-uncertainty reading;
+- Kural 365 now reads **`the others have not truly given up anything`**, keeping the compressed verse distinct from Kalaignar's separate renunciant commentary.
 
-The Part 005 chapter forms remain provisional for main-body use until later editorial/glossary reconciliation.
+Other deliberate verse/commentary separations include Kural 319's morning/afternoon image, Kural 329's verified **loss of rational discernment**, and Kural 346's heavenly-world verse versus Kalaignar's **worldly fame surpassing even fame reaching the skies** commentary.
+
+The Part 005 chapter forms remain provisional for main-body use until editorial/glossary reconciliation.
 
 ## Next activity
 
-Complete the dedicated **Part 005 English source-check for scans 99–106 / printed pages 66–73 / Kural 326–365**.
+Begin the dedicated **Part 005 English editorial-consistency / glossary-reconciliation review across all 22 source-checked pages**.
 
-This final source-check batch completes **Non-killing** and covers **Impermanence**, **Renunciation**, **Realizing Truth**, and the supplied beginning of **Eradication of Desire**. Particular attention is required for Kural 329's verified `பகுத்தறிவு இழந்து செயல்படும்` reading and the verse/commentary separation at Kural 346.
+Review scans **85–106 / Kural 256–365**, reconcile chapter headings 27–37 and recurring terminology, check readability and verse/commentary separation, create `reviews/PART_005_REVIEW.md`, and promote only qualifying pages to `editorial-reviewed`.
 
-Do not begin editorial review in the same activity.
+Do not perform the Part 005 release gate in the same activity.
 
 See [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md) for detailed state.
