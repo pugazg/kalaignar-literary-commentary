@@ -6,10 +6,10 @@ printed_page: "62"
 work: "thirukkural"
 section: "அறம் — துறவறவியல் — வெகுளாமை"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_005_pages_85-106.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **306. சினமென்னுஞ் சேர்ந்தாரைக் கொல்லி இனமென்னும்  
