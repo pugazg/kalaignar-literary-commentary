@@ -22,8 +22,13 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 | Part 003 | 42–62 | archival-ready | **RELEASE-READY — 21/21** |
 | Part 004 | 63–84 | archival-ready | **RELEASE-READY — 22/22** |
 | Part 005 | 85–106 | archival-ready | **RELEASE-READY — 22/22** |
+| Part 006 | 107–127 | source received; Tamil first-pass in progress | not started — wait for Tamil verification/audit |
+| Part 007 | 128–148 | source received; transcription not started | not started |
+| Part 008 | 149–169 | source received; transcription not started | not started |
+| Part 009 | 170–191 | source received; transcription not started | not started |
+| Part 010 | 192–214 | source received; transcription not started | not started |
 
-## Current English counts
+## Released English counts
 
 ### Part 001
 - `release-ready`: **19**
@@ -47,31 +52,35 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 - `source-limited`: **0**
 - `blocked`: **0**
 
-# Parts 001–005 English release — COMPLETE FOR ALL SUPPLIED MATERIAL
+# Parts 001–005 English release — COMPLETE
 
-The project-created English translation has completed its release workflow for every currently supplied Tamil source part.
+The project-created English translation has completed its release workflow through Kural **365**, matching all Tamil material that has completed archival verification/audit so far.
 
-Release artefacts for the two latest parts:
+Latest release artefacts:
 
 - [`reviews/PART_004_REVIEW.md`](reviews/PART_004_REVIEW.md)
 - [`reviews/PART_004_RELEASE_REPORT.md`](reviews/PART_004_RELEASE_REPORT.md)
 - [`reviews/PART_005_REVIEW.md`](reviews/PART_005_REVIEW.md)
 - [`reviews/PART_005_RELEASE_REPORT.md`](reviews/PART_005_RELEASE_REPORT.md)
 
-Part 005 release covers scans **85–106 / printed pages 52–73 / Kural 256–365**. Chapter 26 continues **Abstaining from Flesh**, followed by the controlled main-body chapters **Ascetic Practice**, **Improper Conduct**, **Not Stealing**, **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, **Non-killing**, **Impermanence**, **Renunciation**, **Realizing Truth**, and the supplied beginning of **Eradication of Desire**. The structural section remains **Renunciant Life**.
+Part 005 release covers scans **85–106 / printed pages 52–73 / Kural 256–365** and retains all previously documented source-sensitive decisions.
 
-The release preserves the Part 005 glossary and source-sensitive decisions, including:
+## Newly supplied Tamil source — English intentionally paused
 
-- Kural **290** — verse `புத்தே ளுலகு` remains **the higher world**, while Kalaignar's commentary separately remains **life in the world of fame**;
-- Kural **319** — the Kural retains the **morning / afternoon** image while the commentary separately makes the returning harm effectively immediate;
-- Kural **329 commentary** — verified `பகுத்தறிவு இழந்து செயல்படும்` remains **act after losing rational discernment**;
-- Kural **346** — the verse retains a world higher than the heavenly dwellers while Kalaignar's commentary separately gives **worldly fame surpassing even fame reaching the skies**;
-- Kurals **356–365** — Kalaignar's renunciant-life, another-birth and desire readings remain commentary-specific and are not replaced by conventional doctrinal interpretations.
+Tamil Parts **006–010** have now been supplied and direct source intake confirms continuous material through overall scan **214** / printed page **181** / Kural **895**.
+
+English translation does **not** begin merely because those PDFs are available. The permanent prerequisite remains:
+
+**complete Tamil transcription → direct visual verification → Tamil part audit / archival-ready → English draft.**
+
+Part 006 currently has only its first **7 / 21** Tamil first-pass records, scans **107–113 / Kural 366–390**, all `needs-review`. Therefore no Part 006 English pages should yet be created.
 
 ## Next exact activity
 
-No further Thirukkural Tamil or English page work can proceed from the currently supplied material because the source ends at overall scan **106** / printed page **73** / Kural **365**.
+Continue the Tamil archival workflow, not English translation: Part 006 first-pass transcription for scans **114–120 / Kural 391–425**.
 
-The next Thirukkural activity requires a newly supplied source continuing with **Kural 366 onward**. Once that source is supplied, resume the permanent cadence:
+Once all Part 006 Tamil pages are transcribed, directly verified and the Part 006 audit passes, English Part 006 may begin with a separate first-pass activity.
+
+Permanent cadence:
 
 **Tamil transcription → Tamil verification → Tamil audit → English draft → English source check → editorial review → translation release report.**
