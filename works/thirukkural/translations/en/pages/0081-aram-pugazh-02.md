@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Fame"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -26,8 +26,8 @@ the world will call that a blame upon the life itself.**
 
 If one fails to earn fame that can remain even after one's life, the world will say that this itself is a stain upon that life.
 
-**239. The fertile yield of the blameless earth will diminish  
-when it bears a body without the life called fame.**
+**239. The rich yield of the blameless earth will diminish  
+when it bears a body without fame.**
 
 If this earth must bear a mere human body that lacks the life called fame, it will be regarded as land without good yield.
 
