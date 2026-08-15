@@ -45,28 +45,27 @@ All **22/22** first-pass English records exist for scans **63–84 / printed pag
 
 Current state:
 
-- `source-checked`: **7** — scans 63–69 / Kural 146–180;
-- `draft`: **15** — scans 70–84 / Kural 181–255;
+- `source-checked`: **14** — scans 63–76 / Kural 146–215;
+- `draft`: **8** — scans 77–84 / Kural 216–255;
 - `editorial-reviewed`: **0**;
 - `release-ready`: **0**.
 
-The first source-check batch covers completion of `15. பிறனில் விழையாமை`, then `16. பொறையுடைமை`, `17. அழுக்காறாமை`, and `18. வெஃகாமை`.
+The completed source-check now reaches the first half of `22. ஒப்புரவறிதல்`. The second batch retained Kalaignar's source-specific imagery and interpretation, including the earth bearing the backbiter, the **chaff** comparison, **aram surrounding the plotter**, pursuing-enemy and shadow images for evil deeds, rain giving without repayment, *oppuravu* as helping others, the **today's world / new world yet to come** reading, and the village water-tank image.
 
-The comparison retained Kalaignar's source-specific readings, including explicit **another man's wife** wording, the earth-bearing-those-who-dig image, **“let us forget, let us forgive,”** the Lakshmi / Moodevi explanation, and the immediate-versus-lasting-benefit distinction.
-
-One source-fidelity correction was made in scan 63 / Kural 149 so the English verse now correctly says that **those people do not touch the shoulders of the woman who belongs to another**, rather than shifting the action onto their own shoulders.
+Source-check refinements in scans 70–76 include keeping Kural 188 less interpretively expanded than its commentary, removing commentary-derived “for gain” from Kural 196, rendering Kural 210 as **hard to ruin**, and keeping Kural 214's verse separate from Kalaignar's helping-others explanation.
 
 Working chapter headings remain provisional until the later editorial/glossary review.
 
 ## அடுத்த செயல்
 
-Continue **Part 004 English source-check** with scans **70–76 / printed pages 37–43 / Kural 181–215**:
+Complete **Part 004 English source-check** with scans **77–84 / printed pages 44–51 / Kural 216–255**:
 
-- `19. புறங்கூறாமை`, Kural 181–190;
-- `20. பயனில சொல்லாமை`, Kural 191–200;
-- `21. தீவினையச்சம்`, Kural 201–210;
-- beginning of `22. ஒப்புரவறிதல்`, Kural 211–215.
+- completion of `22. ஒப்புரவறிதல்`, Kural 216–220;
+- `23. ஈகை`, Kural 221–230;
+- `24. புகழ்`, Kural 231–240;
+- `25. அருளுடைமை`, Kural 241–250;
+- supplied beginning of `26. புலால் மறுத்தல்`, Kural 251–255.
 
 Compare every Kural and Kalaignar commentary paragraph directly against the verified Tamil archival page and promote only fully checked pages to `source-checked`.
 
-Do not begin scans 77 onward, editorial review, or Part 005 English translation in the same activity.
+Do not begin editorial review or Part 005 English translation in the same activity.
