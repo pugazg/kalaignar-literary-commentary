@@ -6,8 +6,8 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–004 **ARCHIVAL-READY**; Part 005 first pass **22/22 complete**, verification pending |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–003 released; Part 004 Tamil archival-ready; Part 005 Tamil verification pending |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–004 **ARCHIVAL-READY**; Part 005 first pass 22/22, verification **7/22** |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–003 released; Part 004 Tamil archival-ready; Part 005 Tamil verification in progress |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -34,7 +34,7 @@ Tamil Parts 001–004 are archival-ready.
 - Part 002 — scans **21–41**, 21/21 verified;
 - Part 003 — scans **42–62**, 21/21 verified, through Kural **145**;
 - Part 004 — scans **63–84**, printed pages **30–51**, Kural **146–255**, **22/22 verified and audited — ARCHIVAL-READY**;
-- Part 005 — scans **85–106**, printed pages **52–73**, Kural **256–365**; first-pass repository transcription **22/22 complete**. All 22 records remain `needs-review`; direct visual verification has not started.
+- Part 005 — scans **85–106**, printed pages **52–73**, Kural **256–365**; first-pass repository transcription **22/22 complete**. Direct visual verification is now **7/22 complete**: scans 85–91 are `verified`, while scans 92–106 remain `needs-review`.
 
 The supplied physical source reaches overall scan **106** / printed page **73** / Kural **365**.
 
@@ -44,28 +44,16 @@ The separate archival audit has passed:
 
 [`works/thirukkural/AUDIT_PART_004.md`](works/thirukkural/AUDIT_PART_004.md)
 
-### Tamil Part 005 — FIRST PASS COMPLETE / VERIFICATION PENDING
+### Tamil Part 005 — VERIFICATION IN PROGRESS
 
-First-pass records created: **22 / 22**.
+First-pass records: **22 / 22**.
 
-Coverage is continuous from scan **85** / printed page **52** / Kural **256** through scan **106** / printed page **73** / Kural **365**.
+Verification state:
 
-Chapter coverage in the supplied Part 005 segment:
+- `verified`: **7** — scans 85–91 / printed pages 52–58 / Kural 256–290;
+- `needs-review`: **15** — scans 92–106 / printed pages 59–73 / Kural 291–365.
 
-- completion of `26. புலால் மறுத்தல்` — Kural 256–260;
-- `27. தவம்` — 261–270;
-- `28. கூடா ஒழுக்கம்` — 271–280;
-- `29. கள்ளாமை` — 281–290;
-- `30. வாய்மை` — 291–300;
-- `31. வெகுளாமை` — 301–310;
-- `32. இன்னா செய்யாமை` — 311–320;
-- `33. கொல்லாமை` — 321–330;
-- `34. நிலையாமை` — 331–340;
-- `35. துறவு` — 341–350;
-- `36. மெய்யுணர்தல்` — 351–360;
-- beginning of `37. அவா அறுத்தல்` — 361–365.
-
-All 22 records remain `needs-review` with `transcription_method: "manual transcription from source scan; direct visual verification pending"`.
+The first visual-verification batch was compared directly against the supplied scan pages. No source-text correction was required for scans 85–91; their first-pass transcription already matched the controlling source, including source-specific Kural joins/spacing and Kalaignar commentary.
 
 ### English Parts 001–003 — RELEASE COMPLETE
 
@@ -73,8 +61,8 @@ All 22 records remain `needs-review` with `transcription_method: "manual transcr
 - Part 002: **21/21 `release-ready`**;
 - Part 003: **21/21 `release-ready`**, through Kural **145**.
 
-Part 004 English is eligible to begin, but the immediate Tamil archival queue proceeds first with Part 005 direct visual verification.
+Part 004 English is eligible to begin, but the immediate Tamil archival queue continues Part 005 direct visual verification first.
 
-Next Tamil activity: **Part 005 direct visual verification for scans 85–91 / printed pages 52–58 / Kural 256–290**. Compare each record character-by-character against the controlling scan, correct only scan-supported differences, and promote only fully confirmed pages to `verified`. Do not begin the Part 005 audit or Part 004 English translation in the same activity.
+Next Tamil activity: **Part 005 direct visual verification for scans 92–98 / printed pages 59–65 / Kural 291–325**, covering `வாய்மை`, `வெகுளாமை`, `இன்னா செய்யாமை`, and the beginning of `கொல்லாமை`. Correct only differences supported by the actual scans and promote only fully confirmed records to `verified`. Do not begin the Part 005 audit, scans 99 onward verification, or Part 004 English translation in the same activity.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md) and [`HANDOVER.md`](HANDOVER.md).
