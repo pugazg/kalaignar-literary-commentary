@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–005 **ARCHIVAL-READY** |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–003 released; Part 004 source-check **22/22 complete**; Part 005 not started |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–003 released; Part 004 **22/22 editorial-reviewed**; Part 005 not started |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -36,13 +36,15 @@ Tamil Parts 001–005 are archival-ready for all currently supplied source mater
 - Part 002: **21/21 `release-ready`**;
 - Part 003: **21/21 `release-ready`**, through Kural **145**.
 
-### English Part 004 — SOURCE-CHECK COMPLETE
+### English Part 004 — EDITORIAL REVIEW COMPLETE
 
-All **22/22** English records for scans **63–84 / printed pages 30–51 / Kural 146–255** are now `source-checked`; there are no remaining Part 004 drafts.
+All **22/22** English records for scans **63–84 / printed pages 30–51 / Kural 146–255** are now `editorial-reviewed`.
 
-The source-check preserved Kalaignar's characteristic readings and images and restored verse/commentary separation where first-pass wording had absorbed explanatory prose. Important examples include the **another man's wife** wording, Lakshmi/Moodevi, **aram surrounding the plotter**, *oppuravu* and the new-world readings, fruit/medicinal-tree imagery, the higher-world qualification in Giving, **fame as the life of the human body**, and the compassion/flesh-eating argument through Kural 255.
+The review is recorded in [`works/thirukkural/translations/en/reviews/PART_004_REVIEW.md`](works/thirukkural/translations/en/reviews/PART_004_REVIEW.md). It reconciles the main-body headings and recurring terminology against the project's own source-controlled glossary/index decisions while preserving Kalaignar's distinctive language, images and interpretations.
 
-Next English activity: perform the **Part 004 editorial-consistency / glossary-reconciliation review** across all 22 source-checked records, create `PART_004_REVIEW.md`, and promote qualifying pages to `editorial-reviewed`. Do not perform the release gate or begin Part 005 English in the same activity.
+The controlled Part 004 main-body forms include **Not Speaking Ill Behind Another's Back**, **Fear of Evil Deeds**, **Understanding Helpfulness**, **Giving**, **Fame**, **Possession of Compassion**, and **Abstaining from Flesh**; `துறவறவியல்` is controlled as **Renunciant Life**. `GLOSSARY.md` records these decisions and the deliberate distinction from earlier index-local forms where applicable.
+
+Next English activity: perform the separate **Part 004 release gate**, create `PART_004_RELEASE_REPORT.md`, and promote the 22 pages to `release-ready` only if every release check passes. Do not begin Part 005 English in the same activity.
 
 For further Tamil archival work, the next source must continue after overall scan **106** / printed page **73** / Kural **365**.
 
