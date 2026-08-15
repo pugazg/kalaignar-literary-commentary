@@ -21,7 +21,7 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 | Part 002 | 21–41 | archival-ready | **RELEASE-READY — 21/21** |
 | Part 003 | 42–62 | archival-ready | **RELEASE-READY — 21/21** |
 | Part 004 | 63–84 | archival-ready | **RELEASE-READY — 22/22** |
-| Part 005 | 85–106 | archival-ready | **SOURCE-CHECK IN PROGRESS — 7/22** |
+| Part 005 | 85–106 | archival-ready | **SOURCE-CHECK IN PROGRESS — 14/22** |
 
 ## Current English counts
 
@@ -40,8 +40,8 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 
 ### Part 005
 - English page files: **22 / 22** — scans 85–106 / Kural 256–365
-- `source-checked`: **7** — scans 85–91 / Kural 256–290
-- `draft`: **15** — scans 92–106 / Kural 291–365
+- `source-checked`: **14** — scans 85–98 / Kural 256–325
+- `draft`: **8** — scans 99–106 / Kural 326–365
 - `editorial-reviewed`: **0**
 - `release-ready`: **0**
 - `source-limited`: **0**
@@ -58,29 +58,49 @@ Part 004 remains release-controlled through Kural 255, including **Abstaining fr
 
 # Part 005 English source-check — IN PROGRESS
 
-The first source-check batch is complete for scans **85–91 / printed pages 52–58 / Kural 256–290**. All seven pages were compared against their verified Tamil records and promoted to `source-checked` only after full-page comparison.
+The first two source-check batches are complete for scans **85–98 / printed pages 52–65 / Kural 256–325**. All fourteen pages were compared against their verified Tamil records and promoted to `source-checked` only after full-page comparison.
 
-The source-check preserves the first-pass source-sensitive material, including flesh as **the wound of another living being**, the thousand-sacrifice comparison, endurance/non-harm in `தவம்`, the five elements, cow/tiger-skin, hunter, kunrimani and arrow/*yaazh* images, compassion/love in the stealing chapter, and aram/deceit contrasts.
+The completed source-check now covers:
 
-Two verse-level fidelity refinements were made:
+- completion of **Abstaining from Flesh** — Kural 256–260;
+- **Ascetic Practice** — Kural 261–270;
+- **Improper Conduct** — Kural 271–280;
+- **Not Stealing** — Kural 281–290;
+- **Truthfulness** — Kural 291–300;
+- **Freedom from Anger** — Kural 301–310;
+- **Not Causing Pain** — Kural 311–320;
+- beginning of **Non-killing** — Kural 321–325.
 
-- **Kural 270**: `few practise with firmness` was changed to **`few practise ascetic discipline`** so the verse retains `நோற்பார்`, while Kalaignar's separate commentary continues to explain the contrast through firmness of mind.
-- **Kural 290**: the verse no longer imports Kalaignar's commentary phrase **world of fame**. The compressed `புத்தே ளுலகு` is rendered **the higher world** in the verse, while Kalaignar's commentary separately retains **life in the world of fame** (`புகழுலக வாழ்க்கை`).
+Source-sensitive material remains preserved, including flesh as **the wound of another living being**, the thousand-sacrifice comparison, the five elements, cow/tiger-skin, hunter, kunrimani and arrow/*yaazh* images, the compassion/love contrast in the stealing chapter, truthfulness as harmless speech, faultless good allowing falsehood a place as truth, the inner lamp of freedom from falsehood, anger as destructive fire, the ground-striking-hand image, doing good so a wrongdoer bows in shame, the morning/afternoon consequence image, and Kalaignar's equalizing sharing principle in Kural 322.
+
+Source-check fidelity refinements made so far include:
+
+- **Kural 270** — `few practise with firmness` → **`few practise ascetic discipline`**, keeping firmness of mind in Kalaignar's commentary rather than the verse;
+- **Kural 290** — verse `புத்தே ளுலகு` → **the higher world**, while Kalaignar's commentary separately retains **life in the world of fame** (`புகழுலக வாழ்க்கை`);
+- **Kural 296** — the verse now reads **`There is no fame like freedom from falsehood; / it gives every aram without fail.`**, removing the first-pass grammatical drift while preserving Kalaignar's separate commentary about the enduring benefits of the path of aram.
+
+Kural 319 remains deliberately separated: the verse retains the **morning / afternoon** image, while Kalaignar's commentary states that a similar harm can strike even while the wrongdoer is still rejoicing.
 
 No editorial review has begun.
 
 ## Next exact activity
 
-Continue the dedicated **Part 005 English source-check**, next batch only:
+Complete the dedicated **Part 005 English source-check**, final batch only:
 
-- scans **92–98**;
-- printed pages **59–65**;
-- Kural **291–325**;
-- **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, and the beginning of **Non-killing**.
+- scans **99–106**;
+- printed pages **66–73**;
+- Kural **326–365**;
+- completion of **Non-killing**;
+- **Impermanence**;
+- **Renunciation**;
+- **Realizing Truth**;
+- the supplied beginning of **Eradication of Desire**.
 
-Compare each Kural line-by-line and each Kalaignar commentary paragraph against the verified Tamil record. Correct only source-supported omissions, additions, grammatical drift, over-interpretation or verse/commentary leakage. Promote a page to `source-checked` only after the whole page passes.
+Compare each Kural line-by-line and each Kalaignar commentary paragraph against the verified Tamil record. Correct only source-supported omissions, additions, grammatical drift, over-interpretation or verse/commentary leakage. Pay particular attention to the verified Kural 329 commentary `பகுத்தறிவு இழந்து செயல்படும்`, the verse/commentary distinction at Kural 346, and the source-specific birth/desire interpretations in Kurals 356–365.
 
-Do **not** source-check scan 99 onward and do not begin editorial review in the same activity.
+Promote a page to `source-checked` only after the whole page passes.
+
+Do **not** begin editorial review in the same activity.
 
 Permanent cadence:
 
