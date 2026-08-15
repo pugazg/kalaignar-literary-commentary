@@ -6,8 +6,8 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–003 archival-ready; Part 004 transcription + verification **22/22 complete**, audit pending; Part 005 source queued |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–003 released; Parts 004–005 wait for Tamil archival readiness |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–004 **ARCHIVAL-READY**; Part 005 source queued |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–003 released; Part 004 Tamil archival-ready; Part 005 waits for Tamil archival readiness |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -28,27 +28,23 @@ The project translation follows an explicit fidelity rule: **retain Kalaignar's 
 
 ## தற்போதைய நிலை — திருக்குறள்
 
-Tamil Parts 001–003 are archival-ready. Two additional source PDFs have been inspected and accepted as continuous source material:
+Tamil Parts 001–004 are now archival-ready.
 
-- Part 004 — scans **63–84**, printed pages **30–51**, Kural **146–255**;
-- Part 005 — scans **85–106**, printed pages **52–73**, Kural **256–365**.
+- Part 001 — scans **1–20**; 19 verified + scan 8 documented partial;
+- Part 002 — scans **21–41**, 21/21 verified;
+- Part 003 — scans **42–62**, 21/21 verified, through Kural **145**;
+- Part 004 — scans **63–84**, printed pages **30–51**, Kural **146–255**, **22/22 verified and audited — ARCHIVAL-READY**;
+- Part 005 — scans **85–106**, printed pages **52–73**, Kural **256–365**, source inspected and queued; no repository page records yet.
 
-The supplied source now reaches overall scan **106** / printed page **73** / Kural **365**.
+The supplied physical source now reaches overall scan **106** / printed page **73** / Kural **365**.
 
-### Tamil Part 004 — VERIFICATION COMPLETE / AUDIT PENDING
+### Tamil Part 004 — ARCHIVAL-READY
 
-- first-pass page records: **22 / 22** — scans 63–84;
-- direct visual verification: **22 / 22**;
-- `verified`: **22**;
-- `needs-review`: **0**;
-- coverage: printed pages **30–51** / Kural **146–255**;
-- source section moves from `இல்லறவியல்` to `துறவறவியல்` at scan 82 / printed page 49 / chapter `25. அருளுடைமை`.
+The separate archival audit has passed:
 
-The verification cycle corrected only scan-supported first-pass mismatches. Batch 1 corrected Kural 150's printed `அறன்வரையா னல்ல`, its commentary `செயலைவிடத்`, and scan 64's `நிலம் போலத்` / `தன்மீது` readings. Batches 2 and 3 required no source-text correction.
+[`works/thirukkural/AUDIT_PART_004.md`](works/thirukkural/AUDIT_PART_004.md)
 
-Part 004 is **not yet labelled archival-ready** because its separate audit has not been completed.
-
-Part 005 is source-inspected and queued; no page records have been created yet.
+The audit confirms continuous scans 63–84, local pages 1–22, printed pages 30–51 and Kural 146–255; all 22 records are `verified` with direct visual comparison against the controlling scan. It also confirms the `இல்லறவியல்` → `துறவறவியல்` transition at scan 82 and retention of the four scan-supported corrections from the verification cycle.
 
 ### English Parts 001–003 — RELEASE COMPLETE
 
@@ -56,8 +52,8 @@ Part 005 is source-inspected and queued; no page records have been created yet.
 - Part 002: **21/21 `release-ready`**;
 - Part 003: **21/21 `release-ready`**, through Kural **145**.
 
-No Part 004 English work begins until Part 004 passes its Tamil archival audit.
+Part 004 English is now eligible to begin, but the immediate archival queue first processes the already supplied Part 005 Tamil source.
 
-Next Tamil activity: create and complete **`works/thirukkural/AUDIT_PART_004.md`** for scans **63–84 / Kural 146–255**. If every audit gate passes, mark Part 004 **ARCHIVAL-READY**. Do not begin Part 005 transcription or Part 004 English translation in the same activity.
+Next Tamil activity: transcribe **Part 005 scans 85–91 / printed pages 52–58 / Kural 256–290** as first-pass `needs-review` records, covering completion of `புலால் மறுத்தல்`, then `தவம்`, `கூடா ஒழுக்கம்`, and `கள்ளாமை`. Do not begin verification or Part 004 English translation in the same activity.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md) and [`HANDOVER.md`](HANDOVER.md).
