@@ -40,25 +40,25 @@ Permanent cadence:
 - Part 003: **21/21 `release-ready`**, through Kural 145;
 - Part 004: **22/22 `release-ready`**, through Kural 255.
 
-### Part 005 English — SOURCE-CHECK IN PROGRESS
+### Part 005 English — SOURCE-CHECK COMPLETE
 
-All **22/22** English page records exist for scans **85–106 / printed pages 52–73 / Kural 256–365**.
+All **22/22** English page records for scans **85–106 / printed pages 52–73 / Kural 256–365** are now `source-checked`.
 
 Current Part 005 English counts:
 
-- `source-checked`: **14** — scans 85–98 / Kural 256–325;
-- `draft`: **8** — scans 99–106 / Kural 326–365;
+- `source-checked`: **22 / 22**;
+- `draft`: **0**;
 - `editorial-reviewed`: **0**;
 - `release-ready`: **0**.
 
-Source-check now covers completion of **Abstaining from Flesh**, then **Ascetic Practice**, **Improper Conduct**, **Not Stealing**, **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, and the beginning of **Non-killing**.
+The source-check covers completion of **Abstaining from Flesh**, then **Ascetic Practice**, **Improper Conduct**, **Not Stealing**, **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, **Non-killing**, **Impermanence**, **Renunciation**, **Realizing Truth**, and the supplied beginning of **Eradication of Desire**.
 
-Important fidelity decisions include keeping Kural 290's verse `புத்தே ளுலகு` as **the higher world** while Kalaignar's commentary separately retains **life in the world of fame**, keeping Kural 319's morning/afternoon image in the verse while its commentary presents the returning harm as immediate, and refining Kural 296 to **`There is no fame like freedom from falsehood; / it gives every aram without fail.`**
+Important source-check decisions include keeping Kural 290's verse `புத்தே ளுலகு` as **the higher world** while Kalaignar's commentary separately retains **life in the world of fame**; keeping Kural 319's morning/afternoon image separate from its effectively immediate commentary consequence; preserving Kural 329's verified `பகுத்தறிவு இழந்து செயல்படும்`; retaining the Kural 346 heavenly-world verse separately from Kalaignar's **worldly fame surpassing even fame reaching the skies** commentary; refining Kural 337 to **`Those who do not know how to live even for a moment`**; and keeping Kural 365's compressed verse distinct from Kalaignar's explicit renunciant commentary.
 
 ## அடுத்த செயல்
 
-Complete the dedicated **Part 005 English source-check for scans 99–106 / printed pages 66–73 / Kural 326–365**.
+Begin the dedicated **Part 005 English editorial-consistency / glossary-reconciliation review across all 22 source-checked pages**.
 
-This final source-check batch completes **Non-killing**, then covers **Impermanence**, **Renunciation**, **Realizing Truth**, and the supplied beginning of **Eradication of Desire**. Pay particular attention to scan 99 / Kural 329's verified `பகுத்தறிவு இழந்து செயல்படும்` reading and the Kural 346 verse/commentary distinction.
+Review scans **85–106 / Kural 256–365**, reconcile the provisional chapter headings for chapters 27–37 and recurring terminology, check readability and verse/commentary separation, create `translations/en/reviews/PART_005_REVIEW.md`, and promote only qualifying pages to `editorial-reviewed`.
 
-Do not begin editorial review in the same activity.
+Do not perform the Part 005 release gate in the same activity.
