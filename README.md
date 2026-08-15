@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–005 **ARCHIVAL-READY** |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–003 released; Part 004 source-check **14/22 complete**; Part 005 not started |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–003 released; Part 004 source-check **22/22 complete**; Part 005 not started |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -36,18 +36,13 @@ Tamil Parts 001–005 are archival-ready for all currently supplied source mater
 - Part 002: **21/21 `release-ready`**;
 - Part 003: **21/21 `release-ready`**, through Kural **145**.
 
-### English Part 004 — SOURCE-CHECK IN PROGRESS
+### English Part 004 — SOURCE-CHECK COMPLETE
 
-All **22/22** first-pass records exist for scans **63–84 / printed pages 30–51 / Kural 146–255**.
+All **22/22** English records for scans **63–84 / printed pages 30–51 / Kural 146–255** are now `source-checked`; there are no remaining Part 004 drafts.
 
-Current state:
+The source-check preserved Kalaignar's characteristic readings and images and restored verse/commentary separation where first-pass wording had absorbed explanatory prose. Important examples include the **another man's wife** wording, Lakshmi/Moodevi, **aram surrounding the plotter**, *oppuravu* and the new-world readings, fruit/medicinal-tree imagery, the higher-world qualification in Giving, **fame as the life of the human body**, and the compassion/flesh-eating argument through Kural 255.
 
-- `source-checked`: **14** — scans 63–76 / Kural 146–215;
-- `draft`: **8** — scans 77–84 / Kural 216–255.
-
-The second source-check batch retained Kalaignar's earth-bearing-the-backbiter image, **chaff** comparison, **aram surrounding the plotter**, pursuing-enemy/shadow imagery, rain-without-repayment analogy, *oppuravu* / helping-others explanation, **today's world / new world yet to come**, and village water-tank image. Fidelity refinements kept Kural 188 and Kural 214 distinct from their explanatory commentary, removed a commentary-derived “for gain” from Kural 196, and clarified Kural 210 as **hard to ruin**.
-
-Next English activity: complete Part 004 source-check with scans **77–84 / printed pages 44–51 / Kural 216–255**. Do not begin editorial review or Part 005 English translation in the same activity.
+Next English activity: perform the **Part 004 editorial-consistency / glossary-reconciliation review** across all 22 source-checked records, create `PART_004_REVIEW.md`, and promote qualifying pages to `editorial-reviewed`. Do not perform the release gate or begin Part 005 English in the same activity.
 
 For further Tamil archival work, the next source must continue after overall scan **106** / printed page **73** / Kural **365**.
 
