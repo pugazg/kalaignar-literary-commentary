@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Renunciant Life — Not Causing Pain"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -19,7 +19,7 @@ What a person has learned through his own life to be painful should not be done 
 **317. At no time, to anyone, even in the smallest measure,  
 let the mind conceive a degrading act—this is foremost.**
 
-The foremost excellence is never, in any measure, at any time, toward anyone, to think even in the mind of an act that would demean that person.
+The foremost excellence is never, in any measure, at any time, to think even in the mind of an act that would demean anyone.
 
 **318. One who knows the pain that comes to one's own life—  
 how could one cause pain to other living beings?**
