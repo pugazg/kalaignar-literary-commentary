@@ -20,7 +20,7 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 | Part 001 | 1–20 | archival-ready; scan 8 documented partial | **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS** |
 | Part 002 | 21–41 | archival-ready | **RELEASE-READY — 21/21** |
 | Part 003 | 42–62 | archival-ready | **RELEASE-READY — 21/21** |
-| Part 004 | 63–84 | archival-ready | **EDITORIAL REVIEW COMPLETE — 22/22** |
+| Part 004 | 63–84 | archival-ready | **RELEASE-READY — 22/22** |
 | Part 005 | 85–106 | archival-ready | not started |
 
 ## Current English counts
@@ -36,66 +36,46 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 - `release-ready`: **21 / 21** — scans 42–62 / Kural 41–145
 
 ### Part 004
-- English page files: **22 / 22** — scans 63–84
-- `editorial-reviewed`: **22** — scans 63–84 / Kural 146–255
+- English page files: **22 / 22** — scans 63–84 / Kural 146–255
+- `release-ready`: **22**
+- `editorial-reviewed`: **0**
 - `source-checked`: **0**
 - `draft`: **0**
-- `release-ready`: **0**
 - `source-limited`: **0**
 - `blocked`: **0**
 
-# Part 004 English editorial review — COMPLETE
+# Part 004 English release — COMPLETE
 
-All **22/22** Part 004 English records have completed the second-pass editorial consistency / glossary-reconciliation review.
+All **22/22** Part 004 English records have passed the release gate.
 
-Review artefact:
+Release artefacts:
 
 - [`reviews/PART_004_REVIEW.md`](reviews/PART_004_REVIEW.md)
+- [`reviews/PART_004_RELEASE_REPORT.md`](reviews/PART_004_RELEASE_REPORT.md)
 
-The review covers scans **63–84 / printed pages 30–51 / Kural 146–255** and confirms continuity from the released Part 003 chapter 15 at Kural 145 into Part 004 Kural 146.
+Release coverage is scans **63–84 / printed pages 30–51 / Kural 146–255**. Part 003 scan 62 / Kural 145 and Part 004 scan 63 / Kural 146 remain continuous within chapter 15, **Not Desiring Another Man's Wife**.
 
-## Controlled Part 004 main-body headings
+Controlled Part 004 main-body headings remain **Forbearance**, **Freedom from Envy**, **Not Coveting**, **Not Speaking Ill Behind Another's Back**, **Not Speaking Useless Words**, **Fear of Evil Deeds**, **Understanding Helpfulness**, **Giving**, **Fame**, **Possession of Compassion**, and **Abstaining from Flesh**. Structural `துறவறவியல்` remains **Renunciant Life**.
 
-- **Forbearance** — chapter 16;
-- **Freedom from Envy** — chapter 17;
-- **Not Coveting** — chapter 18;
-- **Not Speaking Ill Behind Another's Back** — chapter 19;
-- **Not Speaking Useless Words** — chapter 20;
-- **Fear of Evil Deeds** — chapter 21;
-- **Understanding Helpfulness** — chapter 22;
-- **Giving** — chapter 23;
-- **Fame** — chapter 24;
-- **Possession of Compassion** — chapter 25;
-- **Abstaining from Flesh** — chapter 26.
+The four deliberate main-body/index-local distinctions remain documented and unchanged: **Not Speaking Ill Behind Another's Back** vs index-local *Not Slandering*; **Fear of Evil Deeds** vs *Dread of Evil Deeds*; **Understanding Helpfulness** vs *Understanding Mutual Help*; and **Abstaining from Flesh** vs *Abstaining from Meat*.
 
-The structural section `துறவறவியல்` is controlled as **Renunciant Life**.
-
-Four main-body headings deliberately refine earlier Part 002 index-local forms: **Not Speaking Ill Behind Another's Back** rather than *Not Slandering*; **Fear of Evil Deeds** rather than *Dread of Evil Deeds*; **Understanding Helpfulness** rather than *Understanding Mutual Help*; and **Abstaining from Flesh** rather than *Abstaining from Meat*. The already released index files remain unchanged because those are preserved as index-local translation records.
-
-## Source-sensitive readings retained
-
-The editorial review preserves the source-check decisions throughout Part 004, including explicit **another man's wife** wording, earth/diggers and earth/backbiter imagery, **“let us forget, let us forgive,”** Lakshmi / Moodevi, the **chaff** comparison, **aram surrounding the plotter**, pursuing-enemy / shadow imagery, *oppuravu* as helping others, the **today's world / new world yet to come** readings, village-water-tank / fruit-tree / medicinal-tree imagery, the higher-world qualification in Giving, the **treasury** image for feeding the starving, **fame as the life of the human body**, the wealth-of-compassion and world-and-wind images, and the compassion / flesh-eating argument through Kural 255 including the pit-of-filth image.
-
-## Editorial refinements after source-check
-
-Only small readability and consistency changes were made without changing source meaning. They include smoothing Kural 160 commentary, removing duplicated phrasing in Kural 183, making Kural 184 and 186 pronouns internally consistent, simplifying the English of Kural 200, revising Kural 238 to **a reproach upon that life**, using generic **one's own flesh** in Kural 251, and changing Kural 254's awkward `no right thing` to **not right**.
-
-`GLOSSARY.md` now records the Part 004 controlled main-body extension through Kural 255 and the deliberate distinction between main-body titles and the earlier index-local forms.
+All source-sensitive Kalaignar readings established during source-check and editorial review remain intact, including explicit **another man's wife** wording, earth/diggers and earth/backbiter imagery, **“let us forget, let us forgive,”** Lakshmi/Moodevi, **chaff**, **aram surrounding the plotter**, pursuing-enemy/shadow imagery, *oppuravu* as helping others, the source-specific **new world** readings, village-water-tank / fruit-tree / medicinal-tree imagery, the higher-world qualification in Giving, **storehouse / treasury** separation, **life called fame** only in commentary, the wealth-of-compassion / world-and-wind images, and the compassion/flesh-eating argument through Kural 255 including the pit-of-filth image.
 
 ## Next exact activity
 
-Perform the separate **Part 004 English release gate**.
+Begin **Part 005 English first-pass translation**, first batch only:
 
-The release gate should:
+- scans **85–91**;
+- printed pages **52–58**;
+- Kural **256–290**;
+- completion of chapter 26 **Abstaining from Flesh**;
+- chapter 27 **Ascetic Practice**;
+- chapter 28 **Improper Conduct**;
+- chapter 29 **Not Stealing**.
 
-1. verify all 22 `editorial-reviewed` Part 004 records and one-to-one metadata;
-2. verify the decisions recorded in `reviews/PART_004_REVIEW.md` and `GLOSSARY.md`;
-3. reconfirm source-fidelity constraints and Part 003 → Part 004 continuity;
-4. create `reviews/PART_004_RELEASE_REPORT.md`;
-5. promote all qualifying Part 004 pages to `release-ready` only if the gate passes;
-6. synchronize translation status, READMEs and `HANDOVER.md`.
+Create English page files mirroring the audited Tamil filenames and mark them `status: "draft"`. Translate the Kural and Kalaignar commentary separately and preserve Kalaignar's language and interpretive direction.
 
-Do **not** begin Part 005 English translation in the same release-gate activity.
+Do **not** perform Part 005 source-check or editorial review in the same first-pass activity.
 
 Permanent cadence:
 
