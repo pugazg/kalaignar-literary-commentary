@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Not Speaking Ill Behind Another's Back"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -23,13 +23,13 @@ is smiling falsely to one's face and speaking ill behind one's back.**
 
 To smile and speak falsely when seeing a person face to face, and then speak maliciously about that person where they are absent, is more cruel than disregarding the path of aram and doing things contrary to it.
 
-**183. Rather than live by speaking ill behind others' backs and living falsely,  
+**183. Rather than live by speaking ill behind others' backs and behaving falsely,  
 death will bring the gain that aram speaks of.**
 
 Rather than live by saying one thing where a person is seen and another where that person is not seen, speaking behind their back and behaving falsely, it is better to die.
 
-**184. Even if you speak harshly to one's face, looking one in the eye,  
-do not speak words behind one's back without considering what follows.**
+**184. Even if one speaks harshly to another's face, looking them in the eye,  
+one should not speak behind their back without considering what follows.**
 
 One may even speak harshly about a person's faults directly to their face. But it is wrong to find fault with someone who is absent without considering the consequences.
 
