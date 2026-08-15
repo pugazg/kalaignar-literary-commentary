@@ -235,3 +235,52 @@ The Part 002 index remains unchanged as an index-local reviewed translation. Par
 | புலால் / ஊன் | flesh | Chapter 26 main-body title is **Abstaining from Flesh**. Preserve another-being/body/flesh imagery in the verse and Kalaignar's commentary; the Part 002 index-local `Abstaining from Meat` remains unchanged. |
 
 For detailed reasons, source-sensitive constraints, and the small readability refinements made after source-check, see `reviews/PART_004_REVIEW.md`.
+
+## Part 005 main-body controlled extension
+
+The Part 005 editorial-consistency review extends the controlled main-body heading set through the currently supplied Kural **365**. Chapter 26 continues from Part 004; chapters 27–37 are established below from the supplied Part 005 main body.
+
+### Main-body chapter titles 27–37
+
+| No. | Tamil heading | Controlled main-body English heading |
+|---:|---|---|
+| 27 | தவம் | Ascetic Practice |
+| 28 | கூடா ஒழுக்கம் | Improper Conduct |
+| 29 | கள்ளாமை | Not Stealing |
+| 30 | வாய்மை | Truthfulness |
+| 31 | வெகுளாமை | Freedom from Anger |
+| 32 | இன்னா செய்யாமை | Not Causing Pain |
+| 33 | கொல்லாமை | Non-killing |
+| 34 | நிலையாமை | Impermanence |
+| 35 | துறவு | Renunciation |
+| 36 | மெய்யுணர்தல் | Realizing Truth |
+| 37 | அவா அறுத்தல் | Eradication of Desire |
+
+These headings match the already released Part 002 index-local project forms. Part 005 main-body review independently confirms them; the agreement does not make the index authoritative over later main-body source context.
+
+### Recurring Part 005 terms
+
+| Tamil | Controlled English range | Part 005 editorial note |
+|---|---|---|
+| தவம் | Ascetic Practice / ascetic practice / ascetic discipline / observance | **Ascetic Practice** is the controlled chapter title. Running prose remains context-sensitive; do not mechanically erase the source's discipline/observance shades. |
+| வாய்மை | Truthfulness / truthfulness | Controlled chapter 30 term. Where the Tamil specifically uses `பொய்யாமை`, retain **freedom from falsehood / not lying** rather than forcing the chapter title. |
+| இன்னா / இன்னா செய்யாமை | pain / suffering / harm; Not Causing Pain | **Not Causing Pain** is the controlled chapter title; prose varies according to the immediate sentence. |
+| கொல்லாமை | Non-killing / non-killing | Controlled chapter 33 term; retain the hyphenated project form. |
+| பற்று | attachment / attach / cling | Preserve the repeated attachment language in chapter 35; do not diversify it merely for style. |
+| துறவு / துறவி / துறவறம் | Renunciation / renunciant / renunciant life | Keep Kalaignar's source-specific renunciant-life interpretations distinct from the compressed Kural where required. |
+| மெய்ப்பொருள் / மெய்யுணர்தல் | true reality / true meaning; Realizing Truth | **Realizing Truth** is the controlled chapter heading. Use `true reality` or `true meaning` contextually in verse/commentary. |
+| பிறப்பு | birth / another birth | Use **birth** by default. Use **another birth** only where Kalaignar's commentary explicitly states it; do not silently import `rebirth` or a doctrinal reincarnation gloss. |
+| அவா | desire | Controlled chapter 37 concept. Kalaignar's Kural 364 commentary specifically uses `பேராசை`, retained as **greed** there. |
+| அருள் / அன்பு — Kural 285 | compassion / love | Preserve both source concepts distinctly; do not merge `அருள்` and `அன்பு`. |
+
+### Part 005 source-sensitive exceptions / layer separation
+
+| Tamil source form | Controlled treatment | Editorial note |
+|---|---|---|
+| புத்தே ளுலகு — Kural 290 | the higher world | This Kural's compressed verse is kept independent of Kalaignar's commentary, which explicitly gives `புகழுலக வாழ்க்கை` → **life in the world of fame**. Do not mechanically force the earlier `new world` treatment into this verse. |
+| முற்பகல் / பிற்பகல் — Kural 319 | morning / afternoon | Keep the verse's time image. Kalaignar's commentary separately makes the returning harm effectively immediate. |
+| பகுத்தறிவு இழந்து செயல்படும் — Kural 329 commentary | act after losing rational discernment | Verified source-specific reading; do not revert to the earlier erroneous `பகுத்தறிவு மிகுந்த` sense. |
+| வானோர்க்குயர்ந்த உலகம் — Kural 346 | a world higher than that of the dwellers in heaven | Keep the compressed verse distinct from Kalaignar's commentary, which gives **worldly fame surpassing even fame reaching the skies**. |
+| அடுத்த பிறப்பு — Kural 358 commentary | another birth | Kalaignar's explicit commentary wording; do not generalize this into a project-wide doctrinal interpretation of every `பிறப்பு`. |
+
+For heading decisions, protected source-specific readings, and the post-source-check readability refinements, see `reviews/PART_005_REVIEW.md`.
