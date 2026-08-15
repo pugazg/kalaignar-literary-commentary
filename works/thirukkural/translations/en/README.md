@@ -40,38 +40,32 @@ Part 004 release artefacts:
 
 The released Part 004 layer controls **Abstaining from Flesh** and structural **Renunciant Life**, which continue into Part 005.
 
-## Part 005 — SOURCE-CHECK COMPLETE
+## Part 005 — EDITORIAL REVIEW COMPLETE
 
 Tamil Part 005 is **ARCHIVAL-READY**, covering scans **85–106 / printed pages 52–73 / Kural 256–365**.
 
 English state:
 
 - aligned English records: **22 / 22**;
-- `source-checked`: **22 / 22**;
+- `editorial-reviewed`: **22 / 22**;
+- `source-checked`: **0**;
 - `draft`: **0**;
-- `editorial-reviewed`: **0**;
 - `release-ready`: **0**.
 
-The completed source-check covers **Abstaining from Flesh**, **Ascetic Practice**, **Improper Conduct**, **Not Stealing**, **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, **Non-killing**, **Impermanence**, **Renunciation**, **Realizing Truth**, and the supplied beginning of **Eradication of Desire**.
+Editorial review artefact:
 
-Documented source-check refinements include:
+- [`reviews/PART_005_REVIEW.md`](reviews/PART_005_REVIEW.md)
 
-- Kural 270 keeps **`few practise ascetic discipline`**, with firmness of mind left to Kalaignar's commentary;
-- Kural 290 keeps `புத்தே ளுலகு` as **the higher world** in the verse while the commentary separately retains **life in the world of fame**;
-- Kural 296 now reads **`There is no fame like freedom from falsehood; / it gives every aram without fail.`**;
-- Kural 337 now reads **`Those who do not know how to live even for a moment`**, avoiding an unsupported survival-uncertainty reading;
-- Kural 365 now reads **`the others have not truly given up anything`**, keeping the compressed verse distinct from Kalaignar's separate renunciant commentary.
+The main-body headings **Ascetic Practice**, **Improper Conduct**, **Not Stealing**, **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, **Non-killing**, **Impermanence**, **Renunciation**, **Realizing Truth**, and **Eradication of Desire** are now controlled through Part 005. These forms match the released Part 002 index-local forms after independent main-body review. **Abstaining from Flesh** and **Renunciant Life** continue from the released Part 004 layer.
 
-Other deliberate verse/commentary separations include Kural 319's morning/afternoon image, Kural 329's verified **loss of rational discernment**, and Kural 346's heavenly-world verse versus Kalaignar's **worldly fame surpassing even fame reaching the skies** commentary.
+`GLOSSARY.md` now records the Part 005 treatment of ascetic practice/discipline, compassion versus love, truthfulness versus freedom from falsehood, pain/suffering/harm, non-killing, attachment, renunciation, true reality, birth/another birth and desire.
 
-The Part 005 chapter forms remain provisional for main-body use until editorial/glossary reconciliation.
+Protected source-sensitive distinctions remain intact, especially Kural 290's **higher world** verse versus **world of fame** commentary, Kural 319's morning/afternoon verse versus effectively immediate commentary consequence, Kural 329's verified **loss of rational discernment**, and Kural 346's heavenly-world verse versus Kalaignar's **worldly fame surpassing even fame reaching the skies** commentary.
 
 ## Next activity
 
-Begin the dedicated **Part 005 English editorial-consistency / glossary-reconciliation review across all 22 source-checked pages**.
+Perform the separate **Part 005 English release gate** for all 22 `editorial-reviewed` records. Verify metadata, source alignment, chapter/glossary consistency, verse/commentary separation and protected source-sensitive readings; create `reviews/PART_005_RELEASE_REPORT.md`; promote pages to `release-ready` only if the gate passes.
 
-Review scans **85–106 / Kural 256–365**, reconcile chapter headings 27–37 and recurring terminology, check readability and verse/commentary separation, create `reviews/PART_005_REVIEW.md`, and promote only qualifying pages to `editorial-reviewed`.
-
-Do not perform the Part 005 release gate in the same activity.
+Do not translate Kural 366 onward without newly supplied source material.
 
 See [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md) for detailed state.
