@@ -14,103 +14,89 @@ Permanent cadence:
 
 **Tamil transcription → Tamil direct visual verification → Tamil audit / archival-ready → English draft → English source-check → English editorial review → English release report.**
 
-# திருக்குறள் — established archival state
+# திருக்குறள் — established Tamil archival state
 
 - Part 001 — scans 1–20: **ARCHIVAL-READY WITH ONE DOCUMENTED PARTIAL FACSIMILE**; 19 verified + scan 8 partial.
 - Part 002 — scans 21–41: **ARCHIVAL-READY**, 21/21 verified.
 - Part 003 — scans 42–62: **ARCHIVAL-READY**, 21/21 verified; printed pages 9–29; Kural 41–145.
 - Part 004 — scans 63–84: **ARCHIVAL-READY**, 22/22 verified and audited; printed pages 30–51; Kural 146–255.
+- Part 005 — scans 85–106: **ARCHIVAL-READY**, 22/22 verified and audited; printed pages 52–73; Kural 256–365.
 
-Do not redo or renumber Parts 001–004.
+The currently supplied Tamil source therefore reaches overall scan **106** / printed page **73** / Kural **365**.
 
-English project translation currently released:
+Do not redo or renumber Parts 001–005.
 
-- Part 001 — 19 `release-ready` + scan 8 `source-limited`;
-- Part 002 — 21/21 `release-ready`;
-- Part 003 — 21/21 `release-ready`.
+## Part 005 audit
 
-Part 004 English is eligible because its Tamil archive is archival-ready.
-
-# Part 005 Tamil — FULLY VERIFIED / AUDIT PENDING
-
-Source filename:
-
-`திருக்குறள்_கலைஞர்_உரை_part_005_pages_85-106.pdf`
-
-Confirmed supplied source range:
-
-- local PDF pages: **22**;
-- overall scans: **85–106**;
-- printed pages: **52–73**;
-- Kural range: **256–365**;
-- scan 85 begins with Kural **256**, directly continuing Part 004 scan 84 / Kural 255;
-- scan 106 ends with Kural **365**, midway through chapter 37 `அவா அறுத்தல்`.
-
-Current repository state for Part 005:
-
-- page records: **22 / 22**;
-- first-pass transcription: **22 / 22 complete**;
-- direct visual verification: **22 / 22 complete**;
-- `verified`: **22**;
-- `needs-review`: **0**;
-- uncreated records: **0**;
-- no Part 005 audit exists yet.
-
-Every Part 005 record now uses:
-
-`status: "verified"`
-
-and:
-
-`transcription_method: "direct visual comparison with source scan"`
-
-## Verification result
-
-All scans **85–106** were compared directly with the supplied source images.
-
-- scans **85–98 and 100–106** required no source-text correction;
-- scan **99 / Kural 329 commentary** required one source-supported correction:
-  - first pass: `பகுத்தறிவு மிகுந்த செயல்படும்`
-  - controlling scan: **`பகுத்தறிவு இழந்து செயல்படும்`**
-
-The corrected wording is now stored in `0099-aram-kollaamai-02.md`.
-
-Chapter coverage:
-
-- completion of `26. புலால் மறுத்தல்` — 256–260;
-- `27. தவம்` — 261–270;
-- `28. கூடா ஒழுக்கம்` — 271–280;
-- `29. கள்ளாமை` — 281–290;
-- `30. வாய்மை` — 291–300;
-- `31. வெகுளாமை` — 301–310;
-- `32. இன்னா செய்யாமை` — 311–320;
-- `33. கொல்லாமை` — 321–330;
-- `34. நிலையாமை` — 331–340;
-- `35. துறவு` — 341–350;
-- `36. மெய்யுணர்தல்` — 351–360;
-- beginning of `37. அவா அறுத்தல்` — 361–365.
-
-Part 005 is **fully verified but not yet archival-ready** because the separate archival audit is still pending.
-
-# Exact next activity
-
-Perform the **Part 005 Tamil archival audit** across all 22 verified records.
-
-Create:
+Audit file:
 
 `works/thirukkural/AUDIT_PART_005.md`
 
-Audit gates:
+Audit result: **ARCHIVAL-READY**.
 
-1. confirm exactly 22 one-to-one records for scans 85–106;
-2. confirm local pages 1–22 and printed pages 52–73 without gap or duplication;
-3. confirm continuous Kural numbering 256–365 with no missing or duplicate number;
-4. confirm Part 004→005 continuity at Kural 255→256;
-5. confirm chapter continuity from completion of `புலால் மறுத்தல்` through the supplied beginning of `அவா அறுத்தல்`;
-6. confirm all 22 records have `status: "verified"` and `transcription_method: "direct visual comparison with source scan"`;
-7. reconfirm the scan-99 correction `பகுத்தறிவு இழந்து செயல்படும்` against the source;
-8. confirm no standard/web Kural text or unsourced normalization was substituted.
+The audit confirms:
 
-If all gates pass, mark Part 005 **ARCHIVAL-READY**, synchronize `works/thirukkural/README.md`, root `README.md`, and this handover, then stop.
+- exactly **22/22** one-to-one page records for scans 85–106;
+- local pages **1–22**;
+- printed pages **52–73**;
+- continuous Kural range **256–365**;
+- Part 004→005 continuity at Kural **255→256**;
+- all 22 records at `status: "verified"`;
+- all 22 records use `transcription_method: "direct visual comparison with source scan"`;
+- no remaining `needs-review`, partial, blocked or uncreated Part 005 record;
+- chapter continuity from completion of `26. புலால் மறுத்தல்` through the supplied beginning of `37. அவா அறுத்தல்`;
+- source-specific Tamil retained without standard/web substitution;
+- scan 99 / Kural 329 commentary correction retained as **`பகுத்தறிவு இழந்து செயல்படும்`**.
 
-**Do not begin Part 004 English translation in the same audit activity.**
+Part 005 ends intentionally at Kural 365 because the supplied PDF ends there. Do not import Kural 366 onward from another source.
+
+# English project translation state
+
+Currently released:
+
+- Part 001 — 19 `release-ready` + scan 8 `source-limited`;
+- Part 002 — 21/21 `release-ready`;
+- Part 003 — 21/21 `release-ready`, through Kural 145.
+
+Tamil Parts **004 and 005 are now archival-ready**, so both are eligible for the existing English project-translation workflow.
+
+The controlling translation rule remains:
+
+> **Retain Kalaignar's own language, images, emphases and interpretive direction. Do not replace his reading with familiar standard Thirukkural interpretations or copy a published external English Kural translation.**
+
+Preserve the established separation between:
+
+- the Kural itself;
+- Kalaignar's commentary;
+- any project editorial/glossary layer.
+
+# Exact next activity
+
+Begin **Part 004 English first-pass translation** from audited Tamil source.
+
+Initial batch:
+
+- overall scans **63–69**;
+- printed pages **30–36**;
+- Kural **146–180**;
+- completion of `15. பிறனில் விழையாமை`;
+- `16. பொறையுடைமை`;
+- `17. அழுக்காறாமை`;
+- `18. வெஃகாமை`.
+
+Follow the same English record structure and metadata conventions used in released Parts 001–003.
+
+For every new English record:
+
+1. use the corresponding audited Tamil Markdown page as the working basis, with the scan remaining the ultimate source authority;
+2. translate both Kural and Kalaignar commentary without importing an external standard translation;
+3. retain Kalaignar's distinctive wording, imagery, social framing and interpretive choices;
+4. keep Kural and commentary clearly separate;
+5. use `translation_type: "project_translation"`;
+6. begin at `status: "draft"`;
+7. preserve one-to-one scan/page correspondence and source metadata;
+8. do not begin source-check in the same first-pass activity.
+
+After scans 63–69 are drafted, synchronize the English translation status/README files and this handover, then stop.
+
+For further Tamil archival work, wait for the next supplied source beginning after overall scan **106** / printed page **73** / Kural **365**.
