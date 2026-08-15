@@ -37,30 +37,33 @@ The English should retain the source author's language, images, emphases and int
 - aligned English records: **21 / 21**;
 - `release-ready`: **21** — scans 21–41.
 
-## Part 003 — EDITORIAL REVIEW COMPLETE
+## Part 003 — RELEASE COMPLETE
 
 Tamil scans **42–62** are audited / archival-ready and cover Kural **41–145** with Kalaignar's commentary.
 
 Current English state:
 
 - aligned English records: **21 / 21** — scans 42–62;
-- `editorial-reviewed`: **21** — scans 42–62;
+- `release-ready`: **21** — scans 42–62;
+- `editorial-reviewed`: **0**;
 - `source-checked`: **0**;
-- `draft`: **0**;
-- `release-ready`: **0**.
+- `draft`: **0**.
 
-Formal review artefact:
+Review/release artefacts:
 
 - [`reviews/PART_003_REVIEW.md`](reviews/PART_003_REVIEW.md)
+- [`reviews/PART_003_RELEASE_REPORT.md`](reviews/PART_003_RELEASE_REPORT.md)
 
-The editorial review preserves all source-sensitive Kalaignar decisions established during source-check. It also finalized chapter headings 5–15, reconciled glossary terms, verified repeated Kural wording against released Part 002 occurrences, and made only small readability/pronoun corrections that do not alter source meaning.
+Final release decision: **RELEASE-READY**.
 
-Examples explicitly retained include Kural 42 **those without protection**, Kural 55's slave/rain interpretation, Kural 58 **new world**, Kural 77 **conscience**, Kural 86 **heaven of fame**, Kural 87 hospitality-as-**sacrifice**, Kural 121's deathless/darkness verse versus **imperishable fame / life itself dark** commentary, Kural 126's **seven lives** versus protection **through all time**, Kural 130's **Aram waiting upon the path**, explicit birth/lineage and **Brahmin** language in Kurals 133–134, and **another man's wife** in the supplied Kural 141–145 material.
+The release preserves all source-sensitive Kalaignar decisions established during source-check and editorial review. Examples include Kural 42 **those without protection**, Kural 55's slave/rain interpretation, Kural 58 **new world**, Kural 77 **conscience**, Kural 86 **heaven of fame**, Kural 87 hospitality-as-**sacrifice**, Kural 121's deathless/darkness verse versus **imperishable fame / life itself dark** commentary, Kural 126's **seven lives** versus protection **through all time**, Kural 130's **Aram waiting upon the path**, explicit birth/lineage and **Brahmin** language in Kurals 133–134, and **another man's wife** in the supplied Kural 141–145 material.
 
-See [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md) and [`reviews/PART_003_REVIEW.md`](reviews/PART_003_REVIEW.md) for detailed decisions.
+Repeated Kurals **55, 58, 83, 94 and 98** retain their reviewed/released Part 002 wording where the same source wording recurs.
+
+Part 003 ends with the supplied beginning of chapter 15 at Kural **145**. The English layer does not imply that the chapter is complete.
+
+See [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md), [`reviews/PART_003_REVIEW.md`](reviews/PART_003_REVIEW.md), and [`reviews/PART_003_RELEASE_REPORT.md`](reviews/PART_003_RELEASE_REPORT.md) for detailed decisions.
 
 ## Next activity
 
-Run the separate **Part 003 English release gate**. Verify all 21 editorial-reviewed pages, metadata, glossary alignment, repeated-Kural consistency and source-fidelity decisions; create `reviews/PART_003_RELEASE_REPORT.md`; and promote pages to `release-ready` only if the gate passes.
-
-Do not begin Part 004 English work in the same activity.
+Do **not** begin speculative Part 004 English work. Future work resumes only when a new Tamil source confirms continuity from overall scan **63** after scan 62 / printed page 29 / Kural 145. That material must first complete Tamil transcription, direct visual verification and audit before English translation begins.
