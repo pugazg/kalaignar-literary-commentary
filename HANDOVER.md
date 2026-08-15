@@ -29,9 +29,9 @@ English project translation currently released:
 - Part 002 — 21/21 `release-ready`;
 - Part 003 — 21/21 `release-ready`.
 
-Part 004 English is eligible because its Tamil archive is archival-ready, but the immediate Tamil archival queue proceeds with Part 005 verification first.
+Part 004 English is eligible because its Tamil archive is archival-ready, but the immediate Tamil archival queue continues Part 005 verification first.
 
-# Part 005 Tamil — FIRST-PASS COMPLETE / VERIFICATION PENDING
+# Part 005 Tamil — FIRST PASS COMPLETE / VERIFICATION IN PROGRESS
 
 Source filename:
 
@@ -49,44 +49,47 @@ Confirmed supplied source range:
 Current repository state for Part 005:
 
 - page records: **22 / 22**;
-- scans represented: **85–106**;
-- local pages represented: **1–22**;
-- printed pages represented: **52–73**;
-- Kural coverage: **256–365**;
-- `needs-review`: **22**;
-- `verified`: **0**;
+- first-pass transcription: **22 / 22 complete**;
+- `verified`: **7** — scans 85–91 / local pages 1–7 / printed pages 52–58 / Kural 256–290;
+- `needs-review`: **15** — scans 92–106 / local pages 8–22 / printed pages 59–73 / Kural 291–365;
 - uncreated records: **0**;
-- direct visual verification has **not** begun;
+- direct visual verification: **in progress**;
 - no Part 005 audit exists.
 
-Every Part 005 record currently uses:
+## Part 005 verification batch 1 completed
 
-`status: "needs-review"`
+Direct visual comparison was completed for:
+
+- scan 85 / printed 52 — Kural 256–260, completion of `26. புலால் மறுத்தல்`;
+- scans 86–87 / printed 53–54 — `27. தவம்`, Kural 261–270;
+- scans 88–89 / printed 55–56 — `28. கூடா ஒழுக்கம்`, Kural 271–280;
+- scans 90–91 / printed 57–58 — `29. கள்ளாமை`, Kural 281–290.
+
+All seven records now use:
+
+`status: "verified"`
 
 and:
 
-`transcription_method: "manual transcription from source scan; direct visual verification pending"`
+`transcription_method: "direct visual comparison with source scan"`
 
-## Part 005 chapter coverage
+The first-pass transcription for scans 85–91 matched the actual supplied scans. **No source-text corrections were required in this verification batch.** Source-specific Kural spelling, joins/spacing, punctuation, line breaks and Kalaignar commentary remain as printed.
 
-- completion of `26. புலால் மறுத்தல்` — 256–260;
-- `27. தவம்` — 261–270;
-- `28. கூடா ஒழுக்கம்` — 271–280;
-- `29. கள்ளாமை` — 281–290;
-- `30. வாய்மை` — 291–300;
-- `31. வெகுளாமை` — 301–310;
-- `32. இன்னா செய்யாமை` — 311–320;
-- `33. கொல்லாமை` — 321–330;
-- `34. நிலையாமை` — 331–340;
-- `35. துறவு` — 341–350;
-- `36. மெய்யுணர்தல்` — 351–360;
-- beginning of `37. அவா அறுத்தல்` — 361–365.
-
-The first-pass transcription was made directly from the supplied page images but remains unverified. Do not silently promote or normalize any text before the dedicated scan-comparison pass.
+Do not reopen or normalize scans 85–91 unless a later audit identifies a specific source-supported issue.
 
 # Exact next activity
 
-Perform **Part 005 Tamil direct visual verification for scans 85–91** / local pages **1–7** / printed pages **52–58** / Kural **256–290**.
+Perform **Part 005 Tamil direct visual verification for scans 92–98** / local pages **8–14** / printed pages **59–65** / Kural **291–325**.
+
+Batch mapping:
+
+- scan 92 / local 8 / printed 59 — `30. வாய்மை`, Kural 291–295;
+- scan 93 / local 9 / printed 60 — continuation, Kural 296–300;
+- scan 94 / local 10 / printed 61 — `31. வெகுளாமை`, Kural 301–305;
+- scan 95 / local 11 / printed 62 — continuation, Kural 306–310;
+- scan 96 / local 12 / printed 63 — `32. இன்னா செய்யாமை`, Kural 311–315;
+- scan 97 / local 13 / printed 64 — continuation, Kural 316–320;
+- scan 98 / local 14 / printed 65 — beginning of `33. கொல்லாமை`, Kural 321–325.
 
 For each record:
 
@@ -98,6 +101,6 @@ For each record:
 6. set `transcription_method: "direct visual comparison with source scan"`;
 7. preserve the existing source marker and scan/local/printed-page metadata.
 
-After scans 85–91 are completed, synchronize `works/thirukkural/README.md`, root `README.md`, and this handover, then stop.
+After scans 92–98 are completed, synchronize `works/thirukkural/README.md`, root `README.md`, and this handover, then stop.
 
-**Do not begin scans 92 onward verification, do not create the Part 005 audit, and do not begin Part 004 English translation in the same activity.**
+**Do not begin scans 99 onward verification, do not create the Part 005 audit, and do not begin Part 004 English translation in the same activity.**
