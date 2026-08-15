@@ -6,23 +6,23 @@ work: "thirukkural"
 section: "Aram — Renunciant Life — Possession of Compassion"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
 
 **246. Those who abandon compassion and live doing what is wrong  
-are said to have lost both meaning and duty.**
+are said to be bereft of substance and forgetful.**
 
 Those who live without compassion, doing evil, become people without substance and people who have forgotten their duty.
 
-**247. Just as this world is not good for those without material means,  
-that other life is not good for those without compassion.**
+**247. For those without compassion, that world is not;  
+just as for those without wealth, this world is not.**
 
 Life in this world will not be good for those without material means. In the same way, the renunciant life of those without a compassionate heart will not be good.
 
 **248. Those who lose wealth may flourish again one day;  
-those who lose compassion can scarcely become whole again.**
+those who lose compassion can scarcely regain it.**
 
 One who has lost material wealth can seek it and obtain it again. If compassion is lost, it is lost; it cannot easily be regained.
 
