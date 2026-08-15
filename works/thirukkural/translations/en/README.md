@@ -32,32 +32,38 @@ The English should retain the source author's language, images, emphases and int
 - Part 002: **21/21 `release-ready`**;
 - Part 003: **21/21 `release-ready`**, through Kural 145.
 
-## Part 004 — SOURCE-CHECK COMPLETE
+## Part 004 — EDITORIAL REVIEW COMPLETE
 
 Tamil Part 004 is **ARCHIVAL-READY**, covering scans **63–84 / printed pages 30–51 / Kural 146–255**.
 
 English state:
 
 - aligned English records: **22 / 22**;
-- `source-checked`: **22** — scans 63–84 / Kural 146–255;
+- `editorial-reviewed`: **22**;
+- `source-checked`: **0**;
 - `draft`: **0**;
-- `editorial-reviewed`: **0**;
 - `release-ready`: **0**.
 
-The source-check preserves the source-sensitive Kalaignar readings established across the part: explicit **another man's wife**, earth/diggers and earth/backbiter images, **“let us forget, let us forgive,”** Lakshmi/Moodevi, the **chaff** comparison, **aram surrounding the plotter**, pursuing-enemy/shadow imagery, *oppuravu* as helping others, the **today's world / new world yet to come** readings, village water tank / fruit tree / medicinal tree imagery, the higher-world qualification in Giving, the treasury image for feeding the starving, **fame as the life of the human body**, the wealth-of-compassion and world-and-wind images, and the compassion/flesh-eating argument through Kural 255.
+The editorial-consistency / glossary-reconciliation review is recorded in:
 
-The final source-check batch also restored several verse/commentary boundaries: Kurals 216/217/219 no longer import commentary detail into the verse; Kural 221 now says **the poor**; Kural 222 preserves **receiving is bad**; Kural 226 uses **storehouse** while the commentary retains **treasury**; Kural 233 attaches **unequalled** to fame rather than the world; Kural 239 keeps **life called fame** only in commentary; Kural 246 uses **bereft of substance and forgetful**; and Kural 247 restores the verse's **that world / this world** contrast while Kalaignar's renunciant-life interpretation remains separate.
+- [`reviews/PART_004_REVIEW.md`](reviews/PART_004_REVIEW.md)
 
-All Part 004 chapter headings introduced after chapter 15 remain working project forms until formal editorial/glossary reconciliation.
+The review confirms Part 003 → Part 004 continuity, preserves all source-sensitive Kalaignar readings established during source-check, and controls the Part 004 main-body titles through chapter 26. The structural section `துறவறவியல்` is now controlled as **Renunciant Life**.
+
+Four main-body titles deliberately refine the earlier Part 002 index-local wording: **Not Speaking Ill Behind Another's Back**, **Fear of Evil Deeds**, **Understanding Helpfulness**, and **Abstaining from Flesh**. The released index records remain unchanged because those translations are retained as their own index-local layer.
+
+`GLOSSARY.md` now records the controlled main-body extension through Kural 255 and the Part 004 recurring terminology decisions for compassion, *oppuravu* / helpfulness, giving, fame and flesh.
+
+The review made only small readability and consistency edits after source-check; no source-supported metaphor, relationship, social category, or Kalaignar interpretation was softened.
 
 ## Part 005
 
-Tamil Part 005 is archival-ready, but its English translation has not started. Finish the Part 004 workflow before beginning Part 005 English.
+Tamil Part 005 is archival-ready, but its English translation has not started. Finish the Part 004 release gate before beginning Part 005 English.
 
 ## Next activity
 
-Perform the **Part 004 English editorial-consistency / glossary-reconciliation review** across all scans **63–84 / Kural 146–255**. Review all 22 `source-checked` pages as one set, reconcile working chapter headings and recurring terminology, preserve the source-sensitive decisions already established, create `reviews/PART_004_REVIEW.md`, and promote qualifying pages to `editorial-reviewed`.
+Perform the separate **Part 004 English release gate**. Verify all 22 `editorial-reviewed` records, metadata, review decisions and glossary alignment; create `reviews/PART_004_RELEASE_REPORT.md`; and promote pages to `release-ready` only if the gate passes.
 
-Do not perform the release gate or begin Part 005 English in the same activity.
+Do not begin Part 005 English translation in the same release-gate activity.
 
 See [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md) for detailed state.
