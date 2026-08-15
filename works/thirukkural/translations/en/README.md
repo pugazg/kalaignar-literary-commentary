@@ -32,31 +32,26 @@ The English should retain the source author's language, images, emphases and int
 - Part 002: **21/21 `release-ready`**;
 - Part 003: **21/21 `release-ready`**, through Kural 145.
 
-## Part 004 — FIRST PASS IN PROGRESS
+## Part 004 — FIRST PASS COMPLETE
 
 Tamil Part 004 is **ARCHIVAL-READY**, covering scans **63–84 / printed pages 30–51 / Kural 146–255**.
 
 English first-pass state:
 
-- aligned English records: **14 / 22** — scans 63–76;
-- `draft`: **14**;
+- aligned English records: **22 / 22** — scans 63–84;
+- `draft`: **22**;
 - `source-checked`: **0**;
 - `editorial-reviewed`: **0**;
 - `release-ready`: **0**;
-- current coverage: Kural **146–215**.
+- coverage: Kural **146–255**.
 
-Current first-pass chapter coverage:
+Current first-pass chapter coverage runs from completion of **Not Desiring Another Man's Wife** through the supplied beginning of **Abstaining from Flesh**. New working headings introduced in this part include **Forbearance**, **Freedom from Envy**, **Not Coveting**, **Not Speaking Ill Behind Another's Back**, **Not Speaking Useless Words**, **Fear of Evil Deeds**, **Understanding Helpfulness**, **Giving**, **Fame**, **Possession of Compassion**, and **Abstaining from Flesh**.
 
-- scan 63 — completion of **Not Desiring Another Man's Wife**, Kural 146–150;
-- scans 64–65 — **Forbearance**, Kural 151–160;
-- scans 66–67 — **Freedom from Envy**, Kural 161–170;
-- scans 68–69 — **Not Coveting**, Kural 171–180;
-- scans 70–71 — **Not Speaking Ill Behind Another's Back**, Kural 181–190;
-- scans 72–73 — **Not Speaking Useless Words**, Kural 191–200;
-- scans 74–75 — **Fear of Evil Deeds**, Kural 201–210;
-- scan 76 — beginning of **Understanding Helpfulness**, Kural 211–215.
+These remain project-created working forms until the later Part 004 editorial/glossary review. They are not imported from a published external English title list.
 
-These headings remain working project forms until the later Part 004 editorial/glossary review. The new batch deliberately preserves Kalaignar's own images and interpretations, including the earth bearing a backbiter, the useless speaker as chaff, aram surrounding a person who plots another's harm, the pursuing-enemy/shadow images for evil deeds, rain giving without return, Kalaignar's **today's world / new world** reading, and the village water tank image for wealth serving the common good.
+The first pass deliberately preserves Kalaignar's own images and interpretations, including the earth bearing diggers and backbiters, “let us forget, let us forgive,” Lakshmi/Moodevi, aram surrounding the plotter, evil deeds following like an enemy/shadow, the today/new-world readings, the village water tank, fruit and medicinal trees, selling oneself to obtain the loss caused by helpfulness, the higher-world qualification in the Giving commentary, the treasury image for feeding the starving, fame as the life of the human body, wealth of compassion, the world-and-wind analogy, and the compassion/flesh-eating argument through Kural 255.
+
+No Part 004 source-check has begun.
 
 ## Part 005
 
@@ -64,8 +59,8 @@ Tamil Part 005 is also archival-ready, but its English translation has not start
 
 ## Next activity
 
-Finish **Part 004 English first-pass translation** with scans **77–84 / printed pages 44–51 / Kural 216–255**, completing `ஒப்புரவறிதல்`, then covering `ஈகை`, `புகழ்`, `அருளுடைமை`, and the supplied beginning of `புலால் மறுத்தல்`.
+Begin **Part 004 English source-check** with scans **63–69 / printed pages 30–36 / Kural 146–180**. Compare each Kural and commentary directly against the verified Tamil archival page, correct only source-supported fidelity issues, and promote only fully checked records to `source-checked`.
 
-Keep every newly created page at `draft`. Do not begin source-check in the same first-pass activity.
+Do not begin editorial review or Part 005 English translation in the same activity.
 
 See [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md) for detailed state.
