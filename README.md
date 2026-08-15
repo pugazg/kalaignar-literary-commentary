@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–005 **ARCHIVAL-READY** |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–003 released; Part 004 first pass **14/22 draft**; Part 005 not started |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–003 released; Part 004 first pass **22/22 complete**; Part 005 not started |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -44,15 +44,13 @@ The supplied physical source currently reaches overall scan **106** / printed pa
 - Part 002: **21/21 `release-ready`**;
 - Part 003: **21/21 `release-ready`**, through Kural **145**.
 
-### English Part 004 — FIRST PASS IN PROGRESS
+### English Part 004 — FIRST PASS COMPLETE
 
-Fourteen draft records now cover scans **63–76 / printed pages 30–43 / Kural 146–215**. The currently drafted chapters run from completion of `பிறனில் விழையாமை` through the first half of `ஒப்புரவறிதல்`.
+All **22/22** English first-pass records now cover scans **63–84 / printed pages 30–51 / Kural 146–255**. Every page remains `draft`; no source-check has begun.
 
-Working English headings added in Part 004 include **Forbearance**, **Freedom from Envy**, **Not Coveting**, **Not Speaking Ill Behind Another's Back**, **Not Speaking Useless Words**, **Fear of Evil Deeds**, and **Understanding Helpfulness**. These remain first-pass project headings pending later editorial/glossary reconciliation.
+The first-pass chapter range runs from completion of `பிறனில் விழையாமை` through the supplied beginning of `புலால் மறுத்தல்`. Working English headings introduced in Part 004 remain project-created and pending formal editorial/glossary reconciliation.
 
-All 14 Part 004 pages remain `draft`; source-check has not begun.
-
-Next English activity: finish Part 004 first pass with scans **77–84 / printed pages 44–51 / Kural 216–255**, completing `ஒப்புரவறிதல்` and covering `ஈகை`, `புகழ்`, `அருளுடைமை`, and the supplied beginning of `புலால் மறுத்தல்`.
+Next English activity: begin the dedicated Part 004 source-check with scans **63–69 / printed pages 30–36 / Kural 146–180**. Compare directly with the verified Tamil source and promote only fully checked pages to `source-checked`.
 
 For further Tamil archival work, the next source must continue after overall scan **106** / printed page **73** / Kural **365**.
 
