@@ -6,7 +6,7 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–003 archival-ready; Part 004 first-pass transcription **22/22 complete**, verification pending; Part 005 source queued |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–003 archival-ready; Part 004 first pass 22/22 + verification 7/22; Part 005 source queued |
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–003 released; Parts 004–005 wait for Tamil archival readiness |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
@@ -35,12 +35,15 @@ Tamil Parts 001–003 are archival-ready. Two additional source PDFs have been i
 
 The supplied source now reaches overall scan **106** / printed page **73** / Kural **365**.
 
-### Tamil Part 004 — FIRST PASS COMPLETE
+### Tamil Part 004 — VERIFICATION IN PROGRESS
 
-- page records created: **22 / 22** — scans 63–84;
-- repository transcription coverage: printed pages **30–51** / Kural **146–255**;
-- all 22 Part 004 records remain `needs-review` pending the separate direct visual-verification pass;
-- the source moves from `இல்லறவியல்` to `துறவறவியல்` at scan 82 / printed page 49 / chapter `25. அருளுடைமை`.
+- first-pass page records: **22 / 22** — scans 63–84;
+- direct visual verification: **7 / 22** — scans 63–69 / Kural 146–180;
+- `verified`: **7**;
+- `needs-review`: **15** — scans 70–84;
+- source section moves from `இல்லறவியல்` to `துறவறவியல்` at scan 82 / printed page 49 / chapter `25. அருளுடைமை`.
+
+The first verification batch corrected only scan-supported first-pass mismatches, including Kural 150's printed `அறன்வரையா னல்ல`, its commentary `செயலைவிடத்`, and scan 64's `நிலம் போலத்` / `தன்மீது` readings.
 
 Part 005 is source-inspected and queued; no page records have been created yet.
 
@@ -52,6 +55,6 @@ Part 005 is source-inspected and queued; no page records have been created yet.
 
 No Part 004 English work begins until Part 004 Tamil has completed direct visual verification and archival audit.
 
-Next Tamil activity: begin the separate Part 004 direct visual-verification pass with scans **63–69**, covering Kural **146–180**. Verify those records directly against the supplied scan and promote only confirmed pages to `verified`. Do not begin Part 005 transcription in the same activity.
+Next Tamil activity: continue Part 004 direct visual verification with scans **70–76**, covering Kural **181–215**. Promote only pages confirmed directly against the supplied scan. Do not begin the Part 004 audit or Part 005 transcription in the same activity.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md) and [`HANDOVER.md`](HANDOVER.md).
