@@ -40,61 +40,63 @@ All **22/22** first-pass English records exist for scans **63–84 / printed pag
 
 Current Part 004 English counts:
 
-- `source-checked`: **7** — scans 63–69 / printed pages 30–36 / Kural 146–180;
-- `draft`: **15** — scans 70–84 / printed pages 37–51 / Kural 181–255;
+- `source-checked`: **14** — scans 63–76 / printed pages 30–43 / Kural 146–215;
+- `draft`: **8** — scans 77–84 / printed pages 44–51 / Kural 216–255;
 - `editorial-reviewed`: **0**;
 - `release-ready`: **0**.
 
-### Source-check batch 1 completed
+### Source-check batch 1
 
-Checked files:
+Scans **63–69 / Kural 146–180** completed. One important correction: Kural 149 now correctly says **“Those who do not touch the shoulders of the woman who belongs to another.”**
 
-- `0063-aram-piranil-vizhaiyaamai-02.md` — Kural 146–150;
-- `0064-aram-poraiyudaimai-01.md` — Kural 151–155;
-- `0065-aram-poraiyudaimai-02.md` — Kural 156–160;
-- `0066-aram-azhukkaaraamai-01.md` — Kural 161–165;
-- `0067-aram-azhukkaaraamai-02.md` — Kural 166–170;
-- `0068-aram-vehkaamai-01.md` — Kural 171–175;
-- `0069-aram-vehkaamai-02.md` — Kural 176–180.
+### Source-check batch 2
 
-All seven now use `status: "source-checked"`.
+Scans **70–76 / Kural 181–215** completed.
 
-Source-sensitive decisions retained:
+Retained source-sensitive decisions include:
 
-- explicit **another man's wife** wording through Kural 150;
-- earth-bearing-those-who-dig image in Kural 151;
-- Kalaignar's **“let us forget, let us forgive”** wording in Kural 156 commentary;
-- explicit Lakshmi / Moodevi explanation in Kural 167 commentary;
-- Kalaignar's immediate-versus-lasting-benefit explanation in Kural 173 commentary.
+- Kural 183 commentary's preference for death over living falsely through backbiting;
+- Kural 189 commentary's earth-bearing-the-backbiter image;
+- Kural 196 commentary's **chaff** comparison;
+- Kural 204 commentary's **aram surrounding the plotter**;
+- Kural 207's pursuing-enemy image and Kural 208's shadow image;
+- Kural 211's rain giving without expecting repayment;
+- Kural 213 commentary's *oppuravu* as helping others and Kalaignar's **today's world / new world yet to come** reading;
+- Kural 214 commentary's truly-living versus dead contrast;
+- Kural 215's village water-tank image for wealth serving the common good.
 
-One fidelity correction was made during source-check:
+Source-check refinements made in batch 2:
 
-- scan 63 / Kural 149 verse — first pass shifted the grammatical action onto the subject's own shoulders (`whose shoulders do not touch ...`). The source instead has the subject not touching the other woman's shoulders. It now reads **“Those who do not touch the shoulders of the woman who belongs to another.”**
+1. Kural 188 verse — tightened to **“What then of strangers”** instead of over-expanding the verse with the commentary's explicit “what will they not say?” idea.
+2. Kural 196 verse — removed commentary-derived “for gain”; now **“One who keeps speaking useless words / should be called chaff among people, not a human being.”**
+3. Kural 210 verse — changed awkward “beyond rare ruin” to **“hard to ruin.”**
+4. Kural 214 verse — removed commentary-derived helping-others content; now **“One who knows what is fitting truly lives; / the other is counted among the dead.”** The *oppuravu* explanation remains separately in Kalaignar's commentary.
 
-Working Part 004 chapter headings remain provisional until the later editorial/glossary-reconciliation review.
+All Part 004 chapter headings introduced after chapter 15 remain **working project headings** until editorial/glossary reconciliation. Do not silently replace them with a standard English Thirukkural title list.
 
 # Exact next activity
 
-Continue the dedicated **Part 004 English source-check** for scans **70–76** / printed pages **37–43** / Kural **181–215**.
+Complete the dedicated **Part 004 English source-check** for scans **77–84 / printed pages 44–51 / Kural 216–255**.
 
 Mapping:
 
-- scans 70–71 — `19. புறங்கூறாமை`, Kural 181–190;
-- scans 72–73 — `20. பயனில சொல்லாமை`, Kural 191–200;
-- scans 74–75 — `21. தீவினையச்சம்`, Kural 201–210;
-- scan 76 — beginning of `22. ஒப்புரவறிதல்`, Kural 211–215.
+- scan 77 / printed 44 — completion of `22. ஒப்புரவறிதல்`, Kural 216–220;
+- scans 78–79 / printed 45–46 — `23. ஈகை`, Kural 221–230;
+- scans 80–81 / printed 47–48 — `24. புகழ்`, Kural 231–240;
+- scans 82–83 / printed 49–50 — `25. அருளுடைமை`, Kural 241–250;
+- scan 84 / printed 51 — beginning of `26. புலால் மறுத்தல்`, Kural 251–255.
 
 For each record:
 
 1. compare the English Kural directly against the corresponding verified Tamil Kural;
-2. compare Kalaignar's English commentary directly against the verified Tamil commentary;
+2. compare Kalaignar's English commentary directly against his verified Tamil commentary;
 3. keep verse and commentary distinct;
 4. preserve Kalaignar's imagery, emphases, social framing and interpretive direction;
 5. correct only source-supported fidelity issues;
-6. do not import an external published translation or standard chapter-title list;
+6. do not import an external published translation or standard title list;
 7. if fully checked, set `status: "source-checked"`;
 8. preserve one-to-one scan/page metadata.
 
-After scans 70–76 are source-checked, synchronize `TRANSLATION_STATUS.md`, the English README, work/root READMEs and this handover, then stop.
+After scans 77–84 are source-checked, Part 004 source-check will be **22/22 complete**. Synchronize `TRANSLATION_STATUS.md`, the English README, work/root READMEs and this handover, then stop.
 
-**Do not begin scans 77 onward source-check, do not begin Part 004 editorial review, and do not begin Part 005 English translation in the same activity.**
+**Do not begin Part 004 editorial review or Part 005 English translation in the same activity.**
