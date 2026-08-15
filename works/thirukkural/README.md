@@ -45,11 +45,11 @@ Part 004 review/release artefacts:
 - [`translations/en/reviews/PART_004_REVIEW.md`](translations/en/reviews/PART_004_REVIEW.md)
 - [`translations/en/reviews/PART_004_RELEASE_REPORT.md`](translations/en/reviews/PART_004_RELEASE_REPORT.md)
 
-### Part 005 English — FIRST PASS IN PROGRESS
+### Part 005 English — FIRST PASS COMPLETE
 
-Fourteen English `draft` records now exist for scans **85–98 / printed pages 52–65 / Kural 256–325**.
+All **22/22** English page records now exist as `draft` for scans **85–106 / printed pages 52–73 / Kural 256–365**.
 
-Coverage completed in first pass:
+Coverage now drafted:
 
 - chapter 26 **Abstaining from Flesh** — Kural 256–260;
 - chapter 27 **Ascetic Practice** — 261–270;
@@ -58,22 +58,26 @@ Coverage completed in first pass:
 - chapter 30 **Truthfulness** — 291–300;
 - chapter 31 **Freedom from Anger** — 301–310;
 - chapter 32 **Not Causing Pain** — 311–320;
-- chapter 33 **Non-killing** — 321–325 supplied so far in English.
+- chapter 33 **Non-killing** — 321–330;
+- chapter 34 **Impermanence** — 331–340;
+- chapter 35 **Renunciation** — 341–350;
+- chapter 36 **Realizing Truth** — 351–360;
+- chapter 37 **Eradication of Desire** — 361–365 supplied in this part.
 
 Current Part 005 English counts:
 
-- `draft`: **14**;
+- `draft`: **22**;
 - `source-checked`: **0**;
 - `editorial-reviewed`: **0**;
 - `release-ready`: **0**;
-- uncreated: **8** — scans 99–106.
+- uncreated: **0**.
 
-The drafts continue to preserve Kalaignar's source-specific argument and imagery, including truthfulness as harmless speech, faultless good permitting even falsehood to stand as truth, the conscience that punishes lying, the inner lamp of truthfulness, anger as a destructive fire, the hand striking the ground, doing good to shame a wrongdoer, the morning/afternoon consequence image, and Kural 322's equalizing principle of sharing so that all living beings may live.
+The first-pass drafts retain Kalaignar's source-specific argument and imagery. The final batch includes the Kural 329 verified reading `பகுத்தறிவு இழந்து செயல்படும்`, the performance-crowd image for impermanent wealth, the day-as-sword image, body/life as egg and young bird, the renunciation discussion of “I” and “mine”, the source-specific world-fame interpretation at Kural 346 commentary, and the birth/desire readings through Kural 365.
 
 ## அடுத்த செயல்
 
-Complete the **Part 005 English first-pass translation for scans 99–106 / printed pages 66–73 / Kural 326–365**.
+Begin the dedicated **Part 005 English source-check for scans 85–91 / printed pages 52–58 / Kural 256–290**.
 
-This final first-pass batch completes **Non-killing**, then covers **Impermanence**, **Renunciation**, **Realizing Truth**, and the supplied beginning of **Eradication of Desire**.
+Compare every Kural and Kalaignar commentary paragraph against the corresponding verified Tamil page and promote only fully checked records to `source-checked`. Kural 290 requires particular verse/commentary care around `புத்தே ளுலகு` and Kalaignar's explicit `புகழுலக வாழ்க்கை` explanation.
 
-Create only `draft` records. Do not source-check or editorial-review Part 005 in the same activity.
+Do not begin editorial review and do not source-check scan 92 onward in the same activity.
