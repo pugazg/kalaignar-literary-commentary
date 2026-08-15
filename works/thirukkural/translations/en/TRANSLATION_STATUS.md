@@ -20,6 +20,8 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 | Part 001 | 1–20 | archival-ready; scan 8 documented partial | **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS** |
 | Part 002 | 21–41 | archival-ready | **RELEASE-READY — 21/21** |
 | Part 003 | 42–62 | archival-ready | **RELEASE-READY — 21/21** |
+| Part 004 | 63–84 | archival-ready | **FIRST PASS IN PROGRESS — 7/22 draft** |
+| Part 005 | 85–106 | archival-ready | not started |
 
 ## Current English counts
 
@@ -38,91 +40,67 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 
 - English page files: **21 / 21** — scans 42–62
 - `release-ready`: **21** — scans 42–62
-- `editorial-reviewed`: **0**
-- `source-checked`: **0**
-- `draft`: **0**
-- `source-limited`: **0**
-- `blocked`: **0**
 - coverage: Kural **41–145**
 
-# Part 001 English release — COMPLETE
+### Part 004
 
-Release decision: **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS**.
+- English page files: **7 / 22** — scans 63–69
+- `draft`: **7**
+- `source-checked`: **0**
+- `editorial-reviewed`: **0**
+- `release-ready`: **0**
+- uncreated: **15** — scans 70–84
+- current English coverage: Kural **146–180**
 
-# Part 002 English release — COMPLETE
+# Parts 001–003 English release — COMPLETE
 
-Review artefacts:
+Parts 001–003 retain the review and release decisions already recorded in their review artefacts. The established source-sensitive decisions remain binding, including preserving Kalaignar's own readings rather than replacing them with familiar external interpretations.
+
+Review/release artefacts include:
 
 - [`reviews/PART_002_REVIEW.md`](reviews/PART_002_REVIEW.md)
 - [`reviews/PART_002_RELEASE_REPORT.md`](reviews/PART_002_RELEASE_REPORT.md)
-
-Release decision: **RELEASE-READY**.
-
-Binding Part 002 source-fidelity decisions remain in force, including **Aadhi Bhagavan**, *iraivan*, *anthanar*, Kalaignar's Kural-25 Indra interpretation, Kural 12's **food they drink**, Kural 20's conduct warning, Kural 34's **clamour**, Kural 38's path-and-stone image, Nannan's ***puththelir* / new world**, and **“the low-priced edition of the people's hearts.”**
-
-# Part 003 English release — COMPLETE
-
-Tamil scans **42–62** are verified, audited and archival-ready. The English layer has completed first pass, direct source-check, editorial-consistency / glossary review and the separate release gate for all 21 pages.
-
-Review/release artefacts:
-
 - [`reviews/PART_003_REVIEW.md`](reviews/PART_003_REVIEW.md)
 - [`reviews/PART_003_RELEASE_REPORT.md`](reviews/PART_003_RELEASE_REPORT.md)
 
-Final release decision: **RELEASE-READY**.
+# Part 004 English first pass — IN PROGRESS
 
-Released coverage:
+Tamil Part 004 is verified, audited and archival-ready. The English first pass has begun from that audited source.
 
-- scans 42–43 — **Domestic Life**, Kural 41–50;
-- scans 44–45 — **The Worth of a Life Partner**, Kural 51–60;
-- scans 46–47 — **The Blessing of Children**, Kural 61–70;
-- scans 48–49 — **Love**, Kural 71–80;
-- scans 50–51 — **Hospitality**, Kural 81–90;
-- scans 52–53 — **Speaking Pleasant Words**, Kural 91–100;
-- scans 54–55 — **Gratitude for Help Received**, Kural 101–110;
-- scans 56–57 — **Impartiality**, Kural 111–120;
-- scans 58–59 — **Self-Control**, Kural 121–130;
-- scans 60–61 — **Good Conduct**, Kural 131–140;
-- scan 62 — supplied beginning of **Not Desiring Another Man's Wife**, Kural 141–145.
+Draft coverage now created:
 
-## Release-confirmed source-sensitive decisions
+- scan 63 — completion of **Not Desiring Another Man's Wife**, Kural 146–150;
+- scans 64–65 — **Forbearance**, Kural 151–160;
+- scans 66–67 — **Freedom from Envy**, Kural 161–170;
+- scans 68–69 — **Not Coveting**, Kural 171–180.
 
-The release preserves the established source-first decisions, including:
+All seven new English records use:
 
-- Kural 42 **those without protection**;
-- Kural 55 slave/rain interpretation;
-- Kural 58 **new world**;
-- Kural 62 **seven births** in the Kural versus **seven times seven generations** in commentary;
-- Kural 67 singular **son** in the Kural versus broader **children** in commentary;
-- Kural 77 **conscience**;
-- Kural 78 **hard barren ground** in the verse versus Kalaignar's **desert** image in commentary;
-- Kural 85 seed-for-hospitality reading;
-- Kural 86 **heaven of fame**;
-- Kural 87 hospitality as **sacrifice**;
-- Kural 90 **anicham flower**;
-- Kural 101 **“a great gem that came unbidden”**;
-- Kural 104 millet / palmyra imagery;
-- Kural 107 seven-times-seven / no-time-limit explanation;
-- Kural 111 enemy / neighbour / friend explanation kept in commentary rather than forced into the verse;
-- Kural 117 verse **low state / decline** versus commentary poverty explanation;
-- Kural 121 deathless/deep-darkness verse versus **imperishable fame / life itself dark** commentary;
-- Kural 126 **seven lives** in the verse versus protection **through all time** in commentary;
-- Kural 128 **drop of poison in a pot of milk**;
-- Kural 130 **Aram waiting upon the path**;
-- Kurals 133–134 explicit birth / lineage and **Brahmin** wording;
-- Kural 140 **live in accord with the world** in the verse versus conduct **accepted by the great** in commentary;
-- Kural 141 **discerned aram and wealth** in the verse versus the expanded works-on-aram/wealth commentary;
-- Kurals 141–145 repeated **another man's wife** wording and Kural 143's living-person-as-**corpse** image.
+- `translation_type: "project_translation"`;
+- `status: "draft"`;
+- `source_tamil_status: "verified"`;
+- `translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"`.
 
-Repeated Kurals **55, 58, 83, 94 and 98** retain the previously reviewed/released Part 002 wording where the same source wording recurs.
+This is a first-pass layer only. No Part 004 page has yet undergone the dedicated English source-check.
 
-Part 003 scan 62 ends after Kural **145**. This is explicitly treated as only the supplied beginning of chapter 15; the project does not imply that the chapter is complete.
+Source-sensitive first-pass choices already preserved include the continued explicit wording **another man's wife**, the earth-bearing-diggers image in Kural 151, Kalaignar's **“let us forget, let us forgive”** wording in Kural 156 commentary, the Lakshmi / Moodevi explanation in Kural 167 commentary, and the distinction between immediate benefit and enduring benefit in Kalaignar's Kural 173 explanation.
+
+The working chapter titles **Forbearance**, **Freedom from Envy**, and **Not Coveting** remain first-pass project headings until the later editorial/glossary-reconciliation stage; they are not imported from a published external English edition.
 
 ## Next exact activity
 
-Do **not** begin speculative Part 004 English work.
+Continue **Part 004 English first-pass translation** with overall scans **70–76** / printed pages **37–43** / Kural **181–215**.
 
-Future work resumes with **new Tamil source intake from overall scan 63 only when a newly supplied scan itself confirms continuity after scan 62 / printed page 29 / Kural 145**. New Tamil material must complete transcription → direct visual verification → Tamil audit before the corresponding English translation begins.
+Coverage:
+
+- scans 70–71 — `19. புறங்கூறாமை`, Kural 181–190;
+- scans 72–73 — `20. பயனில சொல்லாமை`, Kural 191–200;
+- scans 74–75 — `21. தீவினையச்சம்`, Kural 201–210;
+- scan 76 — beginning of `22. ஒப்புரவறிதல்`, Kural 211–215.
+
+Create one English record per audited Tamil page, translate both Kural and Kalaignar commentary, retain his language/images/interpretation, and keep every new page at `status: "draft"`.
+
+Do **not** begin Part 004 source-check or Part 005 English translation in the same activity.
 
 Permanent cadence:
 
