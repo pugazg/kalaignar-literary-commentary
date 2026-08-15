@@ -184,3 +184,54 @@ Do **not** add notes merely to teach general Thirukkural background or summarize
 3. If a heading/core term changes, record the reason in the relevant part review and update all affected English files.
 4. Keep published-source English terminology separate if an official/published English edition is supplied later.
 5. The Tamil scan and audited Tamil transcription always outrank this glossary.
+
+## Part 004 main-body controlled extension
+
+The Part 004 editorial-consistency review extends the controlled main-body heading set from Kural 145 through the supplied Kural **255**. This section supplements the earlier chapter-title table rather than rewriting the already released Part 002 index records.
+
+### Structural term established in Part 004
+
+| Tamil | Controlled English | Editorial note |
+|---|---|---|
+| துறவறவியல் | Renunciant Life | Controlled section-level heading beginning in the supplied Part 004 material at scan 82 / Kural 241. It follows the project's established `renunciant / renunciants` vocabulary. |
+
+### Main-body chapter titles 16–26
+
+| No. | Tamil heading | Controlled main-body English heading |
+|---:|---|---|
+| 16 | பொறையுடைமை | Forbearance |
+| 17 | அழுக்காறாமை | Freedom from Envy |
+| 18 | வெஃகாமை | Not Coveting |
+| 19 | புறங்கூறாமை | Not Speaking Ill Behind Another's Back |
+| 20 | பயனில சொல்லாமை | Not Speaking Useless Words |
+| 21 | தீவினையச்சம் | Fear of Evil Deeds |
+| 22 | ஒப்புரவறிதல் | Understanding Helpfulness |
+| 23 | ஈகை | Giving |
+| 24 | புகழ் | Fame |
+| 25 | அருளுடைமை | Possession of Compassion |
+| 26 | புலால் மறுத்தல் | Abstaining from Flesh |
+
+Headings **16–26** are editorial-reviewed through Part 004. Together with the earlier controlled headings, the main-body heading set is now reviewed through the supplied Kural **255**.
+
+### Deliberate refinements from Part 002 index-local forms
+
+The Part 002 index remains unchanged as an index-local reviewed translation. Part 004 main-body context establishes four documented refinements:
+
+| Tamil | Part 002 index-local form | Part 004 controlled main-body form | Reason |
+|---|---|---|---|
+| புறங்கூறாமை | Not Slandering | Not Speaking Ill Behind Another's Back | Main-body wording repeatedly centres speech about an absent person; `slandering` can imply falsity not required by the title. |
+| தீவினையச்சம் | Dread of Evil Deeds | Fear of Evil Deeds | Main-body commentary repeatedly uses ordinary fear language; `Fear` is source-close without intensifying the register. |
+| ஒப்புரவறிதல் | Understanding Mutual Help | Understanding Helpfulness | Kural 211 stresses help without expectation of return; `mutual` would insert reciprocity. Existing project treatment of `ஒப்புரவு` is helpfulness / helping others. |
+| புலால் மறுத்தல் | Abstaining from Meat | Abstaining from Flesh | Main-body commentary repeatedly uses another living being's body / flesh imagery and connects it to compassion. |
+
+### Recurring Part 004 terms
+
+| Tamil | Controlled English range | Part 004 editorial note |
+|---|---|---|
+| அருள் | compassion | Chapters 18, 25 and 26 retain **compassion** where Kalaignar uses `அருள்`; keep distinct from `அன்பு` = love. |
+| ஒப்புரவு | helpfulness / helping others | Chapter 22 controlled heading is **Understanding Helpfulness**. Retain *oppuravu* when Kalaignar explicitly names/explains the concept. Do not build reciprocity into the term: Kural 211 explicitly rejects expectation of return. |
+| ஈகை | giving | Controlled main-body chapter 23 term; use `give / giving` contextually in prose. |
+| புகழ் / இசை | fame / praise | Chapter 24 is **Fame**. Use `praise` only where the syntax concerns the act of praising rather than fame itself. |
+| புலால் / ஊன் | flesh | Chapter 26 main-body title is **Abstaining from Flesh**. Preserve another-being/body/flesh imagery in the verse and Kalaignar's commentary; the Part 002 index-local `Abstaining from Meat` remains unchanged. |
+
+For detailed reasons, source-sensitive constraints, and the small readability refinements made after source-check, see `reviews/PART_004_REVIEW.md`.
