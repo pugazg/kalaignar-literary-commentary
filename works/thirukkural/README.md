@@ -9,20 +9,39 @@
 | 001 | `திருக்குறள்_கலைஞர்_உரை_part_001_pages_1-20.pdf` | 20 | 1–20 | audited / archival-ready; scan 8 documented partial |
 | 002 | `திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf` | 21 | 21–41 | audited / **ARCHIVAL-READY** |
 | 003 | `திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf` | 21 | 42–62 | audited / **ARCHIVAL-READY** |
+| 004 | `திருக்குறள்_கலைஞர்_உரை_part_004_pages_63-84.pdf` | 22 | 63–84 | source inspected; first-pass transcription **7/22** (`needs-review`) |
+| 005 | `திருக்குறள்_கலைஞர்_உரை_part_005_pages_85-106.pdf` | 22 | 85–106 | source inspected / queued; transcription not started |
 
-The supplied Tamil archive currently reaches overall scan **62** / printed page **29** / Kural **145**.
+The newly supplied scans confirm direct continuity:
+
+- Part 003 ends at overall scan **62** / printed page **29** / Kural **145**;
+- Part 004 begins at overall scan **63** / printed page **30** / Kural **146** and ends at scan **84** / printed page **51** / Kural **255**;
+- Part 005 begins at overall scan **85** / printed page **52** / Kural **256** and ends at scan **106** / printed page **73** / Kural **365**.
+
+The supplied source therefore now reaches overall scan **106** / printed page **73** / Kural **365**. Repository transcription currently reaches scan **69** / printed page **36** / Kural **180**.
 
 ## Tamil archival state
 
 - Part 001: **20/20 records; 19 verified + scan 8 documented partial**.
 - Part 002: **21/21 verified; ARCHIVAL-READY**.
 - Part 003: **21/21 verified; ARCHIVAL-READY**.
+- Part 004: **7/22 first-pass records created** — scans 63–69 / printed pages 30–36 / Kural 146–180; all deliberately remain `needs-review` pending a separate direct visual-verification pass.
+- Part 005: source accepted and continuity inspected; **0/22 repository page records** so far.
 
-Audits:
+Part 004 first-pass coverage currently includes:
+
+- scan 63 — continuation of `15. பிறனில் விழையாமை`, Kural 146–150;
+- scans 64–65 — `16. பொறையுடைமை`, Kural 151–160;
+- scans 66–67 — `17. அழுக்காறாமை`, Kural 161–170;
+- scans 68–69 — `18. வெஃகாமை`, Kural 171–180.
+
+Audits completed so far:
 
 - [`AUDIT_PART_001.md`](AUDIT_PART_001.md)
 - [`AUDIT_PART_002.md`](AUDIT_PART_002.md)
 - [`AUDIT_PART_003.md`](AUDIT_PART_003.md)
+
+Do **not** create a Part 004 audit until all 22 pages have been transcribed and then separately verified against the source scans.
 
 ## English project translation layer
 
@@ -34,44 +53,34 @@ Permanent cadence:
 
 **Tamil transcription → visual verification → Tamil audit → English draft → source-check → editorial review → English release report.**
 
-### Part 001 English — RELEASE COMPLETE
+### Parts 001–003 English — RELEASE COMPLETE
 
-- page files: **20 / 20**
-- `release-ready`: **19**
-- `source-limited`: **1** — scan 8
+- Part 001: 19 `release-ready` + scan 8 `source-limited`;
+- Part 002: **21/21 `release-ready`**;
+- Part 003: **21/21 `release-ready`**, through Kural 145.
 
-### Part 002 English — RELEASE COMPLETE
-
-- English page files: **21 / 21**
-- `release-ready`: **21** — scans 21–41
-
-### Part 003 English — RELEASE COMPLETE
-
-- Tamil scans **42–62**: audited / archival-ready
-- English pages: **21 / 21** — scans 42–62
-- `release-ready`: **21** — scans 42–62
-- `editorial-reviewed`: **0**
-- `source-checked`: **0**
-- `draft`: **0**
-- coverage: Kural **41–145**
-
-Review/release artefacts:
+Part 003 review/release artefacts:
 
 - [`translations/en/reviews/PART_003_REVIEW.md`](translations/en/reviews/PART_003_REVIEW.md)
 - [`translations/en/reviews/PART_003_RELEASE_REPORT.md`](translations/en/reviews/PART_003_RELEASE_REPORT.md)
 
-Release decision: **RELEASE-READY**.
-
-The released Part 003 layer preserves Kalaignar's source-sensitive interpretations and the verse/commentary distinctions established during source-check. These include Kural 42 **those without protection**, Kural 55's slave/rain interpretation, Kural 58 **new world**, Kural 77 **conscience**, Kural 86 **heaven of fame**, Kural 87 hospitality-as-**sacrifice**, Kural 121's **imperishable fame / life itself dark**, Kural 126's **seven lives** versus protection **through all time**, Kural 128's poison-in-milk image, Kural 130's **Aram waiting upon the path**, explicit birth/lineage and **Brahmin** language in Kurals 133–134, and repeated **another man's wife** wording in Kurals 141–145.
-
-Part 003 ends after Kural **145**, so chapter 15 remains explicitly incomplete in the supplied source.
+No Part 004 or Part 005 English translation should begin until the corresponding Tamil part has completed direct visual verification and its archival audit.
 
 ## Source-first rule
 
 > **ஸ்கேன் தான் controlling source. Markdown பாதுகாப்பு அடுக்கு; corrected edition அல்ல.**
 
-அமைதியாக modernize / normalize / reconstruct / internet-text substitution செய்யக்கூடாது.
+அமைதியாக modernize / normalize / reconstruct / internet-text substitution செய்யக்கூடாது. Source-specific Kural spelling, joining, spacing, punctuation and Kalaignar commentary must be preserved as printed.
 
 ## அடுத்த செயல்
 
-Do **not** begin speculative Part 004 English work. Tamil source intake can continue from overall scan **63** only when a newly supplied scan itself confirms continuity after scan 62 / printed page 29 / Kural 145. That new Tamil material must first complete transcription, direct visual verification and audit before corresponding English translation begins.
+Continue **Part 004 Tamil first-pass transcription** with overall scans **70–76** / Part 004 local pages **8–14** / printed pages **37–43** / Kural **181–215**.
+
+That batch covers:
+
+- scans 70–71 — `19. புறங்கூறாமை`, Kural 181–190;
+- scans 72–73 — `20. பயனில சொல்லாமை`, Kural 191–200;
+- scans 74–75 — `21. தீவினையச்சம்`, Kural 201–210;
+- scan 76 — beginning of `22. ஒப்புரவறிதல்`, Kural 211–215.
+
+Create one page record per scan and keep every new record at `status: "needs-review"`. **Do not perform the Part 004 verification pass or begin Part 005 transcription in the same activity.**
