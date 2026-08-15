@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Not Speaking Useless Words"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -32,7 +32,7 @@ will not speak words emptied of meaning even through forgetfulness.**
 People of stainless understanding, without even a trace of confusion, will not utter useless words even by mistake.
 
 **200. Speak words that carry benefit;  
-do not speak words among words that have no benefit.**
+do not speak words that carry no benefit.**
 
 One should leave aside words that bring no benefit and speak only words capable of lodging in the mind and yielding benefit.
 
