@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Fame"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -23,8 +23,8 @@ rests upon the fame of those who give something to those who have nothing.**
 
 Whatever those who praise may praise, it ultimately concerns the fame of those who give something to people who have nothing.
 
-**233. In this unequalled world, nothing endures without perishing  
-except exalted fame.**
+**233. In this world, nothing stands imperishable  
+except exalted, unequalled fame.**
 
 In this world, nothing other than fame remains both incomparable and imperishable.
 
