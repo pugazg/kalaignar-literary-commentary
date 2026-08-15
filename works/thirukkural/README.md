@@ -41,32 +41,35 @@ Permanent cadence:
 
 ### Part 004 English — FIRST PASS IN PROGRESS
 
-Part 004 Tamil is archival-ready, so English first-pass work has started.
-
 Current English coverage:
 
-- scans **63–69** / printed pages **30–36** / Kural **146–180**;
-- English page files: **7 / 22**;
-- `draft`: **7**;
+- scans **63–76** / printed pages **30–43** / Kural **146–215**;
+- English page files: **14 / 22**;
+- `draft`: **14**;
 - `source-checked`: **0**;
-- uncreated: **15**.
+- uncreated: **8**.
 
 Current chapter coverage:
 
 - scan 63 — completion of `15. பிறனில் விழையாமை` / **Not Desiring Another Man's Wife**, Kural 146–150;
 - scans 64–65 — `16. பொறையுடைமை` / working heading **Forbearance**, Kural 151–160;
 - scans 66–67 — `17. அழுக்காறாமை` / working heading **Freedom from Envy**, Kural 161–170;
-- scans 68–69 — `18. வெஃகாமை` / working heading **Not Coveting**, Kural 171–180.
+- scans 68–69 — `18. வெஃகாமை` / working heading **Not Coveting**, Kural 171–180;
+- scans 70–71 — `19. புறங்கூறாமை` / working heading **Not Speaking Ill Behind Another's Back**, Kural 181–190;
+- scans 72–73 — `20. பயனில சொல்லாமை` / working heading **Not Speaking Useless Words**, Kural 191–200;
+- scans 74–75 — `21. தீவினையச்சம்` / working heading **Fear of Evil Deeds**, Kural 201–210;
+- scan 76 — beginning of `22. ஒப்புரவறிதல்` / working heading **Understanding Helpfulness**, Kural 211–215.
 
-The new pages are first-pass drafts only. No source-check has begun. The working headings introduced in Part 004 will be reconciled formally during the later editorial/glossary review.
+The new pages remain first-pass drafts only. No source-check has begun. Working headings will be reconciled formally during the later editorial/glossary review.
 
 ## அடுத்த செயல்
 
-Continue **Part 004 English first-pass translation** with scans **70–76 / printed pages 37–43 / Kural 181–215**:
+Finish **Part 004 English first-pass translation** with scans **77–84 / printed pages 44–51 / Kural 216–255**:
 
-- scans 70–71 — `19. புறங்கூறாமை`, Kural 181–190;
-- scans 72–73 — `20. பயனில சொல்லாமை`, Kural 191–200;
-- scans 74–75 — `21. தீவினையச்சம்`, Kural 201–210;
-- scan 76 — beginning of `22. ஒப்புரவறிதல்`, Kural 211–215.
+- scan 77 — completion of `22. ஒப்புரவறிதல்`, Kural 216–220;
+- scans 78–79 — `23. ஈகை`, Kural 221–230;
+- scans 80–81 — `24. புகழ்`, Kural 231–240;
+- scans 82–83 — `25. அருளுடைமை`, Kural 241–250;
+- scan 84 — beginning of `26. புலால் மறுத்தல்`, Kural 251–255.
 
 Use audited Tamil as the working basis and keep every new English page at `status: "draft"`. Do not begin source-check or Part 005 English translation in the same activity.
