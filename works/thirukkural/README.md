@@ -40,44 +40,25 @@ Permanent cadence:
 - Part 003: **21/21 `release-ready`**, through Kural 145;
 - Part 004: **22/22 `release-ready`**, through Kural 255.
 
-Part 004 review/release artefacts:
+### Part 005 English — SOURCE-CHECK IN PROGRESS
 
-- [`translations/en/reviews/PART_004_REVIEW.md`](translations/en/reviews/PART_004_REVIEW.md)
-- [`translations/en/reviews/PART_004_RELEASE_REPORT.md`](translations/en/reviews/PART_004_RELEASE_REPORT.md)
-
-### Part 005 English — FIRST PASS COMPLETE
-
-All **22/22** English page records now exist as `draft` for scans **85–106 / printed pages 52–73 / Kural 256–365**.
-
-Coverage now drafted:
-
-- chapter 26 **Abstaining from Flesh** — Kural 256–260;
-- chapter 27 **Ascetic Practice** — 261–270;
-- chapter 28 **Improper Conduct** — 271–280;
-- chapter 29 **Not Stealing** — 281–290;
-- chapter 30 **Truthfulness** — 291–300;
-- chapter 31 **Freedom from Anger** — 301–310;
-- chapter 32 **Not Causing Pain** — 311–320;
-- chapter 33 **Non-killing** — 321–330;
-- chapter 34 **Impermanence** — 331–340;
-- chapter 35 **Renunciation** — 341–350;
-- chapter 36 **Realizing Truth** — 351–360;
-- chapter 37 **Eradication of Desire** — 361–365 supplied in this part.
+All **22/22** English page records exist for scans **85–106 / printed pages 52–73 / Kural 256–365**.
 
 Current Part 005 English counts:
 
-- `draft`: **22**;
-- `source-checked`: **0**;
+- `source-checked`: **7** — scans 85–91 / Kural 256–290;
+- `draft`: **15** — scans 92–106 / Kural 291–365;
 - `editorial-reviewed`: **0**;
-- `release-ready`: **0**;
-- uncreated: **0**.
+- `release-ready`: **0**.
 
-The first-pass drafts retain Kalaignar's source-specific argument and imagery. The final batch includes the Kural 329 verified reading `பகுத்தறிவு இழந்து செயல்படும்`, the performance-crowd image for impermanent wealth, the day-as-sword image, body/life as egg and young bird, the renunciation discussion of “I” and “mine”, the source-specific world-fame interpretation at Kural 346 commentary, and the birth/desire readings through Kural 365.
+The first source-check batch covers completion of **Abstaining from Flesh**, then **Ascetic Practice**, **Improper Conduct**, and **Not Stealing**.
+
+Two fidelity refinements were made while keeping Kalaignar's commentary intact: Kural 270 now retains the verse's ascetic-practice wording rather than importing the commentary's firmness language, and Kural 290 now keeps `புத்தே ளுலகு` as **the higher world** in the verse while Kalaignar's commentary separately retains `புகழுலக வாழ்க்கை` as **life in the world of fame**.
 
 ## அடுத்த செயல்
 
-Begin the dedicated **Part 005 English source-check for scans 85–91 / printed pages 52–58 / Kural 256–290**.
+Continue the dedicated **Part 005 English source-check for scans 92–98 / printed pages 59–65 / Kural 291–325**.
 
-Compare every Kural and Kalaignar commentary paragraph against the corresponding verified Tamil page and promote only fully checked records to `source-checked`. Kural 290 requires particular verse/commentary care around `புத்தே ளுலகு` and Kalaignar's explicit `புகழுலக வாழ்க்கை` explanation.
+Compare every Kural and Kalaignar commentary paragraph against the corresponding verified Tamil page and promote only fully checked records to `source-checked`.
 
-Do not begin editorial review and do not source-check scan 92 onward in the same activity.
+Do not source-check scan 99 onward and do not begin editorial review in the same activity.
