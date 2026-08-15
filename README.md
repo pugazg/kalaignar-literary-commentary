@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–005 **ARCHIVAL-READY** |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–003 released; Part 004 first pass **22/22 complete**; Part 005 not started |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–003 released; Part 004 source-check **7/22 complete**; Part 005 not started |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -28,15 +28,7 @@ The project translation follows an explicit fidelity rule: **retain Kalaignar's 
 
 ## தற்போதைய நிலை — திருக்குறள்
 
-Tamil Parts 001–005 are archival-ready for all currently supplied source material.
-
-- Part 001 — scans **1–20**; 19 verified + scan 8 documented partial;
-- Part 002 — scans **21–41**, 21/21 verified;
-- Part 003 — scans **42–62**, 21/21 verified, through Kural **145**;
-- Part 004 — scans **63–84**, printed pages **30–51**, Kural **146–255**, **ARCHIVAL-READY**;
-- Part 005 — scans **85–106**, printed pages **52–73**, Kural **256–365**, **ARCHIVAL-READY**.
-
-The supplied physical source currently reaches overall scan **106** / printed page **73** / Kural **365**.
+Tamil Parts 001–005 are archival-ready for all currently supplied source material through overall scan **106** / printed page **73** / Kural **365**.
 
 ### English Parts 001–003 — RELEASE COMPLETE
 
@@ -44,13 +36,18 @@ The supplied physical source currently reaches overall scan **106** / printed pa
 - Part 002: **21/21 `release-ready`**;
 - Part 003: **21/21 `release-ready`**, through Kural **145**.
 
-### English Part 004 — FIRST PASS COMPLETE
+### English Part 004 — SOURCE-CHECK IN PROGRESS
 
-All **22/22** English first-pass records now cover scans **63–84 / printed pages 30–51 / Kural 146–255**. Every page remains `draft`; no source-check has begun.
+All **22/22** first-pass records exist for scans **63–84 / printed pages 30–51 / Kural 146–255**.
 
-The first-pass chapter range runs from completion of `பிறனில் விழையாமை` through the supplied beginning of `புலால் மறுத்தல்`. Working English headings introduced in Part 004 remain project-created and pending formal editorial/glossary reconciliation.
+Current state:
 
-Next English activity: begin the dedicated Part 004 source-check with scans **63–69 / printed pages 30–36 / Kural 146–180**. Compare directly with the verified Tamil source and promote only fully checked pages to `source-checked`.
+- `source-checked`: **7** — scans 63–69 / Kural 146–180;
+- `draft`: **15** — scans 70–84 / Kural 181–255.
+
+The first source-check batch preserves Kalaignar's explicit **another man's wife** wording, earth-bearing-diggers image, **“let us forget, let us forgive,”** Lakshmi / Moodevi explanation, and immediate-versus-lasting-benefit reading. One fidelity correction was made in Kural 149 to restore the actor correctly: **those who do not touch the shoulders of the woman who belongs to another**.
+
+Next English activity: source-check scans **70–76 / printed pages 37–43 / Kural 181–215**. Do not begin editorial review or Part 005 English translation in the same activity.
 
 For further Tamil archival work, the next source must continue after overall scan **106** / printed page **73** / Kural **365**.
 
