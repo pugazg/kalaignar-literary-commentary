@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Renunciant Life — Impermanence"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -28,7 +28,7 @@ one should at once use it for deeds that endure.**
 
 Knowing that the wealth that comes to us is impermanent, we should use it immediately to engage in lasting good deeds.
 
-**334. Showing itself as a day, it is a sword  
+**334. What appears as a day is a sword  
 that keeps cutting life away, for those who understand.**
 
 Those who understand life know that what is called a day is a sword that continually cuts down and shortens a person's span of life.
