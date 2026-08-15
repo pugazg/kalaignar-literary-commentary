@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Renunciant Life — Eradication of Desire"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -34,7 +34,7 @@ that purity comes to those who seek truthfulness.**
 Purity is the quality of being free from greed. Such purity comes only to those who seek truthfulness.
 
 **365. Those free of desire are called detached;  
-the others, though they have renounced, are not fully detached.**
+the others have not truly given up anything.**
 
 Only those who have given up every desire are called renunciants. Those who have not renounced completely cannot become pure renunciants.
 
