@@ -10,7 +10,7 @@
 | 002 | `திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf` | 21 | 21–41 | audited / **ARCHIVAL-READY** |
 | 003 | `திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf` | 21 | 42–62 | audited / **ARCHIVAL-READY** |
 | 004 | `திருக்குறள்_கலைஞர்_உரை_part_004_pages_63-84.pdf` | 22 | 63–84 | audited / **ARCHIVAL-READY** |
-| 005 | `திருக்குறள்_கலைஞர்_உரை_part_005_pages_85-106.pdf` | 22 | 85–106 | **22/22 verified; audit pending** |
+| 005 | `திருக்குறள்_கலைஞர்_உரை_part_005_pages_85-106.pdf` | 22 | 85–106 | audited / **ARCHIVAL-READY** |
 
 The supplied scans confirm direct continuity:
 
@@ -26,19 +26,17 @@ The supplied physical source therefore reaches overall scan **106** / printed pa
 - Part 002: **21/21 verified; ARCHIVAL-READY**.
 - Part 003: **21/21 verified; ARCHIVAL-READY**.
 - Part 004: **22/22 verified and audited; ARCHIVAL-READY** — scans 63–84 / printed pages 30–51 / Kural 146–255.
-- Part 005: **22/22 verified** — scans 85–106 / printed pages 52–73 / Kural 256–365; audit pending.
+- Part 005: **22/22 verified and audited; ARCHIVAL-READY** — scans 85–106 / printed pages 52–73 / Kural 256–365.
 
-### Part 005 — direct visual verification complete
+### Part 005 — archival release
 
-All 22 Part 005 records have now been compared directly with the controlling scan and use:
+The separate audit is complete:
 
-`status: "verified"`
+- [`AUDIT_PART_005.md`](AUDIT_PART_005.md)
 
-and
+Audit result: **ARCHIVAL-READY**.
 
-`transcription_method: "direct visual comparison with source scan"`
-
-Coverage:
+Confirmed Part 005 coverage:
 
 - scan 85 — completion of `26. புலால் மறுத்தல்`, Kural 256–260;
 - scans 86–87 — `27. தவம்`, 261–270;
@@ -53,12 +51,15 @@ Coverage:
 - scans 104–105 — `36. மெய்யுணர்தல்`, 351–360;
 - scan 106 — beginning of `37. அவா அறுத்தல்`, 361–365.
 
-Verification result:
+All 22 Part 005 records use:
 
-- scans **85–98 and 100–106** matched their first-pass transcription without source-text changes;
-- scan **99 / Kural 329 commentary** required one scan-supported correction: `பகுத்தறிவு மிகுந்த செயல்படும்` → **`பகுத்தறிவு இழந்து செயல்படும்`**.
+`status: "verified"`
 
-No Part 005 audit exists yet, so Part 005 is **fully verified but not yet archival-ready**.
+and
+
+`transcription_method: "direct visual comparison with source scan"`
+
+The audit reconfirmed the single scan-supported verification correction at scan 99 / Kural 329 commentary: `பகுத்தறிவு மிகுந்த செயல்படும்` → **`பகுத்தறிவு இழந்து செயல்படும்`**. No unresolved Part 005 character uncertainty remains.
 
 Audits completed:
 
@@ -66,6 +67,7 @@ Audits completed:
 - [`AUDIT_PART_002.md`](AUDIT_PART_002.md)
 - [`AUDIT_PART_003.md`](AUDIT_PART_003.md)
 - [`AUDIT_PART_004.md`](AUDIT_PART_004.md)
+- [`AUDIT_PART_005.md`](AUDIT_PART_005.md)
 
 ## English project translation layer
 
@@ -83,7 +85,7 @@ Permanent cadence:
 - Part 002: **21/21 `release-ready`**;
 - Part 003: **21/21 `release-ready`**, through Kural 145.
 
-Part 004 English is eligible because its Tamil archive is archival-ready; the immediate next Tamil archival step is the Part 005 audit.
+Parts 004 and 005 Tamil are now archival-ready and therefore eligible for the project-created English translation workflow.
 
 ## Source-first rule
 
@@ -93,8 +95,8 @@ Part 004 English is eligible because its Tamil archive is archival-ready; the im
 
 ## அடுத்த செயல்
 
-Perform the **Part 005 Tamil archival audit** across all 22 verified records, scans **85–106** / printed pages **52–73** / Kural **256–365**.
+Tamil archival processing is complete for all currently supplied material through overall scan **106** / printed page **73** / Kural **365**.
 
-Create `AUDIT_PART_005.md`, validate one-to-one scan/local/printed-page mapping, metadata, continuous Kural numbering, chapter continuity, the Part 004→005 boundary, and the scan-99 correction. If every gate passes, mark Part 005 **ARCHIVAL-READY**.
+The next Tamil archival activity requires the next supplied source beginning after Kural 365.
 
-Do not begin Part 004 English translation in the same audit activity.
+In the existing English workflow, the next eligible activity is **Part 004 English first-pass translation**, beginning at overall scan **63** / printed page **30** / Kural **146**. Use audited Tamil as the working basis and retain Kalaignar's own language, images and interpretive direction. Do not import standard external Kural translations or another commentator's interpretation.
