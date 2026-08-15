@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–005 **ARCHIVAL-READY** |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–004 **released**; Part 005 **22/22 editorial-reviewed** |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–005 **released through Kural 365** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -30,23 +30,18 @@ The project translation follows an explicit fidelity rule: **retain Kalaignar's 
 
 Tamil Parts 001–005 are archival-ready for all currently supplied source material through overall scan **106** / printed page **73** / Kural **365**.
 
-### English Parts 001–004 — RELEASE COMPLETE
+### English Parts 001–005 — RELEASE COMPLETE FOR ALL SUPPLIED MATERIAL
 
 - Part 001: 19 `release-ready` + 1 `source-limited`;
 - Part 002: **21/21 `release-ready`**;
 - Part 003: **21/21 `release-ready`**, through Kural **145**;
-- Part 004: **22/22 `release-ready`**, through Kural **255**.
+- Part 004: **22/22 `release-ready`**, through Kural **255**;
+- Part 005: **22/22 `release-ready`**, through the currently supplied Kural **365**.
 
-Part 004 release is documented in [`works/thirukkural/translations/en/reviews/PART_004_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_004_RELEASE_REPORT.md).
+Part 005 release is documented in [`works/thirukkural/translations/en/reviews/PART_005_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_005_RELEASE_REPORT.md). The preceding editorial decisions are recorded in [`works/thirukkural/translations/en/reviews/PART_005_REVIEW.md`](works/thirukkural/translations/en/reviews/PART_005_REVIEW.md).
 
-### English Part 005 — EDITORIAL REVIEW COMPLETE
+The release preserves Kalaignar's source-specific interpretations and the documented verse/commentary separation at important points including Kurals 290, 319, 329 and 346, along with the renunciant-life / another-birth / desire readings through Kural 365.
 
-All **22/22** Part 005 English records for scans **85–106 / printed pages 52–73 / Kural 256–365** are now `editorial-reviewed`.
-
-The review is documented in [`works/thirukkural/translations/en/reviews/PART_005_REVIEW.md`](works/thirukkural/translations/en/reviews/PART_005_REVIEW.md) and extends the controlled main-body glossary through chapter 37 / Kural 365. It preserves the important verse/commentary distinctions at Kurals 290, 319 and 346, the verified loss-of-rational-discernment reading at Kural 329, and Kalaignar's source-specific renunciation, another-birth and desire explanations.
-
-The next English activity is the separate **Part 005 release gate**. No Part 005 page is `release-ready` yet.
-
-For further Tamil archival work, the next source must continue after overall scan **106** / printed page **73** / Kural **365**.
+For further Thirukkural archival work, a new source must continue after overall scan **106** / printed page **73**, beginning with **Kural 366 onward**. Nothing beyond the supplied source should be reconstructed or translated.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), and [`HANDOVER.md`](HANDOVER.md).
