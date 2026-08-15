@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Renunciant Life — Non-killing"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -29,7 +29,7 @@ Even if a killing could bring a benefit great enough to appear good, people of g
 **329. Those whose work is killing are people of base deeds  
 in the hearts of those who discern baseness.**
 
-The hearts of the worthy regard killers who act having lost rational discernment as degraded beings.
+The hearts of the worthy regard killers who act after losing rational discernment as degraded beings.
 
 **330. Those who live a wretched life in bodies afflicted by suffering  
 are said to be people who once severed life from bodies.**
