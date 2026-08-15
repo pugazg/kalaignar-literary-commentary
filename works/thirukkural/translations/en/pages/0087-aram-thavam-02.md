@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Renunciant Life — Ascetic Practice"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -32,7 +32,7 @@ for those who have attained the strength of steadfast observance.**
 Those who possess the strength to endure however many sufferings may come and remain firm in their goal will overcome even death and live.
 
 **270. The reason those without strength are many is this:  
-few practise with firmness, while many do not.**
+few practise ascetic discipline, while many do not.**
 
 The reason people without strength are many is that only a few possess firmness of mind, while many are without firmness.
 
