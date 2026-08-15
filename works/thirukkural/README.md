@@ -9,7 +9,7 @@
 | 001 | `திருக்குறள்_கலைஞர்_உரை_part_001_pages_1-20.pdf` | 20 | 1–20 | audited / archival-ready; scan 8 documented partial |
 | 002 | `திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf` | 21 | 21–41 | audited / **ARCHIVAL-READY** |
 | 003 | `திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf` | 21 | 42–62 | audited / **ARCHIVAL-READY** |
-| 004 | `திருக்குறள்_கலைஞர்_உரை_part_004_pages_63-84.pdf` | 22 | 63–84 | first-pass **22/22 complete**; direct verification **14/22 complete** |
+| 004 | `திருக்குறள்_கலைஞர்_உரை_part_004_pages_63-84.pdf` | 22 | 63–84 | transcription + direct verification **22/22 complete**; audit pending |
 | 005 | `திருக்குறள்_கலைஞர்_உரை_part_005_pages_85-106.pdf` | 22 | 85–106 | source inspected / queued; transcription not started |
 
 The newly supplied scans confirm direct continuity:
@@ -25,9 +25,7 @@ The supplied source therefore now reaches overall scan **106** / printed page **
 - Part 001: **20/20 records; 19 verified + scan 8 documented partial**.
 - Part 002: **21/21 verified; ARCHIVAL-READY**.
 - Part 003: **21/21 verified; ARCHIVAL-READY**.
-- Part 004: **22/22 first-pass records created** — scans 63–84 / printed pages 30–51 / Kural 146–255.
-  - `verified`: **14** — scans 63–76 / printed pages 30–43 / Kural 146–215.
-  - `needs-review`: **8** — scans 77–84 / printed pages 44–51 / Kural 216–255.
+- Part 004: **22/22 verified** — scans 63–84 / printed pages 30–51 / Kural 146–255; archival audit pending.
 - Part 005: source accepted and continuity inspected; **0/22 repository page records** so far.
 
 Part 004 coverage:
@@ -45,20 +43,24 @@ Part 004 coverage:
 - scans 82–83 — `25. அருளுடைமை`, Kural 241–250; source section shifts here to `துறவறவியல்`;
 - scan 84 — beginning of `26. புலால் மறுத்தல்`, Kural 251–255.
 
-### Part 004 direct verification — batches 1–2 complete
+### Part 004 direct verification — complete
 
-Scans **63–76** have been compared directly against the supplied PDF page images character by character and promoted to `verified`. Their `transcription_method` is:
+All scans **63–84** have been compared directly against the supplied PDF page images and are now `verified`. Every verified page uses:
 
-`direct visual comparison with source scan`
+`transcription_method: "direct visual comparison with source scan"`
 
-Batch 1 (scans 63–69) corrected four scan-supported first-pass mismatches:
+Source-supported corrections made during batch 1 (scans 63–69):
 
 - scan 63 / Kural 150: restored printed `அறன்வரையா னல்ல`;
-- scan 63 / Kural 150 commentary: `செயலிலே` → source `செயலைவிடத்`;
+- scan 63 / Kural 150 commentary: first-pass `செயலிலே` → source `செயலைவிடத்`;
 - scan 64 / Kural 151: restored printed spacing `நிலம் போலத்`;
-- scan 64 / Kural 151 commentary: `தன்னை` → source `தன்மீது`.
+- scan 64 / Kural 151 commentary: first-pass `தன்னை` → source `தன்மீது`.
 
-Batch 2 (scans 70–76 / Kural 181–215) required **no source-text correction**. The first-pass Kural text, source-specific spacing/joins, punctuation and Kalaignar commentary matched the supplied scans during direct visual comparison. No uncertainty remains in scans 63–76.
+Batch 2 (scans 70–76 / Kural 181–215) required **no source-text correction**.
+
+Final batch (scans 77–84 / Kural 216–255) also required **no source-text correction**. Its first-pass Kural spellings, source-specific joins/spacing, punctuation, two-line verse structure, Kalaignar commentary, metadata and source markers matched the controlling scans. The section transition at scan 82 / printed page 49 to `அறம் — துறவறவியல் — அருளுடைமை` was directly confirmed.
+
+No uncertainty remains in Part 004 scans 63–84.
 
 Audits completed so far:
 
@@ -66,7 +68,7 @@ Audits completed so far:
 - [`AUDIT_PART_002.md`](AUDIT_PART_002.md)
 - [`AUDIT_PART_003.md`](AUDIT_PART_003.md)
 
-Do **not** create a Part 004 audit until all 22 pages have completed direct visual comparison against the source scans.
+`AUDIT_PART_004.md` has **not yet been created**. Part 004 is fully verified but should not be called archival-ready until that separate audit passes.
 
 ## English project translation layer
 
@@ -89,7 +91,7 @@ Part 003 review/release artefacts:
 - [`translations/en/reviews/PART_003_REVIEW.md`](translations/en/reviews/PART_003_REVIEW.md)
 - [`translations/en/reviews/PART_003_RELEASE_REPORT.md`](translations/en/reviews/PART_003_RELEASE_REPORT.md)
 
-No Part 004 or Part 005 English translation should begin until the corresponding Tamil part has completed direct visual verification and its archival audit.
+No Part 004 English translation should begin until Part 004 passes its archival audit.
 
 ## Source-first rule
 
@@ -99,16 +101,17 @@ No Part 004 or Part 005 English translation should begin until the corresponding
 
 ## அடுத்த செயல்
 
-Complete the **Part 004 Tamil direct visual-verification pass** with the remaining overall scans **77–84** / Part 004 local pages **15–22** / printed pages **44–51** / Kural **216–255**.
+Perform the separate **Part 004 Tamil archival audit** across all **22 verified records**, scans **63–84** / printed pages **30–51** / Kural **146–255**.
 
-That final verification batch covers:
+The audit must verify:
 
-- scan 77 — completion of `22. ஒப்புரவறிதல்`, Kural 216–220;
-- scans 78–79 — `23. ஈகை`, Kural 221–230;
-- scans 80–81 — `24. புகழ்`, Kural 231–240;
-- scans 82–83 — `25. அருளுடைமை`, Kural 241–250;
-- scan 84 — beginning of `26. புலால் மறுத்தல்`, Kural 251–255.
+- exactly 22 one-to-one page records exist for scans 63–84;
+- all are `status: "verified"` with `transcription_method: "direct visual comparison with source scan"`;
+- scan, part/local-page, printed-page, source filename, section and source-marker metadata are correct;
+- Kural numbering is continuous from 146 through 255 with no omission or duplication;
+- chapter continuity is correct, including the continuation of chapter 15 at scan 63 and partial chapter 26 at scan 84;
+- the `இல்லறவியல்` → `துறவறவியல்` transition at scan 82 is correctly represented;
+- the four documented scan-supported corrections from the first verification batch are retained;
+- no unsupported normalization or external Kural wording has entered the verified records.
 
-Compare each record directly against the supplied scan; correct only scan-supported differences; promote only fully confirmed pages to `verified` and set `transcription_method: "direct visual comparison with source scan"`.
-
-After scans 77–84 are checked, synchronize status documentation and stop. **Do not create the Part 004 audit and do not begin Part 005 transcription or Part 004 English translation in the same activity.**
+Create `AUDIT_PART_004.md`. If every gate passes, declare Part 004 **ARCHIVAL-READY** and synchronize this README, root README and `HANDOVER.md`. Then stop. **Do not begin Part 005 transcription or Part 004 English translation in the same activity.**
