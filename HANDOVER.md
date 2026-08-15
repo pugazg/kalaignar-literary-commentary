@@ -34,105 +34,120 @@ Released:
 - Part 002 — 21/21 `release-ready`;
 - Part 003 — 21/21 `release-ready`, through Kural 145.
 
-## Part 004 English — SOURCE-CHECK COMPLETE
+## Part 004 English — EDITORIAL REVIEW COMPLETE
 
-All **22/22** Part 004 English records exist for scans **63–84 / printed pages 30–51 / Kural 146–255** and are now `source-checked`.
+All **22/22** Part 004 English records for scans **63–84 / printed pages 30–51 / Kural 146–255** have completed first pass, source-check and editorial consistency / glossary reconciliation.
 
 Current Part 004 English counts:
 
-- `source-checked`: **22**;
+- `editorial-reviewed`: **22**;
+- `source-checked`: **0**;
 - `draft`: **0**;
-- `editorial-reviewed`: **0**;
-- `release-ready`: **0**.
+- `release-ready`: **0**;
+- `source-limited`: **0**;
+- `blocked`: **0**.
 
-Chapter coverage:
+Editorial review artefact:
 
-- scan 63 — completion of `15. பிறனில் விழையாமை` / **Not Desiring Another Man's Wife**, Kural 146–150;
-- scans 64–65 — `16. பொறையுடைமை` / working heading **Forbearance**, Kural 151–160;
-- scans 66–67 — `17. அழுக்காறாமை` / working heading **Freedom from Envy**, Kural 161–170;
-- scans 68–69 — `18. வெஃகாமை` / working heading **Not Coveting**, Kural 171–180;
-- scans 70–71 — `19. புறங்கூறாமை` / working heading **Not Speaking Ill Behind Another's Back**, Kural 181–190;
-- scans 72–73 — `20. பயனில சொல்லாமை` / working heading **Not Speaking Useless Words**, Kural 191–200;
-- scans 74–75 — `21. தீவினையச்சம்` / working heading **Fear of Evil Deeds**, Kural 201–210;
-- scans 76–77 — `22. ஒப்புரவறிதல்` / working heading **Understanding Helpfulness**, Kural 211–220;
-- scans 78–79 — `23. ஈகை` / working heading **Giving**, Kural 221–230;
-- scans 80–81 — `24. புகழ்` / working heading **Fame**, Kural 231–240;
-- scans 82–83 — `25. அருளுடைமை` / working heading **Possession of Compassion**, Kural 241–250;
-- scan 84 — supplied beginning of `26. புலால் மறுத்தல்` / working heading **Abstaining from Flesh**, Kural 251–255.
+- `works/thirukkural/translations/en/reviews/PART_004_REVIEW.md`
 
-All Part 004 headings after chapter 15 remain **working project headings** until the editorial/glossary-reconciliation review. Do not silently replace them with a standard external English Thirukkural title list.
+The Part 004 review is a **PASS — EDITORIAL REVIEW COMPLETE**, but it is not a release approval.
 
-## Source-sensitive decisions retained through source-check
+## Controlled Part 004 main-body headings
 
-Preserve these during editorial review:
+- chapter 16 `பொறையுடைமை` — **Forbearance**;
+- chapter 17 `அழுக்காறாமை` — **Freedom from Envy**;
+- chapter 18 `வெஃகாமை` — **Not Coveting**;
+- chapter 19 `புறங்கூறாமை` — **Not Speaking Ill Behind Another's Back**;
+- chapter 20 `பயனில சொல்லாமை` — **Not Speaking Useless Words**;
+- chapter 21 `தீவினையச்சம்` — **Fear of Evil Deeds**;
+- chapter 22 `ஒப்புரவறிதல்` — **Understanding Helpfulness**;
+- chapter 23 `ஈகை` — **Giving**;
+- chapter 24 `புகழ்` — **Fame**;
+- chapter 25 `அருளுடைமை` — **Possession of Compassion**;
+- chapter 26 `புலால் மறுத்தல்` — **Abstaining from Flesh**.
+
+Structural `துறவறவியல்` is now controlled as **Renunciant Life**.
+
+Four titles deliberately refine already released Part 002 **index-local** forms. Do not rewrite those index pages during the release gate:
+
+- `புறங்கூறாமை`: index **Not Slandering** → main body **Not Speaking Ill Behind Another's Back**;
+- `தீவினையச்சம்`: index **Dread of Evil Deeds** → main body **Fear of Evil Deeds**;
+- `ஒப்புரவறிதல்`: index **Understanding Mutual Help** → main body **Understanding Helpfulness**;
+- `புலால் மறுத்தல்`: index **Abstaining from Meat** → main body **Abstaining from Flesh**.
+
+These differences and their source-based reasons are documented in `PART_004_REVIEW.md` and `GLOSSARY.md`.
+
+## Source-sensitive decisions that must survive the release gate
+
+Preserve, among others:
 
 - explicit **another man's wife** wording through Kural 150;
+- Kural 149 restored actor: **“Those who do not touch the shoulders of the woman who belongs to another.”**;
 - Kural 151 earth-bearing-those-who-dig image;
-- Kural 156 commentary's **“let us forget, let us forgive”** wording;
-- Kural 167 commentary's explicit **Lakshmi / Moodevi** explanation;
-- Kural 173 commentary's immediate-versus-lasting-benefit reading;
-- Kural 183 commentary's preference for death over living falsely through backbiting;
-- Kural 189 commentary's earth-bearing-the-backbiter image;
-- Kural 196 commentary's **chaff** comparison;
-- Kural 204 commentary's **aram surrounding the plotter**;
+- Kural 156 **“let us forget, let us forgive”**;
+- Kural 167 Lakshmi / Moodevi explanation;
+- Kural 173 immediate-versus-lasting-benefit reading;
+- Kural 183 death-versus-false-life contrast;
+- Kural 188 compact **“What then of strangers”**, with fuller explanation only in commentary;
+- Kural 189 earth bearing the backbiter because bearing even such a person is itself aram;
+- Kural 196 **chaff** comparison, with `for gain` only in commentary;
+- Kural 204 **aram surrounding the plotter**;
 - Kural 207 pursuing-enemy image and Kural 208 shadow image;
+- Kural 210 **hard to ruin**;
 - Kural 211 rain giving without expecting repayment;
-- Kural 213 commentary's *oppuravu* as helping others and **today's world / new world yet to come** reading;
-- Kural 214 verse/commentary distinction: the verse says **“One who knows what is fitting truly lives; / the other is counted among the dead.”** Kalaignar's commentary separately explains this through *oppuravu* and helping others;
+- Kural 213 *oppuravu* / helping-others explanation and **today's world / new world yet to come** reading;
+- Kural 214 verse/commentary separation;
 - Kural 215 village water-tank image;
-- Kural 216 fruit-bearing tree in the middle of the town;
-- Kural 217 medicinal-tree image;
+- Kural 216 fruit-bearing tree and Kural 217 medicinal-tree image;
 - Kural 220 loss from helpfulness being worth buying even by selling oneself;
-- Kural 222 commentary's statement that giving does not necessarily secure the so-called higher world;
-- Kural 226 commentary's **treasury** image for feeding the starving;
-- Kural 234 commentary's **new world that is to come** interpretation;
-- Kural 239 commentary's **fame as the life of the human body** image;
+- Kural 222 higher-world qualification in commentary;
+- Kural 226 **storehouse** in verse / **treasury** in commentary;
+- Kural 229 compact verse versus hoarding explanation in commentary;
+- Kural 233 **unequalled** modifying fame;
+- Kural 234 **new world that is to come**;
+- Kural 239 **life called fame** only in commentary;
 - Kural 241 wealth of compassion versus material wealth;
 - Kural 245 world-and-wind analogy;
-- Kural 251–255 compassion/flesh-eating argument, including the pit-of-filth image at Kural 255.
+- Kural 246 **bereft of substance and forgetful**, with forgotten duty separately in commentary;
+- Kural 247 **that world / this world** in verse, renunciant-life interpretation separately in commentary;
+- Kural 251 another being's flesh and Kural 252 possession-of-wealth / possession-of-compassion parallel;
+- Kural 255 pit-of-filth image.
 
-## Source-check corrections that must not be undone
+## Editorial refinements made after source-check
 
-Earlier batches:
+The Part 004 editorial review made only small readability / consistency changes, including:
 
-1. Kural 149 — actor restored: **“Those who do not touch the shoulders of the woman who belongs to another.”**
-2. Kural 188 — verse kept less over-explicit than Kalaignar's commentary: **“What then of strangers”**.
-3. Kural 196 — commentary-derived **for gain** removed from the verse; commentary retains that motive.
-4. Kural 210 — awkward first-pass wording replaced with **hard to ruin**.
-5. Kural 214 — helping-others explanation removed from the verse and retained only in commentary.
+- Kural 160 commentary: `honoured only in the place after` → **honoured only after**;
+- Kural 183: removed repetitive `live ... living falsely` wording;
+- Kural 184: pronoun consistency;
+- Kural 186: generic pronoun consistency;
+- Kural 200: **“Speak words that carry benefit; / do not speak words that carry no benefit.”**;
+- Kural 238: **a reproach upon that life**;
+- Kural 251: generic **one's own flesh** while retaining another being's flesh;
+- Kural 254: `no right thing` → **not right**.
 
-Final batch, scans 77–84:
-
-6. Kurals 216, 217 and 219 — removed commentary-specific “tender heart” / *oppuravu* / helping-others detail from the verses while retaining it in commentary.
-7. Kural 221 — verse now says **the poor**; commentary separately says those who have nothing.
-8. Kural 222 — verse now preserves `கொளல்தீது` as **receiving is bad**; commentary separately gives the greatness/littleness explanation.
-9. Kural 224 — verse tightened to **being moved to pity** until the supplicant's smiling face is seen.
-10. Kural 226 — verse uses **storehouse**; commentary retains **treasury**.
-11. Kural 229 — verse keeps the compact image of one who has amassed eating alone; commentary separately explains hoarding out of fear that giving will reduce the stock.
-12. Kural 233 — **unequalled** now modifies fame, not the world.
-13. Kural 239 — commentary-derived **life called fame** removed from the verse and retained in Kalaignar's commentary.
-14. Kural 246 — first-pass **meaning and duty** replaced by **bereft of substance and forgetful**; commentary separately states forgotten duty.
-15. Kural 247 — verse restored to **that world / this world**; Kalaignar's commentary separately gives the renunciant-life interpretation.
-16. Kurals 251–252 — clarified another being's flesh and the possession-of-wealth / possession-of-compassion parallel without altering Kalaignar's flesh-eating argument.
+Do not undo these during release unless a newly discovered source-fidelity problem requires documented correction.
 
 # Exact next activity
 
-Perform the **Part 004 English editorial-consistency / glossary-reconciliation review** across all scans **63–84 / Kural 146–255**.
+Perform the separate **Part 004 English release gate**.
 
 Required procedure:
 
-1. fetch and read all 22 current `source-checked` Part 004 English pages as one set;
-2. fetch the current `GLOSSARY.md` and `TRANSLATION_GUIDE.md`;
-3. inspect the already released Part 003 end at scan 62 for chapter-15 continuity;
-4. reconcile working Part 004 chapter headings 16–26 against this project's glossary and this edition's own Part 002 index/glossary layer — **not** against an external standard English title list;
-5. review recurring terminology and style, especially aram, compassion, *oppuravu* / helpfulness, giving, fame, flesh, renunciant life, and source-specific gender/social wording;
-6. preserve every source-sensitive decision listed above;
-7. improve English readability or punctuation only where source meaning is unchanged;
-8. create `works/thirukkural/translations/en/reviews/PART_004_REVIEW.md` documenting the review decisions and any editorial refinements;
-9. update `GLOSSARY.md` only where the Part 004 review establishes a controlled project decision;
-10. if all 22 pages pass the consistency review, promote them from `source-checked` to `editorial-reviewed`;
-11. synchronize `TRANSLATION_STATUS.md`, English README, work README, root README and this handover.
+1. fetch/read `works/thirukkural/translations/en/reviews/PART_004_REVIEW.md` completely;
+2. fetch/read current `GLOSSARY.md` and the relevant release pattern, especially `reviews/PART_003_RELEASE_REPORT.md`;
+3. verify all 22 Part 004 English page files, scans 63–84, are `editorial-reviewed` and preserve one-to-one source metadata, printed pages 30–51 and Kural 146–255;
+4. verify Part 003 scan 62 → Part 004 scan 63 continuity at Kural 145 → 146 and chapter 15;
+5. verify the controlled chapter-title decisions and the four documented main-body/index-local distinctions;
+6. verify every source-sensitive decision listed above remains intact;
+7. verify no `draft`, `source-checked`, `source-limited`, or `blocked` Part 004 records remain;
+8. create `works/thirukkural/translations/en/reviews/PART_004_RELEASE_REPORT.md` documenting the release gate;
+9. **only if every release check passes**, promote all 22 Part 004 English pages from `editorial-reviewed` to `release-ready`;
+10. synchronize `TRANSLATION_STATUS.md`, English README, work README, root README and this handover.
 
-After that activity, stop. **Do not perform the Part 004 release gate and do not begin Part 005 English translation in the same activity.**
+After that activity, stop.
 
-The activity after a successful Part 004 editorial review will be the separate **Part 004 English release gate**, including `reviews/PART_004_RELEASE_REPORT.md` and promotion to `release-ready` only if all release checks pass.
+**Do not begin Part 005 English translation in the same release-gate activity.**
+
+If the Part 004 release gate passes, the following activity will begin Part 005 English first-pass translation from scan **85** / Kural **256**.
