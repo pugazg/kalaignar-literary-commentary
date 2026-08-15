@@ -47,23 +47,25 @@ Tamil Part 005 is **ARCHIVAL-READY**, covering scans **85–106 / printed pages 
 English state:
 
 - aligned English records: **22 / 22**;
-- `source-checked`: **7** — scans 85–91 / Kural 256–290;
-- `draft`: **15** — scans 92–106 / Kural 291–365;
+- `source-checked`: **14** — scans 85–98 / Kural 256–325;
+- `draft`: **8** — scans 99–106 / Kural 326–365;
 - `editorial-reviewed`: **0**;
 - `release-ready`: **0**.
 
-The first source-check batch preserves Kalaignar-specific imagery and explanations across **Abstaining from Flesh**, **Ascetic Practice**, **Improper Conduct**, and **Not Stealing**.
+The completed source-check now covers **Abstaining from Flesh**, **Ascetic Practice**, **Improper Conduct**, **Not Stealing**, **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, and the beginning of **Non-killing**.
 
-Two source-check refinements keep verse and commentary properly separated. Kural 270 now says **`few practise ascetic discipline`**, leaving Kalaignar's firmness-of-mind explanation to the commentary. Kural 290 now renders the compressed verse phrase `புத்தே ளுலகு` as **the higher world**, while Kalaignar's commentary separately retains his explicit **life in the world of fame** (`புகழுலக வாழ்க்கை`) reading.
+Three documented verse-level refinements currently matter for later review. Kural 270 retains **`few practise ascetic discipline`**, with firmness of mind left to Kalaignar's commentary. Kural 290 keeps `புத்தே ளுலகு` as **the higher world** in the verse while the commentary separately retains **life in the world of fame**. Kural 296 now reads **`There is no fame like freedom from falsehood; / it gives every aram without fail.`** rather than the first-pass grammatical drift.
 
-The Part 005 chapter forms remain provisional for main-body use until the later editorial/glossary reconciliation.
+Kural 319 remains intentionally layered: the Kural keeps the **morning / afternoon** image, while Kalaignar's commentary presents the returning harm as effectively immediate.
+
+The Part 005 chapter forms remain provisional for main-body use until later editorial/glossary reconciliation.
 
 ## Next activity
 
-Continue the dedicated **Part 005 English source-check for scans 92–98 / printed pages 59–65 / Kural 291–325**.
+Complete the dedicated **Part 005 English source-check for scans 99–106 / printed pages 66–73 / Kural 326–365**.
 
-Compare each Kural and commentary paragraph directly with its verified Tamil record and promote only fully checked pages to `source-checked`.
+This final source-check batch completes **Non-killing** and covers **Impermanence**, **Renunciation**, **Realizing Truth**, and the supplied beginning of **Eradication of Desire**. Particular attention is required for Kural 329's verified `பகுத்தறிவு இழந்து செயல்படும்` reading and the verse/commentary separation at Kural 346.
 
-Do not source-check scan 99 onward and do not begin editorial review in the same activity.
+Do not begin editorial review in the same activity.
 
 See [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md) for detailed state.
