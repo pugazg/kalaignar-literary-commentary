@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Renunciant Life — Truthfulness"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -19,7 +19,7 @@ There is no other life of fame equal to living without falsehood; it is that lif
 **297. If one can hold firmly to not lying,  
 it is good even without doing other deeds of aram.**
 
-The quality of steadfastly observing not lying gives the good of the path of aram more surely than the good that comes merely from refraining from things that should not be done.
+Steadfastly observing freedom from falsehood yields the good of the path of aram more surely than merely refraining from deeds that should not be done.
 
 **298. Outward purity comes through water;  
 inward purity is seen through truthfulness.**
