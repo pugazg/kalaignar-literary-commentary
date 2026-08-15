@@ -40,29 +40,31 @@ Part 004 release artefacts:
 
 The released Part 004 layer controls **Abstaining from Flesh** and structural **Renunciant Life**, which continue into Part 005.
 
-## Part 005 — FIRST PASS IN PROGRESS
+## Part 005 — FIRST PASS COMPLETE
 
 Tamil Part 005 is **ARCHIVAL-READY**, covering scans **85–106 / printed pages 52–73 / Kural 256–365**.
 
 English state:
 
-- aligned English records: **14 / 22**;
-- `draft`: **14** — scans 85–98 / Kural 256–325;
+- aligned English records: **22 / 22**;
+- `draft`: **22** — scans 85–106 / Kural 256–365;
 - `source-checked`: **0**;
 - `editorial-reviewed`: **0**;
 - `release-ready`: **0**;
-- uncreated: **8** — scans 99–106.
+- uncreated: **0**.
 
-First-pass coverage now includes completion of **Abstaining from Flesh**, followed by **Ascetic Practice**, **Improper Conduct**, **Not Stealing**, **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, and the beginning of **Non-killing**. The chapter 27–33 forms already occur in the released Part 002 index, but their Part 005 main-body status remains provisional until later editorial/glossary reconciliation.
+The first pass continues **Abstaining from Flesh** and then covers the working main-body headings **Ascetic Practice**, **Improper Conduct**, **Not Stealing**, **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, **Non-killing**, **Impermanence**, **Renunciation**, **Realizing Truth**, and the supplied beginning of **Eradication of Desire**.
 
-The newer drafts preserve Kalaignar-specific explanations such as faultless good allowing even a false statement to stand as truth, conscience punishing falsehood, the inner lamp of truthfulness, anger as a fire that burns both the angry person and the protecting circle of kin, doing good to shame a wrongdoer, treating another living being's pain as one's own, the morning/afternoon consequence image, and the equalizing sharing principle in Kural 322.
+These new Part 005 chapter forms already occur in the released Part 002 index but remain provisional for main-body use until editorial/glossary reconciliation.
+
+The final first-pass batch preserves Kalaignar-specific material including the verified Kural 329 commentary reading that killers act after **losing rational discernment**, wealth dispersing like an audience after a performance, the day as a sword cutting life away, the egg/young-bird image for body and life, worldly fame surpassing sky-reaching fame in Kural 346 commentary, and the source-specific birth/desire interpretations in Kurals 356–365.
 
 ## Next activity
 
-Complete the **Part 005 English first-pass translation for scans 99–106 / printed pages 66–73 / Kural 326–365**.
+Begin the dedicated **Part 005 English source-check for scans 85–91 / printed pages 52–58 / Kural 256–290**.
 
-The final first-pass batch completes **Non-killing**, then covers **Impermanence**, **Renunciation**, **Realizing Truth**, and the supplied beginning of **Eradication of Desire**. Create `draft` records only.
+Compare each Kural and commentary paragraph directly with its verified Tamil record and promote only fully checked pages to `source-checked`. Pay particular attention to Kural 290's verse/commentary distinction around `புத்தே ளுலகு` and Kalaignar's explicit commentary reading **world of fame**.
 
-Do not begin Part 005 source-check or editorial review in the same first-pass activity.
+Do not begin editorial review and do not source-check scan 92 onward in the same activity.
 
 See [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md) for detailed state.
