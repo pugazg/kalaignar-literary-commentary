@@ -26,13 +26,13 @@ The English should retain the source author's language, images, emphases and int
 - `source-limited` — completeness limited by controlling source;
 - `blocked` — safe translation cannot proceed.
 
-## Parts 001–005 — RELEASE COMPLETE FOR ALL SUPPLIED MATERIAL
+## Parts 001–005 — RELEASE COMPLETE
 
 - Part 001: 19 `release-ready` + scan 8 `source-limited`;
 - Part 002: **21/21 `release-ready`**;
 - Part 003: **21/21 `release-ready`**, through Kural 145;
 - Part 004: **22/22 `release-ready`**, through Kural 255;
-- Part 005: **22/22 `release-ready`**, through the currently supplied Kural 365.
+- Part 005: **22/22 `release-ready`**, through Kural 365.
 
 Latest review/release artefacts:
 
@@ -41,26 +41,18 @@ Latest review/release artefacts:
 - [`reviews/PART_005_REVIEW.md`](reviews/PART_005_REVIEW.md)
 - [`reviews/PART_005_RELEASE_REPORT.md`](reviews/PART_005_RELEASE_REPORT.md)
 
-## Part 005 release coverage
+## New Tamil source Parts 006–010
 
-Tamil Part 005 is **ARCHIVAL-READY**, covering scans **85–106 / printed pages 52–73 / Kural 256–365**. All 22 aligned English records have passed source-check, editorial review and the part-level release gate and are now `release-ready`.
+Five additional consecutive Tamil source PDFs are now available, extending the source through overall scan **214** / printed page **181** / Kural **895**.
 
-Chapter 26 continues the controlled **Abstaining from Flesh** from Part 004. The Part 005 main-body headings are **Ascetic Practice**, **Improper Conduct**, **Not Stealing**, **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, **Non-killing**, **Impermanence**, **Renunciation**, **Realizing Truth**, and **Eradication of Desire**. The structural section remains **Renunciant Life**.
+They are not yet eligible for English translation. Part 006 Tamil first-pass transcription has begun with scans **107–113 / Kural 366–390**, but those records remain `needs-review`; Parts 007–010 have not yet entered Tamil transcription.
 
-`GLOSSARY.md` controls the Part 005 treatment of ascetic practice/discipline, compassion versus love, truthfulness versus freedom from falsehood, pain/suffering/harm, non-killing, attachment, renunciation, true reality, birth/another birth and desire.
+English must wait until each Tamil part completes the established prerequisite sequence:
 
-Protected source-sensitive distinctions remain intact, especially:
+**Tamil transcription → direct visual verification → Tamil audit / archival-ready.**
 
-- Kural 290's **higher world** verse versus **life in the world of fame** commentary;
-- Kural 319's morning/afternoon verse versus effectively immediate commentary consequence;
-- Kural 329's verified **act after losing rational discernment**;
-- Kural 346's heavenly-world verse versus Kalaignar's **worldly fame surpassing even fame reaching the skies** commentary;
-- Kalaignar's source-specific renunciant-life, another-birth and desire readings through Kural 365.
+Only then may that part enter English `draft` translation.
 
-## Next activity
-
-No further Thirukkural page can be translated from the currently supplied material. The source currently ends at overall scan **106** / printed page **73** / Kural **365**.
-
-A new Tamil source continuing with **Kural 366 onward** is required before the next archival/translation cycle can begin.
+The next project activity therefore remains Tamil Part 006 first-pass transcription for scans **114–120 / Kural 391–425**.
 
 See [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md) for detailed state.
