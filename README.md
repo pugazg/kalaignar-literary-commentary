@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–005 **ARCHIVAL-READY** |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–004 **released**; Part 005 source-check **22/22 complete** |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–004 **released**; Part 005 **22/22 editorial-reviewed** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -39,20 +39,13 @@ Tamil Parts 001–005 are archival-ready for all currently supplied source mater
 
 Part 004 release is documented in [`works/thirukkural/translations/en/reviews/PART_004_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_004_RELEASE_REPORT.md).
 
-### English Part 005 — SOURCE-CHECK COMPLETE
+### English Part 005 — EDITORIAL REVIEW COMPLETE
 
-All **22/22** Part 005 English records for scans **85–106 / printed pages 52–73 / Kural 256–365** are now `source-checked`.
+All **22/22** Part 005 English records for scans **85–106 / printed pages 52–73 / Kural 256–365** are now `editorial-reviewed`.
 
-Current state:
+The review is documented in [`works/thirukkural/translations/en/reviews/PART_005_REVIEW.md`](works/thirukkural/translations/en/reviews/PART_005_REVIEW.md) and extends the controlled main-body glossary through chapter 37 / Kural 365. It preserves the important verse/commentary distinctions at Kurals 290, 319 and 346, the verified loss-of-rational-discernment reading at Kural 329, and Kalaignar's source-specific renunciation, another-birth and desire explanations.
 
-- `source-checked`: **22 / 22**;
-- `draft`: **0**;
-- `editorial-reviewed`: **0**;
-- `release-ready`: **0**.
-
-The final source-check batch completed **Non-killing**, **Impermanence**, **Renunciation**, **Realizing Truth**, and the supplied beginning of **Eradication of Desire**. It preserves Kural 329's verified loss-of-rational-discernment reading, the Kural 346 verse/commentary distinction, Kalaignar's source-specific renunciation/rebirth/desire readings, and source-level refinements at Kurals 337 and 365.
-
-The next English activity is the dedicated **Part 005 editorial-consistency / glossary-reconciliation review across all 22 source-checked pages**. The release gate remains a later, separate stage.
+The next English activity is the separate **Part 005 release gate**. No Part 005 page is `release-ready` yet.
 
 For further Tamil archival work, the next source must continue after overall scan **106** / printed page **73** / Kural **365**.
 
