@@ -19,7 +19,7 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 |---|---:|---|---|
 | Part 001 | 1–20 | archival-ready; scan 8 documented partial | **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS** |
 | Part 002 | 21–41 | archival-ready | **RELEASE-READY — 21/21** |
-| Part 003 | 42–62 | archival-ready | **EDITORIAL REVIEW COMPLETE — 21/21 editorial-reviewed** |
+| Part 003 | 42–62 | archival-ready | **RELEASE-READY — 21/21** |
 
 ## Current English counts
 
@@ -37,10 +37,10 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 ### Part 003
 
 - English page files: **21 / 21** — scans 42–62
-- `editorial-reviewed`: **21** — scans 42–62
+- `release-ready`: **21** — scans 42–62
+- `editorial-reviewed`: **0**
 - `source-checked`: **0**
 - `draft`: **0**
-- `release-ready`: **0**
 - `source-limited`: **0**
 - `blocked`: **0**
 - coverage: Kural **41–145**
@@ -60,15 +60,18 @@ Release decision: **RELEASE-READY**.
 
 Binding Part 002 source-fidelity decisions remain in force, including **Aadhi Bhagavan**, *iraivan*, *anthanar*, Kalaignar's Kural-25 Indra interpretation, Kural 12's **food they drink**, Kural 20's conduct warning, Kural 34's **clamour**, Kural 38's path-and-stone image, Nannan's ***puththelir* / new world**, and **“the low-priced edition of the people's hearts.”**
 
-# Part 003 English editorial review — COMPLETE
+# Part 003 English release — COMPLETE
 
-Tamil scans **42–62** are verified, audited and archival-ready. The English first pass and direct source-check are complete for all 21 pages. The dedicated editorial-consistency / glossary-reconciliation review has now also completed.
+Tamil scans **42–62** are verified, audited and archival-ready. The English layer has completed first pass, direct source-check, editorial-consistency / glossary review and the separate release gate for all 21 pages.
 
-Review artefact:
+Review/release artefacts:
 
 - [`reviews/PART_003_REVIEW.md`](reviews/PART_003_REVIEW.md)
+- [`reviews/PART_003_RELEASE_REPORT.md`](reviews/PART_003_RELEASE_REPORT.md)
 
-Editorial-reviewed coverage:
+Final release decision: **RELEASE-READY**.
+
+Released coverage:
 
 - scans 42–43 — **Domestic Life**, Kural 41–50;
 - scans 44–45 — **The Worth of a Life Partner**, Kural 51–60;
@@ -80,11 +83,11 @@ Editorial-reviewed coverage:
 - scans 56–57 — **Impartiality**, Kural 111–120;
 - scans 58–59 — **Self-Control**, Kural 121–130;
 - scans 60–61 — **Good Conduct**, Kural 131–140;
-- scan 62 — beginning of **Not Desiring Another Man's Wife**, Kural 141–145.
+- scan 62 — supplied beginning of **Not Desiring Another Man's Wife**, Kural 141–145.
 
-## Binding source-sensitive decisions retained
+## Release-confirmed source-sensitive decisions
 
-The editorial review preserves the established source-check decisions, including:
+The release preserves the established source-first decisions, including:
 
 - Kural 42 **those without protection**;
 - Kural 55 slave/rain interpretation;
@@ -111,26 +114,15 @@ The editorial review preserves the established source-check decisions, including
 - Kural 141 **discerned aram and wealth** in the verse versus the expanded works-on-aram/wealth commentary;
 - Kurals 141–145 repeated **another man's wife** wording and Kural 143's living-person-as-**corpse** image.
 
-## Editorial consistency decisions
+Repeated Kurals **55, 58, 83, 94 and 98** retain the previously reviewed/released Part 002 wording where the same source wording recurs.
 
-- Chapter headings 5–15 are now controlled / editorial-reviewed through the supplied Kural 145.
-- `இல்லறவியல்` remains **Domestic Life** at section level; chapter 5 `இல்வாழ்க்கை` is also **Domestic Life**, and the duplicate metadata wording is deliberate.
-- Repeated Kurals **55, 58, 83, 94, and 98** retain their already reviewed/released Part 002 wording where the same source wording recurs.
-- Kural 95 commentary was reconciled to the controlled term **humility**.
-- Kural 97 commentary was lightly smoothed from the awkward phrase `good benefit` to **beneficial results** without semantic change.
-- Generic source referents in Kural 117, Kural 123 and Kural 127 commentary were reconciled to singular **they/them** rather than inserted masculine pronouns.
-- Kural 144 now uses generic **one** for the actor while retaining the explicit object **another man's wife**.
-- `GLOSSARY.md` now records the reviewed Part 003 source-sensitive forms and the explicit **Brahmin** social vocabulary.
-
-No Part 003 page has been promoted to `release-ready` yet.
+Part 003 scan 62 ends after Kural **145**. This is explicitly treated as only the supplied beginning of chapter 15; the project does not imply that the chapter is complete.
 
 ## Next exact activity
 
-Run the separate **Part 003 English release gate**.
+Do **not** begin speculative Part 004 English work.
 
-Verify all 21 `editorial-reviewed` page records, metadata, chapter-heading and glossary alignment, repeated-Kural consistency, and all binding source-fidelity decisions. Create `reviews/PART_003_RELEASE_REPORT.md`. Promote pages to `release-ready` only if the release gate passes.
-
-Do not begin Part 004 English work in the same activity.
+Future work resumes with **new Tamil source intake from overall scan 63 only when a newly supplied scan itself confirms continuity after scan 62 / printed page 29 / Kural 145**. New Tamil material must complete transcription → direct visual verification → Tamil audit before the corresponding English translation begins.
 
 Permanent cadence:
 
