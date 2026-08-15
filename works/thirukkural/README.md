@@ -40,25 +40,36 @@ Permanent cadence:
 - Part 003: **21/21 `release-ready`**, through Kural 145;
 - Part 004: **22/22 `release-ready`**, through Kural 255.
 
-### Part 004 English — RELEASE COMPLETE
-
-All **22/22** English records for scans **63–84 / printed pages 30–51 / Kural 146–255** have passed the release gate.
-
-Release artefacts:
+Part 004 review/release artefacts:
 
 - [`translations/en/reviews/PART_004_REVIEW.md`](translations/en/reviews/PART_004_REVIEW.md)
 - [`translations/en/reviews/PART_004_RELEASE_REPORT.md`](translations/en/reviews/PART_004_RELEASE_REPORT.md)
 
-The release preserves the controlled Part 004 headings and all source-sensitive Kalaignar readings. Structural `துறவறவியல்` remains **Renunciant Life**. The four documented main-body/index-local distinctions remain intentional: **Not Speaking Ill Behind Another's Back**, **Fear of Evil Deeds**, **Understanding Helpfulness**, and **Abstaining from Flesh** are the controlled main-body forms; the already released index-local wording remains unchanged.
+### Part 005 English — FIRST PASS IN PROGRESS
 
-### Part 005 English
+Seven English `draft` records now exist for scans **85–91 / printed pages 52–58 / Kural 256–290**.
 
-Tamil Part 005 is archival-ready, but its English translation has not started.
+Coverage completed in first pass:
+
+- scan 85 — completion of chapter 26 **Abstaining from Flesh**, Kural 256–260;
+- scans 86–87 — chapter 27 **Ascetic Practice**, Kural 261–270;
+- scans 88–89 — chapter 28 **Improper Conduct**, Kural 271–280;
+- scans 90–91 — chapter 29 **Not Stealing**, Kural 281–290.
+
+Current Part 005 English counts:
+
+- `draft`: **7**;
+- `source-checked`: **0**;
+- `editorial-reviewed`: **0**;
+- `release-ready`: **0**;
+- uncreated: **15** — scans 92–106.
+
+The new drafts preserve Kalaignar's source-specific images and interpretations, including flesh as another living being's wound, the thousand-sacrifice comparison, endurance/non-harm in `தவம்`, the five elements laughing at false conduct, the cow in a tiger's skin, hunter, kunrimani and yaazh images, and Kural 290 commentary's explicit **world of fame** reading.
 
 ## அடுத்த செயல்
 
-Begin **Part 005 English first-pass translation for scans 85–91 / printed pages 52–58 / Kural 256–290**.
+Continue **Part 005 English first-pass translation for scans 92–98 / printed pages 59–65 / Kural 291–325**.
 
-Create seven mirrored English page records as `draft`, continuing chapter 26 **Abstaining from Flesh** and then covering chapter 27 **Ascetic Practice**, chapter 28 **Improper Conduct**, and chapter 29 **Not Stealing**. Keep Kural and Kalaignar commentary as separate translation layers and retain Kalaignar's source-specific language and interpretation.
+Working chapter forms from this project's released index layer are **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, and the beginning of **Non-killing**.
 
-Do not perform Part 005 source-check or editorial review in the same activity.
+Create only `draft` records. Do not source-check or editorial-review Part 005 yet, and do not translate scan 99 onward in the same activity.
