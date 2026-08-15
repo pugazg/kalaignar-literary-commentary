@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Understanding Helpfulness"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -28,7 +28,7 @@ it is hard to find anything as good as helpfulness.**
 
 It is difficult to find a quality better than *oppuravu*—the quality of helping others—either in today's world or in the new world yet to come.
 
-**214. One who understands what is fitting and makes life helpful to others truly lives;  
+**214. One who knows what is fitting truly lives;  
 the other is counted among the dead.**
 
 Only the person who understands *oppuravu* and shapes his life so that it helps others is regarded as truly living; one who lives otherwise is as good as dead.
