@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–005 **ARCHIVAL-READY** |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–004 **released**; Part 005 source-check **7/22** |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–004 **released**; Part 005 source-check **14/22** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -45,14 +45,14 @@ All **22/22** Part 005 English records exist for scans **85–106 / printed page
 
 Current state:
 
-- `source-checked`: **7** — scans 85–91 / Kural 256–290;
-- `draft`: **15** — scans 92–106 / Kural 291–365;
+- `source-checked`: **14** — scans 85–98 / Kural 256–325;
+- `draft`: **8** — scans 99–106 / Kural 326–365;
 - `editorial-reviewed`: **0**;
 - `release-ready`: **0**.
 
-The first source-check batch preserves the source-specific flesh, ascetic-practice, false-conduct and stealing imagery. It also separates Kural 290's compressed verse `புத்தே ளுலகு` as **the higher world** from Kalaignar's commentary-specific **life in the world of fame** reading.
+The second source-check batch completed **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, and the supplied first half of **Non-killing**. Kural 319 continues to keep the morning/afternoon image in the verse while Kalaignar's commentary separately makes the returning harm immediate. Kural 296 was refined to remove first-pass grammatical drift while preserving its aram wording.
 
-The next English activity is the dedicated Part 005 source-check for scans **92–98 / Kural 291–325**. Editorial review remains later.
+The next English activity is the final Part 005 source-check for scans **99–106 / Kural 326–365**. Editorial review remains a later, separate stage.
 
 For further Tamil archival work, the next source must continue after overall scan **106** / printed page **73** / Kural **365**.
 
