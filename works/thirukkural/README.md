@@ -10,7 +10,7 @@
 | 002 | `திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf` | 21 | 21–41 | audited / **ARCHIVAL-READY** |
 | 003 | `திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf` | 21 | 42–62 | audited / **ARCHIVAL-READY** |
 | 004 | `திருக்குறள்_கலைஞர்_உரை_part_004_pages_63-84.pdf` | 22 | 63–84 | audited / **ARCHIVAL-READY** |
-| 005 | `திருக்குறள்_கலைஞர்_உரை_part_005_pages_85-106.pdf` | 22 | 85–106 | first-pass transcription **7/22 complete**; verification pending |
+| 005 | `திருக்குறள்_கலைஞர்_உரை_part_005_pages_85-106.pdf` | 22 | 85–106 | first-pass transcription **14/22 complete**; verification pending |
 
 The supplied scans confirm direct continuity:
 
@@ -26,9 +26,9 @@ The supplied physical source therefore reaches overall scan **106** / printed pa
 - Part 002: **21/21 verified; ARCHIVAL-READY**.
 - Part 003: **21/21 verified; ARCHIVAL-READY**.
 - Part 004: **22/22 verified and audited; ARCHIVAL-READY** — scans 63–84 / printed pages 30–51 / Kural 146–255.
-- Part 005: **7/22 first-pass records created** — scans 85–91 / printed pages 52–58 / Kural 256–290.
-  - `needs-review`: **7** — scans 85–91.
-  - uncreated: **15** — scans 92–106.
+- Part 005: **14/22 first-pass records created** — scans 85–98 / printed pages 52–65 / Kural 256–325.
+  - `needs-review`: **14** — scans 85–98.
+  - uncreated: **8** — scans 99–106.
   - direct visual verification: **not started**.
 
 ### Part 004 — archival release
@@ -66,14 +66,18 @@ and
 
 The audit reconfirmed the four scan-supported corrections from the first verification batch, including `அறன்வரையா னல்ல`, `செயலைவிடத்`, `நிலம் போலத்`, and `தன்மீது`. No unresolved Part 004 character uncertainty remains.
 
-### Part 005 — first-pass batch 1 complete
+### Part 005 — first-pass batches 1–2 complete
 
-The first seven Part 005 source pages have now been transcribed as one-to-one Markdown records:
+The first fourteen Part 005 source pages have now been transcribed as one-to-one Markdown records:
 
 - scan 85 / printed page 52 — completion of `26. புலால் மறுத்தல்`, Kural 256–260;
 - scans 86–87 / printed pages 53–54 — `27. தவம்`, Kural 261–270;
 - scans 88–89 / printed pages 55–56 — `28. கூடா ஒழுக்கம்`, Kural 271–280;
-- scans 90–91 / printed pages 57–58 — `29. கள்ளாமை`, Kural 281–290.
+- scans 90–91 / printed pages 57–58 — `29. கள்ளாமை`, Kural 281–290;
+- scans 92–93 / printed pages 59–60 — `30. வாய்மை`, Kural 291–300;
+- scans 94–95 / printed pages 61–62 — `31. வெகுளாமை`, Kural 301–310;
+- scans 96–97 / printed pages 63–64 — `32. இன்னா செய்யாமை`, Kural 311–320;
+- scan 98 / printed page 65 — beginning of `33. கொல்லாமை`, Kural 321–325.
 
 Every Part 005 record created so far remains:
 
@@ -118,15 +122,16 @@ Part 004 English is eligible because its Tamil archive is archival-ready, but th
 
 ## அடுத்த செயல்
 
-Continue **Part 005 Tamil first-pass transcription** with overall scans **92–98** / Part 005 local pages **8–14** / printed pages **59–65** / Kural **291–325**.
+Finish **Part 005 Tamil first-pass transcription** with overall scans **99–106** / Part 005 local pages **15–22** / printed pages **66–73** / Kural **326–365**.
 
 The actual supplied source pages confirm this mapping:
 
-- scans 92–93 / printed pages 59–60 — `30. வாய்மை`, Kural 291–300;
-- scans 94–95 / printed pages 61–62 — `31. வெகுளாமை`, Kural 301–310;
-- scans 96–97 / printed pages 63–64 — `32. இன்னா செய்யாமை`, Kural 311–320;
-- scan 98 / printed page 65 — beginning of `33. கொல்லாமை`, Kural 321–325.
+- scan 99 / printed page 66 — completion of `33. கொல்லாமை`, Kural 326–330;
+- scans 100–101 / printed pages 67–68 — `34. நிலையாமை`, Kural 331–340;
+- scans 102–103 / printed pages 69–70 — `35. துறவு`, Kural 341–350;
+- scans 104–105 / printed pages 71–72 — `36. மெய்யுணர்தல்`, Kural 351–360;
+- scan 106 / printed page 73 — beginning of `37. அவா அறுத்தல்`, Kural 361–365.
 
 Create exactly one Markdown record per scan, preserve the actual scanned Tamil and Kalaignar commentary, and keep every new record at `status: "needs-review"` with `transcription_method: "manual transcription from source scan; direct visual verification pending"`.
 
-After scans 92–98 are created, synchronize status documentation and stop. **Do not begin Part 005 direct visual verification, do not transcribe scans 99 onward, and do not begin Part 004 English translation in the same activity.**
+After scans 99–106 are created, Part 005 first-pass transcription will be **22/22 complete**. Synchronize status documentation and stop. **Do not begin Part 005 direct visual verification and do not begin Part 004 English translation in the same activity.**
