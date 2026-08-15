@@ -47,29 +47,33 @@ Part 004 review/release artefacts:
 
 ### Part 005 English — FIRST PASS IN PROGRESS
 
-Seven English `draft` records now exist for scans **85–91 / printed pages 52–58 / Kural 256–290**.
+Fourteen English `draft` records now exist for scans **85–98 / printed pages 52–65 / Kural 256–325**.
 
 Coverage completed in first pass:
 
-- scan 85 — completion of chapter 26 **Abstaining from Flesh**, Kural 256–260;
-- scans 86–87 — chapter 27 **Ascetic Practice**, Kural 261–270;
-- scans 88–89 — chapter 28 **Improper Conduct**, Kural 271–280;
-- scans 90–91 — chapter 29 **Not Stealing**, Kural 281–290.
+- chapter 26 **Abstaining from Flesh** — Kural 256–260;
+- chapter 27 **Ascetic Practice** — 261–270;
+- chapter 28 **Improper Conduct** — 271–280;
+- chapter 29 **Not Stealing** — 281–290;
+- chapter 30 **Truthfulness** — 291–300;
+- chapter 31 **Freedom from Anger** — 301–310;
+- chapter 32 **Not Causing Pain** — 311–320;
+- chapter 33 **Non-killing** — 321–325 supplied so far in English.
 
 Current Part 005 English counts:
 
-- `draft`: **7**;
+- `draft`: **14**;
 - `source-checked`: **0**;
 - `editorial-reviewed`: **0**;
 - `release-ready`: **0**;
-- uncreated: **15** — scans 92–106.
+- uncreated: **8** — scans 99–106.
 
-The new drafts preserve Kalaignar's source-specific images and interpretations, including flesh as another living being's wound, the thousand-sacrifice comparison, endurance/non-harm in `தவம்`, the five elements laughing at false conduct, the cow in a tiger's skin, hunter, kunrimani and yaazh images, and Kural 290 commentary's explicit **world of fame** reading.
+The drafts continue to preserve Kalaignar's source-specific argument and imagery, including truthfulness as harmless speech, faultless good permitting even falsehood to stand as truth, the conscience that punishes lying, the inner lamp of truthfulness, anger as a destructive fire, the hand striking the ground, doing good to shame a wrongdoer, the morning/afternoon consequence image, and Kural 322's equalizing principle of sharing so that all living beings may live.
 
 ## அடுத்த செயல்
 
-Continue **Part 005 English first-pass translation for scans 92–98 / printed pages 59–65 / Kural 291–325**.
+Complete the **Part 005 English first-pass translation for scans 99–106 / printed pages 66–73 / Kural 326–365**.
 
-Working chapter forms from this project's released index layer are **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, and the beginning of **Non-killing**.
+This final first-pass batch completes **Non-killing**, then covers **Impermanence**, **Renunciation**, **Realizing Truth**, and the supplied beginning of **Eradication of Desire**.
 
-Create only `draft` records. Do not source-check or editorial-review Part 005 yet, and do not translate scan 99 onward in the same activity.
+Create only `draft` records. Do not source-check or editorial-review Part 005 in the same activity.
