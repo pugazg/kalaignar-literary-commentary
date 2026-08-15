@@ -21,7 +21,7 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 | Part 002 | 21–41 | archival-ready | **RELEASE-READY — 21/21** |
 | Part 003 | 42–62 | archival-ready | **RELEASE-READY — 21/21** |
 | Part 004 | 63–84 | archival-ready | **RELEASE-READY — 22/22** |
-| Part 005 | 85–106 | archival-ready | **EDITORIAL REVIEW COMPLETE — 22/22** |
+| Part 005 | 85–106 | archival-ready | **RELEASE-READY — 22/22** |
 
 ## Current English counts
 
@@ -40,72 +40,38 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 
 ### Part 005
 - English page files: **22 / 22** — scans 85–106 / Kural 256–365
-- `editorial-reviewed`: **22 / 22**
+- `release-ready`: **22 / 22**
+- `editorial-reviewed`: **0**
 - `source-checked`: **0**
 - `draft`: **0**
-- `release-ready`: **0**
 - `source-limited`: **0**
 - `blocked`: **0**
 
-# Part 004 English release — COMPLETE
+# Parts 001–005 English release — COMPLETE FOR ALL SUPPLIED MATERIAL
 
-All **22/22** Part 004 English records have passed the release gate. Release artefacts:
+The project-created English translation has completed its release workflow for every currently supplied Tamil source part.
+
+Release artefacts for the two latest parts:
 
 - [`reviews/PART_004_REVIEW.md`](reviews/PART_004_REVIEW.md)
 - [`reviews/PART_004_RELEASE_REPORT.md`](reviews/PART_004_RELEASE_REPORT.md)
-
-Part 004 remains release-controlled through Kural 255, including **Abstaining from Flesh** and structural **Renunciant Life**.
-
-# Part 005 English editorial review — COMPLETE
-
-All **22/22** Part 005 English records covering scans **85–106 / printed pages 52–73 / Kural 256–365** have completed source-check and editorial-consistency / glossary reconciliation and are now `editorial-reviewed`.
-
-Review artefact:
-
 - [`reviews/PART_005_REVIEW.md`](reviews/PART_005_REVIEW.md)
+- [`reviews/PART_005_RELEASE_REPORT.md`](reviews/PART_005_RELEASE_REPORT.md)
 
-Controlled Part 005 main-body chapter headings are now:
+Part 005 release covers scans **85–106 / printed pages 52–73 / Kural 256–365**. Chapter 26 continues **Abstaining from Flesh**, followed by the controlled main-body chapters **Ascetic Practice**, **Improper Conduct**, **Not Stealing**, **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, **Non-killing**, **Impermanence**, **Renunciation**, **Realizing Truth**, and the supplied beginning of **Eradication of Desire**. The structural section remains **Renunciant Life**.
 
-- **Ascetic Practice**;
-- **Improper Conduct**;
-- **Not Stealing**;
-- **Truthfulness**;
-- **Freedom from Anger**;
-- **Not Causing Pain**;
-- **Non-killing**;
-- **Impermanence**;
-- **Renunciation**;
-- **Realizing Truth**;
-- **Eradication of Desire**.
+The release preserves the Part 005 glossary and source-sensitive decisions, including:
 
-These chapter 27–37 forms match the released Part 002 index-local forms, but Part 005 main-body review independently confirms them. Chapter 26 continues the already controlled **Abstaining from Flesh**, and the structural section remains **Renunciant Life**.
-
-Recurring terminology is now glossary-controlled through the supplied Kural 365, including contextual treatment of **Aram**, ascetic practice/discipline, compassion versus love, truthfulness versus freedom from falsehood, pain/suffering/harm, non-killing, attachment, renunciation, true reality, birth/another birth and desire.
-
-Protected source-sensitive layer separations remain intact:
-
-- **Kural 290** — verse `புத்தே ளுலகு` remains **the higher world**; Kalaignar's commentary separately remains **life in the world of fame**;
-- **Kural 319** — verse retains the **morning / afternoon** image; commentary separately makes the returning harm effectively immediate;
-- **Kural 329 commentary** — verified `பகுத்தறிவு இழந்து செயல்படும்` remains **act after losing rational discernment**;
-- **Kural 346** — verse retains a world higher than the heavenly dwellers; commentary separately gives **worldly fame surpassing even fame reaching the skies**;
-- **Kurals 356–365** — Kalaignar's renunciant-life, another-birth and desire readings remain source-controlled commentary rather than conventional substitutions.
-
-The editorial review made only small readability refinements. It did not change source-supported interpretation. Full details are recorded in `reviews/PART_005_REVIEW.md`.
+- Kural **290** — verse `புத்தே ளுலகு` remains **the higher world**, while Kalaignar's commentary separately remains **life in the world of fame**;
+- Kural **319** — the Kural retains the **morning / afternoon** image while the commentary separately makes the returning harm effectively immediate;
+- Kural **329 commentary** — verified `பகுத்தறிவு இழந்து செயல்படும்` remains **act after losing rational discernment**;
+- Kural **346** — the verse retains a world higher than the heavenly dwellers while Kalaignar's commentary separately gives **worldly fame surpassing even fame reaching the skies**;
+- Kurals **356–365** — Kalaignar's renunciant-life, another-birth and desire readings remain commentary-specific and are not replaced by conventional doctrinal interpretations.
 
 ## Next exact activity
 
-Perform the separate **Part 005 English release gate**.
+No further Thirukkural Tamil or English page work can proceed from the currently supplied material because the source ends at overall scan **106** / printed page **73** / Kural **365**.
 
-Required scope:
-
-- verify all **22** `editorial-reviewed` records for scans **85–106 / Kural 256–365**;
-- verify one-to-one source alignment, printed-page metadata, Kural numbering, chapter/section headings, glossary decisions, two-line verse structure and commentary separation;
-- re-check the protected source-sensitive decisions documented in `PART_005_REVIEW.md`;
-- create `reviews/PART_005_RELEASE_REPORT.md`;
-- promote pages to `release-ready` only if the gate passes.
-
-Do **not** invent or translate Kural 366 onward without newly supplied source material.
-
-Permanent cadence:
+The next Thirukkural activity requires a newly supplied source continuing with **Kural 366 onward**. Once that source is supplied, resume the permanent cadence:
 
 **Tamil transcription → Tamil verification → Tamil audit → English draft → English source check → editorial review → translation release report.**
