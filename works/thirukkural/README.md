@@ -33,39 +33,32 @@ Permanent cadence:
 
 **Tamil transcription → visual verification → Tamil audit → English draft → source-check → editorial review → English release report.**
 
-### Parts 001–003 English — RELEASE COMPLETE
+### Parts 001–004 English — RELEASE COMPLETE
 
 - Part 001: 19 `release-ready` + scan 8 `source-limited`;
 - Part 002: **21/21 `release-ready`**;
-- Part 003: **21/21 `release-ready`**, through Kural 145.
+- Part 003: **21/21 `release-ready`**, through Kural 145;
+- Part 004: **22/22 `release-ready`**, through Kural 255.
 
-### Part 004 English — EDITORIAL REVIEW COMPLETE
+### Part 004 English — RELEASE COMPLETE
 
-All **22/22** English records for scans **63–84 / printed pages 30–51 / Kural 146–255** are now `editorial-reviewed`.
+All **22/22** English records for scans **63–84 / printed pages 30–51 / Kural 146–255** have passed the release gate.
 
-Current state:
-
-- `editorial-reviewed`: **22**;
-- `source-checked`: **0**;
-- `draft`: **0**;
-- `release-ready`: **0**.
-
-Review artefact:
+Release artefacts:
 
 - [`translations/en/reviews/PART_004_REVIEW.md`](translations/en/reviews/PART_004_REVIEW.md)
+- [`translations/en/reviews/PART_004_RELEASE_REPORT.md`](translations/en/reviews/PART_004_RELEASE_REPORT.md)
 
-The review reconciled Part 004 main-body chapter headings 16–26 against this project's own glossary and the edition's released Part 002 index/glossary layer. It also controls `துறவறவியல்` as **Renunciant Life**.
+The release preserves the controlled Part 004 headings and all source-sensitive Kalaignar readings. Structural `துறவறவியல்` remains **Renunciant Life**. The four documented main-body/index-local distinctions remain intentional: **Not Speaking Ill Behind Another's Back**, **Fear of Evil Deeds**, **Understanding Helpfulness**, and **Abstaining from Flesh** are the controlled main-body forms; the already released index-local wording remains unchanged.
 
-Four main-body headings deliberately refine the earlier index-local forms: `புறங்கூறாமை` → **Not Speaking Ill Behind Another's Back**; `தீவினையச்சம்` → **Fear of Evil Deeds**; `ஒப்புரவறிதல்` → **Understanding Helpfulness**; and `புலால் மறுத்தல்` → **Abstaining from Flesh**. The released index files themselves remain unchanged.
+### Part 005 English
 
-All source-sensitive Kalaignar readings established during source-check remain intact, including explicit **another man's wife** wording, Lakshmi / Moodevi, **aram surrounding the plotter**, *oppuravu* / new-world readings, the higher-world qualification in Giving, **fame as the life of the human body**, and the compassion / flesh-eating argument through Kural 255.
-
-`translations/en/GLOSSARY.md` now records the Part 004 controlled main-body extension through Kural 255.
+Tamil Part 005 is archival-ready, but its English translation has not started.
 
 ## அடுத்த செயல்
 
-Perform the separate **Part 004 English release gate**.
+Begin **Part 005 English first-pass translation for scans 85–91 / printed pages 52–58 / Kural 256–290**.
 
-Verify all 22 `editorial-reviewed` records, metadata, `PART_004_REVIEW.md`, glossary alignment and source-fidelity constraints; create `translations/en/reviews/PART_004_RELEASE_REPORT.md`; and promote pages to `release-ready` only if the gate passes.
+Create seven mirrored English page records as `draft`, continuing chapter 26 **Abstaining from Flesh** and then covering chapter 27 **Ascetic Practice**, chapter 28 **Improper Conduct**, and chapter 29 **Not Stealing**. Keep Kural and Kalaignar commentary as separate translation layers and retain Kalaignar's source-specific language and interpretation.
 
-Do not begin Part 005 English translation in the same release-gate activity.
+Do not perform Part 005 source-check or editorial review in the same activity.
