@@ -34,88 +34,67 @@ Released:
 - Part 002 — 21/21 `release-ready`;
 - Part 003 — 21/21 `release-ready`, through Kural 145.
 
-## Part 004 English — FIRST PASS COMPLETE
+## Part 004 English — SOURCE-CHECK IN PROGRESS
 
-Tamil Part 004 is archival-ready. English first-pass translation is now complete for all scans **63–84** / printed pages **30–51** / Kural **146–255**.
+All **22/22** first-pass English records exist for scans **63–84 / printed pages 30–51 / Kural 146–255**.
 
 Current Part 004 English counts:
 
-- English page files: **22 / 22**;
-- `draft`: **22**;
-- `source-checked`: **0**;
+- `source-checked`: **7** — scans 63–69 / printed pages 30–36 / Kural 146–180;
+- `draft`: **15** — scans 70–84 / printed pages 37–51 / Kural 181–255;
 - `editorial-reviewed`: **0**;
-- `release-ready`: **0**;
-- uncreated: **0**.
+- `release-ready`: **0**.
 
-First-pass chapter coverage:
+### Source-check batch 1 completed
 
-- scan 63 — completion of `15. பிறனில் விழையாமை` / **Not Desiring Another Man's Wife**, Kural 146–150;
-- scans 64–65 — `16. பொறையுடைமை` / **Forbearance**, Kural 151–160;
-- scans 66–67 — `17. அழுக்காறாமை` / **Freedom from Envy**, Kural 161–170;
-- scans 68–69 — `18. வெஃகாமை` / **Not Coveting**, Kural 171–180;
-- scans 70–71 — `19. புறங்கூறாமை` / **Not Speaking Ill Behind Another's Back**, Kural 181–190;
-- scans 72–73 — `20. பயனில சொல்லாமை` / **Not Speaking Useless Words**, Kural 191–200;
-- scans 74–75 — `21. தீவினையச்சம்` / **Fear of Evil Deeds**, Kural 201–210;
-- scans 76–77 — `22. ஒப்புரவறிதல்` / **Understanding Helpfulness**, Kural 211–220;
-- scans 78–79 — `23. ஈகை` / **Giving**, Kural 221–230;
-- scans 80–81 — `24. புகழ்` / **Fame**, Kural 231–240;
-- scans 82–83 — `25. அருளுடைமை` / **Possession of Compassion**, Kural 241–250;
-- scan 84 — supplied beginning of `26. புலால் மறுத்தல்` / **Abstaining from Flesh**, Kural 251–255.
+Checked files:
 
-All Part 004 titles introduced after chapter 15 remain **working project headings** until the later editorial/glossary-reconciliation review. Do not silently replace them with a standard English Thirukkural title list.
+- `0063-aram-piranil-vizhaiyaamai-02.md` — Kural 146–150;
+- `0064-aram-poraiyudaimai-01.md` — Kural 151–155;
+- `0065-aram-poraiyudaimai-02.md` — Kural 156–160;
+- `0066-aram-azhukkaaraamai-01.md` — Kural 161–165;
+- `0067-aram-azhukkaaraamai-02.md` — Kural 166–170;
+- `0068-aram-vehkaamai-01.md` — Kural 171–175;
+- `0069-aram-vehkaamai-02.md` — Kural 176–180.
 
-Source-sensitive first-pass decisions to preserve include:
+All seven now use `status: "source-checked"`.
+
+Source-sensitive decisions retained:
 
 - explicit **another man's wife** wording through Kural 150;
 - earth-bearing-those-who-dig image in Kural 151;
-- Kalaignar's “let us forget, let us forgive” wording in Kural 156 commentary;
+- Kalaignar's **“let us forget, let us forgive”** wording in Kural 156 commentary;
 - explicit Lakshmi / Moodevi explanation in Kural 167 commentary;
-- immediate versus lasting benefit in Kural 173 commentary;
-- Kural 183 commentary's preference for death over living falsely by backbiting;
-- Kural 189 commentary's earth-bearing-the-backbiter image;
-- Kural 196 commentary's **chaff** comparison;
-- Kural 204 commentary's **aram surrounding the plotter**;
-- Kural 207's evil-deed-as-pursuing-enemy image and Kural 208's shadow image;
-- Kural 213's Kalaignar-specific **today's world / new world yet to come** reading;
-- Kural 215's village water-tank image;
-- Kural 216's fruit tree in the middle of the town;
-- Kural 217's medicinal-tree image;
-- Kural 220's loss from helpfulness being worth buying even by selling oneself;
-- Kural 222 commentary's statement that giving does not necessarily secure the so-called higher world;
-- Kural 226 commentary's treasury image for feeding the starving;
-- Kural 234 commentary's **new world that is to come** interpretation;
-- Kural 239 commentary's **fame as the life of the human body** image;
-- Kural 241 commentary's wealth of compassion versus material wealth;
-- Kural 245 commentary's world-and-wind analogy;
-- Kural 251–255 commentary's compassion/flesh-eating argument, including Kural 255's pit-of-filth image.
+- Kalaignar's immediate-versus-lasting-benefit explanation in Kural 173 commentary.
 
-Every Part 004 English page uses:
+One fidelity correction was made during source-check:
 
-`translation_type: "project_translation"`
+- scan 63 / Kural 149 verse — first pass shifted the grammatical action onto the subject's own shoulders (`whose shoulders do not touch ...`). The source instead has the subject not touching the other woman's shoulders. It now reads **“Those who do not touch the shoulders of the woman who belongs to another.”**
 
-`status: "draft"`
-
-`source_tamil_status: "verified"`
-
-`translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"`
-
-No Part 004 source-check has begun.
+Working Part 004 chapter headings remain provisional until the later editorial/glossary-reconciliation review.
 
 # Exact next activity
 
-Begin the dedicated **Part 004 English source-check** for scans **63–69** / printed pages **30–36** / Kural **146–180**.
+Continue the dedicated **Part 004 English source-check** for scans **70–76** / printed pages **37–43** / Kural **181–215**.
+
+Mapping:
+
+- scans 70–71 — `19. புறங்கூறாமை`, Kural 181–190;
+- scans 72–73 — `20. பயனில சொல்லாமை`, Kural 191–200;
+- scans 74–75 — `21. தீவினையச்சம்`, Kural 201–210;
+- scan 76 — beginning of `22. ஒப்புரவறிதல்`, Kural 211–215.
 
 For each record:
 
-1. compare the English Kural directly against the corresponding verified Tamil Kural without importing an external published translation;
-2. compare Kalaignar's English commentary directly against his verified Tamil commentary;
-3. keep the Kural and commentary distinct and do not move explanatory content from one into the other;
-4. preserve Kalaignar's social/gender specificity, imagery, emphases and interpretive direction;
+1. compare the English Kural directly against the corresponding verified Tamil Kural;
+2. compare Kalaignar's English commentary directly against the verified Tamil commentary;
+3. keep verse and commentary distinct;
+4. preserve Kalaignar's imagery, emphases, social framing and interpretive direction;
 5. correct only source-supported fidelity issues;
-6. keep working chapter headings provisional for the later editorial/glossary review;
-7. when fully checked, set `status: "source-checked"`;
-8. preserve source metadata and one-to-one scan correspondence.
+6. do not import an external published translation or standard chapter-title list;
+7. if fully checked, set `status: "source-checked"`;
+8. preserve one-to-one scan/page metadata.
 
-After scans 63–69 are source-checked, synchronize `TRANSLATION_STATUS.md`, the English README, work/root READMEs and this handover, then stop.
+After scans 70–76 are source-checked, synchronize `TRANSLATION_STATUS.md`, the English README, work/root READMEs and this handover, then stop.
 
-**Do not begin scans 70 onward source-check, do not begin Part 004 editorial review, and do not begin Part 005 English translation in the same activity.**
+**Do not begin scans 77 onward source-check, do not begin Part 004 editorial review, and do not begin Part 005 English translation in the same activity.**
