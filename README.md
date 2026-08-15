@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–005 **ARCHIVAL-READY** |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–004 **released**; Part 005 first pass **14/22 drafts** |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–004 **released**; Part 005 first pass **22/22 drafts** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -39,11 +39,13 @@ Tamil Parts 001–005 are archival-ready for all currently supplied source mater
 
 Part 004 release is documented in [`works/thirukkural/translations/en/reviews/PART_004_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_004_RELEASE_REPORT.md).
 
-### English Part 005 — FIRST PASS IN PROGRESS
+### English Part 005 — FIRST PASS COMPLETE
 
-Fourteen `draft` pages now cover scans **85–98 / printed pages 52–65 / Kural 256–325**. The first pass currently reaches the beginning of **Non-killing** after **Abstaining from Flesh**, **Ascetic Practice**, **Improper Conduct**, **Not Stealing**, **Truthfulness**, **Freedom from Anger**, and **Not Causing Pain**.
+All **22/22** Part 005 English page records now exist as `draft`, covering scans **85–106 / printed pages 52–73 / Kural 256–365**.
 
-No Part 005 source-check or editorial review has begun. The remaining first-pass pages are scans **99–106 / printed pages 66–73 / Kural 326–365**, completing **Non-killing** and then covering **Impermanence**, **Renunciation**, **Realizing Truth**, and the supplied beginning of **Eradication of Desire**.
+The first pass covers completion of **Abstaining from Flesh**, followed by **Ascetic Practice**, **Improper Conduct**, **Not Stealing**, **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, **Non-killing**, **Impermanence**, **Renunciation**, **Realizing Truth**, and the supplied beginning of **Eradication of Desire**.
+
+No Part 005 source-check or editorial review has begun. The next English activity is the dedicated source-check for scans **85–91 / Kural 256–290**.
 
 For further Tamil archival work, the next source must continue after overall scan **106** / printed page **73** / Kural **365**.
 
