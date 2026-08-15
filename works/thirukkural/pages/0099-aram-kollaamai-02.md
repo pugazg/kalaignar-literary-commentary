@@ -6,10 +6,10 @@ printed_page: "66"
 work: "thirukkural"
 section: "அறம் — துறவறவியல் — கொல்லாமை"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_005_pages_85-106.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **326. கொல்லாமை மேற்கொண் டொழுகுவான் வாழ்நாள்மேல்  
@@ -30,7 +30,7 @@ transcription_method: "manual transcription from source scan; direct visual veri
 **329. கொலைவினைய ராகிய மாக்கள் புலைவினையர்  
 புன்மை தெரிவா ரகத்து.**
 
-பகுத்தறிவு மிகுந்த செயல்படும் கொலைகாரர்களைச் சான்றோர் உள்ளம், இழிதகைப் பிறவிகளாகவே கருதும்.
+பகுத்தறிவு இழந்து செயல்படும் கொலைகாரர்களைச் சான்றோர் உள்ளம், இழிதகைப் பிறவிகளாகவே கருதும்.
 
 **330. உயிருடம்பின் நீக்கியா ரென்ப செயிருடம்பின்  
 செல்லாத்தீ வாழ்க்கை யவர்.**
