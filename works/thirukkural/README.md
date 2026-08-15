@@ -40,25 +40,27 @@ Permanent cadence:
 - Part 003: **21/21 `release-ready`**, through Kural 145;
 - Part 004: **22/22 `release-ready`**, through Kural 255.
 
-### Part 005 English — SOURCE-CHECK COMPLETE
+### Part 005 English — EDITORIAL REVIEW COMPLETE
 
-All **22/22** English page records for scans **85–106 / printed pages 52–73 / Kural 256–365** are now `source-checked`.
+All **22/22** English page records for scans **85–106 / printed pages 52–73 / Kural 256–365** are now `editorial-reviewed`.
 
 Current Part 005 English counts:
 
-- `source-checked`: **22 / 22**;
+- `editorial-reviewed`: **22 / 22**;
+- `source-checked`: **0**;
 - `draft`: **0**;
-- `editorial-reviewed`: **0**;
 - `release-ready`: **0**.
 
-The source-check covers completion of **Abstaining from Flesh**, then **Ascetic Practice**, **Improper Conduct**, **Not Stealing**, **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, **Non-killing**, **Impermanence**, **Renunciation**, **Realizing Truth**, and the supplied beginning of **Eradication of Desire**.
+Review artefact:
 
-Important source-check decisions include keeping Kural 290's verse `புத்தே ளுலகு` as **the higher world** while Kalaignar's commentary separately retains **life in the world of fame**; keeping Kural 319's morning/afternoon image separate from its effectively immediate commentary consequence; preserving Kural 329's verified `பகுத்தறிவு இழந்து செயல்படும்`; retaining the Kural 346 heavenly-world verse separately from Kalaignar's **worldly fame surpassing even fame reaching the skies** commentary; refining Kural 337 to **`Those who do not know how to live even for a moment`**; and keeping Kural 365's compressed verse distinct from Kalaignar's explicit renunciant commentary.
+- [`translations/en/reviews/PART_005_REVIEW.md`](translations/en/reviews/PART_005_REVIEW.md)
+
+The Part 005 review controls chapters 27–37 as **Ascetic Practice**, **Improper Conduct**, **Not Stealing**, **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, **Non-killing**, **Impermanence**, **Renunciation**, **Realizing Truth**, and **Eradication of Desire**. These forms agree with the already released Part 002 index-local forms after independent main-body review. Chapter 26 continues the previously controlled **Abstaining from Flesh**, and the structural section remains **Renunciant Life**.
+
+The review preserves Kalaignar-specific readings and the source-check layer separations, including Kural 290's **higher world** verse versus **life in the world of fame** commentary, Kural 319's morning/afternoon verse, Kural 329's verified `பகுத்தறிவு இழந்து செயல்படும்`, Kural 346's heavenly-world verse versus worldly-fame commentary, and the source-specific renunciation / another-birth / desire readings through Kural 365.
 
 ## அடுத்த செயல்
 
-Begin the dedicated **Part 005 English editorial-consistency / glossary-reconciliation review across all 22 source-checked pages**.
+Perform the separate **Part 005 English release gate** across all 22 `editorial-reviewed` pages. Verify metadata, source alignment, glossary decisions, verse/commentary separation and the protected source-sensitive readings; create `translations/en/reviews/PART_005_RELEASE_REPORT.md`; promote pages to `release-ready` only if the gate passes.
 
-Review scans **85–106 / Kural 256–365**, reconcile the provisional chapter headings for chapters 27–37 and recurring terminology, check readability and verse/commentary separation, create `translations/en/reviews/PART_005_REVIEW.md`, and promote only qualifying pages to `editorial-reviewed`.
-
-Do not perform the Part 005 release gate in the same activity.
+Do not translate Kural 366 onward without newly supplied source material.
