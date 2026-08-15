@@ -34,20 +34,20 @@ Released:
 - Part 002 — 21/21 `release-ready`;
 - Part 003 — 21/21 `release-ready`, through Kural 145.
 
-## Part 004 English — FIRST PASS IN PROGRESS
+## Part 004 English — FIRST PASS COMPLETE
 
-Tamil Part 004 is archival-ready. English first-pass translation has now been created for scans **63–76** / printed pages **30–43** / Kural **146–215**.
+Tamil Part 004 is archival-ready. English first-pass translation is now complete for all scans **63–84** / printed pages **30–51** / Kural **146–255**.
 
 Current Part 004 English counts:
 
-- English page files: **14 / 22**;
-- `draft`: **14**;
+- English page files: **22 / 22**;
+- `draft`: **22**;
 - `source-checked`: **0**;
 - `editorial-reviewed`: **0**;
 - `release-ready`: **0**;
-- uncreated: **8** — scans 77–84.
+- uncreated: **0**.
 
-Current first-pass chapter coverage:
+First-pass chapter coverage:
 
 - scan 63 — completion of `15. பிறனில் விழையாமை` / **Not Desiring Another Man's Wife**, Kural 146–150;
 - scans 64–65 — `16. பொறையுடைமை` / **Forbearance**, Kural 151–160;
@@ -56,13 +56,17 @@ Current first-pass chapter coverage:
 - scans 70–71 — `19. புறங்கூறாமை` / **Not Speaking Ill Behind Another's Back**, Kural 181–190;
 - scans 72–73 — `20. பயனில சொல்லாமை` / **Not Speaking Useless Words**, Kural 191–200;
 - scans 74–75 — `21. தீவினையச்சம்` / **Fear of Evil Deeds**, Kural 201–210;
-- scan 76 — beginning of `22. ஒப்புரவறிதல்` / **Understanding Helpfulness**, Kural 211–215.
+- scans 76–77 — `22. ஒப்புரவறிதல்` / **Understanding Helpfulness**, Kural 211–220;
+- scans 78–79 — `23. ஈகை` / **Giving**, Kural 221–230;
+- scans 80–81 — `24. புகழ்` / **Fame**, Kural 231–240;
+- scans 82–83 — `25. அருளுடைமை` / **Possession of Compassion**, Kural 241–250;
+- scan 84 — supplied beginning of `26. புலால் மறுத்தல்` / **Abstaining from Flesh**, Kural 251–255.
 
 All Part 004 titles introduced after chapter 15 remain **working project headings** until the later editorial/glossary-reconciliation review. Do not silently replace them with a standard English Thirukkural title list.
 
 Source-sensitive first-pass decisions to preserve include:
 
-- another man's wife wording through Kural 150;
+- explicit **another man's wife** wording through Kural 150;
 - earth-bearing-those-who-dig image in Kural 151;
 - Kalaignar's “let us forget, let us forgive” wording in Kural 156 commentary;
 - explicit Lakshmi / Moodevi explanation in Kural 167 commentary;
@@ -72,10 +76,18 @@ Source-sensitive first-pass decisions to preserve include:
 - Kural 196 commentary's **chaff** comparison;
 - Kural 204 commentary's **aram surrounding the plotter**;
 - Kural 207's evil-deed-as-pursuing-enemy image and Kural 208's shadow image;
-- Kural 211's rain giving without expecting repayment;
 - Kural 213's Kalaignar-specific **today's world / new world yet to come** reading;
-- Kural 214's truly-living versus dead contrast;
-- Kural 215's village water tank image for wealth serving the common good.
+- Kural 215's village water-tank image;
+- Kural 216's fruit tree in the middle of the town;
+- Kural 217's medicinal-tree image;
+- Kural 220's loss from helpfulness being worth buying even by selling oneself;
+- Kural 222 commentary's statement that giving does not necessarily secure the so-called higher world;
+- Kural 226 commentary's treasury image for feeding the starving;
+- Kural 234 commentary's **new world that is to come** interpretation;
+- Kural 239 commentary's **fame as the life of the human body** image;
+- Kural 241 commentary's wealth of compassion versus material wealth;
+- Kural 245 commentary's world-and-wind analogy;
+- Kural 251–255 commentary's compassion/flesh-eating argument, including Kural 255's pit-of-filth image.
 
 Every Part 004 English page uses:
 
@@ -91,26 +103,19 @@ No Part 004 source-check has begun.
 
 # Exact next activity
 
-Finish **Part 004 English first-pass translation** for scans **77–84** / printed pages **44–51** / Kural **216–255**.
+Begin the dedicated **Part 004 English source-check** for scans **63–69** / printed pages **30–36** / Kural **146–180**.
 
-Mapping:
+For each record:
 
-- scan 77 / printed 44 — completion of `22. ஒப்புரவறிதல்`, Kural 216–220;
-- scans 78–79 / printed 45–46 — `23. ஈகை`, Kural 221–230;
-- scans 80–81 / printed 47–48 — `24. புகழ்`, Kural 231–240;
-- scans 82–83 / printed 49–50 — `25. அருளுடைமை`, Kural 241–250;
-- scan 84 / printed 51 — beginning of `26. புலால் மறுத்தல்`, Kural 251–255.
+1. compare the English Kural directly against the corresponding verified Tamil Kural without importing an external published translation;
+2. compare Kalaignar's English commentary directly against his verified Tamil commentary;
+3. keep the Kural and commentary distinct and do not move explanatory content from one into the other;
+4. preserve Kalaignar's social/gender specificity, imagery, emphases and interpretive direction;
+5. correct only source-supported fidelity issues;
+6. keep working chapter headings provisional for the later editorial/glossary review;
+7. when fully checked, set `status: "source-checked"`;
+8. preserve source metadata and one-to-one scan correspondence.
 
-For each page:
+After scans 63–69 are source-checked, synchronize `TRANSLATION_STATUS.md`, the English README, work/root READMEs and this handover, then stop.
 
-1. use the corresponding audited Tamil Markdown record as the working basis; the scan remains ultimate authority;
-2. translate Kural and Kalaignar commentary separately;
-3. retain Kalaignar's language, images, emphases and interpretive direction;
-4. do not import standard external English Kural wording;
-5. use `translation_type: "project_translation"`;
-6. keep `status: "draft"`;
-7. preserve one-to-one scan/page metadata.
-
-After scans 77–84 are drafted, Part 004 first pass will be **22/22 complete**. Synchronize English translation status/README files, root/work README files and this handover, then stop.
-
-**Do not begin Part 004 source-check or Part 005 English translation in the same activity.**
+**Do not begin scans 70 onward source-check, do not begin Part 004 editorial review, and do not begin Part 005 English translation in the same activity.**
