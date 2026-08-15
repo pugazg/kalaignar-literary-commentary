@@ -6,15 +6,15 @@ work: "thirukkural"
 section: "Aram — Renunciant Life — Abstaining from Flesh"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
 
 # 26. Abstaining from Flesh
 
-**251. How can one possess compassion  
-who feeds his own flesh by eating another being's flesh?**
+**251. How can one who feeds one's own flesh  
+by eating another being's flesh possess compassion?**
 
 How can a person who makes the body of another living being into food in order to nourish his own body be one who possesses a compassionate heart?
 
@@ -29,7 +29,7 @@ the mind of one who tastes another creature's flesh does not cherish goodness.**
 The heart of one who uses a weapon and the heart of one who tastes and eats the body of a living being are not hearts that can honour the possession of compassion.
 
 **254. If one asks what compassion is: it is not killing;  
-killing is its opposite, and eating that flesh is no right thing.**
+killing is its opposite, and eating that flesh is not right.**
 
 Not killing is the possession of compassion; killing is an act without compassion. Therefore eating flesh is not aram.
 
