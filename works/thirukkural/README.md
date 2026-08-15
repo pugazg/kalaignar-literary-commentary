@@ -39,33 +39,25 @@ Permanent cadence:
 - Part 002: **21/21 `release-ready`**;
 - Part 003: **21/21 `release-ready`**, through Kural 145.
 
-### Part 004 English — SOURCE-CHECK IN PROGRESS
+### Part 004 English — SOURCE-CHECK COMPLETE
 
-All **22/22** first-pass English records exist for scans **63–84 / printed pages 30–51 / Kural 146–255**.
+All **22/22** English records for scans **63–84 / printed pages 30–51 / Kural 146–255** are now `source-checked`.
 
 Current state:
 
-- `source-checked`: **14** — scans 63–76 / Kural 146–215;
-- `draft`: **8** — scans 77–84 / Kural 216–255;
+- `source-checked`: **22**;
+- `draft`: **0**;
 - `editorial-reviewed`: **0**;
 - `release-ready`: **0**.
 
-The completed source-check now reaches the first half of `22. ஒப்புரவறிதல்`. The second batch retained Kalaignar's source-specific imagery and interpretation, including the earth bearing the backbiter, the **chaff** comparison, **aram surrounding the plotter**, pursuing-enemy and shadow images for evil deeds, rain giving without repayment, *oppuravu* as helping others, the **today's world / new world yet to come** reading, and the village water-tank image.
+The source-check preserved Kalaignar's source-specific imagery and interpretations throughout the part, including explicit **another man's wife** wording, the earth images, **“let us forget, let us forgive,”** Lakshmi / Moodevi, the **chaff** comparison, **aram surrounding the plotter**, pursuing-enemy and shadow imagery, *oppuravu* as helping others, the **today's world / new world yet to come** readings, village water tank / fruit tree / medicinal tree imagery, the higher-world qualification in Giving, the treasury image for feeding the starving, **fame as the life of the human body**, the wealth-of-compassion and world-and-wind images, and the compassion/flesh-eating argument through Kural 255.
 
-Source-check refinements in scans 70–76 include keeping Kural 188 less interpretively expanded than its commentary, removing commentary-derived “for gain” from Kural 196, rendering Kural 210 as **hard to ruin**, and keeping Kural 214's verse separate from Kalaignar's helping-others explanation.
-
-Working chapter headings remain provisional until the later editorial/glossary review.
+The final source-check batch also restored important verse/commentary boundaries, including Kurals 216/217/219, 221/222, 226, 233, 239, 246/247 and 251/252. Working chapter headings remain provisional until the later editorial/glossary review.
 
 ## அடுத்த செயல்
 
-Complete **Part 004 English source-check** with scans **77–84 / printed pages 44–51 / Kural 216–255**:
+Perform the **Part 004 English editorial-consistency / glossary-reconciliation review** across all scans **63–84 / Kural 146–255**.
 
-- completion of `22. ஒப்புரவறிதல்`, Kural 216–220;
-- `23. ஈகை`, Kural 221–230;
-- `24. புகழ்`, Kural 231–240;
-- `25. அருளுடைமை`, Kural 241–250;
-- supplied beginning of `26. புலால் மறுத்தல்`, Kural 251–255.
+Review all 22 `source-checked` records as one set, reconcile working chapter headings and recurring terminology with the existing project glossary and this edition's own index/glossary layer, preserve all source-sensitive Kalaignar readings, create `translations/en/reviews/PART_004_REVIEW.md`, and promote qualifying pages to `editorial-reviewed`.
 
-Compare every Kural and Kalaignar commentary paragraph directly against the verified Tamil archival page and promote only fully checked pages to `source-checked`.
-
-Do not begin editorial review or Part 005 English translation in the same activity.
+Do not perform the release gate or begin Part 005 English translation in the same activity.
