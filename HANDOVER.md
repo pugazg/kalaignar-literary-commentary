@@ -20,6 +20,8 @@ The translation must retain **Kalaignar's own language, images, emphases and int
 
 Do not redo or renumber Parts 001–003.
 
+The currently supplied Tamil archive ends at overall scan **62** / printed page **29** / Kural **145**. Chapter 15 is only partially supplied through Kural 145.
+
 # English project translation
 
 Permanent cadence:
@@ -41,27 +43,28 @@ Every English page must retain `translation_type: "project_translation"`.
 
 Binding Part 002 source-fidelity decisions remain in force, including **Aadhi Bhagavan**, *iraivan*, *anthanar*, Kalaignar's Kural-25 Indra reading, Kural 12 **the food they drink**, Kural 20's conduct warning, Kural 34 **clamour**, Kural 38's path-and-stone image, Nannan's ***puththelir* / new world**, and **“the low-priced edition of the people's hearts.”**
 
-# Part 003 English — EDITORIAL REVIEW COMPLETE
+# Part 003 English — RELEASE COMPLETE
 
 Tamil source: `திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf`
 
 Current English state:
 
 - aligned English records: **21 / 21** — scans 42–62;
-- `editorial-reviewed`: **21** — scans 42–62;
+- `release-ready`: **21** — scans 42–62;
+- `editorial-reviewed`: **0**;
 - `source-checked`: **0**;
 - `draft`: **0**;
-- `release-ready`: **0**;
 - `source-limited`: **0**;
 - `blocked`: **0**.
 
-Formal review artefact:
+Review/release artefacts:
 
 - `works/thirukkural/translations/en/reviews/PART_003_REVIEW.md`
+- `works/thirukkural/translations/en/reviews/PART_003_RELEASE_REPORT.md`
 
-`GLOSSARY.md` and `TRANSLATION_GUIDE.md` were reconciled during this review.
+Final release decision: **RELEASE-READY**.
 
-## Editorial-review coverage
+## Released coverage
 
 - scans 42–43 — **Domestic Life**, Kural 41–50
 - scans 44–45 — **The Worth of a Life Partner**, Kural 51–60
@@ -75,12 +78,12 @@ Formal review artefact:
 - scans 60–61 — **Good Conduct**, Kural 131–140
 - scan 62 — supplied beginning of **Not Desiring Another Man's Wife**, Kural 141–145
 
-## Binding source-sensitive decisions retained through editorial review
+## Binding Part 003 source-fidelity decisions
 
 - **Kural 42** — **those without protection**, following Kalaignar's explicit `பாதுகாப்பற்றவர்` explanation.
 - **Kural 43** — keep the Kural as a compact five-part list; commentary separately supplies the actions.
 - **Kural 50** — retain the qualified god **said to live in heaven** wording.
-- **Kural 55** — retain the already released slave/rain interpretation exactly.
+- **Kural 55** — retain the released slave/rain interpretation exactly.
 - **Kural 57** — retain Kalaignar's criticism of treating self-guarding women as slaves.
 - **Kural 58** — retain **new world**.
 - **Kural 62** — **seven births** in the Kural versus **seven times seven generations** in commentary.
@@ -113,34 +116,34 @@ Formal review artefact:
 - **Kurals 133–134** — preserve explicit birth / lineage and **Brahmin** wording.
 - **Kural 140** — verse **live in accord with the world** versus commentary conduct **accepted by the great**.
 - **Kural 141** — verse **discerned aram and wealth** versus commentary expansion to works on aram / wealth.
-- **Kurals 141–145** — preserve repeated **another man's wife** wording; Kural 143 retains living-man-as-**corpse** image.
+- **Kurals 141–145** — preserve repeated **another man's wife** wording; Kural 143 retains the living-man-as-**corpse** image.
 
-## Editorial changes made
+## Released editorial consistency decisions
 
-Only small, source-safe consistency changes were made:
-
-- Kural 95 commentary → controlled **humility**;
-- Kural 97 commentary → awkward `good benefit` smoothed to **beneficial results**;
-- generic referents in Kural 117, 123 and 127 commentary → singular **they/them** rather than inserted masculine pronouns;
-- Kural 144 actor → generic **one**, while explicit **another man's wife** remains unchanged.
-
-Chapter headings 5–15 are now editorial-reviewed. `இல்லறவியல்` remains **Domestic Life** at section level; chapter 5 `இல்வாழ்க்கை` is also **Domestic Life**, and the duplicate English metadata wording is deliberate.
-
-No Part 003 page is release-ready yet.
+- Chapter headings 5–15 are controlled through the currently supplied Kural 145.
+- `இல்லறவியல்` remains **Domestic Life** at section level; chapter 5 `இல்வாழ்க்கை` is also **Domestic Life**. The duplicate metadata wording is deliberate.
+- Repeated Kurals **55, 58, 83, 94 and 98** retain reviewed/released Part 002 wording where the same source wording recurs.
+- Kural 95 commentary uses controlled **humility**.
+- Kural 97 commentary uses **beneficial results**.
+- Generic source referents in Kural 117, 123 and 127 commentary use singular **they/them** rather than inserted masculine pronouns.
+- Kural 144 actor uses generic **one**, while the explicit object **another man's wife** remains unchanged.
 
 # Next exact activity
 
-Run the separate **Part 003 English release gate**.
+Do **not** begin or invent a Part 004 English translation from general Thirukkural knowledge.
 
-1. Fetch current `TRANSLATION_GUIDE.md`, `GLOSSARY.md`, `TRANSLATION_STATUS.md`, `reviews/PART_003_REVIEW.md`, and all 21 Part 003 English pages.
-2. Confirm all 21 are `status: "editorial-reviewed"` and retain `translation_type: "project_translation"` with correct source alignment / printed pages 9–29.
-3. Verify chapter headings 5–15 against the controlled glossary.
-4. Verify repeated Kurals 55, 58, 83, 94 and 98 against their released Part 002 occurrences.
-5. Reconfirm every binding source-fidelity decision above; do not substitute conventional external Thirukkural interpretations.
-6. Check quotation handling, two-line verse structure, commentary separation and no missing Kural numbers from 41–145 within supplied coverage.
-7. Create `works/thirukkural/translations/en/reviews/PART_003_RELEASE_REPORT.md` only after the release gate is actually completed.
-8. If all gates pass, promote all 21 Part 003 English pages to `status: "release-ready"` and synchronize status / READMEs / this handover.
-9. Do **not** begin Part 004 English work in the same activity.
+Future work resumes only when a **new Tamil source scan/PDF is supplied** and the scan itself confirms continuity from overall scan **63** after scan 62 / printed page 29 / Kural 145.
+
+For that new source:
+
+1. inspect the scan itself and verify continuity;
+2. establish the next archival Part and one-page-per-scan mapping;
+3. transcribe source-faithfully without normalization or reconstruction;
+4. directly visually verify every Tamil page;
+5. complete the Tamil part audit / archival-ready gate;
+6. only then begin the corresponding project-created English translation.
+
+Until new source material is supplied, Parts 001–003 are complete for the currently available material.
 
 ## Source authority rule
 
