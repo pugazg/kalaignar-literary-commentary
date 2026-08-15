@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–005 **ARCHIVAL-READY** |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–003 released; Part 004 **22/22 editorial-reviewed**; Part 005 not started |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–004 **released**; Part 005 not started |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -30,21 +30,20 @@ The project translation follows an explicit fidelity rule: **retain Kalaignar's 
 
 Tamil Parts 001–005 are archival-ready for all currently supplied source material through overall scan **106** / printed page **73** / Kural **365**.
 
-### English Parts 001–003 — RELEASE COMPLETE
+### English Parts 001–004 — RELEASE COMPLETE
 
 - Part 001: 19 `release-ready` + 1 `source-limited`;
 - Part 002: **21/21 `release-ready`**;
-- Part 003: **21/21 `release-ready`**, through Kural **145**.
+- Part 003: **21/21 `release-ready`**, through Kural **145**;
+- Part 004: **22/22 `release-ready`**, through Kural **255**.
 
-### English Part 004 — EDITORIAL REVIEW COMPLETE
+Part 004 release is documented in [`works/thirukkural/translations/en/reviews/PART_004_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_004_RELEASE_REPORT.md), following the completed editorial review in `PART_004_REVIEW.md`.
 
-All **22/22** English records for scans **63–84 / printed pages 30–51 / Kural 146–255** are now `editorial-reviewed`.
+The released Part 004 main body retains the source-controlled forms **Not Speaking Ill Behind Another's Back**, **Fear of Evil Deeds**, **Understanding Helpfulness**, **Giving**, **Fame**, **Possession of Compassion**, and **Abstaining from Flesh**; `துறவறவியல்` remains **Renunciant Life**. The deliberate differences from earlier index-local title wording are documented rather than silently harmonized.
 
-The review is recorded in [`works/thirukkural/translations/en/reviews/PART_004_REVIEW.md`](works/thirukkural/translations/en/reviews/PART_004_REVIEW.md). It reconciles the main-body headings and recurring terminology against the project's own source-controlled glossary/index decisions while preserving Kalaignar's distinctive language, images and interpretations.
+### English Part 005 — NOT STARTED
 
-The controlled Part 004 main-body forms include **Not Speaking Ill Behind Another's Back**, **Fear of Evil Deeds**, **Understanding Helpfulness**, **Giving**, **Fame**, **Possession of Compassion**, and **Abstaining from Flesh**; `துறவறவியல்` is controlled as **Renunciant Life**. `GLOSSARY.md` records these decisions and the deliberate distinction from earlier index-local forms where applicable.
-
-Next English activity: perform the separate **Part 004 release gate**, create `PART_004_RELEASE_REPORT.md`, and promote the 22 pages to `release-ready` only if every release check passes. Do not begin Part 005 English in the same activity.
+Tamil Part 005 is already archival-ready. The next English activity is its first-pass translation for scans **85–91 / printed pages 52–58 / Kural 256–290**, creating `draft` records only. Do not combine that first pass with source-check or editorial review.
 
 For further Tamil archival work, the next source must continue after overall scan **106** / printed page **73** / Kural **365**.
 
