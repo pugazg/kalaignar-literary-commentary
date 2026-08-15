@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Renunciant Life — Not Stealing"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -36,6 +36,6 @@ The thirst for stealing that arises in a person and cannot be satisfied will, th
 **285. Those who watch for another's lapse in order to seize property  
 cannot possess the loving nature that looks toward compassion.**
 
-Those who wait for a moment when another person is forgetful so that they can steal that person's property will not possess the quality of behaving with love out of concern for compassion.
+Those who wait for a moment when another person is forgetful so that they can steal that person's property will not possess the quality of acting with love out of regard for compassion.
 
 <!-- Source scan page: 90; Part 005 local page: 6; printed page: 57 -->
