@@ -46,19 +46,19 @@ All **22/22** English page records exist for scans **85–106 / printed pages 52
 
 Current Part 005 English counts:
 
-- `source-checked`: **7** — scans 85–91 / Kural 256–290;
-- `draft`: **15** — scans 92–106 / Kural 291–365;
+- `source-checked`: **14** — scans 85–98 / Kural 256–325;
+- `draft`: **8** — scans 99–106 / Kural 326–365;
 - `editorial-reviewed`: **0**;
 - `release-ready`: **0**.
 
-The first source-check batch covers completion of **Abstaining from Flesh**, then **Ascetic Practice**, **Improper Conduct**, and **Not Stealing**.
+Source-check now covers completion of **Abstaining from Flesh**, then **Ascetic Practice**, **Improper Conduct**, **Not Stealing**, **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, and the beginning of **Non-killing**.
 
-Two fidelity refinements were made while keeping Kalaignar's commentary intact: Kural 270 now retains the verse's ascetic-practice wording rather than importing the commentary's firmness language, and Kural 290 now keeps `புத்தே ளுலகு` as **the higher world** in the verse while Kalaignar's commentary separately retains `புகழுலக வாழ்க்கை` as **life in the world of fame**.
+Important fidelity decisions include keeping Kural 290's verse `புத்தே ளுலகு` as **the higher world** while Kalaignar's commentary separately retains **life in the world of fame**, keeping Kural 319's morning/afternoon image in the verse while its commentary presents the returning harm as immediate, and refining Kural 296 to **`There is no fame like freedom from falsehood; / it gives every aram without fail.`**
 
 ## அடுத்த செயல்
 
-Continue the dedicated **Part 005 English source-check for scans 92–98 / printed pages 59–65 / Kural 291–325**.
+Complete the dedicated **Part 005 English source-check for scans 99–106 / printed pages 66–73 / Kural 326–365**.
 
-Compare every Kural and Kalaignar commentary paragraph against the corresponding verified Tamil page and promote only fully checked records to `source-checked`.
+This final source-check batch completes **Non-killing**, then covers **Impermanence**, **Renunciation**, **Realizing Truth**, and the supplied beginning of **Eradication of Desire**. Pay particular attention to scan 99 / Kural 329's verified `பகுத்தறிவு இழந்து செயல்படும்` reading and the Kural 346 verse/commentary distinction.
 
-Do not source-check scan 99 onward and do not begin editorial review in the same activity.
+Do not begin editorial review in the same activity.
