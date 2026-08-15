@@ -21,7 +21,7 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 | Part 002 | 21–41 | archival-ready | **RELEASE-READY — 21/21** |
 | Part 003 | 42–62 | archival-ready | **RELEASE-READY — 21/21** |
 | Part 004 | 63–84 | archival-ready | **RELEASE-READY — 22/22** |
-| Part 005 | 85–106 | archival-ready | **SOURCE-CHECK COMPLETE — 22/22** |
+| Part 005 | 85–106 | archival-ready | **EDITORIAL REVIEW COMPLETE — 22/22** |
 
 ## Current English counts
 
@@ -40,9 +40,9 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 
 ### Part 005
 - English page files: **22 / 22** — scans 85–106 / Kural 256–365
-- `source-checked`: **22 / 22**
+- `editorial-reviewed`: **22 / 22**
+- `source-checked`: **0**
 - `draft`: **0**
-- `editorial-reviewed`: **0**
 - `release-ready`: **0**
 - `source-limited`: **0**
 - `blocked`: **0**
@@ -56,58 +56,55 @@ All **22/22** Part 004 English records have passed the release gate. Release art
 
 Part 004 remains release-controlled through Kural 255, including **Abstaining from Flesh** and structural **Renunciant Life**.
 
-# Part 005 English source-check — COMPLETE
+# Part 005 English editorial review — COMPLETE
 
-All **22/22** Part 005 English records have now been compared against their verified Tamil records and promoted to `source-checked`, covering scans **85–106 / printed pages 52–73 / Kural 256–365**.
+All **22/22** Part 005 English records covering scans **85–106 / printed pages 52–73 / Kural 256–365** have completed source-check and editorial-consistency / glossary reconciliation and are now `editorial-reviewed`.
 
-Source-check coverage now includes:
+Review artefact:
 
-- completion of **Abstaining from Flesh** — Kural 256–260;
-- **Ascetic Practice** — Kural 261–270;
-- **Improper Conduct** — Kural 271–280;
-- **Not Stealing** — Kural 281–290;
-- **Truthfulness** — Kural 291–300;
-- **Freedom from Anger** — Kural 301–310;
-- **Not Causing Pain** — Kural 311–320;
-- **Non-killing** — Kural 321–330;
-- **Impermanence** — Kural 331–340;
-- **Renunciation** — Kural 341–350;
-- **Realizing Truth** — Kural 351–360;
-- beginning of **Eradication of Desire** — Kural 361–365 supplied in Part 005.
+- [`reviews/PART_005_REVIEW.md`](reviews/PART_005_REVIEW.md)
 
-Source-sensitive material remains preserved throughout, including flesh as **the wound of another living being**, the thousand-sacrifice comparison, the five elements and false-renunciant imagery, the compassion/love contrast in the stealing chapter, truthfulness as harmless speech, anger as destructive fire, the morning/afternoon consequence image, Kalaignar's equalizing sharing principle, death hesitating before non-killing, the performance-crowd and day-as-sword images of impermanence, the repeated attachment language of renunciation, and Kalaignar's source-specific truth/rebirth/desire explanations through Kural 365.
+Controlled Part 005 main-body chapter headings are now:
 
-## Fidelity refinements made during source-check
+- **Ascetic Practice**;
+- **Improper Conduct**;
+- **Not Stealing**;
+- **Truthfulness**;
+- **Freedom from Anger**;
+- **Not Causing Pain**;
+- **Non-killing**;
+- **Impermanence**;
+- **Renunciation**;
+- **Realizing Truth**;
+- **Eradication of Desire**.
 
-- **Kural 270** — `few practise with firmness` → **`few practise ascetic discipline`**, keeping firmness of mind in Kalaignar's commentary rather than the verse;
-- **Kural 290** — verse `புத்தே ளுலகு` → **the higher world**, while Kalaignar's commentary separately retains **life in the world of fame** (`புகழுலக வாழ்க்கை`);
-- **Kural 296** — the verse now reads **`There is no fame like freedom from falsehood; / it gives every aram without fail.`**, removing first-pass grammatical drift while leaving Kalaignar's commentary separate;
-- **Kural 337** — `do not know whether they will live even for a moment` → **`do not know how to live even for a moment`**, avoiding an unsupported survival-uncertainty reading while preserving Kalaignar's separate commentary about failing to reflect on the truth of life;
-- **Kural 365** — `the others, though they have renounced, are not fully detached` → **`the others have not truly given up anything`**, keeping the compressed verse distinct from Kalaignar's separate commentary that only one who gives up all desire is a pure renunciant.
+These chapter 27–37 forms match the released Part 002 index-local forms, but Part 005 main-body review independently confirms them. Chapter 26 continues the already controlled **Abstaining from Flesh**, and the structural section remains **Renunciant Life**.
 
-Additional source-sensitive separations remain deliberate:
+Recurring terminology is now glossary-controlled through the supplied Kural 365, including contextual treatment of **Aram**, ascetic practice/discipline, compassion versus love, truthfulness versus freedom from falsehood, pain/suffering/harm, non-killing, attachment, renunciation, true reality, birth/another birth and desire.
 
-- **Kural 319** — the verse retains the **morning / afternoon** image; Kalaignar's commentary separately makes the returning harm effectively immediate;
-- **Kural 329 commentary** — verified Tamil is `பகுத்தறிவு இழந்து செயல்படும்`; the English retains killers acting after **losing rational discernment**;
-- **Kural 346** — the verse retains a world higher than the heavenly dwellers, while Kalaignar's commentary separately gives **worldly fame surpassing even fame reaching the skies**;
-- **Kurals 356–365** — Kalaignar's renunciant-life, rebirth and desire interpretations remain his commentary and are not silently replaced with conventional readings.
+Protected source-sensitive layer separations remain intact:
 
-No Part 005 editorial review has begun.
+- **Kural 290** — verse `புத்தே ளுலகு` remains **the higher world**; Kalaignar's commentary separately remains **life in the world of fame**;
+- **Kural 319** — verse retains the **morning / afternoon** image; commentary separately makes the returning harm effectively immediate;
+- **Kural 329 commentary** — verified `பகுத்தறிவு இழந்து செயல்படும்` remains **act after losing rational discernment**;
+- **Kural 346** — verse retains a world higher than the heavenly dwellers; commentary separately gives **worldly fame surpassing even fame reaching the skies**;
+- **Kurals 356–365** — Kalaignar's renunciant-life, another-birth and desire readings remain source-controlled commentary rather than conventional substitutions.
+
+The editorial review made only small readability refinements. It did not change source-supported interpretation. Full details are recorded in `reviews/PART_005_REVIEW.md`.
 
 ## Next exact activity
 
-Begin the dedicated **Part 005 English editorial-consistency / glossary-reconciliation review across all 22 source-checked pages**.
+Perform the separate **Part 005 English release gate**.
 
 Required scope:
 
-- scans **85–106** / printed pages **52–73** / Kural **256–365**;
-- reconcile the provisional main-body chapter headings for chapters **27–37** against the established project glossary and released index layer without silently rewriting source-aligned index records;
-- review recurring terminology, especially **Aram**, **Renunciant Life**, compassion, truthfulness, non-killing, attachment, renunciation, true reality, birth/rebirth and desire;
-- check cross-page consistency, punctuation, readability, verse/commentary separation and metadata while preserving Kalaignar's language and interpretive direction;
-- create `reviews/PART_005_REVIEW.md` documenting decisions and any source-preserving editorial changes;
-- promote only qualifying pages from `source-checked` to `editorial-reviewed`.
+- verify all **22** `editorial-reviewed` records for scans **85–106 / Kural 256–365**;
+- verify one-to-one source alignment, printed-page metadata, Kural numbering, chapter/section headings, glossary decisions, two-line verse structure and commentary separation;
+- re-check the protected source-sensitive decisions documented in `PART_005_REVIEW.md`;
+- create `reviews/PART_005_RELEASE_REPORT.md`;
+- promote pages to `release-ready` only if the gate passes.
 
-Do **not** perform the Part 005 release gate in the same activity.
+Do **not** invent or translate Kural 366 onward without newly supplied source material.
 
 Permanent cadence:
 
