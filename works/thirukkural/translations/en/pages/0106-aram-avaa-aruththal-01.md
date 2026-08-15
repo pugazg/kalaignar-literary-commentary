@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Renunciant Life — Eradication of Desire"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -16,7 +16,7 @@ translation_basis: "verified Tamil archival transcription; controlling scan rema
 **361. Desire is the unfailing seed that gives rise to birth  
 in all living beings at all times.**
 
-Desire may be called the seed that unfailingly appears and sprouts among all living beings at every time.
+Desire may be called the seed that unfailingly appears and sprouts in all living beings at all times.
 
 **362. If one must desire, let one desire non-birth;  
 that comes by desiring freedom from desire.**
@@ -26,7 +26,7 @@ If desires are not eliminated, they bring a state of suffering so severe that a 
 **363. There is no excellent wealth here equal to freedom from desire;  
 nowhere else is there anything to equal it.**
 
-There is no wealth here equal to rejecting desires that bring evil by saying they are not wanted; one may say that nowhere else too is there such incomparable wealth.
+There is no wealth here equal to rejecting desires that bring evil by saying they are not wanted; one may say that nowhere else is there such incomparable wealth either.
 
 **364. Purity is freedom from desire;  
 that purity comes to those who seek truthfulness.**
