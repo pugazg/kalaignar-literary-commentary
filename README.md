@@ -6,8 +6,8 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–004 **ARCHIVAL-READY**; Part 005 first pass 22/22, verification **7/22** |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–003 released; Part 004 Tamil archival-ready; Part 005 Tamil verification in progress |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–004 **ARCHIVAL-READY**; Part 005 **22/22 verified, audit pending** |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–003 released; Part 004 Tamil archival-ready; Part 005 Tamil audit pending |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -34,26 +34,17 @@ Tamil Parts 001–004 are archival-ready.
 - Part 002 — scans **21–41**, 21/21 verified;
 - Part 003 — scans **42–62**, 21/21 verified, through Kural **145**;
 - Part 004 — scans **63–84**, printed pages **30–51**, Kural **146–255**, **22/22 verified and audited — ARCHIVAL-READY**;
-- Part 005 — scans **85–106**, printed pages **52–73**, Kural **256–365**; first-pass repository transcription **22/22 complete**. Direct visual verification is now **7/22 complete**: scans 85–91 are `verified`, while scans 92–106 remain `needs-review`.
+- Part 005 — scans **85–106**, printed pages **52–73**, Kural **256–365**, **22/22 directly verified; audit pending**.
 
 The supplied physical source reaches overall scan **106** / printed page **73** / Kural **365**.
 
-### Tamil Part 004 — ARCHIVAL-READY
+### Tamil Part 005 — VERIFICATION COMPLETE
 
-The separate archival audit has passed:
+All 22 Part 005 records now use `status: "verified"` and `transcription_method: "direct visual comparison with source scan"`.
 
-[`works/thirukkural/AUDIT_PART_004.md`](works/thirukkural/AUDIT_PART_004.md)
+Verification found one source-text correction in the remaining-page pass: scan **99 / Kural 329 commentary** was corrected from `பகுத்தறிவு மிகுந்த செயல்படும்` to the scanned **`பகுத்தறிவு இழந்து செயல்படும்`**. All other Part 005 pages matched their first-pass transcription.
 
-### Tamil Part 005 — VERIFICATION IN PROGRESS
-
-First-pass records: **22 / 22**.
-
-Verification state:
-
-- `verified`: **7** — scans 85–91 / printed pages 52–58 / Kural 256–290;
-- `needs-review`: **15** — scans 92–106 / printed pages 59–73 / Kural 291–365.
-
-The first visual-verification batch was compared directly against the supplied scan pages. No source-text correction was required for scans 85–91; their first-pass transcription already matched the controlling source, including source-specific Kural joins/spacing and Kalaignar commentary.
+Part 005 is not yet labelled archival-ready because its separate audit has not been performed.
 
 ### English Parts 001–003 — RELEASE COMPLETE
 
@@ -61,8 +52,8 @@ The first visual-verification batch was compared directly against the supplied s
 - Part 002: **21/21 `release-ready`**;
 - Part 003: **21/21 `release-ready`**, through Kural **145**.
 
-Part 004 English is eligible to begin, but the immediate Tamil archival queue continues Part 005 direct visual verification first.
+Part 004 English remains eligible because its Tamil archive is archival-ready.
 
-Next Tamil activity: **Part 005 direct visual verification for scans 92–98 / printed pages 59–65 / Kural 291–325**, covering `வாய்மை`, `வெகுளாமை`, `இன்னா செய்யாமை`, and the beginning of `கொல்லாமை`. Correct only differences supported by the actual scans and promote only fully confirmed records to `verified`. Do not begin the Part 005 audit, scans 99 onward verification, or Part 004 English translation in the same activity.
+Next Tamil activity: perform the **Part 005 archival audit** for scans **85–106 / printed pages 52–73 / Kural 256–365**, create `works/thirukkural/AUDIT_PART_005.md`, and mark the part ARCHIVAL-READY only if every audit gate passes. Do not begin Part 004 English translation in the same audit activity.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md) and [`HANDOVER.md`](HANDOVER.md).
