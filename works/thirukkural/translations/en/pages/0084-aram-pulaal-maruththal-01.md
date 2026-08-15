@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Renunciant Life — Abstaining from Flesh"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -14,12 +14,12 @@ translation_basis: "verified Tamil archival transcription; controlling scan rema
 # 26. Abstaining from Flesh
 
 **251. How can one possess compassion  
-who feeds his own flesh by eating the flesh of another life?**
+who feeds his own flesh by eating another being's flesh?**
 
 How can a person who makes the body of another living being into food in order to nourish his own body be one who possesses a compassionate heart?
 
-**252. Those who do not safeguard wealth have no rule over wealth;  
-so too those who eat flesh have no rule of compassion.**
+**252. Possession of wealth is not for those who fail to safeguard it;  
+likewise, possession of compassion is not for those who eat flesh.**
 
 One who does not preserve and protect material wealth cannot claim the distinction of possessing wealth; likewise, one who eats flesh cannot claim the distinction of possessing compassion.
 
