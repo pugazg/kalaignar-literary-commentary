@@ -39,14 +39,16 @@ Tamil Part 004 is **ARCHIVAL-READY**, covering scans **63–84 / printed pages 3
 Current state:
 
 - aligned English records: **22 / 22**;
-- `source-checked`: **7** — scans 63–69 / Kural 146–180;
-- `draft`: **15** — scans 70–84 / Kural 181–255;
+- `source-checked`: **14** — scans 63–76 / Kural 146–215;
+- `draft`: **8** — scans 77–84 / Kural 216–255;
 - `editorial-reviewed`: **0**;
 - `release-ready`: **0**.
 
-The first source-check batch confirmed the completion of **Not Desiring Another Man's Wife**, **Forbearance**, **Freedom from Envy**, and **Not Coveting**. Source-sensitive readings such as explicit **another man's wife**, the earth-bearing-diggers image, **“let us forget, let us forgive,”** Lakshmi/Moodevi, and Kalaignar's immediate-versus-lasting-benefit explanation remain intact.
+The second source-check batch confirmed **Not Speaking Ill Behind Another's Back**, **Not Speaking Useless Words**, **Fear of Evil Deeds**, and the beginning of **Understanding Helpfulness**.
 
-One source-fidelity correction was made in Kural 149: the verse now preserves the actor correctly as **those who do not touch the shoulders of the woman who belongs to another**.
+The source-check retained Kalaignar's earth-bearing-the-backbiter image, **chaff** comparison, **aram surrounding the plotter**, pursuing-enemy and shadow images for evil deeds, rain giving without repayment, his *oppuravu* / helping-others explanation, **today's world / new world yet to come**, and the village water-tank image.
+
+Four verse-level fidelity refinements were made in this batch: Kural 188 was made less over-explicit, Kural 196 had commentary-derived “for gain” removed from the verse, Kural 210 now uses **hard to ruin**, and Kural 214 no longer imports the commentary's helping-others explanation into the verse.
 
 The Part 004 chapter headings remain working project forms until the later editorial/glossary review.
 
@@ -56,8 +58,8 @@ Tamil Part 005 is archival-ready, but its English translation has not started. F
 
 ## Next activity
 
-Continue **Part 004 English source-check** with scans **70–76 / printed pages 37–43 / Kural 181–215**, covering **Not Speaking Ill Behind Another's Back**, **Not Speaking Useless Words**, **Fear of Evil Deeds**, and the beginning of **Understanding Helpfulness**.
+Complete **Part 004 English source-check** with scans **77–84 / printed pages 44–51 / Kural 216–255**, covering completion of **Understanding Helpfulness**, then **Giving**, **Fame**, **Possession of Compassion**, and the supplied beginning of **Abstaining from Flesh**.
 
-Do not begin scans 77 onward, editorial review, or Part 005 English translation in the same activity.
+Do not begin editorial review or Part 005 English translation in the same activity.
 
 See [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md) for detailed state.
