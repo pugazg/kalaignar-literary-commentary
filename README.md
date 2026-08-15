@@ -6,8 +6,8 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–003 audited / archival-ready for supplied material |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–003 released for supplied material |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–003 archival-ready; Part 004 transcription in progress; Part 005 source queued |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–003 released; Parts 004–005 wait for Tamil archival readiness |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -28,39 +28,29 @@ The project translation follows an explicit fidelity rule: **retain Kalaignar's 
 
 ## தற்போதைய நிலை — திருக்குறள்
 
-Tamil Parts 001–003 are archival-ready for the supplied material. The Tamil archive currently reaches overall scan **62** / printed page **29** / Kural **145**.
+Tamil Parts 001–003 are archival-ready. Two additional source PDFs have now been inspected and accepted as continuous source material:
 
-### Part 001 English — RELEASE COMPLETE
+- Part 004 — scans **63–84**, printed pages **30–51**, Kural **146–255**;
+- Part 005 — scans **85–106**, printed pages **52–73**, Kural **256–365**.
 
-- aligned English pages: **20 / 20**
-- `release-ready`: **19**
-- `source-limited`: **1** — scan 8
+The supplied source now reaches overall scan **106** / printed page **73** / Kural **365**.
 
-### Part 002 English — RELEASE COMPLETE
+### Tamil Part 004 — TRANSCRIPTION IN PROGRESS
 
-- aligned English pages: **21 / 21**
-- `release-ready`: **21** — scans 21–41
+- page records created: **7 / 22** — scans 63–69;
+- current repository coverage: printed pages **30–36** / Kural **146–180**;
+- all seven new records remain `needs-review` pending a separate direct visual-verification pass.
 
-### Part 003 English — RELEASE COMPLETE
+Part 005 is source-inspected and queued; no page records have been created yet.
 
-- aligned English pages: **21 / 21** — scans 42–62
-- `release-ready`: **21** — scans 42–62
-- `editorial-reviewed`: **0**
-- `source-checked`: **0**
-- `draft`: **0**
-- current English coverage: Kural **41–145**
+### English Parts 001–003 — RELEASE COMPLETE
 
-Review/release artefacts:
+- Part 001: 19 `release-ready` + 1 `source-limited`;
+- Part 002: **21/21 `release-ready`**;
+- Part 003: **21/21 `release-ready`**, through Kural **145**.
 
-- [`works/thirukkural/translations/en/reviews/PART_003_REVIEW.md`](works/thirukkural/translations/en/reviews/PART_003_REVIEW.md)
-- [`works/thirukkural/translations/en/reviews/PART_003_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_003_RELEASE_REPORT.md)
+No Part 004 English work begins until Part 004 Tamil has completed transcription, direct visual verification and archival audit.
 
-Final Part 003 decision: **RELEASE-READY**.
+Next Tamil activity: continue Part 004 first-pass transcription with scans **70–76**, covering Kural **181–215**. Keep those records `needs-review`; do not begin verification or Part 005 transcription in the same activity.
 
-The released layer preserves Kalaignar's source-specific interpretation and social vocabulary, including **those without protection**, the slave/rain interpretation, **new world**, **conscience**, **heaven of fame**, hospitality-as-**sacrifice**, **imperishable fame / life itself dark**, **seven lives** versus protection **through all time**, **Aram waiting upon the path**, explicit **Brahmin** and birth/lineage language, and **another man's wife** in the supplied Kural 141–145 material.
-
-Part 003 ends after Kural **145**; chapter 15 is therefore only partially supplied and is not represented as complete.
-
-Next work should not invent a Part 004. New Tamil intake may begin from overall scan **63** only when a supplied scan itself confirms continuity after scan 62 / printed page 29 / Kural 145, followed by Tamil transcription → direct verification → audit before any new English translation.
-
-Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md) and [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md).
+Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md) and [`HANDOVER.md`](HANDOVER.md).
