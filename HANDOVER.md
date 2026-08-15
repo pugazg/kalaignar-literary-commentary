@@ -10,40 +10,76 @@ The supplied scans are the controlling sources. Do not silently modernize, norma
 
 The English layer is a **project-created translation**, not an official/publisher English edition. It must retain Kalaignar's own language, images, emphases and interpretive direction and must not import external English Kural wording or another commentator's interpretation.
 
+Permanent cadence:
+
+**Tamil transcription → Tamil direct visual verification → Tamil audit / archival-ready → English draft → English source-check → English editorial review → English release report.**
+
 # திருக்குறள் — established archival state
 
 - Part 001 — scans 1–20: **ARCHIVAL-READY WITH ONE DOCUMENTED PARTIAL FACSIMILE**; 19 verified + scan 8 partial.
 - Part 002 — scans 21–41: **ARCHIVAL-READY**, 21/21 verified.
 - Part 003 — scans 42–62: **ARCHIVAL-READY**, 21/21 verified; printed pages 9–29; Kural 41–145.
+- Part 004 — scans 63–84: **ARCHIVAL-READY**, 22/22 verified and audited; printed pages 30–51; Kural 146–255.
 
-Do not redo or renumber Parts 001–003.
+Do not redo or renumber Parts 001–004.
 
-English project translation for Parts 001–003 is complete for the supplied material:
+English project translation currently released:
 
 - Part 001 — 19 `release-ready` + scan 8 `source-limited`;
 - Part 002 — 21/21 `release-ready`;
 - Part 003 — 21/21 `release-ready`.
 
-Do not begin new English translation until the corresponding Tamil part is archival-ready.
+Part 004 English is now eligible because the Tamil archive has passed its audit, but do not begin it during the immediate Part 005 Tamil transcription activity.
 
-# Newly supplied Tamil sources — inspected 2026-08-15
+# Part 004 Tamil — ARCHIVAL-READY
 
-## Part 004
-
-Source filename:
+Source:
 
 `திருக்குறள்_கலைஞர்_உரை_part_004_pages_63-84.pdf`
 
-Confirmed source range:
+Confirmed range:
 
 - local PDF pages: **22**;
 - overall scans: **63–84**;
 - printed pages: **30–51**;
 - Kural range: **146–255**;
-- scan 63 begins with Kural **146**, directly continuing scan 62 / Kural 145;
-- scan 84 ends with Kural **255**, midway through `26. புலால் மறுத்தல்`.
+- scan 63 continues chapter 15 `பிறனில் விழையாமை` from Kural 146;
+- scan 84 ends at Kural 255, midway through chapter 26 `புலால் மறுத்தல்`.
 
-## Part 005
+All 22 records are:
+
+`status: "verified"`
+
+with:
+
+`transcription_method: "direct visual comparison with source scan"`
+
+The archival audit exists at:
+
+`works/thirukkural/AUDIT_PART_004.md`
+
+Audit result: **ARCHIVAL-READY**.
+
+The audit reconfirmed:
+
+- exactly 22 one-to-one page records;
+- scan/local/printed-page continuity 63–84 / 1–22 / 30–51;
+- Kural continuity 146–255 with no missing or duplicate number;
+- chapter continuity from the continuation of chapter 15 through partial chapter 26;
+- `இல்லறவியல்` → `துறவறவியல்` transition at scan 82 / printed page 49;
+- no remaining `needs-review`, partial or blocked record;
+- no unsupported standard/web Kural substitution.
+
+Verification-cycle corrections retained in final Part 004 archive:
+
+1. scan 63 / Kural 150 — `அறன்வரையா னல்ல செயினும் பிறன்வரையாள்`;
+2. scan 63 / Kural 150 commentary — source `செயலைவிடத்`;
+3. scan 64 / Kural 151 — source spacing `நிலம் போலத்`;
+4. scan 64 / Kural 151 commentary — source `தன்மீது`.
+
+Scans 65–84 required no further source-text correction during direct visual comparison.
+
+# Part 005 Tamil source — inspected and queued
 
 Source filename:
 
@@ -55,95 +91,44 @@ Confirmed source range:
 - overall scans: **85–106**;
 - printed pages: **52–73**;
 - Kural range: **256–365**;
-- scan 85 begins with Kural **256**, directly continuing Part 004;
-- scan 106 ends with Kural **365**, midway through `37. அவா அறுத்தல்`.
+- scan 85 begins with Kural **256**, directly continuing Part 004 scan 84 / Kural 255;
+- scan 106 ends with Kural **365**, midway through chapter 37 `அவா அறுத்தல்`.
+
+Current repository state for Part 005:
+
+- page records: **0 / 22**;
+- transcription has **not** begun;
+- direct verification has **not** begun;
+- no Part 005 audit exists.
 
 The supplied physical source currently reaches overall scan **106** / printed page **73** / Kural **365**.
 
-# Part 004 Tamil — TRANSCRIPTION + DIRECT VERIFICATION COMPLETE / AUDIT PENDING
-
-Current repository state:
-
-- page records: **22 / 22**;
-- scans represented: **63–84**;
-- printed pages represented: **30–51**;
-- Kural coverage: **146–255**;
-- `verified`: **22**;
-- `needs-review`: **0**;
-- every Part 004 page uses `transcription_method: "direct visual comparison with source scan"`.
-
-Coverage / files:
-
-- `0063-aram-piranil-vizhaiyaamai-02.md` — Kural 146–150, continuation of chapter 15;
-- `0064-aram-poraiyudaimai-01.md` and `0065-aram-poraiyudaimai-02.md` — chapter 16, Kural 151–160;
-- `0066-aram-azhukkaaraamai-01.md` and `0067-aram-azhukkaaraamai-02.md` — chapter 17, Kural 161–170;
-- `0068-aram-vehkaamai-01.md` and `0069-aram-vehkaamai-02.md` — chapter 18, Kural 171–180;
-- `0070-aram-purangkooraamai-01.md` and `0071-aram-purangkooraamai-02.md` — chapter 19, Kural 181–190;
-- `0072-aram-payanila-sollaamai-01.md` and `0073-aram-payanila-sollaamai-02.md` — chapter 20, Kural 191–200;
-- `0074-aram-theevinaiyachcham-01.md` and `0075-aram-theevinaiyachcham-02.md` — chapter 21, Kural 201–210;
-- `0076-aram-oppuravarithal-01.md` and `0077-aram-oppuravarithal-02.md` — chapter 22, Kural 211–220;
-- `0078-aram-eegai-01.md` and `0079-aram-eegai-02.md` — chapter 23, Kural 221–230;
-- `0080-aram-pugazh-01.md` and `0081-aram-pugazh-02.md` — chapter 24, Kural 231–240;
-- `0082-aram-aruludaimai-01.md` and `0083-aram-aruludaimai-02.md` — chapter 25, Kural 241–250;
-- `0084-aram-pulaal-maruththal-01.md` — chapter 26 beginning, Kural 251–255.
-
-Source section transition:
-
-- scans 63–81 are under `அறம் — இல்லறவியல்`;
-- scan 82 / printed page 49 begins `அறம் — துறவறவியல் — அருளுடைமை`;
-- scans 82–84 therefore use `துறவறவியல்` in metadata.
-
-## Part 004 direct visual verification — complete
-
-All scans **63–84** were checked directly against the actual supplied PDF page images.
-
-Batch 1 — scans 63–69 / Kural 146–180:
-
-- scan 63 / Kural 150: restored printed `அறன்வரையா னல்ல செயினும் பிறன்வரையாள்`;
-- scan 63 / Kural 150 commentary: first-pass `செயலிலே` → source `செயலைவிடத்`;
-- scan 64 / Kural 151: restored printed spacing `நிலம் போலத்`;
-- scan 64 / Kural 151 commentary: first-pass `தன்னை` → source `தன்மீது`;
-- scans 65–69 required no source-text correction.
-
-Batch 2 — scans 70–76 / Kural 181–215:
-
-- all seven pages matched the supplied scans;
-- no source-text correction was required.
-
-Batch 3 — scans 77–84 / Kural 216–255:
-
-- all eight pages matched the supplied scans;
-- no source-text correction was required;
-- scan 82 section transition to `துறவறவியல்` was directly confirmed.
-
-No unresolved character uncertainty remains in Part 004.
-
-`AUDIT_PART_004.md` does **not** yet exist. Part 004 must not be called archival-ready until the audit passes.
-
-Part 005 remains source-inspected and queued. **No Part 005 page record exists yet.**
-
 # Exact next activity
 
-Perform the separate **Part 004 Tamil archival audit** for all verified scans **63–84** / Part 004 local pages **1–22** / printed pages **30–51** / Kural **146–255**.
+Begin **Part 005 Tamil first-pass transcription** for overall scans **85–91** / Part 005 local pages **1–7** / printed pages **52–58** / Kural **256–290**.
 
-Required audit checks:
+The actual source pages have been inspected and confirm this mapping:
 
-1. confirm exactly **22** one-to-one Markdown page records exist for scans 63–84;
-2. confirm every record is `status: "verified"` and uses `transcription_method: "direct visual comparison with source scan"`;
-3. verify every record's `scan_page`, `part: 4`, `part_page`, `printed_page`, `source_filename`, `section`, and source marker;
-4. confirm Kural numbering is continuous **146–255** with no missing or duplicate number;
-5. confirm chapter continuity:
-   - scan 63 continues chapter 15 `பிறனில் விழையாமை` with Kural 146–150;
-   - chapters 16–25 are represented correctly;
-   - scan 84 begins chapter 26 `புலால் மறுத்தல்` but only Kural 251–255 are supplied, so do not imply chapter completion;
-6. confirm the `இல்லறவியல்` → `துறவறவியல்` transition at scan 82 / printed page 49;
-7. confirm the four source-supported corrections made during verification batch 1 remain intact;
-8. confirm no standard/web Kural substitution, silent normalization, or unsupported reconstruction has entered the verified pages.
+- scan 85 / local 1 / printed 52 — completion of `26. புலால் மறுத்தல்`, Kural 256–260;
+- scan 86 / local 2 / printed 53 — `27. தவம்`, Kural 261–265;
+- scan 87 / local 3 / printed 54 — continuation, Kural 266–270;
+- scan 88 / local 4 / printed 55 — `28. கூடா ஒழுக்கம்`, Kural 271–275;
+- scan 89 / local 5 / printed 56 — continuation, Kural 276–280;
+- scan 90 / local 6 / printed 57 — `29. கள்ளாமை`, Kural 281–285;
+- scan 91 / local 7 / printed 58 — continuation, Kural 286–290.
 
-Create `works/thirukkural/AUDIT_PART_004.md` documenting the audit. If every gate passes, mark Part 004 **ARCHIVAL-READY** and synchronize `works/thirukkural/README.md`, root `README.md`, and this `HANDOVER.md`.
+For each page:
 
-Then stop. **Do not begin Part 005 transcription and do not begin Part 004 English translation in the same activity.**
+1. inspect the actual supplied Part 005 scan page image;
+2. create exactly one Markdown record using the matching overall scan number;
+3. use `part: 5` and the correct `part_page` / printed page;
+4. use source filename `திருக்குறள்_கலைஞர்_உரை_part_005_pages_85-106.pdf`;
+5. preserve source-specific Kural spelling, joins, spacing, punctuation and two-line structure rather than substituting a standard/web text;
+6. preserve Kalaignar commentary exactly as printed;
+7. retain the source marker `<!-- மூல ஸ்கேன் பக்கம்: N; Part 005 உள்ளூர் பக்கம்: M; அச்சுப் பக்கம்: P -->`;
+8. keep every new page at `status: "needs-review"`;
+9. use `transcription_method: "manual transcription from source scan; direct visual verification pending"`.
 
-## Permanent cadence
+After scans 85–91 are created, synchronize `works/thirukkural/README.md`, root `README.md`, and this handover, then stop.
 
-**Tamil transcription → Tamil direct visual verification → Tamil audit / archival-ready → English draft → English source-check → English editorial review → English release report.**
+**Do not begin Part 005 direct visual verification, do not begin scans 92 onward, and do not begin Part 004 English translation in the same activity.**
