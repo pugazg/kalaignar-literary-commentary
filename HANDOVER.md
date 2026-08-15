@@ -68,8 +68,8 @@ Current repository state:
 - scans represented: **63–84**;
 - printed pages represented: **30–51**;
 - Kural coverage: **146–255**;
-- `verified`: **7** — scans **63–69** / printed pages 30–36 / Kural 146–180;
-- `needs-review`: **15** — scans **70–84** / printed pages 37–51 / Kural 181–255.
+- `verified`: **14** — scans **63–76** / printed pages 30–43 / Kural 146–215;
+- `needs-review`: **8** — scans **77–84** / printed pages 44–51 / Kural 216–255.
 
 Verified pages use:
 
@@ -102,22 +102,29 @@ Source section transition:
 
 ## Part 004 direct visual verification — batch 1 completed
 
-Scans **63–69** were checked directly against the actual supplied PDF page images. All seven are now `verified`.
+Scans **63–69** were checked directly against the actual supplied PDF page images. All seven are `verified`.
 
-Source-supported corrections made during this batch:
+Source-supported corrections made during batch 1:
 
-1. scan 63 / Kural 150 — first pass had normalized the source spacing. Restored printed:
-   - `அறன்வரையா னல்ல செயினும் பிறன்வரையாள்`
-2. scan 63 / Kural 150 commentary — first pass read `செயலிலே`; source clearly reads:
-   - `செயலைவிடத்`
-3. scan 64 / Kural 151 — first pass joined `நிலம்போலத்`; source prints:
-   - `நிலம் போலத்`
-4. scan 64 / Kural 151 commentary — first pass read `தன்னை`; source clearly reads:
-   - `தன்மீது`
+1. scan 63 / Kural 150 — restored printed `அறன்வரையா னல்ல செயினும் பிறன்வரையாள்`;
+2. scan 63 / Kural 150 commentary — `செயலிலே` → source `செயலைவிடத்`;
+3. scan 64 / Kural 151 — restored printed spacing `நிலம் போலத்`;
+4. scan 64 / Kural 151 commentary — `தன்னை` → source `தன்மீது`.
 
-Scans 65–69 required no source-text correction; their first-pass text matched the supplied scan during direct visual comparison.
+Scans 65–69 required no source-text correction.
 
-No uncertainty remains in scans 63–69.
+## Part 004 direct visual verification — batch 2 completed
+
+Scans **70–76** / printed pages **37–43** / Kural **181–215** were checked directly against the actual supplied PDF page images, character by character. All seven are now `verified`.
+
+Coverage checked:
+
+- scans 70–71 — `19. புறங்கூறாமை`, Kural 181–190;
+- scans 72–73 — `20. பயனில சொல்லாமை`, Kural 191–200;
+- scans 74–75 — `21. தீவினையச்சம்`, Kural 201–210;
+- scan 76 — beginning of `22. ஒப்புரவறிதல்`, Kural 211–215.
+
+**No source-text correction was required in batch 2.** The first-pass Kural spellings, source-specific joins/spacing, punctuation, two-line verse structure and Kalaignar commentary matched the supplied scans. Metadata and source markers also matched. No uncertainty remains in scans 63–76.
 
 Do **not** create `AUDIT_PART_004.md` until all 22 Part 004 pages are verified.
 
@@ -125,19 +132,20 @@ Part 005 remains source-inspected and queued. **No Part 005 page record exists y
 
 # Exact next activity
 
-Continue the separate **Part 004 Tamil direct visual-verification pass** for overall scans **70–76** / Part 004 local pages **8–14** / printed pages **37–43** / Kural **181–215**.
+Complete the separate **Part 004 Tamil direct visual-verification pass** for remaining overall scans **77–84** / Part 004 local pages **15–22** / printed pages **44–51** / Kural **216–255**.
 
-Verification batch mapping:
+Verification mapping:
 
-- scan 70 / local 8 / printed 37 — `19. புறங்கூறாமை`, Kural 181–185;
-- scan 71 / local 9 / printed 38 — continuation, Kural 186–190;
-- scan 72 / local 10 / printed 39 — `20. பயனில சொல்லாமை`, Kural 191–195;
-- scan 73 / local 11 / printed 40 — continuation, Kural 196–200;
-- scan 74 / local 12 / printed 41 — `21. தீவினையச்சம்`, Kural 201–205;
-- scan 75 / local 13 / printed 42 — continuation, Kural 206–210;
-- scan 76 / local 14 / printed 43 — beginning of `22. ஒப்புரவறிதல்`, Kural 211–215.
+- scan 77 / local 15 / printed 44 — completion of `22. ஒப்புரவறிதல்`, Kural 216–220;
+- scan 78 / local 16 / printed 45 — `23. ஈகை`, Kural 221–225;
+- scan 79 / local 17 / printed 46 — continuation, Kural 226–230;
+- scan 80 / local 18 / printed 47 — `24. புகழ்`, Kural 231–235;
+- scan 81 / local 19 / printed 48 — continuation, Kural 236–240;
+- scan 82 / local 20 / printed 49 — `25. அருளுடைமை`, Kural 241–245; section changes to `துறவறவியல்`;
+- scan 83 / local 21 / printed 50 — continuation, Kural 246–250;
+- scan 84 / local 22 / printed 51 — beginning of `26. புலால் மறுத்தல்`, Kural 251–255.
 
-For every page in this batch:
+For every page in this final verification batch:
 
 1. fetch the current repository page record;
 2. inspect the actual supplied PDF page image;
@@ -148,7 +156,7 @@ For every page in this batch:
 7. if the page fully matches after any necessary correction, set `status: "verified"` and `transcription_method: "direct visual comparison with source scan"`;
 8. if any character remains genuinely uncertain, keep the page out of `verified` and document the uncertainty rather than guessing.
 
-After scans 70–76 are checked, synchronize `works/thirukkural/README.md`, root `README.md` and this handover, then stop. **Do not verify scans 77–84, do not create the Part 004 audit, do not begin Part 005 transcription, and do not begin Part 004 English translation in the same activity.**
+After scans 77–84 are checked, synchronize `works/thirukkural/README.md`, root `README.md` and this handover, then stop. **Do not create the Part 004 audit, do not begin Part 005 transcription, and do not begin Part 004 English translation in the same activity.**
 
 ## Permanent cadence
 
