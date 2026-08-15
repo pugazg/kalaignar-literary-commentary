@@ -33,34 +33,25 @@ Permanent cadence:
 
 **Tamil transcription → visual verification → Tamil audit → English draft → source-check → editorial review → English release report.**
 
-### Parts 001–004 English — RELEASE COMPLETE
+### Parts 001–005 English — RELEASE COMPLETE FOR ALL SUPPLIED MATERIAL
 
 - Part 001: 19 `release-ready` + scan 8 `source-limited`;
 - Part 002: **21/21 `release-ready`**;
 - Part 003: **21/21 `release-ready`**, through Kural 145;
-- Part 004: **22/22 `release-ready`**, through Kural 255.
+- Part 004: **22/22 `release-ready`**, through Kural 255;
+- Part 005: **22/22 `release-ready`**, through the currently supplied Kural 365.
 
-### Part 005 English — EDITORIAL REVIEW COMPLETE
-
-All **22/22** English page records for scans **85–106 / printed pages 52–73 / Kural 256–365** are now `editorial-reviewed`.
-
-Current Part 005 English counts:
-
-- `editorial-reviewed`: **22 / 22**;
-- `source-checked`: **0**;
-- `draft`: **0**;
-- `release-ready`: **0**.
-
-Review artefact:
+Part 005 release artefacts:
 
 - [`translations/en/reviews/PART_005_REVIEW.md`](translations/en/reviews/PART_005_REVIEW.md)
+- [`translations/en/reviews/PART_005_RELEASE_REPORT.md`](translations/en/reviews/PART_005_RELEASE_REPORT.md)
 
-The Part 005 review controls chapters 27–37 as **Ascetic Practice**, **Improper Conduct**, **Not Stealing**, **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, **Non-killing**, **Impermanence**, **Renunciation**, **Realizing Truth**, and **Eradication of Desire**. These forms agree with the already released Part 002 index-local forms after independent main-body review. Chapter 26 continues the previously controlled **Abstaining from Flesh**, and the structural section remains **Renunciant Life**.
+Part 005 covers scans **85–106 / printed pages 52–73 / Kural 256–365**. Chapter 26 continues **Abstaining from Flesh**, then the released main body covers **Ascetic Practice**, **Improper Conduct**, **Not Stealing**, **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, **Non-killing**, **Impermanence**, **Renunciation**, **Realizing Truth**, and the supplied beginning of **Eradication of Desire**. The structural section remains **Renunciant Life**.
 
-The review preserves Kalaignar-specific readings and the source-check layer separations, including Kural 290's **higher world** verse versus **life in the world of fame** commentary, Kural 319's morning/afternoon verse, Kural 329's verified `பகுத்தறிவு இழந்து செயல்படும்`, Kural 346's heavenly-world verse versus worldly-fame commentary, and the source-specific renunciation / another-birth / desire readings through Kural 365.
+The release preserves the documented source-sensitive distinctions, including Kural 290's **higher world** verse versus **life in the world of fame** commentary, Kural 319's morning/afternoon verse, Kural 329's verified `பகுத்தறிவு இழந்து செயல்படும்`, Kural 346's heavenly-world verse versus worldly-fame commentary, and Kalaignar's renunciant-life / another-birth / desire readings through Kural 365.
 
 ## அடுத்த செயல்
 
-Perform the separate **Part 005 English release gate** across all 22 `editorial-reviewed` pages. Verify metadata, source alignment, glossary decisions, verse/commentary separation and the protected source-sensitive readings; create `translations/en/reviews/PART_005_RELEASE_REPORT.md`; promote pages to `release-ready` only if the gate passes.
+The currently supplied Thirukkural material is fully archived in Tamil and released in the project-created English layer through **Kural 365**.
 
-Do not translate Kural 366 onward without newly supplied source material.
+Further work requires a newly supplied Tamil source continuing after overall scan **106** / printed page **73**, beginning with **Kural 366 onward**. Do not reconstruct or translate beyond the supplied source.
