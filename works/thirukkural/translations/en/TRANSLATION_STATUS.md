@@ -21,7 +21,7 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 | Part 002 | 21–41 | archival-ready | **RELEASE-READY — 21/21** |
 | Part 003 | 42–62 | archival-ready | **RELEASE-READY — 21/21** |
 | Part 004 | 63–84 | archival-ready | **RELEASE-READY — 22/22** |
-| Part 005 | 85–106 | archival-ready | **FIRST PASS COMPLETE — 22/22 DRAFTS** |
+| Part 005 | 85–106 | archival-ready | **SOURCE-CHECK IN PROGRESS — 7/22** |
 
 ## Current English counts
 
@@ -40,13 +40,12 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 
 ### Part 005
 - English page files: **22 / 22** — scans 85–106 / Kural 256–365
-- `draft`: **22**
-- `source-checked`: **0**
+- `source-checked`: **7** — scans 85–91 / Kural 256–290
+- `draft`: **15** — scans 92–106 / Kural 291–365
 - `editorial-reviewed`: **0**
 - `release-ready`: **0**
 - `source-limited`: **0**
 - `blocked`: **0**
-- uncreated: **0**
 
 # Part 004 English release — COMPLETE
 
@@ -57,69 +56,31 @@ All **22/22** Part 004 English records have passed the release gate. Release art
 
 Part 004 remains release-controlled through Kural 255, including **Abstaining from Flesh** and structural **Renunciant Life**.
 
-# Part 005 English first pass — COMPLETE
+# Part 005 English source-check — IN PROGRESS
 
-All **22/22** Part 005 English records now exist as `draft`, covering scans **85–106 / printed pages 52–73 / Kural 256–365**.
+The first source-check batch is complete for scans **85–91 / printed pages 52–58 / Kural 256–290**. All seven pages were compared against their verified Tamil records and promoted to `source-checked` only after full-page comparison.
 
-Drafted chapter coverage:
+The source-check preserves the first-pass source-sensitive material, including flesh as **the wound of another living being**, the thousand-sacrifice comparison, endurance/non-harm in `தவம்`, the five elements, cow/tiger-skin, hunter, kunrimani and arrow/*yaazh* images, compassion/love in the stealing chapter, and aram/deceit contrasts.
 
-- completion of chapter 26 **Abstaining from Flesh** — Kural 256–260;
-- chapter 27 **Ascetic Practice** — 261–270;
-- chapter 28 **Improper Conduct** — 271–280;
-- chapter 29 **Not Stealing** — 281–290;
-- chapter 30 **Truthfulness** — 291–300;
-- chapter 31 **Freedom from Anger** — 301–310;
-- chapter 32 **Not Causing Pain** — 311–320;
-- chapter 33 **Non-killing** — 321–330;
-- chapter 34 **Impermanence** — 331–340;
-- chapter 35 **Renunciation** — 341–350;
-- chapter 36 **Realizing Truth** — 351–360;
-- beginning of chapter 37 **Eradication of Desire** — 361–365.
+Two verse-level fidelity refinements were made:
 
-The chapter 27–37 English forms are first-pass working forms already present in the released Part 002 index layer. Their Part 005 main-body status remains provisional until editorial/glossary reconciliation.
+- **Kural 270**: `few practise with firmness` was changed to **`few practise ascetic discipline`** so the verse retains `நோற்பார்`, while Kalaignar's separate commentary continues to explain the contrast through firmness of mind.
+- **Kural 290**: the verse no longer imports Kalaignar's commentary phrase **world of fame**. The compressed `புத்தே ளுலகு` is rendered **the higher world** in the verse, while Kalaignar's commentary separately retains **life in the world of fame** (`புகழுலக வாழ்க்கை`).
 
-## Source-sensitive first-pass decisions to preserve for checking
-
-The drafts retain Kalaignar-specific wording and interpretation rather than importing standard Kural renderings. Important examples include:
-
-- Kural 257 — flesh as **the wound of another living being**;
-- Kural 259 — the thousand-sacrifice comparison with ghee-like offerings in commentary;
-- Kural 268 — rejection of attachment to **“one's own life”** and pride in **“I”**;
-- Kurals 271–279 — five elements, cow in tiger skin, hunter, kunrimani, and arrow/*yaazh* images;
-- Kural 290 commentary — explicit **world of fame** reading; the verse phrase `புத்தே ளுலகு` remains a source-check point;
-- Kural 292 — faultless good can give falsehood a place as truth;
-- Kural 306 — anger as fire destroying the angry person and the protecting raft-like circle of kin;
-- Kural 314 — answering harm with good so that the wrongdoer bows in shame;
-- Kural 322 — Kalaignar's equalizing sharing principle so all living beings may live;
-- Kural 326 — even death hesitates before one whose life follows non-killing;
-- Kural 329 commentary — verified source reads **`பகுத்தறிவு இழந்து செயல்படும்`** and the draft therefore says killers act having lost rational discernment;
-- Kural 332 — wealth dispersing like an audience after a performance;
-- Kural 334 — the day as a sword continually cutting down life;
-- Kural 336 commentary — the world taking pride in making yesterday's living person absent today;
-- Kural 338 — body/life relationship through egg and young-bird imagery;
-- Kural 346 commentary — **worldly fame surpassing even fame reaching the skies**, kept separate from the compressed verse's heavenly-world image;
-- Kural 350 — attachment to one without attachment as an aid to giving up attachment;
-- Kural 353 commentary — doubt resolved by clear inquiry, producing confidence that heaven is nearer than earth;
-- Kural 356 commentary — realizing truth in renunciant life and no longer desiring domestic life;
-- Kural 357 commentary — those who realize truth with certainty do not think there is another birth;
-- Kural 362 commentary — unremoved desire produces suffering so severe one may wish one had not been born;
-- Kural 365 commentary — only one who has given up all desire is called a renunciant.
-
-No Part 005 source-check or editorial review has begun.
+No editorial review has begun.
 
 ## Next exact activity
 
-Begin the dedicated **Part 005 English source-check**, first batch only:
+Continue the dedicated **Part 005 English source-check**, next batch only:
 
-- scans **85–91**;
-- printed pages **52–58**;
-- Kural **256–290**.
+- scans **92–98**;
+- printed pages **59–65**;
+- Kural **291–325**;
+- **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, and the beginning of **Non-killing**.
 
-Compare each Kural and each commentary paragraph directly against the verified Tamil record. Correct only source-supported omissions, additions, grammatical drift or verse/commentary leakage. Promote a page to `source-checked` only after its full page has been checked.
+Compare each Kural line-by-line and each Kalaignar commentary paragraph against the verified Tamil record. Correct only source-supported omissions, additions, grammatical drift, over-interpretation or verse/commentary leakage. Promote a page to `source-checked` only after the whole page passes.
 
-Pay particular attention to Kural 290: preserve Kalaignar's commentary reading **`புகழுலக வாழ்க்கை` / life in the world of fame**, while checking the compressed verse phrase `புத்தே ளுலகு` independently rather than automatically forcing the Part 004 “new world” wording.
-
-Do **not** editorial-review Part 005 and do not source-check scan 92 onward in that same activity.
+Do **not** source-check scan 99 onward and do not begin editorial review in the same activity.
 
 Permanent cadence:
 
