@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Fame"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -22,7 +22,7 @@ should grieve for themselves; why grieve at those who scorn them?**
 Those unable to live with true fame should grieve over themselves for that; why should they instead be hurt by people who speak disparagingly of their actions?
 
 **238. If one does not leave behind the remainder called fame,  
-the world will call that a blame upon the life itself.**
+the world will call that a reproach upon that life.**
 
 If one fails to earn fame that can remain even after one's life, the world will say that this itself is a stain upon that life.
 
