@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Renunciant Life — Impermanence"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -14,7 +14,7 @@ translation_basis: "verified Tamil archival transcription; controlling scan rema
 **336. This world has the greatness of saying:  
 “One who was here yesterday is not here today.”**
 
-This world takes pride in the arrogance of saying that it has made one who was alive yesterday no longer exist today.
+This world takes arrogant pride in saying that it has made one who was alive yesterday no longer exist today.
 
 **337. Those who do not know how to live even for a moment  
 think not merely a crore of thoughts, but many more.**
