@@ -6,10 +6,10 @@ printed_page: "50"
 work: "thirukkural"
 section: "அறம் — துறவறவியல் — அருளுடைமை"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_004_pages_63-84.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **246. பொருள்நீங்கிப் பொச்சாந்தா ரென்பர் அருள்நீங்கி  
