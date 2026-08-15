@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Not Desiring Another Man's Wife"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -27,7 +27,7 @@ is not merely aram for the worthy; it is lofty conduct.**
 The great quality of not looking at another man's wife with lustful intent is not merely a path of aram; it is also the summit of good conduct.
 
 **149. Who are worthy of goodness in this sea-girt world?  
-Those whose shoulders do not touch the woman who belongs to another.**
+Those who do not touch the shoulders of the woman who belongs to another.**
 
 Those who do not touch the shoulder of another man's wife are the ones worthy of attaining the greatness of this sea-surrounded world.
 
