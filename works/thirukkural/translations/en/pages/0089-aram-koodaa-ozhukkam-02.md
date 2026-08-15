@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Renunciant Life — Improper Conduct"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -14,7 +14,7 @@ translation_basis: "verified Tamil archival transcription; controlling scan rema
 **276. None are more hard-hearted than those who have not renounced in their hearts  
 yet live deceitfully as though they have renounced.**
 
-There is no one more without compassion than deceivers who have not truly given up attachments in their hearts but live as though they have renounced them.
+No one is more lacking in compassion than deceivers who have not truly given up attachments in their hearts but live as though they have renounced them.
 
 **277. Though outwardly red like the kunrimani seed,  
 some are inwardly black as its tip.**
@@ -24,7 +24,7 @@ There are people in the world who may appear outwardly red like the kunrimani se
 **278. Many whose minds are stained  
 live concealed beneath the appearance of the worthy.**
 
-Just as people submerged in water hide themselves, many whose minds are stained move about hiding themselves within the name of being people of distinction.
+Just as people submerged in water hide themselves, many whose minds are stained move about hiding themselves under the name of being people of distinction.
 
 **279. The arrow is straight yet cruel; the yaazh is curved yet gives delight—  
 so people too must be understood only by the nature of their deeds.**
