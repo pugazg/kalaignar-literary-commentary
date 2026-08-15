@@ -6,7 +6,7 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–004 **ARCHIVAL-READY**; Part 005 first pass **7/22 complete** |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–004 **ARCHIVAL-READY**; Part 005 first pass **14/22 complete** |
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–003 released; Part 004 Tamil archival-ready; Part 005 Tamil in progress |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
@@ -34,7 +34,7 @@ Tamil Parts 001–004 are archival-ready.
 - Part 002 — scans **21–41**, 21/21 verified;
 - Part 003 — scans **42–62**, 21/21 verified, through Kural **145**;
 - Part 004 — scans **63–84**, printed pages **30–51**, Kural **146–255**, **22/22 verified and audited — ARCHIVAL-READY**;
-- Part 005 — scans **85–106**, printed pages **52–73**, Kural **256–365** supplied; first-pass repository transcription currently **7/22 complete**, through scan **91** / printed page **58** / Kural **290**.
+- Part 005 — scans **85–106**, printed pages **52–73**, Kural **256–365** supplied; first-pass repository transcription currently **14/22 complete**, through scan **98** / printed page **65** / Kural **325**.
 
 The supplied physical source reaches overall scan **106** / printed page **73** / Kural **365**.
 
@@ -48,16 +48,20 @@ The audit confirms continuous scans 63–84, local pages 1–22, printed pages 3
 
 ### Tamil Part 005 — FIRST PASS IN PROGRESS
 
-First-pass records created: **7 / 22**.
+First-pass records created: **14 / 22**.
 
 Current repository coverage:
 
 - scan 85 / printed page 52 — Kural 256–260, completion of `புலால் மறுத்தல்`;
 - scans 86–87 / printed pages 53–54 — `தவம்`, Kural 261–270;
 - scans 88–89 / printed pages 55–56 — `கூடா ஒழுக்கம்`, Kural 271–280;
-- scans 90–91 / printed pages 57–58 — `கள்ளாமை`, Kural 281–290.
+- scans 90–91 / printed pages 57–58 — `கள்ளாமை`, Kural 281–290;
+- scans 92–93 / printed pages 59–60 — `வாய்மை`, Kural 291–300;
+- scans 94–95 / printed pages 61–62 — `வெகுளாமை`, Kural 301–310;
+- scans 96–97 / printed pages 63–64 — `இன்னா செய்யாமை`, Kural 311–320;
+- scan 98 / printed page 65 — beginning of `கொல்லாமை`, Kural 321–325.
 
-All seven records remain `needs-review`; Part 005 direct visual verification has not started.
+All fourteen records remain `needs-review`; Part 005 direct visual verification has not started.
 
 ### English Parts 001–003 — RELEASE COMPLETE
 
@@ -67,6 +71,6 @@ All seven records remain `needs-review`; Part 005 direct visual verification has
 
 Part 004 English is eligible to begin, but the immediate archival queue continues processing the already supplied Part 005 Tamil source first.
 
-Next Tamil activity: transcribe **Part 005 scans 92–98 / printed pages 59–65 / Kural 291–325** as first-pass `needs-review` records, covering `வாய்மை`, `வெகுளாமை`, `இன்னா செய்யாமை`, and the beginning of `கொல்லாமை`. Do not begin Part 005 verification or Part 004 English translation in the same activity.
+Next Tamil activity: finish **Part 005 scans 99–106 / printed pages 66–73 / Kural 326–365** as first-pass `needs-review` records, covering completion of `கொல்லாமை`, then `நிலையாமை`, `துறவு`, `மெய்யுணர்தல்`, and the beginning of `அவா அறுத்தல்`. After that Part 005 first pass will be **22/22 complete**. Do not begin Part 005 verification or Part 004 English translation in the same activity.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md) and [`HANDOVER.md`](HANDOVER.md).
