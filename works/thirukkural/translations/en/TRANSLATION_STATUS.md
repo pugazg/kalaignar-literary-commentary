@@ -21,7 +21,7 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 | Part 002 | 21–41 | archival-ready | **RELEASE-READY — 21/21** |
 | Part 003 | 42–62 | archival-ready | **RELEASE-READY — 21/21** |
 | Part 004 | 63–84 | archival-ready | **RELEASE-READY — 22/22** |
-| Part 005 | 85–106 | archival-ready | not started |
+| Part 005 | 85–106 | archival-ready | **FIRST PASS IN PROGRESS — 7/22 DRAFTS** |
 
 ## Current English counts
 
@@ -36,46 +36,73 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 - `release-ready`: **21 / 21** — scans 42–62 / Kural 41–145
 
 ### Part 004
-- English page files: **22 / 22** — scans 63–84 / Kural 146–255
-- `release-ready`: **22**
-- `editorial-reviewed`: **0**
+- `release-ready`: **22 / 22** — scans 63–84 / Kural 146–255
+
+### Part 005
+- English page files: **7 / 22** — scans 85–91 / Kural 256–290
+- `draft`: **7**
 - `source-checked`: **0**
-- `draft`: **0**
+- `editorial-reviewed`: **0**
+- `release-ready`: **0**
 - `source-limited`: **0**
 - `blocked`: **0**
+- uncreated: **15** — scans 92–106
 
 # Part 004 English release — COMPLETE
 
-All **22/22** Part 004 English records have passed the release gate.
-
-Release artefacts:
+All **22/22** Part 004 English records have passed the release gate. Release artefacts:
 
 - [`reviews/PART_004_REVIEW.md`](reviews/PART_004_REVIEW.md)
 - [`reviews/PART_004_RELEASE_REPORT.md`](reviews/PART_004_RELEASE_REPORT.md)
 
-Release coverage is scans **63–84 / printed pages 30–51 / Kural 146–255**. Part 003 scan 62 / Kural 145 and Part 004 scan 63 / Kural 146 remain continuous within chapter 15, **Not Desiring Another Man's Wife**.
+Part 004 remains release-controlled through Kural 255, including the controlled main-body title **Abstaining from Flesh** and structural **Renunciant Life**.
 
-Controlled Part 004 main-body headings remain **Forbearance**, **Freedom from Envy**, **Not Coveting**, **Not Speaking Ill Behind Another's Back**, **Not Speaking Useless Words**, **Fear of Evil Deeds**, **Understanding Helpfulness**, **Giving**, **Fame**, **Possession of Compassion**, and **Abstaining from Flesh**. Structural `துறவறவியல்` remains **Renunciant Life**.
+# Part 005 English first pass — IN PROGRESS
 
-The four deliberate main-body/index-local distinctions remain documented and unchanged: **Not Speaking Ill Behind Another's Back** vs index-local *Not Slandering*; **Fear of Evil Deeds** vs *Dread of Evil Deeds*; **Understanding Helpfulness** vs *Understanding Mutual Help*; and **Abstaining from Flesh** vs *Abstaining from Meat*.
+The first Part 005 English batch now exists as seven `draft` records for scans **85–91 / printed pages 52–58 / Kural 256–290**.
 
-All source-sensitive Kalaignar readings established during source-check and editorial review remain intact, including explicit **another man's wife** wording, earth/diggers and earth/backbiter imagery, **“let us forget, let us forgive,”** Lakshmi/Moodevi, **chaff**, **aram surrounding the plotter**, pursuing-enemy/shadow imagery, *oppuravu* as helping others, the source-specific **new world** readings, village-water-tank / fruit-tree / medicinal-tree imagery, the higher-world qualification in Giving, **storehouse / treasury** separation, **life called fame** only in commentary, the wealth-of-compassion / world-and-wind images, and the compassion/flesh-eating argument through Kural 255 including the pit-of-filth image.
+Coverage:
+
+- scan 85 — completion of chapter 26 **Abstaining from Flesh**, Kural 256–260;
+- scans 86–87 — chapter 27 **Ascetic Practice**, Kural 261–270;
+- scans 88–89 — chapter 28 **Improper Conduct**, Kural 271–280;
+- scans 90–91 — chapter 29 **Not Stealing**, Kural 281–290.
+
+The three new chapter headings are first-pass working forms already present in the released Part 002 index layer. They are not yet newly controlled as Part 005 main-body headings; that decision belongs to later editorial/glossary review.
+
+## Source-sensitive first-pass decisions to preserve for later checking
+
+The drafts deliberately retain Kalaignar's source-specific framing rather than replacing it with a conventional English Kural interpretation. Examples include:
+
+- Kural 256's direct connection between killing for food and the trade in flesh;
+- Kural 257's image of flesh as **the wound of another living being**;
+- Kural 259's comparison with a thousand sacrificial rites involving offerings such as ghee;
+- Kural 261 commentary's definition of ascetic practice through endurance and causing no harm to living beings;
+- Kural 266 commentary's combination of self-control, the path of love and patience in suffering;
+- Kural 268 commentary's paired rejection of attachment to **“one's own life”** and pride in **“I”**;
+- the five elements laughing within the deceiver in Kural 271;
+- the cow in a tiger's skin, hunter in a thicket, kunrimani seed and yaazh/arrow images in Kurals 273–279;
+- Kural 285's link between compassion, love and waiting for another person's lapse in order to steal;
+- Kural 288's contrast between aram in the honest heart and deceit in the robber's heart;
+- Kural 290 commentary's explicit **world of fame** (`புகழுலக வாழ்க்கை`) reading. The later source-check must preserve that Kalaignar explanation and carefully check how the compressed Kural phrase `புத்தே ளுலகு` should stand in the verse itself.
+
+No Part 005 source-check or editorial review has begun.
 
 ## Next exact activity
 
-Begin **Part 005 English first-pass translation**, first batch only:
+Continue the **Part 005 English first-pass translation**, next batch only:
 
-- scans **85–91**;
-- printed pages **52–58**;
-- Kural **256–290**;
-- completion of chapter 26 **Abstaining from Flesh**;
-- chapter 27 **Ascetic Practice**;
-- chapter 28 **Improper Conduct**;
-- chapter 29 **Not Stealing**.
+- scans **92–98**;
+- printed pages **59–65**;
+- Kural **291–325**;
+- chapter 30 `வாய்மை` / working **Truthfulness**, Kural 291–300;
+- chapter 31 `வெகுளாமை` / working **Freedom from Anger**, Kural 301–310;
+- chapter 32 `இன்னா செய்யாமை` / working **Not Causing Pain**, Kural 311–320;
+- beginning of chapter 33 `கொல்லாமை` / working **Non-killing**, Kural 321–325.
 
-Create English page files mirroring the audited Tamil filenames and mark them `status: "draft"`. Translate the Kural and Kalaignar commentary separately and preserve Kalaignar's language and interpretive direction.
+Create mirrored English pages as `status: "draft"`. Translate each Kural separately from Kalaignar's commentary and preserve his language and interpretive direction.
 
-Do **not** perform Part 005 source-check or editorial review in the same first-pass activity.
+Do **not** source-check the existing drafts, do **not** editorial-review them, and do **not** translate scans 99 onward in the same activity.
 
 Permanent cadence:
 
