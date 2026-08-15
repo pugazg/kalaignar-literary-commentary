@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Renunciant Life — Not Stealing"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -32,7 +32,7 @@ will fall through deeds that cross all bounds.**
 Those who seek no good path other than stealing will lose their lives and fall through actions that go beyond all limits.
 
 **290. For those who steal, even life may fail;  
-for those who do not steal, the world of fame will never fail.**
+for those who do not steal, the higher world will not fail.**
 
 For those who steal, even living one's life may slip away; for those who do not even think of stealing, life in the world of fame will never fail them.
 
