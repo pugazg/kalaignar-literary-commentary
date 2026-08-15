@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Aram — Renunciant Life — Impermanence"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -16,7 +16,7 @@ translation_basis: "verified Tamil archival transcription; controlling scan rema
 
 This world takes pride in the arrogance of saying that it has made one who was alive yesterday no longer exist today.
 
-**337. Those who do not know whether they will live even for a moment  
+**337. Those who do not know how to live even for a moment  
 think not merely a crore of thoughts, but many more.**
 
 It is those who do not spend even a moment thinking about and understanding the truth of life who build castles in the mind with desires beyond measure.
