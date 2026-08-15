@@ -32,25 +32,23 @@ The English should retain the source author's language, images, emphases and int
 - Part 002: **21/21 `release-ready`**;
 - Part 003: **21/21 `release-ready`**, through Kural 145.
 
-## Part 004 — SOURCE-CHECK IN PROGRESS
+## Part 004 — SOURCE-CHECK COMPLETE
 
-Tamil Part 004 is **ARCHIVAL-READY**, covering scans **63–84 / printed pages 30–51 / Kural 146–255**. All 22 English first-pass records exist.
+Tamil Part 004 is **ARCHIVAL-READY**, covering scans **63–84 / printed pages 30–51 / Kural 146–255**.
 
-Current state:
+English state:
 
 - aligned English records: **22 / 22**;
-- `source-checked`: **14** — scans 63–76 / Kural 146–215;
-- `draft`: **8** — scans 77–84 / Kural 216–255;
+- `source-checked`: **22** — scans 63–84 / Kural 146–255;
+- `draft`: **0**;
 - `editorial-reviewed`: **0**;
 - `release-ready`: **0**.
 
-The second source-check batch confirmed **Not Speaking Ill Behind Another's Back**, **Not Speaking Useless Words**, **Fear of Evil Deeds**, and the beginning of **Understanding Helpfulness**.
+The source-check preserves the source-sensitive Kalaignar readings established across the part: explicit **another man's wife**, earth/diggers and earth/backbiter images, **“let us forget, let us forgive,”** Lakshmi/Moodevi, the **chaff** comparison, **aram surrounding the plotter**, pursuing-enemy/shadow imagery, *oppuravu* as helping others, the **today's world / new world yet to come** readings, village water tank / fruit tree / medicinal tree imagery, the higher-world qualification in Giving, the treasury image for feeding the starving, **fame as the life of the human body**, the wealth-of-compassion and world-and-wind images, and the compassion/flesh-eating argument through Kural 255.
 
-The source-check retained Kalaignar's earth-bearing-the-backbiter image, **chaff** comparison, **aram surrounding the plotter**, pursuing-enemy and shadow images for evil deeds, rain giving without repayment, his *oppuravu* / helping-others explanation, **today's world / new world yet to come**, and the village water-tank image.
+The final source-check batch also restored several verse/commentary boundaries: Kurals 216/217/219 no longer import commentary detail into the verse; Kural 221 now says **the poor**; Kural 222 preserves **receiving is bad**; Kural 226 uses **storehouse** while the commentary retains **treasury**; Kural 233 attaches **unequalled** to fame rather than the world; Kural 239 keeps **life called fame** only in commentary; Kural 246 uses **bereft of substance and forgetful**; and Kural 247 restores the verse's **that world / this world** contrast while Kalaignar's renunciant-life interpretation remains separate.
 
-Four verse-level fidelity refinements were made in this batch: Kural 188 was made less over-explicit, Kural 196 had commentary-derived “for gain” removed from the verse, Kural 210 now uses **hard to ruin**, and Kural 214 no longer imports the commentary's helping-others explanation into the verse.
-
-The Part 004 chapter headings remain working project forms until the later editorial/glossary review.
+All Part 004 chapter headings introduced after chapter 15 remain working project forms until formal editorial/glossary reconciliation.
 
 ## Part 005
 
@@ -58,8 +56,8 @@ Tamil Part 005 is archival-ready, but its English translation has not started. F
 
 ## Next activity
 
-Complete **Part 004 English source-check** with scans **77–84 / printed pages 44–51 / Kural 216–255**, covering completion of **Understanding Helpfulness**, then **Giving**, **Fame**, **Possession of Compassion**, and the supplied beginning of **Abstaining from Flesh**.
+Perform the **Part 004 English editorial-consistency / glossary-reconciliation review** across all scans **63–84 / Kural 146–255**. Review all 22 `source-checked` pages as one set, reconcile working chapter headings and recurring terminology, preserve the source-sensitive decisions already established, create `reviews/PART_004_REVIEW.md`, and promote qualifying pages to `editorial-reviewed`.
 
-Do not begin editorial review or Part 005 English translation in the same activity.
+Do not perform the release gate or begin Part 005 English in the same activity.
 
 See [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md) for detailed state.
