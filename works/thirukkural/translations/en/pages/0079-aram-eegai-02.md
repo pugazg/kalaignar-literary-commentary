@@ -6,13 +6,13 @@ work: "thirukkural"
 section: "Aram — Domestic Life — Giving"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
 
 **226. Relieving the ruinous hunger of the destitute  
-is the treasury in which one stores one's wealth.**
+is the storehouse where one keeps one's wealth.**
 
 Relieving the hunger of one who comes saying that he is starving does not go to waste. It becomes a treasury in which the wealth one has earned is stored so that it may help in the future.
 
@@ -27,7 +27,7 @@ not know the joy that comes from giving?**
 Those without giving or compassion, who give nothing to the poor and simple and eventually lose all they have earned—do they not know the joy that comes from giving to others and rejoicing?
 
 **229. More painful than begging is this indeed:  
-to hoard what one has filled up and eat it alone.**
+for one who has amassed, to eat alone.**
 
 Thinking that giving to others may reduce what one has, hoarding it and eating it alone is more cruel than standing with outstretched hand and begging.
 
