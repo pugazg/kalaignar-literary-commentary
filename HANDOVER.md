@@ -29,9 +29,9 @@ English project translation currently released:
 - Part 002 — 21/21 `release-ready`;
 - Part 003 — 21/21 `release-ready`.
 
-Part 004 English is eligible because its Tamil archive is archival-ready, but the immediate Tamil archival queue continues Part 005 verification first.
+Part 004 English is eligible because its Tamil archive is archival-ready.
 
-# Part 005 Tamil — FIRST PASS COMPLETE / VERIFICATION IN PROGRESS
+# Part 005 Tamil — FULLY VERIFIED / AUDIT PENDING
 
 Source filename:
 
@@ -50,22 +50,13 @@ Current repository state for Part 005:
 
 - page records: **22 / 22**;
 - first-pass transcription: **22 / 22 complete**;
-- `verified`: **7** — scans 85–91 / local pages 1–7 / printed pages 52–58 / Kural 256–290;
-- `needs-review`: **15** — scans 92–106 / local pages 8–22 / printed pages 59–73 / Kural 291–365;
+- direct visual verification: **22 / 22 complete**;
+- `verified`: **22**;
+- `needs-review`: **0**;
 - uncreated records: **0**;
-- direct visual verification: **in progress**;
-- no Part 005 audit exists.
+- no Part 005 audit exists yet.
 
-## Part 005 verification batch 1 completed
-
-Direct visual comparison was completed for:
-
-- scan 85 / printed 52 — Kural 256–260, completion of `26. புலால் மறுத்தல்`;
-- scans 86–87 / printed 53–54 — `27. தவம்`, Kural 261–270;
-- scans 88–89 / printed 55–56 — `28. கூடா ஒழுக்கம்`, Kural 271–280;
-- scans 90–91 / printed 57–58 — `29. கள்ளாமை`, Kural 281–290.
-
-All seven records now use:
+Every Part 005 record now uses:
 
 `status: "verified"`
 
@@ -73,34 +64,53 @@ and:
 
 `transcription_method: "direct visual comparison with source scan"`
 
-The first-pass transcription for scans 85–91 matched the actual supplied scans. **No source-text corrections were required in this verification batch.** Source-specific Kural spelling, joins/spacing, punctuation, line breaks and Kalaignar commentary remain as printed.
+## Verification result
 
-Do not reopen or normalize scans 85–91 unless a later audit identifies a specific source-supported issue.
+All scans **85–106** were compared directly with the supplied source images.
+
+- scans **85–98 and 100–106** required no source-text correction;
+- scan **99 / Kural 329 commentary** required one source-supported correction:
+  - first pass: `பகுத்தறிவு மிகுந்த செயல்படும்`
+  - controlling scan: **`பகுத்தறிவு இழந்து செயல்படும்`**
+
+The corrected wording is now stored in `0099-aram-kollaamai-02.md`.
+
+Chapter coverage:
+
+- completion of `26. புலால் மறுத்தல்` — 256–260;
+- `27. தவம்` — 261–270;
+- `28. கூடா ஒழுக்கம்` — 271–280;
+- `29. கள்ளாமை` — 281–290;
+- `30. வாய்மை` — 291–300;
+- `31. வெகுளாமை` — 301–310;
+- `32. இன்னா செய்யாமை` — 311–320;
+- `33. கொல்லாமை` — 321–330;
+- `34. நிலையாமை` — 331–340;
+- `35. துறவு` — 341–350;
+- `36. மெய்யுணர்தல்` — 351–360;
+- beginning of `37. அவா அறுத்தல்` — 361–365.
+
+Part 005 is **fully verified but not yet archival-ready** because the separate archival audit is still pending.
 
 # Exact next activity
 
-Perform **Part 005 Tamil direct visual verification for scans 92–98** / local pages **8–14** / printed pages **59–65** / Kural **291–325**.
+Perform the **Part 005 Tamil archival audit** across all 22 verified records.
 
-Batch mapping:
+Create:
 
-- scan 92 / local 8 / printed 59 — `30. வாய்மை`, Kural 291–295;
-- scan 93 / local 9 / printed 60 — continuation, Kural 296–300;
-- scan 94 / local 10 / printed 61 — `31. வெகுளாமை`, Kural 301–305;
-- scan 95 / local 11 / printed 62 — continuation, Kural 306–310;
-- scan 96 / local 12 / printed 63 — `32. இன்னா செய்யாமை`, Kural 311–315;
-- scan 97 / local 13 / printed 64 — continuation, Kural 316–320;
-- scan 98 / local 14 / printed 65 — beginning of `33. கொல்லாமை`, Kural 321–325.
+`works/thirukkural/AUDIT_PART_005.md`
 
-For each record:
+Audit gates:
 
-1. inspect the actual corresponding scan image from the supplied Part 005 PDF;
-2. compare Kural wording, source-specific joins/spacing, punctuation, line breaks and Kalaignar commentary character-by-character;
-3. correct only differences supported by the scan;
-4. do not import a standard/web Kural text or silently modernize Tamil;
-5. if fully confirmed, set `status: "verified"`;
-6. set `transcription_method: "direct visual comparison with source scan"`;
-7. preserve the existing source marker and scan/local/printed-page metadata.
+1. confirm exactly 22 one-to-one records for scans 85–106;
+2. confirm local pages 1–22 and printed pages 52–73 without gap or duplication;
+3. confirm continuous Kural numbering 256–365 with no missing or duplicate number;
+4. confirm Part 004→005 continuity at Kural 255→256;
+5. confirm chapter continuity from completion of `புலால் மறுத்தல்` through the supplied beginning of `அவா அறுத்தல்`;
+6. confirm all 22 records have `status: "verified"` and `transcription_method: "direct visual comparison with source scan"`;
+7. reconfirm the scan-99 correction `பகுத்தறிவு இழந்து செயல்படும்` against the source;
+8. confirm no standard/web Kural text or unsourced normalization was substituted.
 
-After scans 92–98 are completed, synchronize `works/thirukkural/README.md`, root `README.md`, and this handover, then stop.
+If all gates pass, mark Part 005 **ARCHIVAL-READY**, synchronize `works/thirukkural/README.md`, root `README.md`, and this handover, then stop.
 
-**Do not begin scans 99 onward verification, do not create the Part 005 audit, and do not begin Part 004 English translation in the same activity.**
+**Do not begin Part 004 English translation in the same audit activity.**
