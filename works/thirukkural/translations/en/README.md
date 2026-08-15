@@ -26,46 +26,41 @@ The English should retain the source author's language, images, emphases and int
 - `source-limited` — completeness limited by controlling source;
 - `blocked` — safe translation cannot proceed.
 
-## Parts 001–004 — RELEASE COMPLETE
+## Parts 001–005 — RELEASE COMPLETE FOR ALL SUPPLIED MATERIAL
 
 - Part 001: 19 `release-ready` + scan 8 `source-limited`;
 - Part 002: **21/21 `release-ready`**;
 - Part 003: **21/21 `release-ready`**, through Kural 145;
-- Part 004: **22/22 `release-ready`**, through Kural 255.
+- Part 004: **22/22 `release-ready`**, through Kural 255;
+- Part 005: **22/22 `release-ready`**, through the currently supplied Kural 365.
 
-Part 004 release artefacts:
+Latest review/release artefacts:
 
 - [`reviews/PART_004_REVIEW.md`](reviews/PART_004_REVIEW.md)
 - [`reviews/PART_004_RELEASE_REPORT.md`](reviews/PART_004_RELEASE_REPORT.md)
-
-The released Part 004 layer controls **Abstaining from Flesh** and structural **Renunciant Life**, which continue into Part 005.
-
-## Part 005 — EDITORIAL REVIEW COMPLETE
-
-Tamil Part 005 is **ARCHIVAL-READY**, covering scans **85–106 / printed pages 52–73 / Kural 256–365**.
-
-English state:
-
-- aligned English records: **22 / 22**;
-- `editorial-reviewed`: **22 / 22**;
-- `source-checked`: **0**;
-- `draft`: **0**;
-- `release-ready`: **0**.
-
-Editorial review artefact:
-
 - [`reviews/PART_005_REVIEW.md`](reviews/PART_005_REVIEW.md)
+- [`reviews/PART_005_RELEASE_REPORT.md`](reviews/PART_005_RELEASE_REPORT.md)
 
-The main-body headings **Ascetic Practice**, **Improper Conduct**, **Not Stealing**, **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, **Non-killing**, **Impermanence**, **Renunciation**, **Realizing Truth**, and **Eradication of Desire** are now controlled through Part 005. These forms match the released Part 002 index-local forms after independent main-body review. **Abstaining from Flesh** and **Renunciant Life** continue from the released Part 004 layer.
+## Part 005 release coverage
 
-`GLOSSARY.md` now records the Part 005 treatment of ascetic practice/discipline, compassion versus love, truthfulness versus freedom from falsehood, pain/suffering/harm, non-killing, attachment, renunciation, true reality, birth/another birth and desire.
+Tamil Part 005 is **ARCHIVAL-READY**, covering scans **85–106 / printed pages 52–73 / Kural 256–365**. All 22 aligned English records have passed source-check, editorial review and the part-level release gate and are now `release-ready`.
 
-Protected source-sensitive distinctions remain intact, especially Kural 290's **higher world** verse versus **world of fame** commentary, Kural 319's morning/afternoon verse versus effectively immediate commentary consequence, Kural 329's verified **loss of rational discernment**, and Kural 346's heavenly-world verse versus Kalaignar's **worldly fame surpassing even fame reaching the skies** commentary.
+Chapter 26 continues the controlled **Abstaining from Flesh** from Part 004. The Part 005 main-body headings are **Ascetic Practice**, **Improper Conduct**, **Not Stealing**, **Truthfulness**, **Freedom from Anger**, **Not Causing Pain**, **Non-killing**, **Impermanence**, **Renunciation**, **Realizing Truth**, and **Eradication of Desire**. The structural section remains **Renunciant Life**.
+
+`GLOSSARY.md` controls the Part 005 treatment of ascetic practice/discipline, compassion versus love, truthfulness versus freedom from falsehood, pain/suffering/harm, non-killing, attachment, renunciation, true reality, birth/another birth and desire.
+
+Protected source-sensitive distinctions remain intact, especially:
+
+- Kural 290's **higher world** verse versus **life in the world of fame** commentary;
+- Kural 319's morning/afternoon verse versus effectively immediate commentary consequence;
+- Kural 329's verified **act after losing rational discernment**;
+- Kural 346's heavenly-world verse versus Kalaignar's **worldly fame surpassing even fame reaching the skies** commentary;
+- Kalaignar's source-specific renunciant-life, another-birth and desire readings through Kural 365.
 
 ## Next activity
 
-Perform the separate **Part 005 English release gate** for all 22 `editorial-reviewed` records. Verify metadata, source alignment, chapter/glossary consistency, verse/commentary separation and protected source-sensitive readings; create `reviews/PART_005_RELEASE_REPORT.md`; promote pages to `release-ready` only if the gate passes.
+No further Thirukkural page can be translated from the currently supplied material. The source currently ends at overall scan **106** / printed page **73** / Kural **365**.
 
-Do not translate Kural 366 onward without newly supplied source material.
+A new Tamil source continuing with **Kural 366 onward** is required before the next archival/translation cycle can begin.
 
 See [`TRANSLATION_STATUS.md`](TRANSLATION_STATUS.md) for detailed state.
