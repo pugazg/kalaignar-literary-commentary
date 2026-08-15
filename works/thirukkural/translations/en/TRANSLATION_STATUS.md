@@ -20,7 +20,7 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 | Part 001 | 1–20 | archival-ready; scan 8 documented partial | **RELEASE-READY WITH DOCUMENTED SOURCE LIMITATIONS** |
 | Part 002 | 21–41 | archival-ready | **RELEASE-READY — 21/21** |
 | Part 003 | 42–62 | archival-ready | **RELEASE-READY — 21/21** |
-| Part 004 | 63–84 | archival-ready | **FIRST PASS IN PROGRESS — 14/22 draft** |
+| Part 004 | 63–84 | archival-ready | **FIRST PASS COMPLETE — 22/22 draft** |
 | Part 005 | 85–106 | archival-ready | not started |
 
 ## Current English counts
@@ -44,21 +44,21 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 
 ### Part 004
 
-- English page files: **14 / 22** — scans 63–76
-- `draft`: **14**
+- English page files: **22 / 22** — scans 63–84
+- `draft`: **22**
 - `source-checked`: **0**
 - `editorial-reviewed`: **0**
 - `release-ready`: **0**
-- uncreated: **8** — scans 77–84
-- current English coverage: Kural **146–215**
+- uncreated: **0**
+- current English coverage: Kural **146–255**
 
 # Parts 001–003 English release — COMPLETE
 
 Parts 001–003 retain the review and release decisions already recorded in their review artefacts. Their established source-sensitive decisions remain binding.
 
-# Part 004 English first pass — IN PROGRESS
+# Part 004 English first pass — COMPLETE
 
-Tamil Part 004 is verified, audited and archival-ready. First-pass English now covers scans **63–76 / Kural 146–215**.
+Tamil Part 004 is verified, audited and archival-ready. First-pass English now covers all scans **63–84 / Kural 146–255**.
 
 Draft chapter coverage:
 
@@ -69,38 +69,45 @@ Draft chapter coverage:
 - scans 70–71 — **Not Speaking Ill Behind Another's Back**, Kural 181–190;
 - scans 72–73 — **Not Speaking Useless Words**, Kural 191–200;
 - scans 74–75 — **Fear of Evil Deeds**, Kural 201–210;
-- scan 76 — beginning of **Understanding Helpfulness**, Kural 211–215.
+- scans 76–77 — **Understanding Helpfulness**, Kural 211–220;
+- scans 78–79 — **Giving**, Kural 221–230;
+- scans 80–81 — **Fame**, Kural 231–240;
+- scans 82–83 — **Possession of Compassion**, Kural 241–250;
+- scan 84 — supplied beginning of **Abstaining from Flesh**, Kural 251–255.
 
 The Part 004 headings introduced after chapter 15 remain working project renderings until editorial/glossary reconciliation; none is imported from a published external English chapter-title list.
 
-Source-sensitive choices in the new batch include:
+Source-sensitive first-pass choices preserved across Part 004 include:
 
-- Kural 183 commentary's stark preference for death over living falsely by backbiting;
+- explicit **another man's wife** wording through Kural 150;
+- Kural 151's earth-bearing-those-who-dig image;
+- Kural 156 commentary's **“let us forget, let us forgive”** wording;
+- Kural 167 commentary's explicit **Lakshmi / Moodevi** explanation;
 - Kural 189 commentary's image of the earth bearing the backbiter because bearing him is itself aram;
-- Kural 196 commentary's comparison of the useless speaker to **chaff** rather than a human being;
-- Kural 204 commentary's **aram surrounding the plotter** and bringing harm upon him;
-- Kural 207's evil deeds becoming an enemy that follows a person;
-- Kural 208's shadow image;
-- Kural 211's rain giving without expecting repayment;
-- Kural 213's Kalaignar-specific **today's world / new world yet to come** reading of `புத்தே ளுலகம்`;
-- Kural 214's one who lives helpfully for others as truly alive, with the contrary person treated as dead;
-- Kural 215's village tank filled with water as the image for wealth serving the common good.
+- Kural 196 commentary's **chaff** comparison;
+- Kural 204 commentary's **aram surrounding the plotter**;
+- Kural 207's pursuing-enemy image and Kural 208's shadow image;
+- Kural 213's Kalaignar-specific **today's world / new world yet to come** reading;
+- Kural 215's village water-tank image for wealth serving the common good;
+- Kural 216's fruit tree in the middle of the town and Kural 217's medicinal tree;
+- Kural 220's willingness to buy the loss caused by helpfulness even by selling oneself;
+- Kural 222 commentary's explicit statement that giving does not necessarily secure the so-called higher world;
+- Kural 226's treasury image for feeding the starving;
+- Kural 234 commentary's **new world that is to come** interpretation;
+- Kural 239 commentary's **fame as the life of the human body** image;
+- Kural 241 commentary's material wealth versus **wealth of compassion** contrast;
+- Kural 245 commentary's world-and-wind analogy;
+- Kural 251–255 commentary's explicit compassion / flesh-eating argument, including the pit-of-filth image in Kural 255.
 
-All 14 Part 004 English records use `translation_type: "project_translation"`, remain `status: "draft"`, and have not undergone source-check.
+All 22 Part 004 English records use `translation_type: "project_translation"`, remain `status: "draft"`, and have not yet undergone the dedicated source-check.
 
 ## Next exact activity
 
-Finish **Part 004 English first-pass translation** with scans **77–84 / printed pages 44–51 / Kural 216–255**:
+Begin the dedicated **Part 004 English source-check** with scans **63–69 / printed pages 30–36 / Kural 146–180**.
 
-- scan 77 — completion of `22. ஒப்புரவறிதல்`, Kural 216–220;
-- scans 78–79 — `23. ஈகை`, Kural 221–230;
-- scans 80–81 — `24. புகழ்`, Kural 231–240;
-- scans 82–83 — `25. அருளுடைமை`, Kural 241–250;
-- scan 84 — beginning of `26. புலால் மறுத்தல்`, Kural 251–255.
+Compare every Kural and every Kalaignar commentary paragraph directly against the verified Tamil archival page, correcting only fidelity issues supported by the source. Preserve the distinction between the Kural and Kalaignar's explanation. Promote only fully checked pages to `status: "source-checked"`.
 
-Create one English record per audited Tamil page, translate Kural and Kalaignar commentary separately, preserve his language/images/interpretation, and keep each record at `draft`.
-
-After scans 77–84 are drafted, Part 004 first pass will be **22/22 complete**. Do **not** begin Part 004 source-check or Part 005 English translation in the same activity.
+Do **not** begin editorial review or Part 005 English translation in the same activity.
 
 Permanent cadence:
 
