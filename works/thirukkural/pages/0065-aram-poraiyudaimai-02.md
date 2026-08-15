@@ -6,10 +6,10 @@ printed_page: "32"
 work: "thirukkural"
 section: "அறம் — இல்லறவியல் — பொறையுடைமை"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_004_pages_63-84.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **156. ஒறுத்தார்க் கொருநாளை இன்பம் பொறுத்தார்க்குப்  
