@@ -6,8 +6,8 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–005 **ARCHIVAL-READY** |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–005 **released through Kural 365** |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–005 **ARCHIVAL-READY**; Parts 006–010 source received; Part 006 transcription in progress |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–005 **released through Kural 365**; Part 006 English not started |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -28,20 +28,36 @@ The project translation follows an explicit fidelity rule: **retain Kalaignar's 
 
 ## தற்போதைய நிலை — திருக்குறள்
 
-Tamil Parts 001–005 are archival-ready for all currently supplied source material through overall scan **106** / printed page **73** / Kural **365**.
+Tamil Parts **001–005** are archival-ready through overall scan **106** / printed page **73** / Kural **365**.
 
-### English Parts 001–005 — RELEASE COMPLETE FOR ALL SUPPLIED MATERIAL
+Five new consecutive Tamil source parts have now been supplied and inspected:
+
+- Part 006 — scans 107–127 / Kural 366–460;
+- Part 007 — scans 128–148 / Kural 461–565;
+- Part 008 — scans 149–169 / Kural 566–670;
+- Part 009 — scans 170–191 / Kural 671–780;
+- Part 010 — scans 192–214 / Kural 781–895.
+
+The new source therefore extends continuously through overall scan **214** / printed page **181** / Kural **895**. This is source availability, not archival completion.
+
+### Tamil Part 006 — TRANSCRIPTION IN PROGRESS
+
+First-pass Tamil records now exist for scans **107–113**. They cover Kural **366–390**, the completion of `அவா அறுத்தல்`, chapter 38 `ஊழ்`, the `பொருள்` section-title and blank reverse page, and chapter 39 `இறைமாட்சி` through Kural 390.
+
+All seven new records are `needs-review`; direct visual verification and the Part 006 audit have not begun.
+
+### English Parts 001–005 — RELEASE COMPLETE
 
 - Part 001: 19 `release-ready` + 1 `source-limited`;
 - Part 002: **21/21 `release-ready`**;
 - Part 003: **21/21 `release-ready`**, through Kural **145**;
 - Part 004: **22/22 `release-ready`**, through Kural **255**;
-- Part 005: **22/22 `release-ready`**, through the currently supplied Kural **365**.
+- Part 005: **22/22 `release-ready`**, through Kural **365**.
 
-Part 005 release is documented in [`works/thirukkural/translations/en/reviews/PART_005_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_005_RELEASE_REPORT.md). The preceding editorial decisions are recorded in [`works/thirukkural/translations/en/reviews/PART_005_REVIEW.md`](works/thirukkural/translations/en/reviews/PART_005_REVIEW.md).
+Part 005 release is documented in [`works/thirukkural/translations/en/reviews/PART_005_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_005_RELEASE_REPORT.md).
 
-The release preserves Kalaignar's source-specific interpretations and the documented verse/commentary separation at important points including Kurals 290, 319, 329 and 346, along with the renunciant-life / another-birth / desire readings through Kural 365.
+No English translation should begin for Part 006 until its Tamil transcription, direct verification and audit are complete.
 
-For further Thirukkural archival work, a new source must continue after overall scan **106** / printed page **73**, beginning with **Kural 366 onward**. Nothing beyond the supplied source should be reconstructed or translated.
+The next Tamil activity is Part 006 first-pass transcription for scans **114–120 / Kural 391–425**.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), and [`HANDOVER.md`](HANDOVER.md).
