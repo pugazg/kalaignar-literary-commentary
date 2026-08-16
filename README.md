@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–006 **ARCHIVAL-READY** through Kural 460; Parts 007–010 source received |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–005 **released through Kural 365**; Part 006 **21/21 editorial-reviewed**, release gate pending |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–006 **released through Kural 460** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -30,18 +30,13 @@ The project translation follows an explicit fidelity rule: **retain Kalaignar's 
 
 Tamil Parts **001–006** are archival-ready through overall scan **127** / printed page **94** / Kural **460**. Parts 007–010 are received but remain source-intake only.
 
-### English Parts 001–005 — RELEASE COMPLETE
+English Parts **001–006** have completed their full release workflow through Kural **460**. Part 006 release is documented in:
 
-Parts 001–005 have completed the English release workflow through Kural **365**.
+- `works/thirukkural/translations/en/reviews/PART_006_REVIEW.md`
+- `works/thirukkural/translations/en/reviews/PART_006_RELEASE_REPORT.md`
 
-### English Part 006 — EDITORIAL REVIEW COMPLETE
+The Part 006 English release retains Kalaignar's language and source-sensitive interpretation, including **Oozh** and **natural condition** rather than substituting a conventional fate/destiny reading.
 
-All **21 / 21** page-aligned English records for scans **107–127 / Kural 366–460** now carry `status: "editorial-reviewed"`.
-
-The review confirmed the controlled main-body chapter headings for chapters 38–46 and protected Kalaignar's language and interpretive direction. Chapter 38 remains **Oozh** and Kalaignar's `இயற்கை நிலை` remains **natural condition**. Direct governance language, social comparisons, rational inquiry and source imagery have not been normalized away.
-
-Review artefact: `works/thirukkural/translations/en/reviews/PART_006_REVIEW.md`.
-
-The next activity is the separate **Part 006 English release gate**. No Part 006 page is yet `release-ready`, and Part 007 Tamil transcription must not begin in the same activity.
+The next activity is **Part 007 Tamil first-pass transcription**, starting at scan **128** / printed page **95** / Kural **461**. English Part 007 must wait until its Tamil transcription, direct verification and audit are complete.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), and [`HANDOVER.md`](HANDOVER.md).
