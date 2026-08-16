@@ -6,10 +6,10 @@ printed_page: "245"
 work: "thirukkural"
 section: "இன்பம் — கற்பியல் — நினைந்தவர் புலம்பல்"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_013_pages_261-282.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 # 121. நினைந்தவர் புலம்பல்

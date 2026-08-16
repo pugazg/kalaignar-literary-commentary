@@ -6,10 +6,10 @@ printed_page: "238"
 work: "thirukkural"
 section: "இன்பம் — களவியல் — படர்மெலிந்து இரங்கல்"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_013_pages_261-282.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **1166. இன்பம் கடல்மற்றுக் காமம் அஃதடுங்கால்  

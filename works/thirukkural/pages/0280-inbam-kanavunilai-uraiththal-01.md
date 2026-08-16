@@ -6,10 +6,10 @@ printed_page: "247"
 work: "thirukkural"
 section: "இன்பம் — கற்பியல் — கனவுநிலை உரைத்தல்"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_013_pages_261-282.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 # 122. கனவுநிலை உரைத்தல்
@@ -22,7 +22,7 @@ transcription_method: "manual transcription from source scan; direct visual veri
 **1212. கயலுண்கண் யானிரப்பத் துஞ்சின் கலந்தார்க்கு  
 உயலுண்மை சாற்றுவேன் மன்.**
 
-நான் வேண்டுவதற்கு இணங்கி என் மை எழுதிய கயல் விழிகள் உறங்குமானால், அப்போது என் கனவில் வரும் காதலர்க்கு நான் இன்னமும் உயிரோடு இருப்பதைச் சொல்லுவேன்.
+நான் வேண்டுவதற்கு இணங்கி என் மை எழுதிய கயல் விழிகள் உறங்கிடுமானால், அப்போது என் கனவில் வரும் காதலர்க்கு நான் இன்னமும் உயிரோடு இருப்பதைச் சொல்லுவேன்.
 
 **1213. நனவினான் நல்கா தவரைக் கனவினால்  
 காண்டலின் உண்டென் உயிர்.**

@@ -6,10 +6,10 @@ printed_page: "228"
 work: "thirukkural"
 section: "இன்பம் — களவியல் — நலம் புனைந்து உரைத்தல்"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_013_pages_261-282.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **1116. மதியும் மடந்தை முகனும் அறியா  

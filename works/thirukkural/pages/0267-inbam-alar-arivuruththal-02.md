@@ -6,10 +6,10 @@ printed_page: "234"
 work: "thirukkural"
 section: "இன்பம் — களவியல் — அலர் அறிவுறுத்தல்"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_013_pages_261-282.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **1146. கண்டது மன்னும் ஒருநாள் அலர்மன்னும்  
@@ -20,7 +20,7 @@ transcription_method: "manual transcription from source scan; direct visual veri
 **1147. ஊரவர் கெளவை எருவாக அன்னைசொல்  
 நீராக நீளுமிந் நோய்.**
 
-ஒருவரையொருவர் விரும்பி மலர்ந்த காதலானது ஊர்மக்கள் பேசும் பழிச்சொற்களை எருவாகவும் அன்னையின் கடுஞ்சொற்களை நீராகவும் கொண்டு வளரும் தவிரக் கருகிப் போய்விடாது.
+ஒருவரையொருவர் விரும்பி மலர்ந்த காதலானது ஊர்மக்கள் பேசும் பழிச்சொற்களை எருவாகவும் அன்னையின் கடுஞ்சொற்களை நீராகவும் கொண்டு வளருமே தவிரக் கருகிப் போய்விடாது.
 
 **1148. நெய்யால் எரிநுதுப்பேம் என்றற்றால் கெளவையால்  
 காமம் நுதுப்பேம் எனல்.**

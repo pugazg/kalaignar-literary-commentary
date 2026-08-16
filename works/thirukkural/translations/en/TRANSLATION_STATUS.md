@@ -33,15 +33,13 @@ Permanent protected decisions from earlier released parts remain binding, includ
 | Part 010 | 192–214 | **ARCHIVAL-READY — 23/23 verified** | **RELEASE-READY — 23/23** |
 | Part 011 | 215–237 | **ARCHIVAL-READY — 23/23 verified** | **RELEASE-READY — 23/23** |
 | Part 012 | 238–260 | **ARCHIVAL-READY — 23/23 verified; audit passed** | **RELEASE-READY — 23/23** |
-| Part 013 | 261–282 | **FIRST-PASS COMPLETE — 22/22 needs-review; verification pending** | **NOT STARTED — not eligible until Tamil audit passes** |
+| Part 013 | 261–282 | **VERIFIED — 22/22; audit pending** | **not started — not eligible until Tamil audit passes** |
 | Part 014 | 283–302 | source received; not started | not started |
 | Part 015 | 303–323 | source received; not started | not started |
 
-Tamil Parts **001–012 are archival-ready continuously through overall scan 260 / printed page 227 / Kural 1115**.
+Tamil Parts **001–012 are archival-ready continuously through overall scan 260 / printed page 227 / Kural 1115**. Part 013 is fully direct-verified through scan **282 / printed page 249 / Kural 1225**, but remains ineligible for English work until `AUDIT_PART_013.md` passes.
 
-Part 013 has a complete first-pass Tamil page layer through overall scan **282 / printed page 249 / Kural 1225**, but it is **not archival-ready** until direct visual verification and the later Tamil audit pass.
-
-English Parts **001–012 are fully released continuously through Kural 1115**. No Part 013 English record has been created.
+English Parts **001–012 are fully released continuously through Kural 1115**.
 
 ## Released English counts
 
@@ -58,61 +56,29 @@ English Parts **001–012 are fully released continuously through Kural 1115**. 
 - Part 011: **23/23 `release-ready`** — through Kural 1010.
 - Part 012: **23/23 `release-ready`** — through Kural **1115**.
 
-## Latest released English baseline — Part 012
+Latest released English baseline remains Part 012:
 
-Tamil basis: [`../../AUDIT_PART_012.md`](../../AUDIT_PART_012.md) — **PASS / ARCHIVAL-READY**.
+- Tamil basis: [`../../AUDIT_PART_012.md`](../../AUDIT_PART_012.md) — **PASS / ARCHIVAL-READY**;
+- editorial review: [`reviews/PART_012_REVIEW.md`](reviews/PART_012_REVIEW.md);
+- release report: [`reviews/PART_012_RELEASE_REPORT.md`](reviews/PART_012_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
 
-Editorial review: [`reviews/PART_012_REVIEW.md`](reviews/PART_012_REVIEW.md).
+Released Parts 001–012 must remain untouched merely to harmonize later wording.
 
-Release report: [`reviews/PART_012_RELEASE_REPORT.md`](reviews/PART_012_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
+## Part 013 Tamil basis — VERIFIED, NOT YET AUDITED
 
-Released Parts 001–012 must remain untouched merely to harmonize later wording. Their documented vocabulary, source-check corrections and source-sensitive protections remain binding.
+Part 013 has **22 / 22** verified Tamil records for scans **261–282 / printed pages 228–249 / Kural 1116–1225**.
 
-Part 012 remains closed with **23/23 `release-ready`** pages through Kural 1115, including its physical `Porul — Civic Life → Inbam title/blank leaves → Inbam — Clandestine Love` sequence.
+The direct-verification gate confirmed the structural transition `இன்பம் — களவியல்` → `இன்பம் — கற்பியல்`, corrected three first-pass transcription errors at Kural **1147 commentary**, **1152 commentary**, and **1212 commentary**, and directly confirmed the source-sensitive Kural **1220** reading plus Kural 1152 `வந்துதிகிறது!` wording.
 
-## Part 013 Tamil basis — FIRST PASS ONLY
-
-Controlling source: `திருக்குறள்_கலைஞர்_உரை_part_013_pages_261-282.pdf`
-
-Current Tamil state:
-
-- physical records: **22 / 22**;
-- overall scans: **261–282**;
-- Part-local pages: **1–22**;
-- printed pages: **228–249**;
-- Kural range: **1116–1225**;
-- first-pass `needs-review`: **22 / 22**;
-- `verified`: **0 / 22**;
-- audit: **not started**;
-- English eligibility: **no**.
-
-The first-pass source hierarchy is recorded as:
-
-- scans **261–277**: `இன்பம் — களவியல்`;
-- scans **278–282**: `இன்பம் — கற்பியல்`.
-
-The transition occurs at scan **278 / printed page 245 / Kural 1201**. Chapter 112 is completed at scan 261; chapters 113–122 are complete in this source unit; chapter 123 begins on scan 282 and is present only through Kural **1225**.
-
-The incoming boundary passes at printed page **227 → 228 / Kural 1115 → 1116**.
-
-Source-sensitive first-pass forms that require deliberate checking during the next Tamil verification gate include:
-
-- scan **268 / Kural 1152 commentary**: `வந்துதிகிறது!`;
-- scan **281 / Kural 1220**:
-  ```text
-  நனவினான் நந்தத்தார் என்பர் கனவினான்
-  காணார்கொல் இவ்வூ ரவர்.
-  ```
-
-These are not English terminology decisions and must not be normalized or translated yet. Part 013 English remains ineligible until the Tamil direct-verification and audit gates are complete.
+English Part 013 remains **not started**. Do not create English draft pages until the separate Tamil audit declares Part 013 archival-ready.
 
 ## Exact next activity
 
-**Part 013 Tamil direct visual verification — all 22 physical pages / scans 261–282.**
+**Part 013 Tamil audit / archival-ready gate.**
 
-Verify every Tamil first-pass record directly against the controlling scan and promote only passing records to `verified`. Record every real correction, including source-sensitive or unusual printed forms, and recheck the `களவியல் → கற்பியல்` hierarchy transition.
+Check all 22 verified page records, complete scan/printed-page/Kural/chapter continuity, adjacent-part boundaries, the `களவியல் → கற்பியல்` transition, all three verification corrections and protected source readings. Create `../../AUDIT_PART_013.md` and make an explicit archival-ready decision only after the audit passes.
 
-Do not combine this gate with `AUDIT_PART_013.md`, Part 013 English work, or Parts 014–015 transcription.
+Do not begin Part 013 English in the audit activity. Do not begin Parts 014–015.
 
 Permanent cadence:
 

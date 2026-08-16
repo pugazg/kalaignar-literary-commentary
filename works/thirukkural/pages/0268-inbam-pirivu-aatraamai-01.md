@@ -6,10 +6,10 @@ printed_page: "235"
 work: "thirukkural"
 section: "இன்பம் — களவியல் — பிரிவு ஆற்றாமை"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_013_pages_261-282.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 # 116. பிரிவு ஆற்றாமை
@@ -22,7 +22,7 @@ transcription_method: "manual transcription from source scan; direct visual veri
 **1152. இன்கண் உடைத்தவர் பார்வல் பிரிவஞ்சும்  
 புன்கண் உடைத்தால் புணர்வு.**
 
-முன்பெல்லாம் அவரைக் கண்களால் தழுவிக் கொண்டதே இன்பமாக இருந்தது; ஆனால், இப்போது உடல் தழுவிக்கொள்ளும்போதுகூடப் ‘பிரிவு’ என்னும் அச்சத்தால் துன்பமல்லவா வந்துதிகிறது!
+முன்பெல்லாம் அவரைக் கண்களால் தழுவிக் கொண்டதே இன்பமாக இருந்தது; ஆனால், இப்போது உடல் தழுவிக் களிக்கும்போதுகூடப் பிரிவை எண்ணும் அச்சத்தால் துன்பமல்லவா வந்துதிகிறது!
 
 **1153. அரிதரோ தேற்றம் அறிவுடையார் கண்ணும்  
 பிரிவோ ரிடத்துண்மை யான்.**
