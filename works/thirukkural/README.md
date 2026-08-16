@@ -17,14 +17,14 @@
 | 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 22/22** |
 | 010 | `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf` | 23 | 192–214 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 23/23** |
 | 011 | `திருக்குறள்_கலைஞர்_உரை_part_011_pages_215-237.pdf` | 23 | 215–237 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 23/23** |
-| 012 | `திருக்குறள்_கலைஞர்_உரை_part_012_pages_238-260.pdf` | 23 | 238–260 | Tamil direct verification **COMPLETE 23/23 verified**; audit pending |
+| 012 | `திருக்குறள்_கலைஞர்_உரை_part_012_pages_238-260.pdf` | 23 | 238–260 | audited / **ARCHIVAL-READY — 23/23 verified**; English not started |
 | 013 | `திருக்குறள்_கலைஞர்_உரை_part_013_pages_261-282.pdf` | 22 | 261–282 | source received; **not started** |
 | 014 | `திருக்குறள்_கலைஞர்_உரை_part_014_pages_283-302.pdf` | 20 | 283–302 | source received; **not started** |
 | 015 | `திருக்குறள்_கலைஞர்_உரை_part_015_pages_303-323.pdf` | 21 | 303–323 | source received; **not started** |
 
-Tamil Parts **001–011 are archival-ready continuously** through overall scan **237** / printed page **204** / Kural **1010**.
+Tamil Parts **001–012 are archival-ready continuously** through overall scan **260** / printed page **227** / Kural **1115**.
 
-Part **012 Tamil direct visual verification is complete** for all physical scans **238–260**, but Part 012 is **not yet archival-ready** because the separate part audit has not been performed. English Parts **001–011 are released continuously** through Kural **1010**; Part 012 English is not eligible to begin until the Part 012 Tamil audit passes.
+English Parts **001–011 are released continuously** through Kural **1010**. Part 012 English is now eligible for its separate first-pass translation gate.
 
 ## Part 011 English — RELEASE COMPLETE
 
@@ -32,75 +32,62 @@ Editorial review: [`translations/en/reviews/PART_011_REVIEW.md`](translations/en
 
 Release report: [`translations/en/reviews/PART_011_RELEASE_REPORT.md`](translations/en/reviews/PART_011_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
 
-Released English scope is **23 / 23** pages for scans **215–237 / printed pages 182–204 / Kural 896–1010**. All Part 011 English pages are `release-ready` and the released protections recorded in the review/release report remain binding.
+Released English scope is **23 / 23** pages for scans **215–237 / printed pages 182–204 / Kural 896–1010**. Released Part 011 corrections/protections remain binding and Parts 001–011 must not be altered merely to harmonize later wording.
 
-## Part 012 Tamil — DIRECT VISUAL VERIFICATION COMPLETE
+## Part 012 Tamil — ARCHIVAL-READY
 
 Controlling source: `திருக்குறள்_கலைஞர்_உரை_part_012_pages_238-260.pdf`
 
-Verified scope:
+Audit record: [`AUDIT_PART_012.md`](AUDIT_PART_012.md) — **PASS / ARCHIVAL-READY**.
+
+Final audited scope:
 
 - physical pages: **23 / 23**;
 - overall scans: **238–260**;
 - Part-local pages: **1–23**;
-- printed pages: **205–218**, followed by two unnumbered section leaves, then **221–227**;
-- Kural range physically present: **1011–1115**;
+- printed pages: **205–218**, then two unnumbered physical leaves, then **221–227**;
+- Kural range: **1011–1115**;
 - `verified`: **23 / 23**;
 - `needs-review`: **0**;
 - `partial`: **0**;
 - `blocked`: **0**;
-- audit: **not started**.
+- missing/duplicated records: **0**.
 
-Every Part 012 record now carries:
+The Part 011 → Part 012 incoming boundary passes at printed page **204 → 205 / Kural 1010 → 1011**.
 
-```yaml
-status: "verified"
-transcription_method: "direct visual comparison with source scan"
-```
+The Part 012 → Part 013 outgoing boundary was checked from the supplied Part 013 first page only: printed page **227 → 228 / Kural 1115 → 1116**. Part 013 transcription remains not started.
 
-The Part 011 → Part 012 incoming boundary remains source-supported at printed page **204 → 205 / Kural 1010 → 1011**.
+The source-visible structure is preserved as:
 
-The source-visible structure was directly verified as:
-
-- scans **238–251**: `பொருள் — குடியியல்`, covering chapters 102–108 and Kural **1011–1080**;
-- scan **252**: centered section-title leaf `இன்பம்`;
+- scans **238–251**: `பொருள் — குடியியல்`, chapters 102–108, Kural **1011–1080**;
+- scan **252**: centered `இன்பம்` section-title leaf;
 - scan **253**: no independent printed body text; reverse-side show-through only;
-- scans **254–260**: `இன்பம் — களவியல்`, beginning chapter 109 at Kural **1081** and continuing through Kural **1115**;
-- chapter 112 `நலம் புனைந்து உரைத்தல்` begins on scan **260 / printed page 227** and is only partially present in Part 012, through Kural **1115**.
+- scans **254–260**: `இன்பம் — களவியல்`, Kural **1081–1115**;
+- scan **260 / printed page 227** begins chapter 112 `நலம் புனைந்து உரைத்தல்`, present in Part 012 only through Kural **1115**.
 
-The supplied Part 013 first page was inspected only for outgoing-boundary context: printed page **228** begins with Kural **1116**. No Part 013 page record has been created.
+Exactly three real first-pass corrections discovered during direct verification remain authoritative:
 
-### Corrections discovered during Part 012 verification
+1. Kural **1018 commentary** → `அகன்றுவிட்டதாகக் கருத வேண்டும்.`
+2. Kural **1035 commentary** → `ஊதியம் பெற்று உண்ணும் இயல்புடையவர்`
+3. Kural **1048 commentary** → `கொலை செய்வதுபோல நேற்று...`
 
-Exactly three first-pass transcription corrections were required:
+Two unusual printed verse readings were directly verified and are protected against normalization:
 
-1. scan **239 / Kural 1018 commentary**
-   - first pass: `அகன்றுவிடத்தான் வேண்டும்.`
-   - verified source: `அகன்றுவிட்டதாகக் கருத வேண்டும்.`
-2. scan **242 / Kural 1035 commentary**
-   - first pass: `ஊதியம் பெற்று உண்பும் இயல்புடையவர்`
-   - verified source: `ஊதியம் பெற்று உண்ணும் இயல்புடையவர்`
-3. scan **245 / Kural 1048 commentary**
-   - first pass: `கொலை செய்வதுபோல் நேற்று...`
-   - verified source: `கொலை செய்வதுபோல நேற்று...`
-
-### Source-sensitive readings directly confirmed
-
-These first-pass readings were checked against the scan and retained exactly rather than normalized from another edition:
-
-- scan **251 / Kural 1077**:
-  `ஈங்கை விதிரார் கயவர் கொடிறுடைக்குங்`  
-  `கூன்கையர் அல்லா தவர்க்கு.`
-- scan **257 / Kural 1098**:
-  `அசையியற் குண்டாண்டோர் ஏஎர்யான் நோக்கப்`  
-  `பசையினள் பைய நகும்.`
-
-Parts **013–015** remain received but not started.
+- Kural **1077**: `ஈங்கை விதிரார் கயவர் கொடிறுடைக்குங் / கூன்கையர் அல்லா தவர்க்கு.`
+- Kural **1098**: `அசையியற் குண்டாண்டோர் ஏஎர்யான் நோக்கப் / பசையினள் பைய நகும்.`
 
 ## அடுத்த செயல்
 
-Perform the separate **Part 012 Tamil audit / archival-ready gate**.
+Perform the separate **Part 012 English project translation — first pass** for all **23 aligned physical pages / scans 238–260**.
 
-The audit must confirm all 23 physical page records, scan/local-page continuity, printed-page and Kural continuity, section/chapter transitions, the `இன்பம்` title and blank leaves, incoming and outgoing boundaries, and the three verification corrections above. Only after that review should `AUDIT_PART_012.md` be created with an explicit archival-ready decision.
+Create the aligned English page layer only as:
 
-Do **not** begin Part 012 English translation during the audit gate. Do **not** begin Part 013 transcription in the same activity. Do **not** alter released English Parts 001–011.
+```yaml
+translation_type: "project_translation"
+status: "draft"
+source_tamil_status: "verified"
+```
+
+Preserve the physical alignment of scan 252 (`இன்பம்` title) and scan 253 (blank/reverse-show-through) rather than omitting them. Preserve the `பொருள் — குடியியல்` → `இன்பம் — களவியல்` structural transition and the protected Kural 1077/1098 source readings. Stop after first pass.
+
+Do **not** source-check, editorial-review or release Part 012 English in the same activity. Do **not** begin Part 013 Tamil transcription. Do **not** alter released English Parts 001–011.
