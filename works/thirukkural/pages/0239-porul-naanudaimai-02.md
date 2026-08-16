@@ -6,10 +6,10 @@ printed_page: "206"
 work: "thirukkural"
 section: "பொருள் — குடியியல் — நாணுடைமை"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_012_pages_238-260.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **1016. நாண்வேலி கொள்ளாது மன்னோ வியன்ஞாலம்  
@@ -25,7 +25,7 @@ transcription_method: "manual transcription from source scan; direct visual veri
 **1018. பிறர்நாணத் தக்கது தானாணா னாயின்  
 அறநாணத் தக்க துடைத்து.**
 
-வெட்கப்படவேண்டிய அளவுக்குப் பழிக்கு ஆளானவர்கள் அதற்காக வெட்கப்படாமல் இருந்தால் அவர்களைவிட்டு அறநெறி வெட்கப்பட்டு அகன்றுவிடத்தான் வேண்டும்.
+வெட்கப்படவேண்டிய அளவுக்குப் பழிக்கு ஆளானவர்கள் அதற்காக வெட்கப்படாமல் இருந்தால் அவர்களைவிட்டு அறநெறி வெட்கப்பட்டு அகன்றுவிட்டதாகக் கருத வேண்டும்.
 
 **1019. குலஞ்சுடும் கொள்கை பிழைப்பின் நலஞ்சுடும்  
 நாணின்மை நின்றக் கடை.**
