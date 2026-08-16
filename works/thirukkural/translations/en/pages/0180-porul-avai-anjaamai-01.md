@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Porul — Ministerial Affairs — Fearlessness in the Assembly"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -38,6 +38,6 @@ without fearing the assembly.**
 
 To answer interruptions while speaking in an assembly without fear, one must have learned grammar and the skill of measure called logic.
 
-> Draft source note: the audited Tamil commentary prints `தருக்கமென்படும் அளவைக் திறமும்`. The first-pass English deliberately does not repair or replace that unusual source phrase from expected grammar or another edition.
+> Source-check note: the audited Tamil commentary prints `தருக்கமென்படும் அளவைக் திறமும்`. The source-checked English deliberately does not repair or replace that unusual source phrase from expected grammar or another edition.
 
 <!-- Source scan page: 180; Part 009 local page: 11; printed page: 147 -->
