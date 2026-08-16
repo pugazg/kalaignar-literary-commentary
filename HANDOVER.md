@@ -46,9 +46,9 @@ Parts **001–009 are audited / ARCHIVAL-READY continuously** through:
 - printed page **158**;
 - Kural **780**.
 
-Latest Tamil audit: `works/thirukkural/AUDIT_PART_009.md`.
+Latest completed Tamil audit: `works/thirukkural/AUDIT_PART_009.md`.
 
-Part 010 Tamil first-pass transcription is now **COMPLETE 23 / 23**, but direct visual verification has not begun. All Part 010 records remain `needs-review`.
+Part 010 Tamil first-pass transcription and direct visual verification are now both **COMPLETE 23 / 23**. All Part 010 records are `verified`, but the separate Part 010 audit has **not** yet been performed, so Part 010 is **not archival-ready yet**.
 
 ## English project translation
 
@@ -119,34 +119,32 @@ Release report:
 
 Release decision: **PASS — PART 009 ENGLISH RELEASE APPROVED**.
 
-## Released structural vocabulary through Part 009
+Released structural vocabulary through Part 009:
 
 - `அமைச்சியல்` → **Ministerial Affairs**;
 - `அரணியல்` → **Fortification Affairs**;
 - `கூழியல்` → **Wealth**;
 - `படையியல்` → **Military Affairs**.
 
-## Released Part 009 source-check protections
+Released Part 009 source-check protections remain binding:
 
-1. **Kural 680** — **“those with little support ... the trembling among their own”**; do not restore the unsupported territorial “smaller domain” wording.
-2. **Kural 691** — **“kings”**; do not restore unsupported “contentious.”
-3. **Kural 717** — retain the clause ending **“there is a lapse”**, grounded in the supplied edition's verified final `இழுக்கு`.
-4. **Kural 725 commentary** — retain **“the skill of measure called logic”** from `தருக்கமென்படும் அளவைக் திறமும்`.
-5. **Kural 733 commentary** — retain **“possesses wealth to that measure”** from `மளவுக்கு வளம்`.
-6. **Kural 771 commentary** — retain **“have become memorial stones”** from `நடுகல்லாய்ப் போனவர்கள்`.
-7. **Kural 773** — retain Kalaignar's explicit **great manliness / manliness** framing.
+1. Kural **680** — **“those with little support ... the trembling among their own”**;
+2. Kural **691** — **“kings”**, without unsupported “contentious”;
+3. Kural **717** — retain the clause ending **“there is a lapse”**, grounded in this edition's final `இழுக்கு`;
+4. Kural **725 commentary** — retain **“the skill of measure called logic”** from `தருக்கமென்படும் அளவைக் திறமும்`;
+5. Kural **733 commentary** — retain **“possesses wealth to that measure”** from `மளவுக்கு வளம்`;
+6. Kural **771 commentary** — retain **“have become memorial stones”** from `நடுகல்லாய்ப் போனவர்கள்`;
+7. Kural **773** — retain Kalaignar's **great manliness / manliness** framing.
 
-Kalaignar's institutional/public vocabulary and direct images remain protected. No substantive Kural/commentary body text was changed during the Part 009 release gate.
-
-# Part 010 Tamil — FIRST PASS COMPLETE / VERIFICATION PENDING
+# Part 010 Tamil — DIRECT VISUAL VERIFICATION COMPLETE / AUDIT PENDING
 
 Controlling source:
 
 `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf`
 
-The actual supplied scan was inspected across all **23** physical pages before first-pass creation.
+The actual supplied scan was inspected directly across all **23** physical pages.
 
-Source intake established:
+Verified source scope:
 
 - physical pages: **23**;
 - overall scans: **192–214**;
@@ -159,7 +157,7 @@ Source intake established:
 
 Part 009 → Part 010 continuity is established at printed page **158 → 159** / Kural **780 → 781**.
 
-Do not infer the continuation after Kural 895 without the next controlling source scan.
+Do not infer Kural 896 onward without the next controlling source scan.
 
 ## Part 010 chapter / page map
 
@@ -176,9 +174,9 @@ Do not infer the continuation after Kural 895 without the next controlling sourc
 - scans **212–213** / pp. **179–180** — `89. உட்பகை` — **881–890**;
 - scan **214** / p. **181** — `90. பெரியாரைப் பிழையாமை` — **891–895** in this supplied part.
 
-## Part 010 first-pass files
+## Part 010 page files
 
-All **23 / 23** aligned Tamil records now exist:
+All **23 / 23** aligned Tamil records exist:
 
 - `0192-porul-natpu-01.md`
 - `0193-porul-natpu-02.md`
@@ -204,59 +202,60 @@ All **23 / 23** aligned Tamil records now exist:
 - `0213-porul-utpagai-02.md`
 - `0214-porul-periyaaraip-pizhaiyaamai-01.md`.
 
-Every Part 010 first-pass page currently uses:
-
-```yaml
-status: "needs-review"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
-```
-
-Current Part 010 Tamil state:
-
-- `needs-review`: **23 / 23**;
-- `verified`: **0**;
-- `partial`: **0**;
-- `blocked`: **0**.
-
-No direct visual verification status has been claimed. No `AUDIT_PART_010.md` exists. Part 010 is **not archival-ready**. Part 010 English has not begun.
-
-## Verification attention point
-
-During direct visual verification, inspect every line without importing a familiar Kural from memory. In particular, give fresh attention to scan **209 / Kural 869 commentary**, whose first-pass wording must be checked directly from the page image rather than stylistically repaired from context.
-
-# Exact next activity
-
-Perform the separate **Part 010 Tamil direct visual verification** for all **23 `needs-review` pages**, scans **192–214 / printed pages 159–181 / Kural 781–895**.
-
-## Required verification procedure
-
-1. fresh-read the mandatory startup files above;
-2. inspect all 23 existing Part 010 Tamil records and confirm they begin at `status: "needs-review"`;
-3. inspect the controlling Part 010 scan directly, page by page;
-4. compare each Kural letter-for-letter with the scan, including source-supported joins, spacing and the printed two-line structure;
-5. compare every Kalaignar commentary paragraph directly with the scan, including punctuation and paragraph boundaries;
-6. verify chapter headings and the running-header hierarchy `பொருள் — நட்பியல் — <chapter>`;
-7. verify `scan_page`, `part: 10`, `part_page`, `printed_page`, `section`, `page_type`, `language`, canonical `source_filename`, source marker and other metadata;
-8. distinguish current-page printed text from reverse-side bleed-through or scan artefacts;
-9. document every real first-pass correction found during direct comparison;
-10. promote only pages that pass direct comparison to:
+Every Part 010 page now uses:
 
 ```yaml
 status: "verified"
 transcription_method: "direct visual comparison with source scan"
 ```
 
-11. synchronize `works/thirukkural/README.md`, root `README.md`, and this handover after verification;
-12. stop at the end of direct visual verification.
+Final Part 010 verification state:
 
-## Do not combine with verification
+- `verified`: **23 / 23**;
+- `needs-review`: **0**;
+- `partial`: **0**;
+- `blocked`: **0**.
+
+## Direct verification outcome
+
+The page-by-page comparison found **no first-pass body-text correction requiring a change**. Kural text, two-line structures, commentary, chapter headings, running-header hierarchy, pagination metadata and source markers all passed direct comparison.
+
+The previously flagged scan **209 / Kural 869 commentary** was checked carefully. The source itself prints the repeated wording:
+
+`அஞ்சிடும் கோழைகளாகவும், அறிவில்லாக் கோழைகளாகவும் பகைவர்கள் இருப்பின் அவர்களை எதிர்ப்போரை விட்டு வெற்றியெனும் இன்பம் விலகாமலே நிலைத்து நிற்கும்.`
+
+That wording is source-supported and must not be silently smoothed, normalized or reconstructed.
+
+No `AUDIT_PART_010.md` exists yet. Part 010 is therefore **verified but not archival-ready**. Part 010 English has not begun.
+
+# Exact next activity
+
+Perform the separate **Part 010 Tamil audit / archival-ready gate**.
+
+## Required Part 010 audit procedure
+
+1. fresh-read the mandatory startup files above;
+2. inspect all **23** verified Part 010 records and the controlling Part 010 scan as needed;
+3. confirm one-record-per-scan coverage for overall scans **192–214**;
+4. confirm Part-local pages **1–23** and printed pages **159–181** are continuous;
+5. confirm Kural continuity **781–895** within the supplied part;
+6. confirm chapter progression **79–90** and `பொருள் — நட்பியல்` section metadata at the source-supported boundaries;
+7. confirm Part 009 → Part 010 continuity at printed page **158 → 159** / Kural **780 → 781**;
+8. confirm all 23 records are `verified` with `transcription_method: "direct visual comparison with source scan"`;
+9. explicitly record that direct visual verification found no first-pass body-text correction and that the unusual Kural 869 commentary repetition is source-confirmed;
+10. identify any unresolved source limitation or blocker rather than guessing;
+11. create `works/thirukkural/AUDIT_PART_010.md` only after the audit checks are complete;
+12. make an explicit **ARCHIVAL-READY** or non-release decision based on the audit;
+13. synchronize work/root status, English `TRANSLATION_STATUS.md` if Part 010 becomes eligible for English, and this handover;
+14. stop after the Tamil audit gate.
+
+## Do not combine with the Part 010 audit
 
 Do **not**:
 
-- create `AUDIT_PART_010.md` during this activity;
-- call Part 010 archival-ready merely because all pages verify;
-- begin Part 010 English translation;
+- begin Part 010 English translation in the same activity;
+- create Part 010 English pages during the audit;
 - alter released English Parts 001–009 merely for harmonization;
 - infer or transcribe Kural 896 onward without the next controlling source.
 
-If all 23 pages pass verification with no unresolved blocker, the next separate activity will be **Part 010 Tamil audit / archival-ready gate**.
+If the Part 010 audit passes, the next separate activity will be **Part 010 English project translation — first pass** for the aligned verified Tamil pages.
