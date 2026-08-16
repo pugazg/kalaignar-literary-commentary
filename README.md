@@ -6,8 +6,8 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–010 **ARCHIVAL-READY** through Kural 895; Part 011 Tamil direct verification **COMPLETE 23/23** through Kural 1010, audit pending |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–010 **RELEASED continuously through supplied Kural 895**; Part 011 not started |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–011 **ARCHIVAL-READY continuously through overall scan 237 / printed page 204 / Kural 1010** |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–010 **RELEASED continuously through Kural 895**; Part 011 eligible for first pass, not started |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -28,24 +28,36 @@ The project translation follows an explicit fidelity rule: **retain Kalaignar's 
 
 ## தற்போதைய நிலை — திருக்குறள்
 
-Tamil Parts **001–010** are audited / archival-ready continuously through overall scan **214** / printed page **181** / Kural **895**.
+Tamil Parts **001–011** are now audited / archival-ready continuously through overall scan **237** / printed page **204** / Kural **1010**.
 
-Part 011 Tamil has completed **direct visual verification for all 23 / 23 pages**, scans **215–237**, printed pages **182–204**, Kural **896–1010**. Every Part 011 Tamil record is now `verified`; the separate Part 011 audit / archival-ready gate is still pending.
+Part 011 Tamil audit: [`works/thirukkural/AUDIT_PART_011.md`](works/thirukkural/AUDIT_PART_011.md) — **PASS / ARCHIVAL-READY**.
 
-The Part 010 → Part 011 boundary is directly source-confirmed at printed page **181 → 182 / Kural 895 → 896**. Part 011 begins by completing chapter 90 `பெரியாரைப் பிழையாமை`, then continues through chapter 101 `நன்றியில் செல்வம்`.
+Part 011 audited scope:
 
-The source's structural transition is preserved: scans **215–225** remain `பொருள் — நட்பியல்`, while from scan **226 / printed page 193 / chapter 96 குடிமை** the source changes to `பொருள் — குடியியல்`.
+- **23 / 23** physical pages;
+- scans **215–237**;
+- printed pages **182–204**;
+- Kural **896–1010**;
+- chapters **90–101**, with scan 215 completing chapter 90 begun in Part 010;
+- `verified`: **23 / 23**;
+- unresolved: **0**.
 
-Direct verification produced exactly four corrections: Kural **904** `மனையாளை யஞ்சும்`, Kural **905** `இல்லாளை யஞ்சுவான்`, Kural **911** commentary `பொருள் திரட்டுவதையே`, and Kural **927** commentary `மயங்குவதைக் கண்டு`. Source-sensitive Kalaignar wording at Kural **899**, **948**, **972**, and other unusual printed forms remains preserved rather than normalized.
+The Part 010 → Part 011 boundary passes at printed page **181 → 182 / Kural 895 → 896**. The source-visible structure is preserved: scans **215–225** remain `பொருள் — நட்பியல்`; from scan **226 / printed page 193 / chapter 96 குடிமை**, the running header changes to `பொருள் — குடியியல்`.
 
-Part 011 is **not yet ARCHIVAL-READY** because `AUDIT_PART_011.md` has not been created. English Part 011 has not started and is not eligible until the Tamil audit passes.
+Direct verification produced exactly four corrections retained by the audit: Kural **904** `மனையாளை யஞ்சும்`, Kural **905** `இல்லாளை யஞ்சுவான்`, Kural **911** commentary `பொருள் திரட்டுவதையே`, and Kural **927** commentary `மயங்குவதைக் கண்டு`.
+
+Source-sensitive Kalaignar wording remains protected, including Kural **899**'s `அடக்குமுறை ஆட்சி` framing, Kural **948**'s extension to `சமுதாய நோய்`, Kural **972**'s `பிறப்பினால் அனைவரும் சமம்` formulation, and the unusual source-supported orthography/punctuation documented in the audit.
 
 English Parts **001–010** have completed the full translation workflow continuously through Kural **895**. Released Part 010 protections remain unchanged, including **women for hire** at Kural 813/822, Kural 835's **seven periods**, Kural 850's evidence/“ghosts” framing, Kalaignar's supplied Kural 861 interpretation, Kural 869's repeated **“cowards who are afraid, and ignorant cowards”**, Kural 876's enemy/friendship nuance, and Kural 895's **ruler / government** distinction.
+
+Part 011 English has **not started**. It is now eligible for its separate first-pass translation gate.
 
 No Kural **1011** onward has been inferred or created.
 
 ## அடுத்த செயல்
 
-Perform the separate **Part 011 Tamil audit / archival-ready gate** across all 23 verified records. Only after an explicit audit PASS may Part 011 English first-pass translation begin.
+Part 011 English project translation — **first pass for all 23 aligned pages**, scans **215–237 / Kural 896–1010**.
+
+Create only `draft` English records with `translation_type: "project_translation"`. Do not combine the source-check, editorial/glossary reconciliation or release gates with the first pass.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), and [`HANDOVER.md`](HANDOVER.md).
