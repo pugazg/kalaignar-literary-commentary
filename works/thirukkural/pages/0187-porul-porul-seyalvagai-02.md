@@ -6,10 +6,10 @@ printed_page: "154"
 work: "thirukkural"
 section: "பொருள் — கூழியல் — பொருள் செயல்வகை"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **756. உறுபொருளும் உல்கு பொருளுந்தன் ஒன்னார்த்  
