@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Porul — Friendship — Possession of Little Understanding"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -26,13 +26,13 @@ that life remains a disease until it departs.**
 
 For one who has neither his own good sense nor the willingness to listen to the good sense expressed by others, that condition itself remains a disease that does not leave him throughout his life.
 
-**849. The one who does not see claims to show; he himself does not see, while the one who does not see  
-thinks he has seen, in the manner he himself sees.**
+**849. One who tries to make an unseeing person see becomes unseeing himself;  
+the unseeing person thinks he has seen, only in the way he himself sees.**
 
 An ignorant person takes only what he himself knows and presents himself as one who possesses understanding. The person who tries to make him truly knowledgeable ends up bringing himself down to a state of ignorance.
 
-**850. One who denies what the world says exists, when it is shown by evidence,  
-is placed among the “ghosts” of this world.**
+**850. One who says that what the people of the world call existent does not exist  
+will be placed among the “ghosts” of the world.**
 
 A person who deliberately denies as nonexistent something that has been clearly demonstrated with evidence to be true should be placed only in the list of “ghosts.”
 
