@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Porul — Statecraft — Compassion"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -26,7 +26,7 @@ without allowing their duty to be impaired.**
 
 Those who stand foremost both in not failing in their duty and in showering compassion have a rightful claim upon this whole world.
 
-**579. Even toward those disposed to punish, showing compassion  
+**579. Even toward those whose nature is to seek one's destruction, showing compassion  
 and having the strength to forbear is the highest quality.**
 
 Showing patience even toward those whose nature is to seek one's destruction is a very high virtue.
