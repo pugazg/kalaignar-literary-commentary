@@ -6,10 +6,10 @@ printed_page: "131"
 work: "thirukkural"
 section: "பொருள் — அமைச்சியல் — சொல்வன்மை"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 # 65. சொல்வன்மை
@@ -27,7 +27,7 @@ transcription_method: "manual transcription from source scan; direct visual veri
 **643. கேட்டார்ப் பிணிக்கும் தகையவாய்க் கேளாரும்  
 வேட்ப மொழிவதாம் சொல்.**
 
-கேட்டோரைத் கவரும் தன்மையுடையதாகவும், கேட்காதவரும் தேடிவந்து விரும்பிக் கேட்கக் கூடியதாகவும் அமைவதே சொல்வன்மை எனப்படும்.
+கேட்டோரைக் கவரும் தன்மையுடையதாகவும், கேட்காதவரும் தேடிவந்து விரும்பிக் கேட்கக் கூடியதாகவும் அமைவதே சொல்வன்மை எனப்படும்.
 
 **644. திறனறிந்து சொல்லுக சொல்லை அறனும்  
 பொருளும் அதனினூஉங் கில்.**
