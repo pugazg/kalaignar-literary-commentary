@@ -6,10 +6,10 @@ printed_page: "226"
 work: "thirukkural"
 section: "இன்பம் — களவியல் — புணர்ச்சி மகிழ்தல்"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_012_pages_238-260.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **1106. உறுதோ றுயிர்தளிர்ப்பத் தீண்டலாற் பேதைக்  
