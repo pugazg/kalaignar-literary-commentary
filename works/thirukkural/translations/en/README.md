@@ -33,18 +33,20 @@ Permanent workflow:
 - Part 008: **21/21 `release-ready`**, through Kural 670;
 - Part 009: **22/22 `release-ready`**, through Kural 780.
 
-Latest released review artefacts:
+Latest released Part 009 artefacts:
 
 - [`reviews/PART_009_REVIEW.md`](reviews/PART_009_REVIEW.md)
 - [`reviews/PART_009_RELEASE_REPORT.md`](reviews/PART_009_RELEASE_REPORT.md)
 
 Released Parts 001–009 must not be changed merely to harmonize later wording.
 
-## Part 010 — ENGLISH SOURCE-CHECK COMPLETE
+## Part 010 — EDITORIAL REVIEW COMPLETE
 
 Part 010 Tamil audit: [`../../AUDIT_PART_010.md`](../../AUDIT_PART_010.md) — **PASS / ARCHIVAL-READY**.
 
-English scope:
+Editorial review: [`reviews/PART_010_REVIEW.md`](reviews/PART_010_REVIEW.md).
+
+Scope:
 
 - aligned pages: **23 / 23**;
 - scans **192–214**;
@@ -57,54 +59,56 @@ English scope:
 Current Part 010 English state:
 
 - `draft`: **0**;
-- `source-checked`: **23 / 23**;
-- `editorial-reviewed`: **0**;
+- `source-checked`: **0**;
+- `editorial-reviewed`: **23 / 23**;
 - `release-ready`: **0**;
 - `source-limited`: **0**;
 - `blocked`: **0**.
 
-Every Part 010 page now remains at the source-check gate:
+Every Part 010 page now remains at the editorial-review gate:
 
 ```yaml
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ```
 
-### Source-check corrections retained
+### Controlled Part 010 section / headings
 
-The complete direct comparison against the 23 verified Tamil pages produced seven source-fidelity corrections/refinements across six English records:
+`நட்பியல்` is now controlled as **Friendship**. The source itself keeps that structural label even when later chapters move into discord and enmity, so the project does not invent a broader English section title.
 
-- Kural **813**: **women for hire**, removing the added first-pass “sell intimacy” wording;
-- Kural **822**: **women for hire**, keeping Kalaignar's fuller virtue/appearance explanation in the commentary rather than expanding the Kural line;
-- Kural **842 commentary**: removed unsupported **earned**;
-- Kural **849**: corrected the subject relationship using Kalaignar's commentary as the permitted interpretive aid;
-- Kural **850**: removed commentary-only evidence language from the Kural while retaining Kalaignar's evidence/truth argument in the commentary;
-- Kural **867 commentary**: removed the unsupported added phrase “and harmful to us”;
-- Kural **887**: removed the unsupported material qualifier “metal” from `செப்பு`, retaining *seppu* in the commentary.
+Controlled headings:
 
-### Source-sensitive protections
+- 79 **Friendship**;
+- 80 **Examining Friendship**;
+- 81 **Long-Standing Friendship**;
+- 82 **Harmful Friendship**;
+- 83 **False Friendship**;
+- 84 **Folly**;
+- 85 **Possession of Little Understanding**;
+- 86 **Discord**;
+- 87 **Excellence in Enmity**;
+- 88 **Discerning Enmity**;
+- 89 **Internal Enmity**;
+- 90 **Not Offending the Great**.
 
-The source-check deliberately retains:
+Chapter 87 was refined from the provisional **The Character of Enmity** to **Excellence in Enmity** during editorial review, restoring the force of `மாட்சி` and following Kalaignar's supplied Kural 861 explanation.
 
-- Kural **835** as **seven periods**, without importing “seven births”;
-- Kalaignar's supplied Kural **861** interpretation about leaving the weak and preferring to fight the strong;
-- scan **209 / Kural 869 commentary** as **“cowards who are afraid, and ignorant cowards”**, preserving the verified repetition;
-- Kural **876**'s nuanced enemy/friendship stance during danger;
-- Kural **895**'s distinction between the Kural's ruler and Kalaignar commentary's government framing;
-- the Kural **850** “ghosts” image and Kalaignar's evidence/truth framing.
+### Fidelity protections retained
+
+All seven source-check corrections remain intact, including **women for hire** at Kural 813/822, the corrected Kural 849 subject relation, separation of Kural 850 from Kalaignar's evidence commentary, the Kural 867 and 887 removals of unsupported additions, and the Kural 842 correction.
+
+The review also retains Kural **835** as **seven periods**, Kural **850**'s evidence/“ghosts” commentary, Kalaignar's supplied Kural **861** interpretation, Kural **869**'s repeated **“cowards who are afraid, and ignorant cowards”**, Kural **876**'s nuanced enemy/friendship position, and Kural **895**'s ruler/government distinction.
+
+No substantive Kural or commentary body text was changed during the editorial gate. The only text-level editorial refinement was the chapter 87 heading/metadata on scans 208–209.
 
 No Kural **896** or later English text has been created or inferred.
 
-### Provisional section / headings
-
-`நட்பியல்` → **Friendship** and the current chapter headings 79–90 remain **provisional**. They have not been added as final controls to `GLOSSARY.md`; that belongs to the separate editorial consistency / glossary-reconciliation gate.
-
 ## Next project activity
 
-Perform **Part 010 English editorial consistency / glossary reconciliation** for all **23 source-checked pages**.
+Perform the separate **Part 010 English release gate** for all **23 editorial-reviewed pages**.
 
-Finalize the source-supported section rendering and chapter headings, update `GLOSSARY.md`, review recurring terminology and readability without weakening the source-check corrections, create `reviews/PART_010_REVIEW.md`, and promote only passing pages to `editorial-reviewed`.
+Check final page/Kural/metadata continuity and alignment, controlled terminology and protected source decisions, create `reviews/PART_010_RELEASE_REPORT.md`, and only then promote pages to `release-ready` if the gate passes.
 
-Do not combine that activity with the release gate. Do not create `PART_010_RELEASE_REPORT.md`, promote pages to `release-ready`, alter released Parts 001–009 merely for harmonization, or infer Kural 896 onward.
+Do not combine release with an unsupplied Tamil continuation after Kural 895.
