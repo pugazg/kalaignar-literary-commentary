@@ -43,49 +43,53 @@ Latest released artefacts:
 
 Released Parts 001–011 must not be changed merely to harmonize later wording.
 
-## Part 012 — ENGLISH SOURCE-CHECK COMPLETE
+## Part 012 — ENGLISH EDITORIAL REVIEW COMPLETE
 
 Tamil audit: [`../../AUDIT_PART_012.md`](../../AUDIT_PART_012.md) — **PASS / ARCHIVAL-READY**.
 
-The complete Part 012 English layer has now passed both first-pass translation and the separate direct source-check for:
+Editorial review: [`reviews/PART_012_REVIEW.md`](reviews/PART_012_REVIEW.md).
+
+The complete Part 012 English layer has now completed first-pass translation, direct source-check, and editorial consistency / glossary reconciliation for:
 
 - physical pages: **23 / 23**;
 - scans **238–260**;
 - printed pages **205–218**, two unnumbered physical leaves, then **221–227**;
 - Kural **1011–1115**;
-- English `draft`: **0**;
-- `source-checked`: **23 / 23**;
-- `editorial-reviewed`: **0**;
+- `draft`: **0**;
+- `source-checked`: **0**;
+- `editorial-reviewed`: **23 / 23**;
 - `release-ready`: **0**.
 
 Every Part 012 English record now carries:
 
 ```yaml
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ```
 
-The source structure and physical alignment remain preserved:
+The controlled source structure and physical alignment are:
 
 - scans **238–251**: `Porul — Civic Life`;
 - scan **252**: standalone `Inbam` title leaf;
 - scan **253**: blank/reverse-show-through leaf;
-- scans **254–260**: provisionally `Inbam — Clandestine Love`.
+- scans **254–260**: `Inbam — Clandestine Love`.
 
-Every Kural translation and Kalaignar commentary paragraph was compared against the corresponding verified Tamil record. The controlling scan was re-inspected at source-sensitive points. No source-fidelity body-text correction was required during this gate; all 23 passing records changed only from `draft` to `source-checked`.
+The editorial gate retains all source-checked body text without substantive change. It establishes the controlled Part 012 chapter headings **102–112** as **Modesty; Working for the Community; Agriculture; Poverty; Begging; Dread of Begging; Baseness; The Torment of Beauty; Understanding Signs; Delight in Union; Praising Her Beauty**.
 
-The source-check explicitly retained the verified Tamil corrections at Kural **1018**, **1035** and **1048**, the edition-specific Kural **1077** and **1098** readings, Kalaignar's challenge to the supposed creator at Kural **1062**, his skeptical `lotus-eyed one` comparison at Kural **1103**, and the anicham-stalk / broken-waist / auspicious-drum explanation at Kural **1115**.
+Chapter 103 deliberately follows Kalaignar's repeated citizen/community-welfare framing. Chapter 110 deliberately repeats the existing controlled **Understanding Signs** heading without an added project disambiguator.
 
-New Part 012 structural/chapter renderings are still **provisional**. `GLOSSARY.md` was deliberately not changed during source-check. The established `குடியியல்` → **Civic Life** and `குறிப்பறிதல்` → **Understanding Signs** controls remain in use.
+The review preserves the verified corrections at Kural **1018**, **1035** and **1048**, the edition-specific Kural **1077** and **1098** readings, Kalaignar's challenge to the supposed creator at Kural **1062**, his skeptical `lotus-eyed one` comparison at Kural **1103**, and the anicham-stalk / broken-waist / auspicious-drum explanation at Kural **1115**.
+
+`GLOSSARY.md` is reconciled in this gate with the new Part 012 structural, chapter and recurring-term controls.
 
 Parts **013–015** Tamil sources are received but remain not started.
 
 ## Next project activity
 
-Perform **Part 012 English editorial consistency / glossary reconciliation** for all **23 source-checked physical pages / scans 238–260**.
+Perform the separate **Part 012 English release gate** for all **23 editorial-reviewed physical pages / scans 238–260**.
 
-Review readability and consistency while preserving the source-checked meaning. Reconcile `களவியல்` and chapter headings **102–112** against the supplied main body and existing project vocabulary, update `GLOSSARY.md` where the editorial decisions require it, create `reviews/PART_012_REVIEW.md`, and promote pages to `editorial-reviewed` only if that separate gate passes.
+Check final one-to-one English/Tamil alignment, printed-page and Kural continuity, the `Inbam` title/blank physical leaves, controlled headings and protected source-sensitive treatments. Create `reviews/PART_012_RELEASE_REPORT.md` and promote the 23 pages to `release-ready` only if the gate passes.
 
-Do not combine the editorial gate with release. Do not begin Part 013 Tamil transcription. Do not alter released English Parts 001–011.
+Do not combine the release gate with Part 013 Tamil transcription. Do not alter released English Parts 001–011.
