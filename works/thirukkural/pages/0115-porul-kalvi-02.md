@@ -6,10 +6,10 @@ printed_page: "82"
 work: "thirukkural"
 section: "பொருள் — அரசியல் — கல்வி"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **396. தொட்டனைத் தூறு மணற்கேணி மாந்தர்க்குக்  
