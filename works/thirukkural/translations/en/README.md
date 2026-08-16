@@ -32,7 +32,7 @@ These English gates begin only after the corresponding Tamil part is audited / a
 - `source-limited` — completeness limited by controlling source;
 - `blocked` — safe translation cannot proceed.
 
-## Parts 001–007 — RELEASE COMPLETE
+## Parts 001–008 — RELEASE COMPLETE
 
 - Part 001: 19 `release-ready` + scan 8 `source-limited`;
 - Part 002: **21/21 `release-ready`**;
@@ -40,32 +40,29 @@ These English gates begin only after the corresponding Tamil part is audited / a
 - Part 004: **22/22 `release-ready`**, through Kural 255;
 - Part 005: **22/22 `release-ready`**, through Kural 365;
 - Part 006: **21/21 `release-ready`**, through Kural 460;
-- Part 007: **21/21 `release-ready`**, through Kural 565.
+- Part 007: **21/21 `release-ready`**, through Kural 565;
+- Part 008: **21/21 `release-ready`**, through Kural 670.
 
-Latest completed released model:
+Latest completed review/release artefacts:
 
-- [`reviews/PART_007_REVIEW.md`](reviews/PART_007_REVIEW.md)
-- [`reviews/PART_007_RELEASE_REPORT.md`](reviews/PART_007_RELEASE_REPORT.md)
+- [`reviews/PART_008_REVIEW.md`](reviews/PART_008_REVIEW.md)
+- [`reviews/PART_008_RELEASE_REPORT.md`](reviews/PART_008_RELEASE_REPORT.md)
 
-Released Parts 001–007 must not be changed merely to harmonize later wording. Any project-wide revision must be deliberate, source-supported and documented.
+Released Parts 001–008 must not be changed merely to harmonize later wording. Any project-wide revision must be deliberate, source-supported and documented.
 
-## Part 008 — ENGLISH EDITORIAL REVIEW COMPLETE
+## Part 008 — ENGLISH RELEASE COMPLETE
 
 Part 008 Tamil is audited / **ARCHIVAL-READY** for scans **149–169 / printed pages 116–136 / Kural 566–670**.
 
-The aligned English layer has now completed first pass, direct source-check and editorial consistency / glossary reconciliation:
+The aligned English layer has completed the full workflow:
 
 - aligned English pages: **21 / 21**;
 - `draft`: **0**;
 - `source-checked`: **0**;
-- `editorial-reviewed`: **21 / 21**;
-- `release-ready`: **0**;
+- `editorial-reviewed`: **0**;
+- `release-ready`: **21 / 21**;
 - `source-limited`: **0**;
 - `blocked`: **0**.
-
-Editorial review artefact:
-
-- [`reviews/PART_008_REVIEW.md`](reviews/PART_008_REVIEW.md)
 
 The controlled Part 008 main-body headings are:
 
@@ -81,20 +78,16 @@ The controlled Part 008 main-body headings are:
 - 66 **Purity in Action** — 651–660;
 - 67 **Firmness in Action** — 661–670.
 
-The source-visible transition at scan **162 / Kural 631** is now controlled in English as:
+The source-visible transition at scan **162 / Kural 631** is released in English as:
 
 `Porul — Statecraft` → **`Porul — Ministerial Affairs`**.
 
-`Ministerial Affairs` is the controlled project rendering of `அமைச்சியல்` for this supplied main-body section. The global [`GLOSSARY.md`](GLOSSARY.md) has been extended through Part 008 accordingly.
+`Ministerial Affairs` is the controlled project rendering of `அமைச்சியல்` for this supplied main-body section. The global [`GLOSSARY.md`](GLOSSARY.md) records the decision.
 
-The editorial review protected all six source-check corrections and Kalaignar-specific readings, including **Oozh**, the direct **“God!”** wording, government/intelligence terminology, council-of-ministers/citizens language, **seventy crore**, and the unbaked-clay-pot and chariot-linchpin images.
-
-Three small readability refinements were made at Kurals **602, 627 and 641**; see `PART_008_REVIEW.md` for the exact before/after wording and rationale.
+The release preserves all Part 008 source-check corrections, the three editorial readability refinements, and Kalaignar-specific readings including **Oozh**, the direct **“God!”** wording, government/intelligence terminology, council-of-ministers/citizens language, **seventy crore**, and the unbaked-clay-pot and chariot-linchpin images.
 
 ## Next activity
 
-Perform the separate **Part 008 English release gate** for all 21 `editorial-reviewed` pages.
+Begin **Part 009 Tamil first-pass transcription** from overall scan **170 / printed page 137 / Kural 671**, chapter 68 `வினை செயல்வகை`, using the supplied Part 009 source.
 
-Verify final continuity, alignment, controlled headings and protected source-sensitive decisions; create `reviews/PART_008_RELEASE_REPORT.md` only if the gate passes, and only then promote the 21 pages to `release-ready`.
-
-Do not combine the release gate with Part 009 Tamil transcription.
+Do not combine that first-pass transcription with direct visual verification, Tamil audit or English translation.
