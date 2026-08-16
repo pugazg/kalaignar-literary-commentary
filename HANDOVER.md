@@ -43,8 +43,8 @@ First-pass transcription is complete for **21 / 21** pages.
 
 Current direct-verification state:
 
-- `verified`: **7 / 21** — scans **128–134** / Kural **461–495**;
-- `needs-review`: **14 / 21** — scans **135–148** / Kural **496–565**;
+- `verified`: **14 / 21** — scans **128–141** / Kural **461–530**;
+- `needs-review`: **7 / 21** — scans **142–148** / Kural **531–565**;
 - `partial`: **0**;
 - `blocked`: **0**;
 - Part 007 audit: **not started**;
@@ -52,14 +52,18 @@ Current direct-verification state:
 
 ## Verification Batch 1 — COMPLETE
 
-Scans **128–134 / printed pages 95–101 / Kural 461–495** were compared directly against the controlling scan:
+Scans **128–134 / printed pages 95–101 / Kural 461–495** were compared directly against the controlling scan. All seven first-pass records matched the source; no source-text correction was required.
 
-- scans 128–129 — chapter 47 `தெரிந்து செயல்வகை`, Kural 461–470;
-- scans 130–131 — chapter 48 `வலியறிதல்`, Kural 471–480;
-- scans 132–133 — chapter 49 `காலமறிதல்`, Kural 481–490;
-- scan 134 — chapter 50 `இடனறிதல்`, Kural 491–495.
+## Verification Batch 2 — COMPLETE
 
-All seven first-pass records matched the source. **No source-text correction was required in Batch 1.** Each now uses:
+Scans **135–141 / printed pages 102–108 / Kural 496–530** were compared directly against the controlling scan:
+
+- scan 135 — completes chapter 50 `இடனறிதல்`, Kural 496–500;
+- scans 136–137 — chapter 51 `தெரிந்து தெளிதல்`, Kural 501–510;
+- scans 138–139 — chapter 52 `தெரிந்து வினையாடல்`, Kural 511–520;
+- scans 140–141 — chapter 53 `சுற்றந் தழால்`, Kural 521–530.
+
+Six records matched the source without source-text change. Scan **135** required only restoration of the source's printed quotation marks around `தேர்க் கடலிலே ஓடாது` and `கப்பல் நிலத்தில் போகாது`; no wording was changed. All seven now use:
 
 - `status: "verified"`;
 - `transcription_method: "direct visual comparison with source scan"`.
@@ -74,36 +78,35 @@ Its first page is printed page **116** and contains Kural **566–570**, directl
 
 # Exact next activity
 
-Continue **Part 007 Tamil direct visual verification — Batch 2 only**:
+Continue **Part 007 Tamil direct visual verification — Batch 3 only**:
 
-- overall scans **135–141**;
-- Part 007 local pages **8–14**;
-- printed pages **102–108**;
-- Kural **496–530**.
+- overall scans **142–148**;
+- Part 007 local pages **15–21**;
+- printed pages **109–115**;
+- Kural **531–565**.
 
 Coverage:
 
-- scan 135 — completes chapter 50 `இடனறிதல்`, Kural 496–500;
-- scans 136–137 — chapter 51 `தெரிந்து தெளிதல்`, Kural 501–510;
-- scans 138–139 — chapter 52 `தெரிந்து வினையாடல்`, Kural 511–520;
-- scans 140–141 — chapter 53 `சுற்றந் தழால்`, Kural 521–530.
+- scans 142–143 — chapter 54 `பொச்சாவாமை`, Kural 531–540;
+- scans 144–145 — chapter 55 `செங்கோன்மை`, Kural 541–550;
+- scans 146–147 — chapter 56 `கொடுங்கோன்மை`, Kural 551–560;
+- scan 148 — chapter 57 `வெருவந்த செய்யாமை`, Kural 561–565.
 
 Required procedure:
 
-1. fresh-fetch this handover and the existing scan 135–141 records;
+1. fresh-fetch this handover and the existing scan 142–148 records;
 2. compare every page directly against the controlling Part 007 scan;
 3. correct only source-supported transcription errors;
 4. preserve source-specific spelling, joins, punctuation, headings and Kalaignar commentary;
 5. promote a page to `verified` only after direct visual comparison;
 6. synchronize status documents after the batch;
-7. stop after scan 141.
+7. stop after scan 148.
 
-Do **not** during Batch 2:
+Do **not** during Batch 3:
 
-- begin scans 142–148 verification;
 - create the Part 007 audit;
 - begin English Part 007 translation;
 - begin Part 008 transcription;
 - modify released Parts 001–006.
 
-After Batch 2, Part 007 verification Batch 3 will cover scans **142–148 / Kural 531–565**.
+After Batch 3, if all seven pages verify, the next separate activity is the **Part 007 Tamil audit / archival-ready decision**.
