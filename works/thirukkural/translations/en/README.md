@@ -52,11 +52,11 @@ Released Parts 001–008 must not be changed merely to harmonize later wording. 
 
 The controlled Part 008 structural term remains `அமைச்சியல்` → **Ministerial Affairs**.
 
-## Part 009 — ENGLISH FIRST PASS COMPLETE
+## Part 009 — ENGLISH SOURCE-CHECK COMPLETE
 
 Part 009 Tamil is audited / **ARCHIVAL-READY**. Tamil audit: [`../../AUDIT_PART_009.md`](../../AUDIT_PART_009.md).
 
-First-pass English scope:
+English scope:
 
 - aligned pages: **22 / 22**;
 - scans **170–191**;
@@ -66,56 +66,65 @@ First-pass English scope:
 
 Current English status:
 
-- `draft`: **22 / 22**;
-- `source-checked`: **0**;
+- `draft`: **0**;
+- `source-checked`: **22 / 22**;
 - `editorial-reviewed`: **0**;
 - `release-ready`: **0**;
 - `source-limited`: **0**;
 - `blocked`: **0**.
 
-Every Part 009 page is a `project_translation`, remains explicitly `draft`, and points to its verified Tamil page as the translation basis. No source-check, editorial review or release promotion has been performed in the first-pass gate.
+All 22 pages were compared against their audited Tamil records and promoted only to `source-checked`. No editorial/glossary review or release promotion has yet been performed.
 
-### First-pass chapter headings
+### Source-check corrections
 
-- 68 **The Method of Action** — Kural 671–680;
-- 69 **The Envoy** — 681–690;
-- 70 **Conduct in the Presence of Kings** — 691–700;
-- 71 **Understanding Signs (Porul)** — 701–710;
-- 72 **Knowing the Assembly** — 711–720;
-- 73 **Fearlessness in the Assembly** — 721–730;
-- 74 **The Country** — 731–740;
-- 75 **Fortress** — 741–750;
-- 76 **The Way of Acquiring Wealth** — 751–760;
-- 77 **Excellence of the Army** — 761–770;
-- 78 **Martial Pride** — 771–780.
+Three substantive corrections were made:
 
-These remain first-pass wording until the later editorial/glossary gate.
+1. Kural **680** — removed the unsupported territorial “smaller domain” reading and aligned the English with Kalaignar's commentary: **“those with little support ... the trembling among their own.”**
+2. Kural **691** — removed the unsupported characterization **“contentious”** from “kings.”
+3. Kural **717** — retained the supplied edition's unusual verified final `இழுக்கு` while making the English clause minimally complete: **“before those who discern / faultless words, there is a lapse.”**
 
-### Structural vocabulary in the drafts
+No other substantive English body-text correction was required during source-check.
+
+### Protected source-sensitive readings confirmed
+
+- Kural **717** remains based on the supplied edition's verified wording rather than an external familiar Kural; its page carries a `Source-check note`.
+- Kural **725 commentary** remains grounded in `தருக்கமென்படும் அளவைக் திறமும்`, rendered as **“the skill of measure called logic”**, with a `Source-check note`.
+- Kural **733 commentary** remains grounded in `மளவுக்கு வளம்`, rendered as **“possesses wealth to that measure”**, with a `Source-check note`.
+- Kural **771 commentary** retains `நடுகல்லாய்ப் போனவர்கள்` as **“have become memorial stones.”**
+- Kural **773** retains Kalaignar's explicit **great manliness / manliness** framing.
+
+Kalaignar's government, tax/revenue, customs duties, tribute, country, fortification, wealth, army, ruler/leader and public-life vocabulary remains intact where the Tamil uses it. Direct source images and comparisons remain intact.
+
+### Chapter headings and structural vocabulary awaiting editorial reconciliation
+
+Current Part 009 headings remain provisional until the separate editorial/glossary gate:
+
+- 68 **The Method of Action**;
+- 69 **The Envoy**;
+- 70 **Conduct in the Presence of Kings**;
+- 71 **Understanding Signs (Porul)**;
+- 72 **Knowing the Assembly**;
+- 73 **Fearlessness in the Assembly**;
+- 74 **The Country**;
+- 75 **Fortress**;
+- 76 **The Way of Acquiring Wealth**;
+- 77 **Excellence of the Army**;
+- 78 **Martial Pride**.
 
 The already controlled `அமைச்சியல்` remains **Ministerial Affairs**.
 
-The new Part 009 source-visible structural labels are provisionally represented in first-pass metadata as:
+The new Part 009 source-visible section terms remain provisional during source-check:
 
 - `அரணியல்` → **Fortification Affairs**;
 - `கூழியல்` → **Wealth**;
 - `படையியல்` → **Military Affairs**.
 
-These are **not yet released controlled glossary terms**. Their final English forms must be decided deliberately during Part 009 editorial consistency / glossary reconciliation.
-
-### Part 009 fidelity protections
-
-- Kural **717** is translated from the supplied edition's verified unusual wording rather than a familiar external Kural version.
-- Kural **725 commentary** remains grounded in `தருக்கமென்படும் அளவைக் திறமும்`.
-- Kural **733 commentary** remains grounded in `மளவுக்கு வளம்`, with the unusual source phrase documented rather than silently repaired.
-- Kural **771 commentary** uses the verified `நடுகல்லாய்ப் போனவர்கள்` reading and carries the memorial-stone image.
-- Kalaignar's government, tax/revenue, country, fortification, wealth, army, ruler and public-life vocabulary is retained where the audited Tamil uses it.
-- Direct source images and comparisons are retained rather than replaced by conventional Kural glosses.
+They have not yet been added as final controlled glossary terms.
 
 ## Next activity
 
-Perform the separate **Part 009 English direct source-check** for all **22 `draft` pages**, scans **170–191 / Kural 671–780**.
+Perform the separate **Part 009 English editorial consistency / glossary reconciliation** across all **22 `source-checked` pages**, scans **170–191 / Kural 671–780**.
 
-Compare each English Kural and commentary against the audited Tamil page, check alignment and section metadata, document substantive corrections, and promote only passing pages to `source-checked`.
+Finalize the Part 009 chapter headings and the section terms `அரணியல்`, `கூழியல்` and `படையியல்`; review recurring terminology and readability while protecting the source-check corrections and source-sensitive readings; update `GLOSSARY.md`; create `reviews/PART_009_REVIEW.md`; and promote only passing pages to `editorial-reviewed`.
 
-Do not combine source-check with editorial/glossary review or release. Do not begin Part 010 Tamil transcription during that activity.
+Do not combine this with the Part 009 release gate. Do not begin Part 010 Tamil transcription during that activity.
