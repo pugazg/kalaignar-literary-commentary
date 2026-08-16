@@ -6,10 +6,10 @@ printed_page: "185"
 work: "thirukkural"
 section: "பொருள் — நட்பியல் — வரைவின் மகளிர்"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_011_pages_215-237.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 # 92. வரைவின் மகளிர்
@@ -17,7 +17,7 @@ transcription_method: "manual transcription from source scan; direct visual veri
 **911. அன்பின் விழையார் பொருள்விழையும் ஆய்தொடியார்  
 இன்சொல் இழுக்குத் தரும்.**
 
-அன்பே இல்லாமல் பொருள் திரட்டுவதைமே குறிக்கோளாகக் கொண்ட பொதுமகளிர் இனிமையாகப் பேசுவதை நம்பி ஏமாறுகிறவர்களுக்கு இறுதியில் துன்பமே வந்து சேரும்.
+அன்பே இல்லாமல் பொருள் திரட்டுவதையே குறிக்கோளாகக் கொண்ட பொதுமகளிர் இனிமையாகப் பேசுவதை நம்பி ஏமாறுகிறவர்களுக்கு இறுதியில் துன்பமே வந்து சேரும்.
 
 **912. பயன்தூக்கிப் பண்புரைக்கும் பண்பின் மகளிர்  
 நயன்தூக்கி நள்ளா விடல்.**
