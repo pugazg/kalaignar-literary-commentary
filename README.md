@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–010 **ARCHIVAL-READY** continuously through overall scan 214 / printed page 181 / Kural 895 |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–009 **released through Kural 780**; Part 010 first pass **23/23 draft** through Kural 895 |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–009 **released through Kural 780**; Part 010 **23/23 source-checked** through Kural 895 |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -32,18 +32,22 @@ Tamil Parts **001–010** are audited / archival-ready continuously through over
 
 English Parts **001–009** have completed their full release workflow continuously through Kural **780**.
 
-Part 010 English first-pass translation is now complete across **23 / 23** aligned pages, scans **192–214 / printed pages 159–181 / Kural 781–895**. Every Part 010 English record remains `draft`; source-check, editorial review and release are still pending.
+Part 010 English now has **23 / 23 source-checked pages** covering scans **192–214 / printed pages 159–181 / Kural 781–895**. No Part 010 page remains `draft`; editorial review and release are still pending.
 
 Part 010 Tamil audit: [`works/thirukkural/AUDIT_PART_010.md`](works/thirukkural/AUDIT_PART_010.md) — **PASS / ARCHIVAL-READY**.
 
-The first-pass Part 010 structural rendering uses `நட்பியல்` → **Friendship** provisionally. Chapter headings 79–90 are likewise first-pass choices and remain subject to the later editorial/glossary gate.
+The direct English source-check corrected source drift at Kural **813, 822, 842, 849, 850, 867 and 887** while preserving Kalaignar's own argument. In particular, the source-confirmed Kural **869 commentary** repetition remains preserved, Kalaignar's supplied Kural **861** interpretation remains untouched, and Kural **895** keeps the distinction between ruler language in the Kural and government language in Kalaignar's commentary.
 
-The source-sensitive scan **209 / Kural 869 commentary** repetition remains preserved in the English draft rather than silently normalized. The supplied source ends at Kural **895**, so no English Kural 896 onward has been created or inferred.
+The current Part 010 structural rendering `நட்பியல்` → **Friendship** and chapter headings 79–90 remain **provisional** until the next editorial consistency / glossary-reconciliation gate.
+
+The supplied source ends at Kural **895**, so no English Kural 896 onward has been created or inferred.
 
 ## அடுத்த செயல்
 
-Perform the separate **Part 010 English direct source-check** for all **23 draft pages**.
+Perform the separate **Part 010 English editorial consistency / glossary reconciliation** for all **23 source-checked pages**.
 
-Compare each English Kural and commentary paragraph against the verified Tamil archival record and promote only passing pages to `source-checked`. Do not combine source-check with the later editorial consistency / glossary reconciliation or release gate.
+Finalize source-supported structural/chapter terminology, update `GLOSSARY.md`, review readability and recurring terms without undoing source-check fidelity decisions, create `works/thirukkural/translations/en/reviews/PART_010_REVIEW.md`, and promote only passing pages to `editorial-reviewed`.
+
+Do not combine that gate with release, and do not alter released English Parts 001–009 merely for harmonization.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), and [`HANDOVER.md`](HANDOVER.md).
