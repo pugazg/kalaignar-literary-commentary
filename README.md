@@ -6,7 +6,7 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–005 **ARCHIVAL-READY**; Part 006 first-pass **21/21 complete**, verification **14/21** through scan 120; Parts 007–010 source received |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–005 **ARCHIVAL-READY**; Part 006 first-pass **21/21 complete**, direct verification **21/21 complete**, audit pending; Parts 007–010 source received |
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–005 **released through Kural 365**; Part 006 English not started |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
@@ -40,20 +40,26 @@ Five consecutive Tamil source parts have been supplied and inspected:
 
 The supplied source therefore extends continuously through overall scan **214** / printed page **181** / Kural **895**. This is source availability, not archival completion.
 
-### Tamil Part 006 — VERIFICATION IN PROGRESS
+### Tamil Part 006 — DIRECT VERIFICATION COMPLETE; AUDIT PENDING
 
 First-pass Tamil records exist for **all 21 scans, 107–127**, covering Kural **366–460** and the transition from `அறம்` to `பொருள்`.
 
-Direct visual verification Batches 1–2 are complete for scans **107–120 / Kural 366–425**. Current status:
+All three direct visual verification batches are complete. Current status:
 
-- `verified`: **14 / 21**;
-- `needs-review`: **7 / 21** — scans 121–127;
+- `verified`: **21 / 21** — scans 107–127;
+- `needs-review`: **0**;
+- `partial`: **0**;
+- `blocked`: **0**;
 - Part 006 audit: not started.
 
-Source-supported corrections during verification so far:
+Source-supported corrections made during direct verification:
 
 - scan 109 / Kural 380 commentary: `வலிமையானவை` → `வலிமையானவையாக`;
-- scan 120 / Kural 425 commentary: `உயர்ந்தோர் உலகோர்` → `உயர்ந்தோரே உலகோர்`.
+- scan 120 / Kural 425 commentary: `உயர்ந்தோர் உலகோர்` → `உயர்ந்தோரே உலகோர்`;
+- scan 123 / Kural 437 commentary: `ஏதுமின்றிப்` → `எதுமின்றிப்`;
+- scan 125 / Kural 449 commentary: `போன்றேயாகும்` → `போன்றதேயாகும்`.
+
+No unresolved Tamil text remains in Part 006 verification. The part is **not yet archival-ready** until the separate Part 006 audit is completed.
 
 ### English Parts 001–005 — RELEASE COMPLETE
 
@@ -65,8 +71,8 @@ Source-supported corrections during verification so far:
 
 Part 005 release is documented in [`works/thirukkural/translations/en/reviews/PART_005_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_005_RELEASE_REPORT.md).
 
-No English translation should begin for Part 006 until its Tamil direct verification and audit are complete.
+No English translation should begin for Part 006 until its Tamil audit is complete and the part is declared archival-ready.
 
-The next Tamil activity is **Part 006 direct visual verification Batch 3: scans 121–127 / Kural 426–460**.
+The next Tamil activity is the **Part 006 Tamil audit / archival-ready decision** for scans **107–127 / Kural 366–460**.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), and [`HANDOVER.md`](HANDOVER.md).
