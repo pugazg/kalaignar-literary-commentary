@@ -6,10 +6,10 @@ printed_page: "157"
 work: "thirukkural"
 section: "பொருள் — படையியல் — படைச் செருக்கு"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 # 78. படைச் செருக்கு
@@ -17,7 +17,7 @@ transcription_method: "manual transcription from source scan; direct visual veri
 **771. என்னைமுன் நில்லன்மின் தெவ்விர் பலரென்னை  
 முன்னின்று கல்நின் றவர்.**
 
-போர்க்களத்து வீரன் ஒருவன், “பகைவர்களே என் தலைவனை எதிர்த்து நிற்காதீர்; அவனை எதிர்த்து நடுகல்லைப் போனவர்கள் பலர்” என முழங்குகிறான்.
+போர்க்களத்து வீரன் ஒருவன், “பகைவர்களே என் தலைவனை எதிர்த்து நிற்காதீர்; அவனை எதிர்த்து நடுகல்லாய்ப் போனவர்கள் பலர்” என முழங்குகிறான்.
 
 **772. கான முயலெய்த அம்பினில் யானை  
 பிழைத்தவேல் ஏந்தல் இனிது.**
