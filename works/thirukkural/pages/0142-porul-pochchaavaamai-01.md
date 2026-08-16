@@ -6,10 +6,10 @@ printed_page: "109"
 work: "thirukkural"
 section: "பொருள் — அரசியல் — பொச்சாவாமை"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 # 54. பொச்சாவாமை
@@ -35,7 +35,7 @@ transcription_method: "manual transcription from source scan; direct visual veri
 பயத்தினால் நடுங்குகிறவர்களுக்குத் தம்மைச் சுற்றிப் பாதுகாப்புக்கான அரண் கட்டப்பட்டிருந்தாலும் எந்தப் பயனுமில்லை. அதைப்போலவே என்னதான் உயர்ந்த நிலையில் இருந்தாலும் மறதி உடையவர்களுக்கு அந்த நிலையினால் எந்தப் பயனுமில்லை.
 
 **535. முன்னுறக் காவா திழுக்கியான் தன்பிழை  
-பின்னூ றிரங்கி விடும்.**
+பின்னு றிரங்கி விடும்.**
 
 முன்கூட்டியே சிந்தித்துத் தன்னைக் காத்துக் கொள்ளத் தவறியவன், துன்பம் வந்தபிறகு தன் பிழையை எண்ணிக் கவலைப்பட நேரிடும்.
 
