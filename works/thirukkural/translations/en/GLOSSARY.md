@@ -284,3 +284,79 @@ These headings match the already released Part 002 index-local project forms. Pa
 | அடுத்த பிறப்பு — Kural 358 commentary | another birth | Kalaignar's explicit commentary wording; do not generalize this into a project-wide doctrinal interpretation of every `பிறப்பு`. |
 
 For heading decisions, protected source-specific readings, and the post-source-check readability refinements, see `reviews/PART_005_REVIEW.md`.
+
+## Part 006 main-body controlled extension
+
+The Part 006 editorial-consistency review extends the controlled main-body heading set through Kural **460**, including the physical transition from the Book of Aram into **Porul** and the `Statecraft` metadata section.
+
+### Main-body chapter titles 38–46
+
+| No. | Tamil heading | Controlled main-body English heading |
+|---:|---|---|
+| 38 | ஊழ் | Oozh |
+| 39 | இறைமாட்சி | Excellence of Kingship |
+| 40 | கல்வி | Learning |
+| 41 | கல்லாமை | Lack of Learning |
+| 42 | கேள்வி | Listening |
+| 43 | அறிவுடைமை | Possession of Wisdom |
+| 44 | குற்றங்கடிதல் | Avoiding Faults |
+| 45 | பெரியாரைத் துணைக்கோடல் | Seeking the Support of the Great |
+| 46 | சிற்றினம் சேராமை | Avoiding Base Company |
+
+### Recurring Part 006 controls
+
+| Tamil | Controlled English range | Part 006 editorial note |
+|---|---|---|
+| ஊழ் | Oozh / *oozh* | Keep the chapter heading as **Oozh** rather than replacing it with Fate or Destiny. |
+| இயற்கை நிலை | natural condition | Kalaignar repeatedly uses this phrase to explain `ஊழ்` in Kurals 371–380. Preserve his explanation rather than importing a conventional fate/destiny doctrine. |
+| பொருள் | Porul | Structural book label at the physical transition in Part 006. |
+| அரசியல் | Statecraft | Controlled section-level metadata label for the supplied Porul main body. |
+| கேள்வி | Listening / knowledge gained through listening | Chapter 42 is **Listening**; use the fuller epistemic expression where Kalaignar's commentary makes that sense explicit. |
+| இனம் — chapter 46 | company / group / association | Kalaignar repeatedly explains the concept through the group with which a person associates. Do not import an unsupported racial or biological sense. |
+
+For the complete Part 006 rationale, see `reviews/PART_006_REVIEW.md`.
+
+## Part 007 main-body controlled extension
+
+The Part 007 editorial-consistency review extends the controlled main-body heading set through the supplied Kural **565**. Chapter 57 begins in Part 007 and continues in Part 008.
+
+### Main-body chapter titles 47–57
+
+| No. | Tamil heading | Controlled main-body English heading |
+|---:|---|---|
+| 47 | தெரிந்து செயல்வகை | Acting After Deliberation |
+| 48 | வலியறிதல் | Knowing Strength |
+| 49 | காலமறிதல் | Knowing the Time |
+| 50 | இடனறிதல் | Knowing the Place |
+| 51 | தெரிந்து தெளிதல் | Knowing and Choosing |
+| 52 | தெரிந்து வினையாடல் | Choosing and Employing |
+| 53 | சுற்றந் தழால் | Embracing Kindred |
+| 54 | பொச்சாவாமை | Freedom from Forgetfulness |
+| 55 | செங்கோன்மை | Just Rule |
+| 56 | கொடுங்கோன்மை | Tyrannical Rule |
+| 57 | வெருவந்த செய்யாமை | Avoiding Acts that Cause Fear |
+
+### Recurring Part 007 controls
+
+| Tamil | Controlled English range | Part 007 editorial note |
+|---|---|---|
+| வலி | strength | Chapter 48 repeatedly compares the strength of the undertaking, oneself, the opponent and allies. |
+| காலம் | time | Controlled chapter 49 term; retain the strategic timing frame in verse and commentary. |
+| இடம் | place | Controlled chapter 50 term; retain the strategic place/location frame and source images. |
+| சுற்றம் / சுற்றத்தார் | kindred / relatives / one's own people / circle | Chapter 53 is **Embracing Kindred**; choose the prose term according to relationship context. |
+| பொச்சாப்பு / மறதி | forgetfulness | Chapter 54 is **Freedom from Forgetfulness**. |
+| செங்கோன்மை | Just Rule / just rule / good governance / justice | **Just Rule** is the chapter heading. Kalaignar's commentary may use institutional government/governance language where the Tamil explicitly does so. |
+| கொடுங்கோன்மை | Tyrannical Rule / tyranny / cruel government / harsh rule | Preserve Kalaignar's institutional framing and direct language rather than softening it. |
+| அரசு | government | In Kalaignar's commentary, retain **government** when he speaks institutionally; do not mechanically reduce every instance to king/ruler wording from the compressed Kural. |
+| உழைப்போர் — Kural 520 | working people | Preserve Kalaignar's explicit working-people framing and the obligation of those who govern to examine their condition daily. |
+| அந்தணர் நூற்கும் — Kural 543 | the books of the virtuous | Kalaignar explicitly explains the phrase through `அறவோர் நூல்களுக்கும்`. Follow his supplied interpretation; do not automatically impose a caste-specific conventional gloss here. |
+
+### Part 007 source-sensitive controls
+
+- Kural 464 retains the source-check correction centred on `களங்கம்`: **“the blemish of disgrace”**, not the unsupported first-pass idea of “failure.”
+- Kural 520 retains Kalaignar's working-people and governance framing.
+- Kural 543 retains **“the books of the virtuous”** from Kalaignar's `அறவோர்` explanation.
+- Kurals 542–565 retain Kalaignar's explicit government, citizens, justice, tyranny, public-resource, productive-work, punishment and fear vocabulary where present.
+- Preserve the supplied imagery: ram, crane, crocodile, chariot/ship, elephant trapped in mire and foxes, tank without banks, crow sharing with its circle, timely rain and harvest, weeds in crops, citizens' tears as a weapon, and the frightening demon-like appearance in Kural 565.
+
+For the full Part 007 editorial rationale, see `reviews/PART_007_REVIEW.md`.
