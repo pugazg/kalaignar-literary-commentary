@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Porul — Friendship — False Friendship"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -19,7 +19,7 @@ is like an anvil waiting for the right moment to strike.**
 The friendship of one who is not sincere at heart but outwardly behaves like a friend is like the anvil block that waits for the proper opportunity to support a blow that breaks iron apart.
 
 **822. The friendship of those who seem like kin but are not  
-changes like the mind of women who merely appear to possess virtue.**
+changes like the mind of women for hire.**
 
 The friendship of those who are not truly close to us but act as though they are is like the mind of women for hire who, without the good qualities expected of women, act as if they possess them: one thing within and another without.
 
