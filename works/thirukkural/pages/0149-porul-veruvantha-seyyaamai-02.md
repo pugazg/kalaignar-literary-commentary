@@ -6,10 +6,10 @@ printed_page: "116"
 work: "thirukkural"
 section: "பொருள் — அரசியல் — வெருவந்த செய்யாமை"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **566. கடுஞ்சொல்லன் கண்ணிலன் ஆயின் நெடுஞ்செல்வம்  
