@@ -22,7 +22,7 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 | Part 003 | 42–62 | archival-ready | **RELEASE-READY — 21/21** |
 | Part 004 | 63–84 | archival-ready | **RELEASE-READY — 22/22** |
 | Part 005 | 85–106 | archival-ready | **RELEASE-READY — 22/22** |
-| Part 006 | 107–127 | source received; Tamil first-pass in progress | not started — wait for Tamil verification/audit |
+| Part 006 | 107–127 | Tamil first-pass **21/21 complete**; direct verification pending | not started — wait for Tamil verification/audit |
 | Part 007 | 128–148 | source received; transcription not started | not started |
 | Part 008 | 149–169 | source received; transcription not started | not started |
 | Part 009 | 170–191 | source received; transcription not started | not started |
@@ -67,19 +67,19 @@ Part 005 release covers scans **85–106 / printed pages 52–73 / Kural 256–3
 
 ## Newly supplied Tamil source — English intentionally paused
 
-Tamil Parts **006–010** have now been supplied and direct source intake confirms continuous material through overall scan **214** / printed page **181** / Kural **895**.
+Tamil Parts **006–010** have been supplied and direct source intake confirms continuous material through overall scan **214** / printed page **181** / Kural **895**.
 
 English translation does **not** begin merely because those PDFs are available. The permanent prerequisite remains:
 
 **complete Tamil transcription → direct visual verification → Tamil part audit / archival-ready → English draft.**
 
-Part 006 currently has only its first **7 / 21** Tamil first-pass records, scans **107–113 / Kural 366–390**, all `needs-review`. Therefore no Part 006 English pages should yet be created.
+Part 006 Tamil first-pass transcription is now **21 / 21 complete**, scans **107–127 / Kural 366–460**, but every record still remains `needs-review`. Direct visual verification has not begun and no Part 006 audit exists. Therefore no Part 006 English pages should yet be created.
 
 ## Next exact activity
 
-Continue the Tamil archival workflow, not English translation: Part 006 first-pass transcription for scans **114–120 / Kural 391–425**.
+Continue the Tamil archival workflow, not English translation: **Part 006 direct visual verification Batch 1, scans 107–113 / Kural 366–390**, including the `பொருள்` title page and its blank reverse.
 
-Once all Part 006 Tamil pages are transcribed, directly verified and the Part 006 audit passes, English Part 006 may begin with a separate first-pass activity.
+Once all Part 006 Tamil pages are directly verified and the Part 006 audit passes, English Part 006 may begin with a separate first-pass activity.
 
 Permanent cadence:
 
