@@ -6,10 +6,10 @@ printed_page: "146"
 work: "thirukkural"
 section: "பொருள் — அமைச்சியல் — அவை அறிதல்"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **716. ஆற்றின் நிலைதளர்ந் தற்றே வியன்புலம்  
