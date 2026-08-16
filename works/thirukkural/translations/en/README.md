@@ -40,11 +40,11 @@ Latest released review artefacts:
 
 Released Parts 001–009 must not be changed merely to harmonize later wording.
 
-## Part 010 — ENGLISH FIRST PASS COMPLETE
+## Part 010 — ENGLISH SOURCE-CHECK COMPLETE
 
 Part 010 Tamil audit: [`../../AUDIT_PART_010.md`](../../AUDIT_PART_010.md) — **PASS / ARCHIVAL-READY**.
 
-English first-pass scope:
+English scope:
 
 - aligned pages: **23 / 23**;
 - scans **192–214**;
@@ -56,51 +56,55 @@ English first-pass scope:
 
 Current Part 010 English state:
 
-- `draft`: **23 / 23**;
-- `source-checked`: **0**;
+- `draft`: **0**;
+- `source-checked`: **23 / 23**;
 - `editorial-reviewed`: **0**;
 - `release-ready`: **0**;
 - `source-limited`: **0**;
 - `blocked`: **0**.
 
-Every Part 010 first-pass page remains:
+Every Part 010 page now remains at the source-check gate:
 
 ```yaml
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ```
 
-### Provisional first-pass section / headings
+### Source-check corrections retained
 
-`நட்பியல்` is provisionally rendered **Friendship** in Part 010 section metadata. This is **not yet a glossary-controlled decision**.
+The complete direct comparison against the 23 verified Tamil pages produced seven source-fidelity corrections/refinements across six English records:
 
-First-pass chapter headings:
+- Kural **813**: **women for hire**, removing the added first-pass “sell intimacy” wording;
+- Kural **822**: **women for hire**, keeping Kalaignar's fuller virtue/appearance explanation in the commentary rather than expanding the Kural line;
+- Kural **842 commentary**: removed unsupported **earned**;
+- Kural **849**: corrected the subject relationship using Kalaignar's commentary as the permitted interpretive aid;
+- Kural **850**: removed commentary-only evidence language from the Kural while retaining Kalaignar's evidence/truth argument in the commentary;
+- Kural **867 commentary**: removed the unsupported added phrase “and harmful to us”;
+- Kural **887**: removed the unsupported material qualifier “metal” from `செப்பு`, retaining *seppu* in the commentary.
 
-- 79 **Friendship**;
-- 80 **Examining Friendship**;
-- 81 **Long-Standing Friendship**;
-- 82 **Harmful Friendship**;
-- 83 **False Friendship**;
-- 84 **Folly**;
-- 85 **Possession of Little Understanding**;
-- 86 **Discord**;
-- 87 **The Character of Enmity**;
-- 88 **Discerning Enmity**;
-- 89 **Internal Enmity**;
-- 90 **Not Offending the Great**.
+### Source-sensitive protections
 
-These headings remain provisional until the later editorial consistency / glossary reconciliation gate.
+The source-check deliberately retains:
 
-### Fidelity protection
-
-The source-sensitive scan **209 / Kural 869 commentary** repetition has been carried into the first-pass English rather than silently corrected: the draft preserves the repeated idea **“cowards who are afraid, and ignorant cowards.”**
+- Kural **835** as **seven periods**, without importing “seven births”;
+- Kalaignar's supplied Kural **861** interpretation about leaving the weak and preferring to fight the strong;
+- scan **209 / Kural 869 commentary** as **“cowards who are afraid, and ignorant cowards”**, preserving the verified repetition;
+- Kural **876**'s nuanced enemy/friendship stance during danger;
+- Kural **895**'s distinction between the Kural's ruler and Kalaignar commentary's government framing;
+- the Kural **850** “ghosts” image and Kalaignar's evidence/truth framing.
 
 No Kural **896** or later English text has been created or inferred.
 
+### Provisional section / headings
+
+`நட்பியல்` → **Friendship** and the current chapter headings 79–90 remain **provisional**. They have not been added as final controls to `GLOSSARY.md`; that belongs to the separate editorial consistency / glossary-reconciliation gate.
+
 ## Next project activity
 
-Perform the separate **Part 010 English direct source-check** for all **23 draft pages**, comparing every Kural and commentary paragraph against the verified Tamil records.
+Perform **Part 010 English editorial consistency / glossary reconciliation** for all **23 source-checked pages**.
 
-Promote only passing pages to `source-checked`. Do not combine this gate with editorial consistency / glossary reconciliation or release.
+Finalize the source-supported section rendering and chapter headings, update `GLOSSARY.md`, review recurring terminology and readability without weakening the source-check corrections, create `reviews/PART_010_REVIEW.md`, and promote only passing pages to `editorial-reviewed`.
+
+Do not combine that activity with the release gate. Do not create `PART_010_RELEASE_REPORT.md`, promote pages to `release-ready`, alter released Parts 001–009 merely for harmonization, or infer Kural 896 onward.
