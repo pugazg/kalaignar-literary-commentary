@@ -36,72 +36,64 @@ Source:
 
 Physical pages: **21** / overall scans **149–169**.
 
-First-pass transcription is complete for all 21 scans.
+Current state:
 
-Current verification state:
-
-- `verified`: **7 / 21** — scans 149–155;
-- `needs-review`: **14 / 21** — scans 156–169;
+- first-pass records: **21 / 21 complete**;
+- `verified`: **14 / 21** — scans 149–162 / Kural 566–635;
+- `needs-review`: **7 / 21** — scans 163–169 / Kural 636–670;
 - `partial`: **0**;
 - `blocked`: **0**;
 - Part 008 audit: **not started**;
 - Part 008 English: **not started**.
 
-## Verification Batch 1 — COMPLETE
+## Verification history
 
-Directly compared scans **149–155 / printed pages 116–122 / Kural 566–600** against their Tamil Markdown records:
+### Batch 1 — scans 149–155 / Kural 566–600
 
-- scan 149 — completes chapter 57 `வெருவந்த செய்யாமை`, Kural 566–570;
-- scans 150–151 — chapter 58 `கண்ணோட்டம்`, Kural 571–580;
-- scans 152–153 — chapter 59 `ஒற்றாடல்`, Kural 581–590;
-- scans 154–155 — chapter 60 `ஊக்கம் உடைமை`, Kural 591–600.
+Completed. One source-supported first-pass correction was required on scan 153 / Kural 589 commentary:
 
-All seven records now use:
+- `ஒத்திருந் தால்` → `ஒத்திருந்தால்`.
 
-- `status: "verified"`;
-- `transcription_method: "direct visual comparison with source scan"`.
+### Batch 2 — scans 156–162 / Kural 601–635
 
-### Actual correction made in Batch 1
+Completed. All seven first-pass records matched the controlling scan in Kural wording, joins, punctuation, line breaks and Kalaignar commentary. **No textual corrections were required.**
 
-One first-pass spacing error was found on scan **153 / Kural 589 commentary**:
+This batch directly verified:
 
-- first-pass: `ஒத்திருந் தால்`
-- source-verified: **`ஒத்திருந்தால்`**
+- chapter 61 `மடி இன்மை`, Kural 601–610;
+- chapter 62 `ஆள்வினை உடைமை`, Kural 611–620;
+- chapter 63 `இடுக்கண் அழியாமை`, Kural 621–630;
+- chapter 64 `அமைச்சு`, Kural 631–635.
 
-No other wording correction was required in scans 149–155.
-
-## Structural transition still to verify
-
-Scan **162 / printed page 129** changes the running header from `பொருள் — அரசியல்` to **`பொருள் — அமைச்சியல் — அமைச்சு`**. The first-pass page record already preserves this transition; Batch 2 must verify it directly against the scan.
+Scan **162 / printed page 129** directly confirms the structural running-header transition from `பொருள் — அரசியல்` to **`பொருள் — அமைச்சியல் — அமைச்சு`**. Preserve that transition exactly.
 
 # Exact next activity
 
-Perform **Part 008 Tamil direct visual verification — Batch 2 only** for overall scans **156–162** / printed pages **123–129** / Kural **601–635**.
+Perform **Part 008 Tamil direct visual verification — Batch 3 only**, the final verification batch, for overall scans **163–169 / printed pages 130–136 / Kural 636–670**.
 
 Scope:
 
-- scans **156–157** — chapter 61 `மடி இன்மை`, Kural **601–610**;
-- scans **158–159** — chapter 62 `ஆள்வினை உடைமை`, Kural **611–620**;
-- scans **160–161** — chapter 63 `இடுக்கண் அழியாமை`, Kural **621–630**;
-- scan **162** — chapter 64 `அமைச்சு` begins, Kural **631–635**, including the running-header transition into `அமைச்சியல்`.
+- scan 163 — completes chapter 64 `அமைச்சு`, Kural 636–640;
+- scans 164–165 — chapter 65 `சொல்வன்மை`, Kural 641–650;
+- scans 166–167 — chapter 66 `வினைத் தூய்மை`, Kural 651–660;
+- scans 168–169 — chapter 67 `வினைத்திட்பம்`, Kural 661–670.
 
 Required procedure:
 
 1. fresh-fetch this handover and the work README;
-2. inspect the controlling scans 156–162 directly;
-3. compare each corresponding Tamil Markdown record line-by-line with the scan, including Kural wording, joins, punctuation, verse line breaks and Kalaignar commentary;
-4. correct only differences directly supported by the scan — do not normalize source-specific forms;
-5. promote passing pages from `needs-review` to `verified` and set `transcription_method: "direct visual comparison with source scan"`;
-6. document actual corrections, if any;
-7. synchronize root/work README and this handover;
-8. stop after scan 162.
+2. inspect controlling source scans 163–169 directly;
+3. compare every corresponding Tamil Markdown record line-by-line with the scan, including Kural wording, joins, punctuation, verse line breaks, headings and Kalaignar commentary;
+4. correct only differences directly supported by the scan — never normalize the source;
+5. for each page that passes, change `status` from `needs-review` to `verified` and `transcription_method` to `direct visual comparison with source scan`;
+6. document every actual correction, if any;
+7. synchronize root README, work README and this handover;
+8. stop after scan 169.
 
 Do **not** in this activity:
 
-- verify scans 163–169;
 - create `AUDIT_PART_008.md`;
 - begin Part 008 English translation;
 - begin Part 009 Tamil transcription;
 - modify released English Parts 001–007.
 
-After Batch 2, the final Part 008 verification batch should be scans **163–169 / Kural 636–670**.
+If all seven pages pass, Part 008 will become **21/21 verified**, but **ARCHIVAL-READY must wait for the separate Part 008 Tamil audit**.
