@@ -611,3 +611,66 @@ Chapter 90 **Not Offending the Great** is continued unchanged on scan 215 / Kura
 - Preserve the direct Part 011 images and formulations documented in `reviews/PART_011_REVIEW.md`, including the stranger's corpse in a dark room, “Mohini spell,” mire called hell, liquor/poison, torch under water, gambling hook, medical triad, `kunrimani`, `kavari` deer, queens of chastity, file/tree, dirty-vessel/milk, poisonous fruit and the miser as a disease infecting wealth.
 
 For the full Part 011 heading, terminology, source-check and editorial rationale, see `reviews/PART_011_REVIEW.md`.
+
+## Part 012 main-body controlled extension
+
+The Part 012 editorial-consistency / glossary-reconciliation review extends the controlled main-body heading set through the supplied Kural **1115**. It completes the `குடியியல்` material supplied in this processing unit, preserves the physical `இன்பம்` title and blank leaves, and establishes the beginning of the source-visible `களவியல்` section. Chapter 112 continues in the separately supplied Part 013 source; this control set makes no claim about Kural 1116 onward.
+
+### Structural term established in Part 012
+
+| Tamil | Controlled English | Editorial note |
+|---|---|---|
+| களவியல் | Clandestine Love | Controlled section-level metadata beginning at scan 254 / printed page 221 / Kural 1081. The supplied main body moves through first attraction and beauty, concealed or indirectly signalled affection, union and praise of the beloved. **Clandestine Love** preserves that concealed/private-love frame without importing a different conventional English division title from another edition. |
+
+The source-visible transition is therefore preserved as **Porul — Civic Life → Inbam title leaf → blank reverse leaf → Inbam — Clandestine Love**.
+
+### Main-body chapter titles 102–112
+
+| No. | Tamil heading | Controlled main-body English heading |
+|---:|---|---|
+| 102 | நாணுடைமை | Modesty |
+| 103 | குடிசெயல் வகை | Working for the Community |
+| 104 | உழவு | Agriculture |
+| 105 | நல்குரவு | Poverty |
+| 106 | இரவு | Begging |
+| 107 | இரவச்சம் | Dread of Begging |
+| 108 | கயமை | Baseness |
+| 109 | தகை அணங்குறுத்தல் | The Torment of Beauty |
+| 110 | குறிப்பறிதல் | Understanding Signs |
+| 111 | புணர்ச்சி மகிழ்தல் | Delight in Union |
+| 112 | நலம் புனைந்து உரைத்தல் | Praising Her Beauty |
+
+Chapter 103 **Working for the Community** is deliberately source-led: Kalaignar repeatedly explains the chapter through `குடிமக்கள்`, their welfare, protection and advancement. Do not replace it with a purely family-, clan-, or lineage-maintenance heading imported from another interpretation.
+
+Chapter 110 **Understanding Signs** deliberately repeats the already controlled chapter-71 wording. The section metadata supplies the Porul/Inbam distinction; do not add a project-invented parenthetical disambiguator.
+
+Chapter 112 is controlled here only for the printed heading and Kural **1111–1115** supplied in Part 012.
+
+### Recurring Part 012 controls
+
+| Tamil | Controlled English range | Part 012 editorial note |
+|---|---|---|
+| நாணம் / நாணுடைமை | modesty / shame / honour | Chapter 102 is **Modesty**. Use **shame** where the sentence concerns blameworthy conduct and **honour** where Kalaignar explicitly shifts to `மானம்`; do not flatten the distinctions. |
+| குடிசெயல் / குடிமக்கள் | working for the community / community / citizens | Chapter 103 is **Working for the Community**. Preserve Kalaignar's civic welfare, protection and advancement vocabulary rather than forcing a lineage-only sense. |
+| உழவு / உழவர் | Agriculture / agriculture / farmers | Preserve the productive-labour, plough, crop and social-dependence imagery in chapter 104. |
+| நல்குரவு / வறுமை | Poverty / poverty / want | Preserve the chapter's repeated suffering and deprivation language. |
+| இரவு / இரத்தல் | Begging / begging / to beg | Chapter 106 is **Begging**; keep distinct from chapter 107's refusal/fear of begging. |
+| இரவச்சம் | Dread of Begging | Controlled chapter 107 heading; preserve the dignity-of-labour and refusal-to-beg frame. |
+| கயமை / கயவர் | Baseness / base people / the base | Preserve Kalaignar's direct and at times satirical register. |
+| குறிப்பு | sign / indication | Chapter 110 remains **Understanding Signs**. |
+| புணர்ச்சி | union / embrace | Chapter 111 is **Delight in Union**; choose according to the immediate verse/commentary relationship. |
+| அனிச்சம் / அனிச்சப்பூ | anicham flower | Retain the flower name so the source image at Kural 1111 and 1115 is not flattened to a generic flower. |
+
+### Part 012 source-sensitive controls
+
+- Kural **1018 commentary** retains the verified direction that moral conduct itself should be regarded as having **withdrawn in shame**.
+- Kural **1035 commentary** retains the person who works, **earns wages and eats**.
+- Kural **1048 commentary** retains poverty tormenting the poor person yesterday **as though killing him**.
+- Kural **1062** retains Kalaignar's direct challenge to **the one said to have created this world**; do not soften the rationalist force into a generic theological paraphrase.
+- Kural **1077** remains based on this edition's unusual audited printed wording and retains Kalaignar's **fist / cheek** and **saliva-wet hand** commentary direction. Do not substitute a familiar external Kural text.
+- Kural **1098** remains based on this edition's unusual audited printed wording and retains Kalaignar's **affectionate soft smile** and **new radiance** explanation. Do not substitute a familiar external Kural text.
+- Kural **1103** retains Kalaignar's skeptical comparison with the **world of the lotus-eyed one**.
+- Kural **1115** retains the **anicham-flower stalk / broken waist / absent auspicious drum** explanation.
+- Preserve scans **252–253** as aligned physical title/blank records; do not collapse the apparent printed-page jump from 218 to 221.
+
+No substantive Kural or Kalaignar-commentary body text was changed during the Part 012 editorial review. For the full rationale, see `reviews/PART_012_REVIEW.md`.
