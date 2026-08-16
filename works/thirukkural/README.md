@@ -14,12 +14,12 @@
 | 006 | `திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf` | 21 | 107–127 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
 | 007 | `திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf` | 21 | 128–148 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
 | 008 | `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf` | 21 | 149–169 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
-| 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | audited / **ARCHIVAL-READY**; English editorial review **COMPLETE 22/22** |
+| 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 22/22** |
 | 010 | `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf` | 23 | 192–214 | source received; transcription not started |
 
 Tamil Parts **001–009 are archival-ready continuously** through overall scan **191** / printed page **158** / Kural **780**.
 
-English Parts **001–008** are fully released continuously through Kural **670**. Part 009 English has completed first pass, direct source-check and editorial consistency / glossary reconciliation; all 22 aligned pages are now `editorial-reviewed` and await the separate release gate.
+English Parts **001–009 are released continuously** through Kural **780**. Part 009 has completed first pass, direct source-check, editorial consistency / glossary reconciliation and the separate release gate; all 22 aligned pages are now `release-ready`.
 
 ## Part 009 Tamil — ARCHIVAL-READY
 
@@ -48,7 +48,7 @@ Protected audited readings remain:
 - Kural **733 commentary**: `மளவுக்கு வளம்`
 - Kural **771 commentary**: `நடுகல்லாய்ப் போனவர்கள்`.
 
-## Part 009 English — EDITORIAL REVIEW COMPLETE
+## Part 009 English — RELEASE COMPLETE
 
 English scope:
 
@@ -58,18 +58,20 @@ English scope:
 - Kural **671–780**;
 - chapters **68–78**.
 
-Current status:
+Final status:
 
 - `draft`: **0**;
 - `source-checked`: **0**;
-- `editorial-reviewed`: **22 / 22**;
-- `release-ready`: **0**;
+- `editorial-reviewed`: **0**;
+- `release-ready`: **22 / 22**;
 - `source-limited`: **0**;
 - `blocked`: **0**.
 
 Editorial review: [`translations/en/reviews/PART_009_REVIEW.md`](translations/en/reviews/PART_009_REVIEW.md).
 
-### Controlled Part 009 headings
+Release report: [`translations/en/reviews/PART_009_RELEASE_REPORT.md`](translations/en/reviews/PART_009_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
+
+### Released Part 009 headings
 
 - 68 `வினை செயல்வகை` → **The Method of Action**;
 - 69 `தூது` → **The Envoy**;
@@ -83,9 +85,9 @@ Editorial review: [`translations/en/reviews/PART_009_REVIEW.md`](translations/en
 - 77 `படை மாட்சி` → **Excellence of the Army**;
 - 78 `படைச் செருக்கு` → **Martial Pride**.
 
-Chapter 71's earlier project-added `(Porul)` disambiguator has been removed from scans 176–177; no substantive Kural/commentary body text was changed during editorial review.
+Chapter 71's earlier project-added `(Porul)` disambiguator remains removed. No substantive Kural/commentary body text was changed during the release gate.
 
-### Controlled structural vocabulary
+### Released structural vocabulary
 
 - `அமைச்சியல்` → **Ministerial Affairs**;
 - `அரணியல்` → **Fortification Affairs**;
@@ -96,12 +98,12 @@ The source-check corrections at Kural 680, 691 and 717 remain intact, as do the 
 
 ### Adjacent source continuity
 
-Part 009 ends at printed page **158** / Kural **780**. The supplied Part 010 first page was inspected only for boundary continuity and begins at printed page **159**, chapter `79. நட்பு`, Kural **781**. Part 010 remains untranscribed.
+Part 009 ends at printed page **158** / Kural **780**. The supplied Part 010 first page was inspected only for boundary continuity and begins at printed page **159**, chapter `79. நட்பு`, Kural **781**.
 
 ## அடுத்த செயல்
 
-Perform the separate **Part 009 English release gate** across all **22 `editorial-reviewed` pages**, scans **170–191 / printed pages 137–158 / Kural 671–780**.
+Begin the separate **Part 010 Tamil first-pass transcription** using `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf` as the controlling source.
 
-Verify final alignment, metadata, controlled headings/sections and all protected source-check decisions; create `translations/en/reviews/PART_009_RELEASE_REPORT.md`; and promote pages to `release-ready` only if the gate passes.
+Start at overall scan **192 / printed page 159 / Kural 781 / chapter 79 `நட்பு`** and create all Part 010 page records as `needs-review` only.
 
-Do **not** begin Part 010 Tamil transcription during the Part 009 English release activity.
+Do **not** collapse first-pass transcription with direct visual verification or the Tamil audit. English Part 010 must not begin until the Tamil part reaches archival-ready status.
