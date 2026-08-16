@@ -6,10 +6,10 @@ printed_page: "170"
 work: "thirukkural"
 section: "பொருள் — நட்பியல் — பேதைமை"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **836. பொய்படும் ஒன்றோ புனைபூணும் கையறியாப்  
