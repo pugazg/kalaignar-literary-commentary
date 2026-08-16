@@ -6,10 +6,10 @@ printed_page: "86"
 work: "thirukkural"
 section: "பொருள் — அரசியல் — கேள்வி"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **416. எனைத்தானும் நல்லவை கேட்க அனைத்தானும்  
