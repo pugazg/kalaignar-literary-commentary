@@ -6,15 +6,15 @@ work: "thirukkural"
 section: "Porul — Ministerial Affairs — Eloquence"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
 
 # 65. Eloquence
 
-**641. The excellence called excellence of speech is a possession  
-that does not belong within any other excellence.**
+**641. The excellence called eloquence is a possession  
+not contained within any other excellence.**
 
 The distinction possessed by eloquence belongs to nothing else. It is therefore the finest wealth among all forms of wealth.
 
