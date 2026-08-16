@@ -21,7 +21,7 @@ Permanent workflow:
 
 **English first pass (`draft`) → direct source-check → editorial consistency / glossary reconciliation → release gate.**
 
-## Parts 001–010 — RELEASE COMPLETE THROUGH KURAL 895
+## Parts 001–011 — RELEASE COMPLETE THROUGH KURAL 1010
 
 - Part 001: 19 `release-ready` + scan 8 `source-limited`;
 - Part 002: **21/21 `release-ready`**;
@@ -32,50 +32,44 @@ Permanent workflow:
 - Part 007: **21/21 `release-ready`**, through Kural 565;
 - Part 008: **21/21 `release-ready`**, through Kural 670;
 - Part 009: **22/22 `release-ready`**, through Kural 780;
-- Part 010: **23/23 `release-ready`**, through Kural **895**.
+- Part 010: **23/23 `release-ready`**, through Kural 895;
+- Part 011: **23/23 `release-ready`**, through Kural **1010**.
 
 Latest released artefacts:
 
-- Part 010 editorial review: [`reviews/PART_010_REVIEW.md`](reviews/PART_010_REVIEW.md);
-- Part 010 release report: [`reviews/PART_010_RELEASE_REPORT.md`](reviews/PART_010_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
+- Part 011 Tamil audit: [`../../AUDIT_PART_011.md`](../../AUDIT_PART_011.md) — **PASS / ARCHIVAL-READY**;
+- Part 011 editorial review: [`reviews/PART_011_REVIEW.md`](reviews/PART_011_REVIEW.md);
+- Part 011 release report: [`reviews/PART_011_RELEASE_REPORT.md`](reviews/PART_011_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
 
-Released Parts 001–010 must not be changed merely to harmonize later wording.
+Released Parts 001–011 must not be changed merely to harmonize later wording.
 
-## Part 011 Tamil basis — ARCHIVAL-READY
+## Part 011 released scope
 
-Tamil audit: [`../../AUDIT_PART_011.md`](../../AUDIT_PART_011.md) — **PASS / ARCHIVAL-READY**.
+Part 011 English is fully released for:
 
-Part 011 scope:
-
-- **23 / 23** verified Tamil pages;
+- **23 / 23** aligned pages;
 - scans **215–237**;
 - printed pages **182–204**;
 - Kural **896–1010**;
-- chapters **90–101**;
-- unresolved Tamil records: **0**.
+- chapters **90–101**.
 
-## Part 011 English — EDITORIAL REVIEW COMPLETE
+All 23 Part 011 English records now carry:
 
-Editorial review: [`reviews/PART_011_REVIEW.md`](reviews/PART_011_REVIEW.md).
+```yaml
+translation_type: "project_translation"
+status: "release-ready"
+source_tamil_status: "verified"
+translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
+```
 
-All **23 / 23** aligned English records are now `editorial-reviewed`.
-
-Current state:
-
-- `draft`: **0**;
-- `source-checked`: **0**;
-- `editorial-reviewed`: **23 / 23**;
-- `release-ready`: **0**;
-- `source-limited`: **0**;
-- `blocked`: **0**.
-
-The source structural transition is controlled as:
+The released source structural transition is:
 
 - scans **215–225**: `நட்பியல்` → **Friendship**;
 - from scan **226 / printed page 193**: `குடியியல்` → **Civic Life**.
 
-Controlled Part 011 chapter headings are:
+Released Part 011 chapter headings are:
 
+- 90 `பெரியாரைப் பிழையாமை` → **Not Offending the Great**;
 - 91 `பெண்வழிச் சேறல்` → **Following a Woman's Lead**;
 - 92 `வரைவின் மகளிர்` → **Women Beyond Bounds**;
 - 93 `கள்ளுண்ணாமை` → **Abstaining from Liquor**;
@@ -88,20 +82,16 @@ Controlled Part 011 chapter headings are:
 - 100 `பண்புடைமை` → **Good Character**;
 - 101 `நன்றியில் செல்வம்` → **Wealth Without Benefit**.
 
-Chapter 90 continues the already released **Not Offending the Great**.
+All six Part 011 source-check corrections remain released: Kural 911 **bring suffering**, Kural 926's correct sleepers/dead and liquor/poison line relationship, Kural 953 **truthful citizens**, Kural 961 without the unsupported qualification attached to “indispensable,” Kural 989 with the all-seas image commentary-only, and Kural 1006 with the person as **a disease upon his great wealth**.
 
-All six direct source-check corrections remain intact: Kural 911 **bring suffering**, Kural 926's correct sleepers/dead and liquor/poison line relationship, Kural 953 **truthful citizens**, Kural 961 without the unsupported phrase attached to “indispensable,” Kural 989 with the all-seas image commentary-only, and Kural 1006 with the person as **a disease upon his great wealth**.
+The editorial refinement at Kural **939** remains **fame** in the Kural's five-item list.
 
-Editorial review made one additional source-led refinement: Kural **939** now uses **fame** rather than **honour** in the Kural's five-item list, matching Kalaignar's adjacent `புகழும்` explanation.
-
-Protected source-sensitive treatments remain unchanged, including Kural 899's **oppressive government**, Kural 948's **social disease**, Kural 966's **nonexistent heaven** question, the unusual audited Kural 971 wording, Kural 972's **Everyone is equal by birth** formulation, and the source punctuation at Kural 985 and 1008.
+Protected source-sensitive treatments remain unchanged, including Kural 899's **oppressive government**, Kural 948's **social disease**, Kural 966's **nonexistent heaven** question, the unusual audited Kural 971 wording, Kural 972's **Everyone is equal by birth** formulation, Kural 985/1008 source punctuation, Kural 1001's house-filling wealth image and the direct Part 011 imagery documented in the review and release report.
 
 No Kural **1011** or later English text has been created or inferred.
 
 ## Next project activity
 
-Perform the separate **Part 011 English release gate** for all **23 `editorial-reviewed` pages**.
+The Part 011 English workflow is **closed through release**.
 
-Check final one-to-one alignment for scans **215–237 / printed pages 182–204 / Kural 896–1010**, create `reviews/PART_011_RELEASE_REPORT.md`, and promote pages to `release-ready` only if the release gate passes.
-
-Do not combine that gate with later Tamil source work and do not modify released Parts 001–010.
+Do not assume or reconstruct Part 012. The next activity begins only when an actually supplied subsequent Tamil source is available. At that point, inspect the source directly, verify its identity and the outgoing boundary after printed page **204 / Kural 1010**, and begin the next separate Tamil source-intake / first-pass transcription gate.
