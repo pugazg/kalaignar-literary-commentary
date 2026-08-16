@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–008 **ARCHIVAL-READY** through overall scan 169 / printed page 136 / Kural 670 |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–007 **released through Kural 565**; Part 008 first pass **COMPLETE 21/21 draft** through Kural 670 |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–007 **released through Kural 565**; Part 008 **SOURCE-CHECK COMPLETE 21/21** through Kural 670 |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -46,29 +46,31 @@ The source-visible structural transition at scan **162 / printed page 129 / Kura
 
 `பொருள் — அரசியல்` → **`பொருள் — அமைச்சியல் — அமைச்சு`**.
 
-### Part 008 English — FIRST PASS COMPLETE
+### Part 008 English — SOURCE-CHECK COMPLETE
 
-All **21 / 21** aligned project-translation pages now exist for scans **149–169 / Kural 566–670** with `status: "draft"`.
+All **21 / 21** aligned Part 008 project-translation pages have passed direct source-check against the audited Tamil records.
 
 Current Part 008 English state:
 
-- `draft`: **21 / 21**;
-- `source-checked`: **0**;
+- `draft`: **0**;
+- `source-checked`: **21 / 21**;
 - `editorial-reviewed`: **0**;
 - `release-ready`: **0**.
 
-The draft retains Kalaignar's source-specific governance and intelligence vocabulary, rational/inquiry framing, **Oozh** at Kural 620, and the part's direct images rather than importing familiar external Kural readings.
+Six source-supported English fidelity corrections were made during this gate, affecting Kurals **579, 606, 626, 627, 638 and 644**. The source-check retained Kalaignar's governance/intelligence vocabulary, rational/inquiry framing, **Oozh** at Kural 620, institutional council-of-ministers/citizens language at Kural 632, and the direct source images rather than importing familiar external Kural readings.
 
-The Tamil `அரசியல்` → `அமைச்சியல்` transition is represented in first-pass English metadata as:
+The Tamil `அரசியல்` → `அமைச்சியல்` distinction remains represented in English metadata as:
 
 `Porul — Statecraft` → **`Porul — Ministerial Affairs`**.
 
-`Ministerial Affairs` remains a first-pass structural rendering pending source-check and later glossary/editorial reconciliation.
+`Ministerial Affairs` remains subject to deliberate final control at the editorial/glossary-reconciliation gate.
 
 ## அடுத்த செயல்
 
-Perform the separate **Part 008 English direct source-check** for all 21 aligned draft pages, comparing every Kural and Kalaignar commentary paragraph against the audited Tamil records.
+Perform the separate **Part 008 English editorial consistency / glossary-reconciliation review** for all **21 source-checked pages**.
 
-Do not combine that source-check with the Part 008 editorial review, release gate, or Part 009 Tamil transcription.
+That activity should reconcile chapter headings and recurring terminology, decide the controlled main-body rendering of `அமைச்சியல்`, create `PART_008_REVIEW.md`, and promote pages to `editorial-reviewed` only if the review passes.
+
+Do not combine that review with the Part 008 release gate or Part 009 Tamil transcription.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), and [`HANDOVER.md`](HANDOVER.md).
