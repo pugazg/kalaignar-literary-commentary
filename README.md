@@ -42,9 +42,9 @@ The new source therefore extends continuously through overall scan **214** / pri
 
 ### Tamil Part 006 — TRANSCRIPTION IN PROGRESS
 
-First-pass Tamil records now exist for scans **107–113**. They cover Kural **366–390**, the completion of `அவா அறுத்தல்`, chapter 38 `ஊழ்`, the `பொருள்` section-title and blank reverse page, and chapter 39 `இறைமாட்சி` through Kural 390.
+First-pass Tamil records now exist for scans **107–120**. They cover Kural **366–425**, the completion of `அவா அறுத்தல்`, chapter 38 `ஊழ்`, the `பொருள்` section-title and blank reverse page, chapters 39 `இறைமாட்சி`, 40 `கல்வி`, 41 `கல்லாமை`, 42 `கேள்வி`, and chapter 43 `அறிவுடைமை` through Kural 425.
 
-All seven new records are `needs-review`; direct visual verification and the Part 006 audit have not begun.
+All fourteen records are `needs-review`; direct visual verification and the Part 006 audit have not begun.
 
 ### English Parts 001–005 — RELEASE COMPLETE
 
@@ -58,6 +58,6 @@ Part 005 release is documented in [`works/thirukkural/translations/en/reviews/PA
 
 No English translation should begin for Part 006 until its Tamil transcription, direct verification and audit are complete.
 
-The next Tamil activity is Part 006 first-pass transcription for scans **114–120 / Kural 391–425**.
+The next Tamil activity is Part 006 first-pass transcription for the remaining scans **121–127 / Kural 426–460**.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), and [`HANDOVER.md`](HANDOVER.md).
