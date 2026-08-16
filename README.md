@@ -6,8 +6,8 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–011 **ARCHIVAL-READY continuously through overall scan 237 / printed page 204 / Kural 1010** |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–011 **RELEASED continuously through Kural 1010** |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–011 **ARCHIVAL-READY through scan 237 / printed page 204 / Kural 1010**; Part 012 Tamil first-pass **COMPLETE 23/23**, verification pending |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–011 **RELEASED continuously through Kural 1010**; Part 012 English not started |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -30,28 +30,41 @@ The project translation follows an explicit fidelity rule: **retain Kalaignar's 
 
 Tamil Parts **001–011** are audited / archival-ready continuously through overall scan **237** / printed page **204** / Kural **1010**.
 
-Part 011 Tamil audit: [`works/thirukkural/AUDIT_PART_011.md`](works/thirukkural/AUDIT_PART_011.md) — **PASS / ARCHIVAL-READY**.
+English Parts **001–011** have completed the full translation workflow continuously through Kural **1010**. Part 011 release report: [`works/thirukkural/translations/en/reviews/PART_011_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_011_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
 
-The Part 010 → Part 011 boundary passes at printed page **181 → 182 / Kural 895 → 896**. Part 011 preserves the source-visible transition from `பொருள் — நட்பியல்` on scans **215–225** to `பொருள் — குடியியல்` from scan **226 / printed page 193 / chapter 96 குடிமை**.
+### Part 012 Tamil first pass
 
-English Parts **001–011** have now completed the full translation workflow continuously through Kural **1010**.
+The newly supplied controlling source `திருக்குறள்_கலைஞர்_உரை_part_012_pages_238-260.pdf` has been inspected and the separate Tamil source-intake / first-pass gate is now **COMPLETE 23 / 23**.
 
-Part 011 English release report: [`works/thirukkural/translations/en/reviews/PART_011_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_011_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
+Part 012 first-pass scope:
 
-All **23 / 23** Part 011 aligned English records for scans **215–237 / printed pages 182–204 / Kural 896–1010** are now `status: "release-ready"`.
+- overall scans **238–260**;
+- printed pages **205–218**, then an unnumbered `இன்பம்` title leaf and an unnumbered blank/reverse-show-through leaf, then printed pages **221–227**;
+- Kural **1011–1115**;
+- all **23 / 23** records `status: "needs-review"`;
+- direct visual verification **pending**;
+- Tamil audit **not started**;
+- English Part 012 **not started / not yet eligible**.
 
-The released structural transition is `நட்பியல்` → **Friendship** followed by `குடியியல்` → **Civic Life**. Released chapter headings 90–101 are **Not Offending the Great**, **Following a Woman's Lead**, **Women Beyond Bounds**, **Abstaining from Liquor**, **Gambling**, **Medicine**, **Nobility**, **Honour**, **Greatness**, **Exemplary Character**, **Good Character**, and **Wealth Without Benefit**.
+The incoming Part 011 → Part 012 boundary is source-supported at printed page **204 → 205 / Kural 1010 → 1011**.
 
-All six Part 011 source-check corrections remain intact, and the Kural **939** editorial refinement remains **fame**. Protected source-sensitive treatments remain unchanged, including Kural **899**'s **oppressive government**, Kural **948**'s **social disease**, Kural **966**'s rationalist **nonexistent heaven** question, the unusual audited Kural **971** basis, Kural **972**'s explicit **Everyone is equal by birth** formulation, source punctuation at Kural **985/1008**, and the Part 011 source imagery.
+The source makes a major structural transition inside Part 012:
 
-No substantive Kural or Kalaignar-commentary body text was changed during the release gate; the release promotion changed page statuses only.
+- scans **238–251** remain `பொருள் — குடியியல்` through Kural **1080**;
+- scan **252** is the centered `இன்பம்` section-title leaf;
+- scan **253** has no independent printed body text;
+- from scan **254 / printed page 221 / Kural 1081**, the running hierarchy is `இன்பம் — களவியல்`.
 
-No Kural **1011** onward has been inferred or created.
+Part 012 ends at scan **260 / printed page 227 / Kural 1115**, midway through chapter 112 `நலம் புனைந்து உரைத்தல்`. The supplied Part 013 first page confirms the next physical boundary at printed page **228 / Kural 1116**, but **Part 013 transcription has not been started**.
+
+Additional supplied sources Parts **013–015** have been received and remain **not started**.
+
+No Part 012 page has been promoted to `verified`, no Part 012 audit has been created, and no English Part 012 translation has begun.
 
 ## அடுத்த செயல்
 
-The workflow is closed for all currently supplied Thirukkural material through Part 011 release.
+Perform **Part 012 Tamil direct visual verification** for all **23 physical pages / scans 238–260**. Compare every first-pass record directly with the controlling scan and promote pages to `verified` only when they pass.
 
-Do **not** assume or reconstruct Part 012. The next activity begins only when an actually supplied subsequent Tamil source is available. At that point, inspect the source directly, verify its identity and the outgoing boundary after printed page **204 / Kural 1010**, then begin the next separate Tamil source-intake / first-pass transcription gate.
+Do **not** combine verification with the Part 012 audit, English translation, or Part 013 transcription.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), and [`HANDOVER.md`](HANDOVER.md).
