@@ -22,73 +22,100 @@ Do not collapse these stages.
 
 Parts **001–006 are audited / archival-ready** through overall scan **127** / printed page **94** / Kural **460**.
 
-Parts 007–010 are received but remain source-intake only:
-
-- Part 007 — scans 128–148 / printed pages 95–115 / Kural 461–565;
-- Part 008 — scans 149–169 / printed pages 116–136 / Kural 566–670;
-- Part 009 — scans 170–191 / printed pages 137–158 / Kural 671–780;
-- Part 010 — scans 192–214 / printed pages 159–181 / Kural 781–895.
-
 ## English project translation
 
-Parts **001–006 are released** through Kural **460**.
+Parts **001–006 are released** through Kural **460**. Do not revise released entries during Part 007 work.
 
-Part 006 English final state:
+# Part 007 Tamil — FIRST-PASS IN PROGRESS
 
-- aligned files: **21 / 21**;
-- `release-ready`: **21 / 21**;
-- unresolved English records: **0**.
-
-Release artefacts:
-
-- `works/thirukkural/translations/en/reviews/PART_006_REVIEW.md`
-- `works/thirukkural/translations/en/reviews/PART_006_RELEASE_REPORT.md`
-
-## Protected released Part 006 decisions
-
-Do not revise released English merely because later parts introduce similar vocabulary. Any project-wide change must be deliberate, source-supported and documented.
-
-The Part 006 release specifically protects:
-
-- chapter 38 `ஊழ்` → **Oozh**;
-- Kalaignar's repeated `இயற்கை நிலை` → **natural condition**;
-- no conventional fate/destiny substitution;
-- government / administration / treasury / revenue / planned-expenditure vocabulary where Kalaignar uses it;
-- direct social comparisons and imagery without sanitization;
-- Kural 423's inquiry into what is true rather than passive acceptance;
-- rebuke/correction and pillar/capital analogies;
-- chapter 46 `இனம்` handled through **company / group / association** in accordance with Kalaignar's commentary, not through an imported racial or biological reading.
-
-# Exact next activity
-
-Begin **Part 007 Tamil first-pass transcription only** from the supplied source:
+Controlling source:
 
 `திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf`
 
-Known source boundaries from intake inspection:
+Source boundaries confirmed from the supplied scan:
 
 - overall scans: **128–148**;
 - local pages: **1–21**;
 - printed pages: **95–115**;
 - Kural range: **461–565**.
 
-## Required procedure
+Current first-pass state:
 
-1. fresh-fetch this `HANDOVER.md`, the root README, `works/thirukkural/README.md`, and `LITERARY_COMMENTARY_PROCESSING_GUIDE.md` before writing;
-2. inspect the controlling Part 007 scan directly;
-3. continue from Kural **461** without duplicating Part 006;
-4. create one Tamil Markdown record per physical scan using the established filename/front-matter conventions;
-5. preserve source-supported spelling, word joins, punctuation, numbering, headings and Kalaignar commentary exactly as printed;
-6. distinguish printed body text from stamps, handwriting, bleed-through, damage or later annotation;
-7. mark every new Part 007 page `needs-review` with direct visual verification pending;
-8. synchronize page-map/status/handover documents after the chosen first-pass batch;
-9. do not begin direct verification in the same first-pass activity.
+- page records created: **7 / 21**;
+- `needs-review`: **7 / 21** — scans 128–134;
+- `verified`: **0 / 21**;
+- Part 007 audit: **not started**;
+- English Part 007: **not started**.
 
-Do **not** during Part 007 Tamil first-pass transcription:
+## Existing Part 007 records
+
+1. `works/thirukkural/pages/0128-porul-therinthu-seyalvagai-01.md`
+   - scan 128 / printed page 95;
+   - chapter 47 `தெரிந்து செயல்வகை`;
+   - Kural 461–465.
+
+2. `works/thirukkural/pages/0129-porul-therinthu-seyalvagai-02.md`
+   - scan 129 / printed page 96;
+   - Kural 466–470.
+
+3. `works/thirukkural/pages/0130-porul-valiyarithal-01.md`
+   - scan 130 / printed page 97;
+   - chapter 48 `வலியறிதல்`;
+   - Kural 471–475.
+
+4. `works/thirukkural/pages/0131-porul-valiyarithal-02.md`
+   - scan 131 / printed page 98;
+   - Kural 476–480.
+
+5. `works/thirukkural/pages/0132-porul-kaalamarithal-01.md`
+   - scan 132 / printed page 99;
+   - chapter 49 `காலமறிதல்`;
+   - Kural 481–485.
+
+6. `works/thirukkural/pages/0133-porul-kaalamarithal-02.md`
+   - scan 133 / printed page 100;
+   - Kural 486–490.
+
+7. `works/thirukkural/pages/0134-porul-idanarithal-01.md`
+   - scan 134 / printed page 101;
+   - chapter 50 `இடனறிதல்` begins;
+   - Kural 491–495.
+
+All seven deliberately use:
+
+- `status: "needs-review"`;
+- `transcription_method: "manual transcription from source scan; direct visual verification pending"`.
+
+Do not promote them to `verified` until the separate direct visual verification stage.
+
+# Part 008 intake
+
+A fresh Part 008 scan has also been supplied:
+
+`திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf`
+
+Its first page is printed page **116** and contains Kural **566–570**, confirming continuity after Part 007. Part 008 remains **intake only** and must not be transcribed until Part 007's current workflow reaches the appropriate boundary.
+
+# Exact next activity
+
+Continue **Part 007 Tamil first-pass transcription only — Batch 2**, starting from:
+
+- overall scan **135**;
+- Part 007 local page **8**;
+- printed page **102**;
+- Kural **496**.
+
+The already inspected source shows:
+
+- scan 135 / printed 102 — continues chapter 50 `இடனறிதல்`, Kural 496–500;
+- scans 136–137 / printed 103–104 — chapter 51 `தெரிந்து தெளிதல்`, Kural 501–510.
+
+Continue into the next source pages as a normal first-pass batch if directly inspected. Keep every new page `needs-review`, preserve source wording and joins exactly, and stop before any direct verification.
+
+Do **not** during the next activity:
 
 - modify released Parts 001–006;
+- begin Part 007 direct verification;
+- create a Part 007 audit;
 - begin English Part 007 translation;
-- create a Part 007 Tamil audit;
-- promote first-pass Part 007 pages directly to `verified`.
-
-The next stage after Part 007 first-pass completion will be its separate direct visual verification workflow.
+- begin Part 008 transcription.
