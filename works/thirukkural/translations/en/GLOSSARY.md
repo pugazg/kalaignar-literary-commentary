@@ -544,3 +544,70 @@ Chapter 87 is deliberately refined from the provisional/source-checked **The Cha
 - Preserve the direct Part 010 imagery and formulations documented in `reviews/PART_010_REVIEW.md`, including moon phases, slipping clothing and the helping hand, battlefield horse, anvil, bent bow, hidden weapon and tears, mire, liquor, unwashed foot/bed, ghosts, thorn tree, unbaked clay pot, *seppu*, file-worn iron, sesame split, snake in a small hut and the government/ruler distinction.
 
 For the full Part 010 heading, terminology and fidelity rationale, see `reviews/PART_010_REVIEW.md`.
+
+## Part 011 main-body controlled extension
+
+The Part 011 editorial-consistency / glossary-reconciliation review extends the controlled main-body heading set through Kural **1010**. It completes chapter 90 from Part 010 and establishes chapters 91–101 from the supplied Part 011 main body.
+
+### Structural term established in Part 011
+
+| Tamil | Controlled English | Editorial note |
+|---|---|---|
+| குடியியல் | Civic Life | Controlled section-level metadata beginning at scan 226 / printed page 193 / chapter 96. The supplied division covers lineage and civic identity, honour, greatness, exemplary character, good character and the social use of wealth. **Civic Life** preserves a section level broader than chapter 96 `குடிமை` → **Nobility** without inventing an administrative or constitutional meaning that Kalaignar's Part 011 commentary does not supply. |
+
+The source-visible transition is therefore preserved as `நட்பியல்` → **Friendship** through scan 225, followed by `குடியியல்` → **Civic Life** from scan 226.
+
+### Main-body chapter titles 91–101
+
+| No. | Tamil heading | Controlled main-body English heading |
+|---:|---|---|
+| 91 | பெண்வழிச் சேறல் | Following a Woman's Lead |
+| 92 | வரைவின் மகளிர் | Women Beyond Bounds |
+| 93 | கள்ளுண்ணாமை | Abstaining from Liquor |
+| 94 | சூது | Gambling |
+| 95 | மருந்து | Medicine |
+| 96 | குடிமை | Nobility |
+| 97 | மானம் | Honour |
+| 98 | பெருமை | Greatness |
+| 99 | சான்றாண்மை | Exemplary Character |
+| 100 | பண்புடைமை | Good Character |
+| 101 | நன்றியில் செல்வம் | Wealth Without Benefit |
+
+Chapter 90 **Not Offending the Great** is continued unchanged on scan 215 / Kural 896–900. Chapter 91 **Following a Woman's Lead** confirms the earlier reviewed project form, while chapter 92 **Women Beyond Bounds** confirms the earlier index-local title without collapsing it into the commentary term `விலைமகளிர்` → **women for hire**.
+
+### Recurring Part 011 controls
+
+| Tamil | Controlled English range | Part 011 editorial note |
+|---|---|---|
+| கள் / மது | liquor / alcoholic drink / intoxication | Chapter 93 is **Abstaining from Liquor**. Preserve the liquor/poison comparison and the source's direct intoxication vocabulary. |
+| சூது | Gambling / gambling | Chapter 94 is **Gambling**. Preserve the fish/bait/iron-hook image, stakes, inherited wealth and loss vocabulary. |
+| மருந்து / மருத்துவம் | Medicine / medicine / treatment / medical method | Chapter 95 is **Medicine**. Kural 948 explicitly extends the diagnostic method from bodily disease to **social disease**; retain that extension. |
+| குடி / குலம் / குடிமக்கள் | lineage / family line / citizens | Chapter 96 is **Nobility**, where Kalaignar repeatedly uses high-lineage language, but Kural 953 commentary explicitly says **truthful citizens**. Do not force one English sense across all forms, and do not collapse chapter `குடிமை` into the broader structural `குடியியல்` → **Civic Life**. |
+| மானம் | Honour / honour / sense of honour | Chapter 97 is **Honour**. Preserve Kalaignar's direct shame, dignity, servile-submission and self-respect framing. |
+| பெருமை | Greatness / greatness | Chapter 98 is **Greatness**. Preserve Kalaignar's distinction between position and character and the explicit equality-by-birth explanation at Kural 972. |
+| சான்றாண்மை / சால்பு | Exemplary Character / exemplary character / character / excellence | Chapter 99 is **Exemplary Character**. Keep it distinct from chapter 100 `பண்புடைமை` → **Good Character**. |
+| பண்புடைமை / பண்பு | Good Character / good character / character | Chapter 100 is **Good Character**. Preserve Kalaignar's people/world/justice/friendship framing and the file/tree and dirty-vessel/milk images. |
+| நன்றியில் செல்வம் | Wealth Without Benefit | Chapter 101 title refers to wealth that is hoarded or not beneficially enjoyed/shared; do not mechanically import the ordinary `நன்றி` → gratitude sense into this compound title. |
+| புகழ் / ஒளி — Kural 939 | fame | Editorial review uses **fame** in the Kural's five-item list, matching Kalaignar's commentary `புகழும்` and avoiding the less source-specific source-checked **honour**. |
+
+### Part 011 source-check and source-sensitive controls
+
+- Kural **899 commentary** retains **“an oppressive government will be shaken and destroyed”** for Kalaignar's `அடக்குமுறை ஆட்சி` framing.
+- Kural **911** retains the source-check correction **bring suffering**, not the intensified first-pass **bring ruin**.
+- Kural **912 commentary** retains the sugar-sweet sense of source-sensitive `பாகுமொழிபேசும்`.
+- Kural **926** retains the corrected source line relationship: sleepers/dead in line one, liquor/poison in line two.
+- Kural **931 commentary** retains the fish, bait and iron-hook image.
+- Kural **948 commentary** retains **“This applies not only to bodily disease but also to social disease.”**
+- Kural **953** retains **truthful citizens**, following Kalaignar's explicit `வாய்மையுள்ள குடிமக்கள்` explanation.
+- Kural **961** retains the source-check removal of the unsupported phrase **to one's distinction** from “indispensable.”
+- Kural **966 commentary** retains Kalaignar's rationalist question **“Will some nonexistent heaven be gained?”**
+- Kural **971** remains translated from this edition's unusual audited printed wording, not a familiar external Kural reading.
+- Kural **972 commentary** retains **“Everyone is equal by birth. Difference can be seen only in the skill they show in the work they do.”**
+- Kural **985** retains the source's lack of a terminal period.
+- Kural **989** keeps the all-seas-overturning image in Kalaignar's commentary only; the Kural itself retains the source-check correction without that commentary-only expansion.
+- Kural **1001 commentary** retains the image of wealth accumulated beyond what a house can contain.
+- Kural **1006** retains the corrected subject relationship: the person who neither enjoys nor gives is **a disease upon his great wealth**.
+- Kural **1008** retains the source's lack of a terminal period.
+- Preserve the direct Part 011 images and formulations documented in `reviews/PART_011_REVIEW.md`, including the stranger's corpse in a dark room, “Mohini spell,” mire called hell, liquor/poison, torch under water, gambling hook, medical triad, `kunrimani`, `kavari` deer, queens of chastity, file/tree, dirty-vessel/milk, poisonous fruit and the miser as a disease infecting wealth.
+
+For the full Part 011 heading, terminology, source-check and editorial rationale, see `reviews/PART_011_REVIEW.md`.
