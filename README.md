@@ -6,8 +6,8 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–005 **ARCHIVAL-READY**; Part 006 first-pass **21/21 complete**, direct verification **21/21 complete**, audit pending; Parts 007–010 source received |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–005 **released through Kural 365**; Part 006 English not started |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–006 **ARCHIVAL-READY** through Kural 460; Parts 007–010 source received |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–005 **released through Kural 365**; Part 006 now eligible to begin |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -28,38 +28,29 @@ The project translation follows an explicit fidelity rule: **retain Kalaignar's 
 
 ## தற்போதைய நிலை — திருக்குறள்
 
-Tamil Parts **001–005** are archival-ready through overall scan **106** / printed page **73** / Kural **365**.
+Tamil Parts **001–006** are archival-ready through overall scan **127** / printed page **94** / Kural **460**.
 
-Five consecutive Tamil source parts have been supplied and inspected:
+Five consecutive Tamil source parts were supplied beyond Part 005:
 
-- Part 006 — scans 107–127 / Kural 366–460;
-- Part 007 — scans 128–148 / Kural 461–565;
-- Part 008 — scans 149–169 / Kural 566–670;
-- Part 009 — scans 170–191 / Kural 671–780;
-- Part 010 — scans 192–214 / Kural 781–895.
+- Part 006 — scans 107–127 / Kural 366–460 — **ARCHIVAL-READY**;
+- Part 007 — scans 128–148 / Kural 461–565 — source received, not started;
+- Part 008 — scans 149–169 / Kural 566–670 — source received, not started;
+- Part 009 — scans 170–191 / Kural 671–780 — source received, not started;
+- Part 010 — scans 192–214 / Kural 781–895 — source received, not started.
 
-The supplied source therefore extends continuously through overall scan **214** / printed page **181** / Kural **895**. This is source availability, not archival completion.
+The supplied source therefore extends continuously through overall scan **214** / printed page **181** / Kural **895**. Source availability beyond Part 006 does not imply archival completion.
 
-### Tamil Part 006 — DIRECT VERIFICATION COMPLETE; AUDIT PENDING
+### Tamil Part 006 — ARCHIVAL-READY
 
-First-pass Tamil records exist for **all 21 scans, 107–127**, covering Kural **366–460** and the transition from `அறம்` to `பொருள்`.
+Part 006 first-pass transcription and direct visual verification are complete for all **21 / 21** scans, and [`works/thirukkural/AUDIT_PART_006.md`](works/thirukkural/AUDIT_PART_006.md) records the archival release decision.
 
-All three direct visual verification batches are complete. Current status:
+Final Part 006 state:
 
-- `verified`: **21 / 21** — scans 107–127;
+- `verified`: **21 / 21**;
 - `needs-review`: **0**;
 - `partial`: **0**;
 - `blocked`: **0**;
-- Part 006 audit: not started.
-
-Source-supported corrections made during direct verification:
-
-- scan 109 / Kural 380 commentary: `வலிமையானவை` → `வலிமையானவையாக`;
-- scan 120 / Kural 425 commentary: `உயர்ந்தோர் உலகோர்` → `உயர்ந்தோரே உலகோர்`;
-- scan 123 / Kural 437 commentary: `ஏதுமின்றிப்` → `எதுமின்றிப்`;
-- scan 125 / Kural 449 commentary: `போன்றேயாகும்` → `போன்றதேயாகும்`.
-
-No unresolved Tamil text remains in Part 006 verification. The part is **not yet archival-ready** until the separate Part 006 audit is completed.
+- release: **ARCHIVAL-READY**.
 
 ### English Parts 001–005 — RELEASE COMPLETE
 
@@ -71,8 +62,8 @@ No unresolved Tamil text remains in Part 006 verification. The part is **not yet
 
 Part 005 release is documented in [`works/thirukkural/translations/en/reviews/PART_005_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_005_RELEASE_REPORT.md).
 
-No English translation should begin for Part 006 until its Tamil audit is complete and the part is declared archival-ready.
+With the Part 006 Tamil audit now passed, **Part 006 English project translation is eligible to begin**. The source-first cadence remains binding: verified/audited Tamil is the working translation basis, and Kalaignar's own interpretive language must be retained.
 
-The next Tamil activity is the **Part 006 Tamil audit / archival-ready decision** for scans **107–127 / Kural 366–460**.
+The next activity is **Part 006 English project translation first-pass**, page-aligned to scans **107–127 / Kural 366–460**.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), and [`HANDOVER.md`](HANDOVER.md).
