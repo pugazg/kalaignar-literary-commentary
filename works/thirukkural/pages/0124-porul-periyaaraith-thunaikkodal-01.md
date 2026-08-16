@@ -6,10 +6,10 @@ printed_page: "91"
 work: "thirukkural"
 section: "பொருள் — அரசியல் — பெரியாரைத் துணைக்கோடல்"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 # 45. பெரியாரைத் துணைக்கோடல்
