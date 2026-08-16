@@ -30,7 +30,7 @@ Permanent protected decisions from earlier released parts remain binding, includ
 | Part 007 | 128–148 | **ARCHIVAL-READY — audit passed** | **RELEASE-READY — 21/21** |
 | Part 008 | 149–169 | **ARCHIVAL-READY — audit passed** | **RELEASE-READY — 21/21** |
 | Part 009 | 170–191 | **ARCHIVAL-READY — audit passed** | **RELEASE-READY — 22/22** |
-| Part 010 | 192–214 | source received; transcription not started | not started |
+| Part 010 | 192–214 | **ARCHIVAL-READY — 23/23 verified; audit passed** | **not started — eligible for first pass** |
 
 ## Released English counts
 
@@ -43,6 +43,7 @@ Permanent protected decisions from earlier released parts remain binding, includ
 - Part 007: **21/21 `release-ready`** — through Kural 565.
 - Part 008: **21/21 `release-ready`** — through Kural 670.
 - Part 009: **22/22 `release-ready`** — through Kural 780.
+- Part 010: **0/23 English pages started**.
 
 # Parts 001–009 English release — COMPLETE
 
@@ -64,39 +65,8 @@ Scope:
 - overall scans: **170–191**;
 - printed pages: **137–158**;
 - Kural range: **671–780**;
-- chapters: **68–78**.
-
-Final Part 009 English status:
-
-- `draft`: **0**;
-- `source-checked`: **0**;
-- `editorial-reviewed`: **0**;
-- `release-ready`: **22 / 22**;
-- `source-limited`: **0**;
-- `blocked`: **0**.
-
-Every Part 009 English page retains:
-
-```yaml
-translation_type: "project_translation"
-status: "release-ready"
-source_tamil_status: "verified"
-translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
-```
-
-## Released Part 009 headings
-
-- 68 `வினை செயல்வகை` → **The Method of Action**;
-- 69 `தூது` → **The Envoy**;
-- 70 `மன்னரைச் சேர்ந்து ஒழுகல்` → **Conduct in the Presence of Kings**;
-- 71 `குறிப்பறிதல்` → **Understanding Signs**;
-- 72 `அவை அறிதல்` → **Knowing the Assembly**;
-- 73 `அவை அஞ்சாமை` → **Fearlessness in the Assembly**;
-- 74 `நாடு` → **The Country**;
-- 75 `அரண்` → **Fortress**;
-- 76 `பொருள் செயல்வகை` → **The Way of Acquiring Wealth**;
-- 77 `படை மாட்சி` → **Excellence of the Army**;
-- 78 `படைச் செருக்கு` → **Martial Pride**.
+- chapters: **68–78**;
+- final `release-ready`: **22 / 22**.
 
 ## Released structural vocabulary through Part 009
 
@@ -105,29 +75,44 @@ translation_basis: "verified Tamil archival transcription; controlling scan rema
 - `கூழியல்` → **Wealth**;
 - `படையியல்` → **Military Affairs**.
 
-These preserve the source-visible hierarchy rather than flattening the four section labels.
+Released source-sensitive protections from Parts 001–009 remain binding, including the Part 009 Kural 680, 691, 717, 725, 733, 771 and 773 decisions recorded in the review and release report.
 
-## Released Part 009 source-sensitive protections
+# Part 010 Tamil basis — ARCHIVAL-READY / ENGLISH ELIGIBLE
 
-The release gate confirms and preserves:
+Tamil basis: [`../../AUDIT_PART_010.md`](../../AUDIT_PART_010.md) — **PASS / ARCHIVAL-READY**.
 
-1. Kural **680** — **“those with little support ... the trembling among their own”**;
-2. Kural **691** — **“kings”**, with no unsupported “contentious”;
-3. Kural **717** — the clause ending **“there is a lapse”**, retaining this edition's verified final `இழுக்கு`;
-4. Kural **725 commentary** — **“the skill of measure called logic”** from `தருக்கமென்படும் அளவைக் திறமும்`;
-5. Kural **733 commentary** — **“possesses wealth to that measure”** from `மளவுக்கு வளம்`;
-6. Kural **771 commentary** — **“have become memorial stones”** from `நடுகல்லாய்ப் போனவர்கள்`;
-7. Kural **773** — Kalaignar's explicit **great manliness / manliness** framing.
+Scope available for English first pass:
 
-Kalaignar's government/public-life vocabulary and direct images remain protected. No substantive Kural or commentary body-text change was made during the Part 009 release gate.
+- aligned Tamil pages: **23 / 23**;
+- overall scans: **192–214**;
+- printed pages: **159–181**;
+- Kural range: **781–895**;
+- section: `பொருள் — நட்பியல்`;
+- chapters: **79–90**;
+- chapter 90 is source-limited in this supplied part to Kural **891–895** because the scan ends at Kural 895.
+
+Part 010 English has **not started**. There are currently no Part 010 `draft`, `source-checked`, `editorial-reviewed` or `release-ready` English pages.
+
+The Part 010 first pass must preserve Kalaignar's actual wording and the source-supported structure. In particular, scan **209 / Kural 869 commentary** contains the source-confirmed repetition:
+
+`அஞ்சிடும் கோழைகளாகவும், அறிவில்லாக் கோழைகளாகவும் பகைவர்கள் இருப்பின் அவர்களை எதிர்ப்போரை விட்டு வெற்றியெனும் இன்பம் விலகாமலே நிலைத்து நிற்கும்.`
+
+Do not silently smooth that source basis during English translation. Translate its actual argument faithfully and leave later stylistic reconciliation to the separate editorial gate.
+
+The supplied Tamil basis ends at Kural **895**. Do not create or infer an English Kural 896 without the next audited Tamil source.
 
 ## Next project activity
 
-The English workflow is complete through Part 009 / Kural **780**.
+Perform **Part 010 English project translation — first pass** for all **23 aligned pages**.
 
-The next separate project activity is **Part 010 Tamil first-pass transcription**, beginning at overall scan **192 / printed page 159 / Kural 781 / chapter 79 `நட்பு`**, using the supplied Part 010 scan as controlling source.
+Every Part 010 English page created in that activity must use:
 
-Part 010 English must not begin until the Part 010 Tamil transcription, direct visual verification and Tamil audit / archival-ready gates are complete.
+```yaml
+translation_type: "project_translation"
+status: "draft"
+```
+
+Stop after the complete 23-page first pass. Do **not** perform direct English source-check, editorial consistency / glossary reconciliation or release in the same activity.
 
 Permanent cadence:
 
