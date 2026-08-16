@@ -6,10 +6,10 @@ printed_page: "87"
 work: "thirukkural"
 section: "பொருள் — அரசியல் — அறிவுடைமை"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 # 43. அறிவுடைமை
@@ -37,6 +37,6 @@ transcription_method: "manual transcription from source scan; direct visual veri
 **425. உலகந் தழீஇய தொட்பம் மலர்தலுங்  
 கூம்பலு மில்ல தறிவு.**
 
-உயர்ந்தோர் உலகோர் என்பதனால் அவர்களுடன் நட்பு கொண்டு இன்பம் துன்பம் ஆகிய இரண்டையும் ஒரே நிலையாகக் கருதுவதே அறிவுடைமையாகும்.
+உயர்ந்தோரே உலகோர் என்பதனால் அவர்களுடன் நட்பு கொண்டு இன்பம் துன்பம் ஆகிய இரண்டையும் ஒரே நிலையாகக் கருதுவதே அறிவுடைமையாகும்.
 
 <!-- மூல ஸ்கேன் பக்கம்: 120; Part 006 உள்ளூர் பக்கம்: 14; அச்சுப் பக்கம்: 87 -->
