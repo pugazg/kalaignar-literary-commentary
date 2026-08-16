@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Porul — Statecraft — Acting After Deliberation"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -28,8 +28,8 @@ in the hope of gaining a great profit.**
 
 People of wisdom will not undertake a matter that may make them lose even their capital merely because they expect a large gain.
 
-**464. Those who fear the disgrace of failure  
-do not begin what has not been made clear.**
+**464. Those who fear the blemish of disgrace  
+do not begin an action whose consequences are unclear.**
 
 Those who are capable of fearing blemish will think through the consequences and will not enter upon an action that could bring such blemish.
 
