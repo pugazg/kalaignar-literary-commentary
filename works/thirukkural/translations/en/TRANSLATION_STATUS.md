@@ -32,16 +32,14 @@ Permanent protected decisions from earlier released parts remain binding, includ
 | Part 009 | 170–191 | **ARCHIVAL-READY** | **RELEASE-READY — 22/22** |
 | Part 010 | 192–214 | **ARCHIVAL-READY — 23/23 verified** | **RELEASE-READY — 23/23** |
 | Part 011 | 215–237 | **ARCHIVAL-READY — 23/23 verified** | **RELEASE-READY — 23/23** |
-| Part 012 | 238–260 | **DIRECT VERIFICATION COMPLETE — 23/23 verified; audit pending** | **NOT STARTED — not eligible until Tamil audit passes** |
+| Part 012 | 238–260 | **ARCHIVAL-READY — 23/23 verified; audit passed** | **NOT STARTED — eligible for first pass** |
 | Part 013 | 261–282 | source received; not started | not started |
 | Part 014 | 283–302 | source received; not started | not started |
 | Part 015 | 303–323 | source received; not started | not started |
 
-Tamil Parts **001–011 are archival-ready continuously through overall scan 237 / printed page 204 / Kural 1010**.
+Tamil Parts **001–012 are archival-ready continuously through overall scan 260 / printed page 227 / Kural 1115**.
 
-Part 012 now has a fully direct-verified Tamil page layer through overall scan **260 / printed page 227 / Kural 1115**, but it is **not archival-ready** until the separate Tamil audit passes.
-
-English Parts **001–011 are fully released continuously through Kural 1010**. No Part 012 English record has been created.
+English Parts **001–011 are fully released continuously through Kural 1010**. Part 012 English has not started and is now eligible for first-pass translation.
 
 ## Released English counts
 
@@ -65,48 +63,59 @@ Editorial review: [`reviews/PART_011_REVIEW.md`](reviews/PART_011_REVIEW.md).
 
 Release report: [`reviews/PART_011_RELEASE_REPORT.md`](reviews/PART_011_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
 
-Part 011 released scope is **23 / 23** aligned pages, scans **215–237**, printed pages **182–204**, Kural **896–1010**, chapters **90–101**, with no unresolved/blocked English records.
-
 Released Part 011 controls remain binding, including the `Friendship → Civic Life` structural transition, all six direct source-check corrections, Kural 939 **fame**, Kural 899 **oppressive government**, Kural 948 **social disease**, Kural 966 **nonexistent heaven**, the unusual audited Kural 971 basis, Kural 972's equality-by-birth formulation, Kural 985/1008 source punctuation, Kural 1001's house-filling wealth image, and the direct imagery documented in the Part 011 review/release report.
 
-## Part 012 Tamil basis — DIRECT VERIFIED, AUDIT PENDING
+## Part 012 Tamil basis — ARCHIVAL-READY
+
+Tamil audit: [`../../AUDIT_PART_012.md`](../../AUDIT_PART_012.md) — **PASS / ARCHIVAL-READY**.
 
 Controlling source: `திருக்குறள்_கலைஞர்_உரை_part_012_pages_238-260.pdf`
 
-Current Tamil state:
+Audited scope:
 
 - physical records: **23 / 23**;
 - scans: **238–260**;
+- printed pages: **205–218**, two unnumbered leaves, then **221–227**;
+- Kural range: **1011–1115**;
 - `verified`: **23 / 23**;
-- `needs-review`: **0**;
-- audit: **not started**;
-- English eligibility: **no**, pending audit.
+- unresolved Tamil records: **0**;
+- English eligibility: **yes**.
 
-Directly verified source structure:
+Audited source structure:
 
 - scans **238–251**: `பொருள் — குடியியல்`, Kural **1011–1080**;
 - scan **252**: `இன்பம்` section-title leaf;
 - scan **253**: blank/reverse-show-through leaf;
 - scans **254–260**: `இன்பம் — களவியல்`, Kural **1081–1115**.
 
-The incoming source boundary passes at printed page **204 → 205 / Kural 1010 → 1011**. Part 012's printed pagination runs **205–218**, then resumes at **221–227** after the two unnumbered section leaves. Chapter 112 begins on scan 260 and continues beyond this source unit; the first supplied Part 013 page shows printed page **228 / Kural 1116**, but no Part 013 transcription has been started.
+The incoming boundary passes at printed page **204 → 205 / Kural 1010 → 1011**. The supplied Part 013 first page confirms the outgoing boundary at printed page **227 → 228 / Kural 1115 → 1116**, without starting Part 013 transcription.
 
-Verification corrected three first-pass readings in Kalaignar's commentary: Kural **1018** now ends `அகன்றுவிட்டதாகக் கருத வேண்டும்.`, Kural **1035** has `ஊதியம் பெற்று உண்ணும் இயல்புடையவர்`, and Kural **1048** has `கொலை செய்வதுபோல நேற்று...`.
+The three direct-verification corrections are authoritative:
 
-Two unusual verse readings were directly confirmed from the scan and remain protected for future English work:
+1. Kural **1018 commentary** — `அகன்றுவிட்டதாகக் கருத வேண்டும்.`
+2. Kural **1035 commentary** — `ஊதியம் பெற்று உண்ணும் இயல்புடையவர்`
+3. Kural **1048 commentary** — `கொலை செய்வதுபோல நேற்று...`
+
+Protected source-specific verse readings for future English work:
 
 - Kural **1077**: `ஈங்கை விதிரார் கயவர் கொடிறுடைக்குங் / கூன்கையர் அல்லா தவர்க்கு.`
 - Kural **1098**: `அசையியற் குண்டாண்டோர் ஏஎர்யான் நோக்கப் / பசையினள் பைய நகும்.`
 
-Because Part 012 has not yet passed its separate Tamil audit, **do not begin English first-pass translation**.
-
 ## Exact next activity
 
-**Part 012 Tamil audit / archival-ready gate.**
+**Part 012 English project translation — first pass** for all **23 aligned physical pages / scans 238–260**.
 
-The audit must verify the complete 23-page manifest, scan/local-page continuity, printed-page and Kural continuity, structural transitions, title/blank leaves, adjacent-part boundaries, and all verification corrections. Only after an explicit `AUDIT_PART_012.md` PASS may Part 012 English first-pass translation begin.
+For every new aligned English record use:
 
-Do not combine the audit gate with Part 012 English work or Part 013 transcription.
+```yaml
+translation_type: "project_translation"
+status: "draft"
+source_tamil_status: "verified"
+```
+
+Mirror the Tamil page filenames and physical alignment, including the `இன்பம்` title leaf and blank/reverse-show-through leaf. Preserve the section transition and source-specific Kural 1077/1098 readings. Translate Kalaignar's actual commentary direction rather than importing standard glosses.
+
+Stop after first pass. Do not source-check, editorial-review or release in the same activity. Do not begin Part 013 Tamil transcription. Do not alter released English Parts 001–011.
 
 Permanent cadence:
 
