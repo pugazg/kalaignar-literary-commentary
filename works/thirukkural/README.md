@@ -30,7 +30,7 @@ The newly supplied Part 007 scan is the controlling source for scans **128–148
 
 All seven records are deliberately `needs-review`; direct visual verification has **not** begun for Part 007.
 
-The separately supplied Part 008 begins at printed page **116** with Kural **566–570**, confirming physical and textual continuity after Part 007. fileciteturn347file1L23-L36
+The separately supplied Part 008 begins at printed page **116** with Kural **566–570**, confirming physical and textual continuity after Part 007.
 
 The source-first rule remains binding: the scan is authoritative; Markdown is an archival layer rather than a corrected edition.
 
