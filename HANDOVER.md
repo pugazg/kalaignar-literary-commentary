@@ -21,7 +21,7 @@ Before making changes:
    - `works/thirukkural/translations/en/GLOSSARY.md`;
    - `works/thirukkural/translations/en/TRANSLATION_STATUS.md`;
    - latest completed review/release artefacts, currently `PART_009_REVIEW.md` and `PART_009_RELEASE_REPORT.md`;
-   - the current Tamil audit, now `works/thirukkural/AUDIT_PART_010.md`.
+   - `works/thirukkural/AUDIT_PART_010.md`.
 
 Repository state is authoritative.
 
@@ -53,7 +53,7 @@ Latest Tamil audit: `works/thirukkural/AUDIT_PART_010.md` — **PASS / ARCHIVAL-
 
 Parts **001–009 are fully released continuously** through Kural **780**.
 
-Part 010 English has **not started** and is now eligible for first-pass translation.
+Part 010 English first-pass translation is now **COMPLETE 23 / 23** through Kural **895**. All Part 010 English pages remain `draft`; direct source-check has not begun.
 
 Every English page must identify:
 
@@ -64,31 +64,6 @@ translation_type: "project_translation"
 Released Parts 001–009 must not be revised merely to harmonize later vocabulary.
 
 Permanent earlier protections remain binding, including chapter 38 `ஊழ்` → **Oozh**, `இயற்கை நிலை` → **natural condition**, Kural 543's Kalaignar-directed `அறவோர் நூல்களுக்கும்` → **the books of the virtuous**, and all Part 009 release decisions documented in its review/release report.
-
-# Part 009 English — RELEASE COMPLETE
-
-Scope:
-
-- scans **170–191**;
-- printed pages **137–158**;
-- Kural **671–780**;
-- chapters **68–78**;
-- aligned English records: **22 / 22**;
-- final status: **22 / 22 `release-ready`**.
-
-Release artefacts:
-
-- `works/thirukkural/translations/en/reviews/PART_009_REVIEW.md`
-- `works/thirukkural/translations/en/reviews/PART_009_RELEASE_REPORT.md`
-
-Released structural vocabulary through Part 009:
-
-- `அமைச்சியல்` → **Ministerial Affairs**;
-- `அரணியல்` → **Fortification Affairs**;
-- `கூழியல்` → **Wealth**;
-- `படையியல்` → **Military Affairs**.
-
-Do not flatten source-visible structural distinctions in later work.
 
 # Part 010 Tamil — ARCHIVAL-READY
 
@@ -102,7 +77,7 @@ Audit:
 
 Decision: **PASS / ARCHIVAL-READY**.
 
-Final audited scope:
+Audited scope:
 
 - physical pages: **23**;
 - overall scans: **192–214**;
@@ -116,69 +91,132 @@ Final audited scope:
 - `partial`: **0**;
 - `blocked`: **0**.
 
-Part 010 chapter / page map:
+Part 009 → Part 010 continuity passed at printed page **158 → 159** / Kural **780 → 781**.
 
-- scans **192–193** / pp. **159–160** — `79. நட்பு` — Kural **781–790**;
-- scans **194–195** / pp. **161–162** — `80. நட்பாராய்தல்` — **791–800**;
-- scans **196–197** / pp. **163–164** — `81. பழைமை` — **801–810**;
-- scans **198–199** / pp. **165–166** — `82. தீ நட்பு` — **811–820**;
-- scans **200–201** / pp. **167–168** — `83. கூடா நட்பு` — **821–830**;
-- scans **202–203** / pp. **169–170** — `84. பேதைமை` — **831–840**;
-- scans **204–205** / pp. **171–172** — `85. புல்லறிவாண்மை` — **841–850**;
-- scans **206–207** / pp. **173–174** — `86. இகல்` — **851–860**;
-- scans **208–209** / pp. **175–176** — `87. பகை மாட்சி` — **861–870**;
-- scans **210–211** / pp. **177–178** — `88. பகைத்திறம் தெரிதல்` — **871–880**;
-- scans **212–213** / pp. **179–180** — `89. உட்பகை` — **881–890**;
-- scan **214** / p. **181** — `90. பெரியாரைப் பிழையாமை` — **891–895** in this supplied part.
+Direct visual verification found **no first-pass Tamil body-text correction requiring a change**.
 
-## Part 010 audit findings to preserve
+The source-sensitive scan **209 / Kural 869 commentary** was directly confirmed as:
 
-1. complete **23 / 23** page coverage and continuous metadata passed;
-2. Part 009 → Part 010 boundary passed at printed page **158 → 159** / Kural **780 → 781**;
-3. direct visual verification found **no first-pass body-text correction requiring a change**;
-4. scan **209 / Kural 869 commentary** was rechecked and the source confirms the repetition:
+`அஞ்சிடும் கோழைகளாகவும், அறிவில்லாக் கோழைகளாகவும் பகைவர்கள் இருப்பின் அவர்களை எதிர்ப்போரை விட்டு வெற்றியெனும் இன்பம் விலகாமலே நிலைத்து நிற்கும்.`
 
-   `அஞ்சிடும் கோழைகளாகவும், அறிவில்லாக் கோழைகளாகவும் பகைவர்கள் இருப்பின் அவர்களை எதிர்ப்போரை விட்டு வெற்றியெனும் இன்பம் விலகாமலே நிலைத்து நிற்கும்.`
+Do not silently smooth, deduplicate or normalize that Tamil basis.
 
-   Do not silently smooth, deduplicate or normalize this Tamil basis;
-5. the supplied Part 010 source ends at printed page **181 / Kural 895**, halfway through chapter 90. The next source part is not supplied; **do not infer Kural 896 onward**.
+The supplied source ends at printed page **181 / Kural 895**, halfway through chapter 90 `பெரியாரைப் பிழையாமை`. Do not infer Kural 896 onward without the next controlling source.
 
-# Exact next activity
+# Part 010 English — FIRST PASS COMPLETE
 
-Perform **Part 010 English project translation — first pass** for all **23 aligned archival-ready Tamil pages**, scans **192–214 / printed pages 159–181 / Kural 781–895**.
-
-## Required Part 010 English first-pass procedure
-
-1. fresh-read all mandatory English startup files listed above;
-2. inspect `works/thirukkural/AUDIT_PART_010.md` and all 23 verified Part 010 Tamil records;
-3. inspect the Part 010 English target directory first and continue existing work rather than creating duplicates; expected current state is no Part 010 English page records;
-4. create one aligned English page for each Tamil filename under `works/thirukkural/translations/en/pages/`;
-5. every new Part 010 English page must use:
+All **23 / 23** aligned English pages now exist under `works/thirukkural/translations/en/pages/` and remain:
 
 ```yaml
 translation_type: "project_translation"
 status: "draft"
+source_tamil_status: "verified"
+translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ```
 
-6. preserve Kural number and a two-line translated Kural structure;
-7. keep the Kural translation and Kalaignar commentary translation visibly separate;
-8. translate Kalaignar's actual wording, reasoning, images and social vocabulary rather than substituting a familiar standard Kural gloss;
-9. preserve the source-supported `பொருள் — நட்பியல்` hierarchy rather than flattening it;
-10. determine first-pass English chapter headings for chapters **79–90** and a provisional project rendering for structural term `நட்பியல்` from the actual Tamil context and existing glossary/style; do not revise released Parts 001–009 merely to harmonize terminology;
-11. protect scan **209 / Kural 869 commentary** as a source-sensitive basis and do not silently repair its repetition in the Tamil basis;
-12. stop at Kural **895**; do not create or infer Kural 896 onward;
-13. create exactly **23** Part 010 English records as `draft` if no source blocker arises;
-14. update `TRANSLATION_STATUS.md`, English README, work README, root README and this handover after the first-pass gate; update `GLOSSARY.md` during first pass only if consistent with the project's prior practice for introducing provisional/controlled terms;
-15. stop after the complete English first pass.
+Current Part 010 English state:
 
-## Do not combine with Part 010 English first pass
+- `draft`: **23 / 23**;
+- `source-checked`: **0**;
+- `editorial-reviewed`: **0**;
+- `release-ready`: **0**;
+- `source-limited`: **0**;
+- `blocked`: **0**.
+
+## Part 010 English page files
+
+- `0192-porul-natpu-01.md`
+- `0193-porul-natpu-02.md`
+- `0194-porul-natpaaraaythal-01.md`
+- `0195-porul-natpaaraaythal-02.md`
+- `0196-porul-pazhaimai-01.md`
+- `0197-porul-pazhaimai-02.md`
+- `0198-porul-thee-natpu-01.md`
+- `0199-porul-thee-natpu-02.md`
+- `0200-porul-koodaa-natpu-01.md`
+- `0201-porul-koodaa-natpu-02.md`
+- `0202-porul-pethaimai-01.md`
+- `0203-porul-pethaimai-02.md`
+- `0204-porul-pullarivaanmai-01.md`
+- `0205-porul-pullarivaanmai-02.md`
+- `0206-porul-igal-01.md`
+- `0207-porul-igal-02.md`
+- `0208-porul-pagai-maatchi-01.md`
+- `0209-porul-pagai-maatchi-02.md`
+- `0210-porul-pagaithiram-therithal-01.md`
+- `0211-porul-pagaithiram-therithal-02.md`
+- `0212-porul-utpagai-01.md`
+- `0213-porul-utpagai-02.md`
+- `0214-porul-periyaaraip-pizhaiyaamai-01.md`.
+
+## Provisional Part 010 first-pass terminology
+
+The section-level rendering currently used is:
+
+- `நட்பியல்` → **Friendship** — **provisional**.
+
+First-pass chapter headings:
+
+- 79 `நட்பு` → **Friendship**;
+- 80 `நட்பாராய்தல்` → **Examining Friendship**;
+- 81 `பழைமை` → **Long-Standing Friendship**;
+- 82 `தீ நட்பு` → **Harmful Friendship**;
+- 83 `கூடா நட்பு` → **False Friendship**;
+- 84 `பேதைமை` → **Folly**;
+- 85 `புல்லறிவாண்மை` → **Possession of Little Understanding**;
+- 86 `இகல்` → **Discord**;
+- 87 `பகை மாட்சி` → **The Character of Enmity**;
+- 88 `பகைத்திறம் தெரிதல்` → **Discerning Enmity**;
+- 89 `உட்பகை` → **Internal Enmity**;
+- 90 `பெரியாரைப் பிழையாமை` → **Not Offending the Great**.
+
+These are first-pass choices only. `GLOSSARY.md` was deliberately **not** updated at this gate because the project has previously finalized new structural controls during the later editorial consistency / glossary reconciliation gate. Do not treat these provisional forms as released controls yet.
+
+## Part 010 first-pass fidelity points
+
+1. Kural/commentary separation and two-line English Kural structure are present on all aligned pages.
+2. Kalaignar's direct language and images are retained rather than replaced by a standard English Thirukkural translation.
+3. Kural **850** commentary retains Kalaignar's evidence/truth framing and the quoted **“ghosts”** image.
+4. Kural **813** commentary retains the source's explicit comparison involving **women for hire** and thieves rather than neutralizing the social/gender specificity.
+5. Kural **835** uses the source commentary's **seven periods** without importing an external doctrinal “seven births” explanation.
+6. Scan **209 / Kural 869 commentary** preserves the repetition in English as **“cowards who are afraid, and ignorant cowards”** rather than silently repairing it.
+7. Kural **895** retains the distinction between the Kural's ruler language and Kalaignar commentary's government framing.
+8. No Kural **896** or later English text has been created.
+
+# Exact next activity
+
+Perform the separate **Part 010 English direct source-check** for all **23 `draft` pages**, scans **192–214 / printed pages 159–181 / Kural 781–895**.
+
+## Required Part 010 English source-check procedure
+
+1. fresh-read all mandatory English startup files above;
+2. inspect `AUDIT_PART_010.md`, all 23 verified Tamil Part 010 records, and all 23 English draft records;
+3. compare each translated Kural against the verified Tamil Kural for number, two-line structure, omissions, additions and meaning drift;
+4. compare every Kalaignar commentary paragraph directly against the corresponding verified Tamil commentary;
+5. preserve Kalaignar's actual interpretive direction rather than substituting a standard Kural gloss;
+6. verify `source_scan_page`, `source_tamil_file`, `printed_page`, section/chapter metadata, `translation_type`, `source_tamil_status`, translation basis and source marker for all 23 pages;
+7. pay special attention to first-pass interpretive risk points, including Kural 813, 835, 849, 850, 861, 869, 876 and 895;
+8. specifically retain the source-supported Kural 869 repetition rather than smoothing it away;
+9. document every substantive correction made during source-check;
+10. promote only pages that pass to:
+
+```yaml
+status: "source-checked"
+```
+
+11. keep provisional section/chapter terminology provisional; do not perform the later glossary/editorial gate during source-check;
+12. synchronize `TRANSLATION_STATUS.md`, English README, work README, root README and this handover after the complete source-check;
+13. stop after source-check.
+
+## Do not combine with source-check
 
 Do **not**:
 
-- promote any Part 010 English page to `source-checked` in the same activity;
-- perform editorial consistency / glossary reconciliation as a later-gate substitute;
-- create `PART_010_REVIEW.md` or `PART_010_RELEASE_REPORT.md` during first pass;
-- begin any unsupplied Tamil continuation after Kural 895;
+- create `PART_010_REVIEW.md` during this activity;
+- finalize `நட்பியல்` or chapter-heading glossary controls during this activity;
+- promote pages to `editorial-reviewed` or `release-ready`;
+- create `PART_010_RELEASE_REPORT.md`;
+- begin unsupplied Tamil or English continuation after Kural 895;
 - alter released English Parts 001–009 merely for harmonization.
 
-If all 23 English first-pass records are completed, the next separate activity will be **Part 010 English direct source-check**.
+If all 23 pages pass source-check with no blocker, the next separate activity will be **Part 010 English editorial consistency / glossary reconciliation**.
