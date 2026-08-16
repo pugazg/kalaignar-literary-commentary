@@ -6,10 +6,10 @@ printed_page: "112"
 work: "thirukkural"
 section: "பொருள் — அரசியல் — செங்கோன்மை"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **546. வேலன்று வென்றி தருவது மன்னவன்  
@@ -20,7 +20,7 @@ transcription_method: "manual transcription from source scan; direct visual veri
 **547. இறைகாக்கும் வையகம் எல்லாம் அவனை  
 முறைகாக்கும் முட்டாச் செயின்.**
 
-நீதி வழுவாமல் ஓர் அரசு நடைபெறாமல் அந்த அரசை அந்த நீதியே காப்பாற்றும்.
+நீதி வழுவாமல் ஓர் அரசு நடைபெற்றால் அந்த அரசை அந்த நீதியே காப்பாற்றும்.
 
 **548. எண்பதத்தான் ஓரா முறைசெய்யா மன்னவன்  
 தண்பதத்தான் தானே கெடும்.**
