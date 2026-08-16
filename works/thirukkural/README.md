@@ -13,19 +13,22 @@
 | 005 | `திருக்குறள்_கலைஞர்_உரை_part_005_pages_85-106.pdf` | 22 | 85–106 | audited / **ARCHIVAL-READY** |
 | 006 | `திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf` | 21 | 107–127 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
 | 007 | `திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf` | 21 | 128–148 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
-| 008 | `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf` | 21 | 149–169 | source received; continuity confirmed from Kural 566; transcription not started |
+| 008 | `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf` | 21 | 149–169 | Tamil first-pass **7/21** through scan 155 / Kural 600 |
 | 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | source received; transcription not started |
 | 010 | `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf` | 23 | 192–214 | source received; transcription not started |
 
 Tamil Parts **001–007 are archival-ready**, reaching overall scan **148** / printed page **115** / Kural **565**.
 
-## Part 007 Tamil — ARCHIVAL-READY
+## Part 008 Tamil — FIRST-PASS IN PROGRESS
 
-Part 007 first-pass transcription, direct visual verification and Tamil archival audit are complete for all **21 / 21** scans, covering scans **128–148 / printed pages 95–115 / Kural 461–565**.
+Part 008 directly continues Part 007. First-pass Tamil records now exist for **7 / 21** scans:
 
-Audit report: [`AUDIT_PART_007.md`](AUDIT_PART_007.md).
+- scan 149 / printed 116 — completes chapter 57 `வெருவந்த செய்யாமை`, Kural 566–570;
+- scans 150–151 / printed 117–118 — chapter 58 `கண்ணோட்டம்`, Kural 571–580;
+- scans 152–153 / printed 119–120 — chapter 59 `ஒற்றாடல்`, Kural 581–590;
+- scans 154–155 / printed 121–122 — chapter 60 `ஊக்கம் உடைமை`, Kural 591–600.
 
-The separately supplied Part 008 begins at printed page **116** with Kural **566–570**, directly continuing chapter 57 `வெருவந்த செய்யாமை` after Part 007's Kural 565.
+All seven are intentionally `needs-review` first-pass records. Direct visual verification has **not** begun for Part 008.
 
 The source-first rule remains binding: the scan is authoritative; Markdown is an archival layer rather than a corrected edition.
 
@@ -54,10 +57,13 @@ Part 007 review and release reports:
 - [`translations/en/reviews/PART_007_REVIEW.md`](translations/en/reviews/PART_007_REVIEW.md)
 - [`translations/en/reviews/PART_007_RELEASE_REPORT.md`](translations/en/reviews/PART_007_RELEASE_REPORT.md)
 
-The release keeps Kalaignar's source-specific interpretation and language intact, including Kural 543 **“the books of the virtuous”**, Kural 520's **working people** framing, Kural 464's `களங்கம்`-centred correction, and the institutional government/justice/tyranny vocabulary across chapters 55–57.
-
 ## அடுத்த செயல்
 
-Begin the separate **Part 008 Tamil first-pass transcription**, starting at overall scan **149** / printed page **116** / Kural **566**, continuing chapter 57 `வெருவந்த செய்யாமை`.
+Continue **Part 008 Tamil first-pass transcription only** with overall scans **156–162** / printed pages **123–129** / Kural **601–635**:
 
-Do not combine Part 008 first-pass transcription with verification, audit, English translation, or release work.
+- scans 156–157 — chapter 61 `மடி இன்மை`, Kural 601–610;
+- scans 158–159 — chapter 62 `ஆள்வினை உடைமை`, Kural 611–620;
+- scans 160–161 — chapter 63 `இடுக்கண் அழியாமை`, Kural 621–630;
+- scan 162 — begins chapter 64 `அமைச்சு`, Kural 631–635, and the page header changes from `பொருள் — அரசியல்` to `பொருள் — அமைச்சியல்`.
+
+Create these only as `needs-review` first-pass records. Do not begin Part 008 direct verification, audit, English translation, or Part 009 transcription in the same activity.
