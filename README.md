@@ -6,8 +6,8 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–009 **ARCHIVAL-READY** continuously through overall scan 191 / printed page 158 / Kural 780 |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–008 **released through Kural 670**; Part 009 **EDITORIAL-REVIEWED 22/22** through Kural 780, release pending |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–009 **ARCHIVAL-READY** continuously through overall scan 191 / printed page 158 / Kural 780; Part 010 source received |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–009 **released through Kural 780** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -30,24 +30,30 @@ The project translation follows an explicit fidelity rule: **retain Kalaignar's 
 
 Tamil Parts **001–009** are audited / archival-ready continuously through overall scan **191** / printed page **158** / Kural **780**.
 
-English Parts **001–008** have completed their full release workflow continuously through Kural **670**.
+English Parts **001–009** have completed their full release workflow continuously through Kural **780**.
 
-Part 009 English covers scans **170–191 / printed pages 137–158 / Kural 671–780**. Its first pass, direct source-check and editorial consistency / glossary reconciliation are complete; all **22 / 22** English pages are now `editorial-reviewed`. Review: [`works/thirukkural/translations/en/reviews/PART_009_REVIEW.md`](works/thirukkural/translations/en/reviews/PART_009_REVIEW.md).
+Part 009 English covers scans **170–191 / printed pages 137–158 / Kural 671–780**. All **22 / 22** aligned English pages are now `release-ready` after first pass, direct source-check, editorial consistency / glossary reconciliation and the separate release gate.
 
-The controlled Part 009 section sequence is:
+Editorial review: [`works/thirukkural/translations/en/reviews/PART_009_REVIEW.md`](works/thirukkural/translations/en/reviews/PART_009_REVIEW.md).
+
+Release report: [`works/thirukkural/translations/en/reviews/PART_009_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_009_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
+
+The released Part 009 section sequence is:
 
 `அமைச்சியல்` → **Ministerial Affairs** → `அரணியல்` → **Fortification Affairs** → `கூழியல்` → **Wealth** → `படையியல்` → **Military Affairs**.
 
-Chapter 71 `குறிப்பறிதல்` is controlled as **Understanding Signs**; the earlier project-added `(Porul)` disambiguator has been removed. No substantive Kural/commentary body-text change was made during the Part 009 editorial gate.
+Chapter 71 `குறிப்பறிதல்` remains controlled as **Understanding Signs**. The project-added `(Porul)` disambiguator remains removed.
 
 Protected source-check and source-sensitive decisions remain intact, including Kural 680, 691, 717, the unusual Kural 725 and 733 commentary bases, Kural 771's **memorial stones** image, and Kural 773's **great manliness / manliness** framing.
+
+No substantive Kural/commentary body-text change was made during the Part 009 release gate.
 
 Part 010 remains untranscribed; its first page was inspected previously only to establish continuity at printed page **159 / Kural 781 / chapter 79 `நட்பு`**.
 
 ## அடுத்த செயல்
 
-Perform the separate **Part 009 English release gate** for all **22 `editorial-reviewed` pages**. Create `works/thirukkural/translations/en/reviews/PART_009_RELEASE_REPORT.md` only after the final continuity/alignment check passes, then promote the pages to `release-ready`.
+Begin **Part 010 Tamil first-pass transcription** from overall scan **192 / printed page 159 / Kural 781 / chapter 79 `நட்பு`**, using the supplied Part 010 PDF as controlling source.
 
-Do not begin Part 010 Tamil transcription during the same activity.
+Create Part 010 records as `needs-review` during first pass only. Direct visual verification, Tamil audit and English translation remain later separate gates.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), and [`HANDOVER.md`](HANDOVER.md).
