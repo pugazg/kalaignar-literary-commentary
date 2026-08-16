@@ -6,10 +6,10 @@ printed_page: "92"
 work: "thirukkural"
 section: "பொருள் — அரசியல் — பெரியாரைத் துணைக்கோடல்"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **446. தக்கா ரினத்தனாய்த் தானொழுக வல்லானைச்  
@@ -30,7 +30,7 @@ transcription_method: "manual transcription from source scan; direct visual veri
 **449. முதலிலார்க் கூதிய மில்லை மதலையாஞ்  
 சார்பிலார்க் கில்லை நிலை.**
 
-கட்டடத்தைத் தாங்கும் தூண் போலத் தம்மைத் தாங்கி நிற்கக் கூடிய துணையில்லாதவர்களின் நிலை, முதலீடு செய்யாத வாணிபத்தில் வருவாய் இல்லாத நிலையைப் போன்றேயாகும்.
+கட்டடத்தைத் தாங்கும் தூண் போலத் தம்மைத் தாங்கி நிற்கக் கூடிய துணையில்லாதவர்களின் நிலை, முதலீடு செய்யாத வாணிபத்தில் வருவாய் இல்லாத நிலையைப் போன்றதேயாகும்.
 
 **450. பல்லார் பகைகொளலிற் பத்தடுத்த தீமைத்தே  
 நல்லார் தொடர்கை விடல்.**
