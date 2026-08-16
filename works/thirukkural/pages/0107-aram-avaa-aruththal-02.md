@@ -6,10 +6,10 @@ printed_page: "74"
 work: "thirukkural"
 section: "அறம் — துறவறவியல் — அவா அறுத்தல்"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **366. அஞ்சுவ தோரும் அறனே ஒருவனை  
