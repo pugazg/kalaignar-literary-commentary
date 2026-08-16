@@ -6,14 +6,14 @@ work: "thirukkural"
 section: "Porul — Ministerial Affairs — Conduct in the Presence of Kings"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
 
 # 70. Conduct in the Presence of Kings
 
-**691. Those who live in the company of contentious kings should be like people warming themselves by fire:  
+**691. Those who live in the company of kings should be like people warming themselves by fire:  
 neither moving too far away nor drawing too near.**
 
 Those who associate with crowned kings will keep themselves from coming too close and also from moving too far away, just as one warms oneself by a fire.
