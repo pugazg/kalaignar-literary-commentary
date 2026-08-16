@@ -43,55 +43,56 @@ Latest released artefacts:
 
 Released Parts 001–011 must not be changed merely to harmonize later wording.
 
-## Part 011 released scope
+## Part 012 — TAMIL ARCHIVAL-READY / ENGLISH FIRST PASS ELIGIBLE
 
-Part 011 English is fully released for:
+Tamil audit: [`../../AUDIT_PART_012.md`](../../AUDIT_PART_012.md) — **PASS / ARCHIVAL-READY**.
 
-- **23 / 23** aligned pages;
-- scans **215–237**;
-- printed pages **182–204**;
-- Kural **896–1010**;
-- chapters **90–101**.
+Audited Tamil scope:
 
-All 23 Part 011 English records now carry:
+- physical pages: **23 / 23**;
+- scans **238–260**;
+- printed pages **205–218**, two unnumbered leaves, then **221–227**;
+- Kural **1011–1115**;
+- Tamil `verified`: **23 / 23**;
+- unresolved Tamil records: **0**.
+
+The Part 012 source structure is:
+
+- scans **238–251**: `பொருள் — குடியியல்`;
+- scan **252**: `இன்பம்` section-title leaf;
+- scan **253**: blank/reverse-show-through leaf;
+- scans **254–260**: `இன்பம் — களவியல்`.
+
+The incoming boundary is continuous at printed page **204 → 205 / Kural 1010 → 1011**. The supplied Part 013 first page confirms the outgoing continuation at printed page **227 → 228 / Kural 1115 → 1116**, but Part 013 transcription remains not started.
+
+Part 012 Tamil verification produced three authoritative commentary corrections:
+
+1. Kural **1018** — `அகன்றுவிட்டதாகக் கருத வேண்டும்.`
+2. Kural **1035** — `ஊதியம் பெற்று உண்ணும் இயல்புடையவர்`
+3. Kural **1048** — `கொலை செய்வதுபோல நேற்று...`
+
+Protected source-specific verse readings for Part 012 English work:
+
+- Kural **1077**: `ஈங்கை விதிரார் கயவர் கொடிறுடைக்குங் / கூன்கையர் அல்லா தவர்க்கு.`
+- Kural **1098**: `அசையியற் குண்டாண்டோர் ஏஎர்யான் நோக்கப் / பசையினள் பைய நகும்.`
+
+No Part 012 English page exists yet.
+
+## Next project activity
+
+Perform **Part 012 English project translation — first pass** for all **23 aligned physical pages / scans 238–260**.
+
+Before writing, fresh-read `TRANSLATION_GUIDE.md`, `GLOSSARY.md`, `TRANSLATION_STATUS.md`, the Part 012 Tamil audit, and the latest Part 011 English review/release artefacts. Inspect the target English directory and continue any existing Part 012 work rather than duplicating it.
+
+Every new Part 012 English page must use:
 
 ```yaml
 translation_type: "project_translation"
-status: "release-ready"
+status: "draft"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ```
 
-The released source structural transition is:
+Mirror all 23 Tamil filenames and preserve physical alignment, including scan 252's `இன்பம்` title leaf and scan 253's blank/reverse-show-through leaf. Preserve the structural transition and Kalaignar's actual commentary direction. Treat Kural 1077 and 1098 as source-protected readings; do not replace them with familiar external versions.
 
-- scans **215–225**: `நட்பியல்` → **Friendship**;
-- from scan **226 / printed page 193**: `குடியியல்` → **Civic Life**.
-
-Released Part 011 chapter headings are:
-
-- 90 `பெரியாரைப் பிழையாமை` → **Not Offending the Great**;
-- 91 `பெண்வழிச் சேறல்` → **Following a Woman's Lead**;
-- 92 `வரைவின் மகளிர்` → **Women Beyond Bounds**;
-- 93 `கள்ளுண்ணாமை` → **Abstaining from Liquor**;
-- 94 `சூது` → **Gambling**;
-- 95 `மருந்து` → **Medicine**;
-- 96 `குடிமை` → **Nobility**;
-- 97 `மானம்` → **Honour**;
-- 98 `பெருமை` → **Greatness**;
-- 99 `சான்றாண்மை` → **Exemplary Character**;
-- 100 `பண்புடைமை` → **Good Character**;
-- 101 `நன்றியில் செல்வம்` → **Wealth Without Benefit**.
-
-All six Part 011 source-check corrections remain released: Kural 911 **bring suffering**, Kural 926's correct sleepers/dead and liquor/poison line relationship, Kural 953 **truthful citizens**, Kural 961 without the unsupported qualification attached to “indispensable,” Kural 989 with the all-seas image commentary-only, and Kural 1006 with the person as **a disease upon his great wealth**.
-
-The editorial refinement at Kural **939** remains **fame** in the Kural's five-item list.
-
-Protected source-sensitive treatments remain unchanged, including Kural 899's **oppressive government**, Kural 948's **social disease**, Kural 966's **nonexistent heaven** question, the unusual audited Kural 971 wording, Kural 972's **Everyone is equal by birth** formulation, Kural 985/1008 source punctuation, Kural 1001's house-filling wealth image and the direct Part 011 imagery documented in the review and release report.
-
-No Kural **1011** or later English text has been created or inferred.
-
-## Next project activity
-
-The Part 011 English workflow is **closed through release**.
-
-Do not assume or reconstruct Part 012. The next activity begins only when an actually supplied subsequent Tamil source is available. At that point, inspect the source directly, verify its identity and the outgoing boundary after printed page **204 / Kural 1010**, and begin the next separate Tamil source-intake / first-pass transcription gate.
+Stop after the first-pass gate. Do not source-check, editorial-review or release Part 012 English in the same activity. Do not begin Part 013 Tamil transcription. Do not alter released English Parts 001–011.
