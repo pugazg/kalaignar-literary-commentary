@@ -21,7 +21,7 @@ Permanent workflow:
 
 **English first pass (`draft`) → direct source-check → editorial consistency / glossary reconciliation → release gate.**
 
-## Parts 001–009 — RELEASE COMPLETE
+## Parts 001–010 — RELEASE COMPLETE THROUGH KURAL 895
 
 - Part 001: 19 `release-ready` + scan 8 `source-limited`;
 - Part 002: **21/21 `release-ready`**;
@@ -31,22 +31,18 @@ Permanent workflow:
 - Part 006: **21/21 `release-ready`**, through Kural 460;
 - Part 007: **21/21 `release-ready`**, through Kural 565;
 - Part 008: **21/21 `release-ready`**, through Kural 670;
-- Part 009: **22/22 `release-ready`**, through Kural 780.
+- Part 009: **22/22 `release-ready`**, through Kural 780;
+- Part 010: **23/23 `release-ready`**, through the supplied Kural **895**.
 
-Latest released Part 009 artefacts:
+Latest Part 010 artefacts:
 
-- [`reviews/PART_009_REVIEW.md`](reviews/PART_009_REVIEW.md)
-- [`reviews/PART_009_RELEASE_REPORT.md`](reviews/PART_009_RELEASE_REPORT.md)
+- Tamil audit: [`../../AUDIT_PART_010.md`](../../AUDIT_PART_010.md) — **PASS / ARCHIVAL-READY**;
+- editorial review: [`reviews/PART_010_REVIEW.md`](reviews/PART_010_REVIEW.md);
+- release report: [`reviews/PART_010_RELEASE_REPORT.md`](reviews/PART_010_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
 
-Released Parts 001–009 must not be changed merely to harmonize later wording.
+Released Parts 001–010 must not be changed merely to harmonize later wording.
 
-## Part 010 — EDITORIAL REVIEW COMPLETE
-
-Part 010 Tamil audit: [`../../AUDIT_PART_010.md`](../../AUDIT_PART_010.md) — **PASS / ARCHIVAL-READY**.
-
-Editorial review: [`reviews/PART_010_REVIEW.md`](reviews/PART_010_REVIEW.md).
-
-Scope:
+## Part 010 released scope
 
 - aligned pages: **23 / 23**;
 - scans **192–214**;
@@ -54,31 +50,32 @@ Scope:
 - Kural **781–895**;
 - source section throughout: `பொருள் — நட்பியல்`;
 - chapters **79–90**;
-- chapter 90 `பெரியாரைப் பிழையாமை` is represented only through Kural **895** because the supplied Tamil source ends there.
+- chapters **79–89** complete in the supplied source;
+- chapter 90 `பெரியாரைப் பிழையாமை` represented only through Kural **895**, because the supplied Tamil source ends there.
 
-Current Part 010 English state:
+Final Part 010 English state:
 
 - `draft`: **0**;
 - `source-checked`: **0**;
-- `editorial-reviewed`: **23 / 23**;
-- `release-ready`: **0**;
+- `editorial-reviewed`: **0**;
+- `release-ready`: **23 / 23**;
 - `source-limited`: **0**;
 - `blocked`: **0**.
 
-Every Part 010 page now remains at the editorial-review gate:
+Every Part 010 page now carries:
 
 ```yaml
 translation_type: "project_translation"
-status: "editorial-reviewed"
+status: "release-ready"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ```
 
-### Controlled Part 010 section / headings
+### Released Part 010 section / headings
 
-`நட்பியல்` is now controlled as **Friendship**. The source itself keeps that structural label even when later chapters move into discord and enmity, so the project does not invent a broader English section title.
+`நட்பியல்` is controlled as **Friendship**. The source itself keeps that structural label even when later chapters move into discord and enmity, so the project does not invent a broader English section title.
 
-Controlled headings:
+Released headings:
 
 - 79 **Friendship**;
 - 80 **Examining Friendship**;
@@ -93,22 +90,27 @@ Controlled headings:
 - 89 **Internal Enmity**;
 - 90 **Not Offending the Great**.
 
-Chapter 87 was refined from the provisional **The Character of Enmity** to **Excellence in Enmity** during editorial review, restoring the force of `மாட்சி` and following Kalaignar's supplied Kural 861 explanation.
+Chapter 87's released form **Excellence in Enmity** restores the force of `மாட்சி` and follows Kalaignar's supplied Kural 861 explanation.
 
-### Fidelity protections retained
+### Fidelity protections released
 
 All seven source-check corrections remain intact, including **women for hire** at Kural 813/822, the corrected Kural 849 subject relation, separation of Kural 850 from Kalaignar's evidence commentary, the Kural 867 and 887 removals of unsupported additions, and the Kural 842 correction.
 
-The review also retains Kural **835** as **seven periods**, Kural **850**'s evidence/“ghosts” commentary, Kalaignar's supplied Kural **861** interpretation, Kural **869**'s repeated **“cowards who are afraid, and ignorant cowards”**, Kural **876**'s nuanced enemy/friendship position, and Kural **895**'s ruler/government distinction.
+The released text also retains:
 
-No substantive Kural or commentary body text was changed during the editorial gate. The only text-level editorial refinement was the chapter 87 heading/metadata on scans 208–209.
+- Kural **835** as **seven periods**;
+- Kural **850**'s evidence/“ghosts” commentary;
+- Kalaignar's supplied Kural **861** interpretation;
+- Kural **869**'s source-confirmed **“cowards who are afraid, and ignorant cowards”** repetition;
+- Kural **876**'s nuanced enemy/friendship position;
+- Kural **895**'s **ruler / government** distinction.
+
+No substantive Kural or commentary body text was changed during the release gate.
 
 No Kural **896** or later English text has been created or inferred.
 
 ## Next project activity
 
-Perform the separate **Part 010 English release gate** for all **23 editorial-reviewed pages**.
+The currently supplied Thirukkural source ends at Kural **895**. There is therefore **no next processing gate until the next controlling Tamil source is supplied**.
 
-Check final page/Kural/metadata continuity and alignment, controlled terminology and protected source decisions, create `reviews/PART_010_RELEASE_REPORT.md`, and only then promote pages to `release-ready` if the gate passes.
-
-Do not combine release with an unsupplied Tamil continuation after Kural 895.
+When a new source is supplied, inspect it directly first, verify continuity at printed page **181 → 182 / Kural 895 → 896**, and only then begin the next separate Tamil first-pass transcription activity.
