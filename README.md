@@ -6,7 +6,7 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–006 **ARCHIVAL-READY** through Kural 460; Part 007 first-pass **14/21** through Kural 530; Parts 008–010 source received |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–006 **ARCHIVAL-READY** through Kural 460; Part 007 first-pass **21/21 complete** through Kural 565; Parts 008–010 source received |
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–006 **released through Kural 460** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
@@ -30,14 +30,14 @@ The project translation follows an explicit fidelity rule: **retain Kalaignar's 
 
 Tamil Parts **001–006** are archival-ready through overall scan **127** / printed page **94** / Kural **460**.
 
-Part **007** Tamil first-pass transcription now covers **14 / 21** scan records, overall scans **128–141 / printed pages 95–108 / Kural 461–530**. These records remain `needs-review`; direct verification has not begun.
+Part **007** Tamil first-pass transcription is now complete for all **21 / 21** scan records, overall scans **128–148 / printed pages 95–115 / Kural 461–565**. All remain `needs-review`; direct verification has not begun.
 
-The covered chapters are `தெரிந்து செயல்வகை`, `வலியறிதல்`, `காலமறிதல்`, `இடனறிதல்`, `தெரிந்து தெளிதல்`, `தெரிந்து வினையாடல்`, and `சுற்றந் தழால்`.
+Part 007 covers chapters `தெரிந்து செயல்வகை`, `வலியறிதல்`, `காலமறிதல்`, `இடனறிதல்`, `தெரிந்து தெளிதல்`, `தெரிந்து வினையாடல்`, `சுற்றந் தழால்`, `பொச்சாவாமை`, `செங்கோன்மை`, `கொடுங்கோன்மை`, and the opening of `வெருவந்த செய்யாமை`.
 
-Part **008** has also been supplied and begins at printed page **116 / Kural 566**, confirming continuity after Part 007. It has not been transcribed. fileciteturn347file1L23-L36
+Part **008** has also been supplied and begins at printed page **116 / Kural 566**, directly continuing `வெருவந்த செய்யாமை`. It has not been transcribed. fileciteturn347file1L23-L36
 
-English Parts **001–006** have completed their full release workflow through Kural **460**. English Part 007 must wait until Tamil transcription, direct verification and audit are complete.
+English Parts **001–006** have completed their full release workflow through Kural **460**. English Part 007 must wait until Tamil direct verification and audit are complete.
 
-The next activity is **Part 007 Tamil first-pass Batch 3**, beginning at scan **142 / printed page 109 / Kural 531**.
+The next activity is **Part 007 Tamil direct visual verification — Batch 1**, beginning with scans **128–134 / printed pages 95–101 / Kural 461–495**.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), and [`HANDOVER.md`](HANDOVER.md).
