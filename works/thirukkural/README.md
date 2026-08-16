@@ -15,38 +15,11 @@
 | 007 | `திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf` | 21 | 128–148 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
 | 008 | `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf` | 21 | 149–169 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
 | 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 22/22** |
-| 010 | `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf` | 23 | 192–214 | audited / **ARCHIVAL-READY**; English not started |
+| 010 | `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf` | 23 | 192–214 | audited / **ARCHIVAL-READY**; English first pass **23/23 draft** |
 
 Tamil Parts **001–010 are archival-ready continuously** through overall scan **214** / printed page **181** / Kural **895**.
 
-English Parts **001–009 are released continuously** through Kural **780**. Part 010 English is now eligible for the separate first-pass translation gate but has not begun.
-
-## Part 009 Tamil — ARCHIVAL-READY
-
-Controlling source: `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf`
-
-Final audited scope:
-
-- physical pages: **22**;
-- overall scans: **170–191**;
-- printed pages: **137–158**;
-- Kural range: **671–780**;
-- chapters: **68–78**;
-- `verified`: **22 / 22**;
-- Tamil audit: **PASS / ARCHIVAL-READY**.
-
-Audit record: [`AUDIT_PART_009.md`](AUDIT_PART_009.md).
-
-The Tamil source-visible hierarchy remains:
-
-`அமைச்சியல்` → `அரணியல்` → `கூழியல்` → `படையியல்`.
-
-Protected audited readings remain:
-
-- Kural **717**: `கற்றறிந்தார் கல்வி விளங்கும் கசடறச் / சொற்றெரிதல் முன்னர் இழுக்கு.`
-- Kural **725 commentary**: `தருக்கமென்படும் அளவைக் திறமும்`
-- Kural **733 commentary**: `மளவுக்கு வளம்`
-- Kural **771 commentary**: `நடுகல்லாய்ப் போனவர்கள்`.
+English Parts **001–009 are released continuously** through Kural **780**. Part 010 English first-pass translation is complete across all **23 aligned pages**, and all Part 010 English records remain `draft` pending the separate source-check gate.
 
 ## Part 009 English — RELEASE COMPLETE
 
@@ -80,45 +53,41 @@ Final audited scope:
 
 - physical pages: **23**;
 - overall scans: **192–214**;
-- Part-local pages: **1–23**;
 - printed pages: **159–181**;
-- Kural range present in this supplied part: **781–895**;
+- Kural range: **781–895**;
 - section throughout: `பொருள் — நட்பியல்`;
-- chapters visible: **79–90**;
+- chapters **79–90**, with chapter 90 present only through Kural 895;
 - `verified`: **23 / 23**;
-- `needs-review`: **0**;
-- `partial`: **0**;
+- no unresolved Tamil page.
+
+The Part 009 → Part 010 boundary passes at printed page **158 → 159** / Kural **780 → 781**.
+
+The source-sensitive scan **209 / Kural 869 commentary** repetition is directly verified and remains protected. The source ends at Kural **895**; Kural 896 onward is not inferred.
+
+## Part 010 English — FIRST PASS COMPLETE
+
+Aligned first-pass scope:
+
+- English pages: **23 / 23**;
+- scans **192–214**;
+- printed pages **159–181**;
+- Kural **781–895**;
+- `draft`: **23 / 23**;
+- `source-checked`: **0**;
+- `editorial-reviewed`: **0**;
+- `release-ready`: **0**;
 - `blocked`: **0**.
 
-Chapter / page map:
+All Part 010 English pages identify `translation_type: "project_translation"` and retain the verified Tamil page as the working basis.
 
-- scans 192–193 / pp.159–160 — `79. நட்பு` — Kural **781–790**;
-- scans 194–195 / pp.161–162 — `80. நட்பாராய்தல்` — **791–800**;
-- scans 196–197 / pp.163–164 — `81. பழைமை` — **801–810**;
-- scans 198–199 / pp.165–166 — `82. தீ நட்பு` — **811–820**;
-- scans 200–201 / pp.167–168 — `83. கூடா நட்பு` — **821–830**;
-- scans 202–203 / pp.169–170 — `84. பேதைமை` — **831–840**;
-- scans 204–205 / pp.171–172 — `85. புல்லறிவாண்மை` — **841–850**;
-- scans 206–207 / pp.173–174 — `86. இகல்` — **851–860**;
-- scans 208–209 / pp.175–176 — `87. பகை மாட்சி` — **861–870**;
-- scans 210–211 / pp.177–178 — `88. பகைத்திறம் தெரிதல்` — **871–880**;
-- scans 212–213 / pp.179–180 — `89. உட்பகை` — **881–890**;
-- scan 214 / p.181 — `90. பெரியாரைப் பிழையாமை` — **891–895** in this supplied part.
+The first-pass section label `நட்பியல்` → **Friendship** and chapter headings 79–90 are **provisional** until the later editorial/glossary gate. The scan-209 / Kural-869 commentary repetition has been retained in the draft rather than silently smoothed.
 
-### Verification and audit outcome
-
-Direct visual verification found **no first-pass body-text correction requiring a change**. The source-sensitive scan **209 / Kural 869 commentary** repetition was checked directly and confirmed exactly as printed:
-
-`அஞ்சிடும் கோழைகளாகவும், அறிவில்லாக் கோழைகளாகவும் பகைவர்கள் இருப்பின் அவர்களை எதிர்ப்போரை விட்டு வெற்றியெனும் இன்பம் விலகாமலே நிலைத்து நிற்கும்.`
-
-This wording must not be silently smoothed or normalized.
-
-Part 009 → Part 010 continuity passes at printed page **158 → 159** / Kural **780 → 781**.
-
-The supplied Part 010 source ends at printed page **181 / Kural 895**, halfway through chapter 90. The next controlling source has not yet been supplied, so Kural 896 onward is deliberately not inferred. This outgoing source boundary is documented in the audit and is not a blocker for the supplied Part 010 segment.
+No Part 010 English text beyond Kural **895** has been created.
 
 ## அடுத்த செயல்
 
-Begin the separate **Part 010 English project translation — first pass** for the **23 aligned archival-ready Tamil pages**, scans **192–214 / printed pages 159–181 / Kural 781–895**.
+Perform the separate **Part 010 English direct source-check** for all **23 draft pages**.
 
-Create aligned English records only as `draft` with `translation_type: "project_translation"`. Preserve Kalaignar's wording, argument, images and the source-sensitive Kural 869 commentary repetition. Do not combine the first pass with English source-check, editorial review or release.
+Compare every translated Kural and Kalaignar commentary paragraph against the corresponding verified Tamil record. Check omissions, additions, meaning drift, two-line Kural structure, page alignment, section/chapter metadata and the protected Kural 869 repetition. Promote only passing pages to `source-checked`.
+
+Do not combine the source-check with editorial consistency / glossary reconciliation or release.
