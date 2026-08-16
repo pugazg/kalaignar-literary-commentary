@@ -50,36 +50,12 @@ English scope:
 - scans **170–191**;
 - printed pages **137–158**;
 - Kural **671–780**;
-- chapters **68–78**.
-
-Final state:
-
-- `draft`: **0**;
-- `source-checked`: **0**;
-- `editorial-reviewed`: **0**;
-- `release-ready`: **22 / 22**;
-- `source-limited`: **0**;
-- `blocked`: **0**.
+- chapters **68–78**;
+- final `release-ready`: **22 / 22**.
 
 Editorial review: [`reviews/PART_009_REVIEW.md`](reviews/PART_009_REVIEW.md).
 
 Release report: [`reviews/PART_009_RELEASE_REPORT.md`](reviews/PART_009_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
-
-### Released Part 009 chapter headings
-
-- 68 **The Method of Action**;
-- 69 **The Envoy**;
-- 70 **Conduct in the Presence of Kings**;
-- 71 **Understanding Signs**;
-- 72 **Knowing the Assembly**;
-- 73 **Fearlessness in the Assembly**;
-- 74 **The Country**;
-- 75 **Fortress**;
-- 76 **The Way of Acquiring Wealth**;
-- 77 **Excellence of the Army**;
-- 78 **Martial Pride**.
-
-Chapter 71 remains **Understanding Signs**. The project-added `(Porul)` disambiguator was removed during editorial review because it is not part of the Tamil heading.
 
 ### Released structural vocabulary
 
@@ -88,18 +64,48 @@ Chapter 71 remains **Understanding Signs**. The project-added `(Porul)` disambig
 - `கூழியல்` → **Wealth**;
 - `படையியல்` → **Military Affairs**.
 
-The source-visible distinctions remain intact.
+All released Part 009 fidelity protections remain binding.
 
-### Fidelity protections released
+## Part 010 — TAMIL ARCHIVAL-READY / ENGLISH NOT STARTED
 
-The final release retains the Kural 680, 691 and 717 source-check corrections; the protected Kural 717, Kural 725 commentary, Kural 733 commentary and Kural 771 commentary readings; Kural 773's **great manliness / manliness** framing; Kalaignar's government/tax/revenue/country/fortification/wealth/army vocabulary; and the direct source images documented in the review and release report.
+Part 010 Tamil audit: [`../../AUDIT_PART_010.md`](../../AUDIT_PART_010.md) — **PASS / ARCHIVAL-READY**.
 
-No substantive Kural or commentary body-text change was made during the release gate.
+Available aligned scope:
+
+- Tamil pages: **23 / 23 verified**;
+- scans **192–214**;
+- printed pages **159–181**;
+- Kural **781–895**;
+- section throughout: `பொருள் — நட்பியல்`;
+- chapters **79–90**;
+- chapter 90 `பெரியாரைப் பிழையாமை` is represented only through Kural **895** in this supplied part.
+
+Part 010 English state:
+
+- `draft`: **0 / 23**;
+- `source-checked`: **0**;
+- `editorial-reviewed`: **0**;
+- `release-ready`: **0**;
+- `source-limited`: **0**;
+- `blocked`: **0**.
+
+The Tamil audit confirms no unresolved reading inside the supplied Part 010 source. The outgoing continuation after Kural 895 has not been supplied and must not be inferred.
+
+A source-sensitive basis for the English first pass is scan **209 / Kural 869 commentary**, where Kalaignar's printed wording deliberately retains the repetition:
+
+`அஞ்சிடும் கோழைகளாகவும், அறிவில்லாக் கோழைகளாகவும் பகைவர்கள் இருப்பின் அவர்களை எதிர்ப்போரை விட்டு வெற்றியெனும் இன்பம் விலகாமலே நிலைத்து நிற்கும்.`
+
+Translate Kalaignar's actual wording and argument rather than silently replacing it with a standard Kural gloss.
 
 ## Next project activity
 
-The English project translation is released continuously through Kural **780**.
+Perform **Part 010 English project translation — first pass** for all **23 aligned Tamil pages**, scans **192–214 / printed pages 159–181 / Kural 781–895**.
 
-The next separate project activity is **Part 010 Tamil first-pass transcription**, beginning at overall scan **192 / printed page 159 / Kural 781 / chapter 79 `நட்பு`**.
+Every new Part 010 English page must remain:
 
-Do not begin Part 010 English until its Tamil source has completed transcription, direct visual verification and the Tamil audit / archival-ready gate.
+```yaml
+translation_type: "project_translation"
+status: "draft"
+```
+
+Do not combine this first pass with direct source-check, editorial consistency / glossary reconciliation or the release gate.
