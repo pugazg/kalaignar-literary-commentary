@@ -66,7 +66,7 @@ Physical pages: **21** / overall scans **107–127**.
 
 Current first-pass count:
 
-- `needs-review`: **7 / 21** — scans 107–113;
+- `needs-review`: **14 / 21** — scans 107–120;
 - `verified`: **0 / 21**;
 - Part 006 audit: **not started**.
 
@@ -107,7 +107,42 @@ Current first-pass count:
    - scan 113 / printed 80;
    - Kural 386–390.
 
-All seven records deliberately use:
+8. `works/thirukkural/pages/0114-porul-kalvi-01.md`
+   - scan 114 / printed 81;
+   - chapter 40 `கல்வி` begins;
+   - Kural 391–395.
+
+9. `works/thirukkural/pages/0115-porul-kalvi-02.md`
+   - scan 115 / printed 82;
+   - chapter 40 `கல்வி` continues;
+   - Kural 396–400.
+
+10. `works/thirukkural/pages/0116-porul-kallaamai-01.md`
+    - scan 116 / printed 83;
+    - chapter 41 `கல்லாமை` begins;
+    - Kural 401–405.
+
+11. `works/thirukkural/pages/0117-porul-kallaamai-02.md`
+    - scan 117 / printed 84;
+    - chapter 41 `கல்லாமை` continues;
+    - Kural 406–410.
+
+12. `works/thirukkural/pages/0118-porul-kelvi-01.md`
+    - scan 118 / printed 85;
+    - chapter 42 `கேள்வி` begins;
+    - Kural 411–415.
+
+13. `works/thirukkural/pages/0119-porul-kelvi-02.md`
+    - scan 119 / printed 86;
+    - chapter 42 `கேள்வி` continues;
+    - Kural 416–420.
+
+14. `works/thirukkural/pages/0120-porul-arivudaimai-01.md`
+    - scan 120 / printed 87;
+    - chapter 43 `அறிவுடைமை` begins;
+    - Kural 421–425.
+
+All fourteen records deliberately use:
 
 - `status: "needs-review"`;
 - `transcription_method: "manual transcription from source scan; direct visual verification pending"`.
@@ -130,24 +165,24 @@ Kalaignar's commentary repeatedly explains `ஊழ்` through **`இயற்�
 
 # Exact next activity
 
-Continue **Part 006 Tamil first-pass transcription only** for overall scans **114–120** / Part 006 local pages **8–14** / printed pages **81–87** / Kural **391–425**.
+Continue **Part 006 Tamil first-pass transcription only** for the remaining overall scans **121–127** / Part 006 local pages **15–21** / printed pages **88–94** / Kural **426–460**.
 
-The source has already been inspected for this batch:
+The source has already been inspected for this remaining batch:
 
-- scans **114–115** — chapter 40 `கல்வி`, Kural **391–400**;
-- scans **116–117** — chapter 41 `கல்லாமை`, Kural **401–410**;
-- scans **118–119** — chapter 42 `கேள்வி`, Kural **411–420**;
-- scan **120** — begins chapter 43 `அறிவுடைமை`, Kural **421–425**.
+- scan **121** — continues chapter 43 `அறிவுடைமை`, Kural **426–430**;
+- scans **122–123** — chapter 44 `குற்றங்கடிதல்`, Kural **431–440**;
+- scans **124–125** — chapter 45 `பெரியாரைத் துணைக்கோடல்`, Kural **441–450**;
+- scans **126–127** — chapter 46 `சிற்றினம் சேராமை`, Kural **451–460**.
 
 ## Required procedure for the next activity
 
-1. fresh-fetch this `HANDOVER.md`, `works/thirukkural/README.md`, and the current page records before writing;
-2. inspect the controlling Part 006 scans 114–120 directly;
+1. fresh-fetch this `HANDOVER.md`, `works/thirukkural/README.md`, and the current Part 006 page records before writing;
+2. inspect the controlling Part 006 scans 121–127 directly;
 3. create one Tamil Markdown page per scan, mirroring established metadata/filename conventions;
 4. preserve the source's exact Tamil wording, joins, punctuation and Kalaignar commentary;
 5. mark every new record `needs-review` with direct visual verification pending;
 6. synchronize README/status/handover documents after the batch;
-7. stop after scan 120.
+7. stop after scan 127.
 
 Do **not** in that activity:
 
@@ -156,4 +191,4 @@ Do **not** in that activity:
 - start English Part 006 translation;
 - begin Part 007 transcription.
 
-The remaining Part 006 pages after that batch will still need first-pass transcription before verification begins.
+After scans 121–127 are transcribed, Part 006 Tamil first-pass will be complete; direct visual verification must begin only as a separate later activity.
