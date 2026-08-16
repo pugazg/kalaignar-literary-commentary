@@ -43,48 +43,22 @@ Latest released artefacts:
 
 Released Parts 001–011 must not be changed merely to harmonize later wording.
 
-## Part 012 — TAMIL ARCHIVAL-READY / ENGLISH FIRST PASS ELIGIBLE
+## Part 012 — ENGLISH FIRST PASS COMPLETE
 
 Tamil audit: [`../../AUDIT_PART_012.md`](../../AUDIT_PART_012.md) — **PASS / ARCHIVAL-READY**.
 
-Audited Tamil scope:
+The complete Part 012 English first-pass layer now exists for:
 
 - physical pages: **23 / 23**;
 - scans **238–260**;
-- printed pages **205–218**, two unnumbered leaves, then **221–227**;
+- printed pages **205–218**, two unnumbered physical leaves, then **221–227**;
 - Kural **1011–1115**;
-- Tamil `verified`: **23 / 23**;
-- unresolved Tamil records: **0**.
+- English `draft`: **23 / 23**;
+- `source-checked`: **0**;
+- `editorial-reviewed`: **0**;
+- `release-ready`: **0**.
 
-The Part 012 source structure is:
-
-- scans **238–251**: `பொருள் — குடியியல்`;
-- scan **252**: `இன்பம்` section-title leaf;
-- scan **253**: blank/reverse-show-through leaf;
-- scans **254–260**: `இன்பம் — களவியல்`.
-
-The incoming boundary is continuous at printed page **204 → 205 / Kural 1010 → 1011**. The supplied Part 013 first page confirms the outgoing continuation at printed page **227 → 228 / Kural 1115 → 1116**, but Part 013 transcription remains not started.
-
-Part 012 Tamil verification produced three authoritative commentary corrections:
-
-1. Kural **1018** — `அகன்றுவிட்டதாகக் கருத வேண்டும்.`
-2. Kural **1035** — `ஊதியம் பெற்று உண்ணும் இயல்புடையவர்`
-3. Kural **1048** — `கொலை செய்வதுபோல நேற்று...`
-
-Protected source-specific verse readings for Part 012 English work:
-
-- Kural **1077**: `ஈங்கை விதிரார் கயவர் கொடிறுடைக்குங் / கூன்கையர் அல்லா தவர்க்கு.`
-- Kural **1098**: `அசையியற் குண்டாண்டோர் ஏஎர்யான் நோக்கப் / பசையினள் பைய நகும்.`
-
-No Part 012 English page exists yet.
-
-## Next project activity
-
-Perform **Part 012 English project translation — first pass** for all **23 aligned physical pages / scans 238–260**.
-
-Before writing, fresh-read `TRANSLATION_GUIDE.md`, `GLOSSARY.md`, `TRANSLATION_STATUS.md`, the Part 012 Tamil audit, and the latest Part 011 English review/release artefacts. Inspect the target English directory and continue any existing Part 012 work rather than duplicating it.
-
-Every new Part 012 English page must use:
+Every Part 012 English record carries:
 
 ```yaml
 translation_type: "project_translation"
@@ -93,6 +67,23 @@ source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ```
 
-Mirror all 23 Tamil filenames and preserve physical alignment, including scan 252's `இன்பம்` title leaf and scan 253's blank/reverse-show-through leaf. Preserve the structural transition and Kalaignar's actual commentary direction. Treat Kural 1077 and 1098 as source-protected readings; do not replace them with familiar external versions.
+The source structure and physical alignment are preserved:
 
-Stop after the first-pass gate. Do not source-check, editorial-review or release Part 012 English in the same activity. Do not begin Part 013 Tamil transcription. Do not alter released English Parts 001–011.
+- scans **238–251**: `Porul — Civic Life`;
+- scan **252**: standalone `Inbam` title leaf;
+- scan **253**: blank/reverse-show-through leaf;
+- scans **254–260**: provisionally `Inbam — Clandestine Love`.
+
+The first pass also preserves the source-specific Kural **1077** and **1098** readings using Kalaignar's adjacent commentary as the interpretive guide. It does not substitute familiar external Kural wording.
+
+New Part 012 structural/chapter renderings are still **provisional**. `GLOSSARY.md` was deliberately not changed during first pass. The established `குடியியல்` → **Civic Life** and `குறிப்பறிதல்` → **Understanding Signs** controls remain in use.
+
+Parts **013–015** Tamil sources are received but remain not started.
+
+## Next project activity
+
+Perform **Part 012 English direct source-check** for all **23 draft physical pages / scans 238–260**.
+
+Check every translated Kural and every Kalaignar commentary paragraph against the verified Tamil source record, using the scan when needed. Correct only source-fidelity problems and promote passing pages to `source-checked`.
+
+Do not combine source-check with editorial/glossary reconciliation or release. Do not begin Part 013 Tamil transcription. Do not alter released English Parts 001–011.
