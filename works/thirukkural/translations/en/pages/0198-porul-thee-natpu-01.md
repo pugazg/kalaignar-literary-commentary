@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Porul — Friendship — Harmful Friendship"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -23,7 +23,7 @@ what matters whether such friendship is gained or lost?**
 
 What does it matter whether one has or loses the friendship of people who remain friends only while it is useful to them and depart when it is not?
 
-**813. Those who weigh gain before forming friendship, women who sell intimacy, and thieves  
+**813. Those who weigh gain before forming friendship, women for hire, and thieves  
 are all of the same kind.**
 
 Those who calculate the benefit and form friendship only for that reason, women for hire, and thieves—these three are all of the same kind.
