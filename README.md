@@ -6,7 +6,7 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–008 **ARCHIVAL-READY** through overall scan 169 / printed page 136 / Kural 670 |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–008 **ARCHIVAL-READY** through Kural 670; Part 009 first-pass **COMPLETE 22/22**, verification pending through Kural 780 |
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–008 **released through Kural 670** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
@@ -36,42 +36,52 @@ Tamil Parts **001–008** are audited / archival-ready continuously through:
 
 English Parts **001–008** have completed their full release workflow continuously through Kural **670**.
 
-### Part 008 Tamil — ARCHIVAL-READY
+### Part 008 — completed baseline
 
-Part 008 covers scans **149–169 / printed pages 116–136 / Kural 566–670**. All **21 / 21** Tamil page records are directly visually verified and the separate archival audit has passed.
+Part 008 Tamil covers scans **149–169 / printed pages 116–136 / Kural 566–670** and is **ARCHIVAL-READY**. Audit: [`works/thirukkural/AUDIT_PART_008.md`](works/thirukkural/AUDIT_PART_008.md).
 
-Audit: [`works/thirukkural/AUDIT_PART_008.md`](works/thirukkural/AUDIT_PART_008.md).
-
-The source-visible structural transition at scan **162 / printed page 129 / Kural 631** is preserved in Tamil as:
-
-`பொருள் — அரசியல்` → **`பொருள் — அமைச்சியல் — அமைச்சு`**.
-
-### Part 008 English — RELEASE COMPLETE
-
-All **21 / 21** aligned Part 008 project-translation pages have completed first pass, direct source-check, editorial consistency / glossary reconciliation, and the separate release gate.
-
-Final Part 008 English state:
-
-- `draft`: **0**;
-- `source-checked`: **0**;
-- `editorial-reviewed`: **0**;
-- `release-ready`: **21 / 21**.
-
-Review/release artefacts:
+Part 008 English is **RELEASE COMPLETE 21/21**. Review/release artefacts:
 
 - [`works/thirukkural/translations/en/reviews/PART_008_REVIEW.md`](works/thirukkural/translations/en/reviews/PART_008_REVIEW.md)
 - [`works/thirukkural/translations/en/reviews/PART_008_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_008_RELEASE_REPORT.md)
 
-The controlled main-body English headings now extend through Kural **670**. The Tamil `அரசியல்` → `அமைச்சியல்` distinction is released as:
+The controlled structural distinction remains `பொருள் — அரசியல்` → `பொருள் — அமைச்சியல்`, released in English as `Porul — Statecraft` → **`Porul — Ministerial Affairs`**.
 
-`Porul — Statecraft` → **`Porul — Ministerial Affairs`**.
+### Part 009 Tamil — FIRST-PASS COMPLETE
 
-All Part 008 source-check corrections and editorial refinements remain intact. The released translation preserves Kalaignar's government/intelligence vocabulary, rational/inquiry framing, **Oozh** at Kural 620, direct **“God!”** line at Kural 619, council-of-ministers/citizens framing at Kural 632, **seventy crore** at Kural 639, and direct source images including the unbaked clay pot and chariot linchpin.
+The actual supplied Part 009 source was inspected before transcription:
+
+`திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf`
+
+Confirmed physical scope:
+
+- **22** source pages;
+- overall scans **170–191**;
+- printed pages **137–158**;
+- Kural **671–780**;
+- chapters **68–78**.
+
+All **22 / 22** page-aligned Tamil records now exist at first-pass state:
+
+- `needs-review`: **22 / 22**;
+- `verified`: **0**;
+- `partial`: **0**;
+- `blocked`: **0**;
+- Tamil audit: **not started**.
+
+The source-visible Part 009 structural transitions are preserved in the first pass:
+
+- `பொருள் — அமைச்சியல்` through scan 181;
+- `பொருள் — அரணியல்` from scan 182;
+- `பொருள் — கூழியல்` from scan 186;
+- `பொருள் — படையியல்` from scan 188.
+
+The direct visual verification gate has explicit flags for unusual/uncertain first-pass readings at **Kural 717**, **Kural 725 commentary**, and **Kural 733 commentary**. These must be resolved from the controlling scan itself, not from memory or another edition.
 
 ## அடுத்த செயல்
 
-Begin **Part 009 Tamil first-pass transcription** from overall scan **170 / printed page 137 / Kural 671**, chapter 68 `வினை செயல்வகை`, using the supplied Part 009 source.
+Perform **Part 009 Tamil direct visual verification** across all **22 `needs-review` pages**, scans **170–191 / printed pages 137–158 / Kural 671–780**.
 
-Keep the gates separate: first-pass transcription only; do not combine it with direct visual verification, Tamil audit or English translation.
+Promote a page to `verified` only after direct page-image comparison. Keep the gates separate: **do not create the Part 009 audit or begin Part 009 English translation during the verification activity.**
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), and [`HANDOVER.md`](HANDOVER.md).
