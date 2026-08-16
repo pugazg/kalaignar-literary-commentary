@@ -14,43 +14,46 @@
 | 006 | `திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf` | 21 | 107–127 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
 | 007 | `திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf` | 21 | 128–148 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
 | 008 | `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf` | 21 | 149–169 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
-| 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | Tamil direct visual verification **COMPLETE 22/22**; audit pending |
+| 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | audited / **ARCHIVAL-READY**; English not started |
 | 010 | `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf` | 23 | 192–214 | source received; transcription not started |
 
-Tamil Parts **001–008 are archival-ready**, reaching overall scan **169** / printed page **136** / Kural **670**. Part 009 is now fully transcribed and directly visually verified through overall scan **191** / printed page **158** / Kural **780**, but it is **not yet audited / archival-ready**.
+Tamil Parts **001–009 are archival-ready continuously** through overall scan **191** / printed page **158** / Kural **780**.
+
+English Parts **001–008** are fully released continuously through Kural **670**. Part 009 English has not started.
 
 ## Part 008 — completed baseline
 
 Part 008 Tamil is **ARCHIVAL-READY** for scans **149–169 / printed pages 116–136 / Kural 566–670**. Audit: [`AUDIT_PART_008.md`](AUDIT_PART_008.md).
 
-English Parts **001–008** are fully released continuously through Kural **670**. Part 008 review/release artefacts:
+Part 008 English is **RELEASE COMPLETE 21/21**. Review/release artefacts:
 
 - [`translations/en/reviews/PART_008_REVIEW.md`](translations/en/reviews/PART_008_REVIEW.md)
 - [`translations/en/reviews/PART_008_RELEASE_REPORT.md`](translations/en/reviews/PART_008_RELEASE_REPORT.md)
 
 The source-visible Part 008 structural transition remains preserved as `பொருள் — அரசியல்` → `பொருள் — அமைச்சியல்`, released in English as `Porul — Statecraft` → **`Porul — Ministerial Affairs`**.
 
-## Part 009 Tamil — DIRECT VISUAL VERIFICATION COMPLETE
+## Part 009 Tamil — ARCHIVAL-READY
 
 Controlling source:
 
 `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf`
 
-Verified physical/content scope:
+Final audited scope and state:
 
 - physical pages: **22**;
 - overall scans: **170–191**;
 - printed pages: **137–158**;
 - Kural range: **671–780**;
+- chapters: **68–78**;
 - first-pass transcription: **22 / 22 complete**;
 - direct visual verification: **22 / 22 complete**;
 - `verified`: **22 / 22**;
 - `needs-review`: **0**;
 - `partial`: **0**;
 - `blocked`: **0**;
-- Tamil audit: **not started**.
+- Tamil audit: **PASS / ARCHIVAL-READY**.
 
-Every Part 009 record now uses `status: "verified"` and `transcription_method: "direct visual comparison with source scan"`.
+Audit record: [`AUDIT_PART_009.md`](AUDIT_PART_009.md).
 
 ### Part 009 chapter coverage
 
@@ -66,9 +69,9 @@ Every Part 009 record now uses `status: "verified"` and `transcription_method: "
 - `77. படை மாட்சி` — **761–770** — scans 188–189;
 - `78. படைச் செருக்கு` — **771–780** — scans 190–191.
 
-### Source-visible structural transitions verified
+### Source-visible structural transitions — audited
 
-The source-visible section changes are retained:
+The verified and audited records preserve:
 
 - scans **170–181**: `பொருள் — அமைச்சியல்`;
 - scan **182 / printed page 149 / Kural 731**: `பொருள் — அரணியல் — நாடு`;
@@ -76,19 +79,34 @@ The source-visible section changes are retained:
 - scan **188 / printed page 155 / Kural 761**: `பொருள் — படையியல் — படை மாட்சி`;
 - scan **190 / printed page 157 / Kural 771**: `பொருள் — படையியல் — படைச் செருக்கு`.
 
-### Verification results and source-sensitive readings
+These distinctions are source-visible and must not be flattened in later English work.
 
-Direct comparison found **one real first-pass transcription correction**:
+### Direct-verification correction retained
 
-- scan **190 / Kural 771 commentary**: `நடுகல்லைப் போனவர்கள்` → **`நடுகல்லாய்ப் போனவர்கள்`**, matching the supplied scan.
+One real first-pass transcription error was found and corrected from the scan:
 
-The three previously flagged readings were resolved directly from the source and retained rather than normalized:
+- scan **190 / Kural 771 commentary**:
+  - first pass: `நடுகல்லைப் போனவர்கள்`
+  - verified/audited source: **`நடுகல்லாய்ப் போனவர்கள்`**.
 
-1. scan **179 / Kural 717** confirms **`கற்றறிந்தார் கல்வி விளங்கும் கசடறச் / சொற்றெரிதல் முன்னர் இழுக்கு.`**;
-2. scan **180 / Kural 725 commentary** confirms the printed phrase **`தருக்கமென்படும் அளவைக் திறமும்`**;
-3. scan **182 / Kural 733 commentary** confirms the printed phrase **`மளவுக்கு வளம்`**.
+### Source-sensitive readings — verified and protected
 
-These source-supported forms must not be silently replaced by familiar or grammatically expected alternatives.
+The audit confirms three forms that must not be silently normalized:
+
+1. scan **179 / Kural 717**:
+   `கற்றறிந்தார் கல்வி விளங்கும் கசடறச் / சொற்றெரிதல் முன்னர் இழுக்கு.`
+2. scan **180 / Kural 725 commentary**:
+   `தருக்கமென்படும் அளவைக் திறமும்`
+3. scan **182 / Kural 733 commentary**:
+   `மளவுக்கு வளம்`
+
+### Adjacent source continuity
+
+- Part 008 ends at printed page **136** / Kural **670** and Part 009 begins at printed page **137** / Kural **671**.
+- Part 009 ends at printed page **158** / Kural **780**.
+- Direct inspection of the supplied Part 010 first page confirms printed page **159**, chapter `79. நட்பு`, beginning Kural **781**.
+
+Thus the supplied sequence is continuous across both Part 009 boundaries. Part 010 remains untranscribed.
 
 ## English project translation layer
 
@@ -96,12 +114,14 @@ The English layer is a **project-created translation**, not a publisher/official
 
 Permanent rule: retain Kalaignar's language, images and interpretive direction rather than replacing them with familiar standard interpretations.
 
-English Parts **001–008** are **RELEASE COMPLETE** through Kural **670**. Part 009 English must not begin until the separate Part 009 Tamil audit / archival-ready gate passes.
+English Parts **001–008** are **RELEASE COMPLETE** through Kural **670**. Part 009 is now eligible for English translation because its Tamil archival audit has passed.
 
 ## அடுத்த செயல்
 
-Perform the separate **Part 009 Tamil audit / archival-ready gate** for all **22 verified records**, scans **170–191 / printed pages 137–158 / Kural 671–780**.
+Begin the separate **Part 009 English project translation — first pass** for all **22 aligned pages**, scans **170–191 / printed pages 137–158 / Kural 671–780**.
 
-Audit page continuity, Kural continuity, chapter and running-header transitions, metadata, source filename, status consistency and the documented verification correction/source-sensitive readings. Create `AUDIT_PART_009.md` only as part of that separate audit gate and declare Part 009 archival-ready only if the audit passes.
+Before writing, read `translations/en/TRANSLATION_GUIDE.md`, `translations/en/GLOSSARY.md`, `translations/en/TRANSLATION_STATUS.md`, `translations/en/reviews/PART_008_REVIEW.md`, and `translations/en/reviews/PART_008_RELEASE_REPORT.md`.
 
-Do **not** begin Part 009 English translation or Part 010 Tamil transcription during the audit activity.
+Create aligned English pages as `draft` only. Preserve Kalaignar's wording, direct images, institutional/social vocabulary, chapter/section distinctions and the Part 009 source-sensitive readings documented in `AUDIT_PART_009.md`. Stop before English source-check, editorial review or release.
+
+Do **not** begin Part 010 Tamil transcription during the Part 009 English first-pass activity unless the user explicitly changes the sequence.
