@@ -53,7 +53,13 @@ Latest Tamil audit: `works/thirukkural/AUDIT_PART_010.md` — **PASS / ARCHIVAL-
 
 Parts **001–009 are fully released continuously** through Kural **780**.
 
-Part 010 English first-pass translation is now **COMPLETE 23 / 23** through Kural **895**. All Part 010 English pages remain `draft`; direct source-check has not begun.
+Part 010 English:
+
+- first pass: **COMPLETE 23 / 23**;
+- direct source-check: **COMPLETE 23 / 23**;
+- current status: **23 / 23 `source-checked`**;
+- editorial consistency / glossary reconciliation: **not started**;
+- release gate: **not started**.
 
 Every English page must identify:
 
@@ -103,21 +109,21 @@ Do not silently smooth, deduplicate or normalize that Tamil basis.
 
 The supplied source ends at printed page **181 / Kural 895**, halfway through chapter 90 `பெரியாரைப் பிழையாமை`. Do not infer Kural 896 onward without the next controlling source.
 
-# Part 010 English — FIRST PASS COMPLETE
+# Part 010 English — SOURCE-CHECK COMPLETE
 
-All **23 / 23** aligned English pages now exist under `works/thirukkural/translations/en/pages/` and remain:
+All **23 / 23** aligned English pages now exist under `works/thirukkural/translations/en/pages/` and use:
 
 ```yaml
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ```
 
 Current Part 010 English state:
 
-- `draft`: **23 / 23**;
-- `source-checked`: **0**;
+- `draft`: **0**;
+- `source-checked`: **23 / 23**;
 - `editorial-reviewed`: **0**;
 - `release-ready`: **0**;
 - `source-limited`: **0**;
@@ -149,13 +155,62 @@ Current Part 010 English state:
 - `0213-porul-utpagai-02.md`
 - `0214-porul-periyaaraip-pizhaiyaamai-01.md`.
 
-## Provisional Part 010 first-pass terminology
+## Direct source-check corrections
 
-The section-level rendering currently used is:
+The full comparison of all 23 English pages against the verified Tamil records produced **seven source-fidelity corrections/refinements across six English files**.
+
+1. **Kural 813 — scan 198 / `0198-porul-thee-natpu-01.md`**
+   - first pass: `women who sell intimacy`
+   - source-checked: **`women for hire`**
+   - reason: Kalaignar's commentary explicitly uses `விலைமகளிரும்`; “sell intimacy” added wording not supplied by him.
+
+2. **Kural 822 — scan 200 / `0200-porul-koodaa-natpu-01.md`**
+   - first pass Kural expanded the comparison as `women who merely appear to possess virtue`;
+   - source-checked Kural uses **`women for hire`**;
+   - Kalaignar's fuller explanation about lacking the good qualities expected of women while acting as if possessing them remains in the separate commentary, where the source places it.
+
+3. **Kural 842 commentary — scan 204 / `0204-porul-pullarivaanmai-01.md`**
+   - removed unsupported **`earned`** from the recipient's good fortune;
+   - source-checked commentary now follows `பெறுகிறவன் பெற்றபேறு` without adding a theory of how that fortune was earned.
+
+4. **Kural 849 — scan 205 / `0205-porul-pullarivaanmai-02.md`**
+   - first pass had subject drift in the compressed Kural;
+   - source-check used Kalaignar's adjacent commentary as the permitted interpretive aid;
+   - source-checked Kural now states that **one who tries to make an unseeing person see becomes unseeing himself, while the unseeing person thinks he has seen in the way he himself sees**.
+
+5. **Kural 850 — scan 205 / same file**
+   - first pass inserted the commentary's evidence clause into the Kural itself;
+   - source-checked Kural now stays with the Kural's own statement that one who denies what the world says exists is placed among the “ghosts”;
+   - Kalaignar's explicit evidence/truth framing remains in the separate commentary, where the Tamil places it.
+
+6. **Kural 867 commentary — scan 209 / `0209-porul-pagai-maatchi-02.md`**
+   - removed unsupported added phrase **`and harmful to us`**;
+   - source-checked wording follows `தனக்குப் பொருந்தாத காரியங்களை` as acts that do not befit one.
+
+7. **Kural 887 — scan 213 / `0213-porul-utpagai-02.md`**
+   - removed unsupported material qualifier **`metal`** from `செப்பு`;
+   - source-checked Kural says a lid fitting its container, while commentary retains the source term *seppu* without inventing a material.
+
+## Part 010 source-sensitive protections after source-check
+
+The source-check deliberately retained these Kalaignar-specific or source-sensitive treatments:
+
+1. **Kural 813** — explicit comparison involving **women for hire** and thieves remains, without neutralizing the social/gender specificity.
+2. **Kural 835** — Kalaignar commentary's `ஏழு காலத்திலும்` remains **seven periods**; do not import an external “seven births” explanation.
+3. **Kural 850 commentary** — retain Kalaignar's evidence/truth framing and quoted **“ghosts”** image.
+4. **Kural 861** — retain Kalaignar's supplied interpretation: `மெலியோரை விடுத்து, வலியோரை எதிர்த்துப் போரிட விரும்புவதே பகைமாட்சி எனப் போற்றப்படும்.` Do not replace it with a familiar conventional Kural interpretation.
+5. **Kural 869 commentary** — retain **“cowards who are afraid, and ignorant cowards”**. The repetition is source-confirmed and must not be silently smoothed.
+6. **Kural 876** — retain the nuance of neither becoming too close to the enemy in friendship nor separating completely while maintaining hostility when danger arises.
+7. **Kural 895** — retain the distinction between the Kural's **ruler** and Kalaignar commentary's **government** framing.
+8. No Kural **896** or later English text exists.
+
+## Provisional terminology — still not controlled
+
+The section-level rendering remains:
 
 - `நட்பியல்` → **Friendship** — **provisional**.
 
-First-pass chapter headings:
+Current source-checked chapter headings remain provisional:
 
 - 79 `நட்பு` → **Friendship**;
 - 80 `நட்பாராய்தல்` → **Examining Friendship**;
@@ -170,53 +225,40 @@ First-pass chapter headings:
 - 89 `உட்பகை` → **Internal Enmity**;
 - 90 `பெரியாரைப் பிழையாமை` → **Not Offending the Great**.
 
-These are first-pass choices only. `GLOSSARY.md` was deliberately **not** updated at this gate because the project has previously finalized new structural controls during the later editorial consistency / glossary reconciliation gate. Do not treat these provisional forms as released controls yet.
-
-## Part 010 first-pass fidelity points
-
-1. Kural/commentary separation and two-line English Kural structure are present on all aligned pages.
-2. Kalaignar's direct language and images are retained rather than replaced by a standard English Thirukkural translation.
-3. Kural **850** commentary retains Kalaignar's evidence/truth framing and the quoted **“ghosts”** image.
-4. Kural **813** commentary retains the source's explicit comparison involving **women for hire** and thieves rather than neutralizing the social/gender specificity.
-5. Kural **835** uses the source commentary's **seven periods** without importing an external doctrinal “seven births” explanation.
-6. Scan **209 / Kural 869 commentary** preserves the repetition in English as **“cowards who are afraid, and ignorant cowards”** rather than silently repairing it.
-7. Kural **895** retains the distinction between the Kural's ruler language and Kalaignar commentary's government framing.
-8. No Kural **896** or later English text has been created.
+`GLOSSARY.md` was deliberately **not** updated during source-check. Finalizing these belongs to the next gate.
 
 # Exact next activity
 
-Perform the separate **Part 010 English direct source-check** for all **23 `draft` pages**, scans **192–214 / printed pages 159–181 / Kural 781–895**.
+Perform the separate **Part 010 English editorial consistency / glossary reconciliation** for all **23 `source-checked` pages**, scans **192–214 / printed pages 159–181 / Kural 781–895**.
 
-## Required Part 010 English source-check procedure
+## Required editorial procedure
 
-1. fresh-read all mandatory English startup files above;
-2. inspect `AUDIT_PART_010.md`, all 23 verified Tamil Part 010 records, and all 23 English draft records;
-3. compare each translated Kural against the verified Tamil Kural for number, two-line structure, omissions, additions and meaning drift;
-4. compare every Kalaignar commentary paragraph directly against the corresponding verified Tamil commentary;
-5. preserve Kalaignar's actual interpretive direction rather than substituting a standard Kural gloss;
-6. verify `source_scan_page`, `source_tamil_file`, `printed_page`, section/chapter metadata, `translation_type`, `source_tamil_status`, translation basis and source marker for all 23 pages;
-7. pay special attention to first-pass interpretive risk points, including Kural 813, 835, 849, 850, 861, 869, 876 and 895;
-8. specifically retain the source-supported Kural 869 repetition rather than smoothing it away;
-9. document every substantive correction made during source-check;
-10. promote only pages that pass to:
+1. fresh-read all mandatory startup files above;
+2. inspect `AUDIT_PART_010.md`, all 23 verified Tamil pages and all 23 source-checked English pages;
+3. review the source-checked English as one continuous Part 010 unit for readability and consistency without weakening source fidelity;
+4. deliberately finalize a project rendering for source structural term `நட்பியல்` based on the supplied main-body context;
+5. deliberately finalize chapter headings **79–90** from the supplied main-body context;
+6. update `works/thirukkural/translations/en/GLOSSARY.md` with the controlled section/chapter decisions and any recurring terminology decisions that genuinely need a project control;
+7. preserve every source-check correction listed above;
+8. preserve the source-sensitive Kural **835, 850, 861, 869, 876 and 895** treatments and other Kalaignar-specific language/images;
+9. check recurring friendship/enmity vocabulary, social specificity, government/ruler distinctions, punctuation and readability without importing an external Thirukkural translation;
+10. create `works/thirukkural/translations/en/reviews/PART_010_REVIEW.md` documenting the editorial/glossary decisions and any body-text changes made;
+11. promote only passing Part 010 English pages to:
 
 ```yaml
-status: "source-checked"
+status: "editorial-reviewed"
 ```
 
-11. keep provisional section/chapter terminology provisional; do not perform the later glossary/editorial gate during source-check;
-12. synchronize `TRANSLATION_STATUS.md`, English README, work README, root README and this handover after the complete source-check;
-13. stop after source-check.
+12. synchronize `TRANSLATION_STATUS.md`, English README, work README, root README and this handover;
+13. stop after the editorial consistency / glossary-reconciliation gate.
 
-## Do not combine with source-check
+## Do not combine with editorial review
 
 Do **not**:
 
-- create `PART_010_REVIEW.md` during this activity;
-- finalize `நட்பியல்` or chapter-heading glossary controls during this activity;
-- promote pages to `editorial-reviewed` or `release-ready`;
-- create `PART_010_RELEASE_REPORT.md`;
-- begin unsupplied Tamil or English continuation after Kural 895;
-- alter released English Parts 001–009 merely for harmonization.
+- create `PART_010_RELEASE_REPORT.md` in this activity;
+- promote Part 010 pages to `release-ready`;
+- alter released English Parts 001–009 merely for harmonization;
+- infer or create Kural 896 onward without the next controlling Tamil source.
 
-If all 23 pages pass source-check with no blocker, the next separate activity will be **Part 010 English editorial consistency / glossary reconciliation**.
+If all 23 pages pass editorial review, the next separate activity will be **Part 010 English release gate**.
