@@ -22,87 +22,97 @@ Do not collapse these stages.
 
 Parts **001–007 are audited / archival-ready** through overall scan **148** / printed page **115** / Kural **565**.
 
-Part 007 audit:
-
-- `works/thirukkural/AUDIT_PART_007.md`
-
 ## English project translation
 
 Parts **001–007 are released continuously through Kural 565**.
 
-Part 007 release artefacts:
-
-- `works/thirukkural/translations/en/reviews/PART_007_REVIEW.md`
-- `works/thirukkural/translations/en/reviews/PART_007_RELEASE_REPORT.md`
-
-Part 007 final English state:
-
-- aligned English files: **21 / 21**;
-- `release-ready`: **21 / 21**;
-- `editorial-reviewed`: **0**;
-- `source-checked`: **0**;
-- `draft`: **0**;
-- `source-limited`: **0**;
-- `blocked`: **0**.
-
-Scope released:
-
-- scans **128–148**;
-- local pages **1–21**;
-- printed pages **95–115**;
-- Kural **461–565**;
-- chapters **47–57**.
-
-## Protected Part 007 release decisions
-
-These remain binding and must not be casually revised during later-part work:
-
-1. **Kural 543** — Kalaignar explains `அந்தணர் நூற்கும்` through `அறவோர் நூல்களுக்கும்`; released English remains **“the books of the virtuous”**. Do not replace this with a caste-specific conventional gloss.
-2. **Kural 520** — retain Kalaignar's explicit focus on **working people** and the obligation of those who govern to examine their condition every day and act accordingly.
-3. **Chapters 55–57** — preserve Kalaignar's institutional vocabulary through **government, citizens, good governance, justice, tyranny, public resources, productive work, occupations, punishment and fear** wherever his commentary explicitly uses that framing.
-4. **Kural 464** — retain the source-check correction centred on `களங்கம்`: **“the blemish of disgrace”**; do not reintroduce the unsupported first-pass idea of “failure.”
-5. Preserve source-supported images: peacock feathers breaking a cart axle; ram drawing back before charging; crane waiting and striking; crocodile leaving water; chariot/sea and ship/land; elephant trapped in mire and foxes; tank without banks; crow sharing with its circle; timely rain and harvest; weeds removed from a crop; citizens' tears as a weapon; demon-like image in Kural 565.
-6. Preserve Kalaignar's direct social/political language rather than smoothing it into generic moral prose merely for elegance.
-
 Released Parts 001–007 must not be revised merely because later parts introduce similar terminology. Any project-wide change must be deliberate, source-supported and documented.
 
-# Part 008 intake
+# Part 008 Tamil — FIRST-PASS IN PROGRESS
 
-Part 008 is supplied as:
+Source:
 
 `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf`
 
-Known boundary from direct source intake:
+Physical pages: **21** / overall scans **149–169**.
 
-- overall scans **149–169**;
-- first printed page **116**;
-- scan 149 begins with Kural **566–570**;
-- this directly continues chapter 57 `வெருவந்த செய்யாமை` after Part 007 Kural 565.
+Current first-pass count:
 
-Part 008 is still **untranscribed**. Do not treat intake knowledge as transcription or verification.
+- `needs-review`: **7 / 21** — scans 149–155;
+- `verified`: **0 / 21**;
+- Part 008 audit: **not started**;
+- Part 008 English: **not started**.
+
+## Existing first-pass records
+
+1. `works/thirukkural/pages/0149-porul-veruvantha-seyyaamai-02.md`
+   - scan 149 / printed 116;
+   - Kural 566–570;
+   - completes chapter 57 `வெருவந்த செய்யாமை` begun in Part 007.
+
+2. `works/thirukkural/pages/0150-porul-kannotam-01.md`
+   - scan 150 / printed 117;
+   - chapter 58 `கண்ணோட்டம்` begins;
+   - Kural 571–575.
+
+3. `works/thirukkural/pages/0151-porul-kannotam-02.md`
+   - scan 151 / printed 118;
+   - chapter 58 `கண்ணோட்டம்` continues;
+   - Kural 576–580.
+
+4. `works/thirukkural/pages/0152-porul-otradal-01.md`
+   - scan 152 / printed 119;
+   - chapter 59 `ஒற்றாடல்` begins;
+   - Kural 581–585.
+
+5. `works/thirukkural/pages/0153-porul-otradal-02.md`
+   - scan 153 / printed 120;
+   - chapter 59 `ஒற்றாடல்` continues;
+   - Kural 586–590.
+
+6. `works/thirukkural/pages/0154-porul-ookkam-udaimai-01.md`
+   - scan 154 / printed 121;
+   - chapter 60 `ஊக்கம் உடைமை` begins;
+   - Kural 591–595.
+
+7. `works/thirukkural/pages/0155-porul-ookkam-udaimai-02.md`
+   - scan 155 / printed 122;
+   - chapter 60 `ஊக்கம் உடைமை` continues;
+   - Kural 596–600.
+
+All seven records deliberately use:
+
+- `status: "needs-review"`;
+- `transcription_method: "manual transcription from source scan; direct visual verification pending"`.
+
+Do not promote them to `verified` until the later dedicated visual-comparison stage.
 
 # Exact next activity
 
-Begin **Part 008 Tamil first-pass transcription only**.
+Continue **Part 008 Tamil first-pass transcription only** for overall scans **156–162** / Part 008 local pages **8–14** / printed pages **123–129** / Kural **601–635**.
 
-Start with overall scan **149** / printed page **116** / Kural **566**, continuing chapter 57 `வெருவந்த செய்யாமை`.
+The controlling scans have already been inspected for batch boundaries:
+
+- scans **156–157** — chapter 61 `மடி இன்மை`, Kural **601–610**;
+- scans **158–159** — chapter 62 `ஆள்வினை உடைமை`, Kural **611–620**;
+- scans **160–161** — chapter 63 `இடுக்கண் அழியாமை`, Kural **621–630**;
+- scan **162** — chapter 64 `அமைச்சு` begins, Kural **631–635**;
+- at scan 162 the page header changes from `பொருள் — அரசியல்` to **`பொருள் — அமைச்சியல் — அமைச்சு`**, marking the supplied structural transition into `அமைச்சியல்`.
 
 Required procedure:
 
-1. fresh-fetch this `HANDOVER.md` and `works/thirukkural/README.md`;
-2. read the repository processing guide before writing;
-3. inspect the controlling Part 008 scan directly;
-4. create Tamil Markdown records page-by-page using the established Part 007 metadata and filename conventions;
-5. preserve source-supported Tamil spelling, punctuation, wording, joins, names, numbers and Kalaignar commentary exactly as printed;
-6. mark every new Part 008 record `needs-review` with direct visual verification pending;
-7. work only on Tamil first-pass transcription in this stage;
-8. synchronize README/status/handover documents after the chosen first-pass batch;
-9. stop before direct verification.
+1. fresh-fetch this handover and the work README;
+2. inspect scans 156–162 directly before writing;
+3. create one Tamil Markdown record per scan, following the established Part 008 metadata and filename pattern;
+4. preserve the source's exact Tamil spelling, punctuation, joins, verse line breaks and Kalaignar commentary;
+5. mark all seven records `needs-review` with direct visual verification pending;
+6. synchronize status documents after the batch;
+7. stop after scan 162.
 
-Do **not** in the Part 008 first-pass activity:
+Do **not** in that activity:
 
-- modify released English Parts 001–007;
-- perform Part 008 direct verification;
-- create a Part 008 Tamil audit;
+- begin Part 008 direct visual verification;
+- create a Part 008 audit;
 - begin Part 008 English translation;
-- begin Part 009 Tamil transcription.
+- begin Part 009 Tamil transcription;
+- modify released English Parts 001–007.
