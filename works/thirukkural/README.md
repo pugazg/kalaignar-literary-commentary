@@ -16,56 +16,13 @@
 | 008 | `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf` | 21 | 149–169 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
 | 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 22/22** |
 | 010 | `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf` | 23 | 192–214 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 23/23** |
-| 011 | `திருக்குறள்_கலைஞர்_உரை_part_011_pages_215-237.pdf` | 23 | 215–237 | Tamil first pass **COMPLETE 23/23**; direct visual verification pending |
+| 011 | `திருக்குறள்_கலைஞர்_உரை_part_011_pages_215-237.pdf` | 23 | 215–237 | Tamil direct visual verification **COMPLETE 23/23**; audit pending |
 
 Tamil Parts **001–010 are archival-ready continuously** through overall scan **214** / printed page **181** / Kural **895**.
 
-Part 011 now has a complete Tamil first-pass transcription through overall scan **237** / printed page **204** / Kural **1010**, but remains `needs-review` until the separate direct visual verification gate is completed.
+Part 011 Tamil is now directly verified through overall scan **237** / printed page **204** / Kural **1010**, but is **not yet ARCHIVAL-READY** because its separate part audit has not yet been performed.
 
 English Parts **001–010 are released continuously** through the supplied Kural **895**. Part 011 English has not started and must not start before the Part 011 Tamil audit passes.
-
-## Part 009 English — RELEASE COMPLETE
-
-English scope:
-
-- aligned pages: **22 / 22**;
-- scans **170–191**;
-- printed pages **137–158**;
-- Kural **671–780**;
-- chapters **68–78**;
-- final `release-ready`: **22 / 22**.
-
-Editorial review: [`translations/en/reviews/PART_009_REVIEW.md`](translations/en/reviews/PART_009_REVIEW.md).
-
-Release report: [`translations/en/reviews/PART_009_RELEASE_REPORT.md`](translations/en/reviews/PART_009_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
-
-Released structural vocabulary through Part 009:
-
-- `அமைச்சியல்` → **Ministerial Affairs**;
-- `அரணியல்` → **Fortification Affairs**;
-- `கூழியல்` → **Wealth**;
-- `படையியல்` → **Military Affairs**.
-
-## Part 010 Tamil — ARCHIVAL-READY
-
-Controlling source: `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf`
-
-Audit record: [`AUDIT_PART_010.md`](AUDIT_PART_010.md) — **PASS / ARCHIVAL-READY**.
-
-Final audited scope:
-
-- physical pages: **23**;
-- overall scans: **192–214**;
-- printed pages: **159–181**;
-- Kural range: **781–895**;
-- section throughout: `பொருள் — நட்பியல்`;
-- chapters **79–90**, with chapter 90 present only through Kural 895;
-- `verified`: **23 / 23**;
-- no unresolved Tamil page.
-
-The Part 009 → Part 010 boundary passes at printed page **158 → 159** / Kural **780 → 781**.
-
-The source-sensitive scan **209 / Kural 869 commentary** repetition is directly verified and remains protected. The source ends at Kural **895**; Kural 896 onward was not inferred before the next supplied source arrived.
 
 ## Part 010 English — RELEASE COMPLETE
 
@@ -79,47 +36,33 @@ Released scope:
 - scans **192–214**;
 - printed pages **159–181**;
 - Kural **781–895**;
-- `draft`: **0**;
-- `source-checked`: **0**;
-- `editorial-reviewed`: **0**;
-- `release-ready`: **23 / 23**;
-- `source-limited`: **0**;
-- `blocked`: **0**.
+- `release-ready`: **23 / 23**.
 
-All Part 010 English pages identify `translation_type: "project_translation"`, point to the corresponding verified Tamil archival page, and retain the controlling-scan translation basis.
-
-Released structural vocabulary introduced in Part 010:
+Released structural term introduced in Part 010:
 
 - `நட்பியல்` → **Friendship**.
 
-Released chapter headings 79–90 are **Friendship**, **Examining Friendship**, **Long-Standing Friendship**, **Harmful Friendship**, **False Friendship**, **Folly**, **Possession of Little Understanding**, **Discord**, **Excellence in Enmity**, **Discerning Enmity**, **Internal Enmity**, and **Not Offending the Great**.
+Released Part 010 source-check protections remain intact, including **women for hire** at Kural 813/822, Kural 835's **seven periods**, Kural 850's evidence/“ghosts” framing, Kalaignar's supplied Kural 861 interpretation, Kural 869's repeated **“cowards who are afraid, and ignorant cowards”**, Kural 876's enemy/friendship nuance, and Kural 895's ruler/government distinction.
 
-Chapter 87 `பகை மாட்சி` is released as **Excellence in Enmity**, restoring the force of `மாட்சி` and following Kalaignar's Kural 861 explanation.
-
-The seven source-check corrections remain intact at release, including **women for hire** at Kural 813/822 and the Kural 842, 849, 850, 867 and 887 fidelity corrections. Protected interpretations remain intact, especially Kural **835**'s **seven periods**, Kalaignar's supplied Kural **861** reading, Kural **869**'s repeated **“cowards who are afraid, and ignorant cowards”**, Kural **876**'s enemy/friendship nuance, Kural **850**'s “ghosts” image and evidence framing, and Kural **895**'s ruler/government distinction.
-
-No substantive Kural or commentary body text was changed during the release gate.
-
-## Part 011 Tamil — FIRST PASS COMPLETE
+## Part 011 Tamil — DIRECT VISUAL VERIFICATION COMPLETE
 
 Controlling source: `திருக்குறள்_கலைஞர்_உரை_part_011_pages_215-237.pdf`
 
-The actual 23-page scan was inspected before transcription. The incoming boundary is directly source-supported:
+The actual 23-page scan was compared directly against every first-pass page record.
 
-- Part 010 ends at printed page **181 / Kural 895**;
-- Part 011 begins at printed page **182 / Kural 896**.
-
-First-pass scope:
+Verified scope:
 
 - physical pages: **23 / 23**;
 - overall scans: **215–237**;
 - Part-local pages: **1–23**;
 - printed pages: **182–204**;
 - Kural range: **896–1010**;
-- `needs-review`: **23 / 23**;
-- `verified`: **0**;
+- `verified`: **23 / 23**;
+- `needs-review`: **0**;
 - `partial`: **0**;
 - `blocked`: **0**.
+
+The incoming Part 010 → Part 011 boundary remains directly source-supported at printed page **181 → 182** / Kural **895 → 896**.
 
 Chapter coverage:
 
@@ -136,26 +79,44 @@ Chapter coverage:
 - scans 234–235 — chapter 100 `பண்புடைமை`, Kural 991–1000;
 - scans 236–237 — chapter 101 `நன்றியில் செல்வம்`, Kural 1001–1010.
 
-The source structural transition is preserved rather than flattened:
+The source structural transition remains preserved:
 
-- scans **215–225** remain under `பொருள் — நட்பியல்`;
-- from scan **226 / printed page 193 / chapter 96 குடிமை**, the running header changes to `பொருள் — குடியியல்` and remains so through scan 237.
+- scans **215–225**: `பொருள் — நட்பியல்`;
+- from scan **226 / printed page 193 / chapter 96 குடிமை**: `பொருள் — குடியியல்`.
 
-Source-sensitive first-pass material includes Kalaignar's explicit governance framing at Kural **899**, the extension of Kural **948** from bodily illness to **சமுதாய நோய்**, and Kural **972**'s explicit `பிறப்பினால் அனைவரும் சமம்` formulation. These remain source-controlled and will be checked line-by-line during verification.
+### Corrections found during direct verification
 
-Part 011 is **not ARCHIVAL-READY** yet. No `AUDIT_PART_011.md` exists, and no Part 011 English translation has begun.
+Exactly four real first-pass corrections were required:
+
+1. scan **216 / Kural 904** verse: `மனையாளை அஞ்சும்` → **`மனையாளை யஞ்சும்`**;
+2. scan **216 / Kural 905** verse: `இல்லாளை அஞ்சுவான்` → **`இல்லாளை யஞ்சுவான்`**;
+3. scan **218 / Kural 911 commentary**: `பொருள் திரட்டுவதைமே` → **`பொருள் திரட்டுவதையே`**;
+4. scan **221 / Kural 927 commentary**: `மயங்குவதைப் கண்டு` → **`மயங்குவதைக் கண்டு`**.
+
+All other page text matched the source-supported first pass.
+
+### Source-sensitive readings directly confirmed
+
+The following source forms/interpretations were checked and retained rather than normalized:
+
+- Kural **899** commentary: `உயர்ந்த கொள்கை உறுதி கொண்டவர்கள் சீறி எழுந்தால் அடக்குமுறை ஆட்சி நிலைகுலைந்து அழிந்து விடும்.`
+- Kural **912** commentary: `பாகுமொழிபேசும்`.
+- Kural **931** commentary: `கெளவிக் கொண்டு போவதாகிவிடும்`.
+- Kural **948** commentary: `உடல் நோய்க்கு மட்டுமின்றிச் சமுதாய நோய்க்கும் இது பொருந்தும்.`
+- Kural **971** preserves the printed split/orthography `ஒளியொருவற் குள்ள வெறுக்கை இளியொருவற் / கஃதிறந்து வாழ்தும் எனல்.`
+- Kural **972** commentary: `பிறப்பினால் அனைவரும் சமம். செய்யும் தொழிலில் காட்டுகிற திறமையில் மட்டுமே வேறுபாடு காண முடியும்.`
+- Kural **985** verse remains without a terminal period because the source prints it that way.
+- Kural **1001** commentary begins `அடங்காத ஆசையினால் வீடு கொள்ளாத அளவுக்குச்...` as printed.
+- Kural **1008** verse remains without a terminal period because the source prints it that way.
 
 No Kural **1011** or later text has been inferred or created.
 
+Part 011 remains **NOT ARCHIVAL-READY** at this point. `AUDIT_PART_011.md` has deliberately not been created during the verification gate, and Part 011 English remains unstarted.
+
 ## அடுத்த செயல்
 
-Perform the separate **Part 011 Tamil direct visual verification** gate for all **23 `needs-review` pages**, scans **215–237**.
+Perform the separate **Part 011 Tamil audit / archival-ready gate**.
 
-Compare every Kural, line break, punctuation mark, chapter heading, running-header section, commentary paragraph and page metadata directly against the controlling scan. Correct only what the scan clearly requires, document every real correction, and promote passing pages to:
+The audit must check all 23 physical-page records, scan/Part-local/printed-page continuity, Kural 896–1010 continuity, chapters 90–101, the `நட்பியல்` → `குடியியல்` structural transition, Part 010 → Part 011 boundary, all 23 verified statuses, the four documented verification corrections, and the source-sensitive readings above. Only after that separate audit may an explicit ARCHIVAL-READY decision be made.
 
-```yaml
-status: "verified"
-transcription_method: "direct visual comparison with source scan"
-```
-
-Stop after the 23-page verification. Do **not** create `AUDIT_PART_011.md` in the same activity, and do **not** begin Part 011 English translation. The next gate after verification is the separate Part 011 Tamil audit / archival-ready decision.
+Do **not** begin Part 011 English translation until the audit passes.
