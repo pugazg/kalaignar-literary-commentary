@@ -6,10 +6,10 @@ printed_page: "188"
 work: "thirukkural"
 section: "பொருள் — நட்பியல் — கள்ளுண்ணாமை"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_011_pages_215-237.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **926. துஞ்சினார் செத்தாரின் வேறல்லர் எஞ்ஞான்றும்  
@@ -20,7 +20,7 @@ transcription_method: "manual transcription from source scan; direct visual veri
 **927. உள்ளொற்றி உள்ளூர் நகப்படுவர் எஞ்ஞான்றும்  
 கள்ளொற்றிக் கண்சாய் பவர்.**
 
-மறைந்திருந்து மதுவருந்தினாலும் மறைக்க முடியாமல் அவர்களது கண்கள் சுழன்று மயங்குவதைப் கண்டு ஊரார் எள்ளி நகையாடத்தான் செய்வார்கள்.
+மறைந்திருந்து மதுவருந்தினாலும் மறைக்க முடியாமல் அவர்களது கண்கள் சுழன்று மயங்குவதைக் கண்டு ஊரார் எள்ளி நகையாடத்தான் செய்வார்கள்.
 
 **928. களித்தறியேன் என்பது கைவிடுக நெஞ்சத்  
 தொளித்ததூஉம் ஆங்கே மிகும்.**
