@@ -420,3 +420,67 @@ Chapter 57 **Avoiding Acts that Cause Fear** remains the controlled Part 007 hea
 - Kural 667 retains the small **linchpin / great chariot** comparison.
 
 For heading decisions, structural terminology, source-check protections and the three small post-source-check readability refinements, see `reviews/PART_008_REVIEW.md`.
+
+## Part 009 main-body controlled extension
+
+The Part 009 editorial-consistency / glossary-reconciliation review extends the controlled main-body heading set through Kural **780** and establishes the source-visible section transitions that follow `அமைச்சியல்`.
+
+### Structural terms established in Part 009
+
+| Tamil | Controlled English | Editorial note |
+|---|---|---|
+| அரணியல் | Fortification Affairs | Controlled section-level metadata for chapters 74–75 in the supplied main body. It covers both `நாடு` and `அரண்`, preserving a section level broader than the single chapter **Fortress**. |
+| கூழியல் | Wealth | Controlled section-level metadata for chapter 76 in the supplied main body. The section centres wealth/material resources, taxation, customs, tribute and the acquisition/use of `பொருள்`. |
+| படையியல் | Military Affairs | Controlled section-level metadata for chapters 77–78. It preserves the distinction between the broader military section and the individual chapter titles **Excellence of the Army** and **Martial Pride**. |
+
+Together with the earlier controlled term `அமைச்சியல்` → **Ministerial Affairs**, Part 009 preserves the source sequence as **Ministerial Affairs → Fortification Affairs → Wealth → Military Affairs**.
+
+### Main-body chapter titles 68–78
+
+| No. | Tamil heading | Controlled main-body English heading |
+|---:|---|---|
+| 68 | வினை செயல்வகை | The Method of Action |
+| 69 | தூது | The Envoy |
+| 70 | மன்னரைச் சேர்ந்து ஒழுகல் | Conduct in the Presence of Kings |
+| 71 | குறிப்பறிதல் | Understanding Signs |
+| 72 | அவை அறிதல் | Knowing the Assembly |
+| 73 | அவை அஞ்சாமை | Fearlessness in the Assembly |
+| 74 | நாடு | The Country |
+| 75 | அரண் | Fortress |
+| 76 | பொருள் செயல்வகை | The Way of Acquiring Wealth |
+| 77 | படை மாட்சி | Excellence of the Army |
+| 78 | படைச் செருக்கு | Martial Pride |
+
+Chapter 71 is deliberately refined from the first-pass/source-checked **Understanding Signs (Porul)** to **Understanding Signs**. The parenthetical was a project-added disambiguator not present in the Tamil heading; the supplied main-body context itself sufficiently establishes the sense.
+
+### Recurring Part 009 controls
+
+| Tamil | Controlled English range | Part 009 editorial note |
+|---|---|---|
+| தூது / தூதர் | envoy / message / mission | Chapter 69 is **The Envoy**. Preserve the source's inter-government/country and message-bearing context where Kalaignar makes it explicit. |
+| குறிப்பு | sign / indication / intention | Chapter 71 is **Understanding Signs**; facial, ocular and unspoken signs are central to Kalaignar's commentary. |
+| அவை | assembly | Chapters 72–73 retain **Knowing the Assembly** and **Fearlessness in the Assembly**. |
+| நாடு | country | Chapter 74 is **The Country**. Preserve government, public welfare and resource vocabulary rather than reducing the discussion to territory alone. |
+| அரண் | fortress | Chapter 75 is **Fortress**. Preserve siege, defence, stored food, soldiers/people and battlefront language. |
+| பொருள் — chapter 76 | wealth / material resources / resources | Chapter 76 is **The Way of Acquiring Wealth**. Use the contextual sense required by money, capital, resources or public revenue rather than forcing one English word into every occurrence. |
+| வரி | tax / taxes | Preserve Kalaignar's fiscal framing. |
+| சுங்கம் | customs duties | Kural 756 commentary explicitly lists customs alongside tax and tribute. |
+| கப்பம் | tribute | Kural 756 commentary uses the payment by defeated enemy countries. |
+| படை | army | Chapters 77–78 retain military organization, formation, leadership, battlefield and warrior vocabulary. |
+| நடுகல் | memorial stone | Preserve the direct Kural 771 commentary image `நடுகல்லாய்ப் போனவர்கள்` → **have become memorial stones**. |
+| வீரம் | valour / courage | Context-sensitive military vocabulary; retain the source's force rather than softening it. |
+| மானம் | sense of honour | Kural 766 commentary explicitly includes `மான உணர்வு`. |
+| அரசு | government | Retain where Kalaignar speaks institutionally; keep `வேந்தன் / மன்னர் / தலைவன்` contextual as ruler / king / leader. |
+
+### Part 009 source-sensitive controls
+
+- Kural **680** retains the source-check correction **“those with little support ... the trembling among their own”**; do not restore the unsupported territorial “smaller domain” wording.
+- Kural **691** retains **“kings”** without the unsupported first-pass adjective “contentious.”
+- Kural **717** remains based on this supplied edition's verified `... சொற்றெரிதல் முன்னர் இழுக்கு`; retain the source-check note and do not substitute a familiar external Kural reading.
+- Kural **725 commentary** remains grounded in `தருக்கமென்படும் அளவைக் திறமும்`; retain **“the skill of measure called logic”** without repairing the Tamil basis.
+- Kural **733 commentary** remains grounded in `மளவுக்கு வளம்`; retain **“possesses wealth to that measure”** without normalizing the source.
+- Kural **771 commentary** retains the direct **memorial stones** image from verified `நடுகல்லாய்ப் போனவர்கள்`.
+- Kural **773** retains Kalaignar's explicit **great manliness / manliness** framing from `பெரும் ஆண்மை` / `ஆண்மையின் உச்சம்`.
+- Preserve Part 009's direct images, including elephant-capturing-elephant, warming by fire, the cashew-nut comparison, nectar in an unclean courtyard, love/compassion/nurse/material-resources, elephants fighting viewed from a hill, rats/sea/cobra breath, victory garland, spear pulled from a warrior's chest, honourable battle wounds and warrior's anklet.
+
+For the full Part 009 heading, structural-term and fidelity rationale, see `reviews/PART_009_REVIEW.md`.
