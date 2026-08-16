@@ -6,7 +6,7 @@
 
 ## Core source rule
 
-The supplied scans are the controlling sources. Do not silently modernize, normalize, correct, reconstruct or improve Tamil. Preserve source-specific Kural spelling, joining, spacing, punctuation, line breaks and Kalaignar commentary exactly as printed.
+The supplied scans are the controlling sources. Do not silently modernize, normalize, correct, reconstruct or improve Tamil.
 
 The English layer is a **project-created translation**, not an official/publisher English edition. It must retain Kalaignar's own language, images, emphases and interpretive direction and must not import external English Kural wording or another commentator's interpretation.
 
@@ -22,6 +22,13 @@ Do not collapse these stages.
 
 Parts **001–006 are audited / archival-ready** through overall scan **127** / printed page **94** / Kural **460**.
 
+Parts 007–010 are received but remain source-intake only:
+
+- Part 007 — scans 128–148 / Kural 461–565;
+- Part 008 — scans 149–169 / Kural 566–670;
+- Part 009 — scans 170–191 / Kural 671–780;
+- Part 010 — scans 192–214 / Kural 781–895.
+
 ## English project translation
 
 Released:
@@ -32,155 +39,67 @@ Released:
 - Part 004 — 22/22 `release-ready`, through Kural 255;
 - Part 005 — 22/22 `release-ready`, through Kural 365.
 
-Part 006 English first-pass is now **21/21 complete at `draft` status**. Source-check has not begun.
+# Part 006 English — SOURCE-CHECK COMPLETE
 
-The latest English authority files remain:
+Scope: scans **107–127 / Kural 366–460**, including the Porul title page and blank reverse.
 
-- `works/thirukkural/translations/en/TRANSLATION_GUIDE.md`;
-- `works/thirukkural/translations/en/GLOSSARY.md`;
-- `works/thirukkural/translations/en/reviews/PART_005_REVIEW.md`;
-- `works/thirukkural/translations/en/reviews/PART_005_RELEASE_REPORT.md`.
+Current state:
 
-Do not revise released English merely because later work introduces similar vocabulary. Any project-wide change must be deliberate and documented.
-
-# Supplied Tamil source — Parts 006–010
-
-| Part | Overall scans | Printed-page span visible in source | Kural span | Tamil state |
-|---|---:|---:|---:|---|
-| 006 | 107–127 | 74–94 | 366–460 | **ARCHIVAL-READY** |
-| 007 | 128–148 | 95–115 | 461–565 | source received; not started |
-| 008 | 149–169 | 116–136 | 566–670 | source received; not started |
-| 009 | 170–191 | 137–158 | 671–780 | source received; not started |
-| 010 | 192–214 | 159–181 | 781–895 | source received; not started |
-
-Parts 007–010 are source-intake only and are not yet archival-ready.
-
-# Part 006 Tamil — ARCHIVAL-READY
-
-Source:
-
-`திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf`
-
-Audit:
-
-`works/thirukkural/AUDIT_PART_006.md`
-
-Final Tamil state:
-
-- physical scan records: **21 / 21**;
-- overall scans: **107–127**;
-- local pages: **1–21**;
-- Kural range: **366–460**;
-- `verified`: **21 / 21**;
-- unresolved pages: **0**;
-- release decision: **ARCHIVAL-READY**.
-
-Structural transition preserved:
-
-- scan 109 / printed 76 — Kural 376–380, end of chapter 38 `ஊழ்`;
-- scan 110 — unnumbered `பொருள்` section-title page;
-- scan 111 — unnumbered blank reverse with bleed-through only;
-- scan 112 / printed 79 — `பொருள் — அரசியல் — இறைமாட்சி`, Kural 381–385.
-
-Verified Tamil corrections retained by the audit:
-
-1. scan 109 / Kural 380 commentary — `வலிமையானவை` → `வலிமையானவையாக`;
-2. scan 120 / Kural 425 commentary — `உயர்ந்தோர் உலகோர்` → `உயர்ந்தோரே உலகோர்`;
-3. scan 123 / Kural 437 commentary — `ஏதுமின்றிப்` → `எதுமின்றிப்`;
-4. scan 125 / Kural 449 commentary — `போன்றேயாகும்` → `போன்றதேயாகும்`.
-
-# Part 006 English — FIRST-PASS COMPLETE
-
-English files now mirror **all 21 / 21** Tamil Part 006 page filenames under:
-
-`works/thirukkural/translations/en/pages/`
-
-Current Part 006 English state:
-
-- `draft`: **21 / 21**;
-- `source-checked`: **0**;
+- aligned English files: **21 / 21**;
+- `source-checked`: **21 / 21**;
+- `draft`: **0**;
 - `editorial-reviewed`: **0**;
 - `release-ready`: **0**;
 - `source-limited`: **0**;
 - `blocked`: **0**.
 
-All new English pages use:
+Every English Part 006 page was compared directly against its verified Tamil archival record. Kural and Kalaignar commentary were checked as separate layers for omissions, additions, meaning drift, loss of imagery and imported conventional interpretation.
 
-- `translation_type: "project_translation"`;
-- `status: "draft"`;
-- `source_tamil_status: "verified"`;
-- `translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"`.
+## Protected Kalaignar-language decisions
 
-The 21 aligned English records are:
+The user's standing requirement to retain Kalaignar's language, as in the earlier parts, remains binding.
 
-1. `0107-aram-avaa-aruththal-02.md` — Kural 366–370;
-2. `0108-aram-oozh-01.md` — Kural 371–375;
-3. `0109-aram-oozh-02.md` — Kural 376–380;
-4. `0110-porul-title.md` — Porul section title;
-5. `0111-blank.md` — blank reverse / bleed-through only;
-6. `0112-porul-iraimaatchi-01.md` — Kural 381–385;
-7. `0113-porul-iraimaatchi-02.md` — Kural 386–390;
-8. `0114-porul-kalvi-01.md` — Kural 391–395;
-9. `0115-porul-kalvi-02.md` — Kural 396–400;
-10. `0116-porul-kallaamai-01.md` — Kural 401–405;
-11. `0117-porul-kallaamai-02.md` — Kural 406–410;
-12. `0118-porul-kelvi-01.md` — Kural 411–415;
-13. `0119-porul-kelvi-02.md` — Kural 416–420;
-14. `0120-porul-arivudaimai-01.md` — Kural 421–425;
-15. `0121-porul-arivudaimai-02.md` — Kural 426–430;
-16. `0122-porul-kutrangkadithal-01.md` — Kural 431–435;
-17. `0123-porul-kutrangkadithal-02.md` — Kural 436–440;
-18. `0124-porul-periyaaraith-thunaikkodal-01.md` — Kural 441–445;
-19. `0125-porul-periyaaraith-thunaikkodal-02.md` — Kural 446–450;
-20. `0126-porul-sitrinam-seraamai-01.md` — Kural 451–455;
-21. `0127-porul-sitrinam-seraamai-02.md` — Kural 456–460.
+Most importantly:
 
-## First-pass heading choices
+- chapter 38 `ஊழ்` remains **Oozh**;
+- Kalaignar's repeated `இயற்கை நிலை` explanation remains **natural condition**;
+- do not replace this with a conventional fate/destiny doctrine during editorial polishing.
 
-The draft currently uses the already reviewed Part 002 index vocabulary where available:
+Also preserve source-supported directness and imagery, including:
 
-- 38 `ஊழ்` → **Oozh**;
-- 39 `இறைமாட்சி` → **Excellence of Kingship**;
-- 40 `கல்வி` → **Learning**;
-- 41 `கல்லாமை` → **Lack of Learning**;
-- 42 `கேள்வி` → **Listening**;
-- 43 `அறிவுடைமை` → **Possession of Wisdom**;
-- 44 `குற்றங்கடிதல்` → **Avoiding Faults**;
-- 45 `பெரியாரைத் துணைக்கோடல்` → **Seeking the Support of the Great**;
-- 46 `சிற்றினம் சேராமை` → **Avoiding Base Company**.
+- government/administration, treasury, revenue and planned expenditure language in chapter 39;
+- the eye/sores, breast, barren-land, walking-corpse and clay-doll comparisons in chapter 41 without sanitizing them;
+- ear-food and walking-stick imagery in chapter 42;
+- Kural 423 commentary's insistence on not accepting a statement merely because someone says it, but examining what is true;
+- fault/blame, millet/palmyra and haystack/fire imagery in chapter 44;
+- rebuke/correction, pillar/building, capital/trade and support language in chapter 45;
+- soil/water and company/group association language in chapter 46.
 
-These are still Part 006 draft-stage main-body choices until source-check and editorial consistency review confirm them in context.
-
-## Kalaignar-language requirement — PROTECTED
-
-The Part 006 first-pass was intentionally drafted to retain Kalaignar's own language and interpretation, as in Parts 001–005.
-
-Most importantly, chapter 38 `ஊழ்` is **not flattened to fate/destiny**. The heading remains **Oozh**, while Kalaignar's repeated explanation through `இயற்கை நிலை` is translated as **natural condition**. This distinction must be protected during source-check and later editorial review.
-
-Likewise, Kural and Kalaignar commentary remain distinct layers. Do not push commentary explanations into the Kural merely to make the verse easier, and do not replace Kalaignar's social, political, moral, or rhetorical language with a familiar standard commentary.
+The Part 006 source-check did not perform editorial rewriting merely for elegance. Source-supported wording was retained when the English was already faithful and intelligible.
 
 # Exact next activity
 
-Perform **Part 006 English direct source-check only** for all **21 / 21** English draft pages, scans **107–127 / Kural 366–460**.
+Perform **Part 006 English editorial consistency / glossary-reconciliation review only** across all **21 / 21 source-checked pages**.
 
-## Required procedure
+Required procedure:
 
 1. fresh-fetch this `HANDOVER.md`;
-2. read `works/thirukkural/translations/en/TRANSLATION_GUIDE.md` and `GLOSSARY.md`;
-3. compare each English draft directly against its verified Tamil archival record;
-4. check every Kural separately from Kalaignar's commentary;
-5. look for omissions, additions, softened wording, interpretation drift, imported conventional readings, or loss of imagery;
-6. retain Kalaignar's language and interpretive direction, especially `Oozh` / `natural condition`;
-7. correct only source-supported English issues;
-8. promote a page from `draft` to `source-checked` only after the complete page has been checked;
-9. synchronize `TRANSLATION_STATUS.md`, work README, root README and this handover after the source-check pass;
-10. stop after source-check.
+2. read `works/thirukkural/translations/en/TRANSLATION_GUIDE.md` and the full `GLOSSARY.md`;
+3. inspect `reviews/PART_005_REVIEW.md` as the completed review model;
+4. review all Part 006 English pages for readability, controlled headings, recurring terms, repeated phrasing, punctuation and accidental interpretation drift;
+5. preserve Kalaignar's language, imagery, political/social framing and interpretive direction;
+6. keep `Oozh` / `natural condition` protected;
+7. establish Part 006 main-body controlled headings for chapters 38–46 from actual context; the Part 002 index is evidence but not authority;
+8. update `GLOSSARY.md` with deliberate Part 006 controlled terminology and any documented index/main-body refinements;
+9. create `works/thirukkural/translations/en/reviews/PART_006_REVIEW.md` documenting scope, decisions and any actual editorial changes;
+10. after a page passes editorial review, promote it from `source-checked` to `editorial-reviewed`;
+11. synchronize `TRANSLATION_STATUS.md`, work README, root README and this handover;
+12. stop after editorial review.
 
 Do **not** in that activity:
 
-- perform the Part 006 editorial-consistency review;
-- create the Part 006 release report;
+- create `PART_006_RELEASE_REPORT.md`;
 - promote pages to `release-ready`;
 - begin Part 007 Tamil transcription.
 
-After all 21 Part 006 English pages are `source-checked`, the next separate activity is the Part 006 English editorial consistency / glossary-reconciliation review.
+After all 21 Part 006 English pages are `editorial-reviewed`, the next separate activity is the **Part 006 English release gate**.
