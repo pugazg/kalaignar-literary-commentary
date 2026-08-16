@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Porul — Ministerial Affairs — The Method of Action"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -31,7 +31,7 @@ winning over those who do not stand with us.**
 
 More urgently than doing a good turn for a friend, one should bring a person who is an enemy into accord and make that person join one's side.
 
-**680. When those of a smaller domain fear the trembling within, if they can obtain what they seek,  
+**680. When those with little support fear the trembling among their own, if they can obtain what they seek,  
 they will submit to the powerful and accept.**
 
 When even those who stand with them are afraid to oppose people stronger than themselves, they will bow to the powerful and accept, if the benefit they expect can thereby be obtained.
