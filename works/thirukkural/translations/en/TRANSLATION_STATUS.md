@@ -32,10 +32,16 @@ Permanent protected decisions from earlier released parts remain binding, includ
 | Part 009 | 170–191 | **ARCHIVAL-READY** | **RELEASE-READY — 22/22** |
 | Part 010 | 192–214 | **ARCHIVAL-READY — 23/23 verified** | **RELEASE-READY — 23/23** |
 | Part 011 | 215–237 | **ARCHIVAL-READY — 23/23 verified** | **RELEASE-READY — 23/23** |
+| Part 012 | 238–260 | **FIRST-PASS COMPLETE — 23/23 needs-review; verification pending** | **NOT STARTED — not eligible until Tamil audit passes** |
+| Part 013 | 261–282 | source received; not started | not started |
+| Part 014 | 283–302 | source received; not started | not started |
+| Part 015 | 303–323 | source received; not started | not started |
 
 Tamil Parts **001–011 are archival-ready continuously through overall scan 237 / printed page 204 / Kural 1010**.
 
-English Parts **001–011 are fully released continuously through Kural 1010**.
+Part 012 has a complete first-pass Tamil page layer through overall scan **260 / printed page 227 / Kural 1115**, but it is **not archival-ready** until direct verification and the later audit pass.
+
+English Parts **001–011 are fully released continuously through Kural 1010**. No Part 012 English record has been created.
 
 ## Released English counts
 
@@ -59,60 +65,41 @@ Editorial review: [`reviews/PART_011_REVIEW.md`](reviews/PART_011_REVIEW.md).
 
 Release report: [`reviews/PART_011_RELEASE_REPORT.md`](reviews/PART_011_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
 
-## Part 011 released scope
+Part 011 released scope is **23 / 23** aligned pages, scans **215–237**, printed pages **182–204**, Kural **896–1010**, chapters **90–101**, with no unresolved/blocked English records.
 
-- aligned pages: **23 / 23**;
-- overall scans: **215–237**;
-- printed pages: **182–204**;
-- Kural range: **896–1010**;
-- chapters: **90–101**;
-- English `release-ready`: **23 / 23**;
-- unresolved / blocked English records: **0**.
+Released Part 011 controls remain binding, including the `Friendship → Civic Life` structural transition, all six direct source-check corrections, Kural 939 **fame**, Kural 899 **oppressive government**, Kural 948 **social disease**, Kural 966 **nonexistent heaven**, the unusual audited Kural 971 basis, Kural 972's equality-by-birth formulation, Kural 985/1008 source punctuation, Kural 1001's house-filling wealth image, and the direct imagery documented in the Part 011 review/release report.
 
-The released structural transition is:
+## Part 012 Tamil basis — FIRST PASS ONLY
 
-- scans **215–225**: `பொருள் — நட்பியல்` → `Porul — Friendship`;
-- scans **226–237**: `பொருள் — குடியியல்` → `Porul — Civic Life`.
+Controlling source: `திருக்குறள்_கலைஞர்_உரை_part_012_pages_238-260.pdf`
 
-Released Part 011 chapter headings are:
+Current Tamil state:
 
-| No. | Tamil | Released English |
-|---:|---|---|
-| 90 | பெரியாரைப் பிழையாமை | Not Offending the Great |
-| 91 | பெண்வழிச் சேறல் | Following a Woman's Lead |
-| 92 | வரைவின் மகளிர் | Women Beyond Bounds |
-| 93 | கள்ளுண்ணாமை | Abstaining from Liquor |
-| 94 | சூது | Gambling |
-| 95 | மருந்து | Medicine |
-| 96 | குடிமை | Nobility |
-| 97 | மானம் | Honour |
-| 98 | பெருமை | Greatness |
-| 99 | சான்றாண்மை | Exemplary Character |
-| 100 | பண்புடைமை | Good Character |
-| 101 | நன்றியில் செல்வம் | Wealth Without Benefit |
+- physical records: **23 / 23**;
+- scans: **238–260**;
+- first-pass `needs-review`: **23 / 23**;
+- `verified`: **0 / 23**;
+- audit: **not started**;
+- English eligibility: **no**.
 
-## Part 011 protected release decisions
+The first-pass source structure is recorded as:
 
-All six direct source-check corrections remain released:
+- scans **238–251**: `பொருள் — குடியியல்`, Kural **1011–1080**;
+- scan **252**: `இன்பம்` section-title leaf;
+- scan **253**: blank/reverse-show-through leaf;
+- scans **254–260**: `இன்பம் — களவியல்`, Kural **1081–1115**.
 
-1. Kural **911** — **bring suffering**, not **bring ruin**;
-2. Kural **926** — sleepers/dead in line one, liquor/poison in line two;
-3. Kural **953** — **truthful citizens**;
-4. Kural **961** — no unsupported phrase attached to “indispensable”;
-5. Kural **989** — all-seas-overturning image remains commentary-only;
-6. Kural **1006** — the person who neither enjoys nor gives is **a disease upon his great wealth**.
+The incoming source boundary passes at printed page **204 → 205 / Kural 1010 → 1011**. Part 012's printed pagination runs **205–218**, then resumes at **221–227** after the two unnumbered section leaves. Chapter 112 begins on scan 260 and continues beyond this source unit; the first supplied Part 013 page shows printed page **228 / Kural 1116**, but no Part 013 transcription has been started.
 
-The editorial refinement at Kural **939** remains **fame** in the Kural's five-item list.
-
-Source-sensitive treatments retained at release include Kural **899**'s **oppressive government**, Kural **912**'s sugar-sweet wording, Kural **931**'s fish/bait/hook image, Kural **948**'s **social disease**, Kural **966**'s **nonexistent heaven** question, the unusual audited Kural **971** basis, Kural **972**'s equality-by-birth formulation, Kural **985/1008** source punctuation, Kural **1001**'s house-filling wealth image, and the full Part 011 source imagery documented in the review and release report.
-
-No Kural **1011** or later English text has been inferred or created.
+Because Part 012 has not yet passed direct visual verification and audit, **do not begin English first-pass translation**.
 
 ## Exact next activity
 
-The Part 011 English workflow is **closed through release**. Do not assume or reconstruct Part 012.
+**Part 012 Tamil direct visual verification — all 23 physical pages, scans 238–260.**
 
-The next activity can begin only when an actually supplied subsequent Tamil source is available. At that point, inspect the source directly, verify its identity and outgoing boundary after printed page **204 / Kural 1010**, and begin the next separate Tamil source-intake / first-pass transcription gate according to the permanent workflow.
+Verify every Tamil record directly against the controlling scan and promote only passing records to `verified`. Record every real correction, including source-sensitive or unusual printed forms, without normalizing them from memory or another edition.
+
+Do not combine this gate with `AUDIT_PART_012.md`, Part 012 English work, or Part 013 transcription.
 
 Permanent cadence:
 
