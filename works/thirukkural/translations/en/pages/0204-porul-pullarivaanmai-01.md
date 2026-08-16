@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Porul — Friendship — Possession of Little Understanding"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -21,7 +21,7 @@ A famine of understanding is the most terrible famine. The world does not regard
 **842. If an ignorant man gladly gives something like a generous giver, there is no other cause;  
 it is the good fortune of the person who receives it.**
 
-There is no other reason for an ignorant person to give something happily like a generous benefactor; it should be regarded as the good fortune earned by the person receiving it.
+There is no other reason for an ignorant person to give something happily like a generous benefactor; it should be regarded as the good fortune of the person receiving it.
 
 **843. The ignorant inflict upon themselves suffering  
 that even enemies would find hard to inflict.**
