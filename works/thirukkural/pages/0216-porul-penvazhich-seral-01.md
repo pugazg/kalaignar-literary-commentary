@@ -6,10 +6,10 @@ printed_page: "183"
 work: "thirukkural"
 section: "பொருள் — நட்பியல் — பெண்வழிச் சேறல்"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_011_pages_215-237.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 # 91. பெண்வழிச் சேறல்
@@ -29,12 +29,12 @@ transcription_method: "manual transcription from source scan; direct visual veri
 
 நற்குணமில்லாத மனைவியைத் திருத்த முனையாமல் பணிந்து போகிற கணவன், நல்லோர் முன்னிலையில் நாணமுற்று நிற்கும் நிலைக்கு ஆளாக நேரிடும்.
 
-**904. மனையாளை அஞ்சும் மறுமையி லாளன்  
+**904. மனையாளை யஞ்சும் மறுமையி லாளன்  
 வினையாண்மை வீறெய்த லின்று.**
 
 மனம் புரிந்து புதுவாழ்வின் பயனை அடையாமல் குடும்பம் நடத்த அஞ்சுகின்றவனின் செயலாற்றல் சிறப்பாக அமைவதில்லை.
 
-**905. இல்லாளை அஞ்சுவான் அஞ்சுமற் றெஞ்ஞான்றும்  
+**905. இல்லாளை யஞ்சுவான் அஞ்சுமற் றெஞ்ஞான்றும்  
 நல்லார்க்கு நல்ல செயல்.**
 
 எப்போதுமே நல்லோருக்கு நன்மை செய்வதில் தவறு ஏற்பட்டுவிடக்கூடாதே என்று அஞ்சுகிறவன் தவறு நேராமல் கண்காணிக்கும் மனைவிக்கு அஞ்சி நடப்பான்.
