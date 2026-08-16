@@ -14,12 +14,12 @@
 | 006 | `திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf` | 21 | 107–127 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
 | 007 | `திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf` | 21 | 128–148 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
 | 008 | `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf` | 21 | 149–169 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
-| 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | audited / **ARCHIVAL-READY**; English first-pass **COMPLETE 22/22 `draft`** |
+| 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | audited / **ARCHIVAL-READY**; English source-check **COMPLETE 22/22 `source-checked`** |
 | 010 | `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf` | 23 | 192–214 | source received; transcription not started |
 
 Tamil Parts **001–009 are archival-ready continuously** through overall scan **191** / printed page **158** / Kural **780**.
 
-English Parts **001–008** are fully released continuously through Kural **670**. Part 009 English now has a complete first pass across all 22 aligned pages and awaits the separate source-check gate.
+English Parts **001–008** are fully released continuously through Kural **670**. Part 009 English has now completed first pass and direct source-check across all 22 aligned pages; the separate editorial/glossary gate is next.
 
 ## Part 008 — completed baseline
 
@@ -78,33 +78,55 @@ The Tamil archive preserves:
 
 These distinctions must not be flattened in English.
 
-### Protected Tamil readings entering English work
+### Protected Tamil readings
 
 - Kural **717**: `கற்றறிந்தார் கல்வி விளங்கும் கசடறச் / சொற்றெரிதல் முன்னர் இழுக்கு.`
 - Kural **725 commentary**: `தருக்கமென்படும் அளவைக் திறமும்`
 - Kural **733 commentary**: `மளவுக்கு வளம்`
 - Kural **771 commentary**: verified `நடுகல்லாய்ப் போனவர்கள்`.
 
-## Part 009 English — FIRST-PASS COMPLETE
+## Part 009 English — SOURCE-CHECK COMPLETE
 
-All **22 / 22** aligned English page records now exist under `translations/en/pages/` for scans **170–191 / printed pages 137–158 / Kural 671–780**.
+All **22 / 22** aligned English page records for scans **170–191 / printed pages 137–158 / Kural 671–780** are now `source-checked`.
 
 Current status:
 
-- `draft`: **22 / 22**;
-- `source-checked`: **0**;
+- `draft`: **0**;
+- `source-checked`: **22 / 22**;
 - `editorial-reviewed`: **0**;
 - `release-ready`: **0**;
 - `source-limited`: **0**;
 - `blocked`: **0**.
 
-Every record is explicitly a `project_translation`, points to a verified Tamil basis, and remains at the first-pass gate.
+Every record remains explicitly a `project_translation` grounded in the verified/audited Tamil archive.
 
-First-pass chapter headings are **The Method of Action**, **The Envoy**, **Conduct in the Presence of Kings**, **Understanding Signs (Porul)**, **Knowing the Assembly**, **Fearlessness in the Assembly**, **The Country**, **Fortress**, **The Way of Acquiring Wealth**, **Excellence of the Army**, and **Martial Pride**.
+### Source-check corrections
 
-The already controlled `அமைச்சியல்` remains **Ministerial Affairs**. Newly encountered structural labels are provisional in first-pass metadata as `அரணியல்` → **Fortification Affairs**, `கூழியல்` → **Wealth**, and `படையியல்` → **Military Affairs**. They are not final glossary decisions until the later editorial consistency / glossary reconciliation gate.
+Three substantive English corrections were required:
 
-The drafts deliberately retain Kalaignar's direct images and government/public-life vocabulary. Kural 717, Kural 725 commentary, Kural 733 commentary and Kural 771 commentary carry the audited source-sensitive basis rather than normalized or external-edition substitutes.
+1. Kural **680** — changed the unsupported “smaller domain / trembling within” wording to **“those with little support ... the trembling among their own”**, following Kalaignar's commentary.
+2. Kural **691** — removed unsupported **“contentious”** from “kings”.
+3. Kural **717** — retained the source's unusual verified final `இழுக்கு` and made the English minimally complete as **“before those who discern / faultless words, there is a lapse.”**
+
+No other substantive body-text correction was required.
+
+Kural 717, Kural 725 commentary and Kural 733 commentary now carry `Source-check note` markers documenting their unusual verified Tamil bases. Kural 771 continues to preserve the memorial-stone image from `நடுகல்லாய்ப் போனவர்கள்`. Kural 773 continues to retain Kalaignar's **great manliness / manliness** language.
+
+Kalaignar's government/public-life vocabulary and direct images remain preserved, including tax/revenue, customs duties, tribute, country, fortification, wealth, army, ruler/leader, elephant, fire, nectar, cobra, memorial-stone and warrior imagery.
+
+### Terminology awaiting the next gate
+
+The Part 009 chapter headings remain provisional until editorial consistency / glossary reconciliation:
+
+**The Method of Action**, **The Envoy**, **Conduct in the Presence of Kings**, **Understanding Signs (Porul)**, **Knowing the Assembly**, **Fearlessness in the Assembly**, **The Country**, **Fortress**, **The Way of Acquiring Wealth**, **Excellence of the Army**, and **Martial Pride**.
+
+The already controlled `அமைச்சியல்` remains **Ministerial Affairs**. Newly encountered structural labels remain provisional:
+
+- `அரணியல்` → **Fortification Affairs**;
+- `கூழியல்` → **Wealth**;
+- `படையியல்` → **Military Affairs**.
+
+They have not yet been made final glossary controls.
 
 ### Adjacent source continuity
 
@@ -112,8 +134,8 @@ Part 009 ends at printed page **158** / Kural **780**. The supplied Part 010 fir
 
 ## அடுத்த செயல்
 
-Perform the separate **Part 009 English direct source-check** across all **22 `draft` pages**, scans **170–191 / printed pages 137–158 / Kural 671–780**.
+Perform the separate **Part 009 English editorial consistency / glossary reconciliation** across all **22 `source-checked` pages**, scans **170–191 / printed pages 137–158 / Kural 671–780**.
 
-Compare each Kural translation and Kalaignar commentary translation against the audited Tamil page; verify metadata/alignment and the four protected source-sensitive readings; document substantive corrections; and promote only passing records to `source-checked`.
+Finalize the chapter headings and the new section terms `அரணியல்`, `கூழியல்` and `படையியல்`; reconcile recurring terminology and readability while preserving all source-check protections; update `translations/en/GLOSSARY.md`; create `translations/en/reviews/PART_009_REVIEW.md`; and promote only passing records to `editorial-reviewed`.
 
-Do **not** combine source-check with editorial/glossary review or release. Do **not** begin Part 010 Tamil transcription during the same activity.
+Do **not** combine editorial review with the release gate. Do **not** begin Part 010 Tamil transcription during the same activity.
