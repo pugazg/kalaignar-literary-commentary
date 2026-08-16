@@ -12,18 +12,20 @@
 | 004 | `திருக்குறள்_கலைஞர்_உரை_part_004_pages_63-84.pdf` | 22 | 63–84 | audited / **ARCHIVAL-READY** |
 | 005 | `திருக்குறள்_கலைஞர்_உரை_part_005_pages_85-106.pdf` | 22 | 85–106 | audited / **ARCHIVAL-READY** |
 | 006 | `திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf` | 21 | 107–127 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
-| 007 | `திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf` | 21 | 128–148 | Tamil first-pass complete; direct verification **21/21 complete**; audit pending |
-| 008 | `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf` | 21 | 149–169 | source received; continuity confirmed from Kural 566 |
+| 007 | `திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf` | 21 | 128–148 | audited / **ARCHIVAL-READY**; English not started |
+| 008 | `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf` | 21 | 149–169 | source received; continuity confirmed from Kural 566; transcription not started |
 | 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | source received; transcription not started |
 | 010 | `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf` | 23 | 192–214 | source received; transcription not started |
 
-Tamil Parts **001–006 are archival-ready**, reaching overall scan **127** / printed page **94** / Kural **460**.
+Tamil Parts **001–007 are archival-ready**, reaching overall scan **148** / printed page **115** / Kural **565**.
 
-## Part 007 Tamil — DIRECT VERIFICATION COMPLETE
+## Part 007 Tamil — ARCHIVAL-READY
 
-Part 007 first-pass transcription and direct visual verification are now complete for all **21 / 21** scans, covering scans **128–148 / printed pages 95–115 / Kural 461–565**.
+Part 007 first-pass transcription, direct visual verification and Tamil archival audit are complete for all **21 / 21** scans, covering scans **128–148 / printed pages 95–115 / Kural 461–565**.
 
-Verification corrections recorded across the three batches:
+Audit report: [`AUDIT_PART_007.md`](AUDIT_PART_007.md).
+
+Verification corrections retained in the audited records:
 
 - Batch 1, scans 128–134 — no source-text corrections;
 - Batch 2, scan 135 — restored the source's quotation marks around `தேர்க் கடலிலே ஓடாது` and `கப்பல் நிலத்தில் போகாது`;
@@ -32,15 +34,17 @@ Verification corrections recorded across the three batches:
 - Batch 3, scan 148 / Kural 562 commentary — `இருக்கக் கண்டிக்கும்போது` corrected to source `இருக்கத் தண்டிக்கும்போது`;
 - Batch 3, scan 148 / Kural 563 — `வெங்கோ லாயின்` corrected to source `வெங்கோல னாயின்`.
 
-Current Part 007 state:
+Final Part 007 Tamil state:
 
 - `verified`: **21 / 21**;
 - `needs-review`: **0**;
 - `partial`: **0**;
 - `blocked`: **0**;
-- audit: **not started**.
+- audit decision: **ARCHIVAL-READY**.
 
-The separately supplied Part 008 begins at printed page **116** with Kural **566–570**, confirming direct continuity after Part 007. It remains intake-only until the Part 007 audit is handled separately.
+The Part 006 → Part 007 boundary is continuous at printed page **94 → 95** / Kural **460 → 461**. The separately supplied Part 008 begins at printed page **116** with Kural **566–570**, directly continuing chapter 57 `வெருவந்த செய்யாமை` after Part 007's Kural 565.
+
+A source-sensitive interpretive point recorded for future translation is Kural 543: Kalaignar explains `அந்தணர் நூற்கும்` through `அறவோர் நூல்களுக்கும்`. The project translation must follow Kalaignar's supplied interpretive direction rather than automatically introducing a caste-specific conventional gloss.
 
 The source-first rule remains binding: the scan is authoritative; Markdown is an archival layer rather than a corrected edition.
 
@@ -63,10 +67,10 @@ Permanent cadence:
 - Part 005: **22/22 `release-ready`**, through Kural 365;
 - Part 006: **21/21 `release-ready`**, through Kural 460.
 
-Do not begin English Part 007 until its Tamil audit is complete.
+Part 007 Tamil has now passed its archival audit, so the Tamil prerequisite for English Part 007 is satisfied.
 
 ## அடுத்த செயல்
 
-Perform the separate **Part 007 Tamil audit / archival-ready decision** for scans **128–148 / Kural 461–565**. Confirm 21/21 verified records, continuity, metadata, chapter boundaries and the source-supported verification corrections before deciding archival readiness.
+Begin the separate **Part 007 English project translation first-pass** for scans **128–148 / Kural 461–565**, using the audited Tamil records as the working basis while retaining Kalaignar's language, images and interpretive direction.
 
-Do not begin English Part 007 or Part 008 transcription in the same audit activity.
+Do not begin Part 008 Tamil transcription in the same activity.
