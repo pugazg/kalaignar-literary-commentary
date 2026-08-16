@@ -15,11 +15,13 @@
 | 007 | `திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf` | 21 | 128–148 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
 | 008 | `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf` | 21 | 149–169 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
 | 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 22/22** |
-| 010 | `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf` | 23 | 192–214 | source received; transcription not started |
+| 010 | `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf` | 23 | 192–214 | Tamil first pass **COMPLETE 23/23**; direct visual verification pending |
 
 Tamil Parts **001–009 are archival-ready continuously** through overall scan **191** / printed page **158** / Kural **780**.
 
-English Parts **001–009 are released continuously** through Kural **780**. Part 009 has completed first pass, direct source-check, editorial consistency / glossary reconciliation and the separate release gate; all 22 aligned pages are now `release-ready`.
+Part 010 Tamil now has a complete first-pass transcription across all **23 / 23** supplied pages, but every Part 010 record remains `needs-review`; Part 010 is **not** archival-ready.
+
+English Parts **001–009 are released continuously** through Kural **780**.
 
 ## Part 009 Tamil — ARCHIVAL-READY
 
@@ -56,54 +58,75 @@ English scope:
 - scans **170–191**;
 - printed pages **137–158**;
 - Kural **671–780**;
-- chapters **68–78**.
-
-Final status:
-
-- `draft`: **0**;
-- `source-checked`: **0**;
-- `editorial-reviewed`: **0**;
-- `release-ready`: **22 / 22**;
-- `source-limited`: **0**;
-- `blocked`: **0**.
+- chapters **68–78**;
+- final `release-ready`: **22 / 22**.
 
 Editorial review: [`translations/en/reviews/PART_009_REVIEW.md`](translations/en/reviews/PART_009_REVIEW.md).
 
 Release report: [`translations/en/reviews/PART_009_RELEASE_REPORT.md`](translations/en/reviews/PART_009_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
 
-### Released Part 009 headings
-
-- 68 `வினை செயல்வகை` → **The Method of Action**;
-- 69 `தூது` → **The Envoy**;
-- 70 `மன்னரைச் சேர்ந்து ஒழுகல்` → **Conduct in the Presence of Kings**;
-- 71 `குறிப்பறிதல்` → **Understanding Signs**;
-- 72 `அவை அறிதல்` → **Knowing the Assembly**;
-- 73 `அவை அஞ்சாமை` → **Fearlessness in the Assembly**;
-- 74 `நாடு` → **The Country**;
-- 75 `அரண்` → **Fortress**;
-- 76 `பொருள் செயல்வகை` → **The Way of Acquiring Wealth**;
-- 77 `படை மாட்சி` → **Excellence of the Army**;
-- 78 `படைச் செருக்கு` → **Martial Pride**.
-
-Chapter 71's earlier project-added `(Porul)` disambiguator remains removed. No substantive Kural/commentary body text was changed during the release gate.
-
-### Released structural vocabulary
+Released structural vocabulary through Part 009:
 
 - `அமைச்சியல்` → **Ministerial Affairs**;
 - `அரணியல்` → **Fortification Affairs**;
 - `கூழியல்` → **Wealth**;
 - `படையியல்` → **Military Affairs**.
 
-The source-check corrections at Kural 680, 691 and 717 remain intact, as do the protected Kural 717 / 725 / 733 / 771 readings and Kural 773's explicit **great manliness / manliness** framing.
+## Part 010 Tamil — FIRST PASS COMPLETE
 
-### Adjacent source continuity
+Controlling source: `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf`
 
-Part 009 ends at printed page **158** / Kural **780**. The supplied Part 010 first page was inspected only for boundary continuity and begins at printed page **159**, chapter `79. நட்பு`, Kural **781**.
+Source intake established directly from all 23 physical scan pages:
+
+- physical pages: **23**;
+- overall scans: **192–214**;
+- printed pages: **159–181**;
+- Kural range present in this supplied part: **781–895**;
+- section throughout: `பொருள் — நட்பியல்`;
+- chapter range visible: **79–90**;
+- chapter 90 `பெரியாரைப் பிழையாமை` begins on scan 214 and this supplied part contains only Kural **891–895** of that chapter.
+
+Chapter / page map for this source part:
+
+- scans 192–193 / pp.159–160 — `79. நட்பு` — Kural **781–790**;
+- scans 194–195 / pp.161–162 — `80. நட்பாராய்தல்` — **791–800**;
+- scans 196–197 / pp.163–164 — `81. பழைமை` — **801–810**;
+- scans 198–199 / pp.165–166 — `82. தீ நட்பு` — **811–820**;
+- scans 200–201 / pp.167–168 — `83. கூடா நட்பு` — **821–830**;
+- scans 202–203 / pp.169–170 — `84. பேதைமை` — **831–840**;
+- scans 204–205 / pp.171–172 — `85. புல்லறிவாண்மை` — **841–850**;
+- scans 206–207 / pp.173–174 — `86. இகல்` — **851–860**;
+- scans 208–209 / pp.175–176 — `87. பகை மாட்சி` — **861–870**;
+- scans 210–211 / pp.177–178 — `88. பகைத்திறம் தெரிதல்` — **871–880**;
+- scans 212–213 / pp.179–180 — `89. உட்பகை` — **881–890**;
+- scan 214 / p.181 — `90. பெரியாரைப் பிழையாமை` — **891–895** in the supplied part.
+
+First-pass record state:
+
+- `needs-review`: **23 / 23**;
+- `verified`: **0**;
+- `partial`: **0**;
+- `blocked`: **0**.
+
+Every Part 010 page uses:
+
+```yaml
+status: "needs-review"
+transcription_method: "manual transcription from source scan; direct visual verification pending"
+```
+
+No Part 010 page has been promoted to `verified`; no Part 010 audit or English page has been created.
+
+### Boundary continuity
+
+Part 009 ends at printed page **158** / Kural **780**. Part 010 begins continuously at printed page **159** / Kural **781** / chapter `79. நட்பு`.
+
+The supplied Part 010 source itself ends at printed page **181** / Kural **895**, in the first half of chapter `90. பெரியாரைப் பிழையாமை`. Do not infer the next page or Kural text without the next controlling source scan.
 
 ## அடுத்த செயல்
 
-Begin the separate **Part 010 Tamil first-pass transcription** using `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf` as the controlling source.
+Perform the separate **Part 010 Tamil direct visual verification** for all **23 `needs-review` pages**, scans **192–214 / printed pages 159–181 / Kural 781–895**.
 
-Start at overall scan **192 / printed page 159 / Kural 781 / chapter 79 `நட்பு`** and create all Part 010 page records as `needs-review` only.
+Compare every page directly with the controlling scan, including Kural letters and two-line structure, Kalaignar commentary, punctuation, headings, running-header/section metadata, scan/printed-page metadata and source markers. Promote only passing pages to `verified`.
 
-Do **not** collapse first-pass transcription with direct visual verification or the Tamil audit. English Part 010 must not begin until the Tamil part reaches archival-ready status.
+Stop after direct visual verification. Do **not** create `AUDIT_PART_010.md`, call Part 010 archival-ready, or begin Part 010 English during the verification activity.
