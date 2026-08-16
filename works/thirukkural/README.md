@@ -12,32 +12,33 @@
 | 004 | `திருக்குறள்_கலைஞர்_உரை_part_004_pages_63-84.pdf` | 22 | 63–84 | audited / **ARCHIVAL-READY** |
 | 005 | `திருக்குறள்_கலைஞர்_உரை_part_005_pages_85-106.pdf` | 22 | 85–106 | audited / **ARCHIVAL-READY** |
 | 006 | `திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf` | 21 | 107–127 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
-| 007 | `திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf` | 21 | 128–148 | Tamil first-pass **21/21 complete**; direct verification pending |
-| 008 | `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf` | 21 | 149–169 | supplied; source continuity confirmed from Kural 566 |
+| 007 | `திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf` | 21 | 128–148 | Tamil first-pass complete; direct verification **7/21** through scan 134 / Kural 495 |
+| 008 | `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf` | 21 | 149–169 | source received; continuity confirmed from Kural 566 |
 | 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | source received; transcription not started |
 | 010 | `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf` | 23 | 192–214 | source received; transcription not started |
 
 Tamil Parts **001–006 are archival-ready**, reaching overall scan **127** / printed page **94** / Kural **460**.
 
-## Part 007 Tamil — FIRST-PASS COMPLETE
+## Part 007 Tamil — DIRECT VERIFICATION IN PROGRESS
 
-The supplied Part 007 scan is the controlling source for scans **128–148 / printed pages 95–115 / Kural 461–565**. First-pass Tamil records now exist for **21 / 21** physical pages:
+Part 007 first-pass transcription is complete for all **21 / 21** scans, covering scans **128–148 / printed pages 95–115 / Kural 461–565**.
 
-- scans 128–129 / printed pages 95–96 — chapter 47 `தெரிந்து செயல்வகை`, Kural 461–470;
-- scans 130–131 / printed pages 97–98 — chapter 48 `வலியறிதல்`, Kural 471–480;
-- scans 132–133 / printed pages 99–100 — chapter 49 `காலமறிதல்`, Kural 481–490;
-- scans 134–135 / printed pages 101–102 — chapter 50 `இடனறிதல்`, Kural 491–500;
-- scans 136–137 / printed pages 103–104 — chapter 51 `தெரிந்து தெளிதல்`, Kural 501–510;
-- scans 138–139 / printed pages 105–106 — chapter 52 `தெரிந்து வினையாடல்`, Kural 511–520;
-- scans 140–141 / printed pages 107–108 — chapter 53 `சுற்றந் தழால்`, Kural 521–530;
-- scans 142–143 / printed pages 109–110 — chapter 54 `பொச்சாவாமை`, Kural 531–540;
-- scans 144–145 / printed pages 111–112 — chapter 55 `செங்கோன்மை`, Kural 541–550;
-- scans 146–147 / printed pages 113–114 — chapter 56 `கொடுங்கோன்மை`, Kural 551–560;
-- scan 148 / printed page 115 — chapter 57 `வெருவந்த செய்யாமை` begins, Kural 561–565.
+Direct visual verification Batch 1 is complete for scans **128–134 / printed pages 95–101 / Kural 461–495**:
 
-All twenty-one records are deliberately `needs-review`; direct visual verification has **not** begun for Part 007.
+- scans 128–129 — chapter 47 `தெரிந்து செயல்வகை`, Kural 461–470;
+- scans 130–131 — chapter 48 `வலியறிதல்`, Kural 471–480;
+- scans 132–133 — chapter 49 `காலமறிதல்`, Kural 481–490;
+- scan 134 — chapter 50 `இடனறிதல்`, Kural 491–495.
 
-The separately supplied Part 008 begins at printed page **116** with Kural **566–570**, directly continuing chapter 57 `வெருவந்த செய்யாமை` and confirming physical/textual continuity after Part 007. fileciteturn347file1L23-L36
+All seven pages matched the controlling scan; no source-text correction was required in Batch 1. Current Part 007 state:
+
+- `verified`: **7 / 21** — scans 128–134;
+- `needs-review`: **14 / 21** — scans 135–148;
+- `partial`: **0**;
+- `blocked`: **0**;
+- audit: **not started**.
+
+The separately supplied Part 008 begins at printed page **116** with Kural **566–570**, confirming direct continuity after Part 007. It remains intake-only until the Part 007 workflow reaches its next boundary.
 
 The source-first rule remains binding: the scan is authoritative; Markdown is an archival layer rather than a corrected edition.
 
@@ -60,10 +61,10 @@ Permanent cadence:
 - Part 005: **22/22 `release-ready`**, through Kural 365;
 - Part 006: **21/21 `release-ready`**, through Kural 460.
 
-Do not begin English Part 007 until its Tamil direct verification and audit are complete.
+Do not begin English Part 007 until its Tamil transcription, direct verification and audit are complete.
 
 ## அடுத்த செயல்
 
-Begin the separate **Part 007 Tamil direct visual verification workflow**, starting with **Batch 1: scans 128–134 / printed pages 95–101 / Kural 461–495**.
+Continue **Part 007 Tamil direct visual verification — Batch 2** for scans **135–141 / printed pages 102–108 / Kural 496–530**.
 
-Compare each first-pass record directly against the controlling scan, correct only source-supported transcription errors, and promote pages to `verified` only after comparison. Do not create the Part 007 audit, begin English Part 007, or begin Part 008 transcription in the same activity.
+Compare each existing record directly against the controlling scan, correct only source-supported errors, and promote pages to `verified` only after direct comparison. Stop after scan 141; do not begin Batch 3, audit, English Part 007, or Part 008 transcription in the same activity.
