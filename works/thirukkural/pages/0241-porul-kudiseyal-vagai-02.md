@@ -6,10 +6,10 @@ printed_page: "208"
 work: "thirukkural"
 section: "பொருள் — குடியியல் — குடிசெயல் வகை"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_012_pages_238-260.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **1026. நல்லாண்மை என்ப தொருவற்குத் தான்பிறந்த  
