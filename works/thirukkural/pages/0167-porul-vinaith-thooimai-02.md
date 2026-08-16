@@ -6,10 +6,10 @@ printed_page: "134"
 work: "thirukkural"
 section: "பொருள் — அமைச்சியல் — வினைத் தூய்மை"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **656. ஈன்றாள் பசிகாண்பான் ஆயினுஞ் செய்யற்க  
