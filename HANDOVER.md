@@ -15,16 +15,16 @@ Before making changes:
 3. read this `HANDOVER.md` completely;
 4. read `works/thirukkural/README.md`;
 5. inspect existing target files before writing;
-6. inspect the actual controlling source scan needed for the activity;
+6. inspect the controlling source material required by the active gate;
 7. for English work additionally fresh-read:
    - `works/thirukkural/translations/en/TRANSLATION_GUIDE.md`;
    - `works/thirukkural/translations/en/GLOSSARY.md`;
    - `works/thirukkural/translations/en/TRANSLATION_STATUS.md`;
-   - `works/thirukkural/translations/en/reviews/PART_010_REVIEW.md`;
-   - `works/thirukkural/translations/en/reviews/PART_010_RELEASE_REPORT.md`;
    - `works/thirukkural/AUDIT_PART_011.md`;
-   - all 23 audited Part 011 Tamil pages;
-   - all 23 current Part 011 English `source-checked` pages.
+   - `works/thirukkural/translations/en/reviews/PART_011_REVIEW.md`;
+   - `works/thirukkural/translations/en/reviews/PART_010_RELEASE_REPORT.md` as the latest completed release-gate precedent;
+   - all 23 audited Part 011 Tamil page records;
+   - all 23 current Part 011 English `editorial-reviewed` pages.
 
 Repository state is authoritative.
 
@@ -78,6 +78,7 @@ Part 011 Tamil final state:
 - Part-local pages: **1–23**;
 - printed pages: **182–204**;
 - Kural range: **896–1010**;
+- chapters: **90–101**;
 - `verified`: **23 / 23**;
 - unresolved: **0**.
 
@@ -92,13 +93,13 @@ The source structural transition is:
 
 Parts **001–010 are fully released continuously through Kural 895**.
 
-Part **011 English first-pass and direct source-check are COMPLETE 23 / 23**.
+Part **011 English first-pass, direct source-check and editorial consistency / glossary reconciliation are COMPLETE 23 / 23**.
 
 Current Part 011 English state:
 
 - `draft`: **0**;
-- `source-checked`: **23 / 23**;
-- `editorial-reviewed`: **0**;
+- `source-checked`: **0**;
+- `editorial-reviewed`: **23 / 23**;
 - `release-ready`: **0**;
 - `source-limited`: **0**;
 - `blocked`: **0**.
@@ -107,12 +108,16 @@ Every Part 011 English page now carries:
 
 ```yaml
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ```
 
-No `PART_011_REVIEW.md` or Part 011 release report exists yet.
+Part 011 editorial review artefact:
+
+`works/thirukkural/translations/en/reviews/PART_011_REVIEW.md`
+
+No Part 011 release report exists yet.
 
 # Released Part 010 English protections remain binding
 
@@ -138,7 +143,7 @@ Protected released decisions include:
 
 Supplied-file identity used for verification/audit: `file_0000000076208208aa848290e8fe125d`.
 
-Audited source scope:
+Audited scope:
 
 - physical pages: **23**;
 - overall scans: **215–237**;
@@ -164,15 +169,16 @@ No Kural **1011** or later Tamil/English text has been inferred or created.
 - scans **234–235** — chapter 100 `பண்புடைமை`, Kural **991–1000**;
 - scans **236–237** — chapter 101 `நன்றியில் செல்வம்`, Kural **1001–1010**.
 
-# Part 011 English structural / heading state
+# Part 011 controlled structure / headings
 
 Scan 215 continues the already released chapter 90 heading **Not Offending the Great**.
 
-`நட்பியல்` → **Friendship** is already released and controlled.
+Controlled structural terms:
 
-`குடியியல்` → **Civic Life** remains **provisional** after source-check. Do not treat it as glossary-final until the next editorial/glossary gate.
+- `நட்பியல்` → **Friendship**;
+- `குடியியல்` → **Civic Life** from scan 226 onward.
 
-Current chapter headings 91–101 also remain provisional:
+Controlled chapter headings 91–101:
 
 - 91 `பெண்வழிச் சேறல்` → **Following a Woman's Lead**;
 - 92 `வரைவின் மகளிர்` → **Women Beyond Bounds**;
@@ -186,71 +192,68 @@ Current chapter headings 91–101 also remain provisional:
 - 100 `பண்புடைமை` → **Good Character**;
 - 101 `நன்றியில் செல்வம்` → **Wealth Without Benefit**.
 
-Do not revise released earlier pages merely to harmonize these provisional choices.
+`GLOSSARY.md` now records these as controlled main-body decisions.
 
 # Tamil verification corrections that remain authoritative
-
-The audited Tamil basis retains these four corrections:
 
 1. scan **216 / Kural 904** verse: `மனையாளை யஞ்சும்`;
 2. scan **216 / Kural 905** verse: `இல்லாளை யஞ்சுவான்`;
 3. scan **218 / Kural 911 commentary**: `பொருள் திரட்டுவதையே`;
 4. scan **221 / Kural 927 commentary**: `மயங்குவதைக் கண்டு`.
 
-# Part 011 English source-check corrections
+# Part 011 English source-check corrections retained
 
-Six substantive source-fidelity corrections/refinements were made during direct source-check:
+1. **Kural 911** — **bring suffering**, not **bring ruin**.
+2. **Kural 926** — sleepers/dead in line 1 and liquor/poison in line 2.
+3. **Kural 953** — **truthful citizens**, following Kalaignar's `வாய்மையுள்ள குடிமக்கள்`.
+4. **Kural 961** — no unsupported **to one's distinction** attached to “indispensable.”
+5. **Kural 989** — all-seas-overturning image remains in commentary only, not the Kural.
+6. **Kural 1006** — the person who neither enjoys nor gives is **a disease upon his great wealth**.
 
-1. **Kural 911** — **bring ruin** → **bring suffering**, following Kalaignar's `துன்பமே வந்து சேரும்` explanation.
-2. **Kural 926** — restored the source's two-line relationship: sleepers/dead in line 1 and liquor/poison in line 2.
-3. **Kural 953** — **true nobility** → **truthful citizens**, following Kalaignar's explicit `வாய்மையுள்ள குடிமக்கள்` interpretation.
-4. **Kural 961** — removed unsupported **to one's distinction** from “indispensable”; the Kural now says to abandon even an indispensable act if it diminishes one's distinction.
-5. **Kural 989** — removed the commentary-only image of all the seas overturning from the Kural; the image remains in Kalaignar's commentary.
-6. **Kural 1006** — corrected the subject relationship so the person who neither enjoys nor gives is **a disease upon his great wealth**.
+# Part 011 editorial refinement
 
-No other substantive first-pass English change was required.
+The editorial gate made one additional source-led body-text refinement:
 
-# Source-sensitive Part 011 protections after source-check
+- **Kural 939**: **honour** → **fame** in the Kural's five-item list, matching Kalaignar's adjacent `புகழும்` explanation and the project's existing `புகழ்` control.
 
-Do not normalize these in editorial review:
+No other substantive Kural or Kalaignar-commentary body text was changed during editorial review.
+
+# Source-sensitive Part 011 protections after editorial review
+
+Do not normalize or weaken these at release:
 
 - **Kural 899 commentary** — retain **“an oppressive government will be shaken and destroyed”** for `அடக்குமுறை ஆட்சி`;
 - **Kural 912 commentary** — retain the sugar-sweet sense of `பாகுமொழிபேசும்`;
-- **Kural 931 commentary** — retain the fish, bait and iron-hook image;
+- **Kural 931 commentary** — retain fish, bait and iron-hook imagery;
 - **Kural 948 commentary** — retain **“This applies not only to bodily disease but also to social disease.”**;
 - **Kural 966 commentary** — retain Kalaignar's rationalist **“Will some nonexistent heaven be gained?”** question;
 - **Kural 971** — retain translation from this edition's unusual audited printed wording; do not substitute a familiar external Kural;
 - **Kural 972 commentary** — retain **“Everyone is equal by birth. Difference can be seen only in the skill they show in the work they do.”**;
 - **Kural 985** verse — no terminal period, following source punctuation;
-- **Kural 1001 commentary** — retain the image of wealth accumulated beyond what a house can contain;
+- **Kural 1001 commentary** — retain wealth accumulated beyond what a house can contain;
 - **Kural 1008** verse — no terminal period, following source punctuation;
-- retain source images including the stranger's corpse in a dark room, “Mohini spell,” mire called hell, liquor/poison comparison, torch under water, gambling hook, medical triad, `kunrimani`, `kavari` deer, queens of chastity, file/tree image, dirty-vessel/milk image, poisonous fruit, and the miser as a disease infecting wealth.
+- retain the stranger's corpse in a dark room, “Mohini spell,” mire called hell, liquor/poison comparison, torch under water, gambling hook, medical triad, `kunrimani`, `kavari` deer, queens of chastity, file/tree image, dirty-vessel/milk image, poisonous fruit, and the miser as a disease infecting wealth.
 
 # Exact next activity
 
-**Part 011 English editorial consistency / glossary reconciliation — all 23 `source-checked` pages.**
+**Part 011 English release gate — all 23 `editorial-reviewed` pages.**
 
 Required procedure:
 
-1. fresh-read all mandatory startup files listed above;
-2. inspect all 23 Part 011 English `source-checked` pages and the audited Tamil basis;
-3. review readability, recurring terminology, punctuation, names, social/gender specificity and heading consistency without weakening or normalizing Kalaignar's wording;
-4. deliberately finalize `குடியியல்` using the actual Part 011 main-body context;
-5. deliberately finalize chapter headings **91–101**;
-6. preserve all six English source-check corrections and all protected source-sensitive treatments above;
-7. update `works/thirukkural/translations/en/GLOSSARY.md` with the controlled Part 011 structural/chapter decisions;
-8. create `works/thirukkural/translations/en/reviews/PART_011_REVIEW.md` documenting the editorial decisions and any editorial-only changes;
-9. promote passing Part 011 pages only to:
-
-```yaml
-status: "editorial-reviewed"
-```
-
-10. synchronize `TRANSLATION_STATUS.md`, English README, work README, root README and HANDOVER;
-11. stop after editorial review;
-12. **do not create `PART_011_RELEASE_REPORT.md` in the same activity**;
-13. **do not promote pages to `release-ready` in the same activity**;
-14. **do not alter released English Parts 001–010 merely to harmonize later vocabulary**;
+1. fresh-read the mandatory startup files listed above;
+2. inspect all 23 Part 011 English `editorial-reviewed` pages and their aligned audited Tamil records;
+3. confirm one-to-one English/Tamil filename and `source_tamil_file` alignment for scans **215–237**;
+4. confirm printed-page continuity **182–204** and Kural continuity **896–1010**;
+5. confirm `translation_type: "project_translation"`, `source_tamil_status: "verified"`, common translation basis, and `status: "editorial-reviewed"` on all 23 before promotion;
+6. confirm the controlled `Friendship → Civic Life` source transition and chapter headings 90–101;
+7. confirm all six source-check corrections, the Kural 939 editorial refinement, and all source-sensitive protections above;
+8. confirm no Kural 1011 or later material has been inferred;
+9. create `works/thirukkural/translations/en/reviews/PART_011_RELEASE_REPORT.md` only if the gate passes;
+10. if the gate passes, promote all 23 Part 011 English pages from `editorial-reviewed` to `release-ready`;
+11. synchronize `TRANSLATION_STATUS.md`, English README, work README, root README and HANDOVER;
+12. stop after the release gate;
+13. **do not begin any later Tamil source activity in the same gate**;
+14. **do not alter released English Parts 001–010 merely to harmonize wording**;
 15. **do not infer or create Kural 1011 onward**.
 
-After editorial review, the exact next activity becomes the separate **Part 011 English release gate**.
+After a successful release gate, English Parts **001–011** will be released continuously through Kural **1010**. The next activity must then be determined only from an actually supplied subsequent Tamil source; do not assume or reconstruct Part 012.
