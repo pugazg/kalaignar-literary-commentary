@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Porul — Friendship — Internal Enmity"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -16,10 +16,10 @@ it is always difficult to prevent the destruction that follows.**
 
 When internal enmity arises among people who had been united, preventing the ruin that results from it becomes difficult at any time.
 
-**887. Though they may fit together like the lid on a metal container,  
+**887. Though they may fit together like a lid on its container,  
 a household afflicted by internal enmity is not truly united.**
 
-The lid of the small metal container called a *seppu* may appear to fit closely from the outside. In the same way, people with internal enmity may appear outwardly united, but they will not be united in heart.
+The lid of the small container called a *seppu* may appear to fit closely from the outside. In the same way, people with internal enmity may appear outwardly united, but they will not be united in heart.
 
 **888. Like iron worn down by a file,  
 a family afflicted by internal enmity loses both form and strength.**
