@@ -6,10 +6,10 @@ printed_page: "186"
 work: "thirukkural"
 section: "பொருள் — நட்பியல் — வரைவின் மகளிர்"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_011_pages_215-237.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **916. தந்நலம் பாரிப்பார் தோயார் தகைசெருக்கிப்  
