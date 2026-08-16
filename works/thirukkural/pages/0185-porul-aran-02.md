@@ -6,10 +6,10 @@ printed_page: "152"
 work: "thirukkural"
 section: "பொருள் — அரணியல் — அரண்"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **746. எல்லாப் பொருளும் உடைத்தா யிடத்துதவும்  
