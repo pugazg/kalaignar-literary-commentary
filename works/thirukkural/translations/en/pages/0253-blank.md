@@ -4,7 +4,7 @@ source_printed_page: null
 source_tamil_file: "../../../pages/0253-blank.md"
 section: "Inbam — reverse of title page"
 page_type: "blank"
-status: "draft"
+status: "source-checked"
 language: "en"
 translation_type: "project_translation"
 source_tamil_status: "verified"

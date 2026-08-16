@@ -4,7 +4,7 @@ source_printed_page: null
 source_tamil_file: "../../../pages/0252-inbam-title.md"
 section: "Inbam — title page"
 page_type: "section-title"
-status: "draft"
+status: "source-checked"
 language: "en"
 translation_type: "project_translation"
 source_tamil_status: "verified"
