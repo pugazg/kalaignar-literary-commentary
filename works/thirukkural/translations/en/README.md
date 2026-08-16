@@ -46,7 +46,7 @@ Released Part 010 structural vocabulary includes `நட்பியல்` → 
 
 Released Part 010 protections remain binding, including **women for hire** at Kural 813/822, Kural 835's **seven periods**, Kural 850's evidence/“ghosts” framing, Kalaignar's supplied Kural 861 interpretation, Kural 869's source-confirmed **“cowards who are afraid, and ignorant cowards”** repetition, Kural 876's enemy/friendship position, and Kural 895's **ruler / government** distinction.
 
-## Part 011 Tamil basis — READY FOR ENGLISH FIRST PASS
+## Part 011 Tamil basis — ARCHIVAL-READY
 
 Tamil audit: [`../../AUDIT_PART_011.md`](../../AUDIT_PART_011.md) — **PASS / ARCHIVAL-READY**.
 
@@ -61,33 +61,20 @@ Part 011 Tamil scope:
 
 Scan 215 continues and completes chapter 90 `பெரியாரைப் பிழையாமை` with Kural 896–900. Chapters 91–101 then continue through Kural 1010.
 
-The source structural transition must remain visible in the English page metadata:
+## Part 011 English — FIRST PASS COMPLETE
 
-- scans **215–225**: `பொருள் — நட்பியல்`;
-- from scan **226 / printed page 193 / chapter 96 குடிமை**: `பொருள் — குடியியல்`.
+All **23 / 23** page-aligned English records now exist for scans **215–237 / printed pages 182–204 / Kural 896–1010**.
 
-### Source-sensitive Part 011 basis
+Current state:
 
-Do not smooth or substitute these during translation:
+- `draft`: **23 / 23**;
+- `source-checked`: **0**;
+- `editorial-reviewed`: **0**;
+- `release-ready`: **0**;
+- `source-limited`: **0**;
+- `blocked`: **0**.
 
-- Kural **899 commentary** — Kalaignar's `அடக்குமுறை ஆட்சி` governance language;
-- Kural **912 commentary** — `பாகுமொழிபேசும்`;
-- Kural **931 commentary** — retain the fish/hook image and source wording;
-- Kural **948 commentary** — retain the extension to `சமுதாய நோய்`;
-- Kural **971** — translate the unusual audited printed Kural, not a familiar external version;
-- Kural **972 commentary** — retain Kalaignar's explicit `பிறப்பினால் அனைவரும் சமம்` formulation;
-- Kural **985** and **1008** — source punctuation remains part of the audited basis;
-- Kural **1001 commentary** — retain the actual `வீடு கொள்ளாத அளவுக்குச்...` wording.
-
-The audited Tamil includes four direct-verification corrections at Kural 904, 905, 911 commentary and 927 commentary. English must follow the corrected audited records.
-
-No Kural **1011** or later English text exists or may be inferred from another edition.
-
-## Next project activity
-
-Create the **Part 011 English project translation — first pass** for all **23 aligned pages**, scans **215–237 / Kural 896–1010**.
-
-Every new page must carry:
+Every Part 011 page carries:
 
 ```yaml
 translation_type: "project_translation"
@@ -96,6 +83,50 @@ source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ```
 
-Keep Kural translation separate from Kalaignar commentary translation, preserve the two-line Kural structure and one-to-one page alignment, and retain Kalaignar's language and images.
+The source structural transition remains visible:
 
-Stop after all **23 / 23** pages are `draft`. Direct source-check, glossary/editorial reconciliation and release remain later separate gates.
+- scans **215–225** use the already controlled `நட்பியல்` → **Friendship**;
+- from scan **226 / printed page 193 / chapter 96 குடிமை**, the draft uses provisional `குடியியல்` → **Civic Life**.
+
+Scan 215 continues the released chapter 90 heading **Not Offending the Great**.
+
+Provisional first-pass headings for chapters 91–101 are:
+
+- 91 `பெண்வழிச் சேறல்` → **Following a Woman's Lead**;
+- 92 `வரைவின் மகளிர்` → **Women Beyond Bounds**;
+- 93 `கள்ளுண்ணாமை` → **Abstaining from Liquor**;
+- 94 `சூது` → **Gambling**;
+- 95 `மருந்து` → **Medicine**;
+- 96 `குடிமை` → **Nobility**;
+- 97 `மானம்` → **Honour**;
+- 98 `பெருமை` → **Greatness**;
+- 99 `சான்றாண்மை` → **Exemplary Character**;
+- 100 `பண்புடைமை` → **Good Character**;
+- 101 `நன்றியில் செல்வம்` → **Wealth Without Benefit**.
+
+These new headings and **Civic Life** are first-pass choices only; `GLOSSARY.md` has deliberately not been changed yet.
+
+### Part 011 source-sensitive translation basis retained
+
+The draft keeps Kalaignar's source-specific language and images, including:
+
+- Kural 899 commentary's **oppressive government** framing;
+- Kural 912's sugar-sweet speech;
+- Kural 931's fish/bait/iron-hook image;
+- Kural 948's extension from bodily disease to **social disease**;
+- the unusual audited Kural 971 wording rather than a standard external reading;
+- Kural 972 commentary's explicit **“Everyone is equal by birth”** formulation;
+- Kural 985 and 1008 without terminal verse periods in the draft;
+- Kural 1001's image of wealth accumulating beyond what a house can contain;
+- Kalaignar's rationalist **“Will some nonexistent heaven be gained?”** at Kural 966;
+- the stranger's corpse in a dark room, “Mohini spell,” mire called hell, liquor/poison comparison, torch-under-water image, medical triad, `kunrimani`, `kavari` deer, queens of chastity, file/tree image, dirty-vessel/milk image, poisonous tree, and the miser as a disease infecting wealth.
+
+The audited corrections at Kural 904, 905, 911 commentary and 927 commentary are the basis used in the draft.
+
+No Kural **1011** or later English text has been created or inferred.
+
+## Next project activity
+
+Perform **Part 011 English direct source-check** for all **23 draft pages**, comparing every Kural and commentary unit against the audited Tamil record for omissions, additions, subject drift, lost imagery and interpretation drift.
+
+Passing pages may move only to `source-checked`. Do not finalize the provisional chapter headings or `குடியியல்` during that gate; glossary/editorial reconciliation remains the following separate activity. Do not create a release report and do not modify released Parts 001–010.
