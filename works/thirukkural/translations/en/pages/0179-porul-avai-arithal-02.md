@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Porul — Ministerial Affairs — Knowing the Assembly"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -17,11 +17,11 @@ is like falling away from the proper path.**
 If a fault occurs in a speech delivered before people who have attained eminence through intellectual ability, it is comparable to slipping and falling away from the path of proper conduct.
 
 **717. The learning of those who have learned and understood shines; before those who discern  
-faultless words, a lapse.**
+faultless words, there is a lapse.**
 
 The greatness of a person's learned education shines among those who choose faultless words and deliver their speech with them.
 
-> Draft source note: the verified Tamil source for Kural 717 prints `கற்றறிந்தார் கல்வி விளங்கும் கசடறச் / சொற்றெரிதல் முன்னர் இழுக்கு.` This first pass preserves that source-supported wording rather than substituting a familiar reading from another edition.
+> Source-check note: the verified Tamil source for Kural 717 prints `கற்றறிந்தார் கல்வி விளங்கும் கசடறச் / சொற்றெரிதல் முன்னர் இழுக்கு.` The English preserves that source-supported wording, including the final `இழுக்கு`, rather than substituting a familiar reading from another edition.
 
 **718. Speaking before those who possess understanding is like  
 pouring water into a bed containing a crop that can grow.**
