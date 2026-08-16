@@ -6,10 +6,10 @@ printed_page: "178"
 work: "thirukkural"
 section: "பொருள் — நட்பியல் — பகைத்திறம் தெரிதல்"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **876. தேறினுந் தேறா விடினும் அழிவின்கண்  
