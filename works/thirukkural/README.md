@@ -15,11 +15,11 @@
 | 007 | `திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf` | 21 | 128–148 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
 | 008 | `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf` | 21 | 149–169 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
 | 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 22/22** |
-| 010 | `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf` | 23 | 192–214 | Tamil first pass **COMPLETE 23/23**; direct visual verification pending |
+| 010 | `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf` | 23 | 192–214 | Tamil direct visual verification **COMPLETE 23/23**; audit pending |
 
 Tamil Parts **001–009 are archival-ready continuously** through overall scan **191** / printed page **158** / Kural **780**.
 
-Part 010 Tamil now has a complete first-pass transcription across all **23 / 23** supplied pages, but every Part 010 record remains `needs-review`; Part 010 is **not** archival-ready.
+Part 010 Tamil now has **23 / 23 directly verified page records** through overall scan **214** / printed page **181** / Kural **895**, but Part 010 is **not archival-ready until the separate audit gate passes**.
 
 English Parts **001–009 are released continuously** through Kural **780**.
 
@@ -72,11 +72,11 @@ Released structural vocabulary through Part 009:
 - `கூழியல்` → **Wealth**;
 - `படையியல்` → **Military Affairs**.
 
-## Part 010 Tamil — FIRST PASS COMPLETE
+## Part 010 Tamil — DIRECT VISUAL VERIFICATION COMPLETE
 
 Controlling source: `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf`
 
-Source intake established directly from all 23 physical scan pages:
+Verified source scope:
 
 - physical pages: **23**;
 - overall scans: **192–214**;
@@ -86,7 +86,7 @@ Source intake established directly from all 23 physical scan pages:
 - chapter range visible: **79–90**;
 - chapter 90 `பெரியாரைப் பிழையாமை` begins on scan 214 and this supplied part contains only Kural **891–895** of that chapter.
 
-Chapter / page map for this source part:
+Chapter / page map:
 
 - scans 192–193 / pp.159–160 — `79. நட்பு` — Kural **781–790**;
 - scans 194–195 / pp.161–162 — `80. நட்பாராய்தல்` — **791–800**;
@@ -101,32 +101,36 @@ Chapter / page map for this source part:
 - scans 212–213 / pp.179–180 — `89. உட்பகை` — **881–890**;
 - scan 214 / p.181 — `90. பெரியாரைப் பிழையாமை` — **891–895** in the supplied part.
 
-First-pass record state:
+Final verification state:
 
-- `needs-review`: **23 / 23**;
-- `verified`: **0**;
+- `verified`: **23 / 23**;
+- `needs-review`: **0**;
 - `partial`: **0**;
 - `blocked`: **0**.
 
-Every Part 010 page uses:
+Every Part 010 page now uses:
 
 ```yaml
-status: "needs-review"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+status: "verified"
+transcription_method: "direct visual comparison with source scan"
 ```
 
-No Part 010 page has been promoted to `verified`; no Part 010 audit or English page has been created.
+The direct page-by-page comparison found **no first-pass body-text correction requiring a change**. The source-sensitive wording at scan **209 / Kural 869 commentary** was checked directly and confirmed exactly as printed:
+
+`அஞ்சிடும் கோழைகளாகவும், அறிவில்லாக் கோழைகளாகவும் பகைவர்கள் இருப்பின் அவர்களை எதிர்ப்போரை விட்டு வெற்றியெனும் இன்பம் விலகாமலே நிலைத்து நிற்கும்.`
+
+This repetition must not be silently smoothed or normalized.
 
 ### Boundary continuity
 
 Part 009 ends at printed page **158** / Kural **780**. Part 010 begins continuously at printed page **159** / Kural **781** / chapter `79. நட்பு`.
 
-The supplied Part 010 source itself ends at printed page **181** / Kural **895**, in the first half of chapter `90. பெரியாரைப் பிழையாமை`. Do not infer the next page or Kural text without the next controlling source scan.
+The supplied Part 010 source ends at printed page **181** / Kural **895**, in the first half of chapter `90. பெரியாரைப் பிழையாமை`. Do not infer Kural 896 onward without the next controlling source scan.
 
 ## அடுத்த செயல்
 
-Perform the separate **Part 010 Tamil direct visual verification** for all **23 `needs-review` pages**, scans **192–214 / printed pages 159–181 / Kural 781–895**.
+Perform the separate **Part 010 Tamil audit / archival-ready gate** for scans **192–214 / printed pages 159–181 / Kural 781–895**.
 
-Compare every page directly with the controlling scan, including Kural letters and two-line structure, Kalaignar commentary, punctuation, headings, running-header/section metadata, scan/printed-page metadata and source markers. Promote only passing pages to `verified`.
+The audit must check complete page coverage, numbering/metadata continuity, chapter/section transitions, Part 009 → Part 010 continuity, all 23 verified statuses, the confirmed Kural 869 commentary wording, and unresolved items before making an explicit archival-ready decision.
 
-Stop after direct visual verification. Do **not** create `AUDIT_PART_010.md`, call Part 010 archival-ready, or begin Part 010 English during the verification activity.
+Do **not** begin Part 010 English translation until that audit passes.
