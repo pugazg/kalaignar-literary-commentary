@@ -11,7 +11,7 @@
 | 003 | `திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf` | 21 | 42–62 | audited / **ARCHIVAL-READY** |
 | 004 | `திருக்குறள்_கலைஞர்_உரை_part_004_pages_63-84.pdf` | 22 | 63–84 | audited / **ARCHIVAL-READY** |
 | 005 | `திருக்குறள்_கலைஞர்_உரை_part_005_pages_85-106.pdf` | 22 | 85–106 | audited / **ARCHIVAL-READY** |
-| 006 | `திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf` | 21 | 107–127 | Tamil first-pass 21/21 complete; direct verification **7/21** through scan 113 |
+| 006 | `திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf` | 21 | 107–127 | Tamil first-pass 21/21 complete; direct verification **14/21** through scan 120 |
 | 007 | `திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf` | 21 | 128–148 | source received; transcription not started |
 | 008 | `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf` | 21 | 149–169 | source received; transcription not started |
 | 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | source received; transcription not started |
@@ -31,16 +31,16 @@ These ranges describe the supplied-source intake. They do **not** mean Parts 006
 
 Parts **001–005** remain archival-ready.
 
-Part **006 Tamil first-pass transcription is complete: 21 / 21 physical scan records, scans 107–127.** Direct visual verification has now begun.
+Part **006 Tamil first-pass transcription is complete: 21 / 21 physical scan records, scans 107–127.** Direct visual verification is in progress.
 
-### Part 006 verification — Batch 1 complete
+### Part 006 verification — Batches 1–2 complete
 
-Overall scans **107–113 / local pages 1–7 / Kural 366–390** were directly compared against the controlling source scan.
+Overall scans **107–120 / local pages 1–14 / Kural 366–425** have now been directly compared against the controlling source scan.
 
 Current Part 006 Tamil status:
 
-- `verified`: **7 / 21** — scans 107–113;
-- `needs-review`: **14 / 21** — scans 114–127;
+- `verified`: **14 / 21** — scans 107–120;
+- `needs-review`: **7 / 21** — scans 121–127;
 - `partial`: **0**;
 - `blocked`: **0**;
 - audit: not started.
@@ -53,14 +53,23 @@ Batch 1 covered:
 - scan 111 — blank reverse-side page; bleed-through is not body text;
 - scans 112–113 / printed 79–80 — chapter 39 `இறைமாட்சி`, Kural 381–390.
 
-One source-supported first-pass correction was required in scan 109 / Kural 380 commentary: `வலிமையானவை` was corrected to the printed `வலிமையானவையாக`. No unresolved text remains in scans 107–113.
-
-The remaining first-pass records are still `needs-review`:
+Batch 2 covered:
 
 - scans 114–115 / printed 81–82 — chapter 40 `கல்வி`, Kural 391–400;
 - scans 116–117 / printed 83–84 — chapter 41 `கல்லாமை`, Kural 401–410;
 - scans 118–119 / printed 85–86 — chapter 42 `கேள்வி`, Kural 411–420;
-- scans 120–121 / printed 87–88 — chapter 43 `அறிவுடைமை`, Kural 421–430;
+- scan 120 / printed 87 — chapter 43 `அறிவுடைமை`, Kural 421–425.
+
+Source-supported corrections made during direct verification:
+
+- scan 109 / Kural 380 commentary: `வலிமையானவை` → `வலிமையானவையாக`;
+- scan 120 / Kural 425 commentary: `உயர்ந்தோர் உலகோர்` → `உயர்ந்தோரே உலகோர்`.
+
+No unresolved text remains in scans 107–120.
+
+The remaining first-pass records are still `needs-review`:
+
+- scan 121 / printed 88 — chapter 43 `அறிவுடைமை`, Kural 426–430;
 - scans 122–123 / printed 89–90 — chapter 44 `குற்றங்கடிதல்`, Kural 431–440;
 - scans 124–125 / printed 91–92 — chapter 45 `பெரியாரைத் துணைக்கோடல்`, Kural 441–450;
 - scans 126–127 / printed 93–94 — chapter 46 `சிற்றினம் சேராமை`, Kural 451–460.
@@ -96,13 +105,13 @@ English work for Part 006 must not begin until all Part 006 Tamil pages are dire
 
 ## அடுத்த செயல்
 
-Continue **Part 006 Tamil direct visual verification — Batch 2 only**, overall scans **114–120** / Part 006 local pages **8–14** / printed pages **81–87** / Kural **391–425**:
+Continue **Part 006 Tamil direct visual verification — Batch 3 only**, overall scans **121–127** / Part 006 local pages **15–21** / printed pages **88–94** / Kural **426–460**:
 
-- scans 114–115 — chapter 40 `கல்வி`, Kural 391–400;
-- scans 116–117 — chapter 41 `கல்லாமை`, Kural 401–410;
-- scans 118–119 — chapter 42 `கேள்வி`, Kural 411–420;
-- scan 120 — chapter 43 `அறிவுடைமை`, Kural 421–425.
+- scan 121 — chapter 43 `அறிவுடைமை`, Kural 426–430;
+- scans 122–123 — chapter 44 `குற்றங்கடிதல்`, Kural 431–440;
+- scans 124–125 — chapter 45 `பெரியாரைத் துணைக்கோடல்`, Kural 441–450;
+- scans 126–127 — chapter 46 `சிற்றினம் சேராமை`, Kural 451–460.
 
-Compare every existing Markdown record directly against the controlling source scan. Correct only source-supported transcription differences. Promote a record to `verified` only when the complete page has been visually checked. Stop after scan **120**.
+Compare every existing Markdown record directly against the controlling source scan. Correct only source-supported transcription differences. Promote a record to `verified` only when the complete page has been visually checked. Stop after scan **127**.
 
-Do not verify scans 121–127, create `AUDIT_PART_006.md`, start English Part 006 translation, or begin Part 007 transcription in the same activity.
+Do not create `AUDIT_PART_006.md`, start English Part 006 translation, or begin Part 007 transcription in the same activity. The Part 006 audit is the separate activity after all 21 pages are verified.
