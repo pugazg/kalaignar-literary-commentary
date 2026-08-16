@@ -12,12 +12,27 @@
 | 004 | `திருக்குறள்_கலைஞர்_உரை_part_004_pages_63-84.pdf` | 22 | 63–84 | audited / **ARCHIVAL-READY** |
 | 005 | `திருக்குறள்_கலைஞர்_உரை_part_005_pages_85-106.pdf` | 22 | 85–106 | audited / **ARCHIVAL-READY** |
 | 006 | `திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf` | 21 | 107–127 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
-| 007 | `திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf` | 21 | 128–148 | source received; transcription not started |
-| 008 | `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf` | 21 | 149–169 | source received; transcription not started |
+| 007 | `திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf` | 21 | 128–148 | Tamil first-pass **7/21** through scan 134 / Kural 495 |
+| 008 | `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf` | 21 | 149–169 | newly supplied; source continuity confirmed from Kural 566 |
 | 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | source received; transcription not started |
 | 010 | `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf` | 23 | 192–214 | source received; transcription not started |
 
-Tamil Parts **001–006 are archival-ready**, reaching overall scan **127** / printed page **94** / Kural **460**. Parts 007–010 remain source-intake only.
+Tamil Parts **001–006 are archival-ready**, reaching overall scan **127** / printed page **94** / Kural **460**.
+
+## Part 007 Tamil — FIRST-PASS IN PROGRESS
+
+The newly supplied Part 007 scan is the controlling source for scans **128–148 / printed pages 95–115 / Kural 461–565**. First-pass Tamil records now exist for the opening **7 / 21** physical pages:
+
+- scans 128–129 / printed pages 95–96 — chapter 47 `தெரிந்து செயல்வகை`, Kural 461–470;
+- scans 130–131 / printed pages 97–98 — chapter 48 `வலியறிதல்`, Kural 471–480;
+- scans 132–133 / printed pages 99–100 — chapter 49 `காலமறிதல்`, Kural 481–490;
+- scan 134 / printed page 101 — chapter 50 `இடனறிதல்`, Kural 491–495.
+
+All seven records are deliberately `needs-review`; direct visual verification has **not** begun for Part 007.
+
+The separately supplied Part 008 begins at printed page **116** with Kural **566–570**, confirming physical and textual continuity after Part 007. fileciteturn347file1L23-L36
+
+The source-first rule remains binding: the scan is authoritative; Markdown is an archival layer rather than a corrected edition.
 
 ## English project translation layer
 
@@ -38,15 +53,10 @@ Permanent cadence:
 - Part 005: **22/22 `release-ready`**, through Kural 365;
 - Part 006: **21/21 `release-ready`**, through Kural 460.
 
-Part 006 release artefacts:
-
-- [`translations/en/reviews/PART_006_REVIEW.md`](translations/en/reviews/PART_006_REVIEW.md)
-- [`translations/en/reviews/PART_006_RELEASE_REPORT.md`](translations/en/reviews/PART_006_RELEASE_REPORT.md)
-
-The released Part 006 English retains **Oozh** for `ஊழ்` and **natural condition** for Kalaignar's repeated `இயற்கை நிலை` explanation. It also preserves his direct social comparisons, governance language, rational-inquiry framing, rebuke/correction language and company/group interpretation without conventionalizing or sanitizing them.
+Do not begin English Part 007 until its Tamil transcription, direct verification and audit are complete.
 
 ## அடுத்த செயல்
 
-Begin **Part 007 Tamil first-pass transcription** as a separate activity, starting from overall scan **128** / printed page **95** / Kural **461**.
+Continue **Part 007 Tamil first-pass transcription only** with the next batch, starting from overall scan **135** / printed page **102** / Kural **496**.
 
-Follow the established Tamil archival workflow: inspect the controlling scan, create page-aligned first-pass records as `needs-review`, preserve source spelling and wording exactly, and do not begin English Part 007 until Tamil transcription, direct verification and audit are complete.
+Keep every new page `needs-review`. Do not begin Part 007 direct verification, audit, English translation, or Part 008 transcription in the same activity.
