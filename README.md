@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–008 **ARCHIVAL-READY** through overall scan 169 / printed page 136 / Kural 670 |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–007 **released through Kural 565**; Part 008 **SOURCE-CHECK COMPLETE 21/21** through Kural 670 |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–007 **released through Kural 565**; Part 008 **EDITORIAL REVIEW COMPLETE 21/21** through Kural 670 |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -46,31 +46,33 @@ The source-visible structural transition at scan **162 / printed page 129 / Kura
 
 `பொருள் — அரசியல்` → **`பொருள் — அமைச்சியல் — அமைச்சு`**.
 
-### Part 008 English — SOURCE-CHECK COMPLETE
+### Part 008 English — EDITORIAL REVIEW COMPLETE
 
-All **21 / 21** aligned Part 008 project-translation pages have passed direct source-check against the audited Tamil records.
+All **21 / 21** aligned Part 008 project-translation pages have completed first pass, direct source-check and editorial consistency / glossary reconciliation.
 
 Current Part 008 English state:
 
 - `draft`: **0**;
-- `source-checked`: **21 / 21**;
-- `editorial-reviewed`: **0**;
+- `source-checked`: **0**;
+- `editorial-reviewed`: **21 / 21**;
 - `release-ready`: **0**.
 
-Six source-supported English fidelity corrections were made during this gate, affecting Kurals **579, 606, 626, 627, 638 and 644**. The source-check retained Kalaignar's governance/intelligence vocabulary, rational/inquiry framing, **Oozh** at Kural 620, institutional council-of-ministers/citizens language at Kural 632, and the direct source images rather than importing familiar external Kural readings.
+Editorial review: [`works/thirukkural/translations/en/reviews/PART_008_REVIEW.md`](works/thirukkural/translations/en/reviews/PART_008_REVIEW.md).
 
-The Tamil `அரசியல்` → `அமைச்சியல்` distinction remains represented in English metadata as:
+The controlled main-body English headings now extend through Kural **670**. The Tamil `அரசியல்` → `அமைச்சியல்` distinction is editorially controlled as:
 
 `Porul — Statecraft` → **`Porul — Ministerial Affairs`**.
 
-`Ministerial Affairs` remains subject to deliberate final control at the editorial/glossary-reconciliation gate.
+`Ministerial Affairs` is now the controlled project rendering of `அமைச்சியல்` for this supplied main-body section, and the global English glossary has been extended accordingly.
+
+All six Part 008 source-check corrections remain protected. Three small editorial readability refinements were made at Kurals **602, 627 and 641**; no other substantive body-text change was made.
 
 ## அடுத்த செயல்
 
-Perform the separate **Part 008 English editorial consistency / glossary-reconciliation review** for all **21 source-checked pages**.
+Perform the separate **Part 008 English release gate** for all 21 `editorial-reviewed` pages.
 
-That activity should reconcile chapter headings and recurring terminology, decide the controlled main-body rendering of `அமைச்சியல்`, create `PART_008_REVIEW.md`, and promote pages to `editorial-reviewed` only if the review passes.
+That gate must perform the final continuity/alignment and controlled-term check, create `PART_008_RELEASE_REPORT.md` only if it passes, and only then promote the pages to `release-ready`.
 
-Do not combine that review with the Part 008 release gate or Part 009 Tamil transcription.
+Do not combine the Part 008 release gate with Part 009 Tamil transcription.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), and [`HANDOVER.md`](HANDOVER.md).
