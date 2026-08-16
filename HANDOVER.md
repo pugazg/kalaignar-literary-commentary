@@ -20,11 +20,11 @@ Before making any change:
    - `works/thirukkural/translations/en/TRANSLATION_GUIDE.md`;
    - `works/thirukkural/translations/en/GLOSSARY.md`;
    - `works/thirukkural/translations/en/TRANSLATION_STATUS.md`;
-   - `works/thirukkural/translations/en/reviews/PART_007_REVIEW.md`;
-   - `works/thirukkural/translations/en/reviews/PART_007_RELEASE_REPORT.md`;
+   - `works/thirukkural/translations/en/reviews/PART_008_REVIEW.md`;
+   - `works/thirukkural/translations/en/reviews/PART_007_RELEASE_REPORT.md` as the previous completed release model;
 6. inspect the existing target files before creating or updating anything.
 
-The repository state is authoritative for workflow status. Do not rely on conversational summaries when they conflict with GitHub.
+The repository state is authoritative for workflow status.
 
 ## Core source rule
 
@@ -51,7 +51,7 @@ The English must retain Kalaignar's language, examples, images, political/social
 Permanent protected examples include:
 
 - chapter 38 `ஊழ்` → **Oozh**, with Kalaignar's `இயற்கை நிலை` → **natural condition**;
-- Kural 543: Kalaignar explains `அந்தணர் நூற்கும்` as `அறவோர் நூல்களுக்கும்`; retain the English sense **the books of the virtuous**, not an automatic caste-specific “Brahmin(s)” rendering;
+- Kural 543: Kalaignar explains `அந்தணர் நூற்கும்` as `அறவோர் நூல்களுக்கும்`; retain **the books of the virtuous**, not an automatic caste-specific “Brahmin(s)” rendering;
 - preserve his governance, citizens, treasury, revenue, justice, public-resource and working-people language when it occurs;
 - preserve direct source-supported comparisons rather than sanitizing them;
 - preserve rational/inquiry framing when Kalaignar explicitly uses it.
@@ -118,15 +118,11 @@ Tamil state:
 - chapter 66 `வினைத் தூய்மை` — 651–660;
 - chapter 67 `வினைத்திட்பம்` — 661–670.
 
-## Part 008 structural transition
-
-Scan **162 / printed page 129 / Kural 631** directly confirms:
+The source-visible structural transition at scan **162 / printed page 129 / Kural 631** is:
 
 `பொருள் — அரசியல்` → **`பொருள் — அமைச்சியல் — அமைச்சு`**.
 
-Preserve this distinction through the English workflow rather than flattening both sections into one heading.
-
-# Part 008 English — SOURCE-CHECK COMPLETE
+# Part 008 English — EDITORIAL REVIEW COMPLETE
 
 All **21 / 21** aligned Part 008 English page records exist under:
 
@@ -141,97 +137,112 @@ Scope:
 Current English status:
 
 - `draft`: **0**;
-- `source-checked`: **21 / 21**;
-- `editorial-reviewed`: **0**;
+- `source-checked`: **0**;
+- `editorial-reviewed`: **21 / 21**;
 - `release-ready`: **0**;
 - `source-limited`: **0**;
 - `blocked`: **0**.
 
-Each page has been directly compared against its audited Tamil record for Kural meaning, commentary completeness, page/Kural alignment, layer separation and structural metadata.
+Editorial review artefact:
 
-## Source-check corrections — protect these
+`works/thirukkural/translations/en/reviews/PART_008_REVIEW.md`
 
-Six source-supported fidelity corrections were made across five pages:
+The global English glossary has been extended through Part 008.
 
-1. scan **151 / Kural 579 verse**:
-   - first pass: `those disposed to punish`
-   - source-checked: **`those whose nature is to seek one's destruction`**
-   - reason: Kalaignar commentary `அழிக்க நினைத்திடும் இயல்புடையவரிடத்திலும்` is stronger and more specific;
-2. scan **157 / Kural 606 commentary**:
-   - first pass: `worthy of the affection of people of standing`
-   - source-checked: **`the recipients of the affection of people of standing`**
-   - reason: avoids adding an unsupported merit judgement to `அன்புக்குப் பாத்திரமானவராக`;
-3. scan **161 / Kural 626 verse**:
-   - clarified that the people described **never knew to guard what they had after saying “We have gained”**, matching Kalaignar's protection/neglect contrast;
-4. scan **161 / Kural 627 verse**:
-   - removed the unclear phrase `helpless refuge`;
-   - source-checked wording follows Kalaignar's explanation that those who understand suffering as natural do not allow distress to become their way of meeting it;
-5. scan **163 / Kural 638 verse and commentary**:
-   - removed the unsupported first-pass insertion `the ruler / those in authority`;
-   - source-checked wording retains a generic person who neither listens nor understands, while nearby ministers still have a duty to give good counsel;
-6. scan **164 / Kural 644 verse**:
-   - first pass: `greater than such speech`
-   - source-checked: **`equal to such speech`**
-   - reason: Kalaignar's commentary says there is no aram or true substance **like/equal to** that eloquence.
+## Controlled Part 008 main-body headings
 
-All other Part 008 English body text passed source-check without substantive correction.
+- 57 `வெருவந்த செய்யாமை` → **Avoiding Acts that Cause Fear**;
+- 58 `கண்ணோட்டம்` → **Compassion**;
+- 59 `ஒற்றாடல்` → **Espionage**;
+- 60 `ஊக்கம் உடைமை` → **Possession of Initiative**;
+- 61 `மடி இன்மை` → **Freedom from Laziness**;
+- 62 `ஆள்வினை உடைமை` → **Effective Effort**;
+- 63 `இடுக்கண் அழியாமை` → **Not Losing Heart in Adversity**;
+- 64 `அமைச்சு` → **The Minister**;
+- 65 `சொல்வன்மை` → **Eloquence**;
+- 66 `வினைத் தூய்மை` → **Purity in Action**;
+- 67 `வினைத்திட்பம்` → **Firmness in Action**.
 
-## Source-sensitive Part 008 decisions retained through source-check
+Chapter 57 carries forward the controlled Part 007 wording. Headings 58–67 are now controlled from Part 008 main-body context.
 
-Protect these during editorial review:
+## Controlled structural term
+
+The Part 008 editorial review establishes:
+
+`அமைச்சியல்` → **Ministerial Affairs**
+
+so the English metadata transition is controlled as:
+
+`Porul — Statecraft` → **`Porul — Ministerial Affairs`**.
+
+This preserves the explicit source distinction from `அரசியல்` / **Statecraft** and is broad enough for the minister, counsel, eloquence and action chapters in this section.
+
+## Six source-check corrections — protect these
+
+1. Kural **579** — **“those whose nature is to seek one's destruction”**, not the weaker first-pass “those disposed to punish”;
+2. Kural **606 commentary** — **“the recipients of the affection”**, avoiding an unsupported merit judgement;
+3. Kural **626** — retain the clarified failure to guard what had been gained;
+4. Kural **627** — do not restore the unsupported “helpless refuge” idea;
+5. Kural **638** — do not reinsert the unsupported “ruler / those in authority” wording;
+6. Kural **644** — retain **“equal to”**, not “greater than.”
+
+## Three editorial readability refinements — protect these
+
+1. scan **156 / Kural 602 verse**:
+   - **“must reject laziness and conduct themselves without it”**;
+2. scan **161 / Kural 627 verse**:
+   - **“do not respond to it with distress”**;
+3. scan **164 / Kural 641 verse**:
+   - **“The excellence called eloquence ...”**.
+
+No other substantive body-text change was made during the editorial review.
+
+## Part 008 source-sensitive decisions retained through editorial review
+
+Protect these during release:
 
 - **Kural 570** — institutional **tyrannical government** making the uneducated its supporting strength;
-- **chapter 59 / Espionage** — government/intelligence vocabulary and Kural 589's three-independent-spies logic;
+- **Kural 589** — three spies working without knowing one another before agreement among their reports is accepted;
 - **Kural 610** — Kalaignar's **untiring ruler** explanation; do not import an external mythological reconstruction;
 - **Kural 615** — **relatives, friends and all the people of his country**;
 - **Kural 617** — **Thirumagal / Moodevi** as Kalaignar explains them, without outside doctrine;
 - **Kural 618** — rejection of blaming the result of **fate** instead of failure to act;
 - **Kural 619** — direct **“God!”** line and effort/labour framing;
 - **Kural 620** — **Oozh** and Kalaignar's claim that tireless effort can make even Oozh suffer defeat;
-- **Kural 632** — **council of ministers**, protection of **citizens**, books of aram, knowledge of what must be done and tireless effort;
+- **Kural 632** — **council of ministers**, protection of **citizens**, books of aram, practical knowledge and tireless effort;
 - **Kural 639** — **seventy crore** enemies;
 - **Kural 659** — wealth gathered by making others weep disappearing amid weeping;
 - **Kural 660** — **unbaked clay pot** image;
 - **Kural 667** — small **linchpin / great chariot** comparison.
 
-## Part 008 English structural transition
-
-Current source-checked metadata preserves:
-
-`Porul — Statecraft` → **`Porul — Ministerial Affairs`**
-
-at scan **162 / Kural 631**.
-
-`Ministerial Affairs` has passed the source-check as a distinction-preserving first rendering of `அமைச்சியல்`, but it is **not yet a final controlled main-body glossary decision**. The editorial review must deliberately retain or refine it and document the rationale. Do not erase the Tamil distinction.
-
 # Exact next activity
 
-Perform the separate **Part 008 English editorial consistency / glossary-reconciliation review** for all **21 source-checked pages**, scans **149–169 / Kural 566–670**.
+Perform the separate **Part 008 English release gate** for all **21 editorial-reviewed pages**, scans **149–169 / printed pages 116–136 / Kural 566–670**.
 
 ## Required procedure
 
-1. fresh-read this handover, `TRANSLATION_GUIDE.md`, `GLOSSARY.md`, `TRANSLATION_STATUS.md`, `PART_007_REVIEW.md` and `PART_007_RELEASE_REPORT.md`;
-2. review all 21 source-checked Part 008 pages as one editorial unit;
-3. reconcile chapter headings 57–67 against previous controlled main-body headings and the Part 002 index-local evidence;
-4. deliberately decide the controlled English structural label for `அமைச்சியல்` while preserving its distinction from `அரசியல்` / `Statecraft`;
-5. review recurring terms, names, punctuation, readability and repeated phrasing without weakening Kalaignar's direct language, social/governance vocabulary, imagery or rational/inquiry framing;
-6. protect all six source-check corrections above;
-7. update `GLOSSARY.md` with the controlled Part 008 main-body extension and any deliberate structural-term decision;
-8. create `works/thirukkural/translations/en/reviews/PART_008_REVIEW.md` documenting the editorial decisions and any body-text changes;
-9. promote all pages that pass from `source-checked` to `editorial-reviewed`;
-10. synchronize status files and stop at the end of the editorial-review gate.
+1. fresh-read this handover, `TRANSLATION_STATUS.md`, `GLOSSARY.md`, `PART_008_REVIEW.md` and the previous `PART_007_RELEASE_REPORT.md`;
+2. confirm all 21 Part 008 English pages are `editorial-reviewed` before release;
+3. verify continuous scan numbering **149–169**, printed pages **116–136**, Kural numbering **566–670**, and exact English/Tamil filename alignment;
+4. confirm chapter headings 57–67 are consistent with the controlled Part 008 glossary entries;
+5. confirm the metadata transition `Porul — Statecraft` → `Porul — Ministerial Affairs` occurs at scan 162 and remains consistent thereafter;
+6. confirm all six source-check corrections and three editorial readability refinements remain intact;
+7. confirm no Part 008 page remains `draft`, `source-checked`, `source-limited` or `blocked`;
+8. create `works/thirukkural/translations/en/reviews/PART_008_RELEASE_REPORT.md` only if all release checks pass;
+9. after a PASS decision is recorded, promote all 21 pages from `editorial-reviewed` to `release-ready`;
+10. synchronize the English status, English README, work README, root README and this handover;
+11. stop at the end of the Part 008 release gate.
 
-## Do not start alongside the Part 008 editorial review unless explicitly requested
+## Do not start alongside the Part 008 release gate unless explicitly requested
 
 Do **not**:
 
-- create `PART_008_RELEASE_REPORT.md`;
-- promote any page to `release-ready`;
 - begin Part 009 Tamil transcription;
-- alter released English Parts 001–007 except through a deliberate separate project-wide decision.
+- alter released English Parts 001–007;
+- make new substantive translation changes during release unless a genuine release blocker is found and documented first.
 
-# After Part 008 editorial review
+# After Part 008 English release
 
-If the review passes, the next separate activity is the **Part 008 English release gate**, including the final continuity/alignment check, creation of `PART_008_RELEASE_REPORT.md`, and promotion to `release-ready` only if that gate passes.
+If the release gate passes, the next separate activity is **Part 009 Tamil first-pass transcription**, beginning from overall scan **170 / printed page 137 / Kural 671**, chapter 68 `வினை செயல்வகை`, unless the user explicitly changes the order.
 
-Part 009 source has been supplied/received, but **Part 009 transcription is not active**.
+Part 009 source has been supplied/received, but **Part 009 transcription is not active yet**.
