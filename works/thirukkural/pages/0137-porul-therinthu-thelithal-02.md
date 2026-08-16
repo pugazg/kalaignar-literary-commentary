@@ -6,10 +6,10 @@ printed_page: "104"
 work: "thirukkural"
 section: "பொருள் — அரசியல் — தெரிந்து தெளிதல்"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **506. அற்றாரைத் தேறுதல் ஓம்புக மற்றவர்  
