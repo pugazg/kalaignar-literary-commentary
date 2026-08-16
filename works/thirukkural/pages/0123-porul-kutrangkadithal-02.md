@@ -6,10 +6,10 @@ printed_page: "90"
 work: "thirukkural"
 section: "பொருள் — அரசியல் — குற்றங்கடிதல்"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **436. தன்குற்ற நீக்கிப் பிறர்குற்றங் காண்கிற்பின்  
@@ -20,7 +20,7 @@ transcription_method: "manual transcription from source scan; direct visual veri
 **437. செயற்பால செய்யா திவறியான் செல்வம்  
 உயற்பால தன்றிக் கெடும்.**
 
-நற்பணிகளைச் செய்யாமல் சேமித்து வைக்கப்படும் கருமியின் செல்வம் பயன் ஏதுமின்றிப் பாழாகிவிடும்.
+நற்பணிகளைச் செய்யாமல் சேமித்து வைக்கப்படும் கருமியின் செல்வம் பயன் எதுமின்றிப் பாழாகிவிடும்.
 
 **438. பற்றுள்ள மென்னும் இவறன்மை எற்றுள்ளும்  
 எண்ணப் படுவதொன் றன்று.**
