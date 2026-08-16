@@ -6,13 +6,13 @@ work: "thirukkural"
 section: "Porul — Civic Life — Wealth Without Benefit"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
 
-**1006. Great wealth is a disease to one who neither enjoys it  
-nor has the nature to give something to the worthy.**
+**1006. One who neither enjoys his great wealth  
+nor has the nature to give something to the worthy is a disease upon that wealth.**
 
 A person who lives without enjoying it himself and without possessing the nature to help deserving people is a disease that has infected the great wealth he possesses.
 
