@@ -40,23 +40,23 @@ The latest English review/release authority remains:
 
 Do not revise released English merely because later work introduces similar vocabulary. Any project-wide change must be deliberate and documented.
 
-# Newly supplied Tamil source — Parts 006–010
+# Supplied Tamil source — Parts 006–010
 
-Five consecutive source PDFs have now been supplied and their boundary pages inspected directly.
+Five consecutive source PDFs have been supplied and their boundaries inspected directly.
 
 | Part | Overall scans | Printed-page span visible in source | Kural span confirmed from source | State |
 |---|---:|---:|---:|---|
-| 006 | 107–127 | 74–94 | 366–460 | Tamil first-pass in progress |
+| 006 | 107–127 | 74–94 | 366–460 | Tamil first-pass **21/21 complete**; verification pending |
 | 007 | 128–148 | 95–115 | 461–565 | source received; not started |
 | 008 | 149–169 | 116–136 | 566–670 | source received; not started |
 | 009 | 170–191 | 137–158 | 671–780 | source received; not started |
 | 010 | 192–214 | 159–181 | 781–895 | source received; not started |
 
-The new source is directly continuous from the previously archived Kural **365** and now reaches overall scan **214** / printed page **181** / Kural **895**.
+The supplied source is directly continuous from the previously archived Kural **365** and reaches overall scan **214** / printed page **181** / Kural **895**.
 
 These are source-intake boundaries only. Parts 006–010 are **not** archival-ready merely because the PDFs have been received.
 
-# Part 006 Tamil — FIRST-PASS TRANSCRIPTION IN PROGRESS
+# Part 006 Tamil — FIRST-PASS COMPLETE
 
 Source:
 
@@ -64,10 +64,11 @@ Source:
 
 Physical pages: **21** / overall scans **107–127**.
 
-Current first-pass count:
+Current state:
 
-- `needs-review`: **14 / 21** — scans 107–120;
+- `needs-review`: **21 / 21** — scans 107–127;
 - `verified`: **0 / 21**;
+- first-pass transcription: **complete**;
 - Part 006 audit: **not started**.
 
 ## Existing first-pass records
@@ -142,12 +143,47 @@ Current first-pass count:
     - chapter 43 `அறிவுடைமை` begins;
     - Kural 421–425.
 
-All fourteen records deliberately use:
+15. `works/thirukkural/pages/0121-porul-arivudaimai-02.md`
+    - scan 121 / printed 88;
+    - chapter 43 `அறிவுடைமை` continues;
+    - Kural 426–430.
+
+16. `works/thirukkural/pages/0122-porul-kutrangkadithal-01.md`
+    - scan 122 / printed 89;
+    - chapter 44 `குற்றங்கடிதல்` begins;
+    - Kural 431–435.
+
+17. `works/thirukkural/pages/0123-porul-kutrangkadithal-02.md`
+    - scan 123 / printed 90;
+    - chapter 44 `குற்றங்கடிதல்` continues;
+    - Kural 436–440.
+
+18. `works/thirukkural/pages/0124-porul-periyaaraith-thunaikkodal-01.md`
+    - scan 124 / printed 91;
+    - chapter 45 `பெரியாரைத் துணைக்கோடல்` begins;
+    - Kural 441–445.
+
+19. `works/thirukkural/pages/0125-porul-periyaaraith-thunaikkodal-02.md`
+    - scan 125 / printed 92;
+    - chapter 45 `பெரியாரைத் துணைக்கோடல்` continues;
+    - Kural 446–450.
+
+20. `works/thirukkural/pages/0126-porul-sitrinam-seraamai-01.md`
+    - scan 126 / printed 93;
+    - chapter 46 `சிற்றினம் சேராமை` begins;
+    - Kural 451–455.
+
+21. `works/thirukkural/pages/0127-porul-sitrinam-seraamai-02.md`
+    - scan 127 / printed 94;
+    - chapter 46 `சிற்றினம் சேராமை` continues;
+    - Kural 456–460.
+
+All twenty-one records deliberately remain:
 
 - `status: "needs-review"`;
 - `transcription_method: "manual transcription from source scan; direct visual verification pending"`.
 
-Do **not** promote any of them to `verified` until the later dedicated direct visual verification stage.
+Do **not** promote any record to `verified` until the dedicated direct visual verification stage compares it against the controlling scan.
 
 ## Structural transition in Part 006
 
@@ -165,30 +201,32 @@ Kalaignar's commentary repeatedly explains `ஊழ்` through **`இயற்�
 
 # Exact next activity
 
-Continue **Part 006 Tamil first-pass transcription only** for the remaining overall scans **121–127** / Part 006 local pages **15–21** / printed pages **88–94** / Kural **426–460**.
+Begin **Part 006 Tamil direct visual verification — Batch 1 only** for overall scans **107–113** / Part 006 local pages **1–7** / Kural **366–390**.
 
-The source has already been inspected for this remaining batch:
+This verification batch includes:
 
-- scan **121** — continues chapter 43 `அறிவுடைமை`, Kural **426–430**;
-- scans **122–123** — chapter 44 `குற்றங்கடிதல்`, Kural **431–440**;
-- scans **124–125** — chapter 45 `பெரியாரைத் துணைக்கோடல்`, Kural **441–450**;
-- scans **126–127** — chapter 46 `சிற்றினம் சேராமை`, Kural **451–460**.
+- scan **107** — Kural 366–370, completing `அவா அறுத்தல்`;
+- scans **108–109** — chapter 38 `ஊழ்`, Kural 371–380;
+- scan **110** — `பொருள்` section-title page;
+- scan **111** — blank reverse page with bleed-through only;
+- scans **112–113** — chapter 39 `இறைமாட்சி`, Kural 381–390.
 
 ## Required procedure for the next activity
 
-1. fresh-fetch this `HANDOVER.md`, `works/thirukkural/README.md`, and the current Part 006 page records before writing;
-2. inspect the controlling Part 006 scans 121–127 directly;
-3. create one Tamil Markdown page per scan, mirroring established metadata/filename conventions;
-4. preserve the source's exact Tamil wording, joins, punctuation and Kalaignar commentary;
-5. mark every new record `needs-review` with direct visual verification pending;
-6. synchronize README/status/handover documents after the batch;
-7. stop after scan 127.
+1. fresh-fetch this `HANDOVER.md`, `works/thirukkural/README.md`, and page records 0107–0113 before writing;
+2. inspect the controlling Part 006 scans 107–113 directly;
+3. compare every Kural, commentary paragraph, title, printed page number and non-text observation against the scan;
+4. correct only differences supported by the source scan — do not modernize or normalize;
+5. when a page matches completely, change `status` to `verified` and update `transcription_method` to document direct visual verification;
+6. if anything remains genuinely unclear, keep that record `needs-review` or `partial` and document the uncertainty instead of guessing;
+7. synchronize repository status/handover documents after the batch;
+8. stop after scan 113.
 
 Do **not** in that activity:
 
-- begin direct visual verification of Part 006;
+- verify scans 114–127;
 - create `AUDIT_PART_006.md`;
 - start English Part 006 translation;
 - begin Part 007 transcription.
 
-After scans 121–127 are transcribed, Part 006 Tamil first-pass will be complete; direct visual verification must begin only as a separate later activity.
+Planned later verification batches, after Batch 1 is complete, are scans **114–120** and then **121–127**. The Part 006 audit must wait until all 21 pages have completed direct visual verification.
