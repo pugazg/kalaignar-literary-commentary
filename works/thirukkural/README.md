@@ -14,12 +14,12 @@
 | 006 | `திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf` | 21 | 107–127 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
 | 007 | `திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf` | 21 | 128–148 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
 | 008 | `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf` | 21 | 149–169 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
-| 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | audited / **ARCHIVAL-READY**; English not started |
+| 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | audited / **ARCHIVAL-READY**; English first-pass **COMPLETE 22/22 `draft`** |
 | 010 | `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf` | 23 | 192–214 | source received; transcription not started |
 
 Tamil Parts **001–009 are archival-ready continuously** through overall scan **191** / printed page **158** / Kural **780**.
 
-English Parts **001–008** are fully released continuously through Kural **670**. Part 009 English has not started.
+English Parts **001–008** are fully released continuously through Kural **670**. Part 009 English now has a complete first pass across all 22 aligned pages and awaits the separate source-check gate.
 
 ## Part 008 — completed baseline
 
@@ -30,7 +30,7 @@ Part 008 English is **RELEASE COMPLETE 21/21**. Review/release artefacts:
 - [`translations/en/reviews/PART_008_REVIEW.md`](translations/en/reviews/PART_008_REVIEW.md)
 - [`translations/en/reviews/PART_008_RELEASE_REPORT.md`](translations/en/reviews/PART_008_RELEASE_REPORT.md)
 
-The source-visible Part 008 structural transition remains preserved as `பொருள் — அரசியல்` → `பொருள் — அமைச்சியல்`, released in English as `Porul — Statecraft` → **`Porul — Ministerial Affairs`**.
+The released Part 008 structural term remains `அமைச்சியல்` → **Ministerial Affairs**.
 
 ## Part 009 Tamil — ARCHIVAL-READY
 
@@ -45,8 +45,6 @@ Final audited scope and state:
 - printed pages: **137–158**;
 - Kural range: **671–780**;
 - chapters: **68–78**;
-- first-pass transcription: **22 / 22 complete**;
-- direct visual verification: **22 / 22 complete**;
 - `verified`: **22 / 22**;
 - `needs-review`: **0**;
 - `partial`: **0**;
@@ -71,57 +69,51 @@ Audit record: [`AUDIT_PART_009.md`](AUDIT_PART_009.md).
 
 ### Source-visible structural transitions — audited
 
-The verified and audited records preserve:
+The Tamil archive preserves:
 
 - scans **170–181**: `பொருள் — அமைச்சியல்`;
-- scan **182 / printed page 149 / Kural 731**: `பொருள் — அரணியல் — நாடு`;
-- scan **186 / printed page 153 / Kural 751**: `பொருள் — கூழியல் — பொருள் செயல்வகை`;
-- scan **188 / printed page 155 / Kural 761**: `பொருள் — படையியல் — படை மாட்சி`;
-- scan **190 / printed page 157 / Kural 771**: `பொருள் — படையியல் — படைச் செருக்கு`.
+- scans **182–185**: `பொருள் — அரணியல்`;
+- scans **186–187**: `பொருள் — கூழியல்`;
+- scans **188–191**: `பொருள் — படையியல்`.
 
-These distinctions are source-visible and must not be flattened in later English work.
+These distinctions must not be flattened in English.
 
-### Direct-verification correction retained
+### Protected Tamil readings entering English work
 
-One real first-pass transcription error was found and corrected from the scan:
+- Kural **717**: `கற்றறிந்தார் கல்வி விளங்கும் கசடறச் / சொற்றெரிதல் முன்னர் இழுக்கு.`
+- Kural **725 commentary**: `தருக்கமென்படும் அளவைக் திறமும்`
+- Kural **733 commentary**: `மளவுக்கு வளம்`
+- Kural **771 commentary**: verified `நடுகல்லாய்ப் போனவர்கள்`.
 
-- scan **190 / Kural 771 commentary**:
-  - first pass: `நடுகல்லைப் போனவர்கள்`
-  - verified/audited source: **`நடுகல்லாய்ப் போனவர்கள்`**.
+## Part 009 English — FIRST-PASS COMPLETE
 
-### Source-sensitive readings — verified and protected
+All **22 / 22** aligned English page records now exist under `translations/en/pages/` for scans **170–191 / printed pages 137–158 / Kural 671–780**.
 
-The audit confirms three forms that must not be silently normalized:
+Current status:
 
-1. scan **179 / Kural 717**:
-   `கற்றறிந்தார் கல்வி விளங்கும் கசடறச் / சொற்றெரிதல் முன்னர் இழுக்கு.`
-2. scan **180 / Kural 725 commentary**:
-   `தருக்கமென்படும் அளவைக் திறமும்`
-3. scan **182 / Kural 733 commentary**:
-   `மளவுக்கு வளம்`
+- `draft`: **22 / 22**;
+- `source-checked`: **0**;
+- `editorial-reviewed`: **0**;
+- `release-ready`: **0**;
+- `source-limited`: **0**;
+- `blocked`: **0**.
+
+Every record is explicitly a `project_translation`, points to a verified Tamil basis, and remains at the first-pass gate.
+
+First-pass chapter headings are **The Method of Action**, **The Envoy**, **Conduct in the Presence of Kings**, **Understanding Signs (Porul)**, **Knowing the Assembly**, **Fearlessness in the Assembly**, **The Country**, **Fortress**, **The Way of Acquiring Wealth**, **Excellence of the Army**, and **Martial Pride**.
+
+The already controlled `அமைச்சியல்` remains **Ministerial Affairs**. Newly encountered structural labels are provisional in first-pass metadata as `அரணியல்` → **Fortification Affairs**, `கூழியல்` → **Wealth**, and `படையியல்` → **Military Affairs**. They are not final glossary decisions until the later editorial consistency / glossary reconciliation gate.
+
+The drafts deliberately retain Kalaignar's direct images and government/public-life vocabulary. Kural 717, Kural 725 commentary, Kural 733 commentary and Kural 771 commentary carry the audited source-sensitive basis rather than normalized or external-edition substitutes.
 
 ### Adjacent source continuity
 
-- Part 008 ends at printed page **136** / Kural **670** and Part 009 begins at printed page **137** / Kural **671**.
-- Part 009 ends at printed page **158** / Kural **780**.
-- Direct inspection of the supplied Part 010 first page confirms printed page **159**, chapter `79. நட்பு`, beginning Kural **781**.
-
-Thus the supplied sequence is continuous across both Part 009 boundaries. Part 010 remains untranscribed.
-
-## English project translation layer
-
-The English layer is a **project-created translation**, not a publisher/official English edition. Tamil scans remain the ultimate authority; audited Tamil Markdown pages are the working translation basis.
-
-Permanent rule: retain Kalaignar's language, images and interpretive direction rather than replacing them with familiar standard interpretations.
-
-English Parts **001–008** are **RELEASE COMPLETE** through Kural **670**. Part 009 is now eligible for English translation because its Tamil archival audit has passed.
+Part 009 ends at printed page **158** / Kural **780**. The supplied Part 010 first page was previously inspected only for boundary continuity and begins at printed page **159**, chapter `79. நட்பு`, Kural **781**. Part 010 remains untranscribed.
 
 ## அடுத்த செயல்
 
-Begin the separate **Part 009 English project translation — first pass** for all **22 aligned pages**, scans **170–191 / printed pages 137–158 / Kural 671–780**.
+Perform the separate **Part 009 English direct source-check** across all **22 `draft` pages**, scans **170–191 / printed pages 137–158 / Kural 671–780**.
 
-Before writing, read `translations/en/TRANSLATION_GUIDE.md`, `translations/en/GLOSSARY.md`, `translations/en/TRANSLATION_STATUS.md`, `translations/en/reviews/PART_008_REVIEW.md`, and `translations/en/reviews/PART_008_RELEASE_REPORT.md`.
+Compare each Kural translation and Kalaignar commentary translation against the audited Tamil page; verify metadata/alignment and the four protected source-sensitive readings; document substantive corrections; and promote only passing records to `source-checked`.
 
-Create aligned English pages as `draft` only. Preserve Kalaignar's wording, direct images, institutional/social vocabulary, chapter/section distinctions and the Part 009 source-sensitive readings documented in `AUDIT_PART_009.md`. Stop before English source-check, editorial review or release.
-
-Do **not** begin Part 010 Tamil transcription during the Part 009 English first-pass activity unless the user explicitly changes the sequence.
+Do **not** combine source-check with editorial/glossary review or release. Do **not** begin Part 010 Tamil transcription during the same activity.
