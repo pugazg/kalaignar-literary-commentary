@@ -32,14 +32,14 @@ Permanent protected decisions from earlier released parts remain binding, includ
 | Part 009 | 170–191 | **ARCHIVAL-READY** | **RELEASE-READY — 22/22** |
 | Part 010 | 192–214 | **ARCHIVAL-READY — 23/23 verified** | **RELEASE-READY — 23/23** |
 | Part 011 | 215–237 | **ARCHIVAL-READY — 23/23 verified** | **RELEASE-READY — 23/23** |
-| Part 012 | 238–260 | **FIRST-PASS COMPLETE — 23/23 needs-review; verification pending** | **NOT STARTED — not eligible until Tamil audit passes** |
+| Part 012 | 238–260 | **DIRECT VERIFICATION COMPLETE — 23/23 verified; audit pending** | **NOT STARTED — not eligible until Tamil audit passes** |
 | Part 013 | 261–282 | source received; not started | not started |
 | Part 014 | 283–302 | source received; not started | not started |
 | Part 015 | 303–323 | source received; not started | not started |
 
 Tamil Parts **001–011 are archival-ready continuously through overall scan 237 / printed page 204 / Kural 1010**.
 
-Part 012 has a complete first-pass Tamil page layer through overall scan **260 / printed page 227 / Kural 1115**, but it is **not archival-ready** until direct verification and the later audit pass.
+Part 012 now has a fully direct-verified Tamil page layer through overall scan **260 / printed page 227 / Kural 1115**, but it is **not archival-ready** until the separate Tamil audit passes.
 
 English Parts **001–011 are fully released continuously through Kural 1010**. No Part 012 English record has been created.
 
@@ -69,7 +69,7 @@ Part 011 released scope is **23 / 23** aligned pages, scans **215–237**, print
 
 Released Part 011 controls remain binding, including the `Friendship → Civic Life` structural transition, all six direct source-check corrections, Kural 939 **fame**, Kural 899 **oppressive government**, Kural 948 **social disease**, Kural 966 **nonexistent heaven**, the unusual audited Kural 971 basis, Kural 972's equality-by-birth formulation, Kural 985/1008 source punctuation, Kural 1001's house-filling wealth image, and the direct imagery documented in the Part 011 review/release report.
 
-## Part 012 Tamil basis — FIRST PASS ONLY
+## Part 012 Tamil basis — DIRECT VERIFIED, AUDIT PENDING
 
 Controlling source: `திருக்குறள்_கலைஞர்_உரை_part_012_pages_238-260.pdf`
 
@@ -77,12 +77,12 @@ Current Tamil state:
 
 - physical records: **23 / 23**;
 - scans: **238–260**;
-- first-pass `needs-review`: **23 / 23**;
-- `verified`: **0 / 23**;
+- `verified`: **23 / 23**;
+- `needs-review`: **0**;
 - audit: **not started**;
-- English eligibility: **no**.
+- English eligibility: **no**, pending audit.
 
-The first-pass source structure is recorded as:
+Directly verified source structure:
 
 - scans **238–251**: `பொருள் — குடியியல்`, Kural **1011–1080**;
 - scan **252**: `இன்பம்` section-title leaf;
@@ -91,15 +91,22 @@ The first-pass source structure is recorded as:
 
 The incoming source boundary passes at printed page **204 → 205 / Kural 1010 → 1011**. Part 012's printed pagination runs **205–218**, then resumes at **221–227** after the two unnumbered section leaves. Chapter 112 begins on scan 260 and continues beyond this source unit; the first supplied Part 013 page shows printed page **228 / Kural 1116**, but no Part 013 transcription has been started.
 
-Because Part 012 has not yet passed direct visual verification and audit, **do not begin English first-pass translation**.
+Verification corrected three first-pass readings in Kalaignar's commentary: Kural **1018** now ends `அகன்றுவிட்டதாகக் கருத வேண்டும்.`, Kural **1035** has `ஊதியம் பெற்று உண்ணும் இயல்புடையவர்`, and Kural **1048** has `கொலை செய்வதுபோல நேற்று...`.
+
+Two unusual verse readings were directly confirmed from the scan and remain protected for future English work:
+
+- Kural **1077**: `ஈங்கை விதிரார் கயவர் கொடிறுடைக்குங் / கூன்கையர் அல்லா தவர்க்கு.`
+- Kural **1098**: `அசையியற் குண்டாண்டோர் ஏஎர்யான் நோக்கப் / பசையினள் பைய நகும்.`
+
+Because Part 012 has not yet passed its separate Tamil audit, **do not begin English first-pass translation**.
 
 ## Exact next activity
 
-**Part 012 Tamil direct visual verification — all 23 physical pages, scans 238–260.**
+**Part 012 Tamil audit / archival-ready gate.**
 
-Verify every Tamil record directly against the controlling scan and promote only passing records to `verified`. Record every real correction, including source-sensitive or unusual printed forms, without normalizing them from memory or another edition.
+The audit must verify the complete 23-page manifest, scan/local-page continuity, printed-page and Kural continuity, structural transitions, title/blank leaves, adjacent-part boundaries, and all verification corrections. Only after an explicit `AUDIT_PART_012.md` PASS may Part 012 English first-pass translation begin.
 
-Do not combine this gate with `AUDIT_PART_012.md`, Part 012 English work, or Part 013 transcription.
+Do not combine the audit gate with Part 012 English work or Part 013 transcription.
 
 Permanent cadence:
 
