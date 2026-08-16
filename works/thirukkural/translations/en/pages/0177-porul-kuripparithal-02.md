@@ -3,10 +3,10 @@ source_scan_page: 177
 source_tamil_file: "../../../pages/0177-porul-kuripparithal-02.md"
 printed_page: "144"
 work: "thirukkural"
-section: "Porul — Ministerial Affairs — Understanding Signs (Porul)"
+section: "Porul — Ministerial Affairs — Understanding Signs"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
