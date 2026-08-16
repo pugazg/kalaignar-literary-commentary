@@ -16,13 +16,12 @@ Before making any change:
 2. read `LITERARY_COMMENTARY_PROCESSING_GUIDE.md` completely;
 3. read this `HANDOVER.md` completely;
 4. read `works/thirukkural/README.md`;
-5. for English work, additionally read:
+5. inspect the existing target files before creating or updating anything;
+6. for later English work, additionally read:
    - `works/thirukkural/translations/en/TRANSLATION_GUIDE.md`;
    - `works/thirukkural/translations/en/GLOSSARY.md`;
    - `works/thirukkural/translations/en/TRANSLATION_STATUS.md`;
-   - `works/thirukkural/translations/en/reviews/PART_008_REVIEW.md`;
-   - `works/thirukkural/translations/en/reviews/PART_007_RELEASE_REPORT.md` as the previous completed release model;
-6. inspect the existing target files before creating or updating anything.
+   - the latest completed review/release artefacts, currently `PART_008_REVIEW.md` and `PART_008_RELEASE_REPORT.md`.
 
 The repository state is authoritative for workflow status.
 
@@ -78,9 +77,9 @@ Part 008 audit record:
 
 ## English project translation
 
-Parts **001–007 are fully released** through Kural **565**.
+Parts **001–008 are fully released** continuously through Kural **670**.
 
-Released Parts 001–007 must not be revised merely because Part 008 introduces similar terminology. Any project-wide change must be deliberate, source-supported and documented.
+Released Parts 001–008 must not be revised merely because later parts introduce similar terminology. Any project-wide change must be deliberate, source-supported and documented.
 
 # Part 008 Tamil — COMPLETE / ARCHIVAL-READY
 
@@ -104,7 +103,7 @@ Tamil state:
 - `blocked`: **0**;
 - Tamil audit: **PASS / ARCHIVAL-READY**.
 
-## Part 008 chapter coverage
+Part 008 chapter coverage:
 
 - chapter 57 `வெருவந்த செய்யாமை` — Kural 566–570 in this part, completing the chapter;
 - chapter 58 `கண்ணோட்டம்` — 571–580;
@@ -122,11 +121,9 @@ The source-visible structural transition at scan **162 / printed page 129 / Kura
 
 `பொருள் — அரசியல்` → **`பொருள் — அமைச்சியல் — அமைச்சு`**.
 
-# Part 008 English — EDITORIAL REVIEW COMPLETE
+# Part 008 English — RELEASE COMPLETE
 
-All **21 / 21** aligned Part 008 English page records exist under:
-
-`works/thirukkural/translations/en/pages/`
+All **21 / 21** aligned Part 008 English page records are now `release-ready`.
 
 Scope:
 
@@ -134,22 +131,21 @@ Scope:
 - printed pages **116–136**;
 - Kural **566–670**.
 
-Current English status:
+Final English status:
 
 - `draft`: **0**;
 - `source-checked`: **0**;
-- `editorial-reviewed`: **21 / 21**;
-- `release-ready`: **0**;
+- `editorial-reviewed`: **0**;
+- `release-ready`: **21 / 21**;
 - `source-limited`: **0**;
 - `blocked`: **0**.
 
-Editorial review artefact:
+Completed artefacts:
 
-`works/thirukkural/translations/en/reviews/PART_008_REVIEW.md`
+- `works/thirukkural/translations/en/reviews/PART_008_REVIEW.md`
+- `works/thirukkural/translations/en/reviews/PART_008_RELEASE_REPORT.md`
 
-The global English glossary has been extended through Part 008.
-
-## Controlled Part 008 main-body headings
+## Released Part 008 main-body headings
 
 - 57 `வெருவந்த செய்யாமை` → **Avoiding Acts that Cause Fear**;
 - 58 `கண்ணோட்டம்` → **Compassion**;
@@ -163,86 +159,83 @@ The global English glossary has been extended through Part 008.
 - 66 `வினைத் தூய்மை` → **Purity in Action**;
 - 67 `வினைத்திட்பம்` → **Firmness in Action**.
 
-Chapter 57 carries forward the controlled Part 007 wording. Headings 58–67 are now controlled from Part 008 main-body context.
+## Released structural term
 
-## Controlled structural term
+The English metadata transition is controlled and released as:
 
-The Part 008 editorial review establishes:
+`Porul — Statecraft` → **`Porul — Ministerial Affairs`**
 
-`அமைச்சியல்` → **Ministerial Affairs**
+with `அமைச்சியல்` → **Ministerial Affairs**.
 
-so the English metadata transition is controlled as:
+## Part 008 protected decisions now released
 
-`Porul — Statecraft` → **`Porul — Ministerial Affairs`**.
+Retain these if any future comparison or project-wide review is proposed:
 
-This preserves the explicit source distinction from `அரசியல்` / **Statecraft** and is broad enough for the minister, counsel, eloquence and action chapters in this section.
+- Kural **570** — institutional **tyrannical government** making the uneducated its supporting strength;
+- Kural **579** — **“those whose nature is to seek one's destruction”**;
+- Kural **589** — three spies working without knowing one another before agreement among reports is accepted;
+- Kural **606 commentary** — **“the recipients of the affection”**;
+- Kural **610** — Kalaignar's **untiring ruler** explanation, without external mythological reconstruction;
+- Kural **615** — **relatives, friends and all the people of his country**;
+- Kural **617** — **Thirumagal / Moodevi** only as Kalaignar explains them here;
+- Kural **618** — rejection of blaming the result of **fate** instead of failure to act;
+- Kural **619** — direct **“God!”** line and effort/labour framing;
+- Kural **620** — **Oozh** and the statement that tireless effort can make even Oozh suffer defeat;
+- Kural **626** — clarified failure to guard what had been gained;
+- Kural **627** — **“do not respond to it with distress”**, with no unsupported “helpless refuge” idea;
+- Kural **632** — **council of ministers**, protection of **citizens**, books of aram, practical knowledge and tireless effort;
+- Kural **638** — no unsupported insertion of “ruler / those in authority”;
+- Kural **639** — **seventy crore** enemies;
+- Kural **641** — **“The excellence called eloquence ...”**;
+- Kural **644** — **“equal to”**, not “greater than”;
+- Kural **659** — wealth gathered by making others weep disappearing amid weeping;
+- Kural **660** — **unbaked clay pot** image;
+- Kural **667** — small **linchpin / great chariot** comparison.
 
-## Six source-check corrections — protect these
+Kural **602** also retains the editorial wording **“must reject laziness and conduct themselves without it.”**
 
-1. Kural **579** — **“those whose nature is to seek one's destruction”**, not the weaker first-pass “those disposed to punish”;
-2. Kural **606 commentary** — **“the recipients of the affection”**, avoiding an unsupported merit judgement;
-3. Kural **626** — retain the clarified failure to guard what had been gained;
-4. Kural **627** — do not restore the unsupported “helpless refuge” idea;
-5. Kural **638** — do not reinsert the unsupported “ruler / those in authority” wording;
-6. Kural **644** — retain **“equal to”**, not “greater than.”
+# Part 009 source — RECEIVED, NOT YET TRANSCRIBED
 
-## Three editorial readability refinements — protect these
+Expected source:
 
-1. scan **156 / Kural 602 verse**:
-   - **“must reject laziness and conduct themselves without it”**;
-2. scan **161 / Kural 627 verse**:
-   - **“do not respond to it with distress”**;
-3. scan **164 / Kural 641 verse**:
-   - **“The excellence called eloquence ...”**.
+`திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf`
 
-No other substantive body-text change was made during the editorial review.
+Known intake boundary from the completed Part 008 work:
 
-## Part 008 source-sensitive decisions retained through editorial review
+- overall scan **170** follows scan 169;
+- expected printed page **137** follows printed page 136;
+- expected Kural **671** follows Kural 670;
+- expected chapter at the opening boundary: **68. வினை செயல்வகை**.
 
-Protect these during release:
-
-- **Kural 570** — institutional **tyrannical government** making the uneducated its supporting strength;
-- **Kural 589** — three spies working without knowing one another before agreement among their reports is accepted;
-- **Kural 610** — Kalaignar's **untiring ruler** explanation; do not import an external mythological reconstruction;
-- **Kural 615** — **relatives, friends and all the people of his country**;
-- **Kural 617** — **Thirumagal / Moodevi** as Kalaignar explains them, without outside doctrine;
-- **Kural 618** — rejection of blaming the result of **fate** instead of failure to act;
-- **Kural 619** — direct **“God!”** line and effort/labour framing;
-- **Kural 620** — **Oozh** and Kalaignar's claim that tireless effort can make even Oozh suffer defeat;
-- **Kural 632** — **council of ministers**, protection of **citizens**, books of aram, practical knowledge and tireless effort;
-- **Kural 639** — **seventy crore** enemies;
-- **Kural 659** — wealth gathered by making others weep disappearing amid weeping;
-- **Kural 660** — **unbaked clay pot** image;
-- **Kural 667** — small **linchpin / great chariot** comparison.
+These are boundary expectations. The actual Part 009 scan must be inspected before creating or changing Tamil page records; do not rely only on filename or prior notes.
 
 # Exact next activity
 
-Perform the separate **Part 008 English release gate** for all **21 editorial-reviewed pages**, scans **149–169 / printed pages 116–136 / Kural 566–670**.
+Perform the separate **Part 009 Tamil first-pass transcription**.
 
 ## Required procedure
 
-1. fresh-read this handover, `TRANSLATION_STATUS.md`, `GLOSSARY.md`, `PART_008_REVIEW.md` and the previous `PART_007_RELEASE_REPORT.md`;
-2. confirm all 21 Part 008 English pages are `editorial-reviewed` before release;
-3. verify continuous scan numbering **149–169**, printed pages **116–136**, Kural numbering **566–670**, and exact English/Tamil filename alignment;
-4. confirm chapter headings 57–67 are consistent with the controlled Part 008 glossary entries;
-5. confirm the metadata transition `Porul — Statecraft` → `Porul — Ministerial Affairs` occurs at scan 162 and remains consistent thereafter;
-6. confirm all six source-check corrections and three editorial readability refinements remain intact;
-7. confirm no Part 008 page remains `draft`, `source-checked`, `source-limited` or `blocked`;
-8. create `works/thirukkural/translations/en/reviews/PART_008_RELEASE_REPORT.md` only if all release checks pass;
-9. after a PASS decision is recorded, promote all 21 pages from `editorial-reviewed` to `release-ready`;
-10. synchronize the English status, English README, work README, root README and this handover;
-11. stop at the end of the Part 008 release gate.
+1. inspect the actual supplied Part 009 PDF scan first;
+2. verify source identity, physical page count, printed-page range, Kural range, chapter transitions and running-header structure from the scan itself;
+3. confirm the Part 008 → Part 009 boundary from scan 169 / printed page 136 / Kural 670 into the actual first Part 009 page;
+4. inspect existing `works/thirukkural/pages/` records and continue any existing Part 009 work rather than creating duplicates;
+5. create/update one Tamil Markdown record for every Part 009 physical scan page in source order;
+6. first-pass body pages must remain `status: "needs-review"` and identify that direct visual verification is pending;
+7. preserve source-supported Tamil spelling, punctuation, joins, Kural numbers, two-line verse structure, commentary wording, printed-page metadata and running headers exactly;
+8. distinguish printed text from stamps, handwriting, damage, bleed-through or scanner artefacts;
+9. update page-map/source metadata/readmes/handover as required by the repository workflow;
+10. stop at the end of the **first-pass transcription gate**.
 
-## Do not start alongside the Part 008 release gate unless explicitly requested
+## Do not start alongside Part 009 first pass unless explicitly requested
 
 Do **not**:
 
-- begin Part 009 Tamil transcription;
-- alter released English Parts 001–007;
-- make new substantive translation changes during release unless a genuine release blocker is found and documented first.
+- mark Part 009 pages `verified` during first pass;
+- perform the Part 009 direct visual verification gate;
+- create the Part 009 Tamil audit;
+- begin Part 009 English translation;
+- alter released English Parts 001–008.
 
-# After Part 008 English release
+# After Part 009 first pass
 
-If the release gate passes, the next separate activity is **Part 009 Tamil first-pass transcription**, beginning from overall scan **170 / printed page 137 / Kural 671**, chapter 68 `வினை செயல்வகை`, unless the user explicitly changes the order.
-
-Part 009 source has been supplied/received, but **Part 009 transcription is not active yet**.
+The next separate activity will be **Part 009 Tamil direct visual verification**, followed later by the separate Tamil audit and only then the English workflow.
