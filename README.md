@@ -6,7 +6,7 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–006 **ARCHIVAL-READY** through Kural 460; Parts 007–010 source received |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–006 **ARCHIVAL-READY** through Kural 460; Part 007 first-pass in progress; Parts 008–010 source received |
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–006 **released through Kural 460** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
@@ -28,15 +28,14 @@ The project translation follows an explicit fidelity rule: **retain Kalaignar's 
 
 ## தற்போதைய நிலை — திருக்குறள்
 
-Tamil Parts **001–006** are archival-ready through overall scan **127** / printed page **94** / Kural **460**. Parts 007–010 are received but remain source-intake only.
+Tamil Parts **001–006** are archival-ready through overall scan **127** / printed page **94** / Kural **460**.
 
-English Parts **001–006** have completed their full release workflow through Kural **460**. Part 006 release is documented in:
+Part **007** Tamil first-pass transcription has begun. The opening **7 / 21** scan records now exist for overall scans **128–134 / printed pages 95–101 / Kural 461–495**, covering chapters `தெரிந்து செயல்வகை`, `வலியறிதல்`, `காலமறிதல்`, and the beginning of `இடனறிதல்`. All seven remain `needs-review`; direct verification has not begun.
 
-- `works/thirukkural/translations/en/reviews/PART_006_REVIEW.md`
-- `works/thirukkural/translations/en/reviews/PART_006_RELEASE_REPORT.md`
+Part **008** has also been newly supplied and begins at printed page **116 / Kural 566**, confirming continuity after Part 007. It has not been transcribed.
 
-The Part 006 English release retains Kalaignar's language and source-sensitive interpretation, including **Oozh** and **natural condition** rather than substituting a conventional fate/destiny reading.
+English Parts **001–006** have completed their full release workflow through Kural **460**. English Part 007 must wait until Tamil transcription, direct verification and audit are complete.
 
-The next activity is **Part 007 Tamil first-pass transcription**, starting at scan **128** / printed page **95** / Kural **461**. English Part 007 must wait until its Tamil transcription, direct verification and audit are complete.
+The next activity is **Part 007 Tamil first-pass batch 2**, beginning at scan **135 / printed page 102 / Kural 496**.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), and [`HANDOVER.md`](HANDOVER.md).
