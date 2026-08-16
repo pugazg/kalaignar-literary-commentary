@@ -6,10 +6,10 @@ printed_page: "136"
 work: "thirukkural"
 section: "பொருள் — அமைச்சியல் — வினைத்திட்பம்"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **666. எண்ணிய எண்ணியாங் கெய்துப எண்ணியார்  
