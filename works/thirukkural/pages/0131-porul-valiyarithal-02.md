@@ -6,10 +6,10 @@ printed_page: "98"
 work: "thirukkural"
 section: "பொருள் — அரசியல் — வலியறிதல்"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **476. நுனிக்கொம்பர் ஏறினார் அஃதிறந் தூக்கின்  
