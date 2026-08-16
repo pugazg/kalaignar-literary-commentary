@@ -22,7 +22,7 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 | Part 003 | 42–62 | archival-ready | **RELEASE-READY — 21/21** |
 | Part 004 | 63–84 | archival-ready | **RELEASE-READY — 22/22** |
 | Part 005 | 85–106 | archival-ready | **RELEASE-READY — 22/22** |
-| Part 006 | 107–127 | Tamil first-pass 21/21 complete; direct verification **21/21 complete**; audit pending | not started — wait for Tamil audit |
+| Part 006 | 107–127 | **ARCHIVAL-READY — 21/21 verified; audit passed** | eligible; first-pass not started |
 | Part 007 | 128–148 | source received; transcription not started | not started |
 | Part 008 | 149–169 | source received; transcription not started | not started |
 | Part 009 | 170–191 | source received; transcription not started | not started |
@@ -54,7 +54,7 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 
 # Parts 001–005 English release — COMPLETE
 
-The project-created English translation has completed its release workflow through Kural **365**, matching all Tamil material that has completed archival verification/audit so far.
+The project-created English translation has completed its release workflow through Kural **365**.
 
 Latest release artefacts:
 
@@ -63,23 +63,19 @@ Latest release artefacts:
 - [`reviews/PART_005_REVIEW.md`](reviews/PART_005_REVIEW.md)
 - [`reviews/PART_005_RELEASE_REPORT.md`](reviews/PART_005_RELEASE_REPORT.md)
 
-Part 005 release covers scans **85–106 / printed pages 52–73 / Kural 256–365** and retains all previously documented source-sensitive decisions.
+## Part 006 Tamil prerequisite — SATISFIED
 
-## Newly supplied Tamil source — English intentionally paused
+Part 006 Tamil scans **107–127 / Kural 366–460** have completed transcription, direct visual verification and part-level audit. The release decision is **ARCHIVAL-READY** in [`../../AUDIT_PART_006.md`](../../AUDIT_PART_006.md).
 
-Tamil Parts **006–010** have been supplied and direct source intake confirms continuous material through overall scan **214** / printed page **181** / Kural **895**.
+English Part 006 may therefore begin as a separate page-aligned first-pass translation activity.
 
-English translation does **not** begin merely because those PDFs are available. The permanent prerequisite remains:
-
-**complete Tamil transcription → direct visual verification → Tamil part audit / archival-ready → English draft.**
-
-Part 006 Tamil first-pass transcription and direct visual verification are now both **21 / 21 complete**, scans **107–127 / Kural 366–460**, with no unresolved Tamil pages. The Part 006 audit has not yet been performed, so no Part 006 English pages should yet be created.
+A source-sensitive requirement is especially important for chapter 38 `ஊழ்`: Kalaignar repeatedly explains it through **`இயற்கை நிலை`**. The English must translate Kalaignar's actual explanation rather than silently replacing it with a conventional fate/destiny interpretation.
 
 ## Next exact activity
 
-Continue the Tamil archival workflow, not English translation: perform the **Part 006 Tamil audit / archival-ready decision** for scans **107–127 / Kural 366–460**.
+Begin **Part 006 English project translation first-pass only**, covering scans **107–127 / Kural 366–460**, with one English page mirroring each verified Tamil page filename.
 
-Only after that audit passes may English Part 006 begin with a separate first-pass activity.
+Do not begin Part 007 Tamil transcription in the same activity.
 
 Permanent cadence:
 
