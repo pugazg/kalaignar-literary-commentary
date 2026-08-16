@@ -36,57 +36,45 @@ Permanent workflow:
 
 Latest released artefacts:
 
-- Part 010 Tamil audit: [`../../AUDIT_PART_010.md`](../../AUDIT_PART_010.md) — **PASS / ARCHIVAL-READY**;
 - Part 010 editorial review: [`reviews/PART_010_REVIEW.md`](reviews/PART_010_REVIEW.md);
 - Part 010 release report: [`reviews/PART_010_RELEASE_REPORT.md`](reviews/PART_010_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
 
 Released Parts 001–010 must not be changed merely to harmonize later wording.
 
-Released Part 010 structural vocabulary includes `நட்பியல்` → **Friendship**, and chapter 90 `பெரியாரைப் பிழையாமை` → **Not Offending the Great**.
-
 ## Part 011 Tamil basis — ARCHIVAL-READY
 
 Tamil audit: [`../../AUDIT_PART_011.md`](../../AUDIT_PART_011.md) — **PASS / ARCHIVAL-READY**.
 
-Part 011 Tamil scope:
+Part 011 scope:
 
-- **23 / 23** verified pages;
+- **23 / 23** verified Tamil pages;
 - scans **215–237**;
 - printed pages **182–204**;
 - Kural **896–1010**;
 - chapters **90–101**;
-- no unresolved Tamil record.
+- unresolved Tamil records: **0**.
 
-## Part 011 English — DIRECT SOURCE-CHECK COMPLETE
+## Part 011 English — EDITORIAL REVIEW COMPLETE
 
-All **23 / 23** page-aligned English records for scans **215–237 / printed pages 182–204 / Kural 896–1010** are now `source-checked`.
+Editorial review: [`reviews/PART_011_REVIEW.md`](reviews/PART_011_REVIEW.md).
+
+All **23 / 23** aligned English records are now `editorial-reviewed`.
 
 Current state:
 
 - `draft`: **0**;
-- `source-checked`: **23 / 23**;
-- `editorial-reviewed`: **0**;
+- `source-checked`: **0**;
+- `editorial-reviewed`: **23 / 23**;
 - `release-ready`: **0**;
 - `source-limited`: **0**;
 - `blocked`: **0**.
 
-Every Part 011 page carries:
+The source structural transition is controlled as:
 
-```yaml
-translation_type: "project_translation"
-status: "source-checked"
-source_tamil_status: "verified"
-translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
-```
+- scans **215–225**: `நட்பியல்` → **Friendship**;
+- from scan **226 / printed page 193**: `குடியியல்` → **Civic Life**.
 
-The source structural transition remains visible:
-
-- scans **215–225** use the already controlled `நட்பியல்` → **Friendship**;
-- from scan **226 / printed page 193 / chapter 96 குடிமை**, the current source-checked text retains provisional `குடியியல்` → **Civic Life**.
-
-Scan 215 continues the released chapter 90 heading **Not Offending the Great**.
-
-Current chapter headings 91–101 remain provisional until editorial/glossary reconciliation:
+Controlled Part 011 chapter headings are:
 
 - 91 `பெண்வழிச் சேறல்` → **Following a Woman's Lead**;
 - 92 `வரைவின் மகளிர்` → **Women Beyond Bounds**;
@@ -100,31 +88,20 @@ Current chapter headings 91–101 remain provisional until editorial/glossary re
 - 100 `பண்புடைமை` → **Good Character**;
 - 101 `நன்றியில் செல்வம்` → **Wealth Without Benefit**.
 
-`GLOSSARY.md` was deliberately **not** changed during source-check.
+Chapter 90 continues the already released **Not Offending the Great**.
 
-### Source-check corrections
+All six direct source-check corrections remain intact: Kural 911 **bring suffering**, Kural 926's correct sleepers/dead and liquor/poison line relationship, Kural 953 **truthful citizens**, Kural 961 without the unsupported phrase attached to “indispensable,” Kural 989 with the all-seas image commentary-only, and Kural 1006 with the person as **a disease upon his great wealth**.
 
-Six substantive source-fidelity corrections/refinements were made:
+Editorial review made one additional source-led refinement: Kural **939** now uses **fame** rather than **honour** in the Kural's five-item list, matching Kalaignar's adjacent `புகழும்` explanation.
 
-1. Kural **911**: **bring ruin** → **bring suffering**;
-2. Kural **926**: restored sleepers/dead to the first line and liquor/poison to the second;
-3. Kural **953**: **true nobility** → **truthful citizens**, following Kalaignar's `வாய்மையுள்ள குடிமக்கள்`;
-4. Kural **961**: removed unsupported **to one's distinction** from “indispensable”;
-5. Kural **989**: removed the commentary-only all-seas-overturning image from the Kural itself, while retaining it in Kalaignar's commentary;
-6. Kural **1006**: corrected the subject so the miser is **a disease upon his great wealth**, not the wealth a disease to him.
-
-No other substantive first-pass change was required.
-
-### Source-sensitive treatments retained
-
-The source-check retains Kalaignar's **oppressive government** framing at Kural 899, `பாகுமொழிபேசும்` as sugar-sweet speech at 912, the fish/bait/iron-hook image at 931, the **social disease** extension at 948, the rationalist **“nonexistent heaven”** question at 966, the unusual audited Kural 971 basis, the explicit equality formulation at 972, the source punctuation at 985 and 1008, and the house-filling wealth image at 1001.
+Protected source-sensitive treatments remain unchanged, including Kural 899's **oppressive government**, Kural 948's **social disease**, Kural 966's **nonexistent heaven** question, the unusual audited Kural 971 wording, Kural 972's **Everyone is equal by birth** formulation, and the source punctuation at Kural 985 and 1008.
 
 No Kural **1011** or later English text has been created or inferred.
 
 ## Next project activity
 
-Perform **Part 011 English editorial consistency / glossary reconciliation** for all **23 `source-checked` pages**.
+Perform the separate **Part 011 English release gate** for all **23 `editorial-reviewed` pages**.
 
-Finalize `குடியியல்` and chapter headings **91–101**, update `GLOSSARY.md`, create `reviews/PART_011_REVIEW.md`, reconcile recurring terminology/readability without weakening Kalaignar's language, and promote passing pages only to `editorial-reviewed`.
+Check final one-to-one alignment for scans **215–237 / printed pages 182–204 / Kural 896–1010**, create `reviews/PART_011_RELEASE_REPORT.md`, and promote pages to `release-ready` only if the release gate passes.
 
-Do **not** perform the release gate in the same activity and do not modify released Parts 001–010 merely to harmonize later wording.
+Do not combine that gate with later Tamil source work and do not modify released Parts 001–010.
