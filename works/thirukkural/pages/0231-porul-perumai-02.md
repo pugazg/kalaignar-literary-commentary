@@ -6,10 +6,10 @@ printed_page: "198"
 work: "thirukkural"
 section: "பொருள் — குடியியல் — பெருமை"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_011_pages_215-237.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **976. சிறியார் உணர்ச்சியுள் இல்லை பெரியாரைப்  
