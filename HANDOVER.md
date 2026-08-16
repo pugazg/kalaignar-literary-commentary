@@ -44,7 +44,7 @@ Do not revise released English merely because later work introduces similar voca
 
 | Part | Overall scans | Printed-page span visible in source | Kural span confirmed from source | State |
 |---|---:|---:|---:|---|
-| 006 | 107–127 | 74–94 | 366–460 | first-pass 21/21 complete; verification **14/21** through scan 120 |
+| 006 | 107–127 | 74–94 | 366–460 | first-pass 21/21 complete; direct verification **21/21 complete**; audit pending |
 | 007 | 128–148 | 95–115 | 461–565 | source received; not started |
 | 008 | 149–169 | 116–136 | 566–670 | source received; not started |
 | 009 | 170–191 | 137–158 | 671–780 | source received; not started |
@@ -52,9 +52,9 @@ Do not revise released English merely because later work introduces similar voca
 
 The supplied source is directly continuous from the previously archived Kural **365** and reaches overall scan **214** / printed page **181** / Kural **895**.
 
-These are source-intake boundaries only. Parts 006–010 are **not** archival-ready merely because the PDFs have been received.
+These are source-intake boundaries only. Parts 007–010 are **not** archival-ready merely because the PDFs have been received. Part 006 is also not archival-ready until its separate audit is completed.
 
-# Part 006 Tamil — VERIFICATION IN PROGRESS
+# Part 006 Tamil — DIRECT VERIFICATION COMPLETE; AUDIT PENDING
 
 Source:
 
@@ -62,15 +62,21 @@ Source:
 
 Physical pages: **21** / overall scans **107–127**.
 
-First-pass transcription: **21 / 21 complete**.
+Current state:
 
-Current direct-verification state:
-
-- `verified`: **14 / 21** — scans 107–120;
-- `needs-review`: **7 / 21** — scans 121–127;
+- first-pass transcription: **21 / 21 complete**;
+- `verified`: **21 / 21** — scans 107–127;
+- `needs-review`: **0**;
 - `partial`: **0**;
 - `blocked`: **0**;
 - Part 006 audit: **not started**.
+
+Every Part 006 record now uses:
+
+- `status: "verified"`;
+- `transcription_method: "direct visual comparison with source scan"`.
+
+No unresolved Tamil text remains in Part 006.
 
 ## Verification Batch 1 — COMPLETE
 
@@ -95,13 +101,12 @@ Directly verified against the controlling scan:
 4. `works/thirukkural/pages/0110-porul-title.md`
    - scan 110;
    - source-visible section title `பொருள்`;
-   - no printed page numeral is visible;
-   - reverse-side bleed-through is not body text.
+   - no printed page numeral is visible.
 
 5. `works/thirukkural/pages/0111-blank.md`
    - scan 111;
    - blank reverse of the `பொருள்` title leaf;
-   - only reverse-side bleed-through is visible and is not transcribed as body text.
+   - reverse-side bleed-through is not body text.
 
 6. `works/thirukkural/pages/0112-porul-iraimaatchi-01.md`
    - scan 112 / printed 79;
@@ -113,77 +118,57 @@ Directly verified against the controlling scan:
 
 ## Verification Batch 2 — COMPLETE
 
-Directly verified against the controlling scan:
-
-8. `works/thirukkural/pages/0114-porul-kalvi-01.md`
-   - scan 114 / printed 81;
-   - chapter 40 `கல்வி`, Kural 391–395.
-
-9. `works/thirukkural/pages/0115-porul-kalvi-02.md`
-   - scan 115 / printed 82;
-   - chapter 40 `கல்வி`, Kural 396–400.
-
-10. `works/thirukkural/pages/0116-porul-kallaamai-01.md`
-    - scan 116 / printed 83;
-    - chapter 41 `கல்லாமை`, Kural 401–405.
-
-11. `works/thirukkural/pages/0117-porul-kallaamai-02.md`
-    - scan 117 / printed 84;
-    - chapter 41 `கல்லாமை`, Kural 406–410.
-
-12. `works/thirukkural/pages/0118-porul-kelvi-01.md`
-    - scan 118 / printed 85;
-    - chapter 42 `கேள்வி`, Kural 411–415.
-
-13. `works/thirukkural/pages/0119-porul-kelvi-02.md`
-    - scan 119 / printed 86;
-    - chapter 42 `கேள்வி`, Kural 416–420.
-
-14. `works/thirukkural/pages/0120-porul-arivudaimai-01.md`
-    - scan 120 / printed 87;
-    - chapter 43 `அறிவுடைமை`, Kural 421–425;
+8. `works/thirukkural/pages/0114-porul-kalvi-01.md` — scan 114 / printed 81 / Kural 391–395.
+9. `works/thirukkural/pages/0115-porul-kalvi-02.md` — scan 115 / printed 82 / Kural 396–400.
+10. `works/thirukkural/pages/0116-porul-kallaamai-01.md` — scan 116 / printed 83 / Kural 401–405.
+11. `works/thirukkural/pages/0117-porul-kallaamai-02.md` — scan 117 / printed 84 / Kural 406–410.
+12. `works/thirukkural/pages/0118-porul-kelvi-01.md` — scan 118 / printed 85 / Kural 411–415.
+13. `works/thirukkural/pages/0119-porul-kelvi-02.md` — scan 119 / printed 86 / Kural 416–420.
+14. `works/thirukkural/pages/0120-porul-arivudaimai-01.md` — scan 120 / printed 87 / Kural 421–425.
     - source-supported correction in Kural 425 commentary:
       - first-pass: `உயர்ந்தோர் உலகோர் என்பதனால்`
       - source / verified: `உயர்ந்தோரே உலகோர் என்பதனால்`.
 
-All records for scans **107–120** now use:
-
-- `status: "verified"`;
-- `transcription_method: "direct visual comparison with source scan"`.
-
-No unresolved text remains in Verification Batches 1–2.
-
-## Remaining Part 006 records
-
-These seven records remain `needs-review` and must not be promoted until directly checked:
+## Verification Batch 3 — COMPLETE
 
 15. `works/thirukkural/pages/0121-porul-arivudaimai-02.md`
     - scan 121 / printed 88;
-    - chapter 43 `அறிவுடைமை`, Kural 426–430.
+    - chapter 43 `அறிவுடைமை`, Kural 426–430;
+    - first-pass text matched the scan.
 
 16. `works/thirukkural/pages/0122-porul-kutrangkadithal-01.md`
     - scan 122 / printed 89;
-    - chapter 44 `குற்றங்கடிதல்`, Kural 431–435.
+    - chapter 44 `குற்றங்கடிதல்`, Kural 431–435;
+    - first-pass text matched the scan, including source wording `வைக்கோல் போர் போலக் கருகிவிடும்`.
 
 17. `works/thirukkural/pages/0123-porul-kutrangkadithal-02.md`
     - scan 123 / printed 90;
-    - chapter 44 `குற்றங்கடிதல்`, Kural 436–440.
+    - chapter 44 `குற்றங்கடிதல்`, Kural 436–440;
+    - source-supported correction in Kural 437 commentary:
+      - first-pass: `பயன் ஏதுமின்றிப் பாழாகிவிடும்.`
+      - source / verified: `பயன் எதுமின்றிப் பாழாகிவிடும்.`
 
 18. `works/thirukkural/pages/0124-porul-periyaaraith-thunaikkodal-01.md`
     - scan 124 / printed 91;
-    - chapter 45 `பெரியாரைத் துணைக்கோடல்`, Kural 441–445.
+    - chapter 45 `பெரியாரைத் துணைக்கோடல்`, Kural 441–445;
+    - first-pass text matched the scan.
 
 19. `works/thirukkural/pages/0125-porul-periyaaraith-thunaikkodal-02.md`
     - scan 125 / printed 92;
-    - chapter 45 `பெரியாரைத் துணைக்கோடல்`, Kural 446–450.
+    - chapter 45 `பெரியாரைத் துணைக்கோடல்`, Kural 446–450;
+    - source-supported correction in Kural 449 commentary:
+      - first-pass: `நிலையைப் போன்றேயாகும்.`
+      - source / verified: `நிலையைப் போன்றதேயாகும்.`
 
 20. `works/thirukkural/pages/0126-porul-sitrinam-seraamai-01.md`
     - scan 126 / printed 93;
-    - chapter 46 `சிற்றினம் சேராமை`, Kural 451–455.
+    - chapter 46 `சிற்றினம் சேராமை`, Kural 451–455;
+    - first-pass text matched the scan.
 
 21. `works/thirukkural/pages/0127-porul-sitrinam-seraamai-02.md`
     - scan 127 / printed 94;
-    - chapter 46 `சிற்றினம் சேராமை`, Kural 456–460.
+    - chapter 46 `சிற்றினம் சேராமை`, Kural 456–460;
+    - first-pass text matched the scan.
 
 ## Structural transition in Part 006
 
@@ -201,30 +186,24 @@ Kalaignar's commentary repeatedly explains `ஊழ்` through **`இயற்�
 
 # Exact next activity
 
-Continue **Part 006 Tamil direct visual verification — Batch 3 only** for overall scans **121–127** / Part 006 local pages **15–21** / printed pages **88–94** / Kural **426–460**.
-
-This batch contains:
-
-- scan **121** — chapter 43 `அறிவுடைமை`, Kural **426–430**;
-- scans **122–123** — chapter 44 `குற்றங்கடிதல்`, Kural **431–440**;
-- scans **124–125** — chapter 45 `பெரியாரைத் துணைக்கோடல்`, Kural **441–450**;
-- scans **126–127** — chapter 46 `சிற்றினம் சேராமை`, Kural **451–460**.
+Perform the **Part 006 Tamil audit / archival-ready decision only** for overall scans **107–127 / Part 006 local pages 1–21 / printed pages 74–94 with title/blank leaves between 76 and 79 / Kural 366–460**.
 
 ## Required procedure for the next activity
 
-1. fresh-fetch this `HANDOVER.md`, `works/thirukkural/README.md`, and page records 0121–0127 before writing;
-2. inspect controlling Part 006 scans 121–127 directly;
-3. compare every Kural, commentary paragraph, chapter heading, printed page number and relevant non-text observation against the scan;
-4. correct only differences supported by the source scan — do not modernize or normalize;
-5. when a page matches completely, change `status` to `verified` and set `transcription_method` to `direct visual comparison with source scan`;
-6. if anything remains genuinely unclear, keep that record `needs-review` or `partial` and document the uncertainty instead of guessing;
-7. synchronize repository status/handover documents after the batch;
-8. stop after scan **127**.
+1. fresh-fetch this `HANDOVER.md`, `works/thirukkural/README.md`, and all Part 006 page records 0107–0127;
+2. confirm there are exactly **21 physical page records** covering overall scans 107–127 with no gaps or duplicates;
+3. confirm every Part 006 record is `verified` and uses `direct visual comparison with source scan`;
+4. confirm Kural continuity **366–460** and printed-page continuity **74–76, title/blank leaves, 79–94**;
+5. confirm the structural transition `அறம்` → `பொருள்` is documented correctly at scans 110–112;
+6. confirm the four source-supported verification corrections documented above are present in the final records;
+7. confirm there are no unresolved `needs-review`, `partial`, or `blocked` records;
+8. create `works/thirukkural/AUDIT_PART_006.md` documenting the audit evidence and release decision;
+9. if all checks pass, mark Part 006 **ARCHIVAL-READY** in repository status documents and update this handover;
+10. stop after the Tamil audit/status synchronization.
 
 Do **not** in that activity:
 
-- create `AUDIT_PART_006.md`;
 - start English Part 006 translation;
-- begin Part 007 transcription.
+- begin Part 007 Tamil transcription.
 
-After Batch 3, if all 21 Part 006 records are verified with no unresolved pages, the **next separate activity** is the Part 006 Tamil audit / archival-ready decision. English Part 006 remains blocked until that audit passes.
+If the Part 006 audit passes, English Part 006 first-pass translation becomes eligible as the following separate activity.
