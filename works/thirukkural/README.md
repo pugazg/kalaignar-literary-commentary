@@ -16,11 +16,11 @@
 | 008 | `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf` | 21 | 149–169 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
 | 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 22/22** |
 | 010 | `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf` | 23 | 192–214 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 23/23** |
-| 011 | `திருக்குறள்_கலைஞர்_உரை_part_011_pages_215-237.pdf` | 23 | 215–237 | audited / **ARCHIVAL-READY**; English not started |
+| 011 | `திருக்குறள்_கலைஞர்_உரை_part_011_pages_215-237.pdf` | 23 | 215–237 | audited / **ARCHIVAL-READY**; English first pass **DRAFT 23/23** |
 
 Tamil Parts **001–011 are archival-ready continuously** through overall scan **237** / printed page **204** / Kural **1010**.
 
-English Parts **001–010 are released continuously** through Kural **895**. Part 011 English has not started and is now eligible for its separate first-pass translation gate.
+English Parts **001–010 are released continuously** through Kural **895**. Part 011 now has a complete English first pass across all 23 aligned pages through Kural **1010**; direct source-check is pending.
 
 ## Part 010 English — RELEASE COMPLETE
 
@@ -63,59 +63,56 @@ Final audited scope:
 
 The incoming Part 010 → Part 011 boundary passes at printed page **181 → 182** / Kural **895 → 896**. Scan 215 completes chapter 90 `பெரியாரைப் பிழையாமை` with Kural 896–900; chapters 91–101 then continue without a Kural gap through Kural 1010.
 
-Chapter coverage:
-
-- scan 215 / p182 — chapter 90 `பெரியாரைப் பிழையாமை`, Kural 896–900;
-- scans 216–217 — chapter 91 `பெண்வழிச் சேறல்`, Kural 901–910;
-- scans 218–219 — chapter 92 `வரைவின் மகளிர்`, Kural 911–920;
-- scans 220–221 — chapter 93 `கள்ளுண்ணாமை`, Kural 921–930;
-- scans 222–223 — chapter 94 `சூது`, Kural 931–940;
-- scans 224–225 — chapter 95 `மருந்து`, Kural 941–950;
-- scans 226–227 — chapter 96 `குடிமை`, Kural 951–960;
-- scans 228–229 — chapter 97 `மானம்`, Kural 961–970;
-- scans 230–231 — chapter 98 `பெருமை`, Kural 971–980;
-- scans 232–233 — chapter 99 `சான்றாண்மை`, Kural 981–990;
-- scans 234–235 — chapter 100 `பண்புடைமை`, Kural 991–1000;
-- scans 236–237 — chapter 101 `நன்றியில் செல்வம்`, Kural 1001–1010.
-
 The source structural transition is preserved:
 
 - scans **215–225**: `பொருள் — நட்பியல்`;
 - from scan **226 / printed page 193 / chapter 96 குடிமை**: `பொருள் — குடியியல்`.
 
-### Direct-verification corrections retained
+Exactly four real first-pass Tamil corrections were retained by the audit: Kural **904** `மனையாளை யஞ்சும்`, Kural **905** `இல்லாளை யஞ்சுவான்`, Kural **911** commentary `பொருள் திரட்டுவதையே`, and Kural **927** commentary `மயங்குவதைக் கண்டு`.
 
-Exactly four real first-pass corrections were found and remain in the audited records:
+Source-sensitive Tamil remains protected, including Kural **899**'s `அடக்குமுறை ஆட்சி` framing, Kural **912** `பாகுமொழிபேசும்`, Kural **931**'s fish/hook wording, Kural **948**'s extension to `சமுதாய நோய்`, Kural **971**'s unusual printed wording, Kural **972**'s `பிறப்பினால் அனைவரும் சமம்`, Kural **985** and **1008** punctuation, and Kural **1001**'s `வீடு கொள்ளாத அளவுக்குச்...` wording.
 
-1. scan **216 / Kural 904**: `மனையாளை யஞ்சும்`;
-2. scan **216 / Kural 905**: `இல்லாளை யஞ்சுவான்`;
-3. scan **218 / Kural 911 commentary**: `பொருள் திரட்டுவதையே`;
-4. scan **221 / Kural 927 commentary**: `மயங்குவதைக் கண்டு`.
+## Part 011 English — FIRST PASS COMPLETE
 
-### Source-sensitive readings protected
+English scope:
 
-The audit confirms and protects, among other readings:
+- aligned pages: **23 / 23**;
+- scans **215–237**;
+- printed pages **182–204**;
+- Kural **896–1010**;
+- `draft`: **23 / 23**;
+- `source-checked`: **0**;
+- `editorial-reviewed`: **0**;
+- `release-ready`: **0**;
+- `source-limited`: **0**;
+- `blocked`: **0**.
 
-- Kural **899** commentary: Kalaignar's explicit `அடக்குமுறை ஆட்சி` governance framing;
-- Kural **912** commentary: `பாகுமொழிபேசும்`;
-- Kural **931** commentary: `கெளவிக் கொண்டு போவதாகிவிடும்`;
-- Kural **948** commentary: `உடல் நோய்க்கு மட்டுமின்றிச் சமுதாய நோய்க்கும் இது பொருந்தும்.`;
-- Kural **971**'s unusual printed orthography/split;
-- Kural **972** commentary: `பிறப்பினால் அனைவரும் சமம். செய்யும் தொழிலில் காட்டுகிற திறமையில் மட்டுமே வேறுபாடு காண முடியும்.`;
-- Kural **985** and **1008** verses without terminal periods as printed;
-- Kural **1001** commentary beginning `அடங்காத ஆசையினால் வீடு கொள்ளாத அளவுக்குச்...`.
-
-No Kural **1011** or later text has been inferred or created. The outgoing boundary at Kural 1010 is a source limit, not an unresolved Part 011 reading.
-
-## அடுத்த செயல்
-
-Begin the separate **Part 011 English project translation — first pass** for all **23 aligned pages**, scans **215–237 / Kural 896–1010**.
-
-Every new English record must use:
+All Part 011 English pages identify:
 
 ```yaml
 translation_type: "project_translation"
 status: "draft"
+source_tamil_status: "verified"
+translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ```
 
-Translate Kalaignar's actual wording, argument, images and social/governance vocabulary from the audited Tamil pages. Preserve the `நட்பியல்` → `குடியியல்` structural change and the source-sensitive readings above. Stop after all 23 aligned English pages are `draft`; do **not** combine the source-check, editorial/glossary review or release gates with the first pass.
+Scan 215 continues the already released chapter 90 heading **Not Offending the Great**.
+
+The first-pass structural rendering is:
+
+- scans **215–225**: `நட்பியல்` → released **Friendship**;
+- scans **226–237**: `குடியியல்` → provisional **Civic Life**.
+
+Provisional chapter headings introduced in the draft are **Following a Woman's Lead**, **Women Beyond Bounds**, **Abstaining from Liquor**, **Gambling**, **Medicine**, **Nobility**, **Honour**, **Greatness**, **Exemplary Character**, **Good Character**, and **Wealth Without Benefit** for chapters 91–101 respectively. These are not yet glossary-final.
+
+The first pass deliberately retains Kalaignar's source-specific language and images: Kural 899's **oppressive government**, Kural 948's **social disease**, Kural 972's explicit **Everyone is equal by birth** formulation, the unusual audited Kural 971 basis, the fish/hook image, the stranger's corpse, the “Mohini spell,” the rationalist **nonexistent heaven** question, `kunrimani`, `kavari` deer, the dirty-vessel/milk image, the poisonous tree, and the miser as a disease infecting his wealth.
+
+No Kural **1011** or later text has been inferred or created.
+
+## அடுத்த செயல்
+
+Perform the separate **Part 011 English direct source-check** for all **23 `draft` pages**.
+
+Compare every Kural translation and every Kalaignar-commentary paragraph directly against the audited Tamil record. Correct omissions, unsupported additions, subject drift, lost images or interpretive drift where required; promote passing pages only to `source-checked`.
+
+Do **not** finalize the provisional `குடியியல்` or chapter-heading choices during that activity, do not create `PART_011_REVIEW.md`, do not create a release report, and do not modify released English Parts 001–010. The following gate after source-check is the separate editorial consistency / glossary reconciliation review.
