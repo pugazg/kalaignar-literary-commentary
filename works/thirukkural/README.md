@@ -16,23 +16,11 @@
 | 008 | `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf` | 21 | 149–169 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
 | 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 22/22** |
 | 010 | `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf` | 23 | 192–214 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 23/23** |
-| 011 | `திருக்குறள்_கலைஞர்_உரை_part_011_pages_215-237.pdf` | 23 | 215–237 | audited / **ARCHIVAL-READY**; English **EDITORIAL-REVIEWED 23/23** |
+| 011 | `திருக்குறள்_கலைஞர்_உரை_part_011_pages_215-237.pdf` | 23 | 215–237 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 23/23** |
 
 Tamil Parts **001–011 are archival-ready continuously** through overall scan **237** / printed page **204** / Kural **1010**.
 
-English Parts **001–010 are released continuously** through Kural **895**. Part 011 English has completed first pass, direct source-check and editorial/glossary review through Kural **1010**; its separate release gate is pending.
-
-## Part 010 English — RELEASE COMPLETE
-
-Editorial review: [`translations/en/reviews/PART_010_REVIEW.md`](translations/en/reviews/PART_010_REVIEW.md).
-
-Release report: [`translations/en/reviews/PART_010_RELEASE_REPORT.md`](translations/en/reviews/PART_010_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
-
-Released Part 010 structural term:
-
-- `நட்பியல்` → **Friendship**.
-
-Released Part 010 protections remain intact, including **women for hire** at Kural 813/822, Kural 835's **seven periods**, Kural 850's evidence/“ghosts” framing, Kalaignar's supplied Kural 861 interpretation, Kural 869's repeated **“cowards who are afraid, and ignorant cowards”**, Kural 876's enemy/friendship nuance, and Kural 895's ruler/government distinction.
+English Parts **001–011 are released continuously** through Kural **1010**.
 
 ## Part 011 Tamil — ARCHIVAL-READY
 
@@ -50,7 +38,7 @@ Final audited scope:
 - `verified`: **23 / 23**;
 - unresolved/missing records: **0**.
 
-The incoming Part 010 → Part 011 boundary passes at printed page **181 → 182** / Kural **895 → 896**. Scan 215 completes chapter 90 `பெரியாரைப் பிழையாமை` with Kural 896–900; chapters 91–101 continue without a Kural gap through Kural 1010.
+The Part 010 → Part 011 boundary passes at printed page **181 → 182** / Kural **895 → 896**. Scan 215 completes chapter 90 `பெரியாரைப் பிழையாமை`; chapters 91–101 then continue without a Kural gap through Kural 1010.
 
 The source structural transition is preserved:
 
@@ -59,51 +47,49 @@ The source structural transition is preserved:
 
 Exactly four Tamil verification corrections remain authoritative: Kural **904** `மனையாளை யஞ்சும்`, Kural **905** `இல்லாளை யஞ்சுவான்`, Kural **911** commentary `பொருள் திரட்டுவதையே`, and Kural **927** commentary `மயங்குவதைக் கண்டு`.
 
-## Part 011 English — EDITORIAL REVIEW COMPLETE
+## Part 011 English — RELEASE COMPLETE
 
 Editorial review: [`translations/en/reviews/PART_011_REVIEW.md`](translations/en/reviews/PART_011_REVIEW.md).
 
-English scope:
+Release report: [`translations/en/reviews/PART_011_RELEASE_REPORT.md`](translations/en/reviews/PART_011_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
+
+Released English scope:
 
 - aligned pages: **23 / 23**;
 - scans **215–237**;
 - printed pages **182–204**;
 - Kural **896–1010**;
-- `draft`: **0**;
-- `source-checked`: **0**;
-- `editorial-reviewed`: **23 / 23**;
-- `release-ready`: **0**;
-- `source-limited`: **0**;
-- `blocked`: **0**.
+- `release-ready`: **23 / 23**;
+- unresolved / blocked: **0**.
 
 All Part 011 English pages identify:
 
 ```yaml
 translation_type: "project_translation"
-status: "editorial-reviewed"
+status: "release-ready"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ```
 
-The controlled structural rendering is:
+The released structural rendering is:
 
 - scans **215–225**: `நட்பியல்` → **Friendship**;
 - scans **226–237**: `குடியியல்` → **Civic Life**.
 
-Controlled chapter headings 91–101 are **Following a Woman's Lead**, **Women Beyond Bounds**, **Abstaining from Liquor**, **Gambling**, **Medicine**, **Nobility**, **Honour**, **Greatness**, **Exemplary Character**, **Good Character**, and **Wealth Without Benefit**. Chapter 90 continues the already released **Not Offending the Great**.
+Released chapter headings 90–101 are **Not Offending the Great**, **Following a Woman's Lead**, **Women Beyond Bounds**, **Abstaining from Liquor**, **Gambling**, **Medicine**, **Nobility**, **Honour**, **Greatness**, **Exemplary Character**, **Good Character**, and **Wealth Without Benefit**.
 
-All six English source-check corrections remain intact: Kural 911 **bring suffering**, Kural 926's corrected line relationship, Kural 953 **truthful citizens**, Kural 961's removal of the unsupported phrase attached to “indispensable,” Kural 989's commentary-only all-seas image, and Kural 1006's corrected disease/wealth subject relationship.
+All six English source-check corrections remain intact: Kural 911 **bring suffering**, Kural 926's corrected line relationship, Kural 953 **truthful citizens**, Kural 961's removal of the unsupported qualification, Kural 989's commentary-only all-seas image, and Kural 1006's corrected disease/wealth subject relationship.
 
-Editorial review made one additional source-led refinement: Kural **939** uses **fame** rather than the source-checked **honour** in the Kural's five-item list, matching Kalaignar's adjacent `புகழும்` explanation.
+The editorial refinement at Kural **939** remains **fame** in the Kural's five-item list.
 
-Protected source-sensitive treatments remain intact, including Kural **899**'s **oppressive government**, Kural **912**'s sugar-sweet wording, Kural **931**'s fish/hook image, Kural **948**'s **social disease**, Kural **966**'s **nonexistent heaven** question, the unusual audited Kural **971** basis, Kural **972**'s equality formulation, Kural **985/1008** source punctuation, and Kural **1001**'s house-filling wealth image.
+Protected source-sensitive treatments remain intact, including Kural **899**'s **oppressive government**, Kural **912**'s sugar-sweet wording, Kural **931**'s fish/hook image, Kural **948**'s **social disease**, Kural **966**'s **nonexistent heaven** question, the unusual audited Kural **971** basis, Kural **972**'s equality formulation, Kural **985/1008** source punctuation and Kural **1001**'s house-filling wealth image.
+
+No substantive Kural or Kalaignar-commentary body text was changed during the release gate; release promotion changed page status only.
 
 No Kural **1011** or later text has been inferred or created.
 
 ## அடுத்த செயல்
 
-Perform the separate **Part 011 English release gate** for all **23 `editorial-reviewed` pages**.
+The supplied material is now closed through the Part 011 English release gate.
 
-Check final continuity/alignment for scans **215–237 / printed pages 182–204 / Kural 896–1010**, verify the controlled `Friendship → Civic Life` structural transition, preserve all source-check/editorial protections, create `translations/en/reviews/PART_011_RELEASE_REPORT.md`, and promote pages to `release-ready` only if the release gate passes.
-
-Do **not** combine the release gate with later Tamil source work and do not infer Kural 1011 onward.
+Do **not** assume or reconstruct Part 012. The next activity begins only when an actually supplied subsequent Tamil source is available. Inspect that source directly, verify its identity and the outgoing boundary after printed page **204 / Kural 1010**, then begin the next separate Tamil source-intake / first-pass transcription gate.
