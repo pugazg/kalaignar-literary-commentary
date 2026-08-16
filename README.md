@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–007 **ARCHIVAL-READY** through Kural 565; Parts 008–010 source received |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–006 **released through Kural 460**; Part 007 **21/21 source-checked** |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–006 **released through Kural 460**; Part 007 **21/21 editorial-reviewed**, release gate pending |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -32,12 +32,12 @@ Tamil Parts **001–007** are archival-ready through overall scan **148** / prin
 
 English Parts **001–006** have completed their full release workflow through Kural **460**.
 
-English Part **007** has completed first-pass translation and direct source-check for all **21 / 21** aligned records, scans **128–148 / Kural 461–565**. All now carry `status: "source-checked"`; editorial review and release remain pending.
+English Part **007** has completed first-pass translation, direct source-check and editorial consistency / glossary-reconciliation review for all **21 / 21** aligned records, scans **128–148 / Kural 461–565**. All now carry `status: "editorial-reviewed"`; the release gate remains pending.
 
-The source-check retained Kalaignar's interpretation at Kural 543 as **“the books of the virtuous”** for `அறவோர் நூல்களுக்கும்`, his focus on **working people** at Kural 520, and his governance vocabulary across chapters 55–57. One first-pass refinement at Kural 464 removed an unsupported failure-specific nuance and returned the English more closely to Kalaignar's `களங்கம்` framing.
+The editorial review retained Kalaignar's Kural 543 interpretation as **“the books of the virtuous”** for `அறவோர் நூல்களுக்கும்`, his **working people** framing at Kural 520, and his institutional government/justice/tyranny vocabulary across chapters 55–57. It also documented controlled English chapter headings 47–57 and reconciled the glossary continuously through Kural 565.
 
 Part **008** has been supplied and begins at printed page **116 / Kural 566**, directly continuing chapter 57 `வெருவந்த செய்யாமை`. It remains untranscribed.
 
-The next activity is the separate **Part 007 English editorial consistency / glossary-reconciliation review**. The release gate and Part 008 Tamil transcription remain later, separate activities.
+The next activity is the separate **Part 007 English release gate**. Part 008 Tamil transcription remains a later, separate activity.
 
-Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/AUDIT_PART_007.md`](works/thirukkural/AUDIT_PART_007.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), and [`HANDOVER.md`](HANDOVER.md).
+Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/AUDIT_PART_007.md`](works/thirukkural/AUDIT_PART_007.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), [`works/thirukkural/translations/en/reviews/PART_007_REVIEW.md`](works/thirukkural/translations/en/reviews/PART_007_REVIEW.md), and [`HANDOVER.md`](HANDOVER.md).
