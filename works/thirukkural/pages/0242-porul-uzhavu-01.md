@@ -6,10 +6,10 @@ printed_page: "209"
 work: "thirukkural"
 section: "பொருள் — குடியியல் — உழவு"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_012_pages_238-260.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 # 104. உழவு
@@ -37,6 +37,6 @@ transcription_method: "manual transcription from source scan; direct visual veri
 **1035. இரவார் இரப்பார்க்கொன் றீவர் கரவாது  
 கைசெய்தூண் மாலை யவர்.**
 
-தாமே தொழில் செய்து ஊதியம் பெற்று உண்பும் இயல்புடையவர், பிறரிடம் சென்று கையேந்த மாட்டார். தம்மிடம் வேண்டி நிற்பவர்க்கும் ஒளிக்காமல் வழங்குவார்.
+தாமே தொழில் செய்து ஊதியம் பெற்று உண்ணும் இயல்புடையவர், பிறரிடம் சென்று கையேந்த மாட்டார். தம்மிடம் வேண்டி நிற்பவர்க்கும் ஒளிக்காமல் வழங்குவார்.
 
 <!-- மூல ஸ்கேன் பக்கம்: 242; Part 012 உள்ளூர் பக்கம்: 5; அச்சுப் பக்கம்: 209 -->
