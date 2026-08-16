@@ -23,7 +23,7 @@ A specific Part 007 source-sensitive rule applies at Kural 543: Kalaignar explai
 | Part 004 | 63–84 | archival-ready | **RELEASE-READY — 22/22** |
 | Part 005 | 85–106 | archival-ready | **RELEASE-READY — 22/22** |
 | Part 006 | 107–127 | **ARCHIVAL-READY — 21/21 verified; audit passed** | **RELEASE-READY — 21/21** |
-| Part 007 | 128–148 | **ARCHIVAL-READY — 21/21 verified; audit passed** | **SOURCE-CHECKED — 21/21; editorial review pending** |
+| Part 007 | 128–148 | **ARCHIVAL-READY — 21/21 verified; audit passed** | **EDITORIAL-REVIEWED — 21/21; release gate pending** |
 | Part 008 | 149–169 | source received; transcription not started | not started |
 | Part 009 | 170–191 | source received; transcription not started | not started |
 | Part 010 | 192–214 | source received; transcription not started | not started |
@@ -41,7 +41,7 @@ A specific Part 007 source-sensitive rule applies at Kural 543: Kalaignar explai
 
 The project-created English translation has completed its release workflow continuously through Kural **460**. Released Parts 001–006 must not be revised merely because later parts introduce similar terminology; any project-wide change must be deliberate, source-supported and documented.
 
-# Part 007 English — DIRECT SOURCE-CHECK COMPLETE
+# Part 007 English — EDITORIAL REVIEW COMPLETE
 
 Scope:
 
@@ -50,31 +50,36 @@ Scope:
 - Kural **461–565**;
 - chapters **47–57**;
 - aligned English page records: **21 / 21**;
-- `source-checked`: **21 / 21**;
+- `editorial-reviewed`: **21 / 21**;
+- `source-checked`: **0**;
 - `draft`: **0**;
-- `editorial-reviewed`: **0**;
 - `release-ready`: **0**;
 - `source-limited`: **0**;
 - `blocked`: **0**.
 
-Each English page was compared against its corresponding audited Tamil page record. The pass checked Kural and commentary separately for omissions, additions, meaning drift, loss of source imagery, and imported interpretation.
+Review artefact:
 
-One source-fidelity refinement was made during the pass on scan 128 / Kural 464: the first-pass wording **“disgrace of failure”** was tightened to **“the blemish of disgrace”**, with the accompanying line made explicitly about consequences being unclear, to follow Kalaignar's commentary `களங்கம்` rather than adding a failure-specific idea.
+- [`reviews/PART_007_REVIEW.md`](reviews/PART_007_REVIEW.md)
 
-Protected Part 007 directions retained after source-check include:
+The editorial review found the source-checked body already faithful and readable, so it made no substantive body-text rewrite merely for elegance. Instead it established the controlled Part 007 chapter headings and glossary decisions while retaining Kalaignar's voice, imagery and political/governance framing.
+
+Protected Part 007 directions remain:
 
 - Kural 543: **“the books of the virtuous”** for Kalaignar's `அறவோர் நூல்களுக்கும்` explanation;
-- Kural 520: Kalaignar's explicit focus on **working people** and the daily responsibility of those who govern;
-- chapters 55–57: Kalaignar's governance vocabulary through **government, citizens, good governance, justice, tyranny, public resources, productive work, punishment and fear**;
-- source imagery including the ram drawing back, crane waiting and striking, crocodile leaving water, trapped elephant and foxes, timely rain and harvest, weeds removed from a crop, and citizens' tears as a weapon against oppressive rule.
+- Kural 520: explicit focus on **working people** and the daily responsibility of those who govern;
+- chapters 55–57: **government, citizens, good governance, justice, tyranny, public resources, productive work, punishment and fear** where Kalaignar explicitly frames the commentary institutionally;
+- Kural 464: the source-check correction centred on `களங்கம்`, with no return to the unsupported first-pass “failure” idea;
+- source imagery including the ram, crane, crocodile, chariot/ship contrast, elephant and foxes, tank without banks, crow sharing with its circle, timely rain and harvest, weeds, citizens' tears as a weapon, and the demon-like final image in Kural 565.
+
+The controlled glossary now documents the established Part 006 headings 38–46 and the Part 007 headings 47–57 continuously through Kural 565.
 
 ## Next exact activity
 
-Perform the separate **Part 007 English editorial consistency / glossary-reconciliation review** across all **21 / 21 source-checked pages**.
+Perform the separate **Part 007 English release gate** for all **21 / 21 editorial-reviewed pages**.
 
-Review readability, controlled chapter headings, recurring terminology, repeated phrasing, punctuation and glossary consistency without weakening Kalaignar's language or interpretive direction. Create `reviews/PART_007_REVIEW.md` during that activity if the established review workflow requires it, and promote pages only to `editorial-reviewed` after they pass.
+The release gate must perform a final part-level consistency check, create `reviews/PART_007_RELEASE_REPORT.md` only if the gate passes, and only then promote pages to `release-ready`.
 
-Do **not** create the Part 007 release report or promote pages to `release-ready` during editorial review. Do not begin Part 008 Tamil transcription in the same activity.
+Do **not** begin Part 008 Tamil transcription in the same release-gate activity.
 
 Permanent cadence:
 
