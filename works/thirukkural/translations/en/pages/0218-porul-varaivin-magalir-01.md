@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Porul — Friendship — Women Beyond Bounds"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -14,7 +14,7 @@ translation_basis: "verified Tamil archival transcription; controlling scan rema
 # 92. Women Beyond Bounds
 
 **911. The sweet words of bangled women who desire not love but wealth  
-bring ruin.**
+bring suffering.**
 
 Women available to all who have no love and make the accumulation of wealth alone their goal speak sweetly; those who trust those words and are deceived will meet suffering in the end.
 
