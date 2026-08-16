@@ -21,7 +21,7 @@ Permanent workflow:
 
 **English first pass (`draft`) → direct source-check → editorial consistency / glossary reconciliation → release gate.**
 
-## Parts 001–008 — RELEASE COMPLETE
+## Parts 001–009 — RELEASE COMPLETE
 
 - Part 001: 19 `release-ready` + scan 8 `source-limited`;
 - Part 002: **21/21 `release-ready`**;
@@ -30,16 +30,17 @@ Permanent workflow:
 - Part 005: **22/22 `release-ready`**, through Kural 365;
 - Part 006: **21/21 `release-ready`**, through Kural 460;
 - Part 007: **21/21 `release-ready`**, through Kural 565;
-- Part 008: **21/21 `release-ready`**, through Kural 670.
+- Part 008: **21/21 `release-ready`**, through Kural 670;
+- Part 009: **22/22 `release-ready`**, through Kural 780.
 
 Latest released review artefacts:
 
-- [`reviews/PART_008_REVIEW.md`](reviews/PART_008_REVIEW.md)
-- [`reviews/PART_008_RELEASE_REPORT.md`](reviews/PART_008_RELEASE_REPORT.md)
+- [`reviews/PART_009_REVIEW.md`](reviews/PART_009_REVIEW.md)
+- [`reviews/PART_009_RELEASE_REPORT.md`](reviews/PART_009_RELEASE_REPORT.md)
 
-Released Parts 001–008 must not be changed merely to harmonize later wording.
+Released Parts 001–009 must not be changed merely to harmonize later wording.
 
-## Part 009 — EDITORIAL REVIEW COMPLETE
+## Part 009 — RELEASE COMPLETE
 
 Part 009 Tamil is audited / **ARCHIVAL-READY**. Tamil audit: [`../../AUDIT_PART_009.md`](../../AUDIT_PART_009.md).
 
@@ -51,18 +52,20 @@ English scope:
 - Kural **671–780**;
 - chapters **68–78**.
 
-Current state:
+Final state:
 
 - `draft`: **0**;
 - `source-checked`: **0**;
-- `editorial-reviewed`: **22 / 22**;
-- `release-ready`: **0**;
+- `editorial-reviewed`: **0**;
+- `release-ready`: **22 / 22**;
 - `source-limited`: **0**;
 - `blocked`: **0**.
 
 Editorial review: [`reviews/PART_009_REVIEW.md`](reviews/PART_009_REVIEW.md).
 
-### Controlled Part 009 chapter headings
+Release report: [`reviews/PART_009_RELEASE_REPORT.md`](reviews/PART_009_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
+
+### Released Part 009 chapter headings
 
 - 68 **The Method of Action**;
 - 69 **The Envoy**;
@@ -76,25 +79,27 @@ Editorial review: [`reviews/PART_009_REVIEW.md`](reviews/PART_009_REVIEW.md).
 - 77 **Excellence of the Army**;
 - 78 **Martial Pride**.
 
-Chapter 71 was refined from the first-pass/source-checked **Understanding Signs (Porul)** to **Understanding Signs** because the parenthetical was project-added rather than part of the Tamil heading.
+Chapter 71 remains **Understanding Signs**. The project-added `(Porul)` disambiguator was removed during editorial review because it is not part of the Tamil heading.
 
-### Controlled structural vocabulary
+### Released structural vocabulary
 
 - `அமைச்சியல்` → **Ministerial Affairs**;
 - `அரணியல்` → **Fortification Affairs**;
 - `கூழியல்` → **Wealth**;
 - `படையியல்` → **Military Affairs**.
 
-The source-visible distinctions are retained rather than flattened.
+The source-visible distinctions remain intact.
 
-### Fidelity protections retained
+### Fidelity protections released
 
-The editorial review retains the Kural 680, 691 and 717 source-check corrections; the protected Kural 717, Kural 725 commentary, Kural 733 commentary and Kural 771 commentary readings; Kural 773's **great manliness / manliness** framing; Kalaignar's government/tax/revenue/country/fortification/wealth/army vocabulary; and the direct source images documented in the review.
+The final release retains the Kural 680, 691 and 717 source-check corrections; the protected Kural 717, Kural 725 commentary, Kural 733 commentary and Kural 771 commentary readings; Kural 773's **great manliness / manliness** framing; Kalaignar's government/tax/revenue/country/fortification/wealth/army vocabulary; and the direct source images documented in the review and release report.
 
-No substantive Kural or commentary body-text change was made at the editorial gate. The only editorial text change was the chapter 71 heading/metadata refinement.
+No substantive Kural or commentary body-text change was made during the release gate.
 
-## Next activity
+## Next project activity
 
-Perform the separate **Part 009 English release gate** for all **22 `editorial-reviewed` pages**, scans **170–191 / Kural 671–780**.
+The English project translation is released continuously through Kural **780**.
 
-Create `reviews/PART_009_RELEASE_REPORT.md` only after the final alignment/consistency checks pass, then promote the 22 pages to `release-ready`. Do not begin Part 010 Tamil transcription during that activity.
+The next separate project activity is **Part 010 Tamil first-pass transcription**, beginning at overall scan **192 / printed page 159 / Kural 781 / chapter 79 `நட்பு`**.
+
+Do not begin Part 010 English until its Tamil source has completed transcription, direct visual verification and the Tamil audit / archival-ready gate.
