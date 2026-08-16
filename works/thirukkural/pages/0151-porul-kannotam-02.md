@@ -6,10 +6,10 @@ printed_page: "118"
 work: "thirukkural"
 section: "பொருள் — அரசியல் — கண்ணோட்டம்"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **576. மண்ணோ டியைந்த மரத்தனையர் கண்ணோ  
