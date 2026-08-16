@@ -6,7 +6,7 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–007 **ARCHIVAL-READY** through Kural 565; Part 008 first-pass complete, **7/21 verified** through Kural 600 |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–007 **ARCHIVAL-READY** through Kural 565; Part 008 first-pass complete, **14/21 verified** through Kural 635 |
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–007 **released through Kural 565** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
@@ -32,10 +32,10 @@ Tamil Parts **001–007** are archival-ready through overall scan **148** / prin
 
 English Parts **001–007** have completed their full release workflow continuously through Kural **565**.
 
-Part **008 Tamil first-pass is complete 21/21**. Direct verification Batch 1 is also complete for scans **149–155 / printed pages 116–122 / Kural 566–600**, leaving **7 verified / 14 needs-review**.
+Part **008 Tamil first-pass is complete 21/21**. Direct verification Batches 1–2 are complete for scans **149–162 / printed pages 116–129 / Kural 566–635**, leaving **14 verified / 7 needs-review**.
 
-One source-supported first-pass correction was made during Batch 1 on scan 153 / Kural 589 commentary: `ஒத்திருந் தால்` → `ஒத்திருந்தால்`.
+Batch 1 made one source-supported first-pass correction on scan 153 / Kural 589 commentary: `ஒத்திருந் தால்` → `ஒத்திருந்தால்`. Batch 2 required no textual corrections. It directly confirmed the source-visible transition at scan **162** from `பொருள் — அரசியல்` to **`பொருள் — அமைச்சியல் — அமைச்சு`**.
 
-The next activity is **Part 008 Tamil direct visual verification — Batch 2**, scans **156–162 / Kural 601–635**, including the source-visible `அரசியல் → அமைச்சியல்` transition at scan 162.
+The next activity is the final **Part 008 Tamil direct visual verification — Batch 3**, scans **163–169 / Kural 636–670**.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md) and [`HANDOVER.md`](HANDOVER.md).
