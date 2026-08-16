@@ -11,19 +11,13 @@
 | 003 | `திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf` | 21 | 42–62 | audited / **ARCHIVAL-READY** |
 | 004 | `திருக்குறள்_கலைஞர்_உரை_part_004_pages_63-84.pdf` | 22 | 63–84 | audited / **ARCHIVAL-READY** |
 | 005 | `திருக்குறள்_கலைஞர்_உரை_part_005_pages_85-106.pdf` | 22 | 85–106 | audited / **ARCHIVAL-READY** |
-| 006 | `திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf` | 21 | 107–127 | audited / **ARCHIVAL-READY**; English source-check 21/21 complete |
+| 006 | `திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf` | 21 | 107–127 | audited / **ARCHIVAL-READY**; English editorial review 21/21 complete |
 | 007 | `திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf` | 21 | 128–148 | source received; transcription not started |
 | 008 | `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf` | 21 | 149–169 | source received; transcription not started |
 | 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | source received; transcription not started |
 | 010 | `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf` | 23 | 192–214 | source received; transcription not started |
 
 Tamil Parts **001–006 are archival-ready**, reaching overall scan **127** / printed page **94** / Kural **460**. Parts 007–010 remain source-intake only.
-
-## Part 006 Tamil — ARCHIVAL-READY
-
-Part 006 contains **21 / 21** physical scan records, scans **107–127**. All have completed direct visual verification and the part-level audit. Part 006 covers Kural **366–460**, including the physical `அறம்` → `பொருள்` transition at scans 109–112.
-
-The source-first rule remains binding: the scan is authoritative; Markdown is an archival layer rather than a corrected edition.
 
 ## English project translation layer
 
@@ -37,29 +31,20 @@ Permanent cadence:
 
 ### Parts 001–005 English — RELEASE COMPLETE
 
-- Part 001: 19 `release-ready` + scan 8 `source-limited`;
-- Part 002: **21/21 `release-ready`**;
-- Part 003: **21/21 `release-ready`**, through Kural 145;
-- Part 004: **22/22 `release-ready`**, through Kural 255;
-- Part 005: **22/22 `release-ready`**, through Kural 365.
+Parts 001–005 have completed their English release workflow through Kural **365**.
 
-### Part 006 English — SOURCE-CHECK COMPLETE
+### Part 006 English — EDITORIAL REVIEW COMPLETE
 
-All **21 / 21** aligned English pages for scans **107–127 / Kural 366–460** have now been compared directly against their verified Tamil archival records.
+All **21 / 21** English pages for scans **107–127 / Kural 366–460** are now `editorial-reviewed`.
 
-Current Part 006 English state:
+Review artefact: [`translations/en/reviews/PART_006_REVIEW.md`](translations/en/reviews/PART_006_REVIEW.md).
 
-- `source-checked`: **21 / 21**;
-- `draft`: **0**;
-- `editorial-reviewed`: **0**;
-- `release-ready`: **0**;
-- `source-limited`: **0**;
-- `blocked`: **0**.
+The review established the main-body chapter headings for chapters 38–46 and reconciled recurring terminology while preserving Kalaignar's source-specific language. `ஊழ்` remains **Oozh** and `இயற்கை நிலை` remains **natural condition**. Direct governance vocabulary, social comparisons, rational-inquiry framing, rebuke/correction language and source imagery remain intact.
 
-The source-check kept the Kural and Kalaignar commentary as distinct layers and checked omissions, additions, imagery and interpretation drift. Kalaignar's source-specific formulations remain protected. In chapter 38, `ஊழ்` remains **Oozh**, while his repeated `இயற்கை நிலை` explanation remains **natural condition**, not a substituted fate/destiny doctrine.
+No Part 006 page is yet `release-ready`.
 
 ## அடுத்த செயல்
 
-Perform the separate **Part 006 English editorial consistency / glossary-reconciliation review** across all 21 source-checked pages. Review English readability, chapter headings, recurring terminology, repeated phrasing and punctuation without weakening or normalizing Kalaignar's language or interpretation.
+Perform the separate **Part 006 English release gate**. Inspect all 21 editorial-reviewed pages and `PART_006_REVIEW.md`, create `PART_006_RELEASE_REPORT.md` only if the gate passes, and only then promote eligible pages to `release-ready`.
 
-Create `translations/en/reviews/PART_006_REVIEW.md` during that activity and update the glossary with deliberate Part 006 main-body decisions. Do **not** create the release report or promote pages to `release-ready` in the same activity.
+Do **not** begin Part 007 Tamil transcription in the same activity.
