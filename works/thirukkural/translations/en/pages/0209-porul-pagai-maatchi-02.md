@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Porul — Friendship — The Character of Enmity"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -19,7 +19,7 @@ One may take up and confront the enmity of a person who becomes angry without th
 **867. Even at a price, make an enemy of one who stays near  
 and keeps doing what does not befit you.**
 
-Even by giving something of value, one should turn into an enemy a person who stays close while continually doing things that are unsuitable and harmful to us.
+Even by giving something of value, one should turn into an enemy a person who stays close while continually doing things that do not befit one.
 
 **868. If a person lacks good qualities and abounds in faults, he loses his allies  
 and becomes easy for enemies to bring down.**
