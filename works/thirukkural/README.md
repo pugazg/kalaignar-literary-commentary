@@ -14,31 +14,18 @@
 | 006 | `திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf` | 21 | 107–127 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
 | 007 | `திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf` | 21 | 128–148 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
 | 008 | `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf` | 21 | 149–169 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
-| 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | audited / **ARCHIVAL-READY**; English source-check **COMPLETE 22/22 `source-checked`** |
+| 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | audited / **ARCHIVAL-READY**; English editorial review **COMPLETE 22/22** |
 | 010 | `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf` | 23 | 192–214 | source received; transcription not started |
 
 Tamil Parts **001–009 are archival-ready continuously** through overall scan **191** / printed page **158** / Kural **780**.
 
-English Parts **001–008** are fully released continuously through Kural **670**. Part 009 English has now completed first pass and direct source-check across all 22 aligned pages; the separate editorial/glossary gate is next.
-
-## Part 008 — completed baseline
-
-Part 008 Tamil is **ARCHIVAL-READY** for scans **149–169 / printed pages 116–136 / Kural 566–670**. Audit: [`AUDIT_PART_008.md`](AUDIT_PART_008.md).
-
-Part 008 English is **RELEASE COMPLETE 21/21**. Review/release artefacts:
-
-- [`translations/en/reviews/PART_008_REVIEW.md`](translations/en/reviews/PART_008_REVIEW.md)
-- [`translations/en/reviews/PART_008_RELEASE_REPORT.md`](translations/en/reviews/PART_008_RELEASE_REPORT.md)
-
-The released Part 008 structural term remains `அமைச்சியல்` → **Ministerial Affairs**.
+English Parts **001–008** are fully released continuously through Kural **670**. Part 009 English has completed first pass, direct source-check and editorial consistency / glossary reconciliation; all 22 aligned pages are now `editorial-reviewed` and await the separate release gate.
 
 ## Part 009 Tamil — ARCHIVAL-READY
 
-Controlling source:
+Controlling source: `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf`
 
-`திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf`
-
-Final audited scope and state:
+Final audited scope:
 
 - physical pages: **22**;
 - overall scans: **170–191**;
@@ -46,96 +33,75 @@ Final audited scope and state:
 - Kural range: **671–780**;
 - chapters: **68–78**;
 - `verified`: **22 / 22**;
-- `needs-review`: **0**;
-- `partial`: **0**;
-- `blocked`: **0**;
 - Tamil audit: **PASS / ARCHIVAL-READY**.
 
 Audit record: [`AUDIT_PART_009.md`](AUDIT_PART_009.md).
 
-### Part 009 chapter coverage
+The Tamil source-visible hierarchy remains:
 
-- `68. வினை செயல்வகை` — Kural **671–680** — scans 170–171;
-- `69. தூது` — **681–690** — scans 172–173;
-- `70. மன்னரைச் சேர்ந்து ஒழுகல்` — **691–700** — scans 174–175;
-- `71. குறிப்பறிதல்` — **701–710** — scans 176–177;
-- `72. அவை அறிதல்` — **711–720** — scans 178–179;
-- `73. அவை அஞ்சாமை` — **721–730** — scans 180–181;
-- `74. நாடு` — **731–740** — scans 182–183;
-- `75. அரண்` — **741–750** — scans 184–185;
-- `76. பொருள் செயல்வகை` — **751–760** — scans 186–187;
-- `77. படை மாட்சி` — **761–770** — scans 188–189;
-- `78. படைச் செருக்கு` — **771–780** — scans 190–191.
+`அமைச்சியல்` → `அரணியல்` → `கூழியல்` → `படையியல்`.
 
-### Source-visible structural transitions — audited
-
-The Tamil archive preserves:
-
-- scans **170–181**: `பொருள் — அமைச்சியல்`;
-- scans **182–185**: `பொருள் — அரணியல்`;
-- scans **186–187**: `பொருள் — கூழியல்`;
-- scans **188–191**: `பொருள் — படையியல்`.
-
-These distinctions must not be flattened in English.
-
-### Protected Tamil readings
+Protected audited readings remain:
 
 - Kural **717**: `கற்றறிந்தார் கல்வி விளங்கும் கசடறச் / சொற்றெரிதல் முன்னர் இழுக்கு.`
 - Kural **725 commentary**: `தருக்கமென்படும் அளவைக் திறமும்`
 - Kural **733 commentary**: `மளவுக்கு வளம்`
-- Kural **771 commentary**: verified `நடுகல்லாய்ப் போனவர்கள்`.
+- Kural **771 commentary**: `நடுகல்லாய்ப் போனவர்கள்`.
 
-## Part 009 English — SOURCE-CHECK COMPLETE
+## Part 009 English — EDITORIAL REVIEW COMPLETE
 
-All **22 / 22** aligned English page records for scans **170–191 / printed pages 137–158 / Kural 671–780** are now `source-checked`.
+English scope:
+
+- aligned pages: **22 / 22**;
+- scans **170–191**;
+- printed pages **137–158**;
+- Kural **671–780**;
+- chapters **68–78**.
 
 Current status:
 
 - `draft`: **0**;
-- `source-checked`: **22 / 22**;
-- `editorial-reviewed`: **0**;
+- `source-checked`: **0**;
+- `editorial-reviewed`: **22 / 22**;
 - `release-ready`: **0**;
 - `source-limited`: **0**;
 - `blocked`: **0**.
 
-Every record remains explicitly a `project_translation` grounded in the verified/audited Tamil archive.
+Editorial review: [`translations/en/reviews/PART_009_REVIEW.md`](translations/en/reviews/PART_009_REVIEW.md).
 
-### Source-check corrections
+### Controlled Part 009 headings
 
-Three substantive English corrections were required:
+- 68 `வினை செயல்வகை` → **The Method of Action**;
+- 69 `தூது` → **The Envoy**;
+- 70 `மன்னரைச் சேர்ந்து ஒழுகல்` → **Conduct in the Presence of Kings**;
+- 71 `குறிப்பறிதல்` → **Understanding Signs**;
+- 72 `அவை அறிதல்` → **Knowing the Assembly**;
+- 73 `அவை அஞ்சாமை` → **Fearlessness in the Assembly**;
+- 74 `நாடு` → **The Country**;
+- 75 `அரண்` → **Fortress**;
+- 76 `பொருள் செயல்வகை` → **The Way of Acquiring Wealth**;
+- 77 `படை மாட்சி` → **Excellence of the Army**;
+- 78 `படைச் செருக்கு` → **Martial Pride**.
 
-1. Kural **680** — changed the unsupported “smaller domain / trembling within” wording to **“those with little support ... the trembling among their own”**, following Kalaignar's commentary.
-2. Kural **691** — removed unsupported **“contentious”** from “kings”.
-3. Kural **717** — retained the source's unusual verified final `இழுக்கு` and made the English minimally complete as **“before those who discern / faultless words, there is a lapse.”**
+Chapter 71's earlier project-added `(Porul)` disambiguator has been removed from scans 176–177; no substantive Kural/commentary body text was changed during editorial review.
 
-No other substantive body-text correction was required.
+### Controlled structural vocabulary
 
-Kural 717, Kural 725 commentary and Kural 733 commentary now carry `Source-check note` markers documenting their unusual verified Tamil bases. Kural 771 continues to preserve the memorial-stone image from `நடுகல்லாய்ப் போனவர்கள்`. Kural 773 continues to retain Kalaignar's **great manliness / manliness** language.
-
-Kalaignar's government/public-life vocabulary and direct images remain preserved, including tax/revenue, customs duties, tribute, country, fortification, wealth, army, ruler/leader, elephant, fire, nectar, cobra, memorial-stone and warrior imagery.
-
-### Terminology awaiting the next gate
-
-The Part 009 chapter headings remain provisional until editorial consistency / glossary reconciliation:
-
-**The Method of Action**, **The Envoy**, **Conduct in the Presence of Kings**, **Understanding Signs (Porul)**, **Knowing the Assembly**, **Fearlessness in the Assembly**, **The Country**, **Fortress**, **The Way of Acquiring Wealth**, **Excellence of the Army**, and **Martial Pride**.
-
-The already controlled `அமைச்சியல்` remains **Ministerial Affairs**. Newly encountered structural labels remain provisional:
-
+- `அமைச்சியல்` → **Ministerial Affairs**;
 - `அரணியல்` → **Fortification Affairs**;
 - `கூழியல்` → **Wealth**;
 - `படையியல்` → **Military Affairs**.
 
-They have not yet been made final glossary controls.
+The source-check corrections at Kural 680, 691 and 717 remain intact, as do the protected Kural 717 / 725 / 733 / 771 readings and Kural 773's explicit **great manliness / manliness** framing.
 
 ### Adjacent source continuity
 
-Part 009 ends at printed page **158** / Kural **780**. The supplied Part 010 first page was previously inspected only for boundary continuity and begins at printed page **159**, chapter `79. நட்பு`, Kural **781**. Part 010 remains untranscribed.
+Part 009 ends at printed page **158** / Kural **780**. The supplied Part 010 first page was inspected only for boundary continuity and begins at printed page **159**, chapter `79. நட்பு`, Kural **781**. Part 010 remains untranscribed.
 
 ## அடுத்த செயல்
 
-Perform the separate **Part 009 English editorial consistency / glossary reconciliation** across all **22 `source-checked` pages**, scans **170–191 / printed pages 137–158 / Kural 671–780**.
+Perform the separate **Part 009 English release gate** across all **22 `editorial-reviewed` pages**, scans **170–191 / printed pages 137–158 / Kural 671–780**.
 
-Finalize the chapter headings and the new section terms `அரணியல்`, `கூழியல்` and `படையியல்`; reconcile recurring terminology and readability while preserving all source-check protections; update `translations/en/GLOSSARY.md`; create `translations/en/reviews/PART_009_REVIEW.md`; and promote only passing records to `editorial-reviewed`.
+Verify final alignment, metadata, controlled headings/sections and all protected source-check decisions; create `translations/en/reviews/PART_009_RELEASE_REPORT.md`; and promote pages to `release-ready` only if the gate passes.
 
-Do **not** combine editorial review with the release gate. Do **not** begin Part 010 Tamil transcription during the same activity.
+Do **not** begin Part 010 Tamil transcription during the Part 009 English release activity.
