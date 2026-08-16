@@ -42,11 +42,9 @@ Do not revise released English merely because later work introduces similar voca
 
 # Supplied Tamil source — Parts 006–010
 
-Five consecutive source PDFs have been supplied and their boundaries inspected directly.
-
 | Part | Overall scans | Printed-page span visible in source | Kural span confirmed from source | State |
 |---|---:|---:|---:|---|
-| 006 | 107–127 | 74–94 | 366–460 | Tamil first-pass **21/21 complete**; verification pending |
+| 006 | 107–127 | 74–94 | 366–460 | first-pass 21/21 complete; verification **7/21** through scan 113 |
 | 007 | 128–148 | 95–115 | 461–565 | source received; not started |
 | 008 | 149–169 | 116–136 | 566–670 | source received; not started |
 | 009 | 170–191 | 137–158 | 671–780 | source received; not started |
@@ -56,7 +54,7 @@ The supplied source is directly continuous from the previously archived Kural **
 
 These are source-intake boundaries only. Parts 006–010 are **not** archival-ready merely because the PDFs have been received.
 
-# Part 006 Tamil — FIRST-PASS COMPLETE
+# Part 006 Tamil — VERIFICATION IN PROGRESS
 
 Source:
 
@@ -64,126 +62,73 @@ Source:
 
 Physical pages: **21** / overall scans **107–127**.
 
-Current state:
+First-pass transcription: **21 / 21 complete**.
 
-- `needs-review`: **21 / 21** — scans 107–127;
-- `verified`: **0 / 21**;
-- first-pass transcription: **complete**;
+Current direct-verification state:
+
+- `verified`: **7 / 21** — scans 107–113;
+- `needs-review`: **14 / 21** — scans 114–127;
+- `partial`: **0**;
+- `blocked`: **0**;
 - Part 006 audit: **not started**.
 
-## Existing first-pass records
+## Verification Batch 1 — COMPLETE
+
+Directly verified against the controlling scan:
 
 1. `works/thirukkural/pages/0107-aram-avaa-aruththal-02.md`
    - scan 107 / printed 74;
    - Kural 366–370;
-   - completes chapter 37 `அவா அறுத்தல்` begun in Part 005.
+   - completes chapter 37 `அவா அறுத்தல்`.
 
 2. `works/thirukkural/pages/0108-aram-oozh-01.md`
    - scan 108 / printed 75;
-   - chapter 38 `ஊழ்` begins;
-   - Kural 371–375.
+   - chapter 38 `ஊழ்`, Kural 371–375.
 
 3. `works/thirukkural/pages/0109-aram-oozh-02.md`
    - scan 109 / printed 76;
-   - chapter 38 `ஊழ்` continues;
-   - Kural 376–380.
+   - chapter 38 `ஊழ்`, Kural 376–380.
+   - one source-supported correction made during verification in Kural 380 commentary:
+     - first-pass: `அதைவிட வலிமையானவை வேறு எவை இருக்கின்றன?`
+     - source / verified: `அதைவிட வலிமையானவையாக வேறு எவை இருக்கின்றன?`
 
 4. `works/thirukkural/pages/0110-porul-title.md`
    - scan 110;
-   - source-visible section-title text: `பொருள்`;
-   - `printed_page: null` because no printed numeral is visible;
+   - source-visible section title `பொருள்`;
+   - no printed page numeral is visible;
    - reverse-side bleed-through is not body text.
 
 5. `works/thirukkural/pages/0111-blank.md`
    - scan 111;
    - blank reverse of the `பொருள்` title leaf;
-   - only bleed-through is visible and is explicitly not transcribed as body text.
+   - only reverse-side bleed-through is visible and is not transcribed as body text.
 
 6. `works/thirukkural/pages/0112-porul-iraimaatchi-01.md`
    - scan 112 / printed 79;
-   - begins `பொருள் — அரசியல் — இறைமாட்சி`;
    - chapter 39 `இறைமாட்சி`, Kural 381–385.
 
 7. `works/thirukkural/pages/0113-porul-iraimaatchi-02.md`
    - scan 113 / printed 80;
-   - Kural 386–390.
+   - chapter 39 `இறைமாட்சி`, Kural 386–390.
 
-8. `works/thirukkural/pages/0114-porul-kalvi-01.md`
-   - scan 114 / printed 81;
-   - chapter 40 `கல்வி` begins;
-   - Kural 391–395.
+All seven records now use:
 
-9. `works/thirukkural/pages/0115-porul-kalvi-02.md`
-   - scan 115 / printed 82;
-   - chapter 40 `கல்வி` continues;
-   - Kural 396–400.
+- `status: "verified"`;
+- `transcription_method: "direct visual comparison with source scan"`.
 
-10. `works/thirukkural/pages/0116-porul-kallaamai-01.md`
-    - scan 116 / printed 83;
-    - chapter 41 `கல்லாமை` begins;
-    - Kural 401–405.
+No unresolved text remains in Batch 1.
 
-11. `works/thirukkural/pages/0117-porul-kallaamai-02.md`
-    - scan 117 / printed 84;
-    - chapter 41 `கல்லாமை` continues;
-    - Kural 406–410.
+## Remaining Part 006 records
 
-12. `works/thirukkural/pages/0118-porul-kelvi-01.md`
-    - scan 118 / printed 85;
-    - chapter 42 `கேள்வி` begins;
-    - Kural 411–415.
+These remain `needs-review` and must not be promoted until directly checked:
 
-13. `works/thirukkural/pages/0119-porul-kelvi-02.md`
-    - scan 119 / printed 86;
-    - chapter 42 `கேள்வி` continues;
-    - Kural 416–420.
-
-14. `works/thirukkural/pages/0120-porul-arivudaimai-01.md`
-    - scan 120 / printed 87;
-    - chapter 43 `அறிவுடைமை` begins;
-    - Kural 421–425.
-
-15. `works/thirukkural/pages/0121-porul-arivudaimai-02.md`
-    - scan 121 / printed 88;
-    - chapter 43 `அறிவுடைமை` continues;
-    - Kural 426–430.
-
-16. `works/thirukkural/pages/0122-porul-kutrangkadithal-01.md`
-    - scan 122 / printed 89;
-    - chapter 44 `குற்றங்கடிதல்` begins;
-    - Kural 431–435.
-
-17. `works/thirukkural/pages/0123-porul-kutrangkadithal-02.md`
-    - scan 123 / printed 90;
-    - chapter 44 `குற்றங்கடிதல்` continues;
-    - Kural 436–440.
-
-18. `works/thirukkural/pages/0124-porul-periyaaraith-thunaikkodal-01.md`
-    - scan 124 / printed 91;
-    - chapter 45 `பெரியாரைத் துணைக்கோடல்` begins;
-    - Kural 441–445.
-
-19. `works/thirukkural/pages/0125-porul-periyaaraith-thunaikkodal-02.md`
-    - scan 125 / printed 92;
-    - chapter 45 `பெரியாரைத் துணைக்கோடல்` continues;
-    - Kural 446–450.
-
-20. `works/thirukkural/pages/0126-porul-sitrinam-seraamai-01.md`
-    - scan 126 / printed 93;
-    - chapter 46 `சிற்றினம் சேராமை` begins;
-    - Kural 451–455.
-
-21. `works/thirukkural/pages/0127-porul-sitrinam-seraamai-02.md`
-    - scan 127 / printed 94;
-    - chapter 46 `சிற்றினம் சேராமை` continues;
-    - Kural 456–460.
-
-All twenty-one records deliberately remain:
-
-- `status: "needs-review"`;
-- `transcription_method: "manual transcription from source scan; direct visual verification pending"`.
-
-Do **not** promote any record to `verified` until the dedicated direct visual verification stage compares it against the controlling scan.
+- scans 114–115 / printed 81–82 — chapter 40 `கல்வி`, Kural 391–400;
+- scans 116–117 / printed 83–84 — chapter 41 `கல்லாமை`, Kural 401–410;
+- scans 118–119 / printed 85–86 — chapter 42 `கேள்வி`, Kural 411–420;
+- scans 120–121 / printed 87–88 — chapter 43 `அறிவுடைமை`, Kural 421–430;
+- scans 122–123 / printed 89–90 — chapter 44 `குற்றங்கடிதல்`, Kural 431–440;
+- scans 124–125 / printed 91–92 — chapter 45 `பெரியாரைத் துணைக்கோடல்`, Kural 441–450;
+- scans 126–127 / printed 93–94 — chapter 46 `சிற்றினம் சேராமை`, Kural 451–460.
 
 ## Structural transition in Part 006
 
@@ -197,36 +142,35 @@ The visible printed pagination jumps from **76** to **79** across the title/blan
 
 ## Source-sensitive note for chapter 38 `ஊழ்`
 
-Kalaignar's commentary repeatedly explains `ஊழ்` through **`இயற்கை நிலை`** in these supplied pages. Preserve that wording exactly in Tamil. A later English translation must follow Kalaignar's actual explanation rather than importing a conventional fate/destiny interpretation.
+Kalaignar's commentary repeatedly explains `ஊழ்` through **`இயற்கை நிலை`**. Preserve that wording exactly in Tamil. A later English translation must follow Kalaignar's actual explanation rather than importing a conventional fate/destiny interpretation.
 
 # Exact next activity
 
-Begin **Part 006 Tamil direct visual verification — Batch 1 only** for overall scans **107–113** / Part 006 local pages **1–7** / Kural **366–390**.
+Continue **Part 006 Tamil direct visual verification — Batch 2 only** for overall scans **114–120** / Part 006 local pages **8–14** / printed pages **81–87** / Kural **391–425**.
 
-This verification batch includes:
+This batch contains:
 
-- scan **107** — Kural 366–370, completing `அவா அறுத்தல்`;
-- scans **108–109** — chapter 38 `ஊழ்`, Kural 371–380;
-- scan **110** — `பொருள்` section-title page;
-- scan **111** — blank reverse page with bleed-through only;
-- scans **112–113** — chapter 39 `இறைமாட்சி`, Kural 381–390.
+- scans **114–115** — chapter 40 `கல்வி`, Kural **391–400**;
+- scans **116–117** — chapter 41 `கல்லாமை`, Kural **401–410**;
+- scans **118–119** — chapter 42 `கேள்வி`, Kural **411–420**;
+- scan **120** — chapter 43 `அறிவுடைமை`, Kural **421–425**.
 
 ## Required procedure for the next activity
 
-1. fresh-fetch this `HANDOVER.md`, `works/thirukkural/README.md`, and page records 0107–0113 before writing;
-2. inspect the controlling Part 006 scans 107–113 directly;
-3. compare every Kural, commentary paragraph, title, printed page number and non-text observation against the scan;
+1. fresh-fetch this `HANDOVER.md`, `works/thirukkural/README.md`, and page records 0114–0120 before writing;
+2. inspect controlling Part 006 scans 114–120 directly;
+3. compare every Kural, commentary paragraph, chapter heading, printed page number and relevant non-text observation against the scan;
 4. correct only differences supported by the source scan — do not modernize or normalize;
-5. when a page matches completely, change `status` to `verified` and update `transcription_method` to document direct visual verification;
+5. when a page matches completely, change `status` to `verified` and set `transcription_method` to `direct visual comparison with source scan`;
 6. if anything remains genuinely unclear, keep that record `needs-review` or `partial` and document the uncertainty instead of guessing;
 7. synchronize repository status/handover documents after the batch;
-8. stop after scan 113.
+8. stop after scan **120**.
 
 Do **not** in that activity:
 
-- verify scans 114–127;
+- verify scans 121–127;
 - create `AUDIT_PART_006.md`;
 - start English Part 006 translation;
 - begin Part 007 transcription.
 
-Planned later verification batches, after Batch 1 is complete, are scans **114–120** and then **121–127**. The Part 006 audit must wait until all 21 pages have completed direct visual verification.
+After Batch 2, the planned final verification batch is scans **121–127**. The Part 006 audit must wait until all 21 pages complete direct visual verification.
