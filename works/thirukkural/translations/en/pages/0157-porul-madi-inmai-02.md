@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Porul — Statecraft — Freedom from Laziness"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -14,7 +14,7 @@ translation_basis: "verified Tamil archival transcription; controlling scan rema
 **606. Even when they possess the affection of people of standing,  
 the lazy find it hard to attain the benefit called honour.**
 
-Even if lazy people are worthy of the affection of those who possess distinction, it is difficult for them to attain the benefit called greatness.
+Even if lazy people are the recipients of the affection of people of standing, it is difficult for them to attain the benefit called greatness.
 
 **607. Those who live in laziness without concern for making an effort  
 will hear words of rebuke and contempt.**
