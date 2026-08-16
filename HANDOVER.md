@@ -64,13 +64,13 @@ Parts **001–007 are fully released** through Kural **565**.
 
 Released Parts 001–007 must not be revised merely because later Parts introduce similar terminology. Any project-wide change must be deliberate, source-supported and documented.
 
-# Part 008 Tamil — ACTIVE
+# Part 008 Tamil — VERIFICATION COMPLETE / AUDIT PENDING
 
-Controlling source supplied in the conversation:
+Controlling source:
 
 `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf`
 
-A duplicate attachment display name may include `(2)`; identify the source by its content, not filename decoration.
+Duplicate attachment display names may include a parenthesized suffix such as `(2)` or `(3)`; identify the source by its content, not filename decoration.
 
 Physical scope:
 
@@ -83,16 +83,18 @@ First-pass transcription:
 
 - **21 / 21 complete**.
 
-Verification state at handover:
+Direct visual verification:
 
-- `verified`: **14 / 21** — scans **149–162 / Kural 566–635**;
-- `needs-review`: **7 / 21** — scans **163–169 / Kural 636–670**;
+- `verified`: **21 / 21** — scans **149–169 / Kural 566–670**;
+- `needs-review`: **0 / 21**;
 - `partial`: **0**;
 - `blocked`: **0**.
 
 Part 008 audit: **not started**.
 
 Part 008 English translation: **not started**.
+
+**Do not call Part 008 ARCHIVAL-READY yet.** Verification completion and the Tamil audit / archival-ready decision are separate gates.
 
 ## Completed Part 008 verification history
 
@@ -116,57 +118,49 @@ Scan **162 / printed page 129** directly confirms the running-header structural 
 
 Preserve this transition exactly.
 
+### Batch 3 — scans 163–169 / Kural 636–670
+
+Completed by direct visual comparison with the controlling scan.
+
+Three source-supported first-pass corrections were required:
+
+1. scan **164 / printed page 131 / Kural 643 commentary**:
+   - `கேட்டோரைத் கவரும்` → `கேட்டோரைக் கவரும்`;
+2. scan **166 / printed page 133 / Kural 651 text**:
+   - `ஆக்கம் தரூஉம்` → `ஆக்கந் தரூஉம்`;
+3. scan **166 / printed page 133 / Kural 653 text**:
+   - `ஆஅதும் என்னு மவர்` → `ஆஅது மென்னு மவர்`.
+
+Scans **163, 165, 167, 168 and 169** required no textual correction. Kural text, commentary, punctuation, chapter structure and source-visible running headers were checked directly against the scan.
+
+All seven Batch 3 page records now have:
+
+- `status: "verified"`;
+- `transcription_method: "direct visual comparison with source scan"`.
+
 # Exact next activity
 
-Perform **Part 008 Tamil direct visual verification — Batch 3 only**, for overall scans **163–169 / printed pages 130–136 / Kural 636–670**.
+Perform the separate **Part 008 Tamil audit / archival-ready decision** for all scans **149–169 / printed pages 116–136 / Kural 566–670**.
 
-The source pages have already been identified as:
+Before auditing, re-read the mandatory guides and inspect the complete Part 008 repository state. The audit is the gate that determines whether Part 008 can be declared archival-ready and whether `AUDIT_PART_008.md` should be created.
 
-- scan 163 / printed 130 — completes chapter 64 `அமைச்சு`, Kural 636–640;
-- scans 164–165 / printed 131–132 — chapter 65 `சொல்வன்மை`, Kural 641–650;
-- scans 166–167 / printed 133–134 — chapter 66 `வினைத் தூய்மை`, Kural 651–660;
-- scans 168–169 / printed 135–136 — chapter 67 `வினைத்திட்பம்`, Kural 661–670.
-
-Important: in the previous chat, source images for these seven pages were inspected and scan 163's existing Markdown was fetched, but **no Batch 3 page was promoted or edited before this handover request**. Therefore the repository status of 14 verified / 7 needs-review is the correct starting point.
-
-## Batch 3 required procedure
-
-For each of scans 163–169:
-
-1. inspect the controlling scan image directly;
-2. fetch the corresponding `works/thirukkural/pages/....md` file;
-3. compare Kural wording letter-by-letter, including joins, spacing, punctuation and two-line structure;
-4. compare chapter heading / running header and all Kalaignar commentary;
-5. correct only differences directly supported by the scan;
-6. if the page passes, change:
-   - `status: "needs-review"` → `status: "verified"`;
-   - `transcription_method` → `"direct visual comparison with source scan"`;
-7. document every actual correction;
-8. after all seven pages, synchronize root README, `works/thirukkural/README.md`, and this handover.
-
-Stop after scan 169.
-
-## Do not do during Batch 3
+## Do not start alongside the Part 008 audit unless explicitly requested
 
 Do **not**:
 
-- create `AUDIT_PART_008.md` in the same activity;
-- declare Part 008 `ARCHIVAL-READY` merely because verification becomes 21/21;
-- begin Part 008 English translation;
+- begin Part 008 English translation before the Tamil audit / archival-ready gate is completed;
 - begin Part 009 Tamil transcription;
 - alter released English Parts 001–007.
 
-If all seven pages pass, Part 008 should be recorded as **21/21 verified**, and the next separate activity should be the **Part 008 Tamil audit / archival-ready decision**.
+# After Part 008 audit
 
-# After Part 008 verification
+If and only if the audit passes, the intended sequence is:
 
-The intended sequence is:
-
-1. Part 008 Tamil audit / archival-ready decision;
+1. declare Part 008 Tamil archival-ready in the appropriate audit/status files;
 2. Part 008 English first-pass translation;
 3. Part 008 English source-check;
 4. Part 008 English editorial consistency / glossary reconciliation review;
 5. Part 008 English release gate;
 6. only then proceed to Part 009 Tamil work unless the user explicitly changes the order.
 
-Part 009 source has been supplied/received in the broader project context, but **Part 009 transcription is not active and must not be started during the current Part 008 verification activity**.
+Part 009 source has been supplied/received in the broader project context, but **Part 009 transcription is not active**.
