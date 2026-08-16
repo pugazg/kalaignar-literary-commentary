@@ -71,11 +71,13 @@ Parts **001–008 are audited / ARCHIVAL-READY** through:
 - printed page **136**;
 - Kural **670**.
 
-Part 008 audit record:
+Part 009 has completed transcription and direct visual verification through:
 
-`works/thirukkural/AUDIT_PART_008.md`
+- overall scan **191**;
+- printed page **158**;
+- Kural **780**;
 
-Part 009 first-pass transcription is now complete but **not verified and not audited**.
+but its Tamil audit has **not started**, so Part 009 is not yet archival-ready.
 
 ## English project translation
 
@@ -104,13 +106,13 @@ with metadata transition:
 
 Permanent Part 008 protections include Kalaignar's government/intelligence vocabulary, Kural 589's independent-spies logic, Kural 610's untiring-ruler explanation, Kural 615's relatives/friends/people-of-the-country circle, Kurals 618–620's rational/inquiry framing including **“God!”** and **Oozh**, Kural 632's council-of-ministers/citizens language, Kural 639's **seventy crore**, and direct images including the unbaked clay pot and chariot linchpin.
 
-# Part 009 Tamil — FIRST-PASS COMPLETE / VERIFICATION PENDING
+# Part 009 Tamil — DIRECT VISUAL VERIFICATION COMPLETE / AUDIT PENDING
 
 ## Controlling source
 
 `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf`
 
-The actual source was directly inspected before transcription. It contains **22 physical pages**.
+The actual source was directly inspected. It contains **22 physical pages**.
 
 Physical/content scope:
 
@@ -122,21 +124,19 @@ Physical/content scope:
 Current Part 009 Tamil state:
 
 - first-pass transcription: **22 / 22 complete**;
-- `needs-review`: **22 / 22**;
-- `verified`: **0**;
+- direct visual verification: **22 / 22 complete**;
+- `verified`: **22 / 22**;
+- `needs-review`: **0**;
 - `partial`: **0**;
 - `blocked`: **0**;
-- direct visual verification: **not started**;
 - Tamil audit: **not started**.
 
-Every Part 009 page record uses:
+Every Part 009 page record now uses:
 
 ```yaml
-status: "needs-review"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+status: "verified"
+transcription_method: "direct visual comparison with source scan"
 ```
-
-Do not promote a page to `verified` unless it has been directly compared with the controlling scan during the separate verification gate.
 
 ## Part 009 page/chapter map
 
@@ -156,7 +156,7 @@ Do not promote a page to `verified` unless it has been directly compared with th
 
 ## Part 009 source-visible structural transitions
 
-The first-pass metadata preserves these directly visible running-header changes:
+Direct verification confirms and preserves:
 
 1. scans **170–181** — `பொருள் — அமைச்சியல்`;
 2. scan **182 / printed page 149 / Kural 731** — `பொருள் — அரணியல் — நாடு`;
@@ -164,42 +164,52 @@ The first-pass metadata preserves these directly visible running-header changes:
 4. scan **188 / printed page 155 / Kural 761** — `பொருள் — படையியல் — படை மாட்சி`;
 5. scan **190 / printed page 157 / Kural 771** — `பொருள் — படையியல் — படைச் செருக்கு`.
 
-Do not flatten these distinct source sections during verification or later English work.
+Do not flatten these distinct source sections during the audit or later English work.
 
-## Verification-sensitive first-pass readings
+## Direct-verification correction
 
-The following require deliberate image-level checking during the next gate. They are **not invitations to normalize from memory**.
+One real first-pass transcription error was found and corrected from the scan:
+
+- scan **190 / Kural 771 commentary**:
+  - first pass: `நடுகல்லைப் போனவர்கள்`
+  - verified source: **`நடுகல்லாய்ப் போனவர்கள்`**.
+
+No other Part 009 body-text correction was required during direct visual verification.
+
+## Source-sensitive readings explicitly confirmed
+
+These unusual forms are now **visually confirmed source readings**, not unresolved flags:
 
 ### Scan 179 / Kural 717
 
-The supplied scan visibly appears to print:
+The supplied scan prints:
 
 ```text
 கற்றறிந்தார் கல்வி விளங்கும் கசடறச்
 சொற்றெரிதல் முன்னர் இழுக்கு.
 ```
 
-This differs from familiar wording one might expect. The first-pass record deliberately preserves the scan reading. Verify letter-for-letter from the source and retain it if the image confirms it.
+Retain this supplied-source wording unless a future source-level correction is documented from the same controlling edition.
 
 ### Scan 180 / Kural 725 commentary
 
-The first pass currently contains the awkward phrase:
+The scan confirms:
 
 `தருக்கமென்படும் அளவைக் திறமும்`
 
-Verify the exact letters/spacing from the scan. Do not silently repair the prose according to expected grammar.
+Do not silently normalize it according to expected grammar.
 
 ### Scan 182 / Kural 733 commentary
 
-The first pass currently contains a visually uncertain phrase around:
+The scan confirms:
 
 `மளவுக்கு வளம்`
 
-Resolve this from the scan itself during verification. Do not reconstruct from contextual expectation or another edition.
+Do not reconstruct or normalize it from contextual expectation or another edition.
 
-## Part 009 files created
+## Part 009 files
 
-All 22 page-aligned records now exist under `works/thirukkural/pages/`:
+All 22 page-aligned verified records exist under `works/thirukkural/pages/`:
 
 - `0170-porul-vinai-seyalvagai-01.md`
 - `0171-porul-vinai-seyalvagai-02.md`
@@ -226,32 +236,34 @@ All 22 page-aligned records now exist under `works/thirukkural/pages/`:
 
 # Exact next activity
 
-Perform the separate **Part 009 Tamil direct visual verification** for all **22 `needs-review` pages**, scans **170–191 / printed pages 137–158 / Kural 671–780**.
+Perform the separate **Part 009 Tamil audit / archival-ready gate** across all **22 verified records**, scans **170–191 / printed pages 137–158 / Kural 671–780**.
 
-## Required procedure
+## Required audit procedure
 
 1. fresh-read this handover and `works/thirukkural/README.md`;
-2. use the actual Part 009 source scan as controlling authority;
-3. compare each of the 22 Markdown records directly against its corresponding page image;
-4. check Kural text **letter-for-letter**, including source joins/spacing and the two-line structure;
-5. check every Kalaignar commentary sentence, punctuation and paragraph boundary;
-6. check chapter title, running header, scan page, Part local page and printed page metadata;
-7. explicitly resolve the verification-sensitive readings at scan 179 / Kural 717, scan 180 / Kural 725 commentary and scan 182 / Kural 733 commentary from the scan itself;
-8. document every real correction found during verification;
-9. promote only passing pages from `needs-review` to `verified` and change `transcription_method` to reflect direct visual comparison;
-10. synchronize `works/thirukkural/README.md`, root `README.md` and this handover at the end of the verification gate;
-11. stop after direct visual verification.
+2. inspect the 22 verified Part 009 records as one continuous archival unit;
+3. use the controlling scan whenever any source-level question arises;
+4. audit exact physical continuity: scans **170–191** and local pages **1–22**;
+5. audit printed-page continuity **137–158**;
+6. audit Kural continuity **671–780**, including chapter boundaries 68–78;
+7. audit section/running-header transitions `அமைச்சியல்` → `அரணியல்` → `கூழியல்` → `படையியல்`;
+8. audit metadata consistency: `part: 9`, source filename, page type, language, `status: "verified"`, and direct-visual-comparison method;
+9. confirm the scan-190/Kural-771 correction remains intact;
+10. confirm the source-sensitive readings at Kural 717, Kural 725 commentary and Kural 733 commentary remain exactly as verified;
+11. create `works/thirukkural/AUDIT_PART_009.md` documenting scope, checks, corrections, unresolved items if any, and the release decision;
+12. if and only if the audit passes with no blocker, mark Part 009 **ARCHIVAL-READY** in repository status documents;
+13. synchronize `works/thirukkural/README.md`, root `README.md`, and this `HANDOVER.md`;
+14. stop at the end of the Tamil audit gate.
 
-## Do not start alongside Part 009 verification unless explicitly requested
+## Do not start alongside the Part 009 audit unless explicitly requested
 
 Do **not**:
 
-- create `AUDIT_PART_009.md` during verification;
-- call Part 009 archival-ready merely because all pages become verified;
-- begin Part 009 English translation;
-- begin Part 010 transcription;
-- alter released English Parts 001–008.
+- begin Part 009 English translation during the audit;
+- begin Part 010 Tamil transcription;
+- alter released English Parts 001–008;
+- silently normalize the three source-sensitive confirmed readings.
 
-# After Part 009 direct visual verification
+# After Part 009 Tamil audit
 
-If all 22 pages resolve to `verified` with no blockers, the next separate activity is the **Part 009 Tamil audit / archival-ready gate**. Only after that audit passes may Part 009 English translation begin.
+If the audit passes and Part 009 becomes **ARCHIVAL-READY**, the next separate activity is **Part 009 English first-pass translation**, following the established English fidelity and glossary workflow.
