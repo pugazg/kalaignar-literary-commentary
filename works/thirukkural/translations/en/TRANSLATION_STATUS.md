@@ -11,6 +11,8 @@
 
 The English must retain the source author's language, argument, images and interpretive stance as closely as clear English permits. In Kalaignar's commentary, do not replace his explanation with a familiar standard Kural interpretation.
 
+A specific Part 007 source-sensitive rule is now recorded for Kural 543: Kalaignar explains `அந்தணர் நூற்கும்` through `அறவோர் நூல்களுக்கும்`. The project translation must follow Kalaignar's own interpretive direction; it must not automatically substitute a caste-specific conventional gloss for `அந்தணர்`.
+
 ## Current source readiness
 
 | Tamil part | Overall scans | Tamil state | English state |
@@ -21,7 +23,7 @@ The English must retain the source author's language, argument, images and inter
 | Part 004 | 63–84 | archival-ready | **RELEASE-READY — 22/22** |
 | Part 005 | 85–106 | archival-ready | **RELEASE-READY — 22/22** |
 | Part 006 | 107–127 | **ARCHIVAL-READY — 21/21 verified; audit passed** | **RELEASE-READY — 21/21** |
-| Part 007 | 128–148 | source received; transcription not started | not started |
+| Part 007 | 128–148 | **ARCHIVAL-READY — 21/21 verified; audit passed** | not started; ready for first-pass |
 | Part 008 | 149–169 | source received; transcription not started | not started |
 | Part 009 | 170–191 | source received; transcription not started | not started |
 | Part 010 | 192–214 | source received; transcription not started | not started |
@@ -44,35 +46,33 @@ Part 006 release artefacts:
 - [`reviews/PART_006_REVIEW.md`](reviews/PART_006_REVIEW.md)
 - [`reviews/PART_006_RELEASE_REPORT.md`](reviews/PART_006_RELEASE_REPORT.md)
 
-## Part 006 release state
+The released Parts 001–006 must not be revised merely because later parts introduce similar terminology. Any project-wide change must be deliberate, source-supported and documented.
 
-Scope: scans **107–127 / Kural 366–460**, including the Porul section-title page and blank reverse.
+# Part 007 English — READY TO BEGIN
 
-Final English state:
+Tamil Part 007 has passed its source-first archival audit:
 
-- aligned English page files: **21 / 21**;
-- `release-ready`: **21 / 21**;
-- `editorial-reviewed`: **0**;
-- `source-checked`: **0**;
-- `draft`: **0**;
-- `source-limited`: **0**;
-- `blocked`: **0**.
+- scans **128–148**;
+- printed pages **95–115**;
+- Kural **461–565**;
+- Tamil records **21/21 verified**;
+- audit decision **ARCHIVAL-READY**.
 
-The release preserves Kalaignar's language and interpretive direction. In particular:
+The English working basis is therefore the audited Tamil Part 007 page layer, with the supplied Tamil scans remaining ultimate source authority.
 
-- chapter 38 `ஊழ்` remains **Oozh**;
-- Kalaignar's repeated `இயற்கை நிலை` explanation remains **natural condition**, not a substituted fate/destiny doctrine;
-- `Porul` and `Statecraft` remain the controlled structural vocabulary for this transition;
-- chapter 46 `இனம்` is handled contextually through company / group / association in accordance with Kalaignar's supplied commentary;
-- direct social comparisons, governance vocabulary, rational inquiry, rebuke/correction and source imagery remain source-controlled.
+Mandatory translation principles for Part 007:
+
+- retain Kalaignar's own wording, images, political/governance vocabulary and interpretive direction;
+- translate Kalaignar's commentary, not a familiar external Thirukkural commentary;
+- do not import published English Kural wording from another edition;
+- preserve source-sensitive distinctions recorded by the Tamil audit;
+- at Kural 543, follow Kalaignar's `அறவோர் நூல்களுக்கும்` interpretation for `அந்தணர் நூற்கும்` rather than automatically rendering it as a caste-specific term.
 
 ## Next exact activity
 
-The English workflow for Part 006 is closed.
+Begin **Part 007 English project translation first-pass**, covering scans **128–148 / Kural 461–565** from the audited Tamil records.
 
-The next separate project activity may begin **Part 007 Tamil first-pass transcription**, starting from overall scan **128** / printed page **95** / Kural **461** and continuing only according to the established Tamil archival workflow.
-
-Do not revise released English Parts 001–006 merely because later parts introduce similar terminology. Any project-wide change must be deliberate, source-supported and documented.
+Do not begin Part 008 Tamil transcription in the same activity. Do not collapse first-pass translation, source-check, editorial review and release into one stage.
 
 Permanent cadence:
 
