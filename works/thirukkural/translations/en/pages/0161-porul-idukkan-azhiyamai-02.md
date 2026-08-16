@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Porul — Statecraft — Not Losing Heart in Adversity"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -17,7 +17,7 @@ later suffer saying, “We have lost”?**
 Those who did not rejoice that they had obtained so much wealth and did not think to protect it—will they become dispirited only when they happen to lose that wealth?
 
 **627. Those who understand that the body is a target for suffering  
-do not let distress become their way of meeting it.**
+do not respond to it with distress.**
 
 The great who understand that suffering is natural even to a body in which life exists will not regard suffering as suffering when it comes.
 
