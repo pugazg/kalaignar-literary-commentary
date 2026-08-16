@@ -6,8 +6,8 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–008 **ARCHIVAL-READY** through Kural 670; Part 009 Tamil verification **COMPLETE 22/22** through Kural 780, audit pending |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–008 **released through Kural 670** |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–009 **ARCHIVAL-READY** continuously through overall scan 191 / printed page 158 / Kural 780 |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–008 **released through Kural 670**; Part 009 eligible for English first pass |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -28,23 +28,15 @@ The project translation follows an explicit fidelity rule: **retain Kalaignar's 
 
 ## தற்போதைய நிலை — திருக்குறள்
 
-Tamil Parts **001–008** are audited / archival-ready continuously through:
-
-- overall scan **169**;
-- printed page **136**;
-- Kural **670**.
-
-Part 009 Tamil is fully transcribed and directly visually verified through:
+Tamil Parts **001–009** are audited / archival-ready continuously through:
 
 - overall scan **191**;
 - printed page **158**;
-- Kural **780**;
-
-but its separate Tamil audit has **not yet been performed**, so Part 009 is not yet archival-ready.
+- Kural **780**.
 
 English Parts **001–008** have completed their full release workflow continuously through Kural **670**.
 
-### Part 008 — completed baseline
+### Part 008 — completed English baseline
 
 Part 008 Tamil covers scans **149–169 / printed pages 116–136 / Kural 566–670** and is **ARCHIVAL-READY**. Audit: [`works/thirukkural/AUDIT_PART_008.md`](works/thirukkural/AUDIT_PART_008.md).
 
@@ -55,15 +47,15 @@ Part 008 English is **RELEASE COMPLETE 21/21**. Review/release artefacts:
 
 The controlled structural distinction remains `பொருள் — அரசியல்` → `பொருள் — அமைச்சியல்`, released in English as `Porul — Statecraft` → **`Porul — Ministerial Affairs`**.
 
-### Part 009 Tamil — DIRECT VISUAL VERIFICATION COMPLETE
+### Part 009 Tamil — ARCHIVAL-READY
 
-Controlling source:
+Part 009 source:
 
 `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf`
 
-Verified scope and state:
+Final audited scope:
 
-- physical pages: **22**;
+- **22 / 22** physical pages;
 - scans **170–191**;
 - printed pages **137–158**;
 - Kural **671–780**;
@@ -72,23 +64,37 @@ Verified scope and state:
 - `needs-review`: **0**;
 - `partial`: **0**;
 - `blocked`: **0**;
-- Tamil audit: **not started**.
+- audit decision: **ARCHIVAL-READY**.
 
-The source-visible Part 009 structural transitions are preserved:
+Audit: [`works/thirukkural/AUDIT_PART_009.md`](works/thirukkural/AUDIT_PART_009.md).
 
-- `பொருள் — அமைச்சியல்` through scan 181;
-- `பொருள் — அரணியல்` from scan 182;
-- `பொருள் — கூழியல்` from scan 186;
-- `பொருள் — படையியல்` from scan 188.
+The source-visible structural sequence in Part 009 is preserved as:
 
-Direct verification found one first-pass correction at **scan 190 / Kural 771 commentary**: `நடுகல்லைப் போனவர்கள்` was corrected to the scan-supported **`நடுகல்லாய்ப் போனவர்கள்`**.
+`அமைச்சியல்` → `அரணியல்` → `கூழியல்` → `படையியல்`.
 
-Three unusual source readings were visually confirmed and deliberately retained: Kural **717** (`கற்றறிந்தார் ... சொற்றெரிதல் ... இழுக்கு`), Kural **725 commentary** (`தருக்கமென்படும் அளவைக் திறமும்`), and Kural **733 commentary** (`மளவுக்கு வளம்`). They must not be silently normalized from another edition or expected grammar.
+Direct visual verification found one real first-pass correction at **scan 190 / Kural 771 commentary**:
+
+`நடுகல்லைப் போனவர்கள்` → **`நடுகல்லாய்ப் போனவர்கள்`**.
+
+The audit also protects three visually confirmed source readings that must not be silently normalized:
+
+- Kural **717**: `கற்றறிந்தார் கல்வி விளங்கும் கசடறச் / சொற்றெரிதல் முன்னர் இழுக்கு.`;
+- Kural **725 commentary**: `தருக்கமென்படும் அளவைக் திறமும்`;
+- Kural **733 commentary**: `மளவுக்கு வளம்`.
+
+Adjacent source continuity is established at both boundaries:
+
+- Part 008 printed **136** / Kural **670** → Part 009 printed **137** / Kural **671**;
+- Part 009 printed **158** / Kural **780** → supplied Part 010 printed **159** / Kural **781**, chapter `79. நட்பு`.
+
+Part 010 remains untranscribed.
 
 ## அடுத்த செயல்
 
-Perform the separate **Part 009 Tamil audit / archival-ready gate** across all **22 verified pages**, scans **170–191 / printed pages 137–158 / Kural 671–780**.
+Begin **Part 009 English project translation — first pass** for the **22 aligned pages**, scans **170–191 / Kural 671–780**.
 
-Create `works/thirukkural/AUDIT_PART_009.md` only during that audit. Declare Part 009 archival-ready only if the audit passes. Keep the gates separate: **do not begin Part 009 English translation or Part 010 Tamil transcription during the audit activity.**
+English pages must be created as `draft` project translations only. Before translation, use the English translation guide, glossary, current translation status, Part 008 review/release artefacts and the new Part 009 Tamil audit. Preserve Kalaignar's language, direct images, institutional/social vocabulary, structural distinctions and the source-sensitive readings documented in the audit.
+
+Do not combine the first pass with English source-check, editorial review or release, and do not begin Part 010 Tamil transcription during that activity.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), and [`HANDOVER.md`](HANDOVER.md).
