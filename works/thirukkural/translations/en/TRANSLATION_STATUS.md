@@ -32,14 +32,14 @@ Permanent protected decisions from earlier released parts remain binding, includ
 | Part 009 | 170–191 | **ARCHIVAL-READY** | **RELEASE-READY — 22/22** |
 | Part 010 | 192–214 | **ARCHIVAL-READY — 23/23 verified** | **RELEASE-READY — 23/23** |
 | Part 011 | 215–237 | **ARCHIVAL-READY — 23/23 verified** | **RELEASE-READY — 23/23** |
-| Part 012 | 238–260 | **ARCHIVAL-READY — 23/23 verified; audit passed** | **FIRST PASS COMPLETE — 23/23 draft** |
+| Part 012 | 238–260 | **ARCHIVAL-READY — 23/23 verified; audit passed** | **SOURCE-CHECK COMPLETE — 23/23 source-checked** |
 | Part 013 | 261–282 | source received; not started | not started |
 | Part 014 | 283–302 | source received; not started | not started |
 | Part 015 | 303–323 | source received; not started | not started |
 
 Tamil Parts **001–012 are archival-ready continuously through overall scan 260 / printed page 227 / Kural 1115**.
 
-English Parts **001–011 are fully released continuously through Kural 1010**. Part 012 now has a complete first-pass English layer and has not yet entered source-check.
+English Parts **001–011 are fully released continuously through Kural 1010**. Part 012 has completed its first-pass translation and separate direct source-check and is now ready for editorial consistency / glossary reconciliation.
 
 ## Released English counts
 
@@ -91,48 +91,54 @@ The incoming boundary passes at printed page **204 → 205 / Kural 1010 → 1011
 
 The three Tamil verification corrections remain authoritative, and the source-specific Kural **1077** and **1098** readings remain protected against normalization.
 
-## Part 012 English — FIRST PASS COMPLETE
+## Part 012 English — SOURCE-CHECK COMPLETE
 
-Aligned physical pages created: **23 / 23**.
+Aligned physical pages checked: **23 / 23**.
 
 Current English status counts:
 
-- `draft`: **23**;
-- `source-checked`: **0**;
+- `draft`: **0**;
+- `source-checked`: **23**;
 - `editorial-reviewed`: **0**;
 - `release-ready`: **0**;
 - `source-limited`: **0**;
 - `blocked`: **0**.
 
-Every Part 012 English record uses:
+Every Part 012 English record now uses:
 
 ```yaml
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ```
 
-Physical alignment is preserved for all scans, including scan **252** (`Inbam` title leaf) and scan **253** (blank/reverse-show-through leaf).
+The source-check compared every translated Kural and every Kalaignar commentary paragraph against its verified Tamil record. The controlling scan was directly re-inspected where source-sensitive wording or physical-page identity required it, including the three Tamil verification-correction locations, Kural **1077**, Kural **1098**, the `Inbam` title leaf and its blank reverse leaf.
 
-First-pass structural treatment:
+No source-fidelity body-text correction was required during this English source-check; the 23 passing records were promoted from `draft` to `source-checked` without changing their translated body text.
 
-- scans **238–251**: `Porul — Civic Life`;
-- scan **252**: `Inbam` title leaf;
-- scan **253**: reverse of the `Inbam` title leaf;
-- scans **254–260**: provisionally `Inbam — Clandestine Love`.
+Explicitly retained source-controlled treatments include:
 
-First-pass chapter headings 102–112 are provisional except where an earlier controlled rendering already exists. `குறிப்பறிதல்` continues the established **Understanding Signs** rendering. New Part 012 headings and `களவியல்` have **not** been added to `GLOSSARY.md`; they belong to the later editorial/glossary reconciliation gate.
+- Kural **1018** commentary — moral conduct itself is treated as having withdrawn in shame, following verified `அகன்றுவிட்டதாகக் கருத வேண்டும்`;
+- Kural **1035** commentary — the person works, **earns wages and eats**, following verified `ஊதியம் பெற்று உண்ணும் இயல்புடையவர்`;
+- Kural **1048** commentary — poverty tormented the poor person yesterday **as though killing him**, following verified `கொலை செய்வதுபோல நேற்று...`;
+- Kural **1062** — Kalaignar's direct challenge to the one said to have created the world remains intact;
+- Kural **1077** — this edition's unusual printed Kural remains the basis, with Kalaignar's fist/cheek and **saliva-wet hand** commentary direction preserved;
+- Kural **1098** — this edition's unusual printed Kural remains the basis, with Kalaignar's affectionate soft smile and new-radiance explanation preserved;
+- Kural **1103** — Kalaignar's skeptical comparison with the **world of the lotus-eyed one** remains intact;
+- Kural **1115** — the anicham-flower stalk, broken waist and absent auspicious-drum explanation remains intact.
 
-The first pass explicitly follows the audited edition-specific readings at Kural **1077** and **1098**, using Kalaignar's adjacent commentary rather than substituting a familiar external wording. It also retains source-specific directions such as Kural **1062**'s challenge to the supposed creator, Kural **1103**'s skeptical comparison with the “world of the lotus-eyed one,” and Kural **1115**'s direct anicham-flower/stalk image.
+Physical alignment also remains intact for scan **252** (`Inbam` title leaf) and scan **253** (blank/reverse-show-through leaf).
+
+The Part 012 first-pass structural/chapter renderings remain provisional at this gate. `களவியல்` is still provisionally **Clandestine Love**, while the already controlled `குடியியல்` → **Civic Life** and `குறிப்பறிதல்` → **Understanding Signs** remain in use. `GLOSSARY.md` was deliberately **not** changed during source-check.
 
 ## Exact next activity
 
-**Part 012 English direct source-check — all 23 draft physical pages / scans 238–260.**
+**Part 012 English editorial consistency / glossary reconciliation — all 23 source-checked physical pages / scans 238–260.**
 
-Compare every English Kural and commentary paragraph directly against the corresponding verified Tamil record, with the controlling scan authoritative where needed. Correct omissions, additions, subject drift, imagery loss or unsupported interpretation. Promote only passing records to `source-checked`.
+Review English readability and internal consistency without weakening source fidelity. Deliberately reconcile the new Part 012 structural term `களவியல்` and chapter headings **102–112** against the actual supplied main-body context and existing project vocabulary. Update `GLOSSARY.md` only in that editorial gate, document the decisions in `reviews/PART_012_REVIEW.md`, and promote pages to `editorial-reviewed` only if the gate passes.
 
-Keep `களவியல்` and newly introduced Part 012 chapter headings provisional during source-check. Do not update `GLOSSARY.md` or perform editorial/release work in the same activity. Do not begin Part 013 Tamil transcription. Do not alter released English Parts 001–011.
+Do **not** perform the Part 012 release gate in the same activity. Do not begin Part 013 Tamil transcription. Do not alter released English Parts 001–011.
 
 Permanent cadence:
 
