@@ -17,35 +17,14 @@
 | 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 22/22** |
 | 010 | `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf` | 23 | 192–214 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 23/23** |
 | 011 | `திருக்குறள்_கலைஞர்_உரை_part_011_pages_215-237.pdf` | 23 | 215–237 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 23/23** |
+| 012 | `திருக்குறள்_கலைஞர்_உரை_part_012_pages_238-260.pdf` | 23 | 238–260 | Tamil first-pass **COMPLETE 23/23**; all `needs-review`; direct verification pending |
+| 013 | `திருக்குறள்_கலைஞர்_உரை_part_013_pages_261-282.pdf` | 22 | 261–282 | source received; **not started** |
+| 014 | `திருக்குறள்_கலைஞர்_உரை_part_014_pages_283-302.pdf` | 20 | 283–302 | source received; **not started** |
+| 015 | `திருக்குறள்_கலைஞர்_உரை_part_015_pages_303-323.pdf` | 21 | 303–323 | source received; **not started** |
 
 Tamil Parts **001–011 are archival-ready continuously** through overall scan **237** / printed page **204** / Kural **1010**.
 
-English Parts **001–011 are released continuously** through Kural **1010**.
-
-## Part 011 Tamil — ARCHIVAL-READY
-
-Controlling source: `திருக்குறள்_கலைஞர்_உரை_part_011_pages_215-237.pdf`
-
-Audit record: [`AUDIT_PART_011.md`](AUDIT_PART_011.md) — **PASS / ARCHIVAL-READY**.
-
-Final audited scope:
-
-- physical pages: **23 / 23**;
-- overall scans: **215–237**;
-- Part-local pages: **1–23**;
-- printed pages: **182–204**;
-- Kural range: **896–1010**;
-- `verified`: **23 / 23**;
-- unresolved/missing records: **0**.
-
-The Part 010 → Part 011 boundary passes at printed page **181 → 182** / Kural **895 → 896**. Scan 215 completes chapter 90 `பெரியாரைப் பிழையாமை`; chapters 91–101 then continue without a Kural gap through Kural 1010.
-
-The source structural transition is preserved:
-
-- scans **215–225**: `பொருள் — நட்பியல்`;
-- from scan **226 / printed page 193 / chapter 96 குடிமை**: `பொருள் — குடியியல்`.
-
-Exactly four Tamil verification corrections remain authoritative: Kural **904** `மனையாளை யஞ்சும்`, Kural **905** `இல்லாளை யஞ்சுவான்`, Kural **911** commentary `பொருள் திரட்டுவதையே`, and Kural **927** commentary `மயங்குவதைக் கண்டு`.
+Part **012 Tamil first-pass transcription is complete** for all physical scans **238–260** but has **not** yet passed direct visual verification or audit. English Parts **001–011 are released continuously** through Kural **1010**; Part 012 English is not eligible to begin until Part 012 Tamil becomes archival-ready.
 
 ## Part 011 English — RELEASE COMPLETE
 
@@ -53,43 +32,52 @@ Editorial review: [`translations/en/reviews/PART_011_REVIEW.md`](translations/en
 
 Release report: [`translations/en/reviews/PART_011_RELEASE_REPORT.md`](translations/en/reviews/PART_011_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
 
-Released English scope:
+Released English scope is **23 / 23** pages for scans **215–237 / printed pages 182–204 / Kural 896–1010**. All Part 011 English pages are `release-ready` and the released protections recorded in the review/release report remain binding.
 
-- aligned pages: **23 / 23**;
-- scans **215–237**;
-- printed pages **182–204**;
-- Kural **896–1010**;
-- `release-ready`: **23 / 23**;
-- unresolved / blocked: **0**.
+## Part 012 Tamil — FIRST PASS COMPLETE
 
-All Part 011 English pages identify:
+Controlling source: `திருக்குறள்_கலைஞர்_உரை_part_012_pages_238-260.pdf`
+
+Source-intake / first-pass scope:
+
+- physical pages: **23 / 23**;
+- overall scans: **238–260**;
+- Part-local pages: **1–23**;
+- printed pages: **205–218**, followed by two unnumbered section leaves, then **221–227**;
+- Kural range physically present: **1011–1115**;
+- first-pass `needs-review`: **23 / 23**;
+- `verified`: **0 / 23**;
+- audit: **not started**.
+
+The Part 011 → Part 012 incoming boundary was directly inspected from the supplied scans and is continuous at printed page **204 → 205 / Kural 1010 → 1011**.
+
+The source-visible structure is:
+
+- scans **238–251**: `பொருள் — குடியியல்`, covering chapters 102–108 and Kural **1011–1080**;
+- scan **252**: centered section-title leaf `இன்பம்`;
+- scan **253**: no independent printed body text; reverse-side show-through only;
+- scans **254–260**: `இன்பம் — களவியல்`, beginning chapter 109 at Kural **1081** and continuing through Kural **1115**;
+- chapter 112 `நலம் புனைந்து உரைத்தல்` begins on scan **260 / printed page 227** and is only partially present in Part 012, through Kural **1115**.
+
+The supplied Part 013 first page was inspected only to understand the outgoing boundary: it is printed page **228** and begins with Kural **1116**, so no Kural beyond **1115** has been imported into Part 012.
+
+All Part 012 records currently carry:
 
 ```yaml
-translation_type: "project_translation"
-status: "release-ready"
-source_tamil_status: "verified"
-translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
+status: "needs-review"
+transcription_method: "manual transcription from source scan; direct visual verification pending"
 ```
 
-The released structural rendering is:
+The section-title and blank leaves follow the repository's existing physical-page precedent (`section-title` / `blank`) rather than being omitted.
 
-- scans **215–225**: `நட்பியல்` → **Friendship**;
-- scans **226–237**: `குடியியல்` → **Civic Life**.
+First-pass source-sensitive forms that must be checked directly rather than normalized during verification include, among others, scan **251 / Kural 1077** and scan **257 / Kural 1098**. No external or remembered Kural wording is authoritative for those checks.
 
-Released chapter headings 90–101 are **Not Offending the Great**, **Following a Woman's Lead**, **Women Beyond Bounds**, **Abstaining from Liquor**, **Gambling**, **Medicine**, **Nobility**, **Honour**, **Greatness**, **Exemplary Character**, **Good Character**, and **Wealth Without Benefit**.
-
-All six English source-check corrections remain intact: Kural 911 **bring suffering**, Kural 926's corrected line relationship, Kural 953 **truthful citizens**, Kural 961's removal of the unsupported qualification, Kural 989's commentary-only all-seas image, and Kural 1006's corrected disease/wealth subject relationship.
-
-The editorial refinement at Kural **939** remains **fame** in the Kural's five-item list.
-
-Protected source-sensitive treatments remain intact, including Kural **899**'s **oppressive government**, Kural **912**'s sugar-sweet wording, Kural **931**'s fish/hook image, Kural **948**'s **social disease**, Kural **966**'s **nonexistent heaven** question, the unusual audited Kural **971** basis, Kural **972**'s equality formulation, Kural **985/1008** source punctuation and Kural **1001**'s house-filling wealth image.
-
-No substantive Kural or Kalaignar-commentary body text was changed during the release gate; release promotion changed page status only.
-
-No Kural **1011** or later text has been inferred or created.
+Parts **013–015** have been received but no Tamil records have been created for them in this gate.
 
 ## அடுத்த செயல்
 
-The supplied material is now closed through the Part 011 English release gate.
+Perform the separate **Part 012 Tamil direct visual verification** gate for **all 23 physical pages, scans 238–260**.
 
-Do **not** assume or reconstruct Part 012. The next activity begins only when an actually supplied subsequent Tamil source is available. Inspect that source directly, verify its identity and the outgoing boundary after printed page **204 / Kural 1010**, then begin the next separate Tamil source-intake / first-pass transcription gate.
+Compare every first-pass record line-by-line with the controlling Part 012 scan: Kural wording and two-line structure, Kalaignar commentary, punctuation, headings, running-header hierarchy, section-title/blank leaves, printed-page metadata, scan/local-page metadata and source markers. Record every real correction and promote a page to `verified` only after it passes direct comparison.
+
+Do **not** create `AUDIT_PART_012.md` during verification. Do **not** begin Part 012 English, and do **not** begin Part 013 transcription in the same activity.
