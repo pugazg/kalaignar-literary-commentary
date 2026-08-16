@@ -28,8 +28,8 @@ Permanent protected decisions from earlier released parts remain binding, includ
 | Part 005 | 85–106 | archival-ready | **RELEASE-READY — 22/22** |
 | Part 006 | 107–127 | **ARCHIVAL-READY — audit passed** | **RELEASE-READY — 21/21** |
 | Part 007 | 128–148 | **ARCHIVAL-READY — audit passed** | **RELEASE-READY — 21/21** |
-| Part 008 | 149–169 | **ARCHIVAL-READY — 21/21 verified; audit passed** | **RELEASE-READY — 21/21** |
-| Part 009 | 170–191 | source received; transcription not started | not started |
+| Part 008 | 149–169 | **ARCHIVAL-READY — audit passed** | **RELEASE-READY — 21/21** |
+| Part 009 | 170–191 | **ARCHIVAL-READY — 22/22 verified; audit passed** | **not started — eligible for first pass** |
 | Part 010 | 192–214 | source received; transcription not started | not started |
 
 ## Released English counts
@@ -42,6 +42,7 @@ Permanent protected decisions from earlier released parts remain binding, includ
 - Part 006: **21/21 `release-ready`** — through Kural 460.
 - Part 007: **21/21 `release-ready`** — through Kural 565.
 - Part 008: **21/21 `release-ready`** — through Kural 670.
+- Part 009: English records **not started**.
 
 # Parts 001–008 English release — COMPLETE
 
@@ -91,38 +92,58 @@ The source-visible transition at scan **162 / Kural 631** is released as:
 
 ## Source-check corrections and editorial refinements released intact
 
-The release gate confirmed all six source-check corrections:
+The Part 008 release retains all six source-check corrections and three editorial readability refinements, including the controlled wording at Kurals 602, 627 and 641. It also preserves Kalaignar's government/intelligence vocabulary, rational/inquiry framing, **Oozh**, the direct **“God!”** line, council-of-ministers/citizens framing, **seventy crore**, and direct source images.
 
-1. Kural **579** — **“those whose nature is to seek one's destruction”**;
-2. Kural **606 commentary** — **“the recipients of the affection”**;
-3. Kural **626** — the clarified failure to guard what had been gained;
-4. Kural **627** — no unsupported “helpless refuge” idea;
-5. Kural **638** — no unsupported insertion of “ruler / those in authority”;
-6. Kural **644** — **“equal to”**, not “greater than.”
+# Part 009 Tamil basis — ARCHIVAL-READY / ENGLISH NOT STARTED
 
-The three editorial readability refinements also remain intact:
+Part 009 Tamil has passed its separate archival audit:
 
-- Kural **602** — **“must reject laziness and conduct themselves without it”**;
-- Kural **627** — **“do not respond to it with distress”**;
-- Kural **641** — **“The excellence called eloquence ...”**.
+- scans **170–191**;
+- printed pages **137–158**;
+- Kural **671–780**;
+- chapters **68–78**;
+- Tamil `verified`: **22 / 22**;
+- Tamil audit: **PASS / ARCHIVAL-READY**.
 
-No new substantive translation change was made during release.
+Tamil audit: [`../../AUDIT_PART_009.md`](../../AUDIT_PART_009.md).
 
-## Protected Part 008 source decisions released
+Part 009 English currently has:
 
-The release retains Kalaignar's institutional government/intelligence vocabulary, Kural 589's three-independent-spies logic, Kural 610's untiring-ruler explanation, Kural 615's relatives/friends/people-of-the-country circle, Kurals 618–620's rational/inquiry framing including **“God!”** and **Oozh**, Kural 632's council-of-ministers/citizens language, Kural 639's **seventy crore**, and the source images including the unbaked clay pot and chariot linchpin.
+- aligned English pages: **0 / 22**;
+- `draft`: **0**;
+- `source-checked`: **0**;
+- `editorial-reviewed`: **0**;
+- `release-ready`: **0**;
+- `source-limited`: **0**;
+- `blocked`: **0**.
+
+## Part 009 source-sensitive protections for translation
+
+The first-pass English translation must work from the audited Tamil records and retain Kalaignar's direction rather than silently importing familiar Kural wording.
+
+Particularly protect:
+
+1. Kural **717** — the supplied edition's visually confirmed Tamil wording is `கற்றறிந்தார் கல்வி விளங்கும் கசடறச் / சொற்றெரிதல் முன்னர் இழுக்கு.`;
+2. Kural **725 commentary** — preserve the meaning of the printed phrase `தருக்கமென்படும் அளவைக் திறமும்`; do not silently rewrite the Tamil basis;
+3. Kural **733 commentary** — work from the source-supported `மளவுக்கு வளம்`, documenting any English uncertainty rather than changing the Tamil;
+4. Kural **771 commentary** — use the verified `நடுகல்லாய்ப் போனவர்கள்` reading;
+5. preserve the source-visible structural distinctions `அமைச்சியல்` → `அரணியல்` → `கூழியல்` → `படையியல்` rather than flattening all of them into one generic section.
 
 ## Next exact activity
 
-Begin the separate **Part 009 Tamil first-pass transcription** from overall scan **170 / printed page 137 / Kural 671**, chapter 68 `வினை செயல்வகை`, using the supplied Part 009 source.
+Perform **Part 009 English project translation — first pass** for all **22 aligned pages**, scans **170–191 / printed pages 137–158 / Kural 671–780**.
 
-Required gate discipline:
+Before writing:
 
-1. inspect the actual Part 009 source scans before transcription;
-2. confirm source identity, page count and boundary from Part 008;
-3. create/update the Part 009 Tamil page-aligned records as `needs-review` during first pass;
-4. preserve source spelling, punctuation, wording, Kural line structure and running headers exactly;
-5. stop at the first-pass transcription gate — do not combine it with direct visual verification, Tamil audit or English translation.
+1. fresh-read `TRANSLATION_GUIDE.md`;
+2. fresh-read `GLOSSARY.md`;
+3. read this status file;
+4. read `reviews/PART_008_REVIEW.md` and `reviews/PART_008_RELEASE_REPORT.md` as the completed prior model;
+5. read the audited Part 009 Tamil records and `../../AUDIT_PART_009.md`.
+
+Create page-aligned English records as `draft` only with `translation_type: "project_translation"`. Preserve the Kural/commentary separation, Kalaignar's language, direct images, institutional/social vocabulary and interpretive direction.
+
+Stop after the first-pass English gate. Do **not** combine it with English source-check, editorial review or release, and do not begin Part 010 Tamil transcription during that activity.
 
 Permanent cadence:
 
