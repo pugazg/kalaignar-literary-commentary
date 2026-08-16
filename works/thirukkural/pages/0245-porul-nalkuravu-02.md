@@ -6,10 +6,10 @@ printed_page: "212"
 work: "thirukkural"
 section: "பொருள் — குடியியல் — நல்குரவு"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_012_pages_238-260.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **1046. நற்பொருள் நன்குணர்ந்து சொல்லினும் நல்கூர்ந்தார்  
@@ -25,7 +25,7 @@ transcription_method: "manual transcription from source scan; direct visual veri
 **1048. இன்றும் வருவது கொல்லோ நெருநலும்  
 கொன்றது போலும் நிரப்பு.**
 
-கொலை செய்வதுபோல் நேற்று கொடுமைப்படுத்திய வறுமை, தொடர்ந்து இன்றைக்கும் வராமல் இருக்க வேண்டுமே என்று வறியவன் ஏங்குவான்.
+கொலை செய்வதுபோல நேற்று கொடுமைப்படுத்திய வறுமை, தொடர்ந்து இன்றைக்கும் வராமல் இருக்க வேண்டுமே என்று வறியவன் ஏங்குவான்.
 
 **1049. நெருப்பினுள் துஞ்சலும் ஆகும் நிரப்பினுள்  
 யாதொன்றும் கண்பா டரிது.**
