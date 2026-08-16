@@ -6,10 +6,10 @@ printed_page: "127"
 work: "thirukkural"
 section: "பொருள் — அரசியல் — இடுக்கண் அழியாமை"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 # 63. இடுக்கண் அழியாமை
