@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–012 **ARCHIVAL-READY continuously through scan 260 / printed page 227 / Kural 1115** |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–011 **RELEASED continuously through Kural 1010**; Part 012 eligible for first pass |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–011 **RELEASED through Kural 1010**; Part 012 **FIRST PASS COMPLETE — 23/23 draft** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -28,31 +28,26 @@ The project translation follows an explicit fidelity rule: **retain Kalaignar's 
 
 ## தற்போதைய நிலை — திருக்குறள்
 
-Tamil Parts **001–012** are now audited / archival-ready continuously through overall scan **260** / printed page **227** / Kural **1115**.
+Tamil Parts **001–012** are audited / archival-ready continuously through overall scan **260** / printed page **227** / Kural **1115**.
 
 Part 012 Tamil audit: [`works/thirukkural/AUDIT_PART_012.md`](works/thirukkural/AUDIT_PART_012.md) — **PASS / ARCHIVAL-READY**.
 
-Part 012 audited scope is **23 / 23 physical pages**, scans **238–260**, with continuous Kural numbering **1011–1115**. Printed pagination is source-supported as **205–218**, followed by two unnumbered physical leaves, then **221–227**.
+English Parts **001–011** remain fully released through Kural **1010**. Part 012 English first pass is now **complete for all 23 aligned physical pages / scans 238–260**, with all 23 records at `status: "draft"`.
 
-The source-visible Part 012 transition is preserved:
+Part 012 English preserves the physical transition from `பொருள் — குடியியல்` through the standalone `இன்பம்` title and blank reverse leaf into `இன்பம் — களவியல்`. The first-pass English uses the established **Civic Life** rendering, `Inbam` for the section title, and provisionally **Clandestine Love** for `களவியல்`.
 
-- scans **238–251**: `பொருள் — குடியியல்`;
-- scan **252**: standalone `இன்பம்` title leaf;
-- scan **253**: blank/reverse-show-through leaf;
-- scans **254–260**: `இன்பம் — களவியல்`.
+The source-specific Kural **1077** and **1098** readings were translated from this audited edition with Kalaignar's adjacent commentary as the interpretive guide, rather than replaced with familiar external Kural wording.
 
-The incoming boundary passes at printed page **204 → 205 / Kural 1010 → 1011**. The supplied Part 013 first page confirms the outgoing continuation at printed page **227 → 228 / Kural 1115 → 1116**, without starting Part 013 transcription.
-
-The three Part 012 verification corrections remain authoritative, and the unusual source readings at Kural **1077** (`ஈங்கை விதிரார்...`) and Kural **1098** (`அசையியற் குண்டாண்டோர்...`) remain protected against normalization.
-
-English Parts **001–011** remain fully released through Kural **1010**. Part 012 English has **not** started, but is now eligible because the Tamil audit passed.
+`GLOSSARY.md` was deliberately not changed during first pass; newly introduced Part 012 structural/chapter renderings remain provisional until editorial reconciliation.
 
 Additional supplied Tamil sources Parts **013–015** remain received but not started.
 
 ## அடுத்த செயல்
 
-The exact next activity is **Part 012 English project translation — first pass** for all **23 aligned physical pages / scans 238–260**.
+The exact next activity is **Part 012 English direct source-check** for all **23 draft pages / scans 238–260**.
 
-Create Part 012 English records only as `translation_type: "project_translation"` and `status: "draft"`, preserve the section-title and blank leaves as aligned records, and stop after first pass. Do not combine that gate with source-check, editorial review, release, or Part 013 Tamil transcription.
+Compare each Kural translation and each Kalaignar commentary paragraph against the verified Tamil record, using the controlling scan as needed. Promote only passing pages to `source-checked`.
+
+Do not combine that gate with editorial/glossary review, release, or Part 013 Tamil transcription.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), and [`HANDOVER.md`](HANDOVER.md).
