@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Porul — Statecraft — Freedom from Laziness"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -19,7 +19,7 @@ when covered by the stain called laziness.**
 However bright the greatness of the family into which one is born may be, once laziness takes up residence there, that brightness will fade and turn dark.
 
 **602. Those who wish their family to remain worthy of its name  
-must conduct themselves by casting laziness away as laziness.**
+must reject laziness and conduct themselves without it.**
 
 If a family is to flourish, laziness must be removed and efforts must be undertaken with initiative.
 
