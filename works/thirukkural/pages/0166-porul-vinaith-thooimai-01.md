@@ -6,15 +6,15 @@ printed_page: "133"
 work: "thirukkural"
 section: "பொருள் — அமைச்சியல் — வினைத் தூய்மை"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 # 66. வினைத் தூய்மை
 
-**651. துணைநலம் ஆக்கம் தரூஉம் வினைநலம்  
+**651. துணைநலம் ஆக்கந் தரூஉம் வினைநலம்  
 வேண்டிய எல்லாந் தரும்.**
 
 ஒருவருக்குக் கிடைக்கும் துணைவர்களால் வலிமை பெருகும்; அவர்களுடன் கூடி ஆற்றிடும் நற்செயல்களால் எல்லா நலன்களும் கிட்டும்.
@@ -25,7 +25,7 @@ transcription_method: "manual transcription from source scan; direct visual veri
 புகழையும், நன்மையையும் தராத தூய்மையற்ற செயல்களை எந்த நிலையிலும் செய்யாமல் அவற்றை விட்டொழிக்க வேண்டும்.
 
 **653. ஓஒதல் வேண்டும் ஒளிமாழ்குஞ் செய்வினை  
-ஆஅதும் என்னு மவர்.**
+ஆஅது மென்னு மவர்.**
 
 மேன்மேலும் உயர்ந்திட வேண்டுமென விரும்புகின்றவர்கள், தம்முடைய செயல்களால் தமது புகழ்கெடாமல் கவனமாக இருந்திட வேண்டும்.
 
