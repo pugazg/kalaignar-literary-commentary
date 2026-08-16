@@ -33,13 +33,15 @@ Permanent protected decisions from earlier released parts remain binding, includ
 | Part 010 | 192–214 | **ARCHIVAL-READY — 23/23 verified** | **RELEASE-READY — 23/23** |
 | Part 011 | 215–237 | **ARCHIVAL-READY — 23/23 verified** | **RELEASE-READY — 23/23** |
 | Part 012 | 238–260 | **ARCHIVAL-READY — 23/23 verified; audit passed** | **RELEASE-READY — 23/23** |
-| Part 013 | 261–282 | source received; not started | not started |
+| Part 013 | 261–282 | **FIRST-PASS COMPLETE — 22/22 needs-review; verification pending** | **NOT STARTED — not eligible until Tamil audit passes** |
 | Part 014 | 283–302 | source received; not started | not started |
 | Part 015 | 303–323 | source received; not started | not started |
 
 Tamil Parts **001–012 are archival-ready continuously through overall scan 260 / printed page 227 / Kural 1115**.
 
-English Parts **001–012 are fully released continuously through Kural 1115**.
+Part 013 has a complete first-pass Tamil page layer through overall scan **282 / printed page 249 / Kural 1225**, but it is **not archival-ready** until direct visual verification and the later Tamil audit pass.
+
+English Parts **001–012 are fully released continuously through Kural 1115**. No Part 013 English record has been created.
 
 ## Released English counts
 
@@ -66,67 +68,51 @@ Release report: [`reviews/PART_012_RELEASE_REPORT.md`](reviews/PART_012_RELEASE_
 
 Released Parts 001–012 must remain untouched merely to harmonize later wording. Their documented vocabulary, source-check corrections and source-sensitive protections remain binding.
 
-## Part 012 release result
+Part 012 remains closed with **23/23 `release-ready`** pages through Kural 1115, including its physical `Porul — Civic Life → Inbam title/blank leaves → Inbam — Clandestine Love` sequence.
 
-Released physical pages: **23 / 23**.
+## Part 013 Tamil basis — FIRST PASS ONLY
 
-Released scope:
+Controlling source: `திருக்குறள்_கலைஞர்_உரை_part_013_pages_261-282.pdf`
 
-- scans **238–260**;
-- printed pages **205–218**, two unnumbered physical leaves, then **221–227**;
-- Kural **1011–1115**;
-- chapter coverage **102–111 complete**, chapter **112 partial through Kural 1115**.
+Current Tamil state:
 
-Final Part 012 English status counts:
+- physical records: **22 / 22**;
+- overall scans: **261–282**;
+- Part-local pages: **1–22**;
+- printed pages: **228–249**;
+- Kural range: **1116–1225**;
+- first-pass `needs-review`: **22 / 22**;
+- `verified`: **0 / 22**;
+- audit: **not started**;
+- English eligibility: **no**.
 
-- `draft`: **0**;
-- `source-checked`: **0**;
-- `editorial-reviewed`: **0**;
-- `release-ready`: **23**;
-- `source-limited`: **0**;
-- `blocked`: **0**.
+The first-pass source hierarchy is recorded as:
 
-Every Part 012 English record carries:
+- scans **261–277**: `இன்பம் — களவியல்`;
+- scans **278–282**: `இன்பம் — கற்பியல்`.
 
-```yaml
-translation_type: "project_translation"
-status: "release-ready"
-source_tamil_status: "verified"
-translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
-```
+The transition occurs at scan **278 / printed page 245 / Kural 1201**. Chapter 112 is completed at scan 261; chapters 113–122 are complete in this source unit; chapter 123 begins on scan 282 and is present only through Kural **1225**.
 
-Released source structure:
+The incoming boundary passes at printed page **227 → 228 / Kural 1115 → 1116**.
 
-- scans **238–251**: `Porul — Civic Life`;
-- scan **252**: standalone `Inbam` title leaf;
-- scan **253**: blank/reverse-show-through leaf;
-- scans **254–260**: `Inbam — Clandestine Love`.
+Source-sensitive first-pass forms that require deliberate checking during the next Tamil verification gate include:
 
-Released chapter headings **102–112** are:
+- scan **268 / Kural 1152 commentary**: `வந்துதிகிறது!`;
+- scan **281 / Kural 1220**:
+  ```text
+  நனவினான் நந்தத்தார் என்பர் கனவினான்
+  காணார்கொல் இவ்வூ ரவர்.
+  ```
 
-- 102 **Modesty**;
-- 103 **Working for the Community**;
-- 104 **Agriculture**;
-- 105 **Poverty**;
-- 106 **Begging**;
-- 107 **Dread of Begging**;
-- 108 **Baseness**;
-- 109 **The Torment of Beauty**;
-- 110 **Understanding Signs**;
-- 111 **Delight in Union**;
-- 112 **Praising Her Beauty**.
-
-The release gate confirmed one-to-one English/Tamil alignment, scan and physical-page continuity, the source-present title/blank leaves, the three Tamil verification corrections, and all protected source-sensitive treatments. In particular, Kural **1062**, **1077**, **1098**, **1103** and **1115** remain source-controlled as documented in the editorial review and release report.
-
-No substantive English body-text change was made at the release gate; the 23 passing records were promoted from `editorial-reviewed` to `release-ready`.
+These are not English terminology decisions and must not be normalized or translated yet. Part 013 English remains ineligible until the Tamil direct-verification and audit gates are complete.
 
 ## Exact next activity
 
-**Part 013 Tamil source inspection and first-pass transcription — supplied source `திருக்குறள்_கலைஞர்_உரை_part_013_pages_261-282.pdf`.**
+**Part 013 Tamil direct visual verification — all 22 physical pages / scans 261–282.**
 
-Begin the next Tamil processing unit from the controlling scan. Inspect the actual source before deciding page structure or metadata, then create the aligned Tamil page records only at the first-pass transcription gate. The already audited outgoing Part 012 boundary confirms that Part 013 begins at printed page **228 / Kural 1116**, continuing chapter 112; do not infer any later page content without inspecting the Part 013 scan.
+Verify every Tamil first-pass record directly against the controlling scan and promote only passing records to `verified`. Record every real correction, including source-sensitive or unusual printed forms, and recheck the `களவியல் → கற்பியல்` hierarchy transition.
 
-Stop after the Part 013 Tamil first-pass transcription gate. Do **not** perform Part 013 direct visual verification, Tamil audit or any English work in the same activity. Do not alter released English Parts 001–012.
+Do not combine this gate with `AUDIT_PART_013.md`, Part 013 English work, or Parts 014–015 transcription.
 
 Permanent cadence:
 
