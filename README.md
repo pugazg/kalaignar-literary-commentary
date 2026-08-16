@@ -6,7 +6,7 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–005 **ARCHIVAL-READY**; Part 006 first-pass **21/21 complete**, verification **7/21** through scan 113; Parts 007–010 source received |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–005 **ARCHIVAL-READY**; Part 006 first-pass **21/21 complete**, verification **14/21** through scan 120; Parts 007–010 source received |
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–005 **released through Kural 365**; Part 006 English not started |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
@@ -44,13 +44,16 @@ The supplied source therefore extends continuously through overall scan **214** 
 
 First-pass Tamil records exist for **all 21 scans, 107–127**, covering Kural **366–460** and the transition from `அறம்` to `பொருள்`.
 
-Direct visual verification Batch 1 is complete for scans **107–113 / Kural 366–390**. Current status:
+Direct visual verification Batches 1–2 are complete for scans **107–120 / Kural 366–425**. Current status:
 
-- `verified`: **7 / 21**;
-- `needs-review`: **14 / 21** — scans 114–127;
+- `verified`: **14 / 21**;
+- `needs-review`: **7 / 21** — scans 121–127;
 - Part 006 audit: not started.
 
-One source-supported first-pass correction was made during Batch 1 in scan 109 / Kural 380 commentary: `வலிமையானவை` → `வலிமையானவையாக`.
+Source-supported corrections during verification so far:
+
+- scan 109 / Kural 380 commentary: `வலிமையானவை` → `வலிமையானவையாக`;
+- scan 120 / Kural 425 commentary: `உயர்ந்தோர் உலகோர்` → `உயர்ந்தோரே உலகோர்`.
 
 ### English Parts 001–005 — RELEASE COMPLETE
 
@@ -64,6 +67,6 @@ Part 005 release is documented in [`works/thirukkural/translations/en/reviews/PA
 
 No English translation should begin for Part 006 until its Tamil direct verification and audit are complete.
 
-The next Tamil activity is **Part 006 direct visual verification Batch 2: scans 114–120 / Kural 391–425**.
+The next Tamil activity is **Part 006 direct visual verification Batch 3: scans 121–127 / Kural 426–460**.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), and [`HANDOVER.md`](HANDOVER.md).
