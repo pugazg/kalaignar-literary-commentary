@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Porul — Ministerial Affairs — Eloquence"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -29,7 +29,7 @@ and make even those who have not heard seek it out with desire.**
 What is called eloquence is speech that has the quality of captivating its listeners and of making even those who have not heard it come seeking it and desire to listen.
 
 **644. Speak after clearly knowing the ground for what is said;  
-there is no aram or true substance greater than such speech.**
+there is no aram or true substance equal to such speech.**
 
 One should speak only after understanding clearly the reason for what is being said. There is no aram and no true substance equal to that power of speech.
 
