@@ -360,3 +360,63 @@ The Part 007 editorial-consistency review extends the controlled main-body headi
 - Preserve the supplied imagery: ram, crane, crocodile, chariot/ship, elephant trapped in mire and foxes, tank without banks, crow sharing with its circle, timely rain and harvest, weeds in crops, citizens' tears as a weapon, and the frightening demon-like appearance in Kural 565.
 
 For the full Part 007 editorial rationale, see `reviews/PART_007_REVIEW.md`.
+
+## Part 008 main-body controlled extension
+
+The Part 008 editorial-consistency review extends the controlled main-body heading set through Kural **670**. Chapter 57 continues from Part 007; chapters 58–67 are established below from the supplied Part 008 main body.
+
+### Structural term established in Part 008
+
+| Tamil | Controlled English | Editorial note |
+|---|---|---|
+| அமைச்சியல் | Ministerial Affairs | Controlled section-level metadata label beginning at scan 162 / Kural 631. It deliberately preserves the source-visible distinction from `அரசியல்` → **Statecraft** and is broad enough to cover ministers, counsel, eloquence and the conduct of action without importing an external conventional section title. |
+
+### Main-body chapter titles 58–67
+
+| No. | Tamil heading | Controlled main-body English heading |
+|---:|---|---|
+| 58 | கண்ணோட்டம் | Compassion |
+| 59 | ஒற்றாடல் | Espionage |
+| 60 | ஊக்கம் உடைமை | Possession of Initiative |
+| 61 | மடி இன்மை | Freedom from Laziness |
+| 62 | ஆள்வினை உடைமை | Effective Effort |
+| 63 | இடுக்கண் அழியாமை | Not Losing Heart in Adversity |
+| 64 | அமைச்சு | The Minister |
+| 65 | சொல்வன்மை | Eloquence |
+| 66 | வினைத் தூய்மை | Purity in Action |
+| 67 | வினைத்திட்பம் | Firmness in Action |
+
+Chapter 57 **Avoiding Acts that Cause Fear** remains the controlled Part 007 heading and is continued unchanged through Kural 570. The Part 008 main-body review independently confirms headings 58–67; their agreement with the earlier Part 002 index-local forms does not make the index authoritative over the main body.
+
+### Recurring Part 008 controls
+
+| Tamil | Controlled English range | Part 008 editorial note |
+|---|---|---|
+| கண்ணோட்டம் | Compassion / compassion / compassionate regard | Chapter 58 is **Compassion**. Kalaignar repeatedly explains the term through love and mercy; preserve those explanatory components where present rather than mechanically reducing every sentence to one word. |
+| ஒற்று / ஒற்றர் / ஒற்றாடல் | spy / spies / intelligence-gathering / Espionage | Chapter 59 is **Espionage**. Retain Kalaignar's government/intelligence framing and the independent-spies logic of Kural 589. |
+| ஊக்கம் | initiative / inner drive / firmness of initiative | Chapter 60 is **Possession of Initiative**. Context may require firmness or drive; do not flatten every occurrence into a single motivational term. |
+| மடி | laziness | Chapter 61 is **Freedom from Laziness**. |
+| முயற்சி / தாளாண்மை / ஆள்வினை | effort / sustained effort / perseverance / effective effort | Chapter 62 is **Effective Effort**. Keep distinctions where the sentence emphasizes perseverance or the act of carrying a task through. |
+| இடுக்கண் / இடும்பை / துன்பம் | adversity / hardship / suffering | Chapter 63 is **Not Losing Heart in Adversity**. Choose the prose term according to the immediate source sentence. |
+| அமைச்சு / அமைச்சர் / அமைச்சரவை | The Minister / minister / council of ministers | Preserve grammatical and institutional distinctions. Kural 632 commentary explicitly uses the council-of-ministers frame and citizens. |
+| சொல்வன்மை | Eloquence / eloquence / power of speech | Chapter 65 is **Eloquence**. Use the prose form suited to the sentence without weakening speech as an active power. |
+| வினைத் தூய்மை | Purity in Action / pure action / good action | Chapter 66 is **Purity in Action**. Preserve Kalaignar's distinctions among good, impure, improper and degrading acts. |
+| வினைத்திட்பம் | Firmness in Action / firmness / resolve in carrying out an action | Chapter 67 is **Firmness in Action**. Preserve the repeated connection between firmness of mind and firmness of action. |
+
+### Part 008 source-sensitive controls
+
+- Kural 570 retains Kalaignar's institutional **tyrannical government** framing.
+- Kural 589 retains three spies working without knowing one another before agreement among their reports is accepted.
+- Kural 610 retains Kalaignar's **untiring ruler** explanation rather than importing an external mythological reconstruction.
+- Kural 615 retains **relatives, friends and all the people of his country**.
+- Kural 617 retains **Thirumagal / Moodevi** only as Kalaignar explains them here, without added doctrine.
+- Kural 618 retains Kalaignar's rejection of blaming the result of **fate** instead of failure to act.
+- Kural 619 retains the direct **“God!”** line and effort/labour framing.
+- Kural 620 retains **Oozh** and Kalaignar's statement that tireless effort can make even Oozh suffer defeat.
+- Kural 632 retains the **council of ministers**, **citizens**, books of aram, practical knowledge and tireless effort.
+- Kural 639 retains **seventy crore** enemies.
+- Kural 659 retains the image of wealth gathered by making others weep disappearing amid weeping.
+- Kural 660 retains the **unbaked clay pot** image.
+- Kural 667 retains the small **linchpin / great chariot** comparison.
+
+For heading decisions, structural terminology, source-check protections and the three small post-source-check readability refinements, see `reviews/PART_008_REVIEW.md`.
