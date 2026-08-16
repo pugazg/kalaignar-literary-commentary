@@ -6,10 +6,10 @@ printed_page: "84"
 work: "thirukkural"
 section: "பொருள் — அரசியல் — கல்லாமை"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **406. உளரென்னும் மாத்திரைய ரல்லால் பயவாக்  
