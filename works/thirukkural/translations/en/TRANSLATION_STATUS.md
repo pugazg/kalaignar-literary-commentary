@@ -31,11 +31,11 @@ Permanent protected decisions from earlier released parts remain binding, includ
 | Part 008 | 149–169 | **ARCHIVAL-READY** | **RELEASE-READY — 21/21** |
 | Part 009 | 170–191 | **ARCHIVAL-READY** | **RELEASE-READY — 22/22** |
 | Part 010 | 192–214 | **ARCHIVAL-READY — 23/23 verified** | **RELEASE-READY — 23/23** |
-| Part 011 | 215–237 | **ARCHIVAL-READY — 23/23 verified** | **EDITORIAL-REVIEWED — 23/23** |
+| Part 011 | 215–237 | **ARCHIVAL-READY — 23/23 verified** | **RELEASE-READY — 23/23** |
 
 Tamil Parts **001–011 are archival-ready continuously through overall scan 237 / printed page 204 / Kural 1010**.
 
-English Parts **001–010 are fully released continuously through Kural 895**. Part 011 has completed first pass, direct source-check and editorial consistency / glossary reconciliation through Kural **1010**.
+English Parts **001–011 are fully released continuously through Kural 1010**.
 
 ## Released English counts
 
@@ -48,65 +48,35 @@ English Parts **001–010 are fully released continuously through Kural 895**. P
 - Part 007: **21/21 `release-ready`** — through Kural 565.
 - Part 008: **21/21 `release-ready`** — through Kural 670.
 - Part 009: **22/22 `release-ready`** — through Kural 780.
-- Part 010: **23/23 `release-ready`** — through Kural **895**.
-- Part 011: **23/23 `editorial-reviewed`** — through Kural **1010**; release gate pending.
+- Part 010: **23/23 `release-ready`** — through Kural 895.
+- Part 011: **23/23 `release-ready`** — through Kural **1010**.
 
-## Latest released English baseline — Part 010
+## Latest released English baseline — Part 011
 
-Tamil basis: [`../../AUDIT_PART_010.md`](../../AUDIT_PART_010.md) — **PASS / ARCHIVAL-READY**.
+Tamil basis: [`../../AUDIT_PART_011.md`](../../AUDIT_PART_011.md) — **PASS / ARCHIVAL-READY**.
 
-Editorial review: [`reviews/PART_010_REVIEW.md`](reviews/PART_010_REVIEW.md).
+Editorial review: [`reviews/PART_011_REVIEW.md`](reviews/PART_011_REVIEW.md).
 
-Release report: [`reviews/PART_010_RELEASE_REPORT.md`](reviews/PART_010_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
+Release report: [`reviews/PART_011_RELEASE_REPORT.md`](reviews/PART_011_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
 
-Released Part 010 protections remain binding and were not altered by Part 011 work, including **women for hire** at Kural 813/822, Kural 835's **seven periods**, Kural 850's evidence/“ghosts” separation, Kalaignar's supplied Kural 861 interpretation, Kural 869's repeated **“cowards who are afraid, and ignorant cowards”**, Kural 876's enemy/friendship nuance, and Kural 895's **ruler / government** distinction.
+## Part 011 released scope
 
-## Part 011 Tamil basis — ARCHIVAL-READY
-
-Audit: [`../../AUDIT_PART_011.md`](../../AUDIT_PART_011.md) — **PASS / ARCHIVAL-READY**.
-
-Audited scope:
-
-- aligned pages: **23**;
+- aligned pages: **23 / 23**;
 - overall scans: **215–237**;
 - printed pages: **182–204**;
 - Kural range: **896–1010**;
 - chapters: **90–101**;
-- Tamil `verified`: **23 / 23**;
-- unresolved Tamil records: **0**.
+- English `release-ready`: **23 / 23**;
+- unresolved / blocked English records: **0**.
 
-The source-visible structural transition remains preserved in English metadata:
+The released structural transition is:
 
 - scans **215–225**: `பொருள் — நட்பியல்` → `Porul — Friendship`;
-- from scan **226 / printed page 193 / chapter 96 குடிமை**: `பொருள் — குடியியல்` → controlled `Porul — Civic Life`.
+- scans **226–237**: `பொருள் — குடியியல்` → `Porul — Civic Life`.
 
-## Part 011 English editorial review — COMPLETE
+Released Part 011 chapter headings are:
 
-Review artefact: [`reviews/PART_011_REVIEW.md`](reviews/PART_011_REVIEW.md).
-
-Current Part 011 English state:
-
-- `draft`: **0**;
-- `source-checked`: **0**;
-- `editorial-reviewed`: **23 / 23**;
-- `release-ready`: **0**;
-- `source-limited`: **0**;
-- `blocked`: **0**.
-
-Every Part 011 English page carries:
-
-```yaml
-translation_type: "project_translation"
-status: "editorial-reviewed"
-source_tamil_status: "verified"
-translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
-```
-
-### Controlled Part 011 structure and headings
-
-`குடியியல்` is now controlled as **Civic Life**. The main-body headings are:
-
-| No. | Tamil | Controlled English |
+| No. | Tamil | Released English |
 |---:|---|---|
 | 90 | பெரியாரைப் பிழையாமை | Not Offending the Great |
 | 91 | பெண்வழிச் சேறல் | Following a Woman's Lead |
@@ -121,51 +91,28 @@ translation_basis: "verified Tamil archival transcription; controlling scan rema
 | 100 | பண்புடைமை | Good Character |
 | 101 | நன்றியில் செல்வம் | Wealth Without Benefit |
 
-Chapter 90 continues the already released Part 010 heading. Chapters 91 and 92 also remain consistent with earlier reviewed project forms.
+## Part 011 protected release decisions
 
-### Source-check corrections retained
-
-All six Part 011 source-check corrections remain intact:
+All six direct source-check corrections remain released:
 
 1. Kural **911** — **bring suffering**, not **bring ruin**;
 2. Kural **926** — sleepers/dead in line one, liquor/poison in line two;
 3. Kural **953** — **truthful citizens**;
-4. Kural **961** — no unsupported **to one's distinction** attached to “indispensable”;
+4. Kural **961** — no unsupported phrase attached to “indispensable”;
 5. Kural **989** — all-seas-overturning image remains commentary-only;
 6. Kural **1006** — the person who neither enjoys nor gives is **a disease upon his great wealth**.
 
-### Editorial refinement
+The editorial refinement at Kural **939** remains **fame** in the Kural's five-item list.
 
-One small source-led body-text refinement was made during editorial review:
-
-- Kural **939**: **honour** → **fame** in the five-item list, matching Kalaignar's adjacent `புகழும்` explanation and the project's existing `புகழ்` control.
-
-No other substantive Kural or commentary body text was changed at this gate.
-
-### Protected Part 011 treatments
-
-The editorial review retains, among other source-sensitive decisions:
-
-- Kural **899** — **oppressive government**;
-- Kural **912** — sugar-sweet `பாகுமொழிபேசும்` sense;
-- Kural **931** — fish/bait/iron-hook image;
-- Kural **948** — bodily disease extended to **social disease**;
-- Kural **966** — **“Will some nonexistent heaven be gained?”**;
-- Kural **971** — this edition's unusual audited printed wording;
-- Kural **972** — **“Everyone is equal by birth. Difference can be seen only in the skill they show in the work they do.”**;
-- Kural **985** and **1008** — source punctuation without terminal verse periods;
-- Kural **1001** — wealth beyond what a house can contain;
-- the stranger's corpse, “Mohini spell,” mire/hell, liquor/poison, torch-under-water, `kunrimani`, `kavari` deer, queens of chastity, file/tree, dirty-vessel/milk, poisonous-tree and infected-wealth images.
+Source-sensitive treatments retained at release include Kural **899**'s **oppressive government**, Kural **912**'s sugar-sweet wording, Kural **931**'s fish/bait/hook image, Kural **948**'s **social disease**, Kural **966**'s **nonexistent heaven** question, the unusual audited Kural **971** basis, Kural **972**'s equality-by-birth formulation, Kural **985/1008** source punctuation, Kural **1001**'s house-filling wealth image, and the full Part 011 source imagery documented in the review and release report.
 
 No Kural **1011** or later English text has been inferred or created.
 
 ## Exact next activity
 
-**Part 011 English release gate — all 23 `editorial-reviewed` pages.**
+The Part 011 English workflow is **closed through release**. Do not assume or reconstruct Part 012.
 
-Perform the final one-to-one continuity/alignment review for scans **215–237 / printed pages 182–204 / Kural 896–1010**; confirm controlled headings/structure, source references, statuses and all protected decisions; create `reviews/PART_011_RELEASE_REPORT.md`; and only if the gate passes promote all 23 pages to `release-ready`.
-
-Do **not** combine the release gate with any later Tamil source activity. Do not infer Kural 1011 onward and do not alter released Parts 001–010.
+The next activity can begin only when an actually supplied subsequent Tamil source is available. At that point, inspect the source directly, verify its identity and outgoing boundary after printed page **204 / Kural 1010**, and begin the next separate Tamil source-intake / first-pass transcription gate according to the permanent workflow.
 
 Permanent cadence:
 
