@@ -6,7 +6,7 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–008 **ARCHIVAL-READY** through Kural 670; Part 009 first-pass **COMPLETE 22/22**, verification pending through Kural 780 |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–008 **ARCHIVAL-READY** through Kural 670; Part 009 Tamil verification **COMPLETE 22/22** through Kural 780, audit pending |
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–008 **released through Kural 670** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
@@ -34,6 +34,14 @@ Tamil Parts **001–008** are audited / archival-ready continuously through:
 - printed page **136**;
 - Kural **670**.
 
+Part 009 Tamil is fully transcribed and directly visually verified through:
+
+- overall scan **191**;
+- printed page **158**;
+- Kural **780**;
+
+but its separate Tamil audit has **not yet been performed**, so Part 009 is not yet archival-ready.
+
 English Parts **001–008** have completed their full release workflow continuously through Kural **670**.
 
 ### Part 008 — completed baseline
@@ -47,41 +55,40 @@ Part 008 English is **RELEASE COMPLETE 21/21**. Review/release artefacts:
 
 The controlled structural distinction remains `பொருள் — அரசியல்` → `பொருள் — அமைச்சியல்`, released in English as `Porul — Statecraft` → **`Porul — Ministerial Affairs`**.
 
-### Part 009 Tamil — FIRST-PASS COMPLETE
+### Part 009 Tamil — DIRECT VISUAL VERIFICATION COMPLETE
 
-The actual supplied Part 009 source was inspected before transcription:
+Controlling source:
 
 `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf`
 
-Confirmed physical scope:
+Verified scope and state:
 
-- **22** source pages;
-- overall scans **170–191**;
+- physical pages: **22**;
+- scans **170–191**;
 - printed pages **137–158**;
 - Kural **671–780**;
-- chapters **68–78**.
-
-All **22 / 22** page-aligned Tamil records now exist at first-pass state:
-
-- `needs-review`: **22 / 22**;
-- `verified`: **0**;
+- chapters **68–78**;
+- `verified`: **22 / 22**;
+- `needs-review`: **0**;
 - `partial`: **0**;
 - `blocked`: **0**;
 - Tamil audit: **not started**.
 
-The source-visible Part 009 structural transitions are preserved in the first pass:
+The source-visible Part 009 structural transitions are preserved:
 
 - `பொருள் — அமைச்சியல்` through scan 181;
 - `பொருள் — அரணியல்` from scan 182;
 - `பொருள் — கூழியல்` from scan 186;
 - `பொருள் — படையியல்` from scan 188.
 
-The direct visual verification gate has explicit flags for unusual/uncertain first-pass readings at **Kural 717**, **Kural 725 commentary**, and **Kural 733 commentary**. These must be resolved from the controlling scan itself, not from memory or another edition.
+Direct verification found one first-pass correction at **scan 190 / Kural 771 commentary**: `நடுகல்லைப் போனவர்கள்` was corrected to the scan-supported **`நடுகல்லாய்ப் போனவர்கள்`**.
+
+Three unusual source readings were visually confirmed and deliberately retained: Kural **717** (`கற்றறிந்தார் ... சொற்றெரிதல் ... இழுக்கு`), Kural **725 commentary** (`தருக்கமென்படும் அளவைக் திறமும்`), and Kural **733 commentary** (`மளவுக்கு வளம்`). They must not be silently normalized from another edition or expected grammar.
 
 ## அடுத்த செயல்
 
-Perform **Part 009 Tamil direct visual verification** across all **22 `needs-review` pages**, scans **170–191 / printed pages 137–158 / Kural 671–780**.
+Perform the separate **Part 009 Tamil audit / archival-ready gate** across all **22 verified pages**, scans **170–191 / printed pages 137–158 / Kural 671–780**.
 
-Promote a page to `verified` only after direct page-image comparison. Keep the gates separate: **do not create the Part 009 audit or begin Part 009 English translation during the verification activity.**
+Create `works/thirukkural/AUDIT_PART_009.md` only during that audit. Declare Part 009 archival-ready only if the audit passes. Keep the gates separate: **do not begin Part 009 English translation or Part 010 Tamil transcription during the audit activity.**
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), and [`HANDOVER.md`](HANDOVER.md).
