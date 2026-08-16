@@ -13,7 +13,7 @@
 | 005 | `திருக்குறள்_கலைஞர்_உரை_part_005_pages_85-106.pdf` | 22 | 85–106 | audited / **ARCHIVAL-READY** |
 | 006 | `திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf` | 21 | 107–127 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
 | 007 | `திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf` | 21 | 128–148 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
-| 008 | `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf` | 21 | 149–169 | first-pass complete; **7/21 verified** through scan 155 / Kural 600 |
+| 008 | `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf` | 21 | 149–169 | Tamil first-pass **COMPLETE 21/21**; verification **14/21** through Kural 635 |
 | 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | source received; transcription not started |
 | 010 | `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf` | 23 | 192–214 | source received; transcription not started |
 
@@ -21,27 +21,18 @@ Tamil Parts **001–007 are archival-ready**, reaching overall scan **148** / pr
 
 ## Part 008 Tamil — VERIFICATION IN PROGRESS
 
-Part 008 first-pass is complete for all **21 / 21** scans, overall scans **149–169 / printed pages 116–136 / Kural 566–670**.
+Part 008 directly continues Part 007. First-pass Tamil records exist for all **21 / 21** physical scans, overall scans **149–169 / printed pages 116–136 / Kural 566–670**.
 
-Verification Batch 1 is complete for scans **149–155 / printed pages 116–122 / Kural 566–600**:
+Current verification state:
 
-- scan 149 — completes chapter 57 `வெருவந்த செய்யாமை`, Kural 566–570;
-- scans 150–151 — chapter 58 `கண்ணோட்டம்`, Kural 571–580;
-- scans 152–153 — chapter 59 `ஒற்றாடல்`, Kural 581–590;
-- scans 154–155 — chapter 60 `ஊக்கம் உடைமை`, Kural 591–600.
-
-Current state:
-
-- `verified`: **7 / 21** — scans 149–155;
-- `needs-review`: **14 / 21** — scans 156–169;
+- `verified`: **14 / 21** — scans 149–162 / Kural 566–635;
+- `needs-review`: **7 / 21** — scans 163–169 / Kural 636–670;
 - `partial`: **0**;
 - `blocked`: **0**.
 
-One first-pass spacing error was corrected during Batch 1 on scan 153 / Kural 589 commentary: `ஒத்திருந் தால்` → source-verified `ஒத்திருந்தால்`. No other wording correction was required in scans 149–155.
+Verification Batch 1 covered scans 149–155 and made one source-supported spacing correction on scan 153 / Kural 589 commentary: `ஒத்திருந் தால்` → `ஒத்திருந்தால்`.
 
-### Structural transition
-
-Scan **162 / printed page 129** changes the running header from the preceding `பொருள் — அரசியல்` sequence to **`பொருள் — அமைச்சியல் — அமைச்சு`**. This source-visible transition remains preserved and will be checked in Batch 2.
+Verification Batch 2 covered scans **156–162 / printed pages 123–129 / Kural 601–635**. All seven pages matched their first-pass wording and punctuation; no textual correction was required. Scan **162** directly confirms the source-visible running-header transition from `பொருள் — அரசியல்` to **`பொருள் — அமைச்சியல் — அமைச்சு`**.
 
 The source-first rule remains binding: the scan is authoritative; Markdown is an archival layer rather than a corrected edition.
 
@@ -61,11 +52,8 @@ English Parts 001–007 are released continuously through Kural **565**.
 
 ## அடுத்த செயல்
 
-Continue **Part 008 Tamil direct visual verification — Batch 2**, covering scans **156–162 / printed pages 123–129 / Kural 601–635**:
+Perform the final **Part 008 Tamil direct visual verification — Batch 3**, covering scans **163–169 / printed pages 130–136 / Kural 636–670**.
 
-- scans 156–157 — `மடி இன்மை`, Kural 601–610;
-- scans 158–159 — `ஆள்வினை உடைமை`, Kural 611–620;
-- scans 160–161 — `இடுக்கண் அழியாமை`, Kural 621–630;
-- scan 162 — `அமைச்சு`, Kural 631–635, including the `அரசியல் → அமைச்சியல்` running-header transition.
+Compare each remaining first-pass Markdown record directly with the controlling scan. Correct only source-supported transcription differences, then promote passing pages from `needs-review` to `verified` with `transcription_method: "direct visual comparison with source scan"`.
 
 Do not create the Part 008 audit, begin English translation, or begin Part 009 transcription in the same activity.
