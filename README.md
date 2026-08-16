@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–006 **ARCHIVAL-READY** through Kural 460; Parts 007–010 source received |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–005 **released through Kural 365**; Part 006 **21/21 draft complete**, source-check pending |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–005 **released through Kural 365**; Part 006 **21/21 source-checked**, editorial review pending |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -28,21 +28,7 @@ The project translation follows an explicit fidelity rule: **retain Kalaignar's 
 
 ## தற்போதைய நிலை — திருக்குறள்
 
-Tamil Parts **001–006** are archival-ready through overall scan **127** / printed page **94** / Kural **460**.
-
-Five consecutive Tamil source parts were supplied beyond Part 005:
-
-- Part 006 — scans 107–127 / Kural 366–460 — **ARCHIVAL-READY**;
-- Part 007 — scans 128–148 / Kural 461–565 — source received, not started;
-- Part 008 — scans 149–169 / Kural 566–670 — source received, not started;
-- Part 009 — scans 170–191 / Kural 671–780 — source received, not started;
-- Part 010 — scans 192–214 / Kural 781–895 — source received, not started.
-
-The supplied source therefore extends continuously through overall scan **214** / printed page **181** / Kural **895**. Source availability beyond Part 006 does not imply archival completion.
-
-### Tamil Part 006 — ARCHIVAL-READY
-
-Part 006 first-pass transcription and direct visual verification are complete for all **21 / 21** scans, and [`works/thirukkural/AUDIT_PART_006.md`](works/thirukkural/AUDIT_PART_006.md) records the archival release decision.
+Tamil Parts **001–006** are archival-ready through overall scan **127** / printed page **94** / Kural **460**. Parts 007–010 are received but remain source-intake only.
 
 ### English Parts 001–005 — RELEASE COMPLETE
 
@@ -52,12 +38,12 @@ Part 006 first-pass transcription and direct visual verification are complete fo
 - Part 004: **22/22 `release-ready`**, through Kural **255**;
 - Part 005: **22/22 `release-ready`**, through Kural **365**.
 
-### English Part 006 — FIRST-PASS COMPLETE
+### English Part 006 — SOURCE-CHECK COMPLETE
 
-A page-aligned project English draft now exists for all **21 / 21** Part 006 records, scans **107–127 / Kural 366–460**. All Part 006 English pages remain `draft`; direct source-check, editorial review and release have not yet begun.
+All **21 / 21** page-aligned English records for scans **107–127 / Kural 366–460** have completed direct comparison against their verified Tamil archival records and now carry `status: "source-checked"`.
 
-The draft retains Kalaignar's own explanatory direction. In particular, chapter 38 remains **Oozh**, while Kalaignar's repeated `இயற்கை நிலை` explanation is rendered as **natural condition** rather than being replaced by a conventional fate/destiny reading.
+The source-check preserved Kalaignar's own language, imagery and interpretive direction. In particular, chapter 38 remains **Oozh**, while Kalaignar's repeated `இயற்கை நிலை` explanation remains **natural condition** rather than being replaced by a conventional fate/destiny reading.
 
-The next activity is **Part 006 English direct source-check**, page by page against the verified Tamil archival records. Do not begin Part 007 Tamil transcription in the same activity.
+The next activity is the separate **Part 006 English editorial consistency / glossary-reconciliation review**. It must not be combined with the later release gate or Part 007 Tamil transcription.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), and [`HANDOVER.md`](HANDOVER.md).
