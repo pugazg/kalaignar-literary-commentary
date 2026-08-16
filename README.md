@@ -6,7 +6,7 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–007 **ARCHIVAL-READY** through Kural 565; Parts 008–010 source received |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–007 **ARCHIVAL-READY** through Kural 565; Part 008 first-pass in progress |
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–007 **released through Kural 565** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
@@ -32,10 +32,8 @@ Tamil Parts **001–007** are archival-ready through overall scan **148** / prin
 
 English Parts **001–007** have completed their full release workflow continuously through Kural **565**.
 
-Part 007 release keeps Kalaignar's source-specific interpretation at Kural 543 as **“the books of the virtuous”** for `அறவோர் நூல்களுக்கும்`, his **working people** framing at Kural 520, the `களங்கம்`-centred correction at Kural 464, and his institutional government/justice/tyranny vocabulary across chapters 55–57.
+Part **008 Tamil first-pass has begun**. Seven `needs-review` page records now cover overall scans **149–155 / printed pages 116–122 / Kural 566–600**, completing `வெருவந்த செய்யாமை` and covering `கண்ணோட்டம்`, `ஒற்றாடல்`, and `ஊக்கம் உடைமை`. Direct verification has not begun.
 
-Part **008** has been supplied and begins at printed page **116 / Kural 566**, directly continuing chapter 57 `வெருவந்த செய்யாமை`. It remains untranscribed.
+The next activity is Part 008 Tamil first-pass scans **156–162 / Kural 601–635**, moving through `மடி இன்மை`, `ஆள்வினை உடைமை`, `இடுக்கண் அழியாமை`, and into `அமைச்சு` / `அமைச்சியல்`.
 
-The next activity is the separate **Part 008 Tamil first-pass transcription**, beginning at scan 149 / printed page 116 / Kural 566. Verification, audit and English translation remain later separate stages.
-
-Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/AUDIT_PART_007.md`](works/thirukkural/AUDIT_PART_007.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), [`works/thirukkural/translations/en/reviews/PART_007_REVIEW.md`](works/thirukkural/translations/en/reviews/PART_007_REVIEW.md), [`works/thirukkural/translations/en/reviews/PART_007_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_007_RELEASE_REPORT.md), and [`HANDOVER.md`](HANDOVER.md).
+Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md) and [`HANDOVER.md`](HANDOVER.md).
