@@ -6,7 +6,7 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–009 **ARCHIVAL-READY** continuously through overall scan 191 / printed page 158 / Kural 780; Part 010 Tamil first pass **COMPLETE 23/23**, verification pending |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–009 **ARCHIVAL-READY** continuously through overall scan 191 / printed page 158 / Kural 780; Part 010 Tamil direct verification **COMPLETE 23/23**, audit pending |
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–009 **released through Kural 780** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
@@ -48,11 +48,11 @@ Protected source-check and source-sensitive decisions remain intact, including K
 
 No substantive Kural/commentary body-text change was made during the Part 009 release gate.
 
-## Part 010 Tamil — FIRST PASS COMPLETE
+## Part 010 Tamil — DIRECT VISUAL VERIFICATION COMPLETE
 
 Controlling source: `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf`.
 
-All **23 / 23** supplied physical pages have first-pass Tamil records:
+All **23 / 23** supplied physical pages have been compared directly with the controlling scan and are now `verified`:
 
 - overall scans **192–214**;
 - printed pages **159–181**;
@@ -61,21 +61,27 @@ All **23 / 23** supplied physical pages have first-pass Tamil records:
 - source section throughout: `பொருள் — நட்பியல்`;
 - chapter 90 `பெரியாரைப் பிழையாமை` begins on scan 214, with only Kural **891–895** present in this supplied part.
 
-Every Part 010 page remains:
+Every Part 010 page now uses:
 
 ```yaml
-status: "needs-review"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+status: "verified"
+transcription_method: "direct visual comparison with source scan"
 ```
 
-Part 010 therefore has **23 `needs-review`, 0 `verified`, 0 `partial`, 0 `blocked`**. It is not archival-ready, and no Part 010 English work has begun.
+Final verification count is **23 `verified`, 0 `needs-review`, 0 `partial`, 0 `blocked`**.
 
-Part 009 → Part 010 continuity is established at printed page **158 → 159** / Kural **780 → 781**.
+No first-pass body-text correction was required during the direct comparison. The deliberately source-sensitive scan **209 / Kural 869 commentary** wording was confirmed exactly as printed, including the repetition:
+
+`அஞ்சிடும் கோழைகளாகவும், அறிவில்லாக் கோழைகளாகவும் பகைவர்கள் இருப்பின் அவர்களை எதிர்ப்போரை விட்டு வெற்றியெனும் இன்பம் விலகாமலே நிலைத்து நிற்கும்.`
+
+Part 009 → Part 010 continuity remains established at printed page **158 → 159** / Kural **780 → 781**.
+
+Part 010 is **not yet archival-ready** because the separate Tamil audit has not been performed. No Part 010 English work has begun.
 
 ## அடுத்த செயல்
 
-Perform the separate **Part 010 Tamil direct visual verification** for all **23 pages**, scans **192–214 / printed pages 159–181 / Kural 781–895**.
+Perform the separate **Part 010 Tamil audit / archival-ready gate** for scans **192–214 / printed pages 159–181 / Kural 781–895**.
 
-Compare the complete first-pass records directly against the controlling scan and promote only passing pages to `verified`. Do not create the Part 010 audit, call the part archival-ready, or begin Part 010 English during the verification activity.
+Do not begin Part 010 English translation until the audit passes and an explicit archival-ready decision is recorded.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), and [`HANDOVER.md`](HANDOVER.md).
