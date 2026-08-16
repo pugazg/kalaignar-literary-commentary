@@ -6,10 +6,10 @@ printed_page: "140"
 work: "thirukkural"
 section: "பொருள் — அமைச்சியல் — தூது"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **686. கற்றுக்கண் அஞ்சான் செலச்சொல்லிக் காலத்தால்  
