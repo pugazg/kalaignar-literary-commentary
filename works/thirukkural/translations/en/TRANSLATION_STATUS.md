@@ -22,7 +22,7 @@ Natural English syntax is permitted; silent doctrinal normalization, paraphrasti
 | Part 003 | 42–62 | archival-ready | **RELEASE-READY — 21/21** |
 | Part 004 | 63–84 | archival-ready | **RELEASE-READY — 22/22** |
 | Part 005 | 85–106 | archival-ready | **RELEASE-READY — 22/22** |
-| Part 006 | 107–127 | Tamil first-pass 21/21 complete; direct verification **14/21** through scan 120 | not started — wait for Tamil verification/audit |
+| Part 006 | 107–127 | Tamil first-pass 21/21 complete; direct verification **21/21 complete**; audit pending | not started — wait for Tamil audit |
 | Part 007 | 128–148 | source received; transcription not started | not started |
 | Part 008 | 149–169 | source received; transcription not started | not started |
 | Part 009 | 170–191 | source received; transcription not started | not started |
@@ -73,13 +73,13 @@ English translation does **not** begin merely because those PDFs are available. 
 
 **complete Tamil transcription → direct visual verification → Tamil part audit / archival-ready → English draft.**
 
-Part 006 Tamil first-pass transcription is **21 / 21 complete**, scans **107–127 / Kural 366–460**. Direct visual verification Batches 1–2 are complete for scans **107–120 / Kural 366–425**, leaving scans **121–127** at `needs-review`. No Part 006 audit exists yet, so no Part 006 English pages should be created.
+Part 006 Tamil first-pass transcription and direct visual verification are now both **21 / 21 complete**, scans **107–127 / Kural 366–460**, with no unresolved Tamil pages. The Part 006 audit has not yet been performed, so no Part 006 English pages should yet be created.
 
 ## Next exact activity
 
-Continue the Tamil archival workflow, not English translation: **Part 006 direct visual verification Batch 3, scans 121–127 / Kural 426–460**.
+Continue the Tamil archival workflow, not English translation: perform the **Part 006 Tamil audit / archival-ready decision** for scans **107–127 / Kural 366–460**.
 
-Once all Part 006 Tamil pages are directly verified, the Part 006 audit is the next separate prerequisite. Only after that audit passes may English Part 006 begin with a separate first-pass activity.
+Only after that audit passes may English Part 006 begin with a separate first-pass activity.
 
 Permanent cadence:
 
