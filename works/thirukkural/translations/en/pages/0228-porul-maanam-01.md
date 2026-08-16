@@ -6,15 +6,15 @@ work: "thirukkural"
 section: "Porul — Civic Life — Honour"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
 
 # 97. Honour
 
-**961. Even if an act is indispensable to one's distinction,  
-abandon it if it would diminish one's honour.**
+**961. Even if an act is indispensable,  
+abandon it if it would diminish one's distinction.**
 
 Even if some acts seem absolutely necessary to be completed, if they would reduce one's greatness, those acts must be avoided.
 
