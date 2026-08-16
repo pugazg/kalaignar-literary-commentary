@@ -11,7 +11,7 @@
 | 003 | `திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf` | 21 | 42–62 | audited / **ARCHIVAL-READY** |
 | 004 | `திருக்குறள்_கலைஞர்_உரை_part_004_pages_63-84.pdf` | 22 | 63–84 | audited / **ARCHIVAL-READY** |
 | 005 | `திருக்குறள்_கலைஞர்_உரை_part_005_pages_85-106.pdf` | 22 | 85–106 | audited / **ARCHIVAL-READY** |
-| 006 | `திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf` | 21 | 107–127 | audited / **ARCHIVAL-READY**; English first-pass 21/21 complete |
+| 006 | `திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf` | 21 | 107–127 | audited / **ARCHIVAL-READY**; English source-check 21/21 complete |
 | 007 | `திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf` | 21 | 128–148 | source received; transcription not started |
 | 008 | `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf` | 21 | 149–169 | source received; transcription not started |
 | 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | source received; transcription not started |
@@ -21,18 +21,7 @@ Tamil Parts **001–006 are archival-ready**, reaching overall scan **127** / pr
 
 ## Part 006 Tamil — ARCHIVAL-READY
 
-Part 006 contains **21 / 21** physical scan records, scans **107–127**. All have completed direct visual verification and the part-level audit.
-
-Final Part 006 Tamil status:
-
-- `verified`: **21 / 21**;
-- `needs-review`: **0**;
-- `partial`: **0**;
-- `blocked`: **0**;
-- audit: [`AUDIT_PART_006.md`](AUDIT_PART_006.md);
-- release decision: **ARCHIVAL-READY**.
-
-Part 006 covers Kural **366–460**, including the physical `அறம்` → `பொருள்` transition at scans 109–112.
+Part 006 contains **21 / 21** physical scan records, scans **107–127**. All have completed direct visual verification and the part-level audit. Part 006 covers Kural **366–460**, including the physical `அறம்` → `பொருள்` transition at scans 109–112.
 
 The source-first rule remains binding: the scan is authoritative; Markdown is an archival layer rather than a corrected edition.
 
@@ -54,40 +43,23 @@ Permanent cadence:
 - Part 004: **22/22 `release-ready`**, through Kural 255;
 - Part 005: **22/22 `release-ready`**, through Kural 365.
 
-### Part 006 English — FIRST-PASS COMPLETE
+### Part 006 English — SOURCE-CHECK COMPLETE
 
-English page records now exist for **all 21 / 21** Part 006 Tamil records, scans **107–127 / Kural 366–460**.
+All **21 / 21** aligned English pages for scans **107–127 / Kural 366–460** have now been compared directly against their verified Tamil archival records.
 
-Current English Part 006 state:
+Current Part 006 English state:
 
-- `draft`: **21 / 21**;
-- `source-checked`: **0**;
+- `source-checked`: **21 / 21**;
+- `draft`: **0**;
 - `editorial-reviewed`: **0**;
 - `release-ready`: **0**;
 - `source-limited`: **0**;
 - `blocked`: **0**.
 
-Coverage:
-
-- scan 107 — Kural 366–370, completing **Eradication of Desire**;
-- scans 108–109 — Kural 371–380, **Oozh**;
-- scan 110 — **Porul** section-title page;
-- scan 111 — blank reverse / bleed-through only;
-- scans 112–113 — Kural 381–390, **Excellence of Kingship**;
-- scans 114–115 — Kural 391–400, **Learning**;
-- scans 116–117 — Kural 401–410, **Lack of Learning**;
-- scans 118–119 — Kural 411–420, **Listening**;
-- scans 120–121 — Kural 421–430, **Possession of Wisdom**;
-- scans 122–123 — Kural 431–440, **Avoiding Faults**;
-- scans 124–125 — Kural 441–450, **Seeking the Support of the Great**;
-- scans 126–127 — Kural 451–460, **Avoiding Base Company**.
-
-The first-pass deliberately preserves Kural and commentary as separate layers and follows Kalaignar's actual commentary rather than a standard external interpretation. In chapter 38, `ஊழ்` remains **Oozh**, while Kalaignar's repeated `இயற்கை நிலை` explanation is retained as **natural condition**.
+The source-check kept the Kural and Kalaignar commentary as distinct layers and checked omissions, additions, imagery and interpretation drift. Kalaignar's source-specific formulations remain protected. In chapter 38, `ஊழ்` remains **Oozh**, while his repeated `இயற்கை நிலை` explanation remains **natural condition**, not a substituted fate/destiny doctrine.
 
 ## அடுத்த செயல்
 
-Perform **Part 006 English direct source-check only**, page by page against the verified Tamil records for scans **107–127 / Kural 366–460**.
+Perform the separate **Part 006 English editorial consistency / glossary-reconciliation review** across all 21 source-checked pages. Review English readability, chapter headings, recurring terminology, repeated phrasing and punctuation without weakening or normalizing Kalaignar's language or interpretation.
 
-Check Kural and commentary separately for omissions, additions and meaning drift. Correct only source-supported English issues, and promote each page to `source-checked` only after its complete page has been checked.
-
-Do not perform editorial review, create a Part 006 release report, promote pages to `release-ready`, or begin Part 007 Tamil transcription in the same activity.
+Create `translations/en/reviews/PART_006_REVIEW.md` during that activity and update the glossary with deliberate Part 006 main-body decisions. Do **not** create the release report or promote pages to `release-ready` in the same activity.
