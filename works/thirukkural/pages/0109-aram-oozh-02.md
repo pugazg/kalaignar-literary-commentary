@@ -6,10 +6,10 @@ printed_page: "76"
 work: "thirukkural"
 section: "அறம் — துறவறவியல் — ஊழ்"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **376. பரியினும் ஆகாவாம் பாலல்ல உய்த்துச்  
@@ -35,6 +35,6 @@ transcription_method: "manual transcription from source scan; direct visual veri
 **380. ஊழிற் பெருவலி யாவுள மற்றொன்று  
 சூழினுந் தான்முந் துறும்.**
 
-இயற்கை நிலையை மாற்றி மற்றொரு செயற்கை நிலையை அமைத்திட முனைந்தாலும், இயற்கை நிலையே முதன்மையாக வந்து நிற்பதால் அதைவிட வலிமையானவை வேறு எவை இருக்கின்றன?
+இயற்கை நிலையை மாற்றி மற்றொரு செயற்கை நிலையை அமைத்திட முனைந்தாலும், இயற்கை நிலையே முதன்மையாக வந்து நிற்பதால் அதைவிட வலிமையானவையாக வேறு எவை இருக்கின்றன?
 
 <!-- மூல ஸ்கேன் பக்கம்: 109; Part 006 உள்ளூர் பக்கம்: 3; அச்சுப் பக்கம்: 76 -->
