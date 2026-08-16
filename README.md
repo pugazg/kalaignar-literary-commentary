@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–012 **ARCHIVAL-READY continuously through scan 260 / printed page 227 / Kural 1115** |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–011 **RELEASED through Kural 1010**; Part 012 **EDITORIAL REVIEW COMPLETE — 23/23 editorial-reviewed** |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–012 **RELEASED continuously through Kural 1115** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -30,28 +30,26 @@ The project translation follows an explicit fidelity rule: **retain Kalaignar's 
 
 Tamil Parts **001–012** are audited / archival-ready continuously through overall scan **260** / printed page **227** / Kural **1115**.
 
-Part 012 Tamil audit: [`works/thirukkural/AUDIT_PART_012.md`](works/thirukkural/AUDIT_PART_012.md) — **PASS / ARCHIVAL-READY**.
+English Parts **001–012** are now fully released continuously through Kural **1115**.
 
-English Parts **001–011** remain fully released through Kural **1010**. Part 012 English has completed first pass, direct source-check and editorial consistency / glossary reconciliation for **all 23 aligned physical pages / scans 238–260**; all 23 records are now `status: "editorial-reviewed"`.
+Part 012 Tamil audit: [`works/thirukkural/AUDIT_PART_012.md`](works/thirukkural/AUDIT_PART_012.md) — **PASS / ARCHIVAL-READY**.
 
 Part 012 editorial review: [`works/thirukkural/translations/en/reviews/PART_012_REVIEW.md`](works/thirukkural/translations/en/reviews/PART_012_REVIEW.md).
 
-The editorial gate retained the source-checked body translations without substantive change. The controlled source structure is now **Porul — Civic Life → Inbam title/blank leaves → Inbam — Clandestine Love**, with the physical scans 252–253 preserved rather than collapsed.
+Part 012 English release report: [`works/thirukkural/translations/en/reviews/PART_012_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_012_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
 
-Controlled chapter headings **102–112** are **Modesty; Working for the Community; Agriculture; Poverty; Begging; Dread of Begging; Baseness; The Torment of Beauty; Understanding Signs; Delight in Union; Praising Her Beauty**. Chapter 103 deliberately preserves Kalaignar's citizen/community-welfare direction, and chapter 110 deliberately reuses the established **Understanding Signs** wording without an added project disambiguator.
+All **23 / 23** aligned Part 012 English physical pages / scans **238–260** are `release-ready`. The release preserves the physical **Porul — Civic Life → Inbam title/blank leaves → Inbam — Clandestine Love** transition, controlled headings **102–112**, the three verified Tamil correction directions, and all source-sensitive treatments documented in the review and release report.
 
-The review retains the verified Kural **1018 / 1035 / 1048** commentary directions, Kalaignar's Kural **1062** challenge to the supposed creator, the source-specific Kural **1077 / 1098** readings, the Kural **1103** `lotus-eyed one` comparison and the Kural **1115** anicham-stalk / broken-waist / auspicious-drum explanation.
-
-`GLOSSARY.md` is reconciled during this editorial gate with the Part 012 structural, chapter and recurring-term controls.
+No substantive English body-text change was made at release.
 
 Additional supplied Tamil sources Parts **013–015** remain received but not started.
 
 ## அடுத்த செயல்
 
-The exact next activity is the separate **Part 012 English release gate** for all **23 editorial-reviewed pages / scans 238–260**.
+The exact next activity is **Part 013 Tamil source inspection and first-pass transcription** from `திருக்குறள்_கலைஞர்_உரை_part_013_pages_261-282.pdf`.
 
-Perform the final one-to-one English/Tamil alignment and continuity checks, confirm the controlled section/chapter terminology and all protected source-sensitive treatments, create `works/thirukkural/translations/en/reviews/PART_012_RELEASE_REPORT.md`, and promote pages to `release-ready` only if the release gate passes.
+The closed Part 012 audit establishes the incoming Part 013 boundary at printed page **228 / Kural 1116**, continuing chapter 112. Inspect the actual supplied Part 013 scan before determining the rest of its structure or creating page records.
 
-Do not begin Part 013 Tamil transcription during the Part 012 release gate.
+Stop after the Part 013 Tamil first-pass transcription gate. Do not combine it with direct visual verification, audit or English translation work.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), and [`HANDOVER.md`](HANDOVER.md).
