@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Porul — Civic Life — Nobility"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -24,7 +24,7 @@ conduct, truthfulness, and honour.**
 Those who do not depart from right conduct in these three—conduct, truthfulness, and honour—will be regarded as people born into a high lineage.
 
 **953. A smiling face, generosity, pleasant speech, and not despising others—  
-these four are said to characterize true nobility.**
+these four are said to mark truthful citizens.**
 
 Only those who possess the four distinctions of a smiling face, generosity, pleasant speech, and the cultivated quality of not despising others can be classified as truthful citizens.
 
