@@ -6,10 +6,10 @@ printed_page: "166"
 work: "thirukkural"
 section: "பொருள் — நட்பியல் — தீ நட்பு"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **816. பேதை பெருங்கெழீஇ நட்பின் அறிவுடையார்  
