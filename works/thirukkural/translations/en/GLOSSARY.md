@@ -484,3 +484,63 @@ Chapter 71 is deliberately refined from the first-pass/source-checked **Understa
 - Preserve Part 009's direct images, including elephant-capturing-elephant, warming by fire, the cashew-nut comparison, nectar in an unclean courtyard, love/compassion/nurse/material-resources, elephants fighting viewed from a hill, rats/sea/cobra breath, victory garland, spear pulled from a warrior's chest, honourable battle wounds and warrior's anklet.
 
 For the full Part 009 heading, structural-term and fidelity rationale, see `reviews/PART_009_REVIEW.md`.
+
+## Part 010 main-body controlled extension
+
+The Part 010 editorial-consistency / glossary-reconciliation review extends the controlled main-body heading set through the supplied Kural **895**. The supplied source ends midway through chapter 90, so this control set makes no claim about Kural 896 onward.
+
+### Structural term established in Part 010
+
+| Tamil | Controlled English | Editorial note |
+|---|---|---|
+| நட்பியல் | Friendship | Controlled section-level metadata throughout scans 192–214. The source itself continues to print `நட்பியல்` even as later chapters move through false friendship, folly, discord and enmity. Do not invent an expanded section title such as “Friendship and Enmity.” The duplicate English wording with chapter 79 **Friendship** is deliberate and source-compatible. |
+
+### Main-body chapter titles 79–90
+
+| No. | Tamil heading | Controlled main-body English heading |
+|---:|---|---|
+| 79 | நட்பு | Friendship |
+| 80 | நட்பாராய்தல் | Examining Friendship |
+| 81 | பழைமை | Long-Standing Friendship |
+| 82 | தீ நட்பு | Harmful Friendship |
+| 83 | கூடா நட்பு | False Friendship |
+| 84 | பேதைமை | Folly |
+| 85 | புல்லறிவாண்மை | Possession of Little Understanding |
+| 86 | இகல் | Discord |
+| 87 | பகை மாட்சி | Excellence in Enmity |
+| 88 | பகைத்திறம் தெரிதல் | Discerning Enmity |
+| 89 | உட்பகை | Internal Enmity |
+| 90 | பெரியாரைப் பிழையாமை | Not Offending the Great |
+
+Chapter 90 is represented in the supplied Part 010 source only through Kural **895**.
+
+Chapter 87 is deliberately refined from the provisional/source-checked **The Character of Enmity** to **Excellence in Enmity**. The controlled form restores the force of `மாட்சி`, is consistent with the project's existing heading treatment `படை மாட்சி` → **Excellence of the Army**, and follows Kalaignar's Kural 861 explanation that explicitly praises the described conduct as `பகைமாட்சி`.
+
+### Recurring Part 010 controls
+
+| Tamil | Controlled English range | Part 010 editorial note |
+|---|---|---|
+| நட்பு / கேண்மை | friendship / friendship bond / companionship | Use according to grammar and relational context. Do not force one English noun mechanically into every sentence. |
+| பகை / பகைவர் | enmity / enemy / enemies | Use **enmity** for the abstract relationship or hostile feeling and **enemy / enemies** when the Tamil refers to persons. |
+| இகல் | Discord / discord / difference / hostile feeling | Chapter 86 is **Discord**. Running prose follows Kalaignar's immediate wording and explanation. |
+| உட்பகை | Internal Enmity / internal enmity | Chapter 89 is **Internal Enmity**. Preserve the source's emphasis on danger arising within relatives, close people or an internally connected group. |
+| விலைமகளிர் | women for hire | Part 010 Kural 813/822 treatment follows Kalaignar's explicit commentary and the earlier project glossary treatment. Preserve source social/gender specificity; do not replace it with an added euphemistic explanation. |
+| அரசு / வேந்து | government / ruler | Existing project control remains binding. At Kural 895 the compressed Kural uses **ruler**, while Kalaignar's commentary explicitly uses institutional **government** framing. Keep the layers distinct. |
+
+### Part 010 source-check and source-sensitive controls
+
+- Kural **813** retains **women for hire**, removing the unsupported first-pass “women who sell intimacy.”
+- Kural **822** retains **women for hire** in the Kural while Kalaignar's fuller virtue/appearance explanation remains in commentary.
+- Kural **842 commentary** does not add unsupported **earned** to the recipient's good fortune.
+- Kural **849** retains the corrected subject relationship grounded in Kalaignar's adjacent commentary.
+- Kural **850** keeps the evidence clause in Kalaignar's commentary rather than importing it into the Kural; the commentary retains the evidence/truth framing and quoted **“ghosts”** image.
+- Kural **835** retains Kalaignar's **seven periods** and does not import an external “seven births” explanation.
+- Kural **861** retains Kalaignar's supplied interpretation: leaving the weak and preferring to fight the strong is praised as `பகைமாட்சி`; do not substitute a familiar external interpretation.
+- Kural **867 commentary** does not restore the unsupported added phrase “and harmful to us.”
+- Kural **869 commentary** retains the source-confirmed repetition **“cowards who are afraid, and ignorant cowards”** rather than smoothing it away.
+- Kural **876** retains the nuance of neither becoming too close to the enemy in friendship nor separating completely while maintaining hostility when danger arises.
+- Kural **887** retains *seppu* in commentary without inventing the material **metal**.
+- Kural **895** retains the verse/commentary distinction **ruler / government**.
+- Preserve the direct Part 010 imagery and formulations documented in `reviews/PART_010_REVIEW.md`, including moon phases, slipping clothing and the helping hand, battlefield horse, anvil, bent bow, hidden weapon and tears, mire, liquor, unwashed foot/bed, ghosts, thorn tree, unbaked clay pot, *seppu*, file-worn iron, sesame split, snake in a small hut and the government/ruler distinction.
+
+For the full Part 010 heading, terminology and fidelity rationale, see `reviews/PART_010_REVIEW.md`.
