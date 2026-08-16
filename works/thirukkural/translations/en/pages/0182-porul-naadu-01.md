@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Porul — Fortification Affairs — The Country"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -28,7 +28,7 @@ and renders in full the revenue due to the ruler.**
 
 The finest country is one that bears new burdens even when they come together upon it, pays the kinds of tax due to the government, and possesses wealth to that measure.
 
-> Draft source note: the audited Tamil commentary prints `மளவுக்கு வளம்`. The first-pass English retains the source's unusual construction rather than silently reconstructing a smoother Tamil phrase.
+> Source-check note: the audited Tamil commentary prints `மளவுக்கு வளம்`. The source-checked English retains the source's unusual construction rather than silently reconstructing a smoother Tamil phrase.
 
 **734. A country is one where severe hunger, unceasing disease,  
 and hostile enemies do not gather.**
