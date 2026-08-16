@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–008 **ARCHIVAL-READY** through overall scan 169 / printed page 136 / Kural 670 |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–007 **released through Kural 565**; Part 008 **EDITORIAL REVIEW COMPLETE 21/21** through Kural 670 |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–008 **released through Kural 670** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -34,7 +34,7 @@ Tamil Parts **001–008** are audited / archival-ready continuously through:
 - printed page **136**;
 - Kural **670**.
 
-English Parts **001–007** have completed their full release workflow continuously through Kural **565**.
+English Parts **001–008** have completed their full release workflow continuously through Kural **670**.
 
 ### Part 008 Tamil — ARCHIVAL-READY
 
@@ -46,33 +46,32 @@ The source-visible structural transition at scan **162 / printed page 129 / Kura
 
 `பொருள் — அரசியல்` → **`பொருள் — அமைச்சியல் — அமைச்சு`**.
 
-### Part 008 English — EDITORIAL REVIEW COMPLETE
+### Part 008 English — RELEASE COMPLETE
 
-All **21 / 21** aligned Part 008 project-translation pages have completed first pass, direct source-check and editorial consistency / glossary reconciliation.
+All **21 / 21** aligned Part 008 project-translation pages have completed first pass, direct source-check, editorial consistency / glossary reconciliation, and the separate release gate.
 
-Current Part 008 English state:
+Final Part 008 English state:
 
 - `draft`: **0**;
 - `source-checked`: **0**;
-- `editorial-reviewed`: **21 / 21**;
-- `release-ready`: **0**.
+- `editorial-reviewed`: **0**;
+- `release-ready`: **21 / 21**.
 
-Editorial review: [`works/thirukkural/translations/en/reviews/PART_008_REVIEW.md`](works/thirukkural/translations/en/reviews/PART_008_REVIEW.md).
+Review/release artefacts:
 
-The controlled main-body English headings now extend through Kural **670**. The Tamil `அரசியல்` → `அமைச்சியல்` distinction is editorially controlled as:
+- [`works/thirukkural/translations/en/reviews/PART_008_REVIEW.md`](works/thirukkural/translations/en/reviews/PART_008_REVIEW.md)
+- [`works/thirukkural/translations/en/reviews/PART_008_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_008_RELEASE_REPORT.md)
+
+The controlled main-body English headings now extend through Kural **670**. The Tamil `அரசியல்` → `அமைச்சியல்` distinction is released as:
 
 `Porul — Statecraft` → **`Porul — Ministerial Affairs`**.
 
-`Ministerial Affairs` is now the controlled project rendering of `அமைச்சியல்` for this supplied main-body section, and the global English glossary has been extended accordingly.
-
-All six Part 008 source-check corrections remain protected. Three small editorial readability refinements were made at Kurals **602, 627 and 641**; no other substantive body-text change was made.
+All Part 008 source-check corrections and editorial refinements remain intact. The released translation preserves Kalaignar's government/intelligence vocabulary, rational/inquiry framing, **Oozh** at Kural 620, direct **“God!”** line at Kural 619, council-of-ministers/citizens framing at Kural 632, **seventy crore** at Kural 639, and direct source images including the unbaked clay pot and chariot linchpin.
 
 ## அடுத்த செயல்
 
-Perform the separate **Part 008 English release gate** for all 21 `editorial-reviewed` pages.
+Begin **Part 009 Tamil first-pass transcription** from overall scan **170 / printed page 137 / Kural 671**, chapter 68 `வினை செயல்வகை`, using the supplied Part 009 source.
 
-That gate must perform the final continuity/alignment and controlled-term check, create `PART_008_RELEASE_REPORT.md` only if it passes, and only then promote the pages to `release-ready`.
-
-Do not combine the Part 008 release gate with Part 009 Tamil transcription.
+Keep the gates separate: first-pass transcription only; do not combine it with direct visual verification, Tamil audit or English translation.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), and [`HANDOVER.md`](HANDOVER.md).
