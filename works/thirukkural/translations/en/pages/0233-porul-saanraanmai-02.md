@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Porul — Civic Life — Exemplary Character"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -26,8 +26,8 @@ who possesses the firmness called exemplary character as wealth.**
 
 For a person who holds the firmness called character as his wealth, poverty is not something that can bring disgrace.
 
-**989. Those called the ocean of exemplary character do not change  
-even if an age of upheaval comes and all the seas overturn.**
+**989. Even if the age itself changes, they themselves do not change—  
+those who are called the ocean of exemplary character.**
 
 Worthy people who perform the duties proper to them with dignity will remain like a sea that does not change its state even if an age of upheaval arrives in which all the seas themselves overturn and change.
 
