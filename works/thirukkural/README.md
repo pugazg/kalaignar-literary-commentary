@@ -12,7 +12,7 @@
 | 004 | `திருக்குறள்_கலைஞர்_உரை_part_004_pages_63-84.pdf` | 22 | 63–84 | audited / **ARCHIVAL-READY** |
 | 005 | `திருக்குறள்_கலைஞர்_உரை_part_005_pages_85-106.pdf` | 22 | 85–106 | audited / **ARCHIVAL-READY** |
 | 006 | `திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf` | 21 | 107–127 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
-| 007 | `திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf` | 21 | 128–148 | audited / **ARCHIVAL-READY**; English **EDITORIAL-REVIEWED 21/21** |
+| 007 | `திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf` | 21 | 128–148 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
 | 008 | `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf` | 21 | 149–169 | source received; continuity confirmed from Kural 566; transcription not started |
 | 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | source received; transcription not started |
 | 010 | `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf` | 23 | 192–214 | source received; transcription not started |
@@ -39,42 +39,25 @@ Permanent cadence:
 
 **Tamil transcription → visual verification → Tamil audit → English draft → source-check → editorial review → English release report.**
 
-### Parts 001–006 English — RELEASE COMPLETE
+### Parts 001–007 English — RELEASE COMPLETE
 
 - Part 001: 19 `release-ready` + scan 8 `source-limited`;
 - Part 002: **21/21 `release-ready`**;
 - Part 003: **21/21 `release-ready`**, through Kural 145;
 - Part 004: **22/22 `release-ready`**, through Kural 255;
 - Part 005: **22/22 `release-ready`**, through Kural 365;
-- Part 006: **21/21 `release-ready`**, through Kural 460.
+- Part 006: **21/21 `release-ready`**, through Kural 460;
+- Part 007: **21/21 `release-ready`**, through Kural 565.
 
-### Part 007 English — EDITORIAL REVIEW COMPLETE
+Part 007 review and release reports:
 
-All **21 / 21** English pages for scans **128–148 / printed pages 95–115 / Kural 461–565** are now `editorial-reviewed`.
+- [`translations/en/reviews/PART_007_REVIEW.md`](translations/en/reviews/PART_007_REVIEW.md)
+- [`translations/en/reviews/PART_007_RELEASE_REPORT.md`](translations/en/reviews/PART_007_RELEASE_REPORT.md)
 
-Review report: [`translations/en/reviews/PART_007_REVIEW.md`](translations/en/reviews/PART_007_REVIEW.md).
-
-The review made no substantive body rewrite merely for smoother English. It retained Kalaignar's direct language, imagery and governance framing while establishing controlled chapter headings 47–57 and updating the glossary.
-
-Protected decisions include:
-
-- Kural 543: `அறவோர் நூல்களுக்கும்` → **“the books of the virtuous”**;
-- Kural 520: Kalaignar's explicit focus on **working people** and the responsibility of those who govern;
-- chapters 55–57: institutional vocabulary of **government, citizens, good governance, justice, tyranny, public resources, productive work, punishment and fear** where Kalaignar uses it;
-- Kural 464: the source-check correction centred on `களங்கம்` remains intact;
-- all source-supported strategic and natural imagery remains intact.
-
-Current Part 007 English state:
-
-- `editorial-reviewed`: **21 / 21**;
-- `source-checked`: **0**;
-- `draft`: **0**;
-- `release-ready`: **0**;
-- `source-limited`: **0**;
-- `blocked`: **0**.
+The release keeps Kalaignar's source-specific interpretation and language intact, including Kural 543 **“the books of the virtuous”**, Kural 520's **working people** framing, Kural 464's `களங்கம்`-centred correction, and the institutional government/justice/tyranny vocabulary across chapters 55–57.
 
 ## அடுத்த செயல்
 
-Perform the separate **Part 007 English release gate** for all **21 editorial-reviewed records**. Create `translations/en/reviews/PART_007_RELEASE_REPORT.md` only if the gate passes, and only then promote pages to `release-ready`.
+Begin the separate **Part 008 Tamil first-pass transcription**, starting at overall scan **149** / printed page **116** / Kural **566**, continuing chapter 57 `வெருவந்த செய்யாமை`.
 
-Do not begin Part 008 Tamil transcription in the same activity.
+Do not combine Part 008 first-pass transcription with verification, audit, English translation, or release work.
