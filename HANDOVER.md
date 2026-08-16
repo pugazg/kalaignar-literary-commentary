@@ -22,81 +22,73 @@ Do not collapse these stages.
 
 Parts **001–006 are audited / archival-ready** through overall scan **127** / printed page **94** / Kural **460**.
 
-Parts 007–010 are received but remain source-intake only.
+Parts 007–010 are received but remain source-intake only:
+
+- Part 007 — scans 128–148 / printed pages 95–115 / Kural 461–565;
+- Part 008 — scans 149–169 / printed pages 116–136 / Kural 566–670;
+- Part 009 — scans 170–191 / printed pages 137–158 / Kural 671–780;
+- Part 010 — scans 192–214 / printed pages 159–181 / Kural 781–895.
 
 ## English project translation
 
-Parts 001–005 are released through Kural **365**.
+Parts **001–006 are released** through Kural **460**.
 
-# Part 006 English — EDITORIAL REVIEW COMPLETE
+Part 006 English final state:
 
-Scope: scans **107–127 / Kural 366–460**, including the Porul title page and blank reverse.
+- aligned files: **21 / 21**;
+- `release-ready`: **21 / 21**;
+- unresolved English records: **0**.
 
-Current state:
-
-- aligned English files: **21 / 21**;
-- `editorial-reviewed`: **21 / 21**;
-- `source-checked`: **0**;
-- `draft`: **0**;
-- `release-ready`: **0**;
-- `source-limited`: **0**;
-- `blocked`: **0**.
-
-Review artefact:
+Release artefacts:
 
 - `works/thirukkural/translations/en/reviews/PART_006_REVIEW.md`
+- `works/thirukkural/translations/en/reviews/PART_006_RELEASE_REPORT.md`
 
-The editorial review found the source-checked English already faithful and intelligible, so no substantive page-body rewriting was made merely for elegance. Main-body chapter headings and recurring terminology were reconciled at the editorial-control layer.
+## Protected released Part 006 decisions
 
-## Controlled Part 006 headings
+Do not revise released English merely because later parts introduce similar vocabulary. Any project-wide change must be deliberate, source-supported and documented.
 
-- 38 `ஊழ்` — **Oozh**
-- 39 `இறைமாட்சி` — **Excellence of Kingship**
-- 40 `கல்வி` — **Learning**
-- 41 `கல்லாமை` — **Lack of Learning**
-- 42 `கேள்வி` — **Listening**
-- 43 `அறிவுடைமை` — **Possession of Wisdom**
-- 44 `குற்றங்கடிதல்` — **Avoiding Faults**
-- 45 `பெரியாரைத் துணைக்கோடல்` — **Seeking the Support of the Great**
-- 46 `சிற்றினம் சேராமை` — **Avoiding Base Company**
+The Part 006 release specifically protects:
 
-Chapter 37 remains the previously controlled **Eradication of Desire**.
-
-## Protected Kalaignar-language decisions
-
-The user's standing requirement to retain Kalaignar's language remains binding.
-
-Most importantly:
-
-- `ஊழ்` remains **Oozh**;
-- Kalaignar's repeated `இயற்கை நிலை` remains **natural condition**;
-- do not substitute a conventional fate/destiny doctrine.
-
-Also preserve:
-
-- government/administration, treasury, revenue and planned-expenditure language in chapter 39;
-- eye/sores, breast, barren-land, walking-corpse and clay-doll comparisons in chapter 41;
-- ear-food and walking-stick imagery in chapter 42;
-- Kural 423's rational inquiry framing;
-- millet/palmyra and haystack/fire imagery in chapter 44;
-- rebuke/correction, pillar/building and capital/trade language in chapter 45;
-- chapter 46's company/group/association reading of `இனம்`, based on Kalaignar's supplied commentary, without importing a racial or biological interpretation.
+- chapter 38 `ஊழ்` → **Oozh**;
+- Kalaignar's repeated `இயற்கை நிலை` → **natural condition**;
+- no conventional fate/destiny substitution;
+- government / administration / treasury / revenue / planned-expenditure vocabulary where Kalaignar uses it;
+- direct social comparisons and imagery without sanitization;
+- Kural 423's inquiry into what is true rather than passive acceptance;
+- rebuke/correction and pillar/capital analogies;
+- chapter 46 `இனம்` handled through **company / group / association** in accordance with Kalaignar's commentary, not through an imported racial or biological reading.
 
 # Exact next activity
 
-Perform the separate **Part 006 English release gate only**.
+Begin **Part 007 Tamil first-pass transcription only** from the supplied source:
 
-Required procedure:
+`திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf`
 
-1. fresh-fetch this handover;
-2. inspect `translations/en/reviews/PART_006_REVIEW.md`;
-3. inspect all 21 Part 006 `editorial-reviewed` pages for complete alignment, metadata consistency, chapter continuity and protected terminology;
-4. confirm that no `draft`, `source-checked`, `source-limited` or `blocked` page remains in Part 006;
-5. create `works/thirukkural/translations/en/reviews/PART_006_RELEASE_REPORT.md` only if the gate passes;
-6. promote all eligible Part 006 pages to `release-ready` only after the release report is complete;
-7. synchronize `TRANSLATION_STATUS.md`, work README, root README and this handover;
-8. stop after release.
+Known source boundaries from intake inspection:
 
-Do **not** begin Part 007 Tamil transcription in the same activity.
+- overall scans: **128–148**;
+- local pages: **1–21**;
+- printed pages: **95–115**;
+- Kural range: **461–565**.
 
-After Part 006 release is complete, the next workflow activity may begin Part 007 Tamil transcription from scan 128, but only in a later activity.
+## Required procedure
+
+1. fresh-fetch this `HANDOVER.md`, the root README, `works/thirukkural/README.md`, and `LITERARY_COMMENTARY_PROCESSING_GUIDE.md` before writing;
+2. inspect the controlling Part 007 scan directly;
+3. continue from Kural **461** without duplicating Part 006;
+4. create one Tamil Markdown record per physical scan using the established filename/front-matter conventions;
+5. preserve source-supported spelling, word joins, punctuation, numbering, headings and Kalaignar commentary exactly as printed;
+6. distinguish printed body text from stamps, handwriting, bleed-through, damage or later annotation;
+7. mark every new Part 007 page `needs-review` with direct visual verification pending;
+8. synchronize page-map/status/handover documents after the chosen first-pass batch;
+9. do not begin direct verification in the same first-pass activity.
+
+Do **not** during Part 007 Tamil first-pass transcription:
+
+- modify released Parts 001–006;
+- begin English Part 007 translation;
+- create a Part 007 Tamil audit;
+- promote first-pass Part 007 pages directly to `verified`.
+
+The next stage after Part 007 first-pass completion will be its separate direct visual verification workflow.
