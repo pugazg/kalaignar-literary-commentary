@@ -6,10 +6,10 @@ printed_page: "130"
 work: "thirukkural"
 section: "பொருள் — அமைச்சியல் — அமைச்சு"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **636. மதிநுட்ப நூலோ டுடையார்க் கதிநுட்பம்  
