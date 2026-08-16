@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–008 **ARCHIVAL-READY** through overall scan 169 / printed page 136 / Kural 670 |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–007 **released through Kural 565**; Part 008 not started |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–007 **released through Kural 565**; Part 008 first pass **COMPLETE 21/21 draft** through Kural 670 |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -28,13 +28,13 @@ The project translation follows an explicit fidelity rule: **retain Kalaignar's 
 
 ## தற்போதைய நிலை — திருக்குறள்
 
-Tamil Parts **001–008** are now audited / archival-ready continuously through:
+Tamil Parts **001–008** are audited / archival-ready continuously through:
 
 - overall scan **169**;
 - printed page **136**;
 - Kural **670**.
 
-English Parts **001–007** have completed their full release workflow continuously through Kural **565**. Part 008 English has **not started**.
+English Parts **001–007** have completed their full release workflow continuously through Kural **565**.
 
 ### Part 008 Tamil — ARCHIVAL-READY
 
@@ -42,23 +42,33 @@ Part 008 covers scans **149–169 / printed pages 116–136 / Kural 566–670**.
 
 Audit: [`works/thirukkural/AUDIT_PART_008.md`](works/thirukkural/AUDIT_PART_008.md).
 
-Verification corrections retained by the audit:
-
-- scan 153 / Kural 589 commentary: `ஒத்திருந் தால்` → `ஒத்திருந்தால்`;
-- scan 164 / Kural 643 commentary: `கேட்டோரைத் கவரும்` → `கேட்டோரைக் கவரும்`;
-- scan 166 / Kural 651 text: `ஆக்கம் தரூஉம்` → `ஆக்கந் தரூஉம்`;
-- scan 166 / Kural 653 text: `ஆஅதும் என்னு மவர்` → `ஆஅது மென்னு மவர்`.
-
-The source-visible structural transition at scan **162 / printed page 129 / Kural 631** is preserved as:
+The source-visible structural transition at scan **162 / printed page 129 / Kural 631** is preserved in Tamil as:
 
 `பொருள் — அரசியல்` → **`பொருள் — அமைச்சியல் — அமைச்சு`**.
 
+### Part 008 English — FIRST PASS COMPLETE
+
+All **21 / 21** aligned project-translation pages now exist for scans **149–169 / Kural 566–670** with `status: "draft"`.
+
+Current Part 008 English state:
+
+- `draft`: **21 / 21**;
+- `source-checked`: **0**;
+- `editorial-reviewed`: **0**;
+- `release-ready`: **0**.
+
+The draft retains Kalaignar's source-specific governance and intelligence vocabulary, rational/inquiry framing, **Oozh** at Kural 620, and the part's direct images rather than importing familiar external Kural readings.
+
+The Tamil `அரசியல்` → `அமைச்சியல்` transition is represented in first-pass English metadata as:
+
+`Porul — Statecraft` → **`Porul — Ministerial Affairs`**.
+
+`Ministerial Affairs` remains a first-pass structural rendering pending source-check and later glossary/editorial reconciliation.
+
 ## அடுத்த செயல்
 
-Begin the separate **Part 008 English project translation — first pass** for the aligned pages covering scans **149–169 / Kural 566–670**.
+Perform the separate **Part 008 English direct source-check** for all 21 aligned draft pages, comparing every Kural and Kalaignar commentary paragraph against the audited Tamil records.
 
-Before translating, read the English translation guide, glossary, translation status and the previous completed English review/release artefacts. Retain Kalaignar's language and interpretation; do not substitute conventional Kural readings.
+Do not combine that source-check with the Part 008 editorial review, release gate, or Part 009 Tamil transcription.
 
-Do not begin Part 009 Tamil transcription in the same activity.
-
-Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md) and [`HANDOVER.md`](HANDOVER.md).
+Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), and [`HANDOVER.md`](HANDOVER.md).
