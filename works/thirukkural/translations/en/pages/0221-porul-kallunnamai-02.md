@@ -6,13 +6,13 @@ work: "thirukkural"
 section: "Porul — Friendship — Abstaining from Liquor"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
 
-**926. Those who drink liquor are no different from those who consume poison;  
-those asleep are no different from the dead.**
+**926. Those who sleep are no different from the dead;  
+those who drink liquor are no different from those who consume poison.**
 
 Since there is no difference between those who drink liquor and those who drink poison, it may also be said that there is no difference between their lying asleep and their lying dead.
 
