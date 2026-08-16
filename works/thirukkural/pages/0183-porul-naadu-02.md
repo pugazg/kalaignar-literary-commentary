@@ -6,10 +6,10 @@ printed_page: "150"
 work: "thirukkural"
 section: "பொருள் — அரணியல் — நாடு"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **736. கேடறியாக் கெட்ட இடத்தும் வளங்குன்றா  
