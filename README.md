@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–010 **ARCHIVAL-READY** continuously through overall scan 214 / printed page 181 / Kural 895 |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–009 **released through Kural 780**; Part 010 eligible for first pass |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–009 **released through Kural 780**; Part 010 first pass **23/23 draft** through Kural 895 |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -30,48 +30,20 @@ The project translation follows an explicit fidelity rule: **retain Kalaignar's 
 
 Tamil Parts **001–010** are audited / archival-ready continuously through overall scan **214** / printed page **181** / Kural **895**.
 
-English Parts **001–009** have completed their full release workflow continuously through Kural **780**. Part 010 English has not begun and is now eligible for its separate first-pass translation gate.
+English Parts **001–009** have completed their full release workflow continuously through Kural **780**.
 
-Part 009 English covers scans **170–191 / printed pages 137–158 / Kural 671–780**. All **22 / 22** aligned English pages are `release-ready` after first pass, direct source-check, editorial consistency / glossary reconciliation and the separate release gate.
+Part 010 English first-pass translation is now complete across **23 / 23** aligned pages, scans **192–214 / printed pages 159–181 / Kural 781–895**. Every Part 010 English record remains `draft`; source-check, editorial review and release are still pending.
 
-Editorial review: [`works/thirukkural/translations/en/reviews/PART_009_REVIEW.md`](works/thirukkural/translations/en/reviews/PART_009_REVIEW.md).
+Part 010 Tamil audit: [`works/thirukkural/AUDIT_PART_010.md`](works/thirukkural/AUDIT_PART_010.md) — **PASS / ARCHIVAL-READY**.
 
-Release report: [`works/thirukkural/translations/en/reviews/PART_009_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_009_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
+The first-pass Part 010 structural rendering uses `நட்பியல்` → **Friendship** provisionally. Chapter headings 79–90 are likewise first-pass choices and remain subject to the later editorial/glossary gate.
 
-The released Part 009 section sequence is:
-
-`அமைச்சியல்` → **Ministerial Affairs** → `அரணியல்` → **Fortification Affairs** → `கூழியல்` → **Wealth** → `படையியல்` → **Military Affairs**.
-
-Protected source-check and source-sensitive decisions from released English Parts remain intact.
-
-## Part 010 Tamil — ARCHIVAL-READY
-
-Controlling source: `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf`.
-
-Tamil audit: [`works/thirukkural/AUDIT_PART_010.md`](works/thirukkural/AUDIT_PART_010.md) — **PASS / ARCHIVAL-READY**.
-
-Final audited scope:
-
-- physical pages: **23 / 23**;
-- overall scans **192–214**;
-- printed pages **159–181**;
-- Kural **781–895**;
-- source section throughout: `பொருள் — நட்பியல்`;
-- chapters **79–90**, with chapter 90 represented only through Kural 895 because that is where the supplied source ends;
-- final Tamil status: **23 `verified`, 0 `needs-review`, 0 `partial`, 0 `blocked`**.
-
-The audit confirms continuous Part 009 → Part 010 intake at printed page **158 → 159** / Kural **780 → 781**. Direct visual verification required no first-pass body-text correction.
-
-The source-sensitive scan **209 / Kural 869 commentary** repetition is confirmed and protected:
-
-`அஞ்சிடும் கோழைகளாகவும், அறிவில்லாக் கோழைகளாகவும் பகைவர்கள் இருப்பின் அவர்களை எதிர்ப்போரை விட்டு வெற்றியெனும் இன்பம் விலகாமலே நிலைத்து நிற்கும்.`
-
-The supplied Part 010 source ends at printed page **181 / Kural 895**. No Kural 896 onward is inferred without the next controlling source.
+The source-sensitive scan **209 / Kural 869 commentary** repetition remains preserved in the English draft rather than silently normalized. The supplied source ends at Kural **895**, so no English Kural 896 onward has been created or inferred.
 
 ## அடுத்த செயல்
 
-Begin **Part 010 English project translation — first pass** for all **23 aligned Tamil pages**, scans **192–214 / printed pages 159–181 / Kural 781–895**.
+Perform the separate **Part 010 English direct source-check** for all **23 draft pages**.
 
-Create only `draft` project-translation pages in this gate. English direct source-check, editorial consistency / glossary review and release remain separate later activities.
+Compare each English Kural and commentary paragraph against the verified Tamil archival record and promote only passing pages to `source-checked`. Do not combine source-check with the later editorial consistency / glossary reconciliation or release gate.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), and [`HANDOVER.md`](HANDOVER.md).
