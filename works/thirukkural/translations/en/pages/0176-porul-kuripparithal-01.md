@@ -3,15 +3,15 @@ source_scan_page: 176
 source_tamil_file: "../../../pages/0176-porul-kuripparithal-01.md"
 printed_page: "143"
 work: "thirukkural"
-section: "Porul — Ministerial Affairs — Understanding Signs (Porul)"
+section: "Porul — Ministerial Affairs — Understanding Signs"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
 
-# 71. Understanding Signs (Porul)
+# 71. Understanding Signs
 
 **701. One who, by looking, understands the unspoken sign  
 is at all times an ornament to the world girdled by unfailing waters.**
