@@ -3,15 +3,15 @@ source_scan_page: 208
 source_tamil_file: "../../../pages/0208-porul-pagai-maatchi-01.md"
 printed_page: "175"
 work: "thirukkural"
-section: "Porul — Friendship — The Character of Enmity"
+section: "Porul — Friendship — Excellence in Enmity"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
 
-# 87. The Character of Enmity
+# 87. Excellence in Enmity
 
 **861. Leave the weak aside and desire to stand against the strong;  
 such enmity is praised as greatness in enmity.**
