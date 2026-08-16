@@ -16,10 +16,13 @@
 | 008 | `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf` | 21 | 149–169 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 21/21** |
 | 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 22/22** |
 | 010 | `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf` | 23 | 192–214 | audited / **ARCHIVAL-READY**; English **RELEASE-READY 23/23** |
+| 011 | `திருக்குறள்_கலைஞர்_உரை_part_011_pages_215-237.pdf` | 23 | 215–237 | Tamil first pass **COMPLETE 23/23**; direct visual verification pending |
 
 Tamil Parts **001–010 are archival-ready continuously** through overall scan **214** / printed page **181** / Kural **895**.
 
-English Parts **001–010 are released continuously** through the supplied Kural **895**.
+Part 011 now has a complete Tamil first-pass transcription through overall scan **237** / printed page **204** / Kural **1010**, but remains `needs-review` until the separate direct visual verification gate is completed.
+
+English Parts **001–010 are released continuously** through the supplied Kural **895**. Part 011 English has not started and must not start before the Part 011 Tamil audit passes.
 
 ## Part 009 English — RELEASE COMPLETE
 
@@ -62,7 +65,7 @@ Final audited scope:
 
 The Part 009 → Part 010 boundary passes at printed page **158 → 159** / Kural **780 → 781**.
 
-The source-sensitive scan **209 / Kural 869 commentary** repetition is directly verified and remains protected. The source ends at Kural **895**; Kural 896 onward is not inferred.
+The source-sensitive scan **209 / Kural 869 commentary** repetition is directly verified and remains protected. The source ends at Kural **895**; Kural 896 onward was not inferred before the next supplied source arrived.
 
 ## Part 010 English — RELEASE COMPLETE
 
@@ -97,12 +100,62 @@ The seven source-check corrections remain intact at release, including **women f
 
 No substantive Kural or commentary body text was changed during the release gate.
 
-No Part 010 English text beyond Kural **895** has been created.
+## Part 011 Tamil — FIRST PASS COMPLETE
+
+Controlling source: `திருக்குறள்_கலைஞர்_உரை_part_011_pages_215-237.pdf`
+
+The actual 23-page scan was inspected before transcription. The incoming boundary is directly source-supported:
+
+- Part 010 ends at printed page **181 / Kural 895**;
+- Part 011 begins at printed page **182 / Kural 896**.
+
+First-pass scope:
+
+- physical pages: **23 / 23**;
+- overall scans: **215–237**;
+- Part-local pages: **1–23**;
+- printed pages: **182–204**;
+- Kural range: **896–1010**;
+- `needs-review`: **23 / 23**;
+- `verified`: **0**;
+- `partial`: **0**;
+- `blocked`: **0**.
+
+Chapter coverage:
+
+- scan 215 / p182 — chapter 90 `பெரியாரைப் பிழையாமை`, Kural 896–900, completing the chapter begun in Part 010;
+- scans 216–217 — chapter 91 `பெண்வழிச் சேறல்`, Kural 901–910;
+- scans 218–219 — chapter 92 `வரைவின் மகளிர்`, Kural 911–920;
+- scans 220–221 — chapter 93 `கள்ளுண்ணாமை`, Kural 921–930;
+- scans 222–223 — chapter 94 `சூது`, Kural 931–940;
+- scans 224–225 — chapter 95 `மருந்து`, Kural 941–950;
+- scans 226–227 — chapter 96 `குடிமை`, Kural 951–960;
+- scans 228–229 — chapter 97 `மானம்`, Kural 961–970;
+- scans 230–231 — chapter 98 `பெருமை`, Kural 971–980;
+- scans 232–233 — chapter 99 `சான்றாண்மை`, Kural 981–990;
+- scans 234–235 — chapter 100 `பண்புடைமை`, Kural 991–1000;
+- scans 236–237 — chapter 101 `நன்றியில் செல்வம்`, Kural 1001–1010.
+
+The source structural transition is preserved rather than flattened:
+
+- scans **215–225** remain under `பொருள் — நட்பியல்`;
+- from scan **226 / printed page 193 / chapter 96 குடிமை**, the running header changes to `பொருள் — குடியியல்` and remains so through scan 237.
+
+Source-sensitive first-pass material includes Kalaignar's explicit governance framing at Kural **899**, the extension of Kural **948** from bodily illness to **சமுதாய நோய்**, and Kural **972**'s explicit `பிறப்பினால் அனைவரும் சமம்` formulation. These remain source-controlled and will be checked line-by-line during verification.
+
+Part 011 is **not ARCHIVAL-READY** yet. No `AUDIT_PART_011.md` exists, and no Part 011 English translation has begun.
+
+No Kural **1011** or later text has been inferred or created.
 
 ## அடுத்த செயல்
 
-The currently supplied Thirukkural source ends at overall scan **214 / printed page 181 / Kural 895**. There is **no further processing activity until the next controlling Tamil source is supplied**.
+Perform the separate **Part 011 Tamil direct visual verification** gate for all **23 `needs-review` pages**, scans **215–237**.
 
-When the next source is supplied, inspect the actual scan first, verify continuity at printed page **181 → 182 / Kural 895 → 896**, and only then begin the next separate Tamil first-pass transcription gate.
+Compare every Kural, line break, punctuation mark, chapter heading, running-header section, commentary paragraph and page metadata directly against the controlling scan. Correct only what the scan clearly requires, document every real correction, and promote passing pages to:
 
-Do not infer Kural 896 onward, and do not alter released English Parts 001–010 merely for harmonization.
+```yaml
+status: "verified"
+transcription_method: "direct visual comparison with source scan"
+```
+
+Stop after the 23-page verification. Do **not** create `AUDIT_PART_011.md` in the same activity, and do **not** begin Part 011 English translation. The next gate after verification is the separate Part 011 Tamil audit / archival-ready decision.
