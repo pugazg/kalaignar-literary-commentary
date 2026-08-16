@@ -6,16 +6,16 @@ printed_page: "102"
 work: "thirukkural"
 section: "பொருள் — அரசியல் — இடனறிதல்"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **496. கடலோடா கால்வல் நெடுந்தேர் கடலோடும்  
 நாவாயும் ஓடா நிலத்து.**
 
-ஒரு செயலுக்குரிய இடத்தைத் தேர்ந்தெடுப்பவர் `தேர்க் கடலிலே ஓடாது', `கப்பல் நிலத்தில் போகாது' என்பதையாவது தெரிந்தவராக இருக்க வேண்டும்.
+ஒரு செயலுக்குரிய இடத்தைத் தேர்ந்தெடுப்பவர் ‘தேர்க் கடலிலே ஓடாது’, ‘கப்பல் நிலத்தில் போகாது’ என்பதையாவது தெரிந்தவராக இருக்க வேண்டும்.
 
 **497. அஞ்சாமை யல்லால் துணைவேண்டா எஞ்சாமை  
 எண்ணி யிடத்தாற் செயின்.**
