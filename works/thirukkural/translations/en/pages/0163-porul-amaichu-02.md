@@ -6,7 +6,7 @@ work: "thirukkural"
 section: "Porul — Ministerial Affairs — The Minister"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ---
@@ -21,10 +21,10 @@ act only after understanding the ways of the world.**
 
 Even when one has acquired book knowledge about how to act, one must understand the practices of the world and carry out actions in a way suited to them.
 
-**638. Even if the ruler does not know and refuses to accept counsel,  
-it is the duty of the minister at his side to speak what is sound.**
+**638. Even if one does not know and refuses to accept what is explained,  
+it is the duty of the minister nearby to speak what is sound.**
 
-When those in authority neither listen to what is said nor possess knowledge of their own, the ministers who stand near them must still courageously offer good counsel.
+When a person neither listens to what is said nor possesses understanding of their own, the ministers nearby must still courageously offer good counsel.
 
 **639. Better seventy crore enemies at one's side  
 than a single minister nearby who plots what is wrong.**
