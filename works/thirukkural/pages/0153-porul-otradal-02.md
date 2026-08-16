@@ -6,10 +6,10 @@ printed_page: "120"
 work: "thirukkural"
 section: "பொருள் — அரசியல் — ஒற்றாடல்"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 **586. துறந்தார் படிவத்த ராகி இறந்தாராய்ந்  
@@ -30,7 +30,7 @@ transcription_method: "manual transcription from source scan; direct visual veri
 **589. ஒற்றொற் றுணராமை யாள்க உடன்மூவர்  
 சொற்றொக்க தேறப் படும்.**
 
-ஓர் ஒற்றரை மற்றோர் ஒற்றர் அறியமுடியாதபடி மூன்று ஒற்றர்களை இயங்கவைத்து அம்மூவரும் சொல்வது ஒத்திருந் தால் அது உண்மையெனக் கொள்ளலாம்.
+ஓர் ஒற்றரை மற்றோர் ஒற்றர் அறியமுடியாதபடி மூன்று ஒற்றர்களை இயங்கவைத்து அம்மூவரும் சொல்வது ஒத்திருந்தால் அது உண்மையெனக் கொள்ளலாம்.
 
 **590. சிறப்பறிய ஒற்றின்கண் செய்யற்க செய்யிற்  
 புறப்படுத்தான் ஆகும் மறை.**
