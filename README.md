@@ -6,7 +6,7 @@
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–007 **ARCHIVAL-READY** through Kural 565; Part 008 first-pass **COMPLETE 21/21** through Kural 670, verification pending |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–007 **ARCHIVAL-READY** through Kural 565; Part 008 first-pass complete, **7/21 verified** through Kural 600 |
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–007 **released through Kural 565** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
@@ -32,10 +32,10 @@ Tamil Parts **001–007** are archival-ready through overall scan **148** / prin
 
 English Parts **001–007** have completed their full release workflow continuously through Kural **565**.
 
-Part **008 Tamil first-pass is complete: 21/21**. `needs-review` page records now cover overall scans **149–169 / printed pages 116–136 / Kural 566–670**, from the completion of `வெருவந்த செய்யாமை` through `கண்ணோட்டம்`, `ஒற்றாடல்`, `ஊக்கம் உடைமை`, `மடி இன்மை`, `ஆள்வினை உடைமை`, `இடுக்கண் அழியாமை`, `அமைச்சு`, `சொல்வன்மை`, `வினைத் தூய்மை`, and `வினைத்திட்பம்`.
+Part **008 Tamil first-pass is complete 21/21**. Direct verification Batch 1 is also complete for scans **149–155 / printed pages 116–122 / Kural 566–600**, leaving **7 verified / 14 needs-review**.
 
-Scan **162 / printed page 129** preserves the source-visible transition into **`பொருள் — அமைச்சியல் — அமைச்சு`**. Direct verification has not begun.
+One source-supported first-pass correction was made during Batch 1 on scan 153 / Kural 589 commentary: `ஒத்திருந் தால்` → `ஒத்திருந்தால்`.
 
-The next activity is **Part 008 Tamil direct visual verification — Batch 1**, scans **149–155 / Kural 566–600**. Audit, English translation and Part 009 transcription remain later separate stages.
+The next activity is **Part 008 Tamil direct visual verification — Batch 2**, scans **156–162 / Kural 601–635**, including the source-visible `அரசியல் → அமைச்சியல்` transition at scan 162.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md) and [`HANDOVER.md`](HANDOVER.md).
