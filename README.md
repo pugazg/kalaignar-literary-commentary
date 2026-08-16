@@ -7,7 +7,7 @@
 | நூல் | மொழி | நிலை |
 |---|---|---|
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–006 **ARCHIVAL-READY** through Kural 460; Parts 007–010 source received |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–005 **released through Kural 365**; Part 006 **21/21 source-checked**, editorial review pending |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–005 **released through Kural 365**; Part 006 **21/21 editorial-reviewed**, release gate pending |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -32,18 +32,16 @@ Tamil Parts **001–006** are archival-ready through overall scan **127** / prin
 
 ### English Parts 001–005 — RELEASE COMPLETE
 
-- Part 001: 19 `release-ready` + 1 `source-limited`;
-- Part 002: **21/21 `release-ready`**;
-- Part 003: **21/21 `release-ready`**, through Kural **145**;
-- Part 004: **22/22 `release-ready`**, through Kural **255**;
-- Part 005: **22/22 `release-ready`**, through Kural **365**.
+Parts 001–005 have completed the English release workflow through Kural **365**.
 
-### English Part 006 — SOURCE-CHECK COMPLETE
+### English Part 006 — EDITORIAL REVIEW COMPLETE
 
-All **21 / 21** page-aligned English records for scans **107–127 / Kural 366–460** have completed direct comparison against their verified Tamil archival records and now carry `status: "source-checked"`.
+All **21 / 21** page-aligned English records for scans **107–127 / Kural 366–460** now carry `status: "editorial-reviewed"`.
 
-The source-check preserved Kalaignar's own language, imagery and interpretive direction. In particular, chapter 38 remains **Oozh**, while Kalaignar's repeated `இயற்கை நிலை` explanation remains **natural condition** rather than being replaced by a conventional fate/destiny reading.
+The review confirmed the controlled main-body chapter headings for chapters 38–46 and protected Kalaignar's language and interpretive direction. Chapter 38 remains **Oozh** and Kalaignar's `இயற்கை நிலை` remains **natural condition**. Direct governance language, social comparisons, rational inquiry and source imagery have not been normalized away.
 
-The next activity is the separate **Part 006 English editorial consistency / glossary-reconciliation review**. It must not be combined with the later release gate or Part 007 Tamil transcription.
+Review artefact: `works/thirukkural/translations/en/reviews/PART_006_REVIEW.md`.
+
+The next activity is the separate **Part 006 English release gate**. No Part 006 page is yet `release-ready`, and Part 007 Tamil transcription must not begin in the same activity.
 
 Detailed status: [`works/thirukkural/README.md`](works/thirukkural/README.md), [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md), and [`HANDOVER.md`](HANDOVER.md).
