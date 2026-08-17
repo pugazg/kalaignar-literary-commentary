@@ -15,3 +15,8 @@ The source volume explicitly presents the three பால் divisions `அற�
 3. `03-இன்பத்துப்பால்` — அதிகாரம் 109–133
 
 Each அதிகாரம் contains exactly ten Kurals. Chapter folders record the corresponding Kural range and point back to the canonical archival layers.
+
+## Structural controls
+
+- [`CHAPTER_README_POLICY.md`](CHAPTER_README_POLICY.md) — chapter metadata and archival-boundary policy.
+- [`STRUCTURE_AUDIT.md`](STRUCTURE_AUDIT.md) — repository-level audit of the 3 பால் / 13 இயல் / 133 அதிகாரம் semantic hierarchy and documented corrections.
