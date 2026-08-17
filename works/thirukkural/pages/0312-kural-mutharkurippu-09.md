@@ -6,10 +6,10 @@ printed_page: "279"
 work: "thirukkural"
 section: "குறள் முதற்குறிப்பு அகரவரிசை"
 page_type: "index"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_015_pages_303-323.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 |  | குறளெண் |  | குறளெண் |
