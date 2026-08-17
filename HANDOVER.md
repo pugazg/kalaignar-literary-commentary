@@ -75,17 +75,27 @@ Audits exist as `works/thirukkural/AUDIT_PART_001.md` through `AUDIT_PART_015.md
 
 Part 001 scan 8 remains the documented source-limited exception already covered by its audit.
 
-## English Parts 001–014
+## English Parts 001–015
 
-Parts **001–014 are fully released continuously** through:
+Parts **001–015 are released continuously through the end of the supplied volume**.
 
-- overall scan **302**;
-- printed page **269**;
-- Kural **1325**.
+Current released boundaries:
 
-Part 014 passed Tamil audit, English source-check, editorial review and the separate release gate. Its 20 English pages are `release-ready`.
+- commentary: scan **303 / printed page 270 / Kural 1330**;
+- physical volume: scan **323**;
+- back-matter index: scans **304–321 / printed pages 271–288**;
+- scan **322** blank leaf;
+- scan **323** back cover.
 
-## Part 015 source structure and Tamil result
+Part 015 release artefacts:
+
+- Tamil audit: `works/thirukkural/AUDIT_PART_015.md` — **PASS / ARCHIVAL-READY**;
+- English editorial review: `works/thirukkural/translations/en/reviews/PART_015_REVIEW.md` — **PASS**;
+- English release report: `works/thirukkural/translations/en/reviews/PART_015_RELEASE_REPORT.md` — **PASS / RELEASE APPROVED**.
+
+All **21/21** Part 015 English records are `release-ready`.
+
+## Part 015 source structure
 
 Controlling source:
 
@@ -99,22 +109,17 @@ Source-confirmed structure:
 - scan **322** is an unnumbered blank leaf;
 - scan **323** is the plain back cover.
 
-All **21/21** Part 015 physical-page records are directly visually verified. During verification, scan 318 received the source-supported correction `பொளளென` → `பொள்ளென` for Kural 487.
-
-Tamil audit: `works/thirukkural/AUDIT_PART_015.md` — **PASS / ARCHIVAL-READY**.
+The English index retains the controlled bilingual strategy: structural labels are translated, while Tamil opening-word keys and Kural-number references remain source-controlled.
 
 # Exact next activity
 
-Begin **Part 015 English first-pass drafting** as a separate gate.
+There is no further unreleased Thirukkural material in the supplied volume.
 
-Required startup for that activity:
+Do **not** infer continuation after Kural **1330**.
 
-1. fresh-read `works/thirukkural/translations/en/TRANSLATION_GUIDE.md` completely;
-2. fresh-read `works/thirukkural/translations/en/GLOSSARY.md`;
-3. fresh-read `works/thirukkural/translations/en/TRANSLATION_STATUS.md`;
-4. inspect the released Part 014 English records and review/release artefacts for format and controlled vocabulary;
-5. use the verified Part 015 Tamil archival records as the translation basis.
+If a new Thirukkural source, supplement, alternate edition, or another Kalaignar literary-commentary work is supplied:
 
-Retain Kalaignar's interpretive language and rhetorical character. Keep the Kural and Kalaignar's commentary distinct. Do not replace his interpretation with a generic modern Thirukkural explanation.
-
-Stop after first-pass drafting. Do not combine drafting with source-check, editorial review or release promotion.
+1. inspect the actual source first;
+2. determine whether it belongs to the existing work or requires a separate work tree;
+3. follow the permanent archival/translation gate sequence;
+4. do not modify released Parts 001–015 merely to harmonize wording with later material.
