@@ -37,7 +37,7 @@ Permanent protected decisions from earlier released parts remain binding, includ
 | Part 012 | 238–260 | archival-ready — 23/23 verified | **RELEASE-READY — 23/23** |
 | Part 013 | 261–282 | **ARCHIVAL-READY — 22/22 verified; audit passed** | **RELEASE-READY — 22/22** |
 | Part 014 | 283–302 | **ARCHIVAL-READY — 20/20 verified; audit passed** | **RELEASE-READY — 20/20** |
-| Part 015 | 303–323 | **ARCHIVAL-READY — 21/21 verified; audit passed** | **SOURCE-CHECK IN PROGRESS — 16/21 source-checked (scans 303–318)** |
+| Part 015 | 303–323 | **ARCHIVAL-READY — 21/21 verified; audit passed** | **SOURCE-CHECK COMPLETE — 21/21 source-checked** |
 
 Tamil Parts **001–015 are archival-ready continuously through overall scan 323**. The commentary itself reaches **printed page 270 / Kural 1330** on scan 303; scans 304–321 preserve the printed `குறள் முதற்குறிப்பு அகரவரிசை` through printed page 288, followed by the blank leaf and back cover.
 
@@ -48,12 +48,13 @@ Part 015 Tamil audit: [`../../AUDIT_PART_015.md`](../../AUDIT_PART_015.md) — *
 ## Part 015 English source-check state
 
 - scan **303 / printed page 270 / Kurals 1326–1330** — compared against the verified Tamil page; Kural and commentary layers, meaning, paragraph separation and controlled chapter identity passed; status `source-checked`;
-- scans **304–318 / printed pages 271–285** — index mirrors compared entry-by-entry against the verified Tamil archival pages; Tamil opening-word keys, entry order, punctuation and Kural-number references are preserved, while only the structural heading and `Kural No.` labels are translated; status `source-checked`;
-- scans **319–321 / printed pages 286–288** — first-pass English mirror pages remain `draft` and still require source-check;
-- scan **322** — blank-leaf English mirror remains `draft`;
-- scan **323** — back-cover English mirror remains `draft`.
+- scans **304–321 / printed pages 271–288** — all index mirrors compared entry-by-entry against the verified Tamil archival pages; Tamil opening-word keys, entry order, punctuation, blank cells, decorative closing marks and Kural-number references are preserved, while only the structural heading and `Kural No.` labels are translated; status `source-checked`;
+- scan **322** — blank-leaf mirror compared against the verified Tamil record; status `source-checked`;
+- scan **323** — back-cover mirror compared against the verified Tamil record; status `source-checked`.
 
-The earlier drafting correction on scan 308 (`உள்ளியது எய்தல்`) remains present in the source-checked page and matches the verified Tamil record. Scan 318 also preserves the source-corrected Tamil key `பொள்ளென` for Kural 487.
+The earlier drafting correction on scan 308 (`உள்ளியது எய்தல்`) remains present and matches the verified Tamil record. Scan 318 also preserves the source-corrected Tamil key `பொள்ளென` for Kural 487.
+
+Part 015 English source-check is therefore **complete for scans 303–323 (21/21)**.
 
 No Part 015 page has yet undergone editorial review or release review.
 
@@ -73,9 +74,9 @@ Released Parts 001–014 must remain untouched merely to harmonize later wording
 
 ## Exact next activity
 
-Continue the **Part 015 English source-check gate** from scan **319 / printed page 286**, then proceed through scans **320–321** and the back-matter mirrors at scans **322–323**. Make only source-supported corrections and promote passing pages to `source-checked`.
+Begin the separate **Part 015 English editorial review gate**. Review all 21 source-checked pages for English readability, controlled chapter-title consistency, glossary usage, repeated phrasing, names, punctuation, index-label consistency and accidental interpretation drift. Create `reviews/PART_015_REVIEW.md` only when that editorial review has actually been completed.
 
-Do not combine source-check with editorial review or release promotion.
+Do not combine editorial review with release promotion. The release report remains a separate final gate.
 
 Permanent cadence:
 
