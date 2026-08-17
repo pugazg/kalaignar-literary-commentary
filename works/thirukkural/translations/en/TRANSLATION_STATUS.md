@@ -37,7 +37,7 @@ Permanent protected decisions from earlier released parts remain binding, includ
 | Part 012 | 238–260 | archival-ready — 23/23 verified | **RELEASE-READY — 23/23** |
 | Part 013 | 261–282 | **ARCHIVAL-READY — 22/22 verified; audit passed** | **RELEASE-READY — 22/22** |
 | Part 014 | 283–302 | **ARCHIVAL-READY — 20/20 verified; audit passed** | **RELEASE-READY — 20/20** |
-| Part 015 | 303–323 | **ARCHIVAL-READY — 21/21 verified; audit passed** | **FIRST-PASS DRAFTING STARTED — scan 303 draft; scans 304–323 not yet drafted** |
+| Part 015 | 303–323 | **ARCHIVAL-READY — 21/21 verified; audit passed** | **FIRST-PASS DRAFTING — scans 303–304 drafted; scans 305–323 not yet drafted** |
 
 Tamil Parts **001–015 are archival-ready continuously through overall scan 323**. The commentary itself reaches **printed page 270 / Kural 1330** on scan 303; scans 304–321 preserve the printed `குறள் முதற்குறிப்பு அகரவரிசை` through printed page 288, followed by the blank leaf and back cover.
 
@@ -48,7 +48,8 @@ Part 015 Tamil audit: [`../../AUDIT_PART_015.md`](../../AUDIT_PART_015.md) — *
 ## Part 015 English first-pass state
 
 - scan **303 / printed page 270 / Kurals 1326–1330** — English project translation created at `pages/0303-inbam-oodaluvagai-02.md`, status `draft`;
-- scans **304–321 / printed pages 271–288** — alphabetical first-word index, not yet drafted in English;
+- scan **304 / printed page 271** — English mirror of the alphabetical first-word index created at `pages/0304-kural-mutharkurippu-01.md`, status `draft`; the structural heading and column label are translated, while the source Tamil opening-word keys and Kural-number references are preserved exactly so the Tamil-alphabetical index remains functional and source-controlled;
+- scans **305–321 / printed pages 272–288** — remaining alphabetical first-word index pages, not yet drafted in English;
 - scan **322** — blank leaf, English mirror record not yet created;
 - scan **323** — back cover, English mirror record not yet created.
 
@@ -72,7 +73,7 @@ Released Parts 001–014 must remain untouched merely to harmonize later wording
 
 ## Exact next activity
 
-Continue the **Part 015 English first-pass drafting gate** from scan **304 / printed page 271**, translating the `குறள் முதற்குறிப்பு அகரவரிசை` structurally and preserving entry order and Kural-number references as required by `TRANSLATION_GUIDE.md`.
+Continue the **Part 015 English first-pass drafting gate** with scan **305 / printed page 272**, preserving the verified Tamil opening-word keys, entry order and Kural-number references while translating the structural index labels consistently.
 
 Do not combine first-pass drafting with source-check, editorial review or release promotion.
 
