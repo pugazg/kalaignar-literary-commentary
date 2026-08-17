@@ -97,7 +97,7 @@ Translate the heading actually used in this edition. Do not silently replace it 
 
 Use the controlled glossary as the default editorial vocabulary, but treat glossary entries as **context-aware defaults**, not mechanically forced equivalents.
 
-If a chapter-title translation changes after review, update the glossary first and then apply the change consistently to all affected English pages.
+If a chapter-title translation changes after review, update the glossary and relevant review record before applying the change consistently to affected English pages.
 
 ## 8. Core Tamil concepts
 
@@ -240,7 +240,7 @@ For every Tamil PDF part:
 3. Tamil part audit complete / archival-ready.
 4. English first-pass translation created page-by-page.
 5. English source-check pass.
-6. Glossary updated for new recurring terms.
+6. Glossary updated/reconciled for new recurring terms.
 7. Editorial consistency review.
 8. Part-level translation release report.
 9. Pages promoted to `release-ready` only after the report.
@@ -249,7 +249,7 @@ This means English translation proceeds **after each audited Tamil PDF part**, n
 
 ## 17. Part-level review artefacts
 
-As translation begins, maintain:
+Maintain:
 
 ```text
 translations/en/
@@ -280,10 +280,30 @@ If the user later supplies a published English translation of this same work:
 
 Published English versions of other works such as `Sangatamil` or `Kuraloviyam` likewise retain their own source authority and must not be treated as project translations.
 
-## 19. Current workflow point
+## 19. Repository-state discipline
 
-Tamil Parts 001–003 are audited and archival-ready for the supplied material.
+Current progress is not defined by historical snapshots embedded in older guides or saved prompts.
 
-English Parts 001–002 have completed their release gates. Part 003 has completed first-pass translation, direct source-check, and editorial-consistency / glossary-reconciliation review for all **21 / 21** supplied pages, covering Kural **41–145**.
+When progress documents disagree, use this precedence:
 
-The next activity is the separate **Part 003 English release gate**. Create the part-level release report and promote pages to `release-ready` only if that gate passes. Do not treat editorial review alone as release approval.
+1. actual page files on `main` and their metadata;
+2. completed Tamil audits and English review/release reports;
+3. `TRANSLATION_STATUS.md`;
+4. current handover/READMEs;
+5. older status snapshots.
+
+Permanent fidelity rules remain binding even when an old document's progress section is stale.
+
+## 20. Current workflow point
+
+Tamil Parts **001–014 are audited / ARCHIVAL-READY continuously** through overall scan **302 / printed page 269 / Kural 1325**.
+
+English Parts **001–013 are fully released continuously** through overall scan **282 / printed page 249 / Kural 1225**.
+
+Part **014 English first pass is complete 20/20** for scans **283–302 / printed pages 250–269 / Kural 1226–1325**. All 20 pages currently remain `draft`.
+
+The active next gate is the separate **Part 014 English source-check**. Compare every existing draft against the verified Tamil archival record, make only source-supported corrections, and promote passing pages to `source-checked`. Do not combine source-check with editorial review or release.
+
+Part 013's reviewed structural decision `கற்பியல்` → **Wedded Love** is controlled for subsequent Part 014 metadata unless actual source evidence requires a documented revision.
+
+Part 015 Tamil archival work has not started on `main` and must not begin during the Part 014 English source-check gate.
