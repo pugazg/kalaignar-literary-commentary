@@ -2,14 +2,19 @@
 
 This directory contains the **project-created English translation layer** for the archived Tamil source `திருக்குறள் — கலைஞர் உரை`.
 
-This is **not an official or publisher-issued English edition**. Every English page carries `translation_type: "project_translation"`.
+This is **not an official or publisher-issued English edition**. Every English page carries:
 
-Authority order:
+```yaml
+translation_type: "project_translation"
+```
+
+## Authority order
 
 1. supplied Tamil scan;
 2. verified/audited Tamil archival page;
-3. `TRANSLATION_GUIDE.md` and `GLOSSARY.md`;
-4. project translation/review notes.
+3. completed part-level review/release decisions;
+4. `TRANSLATION_GUIDE.md` and `GLOSSARY.md`;
+5. `TRANSLATION_STATUS.md` and current handover for workflow state.
 
 Do not import a published English Thirukkural translation, another Tamil edition, another commentator or web text.
 
@@ -21,67 +26,91 @@ Permanent workflow:
 
 **English first pass (`draft`) → direct source-check → editorial consistency / glossary reconciliation → release gate.**
 
-## Parts 001–012 — RELEASE COMPLETE THROUGH KURAL 1115
+## Current released extent
+
+English Parts **001–013 are fully released continuously** through:
+
+- overall scan **282**;
+- printed page **249**;
+- Kural **1225**.
+
+Released counts:
 
 - Part 001: 19 `release-ready` + scan 8 `source-limited`;
 - Part 002: **21/21 `release-ready`**;
-- Part 003: **21/21 `release-ready`**, through Kural 145;
-- Part 004: **22/22 `release-ready`**, through Kural 255;
-- Part 005: **22/22 `release-ready`**, through Kural 365;
-- Part 006: **21/21 `release-ready`**, through Kural 460;
-- Part 007: **21/21 `release-ready`**, through Kural 565;
-- Part 008: **21/21 `release-ready`**, through Kural 670;
-- Part 009: **22/22 `release-ready`**, through Kural 780;
-- Part 010: **23/23 `release-ready`**, through Kural 895;
-- Part 011: **23/23 `release-ready`**, through Kural 1010;
-- Part 012: **23/23 `release-ready`**, through Kural **1115**.
+- Part 003: **21/21 `release-ready`** — through Kural 145;
+- Part 004: **22/22 `release-ready`** — through Kural 255;
+- Part 005: **22/22 `release-ready`** — through Kural 365;
+- Part 006: **21/21 `release-ready`** — through Kural 460;
+- Part 007: **21/21 `release-ready`** — through Kural 565;
+- Part 008: **21/21 `release-ready`** — through Kural 670;
+- Part 009: **22/22 `release-ready`** — through Kural 780;
+- Part 010: **23/23 `release-ready`** — through Kural 895;
+- Part 011: **23/23 `release-ready`** — through Kural 1010;
+- Part 012: **23/23 `release-ready`** — through Kural 1115;
+- Part 013: **22/22 `release-ready`** — through Kural 1225.
 
-Latest released artefacts:
+Latest released baseline:
 
-- Part 012 Tamil audit: [`../../AUDIT_PART_012.md`](../../AUDIT_PART_012.md) — **PASS / ARCHIVAL-READY**;
-- Part 012 editorial review: [`reviews/PART_012_REVIEW.md`](reviews/PART_012_REVIEW.md);
-- Part 012 release report: [`reviews/PART_012_RELEASE_REPORT.md`](reviews/PART_012_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
+- Tamil audit: [`../../AUDIT_PART_013.md`](../../AUDIT_PART_013.md) — **PASS / ARCHIVAL-READY**;
+- editorial review: [`reviews/PART_013_REVIEW.md`](reviews/PART_013_REVIEW.md);
+- release report: [`reviews/PART_013_RELEASE_REPORT.md`](reviews/PART_013_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
 
-Released Parts 001–012 must not be changed merely to harmonize later wording.
+Released Parts 001–013 must not be changed merely to harmonize later wording.
 
-## Part 012 — RELEASE COMPLETE
+## Part 013 protected editorial decisions
 
-The complete Part 012 English layer has passed all four English gates for:
+Part 013 release establishes:
 
-- physical pages: **23 / 23**;
-- scans **238–260**;
-- printed pages **205–218**, two unnumbered physical leaves, then **221–227**;
-- Kural **1011–1115**;
-- `release-ready`: **23 / 23**.
+- source-visible `இன்பம் — களவியல்` → `இன்பம் — கற்பியல்` represented as **Inbam — Clandestine Love → Inbam — Wedded Love**;
+- chapter 112 continues as **Praising Her Beauty**;
+- chapters 113–123 use the controlled headings recorded in `reviews/PART_013_REVIEW.md`;
+- Kural 1125 must not regain the unsupported draft nuance **“warring-eyed”**;
+- recurring separation, pallor, madal, dream/waking, carrying-pole, liquor and evening imagery remains source-controlled.
 
-Every Part 012 English record carries:
+## Part 014 — English first pass complete
+
+The complete Part 014 English first-pass layer already exists for:
+
+- physical pages: **20 / 20**;
+- scans **283–302**;
+- printed pages **250–269**;
+- Kural **1226–1325**;
+- Tamil basis: [`../../AUDIT_PART_014.md`](../../AUDIT_PART_014.md) — **PASS / ARCHIVAL-READY**.
+
+All 20 Part 014 English records currently remain:
 
 ```yaml
-translation_type: "project_translation"
-status: "release-ready"
+status: "draft"
 source_tamil_status: "verified"
+translation_type: "project_translation"
 translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
 ```
 
-The released source structure and physical alignment are:
+Part 014 completes chapter 123 and proceeds through the first five Kurals of chapter 133 `ஊடலுவகை` / **Joy of Lovers' Quarrel**.
 
-- scans **238–251**: `Porul — Civic Life`;
-- scan **252**: standalone `Inbam` title leaf;
-- scan **253**: blank/reverse-show-through leaf;
-- scans **254–260**: `Inbam — Clandestine Love`.
+The Part 013 controlled structural rendering `கற்பியல்` → **Wedded Love** continues into Part 014 unless later source evidence requires a documented revision.
 
-Controlled chapter headings **102–112** are **Modesty; Working for the Community; Agriculture; Poverty; Begging; Dread of Begging; Baseness; The Torment of Beauty; Understanding Signs; Delight in Union; Praising Her Beauty**.
+No Part 014 page is yet `source-checked`, `editorial-reviewed`, or `release-ready`. No Part 014 editorial-review or release-report file should be created before the source-check gate is complete.
 
-The release preserves the verified corrections at Kural **1018**, **1035** and **1048**, the edition-specific Kural **1077** and **1098** readings, Kalaignar's challenge to the supposed creator at Kural **1062**, his skeptical `lotus-eyed one` comparison at Kural **1103**, and the anicham-stalk / broken-waist / auspicious-drum explanation at Kural **1115**.
+## Part 015
 
-No substantive body-text change was made at the release gate.
-
-Parts **013–015** Tamil sources are received but remain not started.
+The source file `திருக்குறள்_கலைஞர்_உரை_part_015_pages_303-323.pdf` is recorded as supplied, but there are currently no Part 015 Tamil archival records on `main`. English Part 015 therefore has not started.
 
 ## Next project activity
 
-The English workflow is closed through Part 012. The next separate project activity is **Part 013 Tamil source inspection and first-pass transcription** from `திருக்குறள்_கலைஞர்_உரை_part_013_pages_261-282.pdf`.
+Perform **Part 014 English source-check** for all existing draft records, scans **283–302**.
 
-The known boundary from the completed Part 012 audit is printed page **227 → 228 / Kural 1115 → 1116**, with chapter 112 continuing. Inspect the actual Part 013 scan before creating or interpreting later page records.
+Compare each English page directly against the verified Tamil archival record, checking:
 
-Stop after the Tamil first-pass transcription gate. Do not combine it with Tamil direct verification, audit or English work. Do not alter released English Parts 001–012.
+- Kural/commentary separation;
+- omissions and additions;
+- meaning drift;
+- gender specificity;
+- rhetoric and imagery;
+- controlled chapter/section terminology;
+- source-sensitive wording.
+
+Make only source-supported corrections and promote each passing page to `source-checked`.
+
+Stop after the source-check gate. Do not combine it with Part 014 editorial review, release, or Part 015 Tamil work.
