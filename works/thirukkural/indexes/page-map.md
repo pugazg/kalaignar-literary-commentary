@@ -22,18 +22,22 @@ For exact per-page wording, metadata and filename alignment, the individual reco
 | 012 | 238–260 | 205–218, unnumbered `இன்பம்` leaves, then 221–227 | Kural 1011–1115; `பொருள்` → `இன்பம்` transition | 23/23 verified | `AUDIT_PART_012.md` |
 | 013 | 261–282 | 228–249 | Kural 1116–1225; `களவியல்` → `கற்பியல்` transition | 22/22 verified | `AUDIT_PART_013.md` |
 | 014 | 283–302 | 250–269 | Kural 1226–1325 | 20/20 verified | `AUDIT_PART_014.md` |
-| 015 | 303–323 expected from supplied filename | not yet archived | source supplied; content not yet source-inspected into records | no Tamil records on `main` | none |
+| 015 | 303–323 | 270–288, then unnumbered blank/back cover | scan 303: Kural 1326–1330, completing chapter 133 and the commentary; scans 304–321: `குறள் முதற்குறிப்பு அகரவரிசை`; scan 322 blank; scan 323 back cover | scan 303 first-pass record created (`needs-review`); remaining records not started | none |
 
 ## Canonical continuity
 
-Tamil archival coverage is continuous through Part 014:
+Tamil archival coverage is continuous and audited through Part 014:
 
 - overall scans **1–302**;
 - printed main-body pagination through **269**;
 - Kural sequence through **1325**;
 - audit files **001–014** present.
 
-Part 001 scan 8 is the only documented partial in that range and is intentionally retained as a reviewed source limitation rather than treated as missing work.
+Part 001 scan 8 is the only documented partial in that audited range and is intentionally retained as a reviewed source limitation rather than treated as missing work.
+
+Part 015 has now been source-inspected. Its first scan is overall scan **303 / printed page 270**, and it directly continues chapter 133 `ஊடலுவகை` with Kurals **1326–1330**. Scan 303 is the final commentary page and reaches Kural **1330**, the end of the Thirukkural. The remainder of the supplied part is back matter: the alphabetical first-word Kural index on printed pages **271–288** (overall scans **304–321**), followed by an unnumbered blank scan **322** and back cover scan **323**.
+
+Part 015 is not archival-ready: only the scan-303 first-pass record currently exists, and it remains `needs-review` pending direct verification.
 
 ## Important physical-page exceptions
 
@@ -58,7 +62,14 @@ Part 001 scan 8 is the only documented partial in that range and is intentionall
 - scans 252–253 are the `இன்பம்` title leaf and blank/reverse-show-through leaf;
 - main-body pagination resumes at printed page 221.
 
-## Latest two parts
+### Part 015
+
+- scan 303 / printed page 270 is the final commentary page and contains Kurals 1326–1330;
+- scans 304–321 / printed pages 271–288 are `குறள் முதற்குறிப்பு அகரவரிசை` back matter;
+- scan 322 is an unnumbered blank leaf;
+- scan 323 is the back cover.
+
+## Latest two completed/audited parts
 
 ### Part 013
 
@@ -79,8 +90,15 @@ Part 001 scan 8 is the only documented partial in that range and is intentionall
 - begins chapter 133 `ஊடலுவகை` with Kural 1321–1325;
 - audit: **ARCHIVAL-READY**.
 
-## Next archival boundary
+## Active Part 015 boundary
 
-The current Tamil archive ends at scan **302 / printed page 269 / Kural 1325**.
+The supplied Part 015 source has been inspected as a **21-scan** unit, overall scans **303–323**.
 
-Part 015 must be inspected from its actual supplied scan before creating scan 303 or assuming Kural 1326. The expected continuation is not a substitute for source confirmation.
+The Part 014 → Part 015 boundary is source-confirmed as:
+
+- scan 302 / printed page 269 / Kural 1325 →
+- scan 303 / printed page 270 / Kural 1326.
+
+Scan 303 continues and completes chapter 133 `ஊடலுவகை` with Kurals **1326–1330**. The commentary therefore ends at Kural **1330** on printed page **270**; the rest of Part 015 is index/blank/back-cover material.
+
+Next Tamil activity: directly verify scan 303 against the controlling image, then continue creating source-faithful page records for the index beginning at scan 304 / printed page 271. Do not create `AUDIT_PART_015.md` until all 21 physical scans have resolved records and passed the required verification gate.
