@@ -6,10 +6,10 @@ printed_page: "285"
 work: "thirukkural"
 section: "குறள் முதற்குறிப்பு அகரவரிசை"
 page_type: "index"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_015_pages_303-323.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 |  | குறளெண் |  | குறளெண் |
@@ -40,7 +40,7 @@ transcription_method: "manual transcription from source scan; direct visual veri
 | பெருங்கொடைமான் | 526 | பொருள் கெடுத்துப் | 938 |
 | பெருமை உடை | 975 | பொருள் நீங்கிப் | 246 |
 | பெருமைக்கும் | 505 | பொருள்மாலை | 1230 |
-| பெருமை பெரு | 979 | பொளளென | 487 |
+| பெருமை பெரு | 979 | பொள்ளென | 487 |
 | பெரும்பொருளால் | 732 | பொறியின்மை | 618 |
 | பெறாஅமை | 1295 | பொறிவாயில் | 6 |
 | பெறினென்னாம் | 1270 | பொழுதுகண் இருப்பு | 152 |
