@@ -12,17 +12,18 @@ Last repository-state synchronization: **2026-08-17**.
 
 ## Mandatory startup
 
-Before making changes:
+Before making any repository change, read these files completely:
 
-1. read `THIRUKKURAL_ARCHIVAL_GUIDELINES.md` completely;
-2. read `LITERARY_COMMENTARY_PROCESSING_GUIDE.md` completely;
-3. read this `HANDOVER.md` completely;
-4. read `works/thirukkural/README.md`;
-5. read `works/thirukkural/structure/README.md`;
-6. read `works/thirukkural/structure/CHAPTER_README_POLICY.md`;
-7. read `works/thirukkural/structure/STRUCTURE_AUDIT.md`;
-8. inspect the existing target files before writing;
-9. for any English translation work additionally fresh-read `works/thirukkural/translations/en/TRANSLATION_GUIDE.md`, `GLOSSARY.md`, `TRANSLATION_STATUS.md`, and the latest relevant review/release artefacts.
+1. `THIRUKKURAL_ARCHIVAL_GUIDELINES.md`
+2. `LITERARY_COMMENTARY_PROCESSING_GUIDE.md`
+3. root `HANDOVER.md`
+4. `works/thirukkural/README.md`
+5. `works/thirukkural/structure/README.md`
+6. `works/thirukkural/structure/CHAPTER_README_POLICY.md`
+7. `works/thirukkural/structure/STRUCTURE_AUDIT.md`
+8. `works/thirukkural/translations/en/TRANSLATION_STATUS.md`
+
+Then inspect current GitHub `main`. Repository state is authoritative over stale SHAs or historical progress paragraphs.
 
 ## Repository-state precedence
 
@@ -32,7 +33,7 @@ When documents disagree about current progress, use this order:
 2. completed Tamil audits and English review/release reports;
 3. `works/thirukkural/translations/en/TRANSLATION_STATUS.md`;
 4. this handover and current READMEs;
-5. older continuation guides / saved prompts only for permanent procedural rules, not historical progress snapshots.
+5. older continuation guides / saved prompts only for permanent procedural rules, not stale progress snapshots.
 
 ## Source rule
 
@@ -69,15 +70,13 @@ Parts **001–015 are audited / ARCHIVAL-READY continuously** through the end of
 - Kural sequence through **1330**;
 - index back matter through printed page **288**;
 - scan 322 blank leaf;
-- scan 323 plain back cover.
+- scan 323 back cover.
 
 Audits exist as `works/thirukkural/AUDIT_PART_001.md` through `AUDIT_PART_015.md`.
 
-Part 001 scan 8 remains the documented source-limited exception already covered by its audit.
-
 ## English Parts 001–015
 
-Parts **001–015 are released continuously through the end of the supplied volume**.
+Parts **001–015 are RELEASED continuously through the end of the supplied volume**.
 
 Current released boundaries:
 
@@ -87,23 +86,17 @@ Current released boundaries:
 - scan **322** blank leaf;
 - scan **323** back cover.
 
-Part 015 release artefacts:
-
-- Tamil audit: `works/thirukkural/AUDIT_PART_015.md` — **PASS / ARCHIVAL-READY**;
-- English editorial review: `works/thirukkural/translations/en/reviews/PART_015_REVIEW.md` — **PASS**;
-- English release report: `works/thirukkural/translations/en/reviews/PART_015_RELEASE_REPORT.md` — **PASS / RELEASE APPROVED**.
-
 There is no unreleased Thirukkural transcription or English translation remaining in this supplied volume.
 
 # Semantic structure phase
 
 ## Purpose
 
-A human-readable literary hierarchy has been added at:
+A non-destructive literary hierarchy exists at:
 
 `works/thirukkural/structure/`
 
-The hierarchy is:
+Hierarchy:
 
 **பால் → இயல் → அதிகாரம்**
 
@@ -114,86 +107,123 @@ Target structure:
 - **133 அதிகாரம்**;
 - **1,330 குறள்**.
 
-This layer is navigational/provenance metadata. It does **not** replace the canonical physical-page archives:
+This is a navigation/provenance layer only. It does **not** replace the canonical physical-page archives:
 
 - Tamil canonical layer: `works/thirukkural/pages/`;
 - released English layer: `works/thirukkural/translations/en/pages/`.
 
-Do not move or rewrite those canonical layers merely to fit the semantic hierarchy.
+Do not move, duplicate or rewrite those physical-page layers merely to fit the semantic hierarchy.
 
-## Structure policy and audit
+## Provenance README requirements
 
-Read:
-
-- `works/thirukkural/structure/CHAPTER_README_POLICY.md`;
-- `works/thirukkural/structure/STRUCTURE_AUDIT.md`.
-
-The 133 chapter folders and their base README metadata exist. A previous structural audit corrected an accidental duplicate for chapter 28. During later provenance mapping, additional duplicate naming variants were discovered around chapters 11–14; chapters 11 and 12 have already been reconciled to their source-controlled active nodes. Inspect chapters 13–14 carefully before writing and do not recreate obsolete parallel folders.
-
-## Completed exact provenance mapping
-
-Exact canonical physical-page mapping is complete through:
-
-- **அதிகாரம் 12**;
-- **குறள் 120**.
-
-Mapped chapters 1–12:
-
-1. வழிபாடு
-2. வான் சிறப்பு
-3. நீத்தார் பெருமை
-4. அறன் வலியுறுத்தல்
-5. இல்வாழ்க்கை
-6. வாழ்க்கைத் துணைநலம்
-7. மக்கட்பேறு
-8. அன்புடைமை
-9. விருந்தோம்பல்
-10. இனியவை கூறல்
-11. செய்ந்நன்றியறிதல்
-12. நடுவு நிலைமை
-
-Each mapped chapter README records:
+For every mapped chapter, the semantic chapter README must record:
 
 - பால் and இயல்;
 - அதிகார number/title;
-- 10-Kural range;
+- deterministic 10-Kural range;
 - exact source scan(s);
-- Part and Part-page number;
+- source Part and Part-local-page number;
 - printed-page number;
 - exact Kural coverage per physical page;
-- canonical verified Tamil archival path;
-- corresponding released English path;
-- preservation statement for the canonical physical-page layers.
+- canonical `verified` Tamil archival path;
+- corresponding `release-ready` English path;
+- preservation statement that the semantic layer does not replace the canonical physical-page layers.
 
-The mapping must be derived from actual repository records. Do not infer scan boundaries arithmetically even where the pattern appears regular.
+Never infer page boundaries arithmetically merely because earlier chapters occupy two pages. Inspect the actual repository records first.
+
+## Current exact mapping boundary
+
+Exact canonical physical-page provenance mapping is complete through:
+
+- **அதிகாரம் 77 — படைமாட்சி**;
+- **குறள் 770**;
+- **scan 189**;
+- **Part 009 local page 20**;
+- **printed page 156**.
+
+Therefore chapters **1–77 / Kurals 1–770** are mapped.
+
+The most recently completed batch was **அதிகாரங்கள் 73–77 / குறள் 721–770**:
+
+- 73. `அவையஞ்சாமை` — scans 180–181 / Part 009 pp.11–12 / printed 147–148 / Kurals 721–730 — `அமைச்சியல்`;
+- 74. `நாடு` — scans 182–183 / Part 009 pp.13–14 / printed 149–150 / Kurals 731–740 — starts `அரணியல்`;
+- 75. `அரண்` — scans 184–185 / Part 009 pp.15–16 / printed 151–152 / Kurals 741–750 — `அரணியல்`;
+- 76. `பொருள் செயல்வகை` — scans 186–187 / Part 009 pp.17–18 / printed 153–154 / Kurals 751–760 — starts `கூழியல்`;
+- 77. `படைமாட்சி` — scans 188–189 / Part 009 pp.19–20 / printed 155–156 / Kurals 761–770 — starts `படையியல்`.
+
+All ten underlying Tamil records in that batch were confirmed `verified`; all ten corresponding English records were confirmed `release-ready` with `source_tamil_status: verified`.
+
+### Source-sensitive protections already encountered during semantic mapping
+
+Do not normalize or silently rewrite these already source-checked readings when following provenance links:
+
+- scan 179 / Kural 717 source reading preserved exactly;
+- scan 180 / Kural 725 commentary: `தருக்கமென்படும் அளவைக் திறமும்`;
+- scan 182 / Kural 733 commentary: `மளவுக்கு வளம்`;
+- scan 190 / Kural 771 commentary must preserve verified `நடுகல்லாய்ப் போனவர்கள்` when chapter 78 is mapped.
+
+### Important structural transitions already mapped
+
+The semantic mapping has preserved source-visible hierarchy changes rather than flattening them, including:
+
+- `அறத்துப்பால் → பொருட்பால்`;
+- `அரசியல் → அமைச்சியல்` at chapter 64;
+- `அமைச்சியல் → அரணியல்` at chapter 74;
+- `அரணியல் → கூழியல்` at chapter 76;
+- `கூழியல் → படையியல்` at chapter 77.
+
+## Duplicate/source-controlled naming rule
+
+Preserve the exact existing semantic folder spelling on `main`. Do not create a normalized duplicate merely because a title can be written another way.
+
+Earlier duplicate-folder issues around chapters 11–14 and chapter 28 were already reconciled. Later batches also confirmed several source-controlled spellings that differ from obvious normalized forms. Always inspect the live semantic directory before writing.
 
 ## User-requested cadence
 
-For this provenance phase, process **5 அதிகாரம் per iteration** when 10 cannot be handled safely. Never report a batch as complete unless all chapters in that batch were actually verified and committed.
+Process **5 அதிகாரம் per iteration** when 10 cannot be processed safely.
+
+Never report a batch as complete unless every chapter in that batch has been actually verified and written to `main`.
+
+The GitHub Contents API may create one linear commit per README update. That is acceptable; report the final commit boundary accurately rather than claiming a single multi-file commit when one was not created.
 
 # Exact next activity
 
-Map **அதிகாரங்கள் 13–17 / குறள் 121–170**:
+Map the next **5 அதிகாரங்கள்: 78–82 / குறள் 771–820**:
 
-13. அடக்கம் உடைமை
-14. ஒழுக்கம் உடைமை
-15. பிறனில் விழையாமை
-16. பொறையுடைமை
-17. அழுக்காறாமை
+78. படைச் செருக்கு
+79. நட்பு
+80. நட்பாராய்தல்
+81. பழைமை
+82. தீ நட்பு
+
+The expected source-backed physical ranges, which must still be confirmed from the individual live records before writing, are:
+
+- **78. படைச் செருக்கு** — scans 190–191 / Part 009 pp.21–22 / printed 157–158 / Kurals 771–780 / `படையியல்`;
+- **79. நட்பு** — scans 192–193 / Part 010 pp.1–2 / printed 159–160 / Kurals 781–790 / begins `நட்பியல்`;
+- **80. நட்பாராய்தல்** — scans 194–195 / Part 010 pp.3–4 / printed 161–162 / Kurals 791–800;
+- **81. பழைமை** — scans 196–197 / Part 010 pp.5–6 / printed 163–164 / Kurals 801–810;
+- **82. தீ நட்பு** — scans 198–199 / Part 010 pp.7–8 / printed 165–166 / Kurals 811–820.
+
+This batch contains two important source-supported boundaries:
+
+1. **Part 009 → Part 010**: scan 191 / printed 158 / Kural 780 → scan 192 / printed 159 / Kural 781;
+2. **படையியல் → நட்பியல்**: chapter 78 closes `படையியல்`; chapter 79 `நட்பு` starts `நட்பியல்`.
 
 For each chapter:
 
-1. inspect the actual canonical Tamil page records;
-2. establish exact scan boundaries and Kural coverage from those records;
-3. confirm Tamil status is `verified`;
-4. inspect the corresponding English page records and confirm `release-ready`;
-5. record scan, Part, Part page, printed page and exact coverage in the semantic chapter README;
-6. preserve existing/source-controlled folder and chapter naming;
-7. reconcile any duplicate semantic node carefully if encountered;
-8. do not modify canonical Tamil or released English body text.
+1. inspect the actual canonical Tamil page records first;
+2. establish exact physical scan boundaries and Kural coverage from those records, not arithmetic assumptions;
+3. confirm each Tamil record is `verified`;
+4. inspect the corresponding English physical-page record and confirm `release-ready` with `source_tamil_status: verified`;
+5. record source scan, Part, Part page, printed page and exact Kural coverage;
+6. update only the correct semantic chapter README;
+7. preserve source-controlled chapter naming and existing folder spelling;
+8. document structural/Part transitions where source-supported;
+9. preserve the scan-190/Kural-771 verified source correction exactly;
+10. do not alter canonical Tamil or released English body text.
 
-After all five are complete, commit them to `main`, report the exact new boundary, and STOP. The expected following batch is **அதிகாரங்கள் 18–22**, subject to repository inspection.
+After all five are genuinely verified and updated, report the new exact mapping boundary and STOP. The following batch should be **அதிகாரங்கள் 83–87 / குறள் 821–870**, subject to repository inspection.
 
-## Important continuity rule
+## Continuity rule
 
-The semantic mapping phase is independent of the completed archival/translation release state. Do not reopen released Parts 001–015 unless a specific source-supported defect is discovered. Any such correction must be documented explicitly rather than silently changed.
+The semantic mapping phase is independent of the completed archival/translation release state. Do not reopen released Parts 001–015 merely to support navigation. If a genuine source-supported defect is discovered, document it explicitly rather than silently changing released material.
