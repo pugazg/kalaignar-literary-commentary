@@ -20,7 +20,7 @@ Do not import a published English Thirukkural translation, another Tamil edition
 
 ## Translation fidelity
 
-The English should retain Kalaignar's language, images, emphases, social vocabulary and interpretive direction as closely as clear English allows. A familiar conventional interpretation must never replace what he actually says merely because it sounds more standard in English.
+The English retains Kalaignar's language, images, emphases, social vocabulary and interpretive direction as closely as clear English allows. A familiar conventional interpretation must never replace what he actually says merely because it sounds more standard in English.
 
 Permanent workflow:
 
@@ -28,89 +28,52 @@ Permanent workflow:
 
 ## Current released extent
 
-English Parts **001–013 are fully released continuously** through:
-
-- overall scan **282**;
-- printed page **249**;
-- Kural **1225**.
+English Parts **001–015 are released continuously through the end of the supplied volume**.
 
 Released counts:
 
 - Part 001: 19 `release-ready` + scan 8 `source-limited`;
 - Part 002: **21/21 `release-ready`**;
-- Part 003: **21/21 `release-ready`** — through Kural 145;
-- Part 004: **22/22 `release-ready`** — through Kural 255;
-- Part 005: **22/22 `release-ready`** — through Kural 365;
-- Part 006: **21/21 `release-ready`** — through Kural 460;
-- Part 007: **21/21 `release-ready`** — through Kural 565;
-- Part 008: **21/21 `release-ready`** — through Kural 670;
-- Part 009: **22/22 `release-ready`** — through Kural 780;
-- Part 010: **23/23 `release-ready`** — through Kural 895;
-- Part 011: **23/23 `release-ready`** — through Kural 1010;
-- Part 012: **23/23 `release-ready`** — through Kural 1115;
-- Part 013: **22/22 `release-ready`** — through Kural 1225.
+- Part 003: **21/21 `release-ready`**;
+- Part 004: **22/22 `release-ready`**;
+- Part 005: **22/22 `release-ready`**;
+- Part 006: **21/21 `release-ready`**;
+- Part 007: **21/21 `release-ready`**;
+- Part 008: **21/21 `release-ready`**;
+- Part 009: **22/22 `release-ready`**;
+- Part 010: **23/23 `release-ready`**;
+- Part 011: **23/23 `release-ready`**;
+- Part 012: **23/23 `release-ready`**;
+- Part 013: **22/22 `release-ready`**;
+- Part 014: **20/20 `release-ready`**;
+- Part 015: **21/21 `release-ready`**.
 
-Latest released baseline:
+Latest released boundaries:
 
-- Tamil audit: [`../../AUDIT_PART_013.md`](../../AUDIT_PART_013.md) — **PASS / ARCHIVAL-READY**;
-- editorial review: [`reviews/PART_013_REVIEW.md`](reviews/PART_013_REVIEW.md);
-- release report: [`reviews/PART_013_RELEASE_REPORT.md`](reviews/PART_013_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
+- commentary: overall scan **303 / printed page 270 / Kural 1330**;
+- physical volume: overall scan **323**;
+- alphabetical first-word index: printed pages **271–288 / scans 304–321**;
+- scan **322** blank leaf;
+- scan **323** back cover.
 
-Released Parts 001–013 must not be changed merely to harmonize later wording.
+## Latest release baseline — Part 015
 
-## Part 013 protected editorial decisions
+- Tamil audit: [`../../AUDIT_PART_015.md`](../../AUDIT_PART_015.md) — **PASS / ARCHIVAL-READY**;
+- editorial review: [`reviews/PART_015_REVIEW.md`](reviews/PART_015_REVIEW.md) — **PASS**;
+- release report: [`reviews/PART_015_RELEASE_REPORT.md`](reviews/PART_015_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
 
-Part 013 release establishes:
+The Part 015 main-body page completes chapter 133 under the controlled identity **Inbam — Wedded Love — Joy of Lovers' Quarrel** with Kurals **1326–1330**.
 
-- source-visible `இன்பம் — களவியல்` → `இன்பம் — கற்பியல்` represented as **Inbam — Clandestine Love → Inbam — Wedded Love**;
-- chapter 112 continues as **Praising Her Beauty**;
-- chapters 113–123 use the controlled headings recorded in `reviews/PART_013_REVIEW.md`;
-- Kural 1125 must not regain the unsupported draft nuance **“warring-eyed”**;
-- recurring separation, pallor, madal, dream/waking, carrying-pole, liquor and evening imagery remains source-controlled.
+The Part 015 index uses the controlled bilingual treatment:
 
-## Part 014 — English first pass complete
+- `குறள் முதற்குறிப்பு அகரவரிசை` → **Alphabetical Index by the Opening Words of the Kurals**;
+- `குறளெண்` → **Kural No.**;
+- Tamil opening-word keys remain source-controlled and untranslated so that the Tamil alphabetical index remains functional.
 
-The complete Part 014 English first-pass layer already exists for:
-
-- physical pages: **20 / 20**;
-- scans **283–302**;
-- printed pages **250–269**;
-- Kural **1226–1325**;
-- Tamil basis: [`../../AUDIT_PART_014.md`](../../AUDIT_PART_014.md) — **PASS / ARCHIVAL-READY**.
-
-All 20 Part 014 English records currently remain:
-
-```yaml
-status: "draft"
-source_tamil_status: "verified"
-translation_type: "project_translation"
-translation_basis: "verified Tamil archival transcription; controlling scan remains authoritative"
-```
-
-Part 014 completes chapter 123 and proceeds through the first five Kurals of chapter 133 `ஊடலுவகை` / **Joy of Lovers' Quarrel**.
-
-The Part 013 controlled structural rendering `கற்பியல்` → **Wedded Love** continues into Part 014 unless later source evidence requires a documented revision.
-
-No Part 014 page is yet `source-checked`, `editorial-reviewed`, or `release-ready`. No Part 014 editorial-review or release-report file should be created before the source-check gate is complete.
-
-## Part 015
-
-The source file `திருக்குறள்_கலைஞர்_உரை_part_015_pages_303-323.pdf` is recorded as supplied, but there are currently no Part 015 Tamil archival records on `main`. English Part 015 therefore has not started.
+Released Parts 001–015 must not be changed merely to harmonize later wording.
 
 ## Next project activity
 
-Perform **Part 014 English source-check** for all existing draft records, scans **283–302**.
+There is no further unreleased Thirukkural content in the supplied volume.
 
-Compare each English page directly against the verified Tamil archival record, checking:
-
-- Kural/commentary separation;
-- omissions and additions;
-- meaning drift;
-- gender specificity;
-- rhetoric and imagery;
-- controlled chapter/section terminology;
-- source-sensitive wording.
-
-Make only source-supported corrections and promote each passing page to `source-checked`.
-
-Stop after the source-check gate. Do not combine it with Part 014 editorial review, release, or Part 015 Tamil work.
+Do not infer continuation after Kural **1330**. If a new source, supplement or alternate edition is supplied, inspect it independently before creating archival or translation records. Another Kalaignar literary-commentary work should likewise begin with its own source inspection and project workflow.
