@@ -4,7 +4,7 @@ source_printed_page: "229"
 source_tamil_file: "../../../pages/0262-inbam-kaathar-sirappuraiththal-01.md"
 section: "Inbam — Clandestine Love — Declaring the Excellence of Love"
 page_type: "commentary"
-status: "draft"
+status: "source-checked"
 language: "en"
 translation_type: "project_translation"
 source_tamil_status: "verified"
@@ -33,7 +33,7 @@ when she departs, it is like death.**
 
 When the jewelled maiden—adorned with rare and carefully chosen qualities—is with me, I feel as though life has joined the body; when she leaves me, I feel as though my life itself is leaving.
 
-**1125. I would think of the qualities of the bright, warring-eyed woman  
+**1125. I would think of the qualities of the bright-eyed woman  
 if I ever forgot them; but I know not how to forget.**
 
 I do not even have to think of the qualities of my beloved, whose eyes are radiant; only if I forgot them would there be a need to remember them.
