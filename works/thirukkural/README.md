@@ -22,7 +22,7 @@ Last synchronized with actual `main` repository state: **2026-08-17**.
 | 012 | `திருக்குறள்_கலைஞர்_உரை_part_012_pages_238-260.pdf` | 23 | 238–260 | **ARCHIVAL-READY — 23/23 verified** | **RELEASE-READY 23/23** |
 | 013 | `திருக்குறள்_கலைஞர்_உரை_part_013_pages_261-282.pdf` | 22 | 261–282 | **ARCHIVAL-READY — 22/22 verified** | **RELEASE-READY 22/22** |
 | 014 | `திருக்குறள்_கலைஞர்_உரை_part_014_pages_283-302.pdf` | 20 | 283–302 | **ARCHIVAL-READY — 20/20 verified** | **RELEASE-READY 20/20** |
-| 015 | `திருக்குறள்_கலைஞர்_உரை_part_015_pages_303-323.pdf` | 21 | 303–323 | **FIRST PASS COMPLETE 21/21; scans 303–306 verified; scans 307–323 needs-review** | not started |
+| 015 | `திருக்குறள்_கலைஞர்_உரை_part_015_pages_303-323.pdf` | 21 | 303–323 | **21/21 VERIFIED; audit pending** | not started |
 
 ## Canonical continuity
 
@@ -47,17 +47,16 @@ The Part 014 → Part 015 textual boundary is source-confirmed as **1325 → 132
 
 ## Part 015 Tamil current state
 
-All **21/21** physical page records now exist under `works/thirukkural/pages/`:
+All **21/21** physical page records now exist under `works/thirukkural/pages/` and all have passed direct visual comparison with the controlling scan.
 
-- `0303-inbam-oodaluvagai-02.md` — verified;
-- `0304-kural-mutharkurippu-01.md` — verified;
-- `0305-kural-mutharkurippu-02.md` — verified;
-- `0306-kural-mutharkurippu-03.md` — verified;
-- scans **307–321** — first-pass index transcriptions, `needs-review`;
-- scan **322** — blank-page record, `needs-review`;
-- scan **323** — back-cover record, `needs-review`.
+- scan **303** — final commentary page, Kurals 1326–1330 — verified;
+- scans **304–321** — `குறள் முதற்குறிப்பு அகரவரிசை` — verified;
+- scan **322** — blank-page record — verified;
+- scan **323** — back-cover record — verified.
 
-Therefore Part 015 is **not yet ARCHIVAL-READY**. `AUDIT_PART_015.md` must not be created until scans 307–323 have completed direct visual verification.
+The final verification batch produced one source-supported correction on scan 318: `பொளளென` → `பொள்ளென` for Kural 487.
+
+Part 015 has completed transcription and direct visual verification, but is **not yet ARCHIVAL-READY** until the separate audit gate passes.
 
 ## Repository-state discipline
 
@@ -69,6 +68,6 @@ Permanent source-preservation rules in older guides remain binding even when the
 
 ## அடுத்த செயல்
 
-Perform **Part 015 Tamil direct visual verification for scans 307–323**. Compare each index row and Kural-number reference directly with the controlling scan; verify scan 322 as blank and scan 323 as the back cover. Correct only source-supported differences and promote each passing record to `verified`.
+Perform the separate **Part 015 Tamil audit** and create `AUDIT_PART_015.md` only after checking all 21 verified records for physical-page coverage, metadata continuity, Kural 1326–1330 continuity, complete index coverage through printed page 288, and correct blank/back-cover representation.
 
-After all 21 Part 015 records are resolved, perform the separate Part 015 audit and only then begin any Part 015 English work.
+Do not begin Part 015 English translation until that audit passes.
