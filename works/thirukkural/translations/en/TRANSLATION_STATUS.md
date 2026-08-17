@@ -37,26 +37,29 @@ Permanent protected decisions from earlier released parts remain binding, includ
 | Part 012 | 238–260 | archival-ready — 23/23 verified | **RELEASE-READY — 23/23** |
 | Part 013 | 261–282 | **ARCHIVAL-READY — 22/22 verified; audit passed** | **RELEASE-READY — 22/22** |
 | Part 014 | 283–302 | **ARCHIVAL-READY — 20/20 verified; audit passed** | **RELEASE-READY — 20/20** |
-| Part 015 | 303–323 | **ARCHIVAL-READY — 21/21 verified; audit passed** | **SOURCE-CHECK COMPLETE — 21/21 source-checked** |
+| Part 015 | 303–323 | **ARCHIVAL-READY — 21/21 verified; audit passed** | **EDITORIAL REVIEW PASSED — 21/21 source-checked; release pending** |
 
 Tamil Parts **001–015 are archival-ready continuously through overall scan 323**. The commentary itself reaches **printed page 270 / Kural 1330** on scan 303; scans 304–321 preserve the printed `குறள் முதற்குறிப்பு அகரவரிசை` through printed page 288, followed by the blank leaf and back cover.
 
 English Parts **001–014 are fully released continuously through overall scan 302 / printed page 269 / Kural 1325**.
 
 Part 015 Tamil audit: [`../../AUDIT_PART_015.md`](../../AUDIT_PART_015.md) — **PASS / ARCHIVAL-READY**.
+Part 015 English editorial review: [`reviews/PART_015_REVIEW.md`](reviews/PART_015_REVIEW.md) — **PASS**.
 
-## Part 015 English source-check state
+## Part 015 English state
 
-- scan **303 / printed page 270 / Kurals 1326–1330** — compared against the verified Tamil page; Kural and commentary layers, meaning, paragraph separation and controlled chapter identity passed; status `source-checked`;
-- scans **304–321 / printed pages 271–288** — all index mirrors compared entry-by-entry against the verified Tamil archival pages; Tamil opening-word keys, entry order, punctuation, blank cells, decorative closing marks and Kural-number references are preserved, while only the structural heading and `Kural No.` labels are translated; status `source-checked`;
-- scan **322** — blank-leaf mirror compared against the verified Tamil record; status `source-checked`;
-- scan **323** — back-cover mirror compared against the verified Tamil record; status `source-checked`.
+- scan **303 / printed page 270 / Kurals 1326–1330** — source-check passed; editorial review passed; controlled identity remains **Inbam — Wedded Love — Joy of Lovers' Quarrel**;
+- scans **304–321 / printed pages 271–288** — source-check passed; editorial review passed; the structural heading and `Kural No.` label are translated while verified Tamil first-word keys, source order, punctuation, Kural-number references, blank cells and closing ornament remain source-controlled;
+- scan **322** — blank-leaf mirror source-checked and editorial-reviewed;
+- scan **323** — back-cover mirror source-checked and editorial-reviewed.
 
-The earlier drafting correction on scan 308 (`உள்ளியது எய்தல்`) remains present and matches the verified Tamil record. Scan 318 also preserves the source-corrected Tamil key `பொள்ளென` for Kural 487.
+The editorial review deliberately retained Kalaignar's concrete food/digestion, bodily-union, sweat, night, quarrel/reunion and sensual imagery in Kurals 1326–1330 rather than flattening it into a generic modern explanation.
 
-Part 015 English source-check is therefore **complete for scans 303–323 (21/21)**.
+The index strategy remains intentionally bilingual because translating the Tamil first-word keys would destroy the function of the Tamil alphabetical index and would implicitly substitute another English Kural text.
 
-No Part 015 page has yet undergone editorial review or release review.
+All 21 Part 015 page files remain `source-checked` until the separate release gate, following the established Part 014 workflow.
+
+No Part 015 page is yet `release-ready`.
 
 ## Released English counts
 
@@ -74,9 +77,7 @@ Released Parts 001–014 must remain untouched merely to harmonize later wording
 
 ## Exact next activity
 
-Begin the separate **Part 015 English editorial review gate**. Review all 21 source-checked pages for English readability, controlled chapter-title consistency, glossary usage, repeated phrasing, names, punctuation, index-label consistency and accidental interpretation drift. Create `reviews/PART_015_REVIEW.md` only when that editorial review has actually been completed.
-
-Do not combine editorial review with release promotion. The release report remains a separate final gate.
+Perform the separate **Part 015 English release gate**. Reconfirm the 21-page physical alignment, Part 014 → Part 015 boundary at Kural **1325 → 1326**, completion of the commentary at Kural **1330**, the full index through printed page **288**, and the blank/back-cover mirrors. Confirm the controlled chapter terminology and bilingual index strategy, then create `reviews/PART_015_RELEASE_REPORT.md` only if the gate passes. Only after that report approves release should all 21 Part 015 English page files be promoted to `release-ready`.
 
 Permanent cadence:
 
