@@ -60,15 +60,20 @@ Permanent English protections remain binding, including:
 
 # Canonical current state
 
-## Tamil Parts 001–014
+## Tamil Parts 001–015
 
-Parts **001–014 are audited / ARCHIVAL-READY continuously** through:
+Parts **001–015 are audited / ARCHIVAL-READY continuously** through the end of the supplied Thirukkural volume:
 
-- overall scan **302**;
-- printed page **269**;
-- Kural **1325**.
+- overall scans **1–323**;
+- commentary through printed page **270**;
+- Kural sequence through **1330**;
+- index back matter through printed page **288**;
+- scan 322 blank leaf;
+- scan 323 plain back cover.
 
-Audits exist as `works/thirukkural/AUDIT_PART_001.md` through `AUDIT_PART_014.md`.
+Audits exist as `works/thirukkural/AUDIT_PART_001.md` through `AUDIT_PART_015.md`.
+
+Part 001 scan 8 remains the documented source-limited exception already covered by its audit.
 
 ## English Parts 001–014
 
@@ -80,47 +85,36 @@ Parts **001–014 are fully released continuously** through:
 
 Part 014 passed Tamil audit, English source-check, editorial review and the separate release gate. Its 20 English pages are `release-ready`.
 
-## Part 015 source structure
+## Part 015 source structure and Tamil result
 
 Controlling source:
 
 `திருக்குறள்_கலைஞர்_உரை_part_015_pages_303-323.pdf`
 
-The actual scan establishes:
+Source-confirmed structure:
 
-- **21 physical scans**, overall scans **303–323**;
-- scan **303 / printed page 270** continues chapter 133 `ஊடலுவகை` with Kurals **1326–1330**;
+- scan **303 / printed page 270** continues and completes chapter 133 `ஊடலுவகை` with Kurals **1326–1330**;
 - Kural **1330** is the end of the Thirukkural commentary;
 - scans **304–321 / printed pages 271–288** are `குறள் முதற்குறிப்பு அகரவரிசை`;
 - scan **322** is an unnumbered blank leaf;
 - scan **323** is the plain back cover.
 
-The Part 014 → Part 015 boundary is source-confirmed as **Kural 1325 → 1326**.
+All **21/21** Part 015 physical-page records are directly visually verified. During verification, scan 318 received the source-supported correction `பொளளென` → `பொள்ளென` for Kural 487.
 
-## Part 015 repository state
-
-All **21/21 physical-page records are now directly visually verified** against the controlling source.
-
-- scan 303 — final commentary page, Kurals 1326–1330 — verified;
-- scans 304–321 — alphabetical first-word index — verified;
-- scan 322 — blank leaf — verified;
-- scan 323 — plain back cover — verified.
-
-During the final verification batch, scan 318 received one source-supported correction: `பொளளென` → `பொள்ளென` for Kural 487.
-
-Part 015 has therefore completed the **Tamil transcription + direct visual verification gate**, but it is **not yet ARCHIVAL-READY** because the separate audit has not yet been performed.
+Tamil audit: `works/thirukkural/AUDIT_PART_015.md` — **PASS / ARCHIVAL-READY**.
 
 # Exact next activity
 
-Perform the **Part 015 Tamil audit as a separate gate** and create `works/thirukkural/AUDIT_PART_015.md` only after checking:
+Begin **Part 015 English first-pass drafting** as a separate gate.
 
-1. all 21 physical scans have one canonical record;
-2. all 21 records are `verified`;
-3. scan/part-page/printed-page continuity is correct;
-4. Kural 1326–1330 continuity from Part 014 is correct;
-5. the index spans printed pages 271–288 without omissions or duplicated physical pages;
-6. scan 322 blank and scan 323 back-cover states are correctly represented;
-7. source filename and metadata are consistent;
-8. no Part 001–014 released material was changed without documented source evidence.
+Required startup for that activity:
 
-Only after `AUDIT_PART_015.md` passes may Part 015 English translation begin.
+1. fresh-read `works/thirukkural/translations/en/TRANSLATION_GUIDE.md` completely;
+2. fresh-read `works/thirukkural/translations/en/GLOSSARY.md`;
+3. fresh-read `works/thirukkural/translations/en/TRANSLATION_STATUS.md`;
+4. inspect the released Part 014 English records and review/release artefacts for format and controlled vocabulary;
+5. use the verified Part 015 Tamil archival records as the translation basis.
+
+Retain Kalaignar's interpretive language and rhetorical character. Keep the Kural and Kalaignar's commentary distinct. Do not replace his interpretation with a generic modern Thirukkural explanation.
+
+Stop after first-pass drafting. Do not combine drafting with source-check, editorial review or release promotion.
