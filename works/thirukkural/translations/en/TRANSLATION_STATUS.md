@@ -37,13 +37,13 @@ Permanent protected decisions from earlier released parts remain binding, includ
 | Part 012 | 238–260 | archival-ready — 23/23 verified | **RELEASE-READY — 23/23** |
 | Part 013 | 261–282 | **ARCHIVAL-READY — 22/22 verified; audit passed** | **RELEASE-READY — 22/22** |
 | Part 014 | 283–302 | **ARCHIVAL-READY — 20/20 verified; audit passed** | **RELEASE-READY — 20/20** |
-| Part 015 | 303–323 | **FIRST PASS COMPLETE 21/21; scans 303–306 verified; scans 307–323 needs-review; audit pending** | not started — blocked until Tamil audit passes |
+| Part 015 | 303–323 | **ARCHIVAL-READY — 21/21 verified; audit passed** | not started |
 
-Tamil Parts **001–014 are archival-ready continuously through overall scan 302 / printed page 269 / Kural 1325**.
+Tamil Parts **001–015 are archival-ready continuously through overall scan 323**. The commentary itself reaches **printed page 270 / Kural 1330** on scan 303; scans 304–321 preserve the printed `குறள் முதற்குறிப்பு அகரவரிசை` through printed page 288, followed by the blank leaf and back cover.
 
 English Parts **001–014 are fully released continuously through overall scan 302 / printed page 269 / Kural 1325**.
 
-Part 015 source inspection confirms that scan **303 / printed page 270** contains Kurals **1326–1330**, completing chapter 133 and the Thirukkural commentary. The rest of Part 015 is `குறள் முதற்குறிப்பு அகரவரிசை` on printed pages 271–288, followed by a blank leaf and back cover. All Part 015 Tamil physical-page records now exist, but direct visual verification remains incomplete for scans 307–323.
+Part 015 Tamil audit: [`../../AUDIT_PART_015.md`](../../AUDIT_PART_015.md) — **PASS / ARCHIVAL-READY**.
 
 ## Released English counts
 
@@ -61,9 +61,9 @@ Released Parts 001–014 must remain untouched merely to harmonize later wording
 
 ## Exact next activity
 
-No Part 015 English translation may begin yet.
+The Tamil gate for Part 015 has passed. The next separate workflow stage is **Part 015 English first-pass drafting from the verified Tamil archival records**, following `TRANSLATION_GUIDE.md` and retaining Kalaignar's interpretive language and rhetorical character.
 
-The next required gate is **Part 015 Tamil direct visual verification for scans 307–323**, followed by a separate `AUDIT_PART_015.md` archival decision. Only after that audit passes may the project create the Part 015 English translation for the translatable Tamil content.
+Do not combine first-pass drafting with source-check, editorial review or release promotion.
 
 Permanent cadence:
 
