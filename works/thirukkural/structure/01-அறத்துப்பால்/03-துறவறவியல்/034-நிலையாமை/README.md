@@ -1,0 +1,7 @@
+# 34. நிலையாமை
+
+- பால்: அறத்துப்பால்
+- இயல்: துறவறவியல்
+- குறள்: 331–340
+
+Canonical Tamil: `works/thirukkural/pages/`; released English: `works/thirukkural/translations/en/pages/`.
