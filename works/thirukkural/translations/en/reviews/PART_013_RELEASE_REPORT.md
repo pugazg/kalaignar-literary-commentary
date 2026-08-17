@@ -35,20 +35,22 @@ The transition occurs at the chapter boundary between chapter 120 / Kural 1200 a
 
 ## Chapter coverage confirmed
 
-Part 013 contains:
+The release gate follows the English headings actually archived in the page records:
 
 - chapter 112 **Praising Her Beauty**, completion (1116–1120);
 - chapter 113 **Declaring the Excellence of Love** (1121–1130);
-- chapter 114 **Abandoning Modesty** (1131–1140);
-- chapter 115 **Rumour** (1141–1150);
+- chapter 114 **Declaring the Abandonment of Modesty** (1131–1140);
+- chapter 115 **Awareness of Gossip** (1141–1150);
 - chapter 116 **Inability to Bear Separation** (1151–1160);
-- chapter 117 **Wasting Away in Longing** (1161–1170);
-- chapter 118 **Eyes Wasting Away** (1171–1180);
+- chapter 117 **Languishing in Longing** (1161–1170);
+- chapter 118 **Lamenting the Eyes** (1171–1180);
 - chapter 119 **Suffering from Pallor** (1181–1190);
 - chapter 120 **Intensity of Solitary Longing** (1191–1200);
 - chapter 121 **Lamenting the Absent Beloved** (1201–1210);
 - chapter 122 **Describing the State of Dreams** (1211–1220);
 - chapter 123 **Lamenting at Evening**, beginning (1221–1225).
+
+The release report does not silently replace these archived project headings with shorter editorial paraphrases.
 
 ## Fidelity protections confirmed
 
@@ -57,7 +59,7 @@ The release retains Kalaignar's supplied interpretive language and imagery rathe
 - moon/maiden, blemish, flower-eyes, anicham, swan feather and nerunji imagery;
 - beloved dwelling within eye and heart;
 - `madal` and abandonment of modesty;
-- public/town rumour intensifying love;
+- public/town gossip intensifying love;
 - separation, sea/flood, night, tears and pallor imagery;
 - Kural 1196's carrying-pole balanced at both ends and Kalaignar's explicit mutual-love explanation;
 - Kural 1201's direct comparison of remembered love with liquor;
