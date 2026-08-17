@@ -99,37 +99,28 @@ The Part 014 → Part 015 boundary is source-confirmed as **Kural 1325 → 1326*
 
 ## Part 015 repository state
 
-All **21/21** physical-page records exist.
+All **21/21 physical-page records are now directly visually verified** against the controlling source.
 
-Verified:
+- scan 303 — final commentary page, Kurals 1326–1330 — verified;
+- scans 304–321 — alphabetical first-word index — verified;
+- scan 322 — blank leaf — verified;
+- scan 323 — plain back cover — verified.
 
-- scan 303 — `0303-inbam-oodaluvagai-02.md`;
-- scan 304 — `0304-kural-mutharkurippu-01.md`;
-- scan 305 — `0305-kural-mutharkurippu-02.md`;
-- scan 306 — `0306-kural-mutharkurippu-03.md`;
-- scan 307 — `0307-kural-mutharkurippu-04.md`;
-- scan 308 — `0308-kural-mutharkurippu-05.md`;
-- scan 309 — `0309-kural-mutharkurippu-06.md`.
+During the final verification batch, scan 318 received one source-supported correction: `பொளளென` → `பொள்ளென` for Kural 487.
 
-First-pass complete but still `needs-review`:
-
-- scans **310–321** — remaining alphabetical index pages;
-- scan **322** — blank leaf;
-- scan **323** — back cover.
-
-Part 015 is therefore **FIRST-PASS COMPLETE 21/21** with **7/21 records verified**, but **not ARCHIVAL-READY**. Do not create `AUDIT_PART_015.md` yet.
+Part 015 has therefore completed the **Tamil transcription + direct visual verification gate**, but it is **not yet ARCHIVAL-READY** because the separate audit has not yet been performed.
 
 # Exact next activity
 
-Continue **Part 015 Tamil direct visual verification from scan 310 onward**.
+Perform the **Part 015 Tamil audit as a separate gate** and create `works/thirukkural/AUDIT_PART_015.md` only after checking:
 
-For scans 310–321:
+1. all 21 physical scans have one canonical record;
+2. all 21 records are `verified`;
+3. scan/part-page/printed-page continuity is correct;
+4. Kural 1326–1330 continuity from Part 014 is correct;
+5. the index spans printed pages 271–288 without omissions or duplicated physical pages;
+6. scan 322 blank and scan 323 back-cover states are correctly represented;
+7. source filename and metadata are consistent;
+8. no Part 001–014 released material was changed without documented source evidence.
 
-1. compare every index entry and Kural-number reference directly against the controlling image;
-2. preserve source-visible spacing, punctuation, hyphens and unusual forms rather than normalizing them;
-3. correct only source-supported transcription differences;
-4. promote a record to `verified` only after the whole page passes.
-
-For scan 322, confirm that no printed text is present and verify the blank-page record. For scan 323, confirm the plain back-cover description and verify the record.
-
-After scans 310–323 all pass, stop and perform the **Part 015 audit as a separate gate**. Only after `AUDIT_PART_015.md` passes may Part 015 English translation begin.
+Only after `AUDIT_PART_015.md` passes may Part 015 English translation begin.
