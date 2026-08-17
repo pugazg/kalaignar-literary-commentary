@@ -1,18 +1,18 @@
 # Next Chat Prompt — Continue Thirukkural Kalaignar Commentary Archive
 
-Copy/paste the prompt below into a new chat window. Attach the active Part 008 PDF again if the new chat does not already have access to it.
+Copy/paste the prompt below into a new chat window. Attach the controlling source PDF only if the new chat does not already have access to the source needed for the active gate.
 
 ---
 
-Continue the **Thirukkural — Kalaignar Commentary archival project** directly in:
+Continue the **Thirukkural — Kalaignar Commentary archival / translation project** directly in:
 
 `pugazg/kalaignar-literary-commentary`
+
+Work on `main`.
 
 Active work path:
 
 `works/thirukkural/`
-
-The controlling source for the current activity is the attached Part 008 PDF covering overall scans 149–169 / printed pages 116–136 / Kural 566–670.
 
 ## MANDATORY STARTUP
 
@@ -20,101 +20,99 @@ Before making any repository change:
 
 1. Read `THIRUKKURAL_ARCHIVAL_GUIDELINES.md` completely.
 2. Read `LITERARY_COMMENTARY_PROCESSING_GUIDE.md` completely.
-3. Read `HANDOVER.md` completely.
-4. Read `works/thirukkural/README.md`.
-5. Inspect the repository state and existing target files. Continue existing work; do not create duplicates.
-6. Inspect the actual attached source scan pages needed for the current activity. The scan is authoritative; OCR/parsed text is only assistance.
+3. Read root `HANDOVER.md` completely.
+4. Read `works/thirukkural/README.md` completely.
+5. Read `works/thirukkural/translations/en/TRANSLATION_GUIDE.md` completely.
+6. Read `works/thirukkural/translations/en/GLOSSARY.md`.
+7. Read `works/thirukkural/translations/en/TRANSLATION_STATUS.md`.
+8. Read `works/thirukkural/AUDIT_PART_014.md`.
+9. Read the latest completed English review/release artefacts, especially `PART_013_REVIEW.md` and `PART_013_RELEASE_REPORT.md`.
+10. Inspect the actual current `main` tree and all existing Part 014 target files before writing. Continue existing work; do not recreate pages.
+
+Repository state is authoritative. If an older saved prompt or historical status paragraph conflicts with the current files on `main`, use the actual files and completed audit/review/release artefacts.
 
 ## SOURCE AUTHORITY
 
-The supplied scan is the controlling source.
+The supplied Tamil scan is the controlling source.
 
-Do not silently modernize, normalize, correct, reconstruct or improve the Tamil. Preserve source-supported spelling, joins, punctuation, grammar, names, numbers, repetition, chapter structure and Kalaignar commentary exactly as printed.
+Do not silently modernize, normalize, correct, reconstruct or improve the Tamil. Do not substitute memorized/internet Thirukkural text, another edition, another commentator, or a published English translation.
 
-Do not substitute memorized/internet Thirukkural text for the printed source.
+The verified Tamil archival Markdown is the working translation basis; the scan remains ultimate authority.
 
-Distinguish printed text from bleed-through, stamps, handwriting and scanner artefacts.
+The PDF itself must not be uploaded into GitHub unless the user explicitly changes that policy.
 
-The PDF itself must not be uploaded into GitHub.
+## CANONICAL CURRENT STATE
 
-## CURRENT VERIFIED PROJECT STATE
+Tamil Parts **001–014 are ARCHIVAL-READY continuously** through:
 
-Tamil Parts 001–007 are `ARCHIVAL-READY` through overall scan 148 / printed page 115 / Kural 565.
+- overall scan **302**;
+- printed page **269**;
+- Kural **1325**.
 
-English Parts 001–007 are fully released through Kural 565.
+English Parts **001–013 are fully RELEASED continuously** through:
 
-Part 008 Tamil first-pass transcription is complete 21/21.
+- overall scan **282**;
+- printed page **249**;
+- Kural **1225**.
 
-Part 008 verification state:
+Part **014 English first-pass translation already exists 20/20** for:
 
-- 14/21 `verified` — scans 149–162 / Kural 566–635;
-- 7/21 `needs-review` — scans 163–169 / Kural 636–670;
-- 0 partial;
-- 0 blocked.
+- scans **283–302**;
+- printed pages **250–269**;
+- Kural **1226–1325**.
 
-Part 008 audit has not started.
+All 20 Part 014 English pages currently remain `status: "draft"`. Do not recreate them.
 
-Part 008 English translation has not started.
+Part 015 source is recorded as supplied, but no Part 015 Tamil archival records exist on `main` yet.
 
-Verification correction already made earlier:
+## PROTECTED ENGLISH DECISIONS
 
-- scan 153 / Kural 589 commentary: `ஒத்திருந் தால்` → `ஒத்திருந்தால்`.
+Retain the established project fidelity decisions, including:
 
-Scan 162 directly confirms the structural transition:
-
-`பொருள் — அரசியல்` → `பொருள் — அமைச்சியல் — அமைச்சு`.
+- `ஊழ்` → **Oozh**;
+- Kalaignar's `இயற்கை நிலை` → **natural condition**;
+- Kural 543 direction → **the books of the virtuous**, not an automatic caste-specific conventional gloss;
+- preservation of Kalaignar's governance, citizens, working-people, justice, public-resource and rational/inquiry vocabulary;
+- Part 013 `இன்பம் — களவியல்` → **Inbam — Clandestine Love**;
+- Part 013 onward `இன்பம் — கற்பியல்` → **Inbam — Wedded Love**;
+- do not reintroduce the unsupported Kural 1125 draft nuance **“warring-eyed”**.
 
 ## EXACT NEXT ACTIVITY
 
-Perform **Part 008 Tamil direct visual verification — Batch 3 only** for:
-
-- scan 163 / printed page 130 — Kural 636–640, completes `அமைச்சு`;
-- scan 164 / printed page 131 — Kural 641–645, begins `சொல்வன்மை`;
-- scan 165 / printed page 132 — Kural 646–650, completes `சொல்வன்மை`;
-- scan 166 / printed page 133 — Kural 651–655, begins `வினைத் தூய்மை`;
-- scan 167 / printed page 134 — Kural 656–660, completes `வினைத் தூய்மை`;
-- scan 168 / printed page 135 — Kural 661–665, begins `வினைத்திட்பம்`;
-- scan 169 / printed page 136 — Kural 666–670, continues/completes this Part's `வினைத்திட்பம்` range.
+Perform **Part 014 English source-check only** for all 20 existing draft records, scans **283–302**.
 
 For every page:
 
-1. visually compare the existing Tamil Markdown against the scan line-by-line;
-2. verify Kural text, joins, punctuation, line breaks, headings, running header and every commentary sentence;
-3. make only corrections directly supported by the scan;
-4. document every correction found;
-5. once a page passes, change `status` to `verified` and `transcription_method` to `direct visual comparison with source scan`.
+1. compare the English Kural lines directly against the verified Tamil Kural text and Kalaignar's adjacent interpretation;
+2. compare the English commentary paragraph-by-paragraph against Kalaignar's verified Tamil commentary;
+3. check omissions, additions, meaning drift, source gender, rhetorical questions, comparisons, images and emotional force;
+4. confirm Kural translation and commentary translation remain separate;
+5. confirm chapter and structural metadata, including **Inbam — Wedded Love**;
+6. make only source-supported corrections;
+7. promote the page from `draft` to `source-checked` only after it passes.
 
-When all seven pages are complete, synchronize root `README.md`, `works/thirukkural/README.md`, and `HANDOVER.md`.
+After all 20 pages pass, update:
+
+- `works/thirukkural/translations/en/TRANSLATION_STATUS.md`;
+- `works/thirukkural/translations/en/README.md`;
+- `works/thirukkural/README.md`;
+- root `README.md` if the public project state materially changes;
+- root `HANDOVER.md`.
 
 Then STOP.
 
 ## DO NOT DO IN THIS ACTIVITY
 
-Do not create `AUDIT_PART_008.md` yet.
+Do not:
 
-Do not declare Part 008 `ARCHIVAL-READY` in the verification activity even if all 21 pages become verified. The audit is a separate gate.
+- perform Part 014 editorial/glossary review in the same gate;
+- create `PART_014_RELEASE_REPORT.md`;
+- promote Part 014 pages directly to `release-ready`;
+- begin Part 015 Tamil transcription;
+- alter released English Parts 001–013 merely to harmonize later wording.
 
-Do not begin Part 008 English translation.
+After Part 014 source-check passes, the next separate activity is **Part 014 English editorial consistency / glossary reconciliation**, followed by a separate release gate.
 
-Do not begin Part 009 Tamil transcription.
-
-Do not alter released English Parts 001–007.
-
-## PERMANENT ENGLISH FIDELITY REQUIREMENT FOR LATER STAGES
-
-When Part 008 eventually reaches English translation, retain Kalaignar's language and interpretation exactly as established in earlier Parts. Do not replace his commentary with standard/conventional Kural interpretations.
-
-Protected examples from earlier Parts include:
-
-- `ஊழ்` chapter heading → `Oozh`, while Kalaignar's `இயற்கை நிலை` → `natural condition`;
-- Kural 543: `அந்தணர் நூற்கும்` is explained by Kalaignar as `அறவோர் நூல்களுக்கும்`, so the project translation uses `the books of the virtuous`, not an automatic `Brahmins` rendering;
-- preserve his governance, citizens, treasury, justice, public-resource and working-people vocabulary;
-- preserve direct images/comparisons rather than sanitizing them.
-
-Permanent workflow:
-
-**Tamil transcription → Tamil direct visual verification → Tamil audit / archival-ready → English draft → English source-check → English editorial review → English release gate.**
-
-Proceed directly with the exact next activity after reading the mandatory files. Do not ask me to reconfirm the workflow unless the repository/source contains a genuine ambiguity that prevents safe continuation.
+Proceed with the actual repository work after reading the mandatory files. Do not respond with only a plan.
 
 ---
