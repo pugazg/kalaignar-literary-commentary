@@ -15,7 +15,9 @@ Permanent protected decisions from earlier released parts remain binding, includ
 
 - chapter 38 `ஊழ்` → **Oozh**, with Kalaignar's `இயற்கை நிலை` → **natural condition**;
 - Kural 543: Kalaignar's `அறவோர் நூல்களுக்கும்` direction → **the books of the virtuous**, not an automatic caste-specific conventional gloss;
-- preservation of Kalaignar's government/administration, citizens, working-people, justice, public-resource and rational/inquiry vocabulary where the Tamil explicitly uses it.
+- preservation of Kalaignar's government/administration, citizens, working-people, justice, public-resource and rational/inquiry vocabulary where the Tamil explicitly uses it;
+- `இன்பம் — கற்பியல்` → **Inbam — Wedded Love**;
+- `ஊடலுவகை` → **Joy of Lovers' Quarrel**.
 
 ## Current source readiness
 
@@ -35,28 +37,19 @@ Permanent protected decisions from earlier released parts remain binding, includ
 | Part 012 | 238–260 | archival-ready — 23/23 verified | **RELEASE-READY — 23/23** |
 | Part 013 | 261–282 | **ARCHIVAL-READY — 22/22 verified; audit passed** | **RELEASE-READY — 22/22** |
 | Part 014 | 283–302 | **ARCHIVAL-READY — 20/20 verified; audit passed** | **RELEASE-READY — 20/20** |
-| Part 015 | 303 onward | no archived Tamil records in current repository state | not started |
+| Part 015 | 303–323 | **FIRST PASS COMPLETE 21/21; scans 303–306 verified; scans 307–323 needs-review; audit pending** | not started — blocked until Tamil audit passes |
 
 Tamil Parts **001–014 are archival-ready continuously through overall scan 302 / printed page 269 / Kural 1325**.
 
-English Parts **001–014 are fully released continuously through overall scan 302 / printed page 269 / Kural 1325**. Part 014 passed source fidelity, editorial/glossary consistency review and the separate release gate; all 20 page records are now `release-ready`.
+English Parts **001–014 are fully released continuously through overall scan 302 / printed page 269 / Kural 1325**.
+
+Part 015 source inspection confirms that scan **303 / printed page 270** contains Kurals **1326–1330**, completing chapter 133 and the Thirukkural commentary. The rest of Part 015 is `குறள் முதற்குறிப்பு அகரவரிசை` on printed pages 271–288, followed by a blank leaf and back cover. All Part 015 Tamil physical-page records now exist, but direct visual verification remains incomplete for scans 307–323.
 
 ## Released English counts
 
 - Part 001: 19 `release-ready` + 1 `source-limited`.
-- Part 002: **21/21 `release-ready`**.
-- Part 003: **21/21 `release-ready`** — through Kural 145.
-- Part 004: **22/22 `release-ready`** — through Kural 255.
-- Part 005: **22/22 `release-ready`** — through Kural 365.
-- Part 006: **21/21 `release-ready`** — through Kural 460.
-- Part 007: **21/21 `release-ready`** — through Kural 565.
-- Part 008: **21/21 `release-ready`** — through Kural 670.
-- Part 009: **22/22 `release-ready`** — through Kural 780.
-- Part 010: **23/23 `release-ready`** — through Kural 895.
-- Part 011: **23/23 `release-ready`** — through Kural 1010.
-- Part 012: **23/23 `release-ready`** — through Kural 1115.
-- Part 013: **22/22 `release-ready`** — through Kural 1225.
-- Part 014: **20/20 `release-ready`** — through Kural 1325.
+- Parts 002–014: all pages `release-ready`.
+- Latest released English boundary: scan **302 / printed page 269 / Kural 1325**.
 
 Latest released English baseline is Part 014:
 
@@ -66,21 +59,11 @@ Latest released English baseline is Part 014:
 
 Released Parts 001–014 must remain untouched merely to harmonize later wording.
 
-## Part 014 English release state
-
-Part 014 has **20 / 20** English `release-ready` records aligned to scans **283–302 / printed pages 250–269 / Kural 1226–1325**.
-
-The released translation completes chapter 123 and continues through the first five Kurals of chapter 133 **Joy of Lovers' Quarrel**. The `கற்பியல்` → **Wedded Love** structural rendering remains controlled by the Part 013 editorial/release decision.
-
-The Part 014 release preserves Kalaignar's source-specific gender, heart/personification vocabulary, bodily imagery, evening imagery, union/separation framing, and the `புலவி / ஊடல்` sequence. In particular, `ஊடலுவகை` remains **Joy of Lovers' Quarrel**, and `ஊடல்` must not be flattened into generic hostility or domestic conflict.
-
 ## Exact next activity
 
-**Part 015 source intake / Tamil archival transcription gate — awaiting a new controlling source.**
+No Part 015 English translation may begin yet.
 
-There are currently no Part 015 Tamil archival records in this repository. Do not infer, fabricate or create scan 303 onward from the expected textual continuation alone.
-
-When the next source PDF/scan is supplied, inspect the actual source first, confirm its physical-page and textual boundary, and only then continue the Tamil archival workflow. If the source is continuous, chapter 133 is expected to continue after Kural 1325, but that expectation must be confirmed from the scan itself before any repository record is created.
+The next required gate is **Part 015 Tamil direct visual verification for scans 307–323**, followed by a separate `AUDIT_PART_015.md` archival decision. Only after that audit passes may the project create the Part 015 English translation for the translatable Tamil content.
 
 Permanent cadence:
 
