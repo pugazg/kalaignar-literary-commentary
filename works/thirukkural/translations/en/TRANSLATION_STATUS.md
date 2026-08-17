@@ -37,7 +37,7 @@ Permanent protected decisions from earlier released parts remain binding, includ
 | Part 012 | 238–260 | archival-ready — 23/23 verified | **RELEASE-READY — 23/23** |
 | Part 013 | 261–282 | **ARCHIVAL-READY — 22/22 verified; audit passed** | **RELEASE-READY — 22/22** |
 | Part 014 | 283–302 | **ARCHIVAL-READY — 20/20 verified; audit passed** | **RELEASE-READY — 20/20** |
-| Part 015 | 303–323 | **ARCHIVAL-READY — 21/21 verified; audit passed** | **FIRST-PASS DRAFTING — scans 303–304 drafted; scans 305–323 not yet drafted** |
+| Part 015 | 303–323 | **ARCHIVAL-READY — 21/21 verified; audit passed** | **FIRST-PASS DRAFT COMPLETE — 21/21; source-check not yet started** |
 
 Tamil Parts **001–015 are archival-ready continuously through overall scan 323**. The commentary itself reaches **printed page 270 / Kural 1330** on scan 303; scans 304–321 preserve the printed `குறள் முதற்குறிப்பு அகரவரிசை` through printed page 288, followed by the blank leaf and back cover.
 
@@ -47,13 +47,14 @@ Part 015 Tamil audit: [`../../AUDIT_PART_015.md`](../../AUDIT_PART_015.md) — *
 
 ## Part 015 English first-pass state
 
-- scan **303 / printed page 270 / Kurals 1326–1330** — English project translation created at `pages/0303-inbam-oodaluvagai-02.md`, status `draft`;
-- scan **304 / printed page 271** — English mirror of the alphabetical first-word index created at `pages/0304-kural-mutharkurippu-01.md`, status `draft`; the structural heading and column label are translated, while the source Tamil opening-word keys and Kural-number references are preserved exactly so the Tamil-alphabetical index remains functional and source-controlled;
-- scans **305–321 / printed pages 272–288** — remaining alphabetical first-word index pages, not yet drafted in English;
-- scan **322** — blank leaf, English mirror record not yet created;
-- scan **323** — back cover, English mirror record not yet created.
+- scan **303 / printed page 270 / Kurals 1326–1330** — English project translation at `pages/0303-inbam-oodaluvagai-02.md`, status `draft`;
+- scans **304–321 / printed pages 271–288** — all 18 English mirror pages of the alphabetical first-word index are present and `draft`; structural headings and the `Kural No.` column label are translated while verified Tamil opening-word keys, entry order, punctuation and Kural-number references are preserved;
+- scan **322** — blank-leaf English mirror at `pages/0322-blank.md`, status `draft`;
+- scan **323** — back-cover English mirror at `pages/0323-back-cover.md`, status `draft`.
 
 The scan-303 draft keeps the Kural translation and Kalaignar's commentary as distinct elements and retains the controlled chapter identity **Inbam — Wedded Love — Joy of Lovers' Quarrel**.
+
+Part 015 English first-pass drafting is therefore **complete for scans 303–323 (21/21)**.
 
 No Part 015 English file has yet passed source-check, editorial review or release review.
 
@@ -73,9 +74,9 @@ Released Parts 001–014 must remain untouched merely to harmonize later wording
 
 ## Exact next activity
 
-Continue the **Part 015 English first-pass drafting gate** with scan **305 / printed page 272**, preserving the verified Tamil opening-word keys, entry order and Kural-number references while translating the structural index labels consistently.
+Begin the **Part 015 English source-check gate** at scan **303 / printed page 270 / Kurals 1326–1330**, comparing the English draft against the controlling Tamil scan and the verified Tamil archival record before changing any status.
 
-Do not combine first-pass drafting with source-check, editorial review or release promotion.
+After scan 303, continue source-check through the index mirrors at scans 304–321 and the back-matter mirrors at scans 322–323. Do not combine source-check with editorial review or release promotion.
 
 Permanent cadence:
 
