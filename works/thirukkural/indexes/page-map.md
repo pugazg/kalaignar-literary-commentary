@@ -2,7 +2,7 @@
 
 This index is the current **part-level canonical page map** for `works/thirukkural/`.
 
-For exact per-page wording, metadata and filename alignment, the individual records under `pages/` are authoritative. For archival decisions, use `AUDIT_PART_001.md` through `AUDIT_PART_014.md`; Part 015 is verified but not yet audited.
+For exact per-page wording, metadata and filename alignment, the individual records under `pages/` are authoritative. For archival decisions, use `AUDIT_PART_001.md` through `AUDIT_PART_015.md`.
 
 ## Current map
 
@@ -22,25 +22,19 @@ For exact per-page wording, metadata and filename alignment, the individual reco
 | 012 | 238–260 | 205–218, unnumbered `இன்பம்` leaves, then 221–227 | Kural 1011–1115; `பொருள்` → `இன்பம்` transition | 23/23 verified | `AUDIT_PART_012.md` |
 | 013 | 261–282 | 228–249 | Kural 1116–1225; `களவியல்` → `கற்பியல்` transition | 22/22 verified | `AUDIT_PART_013.md` |
 | 014 | 283–302 | 250–269 | Kural 1226–1325 | 20/20 verified | `AUDIT_PART_014.md` |
-| 015 | 303–323 | 270–288, then unnumbered blank/back cover | scan 303: Kural 1326–1330, completing chapter 133 and the commentary; scans 304–321: `குறள் முதற்குறிப்பு அகரவரிசை`; scan 322 blank; scan 323 back cover | **21/21 verified** | audit pending |
+| 015 | 303–323 | 270–288, then unnumbered blank/back cover | scan 303: Kural 1326–1330, completing chapter 133 and the commentary; scans 304–321: `குறள் முதற்குறிப்பு அகரவரிசை`; scan 322 blank; scan 323 back cover | **21/21 verified; ARCHIVAL-READY** | `AUDIT_PART_015.md` |
 
 ## Canonical continuity
 
-Tamil archival coverage is audited continuously through Part 014:
+Tamil archival coverage is now audited continuously through Part 015:
 
-- overall scans **1–302**;
-- printed main-body pagination through **269**;
-- Kural sequence through **1325**;
-- audit files **001–014** present.
+- overall scans **1–323**;
+- commentary through printed page **270**;
+- Kural sequence through **1330**;
+- back matter through printed page **288**;
+- audit files **001–015** present.
 
-Part 015 is fully represented and directly visually verified:
-
-- scan **303 / printed page 270** — Kurals **1326–1330**, completing chapter 133 `ஊடலுவகை` and the Thirukkural commentary;
-- scans **304–321 / printed pages 271–288** — `குறள் முதற்குறிப்பு அகரவரிசை`;
-- scan **322** — unnumbered blank leaf;
-- scan **323** — back cover.
-
-All **21/21** physical scans have verified repository records. Part 015 is still **not archival-ready** until `AUDIT_PART_015.md` passes.
+Part 001 scan 8 remains the only documented source-limited page in this continuous archival sequence.
 
 ## Important physical-page exceptions
 
@@ -72,15 +66,15 @@ All **21/21** physical scans have verified repository records. Part 015 is still
 - scan 322 is an unnumbered blank leaf;
 - scan 323 is the plain back cover.
 
-## Active Part 015 boundary
+## Part 015 boundary and completion
 
 The Part 014 → Part 015 boundary is source-confirmed as:
 
 - scan 302 / printed page 269 / Kural 1325 →
 - scan 303 / printed page 270 / Kural 1326.
 
-Scan 303 completes chapter 133 `ஊடலுவகை` with Kurals **1326–1330**. The commentary therefore ends at Kural **1330** on printed page **270**; the rest of the supplied part is index/blank/back-cover material.
+Scan 303 completes chapter 133 `ஊடலுவகை` with Kurals **1326–1330**. The commentary ends at Kural **1330** on printed page **270**; the remainder is index/blank/back-cover material.
 
-## Exact next Tamil activity
+## Exact next activity
 
-Perform the **Part 015 Tamil audit as a separate gate**. Check all 21 verified records for physical-page coverage, scan/part-page/printed-page continuity, Kural 1326–1330 continuity, complete index coverage through printed page 288, source filename consistency, and correct blank/back-cover representation. If all checks pass, create `AUDIT_PART_015.md` and then update archival status. English Part 015 work must not begin before that audit passes.
+The Tamil archival gate is complete. The next separate stage is **Part 015 English first-pass drafting** from the verified Tamil records, following `translations/en/TRANSLATION_GUIDE.md`. Do not combine drafting with source-check, editorial review or release promotion.
