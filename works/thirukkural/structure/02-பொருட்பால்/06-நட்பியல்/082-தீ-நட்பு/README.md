@@ -1,0 +1,7 @@
+# 82. தீ நட்பு
+
+- பால்: பொருட்பால்
+- இயல்: நட்பியல்
+- குறள்: 811–820
+
+Canonical Tamil: `works/thirukkural/pages/`; released English: `works/thirukkural/translations/en/pages/`.
