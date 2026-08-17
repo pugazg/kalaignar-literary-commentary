@@ -34,12 +34,12 @@ Permanent protected decisions from earlier released parts remain binding, includ
 | Part 011 | 215–237 | archival-ready — 23/23 verified | **RELEASE-READY — 23/23** |
 | Part 012 | 238–260 | archival-ready — 23/23 verified | **RELEASE-READY — 23/23** |
 | Part 013 | 261–282 | **ARCHIVAL-READY — 22/22 verified; audit passed** | **RELEASE-READY — 22/22** |
-| Part 014 | 283–302 | **ARCHIVAL-READY — 20/20 verified; audit passed** | **DRAFT COMPLETE — 20/20; source-check pending** |
+| Part 014 | 283–302 | **ARCHIVAL-READY — 20/20 verified; audit passed** | **SOURCE-CHECKED — 20/20; editorial review pending** |
 | Part 015 | 303 onward | no archived Tamil records in current repository state | not started |
 
 Tamil Parts **001–014 are archival-ready continuously through overall scan 302 / printed page 269 / Kural 1325**.
 
-English Parts **001–013 are fully released continuously through overall scan 282 / printed page 249 / Kural 1225**. First-pass project translation also exists for all audited Tamil records in Part 014, through Kural **1325**; those pages remain `draft` until the separate source-check gate passes.
+English Parts **001–013 are fully released continuously through overall scan 282 / printed page 249 / Kural 1225**. All 20 Part 014 English records, through Kural **1325**, have now passed the separate source-fidelity gate and are `source-checked`; they are not yet editorial-reviewed or release-ready.
 
 ## Released English counts
 
@@ -73,21 +73,21 @@ The released translation continues chapter 112 **Praising Her Beauty**, then cov
 
 Part 013 passed source-check, editorial consistency review and the separate release gate. The Kural 1125 source-fidelity correction remains locked: the unsupported draft nuance “warring-eyed” was removed and must not be reintroduced.
 
-## Part 014 English draft state
+## Part 014 English source-check state
 
-Part 014 has **20 / 20** English draft records aligned to scans **283–302 / printed pages 250–269 / Kural 1226–1325**.
+Part 014 has **20 / 20** English `source-checked` records aligned to scans **283–302 / printed pages 250–269 / Kural 1226–1325**.
 
-The draft completes chapter 123 and continues through the first five Kurals of chapter 133 **Joy of Lovers' Quarrel**. The `கற்பியல்` → **Wedded Love** structural rendering is now controlled by the Part 013 editorial/release decision and should be retained unless later source evidence requires a documented revision.
+The translation completes chapter 123 and continues through the first five Kurals of chapter 133 **Joy of Lovers' Quarrel**. The `கற்பியல்` → **Wedded Love** structural rendering remains controlled by the Part 013 editorial/release decision.
 
-No Part 014 page is yet `source-checked`, `editorial-reviewed`, or `release-ready`.
+All 20 Part 014 pages were compared against their verified Tamil archival records. The source-check preserved Kural/commentary separation, gender specificity, rhetorical force, and Kalaignar's imagery and explanatory framing. No Part 014 page is yet `editorial-reviewed` or `release-ready`.
 
 ## Exact next activity
 
-**Part 014 English source-check gate.**
+**Part 014 English editorial / glossary-consistency review.**
 
-Compare all 20 English draft records for scans **283–302** line-by-line and paragraph-by-paragraph against the verified Tamil archival records, checking Kural/commentary separation, omissions, additions, meaning drift, gender specificity, rhetorical force, imagery and the verified source-sensitive readings. Make only source-supported corrections, then promote each passing page from `draft` to `source-checked`.
+Review the complete 20-page source-checked Part 014 English set for scans **283–302 / Kural 1226–1325** against established project terminology and the controlled decisions from earlier released parts. Reconcile chapter headings, recurring terms and imagery without replacing Kalaignar's interpretation with conventional external Kural readings. Document the gate in `reviews/PART_014_REVIEW.md`.
 
-After Part 014 source-check passes, perform its glossary/editorial review and separate release gate.
+After the editorial review passes, perform the separate Part 014 release gate and create its release report before promoting any Part 014 page to `release-ready`.
 
 Permanent cadence:
 
