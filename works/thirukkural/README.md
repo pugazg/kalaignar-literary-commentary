@@ -22,41 +22,35 @@ Last synchronized with actual `main` repository state: **2026-08-17**.
 | 012 | `திருக்குறள்_கலைஞர்_உரை_part_012_pages_238-260.pdf` | 23 | 238–260 | **ARCHIVAL-READY — 23/23 verified** | **RELEASE-READY 23/23** |
 | 013 | `திருக்குறள்_கலைஞர்_உரை_part_013_pages_261-282.pdf` | 22 | 261–282 | **ARCHIVAL-READY — 22/22 verified** | **RELEASE-READY 22/22** |
 | 014 | `திருக்குறள்_கலைஞர்_உரை_part_014_pages_283-302.pdf` | 20 | 283–302 | **ARCHIVAL-READY — 20/20 verified** | **RELEASE-READY 20/20** |
-| 015 | `திருக்குறள்_கலைஞர்_உரை_part_015_pages_303-323.pdf` | 21 | 303–323 | **21/21 VERIFIED; audit pending** | not started |
+| 015 | `திருக்குறள்_கலைஞர்_உரை_part_015_pages_303-323.pdf` | 21 | 303–323 | **ARCHIVAL-READY — 21/21 verified; audit passed** | not started |
 
 ## Canonical continuity
 
-Tamil Parts **001–014 are archival-ready continuously** through:
+Tamil Parts **001–015 are archival-ready continuously** through the end of the supplied volume:
 
-- overall scan **302**;
-- printed page **269**;
-- Kural **1325**.
+- overall scans **1–323**;
+- commentary through printed page **270**;
+- Kural sequence through **1330**;
+- back matter through printed page **288**;
+- scan 322 blank leaf;
+- scan 323 back cover.
 
-English Parts **001–014 are released continuously** through the same boundary. Part 014 English passed its source-check, editorial review and separate release gate; all 20 aligned pages are `release-ready`.
+Part 001 scan 8 remains the documented source-limited exception already covered by its audit.
 
-## Part 015 source-confirmed structure
+English Parts **001–014 are released continuously** through scan **302 / printed page 269 / Kural 1325**.
 
-The supplied Part 015 scan has **21 physical pages**, overall scans **303–323**.
+## Part 015 — ARCHIVAL-READY
 
-- scan **303 / printed page 270** continues chapter 133 `ஊடலுவகை` with Kurals **1326–1330** and reaches the end of the Thirukkural commentary;
-- scans **304–321 / printed pages 271–288** contain `குறள் முதற்குறிப்பு அகரவரிசை`;
-- scan **322** is an unnumbered blank leaf;
-- scan **323** is the back cover.
+Audit: [`AUDIT_PART_015.md`](AUDIT_PART_015.md) — **PASS / ARCHIVAL-READY**.
 
-The Part 014 → Part 015 textual boundary is source-confirmed as **1325 → 1326**.
+Source-confirmed structure:
 
-## Part 015 Tamil current state
+- scan **303 / printed page 270** — Kurals **1326–1330**, completing chapter 133 `ஊடலுவகை` and the Thirukkural commentary;
+- scans **304–321 / printed pages 271–288** — `குறள் முதற்குறிப்பு அகரவரிசை`;
+- scan **322** — unnumbered blank leaf;
+- scan **323** — plain textured back cover.
 
-All **21/21** physical page records now exist under `works/thirukkural/pages/` and all have passed direct visual comparison with the controlling scan.
-
-- scan **303** — final commentary page, Kurals 1326–1330 — verified;
-- scans **304–321** — `குறள் முதற்குறிப்பு அகரவரிசை` — verified;
-- scan **322** — blank-page record — verified;
-- scan **323** — back-cover record — verified.
-
-The final verification batch produced one source-supported correction on scan 318: `பொளளென` → `பொள்ளென` for Kural 487.
-
-Part 015 has completed transcription and direct visual verification, but is **not yet ARCHIVAL-READY** until the separate audit gate passes.
+All **21/21** Part 015 physical-page records are `verified` after direct visual comparison with the controlling source. During verification, scan 318 received the source-supported correction `பொளளென` → `பொள்ளென` for Kural 487.
 
 ## Repository-state discipline
 
@@ -68,6 +62,6 @@ Permanent source-preservation rules in older guides remain binding even when the
 
 ## அடுத்த செயல்
 
-Perform the separate **Part 015 Tamil audit** and create `AUDIT_PART_015.md` only after checking all 21 verified records for physical-page coverage, metadata continuity, Kural 1326–1330 continuity, complete index coverage through printed page 288, and correct blank/back-cover representation.
+Begin **Part 015 English first-pass drafting** as a separate workflow stage, using only the verified Tamil archival records and the English translation guide. Retain Kalaignar's interpretive language and rhetorical character; keep Kural and commentary distinct.
 
-Do not begin Part 015 English translation until that audit passes.
+Do not combine first-pass drafting with source-check, editorial review or release promotion.
