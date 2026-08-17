@@ -1,10 +1,10 @@
-# Next Chat Prompt — Continue Thirukkural Kalaignar Commentary Archive
+# Next Chat Prompt — Continue Thirukkural Kalaignar Commentary Structure Mapping
 
-Copy/paste the prompt below into a new chat window. Attach the controlling source PDF only if the new chat does not already have access to the source needed for the active gate.
+Copy/paste the prompt below into a new chat window.
 
 ---
 
-Continue the **Thirukkural — Kalaignar Commentary archival / translation project** directly in:
+Continue the **Thirukkural — Kalaignar Commentary semantic structure / provenance-mapping project** directly in:
 
 `pugazg/kalaignar-literary-commentary`
 
@@ -12,107 +12,128 @@ Work on `main`.
 
 Active work path:
 
-`works/thirukkural/`
+`works/thirukkural/structure/`
 
 ## MANDATORY STARTUP
 
-Before making any repository change:
+Before making any repository change, read these files completely:
 
-1. Read `THIRUKKURAL_ARCHIVAL_GUIDELINES.md` completely.
-2. Read `LITERARY_COMMENTARY_PROCESSING_GUIDE.md` completely.
-3. Read root `HANDOVER.md` completely.
-4. Read `works/thirukkural/README.md` completely.
-5. Read `works/thirukkural/translations/en/TRANSLATION_GUIDE.md` completely.
-6. Read `works/thirukkural/translations/en/GLOSSARY.md`.
-7. Read `works/thirukkural/translations/en/TRANSLATION_STATUS.md`.
-8. Read `works/thirukkural/AUDIT_PART_014.md`.
-9. Read the latest completed English review/release artefacts, especially `PART_013_REVIEW.md` and `PART_013_RELEASE_REPORT.md`.
-10. Inspect the actual current `main` tree and all existing Part 014 target files before writing. Continue existing work; do not recreate pages.
+1. `THIRUKKURAL_ARCHIVAL_GUIDELINES.md`
+2. `LITERARY_COMMENTARY_PROCESSING_GUIDE.md`
+3. root `HANDOVER.md`
+4. `works/thirukkural/README.md`
+5. `works/thirukkural/structure/README.md`
+6. `works/thirukkural/structure/CHAPTER_README_POLICY.md`
+7. `works/thirukkural/structure/STRUCTURE_AUDIT.md`
+8. `works/thirukkural/translations/en/TRANSLATION_STATUS.md`
 
-Repository state is authoritative. If an older saved prompt or historical status paragraph conflicts with the current files on `main`, use the actual files and completed audit/review/release artefacts.
+Then inspect current GitHub `main`. Repository state is authoritative over stale SHAs or historical status paragraphs.
 
-## SOURCE AUTHORITY
+## COMPLETED SOURCE WORK — DO NOT RESTART
 
-The supplied Tamil scan is the controlling source.
+The supplied Thirukkural volume is complete:
 
-Do not silently modernize, normalize, correct, reconstruct or improve the Tamil. Do not substitute memorized/internet Thirukkural text, another edition, another commentator, or a published English translation.
+- Tamil Parts 001–015: **ARCHIVAL-READY** through scan 323;
+- commentary: through printed page 270 / Kural 1330;
+- English Parts 001–015: **RELEASED** through the same complete volume;
+- scans 304–321: index back matter;
+- scan 322: blank leaf;
+- scan 323: back cover.
 
-The verified Tamil archival Markdown is the working translation basis; the scan remains ultimate authority.
+Do not retranscribe or retranslate released material merely to support semantic navigation.
 
-The PDF itself must not be uploaded into GitHub unless the user explicitly changes that policy.
+## SEMANTIC STRUCTURE
 
-## CANONICAL CURRENT STATE
+A non-destructive literary navigation layer exists under:
 
-Tamil Parts **001–014 are ARCHIVAL-READY continuously** through:
+`works/thirukkural/structure/`
 
-- overall scan **302**;
-- printed page **269**;
-- Kural **1325**.
+Hierarchy:
 
-English Parts **001–013 are fully RELEASED continuously** through:
+**பால் → இயல் → அதிகாரம்**
 
-- overall scan **282**;
-- printed page **249**;
-- Kural **1225**.
+Target structure:
 
-Part **014 English first-pass translation already exists 20/20** for:
+- 3 பால்;
+- 13 இயல்;
+- 133 அதிகாரம்;
+- 1,330 குறள்.
 
-- scans **283–302**;
-- printed pages **250–269**;
-- Kural **1226–1325**.
+The canonical scan-faithful Tamil remains under `works/thirukkural/pages/` and released English remains under `works/thirukkural/translations/en/pages/`. The semantic structure must point to those records; it must not replace, move, duplicate, or rewrite them.
 
-All 20 Part 014 English pages currently remain `status: "draft"`. Do not recreate them.
+## CURRENT MAPPING BOUNDARY
 
-Part 015 source is recorded as supplied, but no Part 015 Tamil archival records exist on `main` yet.
+Exact canonical physical-page provenance mapping is complete for **அதிகாரங்கள் 1–12 / குறள் 1–120**.
 
-## PROTECTED ENGLISH DECISIONS
+Completed mapped chapters:
 
-Retain the established project fidelity decisions, including:
+1. வழிபாடு
+2. வான் சிறப்பு
+3. நீத்தார் பெருமை
+4. அறன் வலியுறுத்தல்
+5. இல்வாழ்க்கை
+6. வாழ்க்கைத் துணைநலம்
+7. மக்கட்பேறு
+8. அன்புடைமை
+9. விருந்தோம்பல்
+10. இனியவை கூறல்
+11. செய்ந்நன்றியறிதல்
+12. நடுவு நிலைமை
 
-- `ஊழ்` → **Oozh**;
-- Kalaignar's `இயற்கை நிலை` → **natural condition**;
-- Kural 543 direction → **the books of the virtuous**, not an automatic caste-specific conventional gloss;
-- preservation of Kalaignar's governance, citizens, working-people, justice, public-resource and rational/inquiry vocabulary;
-- Part 013 `இன்பம் — களவியல்` → **Inbam — Clandestine Love**;
-- Part 013 onward `இன்பம் — கற்பியல்` → **Inbam — Wedded Love**;
-- do not reintroduce the unsupported Kural 1125 draft nuance **“warring-eyed”**.
+Each completed chapter README contains:
+
+- பால்;
+- இயல்;
+- அதிகார number/title;
+- deterministic 10-Kural range;
+- exact source scan(s);
+- source Part and Part-page number;
+- printed-page number;
+- exact Kural coverage per physical page;
+- canonical verified Tamil archival path;
+- corresponding released English path;
+- statement preserving the canonical physical-page layers.
+
+Important duplicate-folder corrections already made include the source-controlled chapter nodes for அதிகாரம் 11 and 12. Do not recreate obsolete variants.
+
+## BATCH SIZE
+
+The user requested **5 அதிகாரம் per iteration** when 10 cannot be processed safely.
+
+Do not claim a larger batch than was actually verified and committed.
 
 ## EXACT NEXT ACTIVITY
 
-Perform **Part 014 English source-check only** for all 20 existing draft records, scans **283–302**.
+Map the next **5 அதிகாரங்கள்: 13–17 / குறள் 121–170**:
 
-For every page:
+13. அடக்கம் உடைமை
+14. ஒழுக்கம் உடைமை
+15. பிறனில் விழையாமை
+16. பொறையுடைமை
+17. அழுக்காறாமை
 
-1. compare the English Kural lines directly against the verified Tamil Kural text and Kalaignar's adjacent interpretation;
-2. compare the English commentary paragraph-by-paragraph against Kalaignar's verified Tamil commentary;
-3. check omissions, additions, meaning drift, source gender, rhetorical questions, comparisons, images and emotional force;
-4. confirm Kural translation and commentary translation remain separate;
-5. confirm chapter and structural metadata, including **Inbam — Wedded Love**;
-6. make only source-supported corrections;
-7. promote the page from `draft` to `source-checked` only after it passes.
+For each chapter:
 
-After all 20 pages pass, update:
+1. inspect the actual canonical Tamil page records first;
+2. establish exact physical scan boundaries from repository records, not arithmetic assumptions;
+3. confirm each Tamil record is `verified`;
+4. inspect the corresponding English physical-page record and confirm it is `release-ready`;
+5. record source scan, Part, Part page, printed page and exact Kural coverage;
+6. update only the correct semantic chapter README;
+7. preserve source-controlled chapter naming and existing folder spelling;
+8. if duplicate/incorrect semantic folders are encountered, reconcile them carefully and document the correction rather than silently leaving parallel nodes;
+9. do not alter canonical Tamil or released English body text.
 
-- `works/thirukkural/translations/en/TRANSLATION_STATUS.md`;
-- `works/thirukkural/translations/en/README.md`;
-- `works/thirukkural/README.md`;
-- root `README.md` if the public project state materially changes;
-- root `HANDOVER.md`.
+After all five chapters are genuinely verified and updated, commit the batch to `main` and report the new exact mapping boundary.
 
-Then STOP.
+Then STOP. The following batch should be அதிகாரங்கள் 18–22 unless repository inspection reveals a structural issue that must be corrected first.
 
-## DO NOT DO IN THIS ACTIVITY
+## PROVENANCE RULE
 
-Do not:
+Never infer that a chapter occupies two pages merely because earlier chapters did. Verify the actual page records. If a physical page contains material from adjacent chapters, document the partial coverage precisely.
 
-- perform Part 014 editorial/glossary review in the same gate;
-- create `PART_014_RELEASE_REPORT.md`;
-- promote Part 014 pages directly to `release-ready`;
-- begin Part 015 Tamil transcription;
-- alter released English Parts 001–013 merely to harmonize later wording.
+Do not use external/memorized Thirukkural text to override the source-controlled repository edition.
 
-After Part 014 source-check passes, the next separate activity is **Part 014 English editorial consistency / glossary reconciliation**, followed by a separate release gate.
-
-Proceed with the actual repository work after reading the mandatory files. Do not respond with only a plan.
+Proceed with actual repository work after startup; do not respond with only a plan.
 
 ---
