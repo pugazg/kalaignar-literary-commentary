@@ -7,50 +7,7 @@
 - Author / commentator shown in source: **கலைஞர் மு. கருணாநிதி**
 - Language: Tamil
 - Repository page numbering follows the **overall supplied scan sequence**, not each PDF's local page number.
-
-## Supplied source parts
-
-### Part 001
-
-- Source filename: `திருக்குறள்_கலைஞர்_உரை_part_001_pages_1-20.pdf`
-- Local PDF pages: **20**
-- Overall scan range: **1–20**
-- Release state: audited / archival-ready, with scan 8 retained as a documented partial handwritten facsimile.
-- Audit: `works/thirukkural/AUDIT_PART_001.md`
-
-### Part 002
-
-- Source filename: `திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf`
-- Local PDF pages: **21**
-- Overall scan range: **21–41**
-- Continuity: Part 002 local page 1 is overall scan 21 and carries printed page **xx**, directly following Part 001 scan 20 / printed page **xix**.
-- Final status: **21/21 verified; ARCHIVAL-READY**.
-- Audit: `works/thirukkural/AUDIT_PART_002.md`
-
-### Part 003
-
-- Source filename: `திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf`
-- Local PDF pages: **21**
-- Overall scan range: **42–62**
-- Continuity: Part 003 local page 1 / overall scan 42 visibly carries printed page **9**, directly following Part 002 scan 41 / printed page **8**.
-- Printed-page range in this supplied part: **9–29**, continuous.
-- Content range: Kural **41–145** with Kalaignar's commentary.
-- Chapter range visible in this part:
-  - `5. இல்வாழ்க்கை` — Kural 41–50;
-  - `6. வாழ்க்கைத் துணைநலம்` — 51–60;
-  - `7. மக்கட்பேறு` — 61–70;
-  - `8. அன்புடைமை` — 71–80;
-  - `9. விருந்தோம்பல்` — 81–90;
-  - `10. இனியவை கூறல்` — 91–100;
-  - `11. செய்ந்நன்றியறிதல்` — 101–110;
-  - `12. நடுவு நிலைமை` — 111–120;
-  - `13. அடக்கம் உடைமை` — 121–130;
-  - `14. ஒழுக்கம் உடைமை` — 131–140;
-  - `15. பிறனில் விழையாமை` begins with Kural 141–145 on printed page 29.
-- Final processing state: **21/21 verified; 0 unresolved**.
-- Direct visual comparison of scans 42–48, 49–55, and 56–62 found no first-pass text differences; wording, source spacing, punctuation, line breaks and commentary were retained as printed.
-- Release state: **ARCHIVAL-READY**.
-- Audit: `works/thirukkural/AUDIT_PART_003.md`.
+- Source PDFs are controlling working sources and are not committed unless the user explicitly changes that policy.
 
 ## Publication details visible in Part 001
 
@@ -67,61 +24,68 @@ From overall scans 4–5:
 - அச்சிட்டவர்கள்: **ஈகிள் பிரஸ், சென்னை - 600 013**
 - Printed code visible: **P. C. No. : 98152J11**
 
-## Front-matter structure
+## Supplied source inventory
 
-The contents page in Part 001 lists:
+| Part | Source filename | Local pages | Overall scans | Printed-page / Kural boundary | Current Tamil state |
+|---|---|---:|---:|---|---|
+| 001 | `திருக்குறள்_கலைஞர்_உரை_part_001_pages_1-20.pdf` | 20 | 1–20 | front matter through xix | archival-ready; scan 8 documented partial |
+| 002 | `திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf` | 21 | 21–41 | xx–xxxi/title/blank, then printed 1–8 / Kural 1–40 | **ARCHIVAL-READY** |
+| 003 | `திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf` | 21 | 42–62 | printed 9–29 / Kural 41–145 | **ARCHIVAL-READY** |
+| 004 | `திருக்குறள்_கலைஞர்_உரை_part_004_pages_63-84.pdf` | 22 | 63–84 | Kural 146–255 | **ARCHIVAL-READY** |
+| 005 | `திருக்குறள்_கலைஞர்_உரை_part_005_pages_85-106.pdf` | 22 | 85–106 | Kural 256–365 | **ARCHIVAL-READY** |
+| 006 | `திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf` | 21 | 107–127 | Kural 366–460; includes unnumbered `பொருள்` title/blank leaves | **ARCHIVAL-READY** |
+| 007 | `திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf` | 21 | 128–148 | Kural 461–565 | **ARCHIVAL-READY** |
+| 008 | `திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf` | 21 | 149–169 | Kural 566–670 | **ARCHIVAL-READY** |
+| 009 | `திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf` | 22 | 170–191 | Kural 671–780 | **ARCHIVAL-READY** |
+| 010 | `திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf` | 23 | 192–214 | Kural 781–895 | **ARCHIVAL-READY** |
+| 011 | `திருக்குறள்_கலைஞர்_உரை_part_011_pages_215-237.pdf` | 23 | 215–237 | Kural 896–1010 | **ARCHIVAL-READY** |
+| 012 | `திருக்குறள்_கலைஞர்_உரை_part_012_pages_238-260.pdf` | 23 | 238–260 | Kural 1011–1115; includes `இன்பம்` title/blank leaves | **ARCHIVAL-READY** |
+| 013 | `திருக்குறள்_கலைஞர்_உரை_part_013_pages_261-282.pdf` | 22 | 261–282 | printed 228–249 / Kural 1116–1225 | **ARCHIVAL-READY** |
+| 014 | `திருக்குறள்_கலைஞர்_உரை_part_014_pages_283-302.pdf` | 20 | 283–302 | printed 250–269 / Kural 1226–1325 | **ARCHIVAL-READY** |
+| 015 | `திருக்குறள்_கலைஞர்_உரை_part_015_pages_303-323.pdf` | 21 | 303–323 | not yet source-inspected into archival records | supplied; **no Tamil records on `main`** |
 
-1. முகவுரை — vi
-2. முகவுரையுடன் ஒரு முன்னுரை — vii
-3. பேராசிரியரின் அணிந்துரை — viii
-4. மதிப்புரை — xii
-5. பதிப்புரை — xxvi
-6. அதிகார அகர வரிசை — xxvii
-7. அதிகார அருஞ்சொற்பொருள் அகரவரிசை — xxix
-8. அறத்துப்பால் — xxxi
-9. பொருட்பால் — 77
-10. இன்பத்துப்பால் — 219
-11. குறள் முதற்குறிப்பு அகரவரிசை — 271
+## Canonical audited extent
 
-Part 002 confirms the end of the front matter and the start of `அறம்`; Part 003 continues the same main body without a pagination break.
+Tamil archival records and audits are continuous through Part 014:
 
-## Audited states
+- overall scans **1–302** represented;
+- main-body Kural sequence represented through **1325**;
+- Parts **001–014** have audit artefacts;
+- Part 001 scan 8 remains a reviewed/documented partial handwritten facsimile;
+- Parts 002–014 are archival-ready for their supplied source units.
 
-### Part 001
+The current end boundary is:
 
-- one record for each overall scan 1–20;
-- 19 verified;
-- scan 8 reviewed but retained as a documented partial handwritten facsimile;
-- release decision: **ARCHIVAL-READY WITH ONE DOCUMENTED PARTIAL FACSIMILE**.
+- overall scan **302**;
+- printed page **269**;
+- Kural **1325**;
+- chapter 133 `ஊடலுவகை` remains open at the Part 014 boundary.
 
-### Part 002
+Do not infer Kural 1326 onward from this boundary alone. Part 015 must be inspected directly before records are created.
 
-- one record for each overall scan 21–41;
-- all 21 records verified;
-- no unresolved Part 002 page;
-- release decision: **ARCHIVAL-READY**.
+## Important structural/source observations
 
-### Part 003
+- Part 001 scan 3 is blank.
+- Part 001 scan 8 is a handwritten facsimile with signature/date **27/12/2007** and remains intentionally partial where handwriting cannot be read safely.
+- Part 002 scan 33 is blank apart from reverse-side bleed-through.
+- Part 006 contains an unnumbered `பொருள்` title leaf and blank reverse between printed pages 76 and 79; do not invent printed pages 77–78.
+- Part 012 contains the source transition into `இன்பம்`, including a title leaf and blank reverse before main-body Inbam pages.
+- Part 013 directly confirms the hierarchy transition `இன்பம் — களவியல்` → `இன்பம் — கற்பியல்` at scan 278.
+- Reverse-side bleed-through is not current-page text.
 
-- one record for each overall scan **42–62**;
-- all **21** records verified by direct visual comparison;
-- printed pages **9–29** continuous;
-- Kural range **41–145** continuous;
-- no unresolved Part 003 page;
-- release decision: **ARCHIVAL-READY**.
+## Audit references
 
-## Source condition / observations
+Tamil audit files exist continuously:
 
-- Part 001 scan 3 is visually blank.
-- Part 001 scan 8 is a handwritten facsimile with signature and date **27/12/2007**; uncertain handwriting must not be guessed.
-- Part 002 scan 33 is visually blank apart from reverse-side bleed-through.
-- Reverse-side bleed-through is visible on many pages and is not current-page text.
-- Part 003 consists of continuous printed main-body pages 9–29. Its first page begins Kural 41, which confirms direct continuity after Part 002's Kural 40 / printed page 8.
-- Part 003 contains no new edition statement; Part 001 remains the source for publication metadata.
-- The currently supplied material reaches overall scan **62** / printed book page **29** / Kural **145**. This still does **not** establish the total scan-page count of the full book.
+`works/thirukkural/AUDIT_PART_001.md` through `works/thirukkural/AUDIT_PART_014.md`.
+
+The two latest audits are:
+
+- `AUDIT_PART_013.md` — scans 261–282 / Kural 1116–1225 — **ARCHIVAL-READY**;
+- `AUDIT_PART_014.md` — scans 283–302 / Kural 1226–1325 — **ARCHIVAL-READY**.
 
 ## Authority rule
 
 The supplied scans are the controlling sources for this edition. No external Thirukkural text, later edition, web transcription, remembered Kural wording, or modernized Tamil may silently replace what is printed here.
 
-Parts 001–003 are audited for the material supplied so far. Future processing must inspect the next source scan first and establish continuity from overall scan 62 / printed page 29 / Kural 145.
+Repository status documents are secondary to the actual page records and completed audit artefacts. Older saved progress snapshots must not override current `main` state.
