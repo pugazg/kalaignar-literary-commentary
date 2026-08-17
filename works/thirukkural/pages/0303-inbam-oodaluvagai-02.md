@@ -6,13 +6,11 @@ printed_page: "270"
 work: "thirukkural"
 section: "இன்பம் — கற்பியல் — ஊடலுவகை"
 page_type: "commentary"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "திருக்குறள்_கலைஞர்_உரை_part_015_pages_303-323.pdf"
-transcription_method: "manual transcription from source scan; direct visual verification pending"
+transcription_method: "direct visual comparison with source scan"
 ---
-
-# 133. ஊடலுவகை
 
 **1326. உணலினும் உண்ட தறலினிது காமம்  
 புணர்தலின் ஊடல் இனிது.**
