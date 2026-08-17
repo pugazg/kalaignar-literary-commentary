@@ -99,28 +99,31 @@ The Part 014 → Part 015 boundary is source-confirmed as **Kural 1325 → 1326*
 
 ## Part 015 repository state
 
-All **21/21** physical-page records now exist.
+All **21/21** physical-page records exist.
 
 Verified:
 
 - scan 303 — `0303-inbam-oodaluvagai-02.md`;
 - scan 304 — `0304-kural-mutharkurippu-01.md`;
 - scan 305 — `0305-kural-mutharkurippu-02.md`;
-- scan 306 — `0306-kural-mutharkurippu-03.md`.
+- scan 306 — `0306-kural-mutharkurippu-03.md`;
+- scan 307 — `0307-kural-mutharkurippu-04.md`;
+- scan 308 — `0308-kural-mutharkurippu-05.md`;
+- scan 309 — `0309-kural-mutharkurippu-06.md`.
 
 First-pass complete but still `needs-review`:
 
-- scans **307–321** — remaining alphabetical index pages;
+- scans **310–321** — remaining alphabetical index pages;
 - scan **322** — blank leaf;
 - scan **323** — back cover.
 
-Part 015 is therefore **FIRST-PASS COMPLETE 21/21**, but **not ARCHIVAL-READY**. Do not create `AUDIT_PART_015.md` yet.
+Part 015 is therefore **FIRST-PASS COMPLETE 21/21** with **7/21 records verified**, but **not ARCHIVAL-READY**. Do not create `AUDIT_PART_015.md` yet.
 
 # Exact next activity
 
-Perform **Part 015 Tamil direct visual verification for scans 307–323**.
+Continue **Part 015 Tamil direct visual verification from scan 310 onward**.
 
-For scans 307–321:
+For scans 310–321:
 
 1. compare every index entry and Kural-number reference directly against the controlling image;
 2. preserve source-visible spacing, punctuation, hyphens and unusual forms rather than normalizing them;
@@ -129,4 +132,4 @@ For scans 307–321:
 
 For scan 322, confirm that no printed text is present and verify the blank-page record. For scan 323, confirm the plain back-cover description and verify the record.
 
-After scans 307–323 all pass, stop and perform the **Part 015 audit as a separate gate**. Only after `AUDIT_PART_015.md` passes may Part 015 English translation begin.
+After scans 310–323 all pass, stop and perform the **Part 015 audit as a separate gate**. Only after `AUDIT_PART_015.md` passes may Part 015 English translation begin.
