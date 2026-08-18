@@ -11,6 +11,24 @@ Last source intake: **2026-08-18**.
 - imported-byte SHA-256: `b58517d046eb68010c3c0cfcc5e2702a080a1f1856a56c445fb6fc43480f83ed`
 - source policy: working/control PDF is not committed to GitHub unless explicitly requested.
 
+## Verified PDF extent
+
+The actual mounted PDF has been independently inspected rather than relying on the conversation preview service.
+
+- `pdfinfo` page count: **497**;
+- scans **493–497** render successfully from the same mounted PDF;
+- scan **497** is the printed back cover;
+- supplied-source completeness: **complete through scan 497**.
+
+The earlier 150-page figure came from a conversation-file preview limit and was **not** the actual PDF page count. It must not be used as a source boundary.
+
+Current canonical scan boundary:
+
+- first scan: **1**;
+- final scan: **497**;
+- no scan **498+** record may be invented;
+- printed-page numbers must still be taken from the source itself and must never be inferred from scan arithmetic.
+
 ## Publication details visible in the source
 
 The publication-information page records:
@@ -28,18 +46,6 @@ The publication-information page records:
 - `எழுத்து : 18 புள்ளி.`
 
 Other lower production lines on the page will be transcribed only during its direct page-verification gate.
-
-## Current source-integrity warning
-
-The attachment exposed to the conversation file service contains/rendered **150 usable pages**. The mounted PDF bytes also carry a conflicting internal page-tree declaration and do not contain a clean trailer/EOF, so the later declared pages are not safely addressable as a canonical source in this session.
-
-Scan **150** is still an ongoing text page rather than end matter. Therefore:
-
-- current canonical imported fragment: **scans 1–150 only**;
-- source-completeness status: **incomplete / truncated fragment**;
-- do not create scan **151+** Markdown records;
-- do not infer the missing continuation from printed-page arithmetic or another edition;
-- if the complete PDF is supplied later, inspect the reattached source and confirm the scan 150 → 151 continuity before extending this archive.
 
 ## Front-matter observations
 
