@@ -2,12 +2,15 @@
 
 கலைஞர் மு. கருணாநிதியின் இலக்கிய உரை / விளக்க நூல்களை மூல ஸ்கேன்களின் பக்க வரிசையைக் காக்கும் வகையில் Markdown வடிவில் பாதுகாக்கும் களஞ்சியம்.
 
-## திட்டமிட்ட நூல்கள்
+Last synchronized with live `main`: **2026-08-18**.
+
+## திட்டமிட்ட / உள்ள நூல்கள்
 
 | நூல் | மொழி | நிலை |
 |---|---|---|
-| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–014 **ARCHIVAL-READY through scan 302 / printed page 269 / Kural 1325** |
-| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–013 **RELEASED through scan 282 / Kural 1225**; Part 014 **DRAFT COMPLETE 20/20; source-check pending** |
+| திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–015 **ARCHIVAL-READY through scan 323**; commentary through printed page 270 / Kural 1330 |
+| Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–015 **RELEASED through the end of the supplied volume** |
+| Thirukkural semantic structure | பால் → இயல் → அதிகாரம் | **COMPLETE — 3 பால் / 13 இயல் / 133 அதிகாரம் / 1,330 குறள் mapped** |
 | சங்கத்தமிழ் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
@@ -26,60 +29,74 @@ Source PDFs are working/control sources and are not committed unless the user ex
 1. **Published / official English source** — தனியாக வெளியிடப்பட்ட source கிடைத்தால், அதன் சொந்த pagination / wording / metadata-உடன் source-controlled edition ஆக archive செய்யப்படும்.
 2. **Project-created English translation** — audited Tamil source-இலிருந்து உருவாக்கப்படும் மொழிபெயர்ப்பு; `translation_type: "project_translation"` என்று வெளிப்படையாகக் குறிக்கப்படும்.
 
-The project translation follows an explicit fidelity rule: **retain Kalaignar's own language, images and interpretive direction; do not replace them with familiar standard Kural interpretations.**
+The project-created English translation retains Kalaignar's language, images, social vocabulary and interpretive direction. It must not silently substitute familiar standard Kural interpretations.
 
-Permanent workflow:
+Permanent source/translation cadence:
 
 **Tamil transcription → Tamil direct visual verification → Tamil audit / archival-ready → English draft → English source-check → English editorial review → English release gate.**
 
 ## Canonical current state — திருக்குறள்
 
-### Tamil
+### Tamil archival layer
 
-Parts **001–014 are audited / archival-ready continuously** through:
+Parts **001–015 are audited / archival-ready continuously** through the end of the supplied volume:
 
-- overall scan **302**;
-- printed page **269**;
-- Kural **1325**.
+- overall scans **1–323**;
+- commentary through printed page **270 / Kural 1330**;
+- scans **304–321**: `குறள் முதற்குறிப்பு அகரவரிசை`, printed pages 271–288;
+- scan **322**: blank leaf;
+- scan **323**: back cover.
 
-Part 001 retains one documented partial handwritten facsimile at scan 8. Audits exist continuously from `AUDIT_PART_001.md` through `AUDIT_PART_014.md`.
-
-Part 013 covers scans **261–282 / printed 228–249 / Kural 1116–1225** and is archival-ready.
-
-Part 014 covers scans **283–302 / printed 250–269 / Kural 1226–1325**, has **20/20 verified Tamil records**, and is **ARCHIVAL-READY**.
+Part 001 scan 8 remains the documented source-limited handwritten facsimile exception. Tamil audit artefacts exist continuously from `works/thirukkural/AUDIT_PART_001.md` through `AUDIT_PART_015.md`.
 
 ### English project translation
 
-Parts **001–013 are fully released continuously** through overall scan **282 / printed page 249 / Kural 1225**.
+English Parts **001–015 are released continuously through the end of the supplied volume**.
 
-Part 013 release artefacts:
+Current status authority:
 
-- [`works/thirukkural/AUDIT_PART_013.md`](works/thirukkural/AUDIT_PART_013.md) — Tamil **PASS / ARCHIVAL-READY**;
-- [`works/thirukkural/translations/en/reviews/PART_013_REVIEW.md`](works/thirukkural/translations/en/reviews/PART_013_REVIEW.md);
-- [`works/thirukkural/translations/en/reviews/PART_013_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_013_RELEASE_REPORT.md) — **PASS / RELEASE APPROVED**.
+- [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md)
+- [`works/thirukkural/translations/en/README.md`](works/thirukkural/translations/en/README.md)
 
-Part 014 English already has **20/20 aligned draft pages** for scans **283–302 / Kural 1226–1325**. These pages are not missing and must not be recreated. Their next gate is direct source-check against the verified Tamil records.
+Part 015's completed gate artefacts include:
 
-### Part 015
+- [`works/thirukkural/AUDIT_PART_015.md`](works/thirukkural/AUDIT_PART_015.md)
+- [`works/thirukkural/translations/en/reviews/PART_015_REVIEW.md`](works/thirukkural/translations/en/reviews/PART_015_REVIEW.md)
+- [`works/thirukkural/translations/en/reviews/PART_015_RELEASE_REPORT.md`](works/thirukkural/translations/en/reviews/PART_015_RELEASE_REPORT.md)
 
-The source file `திருக்குறள்_கலைஞர்_உரை_part_015_pages_303-323.pdf` is recorded as supplied, but **no Part 015 Tamil archival page records currently exist on `main`**. Its actual source must be inspected before any transcription begins.
+### Semantic navigation/provenance layer
+
+`works/thirukkural/structure/` is complete:
+
+- **3 / 3 பால்**;
+- **13 / 13 இயல்**;
+- **133 / 133 அதிகாரம்**;
+- **1,330 / 1,330 குறள்**.
+
+Every semantic chapter node points back to verified Tamil physical-page record(s) and corresponding released English record(s). Exact scan/Part/printed-page provenance is documented without moving or rewriting the physical-page archives.
+
+The final audit is:
+
+- [`works/thirukkural/structure/STRUCTURE_AUDIT.md`](works/thirukkural/structure/STRUCTURE_AUDIT.md) — **PASS — SEMANTIC PROVENANCE MAPPING COMPLETE**.
 
 ## Repository-state discipline
 
-Current progress must be determined from the actual `main` tree and completed audit/review/release artefacts, not from older saved prompts or historical status paragraphs.
+Current progress must be determined from the actual `main` tree and completed audit/review/release artefacts, not from stale saved prompts or historical status paragraphs.
 
-When documents disagree about progress, use:
+When documents disagree about progress, use this precedence:
 
-**actual page files → completed audits/reviews/release reports → `TRANSLATION_STATUS.md` → current handover/READMEs → older continuation documents.**
+**actual page files → completed Tamil audits / English review-release reports → translation status → completed structure audit → current handover / current READMEs → explicitly historical snapshots.**
+
+Historical Part-specific handovers/prompts remain in the repository as provenance and are not current workflow instructions.
 
 ## அடுத்த செயல்
 
-Perform the separate **Part 014 English source-check gate** for all 20 existing draft records, scans **283–302**.
+There is **no unfinished Thirukkural source transcription, Tamil audit, English translation/release, or semantic chapter mapping** for the supplied volume.
 
-Compare each English draft directly against the corresponding verified Tamil archival record. Make only source-supported corrections and promote passing pages to `source-checked`. Stop after that gate; do not combine it with editorial review, release, or Part 015 Tamil work.
+Do not infer continuation after Kural **1330**. Future work should begin from either:
 
-Detailed current state:
+- a newly supplied Thirukkural source, supplement or alternate edition;
+- another Kalaignar literary-commentary work;
+- or a separately defined enhancement/audit task that does not silently alter released source-controlled text.
 
-- [`HANDOVER.md`](HANDOVER.md)
-- [`works/thirukkural/README.md`](works/thirukkural/README.md)
-- [`works/thirukkural/translations/en/TRANSLATION_STATUS.md`](works/thirukkural/translations/en/TRANSLATION_STATUS.md)
+Current handover: [`HANDOVER.md`](HANDOVER.md).
