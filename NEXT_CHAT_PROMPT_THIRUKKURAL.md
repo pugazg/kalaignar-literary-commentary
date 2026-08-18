@@ -88,6 +88,31 @@ The Part 012 → Part 013 sequence is continuous with no textual gap.
 
 Do not restart or rewrite chapters 1–112.
 
+## IMPORTANT STOP/INTERRUPTION STATE
+
+A previous attempt to continue chapters **113–117 / Kurals 1121–1170** was started and then explicitly stopped by the user before the provenance-verification gate was completed.
+
+The interrupted attempt established only the following reusable facts:
+
+- the mandatory startup documents had been read;
+- `AUDIT_PART_013.md` and the live semantic tree confirm the correct chapter sequence;
+- chapter 115 is the final `களவியல்` chapter;
+- chapter 116 / Kural 1151 begins `கற்பியல்`;
+- exploratory source-page lookup had started.
+
+The interrupted attempt did **not** complete:
+
+- verification of all ten Tamil physical-page records for chapters 113–117;
+- verification of all ten corresponding English release records;
+- readback/update of all five semantic chapter READMEs;
+- any semantic mapping commit for chapters 113–117.
+
+No canonical Tamil body record or released English body record was changed either.
+
+Before the handover/prompt synchronization that records this interruption, `main` was still at `27bd6512fd243cbb4ddf0ebd614ce7666adc234f`, a coordination-document commit. Therefore **the authoritative completed semantic boundary remains chapter 112 / Kural 1120**.
+
+Do not treat partial lookups from the interrupted attempt as completed provenance verification. Restart the next batch from Gate A below and verify all records from live `main`.
+
 ## CRITICAL INBAM HIERARCHY
 
 The live semantic tree and `AUDIT_PART_013.md` establish the next sequence exactly.
@@ -129,7 +154,7 @@ However, **do not infer individual chapter/page boundaries arithmetically**. Bef
 
 ### Gate A — Tamil provenance verification
 
-Fetch the ten canonical Tamil page records covering the chapter 113–117 sequence from:
+Fetch **all ten** canonical Tamil page records covering the chapter 113–117 sequence from:
 
 `works/thirukkural/pages/`
 
@@ -144,11 +169,11 @@ For every record, verify:
 - section / chapter heading;
 - any source-sensitive punctuation, spelling or direct-verification correction.
 
-Do not use remembered or external Thirukkural wording to override these records.
+Do not rely on the incomplete lookups from the stopped attempt. Do not use remembered or external Thirukkural wording to override these records.
 
 ### Gate B — English release verification
 
-Fetch the ten corresponding records from:
+Fetch **all ten** corresponding records from:
 
 `works/thirukkural/translations/en/pages/`
 
@@ -169,7 +194,7 @@ Do not guess path spellings and do not create parallel folders.
 
 ### Gate D — Write the five mappings
 
-Update only the five semantic chapter READMEs for chapters 113–117.
+Only after Gates A–C are complete, update the five semantic chapter READMEs for chapters 113–117.
 
 Each mapped README must include:
 
@@ -223,7 +248,7 @@ Do not modify:
 - archival Part audits;
 - already mapped chapters 1–112.
 
-The handover/prompt documents have already been synchronized to this boundary. Ordinary chapter mapping should not rewrite them again unless the user requests it or the workflow itself changes.
+The handover/prompt documents now record the interrupted state. Ordinary chapter mapping should not rewrite them again unless the user requests it or the workflow itself changes.
 
 ## FINAL VERIFICATION AND STOP CONDITION
 
