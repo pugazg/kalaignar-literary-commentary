@@ -10,8 +10,8 @@
 
 - `not-started` — page record/metadata exists but continuous source text has not yet been transcribed;
 - `partial` — only securely readable portions have been recorded;
-- `needs-review` — full first pass exists but direct character-level comparison remains;
-- `verified` — directly compared with the scan;
+- `needs-review` — full first pass exists but direct character-level and/or visual-text comparison remains;
+- `verified` — directly compared with the scan for both textual fidelity and meaningful visual text fidelity;
 - `blocked` — source defect prevents safe completion.
 
 ## source-fragment boundary
@@ -25,7 +25,9 @@ Current work is limited to scans 1–150 of the supplied fragment. No 151+ recor
 - poem number அல்லது poet attribution-ஐ வெளிப்புற அறிவால் அமைதியாகத் திருத்துதல்;
 - தெளிவில்லாத கையெழுத்தை context வைத்து நிரப்புதல்;
 - ஓவியத்தில் source label இல்லாத நபரை appearance மூலம் அடையாளப்படுத்துதல்;
-- printed page number தெரியாத இடத்தில் arithmetic வைத்து எண்ணை உருவாக்குதல்.
+- printed page number தெரியாத இடத்தில் arithmetic வைத்து எண்ணை உருவாக்குதல்;
+- cropped/damaged source-ல் மறைந்த எழுத்தையோ layout-ஐயோ sentence meaning வைத்து reconstruct செய்தல்;
+- source-ல் இல்லாத stanza break, alignment, emphasis அல்லது decorative grouping உருவாக்குதல்.
 
 ## கவிதை / மேற்கோள் / பொருள் விளக்கம்
 
@@ -35,9 +37,52 @@ Current work is limited to scans 1–150 of the supplied fragment. No 151+ recor
 - `பொருள் விளக்கம்` தனி source block ஆக வைக்க வேண்டும்;
 - Kalaignar explanation மற்றும் quoted Sangam verse ஒன்றாகக் கலக்கக் கூடாது.
 
+## visual text fidelity
+
+Text correctness மட்டும் போதாது. Source-இன் meaningful visual organization-யும் பாதுகாக்கப்பட வேண்டும்.
+
+Direct verification-ல் பின்வருவன source-உடன் ஒப்பிடப்பட வேண்டும்:
+
+- கவிதை வரி முறிவு மற்றும் stanza grouping;
+- prose paragraph boundaries;
+- indentation / hanging indentation;
+- centered அல்லது deliberate alignment கொண்ட heading/line;
+- decorative heading hierarchy;
+- தனியாக அமைந்த quotation / Sangam citation block;
+- `பொருள் விளக்கம்` block placement;
+- list grouping மற்றும் numbering;
+- `*`, rules, ornamental separators மற்றும் section breaks;
+- structural meaning கொண்ட bold / underline / enlarged emphasis;
+- running header, printed page number, footer போன்ற page furniture;
+- caption மற்றும் image-க்கு உடனான text relationship;
+- physical page boundary-ஐ கடந்து தொடரும் sentence / paragraph / poem continuity.
+
+Exact font face, font size, colour, kerning அல்லது ornamental artwork-ஐ pixel-perfect ஆக reproduce செய்ய வேண்டியதில்லை. ஆனால் source-visible structure மற்றும் hierarchy மாற்றப்படக்கூடாது.
+
+Markdown மட்டும் போதாத meaningful alignment இருந்தால் limited HTML பயன்படுத்தலாம். Exact spatial placement faithfully represent செய்ய முடியாவிட்டால், text-ஐ பாதுகாத்து factual `visual_notes` அல்லது HTML source comment மூலம் arrangement-ஐ பதிவு செய்ய வேண்டும்.
+
+Recommended optional front-matter fields:
+
+```yaml
+visual_fidelity: "needs-review"
+visual_notes: "decorative centered heading; verse block; citation block"
+```
+
+Direct source comparison முடிந்த பிறகே:
+
+```yaml
+visual_fidelity: "verified"
+```
+
+என மாற்ற வேண்டும்.
+
+Source crop/damage காரணமாக layout அல்லது text block முழுமையாகத் தெரியாவிட்டால் page `verified` ஆகக் கூடாது; `partial`, `needs-review` அல்லது `blocked` ஆகவே இருக்க வேண்டும்.
+
 ## ஓவியப் பக்கங்கள்
 
 Printed caption இருந்தால் verbatim transcription. Caption இல்லையெனில் factual visual description மட்டும்.
+
+Text மற்றும் illustration ஒரே பக்கத்தில் இருந்தால், illustration text blocks-க்கு இடையில் இருக்கிறதா, caption உடன் இருக்கிறதா போன்ற source-supported spatial relationship-ஐ factual note ஆக பதிவு செய்ய வேண்டும்.
 
 ## section README
 
@@ -45,4 +90,9 @@ Decorative heading மூலம் தொடங்கும் thematic units `s
 
 ## verification gate
 
-`verified` status requires direct visual comparison with the scan. OCR/search snippets are never sufficient.
+`verified` status requires direct visual comparison with the scan for **both**:
+
+1. textual fidelity — characters, words, punctuation, line content and order;
+2. visual text fidelity — lineation, paragraph/stanza/block structure, heading hierarchy, separators, emphasis and text/image relationship.
+
+OCR/search snippets are never sufficient.
