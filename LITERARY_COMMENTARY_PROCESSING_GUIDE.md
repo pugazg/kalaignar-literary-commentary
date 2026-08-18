@@ -89,7 +89,14 @@ Tamil archival status:
 - `verified`
 - `blocked`
 
-`verified` என்பது scan-ஐ நேரடியாகப் பார்த்து உறுதிப்படுத்திய பின்னரே பயன்படுத்த வேண்டும்.
+`verified` என்பது scan-ஐ நேரடியாகப் பார்த்து **textual fidelity மற்றும் meaningful visual text fidelity இரண்டையும்** உறுதிப்படுத்திய பின்னரே பயன்படுத்த வேண்டும்.
+
+Meaningful page structure உள்ள works-க்கு optional fields பயன்படுத்தலாம்:
+
+```yaml
+visual_fidelity: "needs-review"
+visual_notes: "centered heading; verse block; illustration between text blocks"
+```
 
 ## 4. Printed text vs non-text marks
 
@@ -104,6 +111,8 @@ Tamil archival status:
 - photograph / illustration.
 
 ஒரு கையெழுத்து வாசிக்கத் தெளிவில்லையெனில் அதன் முழு உரையை ஊகிக்க வேண்டாம். `partial` எனக் குறித்துப் factual visual description மட்டும் தரலாம்.
+
+Source crop, binding shadow, damage அல்லது scan loss காரணமாக text/layout மறைந்திருந்தாலும் context வைத்து reconstruct செய்யக்கூடாது; `partial` அல்லது `blocked` நிலை பயன்படுத்த வேண்டும்.
 
 ## 5. இலக்கிய உரைகளுக்கான கூடுதல் விதிகள்
 
@@ -121,6 +130,33 @@ Commentary paragraph boundaries மற்றும் emphasis-ஐ சாத்�
 
 முகவுரை, அணிந்துரை, மதிப்புரை, பதிப்புரை, உள்ளுறை/contents போன்றவை body commentary-யிலிருந்து தனித்த section-ஆகப் பதிவு செய்யப்பட வேண்டும்.
 
+### Visual text fidelity
+
+Text transcription என்பது characters மட்டும் அல்ல; source-இன் **meaningful visual organization**-ஐயும் பாதுகாக்க வேண்டும்.
+
+Direct visual verification-ல் source-supported அளவில் பின்வருவன சரிபார்க்கப்பட வேண்டும்:
+
+- verse line breaks மற்றும் stanza grouping;
+- prose paragraph boundaries;
+- indentation / hanging indentation;
+- centered, right-aligned அல்லது deliberate alignment கொண்ட heading/line;
+- decorative heading hierarchy;
+- தனி quotation / citation / gloss blocks;
+- numbered or lettered list grouping;
+- asterisks, rules, ornamental separators மற்றும் section breaks;
+- structural meaning கொண்ட bold / underline / enlarged emphasis;
+- running headers, printed page numbers மற்றும் footers ஆகியவற்றை body text-ல் அமைதியாக கலக்காமல் page furniture ஆகப் பதிவு செய்தல்;
+- captions மற்றும் image-க்கு உடனான text relationship;
+- physical page boundary-ஐ கடந்து தொடரும் sentence / paragraph / poem continuity.
+
+Exact font face, point size, colour, kerning அல்லது decorative artwork-ஐ pixel-perfect ஆக reproduce செய்ய வேண்டியதில்லை. நோக்கம் **semantic visual fidelity**, facsimile recreation அல்ல.
+
+Markdown meaningful structure-ஐ காக்க முடியாத இடத்தில் limited HTML பயன்படுத்தலாம். Exact spatial placement reproduce செய்ய முடியாவிட்டால் text-ஐ faithful-ஆகப் பாதுகாத்து factual `visual_notes` அல்லது HTML comment மூலம் arrangement-ஐ பதிவு செய்யவும்.
+
+Source-ல் இல்லாத alignment, stanza break, emphasis அல்லது decorative grouping உருவாக்கக்கூடாது.
+
+ஒரு page-ல் characters சரியாக இருந்தாலும் meaningful lineation/block structure தவறாக இருந்தால் அது `verified` அல்ல.
+
 ## 6. Tamil source batch workflow
 
 1. PDF scan identity மற்றும் page count உறுதி செய்.
@@ -130,7 +166,7 @@ Commentary paragraph boundaries மற்றும் emphasis-ஐ சாத்�
 5. சிறிய batch-ஆக page transcription செய்.
 6. தெளிவில்லாதவை `partial` அல்லது `needs-review` ஆக வைத்திரு.
 7. batch முடிந்ததும் work README மற்றும் `HANDOVER.md` புதுப்பி.
-8. இறுதி visual comparison முடிந்த பின் மட்டும் `verified` மாற்று.
+8. இறுதி textual + visual text fidelity comparison முடிந்த பின் மட்டும் `verified` மாற்று.
 9. ஒரு supplied part முழுவதும் review ஆன பிறகு audit file உருவாக்கி archival release decision பதிவு செய்.
 
 ## 7. Project-created English translation workflow
@@ -140,7 +176,7 @@ Project translation ஒரு Tamil PDF part **audited / archival-ready** ஆன
 நிரந்தர cadence:
 
 1. Tamil transcription complete;
-2. Tamil direct visual verification complete;
+2. Tamil direct textual + visual verification complete;
 3. Tamil part audit complete;
 4. English page-aligned first-pass translation;
 5. English source-check against verified Tamil record;
