@@ -289,21 +289,32 @@ When progress documents disagree, use this precedence:
 1. actual page files on `main` and their metadata;
 2. completed Tamil audits and English review/release reports;
 3. `TRANSLATION_STATUS.md`;
-4. current handover/READMEs;
-5. older status snapshots.
+4. completed semantic structure audit where relevant;
+5. current handover/READMEs;
+6. older status snapshots.
 
 Permanent fidelity rules remain binding even when an old document's progress section is stale.
 
-## 20. Current workflow point
+## 20. Current workflow point — COMPLETE BASELINE
 
-Tamil Parts **001–014 are audited / ARCHIVAL-READY continuously** through overall scan **302 / printed page 269 / Kural 1325**.
+Last synchronized with live `main`: **2026-08-18**.
 
-English Parts **001–013 are fully released continuously** through overall scan **282 / printed page 249 / Kural 1225**.
+Tamil Parts **001–015 are audited / ARCHIVAL-READY continuously** through the end of the supplied volume:
 
-Part **014 English first pass is complete 20/20** for scans **283–302 / printed pages 250–269 / Kural 1226–1325**. All 20 pages currently remain `draft`.
+- scans **1–323**;
+- commentary through printed page **270 / Kural 1330**;
+- back matter through printed page **288**;
+- scan 322 blank;
+- scan 323 back cover.
 
-The active next gate is the separate **Part 014 English source-check**. Compare every existing draft against the verified Tamil archival record, make only source-supported corrections, and promote passing pages to `source-checked`. Do not combine source-check with editorial review or release.
+English Parts **001–015 are RELEASED continuously** through the end of the same supplied volume.
 
-Part 013's reviewed structural decision `கற்பியல்` → **Wedded Love** is controlled for subsequent Part 014 metadata unless actual source evidence requires a documented revision.
+The final commentary translation boundary is scan **303 / printed page 270 / Kural 1330**. Part 015's review and release reports are complete, and `TRANSLATION_STATUS.md` records no unreleased Thirukkural material.
 
-Part 015 Tamil archival work has not started on `main` and must not begin during the Part 014 English source-check gate.
+The semantic navigation/provenance layer is also complete for **3 பால் / 13 இயல் / 133 அதிகாரம் / 1,330 குறள்**.
+
+There is therefore **no active translation gate** for the supplied volume. Do not restart Part 014 source-check, Part 015 drafting/review/release, or earlier released Parts merely for stylistic harmonization.
+
+The reviewed structural terminology remains controlled for future comparable work. In particular, where the physical source uses `இன்பம் — கற்பியல்`, the released project translation uses **Inbam — Wedded Love**; chapter 133 `ஊடலுவகை` is released as **Joy of Lovers' Quarrel**.
+
+If a new source is supplied, begin a new source-specific workflow after direct inspection. A published English edition must be archived separately and must not overwrite this completed project translation.
