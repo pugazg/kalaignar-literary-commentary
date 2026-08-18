@@ -154,6 +154,31 @@ Chapter 112 itself crosses a source-Part boundary:
 
 The Part 012 → Part 013 transition is continuous at Kural **1115 → 1116**.
 
+## Interrupted 113–117 attempt — important current state
+
+A continuation attempt for chapters **113–117 / Kurals 1121–1170** was started on 2026-08-18 and then explicitly stopped by the user before the provenance gate was completed.
+
+What was established during that attempt:
+
+- mandatory startup/guideline reading had been completed;
+- live `main` had not advanced beyond the existing coordination-document state;
+- `AUDIT_PART_013.md` and the live semantic hierarchy confirm the correct chapter sequence and the **களவியல் → கற்பியல்** transition at chapter 116;
+- exploratory source-record lookup began.
+
+What was **not** completed:
+
+- the ten Tamil physical-page records for chapters 113–117 were not all fetched and verified as a complete gate;
+- the ten corresponding English release records were not all verified as a complete gate;
+- the five semantic chapter README skeletons were not all read and updated;
+- no semantic README for chapters 113–117 was changed;
+- no canonical Tamil or released English body record was changed.
+
+Before this handover update, live `main` was still at commit `27bd6512fd243cbb4ddf0ebd614ce7666adc234f`, whose commit message was `Update Thirukkural continuation prompt for chapters 113-117`. That confirms that the interrupted attempt produced **no chapter-mapping commit**.
+
+Therefore the authoritative semantic completion boundary remains **chapter 112 / Kural 1120**.
+
+Treat all partial lookups from the interrupted attempt as exploratory only. A future session must repeat/complete the live provenance verification before writing chapters 113–117.
+
 ## Current Inbam hierarchy and next structural transition
 
 The live semantic tree and Part 013 audit establish the following source-controlled hierarchy:
@@ -228,7 +253,7 @@ The GitHub Contents API may create one linear commit per README update. That is 
 
 # Exact next activity
 
-Map the next **5 அதிகாரங்கள்: 113–117 / குறள் 1121–1170**.
+Restart the next **5 அதிகாரங்கள்: 113–117 / குறள் 1121–1170** from the provenance-verification gate. Do **not** resume as though the interrupted attempt had completed any source-page verification.
 
 Source-controlled chapter sequence from `AUDIT_PART_013.md`:
 
@@ -243,10 +268,10 @@ Working scan expectation from the continuous Part 013 sequence is scans **262–
 For the next batch:
 
 1. fetch current live `main` HEAD first;
-2. fetch and inspect the ten canonical Tamil page records covering the 113–117 sequence; confirm `status: verified` and exact page-level provenance;
-3. fetch the ten corresponding English page records; confirm `status: release-ready` and `source_tamil_status: verified`;
+2. fetch and inspect all ten canonical Tamil page records covering the 113–117 sequence; confirm `status: verified` and exact page-level provenance;
+3. fetch all ten corresponding English page records; confirm `status: release-ready` and `source_tamil_status: verified`;
 4. fetch all five existing semantic chapter README skeletons / paths from the live tree;
-5. update only those five semantic chapter READMEs, sequentially;
+5. only after Gates 2–4 are complete, update the five semantic chapter READMEs sequentially;
 6. preserve exact source-controlled wording, punctuation, chapter titles and existing folder spellings;
 7. record the `களவியல் → கற்பியல்` transition at chapter 116 where appropriate;
 8. do not alter canonical Tamil or released English body text;
