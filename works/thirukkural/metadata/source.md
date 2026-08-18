@@ -1,5 +1,7 @@
 # மூலப் பதிவு — திருக்குறள்: கலைஞர் உரை
 
+Last synchronized with live `main`: **2026-08-18**.
+
 ## Work identity
 
 - Work title: **திருக்குறள்**
@@ -42,26 +44,36 @@ From overall scans 4–5:
 | 012 | `திருக்குறள்_கலைஞர்_உரை_part_012_pages_238-260.pdf` | 23 | 238–260 | Kural 1011–1115; includes `இன்பம்` title/blank leaves | **ARCHIVAL-READY** |
 | 013 | `திருக்குறள்_கலைஞர்_உரை_part_013_pages_261-282.pdf` | 22 | 261–282 | printed 228–249 / Kural 1116–1225 | **ARCHIVAL-READY** |
 | 014 | `திருக்குறள்_கலைஞர்_உரை_part_014_pages_283-302.pdf` | 20 | 283–302 | printed 250–269 / Kural 1226–1325 | **ARCHIVAL-READY** |
-| 015 | `திருக்குறள்_கலைஞர்_உரை_part_015_pages_303-323.pdf` | 21 | 303–323 | not yet source-inspected into archival records | supplied; **no Tamil records on `main`** |
+| 015 | `திருக்குறள்_கலைஞர்_உரை_part_015_pages_303-323.pdf` | 21 | 303–323 | printed 270 / Kural 1326–1330; printed 271–288 first-word index; blank/back cover | **ARCHIVAL-READY — 21/21 verified** |
 
-## Canonical audited extent
+## Canonical audited extent — COMPLETE
 
-Tamil archival records and audits are continuous through Part 014:
+Tamil archival records and audits are continuous through **Part 015**, the end of the supplied volume:
 
-- overall scans **1–302** represented;
-- main-body Kural sequence represented through **1325**;
-- Parts **001–014** have audit artefacts;
+- overall scans **1–323** represented;
+- commentary through printed page **270**;
+- Kural sequence through **1330**;
+- scans **304–321 / printed pages 271–288**: `குறள் முதற்குறிப்பு அகரவரிசை`;
+- scan **322**: unnumbered blank leaf;
+- scan **323**: back cover;
+- Parts **001–015** have audit artefacts;
 - Part 001 scan 8 remains a reviewed/documented partial handwritten facsimile;
-- Parts 002–014 are archival-ready for their supplied source units.
+- Parts 002–015 are archival-ready for their supplied source units.
 
-The current end boundary is:
+The final commentary boundary is:
 
-- overall scan **302**;
-- printed page **269**;
-- Kural **1325**;
-- chapter 133 `ஊடலுவகை` remains open at the Part 014 boundary.
+- overall scan **303**;
+- Part **015 local page 1**;
+- printed page **270**;
+- chapter **133 — ஊடலுவகை**;
+- Kurals **1326–1330**, ending at Kural **1330**.
 
-Do not infer Kural 1326 onward from this boundary alone. Part 015 must be inspected directly before records are created.
+The Part 014 → Part 015 continuity is source-confirmed:
+
+- scan 302 / printed page 269 / Kural 1325 →
+- scan 303 / printed page 270 / Kural 1326.
+
+Do not infer any Kural continuation after 1330. The remaining supplied pages are back matter and cover material.
 
 ## Important structural/source observations
 
@@ -70,19 +82,28 @@ Do not infer Kural 1326 onward from this boundary alone. Part 015 must be inspec
 - Part 002 scan 33 is blank apart from reverse-side bleed-through.
 - Part 006 contains an unnumbered `பொருள்` title leaf and blank reverse between printed pages 76 and 79; do not invent printed pages 77–78.
 - Part 012 contains the source transition into `இன்பம்`, including a title leaf and blank reverse before main-body Inbam pages.
-- Part 013 directly confirms the hierarchy transition `இன்பம் — களவியல்` → `இன்பம் — கற்பியல்` at scan 278.
+- Part 013 physical-page metadata retains `இன்பம் — களவியல்` through scan **277** and first shows `இன்பம் — கற்பியல்` at scan **278**.
+- The separate semantic hierarchy places chapters **116–133** under `கற்பியல்`; this semantic/physical difference is documented as provenance and is not used to rewrite the physical page records.
+- Part 015 scan 303 completes chapter 133; scans 304–321 are the first-word index, scan 322 is blank, scan 323 is the back cover.
 - Reverse-side bleed-through is not current-page text.
 
 ## Audit references
 
 Tamil audit files exist continuously:
 
-`works/thirukkural/AUDIT_PART_001.md` through `works/thirukkural/AUDIT_PART_014.md`.
+`works/thirukkural/AUDIT_PART_001.md` through `works/thirukkural/AUDIT_PART_015.md`.
 
-The two latest audits are:
+The three latest audits are:
 
 - `AUDIT_PART_013.md` — scans 261–282 / Kural 1116–1225 — **ARCHIVAL-READY**;
-- `AUDIT_PART_014.md` — scans 283–302 / Kural 1226–1325 — **ARCHIVAL-READY**.
+- `AUDIT_PART_014.md` — scans 283–302 / Kural 1226–1325 — **ARCHIVAL-READY**;
+- `AUDIT_PART_015.md` — scans 303–323 / Kural 1326–1330 plus back matter — **PASS / ARCHIVAL-READY**.
+
+## Related completed layers
+
+- English project translation Parts **001–015** are released through the end of the supplied volume.
+- Semantic provenance mapping under `works/thirukkural/structure/` is complete for **3 பால் / 13 இயல் / 133 அதிகாரம் / 1,330 குறள்**.
+- `works/thirukkural/structure/STRUCTURE_AUDIT.md` records the final semantic audit result.
 
 ## Authority rule
 
