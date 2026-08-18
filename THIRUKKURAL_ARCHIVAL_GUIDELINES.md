@@ -4,6 +4,8 @@ This document is the work-specific operating guide for `works/thirukkural/` in `
 
 It supplements the repository-level `LITERARY_COMMENTARY_PROCESSING_GUIDE.md`. If there is any ambiguity, the source scan and the stricter source-preservation rule govern.
 
+Last synchronized with the completed supplied-volume baseline: **2026-08-18**.
+
 ## 1. Controlling-source rule
 
 > **The supplied scan is the controlling source.**
@@ -198,8 +200,9 @@ At the beginning of every continuation session:
 2. read this file completely;
 3. read the relevant work README;
 4. if English work is active, read `TRANSLATION_GUIDE.md`, `GLOSSARY.md`, `TRANSLATION_STATUS.md`, and the previous completed review/release report as the model;
-5. inspect the actual source pages needed for the current activity;
-6. inspect existing target files before writing, and continue them rather than creating duplicates.
+5. if semantic/provenance work is active, read `structure/README.md`, `structure/CHAPTER_README_POLICY.md` and `structure/STRUCTURE_AUDIT.md`;
+6. inspect the actual source pages needed for the current activity;
+7. inspect existing target files before writing, and continue them rather than creating duplicates.
 
 Repository state outranks conversational summaries. If a previous message and GitHub disagree, inspect the files and proceed from the repository's actual state.
 
@@ -211,16 +214,95 @@ At the end of each activity:
 
 - update statuses only for pages actually completed;
 - synchronize the work README and root README when project state changes materially;
-- update `HANDOVER.md` with the exact next activity;
+- update `HANDOVER.md` with the exact next activity or explicit completed baseline;
 - document corrections and protected translation decisions;
 - stop at the requested gate.
 
 Never claim a later gate is complete before its artefacts and page statuses exist in GitHub.
 
-## 14. Current work sequence
+## 14. Permanent source/translation sequence
 
-The permanent sequence is:
+For a new source Part, the permanent sequence is:
 
 **Tamil transcription → Tamil direct visual verification → Tamil audit / archival-ready → English draft → English source-check → English editorial review → English release gate.**
 
 Only after the current Part reaches the required gate should the next Part begin, unless the user explicitly instructs otherwise.
+
+This sequence remains the rule for future new source material even though the currently supplied Parts 001–015 have completed it.
+
+## 15. Semantic structure / provenance layer
+
+The completed non-destructive semantic hierarchy is:
+
+`works/thirukkural/structure/`
+
+Hierarchy:
+
+**பால் → இயல் → அதிகாரம்**
+
+The semantic layer must remain separate from the physical-page archives.
+
+Canonical physical layers:
+
+- Tamil: `works/thirukkural/pages/`;
+- released English: `works/thirukkural/translations/en/pages/`.
+
+A semantic chapter README may record an exact physical boundary only after verification from actual canonical page records. It must capture the information required by `structure/CHAPTER_README_POLICY.md`, including exact scan(s), source Part(s), Part-local page(s), printed page(s), Kural coverage, Tamil/English paths, verification and any material source-sensitive notes.
+
+Never:
+
+- infer scan boundaries because most chapters use a similar physical pattern;
+- move or duplicate page records into chapter folders;
+- rewrite released English or canonical Tamil to make semantic labels uniform;
+- create normalized duplicate chapter folders because spacing or joining differs;
+- treat a source Part boundary as a semantic chapter break when Kural continuity is intact.
+
+### Semantic / physical metadata discrepancies
+
+If semantic classification and physical archive metadata differ, preserve both and document the discrepancy.
+
+The completed controlling example is Inbam:
+
+- semantic chapters **109–115** → `களவியல்`;
+- semantic chapters **116–133** → `கற்பியல்`;
+- physical archive retains `களவியல்` / `Clandestine Love` through scan **277**;
+- scan **278** is the first physical `கற்பியல்` / `Wedded Love` page.
+
+Chapters 116–121 document this transition. Do not normalize the physical archive retroactively.
+
+### Cross-Part chapter continuity
+
+A semantic chapter can span source Parts. Verified examples include:
+
+- chapter 112: Part 012 → Part 013;
+- chapter 123: Part 013 → Part 014;
+- chapter 133: Part 014 → Part 015.
+
+Record both physical records inside one semantic chapter node when chapter/Kural continuity is uninterrupted.
+
+## 16. Completed supplied-volume baseline
+
+As of **2026-08-18**, the supplied Thirukkural volume has completed all currently defined phases:
+
+### Tamil
+
+- Parts **001–015** archival-ready;
+- scans **1–323** represented;
+- commentary ends at printed page **270 / Kural 1330**;
+- scans 304–321 are the first-word index;
+- scan 322 blank;
+- scan 323 back cover.
+
+### English project translation
+
+- Parts **001–015** released through the end of the supplied volume.
+
+### Semantic provenance
+
+- **3 / 3 பால்**;
+- **13 / 13 இயல்**;
+- **133 / 133 அதிகாரம்**;
+- **1,330 / 1,330 குறள்**;
+- final semantic audit: `works/thirukkural/structure/STRUCTURE_AUDIT.md` — **PASS**.
+
+There is no unfinished current Part or semantic chapter to continue. Do not manufacture work after Kural 1330. A future activity must come from a newly supplied source or a separately defined enhancement/audit task.
