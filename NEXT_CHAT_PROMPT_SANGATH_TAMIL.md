@@ -30,11 +30,15 @@ Then inspect current `main` and the actual attached source before writing.
 
 The scan is authoritative. Do not silently modernize, normalize, correct or replace Kalaignar's Tamil or any Sangam quotation from memory, the web or another edition.
 
-Preserve poetry lineation, prose paragraphs, decorative headings, source-work labels, poem numbers, poet attributions and `பொருள் விளக்கம்` exactly as printed.
+Preserve textual fidelity **and visual text fidelity**: poetry lineation, prose paragraphs, indentation/block structure, decorative headings, separators, source-work labels, poem numbers, poet attributions, `பொருள் விளக்கம்`, and meaningful text/image relationships exactly as source-supported.
 
-## Current source-integrity boundary
+## Current source boundary
 
-The current supplied attachment is documented only as a usable **scan 1–150 fragment**. Do not create scan 151+ records or declare the volume complete until a complete source is supplied and inspected.
+The supplied PDF has been independently confirmed as **497 scans**. Scan **497 is the back cover**. The earlier 150-page figure was a preview-service limitation and is retired.
+
+- canonical source range: **1–497**;
+- do not create scan 498+ records;
+- do not infer printed pagination from scan arithmetic.
 
 ## Current exact next activity
 
@@ -45,10 +49,10 @@ Finish the front-matter text gate:
 - `அணிந்துரை`;
 - `பதிப்புரை`.
 
-Transcribe directly from the scan, preserve wording/lineation, then visually verify each completed page before promoting it to `verified`.
+Transcribe directly from the actual PDF render, preserve wording and meaningful visual organization, then compare each completed page directly with the scan before promoting it to `verified`.
 
 After scans 9–14 are complete, process the first body section:
 
 `மலர்மாரி பொழிகின்றேன்!` — scans 17–19.
 
-Do not jump ahead to bulk transcription merely because later decorative section boundaries are visible.
+Continue progressively through the complete 497-scan source; do not skip ahead merely because later decorative section boundaries are visible.
