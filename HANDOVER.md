@@ -6,190 +6,255 @@ Last synchronized with live `main`: **2026-08-18**.
 
 `pugazg/kalaignar-literary-commentary`
 
-Current completed work: `works/thirukkural/`
+Current active work:
 
-The supplied **திருக்குறள் — கலைஞர் உரை** volume has completed all currently defined archival, translation and semantic-provenance phases.
+`works/sangatamil/`
 
-## Mandatory startup for future Thirukkural work
+Completed baseline retained:
 
-Before making any Thirukkural repository change, read completely:
+`works/thirukkural/`
 
-1. `NEXT_CHAT_PROMPT_THIRUKKURAL.md`
-2. `THIRUKKURAL_ARCHIVAL_GUIDELINES.md`
-3. `LITERARY_COMMENTARY_PROCESSING_GUIDE.md`
-4. root `HANDOVER.md`
-5. `works/thirukkural/README.md`
-6. `works/thirukkural/metadata/source.md`
-7. `works/thirukkural/indexes/page-map.md`
-8. `works/thirukkural/structure/README.md`
-9. `works/thirukkural/structure/CHAPTER_README_POLICY.md`
-10. `works/thirukkural/structure/STRUCTURE_AUDIT.md`
-11. `works/thirukkural/translations/en/TRANSLATION_GUIDE.md`
-12. `works/thirukkural/translations/en/TRANSLATION_STATUS.md`
+# Mandatory startup — active சங்கத் தமிழ் work
 
-Then inspect current GitHub `main`. Repository state is authoritative over stale SHAs or historical progress paragraphs.
+Before making any Sangath Tamil repository change, read completely:
 
-## Repository-state precedence
+1. `LITERARY_COMMENTARY_PROCESSING_GUIDE.md`
+2. `SANGATH_TAMIL_ARCHIVAL_GUIDELINES.md`
+3. root `HANDOVER.md`
+4. `NEXT_CHAT_PROMPT_SANGATH_TAMIL.md`
+5. `works/sangatamil/README.md`
+6. `works/sangatamil/metadata/source.md`
+7. `works/sangatamil/metadata/transcription-policy.md`
+8. `works/sangatamil/indexes/page-map.md`
+9. `works/sangatamil/indexes/section-register.md`
+10. `works/sangatamil/indexes/source-citation-register.md`
 
-When documents disagree about current progress, use this order:
+Then inspect current GitHub `main` and the actual attached source scans needed for the active batch. Repository state and source evidence are authoritative over conversational summaries.
 
-1. actual physical-page files on `main` and their metadata;
-2. completed Tamil audits and English review/release reports;
-3. `works/thirukkural/translations/en/TRANSLATION_STATUS.md`;
-4. `works/thirukkural/structure/STRUCTURE_AUDIT.md`;
-5. this handover and current READMEs;
-6. explicitly historical continuation guides, retired handovers and saved prompts.
+# Repository-state precedence
 
-Historical documents remain useful project provenance but must not be used as current next-activity instructions.
+For active Sangath Tamil work:
 
-## Controlling-source rule
+1. controlling source scan;
+2. physical page records under `works/sangatamil/pages/`;
+3. completed direct-verification / audit artefacts when they exist;
+4. `metadata/source.md` and physical/section/citation indexes;
+5. `works/sangatamil/README.md`;
+6. this handover and root README;
+7. older conversational or historical snapshots.
 
-The supplied scan is the ultimate authority.
+For completed Thirukkural work, its completed audits, translation reports and semantic structure audit remain authoritative.
 
-Do not silently:
+# Permanent source rule
 
-- modernize or normalize Tamil;
-- replace a Kural or commentary from memory, the web or another edition;
-- reconstruct uncertain text from context alone;
-- merge printed text with stamps, handwriting, bleed-through or scanner artefacts;
-- revise released English merely to harmonize later wording;
-- normalize semantic/physical metadata discrepancies by rewriting canonical page records.
+> **The scan is the authority. Markdown is a faithful preservation layer, not a rewritten edition.**
 
-Source PDFs are working/control sources and are not committed unless the user explicitly changes that policy.
+Never silently:
 
-## Permanent archival / translation cadence
+- modernize or normalize Kalaignar's Tamil;
+- correct spelling, sandhi, punctuation or grammar because another edition differs;
+- replace a printed Sangam quotation from memory, the web or a critical edition;
+- alter printed anthology names, poem numbers or poet attributions from external knowledge;
+- reconstruct unclear handwriting from context;
+- identify an unlabelled illustrated person from appearance alone;
+- invent printed pagination;
+- infer absent scan pages from arithmetic.
 
-For a newly supplied source unit:
+OCR/search may assist, but `verified` requires direct visual comparison with the controlling scan.
 
-**Tamil source intake → Tamil transcription → direct visual verification → Tamil audit / archival-ready → English draft → English source-check → editorial review → English release gate.**
+# Active work — சங்கத் தமிழ்
 
-Keep those gates separate.
+## Source identity
 
-English remains a `project_translation`, not a publisher-issued English edition.
+- work: **சங்கத் தமிழ்**
+- author: **கலைஞர் மு. கருணாநிதி**
+- source filename: `TVA_BOK_0042551_சங்கத்_தமிழ்.pdf`
+- imported-byte SHA-256 recorded in `works/sangatamil/metadata/source.md`
+- source PDF is a working/control source and is not committed to GitHub unless the user explicitly changes that policy.
 
-Important permanent fidelity examples include:
+Publication facts already secured from scan 7 include:
 
-- chapter 38 `ஊழ்` → **Oozh**;
-- Kalaignar's explanatory `இயற்கை நிலை` → **natural condition**;
-- Kural 543 follows Kalaignar's `அறவோர் நூல்களுக்கும்` interpretation: **the books of the virtuous**, not an automatic “Brahmin” substitution;
-- `இன்பம் — கற்பியல்` → **Inbam — Wedded Love** where the physical source uses that hierarchy;
-- chapter 133 `ஊடலுவகை` → **Joy of Lovers' Quarrel** in the released project translation;
-- preserve Kalaignar's governance, citizens, working-people, justice, public-resource and rational/inquiry vocabulary.
+- publisher: `ராக்போர்ட் பப்ளிகேஷன்ஸ் (பி) லிட். - சென்னை - 600 083`;
+- edition: `ஒன்று`;
+- copies: `3,000`;
+- date: `ஆகஸ்ட் 1987`;
+- price: `ரூ. 125/-`;
+- physical size: `14 x 21½ செ.மீ.`.
 
-# Completed Thirukkural state
+Scan 7 remains `partial` because its lower production-detail lines have not yet completed a character-level verification pass.
 
-## Tamil archival layer — COMPLETE
+## Critical source-integrity warning
 
-Parts **001–015** are audited / archival-ready continuously through the entire supplied volume:
+The current supplied attachment cannot be treated as the complete book.
 
-- overall scans **1–323**;
-- commentary through printed page **270**;
-- Kural sequence through **1330**;
-- scans **304–321 / printed pages 271–288**: `குறள் முதற்குறிப்பு அகரவரிசை`;
-- scan **322**: blank leaf;
-- scan **323**: back cover.
+The conversation file service exposes **150 usable scans**. Scan **150 is still continuing body text**, not end matter. The mounted PDF bytes also showed conflicting/truncated structural information during intake.
 
-Audits exist continuously as:
+Therefore the current canonical source boundary is:
 
-`works/thirukkural/AUDIT_PART_001.md` through `AUDIT_PART_015.md`.
+- usable source fragment: **scans 1–150**;
+- completeness: **incomplete / truncated fragment**;
+- **do not create scan 151+ page records**;
+- do not infer later content or missing pagination from another edition;
+- when a complete PDF is supplied, inspect it independently and prove scan 150 → 151 continuity before extending the archive.
 
-Part 001 scan 8 remains the documented source-limited handwritten facsimile exception.
+This is a source-preservation control, not a claim about the complete book's actual total length.
 
-## English project translation — COMPLETE / RELEASED
+## Methodology adopted
 
-Parts **001–015** are released continuously through the end of the supplied volume.
+The active work follows both established benchmark projects:
 
-The final commentary release boundary is:
+### From Thirukkural
 
-- scan **303**;
-- printed page **270**;
-- Kural **1330**.
+- canonical physical-page archive separated from semantic/navigation layers;
+- explicit source/audit gates;
+- no silent correction;
+- later English work kept separate from Tamil source authority;
+- handover/status documents synchronized with live repository state.
 
-Part 015 completion artefacts:
+### From `pugazg/tolkappiyap-poonga`
 
-- `works/thirukkural/AUDIT_PART_015.md` — PASS / ARCHIVAL-READY;
-- `works/thirukkural/translations/en/reviews/PART_015_REVIEW.md` — PASS;
-- `works/thirukkural/translations/en/reviews/PART_015_RELEASE_REPORT.md` — PASS / RELEASE APPROVED.
+- one Markdown record per physical scan page;
+- stable zero-padded filenames;
+- direct scan verification before `verified`;
+- separate records for blank/title/facsimile/illustration pages;
+- section READMEs as navigation manifests;
+- exact scan/printed-page provenance;
+- source-order structured indexes.
 
-`works/thirukkural/translations/en/TRANSLATION_STATUS.md` is the current translation-status summary.
+### Sangath Tamil addition — printed Sangam provenance
 
-There is no unreleased English Thirukkural material in the supplied volume.
+Because this source explicitly prints anthology/work names, poem numbers, poet attributions and `பொருள் விளக்கம்`, maintain a dedicated register:
 
-## Semantic navigation/provenance — COMPLETE
+`works/sangatamil/indexes/source-citation-register.md`
 
-The non-destructive hierarchy at `works/thirukkural/structure/` is complete:
+The register preserves the citation **as printed in this edition**. Any future comparison against another Sangam edition belongs in a separate comparison layer and must not silently alter the physical archive.
 
-- **3 / 3 பால்**;
-- **13 / 13 இயல்**;
-- **133 / 133 அதிகாரம்**;
-- **1,330 / 1,330 குறள்**.
+# Current repository structure — சங்கத் தமிழ்
 
-Final semantic boundary:
+```text
+works/sangatamil/
+  README.md
+  metadata/
+    source.md
+    transcription-policy.md
+  indexes/
+    page-map.md
+    section-register.md
+    source-citation-register.md
+  pages/
+    0001-...md through 0024-...md
+  sections/
+    000-front-matter/
+    001-malarmari-pozhiginren/
+    002-yaathum-oore-yaavarum-kelir/
+```
 
-- chapter **133 — ஊடலுவகை**;
-- Kurals **1321–1330**;
-- scans **302–303**;
-- Part 014 → Part 015 boundary;
-- printed pages **269–270**.
+Work-specific root controls:
 
-The final semantic audit is:
+- `SANGATH_TAMIL_ARCHIVAL_GUIDELINES.md`
+- `NEXT_CHAT_PROMPT_SANGATH_TAMIL.md`
 
-`works/thirukkural/structure/STRUCTURE_AUDIT.md` — **PASS — SEMANTIC PROVENANCE MAPPING COMPLETE**.
+# Current mapped physical boundary
 
-### Archival separation
+Physical Markdown records exist through **scan 24**.
 
-Semantic chapter READMEs are navigation/provenance nodes only. They must not move, duplicate or rewrite:
+## Front matter — scans 1–16
 
-- canonical Tamil: `works/thirukkural/pages/`;
-- released English: `works/thirukkural/translations/en/pages/`.
+Current status:
 
-Exact physical provenance must come from actual page records, never from arithmetic inference.
+- scan 1 cover — `verified`;
+- scan 2 title page — `verified`;
+- scan 3 later library/ownership sticker — `verified` as non-body annotation;
+- scans 4–5 ruled blank leaves — `verified`;
+- scan 6 internal title page — `verified`;
+- scan 7 publication details — `partial`;
+- scan 8 / printed III handwritten `முன்னுரை` facsimile — `partial`;
+- scan 9 / printed IV `ஈ. இராமலிங்கனர் மடல்!` — `not-started`;
+- scans 10–13 / printed V–VIII `அணிந்துரை` — `not-started`;
+- scan 14 / printed IX `பதிப்புரை` — `not-started`;
+- scan 15 blank leaf — `verified`;
+- scan 16 internal `சங்கத் தமிழ்` title leaf — `verified`.
 
-### Important Inbam semantic/physical discrepancy
+Do not promote scans 7–14 merely because headings or partial metadata are visible.
 
-Semantic hierarchy:
+## First body section
 
-- chapters 109–115 → `களவியல்`;
-- chapters 116–133 → `கற்பியல்`.
+`மலர்மாரி பொழிகின்றேன்!`
 
-Physical archive metadata:
+- scans **17–19**;
+- scan 17 visibly begins at printed page **2**;
+- scan 18 is a full-page illustration and is `verified` as an image record;
+- scan 19 visibly carries printed page **4**;
+- text pages remain `not-started`.
 
-- retains `களவியல்` / `Clandestine Love` through scan **277**;
-- scan **278** is the first physical `கற்பியல்` / `Wedded Love` record.
+The missing printed-page 1 mapping is **not inferred**.
 
-This discrepancy is intentionally documented in chapters 116–121 and must **not** be “fixed” by rewriting the canonical Tamil or released English physical-page records.
+## Second body section
 
-### Cross-Part semantic controls
+`யாதும் ஊரே; யாவரும் கேளிர்!`
 
-Important source-unit crossings already mapped and verified include:
+- scans **20–24**;
+- visible start: scan 20 / printed page **5**;
+- scan 22 illustration — `verified` as an image record;
+- scan 24 prints the provenance `புறநானூறு - பாடல் : 192 / பாடியவர் : கணியன் பூங்குன்றனார்`;
+- continuous body text remains `not-started`.
 
-- chapter 112: Part 012 → Part 013;
-- chapter 123: Part 013 → Part 014;
-- chapter 133: Part 014 → Part 015.
+# Citation-register startup samples
 
-A source Part boundary does not split a semantic chapter when Kural/chapter continuity is uninterrupted.
+Directly inspected provenance samples currently recorded include:
 
-## Historical files
+- scan 24 — `புறநானூறு`, பாடல் 192, `கணியன் பூங்குன்றனார்`;
+- scan 46 — `அகநானூறு`, பாடல் 248, `கபிலர்`;
+- scan 49 — `குறுந்தொகை`, பாடல் 210, `காக்கைப்பாடினியார் நச்செள்ளையார்`;
+- scan 147 — `குறுந்தொகை`, பாடல்கள் 32 and 157, `அள்ளூர் நன்முல்லையார்`.
 
-The following are intentionally retained as historical/retired snapshots and are **not current workflow authorities**:
-
-- `works/thirukkural/CONTINUATION_GUIDELINES.md`;
-- `works/thirukkural/HANDOVER_PARTS_006_010.md`;
-- `works/thirukkural/NEXT_CHAT_PROMPT_PARTS_006_010.md`;
-- completed `AUDIT_PART_XXX.md` files and English review/release reports as gate records.
-
-Do not rewrite historical gate records merely to make their old progress paragraph match the present day.
+These entries are **sampled source provenance**, not verified full-page transcriptions. Promote their register status only when the containing physical page has been fully transcribed and verified.
 
 # Exact next activity
 
-There is **no unfinished Thirukkural transcription, verification, Tamil audit, English translation/release, or semantic chapter-provenance mapping** for the supplied volume.
+Complete the first front-matter text gate:
 
-Do **not** restart chapters 113–117, Part 014 English source-check, or Part 015 intake; all of those phases are already complete.
+**scans 9–14 / printed pages IV–IX**.
 
-Future work requires a newly defined scope, for example:
+In source order:
 
-1. a newly supplied Thirukkural source, supplement or alternate edition — inspect independently before creating records;
-2. another Kalaignar literary-commentary work — begin its own source-first workflow;
-3. a separately requested enhancement/audit/indexing task — keep it non-destructive and do not silently alter released source-controlled text.
+1. scan 9 — `ஈ. இராமலிங்கனர் மடல்!`;
+2. scans 10–13 — `அணிந்துரை`;
+3. scan 14 — `பதிப்புரை`.
 
-If the user simply says “Proceed with next activity” after reading this handover, inspect current `main` first and choose only a genuinely unfinished or newly requested activity. Do not manufacture continuation beyond Kural 1330.
+For each page:
+
+- transcribe the full printed text directly from the scan;
+- preserve paragraph boundaries, punctuation and source-specific wording;
+- do not use OCR as authority;
+- compare the completed Markdown directly with the scan;
+- only then change `status` to `verified` and add the source-page marker.
+
+After scans 9–14 pass, process the first body section:
+
+**`மலர்மாரி பொழிகின்றேன்!` — scans 17–19**.
+
+Do not jump to bulk body transcription before the front-matter gate is clean.
+
+# Completed Thirukkural baseline — DO NOT RESTART
+
+`works/thirukkural/` remains complete:
+
+- Tamil Parts **001–015** archival-ready through scan **323**;
+- commentary complete through printed page **270 / Kural 1330**;
+- English project translation Parts **001–015** released;
+- semantic provenance complete for **3 பால் / 13 இயல் / 133 அதிகாரம் / 1,330 குறள்**;
+- `works/thirukkural/structure/STRUCTURE_AUDIT.md` records final PASS.
+
+Do not restart old Thirukkural Part 014/015 or chapter-mapping batches while Sangath Tamil is active.
+
+# Future English Sangatamil rule
+
+The repository anticipates a separately published English *Sangatamil*. If supplied:
+
+- archive it as its own source-controlled edition;
+- preserve its own pagination and wording;
+- align it with Tamil only in a separate layer;
+- do not use it to rewrite Tamil page records.
+
+If the user explicitly asks for a project-created English translation instead, create it only after the corresponding Tamil source unit is audited and label it `translation_type: "project_translation"`.
