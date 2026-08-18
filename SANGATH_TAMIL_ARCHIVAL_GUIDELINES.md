@@ -43,6 +43,15 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 ```
 
+When a page has meaningful visual-text structure, the following optional fields may also be used:
+
+```yaml
+visual_fidelity: "needs-review"
+visual_notes: "decorative heading; verse block; source citation block"
+```
+
+After direct comparison of both text and meaningful layout, `visual_fidelity` may be promoted to `verified`.
+
 Status vocabulary:
 
 - `not-started`
@@ -59,6 +68,8 @@ Do not create scan records beyond the verified usable attachment boundary. If a 
 
 Never infer missing pages from printed-page arithmetic.
 
+If cropping, damage, shadow, binding curvature or scan loss hides characters or meaningful layout, do not reconstruct the hidden material from context. Keep the page `partial` or `blocked` as appropriate.
+
 ## 4. Verse / prose fidelity
 
 This work mixes Kalaignar's poetic rendering, narrative/explanatory prose, Sangam quotations and word glosses.
@@ -74,6 +85,44 @@ Preserve:
 
 Do not substitute a web or critical-edition Sangam verse for the wording printed in this book.
 
+### 4.1 Visual text fidelity
+
+Text fidelity includes the **meaningful visual organization of the printed text**, not only the sequence of characters.
+
+During transcription and final verification, preserve or explicitly document, where source-visible and meaningful:
+
+- verse line breaks and stanza grouping;
+- prose paragraph breaks;
+- indentation and hanging indentation;
+- centered, right-aligned or otherwise deliberately positioned headings/lines;
+- decorative heading hierarchy and the exact heading text;
+- isolated quotation/citation blocks;
+- `பொருள் விளக்கம்` placement as a distinct visual/textual block;
+- numbered or lettered lists and their grouping;
+- asterisks, rules, ornamental separators and section breaks;
+- bold, underline, enlarged text or other emphasis when it distinguishes structure or meaning;
+- running headers, printed page numbers and footers as page furniture rather than silently merging them into body text;
+- text printed inside or immediately associated with an illustration, including captions;
+- continuation of a sentence, poem or paragraph across a physical page boundary.
+
+#### Markdown representation rule
+
+The repository does **not** need to imitate the page pixel-for-pixel or reproduce the exact font face, font size, colour, kerning or ornamental artwork.
+
+Instead:
+
+1. reproduce meaningful lineation and block structure faithfully with Markdown;
+2. use limited HTML only when Markdown cannot preserve a meaningful alignment or grouping cleanly;
+3. when exact spatial placement cannot be represented safely, preserve the text and add a concise factual `visual_notes` / HTML source comment describing the source arrangement;
+4. never introduce alignment, emphasis, stanza breaks or decorative grouping that the scan does not support.
+
+A page must **not** be marked `verified` merely because all readable characters appear correct. `verified` requires checking both:
+
+- **textual fidelity** — wording, spelling, punctuation, line content and order; and
+- **visual text fidelity** — meaningful lineation, paragraph/stanza/block structure, heading hierarchy, separators, emphasis and text/image relationship.
+
+If visual structure is uncertain because the source is cropped or damaged, retain `needs-review`, `partial` or `blocked` even when most words are readable.
+
 ## 5. Illustrations
 
 Illustration-only pages are archival records.
@@ -85,6 +134,8 @@ For a full-page image:
 - otherwise provide only a concise factual visual description;
 - do not identify an unlabelled person from appearance alone;
 - do not infer scene, date or literary identity unless the printed source supports it.
+
+Where text and illustration share a page, record their relationship factually—for example, whether the illustration interrupts a verse block, sits between two text blocks, or carries a caption—without inventing narrative meaning from the artwork.
 
 ## 6. Structural section layer
 
@@ -131,9 +182,9 @@ Do not silently correct a poem number or poet from an external edition. If a lat
 
 For the Tamil source:
 
-**source intake → page records / first-pass transcription → direct visual verification → section review → source-fragment/part audit**.
+**source intake → page records / first-pass transcription → direct textual + visual-fidelity verification → section review → source-fragment/part audit**.
 
-Do not collapse first-pass transcription and direct verification into one claimed gate unless the page was actually read directly against the scan.
+Do not collapse first-pass transcription and direct verification into one claimed gate unless the page was actually read directly against the scan for both text and meaningful visual organization.
 
 ## 9. English layer
 
