@@ -2,6 +2,8 @@
 
 This index is the current **part-level canonical page map** for `works/thirukkural/`.
 
+Last synchronized with live `main`: **2026-08-18**.
+
 For exact per-page wording, metadata and filename alignment, the individual records under `pages/` are authoritative. For archival decisions, use `AUDIT_PART_001.md` through `AUDIT_PART_015.md`.
 
 ## Current map
@@ -26,7 +28,7 @@ For exact per-page wording, metadata and filename alignment, the individual reco
 
 ## Canonical continuity
 
-Tamil archival coverage is now audited continuously through Part 015:
+Tamil archival coverage is audited continuously through Part 015:
 
 - overall scans **1–323**;
 - commentary through printed page **270**;
@@ -75,6 +77,18 @@ The Part 014 → Part 015 boundary is source-confirmed as:
 
 Scan 303 completes chapter 133 `ஊடலுவகை` with Kurals **1326–1330**. The commentary ends at Kural **1330** on printed page **270**; the remainder is index/blank/back-cover material.
 
-## Exact next activity
+## Semantic provenance status
 
-The Tamil archival gate is complete. The next separate stage is **Part 015 English first-pass drafting** from the verified Tamil records, following `translations/en/TRANSLATION_GUIDE.md`. Do not combine drafting with source-check, editorial review or release promotion.
+The physical page map is also fully linked by the separate non-destructive semantic layer under `../structure/`:
+
+- **3 பால் / 13 இயல் / 133 அதிகாரம் / 1,330 குறள்** mapped;
+- final chapter 133 crosses scans **302–303 / Parts 014–015**;
+- see `../structure/STRUCTURE_AUDIT.md` for the completed provenance audit.
+
+The semantic layer does not alter this physical page map or its source-controlled metadata.
+
+## Current next-activity state
+
+Tamil archival work, English project translation/release, and semantic chapter-provenance mapping are all complete for the supplied volume.
+
+There is no Part 015 English drafting gate remaining. Do not continue past Kural 1330 or reopen released Parts solely for stylistic harmonization. Any future activity requires a newly supplied source or a separately defined non-destructive enhancement/audit task.
