@@ -4,12 +4,13 @@ This register records **printed provenance inside the supplied book**. It is not
 
 Only directly inspected citations are entered. External editions must not silently overwrite these printed labels.
 
-| Scan | Printed source label | Poem | Poet as printed | Status |
-|---:|---|---:|---|---|
-| 46 | அகநானூறு | 248 | கபிலர் | sampled from scan; page transcription pending |
-| 49 | குறுந்தொகை | 210 | காக்கைப்பாடினியார் நச்செள்ளையார் | sampled from scan; page transcription pending |
-| 147 | குறுந்தொகை | 32 | அள்ளூர் நன்முல்லையார் | sampled from scan; page transcription pending |
-| 147 | குறுந்தொகை | 157 | அள்ளூர் நன்முல்லையார் | sampled from scan; page transcription pending |
+| Scan | Section / context | Printed source label | Poem | Poet as printed | Status |
+|---:|---|---|---:|---|---|
+| 24 | `யாதும் ஊரே; யாவரும் கேளிர்!` | புறநானூறு | 192 | கணியன் பூங்குன்றனார் | sampled from scan; page transcription pending |
+| 46 | later body section | அகநானூறு | 248 | கபிலர் | sampled from scan; page transcription pending |
+| 49 | later body section | குறுந்தொகை | 210 | காக்கைப்பாடினியார் நச்செள்ளையார் | sampled from scan; page transcription pending |
+| 147 | later body section | குறுந்தொகை | 32 | அள்ளூர் நன்முல்லையார் | sampled from scan; page transcription pending |
+| 147 | later body section | குறுந்தொகை | 157 | அள்ளூர் நன்முல்லையார் | sampled from scan; page transcription pending |
 
 ## Policy
 
