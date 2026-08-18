@@ -1,18 +1,16 @@
-# Next Chat Prompt — Continue Thirukkural Kalaignar Commentary Structure Mapping
+# Next Chat Prompt — Thirukkural Kalaignar Commentary — Completed Baseline
 
-Copy/paste the prompt below into a new chat window.
+Copy/paste the prompt below into a new chat window when returning to this repository.
 
 ---
 
-Continue the **Thirukkural — Kalaignar Commentary semantic structure / provenance-mapping project** directly in:
+Continue work directly in:
 
 `pugazg/kalaignar-literary-commentary`
 
 Work on `main`.
 
-Active work path:
-
-`works/thirukkural/structure/`
+The supplied **Thirukkural — Kalaignar Commentary** volume is already complete. Do **not** restart transcription, translation, semantic chapter mapping, or any old continuation batch unless current `main` proves that a regression or new source has been introduced.
 
 ## MANDATORY STARTUP
 
@@ -23,260 +21,114 @@ Before making any repository change, read these files completely:
 3. `LITERARY_COMMENTARY_PROCESSING_GUIDE.md`
 4. root `HANDOVER.md`
 5. `works/thirukkural/README.md`
-6. `works/thirukkural/structure/README.md`
-7. `works/thirukkural/structure/CHAPTER_README_POLICY.md`
-8. `works/thirukkural/structure/STRUCTURE_AUDIT.md`
-9. `works/thirukkural/translations/en/TRANSLATION_STATUS.md`
-10. `works/thirukkural/AUDIT_PART_013.md`
+6. `works/thirukkural/metadata/source.md`
+7. `works/thirukkural/indexes/page-map.md`
+8. `works/thirukkural/structure/README.md`
+9. `works/thirukkural/structure/CHAPTER_README_POLICY.md`
+10. `works/thirukkural/structure/STRUCTURE_AUDIT.md`
+11. `works/thirukkural/translations/en/TRANSLATION_GUIDE.md`
+12. `works/thirukkural/translations/en/TRANSLATION_STATUS.md`
 
-Then inspect current GitHub `main` and fetch the live HEAD. Repository state is authoritative over stale SHAs or historical status paragraphs.
+Then inspect current GitHub `main`. Repository state is authoritative over stale SHAs or historical progress paragraphs.
 
-Do not answer with only a plan after startup. Proceed with the actual repository work.
+## COMPLETED BASELINE — DO NOT RESTART
 
-## COMPLETED SOURCE WORK — DO NOT RESTART
+### Tamil archival layer
 
-The supplied Thirukkural volume is complete:
+Parts **001–015** are audited / archival-ready through the entire supplied volume:
 
-- Tamil Parts 001–015: **ARCHIVAL-READY** through scan 323;
-- commentary through printed page 270 / Kural 1330;
-- English Parts 001–015: **RELEASED** through the same complete volume;
-- scans 304–321: index back matter;
-- scan 322: blank leaf;
-- scan 323: back cover.
+- scans **1–323**;
+- commentary through printed page **270**;
+- Kural sequence through **1330**;
+- scans 304–321: `குறள் முதற்குறிப்பு அகரவரிசை`, printed pages 271–288;
+- scan 322 blank;
+- scan 323 back cover.
 
-Do not retranscribe or retranslate released material merely to support semantic navigation.
+Tamil audits exist through `AUDIT_PART_015.md`.
 
-## SEMANTIC STRUCTURE
+### English project translation
 
-A non-destructive literary navigation layer exists under:
+Parts **001–015** are released through the end of the supplied volume.
 
-`works/thirukkural/structure/`
+Do not restart:
 
-Hierarchy:
+- Part 014 source-check;
+- Part 015 drafting/source-check/editorial/release;
+- any released earlier Part merely for stylistic harmonization.
 
-**பால் → இயல் → அதிகாரம்**
+### Semantic structure / provenance
 
-Target structure:
+`works/thirukkural/structure/` is complete:
 
-- 3 பால்;
-- 13 இயல்;
-- 133 அதிகாரம்;
-- 1,330 குறள்.
+- **3 பால்**;
+- **13 இயல்**;
+- **133 அதிகாரம்**;
+- **1,330 குறள்**.
 
-The canonical scan-faithful Tamil remains under `works/thirukkural/pages/` and released English remains under `works/thirukkural/translations/en/pages/`.
+Final chapter:
 
-The semantic structure must point to those physical-page records; it must not replace, move, duplicate, or rewrite them.
+- **133 — ஊடலுவகை**;
+- Kurals **1321–1330**;
+- scans **302–303**;
+- Parts **014–015**;
+- printed pages **269–270**.
 
-## CURRENT EXACT MAPPING BOUNDARY
+`works/thirukkural/structure/STRUCTURE_AUDIT.md` records **PASS — SEMANTIC PROVENANCE MAPPING COMPLETE**.
 
-Exact canonical physical-page provenance mapping is complete through:
+Do not restart chapters 113–117 or any other old semantic batch.
 
-- **அதிகாரம் 112 — நலம் புனைந்துரைத்தல்**;
-- **குறள் 1120**;
-- **scan 261**;
-- **Part 013 local page 1**;
-- **printed page 228**.
+## SOURCE / ARCHIVE RULES
 
-Therefore **அதிகாரங்கள் 1–112 / குறள் 1–1120** are semantically mapped.
+The supplied scan is the controlling source.
 
-Chapter 112 crosses the Part boundary:
+Do not silently modernize, normalize, correct, reconstruct or replace Tamil from memory, the web or another edition.
 
-- scan 260 / Part 012 local page 23 / printed page 227 / Kurals 1111–1115;
-- scan 261 / Part 013 local page 1 / printed page 228 / Kurals 1116–1120.
+Do not move, duplicate or rewrite:
 
-The Part 012 → Part 013 sequence is continuous with no textual gap.
+- canonical Tamil physical pages: `works/thirukkural/pages/`;
+- released English physical pages: `works/thirukkural/translations/en/pages/`.
 
-Do not restart or rewrite chapters 1–112.
+The semantic hierarchy is navigation/provenance only.
 
-## IMPORTANT STOP/INTERRUPTION STATE
+Exact scan boundaries must come from actual verified page records, not arithmetic inference.
 
-A previous attempt to continue chapters **113–117 / Kurals 1121–1170** was started and then explicitly stopped by the user before the provenance-verification gate was completed.
+## IMPORTANT INBAM PROVENANCE DISCREPANCY
 
-The interrupted attempt established only the following reusable facts:
+Semantic hierarchy:
 
-- the mandatory startup documents had been read;
-- `AUDIT_PART_013.md` and the live semantic tree confirm the correct chapter sequence;
-- chapter 115 is the final `களவியல்` chapter;
-- chapter 116 / Kural 1151 begins `கற்பியல்`;
-- exploratory source-page lookup had started.
+- chapters 109–115 → `களவியல்`;
+- chapters 116–133 → `கற்பியல்`.
 
-The interrupted attempt did **not** complete:
+Physical archive metadata:
 
-- verification of all ten Tamil physical-page records for chapters 113–117;
-- verification of all ten corresponding English release records;
-- readback/update of all five semantic chapter READMEs;
-- any semantic mapping commit for chapters 113–117.
+- retains `களவியல்` / `Clandestine Love` through scan **277**;
+- scan **278** is the first physical `கற்பியல்` / `Wedded Love` record.
 
-No canonical Tamil body record or released English body record was changed either.
+This discrepancy is intentionally documented in the semantic READMEs. Do not “fix” it by rewriting canonical Tamil or released English records.
 
-Before the handover/prompt synchronization that records this interruption, `main` was still at `27bd6512fd243cbb4ddf0ebd614ce7666adc234f`, a coordination-document commit. Therefore **the authoritative completed semantic boundary remains chapter 112 / Kural 1120**.
+## HISTORICAL DOCUMENTS
 
-Do not treat partial lookups from the interrupted attempt as completed provenance verification. Restart the next batch from Gate A below and verify all records from live `main`.
+The following are retired/historical records, not current workflow instructions:
 
-## CRITICAL INBAM HIERARCHY
+- `works/thirukkural/CONTINUATION_GUIDELINES.md`;
+- `works/thirukkural/HANDOVER_PARTS_006_010.md`;
+- `works/thirukkural/NEXT_CHAT_PROMPT_PARTS_006_010.md`;
+- completed Part audits and English review/release reports.
 
-The live semantic tree and `AUDIT_PART_013.md` establish the next sequence exactly.
+Preserve them as project provenance.
 
-### Still under `இன்பத்துப்பால் → களவியல்`
+## CURRENT NEXT-ACTIVITY RULE
 
-113. `காதற் சிறப்புரைத்தல்` — Kurals 1121–1130
-114. `நாணுத் துறவுரைத்தல்` — Kurals 1131–1140
-115. `அலர் அறிவுறுத்தல்` — Kurals 1141–1150
+There is no predefined unfinished Thirukkural activity for the supplied volume.
 
-### Beginning `இன்பத்துப்பால் → கற்பியல்`
-
-116. `பிரிவு ஆற்றாமை` — Kurals 1151–1160
-117. `படர்மெலிந்து இரங்கல்` — Kurals 1161–1170
-
-**The `களவியல் → கற்பியல்` transition occurs at chapter 116 / Kural 1151.**
-
-Do not misclassify chapter 116 as `களவியல்`. Chapter 115 remains the final `களவியல்` chapter.
-
-## EXACT LIVE SEMANTIC FOLDER PATHS
-
-Use these existing folders; do not create normalized duplicates:
-
-- `works/thirukkural/structure/03-இன்பத்துப்பால்/01-களவியல்/113-காதற்சிறப்புரைத்தல்/`
-- `works/thirukkural/structure/03-இன்பத்துப்பால்/01-களவியல்/114-நாணுத்துறவுரைத்தல்/`
-- `works/thirukkural/structure/03-இன்பத்துப்பால்/01-களவியல்/115-அலரறிவுறுத்தல்/`
-- `works/thirukkural/structure/03-இன்பத்துப்பால்/02-கற்பியல்/116-பிரிவாற்றாமை/`
-- `works/thirukkural/structure/03-இன்பத்துப்பால்/02-கற்பியல்/117-படர்மெலிந்திரங்கல்/`
-
-The audit may render chapter labels with spaces while semantic folder slugs omit them. Preserve the existing live folder spelling.
-
-## EXACT NEXT ACTIVITY
-
-Map the next **5 அதிகாரங்கள்: 113–117 / குறள் 1121–1170**.
-
-The continuous Part 013 sequence indicates that the relevant working scan window is expected to be **262–271**, immediately after the verified chapter-112 endpoint at scan 261.
-
-However, **do not infer individual chapter/page boundaries arithmetically**. Before writing anything, fetch the actual canonical records and establish the exact mapping from their metadata/content.
-
-### Gate A — Tamil provenance verification
-
-Fetch **all ten** canonical Tamil page records covering the chapter 113–117 sequence from:
-
-`works/thirukkural/pages/`
-
-For every record, verify:
-
-- `status: verified`;
-- source Part;
-- Part-local page;
-- overall scan;
-- printed page;
-- exact Kural coverage;
-- section / chapter heading;
-- any source-sensitive punctuation, spelling or direct-verification correction.
-
-Do not rely on the incomplete lookups from the stopped attempt. Do not use remembered or external Thirukkural wording to override these records.
-
-### Gate B — English release verification
-
-Fetch **all ten** corresponding records from:
-
-`works/thirukkural/translations/en/pages/`
-
-For every record, verify:
-
-- `status: release-ready`;
-- `source_tamil_status: verified`;
-- matching source scan / Kural coverage;
-- chapter/section naming used by the released translation.
-
-Do not revise released English body text during this semantic task.
-
-### Gate C — Semantic node inspection
-
-Fetch the five live semantic chapter `README.md` files / skeletons at the exact folder paths listed above.
-
-Do not guess path spellings and do not create parallel folders.
-
-### Gate D — Write the five mappings
-
-Only after Gates A–C are complete, update the five semantic chapter READMEs for chapters 113–117.
-
-Each mapped README must include:
-
-- **Section** / பால்;
-- **Chapter group** / இயல்;
-- **Status**: `mapped`;
-- exact Kural range;
-- source Part(s);
-- exact source scans;
-- physical provenance for each page: scan / Part-local page / printed page / Kural range;
-- canonical Tamil record links;
-- released English record links;
-- verification state;
-- source-sensitive notes where warranted;
-- statement that the semantic node does not replace, move, duplicate or rewrite the canonical Tamil or released English physical-page archive.
-
-Preserve the `களவியல் → கற்பியல்` transition explicitly:
-
-- chapter 115 closes `களவியல்`;
-- chapter 116 begins `கற்பியல்` at Kural 1151.
-
-If the live records reveal a source-sensitive form or correction, record it accurately in the relevant semantic README. Do not silently normalize it.
-
-Use sequential commits on `main` if the GitHub Contents API requires one commit per README. Report the actual final commit boundary; do not claim a single multi-file commit if one was not created.
-
-## SOURCE-SENSITIVE PROTECTIONS
-
-All direct-verification corrections and unusual source-supported forms already present in the canonical archive, audits and mapped chapter READMEs remain binding.
-
-Examples include:
-
-- Kural 771 commentary `நடுகல்லாய்ப் போனவர்கள்`;
-- Kural 911 commentary `பொருள் திரட்டுவதையே`;
-- Kural 912 `பாகுமொழிபேசும்`;
-- Kural 931 commentary `கெளவிக் கொண்டு போவதாகிவிடும்`;
-- Kural 948 commentary `உடல் நோய்க்கு மட்டுமின்றிச் சமுதாய நோய்க்கும் இது பொருந்தும்.`;
-- Kural 1018 corrected wording ending `அகன்றுவிட்டதாகக் கருத வேண்டும்.`;
-- Kural 1035 `ஊதியம் பெற்று உண்ணும் இயல்புடையவர்`;
-- Kural 1048 `கொலை செய்வதுபோல நேற்று...`.
-
-These examples are not a substitute for checking the active source pages directly.
-
-## DO NOT CHANGE DURING THIS BATCH
-
-Do not modify:
-
-- canonical Tamil body records unless a genuinely separate source-correction task is explicitly opened;
-- released English body records;
-- root `HANDOVER.md`;
-- root status/audit documents;
-- archival Part audits;
-- already mapped chapters 1–112.
-
-The handover/prompt documents now record the interrupted state. Ordinary chapter mapping should not rewrite them again unless the user requests it or the workflow itself changes.
-
-## FINAL VERIFICATION AND STOP CONDITION
-
-After all five chapters have been genuinely verified and written:
-
-1. read back all five semantic READMEs from live `main`;
-2. verify their section/group placement, Kural ranges, paths and physical provenance;
-3. fetch the new live `main` HEAD;
-4. report the exact completed boundary;
-5. STOP after chapter 117.
-
-If the expected Part 013 page pattern is confirmed by the actual canonical records, the anticipated endpoint is approximately:
-
-- **chapter 117 / Kural 1170**;
-- **scan 271**;
-- **Part 013 local page 11**;
-- **printed page 238**.
-
-This endpoint is an **expectation, not authoritative provenance, until the live page records confirm it**.
-
-The following batch should be **chapters 118–122 / Kurals 1171–1220**, subject to repository inspection after chapter 117 is complete.
-
-## PROVENANCE RULE
-
-Never infer that a chapter occupies two pages merely because earlier chapters did. Verify the actual physical-page records. If a page contains material from adjacent chapters, record partial coverage precisely.
-
-Repository state and the controlling source records outrank memory, external editions and stale historical prompts.
-
-Proceed with actual repository work after startup.
+When the user provides a new request:
+
+1. inspect current `main` first;
+2. determine whether the request is a new source intake, another literary-commentary work, or a separately defined enhancement/audit/indexing task;
+3. perform only that new scope;
+4. do not manufacture continuation after Kural 1330;
+5. do not reopen released source-controlled text without an explicit, source-supported reason.
+
+If a new Thirukkural PDF/source is supplied, inspect it directly before deciding whether it is a supplement, alternate edition, duplicate source, or new archival unit.
 
 ---
