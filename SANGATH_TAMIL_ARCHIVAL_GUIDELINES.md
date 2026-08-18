@@ -22,7 +22,7 @@ OCR may assist location but is never authoritative. A page becomes `verified` on
 
 ## 2. Physical-page layer
 
-Every usable scan page must eventually have one Markdown record under:
+Every scan page in the supplied PDF must eventually have one Markdown record under:
 
 `works/sangatamil/pages/`
 
@@ -62,11 +62,16 @@ Status vocabulary:
 
 ## 3. Source-integrity rule
 
-The currently supplied attachment is usable only as the explicitly documented source fragment in `metadata/source.md`.
+The current supplied PDF has been independently verified as a **497-scan complete source**. `pdfinfo` reports 497 pages; scans 493–497 render directly from the mounted PDF; scan 497 is the back cover.
 
-Do not create scan records beyond the verified usable attachment boundary. If a later complete PDF is supplied, inspect it independently, confirm continuity and then extend the archive.
+The earlier 150-page count came from a preview-service limit and is not a valid archival boundary.
 
-Never infer missing pages from printed-page arithmetic.
+Current source controls:
+
+- canonical scan range: **1–497**;
+- do not create scan 498+ records;
+- do not infer printed-page numbers from scan arithmetic;
+- if a page is cropped, damaged, shadowed or otherwise source-limited, document that defect at the page level rather than changing the global source boundary.
 
 If cropping, damage, shadow, binding curvature or scan loss hides characters or meaningful layout, do not reconstruct the hidden material from context. Keep the page `partial` or `blocked` as appropriate.
 
@@ -182,7 +187,7 @@ Do not silently correct a poem number or poet from an external edition. If a lat
 
 For the Tamil source:
 
-**source intake → page records / first-pass transcription → direct textual + visual-fidelity verification → section review → source-fragment/part audit**.
+**source intake → page records / first-pass transcription → direct textual + visual-fidelity verification → section review → batch/part audit**.
 
 Do not collapse first-pass transcription and direct verification into one claimed gate unless the page was actually read directly against the scan for both text and meaningful visual organization.
 
@@ -194,9 +199,9 @@ Do not overwrite it with a project translation, and do not use it to silently re
 
 If the user separately requests a project-created English translation before a published English source is supplied, follow the Thirukkural translation gates and mark it explicitly as `translation_type: "project_translation"`.
 
-## 10. Current source fragment
+## 10. Current source and milestone
 
-The present attached source fragment exposes scans **1–150**. It is not to be declared the complete book. See `works/sangatamil/metadata/source.md` for the source-integrity warning.
+The current supplied source is complete at **497 scans**, ending with the back cover at scan 497.
 
 Current first milestone:
 
@@ -204,4 +209,5 @@ Current first milestone:
 2. preserve front matter scans 1–16;
 3. map the first two decorative body sections beginning at scans 17 and 20;
 4. finish front-matter transcription/verification before bulk body work;
-5. expand the Sangam citation register only from directly inspected pages.
+5. expand the Sangam citation register only from directly inspected pages;
+6. progressively extend physical page records through scan 497 in source order.
