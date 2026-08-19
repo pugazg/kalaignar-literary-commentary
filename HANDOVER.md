@@ -25,7 +25,7 @@ Before making any Sangath Tamil repository change, read completely:
 9. `works/sangatamil/indexes/section-register.md`
 10. `works/sangatamil/indexes/source-citation-register.md`
 
-Then inspect current GitHub `main` and the actual source scans required for the active batch. Repository state and source evidence are authoritative over conversational summaries.
+Then inspect current GitHub `main` and the actual source scans required for the active batch.
 
 # Permanent source / fidelity rule
 
@@ -33,9 +33,7 @@ Then inspect current GitHub `main` and the actual source scans required for the 
 
 Never silently modernize, normalize, correct from another edition, replace quotations, alter printed anthology/poem/poet labels, reconstruct unclear source, invent pagination, or infer missing source content.
 
-`verified` requires direct source comparison for both textual fidelity and meaningful visual text fidelity.
-
-OCR/search may assist only as a locator/draft aid; it is never authoritative.
+`verified` requires direct source comparison for both textual fidelity and meaningful visual text fidelity. OCR/search may assist only as a locator/draft aid and is never authoritative.
 
 # Active source — சங்கத் தமிழ்
 
@@ -51,9 +49,9 @@ The earlier 150-page figure was a preview-service limitation and is retired.
 
 # Current physical boundary
 
-Physical Markdown records currently exist through **scan 24**.
+Physical Markdown records now exist through **scan 30**.
 
-Scans 7–8 remain `partial` source/page records.
+Scans **7–8** remain `partial` source/page records.
 
 ## Completed front matter
 
@@ -62,13 +60,6 @@ Scans **9–14 / printed IV–IX** — COMPLETE / directly verified.
 ## Completed body section 001
 
 `மலர்மாரி பொழிகின்றேன்!` — scans **17–19** — COMPLETE.
-
-Important correction verified from a 400-dpi render of scan 17:
-
-`எளிய நடையில் எழுதிட முனைந்து`  
-`என்னாலியன்ற பணியினை முடித்தேன்.`
-
-Do not restore the earlier incorrect `எழுதி முடிந்து / என்னுலியன்ற` transcription.
 
 Scan 19 provenance:
 
@@ -80,40 +71,46 @@ Scan 19 provenance:
 
 `யாதும் ஊரே; யாவரும் கேளிர்!` — scans **20–24** — COMPLETE.
 
-- scan 20 — text verified / visual fidelity verified;
-- scan 21 — text verified / visual fidelity verified;
-- scan 22 — full-page illustration verified;
-- scan 23 — text verified / visual fidelity verified;
-- scan 24 — text, quoted Sangam poem and `பொருள் விளக்கம்` verified / visual fidelity verified.
-
-Physical continuity is intentional: scan 21 text is interrupted by the scan-22 illustration and resumes on scan 23.
-
-Scan 24 printed provenance is exactly:
+Scan 24 provenance exactly as printed:
 
 - `புறநானூறு - பாடல் : 192`
 - `பாடியவர் : கணியன் பூங்குன்றன்`
 
-Do **not** normalize the poet label to `பூங்குன்றனார்` in the source-controlled layer.
+The quoted poem preserves source-visible form `ஆருது`.
 
-The quoted poem is preserved as printed in this edition, including the source-visible form `ஆருது`.
+## Completed body section 003
 
-# Next decorative section
+`மானங்காத்த மறவன்!` — scans **25–30 / printed 10–15** — COMPLETE.
 
-Scan **25 / printed page 10** begins:
+- scan 25 — decorative opening + text verified;
+- scan 26 — full-page illustration verified;
+- scans 27–29 — text verified; later pencil marks/handwriting documented separately from body text;
+- scan 30 — concluding text, quoted Sangam poem and `பொருள் விளக்கம்` verified.
 
-**`மானங்காத்த மறவன்!`**
+Scan 30 provenance exactly as printed:
 
-The section start is directly source-visible. Its end boundary has not yet been established.
+- `புறநானூறு : பாடல்: 74`
+- `பாடியவர் : சேரமான் கணைக்கால் இரும்பொறை`
+
+# Current next section
+
+Scan **31 / printed page 16** begins:
+
+**`துணை நின்றார் தோழி!`**
+
+Its end boundary has not yet been established.
 
 # Exact next activity
 
-1. Inspect scan 25 onward until the next decorative heading is found.
-2. Establish the full `மானங்காத்த மறவன்!` scan range without guessing.
-3. Create physical page records for that range.
-4. Transcribe in source order.
-5. Preserve illustrations, quoted Sangam text, source labels, poem numbers, poet attributions and gloss blocks separately where printed.
-6. Compare textual + visual text fidelity directly with the PDF before `verified`.
-7. Update page map, section register, citation register, work/root README, handover and continuation prompt.
+1. Inspect scan 31 onward until the next decorative heading is found.
+2. Establish the full `துணை நின்றார் தோழி!` scan range without guessing.
+3. Create one physical page record per scan in that range.
+4. Preserve illustrations as separate records.
+5. Transcribe in source order.
+6. Preserve quoted Sangam text, source labels, poem numbers, poet attributions and gloss blocks exactly as printed.
+7. Keep later pencil/handwritten marks outside printed body text.
+8. Compare textual + visual text fidelity directly with the PDF before `verified`.
+9. Synchronize page map, section register, citation register, work/root README, handover and continuation prompt.
 
 # Completed Thirukkural baseline — DO NOT RESTART
 
