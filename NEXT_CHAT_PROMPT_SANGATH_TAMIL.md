@@ -6,9 +6,7 @@ Continue the **சங்கத் தமிழ் — Kalaignar source-first arc
 
 Work on `main`.
 
-Active path:
-
-`works/sangatamil/`
+Active path: `works/sangatamil/`
 
 ## Mandatory startup
 
@@ -28,42 +26,53 @@ Then inspect current `main` and the actual attached source before writing.
 
 ## Source authority
 
-The scan is authoritative. Do not silently modernize, normalize, correct or replace Kalaignar's Tamil or any Sangam quotation from memory, the web or another edition.
-
-Preserve textual fidelity **and visual text fidelity**: poetry lineation, prose paragraphs, indentation/block structure, decorative headings, separators, source-work labels, poem numbers, poet attributions, `பொருள் விளக்கம்`, and meaningful text/image relationships exactly as source-supported.
+The scan is authoritative. Preserve textual fidelity **and visual text fidelity**. Do not silently modernize, normalize, correct from another edition, replace quoted Sangam text, alter printed anthology/poem/poet labels, or infer pagination/source content.
 
 ## Source boundary
 
-The supplied PDF has been independently confirmed as **497 scans**. Scan **497 is the back cover**. The earlier 150-page figure was a preview-service limitation and is retired.
+The supplied PDF is independently confirmed as **497 scans**; scan **497 is the back cover**. The earlier 150-page preview figure is retired.
 
-- canonical source range: **1–497**;
-- do not create scan 498+ records;
-- do not infer printed pagination from scan arithmetic.
+Canonical range: **1–497**. Do not create scan 498+ records.
 
 ## Completed work — do not restart
 
-Front-matter printed-text gate:
-
-- scans **9–14 / printed IV–IX** — COMPLETE / verified.
-
-First body section:
-
+- front-matter printed-text gate: scans **9–14 / IV–IX** — COMPLETE / verified;
 - `மலர்மாரி பொழிகின்றேன்!` — scans **17–19** — COMPLETE / verified;
-- scan 18 remains the separate verified full-page illustration;
-- scan 19 printed provenance `பத்துப்பாட்டு (குறிஞ்சிப்பாட்டு) / 61 முதல் 95 முடிய / பாடியவர் : கபிலர்` is recorded in the citation register.
+- `யாதும் ஊரே; யாவரும் கேளிர்!` — scans **20–24** — COMPLETE / verified.
 
-Scans 7 and 8 remain `partial` source/page records and should not be silently promoted.
+Scans 7–8 remain `partial`.
+
+### Scan-17 correction — permanent
+
+The verified source reads:
+
+`எளிய நடையில் எழுதிட முனைந்து`  
+`என்னாலியன்ற பணியினை முடித்தேன்.`
+
+Do not restore the earlier incorrect `எழுதி முடிந்து / என்னுலியன்ற` text.
+
+### Scan-24 provenance — exact printed form
+
+- `புறநானூறு - பாடல் : 192`
+- `பாடியவர் : கணியன் பூங்குன்றன்`
+
+The source-controlled quoted poem also preserves the printed form `ஆருது`; do not normalize it from an external edition.
 
 ## Current exact next activity
 
-Process:
+Scan **25 / printed page 10** begins the next decorative section:
 
-`யாதும் ஊரே; யாவரும் கேளிர்!` — scans **20–24**.
+**`மானங்காத்த மறவன்!`**
 
-- text pages: **20, 21, 23, 24**;
-- scan **22**: full-page illustration already represented as `verified`;
-- scan **24** prints `புறநானூறு - பாடல் : 192 / பாடியவர் : கணியன் பூங்குன்றனார்`.
+Proceed in this order:
 
-Transcribe directly from the PDF render, preserve wording and meaningful visual organization, and compare each completed page directly with the scan before promoting it to `verified`.
+1. inspect scan 25 onward until the next decorative heading is found;
+2. establish the complete section boundary;
+3. create physical page records for the verified range;
+4. transcribe each text page directly from the PDF;
+5. preserve illustration pages as separate records;
+6. preserve source-visible Sangam provenance and `பொருள் விளக்கம்` blocks exactly as printed;
+7. verify both textual and meaningful visual fidelity before `verified`;
+8. synchronize section README, page map, section register, citation register, work/root README and handover.
 
-After scans 20–24 are complete, update the section README, page map, section register, citation register, work/root README and handover. Then identify the next decorative heading from scan 25 onward and continue progressively through the full 497-scan source.
+Continue progressively through the complete 497-scan source; do not skip ahead merely because later citations are already sampled.
