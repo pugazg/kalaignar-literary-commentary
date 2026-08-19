@@ -4,6 +4,7 @@
 - scan range: **1–16**
 - printed front-matter pages visible: **III–IX** on scans 8–14
 - boundary confidence: **verified** — scan 17 begins the first decorative body section
+- direct text gate: **COMPLETE for scans 9–14 / printed IV–IX**
 
 ## பக்கங்கள்
 
@@ -16,10 +17,12 @@
 | 6 | internal title page | `verified` |
 | 7 | publication details | `partial` |
 | 8 | handwritten `முன்னுரை` facsimile | `partial` |
-| 9 | `ஈ. இராமலிங்கனர் மடல்!` | `not-started` |
-| 10–13 | `அணிந்துரை` | `not-started` |
-| 14 | `பதிப்புரை` | `not-started` |
+| 9 | `ஈ. இராமலிங்கனர் மடல்!` | `verified` + visual fidelity verified |
+| 10–13 | `அணிந்துரை` | `verified` + visual fidelity verified |
+| 14 | `பதிப்புரை` | `verified` + visual fidelity verified |
 | 15 | blank | `verified` |
 | 16 | internal title leaf | `verified` |
+
+Scans 7–8 remain explicitly source/page-level `partial` records and are not silently promoted merely because the printed-text gate 9–14 is complete.
 
 The physical page records under `../../pages/` remain canonical. This README is a navigation/status manifest only.
