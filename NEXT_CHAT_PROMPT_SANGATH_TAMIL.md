@@ -32,7 +32,7 @@ The scan is authoritative. Do not silently modernize, normalize, correct or repl
 
 Preserve textual fidelity **and visual text fidelity**: poetry lineation, prose paragraphs, indentation/block structure, decorative headings, separators, source-work labels, poem numbers, poet attributions, `பொருள் விளக்கம்`, and meaningful text/image relationships exactly as source-supported.
 
-## Current source boundary
+## Source boundary
 
 The supplied PDF has been independently confirmed as **497 scans**. Scan **497 is the back cover**. The earlier 150-page figure was a preview-service limitation and is retired.
 
@@ -40,19 +40,30 @@ The supplied PDF has been independently confirmed as **497 scans**. Scan **497 i
 - do not create scan 498+ records;
 - do not infer printed pagination from scan arithmetic.
 
+## Completed work — do not restart
+
+Front-matter printed-text gate:
+
+- scans **9–14 / printed IV–IX** — COMPLETE / verified.
+
+First body section:
+
+- `மலர்மாரி பொழிகின்றேன்!` — scans **17–19** — COMPLETE / verified;
+- scan 18 remains the separate verified full-page illustration;
+- scan 19 printed provenance `பத்துப்பாட்டு (குறிஞ்சிப்பாட்டு) / 61 முதல் 95 முடிய / பாடியவர் : கபிலர்` is recorded in the citation register.
+
+Scans 7 and 8 remain `partial` source/page records and should not be silently promoted.
+
 ## Current exact next activity
 
-Finish the front-matter text gate:
+Process:
 
-- scans 9–14 / printed pages IV–IX;
-- `ஈ. இராமலிங்கனர் மடல்!`;
-- `அணிந்துரை`;
-- `பதிப்புரை`.
+`யாதும் ஊரே; யாவரும் கேளிர்!` — scans **20–24**.
 
-Transcribe directly from the actual PDF render, preserve wording and meaningful visual organization, then compare each completed page directly with the scan before promoting it to `verified`.
+- text pages: **20, 21, 23, 24**;
+- scan **22**: full-page illustration already represented as `verified`;
+- scan **24** prints `புறநானூறு - பாடல் : 192 / பாடியவர் : கணியன் பூங்குன்றனார்`.
 
-After scans 9–14 are complete, process the first body section:
+Transcribe directly from the PDF render, preserve wording and meaningful visual organization, and compare each completed page directly with the scan before promoting it to `verified`.
 
-`மலர்மாரி பொழிகின்றேன்!` — scans 17–19.
-
-Continue progressively through the complete 497-scan source; do not skip ahead merely because later decorative section boundaries are visible.
+After scans 20–24 are complete, update the section README, page map, section register, citation register, work/root README and handover. Then identify the next decorative heading from scan 25 onward and continue progressively through the full 497-scan source.
