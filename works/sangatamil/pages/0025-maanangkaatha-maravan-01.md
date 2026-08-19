@@ -4,7 +4,7 @@ printed_page: "10"
 work: "sangatamil"
 section: "மானங்காத்த மறவன்!"
 page_type: "poetry"
-status: "verified"
+status: "needs-review"
 visual_fidelity: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
@@ -47,3 +47,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 இரும்பொறைத் தனயரும் போல கால் படைத்த சேரனவன்;
 
 - அதனாலே
+
+<!-- Direct visual review is still required for a small number of character-level readings on this page before status may return to verified. -->
