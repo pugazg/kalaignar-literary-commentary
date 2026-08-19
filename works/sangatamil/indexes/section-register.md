@@ -4,13 +4,15 @@ The source does not use the numbered `மலர்` scheme seen in *தொல்
 
 | Repo sequence | Printed heading / role | Scan range | Status |
 |---:|---|---:|---|
-| 000 | முன்பக்கங்கள் / front matter | 1–16 | mapped; mixed verification states |
-| 001 | `மலர்மாரி பொழிகின்றேன்!` | 17–19 | boundary verified; transcription pending |
+| 000 | முன்பக்கங்கள் / front matter | 1–16 | mapped; scans 9–14 text gate complete; scans 7–8 remain partial |
+| 001 | `மலர்மாரி பொழிகின்றேன்!` | 17–19 | **complete / verified** |
 | 002 | `யாதும் ஊரே; யாவரும் கேளிர்!` | 20–24 | boundary verified; transcription pending |
-| — | subsequent decorative sections | 25–150 | discovery pending |
+| — | subsequent decorative sections | 25–497 | discovery / progressive mapping pending |
 
 ## Boundary rule
 
 A decorative heading establishes a section start. Its end is the scan immediately before the next verified decorative heading, unless the source provides a stronger explicit boundary.
 
 Do not assign external Sangam `திணை`, anthology order, or chapter numbering unless the printed book itself supports that metadata or a separate comparative layer is explicitly requested.
+
+The source PDF is complete through scan **497**, which is the back cover. The retired 150-page preview limit must not be used as a structural boundary.
