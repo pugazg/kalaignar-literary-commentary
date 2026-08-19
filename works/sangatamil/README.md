@@ -25,48 +25,30 @@ See [`metadata/source.md`](metadata/source.md).
 
 The section layer never replaces page records.
 
-## Source-supported publication facts
-
-From the publication-information page:
-
-- title: **சங்கத் தமிழ்**;
-- author: **கலைஞர் மு. கருணாநிதி**;
-- category: **இலக்கியம்**;
-- stated description includes `சங்கத் தமிழுக்கு, எளிய நடையில் விளக்கக் கவிதை வரிகள்`;
-- publisher: **ராக்போர்ட் பப்ளிகேஷன்ஸ் (பி) லிட்., சென்னை - 600 083**;
-- publication number: **4**;
-- edition: **ஒன்று**;
-- copies: **3,000**;
-- date: **ஆகஸ்ட் 1987**;
-- price: **ரூ. 125/-**.
-
-Scan 7 remains `partial` until its lower production-detail lines complete character-level verification.
-
 ## Current mapped physical extent
 
-Physical page records currently exist through scan **24**.
+Physical page records now exist through scan **30**.
 
 Mapped structure:
 
 - scans **1–16** — front matter;
 - scans **17–19** — `மலர்மாரி பொழிகின்றேன்!` — complete;
 - scans **20–24** — `யாதும் ஊரே; யாவரும் கேளிர்!` — complete;
-- scan **25** — next decorative heading `மானங்காத்த மறவன்!` identified; page record/boundary work pending;
-- scans **26–497** — later source still to be progressively mapped/transcribed.
+- scans **25–30** — `மானங்காத்த மறவன்!` — complete;
+- scan **31 / printed 16** — next decorative heading `துணை நின்றார் தோழி!` identified;
+- scans **32–497** — later source still to be progressively mapped/transcribed.
+
+Scans **7–8** remain explicitly `partial` source/page records.
 
 ## Completed gates
 
 ### Front matter
 
-The direct printed-text gate for **scans 9–14 / printed IV–IX** is complete. All six pages passed both textual and meaningful visual-text fidelity checks. Scans 7–8 remain explicitly `partial` source/page records.
+The direct printed-text gate for **scans 9–14 / printed IV–IX** is complete. All six pages passed both textual and meaningful visual-text fidelity checks.
 
-### First body section — COMPLETE
+### Body section 001 — COMPLETE
 
-`மலர்மாரி பொழிகின்றேன்!` — scans **17–19**:
-
-- scan 17 text — `verified` + `visual_fidelity: verified`;
-- scan 18 full-page illustration — `verified`;
-- scan 19 text — `verified` + `visual_fidelity: verified`.
+`மலர்மாரி பொழிகின்றேன்!` — scans **17–19**.
 
 Scan 19 prints verified provenance:
 
@@ -74,26 +56,32 @@ Scan 19 prints verified provenance:
 - `61 முதல் 95 முடிய`;
 - `பாடியவர் : கபிலர்`.
 
-### Second body section — COMPLETE
+### Body section 002 — COMPLETE
 
-`யாதும் ஊரே; யாவரும் கேளிர்!` — scans **20–24**:
-
-- scan 20 text — `verified` + visual fidelity verified;
-- scan 21 text — `verified` + visual fidelity verified;
-- scan 22 full-page illustration — `verified`;
-- scan 23 text — `verified` + visual fidelity verified;
-- scan 24 text / Sangam quotation / `பொருள் விளக்கம்` — `verified` + visual fidelity verified.
-
-The text runs across scans 20–21, is physically interrupted by the scan-22 illustration, resumes on scan 23 and concludes on scan 24. That physical continuity is explicitly preserved.
+`யாதும் ஊரே; யாவரும் கேளிர்!` — scans **20–24**.
 
 Scan 24 prints:
 
 - `புறநானூறு - பாடல் : 192`;
 - `பாடியவர் : கணியன் பூங்குன்றன்`.
 
-The quoted poem is preserved as printed in this edition, including source-visible forms such as `ஆருது`; no external edition has been used to normalize the page.
+The quoted poem is preserved as printed in this edition, including source-visible forms such as `ஆருது`.
 
-Both verified source citations are recorded in [`indexes/source-citation-register.md`](indexes/source-citation-register.md).
+### Body section 003 — COMPLETE
+
+`மானங்காத்த மறவன்!` — scans **25–30 / printed 10–15**.
+
+- scan 25 — decorative opening + text verified;
+- scan 26 — full-page illustration verified;
+- scans 27–29 — text verified; later pencil marks/handwriting kept outside body text;
+- scan 30 — concluding text, quoted Sangam poem and `பொருள் விளக்கம்` verified.
+
+Scan 30 prints verified provenance:
+
+- `புறநானூறு : பாடல்: 74`;
+- `பாடியவர் : சேரமான் கணைக்கால் இரும்பொறை`.
+
+All three verified source citations are recorded in [`indexes/source-citation-register.md`](indexes/source-citation-register.md).
 
 ## Permanent fidelity rule
 
@@ -103,8 +91,8 @@ A text page becomes `verified` only after both textual fidelity and meaningful v
 
 ## Exact next activity
 
-Begin the next decorative section at **scan 25 / printed page 10**:
+Begin the next decorative section at **scan 31 / printed page 16**:
 
-**`மானங்காத்த மறவன்!`**
+**`துணை நின்றார் தோழி!`**
 
 First determine its full source boundary by locating the next decorative heading. Then create its physical page records, preserve illustrations/citations separately, and transcribe/verify in source order.
