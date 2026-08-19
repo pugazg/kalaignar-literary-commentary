@@ -6,8 +6,9 @@ The source does not use the numbered `மலர்` scheme seen in *தொல்
 |---:|---|---:|---|
 | 000 | முன்பக்கங்கள் / front matter | 1–16 | mapped; scans 9–14 text gate complete; scans 7–8 remain partial |
 | 001 | `மலர்மாரி பொழிகின்றேன்!` | 17–19 | **complete / verified** |
-| 002 | `யாதும் ஊரே; யாவரும் கேளிர்!` | 20–24 | boundary verified; transcription pending |
-| — | subsequent decorative sections | 25–497 | discovery / progressive mapping pending |
+| 002 | `யாதும் ஊரே; யாவரும் கேளிர்!` | 20–24 | **complete / verified** |
+| 003 | `மானங்காத்த மறவன்!` | starts at 25 | start heading verified; end boundary / transcription pending |
+| — | subsequent decorative sections | after section 003 through scan 497 | discovery / progressive mapping pending |
 
 ## Boundary rule
 
