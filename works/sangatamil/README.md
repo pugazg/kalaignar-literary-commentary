@@ -49,21 +49,16 @@ Physical page records currently exist through scan **24**.
 Mapped structure:
 
 - scans **1–16** — front matter;
-- scans **17–19** — `மலர்மாரி பொழிகின்றேன்!`;
-- scans **20–24** — `யாதும் ஊரே; யாவரும் கேளிர்!`;
-- scans **25–497** — later source still to be progressively mapped/transcribed.
+- scans **17–19** — `மலர்மாரி பொழிகின்றேன்!` — complete;
+- scans **20–24** — `யாதும் ஊரே; யாவரும் கேளிர்!` — complete;
+- scan **25** — next decorative heading `மானங்காத்த மறவன்!` identified; page record/boundary work pending;
+- scans **26–497** — later source still to be progressively mapped/transcribed.
 
 ## Completed gates
 
 ### Front matter
 
-The direct printed-text gate for **scans 9–14 / printed IV–IX** is complete:
-
-- scan 9 — `ஈ. இராமலிங்கனர் மடல்!` — verified;
-- scans 10–13 — `அணிந்துரை` — verified;
-- scan 14 — `பதிப்புரை` — verified.
-
-All six pages passed both textual and meaningful visual-text fidelity checks. Scans 7–8 remain explicitly `partial` source/page records.
+The direct printed-text gate for **scans 9–14 / printed IV–IX** is complete. All six pages passed both textual and meaningful visual-text fidelity checks. Scans 7–8 remain explicitly `partial` source/page records.
 
 ### First body section — COMPLETE
 
@@ -73,15 +68,32 @@ All six pages passed both textual and meaningful visual-text fidelity checks. Sc
 - scan 18 full-page illustration — `verified`;
 - scan 19 text — `verified` + `visual_fidelity: verified`.
 
-The Sangam quotation begins on scan 17, is physically interrupted by the scan-18 illustration, and resumes on scan 19. That relationship is preserved in the page records.
-
-Scan 19 prints the source attribution:
+Scan 19 prints verified provenance:
 
 - `பத்துப்பாட்டு (குறிஞ்சிப்பாட்டு)`;
 - `61 முதல் 95 முடிய`;
 - `பாடியவர் : கபிலர்`.
 
-It is recorded as verified provenance in [`indexes/source-citation-register.md`](indexes/source-citation-register.md).
+### Second body section — COMPLETE
+
+`யாதும் ஊரே; யாவரும் கேளிர்!` — scans **20–24**:
+
+- scan 20 text — `verified` + visual fidelity verified;
+- scan 21 text — `verified` + visual fidelity verified;
+- scan 22 full-page illustration — `verified`;
+- scan 23 text — `verified` + visual fidelity verified;
+- scan 24 text / Sangam quotation / `பொருள் விளக்கம்` — `verified` + visual fidelity verified.
+
+The text runs across scans 20–21, is physically interrupted by the scan-22 illustration, resumes on scan 23 and concludes on scan 24. That physical continuity is explicitly preserved.
+
+Scan 24 prints:
+
+- `புறநானூறு - பாடல் : 192`;
+- `பாடியவர் : கணியன் பூங்குன்றன்`.
+
+The quoted poem is preserved as printed in this edition, including source-visible forms such as `ஆருது`; no external edition has been used to normalize the page.
+
+Both verified source citations are recorded in [`indexes/source-citation-register.md`](indexes/source-citation-register.md).
 
 ## Permanent fidelity rule
 
@@ -91,12 +103,8 @@ A text page becomes `verified` only after both textual fidelity and meaningful v
 
 ## Exact next activity
 
-Process the second body section:
+Begin the next decorative section at **scan 25 / printed page 10**:
 
-**`யாதும் ஊரே; யாவரும் கேளிர்!` — scans 20–24**.
+**`மானங்காத்த மறவன்!`**
 
-Preserve scan 22 as a full-page illustration and verify the printed provenance on scan 24:
-
-`புறநானூறு - பாடல் : 192 / பாடியவர் : கணியன் பூங்குன்றனார்`.
-
-Then advance progressively through the full **497-scan** source in source order.
+First determine its full source boundary by locating the next decorative heading. Then create its physical page records, preserve illustrations/citations separately, and transcribe/verify in source order.
