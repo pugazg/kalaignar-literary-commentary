@@ -27,10 +27,11 @@ The actual supplied PDF has been independently confirmed as **497 scans**. Scans
 | 14 | IX | `பதிப்புரை` | `verified`; visual fidelity `verified` |
 | 15 | — | blank leaf | `verified` |
 | 16 | — | internal `சங்கத் தமிழ்` title leaf | `verified` |
-| 17–19 | printed 2–4 | `மலர்மாரி பொழிகின்றேன்!` | **section complete** — scans 17/19 text `verified`, scan 18 illustration `verified` |
-| 20–24 | printed 5–9 with scan-22 illustration | `யாதும் ஊரே; யாவரும் கேளிர்!` | **section complete** — scans 20/21/23/24 text `verified`, scan 22 illustration `verified` |
-| 25 | printed 10 | next decorative heading `மானங்காத்த மறவன்!` | section start identified; page record not yet created |
-| 26–497 | later body / end matter | subsequent source-order sections, citations, illustrations and final back cover | progressive discovery/transcription pending |
+| 17–19 | printed 2–4 | `மலர்மாரி பொழிகின்றேன்!` | **section complete** |
+| 20–24 | printed 5–9 with scan-22 illustration | `யாதும் ஊரே; யாவரும் கேளிர்!` | **section complete** |
+| 25–30 | printed 10–15 with scan-26 illustration | `மானங்காத்த மறவன்!` | **section complete** — text/visual fidelity verified; scan 26 illustration verified |
+| 31 | printed 16 | next decorative heading `துணை நின்றார் தோழி!` | section start identified; page record not yet created |
+| 32–497 | later body / end matter | subsequent source-order sections, citations, illustrations and final back cover | progressive discovery/transcription pending |
 
 ## Important controls
 
@@ -44,13 +45,14 @@ The actual supplied PDF has been independently confirmed as **497 scans**. Scans
 ## Completed gates
 
 - front-matter printed-text gate: **scans 9–14 / IV–IX — COMPLETE**;
-- first body section `மலர்மாரி பொழிகின்றேன்!`: **scans 17–19 — COMPLETE**;
-- second body section `யாதும் ஊரே; யாவரும் கேளிர்!`: **scans 20–24 — COMPLETE**.
+- `மலர்மாரி பொழிகின்றேன்!`: **scans 17–19 — COMPLETE**;
+- `யாதும் ஊரே; யாவரும் கேளிர்!`: **scans 20–24 — COMPLETE**;
+- `மானங்காத்த மறவன்!`: **scans 25–30 — COMPLETE**.
 
 ## Next gate
 
-Begin the next decorative section at **scan 25 / printed page 10**:
+Begin the next decorative section at **scan 31 / printed page 16**:
 
-`மானங்காத்த மறவன்!`
+`துணை நின்றார் தோழி!`
 
-First determine its full scan boundary from the next source-visible decorative heading, then create the physical page records and transcribe/verify in source order.
+First determine its full scan boundary from the next source-visible decorative heading, then create physical page records and transcribe/verify in source order.
