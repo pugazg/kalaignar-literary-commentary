@@ -119,6 +119,35 @@ exactly.
 The validator re-checks each sample's `printedPage` against the archive's own record for that scan,
 so a sample cannot drift from the page records it claims to corroborate.
 
+## Verification level
+
+`identityStatus` says *whether* identity is established. `identityVerification.level` says **how far
+the verification actually went**, so a reviewer can tell at a glance what was and was not done.
+
+| Level | Meaning |
+|---|---|
+| `recorded` | the values are written down but were never checked against the file |
+| `file-verified` | SHA-256, byte size and page count were recomputed **from the controlling file** |
+| `content-correspondence-verified` | file-verified, **and** the file's pages were matched to the archive's page records by printed content |
+
+**This work is at `content-correspondence-verified`**, because verification included all four:
+
+1. **source hash** — SHA-256 recomputed from the file
+2. **byte size** — recomputed from the file
+3. **page count** — 323, read from the file and equal to the archive's scan count
+4. **page correspondence validation** — two boundary pages matched to their page records by content
+
+### What this level does *not* claim
+
+It claims a whole-file identity match plus page-level correspondence **at the verified samples**. It
+does **not** claim that all 323 pages were individually re-read. The manifest says so in
+`identityVerification.note`, and the level names exactly what was done — nothing more.
+
+The release gate requires this strongest level: `recorded` and `file-verified` both fail it. The
+validator also refuses a level that its own evidence does not support — claiming
+`content-correspondence-verified` without recorded samples, or without listing
+`page-correspondence-samples` among the methods, fails.
+
 ## `identityStatus`
 
 Exactly two values are allowed:

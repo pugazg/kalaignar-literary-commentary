@@ -17,6 +17,23 @@
   "publisher": "பூம்புகார் பதிப்பகம்",
   "edition": "இரண்டாவது பதிப்பு, மார்ச் 2010",
   "identityStatus": "verified",
+  "identityVerification": {
+    "level": "content-correspondence-verified",
+    "levels": {
+      "recorded": "identity values are written down but were never checked against the file",
+      "file-verified": "sha256, byte size and page count were recomputed from the controlling file",
+      "content-correspondence-verified": "file-verified, AND the file's pages were matched to the archive's page records by content"
+    },
+    "verifiedAgainst": "TVA_BOK_0065564_திருக்குறள்_கலைஞர்_உரை.pdf",
+    "verificationMethod": [
+      "sha256",
+      "byte-size",
+      "page-count",
+      "page-correspondence-samples"
+    ],
+    "verifiedOn": "2026-08-21",
+    "note": "Verification reached content-correspondence-verified: the controlling file's SHA-256, byte size and page count were recomputed from the file itself, and two boundary pages were matched to their archive page records by printed content. This claims page-level correspondence at the verified samples plus a whole-file identity match; it does NOT claim that every one of the 323 pages was individually re-read."
+  },
   "controllingSource": {
     "filename": "TVA_BOK_0065564_திருக்குறள்_கலைஞர்_உரை.pdf",
     "sha256": "765d0c73bce13c71e2e595e38f5216a3551c4dc94a315a0e2264a1a2630c3c56",

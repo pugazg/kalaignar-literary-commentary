@@ -150,6 +150,43 @@ if (cs) {
   check("controlling source records how it was verified", typeof cs.verificationNote === "string" && cs.verificationNote.length > 40);
 }
 
+// ── 4b. IDENTITY VERIFICATION LEVEL — how far verification actually went ───────────────────────
+// A future reviewer must be able to tell at a glance whether the identity is merely recorded,
+// checked against the file, or additionally matched to the archive by content. The level is not
+// decorative: the release gate requires the strongest one, and every claim it makes must be backed
+// by evidence elsewhere in the manifest.
+const LEVELS = ["recorded", "file-verified", "content-correspondence-verified"];
+const iv = man.identityVerification;
+check("manifest declares an identity verification level", !!iv && typeof iv === "object");
+if (iv) {
+  check("identity verification level is a known value", LEVELS.includes(iv.level), String(iv.level));
+  check("identity verification names the file it was verified against",
+    typeof iv.verifiedAgainst === "string" && iv.verifiedAgainst.endsWith(".pdf"), String(iv.verifiedAgainst));
+  check("verifiedAgainst matches the controlling source filename",
+    (iv.verifiedAgainst ?? "").normalize("NFC") === (cs?.filename ?? "").normalize("NFC"),
+    `${iv.verifiedAgainst} vs ${cs?.filename}`);
+  check("identity verification lists its methods",
+    Array.isArray(iv.verificationMethod) && iv.verificationMethod.length > 0);
+  const methods = new Set(iv.verificationMethod ?? []);
+  // Each level must actually be earned by the methods claimed.
+  if (iv.level === "file-verified" || iv.level === "content-correspondence-verified") {
+    check("level claims file verification, so sha256 must be among the methods", methods.has("sha256"),
+      [...methods].join(", "));
+    check("level claims file verification, so byte-size must be among the methods", methods.has("byte-size"));
+    check("level claims file verification, so page-count must be among the methods", methods.has("page-count"));
+  }
+  if (iv.level === "content-correspondence-verified") {
+    check("level claims content correspondence, so page-correspondence-samples must be among the methods",
+      methods.has("page-correspondence-samples"), [...methods].join(", "));
+    // …and the samples it relies on must actually exist.
+    check("content-correspondence level is backed by verified samples",
+      Array.isArray(man.pageCorrespondence?.verifiedSamples) && man.pageCorrespondence.verifiedSamples.length >= 2);
+    check("content-correspondence level requires a recorded correspondence", man.pageCorrespondence?.type === "one-to-one");
+  }
+  check("identity verification does not overclaim beyond the recorded evidence",
+    !(iv.level === "content-correspondence-verified" && !man.pageCorrespondence));
+}
+
 // ── 5a. FILE-CONTENT VERIFICATION (only possible when the PDF is supplied) ─────────────────────
 let fileChecked = false;
 if (cs && VERIFY_FILE) {
@@ -250,6 +287,14 @@ if (RELEASE) {
   check("RELEASE GATE: the controlling source spans the whole work", !!cs && cs.pageCount === man.totalScans);
   check("RELEASE GATE: page correspondence is recorded and one-to-one",
     pc?.type === "one-to-one" && pc?.sourcePageEqualsArchiveScan === true);
+  // Release requires the STRONGEST level. 'recorded' or 'file-verified' is not enough to publish a
+  // work as having verified source identity.
+  check("RELEASE GATE: identity verification level is content-correspondence-verified",
+    iv?.level === "content-correspondence-verified",
+    `level is "${iv?.level}" — release requires content-correspondence-verified`);
+  check("RELEASE GATE: verification methods include the file checks and the correspondence samples",
+    ["sha256", "byte-size", "page-count", "page-correspondence-samples"].every((x) => (iv?.verificationMethod ?? []).includes(x)),
+    `methods: ${(iv?.verificationMethod ?? []).join(", ")}`);
 }
 
 const mode = RELEASE ? "VERIFIED IDENTITY GATE" : "STRUCTURAL VALIDATION";
@@ -259,6 +304,7 @@ if (cs) {
   console.log(`\n  Controlling source: ${cs.filename}`);
   console.log(`    sha256 ${cs.sha256}`);
   console.log(`    ${cs.byteSize?.toLocaleString()} bytes · ${cs.pageCount} pages · ${anchored ? "IDENTIFIED" : "NOT IDENTIFIED"}`);
+  console.log(`    identity verification: ${iv?.level ?? "NOT DECLARED"}`);
   console.log(fileChecked
     ? "    file content RE-VERIFIED against the supplied PDF"
     : "    recorded identity NOT re-checked against the file (pass --verify-file <pdf> to do so)");
