@@ -22,13 +22,23 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import { fileURLToPath } from "node:url";
+import crypto from "node:crypto";
+import { execFileSync } from "node:child_process";
 
-const WORK = process.argv[2];
+// The work directory defaults to this script's own location, so both invocations work:
+//   node works/thirukkural/validate-source-manifest.mjs
+//   node works/thirukkural/validate-source-manifest.mjs works/thirukkural --release
 const RELEASE = process.argv.includes("--release");
-if (!WORK) {
-  console.error("usage: node validate-source-manifest.mjs <work-dir> [--release]");
-  process.exit(1);
-}
+// Optional: point at the controlling PDF to re-verify the RECORDED identity against the actual file.
+//   --verify-file <path>   (or set THIRUKKURAL_SOURCE_PDF)
+// Without it, a recorded hash can only be checked for SHAPE, never for correctness — a plausible but
+// wrong 64-hex string is indistinguishable from the right one. The report says so explicitly rather
+// than implying the value was checked.
+const vfIdx = process.argv.indexOf("--verify-file");
+const VERIFY_FILE = vfIdx !== -1 ? process.argv[vfIdx + 1] : process.env.THIRUKKURAL_SOURCE_PDF ?? null;
+const WORK = process.argv.slice(2).filter((a, i, arr) => !a.startsWith("--") && arr[i - 1] !== "--verify-file").find(Boolean)
+  ?? path.dirname(fileURLToPath(import.meta.url));
 
 const MANIFEST = path.join(WORK, "metadata/source-manifest.json");
 if (!fs.existsSync(MANIFEST)) {
@@ -69,19 +79,24 @@ check("edition identity matches metadata/source.md", (() => {
 check("schemaVersion is set", Number.isInteger(man.schemaVersion) && man.schemaVersion >= 1);
 
 // ── 2. ALL 15 PDFs REQUIRED, exactly those the page records name ────────────────────────────────
-check("manifest lists exactly 15 derived splits", man.derivedSplits.length === 15, `found ${man.derivedSplits.length}`);
+check("manifest lists exactly 15 derived processing files", man.derivedFiles.length === 15, `found ${man.derivedFiles.length}`);
 check("page records reference exactly 15 distinct source files", byFile.size === 15, `found ${byFile.size}`);
-const manNames = new Set(man.derivedSplits.map((f) => f.filename.normalize("NFC")));
+const manNames = new Set(man.derivedFiles.map((f) => f.filename.normalize("NFC")));
 for (const n of byFile.keys()) check(`page-record file is in the manifest: …${n.slice(-26)}`, manNames.has(n));
 for (const n of manNames) check(`manifest file is used by page records: …${n.slice(-26)}`, byFile.has(n));
 check("part numbers are exactly 1..15",
-  JSON.stringify(man.derivedSplits.map((f) => f.part).sort((a, b) => a - b)) === JSON.stringify([...Array(15)].map((_, i) => i + 1)));
-check("no duplicate filenames", manNames.size === man.derivedSplits.length);
+  JSON.stringify(man.derivedFiles.map((f) => f.part).sort((a, b) => a - b)) === JSON.stringify([...Array(15)].map((_, i) => i + 1)));
+check("no duplicate filenames", manNames.size === man.derivedFiles.length);
+check("every derived file declares its processing-split role",
+  man.derivedFiles.every((f) => f.role === "processing-split"),
+  man.derivedFiles.filter((f) => f.role !== "processing-split").map((f) => `${f.part}:${f.role}`).join(", "));
+check("the manifest states that derived files are not archival anchors",
+  typeof man.derivationNote === "string" && /not\s+independent archival identity anchors/i.test(man.derivationNote));
 
 // ── 3. SCAN RANGES COVER 1..323, NO OVERLAP, NO GAP ─────────────────────────────────────────────
 const owner = new Map();
 let wellFormed = true;
-for (const f of man.derivedSplits) {
+for (const f of man.derivedFiles) {
   const [lo, hi] = f.scanRange ?? [];
   if (!Number.isInteger(lo) || !Number.isInteger(hi) || hi < lo) { wellFormed = false; continue; }
   for (let s = lo; s <= hi; s++) {
@@ -98,7 +113,7 @@ check("declared totalScans matches the page-record count", man.totalScans === [.
 check("declared scanRange spans the whole work", JSON.stringify(man.scanRange) === JSON.stringify([1, man.totalScans]));
 
 // ── 4. FILENAME MUST MATCH PAGE RECORDS, and each part must agree with itself ───────────────────
-for (const f of man.derivedSplits) {
+for (const f of man.derivedFiles) {
   const scans = (byFile.get(f.filename.normalize("NFC")) ?? []).slice().sort((a, b) => a - b);
   if (!scans.length) continue;
   const lo = scans[0], hi = scans[scans.length - 1];
@@ -135,21 +150,85 @@ if (cs) {
   check("controlling source records how it was verified", typeof cs.verificationNote === "string" && cs.verificationNote.length > 40);
 }
 
-// ── 6. DERIVED SPLITS — traceability only, never the identity anchor ────────────────────────────
-// A split may carry a hash, but is not required to. If one IS supplied it must be well-formed and
-// paired with a byte size, so a half-identified split can never masquerade as verified.
+// ── 5a. FILE-CONTENT VERIFICATION (only possible when the PDF is supplied) ─────────────────────
+let fileChecked = false;
+if (cs && VERIFY_FILE) {
+  if (!fs.existsSync(VERIFY_FILE)) {
+    fail.push(`--verify-file: no such file: ${VERIFY_FILE}`);
+  } else {
+    fileChecked = true;
+    const buf = fs.readFileSync(VERIFY_FILE);
+    const actualSha = crypto.createHash("sha256").update(buf).digest("hex");
+    check("FILE CHECK: recorded sha256 matches the actual file", actualSha === cs.sha256,
+      `file is ${actualSha}, manifest records ${cs.sha256}`);
+    check("FILE CHECK: recorded byteSize matches the actual file", buf.length === cs.byteSize,
+      `file is ${buf.length} bytes, manifest records ${cs.byteSize}`);
+    check("FILE CHECK: filename matches the recorded one",
+      path.basename(VERIFY_FILE).normalize("NFC") === cs.filename.normalize("NFC"),
+      `${path.basename(VERIFY_FILE)} vs ${cs.filename}`);
+    // Page count, where a PDF tool is available. Absence of the tool is not a failure.
+    try {
+      const info = execFileSync("pdfinfo", [VERIFY_FILE], { encoding: "utf8" });
+      const pages = Number(/^Pages:\s*(\d+)/m.exec(info)?.[1]);
+      if (Number.isInteger(pages)) {
+        check("FILE CHECK: recorded pageCount matches the actual file", pages === cs.pageCount,
+          `file has ${pages} pages, manifest records ${cs.pageCount}`);
+      }
+    } catch { /* pdfinfo unavailable — page count stays archive-attested */ }
+  }
+}
+
+// ── 5b. PAGE CORRESPONDENCE — recorded so importers need not rediscover it ─────────────────────
+const pc = man.pageCorrespondence;
+check("manifest records a page correspondence", !!pc && typeof pc === "object");
+if (pc) {
+  check("correspondence type is declared", typeof pc.type === "string" && pc.type.length > 0, String(pc.type));
+  check("correspondence is one-to-one", pc.type === "one-to-one", String(pc.type));
+  check("correspondence declares PDF page == archive scan", pc.sourcePageEqualsArchiveScan === true);
+  check("correspondence source range spans the whole PDF",
+    JSON.stringify(pc.sourcePageRange) === JSON.stringify([1, cs?.pageCount ?? -1]),
+    `${JSON.stringify(pc.sourcePageRange)} vs PDF 1..${cs?.pageCount}`);
+  check("correspondence archive range spans the whole archive",
+    JSON.stringify(pc.archiveScanRange) === JSON.stringify([1, man.totalScans]));
+  // A one-to-one claim is only coherent if both sides are the same length.
+  check("one-to-one is arithmetically possible", (cs?.pageCount ?? -1) === man.totalScans,
+    `PDF ${cs?.pageCount} pages vs ${man.totalScans} scans`);
+  check("correspondence carries verified samples", Array.isArray(pc.verifiedSamples) && pc.verifiedSamples.length >= 2,
+    `${pc.verifiedSamples?.length ?? 0} sample(s)`);
+  for (const smp of pc.verifiedSamples ?? []) {
+    check(`sample pdfPage ${smp.pdfPage}: equals its archiveScan`, smp.pdfPage === smp.archiveScan,
+      `${smp.pdfPage} vs ${smp.archiveScan}`);
+    check(`sample pdfPage ${smp.pdfPage}: lies inside the work`, smp.pdfPage >= 1 && smp.pdfPage <= man.totalScans);
+    check(`sample pdfPage ${smp.pdfPage}: states how it was verified`, typeof smp.verification === "string" && smp.verification.length > 0);
+    // The sample's printedPage must match what the archive's own record says for that scan.
+    const rec = fs.readdirSync(path.join(WORK, "pages")).find((x) => x.startsWith(String(smp.archiveScan).padStart(4, "0")));
+    if (rec) {
+      const head = /^---\n([\s\S]*?)\n---\n/.exec(fs.readFileSync(path.join(WORK, "pages", rec), "utf8"))?.[1] ?? "";
+      const printed = /^printed_page:\s*"?([^"\n]*)"?/m.exec(head)?.[1]?.trim();
+      check(`sample pdfPage ${smp.pdfPage}: printedPage matches page record ${rec}`,
+        String(smp.printedPage) === printed, `manifest "${smp.printedPage}" vs record "${printed}"`);
+    } else {
+      check(`sample pdfPage ${smp.pdfPage}: a page record exists for archive scan ${smp.archiveScan}`, false);
+    }
+  }
+}
+
+// ── 6. DERIVED PROCESSING FILES — traceability only, never the identity anchor ──────────────────
+// These are reproducible splits of the controlling source, kept because the page records cite their
+// filenames. A SHA-256 is NOT required for them. If one IS supplied it must be well-formed and
+// paired with a byte size, so a half-identified derived file can never masquerade as verified.
 const pending = [];
-for (const f of man.derivedSplits) {
+for (const f of man.derivedFiles) {
   const hasSha = f.sha256 !== null && f.sha256 !== undefined;
   const hasSize = f.byteSize !== null && f.byteSize !== undefined;
   if (!hasSha && !hasSize) { pending.push(f.part); continue; }
   // A part must not be half-identified: both together, or neither.
-  check(`part ${f.part}: sha256 and byteSize are supplied together`, hasSha && hasSize,
+  check(`derived file ${f.part}: sha256 and byteSize are supplied together`, hasSha && hasSize,
     `sha256 ${hasSha ? "set" : "null"}, byteSize ${hasSize ? "set" : "null"}`);
-  if (hasSha) check(`part ${f.part}: sha256 is a real 64-hex digest`, /^[0-9a-f]{64}$/.test(f.sha256), String(f.sha256));
-  if (hasSize) check(`part ${f.part}: byteSize is a positive integer`, Number.isInteger(f.byteSize) && f.byteSize > 0, String(f.byteSize));
+  if (hasSha) check(`derived file ${f.part}: sha256 is a real 64-hex digest`, /^[0-9a-f]{64}$/.test(f.sha256), String(f.sha256));
+  if (hasSize) check(`derived file ${f.part}: byteSize is a positive integer`, Number.isInteger(f.byteSize) && f.byteSize > 0, String(f.byteSize));
 }
-const unhashed = man.derivedSplits.filter((f) => f.sha256 === null || f.sha256 === undefined).length;
+const unhashed = man.derivedFiles.filter((f) => f.sha256 === null || f.sha256 === undefined).length;
 const anchored = !!cs && /^[0-9a-f]{64}$/.test(cs.sha256 ?? "") && Number.isInteger(cs.byteSize) && cs.byteSize > 0;
 check("no PDF is committed in this repository", !fs.readdirSync(WORK, { recursive: true }).some((f) => String(f).toLowerCase().endsWith(".pdf")));
 check("identityStatus uses an allowed value", [STATUS_VERIFIED, STATUS_PENDING].includes(man.identityStatus), String(man.identityStatus));
@@ -169,6 +248,8 @@ if (RELEASE) {
   check("RELEASE GATE: the controlling source is fully identified", anchored,
     "the single archival PDF must carry a real sha256 and byteSize — derived splits cannot substitute for it");
   check("RELEASE GATE: the controlling source spans the whole work", !!cs && cs.pageCount === man.totalScans);
+  check("RELEASE GATE: page correspondence is recorded and one-to-one",
+    pc?.type === "one-to-one" && pc?.sourcePageEqualsArchiveScan === true);
 }
 
 const mode = RELEASE ? "VERIFIED IDENTITY GATE" : "STRUCTURAL VALIDATION";
@@ -178,10 +259,13 @@ if (cs) {
   console.log(`\n  Controlling source: ${cs.filename}`);
   console.log(`    sha256 ${cs.sha256}`);
   console.log(`    ${cs.byteSize?.toLocaleString()} bytes · ${cs.pageCount} pages · ${anchored ? "IDENTIFIED" : "NOT IDENTIFIED"}`);
+  console.log(fileChecked
+    ? "    file content RE-VERIFIED against the supplied PDF"
+    : "    recorded identity NOT re-checked against the file (pass --verify-file <pdf> to do so)");
 }
 if (pending.length) {
   // Not a deficiency: the splits are derived working copies, not the identity anchor.
-  console.log(`\n  ${pending.length} of ${man.derivedSplits.length} derived splits carry no hash — expected.`);
+  console.log(`\n  ${pending.length} of ${man.derivedFiles.length} derived processing files carry no hash — expected.`);
   console.log(`  They are convenience copies, not the controlling source, and never gate a release.`);
 }
 if (fail.length) { console.error("\nFAILURES:"); for (const f of fail) console.error(" ✗ " + f); process.exit(1); }

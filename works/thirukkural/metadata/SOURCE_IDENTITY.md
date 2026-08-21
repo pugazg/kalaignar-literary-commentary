@@ -33,7 +33,23 @@ travels as **filename + SHA-256 + byte size + page count** rather than as bytes.
 `source-manifest.json` load-bearing: it is the only durable link between this repository and the
 files it preserves.
 
-## The controlling source, and the 15 splits
+## Hierarchy
+
+```
+Controlling source PDF          ← the single archival identity anchor
+        |
+        +── Derived processing files   (15 convenience splits)
+                |
+                +── Page records       (323, one per scan)
+                |
+                +── Imported reading data
+```
+
+**The controlling archival identity is the single Tamil Digital Library PDF. The split PDFs are
+derived processing files created for workflow convenience and are not independent archival identity
+anchors.**
+
+## The controlling source, and the 15 derived files
 
 The identity anchor is a **single archival PDF**:
 
@@ -46,24 +62,62 @@ The identity anchor is a **single archival PDF**:
 | Repository | Tamil Digital Library — நூல் 65564 |
 | Committed | no |
 
-The **15 `part_NNN` PDFs are a convenience split** the owner produced from that file for working
-purposes. They are *not* the controlling source. The 323 page records cite their filenames, so the
-mapping is preserved here for traceability, but their hashes are optional and never gate a release.
+### Derived processing files
 
-Requiring hashes for derived working copies while the real source went unverified would have been
-precisely backwards. The single file is what a future reader can obtain and re-check.
+The **15 `part_NNN` PDFs are processing splits** the owner produced from that single file for
+workflow convenience. In the manifest they appear under `derivedFiles`, each carrying
+`"role": "processing-split"`.
 
-### How the correspondence was established
+They:
 
-Page count alone would prove little, so content was checked at both boundaries:
+- exist **only** for processing convenience;
+- are **not independent editions** and carry no separate archival identity;
+- **do not require archival hashing** — they are reproducible from the controlling source;
+- take their traceability from **filename + scan mapping**, because the 323 page records cite those
+  filenames.
 
-- **PDF page 34** → running head `அறம் - பாயிரம் - வழிபாடு`, printed page `1`, heading `1. வழிபாடு`,
-  Kurals 1–5 each followed by Kalaignar's urai — matching page record `0034` exactly.
-- **PDF page 303** → running head `திருக்குறள் - கலைஞர் உரை`, printed page `270`, Kurals 1326–1330,
-  ending at 1330 — matching page record `0303` exactly.
+Their filenames are therefore required and are validated against the page records, but a missing
+`sha256` on a derived file is expected and never gates a release. Requiring proof of derived working
+copies while the real source went unverified would have been precisely backwards. The single file is
+what a future reader can obtain and re-check.
 
-**PDF page N corresponds to archive scan N**, and the file's 323 pages match the archive's 323 page
-records.
+## Page correspondence
+
+```
+PDF page N = archive scan N
+```
+
+This holds across the whole work: the file's 323 pages match the archive's 323 page records
+one-to-one. It is recorded in the manifest under `pageCorrespondence` so that future importers and
+validators inherit the fact instead of rediscovering it.
+
+Page count alone would prove little, so content was checked at both boundaries.
+
+**Beginning**
+
+```
+PDF page 34
+Archive scan 34
+Printed page 1
+Kurals 1–5 with Kalaignar Urai
+```
+
+Running head `அறம் - பாயிரம் - வழிபாடு`, heading `1. வழிபாடு` — matching page record `0034` exactly.
+
+**End**
+
+```
+PDF page 303
+Archive scan 303
+Printed page 270
+Kurals 1326–1330
+```
+
+Running head `திருக்குறள் - கலைஞர் உரை`, the work ending at Kural 1330 — matching page record `0303`
+exactly.
+
+The validator re-checks each sample's `printedPage` against the archive's own record for that scan,
+so a sample cannot drift from the page records it claims to corroborate.
 
 ## `identityStatus`
 
@@ -130,7 +184,23 @@ part is unhashed.
 
 ## Re-verifying the controlling source
 
-Identity is already recorded. To re-confirm it against a copy of the file:
+Identity is already recorded. The validator can re-check it **against the actual file**:
+
+```bash
+node works/thirukkural/validate-source-manifest.mjs --verify-file /path/to/TVA_BOK_0065564_திருக்குறள்_கலைஞர்_உரை.pdf --release
+# expect: file content RE-VERIFIED against the supplied PDF
+#         RELEASE READY — source identity verified
+```
+
+Without `--verify-file`, a recorded hash can only be checked for **shape**, never for correctness —
+a plausible but wrong 64-hex string is indistinguishable from the right one. The report says so
+explicitly rather than implying the value was checked:
+
+```
+recorded identity NOT re-checked against the file (pass --verify-file <pdf> to do so)
+```
+
+To confirm the values by hand:
 
 ```bash
 # macOS
@@ -156,10 +226,11 @@ node works/thirukkural/validate-source-manifest.mjs works/thirukkural --release
 # expect: RELEASE READY — source identity verified
 ```
 
-## Optionally hashing the derived splits
+## Optionally hashing the derived processing files
 
-Not required, and not a release gate. If you ever do record them, supply `sha256` **and** `byteSize`
-together — the validator rejects a half-identified split, so one can never masquerade as verified.
+Not required, and not a release gate — they are reproducible derivatives, not archival anchors. If
+you ever do record them, supply `sha256` **and** `byteSize` together; the validator rejects a
+half-identified derived file, so one can never masquerade as verified.
 Do not edit `filename`, `pageCount` or `scanRange`: those are archive-derived, and if one looks wrong
 the page records are the thing to investigate, not the manifest.
 

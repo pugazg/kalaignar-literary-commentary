@@ -1,10 +1,12 @@
 {
   "$comment": [
     "Source identity for திருக்குறள் — கலைஞர் உரை.",
+    "HIERARCHY: controlling source PDF → derived processing files → page records → imported reading data.",
     "controllingSource is the SINGLE archival PDF and is the sole identity anchor.",
-    "derivedSplits are 15 convenience parts the owner produced from that file for working purposes.",
-    "They are NOT the controlling source: their hashes are optional and are never a release gate.",
-    "The page records cite the split filenames, so the mapping is preserved here for traceability.",
+    "derivedFiles are processing splits produced from it for workflow convenience. They are NOT",
+    "independent archival identities: their hashes are optional and never gate a release.",
+    "pageCorrespondence records the verified one-to-one mapping PDF page N = archive scan N, so future",
+    "importers and validators need not rediscover it.",
     "See SOURCE_IDENTITY.md for the rationale and the verification performed."
   ],
   "schemaVersion": 2,
@@ -27,6 +29,35 @@
     "verifiedOn": "2026-08-21",
     "verificationNote": "SHA-256 and byte size computed directly from the supplied file. Page count 323 matches the archive's 323 page records exactly, and content correspondence was confirmed at both boundaries: PDF page 34 carries running head 'அறம் - பாயிரம் - வழிபாடு', printed page 1 and Kurals 1–5; PDF page 303 carries printed page 270 and Kurals 1326–1330. PDF page N corresponds to archive scan N."
   },
+  "pageCorrespondence": {
+    "type": "one-to-one",
+    "sourcePageEqualsArchiveScan": true,
+    "sourcePageRange": [
+      1,
+      323
+    ],
+    "archiveScanRange": [
+      1,
+      323
+    ],
+    "verifiedSamples": [
+      {
+        "pdfPage": 34,
+        "archiveScan": 34,
+        "printedPage": "1",
+        "verification": "content-match",
+        "evidence": "running head 'அறம் - பாயிரம் - வழிபாடு'; heading '1. வழிபாடு'; Kurals 1–5 each followed by Kalaignar's urai"
+      },
+      {
+        "pdfPage": 303,
+        "archiveScan": 303,
+        "printedPage": "270",
+        "verification": "content-match",
+        "evidence": "running head 'திருக்குறள் - கலைஞர் உரை'; Kurals 1326–1330, ending the work at 1330"
+      }
+    ]
+  },
+  "derivationNote": "The controlling archival identity is the single Tamil Digital Library PDF. The split PDFs are derived processing files created for workflow convenience and are not independent archival identity anchors. Their filenames are retained because the 323 page records cite them, so the chain controlling source → derived processing files → page records remains traceable. They are reproducible from the controlling source and therefore require no archival hash.",
   "editionDetails": {
     "publisherAddress": "127 (ப. எண். 63), பிரகாசம் சாலை (பிராட்வே), சென்னை - 600 108",
     "firstEdition": "முதற் பதிப்பு: டிசம்பர், 2007",
@@ -47,16 +78,17 @@
       "controllingSource.pageCount"
     ],
     "archiveDerived": [
-      "derivedSplits[].filename",
-      "derivedSplits[].pageCount",
-      "derivedSplits[].scanRange"
+      "derivedFiles[].filename",
+      "derivedFiles[].pageCount",
+      "derivedFiles[].scanRange"
     ],
-    "note": "archiveDerived fields are re-derived from the 323 verified page records on every validation run, so the manifest cannot silently drift. The controlling source's identity is file-verified and anchors the whole work."
+    "note": "archiveDerived fields are re-derived from the 323 verified page records on every validation run, so the manifest cannot silently drift. Only the controlling source's identity is file-verified, and it anchors the whole work."
   },
-  "derivedSplits": [
+  "derivedFiles": [
     {
       "part": 1,
       "filename": "திருக்குறள்_கலைஞர்_உரை_part_001_pages_1-20.pdf",
+      "role": "processing-split",
       "sha256": null,
       "byteSize": null,
       "pageCount": 20,
@@ -68,6 +100,7 @@
     {
       "part": 2,
       "filename": "திருக்குறள்_கலைஞர்_உரை_part_002_pages_21-41.pdf",
+      "role": "processing-split",
       "sha256": null,
       "byteSize": null,
       "pageCount": 21,
@@ -79,6 +112,7 @@
     {
       "part": 3,
       "filename": "திருக்குறள்_கலைஞர்_உரை_part_003_pages_42-62.pdf",
+      "role": "processing-split",
       "sha256": null,
       "byteSize": null,
       "pageCount": 21,
@@ -90,6 +124,7 @@
     {
       "part": 4,
       "filename": "திருக்குறள்_கலைஞர்_உரை_part_004_pages_63-84.pdf",
+      "role": "processing-split",
       "sha256": null,
       "byteSize": null,
       "pageCount": 22,
@@ -101,6 +136,7 @@
     {
       "part": 5,
       "filename": "திருக்குறள்_கலைஞர்_உரை_part_005_pages_85-106.pdf",
+      "role": "processing-split",
       "sha256": null,
       "byteSize": null,
       "pageCount": 22,
@@ -112,6 +148,7 @@
     {
       "part": 6,
       "filename": "திருக்குறள்_கலைஞர்_உரை_part_006_pages_107-127.pdf",
+      "role": "processing-split",
       "sha256": null,
       "byteSize": null,
       "pageCount": 21,
@@ -123,6 +160,7 @@
     {
       "part": 7,
       "filename": "திருக்குறள்_கலைஞர்_உரை_part_007_pages_128-148.pdf",
+      "role": "processing-split",
       "sha256": null,
       "byteSize": null,
       "pageCount": 21,
@@ -134,6 +172,7 @@
     {
       "part": 8,
       "filename": "திருக்குறள்_கலைஞர்_உரை_part_008_pages_149-169.pdf",
+      "role": "processing-split",
       "sha256": null,
       "byteSize": null,
       "pageCount": 21,
@@ -145,6 +184,7 @@
     {
       "part": 9,
       "filename": "திருக்குறள்_கலைஞர்_உரை_part_009_pages_170-191.pdf",
+      "role": "processing-split",
       "sha256": null,
       "byteSize": null,
       "pageCount": 22,
@@ -156,6 +196,7 @@
     {
       "part": 10,
       "filename": "திருக்குறள்_கலைஞர்_உரை_part_010_pages_192-214.pdf",
+      "role": "processing-split",
       "sha256": null,
       "byteSize": null,
       "pageCount": 23,
@@ -167,6 +208,7 @@
     {
       "part": 11,
       "filename": "திருக்குறள்_கலைஞர்_உரை_part_011_pages_215-237.pdf",
+      "role": "processing-split",
       "sha256": null,
       "byteSize": null,
       "pageCount": 23,
@@ -178,6 +220,7 @@
     {
       "part": 12,
       "filename": "திருக்குறள்_கலைஞர்_உரை_part_012_pages_238-260.pdf",
+      "role": "processing-split",
       "sha256": null,
       "byteSize": null,
       "pageCount": 23,
@@ -189,6 +232,7 @@
     {
       "part": 13,
       "filename": "திருக்குறள்_கலைஞர்_உரை_part_013_pages_261-282.pdf",
+      "role": "processing-split",
       "sha256": null,
       "byteSize": null,
       "pageCount": 22,
@@ -200,6 +244,7 @@
     {
       "part": 14,
       "filename": "திருக்குறள்_கலைஞர்_உரை_part_014_pages_283-302.pdf",
+      "role": "processing-split",
       "sha256": null,
       "byteSize": null,
       "pageCount": 20,
@@ -211,6 +256,7 @@
     {
       "part": 15,
       "filename": "திருக்குறள்_கலைஞர்_உரை_part_015_pages_303-323.pdf",
+      "role": "processing-split",
       "sha256": null,
       "byteSize": null,
       "pageCount": 21,
