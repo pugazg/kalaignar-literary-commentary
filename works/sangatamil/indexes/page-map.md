@@ -30,8 +30,9 @@ The actual supplied PDF has been independently confirmed as **497 scans**. Scans
 | 17–19 | printed 2–4 | `மலர்மாரி பொழிகின்றேன்!` | **section complete** |
 | 20–24 | printed 5–9 with scan-22 illustration | `யாதும் ஊரே; யாவரும் கேளிர்!` | **section complete** |
 | 25–30 | printed 10–15 with scan-26 illustration | `மானங்காத்த மறவன்!` | **section complete** — text/visual fidelity verified; scan 26 illustration verified |
-| 31 | printed 16 | next decorative heading `துணை நின்றார் தோழி!` | section start identified; page record not yet created |
-| 32–497 | later body / end matter | subsequent source-order sections, citations, illustrations and final back cover | progressive discovery/transcription pending |
+| 31–36 | printed 16–21 with scan-32 illustration | `துணை நின்றார் தோழி!` | boundary verified; physical records created; text pages `needs-review`; scan 32 illustration `verified` |
+| 37 | printed 22 | next decorative heading `சுமந்தவன் சுமந்த சோகம்!` | next section start identified |
+| 38–497 | later body / end matter | subsequent source-order sections, citations, illustrations and final back cover | progressive discovery/transcription pending |
 
 ## Important controls
 
@@ -39,7 +40,7 @@ The actual supplied PDF has been independently confirmed as **497 scans**. Scans
 - Decorative source headings establish section starts; section ends are confirmed by the next heading or a stronger printed marker.
 - Illustration pages are physical records, not omissions.
 - Textual fidelity and meaningful visual text fidelity are both required before a text page becomes `verified`.
-- Printed Sangam provenance is mirrored in `source-citation-register.md` only after direct source inspection.
+- Printed Sangam provenance is mirrored in `source-citation-register.md` only after direct source inspection and verification.
 - Source-visible quoted forms are preserved even when another edition may differ.
 
 ## Completed gates
@@ -49,10 +50,8 @@ The actual supplied PDF has been independently confirmed as **497 scans**. Scans
 - `யாதும் ஊரே; யாவரும் கேளிர்!`: **scans 20–24 — COMPLETE**;
 - `மானங்காத்த மறவன்!`: **scans 25–30 — COMPLETE**.
 
-## Next gate
+## Active gate
 
-Begin the next decorative section at **scan 31 / printed page 16**:
+`துணை நின்றார் தோழி!` is now bounded at **scans 31–36 / printed 16–21** because scan 37 begins `சுமந்தவன் சுமந்த சோகம்!`.
 
-`துணை நின்றார் தோழி!`
-
-First determine its full scan boundary from the next source-visible decorative heading, then create physical page records and transcribe/verify in source order.
+Physical records for scans 31–36 now exist. Scan 32 is an illustration and is verified. Text pages remain `needs-review` until their complete transcription receives a second direct textual + visual-fidelity comparison against the source scan.
