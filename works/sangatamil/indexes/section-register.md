@@ -9,8 +9,9 @@ The source does not use the numbered `மலர்` scheme seen in *தொல்
 | 002 | `யாதும் ஊரே; யாவரும் கேளிர்!` | 20–24 | **complete / verified** |
 | 003 | `மானங்காத்த மறவன்!` | 25–30 | **complete / verified** |
 | 004 | `துணை நின்றார் தோழி!` | 31–36 | boundary verified; physical records created; transcription verification in progress |
-| 005 | `சுமந்தவன் சுமந்த சோகம்!` | starts at 37 | start heading identified; end boundary pending |
-| — | subsequent decorative sections | after section 005 through scan 497 | discovery / progressive mapping pending |
+| 005 | `சுமந்தவன் சுமந்த சோகம்!` | 37–41 | boundary verified; physical records created; transcription verification in progress |
+| 006 | next decorative section | starts at 42 | heading visible; exact heading transcription/verification pending |
+| — | subsequent decorative sections | after section 006 through scan 497 | discovery / progressive mapping pending |
 
 ## Boundary rule
 
