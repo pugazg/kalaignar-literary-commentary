@@ -31,8 +31,9 @@ The actual supplied PDF has been independently confirmed as **497 scans**. Scans
 | 20–24 | printed 5–9 with scan-22 illustration | `யாதும் ஊரே; யாவரும் கேளிர்!` | **section complete** |
 | 25–30 | printed 10–15 with scan-26 illustration | `மானங்காத்த மறவன்!` | **section complete** — text/visual fidelity verified; scan 26 illustration verified |
 | 31–36 | printed 16–21 with scan-32 illustration | `துணை நின்றார் தோழி!` | boundary verified; physical records created; text pages `needs-review`; scan 32 illustration `verified` |
-| 37 | printed 22 | next decorative heading `சுமந்தவன் சுமந்த சோகம்!` | next section start identified |
-| 38–497 | later body / end matter | subsequent source-order sections, citations, illustrations and final back cover | progressive discovery/transcription pending |
+| 37–41 | printed 22–26 with scan-38 illustration | `சுமந்தவன் சுமந்த சோகம்!` | boundary verified; physical records created; text pages `needs-review`; scan 38 illustration `verified` |
+| 42 | printed 27 | next decorative section begins | section start identified; exact transcription/verification pending |
+| 43–497 | later body / end matter | subsequent source-order sections, citations, illustrations and final back cover | progressive discovery/transcription pending |
 
 ## Important controls
 
@@ -50,8 +51,10 @@ The actual supplied PDF has been independently confirmed as **497 scans**. Scans
 - `யாதும் ஊரே; யாவரும் கேளிர்!`: **scans 20–24 — COMPLETE**;
 - `மானங்காத்த மறவன்!`: **scans 25–30 — COMPLETE**.
 
-## Active gate
+## Active gates
 
-`துணை நின்றார் தோழி!` is now bounded at **scans 31–36 / printed 16–21** because scan 37 begins `சுமந்தவன் சுமந்த சோகம்!`.
+`துணை நின்றார் தோழி!` — scans **31–36 / printed 16–21**: physical records complete; text verification pending.
 
-Physical records for scans 31–36 now exist. Scan 32 is an illustration and is verified. Text pages remain `needs-review` until their complete transcription receives a second direct textual + visual-fidelity comparison against the source scan.
+`சுமந்தவன் சுமந்த சோகம்!` — scans **37–41 / printed 22–26**: physical records complete; scan 38 illustration verified; text verification pending. Scan 41 visibly carries `புறநானூறு : பாடல் : 286` / `பாடியவர் : ஔவையார்`; canonical citation registration awaits the verification gate.
+
+Scan **42 / printed 27** begins the next decorative section and is the next boundary-discovery/transcription point.
