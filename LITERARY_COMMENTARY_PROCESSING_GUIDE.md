@@ -1,6 +1,6 @@
 # Literary Commentary Processing Guide
 
-இந்த repository-யில் கலைஞரின் இலக்கிய உரை நூல்களை ஒரே விதமான source-first முறையில் மின்னாக்குவதற்கான நிரந்தர வழிகாட்டி.
+இந்த repository-யில் கலைஞரின் இலக்கிய உரை நூல்களை source-first முறையில் மின்னாக்குவதற்கான நிரந்தர வழிகாட்டி.
 
 ## 1. அடிப்படை விதி
 
@@ -75,7 +75,7 @@ printed_page: null
 work: "thirukkural"
 section: "..."
 page_type: "cover"
-status: "verified"
+status: "needs-review"
 language: "ta"
 source_filename: "...pdf"
 ---
@@ -89,7 +89,7 @@ Tamil archival status:
 - `verified`
 - `blocked`
 
-`verified` என்பது scan-ஐ நேரடியாகப் பார்த்து **textual fidelity மற்றும் meaningful visual text fidelity இரண்டையும்** உறுதிப்படுத்திய பின்னரே பயன்படுத்த வேண்டும்.
+`verified` என்பது scan-ஐ நேரடியாகப் பார்த்து required textual fidelity மற்றும் meaningful visual text fidelity gates முடிந்த பின்னரே பயன்படுத்த வேண்டும்.
 
 Meaningful page structure உள்ள works-க்கு optional fields பயன்படுத்தலாம்:
 
@@ -118,13 +118,13 @@ Source crop, binding shadow, damage அல்லது scan loss காரணம
 
 ### குறள் / நூற்பா / பாடல்
 
-- அச்சில் உள்ள வரி முறிவை பாதுகாக்கவும்.
+- அச்சில் உள்ள வரி முறிவை final archival state-ல் பாதுகாக்கவும்.
 - எண், தலைப்பு, உரை வரிசையை மாற்ற வேண்டாம்.
 - source-ல் காணப்படும் quotation form-ஐ அதேபடி transcription செய்யவும்.
 
 ### Commentary
 
-Commentary paragraph boundaries மற்றும் emphasis-ஐ சாத்தியமான வரை பாதுகாக்கவும். Markdown line wrapping மாற்றலாம்; paragraph boundary மாற்றக்கூடாது.
+Commentary paragraph boundaries மற்றும் emphasis-ஐ final archival state-ல் source-supported அளவில் பாதுகாக்கவும். Markdown line wrapping மாற்றலாம்; paragraph boundary மாற்றக்கூடாது.
 
 ### Editorial/front matter
 
@@ -132,9 +132,9 @@ Commentary paragraph boundaries மற்றும் emphasis-ஐ சாத்�
 
 ### Visual text fidelity
 
-Text transcription என்பது characters மட்டும் அல்ல; source-இன் **meaningful visual organization**-ஐயும் பாதுகாக்க வேண்டும்.
+Text transcription என்பது characters மட்டும் அல்ல; final archive source-இன் **meaningful visual organization**-ஐயும் பாதுகாக்க வேண்டும்.
 
-Direct visual verification-ல் source-supported அளவில் பின்வருவன சரிபார்க்கப்பட வேண்டும்:
+Dedicated visual verification-ல் source-supported அளவில் பின்வருவன சரிபார்க்கப்பட வேண்டும்:
 
 - verse line breaks மற்றும் stanza grouping;
 - prose paragraph boundaries;
@@ -155,23 +155,57 @@ Markdown meaningful structure-ஐ காக்க முடியாத இட�
 
 Source-ல் இல்லாத alignment, stanza break, emphasis அல்லது decorative grouping உருவாக்கக்கூடாது.
 
-ஒரு page-ல் characters சரியாக இருந்தாலும் meaningful lineation/block structure தவறாக இருந்தால் அது `verified` அல்ல.
+ஒரு page-ல் characters சரியாக இருந்தாலும் meaningful lineation/block structure தவறாக இருந்தால் அது final `verified` state அல்ல.
 
-## 6. Tamil source batch workflow
+## 6. Tamil source processing workflow
 
-1. PDF scan identity மற்றும் page count உறுதி செய்.
-2. Cover/title/publication/contents pages ஆய்வு செய்.
-3. `metadata/source.md` புதுப்பி.
-4. அனைத்து scan pages-க்கும் `indexes/page-map.md` manifest உருவாக்கு/புதுப்பி.
-5. சிறிய batch-ஆக page transcription செய்.
-6. தெளிவில்லாதவை `partial` அல்லது `needs-review` ஆக வைத்திரு.
-7. batch முடிந்ததும் work README மற்றும் `HANDOVER.md` புதுப்பி.
-8. இறுதி textual + visual text fidelity comparison முடிந்த பின் மட்டும் `verified` மாற்று.
-9. ஒரு supplied part முழுவதும் review ஆன பிறகு audit file உருவாக்கி archival release decision பதிவு செய்.
+### 6.1 Default gate logic
+
+Every work must ultimately pass these conceptual gates:
+
+1. source identity / page count;
+2. physical page capture / transcription;
+3. textual verification;
+4. meaningful visual-text verification;
+5. physical-page / continuity audit;
+6. structure / section audit where applicable;
+7. provenance / citation audit where applicable;
+8. metadata / status consistency audit;
+9. whole-volume or supplied-part final synchronization/audit.
+
+A work may execute these gates in small batches **or** as whole-volume passes, but it must document the chosen cadence explicitly in that work's own guide/handover.
+
+### 6.2 Work-specific cadence takes precedence
+
+If a work-specific archival guide or workflow document defines a deliberate staged cadence, that cadence overrides the generic batching order here **without overriding the source-fidelity rules**.
+
+In particular, `works/sangatamil/` uses:
+
+[`works/sangatamil/MULTI_PASS_WORKFLOW.md`](works/sangatamil/MULTI_PASS_WORKFLOW.md)
+
+Its canonical sequence is:
+
+1. Pass 1 — transcription / physical capture only through the entire source;
+2. Pass 2 — textual verification across the entire source;
+3. Pass 3 — visual-text fidelity verification across the entire source;
+4. Pass 4 — physical-page / continuity audit;
+5. Pass 5 — section-structure audit;
+6. Pass 6 — Sangam provenance audit;
+7. Pass 7 — metadata / status audit;
+8. Pass 8 — whole-volume synchronization / final audit.
+
+During a transcription-only pass, new records may remain `needs-review`; the workflow must not falsely promote them to `verified`.
+
+### 6.3 General status rule
+
+- first-pass capture may use `needs-review`;
+- source defect may require `partial` or `blocked`;
+- `verified` only after the work's required verification gates are actually complete;
+- documentation synchronization cadence follows the work-specific plan rather than being forced after every page or small batch.
 
 ## 7. Project-created English translation workflow
 
-Project translation ஒரு Tamil PDF part **audited / archival-ready** ஆன பிறகே தொடங்க வேண்டும். முழு நூலும் முடியும் வரை காத்திருக்க வேண்டியதில்லை.
+Project translation ஒரு Tamil PDF part **audited / archival-ready** ஆன பிறகே தொடங்க வேண்டும். முழு நூலும் முடியும் வரை காத்திருக்க வேண்டியதில்லை unless the work-specific plan requires full-volume completion first.
 
 நிரந்தர cadence:
 
@@ -221,7 +255,7 @@ Tamil source partial என்றால் English completeness அதைவி�
 
 ## 8. Source-page marker
 
-Verified Tamil page-ன் முடிவில்:
+Tamil page-ன் முடிவில் source-page marker பயன்படுத்தலாம்:
 
 ```html
 <!-- மூல ஸ்கேன் பக்கம்: 1; அச்சுப் பக்கம்: — -->
@@ -231,6 +265,6 @@ English project translation page-ல் source identity front matter-ல் expl
 
 ## 9. தொடர்ச்சித் திட்டம்
 
-இந்த repository முதலில் `திருக்குறள் — கலைஞர் உரை` மூலம் தொடங்குகிறது. பின்னர் `சங்கத்தமிழ்` மற்றும் `குறளோவியம்` தமிழ்/ஆங்கில பதிப்புகள் சேர்க்கப்படும்.
+இந்த repository முதலில் `திருக்குறள் — கலைஞர் உரை` மூலம் தொடங்கியது. `சங்கத் தமிழ்` active source-first work ஆக உள்ளது; பின்னர் `குறளோவியம்` தமிழ்/ஆங்கில பதிப்புகள் சேர்க்கப்படும்.
 
 ஒவ்வொரு நூலின் source identity தனித்தனியாகக் காக்கப்பட வேண்டும். இரண்டு published editions-ன் உரையை ஒரே transcription-ல் கலக்கக்கூடாது; project-created English translation-ஐ published English source என்று காட்டக்கூடாது.
