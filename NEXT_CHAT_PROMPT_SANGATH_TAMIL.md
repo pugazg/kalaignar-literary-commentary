@@ -40,7 +40,8 @@ Process **one source page per iteration**. Complete any needed source transcript
 - `மானங்காத்த மறவன்!` — scans **25–30** — COMPLETE / verified;
 - `துணை நின்றார் தோழி!` — scans **31–36** — COMPLETE / verified after corrective re-transcription;
 - `சுமந்தவன் சுமந்த சோகம்!` — scans **37–41** — COMPLETE / verified after page-by-page source audit;
-- `பாவை புகழ்ந்த பன்றி` — scans **42–46** — COMPLETE / verified.
+- `பாவை புகழ்ந்த பன்றி` — scans **42–46** — COMPLETE / verified;
+- `காக்கைக்கு நன்றி காட்ட...` — scans **47–49** — COMPLETE / verified.
 
 Scans **7–8** remain `partial`.
 
@@ -51,32 +52,24 @@ Scans **7–8** remain `partial`.
 - scan 30 — `புறநானூறு : பாடல்: 74` / `சேரமான் கணைக்கால் இரும்பொறை`;
 - scan 36 — `ஐங்குறுநூறு : பாடல் : 180` / `அம்மூவனார்`;
 - scan 41 — `புறநானூறு : பாடல் : 286` / source-visible `ஒளவையார்`;
-- scan 46 — `அகநானூறு : பாடல் : 248` / `கபிலர்`.
+- scan 46 — `அகநானூறு : பாடல் : 248` / `கபிலர்`;
+- scan 49 — `குறுந்தொகை : பாடல் : 210` / `காக்கைப்பாடினியார் நச்செள்ளையார்`.
 
-## Important boundary correction
+## Section 007 completion
 
-Section 006 does **not** end at scan 45. Scan **46 / printed 31** is its concluding quotation/provenance/`பொருள் விளக்கம்` page. Scan 47 begins the next decorative heading. The canonical section-006 range is therefore **42–46**.
+`காக்கைக்கு நன்றி காட்ட...` is complete across scans **47–49**. Scan 48 is a separately preserved illustration with no visible printed page number. Scan 49 is verified and carries the printed `குறுந்தொகை : பாடல் : 210` / `பாடியவர் : காக்கைப்பாடினியார் நச்செள்ளையார்` provenance. Scan 50 begins the next decorative heading.
 
-## Current exact next activity — Section 007
+## Current exact next activity — Section 008
 
-`காக்கைக்கு நன்றி காட்ட...` — scans **47–49 / printed 32–34**.
-
-Boundary is verified:
-
-- scan 47 — decorative opening + text;
-- scan 48 — full-page illustration;
-- scan 49 — concluding text / quotation / provenance / `பொருள் விளக்கம்`;
-- scan 50 begins the next decorative heading `மாதரின் கண்ட மலர்கள்`.
-
-Scan 49 visibly prints `குறுந்தொகை : பாடல் : 210` / `பாடியவர் : காக்கைப்பாடினியார் நச்செள்ளையார்`, but this citation must remain pending until scan 49 itself passes verification.
+`மாதரின் கண்ட மலர்கள்` begins at **scan 50 / printed page 35**.
 
 For the next iteration:
 
-1. Work on **scan 47 / printed page 32 only**.
-2. Inspect the actual scan first.
-3. Create the physical page record directly from the source.
-4. Preserve the decorative heading `காக்கைக்கு நன்றி காட்ட...`, printed wording, punctuation, lineation, dialogue/paragraph grouping, meaningful alignment and page furniture.
-5. Complete textual + meaningful visual-fidelity verification for scan 47.
-6. **Stop before scan 48.**
+1. Work on **scan 50 / printed page 35 only**.
+2. Inspect the actual controlling scan first.
+3. Create the physical page record directly from source-visible text.
+4. Preserve the decorative heading `மாதரின் கண்ட மலர்கள்`, exact wording, punctuation, printed lineation/paragraph grouping, meaningful alignment and page furniture.
+5. Complete textual + meaningful visual-fidelity verification for scan 50.
+6. **Stop before scan 51.**
 
-Continue scan 48 and scan 49 in separate later iterations.
+The section end remains open. Do not infer later pagination or section boundaries until the relevant source pages are directly inspected.
