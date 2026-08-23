@@ -11,7 +11,7 @@ Last synchronized with live `main`: **2026-08-23**.
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–015 **ARCHIVAL-READY through scan 323**; commentary through printed page 270 / Kural 1330 |
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–015 **RELEASED through the end of the supplied volume** |
 | Thirukkural semantic structure | பால் → இயல் → அதிகாரம் | **COMPLETE — 3 பால் / 13 இயல் / 133 அதிகாரம் / 1,330 குறள் mapped** |
-| சங்கத் தமிழ் | தமிழ் | **ACTIVE — complete 497-scan source confirmed; physical records through scan 46; first six body sections complete/verified; section 007 scan 47 next** |
+| சங்கத் தமிழ் | தமிழ் | **ACTIVE — complete 497-scan source confirmed; physical records through scan 49; first seven body sections complete/verified; section 008 scan 50 next** |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த source-controlled edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Kuraloviyam | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
@@ -50,7 +50,7 @@ Canonical source range: **1–497**.
 
 ## Current physical / structural progress
 
-Physical Markdown records now exist through scan **46**.
+Physical Markdown records now exist through scan **49**.
 
 Completed:
 
@@ -60,14 +60,13 @@ Completed:
 - `மானங்காத்த மறவன்!` — scans **25–30** — complete / verified;
 - `துணை நின்றார் தோழி!` — scans **31–36** — complete / verified after corrective re-transcription;
 - `சுமந்தவன் சுமந்த சோகம்!` — scans **37–41** — complete / verified after one-page-at-a-time source audit;
-- `பாவை புகழ்ந்த பன்றி` — scans **42–46** — complete / verified.
+- `பாவை புகழ்ந்த பன்றி` — scans **42–46** — complete / verified;
+- `காக்கைக்கு நன்றி காட்ட...` — scans **47–49** — complete / verified.
 
-Section 006 boundary correction: scan **46 / printed 31** is its concluding quotation/provenance/`பொருள் விளக்கம்` page; scan 47 begins the next section. Scan 46 now has verified provenance `அகநானூறு : பாடல் : 248` / `பாடியவர் : கபிலர்`.
+Current next section:
 
-Current mapped next section:
-
-- `காக்கைக்கு நன்றி காட்ட...` — scans **47–49 / printed 32–34**; scan 48 is a full-page illustration; scan 49 visibly carries `குறுந்தொகை : பாடல் : 210` / `பாடியவர் : காக்கைப்பாடினியார் நச்செள்ளையார்`, pending page verification;
-- scan **50 / printed 35** begins the next decorative heading `மாதரின் கண்ட மலர்கள்`.
+- scan **50 / printed 35** begins `மாதரின் கண்ட மலர்கள்`;
+- the section's later extent remains open pending direct source inspection.
 
 Verified printed Sangam provenance currently includes:
 
@@ -76,7 +75,8 @@ Verified printed Sangam provenance currently includes:
 - scan 30 — `புறநானூறு : பாடல்: 74` / `சேரமான் கணைக்கால் இரும்பொறை`;
 - scan 36 — `ஐங்குறுநூறு : பாடல் : 180` / `அம்மூவனார்`;
 - scan 41 — `புறநானூறு : பாடல் : 286` / `ஒளவையார்`;
-- scan 46 — `அகநானூறு : பாடல் : 248` / `கபிலர்`.
+- scan 46 — `அகநானூறு : பாடல் : 248` / `கபிலர்`;
+- scan 49 — `குறுந்தொகை : பாடல் : 210` / `காக்கைப்பாடினியார் நச்செள்ளையார்`.
 
 Current controls:
 
@@ -98,8 +98,8 @@ For active Sangath Tamil work, precedence is:
 
 Continue **one source page per iteration** with:
 
-**`காக்கைக்கு நன்றி காட்ட...` — scan 47 / printed page 32 only.**
+**`மாதரின் கண்ட மலர்கள்` — scan 50 / printed page 35 only.**
 
-Create and verify that physical page directly from the controlling scan, preserve the decorative heading and source-visible structure, and stop before scan 48.
+Create and verify that physical page directly from the controlling scan, preserve the decorative heading and source-visible structure, and stop before scan 51. Do not infer the section end until the next decorative heading is directly observed.
 
 Current handover: [`HANDOVER.md`](HANDOVER.md).
