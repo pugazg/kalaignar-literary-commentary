@@ -27,7 +27,7 @@ The section layer never replaces page records.
 
 ## Current mapped physical extent
 
-Physical page records now exist through scan **30**.
+Physical page records currently exist through scan **45**.
 
 Mapped structure:
 
@@ -35,8 +35,10 @@ Mapped structure:
 - scans **17–19** — `மலர்மாரி பொழிகின்றேன்!` — complete;
 - scans **20–24** — `யாதும் ஊரே; யாவரும் கேளிர்!` — complete;
 - scans **25–30** — `மானங்காத்த மறவன்!` — complete;
-- scan **31 / printed 16** — next decorative heading `துணை நின்றார் தோழி!` identified;
-- scans **32–497** — later source still to be progressively mapped/transcribed.
+- scans **31–36** — `துணை நின்றார் தோழி!` — boundary verified; corrective source re-transcription completed for text pages; second verification pending;
+- scans **37–41** — `சுமந்தவன் சுமந்த சோகம்!` — boundary verified; physical records exist; text work remains in progress;
+- scans **42–45** — `பாவை புகழ்ந்த பன்றி` — section start mapped; end boundary still pending;
+- scans **46–497** — later source still to be progressively mapped/transcribed.
 
 Scans **7–8** remain explicitly `partial` source/page records.
 
@@ -65,7 +67,7 @@ Scan 24 prints:
 - `புறநானூறு - பாடல் : 192`;
 - `பாடியவர் : கணியன் பூங்குன்றன்`.
 
-The quoted poem is preserved as printed in this edition, including source-visible forms such as `ஆருது`.
+The quoted poem is preserved as printed in this edition, including source-visible form `ஆருது`.
 
 ### Body section 003 — COMPLETE
 
@@ -81,7 +83,18 @@ Scan 30 prints verified provenance:
 - `புறநானூறு : பாடல்: 74`;
 - `பாடியவர் : சேரமான் கணைக்கால் இரும்பொறை`.
 
-All three verified source citations are recorded in [`indexes/source-citation-register.md`](indexes/source-citation-register.md).
+## Corrective review — section 004
+
+Before advancing the archive, the existing `துணை நின்றார் தோழி!` records were audited against the controlling PDF.
+
+The audit found that scans **31, 33, 34 and 35** were largely structural placeholders rather than full transcriptions, and scan **36** contained substantive transcription mismatches. Those text records have now been **redone directly from the scan**. They deliberately remain `needs-review` until a separate second character-by-character + meaningful visual-text fidelity pass is completed.
+
+Scan 36 directly prints:
+
+- `ஐங்குறுநூறு : பாடல் : 180`;
+- `பாடியவர் : அம்மூவனார்`.
+
+The corrected page record preserves source-visible quotation forms including `வலவர்`, `துறைசெழு`, and `அன்னவிவள்` rather than substituting another edition.
 
 ## Permanent fidelity rule
 
@@ -91,8 +104,6 @@ A text page becomes `verified` only after both textual fidelity and meaningful v
 
 ## Exact next activity
 
-Begin the next decorative section at **scan 31 / printed page 16**:
+Complete the **second verification gate for section 004 (`துணை நின்றார் தோழி!`, scans 31–36 / printed 16–21)** before advancing the source boundary. Check the newly redone text records character by character and against the page's meaningful lineation/alignment. Promote only pages that pass both checks; then promote the scan-36 provenance entry to `verified`.
 
-**`துணை நின்றார் தோழி!`**
-
-First determine its full source boundary by locating the next decorative heading. Then create its physical page records, preserve illustrations/citations separately, and transcribe/verify in source order.
+After section 004 closes cleanly, audit/re-transcribe the existing section-005 text records (`சுமந்தவன் சுமந்த சோகம்!`, scans 37–41) before creating new records beyond scan 45.
