@@ -4,11 +4,11 @@ printed_page: "16"
 work: "sangatamil"
 section: "துணை நின்றார் தோழி!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 visual_notes: "large decorative section heading at top; source text set as short verse lines beneath; printed page number centered at foot"
 language: "ta"
-transcription_method: "direct first-pass transcription from source scan; placeholder-only earlier record replaced"
+transcription_method: "direct character-by-character textual and visual comparison with source scan after corrective re-transcription"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -42,9 +42,9 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 கவிக்கோமான் கபிலர் என்பார் - இப்  
 புவிக்கோர் விருந்தாய்ப் படைத்திடுவார்!  
 ஆயனூர் வாழும் முல்லை நிலத்தில்  
-ஆவினகர் காதலர் ஆடி மகிழ்வதை  
+ஆவினிகர் காதலர் ஆடி மகிழ்வதை  
 பேயனூர் எனும் கவிக்கோ - தமிழர்  
 பெருமைக்கோர் சான்றுகப் பேசிடுவார்!
 
-<!-- Direct first-pass re-transcription from the supplied scan. A second character-by-character and visual-fidelity gate remains before promotion to verified. -->
+<!-- Second direct textual + meaningful visual-fidelity gate completed against the controlling scan. -->
 <!-- மூல ஸ்கேன் பக்கம்: 31; அச்சுப் பக்கம்: 16 -->
