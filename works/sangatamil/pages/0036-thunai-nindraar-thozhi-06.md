@@ -6,46 +6,45 @@ section: "துணை நின்றார் தோழி!"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "running author header; concluding Kalaignar text; centered asterisk; indented Sangam quotation; right-aligned provenance; பொருள் விளக்கம் block; final separator; printed page number centered"
+visual_notes: "running author header; continuation from scan 35; concluding Kalaignar text; centered asterisk; indented Sangam quotation; right-aligned provenance; underlined பொருள் விளக்கம் block; final centered asterisk; printed page number centered"
 language: "ta"
-transcription_method: "direct first-pass reading from source scan"
+transcription_method: "direct source re-transcription; earlier first-pass contained substantive wording errors and was replaced"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
+continues_from_scan: 35
 ---
 
-அதுபோல
-பதுமைப்பாய் நிகழ்கின்ற இக் தலவனே
-வதுவை நீ புரிவதற்கு நான் கழித்ததால்
-முதுமை நிறைவு பெறுகிறான் - கொக்கிலையா
-முந்திக்கொண்டு வருகிறாரு இவளோ மணமுடிக்க!
-இவளு காதல் கனிபோல காதலா இருப்பமெனில்;
-இன்னம் பலருள் தன்னிடையே மனமிராவெனில்
-இல்லவெனில் இன்னதற்கு - இந்த
-முல்லையினை மணப்பதற்கு தான் குறித்தது!”
+அதுபோல  
+பதுமைபோல் திகழ்கின்ற இக் தலைமகளே  
+வதுவை நீ புரிவதற்கு நாள் கழித்ததால்  
+முதுமை நிறைப் பெரியோர்கள் - கொக்கெனயா  
+முந்திக்கொண்டு வருகின்றார் இவளை மணமுடிக்க!  
+இலவு காத்த கிளிபோலாக உனக்கு விருப்பமெனில்;  
+இன்னும் பலநாள் தள்ளிப்போடு மணவிழாவை!  
+இல்லையெனில் இன்றைக்கே - இந்த  
+முல்லையின் மணப்பதற்கு நாள் குறித்திடுக!”
 
-தோழி இதைக் சொன்னவுடன் - திருக்கிட்டு - அவன்
-“அம்மதிதை அணுவிலும் அடியுள்ளோ?”
-வாழித் தோழி! வாழி! வாழியவே! இனி
-நாழிகை தோறும் பார்ப்பதற்கு எண்ணவில்லை;
-வாள்மீனே; வட்டமிடும் சிற்றப்பவைக்கு இரையாகக்
-மாட்டேன்!
+தோழி இதைச் சொன்னவுடன் - திருக்கிட்டு - அவன்  
+“ஆழிமுத்தை அணிவதற்கு அட்டியுண்டோ?  
+வாழிநீ தோழி! வாழி! வாழியவே! இனி  
+நாழிகை நேரம் பார்ப்பதற்கு எண்ணமில்லை;  
+வாளாமீனே; வட்டமிடும் கிழப்பறவைக்கு இரையாக  
+மாட்டேன்!  
+நாளையே திருமணம்; நடக்கட்டும் ஏற்பாடே” என்றான்!
 
-நானே திருமணம்; நடக்கட்டும் ஏற்பாடு” என்றான்!
-
-உண்மையில் சொன்னமாற்று சொல்லி
-உலகமாய் கொள்கக் கற்ற
-வளமை நிறை தோழியின் சிறம் வியந்து
-வளர்க பாடல் அமுதமென வழங்கினார்!
-
+உண்மையைச் சொல்லாமற் சொல்லி  
+உவமையால் விளக்கம் தந்த  
+வன்மை நிறை தோழியின் திறம் வியந்து  
+வளமிகு பாடல் அம்மூவனார் வழங்கினார்!  
 அது இது:-
 
-*
+<div align="center">*</div>
 
-> “சிறுநனி வரைந்தனை கொண்மோ பெருநீர்
-> வலைவர் தந்த கொழுமீன் வல்சிப்
-> பறைதபு முதுகுருகு இருக்கும்
-> துறைகெழு தொண்டி அன்னவள் நலனே!”
+> * “சிறுநனி வரைந்தனை கொண்மோ பெருநீர்  
+> வலவர் தந்த கொழுமீன் வல்சிப்  
+> பறைதபு முதுகுருகு இருக்கும்  
+> துறைசெழு தொண்டி அன்னவிவள் நலனே!”
 
-*
+<div align="center">*</div>
 
 <div align="right">
 
@@ -56,14 +55,15 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 
 ## பொருள் விளக்கம் :
 
-சிறுநனி வரைந்தனை கொண்மோ = மிகக் குறுகிய காலத்திற்குள் உனக்கு உரியதாகிக் கொள்க.
+சிறுநனி வரைந்தனை கொண்மோ = மிகக் குறுகிய காலத்திற்குள்  
+உனக்கு உரியதாக்கிக் கொள்க.
 
-பெருநீர் = கடல். பறைதபு முதுகுருகு = பறக்க இயலாத கிழப்பறவை. வல்சிப் = மீனவர்.
+பெருநீர் = கடல். பறைதபு முதுகுருகு = பறக்க இயலாத  
+கிழப்பறவை. வலவர் = மீனவர்.
 
 வல்சி = உணவு.
 
-*
+<div align="center">*</div>
 
-<!-- First-pass transcription. Quotation/provenance and visual blocks were read directly from scan; surrounding Kalaignar text remains needs-review pending a second character-by-character gate. -->
-
+<!-- The earlier repository first-pass had substantive source mismatches in both the quoted Sangam verse and surrounding text; this page has been re-transcribed directly from the supplied scan. A second character-by-character and visual-fidelity gate remains before promotion to verified. -->
 <!-- மூல ஸ்கேன் பக்கம்: 36; அச்சுப் பக்கம்: 21 -->
