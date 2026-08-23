@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last synchronized with live `main`: **2026-08-19**.
+Last synchronized with live `main`: **2026-08-23**.
 
 ## Repository
 
@@ -49,7 +49,7 @@ The earlier 150-page figure was a preview-service limitation and is retired.
 
 # Current physical boundary
 
-Physical Markdown records now exist through **scan 30**.
+Physical Markdown records currently exist through **scan 45**.
 
 Scans **7–8** remain `partial` source/page records.
 
@@ -92,25 +92,63 @@ Scan 30 provenance exactly as printed:
 - `புறநானூறு : பாடல்: 74`
 - `பாடியவர் : சேரமான் கணைக்கால் இரும்பொறை`
 
-# Current next section
+# Corrective source review — section 004
 
-Scan **31 / printed page 16** begins:
+`துணை நின்றார் தோழி!` — scans **31–36 / printed 16–21**.
 
-**`துணை நின்றார் தோழி!`**
+Boundary is verified because scan 37 begins the next decorative heading `சுமந்தவன் சுமந்த சோகம்!`.
 
-Its end boundary has not yet been established.
+Before advancing, the existing records were audited against the controlling source. The audit found:
+
+- scan 31 — earlier record contained the heading but not the full source text;
+- scans 33–35 — earlier records were structural placeholders without the full source text;
+- scan 36 — earlier first-pass transcription contained substantive wording errors, including within the Sangam quotation;
+- scan 32 — verified full-page illustration record remains valid.
+
+Corrective action completed:
+
+- scans **31, 33, 34, 35 and 36** were re-transcribed directly from the supplied PDF;
+- source lineation / dialogue / meaningful alignment was represented in Markdown/limited HTML;
+- scan 36 quotation was replaced with the source-visible reading, including `வலவர்`, `துறைசெழு`, and `அன்னவிவள்`;
+- scan 36 provenance directly reads:
+  - `ஐங்குறுநூறு : பாடல் : 180`
+  - `பாடியவர் : அம்மூவனார்`;
+- the provenance is now in `source-citation-register.md` as direct-source / verification-pending.
+
+The corrected text pages intentionally remain `needs-review`: this corrective transcription is **not** being conflated with the independent second verification gate.
+
+# Existing later mapped work — audit before trusting
+
+## Section 005
+
+`சுமந்தவன் சுமந்த சோகம்!` — scans **37–41 / printed 22–26**.
+
+- boundary already verified;
+- physical records exist;
+- scan 38 illustration is verified;
+- text records remain `needs-review` and must be audited/re-transcribed against the source before promotion;
+- scan 41 visibly prints `புறநானூறு : பாடல் : 286` / `பாடியவர் : ஔவையார்`.
+
+## Section 006
+
+`பாவை புகழ்ந்த பன்றி` — begins at **scan 42 / printed 27**.
+
+- physical records currently exist through scan **45 / printed 30**;
+- scan 44 illustration is verified;
+- text records remain `needs-review`;
+- section end is still open until scan 46 onward is directly checked for the next decorative heading.
 
 # Exact next activity
 
-1. Inspect scan 31 onward until the next decorative heading is found.
-2. Establish the full `துணை நின்றார் தோழி!` scan range without guessing.
-3. Create one physical page record per scan in that range.
-4. Preserve illustrations as separate records.
-5. Transcribe in source order.
-6. Preserve quoted Sangam text, source labels, poem numbers, poet attributions and gloss blocks exactly as printed.
-7. Keep later pencil/handwritten marks outside printed body text.
-8. Compare textual + visual text fidelity directly with the PDF before `verified`.
-9. Synchronize page map, section register, citation register, work/root README, handover and continuation prompt.
+Do **not** create new records beyond scan 45 yet.
+
+1. Perform the independent second character-by-character + visual-text fidelity verification for corrected section 004 scans **31, 33, 34, 35, 36**.
+2. Promote only pages that pass both textual and meaningful visual-text fidelity checks to `verified`.
+3. When scan 36 passes, promote its `ஐங்குறுநூறு : பாடல் : 180` / `அம்மூவனார்` register entry to `verified`.
+4. Then audit and, where necessary, redo the existing section-005 text records, scans **37, 39, 40, 41**, before advancing.
+5. Next audit section 006 text records through scan 45 and establish its end boundary from scan 46 onward.
+6. Only after the existing mapped range is trustworthy should new source-order records be created beyond scan 45.
+7. Synchronize page map, section register, citation register, work/root README, handover and continuation prompt at each completed section gate.
 
 # Completed Thirukkural baseline — DO NOT RESTART
 
