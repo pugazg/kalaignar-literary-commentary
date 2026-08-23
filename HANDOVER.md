@@ -53,7 +53,7 @@ Process **one source page per iteration** for active page transcription/verifica
 
 # Current physical boundary
 
-Physical Markdown records now exist through **scan 46**.
+Physical Markdown records now exist through **scan 49**.
 
 Scans **7–8** remain `partial` source/page records.
 
@@ -65,6 +65,7 @@ Scans **7–8** remain `partial` source/page records.
 - `துணை நின்றார் தோழி!` — scans **31–36** — COMPLETE / VERIFIED after corrective re-transcription.
 - `சுமந்தவன் சுமந்த சோகம்!` — scans **37–41** — COMPLETE / VERIFIED after page-by-page corrective audit.
 - `பாவை புகழ்ந்த பன்றி` — scans **42–46** — COMPLETE / VERIFIED.
+- `காக்கைக்கு நன்றி காட்ட...` — scans **47–49** — COMPLETE / VERIFIED.
 
 Verified printed provenance through the current boundary:
 
@@ -74,40 +75,43 @@ Verified printed provenance through the current boundary:
 - scan 36 — `ஐங்குறுநூறு : பாடல் : 180` / `அம்மூவனார்`
 - scan 41 — `புறநானூறு : பாடல் : 286` / source-visible `ஒளவையார்`
 - scan 46 — `அகநானூறு : பாடல் : 248` / `கபிலர்`
+- scan 49 — `குறுந்தொகை : பாடல் : 210` / `காக்கைப்பாடினியார் நச்செள்ளையார்`
 
-# Section 006 closure correction
-
-`பாவை புகழ்ந்த பன்றி` does **not** end at scan 45. Direct source inspection shows scan **46 / printed 31** is the concluding quotation/provenance/`பொருள் விளக்கம்` page for the section. Scan 47 begins the next decorative heading.
-
-Therefore the verified section boundary is:
-
-- start: scan **42 / printed 27**
-- end: scan **46 / printed 31**
-
-Scan 46 is now a verified physical page record and carries `அகநானூறு : பாடல் : 248` / `பாடியவர் : கபிலர்`.
-
-# Section 007 — CURRENT NEXT GATE
+# Completed section 007
 
 Decorative heading: **`காக்கைக்கு நன்றி காட்ட...`**
 
 - scan range: **47–49**
-- printed pages: **32–34**
-- scan 47: decorative opening + text
-- scan 48: full-page illustration
-- scan 49: concluding text / quotation / provenance / `பொருள் விளக்கம்`
+- printed pages represented: **32–34**; scan 48 itself has no visible printed page number
+- scan 47: decorative opening + text — verified
+- scan 48: full-page colour illustration — verified
+- scan 49: concluding text / quotation / provenance / `பொருள் விளக்கம்` — verified
 - boundary verified because scan **50 / printed 35** begins `மாதரின் கண்ட மலர்கள்`
-- scan 49 visibly prints `குறுந்தொகை : பாடல் : 210` / `பாடியவர் : காக்கைப்பாடினியார் நச்செள்ளையார்`; this remains pending until scan 49 itself passes verification.
+
+Scan 49 directly supports:
+
+- `குறுந்தொகை : பாடல் : 210`
+- `பாடியவர் : காக்கைப்பாடினியார் நச்செள்ளையார்`
+
+The canonical citation register has been promoted to `verified`.
+
+# Section 008 — CURRENT NEXT GATE
+
+Decorative heading: **`மாதரின் கண்ட மலர்கள்`**
+
+- begins at **scan 50 / printed page 35**
+- section end: not yet established
+- no scan-50 physical page record has been created yet
 
 # Exact next activity
 
-1. Work on **scan 47 / printed page 32 only**.
-2. Inspect the source scan directly.
-3. Create the physical page record from the source; do not infer text from scan 49 or external editions.
-4. Preserve decorative heading, wording, punctuation, printed lineation, dialogue/paragraph grouping, meaningful alignment and page furniture.
-5. Complete textual + meaningful visual-fidelity verification for scan 47.
-6. Stop before scan 48.
-
-After scan 47, process scan 48 in its own iteration, then scan 49 in its own iteration. Promote the scan-49 citation only after that page passes verification.
+1. Work on **scan 50 / printed page 35 only**.
+2. Inspect the controlling source scan directly.
+3. Create the physical page record from source-visible text.
+4. Preserve decorative heading, exact wording, punctuation, printed lineation/paragraph grouping, meaningful alignment and page furniture.
+5. Complete textual + meaningful visual-fidelity verification for scan 50.
+6. Stop before scan 51.
+7. Do not infer the section end; inspect later source pages for the next decorative heading only after the current page gate is complete.
 
 # Completed Thirukkural baseline — DO NOT RESTART
 
