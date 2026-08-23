@@ -30,7 +30,7 @@ The actual supplied PDF has been independently confirmed as **497 scans**. Scans
 | 17–19 | printed 2–4 | `மலர்மாரி பொழிகின்றேன்!` | **section complete** |
 | 20–24 | printed 5–9 with scan-22 illustration | `யாதும் ஊரே; யாவரும் கேளிர்!` | **section complete** |
 | 25–30 | printed 10–15 with scan-26 illustration | `மானங்காத்த மறவன்!` | **section complete** — text/visual fidelity verified; scan 26 illustration verified |
-| 31–36 | printed 16–21 with scan-32 illustration | `துணை நின்றார் தோழி!` | boundary verified; physical records created; text pages `needs-review`; scan 32 illustration `verified` |
+| 31–36 | printed 16–21 with scan-32 illustration | `துணை நின்றார் தோழி!` | boundary verified; scans 31/33–36 re-transcribed directly from source after corrective review; text pages `needs-review`; scan 32 illustration `verified` |
 | 37–41 | printed 22–26 with scan-38 illustration | `சுமந்தவன் சுமந்த சோகம்!` | boundary verified; physical records created; text pages `needs-review`; scan 38 illustration `verified` |
 | 42–45 | printed 27–30 with scan-44 illustration | `பாவை புகழ்ந்த பன்றி` | section start verified; current inspected extent only; text pages `needs-review`; scan 44 illustration `verified`; end boundary pending |
 | 46–497 | later body / end matter | subsequent source-order sections, citations, illustrations and final back cover | progressive discovery/transcription pending |
@@ -41,7 +41,7 @@ The actual supplied PDF has been independently confirmed as **497 scans**. Scans
 - Decorative source headings establish section starts; section ends are confirmed by the next heading or a stronger printed marker.
 - Illustration pages are physical records, not omissions.
 - Textual fidelity and meaningful visual text fidelity are both required before a text page becomes `verified`.
-- Printed Sangam provenance is mirrored in `source-citation-register.md` only after direct source inspection and verification.
+- Printed Sangam provenance is mirrored in `source-citation-register.md` only after direct source inspection; `verified` is assigned only after the page verification gate.
 - Source-visible quoted forms are preserved even when another edition may differ.
 
 ## Completed gates
@@ -53,7 +53,7 @@ The actual supplied PDF has been independently confirmed as **497 scans**. Scans
 
 ## Active gates
 
-`துணை நின்றார் தோழி!` — scans **31–36 / printed 16–21**: physical records complete; text verification pending.
+`துணை நின்றார் தோழி!` — scans **31–36 / printed 16–21**: a corrective source review found that scans 31/33/34/35 were largely placeholder records and scan 36 contained substantive transcription mismatches. Scans 31/33–36 have now been re-transcribed directly from the controlling PDF. The next gate is a separate character-by-character + visual-text fidelity verification; text pages remain `needs-review` until that pass is complete. Scan 32 remains a verified illustration record. Scan 36 directly prints `ஐங்குறுநூறு : பாடல் : 180` / `பாடியவர் : அம்மூவனார்` and is registered as verification-pending.
 
 `சுமந்தவன் சுமந்த சோகம்!` — scans **37–41 / printed 22–26**: physical records complete; scan 38 illustration verified; text verification pending. Scan 41 visibly carries `புறநானூறு : பாடல் : 286` / `பாடியவர் : ஔவையார்`; canonical citation registration awaits the verification gate.
 
