@@ -92,42 +92,46 @@ Scan 30 provenance exactly as printed:
 - `புறநானூறு : பாடல்: 74`
 - `பாடியவர் : சேரமான் கணைக்கால் இரும்பொறை`
 
-# Corrective source review — section 004
+# Completed corrective section 004
 
-`துணை நின்றார் தோழி!` — scans **31–36 / printed 16–21**.
+`துணை நின்றார் தோழி!` — scans **31–36 / printed 16–21** — **COMPLETE / VERIFIED**.
 
 Boundary is verified because scan 37 begins the next decorative heading `சுமந்தவன் சுமந்த சோகம்!`.
 
-Before advancing, the existing records were audited against the controlling source. The audit found:
+The inherited section was audited before advancement. That audit found:
 
-- scan 31 — earlier record contained the heading but not the full source text;
-- scans 33–35 — earlier records were structural placeholders without the full source text;
-- scan 36 — earlier first-pass transcription contained substantive wording errors, including within the Sangam quotation;
-- scan 32 — verified full-page illustration record remains valid.
+- scan 31 — heading present but full source text missing;
+- scans 33–35 — largely structural placeholders rather than complete transcriptions;
+- scan 36 — substantive first-pass wording errors, including inside the Sangam quotation;
+- scan 32 — verified illustration record was valid.
 
-Corrective action completed:
+Corrective action:
 
-- scans **31, 33, 34, 35 and 36** were re-transcribed directly from the supplied PDF;
-- source lineation / dialogue / meaningful alignment was represented in Markdown/limited HTML;
-- scan 36 quotation was replaced with the source-visible reading, including `வலவர்`, `துறைசெழு`, and `அன்னவிவள்`;
-- scan 36 provenance directly reads:
-  - `ஐங்குறுநூறு : பாடல் : 180`
-  - `பாடியவர் : அம்மூவனார்`;
-- the provenance is now in `source-citation-register.md` as direct-source / verification-pending.
+- scans **31, 33, 34, 35 and 36** were completely re-transcribed from the controlling PDF;
+- a separate second character-by-character + meaningful visual-text fidelity comparison was then performed rather than conflating first pass and verification;
+- all section pages are now `verified`;
+- the second pass made additional corrections including scan 35 `மனையறம்`, scan 36 `முல்லையினை`, and source-visible deliberate offset/right-aligned continuation lines;
+- scan 36 quotation preserves printed forms `வலவர்`, `துறைசெழு`, and `அன்னவிவள்` without external normalization.
 
-The corrected text pages intentionally remain `needs-review`: this corrective transcription is **not** being conflated with the independent second verification gate.
+Verified scan-36 provenance:
+
+- `ஐங்குறுநூறு : பாடல் : 180`
+- `பாடியவர் : அம்மூவனார்`
+
+The canonical citation register has been promoted to `verified` for this entry.
 
 # Existing later mapped work — audit before trusting
 
-## Section 005
+## Section 005 — CURRENT NEXT GATE
 
 `சுமந்தவன் சுமந்த சோகம்!` — scans **37–41 / printed 22–26**.
 
 - boundary already verified;
 - physical records exist;
 - scan 38 illustration is verified;
-- text records remain `needs-review` and must be audited/re-transcribed against the source before promotion;
-- scan 41 visibly prints `புறநானூறு : பாடல் : 286` / `பாடியவர் : ஔவையார்`.
+- text records **37, 39, 40, 41** remain `needs-review` and must be audited/re-transcribed against the source before promotion;
+- scan 41 visibly prints `புறநானூறு : பாடல் : 286` / `பாடியவர் : ஔவையார்`;
+- do not register/promote that citation as verified until scan 41 passes textual + visual verification.
 
 ## Section 006
 
@@ -142,13 +146,14 @@ The corrected text pages intentionally remain `needs-review`: this corrective tr
 
 Do **not** create new records beyond scan 45 yet.
 
-1. Perform the independent second character-by-character + visual-text fidelity verification for corrected section 004 scans **31, 33, 34, 35, 36**.
-2. Promote only pages that pass both textual and meaningful visual-text fidelity checks to `verified`.
-3. When scan 36 passes, promote its `ஐங்குறுநூறு : பாடல் : 180` / `அம்மூவனார்` register entry to `verified`.
-4. Then audit and, where necessary, redo the existing section-005 text records, scans **37, 39, 40, 41**, before advancing.
-5. Next audit section 006 text records through scan 45 and establish its end boundary from scan 46 onward.
-6. Only after the existing mapped range is trustworthy should new source-order records be created beyond scan 45.
-7. Synchronize page map, section register, citation register, work/root README, handover and continuation prompt at each completed section gate.
+1. Audit section 005 against the controlling PDF: scans **37, 39, 40, 41**; scan 38 remains the existing verified illustration record.
+2. Where the inherited records are placeholders or inaccurate, replace them with complete source-first transcriptions rather than patching around missing text.
+3. Preserve every printed verse/dialogue line, meaningful indentation/alignment, heading, separator, source quotation, provenance block and `பொருள் விளக்கம்` exactly as source-supported.
+4. Perform a separate second character-by-character + meaningful visual-text fidelity gate before any text page becomes `verified`.
+5. When scan 41 passes, add/promote `புறநானூறு : பாடல் : 286` / `பாடியவர் : ஔவையார்` in the canonical citation register.
+6. Synchronize section README, page map, section register, citation register, work/root README, handover and continuation prompt when section 005 closes.
+7. Then audit section 006 through scan 45 and establish its end boundary from scan 46 onward.
+8. Only after the existing mapped range is trustworthy should new source-order records be created beyond scan 45.
 
 # Completed Thirukkural baseline — DO NOT RESTART
 
