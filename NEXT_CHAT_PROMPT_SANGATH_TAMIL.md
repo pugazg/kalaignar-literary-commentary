@@ -45,22 +45,40 @@ Scans **7–8** remain `partial`.
 
 Do not normalize these source labels from an external edition.
 
+## Corrective review already completed — section 004
+
+`துணை நின்றார் தோழி!` spans scans **31–36 / printed 16–21**; scan 37 begins the next decorative section.
+
+A direct source audit found that the earlier text records were not good enough to trust as canonical transcription:
+
+- scans 31, 33, 34 and 35 were mostly structural placeholders;
+- scan 36 contained substantive source mismatches, including in the quoted Sangam verse;
+- scan 32 is a valid verified illustration record.
+
+Scans **31, 33, 34, 35 and 36 have now been re-transcribed directly from the controlling PDF**. They remain `needs-review` because the required independent second character-by-character + meaningful visual-text fidelity pass has not yet been completed.
+
+Scan 36 directly prints:
+
+- `ஐங்குறுநூறு : பாடல் : 180`
+- `பாடியவர் : அம்மூவனார்`
+
+The corrected source-visible quotation includes `வலவர்`, `துறைசெழு`, and `அன்னவிவள்`; do not replace those forms from another edition.
+
+## Existing later mapped range — do not advance past it yet
+
+- `சுமந்தவன் சுமந்த சோகம்!` — scans **37–41 / printed 22–26**; physical records exist; scan 38 illustration verified; text records require source audit/re-transcription; scan 41 shows `புறநானூறு : பாடல் : 286` / `பாடியவர் : ஔவையார்`.
+- `பாவை புகழ்ந்த பன்றி` — starts at scan **42 / printed 27**; physical records currently exist through scan **45 / printed 30**; scan 44 illustration verified; text records require source audit; end boundary still pending from scan 46 onward.
+
 ## Current exact next activity
 
-Scan **31 / printed page 16** begins:
+Do **not** create new records beyond scan 45 yet.
 
-**`துணை நின்றார் தோழி!`**
-
-Proceed in source order:
-
-1. inspect scan 31 onward until the next decorative heading;
-2. establish the complete section boundary;
-3. create one physical page record per scan in that range;
-4. preserve illustration pages as separate records;
-5. transcribe all printed text directly from the PDF;
-6. preserve quoted Sangam text, provenance labels and `பொருள் விளக்கம்` exactly as printed;
-7. document later pencil/handwritten marks separately from printed body text;
-8. verify both textual and meaningful visual fidelity before `verified`;
-9. synchronize section README, page map, section register, citation register, work/root README and handover.
+1. Perform the independent second character-by-character + visual-text fidelity verification of corrected section-004 text pages: scans **31, 33, 34, 35, 36**.
+2. Promote only pages that pass both textual and meaningful visual fidelity to `verified`.
+3. When scan 36 passes, promote its `ஐங்குறுநூறு : பாடல் : 180` / `அம்மூவனார்` citation-register entry to `verified`.
+4. Then audit and redo as necessary section-005 text pages **37, 39, 40, 41** against the controlling scan.
+5. Next audit section-006 text pages through scan 45 and inspect scan 46 onward only to establish the next verified decorative boundary.
+6. Only after all existing mapped pages are trustworthy should new source-order records be created beyond scan 45.
+7. Synchronize section README, page map, section register, citation register, work/root README and handover after each completed section gate.
 
 Continue progressively through the complete 497-scan source.
