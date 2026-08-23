@@ -13,8 +13,8 @@
 1. [`scan 37`](../../pages/0037-sumanthavan-sumantha-sogam-01.md) — section opening; full direct transcription + textual/visual verification complete; `verified`
 2. [`scan 38`](../../pages/0038-sumanthavan-sumantha-sogam-illustration.md) — illustration `verified`
 3. [`scan 39`](../../pages/0039-sumanthavan-sumantha-sogam-03.md) — full direct transcription + textual/visual verification complete; `verified`
-4. [`scan 40`](../../pages/0040-sumanthavan-sumantha-sogam-04.md) — text `needs-review`; **next text-page iteration**
-5. [`scan 41`](../../pages/0041-sumanthavan-sumantha-sogam-05.md) — concluding quotation/provenance/`பொருள் விளக்கம்`; `needs-review`
+4. [`scan 40`](../../pages/0040-sumanthavan-sumantha-sogam-04.md) — full direct transcription + textual/visual verification complete; Sangam quotation begins and continues to scan 41; `verified`
+5. [`scan 41`](../../pages/0041-sumanthavan-sumantha-sogam-05.md) — concluding quotation/provenance/`பொருள் விளக்கம்`; `needs-review`; **next text-page iteration**
 
 ## Verified page iterations
 
@@ -24,11 +24,19 @@ The previous scan-37 record was only a structural placeholder. It was replaced b
 
 ### Scan 39 / printed 24
 
-The previous scan-39 record was also only a structural placeholder. It has now been replaced with the complete source-visible text and directly checked character-by-character and for meaningful visual fidelity.
+The previous scan-39 record was also only a structural placeholder. It was replaced with the complete source-visible text and directly checked character-by-character and for meaningful visual fidelity.
 
-The verified transcription preserves the running `சங்கத் தமிழ்` header/rules, printed lineation and paragraph grouping, dialogue boundaries, punctuation, and source-visible wording including forms such as `பனியொற்றி`, `புரியவில்லே`, `கண்கெட்ட கிழவி`, `முடிக்கவில்லே`, and `பொறுக்கவில்லே`.
+The transcription preserves the running `சங்கத் தமிழ்` header/rules, printed lineation and paragraph grouping, dialogue boundaries, punctuation, and source-visible wording.
 
-No material from scans 40–41 was transcribed or promoted during the scan-39 iteration.
+### Scan 40 / printed 25
+
+The previous scan-40 record was only a structural placeholder. It has now been replaced by the complete source-visible text for this physical page and directly checked for both textual and meaningful visual fidelity.
+
+The page preserves the running author header/rules, dialogue and narrative lineation, paragraph boundaries, centered separator, and the source-visible beginning of the Sangam quotation. Unusual printed forms such as `என்றுள்`, `சொன்னுள்`, `ஒய்வெடுத்துக்`, `பெற்றுன்`, and `மாண்டனன்போரில்` are retained rather than silently normalized.
+
+The quotation begins on scan 40 with `வெள்ளை வெள்ளாட்டுச் செச்சை போலத்` and remains deliberately incomplete in the scan-40 record because the printed quotation continues onto scan 41.
+
+No scan-41 text was transcribed or promoted during this iteration.
 
 ## Printed Sangam provenance
 
