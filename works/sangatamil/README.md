@@ -8,7 +8,7 @@ The methodology follows the completed Thirukkural archive and the page/section/s
 
 `TVA_BOK_0042551_சங்கத்_தமிழ்.pdf`
 
-The actual mounted PDF has been independently confirmed as a **complete 497-scan source**. Scans 493–497 render successfully and scan **497 is the back cover**. The earlier 150-page figure came from a preview-service limit and is retired.
+The actual mounted PDF has been independently confirmed as a **complete 497-scan source**. Scan **497 is the back cover**. The earlier 150-page figure came from a preview-service limit and is retired.
 
 Canonical source range: **1–497**. Do not create scan 498+ records or infer printed pagination from scan arithmetic.
 
@@ -25,9 +25,15 @@ See [`metadata/source.md`](metadata/source.md).
 
 The section layer never replaces page records.
 
+## Working cadence
+
+Process **one source page per iteration** for transcription/verification. For that physical page: inspect the controlling scan, replace placeholder/inaccurate text if necessary, perform direct textual + meaningful visual-fidelity verification, update the physical page record, then stop before the next source page.
+
+Routine top-level synchronization is deferred until a section closes.
+
 ## Current mapped physical extent
 
-Physical page records currently exist through scan **45**.
+Physical page records now exist through scan **46**.
 
 Mapped structure:
 
@@ -35,10 +41,12 @@ Mapped structure:
 - scans **17–19** — `மலர்மாரி பொழிகின்றேன்!` — complete / verified;
 - scans **20–24** — `யாதும் ஊரே; யாவரும் கேளிர்!` — complete / verified;
 - scans **25–30** — `மானங்காத்த மறவன்!` — complete / verified;
-- scans **31–36** — `துணை நின்றார் தோழி!` — complete / verified after corrective re-transcription and independent second source comparison;
+- scans **31–36** — `துணை நின்றார் தோழி!` — complete / verified after corrective re-transcription;
 - scans **37–41** — `சுமந்தவன் சுமந்த சோகம்!` — complete / verified after page-by-page source audit;
-- scans **42–45** — `பாவை புகழ்ந்த பன்றி` — section start mapped; text source audit and end boundary pending;
-- scans **46–497** — later source still to be progressively mapped/transcribed.
+- scans **42–46** — `பாவை புகழ்ந்த பன்றி` — complete / verified;
+- scans **47–49** — `காக்கைக்கு நன்றி காட்ட...` — boundary mapped; transcription pending; scan 48 is a full-page illustration;
+- scan **50** — next decorative heading `மாதரின் கண்ட மலர்கள்`; later extent pending;
+- scans **51–497** — progressive later-source work.
 
 Scans **7–8** remain explicitly `partial` source/page records.
 
@@ -46,69 +54,50 @@ Scans **7–8** remain explicitly `partial` source/page records.
 
 ### Front matter
 
-The direct printed-text gate for **scans 9–14 / printed IV–IX** is complete. All six pages passed both textual and meaningful visual-text fidelity checks.
+Scans **9–14 / printed IV–IX** — COMPLETE / verified.
 
 ### Body section 001 — COMPLETE
 
 `மலர்மாரி பொழிகின்றேன்!` — scans **17–19**.
 
-Scan 19 prints verified provenance:
-
-- `பத்துப்பாட்டு (குறிஞ்சிப்பாட்டு)`;
-- `61 முதல் 95 முடிய`;
-- `பாடியவர் : கபிலர்`.
+Verified provenance: `பத்துப்பாட்டு (குறிஞ்சிப்பாட்டு)` / `61 முதல் 95 முடிய` / `கபிலர்`.
 
 ### Body section 002 — COMPLETE
 
 `யாதும் ஊரே; யாவரும் கேளிர்!` — scans **20–24**.
 
-Scan 24 prints:
-
-- `புறநானூறு - பாடல் : 192`;
-- `பாடியவர் : கணியன் பூங்குன்றன்`.
-
-The quoted poem is preserved as printed in this edition, including source-visible form `ஆருது`.
+Verified provenance: `புறநானூறு - பாடல் : 192` / `கணியன் பூங்குன்றன்`.
 
 ### Body section 003 — COMPLETE
 
 `மானங்காத்த மறவன்!` — scans **25–30 / printed 10–15**.
 
-Scan 30 prints verified provenance:
-
-- `புறநானூறு : பாடல்: 74`;
-- `பாடியவர் : சேரமான் கணைக்கால் இரும்பொறை`.
+Verified provenance: `புறநானூறு : பாடல்: 74` / `சேரமான் கணைக்கால் இரும்பொறை`.
 
 ### Body section 004 — COMPLETE after corrective audit
 
 `துணை நின்றார் தோழி!` — scans **31–36 / printed 16–21**.
 
-The inherited weak placeholder/inaccurate records were replaced directly from the controlling PDF and then independently rechecked. Scan 36 preserves source-visible quotation forms including `வலவர்`, `துறைசெழு`, and `அன்னவிவள்`.
-
-Verified scan-36 provenance:
-
-- `ஐங்குறுநூறு : பாடல் : 180`;
-- `பாடியவர் : அம்மூவனார்`.
+Inherited placeholders/inaccurate records were replaced directly from the controlling scan and independently rechecked. Verified provenance: `ஐங்குறுநூறு : பாடல் : 180` / `அம்மூவனார்`.
 
 ### Body section 005 — COMPLETE after page-by-page source audit
 
 `சுமந்தவன் சுமந்த சோகம்!` — scans **37–41 / printed 22–26**.
 
-The text pages were processed one source page per iteration. Inherited scans 37/39/40 were placeholders; scan 41 contained substantive first-pass errors. All five physical records are now `verified`, including scan 38's illustration.
+Inherited scans 37/39/40 were placeholders and scan 41 contained substantive first-pass errors. All pages are now verified, including scan 38's illustration. Scan 41 preserves source-visible `ஒளவையார்` and verified provenance `புறநானூறு : பாடல் : 286`.
 
-Scan 41 was corrected directly from the controlling source. Important source-visible readings include:
+### Body section 006 — COMPLETE
 
-- `கால்கழி கட்டிலிற் கிடப்பித்`;
-- `வெள்ளாட்டுச் செச்சை = வெள்ளாட்டுக் கிடாய்.`;
-- `மண்டை = தேறல் எனும் மது`;
-- `கால்கழி கட்டில் = காலில்லாத கட்டிலெனப்படும் பாடை.`;
-- `தூவெள் அறுவை = (உடலை மூடுகின்ற) தூய வெள்ளைத் துணி.`
+`பாவை புகழ்ந்த பன்றி` — scans **42–46 / printed 27–31**.
 
-Verified scan-41 provenance exactly as printed:
+Scans 42, 43 and 45 were rebuilt from placeholder records; scan 44 is the separately preserved illustration; scan 46 is the concluding quotation/provenance/`பொருள் விளக்கம்` page and is now directly verified.
 
-- `புறநானூறு : பாடல் : 286`;
-- `பாடியவர் : ஒளவையார்`.
+The correct boundary is **42–46**. Scan 47 begins the next decorative heading `காக்கைக்கு நன்றி காட்ட...`.
 
-Do not silently normalize the source-visible poet spelling to another edition.
+Verified scan-46 provenance:
+
+- `அகநானூறு : பாடல் : 248`
+- `பாடியவர் : கபிலர்`
 
 ## Permanent fidelity rule
 
@@ -118,8 +107,8 @@ A text page becomes `verified` only after both textual fidelity and meaningful v
 
 ## Exact next activity
 
-Proceed to **section 006 — `பாவை புகழ்ந்த பன்றி`**, beginning at **scan 42 / printed 27**, using **one source page per iteration**.
+Proceed to **section 007 — `காக்கைக்கு நன்றி காட்ட...`**, scans **47–49 / printed 32–34**, one source page per iteration.
 
-Physical records already exist through scan 45; scan 44 is a verified illustration. Treat the inherited text records as untrusted until directly checked against the scan. Start with **scan 42 / printed 27 only**. Replace placeholder/inaccurate text as necessary, verify textual + meaningful visual fidelity, update local tracking, and stop before scan 43.
+Work on **scan 47 / printed page 32 only** next. Do not transcribe scan 48 or scan 49 in that iteration. Scan 48 is a full-page illustration. Scan 49 visibly carries `குறுந்தொகை : பாடல் : 210` / `பாடியவர் : காக்கைப்பாடினியார் நச்செள்ளையார்`; promote that provenance only when scan 49 itself passes verification.
 
-The section end remains open. After the existing scans 42–45 are trustworthy, inspect scan 46 onward only as needed to establish the next decorative section boundary before creating later records.
+Boundary is already confirmed because scan 50 begins `மாதரின் கண்ட மலர்கள்`.
