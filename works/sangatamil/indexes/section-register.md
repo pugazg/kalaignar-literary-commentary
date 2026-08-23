@@ -10,9 +10,9 @@ The source does not use the numbered `மலர்` scheme seen in *தொல்
 | 003 | `மானங்காத்த மறவன்!` | 25–30 | **complete / verified** |
 | 004 | `துணை நின்றார் தோழி!` | 31–36 | **complete / verified after corrective re-transcription and independent second source comparison** |
 | 005 | `சுமந்தவன் சுமந்த சோகம்!` | 37–41 | **complete / verified after page-by-page source audit; scan 41 verified provenance புறநானூறு 286 / ஒளவையார்** |
-| 006 | `பாவை புகழ்ந்த பன்றி` | 42–46 | **complete / verified; boundary established by scan-47 heading; scan 46 verified provenance அகநானூறு 248 / கபிலர்** |
-| 007 | `காக்கைக்கு நன்றி காட்ட...` | 47–49 | boundary verified from scan 47 start and scan 50 next heading; page transcription pending; scan 48 illustration; scan 49 provenance pending verification |
-| 008 | `மாதரின் கண்ட மலர்கள்` | starts at 50 | decorative heading directly read; later extent not yet mapped |
+| 006 | `பாவை புகழ்ந்த பன்றி` | 42–46 | **complete / verified; scan 46 verified provenance அகநானூறு 248 / கபிலர்** |
+| 007 | `காக்கைக்கு நன்றி காட்ட...` | 47–49 | **complete / verified; scan 48 illustration; scan 49 verified provenance குறுந்தொகை 210 / காக்கைப்பாடினியார் நச்செள்ளையார்** |
+| 008 | `மாதரின் கண்ட மலர்கள்` | starts at 50 | decorative heading directly read; scan 50 is the next one-page transcription/verification gate; later extent open |
 | — | subsequent decorative sections | after section 008 through scan 497 | discovery / progressive mapping pending |
 
 ## Boundary rule
