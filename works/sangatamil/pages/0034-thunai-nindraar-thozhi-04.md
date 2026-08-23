@@ -6,12 +6,59 @@ section: "துணை நின்றார் தோழி!"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "running author header; continuous verse/dialogue blocks; printed page number centered"
+visual_notes: "running author header; dialogue and verse blocks with several deliberately offset continuation lines; printed page number centered at foot"
 language: "ta"
-transcription_method: "direct first-pass reading from source scan"
+transcription_method: "direct first-pass transcription from source scan; placeholder-only earlier record replaced"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
-<!-- First-pass physical page record. Full source-visible wording and lineation require second direct verification before transcription is declared complete. -->
+“விழியில் என்ன நீர்? கடல் மணல் பட்டதாலா கண்ணே?”  
+<div align="right">- என்று</div>
 
+மொழியில் ஒரு கொஞ்சல் கலந்து ஊதிட வந்தவனைத்  
+<div align="right">தடுத்துவிட்டு</div>
+
+“ஊதுகின்றீர் என் கண்ணில்; நன்றி! நன்றி! ஆனால் நான்  
+ஓதுகின்றேன் உமது காதில் பல நாளாய்!  
+அதைக் கேட்காமல் நீர் இருப்பதால்தான்;  
+அருவிபோல் நீர் என் விழியில் அறிக” என்றாள்!
+
+“களவியல் விடுத்திட வேண்டும்  
+கற்பியல் தொடங்கிடவேண்டும் - உன்  
+உளமது மகிழ உடனே நம் மணம்  
+உவகை பொங்கிட நடந்திட வேண்டும்  
+மதுவூறும் இதழ்ப்பூவே! மணியே! மானே!  
+இதுதானே உன் ஆவல்?” எனக் கேட்டான்.
+
+குனிந்து தலையசைத்தாள் ‘ஆம்’ என்று,  
+குங்குமமாய்க் கன்னம் சிவக்க நாணமுற்று;
+
+கோடு கிழித்துக் கால் பெருவிரலால்  
+கோலம் போட்டாள் கொள்ளை இன்பம் நெஞ்சில் குவிய!
+
+வீணையின் குடம்போல விம்மிப் புடைத்த அவள் பின்னழகை  
+விரகதாப உணர்வோடு தட்டிக் கொடுத்துத் தலைவனும்;  
+“வீணை வந்தாதே கண்ணே!  
+விண்ணாரும் சந்திரனின் சாட்சியாகச் சொல்வேன்;  
+விரைவில் உனக் கரம் பிடித்து மணப்பேன்  
+விடுதுயரம்! இடையில் சில நாட்கள்;  
+இவ்வுலகின் துன்பப் பகுதியை - இருவருமே  
+எட்டிப்பாராமல் இன்பத்தில் கலந்திடுவோம்!  
+தலையில் ஒரு பலாக்கனி சுமந்து கயிற்றின்மேல்  
+நில தவறாமல் நடப்பதுதான் இல்வாழ்வு!  
+உலையில் இட்ட சோறுபோல் கொதித்தல் நலமா? - அமைதி  
+அலையில் ஆடும் படகுபோல் மிதத்தல் நலமா? - அதனாலே  
+கலையழகே! என் கலாபமே! கண்மணியே!  
+கணவன் மனைவி ஆவதற்குச் சற்றுக் காத்திருப்போம்!
+
+<div align="right">அதுவரையில்</div>
+
+காதல் எல்லை எதுவென்று - அந்தக்  
+கடலின் ஆழம் கண்டறிவோம்!” என்றுரைத்தான்.
+
+அவளோ;  
+அன்பன் கரம்பட்டுச் சிலிர்த்துப்போய்,  
+என்புதோல் நரம்பெனத்தும் துடேறி;
+
+<!-- Direct first-pass re-transcription from the supplied scan. A second character-by-character and visual-fidelity gate remains before promotion to verified. -->
 <!-- மூல ஸ்கேன் பக்கம்: 34; அச்சுப் பக்கம்: 19 -->
