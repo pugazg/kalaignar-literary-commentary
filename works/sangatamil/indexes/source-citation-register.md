@@ -9,7 +9,7 @@ Only directly inspected citations are entered. External editions must not silent
 | 19 | `மலர்மாரி பொழிகின்றேன்!` | பத்துப்பாட்டு (குறிஞ்சிப்பாட்டு) | 61 முதல் 95 முடிய | கபிலர் | `verified`; [page](../pages/0019-malarmari-pozhiginren-02.md) / [section](../sections/001-malarmari-pozhiginren/README.md) |
 | 24 | `யாதும் ஊரே; யாவரும் கேளிர்!` | புறநானூறு | 192 | கணியன் பூங்குன்றன் | `verified`; [page](../pages/0024-yaathum-oore-yaavarum-kelir-04.md) / [section](../sections/002-yaathum-oore-yaavarum-kelir/README.md) |
 | 30 | `மானங்காத்த மறவன்!` | புறநானூறு | 74 | சேரமான் கணைக்கால் இரும்பொறை | `verified`; [page](../pages/0030-maanangkaatha-maravan-06.md) / [section](../sections/003-maanangkaatha-maravan/README.md) |
-| 36 | `துணை நின்றார் தோழி!` | ஐங்குறுநூறு | 180 | அம்மூவனார் | direct source re-transcription complete; second verification pending; [page](../pages/0036-thunai-nindraar-thozhi-06.md) / [section](../sections/004-thunai-nindraar-thozhi/README.md) |
+| 36 | `துணை நின்றார் தோழி!` | ஐங்குறுநூறு | 180 | அம்மூவனார் | `verified`; [page](../pages/0036-thunai-nindraar-thozhi-06.md) / [section](../sections/004-thunai-nindraar-thozhi/README.md) |
 | 46 | later body section | அகநானூறு | 248 | கபிலர் | sampled from scan; page transcription pending |
 | 49 | later body section | குறுந்தொகை | 210 | காக்கைப்பாடினியார் நச்செள்ளையார் | sampled from scan; page transcription pending |
 | 147 | later body section | குறுந்தொகை | 32 | அள்ளூர் நன்முல்லையார் | sampled from scan; page transcription pending |
