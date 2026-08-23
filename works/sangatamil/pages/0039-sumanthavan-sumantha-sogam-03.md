@@ -4,14 +4,58 @@ printed_page: "24"
 work: "sangatamil"
 section: "சுமந்தவன் சுமந்த சோகம்!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "running சங்கத் தமிழ் header; dense source text in verse/prose blocks; printed page number centered"
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "running சங்கத் தமிழ் header centered between rules; dense narrative/dialogue verse-prose blocks preserving printed lineation and paragraph breaks; horizontal rule above centered printed page number"
 language: "ta"
-transcription_method: "direct first-pass inspection of source scan"
+transcription_method: "direct character-by-character textual and meaningful visual comparison with source scan"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
-<!-- Physical page record established from direct scan inspection. Full source-visible wording and lineation remain pending character-by-character verification. -->
+போரடியில் நெல்மணி போல் பகைவர்களின் சிரம் வீழும்  
+அமர்க்களத்தில்!
 
+இதை நினைத்து,  
+நடக்கின்றாள் ஒளவையம்மை!  
+நாமணக்கும் தமிழம்மை! அறிவம்மை! அழகம்மை!
+
+காலூன்றிப் பனியொற்றி வருகின்ற தாயின் முன்,  
+கோலூன்றிப் பிறிதொரு தாய் வந்து நின்றாள்.
+
+“அடி! தும்பை மலர் முடிதாங்கி!  
+துவண்டு விட்ட காலிரண்டும் வாழைத் தண்டாய்க்  
+குளிர்ந்து வரும் நேரத்தில் நீ ஏன் வந்தாய்?  
+விற்புருவம் என்றுன் ஆளன் அழைத்திட்ட காலம்போய்  
+வில்லுருவம் முதுகில் பெற்ற இள நங்காய்!  
+விழியிரண்டும் வேலென்றார் அன்று;  
+வழி இரண்டு போனதென்று கோல்கொண்டாய் இன்று!  
+தமிழ்நாட்டு முத்தெல்லாம் தீர்ந்ததென்று பல் கழற்றிப்  
+பிறநாட்டு வாணிபத்தைச் செய்தவளே!  
+எங்கெழுந்தாய்? ஏன் பதைப்பு?  
+என்ன வாட்டம்?” எனக் கேட்டுக்  
+குறும்பு செய்தாள் ஒளவையம்மை!
+
+“வேலி போட முடியாது இளமைக்கென்று தெரிந்த பின்னும்  
+கேலி பேசும் உன் போக்கு புரியவில்லே”  
+என மறித்து அந்தத் தாய் பேசலானாள்:-
+
+“புண்பட்ட என்னகத்தில் புலமைத் தாயே உந்தன் கேலி,  
+பண்பட்ட தமிழ் மருந்தாய்ப் பாய்வதை நான் உணருகின்றேன்.  
+கண்கெட்ட கிழவி எந்தன் கரம்தொட்டு வணங்கிச் சென்ற  
+காளையை நான் மறக்கவில்லை.  
+மண் முட்டி எழுந்து நிற்கும் மாங்கன்றின் தளிர்தான் மேனி.  
+பொன்கொட்டிக் கொடுத்தாலும் வளையாத மனவலிமை  
+புலிக்குட்டி விளையாடும் அவன் மடியில்!  
+அந்த மகன் ஆசைமகன் அணிவகுத்தான்,  
+சொந்த மண்ணின் நலங்காக்கப் பணிவகுத்தான்!”
+
+முடிக்கவில்லே முதியவளும்;  
+பொறுக்கவில்லே ஒளவைக்குக்  
+குறுக்கிட்டாள்.  
+“களம் சென்ற மகன் வீரம் புகழ்ந்து கூறிக்  
+கண்கலங்காத் தாய் வீரம் காட்டுதலே தமிழர் மரபு!  
+முதியவளே! மறவர் குல வழக்கிற்குப்  
+புதியவளாய் இருக்கின்றாய்! - வியக்கின்றேன்” என்றாள்.
+
+<!-- Directly verified against scan 39 for source-visible wording, punctuation, dialogue boundaries, printed lineation/paragraph grouping, running header/rules and page furniture. -->
 <!-- மூல ஸ்கேன் பக்கம்: 39; அச்சுப் பக்கம்: 24 -->
