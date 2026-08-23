@@ -11,7 +11,7 @@ Last synchronized with live `main`: **2026-08-23**.
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–015 **ARCHIVAL-READY through scan 323**; commentary through printed page 270 / Kural 1330 |
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–015 **RELEASED through the end of the supplied volume** |
 | Thirukkural semantic structure | பால் → இயல் → அதிகாரம் | **COMPLETE — 3 பால் / 13 இயல் / 133 அதிகாரம் / 1,330 குறள் mapped** |
-| சங்கத் தமிழ் | தமிழ் | **ACTIVE — complete 497-scan source confirmed; physical records through scan 45; first five body sections complete/verified; section 006 scan 42 next** |
+| சங்கத் தமிழ் | தமிழ் | **ACTIVE — complete 497-scan source confirmed; physical records through scan 46; first six body sections complete/verified; section 007 scan 47 next** |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த source-controlled edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Kuraloviyam | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
@@ -50,7 +50,7 @@ Canonical source range: **1–497**.
 
 ## Current physical / structural progress
 
-Physical Markdown records now exist through scan **45**.
+Physical Markdown records now exist through scan **46**.
 
 Completed:
 
@@ -58,15 +58,16 @@ Completed:
 - `மலர்மாரி பொழிகின்றேன்!` — scans **17–19** — complete / verified;
 - `யாதும் ஊரே; யாவரும் கேளிர்!` — scans **20–24** — complete / verified;
 - `மானங்காத்த மறவன்!` — scans **25–30** — complete / verified;
-- `துணை நின்றார் தோழி!` — scans **31–36** — complete / verified after corrective re-transcription and independent second source comparison;
-- `சுமந்தவன் சுமந்த சோகம்!` — scans **37–41** — complete / verified after one-page-at-a-time source audit.
+- `துணை நின்றார் தோழி!` — scans **31–36** — complete / verified after corrective re-transcription;
+- `சுமந்தவன் சுமந்த சோகம்!` — scans **37–41** — complete / verified after one-page-at-a-time source audit;
+- `பாவை புகழ்ந்த பன்றி` — scans **42–46** — complete / verified.
 
-Section 005 required substantial correction: inherited scans 37/39/40 were placeholders and scan 41 contained erroneous source readings. Scan 41 now preserves the controlling source, including `கால்கழி`, the printed glosses, and provenance `புறநானூறு : பாடல் : 286` / **`பாடியவர் : ஒளவையார்`**.
+Section 006 boundary correction: scan **46 / printed 31** is its concluding quotation/provenance/`பொருள் விளக்கம்` page; scan 47 begins the next section. Scan 46 now has verified provenance `அகநானூறு : பாடல் : 248` / `பாடியவர் : கபிலர்`.
 
-Later mapped work requiring audit before advancement:
+Current mapped next section:
 
-- `பாவை புகழ்ந்த பன்றி` — starts scan **42**; records exist through scan **45**; scan 44 illustration verified; text audit/end boundary pending;
-- scans **46–497** remain progressive later-source work after the existing mapped range is made trustworthy.
+- `காக்கைக்கு நன்றி காட்ட...` — scans **47–49 / printed 32–34**; scan 48 is a full-page illustration; scan 49 visibly carries `குறுந்தொகை : பாடல் : 210` / `பாடியவர் : காக்கைப்பாடினியார் நச்செள்ளையார்`, pending page verification;
+- scan **50 / printed 35** begins the next decorative heading `மாதரின் கண்ட மலர்கள்`.
 
 Verified printed Sangam provenance currently includes:
 
@@ -74,7 +75,8 @@ Verified printed Sangam provenance currently includes:
 - scan 24 — `புறநானூறு - பாடல் : 192` / `கணியன் பூங்குன்றன்`;
 - scan 30 — `புறநானூறு : பாடல்: 74` / `சேரமான் கணைக்கால் இரும்பொறை`;
 - scan 36 — `ஐங்குறுநூறு : பாடல் : 180` / `அம்மூவனார்`;
-- scan 41 — `புறநானூறு : பாடல் : 286` / `ஒளவையார்`.
+- scan 41 — `புறநானூறு : பாடல் : 286` / `ஒளவையார்`;
+- scan 46 — `அகநானூறு : பாடல் : 248` / `கபிலர்`.
 
 Current controls:
 
@@ -96,8 +98,8 @@ For active Sangath Tamil work, precedence is:
 
 Continue **one source page per iteration** with:
 
-**`பாவை புகழ்ந்த பன்றி` — scan 42 / printed page 27 only.**
+**`காக்கைக்கு நன்றி காட்ட...` — scan 47 / printed page 32 only.**
 
-Audit the existing scan-42 text record directly against the controlling scan, replace incomplete/inaccurate text as necessary, verify textual + meaningful visual fidelity, synchronize local tracking, and stop before scan 43. Do not create new records beyond scan 45 until section 006's mapped pages are trustworthy and its end boundary has been established.
+Create and verify that physical page directly from the controlling scan, preserve the decorative heading and source-visible structure, and stop before scan 48.
 
 Current handover: [`HANDOVER.md`](HANDOVER.md).
