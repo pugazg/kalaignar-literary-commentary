@@ -4,11 +4,11 @@ printed_page: "21"
 work: "sangatamil"
 section: "துணை நின்றார் தோழி!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "running author header; continuation from scan 35; concluding Kalaignar text; centered asterisk; indented Sangam quotation; right-aligned provenance; underlined பொருள் விளக்கம் block; final centered asterisk; printed page number centered"
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "running author header; continuation from scan 35; concluding Kalaignar text with deliberately right-aligned 'மாட்டேன்!'; centered asterisk; indented Sangam quotation with source-visible leading asterisk; right-aligned provenance; underlined பொருள் விளக்கம் block; final centered asterisk; printed page number centered"
 language: "ta"
-transcription_method: "direct source re-transcription; earlier first-pass contained substantive wording errors and was replaced"
+transcription_method: "direct character-by-character textual and visual comparison with source scan after corrective re-transcription"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 35
 ---
@@ -21,14 +21,14 @@ continues_from_scan: 35
 இலவு காத்த கிளிபோலாக உனக்கு விருப்பமெனில்;  
 இன்னும் பலநாள் தள்ளிப்போடு மணவிழாவை!  
 இல்லையெனில் இன்றைக்கே - இந்த  
-முல்லையின் மணப்பதற்கு நாள் குறித்திடுக!”
+முல்லையினை மணப்பதற்கு நாள் குறித்திடுக!”
 
 தோழி இதைச் சொன்னவுடன் - திருக்கிட்டு - அவன்  
 “ஆழிமுத்தை அணிவதற்கு அட்டியுண்டோ?  
 வாழிநீ தோழி! வாழி! வாழியவே! இனி  
 நாழிகை நேரம் பார்ப்பதற்கு எண்ணமில்லை;  
 வாளாமீனே; வட்டமிடும் கிழப்பறவைக்கு இரையாக  
-மாட்டேன்!  
+<div align="right">மாட்டேன்!</div>
 நாளையே திருமணம்; நடக்கட்டும் ஏற்பாடே” என்றான்!
 
 உண்மையைச் சொல்லாமற் சொல்லி  
@@ -65,5 +65,5 @@ continues_from_scan: 35
 
 <div align="center">*</div>
 
-<!-- The earlier repository first-pass had substantive source mismatches in both the quoted Sangam verse and surrounding text; this page has been re-transcribed directly from the supplied scan. A second character-by-character and visual-fidelity gate remains before promotion to verified. -->
+<!-- Corrective re-transcription independently rechecked against the controlling scan for wording, punctuation, lineation, deliberate alignment, Sangam quotation, printed provenance, gloss block, separators, and continuity from scan 35. -->
 <!-- மூல ஸ்கேன் பக்கம்: 36; அச்சுப் பக்கம்: 21 -->
