@@ -2,7 +2,7 @@
 
 This directory is the source-first archival workspace for **சங்கத் தமிழ்** by **கலைஞர் மு. கருணாநிதி**.
 
-The methodology follows the completed Thirukkural archive and the page/section/source-verification model used for *தொல்காப்பியப் பூங்கா*, with an added printed Sangam-provenance register.
+The methodology follows the repository's source-first archival discipline, with a dedicated printed Sangam-provenance layer and a full-volume multi-pass execution model.
 
 ## Controlling source
 
@@ -13,6 +13,25 @@ The actual mounted PDF has been independently confirmed as a **complete 497-scan
 Canonical source range: **1–497**. Do not create scan 498+ records or infer printed pagination from scan arithmetic.
 
 See [`metadata/source.md`](metadata/source.md).
+
+## Canonical workflow
+
+The active execution plan is:
+
+[`MULTI_PASS_WORKFLOW.md`](MULTI_PASS_WORKFLOW.md)
+
+The project no longer mixes transcription, textual verification, visual-fidelity verification, section mapping, provenance review and metadata synchronization in the same routine page iteration.
+
+The canonical pass order is:
+
+1. **Pass 1 — transcription / physical capture only, through scan 497**;
+2. **Pass 2 — textual verification, scan 1 → 497**;
+3. **Pass 3 — visual-text fidelity verification, scan 1 → 497**;
+4. **Pass 4 — physical-page and continuity audit, scan 1 → 497**;
+5. **Pass 5 — section-structure audit, scan 1 → 497**;
+6. **Pass 6 — Sangam source / provenance audit, scan 1 → 497**;
+7. **Pass 7 — metadata / status consistency audit, scan 1 → 497**;
+8. **Pass 8 — whole-volume synchronization and final audit**.
 
 ## Archival layers
 
@@ -25,105 +44,71 @@ See [`metadata/source.md`](metadata/source.md).
 
 The section layer never replaces page records.
 
-## Working cadence
+## Current Pass 1 rules
 
-Process **one source page per iteration** for transcription/verification. For that physical page: inspect the controlling scan, replace placeholder/inaccurate text if necessary, perform direct textual + meaningful visual-fidelity verification, update the physical page record, then stop before the next source page.
+Pass 1 is **capture only**.
 
-Routine top-level synchronization is deferred until a section closes.
+For each new scan:
 
-## Current mapped physical extent
+- read the page once;
+- create the physical Markdown record;
+- transcribe visible text;
+- preserve obvious printed line/paragraph breaks and directly visible headings;
+- create concise physical records for illustration/blank/non-text pages;
+- record printed pagination only when visible;
+- leave uncertain readings for later review instead of spending extended time resolving them;
+- normally use `status: needs-review` and `visual_fidelity: needs-review`;
+- commit and move forward.
 
-Physical page records now exist through scan **49**.
+Do **not** perform routine second-pass verification, provenance verification, section-end research, visual-fidelity audit, continuity audit, metadata audit or broad documentation synchronization during Pass 1.
 
-Mapped structure:
+## Current physical extent
 
-- scans **1–16** — front matter;
-- scans **17–19** — `மலர்மாரி பொழிகின்றேன்!` — complete / verified;
-- scans **20–24** — `யாதும் ஊரே; யாவரும் கேளிர்!` — complete / verified;
-- scans **25–30** — `மானங்காத்த மறவன்!` — complete / verified;
-- scans **31–36** — `துணை நின்றார் தோழி!` — complete / verified after corrective re-transcription;
-- scans **37–41** — `சுமந்தவன் சுமந்த சோகம்!` — complete / verified after page-by-page source audit;
-- scans **42–46** — `பாவை புகழ்ந்த பன்றி` — complete / verified;
-- scans **47–49** — `காக்கைக்கு நன்றி காட்ட...` — complete / verified; scan 48 illustration preserved separately;
-- scan **50 / printed 35** — next decorative heading `மாதரின் கண்ட மலர்கள்`; transcription/verification pending;
-- scans **51–497** — progressive later-source work.
+Physical Markdown records now exist through **scan 53**.
 
-Scans **7–8** remain explicitly `partial` source/page records.
+Current immediate state:
 
-## Completed gates
+- scan 50 / printed 35 — `மாதரின் கண்ட மலர்கள்` opening, completed under the earlier verified-page cadence;
+- scan 51 / printed 36 — transcription-only, `needs-review`;
+- scan 52 — illustration-only capture, `needs-review`;
+- scan 53 / printed 38 — fast transcription-only, `needs-review`;
+- **next Pass-1 page: scan 54**.
 
-### Front matter
+Earlier completed/verified work remains preserved:
 
-Scans **9–14 / printed IV–IX** — COMPLETE / verified.
+- scans **9–14 / printed IV–IX** — front-matter text gate;
+- `மலர்மாரி பொழிகின்றேன்!` — scans **17–19**;
+- `யாதும் ஊரே; யாவரும் கேளிர்!` — scans **20–24**;
+- `மானங்காத்த மறவன்!` — scans **25–30**;
+- `துணை நின்றார் தோழி!` — scans **31–36**;
+- `சுமந்தவன் சுமந்த சோகம்!` — scans **37–41**;
+- `பாவை புகழ்ந்த பன்றி` — scans **42–46**;
+- `காக்கைக்கு நன்றி காட்ட...` — scans **47–49**.
 
-### Body section 001 — COMPLETE
+Scans **7–8** remain `partial`.
 
-`மலர்மாரி பொழிகின்றேன்!` — scans **17–19**.
+Existing `verified` pages are not downgraded, but the later systematic full-volume passes may still revisit them so that final coverage is uniform from scan 1 through scan 497.
 
-Verified provenance: `பத்துப்பாட்டு (குறிஞ்சிப்பாட்டு)` / `61 முதல் 95 முடிய` / `கபிலர்`.
+## Verified printed Sangam provenance already preserved
 
-### Body section 002 — COMPLETE
+- scan 19 — `பத்துப்பாட்டு (குறிஞ்சிப்பாட்டு)` / `61 முதல் 95 முடிய` / `கபிலர்`;
+- scan 24 — `புறநானூறு - பாடல் : 192` / `கணியன் பூங்குன்றன்`;
+- scan 30 — `புறநானூறு : பாடல்: 74` / `சேரமான் கணைக்கால் இரும்பொறை`;
+- scan 36 — `ஐங்குறுநூறு : பாடல் : 180` / `அம்மூவனார்`;
+- scan 41 — `புறநானூறு : பாடல் : 286` / source-visible `ஒளவையார்`;
+- scan 46 — `அகநானூறு : பாடல் : 248` / `கபிலர்`;
+- scan 49 — `குறுந்தொகை : பாடல் : 210` / `காக்கைப்பாடினியார் நச்செள்ளையார்`.
 
-`யாதும் ஊரே; யாவரும் கேளிர்!` — scans **20–24**.
-
-Verified provenance: `புறநானூறு - பாடல் : 192` / `கணியன் பூங்குன்றன்`.
-
-### Body section 003 — COMPLETE
-
-`மானங்காத்த மறவன்!` — scans **25–30 / printed 10–15**.
-
-Verified provenance: `புறநானூறு : பாடல்: 74` / `சேரமான் கணைக்கால் இரும்பொறை`.
-
-### Body section 004 — COMPLETE after corrective audit
-
-`துணை நின்றார் தோழி!` — scans **31–36 / printed 16–21**.
-
-Inherited placeholders/inaccurate records were replaced directly from the controlling scan and independently rechecked. Verified provenance: `ஐங்குறுநூறு : பாடல் : 180` / `அம்மூவனார்`.
-
-### Body section 005 — COMPLETE after page-by-page source audit
-
-`சுமந்தவன் சுமந்த சோகம்!` — scans **37–41 / printed 22–26**.
-
-Inherited scans 37/39/40 were placeholders and scan 41 contained substantive first-pass errors. All pages are now verified, including scan 38's illustration. Scan 41 preserves source-visible `ஒளவையார்` and verified provenance `புறநானூறு : பாடல் : 286`.
-
-### Body section 006 — COMPLETE
-
-`பாவை புகழ்ந்த பன்றி` — scans **42–46 / printed 27–31**.
-
-Scans 42, 43 and 45 were rebuilt from placeholder records; scan 44 is the separately preserved illustration; scan 46 is the concluding quotation/provenance/`பொருள் விளக்கம்` page.
-
-Verified scan-46 provenance:
-
-- `அகநானூறு : பாடல் : 248`
-- `பாடியவர் : கபிலர்`
-
-### Body section 007 — COMPLETE
-
-`காக்கைக்கு நன்றி காட்ட...` — scans **47–49 / printed 32–34**.
-
-The section was processed one physical source page per iteration:
-
-- scan 47 — decorative opening + text; `verified`;
-- scan 48 — full-page illustration with no visible printed page number; `verified`;
-- scan 49 — concluding text / quotation / provenance / `பொருள் விளக்கம்`; `verified`.
-
-Verified scan-49 provenance:
-
-- `குறுந்தொகை : பாடல் : 210`
-- `பாடியவர் : காக்கைப்பாடினியார் நச்செள்ளையார்`
-
-Scan 50 directly begins the next decorative heading `மாதரின் கண்ட மலர்கள்`, establishing scan 49 as the section end.
+These remain valid records. New provenance encountered during Pass 1 does not need immediate verification/register synchronization; the systematic provenance sweep is Pass 6.
 
 ## Permanent fidelity rule
 
 Do not substitute a familiar Sangam poem from another edition for what is printed in this book. Preserve Kalaignar's wording, arrangement, quotations, poem labels, poet attributions, word explanations and meaningful visual organization exactly as source-supported.
 
-A text page becomes `verified` only after both textual fidelity and meaningful visual-text fidelity have been checked directly against the scan.
+First-pass capture is not final verification. `verified` remains reserved for pages that have passed the required later textual and visual-fidelity gates.
 
 ## Exact next activity
 
-Proceed to **section 008 — `மாதரின் கண்ட மலர்கள்`**, beginning at **scan 50 / printed page 35**.
+**Pass 1 only: transcribe/capture scan 54, commit it as a first-pass physical record, then continue sequentially toward scan 497.**
 
-Process **scan 50 only** in the next iteration. Inspect the controlling scan directly, create the physical page record from source-visible text, preserve heading/lineation/punctuation/meaningful alignment/page furniture, complete textual + meaningful visual-fidelity verification, and stop before scan 51.
-
-The section end remains open until a later decorative heading is directly observed.
+Do not mix Pass 2–8 work into routine Pass-1 page capture.
