@@ -33,7 +33,7 @@ Routine top-level synchronization is deferred until a section closes.
 
 ## Current mapped physical extent
 
-Physical page records now exist through scan **46**.
+Physical page records now exist through scan **49**.
 
 Mapped structure:
 
@@ -44,8 +44,8 @@ Mapped structure:
 - scans **31–36** — `துணை நின்றார் தோழி!` — complete / verified after corrective re-transcription;
 - scans **37–41** — `சுமந்தவன் சுமந்த சோகம்!` — complete / verified after page-by-page source audit;
 - scans **42–46** — `பாவை புகழ்ந்த பன்றி` — complete / verified;
-- scans **47–49** — `காக்கைக்கு நன்றி காட்ட...` — boundary mapped; transcription pending; scan 48 is a full-page illustration;
-- scan **50** — next decorative heading `மாதரின் கண்ட மலர்கள்`; later extent pending;
+- scans **47–49** — `காக்கைக்கு நன்றி காட்ட...` — complete / verified; scan 48 illustration preserved separately;
+- scan **50 / printed 35** — next decorative heading `மாதரின் கண்ட மலர்கள்`; transcription/verification pending;
 - scans **51–497** — progressive later-source work.
 
 Scans **7–8** remain explicitly `partial` source/page records.
@@ -90,14 +90,29 @@ Inherited scans 37/39/40 were placeholders and scan 41 contained substantive fir
 
 `பாவை புகழ்ந்த பன்றி` — scans **42–46 / printed 27–31**.
 
-Scans 42, 43 and 45 were rebuilt from placeholder records; scan 44 is the separately preserved illustration; scan 46 is the concluding quotation/provenance/`பொருள் விளக்கம்` page and is now directly verified.
-
-The correct boundary is **42–46**. Scan 47 begins the next decorative heading `காக்கைக்கு நன்றி காட்ட...`.
+Scans 42, 43 and 45 were rebuilt from placeholder records; scan 44 is the separately preserved illustration; scan 46 is the concluding quotation/provenance/`பொருள் விளக்கம்` page.
 
 Verified scan-46 provenance:
 
 - `அகநானூறு : பாடல் : 248`
 - `பாடியவர் : கபிலர்`
+
+### Body section 007 — COMPLETE
+
+`காக்கைக்கு நன்றி காட்ட...` — scans **47–49 / printed 32–34**.
+
+The section was processed one physical source page per iteration:
+
+- scan 47 — decorative opening + text; `verified`;
+- scan 48 — full-page illustration with no visible printed page number; `verified`;
+- scan 49 — concluding text / quotation / provenance / `பொருள் விளக்கம்`; `verified`.
+
+Verified scan-49 provenance:
+
+- `குறுந்தொகை : பாடல் : 210`
+- `பாடியவர் : காக்கைப்பாடினியார் நச்செள்ளையார்`
+
+Scan 50 directly begins the next decorative heading `மாதரின் கண்ட மலர்கள்`, establishing scan 49 as the section end.
 
 ## Permanent fidelity rule
 
@@ -107,8 +122,8 @@ A text page becomes `verified` only after both textual fidelity and meaningful v
 
 ## Exact next activity
 
-Proceed to **section 007 — `காக்கைக்கு நன்றி காட்ட...`**, scans **47–49 / printed 32–34**, one source page per iteration.
+Proceed to **section 008 — `மாதரின் கண்ட மலர்கள்`**, beginning at **scan 50 / printed page 35**.
 
-Work on **scan 47 / printed page 32 only** next. Do not transcribe scan 48 or scan 49 in that iteration. Scan 48 is a full-page illustration. Scan 49 visibly carries `குறுந்தொகை : பாடல் : 210` / `பாடியவர் : காக்கைப்பாடினியார் நச்செள்ளையார்`; promote that provenance only when scan 49 itself passes verification.
+Process **scan 50 only** in the next iteration. Inspect the controlling scan directly, create the physical page record from source-visible text, preserve heading/lineation/punctuation/meaningful alignment/page furniture, complete textual + meaningful visual-fidelity verification, and stop before scan 51.
 
-Boundary is already confirmed because scan 50 begins `மாதரின் கண்ட மலர்கள்`.
+The section end remains open until a later decorative heading is directly observed.
