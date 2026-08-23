@@ -4,38 +4,41 @@ printed_page: "26"
 work: "sangatamil"
 section: "சுமந்தவன் சுமந்த சோகம்!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "running சங்கத் தமிழ் header; concluding quotation lines; centered asterisk; right-aligned provenance; பொருள் விளக்கம் block; ornamental separator; printed page number centered"
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "running சங்கத் தமிழ் header centered between rules; two-line continuation of Sangam quotation from scan 40; centered asterisk separator; right-aligned provenance; underlined பொருள் விளக்கம் block; centered asterisk and floral ornament below gloss; horizontal rule above centered printed page number"
 language: "ta"
-transcription_method: "direct first-pass reading from source scan"
+transcription_method: "direct character-by-character textual and meaningful visual comparison with source scan; inaccurate inherited first pass replaced"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
+continues_from_scan: 40
 ---
 
-கால்திரி கட்டிலிற் கிடப்பித்
-தூவெள் அறுவை போர்ப்பித் திலதே;”
+> கால்கழி கட்டிலிற் கிடப்பித்  
+> தூவெள் அறுவை போர்ப்பித் திலதே.”
 
-*
+<div align="center">*</div>
 
 <div align="right">
 
 (புறநானூறு : பாடல் : 286  
-பாடியவர் : ஔவையார்)
+பாடியவர் : ஒளவையார்)
 
 </div>
 
 ## பொருள் விளக்கம் :
 
-வெண்டாட்டு குருசில் = வெள்ளாட்டு கிடாய்.
+வெள்ளாட்டுச் செச்சை = வெள்ளாட்டுக் கிடாய்.
 
-மண்டை = தோல் எனும் மது.
+மண்டை = தேறல் எனும் மது
 
-கால்திரி கட்டில் = கால்களை கட்டிலெனப்படும் பாடை.
+கால்கழி கட்டில் = காலில்லாத கட்டிலெனப்படும் பாடை.
 
-தூவெள் அறுவை = உடலை மூடுகின்ற தூய வெள்ளைத் துணி.
+தூவெள் அறுவை = (உடலை மூடுகின்ற) தூய வெள்ளைத்  
+துணி.
 
-*
+<div align="center">*</div>
 
-<!-- First-pass direct transcription of the source-visible conclusion/provenance/gloss. Full section verification remains pending. -->
+<!-- A small floral ornament is centered below the final asterisk in the source. -->
 
+<!-- Directly verified against scan 41 for the quotation continuation, punctuation, source-visible provenance, gloss wording, alignment, separators, running header/rules, ornament and page furniture. The inherited first pass had multiple substantive errors, including `கால்திரி`, `ஔவையார்`, and incorrect glosses; these were replaced from the controlling scan rather than normalized from an external edition. -->
 <!-- மூல ஸ்கேன் பக்கம்: 41; அச்சுப் பக்கம்: 26 -->
