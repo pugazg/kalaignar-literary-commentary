@@ -30,16 +30,17 @@ The supplied PDF is independently confirmed as **497 scans**; scan **497 is the 
 
 ## Working cadence
 
-Process **one source page per iteration**. For the active physical text page, complete any needed corrective transcription, direct textual verification, meaningful visual-text fidelity verification and tracking updates; then stop before the next source text page.
+Process **one source page per iteration**. Complete any needed source transcription/correction, direct textual verification and meaningful visual-text fidelity verification for that physical page; update the physical record; then stop before the next source page. Synchronize broader tracking at section closure rather than after every page.
 
 ## Completed work — do not restart
 
 - front-matter printed-text gate: scans **9–14 / IV–IX** — COMPLETE / verified;
 - `மலர்மாரி பொழிகின்றேன்!` — scans **17–19** — COMPLETE / verified;
 - `யாதும் ஊரே; யாவரும் கேளிர்!` — scans **20–24** — COMPLETE / verified;
-- `மானங்காத்த மறவன்!` — scans **25–30 / printed 10–15** — COMPLETE / verified;
-- `துணை நின்றார் தோழி!` — scans **31–36 / printed 16–21** — COMPLETE / verified after corrective re-transcription and an independent second textual + visual-fidelity pass;
-- `சுமந்தவன் சுமந்த சோகம்!` — scans **37–41 / printed 22–26** — COMPLETE / verified after page-by-page source audit.
+- `மானங்காத்த மறவன்!` — scans **25–30** — COMPLETE / verified;
+- `துணை நின்றார் தோழி!` — scans **31–36** — COMPLETE / verified after corrective re-transcription;
+- `சுமந்தவன் சுமந்த சோகம்!` — scans **37–41** — COMPLETE / verified after page-by-page source audit;
+- `பாவை புகழ்ந்த பன்றி` — scans **42–46** — COMPLETE / verified.
 
 Scans **7–8** remain `partial`.
 
@@ -49,40 +50,33 @@ Scans **7–8** remain `partial`.
 - scan 24 — `புறநானூறு - பாடல் : 192` / `கணியன் பூங்குன்றன்`;
 - scan 30 — `புறநானூறு : பாடல்: 74` / `சேரமான் கணைக்கால் இரும்பொறை`;
 - scan 36 — `ஐங்குறுநூறு : பாடல் : 180` / `அம்மூவனார்`;
-- scan 41 — `புறநானூறு : பாடல் : 286` / source-visible poet spelling **`ஒளவையார்`**.
+- scan 41 — `புறநானூறு : பாடல் : 286` / source-visible `ஒளவையார்`;
+- scan 46 — `அகநானூறு : பாடல் : 248` / `கபிலர்`.
 
-Do not normalize these source labels, poet spellings or quoted forms from an external edition.
+## Important boundary correction
 
-## Section-005 corrective-review result
+Section 006 does **not** end at scan 45. Scan **46 / printed 31** is its concluding quotation/provenance/`பொருள் விளக்கம்` page. Scan 47 begins the next decorative heading. The canonical section-006 range is therefore **42–46**.
 
-The inherited text records for scans 37/39/40 were placeholders and scan 41 contained multiple substantive errors. The section has been corrected and verified one page at a time.
+## Current exact next activity — Section 007
 
-Scan 41 directly supports forms including:
+`காக்கைக்கு நன்றி காட்ட...` — scans **47–49 / printed 32–34**.
 
-- `கால்கழி கட்டிலிற் கிடப்பித்`;
-- `வெள்ளாட்டுச் செச்சை = வெள்ளாட்டுக் கிடாய்.`;
-- `மண்டை = தேறல் எனும் மது`;
-- `கால்கழி கட்டில் = காலில்லாத கட்டிலெனப்படும் பாடை.`;
-- `தூவெள் அறுவை = (உடலை மூடுகின்ற) தூய வெள்ளைத் துணி.`
+Boundary is verified:
 
-The earlier `ஔவையார்` attribution was wrong for this printed source; the scan reads `ஒளவையார்`, which is now canonical for this edition.
+- scan 47 — decorative opening + text;
+- scan 48 — full-page illustration;
+- scan 49 — concluding text / quotation / provenance / `பொருள் விளக்கம்`;
+- scan 50 begins the next decorative heading `மாதரின் கண்ட மலர்கள்`.
 
-## Current exact next activity — Section 006
-
-`பாவை புகழ்ந்த பன்றி` begins at **scan 42 / printed 27**.
-
-Physical records already exist through scan **45 / printed 30**. Scan 44 is a verified illustration. The inherited text records must be treated as untrusted until directly checked against the controlling scan. The section end is still open.
+Scan 49 visibly prints `குறுந்தொகை : பாடல் : 210` / `பாடியவர் : காக்கைப்பாடினியார் நச்செள்ளையார்`, but this citation must remain pending until scan 49 itself passes verification.
 
 For the next iteration:
 
-1. Work on **scan 42 / printed page 27 only**.
+1. Work on **scan 47 / printed page 32 only**.
 2. Inspect the actual scan first.
-3. If the existing page record is placeholder, partial or inaccurate, replace it with a complete direct source transcription.
-4. Preserve printed wording, punctuation, lineation, paragraph/dialogue grouping, meaningful alignment, decorative/running headings, separators and page furniture.
-5. Complete textual + meaningful visual-fidelity verification for scan 42.
-6. Update section-006 local tracking/page map.
-7. **Stop before scan 43.**
+3. Create the physical page record directly from the source.
+4. Preserve the decorative heading `காக்கைக்கு நன்றி காட்ட...`, printed wording, punctuation, lineation, dialogue/paragraph grouping, meaningful alignment and page furniture.
+5. Complete textual + meaningful visual-fidelity verification for scan 47.
+6. **Stop before scan 48.**
 
-After the existing scans 42–45 are made trustworthy one page at a time, inspect scan 46 onward only as needed to establish the next decorative section boundary. Do not create new source-order records beyond scan 45 before that gate is complete.
-
-Continue progressively through the complete 497-scan source.
+Continue scan 48 and scan 49 in separate later iterations.
