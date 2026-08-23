@@ -6,12 +6,54 @@ section: "துணை நின்றார் தோழி!"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "running சங்கத் தமிழ் header; multiple verse/prose blocks; printed page number centered"
+visual_notes: "running சங்கத் தமிழ் header; multiple verse blocks; quoted dialogue near page foot; printed page number centered"
 language: "ta"
-transcription_method: "direct first-pass reading from source scan"
+transcription_method: "direct first-pass transcription from source scan; placeholder-only earlier record replaced"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
-<!-- First-pass physical page record. Full source-visible wording and lineation require second direct verification before transcription is declared complete. -->
+அம்மூவனார் எனும் புலவரோ  
+அலை தழுவும் நெய்தல் நிலத்தில் - காதல்  
+கலையில்வோர் களித்திடும் காட்சி  
+கவினுற வரைந்திடுவார்!
 
+பாலை நிலத்திலும் - காதல்  
+பண்பாடிடும் பறவைகள் உண்டென்று - அவர்தம்  
+பிரிவின் வேதனை உரைத்திடுவார்;  
+பரிவுடனே ஓதலாந்தையார் எனும் புலவர்!
+
+ஐந்து வகை நிலம் வாழும் ஆறறிவு மாந்தர்கள்,  
+ஆய்ந்து தெளியும் அறிவிலா ஊர்வன, நடப்பன, பறப்பன,  
+அடவிகள், அருவிகள், அழகுறு சோலைகள்,  
+அடுக்கடுக்காய் அமைந்த மலைத்தொடர்கள்,
+
+அலைக்கரத்தால் தாலாட்டும் கடற்பரப்பு,  
+அங்கெல்லாம் உயிர் இனத்தின் வாழ்க்கை முறை,  
+அத்தனையும் உற்று நோக்கி - தமிழில்  
+முத்தனைய பாடல்கள் ஐநூறு தந்திட்டார்!  
+சத்துநிறை அகவாழ்வின் அமுத ஊற்றுக்களாம் - அவற்றுள்;  
+முதலில் ஒரு பாட்டுக்குள்  
+முழ்கித் திளைத்திடுவோம்!
+
+நெய்தல் நிலத்தில்  
+ஓலமிடும் கடலோரம்  
+கோலம் செய் பொன்மேனிக்  
+கோதையொருத்தி;  
+மணல் மேட்டில் சாய்ந்தவாறு - மேற்கின்  
+தணல் வண்ணம் பார்த்திருந்தாள்!
+
+அணிமலர்ப் புன்னையின் அருகேயிருந்து - அவள்  
+பிணிதீர்க்கும் மருத்துவர் வந்து சேர்ந்தான்!
+
+“வந்தீரோ மருத்துவரே” எனக்குதித்து  
+“தந்திடுவீர் மருந்தென்று” தலைசாய்த்தாள் அவன் தோளில்!  
+“காலை அரும்பிப் பகலெல்லாம் போதாகி  
+மாலை மலரும் இந்நோய்க்கு  
+இருவரும்தான் ஆட்பட்டுத் தவிக்கின்றோம் - அதனாலே;  
+ஒருவருக்கொருவர் மருந்து உதவி தவிர்க்கலாம் நோய்,” என்று  
+தழுவினன் தங்கச் சிலையை!  
+விரிந்து பரந்த கடற்கரை மெத்தையில்  
+விழுந்தனர், புரண்டனர், எழுந்தனர், மகிழ்ந்தனர்!
+
+<!-- Direct first-pass re-transcription from the supplied scan. A second character-by-character and visual-fidelity gate remains before promotion to verified. -->
 <!-- மூல ஸ்கேன் பக்கம்: 33; அச்சுப் பக்கம்: 18 -->
