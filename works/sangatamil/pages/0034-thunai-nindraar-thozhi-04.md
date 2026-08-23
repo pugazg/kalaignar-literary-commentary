@@ -4,11 +4,11 @@ printed_page: "19"
 work: "sangatamil"
 section: "துணை நின்றார் தோழி!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 visual_notes: "running author header; dialogue and verse blocks with several deliberately offset continuation lines; printed page number centered at foot"
 language: "ta"
-transcription_method: "direct first-pass transcription from source scan; placeholder-only earlier record replaced"
+transcription_method: "direct character-by-character textual and visual comparison with source scan after corrective re-transcription"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -38,7 +38,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 
 வீணையின் குடம்போல விம்மிப் புடைத்த அவள் பின்னழகை  
 விரகதாப உணர்வோடு தட்டிக் கொடுத்துத் தலைவனும்;  
-“வீணை வந்தாதே கண்ணே!  
+“வீணை வருந்தாதே கண்ணே!  
 விண்ணாரும் சந்திரனின் சாட்சியாகச் சொல்வேன்;  
 விரைவில் உனக் கரம் பிடித்து மணப்பேன்  
 விடுதுயரம்! இடையில் சில நாட்கள்;  
@@ -58,7 +58,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 
 அவளோ;  
 அன்பன் கரம்பட்டுச் சிலிர்த்துப்போய்,  
-என்புதோல் நரம்பெனத்தும் துடேறி;
+என்புதோல் நரம்பனைத்தும் துடேறி;
 
-<!-- Direct first-pass re-transcription from the supplied scan. A second character-by-character and visual-fidelity gate remains before promotion to verified. -->
+<!-- Second direct textual + meaningful visual-fidelity gate completed against the controlling scan. -->
 <!-- மூல ஸ்கேன் பக்கம்: 34; அச்சுப் பக்கம்: 19 -->
