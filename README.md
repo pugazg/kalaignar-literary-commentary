@@ -11,7 +11,7 @@ Last synchronized with live `main`: **2026-08-23**.
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–015 **ARCHIVAL-READY through scan 323**; commentary through printed page 270 / Kural 1330 |
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–015 **RELEASED through the end of the supplied volume** |
 | Thirukkural semantic structure | பால் → இயல் → அதிகாரம் | **COMPLETE — 3 பால் / 13 இயல் / 133 அதிகாரம் / 1,330 குறள் mapped** |
-| சங்கத் தமிழ் | தமிழ் | **ACTIVE — complete 497-scan source confirmed; physical records through scan 45; first four body sections complete/verified; section 005 source audit next** |
+| சங்கத் தமிழ் | தமிழ் | **ACTIVE — complete 497-scan source confirmed; physical records through scan 45; first five body sections complete/verified; section 006 scan 42 next** |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த source-controlled edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Kuraloviyam | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
@@ -58,21 +58,23 @@ Completed:
 - `மலர்மாரி பொழிகின்றேன்!` — scans **17–19** — complete / verified;
 - `யாதும் ஊரே; யாவரும் கேளிர்!` — scans **20–24** — complete / verified;
 - `மானங்காத்த மறவன்!` — scans **25–30** — complete / verified;
-- `துணை நின்றார் தோழி!` — scans **31–36** — complete / verified after corrective re-transcription and independent second source comparison.
+- `துணை நின்றார் தோழி!` — scans **31–36** — complete / verified after corrective re-transcription and independent second source comparison;
+- `சுமந்தவன் சுமந்த சோகம்!` — scans **37–41** — complete / verified after one-page-at-a-time source audit.
 
-The section-004 corrective audit was required because inherited scans 31/33/34/35 were largely placeholders and scan 36 contained substantive first-pass errors. Those text pages were replaced from the controlling scan, then separately verified. Scan 36 now has verified provenance `ஐங்குறுநூறு : பாடல் : 180` / `பாடியவர் : அம்மூவனார்`.
+Section 005 required substantial correction: inherited scans 37/39/40 were placeholders and scan 41 contained erroneous source readings. Scan 41 now preserves the controlling source, including `கால்கழி`, the printed glosses, and provenance `புறநானூறு : பாடல் : 286` / **`பாடியவர் : ஒளவையார்`**.
 
 Later mapped work requiring audit before advancement:
 
-- `சுமந்தவன் சுமந்த சோகம்!` — scans **37–41**; physical records exist; scan 38 illustration verified; text pages 37/39/40/41 require source audit;
-- `பாவை புகழ்ந்த பன்றி` — starts scan **42**; records exist through scan **45**; scan 44 illustration verified; text audit/end boundary pending.
+- `பாவை புகழ்ந்த பன்றி` — starts scan **42**; records exist through scan **45**; scan 44 illustration verified; text audit/end boundary pending;
+- scans **46–497** remain progressive later-source work after the existing mapped range is made trustworthy.
 
 Verified printed Sangam provenance currently includes:
 
 - scan 19 — `பத்துப்பாட்டு (குறிஞ்சிப்பாட்டு)` / `61 முதல் 95 முடிய` / `கபிலர்`;
 - scan 24 — `புறநானூறு - பாடல் : 192` / `கணியன் பூங்குன்றன்`;
 - scan 30 — `புறநானூறு : பாடல்: 74` / `சேரமான் கணைக்கால் இரும்பொறை`;
-- scan 36 — `ஐங்குறுநூறு : பாடல் : 180` / `அம்மூவனார்`.
+- scan 36 — `ஐங்குறுநூறு : பாடல் : 180` / `அம்மூவனார்`;
+- scan 41 — `புறநானூறு : பாடல் : 286` / `ஒளவையார்`.
 
 Current controls:
 
@@ -92,10 +94,10 @@ For active Sangath Tamil work, precedence is:
 
 ## அடுத்த செயல்
 
-Audit/re-transcribe the existing text records for:
+Continue **one source page per iteration** with:
 
-**`சுமந்தவன் சுமந்த சோகம்!` — scans 37–41 / printed 22–26.**
+**`பாவை புகழ்ந்த பன்றி` — scan 42 / printed page 27 only.**
 
-Scan 38 is already a verified illustration. Directly inspect scans 37, 39, 40 and 41, replace incomplete/inaccurate inherited text where necessary, then perform a separate verification gate. Do not create new records beyond scan 45 until sections 005 and 006 have been made trustworthy.
+Audit the existing scan-42 text record directly against the controlling scan, replace incomplete/inaccurate text as necessary, verify textual + meaningful visual fidelity, synchronize local tracking, and stop before scan 43. Do not create new records beyond scan 45 until section 006's mapped pages are trustworthy and its end boundary has been established.
 
 Current handover: [`HANDOVER.md`](HANDOVER.md).
