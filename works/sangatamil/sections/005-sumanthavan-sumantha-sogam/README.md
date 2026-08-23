@@ -6,45 +6,44 @@
 - printed pages represented: **22–26**
 - scan 38: full-page illustration
 - boundary confidence: **verified** — scan 42 begins the next decorative heading
-- transcription state: **IN PROGRESS — one source page per iteration**
+- transcription state: **COMPLETE / VERIFIED — source-audited one text page per iteration**
 
 ## பக்கங்கள்
 
 1. [`scan 37`](../../pages/0037-sumanthavan-sumantha-sogam-01.md) — section opening; full direct transcription + textual/visual verification complete; `verified`
-2. [`scan 38`](../../pages/0038-sumanthavan-sumantha-sogam-illustration.md) — illustration `verified`
+2. [`scan 38`](../../pages/0038-sumanthavan-sumantha-sogam-illustration.md) — full-page illustration; `verified`
 3. [`scan 39`](../../pages/0039-sumanthavan-sumantha-sogam-03.md) — full direct transcription + textual/visual verification complete; `verified`
 4. [`scan 40`](../../pages/0040-sumanthavan-sumantha-sogam-04.md) — full direct transcription + textual/visual verification complete; Sangam quotation begins and continues to scan 41; `verified`
-5. [`scan 41`](../../pages/0041-sumanthavan-sumantha-sogam-05.md) — concluding quotation/provenance/`பொருள் விளக்கம்`; `needs-review`; **next text-page iteration**
+5. [`scan 41`](../../pages/0041-sumanthavan-sumantha-sogam-05.md) — quotation conclusion / provenance / `பொருள் விளக்கம்`; full corrective source transcription + textual/visual verification complete; `verified`
 
-## Verified page iterations
+## Verification history
 
-### Scan 37 / printed 22
+The inherited text records for scans 37, 39 and 40 were structural placeholders rather than complete archival transcriptions. Each was therefore replaced from the controlling scan and directly verified for both textual and meaningful visual fidelity.
 
-The previous scan-37 record was only a structural placeholder. It was replaced by a direct source transcription and checked for both textual and meaningful visual fidelity. Source-visible structure preserved includes the decorative opening heading, printed verse/prose lineation, the deliberately right-aligned continuations `தாய்வீடு` and `எனக் கூறிப்`, and the printed page rule/number.
+Scan 41 contained text, but the inherited first pass was materially inaccurate. Direct source comparison corrected, among other items:
 
-### Scan 39 / printed 24
+- `கால்திரி` → source-visible `கால்கழி`;
+- poet attribution `ஔவையார்` → source-visible `ஒளவையார்`;
+- the first gloss to `வெள்ளாட்டுச் செச்சை = வெள்ளாட்டுக் கிடாய்.`;
+- `மண்டை = தேறல் எனும் மது`;
+- `கால்கழி கட்டில் = காலில்லாத கட்டிலெனப்படும் பாடை.`;
+- `தூவெள் அறுவை = (உடலை மூடுகின்ற) தூய வெள்ளைத் துணி.`
 
-The previous scan-39 record was also only a structural placeholder. It was replaced with the complete source-visible text and directly checked character-by-character and for meaningful visual fidelity.
+These are source corrections, not normalization from another Sangam edition.
 
-The transcription preserves the running `சங்கத் தமிழ்` header/rules, printed lineation and paragraph grouping, dialogue boundaries, punctuation, and source-visible wording.
+## Visual / textual continuity
 
-### Scan 40 / printed 25
+Scan 37 carries the decorative section opening. Scan 38 is a separately preserved full-page illustration. Text resumes on scan 39. The printed Sangam quotation begins near the foot of scan 40 and continues directly onto scan 41; the physical page records preserve that split rather than reconstructing a single synthetic page.
 
-The previous scan-40 record was only a structural placeholder. It has now been replaced by the complete source-visible text for this physical page and directly checked for both textual and meaningful visual fidelity.
+Meaningful visual structure retained across the verified text pages includes running/decorative headings, source lineation and paragraph grouping, dialogue boundaries, deliberate alignment, centered separators, the quotation/provenance block, the underlined `பொருள் விளக்கம்` block, the scan-41 floral ornament note, and page furniture.
 
-The page preserves the running author header/rules, dialogue and narrative lineation, paragraph boundaries, centered separator, and the source-visible beginning of the Sangam quotation. Unusual printed forms such as `என்றுள்`, `சொன்னுள்`, `ஒய்வெடுத்துக்`, `பெற்றுன்`, and `மாண்டனன்போரில்` are retained rather than silently normalized.
+## Printed Sangam provenance — VERIFIED
 
-The quotation begins on scan 40 with `வெள்ளை வெள்ளாட்டுச் செச்சை போலத்` and remains deliberately incomplete in the scan-40 record because the printed quotation continues onto scan 41.
-
-No scan-41 text was transcribed or promoted during this iteration.
-
-## Printed Sangam provenance
-
-Scan 41 visibly prints:
+Scan 41 directly prints:
 
 - `புறநானூறு : பாடல் : 286`
-- `பாடியவர் : ஔவையார்`
+- `பாடியவர் : ஒளவையார்`
 
-This citation must be promoted into the canonical source-citation register only when scan 41 itself passes its direct verification gate.
+The canonical citation register now records this source-visible attribution as `verified`. Do not silently replace `ஒளவையார்` with another spelling from an external edition.
 
-This section README is a navigation/provenance manifest. Complete source text remains authoritative in the physical page records.
+This section README is a navigation/provenance manifest. The physical page records remain the archival text layer.
