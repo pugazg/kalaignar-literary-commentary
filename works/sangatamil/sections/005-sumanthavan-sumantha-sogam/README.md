@@ -12,17 +12,23 @@
 
 1. [`scan 37`](../../pages/0037-sumanthavan-sumantha-sogam-01.md) — section opening; full direct transcription + textual/visual verification complete; `verified`
 2. [`scan 38`](../../pages/0038-sumanthavan-sumantha-sogam-illustration.md) — illustration `verified`
-3. [`scan 39`](../../pages/0039-sumanthavan-sumantha-sogam-03.md) — text `needs-review`; **next text-page iteration**
-4. [`scan 40`](../../pages/0040-sumanthavan-sumantha-sogam-04.md) — text `needs-review`
+3. [`scan 39`](../../pages/0039-sumanthavan-sumantha-sogam-03.md) — full direct transcription + textual/visual verification complete; `verified`
+4. [`scan 40`](../../pages/0040-sumanthavan-sumantha-sogam-04.md) — text `needs-review`; **next text-page iteration**
 5. [`scan 41`](../../pages/0041-sumanthavan-sumantha-sogam-05.md) — concluding quotation/provenance/`பொருள் விளக்கம்`; `needs-review`
 
-## Scan 37 verification
+## Verified page iterations
 
-The previous scan-37 record was only a structural placeholder. It has now been replaced by a direct source transcription and independently checked for both textual and meaningful visual fidelity.
+### Scan 37 / printed 22
 
-Source-visible structure preserved includes the decorative opening heading, printed verse/prose lineation, the deliberately right-aligned continuations `தாய்வீடு` and `எனக் கூறிப்`, and the printed page rule/number.
+The previous scan-37 record was only a structural placeholder. It was replaced by a direct source transcription and checked for both textual and meaningful visual fidelity. Source-visible structure preserved includes the decorative opening heading, printed verse/prose lineation, the deliberately right-aligned continuations `தாய்வீடு` and `எனக் கூறிப்`, and the printed page rule/number.
 
-No material from scans 39–41 was transcribed or promoted during this iteration.
+### Scan 39 / printed 24
+
+The previous scan-39 record was also only a structural placeholder. It has now been replaced with the complete source-visible text and directly checked character-by-character and for meaningful visual fidelity.
+
+The verified transcription preserves the running `சங்கத் தமிழ்` header/rules, printed lineation and paragraph grouping, dialogue boundaries, punctuation, and source-visible wording including forms such as `பனியொற்றி`, `புரியவில்லே`, `கண்கெட்ட கிழவி`, `முடிக்கவில்லே`, and `பொறுக்கவில்லே`.
+
+No material from scans 40–41 was transcribed or promoted during the scan-39 iteration.
 
 ## Printed Sangam provenance
 
