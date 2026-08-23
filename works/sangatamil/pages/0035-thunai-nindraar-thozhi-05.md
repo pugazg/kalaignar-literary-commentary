@@ -4,11 +4,11 @@ printed_page: "20"
 work: "sangatamil"
 section: "துணை நின்றார் தோழி!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "running சங்கத் தமிழ் header; dialogue and narrative verse blocks; final bold/large transition heading 'இந்தத் தொண்டித்துறையில்' begins the analogy continued on scan 36; printed page number centered at foot"
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "running சங்கத் தமிழ் header; dialogue and narrative verse blocks; deliberately right-aligned 'அவன்' continuation; final bold/large transition heading 'இந்தத் தொண்டித்துறையில்' begins the analogy continued on scan 36; printed page number centered at foot"
 language: "ta"
-transcription_method: "direct first-pass transcription from source scan; placeholder-only earlier record replaced"
+transcription_method: "direct character-by-character textual and visual comparison with source scan after corrective re-transcription"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_to_scan: 36
 ---
@@ -21,7 +21,8 @@ continues_to_scan: 36
 இரண்டு கிடக்கும் மண்டபம் அழைக்குது! என்  
 இதயமே வா; உடல் இன்பத்தைப் பருகலாம்” என்றான்!
 
-மருண்டது மானின் விழி அக்கணம் எனினும் - மறுகணம் அவன்  
+மருண்டது மானின் விழி அக்கணம் எனினும் - மறுகணம்  
+<div align="right">அவன்</div>
 உருண்டு திரண்ட தோளிலே, உரியவள் தொத்திக் கொண்டாள்!  
 நிலவின் ஒளிகூட நுழையாத  
 மண்டபத்தில் நுழைவதற்குள்  
@@ -45,7 +46,7 @@ continues_to_scan: 36
 மரபென்று உண்டல்லவோ தமிழர்க்கு? - அதை நீவிர்  
 மறந்துவிட்டல் கண்டல்லவோ நினைவூட்டுகின்றேன்!
 
-மணம் புரிந்து மனைவறம் காணுமல் - கடற்கரை  
+மணம் புரிந்து மனையறம் காணுமல் - கடற்கரை  
 மணல்மீதும் மண்டபத்துள்ளும் காதல் கீதம்  
 மறைவாக இசைத்து மகிழ்வதற்கு - இந்த  
 மகளைப் பெற்றோர் நீண்ட நாள் ஒப்பமாட்டார்!  
@@ -59,5 +60,5 @@ continues_to_scan: 36
 பறப்பதற்குச் சிறகில் பலமில்லா கொக்கொன்று  
 பறிப்பதற்குக் காத்திருக்கும் காட்சிதனைக் கண்டிலையோ
 
-<!-- The final analogy continues directly onto scan 36. Direct first-pass re-transcription from the supplied scan; a second character-by-character and visual-fidelity gate remains before promotion to verified. -->
+<!-- Corrective transcription independently rechecked against the controlling scan for wording, punctuation, printed lineation, the right-aligned continuation, heading hierarchy, and page continuity into scan 36. -->
 <!-- மூல ஸ்கேன் பக்கம்: 35; அச்சுப் பக்கம்: 20 -->
