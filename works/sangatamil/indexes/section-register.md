@@ -8,7 +8,7 @@ The source does not use the numbered `மலர்` scheme seen in *தொல்
 | 001 | `மலர்மாரி பொழிகின்றேன்!` | 17–19 | **complete / verified** |
 | 002 | `யாதும் ஊரே; யாவரும் கேளிர்!` | 20–24 | **complete / verified** |
 | 003 | `மானங்காத்த மறவன்!` | 25–30 | **complete / verified** |
-| 004 | `துணை நின்றார் தோழி!` | 31–36 | boundary verified; physical records created; transcription verification in progress |
+| 004 | `துணை நின்றார் தோழி!` | 31–36 | boundary verified; weak placeholder/first-pass text redone directly from controlling scan; second verification pending |
 | 005 | `சுமந்தவன் சுமந்த சோகம்!` | 37–41 | boundary verified; physical records created; transcription verification in progress |
 | 006 | `பாவை புகழ்ந்த பன்றி` | starts at 42; inspected through 45 | heading directly read; physical records through scan 45; end boundary pending |
 | — | subsequent decorative sections | after section 006 through scan 497 | discovery / progressive mapping pending |
