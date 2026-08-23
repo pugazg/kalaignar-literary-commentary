@@ -32,8 +32,10 @@ The actual supplied PDF has been independently confirmed as **497 scans**. Scans
 | 25–30 | printed 10–15 with scan-26 illustration | `மானங்காத்த மறவன்!` | **section complete / verified** |
 | 31–36 | printed 16–21 with scan-32 illustration | `துணை நின்றார் தோழி!` | **section complete / verified after corrective re-transcription and independent second textual + visual-fidelity gate** |
 | 37–41 | printed 22–26 with scan-38 illustration | `சுமந்தவன் சுமந்த சோகம்!` | **section complete / verified after source audit; scan 38 illustration verified; scan 41 carries verified புறநானூறு 286 / ஒளவையார் provenance** |
-| 42–45 | printed 27–30 with scan-44 illustration | `பாவை புகழ்ந்த பன்றி` | section start verified; current inspected extent only; text pages `needs-review`; scan 44 illustration `verified`; end boundary pending |
-| 46–497 | later body / end matter | subsequent source-order sections, citations, illustrations and final back cover | progressive discovery/transcription pending |
+| 42–46 | printed 27–31 with scan-44 illustration | `பாவை புகழ்ந்த பன்றி` | **section complete / verified; scan 46 carries verified அகநானூறு 248 / கபிலர் provenance** |
+| 47–49 | printed 32–34 with scan-48 illustration | `காக்கைக்கு நன்றி காட்ட...` | boundary mapped/verified; physical page transcription not yet started; scan 49 visibly carries குறுந்தொகை 210 / காக்கைப்பாடினியார் நச்செள்ளையார் pending page verification |
+| 50 | printed 35 | `மாதரின் கண்ட மலர்கள்` | next decorative section start directly observed; transcription pending |
+| 51–497 | later body / end matter | subsequent source-order sections, citations, illustrations and final back cover | progressive discovery/transcription pending |
 
 ## Important controls
 
@@ -50,11 +52,10 @@ The actual supplied PDF has been independently confirmed as **497 scans**. Scans
 - `மலர்மாரி பொழிகின்றேன்!`: **scans 17–19 — COMPLETE / VERIFIED**;
 - `யாதும் ஊரே; யாவரும் கேளிர்!`: **scans 20–24 — COMPLETE / VERIFIED**;
 - `மானங்காத்த மறவன்!`: **scans 25–30 — COMPLETE / VERIFIED**;
-- `துணை நின்றார் தோழி!`: **scans 31–36 — COMPLETE / VERIFIED after corrective audit**. The earlier weak placeholder/inaccurate records were replaced, then separately rechecked against the source. Scan 36 now carries verified `ஐங்குறுநூறு : பாடல் : 180` / `பாடியவர் : அம்மூவனார்` provenance;
-- `சுமந்தவன் சுமந்த சோகம்!`: **scans 37–41 — COMPLETE / VERIFIED after page-by-page source audit**. Placeholder/inaccurate inherited records were replaced or corrected from the controlling scan. Scan 41 now carries verified `புறநானூறு : பாடல் : 286` / source-visible `பாடியவர் : ஒளவையார்` provenance.
+- `துணை நின்றார் தோழி!`: **scans 31–36 — COMPLETE / VERIFIED after corrective audit**;
+- `சுமந்தவன் சுமந்த சோகம்!`: **scans 37–41 — COMPLETE / VERIFIED after page-by-page source audit**;
+- `பாவை புகழ்ந்த பன்றி`: **scans 42–46 / printed 27–31 — COMPLETE / VERIFIED**. Scan 46 is the actual concluding quotation/provenance/gloss page; scan 47 starts the next decorative heading. Scan 46 carries verified `அகநானூறு : பாடல் : 248` / `பாடியவர் : கபிலர்` provenance.
 
-## Active gates
+## Active gate
 
-`பாவை புகழ்ந்த பன்றி` — begins at **scan 42 / printed 27**. Continue with **one source page per iteration**. Physical records already exist through scan **45 / printed 30**, including the separately preserved verified scan-44 illustration. Audit each text record directly against the controlling scan before promotion. The section end remains intentionally open until scan 46 onward is inspected for the next decorative heading.
-
-Do not create new source-order records beyond scan 45 until section 006's already mapped text pages are made trustworthy and its end boundary is established.
+`காக்கைக்கு நன்றி காட்ட...` — scans **47–49 / printed 32–34**. Boundary is verified because scan 50 begins `மாதரின் கண்ட மலர்கள்`. Continue **one source page per iteration**, starting with **scan 47 / printed 32 only**. Scan 48 is a full-page illustration and scan 49 contains the printed `குறுந்தொகை : பாடல் : 210` / `பாடியவர் : காக்கைப்பாடினியார் நச்செள்ளையார்` provenance, which must not be promoted to `verified` until scan 49 passes its own page gate.
