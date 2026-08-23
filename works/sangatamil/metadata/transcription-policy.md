@@ -6,12 +6,14 @@
 
 ஒவ்வொரு usable scan page-க்கும் தனி Markdown record உருவாக்கப்படும். அட்டை, வெற்றுப் பக்கம், கையெழுத்துப் facsimile, ஓவியம், தொடர்ச்சியான உரை அனைத்தும் இதில் அடங்கும்.
 
+Canonical execution plan: [`../MULTI_PASS_WORKFLOW.md`](../MULTI_PASS_WORKFLOW.md).
+
 ## நிலைகள்
 
 - `not-started` — page record/metadata exists but continuous source text has not yet been transcribed;
 - `partial` — only securely readable portions have been recorded;
-- `needs-review` — full first pass exists but direct character-level and/or visual-text comparison remains;
-- `verified` — directly compared with the scan for both textual fidelity and meaningful visual text fidelity;
+- `needs-review` — first-pass capture exists but one or more later verification/audit gates remain;
+- `verified` — required textual and meaningful visual-text verification gates have passed;
 - `blocked` — source defect prevents safe completion.
 
 ## source boundary
@@ -34,7 +36,120 @@ The actual supplied PDF has **497 scans**, independently confirmed from the moun
 - cropped/damaged source-ல் மறைந்த எழுத்தையோ layout-ஐயோ sentence meaning வைத்து reconstruct செய்தல்;
 - source-ல் இல்லாத stanza break, alignment, emphasis அல்லது decorative grouping உருவாக்குதல்.
 
+# தற்போதைய multi-pass நடைமுறை
+
+இனி transcription, textual verification, visual verification, continuity, section mapping, provenance, metadata audit ஆகியவை ஒரே iteration-ல் கலக்கப்படக் கூடாது.
+
+## Pass 1 — transcription / physical capture only
+
+Current range: **scan 54 → scan 497**.
+
+ஒவ்வொரு scan-க்கும்:
+
+1. ஒருமுறை source-ஐ வாசி;
+2. physical Markdown record உருவாக்கு;
+3. தென்படும் text-ஐ transcribe செய்;
+4. obvious line break / paragraph / visible heading மட்டும் capture செய்;
+5. illustration/blank/non-text page என்றால் factual physical-page record மட்டும் உருவாக்கு;
+6. printed page number source-ல் தென்பட்டால் மட்டுமே பதிவு செய்;
+7. சந்தேகமான வாசிப்பை பின்னர் review-க்கு விடு; அதைத் தீர்க்க அதிக நேரம் செலவிட வேண்டாம்;
+8. commit செய்து அடுத்த scan-க்கு நகரு.
+
+Pass-1 புதிய page records வழக்கமாக:
+
+```yaml
+status: "needs-review"
+visual_fidelity: "needs-review"
+transcription_method: "fast direct transcription from source scan; verification intentionally deferred"
+```
+
+என இருக்க வேண்டும்.
+
+Illustration/non-text page-க்கு:
+
+```yaml
+transcription_method: "single-pass visual capture; verification intentionally deferred"
+```
+
+பயன்படுத்தலாம்.
+
+### Pass 1-ல் செய்யக் கூடாதவை
+
+- second reading / character-by-character verification;
+- textual verification;
+- visual-fidelity verification;
+- routine crop/zoom forensic work;
+- provenance verification;
+- external-edition comparison;
+- section-end investigation beyond an immediately visible heading;
+- full continuity audit;
+- metadata/status audit;
+- ஒவ்வொரு page-க்கும் README / page-map / section-register / citation-register / HANDOVER update செய்தல்.
+
+Pass 1 முடிவின் நிபந்தனை: **scan 1–497 அனைத்திற்கும் physical page record இருக்க வேண்டும்**.
+
+## Pass 2 — textual verification, scan 1 → 497
+
+பின்வருவன மட்டும் source-உடன் ஒப்பிடப்படும்:
+
+- characters;
+- words;
+- spelling as printed;
+- punctuation;
+- omissions / duplications;
+- quotation wording;
+- line content and order.
+
+## Pass 3 — visual text fidelity, scan 1 → 497
+
+பின்வருவன மட்டும் review செய்யப்படும்:
+
+- கவிதை வரி முறிவு மற்றும் stanza grouping;
+- prose paragraph boundaries;
+- indentation / hanging indentation;
+- centered அல்லது deliberate alignment கொண்ட heading/line;
+- decorative heading hierarchy;
+- தனியாக அமைந்த quotation / citation / gloss block;
+- `பொருள் விளக்கம்` block placement;
+- list grouping மற்றும் numbering;
+- `*`, rules, ornamental separators மற்றும் section breaks;
+- structural meaning கொண்ட bold / underline / enlarged emphasis;
+- running header, printed page number, footer போன்ற page furniture;
+- caption மற்றும் image-க்கு உடனான text relationship.
+
+Exact font face, font size, colour, kerning அல்லது ornamental artwork-ஐ pixel-perfect ஆக reproduce செய்ய வேண்டியதில்லை.
+
+## Pass 4 — physical-page / continuity audit, scan 1 → 497
+
+Check:
+
+- every scan represented exactly once;
+- no missing/duplicate physical page records;
+- covers/blanks/illustrations/end matter;
+- printed pagination;
+- `continues_from_scan` / `continues_to_scan`;
+- sentence/paragraph/poem continuation across pages;
+- source anomalies.
+
+## Pass 5 — section structure audit, scan 1 → 497
+
+Decorative heading, section start/end, page range, illustration placement, boundary confidence மற்றும் section README synchronization இந்த pass-ல் மட்டுமே canonical ஆக முடிக்கப்படும்.
+
+## Pass 6 — Sangam provenance audit, scan 1 → 497
+
+Source anthology, பாடல் எண்/range, பாடியவர், quoted Sangam verse, `பொருள் விளக்கம்`, printed source notes அனைத்தும் systematic whole-volume pass-ல் verify செய்யப்படும்.
+
+## Pass 7 — metadata / status audit, scan 1 → 497
+
+`scan_page`, `printed_page`, `section`, `page_type`, `status`, `visual_fidelity`, continuation fields, transcription method, filename/path consistency ஆகியவை audit செய்யப்படும்.
+
+## Pass 8 — whole-volume synchronization / final audit
+
+அனைத்து indexes, section READMEs, work README, root README, HANDOVER, next-chat prompt மற்றும் final 497-scan completeness state ஒன்றாக synchronize செய்யப்படும்.
+
 ## கவிதை / மேற்கோள் / பொருள் விளக்கம்
+
+Final archival state-ல்:
 
 - அச்சு verse lineation பாதுகாக்க வேண்டும்;
 - quotation punctuation பாதுகாக்க வேண்டும்;
@@ -42,62 +157,31 @@ The actual supplied PDF has **497 scans**, independently confirmed from the moun
 - `பொருள் விளக்கம்` தனி source block ஆக வைக்க வேண்டும்;
 - Kalaignar explanation மற்றும் quoted Sangam verse ஒன்றாகக் கலக்கக் கூடாது.
 
-## visual text fidelity
-
-Text correctness மட்டும் போதாது. Source-இன் meaningful visual organization-யும் பாதுகாக்கப்பட வேண்டும்.
-
-Direct verification-ல் பின்வருவன source-உடன் ஒப்பிடப்பட வேண்டும்:
-
-- கவிதை வரி முறிவு மற்றும் stanza grouping;
-- prose paragraph boundaries;
-- indentation / hanging indentation;
-- centered அல்லது deliberate alignment கொண்ட heading/line;
-- decorative heading hierarchy;
-- தனியாக அமைந்த quotation / Sangam citation block;
-- `பொருள் விளக்கம்` block placement;
-- list grouping மற்றும் numbering;
-- `*`, rules, ornamental separators மற்றும் section breaks;
-- structural meaning கொண்ட bold / underline / enlarged emphasis;
-- running header, printed page number, footer போன்ற page furniture;
-- caption மற்றும் image-க்கு உடனான text relationship;
-- physical page boundary-ஐ கடந்து தொடரும் sentence / paragraph / poem continuity.
-
-Exact font face, font size, colour, kerning அல்லது ornamental artwork-ஐ pixel-perfect ஆக reproduce செய்ய வேண்டியதில்லை. ஆனால் source-visible structure மற்றும் hierarchy மாற்றப்படக்கூடாது.
-
-Markdown மட்டும் போதாத meaningful alignment இருந்தால் limited HTML பயன்படுத்தலாம். Exact spatial placement faithfully represent செய்ய முடியாவிட்டால், text-ஐ பாதுகாத்து factual `visual_notes` அல்லது HTML source comment மூலம் arrangement-ஐ பதிவு செய்ய வேண்டும்.
-
-Recommended optional front-matter fields:
-
-```yaml
-visual_fidelity: "needs-review"
-visual_notes: "decorative centered heading; verse block; citation block"
-```
-
-Direct source comparison முடிந்த பிறகே:
-
-```yaml
-visual_fidelity: "verified"
-```
-
-என மாற்ற வேண்டும்.
-
-Source crop/damage காரணமாக layout அல்லது text block முழுமையாகத் தெரியாவிட்டால் page `verified` ஆகக் கூடாது; `partial`, `needs-review` அல்லது `blocked` ஆகவே இருக்க வேண்டும்.
+இந்த fidelity அனைத்தும் Pass 1-ல் முழுமையாக verify செய்ய வேண்டிய அவசியமில்லை; designated later passes-ல் தான் gate முடிக்கப்படும்.
 
 ## ஓவியப் பக்கங்கள்
 
 Printed caption இருந்தால் verbatim transcription. Caption இல்லையெனில் factual visual description மட்டும்.
 
-Text மற்றும் illustration ஒரே பக்கத்தில் இருந்தால், illustration text blocks-க்கு இடையில் இருக்கிறதா, caption உடன் இருக்கிறதா போன்ற source-supported spatial relationship-ஐ factual note ஆக பதிவு செய்ய வேண்டும்.
+Pass 1-ல் illustration record `needs-review` ஆக இருக்கலாம். Later visual/physical-page passes systematic verification செய்யும்.
 
 ## section README
 
 Decorative heading மூலம் தொடங்கும் thematic units `sections/` கீழ் source-order navigation nodes ஆக map செய்யப்படும். Repository sequence source-authored chapter number அல்ல.
 
+Pass 1-ல் routine section README maintenance செய்ய வேண்டாம். Canonical section structure Pass 5-ல் முடிக்கப்படும்.
+
 ## verification gate
 
-`verified` status requires direct visual comparison with the scan for **both**:
+`verified` status என்பது first-pass transcription-க்கு synonym அல்ல.
 
-1. textual fidelity — characters, words, punctuation, line content and order;
-2. visual text fidelity — lineation, paragraph/stanza/block structure, heading hierarchy, separators, emphasis and text/image relationship.
+Final promotion requires the designated source checks, especially:
+
+1. textual fidelity;
+2. meaningful visual text fidelity.
 
 OCR/search snippets are never sufficient.
+
+## தற்போதைய செயல்பாட்டு எல்லை
+
+Physical records exist through **scan 53**. Pass 1 resumes at **scan 54** and continues sequentially to **scan 497** before Pass 2 begins.
