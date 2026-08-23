@@ -29,6 +29,22 @@ Current canonical scan boundary:
 - no scan **498+** record may be invented;
 - printed-page numbers must still be taken from the source itself and must never be inferred from scan arithmetic.
 
+## Active processing workflow
+
+Source identity and source boundary remain independent of processing cadence.
+
+The current canonical execution plan is [`../MULTI_PASS_WORKFLOW.md`](../MULTI_PASS_WORKFLOW.md).
+
+At workflow adoption:
+
+- physical page records exist through **scan 53**;
+- **Pass 1 — transcription / physical capture only** resumes at **scan 54**;
+- Pass 1 continues through scan 497 before Pass 2 begins;
+- later Passes 2–7 sweep scan 1 through scan 497 systematically;
+- Pass 8 performs final whole-volume synchronization/audit.
+
+No processing shortcut may change the 1–497 source boundary or justify inferred pagination/source text.
+
 ## Publication details visible in the source
 
 The publication-information page records:
@@ -45,7 +61,7 @@ The publication-information page records:
 - `விலை : ரூ. 125/- (ரூபாய் நூற்று இருபத்தைந்து)`
 - `எழுத்து : 18 புள்ளி.`
 
-Other lower production lines on the page will be transcribed only during its direct page-verification gate.
+Other lower production lines on the page remain governed by the later full-volume verification passes; no hidden/source-limited content may be reconstructed from context.
 
 ## Front-matter observations
 
@@ -76,4 +92,4 @@ The body combines:
 - explicit anthology/work names, poem numbers and poet attributions;
 - `பொருள் விளக்கம்` blocks.
 
-These source citations require a separate provenance register rather than silent normalization to an external Sangam edition.
+These source citations require a separate provenance register rather than silent normalization to an external Sangam edition. Canonical full-volume provenance verification is deferred to Pass 6.
