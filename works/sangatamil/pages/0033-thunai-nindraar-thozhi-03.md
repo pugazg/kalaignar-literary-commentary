@@ -4,17 +4,17 @@ printed_page: "18"
 work: "sangatamil"
 section: "துணை நின்றார் தோழி!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 visual_notes: "running சங்கத் தமிழ் header; multiple verse blocks; quoted dialogue near page foot; printed page number centered"
 language: "ta"
-transcription_method: "direct first-pass transcription from source scan; placeholder-only earlier record replaced"
+transcription_method: "direct character-by-character textual and visual comparison with source scan after corrective re-transcription"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
 அம்மூவனார் எனும் புலவரோ  
 அலை தழுவும் நெய்தல் நிலத்தில் - காதல்  
-கலையில்வோர் களித்திடும் காட்சி  
+களியில்வோர் களித்திடும் காட்சி  
 கவினுற வரைந்திடுவார்!
 
 பாலை நிலத்திலும் - காதல்  
@@ -36,7 +36,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 முழ்கித் திளைத்திடுவோம்!
 
 நெய்தல் நிலத்தில்  
-ஓலமிடும் கடலோரம்  
+ஒலமிடும் கடலோரம்  
 கோலம் செய் பொன்மேனிக்  
 கோதையொருத்தி;  
 மணல் மேட்டில் சாய்ந்தவாறு - மேற்கின்  
@@ -55,5 +55,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 விரிந்து பரந்த கடற்கரை மெத்தையில்  
 விழுந்தனர், புரண்டனர், எழுந்தனர், மகிழ்ந்தனர்!
 
-<!-- Direct first-pass re-transcription from the supplied scan. A second character-by-character and visual-fidelity gate remains before promotion to verified. -->
+<!-- Second direct textual + meaningful visual-fidelity gate completed against the controlling scan. -->
 <!-- மூல ஸ்கேன் பக்கம்: 33; அச்சுப் பக்கம்: 18 -->
