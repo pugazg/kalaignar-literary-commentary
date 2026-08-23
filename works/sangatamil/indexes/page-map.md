@@ -31,10 +31,10 @@ The actual supplied PDF has been independently confirmed as **497 scans**. Scans
 | 20–24 | printed 5–9 with scan-22 illustration | `யாதும் ஊரே; யாவரும் கேளிர்!` | **section complete / verified** |
 | 25–30 | printed 10–15 with scan-26 illustration | `மானங்காத்த மறவன்!` | **section complete / verified** |
 | 31–36 | printed 16–21 with scan-32 illustration | `துணை நின்றார் தோழி!` | **section complete / verified after corrective re-transcription and independent second textual + visual-fidelity gate** |
-| 37–41 | printed 22–26 with scan-38 illustration | `சுமந்தவன் சுமந்த சோகம்!` | **section complete / verified after source audit; scan 38 illustration verified; scan 41 carries verified புறநானூறு 286 / ஒளவையார் provenance** |
+| 37–41 | printed 22–26 with scan-38 illustration | `சுமந்தவன் சுமந்த சோகம்!` | **section complete / verified after source audit; scan 41 carries verified புறநானூறு 286 / ஒளவையார் provenance** |
 | 42–46 | printed 27–31 with scan-44 illustration | `பாவை புகழ்ந்த பன்றி` | **section complete / verified; scan 46 carries verified அகநானூறு 248 / கபிலர் provenance** |
-| 47–49 | printed 32–34 with scan-48 illustration | `காக்கைக்கு நன்றி காட்ட...` | boundary mapped/verified; physical page transcription not yet started; scan 49 visibly carries குறுந்தொகை 210 / காக்கைப்பாடினியார் நச்செள்ளையார் pending page verification |
-| 50 | printed 35 | `மாதரின் கண்ட மலர்கள்` | next decorative section start directly observed; transcription pending |
+| 47–49 | printed 32–34 with scan-48 illustration (no visible page number on scan 48) | `காக்கைக்கு நன்றி காட்ட...` | **section complete / verified; scan 49 carries verified குறுந்தொகை 210 / காக்கைப்பாடினியார் நச்செள்ளையார் provenance** |
+| 50 | printed 35 | `மாதரின் கண்ட மலர்கள்` | next decorative section start directly observed; physical page transcription/verification pending |
 | 51–497 | later body / end matter | subsequent source-order sections, citations, illustrations and final back cover | progressive discovery/transcription pending |
 
 ## Important controls
@@ -54,8 +54,9 @@ The actual supplied PDF has been independently confirmed as **497 scans**. Scans
 - `மானங்காத்த மறவன்!`: **scans 25–30 — COMPLETE / VERIFIED**;
 - `துணை நின்றார் தோழி!`: **scans 31–36 — COMPLETE / VERIFIED after corrective audit**;
 - `சுமந்தவன் சுமந்த சோகம்!`: **scans 37–41 — COMPLETE / VERIFIED after page-by-page source audit**;
-- `பாவை புகழ்ந்த பன்றி`: **scans 42–46 / printed 27–31 — COMPLETE / VERIFIED**. Scan 46 is the actual concluding quotation/provenance/gloss page; scan 47 starts the next decorative heading. Scan 46 carries verified `அகநானூறு : பாடல் : 248` / `பாடியவர் : கபிலர்` provenance.
+- `பாவை புகழ்ந்த பன்றி`: **scans 42–46 / printed 27–31 — COMPLETE / VERIFIED**; scan 46 carries verified `அகநானூறு : பாடல் : 248` / `பாடியவர் : கபிலர்`;
+- `காக்கைக்கு நன்றி காட்ட...`: **scans 47–49 / printed 32–34 — COMPLETE / VERIFIED**; scan 48 is a separately preserved illustration with no visible printed page number; scan 49 carries verified `குறுந்தொகை : பாடல் : 210` / `பாடியவர் : காக்கைப்பாடினியார் நச்செள்ளையார்`.
 
 ## Active gate
 
-`காக்கைக்கு நன்றி காட்ட...` — scans **47–49 / printed 32–34**. Boundary is verified because scan 50 begins `மாதரின் கண்ட மலர்கள்`. Continue **one source page per iteration**, starting with **scan 47 / printed 32 only**. Scan 48 is a full-page illustration and scan 49 contains the printed `குறுந்தொகை : பாடல் : 210` / `பாடியவர் : காக்கைப்பாடினியார் நச்செள்ளையார்` provenance, which must not be promoted to `verified` until scan 49 passes its own page gate.
+`மாதரின் கண்ட மலர்கள்` begins at **scan 50 / printed 35**. Process **scan 50 only** in the next source-page iteration. Its later extent remains open until a subsequent decorative heading is directly observed.
