@@ -2,7 +2,15 @@
 
 This register records **printed provenance inside the supplied book**. It is not yet a complete Sangam concordance.
 
-Only directly inspected citations are entered. External editions must not silently overwrite these printed labels.
+Only source-supported citations are entered. External editions must not silently overwrite printed labels.
+
+## Workflow note
+
+The canonical execution plan is [`../MULTI_PASS_WORKFLOW.md`](../MULTI_PASS_WORKFLOW.md).
+
+Existing verified provenance remains valid and is preserved below. During **Pass 1 — transcription / physical capture only**, do not interrupt page capture to verify newly encountered provenance or routinely update this register.
+
+The systematic whole-volume provenance activity is **Pass 6 — Sangam source / provenance audit, scan 1 → 497**. That pass will finalize anthology/work names, poem numbers/ranges, poet attributions, quoted Sangam text, `பொருள் விளக்கம்` and links to canonical page/section records.
 
 | Scan | Section / context | Printed source label | Poem / range | Poet as printed | Status |
 |---:|---|---|---|---|---|
@@ -13,11 +21,15 @@ Only directly inspected citations are entered. External editions must not silent
 | 41 | `சுமந்தவன் சுமந்த சோகம்!` | புறநானூறு | 286 | ஒளவையார் | `verified`; [page](../pages/0041-sumanthavan-sumantha-sogam-05.md) / [section](../sections/005-sumanthavan-sumantha-sogam/README.md) |
 | 46 | `பாவை புகழ்ந்த பன்றி` | அகநானூறு | 248 | கபிலர் | `verified`; [page](../pages/0046-paavai-pugazhntha-panri-05.md) / [section](../sections/006-paavai-pugazhntha-panri/README.md) |
 | 49 | `காக்கைக்கு நன்றி காட்ட...` | குறுந்தொகை | 210 | காக்கைப்பாடினியார் நச்செள்ளையார் | `verified`; [page](../pages/0049-kaakkaikku-nandri-kaatta-03.md) / [section](../sections/007-kaakkaikku-nandri-kaatta/README.md) |
-| 147 | later body section | குறுந்தொகை | 32 | அள்ளூர் நன்முல்லையார் | sampled from scan; page transcription pending |
-| 147 | later body section | குறுந்தொகை | 157 | அள்ளூர் நன்முல்லையார் | sampled from scan; page transcription pending |
+| 147 | later body section | குறுந்தொகை | 32 | அள்ளூர் நன்முல்லையார் | historical sampled observation only; canonical page/provenance verification deferred to Pass 6 |
+| 147 | later body section | குறுந்தொகை | 157 | அள்ளூர் நன்முல்லையார் | historical sampled observation only; canonical page/provenance verification deferred to Pass 6 |
 
 ## Policy
 
-When the containing physical page becomes `verified`, update the corresponding citation entry to `verified` and link its page record/section README.
+- Pass 1 may transcribe source-visible provenance as part of the page text, but it does **not** promote the citation here.
+- Pass 6 performs the systematic scan-1→497 provenance audit and final register population.
+- If a printed attribution or quoted form conflicts with an external critical edition, preserve the printed form here and create a separate comparison note; do not rewrite this register silently.
 
-If a printed attribution or quoted form conflicts with an external critical edition, preserve the printed form here and create a separate comparison note; do not rewrite this register silently.
+## Current execution boundary
+
+Physical page capture currently exists through **scan 53**. Pass 1 resumes at **scan 54**. No routine citation-register update is expected again until a deliberate checkpoint or Pass 6.
