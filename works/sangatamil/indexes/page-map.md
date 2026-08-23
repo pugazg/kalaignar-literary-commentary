@@ -31,7 +31,7 @@ The actual supplied PDF has been independently confirmed as **497 scans**. Scans
 | 20–24 | printed 5–9 with scan-22 illustration | `யாதும் ஊரே; யாவரும் கேளிர்!` | **section complete / verified** |
 | 25–30 | printed 10–15 with scan-26 illustration | `மானங்காத்த மறவன்!` | **section complete / verified** |
 | 31–36 | printed 16–21 with scan-32 illustration | `துணை நின்றார் தோழி!` | **section complete / verified after corrective re-transcription and independent second textual + visual-fidelity gate** |
-| 37–41 | printed 22–26 with scan-38 illustration | `சுமந்தவன் சுமந்த சோகம்!` | scans 37 and 39 text `verified`; scan 38 illustration `verified`; scans 40–41 text `needs-review`; processing one source page per iteration |
+| 37–41 | printed 22–26 with scan-38 illustration | `சுமந்தவன் சுமந்த சோகம்!` | scans 37, 39 and 40 text `verified`; scan 38 illustration `verified`; scan 41 text `needs-review`; processing one source page per iteration |
 | 42–45 | printed 27–30 with scan-44 illustration | `பாவை புகழ்ந்த பன்றி` | section start verified; current inspected extent only; text pages `needs-review`; scan 44 illustration `verified`; end boundary pending |
 | 46–497 | later body / end matter | subsequent source-order sections, citations, illustrations and final back cover | progressive discovery/transcription pending |
 
@@ -54,6 +54,6 @@ The actual supplied PDF has been independently confirmed as **497 scans**. Scans
 
 ## Active gates
 
-`சுமந்தவன் சுமந்த சோகம்!` — scans **37–41 / printed 22–26**: process **one source page per iteration**. Scans **37 / printed 22** and **39 / printed 24** have now been fully transcribed and directly verified for textual + meaningful visual fidelity; scan 38 remains a verified illustration. The **next text-page iteration is scan 40 / printed 25**. Scan 41 remains untouched by the scan-39 iteration. Scan 41 visibly carries `புறநானூறு : பாடல் : 286` / `பாடியவர் : ஔவையார்`; canonical citation promotion must wait until scan 41 itself passes verification.
+`சுமந்தவன் சுமந்த சோகம்!` — scans **37–41 / printed 22–26**: process **one source page per iteration**. Scans **37 / printed 22**, **39 / printed 24**, and **40 / printed 25** have now been fully transcribed and directly verified for textual + meaningful visual fidelity; scan 38 remains a verified illustration. The scan-40 record preserves the source-visible beginning of the Sangam quotation without inferring its continuation. The **next text-page iteration is scan 41 / printed 26**. Scan 41 visibly carries `புறநானூறு : பாடல் : 286` / `பாடியவர் : ஔவையார்`; canonical citation promotion must wait until that page passes verification.
 
 `பாவை புகழ்ந்த பன்றி` — begins at **scan 42 / printed 27**. Physical records now exist through scan **45 / printed 30**, including the separately preserved scan-44 illustration. The text records require source audit, and the section end remains intentionally open until scan 46 onward can be directly inspected for the next decorative heading.
