@@ -2,81 +2,82 @@
 
 This document is the canonical execution plan for `works/sangatamil/`.
 
-It supersedes the earlier mixed page-by-page cadence in which transcription, textual verification, visual-fidelity verification, provenance review, section mapping and status synchronization were often performed together.
+It supersedes the earlier mixed page-by-page cadence in which transcription, textual verification, visual-fidelity verification, provenance review, section mapping and status synchronization were performed together.
 
-The Gemini-assisted reconciliation rules are defined in [`GEMINI_RECONCILIATION_PLAN.md`](GEMINI_RECONCILIATION_PLAN.md) and are part of this workflow.
+Gemini-assisted rules are defined in [`GEMINI_RECONCILIATION_PLAN.md`](GEMINI_RECONCILIATION_PLAN.md).
 
 ## Governing principle
 
 > **One activity at a time across the whole 497-scan source.**
 
-The controlling source remains `TVA_BOK_0042551_சங்கத்_தமிழ்.pdf`.
+Controlling source: `TVA_BOK_0042551_சங்கத்_தமிழ்.pdf`
 
-Canonical source range: **scan 1 through scan 497**. Scan 497 is the back cover. No scan 498+ record may be invented.
+Canonical physical range: **scan 1 through scan 497**. Scan 497 is the back cover. Never create scan 498+.
 
-The source-first fidelity rules remain unchanged: never silently normalize, modernize, reconstruct, correct from another edition, infer printed pagination, or replace source-visible Sangam wording/provenance.
+Source-first fidelity is permanent: never silently normalize, modernize, reconstruct, correct from another edition, infer printed pagination, or replace source-visible Sangam wording/provenance.
 
-## Gemini lexical scaffold rule
+## Gemini lexical-scaffold rule
 
-A complete Gemini transcription has now been supplied in ten Markdown batches. It is useful because it captures many old / uncommon Tamil glyph and word forms better than the earlier manual transcription.
+A complete Gemini transcription was supplied in ten Markdown batches. Gemini is useful for lexical recovery, especially old/uncommon Tamil forms, but is not a structural or physical-page authority.
 
-Gemini is **not** a structural or final textual authority. In particular, do not trust it by itself for:
+Do not trust Gemini alone for:
 
 - decorative headings;
 - punctuation;
-- paragraph / verse grouping;
+- paragraph/verse grouping;
 - physical page boundaries;
 - sentence order across page transitions;
-- illustration / blank-page placement;
+- illustration/divider/blank placement;
 - provenance / `பொருள் விளக்கம்` layout.
 
 Decision order:
 
 > **controlling scan → archival decision; Gemini → lexical scaffold; existing repository → prior preservation layer.**
 
-A previous `verified` page may be reopened when new evidence exposes substantive errors.
+Gemini comments such as `<!-- Page N of 497 -->` generally track printed book pages in the supplied batches, not physical scan numbers. Illustration/divider pages may be absent from the Gemini sequence.
 
-## Current state at workflow revision
+At the current frontier, `File10.md` is the relevant scaffold; its supplied header covers Book Pages **414–484** corresponding to physical PDF pages **426–497**. This is navigation help only; the scan still establishes every physical boundary.
 
-- physical page records exist through **scan 53**;
-- earlier pages contain mixed levels of verification;
-- a regression comparison of scans 31–36 exposed substantive lexical/structural errors in pages previously marked `verified`;
-- those demonstrated regressions are being reconciled under the Gemini-assisted plan;
-- **Pass 1 resumes at scan 54** after the regression pilot;
-- existing verified pages are not automatically downgraded merely because Gemini exists, but all pages remain eligible for the later systematic scan-1→497 verification passes.
+## Current durable state — refreshed 2026-09-01
 
-# Stage 0 — regression pilot
+Last completed source-work checkpoint before documentation refresh:
 
-Reconcile **scans 31–36** using Gemini for lexical recovery and the controlling scan for page-local structure.
+`2b3552a1f487e6ab747a394a8fe36f80f49f2cae` — `sangatamil: Pass 1 capture scan 425`
 
-This is a targeted workflow proof, not a replacement for the later whole-volume passes.
+Physical page records exist through **scan 425**.
 
-Where substantive errors invalidate an older `verified` claim, correct the source-supported text and reopen the page to `needs-review` unless the full designated gates are repeated.
+Remaining Pass-1 physical range: **426–497 (72 scans)**.
 
-# Pass 1 — Gemini-assisted transcription / physical capture only
+Scan 425 is a decorative divider introducing **`கைக்கிளை / ஒருதலைக் காதல்`**.
+
+Direct source inspection confirms scan **426 / printed page 414** begins numbered unit **1** with `கற்கண்டுத் தமிழில் கவிதைகள் வடிக்கும்...`.
+
+Fetch live `main` before every continuation; if the frontier has advanced, preserve the newer state.
+
+# Pass 1 — Gemini-assisted transcription / physical capture
 
 ## Goal
 
-Create a physical Markdown record for **every scan through 497** before beginning any new whole-volume verification activity.
-
-Current execution range: **scan 54 → scan 497**.
+Create a physical Markdown record for every scan through **497** before beginning any later whole-volume verification pass.
 
 ## Per-page procedure
 
-For each scan:
+For each physical scan:
 
 1. inspect the physical page once;
 2. identify page type and visible printed page number from the scan only;
-3. align the corresponding Gemini transcription to the physical page;
-4. use Gemini wording as the lexical starting point, especially for old/uncommon printed Tamil forms;
-5. preserve obvious source-visible line breaks, paragraph breaks and directly visible headings;
-6. for illustration, blank, cover or other non-text pages, create a concise factual physical-page record;
-7. if Gemini appears to omit/move text or the alignment is uncertain, flag it for later review rather than inventing a repair;
-8. commit the page record and proceed to the next scan.
+3. align corresponding Gemini text where available;
+4. use Gemini wording as the lexical starting point, especially for old/uncommon Tamil forms;
+5. preserve directly visible decorative headings and obvious line/paragraph grouping;
+6. preserve source-visible quotation/provenance/gloss blocks;
+7. create factual records for illustration/divider/blank/cover pages rather than skipping them;
+8. when Gemini and source visibly disagree, source wins;
+9. if resolution would require prolonged forensic work, leave it for a later pass rather than inventing certainty;
+10. commit and proceed.
 
 ## Pass-1 status
 
-New text-page captures should normally use:
+New text-page captures normally use:
 
 ```yaml
 status: "needs-review"
@@ -84,118 +85,119 @@ visual_fidelity: "needs-review"
 transcription_method: "Gemini lexical scaffold aligned to controlling source scan; textual/visual verification deferred"
 ```
 
-For a non-text page, `transcription_method` may instead say `single-pass visual capture; verification intentionally deferred`.
+For a non-text or decorative page, use an appropriate direct visual-capture description.
 
-`partial` or `blocked` may be used when the source itself prevents a usable first-pass capture.
+`partial` or `blocked` may be used when the source itself prevents usable first-pass capture.
 
 ## Explicitly deferred during Pass 1
 
-Do **not** perform the following as part of routine Pass-1 page capture:
+Do not routinely perform:
 
-- second character-by-character comparison;
-- textual verification gate;
-- visual-fidelity verification gate;
-- forensic crop/zoom work unless text is literally unreadable for basic capture;
+- a second full character-by-character comparison;
+- final textual verification;
+- final visual-fidelity verification;
+- extended crop/zoom forensic work;
 - provenance verification;
 - external-edition comparison;
-- section-end investigation beyond an immediately visible decorative heading;
-- full continuity audit;
-- metadata/status consistency audit;
-- routine updates to `page-map.md`, `section-register.md`, `source-citation-register.md`, section READMEs, work README, root README, HANDOVER or next-chat prompt after every page.
+- formal section-end investigation;
+- whole-book continuity audit;
+- metadata/status normalization;
+- per-page updates to page-map, section-register, source-citation-register, section READMEs, work README, root README, HANDOVER or next-chat prompt.
 
-Structural metadata recorded during Pass 1 is provisional until the dedicated structure/metadata passes.
+A plainly visible source correction during Pass 1 is allowed; it does not make the page `verified`.
+
+## Batch cadence
+
+Default working batch: **about 10 physical scans**, adjusted only to a nearby natural source boundary or reduced for unusually dense pages.
+
+At batch end:
+
+1. compare the starting commit to live head;
+2. confirm the intended scan files are the only changed source records;
+3. fetch live `main` again;
+4. record the next missing physical scan.
 
 ## Pass-1 completion condition
 
-Pass 1 is complete only when **every physical scan 1–497 has a Markdown record**. Existing earlier records count toward coverage; the active creation gap begins after scan 53.
+Pass 1 is complete only when every physical scan **1–497** has one archival record.
+
+Do not start Pass 2 early.
 
 # Pass 2 — lexical / textual reconciliation, scan 1 → 497
 
-Perform only source-text verification:
+Check only source text:
 
 - characters and words;
-- old Tamil glyph / uncommon printed word forms;
+- old/uncommon printed forms;
 - spelling exactly as printed;
 - punctuation;
-- omissions and duplications;
+- omissions/duplications;
 - quotation wording;
-- line content and order;
+- line content/order;
 - printed labels and names;
 - Gemini/repository disagreements.
 
-Gemini is a comparison aid; the controlling scan decides every correction.
-
-Do not turn this pass into a layout audit.
-
-Previously `verified` pages are included in the systematic scan-1→497 sweep unless an explicit later policy records a justified exemption.
+The controlling scan decides every correction.
 
 # Pass 3 — structural / visual-text fidelity verification, scan 1 → 497
 
-Use the scan—not Gemini—to establish meaningful visual organization:
+Use the scan to establish meaningful visual organization:
 
-- exact headings and hierarchy;
-- verse lineation;
-- stanza and paragraph grouping;
-- dialogue blocks;
-- indentation;
-- centered/right-aligned text;
-- quote/gloss/citation blocks;
-- separators and rules;
-- ornaments where structurally meaningful;
+- exact headings/hierarchy;
+- verse lineation and stanza grouping;
+- prose paragraphs and dialogue blocks;
+- indentation/alignment;
+- citation and `பொருள் விளக்கம்` blocks;
+- separators/rules;
 - running headers, footers and printed page numbers;
-- illustration/text relationship;
-- correction of text blocks or continuation lines that Gemini moved upward/downward.
+- illustration/text relationships;
+- displaced continuation lines.
 
-Exact facsimile typography is not required. Semantic visual fidelity is required.
+Exact facsimile typography is not required; meaningful structural fidelity is.
 
 # Pass 4 — physical-page / omission / continuity audit, scan 1 → 497
 
-Audit the book as a physical sequence:
+Audit:
 
 - every scan represented exactly once;
-- no missing or duplicate physical page records;
-- no paragraph omitted by Gemini alignment;
-- no duplicated text from extraction-batch overlap;
-- covers, blanks, title pages, front matter, illustrations and end matter represented;
-- printed pagination read only from source;
-- `continues_from_scan` / `continues_to_scan` relationships;
-- sentence/paragraph/poem continuation across physical pages;
-- scan anomalies, crop or damage notes.
+- no missing/duplicate physical records;
+- no Gemini omission or extraction-batch duplication;
+- covers, blanks, dividers, illustrations and end matter preserved;
+- printed pagination sourced only from scan;
+- continuation relationships and cross-page sentence/poem flow;
+- scan anomalies/crop/damage notes.
 
 # Pass 5 — section-structure audit, scan 1 → 497
 
-Establish the canonical thematic structure only in this pass:
+Establish canonical thematic structure:
 
-- exact decorative headings from the scan;
-- section starts;
-- section ends;
+- exact decorative headings;
+- section starts/ends;
 - page ranges;
 - illustration placement;
-- section navigation records / READMEs;
+- section navigation records/READMEs;
 - boundary confidence.
-
-Gemini headings are hints only.
 
 Repository sequence numbers remain navigation identifiers, not printed chapter numbers.
 
 # Pass 6 — Sangam source / provenance audit, scan 1 → 497
 
-Review printed Sangam-source material as a separate whole-volume activity:
+Verify printed source material:
 
 - anthology/work name;
-- poem number or range;
+- poem number/range;
 - poet attribution;
 - quoted Sangam text;
 - `பொருள் விளக்கம்`;
 - other printed source notes.
 
-Preserve what this book prints. External editions may be compared only in a separate explicitly labelled layer and must never silently overwrite the archival source record.
+Preserve what this edition prints. External comparison must be separately labelled.
 
-Finalize `indexes/source-citation-register.md` during this pass.
+Finalize `indexes/source-citation-register.md` in this pass.
 
 # Pass 7 — metadata / status consistency audit, scan 1 → 497
 
-Check every physical page record for consistent metadata:
+Check every record for consistent:
 
 - `scan_page`;
 - `printed_page`;
@@ -203,41 +205,30 @@ Check every physical page record for consistent metadata:
 - `section`;
 - `page_type`;
 - `status`;
-- `visual_fidelity` where applicable;
+- `visual_fidelity`;
 - continuation fields;
 - `transcription_method`;
 - source filename;
 - filename/path consistency.
 
-Promote statuses only when the relevant earlier gates have actually passed.
+Promote statuses only after relevant gates pass.
 
 # Pass 8 — whole-volume synchronization and final audit
 
-After Passes 1–7 are complete, synchronize and audit:
+Synchronize only after Passes 1–7:
 
 - `indexes/page-map.md`;
 - `indexes/section-register.md`;
 - `indexes/source-citation-register.md`;
-- all section READMEs;
+- section READMEs;
 - `works/sangatamil/README.md`;
-- repository root `README.md`;
+- root `README.md`;
 - root `HANDOVER.md`;
 - `NEXT_CHAT_PROMPT_SANGATH_TAMIL.md`;
-- final 497-scan completeness and archival-readiness state.
+- final 497-scan completeness/readiness state.
 
-# Execution discipline
+# Exact next activity
 
-During an active pass, do not opportunistically begin another pass because an issue is noticed. Record or leave the relevant item for its designated pass unless the source is so unreadable that the current activity cannot proceed safely.
+Fetch live `main` and find the first missing physical record.
 
-The Stage-0 regression pilot is the explicit exception adopted to validate the new Gemini-assisted method before bulk capture resumes.
-
-The purpose of this separation is to keep each iteration fast, measurable and auditable while preserving eventual archival quality.
-
-## Batch cadence
-
-Default: **about 10 scans per iteration**, adjusted to a nearby natural section boundary or reduced for unusually dense pages.
-
-## Exact next activity
-
-1. Finish the scans **31–36** Gemini-assisted regression pilot and reopen/correct any invalid legacy `verified` records.
-2. Then resume **Pass 1 only at scan 54**, continuing sequentially toward scan 497 using the Gemini lexical scaffold + controlling scan alignment.
+At this handoff checkpoint it is **scan 426**. If still missing, process approximately **scans 426–435** as the next Pass-1 batch using the controlling PDF + `File10.md` lexical scaffold, then verify the changed-file set.
