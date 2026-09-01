@@ -2,88 +2,105 @@
 
 This document refines the whole-volume workflow for `works/sangatamil/` after a complete Gemini transcription of the source was supplied as ten Markdown files.
 
-The controlling source remains:
+Controlling source:
 
 `TVA_BOK_0042551_சங்கத்_தமிழ்.pdf`
 
-Canonical source range: **scan 1–497**.
+Canonical physical range: **scan 1–497**.
 
-## Why the workflow is changing
-
-The supplied Gemini transcription is materially better at retaining old / uncommon Tamil glyph and word forms than the earlier manual transcription workflow. It is therefore valuable as a **lexical scaffold**.
-
-It is not a facsimile or structural authority. The supplied transcription may:
-
-- miss or alter decorative headings;
-- flatten or move punctuation;
-- merge or split verse/prose blocks incorrectly;
-- move a sentence or continuation line upward/downward;
-- omit paragraphs;
-- lose illustration/blank-page boundaries;
-- merge running headers / page numbers into body text;
-- mis-order citation / `பொருள் விளக்கம்` blocks.
-
-Therefore neither the existing repository text nor Gemini is allowed to overrule the scan.
+## Governing rule
 
 > **Scan = final authority. Gemini = lexical aid. Repository = preservation layer.**
 
+Gemini is materially useful for lexical recovery, especially old/uncommon Tamil glyph and word forms, but it is not a facsimile or structural authority.
+
+Gemini may:
+
+- miss/corrupt decorative headings;
+- flatten or move punctuation;
+- merge/split verse or prose incorrectly;
+- move continuation lines;
+- omit paragraphs;
+- omit illustration/divider/blank pages;
+- merge running headers/page numbers into body text;
+- mis-order citation / `பொருள் விளக்கம்` blocks.
+
+Neither Gemini nor an existing repository record may overrule the scan.
+
 ## Three-source decision rule
 
-For every physical page, compare three layers where available:
+Where available compare:
 
 1. **controlling scan** — wording + physical/visual organization authority;
-2. **Gemini transcription** — preferred first lexical scaffold, especially for old Tamil glyphs;
-3. **existing repository page** — prior archival work, useful for already-captured page boundaries/layout notes.
+2. **Gemini transcription** — lexical scaffold;
+3. **existing repository page** — prior preservation layer.
 
-When they differ:
+When they differ, the scan decides. Do not choose a modern/familiar spelling merely because it looks natural. A prior `verified` page may be reopened when later source evidence shows substantive errors.
 
-- the scan decides;
-- never choose a familiar/modern spelling merely because it looks more natural;
-- never choose our previous repository reading merely because it is already marked `verified`;
-- never choose Gemini punctuation, heading, ordering or paragraph structure without scan support.
+## Gemini pagination warning
 
-A previous `verified` status may be **reopened** if new evidence exposes substantive errors.
+The ten Gemini Markdown batches use internal comments such as:
 
-## Uploaded Gemini batches
+`<!-- Page N of 497 -->`
 
-Ten supplied Markdown files together cover the complete book in successive extraction batches. Their internal phase/page comments are navigation aids only. They must not be treated as canonical pagination or section boundaries.
+These comments are navigation aids and generally refer to **printed book pages** in the supplied extraction, not physical PDF scan numbers. Gemini often omits illustration/divider pages from that marker sequence.
 
-The import/reconciliation process should record which Gemini file supplied the lexical scaffold when useful, but the archival page record remains controlled by the PDF scan.
+Therefore:
 
-## Revised execution sequence
+- never increment physical scan numbers from Gemini markers;
+- never infer printed pages from scan arithmetic;
+- align every page from the controlling PDF.
 
-### Stage 0 — regression pilot / workflow proof
+## Current relevant Gemini batch
 
-Use an already-inspected section where both scan images and Gemini text are available.
+At the refreshed handoff frontier, `File10.md` is the relevant lexical scaffold.
 
-Pilot: **scans 31–36** (`துணை நின்றாள் தோழி!`).
+Its supplied header states:
 
-Goals:
+- Book Pages **414–484**;
+- corresponding physical PDF pages **426–497**.
 
-- identify old-glyph / lexical errors in earlier repository transcription;
-- restore scan-supported wording from Gemini + direct scan comparison;
-- restore page-local ordering and meaningful structure from the scan;
-- remove false headings/structure introduced by the previous transcription;
-- reopen status to `needs-review` when the old `verified` claim is no longer defensible.
+This is useful navigation only. The scan still decides all physical page boundaries, illustrations/dividers, headings and printed pagination.
 
-This pilot establishes the method before bulk use.
+## Current source-work checkpoint — refreshed 2026-09-01
 
-### Stage 1 — accelerated physical/text capture, scan 54 → 497
+`2b3552a1f487e6ab747a394a8fe36f80f49f2cae` — `sangatamil: Pass 1 capture scan 425`
 
-Continue the existing Pass 1 coverage gap, but use Gemini as the lexical scaffold.
+Physical records exist through **scan 425**.
+
+Scan 425 is the decorative divider:
+
+- `கைக்கிளை`
+- `ஒருதலைக் காதல்`
+
+Direct source inspection confirms scan **426 / printed page 414** begins numbered unit **1** with `கற்கண்டுத் தமிழில் கவிதைகள் வடிக்கும்...`.
+
+Remaining physical Pass-1 range at the checkpoint: **426–497 (72 scans)**.
+
+## Stage 0 — regression pilot
+
+The scans 31–36 regression pilot established the method: Gemini can improve lexical recovery but source-visible structure/headings must come from the scan. The pilot is historical workflow proof and must not be restarted merely because this document is reread.
+
+## Stage 1 / Pass 1 — accelerated physical/text capture
+
+Active now.
+
+Goal: one physical page record for every scan through 497.
 
 For each scan:
 
 1. inspect the physical scan once;
-2. identify page type and visible printed page number from the scan only;
-3. align the corresponding Gemini text to that physical page;
-4. use Gemini wording as the starting transcription, preserving uncommon/old forms rather than silently normalizing them;
-5. restore only **obvious** page-local structure visible in the scan: heading, basic line/paragraph break, illustration/blank separation;
-6. if Gemini text appears displaced or a paragraph appears missing, flag it rather than inventing a repair during fast capture;
-7. create/update the physical page record;
-8. keep text pages at `needs-review`.
+2. identify page type and visible printed page number from the scan;
+3. align Gemini text to that physical page;
+4. use Gemini as the lexical starting point;
+5. preserve directly visible heading/basic lineation/paragraph grouping;
+6. create separate illustration/divider/blank records;
+7. correct a plainly visible Gemini error from the source when obvious;
+8. if the issue requires prolonged forensic resolution, defer it rather than inventing text;
+9. normally keep `needs-review` / `visual_fidelity: needs-review`;
+10. commit and continue.
 
-Recommended metadata:
+Recommended text metadata:
 
 ```yaml
 status: "needs-review"
@@ -91,95 +108,71 @@ visual_fidelity: "needs-review"
 transcription_method: "Gemini lexical scaffold aligned to controlling source scan; textual/visual verification deferred"
 ```
 
-The objective is complete **497-scan physical coverage**, not final verification.
+Normal batch: **about 10 physical scans**.
 
-### Stage 2 — lexical/textual reconciliation, scan 1 → 497
+At batch end, compare base → head and verify that only intended page records changed.
 
-Perform a systematic word-level pass.
+## Stage 2 / Pass 2 — lexical/textual reconciliation, scan 1 → 497
 
-Check:
+Systematically verify:
 
-- every word against the scan;
-- old Tamil glyphs / uncommon printed forms;
-- omitted words and duplicated words;
-- punctuation characters;
+- every word against scan;
+- old/uncommon forms;
+- omissions/duplications;
+- punctuation;
 - quotation wording;
-- source labels and names;
+- labels/names;
 - Gemini/repository disagreements.
 
-Use Gemini to draw attention to likely old-glyph misreads, but the scan decides every correction.
+Do not turn this into a layout pass.
 
-Do **not** perform layout beautification in this stage.
+## Stage 3 / Pass 3 — structural / visual-text reconstruction, scan 1 → 497
 
-### Stage 3 — structural / visual-text reconstruction, scan 1 → 497
+Establish from scan:
 
-Use the scan, not Gemini, to establish:
-
-- exact decorative headings and heading hierarchy;
-- verse line breaks / stanza grouping;
+- exact decorative headings/hierarchy;
+- verse line breaks/stanzas;
 - prose paragraph boundaries;
 - dialogue blocks;
-- punctuation placement where structure depends on it;
-- centered/right-aligned continuation lines;
-- ornamental separators;
-- citation blocks and `பொருள் விளக்கம்` placement;
-- running headers, printed page numbers and footers;
-- illustration/text relationships.
+- alignment/indentation;
+- separators;
+- citation and `பொருள் விளக்கம்` placement;
+- running headers/footers/printed page numbers;
+- illustration/text relationships;
+- displaced continuation lines.
 
-Also repair Gemini failure modes such as lines moved to the previous/next block.
+## Stage 4 / Pass 4 — omission / continuity audit, scan 1 → 497
 
-### Stage 4 — omission / continuity audit, scan 1 → 497
+Audit:
 
-Audit physical sequence and cross-page continuity:
+- every physical scan represented once;
+- no paragraph omitted by Gemini;
+- no duplicate from extraction-batch overlap;
+- continuations on correct page;
+- illustration/divider/blank/cover/end matter preserved;
+- continuation metadata where useful.
 
-- every scan represented exactly once;
-- no paragraph omitted because Gemini skipped it;
-- no sentence duplicated because of batch overlap;
-- continuations appear on the correct physical page;
-- `continues_from_scan` / `continues_to_scan` recorded where useful;
-- illustrations/blanks/covers/end matter preserved.
+## Stage 5 / Pass 5 — section structure audit
 
-### Stage 5 — section structure audit
+Confirm decorative headings and canonical section boundaries directly from scans. Gemini headings are hints only.
 
-Confirm all decorative headings and section boundaries directly from scans. Gemini headings are hints only.
+## Stage 6 / Pass 6 — Sangam provenance audit
 
-### Stage 6 — Sangam provenance audit
+Verify quoted Sangam text, work/anthology, poem number/range, poet attribution, `பொருள் விளக்கம்` and printed source notes directly from this source.
 
-Verify quoted Sangam text, anthology/work name, poem number/range, poet attribution and `பொருள் விளக்கம்` directly from the printed source.
+## Stage 7 / Pass 7 — metadata / status audit
 
-### Stage 7 — metadata / status audit
+Normalize metadata only after the relevant source gates pass.
 
-Normalize repository metadata only after the relevant gates have actually passed.
+## Stage 8 / Pass 8 — whole-volume synchronization / final audit
 
-### Stage 8 — whole-volume synchronization / final audit
-
-Synchronize indexes, section READMEs, work/root README, `HANDOVER.md`, continuation prompt, and final 497-scan completeness statement.
-
-## Batch cadence
-
-Normal working batch: **about 10 scans**.
-
-Rules:
-
-- a natural decorative section boundary may extend/shorten a batch;
-- dense pages may be processed in smaller groups;
-- bulk capture must not convert uncertainty into invented text;
-- later verification remains page-by-page even if Gemini supplied a complete transcript.
-
-## Status discipline
-
-`verified` means the current archival text has passed the relevant direct scan gates. It is not permanent merely because an older workflow assigned it.
-
-If a regression comparison reveals substantive lexical, ordering or structural errors:
-
-1. fix source-supported errors;
-2. record that the page was reopened;
-3. set it to `needs-review` unless the designated verification gates are fully repeated;
-4. promote again only during/after the systematic verification stages.
+Synchronize indexes, section READMEs, work/root README, handover, continuation prompt and final 497-scan completeness state.
 
 ## Immediate execution order
 
-1. Reconcile the demonstrated regression in scans **31–36** using Gemini for lexical recovery and the scan for structure.
-2. Record the corrected exact heading and reopen affected statuses where appropriate.
-3. Resume accelerated Stage 1 at **scan 54**, using the Gemini-assisted method, in ~10-scan iterations.
-4. Do not restart completed physical coverage merely to satisfy the new method; systematic scans 1–497 reconciliation happens in Stages 2–4.
+1. Fetch live `main` and preserve any source work newer than the checkpoint above.
+2. Find the first missing physical scan.
+3. If it is still **426**, continue Pass 1 with approximately **scans 426–435** using the controlling PDF + `File10.md` scaffold.
+4. Verify the changed-file set after the batch.
+5. Continue in ~10-scan Pass-1 batches until scan 497.
+6. Do not start Pass 2 before physical coverage is complete.
