@@ -2,12 +2,12 @@
 scan_page: 51
 printed_page: "36"
 work: "sangatamil"
-section: "மாதரின் கண்ட மலர்கள்"
+section: "மாவீரன் கண்ட மலர்கள்"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "direct transcription from source scan; verification intentionally deferred"
+transcription_method: "legacy first-pass transcription retained provisionally; section heading corrected from controlling scan; Gemini-assisted textual/visual reconciliation pending"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 50
 continues_to_scan: 52
@@ -55,5 +55,5 @@ continues_to_scan: 52
 > இலுப்பைப் பூக்கள் எதிர்வந்து;  
 > வில்லேந்தி வெற்றி விளக்கின்ற
 
-<!-- Transcription-only pass from scan 51. Verification and visual-fidelity review intentionally deferred. -->
+<!-- Section metadata corrected after direct re-reading of the scan-50 decorative heading. Body text remains intentionally provisional and will be reconciled against Gemini + scan in Pass 2/3. -->
 <!-- மூல ஸ்கேன் பக்கம்: 51; அச்சுப் பக்கம்: 36 -->
