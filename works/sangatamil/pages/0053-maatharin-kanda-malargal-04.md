@@ -2,12 +2,12 @@
 scan_page: 53
 printed_page: "38"
 work: "sangatamil"
-section: "மாதரின் கண்ட மலர்கள்"
+section: "மாவீரன் கண்ட மலர்கள்"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "fast direct transcription from source scan; verification intentionally deferred"
+transcription_method: "legacy fast transcription retained provisionally; section heading corrected from controlling scan; Gemini-assisted textual/visual reconciliation pending"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 51
 continues_to_scan: 54
@@ -55,5 +55,5 @@ continues_to_scan: 54
 > செப்படர் அன்ன செங்குழை அகந்தோறு,  
 > இழுதின் அன்ன தீம்புழல் துய்வாய்
 
-<!-- Fast transcription-only pass from scan 53. No second verification or visual-fidelity audit performed. -->
+<!-- Section metadata corrected after direct re-reading of the scan-50 decorative heading. Body text remains provisional for the systematic Gemini-assisted Pass 2/3 reconciliation. -->
 <!-- மூல ஸ்கேன் பக்கம்: 53; அச்சுப் பக்கம்: 38 -->
