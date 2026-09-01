@@ -2,7 +2,7 @@
 scan_page: 63
 printed_page: "48"
 work: "sangatamil"
-section: "ஊரின் பெருமை உணர்த்தினள் ஒருத்தி!"
+section: "ஊரின் பெருமை உணர்த்தினாள் ஒருத்தி!"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
@@ -43,4 +43,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 கோமகனும் பாண்டியர்கோ அஞ்சாமல் அணுகினான்.
 
 <!-- Pass 1 only. Gemini supplied the lexical scaffold; physical structure including the mid-page ornament was aligned to scan 63. Textual and visual verification remain deferred. -->
+<!-- Section heading corrected to source reading `ஊரின் பெருமை உணர்த்தினாள் ஒருத்தி!`; old Tamil `னா` glyph had been misread previously. -->
 <!-- மூல ஸ்கேன் பக்கம்: 63; அச்சுப் பக்கம்: 48 -->
