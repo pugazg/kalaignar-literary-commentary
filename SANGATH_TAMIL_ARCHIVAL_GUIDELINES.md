@@ -2,54 +2,51 @@
 
 This document governs `works/sangatamil/` in `pugazg/kalaignar-literary-commentary`.
 
-It combines the source-first page discipline used for `works/thirukkural/` with the page/section/provenance discipline used in `pugazg/tolkappiyap-poonga`.
-
-The current execution cadence is defined canonically in [`works/sangatamil/MULTI_PASS_WORKFLOW.md`](works/sangatamil/MULTI_PASS_WORKFLOW.md).
+The canonical execution cadence is defined in [`works/sangatamil/MULTI_PASS_WORKFLOW.md`](works/sangatamil/MULTI_PASS_WORKFLOW.md), with Gemini-specific rules in [`works/sangatamil/GEMINI_RECONCILIATION_PLAN.md`](works/sangatamil/GEMINI_RECONCILIATION_PLAN.md).
 
 ## 1. Controlling source
 
-> **The supplied scan is the authority. Markdown is a preservation layer, not a corrected edition.**
+> **Scan = final authority. Gemini = lexical aid. Repository = preservation layer.**
+
+Controlling source:
+
+`TVA_BOK_0042551_சங்கத்_தமிழ்.pdf`
 
 Never silently modernize, normalize, correct, reconstruct or replace:
 
 - Kalaignar's wording;
 - Sangam quotations as printed in this edition;
+- old/uncommon Tamil glyph forms;
 - spelling, sandhi, punctuation or lineation;
 - source work names, poem numbers or poet attributions;
 - decorative headings;
 - `பொருள் விளக்கம்` wording;
 - publication/front-matter wording.
 
-OCR may assist location but is never authoritative. A page becomes `verified` only after the required later source-verification passes have been completed.
+OCR/Gemini may assist lexical recovery or navigation but is never final authority. A page becomes `verified` only after the designated direct-source verification gates have passed.
 
 ## 2. Physical-page layer
 
-Every scan page in the supplied PDF must eventually have one Markdown record under:
+Every physical scan in the supplied PDF must have exactly one archival Markdown record under:
 
 `works/sangatamil/pages/`
 
-Use zero-padded scan numbers. Record covers, title pages, annotations, blanks, handwritten facsimiles, body text and illustrations; do not omit non-text pages.
+Use zero-padded physical scan numbers. Record covers, title pages, annotations, blanks, handwritten facsimiles, body text, decorative dividers and illustrations; do not omit non-text pages.
 
 Recommended front matter:
 
 ```yaml
 ---
-scan_page: 20
-printed_page: "5"
+scan_page: 426
+printed_page: "414"
 work: "sangatamil"
-section: "யாதும் ஊரே; யாவரும் கேளிர்!"
+section: "ஒருதலைக் காதல்"
 page_type: "text"
 status: "needs-review"
+visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
-```
-
-Meaningful visual-text fields may also be used:
-
-```yaml
-visual_fidelity: "needs-review"
-visual_notes: "decorative heading; verse block; source citation block"
 ```
 
 Status vocabulary:
@@ -60,175 +57,211 @@ Status vocabulary:
 - `verified`
 - `blocked`
 
-During the current Pass 1 transcription/capture phase, newly created records should normally remain `needs-review`; direct textual and visual-fidelity verification are intentionally deferred to later whole-volume passes.
+During current Pass 1, newly created records should normally remain `needs-review` with `visual_fidelity: needs-review`.
 
-## 3. Source-integrity rule
+## 3. Source-integrity and pagination rule
 
-The current supplied PDF has been independently verified as a **497-scan complete source**. `pdfinfo` reports 497 pages; scans 493–497 render directly from the mounted PDF; scan 497 is the back cover.
+The source has been independently confirmed as **497 physical scans**. Scan **497** is the back cover.
 
-The earlier 150-page count came from a preview-service limit and is not a valid archival boundary.
+Canonical controls:
 
-Current source controls:
+- physical scan range: **1–497**;
+- never create scan 498+;
+- printed-page numbers must be read from the scan, not inferred from scan arithmetic;
+- physical scan number and printed page number are different coordinate systems;
+- if a page is cropped, damaged, shadowed or otherwise source-limited, document that defect at page level rather than altering the global source boundary.
 
-- canonical scan range: **1–497**;
-- do not create scan 498+ records;
-- do not infer printed-page numbers from scan arithmetic;
-- if a page is cropped, damaged, shadowed or otherwise source-limited, document that defect at the page level rather than changing the global source boundary.
+The earlier 150-page count was a preview-service limitation and is retired.
 
-If cropping, damage, shadow, binding curvature or scan loss hides characters or meaningful layout, do not reconstruct hidden material from context. Use `partial` or `blocked` where necessary.
+If cropping, binding curvature, shadow or scan loss hides text, do not reconstruct hidden material from context. Use `partial` or `blocked` when necessary.
 
-## 4. Verse / prose fidelity
+## 4. Gemini lexical-scaffold rule
 
-This work mixes Kalaignar's poetic rendering, narrative/explanatory prose, Sangam quotations and word glosses.
+A complete Gemini transcription was supplied in ten Markdown batches. It is useful for old/uncommon Tamil forms, but it is not a physical-page or structural authority.
+
+Gemini may:
+
+- corrupt or omit decorative headings;
+- flatten punctuation or paragraph structure;
+- move continuation lines across apparent page boundaries;
+- merge quotation/provenance/gloss blocks;
+- omit illustration/divider/blank pages;
+- include running headers or page numbers in body text;
+- misread old Tamil glyphs despite being useful as a first lexical scaffold.
+
+### 4.1 Gemini page-marker warning
+
+Comments such as:
+
+`<!-- Page N of 497 -->`
+
+must **not** be interpreted as physical scan numbers. In the supplied batches they generally identify **printed book pages** used by Gemini's extraction sequence. Illustration/divider pages can be absent from that sequence.
+
+Therefore:
+
+> **Drive physical sequencing from the PDF scan only.**
+
+At the current frontier, `File10.md` is the relevant supplied scaffold. Its header describes Book Pages **414–484** corresponding to physical PDF pages **426–497**. This mapping is a navigation aid, not permission to infer page boundaries without checking the scan.
+
+## 5. Pass-1 capture vs later fidelity gates
+
+Pass 1 exists to obtain complete physical/text coverage quickly and safely.
+
+For each scan during Pass 1:
+
+1. inspect the physical scan once;
+2. identify page type and visible printed page number from the scan;
+3. align Gemini only as lexical scaffold where available;
+4. preserve directly visible headings and obvious line/paragraph grouping;
+5. preserve source-visible quotation, provenance and `பொருள் விளக்கம்` blocks without replacing their wording from another edition;
+6. create a separate factual record for illustration/divider/blank/non-text pages;
+7. if a Gemini/source disagreement is plainly visible, source wins immediately;
+8. if resolution would require prolonged forensic work, leave the record `needs-review` for later passes rather than inventing certainty.
+
+Recommended text-page metadata:
+
+```yaml
+status: "needs-review"
+visual_fidelity: "needs-review"
+transcription_method: "Gemini lexical scaffold aligned to controlling source scan; textual/visual verification deferred"
+```
+
+For a directly inspected illustration/divider page, a direct visual capture statement may be used instead.
+
+Do **not** routinely perform during Pass 1:
+
+- full second character-by-character verification;
+- final textual verification;
+- final visual-fidelity audit;
+- extended crop/zoom forensic work;
+- external-edition correction;
+- formal provenance verification;
+- section-end investigation beyond what is directly visible;
+- whole-book continuity audit;
+- broad metadata normalization;
+- per-page synchronization of README/index/HANDOVER documents.
+
+A directly obvious source correction during Pass 1 is allowed; that does not promote the page to `verified`.
+
+## 6. Verse / prose fidelity
 
 The final archive must preserve:
 
-- each printed verse line as its own Markdown line;
-- paragraph boundaries for prose;
-- quotation marks and asterisks/dividers where meaningful;
-- cited Sangam poem text exactly as printed here;
-- the printed source label, poem number and poet attribution;
-- `பொருள் விளக்கம்` as a distinct source block.
+- each printed verse line as its own Markdown line where visually meaningful;
+- prose paragraph boundaries;
+- quotation marks and meaningful asterisks/dividers;
+- cited Sangam text exactly as printed in this edition;
+- printed source label, poem number and poet attribution;
+- `பொருள் விளக்கம்` as a distinct source block;
+- numbered/lettered units where printed;
+- continuation across physical page boundaries.
 
 Do not substitute a web or critical-edition Sangam verse for the wording printed in this book.
 
-### 4.1 Pass-1 capture vs later fidelity gates
+During Pass 2, verify wording/spelling/punctuation/omissions directly against the scan. During Pass 3, verify meaningful visual organization and heading hierarchy.
 
-The workflow now separates capture from verification.
+## 7. Illustrations and decorative dividers
 
-During **Pass 1 — transcription / physical capture only**:
+Illustration-only and divider pages are archival records, not gaps.
 
-- perform one source reading sufficient to create the page record;
-- preserve obvious lineation, paragraph breaks and directly visible headings;
-- do not spend extended time on second-pass character resolution;
-- mark uncertain readings for later review;
-- do not claim `verified` merely because a first-pass transcription exists.
+For a full-page image/divider:
 
-During **Pass 2 — textual verification**, check wording, spelling, punctuation, omissions, duplications, quotations and line content directly against the scan.
-
-During **Pass 3 — visual-text fidelity verification**, check meaningful visual organization:
-
-- verse line breaks and stanza grouping;
-- prose paragraph breaks;
-- indentation and hanging indentation;
-- centered, right-aligned or otherwise deliberately positioned headings/lines;
-- decorative heading hierarchy and exact heading text;
-- isolated quotation/citation blocks;
-- `பொருள் விளக்கம்` placement as a distinct visual/textual block;
-- numbered or lettered lists and their grouping;
-- asterisks, rules, ornamental separators and section breaks;
-- bold, underline, enlarged text or other emphasis when structurally meaningful;
-- running headers, printed page numbers and footers as page furniture;
-- text printed inside or immediately associated with an illustration, including captions;
-- continuation of a sentence, poem or paragraph across a physical page boundary.
-
-The repository does **not** need to imitate the page pixel-for-pixel or reproduce exact font face, font size, colour, kerning or ornamental artwork.
-
-Use Markdown for meaningful structure and limited HTML only when needed for alignment/grouping. Never introduce structure unsupported by the scan.
-
-A page may be promoted to `verified` only when the required textual and visual-fidelity gates have actually passed.
-
-## 5. Illustrations
-
-Illustration-only pages are archival records.
-
-For a full-page image:
-
-- use `page_type: "illustration"`;
-- transcribe any printed caption verbatim;
-- otherwise provide only a concise factual visual description;
+- use an appropriate `page_type` (`illustration` for illustration-only pages; `text` may be used for a textual/decorative divider where the printed wording itself is the content);
+- transcribe any printed caption or divider wording verbatim;
+- otherwise give a concise factual visual description;
 - do not identify an unlabelled person from appearance alone;
-- do not infer scene, date or literary identity unless the printed source supports it.
+- do not infer scene/date/literary identity unless the printed source supports it;
+- keep `needs-review` during Pass 1 unless later verification gates are completed.
 
-During Pass 1, illustration records may remain `needs-review`; later visual-fidelity and physical-page audit passes confirm them systematically.
+Where meaningful text and illustration share a page, treat it as a text-bearing page rather than discarding the text as illustration metadata.
 
-Where text and illustration share a page, record the relationship factually without inventing narrative meaning from the artwork.
+## 8. Decorative-heading rule
 
-## 6. Structural section layer
+Decorative headings must be read from the scan. Gemini has repeatedly corrupted or dropped them during bulk work.
 
-The book uses decorative thematic headings rather than the numbered `மலர்` system of *தொல்காப்பியப் பூங்கா*.
+Use a decorative heading provisionally as the page's `section` during Pass 1 when it is directly visible. Do not attempt a formal section-end audit at that moment.
 
-Create source-order navigation nodes under:
+Canonical section starts/ends, page ranges, illustration placement and boundary confidence are established in **Pass 5**.
 
-`works/sangatamil/sections/`
+Repository sequence numbers are navigation identifiers only and must never be presented as source-authored chapter numbers.
 
-Repository sequence numbers are navigation identifiers only; they must not be presented as source-authored chapter numbers.
+## 9. Sangam-source provenance layer
 
-During Pass 1, an immediately visible decorative heading may be captured as source text and used provisionally in page metadata, but **do not perform section-end investigation or routine section-README synchronization**.
-
-Canonical section starts, ends, page ranges, illustration placement and boundary confidence are established in **Pass 5 — section-structure audit, scan 1 → 497**.
-
-A finalized section README should record:
-
-- exact printed heading;
-- scan start/end;
-- printed-page range where visible;
-- page list and statuses;
-- illustration pages;
-- Sangam source citations found within the section;
-- boundary confidence;
-- preservation statement that the full text remains in page records.
-
-## 7. Sangam-source provenance layer
-
-Maintain:
+Maintain ultimately:
 
 `works/sangatamil/indexes/source-citation-register.md`
 
-Existing verified citations remain valid historical/source-checked records. During Pass 1, do not interrupt transcription to perform provenance verification or routine citation-register updates.
+During Pass 1, preserve source-visible quotation/provenance/gloss text in the page record but do not stop the bulk capture to perform systematic provenance checking.
 
-The systematic whole-volume provenance pass is **Pass 6 — Sangam source / provenance audit, scan 1 → 497**.
+Pass 6 will verify across scans 1–497:
 
-For each printed Sangam citation, ultimately record only source-supported facts:
-
-- scan page;
-- section;
 - anthology/work name;
-- poem number;
+- poem number/range;
 - poet attribution;
-- exact page record containing the citation;
-- verification status.
+- quoted Sangam text;
+- `பொருள் விளக்கம்`;
+- other printed source notes.
 
-Do not silently correct a poem number or poet from an external edition. If a later comparison is requested, preserve the printed citation and record the comparison separately.
+Never silently correct a printed poem number or poet from an external edition. External comparison belongs in a separate explicitly labelled layer.
 
-## 8. Canonical multi-pass gate sequence
+## 10. Canonical multi-pass gate sequence
 
-The old mixed cadence is retired for this work. The canonical order is now:
+The old mixed cadence is retired. The canonical order is:
 
-1. **Pass 1 — transcription / physical capture only, through scan 497**;
+1. **Pass 1 — transcription / physical capture through scan 497**;
 2. **Pass 2 — textual verification, scan 1 → 497**;
 3. **Pass 3 — visual-text fidelity verification, scan 1 → 497**;
-4. **Pass 4 — physical-page and continuity audit, scan 1 → 497**;
+4. **Pass 4 — physical-page / omission / continuity audit, scan 1 → 497**;
 5. **Pass 5 — section-structure audit, scan 1 → 497**;
 6. **Pass 6 — Sangam source / provenance audit, scan 1 → 497**;
 7. **Pass 7 — metadata / status consistency audit, scan 1 → 497**;
 8. **Pass 8 — whole-volume synchronization and final audit**.
 
-Do not opportunistically combine later passes into routine Pass-1 page capture.
+Do not opportunistically combine later passes into routine Pass-1 capture.
 
-See [`works/sangatamil/MULTI_PASS_WORKFLOW.md`](works/sangatamil/MULTI_PASS_WORKFLOW.md) for the exact per-pass rules.
+## 11. Batch and repository discipline
 
-## 9. English layer
+Normal Pass-1 batch: **about 10 physical scans**, adjusted to a nearby natural source boundary or reduced for dense pages.
 
-The repository already anticipates a separately published English *Sangatamil* source. If that English source is supplied, archive it as an independent source-controlled edition with its own pagination and wording, then create an alignment layer.
+For every batch:
 
-Do not overwrite it with a project translation, and do not use it to silently rewrite the Tamil archive.
+- fetch live `main` before writing;
+- preserve any newer durable state;
+- create/update only the intended missing physical page records;
+- commit sequentially;
+- after the batch, compare the starting commit against live head;
+- confirm the changed-file set matches the intended scan range;
+- do not treat stale README/index snapshot text as the live frontier.
 
-If the user separately requests a project-created English translation before a published English source is supplied, follow the Thirukkural translation gates and mark it explicitly as `translation_type: "project_translation"`.
+This compare-after-batch step is part of archival control, not merely a convenience.
 
-## 10. Current source and active milestone
+## 12. English layer
 
-The supplied source is complete at **497 scans**, ending with the back cover at scan 497.
+If a separately published English *Sangatamil* source is supplied, archive it as an independent source-controlled edition with its own pagination and wording, then create an alignment layer.
 
-At adoption of the multi-pass workflow:
+Do not overwrite a published English source with a project translation, and do not use it to silently rewrite the Tamil archive.
 
-- physical page records exist through **scan 53**;
-- scan 50 was completed under the earlier verified-page cadence;
-- scans 51–53 are first-pass / `needs-review` records;
-- **Pass 1 resumes at scan 54**.
+If a project-created translation is separately requested, mark it explicitly as `translation_type: "project_translation"` and use the translation gates established by the repository.
 
-The active milestone is now singular:
+## 13. Current active milestone — refreshed 2026-09-01
 
-> **Complete physical capture/transcription through scan 497 before beginning the next whole-volume activity.**
+Last completed source-work checkpoint before the current documentation refresh:
 
-Do not update broad status documents after every page during Pass 1. The next routine page activity is **scan 54 transcription/capture only**.
+`2b3552a1f487e6ab747a394a8fe36f80f49f2cae` — `sangatamil: Pass 1 capture scan 425`
+
+Physical records exist through **scan 425**.
+
+Remaining Pass-1 range at that checkpoint: **426–497 (72 scans)**.
+
+Scan 425 is the decorative divider introducing:
+
+- `கைக்கிளை`
+- `ஒருதலைக் காதல்`
+
+Direct source inspection confirms scan **426 / printed page 414** begins numbered unit **1**, starting `கற்கண்டுத் தமிழில் கவிதைகள் வடிக்கும்...`.
+
+Active milestone:
+
+> **Complete physical capture/transcription through scan 497 before beginning Pass 2.**
+
+Next normal batch begins at **scan 426**, approximately scans **426–435** unless live `main` has already advanced.
