@@ -2,14 +2,15 @@
 scan_page: 35
 printed_page: "20"
 work: "sangatamil"
-section: "துணை நின்றார் தோழி!"
+section: "துணை நின்றாள் தோழி!"
 page_type: "text"
-status: "verified"
-visual_fidelity: "verified"
-visual_notes: "running சங்கத் தமிழ் header; dialogue and narrative verse blocks; deliberately right-aligned 'அவன்' continuation; final bold/large transition heading 'இந்தத் தொண்டித்துறையில்' begins the analogy continued on scan 36; printed page number centered at foot"
+status: "needs-review"
+visual_fidelity: "needs-review"
+visual_notes: "running சங்கத் தமிழ் header; dialogue and narrative verse blocks; source-offset continuation around `அவன்`; analogy begins near page foot and continues directly to scan 36; printed page number centered at foot"
 language: "ta"
-transcription_method: "direct character-by-character textual and visual comparison with source scan after corrective re-transcription"
+transcription_method: "Gemini lexical scaffold reconciled to controlling source scan; legacy verified status reopened pending systematic textual/visual passes"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
+continues_from_scan: 34
 continues_to_scan: 36
 ---
 
@@ -18,7 +19,7 @@ continues_to_scan: 36
 
 சுருண்டு நெளிந்த அவள் கூந்தலைக் கோதியவாறு - அவனும்;  
 “சுகமே! சுவையே! பழச்சுளையே! பாலமுதே! - அதோ  
-இரண்டு கிடக்கும் மண்டபம் அழைக்குது! என்  
+இருண்டு கிடக்கும் மண்டபம் அழைக்குது! என்  
 இதயமே வா; உடல் இன்பத்தைப் பருகலாம்” என்றான்!
 
 மருண்டது மானின் விழி அக்கணம் எனினும் - மறுகணம்  
@@ -27,38 +28,36 @@ continues_to_scan: 36
 நிலவின் ஒளிகூட நுழையாத  
 மண்டபத்தில் நுழைவதற்குள்  
 நில்லுங்கள் என்றோர் ஒலி! - அவர்களின்  
-நேரம் தெரியாமல் தடுத்து பாபம்!
+நேரம் தெரியாமல் தடுத்தது பாபம்!
 
 கோழியொன்று குஞ்சுதனை - வல்லூறு  
 கொல்லாமல் காப்பது போல்; அவளின்  
-தோழி வந்தாள்! தொடராதே அந்தத்  
+தோழி வந்தாள்! தொடாதே அந்தத்  
 தோகையை என்று எதிர்நின்றாள்!
 
-தேன் குடிக்கப் போகின்ற வண்டை - வீணே  
-ஏன் தடுக்கின்றாய்? என்று  
-விழியாலே கேட்டான் - “இந்தப்  
+தேன் குடிக்கப் போகின்ற வண்டை  
+ஏன் தடுக்கின்றாய்? என்று விழியாலே கேட்டான் - “இந்தப்  
 பழி மிகப் பொல்லாது” என்றாள்!
 
-“குன்றெடுக்கும் நெடுந்தோள் கொண்டவனே! - பகையை  
+“குன்றெடுக்கும் நெடுந்தோள் கொண்டவனே! வீணே பகையை  
 வென்றெடுக்கும் ஆற்றல் பெற்றவனே!  
-குறைபொன்றும் காணவில்லை உமது அன்பில்!  
-நிறை நெஞ்சு வாழ்த்து உண்டு ஏற்றிடுக! - எனினும்;  
-மரபென்று உண்டல்லவோ தமிழர்க்கு? - அதை நீவிர்  
-மறந்துவிட்டல் கண்டல்லவோ நினைவூட்டுகின்றேன்!
+குறையொன்றும் காணவில்லை உமது அன்பில்!  
+நிறை நெஞ்ச வாழ்த்து உண்டு ஏற்றிடுக! - எனினும்;  
+மரபொன்று உண்டல்லவோ தமிழர்க்கு? அதை நீவிர்  
+மறந்துவிடல் கண்டல்லவோ நினைவூட்டுகின்றேன்!
 
-மணம் புரிந்து மனையறம் காணுமல் - கடற்கரை  
+மணம் புரிந்து மனையறம் காணாமல் - கடற்கரை  
 மணல்மீதும் மண்டபத்துள்ளும் காதல் கீதம்  
 மறைவாக இசைத்து மகிழ்வதற்கு - இந்த  
 மகளைப் பெற்றோர் நீண்ட நாள் ஒப்பமாட்டார்!  
 இந்த ஊருக்குத் தலைவன்தானே நீர் -  
 வெந்த உளத்தோடு ஒரு சேதி சொல்கின்றேன் - கேட்டிடுக!
 
-## இந்தத் தொண்டித்துறையில்
-
+இந்தத் தொண்டித்துறையில்  
 உடல் வியர்க்க உழைப்பைச் சிந்தி உயிரைப் பணயம் வைத்து  
 கடல் மீது சென்று மீனவர் பிடித்த கொழுத்த மீனை  
 பறப்பதற்குச் சிறகில் பலமில்லா கொக்கொன்று  
-பறிப்பதற்குக் காத்திருக்கும் காட்சிதனைக் கண்டிலையோ
+பறிப்பதற்குக் காத்திருக்கும் காட்சிதனைக் கண்டிலையோ அதுபோல
 
-<!-- Corrective transcription independently rechecked against the controlling scan for wording, punctuation, printed lineation, the right-aligned continuation, heading hierarchy, and page continuity into scan 36. -->
+<!-- The earlier record incorrectly promoted `இந்தத் தொண்டித்துறையில்` to a Markdown subheading and contained multiple lexical regressions. Gemini words were used as the recovery scaffold while page-local structure was checked against the scan. Systematic Pass 2/3 verification remains pending. -->
 <!-- மூல ஸ்கேன் பக்கம்: 35; அச்சுப் பக்கம்: 20 -->
