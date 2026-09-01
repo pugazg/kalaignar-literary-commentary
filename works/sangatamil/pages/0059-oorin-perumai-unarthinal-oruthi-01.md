@@ -2,7 +2,7 @@
 scan_page: 59
 printed_page: "44"
 work: "sangatamil"
-section: "ஊரின் பெருமை உணர்த்தினள் ஒருத்தி!"
+section: "ஊரின் பெருமை உணர்த்தினாள் ஒருத்தி!"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
@@ -12,7 +12,7 @@ transcription_method: "Gemini lexical scaffold aligned to controlling source sca
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
-# ஊரின் பெருமை உணர்த்தினள் ஒருத்தி!
+# ஊரின் பெருமை உணர்த்தினாள் ஒருத்தி!
 
 தஞ்சைவாழ் தரணியெல்லாம் சதிராடும் நாற்றுக்களும்
 தலையசைத்து மகிழ்ந்து இசைபாடக் குருவிகளும்
@@ -46,4 +46,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 பொன்மின்னும் காவிரிப் பூம்பட்டினத்தில் கற்பனை
 
 <!-- Pass 1 only. Gemini supplied the lexical scaffold; physical structure was aligned to scan 59. Textual and visual verification remain deferred. -->
+<!-- Source-heading correction: old Tamil `னா` glyph was previously misread as `ன`. Correct source reading: `உணர்த்தினாள்`. -->
 <!-- மூல ஸ்கேன் பக்கம்: 59; அச்சுப் பக்கம்: 44 -->
