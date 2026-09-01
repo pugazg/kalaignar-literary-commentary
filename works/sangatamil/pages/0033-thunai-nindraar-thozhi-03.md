@@ -2,19 +2,19 @@
 scan_page: 33
 printed_page: "18"
 work: "sangatamil"
-section: "துணை நின்றார் தோழி!"
+section: "துணை நின்றாள் தோழி!"
 page_type: "text"
-status: "verified"
-visual_fidelity: "verified"
+status: "needs-review"
+visual_fidelity: "needs-review"
 visual_notes: "running சங்கத் தமிழ் header; multiple verse blocks; quoted dialogue near page foot; printed page number centered"
 language: "ta"
-transcription_method: "direct character-by-character textual and visual comparison with source scan after corrective re-transcription"
+transcription_method: "Gemini lexical scaffold reconciled to controlling source scan; legacy verified status reopened pending systematic textual/visual passes"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
 அம்மூவனார் எனும் புலவரோ  
 அலை தழுவும் நெய்தல் நிலத்தில் - காதல்  
-களியில்வோர் களித்திடும் காட்சி  
+கலைபயில்வோர் களித்திடும் காட்சி  
 கவினுற வரைந்திடுவார்!
 
 பாலை நிலத்திலும் - காதல்  
@@ -33,17 +33,17 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 முத்தனைய பாடல்கள் ஐநூறு தந்திட்டார்!  
 சத்துநிறை அகவாழ்வின் அமுத ஊற்றுக்களாம் - அவற்றுள்;  
 முதலில் ஒரு பாட்டுக்குள்  
-முழ்கித் திளைத்திடுவோம்!
+மூழ்கித் திளைத்திடுவோம்!
 
 நெய்தல் நிலத்தில்  
-ஒலமிடும் கடலோரம்  
+ஓலமிடும் கடலோரம்  
 கோலம் செய் பொன்மேனிக்  
 கோதையொருத்தி;  
 மணல் மேட்டில் சாய்ந்தவாறு - மேற்கின்  
 தணல் வண்ணம் பார்த்திருந்தாள்!
 
 அணிமலர்ப் புன்னையின் அருகேயிருந்து - அவள்  
-பிணிதீர்க்கும் மருத்துவர் வந்து சேர்ந்தான்!
+பிணிதீர்க்கும் மருத்துவன் வந்து சேர்ந்தான்!
 
 “வந்தீரோ மருத்துவரே” எனக்குதித்து  
 “தந்திடுவீர் மருந்தென்று” தலைசாய்த்தாள் அவன் தோளில்!  
@@ -51,9 +51,9 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 மாலை மலரும் இந்நோய்க்கு  
 இருவரும்தான் ஆட்பட்டுத் தவிக்கின்றோம் - அதனாலே;  
 ஒருவருக்கொருவர் மருந்து உதவி தவிர்க்கலாம் நோய்,” என்று  
-தழுவினன் தங்கச் சிலையை!  
+தழுவினான் தங்கச் சிலையை!  
 விரிந்து பரந்த கடற்கரை மெத்தையில்  
 விழுந்தனர், புரண்டனர், எழுந்தனர், மகிழ்ந்தனர்!
 
-<!-- Second direct textual + meaningful visual-fidelity gate completed against the controlling scan. -->
+<!-- Gemini supplied the lexical scaffold; page-local lineation and dialogue grouping were reconciled against the controlling scan. Systematic Pass 2/3 verification remains pending. -->
 <!-- மூல ஸ்கேன் பக்கம்: 33; அச்சுப் பக்கம்: 18 -->
