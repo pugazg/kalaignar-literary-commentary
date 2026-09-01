@@ -2,18 +2,18 @@
 scan_page: 50
 printed_page: "35"
 work: "sangatamil"
-section: "மாதரின் கண்ட மலர்கள்"
+section: "மாவீரன் கண்ட மலர்கள்"
 page_type: "text"
-status: "verified"
-visual_fidelity: "verified"
-visual_notes: "large decorative two-line section heading at top; source text set in three verse/prose blocks with printed lineation and stanza spacing preserved; page ends with an intentionally incomplete sentence continuing to the next physical source page; horizontal rule above centered printed page number"
+status: "needs-review"
+visual_fidelity: "needs-review"
+visual_notes: "large decorative two-line section heading at top; source text set in verse/prose blocks; page ends with an incomplete sentence continuing to scan 51; horizontal rule above centered printed page number"
 language: "ta"
-transcription_method: "direct character-by-character textual and meaningful visual comparison with source scan"
+transcription_method: "legacy transcription retained provisionally; decorative heading corrected directly from scan after Gemini-assisted regression discovery; systematic textual/visual reconciliation pending"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_to_scan: 51
 ---
 
-# மாதரின் கண்ட மலர்கள்
+# மாவீரன் கண்ட மலர்கள்
 
 பூக்காட்டின் சிறப்பு குறித்துப்  
 பாராட்டு மொழியொன்று கூறதற்கு - ஒரு  
@@ -50,6 +50,5 @@ continues_to_scan: 51
 மல்லிகை, செண்பகம், சாமந்தி கொண்டு  
 மலர்ச் செண்டமைத்து - அதன் முனையில்
 
-<!-- The source sentence remains visibly incomplete at the foot of scan 50; no continuation has been inferred into this physical page record. -->
-<!-- Directly verified against scan 50 for source-visible wording, punctuation, printed lineation and stanza grouping, decorative heading and page furniture. Source-visible forms such as `கூறதற்கு`, `அமைந்திருந்தப்`, `ஓவியனின் அவன் நோக்கில்`, and `மலர்ச் செண்டமைத்து` are preserved without normalization. -->
+<!-- The decorative heading was re-read directly from scan 50 as `மாவீரன் கண்ட மலர்கள்`; the earlier `மாதரின் கண்ட மலர்கள்` heading invalidated the old verified claim. Body text is intentionally left for the systematic Gemini-assisted Pass 2/3 reconciliation. -->
 <!-- மூல ஸ்கேன் பக்கம்: 50; அச்சுப் பக்கம்: 35 -->
