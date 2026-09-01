@@ -2,7 +2,7 @@
 scan_page: 32
 printed_page: "17"
 work: "sangatamil"
-section: "துணை நின்றார் தோழி!"
+section: "துணை நின்றாள் தோழி!"
 page_type: "illustration"
 status: "verified"
 visual_fidelity: "verified"
@@ -16,4 +16,5 @@ Full-page colour illustration. No printed caption is visible on the source page.
 
 The illustration is preserved as a separate physical-page record and no literary identity is inferred from the image alone.
 
+<!-- Section label corrected after the scan-31 decorative heading was re-read as `துணை நின்றாள் தோழி!`. -->
 <!-- மூல ஸ்கேன் பக்கம்: 32; அச்சுப் பக்கம்: 17 -->
