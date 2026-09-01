@@ -2,24 +2,23 @@
 scan_page: 31
 printed_page: "16"
 work: "sangatamil"
-section: "துணை நின்றார் தோழி!"
+section: "துணை நின்றாள் தோழி!"
 page_type: "text"
-status: "verified"
-visual_fidelity: "verified"
+status: "needs-review"
+visual_fidelity: "needs-review"
 visual_notes: "large decorative section heading at top; source text set as short verse lines beneath; printed page number centered at foot"
 language: "ta"
-transcription_method: "direct character-by-character textual and visual comparison with source scan after corrective re-transcription"
+transcription_method: "Gemini lexical scaffold reconciled to controlling source scan; legacy verified status reopened pending systematic textual/visual passes"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
-# துணை நின்றார் தோழி!
+# துணை நின்றாள் தோழி!
 
-தளிர் என்றால் கொழுந்தன்றே!  
-தடம் என்றால் வழியன்றே!  
-அஃதேபோல்  
-தலைவன் என்று துணைவனையும்  
+தளிர் என்றால் கொழுந்தன்றோ!  
+தடம் என்றால் வழியன்றோ!  
+அஃதேபோல் தலைவன் என்று துணைவனையும்  
 தலைவி என்று துணைவியையும் - பழந்  
-தமிழ் நூல்கள் குறிப்பது வழக்கமன்றே!
+தமிழ் நூல்கள் குறிப்பது வழக்கமன்றோ!
 
 களவு வழியில் தலைவன் தலைவியின் இன்பக்  
 காதல் அரும்பிடும் போதெல்லாம் - தக்க  
@@ -41,10 +40,10 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 குயிலினத்தின் குன்றா அன்பைக்  
 கவிக்கோமான் கபிலர் என்பார் - இப்  
 புவிக்கோர் விருந்தாய்ப் படைத்திடுவார்!  
-ஆயனூர் வாழும் முல்லை நிலத்தில்  
-ஆவினிகர் காதலர் ஆடி மகிழ்வதை  
-பேயனூர் எனும் கவிக்கோ - தமிழர்  
-பெருமைக்கோர் சான்றுகப் பேசிடுவார்!
+ஆயனார் வாழும் முல்லை நிலத்தில்  
+ஆவிநிகர்க் காதலர் ஆடி மகிழ்வதை  
+பேயனார் எனும் கவிக்கோ தமிழர்  
+பெருமைக்கோர் சான்றாகப் பேசிடுவார்!
 
-<!-- Second direct textual + meaningful visual-fidelity gate completed against the controlling scan. -->
+<!-- Gemini supplied the lexical scaffold; heading, page boundary and line organization were reconciled against the controlling scan. Systematic Pass 2/3 verification remains pending. -->
 <!-- மூல ஸ்கேன் பக்கம்: 31; அச்சுப் பக்கம்: 16 -->
