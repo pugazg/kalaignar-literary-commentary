@@ -2,7 +2,7 @@
 scan_page: 62
 printed_page: "47"
 work: "sangatamil"
-section: "ஊரின் பெருமை உணர்த்தினள் ஒருத்தி!"
+section: "ஊரின் பெருமை உணர்த்தினாள் ஒருத்தி!"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
@@ -51,4 +51,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 திக்கட்டும் அடையாமல் கோட்டைக்கு மீண்டும் வந்தார்கள்.
 
 <!-- Pass 1 only. Gemini supplied the lexical scaffold; physical structure was aligned to scan 62. Textual and visual verification remain deferred. -->
+<!-- Section heading corrected to source reading `ஊரின் பெருமை உணர்த்தினாள் ஒருத்தி!`; old Tamil `னா` glyph had been misread previously. -->
 <!-- மூல ஸ்கேன் பக்கம்: 62; அச்சுப் பக்கம்: 47 -->
