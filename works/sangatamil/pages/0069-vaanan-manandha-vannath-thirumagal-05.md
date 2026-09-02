@@ -6,16 +6,16 @@ section: "வாணன் மணந்த வண்ணத் திருமக�
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "running author header; continuation from scan 68; narrative conclusion; centered Sangam quotation with flanking ornaments; provenance and பொருள் விளக்கம்; printed page number 54 visible"
+visual_notes: "running சங்கத் தமிழ் header; continuation from scan 68; narrative conclusion followed by centered Sangam quotation, provenance and பொருள் விளக்கம்; printed page number 54 visible"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 68
 ---
 
 விலைமகளிர் வீதிக்கே - அவரை  
 விரைந்து திரும்பச் செய்திடுவீர் - இம்மனையின்  
-தலைமகனும் என் கணவர் உம்கையில்  
+தலைமகனாம் என் கணவர் உம்கையில்  
 தரும் பொன்னைக் கூலியெனப் பெற்றுக் குதித்திடுவீர்!”
 
 இல்லாள் வெகுண்டெழுந்து இதைச் சொல்லி முடித்தவுடன்  
@@ -69,5 +69,6 @@ continues_from_scan: 68
 அணைத்துப் பால் கொடுத்ததால் ஏற்படும் பால்வாடை.  
 வாலிழை = ஒளிவிடும் அணி.
 
-<!-- Pass 1 only. Gemini supplied the lexical scaffold; quotation/provenance/gloss blocks and obvious lineation were aligned to scan 69. Lexical and visual verification remain deferred. -->
+<!-- Gemini-locked wording is retained; scan 69 controls continuation, quotation/provenance/gloss separation, lineation and page furniture. -->
+<!-- Review status remains `needs-review`; final audit/status synchronization is a separate activity. -->
 <!-- மூல ஸ்கேன் பக்கம்: 69; அச்சுப் பக்கம்: 54 -->
