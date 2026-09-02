@@ -6,19 +6,23 @@ section: "நெல்லும் உயிர் அன்றே! நீரு
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
+visual_notes: "running சங்கத் தமிழ் header; continuation after the scan-56 illustration; verse-like lineation with isolated transition lines; printed page number 42 visible"
 language: "ta"
-transcription_method: "fast direct transcription from source scan; verification intentionally deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
+continues_from_scan: 55
+continues_to_scan: 58
 ---
 
-உலகிலே நீர் வேண்டும்; உண்மையது மறுக்கவில்லை!  
+உலையிலிட நீர் வேண்டும்; உண்மையது மறுக்கவில்லை!  
 உடல் வளர உயிர் வாழ நெல்லும் நீரும்  
-தேவையென்பதிலும் மாற்றமில்லை!
+தேவையென்பதிலும்  
+மாற்றமில்லை!
 
 சிந்தனைக்கு ஒரு வாதம் வைக்கின்றேன்;  
 சிறிதளவும் நடுமுள் நடுங்காமல் தீர்ப்பளிப்பீர்!
 
-நாடாளும் அரசொன்று இருக்கும்போது - அவ்வரச;  
+நாடாளும் அரசொன்று இருக்கும்போது - அவ்வரசு;  
 கேடான செயல்களுக்கும் கீழான குணங்களுக்கும்  
 அடிமையாகி,  
 நீரும் நெல்லும் இல்லா நிலையில்  
@@ -36,24 +40,24 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 வேற்படை விற்படையென விதவிதப்  
 படைகளிருப்பினும்  
 விழிப்புடன் வேந்தன் விரைந்து செயல்படல்  
-வேண்டுமன்றே?
+வேண்டுமன்றோ?
 
 வெளிநாட்டுப் பகைப்புலத்தை விரட்டுகின்ற வீரமுடன்  
-ஒளிநாடாய்த் தன்னுடை உருவாக்கி வைப்பதற்கு  
-தெளிவுள்ள ஆட்சித் திறன் தேவையன்றே?
+ஒளிநாடாய்த் தன்னாட்டை உருவாக்கி வைப்பதற்கு  
+தெளிவுள்ள ஆட்சித் திறன் தேவையன்றோ?
 
-<div align="right">சோம்பலிலே</div>
+<div align="right">சோம்பலினால்</div>
 
 நெளிகின்ற போக்கிருந்தால்; நெல் எங்கே? நீர் எங்கே?  
 அறிவார்ந்த அரசொன்றே நாட்டுக்குயிராய்  
 அமைந்துவிடின்  
 அதன்பின்னர் நீர்வளமும் நிலவளமும் பிறவளமும்  
-நிறைந்து குவங்கிவிடும் அறிவீர்!” என்றார்.
+நிறைந்து குலுங்கிவிடும் அறிவீர்!” என்றார்.
 
-மோசிகீரனார் மொழி கேட்டுப் புலவரெல்லாம் தமது வாதம்  
+மோசிகீரனார் மொழி கேட்டுப் புலவரெலாம் தமது வாதம்  
 தூசியென ஒப்புக்கொண்டு தோல்வியினை ஏற்றுக்கொண்டார்!  
 நெல்லும் உயிரன்றே! நீரும் உயிரன்றே! எனக்  
 கல்லில் செதுக்கிய எழுத்தாகப்
 
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
+<!-- Gemini wording is retained; scan 57 controls lineation, paragraph grouping, punctuation, the right-aligned transition and continuation order. -->
 <!-- மூல ஸ்கேன் பக்கம்: 57; அச்சுப் பக்கம்: 42 -->
