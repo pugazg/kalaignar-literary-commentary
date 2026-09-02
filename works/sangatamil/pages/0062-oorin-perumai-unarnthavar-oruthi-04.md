@@ -2,13 +2,16 @@
 scan_page: 62
 printed_page: "47"
 work: "sangatamil"
-section: "ஊரின் பெருமை உணர்ந்தவர் ஒருத்தி!"
+section: "ஊரின் பெருமை உணர்த்தினள் ஒருத்தி!"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
+visual_notes: "running கலைஞர் மு. கருணாநிதி header; continuation arranged in printed verse/prose blocks; printed page number 47 visible"
 language: "ta"
-transcription_method: "fast direct transcription from source scan; verification intentionally deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
+continues_from_scan: 61
+continues_to_scan: 63
 ---
 
 அப்போது,
@@ -23,8 +26,8 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 சொல்லாமல்,
 
 இருமானும் இன்பத்தின் உச்சியிலே மிதந்து  
-தருநிழலில், தவமிருந்து வரம்பெற முனிவோர் போல  
-- தமைமறந்த நிலையுற்ற,
+தருநிழலில், தவமிருந்து வரம்பெற முனைவோர் போல  
+தமைமறந்த நிலையுற்ற,
 
 இயற்கையின் திருக்கூத்தை அந்த இல்லத்தரசி  
 இருவிழி கொட்டாமல் பார்த்தயர்ந்தாள்!
@@ -35,25 +38,26 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 அப்பால் ஓர் அடிதனை எடுத்து வைக்கவும்  
 தயக்கமுற்றாள்!
 
-பலாமரத்து இலைச்சருகுகளில்  
-படர்ந்துள்ள கொடியுதிர் மலர்களில் - தனது  
+தனது பலாமரத்து இலைச்சருகுகளில்  
+படர்ந்துள்ள கொடியுதிர் மலர்களில்  
 பாதம் படுகின்ற சிறிய ஒலி கூட;  
 இமை மூடி இவ்வுலகை மறந்து துயில்கின்ற  
 இளமை மிகு வேடனையே எழுப்பிவிட்டால்,  
 ஆர்த்தெழுகின்ற அவன் தோற்றம் கண்டு - காதல்  
 போர்க்களத்து வெற்றிக்குப் போட்டியிடும்  
 ஆண்மானும் பெண்மானும் அடைய இருந்த  
-இன்பமெல்லாம்  
+இன்பமெலாம்  
 ஊண் பொங்கும் நேரத்தில் உலைப்பானை கவிழ்ந்தது  
 போலாகி  
 ஓடி உயிர் காத்துக் கொண்டாலே போதுமென  
-இருமானும்  
-வாடிப் பிரிய நேரிடுமே எனவும் எண்ணினாள்; அல்லது  
+இருமானும் அல்லது  
+வாடிப் பிரிய நேரிடுமே எனவும் எண்ணினாள்;  
 வேடன் எழுந்தவுடன் அருகிருக்கும், தனது  
 வேலை எடுத்து வீசிவிட்டால் - காதல்  
-பாடந்தனைக் செயல் மூலம் பயிலுகின்ற ஈருயிரும்  
+பாடந்தனைச் செயல் மூலம் பயிலுகின்ற ஈருயிரும்  
 கலவி நடுப்பாதையிலே பலியாக வேண்டுமே என்றும்  
 கவலை மிகக் கொண்டுவிட்டாள்!
 
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
+<!-- Gemini-locked wording is retained; scan 62 controls paragraph grouping, lineation, emphasis and page furniture. -->
+<!-- Review status remains `needs-review`; final audit/status synchronization is a separate activity. -->
 <!-- மூல ஸ்கேன் பக்கம்: 62; அச்சுப் பக்கம்: 47 -->
