@@ -8,7 +8,7 @@ status: "verified"
 visual_fidelity: "verified"
 visual_notes: "running header 'கலைஞர் மு. கருணாநிதி'; concluding verse lines followed by centered asterisk, indented bold Sangam quotation, centered source attribution, underlined 'பொருள் விளக்கம்' heading, gloss lines, final asterisk and floral ornament; printed page number centered at foot"
 language: "ta"
-transcription_method: "direct textual and visual comparison with 400-dpi source render"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -27,7 +27,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 > சாதலும் புதுவது அன்றே; வாழ்தல்  
 > இனிது என மகிழ்ந்தன்றும் இலமே; முனிவின்,  
 > இன்னாது என்றலும் இலமே; ‘மின்னொடு  
-> வானம் தண்துளி தலைஇ, ஆருது  
+> வானம் தண்துளி தலைஇ, ஆறாது  
 > கல்பொருது இரங்கும் மல்லற் பேர்யாற்று  
 > நீர்வழிப் படூஉம் புணைபோல, ஆருயிர்  
 > முறைவழிப் படூஉம்’ என்பது திறவோர்  
