@@ -6,9 +6,9 @@ section: "பதிப்புரை"
 page_type: "publisher-note"
 status: "verified"
 visual_fidelity: "verified"
-visual_notes: "large decorative பதிப்புரை heading; five prose paragraphs; final location/date at lower left and publisher name at lower right; printed page number centered at foot"
+visual_notes: "large decorative பதிப்புரை heading; five prose paragraphs; final location/date at lower left and publisher name at lower right; Gemini-locked lexical wording aligned to source structure; printed page number centered at foot"
 language: "ta"
-transcription_method: "direct textual and visual comparison with source scan"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -20,7 +20,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 
 இந்த வெளியீட்டை நாங்கள் கொண்டு வர இதன் பதிப்புரிமையை எங்களுக்கு வழங்கிய கலைக்கனிப் பதிப்பகத்தாருக்கு நன்றி தெரிவிக்கிறோம். வண்ணப் படங்களை வரைந்து நூலுக்குப் பெருமை சேர்த்த ஓவியர்கள் கோபுலு - ஜெயராஜ் - மாருதி உமாபதி - மருது - ஆகியோருக்கு நன்றி.
 
-தலைப்புகளைச் சித்திர வடிவில் அமைத்த அமுதோன் - கலைஞரின் வண்ணப்படத்தை எடுத்துக் கொடுத்த சுபா சுந்தரம் - எழுத்துக்களை நவீன முறையில் ஒளி அச்சுக்கோர்வையில் அமைத்துத் தந்த “காந்தளகம்” - இந்நூலை வெளியிட எல்லா உதவிகளையும் செய்த “குங்குமம்” துணை ஆசிரியர் பாவைசந்திரன் மற்றும் குங்குமம் பதிப்பகத்தார் - நூலைச் சிறப்பான முறையில் அச்சிட்ட சிவகாசி சீனிவாஸ் பைன் ஆர்ட்ஸ் ஆகிய அனைவருக்கும் எங்கள் நன்றி உரித்தாகுக.
+தலைப்புகளைச் சித்திர வடிவில் அமைத்த அமுதோன் - கலைஞரின் வண்ணப்படத்தை எடுத்துக் கொடுத்த சுபா சுந்தரம் - எழுத்துக்களை நவீன முறையில் ஒளி அச்சுக்கோர்வையில் அமைத்துத் தந்த “காந்தளகம்” - இந்நூலை வெளியிட எல்லா உதவிகளையும் செய்த “குங்குமம்” துணை ஆசிரியர் பாவைசந்திரன் மற்றும் குங்குமம் பதிப்பகத்தார் - நூலை சிறப்பான முறையில் அச்சிட்ட சிவகாசி சீனிவாஸ் பைன் ஆர்ட்ஸ் ஆகிய அனைவருக்கும் எங்கள் நன்றி உரித்தாகுக.
 
 இந்த நூல் இலக்கிய ஆர்வமுள்ள தமிழ் மக்கள் கைகளிலே தவழும்போது, எங்களுக்குள்ள மகிழ்வு யாவருக்கும் உண்டு என்பதை எங்களால் உணர முடிகிறது! வணக்கம்!
 
