@@ -6,10 +6,12 @@ section: "வாணன் மணந்த வண்ணத் திருமக�
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "running author header; verse-like narrative text; dialogue begins near page foot; printed page number 52 visible"
+visual_notes: "running சங்கத் தமிழ் header; continuation after scan-66 illustration; verse-like narrative text; dialogue begins near page foot; printed page number 52 visible"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
+continues_from_scan: 65
+continues_to_scan: 68
 ---
 
 தணலாய்க் காமம் தகித்தது கண்டு -  
@@ -25,7 +27,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 பாலையில் வெண்ணெய்போல் உருகுகின்றாள்!
 
 அவளிருக்கும் நிலைமைதனை அறிந்ததாலே  
-அவசரமாய்ப் புறப்பட்டான் தேரேறி!
+அவசரமாய்ப் புறப்பட்டான் தேர்ஏறி!
 
 பாணன் ஒருவனைப் பக்குவப்படுத்தி  
 பாவையின் கோபம் தணிக்கச் சொன்னான்.
@@ -39,8 +41,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 பொல்லாக் கணவனைப் புறக்கணிக்கின்றாள்.
 
 பல்கண்ணனார் என்னும் புலவர்,  
-பாடிய சங்கப் பாடலில் இப்படிப்
-
+பாடிய சங்கப் பாடலில் இப்படிப்  
 பாணன் ஒருவனிடம் தனது நிலையைப்  
 பட்டவர்த்தனமாய்த் தலைவி சொன்னதாய்ச் சொன்னதை மாற்றி  
 கற்பனையொன்றைத் தீட்டிட முனைந்தேன்  
@@ -61,5 +62,6 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 “குலவிளக்கே! குங்குமச் சிமிழே! உனைக்  
 கொண்ட கணவன் அனுப்பினான் என்னை!
 
-<!-- Pass 1 only. Gemini supplied the lexical scaffold; obvious page-local lineation and dialogue placement were aligned to scan 67. Textual and visual verification remain deferred. -->
+<!-- Gemini-locked wording is retained; scan 67 controls lineation, dialogue placement, punctuation and page boundary. -->
+<!-- Review status remains `needs-review`; final audit/status synchronization is a separate activity. -->
 <!-- மூல ஸ்கேன் பக்கம்: 67; அச்சுப் பக்கம்: 52 -->
