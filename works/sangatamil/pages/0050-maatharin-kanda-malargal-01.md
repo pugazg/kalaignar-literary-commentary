@@ -4,11 +4,11 @@ printed_page: "35"
 work: "sangatamil"
 section: "மாவீரன் கண்ட மலர்கள்"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "large decorative two-line section heading at top; source text set in verse/prose blocks; page ends with an incomplete sentence continuing to scan 51; horizontal rule above centered printed page number"
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "large decorative two-line section heading at top; source text set in verse/prose blocks with printed lineation preserved; page ends with an incomplete sentence continuing to scan 51; horizontal rule above centered printed page number"
 language: "ta"
-transcription_method: "legacy transcription retained provisionally; decorative heading corrected directly from scan after Gemini-assisted regression discovery; systematic textual/visual reconciliation pending"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_to_scan: 51
 ---
@@ -16,7 +16,7 @@ continues_to_scan: 51
 # மாவீரன் கண்ட மலர்கள்
 
 பூக்காட்டின் சிறப்பு குறித்துப்  
-பாராட்டு மொழியொன்று கூறதற்கு - ஒரு  
+பாராட்டு மொழியொன்று கூறுதற்கு - ஒரு  
 பொற்கொல்லன் முன்வந்தால்;  
 பொன்னிறப் பூக்கள் நிறை சோலையென்று  
 பொதுவாகக் கூறிவிட்டு  
@@ -37,8 +37,8 @@ continues_to_scan: 51
 தும்பைப்பூ, மகிழமலர், நீலோற்பலமென  
 தூரிகை கொண்டு பற்பல நிறங்களைத்  
 திரைச்சீலையிலே அள்ளி அள்ளித்  
-தெளித்தது போல் அமைந்திருந்தப் பூங்கா என்று,  
-ஓவியனின் அவன் நோக்கில்,  
+தெளித்தது போல் அமைந்ததிந்தப் பூங்கா என்று,  
+ஓவியனாயின் அவன் நோக்கில்,  
 உவமையொன்று உரைத்திடுவான்!
 
 ஒரு கவிஞனிடம் சிக்கிவிட்டால் மலர்க்கூட்டம்; அப்பப்பா!  
@@ -50,5 +50,6 @@ continues_to_scan: 51
 மல்லிகை, செண்பகம், சாமந்தி கொண்டு  
 மலர்ச் செண்டமைத்து - அதன் முனையில்
 
-<!-- The decorative heading was re-read directly from scan 50 as `மாவீரன் கண்ட மலர்கள்`; the earlier `மாதரின் கண்ட மலர்கள்` heading invalidated the old verified claim. Body text is intentionally left for the systematic Gemini-assisted Pass 2/3 reconciliation. -->
+<!-- The sentence remains visibly incomplete at the foot of scan 50 and continues on scan 51; no continuation is pulled forward into this physical page record. -->
+<!-- Gemini-locked wording is retained while scan 50 controls decorative-heading placement, punctuation, printed lineation, paragraph grouping and page furniture. -->
 <!-- மூல ஸ்கேன் பக்கம்: 50; அச்சுப் பக்கம்: 35 -->
