@@ -2,12 +2,13 @@
 scan_page: 54
 printed_page: "39"
 work: "sangatamil"
-section: "மாதரின் கண்ட மலர்கள்"
+section: "மாவீரன் கண்ட மலர்கள்"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
+visual_notes: "running author header; continuation of the Sangam quotation from scan 53; centered separator; right-aligned provenance; பொருள் விளக்கம் block; final separator; printed page number 39 visible"
 language: "ta"
-transcription_method: "fast direct transcription from source scan; verification intentionally deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 53
 ---
@@ -15,8 +16,8 @@ continues_from_scan: 53
 > உழுதுகாண் துளைய வாகி, ஆர்கழல்பு  
 > ஆலி வானிற் காலொடு பாறித்  
 > துப்பின் அன்ன செங்கோட்டு இயவின்,  
-> நெய்த்தோர் மிமிசை நிணத்தின் பரிக்கும்  
-> மத்து நண்ணிய அங்குடிச் சீறூர்”
+> நெய்த்தோர் மீமிசை நிணத்தின் பரிக்கும்  
+> மத்த நண்ணிய அங்குடிச் சீறூர்''
 
 <div align="center">*</div>
 
@@ -39,5 +40,5 @@ continues_from_scan: 53
 
 <div align="center">*</div>
 
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
+<!-- Gemini wording is retained; scan 54 controls quotation lineation, provenance placement, glossary grouping, separators and printed pagination. -->
 <!-- மூல ஸ்கேன் பக்கம்: 54; அச்சுப் பக்கம்: 39 -->
