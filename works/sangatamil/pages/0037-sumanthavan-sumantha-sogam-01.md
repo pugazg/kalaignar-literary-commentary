@@ -2,17 +2,17 @@
 scan_page: 37
 printed_page: "22"
 work: "sangatamil"
-section: "சுமந்தவன் சுமந்த சோகம்!"
+section: "சுமந்தவள் சுமந்த சோகம்!"
 page_type: "text"
 status: "verified"
 visual_fidelity: "verified"
-visual_notes: "large decorative two-line section heading at top; source text set as short verse/prose lines; deliberately right-aligned continuation words 'தாய்வீடு' and 'எனக் கூறிப்'; horizontal rule above centered printed page number"
+visual_notes: "large decorative two-line section heading at top; source text set as short verse/prose lines; deliberately right-aligned continuation words 'தாய்வீடு' and 'எனக் கூறிப்'; Gemini-locked lexical wording aligned to source structure; horizontal rule above centered printed page number"
 language: "ta"
-transcription_method: "direct character-by-character textual and meaningful visual comparison with source scan"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
-# சுமந்தவன் சுமந்த சோகம்!
+# சுமந்தவள் சுமந்த சோகம்!
 
 பனிமுட்டை அடை காக்கும்  
 பசும்புல்லின் தரைமீது  
@@ -23,15 +23,15 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 அதியமான் நெடுமானஞ்சி - வேள்பாரி வள்ளல் நாடன்  
 சேரமான் மாவெண் கோவன்,  
 கானப்பேர் தந்த வழுதி - மற்றும்  
-சோழனும் பெருநற்கிள்ளி  
+சோழனாம் பெருநற்கிள்ளி  
 ஆகியோர் புகழைப்பாடித் தமிழுக்கு  
 அணி பல பூட்டி நின்ற
 
 அறிவொளி ஒளவை நல்லாள்!  
-காலக் கதிரவன் போல் கை சிவக்கக் கொடை வழங்கும்  
+காலைக் கதிரவன் போல் கை சிவக்கக் கொடை வழங்கும்  
 காவலர்கள் வாழ்ந்திருந்த தமிழ்நாடு!  
 ஓலை கொண்டொருவன் போர் என்று வந்துவிட்டால்  
-மாலை சூடுகின்ற வேலையென்றும் பாராமல்  
+மாலை சூடுகின்ற வேளையென்றும் பாராமல்  
 தோளைத் தொத்துகின்ற பெண்கிளியைப் புறம் விடுத்து,  
 வாளைக் கூரேற்றி வான் நோக்கி நிமிர்கின்ற வீரமறவர்களின்
 
@@ -41,16 +41,16 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 நிலம் வகுத்து வாழ்கின்ற தமிழரிடை  
 சோலைப் பூவினம் போல் தமிழ்க் கவிதை மலரவைத்தாள்.  
 தாயகத்துக் கற்புநிறை பிறழாத  
-காதல் சொன்னுள் - களம் சென்றோர் வீரம் சொன்னுள்.  
+காதல் சொன்னாள் - களம் சென்றார் வீரம் சொன்னாள்.  
 களத்தில்,  
 சாதல் இன்னே வரட்டுமென்று சென்றுவிட்ட தலைமகனும்  
 சந்தனத்து கட்டை போல மணக்கட்டும் இலக்கியத்தில்
 
 <div align="right">எனக் கூறிப்</div>
 
-பாதமுதல் உச்சிவரை குளிர்கின்ற தாய்க்குலத்தை  
+பாதம்முதல் உச்சிவரை குளிர்கின்ற தாய்க்குலத்தை  
 எண்ணியெண்ணிப் பெருமை கொண்டாள், தன்  
 பூவடிகள் புல்மீது அழுந்தியதால் பனித்துளிகள் அழிந்துவிடும்.
 
-<!-- Directly verified against scan 37 for wording, punctuation, printed lineation, deliberate right-aligned continuations, heading hierarchy, rule and page furniture. -->
+<!-- Gemini words are locked; heading, page-local lineation, right-aligned continuations, punctuation and page furniture were checked against scan 37. -->
 <!-- மூல ஸ்கேன் பக்கம்: 37; அச்சுப் பக்கம்: 22 -->
