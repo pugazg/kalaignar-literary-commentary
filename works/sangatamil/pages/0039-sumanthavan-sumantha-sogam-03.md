@@ -2,13 +2,13 @@
 scan_page: 39
 printed_page: "24"
 work: "sangatamil"
-section: "சுமந்தவன் சுமந்த சோகம்!"
+section: "சுமந்தவள் சுமந்த சோகம்!"
 page_type: "text"
 status: "verified"
 visual_fidelity: "verified"
-visual_notes: "running சங்கத் தமிழ் header centered between rules; dense narrative/dialogue verse-prose blocks preserving printed lineation and paragraph breaks; horizontal rule above centered printed page number"
+visual_notes: "running சங்கத் தமிழ் header centered between rules; dense narrative/dialogue verse-prose blocks preserving printed lineation and paragraph breaks; Gemini-locked lexical wording aligned to source structure; horizontal rule above centered printed page number"
 language: "ta"
-transcription_method: "direct character-by-character textual and meaningful visual comparison with source scan"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -28,7 +28,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 விற்புருவம் என்றுன் ஆளன் அழைத்திட்ட காலம்போய்  
 வில்லுருவம் முதுகில் பெற்ற இள நங்காய்!  
 விழியிரண்டும் வேலென்றார் அன்று;  
-வழி இரண்டு போனதென்று கோல்கொண்டாய் இன்று!  
+வழி இருண்டு போனதென்று கோல்கொண்டாய் இன்று!  
 தமிழ்நாட்டு முத்தெல்லாம் தீர்ந்ததென்று பல் கழற்றிப்  
 பிறநாட்டு வாணிபத்தைச் செய்தவளே!  
 எங்கெழுந்தாய்? ஏன் பதைப்பு?  
@@ -36,7 +36,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 குறும்பு செய்தாள் ஒளவையம்மை!
 
 “வேலி போட முடியாது இளமைக்கென்று தெரிந்த பின்னும்  
-கேலி பேசும் உன் போக்கு புரியவில்லே”  
+கேலி பேசும் உன் போக்கு புரியவில்லை”  
 என மறித்து அந்தத் தாய் பேசலானாள்:-
 
 “புண்பட்ட என்னகத்தில் புலமைத் தாயே உந்தன் கேலி,  
@@ -49,13 +49,13 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 அந்த மகன் ஆசைமகன் அணிவகுத்தான்,  
 சொந்த மண்ணின் நலங்காக்கப் பணிவகுத்தான்!”
 
-முடிக்கவில்லே முதியவளும்;  
-பொறுக்கவில்லே ஒளவைக்குக்  
+முடிக்கவில்லை முதியவளும்;  
+பொறுக்கவில்லை ஔவைக்குக்  
 குறுக்கிட்டாள்.  
 “களம் சென்ற மகன் வீரம் புகழ்ந்து கூறிக்  
 கண்கலங்காத் தாய் வீரம் காட்டுதலே தமிழர் மரபு!  
 முதியவளே! மறவர் குல வழக்கிற்குப்  
 புதியவளாய் இருக்கின்றாய்! - வியக்கின்றேன்” என்றாள்.
 
-<!-- Directly verified against scan 39 for source-visible wording, punctuation, dialogue boundaries, printed lineation/paragraph grouping, running header/rules and page furniture. -->
+<!-- Gemini words are locked; dialogue grouping, lineation, punctuation and page furniture were checked against scan 39. -->
 <!-- மூல ஸ்கேன் பக்கம்: 39; அச்சுப் பக்கம்: 24 -->
