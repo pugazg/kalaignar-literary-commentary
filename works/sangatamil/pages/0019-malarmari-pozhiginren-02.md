@@ -6,9 +6,9 @@ section: "மலர்மாரி பொழிகின்றேன்!"
 page_type: "poetry"
 status: "verified"
 visual_fidelity: "verified"
-visual_notes: "running header சங்கத் தமிழ்; continuation of the indented Sangam quotation begun on scan 17, with scan 18 as a full-page illustration between the two text leaves; centered asterisk divider; three-line right-aligned source attribution; concluding Kalaignar verse and centered asterisk; printed page number centered at foot"
+visual_notes: "running header சங்கத் தமிழ்; continuation of the indented Sangam quotation begun on scan 17, with scan 18 as a full-page illustration between the two text leaves; centered asterisk divider; three-line right-aligned source attribution; concluding Kalaignar verse and centered asterisk; Gemini-locked lexical wording aligned to source lineation; printed page number centered at foot"
 language: "ta"
-transcription_method: "direct textual and visual comparison with source scan"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 17
 ---
@@ -20,7 +20,7 @@ continues_from_scan: 17
 > பயினி, வானி, பல் இணர்க் குரவம்,  
 > பசும்பிடி, வகுளம், பல் இணர்க்காயா,  
 > விரிமலர் ஆவிரை, வேரல், சூரல்,  
-> குறிஇப்பூளை, குறுநறுங்கண்ணி,  
+> குறீஇப்பூளை, குறுநறுங்கண்ணி,  
 > குருகிலை, மருதம், விரி பூங்கோங்கம்,  
 > போங்கம், திலகம், தேங் கமழ் பாதிரி,  
 > செருந்தி, அதிரல், பெருந்தண் சண்பகம்,  
@@ -29,13 +29,13 @@ continues_from_scan: 17
 > குல்லை, பிடவம், சிறுமா ரோடம்,  
 > வாழை, வள்ளி, நீள்நறு நெய்தல்,  
 > தாழை, தளவம், முள்தாட் தாமரை,  
-> ஞாழல், மெளவல், நறுந்தண் கொகுடி,  
+> ஞாழல், மௌவல், நறுந்தண் கொகுடி,  
 > சேடல், செம்மல், சிறுசெங்குரலி,  
 > கோடல், கைதை, கொங்கு முதிர் நறுவழை,  
 > காஞ்சி, மணிக்குலைக் கள்கமழ் நெய்தல்,  
 > பாங்கர், மராஅம், பல்பூந் தணக்கம்,  
 > ஈங்கை, இலவம், தூங்கு இணர்க்கொன்றை,  
-> அடும்பு, அமர் ஆத்தி, நெடுங்கொடி அவரை,  
+> அரும்பு, அமர் ஆத்தி, நெடுங்கொடி அவரை,  
 > பகன்றை, பலாசம், பல்பூம் பிண்டி,  
 > வஞ்சி, பித்திகம், சிந்துவாரம்,  
 > தும்பை, துழாஅய், சுடர்ப்பூந் தோன்றி,  
