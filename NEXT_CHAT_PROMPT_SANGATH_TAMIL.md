@@ -1,6 +1,6 @@
 # Next Chat Prompt — சங்கத் தமிழ் archival project
 
-Continue the **சங்கத் தமிழ் — Kalaignar source-first archival / provenance project** directly in:
+Continue the **சங்கத் தமிழ் — Kalaignar archival / correction project** directly in:
 
 `pugazg/kalaignar-literary-commentary`
 
@@ -8,19 +8,15 @@ Branch: `main`
 
 Active path: `works/sangatamil/`
 
-Controlling source:
-
-`TVA_BOK_0042551_சங்கத்_தமிழ்.pdf`
-
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve the newest durable state.
+Fetch live GitHub `main` **first** and preserve the newest durable state.
 
-The last completed **source-work checkpoint** when this prompt was refreshed was:
+The latest policy checkpoint when this prompt was refreshed was:
 
-`2b3552a1f487e6ab747a394a8fe36f80f49f2cae` — `sangatamil: Pass 1 capture scan 425`
+`a4d13ade0b0c8ecccbe4609a438457d871163fdb` — `sangatamil: Lock Gemini lexical transcription policy`
 
-Later commits may be documentation-only or may advance the source frontier. Do **not** reset, overwrite, repeat, or reopen later completed work merely because this prompt records an older checkpoint.
+Documentation commits may follow. If live `main` is newer, preserve it. Do not reset, overwrite, repeat or reopen later completed work merely because this prompt records an older SHA.
 
 ## Mandatory startup
 
@@ -30,104 +26,166 @@ Before any repository change, read completely:
 2. `SANGATH_TAMIL_ARCHIVAL_GUIDELINES.md`
 3. root `HANDOVER.md`
 4. this `NEXT_CHAT_PROMPT_SANGATH_TAMIL.md`
-5. `works/sangatamil/README.md`
-6. `works/sangatamil/MULTI_PASS_WORKFLOW.md`
-7. `works/sangatamil/GEMINI_RECONCILIATION_PLAN.md`
-8. `works/sangatamil/metadata/source.md`
-9. `works/sangatamil/metadata/transcription-policy.md`
-10. `works/sangatamil/indexes/page-map.md`
-11. `works/sangatamil/indexes/section-register.md`
-12. `works/sangatamil/indexes/source-citation-register.md`
+5. `works/sangatamil/GEMINI_TEXT_LOCK.md` **— current user-approved lexical override**
+6. `works/sangatamil/README.md`
+7. `works/sangatamil/MULTI_PASS_WORKFLOW.md`
+8. `works/sangatamil/GEMINI_RECONCILIATION_PLAN.md`
+9. `works/sangatamil/metadata/source.md`
+10. `works/sangatamil/metadata/transcription-policy.md`
+11. `works/sangatamil/indexes/page-map.md`
+12. `works/sangatamil/indexes/section-register.md`
+13. `works/sangatamil/indexes/source-citation-register.md`
 
-Then determine the actual live frontier from `main`; broad README/index snapshots are not synchronized after every Pass-1 page and must not override live page files/history.
+If older documents conflict with `GEMINI_TEXT_LOCK.md`, this prompt, or the refreshed Sangath Tamil guidelines, **the current user-approved Gemini text lock wins for the present correction workflow**.
 
-## Attach / resolve source files in the fresh chat
+## Current user directive — MUST FOLLOW
 
-Before page-level source work, attach or otherwise resolve:
+> **Keep the supplied words from Gemini transcription. Correct only source-supported structure—page placement, paragraph order, punctuation, quotation structure, headings, speaker labels, poetry lineation, spacing—and remove non-source material such as library stamps, handwriting-derived/OCR garbage. Do not silently correct lexical words.**
 
-1. **Required:** `TVA_BOK_0042551_சங்கத்_தமிழ்.pdf` — controlling source, 497 physical scans.
-2. **Strongly useful for the current remainder:** `File10.md` — Gemini lexical scaffold. Its supplied header covers Book Pages 414–484 corresponding to physical PDF pages 426–497.
+This is the controlling correction rule.
 
-If `File10.md` is unavailable, continue source-first from the PDF rather than guessing Gemini text from memory.
+### Lexical authority
 
-## Source authority
+The supplied Gemini Markdown files (`File1.md` … `File10.md`) are the **locked lexical/text-wording layer**.
 
-> **Scan = final authority. Gemini = lexical aid. Repository = preservation layer.**
+Do **not** change legitimate Gemini:
 
-Never silently modernize, normalize, correct from another edition, replace quoted Sangam text, alter printed anthology/poem/poet labels, reconstruct hidden text, or infer pagination/source content.
+- words;
+- characters;
+- spellings;
+- names;
+- quoted wording;
+- old/uncommon forms;
+- lexical choices
 
-Gemini comment markers such as `<!-- Page N of 497 -->` are navigation aids and in the supplied batches generally track **printed book pages**, not physical scan numbers. Gemini can also omit illustration/divider pages. Drive physical sequencing only from the controlling PDF.
+merely because the PDF scan, OCR, another edition, memory, or a more familiar spelling seems different.
 
-## Source boundary
+If changing a legitimate Gemini word would be required, leave it unchanged unless the user explicitly authorizes that lexical correction.
 
-- physical source: **497 scans**;
-- scan **497**: back cover;
-- canonical range: **1–497**;
-- never create scan 498+;
-- printed page numbers must be read from the scan.
+### Structural authority
 
-## Canonical workflow
+The controlling PDF scan is authoritative for:
 
-Use `works/sangatamil/MULTI_PASS_WORKFLOW.md` and `works/sangatamil/GEMINI_RECONCILIATION_PLAN.md`.
+- physical scan/page placement;
+- printed page numbers;
+- page type;
+- paragraph order/boundaries;
+- punctuation;
+- quotation structure and block placement;
+- headings/hierarchy;
+- speaker-label placement/formatting;
+- poetry/verse lineation and stanza grouping;
+- spacing/indentation;
+- separators/rules;
+- citation / provenance / `பொருள் விளக்கம்` block placement;
+- continuation order across pages;
+- illustration/divider/blank placement;
+- running-header/footer handling.
 
-Pass order:
+### Remove non-source material from body text
 
-1. Pass 1 — transcription / physical capture through scan 497;
-2. Pass 2 — textual verification, scan 1 → 497;
-3. Pass 3 — visual-text fidelity verification, scan 1 → 497;
-4. Pass 4 — physical-page / omission / continuity audit, scan 1 → 497;
-5. Pass 5 — section-structure audit, scan 1 → 497;
-6. Pass 6 — Sangam source / provenance audit, scan 1 → 497;
-7. Pass 7 — metadata / status consistency audit, scan 1 → 497;
-8. Pass 8 — whole-volume synchronization and final audit.
+Remove material accidentally captured by Gemini/OCR that is not part of the printed source body, including:
 
-**Only Pass 1 is active now. Do not begin Pass 2 until all 497 scans have physical records.**
+- library stamps / accession marks;
+- handwriting-derived OCR text;
+- handwriting garbage;
+- scanner artefacts;
+- bleed-through OCR garbage;
+- unrelated labels/stickers;
+- duplicated running headers or printed page numbers merged into the body;
+- other clearly non-source OCR fragments.
 
-## Pass-1 rules
+Such marks may be noted factually in metadata/visual notes when useful, but must not contaminate body transcription.
 
-Normal working batch: **about 10 physical scans**.
+### Missing lexical material
+
+If the scan shows a whole printed paragraph/block absent from Gemini, **do not silently source-transcribe new lexical wording**. Flag the omission for follow-up unless the user explicitly authorizes recovery.
+
+## Source files for the immediate work
+
+Controlling full source:
+
+`TVA_BOK_0042551_சங்கத்_தமிழ்.pdf`
+
+Canonical physical range: **1–497**; scan **497** is the back cover.
+
+For the immediate next work, attach/resolve:
+
+1. `TVA_BOK_0042551_சங்கத்_தமிழ்_part_001_pages_1-50.pdf`
+2. `File1.md`
+
+The next supplied pair is:
+
+- `TVA_BOK_0042551_சங்கத்_தமிழ்_part_002_pages_51-100.pdf`
+- `File2.md`
+
+Use later split PDF + `FileN.md` pairs as they are supplied.
+
+Gemini page-marker comments are navigation aids only and do not control physical scan numbering.
+
+## Durable state
+
+Pass-1 physical capture is complete through **scan 497**. Do not restart it.
+
+A previous scan-led lexical reconciliation reached scan **13** at:
+
+`a9b7b118a5b729c4e670b453260dc06327a011a3` — `sangatamil: Pass 2 reconcile scan 13`
+
+That source-based lexical correction mode is now **discontinued**.
+
+The Gemini lexical lock was recorded at:
+
+`a4d13ade0b0c8ecccbe4609a438457d871163fdb` — `sangatamil: Lock Gemini lexical transcription policy`
+
+Do **not** resume the old lexical Pass 2 at scan 14.
+
+For scans **1–13**, earlier source-based lexical edits may exist. When encountered in the new correction pass, restore the corresponding supplied Gemini lexical wording where it differs, while preserving source-supported structure.
+
+## Current activity — Gemini-locked structural correction pass
+
+The current task is to work sequentially through the physical source while:
+
+- preserving supplied Gemini lexical words;
+- using the scan to correct structure/presentation only;
+- removing clearly non-source material from body text.
+
+Normal batch: **about 10 physical scans**.
 
 For each scan:
 
-- inspect the physical scan once;
-- identify page type and visible printed page number from the scan;
-- align Gemini as lexical scaffold where available;
-- preserve directly visible decorative headings, basic line/paragraph structure, quotations/provenance/gloss blocks;
-- record illustration/divider/blank pages separately rather than skipping them;
-- if Gemini omits, moves or corrupts source-visible material, source wins;
-- avoid prolonged forensic verification during Pass 1; leave uncertainty for later passes;
-- normally use `status: needs-review` and `visual_fidelity: needs-review`;
-- commit each page record and continue.
+1. fetch the current repository page record;
+2. inspect the corresponding PDF scan directly;
+3. locate the matching Gemini text;
+4. keep legitimate Gemini lexical wording;
+5. correct source-supported page placement, paragraph order, punctuation, quotation structure, headings, speaker labels, poetry lineation, spacing and related structure;
+6. remove non-source stamps/handwriting/OCR garbage from body text;
+7. do not silently correct lexical words;
+8. commit sequentially and continue.
 
-At batch end, compare the starting commit to live head and verify that only the intended page records changed.
+At batch end:
 
-Do not routinely update broad indexes/READMEs/HANDOVER during the page batch.
-
-## Current durable boundary
-
-Physical records exist through **scan 425**.
-
-Remaining Pass-1 source range at this checkpoint: **426–497 (72 scans)**.
-
-Recent sequence:
-
-- scans 406–408 — `மணித்தேரில் சென்ற மகன்!`;
-- scans 409–412 — `ஆயமகன் குழலூதினான்!`;
-- scans 413–416 — `சொல்வேன் கேளடி தோழி!`;
-- scans 417–420 — `இருவிழி மழையும் இதய மகிழ்வும்!`;
-- scans 421–424 — `இன்ப விளக்கேற்ற எப்போது வருவாரோ?`;
-- scan 425 — decorative divider `கைக்கிளை / ஒருதலைக் காதல்`.
+1. compare the batch-start SHA to live head;
+2. verify only intended page records changed;
+3. fetch live `main` again;
+4. record the next structural-correction frontier.
 
 ## Exact next activity
 
-Fetch live `main` and confirm whether scan 426 is still the first missing record.
+Fetch live `main`, complete mandatory startup, resolve **Part 001 pages 1–50 + `File1.md`**, and begin the **Gemini-locked structural correction pass at physical scan 1**.
 
-If so, continue **Pass 1 only from physical scan 426**, approximately through scan 435 for the next batch.
+Process approximately **scans 1–10** as the first batch.
 
-Direct inspection at handoff established that scan **426 / printed page 414** begins numbered unit **1** under `கைக்கிளை / ஒருதலைக் காதல்`, starting:
+For those pages:
 
-`கற்கண்டுத் தமிழில் கவிதைகள் வடிக்கும்...`
+- **keep supplied Gemini words**;
+- correct only scan-supported structure/punctuation/spacing;
+- remove non-source material such as library stamps and handwriting/OCR garbage;
+- restore Gemini wording where earlier scan-led lexical edits changed it;
+- do not invent missing lexical text;
+- do not start another phase in the same batch.
 
-Use `File10.md` only as lexical scaffold and the PDF scan for every physical/structural decision.
+Then perform the normal base→head audit.
 
-Do the repository work directly; do not merely describe a plan.
+## Execution behavior
+
+When the user says **“proceed with next activity”**, **do the repository work directly**. Do not merely describe a plan, ask again for files that are already attached/resolved, or claim that split PDFs prevent continuation. If the relevant split source is available, inspect it and execute the batch.
