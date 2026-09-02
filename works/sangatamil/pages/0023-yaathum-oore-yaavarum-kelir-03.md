@@ -8,7 +8,7 @@ status: "verified"
 visual_fidelity: "verified"
 visual_notes: "running header 'சங்கத் தமிழ்'; continuation from scan 21 after scan-22 illustration; multiple verse blocks and quoted lines; final sentence continues to scan 24; printed page number centered at foot"
 language: "ta"
-transcription_method: "direct textual and visual comparison with high-resolution source render"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_to_scan: 24
 ---
@@ -54,7 +54,7 @@ continues_to_scan: 24
 உள்ளம் காணுகின்றோம் இந்தக் கவிதையினில்; புது  
 வெள்ளம் போல் இக்கருத்து பரவட்டும் காசினியில்!  
 ஆனால் ஒன்று;  
-ஊரெல்லாம் இணைந்து ஒருலகாய் ஆவதென்பதும்  
+ஊரெல்லாம் இணைந்து ஓருலகாய் ஆவதென்பதும்  
 உறவுகொண்டே மனித குலம் ஒன்றே எனத் திகழ்வதும்
 
 <!-- உரை scan 24 / அச்சுப் பக்கம் 9-ல் தொடர்கிறது. -->
