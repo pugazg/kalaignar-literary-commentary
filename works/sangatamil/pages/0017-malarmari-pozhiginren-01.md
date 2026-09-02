@@ -6,9 +6,9 @@ section: "மலர்மாரி பொழிகின்றேன்!"
 page_type: "poetry"
 status: "verified"
 visual_fidelity: "verified"
-visual_notes: "large decorative section heading; source poem set in short verse lines; centered asterisk divider; indented Sangam quotation begins near page foot and continues after the scan-18 illustration onto scan 19; printed page number centered at foot"
+visual_notes: "large decorative section heading; source poem set in short verse lines; centered asterisk divider; indented Sangam quotation begins near page foot and continues after the scan-18 illustration onto scan 19; Gemini-locked lexical wording aligned to source lineation; printed page number centered at foot"
 language: "ta"
-transcription_method: "direct textual and visual comparison with source scan"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_to_scan: 19
 ---
@@ -28,7 +28,7 @@ continues_to_scan: 19
 கலைஞனது உள்ளமுமே துள்ளுவது உண்மை!
 
 கருவூலப்பொருள்கூட அள்ள அள்ளக் குறையும்; - சங்கக்  
-கவிப்பெரியோர்கள் கற்பனையோ அகழ்கின்ற ஊற்றுக நிறையும்!
+கவிப்பெரியோர்கள் கற்பனையோ அகழ்கின்ற ஊற்றாக நிறையும்!
 
 பழம்புலவர்பெருமக்கள்; தமிழர் வீரம், காதல்,  
 பண்பாடு போற்றுகின்ற வாழ்க்கை நெறிமுறைகள்;
@@ -39,7 +39,7 @@ continues_to_scan: 19
 ஏடுகளாய் எழுத்துக்களாய் வாழ்கின்ற - அந்தப்  
 பீடுநிறைப் பெரியோர்க்கு வணக்கம் சொல்லி;
 
-காடுகளில் மலர்ச்சோலைகளில் கபிலப்புலவன்  
+காடுகளில் மலைச்சோலைகளில் கபிலப்புலவன்  
 கண்டறிந்து குறிஞ்சிப்பாட்டில் கோடிட்டுக்காட்டியுள்ள;
 
 மலரையெல்லாம் பறித்தெடுத்து என் மனம் பறித்த  
