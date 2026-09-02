@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running சங்கத் தமிழ் header; dialogue and narrative verse blocks; source-offset continuation around `அவன்`; analogy begins near page foot and continues directly to scan 36; printed page number centered at foot"
 language: "ta"
-transcription_method: "Gemini lexical scaffold reconciled to controlling source scan; legacy verified status reopened pending systematic textual/visual passes"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; legacy verified status remains reopened pending systematic textual/visual passes"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 34
 continues_to_scan: 36
@@ -37,7 +37,7 @@ continues_to_scan: 36
 
 தேன் குடிக்கப் போகின்ற வண்டை  
 ஏன் தடுக்கின்றாய்? என்று விழியாலே கேட்டான் - “இந்தப்  
-பழி மிகப் பொல்லாது” என்றாள்!
+பழி மிகப் பொல்லாது” என்றான்!
 
 “குன்றெடுக்கும் நெடுந்தோள் கொண்டவனே! வீணே பகையை  
 வென்றெடுக்கும் ஆற்றல் பெற்றவனே!  
@@ -59,5 +59,5 @@ continues_to_scan: 36
 பறப்பதற்குச் சிறகில் பலமில்லா கொக்கொன்று  
 பறிப்பதற்குக் காத்திருக்கும் காட்சிதனைக் கண்டிலையோ அதுபோல
 
-<!-- The earlier record incorrectly promoted `இந்தத் தொண்டித்துறையில்` to a Markdown subheading and contained multiple lexical regressions. Gemini words were used as the recovery scaffold while page-local structure was checked against the scan. Systematic Pass 2/3 verification remains pending. -->
+<!-- The earlier record incorrectly promoted `இந்தத் தொண்டித்துறையில்` to a Markdown subheading and contained multiple lexical regressions. Gemini words remain locked while page-local structure is checked against the scan. Systematic Pass 2/3 verification remains pending. -->
 <!-- மூல ஸ்கேன் பக்கம்: 35; அச்சுப் பக்கம்: 20 -->
