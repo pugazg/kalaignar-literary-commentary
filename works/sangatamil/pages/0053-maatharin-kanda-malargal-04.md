@@ -4,8 +4,8 @@ printed_page: "38"
 work: "sangatamil"
 section: "மாவீரன் கண்ட மலர்கள்"
 page_type: "text"
-status: "verified"
-visual_fidelity: "verified"
+status: "needs-review"
+visual_fidelity: "needs-review"
 visual_notes: "running சங்கத் தமிழ் header; continuation prose/verse blocks; centered separator before the quoted அகநானூறு passage, which continues to scan 54; horizontal rule above centered printed page number"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
@@ -55,4 +55,5 @@ continues_to_scan: 54
 > இழுதின் அன்ன தீம்புழல் துய்வாய்
 
 <!-- Gemini wording is retained; the source scan controls the moved `அகக்` line position, prose/verse grouping, separator and quoted-passage continuation. -->
+<!-- Review status remains `needs-review`; final audit/status synchronization is a separate activity. -->
 <!-- மூல ஸ்கேன் பக்கம்: 53; அச்சுப் பக்கம்: 38 -->
