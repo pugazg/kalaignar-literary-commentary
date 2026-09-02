@@ -6,10 +6,11 @@ section: "வாணன் மணந்த வண்ணத் திருமக�
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "running author header; dialogue-heavy verse-like text; continuation into next scan; printed page number 53 visible"
+visual_notes: "running கலைஞர் மு. கருணாநிதி header; dialogue-heavy continuation arranged in printed verse-like blocks; page ends mid-speech and continues to scan 69; printed page number 53 visible"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
+continues_from_scan: 67
 continues_to_scan: 69
 ---
 
@@ -56,7 +57,8 @@ continues_to_scan: 69
 அணிமணிகள் ஒளிவழங்க  
 ஆடிப்பாடிக் களிப்பூட்டித் - தும்பைப்பூத்  
 துணிமணிகள் காற்றில் பறக்க  
-ஆள்மயக்கும் விழிகாட்டும்
+ஆள்மயக்கும் விழிகாட்டும் உம்
 
-<!-- Pass 1 only. Gemini supplied the lexical scaffold; obvious dialogue/lineation and the emphasized transition were aligned to scan 68. Textual and visual verification remain deferred. -->
+<!-- Gemini-locked wording is retained; scan 68 controls dialogue grouping, emphasis, lineation and the continuation boundary. -->
+<!-- Review status remains `needs-review`; final audit/status synchronization is a separate activity. -->
 <!-- மூல ஸ்கேன் பக்கம்: 68; அச்சுப் பக்கம்: 53 -->
