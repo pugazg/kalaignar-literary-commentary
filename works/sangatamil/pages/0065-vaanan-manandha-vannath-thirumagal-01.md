@@ -6,10 +6,11 @@ section: "வாணன் மணந்த வண்ணத் திருமக�
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "decorative section heading; verse-like author text below; printed page number 50 visible"
+visual_notes: "large decorative section heading; text arranged in short verse-like blocks; printed page number 50 visible; narrative continues across the illustration on scan 66 to scan 67"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
+continues_to_scan: 67
 ---
 
 # வாணன் மணந்த வண்ணத் திருமகள்!
@@ -43,5 +44,6 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 நினைத்த போதெல்லாம் எச்சிலால் நனைத்து  
 இனித்த சுகத்தை இழந்த கணவன்;
 
-<!-- Pass 1 only. Gemini supplied the lexical scaffold; decorative heading and obvious lineation were aligned to scan 65. Textual and visual verification remain deferred. -->
+<!-- Gemini-locked wording is retained; scan 65 controls decorative-heading placement, printed lineation, punctuation and the continuation boundary across scan 66. -->
+<!-- Review status remains `needs-review`; final audit/status synchronization is a separate activity. -->
 <!-- மூல ஸ்கேன் பக்கம்: 65; அச்சுப் பக்கம்: 50 -->
