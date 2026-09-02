@@ -4,8 +4,8 @@ printed_page: "36"
 work: "sangatamil"
 section: "மாவீரன் கண்ட மலர்கள்"
 page_type: "text"
-status: "verified"
-visual_fidelity: "verified"
+status: "needs-review"
+visual_fidelity: "needs-review"
 visual_notes: "running சங்கத் தமிழ் header; continuation text arranged in printed verse/prose blocks; centered separator before a three-line quoted continuation; horizontal rule above centered printed page number"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
@@ -60,4 +60,5 @@ continues_to_scan: 53
 > வில்லேந்தி வெற்றி விளைக்கின்ற
 
 <!-- Gemini wording is retained; scan 51 controls paragraph grouping, lineation, separator, quote placement, running furniture and the continuation boundary across the intervening illustration. -->
+<!-- Review status remains `needs-review`; final audit/status synchronization is a separate activity. -->
 <!-- மூல ஸ்கேன் பக்கம்: 51; அச்சுப் பக்கம்: 36 -->
