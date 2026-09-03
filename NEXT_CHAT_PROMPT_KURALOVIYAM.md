@@ -59,7 +59,7 @@ Part 001 source intake is complete:
 - scan 18: main body begins at printed page 1, heading `பேராசிரியர்`;
 - scan 111: printed page 94.
 
-Part 001 Pass 1 is complete continuously through **overall scan 70**:
+Part 001 Pass 1 is complete continuously through **overall scan 80**:
 
 - scans **1–3** — cover / title-publisher / edition-imprint;
 - scans **4–8 / printed iii–vii** — `முகப்புரை`;
@@ -89,29 +89,35 @@ Part 001 Pass 1 is complete continuously through **overall scan 70**:
 - scans **54–55 / printed 37–38** — moon/maiden and beloved-shoulder vignette;
 - scans **56–57 / printed 39–40** — Valluvar/student discussion of sword-like and kin-like enemies;
 - scans **58–59 / printed 41–42** — interpretation of `தெய்வந் தொழாஅள்...` and rain imagery;
-- scans **60–61 / printed 43–44** — martial-history / army-quality discussion ending with `மறமானம் மாண்ட வழிச்செலவு தேற்றம்...`;
-- scans **62–63 / printed 45–46** — separation/dream/eye-address vignette with multiple Kural blocks;
-- scans **64–65 / printed 47–48** — `திருநாடு` / `வளநாடு` governance contrast ending with `நாடொறும் நாடி முறைசெய்யா மன்னவன்...`;
-- scans **66–67 / printed 49–50** — கார்மேகம் / பூவழகி field vignette ending with `பயனில்சொல் பாராட்டு வானை மகனெனல்...`;
-- scans **68–69 / printed 51–52** — royal council / disloyal-minister vignette ending with `பழுதெண்ணும் மந்திரியிற் பக்கத்துள் தெவ்வோர்...`; scan 68 separately records handwritten `12800` and a library stamp;
-- scan **70 / printed 53** — illustrated love/eye vignette with `தாம்வீழ்வார் தம்வீழப் பெற்றவர்...` and `குவளை` comparison.
+- scans **60–61 / printed 43–44** — martial-history / army-quality discussion;
+- scans **62–63 / printed 45–46** — separation/dream/eye-address vignette;
+- scans **64–65 / printed 47–48** — `திருநாடு` / `வளநாடு` governance contrast;
+- scans **66–67 / printed 49–50** — கார்மேகம் / பூவழகி field vignette;
+- scans **68–69 / printed 51–52** — royal council / disloyal-minister vignette; scan 68 separately records handwritten `12800` and a library stamp;
+- scan **70 / printed 53** — illustrated love/eye vignette;
+- scan **71 / printed 54** — beauty/eyes continuation with two Kural blocks;
+- scans **72–73 / printed 55–56** — freedom-fighter / assembly-speech vignette;
+- scans **74–75 / printed 57–58** — robbed travelling family / fruit-seller gratitude vignette;
+- scans **76–77 / printed 59–60** — oppressive-rule / uprising vignette;
+- scan **78 / printed 61** — illustrated tearful-eye / love-sickness vignette;
+- scans **79–80 / printed 62–63** — old-age / illness / gambling analogy.
 
-Exactly **70 page-aligned records** now exist continuously for scans 1–70. Pass-1 printed-text records remain `needs-review` / `visual_fidelity: needs-review`; scans 13–15 are source-limited `partial` and must not be silently reconstructed.
+Exactly **80 page-aligned records** now exist continuously for scans 1–80. Pass-1 printed-text records remain `needs-review` / `visual_fidelity: needs-review`; scans 13–15 are source-limited `partial` and must not be silently reconstructed.
 
 Latest page-batch audit:
 
-`f1ded1c0b3a92b3a0533d3bf23bbc0fe7a0f83ba` → `e8d7d7dcd01228662ffe18906c7d0176c8a0d861`
+`11dcca9eb78cb4daa8bbcbe8df20a9f9c8627a92` → `9d5117e8bccab8a0591ed4c4b57e9e34201b23b1`
 
-The comparison confirmed exactly the expected ten page files for scans **61–70** and no unrelated files. It contains **11 commits** because scan 64 received one immediate source-image reread/correction before documentation synchronization.
+The comparison confirmed **10 sequential page commits**, exactly the expected ten page files for scans **71–80**, and no unrelated file changes.
 
 ## Exact next activity
 
 If live `main` has not advanced beyond this frontier:
 
 1. continue **Part 001 Pass 1**;
-2. process **overall scans 71–80**;
+2. process **overall scans 81–90**;
 3. create exactly one Markdown record per physical scan under `works/kuraloviyam/pages/`;
-4. continue directly from printed page 53 into the next source pages and preserve physical-page continuity;
+4. continue directly from printed page 63 into the next source pages and preserve physical-page continuity;
 5. transcribe only source-supported visible text;
 6. preserve source-supported illustration/text relationships and printed pagination;
 7. distinguish printed prose from signatures, handwriting, stamps, photographs and illustrations;
@@ -120,4 +126,4 @@ If live `main` has not advanced beyond this frontier:
 10. do not replace printed Kural or quoted wording from memory/web sources;
 11. audit the changed-file set, then record the next frontier.
 
-Do not reopen scans 1–70 merely for stylistic harmonization during Pass 1. Do not jump to textual verification, visual verification, part audit or English translation before Pass 1 capture for the relevant source unit is complete.
+Do not reopen scans 1–80 merely for stylistic harmonization during Pass 1. Do not jump to textual verification, visual verification, part audit or English translation before Pass 1 capture for the relevant source unit is complete.
