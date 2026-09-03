@@ -54,21 +54,25 @@ Part 001 has no usable parsed text layer; the rendered source scan is controllin
 
 Part 001 source intake is complete and Pass 1 is complete: **111 / 111 physical scans captured**. Scan 18 begins the main body at printed page 1; scan 111 is printed page 94.
 
-### Part 001 Pass 2A — textual verification through scan 33 COMPLETE
+### Part 001 Pass 2A — textual verification through scan 44 COMPLETE
 
 The durable verification record is:
 
 `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_001.md`
 
-Pass 2A has directly compared overall scans **1–33** against the rendered source.
+Pass 2A has directly compared overall scans **1–44** against the rendered source.
 
-Recent Batch-3 source-supported corrections:
+Recent Batch-4 source-supported corrections:
 
-- scan 24 — `என்பதைக் என்னால்` → `என்பதை என்னால்`;
-- scan 27 — `கொள்கின்ற` → `கொளுகிற`; `எத்தனை` → `எத்தகைய`; `கவிதை நடை` → `கவிதை நூல்`; `எழுதப்பட்டிருக்கின்றது` → `எழுதப்பட்டு இருக்கின்றது`;
-- scan 30 — `உருவச்சிறப்பிற்கு` → `உருவகச்சிறப்பிற்கு`; `காதலைப் பிரிந்த` → `காதலனைப் பிரிந்த`.
+- scan 35 — `மழை பொழிந்து` → `மழை பொழிந்தது`;
+- scan 36 — restored the source dash after `‘வேண்டுதல் வேண்டாமை இலான்’`; removed the non-source hyphen from `அதிகாரம் 5 - இல்வாழ்க்கை`;
+- scan 37 — `வேலை நிகழ்த்த` → `வேலை நிறுத்த`; `என இன்னும் மொண்டு தரும்` → `என இன்பம் மொண்டு தரும்`;
+- scan 38 — Kural spacing `இந்நோய்` → `இந் நோய்`;
+- scan 40 — `எழுதி காட்டுகிறார்` → `எழுதிக் காட்டுகிறார்`;
+- scan 42 — `பிறவி உள்ளது என` → `பிறவி உள்ளதென`;
+- scan 43 — `ஒரு பார்வையால் அவனுக்கு வேதனை உண்டாக்குகிறாள்` → `ஒரு பார்வையால் அவனுக்கு வேதனை உண்டாகிறது`.
 
-Scans **23, 25–26, 28–29, 31–33** required no page-record textual correction after direct source comparison.
+Scans **34, 39, 41 and 44** required no page-record textual correction after direct source comparison.
 
 Earlier source limitations remain:
 
@@ -86,13 +90,13 @@ Pass 2B must specifically look for character-level confusions such as `ர/ற`,
 If live `main` has not advanced beyond this frontier:
 
 1. continue **Part 001 Pass 2A — textual verification**;
-2. process **overall scans 34–44**;
+2. process **overall scans 45–55**;
 3. compare each existing Markdown page record directly against the rendered source scan;
 4. verify source-visible wording, punctuation, paragraph boundaries, headings, quoted/Kural text, printed-page metadata and separation of printed text from handwriting/stamps/other non-source marks;
 5. correct only what the controlling scan visibly supports;
 6. do not modernize, normalize, silently repair old/uncommon forms, or import a standard Kural reading from memory/web sources;
 7. append results to `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_001.md` without claiming Pass 2B or Pass 3 completion;
 8. preserve genuine source limitations as `partial` / `blocked`; never reconstruct from context;
-9. audit the changed-file set before advancing beyond scan 44.
+9. audit the changed-file set before advancing beyond scan 55.
 
 Do not restart Pass 1. Do not begin Pass 2B until Pass 2A reaches scan 111. Do not begin Pass 3, the Part audit, or English translation before both Pass 2A and Pass 2B are complete.
