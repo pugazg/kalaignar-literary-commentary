@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam Pass 1 through **scan 60**: **2026-09-03**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
+Last refreshed for Kuraloviyam Pass 1 through **scan 70**: **2026-09-03**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
 
 ## Repository
 
@@ -229,9 +229,9 @@ Confirmed:
 - scan 18: main body begins at printed page **1**, heading `பேராசிரியர்`;
 - scan 111: printed page **94**.
 
-## Kuraloviyam Part 001 Pass 1 — scans 1–60 COMPLETE
+## Kuraloviyam Part 001 Pass 1 — scans 1–70 COMPLETE
 
-Page-aligned records now exist continuously for **overall scans 1–60**:
+Page-aligned records now exist continuously for **overall scans 1–70**:
 
 - scans **1–3** — cover / title-publisher / edition-imprint;
 - scans **4–8 / printed iii–vii** — `முகப்புரை`;
@@ -256,22 +256,27 @@ Page-aligned records now exist continuously for **overall scans 1–60**:
 - scans **43–44 / printed 26–27** — lover/beloved gaze vignette;
 - scans **45–47 / printed 28–30** — boastful-youth / promised-feats vignette;
 - scans **48–49 / printed 31–32** — heart/dream vignette;
-- scans **50–51 / printed 33–34** — palanquin vignette and Valluvar's correction, ending with `அறத்தாறு இதுவென வேண்டா சிவிகை...`;
+- scans **50–51 / printed 33–34** — palanquin vignette and Valluvar's correction;
 - scans **52–53 / printed 35–36** — Ilango/Chenguttuvan renunciation vignette;
 - scans **54–55 / printed 37–38** — moon/maiden and beloved-shoulder vignette;
 - scans **56–57 / printed 39–40** — Valluvar/student discussion of sword-like and kin-like enemies;
 - scans **58–59 / printed 41–42** — interpretation of `தெய்வந் தொழாஅள்...` and rain imagery;
-- scan **60 / printed 43** — martial-history vignette begins and continues into scan 61.
+- scans **60–61 / printed 43–44** — martial-history / army-quality discussion ending with `மறமானம் மாண்ட வழிச்செலவு தேற்றம்...`;
+- scans **62–63 / printed 45–46** — separation/dream/eye-address vignette with multiple Kural blocks;
+- scans **64–65 / printed 47–48** — `திருநாடு` / `வளநாடு` governance contrast ending with `நாடொறும் நாடி முறைசெய்யா மன்னவன்...`;
+- scans **66–67 / printed 49–50** — கார்மேகம் / பூவழகி field vignette ending with `பயனில்சொல் பாராட்டு வானை மகனெனல்...`;
+- scans **68–69 / printed 51–52** — royal council / disloyal-minister vignette ending with `பழுதெண்ணும் மந்திரியிற் பக்கத்துள் தெவ்வோர்...`; scan 68 separately records handwritten `12800` and a library stamp;
+- scan **70 / printed 53** — illustrated love/eye vignette with `தாம்வீழ்வார் தம்வீழப் பெற்றவர்...` and `குவளை` comparison.
 
 Printed-text records remain `needs-review` / `visual_fidelity: needs-review` during Pass 1. The handwriting in scans 13–15 was not guessed or reconstructed.
 
-The scans 51–60 page-batch audit compared:
+The scans 61–70 page-batch audit compared:
 
-`6b78e804788c22f292ead41bbcfd9a9c4c70cdfa` → `c49f14637143ee40862b295d8888619a5bd95345`
+`f1ded1c0b3a92b3a0533d3bf23bbc0fe7a0f83ba` → `e8d7d7dcd01228662ffe18906c7d0176c8a0d861`
 
-and confirmed **10 sequential page commits** adding exactly the ten expected page records for scans 51–60 before documentation synchronization.
+and confirmed exactly the expected ten page files for scans **61–70** and no unrelated files. The comparison contains **11 commits** because scan 64 received one immediate source-image reread/correction before documentation synchronization.
 
-Do not reopen scans 1–60 merely for stylistic harmonization during Pass 1. Later textual and visual verification passes will perform the source-check gates.
+Do not reopen scans 1–70 merely for stylistic harmonization during Pass 1. Later textual and visual verification passes will perform the source-check gates.
 
 # Exact next activity — குறளோவியம்
 
@@ -279,8 +284,8 @@ Do not reopen scans 1–60 merely for stylistic harmonization during Pass 1. Lat
 2. complete the Kuraloviyam mandatory startup reading above;
 3. resolve the already supplied Part 001 PDF;
 4. continue **Part 001 Pass 1 physical capture/transcription**;
-5. process **overall scans 61–70**;
-6. continue directly from the martial-history vignette at printed page 43 into the next source pages and preserve physical-page continuity;
+5. process **overall scans 71–80**;
+6. continue directly from printed page 53 into the next source pages and preserve physical-page continuity;
 7. create one page-aligned Markdown record per physical scan under `works/kuraloviyam/pages/`;
 8. preserve source-visible wording and meaningful illustration/text relationships only;
 9. normally leave new records `needs-review` / `visual_fidelity: needs-review`;
