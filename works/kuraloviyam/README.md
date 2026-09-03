@@ -10,7 +10,7 @@ Canonical overall scan mapping:
 
 | Part | Overall scans | Supplied state | Tamil archival state |
 |---|---:|---|---|
-| 001 | 1–111 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | source intake complete; **Pass 1 captured through scan 60** |
+| 001 | 1–111 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | source intake complete; **Pass 1 captured through scan 70** |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -50,7 +50,7 @@ New Pass-1 page records normally remain `needs-review`. Genuinely unreadable han
 
 ## Part 001 Pass 1 progress
 
-**Scans 1–60 are captured continuously as 60 page-aligned Markdown records.**
+**Scans 1–70 are captured continuously as 70 page-aligned Markdown records.**
 
 Current record sequence:
 
@@ -82,9 +82,14 @@ Current record sequence:
 - scans **54–55 / printed 37–38** — moon/maiden and beloved-shoulder vignette, with `மதியும் மடந்தை...` and `தாம்வீழ்வார் மென்றோள்...`;
 - scans **56–57 / printed 39–40** — Valluvar/student discussion of sword-like and kin-like enemies, concluding with `வாள்போல் பகைவரை அஞ்சற்க...`;
 - scans **58–59 / printed 41–42** — interpretation of `தெய்வந் தொழாஅள்...`, including the rain comparison and citation pairing;
-- scan **60 / printed 43** — martial-history vignette begins and continues into scan 61.
+- scans **60–61 / printed 43–44** — martial-history / army-quality discussion, concluding with `மறமானம் மாண்ட வழிச்செலவு தேற்றம்...`;
+- scans **62–63 / printed 45–46** — illustrated separation, bodily decline, dream and eye-address vignette with multiple Kural blocks;
+- scans **64–65 / printed 47–48** — `திருநாடு` / `வளநாடு` governance contrast, concluding with `நாடொறும் நாடி முறைசெய்யா மன்னவன்...`;
+- scans **66–67 / printed 49–50** — கார்மேகம் / பூவழகி field vignette, concluding with `பயனில்சொல் பாராட்டு வானை மகனெனல்...`;
+- scans **68–69 / printed 51–52** — royal council / disloyal-minister vignette, concluding with `பழுதெண்ணும் மந்திரியிற் பக்கத்துள் தெவ்வோர்...`; scan 68 also preserves a handwritten `12800` and library stamp separately from body text;
+- scan **70 / printed 53** — illustrated love/eye vignette with `தாம்வீழ்வார் தம்வீழப் பெற்றவர்...` and the `குவளை`-eye comparison.
 
-Scans 1–12 and 16–60 remain `needs-review` / `visual_fidelity: needs-review` as required by Pass 1. Scans 13–15 are intentionally `partial` because the handwritten body is not safely legible word-for-word from the supplied scan; no handwriting was reconstructed from context.
+Scans 1–12 and 16–70 remain `needs-review` / `visual_fidelity: needs-review` as required by Pass 1. Scans 13–15 are intentionally `partial` because the handwritten body is not safely legible word-for-word from the supplied scan; no handwriting was reconstructed from context.
 
 ## Batch audits
 
@@ -132,19 +137,27 @@ Batch base → page-head:
 
 GitHub comparison confirmed **10 sequential commits** adding exactly the expected page records for scans **51–60** and no unrelated files in the page batch.
 
+### Scans 61–70
+
+Batch base → page-head:
+
+`f1ded1c0b3a92b3a0533d3bf23bbc0fe7a0f83ba` → `e8d7d7dcd01228662ffe18906c7d0176c8a0d861`
+
+GitHub comparison confirmed **exactly the expected ten page files for scans 61–70 and no unrelated files**. The comparison contains **11 commits** because scan 64 received one immediate source-image reread/correction before batch synchronization.
+
 ## Current status
 
 **Part 001 source intake: COMPLETE.**
 
-**Part 001 Pass 1: scans 1–60 COMPLETE; scans 61–111 pending.**
+**Part 001 Pass 1: scans 1–70 COMPLETE; scans 71–111 pending.**
 
 No textual verification, meaningful visual verification, part audit or English translation is being claimed yet.
 
 ## Next activity
 
-Continue **Part 001 Pass 1** with **overall scans 61–70**:
+Continue **Part 001 Pass 1** with **overall scans 71–80**:
 
-- continue directly from the martial-history vignette boundary at printed page 43 into the next source pages;
+- continue directly from printed page 53 into the next source pages;
 - create exactly one Markdown record per physical scan;
 - preserve source-visible wording only;
 - preserve illustrations and their relationship to surrounding prose;
