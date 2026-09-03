@@ -16,7 +16,7 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 # குறளோவியம்
 
-கலைஞர் மு. கருணாநிதி
+கலைஞர் மு.கருணாநிதி
 
 ## பாரதி பதிப்பகம்
 
