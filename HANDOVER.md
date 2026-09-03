@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam Pass 1 through **scan 100**: **2026-09-03**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
+Last refreshed for Kuraloviyam **Part 001 Pass 1 complete through scan 111**: **2026-09-03**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
 
 ## Repository
 
@@ -229,41 +229,42 @@ Confirmed:
 - scan 18: main body begins at printed page **1**, heading `பேராசிரியர்`;
 - scan 111: printed page **94**.
 
-## Kuraloviyam Part 001 Pass 1 — scans 1–100 COMPLETE
+## Kuraloviyam Part 001 Pass 1 — COMPLETE
 
-Page-aligned records now exist continuously for **overall scans 1–100**.
+Page-aligned records now exist continuously for **overall scans 1–111: 111 / 111 physical scans captured**.
 
-Recent completed ranges:
+Final captured ranges:
 
-- scans **71–80 / printed 54–63** — beauty/eyes; freedom-fighter/assembly; travelling-family gratitude; oppressive-rule uprising; tearful-eye love-sickness; old-age/gambling analogy;
-- scans **81–90 / printed 64–73** — mirror/pallor; victorious king/Valluvar; dream-of-lover; overreaching-prince/uprising; love-sickness/shame/pallor;
-- scans **91–92 / printed 74–75** — contrasting public judgments of two commanders, concluding with `கணைகொடிது யாழ்கோடு...`;
-- scans **93–94 / printed 76–77** — public-announcement / eye-as-drum vignette with `மறைபெறல் ஊரார்க்கு...` and `வாராக்கால் துஞ்சா...`;
-- scans **95–96 / printed 78–79** — young poet / கயல்விழி prospective-bride vignette, concluding with `கண்ணுடையர் என்பவர் கற்றோர்...`;
-- scans **97–98 / printed 80–81** — flower/eye, reunion and momentary-separation vignette with `சிறுமை நமக்கொழியச்...` and `முயக்கிடைத் தண்வளி...`;
-- scans **99–100 / printed 82–83** — `ஊர்க்காவலன்` / tiger-danger vignette begins; the guardian repeatedly postpones promised action and the narrative continues into scan 101.
+- scans **99–101 / printed 82–84** — `ஊர்க்காவலன்` / tiger-danger vignette; delayed action leaves villagers to kill the tiger themselves, concluding with `நெடுநீர் மறவி மடிதுயில்...`;
+- scans **102–103 / printed 85–86** — lovers / waiting / planned `ஊடல்`, concluding with `புலப்பல் எனச்சென்றேன்...`;
+- scans **104–105 / printed 87–88** — வில்லவன் / unreliable-horse vignette, concluding with `அமரகத்து ஆற்றறுக்கும்...`;
+- scans **106–107 / printed 89–90** — கலிங்கன்–கதிரவன் anger-control vignette, concluding with `செல்லிடத்துக் காப்பான்...`;
+- scan **108 / printed 91** — lover-away / wall-tally vignette, concluding with `வாளற்றுப் புற்கென்ற...`;
+- scans **109–111 / printed 92–94** — learned-speaker / assembly vignette, concluding with `விரைந்து தொழில்கேட்கும்...` and `இணரூழ்த்தும் நாறா...`.
 
-Printed-text records remain `needs-review` / `visual_fidelity: needs-review` during Pass 1. Scans 13–15 remain source-limited `partial`; their handwriting must not be guessed or reconstructed.
+Printed-text records remain `needs-review` / `visual_fidelity: needs-review` after Pass 1. Scans **13–15** remain source-limited `partial`; their handwriting must not be guessed or reconstructed.
 
-The scans 91–100 page-batch audit compared:
+Final Pass-1 page-batch audit:
 
-`2847046061f0fd41e8214f2567008fd58449522f` → `e9752f7a0bd70b080cad0882cc8c05e6b5263de2`
+`a7898940a9935cc86b659c4dac9fe5e8c09401b4` → `bc45693fedf1619bc839fc516f6c19f0fa408be5`
 
-and confirmed **10 sequential page commits**, exactly the expected ten page files for scans **91–100**, and no unrelated file changes.
+The comparison confirmed **11 sequential page commits**, exactly the expected eleven page files for scans **101–111**, and no unrelated file changes.
 
-Do not reopen scans 1–100 merely for stylistic harmonization during Pass 1. Later textual and visual verification passes will perform the source-check gates.
+Do not restart Pass 1 merely for stylistic harmonization. Pass 2 and Pass 3 are the source-check gates.
 
 # Exact next activity — குறளோவியம்
 
 1. fetch live `main`;
 2. complete the Kuraloviyam mandatory startup reading above;
 3. resolve the already supplied Part 001 PDF;
-4. continue **Part 001 Pass 1 physical capture/transcription**;
-5. process **overall scans 101–110**;
-6. continue directly from the `ஊர்க்காவலன்` / tiger-danger narrative at printed page 83 into the next source pages;
-7. create one page-aligned Markdown record per physical scan under `works/kuraloviyam/pages/`;
-8. preserve source-visible wording and meaningful illustration/text relationships only;
-9. normally leave new records `needs-review` / `visual_fidelity: needs-review`;
-10. audit the changed-file set and record the frontier before final Part 001 scan 111.
+4. begin **Part 001 Pass 2 — textual verification**;
+5. process **overall scans 1–10**;
+6. compare each existing Markdown page record directly against the rendered source scan;
+7. verify source-visible wording, punctuation, paragraph boundaries, headings, quoted/Kural text, printed-page metadata and separation of printed text from handwriting/stamps/other non-source marks;
+8. correct only what the controlling scan visibly supports;
+9. do not modernize, normalize or replace wording from memory/web sources;
+10. do not claim Pass 3 visual-text verification during this textual-verification batch;
+11. preserve genuine source limitations as `partial` / `blocked` where applicable;
+12. audit the changed-file set before advancing to scans 11–20.
 
-Do not jump to verification, part audit or English translation before Part 001 Pass 1 is complete.
+Do not restart Pass 1. Do not begin Pass 3, the Part audit or English translation before Part 001 Pass 2 is complete.
