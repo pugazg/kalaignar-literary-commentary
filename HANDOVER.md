@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam Pass 1 through **scan 80**: **2026-09-03**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
+Last refreshed for Kuraloviyam Pass 1 through **scan 100**: **2026-09-03**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
 
 ## Repository
 
@@ -229,60 +229,29 @@ Confirmed:
 - scan 18: main body begins at printed page **1**, heading `பேராசிரியர்`;
 - scan 111: printed page **94**.
 
-## Kuraloviyam Part 001 Pass 1 — scans 1–80 COMPLETE
+## Kuraloviyam Part 001 Pass 1 — scans 1–100 COMPLETE
 
-Page-aligned records now exist continuously for **overall scans 1–80**:
+Page-aligned records now exist continuously for **overall scans 1–100**.
 
-- scans **1–3** — cover / title-publisher / edition-imprint;
-- scans **4–8 / printed iii–vii** — `முகப்புரை`;
-- scans **9–12 / printed viii–xi** — `மதிப்புரை` through its conclusion;
-- scans **13–15 / printed xii–xiv** — handwritten/facsimile prefaces, retained `partial` where a safe word-for-word reading is not possible;
-- scan **16 / printed xv** — first-edition photograph / commemorative note;
-- scan **17 / printed xvi** — `ஆறாம் பதிப்பின் பதிப்புரை`;
-- scans **18–20 / printed 1–3** — `பேராசிரியர்`;
-- scan **21 / printed 4** — `மகா வித்துவான் தண்டபாணி தேசிகர்`;
-- scans **22–23 / printed 5–6** — `டாக்டர் வ.சுப.மாணிக்கம்`;
-- scan **24 / printed 7** — `மதுரை யாதவர் கல்லூரி முதல்வர் தமிழ்க்குடிமகன்`;
-- scan **25 / printed 8** — `காசி ஆனந்தன்`;
-- scans **26–27 / printed 9–10** — `ஆட்சிமொழிக் காவலர் இராமலிங்கனார்`;
-- scan **28 / printed 11** — `ஆசிரியர் சாவி`;
-- scan **29 / printed 12** — `டாக்டர் மெ.சுந்தரம்`;
-- scan **30 / printed 13** — `டாக்டர் மா.நன்னன்`;
-- scan **31 / printed 14** — `கலைஞர் ஏற்புரை`;
-- scan **32** — section-title leaf `கலைஞரின் குறளோவியம்`, with no printed page number claimed;
-- scan **33 / printed 16** — blank source-side leaf with reverse-side bleed-through only;
-- scans **34–40 / printed 17–23** — opening illustrated/body sequence of `கலைஞரின் குறளோவியம்`;
-- scans **41–42 / printed 24–25** — education/rebirth and `மெய்யுணர்தல்` discussion;
-- scans **43–44 / printed 26–27** — lover/beloved gaze vignette;
-- scans **45–47 / printed 28–30** — boastful-youth / promised-feats vignette;
-- scans **48–49 / printed 31–32** — heart/dream vignette;
-- scans **50–51 / printed 33–34** — palanquin vignette and Valluvar's correction;
-- scans **52–53 / printed 35–36** — Ilango/Chenguttuvan renunciation vignette;
-- scans **54–55 / printed 37–38** — moon/maiden and beloved-shoulder vignette;
-- scans **56–57 / printed 39–40** — Valluvar/student discussion of sword-like and kin-like enemies;
-- scans **58–59 / printed 41–42** — interpretation of `தெய்வந் தொழாஅள்...` and rain imagery;
-- scans **60–61 / printed 43–44** — martial-history / army-quality discussion;
-- scans **62–63 / printed 45–46** — separation/dream/eye-address vignette;
-- scans **64–65 / printed 47–48** — `திருநாடு` / `வளநாடு` governance contrast;
-- scans **66–67 / printed 49–50** — கார்மேகம் / பூவழகி field vignette;
-- scans **68–69 / printed 51–52** — royal council / disloyal-minister vignette; scan 68 separately records handwritten `12800` and a library stamp;
-- scan **70 / printed 53** — illustrated love/eye vignette;
-- scan **71 / printed 54** — beauty/eyes continuation with `அனிச்சமும் அன்னத்தின் தூவியும்...` and `கருமணியிற் பாவாய்நீ...`;
-- scans **72–73 / printed 55–56** — freedom-fighter / assembly-speech vignette ending with `அவையறியார் சொல்லல்மேற்...`;
-- scans **74–75 / printed 57–58** — robbed travelling family / fruit-seller gratitude vignette ending with `அற்றார் அழிபசி தீர்த்தல்...`;
-- scans **76–77 / printed 59–60** — oppressive-rule / uprising vignette ending with `அல்லற்பட்டு ஆற்றாது...`;
-- scan **78 / printed 61** — illustrated tearful-eye / love-sickness vignette ending with `ஓஒ இனிதே எமக்கிந்நோய்...`;
-- scans **79–80 / printed 62–63** — old-age / illness / gambling analogy ending with `இழத்தொறூஉம் காதலிக்கும்...` and printed glosses.
+Recent completed ranges:
 
-Printed-text records remain `needs-review` / `visual_fidelity: needs-review` during Pass 1. The handwriting in scans 13–15 was not guessed or reconstructed.
+- scans **71–80 / printed 54–63** — beauty/eyes; freedom-fighter/assembly; travelling-family gratitude; oppressive-rule uprising; tearful-eye love-sickness; old-age/gambling analogy;
+- scans **81–90 / printed 64–73** — mirror/pallor; victorious king/Valluvar; dream-of-lover; overreaching-prince/uprising; love-sickness/shame/pallor;
+- scans **91–92 / printed 74–75** — contrasting public judgments of two commanders, concluding with `கணைகொடிது யாழ்கோடு...`;
+- scans **93–94 / printed 76–77** — public-announcement / eye-as-drum vignette with `மறைபெறல் ஊரார்க்கு...` and `வாராக்கால் துஞ்சா...`;
+- scans **95–96 / printed 78–79** — young poet / கயல்விழி prospective-bride vignette, concluding with `கண்ணுடையர் என்பவர் கற்றோர்...`;
+- scans **97–98 / printed 80–81** — flower/eye, reunion and momentary-separation vignette with `சிறுமை நமக்கொழியச்...` and `முயக்கிடைத் தண்வளி...`;
+- scans **99–100 / printed 82–83** — `ஊர்க்காவலன்` / tiger-danger vignette begins; the guardian repeatedly postpones promised action and the narrative continues into scan 101.
 
-The scans 71–80 page-batch audit compared:
+Printed-text records remain `needs-review` / `visual_fidelity: needs-review` during Pass 1. Scans 13–15 remain source-limited `partial`; their handwriting must not be guessed or reconstructed.
 
-`11dcca9eb78cb4daa8bbcbe8df20a9f9c8627a92` → `9d5117e8bccab8a0591ed4c4b57e9e34201b23b1`
+The scans 91–100 page-batch audit compared:
 
-and confirmed **10 sequential page commits**, exactly the expected ten page files for scans **71–80**, and no unrelated file changes.
+`2847046061f0fd41e8214f2567008fd58449522f` → `e9752f7a0bd70b080cad0882cc8c05e6b5263de2`
 
-Do not reopen scans 1–80 merely for stylistic harmonization during Pass 1. Later textual and visual verification passes will perform the source-check gates.
+and confirmed **10 sequential page commits**, exactly the expected ten page files for scans **91–100**, and no unrelated file changes.
+
+Do not reopen scans 1–100 merely for stylistic harmonization during Pass 1. Later textual and visual verification passes will perform the source-check gates.
 
 # Exact next activity — குறளோவியம்
 
@@ -290,11 +259,11 @@ Do not reopen scans 1–80 merely for stylistic harmonization during Pass 1. Lat
 2. complete the Kuraloviyam mandatory startup reading above;
 3. resolve the already supplied Part 001 PDF;
 4. continue **Part 001 Pass 1 physical capture/transcription**;
-5. process **overall scans 81–90**;
-6. continue directly from printed page 63 into the next source pages and preserve physical-page continuity;
+5. process **overall scans 101–110**;
+6. continue directly from the `ஊர்க்காவலன்` / tiger-danger narrative at printed page 83 into the next source pages;
 7. create one page-aligned Markdown record per physical scan under `works/kuraloviyam/pages/`;
 8. preserve source-visible wording and meaningful illustration/text relationships only;
 9. normally leave new records `needs-review` / `visual_fidelity: needs-review`;
-10. audit the changed-file set and record the next frontier.
+10. audit the changed-file set and record the frontier before final Part 001 scan 111.
 
-Do not jump to verification, part audit or English translation before the relevant Tamil Pass-1 capture gate is complete.
+Do not jump to verification, part audit or English translation before Part 001 Pass 1 is complete.
