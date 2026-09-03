@@ -10,7 +10,7 @@ Canonical overall scan mapping:
 
 | Part | Overall scans | Supplied state | Tamil archival state |
 |---|---:|---|---|
-| 001 | 1–111 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | source intake complete; **Pass 1 captured through scan 50** |
+| 001 | 1–111 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | source intake complete; **Pass 1 captured through scan 60** |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -50,7 +50,7 @@ New Pass-1 page records normally remain `needs-review`. Genuinely unreadable han
 
 ## Part 001 Pass 1 progress
 
-**Scans 1–50 are captured continuously as 50 page-aligned Markdown records.**
+**Scans 1–60 are captured continuously as 60 page-aligned Markdown records.**
 
 Current record sequence:
 
@@ -77,9 +77,14 @@ Current record sequence:
 - scans **43–44 / printed 26–27** — illustrated lover/beloved gaze vignette and its Kurals;
 - scans **45–47 / printed 28–30** — boastful-youth / promised-feats narrative concluding with `சொல்லுதல் யார்க்கும் எளிய...`;
 - scans **48–49 / printed 31–32** — illustrated heart/dream vignette concluding with `உறாஅர்க்கு உறுநோய்...`;
-- scan **50 / printed 33** — palanquin vignette begins and continues into scan 51.
+- scans **50–51 / printed 33–34** — palanquin vignette, concluding with `அறத்தாறு இதுவென வேண்டா சிவிகை...`;
+- scans **52–53 / printed 35–36** — Ilango/Chenguttuvan renunciation vignette, concluding with `அற்றேமென்று அல்லற் படுபவோ...`;
+- scans **54–55 / printed 37–38** — moon/maiden and beloved-shoulder vignette, with `மதியும் மடந்தை...` and `தாம்வீழ்வார் மென்றோள்...`;
+- scans **56–57 / printed 39–40** — Valluvar/student discussion of sword-like and kin-like enemies, concluding with `வாள்போல் பகைவரை அஞ்சற்க...`;
+- scans **58–59 / printed 41–42** — interpretation of `தெய்வந் தொழாஅள்...`, including the rain comparison and citation pairing;
+- scan **60 / printed 43** — martial-history vignette begins and continues into scan 61.
 
-Scans 1–12 and 16–50 remain `needs-review` / `visual_fidelity: needs-review` as required by Pass 1. Scans 13–15 are intentionally `partial` because the handwritten body is not safely legible word-for-word from the supplied scan; no handwriting was reconstructed from context.
+Scans 1–12 and 16–60 remain `needs-review` / `visual_fidelity: needs-review` as required by Pass 1. Scans 13–15 are intentionally `partial` because the handwritten body is not safely legible word-for-word from the supplied scan; no handwriting was reconstructed from context.
 
 ## Batch audits
 
@@ -119,19 +124,27 @@ Batch base → page-head:
 
 GitHub comparison confirmed **10 sequential commits** adding exactly the expected page records for scans **41–50** and no unrelated files in the page batch.
 
+### Scans 51–60
+
+Batch base → page-head:
+
+`6b78e804788c22f292ead41bbcfd9a9c4c70cdfa` → `c49f14637143ee40862b295d8888619a5bd95345`
+
+GitHub comparison confirmed **10 sequential commits** adding exactly the expected page records for scans **51–60** and no unrelated files in the page batch.
+
 ## Current status
 
 **Part 001 source intake: COMPLETE.**
 
-**Part 001 Pass 1: scans 1–50 COMPLETE; scans 51–111 pending.**
+**Part 001 Pass 1: scans 1–60 COMPLETE; scans 61–111 pending.**
 
 No textual verification, meaningful visual verification, part audit or English translation is being claimed yet.
 
 ## Next activity
 
-Continue **Part 001 Pass 1** with **overall scans 51–60**:
+Continue **Part 001 Pass 1** with **overall scans 61–70**:
 
-- continue directly from the palanquin vignette boundary at printed page 33 into the next source pages;
+- continue directly from the martial-history vignette boundary at printed page 43 into the next source pages;
 - create exactly one Markdown record per physical scan;
 - preserve source-visible wording only;
 - preserve illustrations and their relationship to surrounding prose;
