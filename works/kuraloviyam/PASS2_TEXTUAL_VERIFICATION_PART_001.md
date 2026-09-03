@@ -92,6 +92,24 @@ Pass 2B will re-read every printed word against the rendered scan, with special 
 | 43 | 26 | corrected `ஒரு பார்வையால் அவனுக்கு வேதனை உண்டாக்குகிறாள்` → source-visible `ஒரு பார்வையால் அவனுக்கு வேதனை உண்டாகிறது` |
 | 44 | 27 | lover/beloved gaze continuation and both Kural blocks compared directly; wording and printed page metadata confirmed; no correction required |
 
+## Batch 5 — overall scans 45–55
+
+**Status: COMPLETE — 11 / 11 scans directly compared with the rendered source scan for Pass 2A.**
+
+| Scan | Printed page | Result |
+|---:|---|---|
+| 45 | 28 | corrected boast wording `மலையைக் கயிறாகத்` → source-visible `மணலைக் கயிறாகத்` |
+| 46 | 29 | boastful-youth continuation compared directly; wording and printed page metadata confirmed; no correction required |
+| 47 | 30 | corrected `திருக்குறள் பூங்காத்தில் உள்ளதா?` → source-visible `திருக்குறள் புழக்கத்தில் உள்ளதா?` |
+| 48 | 31 | illustrated heart/shore-sand vignette opening compared directly; wording and printed page metadata confirmed; no correction required |
+| 49 | 32 | corrected `என்பதைக் தெளிவாக` → `என்பதைத் தெளிவாக` and `உணர்ந்து கொண்டேன்` → source-visible `உணர்ந்துகொண்டேன்` |
+| 50 | 33 | palanquin vignette opening compared directly; wording and printed page metadata confirmed; no correction required |
+| 51 | 34 | palanquin interpretation conclusion and Kural compared directly; wording and printed page metadata confirmed; no correction required |
+| 52 | 35 | Ilango/Chenguttuvan vignette opening compared directly; wording and printed page metadata confirmed; no correction required |
+| 53 | 36 | Ilango renunciation continuation, Kural and gloss compared directly; wording and printed page metadata confirmed; no correction required |
+| 54 | 37 | removed non-source duplicate punctuation `அதற்கு இதோ குறள்: :` → source-visible `அதற்கு இதோ குறள்:` |
+| 55 | 38 | moon/couple vignette conclusion, Kural and printed citation lines compared directly; no correction required |
+
 ## Batch audit rule
 
 Pass 2A changes only page records where the direct scan comparison finds a source-supported correction or confirms a source limitation requiring a status change. Unchanged page records are not rewritten merely to create commits; their completed Pass 2A result is recorded in this log.
@@ -100,8 +118,8 @@ Pass 2A changes only page records where the direct scan comparison finds a sourc
 
 ## Current Pass 2A frontier
 
-Part 001 Pass 2A textual verification is complete through **overall scan 44**.
+Part 001 Pass 2A textual verification is complete through **overall scan 55**.
 
-**Exact next batch: overall scans 45–55.**
+**Exact next batch: overall scans 56–66.**
 
 Known source-limited pages remain source-limited; do not reconstruct unclear handwriting or physically lost/washed-out printed text from context.
