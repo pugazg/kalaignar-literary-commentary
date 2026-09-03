@@ -85,7 +85,7 @@ The comparison confirmed **11 sequential page commits**, exactly the expected el
 If live `main` has not advanced beyond this frontier:
 
 1. begin **Part 001 Pass 2 — textual verification**;
-2. process **overall scans 1–10**;
+2. process **overall scans 1–11**;
 3. compare each existing Markdown page record directly against the rendered source scan;
 4. verify source-visible wording, punctuation, paragraph boundaries, headings, quoted/Kural text, printed-page metadata and separation of printed text from handwriting/stamps/other non-source marks;
 5. correct only what the controlling scan visibly supports;
