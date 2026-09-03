@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for the Kuraloviyam source intake: **2026-09-03**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
+Last refreshed for Kuraloviyam Pass 1 through **scan 10**: **2026-09-03**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
 
 ## Repository
 
@@ -175,7 +175,7 @@ Do not restart Pass 1. Do not resume scan-led lexical Pass 2 at scan 14.
 - semantic provenance complete for **3 பால் / 13 இயல் / 133 அதிகாரம் / 1,330 குறள்**;
 - final structure audit PASS.
 
-# New source-ready work — குறளோவியம்
+# Active source-ready work — குறளோவியம்
 
 The user supplied the first split of the Kuraloviyam source on **2026-09-03**.
 
@@ -229,18 +229,37 @@ Confirmed:
 - scan 18: main body begins at printed page **1**, heading `பேராசிரியர்`;
 - scan 111: printed page **94**.
 
-No Kuraloviyam page-transcription batch is complete yet unless live `main` has advanced beyond this handover.
+## Kuraloviyam Part 001 Pass 1 — scans 1–10 COMPLETE
+
+Page-aligned records now exist continuously for **overall scans 1–10**:
+
+- scans **1–3** — cover / title-publisher / edition-imprint;
+- scans **4–8 / printed iii–vii** — `முகப்புரை`;
+- scans **9–10 / printed viii–ix** — `மதிப்புரை` opening and continuation.
+
+All ten page records intentionally remain `needs-review` / `visual_fidelity: needs-review` during Pass 1.
+
+Non-printed/source-adjacent marks were kept separate from printed prose where encountered, including the scan-3 handwritten numeric mark, scan-4 library stamp and scan-8 handwritten signature mark.
+
+The page-batch audit compared:
+
+`9da4d07f34d4d0b8f89735827725a0d72056d692` → `a88a032baad50a7fff30ffdf0a47a98a1c8cf6a9`
+
+and confirmed **10 sequential page commits** and exactly **10 page records** for scans 1–10 before documentation synchronization.
+
+Do not reopen scans 1–10 merely for stylistic harmonization during Pass 1. Later textual and visual verification passes will perform the source-check gates.
 
 # Exact next activity — குறளோவியம்
 
 1. fetch live `main`;
 2. complete the Kuraloviyam mandatory startup reading above;
 3. resolve the already supplied Part 001 PDF;
-4. begin **Part 001 Pass 1 physical capture/transcription**;
-5. process **overall scans 1–10**;
-6. create one page-aligned Markdown record per physical scan under `works/kuraloviyam/pages/`;
-7. preserve source-visible wording only and distinguish printed text from handwriting/stamps/illustrations;
-8. normally leave new records `needs-review` / `visual_fidelity: needs-review`;
-9. audit the changed-file set and record the next frontier.
+4. continue **Part 001 Pass 1 physical capture/transcription**;
+5. process **overall scans 11–20**;
+6. continue the `மதிப்புரை` from the scan-10 boundary and preserve physical-page continuity;
+7. create one page-aligned Markdown record per physical scan under `works/kuraloviyam/pages/`;
+8. preserve source-visible wording only and distinguish printed text from handwriting/stamps/illustrations;
+9. normally leave new records `needs-review` / `visual_fidelity: needs-review`;
+10. audit the changed-file set and record the next frontier.
 
 Do not jump to verification, part audit or English translation before the relevant Tamil Pass-1 capture gate is complete.
