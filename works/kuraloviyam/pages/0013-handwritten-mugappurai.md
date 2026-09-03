@@ -8,13 +8,13 @@ section: "front-matter — முகப்புரை facsimile"
 page_type: "handwritten-facsimile"
 status: "partial"
 visual_fidelity: "needs-review"
-visual_notes: "printed decorative heading above a full-page handwritten facsimile; handwritten signature at lower right; handwritten date 17/7/1992 at lower left; roman page number xii"
+visual_notes: "printed decorative heading `மூன்றாம் பதிப்பின் முகப்புரை` above a full-page handwritten facsimile; handwritten signature at lower right; handwritten date 17/7/1992 at lower left; roman page number xii"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf"
 transcription_method: "direct visual capture from rendered scan; handwriting intentionally not guessed in Pass 1"
 ---
 
-# முன்னாம் பதிப்பின் முகப்புரை
+# மூன்றாம் பதிப்பின் முகப்புரை
 
 ## Handwritten facsimile
 
