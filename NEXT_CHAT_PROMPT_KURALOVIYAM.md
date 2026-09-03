@@ -59,71 +59,40 @@ Part 001 source intake is complete:
 - scan 18: main body begins at printed page 1, heading `பேராசிரியர்`;
 - scan 111: printed page 94.
 
-Part 001 Pass 1 is complete continuously through **overall scan 80**:
+Part 001 Pass 1 is complete continuously through **overall scan 100**. Exactly **100 page-aligned records** exist for scans 1–100.
 
-- scans **1–3** — cover / title-publisher / edition-imprint;
-- scans **4–8 / printed iii–vii** — `முகப்புரை`;
-- scans **9–12 / printed viii–xi** — `மதிப்புரை` through its conclusion;
-- scans **13–15 / printed xii–xiv** — handwritten/facsimile prefaces; intentionally `partial` where handwriting cannot safely be established word-for-word;
-- scan **16 / printed xv** — first-edition photograph and commemorative note;
-- scan **17 / printed xvi** — `ஆறாம் பதிப்பின் பதிப்புரை`;
-- scans **18–20 / printed 1–3** — `பேராசிரியர்`;
-- scan **21 / printed 4** — `மகா வித்துவான் தண்டபாணி தேசிகர்`;
-- scans **22–23 / printed 5–6** — `டாக்டர் வ.சுப.மாணிக்கம்`;
-- scan **24 / printed 7** — `மதுரை யாதவர் கல்லூரி முதல்வர் தமிழ்க்குடிமகன்`;
-- scan **25 / printed 8** — `காசி ஆனந்தன்`;
-- scans **26–27 / printed 9–10** — `ஆட்சிமொழிக் காவலர் இராமலிங்கனார்`;
-- scan **28 / printed 11** — `ஆசிரியர் சாவி`;
-- scan **29 / printed 12** — `டாக்டர் மெ.சுந்தரம்`;
-- scan **30 / printed 13** — `டாக்டர் மா.நன்னன்`;
-- scan **31 / printed 14** — `கலைஞர் ஏற்புரை`;
-- scan **32** — `கலைஞரின் குறளோவியம்` section-title leaf; no printed page number claimed;
-- scan **33 / printed 16** — blank source-side page with reverse-side show-through only;
-- scans **34–40 / printed 17–23** — opening illustrated/body sequence of `கலைஞரின் குறளோவியம்`;
-- scans **41–42 / printed 24–25** — education/rebirth and `மெய்யுணர்தல்` discussion;
-- scans **43–44 / printed 26–27** — lover/beloved gaze vignette;
-- scans **45–47 / printed 28–30** — boastful-youth / promised-feats vignette;
-- scans **48–49 / printed 31–32** — heart/dream vignette;
-- scans **50–51 / printed 33–34** — palanquin vignette and Valluvar's correction;
-- scans **52–53 / printed 35–36** — Ilango/Chenguttuvan renunciation vignette;
-- scans **54–55 / printed 37–38** — moon/maiden and beloved-shoulder vignette;
-- scans **56–57 / printed 39–40** — Valluvar/student discussion of sword-like and kin-like enemies;
-- scans **58–59 / printed 41–42** — interpretation of `தெய்வந் தொழாஅள்...` and rain imagery;
-- scans **60–61 / printed 43–44** — martial-history / army-quality discussion;
-- scans **62–63 / printed 45–46** — separation/dream/eye-address vignette;
-- scans **64–65 / printed 47–48** — `திருநாடு` / `வளநாடு` governance contrast;
-- scans **66–67 / printed 49–50** — கார்மேகம் / பூவழகி field vignette;
-- scans **68–69 / printed 51–52** — royal council / disloyal-minister vignette; scan 68 separately records handwritten `12800` and a library stamp;
-- scan **70 / printed 53** — illustrated love/eye vignette;
-- scan **71 / printed 54** — beauty/eyes continuation with two Kural blocks;
-- scans **72–73 / printed 55–56** — freedom-fighter / assembly-speech vignette;
-- scans **74–75 / printed 57–58** — robbed travelling family / fruit-seller gratitude vignette;
-- scans **76–77 / printed 59–60** — oppressive-rule / uprising vignette;
-- scan **78 / printed 61** — illustrated tearful-eye / love-sickness vignette;
-- scans **79–80 / printed 62–63** — old-age / illness / gambling analogy.
+Recent completed batches:
 
-Exactly **80 page-aligned records** now exist continuously for scans 1–80. Pass-1 printed-text records remain `needs-review` / `visual_fidelity: needs-review`; scans 13–15 are source-limited `partial` and must not be silently reconstructed.
+- scans **71–80 / printed 54–63** — beauty/eyes; freedom-fighter/assembly; travelling-family gratitude; oppressive-rule uprising; tearful-eye love-sickness; old-age/gambling analogy;
+- scans **81–90 / printed 64–73** — mirror/pallor; victorious king/Valluvar; dream-of-lover; overreaching-prince/uprising; love-sickness/shame/pallor;
+- scans **91–92 / printed 74–75** — contrasting public judgments of two commanders, concluding with `கணைகொடிது யாழ்கோடு...`;
+- scans **93–94 / printed 76–77** — public-announcement / eye-as-drum vignette, with `மறைபெறல் ஊரார்க்கு...` and `வாராக்கால் துஞ்சா...`;
+- scans **95–96 / printed 78–79** — young poet / கயல்விழி prospective-bride vignette, concluding with `கண்ணுடையர் என்பவர் கற்றோர்...`;
+- scans **97–98 / printed 80–81** — flowers, tearful eyes, reunion and momentary separation, with `சிறுமை நமக்கொழியச்...` and `முயக்கிடைத் தண்வளி...`;
+- scans **99–100 / printed 82–83** — `ஊர்க்காவலன்` / tiger-danger vignette begins and continues beyond scan 100.
+
+Pass-1 printed-text records remain `needs-review` / `visual_fidelity: needs-review`. Scans 13–15 remain source-limited `partial`; do not reconstruct their handwriting.
 
 Latest page-batch audit:
 
-`11dcca9eb78cb4daa8bbcbe8df20a9f9c8627a92` → `9d5117e8bccab8a0591ed4c4b57e9e34201b23b1`
+`2847046061f0fd41e8214f2567008fd58449522f` → `e9752f7a0bd70b080cad0882cc8c05e6b5263de2`
 
-The comparison confirmed **10 sequential page commits**, exactly the expected ten page files for scans **71–80**, and no unrelated file changes.
+The comparison confirmed **10 sequential page commits**, exactly the expected ten page files for scans **91–100**, and no unrelated file changes.
 
 ## Exact next activity
 
 If live `main` has not advanced beyond this frontier:
 
 1. continue **Part 001 Pass 1**;
-2. process **overall scans 81–90**;
+2. process **overall scans 101–110**;
 3. create exactly one Markdown record per physical scan under `works/kuraloviyam/pages/`;
-4. continue directly from printed page 63 into the next source pages and preserve physical-page continuity;
+4. continue directly from the `ஊர்க்காவலன்` / tiger-danger narrative at printed page 83 into the next source pages;
 5. transcribe only source-supported visible text;
 6. preserve source-supported illustration/text relationships and printed pagination;
 7. distinguish printed prose from signatures, handwriting, stamps, photographs and illustrations;
 8. use overall `scan_page`, `part: 1`, and local `part_page`;
 9. normally leave new records `needs-review` / `visual_fidelity: needs-review`;
 10. do not replace printed Kural or quoted wording from memory/web sources;
-11. audit the changed-file set, then record the next frontier.
+11. audit the changed-file set, then record the frontier before the final Part 001 scan 111.
 
-Do not reopen scans 1–80 merely for stylistic harmonization during Pass 1. Do not jump to textual verification, visual verification, part audit or English translation before Pass 1 capture for the relevant source unit is complete.
+Do not reopen scans 1–100 merely for stylistic harmonization during Pass 1. Do not jump to textual verification, visual verification, part audit or English translation before Part 001 Pass 1 is complete.
