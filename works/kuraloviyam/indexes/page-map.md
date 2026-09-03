@@ -8,7 +8,7 @@ Individual page records under `pages/` are authoritative for exact captured word
 
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
-| 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **source intake complete; Pass 1 through scan 50** |
+| 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **source intake complete; Pass 1 through scan 60** |
 | 002 | 112–222 | 1–111 | not yet inspected | not-started |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
@@ -69,7 +69,17 @@ Individual page records under `pages/` are authoritative for exact captured word
 | 48 | 48 | 31 | illustrated heart/dream vignette begins | captured — `0048-kuraloviyam-31.md` |
 | 49 | 49 | 32 | heart/dream vignette conclusion; Kural `உறாஅர்க்கு உறுநோய்...` | captured — `0049-kuraloviyam-32.md` |
 | 50 | 50 | 33 | illustrated palanquin vignette begins; continuation follows | captured — `0050-kuraloviyam-33.md` |
-| 51–110 | 51–110 | source-visible body pagination | detailed per-page mapping pending Pass 1 | pending Pass 1 |
+| 51 | 51 | 34 | palanquin interpretation corrected by Valluvar; Kural `அறத்தாறு இதுவென வேண்டா சிவிகை...` | captured — `0051-kuraloviyam-34.md` |
+| 52 | 52 | 35 | illustrated Ilango/Chenguttuvan renunciation vignette begins | captured — `0052-kuraloviyam-35.md` |
+| 53 | 53 | 36 | Ilango renunciation vignette concludes; Kural `அற்றேமென்று அல்லற் படுபவோ...` | captured — `0053-kuraloviyam-36.md` |
+| 54 | 54 | 37 | illustrated moon/maiden vignette; Kural `மதியும் மடந்தை முகனும் அறியா...` | captured — `0054-kuraloviyam-37.md` |
+| 55 | 55 | 38 | beloved-shoulder continuation; Kural `தாம்வீழ்வார் மென்றோள்...`; paired citation lines | captured — `0055-kuraloviyam-38.md` |
+| 56 | 56 | 39 | illustrated Valluvar/student sword-enmity question begins | captured — `0056-kuraloviyam-39.md` |
+| 57 | 57 | 40 | sword/enmity discussion concludes; Kural `வாள்போல் பகைவரை அஞ்சற்க...` | captured — `0057-kuraloviyam-40.md` |
+| 58 | 58 | 41 | illustrated `தெய்வந் தொழாஅள்...` interpretation begins | captured — `0058-kuraloviyam-41.md` |
+| 59 | 59 | 42 | rain/wife interpretation concludes; `கெடுப்பதூஉங்...` and repeated `தெய்வந் தொழாஅள்...` | captured — `0059-kuraloviyam-42.md` |
+| 60 | 60 | 43 | illustrated martial-history vignette begins | captured — `0060-kuraloviyam-43.md` |
+| 61–110 | 61–110 | source-visible body pagination | detailed per-page mapping pending Pass 1 | pending Pass 1 |
 | 111 | 111 | 94 | body page; Part 001 ends | pending Pass 1 |
 
 Do not derive uninspected printed-page values by arithmetic merely because the observed boundary is regular.
@@ -136,8 +146,20 @@ Page-batch head:
 
 The GitHub comparison confirmed **10 sequential page commits**, with exactly the expected ten added files for scans **41–50** and no unrelated file changes within the batch.
 
+## Batch audit — scans 51–60
+
+Batch base:
+
+`6b78e804788c22f292ead41bbcfd9a9c4c70cdfa`
+
+Page-batch head:
+
+`c49f14637143ee40862b295d8888619a5bd95345`
+
+The GitHub comparison confirmed **10 sequential page commits**, with exactly the expected ten added files for scans **51–60** and no unrelated file changes within the batch.
+
 ## Current frontier
 
-**Pass 1 captured continuously through overall scan 50.**
+**Pass 1 captured continuously through overall scan 60.**
 
-Next activity: **Part 001 Pass 1, scans 51–60**.
+Next activity: **Part 001 Pass 1, scans 61–70**.
