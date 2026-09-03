@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam Pass 1 through **scan 40**: **2026-09-03**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
+Last refreshed for Kuraloviyam Pass 1 through **scan 50**: **2026-09-03**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
 
 ## Repository
 
@@ -229,9 +229,9 @@ Confirmed:
 - scan 18: main body begins at printed page **1**, heading `பேராசிரியர்`;
 - scan 111: printed page **94**.
 
-## Kuraloviyam Part 001 Pass 1 — scans 1–40 COMPLETE
+## Kuraloviyam Part 001 Pass 1 — scans 1–50 COMPLETE
 
-Page-aligned records now exist continuously for **overall scans 1–40**:
+Page-aligned records now exist continuously for **overall scans 1–50**:
 
 - scans **1–3** — cover / title-publisher / edition-imprint;
 - scans **4–8 / printed iii–vii** — `முகப்புரை`;
@@ -251,17 +251,22 @@ Page-aligned records now exist continuously for **overall scans 1–40**:
 - scan **31 / printed 14** — `கலைஞர் ஏற்புரை`;
 - scan **32** — section-title leaf `கலைஞரின் குறளோவியம்`, with no printed page number claimed;
 - scan **33 / printed 16** — blank source-side leaf with reverse-side bleed-through only;
-- scans **34–40 / printed 17–23** — opening illustrated/body sequence of `கலைஞரின் குறளோவியம்`.
+- scans **34–40 / printed 17–23** — opening illustrated/body sequence of `கலைஞரின் குறளோவியம்`;
+- scans **41–42 / printed 24–25** — education/rebirth and `மெய்யுணர்தல்` discussion;
+- scans **43–44 / printed 26–27** — lover/beloved gaze vignette;
+- scans **45–47 / printed 28–30** — boastful-youth / promised-feats vignette;
+- scans **48–49 / printed 31–32** — heart/dream vignette;
+- scan **50 / printed 33** — palanquin vignette opening, continuing into scan 51.
 
 Printed-text records remain `needs-review` / `visual_fidelity: needs-review` during Pass 1. The handwriting in scans 13–15 was not guessed or reconstructed.
 
-The scans 31–40 page-batch audit compared:
+The scans 41–50 page-batch audit compared:
 
-`72bc9064113f97272f19d292da873bbcc17422cc` → `50a6b3ed5bff02ee9924ed3913d18c90dbf91bc7`
+`36b98566871bfeefee9ba5964d59694b31c24d89` → `77b81744808961817f4bd52a8cf4841f0c631960`
 
-and confirmed **10 sequential page commits** adding exactly the ten expected page records for scans 31–40 before documentation synchronization.
+and confirmed **10 sequential page commits** adding exactly the ten expected page records for scans 41–50 before documentation synchronization.
 
-Do not reopen scans 1–40 merely for stylistic harmonization during Pass 1. Later textual and visual verification passes will perform the source-check gates.
+Do not reopen scans 1–50 merely for stylistic harmonization during Pass 1. Later textual and visual verification passes will perform the source-check gates.
 
 # Exact next activity — குறளோவியம்
 
@@ -269,8 +274,8 @@ Do not reopen scans 1–40 merely for stylistic harmonization during Pass 1. Lat
 2. complete the Kuraloviyam mandatory startup reading above;
 3. resolve the already supplied Part 001 PDF;
 4. continue **Part 001 Pass 1 physical capture/transcription**;
-5. process **overall scans 41–50**;
-6. continue directly from printed page 23 into the next source page/section and preserve physical-page continuity;
+5. process **overall scans 51–60**;
+6. continue directly from the palanquin vignette at printed page 33 into the next source pages and preserve physical-page continuity;
 7. create one page-aligned Markdown record per physical scan under `works/kuraloviyam/pages/`;
 8. preserve source-visible wording and meaningful illustration/text relationships only;
 9. normally leave new records `needs-review` / `visual_fidelity: needs-review`;
