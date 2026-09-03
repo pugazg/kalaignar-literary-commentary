@@ -54,26 +54,26 @@ Part 001 has no usable parsed text layer; the rendered source scan is controllin
 
 Part 001 source intake is complete and Pass 1 is complete: **111 / 111 physical scans captured**. Scan 18 begins the main body at printed page 1; scan 111 is printed page 94.
 
-### Part 001 Pass 2A — textual verification through scan 22 COMPLETE
+### Part 001 Pass 2A — textual verification through scan 33 COMPLETE
 
 The durable verification record is:
 
 `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_001.md`
 
-Pass 2A has directly compared overall scans **1–22** against the rendered source.
+Pass 2A has directly compared overall scans **1–33** against the rendered source.
 
-Important source-supported corrections already made include:
+Recent Batch-3 source-supported corrections:
 
-- scans 1–2 — author line → `கலைஞர் மு.கருணாநிதி`;
-- scan 5 — `வாரந்தோறும்` → `வாரந் தோறும்`;
-- scan 11 — `பெற்றுள்ளன.` → `பெற்றுள.` and, after user flag/direct re-check, `உறனுண்டு` → `உரனுண்டு`;
-- scan 13 — `முன்னாம் பதிப்பின் முகப்புரை` → `மூன்றாம் பதிப்பின் முகப்புரை`;
-- scan 14 — author line → `கலைஞர் மு.கருணாநிதி`;
-- scan 17 — `வண்ணங்கள்` → `வர்ணனைகள்`; deferred parentheticals resolved from the scan; `அம்மன் திருமண நிலையம்` → `திருமகள் நிலையம்`;
-- scan 19 — `பொன்னால்` → `பொன்னை`; central washed-out/faint printed words remain source-limited and the page is `partial` rather than reconstructed;
-- scan 20 — `காட்டிக் கொண்டிருக்கிறார்` → `காட்டிக் கொண்டிருக்கின்றார்`; `இன்னுங்கூடப்` → `இன்னும்கூடப்`.
+- scan 24 — `என்பதைக் என்னால்` → `என்பதை என்னால்`;
+- scan 27 — `கொள்கின்ற` → `கொளுகிற`; `எத்தனை` → `எத்தகைய`; `கவிதை நடை` → `கவிதை நூல்`; `எழுதப்பட்டிருக்கின்றது` → `எழுதப்பட்டு இருக்கின்றது`;
+- scan 30 — `உருவச்சிறப்பிற்கு` → `உருவகச்சிறப்பிற்கு`; `காதலைப் பிரிந்த` → `காதலனைப் பிரிந்த`.
 
-Scans **13–15** remain `partial` because handwritten/facsimile bodies cannot safely be established word-for-word. Scan **19** is also `partial` because a small central printed-text region is physically washed out/faint in the controlling scan.
+Scans **23, 25–26, 28–29, 31–33** required no page-record textual correction after direct source comparison.
+
+Earlier source limitations remain:
+
+- scans **13–15** — handwritten/facsimile bodies remain `partial`; do not reconstruct them;
+- scan **19** — a small physically washed-out/faint printed region remains `partial`; do not infer lost words from context.
 
 ### Mandatory Pass 2B safeguard
 
@@ -86,13 +86,13 @@ Pass 2B must specifically look for character-level confusions such as `ர/ற`,
 If live `main` has not advanced beyond this frontier:
 
 1. continue **Part 001 Pass 2A — textual verification**;
-2. process **overall scans 23–33**;
+2. process **overall scans 34–44**;
 3. compare each existing Markdown page record directly against the rendered source scan;
 4. verify source-visible wording, punctuation, paragraph boundaries, headings, quoted/Kural text, printed-page metadata and separation of printed text from handwriting/stamps/other non-source marks;
 5. correct only what the controlling scan visibly supports;
 6. do not modernize, normalize, silently repair old/uncommon forms, or import a standard Kural reading from memory/web sources;
 7. append results to `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_001.md` without claiming Pass 2B or Pass 3 completion;
 8. preserve genuine source limitations as `partial` / `blocked`; never reconstruct from context;
-9. audit the changed-file set before advancing beyond scan 33.
+9. audit the changed-file set before advancing beyond scan 44.
 
 Do not restart Pass 1. Do not begin Pass 2B until Pass 2A reaches scan 111. Do not begin Pass 3, the Part audit, or English translation before both Pass 2A and Pass 2B are complete.
