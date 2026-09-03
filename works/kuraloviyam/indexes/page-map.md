@@ -8,7 +8,7 @@ Individual page records under `pages/` are authoritative for exact captured word
 
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
-| 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **source intake complete; Pass 1 through scan 40** |
+| 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **source intake complete; Pass 1 through scan 50** |
 | 002 | 112–222 | 1–111 | not yet inspected | not-started |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
@@ -59,7 +59,17 @@ Individual page records under `pages/` are authoritative for exact captured word
 | 38 | 38 | 21 | evening-love vignette concludes with Kurals / source labels | captured — `0038-kuraloviyam-21.md` |
 | 39 | 39 | 22 | illustrated family / yaazh vignette begins | captured — `0039-kuraloviyam-22.md` |
 | 40 | 40 | 23 | family vignette concludes with Kural `குழலினிது யாழினிது...` | captured — `0040-kuraloviyam-23.md` |
-| 41–110 | 41–110 | source-visible body pagination | detailed per-page mapping pending Pass 1 | pending Pass 1 |
+| 41 | 41 | 24 | illustrated education/rebirth discussion begins | captured — `0041-kuraloviyam-24.md` |
+| 42 | 42 | 25 | education/rebirth discussion; Kurals from `கல்வி` and `மெய்யுணர்தல்` | captured — `0042-kuraloviyam-25.md` |
+| 43 | 43 | 26 | illustrated physician / lover-gaze vignette begins | captured — `0043-kuraloviyam-26.md` |
+| 44 | 44 | 27 | lover-gaze vignette concludes with two Kural blocks | captured — `0044-kuraloviyam-27.md` |
+| 45 | 45 | 28 | illustrated boastful-youth / promised-feats narrative begins | captured — `0045-kuraloviyam-28.md` |
+| 46 | 46 | 29 | boastful-youth narrative continuation at palace/mountain | captured — `0046-kuraloviyam-29.md` |
+| 47 | 47 | 30 | boastful-youth narrative conclusion; Kural `சொல்லுதல் யார்க்கும் எளிய...` | captured — `0047-kuraloviyam-30.md` |
+| 48 | 48 | 31 | illustrated heart/dream vignette begins | captured — `0048-kuraloviyam-31.md` |
+| 49 | 49 | 32 | heart/dream vignette conclusion; Kural `உறாஅர்க்கு உறுநோய்...` | captured — `0049-kuraloviyam-32.md` |
+| 50 | 50 | 33 | illustrated palanquin vignette begins; continuation follows | captured — `0050-kuraloviyam-33.md` |
+| 51–110 | 51–110 | source-visible body pagination | detailed per-page mapping pending Pass 1 | pending Pass 1 |
 | 111 | 111 | 94 | body page; Part 001 ends | pending Pass 1 |
 
 Do not derive uninspected printed-page values by arithmetic merely because the observed boundary is regular.
@@ -114,8 +124,20 @@ Page-batch head:
 
 The GitHub comparison confirmed **10 sequential page commits**, with exactly the expected ten added files for scans **31–40** and no unrelated file changes within the batch.
 
+## Batch audit — scans 41–50
+
+Batch base:
+
+`36b98566871bfeefee9ba5964d59694b31c24d89`
+
+Page-batch head:
+
+`77b81744808961817f4bd52a8cf4841f0c631960`
+
+The GitHub comparison confirmed **10 sequential page commits**, with exactly the expected ten added files for scans **41–50** and no unrelated file changes within the batch.
+
 ## Current frontier
 
-**Pass 1 captured continuously through overall scan 40.**
+**Pass 1 captured continuously through overall scan 50.**
 
-Next activity: **Part 001 Pass 1, scans 41–50**.
+Next activity: **Part 001 Pass 1, scans 51–60**.
