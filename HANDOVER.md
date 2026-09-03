@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam Pass 1 through **scan 20**: **2026-09-03**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
+Last refreshed for Kuraloviyam Pass 1 through **scan 30**: **2026-09-03**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
 
 ## Repository
 
@@ -229,9 +229,9 @@ Confirmed:
 - scan 18: main body begins at printed page **1**, heading `பேராசிரியர்`;
 - scan 111: printed page **94**.
 
-## Kuraloviyam Part 001 Pass 1 — scans 1–20 COMPLETE
+## Kuraloviyam Part 001 Pass 1 — scans 1–30 COMPLETE
 
-Page-aligned records now exist continuously for **overall scans 1–20**:
+Page-aligned records now exist continuously for **overall scans 1–30**:
 
 - scans **1–3** — cover / title-publisher / edition-imprint;
 - scans **4–8 / printed iii–vii** — `முகப்புரை`;
@@ -239,17 +239,25 @@ Page-aligned records now exist continuously for **overall scans 1–20**:
 - scans **13–15 / printed xii–xiv** — handwritten/facsimile prefaces, retained `partial` where a safe word-for-word reading is not possible;
 - scan **16 / printed xv** — first-edition photograph / commemorative note;
 - scan **17 / printed xvi** — `ஆறாம் பதிப்பின் பதிப்புரை`;
-- scans **18–20 / printed 1–3** — `பேராசிரியர்`, completing the opening main-body section.
+- scans **18–20 / printed 1–3** — `பேராசிரியர்`;
+- scan **21 / printed 4** — `மகா வித்துவான் தண்டபாணி தேசிகர்`;
+- scans **22–23 / printed 5–6** — `டாக்டர் வ.சுப.மாணிக்கம்`;
+- scan **24 / printed 7** — `மதுரை யாதவர் கல்லூரி முதல்வர் தமிழ்க்குடிமகன்`;
+- scan **25 / printed 8** — `காசி ஆனந்தன்`;
+- scans **26–27 / printed 9–10** — `ஆட்சிமொழிக் காவலர் இராமலிங்கனார்`;
+- scan **28 / printed 11** — `ஆசிரியர் சாவி`;
+- scan **29 / printed 12** — `டாக்டர் மெ.சுந்தரம்`;
+- scan **30 / printed 13** — `டாக்டர் மா.நன்னன்`.
 
 Printed-text records remain `needs-review` / `visual_fidelity: needs-review` during Pass 1. The handwriting in scans 13–15 was not guessed or reconstructed.
 
-The scans 11–20 page-batch audit compared:
+The scans 21–30 page-batch audit compared:
 
-`1700e1d93cf55830f3b477702b43852d33cca341` → `5b67f778ac6d1f45c2a6632a6546f115c04bea57`
+`32c71ef540509e881dcc5bb38ccdff92f7642c1d` → `1bea805eea734ad25941ebe5d19796507ebd6323`
 
-and confirmed **10 sequential page commits** adding exactly the ten expected page records for scans 11–20 before documentation synchronization.
+and confirmed **10 sequential page commits** adding exactly the ten expected page records for scans 21–30 before documentation synchronization.
 
-Do not reopen scans 1–20 merely for stylistic harmonization during Pass 1. Later textual and visual verification passes will perform the source-check gates.
+Do not reopen scans 1–30 merely for stylistic harmonization during Pass 1. Later textual and visual verification passes will perform the source-check gates.
 
 # Exact next activity — குறளோவியம்
 
@@ -257,8 +265,8 @@ Do not reopen scans 1–20 merely for stylistic harmonization during Pass 1. Lat
 2. complete the Kuraloviyam mandatory startup reading above;
 3. resolve the already supplied Part 001 PDF;
 4. continue **Part 001 Pass 1 physical capture/transcription**;
-5. process **overall scans 21–30**;
-6. continue directly from the printed-page-3 boundary into the next source section/page and preserve physical-page continuity;
+5. process **overall scans 31–40**;
+6. continue directly from printed page 13 into the next source page/section and preserve physical-page continuity;
 7. create one page-aligned Markdown record per physical scan under `works/kuraloviyam/pages/`;
 8. preserve source-visible wording and meaningful illustration/text relationships only;
 9. normally leave new records `needs-review` / `visual_fidelity: needs-review`;
