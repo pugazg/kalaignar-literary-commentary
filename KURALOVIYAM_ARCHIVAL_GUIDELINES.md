@@ -114,10 +114,13 @@ For each part:
 
 1. **Source intake** — confirm the actual local page count, overall scan range, visible printed-page boundaries and source identity.
 2. **Pass 1: physical capture / transcription** — create all 111 page records, normally in batches of about 10 physical scans; new records remain `needs-review` unless source-limited.
-3. **Pass 2: textual verification** — compare wording, punctuation, paragraph boundaries, Kural text and metadata directly with the scan.
-4. **Pass 3: meaningful visual-text verification** — verify headings, lineation, block relationships, page furniture and illustration/text relationships.
-5. **Part audit** — check 111/111 physical coverage, continuity, statuses, boundary to the adjacent part and unresolved source limitations.
-6. Only after the Tamil part is archival-ready may any project-created English translation for that part begin.
+3. **Pass 2A: textual verification** — compare wording, punctuation, paragraph boundaries, Kural text and metadata directly with the scan.
+4. **Pass 2B: independent lexical-fidelity re-read** — after Pass 2A has covered the whole part, re-read every source-visible printed word against the rendered scan specifically to catch character-level / old-form misses that a first textual pass may overlook. This is a second source comparison, not a normalization pass. Re-check quoted/Kural text, names, uncommon forms and visually similar Tamil letters especially carefully.
+5. **Pass 3: meaningful visual-text verification** — verify headings, lineation, block relationships, page furniture and illustration/text relationships. Pass 3 is not a substitute for the Pass 2B word-level re-read.
+6. **Part audit** — check 111/111 physical coverage, continuity, statuses, boundary to the adjacent part and unresolved source limitations.
+7. Only after the Tamil part is archival-ready may any project-created English translation for that part begin.
+
+A page must not be treated as finally source-verified merely because Pass 2A was completed. The independent Pass 2B re-read and Pass 3 visual-text gate must also be completed before final verification status is assigned.
 
 Part 001 source intake is the first gate. Later parts must not be treated as inspected merely because their overall ranges are known.
 
@@ -136,6 +139,8 @@ For every batch:
 7. preserve overall scan numbering;
 8. commit sequentially;
 9. inspect the changed-file set and record the next frontier.
+
+Pass 2B is deliberately performed only after Pass 2A reaches the end of the supplied part, so that it functions as an independent second read rather than an immediate repetition of the same visual judgement.
 
 ## 9. English layers
 
