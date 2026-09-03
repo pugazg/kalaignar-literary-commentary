@@ -2,11 +2,11 @@
 
 Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf`
 
-This log records **Pass 2 textual verification only**. It does **not** claim Pass 3 meaningful visual-text verification, the Part 001 audit, or archival-ready status.
+This log records **Pass 2A textual verification only**. It does **not** claim the independent Pass 2B lexical-fidelity re-read, Pass 3 meaningful visual-text verification, the Part 001 audit, or archival-ready status.
 
 ## Batch 1 — overall scans 1–11
 
-**Status: COMPLETE — 11 / 11 scans directly compared with the rendered source scan.**
+**Status: COMPLETE — 11 / 11 scans directly compared with the rendered source scan for Pass 2A.**
 
 Verified in this batch:
 
@@ -16,7 +16,7 @@ Verified in this batch:
 - quoted/verse text where present;
 - separation of printed text from handwriting, stamps, signatures and other non-source marks.
 
-Page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"` because Pass 3 has not been performed.
+Page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"` because later gates have not been performed.
 
 | Scan | Printed page | Result |
 |---:|---|---|
@@ -30,17 +30,23 @@ Page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
 | 8 | vii | textual comparison complete; no page-record correction required; handwritten signature remains separate from printed prose |
 | 9 | viii | textual comparison complete; no page-record correction required; continuation into scan 10 confirmed |
 | 10 | ix | textual comparison complete; no page-record correction required; continuation from scan 9 and into scan 11 confirmed |
-| 11 | x | corrected source-visible old form `பெற்றுள்ளன.` → `பெற்றுள.`; continuation from scan 10 and into scan 12 confirmed |
+| 11 | x | corrected source-visible `பெற்றுள்ளன.` → `பெற்றுள.`; after user flag and direct scan re-check also corrected `உறனுண்டு` → `உரனுண்டு`; continuation from scan 10 and into scan 12 confirmed |
+
+## Quality safeguard added after scan 11 correction
+
+The scan-11 `உரனுண்டு` correction showed that one direct textual pass can still miss a character-level reading even when the page was compared with the scan. Therefore Kuraloviyam now has an explicit **Pass 2B independent lexical-fidelity re-read** after Pass 2A reaches the end of each 111-page part.
+
+Pass 2B will re-read every printed word against the rendered scan, with special attention to visually similar Tamil letters, old/uncommon forms, names and quoted/Kural text. Pass 3 remains a separate visual-structure gate and must not be relied on to catch lexical errors.
 
 ## Batch audit rule
 
-This batch intentionally changes only page records where the direct scan comparison found a correction. Unchanged page records are not rewritten merely to create commits; their completed Pass 2 result is recorded in this log.
+This batch intentionally changes only page records where the direct scan comparison found a correction. Unchanged page records are not rewritten merely to create commits; their completed Pass 2A result is recorded in this log.
 
-`verified` is not assigned during this pass. Pass 3 remains required before final page verification status can be claimed.
+`verified` is not assigned during Pass 2A. Pass 2B and Pass 3 remain required before final page verification status can be claimed.
 
-## Current Pass 2 frontier
+## Current Pass 2A frontier
 
-Part 001 Pass 2 textual verification is complete through **overall scan 11**.
+Part 001 Pass 2A textual verification is complete through **overall scan 11**.
 
 **Exact next batch: overall scans 12–22.**
 
