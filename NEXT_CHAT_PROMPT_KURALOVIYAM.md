@@ -29,6 +29,7 @@ Before any repository change, read completely:
 7. `works/kuraloviyam/metadata/source.md`
 8. `works/kuraloviyam/metadata/transcription-policy.md`
 9. `works/kuraloviyam/indexes/page-map.md`
+10. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_001.md`
 
 Then inspect the actual supplied source scans before writing.
 
@@ -80,18 +81,39 @@ Final Pass-1 page-batch audit:
 
 The comparison confirmed **11 sequential page commits**, exactly the expected eleven page records for scans **101–111**, and no unrelated file changes within the page batch.
 
+### Part 001 Pass 2 — textual verification through scan 11 COMPLETE
+
+Overall scans **1–11** have been compared directly against the rendered source scan. The durable batch record is:
+
+`works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_001.md`
+
+Source-supported corrections made in this batch:
+
+- scan 1 — `கலைஞர் மு. கருணாநிதி` → `கலைஞர் மு.கருணாநிதி`;
+- scan 2 — `கலைஞர் மு. கருணாநிதி` → `கலைஞர் மு.கருணாநிதி`;
+- scan 5 — final `தினமணி கதிர்` sentence: `வாரந்தோறும்` → `வாரந் தோறும்`;
+- scan 11 — `பெற்றுள்ளன.` → source-visible `பெற்றுள.`.
+
+Scans **3–4 and 6–10** required no page-record textual correction after direct comparison. This is **Pass 2 only**: do not promote these pages to final `verified`, and do not claim Pass 3 meaningful visual-text verification.
+
+Pass-2 page/report batch audit:
+
+`dbedad1cbba5747f06985297246cb335a5420e24` → `2a085908d68160329141f5f69137152db5e8131b`
+
+The comparison confirmed **5 sequential commits** and exactly these changed paths: the new Pass-2 verification log plus corrected page records for scans **1, 2, 5 and 11**. No unrelated file changes were present.
+
 ## Exact next activity
 
 If live `main` has not advanced beyond this frontier:
 
-1. begin **Part 001 Pass 2 — textual verification**;
-2. process **overall scans 1–11**;
+1. continue **Part 001 Pass 2 — textual verification**;
+2. process **overall scans 12–22**;
 3. compare each existing Markdown page record directly against the rendered source scan;
 4. verify source-visible wording, punctuation, paragraph boundaries, headings, quoted/Kural text, printed-page metadata and separation of printed text from handwriting/stamps/other non-source marks;
 5. correct only what the controlling scan visibly supports;
 6. do not modernize, normalize, silently repair old/uncommon forms, or import a standard Kural reading from memory/web sources;
-7. record the textual-verification result without claiming Pass 3 visual-text verification;
-8. preserve genuine source limitations as `partial` / `blocked` where applicable;
-9. audit the changed-file set before advancing to scans 11–21.
+7. append the textual-verification result to `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_001.md` without claiming Pass 3 visual-text verification;
+8. scans **13–15** are source-limited handwritten/facsimile pages: preserve `partial` where handwriting cannot safely be established and do not reconstruct it from context;
+9. audit the changed-file set before advancing beyond scan 22.
 
 Do not restart Pass 1. Do not begin Pass 3, the Part audit, or English translation before Part 001 Pass 2 is complete.
