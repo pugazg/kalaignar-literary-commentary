@@ -8,7 +8,7 @@ Individual page records under `pages/` are authoritative for exact captured word
 
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
-| 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **source intake complete; Pass 1 through scan 70** |
+| 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **source intake complete; Pass 1 through scan 80** |
 | 002 | 112–222 | 1–111 | not yet inspected | not-started |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
@@ -89,7 +89,17 @@ Individual page records under `pages/` are authoritative for exact captured word
 | 68 | 68 | 51 | illustrated royal-council vignette begins; handwritten `12800` and library stamp kept separate | captured — `0068-kuraloviyam-51.md` |
 | 69 | 69 | 52 | royal-council / disloyal-minister vignette concludes; Kural `பழுதெண்ணும் மந்திரியிற் பக்கத்துள் தெவ்வோர்...` | captured — `0069-kuraloviyam-52.md` |
 | 70 | 70 | 53 | illustrated love/eye vignette; Kural `தாம்வீழ்வார் தம்வீழப் பெற்றவர்...`; `குவளை` comparison | captured — `0070-kuraloviyam-53.md` |
-| 71–110 | 71–110 | source-visible body pagination | detailed per-page mapping pending Pass 1 | pending Pass 1 |
+| 71 | 71 | 54 | beauty/eyes continuation; Kurals `அனிச்சமும் அன்னத்தின் தூவியும்...` and `கருமணியிற் பாவாய்நீ...` | captured — `0071-kuraloviyam-54.md` |
+| 72 | 72 | 55 | illustrated freedom-fighter / enemy-stronghold vignette begins | captured — `0072-kuraloviyam-55.md` |
+| 73 | 73 | 56 | freedom-fighter / assembly-speech vignette concludes; Kural `அவையறியார் சொல்லல்மேற்...` | captured — `0073-kuraloviyam-56.md` |
+| 74 | 74 | 57 | illustrated travelling-family theft vignette begins | captured — `0074-kuraloviyam-57.md` |
+| 75 | 75 | 58 | travelling-family / fruit-seller gratitude vignette concludes; Kural `அற்றார் அழிபசி தீர்த்தல்...` | captured — `0075-kuraloviyam-58.md` |
+| 76 | 76 | 59 | illustrated oppressive-rule vignette begins | captured — `0076-kuraloviyam-59.md` |
+| 77 | 77 | 60 | uprising vignette concludes; Kural `அல்லற்பட்டு ஆற்றாது...` | captured — `0077-kuraloviyam-60.md` |
+| 78 | 78 | 61 | illustrated tearful-eye / love-sickness vignette; Kural `ஓஒ இனிதே எமக்கிந்நோய்...` | captured — `0078-kuraloviyam-61.md` |
+| 79 | 79 | 62 | illustrated old-age / illness vignette begins | captured — `0079-kuraloviyam-62.md` |
+| 80 | 80 | 63 | old-age / gambling analogy concludes; Kural `இழத்தொறூஉம் காதலிக்கும்...` with glosses | captured — `0080-kuraloviyam-63.md` |
+| 81–110 | 81–110 | source-visible body pagination | detailed per-page mapping pending Pass 1 | pending Pass 1 |
 | 111 | 111 | 94 | body page; Part 001 ends | pending Pass 1 |
 
 Do not derive uninspected printed-page values by arithmetic merely because the observed boundary is regular.
@@ -180,8 +190,20 @@ Page-batch head:
 
 The GitHub comparison confirmed **exactly the expected ten added page files for scans 61–70 and no unrelated file changes**. The comparison contains **11 commits** because scan 64 received one immediate source-image reread/correction before the batch was synchronized.
 
+## Batch audit — scans 71–80
+
+Batch base:
+
+`11dcca9eb78cb4daa8bbcbe8df20a9f9c8627a92`
+
+Page-batch head:
+
+`9d5117e8bccab8a0591ed4c4b57e9e34201b23b1`
+
+The GitHub comparison confirmed **10 sequential page commits**, with exactly the expected ten added files for scans **71–80** and no unrelated file changes within the batch.
+
 ## Current frontier
 
-**Pass 1 captured continuously through overall scan 70.**
+**Pass 1 captured continuously through overall scan 80.**
 
-Next activity: **Part 001 Pass 1, scans 71–80**.
+Next activity: **Part 001 Pass 1, scans 81–90**.
