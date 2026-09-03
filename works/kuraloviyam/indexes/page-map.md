@@ -8,7 +8,7 @@ Individual page records under `pages/` are authoritative for exact captured word
 
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
-| 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **source intake complete; Pass 1 through scan 30** |
+| 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **source intake complete; Pass 1 through scan 40** |
 | 002 | 112–222 | 1–111 | not yet inspected | not-started |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
@@ -49,7 +49,17 @@ Individual page records under `pages/` are authoritative for exact captured word
 | 28 | 28 | 11 | `ஆசிரியர் சாவி` | captured — `0028-saavi.md` |
 | 29 | 29 | 12 | `டாக்டர் மெ.சுந்தரம்` | captured — `0029-me-sundaram.md` |
 | 30 | 30 | 13 | `டாக்டர் மா.நன்னன்` | captured — `0030-ma-nannan.md` |
-| 31–110 | 31–110 | source-visible body pagination | detailed per-page mapping pending Pass 1 | pending Pass 1 |
+| 31 | 31 | 14 | `கலைஞர் ஏற்புரை` | captured — `0031-kalaignar-erpurai.md` |
+| 32 | 32 | — | section-title leaf `கலைஞரின் குறளோவியம்` | captured — `0032-kalaignarin-kuraloviyam-title.md` |
+| 33 | 33 | 16 | blank source-side page; reverse-side bleed-through ignored | captured — `0033-blank-printed-16.md` |
+| 34 | 34 | 17 | `கலைஞரின் குறளோவியம்`; cosmic/couple illustration and opening prose | captured — `0034-kuraloviyam-17.md` |
+| 35 | 35 | 18 | cosmology / divinity prose continuation | captured — `0035-kuraloviyam-18.md` |
+| 36 | 36 | 19 | divinity descriptors; Kural `வையத்துள் வாழ்வாங்கு...`; Thiruvalluvar illustration | captured — `0036-kuraloviyam-19.md` |
+| 37 | 37 | 20 | illustrated evening-love vignette begins | captured — `0037-kuraloviyam-20.md` |
+| 38 | 38 | 21 | evening-love vignette concludes with Kurals / source labels | captured — `0038-kuraloviyam-21.md` |
+| 39 | 39 | 22 | illustrated family / yaazh vignette begins | captured — `0039-kuraloviyam-22.md` |
+| 40 | 40 | 23 | family vignette concludes with Kural `குழலினிது யாழினிது...` | captured — `0040-kuraloviyam-23.md` |
+| 41–110 | 41–110 | source-visible body pagination | detailed per-page mapping pending Pass 1 | pending Pass 1 |
 | 111 | 111 | 94 | body page; Part 001 ends | pending Pass 1 |
 
 Do not derive uninspected printed-page values by arithmetic merely because the observed boundary is regular.
@@ -92,8 +102,20 @@ Page-batch head:
 
 The GitHub comparison confirmed **10 sequential page commits**, with exactly the expected ten added files for scans **21–30** and no unrelated file changes within the batch.
 
+## Batch audit — scans 31–40
+
+Batch base:
+
+`72bc9064113f97272f19d292da873bbcc17422cc`
+
+Page-batch head:
+
+`50a6b3ed5bff02ee9924ed3913d18c90dbf91bc7`
+
+The GitHub comparison confirmed **10 sequential page commits**, with exactly the expected ten added files for scans **31–40** and no unrelated file changes within the batch.
+
 ## Current frontier
 
-**Pass 1 captured continuously through overall scan 30.**
+**Pass 1 captured continuously through overall scan 40.**
 
-Next activity: **Part 001 Pass 1, scans 31–40**.
+Next activity: **Part 001 Pass 1, scans 41–50**.
