@@ -59,7 +59,7 @@ Part 001 source intake is complete:
 - scan 18: main body begins at printed page 1, heading `பேராசிரியர்`;
 - scan 111: printed page 94.
 
-Part 001 Pass 1 is complete continuously through **overall scan 50**:
+Part 001 Pass 1 is complete continuously through **overall scan 60**:
 
 - scans **1–3** — cover / title-publisher / edition-imprint;
 - scans **4–8 / printed iii–vii** — `முகப்புரை`;
@@ -84,24 +84,29 @@ Part 001 Pass 1 is complete continuously through **overall scan 50**:
 - scans **43–44 / printed 26–27** — lover/beloved gaze vignette;
 - scans **45–47 / printed 28–30** — boastful-youth / promised-feats vignette;
 - scans **48–49 / printed 31–32** — heart/dream vignette;
-- scan **50 / printed 33** — palanquin vignette opening, continuing into scan 51.
+- scans **50–51 / printed 33–34** — palanquin vignette and Valluvar's correction, ending with `அறத்தாறு இதுவென வேண்டா சிவிகை...`;
+- scans **52–53 / printed 35–36** — Ilango/Chenguttuvan renunciation vignette;
+- scans **54–55 / printed 37–38** — moon/maiden and beloved-shoulder vignette;
+- scans **56–57 / printed 39–40** — Valluvar/student discussion of sword-like and kin-like enemies;
+- scans **58–59 / printed 41–42** — interpretation of `தெய்வந் தொழாஅள்...` and rain imagery;
+- scan **60 / printed 43** — martial-history vignette begins and continues into scan 61.
 
-Exactly **50 page-aligned records** now exist continuously for scans 1–50. Pass-1 printed-text records remain `needs-review` / `visual_fidelity: needs-review`; scans 13–15 are source-limited `partial` and must not be silently reconstructed.
+Exactly **60 page-aligned records** now exist continuously for scans 1–60. Pass-1 printed-text records remain `needs-review` / `visual_fidelity: needs-review`; scans 13–15 are source-limited `partial` and must not be silently reconstructed.
 
 Latest page-batch audit:
 
-`36b98566871bfeefee9ba5964d59694b31c24d89` → `77b81744808961817f4bd52a8cf4841f0c631960`
+`6b78e804788c22f292ead41bbcfd9a9c4c70cdfa` → `c49f14637143ee40862b295d8888619a5bd95345`
 
-The comparison confirmed **10 sequential page commits** adding exactly scans 41–50 before documentation synchronization.
+The comparison confirmed **10 sequential page commits** adding exactly scans 51–60 before documentation synchronization.
 
 ## Exact next activity
 
 If live `main` has not advanced beyond this frontier:
 
 1. continue **Part 001 Pass 1**;
-2. process **overall scans 51–60**;
+2. process **overall scans 61–70**;
 3. create exactly one Markdown record per physical scan under `works/kuraloviyam/pages/`;
-4. continue directly from the palanquin vignette at printed page 33 into the next source pages and preserve physical-page continuity;
+4. continue directly from the martial-history vignette at printed page 43 into the next source pages and preserve physical-page continuity;
 5. transcribe only source-supported visible text;
 6. preserve source-supported illustration/text relationships and printed pagination;
 7. distinguish printed prose from signatures, handwriting, stamps, photographs and illustrations;
@@ -110,4 +115,4 @@ If live `main` has not advanced beyond this frontier:
 10. do not replace printed Kural or quoted wording from memory/web sources;
 11. audit the changed-file set, then record the next frontier.
 
-Do not reopen scans 1–50 merely for stylistic harmonization during Pass 1. Do not jump to textual verification, visual verification, part audit or English translation before Pass 1 capture for the relevant source unit is complete.
+Do not reopen scans 1–60 merely for stylistic harmonization during Pass 1. Do not jump to textual verification, visual verification, part audit or English translation before Pass 1 capture for the relevant source unit is complete.
