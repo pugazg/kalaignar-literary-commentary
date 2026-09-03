@@ -38,16 +38,34 @@ The scan-11 `உரனுண்டு` correction showed that one direct textual
 
 Pass 2B will re-read every printed word against the rendered scan, with special attention to visually similar Tamil letters, old/uncommon forms, names and quoted/Kural text. Pass 3 remains a separate visual-structure gate and must not be relied on to catch lexical errors.
 
+## Batch 2 — overall scans 12–22
+
+**Status: COMPLETE — 11 / 11 scans directly compared with the rendered source scan for Pass 2A.**
+
+| Scan | Printed page | Result |
+|---:|---|---|
+| 12 | xi | direct textual comparison complete; no page-record correction required |
+| 13 | xii | corrected printed heading `முன்னாம் பதிப்பின் முகப்புரை` → `மூன்றாம் பதிப்பின் முகப்புரை`; handwritten body remains source-limited `partial` and was not reconstructed |
+| 14 | xiii | corrected printed author line `கலைஞர் மு. கருணாநிதி` → `கலைஞர் மு.கருணாநிதி`; handwritten body remains source-limited `partial` |
+| 15 | xiv | printed heading and page metadata confirmed; handwritten body remains source-limited `partial`; no reconstruction attempted |
+| 16 | xv | photograph-note wording and printed page metadata confirmed; no correction required |
+| 17 | xvi | corrected `வண்ணங்கள்` → source-visible `வர்ணனைகள்`; resolved previously deferred parentheticals as `பின்னக்கிள் சாஃப்ட்வேர் (பி) லிட்.` and `தாகம்`; corrected `அம்மன் திருமண நிலையம்` → `திருமகள் நிலையம்`; publisher-signature hyphen restored |
+| 18 | 1 | `பேராசிரியர்` opening page compared directly; wording, continuation and printed page metadata confirmed; no correction required |
+| 19 | 2 | corrected `பொன்னால்` → source-visible `பொன்னை`; central `பொற்கொல்லர்` paragraph contains physically washed-out/faint printed words in the controlling scan, so the page is now `partial` and the unreadable words are not guessed |
+| 20 | 3 | corrected `காட்டிக் கொண்டிருக்கிறார்` → `காட்டிக் கொண்டிருக்கின்றார்` and `இன்னுங்கூடப்` → `இன்னும்கூடப்` |
+| 21 | 4 | direct textual comparison complete; heading, wording and printed page metadata confirmed; no correction required |
+| 22 | 5 | direct textual comparison complete; heading, wording and printed page metadata confirmed; no correction required |
+
 ## Batch audit rule
 
-This batch intentionally changes only page records where the direct scan comparison found a correction. Unchanged page records are not rewritten merely to create commits; their completed Pass 2A result is recorded in this log.
+Pass 2A changes only page records where the direct scan comparison finds a source-supported correction or confirms a source limitation requiring a status change. Unchanged page records are not rewritten merely to create commits; their completed Pass 2A result is recorded in this log.
 
 `verified` is not assigned during Pass 2A. Pass 2B and Pass 3 remain required before final page verification status can be claimed.
 
 ## Current Pass 2A frontier
 
-Part 001 Pass 2A textual verification is complete through **overall scan 11**.
+Part 001 Pass 2A textual verification is complete through **overall scan 22**.
 
-**Exact next batch: overall scans 12–22.**
+**Exact next batch: overall scans 23–33.**
 
-Scans 13–15 are already known to be source-limited handwritten/facsimile pages; preserve `partial` where their handwriting cannot be established safely, and do not reconstruct it from context.
+Known source-limited pages remain source-limited; do not reconstruct unclear handwriting or physically lost/washed-out printed text from context.
