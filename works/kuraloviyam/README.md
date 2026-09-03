@@ -10,7 +10,7 @@ Canonical overall scan mapping:
 
 | Part | Overall scans | Supplied state | Tamil archival state |
 |---|---:|---|---|
-| 001 | 1–111 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | source intake complete; **Pass 1 captured through scan 30** |
+| 001 | 1–111 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | source intake complete; **Pass 1 captured through scan 40** |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -50,7 +50,7 @@ New Pass-1 page records normally remain `needs-review`. Genuinely unreadable han
 
 ## Part 001 Pass 1 progress
 
-**Scans 1–30 are captured continuously as 30 page-aligned Markdown records.**
+**Scans 1–40 are captured continuously as 40 page-aligned Markdown records.**
 
 Current record sequence:
 
@@ -68,9 +68,13 @@ Current record sequence:
 - scans **26–27 / printed 9–10** — `ஆட்சிமொழிக் காவலர் இராமலிங்கனார்`;
 - scan **28 / printed 11** — `ஆசிரியர் சாவி`;
 - scan **29 / printed 12** — `டாக்டர் மெ.சுந்தரம்`;
-- scan **30 / printed 13** — `டாக்டர் மா.நன்னன்`.
+- scan **30 / printed 13** — `டாக்டர் மா.நன்னன்`;
+- scan **31 / printed 14** — `கலைஞர் ஏற்புரை`;
+- scan **32** — section-title leaf `கலைஞரின் குறளோவியம்` (no printed page number claimed);
+- scan **33 / printed 16** — intentionally blank source-side page with reverse-side show-through only;
+- scans **34–40 / printed 17–23** — opening `கலைஞரின் குறளோவியம்` illustrated/body sequence, including the highlighted Kural citations on printed pages 19, 21 and 23.
 
-Scans 1–12 and 16–30 remain `needs-review` / `visual_fidelity: needs-review` as required by Pass 1. Scans 13–15 are intentionally `partial` because the handwritten body is not safely legible word-for-word from the supplied scan; no handwriting was reconstructed from context.
+Scans 1–12 and 16–40 remain `needs-review` / `visual_fidelity: needs-review` as required by Pass 1. Scans 13–15 are intentionally `partial` because the handwritten body is not safely legible word-for-word from the supplied scan; no handwriting was reconstructed from context.
 
 ## Batch audits
 
@@ -94,19 +98,27 @@ Batch base → page-head:
 
 GitHub comparison confirmed **10 sequential commits** adding exactly the expected page records for scans **21–30** and no unrelated files in the page batch.
 
+### Scans 31–40
+
+Batch base → page-head:
+
+`72bc9064113f97272f19d292da873bbcc17422cc` → `50a6b3ed5bff02ee9924ed3913d18c90dbf91bc7`
+
+GitHub comparison confirmed **10 sequential commits** adding exactly the expected page records for scans **31–40** and no unrelated files in the page batch.
+
 ## Current status
 
 **Part 001 source intake: COMPLETE.**
 
-**Part 001 Pass 1: scans 1–30 COMPLETE; scans 31–111 pending.**
+**Part 001 Pass 1: scans 1–40 COMPLETE; scans 41–111 pending.**
 
 No textual verification, meaningful visual verification, part audit or English translation is being claimed yet.
 
 ## Next activity
 
-Continue **Part 001 Pass 1** with **overall scans 31–40**:
+Continue **Part 001 Pass 1** with **overall scans 41–50**:
 
-- continue directly from printed page 13 into the next source page/section;
+- continue directly from printed page 23 into the next source page/section;
 - create exactly one Markdown record per physical scan;
 - preserve source-visible wording only;
 - preserve illustrations and their relationship to surrounding prose;
