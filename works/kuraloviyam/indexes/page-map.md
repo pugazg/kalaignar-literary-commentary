@@ -8,7 +8,7 @@ Individual page records under `pages/` are authoritative for exact captured word
 
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
-| 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **source intake complete; Pass 1 through scan 100** |
+| 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **source intake complete; Pass 1 COMPLETE — 111/111; Pass 2 not-started** |
 | 002 | 112–222 | 1–111 | not yet inspected | not-started |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
@@ -119,8 +119,17 @@ Individual page records under `pages/` are authoritative for exact captured word
 | 98 | 98 | 81 | flower/eye and reunion vignette concludes; Kurals `சிறுமை நமக்கொழியச்...` and `முயக்கிடைத் தண்வளி...` | captured — `0098-kuraloviyam-81.md` |
 | 99 | 99 | 82 | illustrated `ஊர்க்காவலன்` / tiger-danger vignette begins | captured — `0099-kuraloviyam-82.md` |
 | 100 | 100 | 83 | `ஊர்க்காவலன்` repeatedly postpones promised tiger hunt; narrative continues to scan 101 | captured — `0100-kuraloviyam-83.md` |
-| 101–110 | 101–110 | source-visible body pagination | detailed per-page mapping pending Pass 1 | pending Pass 1 |
-| 111 | 111 | 94 | body page; Part 001 ends | pending Pass 1 |
+| 101 | 101 | 84 | `ஊர்க்காவலன்` vignette concludes; villagers kill tiger; Kural `நெடுநீர் மறவி மடிதுயில்...` | captured — `0101-kuraloviyam-84.md` |
+| 102 | 102 | 85 | illustrated lovers / waiting-by-waterfall vignette begins | captured — `0102-kuraloviyam-85.md` |
+| 103 | 103 | 86 | waiting / planned `ஊடல்` vignette concludes; Kural `புலப்பல் எனச்சென்றேன்...` | captured — `0103-kuraloviyam-86.md` |
+| 104 | 104 | 87 | illustrated வில்லவன் / horse vignette begins | captured — `0104-kuraloviyam-87.md` |
+| 105 | 105 | 88 | horse vignette concludes; Kural `அமரகத்து ஆற்றறுக்கும்...` | captured — `0105-kuraloviyam-88.md` |
+| 106 | 106 | 89 | illustrated கலிங்கன்–கதிரவன் anger-control vignette begins | captured — `0106-kuraloviyam-89.md` |
+| 107 | 107 | 90 | anger-control vignette concludes; Kural `செல்லிடத்துக் காப்பான்...` | captured — `0107-kuraloviyam-90.md` |
+| 108 | 108 | 91 | illustrated lover-away / wall-tally vignette; Kural `வாளற்றுப் புற்கென்ற...` | captured — `0108-kuraloviyam-91.md` |
+| 109 | 109 | 92 | illustrated learned-speaker / assembly vignette begins | captured — `0109-kuraloviyam-92.md` |
+| 110 | 110 | 93 | learned-speaker vignette continues; audience disperses / sleeps during speech | captured — `0110-kuraloviyam-93.md` |
+| 111 | 111 | 94 | Part 001 final scan; learned-speaker vignette concludes with `விரைந்து தொழில்கேட்கும்...` and `இணரூழ்த்தும் நாறா...` | captured — `0111-kuraloviyam-94.md` |
 
 Do not derive uninspected printed-page values by arithmetic merely because the observed boundary is regular.
 
@@ -212,8 +221,16 @@ Page-batch head: `e9752f7a0bd70b080cad0882cc8c05e6b5263de2`
 
 The GitHub comparison confirmed **10 sequential page commits**, with exactly the expected ten added files for scans **91–100** and no unrelated file changes within the batch.
 
+### Scans 101–111
+
+Batch base: `a7898940a9935cc86b659c4dac9fe5e8c09401b4`
+
+Page-batch head: `bc45693fedf1619bc839fc516f6c19f0fa408be5`
+
+The GitHub comparison confirmed **11 sequential page commits**, with exactly the expected eleven added files for scans **101–111** and no unrelated file changes within the batch.
+
 ## Current frontier
 
-**Pass 1 captured continuously through overall scan 100.**
+**Part 001 Pass 1 is COMPLETE: 111 / 111 physical scans captured.**
 
-Next activity: **Part 001 Pass 1, scans 101–110**.
+Next activity: **Part 001 Pass 2 textual verification, scans 1–10**.
