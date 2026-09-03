@@ -92,6 +92,6 @@ If live `main` has not advanced beyond this frontier:
 6. do not modernize, normalize, silently repair old/uncommon forms, or import a standard Kural reading from memory/web sources;
 7. record the textual-verification result without claiming Pass 3 visual-text verification;
 8. preserve genuine source limitations as `partial` / `blocked` where applicable;
-9. audit the changed-file set before advancing to scans 11–20.
+9. audit the changed-file set before advancing to scans 11–21.
 
 Do not restart Pass 1. Do not begin Pass 3, the Part audit, or English translation before Part 001 Pass 2 is complete.
