@@ -74,6 +74,24 @@ Pass 2B will re-read every printed word against the rendered scan, with special 
 | 32 | — | section-title wording `கலைஞரின் / குறளோவியம்` confirmed; no printed page number; no correction required |
 | 33 | 16 | confirmed effectively blank source-side page with reverse-side show-through only; printed page number `16` retained as page furniture; no correction required |
 
+## Batch 4 — overall scans 34–44
+
+**Status: COMPLETE — 11 / 11 scans directly compared with the rendered source scan for Pass 2A.**
+
+| Scan | Printed page | Result |
+|---:|---|---|
+| 34 | 17 | opening illustrated `கலைஞரின் குறளோவியம்` body page compared directly; wording, continuation and printed page metadata confirmed; no correction required |
+| 35 | 18 | corrected source-visible verb `மழை பொழிந்து` → `மழை பொழிந்தது` |
+| 36 | 19 | restored source punctuation after `‘வேண்டுதல் வேண்டாமை இலான்’`; removed the non-source hyphen from `அதிகாரம் 5 - இல்வாழ்க்கை` so the metadata follows the printed wording |
+| 37 | 20 | corrected `வேலை நிகழ்த்த` → source-visible `வேலை நிறுத்த`; corrected `என இன்னும் மொண்டு தரும்` → `என இன்பம் மொண்டு தரும்` |
+| 38 | 21 | corrected source-visible Kural spacing `இந்நோய்` → `இந் நோய்` |
+| 39 | 22 | illustrated family/யாழ் page compared directly; quoted wording and printed page metadata confirmed; no correction required |
+| 40 | 23 | corrected `எழுதி காட்டுகிறார்` → source-visible `எழுதிக் காட்டுகிறார்` |
+| 41 | 24 | education/rebirth discussion compared directly; wording, quotation boundaries and printed page metadata confirmed; no correction required |
+| 42 | 25 | corrected `பிறவி உள்ளது என` → source-visible `பிறவி உள்ளதென` |
+| 43 | 26 | corrected `ஒரு பார்வையால் அவனுக்கு வேதனை உண்டாக்குகிறாள்` → source-visible `ஒரு பார்வையால் அவனுக்கு வேதனை உண்டாகிறது` |
+| 44 | 27 | lover/beloved gaze continuation and both Kural blocks compared directly; wording and printed page metadata confirmed; no correction required |
+
 ## Batch audit rule
 
 Pass 2A changes only page records where the direct scan comparison finds a source-supported correction or confirms a source limitation requiring a status change. Unchanged page records are not rewritten merely to create commits; their completed Pass 2A result is recorded in this log.
@@ -82,8 +100,8 @@ Pass 2A changes only page records where the direct scan comparison finds a sourc
 
 ## Current Pass 2A frontier
 
-Part 001 Pass 2A textual verification is complete through **overall scan 33**.
+Part 001 Pass 2A textual verification is complete through **overall scan 44**.
 
-**Exact next batch: overall scans 34–44.**
+**Exact next batch: overall scans 45–55.**
 
 Known source-limited pages remain source-limited; do not reconstruct unclear handwriting or physically lost/washed-out printed text from context.
