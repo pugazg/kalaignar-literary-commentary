@@ -56,6 +56,24 @@ Pass 2B will re-read every printed word against the rendered scan, with special 
 | 21 | 4 | direct textual comparison complete; heading, wording and printed page metadata confirmed; no correction required |
 | 22 | 5 | direct textual comparison complete; heading, wording and printed page metadata confirmed; no correction required |
 
+## Batch 3 — overall scans 23–33
+
+**Status: COMPLETE — 11 / 11 scans directly compared with the rendered source scan for Pass 2A.**
+
+| Scan | Printed page | Result |
+|---:|---|---|
+| 23 | 6 | Dr. V. Sub. Manickam conclusion compared directly; wording and printed page metadata confirmed; no page-record correction required |
+| 24 | 7 | corrected source-visible grammar `என்பதைக் என்னால்` → `என்பதை என்னால்` |
+| 25 | 8 | `காசி ஆனந்தன்` section compared directly; wording and printed page metadata confirmed; no correction required |
+| 26 | 9 | `ஆட்சிமொழிக் காவலர் இராமலிங்கனார்` opening page compared directly; wording, heading and continuation confirmed; no correction required |
+| 27 | 10 | corrected `கொள்கின்ற` → `கொளுகிற`, `எத்தனை` → `எத்தகைய`, `கவிதை நடை` → `கவிதை நூல்`, and `எழுதப்பட்டிருக்கின்றது` → source-visible `எழுதப்பட்டு இருக்கின்றது` |
+| 28 | 11 | `ஆசிரியர் சாவி` section compared directly; wording and printed page metadata confirmed; no correction required |
+| 29 | 12 | `டாக்டர் மெ.சுந்தரம்` section compared directly; wording and printed page metadata confirmed; no correction required |
+| 30 | 13 | corrected `உருவச்சிறப்பிற்கு` → `உருவகச்சிறப்பிற்கு` and `காதலைப் பிரிந்த` → source-visible `காதலனைப் பிரிந்த` |
+| 31 | 14 | `கலைஞர் ஏற்புரை` compared directly; wording, quotation/prose boundaries and printed page metadata confirmed; no correction required |
+| 32 | — | section-title wording `கலைஞரின் / குறளோவியம்` confirmed; no printed page number; no correction required |
+| 33 | 16 | confirmed effectively blank source-side page with reverse-side show-through only; printed page number `16` retained as page furniture; no correction required |
+
 ## Batch audit rule
 
 Pass 2A changes only page records where the direct scan comparison finds a source-supported correction or confirms a source limitation requiring a status change. Unchanged page records are not rewritten merely to create commits; their completed Pass 2A result is recorded in this log.
@@ -64,8 +82,8 @@ Pass 2A changes only page records where the direct scan comparison finds a sourc
 
 ## Current Pass 2A frontier
 
-Part 001 Pass 2A textual verification is complete through **overall scan 22**.
+Part 001 Pass 2A textual verification is complete through **overall scan 33**.
 
-**Exact next batch: overall scans 23–33.**
+**Exact next batch: overall scans 34–44.**
 
 Known source-limited pages remain source-limited; do not reconstruct unclear handwriting or physically lost/washed-out printed text from context.
