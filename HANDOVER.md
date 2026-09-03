@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam Pass 1 through **scan 10**: **2026-09-03**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
+Last refreshed for Kuraloviyam Pass 1 through **scan 20**: **2026-09-03**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
 
 ## Repository
 
@@ -229,25 +229,27 @@ Confirmed:
 - scan 18: main body begins at printed page **1**, heading `பேராசிரியர்`;
 - scan 111: printed page **94**.
 
-## Kuraloviyam Part 001 Pass 1 — scans 1–10 COMPLETE
+## Kuraloviyam Part 001 Pass 1 — scans 1–20 COMPLETE
 
-Page-aligned records now exist continuously for **overall scans 1–10**:
+Page-aligned records now exist continuously for **overall scans 1–20**:
 
 - scans **1–3** — cover / title-publisher / edition-imprint;
 - scans **4–8 / printed iii–vii** — `முகப்புரை`;
-- scans **9–10 / printed viii–ix** — `மதிப்புரை` opening and continuation.
+- scans **9–12 / printed viii–xi** — `மதிப்புரை` through its conclusion;
+- scans **13–15 / printed xii–xiv** — handwritten/facsimile prefaces, retained `partial` where a safe word-for-word reading is not possible;
+- scan **16 / printed xv** — first-edition photograph / commemorative note;
+- scan **17 / printed xvi** — `ஆறாம் பதிப்பின் பதிப்புரை`;
+- scans **18–20 / printed 1–3** — `பேராசிரியர்`, completing the opening main-body section.
 
-All ten page records intentionally remain `needs-review` / `visual_fidelity: needs-review` during Pass 1.
+Printed-text records remain `needs-review` / `visual_fidelity: needs-review` during Pass 1. The handwriting in scans 13–15 was not guessed or reconstructed.
 
-Non-printed/source-adjacent marks were kept separate from printed prose where encountered, including the scan-3 handwritten numeric mark, scan-4 library stamp and scan-8 handwritten signature mark.
+The scans 11–20 page-batch audit compared:
 
-The page-batch audit compared:
+`1700e1d93cf55830f3b477702b43852d33cca341` → `5b67f778ac6d1f45c2a6632a6546f115c04bea57`
 
-`9da4d07f34d4d0b8f89735827725a0d72056d692` → `a88a032baad50a7fff30ffdf0a47a98a1c8cf6a9`
+and confirmed **10 sequential page commits** adding exactly the ten expected page records for scans 11–20 before documentation synchronization.
 
-and confirmed **10 sequential page commits** and exactly **10 page records** for scans 1–10 before documentation synchronization.
-
-Do not reopen scans 1–10 merely for stylistic harmonization during Pass 1. Later textual and visual verification passes will perform the source-check gates.
+Do not reopen scans 1–20 merely for stylistic harmonization during Pass 1. Later textual and visual verification passes will perform the source-check gates.
 
 # Exact next activity — குறளோவியம்
 
@@ -255,10 +257,10 @@ Do not reopen scans 1–10 merely for stylistic harmonization during Pass 1. Lat
 2. complete the Kuraloviyam mandatory startup reading above;
 3. resolve the already supplied Part 001 PDF;
 4. continue **Part 001 Pass 1 physical capture/transcription**;
-5. process **overall scans 11–20**;
-6. continue the `மதிப்புரை` from the scan-10 boundary and preserve physical-page continuity;
+5. process **overall scans 21–30**;
+6. continue directly from the printed-page-3 boundary into the next source section/page and preserve physical-page continuity;
 7. create one page-aligned Markdown record per physical scan under `works/kuraloviyam/pages/`;
-8. preserve source-visible wording only and distinguish printed text from handwriting/stamps/illustrations;
+8. preserve source-visible wording and meaningful illustration/text relationships only;
 9. normally leave new records `needs-review` / `visual_fidelity: needs-review`;
 10. audit the changed-file set and record the next frontier.
 
