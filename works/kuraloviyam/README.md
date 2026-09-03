@@ -10,7 +10,7 @@ Canonical overall scan mapping:
 
 | Part | Overall scans | Supplied state | Tamil archival state |
 |---|---:|---|---|
-| 001 | 1–111 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | source intake complete; transcription not yet started |
+| 001 | 1–111 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | source intake complete; **Pass 1 captured through scan 10** |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -48,19 +48,36 @@ Part cadence:
 
 New Pass-1 page records normally remain `needs-review`.
 
+## Part 001 Pass 1 progress
+
+**Scans 1–10 are captured as 10/10 page-aligned Markdown records.**
+
+Current records:
+
+- scans **1–3** — cover / title-publisher / edition-imprint matter;
+- scans **4–8 / printed iii–vii** — `முகப்புரை`;
+- scans **9–10 / printed viii–ix** — `மதிப்புரை` opening and continuation.
+
+All ten records remain `needs-review` / `visual_fidelity: needs-review`, as required by the Pass-1 gate. Scan 3 preserves the handwritten numeric mark separately from printed text; scan 4 separately records the library stamp; scan 8 separately records the handwritten signature mark.
+
+Batch audit from the source-intake checkpoint confirmed **10 sequential Pass-1 commits and exactly 10 page records** under `pages/`.
+
 ## Current status
 
 **Part 001 source intake: COMPLETE.**
 
-No Tamil body transcription is being claimed complete yet.
+**Part 001 Pass 1: scans 1–10 COMPLETE; scans 11–111 pending.**
+
+No textual verification, meaningful visual verification, part audit or English translation is being claimed yet.
 
 ## Next activity
 
-Begin **Part 001 Pass 1** with **overall scans 1–10**:
+Continue **Part 001 Pass 1** with **overall scans 11–20**:
 
-- create one Markdown record per physical scan;
+- continue `மதிப்புரை` through its source boundary and preserve the remaining front-matter transitions;
+- create exactly one Markdown record per physical scan;
 - preserve source-visible wording only;
 - distinguish printed text from handwriting/stamps/illustrations;
-- preserve roman printed pagination where visible;
+- preserve roman/Arabic printed pagination only when visible;
 - leave new records `needs-review` unless a genuine source limitation requires `partial` or `blocked`;
 - audit the changed-file set before advancing to the next batch.
