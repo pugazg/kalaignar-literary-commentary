@@ -8,7 +8,7 @@ section: "front-matter — நான்காம் பதிப்பின் 
 page_type: "handwritten-facsimile"
 status: "partial"
 visual_fidelity: "needs-review"
-visual_notes: "decorative printed heading `இரு கண்கள் / நான்காம் பதிப்பின் முகப்புரை / கலைஞர் மு. கருணாநிதி`; handwritten Tamil body; signature and date at lower right; roman page number xiii"
+visual_notes: "decorative printed heading `இரு கண்கள் / நான்காம் பதிப்பின் முகப்புரை / கலைஞர் மு.கருணாநிதி`; handwritten Tamil body; signature and date at lower right; roman page number xiii"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf"
 transcription_method: "direct visual capture from rendered scan; handwriting intentionally not guessed in Pass 1"
@@ -18,7 +18,7 @@ transcription_method: "direct visual capture from rendered scan; handwriting int
 
 ## நான்காம் பதிப்பின் முகப்புரை
 
-கலைஞர் மு. கருணாநிதி
+கலைஞர் மு.கருணாநிதி
 
 ## Handwritten facsimile
 
