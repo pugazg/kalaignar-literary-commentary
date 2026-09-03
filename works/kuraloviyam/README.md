@@ -10,7 +10,7 @@ Canonical overall scan mapping:
 
 | Part | Overall scans | Supplied state | Tamil archival state |
 |---|---:|---|---|
-| 001 | 1–111 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | source intake complete; **Pass 1 captured through scan 80** |
+| 001 | 1–111 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | source intake complete; **Pass 1 captured through scan 90** |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -50,7 +50,7 @@ New Pass-1 page records normally remain `needs-review`. Genuinely unreadable han
 
 ## Part 001 Pass 1 progress
 
-**Scans 1–80 are captured continuously as 80 page-aligned Markdown records.**
+**Scans 1–90 are captured continuously as 90 page-aligned Markdown records.**
 
 Current record sequence:
 
@@ -93,9 +93,14 @@ Current record sequence:
 - scans **74–75 / printed 57–58** — robbed travelling family / fruit-seller gratitude vignette, concluding with `அற்றார் அழிபசி தீர்த்தல்...`;
 - scans **76–77 / printed 59–60** — oppressive-rule / uprising vignette, concluding with `அல்லற்பட்டு ஆற்றாது...`;
 - scan **78 / printed 61** — illustrated tearful-eye / love-sickness vignette, concluding with `ஓஒ இனிதே எமக்கிந்நோய்...`;
-- scans **79–80 / printed 62–63** — old-age / illness / gambling analogy, concluding with `இழத்தொறூஉம் காதலிக்கும்...` and printed glosses.
+- scans **79–80 / printed 62–63** — old-age / illness / gambling analogy, concluding with `இழத்தொறூஉம் காதலிக்கும்...` and printed glosses;
+- scans **81–82 / printed 64–65** — mirror / `பசப்புறு பருவரல்` vignette, concluding with `அவர்தந்தார் என்னும் தகையால்...`;
+- scans **83–84 / printed 66–67** — victorious king / Valluvar battle-and-righteous-sceptre vignette, concluding with `வேலன்று வென்றி தருவது...`;
+- scans **85–86 / printed 68–69** — beauty / dream-of-lover vignette, concluding with `நனவென ஒன்றில்லை யாயின்...`;
+- scans **87–88 / printed 70–71** — overreaching prince / respected retired commander and popular uprising vignette, concluding with `இறந்தமைந்த சார்புடையர்...`;
+- scans **89–90 / printed 72–73** — love-sickness / shame / pallor sequence with `காமமும் நாணும்...`, `கரத்தலும் ஆற்றேன்...`, and `புல்லிக் கிடந்தேன்...` Kural blocks and citation lines.
 
-Scans 1–12 and 16–80 remain `needs-review` / `visual_fidelity: needs-review` as required by Pass 1. Scans 13–15 are intentionally `partial` because the handwritten body is not safely legible word-for-word from the supplied scan; no handwriting was reconstructed from context.
+Scans 1–12 and 16–90 remain `needs-review` / `visual_fidelity: needs-review` as required by Pass 1. Scans 13–15 are intentionally `partial` because the handwritten body is not safely legible word-for-word from the supplied scan; no handwriting was reconstructed from context.
 
 ## Batch audits
 
@@ -159,19 +164,27 @@ Batch base → page-head:
 
 GitHub comparison confirmed **10 sequential page commits** adding exactly the expected ten page records for scans **71–80** and no unrelated file changes within the batch.
 
+### Scans 81–90
+
+Batch base → page-head:
+
+`8e7e2806cc06fe41b37855558c3401703290e372` → `123e5826ab0f105df1c7b3904a24792218437241`
+
+GitHub comparison confirmed **10 sequential page commits** adding exactly the expected ten page records for scans **81–90** and no unrelated file changes within the batch.
+
 ## Current status
 
 **Part 001 source intake: COMPLETE.**
 
-**Part 001 Pass 1: scans 1–80 COMPLETE; scans 81–111 pending.**
+**Part 001 Pass 1: scans 1–90 COMPLETE; scans 91–111 pending.**
 
 No textual verification, meaningful visual verification, part audit or English translation is being claimed yet.
 
 ## Next activity
 
-Continue **Part 001 Pass 1** with **overall scans 81–90**:
+Continue **Part 001 Pass 1** with **overall scans 91–100**:
 
-- continue directly from printed page 63 into the next source pages;
+- continue directly from printed page 73 into the next source pages;
 - create exactly one Markdown record per physical scan;
 - preserve source-visible wording only;
 - preserve illustrations and their relationship to surrounding prose;
