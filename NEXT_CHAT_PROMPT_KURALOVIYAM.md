@@ -34,7 +34,7 @@ Then inspect the actual supplied source scans before writing.
 
 ## Source identity
 
-The user reports the complete original Kuraloviyam PDF as **666 physical pages**, manually split into **six parts of 111 pages** because the original exceeds the upload limit.
+The user reports the complete Kuraloviyam PDF as **666 physical pages**, manually split into **six parts of 111 pages** because the original exceeds the upload limit.
 
 Canonical overall scan mapping:
 
@@ -59,40 +59,39 @@ Part 001 source intake is complete:
 - scan 18: main body begins at printed page 1, heading `பேராசிரியர்`;
 - scan 111: printed page 94.
 
-Part 001 Pass 1 is complete continuously through **overall scan 100**. Exactly **100 page-aligned records** exist for scans 1–100.
+### Part 001 Pass 1 — COMPLETE
 
-Recent completed batches:
+Exactly **111 page-aligned records** exist continuously for overall scans **1–111**.
 
-- scans **71–80 / printed 54–63** — beauty/eyes; freedom-fighter/assembly; travelling-family gratitude; oppressive-rule uprising; tearful-eye love-sickness; old-age/gambling analogy;
-- scans **81–90 / printed 64–73** — mirror/pallor; victorious king/Valluvar; dream-of-lover; overreaching-prince/uprising; love-sickness/shame/pallor;
-- scans **91–92 / printed 74–75** — contrasting public judgments of two commanders, concluding with `கணைகொடிது யாழ்கோடு...`;
-- scans **93–94 / printed 76–77** — public-announcement / eye-as-drum vignette, with `மறைபெறல் ஊரார்க்கு...` and `வாராக்கால் துஞ்சா...`;
-- scans **95–96 / printed 78–79** — young poet / கயல்விழி prospective-bride vignette, concluding with `கண்ணுடையர் என்பவர் கற்றோர்...`;
-- scans **97–98 / printed 80–81** — flowers, tearful eyes, reunion and momentary separation, with `சிறுமை நமக்கொழியச்...` and `முயக்கிடைத் தண்வளி...`;
-- scans **99–100 / printed 82–83** — `ஊர்க்காவலன்` / tiger-danger vignette begins and continues beyond scan 100.
+Final Pass-1 ranges:
 
-Pass-1 printed-text records remain `needs-review` / `visual_fidelity: needs-review`. Scans 13–15 remain source-limited `partial`; do not reconstruct their handwriting.
+- scans **99–101 / printed 82–84** — `ஊர்க்காவலன்` / tiger-danger vignette; delayed action leaves villagers to kill the tiger themselves, concluding with `நெடுநீர் மறவி மடிதுயில்...`;
+- scans **102–103 / printed 85–86** — lovers / waiting / planned `ஊடல்`, concluding with `புலப்பல் எனச்சென்றேன்...`;
+- scans **104–105 / printed 87–88** — வில்லவன் / unreliable-horse vignette, concluding with `அமரகத்து ஆற்றறுக்கும்...`;
+- scans **106–107 / printed 89–90** — கலிங்கன்–கதிரவன் anger-control vignette, concluding with `செல்லிடத்துக் காப்பான்...`;
+- scan **108 / printed 91** — lover-away / wall-tally vignette, concluding with `வாளற்றுப் புற்கென்ற...`;
+- scans **109–111 / printed 92–94** — learned-speaker / assembly vignette, concluding with `விரைந்து தொழில்கேட்கும்...` and `இணரூழ்த்தும் நாறா...`.
 
-Latest page-batch audit:
+Pass-1 printed-text records remain `needs-review` / `visual_fidelity: needs-review`. Scans **13–15** remain source-limited `partial`; do not reconstruct their handwriting.
 
-`2847046061f0fd41e8214f2567008fd58449522f` → `e9752f7a0bd70b080cad0882cc8c05e6b5263de2`
+Final Pass-1 page-batch audit:
 
-The comparison confirmed **10 sequential page commits**, exactly the expected ten page files for scans **91–100**, and no unrelated file changes.
+`a7898940a9935cc86b659c4dac9fe5e8c09401b4` → `bc45693fedf1619bc839fc516f6c19f0fa408be5`
+
+The comparison confirmed **11 sequential page commits**, exactly the expected eleven page records for scans **101–111**, and no unrelated file changes within the page batch.
 
 ## Exact next activity
 
 If live `main` has not advanced beyond this frontier:
 
-1. continue **Part 001 Pass 1**;
-2. process **overall scans 101–110**;
-3. create exactly one Markdown record per physical scan under `works/kuraloviyam/pages/`;
-4. continue directly from the `ஊர்க்காவலன்` / tiger-danger narrative at printed page 83 into the next source pages;
-5. transcribe only source-supported visible text;
-6. preserve source-supported illustration/text relationships and printed pagination;
-7. distinguish printed prose from signatures, handwriting, stamps, photographs and illustrations;
-8. use overall `scan_page`, `part: 1`, and local `part_page`;
-9. normally leave new records `needs-review` / `visual_fidelity: needs-review`;
-10. do not replace printed Kural or quoted wording from memory/web sources;
-11. audit the changed-file set, then record the frontier before the final Part 001 scan 111.
+1. begin **Part 001 Pass 2 — textual verification**;
+2. process **overall scans 1–10**;
+3. compare each existing Markdown page record directly against the rendered source scan;
+4. verify source-visible wording, punctuation, paragraph boundaries, headings, quoted/Kural text, printed-page metadata and separation of printed text from handwriting/stamps/other non-source marks;
+5. correct only what the controlling scan visibly supports;
+6. do not modernize, normalize, silently repair old/uncommon forms, or import a standard Kural reading from memory/web sources;
+7. record the textual-verification result without claiming Pass 3 visual-text verification;
+8. preserve genuine source limitations as `partial` / `blocked` where applicable;
+9. audit the changed-file set before advancing to scans 11–20.
 
-Do not reopen scans 1–100 merely for stylistic harmonization during Pass 1. Do not jump to textual verification, visual verification, part audit or English translation before Part 001 Pass 1 is complete.
+Do not restart Pass 1. Do not begin Pass 3, the Part audit, or English translation before Part 001 Pass 2 is complete.
