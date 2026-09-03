@@ -8,7 +8,7 @@ Individual page records under `pages/` are authoritative for exact captured word
 
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
-| 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **source intake complete; Pass 1 through scan 20** |
+| 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **source intake complete; Pass 1 through scan 30** |
 | 002 | 112–222 | 1–111 | not yet inspected | not-started |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
@@ -36,10 +36,20 @@ Individual page records under `pages/` are authoritative for exact captured word
 | 15 | 15 | xiv | `ஆறாம் பதிப்பின் முகப்புரை`; handwritten body and decorative side panel | captured `partial` — `0015-aaraam-pathippin-mugappurai.md` |
 | 16 | 16 | xv | photograph / first-edition commemorative note | captured — `0016-first-edition-photo-note.md` |
 | 17 | 17 | xvi | `ஆறாம் பதிப்பின் பதிப்புரை` | captured — `0017-aaraam-pathippin-pathippurai.md` |
-| 18 | 18 | 1 | main body begins — heading `பேராசிரியர்` | captured — `0018-perasiriyar-01.md` |
+| 18 | 18 | 1 | main body begins — `பேராசிரியர்` | captured — `0018-perasiriyar-01.md` |
 | 19 | 19 | 2 | `பேராசிரியர்` continuation | captured — `0019-perasiriyar-02.md` |
 | 20 | 20 | 3 | `பேராசிரியர்` conclusion | captured — `0020-perasiriyar-03.md` |
-| 21–110 | 21–110 | source-visible body pagination | detailed per-page mapping pending Pass 1 | pending Pass 1 |
+| 21 | 21 | 4 | `மகா வித்துவான் தண்டபாணி தேசிகர்` | captured — `0021-thandapani-desikar.md` |
+| 22 | 22 | 5 | `டாக்டர் வ.சுப.மாணிக்கம்` begins | captured — `0022-vsu-manickam-01.md` |
+| 23 | 23 | 6 | `டாக்டர் வ.சுப.மாணிக்கம்` conclusion | captured — `0023-vsu-manickam-02.md` |
+| 24 | 24 | 7 | `மதுரை யாதவர் கல்லூரி முதல்வர் தமிழ்க்குடிமகன்` | captured — `0024-tamilkudimagan.md` |
+| 25 | 25 | 8 | `காசி ஆனந்தன்` | captured — `0025-kasi-anandan.md` |
+| 26 | 26 | 9 | `ஆட்சிமொழிக் காவலர் இராமலிங்கனார்` begins | captured — `0026-ramalinganar-01.md` |
+| 27 | 27 | 10 | `ஆட்சிமொழிக் காவலர் இராமலிங்கனார்` conclusion | captured — `0027-ramalinganar-02.md` |
+| 28 | 28 | 11 | `ஆசிரியர் சாவி` | captured — `0028-saavi.md` |
+| 29 | 29 | 12 | `டாக்டர் மெ.சுந்தரம்` | captured — `0029-me-sundaram.md` |
+| 30 | 30 | 13 | `டாக்டர் மா.நன்னன்` | captured — `0030-ma-nannan.md` |
+| 31–110 | 31–110 | source-visible body pagination | detailed per-page mapping pending Pass 1 | pending Pass 1 |
 | 111 | 111 | 94 | body page; Part 001 ends | pending Pass 1 |
 
 Do not derive uninspected printed-page values by arithmetic merely because the observed boundary is regular.
@@ -66,12 +76,24 @@ Page-batch head:
 
 `5b67f778ac6d1f45c2a6632a6546f115c04bea57`
 
-The GitHub comparison confirms **10 sequential page commits**, with exactly the expected ten added files for scans **11–20** and no unrelated file changes within the batch.
+The GitHub comparison confirmed **10 sequential page commits**, with exactly the expected ten added files for scans **11–20** and no unrelated file changes within the batch.
 
 Scans 13–15 intentionally remain `partial` because the handwritten facsimile bodies cannot safely be read word-for-word from the scan. This is a documented source-legibility limitation, not an invitation to reconstruct them from context.
 
+## Batch audit — scans 21–30
+
+Batch base:
+
+`32c71ef540509e881dcc5bb38ccdff92f7642c1d`
+
+Page-batch head:
+
+`1bea805eea734ad25941ebe5d19796507ebd6323`
+
+The GitHub comparison confirmed **10 sequential page commits**, with exactly the expected ten added files for scans **21–30** and no unrelated file changes within the batch.
+
 ## Current frontier
 
-**Pass 1 captured continuously through overall scan 20.**
+**Pass 1 captured continuously through overall scan 30.**
 
-Next activity: **Part 001 Pass 1, scans 21–30**.
+Next activity: **Part 001 Pass 1, scans 31–40**.
