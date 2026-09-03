@@ -10,7 +10,7 @@ Canonical overall scan mapping:
 
 | Part | Overall scans | Supplied state | Tamil archival state |
 |---|---:|---|---|
-| 001 | 1–111 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | source intake complete; **Pass 1 captured through scan 70** |
+| 001 | 1–111 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | source intake complete; **Pass 1 captured through scan 80** |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -50,7 +50,7 @@ New Pass-1 page records normally remain `needs-review`. Genuinely unreadable han
 
 ## Part 001 Pass 1 progress
 
-**Scans 1–70 are captured continuously as 70 page-aligned Markdown records.**
+**Scans 1–80 are captured continuously as 80 page-aligned Markdown records.**
 
 Current record sequence:
 
@@ -87,9 +87,15 @@ Current record sequence:
 - scans **64–65 / printed 47–48** — `திருநாடு` / `வளநாடு` governance contrast, concluding with `நாடொறும் நாடி முறைசெய்யா மன்னவன்...`;
 - scans **66–67 / printed 49–50** — கார்மேகம் / பூவழகி field vignette, concluding with `பயனில்சொல் பாராட்டு வானை மகனெனல்...`;
 - scans **68–69 / printed 51–52** — royal council / disloyal-minister vignette, concluding with `பழுதெண்ணும் மந்திரியிற் பக்கத்துள் தெவ்வோர்...`; scan 68 also preserves a handwritten `12800` and library stamp separately from body text;
-- scan **70 / printed 53** — illustrated love/eye vignette with `தாம்வீழ்வார் தம்வீழப் பெற்றவர்...` and the `குவளை`-eye comparison.
+- scan **70 / printed 53** — illustrated love/eye vignette with `தாம்வீழ்வார் தம்வீழப் பெற்றவர்...` and the `குவளை`-eye comparison;
+- scan **71 / printed 54** — beauty/eyes continuation with `அனிச்சமும் அன்னத்தின் தூவியும்...` and `கருமணியிற் பாவாய்நீ...`;
+- scans **72–73 / printed 55–56** — freedom-fighter / assembly-speech vignette, concluding with `அவையறியார் சொல்லல்மேற்...`;
+- scans **74–75 / printed 57–58** — robbed travelling family / fruit-seller gratitude vignette, concluding with `அற்றார் அழிபசி தீர்த்தல்...`;
+- scans **76–77 / printed 59–60** — oppressive-rule / uprising vignette, concluding with `அல்லற்பட்டு ஆற்றாது...`;
+- scan **78 / printed 61** — illustrated tearful-eye / love-sickness vignette, concluding with `ஓஒ இனிதே எமக்கிந்நோய்...`;
+- scans **79–80 / printed 62–63** — old-age / illness / gambling analogy, concluding with `இழத்தொறூஉம் காதலிக்கும்...` and printed glosses.
 
-Scans 1–12 and 16–70 remain `needs-review` / `visual_fidelity: needs-review` as required by Pass 1. Scans 13–15 are intentionally `partial` because the handwritten body is not safely legible word-for-word from the supplied scan; no handwriting was reconstructed from context.
+Scans 1–12 and 16–80 remain `needs-review` / `visual_fidelity: needs-review` as required by Pass 1. Scans 13–15 are intentionally `partial` because the handwritten body is not safely legible word-for-word from the supplied scan; no handwriting was reconstructed from context.
 
 ## Batch audits
 
@@ -145,19 +151,27 @@ Batch base → page-head:
 
 GitHub comparison confirmed **exactly the expected ten page files for scans 61–70 and no unrelated files**. The comparison contains **11 commits** because scan 64 received one immediate source-image reread/correction before batch synchronization.
 
+### Scans 71–80
+
+Batch base → page-head:
+
+`11dcca9eb78cb4daa8bbcbe8df20a9f9c8627a92` → `9d5117e8bccab8a0591ed4c4b57e9e34201b23b1`
+
+GitHub comparison confirmed **10 sequential page commits** adding exactly the expected ten page records for scans **71–80** and no unrelated file changes within the batch.
+
 ## Current status
 
 **Part 001 source intake: COMPLETE.**
 
-**Part 001 Pass 1: scans 1–70 COMPLETE; scans 71–111 pending.**
+**Part 001 Pass 1: scans 1–80 COMPLETE; scans 81–111 pending.**
 
 No textual verification, meaningful visual verification, part audit or English translation is being claimed yet.
 
 ## Next activity
 
-Continue **Part 001 Pass 1** with **overall scans 71–80**:
+Continue **Part 001 Pass 1** with **overall scans 81–90**:
 
-- continue directly from printed page 53 into the next source pages;
+- continue directly from printed page 63 into the next source pages;
 - create exactly one Markdown record per physical scan;
 - preserve source-visible wording only;
 - preserve illustrations and their relationship to surrounding prose;
