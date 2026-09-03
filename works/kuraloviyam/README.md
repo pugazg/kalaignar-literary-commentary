@@ -10,7 +10,7 @@ Canonical overall scan mapping:
 
 | Part | Overall scans | Supplied state | Tamil archival state |
 |---|---:|---|---|
-| 001 | 1–111 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | source intake complete; **Pass 1 captured through scan 90** |
+| 001 | 1–111 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | source intake complete; **Pass 1 captured through scan 100** |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -50,7 +50,7 @@ New Pass-1 page records normally remain `needs-review`. Genuinely unreadable han
 
 ## Part 001 Pass 1 progress
 
-**Scans 1–90 are captured continuously as 90 page-aligned Markdown records.**
+**Scans 1–100 are captured continuously as 100 page-aligned Markdown records.**
 
 Current record sequence:
 
@@ -98,9 +98,14 @@ Current record sequence:
 - scans **83–84 / printed 66–67** — victorious king / Valluvar battle-and-righteous-sceptre vignette, concluding with `வேலன்று வென்றி தருவது...`;
 - scans **85–86 / printed 68–69** — beauty / dream-of-lover vignette, concluding with `நனவென ஒன்றில்லை யாயின்...`;
 - scans **87–88 / printed 70–71** — overreaching prince / respected retired commander and popular uprising vignette, concluding with `இறந்தமைந்த சார்புடையர்...`;
-- scans **89–90 / printed 72–73** — love-sickness / shame / pallor sequence with `காமமும் நாணும்...`, `கரத்தலும் ஆற்றேன்...`, and `புல்லிக் கிடந்தேன்...` Kural blocks and citation lines.
+- scans **89–90 / printed 72–73** — love-sickness / shame / pallor sequence with `காமமும் நாணும்...`, `கரத்தலும் ஆற்றேன்...`, and `புல்லிக் கிடந்தேன்...` Kural blocks and citation lines;
+- scans **91–92 / printed 74–75** — contrasting public judgments of two commanders and the distinction between appearance and action, concluding with `கணைகொடிது யாழ்கோடு...`;
+- scans **93–94 / printed 76–77** — public-announcement / eye-as-drum vignette, with `மறைபெறல் ஊரார்க்கு...` and `வாராக்கால் துஞ்சா...`;
+- scans **95–96 / printed 78–79** — young poet / கயல்விழி prospective-bride vignette, concluding with `கண்ணுடையர் என்பவர் கற்றோர்...`;
+- scans **97–98 / printed 80–81** — flowers, tearful eyes, reunion and momentary separation vignette, with `சிறுமை நமக்கொழியச்...` and `முயக்கிடைத் தண்வளி...`;
+- scans **99–100 / printed 82–83** — `ஊர்க்காவலன்` / tiger-danger vignette begins; the guardian repeatedly postpones his promised action and the narrative continues into scan 101.
 
-Scans 1–12 and 16–90 remain `needs-review` / `visual_fidelity: needs-review` as required by Pass 1. Scans 13–15 are intentionally `partial` because the handwritten body is not safely legible word-for-word from the supplied scan; no handwriting was reconstructed from context.
+Scans 1–12 and 16–100 remain `needs-review` / `visual_fidelity: needs-review` as required by Pass 1. Scans 13–15 are intentionally `partial` because the handwritten body is not safely legible word-for-word from the supplied scan; no handwriting was reconstructed from context.
 
 ## Batch audits
 
@@ -172,22 +177,30 @@ Batch base → page-head:
 
 GitHub comparison confirmed **10 sequential page commits** adding exactly the expected ten page records for scans **81–90** and no unrelated file changes within the batch.
 
+### Scans 91–100
+
+Batch base → page-head:
+
+`2847046061f0fd41e8214f2567008fd58449522f` → `e9752f7a0bd70b080cad0882cc8c05e6b5263de2`
+
+GitHub comparison confirmed **10 sequential page commits** adding exactly the expected ten page records for scans **91–100** and no unrelated file changes within the batch.
+
 ## Current status
 
 **Part 001 source intake: COMPLETE.**
 
-**Part 001 Pass 1: scans 1–90 COMPLETE; scans 91–111 pending.**
+**Part 001 Pass 1: scans 1–100 COMPLETE; scans 101–111 pending.**
 
 No textual verification, meaningful visual verification, part audit or English translation is being claimed yet.
 
 ## Next activity
 
-Continue **Part 001 Pass 1** with **overall scans 91–100**:
+Continue **Part 001 Pass 1** with **overall scans 101–110**:
 
-- continue directly from printed page 73 into the next source pages;
+- continue directly from the `ஊர்க்காவலன்` / tiger-danger vignette at printed page 83 into the next source pages;
 - create exactly one Markdown record per physical scan;
 - preserve source-visible wording only;
 - preserve illustrations and their relationship to surrounding prose;
 - preserve printed pagination only when visible;
 - leave new records `needs-review` unless a genuine source limitation requires `partial` or `blocked`;
-- audit the changed-file set before advancing to the next batch.
+- audit the changed-file set before advancing to the final Part 001 scan 111.
