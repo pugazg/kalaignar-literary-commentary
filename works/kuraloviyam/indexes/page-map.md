@@ -8,7 +8,7 @@ Individual page records under `pages/` are authoritative for exact captured word
 
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
-| 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **source intake complete; Pass 1 through scan 80** |
+| 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **source intake complete; Pass 1 through scan 90** |
 | 002 | 112–222 | 1–111 | not yet inspected | not-started |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
@@ -99,12 +99,24 @@ Individual page records under `pages/` are authoritative for exact captured word
 | 78 | 78 | 61 | illustrated tearful-eye / love-sickness vignette; Kural `ஓஒ இனிதே எமக்கிந்நோய்...` | captured — `0078-kuraloviyam-61.md` |
 | 79 | 79 | 62 | illustrated old-age / illness vignette begins | captured — `0079-kuraloviyam-62.md` |
 | 80 | 80 | 63 | old-age / gambling analogy concludes; Kural `இழத்தொறூஉம் காதலிக்கும்...` with glosses | captured — `0080-kuraloviyam-63.md` |
-| 81–110 | 81–110 | source-visible body pagination | detailed per-page mapping pending Pass 1 | pending Pass 1 |
+| 81 | 81 | 64 | illustrated mirror / `பசப்புறு பருவரல்` vignette begins | captured — `0081-kuraloviyam-64.md` |
+| 82 | 82 | 65 | mirror/pallor vignette concludes; Kural `அவர்தந்தார் என்னும் தகையால்...` | captured — `0082-kuraloviyam-65.md` |
+| 83 | 83 | 66 | illustrated victorious king / Valluvar battle narrative begins | captured — `0083-kuraloviyam-66.md` |
+| 84 | 84 | 67 | king/Valluvar narrative concludes; Kural `வேலன்று வென்றி தருவது...` | captured — `0084-kuraloviyam-67.md` |
+| 85 | 85 | 68 | illustrated beauty / dream vignette begins | captured — `0085-kuraloviyam-68.md` |
+| 86 | 86 | 69 | dream vignette concludes; Kural `நனவென ஒன்றில்லை யாயின்...` | captured — `0086-kuraloviyam-69.md` |
+| 87 | 87 | 70 | illustrated overreaching-prince / retired-commander vignette begins | captured — `0087-kuraloviyam-70.md` |
+| 88 | 88 | 71 | prince/elder vignette concludes; Kural `இறந்தமைந்த சார்புடையர்...` | captured — `0088-kuraloviyam-71.md` |
+| 89 | 89 | 72 | illustrated love-sickness / shame vignette; Kural `காமமும் நாணும்...` | captured — `0089-kuraloviyam-72.md` |
+| 90 | 90 | 73 | love-sickness / pallor continuation; Kurals `கரத்தலும் ஆற்றேன்...`, `புல்லிக் கிடந்தேன்...` and citation lines | captured — `0090-kuraloviyam-73.md` |
+| 91–110 | 91–110 | source-visible body pagination | detailed per-page mapping pending Pass 1 | pending Pass 1 |
 | 111 | 111 | 94 | body page; Part 001 ends | pending Pass 1 |
 
 Do not derive uninspected printed-page values by arithmetic merely because the observed boundary is regular.
 
-## Batch audit — scans 1–10
+## Batch audits
+
+### Scans 1–10
 
 Pass-1 page commits began from source-intake checkpoint:
 
@@ -116,94 +128,74 @@ and reached page-batch head:
 
 The GitHub base→head comparison confirmed **10 sequential commits** and the expected 10 records for scans 1–10.
 
-## Batch audit — scans 11–20
+### Scans 11–20
 
-Batch base:
+Batch base: `1700e1d93cf55830f3b477702b43852d33cca341`
 
-`1700e1d93cf55830f3b477702b43852d33cca341`
-
-Page-batch head:
-
-`5b67f778ac6d1f45c2a6632a6546f115c04bea57`
+Page-batch head: `5b67f778ac6d1f45c2a6632a6546f115c04bea57`
 
 The GitHub comparison confirmed **10 sequential page commits**, with exactly the expected ten added files for scans **11–20** and no unrelated file changes within the batch.
 
-Scans 13–15 intentionally remain `partial` because the handwritten facsimile bodies cannot safely be read word-for-word from the scan. This is a documented source-legibility limitation, not an invitation to reconstruct them from context.
+Scans 13–15 intentionally remain `partial` because the handwritten facsimile bodies cannot safely be read word-for-word from the scan.
 
-## Batch audit — scans 21–30
+### Scans 21–30
 
-Batch base:
+Batch base: `32c71ef540509e881dcc5bb38ccdff92f7642c1d`
 
-`32c71ef540509e881dcc5bb38ccdff92f7642c1d`
-
-Page-batch head:
-
-`1bea805eea734ad25941ebe5d19796507ebd6323`
+Page-batch head: `1bea805eea734ad25941ebe5d19796507ebd6323`
 
 The GitHub comparison confirmed **10 sequential page commits**, with exactly the expected ten added files for scans **21–30** and no unrelated file changes within the batch.
 
-## Batch audit — scans 31–40
+### Scans 31–40
 
-Batch base:
+Batch base: `72bc9064113f97272f19d292da873bbcc17422cc`
 
-`72bc9064113f97272f19d292da873bbcc17422cc`
-
-Page-batch head:
-
-`50a6b3ed5bff02ee9924ed3913d18c90dbf91bc7`
+Page-batch head: `50a6b3ed5bff02ee9924ed3913d18c90dbf91bc7`
 
 The GitHub comparison confirmed **10 sequential page commits**, with exactly the expected ten added files for scans **31–40** and no unrelated file changes within the batch.
 
-## Batch audit — scans 41–50
+### Scans 41–50
 
-Batch base:
+Batch base: `36b98566871bfeefee9ba5964d59694b31c24d89`
 
-`36b98566871bfeefee9ba5964d59694b31c24d89`
-
-Page-batch head:
-
-`77b81744808961817f4bd52a8cf4841f0c631960`
+Page-batch head: `77b81744808961817f4bd52a8cf4841f0c631960`
 
 The GitHub comparison confirmed **10 sequential page commits**, with exactly the expected ten added files for scans **41–50** and no unrelated file changes within the batch.
 
-## Batch audit — scans 51–60
+### Scans 51–60
 
-Batch base:
+Batch base: `6b78e804788c22f292ead41bbcfd9a9c4c70cdfa`
 
-`6b78e804788c22f292ead41bbcfd9a9c4c70cdfa`
-
-Page-batch head:
-
-`c49f14637143ee40862b295d8888619a5bd95345`
+Page-batch head: `c49f14637143ee40862b295d8888619a5bd95345`
 
 The GitHub comparison confirmed **10 sequential page commits**, with exactly the expected ten added files for scans **51–60** and no unrelated file changes within the batch.
 
-## Batch audit — scans 61–70
+### Scans 61–70
 
-Batch base:
+Batch base: `f1ded1c0b3a92b3a0533d3bf23bbc0fe7a0f83ba`
 
-`f1ded1c0b3a92b3a0533d3bf23bbc0fe7a0f83ba`
-
-Page-batch head:
-
-`e8d7d7dcd01228662ffe18906c7d0176c8a0d861`
+Page-batch head: `e8d7d7dcd01228662ffe18906c7d0176c8a0d861`
 
 The GitHub comparison confirmed **exactly the expected ten added page files for scans 61–70 and no unrelated file changes**. The comparison contains **11 commits** because scan 64 received one immediate source-image reread/correction before the batch was synchronized.
 
-## Batch audit — scans 71–80
+### Scans 71–80
 
-Batch base:
+Batch base: `11dcca9eb78cb4daa8bbcbe8df20a9f9c8627a92`
 
-`11dcca9eb78cb4daa8bbcbe8df20a9f9c8627a92`
-
-Page-batch head:
-
-`9d5117e8bccab8a0591ed4c4b57e9e34201b23b1`
+Page-batch head: `9d5117e8bccab8a0591ed4c4b57e9e34201b23b1`
 
 The GitHub comparison confirmed **10 sequential page commits**, with exactly the expected ten added files for scans **71–80** and no unrelated file changes within the batch.
 
+### Scans 81–90
+
+Batch base: `8e7e2806cc06fe41b37855558c3401703290e372`
+
+Page-batch head: `123e5826ab0f105df1c7b3904a24792218437241`
+
+The GitHub comparison confirmed **10 sequential page commits**, with exactly the expected ten added files for scans **81–90** and no unrelated file changes within the batch.
+
 ## Current frontier
 
-**Pass 1 captured continuously through overall scan 80.**
+**Pass 1 captured continuously through overall scan 90.**
 
-Next activity: **Part 001 Pass 1, scans 81–90**.
+Next activity: **Part 001 Pass 1, scans 91–100**.
