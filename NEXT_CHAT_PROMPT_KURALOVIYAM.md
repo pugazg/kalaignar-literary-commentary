@@ -57,19 +57,20 @@ Part 001 source intake and Pass 1 are complete: **111 / 111 physical scans captu
 
 `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_001.md` records direct textual verification for **all scans 1–111**. Do not restart Pass 2A.
 
-### Part 001 Pass 2B — scans 1–33 COMPLETE
+### Part 001 Pass 2B — scans 1–44 COMPLETE
 
 The durable independent lexical-fidelity record is:
 
 `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_001.md`
 
-Overall scans **1–33** have now been independently re-read word by word against the rendered source after Pass 2A was closed.
+Overall scans **1–44** have now been independently re-read word by word against the rendered source after Pass 2A was closed.
 
-Batch-3 source-supported correction for scans 23–33:
+Batch-4 source-supported corrections for scans 34–44:
 
-- scan **23 / printed 6** — `பல்கலைக்கழகக்கான பொதுமக்கள்` → source-visible `பலஆயிரக்கணக்கான பொதுமக்கள்`.
+- scan **43 / printed 26** — `இந்த அழகுக்கு` → source-visible `இந்த அணங்கு`;
+- scan **43 / printed 26** — prior erroneous `வேதனை உண்டாகிறது` → source-visible `வேதனை உண்டாக்குகிறாள்`.
 
-Scans **24–33** required no new Pass-2B page-record correction. Scan 32 is the section-title page `கலைஞரின் / குறளோவியம்`; scan 33 is source-side blank apart from printed page number `16`, with reverse-side bleed-through intentionally left untranscribed.
+Scans **34–42 and 44** required no new Pass-2B page-record correction.
 
 Earlier source limitations remain:
 
@@ -99,13 +100,13 @@ Pass 3 remains a separate visual-structure / visual-text fidelity gate and must 
 If live `main` has not advanced beyond this frontier:
 
 1. continue **Part 001 Pass 2B — independent lexical-fidelity re-read**;
-2. process **overall scans 34–44**;
+2. process **overall scans 45–55**;
 3. independently re-read every source-visible printed word against the rendered scan;
 4. compare that independent reading against each existing Markdown page record;
 5. correct only differences visibly supported by the controlling scan;
 6. pay special attention to character-level confusions, vowel signs, old/uncommon forms, names, quotations/Kurals, joining and spacing;
 7. preserve genuine source limitations as `partial` / `blocked`; never reconstruct from context;
-8. append Batch-4 results to `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_001.md` without claiming Pass 3 completion or assigning final `verified` status;
-9. audit the changed-file set before advancing beyond scan 44.
+8. append Batch-5 results to `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_001.md` without claiming Pass 3 completion or assigning final `verified` status;
+9. audit the changed-file set before advancing beyond scan 55.
 
 Do not begin Part 002. Do not begin Pass 3, the Part audit, or English translation before Part 001 Pass 2B is complete.
