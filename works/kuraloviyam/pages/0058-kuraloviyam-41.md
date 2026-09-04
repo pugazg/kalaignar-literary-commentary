@@ -14,15 +14,15 @@ source_filename: "TVA_BOK_0065733_குறளோவியம்_part_001_pag
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
 
+## Visual material
+
+Large colour illustration above the text showing an elderly man beside a tree and a woman within a circular inset, visually accompanying the Kural discussion.
+
 > தெய்வந் தொழாஅள் கொழுநன் தொழுதெழுவாள்  
 > பெய்யெனப் பெய்யும் மழை
 
 இந்தக் குறளுக்கு உரையெழுதிய பலரும் தவறான உரையே எழுதியிருக்கிறார்கள்.
 
 “தன் கணவனுக்கு மேலான தெய்வம் ஒன்றில்லை என்ற எண்ணத்துடன் கணவனைத் தொழுது வணங்குகிறவள் பெய்யென்று கூறினால் மழை பெய்யும்.”
-
-## Visual material
-
-Large colour illustration above the text showing an elderly man beside a tree and a woman within a circular inset, visually accompanying the Kural discussion.
 
 <!-- மூல ஸ்கேன் பக்கம்: 58; அச்சுப் பக்கம்: 41 -->
