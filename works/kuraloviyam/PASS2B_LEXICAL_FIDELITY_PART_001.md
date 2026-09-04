@@ -42,12 +42,30 @@ Pass 2B independently re-reads every source-visible printed word against the ren
 | 21 | 4 | corrected source-visible joining `மற்ற அனைத்து குறள்களுக்கும்` → `மற்ற அனைத்துக் குறள்களுக்கும்`; remaining தண்டபாணி தேசிகர் prose confirmed |
 | 22 | 5 | independent word-level re-read complete across the வ.சுப.மாணிக்கம் opening page; heading, wording, year and printed-page metadata confirmed; no correction required |
 
+## Batch 3 — overall scans 23–33
+
+**Status: COMPLETE — 11 / 11 scans independently re-read against the rendered source for Pass 2B.**
+
+| Scan | Printed page | Result |
+|---:|---|---|
+| 23 | 6 | corrected `பல்கலைக்கழகக்கான பொதுமக்கள்` → source-visible `பலஆயிரக்கணக்கான பொதுமக்கள்`; remaining வ.சுப.மாணிக்கம் conclusion independently re-read and confirmed |
+| 24 | 7 | independent word-level re-read complete across the தமிழ்க்குடிமகன் section, including heading and dense prose; no correction required |
+| 25 | 8 | independent word-level re-read complete across the காசி ஆனந்தன் section, including names, geographic references and quoted punctuation; no correction required |
+| 26 | 9 | independent word-level re-read complete across the opening இராமலிங்கனார் page, including the quoted `நீராருங்கடலுடுத்த` and uncommon printed forms; no correction required |
+| 27 | 10 | independent word-level re-read complete across the இராமலிங்கனார் continuation and conclusion, including `354` and quoted child dialogue; no correction required |
+| 28 | 11 | independent word-level re-read complete across the ஆசிரியர் சாவி section, including names and uncommon source form `மேம்பாடடையச்`; no correction required |
+| 29 | 12 | independent word-level re-read complete across the டாக்டர் மெ.சுந்தரம் section, including `11-2-85`, foreign-name transliterations and degree abbreviations; no correction required |
+| 30 | 13 | independent word-level re-read complete across the டாக்டர் மா.நன்னன் section, including both moon similes and the long quoted உருவகம்; no correction required |
+| 31 | 14 | independent word-level re-read complete across `கலைஞர் ஏற்புரை`, including `1956-ஆம்`, `354`, `300`, quoted speech and continuation punctuation; no correction required |
+| 32 | — | section-title wording `கலைஞரின் / குறளோவியம்` independently confirmed; no correction required |
+| 33 | 16 | confirmed that the source side is effectively blank apart from printed page number `16`; reverse-side bleed-through remains untranscribed; no correction required |
+
 Pages remain `needs-review` because Pass 3 has not yet been performed. No Pass 2B result assigns final `verified` status.
 
 ## Current Pass 2B frontier
 
-Part 001 Pass 2B lexical-fidelity re-read is complete through **overall scan 22**.
+Part 001 Pass 2B lexical-fidelity re-read is complete through **overall scan 33**.
 
-**Exact next batch: overall scans 23–33.**
+**Exact next batch: overall scans 34–44.**
 
 Known source limitations remain source-limited. In particular, scans **13–15** contain handwriting/facsimile bodies that must not be reconstructed, and scan **19** contains a physically washed-out/faint printed region that must not be inferred from context.
