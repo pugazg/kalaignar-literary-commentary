@@ -75,7 +75,7 @@ Translate only from audited Tamil records. Do not import standard Kural wording,
 
 ## Drafting batch rule
 
-Beginning with **Batch 7**, the current user-directed drafting cadence is **15 consecutive physical scan pages per iteration**. Batches 5–6 remain historical 11-page batches. The final remainder of a Part may be shorter. Do not vary a normal 15-page batch to reach a literary boundary; instead preserve quotations, Kural blocks, narrative and physical continuations across batch boundaries exactly as the audited Tamil records require.
+Beginning with **Batch 7**, the current user-directed drafting cadence is **15 consecutive physical scan pages per iteration**. Batches 5–6 remain historical 11-page batches. The final remainder of a Part may be shorter. Do not vary a normal 15-page batch to reach a literary boundary; preserve quotations, Kural blocks, narrative and physical continuations across batch boundaries exactly as the audited Tamil records require.
 
 ## First-pass completed batches
 
@@ -85,16 +85,17 @@ Beginning with **Batch 7**, the current user-directed drafting cadence is **15 c
 - **Batch 4 — scans 28–37 — COMPLETE**.
 - **Batch 5 — scans 38–48 — COMPLETE** — 11 pages.
 - **Batch 6 — scans 49–59 — COMPLETE** — 11 pages.
-- **Batch 7 — scans 60–74 — COMPLETE** — first 15-page batch; all fifteen new records are `draft`.
+- **Batch 7 — scans 60–74 — COMPLETE** — 15 pages.
+- **Batch 8 — scans 75–89 — COMPLETE** — 15 pages; all fifteen new records are `draft`.
 
-Batch 7 covers printed pages **43–57**: martial history and army qualities; separation/dream longing; Thirunadu and Valanadu governance; Karmegam/Poovazhagi and human `பதர்`; the treacherous minister; beauty/eyes imagery; the captured freedom-fighter/assembly episode; and the opening of the travelling-family theft episode. Repository-preserved Kural blocks were translated only from the audited Tamil records; no external/standard English Kural wording was imported.
+Batch 8 covers printed pages **58–72**: charity after the travelling-family theft; oppressive rule and uprising; the lover's reproached eyes; old age and gambling; separation pallor; victorious king and just sceptre; dream/waking separation; prince versus respected elder/citizens; and the beginning of a love-sickness Kural whose printed citation details continue on scan 90. Repository-preserved Kural blocks were translated only from the audited Tamil records; no external/standard English Kural wording was imported.
 
-The physical continuation **74→75** remains intentionally open.
+The physical continuation **89→90** remains intentionally open.
 
 Current English totals:
 
-- page records: **74/111**;
-- `draft`: **70**;
+- page records: **89/111**;
+- `draft`: **85**;
 - `source-limited`: **4** — scans 13–15, 19;
 - source-checked: **0**;
 - editorial-reviewed: **0**;
@@ -102,19 +103,20 @@ Current English totals:
 
 ## Current exact activity
 
-Proceed with **Part 001 English Batch 8 — scans 75–89**:
+Proceed with **Part 001 English Batch 9 — scans 90–104**:
 
 1. fetch live `main` first;
-2. fetch audited Tamil records for scans **75–89**;
+2. fetch audited Tamil records for scans **90–104**;
 3. process exactly **15 consecutive scans**;
 4. mirror filenames under `translations/en/pages/`;
 5. translate only repository-supported Tamil wording;
 6. keep ordinary verified-source English records at `draft`;
 7. preserve headings, paragraphs, quotations, Kural/verse blocks, visual/source-page functions and physical continuations;
-8. do not import standard Kural English wording or any external translation;
-9. update `TRANSLATION_STATUS.md`, README/handover/current prompt after the batch;
-10. compare the pre-batch base SHA to the new head and confirm only intended files changed;
-11. record the exact next frontier before advancing to scan 90.
+8. preserve the source-supported scan 89→90 continuation without backfilling scan 89 from external knowledge;
+9. do not import standard Kural English wording or any external translation;
+10. update `TRANSLATION_STATUS.md`, README/handover/current prompt after the batch;
+11. compare the pre-batch base SHA to the new head and confirm only intended files changed;
+12. record the exact final drafting remainder before advancing to scan 105.
 
 Do not begin source-check while Part 001 first-pass drafting remains incomplete unless a newer live workflow explicitly changes this cadence.
 
