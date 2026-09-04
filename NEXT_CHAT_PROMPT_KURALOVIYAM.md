@@ -54,26 +54,22 @@ Part 001 has no usable parsed text layer; the rendered source scan is controllin
 
 Part 001 source intake is complete and Pass 1 is complete: **111 / 111 physical scans captured**. Scan 18 begins the main body at printed page 1; scan 111 is printed page 94.
 
-### Part 001 Pass 2A — textual verification through scan 110 COMPLETE
+### Part 001 Pass 2A — COMPLETE
 
 The durable verification record is:
 
 `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_001.md`
 
-Pass 2A has directly compared overall scans **1–110** against the rendered source.
+Pass 2A has now directly compared **all overall scans 1–111** against the rendered source.
 
-Recent Batch-10 source-supported corrections:
+Final Pass-2A work:
 
-- scan 100 — `நாட்டாளைக் கடத்தலாமா?` → `நாட்களைக் கடத்தலாமா?`; `இன்று கேட்டுகிறேன்` → `இன்று கேட்கிறேன்`;
-- scan 101 — `உன் ஆட்களையெடுத்து` → `உன் ஆட்களைவைத்து`; source citation punctuation restored;
-- scan 103 — `இல்லம் புகுந்து கொண்டேன்` → `இல்லில் புகுந்து கொண்டேன்`; `ஏமாற்றச் செய்திட` → source-visible `ஏமாறச் செய்திட`; source citation punctuation restored;
-- scan 105 — `அதுதான் இது:` → source-visible `அதுதான் இது;`; source citation punctuation restored;
-- scan 107 — restored source punctuation `அடக்கினால் என்ன- அடக்காவிட்டால் என்ன?` and citation punctuation;
-- scan 108 — `இந்த எழிலாகச் சித்திரப் பெண்` → `இந்த எழுதாத சித்திரப் பெண்`; `நெஞ்சு எடுகளைத்` → `நெஞ்சு ஏடுகளைத்`; `சித்திரக் கோடுகளைத் தொட்டு தொட்டு` → `சித்திரக்கோடுகளைத் தொட்டுத் தொட்டு`; source citation punctuation restored;
-- scan 109 — `எழுத்து மொழிகள் கற்றவர்` → source-visible `ஏழெட்டு மொழிகள் கற்றவர்`;
-- scan 110 — `அவர் படித்து முடிக்காத நூலே உலகத்திலே இல்லை` → source-visible `அவர் படித்து முடிக்காத நூல்களே உலகத்திலே இல்லை`.
+- scans **100–110** were completed as Batch 10 with source-supported corrections on scans 100, 101, 103, 105, 107, 108, 109 and 110;
+- scan **111 / printed 94** was then directly compared against the rendered source as Batch 11;
+- scan 111 prose and both `சொல்வன்மை` Kurals were confirmed;
+- scan 111 citation punctuation was corrected from the repository's non-source em dash to the source-visible hyphen form: `அதிகாரம் - 65 - சொல்வன்மை; பாடல்கள் - 648, 650`.
 
-Scans **102, 104 and 106** required no page-record textual correction after direct source comparison.
+Pass 2A is therefore **111 / 111 COMPLETE**. Do not restart or repeat it.
 
 Earlier source limitations remain:
 
@@ -82,22 +78,37 @@ Earlier source limitations remain:
 
 ### Mandatory Pass 2B safeguard
 
-After the user identified the scan-11 `ர` / `ற` miss, the workflow was strengthened. Once Pass 2A reaches scan 111, perform an independent **Pass 2B lexical-fidelity re-read** across every printed word in Part 001 before Pass 3.
+After the user identified the scan-11 `ர` / `ற` miss (`உறனுண்டு` → source-visible `உரனுண்டு`), the workflow was strengthened with an independent **Pass 2B lexical-fidelity re-read** before Pass 3.
 
-Pass 2B must specifically look for character-level confusions such as `ர/ற`, `ன/ண`, `ல/ள/ழ`, vowel marks, old/uncommon printed forms, names, quotations and Kural text. Pass 3 remains a separate visual-structure gate and must not be relied on as the lexical safety net.
+Pass 2B is not a confirmation of Pass 2A. It must independently re-read the printed source word by word, with particular attention to:
+
+- `ர / ற`;
+- `ன / ண`;
+- `ல / ள / ழ`;
+- vowel signs and pulli/compound-letter distinctions;
+- source-visible spacing and joining;
+- old/uncommon printed forms;
+- names and titles;
+- quotations and Kural text;
+- punctuation where it affects textual fidelity.
+
+Do not import standard Kural readings, modern spellings, contextual guesses, or web/reference text. The rendered scan remains controlling.
+
+Pass 3 remains a separate visual-structure / visual-text fidelity gate and must not be relied upon as the lexical safety net.
 
 ## Exact next activity
 
 If live `main` has not advanced beyond this frontier:
 
-1. continue **Part 001 Pass 2A — textual verification**;
-2. process **overall scan 111 only**;
-3. compare the existing Markdown page record directly against rendered source scan 111;
-4. verify source-visible wording, punctuation, paragraph boundaries, headings, quoted/Kural text, printed-page metadata and separation of printed text from handwriting/stamps/other non-source marks;
-5. correct only what the controlling scan visibly supports;
-6. do not modernize, normalize, silently repair old/uncommon forms, or import a standard Kural reading from memory/web sources;
-7. append the scan-111 result to `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_001.md` and mark **Pass 2A complete through scan 111**, without claiming Pass 2B or Pass 3 completion;
-8. preserve genuine source limitations as `partial` / `blocked`; never reconstruct from context;
-9. audit the changed-file set and stop after closing Pass 2A.
+1. begin **Part 001 Pass 2B — independent lexical-fidelity re-read**;
+2. process **overall scans 1–11**;
+3. re-read every source-visible printed word independently against the rendered scan rather than merely reviewing the Pass-2A change list;
+4. compare the independent reading against each existing Markdown page record;
+5. correct only differences visibly supported by the controlling scan;
+6. pay special attention to character-level confusions (`ர/ற`, `ன/ண`, `ல/ள/ழ`), vowel signs, old/uncommon forms, names, quoted text, Kurals, and source-visible joining/spacing;
+7. keep handwriting, stamps, signatures and other non-body marks separate from printed source text;
+8. preserve genuine source limitations as `partial` / `blocked`; never reconstruct unclear handwriting or washed-out printing from context;
+9. record Pass-2B results durably without claiming Pass 3 completion or assigning final `verified` status;
+10. audit the changed-file set before advancing beyond scan 11.
 
-Do not restart Pass 1. Do not begin Pass 2B in the same activity as scan 111. After Pass 2A is fully closed, the next separate activity is Part 001 **Pass 2B independent lexical-fidelity re-read**, beginning from scans 1–11. Do not begin Pass 3, the Part audit, or English translation before Pass 2B is complete.
+Do not begin Part 002. Do not begin Pass 3, the Part audit, or English translation before Part 001 Pass 2B is complete.
