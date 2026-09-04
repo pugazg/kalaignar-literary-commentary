@@ -69,10 +69,11 @@ Batch-1 source-supported corrections:
 
 - scan **5 / printed iv** — `பெறவேண்டும் என்ற` → `பெறவேண்டுமென்ற`; `வாய்ப்பில்லாமல் போயிற்று` → `வாய்ப்பில்லாமற் போயிற்று`;
 - scan **6 / printed v** — `1953-ஆம் ஆண்டு` → source-visible `1953ஆம் ஆண்டு`;
+- scan **7 / printed vi** — quoted poem `விண்ணத்து வெண்முகில்கள்` → source-visible `விண்ணகத்து வெண்முகில்கள்`;
 - scan **8 / printed vii** — `முழுவேகைத் தமிழிலும்` → source-visible `முழுவோசைத் தமிழிலும்`;
 - scan **10 / printed ix** — quoted phrase `நிறைநீர நீரவர் கேண்மை` → source-visible `நிறைநீர் நீரவர் கேண்மை`.
 
-Scans **1–4, 7, 9 and 11** required no new Pass-2B page-record correction. Scan 11 independently reconfirmed the previously corrected source-visible `உறையூர்க் கோழிக்கும் உரனுண்டு`.
+Scans **1–4, 9 and 11** required no new Pass-2B page-record correction. Scan 11 independently reconfirmed the previously corrected source-visible `உறையூர்க் கோழிக்கும் உரனுண்டு`.
 
 Handwriting, stamps and signatures remain separate from printed body text.
 
