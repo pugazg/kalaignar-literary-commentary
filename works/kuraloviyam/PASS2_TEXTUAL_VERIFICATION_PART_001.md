@@ -110,6 +110,24 @@ Pass 2B will re-read every printed word against the rendered scan, with special 
 | 54 | 37 | removed non-source duplicate punctuation `அதற்கு இதோ குறள்: :` → source-visible `அதற்கு இதோ குறள்:` |
 | 55 | 38 | moon/couple vignette conclusion, Kural and printed citation lines compared directly; no correction required |
 
+## Batch 6 — overall scans 56–66
+
+**Status: COMPLETE — 11 / 11 scans directly compared with the rendered source scan for Pass 2A.**
+
+| Scan | Printed page | Result |
+|---:|---|---|
+| 56 | 39 | Valluvar/student sword-and-enmity vignette opening compared directly; wording, continuation and printed page metadata confirmed; no correction required |
+| 57 | 40 | corrected source-visible spacing `அஞ்சாவிடினும்` → `அஞ்சா விடினும்`; corrected `பொருத்தம்!` → source-visible `பொருந்தும்!` |
+| 58 | 41 | `தெய்வந் தொழாஅள்...` Kural and opening interpretation compared directly; wording and printed page metadata confirmed; no correction required |
+| 59 | 42 | interpretation continuation, rain Kural, repeated focal Kural and citation lines compared directly; no correction required |
+| 60 | 43 | Tamil martial-history vignette opening compared directly; quoted wording and printed page metadata confirmed; no correction required |
+| 61 | 44 | martial-history continuation, warrior dialogue, `படைமாட்சி` Kural and citation block compared directly; no correction required |
+| 62 | 45 | corrected source-visible joining `ஏற்பட்டு விடுகிறது` → `ஏற்பட்டுவிடுகிறது` |
+| 63 | 46 | separation/longing continuation, three Kural blocks and citation lines compared directly; no correction required |
+| 64 | 47 | `திருநாடு` / repeated-war vignette opening compared directly; wording, continuation and printed page metadata confirmed; no correction required |
+| 65 | 48 | corrected `அதற்கேற்ற முறையைச் செய்யாத` → source-visible `அதற்கேற்ற முறைமையைச் செய்யாத` |
+| 66 | 49 | corrected source-visible uncommon form `வசந்தப் பறவைகள்போல` → `வசந்தப் புறவைகள்போல`; agricultural vignette opening and continuation confirmed |
+
 ## Batch audit rule
 
 Pass 2A changes only page records where the direct scan comparison finds a source-supported correction or confirms a source limitation requiring a status change. Unchanged page records are not rewritten merely to create commits; their completed Pass 2A result is recorded in this log.
@@ -118,8 +136,8 @@ Pass 2A changes only page records where the direct scan comparison finds a sourc
 
 ## Current Pass 2A frontier
 
-Part 001 Pass 2A textual verification is complete through **overall scan 55**.
+Part 001 Pass 2A textual verification is complete through **overall scan 66**.
 
-**Exact next batch: overall scans 56–66.**
+**Exact next batch: overall scans 67–77.**
 
 Known source-limited pages remain source-limited; do not reconstruct unclear handwriting or physically lost/washed-out printed text from context.
