@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "conclusion of the ஊர்க்காவலன் / tiger-danger vignette from scans 99–100; villagers have already killed the tiger after the guardian's delay; highlighted Kural and small Valluvar statue image at foot; printed page 84"
+visual_notes: "conclusion of the ஊர்க்காவலன் / tiger-danger vignette from scans 99–100; villagers have already killed the tiger after the guardian's delay; highlighted Kural and small printed chariot/monument motif at foot; printed page 84"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -24,5 +24,9 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 > கெடுநீரார் காமக் கலன்.
 
 அதிகாரம் - 61 - மடி இன்மை; பாடல் - 605
+
+## Visual material
+
+Small printed chariot/monument motif centered below the Kural citation block near the foot of the page.
 
 <!-- மூல ஸ்கேன் பக்கம்: 101; அச்சுப் பக்கம்: 84 -->
