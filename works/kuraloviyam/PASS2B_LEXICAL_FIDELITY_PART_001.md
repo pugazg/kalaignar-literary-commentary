@@ -168,12 +168,30 @@ Pass 2B independently re-reads every source-visible printed word against the ren
 | 98 | 81 | removed non-source comma in `குளிர்ந்த காற்று, தழுவிக்கொண்டு` → source-visible `குளிர்ந்த காற்று தழுவிக்கொண்டு`; remaining reunion prose, both Kurals and metadata confirmed |
 | 99 | 82 | independently confirmed the illustrated `ஊர்க்காவலன்` / tiger-danger opening and continuation boundary; no correction required |
 
+## Batch 10 — overall scans 100–110
+
+**Status: COMPLETE — 11 / 11 scans independently re-read against the rendered source for Pass 2B.**
+
+| Scan | Printed page | Result |
+|---:|---|---|
+| 100 | 83 | corrected `பகல் வேளையானால் அது பிற்பகல்கூட அல்ல` → source-visible `பகல் வேளைதான் அது; பிற்பகல்கூட அல்ல`; corrected `ஒரு குடிப்பத்துக்கு மக்கள்` → `ஒரு குடிப்பத்து மக்கள்`; corrected `நேற்று வாக்கின்படி` → `நேற்று வாக்களித்தபடி`; corrected `அப்போ` → source-visible `அய்யோ` |
+| 101 | 84 | independently confirmed the tiger-danger conclusion, villagers' speech, `நெடுநீர் மறவி மடிதுயில்...` Kural and authority/song metadata; no correction required |
+| 102 | 85 | independently confirmed the illustrated lovers/waiting opening, quoted rendezvous wording and continuation boundary; no correction required |
+| 103 | 86 | independently confirmed the waiting/`ஊடல்` continuation, quoted speech, `புலப்பல் எனச்சென்றேன்...` Kural and authority/song metadata; no correction required |
+| 104 | 87 | independently confirmed the illustrated வில்லவன் / horse vignette opening and continuation boundary; no correction required |
+| 105 | 88 | independently confirmed the horse-vignette conclusion, `அமரகத்து ஆற்றறுக்கும்...` Kural and authority/song metadata; no correction required |
+| 106 | 89 | independently confirmed the illustrated கலிங்கன்–கதிரவன் anger-control opening, dialogue and continuation boundary; no correction required |
+| 107 | 90 | corrected `என்பா, இப்படி அவன் கன்னம் வீங்கும்படி அடித்தாய்?` → source-visible `என்னப்பா, இப்படி அவன் கன்னம் வீங்கும்படி அடித்தாய்?`; remaining anger-control conclusion, Kural and authority/song metadata confirmed |
+| 108 | 91 | corrected source punctuation `அவளின் பற்றுக்கோடு;` → `அவளின் பற்றுக்கோடு,`; remaining wall-tally vignette, `வாளற்றுப் புற்கென்ற...` Kural and explanatory line confirmed |
+| 109 | 92 | independently confirmed the illustrated learned-speaker / assembly opening, including source-visible `ஏழெட்டு மொழிகள்`; no correction required |
+| 110 | 93 | corrected `ஒரு கணைப்புக் கணைத்துக் கொண்டார்` → source-visible `ஒரு கனைப்புக் கனைத்துக் கொண்டார்`; remaining learned-speaker continuation and quoted `கற்றது கைம்மண் அளவு` passage confirmed |
+
 Pages remain `needs-review` because Pass 3 has not yet been performed. No Pass 2B result assigns final `verified` status.
 
 ## Current Pass 2B frontier
 
-Part 001 Pass 2B lexical-fidelity re-read is complete through **overall scan 99**.
+Part 001 Pass 2B lexical-fidelity re-read is complete through **overall scan 110**.
 
-**Exact next batch: overall scans 100–110.**
+**Exact next batch: overall scan 111.**
 
 Known source limitations remain source-limited. In particular, scans **13–15** contain handwriting/facsimile bodies that must not be reconstructed, and scan **19** contains a physically washed-out/faint printed region that must not be inferred from context.
