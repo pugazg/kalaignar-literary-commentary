@@ -151,34 +151,33 @@ For each Tamil Part:
 
 Part 002 must not begin until Part 001 English closure is complete and Part 002 source is supplied.
 
-## 12. Batch discipline
+## 12. Iteration discipline
 
-For Kuraloviyam first-pass English drafting, the current user-directed cadence is **15 physical scan pages per iteration**, beginning with Batch 7.
+The current user-directed cadence is **15 physical scan pages per normal iteration**.
 
-- Use exactly 15 consecutive `scan_page` records in each normal drafting iteration from Batch 7 onward.
-- The final drafting iteration of a Part may be shorter when fewer than 15 pages remain.
-- A batch boundary does **not** imply a narrative, quotation or Kural boundary; preserve source-supported continuations across batches exactly as the Tamil records do.
-- Source-limited pages still count toward the 15-page batch and retain `source-limited` status.
-- Do not extend or shorten a normal batch merely to reach a more convenient literary boundary.
+For first-pass drafting:
 
-For each draft batch:
+- use exactly 15 consecutive `scan_page` records in each normal iteration;
+- the final drafting iteration of a Part may be shorter when fewer than 15 pages remain;
+- a batch boundary does not imply a narrative, quotation or Kural boundary;
+- source-limited pages count toward the batch and remain `source-limited`.
 
-1. fetch live `main`;
-2. fetch all audited Tamil records in the batch;
-3. translate only those records;
-4. mirror filenames and source-page metadata;
-5. keep new translatable pages at `draft`;
-6. preserve source-limited pages as `source-limited`;
-7. update `TRANSLATION_STATUS.md` with the exact completed and next frontier;
-8. audit the changed-file set before advancing.
+For source-check:
 
-Source-check and editorial review are separate later gates; a first draft must not be promoted merely because it was created from verified Tamil.
+- use exactly 15 consecutive `scan_page` records in each normal iteration;
+- compare English against the audited Tamil page paragraph-by-paragraph / block-by-block;
+- check omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual-page function and cross-page continuations;
+- only a page that passes this comparison may move from `draft` to `source-checked`;
+- `source-limited` pages remain `source-limited` even after their securely established material is reviewed;
+- do not use the source-check stage for stylistic rewriting that is unrelated to fidelity.
+
+For every iteration, fetch live `main` first, preserve newer durable state, update `TRANSLATION_STATUS.md`, and audit the exact changed-file set before advancing.
 
 ## 13. Part 001 drafting record
 
 Part 001 covers overall scans 1–111.
 
-Completed historical batches retain the cadence that was in force when they were executed:
+Completed first-pass batches:
 
 - Batch 1: scans 1–8;
 - Batch 2: scans 9–17;
@@ -186,6 +185,13 @@ Completed historical batches retain the cadence that was in force when they were
 - Batch 4: scans 28–37;
 - Batch 5: scans 38–48 — 11-page cadence;
 - Batch 6: scans 49–59 — 11-page cadence;
-- Batch 7: scans 60–74 — first 15-page cadence batch.
+- Batch 7: scans 60–74 — 15 pages;
+- Batch 8: scans 75–89 — 15 pages;
+- Batch 9: scans 90–104 — 15 pages;
+- Batch 10: scans 105–111 — final 7-page remainder.
 
-From **Batch 7 onward**, use the current user-directed **15 pages per iteration** cadence. The final Part 001 drafting batch may contain fewer than 15 scans if required by the 111-page Part boundary.
+Part 001 first-pass English drafting is **COMPLETE: 111/111 page records**.
+
+## 14. Part 001 source-check start
+
+The next review gate is source-check. Begin with **SC1 — scans 1–15** under the 15-page iteration rule. Scans 13–15 remain `source-limited`; do not reconstruct their unreadable facsimile bodies.
