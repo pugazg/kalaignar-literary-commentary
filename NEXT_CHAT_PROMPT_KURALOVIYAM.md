@@ -76,10 +76,8 @@ Do not import standard Thirukkural wording, published English translations, web 
 Beginning with **Batch 7**, the current user-directed first-pass drafting cadence is **15 consecutive physical scan pages in every normal iteration**.
 
 - Batches 5 and 6 remain historical 11-page batches.
-- Do not shorten or extend a normal 15-page batch to reach a literary boundary.
-- Preserve source-supported narrative, quotation, Kural and physical continuations across batch boundaries.
-- A source-limited record still counts toward the 15-page batch.
 - The final remainder of a Part may be shorter if fewer than 15 scans remain.
+- Preserve source-supported narrative, quotation, Kural and physical continuations across batch boundaries.
 
 ## English first-pass progress
 
@@ -90,14 +88,15 @@ Beginning with **Batch 7**, the current user-directed first-pass drafting cadenc
 - **Batch 5 — COMPLETE — scans 38–48** — 11 pages.
 - **Batch 6 — COMPLETE — scans 49–59** — 11 pages.
 - **Batch 7 — COMPLETE — scans 60–74** — 15 pages.
-- **Batch 8 — COMPLETE — scans 75–89** — 15 pages; all fifteen new records are `draft`.
+- **Batch 8 — COMPLETE — scans 75–89** — 15 pages.
+- **Batch 9 — COMPLETE — scans 90–104** — 15 pages; all fifteen new records are `draft`.
 
-Batch 8 covers printed pages 58–72 and ends with the `காமமும் நாணும்...` Kural on scan 89. Its printed citation details continue on scan 90, so scan 89 deliberately does not infer them. No external or standard English Kural wording was imported.
+Batch 9 covers printed pages **73–87** and ends with the opening of the Villavan battlefield-call episode. The physical continuation **104→105** is intentionally preserved. No external or standard English Kural wording was imported.
 
 Current English totals:
 
-- page records created: **89/111**;
-- `draft`: **85**;
+- page records created: **104/111**;
+- `draft`: **100**;
 - `source-limited`: **4** — scans 13–15, 19;
 - source-checked: **0**;
 - editorial-reviewed: **0**;
@@ -107,18 +106,16 @@ Do not redo completed batches merely for stylistic harmonization; later review g
 
 ## Exact next activity
 
-If live `main` has not advanced beyond this frontier, execute **Part 001 English Batch 9 — scans 90–104**.
+If live `main` has not advanced beyond this frontier, execute the **final Part 001 first-pass drafting Batch 10 — scans 105–111**.
 
-1. fetch audited Tamil records for scans **90–104**;
+1. fetch audited Tamil records for scans **105–111**;
 2. create matching English files under `works/kuraloviyam/translations/en/pages/`;
-3. process exactly **15 consecutive pages**;
+3. process the final **7 consecutive pages**; this is the permitted shorter Part remainder;
 4. keep ordinary verified-source English records at `status: "draft"`;
-5. preserve source-supported headings, paragraph/quotation/Kural/verse structure, visual-page functions and cross-page continuations;
-6. preserve the scan 89→90 continuation exactly as supported by the Tamil records;
-7. translate only from audited repository Tamil and do not import standard Kural or external English wording;
-8. update `translations/en/TRANSLATION_STATUS.md`, `works/kuraloviyam/README.md`, `works/kuraloviyam/HANDOVER.md`, and this prompt after the batch;
-9. audit the pre-batch base→head changed-file set and record the exact final drafting remainder before advancing to scan 105.
-
-Do not begin English source-check while Part 001 first-pass drafting remains incomplete unless a newer live workflow explicitly changes the cadence.
+5. preserve source-supported headings, paragraph/quotation/Kural/verse structure, visual-page functions, the **104→105** continuation and the Part-ending structure;
+6. translate only from audited repository Tamil and do not import standard Kural or external English wording;
+7. update `translations/en/TRANSLATION_STATUS.md`, `works/kuraloviyam/README.md`, `works/kuraloviyam/HANDOVER.md`, and this prompt after the batch;
+8. audit the pre-batch base→head changed-file set;
+9. confirm **111/111 English page records** and only then advance to the English source-check stage.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
