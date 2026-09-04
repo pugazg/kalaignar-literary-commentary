@@ -8,7 +8,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
-| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass records through scan 104 |
+| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; source-check next |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -53,7 +53,7 @@ Permanent review cadence:
 
 **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
 
-First-pass drafting follows the user-directed **15 consecutive scan pages per iteration** rule beginning with Batch 7. Earlier completed batches retain their historical sizes. The final remainder of a Part may be shorter; batch boundaries do not imply literary completion, so cross-page continuations remain open when required.
+The current user-directed normal iteration size is **15 consecutive scans**. The final drafting remainder may be shorter; source-check now also uses 15-page iterations.
 
 ## First-pass progress
 
@@ -61,18 +61,18 @@ First-pass drafting follows the user-directed **15 consecutive scan pages per it
 - **Batch 2 / scans 9–17 — COMPLETE**; scans 13–15 are `source-limited`.
 - **Batch 3 / scans 18–27 — COMPLETE**; scan 19 is `source-limited`.
 - **Batch 4 / scans 28–37 — COMPLETE**.
-- **Batch 5 / scans 38–48 — COMPLETE** — 11-page cadence.
-- **Batch 6 / scans 49–59 — COMPLETE** — 11-page cadence.
-- **Batch 7 / scans 60–74 — COMPLETE** — first 15-page cadence batch.
+- **Batch 5 / scans 38–48 — COMPLETE** — 11 pages.
+- **Batch 6 / scans 49–59 — COMPLETE** — 11 pages.
+- **Batch 7 / scans 60–74 — COMPLETE** — 15 pages.
 - **Batch 8 / scans 75–89 — COMPLETE** — 15 pages.
-- **Batch 9 / scans 90–104 — COMPLETE** — 15 pages; love-sickness continuation, two-commanders/deeds vignette, eyes-as-drum sequence, young poet/prospective bride, flower/eye reunion, Urkkavalan/tiger-delay story, two-night waiting/reunion, and the opening Villavan battlefield-call episode.
+- **Batch 9 / scans 90–104 — COMPLETE** — 15 pages.
+- **Batch 10 / scans 105–111 — COMPLETE** — final 7-page remainder.
 
-The physical continuation **104→105** is intentionally preserved.
+**English first-pass drafting: COMPLETE — 111/111 page records.**
 
 Current English counts:
 
-- page records created: **104 / 111**;
-- `draft`: **100**;
+- `draft`: **107**;
 - `source-limited`: **4** — scans 13–15, 19;
 - source-checked: **0**;
 - editorial-reviewed: **0**;
@@ -82,8 +82,8 @@ Current English counts:
 
 **Tamil Part 001: archival-ready / closed.**
 
-**English Part 001: first-pass drafting complete through scan 104.**
+**English Part 001: first-pass drafting COMPLETE — 111/111.**
 
-Exact next activity: **final English Batch 10 — scans 105–111**, the remaining **7 pages** of Part 001. After that batch is audited and **111/111 English records** are confirmed, begin the English source-check stage.
+Exact next activity: **English source-check SC1 — scans 1–15**, exactly 15 consecutive pages. Promote only pages that pass fidelity comparison; scans 13–15 remain `source-limited` and must not be reconstructed.
 
-Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
+Do not begin glossary reconciliation/editorial review before source-check is complete. Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
