@@ -2,133 +2,87 @@
 
 Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf`
 
-Audit base: live `main` after completion of Part 001 Pass 3 (`3af65e74adec056480d701356ff18be176888a04`).
+Initial audit base: live `main` after completion of Part 001 Pass 3 (`3af65e74adec056480d701356ff18be176888a04`).
 
-This is the Part 001 gate defined by `KURALOVIYAM_ARCHIVAL_GUIDELINES.md`: physical coverage, scan/printed-page continuity, verification-gate closure, status consistency, Part boundary and unresolved source limitations.
+Final page-status synchronization is recorded separately in `PART_001_FINAL_STATUS_SYNC.md`.
 
-## Result
+## Final result
 
-**PART 001 AUDIT: PASS FOR SOURCE COVERAGE / TEXTUAL FIDELITY / VISUAL-TEXT FIDELITY, WITH FINAL METADATA-STATUS SYNCHRONIZATION STILL REQUIRED.**
+**PART 001 TAMIL ARCHIVAL AUDIT: PASS.**
 
-Part 001 is not yet declared fully archival-ready in page front matter because the page-level `status` / `visual_fidelity` fields have deliberately not been globally promoted during Pass 2A, Pass 2B or Pass 3. That synchronization is the exact next repository activity.
+Part 001 is now **Tamil archival-ready with four explicit source-limited `partial` pages**.
 
-## 1. Physical coverage — PASS
+## Coverage and structure
 
-- supplied split contains **111 physical scans**;
-- canonical overall range is **1–111**;
-- page-aligned Markdown records exist continuously for the Part 001 sequence;
-- `scan_page` and `part_page` use the same 1–111 sequence in Part 001;
-- the project page map records all physical pages, including cover, publication matter, handwritten facsimiles, photograph/illustration pages, body pages, the section-title leaf and the intentionally blank source-side page.
+- physical scans: **111 / 111**;
+- canonical overall range: **1–111**;
+- page-aligned Markdown records: **111 / 111**;
+- scan 1: front cover;
+- scans 2–3: title/publication/edition matter;
+- scans 4–17: front matter;
+- scan 18: main body begins, printed page **1**, heading `பேராசிரியர்`;
+- scan 32: unnumbered section-title leaf `கலைஞரின் குறளோவியம்`;
+- scan 33: intentionally blank source-side page carrying printed page **16**; reverse-side bleed-through is not body text;
+- scans 34–111: main `கலைஞரின் குறளோவியம்` sequence through printed page **94**;
+- scan 111: Part 001 final physical scan, closing the learned-speaker vignette with two `சொல்வன்மை` Kurals and lower Valluvar statue motif.
 
-No physical scan is intentionally omitted.
+The apparent missing printed page 15 is not manufactured or inferred: scan 32 is unnumbered and scan 33 visibly carries page 16.
 
-## 2. Printed-page / structural continuity — PASS
+## Verification gates
 
-Confirmed source boundaries:
+- Pass 1 physical capture/transcription: **COMPLETE — 111 / 111**;
+- Pass 2A direct textual verification: **COMPLETE — 111 / 111**;
+- Pass 2B independent lexical-fidelity re-read: **COMPLETE — 111 / 111**;
+- Pass 3 meaningful visual-text verification: **COMPLETE — 111 / 111**;
+- Part audit: **PASS**;
+- final metadata/status synchronization: **PASS**.
 
-- scan 1 — front cover;
-- scans 2–3 — title/publication/edition matter;
-- scans 4–17 — front matter, printed iii–xvi;
-- scan 18 — main body begins at printed page 1 (`பேராசிரியர்`);
-- scan 31 — printed page 14 (`கலைஞர் ஏற்புரை`);
-- scan 32 — section-title leaf `கலைஞரின் குறளோவியம்`, with no printed page number claimed;
-- scan 33 — intentionally blank source-side page, printed page 16; reverse-side bleed-through remains non-body material;
-- scans 34–111 — main `கலைஞரின் குறளோவியம்` sequence through printed page 94;
-- scan 111 — Part 001 final physical scan / printed page 94, closing the learned-speaker vignette with two `சொல்வன்மை` Kurals and the lower Valluvar statue motif.
+The detailed gate records remain:
 
-The apparently missing printed page 15 is not manufactured: scan 32 is an unnumbered section-title leaf and scan 33 visibly carries printed page 16.
+- `PASS2_TEXTUAL_VERIFICATION_PART_001.md`;
+- `PASS2B_LEXICAL_FIDELITY_PART_001.md`;
+- `PASS3_VISUAL_TEXT_VERIFICATION_PART_001.md`;
+- `PART_001_FINAL_STATUS_SYNC.md`.
 
-## 3. Verification gates — PASS
+## Final page-status distribution
 
-### Pass 1
+- **107** pages: `status: "verified"`;
+- **4** pages: `status: "partial"` — scans **13, 14, 15, 19**;
+- **111 / 111** pages: `visual_fidelity: "verified"`.
 
-**COMPLETE — 111 / 111 scans captured.**
+The four partial records are genuine source limitations and are non-blocking for Part 001 closure:
 
-### Pass 2A — direct textual verification
+| Scan | Printed page | Source limitation |
+|---:|---|---|
+| 13 | xii | handwritten/facsimile body is not safely readable word-for-word |
+| 14 | xiii | handwritten/facsimile body is not safely readable word-for-word |
+| 15 | xiv | handwritten/facsimile body is not safely readable word-for-word |
+| 19 | 2 | physically washed-out/faint central printed region cannot safely be established |
 
-**COMPLETE — 111 / 111 scans.**
+No contextual reconstruction is permitted for these records.
 
-`PASS2_TEXTUAL_VERIFICATION_PART_001.md` records direct source comparison for the entire part. Source-supported wording, punctuation, paragraph, Kural and metadata corrections were applied during that pass without assigning final `verified` status.
+## Final status-sync integrity
 
-### Pass 2B — independent lexical-fidelity re-read
+The page-status synchronization changed exactly the **111 Part 001 page records**. Ordinary records received final textual and visual verification metadata; scans 13–15 and 19 retained textual `partial` while receiving `visual_fidelity: "verified"`.
 
-**COMPLETE — 111 / 111 scans.**
+Aggregate comparison showed extra newline-only diff lines on scans 10, 11 and 35. Commit-level patch inspection confirmed these were end-of-file newline changes only; **Tamil lexical/body wording was not changed by the final status synchronization**.
 
-`PASS2B_LEXICAL_FIDELITY_PART_001.md` records the independent second reading of every source-visible printed word, including character-level distinctions, joining/spacing, names, quotations, Kural text and punctuation.
+## Part boundary
 
-### Pass 3 — meaningful visual-text verification
+Scan 111 cleanly closes the supplied Part 001 source unit.
 
-**COMPLETE — 111 / 111 scans.**
+The external **111 → 112** continuity check remains deferred until the Part 002 source is actually supplied. Nothing is inferred or created for scan 112.
 
-`PASS3_VISUAL_TEXT_VERIFICATION_PART_001.md` records heading hierarchy, block/quotation lineation, page furniture, image/text relationships and cross-page continuation. Source-supported illustration-order corrections were made where required.
+## Per-part closure policy
 
-No remaining ordinary printed page depends on Pass 3 as a lexical safety net.
+Kuraloviyam is closed one supplied split at a time. For every Part, complete source intake, Pass 1, Pass 2A, Pass 2B, Pass 3, Part audit, final metadata/status synchronization and documentation synchronization before advancing. If the project-created English layer is being maintained, complete that Part's English translation/review closure before the next Part begins.
 
-## 4. Source-limited records — PRESERVED / NON-BLOCKING
+Once a Part is closed, its repository records are the durable working layer. The earlier split PDF should not normally be needed again unless a newly discovered source/provenance problem specifically requires a recheck.
 
-The following limitations are genuine properties of the supplied scan and remain deliberately unresolved rather than reconstructed:
+## Final disposition
 
-| Scan | Printed page | Status to retain | Limitation |
-|---:|---|---|---|
-| 13 | xii | `partial` | handwritten/facsimile body is not safely readable word-for-word; printed heading/date/layout were checked |
-| 14 | xiii | `partial` | handwritten/facsimile body is not safely readable word-for-word; printed heading/layout were checked |
-| 15 | xiv | `partial` | handwritten/facsimile body is not safely readable word-for-word; printed heading/layout were checked |
-| 19 | 2 | `partial` | physically washed-out/faint central printed region cannot be safely recovered from the controlling scan |
+**Part 001 Tamil archival layer: CLOSED / ARCHIVAL-READY.**
 
-These pages must **not** be promoted to textual `verified` while their source-visible wording remains incomplete. Their Pass 3 visual organization has nevertheless been directly checked.
+The next content stage, after documentation synchronization, is **Part 001 project-created English translation from the audited Tamil records**.
 
-## 5. Part boundary — PASS WITH ADJACENT-PART CHECK DEFERRED
-
-Scan 111 is a complete supplied physical scan and the current Part 001 boundary. Its page record captures the learned-speaker conclusion, two `சொல்வன்மை` Kurals, authority/song metadata and the lower Valluvar statue motif.
-
-No source for overall scan 112 / Part 002 has yet been supplied in this project state, so the external **111 → 112 cross-part visual/content continuity check is deferred until Part 002 is attached**. Nothing is inferred or invented for scan 112.
-
-This deferred adjacent-part check does not alter the integrity of the supplied 111-page Part 001 source unit.
-
-## 6. Status / metadata consistency — ACTION REQUIRED
-
-The source-verification gates are complete, but page front matter was intentionally left in pre-final states during the staged passes. The final status synchronization has not yet been performed globally.
-
-Expected synchronization rule:
-
-- ordinary fully source-checked pages: `status: "verified"`;
-- scans **13–15 and 19**: retain `status: "partial"`;
-- all 111 pages whose meaningful visual-text gate is complete: `visual_fidelity: "verified"`;
-- do not alter Tamil body wording during metadata-only synchronization;
-- do not remove or weaken the explicit source-limit notes on scans 13–15 and 19.
-
-Because there are 111 physical records and four genuine `partial` records, the expected final textual-status distribution after synchronization is **107 `verified` + 4 `partial`**.
-
-Until that page-level synchronization is committed and audited, do not claim that every page front matter is archival-ready and do not begin English translation.
-
-## 7. Documentation drift found
-
-`works/kuraloviyam/README.md`, `works/kuraloviyam/indexes/page-map.md`, root `HANDOVER.md` and `NEXT_CHAT_PROMPT_KURALOVIYAM.md` contain older workflow-frontier language from Pass 1 / Pass 2B stages. Live verification logs are newer and authoritative.
-
-These documentation files should be synchronized after (or together with) the page-status synchronization so the next-chat frontier does not reopen completed Pass 2A / Pass 2B / Pass 3 work.
-
-## Final audit disposition
-
-- physical coverage: **PASS — 111 / 111**;
-- internal scan continuity: **PASS**;
-- printed-page/source-structure continuity: **PASS**;
-- Pass 2A: **COMPLETE — 111 / 111**;
-- Pass 2B: **COMPLETE — 111 / 111**;
-- Pass 3: **COMPLETE — 111 / 111**;
-- unresolved source limitations: **4 documented `partial` pages (13–15, 19), no contextual reconstruction permitted**;
-- adjacent Part 002 boundary: **deferred until scan 112 source is supplied**;
-- final page-front-matter synchronization: **PENDING**.
-
-## Exact next activity
-
-Perform **Part 001 final metadata/status synchronization**:
-
-1. update ordinary Part 001 page records to `status: "verified"`;
-2. retain `status: "partial"` on scans 13–15 and 19;
-3. set `visual_fidelity: "verified"` on all 111 Part 001 page records now covered by Pass 3;
-4. make no Tamil lexical/body-text edits during this synchronization;
-5. audit the resulting distribution as **107 verified + 4 partial**, with 111/111 visual-fidelity verified;
-6. synchronize `README.md`, `indexes/page-map.md`, root `HANDOVER.md` and `NEXT_CHAT_PROMPT_KURALOVIYAM.md` to the new durable frontier;
-7. only after that synchronization is clean may Part 001 be declared archival-ready and an English project-translation layer be considered.
-
-Do not begin Part 002 until its source is supplied.
+Do not begin Part 002 until the required Part 001 per-part closure workflow is complete and Part 002's source is supplied.
