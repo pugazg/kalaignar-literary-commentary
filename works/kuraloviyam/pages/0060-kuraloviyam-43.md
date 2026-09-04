@@ -14,6 +14,10 @@ source_filename: "TVA_BOK_0065733_குறளோவியம்_part_001_pag
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
 
+## Visual material
+
+Large colour battle illustration above the prose showing an armed warrior amid combat, directly introducing the page's martial-history discussion.
+
 போர்க்களக் காட்சிகளையும் போருக்குப் புறப்படும் வேந்தர்கள் உரைத்திடும் சூளுரைகளையும் தமிழ் இலக்கியம் சிறப்பாகக் கூறும்.
 
 ‘போரில் தோற்றுவிடுவேனாயின் புலவர்கள் என்னைப் பாடாது போகட்டும்’ என்றும் ‘என் நாட்டு மக்கள் என்னைக் கொடுங்கோலன் என்று இழித்துரைக்கட்டும்’ என்றும் முழங்கியவாறு களம் புகுந்தனர் நாட்டுடைத் தலைவர்கள் என்று, தமிழர் வரலாறு கூறுகிறது.
@@ -25,9 +29,5 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 காவா நாவிற் கனகனும் விசயனும் தமிழ் மன்னர்களை இழித்துரைத்தார்கள் எனக் கேள்வியுற்று வடபுலம் சென்று, அவர்களை வென்று, அவர்தம் முடியினில் கல்வேற்றி வந்து கண்ணகிக்குச் சிலையெடுத்தான் சேரமன்னன்.
 
 இலங்கையை வென்றான்; கடாரம் வரை சென்று வெற்றிக்கொடி நாட்டினான் - சோழ மன்னர்கள்.
-
-## Visual material
-
-Large colour battle illustration above the prose showing an armed warrior amid combat, directly introducing the page's martial-history discussion.
 
 <!-- மூல ஸ்கேன் பக்கம்: 60; அச்சுப் பக்கம்: 43 -->
