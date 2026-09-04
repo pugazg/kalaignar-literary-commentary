@@ -200,6 +200,14 @@ Pass 2B will re-read every printed word against the rendered scan, with special 
 | 109 | 92 | corrected `எழுத்து மொழிகள் கற்றவர்` → source-visible `ஏழெட்டு மொழிகள் கற்றவர்` |
 | 110 | 93 | corrected `அவர் படித்து முடிக்காத நூலே உலகத்திலே இல்லை` → source-visible `அவர் படித்து முடிக்காத நூல்களே உலகத்திலே இல்லை` |
 
+## Batch 11 — overall scan 111
+
+**Status: COMPLETE — 1 / 1 scan directly compared with the rendered source scan for Pass 2A.**
+
+| Scan | Printed page | Result |
+|---:|---|---|
+| 111 | 94 | learned-speaker assembly conclusion and both `சொல்வன்மை` Kurals compared directly; wording and printed page metadata confirmed; restored source-visible hyphen punctuation in the citation line |
+
 ## Batch audit rule
 
 Pass 2A changes only page records where the direct scan comparison finds a source-supported correction or confirms a source limitation requiring a status change. Unchanged page records are not rewritten merely to create commits; their completed Pass 2A result is recorded in this log.
@@ -208,8 +216,8 @@ Pass 2A changes only page records where the direct scan comparison finds a sourc
 
 ## Current Pass 2A frontier
 
-Part 001 Pass 2A textual verification is complete through **overall scan 110**.
+Part 001 Pass 2A textual verification is **COMPLETE for all overall scans 1–111**.
 
-**Exact next batch: overall scan 111.**
+**Exact next activity: begin Part 001 Pass 2B independent lexical-fidelity re-read with overall scans 1–11.**
 
 Known source-limited pages remain source-limited; do not reconstruct unclear handwriting or physically lost/washed-out printed text from context.
