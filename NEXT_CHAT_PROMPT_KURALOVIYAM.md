@@ -89,14 +89,15 @@ Beginning with **Batch 7**, the current user-directed first-pass drafting cadenc
 - **Batch 4 — COMPLETE — scans 28–37**.
 - **Batch 5 — COMPLETE — scans 38–48** — 11 pages.
 - **Batch 6 — COMPLETE — scans 49–59** — 11 pages.
-- **Batch 7 — COMPLETE — scans 60–74** — first 15-page batch; all fifteen new records are `draft`.
+- **Batch 7 — COMPLETE — scans 60–74** — 15 pages.
+- **Batch 8 — COMPLETE — scans 75–89** — 15 pages; all fifteen new records are `draft`.
 
-Batch 7 covers printed pages 43–57 and ends with the opening of the travelling-family theft episode. The physical continuation **74→75** is intentionally preserved. No external or standard English Kural wording was imported.
+Batch 8 covers printed pages 58–72 and ends with the `காமமும் நாணும்...` Kural on scan 89. Its printed citation details continue on scan 90, so scan 89 deliberately does not infer them. No external or standard English Kural wording was imported.
 
 Current English totals:
 
-- page records created: **74/111**;
-- `draft`: **70**;
+- page records created: **89/111**;
+- `draft`: **85**;
 - `source-limited`: **4** — scans 13–15, 19;
 - source-checked: **0**;
 - editorial-reviewed: **0**;
@@ -106,16 +107,17 @@ Do not redo completed batches merely for stylistic harmonization; later review g
 
 ## Exact next activity
 
-If live `main` has not advanced beyond this frontier, execute **Part 001 English Batch 8 — scans 75–89**.
+If live `main` has not advanced beyond this frontier, execute **Part 001 English Batch 9 — scans 90–104**.
 
-1. fetch audited Tamil records for scans **75–89**;
+1. fetch audited Tamil records for scans **90–104**;
 2. create matching English files under `works/kuraloviyam/translations/en/pages/`;
 3. process exactly **15 consecutive pages**;
 4. keep ordinary verified-source English records at `status: "draft"`;
 5. preserve source-supported headings, paragraph/quotation/Kural/verse structure, visual-page functions and cross-page continuations;
-6. translate only from audited repository Tamil and do not import standard Kural or external English wording;
-7. update `translations/en/TRANSLATION_STATUS.md`, `works/kuraloviyam/README.md`, `works/kuraloviyam/HANDOVER.md`, and this prompt after the batch;
-8. audit the pre-batch base→head changed-file set and record the exact next drafting frontier before advancing to scan 90.
+6. preserve the scan 89→90 continuation exactly as supported by the Tamil records;
+7. translate only from audited repository Tamil and do not import standard Kural or external English wording;
+8. update `translations/en/TRANSLATION_STATUS.md`, `works/kuraloviyam/README.md`, `works/kuraloviyam/HANDOVER.md`, and this prompt after the batch;
+9. audit the pre-batch base→head changed-file set and record the exact final drafting remainder before advancing to scan 105.
 
 Do not begin English source-check while Part 001 first-pass drafting remains incomplete unless a newer live workflow explicitly changes the cadence.
 
