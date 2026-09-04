@@ -77,21 +77,25 @@ Translate only from audited Tamil records. Do not import standard Kural wording,
 
 - **Batch 1 — scans 1–8 — COMPLETE**.
 - **Batch 2 — scans 9–17 — COMPLETE**; scans 13–15 are `source-limited`.
-- **Batch 3 — scans 18–27 — COMPLETE**; scan 19 is `source-limited` and explicitly preserves the audited washed-out gap.
+- **Batch 3 — scans 18–27 — COMPLETE**; scan 19 is `source-limited` and preserves the audited washed-out gap.
+- **Batch 4 — scans 28–37 — COMPLETE**.
 
-Batch 3 content:
+Batch 4 content:
 
-- scans 18–20 — Professor;
-- scan 21 — Maha Vidwan Dandapani Desikar;
-- scans 22–23 — Dr. V. Sub. Manickam;
-- scan 24 — Principal of Madurai Yadava College, Tamilkudimagan;
-- scan 25 — Kasi Anandan;
-- scans 26–27 — Guardian of the Official Language Ramalinganar.
+- scan 28 — Editor Saavi;
+- scan 29 — Dr. Me. Sundaram;
+- scan 30 — Dr. Ma. Nannan;
+- scan 31 — Kalaignar's Response;
+- scan 32 — `கலைஞரின் குறளோவியம்` section-title leaf;
+- scan 33 — intentional blank source-side page / printed page 16;
+- scans 34–37 — first four pages of the main `கலைஞரின் குறளோவியம்` sequence.
+
+The physical continuations 34→35 and 37→38 are preserved. No source-check or editorial-review promotion has been claimed.
 
 Current English totals:
 
-- page records: **27/111**;
-- `draft`: **23**;
+- page records: **37/111**;
+- `draft`: **33**;
 - `source-limited`: **4** — scans 13–15, 19;
 - source-checked: **0**;
 - editorial-reviewed: **0**;
@@ -99,19 +103,18 @@ Current English totals:
 
 ## Current exact activity
 
-Proceed with **Part 001 English Batch 4 — scans 28–37**:
+Proceed with **Part 001 English Batch 5 — scans 38–47**:
 
 1. fetch live `main` first;
-2. fetch audited Tamil records for scans 28–37;
+2. fetch audited Tamil records for scans 38–47;
 3. mirror filenames under `translations/en/pages/`;
 4. translate only repository-supported Tamil wording;
-5. keep ordinary new English records at `draft`;
-6. preserve headings, quotations, verses, visual/source-page functions and physical continuations;
-7. scans 28–31 cover Saavi, Dr. Me. Sundaram, Dr. Ma. Nannan and Kalaignar's response;
-8. scan 32 is the `கலைஞரின் குறளோவியம்` title leaf;
-9. scan 33 is the intentional blank source-side page / printed page 16;
-10. scans 34–37 begin the main `கலைஞரின் குறளோவியம்` sequence;
-11. update `TRANSLATION_STATUS.md`, audit base→head, and record the next exact frontier.
+5. keep ordinary verified-source English records at `draft`;
+6. preserve headings, paragraphs, quotations, Kural/verse blocks, visual/source-page functions and physical continuations;
+7. do not import standard Kural English wording or any external translation;
+8. update `TRANSLATION_STATUS.md`, README/handover/current prompt after the batch;
+9. compare the pre-batch base SHA to the new head and confirm only intended files changed;
+10. record the exact next frontier before advancing to scan 48.
 
 Do not begin source-check while Part 001 first-pass drafting remains incomplete unless a newer live workflow explicitly changes this cadence.
 
