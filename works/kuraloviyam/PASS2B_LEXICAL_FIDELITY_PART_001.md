@@ -150,12 +150,30 @@ Pass 2B independently re-reads every source-visible printed word against the ren
 | 87 | 70 | independently confirmed the prince/retired-commander opening, including fort/army/treasury/allies prose and continuation boundary; no correction required |
 | 88 | 71 | corrected `அடியபடும் உங்களுக்கு` → source-visible `அடிபடும் உங்களுக்கு`; remaining uprising/retired-commander conclusion, `இறந்தமைந்த சார்புடையர்...` Kural and metadata confirmed |
 
+## Batch 9 — overall scans 89–99
+
+**Status: COMPLETE — 11 / 11 scans independently re-read against the rendered source for Pass 2B.**
+
+| Scan | Printed page | Result |
+|---:|---|---|
+| 89 | 72 | corrected `இப்படியாமல` → source-visible `இப்படியாமல்`; remaining love-sickness prose, Kural and continuation boundary independently confirmed |
+| 90 | 73 | independently confirmed both love-sickness continuations, Kurals and citation metadata; no correction required |
+| 91 | 74 | corrected `இதழ் அசைவு தெரியாமல்` → source-visible `இதழ் அசைவது தெரியாமல்`; remaining two-commanders opening and continuation boundary confirmed |
+| 92 | 75 | corrected `கீழ்மைக் செயல்` → source-visible `கீழ்மைச் செயல்`; remaining two-commanders conclusion, Kural and metadata confirmed |
+| 93 | 76 | independently confirmed the illustrated public-announcement / `திடும்! திடும்! திடும்!` opening and continuation boundary; no correction required |
+| 94 | 77 | independently confirmed the eye-as-drum continuation, both Kurals, dialogue and authority/song metadata; no correction required |
+| 95 | 78 | corrected `கூட்டத்தில் விரித்திருந்த` → source-visible `கூடத்தில் விரித்திருந்த`; remaining prospective-bride opening and continuation boundary confirmed |
+| 96 | 79 | corrected `காதலவு` → source-visible `காதளவு`; corrected `கட்டுப்படும் நிலவுக்கு` → source-visible `கட்டுக்குள் நிலவுலகு`; remaining prospective-bride conclusion, Kural and metadata confirmed |
+| 97 | 80 | corrected `அவன் வரும்போது` → source-visible `அவள் வரும்போது`; remaining flower/eye vignette opening and continuation boundary confirmed |
+| 98 | 81 | removed non-source comma in `குளிர்ந்த காற்று, தழுவிக்கொண்டு` → source-visible `குளிர்ந்த காற்று தழுவிக்கொண்டு`; remaining reunion prose, both Kurals and metadata confirmed |
+| 99 | 82 | independently confirmed the illustrated `ஊர்க்காவலன்` / tiger-danger opening and continuation boundary; no correction required |
+
 Pages remain `needs-review` because Pass 3 has not yet been performed. No Pass 2B result assigns final `verified` status.
 
 ## Current Pass 2B frontier
 
-Part 001 Pass 2B lexical-fidelity re-read is complete through **overall scan 88**.
+Part 001 Pass 2B lexical-fidelity re-read is complete through **overall scan 99**.
 
-**Exact next batch: overall scans 89–99.**
+**Exact next batch: overall scans 100–110.**
 
 Known source limitations remain source-limited. In particular, scans **13–15** contain handwriting/facsimile bodies that must not be reconstructed, and scan **19** contains a physically washed-out/faint printed region that must not be inferred from context.
