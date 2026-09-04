@@ -28,10 +28,30 @@ Page records are rewritten during Pass 3 only when a source-supported structural
 
 No lexical wording was changed during this batch. No page record required a Pass-3 structural correction, so the batch intentionally changes only this Pass-3 control log.
 
+## Batch 2 — overall scans 12–22
+
+**Status: COMPLETE — 11 / 11 scans directly compared with the rendered source for meaningful visual-text fidelity.**
+
+| Scan | Printed page | Pass 3 result |
+|---:|---|---|
+| 12 | xi | concluding `மதிப்புரை` layout confirmed: prose, distinct centered quotation, separate Kural couplet, bottom location/author attribution relationship and roman page furniture are represented meaningfully; no structural correction required |
+| 13 | xii | decorative printed `மூன்றாம் பதிப்பின் முகப்புரை` heading, handwritten-facsimile body, lower date/signature placement and roman page number confirmed; source-limited `partial` handwriting remains unreconstructed; no structural correction required |
+| 14 | xiii | decorative `இரு கண்கள் / நான்காம் பதிப்பின் முகப்புரை / கலைஞர் மு.கருணாநிதி` hierarchy, handwritten body, lower signature/date relationship and roman page number confirmed; source-limited `partial` handwriting remains unreconstructed; no structural correction required |
+| 15 | xiv | large `ஆறாம் பதிப்பின் முகப்புரை` heading, left vertical `குறளோவியம்` panel with Valluvar-monument motif, handwritten body/signature and roman page number confirmed; source-limited `partial` handwriting remains unreconstructed; no structural correction required |
+| 16 | xv | upper black-and-white group photograph and lower framed commemorative `குறளோவியம்` note remain correctly separated and related; note lineation and roman page furniture confirmed; no structural correction required |
+| 17 | xvi | boxed `ஆறாம் பதிப்பின் பதிப்புரை` heading, prose blocks, bottom date/location and publisher-signature relationship, and roman page number confirmed; no structural correction required |
+| 18 | 1 | main-body opening confirmed: ornate cart-framed `பேராசிரியர்` heading, prose hierarchy, printed page furniture and continuation into scan 19 are represented meaningfully; no structural correction required |
+| 19 | 2 | `பேராசிரியர்` continuation and prose-block organization confirmed; the physically washed-out/faint central region remains explicitly source-limited `partial` and is not reconstructed; printed page number 2 confirmed; no structural correction required |
+| 20 | 3 | short `பேராசிரியர்` conclusion in the upper page, separate closing lines, large blank lower area and printed page number 3 confirmed; no structural correction required |
+| 21 | 4 | new `மகா வித்துவான் தண்டபாணி தேசிகர்` section hierarchy confirmed: three-line name heading inside ornate chariot-style frame, prose below and printed page number 4; no structural correction required |
+| 22 | 5 | new `டாக்டர் வ.சுப.மாணிக்கம்` section hierarchy confirmed: large name heading inside ornate chariot-style frame, prose below and printed page number 5; no structural correction required |
+
+No lexical wording was changed during this batch. Scans 13–15 and 19 retain their existing source-limited `partial` status. No page record required a Pass-3 structural correction, so Batch 2 intentionally changes only this Pass-3 control log.
+
 ## Current Pass 3 frontier
 
-Part 001 Pass 3 meaningful visual-text verification is complete through **overall scan 11**.
+Part 001 Pass 3 meaningful visual-text verification is complete through **overall scan 22**.
 
-**Exact next batch: overall scans 12–22.**
+**Exact next batch: overall scans 23–33.**
 
-Known source limitations remain source-limited. In particular, scans **13–15** contain handwritten/facsimile bodies; Pass 3 may verify their visible heading/layout/non-text relationships but must not reconstruct unreadable handwriting. Scan **19** contains a physically washed-out/faint printed region and must remain source-limited rather than reconstructed from context.
+Known source limitations remain source-limited. In particular, scans **13–15** contain handwritten/facsimile bodies; Pass 3 verifies their visible heading/layout/non-text relationships but does not reconstruct unreadable handwriting. Scan **19** contains a physically washed-out/faint printed region and remains source-limited rather than reconstructed from context.
