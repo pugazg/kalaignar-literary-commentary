@@ -6,10 +6,12 @@ work: "kuraloviyam"
 section: "Dr. V. Sub. Manickam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains authoritative"
 ---
+
+# Dr. V. Sub. Manickam
 
 I am not the only one praising Kalaignar; all of Tamil Nadu praises him today.
 
