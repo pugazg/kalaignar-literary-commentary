@@ -24,12 +24,30 @@ Pass 2B independently re-reads every source-visible printed word against the ren
 | 10 | ix | corrected quoted phrase `நிறைநீர நீரவர் கேண்மை` → source-visible `நிறைநீர் நீரவர் கேண்மை`; remaining prose independently re-read and confirmed |
 | 11 | x | independent word-level re-read confirmed the previously corrected source-visible `உறையூர்க் கோழிக்கும் உரனுண்டு`; remaining printed text and continuation into scan 12 match the source; no new correction required |
 
+## Batch 2 — overall scans 12–22
+
+**Status: COMPLETE — 11 / 11 scans independently re-read against the rendered source for Pass 2B.**
+
+| Scan | Printed page | Result |
+|---:|---|---|
+| 12 | xi | corrected Kural reading `சொலல்வல்லன்` → source-visible `சொல்வல்லன்`; remaining printed prose, quotation and author/location lines confirmed |
+| 13 | xii | printed heading `மூன்றாம் பதிப்பின் முகப்புரை` and printed page metadata confirmed; handwritten facsimile body remains source-limited `partial` and was not reconstructed |
+| 14 | xiii | printed `இரு கண்கள்`, `நான்காம் பதிப்பின் முகப்புரை`, author line and page metadata confirmed; handwritten body remains source-limited `partial` and was not reconstructed |
+| 15 | xiv | printed heading `ஆறாம் பதிப்பின் முகப்புரை`, decorative printed panel and page metadata confirmed; handwritten body remains source-limited `partial` and was not reconstructed |
+| 16 | xv | independently confirmed the first-edition photograph note, date `17.2.85`, and printed wording; no correction required |
+| 17 | xvi | corrected source-visible joining `இந்த நூல்` → `இந்தநூல்` at the opening of the third publisher-note paragraph; remaining names, parentheticals, prose and date/location lines confirmed |
+| 18 | 1 | corrected source-visible spacing `அதுபோன்ற` → `அது போன்ற`; remaining `பேராசிரியர்` opening prose and continuation boundary confirmed |
+| 19 | 2 | corrected `மணக்குடவரோ` → source-visible `மணப் புலவரோ` and `டாக்டர் மு. வ.வோ` → source-visible `டாக்டர் மு. வ. வோ`; physically washed-out central words remain `partial` and were not inferred |
+| 20 | 3 | independent word-level re-read complete across the short `பேராசிரியர்` conclusion; no correction required |
+| 21 | 4 | corrected source-visible joining `மற்ற அனைத்து குறள்களுக்கும்` → `மற்ற அனைத்துக் குறள்களுக்கும்`; remaining தண்டபாணி தேசிகர் prose confirmed |
+| 22 | 5 | independent word-level re-read complete across the வ.சுப.மாணிக்கம் opening page; heading, wording, year and printed-page metadata confirmed; no correction required |
+
 Pages remain `needs-review` because Pass 3 has not yet been performed. No Pass 2B result assigns final `verified` status.
 
 ## Current Pass 2B frontier
 
-Part 001 Pass 2B lexical-fidelity re-read is complete through **overall scan 11**.
+Part 001 Pass 2B lexical-fidelity re-read is complete through **overall scan 22**.
 
-**Exact next batch: overall scans 12–22.**
+**Exact next batch: overall scans 23–33.**
 
 Known source limitations remain source-limited. In particular, scans **13–15** contain handwriting/facsimile bodies that must not be reconstructed, and scan **19** contains a physically washed-out/faint printed region that must not be inferred from context.
