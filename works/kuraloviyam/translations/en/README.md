@@ -4,7 +4,7 @@ This directory contains the **project-created English translation layer** for th
 
 This is **not** an official or publisher-issued English edition.
 
-Every English page must declare:
+Every English page declares:
 
 ```yaml
 translation_type: "project_translation"
@@ -43,14 +43,23 @@ Part 001 Tamil has four intentional source-limited pages:
 - scans 13–15 — unreadable continuous handwritten/facsimile bodies;
 - scan 19 — physically washed-out/faint printed region.
 
-The English layer must preserve those limits and must not reconstruct unavailable wording.
+The English layer preserves those limits and does not reconstruct unavailable wording.
 
 ## Current state
 
 Part 001 Tamil / scans **1–111**: **ARCHIVAL-READY / CLOSED**.
 
-The English structure and review conventions are now established. The initial English draft batch is **scans 1–8**, ending at the close of the Preface.
+English translation structure/review conventions: **ESTABLISHED**.
 
-See `TRANSLATION_STATUS.md` for the exact live frontier.
+English Batch 1: **scans 1–8 DRAFTED**:
+
+- scans 1–3 — cover/publication matter;
+- scans 4–8 — complete Preface.
+
+Current English first-pass coverage: **8 / 111**. No pages are yet source-checked, editorial-reviewed or release-ready.
+
+Exact next batch: **scans 9–17**, closing the remaining front matter. Scans 13–15 must be created as `source-limited` rather than reconstructed.
+
+See `TRANSLATION_STATUS.md` for the authoritative English frontier.
 
 Part 002 / scans 112–222 is not supplied and must not begin until Part 001 English/final closure is complete.
