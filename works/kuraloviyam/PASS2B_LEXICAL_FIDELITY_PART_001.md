@@ -16,15 +16,15 @@ Pass 2B independently re-reads every source-visible printed word against the ren
 | 2 | — | independent lexical re-read complete; title, author and publisher/imprint wording match the source; no correction required |
 | 3 | — | independent lexical re-read complete; bilingual edition history and imprint match the source, including the source's differing seventh-edition English/Tamil dates; handwritten `12800` remains separate; no correction required |
 | 4 | iii | independent word-level re-read complete across the full `முகப்புரை` opening page, including the Kabilar quotation and uncommon printed forms; no correction required |
-| 5 | iv | independent word-level re-read complete across prose, emphasized passages and the quoted Kural; source-visible `வாரந் தோறும்` remains correct; no correction required |
-| 6 | v | independent word-level re-read complete across prose and the full indented poem block, including uncommon forms such as `மோழைக்குப்` and `சாகாத கண்ணாளர்`; no correction required |
+| 5 | iv | corrected source-visible joining `பெறவேண்டும் என்ற` → `பெறவேண்டுமென்ற`; corrected `வாய்ப்பில்லாமல் போயிற்று` → source-visible `வாய்ப்பில்லாமற் போயிற்று` |
+| 6 | v | corrected source-visible year form `1953-ஆம் ஆண்டு` → `1953ஆம் ஆண்டு`; poem wording independently re-read and otherwise confirmed |
 | 7 | vi | independent word-level re-read complete across both poem/prose-poem blocks and closing prose; no correction required |
-| 8 | vii | independent word-level re-read complete across the concluding `முகப்புரை` prose; handwritten signature remains separate from printed text; no correction required |
+| 8 | vii | corrected `முழுவேகைத் தமிழிலும்` → source-visible `முழுவோசைத் தமிழிலும்`; remaining printed prose confirmed; handwritten signature remains separate from printed text |
 | 9 | viii | independent word-level re-read complete across the dense `மதிப்புரை` opening, titles, uncommon compounds and continuation boundary; no correction required |
-| 10 | ix | independent word-level re-read complete across the full continuation page, quoted Kural phrases, names and final continuation into scan 11; no correction required |
-| 11 | x | independent word-level re-read complete across the full page; previously corrected source-visible `உரனுண்டு` is confirmed; uncommon forms and continuation into scan 12 match the source; no new correction required |
+| 10 | ix | corrected quoted phrase `நிறைநீர நீரவர் கேண்மை` → source-visible `நிறைநீர் நீரவர் கேண்மை`; remaining prose independently re-read and confirmed |
+| 11 | x | independent word-level re-read confirmed the previously corrected source-visible `உறையூர்க் கோழிக்கும் உரனுண்டு`; remaining printed text and continuation into scan 12 match the source; no new correction required |
 
-No page record was rewritten in this batch because the independent re-read found no additional source-supported lexical differences after the completed Pass 2A corrections.
+Pages remain `needs-review` because Pass 3 has not yet been performed. No Pass 2B result assigns final `verified` status.
 
 ## Current Pass 2B frontier
 
@@ -32,4 +32,4 @@ Part 001 Pass 2B lexical-fidelity re-read is complete through **overall scan 11*
 
 **Exact next batch: overall scans 12–22.**
 
-Known source limitations remain source-limited. In particular, scans 13–15 contain handwriting/facsimile bodies that must not be reconstructed, and scan 19 contains a physically washed-out/faint printed region that must not be inferred from context.
+Known source limitations remain source-limited. In particular, scans **13–15** contain handwriting/facsimile bodies that must not be reconstructed, and scan **19** contains a physically washed-out/faint printed region that must not be inferred from context.
