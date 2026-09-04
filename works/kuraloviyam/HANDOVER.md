@@ -67,11 +67,15 @@ The English layer is explicitly a **project-created translation**, not an offici
 
 Every English page declares `translation_type: "project_translation"`.
 
-Permanent cadence:
+Permanent review cadence:
 
 **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
 
 Translate only from audited Tamil records. Do not import standard Kural wording, published English translations, web text, another commentator or memory.
+
+## Drafting batch rule
+
+Beginning with Batch 5, the user-directed drafting cadence is **11 consecutive physical scan pages per iteration**. The final remainder of a Part may be shorter. Do not vary a normal batch to reach a literary boundary; instead preserve quotations, Kural blocks, narrative and physical continuations across batch boundaries exactly as the audited Tamil records require.
 
 ## First-pass completed batches
 
@@ -79,23 +83,16 @@ Translate only from audited Tamil records. Do not import standard Kural wording,
 - **Batch 2 — scans 9–17 — COMPLETE**; scans 13–15 are `source-limited`.
 - **Batch 3 — scans 18–27 — COMPLETE**; scan 19 is `source-limited` and preserves the audited washed-out gap.
 - **Batch 4 — scans 28–37 — COMPLETE**.
+- **Batch 5 — scans 38–48 — COMPLETE**; all eleven new records are `draft`.
 
-Batch 4 content:
+Batch 5 covers printed pages **21–31** of the main Kuraloviyam sequence, including the evening/love sequence, yaazh/flute/child sequence, education and rebirth discussion, lover/beloved gaze sequence, boastful-youth story and the opening of the surreal seashore-figure episode. Repository-preserved Kural blocks were translated only from the audited Tamil records; no external/standard English Kural wording was imported.
 
-- scan 28 — Editor Saavi;
-- scan 29 — Dr. Me. Sundaram;
-- scan 30 — Dr. Ma. Nannan;
-- scan 31 — Kalaignar's Response;
-- scan 32 — `கலைஞரின் குறளோவியம்` section-title leaf;
-- scan 33 — intentional blank source-side page / printed page 16;
-- scans 34–37 — first four pages of the main `கலைஞரின் குறளோவியம்` sequence.
-
-The physical continuations 34→35 and 37→38 are preserved. No source-check or editorial-review promotion has been claimed.
+The physical continuation **48→49** remains intentionally open.
 
 Current English totals:
 
-- page records: **37/111**;
-- `draft`: **33**;
+- page records: **48/111**;
+- `draft`: **44**;
 - `source-limited`: **4** — scans 13–15, 19;
 - source-checked: **0**;
 - editorial-reviewed: **0**;
@@ -103,18 +100,19 @@ Current English totals:
 
 ## Current exact activity
 
-Proceed with **Part 001 English Batch 5 — scans 38–47**:
+Proceed with **Part 001 English Batch 6 — scans 49–59**:
 
 1. fetch live `main` first;
-2. fetch audited Tamil records for scans 38–47;
-3. mirror filenames under `translations/en/pages/`;
-4. translate only repository-supported Tamil wording;
-5. keep ordinary verified-source English records at `draft`;
-6. preserve headings, paragraphs, quotations, Kural/verse blocks, visual/source-page functions and physical continuations;
-7. do not import standard Kural English wording or any external translation;
-8. update `TRANSLATION_STATUS.md`, README/handover/current prompt after the batch;
-9. compare the pre-batch base SHA to the new head and confirm only intended files changed;
-10. record the exact next frontier before advancing to scan 48.
+2. fetch audited Tamil records for scans **49–59**;
+3. process exactly **11 consecutive scans**;
+4. mirror filenames under `translations/en/pages/`;
+5. translate only repository-supported Tamil wording;
+6. keep ordinary verified-source English records at `draft`;
+7. preserve headings, paragraphs, quotations, Kural/verse blocks, visual/source-page functions and physical continuations;
+8. do not import standard Kural English wording or any external translation;
+9. update `TRANSLATION_STATUS.md`, README/handover/current prompt after the batch;
+10. compare the pre-batch base SHA to the new head and confirm only intended files changed;
+11. record the exact next frontier before advancing to scan 60.
 
 Do not begin source-check while Part 001 first-pass drafting remains incomplete unless a newer live workflow explicitly changes this cadence.
 
