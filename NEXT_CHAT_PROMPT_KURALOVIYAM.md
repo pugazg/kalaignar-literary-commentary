@@ -1,6 +1,6 @@
-# Next Chat Prompt — குறளோவியம் archival project
+# Next Chat Prompt — குறளோவியம் archival / bilingual project
 
-Continue the Kalaignar Literary Commentary archival / bilingual project directly in:
+Continue directly in:
 
 `pugazg/kalaignar-literary-commentary`
 
@@ -10,84 +10,114 @@ Active work: `works/kuraloviyam/`
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Preserve any newer durable state. Do not reset, repeat or reopen completed Tamil work merely because a copied prompt or the multi-work root handover contains an older Kuraloviyam checkpoint.
+Fetch live `main` first. Preserve any newer durable state. Do not reset, repeat or reopen completed Tamil work or completed English batches because a copied prompt or root multi-work handover contains an older checkpoint.
 
 ## Mandatory startup
 
-Before any repository change, read completely:
+Read completely before any Kuraloviyam change:
 
 1. `LITERARY_COMMENTARY_PROCESSING_GUIDE.md`
 2. `KURALOVIYAM_ARCHIVAL_GUIDELINES.md`
 3. root `HANDOVER.md`
 4. this `NEXT_CHAT_PROMPT_KURALOVIYAM.md`
-5. `works/kuraloviyam/HANDOVER.md` — current work-specific Kuraloviyam frontier
+5. `works/kuraloviyam/HANDOVER.md` — current work-specific frontier
 6. `works/kuraloviyam/README.md`
 7. `works/kuraloviyam/PART_001_AUDIT.md`
 8. `works/kuraloviyam/PART_001_FINAL_STATUS_SYNC.md`
-9. `works/kuraloviyam/SOURCE_INTAKE_PART_001.md`
-10. `works/kuraloviyam/metadata/source.md`
-11. `works/kuraloviyam/metadata/transcription-policy.md`
-12. `works/kuraloviyam/indexes/page-map.md`
-13. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_001.md`
-14. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_001.md`
-15. `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_001.md`
+9. `works/kuraloviyam/metadata/source.md`
+10. `works/kuraloviyam/metadata/transcription-policy.md`
+11. `works/kuraloviyam/indexes/page-map.md`
+12. `works/kuraloviyam/translations/en/README.md`
+13. `works/kuraloviyam/translations/en/TRANSLATION_GUIDE.md`
+14. `works/kuraloviyam/translations/en/GLOSSARY.md`
+15. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
 
-For Part 001 English work, the audited repository Tamil records are the translation source layer. The Part 001 PDF does not need to be reopened for normal translation work.
+For normal Part 001 English work, the audited Tamil repository page records are the translation basis. Do not reopen the Part 001 PDF unless a newly discovered source/provenance issue specifically requires it.
 
 ## Source / split identity
 
-The complete source is reported as **666 physical pages**, manually split into **six parts of 111 pages**:
+Complete source reported by user: **666 physical pages**, split into six 111-page Parts.
 
-- Part 001: overall scans 1–111
+- Part 001: 1–111
 - Part 002: 112–222
 - Part 003: 223–333
 - Part 004: 334–444
 - Part 005: 445–555
 - Part 006: 556–666
 
-Repository `scan_page` never restarts for a split PDF.
+Repository `scan_page` never restarts per split.
 
-Part 002 has **not** been supplied or started. Do not infer scan 112 or its printed-page continuity.
+Part 002 has not been supplied or started.
 
 ## Part 001 Tamil state — CLOSED
 
-Controlling Part 001 source used for the source-dependent passes:
+Part 001 Tamil is **ARCHIVAL-READY**:
 
-`TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf`
+- source intake: 111/111;
+- Pass 1: 111/111;
+- Pass 2A: 111/111;
+- Pass 2B: 111/111;
+- Pass 3: 111/111;
+- Part audit: PASS;
+- final status sync: PASS;
+- Tamil statuses: **107 `verified` + 4 `partial`**;
+- partial scans: **13, 14, 15, 19**;
+- visual fidelity: **111/111 `verified`**.
 
-Part 001 Tamil archival work is **CLOSED / ARCHIVAL-READY**:
+Do not reconstruct the handwritten/facsimile bodies on scans 13–15 or the faint/washed-out material on scan 19.
 
-- source intake: **111 / 111 complete**;
-- Pass 1: **111 / 111 complete**;
-- Pass 2A direct textual verification: **111 / 111 complete**;
-- Pass 2B independent lexical-fidelity re-read: **111 / 111 complete**;
-- Pass 3 meaningful visual-text verification: **111 / 111 complete**;
-- Part audit: **PASS**;
-- final metadata/status synchronization: **PASS**;
-- textual statuses: **107 `verified` + 4 `partial`**;
-- intentional source-limited partial scans: **13, 14, 15, 19**;
-- visual fidelity: **111 / 111 `verified`**.
+## English project translation controls
 
-Do not reconstruct the handwritten/facsimile bodies on scans 13–15 or the physically faint/washed-out text on scan 19. Their limitations are permanent source-controlled metadata unless better source evidence is supplied.
+The Part 001 English layer is under:
 
-## Mandatory per-part closure rule
+`works/kuraloviyam/translations/en/`
 
-Finish the complete workflow for one supplied split before advancing to the next. For each Part:
+It is explicitly a **project translation**, not an official/publisher-issued English edition.
 
-source intake → Pass 1 → Pass 2A → Pass 2B → Pass 3 → Part audit → final status sync → documentation sync → Tamil archival-ready → project-created English translation/review closure when maintained → final Part checkpoint → next Part.
+Every English page carries:
 
-Once a Part is closed, normal later work uses the durable repository records and does not routinely require the earlier split PDF again.
+```yaml
+translation_type: "project_translation"
+```
+
+Permanent English cadence:
+
+**draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
+
+Do not import standard Thirukkural wording, published English Kural translations, web text, another commentator or memory.
+
+## English Batch 1 — COMPLETE
+
+First-pass draft pages exist for **scans 1–8**:
+
+- scans 1–3 — cover / publication matter;
+- scans 4–8 / printed iii–vii — complete Preface.
+
+Current English counts:
+
+- draft: **8 / 111**;
+- source-checked: **0 / 111**;
+- editorial-reviewed: **0 / 111**;
+- release-ready: **0 / 111**.
+
+Do not redo Batch 1 merely for stylistic harmonization. Later source-check/editorial passes are the proper place for deliberate translation refinement.
 
 ## Exact next activity
 
-If live `main` still records Part 001 Tamil as archival-ready and no newer Kuraloviyam activity supersedes this prompt:
+If live `main` has not advanced beyond this frontier, execute **Part 001 English Batch 2 — scans 9–17**.
 
-1. establish the **Part 001 project-created English translation structure and plan** using the repository's existing literary-commentary English conventions / completed Thirukkural benchmark as appropriate;
-2. translate only from the audited Part 001 Tamil records, not from memory, web editions or a standard Kural text;
-3. declare `translation_type: "project_translation"` in the English layer;
-4. preserve explicit source limitations rather than inventing English for unavailable Tamil wording on scans 13–15 and 19;
-5. define a review/status workflow before claiming any English page or section final;
-6. commit the durable translation-plan/progress structure and begin only the first repository-recorded English batch if the established project convention clearly permits it;
-7. audit changed files and record the exact next English frontier.
+1. fetch the audited Tamil records for scans 9–17;
+2. create matching English files under `works/kuraloviyam/translations/en/pages/`;
+3. scans 9–12 translate `மதிப்புரை` as the controlled heading **Critical Appreciation**;
+4. scans 13–15 are audited Tamil `partial` handwritten/facsimile records: create `source-limited` English records from securely established material only and do not reconstruct continuous handwriting;
+5. translate scans 16–17 from their audited Tamil records;
+6. keep ordinary new English pages at `status: "draft"`;
+7. preserve source paragraph, quotation, verse and continuation structure as appropriate in clear English;
+8. do not import standard Kural or external English wording;
+9. update `translations/en/TRANSLATION_STATUS.md` after the batch;
+10. audit the changed-file set from the pre-batch live SHA to the new head;
+11. record the exact next English frontier before advancing to scan 18.
 
-Do **not** begin Part 002. Part 002 starts only after Part 001's required English/final closure workflow is complete and the Part 002 source is supplied.
+Do not begin English source-check while Part 001 first-pass drafting remains incomplete unless a newer live workflow explicitly changes that cadence.
+
+Do not begin Part 002 until Part 001 English/final closure is complete and Part 002 source is supplied.
