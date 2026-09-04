@@ -8,7 +8,7 @@ The user reports the original source as **666 physical PDF pages**, manually spl
 
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
-| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English project layer is next |
+| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English project translation active — drafts through scan 8 |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -62,7 +62,7 @@ Confirmed from the supplied 111-page split:
 
 Part 001 has no usable parsed text layer in the supplied environment; all source-dependent verification was performed against rendered scans.
 
-## Completed gates
+## Completed Tamil gates
 
 **Part 001 Tamil is CLOSED / ARCHIVAL-READY.**
 
@@ -87,9 +87,7 @@ The four `partial` records are intentional source limitations:
 
 Do not infer or reconstruct those missing readings.
 
-## Durable Part 001 records
-
-Source and workflow records:
+## Durable Part 001 Tamil records
 
 - `SOURCE_INTAKE_PART_001.md`
 - `PASS2_TEXTUAL_VERIFICATION_PART_001.md`
@@ -108,10 +106,36 @@ The final page-status change-set covered exactly the 111 Part 001 page records. 
 
 Scan 111 closes the supplied Part 001 unit. The **111 → 112** adjacent-Part continuity check remains deferred until Part 002 is supplied. Nothing is inferred for overall scan 112.
 
+# Part 001 — English project translation
+
+The English layer is under:
+
+`works/kuraloviyam/translations/en/`
+
+It is explicitly a **project translation**, not a publisher/official English edition.
+
+Durable English control files:
+
+- `translations/en/README.md`;
+- `translations/en/TRANSLATION_GUIDE.md`;
+- `translations/en/GLOSSARY.md`;
+- `translations/en/TRANSLATION_STATUS.md`.
+
+English Batch 1 is complete as a first-pass draft:
+
+- scans **1–3** — cover / title-publisher / edition-imprint;
+- scans **4–8 / printed iii–vii** — complete Preface.
+
+Current English draft coverage: **8 / 111**.
+
+These eight pages remain `draft`; no source-check, editorial-review or release-ready status is claimed yet.
+
 # Current frontier
 
 **Tamil Part 001: archival-ready / closed.**
 
-**Exact next content stage: Part 001 project-created English translation/review workflow from the audited Tamil repository records.**
+**English Part 001: first-pass drafting active through scan 8.**
+
+Exact next activity: **English Batch 2 — scans 9–17**, closing the remaining front matter. Scans **13–15** must be English `source-limited` records and their unreadable handwriting must not be reconstructed.
 
 Part 002 is not started. Do not begin it until the required Part 001 English/final closure checkpoint is complete and the Part 002 source is supplied.
