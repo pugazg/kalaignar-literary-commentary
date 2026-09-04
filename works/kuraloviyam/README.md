@@ -8,7 +8,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
-| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; source-check next |
+| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; source-check through scan 15 |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -53,28 +53,29 @@ Permanent review cadence:
 
 **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
 
-The current user-directed normal iteration size is **15 consecutive scans**. The final drafting remainder may be shorter; source-check now also uses 15-page iterations.
+The current user-directed normal iteration size is **15 consecutive scans**.
 
 ## First-pass progress
 
-- **Batch 1 / scans 1–8 — COMPLETE**.
-- **Batch 2 / scans 9–17 — COMPLETE**; scans 13–15 are `source-limited`.
-- **Batch 3 / scans 18–27 — COMPLETE**; scan 19 is `source-limited`.
-- **Batch 4 / scans 28–37 — COMPLETE**.
-- **Batch 5 / scans 38–48 — COMPLETE** — 11 pages.
-- **Batch 6 / scans 49–59 — COMPLETE** — 11 pages.
-- **Batch 7 / scans 60–74 — COMPLETE** — 15 pages.
-- **Batch 8 / scans 75–89 — COMPLETE** — 15 pages.
-- **Batch 9 / scans 90–104 — COMPLETE** — 15 pages.
-- **Batch 10 / scans 105–111 — COMPLETE** — final 7-page remainder.
+**COMPLETE — 111/111 English page records.**
 
-**English first-pass drafting: COMPLETE — 111/111 page records.**
+Drafting batches 1–10 cover scans 1–111; the final drafting batch was the permitted 7-page remainder.
+
+## Source-check progress
+
+- **SC1 / scans 1–15 — COMPLETE**.
+- scans **1–12** passed Tamil↔English fidelity review and are now `source-checked`;
+- scans **13–15** were reviewed only within securely established Tamil evidence and remain `source-limited`;
+- SC1 English wording corrections required: **none**;
+- no unreadable facsimile material was reconstructed.
 
 Current English counts:
 
-- `draft`: **107**;
+- page records: **111 / 111**;
+- source-check coverage: **15 / 111** scans;
+- `source-checked`: **12**;
+- `draft`: **95**;
 - `source-limited`: **4** — scans 13–15, 19;
-- source-checked: **0**;
 - editorial-reviewed: **0**;
 - release-ready: **0**.
 
@@ -82,8 +83,8 @@ Current English counts:
 
 **Tamil Part 001: archival-ready / closed.**
 
-**English Part 001: first-pass drafting COMPLETE — 111/111.**
+**English Part 001: first-pass drafting COMPLETE; source-check complete through scan 15.**
 
-Exact next activity: **English source-check SC1 — scans 1–15**, exactly 15 consecutive pages. Promote only pages that pass fidelity comparison; scans 13–15 remain `source-limited` and must not be reconstructed.
+Exact next activity: **English source-check SC2 — scans 16–30**, exactly 15 consecutive pages. Scan 19 remains `source-limited`; review only secure repository-supported content and do not reconstruct its washed-out gap.
 
 Do not begin glossary reconciliation/editorial review before source-check is complete. Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
