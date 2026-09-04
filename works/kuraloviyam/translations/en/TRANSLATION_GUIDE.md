@@ -153,12 +153,12 @@ Part 002 must not begin until Part 001 English closure is complete and Part 002 
 
 ## 12. Batch discipline
 
-For Kuraloviyam first-pass English drafting, the user-directed cadence is **11 physical scan pages per iteration**.
+For Kuraloviyam first-pass English drafting, the current user-directed cadence is **15 physical scan pages per iteration**, beginning with Batch 7.
 
-- Use exactly 11 consecutive `scan_page` records in each normal drafting iteration.
-- The final drafting iteration of a Part may be shorter when fewer than 11 pages remain.
+- Use exactly 15 consecutive `scan_page` records in each normal drafting iteration from Batch 7 onward.
+- The final drafting iteration of a Part may be shorter when fewer than 15 pages remain.
 - A batch boundary does **not** imply a narrative, quotation or Kural boundary; preserve source-supported continuations across batches exactly as the Tamil records do.
-- Source-limited pages still count toward the 11-page batch and retain `source-limited` status.
+- Source-limited pages still count toward the 15-page batch and retain `source-limited` status.
 - Do not extend or shorten a normal batch merely to reach a more convenient literary boundary.
 
 For each draft batch:
@@ -178,16 +178,14 @@ Source-check and editorial review are separate later gates; a first draft must n
 
 Part 001 covers overall scans 1–111.
 
-Earlier drafting batches were established before the fixed 11-page instruction and are preserved as completed history:
+Completed historical batches retain the cadence that was in force when they were executed:
 
 - Batch 1: scans 1–8;
 - Batch 2: scans 9–17;
 - Batch 3: scans 18–27;
-- Batch 4: scans 28–37.
+- Batch 4: scans 28–37;
+- Batch 5: scans 38–48 — 11-page cadence;
+- Batch 6: scans 49–59 — 11-page cadence;
+- Batch 7: scans 60–74 — first 15-page cadence batch.
 
-Beginning with **Batch 5**, the permanent drafting cadence is the user-directed **11 pages per iteration**:
-
-- Batch 5: scans 38–48;
-- Batch 6: scans 49–59;
-- continue in consecutive 11-page ranges;
-- the final Part 001 drafting batch may contain fewer than 11 scans if required by the 111-page Part boundary.
+From **Batch 7 onward**, use the current user-directed **15 pages per iteration** cadence. The final Part 001 drafting batch may contain fewer than 15 scans if required by the 111-page Part boundary.
