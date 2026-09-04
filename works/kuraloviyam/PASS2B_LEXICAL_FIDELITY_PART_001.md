@@ -78,12 +78,30 @@ Pass 2B independently re-reads every source-visible printed word against the ren
 | 43 | 26 | corrected `இந்த அழகுக்கு` → source-visible `இந்த அணங்கு`; corrected prior erroneous `வேதனை உண்டாகிறது` → source-visible `வேதனை உண்டாக்குகிறாள்`; remaining physician/needle analogy and continuation boundary confirmed |
 | 44 | 27 | independently confirmed both lover-gaze Kurals/prose, `செந்நாப் போதார்`, authority/song metadata and concluding gloss; no correction required |
 
+## Batch 5 — overall scans 45–55
+
+**Status: COMPLETE — 11 / 11 scans independently re-read against the rendered source for Pass 2B.**
+
+| Scan | Printed page | Result |
+|---:|---|---|
+| 45 | 28 | independently confirmed the illustrated boastful-youth opening, including the extravagant promises, `புடைசூழ போட்டுக்`, dialogue and continuation boundary; no correction required |
+| 46 | 29 | independent word-level re-read complete across the palace-hospitality / three-month preparation / mountain gathering continuation; no correction required |
+| 47 | 30 | corrected `அதைக் தூக்கிக் கொண்டு` → source-visible `அதைத் தூக்கிக் கொண்டு`; corrected `அப்படிப் பொருள் ஆசையிருந்தால்` → `அப்படியொரு ஆசையிருந்தால்`; corrected `இன்று தொலைத்திருக்கலாமே` → `தின்று தொலைத்திருக்கலாமே`; remaining dialogue, Kural and metadata confirmed |
+| 48 | 31 | independently confirmed the strange-heart figure description, shore-sand action sequence and continuation boundary; no correction required |
+| 49 | 32 | independently confirmed the heart/dialogue dream conclusion, quoted Kural and authority/song metadata; no correction required |
+| 50 | 33 | independently confirmed the illustrated palanquin vignette opening and both elders' dialogue, including the source's `அறம் செய்யாதோர் பல்லக்கைச் சுமக்கிறார்`; no correction required |
+| 51 | 34 | corrected `இன்ப துன்பங்கள் இரண்டையும் எதிராகக் கருதிப்` → source-visible `இன்ப துன்பங்கள் இரண்டையும் எளிதாகக் கருதிப்`; remaining Valluvar clarification, Kural and metadata confirmed |
+| 52 | 35 | independently confirmed the இமயவரம்பன் / செங்குட்டுவன் / இளங்கோ renunciation opening, names and `குணவாயிற் கோட்டத்தில்`; no correction required |
+| 53 | 36 | corrected source-visible joining `அப்படி கருதியிருந்தால்தான்` → `அப்படிக் கருதியிருந்தால்தான்`; remaining dialogue, Kural, citation and gloss confirmed |
+| 54 | 37 | independently confirmed the moon/maiden imagery, prose and Kural `மதியும் மடந்தை...`; no correction required |
+| 55 | 38 | corrected prose `தாமரைக் கண்ணன் உலகம்?` → source-visible `தாமரைக் கண்ணான் உலகம்?`; the quoted Kural already carried source-visible `தாமரைக் கண்ணான் உலகு`; remaining citations confirmed |
+
 Pages remain `needs-review` because Pass 3 has not yet been performed. No Pass 2B result assigns final `verified` status.
 
 ## Current Pass 2B frontier
 
-Part 001 Pass 2B lexical-fidelity re-read is complete through **overall scan 44**.
+Part 001 Pass 2B lexical-fidelity re-read is complete through **overall scan 55**.
 
-**Exact next batch: overall scans 45–55.**
+**Exact next batch: overall scans 56–66.**
 
 Known source limitations remain source-limited. In particular, scans **13–15** contain handwriting/facsimile bodies that must not be reconstructed, and scan **19** contains a physically washed-out/faint printed region that must not be inferred from context.
