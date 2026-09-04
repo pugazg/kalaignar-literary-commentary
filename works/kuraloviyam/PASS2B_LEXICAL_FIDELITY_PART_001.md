@@ -18,7 +18,7 @@ Pass 2B independently re-reads every source-visible printed word against the ren
 | 4 | iii | independent word-level re-read complete across the full `முகப்புரை` opening page, including the Kabilar quotation and uncommon printed forms; no correction required |
 | 5 | iv | corrected source-visible joining `பெறவேண்டும் என்ற` → `பெறவேண்டுமென்ற`; corrected `வாய்ப்பில்லாமல் போயிற்று` → source-visible `வாய்ப்பில்லாமற் போயிற்று` |
 | 6 | v | corrected source-visible year form `1953-ஆம் ஆண்டு` → `1953ஆம் ஆண்டு`; poem wording independently re-read and otherwise confirmed |
-| 7 | vi | independent word-level re-read complete across both poem/prose-poem blocks and closing prose; no correction required |
+| 7 | vi | corrected quoted-poem lexical reading `விண்ணத்து வெண்முகில்கள்` → source-visible `விண்ணகத்து வெண்முகில்கள்`; remaining printed text independently re-read and confirmed |
 | 8 | vii | corrected `முழுவேகைத் தமிழிலும்` → source-visible `முழுவோசைத் தமிழிலும்`; remaining printed prose confirmed; handwritten signature remains separate from printed text |
 | 9 | viii | independent word-level re-read complete across the dense `மதிப்புரை` opening, titles, uncommon compounds and continuation boundary; no correction required |
 | 10 | ix | corrected quoted phrase `நிறைநீர நீரவர் கேண்மை` → source-visible `நிறைநீர் நீரவர் கேண்மை`; remaining prose independently re-read and confirmed |
