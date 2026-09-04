@@ -10,7 +10,7 @@ Active work: `works/kuraloviyam/`
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Preserve any newer durable state. Do not reset, repeat or reopen completed Tamil work merely because a copied prompt contains an older checkpoint.
+Fetch live `main` first. Preserve any newer durable state. Do not reset, repeat or reopen completed Tamil work merely because a copied prompt or the multi-work root handover contains an older Kuraloviyam checkpoint.
 
 ## Mandatory startup
 
@@ -20,16 +20,17 @@ Before any repository change, read completely:
 2. `KURALOVIYAM_ARCHIVAL_GUIDELINES.md`
 3. root `HANDOVER.md`
 4. this `NEXT_CHAT_PROMPT_KURALOVIYAM.md`
-5. `works/kuraloviyam/README.md`
-6. `works/kuraloviyam/PART_001_AUDIT.md`
-7. `works/kuraloviyam/PART_001_FINAL_STATUS_SYNC.md`
-8. `works/kuraloviyam/SOURCE_INTAKE_PART_001.md`
-9. `works/kuraloviyam/metadata/source.md`
-10. `works/kuraloviyam/metadata/transcription-policy.md`
-11. `works/kuraloviyam/indexes/page-map.md`
-12. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_001.md`
-13. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_001.md`
-14. `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_001.md`
+5. `works/kuraloviyam/HANDOVER.md` — current work-specific Kuraloviyam frontier
+6. `works/kuraloviyam/README.md`
+7. `works/kuraloviyam/PART_001_AUDIT.md`
+8. `works/kuraloviyam/PART_001_FINAL_STATUS_SYNC.md`
+9. `works/kuraloviyam/SOURCE_INTAKE_PART_001.md`
+10. `works/kuraloviyam/metadata/source.md`
+11. `works/kuraloviyam/metadata/transcription-policy.md`
+12. `works/kuraloviyam/indexes/page-map.md`
+13. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_001.md`
+14. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_001.md`
+15. `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_001.md`
 
 For Part 001 English work, the audited repository Tamil records are the translation source layer. The Part 001 PDF does not need to be reopened for normal translation work.
 
