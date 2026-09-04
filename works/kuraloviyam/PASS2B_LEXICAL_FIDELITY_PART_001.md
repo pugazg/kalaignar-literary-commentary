@@ -186,12 +186,20 @@ Pass 2B independently re-reads every source-visible printed word against the ren
 | 109 | 92 | independently confirmed the illustrated learned-speaker / assembly opening, including source-visible `ஏழெட்டு மொழிகள்`; no correction required |
 | 110 | 93 | corrected `ஒரு கணைப்புக் கணைத்துக் கொண்டார்` → source-visible `ஒரு கனைப்புக் கனைத்துக் கொண்டார்`; remaining learned-speaker continuation and quoted `கற்றது கைம்மண் அளவு` passage confirmed |
 
+## Batch 11 — overall scan 111
+
+**Status: COMPLETE — 1 / 1 scan independently re-read against the rendered source for Pass 2B.**
+
+| Scan | Printed page | Result |
+|---:|---|---|
+| 111 | 94 | independently confirmed the learned-speaker assembly conclusion, both `சொல்வன்மை` Kurals, authority/song metadata and the Part 001 physical boundary; no correction required |
+
 Pages remain `needs-review` because Pass 3 has not yet been performed. No Pass 2B result assigns final `verified` status.
 
 ## Current Pass 2B frontier
 
-Part 001 Pass 2B lexical-fidelity re-read is complete through **overall scan 110**.
+Part 001 Pass 2B lexical-fidelity re-read is **COMPLETE for all overall scans 1–111**.
 
-**Exact next batch: overall scan 111.**
+**Next gate: Part 001 Pass 3 meaningful visual-text verification.** Do not begin the Part 001 audit or English translation until Pass 3 is complete.
 
 Known source limitations remain source-limited. In particular, scans **13–15** contain handwriting/facsimile bodies that must not be reconstructed, and scan **19** contains a physically washed-out/faint printed region that must not be inferred from context.
