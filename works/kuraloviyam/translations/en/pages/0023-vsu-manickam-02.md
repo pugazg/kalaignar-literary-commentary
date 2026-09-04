@@ -11,8 +11,6 @@ source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains authoritative"
 ---
 
-# Dr. V. Sub. Manickam
-
 I am not the only one praising Kalaignar; all of Tamil Nadu praises him today.
 
 History has shown it to be true that one who possesses love for Tamil and love for the Tamil people is the truly wealthy person.
