@@ -14,10 +14,10 @@ source_filename: "TVA_BOK_0065733_குறளோவியம்_part_001_pag
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
 
-அவளோர் சித்திரப் பாவை. உரித்தெடுத்த அல்லித் தண்டின் நிறம் பெற்ற உருக்குலையா மங்கை. அவள் ஒளி முகம், ஓராயிரம் நிலவுகளை ஒன்றாக அடுக்கி வைத்துக் கற்பனை செய்து போட்டி போட்டுப் பார்த்தாலும், எதிர் நிற்கக்கூடிய
-
 ## Visual material
 
 Large colour illustration above the prose showing a young woman seated on a bed with cushions and draped cloth, while a man's portrait/figure appears behind her.
+
+அவளோர் சித்திரப் பாவை. உரித்தெடுத்த அல்லித் தண்டின் நிறம் பெற்ற உருக்குலையா மங்கை. அவள் ஒளி முகம், ஓராயிரம் நிலவுகளை ஒன்றாக அடுக்கி வைத்துக் கற்பனை செய்து போட்டி போட்டுப் பார்த்தாலும், எதிர் நிற்கக்கூடிய
 
 <!-- மூல ஸ்கேன் பக்கம்: 85; அச்சுப் பக்கம்: 68 -->
