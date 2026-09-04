@@ -8,7 +8,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
-| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass records through scan 17 |
+| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass records through scan 27 |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -17,11 +17,9 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 
 Repository `scan_page` always follows the **overall 1–666 sequence** and never restarts per split.
 
-Use [`../../KURALOVIYAM_ARCHIVAL_GUIDELINES.md`](../../KURALOVIYAM_ARCHIVAL_GUIDELINES.md) for the permanent operating policy.
+Use [`../../KURALOVIYAM_ARCHIVAL_GUIDELINES.md`](../../KURALOVIYAM_ARCHIVAL_GUIDELINES.md) for permanent policy.
 
 ## Mandatory per-part closure cadence
-
-Each supplied Part is completed before the next begins:
 
 source intake → Pass 1 → Pass 2A → Pass 2B → Pass 3 → Part audit → final metadata/status sync → documentation sync → Tamil archival-ready → English project-translation/review closure → final Part checkpoint → next supplied Part.
 
@@ -31,72 +29,53 @@ Closed Parts should not routinely require their earlier PDF again; reopen an old
 
 **CLOSED / ARCHIVAL-READY.**
 
-- scans: **1–111**;
-- main body begins: scan **18 / printed 1**;
-- Part boundary: scan **111 / printed 94**;
-- Pass 1: **111/111**;
-- Pass 2A: **111/111**;
-- Pass 2B: **111/111**;
-- Pass 3: **111/111**;
+- scans **1–111**;
+- main body begins scan **18 / printed 1**;
+- Part ends scan **111 / printed 94**;
+- Pass 1 / Pass 2A / Pass 2B / Pass 3: **111/111 complete**;
 - Part audit: **PASS**;
 - final page-status sync: **PASS**;
 - textual statuses: **107 `verified` + 4 `partial`**;
+- partial scans: **13, 14, 15, 19**;
 - visual fidelity: **111/111 `verified`**.
 
-Intentional Tamil source limitations:
-
-- scans **13–15** — handwritten/facsimile bodies not safely readable word-for-word;
-- scan **19** — physically washed-out/faint printed region.
-
-Do not reconstruct those readings.
-
-Durable Tamil closure records include `PART_001_AUDIT.md`, `PART_001_FINAL_STATUS_SYNC.md`, the Pass 2A / Pass 2B / Pass 3 logs, `indexes/page-map.md`, and the 111 page-aligned records under `pages/`.
+Scans 13–15 contain unreadable handwritten/facsimile bodies. Scan 19 contains a physically washed-out/faint printed region. Do not reconstruct those readings.
 
 The adjacent **111 → 112** check remains deferred until Part 002 is supplied.
 
 # Part 001 — English project translation
 
-English layer:
-
-`works/kuraloviyam/translations/en/`
+English layer: `works/kuraloviyam/translations/en/`.
 
 This is a **project-created translation**, not an official/publisher English edition.
 
-Permanent English cadence:
+Permanent cadence:
 
 **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
 
 ## First-pass progress
 
-### Batch 1 — scans 1–8 — COMPLETE
+- **Batch 1 / scans 1–8 — COMPLETE**: cover/publication matter and complete Preface.
+- **Batch 2 / scans 9–17 — COMPLETE**: Critical Appreciation, three source-limited facsimile pages, first-edition note and Sixth Edition Publisher's Note.
+- **Batch 3 / scans 18–27 — COMPLETE**: Professor (18–20), Dandapani Desikar (21), Dr. V. Sub. Manickam (22–23), Tamilkudimagan (24), Kasi Anandan (25), Ramalinganar (26–27).
 
-- scans 1–3 — cover / title-publisher / edition-imprint;
-- scans 4–8 — complete `முகப்புரை` / Preface.
-
-### Batch 2 — scans 9–17 — COMPLETE
-
-- scans 9–12 — `மதிப்புரை` / **Critical Appreciation** — `draft`;
-- scans 13–15 — handwritten/facsimile prefaces — **`source-limited`**;
-- scan 16 — first-edition photograph / commemorative note — `draft`;
-- scan 17 — Sixth Edition Publisher's Note — `draft`.
+Scan **19** is English `source-limited` and preserves the audited washed-out Tamil gap without reconstruction.
 
 Current English counts:
 
-- page records created: **17 / 111**;
-- `draft`: **14**;
-- `source-limited`: **3** — scans 13–15;
+- page records created: **27 / 111**;
+- `draft`: **23**;
+- `source-limited`: **4** — scans 13–15, 19;
 - source-checked: **0**;
 - editorial-reviewed: **0**;
 - release-ready: **0**.
-
-No later English review gate has yet been claimed.
 
 # Current frontier
 
 **Tamil Part 001: archival-ready / closed.**
 
-**English Part 001: first-pass drafting complete through scan 17.**
+**English Part 001: first-pass drafting complete through scan 27.**
 
-Exact next activity: **English Batch 3 — scans 18–27** from the audited Tamil records. Scan **19** must remain English `source-limited`; ordinary verified-source pages remain `draft`.
+Exact next activity: **English Batch 4 — scans 28–37**. This covers Saavi, Dr. Me. Sundaram, Dr. Ma. Nannan, Kalaignar's response, the `கலைஞரின் குறளோவியம்` title leaf, the intentional blank page, and scans 34–37 of the main sequence.
 
-Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
+Do not begin English source-check while first-pass drafting is incomplete. Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
