@@ -11,11 +11,7 @@
 
 Part 001 / overall scans **1–111** is Tamil archival-ready:
 
-- source intake: complete;
-- Pass 1: complete;
-- Pass 2A: complete;
-- Pass 2B: complete;
-- Pass 3: complete;
+- source intake / Pass 1 / Pass 2A / Pass 2B / Pass 3: complete;
 - Part audit: PASS;
 - final status sync: PASS;
 - Tamil statuses: **107 `verified` + 4 `partial`**;
@@ -32,72 +28,69 @@ Permanent cadence:
 
 `source-limited` is retained where the audited Tamil source itself is incomplete.
 
-The current user-directed iteration size is **15 consecutive physical scan pages**. During first-pass drafting this applied from Batch 7 onward; the final remainder was permitted to be shorter. The same 15-page cadence now governs source-check batches unless a newer explicit user instruction changes it.
+The current user-directed iteration size is **15 consecutive physical scan pages**. The same 15-page cadence governs source-check batches unless a newer explicit user instruction changes it.
 
-## Part 001 first-pass draft progress
+## Part 001 first-pass drafting
 
-### Batches 1–4 — COMPLETE
+**COMPLETE — 111 / 111 English page records.**
 
-Historical first-pass batches completed before a fixed batch-size rule:
+Historical drafting batches:
 
 - Batch 1: scans **1–8**;
-- Batch 2: scans **9–17**; scans 13–15 are `source-limited`;
-- Batch 3: scans **18–27**; scan 19 is `source-limited`;
-- Batch 4: scans **28–37**.
+- Batch 2: scans **9–17**;
+- Batch 3: scans **18–27**;
+- Batch 4: scans **28–37**;
+- Batch 5: scans **38–48**;
+- Batch 6: scans **49–59**;
+- Batch 7: scans **60–74**;
+- Batch 8: scans **75–89**;
+- Batch 9: scans **90–104**;
+- Batch 10: scans **105–111**.
 
-### Batch 5 — scans 38–48 — COMPLETE
+No external or standard English Kural wording was imported during drafting.
 
-First 11-page drafting batch. All eleven new records are `draft`.
+## Part 001 source-check progress
 
-### Batch 6 — scans 49–59 — COMPLETE
+### SC1 — scans 1–15 — COMPLETE
 
-Second and final 11-page drafting batch. All eleven new records are `draft`.
+Compared each English record against its audited Tamil repository record for page function, headings, prose/verse blocks, quotations, names, omissions, additions and meaning drift.
 
-### Batch 7 — scans 60–74 — COMPLETE
+Result:
 
-First batch under the 15-page drafting cadence. All fifteen records are `draft`.
+- scans **1–12** — **PASS**; promoted from `draft` to `source-checked`;
+- scans **13–15** — securely established material reviewed and **PASS within source limits**; page status remains `source-limited` because the Tamil facsimile bodies are intentionally unavailable word-for-word;
+- English wording corrections required in SC1: **none**;
+- external/standard Kural wording imported during review: **none**;
+- unreadable handwritten material reconstructed: **none**.
 
-### Batch 8 — scans 75–89 — COMPLETE
+SC1 source-limit handling:
 
-Processed exactly 15 consecutive scans. All fifteen records are `draft`; the physical continuation 89→90 was preserved.
-
-### Batch 9 — scans 90–104 — COMPLETE
-
-Processed exactly 15 consecutive scans. All fifteen records are `draft`; the physical continuation 104→105 was preserved.
-
-### Batch 10 — scans 105–111 — COMPLETE
-
-Final first-pass drafting remainder: **7 consecutive scans**, permitted because fewer than 15 scans remained in Part 001.
-
-- scan **105 / printed 88** — conclusion of the Villavan / horse episode and the bad-friendship Kural — `draft`;
-- scans **106–107 / printed 89–90** — Kalingan and Kathiravan on where anger must truly be restrained, ending with the `செல்லிடத்துக் காப்பான்...` Kural — `draft`;
-- scan **108 / printed 91** — lover-away day-tally / worn-fingers vignette and `வாளற்றுப் புற்கென்ற...` — `draft`;
-- scans **109–111 / printed 92–94** — learned-speaker assembly vignette, concluding with the two `சொல்வன்மை` Kurals on ordered speech and fragrance-less learning — `draft`.
-
-All Batch 10 English records were translated only from the audited Tamil repository records. No standard/published English Kural wording was imported. Scan 111 is the final physical scan of Part 001.
+- scan **13** retains only the secure Third Edition Preface heading, date/signature presence and archival page information;
+- scan **14** retains only the secure `Two Eyes` / Fourth Edition Preface / author heading information and visual signature/date presence;
+- scan **15** retains only the secure Sixth Edition Preface heading and visual/decorative information.
 
 ## Current counts
 
-- English page records created: **111 / 111**;
+- English page records: **111 / 111**;
 - first-pass drafting: **COMPLETE**;
-- `draft`: **107**;
+- source-check coverage: **15 / 111** physical scans reviewed;
+- `source-checked`: **12**;
+- `draft`: **95**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
-- source-checked: **0**;
+- source-limited records already reviewed within their available evidence: **3** — scans 13–15;
 - editorial-reviewed: **0**;
 - release-ready: **0**.
 
-No source-check, editorial review or release-ready claim is made by the first-pass drafting stage.
-
 ## Exact next activity
 
-Begin **Part 001 English source-check Batch SC1 — scans 1–15** against the audited Tamil records.
+Begin **Part 001 English source-check Batch SC2 — scans 16–30** against the audited Tamil records.
 
 - process exactly **15 consecutive scans**;
-- compare each English record paragraph-by-paragraph / block-by-block against its audited Tamil page for omissions, additions, meaning drift, names, quotations, Kural blocks and page function;
-- scans **1–12** may be promoted from `draft` to `source-checked` only if the comparison passes;
-- scans **13–15** must remain `source-limited`; review only the securely established Tamil material and do not reconstruct the unreadable facsimile bodies;
-- do not import standard Thirukkural English wording, web translations, another commentator or memory during source-check;
-- record corrections transparently in the page files and update this status/frontier documentation after the batch;
-- audit the exact changed-file set before advancing to scan 16.
+- compare each English page paragraph-by-paragraph / block-by-block against its audited Tamil page for omissions, additions, meaning drift, names, quotations, Kural blocks, visual/page function and physical continuations;
+- ordinary pages may move from `draft` to `source-checked` only after passing;
+- scan **19** must remain `source-limited`; review only its securely established Tamil material and preserve the washed-out gap without reconstruction;
+- do not import standard Thirukkural English wording, web translations, another commentator or memory;
+- record any corrections transparently in the relevant English page records;
+- update this status/frontier documentation and audit the exact changed-file set before advancing to scan 31.
 
 Do not begin glossary reconciliation or editorial review until the Part 001 source-check stage is complete.
