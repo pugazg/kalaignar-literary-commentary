@@ -8,7 +8,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
-| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass records through scan 89 |
+| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass records through scan 104 |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -64,14 +64,15 @@ First-pass drafting follows the user-directed **15 consecutive scan pages per it
 - **Batch 5 / scans 38–48 — COMPLETE** — 11-page cadence.
 - **Batch 6 / scans 49–59 — COMPLETE** — 11-page cadence.
 - **Batch 7 / scans 60–74 — COMPLETE** — first 15-page cadence batch.
-- **Batch 8 / scans 75–89 — COMPLETE** — 15 pages; travelling-family charity conclusion, oppressive-rule uprising, reproached eyes, old age/gambling comparison, separation pallor, victorious king/just sceptre, dream/waking separation, prince/elder resistance, and the opening love-sickness Kural whose citation continues on scan 90.
+- **Batch 8 / scans 75–89 — COMPLETE** — 15 pages.
+- **Batch 9 / scans 90–104 — COMPLETE** — 15 pages; love-sickness continuation, two-commanders/deeds vignette, eyes-as-drum sequence, young poet/prospective bride, flower/eye reunion, Urkkavalan/tiger-delay story, two-night waiting/reunion, and the opening Villavan battlefield-call episode.
 
-The physical continuation **89→90** is intentionally preserved.
+The physical continuation **104→105** is intentionally preserved.
 
 Current English counts:
 
-- page records created: **89 / 111**;
-- `draft`: **85**;
+- page records created: **104 / 111**;
+- `draft`: **100**;
 - `source-limited`: **4** — scans 13–15, 19;
 - source-checked: **0**;
 - editorial-reviewed: **0**;
@@ -81,8 +82,8 @@ Current English counts:
 
 **Tamil Part 001: archival-ready / closed.**
 
-**English Part 001: first-pass drafting complete through scan 89.**
+**English Part 001: first-pass drafting complete through scan 104.**
 
-Exact next activity: **English Batch 9 — scans 90–104**, exactly 15 consecutive pages from the audited Tamil records.
+Exact next activity: **final English Batch 10 — scans 105–111**, the remaining **7 pages** of Part 001. After that batch is audited and **111/111 English records** are confirmed, begin the English source-check stage.
 
-Do not begin English source-check while first-pass drafting is incomplete. Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
+Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
