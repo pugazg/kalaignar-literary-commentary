@@ -153,7 +153,13 @@ Part 002 must not begin until Part 001 English closure is complete and Part 002 
 
 ## 12. Batch discipline
 
-English drafting may use small page batches. Prefer a meaningful source boundary rather than forcing an arbitrary page count.
+For Kuraloviyam first-pass English drafting, the user-directed cadence is **11 physical scan pages per iteration**.
+
+- Use exactly 11 consecutive `scan_page` records in each normal drafting iteration.
+- The final drafting iteration of a Part may be shorter when fewer than 11 pages remain.
+- A batch boundary does **not** imply a narrative, quotation or Kural boundary; preserve source-supported continuations across batches exactly as the Tamil records do.
+- Source-limited pages still count toward the 11-page batch and retain `source-limited` status.
+- Do not extend or shorten a normal batch merely to reach a more convenient literary boundary.
 
 For each draft batch:
 
@@ -168,10 +174,20 @@ For each draft batch:
 
 Source-check and editorial review are separate later gates; a first draft must not be promoted merely because it was created from verified Tamil.
 
-## 13. Part 001 initial drafting plan
+## 13. Part 001 drafting record
 
 Part 001 covers overall scans 1–111.
 
-The initial English batch is **scans 1–8**, a natural front-matter boundary containing the cover/publication matter and the complete `முகப்புரை` / Preface.
+Earlier drafting batches were established before the fixed 11-page instruction and are preserved as completed history:
 
-After Batch 1, the next draft batch begins at **scan 9**, with the `மதிப்புரை` / Critical Appreciation sequence. The exact end of that next batch should follow a meaningful front-matter boundary recorded in `TRANSLATION_STATUS.md`.
+- Batch 1: scans 1–8;
+- Batch 2: scans 9–17;
+- Batch 3: scans 18–27;
+- Batch 4: scans 28–37.
+
+Beginning with **Batch 5**, the permanent drafting cadence is the user-directed **11 pages per iteration**:
+
+- Batch 5: scans 38–48;
+- Batch 6: scans 49–59;
+- continue in consecutive 11-page ranges;
+- the final Part 001 drafting batch may contain fewer than 11 scans if required by the 111-page Part boundary.
