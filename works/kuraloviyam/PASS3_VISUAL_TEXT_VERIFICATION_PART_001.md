@@ -88,10 +88,30 @@ No lexical wording was changed during this batch. No page record required a Pass
 
 Five page records — scans **34, 37, 39, 41 and 43** — received source-supported structural-only corrections to restore the physical illustration-before-prose order visible in the controlling scans. **No lexical wording was changed.** Scans 35–36, 38, 40, 42 and 44 required no page-record correction.
 
+## Batch 5 — overall scans 45–55
+
+**Status: COMPLETE — 11 / 11 scans directly compared with the rendered source for meaningful visual-text fidelity.**
+
+| Scan | Printed page | Pass 3 result |
+|---:|---|---|
+| 45 | 28 | boastful-youth narrative opening confirmed: large royal/public-assembly illustration is physically above the prose, with recurring side banner and page furniture; page record structurally corrected so the visual-material block precedes the prose |
+| 46 | 29 | text-led continuation through palace hospitality, preparation and the mountain assembly confirmed, including the physical continuation from scan 45 / into scan 47 and printed page 29; no structural correction required |
+| 47 | 30 | boastful-youth conclusion confirmed with dialogue/prose sequence, distinct `சொல்லுதல் யார்க்கும் எளிய...` Kural block, authority/song metadata and printed page 30; no structural correction required |
+| 48 | 31 | heart/dream vignette opening confirmed: large surreal heart-like figure is physically above the prose; page record structurally corrected so the visual-material block precedes the prose |
+| 49 | 32 | heart/dream vignette conclusion confirmed with dialogue blocks, awakening transition, distinct `உறாஅர்க்கு உறுநோய்...` Kural, authority/song metadata and page furniture; no structural correction required |
+| 50 | 33 | palanquin vignette opening confirmed: large palanquin-bearers illustration is physically above the prose and dialogue; page record structurally corrected so the visual-material block precedes the prose |
+| 51 | 34 | palanquin interpretation/conclusion confirmed with prose/dialogue, distinct `அறத்தாறு இதுவென வேண்டா சிவிகை...` Kural, authority/song metadata and lower seated Thiruvalluvar illustration; no structural correction required |
+| 52 | 35 | Ilango/Chenguttuvan renunciation vignette opening confirmed: large courtly-figure/ascetic illustration is physically above the prose; page record structurally corrected so the visual-material block precedes the prose |
+| 53 | 36 | Ilango renunciation conclusion confirmed with dialogue/prose, distinct `அற்றேமென்று அல்லற் படுபவோ...` Kural, authority/song metadata, gloss lines and page furniture; no structural correction required |
+| 54 | 37 | moon/maiden vignette opening confirmed: large moonlit couple illustration is physically above the prose and `மதியும் மடந்தை...` Kural; page record structurally corrected so the visual-material block precedes the prose |
+| 55 | 38 | moon/couple continuation confirmed with prose, distinct `தாம்வீழ்வார் மென்றோள்...` Kural, paired citation lines, lower chariot/monument illustration and page furniture; no structural correction required |
+
+Five page records — scans **45, 48, 50, 52 and 54** — received source-supported structural-only corrections to restore the physical illustration-before-prose order visible in the controlling scans. **No lexical wording was changed.** Scans 46–47, 49, 51, 53 and 55 required no page-record correction.
+
 ## Current Pass 3 frontier
 
-Part 001 Pass 3 meaningful visual-text verification is complete through **overall scan 44**.
+Part 001 Pass 3 meaningful visual-text verification is complete through **overall scan 55**.
 
-**Exact next batch: overall scans 45–55.**
+**Exact next batch: overall scans 56–66.**
 
 Known source limitations remain source-limited. In particular, scans **13–15** contain handwritten/facsimile bodies; Pass 3 verifies their visible heading/layout/non-text relationships but does not reconstruct unreadable handwriting. Scan **19** contains a physically washed-out/faint printed region and remains source-limited rather than reconstructed from context.
