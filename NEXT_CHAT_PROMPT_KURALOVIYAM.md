@@ -1,6 +1,6 @@
 # Next Chat Prompt — குறளோவியம் archival project
 
-Continue the Kalaignar Literary Commentary archival project directly in:
+Continue the Kalaignar Literary Commentary archival / bilingual project directly in:
 
 `pugazg/kalaignar-literary-commentary`
 
@@ -8,13 +8,9 @@ Branch: `main`
 
 Active work: `works/kuraloviyam/`
 
-Current controlling split source:
-
-`TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf`
-
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve the newest durable state. Do not reset or repeat completed work because this prompt contains an older checkpoint.
+Fetch live `main` first. Preserve any newer durable state. Do not reset, repeat or reopen completed Tamil work merely because a copied prompt contains an older checkpoint.
 
 ## Mandatory startup
 
@@ -25,94 +21,72 @@ Before any repository change, read completely:
 3. root `HANDOVER.md`
 4. this `NEXT_CHAT_PROMPT_KURALOVIYAM.md`
 5. `works/kuraloviyam/README.md`
-6. `works/kuraloviyam/SOURCE_INTAKE_PART_001.md`
-7. `works/kuraloviyam/metadata/source.md`
-8. `works/kuraloviyam/metadata/transcription-policy.md`
-9. `works/kuraloviyam/indexes/page-map.md`
-10. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_001.md`
-11. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_001.md`
+6. `works/kuraloviyam/PART_001_AUDIT.md`
+7. `works/kuraloviyam/PART_001_FINAL_STATUS_SYNC.md`
+8. `works/kuraloviyam/SOURCE_INTAKE_PART_001.md`
+9. `works/kuraloviyam/metadata/source.md`
+10. `works/kuraloviyam/metadata/transcription-policy.md`
+11. `works/kuraloviyam/indexes/page-map.md`
+12. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_001.md`
+13. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_001.md`
+14. `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_001.md`
 
-Then inspect the actual supplied source scans before writing.
+For Part 001 English work, the audited repository Tamil records are the translation source layer. The Part 001 PDF does not need to be reopened for normal translation work.
 
-## Source identity
+## Source / split identity
 
-The user reports the complete Kuraloviyam PDF as **666 physical pages**, manually split into **six parts of 111 pages** because the original exceeds the upload limit.
+The complete source is reported as **666 physical pages**, manually split into **six parts of 111 pages**:
 
-Canonical overall scan mapping:
-
-- Part 001: 1–111
+- Part 001: overall scans 1–111
 - Part 002: 112–222
 - Part 003: 223–333
 - Part 004: 334–444
 - Part 005: 445–555
 - Part 006: 556–666
 
-Repository `scan_page` never restarts for a split PDF. Part 001 has no usable parsed text layer; the rendered source scan is controlling.
+Repository `scan_page` never restarts for a split PDF.
 
-## Completed state
+Part 002 has **not** been supplied or started. Do not infer scan 112 or its printed-page continuity.
 
-Part 001 source intake and Pass 1 are complete: **111 / 111 physical scans captured**. Scan 18 begins the main body at printed page 1; scan 111 is printed page 94.
+## Part 001 Tamil state — CLOSED
 
-### Part 001 Pass 2A — COMPLETE
+Controlling Part 001 source used for the source-dependent passes:
 
-`works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_001.md` records direct textual verification for **all scans 1–111**. Do not restart Pass 2A.
+`TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf`
 
-### Part 001 Pass 2B — scans 1–99 COMPLETE
+Part 001 Tamil archival work is **CLOSED / ARCHIVAL-READY**:
 
-The durable independent lexical-fidelity record is:
+- source intake: **111 / 111 complete**;
+- Pass 1: **111 / 111 complete**;
+- Pass 2A direct textual verification: **111 / 111 complete**;
+- Pass 2B independent lexical-fidelity re-read: **111 / 111 complete**;
+- Pass 3 meaningful visual-text verification: **111 / 111 complete**;
+- Part audit: **PASS**;
+- final metadata/status synchronization: **PASS**;
+- textual statuses: **107 `verified` + 4 `partial`**;
+- intentional source-limited partial scans: **13, 14, 15, 19**;
+- visual fidelity: **111 / 111 `verified`**.
 
-`works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_001.md`
+Do not reconstruct the handwritten/facsimile bodies on scans 13–15 or the physically faint/washed-out text on scan 19. Their limitations are permanent source-controlled metadata unless better source evidence is supplied.
 
-Overall scans **1–99** have now been independently re-read word by word against the rendered source after Pass 2A was closed.
+## Mandatory per-part closure rule
 
-Batch-9 source-supported corrections for scans 89–99:
+Finish the complete workflow for one supplied split before advancing to the next. For each Part:
 
-- scan **89 / printed 72** — `இப்படியாமல` → source-visible `இப்படியாமல்`;
-- scan **91 / printed 74** — `இதழ் அசைவு தெரியாமல்` → source-visible `இதழ் அசைவது தெரியாமல்`;
-- scan **92 / printed 75** — `கீழ்மைக் செயல்` → source-visible `கீழ்மைச் செயல்`;
-- scan **95 / printed 78** — `கூட்டத்தில் விரித்திருந்த` → source-visible `கூடத்தில் விரித்திருந்த`;
-- scan **96 / printed 79** — `காதலவு` → source-visible `காதளவு`;
-- scan **96 / printed 79** — `கட்டுப்படும் நிலவுக்கு` → source-visible `கட்டுக்குள் நிலவுலகு`;
-- scan **97 / printed 80** — `அவன் வரும்போது` → source-visible `அவள் வரும்போது`;
-- scan **98 / printed 81** — removed the non-source comma in `குளிர்ந்த காற்று, தழுவிக்கொண்டு` → source-visible `குளிர்ந்த காற்று தழுவிக்கொண்டு`.
+source intake → Pass 1 → Pass 2A → Pass 2B → Pass 3 → Part audit → final status sync → documentation sync → Tamil archival-ready → project-created English translation/review closure when maintained → final Part checkpoint → next Part.
 
-Scans **90, 93–94 and 99** required no new Pass-2B page-record correction.
-
-Earlier source limitations remain:
-
-- scans **13–15** — handwritten/facsimile bodies remain `partial`; printed headings/material were checked, but handwriting must not be reconstructed;
-- scan **19** — the physically washed-out/faint central printed region remains `partial`; do not infer missing words from context.
-
-## Pass 2B rule
-
-Pass 2B is an independent second reading, not a confirmation of the Pass-2A change list. Re-read every source-visible printed word against the rendered scan with special attention to:
-
-- `ர / ற`;
-- `ன / ண`;
-- `ல / ள / ழ`;
-- vowel signs and compound-letter distinctions;
-- source-visible spacing and joining;
-- old/uncommon printed forms;
-- names and titles;
-- quotations and Kural text;
-- punctuation where it affects textual fidelity.
-
-Do not import standard Kural readings, modern spellings, contextual guesses, OCR guesses or web/reference text. The rendered scan remains controlling.
-
-Pass 3 remains a separate visual-structure / visual-text fidelity gate and must not be used as the lexical safety net.
+Once a Part is closed, normal later work uses the durable repository records and does not routinely require the earlier split PDF again.
 
 ## Exact next activity
 
-If live `main` has not advanced beyond this frontier:
+If live `main` still records Part 001 Tamil as archival-ready and no newer Kuraloviyam activity supersedes this prompt:
 
-1. continue **Part 001 Pass 2B — independent lexical-fidelity re-read**;
-2. process **overall scans 100–110**;
-3. independently re-read every source-visible printed word against the rendered scan;
-4. compare that independent reading against each existing Markdown page record;
-5. correct only differences visibly supported by the controlling scan;
-6. pay special attention to character-level confusions, vowel signs, old/uncommon forms, names, quotations/Kurals, joining and spacing;
-7. preserve genuine source limitations as `partial` / `blocked`; never reconstruct from context;
-8. append Batch-10 results to `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_001.md` without claiming Pass 3 completion or assigning final `verified` status;
-9. audit the changed-file set before advancing beyond scan 110.
+1. establish the **Part 001 project-created English translation structure and plan** using the repository's existing literary-commentary English conventions / completed Thirukkural benchmark as appropriate;
+2. translate only from the audited Part 001 Tamil records, not from memory, web editions or a standard Kural text;
+3. declare `translation_type: "project_translation"` in the English layer;
+4. preserve explicit source limitations rather than inventing English for unavailable Tamil wording on scans 13–15 and 19;
+5. define a review/status workflow before claiming any English page or section final;
+6. commit the durable translation-plan/progress structure and begin only the first repository-recorded English batch if the established project convention clearly permits it;
+7. audit changed files and record the exact next English frontier.
 
-Do not begin Part 002. Do not begin Pass 3, the Part audit, or English translation before Part 001 Pass 2B is complete.
+Do **not** begin Part 002. Part 002 starts only after Part 001's required English/final closure workflow is complete and the Part 002 source is supplied.
