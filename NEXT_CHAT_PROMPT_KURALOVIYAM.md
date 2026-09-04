@@ -57,24 +57,24 @@ Part 001 source intake and Pass 1 are complete: **111 / 111 physical scans captu
 
 `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_001.md` records direct textual verification for **all scans 1–111**. Do not restart Pass 2A.
 
-### Part 001 Pass 2B — scans 1–55 COMPLETE
+### Part 001 Pass 2B — scans 1–66 COMPLETE
 
 The durable independent lexical-fidelity record is:
 
 `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_001.md`
 
-Overall scans **1–55** have now been independently re-read word by word against the rendered source after Pass 2A was closed.
+Overall scans **1–66** have now been independently re-read word by word against the rendered source after Pass 2A was closed.
 
-Batch-5 source-supported corrections for scans 45–55:
+Batch-6 source-supported corrections for scans 56–66:
 
-- scan **47 / printed 30** — `அதைக் தூக்கிக் கொண்டு` → source-visible `அதைத் தூக்கிக் கொண்டு`;
-- scan **47 / printed 30** — `அப்படிப் பொருள் ஆசையிருந்தால்` → source-visible `அப்படியொரு ஆசையிருந்தால்`;
-- scan **47 / printed 30** — `இன்று தொலைத்திருக்கலாமே` → source-visible `தின்று தொலைத்திருக்கலாமே`;
-- scan **51 / printed 34** — `இன்ப துன்பங்கள் இரண்டையும் எதிராகக் கருதிப்` → source-visible `இன்ப துன்பங்கள் இரண்டையும் எளிதாகக் கருதிப்`;
-- scan **53 / printed 36** — `அப்படி கருதியிருந்தால்தான்` → source-visible `அப்படிக் கருதியிருந்தால்தான்`;
-- scan **55 / printed 38** — prose `தாமரைக் கண்ணன் உலகம்?` → source-visible `தாமரைக் கண்ணான் உலகம்?`.
+- scan **57 / printed 40** — Kural `வாள்போல்` → source-visible `வாள்போல`;
+- scan **57 / printed 40** — Kural `கேள்போல்` → source-visible `கேள்போல`;
+- scan **61 / printed 44** — `நிர்ணயிக்கப்படக்கூடிய` → source-visible `நிர்ணயிக்கப் படக்கூடிய`;
+- scan **63 / printed 46** — Kural `தொடிபொடு` → source-visible `தொடியொடு`;
+- scan **63 / printed 46** — `காட்டப்படுத்துகிறார்` → source-visible `காட்சிப்படுத்துகின்றார்`;
+- scan **64 / printed 47** — `இருந்து திருநாடு!` → source-visible `இருந்தது திருநாடு!`.
 
-Scans **45–46, 48–50, 52 and 54** required no new Pass-2B page-record correction.
+Scans **56, 58–60, 62 and 65–66** required no new Pass-2B page-record correction. Scan 66 independently reconfirmed the source-visible uncommon form `வசந்தப் புறவைகள்போல`; do not normalize it.
 
 Earlier source limitations remain:
 
@@ -104,13 +104,13 @@ Pass 3 remains a separate visual-structure / visual-text fidelity gate and must 
 If live `main` has not advanced beyond this frontier:
 
 1. continue **Part 001 Pass 2B — independent lexical-fidelity re-read**;
-2. process **overall scans 56–66**;
+2. process **overall scans 67–77**;
 3. independently re-read every source-visible printed word against the rendered scan;
 4. compare that independent reading against each existing Markdown page record;
 5. correct only differences visibly supported by the controlling scan;
 6. pay special attention to character-level confusions, vowel signs, old/uncommon forms, names, quotations/Kurals, joining and spacing;
 7. preserve genuine source limitations as `partial` / `blocked`; never reconstruct from context;
-8. append Batch-6 results to `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_001.md` without claiming Pass 3 completion or assigning final `verified` status;
-9. audit the changed-file set before advancing beyond scan 66.
+8. append Batch-7 results to `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_001.md` without claiming Pass 3 completion or assigning final `verified` status;
+9. audit the changed-file set before advancing beyond scan 77.
 
 Do not begin Part 002. Do not begin Pass 3, the Part audit, or English translation before Part 001 Pass 2B is complete.
