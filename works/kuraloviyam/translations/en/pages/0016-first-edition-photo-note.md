@@ -7,7 +7,7 @@ section: "Front matter — First-edition commemorative note"
 page_type: "photograph-note"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
