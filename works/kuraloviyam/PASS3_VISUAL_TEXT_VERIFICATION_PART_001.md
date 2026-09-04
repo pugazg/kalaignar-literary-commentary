@@ -48,10 +48,30 @@ No lexical wording was changed during this batch. No page record required a Pass
 
 No lexical wording was changed during this batch. Scans 13–15 and 19 retain their existing source-limited `partial` status. No page record required a Pass-3 structural correction, so Batch 2 intentionally changes only this Pass-3 control log.
 
+## Batch 3 — overall scans 23–33
+
+**Status: COMPLETE — 11 / 11 scans directly compared with the rendered source for meaningful visual-text fidelity.**
+
+| Scan | Printed page | Pass 3 result |
+|---:|---|---|
+| 23 | 6 | continuation/conclusion of `டாக்டர் வ.சுப.மாணிக்கம்` confirmed with no repeated heading, prose occupying the upper portion, large blank lower field and centered printed page number 6; no structural correction required |
+| 24 | 7 | new `மதுரை யாதவர் கல்லூரி முதல்வர் தமிழ்க்குடிமகன்` section confirmed: three-line heading inside the ornate chariot-style frame, prose block below and centered page number 7; no structural correction required |
+| 25 | 8 | new `காசி ஆனந்தன்` section confirmed: framed name heading, prose below and centered printed page number 8; no structural correction required |
+| 26 | 9 | new `ஆட்சிமொழிக் காவலர் இராமலிங்கனார்` section confirmed: three-line framed heading, prose below, physical continuation into scan 27 and centered page number 9; no structural correction required |
+| 27 | 10 | continuation/conclusion of `ஆட்சிமொழிக் காவலர் இராமலிங்கனார்` confirmed with no repeated heading, full prose page and centered page number 10; no structural correction required |
+| 28 | 11 | new `ஆசிரியர் சாவி` section confirmed: framed name heading, prose below and centered page number 11; no structural correction required |
+| 29 | 12 | new `டாக்டர் மெ.சுந்தரம்` section confirmed: framed name heading, prose below and centered page number 12; no structural correction required |
+| 30 | 13 | new `டாக்டர் மா.நன்னன்` section confirmed: framed name heading, prose below, distinct quoted-example blocks within the prose relationship and centered page number 13; no structural correction required |
+| 31 | 14 | `கலைஞர் ஏற்புரை` opening confirmed: ornate framed section heading, dense prose beneath and centered printed page number 14; no structural correction required |
+| 32 | — | full-page `கலைஞரின் / குறளோவியம்` section-title composition confirmed, with `கலைஞரின்` high on the page and `குறளோவியம்` low on the page as separate display-title elements; no structural correction required |
+| 33 | 16 | intentionally blank source-side page confirmed: faint reverse-side bleed-through is non-source-side show-through and remains untranscribed; only centered printed page number 16 is meaningful page furniture; no structural correction required |
+
+No lexical wording was changed during this batch. No page record required a Pass-3 structural correction, so Batch 3 intentionally changes only this Pass-3 control log.
+
 ## Current Pass 3 frontier
 
-Part 001 Pass 3 meaningful visual-text verification is complete through **overall scan 22**.
+Part 001 Pass 3 meaningful visual-text verification is complete through **overall scan 33**.
 
-**Exact next batch: overall scans 23–33.**
+**Exact next batch: overall scans 34–44.**
 
 Known source limitations remain source-limited. In particular, scans **13–15** contain handwritten/facsimile bodies; Pass 3 verifies their visible heading/layout/non-text relationships but does not reconstruct unreadable handwriting. Scan **19** contains a physically washed-out/faint printed region and remains source-limited rather than reconstructed from context.
