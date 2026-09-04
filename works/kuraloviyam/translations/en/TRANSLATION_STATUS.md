@@ -76,24 +76,35 @@ This is the first batch under the fixed **11-page drafting cadence**.
 - scans **41–42 / printed 24–25** — education, exaggeration, seven births/rebirth and realization-of-truth discussion, with two repository-preserved Kural blocks — `draft`;
 - scans **43–44 / printed 26–27** — the beloved's two kinds of gaze and the lover's “looking without looking” episode, with two Kural blocks — `draft`;
 - scans **45–47 / printed 28–30** — the boastful youth, the mountain promise and the `சொல்லுதல் யார்க்கும் எளிய...` conclusion — `draft`;
-- scan **48 / printed 31** — opening of the surreal seashore figure episode — `draft`, intentionally continuing into scan 49.
+- scan **48 / printed 31** — opening of the surreal seashore figure episode — `draft`, continuing into scan 49.
 
-All Batch 5 English records were translated only from the audited Tamil repository records. No standard/published English Kural rendering was imported. The physical continuation **48→49** remains open exactly as the source record requires.
+### Batch 6 — scans 49–59 — COMPLETE
+
+Processed exactly **11 consecutive scans** under the fixed drafting cadence.
+
+- scan **49 / printed 32** — conclusion of the surreal seashore-heart dream, including the repository-preserved `உறாஅர்க்கு உறுநோய்...` Kural — `draft`;
+- scans **50–51 / printed 33–34** — palanquin-bearer interpretation vignette and Valluvar's correction of the mistaken moral reading, including the `அறத்தாறு இதுவென வேண்டா...` Kural — `draft`;
+- scans **52–53 / printed 35–36** — Ilango Adigal / Chenguttuvan renunciation vignette and the `அற்றேமென்று அல்லற் படுபவோ...` Kural — `draft`;
+- scans **54–55 / printed 37–38** — moon/maiden imagery and the lover reclining on the beloved's shoulder, with the repository-preserved Kurals — `draft`;
+- scans **56–57 / printed 39–40** — Valluvar/student discussion of sword-like open enmity versus kin-like internal enmity, ending with `வாள்போல பகைவரை அஞ்சற்க...` — `draft`;
+- scans **58–59 / printed 41–42** — discussion of the `தெய்வந் தொழாஅள்...` Kural, the rain comparison and the related `கெடுப்பதூஉங் கெட்டார்க்குச்...` Kural — `draft`.
+
+All Batch 6 records were translated only from the audited Tamil repository records. No standard/published English Kural rendering was imported.
 
 ### Current counts
 
-- English page records created: **48 / 111**;
-- `draft`: **44**;
+- English page records created: **59 / 111**;
+- `draft`: **55**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - source-checked: **0**;
 - editorial-reviewed: **0**;
 - release-ready: **0**.
 
-No source-check, editorial review or release-ready claim is made by Batches 1–5.
+No source-check, editorial review or release-ready claim is made by Batches 1–6.
 
 ## Exact next activity
 
-Create **Part 001 English Batch 6 — scans 49–59** from the audited Tamil records.
+Create **Part 001 English Batch 7 — scans 60–70** from the audited Tamil records.
 
 - process exactly **11 consecutive scans**;
 - mirror the Tamil filenames under `translations/en/pages/`;
@@ -102,6 +113,6 @@ Create **Part 001 English Batch 6 — scans 49–59** from the audited Tamil rec
 - preserve headings, paragraphs, quotations, Kural/verse blocks, visual-page functions and cross-page continuations;
 - do not import standard Thirukkural English wording, web translations, another commentator or memory;
 - update this status file and current-frontier documentation after the batch;
-- audit the exact changed-file set before advancing to scan 60.
+- audit the exact changed-file set before advancing to scan 71.
 
 Do not begin English source-check while Part 001 first-pass drafting remains incomplete unless a newer live workflow explicitly changes the cadence.
