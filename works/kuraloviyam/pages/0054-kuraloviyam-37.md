@@ -14,6 +14,10 @@ source_filename: "TVA_BOK_0065733_குறளோவியம்_part_001_pag
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
 
+## Visual material
+
+Large colour illustration occupying the upper half: a couple seated closely together beneath a moon and stars, visually tied to the moon/maiden comparison in the prose.
+
 வெள்ளிப் பாற்குடத்தின் வாய்போன்ற வட்ட நிலா. அல்லிக்குளமோ என ஐயுறும் வண்ணம் நட்சத்திர வானம். அவைகளைப் பற்றியெல்லாம் தேனிசை மீட்டிவிட்டு, உலகத்தையே மறந்து அசைவற்று இருக்கின்றன அந்த நல் யாழ்கள் இரண்டும். அந்த உயிர் யாழ்களின் கனவுலகத்தைக் கலைத்துவிடக் கூடாதேயென்ற பயத்தோடு, மென்காற்று அவர்களைக் கீழ் ஸ்தாயியில் தாலாட்டுகிறது.
 
 வானத்தில் உள்ள விண்மீன்களோ, பெரியதோர் குழப்பமான ஆராய்ச்சியில் இறங்கிக் கலங்கித் திரிகின்றன. என்ன அந்த ஆராய்ச்சி?
@@ -24,9 +28,5 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 > மதியும் மடந்தை முகனும் அறியா  
 > பதியிற் கலங்கிய மீன்
-
-## Visual material
-
-Large colour illustration occupying the upper half: a couple seated closely together beneath a moon and stars, visually tied to the moon/maiden comparison in the prose.
 
 <!-- மூல ஸ்கேன் பக்கம்: 54; அச்சுப் பக்கம்: 37 -->
