@@ -208,10 +208,22 @@ Six page records — scans **89, 91, 93, 95, 97 and 99** — received source-sup
 
 Six page records — scans **101, 102, 104, 106, 108 and 109** — received source-supported structural-only corrections. Scan 101 now explicitly represents the lower chariot/monument motif; scans 102, 104, 106, 108 and 109 restore the physical illustration-before-text order visible in the controlling scans. **No Tamil lexical wording was changed.** Scans 100, 103, 105, 107 and 110 required no page-record correction.
 
+## Batch 11 — overall scan 111
+
+**Status: COMPLETE — 1 / 1 scan directly compared with the rendered source for meaningful visual-text fidelity.**
+
+| Scan | Printed page | Pass 3 result |
+|---:|---|---|
+| 111 | 94 | Part 001 final physical scan confirmed: learned-speaker/assembly vignette concludes with two distinct `சொல்வன்மை` Kural blocks, authority/song metadata, lower centered Valluvar statue illustration and printed page furniture; page record structurally corrected to represent the statue in its physical position below the metadata |
+
+Scan **111** received one source-supported structural-only correction to represent the lower Valluvar statue illustration. **No Tamil lexical wording was changed.**
+
 ## Current Pass 3 frontier
 
-Part 001 Pass 3 meaningful visual-text verification is complete through **overall scan 110**.
+**Part 001 Pass 3 meaningful visual-text verification is COMPLETE: overall scans 1–111 / 111.**
 
-**Exact next batch: overall scan 111 only.**
+The next workflow gate defined by `KURALOVIYAM_ARCHIVAL_GUIDELINES.md` is the **Part 001 audit**: verify 111/111 physical coverage, continuity, statuses, the Part 001 boundary and unresolved source limitations before assigning final verified status or beginning any English translation.
+
+**Exact next activity: Part 001 audit. Do not begin Part 002 or English translation yet.**
 
 Known source limitations remain source-limited. In particular, scans **13–15** contain handwritten/facsimile bodies; Pass 3 verifies their visible heading/layout/non-text relationships but does not reconstruct unreadable handwriting. Scan **19** contains a physically washed-out/faint printed region and remains source-limited rather than reconstructed from context.
