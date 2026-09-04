@@ -32,33 +32,42 @@ Permanent cadence:
 
 `source-limited` is retained where the audited Tamil source itself is incomplete.
 
-## Part 001 drafting plan
+## Part 001 draft progress
 
-The first draft batch is **scans 1–8**, a natural front-matter boundary covering:
+### Batch 1 — scans 1–8 — COMPLETE
 
-- cover;
-- title/publisher page;
-- edition/imprint page;
-- complete `முகப்புரை` / Preface sequence, scans 4–8.
+The first English draft batch follows the natural front-matter boundary through the end of `முகப்புரை` / Preface.
 
-Newly drafted translatable pages remain `draft`; they are not source-checked or release-ready merely because their Tamil basis is verified.
+Created page-aligned English records:
 
-## Current progress
+- scans **1–3** — cover, title/publisher, edition/imprint matter;
+- scans **4–8 / printed iii–vii** — complete Preface.
 
-**English structure established. First page batch not yet committed.**
+All eight Tamil source records are `verified`, so the new English records are complete first-pass translations with English `status: "draft"`.
 
-Drafted: **0 / 111**.
+No source-check, editorial review or release-ready claim is made by this batch.
 
-Source-checked: **0 / 111**.
+### Current counts
 
-Editorial-reviewed: **0 / 111**.
+- drafted: **8 / 111**;
+- source-checked: **0 / 111**;
+- editorial-reviewed: **0 / 111**;
+- release-ready: **0 / 111**;
+- source-limited English pages created: **0 / 4 expected source-limited Tamil records**.
 
-Release-ready: **0 / 111**.
+## Source-limit rule for the upcoming front matter
 
-Source-limited English pages created: **0 / 4 expected source-limited Tamil records**.
+Scans **13, 14 and 15** are audited Tamil `partial` handwritten/facsimile records. When their English records are created, they must use `status: "source-limited"` and translate only the securely established material. The unreadable continuous handwriting must not be reconstructed.
+
+Scan **19** is also Tamil `partial`, but it lies beyond the next front-matter batch.
 
 ## Exact next activity
 
-Create **Part 001 English Batch 1 — scans 1–8** from the audited Tamil page records, preserving page alignment and keeping the new English pages at `draft`.
+Create **Part 001 English Batch 2 — scans 9–17**, which closes the remaining front matter before the main body begins at scan 18:
 
-After the batch is committed, update this status file and audit the exact changed-file set before advancing to scan 9.
+- scans 9–12 — `மதிப்புரை` / Critical Appreciation;
+- scans 13–15 — source-limited handwritten/facsimile preface records;
+- scan 16 — first-edition photograph/note;
+- scan 17 — later-edition publication note.
+
+Keep safely translatable pages at `draft`, scans 13–15 at `source-limited`, translate only from the audited Tamil records, then audit the changed-file set before advancing to scan 18.
