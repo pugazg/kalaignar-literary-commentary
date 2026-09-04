@@ -75,23 +75,26 @@ Translate only from audited Tamil records. Do not import standard Kural wording,
 
 ## Drafting batch rule
 
-Beginning with Batch 5, the user-directed drafting cadence is **11 consecutive physical scan pages per iteration**. The final remainder of a Part may be shorter. Do not vary a normal batch to reach a literary boundary; instead preserve quotations, Kural blocks, narrative and physical continuations across batch boundaries exactly as the audited Tamil records require.
+Beginning with **Batch 7**, the current user-directed drafting cadence is **15 consecutive physical scan pages per iteration**. Batches 5–6 remain historical 11-page batches. The final remainder of a Part may be shorter. Do not vary a normal 15-page batch to reach a literary boundary; instead preserve quotations, Kural blocks, narrative and physical continuations across batch boundaries exactly as the audited Tamil records require.
 
 ## First-pass completed batches
 
 - **Batch 1 — scans 1–8 — COMPLETE**.
 - **Batch 2 — scans 9–17 — COMPLETE**; scans 13–15 are `source-limited`.
-- **Batch 3 — scans 18–27 — COMPLETE**; scan 19 is `source-limited` and preserves the audited washed-out gap.
+- **Batch 3 — scans 18–27 — COMPLETE**; scan 19 is `source-limited`.
 - **Batch 4 — scans 28–37 — COMPLETE**.
-- **Batch 5 — scans 38–48 — COMPLETE**.
-- **Batch 6 — scans 49–59 — COMPLETE**; all eleven new records are `draft`.
+- **Batch 5 — scans 38–48 — COMPLETE** — 11 pages.
+- **Batch 6 — scans 49–59 — COMPLETE** — 11 pages.
+- **Batch 7 — scans 60–74 — COMPLETE** — first 15-page batch; all fifteen new records are `draft`.
 
-Batch 6 covers printed pages **32–42** of the main Kuraloviyam sequence: the seashore-heart dream conclusion; palanquin interpretation and Valluvar's correction; Ilango Adigal's renunciation; moon/maiden and lover imagery; sword-like open enmity versus kin-like internal enmity; and the rain/wife interpretation sequence. Repository-preserved Kural blocks were translated only from the audited Tamil records; no external/standard English Kural wording was imported.
+Batch 7 covers printed pages **43–57**: martial history and army qualities; separation/dream longing; Thirunadu and Valanadu governance; Karmegam/Poovazhagi and human `பதர்`; the treacherous minister; beauty/eyes imagery; the captured freedom-fighter/assembly episode; and the opening of the travelling-family theft episode. Repository-preserved Kural blocks were translated only from the audited Tamil records; no external/standard English Kural wording was imported.
+
+The physical continuation **74→75** remains intentionally open.
 
 Current English totals:
 
-- page records: **59/111**;
-- `draft`: **55**;
+- page records: **74/111**;
+- `draft`: **70**;
 - `source-limited`: **4** — scans 13–15, 19;
 - source-checked: **0**;
 - editorial-reviewed: **0**;
@@ -99,11 +102,11 @@ Current English totals:
 
 ## Current exact activity
 
-Proceed with **Part 001 English Batch 7 — scans 60–70**:
+Proceed with **Part 001 English Batch 8 — scans 75–89**:
 
 1. fetch live `main` first;
-2. fetch audited Tamil records for scans **60–70**;
-3. process exactly **11 consecutive scans**;
+2. fetch audited Tamil records for scans **75–89**;
+3. process exactly **15 consecutive scans**;
 4. mirror filenames under `translations/en/pages/`;
 5. translate only repository-supported Tamil wording;
 6. keep ordinary verified-source English records at `draft`;
@@ -111,7 +114,7 @@ Proceed with **Part 001 English Batch 7 — scans 60–70**:
 8. do not import standard Kural English wording or any external translation;
 9. update `TRANSLATION_STATUS.md`, README/handover/current prompt after the batch;
 10. compare the pre-batch base SHA to the new head and confirm only intended files changed;
-11. record the exact next frontier before advancing to scan 71.
+11. record the exact next frontier before advancing to scan 90.
 
 Do not begin source-check while Part 001 first-pass drafting remains incomplete unless a newer live workflow explicitly changes this cadence.
 
