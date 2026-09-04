@@ -64,38 +64,50 @@ Processed exactly **15 consecutive scans** under the current drafting cadence.
 - scan **75 / printed 58** — conclusion of the travelling-family theft episode; the fruit-seller recalls earlier help and the sequence concludes with the `அற்றார் அழிபசி தீர்த்தல்...` Kural on giving — `draft`;
 - scans **76–77 / printed 59–60** — oppressive-rule vignette, escaped young prisoner, popular uprising and the `அல்லற்பட்டு ஆற்றாது அழுதகண்...` Kural — `draft`;
 - scan **78 / printed 61** — lover reproaching his own eyes and the `ஓஒ இனிதே...` Kural — `draft`;
-- scans **79–80 / printed 62–63** — old age, illness, attachment to life and the gambling comparison, ending with `இழத்தொறூஉம் காதலிக்கும் சூதேபோல்...` — `draft`;
-- scans **81–82 / printed 64–65** — separation-pallor / mirror vignette, ending with `அவர்தந்தார் என்னும் தகையால்...` — `draft`;
+- scans **79–80 / printed 62–63** — old age, illness, attachment to life and the gambling comparison — `draft`;
+- scans **81–82 / printed 64–65** — separation-pallor / mirror vignette — `draft`;
 - scans **83–84 / printed 66–67** — victorious king's battle account and Valluvar's contrast between spear-victory and the unbending just sceptre — `draft`;
-- scans **85–86 / printed 68–69** — extended beauty imagery and the dream/waking separation vignette, ending with `நனவென ஒன்றில்லை யாயின்...` — `draft`;
-- scans **87–88 / printed 70–71** — overreaching prince, retired commander/elder and citizens' resistance, ending with `இறந்தமைந்த சார்புடையர்...` — `draft`;
-- scan **89 / printed 72** — two forms of love-sickness and the `காமமும் நாணும்...` Kural — `draft`; its printed citation details continue on scan 90 and were not inferred.
+- scans **85–86 / printed 68–69** — beauty imagery and dream/waking separation — `draft`;
+- scans **87–88 / printed 70–71** — overreaching prince, retired commander/elder and citizens' resistance — `draft`;
+- scan **89 / printed 72** — two forms of love-sickness and the `காமமும் நாணும்...` Kural — `draft`; citation details continue on scan 90 and were not inferred.
 
-All Batch 8 English records were translated only from the audited Tamil repository records. No standard/published English Kural rendering was imported. The physical continuation **89→90** remains open exactly as the Tamil record requires.
+### Batch 9 — scans 90–104 — COMPLETE
+
+Processed exactly **15 consecutive scans** under the current drafting cadence.
+
+- scan **90 / printed 73** — continuation of the love-sickness sequence with two further heroine voices and Kural blocks — `draft`;
+- scans **91–92 / printed 74–75** — two commanders, deceptive outward appearance and judgment by deeds — `draft`;
+- scans **93–94 / printed 76–77** — public-announcement drum / eyes-as-drum vignette and sleepless eyes — `draft`;
+- scans **95–96 / printed 78–79** — unmarried young poet, prospective bride and learning/eyes comparison — `draft`;
+- scans **97–98 / printed 80–81** — flower/eye comparison, separation and reunion — `draft`;
+- scans **99–101 / printed 82–84** — Urkkavalan, delayed tiger hunt and the four ruinous habits — `draft`;
+- scans **102–103 / printed 85–86** — heroine's two-night waiting story, planned quarrel and heart-led reunion — `draft`;
+- scan **104 / printed 87** — opening of the Villavan battlefield-call episode — `draft`, intentionally continuing into scan 105.
+
+All Batch 9 English records were translated only from the audited Tamil repository records. No standard/published English Kural rendering was imported. The physical continuation **104→105** remains open exactly as the Tamil record requires.
 
 ### Current counts
 
-- English page records created: **89 / 111**;
-- `draft`: **85**;
+- English page records created: **104 / 111**;
+- `draft`: **100**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - source-checked: **0**;
 - editorial-reviewed: **0**;
 - release-ready: **0**.
 
-No source-check, editorial review or release-ready claim is made by Batches 1–8.
+No source-check, editorial review or release-ready claim is made by Batches 1–9.
 
 ## Exact next activity
 
-Create **Part 001 English Batch 9 — scans 90–104** from the audited Tamil records.
+Create the **final Part 001 first-pass drafting Batch 10 — scans 105–111** from the audited Tamil records.
 
-- process exactly **15 consecutive scans**;
+- process the final **7 consecutive scans** (permitted final remainder because fewer than 15 scans remain);
 - mirror the Tamil filenames under `translations/en/pages/`;
 - translate only repository-supported Tamil wording;
 - keep ordinary verified-source records at `status: "draft"`;
-- preserve headings, paragraphs, quotations, Kural/verse blocks, visual-page functions and cross-page continuations;
-- begin scan 90 by preserving the source-supported continuation from scan 89 rather than reconstructing citation data in scan 89;
+- preserve headings, paragraphs, quotations, Kural/verse blocks, visual-page functions and the Part-ending structure;
 - do not import standard Thirukkural English wording, web translations, another commentator or memory;
-- update this status file and current-frontier documentation after the batch;
-- audit the exact changed-file set before advancing to the final drafting remainder at scan 105.
+- update this status file and current-frontier documentation after the final draft batch;
+- audit the exact changed-file set and confirm **111/111 English records** before beginning the source-check stage.
 
-Do not begin English source-check while Part 001 first-pass drafting remains incomplete unless a newer live workflow explicitly changes the cadence.
+Do not begin English source-check until this final first-pass drafting remainder is complete and audited.
