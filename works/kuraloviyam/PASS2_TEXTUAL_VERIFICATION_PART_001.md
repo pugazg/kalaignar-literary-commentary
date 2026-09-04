@@ -128,6 +128,24 @@ Pass 2B will re-read every printed word against the rendered scan, with special 
 | 65 | 48 | corrected `அதற்கேற்ற முறையைச் செய்யாத` → source-visible `அதற்கேற்ற முறைமையைச் செய்யாத` |
 | 66 | 49 | corrected source-visible uncommon form `வசந்தப் பறவைகள்போல` → `வசந்தப் புறவைகள்போல`; agricultural vignette opening and continuation confirmed |
 
+## Batch 7 — overall scans 67–77
+
+**Status: COMPLETE — 11 / 11 scans directly compared with the rendered source scan for Pass 2A.**
+
+| Scan | Printed page | Result |
+|---:|---|---|
+| 67 | 50 | agricultural `பதர்` vignette conclusion, Kural and glosses compared directly; wording and printed page metadata confirmed; no correction required |
+| 68 | 51 | royal-council vignette opening compared directly; wording and printed page metadata confirmed; handwritten `12800` and library stamp remain separate non-body marks; no correction required |
+| 69 | 52 | corrected source authority label `அமைச்சர்` → `அமைச்சு` |
+| 70 | 53 | corrected `இருக்குமானால்` → source-visible `இருக்குமேயானால்` and `தலைகுனிந்து` → `தலைகவிழ்ந்து` |
+| 71 | 54 | beauty/eyes continuation, two Kural blocks and citation lines compared directly; no correction required |
+| 72 | 55 | imprisoned-freedom-fighter vignette opening compared directly; wording, continuation and printed page metadata confirmed; no correction required |
+| 73 | 56 | freedom-fighter continuation, quoted speech, `அவை அறிதல்` Kural and citation block compared directly; no correction required |
+| 74 | 57 | corrected source joining `பதறிப்போய் குரல்` → `பதறிப்போய்க் குரல்` |
+| 75 | 58 | robbed-family/charity vignette continuation, `ஈகை` Kural and citation block compared directly; no correction required |
+| 76 | 59 | corrected `உலகக்கூடத்திலே` → `உலைக்கூடத்திலே`; restored source wording including `கூறிக்கொண்டே`, `கட்டுப்பாட்டுத் திட்டமும்`, `கூறுவதுண்டல்லவா`, `கேட்டாமலிருந்தால்கூட`, `நிறுத்தப்பட்டு வஞ்சம் தீர்க்கப்படுவதும்`, `கொடுமைபுரியில்`, `சீரழிந்து கொண்டிருந்தது`, and `பெற்றுக் கொண்டிருந்தனர்` |
+| 77 | 60 | corrected `அஞ்சியொதுங்கி` → `அஞ்சியொடுங்கி`, `கழுமில்` → `கழுவில்`, `கண்டாரல்லவா?` → `கண்டவரல்லவா?`, and `ஆனா` → source-visible `ஆனை` |
+
 ## Batch audit rule
 
 Pass 2A changes only page records where the direct scan comparison finds a source-supported correction or confirms a source limitation requiring a status change. Unchanged page records are not rewritten merely to create commits; their completed Pass 2A result is recorded in this log.
@@ -136,8 +154,8 @@ Pass 2A changes only page records where the direct scan comparison finds a sourc
 
 ## Current Pass 2A frontier
 
-Part 001 Pass 2A textual verification is complete through **overall scan 66**.
+Part 001 Pass 2A textual verification is complete through **overall scan 77**.
 
-**Exact next batch: overall scans 67–77.**
+**Exact next batch: overall scans 78–88.**
 
 Known source-limited pages remain source-limited; do not reconstruct unclear handwriting or physically lost/washed-out printed text from context.
