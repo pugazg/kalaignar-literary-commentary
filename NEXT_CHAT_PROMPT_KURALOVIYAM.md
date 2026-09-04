@@ -10,7 +10,7 @@ Active work: `works/kuraloviyam/`
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Preserve any newer durable state. Do not reset, repeat or reopen completed Tamil work or completed English work because a copied prompt or root multi-work handover contains an older checkpoint.
+Fetch live `main` first. Preserve any newer durable state. Do not reset, repeat or reopen completed Tamil work, completed first-pass English drafting, or completed source-check batches because a copied prompt or root multi-work handover contains an older checkpoint.
 
 ## Mandatory startup
 
@@ -42,14 +42,7 @@ Part 002 has not been supplied or started.
 
 ## Part 001 Tamil state — CLOSED
 
-Part 001 Tamil is **ARCHIVAL-READY**:
-
-- source intake / Pass 1 / Pass 2A / Pass 2B / Pass 3: complete through 111/111;
-- Part audit: PASS;
-- final status sync: PASS;
-- Tamil statuses: **107 `verified` + 4 `partial`**;
-- partial scans: **13, 14, 15, 19**;
-- visual fidelity: **111/111 `verified`**.
+Part 001 Tamil is **ARCHIVAL-READY**: scans 1–111; source intake and Passes 1/2A/2B/3 complete; Part audit PASS; final status sync PASS; **107 `verified` + 4 `partial`**; partial scans **13, 14, 15, 19**; visual fidelity **111/111 `verified`**.
 
 Do not reconstruct the handwritten/facsimile bodies on scans 13–15 or the faint/washed-out material on scan 19.
 
@@ -71,50 +64,45 @@ Permanent review cadence:
 
 Do not import standard Thirukkural wording, published English translations, web text, another commentator or memory.
 
-## Current iteration cadence
-
-The user-directed normal iteration size is **15 consecutive physical scan pages**. This now applies to source-check batches. A source-limited page still counts toward the 15-page batch and remains `source-limited`.
+The user-directed normal iteration size is **15 consecutive physical scan pages**.
 
 ## English first-pass state — COMPLETE
 
-All **111/111** Part 001 English page records now exist.
+All **111/111** Part 001 English page records exist.
 
-Completed drafting history:
+## Source-check state
 
-- Batch 1 — scans 1–8;
-- Batch 2 — scans 9–17; scans 13–15 are `source-limited`;
-- Batch 3 — scans 18–27; scan 19 is `source-limited`;
-- Batch 4 — scans 28–37;
-- Batch 5 — scans 38–48 — 11 pages;
-- Batch 6 — scans 49–59 — 11 pages;
-- Batch 7 — scans 60–74 — 15 pages;
-- Batch 8 — scans 75–89 — 15 pages;
-- Batch 9 — scans 90–104 — 15 pages;
-- Batch 10 — scans 105–111 — final 7-page remainder.
+**SC1 — scans 1–15 — COMPLETE.**
+
+- scans **1–12** passed Tamil↔English fidelity comparison and are `source-checked`;
+- scans **13–15** passed review within securely established evidence and remain `source-limited`;
+- SC1 wording corrections required: **none**;
+- no unreadable handwriting was reconstructed;
+- no external/standard Kural English wording was imported.
 
 Current English totals:
 
-- page records created: **111/111**;
-- `draft`: **107**;
+- page records: **111/111**;
+- source-check coverage: **15/111**;
+- `source-checked`: **12**;
+- `draft`: **95**;
 - `source-limited`: **4** — scans 13–15, 19;
-- source-checked: **0**;
 - editorial-reviewed: **0**;
 - release-ready: **0**.
 
-Do not redo first-pass drafts merely for stylistic harmonization; deliberate refinement belongs in the later review gates.
-
 ## Exact next activity
 
-If live `main` has not advanced beyond this frontier, execute **Part 001 English source-check SC1 — scans 1–15**.
+If live `main` has not advanced beyond this frontier, execute **Part 001 English source-check SC2 — scans 16–30**.
 
-1. fetch audited Tamil records and matching English records for scans **1–15**;
+1. fetch audited Tamil records and matching English records for scans **16–30**;
 2. process exactly **15 consecutive pages**;
-3. compare each page paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual-page function and cross-page continuations;
-4. promote scans **1–12** from `draft` to `source-checked` only if each comparison passes;
-5. scans **13–15** must remain `source-limited`; review only securely established material and do not reconstruct the unreadable facsimile bodies;
-6. translate/revise only from the audited repository Tamil and do not import standard Kural or external English wording;
-7. update `translations/en/TRANSLATION_STATUS.md`, `works/kuraloviyam/README.md`, `works/kuraloviyam/HANDOVER.md`, and this prompt after the batch;
-8. audit the pre-batch base→head changed-file set and record the exact next source-check frontier before advancing to scan 16.
+3. compare each page paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual/page function and cross-page continuations;
+4. promote ordinary records from `draft` to `source-checked` only after each passes;
+5. scan **19** must remain `source-limited`; review only securely established material and do not reconstruct the washed-out gap;
+6. revise only from audited repository Tamil and do not import standard Kural or external English wording;
+7. record any source-check corrections transparently in the affected English page records;
+8. update `translations/en/TRANSLATION_STATUS.md`, `works/kuraloviyam/README.md`, `works/kuraloviyam/HANDOVER.md`, and this prompt after SC2;
+9. audit the pre-batch base→head changed-file set and record the exact next source-check frontier before advancing to scan 31.
 
 Do not begin glossary reconciliation or editorial review until Part 001 source-check is complete.
 
