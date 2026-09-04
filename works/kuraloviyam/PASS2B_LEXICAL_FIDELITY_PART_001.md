@@ -60,12 +60,30 @@ Pass 2B independently re-reads every source-visible printed word against the ren
 | 32 | — | section-title wording `கலைஞரின் / குறளோவியம்` independently confirmed; no correction required |
 | 33 | 16 | confirmed that the source side is effectively blank apart from printed page number `16`; reverse-side bleed-through remains untranscribed; no correction required |
 
+## Batch 4 — overall scans 34–44
+
+**Status: COMPLETE — 11 / 11 scans independently re-read against the rendered source for Pass 2B.**
+
+| Scan | Printed page | Result |
+|---:|---|---|
+| 34 | 17 | independent word-level re-read complete across the illustrated opening, including `வானசாஸ்திரிகள்` and the continuation boundary; no correction required |
+| 35 | 18 | independent word-level re-read complete across the cosmology / divinity prose, including uncommon compounds and punctuation; no correction required |
+| 36 | 19 | independently confirmed the divinity descriptors, `இல்வாழ்க்கை` Kural, authority/song metadata and note; no correction required |
+| 37 | 20 | independently confirmed the illustrated lover-away prose, including `வேலை நிறுத்த`, `இன்பலோக ஏந்தல்` and `இன்பம் மொண்டு தரும்`; no correction required |
+| 38 | 21 | independently confirmed both Kural quotations, `இந் நோய்`, lover-away prose and authority/song metadata; no correction required |
+| 39 | 22 | independent word-level re-read complete across all three quoted family/யாழ்/குழல் prose blocks; no correction required |
+| 40 | 23 | independently confirmed the family continuation, `அழித்தெழுதாச் சித்திரம்`, `எழுதிக் காட்டுகிறார்`, Kural and metadata; no correction required |
+| 41 | 24 | independent word-level re-read complete across the exaggeration / rebirth / education discussion and quoted examples; no correction required |
+| 42 | 25 | independently confirmed both Kurals, `பிறவி உள்ளதென`, education/rebirth prose and authority/song metadata; no correction required |
+| 43 | 26 | corrected `இந்த அழகுக்கு` → source-visible `இந்த அணங்கு`; corrected prior erroneous `வேதனை உண்டாகிறது` → source-visible `வேதனை உண்டாக்குகிறாள்`; remaining physician/needle analogy and continuation boundary confirmed |
+| 44 | 27 | independently confirmed both lover-gaze Kurals/prose, `செந்நாப் போதார்`, authority/song metadata and concluding gloss; no correction required |
+
 Pages remain `needs-review` because Pass 3 has not yet been performed. No Pass 2B result assigns final `verified` status.
 
 ## Current Pass 2B frontier
 
-Part 001 Pass 2B lexical-fidelity re-read is complete through **overall scan 33**.
+Part 001 Pass 2B lexical-fidelity re-read is complete through **overall scan 44**.
 
-**Exact next batch: overall scans 34–44.**
+**Exact next batch: overall scans 45–55.**
 
 Known source limitations remain source-limited. In particular, scans **13–15** contain handwriting/facsimile bodies that must not be reconstructed, and scan **19** contains a physically washed-out/faint printed region that must not be inferred from context.
