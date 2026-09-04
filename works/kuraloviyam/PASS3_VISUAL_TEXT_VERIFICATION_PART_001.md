@@ -68,10 +68,30 @@ No lexical wording was changed during this batch. Scans 13–15 and 19 retain th
 
 No lexical wording was changed during this batch. No page record required a Pass-3 structural correction, so Batch 3 intentionally changes only this Pass-3 control log.
 
+## Batch 4 — overall scans 34–44
+
+**Status: COMPLETE — 11 / 11 scans directly compared with the rendered source for meaningful visual-text fidelity.**
+
+| Scan | Printed page | Pass 3 result |
+|---:|---|---|
+| 34 | 17 | opening illustrated `கலைஞரின் குறளோவியம்` page confirmed: cosmic/couple illustration is physically above the opening prose, with vertical side banner and printed page furniture; page record structurally corrected so the visual-material block precedes the prose |
+| 35 | 18 | cosmology/divinity prose continuation confirmed with dense prose, recurring vertical side banner and printed page 18; no structural correction required |
+| 36 | 19 | divinity-descriptor sequence, highlighted `வையத்துள் வாழ்வாங்கு...` Kural, authority/song metadata, lower Thiruvalluvar illustration and page furniture confirmed; no structural correction required |
+| 37 | 20 | evening-love vignette opening confirmed: large sunset illustration is physically above the prose, with side banner and printed page 20; page record structurally corrected so the visual-material block precedes the prose |
+| 38 | 21 | evening-love continuation/conclusion confirmed with prose, two distinct Kural blocks, authority/song metadata, lower Thiruvalluvar illustration and page furniture; no structural correction required |
+| 39 | 22 | family/yaazh vignette opening confirmed: large family illustration is physically above the three quoted prose blocks; page record structurally corrected so the visual-material block precedes the quoted text |
+| 40 | 23 | family vignette continuation/conclusion confirmed with prose, distinct `குழலினிது யாழினிது...` Kural block, authority/song metadata, lower chariot/monument illustration and page furniture; no structural correction required |
+| 41 | 24 | education/rebirth discussion opening confirmed: large reader/books illustration is physically above the prose; page record structurally corrected so the visual-material block precedes the prose |
+| 42 | 25 | education/rebirth discussion continuation confirmed with separate `கல்வி` and `மெய்யுணர்தல்` Kural blocks, explanatory prose, paired authority/song references and page furniture; no structural correction required |
+| 43 | 26 | physician/lover-gaze vignette opening confirmed: large embracing-couple illustration is physically above the prose; page record structurally corrected so the visual-material block precedes the prose |
+| 44 | 27 | lover-gaze vignette conclusion confirmed with two distinct Kural blocks, intervening prose, authority/song metadata, lower seated-sage illustration and page furniture; no structural correction required |
+
+Five page records — scans **34, 37, 39, 41 and 43** — received source-supported structural-only corrections to restore the physical illustration-before-prose order visible in the controlling scans. **No lexical wording was changed.** Scans 35–36, 38, 40, 42 and 44 required no page-record correction.
+
 ## Current Pass 3 frontier
 
-Part 001 Pass 3 meaningful visual-text verification is complete through **overall scan 33**.
+Part 001 Pass 3 meaningful visual-text verification is complete through **overall scan 44**.
 
-**Exact next batch: overall scans 34–44.**
+**Exact next batch: overall scans 45–55.**
 
 Known source limitations remain source-limited. In particular, scans **13–15** contain handwritten/facsimile bodies; Pass 3 verifies their visible heading/layout/non-text relationships but does not reconstruct unreadable handwriting. Scan **19** contains a physically washed-out/faint printed region and remains source-limited rather than reconstructed from context.
