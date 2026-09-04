@@ -14,6 +14,10 @@ source_filename: "TVA_BOK_0065733_குறளோவியம்_part_001_pag
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
 
+## Visual material
+
+Colour illustration above the prose showing two uniformed men at a training-camp setting, one seated and one standing.
+
 கலிங்கனும் கதிரவனும் உற்ற நண்பர்கள். சில நாட்கள் பிரிந்திருந்து ஒருநாள் சந்தித்தனர். ஊர்க் கதைகள் சிலவற்றைப் பேசினர். கதிரவன், கலிங்கனிடம் மெத்த ஆர்வத்துடன் கேட்டான்.
 
 “நண்பா, இப்போது உன் கோபமெல்லாம் எப்படியிருக்கிறது? இன்னும் சினங்கொண்டு சீறி விழுந்தபடிதான் இருக்கிறாயா? தென்றல் என மாறித் திருந்தி விட்டாயா?”
