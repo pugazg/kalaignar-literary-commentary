@@ -32,6 +32,8 @@ Permanent cadence:
 
 `source-limited` is retained where the audited Tamil source itself is incomplete.
 
+For first-pass drafting, the current user-directed cadence is **11 consecutive physical scan pages per iteration**, except the final remainder of a Part may be shorter. Batch boundaries do not imply literary completion; cross-page continuations must be preserved.
+
 ## Part 001 draft progress
 
 ### Batch 1 — scans 1–8 — COMPLETE
@@ -66,29 +68,40 @@ Permanent cadence:
 - scan **33 / printed 16** — intentional blank source-side page — `draft`;
 - scans **34–37 / printed 17–20** — first four pages of the main `கலைஞரின் குறளோவியம்` sequence — `draft`.
 
-The source-supported cross-page continuations **34→35** and **37→38** are preserved rather than silently completed.
+### Batch 5 — scans 38–48 — COMPLETE
+
+This is the first batch under the fixed **11-page drafting cadence**.
+
+- scans **38–40 / printed 21–23** — evening/love imagery followed by the yaazh, flute and child's babbling-speech sequence, including project translations of the repository-preserved Kurals — `draft`;
+- scans **41–42 / printed 24–25** — education, exaggeration, seven births/rebirth and realization-of-truth discussion, with two repository-preserved Kural blocks — `draft`;
+- scans **43–44 / printed 26–27** — the beloved's two kinds of gaze and the lover's “looking without looking” episode, with two Kural blocks — `draft`;
+- scans **45–47 / printed 28–30** — the boastful youth, the mountain promise and the `சொல்லுதல் யார்க்கும் எளிய...` conclusion — `draft`;
+- scan **48 / printed 31** — opening of the surreal seashore figure episode — `draft`, intentionally continuing into scan 49.
+
+All Batch 5 English records were translated only from the audited Tamil repository records. No standard/published English Kural rendering was imported. The physical continuation **48→49** remains open exactly as the source record requires.
 
 ### Current counts
 
-- English page records created: **37 / 111**;
-- `draft`: **33**;
+- English page records created: **48 / 111**;
+- `draft`: **44**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - source-checked: **0**;
 - editorial-reviewed: **0**;
 - release-ready: **0**.
 
-No source-check, editorial review or release-ready claim is made by Batches 1–4.
+No source-check, editorial review or release-ready claim is made by Batches 1–5.
 
 ## Exact next activity
 
-Create **Part 001 English Batch 5 — scans 38–47** from the audited Tamil records.
+Create **Part 001 English Batch 6 — scans 49–59** from the audited Tamil records.
 
+- process exactly **11 consecutive scans**;
 - mirror the Tamil filenames under `translations/en/pages/`;
 - translate only repository-supported Tamil wording;
 - keep ordinary verified-source records at `status: "draft"`;
-- preserve headings, paragraphs, quotations, Kural/verse blocks, visual-page functions and physical continuations;
+- preserve headings, paragraphs, quotations, Kural/verse blocks, visual-page functions and cross-page continuations;
 - do not import standard Thirukkural English wording, web translations, another commentator or memory;
 - update this status file and current-frontier documentation after the batch;
-- audit the exact changed-file set before advancing to scan 48.
+- audit the exact changed-file set before advancing to scan 60.
 
 Do not begin English source-check while Part 001 first-pass drafting remains incomplete unless a newer live workflow explicitly changes the cadence.
