@@ -65,23 +65,35 @@ English layer: `works/kuraloviyam/translations/en/`.
 
 It is a **project-created translation**, not an official/publisher-issued English edition. Every English page carries `translation_type: "project_translation"`.
 
-Permanent cadence:
+Permanent review cadence:
 
 **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
 
 Do not import standard Thirukkural wording, published English translations, web text, another commentator or memory.
+
+## Fixed first-pass batch cadence
+
+Beginning with Batch 5, the user-directed first-pass drafting cadence is **11 consecutive physical scan pages in every normal iteration**.
+
+- Do not shorten or extend a normal batch to reach a literary boundary.
+- Preserve source-supported narrative, quotation, Kural and physical continuations across batch boundaries.
+- A source-limited record still counts toward the 11-page batch.
+- The final remainder of a Part may be shorter if fewer than 11 scans remain.
 
 ## English first-pass progress
 
 - **Batch 1 — COMPLETE — scans 1–8**.
 - **Batch 2 — COMPLETE — scans 9–17**; scans 13–15 are `source-limited`.
 - **Batch 3 — COMPLETE — scans 18–27**; scan 19 is `source-limited` and preserves the audited washed-out gap without reconstruction.
-- **Batch 4 — COMPLETE — scans 28–37**; Saavi, Dr. Me. Sundaram, Dr. Ma. Nannan, Kalaignar's Response, title leaf, intentional blank page, and first four pages of the main sequence.
+- **Batch 4 — COMPLETE — scans 28–37**.
+- **Batch 5 — COMPLETE — scans 38–48**; all eleven new records are `draft`.
+
+Batch 5 covers printed pages 21–31 of the main sequence and ends with the opening of the surreal seashore-figure episode. The physical continuation **48→49** is intentionally preserved.
 
 Current English totals:
 
-- page records created: **37/111**;
-- `draft`: **33**;
+- page records created: **48/111**;
+- `draft`: **44**;
 - `source-limited`: **4** — scans 13–15, 19;
 - source-checked: **0**;
 - editorial-reviewed: **0**;
@@ -91,16 +103,17 @@ Do not redo completed batches merely for stylistic harmonization; later review g
 
 ## Exact next activity
 
-If live `main` has not advanced beyond this frontier, execute **Part 001 English Batch 5 — scans 38–47**.
+If live `main` has not advanced beyond this frontier, execute **Part 001 English Batch 6 — scans 49–59**.
 
-1. fetch audited Tamil records for scans 38–47;
+1. fetch audited Tamil records for scans **49–59**;
 2. create matching English files under `works/kuraloviyam/translations/en/pages/`;
-3. keep ordinary verified-source English records at `status: "draft"`;
-4. preserve source-supported headings, paragraph/quotation/Kural/verse structure, visual-page functions and cross-page continuations;
-5. translate only from audited repository Tamil and do not import standard Kural or external English wording;
-6. update `translations/en/TRANSLATION_STATUS.md`, `works/kuraloviyam/README.md`, `works/kuraloviyam/HANDOVER.md`, and this prompt after the batch;
-7. audit the pre-batch base→head changed-file set and record the exact next drafting frontier before advancing to scan 48.
+3. process exactly **11 consecutive pages**;
+4. keep ordinary verified-source English records at `status: "draft"`;
+5. preserve source-supported headings, paragraph/quotation/Kural/verse structure, visual-page functions and cross-page continuations;
+6. translate only from audited repository Tamil and do not import standard Kural or external English wording;
+7. update `translations/en/TRANSLATION_STATUS.md`, `works/kuraloviyam/README.md`, `works/kuraloviyam/HANDOVER.md`, and this prompt after the batch;
+8. audit the pre-batch base→head changed-file set and record the exact next drafting frontier before advancing to scan 60.
 
-Do not begin English source-check while Part 001 first-pass drafting remains incomplete unless a newer live workflow explicitly changes that cadence.
+Do not begin English source-check while Part 001 first-pass drafting remains incomplete unless a newer live workflow explicitly changes the cadence.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
