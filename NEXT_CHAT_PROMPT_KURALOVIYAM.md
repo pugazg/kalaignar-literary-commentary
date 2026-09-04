@@ -74,35 +74,40 @@ All **111/111** Part 001 English page records exist.
 
 **SC1 — scans 1–15 — COMPLETE.**
 
-- scans **1–12** passed Tamil↔English fidelity comparison and are `source-checked`;
-- scans **13–15** passed review within securely established evidence and remain `source-limited`;
-- SC1 wording corrections required: **none**;
-- no unreadable handwriting was reconstructed;
+- scans 1–12 are `source-checked`;
+- scans 13–15 remain `source-limited`, reviewed within safely established evidence;
+- no wording corrections required.
+
+**SC2 — scans 16–30 — COMPLETE.**
+
+- scans **16–18, 20–30** passed Tamil↔English fidelity comparison and are `source-checked`;
+- scan **19** passed within source limits and remains `source-limited`; the washed-out gap was not reconstructed;
+- one source-check correction was made on scan 19: Tamil `மிகப் பலர் அல்லர்` is now **“not very many”**, correcting the previous meaning-reversing **“not very few”**;
+- no other wording changes were required;
 - no external/standard Kural English wording was imported.
 
 Current English totals:
 
 - page records: **111/111**;
-- source-check coverage: **15/111**;
-- `source-checked`: **12**;
-- `draft`: **95**;
-- `source-limited`: **4** — scans 13–15, 19;
+- source-check coverage: **30/111**;
+- `source-checked`: **26**;
+- `draft`: **81**;
+- `source-limited`: **4** — scans 13–15, 19; all four have now been reviewed within available evidence;
 - editorial-reviewed: **0**;
 - release-ready: **0**.
 
 ## Exact next activity
 
-If live `main` has not advanced beyond this frontier, execute **Part 001 English source-check SC2 — scans 16–30**.
+If live `main` has not advanced beyond this frontier, execute **Part 001 English source-check SC3 — scans 31–45**.
 
-1. fetch audited Tamil records and matching English records for scans **16–30**;
+1. fetch audited Tamil records and matching English records for scans **31–45**;
 2. process exactly **15 consecutive pages**;
 3. compare each page paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual/page function and cross-page continuations;
-4. promote ordinary records from `draft` to `source-checked` only after each passes;
-5. scan **19** must remain `source-limited`; review only securely established material and do not reconstruct the washed-out gap;
-6. revise only from audited repository Tamil and do not import standard Kural or external English wording;
-7. record any source-check corrections transparently in the affected English page records;
-8. update `translations/en/TRANSLATION_STATUS.md`, `works/kuraloviyam/README.md`, `works/kuraloviyam/HANDOVER.md`, and this prompt after SC2;
-9. audit the pre-batch base→head changed-file set and record the exact next source-check frontier before advancing to scan 31.
+4. promote each page from `draft` to `source-checked` only after it passes;
+5. revise only from audited repository Tamil and do not import standard Kural or external English wording;
+6. record any source-check corrections transparently in affected English page records;
+7. update `translations/en/TRANSLATION_STATUS.md`, `works/kuraloviyam/README.md`, `works/kuraloviyam/HANDOVER.md`, and this prompt after SC3;
+8. audit the pre-batch base→head changed-file set and record the exact next source-check frontier before advancing to scan 46.
 
 Do not begin glossary reconciliation or editorial review until Part 001 source-check is complete.
 
