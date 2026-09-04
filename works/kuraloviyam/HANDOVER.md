@@ -8,7 +8,7 @@ Active work: `works/kuraloviyam/`
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Preserve any newer durable Kuraloviyam state. Do not reopen completed Part 001 Tamil passes or repeat completed English batches because an older prompt or root handover records an earlier frontier.
+Fetch live `main` first. Preserve any newer durable Kuraloviyam state. Do not reopen completed Part 001 Tamil passes or repeat completed English work because an older prompt or root handover records an earlier frontier.
 
 For Kuraloviyam, this work-specific handover, `translations/en/TRANSLATION_STATUS.md`, and `NEXT_CHAT_PROMPT_KURALOVIYAM.md` carry the current frontier.
 
@@ -69,32 +69,34 @@ Permanent review cadence:
 
 **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
 
-Translate only from audited Tamil records. Do not import standard Kural wording, published English translations, web text, another commentator or memory.
+Translate and review only from audited Tamil records. Do not import standard Kural wording, published English translations, web text, another commentator or memory.
 
-## Drafting batch rule
+## Iteration rule
 
-Beginning with **Batch 7**, the current user-directed drafting cadence is **15 consecutive physical scan pages per iteration**. Batches 5–6 remain historical 11-page batches. The final remainder of a Part may be shorter. Do not vary a normal batch to reach a literary boundary; preserve quotations, Kural blocks, narrative and physical continuations exactly as the audited Tamil records require.
+The current user-directed normal iteration size is **15 consecutive physical scan pages**. This now governs source-check as well as the completed late-stage drafting batches. A Part-ending remainder may be shorter when fewer than 15 scans remain.
 
-## First-pass completed batches
+## First-pass drafting — COMPLETE
 
-- **Batch 1 — scans 1–8 — COMPLETE**.
-- **Batch 2 — scans 9–17 — COMPLETE**; scans 13–15 are `source-limited`.
-- **Batch 3 — scans 18–27 — COMPLETE**; scan 19 is `source-limited`.
-- **Batch 4 — scans 28–37 — COMPLETE**.
-- **Batch 5 — scans 38–48 — COMPLETE** — 11 pages.
-- **Batch 6 — scans 49–59 — COMPLETE** — 11 pages.
-- **Batch 7 — scans 60–74 — COMPLETE** — 15 pages.
-- **Batch 8 — scans 75–89 — COMPLETE** — 15 pages.
-- **Batch 9 — scans 90–104 — COMPLETE** — 15 pages; all new records are `draft`.
+Completed batches:
 
-Batch 9 covers printed pages **73–87**: continuation of the love-sickness sequence; deceptive appearance and judgment by deeds; announcement-drum / eyes vignette; young poet and prospective bride; flower/eye separation and reunion; Urkkavalan's delayed tiger hunt; the two-night waiting / heart-led reunion narrative; and the opening of Villavan's battlefield-call episode. No external or standard English Kural wording was imported.
+- Batch 1 — scans 1–8;
+- Batch 2 — scans 9–17; scans 13–15 are `source-limited`;
+- Batch 3 — scans 18–27; scan 19 is `source-limited`;
+- Batch 4 — scans 28–37;
+- Batch 5 — scans 38–48 — 11 pages;
+- Batch 6 — scans 49–59 — 11 pages;
+- Batch 7 — scans 60–74 — 15 pages;
+- Batch 8 — scans 75–89 — 15 pages;
+- Batch 9 — scans 90–104 — 15 pages;
+- Batch 10 — scans 105–111 — final 7-page remainder.
 
-The physical continuation **104→105** remains intentionally open.
+Batch 10 closes the Villavan/horse episode, the Kalingan–Kathiravan anger-control episode, the day-tally separation vignette, and the learned-speaker assembly sequence through the final physical scan 111 / printed 94.
 
 Current English totals:
 
-- page records: **104/111**;
-- `draft`: **100**;
+- page records: **111/111**;
+- first-pass drafting: **COMPLETE**;
+- `draft`: **107**;
 - `source-limited`: **4** — scans 13–15, 19;
 - source-checked: **0**;
 - editorial-reviewed: **0**;
@@ -102,22 +104,19 @@ Current English totals:
 
 ## Current exact activity
 
-Proceed with the **final Part 001 first-pass drafting Batch 10 — scans 105–111**:
+Proceed with **Part 001 English source-check SC1 — scans 1–15**:
 
 1. fetch live `main` first;
-2. fetch audited Tamil records for scans **105–111**;
-3. process the final **7 consecutive scans**; this shorter batch is allowed because it is the Part remainder;
-4. mirror filenames under `translations/en/pages/`;
-5. translate only repository-supported Tamil wording;
-6. keep ordinary verified-source English records at `draft`;
-7. preserve headings, paragraphs, quotations, Kural/verse blocks, visual/source-page functions and the Part-ending structure;
-8. preserve the source-supported **104→105** continuation without backfilling scan 104 from external knowledge;
-9. do not import standard Kural English wording or any external translation;
-10. update `TRANSLATION_STATUS.md`, README/handover/current prompt after the batch;
-11. compare the pre-batch base SHA to the new head and confirm only intended files changed;
-12. confirm **111/111 English page records** before beginning English source-check.
+2. fetch audited Tamil records and matching English records for scans **1–15**;
+3. process exactly **15 consecutive scans**;
+4. compare paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual-page function and cross-page continuations;
+5. promote scans **1–12** from `draft` to `source-checked` only if each passes;
+6. scans **13–15** remain `source-limited`; review only securely established material and do not reconstruct the unreadable facsimile bodies;
+7. do not import standard Kural English wording or any external translation;
+8. update `TRANSLATION_STATUS.md`, README/handover/current prompt after the source-check batch;
+9. audit the pre-batch base→head changed-file set before advancing to scan 16.
 
-Do not begin source-check until the final drafting remainder is complete and audited.
+Do not begin glossary reconciliation or editorial review until Part 001 source-check is complete.
 
 ## Part 002
 
