@@ -8,7 +8,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
-| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass records through scan 27 |
+| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass records through scan 37 |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -55,16 +55,15 @@ Permanent cadence:
 
 ## First-pass progress
 
-- **Batch 1 / scans 1–8 — COMPLETE**: cover/publication matter and complete Preface.
-- **Batch 2 / scans 9–17 — COMPLETE**: Critical Appreciation, three source-limited facsimile pages, first-edition note and Sixth Edition Publisher's Note.
-- **Batch 3 / scans 18–27 — COMPLETE**: Professor (18–20), Dandapani Desikar (21), Dr. V. Sub. Manickam (22–23), Tamilkudimagan (24), Kasi Anandan (25), Ramalinganar (26–27).
-
-Scan **19** is English `source-limited` and preserves the audited washed-out Tamil gap without reconstruction.
+- **Batch 1 / scans 1–8 — COMPLETE**.
+- **Batch 2 / scans 9–17 — COMPLETE**; scans 13–15 are `source-limited`.
+- **Batch 3 / scans 18–27 — COMPLETE**; scan 19 is `source-limited`.
+- **Batch 4 / scans 28–37 — COMPLETE**: Saavi (28), Dr. Me. Sundaram (29), Dr. Ma. Nannan (30), Kalaignar's Response (31), title leaf (32), intentional blank page (33), and the first four main-sequence pages (34–37).
 
 Current English counts:
 
-- page records created: **27 / 111**;
-- `draft`: **23**;
+- page records created: **37 / 111**;
+- `draft`: **33**;
 - `source-limited`: **4** — scans 13–15, 19;
 - source-checked: **0**;
 - editorial-reviewed: **0**;
@@ -74,8 +73,8 @@ Current English counts:
 
 **Tamil Part 001: archival-ready / closed.**
 
-**English Part 001: first-pass drafting complete through scan 27.**
+**English Part 001: first-pass drafting complete through scan 37.**
 
-Exact next activity: **English Batch 4 — scans 28–37**. This covers Saavi, Dr. Me. Sundaram, Dr. Ma. Nannan, Kalaignar's response, the `கலைஞரின் குறளோவியம்` title leaf, the intentional blank page, and scans 34–37 of the main sequence.
+Exact next activity: **English Batch 5 — scans 38–47** from the audited Tamil records. Keep verified-source pages at `draft`, preserve source-supported Kural/verse/quotation and continuation structure, and do not import external or standard English Kural wording.
 
 Do not begin English source-check while first-pass drafting is incomplete. Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
