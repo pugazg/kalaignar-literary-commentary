@@ -49,38 +49,46 @@ Permanent cadence:
 
 ### Batch 3 — scans 18–27 — COMPLETE
 
-Created the first ten English records after the front matter:
-
 - scans **18–20 / printed 1–3** — `பேராசிரியர்` / Professor; scan **19** is `source-limited` because the audited Tamil record contains a physically washed-out gap;
 - scan **21 / printed 4** — Maha Vidwan Dandapani Desikar — `draft`;
 - scans **22–23 / printed 5–6** — Dr. V. Sub. Manickam — `draft`;
-- scan **24 / printed 7** — Principal of Madurai Yadava College, Tamilkudimagan — `draft`;
+- scan **24 / printed 7** — Tamilkudimagan — `draft`;
 - scan **25 / printed 8** — Kasi Anandan — `draft`;
-- scans **26–27 / printed 9–10** — Guardian of the Official Language Ramalinganar — `draft`.
+- scans **26–27 / printed 9–10** — Ramalinganar — `draft`.
 
-Scan 19 translates only wording actually preserved in the audited Tamil record and explicitly carries the unavailable phrase as a source gap. No reconstruction was made.
+### Batch 4 — scans 28–37 — COMPLETE
+
+- scan **28 / printed 11** — Editor Saavi — `draft`;
+- scan **29 / printed 12** — Dr. Me. Sundaram — `draft`;
+- scan **30 / printed 13** — Dr. Ma. Nannan — `draft`;
+- scan **31 / printed 14** — Kalaignar's Response — `draft`;
+- scan **32** — `கலைஞரின் குறளோவியம்` section-title leaf — `draft`;
+- scan **33 / printed 16** — intentional blank source-side page — `draft`;
+- scans **34–37 / printed 17–20** — first four pages of the main `கலைஞரின் குறளோவியம்` sequence — `draft`.
+
+The source-supported cross-page continuations **34→35** and **37→38** are preserved rather than silently completed.
 
 ### Current counts
 
-- English page records created: **27 / 111**;
-- `draft`: **23**;
+- English page records created: **37 / 111**;
+- `draft`: **33**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - source-checked: **0**;
 - editorial-reviewed: **0**;
 - release-ready: **0**.
 
-No source-check, editorial review or release-ready claim is made by Batches 1–3.
+No source-check, editorial review or release-ready claim is made by Batches 1–4.
 
 ## Exact next activity
 
-Create **Part 001 English Batch 4 — scans 28–37** from the audited Tamil records:
+Create **Part 001 English Batch 5 — scans 38–47** from the audited Tamil records.
 
-- scan 28 — Saavi;
-- scan 29 — Dr. Me. Sundaram;
-- scan 30 — Dr. Ma. Nannan;
-- scan 31 — Kalaignar's response;
-- scan 32 — `கலைஞரின் குறளோவியம்` section-title leaf;
-- scan 33 — intentionally blank source-side page / printed page 16;
-- scans 34–37 — first four pages of the main `கலைஞரின் குறளோவியம்` sequence.
+- mirror the Tamil filenames under `translations/en/pages/`;
+- translate only repository-supported Tamil wording;
+- keep ordinary verified-source records at `status: "draft"`;
+- preserve headings, paragraphs, quotations, Kural/verse blocks, visual-page functions and physical continuations;
+- do not import standard Thirukkural English wording, web translations, another commentator or memory;
+- update this status file and current-frontier documentation after the batch;
+- audit the exact changed-file set before advancing to scan 48.
 
-Keep ordinary new English pages at `draft`, preserve page alignment and source structure, update this status file after the batch, and audit the exact changed-file set before advancing to scan 38.
+Do not begin English source-check while Part 001 first-pass drafting remains incomplete unless a newer live workflow explicitly changes the cadence.
