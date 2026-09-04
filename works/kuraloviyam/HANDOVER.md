@@ -83,16 +83,15 @@ Beginning with Batch 5, the user-directed drafting cadence is **11 consecutive p
 - **Batch 2 — scans 9–17 — COMPLETE**; scans 13–15 are `source-limited`.
 - **Batch 3 — scans 18–27 — COMPLETE**; scan 19 is `source-limited` and preserves the audited washed-out gap.
 - **Batch 4 — scans 28–37 — COMPLETE**.
-- **Batch 5 — scans 38–48 — COMPLETE**; all eleven new records are `draft`.
+- **Batch 5 — scans 38–48 — COMPLETE**.
+- **Batch 6 — scans 49–59 — COMPLETE**; all eleven new records are `draft`.
 
-Batch 5 covers printed pages **21–31** of the main Kuraloviyam sequence, including the evening/love sequence, yaazh/flute/child sequence, education and rebirth discussion, lover/beloved gaze sequence, boastful-youth story and the opening of the surreal seashore-figure episode. Repository-preserved Kural blocks were translated only from the audited Tamil records; no external/standard English Kural wording was imported.
-
-The physical continuation **48→49** remains intentionally open.
+Batch 6 covers printed pages **32–42** of the main Kuraloviyam sequence: the seashore-heart dream conclusion; palanquin interpretation and Valluvar's correction; Ilango Adigal's renunciation; moon/maiden and lover imagery; sword-like open enmity versus kin-like internal enmity; and the rain/wife interpretation sequence. Repository-preserved Kural blocks were translated only from the audited Tamil records; no external/standard English Kural wording was imported.
 
 Current English totals:
 
-- page records: **48/111**;
-- `draft`: **44**;
+- page records: **59/111**;
+- `draft`: **55**;
 - `source-limited`: **4** — scans 13–15, 19;
 - source-checked: **0**;
 - editorial-reviewed: **0**;
@@ -100,10 +99,10 @@ Current English totals:
 
 ## Current exact activity
 
-Proceed with **Part 001 English Batch 6 — scans 49–59**:
+Proceed with **Part 001 English Batch 7 — scans 60–70**:
 
 1. fetch live `main` first;
-2. fetch audited Tamil records for scans **49–59**;
+2. fetch audited Tamil records for scans **60–70**;
 3. process exactly **11 consecutive scans**;
 4. mirror filenames under `translations/en/pages/`;
 5. translate only repository-supported Tamil wording;
@@ -112,7 +111,7 @@ Proceed with **Part 001 English Batch 6 — scans 49–59**:
 8. do not import standard Kural English wording or any external translation;
 9. update `TRANSLATION_STATUS.md`, README/handover/current prompt after the batch;
 10. compare the pre-batch base SHA to the new head and confirm only intended files changed;
-11. record the exact next frontier before advancing to scan 60.
+11. record the exact next frontier before advancing to scan 71.
 
 Do not begin source-check while Part 001 first-pass drafting remains incomplete unless a newer live workflow explicitly changes this cadence.
 
