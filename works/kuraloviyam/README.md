@@ -8,7 +8,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
-| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass records through scan 48 |
+| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass records through scan 59 |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -53,7 +53,7 @@ Permanent review cadence:
 
 **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
 
-First-pass drafting now follows the user-directed **11 consecutive scan pages per iteration** rule. The final remainder of a Part may be shorter; batch boundaries do not imply literary completion, so cross-page continuations remain open when required.
+First-pass drafting follows the user-directed **11 consecutive scan pages per iteration** rule. The final remainder of a Part may be shorter; batch boundaries do not imply literary completion, so cross-page continuations remain open when required.
 
 ## First-pass progress
 
@@ -61,14 +61,13 @@ First-pass drafting now follows the user-directed **11 consecutive scan pages pe
 - **Batch 2 / scans 9–17 — COMPLETE**; scans 13–15 are `source-limited`.
 - **Batch 3 / scans 18–27 — COMPLETE**; scan 19 is `source-limited`.
 - **Batch 4 / scans 28–37 — COMPLETE**.
-- **Batch 5 / scans 38–48 — COMPLETE** — first fixed 11-page batch; main-sequence material from printed pages 21–31, ending with the opening of the seashore-figure episode on scan 48.
-
-The physical continuation **48→49** is intentionally preserved.
+- **Batch 5 / scans 38–48 — COMPLETE** — first fixed 11-page batch.
+- **Batch 6 / scans 49–59 — COMPLETE** — exactly 11 pages; seashore-heart conclusion, palanquin interpretation, Ilango renunciation, moon/lover sequence, internal-enmity discussion and the rain/Kural interpretation sequence.
 
 Current English counts:
 
-- page records created: **48 / 111**;
-- `draft`: **44**;
+- page records created: **59 / 111**;
+- `draft`: **55**;
 - `source-limited`: **4** — scans 13–15, 19;
 - source-checked: **0**;
 - editorial-reviewed: **0**;
@@ -78,8 +77,8 @@ Current English counts:
 
 **Tamil Part 001: archival-ready / closed.**
 
-**English Part 001: first-pass drafting complete through scan 48.**
+**English Part 001: first-pass drafting complete through scan 59.**
 
-Exact next activity: **English Batch 6 — scans 49–59**, exactly 11 consecutive pages from the audited Tamil records.
+Exact next activity: **English Batch 7 — scans 60–70**, exactly 11 consecutive pages from the audited Tamil records.
 
 Do not begin English source-check while first-pass drafting is incomplete. Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
