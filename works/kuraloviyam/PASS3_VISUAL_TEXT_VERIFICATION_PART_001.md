@@ -168,10 +168,30 @@ Five page records — scans **68, 70, 72, 74 and 76** — received source-suppor
 
 Six page records — scans **78, 79, 81, 83, 85 and 87** — received source-supported structural-only corrections to restore the physical illustration-before-text order visible in the controlling scans. **No lexical wording was changed.** Scans 80, 82, 84, 86 and 88 required no page-record correction.
 
+## Batch 9 — overall scans 89–99
+
+**Status: COMPLETE — 11 / 11 scans directly compared with the rendered source for meaningful visual-text fidelity.**
+
+| Scan | Printed page | Pass 3 result |
+|---:|---|---|
+| 89 | 72 | love-sickness / `காமமும் நாணும்` vignette confirmed: large two-women/male-profile illustration is physically above the prose and Kural; page record structurally corrected so the visual-material block precedes the text |
+| 90 | 73 | love-sickness continuation confirmed with two additional heroine voices, distinct Kural blocks, citation lines and lower architectural/chariot-like motif; no structural correction required |
+| 91 | 74 | two-commanders/public-judgment vignette opening confirmed: large two-men/martial illustration is physically above the prose and continues into scan 92; page record structurally corrected so the visual-material block precedes the prose |
+| 92 | 75 | two-commanders conclusion confirmed with action-versus-appearance contrast, distinct `கணைகொடிது யாழ்கோடு...` Kural, authority/song metadata and lower statue illustration; no structural correction required |
+| 93 | 76 | public-announcement / eye-as-drum vignette opening confirmed: large two-women/hanging-drums illustration is physically above the quoted drum call and prose, continuing into scan 94; page record structurally corrected so the visual-material block precedes the text |
+| 94 | 77 | eye-as-drum continuation confirmed with dialogue, two distinct `கண் விதுப்பழிதல்` Kural blocks, citation line and page furniture; no structural correction required |
+| 95 | 78 | young-poet/prospective-bride vignette opening confirmed: large prospective-bride household illustration is physically above the prose and continues into scan 96; page record structurally corrected so the visual-material block precedes the prose |
+| 96 | 79 | prospective-bride conclusion confirmed with poet/friend/mother dialogue, distinct `கண்ணுடையர் என்பவர் கற்றோர்...` Kural, authority/song metadata and page furniture; no structural correction required |
+| 97 | 80 | flower/eye reunion vignette opening confirmed: large embracing-couple/grove illustration is physically above the prose and continues into scan 98; page record structurally corrected so the visual-material block precedes the prose |
+| 98 | 81 | flower/eye reunion continuation and conclusion confirmed with flower dialogue, reunion transition, two distinct `உறுப்புநலனழிதல்` Kural blocks, citation line and page furniture; no structural correction required |
+| 99 | 82 | `ஊர்க்காவலன்` / tiger-danger vignette opening confirmed: large guardian/petitioner/tiger illustration is physically above the prose and continues into scan 100; page record structurally corrected so the visual-material block precedes the prose |
+
+Six page records — scans **89, 91, 93, 95, 97 and 99** — received source-supported structural-only corrections to restore the physical illustration-before-text order visible in the controlling scans. **No lexical wording was changed.** Scans 90, 92, 94, 96 and 98 required no page-record correction.
+
 ## Current Pass 3 frontier
 
-Part 001 Pass 3 meaningful visual-text verification is complete through **overall scan 88**.
+Part 001 Pass 3 meaningful visual-text verification is complete through **overall scan 99**.
 
-**Exact next batch: overall scans 89–99.**
+**Exact next batch: overall scans 100–110.**
 
 Known source limitations remain source-limited. In particular, scans **13–15** contain handwritten/facsimile bodies; Pass 3 verifies their visible heading/layout/non-text relationships but does not reconstruct unreadable handwriting. Scan **19** contains a physically washed-out/faint printed region and remains source-limited rather than reconstructed from context.
