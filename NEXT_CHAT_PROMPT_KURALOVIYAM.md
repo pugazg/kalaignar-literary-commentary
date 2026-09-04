@@ -57,23 +57,26 @@ Part 001 source intake and Pass 1 are complete: **111 / 111 physical scans captu
 
 `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_001.md` records direct textual verification for **all scans 1–111**. Do not restart Pass 2A.
 
-### Part 001 Pass 2B — scans 1–88 COMPLETE
+### Part 001 Pass 2B — scans 1–99 COMPLETE
 
 The durable independent lexical-fidelity record is:
 
 `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_001.md`
 
-Overall scans **1–88** have now been independently re-read word by word against the rendered source after Pass 2A was closed.
+Overall scans **1–99** have now been independently re-read word by word against the rendered source after Pass 2A was closed.
 
-Batch-8 source-supported corrections for scans 78–88:
+Batch-9 source-supported corrections for scans 89–99:
 
-- scan **78 / printed 61** — `நிலாப் புதுமையைக்` → source-visible `நிலாப் பதுமையைக்`;
-- scan **79 / printed 62** — `ஆடியில் பார்த்துப்` → source-visible `ஆடியிற் பார்த்துப்`;
-- scan **82 / printed 65** — `இந்தநிறம் ஏற்பட்டது` → source-visible `இந்நிறம் ஏற்பட்டது`; the later quoted phrase remains source-visible `இந்த நிறம்`;
-- scan **84 / printed 67** — `வேல்பட்டு பகையரசன்` → source-visible `வேல்பட்டுப் பகையரசன்`;
-- scan **88 / printed 71** — `அடியபடும் உங்களுக்கு` → source-visible `அடிபடும் உங்களுக்கு`.
+- scan **89 / printed 72** — `இப்படியாமல` → source-visible `இப்படியாமல்`;
+- scan **91 / printed 74** — `இதழ் அசைவு தெரியாமல்` → source-visible `இதழ் அசைவது தெரியாமல்`;
+- scan **92 / printed 75** — `கீழ்மைக் செயல்` → source-visible `கீழ்மைச் செயல்`;
+- scan **95 / printed 78** — `கூட்டத்தில் விரித்திருந்த` → source-visible `கூடத்தில் விரித்திருந்த`;
+- scan **96 / printed 79** — `காதலவு` → source-visible `காதளவு`;
+- scan **96 / printed 79** — `கட்டுப்படும் நிலவுக்கு` → source-visible `கட்டுக்குள் நிலவுலகு`;
+- scan **97 / printed 80** — `அவன் வரும்போது` → source-visible `அவள் வரும்போது`;
+- scan **98 / printed 81** — removed the non-source comma in `குளிர்ந்த காற்று, தழுவிக்கொண்டு` → source-visible `குளிர்ந்த காற்று தழுவிக்கொண்டு`.
 
-Scans **80–81, 83, and 85–87** required no new Pass-2B page-record correction.
+Scans **90, 93–94 and 99** required no new Pass-2B page-record correction.
 
 Earlier source limitations remain:
 
@@ -103,13 +106,13 @@ Pass 3 remains a separate visual-structure / visual-text fidelity gate and must 
 If live `main` has not advanced beyond this frontier:
 
 1. continue **Part 001 Pass 2B — independent lexical-fidelity re-read**;
-2. process **overall scans 89–99**;
+2. process **overall scans 100–110**;
 3. independently re-read every source-visible printed word against the rendered scan;
 4. compare that independent reading against each existing Markdown page record;
 5. correct only differences visibly supported by the controlling scan;
 6. pay special attention to character-level confusions, vowel signs, old/uncommon forms, names, quotations/Kurals, joining and spacing;
 7. preserve genuine source limitations as `partial` / `blocked`; never reconstruct from context;
-8. append Batch-9 results to `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_001.md` without claiming Pass 3 completion or assigning final `verified` status;
-9. audit the changed-file set before advancing beyond scan 99.
+8. append Batch-10 results to `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_001.md` without claiming Pass 3 completion or assigning final `verified` status;
+9. audit the changed-file set before advancing beyond scan 110.
 
 Do not begin Part 002. Do not begin Pass 3, the Part audit, or English translation before Part 001 Pass 2B is complete.
