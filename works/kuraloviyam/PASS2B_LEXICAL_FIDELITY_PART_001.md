@@ -114,12 +114,30 @@ Pass 2B independently re-reads every source-visible printed word against the ren
 | 65 | 48 | independently confirmed the `வளநாடு` comparison, `நாடொறும் நாடி...` Kural and authority/song metadata; no correction required |
 | 66 | 49 | independently confirmed the agricultural vignette opening, including source-visible uncommon `வசந்தப் புறவைகள்போல`, names and continuation boundary; no correction required |
 
+## Batch 7 — overall scans 67–77
+
+**Status: COMPLETE — 11 / 11 scans independently re-read against the rendered source for Pass 2B.**
+
+| Scan | Printed page | Result |
+|---:|---|---|
+| 67 | 50 | independently confirmed the கார்மேகம் / பூவழகி / கண்ணாயிரம் continuation, `மக்கட் பதடி` Kural and glosses; no correction required |
+| 68 | 51 | independently confirmed the illustrated royal-council opening and continuation boundary; handwritten `12800` and library stamp remain separate from printed body text; no correction required |
+| 69 | 52 | independently confirmed the minister/commander dialogue, `பழுதெண்ணும் மந்திரியிற்...` Kural and authority/song metadata; no correction required |
+| 70 | 53 | corrected an entirely wrong Pass-1/Pass-2A Kural block `தாம்வீழ்வார் தம்வீழப் பெற்றவர் பெற்றாரே / காமத்துக் காழில் கனி` → source-visible `காணிற் குவளை கவிழ்ந்து நிலன்நோக்கும் / மாணிழை கண்ணொவ்வேம் என்று`; remaining குவளை/eyes prose confirmed |
+| 71 | 54 | independently confirmed both beauty/eyes Kurals, prose, authority/song metadata and continuation from scan 70; no correction required |
+| 72 | 55 | independently confirmed the illustrated freedom-fighter opening, வால்மீகி comparison and continuation boundary; no correction required |
+| 73 | 56 | independently confirmed the imprisoned freedom-fighter continuation, quoted speech, `அவையறியார் சொல்லல்மேற்...` Kural and metadata; no correction required |
+| 74 | 57 | independently confirmed the travelling-family / stolen-bundle vignette opening and continuation boundary; no correction required |
+| 75 | 58 | independently confirmed the fruit-seller / charity continuation, `அற்றார் அழிபசி தீர்த்தல்...` Kural and authority/song metadata; no correction required |
+| 76 | 59 | independently confirmed the oppressive-rule vignette opening, including `உலைக்கூடத்திலே`, `கழுவில்`, `கொடுமைபுரியில்` and the continuation boundary; no correction required |
+| 77 | 60 | independently confirmed the uprising continuation, `அஞ்சியொடுங்கி`, `கழுவில்`, `ஆனை, சேனை`, the concluding `அல்லற்பட்டு ஆற்றாது...` Kural and metadata; no correction required |
+
 Pages remain `needs-review` because Pass 3 has not yet been performed. No Pass 2B result assigns final `verified` status.
 
 ## Current Pass 2B frontier
 
-Part 001 Pass 2B lexical-fidelity re-read is complete through **overall scan 66**.
+Part 001 Pass 2B lexical-fidelity re-read is complete through **overall scan 77**.
 
-**Exact next batch: overall scans 67–77.**
+**Exact next batch: overall scans 78–88.**
 
 Known source limitations remain source-limited. In particular, scans **13–15** contain handwriting/facsimile bodies that must not be reconstructed, and scan **19** contains a physically washed-out/faint printed region that must not be inferred from context.
