@@ -108,10 +108,30 @@ Five page records — scans **34, 37, 39, 41 and 43** — received source-suppor
 
 Five page records — scans **45, 48, 50, 52 and 54** — received source-supported structural-only corrections to restore the physical illustration-before-prose order visible in the controlling scans. **No lexical wording was changed.** Scans 46–47, 49, 51, 53 and 55 required no page-record correction.
 
+## Batch 6 — overall scans 56–66
+
+**Status: COMPLETE — 11 / 11 scans directly compared with the rendered source for meaningful visual-text fidelity.**
+
+| Scan | Printed page | Pass 3 result |
+|---:|---|---|
+| 56 | 39 | Valluvar/student sword-and-enmity vignette opening confirmed: large elder/younger-man illustration with prominent sword motif is physically above the short prose opening; page record structurally corrected so the visual-material block precedes the prose |
+| 57 | 40 | sword/enmity discussion continuation and conclusion confirmed with dialogue/prose, distinct `வாள்போல பகைவரை அஞ்சற்க...` Kural, authority/song metadata and page furniture; no structural correction required |
+| 58 | 41 | `தெய்வந் தொழாஅள்...` interpretation opening confirmed: large elder/woman-inset illustration is physically above the Kural and prose; page record structurally corrected so the visual-material block precedes the text |
+| 59 | 42 | rain/wife interpretation continuation confirmed with explanatory prose, distinct `கெடுப்பதூஉங்...` and repeated `தெய்வந் தொழாஅள்...` Kural blocks, paired citation lines, lower Thiruvalluvar illustration and page furniture; no structural correction required |
+| 60 | 43 | martial-history vignette opening confirmed: large battle illustration is physically above the prose introducing warrior boasts and historical examples; page record structurally corrected so the visual-material block precedes the prose |
+| 61 | 44 | martial-history continuation/conclusion confirmed with dialogue, four army-quality discussion, distinct `மறமானம் மாண்ட வழிச்செலவு தேற்றம்...` Kural, authority/song metadata and page furniture; no structural correction required |
+| 62 | 45 | separation/longing vignette opening confirmed: large tearful-woman/remembered-lovers illustration is physically above the prose; page record structurally corrected so the visual-material block precedes the prose |
+| 63 | 46 | separation/dream/eye-address continuation confirmed with prose/dialogue, three distinct Kural blocks, paired authority/song references and page furniture; no structural correction required |
+| 64 | 47 | `திருநாடு` governance vignette opening confirmed: large reclining-royal/court illustration is physically above the prose and the sentence continues into scan 65; page record structurally corrected so the visual-material block precedes the prose |
+| 65 | 48 | `திருநாடு` / `வளநாடு` contrast conclusion confirmed with dense prose, distinct `நாடொறும் நாடி முறைசெய்யா மன்னவன்...` Kural, authority/song metadata and page furniture; no structural correction required |
+| 66 | 49 | கார்மேகம் / பூவழகி field vignette opening confirmed: large agricultural-workers illustration is physically above the prose and dialogue, continuing into scan 67; page record structurally corrected so the visual-material block precedes the prose |
+
+Six page records — scans **56, 58, 60, 62, 64 and 66** — received source-supported structural-only corrections to restore the physical illustration-before-text order visible in the controlling scans. **No lexical wording was changed.** Scans 57, 59, 61, 63 and 65 required no page-record correction.
+
 ## Current Pass 3 frontier
 
-Part 001 Pass 3 meaningful visual-text verification is complete through **overall scan 55**.
+Part 001 Pass 3 meaningful visual-text verification is complete through **overall scan 66**.
 
-**Exact next batch: overall scans 56–66.**
+**Exact next batch: overall scans 67–77.**
 
 Known source limitations remain source-limited. In particular, scans **13–15** contain handwritten/facsimile bodies; Pass 3 verifies their visible heading/layout/non-text relationships but does not reconstruct unreadable handwriting. Scan **19** contains a physically washed-out/faint printed region and remains source-limited rather than reconstructed from context.
