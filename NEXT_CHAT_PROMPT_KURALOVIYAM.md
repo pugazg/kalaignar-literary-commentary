@@ -76,11 +76,12 @@ Do not import standard Thirukkural wording, published English translations, web 
 - **Batch 1 — COMPLETE — scans 1–8**.
 - **Batch 2 — COMPLETE — scans 9–17**; scans 13–15 are `source-limited`.
 - **Batch 3 — COMPLETE — scans 18–27**; scan 19 is `source-limited` and preserves the audited washed-out gap without reconstruction.
+- **Batch 4 — COMPLETE — scans 28–37**; Saavi, Dr. Me. Sundaram, Dr. Ma. Nannan, Kalaignar's Response, title leaf, intentional blank page, and first four pages of the main sequence.
 
 Current English totals:
 
-- page records created: **27/111**;
-- `draft`: **23**;
+- page records created: **37/111**;
+- `draft`: **33**;
 - `source-limited`: **4** — scans 13–15, 19;
 - source-checked: **0**;
 - editorial-reviewed: **0**;
@@ -90,18 +91,15 @@ Do not redo completed batches merely for stylistic harmonization; later review g
 
 ## Exact next activity
 
-If live `main` has not advanced beyond this frontier, execute **Part 001 English Batch 4 — scans 28–37**.
+If live `main` has not advanced beyond this frontier, execute **Part 001 English Batch 5 — scans 38–47**.
 
-1. fetch audited Tamil records for scans 28–37;
+1. fetch audited Tamil records for scans 38–47;
 2. create matching English files under `works/kuraloviyam/translations/en/pages/`;
-3. scans 28–31 cover Saavi, Dr. Me. Sundaram, Dr. Ma. Nannan and Kalaignar's response;
-4. scan 32 is the `கலைஞரின் குறளோவியம்` section-title leaf;
-5. scan 33 is an intentionally blank source-side page / printed page 16;
-6. scans 34–37 are the first four pages of the main `கலைஞரின் குறளோவியம்` sequence;
-7. keep ordinary new English records at `status: "draft"`;
-8. preserve source-supported headings, paragraph/quotation/verse structure, visual-page functions and cross-page continuations;
-9. translate only from audited repository Tamil and do not import standard Kural or external English wording;
-10. update `translations/en/TRANSLATION_STATUS.md`, audit the pre-batch base→head changed-file set, and record the exact next drafting frontier before advancing to scan 38.
+3. keep ordinary verified-source English records at `status: "draft"`;
+4. preserve source-supported headings, paragraph/quotation/Kural/verse structure, visual-page functions and cross-page continuations;
+5. translate only from audited repository Tamil and do not import standard Kural or external English wording;
+6. update `translations/en/TRANSLATION_STATUS.md`, `works/kuraloviyam/README.md`, `works/kuraloviyam/HANDOVER.md`, and this prompt after the batch;
+7. audit the pre-batch base→head changed-file set and record the exact next drafting frontier before advancing to scan 48.
 
 Do not begin English source-check while Part 001 first-pass drafting remains incomplete unless a newer live workflow explicitly changes that cadence.
 
