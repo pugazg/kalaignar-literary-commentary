@@ -36,45 +36,51 @@ Permanent cadence:
 
 ### Batch 1 — scans 1–8 — COMPLETE
 
-Created page-aligned English records for:
-
 - scans **1–3** — cover, title/publisher and edition/imprint matter;
-- scans **4–8 / printed iii–vii** — complete `முகப்புரை` / Preface.
-
-All eight are first-pass English records with `status: "draft"`.
+- scans **4–8 / printed iii–vii** — complete `முகப்புரை` / Preface;
+- all eight: `draft`.
 
 ### Batch 2 — scans 9–17 — COMPLETE
 
-Created the remaining front-matter English records:
-
-- scans **9–12 / printed viii–xi** — `மதிப்புரை` / Critical Appreciation by Dr. V. Sub. Manickam — `draft`;
-- scans **13–15 / printed xii–xiv** — handwritten/facsimile prefaces — `source-limited` because the audited Tamil bodies are not safely readable word-for-word;
+- scans **9–12 / printed viii–xi** — `மதிப்புரை` / Critical Appreciation — `draft`;
+- scans **13–15 / printed xii–xiv** — handwritten/facsimile prefaces — `source-limited`;
 - scan **16 / printed xv** — first-edition photograph / commemorative note — `draft`;
 - scan **17 / printed xvi** — Sixth Edition Publisher's Note — `draft`.
 
-The source-limited English records deliberately translate only securely established Tamil/printed material and do not reconstruct the unreadable handwritten bodies.
+### Batch 3 — scans 18–27 — COMPLETE
+
+Created the first ten English records after the front matter:
+
+- scans **18–20 / printed 1–3** — `பேராசிரியர்` / Professor; scan **19** is `source-limited` because the audited Tamil record contains a physically washed-out gap;
+- scan **21 / printed 4** — Maha Vidwan Dandapani Desikar — `draft`;
+- scans **22–23 / printed 5–6** — Dr. V. Sub. Manickam — `draft`;
+- scan **24 / printed 7** — Principal of Madurai Yadava College, Tamilkudimagan — `draft`;
+- scan **25 / printed 8** — Kasi Anandan — `draft`;
+- scans **26–27 / printed 9–10** — Guardian of the Official Language Ramalinganar — `draft`.
+
+Scan 19 translates only wording actually preserved in the audited Tamil record and explicitly carries the unavailable phrase as a source gap. No reconstruction was made.
 
 ### Current counts
 
-- English page records created: **17 / 111**;
-- `draft`: **14 / 111**;
-- `source-limited`: **3 / 111** — scans 13–15;
-- source-checked: **0 / 111**;
-- editorial-reviewed: **0 / 111**;
-- release-ready: **0 / 111**.
+- English page records created: **27 / 111**;
+- `draft`: **23**;
+- `source-limited`: **4** — scans 13, 14, 15, 19;
+- source-checked: **0**;
+- editorial-reviewed: **0**;
+- release-ready: **0**.
 
-No source-check, editorial review or release-ready claim is made by Batches 1–2.
-
-## Remaining source-limited Tamil page
-
-Scan **19 / printed page 2** is audited Tamil `partial` because a physically washed-out/faint central printed region cannot be safely recovered. Its English record must therefore be `source-limited` and may translate only the Tamil wording actually preserved in the audited repository record.
+No source-check, editorial review or release-ready claim is made by Batches 1–3.
 
 ## Exact next activity
 
-Create **Part 001 English Batch 3 — scans 18–27** from the audited Tamil records:
+Create **Part 001 English Batch 4 — scans 28–37** from the audited Tamil records:
 
-- scan 18 begins the main body / first published-speech excerpt at printed page 1;
-- scan 19 must be `source-limited`;
-- scans 20–27 should remain `draft` when their Tamil source records are `verified`.
+- scan 28 — Saavi;
+- scan 29 — Dr. Me. Sundaram;
+- scan 30 — Dr. Ma. Nannan;
+- scan 31 — Kalaignar's response;
+- scan 32 — `கலைஞரின் குறளோவியம்` section-title leaf;
+- scan 33 — intentionally blank source-side page / printed page 16;
+- scans 34–37 — first four pages of the main `கலைஞரின் குறளோவியம்` sequence.
 
-Translate only from the audited Tamil records, preserve page alignment and source limitations, update this status file after the batch, and audit the exact changed-file set before advancing to scan 28.
+Keep ordinary new English pages at `draft`, preserve page alignment and source structure, update this status file after the batch, and audit the exact changed-file set before advancing to scan 38.
