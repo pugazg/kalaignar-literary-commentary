@@ -148,10 +148,30 @@ Six page records — scans **56, 58, 60, 62, 64 and 66** — received source-sup
 
 Five page records — scans **68, 70, 72, 74 and 76** — received source-supported structural-only corrections to restore the physical illustration-before-text order visible in the controlling scans. **No lexical wording was changed.** Scans 67, 69, 71, 73, 75 and 77 required no page-record correction.
 
+## Batch 8 — overall scans 78–88
+
+**Status: COMPLETE — 11 / 11 scans directly compared with the rendered source for meaningful visual-text fidelity.**
+
+| Scan | Printed page | Pass 3 result |
+|---:|---|---|
+| 78 | 61 | tearful-eyes/love-sickness vignette confirmed: large tear-filled-eyes/reclining-woman illustration is physically above the prose and Kural sequence; page record structurally corrected so the visual-material block precedes the prose |
+| 79 | 62 | old-age/illness vignette opening confirmed: large elderly-ill-man illustration is physically above the prose, which continues into scan 80; page record structurally corrected so the visual-material block precedes the prose |
+| 80 | 63 | old-age/illness continuation and gambling comparison confirmed with prose, distinct `இழத்தொறூஉம் காதலிக்கும் சூதேபோல்...` Kural, authority/song metadata, glosses and page furniture; no structural correction required |
+| 81 | 64 | `பசப்புறு பருவரல்` mirror vignette opening confirmed: large seated-woman/mirror illustration is physically above the prose and the sentence continues into scan 82; page record structurally corrected so the visual-material block precedes the prose |
+| 82 | 65 | pallor/separation vignette continuation confirmed with prose, distinct `அவர்தந்தார் என்னும் தகையால்...` Kural, authority/song metadata, lower Thiruvalluvar statue motif and page furniture; no structural correction required |
+| 83 | 66 | victorious-king/Valluvar vignette opening confirmed: large king/Valluvar/military illustration is physically above the prose and continues into scan 84; page record structurally corrected so the visual-material block precedes the prose |
+| 84 | 67 | victorious-king battle account conclusion confirmed with Valluvar's righteous-sceptre redirection, distinct `வேலன்று வென்றி தருவது மன்னவன்...` Kural, authority/song metadata and page furniture; no structural correction required |
+| 85 | 68 | beauty/dream vignette opening confirmed: large seated-woman/remembered-man illustration is physically above the prose and the sentence continues into scan 86; page record structurally corrected so the visual-material block precedes the prose |
+| 86 | 69 | beauty/dream continuation confirmed with awakening dialogue, distinct `நனவென ஒன்றில்லை யாயின்...` Kural, authority/song metadata, lower statue motif and page furniture; no structural correction required |
+| 87 | 70 | prince/retired-commander vignette opening confirmed: large angry-prince/assembled-men illustration is physically above the prose and continues into scan 88; page record structurally corrected so the visual-material block precedes the prose |
+| 88 | 71 | prince/retired-commander conclusion confirmed with citizen uprising, flight of the prince, distinct `இறந்தமைந்த சார்புடையர் ஆயினும் உய்யார்...` Kural, authority/song metadata and page furniture; no structural correction required |
+
+Six page records — scans **78, 79, 81, 83, 85 and 87** — received source-supported structural-only corrections to restore the physical illustration-before-text order visible in the controlling scans. **No lexical wording was changed.** Scans 80, 82, 84, 86 and 88 required no page-record correction.
+
 ## Current Pass 3 frontier
 
-Part 001 Pass 3 meaningful visual-text verification is complete through **overall scan 77**.
+Part 001 Pass 3 meaningful visual-text verification is complete through **overall scan 88**.
 
-**Exact next batch: overall scans 78–88.**
+**Exact next batch: overall scans 89–99.**
 
 Known source limitations remain source-limited. In particular, scans **13–15** contain handwritten/facsimile bodies; Pass 3 verifies their visible heading/layout/non-text relationships but does not reconstruct unreadable handwriting. Scan **19** contains a physically washed-out/faint printed region and remains source-limited rather than reconstructed from context.
