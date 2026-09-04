@@ -30,6 +30,7 @@ Before any repository change, read completely:
 8. `works/kuraloviyam/metadata/transcription-policy.md`
 9. `works/kuraloviyam/indexes/page-map.md`
 10. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_001.md`
+11. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_001.md`
 
 Then inspect the actual supplied source scans before writing.
 
@@ -46,9 +47,7 @@ Canonical overall scan mapping:
 - Part 005: 445–555
 - Part 006: 556–666
 
-Repository `scan_page` never restarts for a split PDF.
-
-Part 001 has no usable parsed text layer; the rendered source scan is controlling.
+Repository `scan_page` never restarts for a split PDF. Part 001 has no usable parsed text layer; the rendered source scan is controlling.
 
 ## Completed state
 
@@ -56,59 +55,60 @@ Part 001 source intake is complete and Pass 1 is complete: **111 / 111 physical 
 
 ### Part 001 Pass 2A — COMPLETE
 
-The durable verification record is:
+`works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_001.md` records direct textual verification for **all scans 1–111**. Do not restart Pass 2A.
 
-`works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_001.md`
+### Part 001 Pass 2B — scans 1–11 COMPLETE
 
-Pass 2A has now directly compared **all overall scans 1–111** against the rendered source.
+The durable independent lexical-fidelity record is:
 
-Final Pass-2A work:
+`works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_001.md`
 
-- scans **100–110** were completed as Batch 10 with source-supported corrections on scans 100, 101, 103, 105, 107, 108, 109 and 110;
-- scan **111 / printed 94** was then directly compared against the rendered source as Batch 11;
-- scan 111 prose and both `சொல்வன்மை` Kurals were confirmed;
-- scan 111 citation punctuation was corrected from the repository's non-source em dash to the source-visible hyphen form: `அதிகாரம் - 65 - சொல்வன்மை; பாடல்கள் - 648, 650`.
+Overall scans **1–11** were independently re-read word by word against the rendered source after Pass 2A was already closed.
 
-Pass 2A is therefore **111 / 111 COMPLETE**. Do not restart or repeat it.
+Batch-1 result:
+
+- all **11 / 11** scans were independently reread;
+- no additional page-record correction was required in this batch;
+- scan 11 source-visible `உரனுண்டு`, previously corrected after the user's `ர/ற` flag, was independently reconfirmed;
+- source-visible old/uncommon forms, names, quotations, joining/spacing and front-matter wording were preserved rather than normalized;
+- handwriting, stamps and signatures remain separate from printed body text.
 
 Earlier source limitations remain:
 
 - scans **13–15** — handwritten/facsimile bodies remain `partial`; do not reconstruct them;
 - scan **19** — a small physically washed-out/faint printed region remains `partial`; do not infer lost words from context.
 
-### Mandatory Pass 2B safeguard
+## Pass 2B rule
 
-After the user identified the scan-11 `ர` / `ற` miss (`உறனுண்டு` → source-visible `உரனுண்டு`), the workflow was strengthened with an independent **Pass 2B lexical-fidelity re-read** before Pass 3.
-
-Pass 2B is not a confirmation of Pass 2A. It must independently re-read the printed source word by word, with particular attention to:
+Pass 2B is an independent second reading, not a confirmation of the Pass-2A change list. Re-read every source-visible printed word against the rendered scan with special attention to:
 
 - `ர / ற`;
 - `ன / ண`;
 - `ல / ள / ழ`;
-- vowel signs and pulli/compound-letter distinctions;
+- vowel signs and compound-letter distinctions;
 - source-visible spacing and joining;
 - old/uncommon printed forms;
 - names and titles;
 - quotations and Kural text;
 - punctuation where it affects textual fidelity.
 
-Do not import standard Kural readings, modern spellings, contextual guesses, or web/reference text. The rendered scan remains controlling.
+Do not import standard Kural readings, modern spellings, contextual guesses, OCR guesses or web/reference text. The rendered scan remains controlling.
 
-Pass 3 remains a separate visual-structure / visual-text fidelity gate and must not be relied upon as the lexical safety net.
+Pass 3 remains a separate visual-structure / visual-text fidelity gate and must not be used as the lexical safety net.
 
 ## Exact next activity
 
 If live `main` has not advanced beyond this frontier:
 
-1. begin **Part 001 Pass 2B — independent lexical-fidelity re-read**;
-2. process **overall scans 1–11**;
-3. re-read every source-visible printed word independently against the rendered scan rather than merely reviewing the Pass-2A change list;
-4. compare the independent reading against each existing Markdown page record;
+1. continue **Part 001 Pass 2B — independent lexical-fidelity re-read**;
+2. process **overall scans 12–22**;
+3. independently re-read every source-visible printed word against the rendered scan;
+4. compare that independent reading against each existing Markdown page record;
 5. correct only differences visibly supported by the controlling scan;
-6. pay special attention to character-level confusions (`ர/ற`, `ன/ண`, `ல/ள/ழ`), vowel signs, old/uncommon forms, names, quoted text, Kurals, and source-visible joining/spacing;
-7. keep handwriting, stamps, signatures and other non-body marks separate from printed source text;
-8. preserve genuine source limitations as `partial` / `blocked`; never reconstruct unclear handwriting or washed-out printing from context;
-9. record Pass-2B results durably without claiming Pass 3 completion or assigning final `verified` status;
-10. audit the changed-file set before advancing beyond scan 11.
+6. pay special attention to character-level confusions, vowel signs, old/uncommon forms, names, quotations/Kurals, joining and spacing;
+7. for scans **13–15**, preserve the source-limited handwritten/facsimile bodies as `partial`; verify only source-visible printed material and do not reconstruct handwriting;
+8. for scan **19**, preserve the physically washed-out/faint printed region as `partial`; do not infer missing words from context;
+9. append Batch-2 results to `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_001.md` without claiming Pass 3 completion or assigning final `verified` status;
+10. audit the changed-file set before advancing beyond scan 22.
 
 Do not begin Part 002. Do not begin Pass 3, the Part audit, or English translation before Part 001 Pass 2B is complete.
