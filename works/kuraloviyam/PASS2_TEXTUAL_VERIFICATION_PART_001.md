@@ -182,6 +182,24 @@ Pass 2B will re-read every printed word against the rendered scan, with special 
 | 98 | 81 | restored source-visible text including `அழுத கண்கள்`, `வீணையும்`, `நேரங்கூட`, `காற்று, தழுவிக்கொண்டு இருந்த`, `தழுவுதலுக்கிடையே`, `இடமிருக்கக்கூடாது என்று கருதிக் தழுவிய`, and `செல்லவும் இடமின்றிக்` |
 | 99 | 82 | `ஊர்க்காவலன்` / tiger-danger vignette opening compared directly; wording, continuation and printed page metadata confirmed; no correction required |
 
+## Batch 10 — overall scans 100–110
+
+**Status: COMPLETE — 11 / 11 scans directly compared with the rendered source scan for Pass 2A.**
+
+| Scan | Printed page | Result |
+|---:|---|---|
+| 100 | 83 | corrected `நாட்டாளைக் கடத்தலாமா?` → source-visible `நாட்களைக் கடத்தலாமா?` and `இன்று கேட்டுகிறேன்` → `இன்று கேட்கிறேன்` |
+| 101 | 84 | corrected `உன் ஆட்களையெடுத்து` → source-visible `உன் ஆட்களைவைத்து`; restored source-visible hyphen punctuation in the citation line |
+| 102 | 85 | lovers/waiting vignette opening compared directly; wording, continuation and printed page metadata confirmed; no correction required |
+| 103 | 86 | corrected `இல்லம் புகுந்து கொண்டேன்` → `இல்லில் புகுந்து கொண்டேன்` and `ஏமாற்றச் செய்திட` → source-visible `ஏமாறச் செய்திட`; restored source-visible hyphen punctuation in the citation line |
+| 104 | 87 | `வில்லவன்` / horse vignette opening compared directly; wording, continuation and printed page metadata confirmed; no correction required |
+| 105 | 88 | corrected source punctuation `அதுதான் இது:` → `அதுதான் இது;`; restored source-visible hyphen punctuation in the citation line |
+| 106 | 89 | கலிங்கன்–கதிரவன் anger-control vignette opening compared directly; wording, continuation and printed page metadata confirmed; no correction required |
+| 107 | 90 | corrected source punctuation `அடக்கினால் என்ன - அடக்காவிட்டால் என்ன?` → `அடக்கினால் என்ன- அடக்காவிட்டால் என்ன?`; restored source-visible hyphen punctuation in the citation line |
+| 108 | 91 | corrected `இந்த எழிலாகச் சித்திரப் பெண்` → source-visible `இந்த எழுதாத சித்திரப் பெண்`, `நெஞ்சு எடுகளைத்` → `நெஞ்சு ஏடுகளைத்`, and `சித்திரக் கோடுகளைத் தொட்டு தொட்டு` → `சித்திரக்கோடுகளைத் தொட்டுத் தொட்டு`; restored source-visible hyphen punctuation in the citation line |
+| 109 | 92 | corrected `எழுத்து மொழிகள் கற்றவர்` → source-visible `ஏழெட்டு மொழிகள் கற்றவர்` |
+| 110 | 93 | corrected `அவர் படித்து முடிக்காத நூலே உலகத்திலே இல்லை` → source-visible `அவர் படித்து முடிக்காத நூல்களே உலகத்திலே இல்லை` |
+
 ## Batch audit rule
 
 Pass 2A changes only page records where the direct scan comparison finds a source-supported correction or confirms a source limitation requiring a status change. Unchanged page records are not rewritten merely to create commits; their completed Pass 2A result is recorded in this log.
@@ -190,8 +208,8 @@ Pass 2A changes only page records where the direct scan comparison finds a sourc
 
 ## Current Pass 2A frontier
 
-Part 001 Pass 2A textual verification is complete through **overall scan 99**.
+Part 001 Pass 2A textual verification is complete through **overall scan 110**.
 
-**Exact next batch: overall scans 100–110.**
+**Exact next batch: overall scan 111.**
 
 Known source-limited pages remain source-limited; do not reconstruct unclear handwriting or physically lost/washed-out printed text from context.
