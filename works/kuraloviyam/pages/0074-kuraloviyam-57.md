@@ -14,6 +14,10 @@ source_filename: "TVA_BOK_0065733_குறளோவியம்_part_001_pag
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
 
+## Visual material
+
+Large colour illustration above the prose showing women, children and a man gathered around a fruit basket, with food-serving imagery in the background.
+
 நெருங்கிய உறவினர் ஒருவருடைய மகளுக்குத் திருமணம் நிகழவிருந்தது. ஊரோ நெடுந்தொலைவு. அதற்காக அங்கே போகாமலும் இருக்க முடியாது.
 
 எனவே, மனைவி மக்களுடன் மணவிழாவில் கலந்து கொள்ளக் கிளம்பினான் அவன். இடையிலே குறுக்கிட்டது இரவு. அதனால் பாதிப் பயணத்திலேயே ஓர் ஊரில் படுத்துவிட்டுத்தான் போகவேண்டும் என்ற நிலை.
@@ -25,9 +29,5 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 “அய்யோ! என் காசுப்பையையும் காணோமே?” என்று அவனும் அலறினான்.
 
 கட்டுச்சோற்று மூட்டை, காசுப்பை எல்லாமே களவு போய்விட்டன. அந்தக் குடும்பமே கதறித் துடிக்காமல் என்ன செய்வது? உதவிக்கு வரக்கூடியவர்களும் அங்கே இருப்பதும் தெரியவில்லை.
-
-## Visual material
-
-Large colour illustration above the prose showing women, children and a man gathered around a fruit basket, with food-serving imagery in the background.
 
 <!-- மூல ஸ்கேன் பக்கம்: 74; அச்சுப் பக்கம்: 57 -->
