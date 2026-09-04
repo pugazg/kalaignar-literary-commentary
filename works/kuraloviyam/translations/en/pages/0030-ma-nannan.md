@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Dr. Ma. Nannan"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains authoritative"
 ---
