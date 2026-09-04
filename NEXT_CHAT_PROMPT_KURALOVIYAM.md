@@ -57,25 +57,21 @@ Part 001 source intake and Pass 1 are complete: **111 / 111 physical scans captu
 
 `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_001.md` records direct textual verification for **all scans 1–111**. Do not restart Pass 2A.
 
-### Part 001 Pass 2B — scans 1–22 COMPLETE
+### Part 001 Pass 2B — scans 1–33 COMPLETE
 
 The durable independent lexical-fidelity record is:
 
 `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_001.md`
 
-Overall scans **1–22** have now been independently re-read word by word against the rendered source after Pass 2A was closed.
+Overall scans **1–33** have now been independently re-read word by word against the rendered source after Pass 2A was closed.
 
-Batch-2 source-supported corrections for scans 12–22:
+Batch-3 source-supported correction for scans 23–33:
 
-- scan **12 / printed xi** — Kural `சொலல்வல்லன்` → source-visible `சொல்வல்லன்`;
-- scan **17 / printed xvi** — source-visible joining `இந்த நூல்` → `இந்தநூல்` at the opening of the third publisher-note paragraph;
-- scan **18 / printed 1** — source-visible spacing `அதுபோன்ற` → `அது போன்ற`;
-- scan **19 / printed 2** — `மணக்குடவரோ` → source-visible `மணப் புலவரோ`; `டாக்டர் மு. வ.வோ` → source-visible `டாக்டர் மு. வ. வோ`;
-- scan **21 / printed 4** — `மற்ற அனைத்து குறள்களுக்கும்` → source-visible `மற்ற அனைத்துக் குறள்களுக்கும்`.
+- scan **23 / printed 6** — `பல்கலைக்கழகக்கான பொதுமக்கள்` → source-visible `பலஆயிரக்கணக்கான பொதுமக்கள்`.
 
-Scans **13–16, 20 and 22** required no new Pass-2B page-record correction.
+Scans **24–33** required no new Pass-2B page-record correction. Scan 32 is the section-title page `கலைஞரின் / குறளோவியம்`; scan 33 is source-side blank apart from printed page number `16`, with reverse-side bleed-through intentionally left untranscribed.
 
-Source limitations remain:
+Earlier source limitations remain:
 
 - scans **13–15** — handwritten/facsimile bodies remain `partial`; printed headings/material were checked, but handwriting must not be reconstructed;
 - scan **19** — the physically washed-out/faint central printed region remains `partial`; do not infer missing words from context.
@@ -103,13 +99,13 @@ Pass 3 remains a separate visual-structure / visual-text fidelity gate and must 
 If live `main` has not advanced beyond this frontier:
 
 1. continue **Part 001 Pass 2B — independent lexical-fidelity re-read**;
-2. process **overall scans 23–33**;
+2. process **overall scans 34–44**;
 3. independently re-read every source-visible printed word against the rendered scan;
 4. compare that independent reading against each existing Markdown page record;
 5. correct only differences visibly supported by the controlling scan;
 6. pay special attention to character-level confusions, vowel signs, old/uncommon forms, names, quotations/Kurals, joining and spacing;
 7. preserve genuine source limitations as `partial` / `blocked`; never reconstruct from context;
-8. append Batch-3 results to `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_001.md` without claiming Pass 3 completion or assigning final `verified` status;
-9. audit the changed-file set before advancing beyond scan 33.
+8. append Batch-4 results to `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_001.md` without claiming Pass 3 completion or assigning final `verified` status;
+9. audit the changed-file set before advancing beyond scan 44.
 
 Do not begin Part 002. Do not begin Pass 3, the Part audit, or English translation before Part 001 Pass 2B is complete.
