@@ -132,12 +132,30 @@ Pass 2B independently re-reads every source-visible printed word against the ren
 | 76 | 59 | independently confirmed the oppressive-rule vignette opening, including `உலைக்கூடத்திலே`, `கழுவில்`, `கொடுமைபுரியில்` and the continuation boundary; no correction required |
 | 77 | 60 | independently confirmed the uprising continuation, `அஞ்சியொடுங்கி`, `கழுவில்`, `ஆனை, சேனை`, the concluding `அல்லற்பட்டு ஆற்றாது...` Kural and metadata; no correction required |
 
+## Batch 8 — overall scans 78–88
+
+**Status: COMPLETE — 11 / 11 scans independently re-read against the rendered source for Pass 2B.**
+
+| Scan | Printed page | Result |
+|---:|---|---|
+| 78 | 61 | corrected `நிலாப் புதுமையைக்` → source-visible `நிலாப் பதுமையைக்`; remaining lover/eyes prose, Kural and authority/song metadata independently confirmed |
+| 79 | 62 | corrected `ஆடியில் பார்த்துப்` → source-visible `ஆடியிற் பார்த்துப்`; remaining old-age/illness prose and continuation boundary confirmed |
+| 80 | 63 | independently confirmed the old-age/gambling comparison, `இழத்தொறூஉம் காதலிக்கும்...` Kural, authority/song metadata and glosses; no correction required |
+| 81 | 64 | independently confirmed the illustrated `பசப்புறு பருவரல்` opening, prose and continuation boundary; no correction required |
+| 82 | 65 | corrected `இந்தநிறம் ஏற்பட்டது` → source-visible `இந்நிறம் ஏற்பட்டது`; independently confirmed the later quoted source wording `இந்த நிறம்`; remaining pallor prose, Kural and metadata confirmed |
+| 83 | 66 | independently confirmed the victorious-king/Valluvar illustrated opening and continuation boundary; no correction required |
+| 84 | 67 | corrected `வேல்பட்டு பகையரசன்` → source-visible `வேல்பட்டுப் பகையரசன்`; remaining battle account, Valluvar response, Kural and metadata confirmed |
+| 85 | 68 | independently confirmed the illustrated beauty-vignette opening and continuation boundary; no correction required |
+| 86 | 69 | independent word-level re-read complete across the dream/lover continuation, quoted speech, `நனவென ஒன்றில்லை...` Kural and metadata; no correction required |
+| 87 | 70 | independently confirmed the prince/retired-commander opening, including fort/army/treasury/allies prose and continuation boundary; no correction required |
+| 88 | 71 | corrected `அடியபடும் உங்களுக்கு` → source-visible `அடிபடும் உங்களுக்கு`; remaining uprising/retired-commander conclusion, `இறந்தமைந்த சார்புடையர்...` Kural and metadata confirmed |
+
 Pages remain `needs-review` because Pass 3 has not yet been performed. No Pass 2B result assigns final `verified` status.
 
 ## Current Pass 2B frontier
 
-Part 001 Pass 2B lexical-fidelity re-read is complete through **overall scan 77**.
+Part 001 Pass 2B lexical-fidelity re-read is complete through **overall scan 88**.
 
-**Exact next batch: overall scans 78–88.**
+**Exact next batch: overall scans 89–99.**
 
 Known source limitations remain source-limited. In particular, scans **13–15** contain handwriting/facsimile bodies that must not be reconstructed, and scan **19** contains a physically washed-out/faint printed region that must not be inferred from context.
