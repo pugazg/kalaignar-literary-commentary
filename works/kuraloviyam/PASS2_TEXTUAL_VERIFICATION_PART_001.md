@@ -164,6 +164,24 @@ Pass 2B will re-read every printed word against the rendered scan, with special 
 | 87 | 70 | prince/retired-commander vignette opening compared directly; wording, continuation and printed page metadata confirmed; no correction required |
 | 88 | 71 | prince/retired-commander conclusion, `பெரியாரைப் பிழையாமை` Kural and citation block compared directly; wording and printed page metadata confirmed; no correction required |
 
+## Batch 9 — overall scans 89–99
+
+**Status: COMPLETE — 11 / 11 scans directly compared with the rendered source scan for Pass 2A.**
+
+| Scan | Printed page | Result |
+|---:|---|---|
+| 89 | 72 | two-heroine love-sickness page and `காமமும் நாணும்...` Kural compared directly; wording and printed page metadata confirmed; no correction required |
+| 90 | 73 | corrected `காதலனைத் திணற அடித்தவள்` → source-visible `காதலைத் திணற அடித்தவள்` |
+| 91 | 74 | two-commanders vignette opening compared directly; wording, continuation and printed page metadata confirmed; no correction required |
+| 92 | 75 | restored source-visible paragraph-initial hyphen before `இப்படி அந்த இரண்டு மனிதர்களைப்...` |
+| 93 | 76 | public-announcement / `திடும்!` vignette opening compared directly; wording, continuation and printed page metadata confirmed; no page-record correction required |
+| 94 | 77 | corrected `வந்த தோழியிடம்` → `வந்த தோழியைப்` and `கிடந்தனவையோ` → source-visible `கிடந்தனையோ` |
+| 95 | 78 | young-poet / prospective-bride vignette opening compared directly; wording, continuation and printed page metadata confirmed; no correction required |
+| 96 | 79 | corrected `நண்பரின் பதிவுக்குக்` → source-visible `நண்பரின் பதிலுக்குக்` |
+| 97 | 80 | corrected `மலர்விழிக்கிடாக` → `மலர்விழிக்கீடாக`, `அவளாரின்றித்` → `அவ்வாறின்றித்`, and `நிலமையில்` → source-visible `நிலைமையில்` |
+| 98 | 81 | restored source-visible text including `அழுத கண்கள்`, `வீணையும்`, `நேரங்கூட`, `காற்று, தழுவிக்கொண்டு இருந்த`, `தழுவுதலுக்கிடையே`, `இடமிருக்கக்கூடாது என்று கருதிக் தழுவிய`, and `செல்லவும் இடமின்றிக்` |
+| 99 | 82 | `ஊர்க்காவலன்` / tiger-danger vignette opening compared directly; wording, continuation and printed page metadata confirmed; no correction required |
+
 ## Batch audit rule
 
 Pass 2A changes only page records where the direct scan comparison finds a source-supported correction or confirms a source limitation requiring a status change. Unchanged page records are not rewritten merely to create commits; their completed Pass 2A result is recorded in this log.
@@ -172,8 +190,8 @@ Pass 2A changes only page records where the direct scan comparison finds a sourc
 
 ## Current Pass 2A frontier
 
-Part 001 Pass 2A textual verification is complete through **overall scan 88**.
+Part 001 Pass 2A textual verification is complete through **overall scan 99**.
 
-**Exact next batch: overall scans 89–99.**
+**Exact next batch: overall scans 100–110.**
 
 Known source-limited pages remain source-limited; do not reconstruct unclear handwriting or physically lost/washed-out printed text from context.
