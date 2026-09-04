@@ -65,13 +65,16 @@ The durable independent lexical-fidelity record is:
 
 Overall scans **1–11** were independently re-read word by word against the rendered source after Pass 2A was already closed.
 
-Batch-1 result:
+Batch-1 source-supported corrections:
 
-- all **11 / 11** scans were independently reread;
-- no additional page-record correction was required in this batch;
-- scan 11 source-visible `உரனுண்டு`, previously corrected after the user's `ர/ற` flag, was independently reconfirmed;
-- source-visible old/uncommon forms, names, quotations, joining/spacing and front-matter wording were preserved rather than normalized;
-- handwriting, stamps and signatures remain separate from printed body text.
+- scan **5 / printed iv** — `பெறவேண்டும் என்ற` → `பெறவேண்டுமென்ற`; `வாய்ப்பில்லாமல் போயிற்று` → `வாய்ப்பில்லாமற் போயிற்று`;
+- scan **6 / printed v** — `1953-ஆம் ஆண்டு` → source-visible `1953ஆம் ஆண்டு`;
+- scan **8 / printed vii** — `முழுவேகைத் தமிழிலும்` → source-visible `முழுவோசைத் தமிழிலும்`;
+- scan **10 / printed ix** — quoted phrase `நிறைநீர நீரவர் கேண்மை` → source-visible `நிறைநீர் நீரவர் கேண்மை`.
+
+Scans **1–4, 7, 9 and 11** required no new Pass-2B page-record correction. Scan 11 independently reconfirmed the previously corrected source-visible `உறையூர்க் கோழிக்கும் உரனுண்டு`.
+
+Handwriting, stamps and signatures remain separate from printed body text.
 
 Earlier source limitations remain:
 
