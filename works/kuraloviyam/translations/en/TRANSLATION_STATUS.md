@@ -36,38 +36,45 @@ Permanent cadence:
 
 ### Batch 1 — scans 1–8 — COMPLETE
 
-The first English draft batch follows the natural front-matter boundary through the end of `முகப்புரை` / Preface.
+Created page-aligned English records for:
 
-Created page-aligned English records:
+- scans **1–3** — cover, title/publisher and edition/imprint matter;
+- scans **4–8 / printed iii–vii** — complete `முகப்புரை` / Preface.
 
-- scans **1–3** — cover, title/publisher, edition/imprint matter;
-- scans **4–8 / printed iii–vii** — complete Preface.
+All eight are first-pass English records with `status: "draft"`.
 
-All eight Tamil source records are `verified`, so the new English records are complete first-pass translations with English `status: "draft"`.
+### Batch 2 — scans 9–17 — COMPLETE
 
-No source-check, editorial review or release-ready claim is made by this batch.
+Created the remaining front-matter English records:
+
+- scans **9–12 / printed viii–xi** — `மதிப்புரை` / Critical Appreciation by Dr. V. Sub. Manickam — `draft`;
+- scans **13–15 / printed xii–xiv** — handwritten/facsimile prefaces — `source-limited` because the audited Tamil bodies are not safely readable word-for-word;
+- scan **16 / printed xv** — first-edition photograph / commemorative note — `draft`;
+- scan **17 / printed xvi** — Sixth Edition Publisher's Note — `draft`.
+
+The source-limited English records deliberately translate only securely established Tamil/printed material and do not reconstruct the unreadable handwritten bodies.
 
 ### Current counts
 
-- drafted: **8 / 111**;
+- English page records created: **17 / 111**;
+- `draft`: **14 / 111**;
+- `source-limited`: **3 / 111** — scans 13–15;
 - source-checked: **0 / 111**;
 - editorial-reviewed: **0 / 111**;
-- release-ready: **0 / 111**;
-- source-limited English pages created: **0 / 4 expected source-limited Tamil records**.
+- release-ready: **0 / 111**.
 
-## Source-limit rule for the upcoming front matter
+No source-check, editorial review or release-ready claim is made by Batches 1–2.
 
-Scans **13, 14 and 15** are audited Tamil `partial` handwritten/facsimile records. When their English records are created, they must use `status: "source-limited"` and translate only the securely established material. The unreadable continuous handwriting must not be reconstructed.
+## Remaining source-limited Tamil page
 
-Scan **19** is also Tamil `partial`, but it lies beyond the next front-matter batch.
+Scan **19 / printed page 2** is audited Tamil `partial` because a physically washed-out/faint central printed region cannot be safely recovered. Its English record must therefore be `source-limited` and may translate only the Tamil wording actually preserved in the audited repository record.
 
 ## Exact next activity
 
-Create **Part 001 English Batch 2 — scans 9–17**, which closes the remaining front matter before the main body begins at scan 18:
+Create **Part 001 English Batch 3 — scans 18–27** from the audited Tamil records:
 
-- scans 9–12 — `மதிப்புரை` / Critical Appreciation;
-- scans 13–15 — source-limited handwritten/facsimile preface records;
-- scan 16 — first-edition photograph/note;
-- scan 17 — later-edition publication note.
+- scan 18 begins the main body / first published-speech excerpt at printed page 1;
+- scan 19 must be `source-limited`;
+- scans 20–27 should remain `draft` when their Tamil source records are `verified`.
 
-Keep safely translatable pages at `draft`, scans 13–15 at `source-limited`, translate only from the audited Tamil records, then audit the changed-file set before advancing to scan 18.
+Translate only from the audited Tamil records, preserve page alignment and source limitations, update this status file after the batch, and audit the exact changed-file set before advancing to scan 28.
