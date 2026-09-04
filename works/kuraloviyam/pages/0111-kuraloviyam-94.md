@@ -32,4 +32,8 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 அதிகாரம் - 65 - சொல்வன்மை; பாடல்கள் - 648, 650
 
+## Visual material
+
+Small printed Valluvar statue illustration centered below the authority/song metadata near the lower part of the page.
+
 <!-- மூல ஸ்கேன் பக்கம்: 111; அச்சுப் பக்கம்: 94 -->
