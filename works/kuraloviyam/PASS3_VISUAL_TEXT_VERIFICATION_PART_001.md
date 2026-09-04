@@ -188,10 +188,30 @@ Six page records — scans **78, 79, 81, 83, 85 and 87** — received source-sup
 
 Six page records — scans **89, 91, 93, 95, 97 and 99** — received source-supported structural-only corrections to restore the physical illustration-before-text order visible in the controlling scans. **No lexical wording was changed.** Scans 90, 92, 94, 96 and 98 required no page-record correction.
 
+## Batch 10 — overall scans 100–110
+
+**Status: COMPLETE — 11 / 11 scans directly compared with the rendered source for meaningful visual-text fidelity.**
+
+| Scan | Printed page | Pass 3 result |
+|---:|---|---|
+| 100 | 83 | `ஊர்க்காவலன்` / tiger-danger continuation confirmed as a text-led continuation from scan 99 with prose/dialogue block relationships and page furniture preserved; no structural correction required |
+| 101 | 84 | tiger-danger conclusion confirmed with distinct `நெடுநீர் மறவி மடிதுயில் நான்கும்...` Kural, authority/song metadata and a small printed chariot/monument motif below; page record structurally corrected to represent the lower visual motif and its physical position |
+| 102 | 85 | lovers/waiting vignette opening confirmed: large embracing-lovers illustration is physically above the prose and the narrative continues into scan 103; page record structurally corrected so the visual-material block precedes the prose |
+| 103 | 86 | lovers/waiting conclusion confirmed with prose/dialogue sequence, distinct `புலப்பல் எனச்சென்றேன்...` Kural, authority/song metadata and page furniture; no structural correction required |
+| 104 | 87 | வில்லவன் / horse vignette opening confirmed: large rearing-horse/warrior illustration is physically above the prose and continues into scan 105; page record structurally corrected so the visual-material block precedes the prose |
+| 105 | 88 | வில்லவன் / horse vignette conclusion confirmed with prose, distinct `அமரகத்து ஆற்றறுக்கும் கல்லாமா...` Kural, authority/song metadata and page furniture; no structural correction required |
+| 106 | 89 | கலிங்கன்–கதிரவன் anger-control vignette opening confirmed: training-camp illustration is physically above the prose/dialogue and continues into scan 107; page record structurally corrected so the visual-material block precedes the text |
+| 107 | 90 | anger-control vignette conclusion confirmed with dialogue/prose, distinct `செல்லிடத்துக் காப்பான் சினங்காப்பான்...` Kural, authority/song metadata and page furniture; no structural correction required |
+| 108 | 91 | lover-away/day-counting vignette confirmed: cooking-woman illustration with wall tally marks is physically above the prose, followed by distinct `வாளற்றுப் புற்கென்ற கண்ணும்...` Kural and explanatory line; page record structurally corrected so the visual-material block precedes the prose |
+| 109 | 92 | learned-speaker/assembly vignette opening confirmed: large two-men/flowers illustration is physically above the prose and the sentence continues into scan 110; page record structurally corrected so the visual-material block precedes the prose |
+| 110 | 93 | learned-speaker/assembly continuation confirmed with prose, distinct `கற்றது கைம்மண் அளவு / கல்லாதது உலகளவு` quotation block, speech/assembly relationships and continuation into scan 111; no structural correction required |
+
+Six page records — scans **101, 102, 104, 106, 108 and 109** — received source-supported structural-only corrections. Scan 101 now explicitly represents the lower chariot/monument motif; scans 102, 104, 106, 108 and 109 restore the physical illustration-before-text order visible in the controlling scans. **No Tamil lexical wording was changed.** Scans 100, 103, 105, 107 and 110 required no page-record correction.
+
 ## Current Pass 3 frontier
 
-Part 001 Pass 3 meaningful visual-text verification is complete through **overall scan 99**.
+Part 001 Pass 3 meaningful visual-text verification is complete through **overall scan 110**.
 
-**Exact next batch: overall scans 100–110.**
+**Exact next batch: overall scan 111 only.**
 
 Known source limitations remain source-limited. In particular, scans **13–15** contain handwritten/facsimile bodies; Pass 3 verifies their visible heading/layout/non-text relationships but does not reconstruct unreadable handwriting. Scan **19** contains a physically washed-out/faint printed region and remains source-limited rather than reconstructed from context.
