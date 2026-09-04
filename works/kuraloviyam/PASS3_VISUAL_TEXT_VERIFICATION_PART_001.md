@@ -60,7 +60,7 @@ No lexical wording was changed during this batch. Scans 13–15 and 19 retain th
 | 26 | 9 | new `ஆட்சிமொழிக் காவலர் இராமலிங்கனார்` section confirmed: three-line framed heading, prose below, physical continuation into scan 27 and centered page number 9; no structural correction required |
 | 27 | 10 | continuation/conclusion of `ஆட்சிமொழிக் காவலர் இராமலிங்கனார்` confirmed with no repeated heading, full prose page and centered page number 10; no structural correction required |
 | 28 | 11 | new `ஆசிரியர் சாவி` section confirmed: framed name heading, prose below and centered page number 11; no structural correction required |
-| 29 | 12 | new `டாக்டர் மெ.சுந்தரம்` section confirmed: framed name heading, prose below and centered page number 12; no structural correction required |
+| 29 | 12 | new `டாக்டர் மெ.சுந்தரம்` section confirmed: framed name heading, prose below and centered printed page number 12; no structural correction required |
 | 30 | 13 | new `டாக்டர் மா.நன்னன்` section confirmed: framed name heading, prose below, distinct quoted-example blocks within the prose relationship and centered page number 13; no structural correction required |
 | 31 | 14 | `கலைஞர் ஏற்புரை` opening confirmed: ornate framed section heading, dense prose beneath and centered printed page number 14; no structural correction required |
 | 32 | — | full-page `கலைஞரின் / குறளோவியம்` section-title composition confirmed, with `கலைஞரின்` high on the page and `குறளோவியம்` low on the page as separate display-title elements; no structural correction required |
@@ -128,10 +128,30 @@ Five page records — scans **45, 48, 50, 52 and 54** — received source-suppor
 
 Six page records — scans **56, 58, 60, 62, 64 and 66** — received source-supported structural-only corrections to restore the physical illustration-before-text order visible in the controlling scans. **No lexical wording was changed.** Scans 57, 59, 61, 63 and 65 required no page-record correction.
 
+## Batch 7 — overall scans 67–77
+
+**Status: COMPLETE — 11 / 11 scans directly compared with the rendered source for meaningful visual-text fidelity.**
+
+| Scan | Printed page | Pass 3 result |
+|---:|---|---|
+| 67 | 50 | கார்மேகம் / பூவழகி field vignette conclusion confirmed with dialogue, distinct `பயனில்சொல் பாராட்டு வானை...` Kural, authority/song metadata, glosses and page furniture; no structural correction required |
+| 68 | 51 | royal-council vignette opening confirmed: large three-figure court illustration is physically above the prose; handwritten `12800` and lower-margin library stamp remain separated as non-body marks; page record structurally corrected so the visual-material block precedes the prose |
+| 69 | 52 | royal-council dialogue continuation/conclusion confirmed with minister/commander speeches, distinct `பழுதெண்ணும் மந்திரியிற்...` Kural, authority/song metadata and page furniture; no structural correction required |
+| 70 | 53 | beauty/eyes vignette opening confirmed: large woman/eyes/flowers illustration is physically above the `காணிற் குவளை...` Kural and explanatory prose; page record structurally corrected so the visual-material block precedes the text |
+| 71 | 54 | beauty/eyes continuation confirmed with prose, two distinct Kural blocks, paired authority/song references, lower chariot/monument illustration and page furniture; no structural correction required |
+| 72 | 55 | imprisoned freedom-fighter vignette opening confirmed: large captive/warrior court illustration is physically above the prose and continues into scan 73; page record structurally corrected so the visual-material block precedes the prose |
+| 73 | 56 | freedom-fighter continuation/conclusion confirmed with quoted speech, assembly-response prose, distinct `அவையறியார் சொல்லல்மேற் கொள்பவர்...` Kural, authority/song metadata and page furniture; no structural correction required |
+| 74 | 57 | robbed travelling-family vignette opening confirmed: large family/fruit illustration is physically above the prose and dialogue and continues into scan 75; page record structurally corrected so the visual-material block precedes the prose |
+| 75 | 58 | travelling-family vignette conclusion confirmed with fruit-seller dialogue, gratitude/charity explanation, distinct `அற்றார் அழிபசி தீர்த்தல்...` Kural, authority/song metadata and page furniture; no structural correction required |
+| 76 | 59 | oppressive-rule vignette opening confirmed: large agitated/rising-crowd illustration is physically above the prose describing repression and punishment; page record structurally corrected so the visual-material block precedes the prose |
+| 77 | 60 | oppressive-rule/uprising conclusion confirmed with escaped-prisoner narrative, mass uprising, distinct `அல்லற்பட்டு ஆற்றாது அழுதகண் ணீரன்றே...` Kural, authority/song metadata and page furniture; no structural correction required |
+
+Five page records — scans **68, 70, 72, 74 and 76** — received source-supported structural-only corrections to restore the physical illustration-before-text order visible in the controlling scans. **No lexical wording was changed.** Scans 67, 69, 71, 73, 75 and 77 required no page-record correction.
+
 ## Current Pass 3 frontier
 
-Part 001 Pass 3 meaningful visual-text verification is complete through **overall scan 66**.
+Part 001 Pass 3 meaningful visual-text verification is complete through **overall scan 77**.
 
-**Exact next batch: overall scans 67–77.**
+**Exact next batch: overall scans 78–88.**
 
 Known source limitations remain source-limited. In particular, scans **13–15** contain handwritten/facsimile bodies; Pass 3 verifies their visible heading/layout/non-text relationships but does not reconstruct unreadable handwriting. Scan **19** contains a physically washed-out/faint printed region and remains source-limited rather than reconstructed from context.
