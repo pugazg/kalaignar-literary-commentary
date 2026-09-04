@@ -146,6 +146,24 @@ Pass 2B will re-read every printed word against the rendered scan, with special 
 | 76 | 59 | corrected `உலகக்கூடத்திலே` → `உலைக்கூடத்திலே`; restored source wording including `கூறிக்கொண்டே`, `கட்டுப்பாட்டுத் திட்டமும்`, `கூறுவதுண்டல்லவா`, `கேட்டாமலிருந்தால்கூட`, `நிறுத்தப்பட்டு வஞ்சம் தீர்க்கப்படுவதும்`, `கொடுமைபுரியில்`, `சீரழிந்து கொண்டிருந்தது`, and `பெற்றுக் கொண்டிருந்தனர்` |
 | 77 | 60 | corrected `அஞ்சியொதுங்கி` → `அஞ்சியொடுங்கி`, `கழுமில்` → `கழுவில்`, `கண்டாரல்லவா?` → `கண்டவரல்லவா?`, and `ஆனா` → source-visible `ஆனை` |
 
+## Batch 8 — overall scans 78–88
+
+**Status: COMPLETE — 11 / 11 scans directly compared with the rendered source scan for Pass 2A.**
+
+| Scan | Printed page | Result |
+|---:|---|---|
+| 78 | 61 | tearful-eyes/love-sickness vignette and `கண்விதுப்பழிதல்` Kural compared directly; wording and printed page metadata confirmed; no correction required |
+| 79 | 62 | old-age/illness vignette opening compared directly; wording, continuation and printed page metadata confirmed; no correction required |
+| 80 | 63 | old-age/gambling comparison, `சூது` Kural and glosses compared directly; wording and printed page metadata confirmed; no correction required |
+| 81 | 64 | `பசப்புறு பருவரல்` vignette opening compared directly; wording, continuation and printed page metadata confirmed; no correction required |
+| 82 | 65 | pallor/mirror vignette conclusion, `பசப்புறுபருவரல்` Kural and citation block compared directly; no correction required |
+| 83 | 66 | corrected `தனது படையினர் படை சூழத்` → source-visible `தனது படையினர் புடை சூழத்` |
+| 84 | 67 | victorious-king/Valluvar continuation, `செங்கோன்மை` Kural and citation block compared directly; no correction required |
+| 85 | 68 | illustrated beauty vignette opening compared directly; wording, continuation and printed page metadata confirmed; no correction required |
+| 86 | 69 | corrected `துடியிடை நெளிவுதேன்?` → `துடியிடை நெளிவதேன்?`, `சுவை பார்த்தபோதேன்?` → `சுவை பார்ப்பதேன்?`, `முழு நிலாக் தோற்றமா?` → `முழு நிலாத் தோற்றமா?`, and `நனைவைத் திட்டுகிறாள்` → source-visible `நனவைத் திட்டுகிறாள்` |
+| 87 | 70 | prince/retired-commander vignette opening compared directly; wording, continuation and printed page metadata confirmed; no correction required |
+| 88 | 71 | prince/retired-commander conclusion, `பெரியாரைப் பிழையாமை` Kural and citation block compared directly; wording and printed page metadata confirmed; no correction required |
+
 ## Batch audit rule
 
 Pass 2A changes only page records where the direct scan comparison finds a source-supported correction or confirms a source limitation requiring a status change. Unchanged page records are not rewritten merely to create commits; their completed Pass 2A result is recorded in this log.
@@ -154,8 +172,8 @@ Pass 2A changes only page records where the direct scan comparison finds a sourc
 
 ## Current Pass 2A frontier
 
-Part 001 Pass 2A textual verification is complete through **overall scan 77**.
+Part 001 Pass 2A textual verification is complete through **overall scan 88**.
 
-**Exact next batch: overall scans 78–88.**
+**Exact next batch: overall scans 89–99.**
 
 Known source-limited pages remain source-limited; do not reconstruct unclear handwriting or physically lost/washed-out printed text from context.
