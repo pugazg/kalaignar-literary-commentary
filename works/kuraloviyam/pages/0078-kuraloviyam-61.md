@@ -14,6 +14,10 @@ source_filename: "TVA_BOK_0065733_குறளோவியம்_part_001_pag
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
 
+## Visual material
+
+Large colour illustration above the prose showing a pair of tearful eyes, with a reclining woman integrated into the lower-left portion of the image.
+
 வெள்ளி மணல் படுக்கையிலே அந்தப் புள்ளி மயில் படுத்திருந்தாள். அந்தச் சயனத்துச் சாயலைத் தூர இருந்து காண்கிறான் அவன். அந்த அழகுமிழும் காட்சியால் உள்ளத்தில் வெல்லப்பாகு தடவிய அவன் கண்களை வாழ்த்துகிறான்; பாராட்டுகிறான்.
 
 குளிர் மொண்டுவரும் தென்றலிலே கதகதப்பு உணர்ச்சி கலந்து வருவதாக அறிகிறான். சிறிது நேரம் சிலையானான். உணர்வு வந்தபின் அசைந்தான். அப்போது அந்த நிலாப் பதுமையைக் காணவில்லை. அவள் போய் விட்டாள்.
@@ -28,9 +32,5 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 > தாஅம் இதற்பட் டது.
 
 அதிகாரம் - 118 - கண்விதுப்பழிதல்; பாடல் - 1176
-
-## Visual material
-
-Large colour illustration above the prose showing a pair of tearful eyes, with a reclining woman integrated into the lower-left portion of the image.
 
 <!-- மூல ஸ்கேன் பக்கம்: 78; அச்சுப் பக்கம்: 61 -->
