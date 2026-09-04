@@ -96,12 +96,30 @@ Pass 2B independently re-reads every source-visible printed word against the ren
 | 54 | 37 | independently confirmed the moon/maiden imagery, prose and Kural `மதியும் மடந்தை...`; no correction required |
 | 55 | 38 | corrected prose `தாமரைக் கண்ணன் உலகம்?` → source-visible `தாமரைக் கண்ணான் உலகம்?`; the quoted Kural already carried source-visible `தாமரைக் கண்ணான் உலகு`; remaining citations confirmed |
 
+## Batch 6 — overall scans 56–66
+
+**Status: COMPLETE — 11 / 11 scans independently re-read against the rendered source for Pass 2B.**
+
+| Scan | Printed page | Result |
+|---:|---|---|
+| 56 | 39 | independently confirmed the illustrated Valluvar/student opening, sword-enmity question and continuation boundary; no correction required |
+| 57 | 40 | corrected source-visible Kural readings `வாள்போல்` → `வாள்போல` and `கேள்போல்` → `கேள்போல`; remaining dialogue, prose and authority/song metadata confirmed |
+| 58 | 41 | independently confirmed `தெய்வந் தொழாஅள்...` and the interpretation opening; no correction required |
+| 59 | 42 | independently confirmed the interpretation continuation, rain Kural, repeated focal Kural and both citation lines; no correction required |
+| 60 | 43 | independent word-level re-read complete across the martial-history opening, quoted boasts, names and continuation boundary; no correction required |
+| 61 | 44 | corrected source-visible spacing `நிர்ணயிக்கப்படக்கூடிய` → `நிர்ணயிக்கப் படக்கூடிய`; remaining martial-history prose, Kural and citation confirmed |
+| 62 | 45 | independently confirmed the illustrated separation-and-longing opening and continuation boundary; no correction required |
+| 63 | 46 | corrected Kural reading `தொடிபொடு` → source-visible `தொடியொடு`; corrected `காட்டப்படுத்துகிறார்` → source-visible `காட்சிப்படுத்துகின்றார்`; remaining prose, two further Kurals and citation metadata confirmed |
+| 64 | 47 | corrected `இருந்து திருநாடு!` → source-visible `இருந்தது திருநாடு!`; remaining `திருநாடு` prose and continuation boundary confirmed |
+| 65 | 48 | independently confirmed the `வளநாடு` comparison, `நாடொறும் நாடி...` Kural and authority/song metadata; no correction required |
+| 66 | 49 | independently confirmed the agricultural vignette opening, including source-visible uncommon `வசந்தப் புறவைகள்போல`, names and continuation boundary; no correction required |
+
 Pages remain `needs-review` because Pass 3 has not yet been performed. No Pass 2B result assigns final `verified` status.
 
 ## Current Pass 2B frontier
 
-Part 001 Pass 2B lexical-fidelity re-read is complete through **overall scan 55**.
+Part 001 Pass 2B lexical-fidelity re-read is complete through **overall scan 66**.
 
-**Exact next batch: overall scans 56–66.**
+**Exact next batch: overall scans 67–77.**
 
 Known source limitations remain source-limited. In particular, scans **13–15** contain handwriting/facsimile bodies that must not be reconstructed, and scan **19** contains a physically washed-out/faint printed region that must not be inferred from context.
