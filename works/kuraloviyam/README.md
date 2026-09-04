@@ -8,7 +8,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
-| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass records through scan 37 |
+| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass records through scan 48 |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -49,21 +49,26 @@ English layer: `works/kuraloviyam/translations/en/`.
 
 This is a **project-created translation**, not an official/publisher English edition.
 
-Permanent cadence:
+Permanent review cadence:
 
 **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
+
+First-pass drafting now follows the user-directed **11 consecutive scan pages per iteration** rule. The final remainder of a Part may be shorter; batch boundaries do not imply literary completion, so cross-page continuations remain open when required.
 
 ## First-pass progress
 
 - **Batch 1 / scans 1–8 — COMPLETE**.
 - **Batch 2 / scans 9–17 — COMPLETE**; scans 13–15 are `source-limited`.
 - **Batch 3 / scans 18–27 — COMPLETE**; scan 19 is `source-limited`.
-- **Batch 4 / scans 28–37 — COMPLETE**: Saavi (28), Dr. Me. Sundaram (29), Dr. Ma. Nannan (30), Kalaignar's Response (31), title leaf (32), intentional blank page (33), and the first four main-sequence pages (34–37).
+- **Batch 4 / scans 28–37 — COMPLETE**.
+- **Batch 5 / scans 38–48 — COMPLETE** — first fixed 11-page batch; main-sequence material from printed pages 21–31, ending with the opening of the seashore-figure episode on scan 48.
+
+The physical continuation **48→49** is intentionally preserved.
 
 Current English counts:
 
-- page records created: **37 / 111**;
-- `draft`: **33**;
+- page records created: **48 / 111**;
+- `draft`: **44**;
 - `source-limited`: **4** — scans 13–15, 19;
 - source-checked: **0**;
 - editorial-reviewed: **0**;
@@ -73,8 +78,8 @@ Current English counts:
 
 **Tamil Part 001: archival-ready / closed.**
 
-**English Part 001: first-pass drafting complete through scan 37.**
+**English Part 001: first-pass drafting complete through scan 48.**
 
-Exact next activity: **English Batch 5 — scans 38–47** from the audited Tamil records. Keep verified-source pages at `draft`, preserve source-supported Kural/verse/quotation and continuation structure, and do not import external or standard English Kural wording.
+Exact next activity: **English Batch 6 — scans 49–59**, exactly 11 consecutive pages from the audited Tamil records.
 
 Do not begin English source-check while first-pass drafting is incomplete. Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
