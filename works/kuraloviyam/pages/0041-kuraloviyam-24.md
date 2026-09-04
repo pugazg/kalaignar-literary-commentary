@@ -14,6 +14,10 @@ source_filename: "TVA_BOK_0065733_குறளோவியம்_part_001_pag
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
 
+## Visual material
+
+Large colour illustration above the prose: a reader with an open book radiating light, surrounded by books and scroll-like forms.
+
 ஒருவனுடைய ஆற்றலைப் புகழும்போது “இவனை வெல்ல உலகத்திலேயே யாரும் இல்லை” என்கிறோம். நமக்கு அந்த ஊர் அளவுக்குத்தான் தெரியும். உலகில் அப்படி ஒரு ஆற்றலாளன் இருக்கிறானா; இல்லையா என்பது தெரியாது! இருந்தாலும் இவனைப் போற்றும்போது உலகையே எதிர்நிறுத்தி மிகைப்படக் கூறுகிறோம்.
 
 ஆற்று வெள்ளத்தில் மூழ்கித் தப்பித்து விடுகிறான் ஒருவன். அவனைப் பார்த்து, “இனிமேல் உன்னை இமயமலையிலேயிருந்து உருட்டிவிட்டாலும் சாக மாட்டாய்!” என்கிறோம். அவன் ஆற்றில் மூழ்கிச் சாகாமல் பிழைத்துக் கொண்டதை அப்படிப் பாராட்டுகிறோமே தவிர, அவனை மலையிலிருந்து உருட்டினால் சாகமாட்டான் என்பது நமக்கு எப்படித் தெரியும்! இருந்தபோதிலும் அவனது உயிரின் வலிமையை மிகைப்படுத்திக் கூறுகிறோம்.
@@ -31,9 +35,5 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 “ஒரு பிறப்பில் கற்றுக்கொள்கிற கல்வியானது, அப்பிறப்பிற்கு மட்டுமின்றி, ஒருவனுக்கு ஏழு பிறப்பிலும் உதவும் தன்மையுடையதாகும்.”
 
 “தம்பி! நீ படிக்கிற படிப்பு உனக்கு ஏழு ஜென்மத்துக்குப் பயன்படும்!”
-
-## Visual material
-
-Large colour illustration above the prose: a reader with an open book radiating light, surrounded by books and scroll-like forms.
 
 <!-- மூல ஸ்கேன் பக்கம்: 41; அச்சுப் பக்கம்: 24 -->
