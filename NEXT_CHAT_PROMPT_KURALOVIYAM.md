@@ -54,23 +54,20 @@ Part 001 has no usable parsed text layer; the rendered source scan is controllin
 
 Part 001 source intake is complete and Pass 1 is complete: **111 / 111 physical scans captured**. Scan 18 begins the main body at printed page 1; scan 111 is printed page 94.
 
-### Part 001 Pass 2A — textual verification through scan 77 COMPLETE
+### Part 001 Pass 2A — textual verification through scan 88 COMPLETE
 
 The durable verification record is:
 
 `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_001.md`
 
-Pass 2A has directly compared overall scans **1–77** against the rendered source.
+Pass 2A has directly compared overall scans **1–88** against the rendered source.
 
-Recent Batch-7 source-supported corrections:
+Recent Batch-8 source-supported corrections:
 
-- scan 69 — authority label `அமைச்சர்` → source-visible `அமைச்சு`;
-- scan 70 — `இருக்குமானால்` → `இருக்குமேயானால்`; `தலைகுனிந்து` → `தலைகவிழ்ந்து`;
-- scan 74 — `பதறிப்போய் குரல்` → source-visible `பதறிப்போய்க் குரல்`;
-- scan 76 — corrected the opening `உலகக்கூடத்திலே` → `உலைக்கூடத்திலே` and restored multiple source-visible words/joinings in the oppressive-rule passage, including `கூறுவதுண்டல்லவா`, `நிறுத்தப்பட்டு வஞ்சம் தீர்க்கப்படுவதும்`, `கொடுமைபுரியில்`, and `சீரழிந்து கொண்டிருந்தது`;
-- scan 77 — `அஞ்சியொதுங்கி` → `அஞ்சியொடுங்கி`; `கழுமில்` → `கழுவில்`; `கண்டாரல்லவா?` → `கண்டவரல்லவா?`; `ஆனா` → `ஆனை`.
+- scan 83 — `தனது படையினர் படை சூழத்` → source-visible `தனது படையினர் புடை சூழத்`;
+- scan 86 — `துடியிடை நெளிவுதேன்?` → `துடியிடை நெளிவதேன்?`; `சுவை பார்த்தபோதேன்?` → `சுவை பார்ப்பதேன்?`; `முழு நிலாக் தோற்றமா?` → `முழு நிலாத் தோற்றமா?`; `நனைவைத் திட்டுகிறாள்` → `நனவைத் திட்டுகிறாள்`.
 
-Scans **67–68, 71–73 and 75** required no page-record textual correction after direct source comparison.
+Scans **78–82, 84–85 and 87–88** required no page-record textual correction after direct source comparison.
 
 Earlier source limitations remain:
 
@@ -88,13 +85,13 @@ Pass 2B must specifically look for character-level confusions such as `ர/ற`,
 If live `main` has not advanced beyond this frontier:
 
 1. continue **Part 001 Pass 2A — textual verification**;
-2. process **overall scans 78–88**;
+2. process **overall scans 89–99**;
 3. compare each existing Markdown page record directly against the rendered source scan;
 4. verify source-visible wording, punctuation, paragraph boundaries, headings, quoted/Kural text, printed-page metadata and separation of printed text from handwriting/stamps/other non-source marks;
 5. correct only what the controlling scan visibly supports;
 6. do not modernize, normalize, silently repair old/uncommon forms, or import a standard Kural reading from memory/web sources;
 7. append results to `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_001.md` without claiming Pass 2B or Pass 3 completion;
 8. preserve genuine source limitations as `partial` / `blocked`; never reconstruct from context;
-9. audit the changed-file set before advancing beyond scan 88.
+9. audit the changed-file set before advancing beyond scan 99.
 
 Do not restart Pass 1. Do not begin Pass 2B until Pass 2A reaches scan 111. Do not begin Pass 3, the Part audit, or English translation before both Pass 2A and Pass 2B are complete.
