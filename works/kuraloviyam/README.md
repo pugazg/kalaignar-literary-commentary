@@ -8,7 +8,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
-| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass records through scan 74 |
+| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass records through scan 89 |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -53,7 +53,7 @@ Permanent review cadence:
 
 **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
 
-First-pass drafting now follows the user-directed **15 consecutive scan pages per iteration** rule beginning with Batch 7. Earlier completed batches retain their historical sizes. The final remainder of a Part may be shorter; batch boundaries do not imply literary completion, so cross-page continuations remain open when required.
+First-pass drafting follows the user-directed **15 consecutive scan pages per iteration** rule beginning with Batch 7. Earlier completed batches retain their historical sizes. The final remainder of a Part may be shorter; batch boundaries do not imply literary completion, so cross-page continuations remain open when required.
 
 ## First-pass progress
 
@@ -63,14 +63,15 @@ First-pass drafting now follows the user-directed **15 consecutive scan pages pe
 - **Batch 4 / scans 28–37 — COMPLETE**.
 - **Batch 5 / scans 38–48 — COMPLETE** — 11-page cadence.
 - **Batch 6 / scans 49–59 — COMPLETE** — 11-page cadence.
-- **Batch 7 / scans 60–74 — COMPLETE** — first 15-page cadence batch; martial history/army qualities, separation and dream longing, Thirunadu/Valanadu governance, human `பதர்`, treacherous minister, beauty/eyes sequence, captured freedom-fighter vignette, and the opening of the travelling-family theft episode.
+- **Batch 7 / scans 60–74 — COMPLETE** — first 15-page cadence batch.
+- **Batch 8 / scans 75–89 — COMPLETE** — 15 pages; travelling-family charity conclusion, oppressive-rule uprising, reproached eyes, old age/gambling comparison, separation pallor, victorious king/just sceptre, dream/waking separation, prince/elder resistance, and the opening love-sickness Kural whose citation continues on scan 90.
 
-The physical continuation **74→75** is intentionally preserved.
+The physical continuation **89→90** is intentionally preserved.
 
 Current English counts:
 
-- page records created: **74 / 111**;
-- `draft`: **70**;
+- page records created: **89 / 111**;
+- `draft`: **85**;
 - `source-limited`: **4** — scans 13–15, 19;
 - source-checked: **0**;
 - editorial-reviewed: **0**;
@@ -80,8 +81,8 @@ Current English counts:
 
 **Tamil Part 001: archival-ready / closed.**
 
-**English Part 001: first-pass drafting complete through scan 74.**
+**English Part 001: first-pass drafting complete through scan 89.**
 
-Exact next activity: **English Batch 8 — scans 75–89**, exactly 15 consecutive pages from the audited Tamil records.
+Exact next activity: **English Batch 9 — scans 90–104**, exactly 15 consecutive pages from the audited Tamil records.
 
 Do not begin English source-check while first-pass drafting is incomplete. Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
