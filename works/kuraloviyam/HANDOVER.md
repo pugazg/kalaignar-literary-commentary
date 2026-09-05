@@ -78,37 +78,48 @@ All **111/111** English page records exist. The permanent source-limited English
 
 ### SC2 — scans 16–30 — COMPLETE
 
-- all 15 Tamil↔English page pairs reviewed;
-- scans **16–18, 20–30**: PASS and promoted to `source-checked`;
-- scan **19**: PASS within securely established source limits and remains `source-limited`;
-- scan 19 retains the explicit washed-out source gap; no reconstruction was attempted;
-- one fidelity correction was made on scan **19**: `மிகப் பலர் அல்லர்` is correctly rendered **“not very many”**; the previous **“not very few”** reversed the source meaning;
-- all other SC2 wording passed without changes;
+- scans **16–18, 20–30**: PASS and `source-checked`;
+- scan **19**: PASS within source limits and remains `source-limited`;
+- scan 19 retains the explicit washed-out source gap;
+- corrected `மிகப் பலர் அல்லர்` to **“not very many”** from the earlier meaning-reversing **“not very few”**;
+- no other SC2 wording changes; external/standard Kural English imported: none.
+
+### SC3 — scans 31–45 — COMPLETE
+
+- all fifteen Tamil↔English page pairs reviewed and PASS;
+- scans **31–45** promoted to `source-checked`;
+- six fidelity adjustments affected seven records:
+  - **34–35**: physical continuation `விஞ்ஞான, / மேதைகள்` realigned across the correct page boundary;
+  - **36**: `வாலறிவன்` transliteration corrected from `Valarivan` to `Vaal-arivan`;
+  - **37–38**: cross-page `படை / கொண்டு தாக்குவது போல் தோன்றும்` repaired to remove duplicated “army” wording;
+  - **39**: `சேர்த்த இன்பம் பேரின்பம்` tightened to “the pleasure added by the sound ... is supreme bliss”;
+  - **40**: unsupported “feeds” removed from the child/gruel sentence; the little hand now “scoops and dips into the gruel”;
+  - **45**: unsupported “attendants” removed; only the source-supported surrounding action remains;
 - external/standard Kural English imported: none.
 
 Current English totals:
 
 - page records: **111/111**;
-- source-check coverage: **30/111**;
-- `source-checked`: **26**;
-- `draft`: **81**;
-- `source-limited`: **4** — scans 13–15, 19; all four have now been reviewed within available evidence;
+- source-check coverage: **45/111**;
+- `source-checked`: **41**;
+- `draft`: **66**;
+- `source-limited`: **4** — scans 13–15, 19; all four have been reviewed within available evidence;
 - editorial-reviewed: **0**;
 - release-ready: **0**.
 
 ## Current exact activity
 
-Proceed with **Part 001 English source-check SC3 — scans 31–45**:
+Proceed with **Part 001 English source-check SC4 — scans 46–60**:
 
 1. fetch live `main` first;
-2. fetch audited Tamil and matching English records for scans **31–45**;
+2. fetch audited Tamil and matching English records for scans **46–60**;
 3. process exactly **15 consecutive scans**;
 4. compare paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual/page function and physical continuations;
 5. promote each record from `draft` to `source-checked` only after it passes;
 6. do not import standard Kural English wording or any external translation;
-7. record any corrections transparently in the relevant English page records;
-8. update `TRANSLATION_STATUS.md`, README/handover/current prompt after SC3;
-9. compare the pre-batch base SHA to the new head and confirm only intended files changed before advancing to scan 46.
+7. record source-check corrections transparently in affected English records and `TRANSLATION_STATUS.md`;
+8. update README/handover/current prompt after SC4;
+9. compare the pre-batch base SHA to the new head and confirm only intended files changed before advancing to scan 61.
 
 Do not begin glossary reconciliation or editorial review until Part 001 source-check is complete.
 
