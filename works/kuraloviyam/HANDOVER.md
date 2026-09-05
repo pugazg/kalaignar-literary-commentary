@@ -8,7 +8,7 @@ Active work: `works/kuraloviyam/`
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work.
+Fetch live `main` first. Preserve any newer durable Kuraloviyam work. Do not reopen closed Part 001 Tamil or English work unless a genuinely new source/provenance issue appears.
 
 ## Source family
 
@@ -31,20 +31,40 @@ English Part 001 is also closed:
 - release report: **APPROVED WITH EXPLICIT SOURCE LIMITATIONS**;
 - final statuses: **107 `release-ready` + 4 `source-limited`**;
 - source-limited scans remain 13, 14, 15, 19;
-- no body text changed at release;
 - no unavailable wording was reconstructed.
 
 Durable English release report:
 
 `works/kuraloviyam/translations/en/reviews/PART_001_ENGLISH_RELEASE_REPORT.md`
 
-## Part 002 — SOURCE SUPPLIED / ACTIVE
+## Part 002 — ACTIVE
 
 Controlling split source:
 
 `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf`
 
-Expected physical extent: **111 pages**, mapped to overall scans **112–222**.
+Source intake: **COMPLETE**.
+
+- local pages: **111**;
+- overall scans: **112–222**;
+- file size: **93,279,161 bytes**;
+- SHA-256: `4397caf9ba405ba65f50865c85e24461ea56bd2efa3dd589d31469877c9a4bda`;
+- no usable parsed text layer;
+- rendered page images are controlling.
+
+Durable intake record:
+
+`works/kuraloviyam/SOURCE_INTAKE_PART_002.md`
+
+### Resolved 111→112 boundary
+
+The real Part 002 source resolves the old split-boundary question:
+
+- scan 111 / printed 94 closes the learned-speaker / `சொல்வன்மை` vignette;
+- scan 112 / printed 95 begins a new illustrated love vignette;
+- **111→112 is a clean vignette boundary**.
+
+Do not reconstruct anything across the split.
 
 ### Standard iteration cadence
 
@@ -56,17 +76,36 @@ Planned scan batches:
 
 Iteration boundaries are workflow boundaries only; never force a source/narrative boundary at an 11-page cutoff.
 
+## P2-01 / Pass 1 — COMPLETE
+
+Processed overall scans **112–122 / printed pages 95–105**.
+
+- page-aligned records created: **11**;
+- all new Part 002 records remain `needs-review` / `visual_fidelity: needs-review`;
+- scan 113 closes the opening love / `ஊடல்` vignette with Chapter 133 / Kural 1330;
+- scans 114–115 close the sculptor/painter vignette with Chapter 41 / Kural 407;
+- scan 116 closes the lemon/liquor/love comparison with Chapter 129 / Kural 1281;
+- scans 117–118 close the Valluvar/student/hunter/deer vignette with Chapter 30 / Kurals 292, 293;
+- scans 119–120 close the husband/wife eyeliner analogy with Chapter 129 / Kural 1285;
+- scans 121–122 begin the merchant/rest-house vignette;
+- scan **118** carries a blue circular library stamp in the lower margin; kept separate from printed prose;
+- scan **123 / printed 106** was inspected only as the batch-boundary witness and confirms **122→123 is a real narrative continuation**.
+
+No standard/published/web Kural wording was imported.
+
 ## Exact current activity
 
-Proceed with **Part 002 intake + P2-01 / overall scans 112–122**:
+Proceed with **P2-02 / Part 002 Pass 1 — overall scans 123–133**:
 
 1. fetch live `main`;
-2. verify the supplied file has 111 physical pages and record source identity/provenance;
-3. compare Part 001 scan 111 with Part 002 scan 112 and resolve the previously deferred **111→112** boundary from actual source evidence;
-4. preserve overall scan numbering beginning at 112;
-5. create/update Part 002 source-intake and page-map controls;
-6. process exactly scans **112–122** source-first;
-7. capture visible Tamil wording, Kural/chapter metadata, page function, images/non-body marks and cross-page continuations without reconstruction;
-8. update the frontier to **123–133** after P2-01 is durably committed.
+2. preserve the known scan **122→123** continuation;
+3. process exactly scans **123–133** from the rendered Part 002 source;
+4. create one Tamil page record per scan with overall `scan_page`, `part: 2`, local `part_page`, printed pagination, page function, visual notes and visible Tamil text;
+5. copy any Kural/chapter metadata only from the source image;
+6. keep first-pass statuses as `needs-review`;
+7. inspect scan **134** only as the closing boundary witness when needed;
+8. update the durable frontier to **134–144** after P2-02 is committed.
 
-Do not import standard Kural wording, another edition, web text or memory to fill uncertain readings.
+Do not import OCR guesses, another edition, standard Kural text, web material or memory to fill uncertain readings.
+
+Part 003 must not begin until Part 002 is fully closed.

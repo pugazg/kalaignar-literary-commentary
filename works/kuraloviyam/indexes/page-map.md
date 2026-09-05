@@ -8,8 +8,8 @@ Individual Markdown records under `../pages/` are authoritative for exact captur
 
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
-| 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil archival-ready / CLOSED** |
-| 002 | 112–222 | 1–111 | not yet inspected | not-started; source not supplied |
+| 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
+| 002 | 112–222 | 1–111 | scan 112 / printed 95; P2-01 through scan 122 / printed 105; scan 123 / printed 106 inspected as boundary witness | **source intake complete; Pass 1 11/111** |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
@@ -64,6 +64,35 @@ The partial states are source-controlled, not unfinished workflow:
 
 Do not reconstruct those readings from context, OCR, web text or a standard edition.
 
+## Part 002 boundary resolution
+
+The real Part 002 source resolves the previously deferred split boundary.
+
+- scan **111 / printed 94** closes the learned-speaker / `சொல்வன்மை` vignette with Kurals 648 and 650;
+- scan **112 / printed 95** begins a new illustrated love vignette;
+- **111→112 is therefore a clean vignette boundary**.
+
+No missing sentence or narrative continuation is inferred across the split.
+
+## Part 002 physical map — current Pass 1 coverage
+
+P2-01 created **11 page-aligned records**, scans **112–122 / printed 95–105**.
+
+| Overall scans | Printed pages | Source role / observed boundary | Pass 1 state |
+|---:|---:|---|---|
+| 112–113 | 95–96 | love / `ஊடல்` vignette; closes with Chapter 133 / Kural 1330 | needs-review |
+| 114–115 | 97–98 | sculptor/painter vignette; closes with Chapter 41 / Kural 407 | needs-review |
+| 116 | 99 | lemon/liquor/love comparison; Chapter 129 / Kural 1281 | needs-review |
+| 117–118 | 100–101 | Valluvar/student/hunter/deer vignette; Chapter 30 / Kurals 292, 293 | needs-review |
+| 119–120 | 102–103 | husband/wife and eyeliner analogy; Chapter 129 / Kural 1285 | needs-review |
+| 121–122 | 104–105 | merchant/rest-house vignette begins | needs-review |
+
+Additional physical notes:
+
+- scan **118 / printed 101** carries a blue circular library stamp in the lower margin; it is recorded as non-body material;
+- scan **123 / printed 106** was inspected only as the P2-01 boundary witness;
+- scan **122→123** is a genuine narrative continuation of the merchant/rest-house vignette, so the 11-scan cutoff is not a source boundary.
+
 ## Verification gates
 
 Part 001:
@@ -75,24 +104,28 @@ Part 001:
 - Pass 3 — COMPLETE, 111/111;
 - Part audit — PASS;
 - final page-status synchronization — PASS;
-- Tamil archival-ready checkpoint — **CLOSED**.
+- Tamil archival-ready checkpoint — **CLOSED**;
+- English workflow / release — **CLOSED**.
 
-Detailed verification/provenance records:
+Detailed Part 001 verification/provenance records:
 
 - `../PASS2_TEXTUAL_VERIFICATION_PART_001.md`
 - `../PASS2B_LEXICAL_FIDELITY_PART_001.md`
 - `../PASS3_VISUAL_TEXT_VERIFICATION_PART_001.md`
 - `../PART_001_AUDIT.md`
 - `../PART_001_FINAL_STATUS_SYNC.md`
+- `../translations/en/reviews/PART_001_ENGLISH_RELEASE_REPORT.md`
 
-## Boundary rule
+Part 002:
 
-Scan **111 / printed 94** is the final physical scan of supplied Part 001. The external **111 → 112** continuity check is deferred until the Part 002 source is supplied. Do not derive or invent scan 112 content or printed pagination.
+- source intake — **COMPLETE**;
+- Pass 1 — **11/111 complete**, scans 112–122;
+- Pass 2A / 2B / 3 — not started.
 
 ## Current frontier
 
-**Part 001 Tamil: archival-ready / CLOSED.**
+**Part 001: CLOSED.**
 
-Next content stage: **Part 001 project-created English translation/review workflow from audited Tamil records.**
+**Part 002: ACTIVE — source intake complete; P2-01 / Pass 1 scans 112–122 complete.**
 
-Part 002 / scans 112–222 is not started and must not begin until the required Part 001 closure workflow is complete and the Part 002 source is supplied.
+Exact next activity: **P2-02 / Pass 1 scans 123–133**, preserving the scan 122→123 continuation and using scan 134 only as a boundary witness when necessary.

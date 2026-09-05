@@ -15,8 +15,8 @@ The original source PDF is reported as **666 physical PDF pages**. Because the o
 
 | Part | Overall scans | Local pages | Exact supplied filename | Current state |
 |---|---:|---:|---|---|
-| 001 | 1–111 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | supplied; source intake complete |
-| 002 | 112–222 | 111 | not yet supplied / exact filename not yet established | not-started |
+| 001 | 1–111 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | supplied; Tamil/English closed |
+| 002 | 112–222 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | **supplied; source intake complete; Pass 1 112–122 complete** |
 | 003 | 223–333 | 111 | not yet supplied / exact filename not yet established | not-started |
 | 004 | 334–444 | 111 | not yet supplied / exact filename not yet established | not-started |
 | 005 | 445–555 | 111 | not yet supplied / exact filename not yet established | not-started |
@@ -58,11 +58,31 @@ Source-intake observations:
 - scan 111: printed page **94**;
 - local page count confirmed: **111**.
 
-Detailed printed-page continuity and exact per-page section mapping remain Pass-1/page-map work and must be source-confirmed page by page.
+## Part 002 source identity and provenance
+
+Controlling split:
+
+`TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf`
+
+- local page count: **111**;
+- overall scans: **112–222**;
+- file size: **93,279,161 bytes**;
+- SHA-256: `4397caf9ba405ba65f50865c85e24461ea56bd2efa3dd589d31469877c9a4bda`;
+- no usable parsed text layer is exposed; rendered page images remain controlling;
+- local page 1 / overall scan 112 carries printed page **95**;
+- local page 12 / overall scan 123 carries printed page **106** and has been inspected as the first-batch boundary witness.
+
+The previously deferred **111→112** boundary is now resolved from the supplied source: scan 111 closes the learned-speaker / `சொல்வன்மை` vignette, while scan 112 begins a new illustrated love vignette. It is a clean vignette boundary; no split text is reconstructed.
+
+P2-01 has captured scans **112–122 / printed 95–105**. The merchant/rest-house vignette begun on scans 121–122 continues into scan **123 / printed 106**, proving that the user-set 11-page cadence is only a workflow boundary.
+
+Detailed Part 002 intake record:
+
+`works/kuraloviyam/SOURCE_INTAKE_PART_002.md`
 
 ## Front-matter observations
 
-Visible source structure includes:
+Visible source structure in Part 001 includes:
 
 - `முகப்புரை` beginning at scan 4;
 - `மதிப்புரை` beginning at scan 9;
@@ -71,11 +91,13 @@ Visible source structure includes:
 - a photograph page immediately before the final front-matter publisher note;
 - main-body transition at scan 18.
 
+Part 002 continues the main `கலைஞரின் குறளோவியம்` illustrated/body sequence.
+
 Do not treat handwriting, signatures, library marks or accession annotations as ordinary printed body prose.
 
 ## Text-layer limitation
 
-The supplied Part 001 exposes **no usable parsed text layer** in the file environment. Rendered scan images are therefore mandatory for transcription and verification.
+The supplied Part 001 and Part 002 splits expose **no usable parsed text layer** in the file environment. Rendered scan images are therefore mandatory for transcription and verification.
 
 OCR or model-generated readings may not override the scan.
 

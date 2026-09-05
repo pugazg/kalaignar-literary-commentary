@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
 | 001 | 1–111 | supplied | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | intake / processing active |
+| 002 | 112–222 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | **intake complete; Pass 1 112–122 complete (11/111)** |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
 | 005 | 445–555 | not yet supplied | not-started |
@@ -45,11 +45,30 @@ Durable release report:
 
 # Part 002 — ACTIVE
 
-Supplied source:
+Controlling source:
 
 `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf`
 
-Expected extent: **111 physical scans**, corresponding to overall scans **112–222**.
+Source intake is **COMPLETE**:
+
+- local pages: **111**;
+- overall scans: **112–222**;
+- file size: **93,279,161 bytes**;
+- SHA-256: `4397caf9ba405ba65f50865c85e24461ea56bd2efa3dd589d31469877c9a4bda`;
+- no usable parsed text layer; rendered source pages are controlling;
+- scan **112 / printed 95** is local page 1.
+
+Durable intake record:
+
+`works/kuraloviyam/SOURCE_INTAKE_PART_002.md`
+
+## Resolved split boundary
+
+The old **111→112** open check is now resolved from the real Part 002 source:
+
+- scan 111 closes the learned-speaker / `சொல்வன்மை` vignette;
+- scan 112 starts a new illustrated love vignette;
+- therefore the split is a **clean vignette boundary**.
 
 ## Standard iteration size
 
@@ -57,8 +76,8 @@ Part 002 uses **11 physical scans per iteration** as the standard cadence.
 
 Planned batches:
 
-- P2-01: **112–122**
-- P2-02: **123–133**
+- P2-01: **112–122** — COMPLETE
+- P2-02: **123–133** — NEXT
 - P2-03: **134–144**
 - P2-04: **145–155**
 - P2-05: **156–166**
@@ -71,8 +90,19 @@ Planned batches:
 
 Do not allow the 11-page work cadence to create artificial textual or narrative boundaries; page continuations must follow the source.
 
+## P2-01 / Pass 1 result
+
+**COMPLETE — scans 112–122 / printed pages 95–105.**
+
+- 11 page-aligned Tamil records created under `works/kuraloviyam/pages/`;
+- all remain `status: "needs-review"` and `visual_fidelity: "needs-review"` as required for Pass 1;
+- Kural/chapter metadata captured from the source-visible edition only;
+- scan 118's blue circular library stamp is recorded as non-body material;
+- scan 123 / printed 106 was inspected only as a boundary witness;
+- **122→123 is a real narrative continuation** of the merchant/rest-house vignette.
+
 ## Current frontier
 
-Exact next activity: **Part 002 source intake + first source-first iteration, overall scans 112–122**.
+Exact next activity: **P2-02 / Part 002 Pass 1, overall scans 123–133**.
 
-The first intake action must verify the real **111→112** boundary from the supplied Part 002 source. Do not reconstruct or infer any missing text across that split.
+Begin from the already confirmed continuation at scan 123. Process exactly 11 scans and inspect scan 134 only when needed as the closing boundary witness. Do not reconstruct uncertain text from OCR, context, another edition, standard Kural wording, web material or memory.

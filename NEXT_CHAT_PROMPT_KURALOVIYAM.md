@@ -30,9 +30,27 @@ Durable release report:
 
 `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf`
 
-Part 002 corresponds to overall scans **112–222** and contains 111 physical pages.
+Part 002 corresponds to overall scans **112–222** and contains **111 physical pages**.
+
+Provenance:
+
+- size: **93,279,161 bytes**;
+- SHA-256: `4397caf9ba405ba65f50865c85e24461ea56bd2efa3dd589d31469877c9a4bda`;
+- no usable parsed text layer; rendered source pages are controlling.
+
+Durable intake:
+
+`works/kuraloviyam/SOURCE_INTAKE_PART_002.md`
 
 Repository `scan_page` continues the overall sequence; it does not restart at 1 for this split.
+
+## Resolved Part boundary
+
+The real Part 002 source resolves **111→112**:
+
+- scan 111 closes the learned-speaker / `சொல்வன்மை` vignette;
+- scan 112 begins a new illustrated love vignette;
+- **clean vignette boundary**, with no reconstructed split text.
 
 ## Standard Part 002 cadence
 
@@ -42,18 +60,40 @@ Use **11 physical scans per iteration**:
 
 The 11-page boundary is only a work-batching rule. Preserve source continuations across batch boundaries.
 
+## Completed Part 002 work
+
+### Source intake — COMPLETE
+
+Part 002 identity, 111-page extent, provenance and split boundary are durably recorded.
+
+### P2-01 / Pass 1 — COMPLETE
+
+Scans **112–122 / printed 95–105** are captured as 11 page-aligned Tamil records.
+
+All remain:
+
+- `status: "needs-review"`;
+- `visual_fidelity: "needs-review"`.
+
+Important continuity:
+
+- scan 121 starts the merchant/rest-house vignette;
+- scan 122 continues it;
+- scan **123 / printed 106** was inspected only as a boundary witness;
+- **122→123 is a genuine narrative continuation**, not a workflow break.
+
 ## Exact next activity
 
-Execute **Part 002 source intake + first batch P2-01, overall scans 112–122**.
+Execute **P2-02 / Part 002 Pass 1, overall scans 123–133**.
 
-Before writing page records:
-
-1. verify live `main` and read `works/kuraloviyam/HANDOVER.md`, `works/kuraloviyam/README.md`, `works/kuraloviyam/indexes/page-map.md`, `KURALOVIYAM_ARCHIVAL_GUIDELINES.md`, and the relevant processing guide;
-2. verify the attached Part 002 source identity and 111-page extent;
-3. compare Part 001 scan 111 with Part 002 scan 112 and resolve the previously deferred **111→112** boundary from the actual source;
-4. create/update Part 002 source-intake/provenance controls;
-5. process exactly overall scans **112–122** source-first, capturing Tamil body text, Kural/chapter metadata, visual/non-body material, page function and continuations;
-6. do not reconstruct uncertain readings from OCR, context, another edition, standard Kural text, web material or memory;
-7. commit the batch and update the next frontier to **123–133**.
+1. fetch live `main` and preserve newer durable work;
+2. read `works/kuraloviyam/HANDOVER.md`, `works/kuraloviyam/README.md`, `works/kuraloviyam/SOURCE_INTAKE_PART_002.md`, `works/kuraloviyam/indexes/page-map.md`, `works/kuraloviyam/metadata/source.md`, and `works/kuraloviyam/metadata/transcription-policy.md`;
+3. begin scan 123 as continuation of the merchant/rest-house vignette from scan 122;
+4. process exactly scans **123–133** source-first;
+5. capture visible Tamil wording, Kural/chapter metadata, page function, images/non-body marks and continuations;
+6. keep Pass 1 records `needs-review`; do not silently verify them;
+7. do not reconstruct uncertain readings from OCR, context, another edition, standard Kural text, web material or memory;
+8. inspect scan **134** only as a closing boundary witness when needed;
+9. commit the batch and update the next frontier to **134–144**.
 
 Part 003 must not begin until Part 002 is fully closed.
