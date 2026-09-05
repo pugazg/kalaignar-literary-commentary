@@ -69,77 +69,46 @@ All **111/111** English page records exist. The permanent source-limited English
 
 ## Source-check progress
 
-### SC1 — scans 1–15 — COMPLETE
-
-- scans **1–12**: PASS and `source-checked`;
-- scans **13–15**: PASS within securely established source limits and remain `source-limited`.
-
-### SC2 — scans 16–30 — COMPLETE
-
-- scans **16–18, 20–30**: PASS and `source-checked`;
-- scan **19**: PASS within source limits and remains `source-limited`;
-- corrected `மிகப் பலர் அல்லர்` to **“not very many”** from the earlier meaning-reversing **“not very few.”**
-
-### SC3 — scans 31–45 — COMPLETE
-
-- all fifteen pages PASS and are `source-checked`;
-- six fidelity adjustments affected seven records; full detail is retained in `translations/en/TRANSLATION_STATUS.md`.
-
-### SC4 — scans 46–60 — COMPLETE
-
-- all fifteen Tamil↔English page pairs reviewed and PASS;
-- scans **46–60** promoted to `source-checked`;
-- three fidelity adjustments are documented in `translations/en/TRANSLATION_STATUS.md`;
-- no external/standard Kural English imported.
-
-### SC5 — scans 61–75 — COMPLETE
-
-- all fifteen Tamil↔English page pairs reviewed and PASS;
-- scans **61–75** promoted to `source-checked`;
-- four fidelity adjustments are documented in `translations/en/TRANSLATION_STATUS.md`;
-- no unreadable source material reconstructed;
-- no external/standard Kural English imported.
-
-### SC6 — scans 76–90 — COMPLETE
-
-- all fifteen Tamil↔English page pairs reviewed and PASS;
-- scans **76–90** promoted to `source-checked`;
-- six fidelity adjustments affected seven records:
-  - scan **79**: corrected the old-age bodily image so the feet, not a “step,” are swollen and cracked;
-  - scans **81–82**: repaired the physical mirror continuation and removed duplicated action;
-  - scans **85–86**: removed unsupported **“come alive”** and realigned the physical beauty-description continuation;
-  - scan **86**: restored the ear/music sense of `காதாரப் பண்பாடும் குயில்`;
-  - scan **87**: restored source force with **“slaves”** and **“lackeys”** for `அடிமைகள்` / `எடுபிடிகள்`;
-  - scan **88**: removed unsupported **“a hundred times”** from the elder's speech;
-- no unreadable source material reconstructed;
-- no external/standard Kural English imported.
+- **SC1 / 1–15 — COMPLETE**: 1–12 `source-checked`; 13–15 reviewed and remain `source-limited`.
+- **SC2 / 16–30 — COMPLETE**: 16–18, 20–30 `source-checked`; 19 reviewed and remains `source-limited`; corrected `மிகப் பலர் அல்லர்` to **“not very many.”**
+- **SC3 / 31–45 — COMPLETE**: all fifteen PASS; six fidelity-adjustment groups documented in `TRANSLATION_STATUS.md`.
+- **SC4 / 46–60 — COMPLETE**: all fifteen PASS; three fidelity adjustments documented.
+- **SC5 / 61–75 — COMPLETE**: all fifteen PASS; four fidelity adjustments documented.
+- **SC6 / 76–90 — COMPLETE**: all fifteen PASS; six fidelity-adjustment groups affecting seven records documented.
+- **SC7 / 91–105 — COMPLETE**: all fifteen PASS; eight fidelity-adjustment groups affected eleven records:
+  - scan **91**: removed unsupported “softly”; preserved `இதழ் அசைவது தெரியாமல்` as **“without his lips seeming to move”**;
+  - scans **93–94**: repaired `உட்கார்ந்து / கொண்டாள்` continuation and removed duplicated “sat” action;
+  - scan **95**: removed unsupported **“young”** from source `அழகிய பெண்`;
+  - scan **96**: corrected the reversed `இட்டடி நோக எடுத்தடி கொப்பளிக்க` image and removed unsupported **“embarrassed”** from `ஹஹா-ம்`;
+  - scans **99–100**: restored the physical split across `தூங்கக்கூட விட மாட்டார்கள் / போலிருக்கிறதே`;
+  - scan **101**: removed unsupported **“parents”** and **“slowly”**;
+  - scan **103**: corrected the pleading address `என் உயிரல்ல, என் இன்பமல்ல` to **“My life! My joy!”** rather than contradictory literal negation;
+  - scans **104–105**: repaired the physical continuation across `தனது / குதிரையின்மீது` and removed duplicated mounting action.
+- unreadable source material reconstructed: **none**;
+- external/standard Kural English imported: **none**.
 
 Current English totals:
 
 - page records: **111/111**;
-- source-check coverage: **90/111**;
-- `source-checked`: **86**;
-- `draft`: **21**;
-- `source-limited`: **4** — scans 13–15, 19; all four have been reviewed within available evidence;
+- source-check coverage: **105/111**;
+- `source-checked`: **101**;
+- `draft`: **6** — scans 106–111;
+- `source-limited`: **4** — scans 13–15, 19; all four reviewed within available evidence;
 - editorial-reviewed: **0**;
 - release-ready: **0**.
 
 ## Current exact activity
 
-Proceed with **Part 001 English source-check SC7 — scans 91–105**:
+Proceed with **Part 001 English source-check final remainder SC8 — scans 106–111**:
 
 1. fetch live `main` first;
-2. fetch audited Tamil and matching English records for scans **91–105**;
-3. process exactly **15 consecutive scans**;
+2. fetch audited Tamil and matching English records for scans **106–111**;
+3. process the remaining **6 consecutive scans**; this is the permitted final remainder under the 15-page cadence;
 4. compare paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual/page function and physical continuations;
 5. promote each record from `draft` to `source-checked` only after it passes;
 6. do not import standard Kural English wording or any external translation;
 7. record source-check corrections transparently in affected English records and `TRANSLATION_STATUS.md`;
-8. update README/handover/current prompt after SC7;
-9. compare the pre-batch base SHA to the new head and confirm only intended files changed before advancing to the final source-check remainder, scans **106–111**.
+8. update README/handover/current prompt after SC8;
+9. audit the complete Part 001 source-check state before starting glossary / recurring-terminology reconciliation.
 
-Do not begin glossary reconciliation or editorial review until Part 001 source-check is complete.
-
-## Part 002
-
-Part 002 / scans **112–222** is not started and its source is not supplied. Do not begin it until Part 001 English/final closure is complete.
+Do not begin Part 002 until Part 001 English/final closure is complete and Part 002 source is supplied.
