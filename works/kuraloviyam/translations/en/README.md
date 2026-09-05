@@ -54,21 +54,22 @@ Part 001 English:
 - page-aligned first-pass translation: **111/111 COMPLETE**;
 - source-check: **111/111 COMPLETE**;
 - glossary / recurring-terminology reconciliation: **111/111 COMPLETE**;
-- editorial review: **75/111 scans reviewed at the gate** — ER1 scans 1–15, ER2 scans 16–30, ER3 scans 31–45, ER4 scans 46–60 and ER5 scans 61–75 COMPLETE;
-- page statuses after ER5: **71 `editorial-reviewed` + 36 `source-checked` + 4 `source-limited`**;
+- editorial review: **90/111 scans reviewed at the gate** — ER1 scans 1–15, ER2 scans 16–30, ER3 scans 31–45, ER4 scans 46–60, ER5 scans 61–75 and ER6 scans 76–90 COMPLETE;
+- page statuses after ER6: **86 `editorial-reviewed` + 21 `source-checked` + 4 `source-limited`**;
 - `draft`: **0**;
 - source-limited scans: **13, 14, 15, 19**; all have been reviewed within securely established material for the editorial batches that include them and remain `source-limited`;
 - ER1 readability refinements: scans **5 and 6**;
 - ER2 readability refinements: scans **20, 21, 24 and 28**;
 - ER3 readability refinements: scans **36, 42, 43 and 44**;
 - ER4 readability refinements: scans **46, 50 and 60**;
-- ER5 readability refinements: scans **61, 68, 73 and 74**; all other ER5 pages required status promotion only;
-- ER5 preserved the **60→61, 62→63, 64→65, 68→69, 72→73 and 74→75** continuities; **75→76** was boundary-checked and begins a new vignette on scan 76;
+- ER5 readability refinements: scans **61, 68, 73 and 74**;
+- ER6 readability refinements: scans **78, 79 and 80**; all other ER6 pages required status promotion only;
+- ER6 preserved the **76→77, 79→80, 81→82, 83→84, 85→86, 87→88 and 89→90** continuities; **90→91** was boundary-checked and scan 91 begins a new vignette;
 - no unreadable source material was reconstructed;
 - no standard/published/web English Kural wording was imported;
 - release-ready: **0**.
 
-The exact next gate is **editorial consistency review ER6 — scans 76–90**, exactly 15 consecutive scans. Passing pages may move from `source-checked` to `editorial-reviewed`.
+The exact next gate is **editorial consistency review ER7 — scans 91–105**, exactly 15 consecutive scans. Passing pages may move from `source-checked` to `editorial-reviewed`.
 
 See `TRANSLATION_STATUS.md` for the authoritative English frontier.
 
