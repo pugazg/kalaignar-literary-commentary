@@ -71,13 +71,27 @@ Result:
   - scan **45**: removed the unsupported specification “attendants” from `புடைசூழ...`; the English now retains only “surrounded on all sides.”
 - no external/standard Kural wording was imported.
 
+### SC4 — scans 46–60 — COMPLETE
+
+Compared all fifteen English records against the audited Tamil records for prose/dialogue/Kural coverage, names, page function, omissions, additions, meaning drift and physical continuation.
+
+Result:
+
+- scans **46–60** — PASS and promoted from `draft` to `source-checked`;
+- three fidelity adjustments were required:
+  - scan **47**: removed the unsupported insult **“Fool!”** for Tamil `அடே!`; the exclamation is now rendered neutrally as **“Why!”** without adding a characterization absent from the source;
+  - scan **53**: removed the unsupported religious specification **“temple”** from `முகில் தழுவ உயர்ந்து நிற்கும் கூட கோபுரம்`; the English now says **“lofty towers rising to touch the clouds”**;
+  - scan **55**: refined `மெய்மறந்து` from the potentially misleading **“lost in himself”** to the source-faithful **“forgetting himself”**;
+- no other SC4 wording changes were required;
+- no external/standard Kural wording was imported.
+
 ## Current counts
 
 - English page records: **111 / 111**;
 - first-pass drafting: **COMPLETE**;
-- source-check coverage: **45 / 111** physical scans reviewed;
-- `source-checked`: **41**;
-- `draft`: **66**;
+- source-check coverage: **60 / 111** physical scans reviewed;
+- `source-checked`: **56**;
+- `draft`: **51**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - source-limited records reviewed within available evidence: **4 / 4**;
 - editorial-reviewed: **0**;
@@ -85,13 +99,13 @@ Result:
 
 ## Exact next activity
 
-Begin **Part 001 English source-check Batch SC4 — scans 46–60** against the audited Tamil records.
+Begin **Part 001 English source-check Batch SC5 — scans 61–75** against the audited Tamil records.
 
 - process exactly **15 consecutive scans**;
 - compare each English page paragraph-by-paragraph / block-by-block against its audited Tamil page for omissions, additions, meaning drift, names, quotations, Kural blocks, visual/page function and physical continuations;
-- scans **46–60** have verified Tamil archival records under the current Part 001 status map and may move from `draft` to `source-checked` only after each passes;
+- scans **61–75** have verified Tamil archival records under the current Part 001 status map and may move from `draft` to `source-checked` only after each passes;
 - do not import standard Thirukkural English wording, web translations, another commentator or memory;
 - record any corrections transparently in the relevant English page records and this status document;
-- update frontier documentation and audit the exact changed-file set before advancing to scan 61.
+- update frontier documentation and audit the exact changed-file set before advancing to scan 76.
 
 Do not begin glossary reconciliation or editorial review until the Part 001 source-check stage is complete.
