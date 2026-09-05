@@ -8,7 +8,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
-| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; English source-check **111/111 complete**; glossary reconciliation next |
+| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; English source-check **111/111 complete**; glossary reconciliation through scan 15 |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -74,8 +74,6 @@ Drafting Batches 1–10 cover scans 1–111.
 - SC7 / scans 91–105 — COMPLETE;
 - SC8 / scans 106–111 — COMPLETE, final 6-page remainder.
 
-SC8 made four fidelity-adjustment groups affecting five records: source-faithful `சே` → **“Tch”** on scan 107; removal of unsupported **“care”** while retaining the `உப்பிட்டு வளர்த்த` salt/feeding image on scan 108; repair of the 109→110 `காலையில் / மலரும் அவர் கண்கள்` continuation with unsupported **“palm-leaf”** removed; and correction of scan 111's `ஏவலை ... விரைந்து கேட்கும்` sense to **“swiftly heeds the bidding”** in both prose and Kural rendering. Full history is in `translations/en/TRANSLATION_STATUS.md`.
-
 Final English source-check statuses:
 
 - page records: **111 / 111**;
@@ -87,12 +85,21 @@ Final English source-check statuses:
 
 No unreadable source material was reconstructed and no external/standard English Kural wording was imported.
 
+## Glossary / recurring-terminology reconciliation
+
+- **GR1 / scans 1–15 — COMPLETE**;
+- all fifteen records were compared against their audited Tamil context and `translations/en/GLOSSARY.md`;
+- English page wording changes required solely for GR1 consistency: **none**;
+- `GLOSSARY.md` was expanded only with source-supported terms/names actually encountered in scans 1–15, including the deliberate distinctions `அணிந்துரை` / `மதிப்புரை` → **Foreword / Critical Appreciation** and `இன்பத்துப்பால்` / `காமத்துப்பால்` → **Book of Inbam / Book of Love**;
+- scans 13–15 remain source-limited and no handwritten terminology was inferred;
+- glossary reconciliation coverage: **15 / 111 scans**.
+
 # Current frontier
 
 **Tamil Part 001: archival-ready / closed.**
 
-**English Part 001: first-pass drafting COMPLETE; source-check COMPLETE.**
+**English Part 001: first-pass drafting COMPLETE; source-check COMPLETE; glossary reconciliation complete through scan 15.**
 
-Exact next activity: **glossary / recurring-terminology reconciliation GR1 — scans 1–15**, exactly 15 consecutive scans. Check recurring names, controlled literary terms, publication/work names, chapter labels and repeated English renderings against `translations/en/GLOSSARY.md` and the audited Tamil context. This gate does not itself promote pages to `editorial-reviewed`; scans 13–15 remain `source-limited`.
+Exact next activity: **glossary / recurring-terminology reconciliation GR2 — scans 16–30**, exactly 15 consecutive scans. Check controlled names, literary terms, chapter labels, work/publication names and repeated English renderings against the expanded glossary and audited Tamil context. This gate does not itself promote pages to `editorial-reviewed`; scan 19 remains `source-limited`.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
