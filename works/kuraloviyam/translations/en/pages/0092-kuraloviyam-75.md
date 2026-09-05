@@ -26,7 +26,7 @@ Valluvar says the same in two lines: “The arrow appears straight, yet performs
 > The arrow is straight yet cruel; the yaazh is curved yet good—  
 > so judge people by the kind of deeds they perform.
 
-Chapter 28 — False Conduct; verse 279
+Chapter 28 — False Conduct; Kural 279
 
 ## Visual material
 
