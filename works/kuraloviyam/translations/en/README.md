@@ -56,11 +56,13 @@ Part 001 English:
 - final source-check statuses: **107 `source-checked` + 4 `source-limited`**;
 - `draft`: **0**;
 - source-limited scans: **13, 14, 15, 19**, all reviewed within available evidence;
-- external/standard Kural English imported: **none**;
+- glossary / recurring-terminology reconciliation: **15/111 scans complete** — GR1 scans 1–15;
+- GR1 required **no English page wording changes**; `GLOSSARY.md` was expanded only from terms and names actually evidenced in the audited batch;
+- external/standard Kural English or terminology imported: **none**;
 - editorial-reviewed: **0**;
 - release-ready: **0**.
 
-The exact next gate is **glossary / recurring-terminology reconciliation**. Under the current 15-page cadence, begin with **GR1 — scans 1–15**. This gate checks controlled names/terms and recurring English renderings; it does not itself promote pages to `editorial-reviewed`.
+The exact next gate is **glossary reconciliation GR2 — scans 16–30**, exactly 15 consecutive scans. This gate checks controlled names/terms and recurring English renderings; it does not itself promote pages to `editorial-reviewed`. Scan 19 remains `source-limited`.
 
 See `TRANSLATION_STATUS.md` for the authoritative English frontier.
 
