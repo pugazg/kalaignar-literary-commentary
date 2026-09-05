@@ -6,16 +6,16 @@ work: "kuraloviyam"
 section: "Principal of Madurai Yadava College — Tamilkudimagan"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains authoritative"
 ---
 
 # Principal of Madurai Yadava College — Tamilkudimagan
 
-If a debate were held on whether the Valluvar Kottam built by Kalaignar or *Kuraloviyam* would endure for a long time, I would speak on the side of *Kuraloviyam*. For buildings, as buildings, may begin to weaken somewhat after a thousand years. But as literature, this is a picture of the ideas created by a literary author many hundreds of years ago in a way that no Tamil scholar has written before.
+If a debate were held on which would endure longer—the Valluvar Kottam built by Kalaignar or *Kuraloviyam*—I would speak on the side of *Kuraloviyam*. Buildings, as buildings, may begin to weaken somewhat after a thousand years. But as literature, *Kuraloviyam* gives pictorial form to ideas created by a literary author many centuries ago in a way no Tamil scholar before Kalaignar had written.
 
-Although more than a hundred people have produced notes and commentaries on the Thirukkural, Kalaignar alone is the leader who has employed a method that makes it settle completely in each person's heart.
+Although more than a hundred people have produced notes and commentaries on the Thirukkural, Kalaignar alone has employed a method that makes it take firm hold in every heart.
 
 The Thirukkural has been prescribed as a subject in schools and colleges. But students do not take it seriously at all. That is not the fault of the Thirukkural; it is the fault of an educational system that has not adopted a method for impressing it upon every student's mind.
 
