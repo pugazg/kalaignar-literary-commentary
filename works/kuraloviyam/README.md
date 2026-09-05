@@ -8,7 +8,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
-| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; source-check through scan 60 |
+| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; source-check through scan 75 |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -67,15 +67,16 @@ Drafting Batches 1–10 cover scans 1–111.
 - **SC2 / scans 16–30 — COMPLETE**: scans 16–18 and 20–30 `source-checked`; scan 19 reviewed within source limits and remains `source-limited`.
 - **SC3 / scans 31–45 — COMPLETE**: all fifteen pages passed and are `source-checked`.
 - **SC4 / scans 46–60 — COMPLETE**: all fifteen pages passed and are `source-checked`.
-- SC4 made three fidelity adjustments: removed unsupported **“Fool!”** for `அடே!` on scan 47, removed unsupported **“temple”** from `கூட கோபுரம்` on scan 53, and refined `மெய்மறந்து` to **“forgetting himself”** on scan 55. Full review history is in `translations/en/TRANSLATION_STATUS.md`.
+- **SC5 / scans 61–75 — COMPLETE**: all fifteen pages passed and are `source-checked`.
+- SC5 made four fidelity adjustments: `துவளுவார்கள்` **“melt” → “wilt”** on scan 67; aligned the country/rule sentence on scan 69 to the audited Tamil sequence; removed unsupported **“smiles”** from `முத்துக்கோவை தரும் பாவை` on scan 71; and removed unsupported **“young”** from `ஒருத்தி` on scan 75. Full review history is in `translations/en/TRANSLATION_STATUS.md`.
 - No unreadable source material was reconstructed and no external/standard English Kural wording was imported.
 
 Current English counts:
 
 - page records: **111 / 111**;
-- source-check coverage: **60 / 111** scans;
-- `source-checked`: **56**;
-- `draft`: **51**;
+- source-check coverage: **75 / 111** scans;
+- `source-checked`: **71**;
+- `draft`: **36**;
 - `source-limited`: **4** — scans 13–15, 19; all four have been source-reviewed within available evidence;
 - editorial-reviewed: **0**;
 - release-ready: **0**.
@@ -84,8 +85,8 @@ Current English counts:
 
 **Tamil Part 001: archival-ready / closed.**
 
-**English Part 001: first-pass drafting COMPLETE; source-check complete through scan 60.**
+**English Part 001: first-pass drafting COMPLETE; source-check complete through scan 75.**
 
-Exact next activity: **English source-check SC5 — scans 61–75**, exactly 15 consecutive pages. Promote each page only after Tamil↔English fidelity review passes.
+Exact next activity: **English source-check SC6 — scans 76–90**, exactly 15 consecutive pages. Promote each page only after Tamil↔English fidelity review passes.
 
 Do not begin glossary reconciliation/editorial review before source-check is complete. Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
