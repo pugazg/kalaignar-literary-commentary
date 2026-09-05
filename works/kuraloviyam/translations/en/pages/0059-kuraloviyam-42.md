@@ -11,7 +11,7 @@ source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-Such interpretations, and interpretations expressing ideas even more regressive than these, have been given for this Kural. The world of reason can accept as fitting the explanation given to this Kural by the revolutionary poet Bharathidasan.
+Such interpretations, and interpretations expressing ideas even more regressive than these, have been given for this Kural. The world of reason can accept as fitting the explanation given to this Kural by Puratchi Kavignar Bharathidasan.
 
 The phrase “rain that falls when told to fall” can only mean rain that is capable of falling the very moment it is asked to. A woman who regards her husband as her god is like such rain. To whom? She is like rain to her husband. And what kind of rain? Rain that falls the moment it is asked to fall.
 
