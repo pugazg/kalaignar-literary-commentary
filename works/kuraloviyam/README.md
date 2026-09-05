@@ -8,7 +8,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
-| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; English source-check **111/111 complete**; glossary reconciliation **111/111 complete**; editorial review through scan 45 |
+| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; English source-check **111/111 complete**; glossary reconciliation **111/111 complete**; editorial review through scan 60 |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -121,22 +121,34 @@ Drafting Batches 1–10 cover scans 1–111.
 - scan **45→46** was boundary-checked; scan 46 was not processed in ER3;
 - no standard/published/web English Kural wording was imported.
 
-Current English page statuses after ER3:
+### ER4 / scans 46–60 — COMPLETE
 
-- `editorial-reviewed`: **41**;
-- `source-checked`: **66**;
+- scans **46–60** passed and were promoted to `editorial-reviewed`;
+- source-faithful readability refinements were made on scans **46, 50 and 60**;
+- scan **46** now reads **“Doesn't every undertaking require certain facilities and opportunities?”** for `எதற்கும் சில வசதி வாய்ப்புகள் வேண்டுமன்றோ?`;
+- scan **50** now renders `பாவம் செய்த ஜென்மம் / புண்ணியம் செய்த ஜென்மம்` as **“a birth marked by sin / a birth marked by merit”**;
+- scan **60** now makes the Chera king's action explicit as **“made them bear the stone upon their crowned heads, brought it back...”**, preserving `அவர்தம் முடியினில் கல்வேற்றி வந்து`;
+- scans **47–49 and 51–59** required no body wording change;
+- the **50→51**, **56→57** and **58→59** physical continuations remain intact;
+- scan **60→61** was boundary-checked; scan 61 was not processed in ER4;
+- no standard/published/web English Kural wording was imported.
+
+Current English page statuses after ER4:
+
+- `editorial-reviewed`: **56**;
+- `source-checked`: **51**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - `draft`: **0**;
 - `release-ready`: **0**.
 
-Editorial-review coverage: **45/111 scans**.
+Editorial-review coverage: **60/111 scans**.
 
 # Current frontier
 
 **Tamil Part 001: archival-ready / closed.**
 
-**English Part 001: first-pass drafting COMPLETE; source-check COMPLETE; glossary reconciliation COMPLETE; editorial review complete through scan 45.**
+**English Part 001: first-pass drafting COMPLETE; source-check COMPLETE; glossary reconciliation COMPLETE; editorial review complete through scan 60.**
 
-Exact next activity: **editorial consistency review ER4 — scans 46–60**, exactly 15 consecutive scans. Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity while preserving audited Tamil meaning. Passing pages may move to `editorial-reviewed`.
+Exact next activity: **editorial consistency review ER5 — scans 61–75**, exactly 15 consecutive scans. Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity while preserving audited Tamil meaning. Passing pages may move to `editorial-reviewed`.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
