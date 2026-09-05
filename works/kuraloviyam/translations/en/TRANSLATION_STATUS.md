@@ -87,7 +87,9 @@ No source-limited material was reconstructed and no standard/published/web Engli
 
 ## Part 001 editorial consistency review
 
-Editorial review checks readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity after source-check and glossary reconciliation. Audited Tamil is consulted whenever an editorial change could affect meaning.
+**COMPLETE — 111 / 111 physical scans reviewed at the editorial gate.**
+
+Editorial review checked readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity after source-check and glossary reconciliation. Audited Tamil was consulted whenever an editorial change could affect meaning.
 
 ### ER1 — scans 1–15 — COMPLETE
 
@@ -143,39 +145,49 @@ Editorial review checks readability, controlled terminology, names, repeated phr
 ### ER7 — scans 91–105 — COMPLETE
 
 - scans **91–105** passed and moved from `source-checked` to `editorial-reviewed`;
-- three source-faithful readability refinements were made:
-  - scan **91**: **“Good nectar to the earth!”** was refined to **“Sweet nectar to the earth!”**, preserving `புவிக்கோர் நல்லமுதே` while making the praise natural in English;
-  - scan **103**: the sentence about the heroine's intended `ஊடல்` was refined to **“Through the lovers' quarrel I meant to stage with him, I wanted to teach him such a lesson that he would never again break a promise”**, preserving the source's resolve without the earlier mechanical phrasing;
-  - scan **105**: the king's battlefield-preparation sentence was streamlined to **“Planning to intercept the enemy on the way and drive them back, the king had his soldiers form ranks at the fort entrance...”**, preserving `எதிரிகளை வழியிலேயே மடக்கித் துரத்திடும் திட்டத்துடன்` and the same military action;
-- scans **92–102 and 104** required no body-text change beyond status promotion;
+- source-faithful readability refinements: scans **91, 103 and 105**;
 - the **91→92**, **93→94**, **95→96**, **97→98**, **99→100→101**, **102→103** and **104→105** physical continuities remain intact;
-- scan **105→106** was boundary-checked: scan 105 closes the Villavan/horse vignette, while scan 106 begins a new Kalingan/Kathiravan vignette; scan 106 was not processed in ER7;
-- controlled forms including **False Conduct**, **yaazh**, **Reproaching the Eyes**, **Education**, **Wasting Away of Bodily Beauty**, **Urkkavalan**, **Freedom from Idleness**, **Loss of Restraint**, **Evil Friendship**, **Thenmozhi**, **Paingili**, **Kayalvizhi**, **Villavan**, and source Kural metadata remain consistent with the completed glossary;
+- scan **105→106** was boundary-checked: scan 105 closes the Villavan/horse vignette, while scan 106 begins a new Kalingan/Kathiravan vignette;
+- no source-limited material was reconstructed and no external Kural wording was imported.
+
+### ER8 — scans 106–111 — COMPLETE
+
+- scans **106–111** passed and moved from `source-checked` to `editorial-reviewed`;
+- **no body-text changes were required**; all six records were already editorially sound after source-check and glossary reconciliation;
+- the **106→107** Kalingan/Kathiravan continuation remains intact;
+- scan **108** remains a self-contained Longing for His Return vignette;
+- the **109→110→111** learned-speaker / Power of Speech continuation remains intact through the supplied Part endpoint;
+- controlled forms **Kalingan / Kalinga**, **Kathiravan**, **Freedom from Anger**, **Longing for His Return**, **Power of Speech**, and source Kural metadata remain consistent with the completed glossary;
+- scan **111** is the final supplied physical scan of Part 001; the **111→112** split boundary remains unverified until Part 002 is supplied and must not be reconstructed;
 - no source-limited material was reconstructed;
 - no standard/published/web English Kural wording was imported.
 
-## Current English page statuses after ER7
+## Current English page statuses after ER8
 
-- `editorial-reviewed`: **101**;
-- `source-checked`: **6**;
+- `editorial-reviewed`: **107**;
+- `source-checked`: **0**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - `draft`: **0**;
 - `release-ready`: **0**.
 
-Editorial-review coverage: **105 / 111 scans**.
+Editorial-review coverage: **111 / 111 scans COMPLETE**.
 
 Source-limited records remain source-limited even after editorial review within available evidence.
 
 ## Exact next activity
 
-Proceed with **Part 001 editorial consistency review ER8 — scans 106–111**, the final **6-scan remainder**.
+Proceed with the **Part 001 Part-level English review** gate.
 
-- review English readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and the Part-ending boundary;
-- use audited Tamil records whenever needed to ensure editorial changes do not alter source meaning;
-- make only source-faithful editorial improvements; do not add commentary or explanatory material absent from the source;
-- do not import standard Thirukkural wording, published English translations, web text, another commentator or memory;
-- passing scans **106–111** may move from `source-checked` to `editorial-reviewed`;
-- after ER8, synchronize frontier documents and audit the exact base→head changed-file set before beginning the **Part-level English review** gate;
-- do not treat scan 111→112 as source-verifiable until Part 002 is supplied; record the unresolved split boundary explicitly rather than reconstructing it.
+The Part-level review must evaluate the completed English layer as a whole rather than reopening the closed Tamil source pass. Check at minimum:
+
+- all **111** English page records are present and correctly aligned to Tamil records;
+- final English statuses are **107 `editorial-reviewed` + 4 `source-limited`**, with no remaining `draft` or `source-checked` pages;
+- source-limited scans **13, 14, 15 and 19** remain explicitly limited and contain no reconstructed wording;
+- controlled glossary terms, names, chapter labels, Kural metadata, quotation handling and recurring phrasing are consistent across the Part;
+- all known cross-page continuations and page functions remain coherent after editorial review;
+- scan **111** is treated only as the supplied Part endpoint; the **111→112** boundary remains unresolved until Part 002 is supplied;
+- record the Part-level result in a durable English review artefact before moving to the release-report gate.
+
+Do not promote pages to `release-ready` during the Part-level review. `release-ready` is reserved for pages included in a completed Part-level English release report and approved at that later gate.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
