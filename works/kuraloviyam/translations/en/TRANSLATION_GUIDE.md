@@ -180,7 +180,21 @@ For glossary / recurring-terminology reconciliation:
 - this gate does **not** by itself promote `source-checked` pages to `editorial-reviewed`; source-limited pages remain `source-limited`;
 - do not import terminology from external editions, web sources or memory.
 
-For every iteration, fetch live `main` first, preserve newer durable state, update `TRANSLATION_STATUS.md`, and audit the exact changed-file set before advancing.
+For editorial review:
+
+- review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity;
+- consult the matching audited Tamil whenever an editorial change could affect meaning;
+- make only source-faithful editorial improvements;
+- passing `source-checked` pages may move to `editorial-reviewed`; source-limited pages remain `source-limited`.
+
+For Part-level review:
+
+- review the completed Part as a whole rather than repeating page-level batches;
+- verify page inventory/alignment, final statuses, source-limited integrity, terminology, names, Kural metadata, page functions and accumulated cross-page continuities;
+- create a durable review record under `translations/en/reviews/`;
+- do **not** promote pages to `release-ready` at this gate.
+
+For every iteration or gate, fetch live `main` first, preserve newer durable state, update `TRANSLATION_STATUS.md`, and audit the exact changed-file set before advancing.
 
 ## 13. Part 001 drafting record
 
@@ -214,6 +228,52 @@ Part 001 first-pass English drafting is **COMPLETE: 111/111 page records**.
 - SC7: scans 91–105;
 - SC8: scans 106–111 — final 6-page remainder.
 
-Final Part 001 English statuses after source-check: **107 `source-checked` + 4 `source-limited`** (scans 13, 14, 15, 19). No `draft` pages remain.
+Source-check closure state: **107 `source-checked` + 4 `source-limited`** (scans 13, 14, 15, 19), with no `draft` pages.
 
-The next review gate is **glossary / recurring-terminology reconciliation**, beginning with **GR1 — scans 1–15**.
+## 15. Part 001 glossary-reconciliation record
+
+**COMPLETE — 111/111 physical scans reconciled.**
+
+- GR1: scans 1–15;
+- GR2: scans 16–30;
+- GR3: scans 31–45;
+- GR4: scans 46–60;
+- GR5: scans 61–75;
+- GR6: scans 76–90;
+- GR7: scans 91–105;
+- GR8: scans 106–111 — final 6-page remainder.
+
+`GLOSSARY.md` is the durable context-aware terminology authority for the Part.
+
+## 16. Part 001 editorial-review record
+
+**COMPLETE — 111/111 physical scans reviewed.**
+
+- ER1: scans 1–15;
+- ER2: scans 16–30;
+- ER3: scans 31–45;
+- ER4: scans 46–60;
+- ER5: scans 61–75;
+- ER6: scans 76–90;
+- ER7: scans 91–105;
+- ER8: scans 106–111 — final 6-page remainder.
+
+Editorial-review closure state: **107 `editorial-reviewed` + 4 `source-limited`**, with `draft=0`, `source-checked=0`, and `release-ready=0`.
+
+## 17. Part 001 Part-level English review record
+
+**COMPLETE — PASS.**
+
+Durable review record: `reviews/PART_001_ENGLISH_REVIEW.md`.
+
+The Part-level review confirmed 111/111 Tamil-English filename alignment, preserved all four source limitations, found no unresolved controlled-term or continuity defect, and retained scan **111→112** as an explicitly deferred boundary until Part 002 is supplied.
+
+The Part-level review did not alter any English page text or status.
+
+## Current gate
+
+Proceed with the **Part 001 Part-level English release report** gate.
+
+The release-report gate must use the completed Part-level review record and current English state to decide release approval. Do not promote pages to `release-ready` before that report is completed and approved. Source-limited scans **13, 14, 15 and 19** must remain source-limited unless better source evidence is supplied.
+
+Do not begin Part 002 until Part 001 English/final closure is complete and Part 002 source is supplied. The **111→112** split boundary remains deferred until then.
