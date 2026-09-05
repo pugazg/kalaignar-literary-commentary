@@ -25,9 +25,9 @@ Such were the words with which she made love itself reel. Poor woman! She cannot
 > I lay in his embrace; I shifted slightly aside; in that instant  
 > pallor seemed ready to gather and seize me whole.
 
-Chapter 117 — Lamenting in Wasting Longing; verses 1163, 1162
+Chapter 117 — Lamenting in Wasting Longing; Kurals 1163, 1162
 
-Chapter 119 — Suffering from Pallor; verse 1187
+Chapter 119 — Suffering from Pallor; Kural 1187
 
 ## Visual material
 
