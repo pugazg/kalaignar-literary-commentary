@@ -48,37 +48,42 @@ Workflow boundaries are not textual boundaries.
 - P2-01 / scans **112–122** — COMPLETE
 - P2-02 / scans **123–133** — COMPLETE
 - P2-03 / scans **134–144** — COMPLETE
+- P2-04 / scans **145–155** — COMPLETE
 
-Current Pass 1 coverage: **33 / 111 scans**, overall **112–144 / printed 95–127**.
+Current Pass 1 coverage: **44 / 111 scans**, overall **112–155 / printed 95–138**.
 
 All Part 002 page records remain:
 
 - `status: "needs-review"`;
 - `visual_fidelity: "needs-review"`.
 
-P2-03 captured:
+P2-04 captured:
 
-- 134–135 — court music / taste; Chapter 42 / Kural 420;
-- 136–137 — princess/commander war-and-separation; Chapter 123 / Kural 1224;
-- 138–139 — owl/crows timing; Chapter 49 / Kural 481;
-- 140–141 — sisters/child/absent lover; Chapter 125 / Kural 1244;
-- 142–143 — medical hypocrisy; Chapter 28 / Kural 277;
-- 144 — secret-meeting vignette begins.
+- 145 — closes the secret-meeting / `அலர் அறிவுறுத்தல்` vignette; Chapter 115 / Kural 1146;
+- 146–147 — physician/tiger; Chapter 47 / Kural 469;
+- 148–149 — separated woman/moon; Chapter 121 / Kural 1210;
+- 150–152 — `தெளிந்தான்` / `நெளிந்தான்`; Chapter 15 / Kurals 142, 145;
+- 153 — woman addressing her heart; Chapter 125 / Kural 1246;
+- 154–155 — lovers / `ஊடல்`; Chapter 133 / Kural 1326.
 
-Important continuity: scan **145 / printed 128** was inspected only as the P2-03 closing boundary witness and continues the same vignette directly. Therefore **144→145 is a genuine narrative continuation**.
+Important continuity:
+
+- **144→145** is a genuine continuation and was preserved;
+- scan **156 / printed 139** was inspected only as the P2-04 closing boundary witness;
+- **155→156 is a clean source boundary** and scan 156 starts a new illustrated crowd/knife vignette.
 
 ## Exact next activity
 
-Execute **P2-04 / Part 002 Pass 1, overall scans 145–155 / printed pages 128–138**.
+Execute **P2-05 / Part 002 Pass 1, overall scans 156–166 / printed pages 139–149**.
 
 1. fetch live `main` and preserve newer durable work;
 2. read `works/kuraloviyam/HANDOVER.md`, `works/kuraloviyam/README.md`, `works/kuraloviyam/PART_002_PASS1_PROGRESS.md`, `works/kuraloviyam/indexes/page-map.md`, `works/kuraloviyam/metadata/source.md`, and `works/kuraloviyam/metadata/transcription-policy.md`;
-3. begin scan 145 as continuation of scan 144's secret-meeting vignette;
-4. process exactly scans **145–155** source-first;
+3. begin scan 156 at the confirmed clean 155→156 source boundary;
+4. process exactly scans **156–166** source-first;
 5. capture visible Tamil wording, Kural/chapter metadata, page function, images/non-body marks and continuations;
 6. keep Pass 1 records `needs-review`; do not silently verify them;
 7. do not reconstruct uncertain readings from OCR, context, another edition, standard Kural text, web material or memory;
-8. inspect scan **156** only as a closing boundary witness when needed;
-9. commit the batch and update the next frontier to **156–166**.
+8. inspect scan **167** only as a closing boundary witness when needed;
+9. commit the batch and update the next frontier to **167–177**.
 
 Part 003 must not begin until Part 002 is fully closed.
