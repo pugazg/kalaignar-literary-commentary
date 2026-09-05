@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ How were they now to continue the journey? How were they to satisfy their hunger
 
 The children cried out, “We are hungry! We are hungry!” and begged for some way to get food.
 
-The head of the family had never expected such a storm to strike. Just then a beautiful fish-eyed young woman came that way carrying a tray of fruit and calling out her prices.
+The head of the family had never expected such a storm to strike. Just then a beautiful fish-eyed woman came that way carrying a tray of fruit and calling out her prices.
 
 As soon as she saw the family she exclaimed, “Madam, is it you? How have you come so far? Why are the children crying?”
 
