@@ -85,7 +85,7 @@ Final source-check totals:
 - unreadable source material reconstructed: **none**;
 - external/standard Kural English wording imported: **none**.
 
-## Glossary / recurring-terminology reconciliation
+## Glossary / recurring-terminology reconciliation — COMPLETE
 
 **GR1 — scans 1–15 — COMPLETE.**
 
@@ -140,21 +140,29 @@ Final source-check totals:
 - scan 105 already used **Kural 814** and required no English page correction;
 - no standard/published/web English Kural terminology was imported.
 
-Glossary-reconciliation coverage: **105/111 scans**. Page statuses remain unchanged; glossary review does not itself create `editorial-reviewed` status.
+**GR8 — scans 106–111 — COMPLETE.**
+
+- final six records were reconciled against audited Tamil context and the expanded glossary;
+- English page wording corrections required solely for GR8 consistency: **none**;
+- source-supported chapter-label controls **Freedom from Anger**, **Longing for His Return**, and **Power of Speech** were added from scans 107, 108 and 111;
+- source-supported narrative/name controls **Kalingan / Kalinga** and **Kathiravan** were added from scans 106–107; `Kalingan` remains distinct from earlier commentator **Kalingar**, while `Kathiravan` is treated as a personal name only in this narrative context;
+- scans 107, 108 and 111 already used controlled citation forms **Kural 301**, **Kural 1261**, and **Kurals 648, 650**;
+- no standard/published/web English Kural terminology was imported.
+
+Glossary-reconciliation coverage: **111/111 scans — COMPLETE**. Page statuses remain unchanged; glossary review does not itself create `editorial-reviewed` status.
 
 ## Exact next activity
 
-If live `main` has not advanced beyond this frontier, execute **Part 001 glossary / recurring-terminology reconciliation GR8 — scans 106–111**, the final **6-page remainder**.
+If live `main` has not advanced beyond this frontier, execute **Part 001 editorial consistency review ER1 — scans 1–15**, exactly **15 consecutive scans**.
 
-1. process exactly scans **106–111**;
-2. fetch matching audited Tamil and English records for scans **106–111** as needed;
-3. compare recurring names, controlled literary terms, chapter labels, publication/work names and repeated English renderings against the expanded `works/kuraloviyam/translations/en/GLOSSARY.md` and their Tamil context;
-4. add or refine glossary entries only where Part 001 evidence supports them;
-5. do not mechanically force one English equivalent where context requires a different rendering;
-6. do not import terminology from standard Thirukkural editions, web sources, published translations, another commentator or memory;
-7. this glossary gate does **not** itself promote pages to `editorial-reviewed`;
-8. record any terminology corrections transparently in affected English page records and `GLOSSARY.md`;
-9. update `TRANSLATION_STATUS.md`, English/work README, `works/kuraloviyam/HANDOVER.md`, and this prompt;
-10. audit the exact pre-batch base→head changed-file set before advancing to the editorial-review gate.
+1. process exactly scans **1–15**;
+2. review English readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and physical cross-page continuity after the completed source-check and glossary gates;
+3. use audited Tamil records where needed to confirm that an editorial improvement does not alter source meaning;
+4. make only source-faithful editorial improvements; do not turn the translation into a new commentary or silently add explanation;
+5. do not import terminology or wording from standard Thirukkural editions, web sources, published translations, another commentator or memory;
+6. scans **13–15** remain `source-limited`; review only their securely established English material and do not reconstruct unavailable handwritten bodies;
+7. passing non-limited pages may move from `source-checked` to `editorial-reviewed`; source-limited pages remain `source-limited` while their editorial review within available evidence is recorded;
+8. update `TRANSLATION_STATUS.md`, English/work README, `works/kuraloviyam/HANDOVER.md`, and this prompt;
+9. audit the exact pre-batch base→head changed-file set before advancing to ER2.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
