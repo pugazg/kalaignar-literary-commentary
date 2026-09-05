@@ -7,7 +7,7 @@ section: "Editions and imprint"
 page_type: "edition-imprint"
 language: "en"
 translation_type: "project_translation"
-status: "editorial-reviewed"
+status: "release-ready"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
