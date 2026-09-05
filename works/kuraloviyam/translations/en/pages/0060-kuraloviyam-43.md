@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -23,7 +23,7 @@ One warrior mother is said to have pointed to the belly that had borne her son a
 
 Another heroic woman is said to have cried out in this spirit: “I am glad to know that, in the ranks of warriors who followed the king, the king shows special affection for my son. Yet I have still not received the news that my son has fallen in battle after receiving an honourable wound. Only if such news comes will it be proved that he cherishes the king and this soil as his very life.”
 
-When the Chera king heard that Kanakan and Vijayan, men of unguarded tongues, had spoken contemptuously of the Tamil kings, he marched north, defeated them, brought back the stone borne upon their crowned heads, and raised an image for Kannagi.
+When the Chera king heard that Kanakan and Vijayan, men of unguarded tongues, had spoken contemptuously of the Tamil kings, he marched north, defeated them, made them bear the stone upon their crowned heads, brought it back, and raised an image for Kannagi.
 
 The Chola kings conquered Lanka and marched as far as Kadaram, planting the flag of victory.
 
