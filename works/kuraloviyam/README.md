@@ -8,7 +8,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
-| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; English source-check **111/111 complete**; glossary reconciliation **111/111 complete**; editorial review through scan 30 |
+| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; English source-check **111/111 complete**; glossary reconciliation **111/111 complete**; editorial review through scan 45 |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -108,22 +108,35 @@ Drafting Batches 1–10 cover scans 1–111.
 - all other non-limited ER2 pages required no body wording change;
 - no standard/published/web English Kural wording was imported.
 
-Current English page statuses after ER2:
+### ER3 / scans 31–45 — COMPLETE
 
-- `editorial-reviewed`: **26**;
-- `source-checked`: **81**;
+- scans **31–45** passed and were promoted to `editorial-reviewed`;
+- source-faithful readability refinements were made on scans **36, 42, 43 and 44**;
+- scan **36** now naturally renders `கடவுள் எனப்படும் சொல்லுக்கு இலக்கணம் வகுத்தார்` as **“defined the qualities associated with what is called God”**;
+- scan **42** now renders `கருத்தின் அழுத்தம்` naturally as **“the emphasis falls on education”**;
+- scan **43** preserves the medical metaphor while refining **“strange medical woman”** to **“unusual woman physician”**;
+- scan **44**'s lover/gaze explanation was restructured without changing the source argument or the `செந்நாப் போதார்` reference;
+- scans **31–35, 37–41 and 45** required no body wording change;
+- the scan **34→35** and **37→38** physical continuations remain intact;
+- scan **45→46** was boundary-checked; scan 46 was not processed in ER3;
+- no standard/published/web English Kural wording was imported.
+
+Current English page statuses after ER3:
+
+- `editorial-reviewed`: **41**;
+- `source-checked`: **66**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - `draft`: **0**;
 - `release-ready`: **0**.
 
-Editorial-review coverage: **30/111 scans**.
+Editorial-review coverage: **45/111 scans**.
 
 # Current frontier
 
 **Tamil Part 001: archival-ready / closed.**
 
-**English Part 001: first-pass drafting COMPLETE; source-check COMPLETE; glossary reconciliation COMPLETE; editorial review complete through scan 30.**
+**English Part 001: first-pass drafting COMPLETE; source-check COMPLETE; glossary reconciliation COMPLETE; editorial review complete through scan 45.**
 
-Exact next activity: **editorial consistency review ER3 — scans 31–45**, exactly 15 consecutive scans. Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity while preserving audited Tamil meaning. Passing pages may move to `editorial-reviewed`.
+Exact next activity: **editorial consistency review ER4 — scans 46–60**, exactly 15 consecutive scans. Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity while preserving audited Tamil meaning. Passing pages may move to `editorial-reviewed`.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
