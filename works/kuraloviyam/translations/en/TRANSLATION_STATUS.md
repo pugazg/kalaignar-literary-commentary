@@ -187,7 +187,23 @@ Result:
 - scans **13–15** remain `source-limited`; no terminology was inferred from their unreadable handwritten bodies;
 - external/standard Thirukkural terminology imported: **none**.
 
-Glossary-reconciliation coverage: **15 / 111 scans**.
+### GR2 — scans 16–30 — COMPLETE
+
+Compared all fifteen English records with their audited Tamil records and the expanded `GLOSSARY.md` for recurring names, controlled literary terms, publication-note labels, speaker roles and repeated English renderings.
+
+Result:
+
+- scans **16–30** — terminology reconciliation PASS;
+- `பதிப்புரை` is now controlled as **Publisher's Note**, explicitly distinct from `பதவுரை` (**word-by-word explanation**) and `முகப்புரை` (**Preface**);
+- the user-confirmed lexical clarification `பதவுரை` → **word-by-word explanation** was applied to the glossary and the existing English occurrences on scans **4–5**;
+- scan **17** was corrected from the inconsistent plain sequence **“Aram, Porul and Kamam”** to the controlled structural labels **“the Book of Aram, the Book of Porul and the Book of Love”** for `அறத்துப்பால், பொருட்பால், காமத்துப்பால்`;
+- scan **30** now preserves the explicit source honorific **Puratchi Kavignar Bharathidasan**, consistent with the form already used on scan 19;
+- contextual variation is retained where source meaning requires it: `உரை` may be **commentary** or **speech/address**, and `புதுக் கவிதை` may be **free verse** or **new poetry** according to context;
+- `GLOSSARY.md` was expanded with source-supported speaker/role names and literary/prosodic terms actually encountered in scans 16–30;
+- scan **19** remains `source-limited`; no terminology was inferred from its physically washed-out gap;
+- no standard/published/web English Kural translation wording was imported.
+
+Glossary-reconciliation coverage: **30 / 111 scans**.
 
 Page statuses remain unchanged by the glossary gate:
 
@@ -198,14 +214,14 @@ Page statuses remain unchanged by the glossary gate:
 
 ## Exact next activity
 
-Proceed with **Part 001 glossary / recurring-terminology reconciliation GR2 — scans 16–30**.
+Proceed with **Part 001 glossary / recurring-terminology reconciliation GR3 — scans 31–45**.
 
 - process exactly **15 consecutive scans**;
 - compare recurring names, controlled literary terms, chapter labels, work/publication names and repeated English renderings against the now-expanded `GLOSSARY.md` and audited Tamil context;
 - add or refine entries only from Part 001 evidence;
 - do not mechanically force one English equivalent where context requires variation;
 - do not import terminology from standard Thirukkural editions, web sources, published translations, another commentator or memory;
-- this gate does **not** itself promote pages to `editorial-reviewed`; scan 19 remains `source-limited`;
-- record any terminology corrections transparently in affected English pages and `GLOSSARY.md`, update frontier documents, and audit the exact changed-file set before advancing to GR3.
+- this gate does **not** itself promote pages to `editorial-reviewed`;
+- record any terminology corrections transparently in affected English pages and `GLOSSARY.md`, update frontier documents, and audit the exact changed-file set before advancing to GR4.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
