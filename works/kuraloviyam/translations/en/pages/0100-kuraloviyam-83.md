@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-...and came to the entrance grumbling. It was still daytime—not even afternoon, but morning. He began to question the visitors.
+—it seems!” as he came to the entrance. It was still daytime—not even afternoon, but morning. He began to question the visitors.
 
 They were people from a small settlement belonging to that village. They tearfully fell at his feet and explained that a tiger from the hill forest near their settlement had entered among their homes. All of them had joined together with flaming torches and chased it away, but they feared that the tiger might return. They therefore begged him to go into the forest itself, hunt and kill it, and protect them and their children.
 
