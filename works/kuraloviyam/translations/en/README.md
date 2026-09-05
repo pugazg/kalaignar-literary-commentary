@@ -12,7 +12,7 @@ translation_type: "project_translation"
 
 ## Authority
 
-Normal translation work uses the audited Tamil page records under `../../pages/`. The original Tamil scan remains the ultimate source authority if a new provenance or fidelity problem is discovered, but the closed Part 001 PDF is not routinely reopened for translation.
+Normal translation/review work uses the audited Tamil page records under `../../pages/`. The original Tamil scan remains the ultimate source authority if a new provenance or fidelity problem is discovered, but the closed Part 001 PDF is not routinely reopened for English review.
 
 Do not import standard Thirukkural wording, a published English Kural translation, another commentator, web text or memory.
 
@@ -49,16 +49,18 @@ The English layer preserves those limits and does not reconstruct unavailable wo
 
 Part 001 Tamil / scans **1–111**: **ARCHIVAL-READY / CLOSED**.
 
-English translation structure/review conventions: **ESTABLISHED**.
+Part 001 English:
 
-English Batch 1: **scans 1–8 DRAFTED**:
+- page-aligned first-pass translation: **111/111 COMPLETE**;
+- source-check: **111/111 COMPLETE**;
+- final source-check statuses: **107 `source-checked` + 4 `source-limited`**;
+- `draft`: **0**;
+- source-limited scans: **13, 14, 15, 19**, all reviewed within available evidence;
+- external/standard Kural English imported: **none**;
+- editorial-reviewed: **0**;
+- release-ready: **0**.
 
-- scans 1–3 — cover/publication matter;
-- scans 4–8 — complete Preface.
-
-Current English first-pass coverage: **8 / 111**. No pages are yet source-checked, editorial-reviewed or release-ready.
-
-Exact next batch: **scans 9–17**, closing the remaining front matter. Scans 13–15 must be created as `source-limited` rather than reconstructed.
+The exact next gate is **glossary / recurring-terminology reconciliation**. Under the current 15-page cadence, begin with **GR1 — scans 1–15**. This gate checks controlled names/terms and recurring English renderings; it does not itself promote pages to `editorial-reviewed`.
 
 See `TRANSLATION_STATUS.md` for the authoritative English frontier.
 
