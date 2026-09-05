@@ -33,6 +33,6 @@ Hearing this answer, Paingili grew shy; she was younger than her friend, after a
 > When he comes not, they sleep not; when he comes, they sleep not—  
 > between the two, my eyes have suffered grievous pain.
 
-Chapter 118 — Reproaching the Eyes; verses 1180, 1179
+Chapter 118 — Reproaching the Eyes; Kurals 1180, 1179
 
 <!-- Source scan page: 94; printed page: 77 -->
