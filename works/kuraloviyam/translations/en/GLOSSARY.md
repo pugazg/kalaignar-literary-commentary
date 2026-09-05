@@ -40,6 +40,7 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | பல்லக்கு / சிவிகை | palanquin | `பல்லக்கு` is used in the narrative and `சிவிகை` in the quoted Kural on scans 50–51; use the same object term in English. |
 | ஊடல் | lovers' quarrel | Controlled contextual rendering in the love-poetics discussion. |
 | கூடல் | lovers' union | Controlled contextual rendering in the love-poetics discussion. |
+| பதர் / பதடி | chaff | Scans 66–67 deliberately extend the grain term to a human metaphor; preserve `chaff` for that contrast. The source itself glosses `பதடி = பதர்`. |
 | பகுத்தறிவு | rationalism | Use for the ideological/conceptual noun; related person-description may naturally be `rationalist`. |
 | புதுக் கவிதை | free verse / new poetry | Context-aware. `free verse` is used in the Preface's historical/genre discussion; `new poetry` may be retained where a speaker explicitly contrasts the label with `மரபுக் கவிதை`. |
 | மரபுக் கவிதை | traditional poetry | Controlled contrast with `புதுக் கவிதை` in scans 26–27. |
@@ -68,11 +69,20 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | வினைத்திட்பம் | Firmness in Action | Chapter 67 label on scan 47. |
 | தனிப்படர் மிகுதி | The Agony of Solitary Love | Chapter 120 label on scan 49. |
 | அறன் வலியுறுத்தல் | The Insistence on Virtue | Chapter 4 label on scan 51. |
-| நலம் புனைந்துரைத்தல் | Praising Her Beauty | Chapter 112 label cited on scan 55 for the preceding Kural. |
+| நலம் புனைந்துரைத்தல் | Praising Her Beauty | Chapter 112 label cited on scans 55 and 71. |
 | புணர்ச்சி மகிழ்தல் | The Joy of Union | Chapter 111 label on scan 55. |
 | உட்பகை | Internal Enmity | Chapter 89 label on scan 57. |
 | வான்சிறப்பு | The Excellence of Rain | Chapter 2 label on scan 59. |
 | வாழ்க்கைத் துணை நலம் | The Worth of a Life-Partner | Chapter 6 label on scan 59. |
+| படைமாட்சி | Excellence of the Army | Chapter 77 label on scan 61. |
+| உறுப்பு நலனழிதல் | Wasting Away of Bodily Beauty | Chapter 124 label on scan 63. |
+| கனவு நிலையுரைத்தல் | Speaking of the Dream State | Chapter 122 label on scan 63. |
+| கொடுங்கோன்மை | Tyrannical Rule | Chapter 56 label on scan 65. |
+| பயனில சொல்லாமை | Refraining from Useless Speech | Chapter 20 label on scan 67. |
+| அமைச்சு | The Minister | Chapter 64 label on scan 69. |
+| காதற் சிறப்புரைத்தல் | Declaring Love's Excellence | Chapter 113 label on scan 71. |
+| அவை அறிதல் | Knowing the Assembly | Chapter 72 label on scan 73. |
+| ஈகை | Giving | Chapter 23 label on scan 75. |
 
 ## Edition-preface / publication-note labels encountered in Part 001
 
@@ -97,7 +107,7 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | குங்குமம் | Kungumam | Retain periodical title. |
 | குடியரசு | Kudiyarasu | Retain periodical title. |
 | வள்ளுவம் | Valluvam | Retain book title in transliteration. |
-| இராமாயணம் | Ramayanam | Retain the form used in the project translation when referring to Kambar's work in the Critical Appreciation. |
+| இராமாயணம் | Ramayanam / Ramayana | Context-aware. Preserve `Ramayanam` in the earlier Kambar-work context; scan 72 uses natural English `Ramayana` in the Valmiki reference. Do not force one form across unlike contexts. |
 | தொல்காப்பியம் | Tolkappiyam | Retain classical work title in transliteration. |
 | சிலப்பதிகாரம் | Silappathikaram | Retain classical work title in transliteration. |
 | புறநானூறு | Purananuru | Retain classical work title in transliteration. |
@@ -149,12 +159,18 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | கண்ணகி | Kannagi | Transliterate. |
 | செங்குட்டுவன் | Senguttuvan | Controlled transliteration; GR4 reconciled scan 52 from `Chenguttuvan` to this existing form. |
 | இமயவரம்பன் நெடுஞ்சேரலாதன் | Imayavaramban Nedunjeralathan | Source-supported royal name on scan 52. |
+| வால்மீகி | Valmiki | Source-supported name on scan 72 in the Ramayana reference. |
+| கார்மேகம் | Karmegam | Farmer/field-owner name recurring on scans 66–67. |
+| பூவழகி | Poovazhagi | Woman's name recurring on scans 66–67. |
+| கண்ணாயிரம் | Kannayiram | Karmegam's son-in-law in scan 67. |
 
 ## Place references encountered in Part 001
 
 | Tamil | Default English form | Editorial note |
 |---|---|---|
 | குணவாயிற் கோட்டம் | Gunavayir Kottam | Retain the place name in transliteration; used across scans 52–53. |
+| திருநாடு | Thirunadu | Fictional/narrative country name recurring across scans 64–65. |
+| வளநாடு | Valanadu | Fictional/narrative country name on scan 65; the prose itself contrasts the prosperous sense of the name with the country's condition. |
 
 ## GR1 reconciliation record — scans 1–15
 
@@ -207,6 +223,19 @@ GR4 compared the English records for scans **46–60** against their audited Tam
 - source-supported forms **Ilango Adigal**, **Imayavaramban Nedunjeralathan** and **Gunavayir Kottam** were added from scans 52–53;
 - chapter labels actually encountered in scans 47–59 were recorded: **Firmness in Action**, **The Agony of Solitary Love**, **The Insistence on Virtue**, **Praising Her Beauty**, **The Joy of Union**, **Internal Enmity**, **The Excellence of Rain**, and **The Worth of a Life-Partner**;
 - no standard/published/web English Kural translation wording was imported.
+
+## GR5 reconciliation record — scans 61–75
+
+GR5 compared the English records for scans **61–75** against their audited Tamil context and the GR4-controlled glossary.
+
+- scans **61–75** — terminology reconciliation PASS;
+- English page wording corrections required solely for GR5 consistency: **none**;
+- nine source-supported chapter labels were added from the Kural metadata in this batch: **Excellence of the Army**, **Wasting Away of Bodily Beauty**, **Speaking of the Dream State**, **Tyrannical Rule**, **Refraining from Useless Speech**, **The Minister**, **Declaring Love's Excellence**, **Knowing the Assembly**, and **Giving**;
+- the source-explicit grain/human metaphor `பதர் / பதடி` is controlled as **chaff** from scans 66–67;
+- narrative names **Karmegam**, **Poovazhagi** and **Kannayiram**, and country names **Thirunadu / Valanadu**, were recorded from the audited context;
+- `இராமாயணம்` is now explicitly context-aware: earlier Kambar-context **Ramayanam** is retained, while scan 72's Valmiki reference uses **Ramayana**; **Valmiki** was added as a source-supported personal name;
+- the four army qualities on scan 61 retain context-sensitive prose/Kural phrasing rather than being flattened mechanically (`மறம்` valour, `மானம்` honour, `மாண்ட வழிச்செலவு` the noble path handed down/well followed, `தேற்றம்` trust/trustworthiness);
+- no standard/published/web English Kural terminology was imported.
 
 ## Review rule
 
