@@ -6,14 +6,14 @@ work: "kuraloviyam"
 section: "Professor"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains authoritative"
 ---
 
 He describes the great world that exists within Valluvar's heart—he shows us that world in detail.
 
-Through this *Kuraloviyam*, the twentieth-century Kalaignar is showing, to the point that he may be called a re-edition of Valluvar who lived twenty centuries ago: “I am an artist who has understood Valluvar.”
+Through this *Kuraloviyam*, twentieth-century Kalaignar presents himself as “an artist who has understood Valluvar,” to the point that he may be called a re-edition of Valluvar, who lived twenty centuries ago.
 
 The *Kuraloviyam* painted by Kalaignar is like the Ajanta paintings. Just as paintings made many centuries ago in some temples of Tamil Nadu are still revered, this *Kuraloviyam* too will endure.
 
