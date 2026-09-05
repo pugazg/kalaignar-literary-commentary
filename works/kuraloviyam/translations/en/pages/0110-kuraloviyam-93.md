@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-His eyes, people said, blossomed in the morning only upon palm-leaf manuscripts. At night, after staying awake for a long time, his eyes would slowly close only in the company of literary works. His very house looked like a vast library, they said. There were no books in the world that he had not finished reading—unless someone were to write new ones hereafter. So much had he read. Literature, historical records, research collections, epics and puranas, astronomy, geography—he was a great scholar learned in many such fields. Once word spread that such a man was coming to deliver an address, was there any need to ask whether a great crowd would gather?
+—his eyes, people said, opened only upon books. At night, after staying awake for a long time, his eyes would slowly close only in the company of literary works. His very house looked like a vast library, they said. There were no books in the world that he had not finished reading—unless someone were to write new ones hereafter. So much had he read. Literature, historical records, research collections, epics and puranas, astronomy, geography—he was a great scholar learned in many such fields. Once word spread that such a man was coming to deliver an address, was there any need to ask whether a great crowd would gather?
 
 Without making the people wait long, he too came and took his seat on the stage. The organizer of the association rose and introduced the speaker to those assembled before him, scattering a few words of praise.
 
