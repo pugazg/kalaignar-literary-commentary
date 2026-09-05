@@ -9,7 +9,7 @@ Individual Markdown records under `../pages/` are authoritative for exact captur
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
-| 002 | 112–222 | 1–111 | scan 112 / printed 95; Pass 1 through scan 144 / printed 127; scan 145 / printed 128 inspected as boundary witness | **source intake complete; Pass 1 33/111** |
+| 002 | 112–222 | 1–111 | scan 112 / printed 95; Pass 1 through scan 155 / printed 138; scan 156 / printed 139 inspected as boundary witness | **source intake complete; Pass 1 44/111** |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
@@ -76,7 +76,7 @@ No missing sentence or narrative continuation is inferred across the split.
 
 ## Part 002 physical map — current Pass 1 coverage
 
-Pass 1 currently contains **33 page-aligned records**, scans **112–144 / printed 95–127**.
+Pass 1 currently contains **44 page-aligned records**, scans **112–155 / printed 95–138**.
 
 | Overall scans | Printed pages | Source role / observed boundary | Pass 1 state |
 |---:|---:|---|---|
@@ -96,15 +96,21 @@ Pass 1 currently contains **33 page-aligned records**, scans **112–144 / print
 | 138–139 | 121–122 | owl/crows timing vignette; Chapter 49 / Kural 481 | needs-review |
 | 140–141 | 123–124 | sisters/child/absent-lover vignette; Chapter 125 / Kural 1244 | needs-review |
 | 142–143 | 125–126 | medical-hypocrisy vignette; Chapter 28 / Kural 277 | needs-review |
-| 144 | 127 | secret-meeting vignette begins and continues to scan 145 | needs-review |
+| 144–145 | 127–128 | secret-meeting vignette; closes with Chapter 115 / Kural 1146 | needs-review |
+| 146–147 | 129–130 | physician/tiger vignette; Chapter 47 / Kural 469 | needs-review |
+| 148–149 | 131–132 | separated-woman/moon vignette; Chapter 121 / Kural 1210 | needs-review |
+| 150–152 | 133–135 | `தெளிந்தான்` / `நெளிந்தான்` vignette; Chapter 15 / Kurals 142, 145 | needs-review |
+| 153 | 136 | woman addressing her own heart; Chapter 125 / Kural 1246 | needs-review |
+| 154–155 | 137–138 | lovers / `ஊடல்` vignette; Chapter 133 / Kural 1326 | needs-review |
 
 Additional physical notes:
 
 - scan **118 / printed 101** carries a blue circular library stamp in the lower margin; it is recorded as non-body material;
 - **122→123** is a genuine narrative continuation of the merchant/rest-house vignette;
 - **133→134** is a clean source boundary;
-- scan **145 / printed 128** was inspected only as the P2-03 closing boundary witness;
-- **144→145 is a genuine narrative continuation** of the secret-meeting vignette, so P2-04 must begin by continuing that text.
+- **144→145** is a genuine narrative continuation of the secret-meeting vignette and is preserved across the workflow cutoff;
+- scan **156 / printed 139** was inspected only as the P2-04 closing boundary witness;
+- **155→156 is a clean source boundary** and scan 156 begins a new illustrated crowd/knife vignette.
 
 Durable Pass 1 progress record:
 
@@ -127,13 +133,13 @@ Part 001:
 Part 002:
 
 - source intake — **COMPLETE**;
-- Pass 1 — **33/111 complete**, scans 112–144;
+- Pass 1 — **44/111 complete**, scans 112–155;
 - Pass 2A / 2B / 3 — not started.
 
 ## Current frontier
 
 **Part 001: CLOSED.**
 
-**Part 002: ACTIVE — source intake complete; P2-01 through P2-03 / Pass 1 scans 112–144 complete.**
+**Part 002: ACTIVE — source intake complete; P2-01 through P2-04 / Pass 1 scans 112–155 complete.**
 
-Exact next activity: **P2-04 / Pass 1 scans 145–155 / printed 128–138**, beginning with the known scan 144→145 continuation and inspecting scan 156 only as the closing boundary witness when necessary.
+Exact next activity: **P2-05 / Pass 1 scans 156–166 / printed 139–149**, beginning at the clean 155→156 source boundary and inspecting scan 167 only as the closing boundary witness when necessary.
