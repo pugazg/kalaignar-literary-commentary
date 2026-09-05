@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-—seems to come like an army to attack; love itself, though capable of giving pleasure, is spoken of as a disease. Valluvar beautifully expresses that state of mind.
+—coming to attack them; love itself, though capable of giving pleasure, is spoken of as a disease. Valluvar beautifully expresses that state of mind.
 
 In the morning this disease of love appears as a bud; through the whole day it swells into a great bud; in the evening it becomes a flower. Here is the Kural:
 
