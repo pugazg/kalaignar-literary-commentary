@@ -65,7 +65,7 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | இல்வாழ்க்கை | Domestic Life | Chapter 5 label on scan 36. |
 | பொழுதுகண்டு இரங்கல் | Lamenting at the Sight of Evening | Chapter 123 label on scan 38. |
 | மக்கட்பேறு | The Blessing of Children | Chapter 7 label on scan 40. |
-| கல்வி | Education | Chapter 40 label on scan 42. |
+| கல்வி | Education | Chapter 40 label on scans 42 and 96. GR7 reconciled scan 96 from `Learning` to this controlled label. |
 | மெய்யுணர்தல் | Realization of Truth | Chapter 36 label on scan 42. |
 | குறிப்பறிதல் | Reading the Sign | Chapter 110 label on scan 44. |
 | வினைத்திட்பம் | Firmness in Action | Chapter 67 label on scan 47. |
@@ -77,7 +77,7 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | வான்சிறப்பு | The Excellence of Rain | Chapter 2 label on scan 59. |
 | வாழ்க்கைத் துணை நலம் | The Worth of a Life-Partner | Chapter 6 label on scan 59. |
 | படைமாட்சி | Excellence of the Army | Chapter 77 label on scan 61. |
-| உறுப்பு நலனழிதல் | Wasting Away of Bodily Beauty | Chapter 124 label on scan 63. |
+| உறுப்பு நலனழிதல் | Wasting Away of Bodily Beauty | Chapter 124 label on scans 63 and 98. GR7 reconciled scan 98 to this controlled label. |
 | கனவு நிலையுரைத்தல் / கனவுநிலையுரைத்தல் | Speaking of the Dream State | Chapter 122; source spacing variants occur on scans 63 and 86. GR6 reconciled scan 86 to this controlled English label. |
 | கொடுங்கோன்மை | Tyrannical Rule | Chapter 56 label on scans 65 and 77. |
 | பயனில சொல்லாமை | Refraining from Useless Speech | Chapter 20 label on scan 67. |
@@ -85,12 +85,16 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | காதற் சிறப்புரைத்தல் | Declaring Love's Excellence | Chapter 113 label on scan 71. |
 | அவை அறிதல் | Knowing the Assembly | Chapter 72 label on scan 73. |
 | ஈகை | Giving | Chapter 23 label on scan 75. |
-| கண்விதுப்பழிதல் | Reproaching the Eyes | Chapter 118 label on scan 78. |
+| கண்விதுப்பழிதல் / கண் விதுப்பழிதல் | Reproaching the Eyes | Chapter 118; closed form appears on scan 78 and spaced form on scan 94. |
 | சூது | Gambling | Chapter 94 label on scan 80. |
 | பசப்புறு பருவரல் / பசப்புறுபருவரல் | Suffering from Pallor | Chapter 119; spaced form appears in scan 81 prose and the closed form in scans 82 and 90 citation metadata. |
 | செங்கோன்மை | Just Rule | Chapter 55 label on scan 84. |
 | பெரியாரைப் பிழையாமை | Not Offending the Great | Chapter 90 label on scan 88; `பெரியார்` is generic here, not the personal-name reference to Periyar. |
 | படர்மெலிந்திரங்கல் | Lamenting in Wasting Longing | Chapter 117 label on scan 90; preserve this project rendering unless later Part evidence supports a deliberate refinement. |
+| கூடாவொழுக்கம் | False Conduct | Chapter 28 label on scan 92. |
+| மடி இன்மை | Freedom from Idleness | Chapter 61 label on scan 101. |
+| நிறையழிதல் | Loss of Restraint | Chapter 126 label on scan 103. |
+| தீ நட்பு | Evil Friendship | Chapter 82 label on scan 105. |
 
 ## Edition-preface / publication-note labels encountered in Part 001
 
@@ -171,6 +175,11 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | கார்மேகம் | Karmegam | Farmer/field-owner name recurring on scans 66–67. |
 | பூவழகி | Poovazhagi | Woman's name recurring on scans 66–67. |
 | கண்ணாயிரம் | Kannayiram | Karmegam's son-in-law in scan 67. |
+| தேன்மொழி | Thenmozhi | Married woman named in the scan 92 vignette. |
+| பைங்கிளி | Paingili / green-parrot maiden | Scan 94 uses `Paingili` as direct address/name and also uses the source epithet descriptively; preserve the context rather than forcing one form. |
+| கயல்விழி | Kayalvizhi | Prospective bride named across scans 95–96. |
+| ஊர்க்காவலன் | Urkkavalan / village guardian | Scan 99 explicitly says this is both the character's name and his role. Use `Urkkavalan` as the personal name and translate the role descriptively where needed. |
+| வில்லவன் | Villavan | Warrior named across scans 104–105. |
 
 ## Place references encountered in Part 001
 
@@ -198,7 +207,7 @@ GR2 compared the English records for scans **16–30** against their audited Tam
 - scans **16–30** — terminology reconciliation PASS;
 - `பதிப்புரை` is now controlled as **Publisher's Note** and explicitly distinguished from `பதவுரை` (**word-by-word explanation**) and `முகப்புரை` (**Preface**);
 - the user-confirmed lexical clarification `பதவுரை` → **word-by-word explanation** was applied to the glossary and to its existing occurrences on English scans **4–5**;
-- scan **17** was reconciled from the inconsistent plain sequence **“Aram, Porul and Kamam”** to the controlled structural labels **“the Book of Aram, the Book of Porul and the Book of Love”** for source `அறத்துப்பால், பொருட்பால், காமத்துப்பால்`;
+- scan **17** was reconciled from the inconsistent plain sequence **“Aram, Porul and Kamam”** to the controlled structural labels **“the Book of Aram, the Book of Porul and the Book of Love”** for `அறத்துப்பால், பொருட்பால், காமத்துப்பால்`;
 - scan **30** was reconciled to **Puratchi Kavignar Bharathidasan**, matching the explicit source honorific and the form already used on scan 19;
 - contextual variation was retained where it carries source meaning: `உரை` may mean commentary or speech/address, and `புதுக் கவிதை` may appear as `free verse` or `new poetry` according to the speaker's context;
 - the glossary was expanded with source-supported speaker/role names and literary/prosodic terms actually encountered in scans 16–30;
@@ -260,6 +269,23 @@ GR6 compared the English records for scans **76–90** against their audited Tam
 - recurring source terms `செங்கோல்` and `காம நோய்` were added as context-aware controls;
 - the `பெரியார்` entry was refined so the personal name **Periyar** is not mechanically imposed on generic literary/Kural uses such as scan 88's `பெரியாரைப் பிழையாமை`;
 - scan 81's running-prose rendering of `ஊடல்` as **sulking** was retained as a natural context-sensitive variation rather than mechanically forcing the glossary phrase **lovers' quarrel**;
+- no standard/published/web English Kural terminology was imported.
+
+## GR7 reconciliation record — scans 91–105
+
+GR7 compared the English records for scans **91–105** against their audited Tamil context and the GR6-controlled glossary.
+
+- scans **91–105** — terminology reconciliation PASS;
+- **six English page records** required **eight terminology/citation-metadata correction groups**:
+  - scan **92**: source `பாடல்` citation metadata was reconciled from **verse** to controlled **Kural**;
+  - scan **94**: source `பாடல்கள்` citation metadata was reconciled from **verses** to controlled **Kurals**; the spaced source form `கண் விதுப்பழிதல்` was recorded as the same Chapter 118 label **Reproaching the Eyes**;
+  - scan **96**: `கல்வி` was reconciled from **Learning** to the existing controlled chapter label **Education**, and citation **verse** was reconciled to **Kural**;
+  - scan **98**: `உறுப்புநலனழிதல்` was reconciled from **Loss of Bodily Beauty** to the existing controlled label **Wasting Away of Bodily Beauty**, and citation **verses** was reconciled to **Kurals**;
+  - scan **101**: source `பாடல்` citation metadata was reconciled from **verse** to **Kural**;
+  - scan **103**: source `பாடல்` citation metadata was reconciled from **verse** to **Kural**;
+- four new source-supported chapter-label controls were added: **False Conduct**, **Freedom from Idleness**, **Loss of Restraint**, and **Evil Friendship**;
+- source-supported narrative/name controls **Thenmozhi**, **Paingili**, **Kayalvizhi**, **Urkkavalan**, and **Villavan** were added, with `Urkkavalan` kept context-aware because the source explicitly uses `ஊர்க்காவலன்` as both name and role;
+- scan **105** already used the controlled **Kural 814** citation convention and required no page wording correction;
 - no standard/published/web English Kural terminology was imported.
 
 ## Review rule
