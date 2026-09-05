@@ -7,7 +7,7 @@ section: "Front matter — Preface"
 page_type: "preface"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -46,6 +46,6 @@ It was then that I began writing free verse under the title “Not Poetry.”
 
 These are only a few lines from a long free-verse poem I wrote under the title “The Purananuru Mother”!
 
-In 1953, when I was confined in Tiruchirappalli prison as a rigorous-imprisonment prisoner for six months because of the Kallakudi protest, many word-pictures took shape in the style of “free verse.” They have appeared in book form as *Vairamanigal*.
+In 1953, when I was serving six months of rigorous imprisonment in Tiruchirappalli prison because of the Kallakudi protest, many word-pictures took shape in the style of “free verse.” They have appeared in book form as *Vairamanigal*.
 
 <!-- Source scan page: 6; printed page: v -->
