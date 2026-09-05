@@ -30,7 +30,7 @@ She had dreamed that she was with her lover. She awoke. She grieves because of i
 > If there were no thing called waking, then in dreams  
 > my lover would never leave me.
 
-Chapter 122 — Speaking of the State of Dreams; Kural 1216
+Chapter 122 — Speaking of the Dream State; Kural 1216
 
 ## Visual material
 
