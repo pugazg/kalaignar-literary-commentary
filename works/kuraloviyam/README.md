@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
 | 001 | 1–111 | supplied | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | **intake complete; Pass 1 112–144 complete (33/111)** |
+| 002 | 112–222 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | **intake complete; Pass 1 112–155 complete (44/111)** |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
 | 005 | 445–555 | not yet supplied | not-started |
@@ -57,8 +57,8 @@ Part 002 uses **11 physical scans per iteration** as the standard cadence.
 - P2-01: **112–122** — COMPLETE
 - P2-02: **123–133** — COMPLETE
 - P2-03: **134–144** — COMPLETE
-- P2-04: **145–155** — NEXT
-- P2-05: **156–166**
+- P2-04: **145–155** — COMPLETE
+- P2-05: **156–166** — NEXT
 - P2-06: **167–177**
 - P2-07: **178–188**
 - P2-08: **189–199**
@@ -70,28 +70,32 @@ The 11-page cadence is only a workflow rule. Preserve source continuations acros
 
 ## Pass 1 progress
 
-**33 / 111 scans complete — scans 112–144 / printed pages 95–127.**
+**44 / 111 scans complete — scans 112–155 / printed pages 95–138.**
 
 All Part 002 Pass-1 records remain:
 
 - `status: "needs-review"`;
 - `visual_fidelity: "needs-review"`.
 
-P2-03 captured five closed vignettes plus the beginning of a sixth:
+P2-04 captured:
 
-- 134–135 — court music / taste; Chapter 42 / Kural 420;
-- 136–137 — princess/commander war-and-separation; Chapter 123 / Kural 1224;
-- 138–139 — owl/crows timing; Chapter 49 / Kural 481;
-- 140–141 — sisters/child/absent lover; Chapter 125 / Kural 1244;
-- 142–143 — medical hypocrisy; Chapter 28 / Kural 277;
-- 144 — secret-meeting vignette begins.
+- 145 — closes the secret-meeting / `அலர் அறிவுறுத்தல்` vignette; Chapter 115 / Kural 1146;
+- 146–147 — physician/tiger vignette; Chapter 47 / Kural 469;
+- 148–149 — separated-woman/moon vignette; Chapter 121 / Kural 1210;
+- 150–152 — `தெளிந்தான்` / `நெளிந்தான்`; Chapter 15 / Kurals 142, 145;
+- 153 — woman addressing her own heart; Chapter 125 / Kural 1246;
+- 154–155 — lovers / `ஊடல்`; Chapter 133 / Kural 1326.
 
-Important boundary: scan **145 / printed 128** was inspected only as the P2-03 closing witness and directly continues scan 144. Therefore **144→145 is a genuine narrative continuation**.
+Important boundaries:
+
+- **144→145** is a genuine narrative continuation and has been preserved;
+- scan **156 / printed 139** was inspected only as the P2-04 closing witness;
+- **155→156 is a clean source boundary** and scan 156 begins a new illustrated crowd/knife vignette.
 
 No standard/published/web Kural wording, another edition, OCR guess or memory was used to fill uncertain readings.
 
 ## Current frontier
 
-Exact next activity: **P2-04 / Part 002 Pass 1, overall scans 145–155 / printed pages 128–138**.
+Exact next activity: **P2-05 / Part 002 Pass 1, overall scans 156–166 / printed pages 139–149**.
 
-Begin scan 145 as continuation of the secret-meeting vignette from scan 144. Inspect scan 156 only when needed as the closing boundary witness.
+Begin scan 156 at the confirmed clean 155→156 boundary. Inspect scan 167 only when needed as the closing boundary witness.
