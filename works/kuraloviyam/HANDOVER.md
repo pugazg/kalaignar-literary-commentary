@@ -133,23 +133,37 @@ Final source-check state:
 - scan 61's four army qualities remain context-sensitive rather than mechanically flattened;
 - no standard/published/web Kural terminology was imported.
 
-Glossary reconciliation coverage: **75/111 scans**.
+### GR6 — scans 76–90 — COMPLETE
+
+- terminology reconciliation PASS;
+- three English page records required four terminology corrections:
+  - scan 77: `வள்ளுவர் கோட்டம்` **Valluvar's hall → Valluvar Kottam**;
+  - scan 86: `கனவுநிலையுரைத்தல்` **Speaking of the State of Dreams → Speaking of the Dream State**;
+  - scan 90: `காம நோய்` **illness of love → love-sickness**;
+  - scan 90: `பசப்புறுபருவரல்` **Anguish of Pallor → Suffering from Pallor**;
+- six source-supported chapter-label controls were added: **Reproaching the Eyes**, **Gambling**, **Suffering from Pallor**, **Just Rule**, **Not Offending the Great**, and **Lamenting in Wasting Longing**;
+- `செங்கோல்` and `காம நோய்` were added as context-aware recurring controls;
+- `பெரியார்` was refined to distinguish the personal name **Periyar** from generic literary/Kural usage such as scan 88;
+- scan 81's running-prose `ஊடல்` → **sulking** remains a deliberate context-sensitive variation;
+- no standard/published/web Kural terminology was imported.
+
+Glossary reconciliation coverage: **90/111 scans**.
 
 Page statuses remain **107 `source-checked` + 4 `source-limited`**. Glossary reconciliation does not itself promote pages to `editorial-reviewed`.
 
 ## Current exact activity
 
-Proceed with **Part 001 glossary / recurring-terminology reconciliation GR6 — scans 76–90**:
+Proceed with **Part 001 glossary / recurring-terminology reconciliation GR7 — scans 91–105**:
 
 1. fetch live `main` first;
 2. process exactly **15 consecutive scans**;
-3. fetch matching English and audited Tamil records for scans **76–90** as needed;
+3. fetch matching English and audited Tamil records for scans **91–105** as needed;
 4. compare recurring names, controlled literary terms, chapter labels, publication/work names and repeated English renderings against the expanded `translations/en/GLOSSARY.md` and Tamil context;
 5. add or refine glossary entries only where Part 001 evidence supports them;
 6. do not mechanically force one English equivalent where context requires a different rendering;
 7. do not import standard Thirukkural terminology, web text, published translations, another commentator or memory;
 8. this gate does **not** itself promote pages to `editorial-reviewed`;
 9. record terminology corrections transparently in affected English pages and `GLOSSARY.md`;
-10. update `TRANSLATION_STATUS.md`, English/work README, handover and current prompt, then audit the exact changed-file set before advancing to GR7.
+10. update `TRANSLATION_STATUS.md`, English/work README, handover and current prompt, then audit the exact changed-file set before advancing to GR8.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and Part 002 source is supplied.
