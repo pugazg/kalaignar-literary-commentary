@@ -38,8 +38,10 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | அறம் | virtue / virtuous conduct | Context-aware conceptual noun. Keep distinct from the structural title `அறத்துப்பால்` → `Book of Aram`. |
 | பாவம் / புண்ணியம் | sin / merit | Preserve the contrast when the source discusses the palanquin interpretation on scans 50–51; do not infer doctrine beyond the audited passage. |
 | பல்லக்கு / சிவிகை | palanquin | `பல்லக்கு` is used in the narrative and `சிவிகை` in the quoted Kural on scans 50–51; use the same object term in English. |
+| செங்கோல் | just sceptre / sceptre of righteous rule | Context-aware political image on scans 76 and 84. Preserve the sceptre metaphor when the source contrasts righteous governance with oppressive or military power. |
 | ஊடல் | lovers' quarrel | Controlled contextual rendering in the love-poetics discussion. |
 | கூடல் | lovers' union | Controlled contextual rendering in the love-poetics discussion. |
+| காம நோய் | love-sickness | Recurring love-poetics term on scans 89–90; use for the named condition, while a later pronoun/general `நோய்` may naturally be `illness`. |
 | பதர் / பதடி | chaff | Scans 66–67 deliberately extend the grain term to a human metaphor; preserve `chaff` for that contrast. The source itself glosses `பதடி = பதர்`. |
 | பகுத்தறிவு | rationalism | Use for the ideological/conceptual noun; related person-description may naturally be `rationalist`. |
 | புதுக் கவிதை | free verse / new poetry | Context-aware. `free verse` is used in the Preface's historical/genre discussion; `new poetry` may be retained where a speaker explicitly contrasts the label with `மரபுக் கவிதை`. |
@@ -76,13 +78,19 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | வாழ்க்கைத் துணை நலம் | The Worth of a Life-Partner | Chapter 6 label on scan 59. |
 | படைமாட்சி | Excellence of the Army | Chapter 77 label on scan 61. |
 | உறுப்பு நலனழிதல் | Wasting Away of Bodily Beauty | Chapter 124 label on scan 63. |
-| கனவு நிலையுரைத்தல் | Speaking of the Dream State | Chapter 122 label on scan 63. |
-| கொடுங்கோன்மை | Tyrannical Rule | Chapter 56 label on scan 65. |
+| கனவு நிலையுரைத்தல் / கனவுநிலையுரைத்தல் | Speaking of the Dream State | Chapter 122; source spacing variants occur on scans 63 and 86. GR6 reconciled scan 86 to this controlled English label. |
+| கொடுங்கோன்மை | Tyrannical Rule | Chapter 56 label on scans 65 and 77. |
 | பயனில சொல்லாமை | Refraining from Useless Speech | Chapter 20 label on scan 67. |
 | அமைச்சு | The Minister | Chapter 64 label on scan 69. |
 | காதற் சிறப்புரைத்தல் | Declaring Love's Excellence | Chapter 113 label on scan 71. |
 | அவை அறிதல் | Knowing the Assembly | Chapter 72 label on scan 73. |
 | ஈகை | Giving | Chapter 23 label on scan 75. |
+| கண்விதுப்பழிதல் | Reproaching the Eyes | Chapter 118 label on scan 78. |
+| சூது | Gambling | Chapter 94 label on scan 80. |
+| பசப்புறு பருவரல் / பசப்புறுபருவரல் | Suffering from Pallor | Chapter 119; spaced form appears in scan 81 prose and the closed form in scans 82 and 90 citation metadata. |
+| செங்கோன்மை | Just Rule | Chapter 55 label on scan 84. |
+| பெரியாரைப் பிழையாமை | Not Offending the Great | Chapter 90 label on scan 88; `பெரியார்` is generic here, not the personal-name reference to Periyar. |
+| படர்மெலிந்திரங்கல் | Lamenting in Wasting Longing | Chapter 117 label on scan 90; preserve this project rendering unless later Part evidence supports a deliberate refinement. |
 
 ## Edition-preface / publication-note labels encountered in Part 001
 
@@ -121,7 +129,7 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | Tamil | Default English form | Editorial note |
 |---|---|---|
 | தந்தை பெரியார் | Thanthai Periyar | Retain established honorific/name form. |
-| பெரியார் | Periyar | Use when the source uses the shorter form. |
+| பெரியார் | Periyar / the great / great people | Use `Periyar` when the Tamil refers to the named figure. Generic literary or Kural usage may mean `the great` / `great people`; scan 88's `பெரியாரைப் பிழையாமை` is such a generic use. Do not mechanically treat every occurrence as the personal name. |
 | அண்ணா | Anna | Retain the source's familiar form; do not silently expand unless context requires identification. |
 | அறிஞர் அண்ணா | Arignar Anna | Preserve the source honorific when it is explicitly present. |
 | பேரறிஞர் அண்ணா | Perarignar Anna | Preserve the source honorific when it is explicitly present. |
@@ -235,6 +243,22 @@ GR5 compared the English records for scans **61–75** against their audited Tam
 - narrative names **Karmegam**, **Poovazhagi** and **Kannayiram**, and country names **Thirunadu / Valanadu**, were recorded from the audited context;
 - `இராமாயணம்` is now explicitly context-aware: earlier Kambar-context **Ramayanam** is retained, while scan 72's Valmiki reference uses **Ramayana**; **Valmiki** was added as a source-supported personal name;
 - the four army qualities on scan 61 retain context-sensitive prose/Kural phrasing rather than being flattened mechanically (`மறம்` valour, `மானம்` honour, `மாண்ட வழிச்செலவு` the noble path handed down/well followed, `தேற்றம்` trust/trustworthiness);
+- no standard/published/web English Kural terminology was imported.
+
+## GR6 reconciliation record — scans 76–90
+
+GR6 compared the English records for scans **76–90** against their audited Tamil context and the GR5-controlled glossary.
+
+- scans **76–90** — terminology reconciliation PASS;
+- **three English page records** required **four terminology corrections**:
+  - scan **77**: source `வள்ளுவர் கோட்டம்` was reconciled from generic **“Valluvar's hall”** to the existing controlled proper-name form **Valluvar Kottam**;
+  - scan **86**: `கனவுநிலையுரைத்தல்` was reconciled from **Speaking of the State of Dreams** to the existing controlled chapter label **Speaking of the Dream State**;
+  - scan **90**: recurring `காம நோய்` was reconciled from **illness of love** to **love-sickness**, while the later generic `நோய்` remains naturally **illness**;
+  - scan **90**: `பசப்புறுபருவரல்` was reconciled from **Anguish of Pallor** to **Suffering from Pallor**, matching the same Chapter 119 label already used on scans 81–82;
+- source-supported new chapter-label controls were added for **Reproaching the Eyes**, **Gambling**, **Suffering from Pallor**, **Just Rule**, **Not Offending the Great**, and **Lamenting in Wasting Longing**; the Chapter 122 source spacing variant was recorded without creating a second English label;
+- recurring source terms `செங்கோல்` and `காம நோய்` were added as context-aware controls;
+- the `பெரியார்` entry was refined so the personal name **Periyar** is not mechanically imposed on generic literary/Kural uses such as scan 88's `பெரியாரைப் பிழையாமை`;
+- scan 81's running-prose rendering of `ஊடல்` as **sulking** was retained as a natural context-sensitive variation rather than mechanically forcing the glossary phrase **lovers' quarrel**;
 - no standard/published/web English Kural terminology was imported.
 
 ## Review rule
