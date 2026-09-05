@@ -148,23 +148,38 @@ Final source-check state:
 - scan 81's running-prose `ஊடல்` → **sulking** remains a deliberate context-sensitive variation;
 - no standard/published/web Kural terminology was imported.
 
-Glossary reconciliation coverage: **90/111 scans**.
+### GR7 — scans 91–105 — COMPLETE
+
+- terminology reconciliation PASS;
+- six English page records required eight terminology/citation-metadata correction groups:
+  - scan 92: citation **verse → Kural**;
+  - scan 94: citation **verses → Kurals** and the source spacing variant `கண் விதுப்பழிதல்` was reconciled to **Reproaching the Eyes**;
+  - scan 96: `கல்வி` **Learning → Education** and citation **verse → Kural**;
+  - scan 98: `உறுப்புநலனழிதல்` **Loss of Bodily Beauty → Wasting Away of Bodily Beauty** and citation **verses → Kurals**;
+  - scan 101: citation **verse → Kural**;
+  - scan 103: citation **verse → Kural**;
+- four source-supported chapter-label controls were added: **False Conduct**, **Freedom from Idleness**, **Loss of Restraint**, and **Evil Friendship**;
+- source-supported narrative/name controls **Thenmozhi**, **Paingili**, **Kayalvizhi**, **Urkkavalan**, and **Villavan** were added; `Urkkavalan` remains context-aware because the source explicitly uses `ஊர்க்காவலன்` as both name and role;
+- scan 105 already used **Kural 814** and required no English page correction;
+- no standard/published/web Kural terminology was imported.
+
+Glossary reconciliation coverage: **105/111 scans**.
 
 Page statuses remain **107 `source-checked` + 4 `source-limited`**. Glossary reconciliation does not itself promote pages to `editorial-reviewed`.
 
 ## Current exact activity
 
-Proceed with **Part 001 glossary / recurring-terminology reconciliation GR7 — scans 91–105**:
+Proceed with **Part 001 glossary / recurring-terminology reconciliation GR8 — scans 106–111**, the final **6-page remainder**:
 
 1. fetch live `main` first;
-2. process exactly **15 consecutive scans**;
-3. fetch matching English and audited Tamil records for scans **91–105** as needed;
+2. process exactly scans **106–111**;
+3. fetch matching English and audited Tamil records for scans **106–111** as needed;
 4. compare recurring names, controlled literary terms, chapter labels, publication/work names and repeated English renderings against the expanded `translations/en/GLOSSARY.md` and Tamil context;
 5. add or refine glossary entries only where Part 001 evidence supports them;
 6. do not mechanically force one English equivalent where context requires a different rendering;
 7. do not import standard Thirukkural terminology, web text, published translations, another commentator or memory;
 8. this gate does **not** itself promote pages to `editorial-reviewed`;
 9. record terminology corrections transparently in affected English pages and `GLOSSARY.md`;
-10. update `TRANSLATION_STATUS.md`, English/work README, handover and current prompt, then audit the exact changed-file set before advancing to GR8.
+10. update `TRANSLATION_STATUS.md`, English/work README, handover and current prompt, then audit the exact changed-file set before advancing to the editorial-review gate.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and Part 002 source is supplied.
