@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -25,6 +25,6 @@ His wife opened her eyes first and cried out in alarm, “What is this! The bund
 
 “Alas! My money pouch is missing too!” he shouted.
 
-The bundle of packed rice, the money pouch—everything had been stolen. What else could that whole family do but cry out in anguish? Nor did it seem that anyone who might come to their aid was there.
+The bundle of packed rice, the money pouch—everything had been stolen. What else could that whole family do but cry out in anguish? Nor did there seem to be anyone there who could come to their aid.
 
 <!-- Source scan page: 74; printed page: 57; episode continues on scan 75 -->
