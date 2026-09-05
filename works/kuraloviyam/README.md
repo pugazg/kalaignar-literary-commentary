@@ -8,7 +8,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
-| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; English source-check **111/111 complete**; glossary reconciliation **111/111 complete**; editorial review through scan 60 |
+| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; English source-check **111/111 complete**; glossary reconciliation **111/111 complete**; editorial review through scan 75 |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -55,100 +55,70 @@ Permanent review cadence:
 
 The current user-directed normal iteration size is **15 consecutive scans**; a final Part remainder may be shorter.
 
-## First-pass progress
+## Completed pre-editorial gates
 
-**COMPLETE — 111/111 English page records.**
-
-Drafting Batches 1–10 cover scans 1–111.
-
-## Source-check progress
-
-**COMPLETE — 111/111 physical scans reviewed.**
-
-- SC1 / scans 1–15 — COMPLETE;
-- SC2 / scans 16–30 — COMPLETE;
-- SC3 / scans 31–45 — COMPLETE;
-- SC4 / scans 46–60 — COMPLETE;
-- SC5 / scans 61–75 — COMPLETE;
-- SC6 / scans 76–90 — COMPLETE;
-- SC7 / scans 91–105 — COMPLETE;
-- SC8 / scans 106–111 — COMPLETE, final 6-page remainder.
-
-## Glossary / recurring-terminology reconciliation
-
-**COMPLETE — 111/111 physical scans reconciled.**
-
-- GR1 / scans 1–15 — COMPLETE;
-- GR2 / scans 16–30 — COMPLETE;
-- GR3 / scans 31–45 — COMPLETE;
-- GR4 / scans 46–60 — COMPLETE;
-- GR5 / scans 61–75 — COMPLETE;
-- GR6 / scans 76–90 — COMPLETE;
-- GR7 / scans 91–105 — COMPLETE;
-- GR8 / scans 106–111 — COMPLETE, final 6-page remainder.
+- first-pass translation: **111/111 COMPLETE**;
+- source-check: **111/111 COMPLETE**;
+- glossary / recurring-terminology reconciliation: **111/111 COMPLETE**.
 
 ## Editorial consistency review
 
 ### ER1 / scans 1–15 — COMPLETE
 
-- scans **1–12** passed and were promoted to `editorial-reviewed`;
-- scans **13–15** were reviewed within securely established source-limited material and remain `source-limited`;
-- source-faithful readability refinements were made on scans **5 and 6**;
-- scans 13–15 were not reconstructed;
-- no standard/published/web English Kural wording was imported.
+- scans **1–12** promoted to `editorial-reviewed`;
+- scans **13–15** remain source-limited;
+- readability refinements: scans **5 and 6**.
 
 ### ER2 / scans 16–30 — COMPLETE
 
-- scans **16–18 and 20–30** passed and were promoted to `editorial-reviewed`;
-- scan **19** was reviewed within securely established source-limited material and remains `source-limited`; its washed-out gap was not reconstructed;
-- source-faithful readability refinements were made on scans **20, 21, 24 and 28**;
-- scan **21** now preserves `ஏட்டு முயற்சி / எண்ண முயற்சி` naturally as **“efforts on the page / efforts of thought”**;
-- scan **24**'s Valluvar Kottam / *Kuraloviyam* durability comparison was streamlined without altering source meaning;
-- the scan **26→27** new-poetry/traditional-poetry continuation remains preserved, and source `கொளவு` remains *kolavu*;
-- all other non-limited ER2 pages required no body wording change;
-- no standard/published/web English Kural wording was imported.
+- scans **16–18 and 20–30** promoted to `editorial-reviewed`;
+- scan **19** remains source-limited;
+- readability refinements: scans **20, 21, 24 and 28**;
+- scan **26→27** continuation preserved; source `கொளவு` remains *kolavu*.
 
 ### ER3 / scans 31–45 — COMPLETE
 
-- scans **31–45** passed and were promoted to `editorial-reviewed`;
-- source-faithful readability refinements were made on scans **36, 42, 43 and 44**;
-- scan **36** now naturally renders `கடவுள் எனப்படும் சொல்லுக்கு இலக்கணம் வகுத்தார்` as **“defined the qualities associated with what is called God”**;
-- scan **42** now renders `கருத்தின் அழுத்தம்` naturally as **“the emphasis falls on education”**;
-- scan **43** preserves the medical metaphor while refining **“strange medical woman”** to **“unusual woman physician”**;
-- scan **44**'s lover/gaze explanation was restructured without changing the source argument or the `செந்நாப் போதார்` reference;
-- scans **31–35, 37–41 and 45** required no body wording change;
-- the scan **34→35** and **37→38** physical continuations remain intact;
-- scan **45→46** was boundary-checked; scan 46 was not processed in ER3;
-- no standard/published/web English Kural wording was imported.
+- scans **31–45** promoted to `editorial-reviewed`;
+- readability refinements: scans **36, 42, 43 and 44**;
+- **34→35** and **37→38** continuations preserved; **45→46** boundary checked.
 
 ### ER4 / scans 46–60 — COMPLETE
 
-- scans **46–60** passed and were promoted to `editorial-reviewed`;
-- source-faithful readability refinements were made on scans **46, 50 and 60**;
-- scan **46** now reads **“Doesn't every undertaking require certain facilities and opportunities?”** for `எதற்கும் சில வசதி வாய்ப்புகள் வேண்டுமன்றோ?`;
-- scan **50** now renders `பாவம் செய்த ஜென்மம் / புண்ணியம் செய்த ஜென்மம்` as **“a birth marked by sin / a birth marked by merit”**;
-- scan **60** now makes the Chera king's action explicit as **“made them bear the stone upon their crowned heads, brought it back...”**, preserving `அவர்தம் முடியினில் கல்வேற்றி வந்து`;
-- scans **47–49 and 51–59** required no body wording change;
-- the **50→51**, **56→57** and **58→59** physical continuations remain intact;
-- scan **60→61** was boundary-checked; scan 61 was not processed in ER4;
+- scans **46–60** promoted to `editorial-reviewed`;
+- readability refinements: scans **46, 50 and 60**;
+- controlled **sin / merit** wording retained on scan 50;
+- Chera-king agency in `அவர்தம் முடியினில் கல்வேற்றி வந்து` clarified on scan 60;
+- **50→51**, **56→57** and **58→59** continuations preserved; **60→61** boundary checked.
+
+### ER5 / scans 61–75 — COMPLETE
+
+- scans **61–75** promoted to `editorial-reviewed`;
+- source-faithful readability refinements: scans **61, 68, 73 and 74**;
+- scan **61** now naturally describes the four `புறப்பாடல்` qualities as marks of excellence in an army while preserving the audited Tamil claim;
+- scan **68** now reads **“Seeing the minister remain deep in thought”** for `அவரது சிந்தனை நீண்டு கொண்டிருப்பதைக் கண்ட`;
+- scan **73** now reads **“he also has no worthwhile idea to express”** for `சொல்லக்கூடிய நல்ல கருத்துக்களும் இல்லாதவர்`;
+- scan **74**'s final sentence was made natural without altering `உதவிக்கு வரக்கூடியவர்களும் அங்கே இருப்பதும் தெரியவில்லை`;
+- scans **62–67, 69–72 and 75** required no body wording change;
+- **60→61, 62→63, 64→65, 68→69, 72→73 and 74→75** continuities remain intact;
+- **75→76** was boundary-checked; scan 76 begins a new oppressive-rule vignette and was not processed in ER5;
 - no standard/published/web English Kural wording was imported.
 
-Current English page statuses after ER4:
+Current English page statuses after ER5:
 
-- `editorial-reviewed`: **56**;
-- `source-checked`: **51**;
+- `editorial-reviewed`: **71**;
+- `source-checked`: **36**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - `draft`: **0**;
 - `release-ready`: **0**.
 
-Editorial-review coverage: **60/111 scans**.
+Editorial-review coverage: **75/111 scans**.
 
 # Current frontier
 
 **Tamil Part 001: archival-ready / closed.**
 
-**English Part 001: first-pass drafting COMPLETE; source-check COMPLETE; glossary reconciliation COMPLETE; editorial review complete through scan 60.**
+**English Part 001: first-pass drafting COMPLETE; source-check COMPLETE; glossary reconciliation COMPLETE; editorial review complete through scan 75.**
 
-Exact next activity: **editorial consistency review ER5 — scans 61–75**, exactly 15 consecutive scans. Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity while preserving audited Tamil meaning. Passing pages may move to `editorial-reviewed`.
+Exact next activity: **editorial consistency review ER6 — scans 76–90**, exactly 15 consecutive scans. Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity while preserving audited Tamil meaning. Passing pages may move to `editorial-reviewed`.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
