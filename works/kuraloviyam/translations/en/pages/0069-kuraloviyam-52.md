@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 The minister interrupted the commander's spirited speech.
 
-“Good, good, Commander! Is the king asking for advice so that he may be destroyed? No, no! Is he not asking for a way by which both country and rule may survive? Your words and deeds overflowing with valour may preserve our honour. But will they preserve our crown? Therefore stop this speech of yours. My king! The way I propose is the better way. All the enemy king's anger is directed at you. There is only one way to cool that anger: you must renounce the crown. Then the question will arise—who will take charge of the government? It is a fair question. As an interim arrangement, if necessary, I shall bear this burden on my shoulders without regard for the hardship. If such a decision is taken, he has sent word that the enemy king is even prepared to remain friendly with us.”
+“Good, good, Commander! Is the king asking for advice so that he may be destroyed? No, no! So that the country may live! Is he not asking for advice so that our rule may continue? Your words and deeds overflowing with valour may preserve our honour. But will they preserve our crown? Therefore stop this speech of yours. My king! The way I propose is the better way. All the enemy king's anger is directed at you. There is only one way to cool that anger: you must renounce the crown. Then the question will arise—who will take charge of the government? It is a fair question. As an interim arrangement, if necessary, I shall bear this burden on my shoulders without regard for the hardship. If such a decision is taken, he has sent word that the enemy king is even prepared to remain friendly with us.”
 
 Before the minister had finished, the commander sprang to his feet, his young moustache trembling, and raised a trumpet-like voice.
 
