@@ -218,7 +218,23 @@ Result:
 - `அதிகாரம் / பாடல்` is controlled as **Chapter / Kural** in the source's Kural metadata, and the chapter labels actually encountered in scans 35–44 were recorded: **Praise of God**, **Domestic Life**, **Lamenting at the Sight of Evening**, **The Blessing of Children**, **Education**, **Realization of Truth**, and **Reading the Sign**;
 - no standard/published/web English Kural translation wording was imported.
 
-Glossary-reconciliation coverage: **45 / 111 scans**.
+### GR4 — scans 46–60 — COMPLETE
+
+Compared all fifteen English records with their audited Tamil records and the expanded `GLOSSARY.md` for recurring names, Kural-exegesis terminology, conceptual/object terms and chapter-title consistency.
+
+Result:
+
+- scans **46–60** — terminology reconciliation PASS;
+- two English page terminology corrections were required:
+  - scan **52**: `செங்குட்டுவன்` was reconciled from **Chenguttuvan** to the existing controlled form **Senguttuvan**, including its visual note and prose occurrences;
+  - scan **59**: explicit source `புரட்சிக் கவிஞர் பாரதிதாசன்` was reconciled from **“the revolutionary poet Bharathidasan”** to **Puratchi Kavignar Bharathidasan**, consistent with scans 19 and 30;
+- `உரை` was refined to allow **interpretation** as well as **commentary** in Kural-exegesis contexts;
+- source-supported controls `அறம்` → **virtue / virtuous conduct**, `பாவம் / புண்ணியம்` → **sin / merit**, and `பல்லக்கு / சிவிகை` → **palanquin** were recorded from scans 50–51;
+- source-supported forms **Ilango Adigal**, **Imayavaramban Nedunjeralathan** and **Gunavayir Kottam** were recorded from scans 52–53;
+- chapter labels encountered in scans 47–59 were recorded: **Firmness in Action**, **The Agony of Solitary Love**, **The Insistence on Virtue**, **Praising Her Beauty**, **The Joy of Union**, **Internal Enmity**, **The Excellence of Rain**, and **The Worth of a Life-Partner**;
+- no standard/published/web English Kural translation wording was imported.
+
+Glossary-reconciliation coverage: **60 / 111 scans**.
 
 Page statuses remain unchanged by the glossary gate:
 
@@ -229,7 +245,7 @@ Page statuses remain unchanged by the glossary gate:
 
 ## Exact next activity
 
-Proceed with **Part 001 glossary / recurring-terminology reconciliation GR4 — scans 46–60**.
+Proceed with **Part 001 glossary / recurring-terminology reconciliation GR5 — scans 61–75**.
 
 - process exactly **15 consecutive scans**;
 - compare recurring names, controlled literary terms, chapter labels, work/publication names and repeated English renderings against the now-expanded `GLOSSARY.md` and audited Tamil context;
@@ -237,6 +253,6 @@ Proceed with **Part 001 glossary / recurring-terminology reconciliation GR4 — 
 - do not mechanically force one English equivalent where context requires variation;
 - do not import terminology from standard Thirukkural editions, web sources, published translations, another commentator or memory;
 - this gate does **not** itself promote pages to `editorial-reviewed`;
-- record any terminology corrections transparently in affected English pages and `GLOSSARY.md`, update frontier documents, and audit the exact changed-file set before advancing to GR5.
+- record any terminology corrections transparently in affected English pages and `GLOSSARY.md`, update frontier documents, and audit the exact changed-file set before advancing to GR6.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
