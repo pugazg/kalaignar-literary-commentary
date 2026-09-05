@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
 | 001 | 1–111 | supplied | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | **intake complete; Pass 1 112–122 complete (11/111)** |
+| 002 | 112–222 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | **intake complete; Pass 1 112–133 complete (22/111)** |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
 | 005 | 445–555 | not yet supplied | not-started |
@@ -62,9 +62,13 @@ Durable intake record:
 
 `works/kuraloviyam/SOURCE_INTAKE_PART_002.md`
 
+Durable Pass 1 progress record:
+
+`works/kuraloviyam/PART_002_PASS1_PROGRESS.md`
+
 ## Resolved split boundary
 
-The old **111→112** open check is now resolved from the real Part 002 source:
+The old **111→112** open check is resolved from the real Part 002 source:
 
 - scan 111 closes the learned-speaker / `சொல்வன்மை` vignette;
 - scan 112 starts a new illustrated love vignette;
@@ -77,8 +81,8 @@ Part 002 uses **11 physical scans per iteration** as the standard cadence.
 Planned batches:
 
 - P2-01: **112–122** — COMPLETE
-- P2-02: **123–133** — NEXT
-- P2-03: **134–144**
+- P2-02: **123–133** — COMPLETE
+- P2-03: **134–144** — NEXT
 - P2-04: **145–155**
 - P2-05: **156–166**
 - P2-06: **167–177**
@@ -90,19 +94,26 @@ Planned batches:
 
 Do not allow the 11-page work cadence to create artificial textual or narrative boundaries; page continuations must follow the source.
 
-## P2-01 / Pass 1 result
+## Pass 1 progress
 
-**COMPLETE — scans 112–122 / printed pages 95–105.**
+**22 / 111 scans complete — scans 112–133 / printed pages 95–116.**
 
-- 11 page-aligned Tamil records created under `works/kuraloviyam/pages/`;
-- all remain `status: "needs-review"` and `visual_fidelity: "needs-review"` as required for Pass 1;
-- Kural/chapter metadata captured from the source-visible edition only;
-- scan 118's blue circular library stamp is recorded as non-body material;
-- scan 123 / printed 106 was inspected only as a boundary witness;
-- **122→123 is a real narrative continuation** of the merchant/rest-house vignette.
+P2-01 captured scans 112–122. P2-02 captured scans 123–133. All Part 002 Pass-1 records remain:
+
+- `status: "needs-review"`;
+- `visual_fidelity: "needs-review"`.
+
+Important boundaries:
+
+- **122→123** is a genuine continuation of the merchant/rest-house vignette;
+- scan 123 closes that vignette with Chapter 51 / Kural 510;
+- scan **134 / printed 117** was inspected only as the P2-02 closing boundary witness;
+- **133→134 is a clean source boundary** and scan 134 begins a new illustrated vignette.
+
+No standard/published/web Kural wording, another edition, OCR guess or memory was used to fill uncertain readings.
 
 ## Current frontier
 
-Exact next activity: **P2-02 / Part 002 Pass 1, overall scans 123–133**.
+Exact next activity: **P2-03 / Part 002 Pass 1, overall scans 134–144 / printed pages 117–127**.
 
-Begin from the already confirmed continuation at scan 123. Process exactly 11 scans and inspect scan 134 only when needed as the closing boundary witness. Do not reconstruct uncertain text from OCR, context, another edition, standard Kural wording, web material or memory.
+Begin from the clean 133→134 boundary. Process exactly 11 scans and inspect scan 145 only when needed as the closing boundary witness.

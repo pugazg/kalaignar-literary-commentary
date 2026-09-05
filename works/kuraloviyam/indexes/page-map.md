@@ -9,7 +9,7 @@ Individual Markdown records under `../pages/` are authoritative for exact captur
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
-| 002 | 112–222 | 1–111 | scan 112 / printed 95; P2-01 through scan 122 / printed 105; scan 123 / printed 106 inspected as boundary witness | **source intake complete; Pass 1 11/111** |
+| 002 | 112–222 | 1–111 | scan 112 / printed 95; Pass 1 through scan 133 / printed 116; scan 134 / printed 117 inspected as boundary witness | **source intake complete; Pass 1 22/111** |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
@@ -76,7 +76,7 @@ No missing sentence or narrative continuation is inferred across the split.
 
 ## Part 002 physical map — current Pass 1 coverage
 
-P2-01 created **11 page-aligned records**, scans **112–122 / printed 95–105**.
+Pass 1 currently contains **22 page-aligned records**, scans **112–133 / printed 95–116**.
 
 | Overall scans | Printed pages | Source role / observed boundary | Pass 1 state |
 |---:|---:|---|---|
@@ -85,13 +85,23 @@ P2-01 created **11 page-aligned records**, scans **112–122 / printed 95–105*
 | 116 | 99 | lemon/liquor/love comparison; Chapter 129 / Kural 1281 | needs-review |
 | 117–118 | 100–101 | Valluvar/student/hunter/deer vignette; Chapter 30 / Kurals 292, 293 | needs-review |
 | 119–120 | 102–103 | husband/wife and eyeliner analogy; Chapter 129 / Kural 1285 | needs-review |
-| 121–122 | 104–105 | merchant/rest-house vignette begins | needs-review |
+| 121–123 | 104–106 | merchant/rest-house vignette; closes on scan 123 with Chapter 51 / Kural 510 | needs-review |
+| 124–125 | 107–108 | young-woman/heart vignette; Chapter 130 / Kural 1291 | needs-review |
+| 126–127 | 109–110 | Gandhi vignette; Chapter 83 / Kural 828 | needs-review |
+| 128–129 | 111–112 | sneezing/lovers vignette; Chapter 132 / Kurals 1317, 1312 | needs-review |
+| 130–131 | 113–114 | elderly-man/public-meeting vignette; Chapter 10 / Kural 100 | needs-review |
+| 132–133 | 115–116 | lovers' quarrel vignette; Chapter 132 / Kurals 1313, 1320 | needs-review |
 
 Additional physical notes:
 
 - scan **118 / printed 101** carries a blue circular library stamp in the lower margin; it is recorded as non-body material;
-- scan **123 / printed 106** was inspected only as the P2-01 boundary witness;
-- scan **122→123** is a genuine narrative continuation of the merchant/rest-house vignette, so the 11-scan cutoff is not a source boundary.
+- **122→123** is a genuine narrative continuation of the merchant/rest-house vignette, confirming that the 11-scan batching rule does not create a textual boundary;
+- scan **134 / printed 117** was inspected only as the P2-02 closing boundary witness and begins a new illustrated vignette;
+- **133→134 is a clean source boundary**.
+
+Durable Pass 1 progress record:
+
+`../PART_002_PASS1_PROGRESS.md`
 
 ## Verification gates
 
@@ -119,13 +129,13 @@ Detailed Part 001 verification/provenance records:
 Part 002:
 
 - source intake — **COMPLETE**;
-- Pass 1 — **11/111 complete**, scans 112–122;
+- Pass 1 — **22/111 complete**, scans 112–133;
 - Pass 2A / 2B / 3 — not started.
 
 ## Current frontier
 
 **Part 001: CLOSED.**
 
-**Part 002: ACTIVE — source intake complete; P2-01 / Pass 1 scans 112–122 complete.**
+**Part 002: ACTIVE — source intake complete; P2-01 and P2-02 / Pass 1 scans 112–133 complete.**
 
-Exact next activity: **P2-02 / Pass 1 scans 123–133**, preserving the scan 122→123 continuation and using scan 134 only as a boundary witness when necessary.
+Exact next activity: **P2-03 / Pass 1 scans 134–144 / printed 117–127**, beginning at the clean 133→134 boundary and inspecting scan 145 only as the closing boundary witness when necessary.
