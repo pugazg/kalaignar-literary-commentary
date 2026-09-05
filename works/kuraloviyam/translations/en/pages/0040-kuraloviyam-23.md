@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -22,7 +22,7 @@ The family had become two flowers and one bud—
 
 A token of love, a casket of beauty, a picture that cannot be erased and redrawn—it moves about in their home.
 
-When its little hand scoops up gruel and feeds it, even the food becomes sweeter. By touching its parents with its body, it gives them bodily delight.
+When its little hand scoops and dips into the gruel, the gruel becomes sweeter. By touching its parents with its body, it gives them bodily delight.
 
 It proclaims, “Here is the babbling speech that surpasses both your flute and your yaazh!”
 
