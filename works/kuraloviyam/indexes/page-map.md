@@ -9,7 +9,7 @@ Individual Markdown records under `../pages/` are authoritative for exact captur
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
-| 002 | 112–222 | 1–111 | scan 112 / printed 95; Pass 1 through scan 155 / printed 138; scan 156 / printed 139 inspected as boundary witness | **source intake complete; Pass 1 44/111** |
+| 002 | 112–222 | 1–111 | scan 112 / printed 95; Pass 1 through scan 166 / printed 149; scan 167 / printed 150 inspected as boundary witness | **source intake complete; Pass 1 55/111** |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
@@ -66,26 +66,22 @@ Do not reconstruct those readings from context, OCR, web text or a standard edit
 
 ## Part 002 boundary resolution
 
-The real Part 002 source resolves the previously deferred split boundary.
-
 - scan **111 / printed 94** closes the learned-speaker / `சொல்வன்மை` vignette with Kurals 648 and 650;
 - scan **112 / printed 95** begins a new illustrated love vignette;
-- **111→112 is therefore a clean vignette boundary**.
-
-No missing sentence or narrative continuation is inferred across the split.
+- **111→112 is a clean vignette boundary**.
 
 ## Part 002 physical map — current Pass 1 coverage
 
-Pass 1 currently contains **44 page-aligned records**, scans **112–155 / printed 95–138**.
+Pass 1 currently contains **55 page-aligned records**, scans **112–166 / printed 95–149**.
 
 | Overall scans | Printed pages | Source role / observed boundary | Pass 1 state |
 |---:|---:|---|---|
-| 112–113 | 95–96 | love / `ஊடல்` vignette; closes with Chapter 133 / Kural 1330 | needs-review |
-| 114–115 | 97–98 | sculptor/painter vignette; closes with Chapter 41 / Kural 407 | needs-review |
+| 112–113 | 95–96 | love / `ஊடல்` vignette; Chapter 133 / Kural 1330 | needs-review |
+| 114–115 | 97–98 | sculptor/painter vignette; Chapter 41 / Kural 407 | needs-review |
 | 116 | 99 | lemon/liquor/love comparison; Chapter 129 / Kural 1281 | needs-review |
 | 117–118 | 100–101 | Valluvar/student/hunter/deer vignette; Chapter 30 / Kurals 292, 293 | needs-review |
 | 119–120 | 102–103 | husband/wife and eyeliner analogy; Chapter 129 / Kural 1285 | needs-review |
-| 121–123 | 104–106 | merchant/rest-house vignette; closes on scan 123 with Chapter 51 / Kural 510 | needs-review |
+| 121–123 | 104–106 | merchant/rest-house vignette; Chapter 51 / Kural 510 | needs-review |
 | 124–125 | 107–108 | young-woman/heart vignette; Chapter 130 / Kural 1291 | needs-review |
 | 126–127 | 109–110 | Gandhi vignette; Chapter 83 / Kural 828 | needs-review |
 | 128–129 | 111–112 | sneezing/lovers vignette; Chapter 132 / Kurals 1317, 1312 | needs-review |
@@ -96,21 +92,28 @@ Pass 1 currently contains **44 page-aligned records**, scans **112–155 / print
 | 138–139 | 121–122 | owl/crows timing vignette; Chapter 49 / Kural 481 | needs-review |
 | 140–141 | 123–124 | sisters/child/absent-lover vignette; Chapter 125 / Kural 1244 | needs-review |
 | 142–143 | 125–126 | medical-hypocrisy vignette; Chapter 28 / Kural 277 | needs-review |
-| 144–145 | 127–128 | secret-meeting vignette; closes with Chapter 115 / Kural 1146 | needs-review |
+| 144–145 | 127–128 | secret-meeting vignette; Chapter 115 / Kural 1146 | needs-review |
 | 146–147 | 129–130 | physician/tiger vignette; Chapter 47 / Kural 469 | needs-review |
 | 148–149 | 131–132 | separated-woman/moon vignette; Chapter 121 / Kural 1210 | needs-review |
 | 150–152 | 133–135 | `தெளிந்தான்` / `நெளிந்தான்` vignette; Chapter 15 / Kurals 142, 145 | needs-review |
 | 153 | 136 | woman addressing her own heart; Chapter 125 / Kural 1246 | needs-review |
 | 154–155 | 137–138 | lovers / `ஊடல்` vignette; Chapter 133 / Kural 1326 | needs-review |
+| 156–157 | 139–140 | crowd/knife and critical-inquiry vignette; Chapter 43 / Kural 423 | needs-review |
+| 158–159 | 141–142 | Maavengko/Maangani foreign-trade and separation vignette; Chapter 116 / Kural 1151 | needs-review |
+| 160–161 | 143–144 | elephant / terrain / strength vignette; Chapter 50 / Kural 500 | needs-review |
+| 162–163 | 145–146 | Malaiyan/Silamban/Kalingan slander vignette; Chapter 19 / Kural 188 | needs-review |
+| 164–165 | 147–148 | one-sided love / kavadi comparison; Chapter 120 / Kural 1196 | needs-review |
+| 166 | 149 | medical/valor vignette begins; continues to scan 167 | needs-review |
 
 Additional physical notes:
 
-- scan **118 / printed 101** carries a blue circular library stamp in the lower margin; it is recorded as non-body material;
-- **122→123** is a genuine narrative continuation of the merchant/rest-house vignette;
-- **133→134** is a clean source boundary;
-- **144→145** is a genuine narrative continuation of the secret-meeting vignette and is preserved across the workflow cutoff;
-- scan **156 / printed 139** was inspected only as the P2-04 closing boundary witness;
-- **155→156 is a clean source boundary** and scan 156 begins a new illustrated crowd/knife vignette.
+- scan **118 / printed 101** carries a blue circular library stamp in the lower margin;
+- **122→123** is a genuine continuation;
+- **133→134** is clean;
+- **144→145** is a genuine continuation;
+- **155→156** is clean;
+- scan **167 / printed 150** was inspected only as the P2-05 closing boundary witness;
+- **166→167 is a genuine narrative continuation** of the medical/valor vignette.
 
 Durable Pass 1 progress record:
 
@@ -133,13 +136,13 @@ Part 001:
 Part 002:
 
 - source intake — **COMPLETE**;
-- Pass 1 — **44/111 complete**, scans 112–155;
+- Pass 1 — **55/111 complete**, scans 112–166;
 - Pass 2A / 2B / 3 — not started.
 
 ## Current frontier
 
 **Part 001: CLOSED.**
 
-**Part 002: ACTIVE — source intake complete; P2-01 through P2-04 / Pass 1 scans 112–155 complete.**
+**Part 002: ACTIVE — source intake complete; P2-01 through P2-05 / Pass 1 scans 112–166 complete.**
 
-Exact next activity: **P2-05 / Pass 1 scans 156–166 / printed 139–149**, beginning at the clean 155→156 source boundary and inspecting scan 167 only as the closing boundary witness when necessary.
+Exact next activity: **P2-06 / Pass 1 scans 167–177 / printed 150–160**, beginning with the known **166→167 continuation** and inspecting scan 178 only as the closing boundary witness when necessary.
