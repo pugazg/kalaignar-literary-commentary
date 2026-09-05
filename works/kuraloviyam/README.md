@@ -8,7 +8,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
-| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; English source-check **111/111 complete**; glossary reconciliation **111/111 complete**; editorial review through scan 90 |
+| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; English source-check **111/111 complete**; glossary reconciliation **111/111 complete**; editorial review through scan 105 |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -110,22 +110,34 @@ The current user-directed normal iteration size is **15 consecutive scans**; a f
 - **90→91** was boundary-checked; scan 91 begins a new character-judgement vignette and was not processed in ER6;
 - no standard/published/web English Kural wording was imported.
 
-Current English page statuses after ER6:
+### ER7 / scans 91–105 — COMPLETE
 
-- `editorial-reviewed`: **86**;
-- `source-checked`: **21**;
+- scans **91–105** promoted to `editorial-reviewed`;
+- source-faithful readability refinements: scans **91, 103 and 105**;
+- scan **91** now renders `புவிக்கோர் நல்லமுதே` naturally as **“Sweet nectar to the earth!”**;
+- scan **103**'s intended `ஊடல்` sentence was restructured without changing the heroine's resolve to teach her lover not to break another promise;
+- scan **105**'s military-preparation sentence was streamlined while preserving `எதிரிகளை வழியிலேயே மடக்கித் துரத்திடும் திட்டத்துடன்`;
+- scans **92–102 and 104** required no body wording change;
+- **91→92, 93→94, 95→96, 97→98, 99→100→101, 102→103 and 104→105** continuities remain intact;
+- **105→106** was boundary-checked; scan 106 begins the Kalingan/Kathiravan vignette and was not processed in ER7;
+- no standard/published/web English Kural wording was imported.
+
+Current English page statuses after ER7:
+
+- `editorial-reviewed`: **101**;
+- `source-checked`: **6**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - `draft`: **0**;
 - `release-ready`: **0**.
 
-Editorial-review coverage: **90/111 scans**.
+Editorial-review coverage: **105/111 scans**.
 
 # Current frontier
 
 **Tamil Part 001: archival-ready / closed.**
 
-**English Part 001: first-pass drafting COMPLETE; source-check COMPLETE; glossary reconciliation COMPLETE; editorial review complete through scan 90.**
+**English Part 001: first-pass drafting COMPLETE; source-check COMPLETE; glossary reconciliation COMPLETE; editorial review complete through scan 105.**
 
-Exact next activity: **editorial consistency review ER7 — scans 91–105**, exactly 15 consecutive scans. Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity while preserving audited Tamil meaning. Passing pages may move to `editorial-reviewed`.
+Exact next activity: **editorial consistency review ER8 — scans 106–111**, the final six-scan editorial remainder. Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and the Part-ending boundary while preserving audited Tamil meaning. Passing pages may move to `editorial-reviewed`.
 
-Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
+After ER8, proceed to the **Part-level English review** gate; do not begin Part 002. The scan **111→112** split boundary remains unverifiable until Part 002 is supplied.
