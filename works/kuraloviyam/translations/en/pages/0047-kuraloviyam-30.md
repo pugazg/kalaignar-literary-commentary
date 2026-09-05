@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,7 +19,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 With a smile blossoming on his face, the young man answered without fear.
 
-“Fool! If that was your desire, you could have done something you were capable of doing and then feasted in the palace as its reward!” the king rebuked him.
+“Why! If that was your desire, you could have done something you were capable of doing and then feasted in the palace as its reward!” the king rebuked him.
 
 “If a man says he will do only what he is capable of, who respects such a man, Your Majesty? Only when one says, ‘I shall accomplish marvels,’ do worshipful honours and all those affectionate welcomes come!”
 
