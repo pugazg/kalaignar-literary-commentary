@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,13 +15,13 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 Only after the third call came a sound: “Mm!”
 
-“Kayalvizhi, dear! Bring that buttermilk, child,” the mother said with affection. Moving as though each lifted step pained her and each placed step blistered, Kayalvizhi entered the hall carrying two pots of buttermilk. When her mother took them and offered them to the poet and his friend, the poet's heart was no longer with him. It had grown wings and begun flying through the sky of imagination.
+“Kayalvizhi, dear! Bring that buttermilk, child,” the mother said with affection. Moving as though each step she placed hurt and each foot she lifted blistered, Kayalvizhi entered the hall carrying two pots of buttermilk. When her mother took them and offered them to the poet and his friend, the poet's heart was no longer with him. It had grown wings and begun flying through the sky of imagination.
 
 She was even more beautiful than he had expected. The poet felt that the crowning glory of that overflowing young beauty was her eyes. His heart began to speak: “Ah! Dark eyes stretching as long as the ear! What magnetic power they possess! The pupils whirl with fascination like black bees trapped inside a glass case! Shall I call them fish-like eyes? Or spear-like eyes that pierce my heart? At the command of her sidelong glance, not merely this moonlit world but even the sky through which the sun moves would submit! For these truly are eyes! She is not a woman; it would be more fitting to call her an eye.”
 
 Speaking thus within himself, the poet held out a palm-leaf manuscript to Kayalvizhi standing before him. “Here, child! This is a poem I wrote about our future married life. Come, open your mouth and read it aloud.”
 
-Kayalvizhi merely shook her head with an embarrassed “Ha-ha...mm.”
+Kayalvizhi merely shook her head with a “Ha-ha...mm.”
 
 “Would all this happen so quickly? Would not a girl feel shy?” asked the friend.
 
