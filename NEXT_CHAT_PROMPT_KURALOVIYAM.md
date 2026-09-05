@@ -58,8 +58,6 @@ Permanent review cadence:
 
 Do not import standard Thirukkural wording, published English translations, web text, another commentator or memory.
 
-The user-directed normal iteration size is **15 consecutive physical scan pages**; a final Part remainder may be shorter.
-
 ## Completed Part 001 English gates
 
 - first-pass drafting: **111/111 COMPLETE**;
@@ -71,43 +69,39 @@ The user-directed normal iteration size is **15 consecutive physical scan pages*
 - ER4 / **46–60: COMPLETE**;
 - ER5 / **61–75: COMPLETE**;
 - ER6 / **76–90: COMPLETE**;
-- ER7 / **91–105: COMPLETE**.
+- ER7 / **91–105: COMPLETE**;
+- ER8 / **106–111: COMPLETE**.
 
-### Editorial-review state through ER7
+### Editorial-review closure state
 
-- scans **1–12, 16–18 and 20–105** are `editorial-reviewed`;
-- scans **13, 14, 15 and 19** remain `source-limited`;
-- ER7 readability refinements: scans **91, 103 and 105**;
-- scan **91** preserves `புவிக்கோர் நல்லமுதே` as **“Sweet nectar to the earth!”**;
-- scan **103** preserves the intended `ஊடல்` while removing mechanical English;
-- scan **105** preserves `எதிரிகளை வழியிலேயே மடக்கித் துரத்திடும் திட்டத்துடன்` while streamlining the military-preparation sentence;
-- ER7 continuities **91→92, 93→94, 95→96, 97→98, 99→100→101, 102→103 and 104→105** remain intact;
-- scan **105→106** was boundary-checked only; scan 106 begins a new Kalingan/Kathiravan vignette;
+- `editorial-reviewed`: **107**;
+- `source-limited`: **4** — scans 13, 14, 15, 19;
+- `source-checked`: **0**;
+- `draft`: **0**;
+- `release-ready`: **0**;
+- editorial-review coverage: **111/111 COMPLETE**;
+- ER8 required **no body-text changes** and promoted scans 106–111 by status only;
+- **106→107** and **109→110→111** continuities remain intact; scan 108 is self-contained;
+- scan **111** is the final supplied Part 001 physical scan;
+- the **111→112** split boundary remains unverified and must not be reconstructed before Part 002 is supplied;
 - no source-limited material was reconstructed;
 - no standard/published/web English Kural wording was imported.
 
-Current English page statuses:
-
-- `editorial-reviewed`: **101**;
-- `source-checked`: **6**;
-- `source-limited`: **4** — scans 13, 14, 15, 19;
-- `draft`: **0**;
-- `release-ready`: **0**.
-
-Editorial-review coverage: **105/111 scans**.
-
 ## Exact next activity
 
-If live `main` has not advanced beyond this frontier, execute **Part 001 editorial consistency review ER8 — scans 106–111**, the final **six-scan remainder**.
+If live `main` has not advanced beyond this frontier, execute the **Part 001 Part-level English review** gate.
 
-1. process exactly scans **106–111**;
-2. review English readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and the Part-ending boundary;
-3. compare with matching audited Tamil whenever an editorial change could alter meaning;
-4. make only source-faithful editorial improvements; do not add new commentary or explanation absent from the source;
-5. do not import terminology or wording from standard Thirukkural editions, web sources, published translations, another commentator or memory;
-6. passing scans **106–111** may move from `source-checked` to `editorial-reviewed`;
-7. update `TRANSLATION_STATUS.md`, English/work README, `works/kuraloviyam/HANDOVER.md`, and this prompt;
-8. audit the exact pre-batch base→head changed-file set;
-9. after ER8, proceed to the **Part-level English review** gate, not Part 002.
+1. review the completed **111-page English layer as a whole** rather than repeating page-level editorial batches;
+2. verify every English page record exists and maps correctly to its audited Tamil page record;
+3. verify final statuses are exactly **107 `editorial-reviewed` + 4 `source-limited`**, with no `draft`, `source-checked` or `release-ready` records;
+4. verify scans **13, 14, 15 and 19** preserve their source limitations and contain no reconstructed missing material;
+5. verify controlled glossary terms, names, chapter labels, Kural numbering/metadata, quotations, repeated phrasing, page function and cross-page continuations at Part scale;
+6. preserve the unresolved **111→112** split boundary explicitly;
+7. create a durable Part-level English review artefact under `works/kuraloviyam/translations/en/reviews/` recording scope, controls, findings, limitations and PASS/FAIL result;
+8. update `TRANSLATION_STATUS.md`, English/work README, `works/kuraloviyam/HANDOVER.md`, and this prompt;
+9. audit the exact pre-gate base→head changed-file set;
+10. if the Part-level review passes, advance only to the **Part-level English release report** gate.
 
-The **111→112** split boundary is not source-verifiable until Part 002 is supplied. Do not reconstruct or silently close it.
+Do **not** promote pages to `release-ready` during Part-level review. `release-ready` is reserved for pages included in the completed and approved release report.
+
+Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
