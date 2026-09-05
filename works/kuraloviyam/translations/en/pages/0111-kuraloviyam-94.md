@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -17,12 +17,12 @@ So he spoke humbly to the lecturer: “I ask you to forget what happened. The pe
 
 The lecturer smiled and patted the association organizer reassuringly.
 
-“My friend! It is not the fault of the people of this town. The fault is mine. I am indeed one who has learned much, but I do not possess the ability to express that learning fully and pleasantly. Valluvar says that the world hastens to listen when it finds those who can arrange ideas in order and speak them sweetly. And that is not all. Do you know what Valluvar says about me? I am like a flower that has blossomed in a cluster but gives no fragrance! That is, Valluvar's judgment is that those who lack the ability to unfold and explain to others the ideas of the many books they have learned are like flowers that bloom in clusters yet give no scent.”
+“My friend! It is not the fault of the people of this town. The fault is mine. I am indeed one who has learned much, but I do not possess the ability to express that learning fully and pleasantly. Valluvar says that the world swiftly heeds the bidding of those who can arrange ideas in order and speak them sweetly. And that is not all. Do you know what Valluvar says about me? I am like a flower that has blossomed in a cluster but gives no fragrance! That is, Valluvar's judgment is that those who lack the ability to unfold and explain to others the ideas of the many books they have learned are like flowers that bloom in clusters yet give no scent.”
 
 After consoling the organizer, the lecturer took his leave.
 
-> The world will hasten to hear its work  
-> if it gains those able to speak in ordered sweetness.
+> The world will swiftly heed the bidding  
+> of one able to arrange and speak words sweetly.
 
 > Like clustered flowers that blossom without fragrance  
 > are those who cannot unfold what they have learned for others to understand.
