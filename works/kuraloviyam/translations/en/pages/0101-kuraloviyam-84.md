@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,9 +19,9 @@ When he entered, the people looked at him with disgust. Some ignored him. He sto
 
 A sound of laughter mixed with weeping arose from the crowd. It was wild, bitter laughter. An old woman came forward and stood before him.
 
-“What a splendid guardian you are! After we appealed to you, three children in this settlement became prey to the tiger. Look—look at these forms of grief, parents who have lost their precious children! We understood that your guardianship would never help us. You delay everything; you are the very shape of forgetfulness, a mine of laziness, a king of sleep. We knew you could not protect us. So we joined together and killed the tiger ourselves. If you wish, have your men skin it and take the hide! Cut off its claws and take them! Pull out the teeth that were soaked in our children's blood and carry them away!” she cried in fury.
+“What a splendid guardian you are! After we appealed to you, three children in this settlement became prey to the tiger. Look—look at these forms of grief standing after losing their precious treasures! We understood that your guardianship would never help us. You delay everything; you are the very shape of forgetfulness, a mine of laziness, a king of sleep. We knew you could not protect us. So we joined together and killed the tiger ourselves. If you wish, have your men skin it and take the hide! Cut off its claws and take them! Pull out the teeth that were soaked in our children's blood and carry them away!” she cried in fury.
 
-Urkkavalan could not raise his bowed head. Struck by shame, he said nothing to anyone and slowly walked out of the settlement.
+Urkkavalan could not raise his bowed head. Struck by shame, he said nothing to anyone and walked step after step out of the settlement.
 
 That is why Valluvar said that delay, forgetfulness, idleness and excessive sleep are the four vessels willingly boarded by those whose nature leads them towards ruin. Here is the Kural:
 
