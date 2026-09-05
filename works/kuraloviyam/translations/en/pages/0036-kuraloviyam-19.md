@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains authoritative"
 ---
@@ -19,7 +19,7 @@ By calling him “Vaal-arivan,” Valluvar said that he is one who stands as the
 
 “Aravaazhi anthanan”
 
-In these ways he laid down the qualities attached to the word called God.
+In all these ways, he defined the qualities associated with what is called God.
 
 Valluvar thought that a person should live in this world possessing all these excellences attributed to the divine.
 
