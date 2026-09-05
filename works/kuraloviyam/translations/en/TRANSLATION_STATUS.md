@@ -256,11 +256,12 @@ Compared all fifteen English records with their audited Tamil records and the ex
 Result:
 
 - scans **76–90** — terminology reconciliation PASS;
-- **three English page records** required **four terminology corrections**:
+- **three English page records** required **five terminology/citation-metadata correction groups**:
   - scan **77**: `வள்ளுவர் கோட்டம்` was reconciled from generic **“Valluvar's hall”** to **Valluvar Kottam**;
   - scan **86**: `கனவுநிலையுரைத்தல்` was reconciled from **Speaking of the State of Dreams** to the existing controlled label **Speaking of the Dream State**;
   - scan **90**: recurring `காம நோய்` was reconciled from **illness of love** to **love-sickness**;
   - scan **90**: `பசப்புறுபருவரல்` was reconciled from **Anguish of Pallor** to **Suffering from Pallor**, matching scans 81–82;
+  - scan **90**: source citation metadata `பாடல் / பாடல்கள்` was reconciled from generic **verse / verses** to the controlled **Kural / Kurals** convention;
 - six new source-supported chapter-label controls were added: **Reproaching the Eyes**, **Gambling**, **Suffering from Pallor**, **Just Rule**, **Not Offending the Great**, and **Lamenting in Wasting Longing**; the Chapter 122 source spacing variant was reconciled to the existing English label;
 - recurring `செங்கோல்` and `காம நோய்` controls were added;
 - `பெரியார்` was refined as context-sensitive so generic Kural/literary uses are not mechanically treated as the personal name **Periyar**;
