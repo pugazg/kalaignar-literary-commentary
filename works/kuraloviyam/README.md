@@ -8,7 +8,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
-| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; English source-check **111/111 complete**; glossary reconciliation **111/111 complete**; editorial review not started |
+| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; English source-check **111/111 complete**; glossary reconciliation **111/111 complete**; editorial review through scan 15 |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -74,42 +74,46 @@ Drafting Batches 1–10 cover scans 1–111.
 - SC7 / scans 91–105 — COMPLETE;
 - SC8 / scans 106–111 — COMPLETE, final 6-page remainder.
 
-Final English source-check statuses:
-
-- page records: **111 / 111**;
-- `source-checked`: **107**;
-- `source-limited`: **4** — scans 13–15, 19; all four have been reviewed within available evidence;
-- `draft`: **0**;
-- editorial-reviewed: **0**;
-- release-ready: **0**.
-
-No unreadable source material was reconstructed and no external/standard English Kural wording was imported.
-
 ## Glossary / recurring-terminology reconciliation
 
 **COMPLETE — 111/111 physical scans reconciled.**
 
-- **GR1 / scans 1–15 — COMPLETE**;
-- **GR2 / scans 16–30 — COMPLETE**;
-- **GR3 / scans 31–45 — COMPLETE**;
-- **GR4 / scans 46–60 — COMPLETE**;
-- **GR5 / scans 61–75 — COMPLETE**;
-- **GR6 / scans 76–90 — COMPLETE**;
-- **GR7 / scans 91–105 — COMPLETE**;
-- **GR8 / scans 106–111 — COMPLETE**, final 6-page remainder;
-- GR4 reconciled scan 52 **Chenguttuvan → Senguttuvan** and scan 59 **the revolutionary poet Bharathidasan → Puratchi Kavignar Bharathidasan**;
-- GR5 required **no English page wording corrections**; it added nine source-supported Kural chapter labels, `பதர் / பதடி` → **chaff**, narrative names **Karmegam / Poovazhagi / Kannayiram / Thirunadu / Valanadu**, and the context-aware **Ramayanam / Ramayana** distinction with **Valmiki**;
-- GR6 corrected scan 77 **Valluvar's hall → Valluvar Kottam**, scan 86 **Speaking of the State of Dreams → Speaking of the Dream State**, and scan 90 terminology/citation metadata to **love-sickness**, **Suffering from Pallor**, and **Kural / Kurals**;
-- GR7 corrected citation metadata on scans **92, 94, 96, 98, 101 and 103**, reconciled scan 96 **Learning → Education** and scan 98 **Loss of Bodily Beauty → Wasting Away of Bodily Beauty**, and added controls for four new chapter labels plus **Thenmozhi / Paingili / Kayalvizhi / Urkkavalan / Villavan**;
-- GR8 required **no English page wording corrections**; it added controls for **Freedom from Anger**, **Longing for His Return**, **Power of Speech**, **Kalingan / Kalinga**, and **Kathiravan**;
-- glossary reconciliation does not itself change page review status.
+- GR1 / scans 1–15 — COMPLETE;
+- GR2 / scans 16–30 — COMPLETE;
+- GR3 / scans 31–45 — COMPLETE;
+- GR4 / scans 46–60 — COMPLETE;
+- GR5 / scans 61–75 — COMPLETE;
+- GR6 / scans 76–90 — COMPLETE;
+- GR7 / scans 91–105 — COMPLETE;
+- GR8 / scans 106–111 — COMPLETE, final 6-page remainder.
+
+## Editorial consistency review
+
+### ER1 / scans 1–15 — COMPLETE
+
+- scans **1–12** passed and were promoted from `source-checked` to `editorial-reviewed`;
+- scans **13–15** were reviewed within securely established source-limited material and remain `source-limited`;
+- two source-faithful readability refinements were made:
+  - scan **5**: **“Amid the social community of Tamil land as it existed two thousand years ago...”** → **“In the midst of Tamil society as it existed two thousand years ago...”**;
+  - scan **6**: the awkward **“six-month rigorous-imprisonment prisoner...”** construction was refined to **“serving six months of rigorous imprisonment...”** while retaining the Kallakudi/Tiruchirappalli meaning;
+- scans **1–4 and 7–12** required no body wording changes;
+- scans 13–15 were not reconstructed;
+- no standard/published/web English Kural wording was imported.
+
+Current English page statuses after ER1:
+
+- `editorial-reviewed`: **12**;
+- `source-checked`: **95**;
+- `source-limited`: **4** — scans 13, 14, 15, 19;
+- `draft`: **0**;
+- `release-ready`: **0**.
 
 # Current frontier
 
 **Tamil Part 001: archival-ready / closed.**
 
-**English Part 001: first-pass drafting COMPLETE; source-check COMPLETE; glossary reconciliation COMPLETE.**
+**English Part 001: first-pass drafting COMPLETE; source-check COMPLETE; glossary reconciliation COMPLETE; editorial review complete through scan 15.**
 
-Exact next activity: **editorial consistency review ER1 — scans 1–15**, exactly 15 consecutive scans. Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity while preserving audited Tamil meaning. Passing non-limited pages may move to `editorial-reviewed`; scans 13–15 remain `source-limited` and must not be reconstructed.
+Exact next activity: **editorial consistency review ER2 — scans 16–30**, exactly 15 consecutive scans. Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity while preserving audited Tamil meaning. Scan 19 remains `source-limited`; all other passing pages in this batch may move to `editorial-reviewed`.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
