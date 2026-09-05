@@ -8,7 +8,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
-| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; English source-check **111/111 complete**; glossary reconciliation through scan 90 |
+| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; English source-check **111/111 complete**; glossary reconciliation through scan 105 |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -93,19 +93,20 @@ No unreadable source material was reconstructed and no external/standard English
 - **GR4 / scans 46–60 — COMPLETE**;
 - **GR5 / scans 61–75 — COMPLETE**;
 - **GR6 / scans 76–90 — COMPLETE**;
-- glossary reconciliation coverage: **90 / 111 scans**;
+- **GR7 / scans 91–105 — COMPLETE**;
+- glossary reconciliation coverage: **105 / 111 scans**;
 - GR4 reconciled scan 52 **Chenguttuvan → Senguttuvan** and scan 59 **the revolutionary poet Bharathidasan → Puratchi Kavignar Bharathidasan**;
 - GR5 required **no English page wording corrections**; it added nine source-supported Kural chapter labels, `பதர் / பதடி` → **chaff**, narrative names **Karmegam / Poovazhagi / Kannayiram / Thirunadu / Valanadu**, and the context-aware **Ramayanam / Ramayana** distinction with **Valmiki**;
-- GR6 corrected three English page records: scan 77 **Valluvar's hall → Valluvar Kottam**; scan 86 **Speaking of the State of Dreams → Speaking of the Dream State**; scan 90 **illness of love → love-sickness**, **Anguish of Pallor → Suffering from Pallor**, and citation metadata **verse / verses → Kural / Kurals**;
-- GR6 added source-supported controls for six new chapter labels, `செங்கோல்`, `காம நோய்`, and context-sensitive `பெரியார்`;
+- GR6 corrected scan 77 **Valluvar's hall → Valluvar Kottam**, scan 86 **Speaking of the State of Dreams → Speaking of the Dream State**, and scan 90 terminology/citation metadata to **love-sickness**, **Suffering from Pallor**, and **Kural / Kurals**;
+- GR7 corrected citation metadata on scans **92, 94, 96, 98, 101 and 103**, reconciled scan 96 **Learning → Education** and scan 98 **Loss of Bodily Beauty → Wasting Away of Bodily Beauty**, and added controls for four new chapter labels plus **Thenmozhi / Paingili / Kayalvizhi / Urkkavalan / Villavan**;
 - glossary reconciliation does not change page review status.
 
 # Current frontier
 
 **Tamil Part 001: archival-ready / closed.**
 
-**English Part 001: first-pass drafting COMPLETE; source-check COMPLETE; glossary reconciliation complete through scan 90.**
+**English Part 001: first-pass drafting COMPLETE; source-check COMPLETE; glossary reconciliation complete through scan 105.**
 
-Exact next activity: **glossary / recurring-terminology reconciliation GR7 — scans 91–105**, exactly 15 consecutive scans. Check controlled names, literary terms, chapter labels, work/publication names and repeated English renderings against the expanded glossary and audited Tamil context. This gate does not itself promote pages to `editorial-reviewed`.
+Exact next activity: **glossary / recurring-terminology reconciliation GR8 — scans 106–111**, the final 6-page remainder. Check controlled names, literary terms, chapter labels, work/publication names and repeated English renderings against the expanded glossary and audited Tamil context. This gate does not itself promote pages to `editorial-reviewed`.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
