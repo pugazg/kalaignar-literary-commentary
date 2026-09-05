@@ -54,23 +54,26 @@ Part 001 English:
 - page-aligned first-pass translation: **111/111 COMPLETE**;
 - source-check: **111/111 COMPLETE**;
 - glossary / recurring-terminology reconciliation: **111/111 COMPLETE**;
-- editorial review: **105/111 scans reviewed at the gate** — ER1 scans 1–15, ER2 scans 16–30, ER3 scans 31–45, ER4 scans 46–60, ER5 scans 61–75, ER6 scans 76–90 and ER7 scans 91–105 COMPLETE;
-- page statuses after ER7: **101 `editorial-reviewed` + 6 `source-checked` + 4 `source-limited`**;
+- editorial review: **111/111 COMPLETE** — ER1 through ER8 complete;
+- page statuses after ER8: **107 `editorial-reviewed` + 4 `source-limited`**;
+- `source-checked`: **0**;
 - `draft`: **0**;
-- source-limited scans: **13, 14, 15, 19**; all have been reviewed within securely established material for the editorial batches that include them and remain `source-limited`;
+- source-limited scans: **13, 14, 15, 19**; all were reviewed within securely established material and remain `source-limited`;
 - ER1 readability refinements: scans **5 and 6**;
-- ER2 readability refinements: scans **20, 21, 24 and 28**;
-- ER3 readability refinements: scans **36, 42, 43 and 44**;
-- ER4 readability refinements: scans **46, 50 and 60**;
-- ER5 readability refinements: scans **61, 68, 73 and 74**;
-- ER6 readability refinements: scans **78, 79 and 80**;
-- ER7 readability refinements: scans **91, 103 and 105**; all other ER7 pages required status promotion only;
-- ER7 preserved the **91→92, 93→94, 95→96, 97→98, 99→100→101, 102→103 and 104→105** continuities; **105→106** was boundary-checked and scan 106 begins a new vignette;
+- ER2: **20, 21, 24 and 28**;
+- ER3: **36, 42, 43 and 44**;
+- ER4: **46, 50 and 60**;
+- ER5: **61, 68, 73 and 74**;
+- ER6: **78, 79 and 80**;
+- ER7: **91, 103 and 105**;
+- ER8 / scans **106–111** required **no body-text changes**; status promotion only;
+- ER8 preserved **106→107** and **109→110→111** continuities; scan 108 remains self-contained;
+- scan **111** is the final supplied Part 001 scan; **111→112** remains unresolved until Part 002 is supplied;
 - no unreadable source material was reconstructed;
 - no standard/published/web English Kural wording was imported;
 - release-ready: **0**.
 
-The exact next gate is **editorial consistency review ER8 — scans 106–111**, the final six-scan editorial remainder. Passing pages may move from `source-checked` to `editorial-reviewed`.
+The exact next gate is the **Part 001 Part-level English review**. This gate reviews the completed English layer as a whole and creates a durable Part-level review artefact. It does **not** promote pages to `release-ready`; that occurs only after the later release-report gate.
 
 See `TRANSLATION_STATUS.md` for the authoritative English frontier.
 
