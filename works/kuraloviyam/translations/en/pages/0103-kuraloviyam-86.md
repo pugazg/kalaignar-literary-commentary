@@ -30,6 +30,6 @@ Seeing the heroine immersed in joy, her friend too overflowed with happiness.
 > I went intending to quarrel; I embraced instead,  
 > seeing that my heart had already gone to unite with him.
 
-Chapter 126 — Loss of Restraint; verse 1259
+Chapter 126 — Loss of Restraint; Kural 1259
 
 <!-- Source scan page: 103; printed page: 86 -->
