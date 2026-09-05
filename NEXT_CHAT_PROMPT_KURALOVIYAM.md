@@ -64,7 +64,7 @@ Permanent review cadence:
 
 Do not import standard Thirukkural wording, published English translations, web text, another commentator or memory.
 
-The user-directed normal iteration size is **15 consecutive physical scan pages**.
+The user-directed normal iteration size is **15 consecutive physical scan pages**; a final Part remainder may be shorter.
 
 ## English first-pass state — COMPLETE
 
@@ -72,61 +72,49 @@ All **111/111** Part 001 English page records exist.
 
 ## Source-check state
 
-**SC1 — scans 1–15 — COMPLETE.**
-- scans 1–12 are `source-checked`;
-- scans 13–15 remain `source-limited`, reviewed within safely established evidence.
+- **SC1 / scans 1–15 — COMPLETE**; scans 1–12 `source-checked`, scans 13–15 reviewed and `source-limited`.
+- **SC2 / scans 16–30 — COMPLETE**; scans 16–18, 20–30 `source-checked`, scan 19 reviewed and `source-limited`.
+- **SC3 / scans 31–45 — COMPLETE**.
+- **SC4 / scans 46–60 — COMPLETE**.
+- **SC5 / scans 61–75 — COMPLETE**.
+- **SC6 / scans 76–90 — COMPLETE**.
+- **SC7 / scans 91–105 — COMPLETE**: all fifteen pages passed and are `source-checked`.
 
-**SC2 — scans 16–30 — COMPLETE.**
-- scans 16–18 and 20–30 are `source-checked`;
-- scan 19 remains `source-limited` after review;
-- corrected `மிகப் பலர் அல்லர்` to **“not very many.”**
+SC7 recorded eight fidelity-adjustment groups affecting eleven records:
 
-**SC3 — scans 31–45 — COMPLETE.**
-- all scans 31–45 are `source-checked`;
-- six fidelity adjustments affected seven records; details are in `translations/en/TRANSLATION_STATUS.md`.
+- scan 91: removed unsupported “softly” from the lip-movement description;
+- scans 93–94: repaired the `உட்கார்ந்து / கொண்டாள்` physical continuation;
+- scan 95: removed unsupported age information from `அழகிய பெண்`;
+- scan 96: corrected the reversed walking image and removed unsupported “embarrassed” from `ஹஹா-ம்`;
+- scans 99–100: restored the physical split at `தூங்கக்கூட விட மாட்டார்கள் / போலிருக்கிறதே`;
+- scan 101: removed unsupported “parents” and “slowly”;
+- scan 103: corrected `என் உயிரல்ல, என் இன்பமல்ல` in context to the affectionate **“My life! My joy!”**;
+- scans 104–105: repaired the `தனது / குதிரையின்மீது` continuation and removed duplicated horse-mounting action.
 
-**SC4 — scans 46–60 — COMPLETE.**
-- all scans 46–60 are `source-checked`;
-- three fidelity adjustments are documented in `translations/en/TRANSLATION_STATUS.md`.
-
-**SC5 — scans 61–75 — COMPLETE.**
-- all scans 61–75 are `source-checked`;
-- four fidelity adjustments are documented in `translations/en/TRANSLATION_STATUS.md`.
-
-**SC6 — scans 76–90 — COMPLETE.**
-- all scans **76–90** passed Tamil↔English fidelity comparison and are `source-checked`;
-- six fidelity adjustments affected seven records:
-  - scan 79: corrected the swollen-feet image;
-  - scans 81–82: repaired the physical mirror continuation and removed duplicated action;
-  - scans 85–86: removed unsupported **“come alive”** and repaired the beauty-description continuation;
-  - scan 86: restored the ear/music sense of `காதாரப் பண்பாடும் குயில்`;
-  - scan 87: restored **“slaves”** / **“lackeys”** for `அடிமைகள்` / `எடுபிடிகள்`;
-  - scan 88: removed unsupported **“a hundred times”**;
-- no unreadable source material was reconstructed and no external/standard Kural English wording was imported.
+No unreadable source material was reconstructed and no external/standard Kural English wording was imported.
 
 Current English totals:
 
 - page records: **111/111**;
-- source-check coverage: **90/111**;
-- `source-checked`: **86**;
-- `draft`: **21**;
-- `source-limited`: **4** — scans 13–15, 19; all four have been reviewed within available evidence;
+- source-check coverage: **105/111**;
+- `source-checked`: **101**;
+- `draft`: **6** — scans 106–111;
+- `source-limited`: **4** — scans 13–15, 19; all four reviewed within available evidence;
 - editorial-reviewed: **0**;
 - release-ready: **0**.
 
 ## Exact next activity
 
-If live `main` has not advanced beyond this frontier, execute **Part 001 English source-check SC7 — scans 91–105**.
+If live `main` has not advanced beyond this frontier, execute **Part 001 English source-check final remainder SC8 — scans 106–111**.
 
-1. fetch audited Tamil records and matching English records for scans **91–105**;
-2. process exactly **15 consecutive pages**;
+1. fetch audited Tamil records and matching English records for scans **106–111**;
+2. process the remaining **6 consecutive pages**;
 3. compare each page paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual/page function and cross-page continuations;
 4. promote each page from `draft` to `source-checked` only after it passes;
 5. revise only from audited repository Tamil and do not import standard Kural or external English wording;
 6. record source-check corrections transparently in affected English records and `translations/en/TRANSLATION_STATUS.md`;
-7. update `works/kuraloviyam/README.md`, `works/kuraloviyam/HANDOVER.md`, and this prompt after SC7;
-8. audit the pre-batch base→head changed-file set and record the final source-check remainder, scans **106–111**, before advancing.
-
-Do not begin glossary reconciliation or editorial review until Part 001 source-check is complete.
+7. update `works/kuraloviyam/README.md`, `works/kuraloviyam/HANDOVER.md`, and this prompt after SC8;
+8. audit the complete Part 001 source-check state;
+9. only after the source-check stage is fully closed, begin **glossary / recurring-terminology reconciliation** as the next English review gate.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
