@@ -234,7 +234,22 @@ Result:
 - chapter labels encountered in scans 47–59 were recorded: **Firmness in Action**, **The Agony of Solitary Love**, **The Insistence on Virtue**, **Praising Her Beauty**, **The Joy of Union**, **Internal Enmity**, **The Excellence of Rain**, and **The Worth of a Life-Partner**;
 - no standard/published/web English Kural translation wording was imported.
 
-Glossary-reconciliation coverage: **60 / 111 scans**.
+### GR5 — scans 61–75 — COMPLETE
+
+Compared all fifteen English records with their audited Tamil records and the expanded `GLOSSARY.md` for recurring names, Kural chapter labels, narrative proper names, source-explicit metaphors and context-sensitive work-title renderings.
+
+Result:
+
+- scans **61–75** — terminology reconciliation PASS;
+- English page wording corrections required solely for GR5 consistency: **none**;
+- nine source-supported chapter labels were added: **Excellence of the Army**, **Wasting Away of Bodily Beauty**, **Speaking of the Dream State**, **Tyrannical Rule**, **Refraining from Useless Speech**, **The Minister**, **Declaring Love's Excellence**, **Knowing the Assembly**, and **Giving**;
+- source `பதர் / பதடி` is controlled as **chaff** in the grain/human metaphor across scans 66–67;
+- recurring narrative names **Karmegam**, **Poovazhagi**, **Kannayiram**, **Thirunadu** and **Valanadu** were recorded;
+- `இராமாயணம்` was refined to a context-aware **Ramayanam / Ramayana** control: retain the earlier Kambar-context form while preserving scan 72's **Ramayana** in its Valmiki reference; **Valmiki** was added as a source-supported name;
+- scan 61's four army qualities retain their existing context-sensitive prose/Kural wording rather than being mechanically flattened;
+- no standard/published/web English Kural terminology was imported.
+
+Glossary-reconciliation coverage: **75 / 111 scans**.
 
 Page statuses remain unchanged by the glossary gate:
 
@@ -245,14 +260,14 @@ Page statuses remain unchanged by the glossary gate:
 
 ## Exact next activity
 
-Proceed with **Part 001 glossary / recurring-terminology reconciliation GR5 — scans 61–75**.
+Proceed with **Part 001 glossary / recurring-terminology reconciliation GR6 — scans 76–90**.
 
 - process exactly **15 consecutive scans**;
-- compare recurring names, controlled literary terms, chapter labels, work/publication names and repeated English renderings against the now-expanded `GLOSSARY.md` and audited Tamil context;
+- compare recurring names, controlled literary terms, chapter labels, work/publication names and repeated English renderings against the expanded `GLOSSARY.md` and audited Tamil context;
 - add or refine entries only from Part 001 evidence;
 - do not mechanically force one English equivalent where context requires variation;
 - do not import terminology from standard Thirukkural editions, web sources, published translations, another commentator or memory;
 - this gate does **not** itself promote pages to `editorial-reviewed`;
-- record any terminology corrections transparently in affected English pages and `GLOSSARY.md`, update frontier documents, and audit the exact changed-file set before advancing to GR6.
+- record any terminology corrections transparently in affected English pages and `GLOSSARY.md`, update frontier documents, and audit the exact changed-file set before advancing to GR7.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
