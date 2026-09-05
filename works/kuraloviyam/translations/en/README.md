@@ -56,13 +56,13 @@ Part 001 English:
 - final source-check statuses: **107 `source-checked` + 4 `source-limited`**;
 - `draft`: **0**;
 - source-limited scans: **13, 14, 15, 19**, all reviewed within available evidence;
-- glossary / recurring-terminology reconciliation: **45/111 scans complete** — GR1 scans 1–15, GR2 scans 16–30, GR3 scans 31–45;
-- GR3 required **no English page wording changes**; it added only source-supported controls for scan 31 section/preface terminology, `Muthamizh`, `yaazh`, divinity-label distinctions, Kural metadata and chapter labels encountered in scans 35–44;
+- glossary / recurring-terminology reconciliation: **60/111 scans complete** — GR1 scans 1–15, GR2 scans 16–30, GR3 scans 31–45, GR4 scans 46–60;
+- GR4 reconciled **Senguttuvan** on scan 52 and the explicit **Puratchi Kavignar Bharathidasan** honorific on scan 59, refined Kural-exegesis `உரை`, and added source-supported chapter/name/object controls from scans 46–60;
 - no standard/published/web English Kural translation wording was imported;
 - editorial-reviewed: **0**;
 - release-ready: **0**.
 
-The exact next gate is **glossary reconciliation GR4 — scans 46–60**, exactly 15 consecutive scans. This gate checks controlled names/terms and recurring English renderings; it does not itself promote pages to `editorial-reviewed`.
+The exact next gate is **glossary reconciliation GR5 — scans 61–75**, exactly 15 consecutive scans. This gate checks controlled names/terms and recurring English renderings; it does not itself promote pages to `editorial-reviewed`.
 
 See `TRANSLATION_STATUS.md` for the authoritative English frontier.
 
