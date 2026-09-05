@@ -16,7 +16,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 When we read Kalaignar’s book *Kuraloviyam*, every page is clear nectar that never cloys: descriptions that sweep up the heart, stories that give pleasure the more one reads them.
 
-In this manner he has written beautiful explanations for Kurals in all three divisions of the Thirukkural—Aram, Porul and Kamam.
+In this manner he has written beautiful explanations for Kurals in all three divisions of the Thirukkural—the Book of Aram, the Book of Porul and the Book of Love.
 
 Five editions of this book have been issued through our publishing house, and it now appears as the sixth edition. We convey our heartfelt thanks to our leader Kalaignar for granting us permission to print and publish, in this sixth edition, *Kuraloviyam*—a prestigious publication of Bharathi Pathippagam and an incomparable book of the Tamil people.
 
