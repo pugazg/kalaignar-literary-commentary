@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -17,7 +17,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 “The same rocks! The same little waterfall! As on the first night, I stood beneath the nochi tree and waited. The music of the waterfall, the sounds of the trees, the beating wings of the birds perched on their branches—all of them kept me in restless agitation. Then, at some distance, I caught the sign of his approach. Yes, it was he! The very man who had put me through that trial the entire previous night!
 
-“Friend! I planned to teach him a proper lesson. I was determined to carry it out. Through the lovers' quarrel I meant to wage against him, I wanted to teach him never again to break a promise he had given. Until he begged and bent before me saying, ‘Not my life, not my pleasure—never again will I deceive you like this. Alas, poor girl, your legs must ache from waiting for me all last night... shall I ease that pain?’ I resolved not even to look up at him and not to end the quarrel.
+“Friend! I planned to teach him a proper lesson. I was determined to carry it out. Through the lovers' quarrel I meant to wage against him, I wanted to teach him never again to break a promise he had given. Until he begged and bent before me saying, ‘My life! My joy! Never again will I make you suffer such disappointment. Alas, poor girl, your legs must ache from waiting for me all last night... shall I ease that pain?’ I resolved not even to look up at him and not to end the quarrel.
 
 “I prepared myself for that battle of estrangement. He too had now come near. Moonlight made it clear that fear had settled on his face—the fear that his fault in deceiving me the first night was about to inaugurate my quarrel with him.
 
