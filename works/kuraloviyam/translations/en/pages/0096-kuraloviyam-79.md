@@ -36,6 +36,6 @@ Without waiting for his friend's reply, the poet left the house. A strange silen
 > Those called truly sighted are the learned; on the faces  
 > of the unlearned, the two eyes are but sores.
 
-Chapter 40 — Learning; verse 393
+Chapter 40 — Education; Kural 393
 
 <!-- Source scan page: 96; printed page: 79 -->
