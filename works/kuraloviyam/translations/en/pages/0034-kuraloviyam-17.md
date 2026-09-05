@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains authoritative"
 ---
@@ -17,6 +17,6 @@ Colour illustration showing a man and woman in the foreground against a cosmic s
 
 Did Thiruvalluvar accept God—or not? One argument says that he did; another says that he did not at all, and the debate continues. From ancient literature we can understand that, in the period when Valluvar wrote the Kural, people who believed in God lived in Tamil land.
 
-The expanse of the sky is limitless! Nature has drawn no line marking where the edge of space lies. In this vast expanse, spread wide without bounds, only the planets identified and described—from the “astronomers” of those days to the scientific thinkers of this age—
+The expanse of the sky is limitless! Nature has drawn no line marking where the edge of space lies. In this vast expanse, spread wide without bounds, only the planets identified and described—from the “astronomers” of those days to the scientific—
 
 <!-- Source scan page: 34; printed page: 17 -->
