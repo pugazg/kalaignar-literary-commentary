@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -21,7 +21,7 @@ When Kannayiram spoke like this, Karmegam grew angry.
 
 Kannayiram laughed loudly on hearing this.
 
-“What, father-in-law? You speak without knowing the world! Touch any one of these women and she will melt! Well, my little parrots, am I not right?”
+“What, father-in-law? You speak without knowing the world! Touch any one of these women and she will wilt! Well, my little parrots, am I not right?”
 
 Until then the women had stood patiently. Poovazhagi burst from among them like a storm and stood before Karmegam.
 
