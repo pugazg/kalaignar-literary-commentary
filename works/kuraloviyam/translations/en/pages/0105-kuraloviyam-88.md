@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-He mounted his horse and rode toward the place specified by the king.
+—horse and rode toward the place specified by the king.
 
 With a plan to intercept the enemies on the way itself and drive them back, the king had his soldiers stand in formation at the entrance to the fort and ordered them to be ready to move the moment the command was given.
 
