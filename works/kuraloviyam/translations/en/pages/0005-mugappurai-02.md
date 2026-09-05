@@ -7,12 +7,12 @@ section: "Front matter — Preface"
 page_type: "preface"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-Amid the social community of Tamil land as it existed two thousand years ago, the great Valluvar took stylus in hand and wrote on palm leaf, declaring with certainty what Aram is. He showed the sweet benefit of domestic life and how renunciation could possess excellence; distinguished what things in life were to be embraced and what were to be rejected; and laid down political principles so far-reaching that counsel spoken in an age of monarchy can be said to apply equally to countries governed as republics. Though sexual desire is a natural feeling of living beings, and though it has the power to sway even humankind endowed with a sixth faculty of reason, he clothed it in the grammatical and literary armour of love. Thus he poured forth the peerless Muppaal—the three divisions—mingled honeyed Tamil into it, opened the lips of our hearts, and fed us the ambrosia that is the Thirukkural!
+In the midst of Tamil society as it existed two thousand years ago, the great Valluvar took stylus in hand and wrote on palm leaf, declaring with certainty what Aram is. He showed the sweet benefit of domestic life and how renunciation could possess excellence; distinguished what things in life were to be embraced and what were to be rejected; and laid down political principles so far-reaching that counsel spoken in an age of monarchy can be said to apply equally to countries governed as republics. Though sexual desire is a natural feeling of living beings, and though it has the power to sway even humankind endowed with a sixth faculty of reason, he clothed it in the grammatical and literary armour of love. Thus he poured forth the peerless Muppaal—the three divisions—mingled honeyed Tamil into it, opened the lips of our hearts, and fed us the ambrosia that is the Thirukkural!
 
 **For thirty years I have carried a restless desire: instead of going on writing a word-by-word explanation or an extended commentary for one Kural or several Kurals, I wanted to present them in a form that many would wish to read, a form that would draw readers in and impress the ideas upon their hearts.**
 
