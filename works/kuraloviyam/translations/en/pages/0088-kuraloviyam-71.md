@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -17,7 +17,7 @@ Angered by this, the prince spoke in the public assembly about the elder in the 
 
 News of this reached the elder. Though he had been a dwelling place of patience, he rose in fury. He walked towards the place where the citizens were being brutalised. He reached the public assembly where blood was flowing like a flood. Seeing people running and crying, “Alas! Alas!”, he said:
 
-“You have only one life, do you not? And it can leave only once. Why die a hundred times in fear before that? Stand against injustice! Come. I will lead you who are being beaten. From now on, let every blow that falls, fall upon me.”
+“You have only one life, do you not? And it can leave only once. Why, before that, are you dying like this in fear? Stand against injustice! Come. I will lead you who are being beaten. From now on, let every blow that falls, fall upon me.”
 
 The people who were being beaten straightened themselves. Those who had fled returned and formed ranks behind him. A sea of people took shape. Its turbulence was not visible outwardly; their eyes showed the anguish and storm surging within their hearts.
 
