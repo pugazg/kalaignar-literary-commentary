@@ -53,18 +53,18 @@ Part 001 English:
 
 - page-aligned first-pass translation: **111/111 COMPLETE**;
 - source-check: **111/111 COMPLETE**;
-- final source-check statuses: **107 `source-checked` + 4 `source-limited`**;
+- glossary / recurring-terminology reconciliation: **111/111 COMPLETE**;
+- editorial review: **15/111 scans reviewed at the gate** — ER1 scans 1–15 COMPLETE;
+- page statuses after ER1: **12 `editorial-reviewed` + 95 `source-checked` + 4 `source-limited`**;
 - `draft`: **0**;
-- source-limited scans: **13, 14, 15, 19**, all reviewed within available evidence;
-- glossary / recurring-terminology reconciliation: **111/111 COMPLETE** — GR1 scans 1–15, GR2 scans 16–30, GR3 scans 31–45, GR4 scans 46–60, GR5 scans 61–75, GR6 scans 76–90, GR7 scans 91–105, GR8 scans 106–111;
-- GR6 corrected scan 77 **Valluvar's hall → Valluvar Kottam**, scan 86 **Speaking of the State of Dreams → Speaking of the Dream State**, and scan 90 terminology/citation metadata to **love-sickness**, **Suffering from Pallor**, and **Kural / Kurals**;
-- GR7 corrected citation metadata on scans **92, 94, 96, 98, 101 and 103**, reconciled scan 96 **Learning → Education** and scan 98 **Loss of Bodily Beauty → Wasting Away of Bodily Beauty**, and added source-supported controls for **False Conduct**, **Freedom from Idleness**, **Loss of Restraint**, **Evil Friendship**, **Thenmozhi**, **Paingili**, **Kayalvizhi**, **Urkkavalan** and **Villavan**;
-- GR8 required **no English page wording corrections** and added source-supported controls for **Freedom from Anger**, **Longing for His Return**, **Power of Speech**, **Kalingan / Kalinga**, and **Kathiravan**;
-- no standard/published/web English Kural translation wording was imported;
-- editorial-reviewed: **0**;
+- source-limited scans: **13, 14, 15, 19**; scans 13–15 were editorially reviewed within securely established material during ER1 and remain `source-limited`;
+- ER1 made two source-faithful readability refinements: scan 5 **“Amid the social community of Tamil land...” → “In the midst of Tamil society...”** and scan 6 **“six-month rigorous-imprisonment prisoner...” → “serving six months of rigorous imprisonment...”**;
+- scans 1–4 and 7–12 required no body-text change and were promoted to `editorial-reviewed` after passing the editorial gate;
+- no unreadable source material was reconstructed;
+- no standard/published/web English Kural wording was imported;
 - release-ready: **0**.
 
-The exact next gate is **editorial consistency review ER1 — scans 1–15**, exactly 15 consecutive scans. Passing non-limited pages may move to `editorial-reviewed`; scans 13–15 remain `source-limited` and are reviewed only within securely established material.
+The exact next gate is **editorial consistency review ER2 — scans 16–30**, exactly 15 consecutive scans. Scan 19 remains `source-limited`; passing non-limited pages may move to `editorial-reviewed`.
 
 See `TRANSLATION_STATUS.md` for the authoritative English frontier.
 
