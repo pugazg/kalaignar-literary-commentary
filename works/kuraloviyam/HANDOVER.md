@@ -73,48 +73,51 @@ The current user-directed normal iteration size is **15 consecutive physical sca
 - editorial review ER3 / scans **31–45: COMPLETE**;
 - editorial review ER4 / scans **46–60: COMPLETE**;
 - editorial review ER5 / scans **61–75: COMPLETE**;
-- editorial review ER6 / scans **76–90: COMPLETE**.
+- editorial review ER6 / scans **76–90: COMPLETE**;
+- editorial review ER7 / scans **91–105: COMPLETE**.
 
-### Editorial-review state through ER6
+### Editorial-review state through ER7
 
-- scans **1–12, 16–18 and 20–90** are `editorial-reviewed`;
+- scans **1–12, 16–18 and 20–105** are `editorial-reviewed`;
 - scans **13, 14, 15 and 19** remain `source-limited`, after review within securely established material;
 - ER1 readability refinements: scans **5 and 6**;
-- ER2 readability refinements: scans **20, 21, 24 and 28**;
-- ER3 readability refinements: scans **36, 42, 43 and 44**;
-- ER4 readability refinements: scans **46, 50 and 60**;
-- ER5 readability refinements: scans **61, 68, 73 and 74**;
-- ER6 readability refinements: scans **78, 79 and 80**;
-- scan **78** preserves `கதகதப்பு உணர்ச்சி கலந்து வருவதாக` as **“a warm thrill mingling in”**;
-- scan **79** preserves `இயற்கைக் கடமைகளை ஆற்றக்கூட எழுந்து செல்லமுடியாத` as natural English without softening the bodily decline;
-- scan **80** preserves the source's comparison between increasing bodily suffering and increasing attachment to the body;
-- continuities **76→77, 79→80, 81→82, 83→84, 85→86, 87→88 and 89→90** remain intact;
-- scan **90→91** was checked for boundary continuity; scan 91 begins a new vignette and was not processed in ER6;
+- ER2: **20, 21, 24, 28**;
+- ER3: **36, 42, 43, 44**;
+- ER4: **46, 50, 60**;
+- ER5: **61, 68, 73, 74**;
+- ER6: **78, 79, 80**;
+- ER7: **91, 103, 105**;
+- scan **91** preserves `புவிக்கோர் நல்லமுதே` as **“Sweet nectar to the earth!”**;
+- scan **103** preserves the heroine's intended `ஊடல்` and resolve not to let another broken promise pass;
+- scan **105** preserves `எதிரிகளை வழியிலேயே மடக்கித் துரத்திடும் திட்டத்துடன்` while making the battlefield-preparation sentence natural;
+- continuities **91→92, 93→94, 95→96, 97→98, 99→100→101, 102→103 and 104→105** remain intact;
+- scan **105→106** was checked for continuity only; scan 106 begins a new Kalingan/Kathiravan vignette and was not processed during ER7;
 - no source-limited material was reconstructed;
 - no standard/published/web English Kural wording was imported.
 
 Current page statuses:
 
-- `editorial-reviewed`: **86**;
-- `source-checked`: **21**;
+- `editorial-reviewed`: **101**;
+- `source-checked`: **6**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - `draft`: **0**;
 - `release-ready`: **0**.
 
-Editorial-review coverage: **90/111 scans**.
+Editorial-review coverage: **105/111 scans**.
 
 ## Current exact activity
 
-Proceed with **Part 001 editorial consistency review ER7 — scans 91–105**, exactly **15 consecutive scans**:
+Proceed with **Part 001 editorial consistency review ER8 — scans 106–111**, the final **six-scan remainder**:
 
 1. fetch live `main` first;
-2. process exactly scans **91–105**;
-3. review English readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity;
-4. consult the matching audited Tamil record whenever a proposed editorial change could affect meaning;
+2. process exactly scans **106–111**;
+3. review English readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and Part-ending continuity;
+4. consult matching audited Tamil whenever a proposed editorial change could affect meaning;
 5. make only source-faithful editorial improvements; do not add commentary or explanation absent from the source;
 6. do not import standard Thirukkural wording, web text, published translations, another commentator or memory;
-7. passing scans **91–105** may move from `source-checked` to `editorial-reviewed`;
+7. passing scans **106–111** may move from `source-checked` to `editorial-reviewed`;
 8. update `TRANSLATION_STATUS.md`, English/work README, this handover and the current prompt;
-9. audit the exact pre-batch base→head changed-file set before advancing to ER8, the final **106–111** remainder.
+9. audit the exact pre-batch base→head changed-file set;
+10. after ER8, advance to the **Part-level English review** gate, not Part 002.
 
-Do not begin Part 002 until Part 001 English/final closure is complete and Part 002 source is supplied.
+The **111→112** split boundary cannot be source-checked until Part 002 is supplied. Record that limitation explicitly; do not reconstruct it.
