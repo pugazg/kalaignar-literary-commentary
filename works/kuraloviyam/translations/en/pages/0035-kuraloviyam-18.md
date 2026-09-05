@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains authoritative"
 ---
 
-—are the ones that fall within our count and reckoning.
+—thinkers of this age—are the ones that fall within our count and reckoning.
 
 We also know that stars many times larger than those planets revolve and twinkle far beyond, at distances of hundreds upon hundreds of thousands of miles. How many such stars are there?
 
