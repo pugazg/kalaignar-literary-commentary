@@ -136,11 +136,12 @@ Final source-check state:
 ### GR6 — scans 76–90 — COMPLETE
 
 - terminology reconciliation PASS;
-- three English page records required four terminology corrections:
+- three English page records required five terminology/citation-metadata correction groups:
   - scan 77: `வள்ளுவர் கோட்டம்` **Valluvar's hall → Valluvar Kottam**;
   - scan 86: `கனவுநிலையுரைத்தல்` **Speaking of the State of Dreams → Speaking of the Dream State**;
   - scan 90: `காம நோய்` **illness of love → love-sickness**;
   - scan 90: `பசப்புறுபருவரல்` **Anguish of Pallor → Suffering from Pallor**;
+  - scan 90: citation metadata `பாடல் / பாடல்கள்` **verse / verses → Kural / Kurals**;
 - six source-supported chapter-label controls were added: **Reproaching the Eyes**, **Gambling**, **Suffering from Pallor**, **Just Rule**, **Not Offending the Great**, and **Lamenting in Wasting Longing**;
 - `செங்கோல்` and `காம நோய்` were added as context-aware recurring controls;
 - `பெரியார்` was refined to distinguish the personal name **Periyar** from generic literary/Kural usage such as scan 88;
