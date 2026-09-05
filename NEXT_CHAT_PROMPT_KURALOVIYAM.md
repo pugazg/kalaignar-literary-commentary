@@ -10,7 +10,7 @@ Active work: `works/kuraloviyam/`
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Preserve any newer durable state. Do not reset, repeat or reopen completed Tamil work, completed first-pass English drafting, completed English source-check, completed glossary reconciliation, or completed editorial-review batches because a copied prompt or root multi-work handover contains an older checkpoint.
+Fetch live `main` first. Preserve any newer durable state. Do not reset, repeat or reopen completed Tamil work, completed English drafting/source-check/glossary/editorial work, or the completed Part-level English review because a copied prompt or root multi-work handover contains an older checkpoint.
 
 ## Mandatory startup
 
@@ -31,6 +31,7 @@ Read completely before any Kuraloviyam change:
 13. `works/kuraloviyam/translations/en/TRANSLATION_GUIDE.md`
 14. `works/kuraloviyam/translations/en/GLOSSARY.md`
 15. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
+16. `works/kuraloviyam/translations/en/reviews/PART_001_ENGLISH_REVIEW.md`
 
 Normal Part 001 English work uses audited Tamil repository page records. Do not reopen the Part 001 PDF unless a newly discovered source/provenance issue specifically requires it.
 
@@ -63,45 +64,38 @@ Do not import standard Thirukkural wording, published English translations, web 
 - first-pass drafting: **111/111 COMPLETE**;
 - source-check: **111/111 COMPLETE**;
 - glossary / recurring-terminology reconciliation: **111/111 COMPLETE**;
-- editorial review ER1 / scans **1–15: COMPLETE**;
-- ER2 / **16–30: COMPLETE**;
-- ER3 / **31–45: COMPLETE**;
-- ER4 / **46–60: COMPLETE**;
-- ER5 / **61–75: COMPLETE**;
-- ER6 / **76–90: COMPLETE**;
-- ER7 / **91–105: COMPLETE**;
-- ER8 / **106–111: COMPLETE**.
+- editorial review ER1–ER8: **111/111 COMPLETE**;
+- Part-level English review: **COMPLETE — PASS**.
 
-### Editorial-review closure state
+Durable Part-level review:
 
-- `editorial-reviewed`: **107**;
-- `source-limited`: **4** — scans 13, 14, 15, 19;
+`works/kuraloviyam/translations/en/reviews/PART_001_ENGLISH_REVIEW.md`
+
+### Part-level review result
+
+- Tamil↔English filename alignment: **111/111**;
+- final page statuses remain **107 `editorial-reviewed` + 4 `source-limited`**;
+- source-limited scans: **13, 14, 15, 19**; each was independently rechecked and contains no reconstructed missing material;
 - `source-checked`: **0**;
 - `draft`: **0**;
 - `release-ready`: **0**;
-- editorial-review coverage: **111/111 COMPLETE**;
-- ER8 required **no body-text changes** and promoted scans 106–111 by status only;
-- **106→107** and **109→110→111** continuities remain intact; scan 108 is self-contained;
+- controlled glossary terms, personal names, chapter labels, Kural numbering/metadata, quotations, recurring phrasing, page functions and known cross-page continuities: **PASS**;
+- the stale closing frontier in `TRANSLATION_GUIDE.md` was corrected as documentation-only synchronization;
+- no Tamil or English page text/status changed during Part-level review;
 - scan **111** is the final supplied Part 001 physical scan;
-- the **111→112** split boundary remains unverified and must not be reconstructed before Part 002 is supplied;
-- no source-limited material was reconstructed;
-- no standard/published/web English Kural wording was imported.
+- the **111→112** split boundary remains unverified and must not be reconstructed before Part 002 is supplied.
 
 ## Exact next activity
 
-If live `main` has not advanced beyond this frontier, execute the **Part 001 Part-level English review** gate.
+If live `main` has not advanced beyond this frontier, execute the **Part 001 Part-level English release report** gate.
 
-1. review the completed **111-page English layer as a whole** rather than repeating page-level editorial batches;
-2. verify every English page record exists and maps correctly to its audited Tamil page record;
-3. verify final statuses are exactly **107 `editorial-reviewed` + 4 `source-limited`**, with no `draft`, `source-checked` or `release-ready` records;
-4. verify scans **13, 14, 15 and 19** preserve their source limitations and contain no reconstructed missing material;
-5. verify controlled glossary terms, names, chapter labels, Kural numbering/metadata, quotations, repeated phrasing, page function and cross-page continuations at Part scale;
-6. preserve the unresolved **111→112** split boundary explicitly;
-7. create a durable Part-level English review artefact under `works/kuraloviyam/translations/en/reviews/` recording scope, controls, findings, limitations and PASS/FAIL result;
-8. update `TRANSLATION_STATUS.md`, English/work README, `works/kuraloviyam/HANDOVER.md`, and this prompt;
-9. audit the exact pre-gate base→head changed-file set;
-10. if the Part-level review passes, advance only to the **Part-level English release report** gate.
+1. read the completed `works/kuraloviyam/translations/en/reviews/PART_001_ENGLISH_REVIEW.md` and verify its PASS remains authoritative;
+2. verify current page statuses remain **107 `editorial-reviewed` + 4 `source-limited`**, with `release-ready=0` before release approval;
+3. preserve source-limited scans **13, 14, 15 and 19** unless better source evidence is supplied;
+4. preserve the unresolved **111→112** split boundary explicitly;
+5. create a durable Part-level English release report under `works/kuraloviyam/translations/en/reviews/`, recording scope, review authority, limitations, approval decision and release-state implications;
+6. only if the release report is completed and approved, promote eligible `editorial-reviewed` pages to `release-ready`; source-limited pages remain `source-limited`;
+7. update `TRANSLATION_STATUS.md`, English/work README, `works/kuraloviyam/HANDOVER.md`, and this prompt;
+8. audit the exact release-gate base→head changed-file set before moving to the final Part checkpoint.
 
-Do **not** promote pages to `release-ready` during Part-level review. `release-ready` is reserved for pages included in the completed and approved release report.
-
-Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
+Do not begin Part 002 until Part 001 English/final closure is complete and Part 002 source is supplied.
