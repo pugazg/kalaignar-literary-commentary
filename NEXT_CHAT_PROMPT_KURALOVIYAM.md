@@ -65,41 +65,40 @@ The user-directed normal iteration size is **15 consecutive physical scan pages*
 - first-pass drafting: **111/111 COMPLETE**;
 - source-check: **111/111 COMPLETE**;
 - glossary / recurring-terminology reconciliation: **111/111 COMPLETE**;
-- editorial review ER1 / scans **1–15: COMPLETE**.
+- editorial review ER1 / scans **1–15: COMPLETE**;
+- editorial review ER2 / scans **16–30: COMPLETE**.
 
-### ER1 result
+### Editorial-review state through ER2
 
-- scans **1–12** passed and are now `editorial-reviewed`;
-- scans **13–15** were reviewed within securely established material and remain `source-limited`;
-- scan **5** was editorially refined from awkward **“Amid the social community of Tamil land...”** to source-faithful **“In the midst of Tamil society...”**;
-- scan **6** was editorially refined to **“serving six months of rigorous imprisonment in Tiruchirappalli prison because of the Kallakudi protest”**;
-- scans **1–4 and 7–12** required no body-text change;
-- source-visible scan 3 printed English **“Nineth Edition”** remains intentionally preserved;
-- no source-limited material was reconstructed;
+- scans **1–12, 16–18 and 20–30** are `editorial-reviewed`;
+- scans **13, 14, 15 and 19** remain `source-limited`, after review within securely established material;
+- ER1 made source-faithful readability refinements on scans **5 and 6**;
+- ER2 made source-faithful readability refinements on scans **20, 21, 24 and 28**;
+- scan **19**'s washed-out source gap was not reconstructed;
+- the scan **26→27** new-poetry/traditional-poetry continuation remains intact and source `கொளவு` remains *kolavu*;
 - no standard/published/web English Kural wording was imported.
 
 Current English page statuses:
 
-- `editorial-reviewed`: **12**;
-- `source-checked`: **95**;
+- `editorial-reviewed`: **26**;
+- `source-checked`: **81**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - `draft`: **0**;
 - `release-ready`: **0**.
 
-Editorial-review coverage: **15/111 scans**.
+Editorial-review coverage: **30/111 scans**.
 
 ## Exact next activity
 
-If live `main` has not advanced beyond this frontier, execute **Part 001 editorial consistency review ER2 — scans 16–30**, exactly **15 consecutive scans**.
+If live `main` has not advanced beyond this frontier, execute **Part 001 editorial consistency review ER3 — scans 31–45**, exactly **15 consecutive scans**.
 
-1. process exactly scans **16–30**;
+1. process exactly scans **31–45**;
 2. review English readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity;
 3. compare with matching audited Tamil whenever an editorial change could alter meaning;
 4. make only source-faithful editorial improvements; do not add new commentary or explanation absent from the source;
 5. do not import terminology or wording from standard Thirukkural editions, web sources, published translations, another commentator or memory;
-6. scan **19** remains `source-limited`; review only securely established English material and do not reconstruct its washed-out Tamil gap;
-7. passing non-limited scans **16–18 and 20–30** may move from `source-checked` to `editorial-reviewed`;
-8. update `TRANSLATION_STATUS.md`, English/work README, `works/kuraloviyam/HANDOVER.md`, and this prompt;
-9. audit the exact pre-batch base→head changed-file set before advancing to ER3.
+6. passing scans **31–45** may move from `source-checked` to `editorial-reviewed`;
+7. update `TRANSLATION_STATUS.md`, English/work README, `works/kuraloviyam/HANDOVER.md`, and this prompt;
+8. audit the exact pre-batch base→head changed-file set before advancing to ER4.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
