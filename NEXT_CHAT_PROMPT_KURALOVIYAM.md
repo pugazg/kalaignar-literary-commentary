@@ -66,39 +66,43 @@ The user-directed normal iteration size is **15 consecutive physical scan pages*
 - source-check: **111/111 COMPLETE**;
 - glossary / recurring-terminology reconciliation: **111/111 COMPLETE**;
 - editorial review ER1 / scans **1–15: COMPLETE**;
-- editorial review ER2 / scans **16–30: COMPLETE**.
+- editorial review ER2 / scans **16–30: COMPLETE**;
+- editorial review ER3 / scans **31–45: COMPLETE**.
 
-### Editorial-review state through ER2
+### Editorial-review state through ER3
 
-- scans **1–12, 16–18 and 20–30** are `editorial-reviewed`;
+- scans **1–12, 16–18 and 20–45** are `editorial-reviewed`;
 - scans **13, 14, 15 and 19** remain `source-limited`, after review within securely established material;
-- ER1 made source-faithful readability refinements on scans **5 and 6**;
-- ER2 made source-faithful readability refinements on scans **20, 21, 24 and 28**;
-- scan **19**'s washed-out source gap was not reconstructed;
-- the scan **26→27** new-poetry/traditional-poetry continuation remains intact and source `கொளவு` remains *kolavu*;
+- ER1 readability refinements: scans **5 and 6**;
+- ER2 readability refinements: scans **20, 21, 24 and 28**;
+- ER3 readability refinements: scans **36, 42, 43 and 44**;
+- ER3 preserved controlled glossary forms including **Vaal-arivan**, **Praise of God**, **Domestic Life**, **Lamenting at the Sight of Evening**, **The Blessing of Children**, **Education**, **Realization of Truth**, **Reading the Sign**, **Muthamizh**, **yaazh**, and **Iraivan / Irai / Kadavul / Deivam**;
+- physical continuations **34→35** and **37→38** remain intact;
+- scan **45→46** was checked for boundary continuity only; scan 46 was not processed in ER3;
+- no source-limited material was reconstructed;
 - no standard/published/web English Kural wording was imported.
 
 Current English page statuses:
 
-- `editorial-reviewed`: **26**;
-- `source-checked`: **81**;
+- `editorial-reviewed`: **41**;
+- `source-checked`: **66**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - `draft`: **0**;
 - `release-ready`: **0**.
 
-Editorial-review coverage: **30/111 scans**.
+Editorial-review coverage: **45/111 scans**.
 
 ## Exact next activity
 
-If live `main` has not advanced beyond this frontier, execute **Part 001 editorial consistency review ER3 — scans 31–45**, exactly **15 consecutive scans**.
+If live `main` has not advanced beyond this frontier, execute **Part 001 editorial consistency review ER4 — scans 46–60**, exactly **15 consecutive scans**.
 
-1. process exactly scans **31–45**;
+1. process exactly scans **46–60**;
 2. review English readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity;
 3. compare with matching audited Tamil whenever an editorial change could alter meaning;
 4. make only source-faithful editorial improvements; do not add new commentary or explanation absent from the source;
 5. do not import terminology or wording from standard Thirukkural editions, web sources, published translations, another commentator or memory;
-6. passing scans **31–45** may move from `source-checked` to `editorial-reviewed`;
+6. passing scans **46–60** may move from `source-checked` to `editorial-reviewed`;
 7. update `TRANSLATION_STATUS.md`, English/work README, `works/kuraloviyam/HANDOVER.md`, and this prompt;
-8. audit the exact pre-batch base→head changed-file set before advancing to ER4.
+8. audit the exact pre-batch base→head changed-file set before advancing to ER5.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
