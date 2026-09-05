@@ -23,7 +23,7 @@ If one were to give an example of the beauty of Kalaignar's similes,
 
 is something Kalaignar says in one place.
 
-Bharathidasan sang a great deal about the moon. Yet Kalaignar has given the moon a very beautiful simile that did not fall even within the gaze of the revolutionary poet Bharathidasan:
+Bharathidasan sang a great deal about the moon. Yet Kalaignar has given the moon a very beautiful simile that did not fall even within the gaze of Puratchi Kavignar Bharathidasan:
 
 > “The round moon, like the mouth of a silver milk-pot.”
 
