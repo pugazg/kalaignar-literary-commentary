@@ -249,7 +249,25 @@ Result:
 - scan 61's four army qualities retain their existing context-sensitive prose/Kural wording rather than being mechanically flattened;
 - no standard/published/web English Kural terminology was imported.
 
-Glossary-reconciliation coverage: **75 / 111 scans**.
+### GR6 — scans 76–90 — COMPLETE
+
+Compared all fifteen English records with their audited Tamil records and the expanded `GLOSSARY.md` for recurring names, Kural chapter labels, literary terms, political/love-poetics terminology and repeated English renderings.
+
+Result:
+
+- scans **76–90** — terminology reconciliation PASS;
+- **three English page records** required **four terminology corrections**:
+  - scan **77**: `வள்ளுவர் கோட்டம்` was reconciled from generic **“Valluvar's hall”** to **Valluvar Kottam**;
+  - scan **86**: `கனவுநிலையுரைத்தல்` was reconciled from **Speaking of the State of Dreams** to the existing controlled label **Speaking of the Dream State**;
+  - scan **90**: recurring `காம நோய்` was reconciled from **illness of love** to **love-sickness**;
+  - scan **90**: `பசப்புறுபருவரல்` was reconciled from **Anguish of Pallor** to **Suffering from Pallor**, matching scans 81–82;
+- six new source-supported chapter-label controls were added: **Reproaching the Eyes**, **Gambling**, **Suffering from Pallor**, **Just Rule**, **Not Offending the Great**, and **Lamenting in Wasting Longing**; the Chapter 122 source spacing variant was reconciled to the existing English label;
+- recurring `செங்கோல்` and `காம நோய்` controls were added;
+- `பெரியார்` was refined as context-sensitive so generic Kural/literary uses are not mechanically treated as the personal name **Periyar**;
+- scan 81's running-prose `ஊடல்` → **sulking** was retained as a context-sensitive natural rendering rather than mechanically forcing **lovers' quarrel**;
+- no standard/published/web English Kural terminology was imported.
+
+Glossary-reconciliation coverage: **90 / 111 scans**.
 
 Page statuses remain unchanged by the glossary gate:
 
@@ -260,7 +278,7 @@ Page statuses remain unchanged by the glossary gate:
 
 ## Exact next activity
 
-Proceed with **Part 001 glossary / recurring-terminology reconciliation GR6 — scans 76–90**.
+Proceed with **Part 001 glossary / recurring-terminology reconciliation GR7 — scans 91–105**.
 
 - process exactly **15 consecutive scans**;
 - compare recurring names, controlled literary terms, chapter labels, work/publication names and repeated English renderings against the expanded `GLOSSARY.md` and audited Tamil context;
@@ -268,6 +286,6 @@ Proceed with **Part 001 glossary / recurring-terminology reconciliation GR6 — 
 - do not mechanically force one English equivalent where context requires variation;
 - do not import terminology from standard Thirukkural editions, web sources, published translations, another commentator or memory;
 - this gate does **not** itself promote pages to `editorial-reviewed`;
-- record any terminology corrections transparently in affected English pages and `GLOSSARY.md`, update frontier documents, and audit the exact changed-file set before advancing to GR7.
+- record any terminology corrections transparently in affected English pages and `GLOSSARY.md`, update frontier documents, and audit the exact changed-file set before advancing to GR8.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
