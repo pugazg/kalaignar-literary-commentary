@@ -95,6 +95,9 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | மடி இன்மை | Freedom from Idleness | Chapter 61 label on scan 101. |
 | நிறையழிதல் | Loss of Restraint | Chapter 126 label on scan 103. |
 | தீ நட்பு | Evil Friendship | Chapter 82 label on scan 105. |
+| வெகுளாமை | Freedom from Anger | Chapter 31 label on scan 107. |
+| அவர்வயின் விதும்பல் | Longing for His Return | Chapter 127 label on scan 108. |
+| சொல்வன்மை | Power of Speech | Chapter 65 label on scan 111. |
 
 ## Edition-preface / publication-note labels encountered in Part 001
 
@@ -180,6 +183,8 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | கயல்விழி | Kayalvizhi | Prospective bride named across scans 95–96. |
 | ஊர்க்காவலன் | Urkkavalan / village guardian | Scan 99 explicitly says this is both the character's name and his role. Use `Urkkavalan` as the personal name and translate the role descriptively where needed. |
 | வில்லவன் | Villavan | Warrior named across scans 104–105. |
+| கலிங்கன் / கலிங்கா | Kalingan / Kalinga | Character name across scans 106–107; use `Kalinga` for the direct-address/vocative form on scan 107. Keep distinct from earlier commentator `காலிங்கர்` → `Kalingar`. |
+| கதிரவன் | Kathiravan | Character name across scans 106–107. In other contexts the same Tamil word may denote the sun; do not force the personal-name form outside this narrative context. |
 
 ## Place references encountered in Part 001
 
@@ -220,7 +225,7 @@ GR3 compared the English records for scans **31–45** against their audited Tam
 
 - scans **31–45** — terminology reconciliation PASS;
 - English page wording corrections required solely for GR3 consistency: **none**;
-- `முன்னுரை` and `ஏற்புரை` were recorded from scan 31 as **preface** and **Response**, while preserving their distinction from the existing printed-heading term `முகப்புரை`;
+- `முன்னுரை` and `ஏற்புரை` were recorded from scan 31 as **preface** and **Response**, while preserving their distinction from the existing printed edition-heading term `முகப்புரை`;
 - source-supported recurring literary/cultural forms **Muthamizh** (`முத்தமிழ்`) and **yaazh** (`யாழ்`) were recorded from scans 39–40;
 - the explicit divinity-label contrast on scan 35 is preserved: `இறைவன்`, `இறை`, `கடவுள்`, `தெய்வம்` may remain **Iraivan / Irai / Kadavul / Deivam** when the Tamil itself distinguishes the words, while ordinary contexts may use natural English such as **God / divine / deity**;
 - source-supported forms **Primordial Being** (`ஆதிபகவன்`) and **Vaal-arivan** (`வாலறிவன்`) were recorded without importing wording from an external Kural edition;
@@ -287,6 +292,19 @@ GR7 compared the English records for scans **91–105** against their audited Ta
 - source-supported narrative/name controls **Thenmozhi**, **Paingili**, **Kayalvizhi**, **Urkkavalan**, and **Villavan** were added, with `Urkkavalan` kept context-aware because the source explicitly uses `ஊர்க்காவலன்` as both name and role;
 - scan **105** already used the controlled **Kural 814** citation convention and required no page wording correction;
 - no standard/published/web English Kural terminology was imported.
+
+## GR8 reconciliation record — scans 106–111
+
+GR8 compared the final six English records against their audited Tamil context and the GR7-controlled glossary.
+
+- scans **106–111** — terminology reconciliation PASS;
+- English page wording corrections required solely for GR8 consistency: **none**;
+- three new source-supported chapter-label controls were added: **Freedom from Anger** (`வெகுளாமை`, Chapter 31, scan 107), **Longing for His Return** (`அவர்வயின் விதும்பல்`, Chapter 127, scan 108), and **Power of Speech** (`சொல்வன்மை`, Chapter 65, scan 111);
+- source-supported narrative-name controls **Kalingan / Kalinga** (`கலிங்கன் / கலிங்கா`) and **Kathiravan** (`கதிரவன்`) were added from scans 106–107; `Kalingan` is kept distinct from earlier commentator **Kalingar** (`காலிங்கர்`), and `Kathiravan` is treated as a personal name only in the narrative context where the source uses it as one;
+- scans **107**, **108** and **111** already used the controlled citation metadata forms **Kural 301**, **Kural 1261**, and **Kurals 648, 650** respectively;
+- no standard/published/web English Kural terminology was imported.
+
+Part 001 glossary / recurring-terminology reconciliation is now **COMPLETE — 111/111 scans**.
 
 ## Review rule
 
