@@ -20,7 +20,7 @@ The Thirukkural is the treasury of knowledge bestowed by Valluvar, who laid down
 
 In this age, when science has spread and grown so greatly, we delight in the skill with which photographers, through the camera, depict a beautiful grove, the tower of a temple, or the statue of a river maiden from many different angles, according to their ability and imagination.
 
-In the same way, from those times down to the present, many eminent scholars may be said to have studied the imperishably renowned Kural and presented it as word-by-word gloss, extended commentary and explanatory commentary.
+In the same way, from those times down to the present, many eminent scholars may be said to have studied the imperishably renowned Kural and presented it as word-by-word explanation, extended commentary and explanatory commentary.
 
 Apart from the explanations given to the Kural by Parimelazhagar, Manakkudavar, Parithiyar, Kalingar, Paripperumal and others, eminent poets of later times too have offered rare explanations.
 
