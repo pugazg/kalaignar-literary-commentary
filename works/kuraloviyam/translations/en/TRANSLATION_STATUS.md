@@ -120,27 +120,44 @@ Result:
 - no source-limited material was reconstructed;
 - no standard/published/web English Kural wording was imported.
 
-## Current English page statuses after ER2
+### ER3 — scans 31–45 — COMPLETE
 
-- `editorial-reviewed`: **26**;
-- `source-checked`: **81**;
+Result:
+
+- scans **31–45** — PASS and promoted from `source-checked` to `editorial-reviewed`;
+- four source-faithful readability refinements were made:
+  - scan **36**: the awkward **“laid down the qualities attached to the word called God”** was refined to **“defined the qualities associated with what is called God”**, preserving audited Tamil `கடவுள் எனப்படும் சொல்லுக்கு இலக்கணம் வகுத்தார்`;
+  - scan **42**: **“the force of the statement is being given to education”** was refined to **“the emphasis falls on education”**, preserving `அந்தக் கருத்தின் அழுத்தம் கல்விக்குத் தரப்படுகிறதே தவிர, ஏழு பிறவிகளுக்கு அல்ல`;
+  - scan **43**: the awkward **“strange medical woman”** construction was refined to **“unusual woman physician”**, preserving the physician/medicine metaphor in `விசித்திரமான மருத்துவப் பெண்மணி`;
+  - scan **44**: the sentence explaining the lover's apparent lie and the lovers' unavoidable mutual gaze was restructured for natural English while preserving `சொல்லாமல் சொல்கிறார் செந்நாப் போதார்` and the source argument;
+- scans **31–35, 37–41 and 45** required no body-text change beyond status promotion;
+- the scan **34→35** physical continuation from `விஞ்ஞான` to `மேதைகள்` remains preserved in English as **“scientific— / —thinkers”**;
+- the scan **37→38** continuation of the evening-as-army image remains intact;
+- scan **45** was checked against scan 46 solely for boundary continuity; the story handoff is intact and scan 46 was not processed in ER3;
+- controlled forms including **Vaal-arivan**, **Praise of God**, **Domestic Life**, **Lamenting at the Sight of Evening**, **The Blessing of Children**, **Education**, **Realization of Truth**, **Reading the Sign**, **Muthamizh**, **yaazh**, **Iraivan / Irai / Kadavul / Deivam**, and source Kural metadata remain consistent with the completed glossary;
+- no external/standard/published/web English Kural wording was imported.
+
+## Current English page statuses after ER3
+
+- `editorial-reviewed`: **41**;
+- `source-checked`: **66**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - `draft`: **0**;
 - `release-ready`: **0**.
 
-Editorial-review coverage: **30 / 111 scans**.
+Editorial-review coverage: **45 / 111 scans**.
 
 Source-limited records remain source-limited even after editorial review within available evidence.
 
 ## Exact next activity
 
-Proceed with **Part 001 editorial consistency review ER3 — scans 31–45**, exactly **15 consecutive scans**.
+Proceed with **Part 001 editorial consistency review ER4 — scans 46–60**, exactly **15 consecutive scans**.
 
 - review English readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity;
 - use audited Tamil records whenever needed to ensure editorial changes do not alter source meaning;
 - make only source-faithful editorial improvements; do not add a new commentary or explanatory material absent from the source;
 - do not import standard Thirukkural wording, published English translations, web text, another commentator or memory;
-- passing scans **31–45** may move from `source-checked` to `editorial-reviewed`;
-- update frontier documents and audit the exact pre-batch base→head changed-file set before advancing to ER4.
+- passing scans **46–60** may move from `source-checked` to `editorial-reviewed`;
+- update frontier documents and audit the exact pre-batch base→head changed-file set before advancing to ER5.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
