@@ -6,14 +6,14 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
 Imagine now that one of Ilango Adigal’s close friends comes to meet him while he is living in ascetic garb at Gunavayir Kottam.
 
-“What is this, Ilango? Why have you done such a thing! What of the fortress with bastions where flags fly! What of the lofty temple towers rising to touch the clouds! What of the mansions fragrant with incense smoke! What of the floors spread with silk so your feet would never ache! What of the ranks of servants who would come running with folded hands at the sound of your call! What of the garments and ornaments studded with nine kinds of gems! What of the sight of jewel-like eyes competing to accept you as their lord! What of the tribute paid by minor kings bound to you by treaty! A life of splendour! A city of pleasure! Days of delight! Having lost all this, why are you here in this possessionless ascetic state? Why did you willingly accept such suffering?”
+“What is this, Ilango? Why have you done such a thing! What of the fortress with bastions where flags fly! What of the lofty towers rising to touch the clouds! What of the mansions fragrant with incense smoke! What of the floors spread with silk so your feet would never ache! What of the ranks of servants who would come running with folded hands at the sound of your call! What of the garments and ornaments studded with nine kinds of gems! What of the sight of jewel-like eyes competing to accept you as their lord! What of the tribute paid by minor kings bound to you by treaty! A life of splendour! A city of pleasure! Days of delight! Having lost all this, why are you here in this possessionless ascetic state? Why did you willingly accept such suffering?”
 
 To the close friend who asked this question with a pained and melting heart, Ilango Adigal replied at once:
 
