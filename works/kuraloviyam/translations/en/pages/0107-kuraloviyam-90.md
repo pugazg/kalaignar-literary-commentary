@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 Kathiravan, who had listened to Kalingan, replied:
 
-“Kalinga, you have told me what happened yesterday. Do you remember what happened two weeks ago? I had come to your house. Since I had been wandering in the heat and was sweating heavily, I asked for water as soon as I arrived. You called your younger brother and told him to bring water. He ran and brought water in a glass tumbler. In his haste he dropped it. The glass shattered. What did you do at once? Your hands played across that tender child's cheeks. Crying ‘Ayyo! Amma!’ he ran inside. Your mother came asking, ‘Why did you hit him so hard that his cheek has swollen?’ What did you answer? ‘Hey, keep quiet! Have you come to argue for the boy? Go inside properly!’ That was the anger you showed toward your own mother! Kalinga, do you understand why I remind you of it? Suppressing your anger when the commander kicked the vessel and spat at you is not something deserving praise! The reason is that your anger would not prevail there. So what does it matter whether you suppressed it or not? The place where you should have restrained your anger was with your younger brother and your mother!”
+“Kalinga, you have told me what happened yesterday. Do you remember what happened two weeks ago? I had come to your house. Since I had been wandering in the heat and was sweating heavily, I asked for water as soon as I arrived. You called your younger brother and told him to bring water. He ran and brought water in a glass tumbler. In his haste he dropped it. The glass shattered. What did you do at once? Your hands played across that tender child's cheeks. Crying ‘Ayyo! Amma!’ he ran inside. Your mother came asking, ‘Why did you hit him so hard that his cheek has swollen?’ What did you answer? ‘Tch, keep quiet! Have you come to argue for the boy? Go inside properly!’ That was the anger you showed toward your own mother! Kalinga, do you understand why I remind you of it? Suppressing your anger when the commander kicked the vessel and spat at you is not something deserving praise! The reason is that your anger would not prevail there. So what does it matter whether you suppressed it or not? The place where you should have restrained your anger was with your younger brother and your mother!”
 
 “This is exactly what Valluvar says: one must restrain anger where one's anger can have effect; where it cannot have effect, what difference does restraining it or failing to restrain it make? Restraining anger where it cannot prevail is no great achievement; restraining it where it can prevail is what deserves distinction.”
 
