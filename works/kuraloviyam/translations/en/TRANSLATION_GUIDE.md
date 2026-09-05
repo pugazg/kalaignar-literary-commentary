@@ -153,7 +153,7 @@ Part 002 must not begin until Part 001 English closure is complete and Part 002 
 
 ## 12. Iteration discipline
 
-The current user-directed cadence is **15 physical scan pages per normal iteration**.
+The current user-directed cadence is **15 physical scan pages per normal iteration**. A final Part remainder may be shorter.
 
 For first-pass drafting:
 
@@ -170,6 +170,15 @@ For source-check:
 - only a page that passes this comparison may move from `draft` to `source-checked`;
 - `source-limited` pages remain `source-limited` even after their securely established material is reviewed;
 - do not use the source-check stage for stylistic rewriting that is unrelated to fidelity.
+
+For glossary / recurring-terminology reconciliation:
+
+- use the same **15 consecutive scan-page** cadence;
+- compare recurring names, work/section names, controlled literary terms, publication names, chapter labels and repeated English renderings against `GLOSSARY.md` and their audited Tamil context;
+- update `GLOSSARY.md` only for recurring terms actually evidenced in Part 001;
+- do not mechanically force one English word where the Tamil context requires a different rendering;
+- this gate does **not** by itself promote `source-checked` pages to `editorial-reviewed`; source-limited pages remain `source-limited`;
+- do not import terminology from external editions, web sources or memory.
 
 For every iteration, fetch live `main` first, preserve newer durable state, update `TRANSLATION_STATUS.md`, and audit the exact changed-file set before advancing.
 
@@ -192,6 +201,19 @@ Completed first-pass batches:
 
 Part 001 first-pass English drafting is **COMPLETE: 111/111 page records**.
 
-## 14. Part 001 source-check start
+## 14. Part 001 source-check record
 
-The next review gate is source-check. Begin with **SC1 — scans 1–15** under the 15-page iteration rule. Scans 13–15 remain `source-limited`; do not reconstruct their unreadable facsimile bodies.
+**COMPLETE — 111/111 physical scans reviewed.**
+
+- SC1: scans 1–15;
+- SC2: scans 16–30;
+- SC3: scans 31–45;
+- SC4: scans 46–60;
+- SC5: scans 61–75;
+- SC6: scans 76–90;
+- SC7: scans 91–105;
+- SC8: scans 106–111 — final 6-page remainder.
+
+Final Part 001 English statuses after source-check: **107 `source-checked` + 4 `source-limited`** (scans 13, 14, 15, 19). No `draft` pages remain.
+
+The next review gate is **glossary / recurring-terminology reconciliation**, beginning with **GR1 — scans 1–15**.
