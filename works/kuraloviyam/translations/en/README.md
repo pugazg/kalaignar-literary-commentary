@@ -54,17 +54,19 @@ Part 001 English:
 - page-aligned first-pass translation: **111/111 COMPLETE**;
 - source-check: **111/111 COMPLETE**;
 - glossary / recurring-terminology reconciliation: **111/111 COMPLETE**;
-- editorial review: **30/111 scans reviewed at the gate** — ER1 scans 1–15 and ER2 scans 16–30 COMPLETE;
-- page statuses after ER2: **26 `editorial-reviewed` + 81 `source-checked` + 4 `source-limited`**;
+- editorial review: **45/111 scans reviewed at the gate** — ER1 scans 1–15, ER2 scans 16–30 and ER3 scans 31–45 COMPLETE;
+- page statuses after ER3: **41 `editorial-reviewed` + 66 `source-checked` + 4 `source-limited`**;
 - `draft`: **0**;
 - source-limited scans: **13, 14, 15, 19**; all have been reviewed within securely established material for the editorial batches that include them and remain `source-limited`;
 - ER1 made two source-faithful readability refinements on scans 5 and 6;
-- ER2 made four source-faithful readability refinements on scans **20, 21, 24 and 28**; the other non-limited ER2 records required status promotion only;
-- scan 19's washed-out gap was not reconstructed;
+- ER2 made four source-faithful readability refinements on scans **20, 21, 24 and 28**;
+- ER3 made four source-faithful readability refinements on scans **36, 42, 43 and 44**; all other ER3 pages required status promotion only;
+- the **34→35** and **37→38** physical continuations remain intact; scan 45 was boundary-checked against scan 46 without processing scan 46;
+- no unreadable source material was reconstructed;
 - no standard/published/web English Kural wording was imported;
 - release-ready: **0**.
 
-The exact next gate is **editorial consistency review ER3 — scans 31–45**, exactly 15 consecutive scans. Passing pages may move from `source-checked` to `editorial-reviewed`.
+The exact next gate is **editorial consistency review ER4 — scans 46–60**, exactly 15 consecutive scans. Passing pages may move from `source-checked` to `editorial-reviewed`.
 
 See `TRANSLATION_STATUS.md` for the authoritative English frontier.
 
