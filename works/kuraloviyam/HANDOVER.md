@@ -58,42 +58,44 @@ Process **11 physical scans per iteration**. Workflow cutoffs never create sourc
 - P2-02 / scans **123–133** — COMPLETE
 - P2-03 / scans **134–144** — COMPLETE
 - P2-04 / scans **145–155** — COMPLETE
+- P2-05 / scans **156–166** — COMPLETE
 
-Current coverage: **44 / 111 scans**, overall **112–155 / printed 95–138**.
+Current coverage: **55 / 111 scans**, overall **112–166 / printed 95–149**.
 
 All Part 002 records remain `needs-review` / `visual_fidelity: needs-review` as required for Pass 1.
 
-P2-04 source units:
+P2-05 source units:
 
-- 145 — closes the secret-meeting / `அலர் அறிவுறுத்தல்` vignette; Chapter 115 / Kural 1146;
-- 146–147 — physician/tiger vignette; Chapter 47 / Kural 469;
-- 148–149 — separated-woman/moon vignette; Chapter 121 / Kural 1210;
-- 150–152 — `தெளிந்தான்` / `நெளிந்தான்`; Chapter 15 / Kurals 142, 145;
-- 153 — woman addressing her own heart; Chapter 125 / Kural 1246;
-- 154–155 — lovers / `ஊடல்`; Chapter 133 / Kural 1326.
+- 156–157 — crowd/knife and critical inquiry; Chapter 43 / Kural 423;
+- 158–159 — Maavengko/Maangani foreign-trade and separation vignette; Chapter 116 / Kural 1151;
+- 160–161 — elephant / terrain / strength vignette; Chapter 50 / Kural 500;
+- 162–163 — Malaiyan/Silamban/Kalingan slander vignette; Chapter 19 / Kural 188;
+- 164–165 — one-sided love / kavadi comparison; Chapter 120 / Kural 1196;
+- 166 — medical/valor vignette begins.
 
 Continuity controls:
 
-- **122→123** is a real continuation;
-- **133→134** is a clean source boundary;
-- **144→145** is a genuine narrative continuation and was preserved;
-- scan **156 / printed 139** was inspected only as the P2-04 closing witness;
-- **155→156 is a clean source boundary** and scan 156 begins a new illustrated crowd/knife vignette.
+- **122→123** continuation preserved;
+- **133→134** clean;
+- **144→145** continuation preserved;
+- **155→156** clean;
+- scan **167 / printed 150** was inspected only as the P2-05 closing witness;
+- **166→167 is a genuine narrative continuation**; scan 167 continues the medical/valor vignette and later closes with Chapter 62 / Kural 614.
 
 No standard/published/web Kural wording, another edition, OCR guess or memory was used to fill uncertain readings.
 
 ## Exact current activity
 
-Proceed with **P2-05 / Part 002 Pass 1 — overall scans 156–166 / printed pages 139–149**:
+Proceed with **P2-06 / Part 002 Pass 1 — overall scans 167–177 / printed pages 150–160**:
 
 1. fetch live `main`;
-2. begin scan **156** at the confirmed clean **155→156** source boundary;
-3. process exactly scans **156–166** source-first;
+2. begin scan **167** as continuation of scan 166;
+3. process exactly scans **167–177** source-first;
 4. create one Tamil page record per scan with overall `scan_page`, `part: 2`, local `part_page`, printed pagination, page function, visual notes and visible Tamil text;
 5. copy Kural/chapter metadata only from the rendered source image;
 6. keep Pass 1 statuses as `needs-review`;
-7. inspect scan **167** only as the closing boundary witness when needed;
-8. update progress/page-map/README/HANDOVER/NEXT and advance the frontier to **167–177**.
+7. inspect scan **178** only as the closing boundary witness when needed;
+8. update progress/page-map/README/HANDOVER/NEXT and advance the frontier to **178–188**.
 
 Do not import OCR guesses, another edition, standard Kural text, web material or memory to fill uncertain readings.
 
