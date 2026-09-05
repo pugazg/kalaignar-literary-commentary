@@ -90,36 +90,42 @@ All **111/111** Part 001 English page records exist.
 - three fidelity adjustments are documented in `translations/en/TRANSLATION_STATUS.md`.
 
 **SC5 — scans 61–75 — COMPLETE.**
-- all scans **61–75** passed Tamil↔English fidelity comparison and are `source-checked`;
-- four fidelity adjustments were made:
-  - scan 67: `துவளுவார்கள்` **“melt” → “wilt”**;
-  - scan 69: removed unsupported **“both country and rule may survive”** and aligned the sentence to the audited Tamil sequence;
-  - scan 71: removed unsupported **“smiles”** from `முத்துக்கோவை தரும் பாவை`;
-  - scan 75: removed unsupported **“young”** from source `ஒருத்தி`;
+- all scans 61–75 are `source-checked`;
+- four fidelity adjustments are documented in `translations/en/TRANSLATION_STATUS.md`.
+
+**SC6 — scans 76–90 — COMPLETE.**
+- all scans **76–90** passed Tamil↔English fidelity comparison and are `source-checked`;
+- six fidelity adjustments affected seven records:
+  - scan 79: corrected the swollen-feet image;
+  - scans 81–82: repaired the physical mirror continuation and removed duplicated action;
+  - scans 85–86: removed unsupported **“come alive”** and repaired the beauty-description continuation;
+  - scan 86: restored the ear/music sense of `காதாரப் பண்பாடும் குயில்`;
+  - scan 87: restored **“slaves”** / **“lackeys”** for `அடிமைகள்` / `எடுபிடிகள்`;
+  - scan 88: removed unsupported **“a hundred times”**;
 - no unreadable source material was reconstructed and no external/standard Kural English wording was imported.
 
 Current English totals:
 
 - page records: **111/111**;
-- source-check coverage: **75/111**;
-- `source-checked`: **71**;
-- `draft`: **36**;
+- source-check coverage: **90/111**;
+- `source-checked`: **86**;
+- `draft`: **21**;
 - `source-limited`: **4** — scans 13–15, 19; all four have been reviewed within available evidence;
 - editorial-reviewed: **0**;
 - release-ready: **0**.
 
 ## Exact next activity
 
-If live `main` has not advanced beyond this frontier, execute **Part 001 English source-check SC6 — scans 76–90**.
+If live `main` has not advanced beyond this frontier, execute **Part 001 English source-check SC7 — scans 91–105**.
 
-1. fetch audited Tamil records and matching English records for scans **76–90**;
+1. fetch audited Tamil records and matching English records for scans **91–105**;
 2. process exactly **15 consecutive pages**;
 3. compare each page paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual/page function and cross-page continuations;
 4. promote each page from `draft` to `source-checked` only after it passes;
 5. revise only from audited repository Tamil and do not import standard Kural or external English wording;
 6. record source-check corrections transparently in affected English records and `translations/en/TRANSLATION_STATUS.md`;
-7. update `works/kuraloviyam/README.md`, `works/kuraloviyam/HANDOVER.md`, and this prompt after SC6;
-8. audit the pre-batch base→head changed-file set and record the exact next source-check frontier before advancing to scan 91.
+7. update `works/kuraloviyam/README.md`, `works/kuraloviyam/HANDOVER.md`, and this prompt after SC7;
+8. audit the pre-batch base→head changed-file set and record the final source-check remainder, scans **106–111**, before advancing.
 
 Do not begin glossary reconciliation or editorial review until Part 001 source-check is complete.
 
