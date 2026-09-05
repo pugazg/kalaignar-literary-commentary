@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-...such is the power of her beauty. She is beauty shaped and gathered into one form! Gold impossible to behold! A diamond impossible to find! A peacock dancing in delight! A cuckoo singing with refinement! A walking golden beetle! A dancing star!
+—it possesses such power. She is beauty shaped and gathered into one form! Gold impossible to behold! A diamond impossible to find! A peacock dancing in delight! A cuckoo singing melody to the ears' delight! A walking golden beetle! A dancing star!
 
 She lies in blissful sleep upon a bed spread with swan's down. Why does the slender waist of that sleeping peahen bend? Why is nectar brimming on her pure red lips? Why do those budding lips, without even her awareness, taste that flashing nectar gathered there? Why do her cheeks change colour so richly that they shame the hue of precious stones? What a soft, radiant smile! Is it a jasmine smile? Is it the face of a full moon? Lines of boundless joy draw patterns of beauty all across her face.
 
