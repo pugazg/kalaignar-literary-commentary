@@ -72,54 +72,52 @@ All **111/111** English page records exist. The permanent source-limited English
 ### SC1 — scans 1–15 — COMPLETE
 
 - scans **1–12**: PASS and `source-checked`;
-- scans **13–15**: PASS within securely established source limits and remain `source-limited`;
-- wording corrections: none;
-- source reconstruction: none.
+- scans **13–15**: PASS within securely established source limits and remain `source-limited`.
 
 ### SC2 — scans 16–30 — COMPLETE
 
 - scans **16–18, 20–30**: PASS and `source-checked`;
 - scan **19**: PASS within source limits and remains `source-limited`;
-- scan 19 retains the explicit washed-out source gap;
-- corrected `மிகப் பலர் அல்லர்` to **“not very many”** from the earlier meaning-reversing **“not very few”**;
-- no other SC2 wording changes; external/standard Kural English imported: none.
+- corrected `மிகப் பலர் அல்லர்` to **“not very many”** from the earlier meaning-reversing **“not very few.”**
 
 ### SC3 — scans 31–45 — COMPLETE
 
+- all fifteen pages PASS and are `source-checked`;
+- six fidelity adjustments affected seven records; full detail is retained in `translations/en/TRANSLATION_STATUS.md`.
+
+### SC4 — scans 46–60 — COMPLETE
+
 - all fifteen Tamil↔English page pairs reviewed and PASS;
-- scans **31–45** promoted to `source-checked`;
-- six fidelity adjustments affected seven records:
-  - **34–35**: physical continuation `விஞ்ஞான, / மேதைகள்` realigned across the correct page boundary;
-  - **36**: `வாலறிவன்` transliteration corrected from `Valarivan` to `Vaal-arivan`;
-  - **37–38**: cross-page `படை / கொண்டு தாக்குவது போல் தோன்றும்` repaired to remove duplicated “army” wording;
-  - **39**: `சேர்த்த இன்பம் பேரின்பம்` tightened to “the pleasure added by the sound ... is supreme bliss”;
-  - **40**: unsupported “feeds” removed from the child/gruel sentence; the little hand now “scoops and dips into the gruel”;
-  - **45**: unsupported “attendants” removed; only the source-supported surrounding action remains;
-- external/standard Kural English imported: none.
+- scans **46–60** promoted to `source-checked`;
+- three fidelity adjustments:
+  - scan **47**: unsupported **“Fool!”** removed for Tamil `அடே!`; now neutral **“Why!”**;
+  - scan **53**: unsupported **“temple”** removed from `கூட கோபுரம்`; now **“lofty towers rising to touch the clouds”**;
+  - scan **55**: `மெய்மறந்து` refined from **“lost in himself”** to **“forgetting himself”**;
+- no external/standard Kural English imported.
 
 Current English totals:
 
 - page records: **111/111**;
-- source-check coverage: **45/111**;
-- `source-checked`: **41**;
-- `draft`: **66**;
+- source-check coverage: **60/111**;
+- `source-checked`: **56**;
+- `draft`: **51**;
 - `source-limited`: **4** — scans 13–15, 19; all four have been reviewed within available evidence;
 - editorial-reviewed: **0**;
 - release-ready: **0**.
 
 ## Current exact activity
 
-Proceed with **Part 001 English source-check SC4 — scans 46–60**:
+Proceed with **Part 001 English source-check SC5 — scans 61–75**:
 
 1. fetch live `main` first;
-2. fetch audited Tamil and matching English records for scans **46–60**;
+2. fetch audited Tamil and matching English records for scans **61–75**;
 3. process exactly **15 consecutive scans**;
 4. compare paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual/page function and physical continuations;
 5. promote each record from `draft` to `source-checked` only after it passes;
 6. do not import standard Kural English wording or any external translation;
 7. record source-check corrections transparently in affected English records and `TRANSLATION_STATUS.md`;
-8. update README/handover/current prompt after SC4;
-9. compare the pre-batch base SHA to the new head and confirm only intended files changed before advancing to scan 61.
+8. update README/handover/current prompt after SC5;
+9. compare the pre-batch base SHA to the new head and confirm only intended files changed before advancing to scan 76.
 
 Do not begin glossary reconciliation or editorial review until Part 001 source-check is complete.
 
