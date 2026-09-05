@@ -96,7 +96,7 @@ No unreadable source material was reconstructed and no external/standard English
 - glossary reconciliation coverage: **90 / 111 scans**;
 - GR4 reconciled scan 52 **Chenguttuvan → Senguttuvan** and scan 59 **the revolutionary poet Bharathidasan → Puratchi Kavignar Bharathidasan**;
 - GR5 required **no English page wording corrections**; it added nine source-supported Kural chapter labels, `பதர் / பதடி` → **chaff**, narrative names **Karmegam / Poovazhagi / Kannayiram / Thirunadu / Valanadu**, and the context-aware **Ramayanam / Ramayana** distinction with **Valmiki**;
-- GR6 corrected three English page records: scan 77 **Valluvar's hall → Valluvar Kottam**; scan 86 **Speaking of the State of Dreams → Speaking of the Dream State**; scan 90 **illness of love → love-sickness** and **Anguish of Pallor → Suffering from Pallor**;
+- GR6 corrected three English page records: scan 77 **Valluvar's hall → Valluvar Kottam**; scan 86 **Speaking of the State of Dreams → Speaking of the Dream State**; scan 90 **illness of love → love-sickness**, **Anguish of Pallor → Suffering from Pallor**, and citation metadata **verse / verses → Kural / Kurals**;
 - GR6 added source-supported controls for six new chapter labels, `செங்கோல்`, `காம நோய்`, and context-sensitive `பெரியார்`;
 - glossary reconciliation does not change page review status.
 
