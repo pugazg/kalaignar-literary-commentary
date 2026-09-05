@@ -25,7 +25,8 @@ translations/en/
   GLOSSARY.md
   TRANSLATION_STATUS.md
   pages/
-  reviews/          # created when review/release artefacts are actually needed
+  reviews/
+    PART_001_ENGLISH_REVIEW.md
 ```
 
 English pages mirror the Tamil filenames exactly.
@@ -55,25 +56,22 @@ Part 001 English:
 - source-check: **111/111 COMPLETE**;
 - glossary / recurring-terminology reconciliation: **111/111 COMPLETE**;
 - editorial review: **111/111 COMPLETE** — ER1 through ER8 complete;
-- page statuses after ER8: **107 `editorial-reviewed` + 4 `source-limited`**;
+- Part-level English review: **COMPLETE — PASS**;
+- durable Part-level review: `reviews/PART_001_ENGLISH_REVIEW.md`;
+- Tamil↔English filename alignment confirmed: **111/111**;
+- current page statuses: **107 `editorial-reviewed` + 4 `source-limited`**;
+- source-limited scans: **13, 14, 15, 19**; all were independently rechecked at Part level and remain explicitly limited without reconstructed wording;
 - `source-checked`: **0**;
 - `draft`: **0**;
-- source-limited scans: **13, 14, 15, 19**; all were reviewed within securely established material and remain `source-limited`;
-- ER1 readability refinements: scans **5 and 6**;
-- ER2: **20, 21, 24 and 28**;
-- ER3: **36, 42, 43 and 44**;
-- ER4: **46, 50 and 60**;
-- ER5: **61, 68, 73 and 74**;
-- ER6: **78, 79 and 80**;
-- ER7: **91, 103 and 105**;
-- ER8 / scans **106–111** required **no body-text changes**; status promotion only;
-- ER8 preserved **106→107** and **109→110→111** continuities; scan 108 remains self-contained;
+- `release-ready`: **0**;
+- Part-scale controlled terminology, names, chapter labels, Kural metadata, quotation handling, page functions and known cross-page continuities: **PASS**;
+- `TRANSLATION_GUIDE.md` stale frontier was corrected during Part-level review as a documentation-only control fix;
+- no English page body text or page status was changed during Part-level review;
 - scan **111** is the final supplied Part 001 scan; **111→112** remains unresolved until Part 002 is supplied;
 - no unreadable source material was reconstructed;
-- no standard/published/web English Kural wording was imported;
-- release-ready: **0**.
+- no standard/published/web English Kural wording was imported.
 
-The exact next gate is the **Part 001 Part-level English review**. This gate reviews the completed English layer as a whole and creates a durable Part-level review artefact. It does **not** promote pages to `release-ready`; that occurs only after the later release-report gate.
+The exact next gate is the **Part 001 Part-level English release report**. It must use the completed Part-level review to decide release approval. Pages must not be promoted to `release-ready` before the release report is completed and approved.
 
 See `TRANSLATION_STATUS.md` for the authoritative English frontier.
 
