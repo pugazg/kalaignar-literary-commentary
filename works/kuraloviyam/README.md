@@ -8,7 +8,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
-| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; English source-check **111/111 complete**; glossary reconciliation **111/111 complete**; editorial review through scan 15 |
+| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; English source-check **111/111 complete**; glossary reconciliation **111/111 complete**; editorial review through scan 30 |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -91,29 +91,39 @@ Drafting Batches 1–10 cover scans 1–111.
 
 ### ER1 / scans 1–15 — COMPLETE
 
-- scans **1–12** passed and were promoted from `source-checked` to `editorial-reviewed`;
+- scans **1–12** passed and were promoted to `editorial-reviewed`;
 - scans **13–15** were reviewed within securely established source-limited material and remain `source-limited`;
-- two source-faithful readability refinements were made:
-  - scan **5**: **“Amid the social community of Tamil land as it existed two thousand years ago...”** → **“In the midst of Tamil society as it existed two thousand years ago...”**;
-  - scan **6**: the awkward **“six-month rigorous-imprisonment prisoner...”** construction was refined to **“serving six months of rigorous imprisonment...”** while retaining the Kallakudi/Tiruchirappalli meaning;
-- scans **1–4 and 7–12** required no body wording changes;
+- source-faithful readability refinements were made on scans **5 and 6**;
 - scans 13–15 were not reconstructed;
 - no standard/published/web English Kural wording was imported.
 
-Current English page statuses after ER1:
+### ER2 / scans 16–30 — COMPLETE
 
-- `editorial-reviewed`: **12**;
-- `source-checked`: **95**;
+- scans **16–18 and 20–30** passed and were promoted to `editorial-reviewed`;
+- scan **19** was reviewed within securely established source-limited material and remains `source-limited`; its washed-out gap was not reconstructed;
+- source-faithful readability refinements were made on scans **20, 21, 24 and 28**;
+- scan **21** now preserves `ஏட்டு முயற்சி / எண்ண முயற்சி` naturally as **“efforts on the page / efforts of thought”**;
+- scan **24**'s Valluvar Kottam / *Kuraloviyam* durability comparison was streamlined without altering source meaning;
+- the scan **26→27** new-poetry/traditional-poetry continuation remains preserved, and source `கொளவு` remains *kolavu*;
+- all other non-limited ER2 pages required no body wording change;
+- no standard/published/web English Kural wording was imported.
+
+Current English page statuses after ER2:
+
+- `editorial-reviewed`: **26**;
+- `source-checked`: **81**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - `draft`: **0**;
 - `release-ready`: **0**.
+
+Editorial-review coverage: **30/111 scans**.
 
 # Current frontier
 
 **Tamil Part 001: archival-ready / closed.**
 
-**English Part 001: first-pass drafting COMPLETE; source-check COMPLETE; glossary reconciliation COMPLETE; editorial review complete through scan 15.**
+**English Part 001: first-pass drafting COMPLETE; source-check COMPLETE; glossary reconciliation COMPLETE; editorial review complete through scan 30.**
 
-Exact next activity: **editorial consistency review ER2 — scans 16–30**, exactly 15 consecutive scans. Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity while preserving audited Tamil meaning. Scan 19 remains `source-limited`; all other passing pages in this batch may move to `editorial-reviewed`.
+Exact next activity: **editorial consistency review ER3 — scans 31–45**, exactly 15 consecutive scans. Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity while preserving audited Tamil meaning. Passing pages may move to `editorial-reviewed`.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
