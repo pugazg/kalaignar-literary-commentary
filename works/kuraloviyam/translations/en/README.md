@@ -56,15 +56,14 @@ Part 001 English:
 - final source-check statuses: **107 `source-checked` + 4 `source-limited`**;
 - `draft`: **0**;
 - source-limited scans: **13, 14, 15, 19**, all reviewed within available evidence;
-- glossary / recurring-terminology reconciliation: **90/111 scans complete** — GR1 scans 1–15, GR2 scans 16–30, GR3 scans 31–45, GR4 scans 46–60, GR5 scans 61–75, GR6 scans 76–90;
-- GR5 added nine source-supported Kural chapter labels, the `பதர் / பதடி` → **chaff** metaphor control, narrative names **Karmegam / Poovazhagi / Kannayiram / Thirunadu / Valanadu**, and a context-aware **Ramayanam / Ramayana** distinction with **Valmiki**;
-- GR6 corrected three English page records: scan 77 **Valluvar's hall → Valluvar Kottam**; scan 86 **Speaking of the State of Dreams → Speaking of the Dream State**; scan 90 **illness of love → love-sickness**, **Anguish of Pallor → Suffering from Pallor**, and citation metadata **verse / verses → Kural / Kurals**;
-- GR6 added source-supported controls for six new chapter labels, `செங்கோல்`, `காம நோய்`, and the generic-vs-proper-name distinction for `பெரியார்`;
+- glossary / recurring-terminology reconciliation: **105/111 scans complete** — GR1 scans 1–15, GR2 scans 16–30, GR3 scans 31–45, GR4 scans 46–60, GR5 scans 61–75, GR6 scans 76–90, GR7 scans 91–105;
+- GR6 corrected scan 77 **Valluvar's hall → Valluvar Kottam**, scan 86 **Speaking of the State of Dreams → Speaking of the Dream State**, and scan 90 terminology/citation metadata to **love-sickness**, **Suffering from Pallor**, and **Kural / Kurals**;
+- GR7 corrected citation metadata on scans **92, 94, 96, 98, 101 and 103**, reconciled scan 96 **Learning → Education** and scan 98 **Loss of Bodily Beauty → Wasting Away of Bodily Beauty**, and added source-supported controls for **False Conduct**, **Freedom from Idleness**, **Loss of Restraint**, **Evil Friendship**, **Thenmozhi**, **Paingili**, **Kayalvizhi**, **Urkkavalan** and **Villavan**;
 - no standard/published/web English Kural translation wording was imported;
 - editorial-reviewed: **0**;
 - release-ready: **0**.
 
-The exact next gate is **glossary reconciliation GR7 — scans 91–105**, exactly 15 consecutive scans. This gate checks controlled names/terms and recurring English renderings; it does not itself promote pages to `editorial-reviewed`.
+The exact next gate is **glossary reconciliation GR8 — scans 106–111**, the final 6-page remainder. This gate checks controlled names/terms and recurring English renderings; it does not itself promote pages to `editorial-reviewed`.
 
 See `TRANSLATION_STATUS.md` for the authoritative English frontier.
 
