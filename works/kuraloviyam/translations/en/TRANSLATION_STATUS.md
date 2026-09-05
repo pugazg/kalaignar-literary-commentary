@@ -119,13 +119,33 @@ Result:
 - no unreadable source material was reconstructed;
 - no external/standard Kural wording was imported.
 
+### SC7 — scans 91–105 — COMPLETE
+
+Compared all fifteen English records against the audited Tamil records for prose/dialogue/Kural coverage, names, imagery, omissions, additions, meaning drift and physical cross-page continuity.
+
+Result:
+
+- scans **91–105** — PASS and promoted from `draft` to `source-checked`;
+- eight fidelity-adjustment groups affected eleven page records:
+  - scan **91**: removed the unsupported manner adverb in the reply description; `இதழ் அசைவது தெரியாமல்` now reads **“without his lips seeming to move”** rather than adding “softly”;
+  - scans **93–94**: repaired the physical continuation across `உட்கார்ந்து / கொண்டாள்`, removing the duplicated “sat” action;
+  - scan **95**: removed unsupported age information by changing **“beautiful young woman”** to **“beautiful woman”** for source `அழகிய பெண்`;
+  - scan **96**: corrected the reversed `இட்டடி நோக எடுத்தடி கொப்பளிக்க` walking image and removed the unsupported characterization **“embarrassed”** from the source-only vocalization `ஹஹா-ம்`;
+  - scans **99–100**: restored the physical split across `தூங்கக்கூட விட மாட்டார்கள் / போலிருக்கிறதே`, so the English no longer moves the continuation phrase into scan 99;
+  - scan **101**: removed the unsupported inserted subject **“parents”** from `அருமைச் செல்வங்களை இழந்து நிற்கும் வேதனை உருவங்கள்` and removed unsupported **“slowly”** from `அடிமேல் அடிவைத்து`;
+  - scan **103**: corrected `என் உயிரல்ல, என் இன்பமல்ல` in its pleading context from the contradictory literal-negation reading **“Not my life, not my pleasure”** to the affectionate address **“My life! My joy!”**;
+  - scans **104–105**: repaired the physical continuation across `தனது / குதிரையின்மீது`, removing the duplicated horse-mounting action.
+- no other SC7 wording changes were required;
+- no unreadable source material was reconstructed;
+- no external/standard Kural wording was imported.
+
 ## Current counts
 
 - English page records: **111 / 111**;
 - first-pass drafting: **COMPLETE**;
-- source-check coverage: **90 / 111** physical scans reviewed;
-- `source-checked`: **86**;
-- `draft`: **21**;
+- source-check coverage: **105 / 111** physical scans reviewed;
+- `source-checked`: **101**;
+- `draft`: **6** — scans 106–111;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - source-limited records reviewed within available evidence: **4 / 4**;
 - editorial-reviewed: **0**;
@@ -133,13 +153,13 @@ Result:
 
 ## Exact next activity
 
-Begin **Part 001 English source-check Batch SC7 — scans 91–105** against the audited Tamil records.
+Complete **Part 001 English source-check final remainder SC8 — scans 106–111** against the audited Tamil records.
 
-- process exactly **15 consecutive scans**;
+- process the remaining **6 consecutive scans**; this is the permitted final remainder under the 15-page cadence;
 - compare each English page paragraph-by-paragraph / block-by-block against its audited Tamil page for omissions, additions, meaning drift, names, quotations, Kural blocks, visual/page function and physical continuations;
-- scans **91–105** have verified Tamil archival records under the current Part 001 status map and may move from `draft` to `source-checked` only after each passes;
+- scans **106–111** have verified Tamil archival records and may move from `draft` to `source-checked` only after each passes;
 - do not import standard Thirukkural English wording, web translations, another commentator or memory;
-- record any corrections transparently in the relevant English page records and this status document;
-- update frontier documentation and audit the exact changed-file set before advancing to the final source-check remainder, scans **106–111**.
+- record any corrections transparently in the affected English page records and this status document;
+- after SC8, audit the complete Part 001 source-check state and only then advance to **glossary / recurring-terminology reconciliation**.
 
-Do not begin glossary reconciliation or editorial review until the Part 001 source-check stage is complete.
+Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
