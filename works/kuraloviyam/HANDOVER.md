@@ -97,34 +97,40 @@ Final source-check state:
 
 All fifteen records were reconciled against audited Tamil context and `translations/en/GLOSSARY.md`.
 
-- English page wording corrections required solely for GR1 consistency: **none**;
-- the glossary was expanded only from source evidence present in scans 1–15;
-- important controlled distinctions recorded durably include:
-  - `அணிந்துரை` → **Foreword**, distinct from `மதிப்புரை` → **Critical Appreciation**;
-  - `இன்பத்துப்பால்` → **Book of Inbam**, distinct from `காமத்துப்பால்` → **Book of Love**;
-  - `சூழ்நிலையுரை` → **situational commentary**;
-  - classical `அகம் / அகத்திணை`, `அகப்பொருள்`, `ஊடல்`, `கூடல்` retain context-aware literary renderings;
-  - Valluvar Kottam, edition-preface labels, and source-evidenced work/publication/person names were added to the controlled glossary;
-- scans **13–15** remain `source-limited`; no terminology was inferred from unreadable handwritten bodies;
-- external/standard Thirukkural terminology imported: **none**.
+- no English page wording corrections were required solely for GR1 consistency;
+- source-supported controlled distinctions include `அணிந்துரை` / `மதிப்புரை` → **Foreword / Critical Appreciation**, `இன்பத்துப்பால்` / `காமத்துப்பால்` → **Book of Inbam / Book of Love**, `சூழ்நிலையுரை`, classical `akam` terminology, Valluvar Kottam, edition-preface labels, and source-evidenced names;
+- scans 13–15 remain source-limited; no handwritten body terminology was inferred.
 
-Glossary reconciliation coverage: **15/111 scans**.
+### GR2 — scans 16–30 — COMPLETE
+
+All fifteen records were reconciled against audited Tamil context and the expanded glossary.
+
+- `பதிப்புரை` → **Publisher's Note** was recorded and kept distinct from `பதவுரை` and `முகப்புரை`;
+- the user-confirmed lexical clarification `பதவுரை` → **word-by-word explanation** was applied to the glossary and existing English scans **4–5**;
+- scan **17** was corrected from **“Aram, Porul and Kamam”** to the controlled structural forms **“the Book of Aram, the Book of Porul and the Book of Love”** for `அறத்துப்பால், பொருட்பால், காமத்துப்பால்`;
+- scan **30** now preserves the explicit source honorific as **Puratchi Kavignar Bharathidasan**, consistent with scan 19;
+- context-aware differences such as `உரை` = commentary vs speech/address and `புதுக் கவிதை` = free verse vs new poetry are recorded rather than flattened mechanically;
+- source-supported speaker/role and literary/prosodic terms from scans 16–30 were added to `GLOSSARY.md`;
+- scan **19** remains `source-limited`; no term was inferred from its washed-out gap;
+- no standard/published/web English Kural translation wording was imported.
+
+Glossary reconciliation coverage: **30/111 scans**.
 
 Page statuses remain **107 `source-checked` + 4 `source-limited`**. Glossary reconciliation does not itself promote pages to `editorial-reviewed`.
 
 ## Current exact activity
 
-Proceed with **Part 001 glossary / recurring-terminology reconciliation GR2 — scans 16–30**:
+Proceed with **Part 001 glossary / recurring-terminology reconciliation GR3 — scans 31–45**:
 
 1. fetch live `main` first;
 2. process exactly **15 consecutive scans**;
-3. fetch matching English and audited Tamil records for scans **16–30** as needed;
+3. fetch matching English and audited Tamil records for scans **31–45** as needed;
 4. compare recurring names, controlled literary terms, chapter labels, publication/work names and repeated English renderings against the expanded `translations/en/GLOSSARY.md` and Tamil context;
 5. add or refine glossary entries only where Part 001 evidence supports them;
 6. do not mechanically force one English equivalent where context requires a different rendering;
 7. do not import standard Thirukkural terminology, web text, published translations, another commentator or memory;
-8. this gate does **not** itself promote pages to `editorial-reviewed`; scan **19** remains `source-limited`;
+8. this gate does **not** itself promote pages to `editorial-reviewed`;
 9. record terminology corrections transparently in affected English pages and `GLOSSARY.md`;
-10. update `TRANSLATION_STATUS.md`, English/work README, handover and current prompt, then audit the exact changed-file set before advancing to GR3.
+10. update `TRANSLATION_STATUS.md`, English/work README, handover and current prompt, then audit the exact changed-file set before advancing to GR4.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and Part 002 source is supplied.
