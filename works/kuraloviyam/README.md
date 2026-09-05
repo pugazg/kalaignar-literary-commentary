@@ -8,8 +8,8 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
-| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass, source-check, glossary reconciliation and editorial review **111/111 complete**; Part-level English review **PASS**; release report next |
-| 002 | 112–222 | not yet supplied | not-started |
+| 001 | 1–111 | supplied | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
+| 002 | 112–222 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | intake / processing active |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
 | 005 | 445–555 | not yet supplied | not-started |
@@ -25,70 +25,54 @@ source intake → Pass 1 → Pass 2A → Pass 2B → Pass 3 → Part audit → f
 
 Closed Parts should not routinely require their earlier PDF again; reopen an older split only for a newly discovered source/provenance problem.
 
-# Part 001 — Tamil archival layer
+# Part 001 — CLOSED
 
-**CLOSED / ARCHIVAL-READY.**
+Tamil scans **1–111** are archival-ready: source intake and Passes 1/2A/2B/3 complete; Part audit and final status sync PASS; **107 `verified` + 4 `partial`**; partial scans **13, 14, 15, 19**; visual fidelity **111/111 verified**.
 
-- scans **1–111**;
-- main body begins scan **18 / printed 1**;
-- Part ends scan **111 / printed 94**;
-- Pass 1 / Pass 2A / Pass 2B / Pass 3: **111/111 complete**;
-- Part audit: **PASS**;
-- final page-status sync: **PASS**;
-- textual statuses: **107 `verified` + 4 `partial`**;
-- partial scans: **13, 14, 15, 19**;
-- visual fidelity: **111/111 `verified`**.
+English Part 001 is also closed:
 
-Scans 13–15 contain unreadable handwritten/facsimile bodies. Scan 19 contains a physically washed-out/faint printed region. Do not reconstruct those readings.
+- drafting, source-check, glossary reconciliation and editorial review: **111/111 complete**;
+- Part-level English review: **PASS**;
+- release report: **APPROVED WITH EXPLICIT SOURCE LIMITATIONS**;
+- final English statuses: **107 `release-ready` + 4 `source-limited`**;
+- source-limited scans remain **13, 14, 15, 19**;
+- no missing wording was reconstructed;
+- no English body text changed during the release gate.
 
-The adjacent **111 → 112** check remains deferred until Part 002 is supplied.
+Durable release report:
 
-# Part 001 — English project translation
+`works/kuraloviyam/translations/en/reviews/PART_001_ENGLISH_RELEASE_REPORT.md`
 
-English layer: `works/kuraloviyam/translations/en/`.
+# Part 002 — ACTIVE
 
-This is a **project-created translation**, not an official/publisher English edition.
+Supplied source:
 
-Permanent review cadence:
+`TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf`
 
-**draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
+Expected extent: **111 physical scans**, corresponding to overall scans **112–222**.
 
-## Completed English gates
+## Standard iteration size
 
-- first-pass translation: **111/111 COMPLETE**;
-- source-check: **111/111 COMPLETE**;
-- glossary / recurring-terminology reconciliation: **111/111 COMPLETE**;
-- editorial consistency review ER1–ER8: **111/111 COMPLETE**;
-- Part-level English review: **COMPLETE — PASS**.
+Part 002 uses **11 physical scans per iteration** as the standard cadence.
 
-Durable Part-level review record:
+Planned batches:
 
-`works/kuraloviyam/translations/en/reviews/PART_001_ENGLISH_REVIEW.md`
+- P2-01: **112–122**
+- P2-02: **123–133**
+- P2-03: **134–144**
+- P2-04: **145–155**
+- P2-05: **156–166**
+- P2-06: **167–177**
+- P2-07: **178–188**
+- P2-08: **189–199**
+- P2-09: **200–210**
+- P2-10: **211–221**
+- final remainder: **222**
 
-## Part-level English review result
+Do not allow the 11-page work cadence to create artificial textual or narrative boundaries; page continuations must follow the source.
 
-The whole-Part review confirmed:
+## Current frontier
 
-- **111/111** Tamil page records and **111/111** English page records;
-- **111/111** filename alignment with no missing or extra English record;
-- final English page statuses remain **107 `editorial-reviewed` + 4 `source-limited`**;
-- source-limited scans **13, 14, 15 and 19** remain explicit and contain no reconstructed missing wording;
-- `draft=0`, `source-checked=0`, `release-ready=0`;
-- controlled glossary terms, personal names, chapter labels, Kural numbering/metadata, quotation handling and recurring phrasing are consistent across Part 001;
-- accumulated page functions and cross-page continuities remain coherent after editorial review;
-- the stale final frontier in `TRANSLATION_GUIDE.md` was corrected as a documentation-only control synchronization;
-- no Tamil page file, English page body text, or English page status was changed during the Part-level review;
-- scan **111** remains only the final supplied physical scan of Part 001;
-- the **111→112** split boundary remains unresolved until Part 002 is supplied.
+Exact next activity: **Part 002 source intake + first source-first iteration, overall scans 112–122**.
 
-# Current frontier
-
-**Tamil Part 001: archival-ready / closed.**
-
-**English Part 001: first-pass COMPLETE; source-check COMPLETE; glossary reconciliation COMPLETE; editorial review COMPLETE; Part-level English review PASS.**
-
-Exact next activity: **Part 001 Part-level English release report**.
-
-The release-report gate must use the completed Part-level review record and decide release approval before any eligible page is promoted to `release-ready`. The four source-limited pages remain source-limited unless better source evidence is supplied.
-
-Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied. The **111→112** boundary remains unverifiable until then.
+The first intake action must verify the real **111→112** boundary from the supplied Part 002 source. Do not reconstruct or infer any missing text across that split.
