@@ -89,35 +89,44 @@ All **111/111** English page records exist. The permanent source-limited English
 
 - all fifteen Tamil↔English page pairs reviewed and PASS;
 - scans **46–60** promoted to `source-checked`;
-- three fidelity adjustments:
-  - scan **47**: unsupported **“Fool!”** removed for Tamil `அடே!`; now neutral **“Why!”**;
-  - scan **53**: unsupported **“temple”** removed from `கூட கோபுரம்`; now **“lofty towers rising to touch the clouds”**;
-  - scan **55**: `மெய்மறந்து` refined from **“lost in himself”** to **“forgetting himself”**;
+- three fidelity adjustments are documented in `translations/en/TRANSLATION_STATUS.md`;
+- no external/standard Kural English imported.
+
+### SC5 — scans 61–75 — COMPLETE
+
+- all fifteen Tamil↔English page pairs reviewed and PASS;
+- scans **61–75** promoted to `source-checked`;
+- four fidelity adjustments:
+  - scan **67**: `துவளுவார்கள்` changed from **“melt”** to **“wilt”**;
+  - scan **69**: removed the unsupported paraphrase **“both country and rule may survive”** and aligned the sentence to the audited Tamil sequence;
+  - scan **71**: removed unsupported **“smiles”** from `முத்துக்கோவை தரும் பாவை`; now **“the maiden who gives a string of pearls”**;
+  - scan **75**: removed unsupported age information by changing **“young woman”** to **“woman”** for `ஒருத்தி`;
+- no unreadable source material reconstructed;
 - no external/standard Kural English imported.
 
 Current English totals:
 
 - page records: **111/111**;
-- source-check coverage: **60/111**;
-- `source-checked`: **56**;
-- `draft`: **51**;
+- source-check coverage: **75/111**;
+- `source-checked`: **71**;
+- `draft`: **36**;
 - `source-limited`: **4** — scans 13–15, 19; all four have been reviewed within available evidence;
 - editorial-reviewed: **0**;
 - release-ready: **0**.
 
 ## Current exact activity
 
-Proceed with **Part 001 English source-check SC5 — scans 61–75**:
+Proceed with **Part 001 English source-check SC6 — scans 76–90**:
 
 1. fetch live `main` first;
-2. fetch audited Tamil and matching English records for scans **61–75**;
+2. fetch audited Tamil and matching English records for scans **76–90**;
 3. process exactly **15 consecutive scans**;
 4. compare paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual/page function and physical continuations;
 5. promote each record from `draft` to `source-checked` only after it passes;
 6. do not import standard Kural English wording or any external translation;
 7. record source-check corrections transparently in affected English records and `TRANSLATION_STATUS.md`;
-8. update README/handover/current prompt after SC5;
-9. compare the pre-batch base SHA to the new head and confirm only intended files changed before advancing to scan 76.
+8. update README/handover/current prompt after SC6;
+9. compare the pre-batch base SHA to the new head and confirm only intended files changed before advancing to scan 91.
 
 Do not begin glossary reconciliation or editorial review until Part 001 source-check is complete.
 
