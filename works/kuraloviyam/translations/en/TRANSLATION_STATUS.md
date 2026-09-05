@@ -48,25 +48,36 @@ Drafting Batches 1–10 cover scans **1–111**. No external or standard English
 
 ### SC2 — scans 16–30 — COMPLETE
 
-Compared all fifteen English records against the audited Tamil records for headings, page function, paragraph/block coverage, names, quotations, omissions, additions, meaning drift and cross-page continuity.
+- scans **16–18, 20–30** — PASS; promoted from `draft` to `source-checked`;
+- scan **19** — PASS within source limits and remains `source-limited`; its physically washed-out Tamil gap remains explicitly unreconstructed;
+- one fidelity correction was required on scan **19**: Tamil `மிகப் பலர் அல்லர்` was previously rendered as **“not very few”**, which reversed the meaning; it was corrected to **“not very many”**;
+- no external/standard Kural wording was imported.
+
+All four permanent source-limited Part 001 pages — scans **13, 14, 15, 19** — have been source-reviewed within the evidence safely available in their audited Tamil records.
+
+### SC3 — scans 31–45 — COMPLETE
+
+Compared all fifteen English records against the audited Tamil records for headings, page function, prose/quotation/Kural coverage, names, omissions, additions, meaning drift and physical cross-page continuity.
 
 Result:
 
-- scans **16–18, 20–30** — PASS; promoted from `draft` to `source-checked`;
-- scan **19** — PASS within source limits and remains `source-limited`; its physically washed-out Tamil gap remains explicitly unreconstructed;
-- one fidelity correction was required on scan **19**: Tamil `மிகப் பலர் அல்லர்` was previously rendered as **“not very few”**, which reversed the meaning; it is now corrected to **“not very many”**;
-- no other SC2 English wording changes were required;
+- scans **31–45** — PASS and promoted from `draft` to `source-checked`;
+- six fidelity adjustments affected seven page records:
+  - scans **34–35**: restored the physical page boundary across Tamil `விஞ்ஞான, / மேதைகள்` by ending scan 34 at “scientific—” and beginning scan 35 “—thinkers of this age”; no source wording was added;
+  - scan **36**: corrected the transliteration of `வாலறிவன்` from `Valarivan` to `Vaal-arivan`;
+  - scans **37–38**: repaired the continuation of `படை / கொண்டு தாக்குவது போல் தோன்றும்` so the English no longer repeats the “army” image across the page boundary;
+  - scan **39**: tightened `அந்தக் குழலோசை சேர்த்த இன்பம் பேரின்பம்` from “brings delight upon delight” to “the pleasure added by the sound ... is supreme bliss”;
+  - scan **40**: corrected `தன் சிறு கையால் கூழை அள்ளி அமிழ்த்தினும்` by removing the unsupported idea that the child “feeds” the gruel; the English now says the little hand “scoops and dips into the gruel”;
+  - scan **45**: removed the unsupported specification “attendants” from `புடைசூழ...`; the English now retains only “surrounded on all sides.”
 - no external/standard Kural wording was imported.
-
-All four permanent source-limited Part 001 pages — scans **13, 14, 15, 19** — have now been source-reviewed within the evidence safely available in their audited Tamil records.
 
 ## Current counts
 
 - English page records: **111 / 111**;
 - first-pass drafting: **COMPLETE**;
-- source-check coverage: **30 / 111** physical scans reviewed;
-- `source-checked`: **26**;
-- `draft`: **81**;
+- source-check coverage: **45 / 111** physical scans reviewed;
+- `source-checked`: **41**;
+- `draft`: **66**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - source-limited records reviewed within available evidence: **4 / 4**;
 - editorial-reviewed: **0**;
@@ -74,13 +85,13 @@ All four permanent source-limited Part 001 pages — scans **13, 14, 15, 19** �
 
 ## Exact next activity
 
-Begin **Part 001 English source-check Batch SC3 — scans 31–45** against the audited Tamil records.
+Begin **Part 001 English source-check Batch SC4 — scans 46–60** against the audited Tamil records.
 
 - process exactly **15 consecutive scans**;
 - compare each English page paragraph-by-paragraph / block-by-block against its audited Tamil page for omissions, additions, meaning drift, names, quotations, Kural blocks, visual/page function and physical continuations;
-- scans **31–45** have verified Tamil archival records under the current Part 001 status map and may move from `draft` to `source-checked` only after each passes;
+- scans **46–60** have verified Tamil archival records under the current Part 001 status map and may move from `draft` to `source-checked` only after each passes;
 - do not import standard Thirukkural English wording, web translations, another commentator or memory;
-- record any corrections transparently in the relevant English page records;
-- update this status/frontier documentation and audit the exact changed-file set before advancing to scan 46.
+- record any corrections transparently in the relevant English page records and this status document;
+- update frontier documentation and audit the exact changed-file set before advancing to scan 61.
 
 Do not begin glossary reconciliation or editorial review until the Part 001 source-check stage is complete.
