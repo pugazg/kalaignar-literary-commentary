@@ -17,9 +17,12 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | முகப்புரை | Preface | Controlled literary-commentary baseline. |
 | அணிந்துரை | Foreword | Keep distinct from `மதிப்புரை`; scan 8 describes Dr. V. Sub. Manickam's contribution with this term. |
 | மதிப்புரை | Critical Appreciation | Controlled literary-commentary baseline; this is the printed heading on scans 9–12. |
-| பதவுரை | word-by-word gloss | Use when contrasting commentary forms. |
+| பதவுரை | word-by-word explanation | User-confirmed lexical clarification during GR2; use when contrasting commentary forms. Keep distinct from `பதிப்புரை`. |
 | விரிவுரை | extended commentary | Context-aware descriptive rendering. |
 | விளக்கவுரை | explanatory commentary | Context-aware descriptive rendering. |
+| விளக்கம் | explanation | General explanatory noun; keep distinct from the more specific commentary-form term `விளக்கவுரை`. |
+| உரை | commentary / speech or address | Context-sensitive. In Kural exegesis it is `commentary`; in an event/speaker context it may be `speech` or `address`. Do not force one equivalent mechanically. |
+| உரையாசிரியர் | commentator | Use for a writer/interpreter of commentary in the literary-exegesis context. |
 | சூழ்நிலையுரை | situational commentary | Term proposed within the Critical Appreciation for Kalaignar's background-setting method. |
 | சொல்லோவியம் | word-picture | Preserve Kalaignar's visual/literary metaphor where the term is used. |
 | கருத்தோவியம் | conceptual picture / picture of thought | Context-aware; prose may naturally use `picture(s) of thought` or `picture(s) of ideas`. |
@@ -27,20 +30,28 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | அறத்துப்பால் | Book of Aram (Virtue / Right Conduct) | First significant use may include gloss; later `Book of Aram`. |
 | பொருட்பால் | Book of Porul | Retain `Porul` in structural reference. |
 | இன்பத்துப்பால் | Book of Inbam | Retain `Inbam` in structural reference. |
-| காமத்துப்பால் | Book of Love | Preserve the distinct term used in the Critical Appreciation; do not silently rewrite it as `Book of Inbam`. |
+| காமத்துப்பால் | Book of Love | Preserve the distinct term used in the source; do not silently rewrite it as `Book of Inbam`. |
 | அகம் / அகத்திணை | akam / akam tradition / inner landscape | Keep `akam` when the source is discussing the classical literary category; a contextual gloss such as `inner landscape` may accompany it. |
 | அகப்பொருள் | inner landscape / akam subject matter | Context-aware literary term; do not flatten it to ordinary `interior` language. |
 | ஊடல் | lovers' quarrel | Controlled contextual rendering in the love-poetics discussion. |
 | கூடல் | lovers' union | Controlled contextual rendering in the love-poetics discussion. |
+| பகுத்தறிவு | rationalism | Use for the ideological/conceptual noun; related person-description may naturally be `rationalist`. |
+| புதுக் கவிதை | free verse / new poetry | Context-aware. `free verse` is used in the Preface's historical/genre discussion; `new poetry` may be retained where a speaker explicitly contrasts the label with `மரபுக் கவிதை`. |
+| மரபுக் கவிதை | traditional poetry | Controlled contrast with `புதுக் கவிதை` in scans 26–27. |
+| உரைக் கவிதை | prose-poetry | Speaker's intermediate category between new/free verse and traditional poetry in scans 26–27. |
+| எதுகை மோனை | alliteration and rhyme | Paired descriptive rendering used in the Ramalinganar discussion; do not infer additional technical equivalences beyond the audited context. |
+| அசை / சீர் / தளை | asai / seer / thalai | Retain these Tamil prosodic terms in transliteration when used technically. |
 | வள்ளுவர் கோட்டம் | Valluvar Kottam | Retain established proper-name form. |
 
-## Edition-preface labels encountered in Part 001
+## Edition-preface / publication-note labels encountered in Part 001
 
 | Tamil | Default English | Editorial note |
 |---|---|---|
 | மூன்றாம் பதிப்பின் முகப்புரை | Third Edition Preface | Scan 13 printed heading; handwritten body remains source-limited. |
 | நான்காம் பதிப்பின் முகப்புரை | Fourth Edition Preface | Scan 14 printed heading; handwritten body remains source-limited. |
 | ஆறாம் பதிப்பின் முகப்புரை | Sixth Edition Preface | Scan 15 printed heading; handwritten body remains source-limited. |
+| பதிப்புரை | Publisher's Note | Publisher-authored publication note; keep distinct from `பதவுரை` (`word-by-word explanation`) and `முகப்புரை` (`Preface`). |
+| ஆறாம் பதிப்பின் பதிப்புரை | Publisher's Note for the Sixth Edition | Printed heading on scan 17. |
 | இரு கண்கள் | Two Eyes | Printed title on scan 14. |
 
 ## Publication / periodical / work names encountered in Part 001
@@ -58,20 +69,31 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | இராமாயணம் | Ramayanam | Retain the form used in the project translation when referring to Kambar's work in the Critical Appreciation. |
 | தொல்காப்பியம் | Tolkappiyam | Retain classical work title in transliteration. |
 | சிலப்பதிகாரம் | Silappathikaram | Retain classical work title in transliteration. |
+| புறநானூறு | Purananuru | Retain classical work title in transliteration. |
 | கவிதையல்ல | Not Poetry | English rendering of the quoted title used in the Preface. |
 | புறநானூற்றுத் தாய் | The Purananuru Mother | English rendering of the poem title used in the Preface. |
 | வைரமணிகள் | Vairamanigal | Retain book title; a contextual English gloss may be added during review only if needed. |
 | தேனலைகள் | Thenalaigal | Retain book title; do not invent a published English title. |
 
-## People / role references encountered in the opening front matter
+## People / role references encountered in Part 001
 
 | Tamil | Default English form | Editorial note |
 |---|---|---|
 | தந்தை பெரியார் | Thanthai Periyar | Retain established honorific/name form. |
 | பெரியார் | Periyar | Use when the source uses the shorter form. |
 | அண்ணா | Anna | Retain the source's familiar form; do not silently expand unless context requires identification. |
+| அறிஞர் அண்ணா | Arignar Anna | Preserve the source honorific when it is explicitly present. |
 | பேரறிஞர் அண்ணா | Perarignar Anna | Preserve the source honorific when it is explicitly present. |
-| டாக்டர் வ. சுப. மாணிக்கம் | Dr. V. Sub. Manickam | Use consistently in the Part 001 Critical Appreciation attribution. |
+| டாக்டர் வ. சுப. மாணிக்கம் | Dr. V. Sub. Manickam | Use consistently in the Part 001 Critical Appreciation and speaker section. |
+| பேராசிரியர் | Professor | Controlled speaker/role heading in scans 18–20; ordinary contextual uses may still be translated naturally. |
+| மகா வித்துவான் தண்டபாணி தேசிகர் | Maha Vidwan Dandapani Desikar | Preserve the honorific/name form used in the scan 21 speaker heading. |
+| மதுரை யாதவர் கல்லூரி முதல்வர் தமிழ்க்குடிமகன் | Principal of Madurai Yadava College — Tamilkudimagan | Preserve the institutional role and personal name from scan 24. |
+| காசி ஆனந்தன் | Kasi Anandan | Transliterate the scan 25 speaker name. |
+| ஆட்சிமொழிக் காவலர் இராமலிங்கனார் | Guardian of the Official Language Ramalinganar | Preserve the source speaker title descriptively in scans 26–27. |
+| ஆசிரியர் சாவி | Editor Saavi | Use `Editor` for the publication-editor role; `ஆசிரியர்` remains context-sensitive elsewhere. |
+| டாக்டர் மெ.சுந்தரம் | Dr. Me. Sundaram | Preserve the scan 29 speaker-name form. |
+| டாக்டர் மா.நன்னன் | Dr. Ma. Nannan | Preserve the scan 30 speaker-name form. |
+| புரட்சிக் கவிஞர் பாரதிதாசன் | Puratchi Kavignar Bharathidasan | Retain the explicit source honorific consistently; reconciled across scans 19 and 30 in GR2. |
 | கபிலர் | Kapilar | Transliterate poet's name. |
 | பரிமேலழகர் | Parimelazhagar | Transliterate. |
 | மணக்குடவர் | Manakkudavar | Transliterate. |
@@ -105,6 +127,20 @@ GR1 compared the English records for scans **1–15** against the audited Tamil 
 - `இன்பத்துப்பால்` and `காமத்துப்பால்` remain deliberately distinct (`Book of Inbam` vs `Book of Love`) because the audited Tamil uses both forms in different contexts;
 - scans **13–15** remain source-limited and no handwritten body terminology was inferred;
 - no English page wording change was required solely for GR1 terminology consistency.
+
+## GR2 reconciliation record — scans 16–30
+
+GR2 compared the English records for scans **16–30** against their audited Tamil context and the GR1-controlled glossary.
+
+- scans **16–30** — terminology reconciliation PASS;
+- `பதிப்புரை` is now controlled as **Publisher's Note** and explicitly distinguished from `பதவுரை` (**word-by-word explanation**) and `முகப்புரை` (**Preface**);
+- the user-confirmed lexical clarification `பதவுரை` → **word-by-word explanation** was applied to the glossary and to its existing occurrences on English scans **4–5**;
+- scan **17** was reconciled from the inconsistent plain sequence **“Aram, Porul and Kamam”** to the controlled structural labels **“the Book of Aram, the Book of Porul and the Book of Love”** for source `அறத்துப்பால், பொருட்பால், காமத்துப்பால்`;
+- scan **30** was reconciled to **Puratchi Kavignar Bharathidasan**, matching the explicit source honorific and the form already used on scan 19;
+- contextual variation was retained where it carries source meaning: `உரை` may mean commentary or speech/address, and `புதுக் கவிதை` may appear as `free verse` or `new poetry` according to the speaker's context;
+- the glossary was expanded with source-supported speaker/role names and literary/prosodic terms actually encountered in scans 16–30;
+- scan **19** remains source-limited; no term was inferred from its physically washed-out gap;
+- no standard/published/web English Kural translation wording was imported.
 
 ## Review rule
 
