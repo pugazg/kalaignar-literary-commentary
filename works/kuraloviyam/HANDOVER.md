@@ -124,23 +124,34 @@ All fifteen records were reconciled against audited Tamil context and the expand
 - `அதிகாரம் / பாடல்` is controlled as **Chapter / Kural**, and chapter labels encountered through scan 44 were recorded: **Praise of God**, **Domestic Life**, **Lamenting at the Sight of Evening**, **The Blessing of Children**, **Education**, **Realization of Truth**, and **Reading the Sign**;
 - no standard/published/web English Kural translation wording was imported.
 
-Glossary reconciliation coverage: **45/111 scans**.
+### GR4 — scans 46–60 — COMPLETE
+
+All fifteen records were reconciled against audited Tamil context and the expanded glossary.
+
+- scan **52** was reconciled from **Chenguttuvan** to the existing controlled form **Senguttuvan** for `செங்குட்டுவன்`;
+- scan **59** now preserves the explicit `புரட்சிக் கவிஞர் பாரதிதாசன்` honorific as **Puratchi Kavignar Bharathidasan**, consistent with scans 19 and 30;
+- `உரை` was refined to allow **interpretation** as well as **commentary** in Kural-exegesis contexts;
+- source-supported `அறம்` → **virtue / virtuous conduct**, `பாவம் / புண்ணியம்` → **sin / merit**, and `பல்லக்கு / சிவிகை` → **palanquin** controls were recorded;
+- **Ilango Adigal**, **Imayavaramban Nedunjeralathan**, **Gunavayir Kottam**, and the chapter labels encountered through scan 59 were added from audited Part 001 evidence;
+- no standard/published/web English Kural translation wording was imported.
+
+Glossary reconciliation coverage: **60/111 scans**.
 
 Page statuses remain **107 `source-checked` + 4 `source-limited`**. Glossary reconciliation does not itself promote pages to `editorial-reviewed`.
 
 ## Current exact activity
 
-Proceed with **Part 001 glossary / recurring-terminology reconciliation GR4 — scans 46–60**:
+Proceed with **Part 001 glossary / recurring-terminology reconciliation GR5 — scans 61–75**:
 
 1. fetch live `main` first;
 2. process exactly **15 consecutive scans**;
-3. fetch matching English and audited Tamil records for scans **46–60** as needed;
+3. fetch matching English and audited Tamil records for scans **61–75** as needed;
 4. compare recurring names, controlled literary terms, chapter labels, publication/work names and repeated English renderings against the expanded `translations/en/GLOSSARY.md` and Tamil context;
 5. add or refine glossary entries only where Part 001 evidence supports them;
 6. do not mechanically force one English equivalent where context requires a different rendering;
 7. do not import standard Thirukkural terminology, web text, published translations, another commentator or memory;
 8. this gate does **not** itself promote pages to `editorial-reviewed`;
 9. record terminology corrections transparently in affected English pages and `GLOSSARY.md`;
-10. update `TRANSLATION_STATUS.md`, English/work README, handover and current prompt, then audit the exact changed-file set before advancing to GR5.
+10. update `TRANSLATION_STATUS.md`, English/work README, handover and current prompt, then audit the exact changed-file set before advancing to GR6.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and Part 002 source is supplied.
