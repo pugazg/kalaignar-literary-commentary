@@ -33,6 +33,6 @@ She, who wished to embrace him so tightly that even air could not pass between t
 
 Can there be in the world any painting equal to these images Valluvar has drawn to show how even the slightest separation destroys the body's beauty? The answer is only: “No! No!”
 
-Chapter 124 — Loss of Bodily Beauty; verses 1231, 1239
+Chapter 124 — Wasting Away of Bodily Beauty; Kurals 1231, 1239
 
 <!-- Source scan page: 98; printed page: 81 -->
