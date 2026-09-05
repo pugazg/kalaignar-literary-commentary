@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,6 +19,6 @@ Colour illustration of a smiling woman and man with a child between them; a larg
 
 “The breeze that has savoured the tender spathe of the coconut palm strikes the body. That yaazh surpasses even it—who is there in this world to surpass the yaazh my companion plays? There is no one anywhere!
 
-“I have heard the cuckoo’s song. Even I, a maiden, have at times grown weary of the sound of the yaazh I play; but the sound of the flute my lord gives forth brings delight upon delight! There is no chill in the frost-laden wind poured down by the cold season; the flute-music blown by my king is a flood of coolness!”
+“I have heard the cuckoo’s song. Even I, a maiden, have at times grown weary of the sound of the yaazh I play; but I would say the pleasure added by the sound of the flute my lord gives forth is supreme bliss! There is no chill in the frost-laden wind poured down by the cold season; the flute-music blown by my king is a flood of coolness!”
 
 <!-- Source scan page: 39; printed page: 22 -->
