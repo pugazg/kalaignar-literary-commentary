@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,6 +19,6 @@ A warrior named Villavan stood at the entrance of his home. At that moment the w
 
 To be ever ready—always ready—to defend the soil of one's birth: is that not the mark of a warrior? Villavan was the very example of that ideal.
 
-He put on the clothes suited for entering the battlefield. He donned armour. He took up the weapons of war: a sharp spear, a shield and a sword. His...
+He put on the clothes suited for entering the battlefield. He donned armour. He took up the weapons of war: a sharp spear, a shield and a sword. He mounted his—
 
 <!-- Source scan page: 104; printed page: 87; narrative continues to scan 105 -->
