@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Editor Saavi"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains authoritative"
 ---
@@ -17,7 +17,7 @@ Many people have written commentaries on the Thirukkural. But, above all those c
 
 I too have read many commentaries. I understand nothing. I have sometimes thought it would be good if someone wrote explanations for them.
 
-Kalaignar has written them—and every illustration he has written—I say this sincerely: after Ramakrishna Paramahamsa and after Rajaji, when it comes to telling little stories, Kalaignar's equal is Kalaignar himself. The stories are highly fitting. He will take a story that happened now and tell it in a way that suits a Kural written long ago.
+Kalaignar has written them. And I say this sincerely of every picture he has written: after Ramakrishna Paramahamsa and Rajaji, when it comes to telling little stories, Kalaignar's equal is Kalaignar himself. The stories are highly fitting. He will take a story that happened now and tell it in a way that suits a Kural written long ago.
 
 When I was at *Dinamani Kathir*, Kalaignar used to send in *Kuraloviyam*. Week after week, my assistant editors and I would wait for his *Kuraloviyam*, wondering when it would arrive.
 
