@@ -16,30 +16,36 @@ Important boundary: scan **122→123** is a real continuation of the merchant/re
 
 Scans **123–133 / printed 106–116** captured as 11 page-aligned Tamil records.
 
-All records remain:
+Important boundary: scan **133→134** is a clean source boundary.
+
+## P2-03 — COMPLETE
+
+Scans **134–144 / printed 117–127** captured as 11 page-aligned Tamil records.
+
+All Part 002 Pass-1 records remain:
 
 - `status: "needs-review"`
 - `visual_fidelity: "needs-review"`
 
-Source units observed:
+Source units observed in P2-03:
 
-- scan 123 / printed 106 — closes the merchant/rest-house vignette; Chapter 51 / Kural 510;
-- scans 124–125 / printed 107–108 — young-woman/heart vignette; Chapter 130 / Kural 1291;
-- scans 126–127 / printed 109–110 — Gandhi vignette; Chapter 83 / Kural 828;
-- scans 128–129 / printed 111–112 — sneezing/lovers vignette; Chapter 132 / Kurals 1317, 1312;
-- scans 130–131 / printed 113–114 — elderly-man/public-meeting vignette; Chapter 10 / Kural 100;
-- scans 132–133 / printed 115–116 — lovers' quarrel vignette; Chapter 132 / Kurals 1313, 1320.
+- scans 134–135 / printed 117–118 — court music / taste vignette; Chapter 42 / Kural 420;
+- scans 136–137 / printed 119–120 — princess/commander war-and-separation vignette; Chapter 123 / Kural 1224;
+- scans 138–139 / printed 121–122 — owl/crows timing vignette; Chapter 49 / Kural 481;
+- scans 140–141 / printed 123–124 — sisters/child/absent-lover vignette; Chapter 125 / Kural 1244;
+- scans 142–143 / printed 125–126 — medical-hypocrisy vignette; Chapter 28 / Kural 277;
+- scan 144 / printed 127 — secret-meeting vignette begins.
 
-Scan **134 / printed 117** was inspected only as the closing boundary witness. It begins a new illustrated vignette, so **133→134 is a clean source boundary**.
+Scan **145 / printed 128** was inspected only as the closing boundary witness. It continues the same secret-meeting vignette directly from scan 144, so **144→145 is a genuine narrative continuation**.
 
 No standard/published/web Kural wording, another edition, OCR guess, or memory was used to fill uncertain readings.
 
 ## Current Pass 1 coverage
 
-**22 / 111 scans complete** — overall scans **112–133**.
+**33 / 111 scans complete** — overall scans **112–144**.
 
 ## Next activity
 
-**P2-03 — overall scans 134–144 / printed 117–127.**
+**P2-04 — overall scans 145–155 / printed 128–138.**
 
-Inspect scan 145 only as the closing boundary witness when needed.
+Begin scan 145 as continuation of the secret-meeting vignette from scan 144. Inspect scan 156 only as the closing boundary witness when needed.
