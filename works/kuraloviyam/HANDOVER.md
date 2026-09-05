@@ -96,37 +96,47 @@ All **111/111** English page records exist. The permanent source-limited English
 
 - all fifteen Tamil↔English page pairs reviewed and PASS;
 - scans **61–75** promoted to `source-checked`;
-- four fidelity adjustments:
-  - scan **67**: `துவளுவார்கள்` changed from **“melt”** to **“wilt”**;
-  - scan **69**: removed the unsupported paraphrase **“both country and rule may survive”** and aligned the sentence to the audited Tamil sequence;
-  - scan **71**: removed unsupported **“smiles”** from `முத்துக்கோவை தரும் பாவை`; now **“the maiden who gives a string of pearls”**;
-  - scan **75**: removed unsupported age information by changing **“young woman”** to **“woman”** for `ஒருத்தி`;
+- four fidelity adjustments are documented in `translations/en/TRANSLATION_STATUS.md`;
+- no unreadable source material reconstructed;
+- no external/standard Kural English imported.
+
+### SC6 — scans 76–90 — COMPLETE
+
+- all fifteen Tamil↔English page pairs reviewed and PASS;
+- scans **76–90** promoted to `source-checked`;
+- six fidelity adjustments affected seven records:
+  - scan **79**: corrected the old-age bodily image so the feet, not a “step,” are swollen and cracked;
+  - scans **81–82**: repaired the physical mirror continuation and removed duplicated action;
+  - scans **85–86**: removed unsupported **“come alive”** and realigned the physical beauty-description continuation;
+  - scan **86**: restored the ear/music sense of `காதாரப் பண்பாடும் குயில்`;
+  - scan **87**: restored source force with **“slaves”** and **“lackeys”** for `அடிமைகள்` / `எடுபிடிகள்`;
+  - scan **88**: removed unsupported **“a hundred times”** from the elder's speech;
 - no unreadable source material reconstructed;
 - no external/standard Kural English imported.
 
 Current English totals:
 
 - page records: **111/111**;
-- source-check coverage: **75/111**;
-- `source-checked`: **71**;
-- `draft`: **36**;
+- source-check coverage: **90/111**;
+- `source-checked`: **86**;
+- `draft`: **21**;
 - `source-limited`: **4** — scans 13–15, 19; all four have been reviewed within available evidence;
 - editorial-reviewed: **0**;
 - release-ready: **0**.
 
 ## Current exact activity
 
-Proceed with **Part 001 English source-check SC6 — scans 76–90**:
+Proceed with **Part 001 English source-check SC7 — scans 91–105**:
 
 1. fetch live `main` first;
-2. fetch audited Tamil and matching English records for scans **76–90**;
+2. fetch audited Tamil and matching English records for scans **91–105**;
 3. process exactly **15 consecutive scans**;
 4. compare paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual/page function and physical continuations;
 5. promote each record from `draft` to `source-checked` only after it passes;
 6. do not import standard Kural English wording or any external translation;
 7. record source-check corrections transparently in affected English records and `TRANSLATION_STATUS.md`;
-8. update README/handover/current prompt after SC6;
-9. compare the pre-batch base SHA to the new head and confirm only intended files changed before advancing to scan 91.
+8. update README/handover/current prompt after SC7;
+9. compare the pre-batch base SHA to the new head and confirm only intended files changed before advancing to the final source-check remainder, scans **106–111**.
 
 Do not begin glossary reconciliation or editorial review until Part 001 source-check is complete.
 
