@@ -56,13 +56,14 @@ Part 001 English:
 - final source-check statuses: **107 `source-checked` + 4 `source-limited`**;
 - `draft`: **0**;
 - source-limited scans: **13, 14, 15, 19**, all reviewed within available evidence;
-- glossary / recurring-terminology reconciliation: **15/111 scans complete** — GR1 scans 1–15;
-- GR1 required **no English page wording changes**; `GLOSSARY.md` was expanded only from terms and names actually evidenced in the audited batch;
-- external/standard Kural English or terminology imported: **none**;
+- glossary / recurring-terminology reconciliation: **30/111 scans complete** — GR1 scans 1–15 and GR2 scans 16–30;
+- GR2 reconciled `பதிப்புரை` as **Publisher's Note**, retained context-aware `உரை` and `புதுக் கவிதை` renderings, standardized scan 17's three structural Book labels, and standardized **Puratchi Kavignar Bharathidasan** across scans 19 and 30;
+- the user-confirmed lexical clarification `பதவுரை` → **word-by-word explanation** was also applied to the glossary and the existing English occurrences on scans 4–5;
+- no standard/published/web English Kural translation wording was imported;
 - editorial-reviewed: **0**;
 - release-ready: **0**.
 
-The exact next gate is **glossary reconciliation GR2 — scans 16–30**, exactly 15 consecutive scans. This gate checks controlled names/terms and recurring English renderings; it does not itself promote pages to `editorial-reviewed`. Scan 19 remains `source-limited`.
+The exact next gate is **glossary reconciliation GR3 — scans 31–45**, exactly 15 consecutive scans. This gate checks controlled names/terms and recurring English renderings; it does not itself promote pages to `editorial-reviewed`.
 
 See `TRANSLATION_STATUS.md` for the authoritative English frontier.
 
