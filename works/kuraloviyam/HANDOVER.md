@@ -72,48 +72,49 @@ The current user-directed normal iteration size is **15 consecutive physical sca
 - editorial review ER2 / scans **16–30: COMPLETE**;
 - editorial review ER3 / scans **31–45: COMPLETE**;
 - editorial review ER4 / scans **46–60: COMPLETE**;
-- editorial review ER5 / scans **61–75: COMPLETE**.
+- editorial review ER5 / scans **61–75: COMPLETE**;
+- editorial review ER6 / scans **76–90: COMPLETE**.
 
-### Editorial-review state through ER5
+### Editorial-review state through ER6
 
-- scans **1–12, 16–18 and 20–75** are `editorial-reviewed`;
+- scans **1–12, 16–18 and 20–90** are `editorial-reviewed`;
 - scans **13, 14, 15 and 19** remain `source-limited`, after review within securely established material;
 - ER1 readability refinements: scans **5 and 6**;
 - ER2 readability refinements: scans **20, 21, 24 and 28**;
 - ER3 readability refinements: scans **36, 42, 43 and 44**;
 - ER4 readability refinements: scans **46, 50 and 60**;
 - ER5 readability refinements: scans **61, 68, 73 and 74**;
-- scan **61** preserves the `புறப்பாடல்` four-quality argument while making its English sentence natural;
-- scan **68** preserves `அவரது சிந்தனை நீண்டு கொண்டிருப்பதைக் கண்ட` as **“Seeing the minister remain deep in thought”**;
-- scan **73** preserves `சொல்லக்கூடிய நல்ல கருத்துக்களும் இல்லாதவர்` as **“he also has no worthwhile idea to express”**;
-- scan **74** preserves the source's absence-of-help statement in natural English;
-- continuities **60→61, 62→63, 64→65, 68→69, 72→73 and 74→75** remain intact;
-- scan **75→76** was checked for boundary continuity; scan 76 begins a new vignette and was not processed in ER5;
+- ER6 readability refinements: scans **78, 79 and 80**;
+- scan **78** preserves `கதகதப்பு உணர்ச்சி கலந்து வருவதாக` as **“a warm thrill mingling in”**;
+- scan **79** preserves `இயற்கைக் கடமைகளை ஆற்றக்கூட எழுந்து செல்லமுடியாத` as natural English without softening the bodily decline;
+- scan **80** preserves the source's comparison between increasing bodily suffering and increasing attachment to the body;
+- continuities **76→77, 79→80, 81→82, 83→84, 85→86, 87→88 and 89→90** remain intact;
+- scan **90→91** was checked for boundary continuity; scan 91 begins a new vignette and was not processed in ER6;
 - no source-limited material was reconstructed;
 - no standard/published/web English Kural wording was imported.
 
 Current page statuses:
 
-- `editorial-reviewed`: **71**;
-- `source-checked`: **36**;
+- `editorial-reviewed`: **86**;
+- `source-checked`: **21**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - `draft`: **0**;
 - `release-ready`: **0**.
 
-Editorial-review coverage: **75/111 scans**.
+Editorial-review coverage: **90/111 scans**.
 
 ## Current exact activity
 
-Proceed with **Part 001 editorial consistency review ER6 — scans 76–90**, exactly **15 consecutive scans**:
+Proceed with **Part 001 editorial consistency review ER7 — scans 91–105**, exactly **15 consecutive scans**:
 
 1. fetch live `main` first;
-2. process exactly scans **76–90**;
+2. process exactly scans **91–105**;
 3. review English readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity;
 4. consult the matching audited Tamil record whenever a proposed editorial change could affect meaning;
 5. make only source-faithful editorial improvements; do not add commentary or explanation absent from the source;
 6. do not import standard Thirukkural wording, web text, published translations, another commentator or memory;
-7. passing scans **76–90** may move from `source-checked` to `editorial-reviewed`;
+7. passing scans **91–105** may move from `source-checked` to `editorial-reviewed`;
 8. update `TRANSLATION_STATUS.md`, English/work README, this handover and the current prompt;
-9. audit the exact pre-batch base→head changed-file set before advancing to ER7.
+9. audit the exact pre-batch base→head changed-file set before advancing to ER8, the final **106–111** remainder.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and Part 002 source is supplied.
