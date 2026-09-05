@@ -28,7 +28,7 @@ That is why Valluvar said that delay, forgetfulness, idleness and excessive slee
 > Delay, forgetfulness, sloth and sleep—these four  
 > are the pleasure-craft of those headed towards destruction.
 
-Chapter 61 — Freedom from Idleness; verse 605
+Chapter 61 — Freedom from Idleness; Kural 605
 
 ## Visual material
 
