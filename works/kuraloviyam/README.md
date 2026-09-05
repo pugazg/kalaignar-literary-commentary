@@ -8,7 +8,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
-| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; English source-check **111/111 complete**; glossary reconciliation **111/111 complete**; editorial review through scan 75 |
+| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; English source-check **111/111 complete**; glossary reconciliation **111/111 complete**; editorial review through scan 90 |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -94,31 +94,38 @@ The current user-directed normal iteration size is **15 consecutive scans**; a f
 
 - scans **61–75** promoted to `editorial-reviewed`;
 - source-faithful readability refinements: scans **61, 68, 73 and 74**;
-- scan **61** now naturally describes the four `புறப்பாடல்` qualities as marks of excellence in an army while preserving the audited Tamil claim;
-- scan **68** now reads **“Seeing the minister remain deep in thought”** for `அவரது சிந்தனை நீண்டு கொண்டிருப்பதைக் கண்ட`;
-- scan **73** now reads **“he also has no worthwhile idea to express”** for `சொல்லக்கூடிய நல்ல கருத்துக்களும் இல்லாதவர்`;
-- scan **74**'s final sentence was made natural without altering `உதவிக்கு வரக்கூடியவர்களும் அங்கே இருப்பதும் தெரியவில்லை`;
-- scans **62–67, 69–72 and 75** required no body wording change;
 - **60→61, 62→63, 64→65, 68→69, 72→73 and 74→75** continuities remain intact;
-- **75→76** was boundary-checked; scan 76 begins a new oppressive-rule vignette and was not processed in ER5;
+- **75→76** was boundary-checked and scan 76 begins a new vignette;
 - no standard/published/web English Kural wording was imported.
 
-Current English page statuses after ER5:
+### ER6 / scans 76–90 — COMPLETE
 
-- `editorial-reviewed`: **71**;
-- `source-checked`: **36**;
+- scans **76–90** promoted to `editorial-reviewed`;
+- source-faithful readability refinements: scans **78, 79 and 80**;
+- scan **78** now reads **“In the cool breeze he felt a warm thrill mingling in”**, preserving `கதகதப்பு உணர்ச்சி கலந்து வருவதாக`;
+- scan **79** now renders `இயற்கைக் கடமைகளை ஆற்றக்கூட எழுந்து செல்லமுடியாத` naturally as **“one cannot even rise and walk to attend to the body's natural needs”**;
+- scan **80**'s failing-body/attachment sentence was restructured without changing `உயிரை மட்டுமே மிச்சமாகக் கொண்டிருப்பவருக்கு அந்த உடல்மீதே மேலும் மேலும் அடங்காத ஆசை ஏற்படுகிறது`;
+- scans **76–77 and 81–90** required no body wording change;
+- **76→77, 79→80, 81→82, 83→84, 85→86, 87→88 and 89→90** continuities remain intact;
+- **90→91** was boundary-checked; scan 91 begins a new character-judgement vignette and was not processed in ER6;
+- no standard/published/web English Kural wording was imported.
+
+Current English page statuses after ER6:
+
+- `editorial-reviewed`: **86**;
+- `source-checked`: **21**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - `draft`: **0**;
 - `release-ready`: **0**.
 
-Editorial-review coverage: **75/111 scans**.
+Editorial-review coverage: **90/111 scans**.
 
 # Current frontier
 
 **Tamil Part 001: archival-ready / closed.**
 
-**English Part 001: first-pass drafting COMPLETE; source-check COMPLETE; glossary reconciliation COMPLETE; editorial review complete through scan 75.**
+**English Part 001: first-pass drafting COMPLETE; source-check COMPLETE; glossary reconciliation COMPLETE; editorial review complete through scan 90.**
 
-Exact next activity: **editorial consistency review ER6 — scans 76–90**, exactly 15 consecutive scans. Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity while preserving audited Tamil meaning. Passing pages may move to `editorial-reviewed`.
+Exact next activity: **editorial consistency review ER7 — scans 91–105**, exactly 15 consecutive scans. Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity while preserving audited Tamil meaning. Passing pages may move to `editorial-reviewed`.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
