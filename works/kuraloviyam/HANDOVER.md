@@ -69,53 +69,47 @@ The current user-directed normal iteration size is **15 consecutive physical sca
 - source-check: **111/111 COMPLETE**;
 - glossary / recurring-terminology reconciliation: **111/111 COMPLETE**;
 - editorial review ER1 / scans **1–15: COMPLETE**;
-- editorial review ER2 / scans **16–30: COMPLETE**.
+- editorial review ER2 / scans **16–30: COMPLETE**;
+- editorial review ER3 / scans **31–45: COMPLETE**.
 
-### ER1 result — scans 1–15
+### Editorial-review state through ER3
 
-- scans **1–12** passed and were promoted to `editorial-reviewed`;
-- scans **13–15** were reviewed only within securely established material and remain `source-limited`;
-- source-faithful readability refinements were made on scans **5 and 6**;
-- source-visible scan 3 printed English **“Nineth Edition”** remains intentionally preserved;
-- no source-limited material was reconstructed;
-- no standard/published/web English Kural wording was imported.
-
-### ER2 result — scans 16–30
-
-- scans **16–18 and 20–30** passed and were promoted to `editorial-reviewed`;
-- scan **19** was reviewed only within securely established material and remains `source-limited`; its washed-out gap was not reconstructed;
-- four source-faithful readability refinements were made:
-  - scan **20** — restructured the awkward twentieth-century Kalaignar / re-edition-of-Valluvar sentence while preserving the source comparison;
-  - scan **21** — **“efforts of the manuscript” → “efforts on the page”**, retaining `ஏட்டு முயற்சி / எண்ண முயற்சி` against **“efforts of thought”**;
-  - scan **24** — streamlined the Valluvar Kottam / *Kuraloviyam* durability comparison and heart-impression sentence without adding interpretation;
-  - scan **28** — restructured the interrupted Saavi sentence around **“every picture he has written”** while preserving his praise of Kalaignar's little-story telling;
-- scans **16–18, 22–23, 25–27 and 29–30** required no body-text change;
-- scan **26→27** physical continuation remains intact; source `கொளவு` remains *kolavu*;
+- scans **1–12, 16–18 and 20–45** are `editorial-reviewed`;
+- scans **13, 14, 15 and 19** remain `source-limited`, after review within securely established material;
+- ER1 source-faithful readability refinements: scans **5 and 6**;
+- ER2 source-faithful readability refinements: scans **20, 21, 24 and 28**;
+- ER3 source-faithful readability refinements: scans **36, 42, 43 and 44**;
+- ER3 scan **36** refined the awkward God-definition sentence while preserving `கடவுள் எனப்படும் சொல்லுக்கு இலக்கணம் வகுத்தார்`;
+- ER3 scan **42** refined the education/seven-births emphasis sentence while preserving `கருத்தின் அழுத்தம்`;
+- ER3 scan **43** refined **“strange medical woman”** to **“unusual woman physician”** while preserving `விசித்திரமான மருத்துவப் பெண்மணி` and the medical metaphor;
+- ER3 scan **44** restructured the lover/gaze explanation while preserving the source argument and `செந்நாப் போதார்`;
+- physical continuations **34→35** and **37→38** remain intact;
+- scan **45→46** was checked for continuity only; scan 46 was not processed during ER3;
 - no source-limited material was reconstructed;
 - no standard/published/web English Kural wording was imported.
 
 Current page statuses:
 
-- `editorial-reviewed`: **26**;
-- `source-checked`: **81**;
+- `editorial-reviewed`: **41**;
+- `source-checked`: **66**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - `draft`: **0**;
 - `release-ready`: **0**.
 
-Editorial-review coverage: **30/111 scans**.
+Editorial-review coverage: **45/111 scans**.
 
 ## Current exact activity
 
-Proceed with **Part 001 editorial consistency review ER3 — scans 31–45**, exactly **15 consecutive scans**:
+Proceed with **Part 001 editorial consistency review ER4 — scans 46–60**, exactly **15 consecutive scans**:
 
 1. fetch live `main` first;
-2. process exactly scans **31–45**;
+2. process exactly scans **46–60**;
 3. review English readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity;
 4. consult the matching audited Tamil record whenever a proposed editorial change could affect meaning;
 5. make only source-faithful editorial improvements; do not add commentary or explanation absent from the source;
 6. do not import standard Thirukkural wording, web text, published translations, another commentator or memory;
-7. passing scans **31–45** may move from `source-checked` to `editorial-reviewed`;
+7. passing scans **46–60** may move from `source-checked` to `editorial-reviewed`;
 8. update `TRANSLATION_STATUS.md`, English/work README, this handover and the current prompt;
-9. audit the exact pre-batch base→head changed-file set before advancing to ER4.
+9. audit the exact pre-batch base→head changed-file set before advancing to ER5.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and Part 002 source is supplied.
