@@ -287,7 +287,22 @@ Result:
 - scan **105** already used **Kural 814** and required no page correction;
 - no standard/published/web English Kural terminology was imported.
 
-Glossary-reconciliation coverage: **105 / 111 scans**.
+### GR8 — scans 106–111 — COMPLETE
+
+Compared the final six English records with their audited Tamil records and the expanded `GLOSSARY.md` for chapter-label consistency, citation metadata, recurring proper names and context-sensitive terminology.
+
+Result:
+
+- scans **106–111** — terminology reconciliation PASS;
+- English page wording corrections required solely for GR8 consistency: **none**;
+- three new source-supported chapter-label controls were added: **Freedom from Anger** (`வெகுளாமை`, Chapter 31, scan 107), **Longing for His Return** (`அவர்வயின் விதும்பல்`, Chapter 127, scan 108), and **Power of Speech** (`சொல்வன்மை`, Chapter 65, scan 111);
+- source-supported narrative/name controls **Kalingan / Kalinga** (`கலிங்கன் / கலிங்கா`) and **Kathiravan** (`கதிரவன்`) were added from scans 106–107; `Kalingan` remains distinct from earlier commentator **Kalingar** (`காலிங்கர்`), while `Kathiravan` is treated as a personal name only in this narrative context;
+- scans **107**, **108** and **111** already used the controlled citation forms **Kural 301**, **Kural 1261**, and **Kurals 648, 650**;
+- no standard/published/web English Kural terminology was imported.
+
+## Part 001 glossary-reconciliation closure
+
+**COMPLETE — 111 / 111 physical scans reconciled.**
 
 Page statuses remain unchanged by the glossary gate:
 
@@ -296,16 +311,18 @@ Page statuses remain unchanged by the glossary gate:
 - editorial-reviewed: **0**;
 - release-ready: **0**.
 
+No source-limited material was reconstructed and no standard/published/web English Kural terminology was imported during glossary reconciliation.
+
 ## Exact next activity
 
-Proceed with **Part 001 glossary / recurring-terminology reconciliation GR8 — scans 106–111**, the final **6-page remainder**.
+Proceed with **Part 001 editorial consistency review ER1 — scans 1–15**, exactly **15 consecutive scans**.
 
-- process exactly scans **106–111**;
-- compare recurring names, controlled literary terms, chapter labels, work/publication names and repeated English renderings against the expanded `GLOSSARY.md` and audited Tamil context;
-- add or refine entries only from Part 001 evidence;
-- do not mechanically force one English equivalent where context requires variation;
-- do not import terminology from standard Thirukkural editions, web sources, published translations, another commentator or memory;
-- this gate does **not** itself promote pages to `editorial-reviewed`;
-- record any terminology corrections transparently in affected English pages and `GLOSSARY.md`, update frontier documents, and audit the exact changed-file set before advancing to the editorial-review gate.
+- review English readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity after the completed source-check and glossary gates;
+- use the audited Tamil records when needed to ensure an editorial improvement does not alter source meaning;
+- make only source-faithful editorial improvements; do not turn the translation into a new commentary or silently add explanation;
+- do not import standard Thirukkural wording, published English translations, web text, another commentator or memory;
+- scans **13–15** remain `source-limited`; review only their securely established English material and do not reconstruct their unavailable handwritten bodies;
+- passing non-limited pages may move from `source-checked` to `editorial-reviewed`; source-limited pages remain `source-limited` while their editorial review within available evidence is recorded;
+- update `TRANSLATION_STATUS.md`, relevant README/handover/prompt documents, and audit the exact pre-batch base→head changed-file set before advancing to ER2.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
