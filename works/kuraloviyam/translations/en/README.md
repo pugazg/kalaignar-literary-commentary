@@ -56,13 +56,14 @@ Part 001 English:
 - final source-check statuses: **107 `source-checked` + 4 `source-limited`**;
 - `draft`: **0**;
 - source-limited scans: **13, 14, 15, 19**, all reviewed within available evidence;
-- glossary / recurring-terminology reconciliation: **60/111 scans complete** — GR1 scans 1–15, GR2 scans 16–30, GR3 scans 31–45, GR4 scans 46–60;
-- GR4 reconciled **Senguttuvan** on scan 52 and the explicit **Puratchi Kavignar Bharathidasan** honorific on scan 59, refined Kural-exegesis `உரை`, and added source-supported chapter/name/object controls from scans 46–60;
+- glossary / recurring-terminology reconciliation: **75/111 scans complete** — GR1 scans 1–15, GR2 scans 16–30, GR3 scans 31–45, GR4 scans 46–60, GR5 scans 61–75;
+- GR5 added nine source-supported Kural chapter labels, the `பதர் / பதடி` → **chaff** metaphor control, narrative names **Karmegam / Poovazhagi / Kannayiram / Thirunadu / Valanadu**, and a context-aware **Ramayanam / Ramayana** distinction with **Valmiki**;
+- English page wording corrections required solely for GR5 consistency: **none**;
 - no standard/published/web English Kural translation wording was imported;
 - editorial-reviewed: **0**;
 - release-ready: **0**.
 
-The exact next gate is **glossary reconciliation GR5 — scans 61–75**, exactly 15 consecutive scans. This gate checks controlled names/terms and recurring English renderings; it does not itself promote pages to `editorial-reviewed`.
+The exact next gate is **glossary reconciliation GR6 — scans 76–90**, exactly 15 consecutive scans. This gate checks controlled names/terms and recurring English renderings; it does not itself promote pages to `editorial-reviewed`.
 
 See `TRANSLATION_STATUS.md` for the authoritative English frontier.
 
