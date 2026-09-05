@@ -135,38 +135,47 @@ Editorial review checks readability, controlled terminology, names, repeated phr
 ### ER6 — scans 76–90 — COMPLETE
 
 - scans **76–90** passed and moved from `source-checked` to `editorial-reviewed`;
-- three source-faithful readability refinements were made:
-  - scan **78**: **“In the cool breeze he felt a warmth of sensation mingled in”** was refined to **“In the cool breeze he felt a warm thrill mingling in”**, preserving `குளிர் மொண்டுவரும் தென்றலிலே கதகதப்பு உணர்ச்சி கலந்து வருவதாக அறிகிறான்`;
-  - scan **79**: the awkward **“even to perform the ordinary duties of nature one cannot rise and walk”** was refined to **“one cannot even rise and walk to attend to the body's natural needs”**, preserving `இயற்கைக் கடமைகளை ஆற்றக்கூட எழுந்து செல்லமுடியாத` and the 79→80 continuation;
-  - scan **80**: the sentence describing a sick person's growing attachment to the failing body was restructured to **“the more uncontrollable becomes the desire of a person left with life alone to cling to that very body”**, preserving `உயிரை மட்டுமே மிச்சமாகக் கொண்டிருப்பவருக்கு அந்த உடல்மீதே மேலும் மேலும் அடங்காத ஆசை ஏற்படுகிறது`;
-- scans **76–77 and 81–90** required no body-text change beyond status promotion;
+- source-faithful readability refinements: scans **78, 79 and 80**;
 - the **76→77**, **79→80**, **81→82**, **83→84**, **85→86**, **87→88** and **89→90** physical continuities remain intact;
-- scan **90→91** was boundary-checked: scan 90 closes the love-sickness/pallor material and scan 91 begins a new character-judgement vignette; scan 91 was not processed in ER6;
-- controlled forms including **Tyrannical Rule**, **Valluvar Kottam**, **Reproaching the Eyes**, **Muthamizh**, **Gambling**, **Suffering from Pallor**, **Just Rule**, **Speaking of the Dream State**, **Not Offending the Great**, **Lamenting in Wasting Longing**, and source Kural metadata remain consistent with the completed glossary;
+- scan **90→91** was boundary-checked: scan 90 closes the love-sickness/pallor material and scan 91 begins a new character-judgement vignette;
+- no source-limited material was reconstructed and no external Kural wording was imported.
+
+### ER7 — scans 91–105 — COMPLETE
+
+- scans **91–105** passed and moved from `source-checked` to `editorial-reviewed`;
+- three source-faithful readability refinements were made:
+  - scan **91**: **“Good nectar to the earth!”** was refined to **“Sweet nectar to the earth!”**, preserving `புவிக்கோர் நல்லமுதே` while making the praise natural in English;
+  - scan **103**: the sentence about the heroine's intended `ஊடல்` was refined to **“Through the lovers' quarrel I meant to stage with him, I wanted to teach him such a lesson that he would never again break a promise”**, preserving the source's resolve without the earlier mechanical phrasing;
+  - scan **105**: the king's battlefield-preparation sentence was streamlined to **“Planning to intercept the enemy on the way and drive them back, the king had his soldiers form ranks at the fort entrance...”**, preserving `எதிரிகளை வழியிலேயே மடக்கித் துரத்திடும் திட்டத்துடன்` and the same military action;
+- scans **92–102 and 104** required no body-text change beyond status promotion;
+- the **91→92**, **93→94**, **95→96**, **97→98**, **99→100→101**, **102→103** and **104→105** physical continuities remain intact;
+- scan **105→106** was boundary-checked: scan 105 closes the Villavan/horse vignette, while scan 106 begins a new Kalingan/Kathiravan vignette; scan 106 was not processed in ER7;
+- controlled forms including **False Conduct**, **yaazh**, **Reproaching the Eyes**, **Education**, **Wasting Away of Bodily Beauty**, **Urkkavalan**, **Freedom from Idleness**, **Loss of Restraint**, **Evil Friendship**, **Thenmozhi**, **Paingili**, **Kayalvizhi**, **Villavan**, and source Kural metadata remain consistent with the completed glossary;
 - no source-limited material was reconstructed;
 - no standard/published/web English Kural wording was imported.
 
-## Current English page statuses after ER6
+## Current English page statuses after ER7
 
-- `editorial-reviewed`: **86**;
-- `source-checked`: **21**;
+- `editorial-reviewed`: **101**;
+- `source-checked`: **6**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - `draft`: **0**;
 - `release-ready`: **0**.
 
-Editorial-review coverage: **90 / 111 scans**.
+Editorial-review coverage: **105 / 111 scans**.
 
 Source-limited records remain source-limited even after editorial review within available evidence.
 
 ## Exact next activity
 
-Proceed with **Part 001 editorial consistency review ER7 — scans 91–105**, exactly **15 consecutive scans**.
+Proceed with **Part 001 editorial consistency review ER8 — scans 106–111**, the final **6-scan remainder**.
 
-- review English readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity;
+- review English readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and the Part-ending boundary;
 - use audited Tamil records whenever needed to ensure editorial changes do not alter source meaning;
 - make only source-faithful editorial improvements; do not add commentary or explanatory material absent from the source;
 - do not import standard Thirukkural wording, published English translations, web text, another commentator or memory;
-- passing scans **91–105** may move from `source-checked` to `editorial-reviewed`;
-- update frontier documents and audit the exact pre-batch base→head changed-file set before advancing to ER8, the final scans **106–111** remainder.
+- passing scans **106–111** may move from `source-checked` to `editorial-reviewed`;
+- after ER8, synchronize frontier documents and audit the exact base→head changed-file set before beginning the **Part-level English review** gate;
+- do not treat scan 111→112 as source-verifiable until Part 002 is supplied; record the unresolved split boundary explicitly rather than reconstructing it.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
