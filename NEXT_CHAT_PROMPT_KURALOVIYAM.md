@@ -89,46 +89,35 @@ Final source-check totals:
 
 **GR1 — scans 1–15 — COMPLETE.**
 
-- controlled source-supported terms/names were reconciled and added to `GLOSSARY.md`;
-- no English page wording correction was required solely for GR1 consistency;
-- scans 13–15 remain source-limited and no handwritten body terminology was inferred.
-
 **GR2 — scans 16–30 — COMPLETE.**
-
-- `பதிப்புரை` → **Publisher's Note** is explicitly distinct from `பதவுரை` → **word-by-word explanation** and `முகப்புரை` → **Preface**;
-- the user-confirmed `பதவுரை` clarification was applied to its existing English occurrences on scans 4–5;
-- scan 17 now uses the controlled structural sequence **the Book of Aram, the Book of Porul and the Book of Love** for `அறத்துப்பால், பொருட்பால், காமத்துப்பால்`;
-- scan 30 now preserves **Puratchi Kavignar Bharathidasan**, consistent with the explicit source honorific and scan 19;
-- context-sensitive `உரை` and `புதுக் கவிதை` renderings were retained rather than flattened;
-- scan 19 remains source-limited; nothing was inferred from its washed-out gap.
 
 **GR3 — scans 31–45 — COMPLETE.**
 
-- all fifteen records were reconciled against audited Tamil context and the expanded glossary;
-- English page wording corrections required solely for GR3 consistency: **none**;
-- scan 31 `முன்னுரை` / `ஏற்புரை` were recorded as **preface / Response**, retaining the distinction from printed `முகப்புரை` headings where needed;
-- **Muthamizh** and **yaazh** were recorded from scans 39–40;
-- scan 35's explicit lexical contrast `இறைவன் / இறை / கடவுள் / தெய்வம்` is preserved contextually as **Iraivan / Irai / Kadavul / Deivam** when the source distinguishes the terms;
-- **Primordial Being**, **Vaal-arivan**, `அதிகாரம் / பாடல்` → **Chapter / Kural**, and the source-supported chapter labels encountered through scan 44 were added to the glossary;
-- no standard/published/web English Kural translation wording was imported.
-
 **GR4 — scans 46–60 — COMPLETE.**
 
-- all fifteen records were reconciled against audited Tamil context and the expanded glossary;
-- scan 52 `செங்குட்டுவன்` was corrected from **Chenguttuvan** to the existing controlled form **Senguttuvan**;
-- scan 59 explicit `புரட்சிக் கவிஞர் பாரதிதாசன்` was corrected from **the revolutionary poet Bharathidasan** to **Puratchi Kavignar Bharathidasan**, matching scans 19 and 30;
-- `உரை` now explicitly permits **interpretation** in Kural-exegesis contexts in addition to **commentary**;
-- source-supported controls for `அறம்`, `பாவம் / புண்ணியம்`, `பல்லக்கு / சிவிகை`, **Ilango Adigal**, **Imayavaramban Nedunjeralathan**, **Gunavayir Kottam**, and the chapter labels encountered through scan 59 were added;
-- no standard/published/web English Kural translation wording was imported.
+- scan 52 `செங்குட்டுவன்` was reconciled to **Senguttuvan**;
+- scan 59 explicit `புரட்சிக் கவிஞர் பாரதிதாசன்` was reconciled to **Puratchi Kavignar Bharathidasan**;
+- source-supported Kural-exegesis terms, names, objects and chapter labels through scan 59 were added.
 
-Glossary-reconciliation coverage: **60/111 scans**. Page statuses remain unchanged; glossary review does not itself create `editorial-reviewed` status.
+**GR5 — scans 61–75 — COMPLETE.**
+
+- all fifteen records were reconciled against audited Tamil context and the expanded glossary;
+- English page wording corrections required solely for GR5 consistency: **none**;
+- nine source-supported chapter labels were added: **Excellence of the Army**, **Wasting Away of Bodily Beauty**, **Speaking of the Dream State**, **Tyrannical Rule**, **Refraining from Useless Speech**, **The Minister**, **Declaring Love's Excellence**, **Knowing the Assembly**, and **Giving**;
+- `பதர் / பதடி` is controlled as **chaff** for the source-explicit grain/human metaphor;
+- **Karmegam**, **Poovazhagi**, **Kannayiram**, **Thirunadu**, **Valanadu** and **Valmiki** were added from audited context;
+- `இராமாயணம்` is context-aware: retain earlier Kambar-context **Ramayanam**, while scan 72 uses **Ramayana** in the Valmiki reference;
+- scan 61's four army qualities remain context-sensitive rather than mechanically forced to one English phrasing;
+- no standard/published/web English Kural terminology was imported.
+
+Glossary-reconciliation coverage: **75/111 scans**. Page statuses remain unchanged; glossary review does not itself create `editorial-reviewed` status.
 
 ## Exact next activity
 
-If live `main` has not advanced beyond this frontier, execute **Part 001 glossary / recurring-terminology reconciliation GR5 — scans 61–75**.
+If live `main` has not advanced beyond this frontier, execute **Part 001 glossary / recurring-terminology reconciliation GR6 — scans 76–90**.
 
 1. process exactly **15 consecutive pages**;
-2. fetch matching audited Tamil and English records for scans **61–75** as needed;
+2. fetch matching audited Tamil and English records for scans **76–90** as needed;
 3. compare recurring names, controlled literary terms, chapter labels, publication/work names and repeated English renderings against the expanded `works/kuraloviyam/translations/en/GLOSSARY.md` and their Tamil context;
 4. add or refine glossary entries only where Part 001 evidence supports them;
 5. do not mechanically force one English equivalent where context requires a different rendering;
@@ -136,6 +125,6 @@ If live `main` has not advanced beyond this frontier, execute **Part 001 glossar
 7. this glossary gate does **not** itself promote pages to `editorial-reviewed`;
 8. record any terminology corrections transparently in affected English page records and `GLOSSARY.md`;
 9. update `TRANSLATION_STATUS.md`, English/work README, `works/kuraloviyam/HANDOVER.md`, and this prompt;
-10. audit the exact pre-batch base→head changed-file set before advancing to GR6.
+10. audit the exact pre-batch base→head changed-file set before advancing to GR7.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
