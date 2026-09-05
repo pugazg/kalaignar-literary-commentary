@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains authoritative"
 ---
 
-By calling him “Valarivan,” Valluvar said that he is one who stands as the very form of pure knowledge, and pointed out that learning itself is of no use if one does not worship at his sacred feet.
+By calling him “Vaal-arivan,” Valluvar said that he is one who stands as the very form of pure knowledge, and pointed out that learning itself is of no use if one does not worship at his sacred feet.
 
 “Venduthal vendaamai ilaan”—that is, he indicated that those who seek the shade of one who is without likes and dislikes will have no suffering.
 
