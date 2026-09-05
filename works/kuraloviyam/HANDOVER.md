@@ -70,46 +70,47 @@ The current user-directed normal iteration size is **15 consecutive physical sca
 - glossary / recurring-terminology reconciliation: **111/111 COMPLETE**;
 - editorial review ER1 / scans **1–15: COMPLETE**;
 - editorial review ER2 / scans **16–30: COMPLETE**;
-- editorial review ER3 / scans **31–45: COMPLETE**.
+- editorial review ER3 / scans **31–45: COMPLETE**;
+- editorial review ER4 / scans **46–60: COMPLETE**.
 
-### Editorial-review state through ER3
+### Editorial-review state through ER4
 
-- scans **1–12, 16–18 and 20–45** are `editorial-reviewed`;
+- scans **1–12, 16–18 and 20–60** are `editorial-reviewed`;
 - scans **13, 14, 15 and 19** remain `source-limited`, after review within securely established material;
-- ER1 source-faithful readability refinements: scans **5 and 6**;
-- ER2 source-faithful readability refinements: scans **20, 21, 24 and 28**;
-- ER3 source-faithful readability refinements: scans **36, 42, 43 and 44**;
-- ER3 scan **36** refined the awkward God-definition sentence while preserving `கடவுள் எனப்படும் சொல்லுக்கு இலக்கணம் வகுத்தார்`;
-- ER3 scan **42** refined the education/seven-births emphasis sentence while preserving `கருத்தின் அழுத்தம்`;
-- ER3 scan **43** refined **“strange medical woman”** to **“unusual woman physician”** while preserving `விசித்திரமான மருத்துவப் பெண்மணி` and the medical metaphor;
-- ER3 scan **44** restructured the lover/gaze explanation while preserving the source argument and `செந்நாப் போதார்`;
-- physical continuations **34→35** and **37→38** remain intact;
-- scan **45→46** was checked for continuity only; scan 46 was not processed during ER3;
+- ER1 readability refinements: scans **5 and 6**;
+- ER2 readability refinements: scans **20, 21, 24 and 28**;
+- ER3 readability refinements: scans **36, 42, 43 and 44**;
+- ER4 readability refinements: scans **46, 50 and 60**;
+- ER4 scan **46** refined the awkward opening question while preserving `எதற்கும் சில வசதி வாய்ப்புகள் வேண்டுமன்றோ?`;
+- ER4 scan **50** refined the `பாவம் செய்த ஜென்மம் / புண்ணியம் செய்த ஜென்மம்` phrasing while preserving controlled **sin / merit** terminology;
+- ER4 scan **60** clarified the Chera king's agency in `அவர்தம் முடியினில் கல்வேற்றி வந்து`;
+- physical continuations **50→51**, **56→57** and **58→59** remain intact;
+- scan **60→61** was checked for continuity only; scan 61 was not processed during ER4;
 - no source-limited material was reconstructed;
 - no standard/published/web English Kural wording was imported.
 
 Current page statuses:
 
-- `editorial-reviewed`: **41**;
-- `source-checked`: **66**;
+- `editorial-reviewed`: **56**;
+- `source-checked`: **51**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - `draft`: **0**;
 - `release-ready`: **0**.
 
-Editorial-review coverage: **45/111 scans**.
+Editorial-review coverage: **60/111 scans**.
 
 ## Current exact activity
 
-Proceed with **Part 001 editorial consistency review ER4 — scans 46–60**, exactly **15 consecutive scans**:
+Proceed with **Part 001 editorial consistency review ER5 — scans 61–75**, exactly **15 consecutive scans**:
 
 1. fetch live `main` first;
-2. process exactly scans **46–60**;
+2. process exactly scans **61–75**;
 3. review English readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity;
 4. consult the matching audited Tamil record whenever a proposed editorial change could affect meaning;
 5. make only source-faithful editorial improvements; do not add commentary or explanation absent from the source;
 6. do not import standard Thirukkural wording, web text, published translations, another commentator or memory;
-7. passing scans **46–60** may move from `source-checked` to `editorial-reviewed`;
+7. passing scans **61–75** may move from `source-checked` to `editorial-reviewed`;
 8. update `TRANSLATION_STATUS.md`, English/work README, this handover and the current prompt;
-9. audit the exact pre-batch base→head changed-file set before advancing to ER5.
+9. audit the exact pre-batch base→head changed-file set before advancing to ER6.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and Part 002 source is supplied.
