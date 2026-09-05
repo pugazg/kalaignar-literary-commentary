@@ -101,13 +101,31 @@ Result:
 - no unreadable source material was reconstructed;
 - no external/standard Kural wording was imported.
 
+### SC6 — scans 76–90 — COMPLETE
+
+Compared all fifteen English records against the audited Tamil records for prose/dialogue/Kural coverage, names, page function, imagery, omissions, additions, meaning drift and physical continuation.
+
+Result:
+
+- scans **76–90** — PASS and promoted from `draft` to `source-checked`;
+- six fidelity adjustments affected seven page records:
+  - scan **79**: corrected the old-age image so the source's bodily subject is retained — the **feet** that once strode powerfully are now swollen and cracked, rather than the impossible earlier wording in which a **step** itself was “swollen and cracked”;
+  - scans **81–82**: repaired the physical continuation across `கண்ணாடி / பார்க்கும் தலைவி`, removing the duplicated mirror-looking action while retaining the sentence across the page boundary;
+  - scans **85–86**: removed the unsupported addition **“come alive”** from `சித்திரப் பாவை` and realigned the physical continuation across `எதிர் நிற்கக்கூடிய / ஆற்றல் வாய்ந்தது`;
+  - scan **86**: restored the omitted ear/music sense in `காதாரப் பண்பாடும் குயில்` as **“a cuckoo singing melody to the ears' delight”**, replacing the weaker **“singing with refinement”**;
+  - scan **87**: restored the force of `அடிமைகளைப்போல` and `எடுபிடிகளாக` by changing **“servants”** to **“slaves”** and **“mere attendants”** to **“lackeys”**;
+  - scan **88**: removed the unsupported rhetorical addition **“a hundred times”** from the elder's appeal to the frightened citizens;
+- no other SC6 wording changes were required;
+- no unreadable source material was reconstructed;
+- no external/standard Kural wording was imported.
+
 ## Current counts
 
 - English page records: **111 / 111**;
 - first-pass drafting: **COMPLETE**;
-- source-check coverage: **75 / 111** physical scans reviewed;
-- `source-checked`: **71**;
-- `draft`: **36**;
+- source-check coverage: **90 / 111** physical scans reviewed;
+- `source-checked`: **86**;
+- `draft`: **21**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - source-limited records reviewed within available evidence: **4 / 4**;
 - editorial-reviewed: **0**;
@@ -115,13 +133,13 @@ Result:
 
 ## Exact next activity
 
-Begin **Part 001 English source-check Batch SC6 — scans 76–90** against the audited Tamil records.
+Begin **Part 001 English source-check Batch SC7 — scans 91–105** against the audited Tamil records.
 
 - process exactly **15 consecutive scans**;
 - compare each English page paragraph-by-paragraph / block-by-block against its audited Tamil page for omissions, additions, meaning drift, names, quotations, Kural blocks, visual/page function and physical continuations;
-- scans **76–90** have verified Tamil archival records under the current Part 001 status map and may move from `draft` to `source-checked` only after each passes;
+- scans **91–105** have verified Tamil archival records under the current Part 001 status map and may move from `draft` to `source-checked` only after each passes;
 - do not import standard Thirukkural English wording, web translations, another commentator or memory;
 - record any corrections transparently in the relevant English page records and this status document;
-- update frontier documentation and audit the exact changed-file set before advancing to scan 91.
+- update frontier documentation and audit the exact changed-file set before advancing to the final source-check remainder, scans **106–111**.
 
 Do not begin glossary reconciliation or editorial review until the Part 001 source-check stage is complete.
