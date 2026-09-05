@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -26,7 +26,7 @@ Hear it in Valluvar's manner:
 
 “Little image dwelling in the dark pupil of my eye! There is no room in my eye for this beautiful woman whom I love—so you must leave!”
 
-He asks the image that gives him sight to go, so that he may make room in his eye for the woman who gives him a garland of pearl-like smiles. Here is the Kural:
+He asks the image that gives him sight to go, so that he may make room in his eye for the maiden who gives a string of pearls. Here is the Kural:
 
 > O little image in the dark pupil, depart;  
 > there is no room for the fair-browed one I love.
