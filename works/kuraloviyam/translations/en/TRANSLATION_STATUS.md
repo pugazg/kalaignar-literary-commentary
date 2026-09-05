@@ -137,27 +137,42 @@ Result:
 - controlled forms including **Vaal-arivan**, **Praise of God**, **Domestic Life**, **Lamenting at the Sight of Evening**, **The Blessing of Children**, **Education**, **Realization of Truth**, **Reading the Sign**, **Muthamizh**, **yaazh**, **Iraivan / Irai / Kadavul / Deivam**, and source Kural metadata remain consistent with the completed glossary;
 - no external/standard/published/web English Kural wording was imported.
 
-## Current English page statuses after ER3
+### ER4 — scans 46–60 — COMPLETE
 
-- `editorial-reviewed`: **41**;
-- `source-checked`: **66**;
+Result:
+
+- scans **46–60** — PASS and promoted from `source-checked` to `editorial-reviewed`;
+- three source-faithful readability refinements were made:
+  - scan **46**: the awkward **“Does not anything require certain facilities and opportunities?”** was refined to **“Doesn't every undertaking require certain facilities and opportunities?”**, preserving `எதற்கும் சில வசதி வாய்ப்புகள் வேண்டுமன்றோ?`;
+  - scan **50**: **“a birth that committed sin and a birth that performed merit”** was refined to **“a birth marked by sin and a birth marked by merit”**, preserving the source contrast `பாவம் செய்த ஜென்மம் / புண்ணியம் செய்த ஜென்மம்` and the controlled **sin / merit** terminology;
+  - scan **60**: the Chera-king sentence was clarified to **“made them bear the stone upon their crowned heads, brought it back...”**, preserving the explicit source action `அவர்தம் முடியினில் கல்வேற்றி வந்து` rather than leaving the agency implicit;
+- scans **47–49 and 51–59** required no body-text change beyond status promotion;
+- the **50→51**, **56→57**, and **58→59** physical continuations remain intact;
+- scan **60→61** was checked solely for boundary continuity; the martial-history discussion continues cleanly and scan 61 was not processed in ER4;
+- controlled forms including **Firmness in Action**, **The Agony of Solitary Love**, **palanquin**, **sin / merit**, **Senguttuvan**, **Ilango Adigal**, **Internal Enmity**, **Puratchi Kavignar Bharathidasan**, **The Excellence of Rain**, **The Worth of a Life-Partner**, and source Kural metadata remain consistent with the completed glossary;
+- no external/standard/published/web English Kural wording was imported.
+
+## Current English page statuses after ER4
+
+- `editorial-reviewed`: **56**;
+- `source-checked`: **51**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - `draft`: **0**;
 - `release-ready`: **0**.
 
-Editorial-review coverage: **45 / 111 scans**.
+Editorial-review coverage: **60 / 111 scans**.
 
 Source-limited records remain source-limited even after editorial review within available evidence.
 
 ## Exact next activity
 
-Proceed with **Part 001 editorial consistency review ER4 — scans 46–60**, exactly **15 consecutive scans**.
+Proceed with **Part 001 editorial consistency review ER5 — scans 61–75**, exactly **15 consecutive scans**.
 
 - review English readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity;
 - use audited Tamil records whenever needed to ensure editorial changes do not alter source meaning;
 - make only source-faithful editorial improvements; do not add a new commentary or explanatory material absent from the source;
 - do not import standard Thirukkural wording, published English translations, web text, another commentator or memory;
-- passing scans **46–60** may move from `source-checked` to `editorial-reviewed`;
-- update frontier documents and audit the exact pre-batch base→head changed-file set before advancing to ER5.
+- passing scans **61–75** may move from `source-checked` to `editorial-reviewed`;
+- update frontier documents and audit the exact pre-batch base→head changed-file set before advancing to ER6.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
