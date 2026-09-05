@@ -91,88 +91,75 @@ Editorial review checks readability, controlled terminology, names, repeated phr
 
 ### ER1 — scans 1–15 — COMPLETE
 
-Result:
-
-- scans **1–12** — PASS and promoted from `source-checked` to `editorial-reviewed`;
-- scans **13–15** — PASS within securely established material and remain `source-limited` because their handwritten/facsimile bodies cannot be established word-for-word;
-- two source-faithful readability refinements were required:
-  - scan **5**: **“Amid the social community of Tamil land as it existed two thousand years ago...”** was refined to **“In the midst of Tamil society as it existed two thousand years ago...”**;
-  - scan **6**: the awkward **“six-month rigorous-imprisonment prisoner...”** construction was refined to **“serving six months of rigorous imprisonment in Tiruchirappalli prison because of the Kallakudi protest”**;
-- scans **1–4 and 7–12** required no body-text change beyond status promotion;
-- scan 3 source-visible printed English **“Nineth Edition”** remains intentionally preserved rather than silently normalized;
-- scans 13–15 were not reconstructed;
-- no standard/published/web English Kural wording was imported.
+- scans **1–12** passed and moved to `editorial-reviewed`;
+- scans **13–15** were reviewed within securely established material and remain `source-limited`;
+- source-faithful readability refinements: scans **5 and 6**;
+- scan 3 source-visible printed English **“Nineth Edition”** remains intentionally preserved;
+- no source-limited material was reconstructed and no external Kural wording was imported.
 
 ### ER2 — scans 16–30 — COMPLETE
 
-Result:
-
-- scans **16–18 and 20–30** — PASS and promoted from `source-checked` to `editorial-reviewed`;
-- scan **19** — PASS within securely established material and remains `source-limited`; its washed-out Tamil gap was not reconstructed;
-- four source-faithful readability refinements were made:
-  - scan **20**: restructured the awkward twentieth-century Kalaignar / “re-edition of Valluvar” sentence so the English now reads naturally while preserving `“வள்ளுவரை உணர்ந்த கலைஞன் நான்”` and the source comparison;
-  - scan **21**: **“All our efforts are efforts of the manuscript”** was refined to **“All our efforts are efforts on the page”**, retaining the source contrast `ஏட்டு முயற்சி / எண்ண முயற்சி` with **“efforts of thought”**;
-  - scan **24**: streamlined the Valluvar Kottam versus *Kuraloviyam* durability comparison and the sentence describing the method by which the Kural takes firm hold in every heart, without adding new interpretation;
-  - scan **28**: restructured the interrupted clause around **“every picture he has written”** so Saavi's praise of Kalaignar's little-story telling reads naturally without changing the source claim;
-- scans **16–18, 22–23, 25–27 and 29–30** required no body-text change beyond status promotion;
-- the scan **26→27** physical continuation from new poetry to traditional poetry remains preserved;
-- scan **26** source form `கொளவு` remains represented as *kolavu*; it was not silently normalized;
-- no source-limited material was reconstructed;
-- no standard/published/web English Kural wording was imported.
+- scans **16–18 and 20–30** passed and moved to `editorial-reviewed`;
+- scan **19** remains `source-limited`; its washed-out Tamil gap was not reconstructed;
+- source-faithful readability refinements: scans **20, 21, 24 and 28**;
+- the scan **26→27** physical continuation remains preserved and source `கொளவு` remains *kolavu*;
+- no external Kural wording was imported.
 
 ### ER3 — scans 31–45 — COMPLETE
 
-Result:
-
-- scans **31–45** — PASS and promoted from `source-checked` to `editorial-reviewed`;
-- four source-faithful readability refinements were made:
-  - scan **36**: the awkward **“laid down the qualities attached to the word called God”** was refined to **“defined the qualities associated with what is called God”**, preserving audited Tamil `கடவுள் எனப்படும் சொல்லுக்கு இலக்கணம் வகுத்தார்`;
-  - scan **42**: **“the force of the statement is being given to education”** was refined to **“the emphasis falls on education”**, preserving `அந்தக் கருத்தின் அழுத்தம் கல்விக்குத் தரப்படுகிறதே தவிர, ஏழு பிறவிகளுக்கு அல்ல`;
-  - scan **43**: the awkward **“strange medical woman”** construction was refined to **“unusual woman physician”**, preserving the physician/medicine metaphor in `விசித்திரமான மருத்துவப் பெண்மணி`;
-  - scan **44**: the sentence explaining the lover's apparent lie and the lovers' unavoidable mutual gaze was restructured for natural English while preserving `சொல்லாமல் சொல்கிறார் செந்நாப் போதார்` and the source argument;
-- scans **31–35, 37–41 and 45** required no body-text change beyond status promotion;
-- the scan **34→35** physical continuation from `விஞ்ஞான` to `மேதைகள்` remains preserved in English as **“scientific— / —thinkers”**;
-- the scan **37→38** continuation of the evening-as-army image remains intact;
-- scan **45** was checked against scan 46 solely for boundary continuity; the story handoff is intact and scan 46 was not processed in ER3;
-- controlled forms including **Vaal-arivan**, **Praise of God**, **Domestic Life**, **Lamenting at the Sight of Evening**, **The Blessing of Children**, **Education**, **Realization of Truth**, **Reading the Sign**, **Muthamizh**, **yaazh**, **Iraivan / Irai / Kadavul / Deivam**, and source Kural metadata remain consistent with the completed glossary;
-- no external/standard/published/web English Kural wording was imported.
+- scans **31–45** passed and moved to `editorial-reviewed`;
+- source-faithful readability refinements: scans **36, 42, 43 and 44**;
+- the **34→35** and **37→38** physical continuations remain intact;
+- scan **45→46** was checked for boundary continuity only;
+- no external Kural wording was imported.
 
 ### ER4 — scans 46–60 — COMPLETE
 
-Result:
+- scans **46–60** passed and moved to `editorial-reviewed`;
+- source-faithful readability refinements: scans **46, 50 and 60**;
+- scan **46** refined `எதற்கும் சில வசதி வாய்ப்புகள் வேண்டுமன்றோ?` to natural English without altering meaning;
+- scan **50** preserved the controlled **sin / merit** contrast for `பாவம் செய்த ஜென்மம் / புண்ணியம் செய்த ஜென்மம்`;
+- scan **60** clarified the Chera king's agency in `அவர்தம் முடியினில் கல்வேற்றி வந்து`;
+- the **50→51**, **56→57** and **58→59** continuations remain intact;
+- scan **60→61** was checked for boundary continuity only;
+- no external Kural wording was imported.
 
-- scans **46–60** — PASS and promoted from `source-checked` to `editorial-reviewed`;
-- three source-faithful readability refinements were made:
-  - scan **46**: the awkward **“Does not anything require certain facilities and opportunities?”** was refined to **“Doesn't every undertaking require certain facilities and opportunities?”**, preserving `எதற்கும் சில வசதி வாய்ப்புகள் வேண்டுமன்றோ?`;
-  - scan **50**: **“a birth that committed sin and a birth that performed merit”** was refined to **“a birth marked by sin and a birth marked by merit”**, preserving the source contrast `பாவம் செய்த ஜென்மம் / புண்ணியம் செய்த ஜென்மம்` and the controlled **sin / merit** terminology;
-  - scan **60**: the Chera-king sentence was clarified to **“made them bear the stone upon their crowned heads, brought it back...”**, preserving the explicit source action `அவர்தம் முடியினில் கல்வேற்றி வந்து` rather than leaving the agency implicit;
-- scans **47–49 and 51–59** required no body-text change beyond status promotion;
-- the **50→51**, **56→57**, and **58→59** physical continuations remain intact;
-- scan **60→61** was checked solely for boundary continuity; the martial-history discussion continues cleanly and scan 61 was not processed in ER4;
-- controlled forms including **Firmness in Action**, **The Agony of Solitary Love**, **palanquin**, **sin / merit**, **Senguttuvan**, **Ilango Adigal**, **Internal Enmity**, **Puratchi Kavignar Bharathidasan**, **The Excellence of Rain**, **The Worth of a Life-Partner**, and source Kural metadata remain consistent with the completed glossary;
-- no external/standard/published/web English Kural wording was imported.
+### ER5 — scans 61–75 — COMPLETE
 
-## Current English page statuses after ER4
+- scans **61–75** passed and moved from `source-checked` to `editorial-reviewed`;
+- four source-faithful readability refinements were made:
+  - scan **61**: the awkward sentence describing the four `புறப்பாடல்` qualities as army distinctions was refined to **“Valluvar's designation of these four qualities, found in the literature of *Purappadal*, as marks of excellence in an army...”**, preserving `புறப்பாடல் இலக்கியத்தில் காணப்பெறும் இந்த நான்கு பண்புகளையும் ஒரு படைக்குரிய சிறப்பாக வள்ளுவர் வகுத்திருப்பது`;
+  - scan **68**: **“Seeing his thoughts stretch on”** was refined to **“Seeing the minister remain deep in thought”**, preserving `அவரது சிந்தனை நீண்டு கொண்டிருப்பதைக் கண்ட`;
+  - scan **73**: **“he also has no good idea that he is capable of expressing”** was refined to **“he also has no worthwhile idea to express”**, preserving `சொல்லக்கூடிய நல்ல கருத்துக்களும் இல்லாதவர்`;
+  - scan **74**: **“Nor did it seem that anyone who might come to their aid was there”** was refined to **“Nor did there seem to be anyone there who could come to their aid”**, preserving `உதவிக்கு வரக்கூடியவர்களும் அங்கே இருப்பதும் தெரியவில்லை`;
+- scans **62–67, 69–72 and 75** required no body-text change beyond status promotion;
+- the **60→61**, **62→63**, **64→65**, **68→69**, **72→73** and **74→75** continuities remain intact;
+- scan **75→76** was boundary-checked: scan 75 closes the giving vignette, and scan 76 begins a new oppressive-rule vignette; scan 76 was not processed in ER5;
+- controlled forms including **Excellence of the Army**, **Wasting Away of Bodily Beauty**, **Speaking of the Dream State**, **Tyrannical Rule**, **chaff**, **Refraining from Useless Speech**, **The Minister**, **Praising Her Beauty**, **Declaring Love's Excellence**, **Ramayana**, **Knowing the Assembly**, **Giving**, and source Kural metadata remain consistent with the completed glossary;
+- no source-limited material was reconstructed;
+- no standard/published/web English Kural wording was imported.
 
-- `editorial-reviewed`: **56**;
-- `source-checked`: **51**;
+## Current English page statuses after ER5
+
+- `editorial-reviewed`: **71**;
+- `source-checked`: **36**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - `draft`: **0**;
 - `release-ready`: **0**.
 
-Editorial-review coverage: **60 / 111 scans**.
+Editorial-review coverage: **75 / 111 scans**.
 
 Source-limited records remain source-limited even after editorial review within available evidence.
 
 ## Exact next activity
 
-Proceed with **Part 001 editorial consistency review ER5 — scans 61–75**, exactly **15 consecutive scans**.
+Proceed with **Part 001 editorial consistency review ER6 — scans 76–90**, exactly **15 consecutive scans**.
 
 - review English readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity;
 - use audited Tamil records whenever needed to ensure editorial changes do not alter source meaning;
-- make only source-faithful editorial improvements; do not add a new commentary or explanatory material absent from the source;
+- make only source-faithful editorial improvements; do not add commentary or explanatory material absent from the source;
 - do not import standard Thirukkural wording, published English translations, web text, another commentator or memory;
-- passing scans **61–75** may move from `source-checked` to `editorial-reviewed`;
-- update frontier documents and audit the exact pre-batch base→head changed-file set before advancing to ER6.
+- passing scans **76–90** may move from `source-checked` to `editorial-reviewed`;
+- update frontier documents and audit the exact pre-batch base→head changed-file set before advancing to ER7.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
