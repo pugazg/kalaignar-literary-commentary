@@ -13,7 +13,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 A lion-hearted young man who had been imprisoned to await beheading escaped from prison one day and fled the country. He went to the place where Valluvar lived.
 
-“Great one! In our land, blazing fire is called water! Rule of the jungle is called government! Tell me a way to change this and save the people!” he cried. The young man's voice echoed through Valluvar's hall. By then the prison guards who had pursued him caught him and put him in chains. Valluvar stood quietly watching the scene. The chained youth was tied to the wheel of a chariot, and the chariot was driven swiftly back towards their country. Valluvar followed them.
+“Great one! In our land, blazing fire is called water! Rule of the jungle is called government! Tell me a way to change this and save the people!” he cried. The young man's voice echoed through Valluvar Kottam. By then the prison guards who had pursued him caught him and put him in chains. Valluvar stood quietly watching the scene. The chained youth was tied to the wheel of a chariot, and the chariot was driven swiftly back towards their country. Valluvar followed them.
 
 He searched for the young man who had been dragged back into that land where cruelty danced. Preparations were under way in the middle of the street to impale him. Thousands upon thousands of people had been summoned to witness the sight—for only then, it was thought, would they shrink in fear of the government and lie subdued like tortoises. They had been brought there to be terrorised.
 
