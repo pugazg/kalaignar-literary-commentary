@@ -8,7 +8,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
-| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; English source-check **111/111 complete**; glossary reconciliation through scan 45 |
+| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; English source-check **111/111 complete**; glossary reconciliation through scan 60 |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -90,20 +90,19 @@ No unreadable source material was reconstructed and no external/standard English
 - **GR1 / scans 1–15 — COMPLETE**;
 - **GR2 / scans 16–30 — COMPLETE**;
 - **GR3 / scans 31–45 — COMPLETE**;
-- glossary reconciliation coverage: **45 / 111 scans**;
-- GR3 required **no English page wording corrections**;
-- scan 31 source-supported `முன்னுரை` / `ஏற்புரை` distinctions were recorded as **preface / Response** without collapsing the existing `முகப்புரை` heading term;
-- **Muthamizh** and **yaazh** were recorded from scans 39–40;
-- scan 35's explicit lexical contrast `இறைவன் / இறை / கடவுள் / தெய்வம்` is preserved contextually rather than mechanically collapsed;
-- **Primordial Being** (`ஆதிபகவன்`), **Vaal-arivan** (`வாலறிவன்`), `அதிகாரம் / பாடல்` → **Chapter / Kural**, and the chapter labels encountered through scan 44 were added from the audited Part 001 evidence;
+- **GR4 / scans 46–60 — COMPLETE**;
+- glossary reconciliation coverage: **60 / 111 scans**;
+- GR4 corrected only two controlled-name renderings in English page records: scan 52 **Chenguttuvan → Senguttuvan** and scan 59 **the revolutionary poet Bharathidasan → Puratchi Kavignar Bharathidasan**;
+- `உரை` now explicitly permits **interpretation** in Kural-exegesis contexts as well as **commentary**, without flattening event/speech uses;
+- source-supported controls for `அறம்`, `பாவம் / புண்ணியம்`, `பல்லக்கு / சிவிகை`, **Ilango Adigal**, **Imayavaramban Nedunjeralathan**, **Gunavayir Kottam**, and the chapter labels encountered through scan 59 were recorded;
 - glossary reconciliation does not change page review status.
 
 # Current frontier
 
 **Tamil Part 001: archival-ready / closed.**
 
-**English Part 001: first-pass drafting COMPLETE; source-check COMPLETE; glossary reconciliation complete through scan 45.**
+**English Part 001: first-pass drafting COMPLETE; source-check COMPLETE; glossary reconciliation complete through scan 60.**
 
-Exact next activity: **glossary / recurring-terminology reconciliation GR4 — scans 46–60**, exactly 15 consecutive scans. Check controlled names, literary terms, chapter labels, work/publication names and repeated English renderings against the expanded glossary and audited Tamil context. This gate does not itself promote pages to `editorial-reviewed`.
+Exact next activity: **glossary / recurring-terminology reconciliation GR5 — scans 61–75**, exactly 15 consecutive scans. Check controlled names, literary terms, chapter labels, work/publication names and repeated English renderings against the expanded glossary and audited Tamil context. This gate does not itself promote pages to `editorial-reviewed`.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
