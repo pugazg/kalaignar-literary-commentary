@@ -171,16 +171,41 @@ Final English page statuses after source-check:
 
 No Part 001 source gap was reconstructed and no standard/published/web English Kural wording was imported during source-check.
 
+## Part 001 glossary / recurring-terminology reconciliation
+
+### GR1 — scans 1–15 — COMPLETE
+
+Compared all fifteen English records with their audited Tamil records and `GLOSSARY.md` for controlled literary terms, publication/work names, personal names, edition-preface labels and recurring renderings.
+
+Result:
+
+- scans **1–15** — terminology reconciliation PASS;
+- English page wording corrections required solely for GR1 consistency: **none**;
+- `GLOSSARY.md` was expanded with source-supported entries actually encountered in this batch, including `அணிந்துரை` → **Foreword**, `சூழ்நிலையுரை` → **situational commentary**, `காமத்துப்பால்` → **Book of Love**, classical `akam` terminology, `ஊடல்` / `கூடல்`, Valluvar Kottam, edition-preface labels, additional publication/work titles and personal-name forms;
+- `அணிந்துரை` / `மதிப்புரை` remain deliberately distinct as **Foreword / Critical Appreciation**;
+- `இன்பத்துப்பால்` / `காமத்துப்பால்` remain deliberately distinct as **Book of Inbam / Book of Love**, reflecting the audited Tamil context rather than mechanically forcing one label;
+- scans **13–15** remain `source-limited`; no terminology was inferred from their unreadable handwritten bodies;
+- external/standard Thirukkural terminology imported: **none**.
+
+Glossary-reconciliation coverage: **15 / 111 scans**.
+
+Page statuses remain unchanged by the glossary gate:
+
+- `source-checked`: **107**;
+- `source-limited`: **4** — scans 13, 14, 15, 19;
+- editorial-reviewed: **0**;
+- release-ready: **0**.
+
 ## Exact next activity
 
-Begin **Part 001 glossary / recurring-terminology reconciliation GR1 — scans 1–15**.
+Proceed with **Part 001 glossary / recurring-terminology reconciliation GR2 — scans 16–30**.
 
-- process exactly **15 consecutive scans** under the current user-directed cadence;
-- compare recurring names, controlled literary terms, publication/work names, chapter labels and repeated English renderings against `GLOSSARY.md` and the audited Tamil context;
-- add or refine glossary entries only where Part 001 evidence supports them;
-- do not mechanically force a single English equivalent where context requires a different rendering;
+- process exactly **15 consecutive scans**;
+- compare recurring names, controlled literary terms, chapter labels, work/publication names and repeated English renderings against the now-expanded `GLOSSARY.md` and audited Tamil context;
+- add or refine entries only from Part 001 evidence;
+- do not mechanically force one English equivalent where context requires variation;
 - do not import terminology from standard Thirukkural editions, web sources, published translations, another commentator or memory;
-- this gate does **not** itself promote `source-checked` pages to `editorial-reviewed`; scans 13–15 remain `source-limited`;
-- record any terminology corrections transparently in affected English pages and `GLOSSARY.md`, update the frontier documents, and audit the exact changed-file set before advancing to GR2.
+- this gate does **not** itself promote pages to `editorial-reviewed`; scan 19 remains `source-limited`;
+- record any terminology corrections transparently in affected English pages and `GLOSSARY.md`, update frontier documents, and audit the exact changed-file set before advancing to GR3.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
