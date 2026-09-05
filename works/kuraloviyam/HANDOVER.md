@@ -44,6 +44,7 @@ Durable records:
 
 - `works/kuraloviyam/SOURCE_INTAKE_PART_002.md`
 - `works/kuraloviyam/PART_002_PASS1_PROGRESS.md`
+- `works/kuraloviyam/indexes/page-map.md`
 
 ### Standard iteration cadence
 
@@ -56,41 +57,43 @@ Process **11 physical scans per iteration**. Workflow cutoffs never create sourc
 - P2-01 / scans **112–122** — COMPLETE
 - P2-02 / scans **123–133** — COMPLETE
 - P2-03 / scans **134–144** — COMPLETE
+- P2-04 / scans **145–155** — COMPLETE
 
-Current coverage: **33 / 111 scans**, overall **112–144 / printed 95–127**.
+Current coverage: **44 / 111 scans**, overall **112–155 / printed 95–138**.
 
 All Part 002 records remain `needs-review` / `visual_fidelity: needs-review` as required for Pass 1.
 
-P2-03 source units:
+P2-04 source units:
 
-- 134–135 — court music / taste vignette; Chapter 42 / Kural 420;
-- 136–137 — princess/commander war-and-separation vignette; Chapter 123 / Kural 1224;
-- 138–139 — owl/crows timing vignette; Chapter 49 / Kural 481;
-- 140–141 — sisters/child/absent-lover vignette; Chapter 125 / Kural 1244;
-- 142–143 — medical-hypocrisy vignette; Chapter 28 / Kural 277;
-- 144 — secret-meeting vignette begins.
+- 145 — closes the secret-meeting / `அலர் அறிவுறுத்தல்` vignette; Chapter 115 / Kural 1146;
+- 146–147 — physician/tiger vignette; Chapter 47 / Kural 469;
+- 148–149 — separated-woman/moon vignette; Chapter 121 / Kural 1210;
+- 150–152 — `தெளிந்தான்` / `நெளிந்தான்`; Chapter 15 / Kurals 142, 145;
+- 153 — woman addressing her own heart; Chapter 125 / Kural 1246;
+- 154–155 — lovers / `ஊடல்`; Chapter 133 / Kural 1326.
 
 Continuity controls:
 
 - **122→123** is a real continuation;
 - **133→134** is a clean source boundary;
-- scan **145 / printed 128** was inspected only as the P2-03 closing witness;
-- **144→145 is a genuine narrative continuation** of the secret-meeting vignette.
+- **144→145** is a genuine narrative continuation and was preserved;
+- scan **156 / printed 139** was inspected only as the P2-04 closing witness;
+- **155→156 is a clean source boundary** and scan 156 begins a new illustrated crowd/knife vignette.
 
 No standard/published/web Kural wording, another edition, OCR guess or memory was used to fill uncertain readings.
 
 ## Exact current activity
 
-Proceed with **P2-04 / Part 002 Pass 1 — overall scans 145–155 / printed pages 128–138**:
+Proceed with **P2-05 / Part 002 Pass 1 — overall scans 156–166 / printed pages 139–149**:
 
 1. fetch live `main`;
-2. begin scan **145** as the known continuation of scan 144;
-3. process exactly scans **145–155** source-first;
+2. begin scan **156** at the confirmed clean **155→156** source boundary;
+3. process exactly scans **156–166** source-first;
 4. create one Tamil page record per scan with overall `scan_page`, `part: 2`, local `part_page`, printed pagination, page function, visual notes and visible Tamil text;
 5. copy Kural/chapter metadata only from the rendered source image;
 6. keep Pass 1 statuses as `needs-review`;
-7. inspect scan **156** only as the closing boundary witness when needed;
-8. update progress/page-map/README/HANDOVER/NEXT and advance the frontier to **156–166**.
+7. inspect scan **167** only as the closing boundary witness when needed;
+8. update progress/page-map/README/HANDOVER/NEXT and advance the frontier to **167–177**.
 
 Do not import OCR guesses, another edition, standard Kural text, web material or memory to fill uncertain readings.
 
