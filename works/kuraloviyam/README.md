@@ -8,7 +8,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
-| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; source-check through scan 90 |
+| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; source-check through scan 105 |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -69,15 +69,16 @@ Drafting Batches 1–10 cover scans 1–111.
 - **SC4 / scans 46–60 — COMPLETE**: all fifteen pages passed and are `source-checked`.
 - **SC5 / scans 61–75 — COMPLETE**: all fifteen pages passed and are `source-checked`.
 - **SC6 / scans 76–90 — COMPLETE**: all fifteen pages passed and are `source-checked`.
-- SC6 made six fidelity adjustments affecting seven records: corrected the swollen-feet image on scan 79; repaired the 81→82 mirror continuation; removed unsupported **“come alive”** and repaired the 85→86 beauty continuation; restored the ear/music sense of `காதாரப் பண்பாடும் குயில்` on 86; restored **“slaves” / “lackeys”** on 87; and removed unsupported **“a hundred times”** on 88. Full review history is in `translations/en/TRANSLATION_STATUS.md`.
+- **SC7 / scans 91–105 — COMPLETE**: all fifteen pages passed and are `source-checked`.
+- SC7 made eight fidelity-adjustment groups affecting eleven records: source-faithful lip-movement wording on 91; continuation repairs on 93–94, 99–100 and 104–105; unsupported age removal on 95; walking-image / vocalization cleanup on 96; unsupported additions removed on 101; and the pleading address on 103 corrected to **“My life! My joy!”**. Full detail is in `translations/en/TRANSLATION_STATUS.md`.
 - No unreadable source material was reconstructed and no external/standard English Kural wording was imported.
 
 Current English counts:
 
 - page records: **111 / 111**;
-- source-check coverage: **90 / 111** scans;
-- `source-checked`: **86**;
-- `draft`: **21**;
+- source-check coverage: **105 / 111** scans;
+- `source-checked`: **101**;
+- `draft`: **6** — scans 106–111;
 - `source-limited`: **4** — scans 13–15, 19; all four have been source-reviewed within available evidence;
 - editorial-reviewed: **0**;
 - release-ready: **0**.
@@ -86,8 +87,8 @@ Current English counts:
 
 **Tamil Part 001: archival-ready / closed.**
 
-**English Part 001: first-pass drafting COMPLETE; source-check complete through scan 90.**
+**English Part 001: first-pass drafting COMPLETE; source-check complete through scan 105.**
 
-Exact next activity: **English source-check SC7 — scans 91–105**, exactly 15 consecutive pages. Promote each page only after Tamil↔English fidelity review passes.
+Exact next activity: **English source-check final remainder SC8 — scans 106–111**, the remaining 6 consecutive pages. Promote each page only after Tamil↔English fidelity review passes.
 
-After SC7, the final Part 001 source-check remainder will be scans **106–111**. Do not begin glossary reconciliation/editorial review before source-check is complete. Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
+After SC8, audit the complete Part 001 source-check state and only then begin glossary / recurring-terminology reconciliation. Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
