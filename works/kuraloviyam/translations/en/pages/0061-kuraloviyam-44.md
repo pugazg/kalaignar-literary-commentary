@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -37,7 +37,7 @@ Likewise, soldiers need the desire and the quality of following in the path of t
 
 Along with these three qualities, they must also prove worthy of the commander's trust.
 
-Valluvar's definition of these four qualities, seen in the literature of *Purappadal*, as distinctions of an army is fitting for every age and every form of warfare.
+Valluvar's designation of these four qualities, found in the literature of *Purappadal*, as marks of excellence in an army is fitting for every age and every form of warfare.
 
 Here is that Kural:
 
