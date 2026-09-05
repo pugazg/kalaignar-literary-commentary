@@ -28,7 +28,7 @@ Permanent cadence:
 
 `source-limited` is retained where the audited Tamil source itself is incomplete.
 
-The current user-directed iteration size is **15 consecutive physical scan pages**. The same 15-page cadence governs source-check batches unless a newer explicit user instruction changes it.
+The current user-directed iteration size is **15 consecutive physical scan pages**. A final Part remainder may be shorter.
 
 ## Part 001 first-pass drafting
 
@@ -139,27 +139,48 @@ Result:
 - no unreadable source material was reconstructed;
 - no external/standard Kural wording was imported.
 
-## Current counts
+### SC8 — scans 106–111 — COMPLETE
 
-- English page records: **111 / 111**;
-- first-pass drafting: **COMPLETE**;
-- source-check coverage: **105 / 111** physical scans reviewed;
-- `source-checked`: **101**;
-- `draft`: **6** — scans 106–111;
+Compared the final six English records against the audited Tamil records for prose/dialogue/Kural coverage, names, imagery, omissions, additions, meaning drift and the 109→110 physical continuation.
+
+Result:
+
+- scans **106–111** — PASS and promoted from `draft` to `source-checked`;
+- four fidelity-adjustment groups affected five page records:
+  - scan **107**: replaced the unsupported interjection **“Hey”** with source-faithful **“Tch”** for `சே` in Kalingan's remembered speech to his mother;
+  - scan **108**: removed the unsupported addition **“care”** from `உப்பிட்டு வளர்த்த பெற்றோர்` and restored the source's salt/feeding image as **“the parents who had raised her, salting her food”**;
+  - scans **109–110**: repaired the physical continuation across `காலையில் / மலரும் அவர் கண்கள்`; scan 109 now ends at **“In the morning—”**, scan 110 continues **“—his eyes ... opened only upon books”**, and the unsupported specification **“palm-leaf”** was removed from `ஏடுகள்`;
+  - scan **111**: aligned both the prose explanation and Kural 648 with source `ஏவலை ... விரைந்து கேட்கும்`, replacing the weaker/incorrect **“hastens to listen / hear its work”** idea with **“swiftly heeds the bidding”** of one who can arrange and speak words sweetly;
+- scan **106** required no wording correction beyond status promotion;
+- no other SC8 wording changes were required;
+- no unreadable source material was reconstructed;
+- no external/standard Kural wording was imported.
+
+## Part 001 source-check closure
+
+**COMPLETE — 111 / 111 physical scans reviewed.**
+
+Final English page statuses after source-check:
+
+- `source-checked`: **107**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
+- `draft`: **0**;
 - source-limited records reviewed within available evidence: **4 / 4**;
 - editorial-reviewed: **0**;
 - release-ready: **0**.
 
+No Part 001 source gap was reconstructed and no standard/published/web English Kural wording was imported during source-check.
+
 ## Exact next activity
 
-Complete **Part 001 English source-check final remainder SC8 — scans 106–111** against the audited Tamil records.
+Begin **Part 001 glossary / recurring-terminology reconciliation GR1 — scans 1–15**.
 
-- process the remaining **6 consecutive scans**; this is the permitted final remainder under the 15-page cadence;
-- compare each English page paragraph-by-paragraph / block-by-block against its audited Tamil page for omissions, additions, meaning drift, names, quotations, Kural blocks, visual/page function and physical continuations;
-- scans **106–111** have verified Tamil archival records and may move from `draft` to `source-checked` only after each passes;
-- do not import standard Thirukkural English wording, web translations, another commentator or memory;
-- record any corrections transparently in the affected English page records and this status document;
-- after SC8, audit the complete Part 001 source-check state and only then advance to **glossary / recurring-terminology reconciliation**.
+- process exactly **15 consecutive scans** under the current user-directed cadence;
+- compare recurring names, controlled literary terms, publication/work names, chapter labels and repeated English renderings against `GLOSSARY.md` and the audited Tamil context;
+- add or refine glossary entries only where Part 001 evidence supports them;
+- do not mechanically force a single English equivalent where context requires a different rendering;
+- do not import terminology from standard Thirukkural editions, web sources, published translations, another commentator or memory;
+- this gate does **not** itself promote `source-checked` pages to `editorial-reviewed`; scans 13–15 remain `source-limited`;
+- record any terminology corrections transparently in affected English pages and `GLOSSARY.md`, update the frontier documents, and audit the exact changed-file set before advancing to GR2.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
