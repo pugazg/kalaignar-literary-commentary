@@ -13,8 +13,8 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 ## Visual material
 
-Large colour illustration occupying the upper portion of the page; a standing richly dressed man greets a seated ascetic under a tree, visually accompanying the Ilango/Chenguttuvan narrative.
+Large colour illustration occupying the upper portion of the page; a standing richly dressed man greets a seated ascetic under a tree, visually accompanying the Ilango/Senguttuvan narrative.
 
-Chenguttuvan was the elder son of Imayavaramban Nedunjeralathan; Ilango was the younger son. One day an astrologer who came to Imayavaramban’s royal assembly declared emphatically that although Chenguttuvan was the elder son, he would have no opportunity to rule the country, and that it was the younger son, Ilango, who would be able to wear the crown. Determined to prove the astrologer’s prediction false, Prince Ilango left the palace, took on the garb of an ascetic and stayed at Gunavayir Kottam, thereby clearing the way for Chenguttuvan to be crowned without obstruction.
+Senguttuvan was the elder son of Imayavaramban Nedunjeralathan; Ilango was the younger son. One day an astrologer who came to Imayavaramban’s royal assembly declared emphatically that although Senguttuvan was the elder son, he would have no opportunity to rule the country, and that it was the younger son, Ilango, who would be able to wear the crown. Determined to prove the astrologer’s prediction false, Prince Ilango left the palace, took on the garb of an ascetic and stayed at Gunavayir Kottam, thereby clearing the way for Senguttuvan to be crowned without obstruction.
 
 <!-- Source scan page: 52; printed page: 35 -->
