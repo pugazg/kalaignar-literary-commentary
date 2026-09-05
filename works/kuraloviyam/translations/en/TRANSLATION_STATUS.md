@@ -85,13 +85,29 @@ Result:
 - no other SC4 wording changes were required;
 - no external/standard Kural wording was imported.
 
+### SC5 — scans 61–75 — COMPLETE
+
+Compared all fifteen English records against the audited Tamil records for prose/dialogue/Kural coverage, names, page function, visual/non-body notes, omissions, additions, meaning drift and physical continuation.
+
+Result:
+
+- scans **61–75** — PASS and promoted from `draft` to `source-checked`;
+- four fidelity adjustments were required:
+  - scan **67**: changed **“she will melt”** to the source-faithful **“she will wilt”** for `துவளுவார்கள்`, preserving the source metaphor rather than softening it;
+  - scan **69**: removed the unsupported paraphrase **“both country and rule may survive”** and aligned the minister's wording to the audited Tamil sequence: **“So that the country may live! Is he not asking for advice so that our rule may continue?”**;
+  - scan **71**: removed the unsupported interpretive addition **“smiles”** from `முத்துக்கோவை தரும் பாவை`; the English now preserves the source image as **“the maiden who gives a string of pearls”**;
+  - scan **75**: removed unsupported age information by changing **“young woman”** to **“woman”** for source `ஒருத்தி`;
+- no other SC5 wording changes were required;
+- no unreadable source material was reconstructed;
+- no external/standard Kural wording was imported.
+
 ## Current counts
 
 - English page records: **111 / 111**;
 - first-pass drafting: **COMPLETE**;
-- source-check coverage: **60 / 111** physical scans reviewed;
-- `source-checked`: **56**;
-- `draft`: **51**;
+- source-check coverage: **75 / 111** physical scans reviewed;
+- `source-checked`: **71**;
+- `draft`: **36**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - source-limited records reviewed within available evidence: **4 / 4**;
 - editorial-reviewed: **0**;
@@ -99,13 +115,13 @@ Result:
 
 ## Exact next activity
 
-Begin **Part 001 English source-check Batch SC5 — scans 61–75** against the audited Tamil records.
+Begin **Part 001 English source-check Batch SC6 — scans 76–90** against the audited Tamil records.
 
 - process exactly **15 consecutive scans**;
 - compare each English page paragraph-by-paragraph / block-by-block against its audited Tamil page for omissions, additions, meaning drift, names, quotations, Kural blocks, visual/page function and physical continuations;
-- scans **61–75** have verified Tamil archival records under the current Part 001 status map and may move from `draft` to `source-checked` only after each passes;
+- scans **76–90** have verified Tamil archival records under the current Part 001 status map and may move from `draft` to `source-checked` only after each passes;
 - do not import standard Thirukkural English wording, web translations, another commentator or memory;
 - record any corrections transparently in the relevant English page records and this status document;
-- update frontier documentation and audit the exact changed-file set before advancing to scan 76.
+- update frontier documentation and audit the exact changed-file set before advancing to scan 91.
 
 Do not begin glossary reconciliation or editorial review until the Part 001 source-check stage is complete.
