@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -20,7 +20,7 @@ Just because she looks that way, did the young man simply remain idle? He seems 
 
 He says, “When I am not looking at her, she looks at me and rejoices”—but he himself is not looking at her then; if so, how does he know that she is looking at him? In the same way, he says that when he looks at her, she looks at the ground. How can that be? Only after looking at him must she turn her gaze elsewhere!
 
-Perhaps this is what is called “the look that looks without looking”! Do you know what Valluvar explains through such an incident? Not merely the lie told by the lover; the red-tongued sage tells us without saying it outright that even when the two try to turn their eyes elsewhere, they cannot help looking at one another. Here is that Kural-picture:
+Perhaps this is what is called “the look that looks without looking”! Do you know what Valluvar explains through such an incident? Not merely the lover’s lie. The red-tongued sage tells us, without saying it outright, that even when the two try to turn their eyes elsewhere, they cannot help looking at one another. Here is that Kural-picture:
 
 > When I look, she looks at the ground; when I do not look,  
 > She looks at me and smiles softly.
