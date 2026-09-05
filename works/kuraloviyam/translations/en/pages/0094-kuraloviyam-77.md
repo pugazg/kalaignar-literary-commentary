@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-...sat down. She imagined the act of beating a public drum. The crier announces, through the sounding of the drum, news meant for everyone in the town to know. Then she thought of her own eyes.
+—sat down. She imagined the act of beating a public drum. The crier announces, through the sounding of the drum, news meant for everyone in the town to know. Then she thought of her own eyes.
 
 “My eyes are just like this drum. Through the beating of a drum, at least public news is announced to the townspeople. But my eyes announce even the sorrowful secret that ought to be concealed—my suffering as I think of my lover. There is no difference between my eyes and the beating of a public drum.”
 
