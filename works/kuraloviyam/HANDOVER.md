@@ -110,27 +110,37 @@ All fifteen records were reconciled against audited Tamil context and the expand
 - scan **17** was corrected from **“Aram, Porul and Kamam”** to the controlled structural forms **“the Book of Aram, the Book of Porul and the Book of Love”** for `அறத்துப்பால், பொருட்பால், காமத்துப்பால்`;
 - scan **30** now preserves the explicit source honorific as **Puratchi Kavignar Bharathidasan**, consistent with scan 19;
 - context-aware differences such as `உரை` = commentary vs speech/address and `புதுக் கவிதை` = free verse vs new poetry are recorded rather than flattened mechanically;
-- source-supported speaker/role and literary/prosodic terms from scans 16–30 were added to `GLOSSARY.md`;
-- scan **19** remains `source-limited`; no term was inferred from its washed-out gap;
+- scan **19** remains `source-limited`; no term was inferred from its washed-out gap.
+
+### GR3 — scans 31–45 — COMPLETE
+
+All fifteen records were reconciled against audited Tamil context and the expanded glossary.
+
+- English page wording corrections required solely for GR3 consistency: **none**;
+- scan 31 `முன்னுரை` / `ஏற்புரை` were recorded as **preface / Response**, keeping the general `முன்னுரை` use distinct from printed `முகப்புரை` headings where needed;
+- **Muthamizh** (`முத்தமிழ்`) and **yaazh** (`யாழ்`) were recorded from scans 39–40;
+- scan 35's explicit lexical contrast `இறைவன் / இறை / கடவுள் / தெய்வம்` remains distinct as **Iraivan / Irai / Kadavul / Deivam** when the source itself contrasts the words, while natural English remains allowed in ordinary contexts;
+- **Primordial Being** (`ஆதிபகவன்`) and corrected **Vaal-arivan** (`வாலறிவன்`) were recorded from source evidence;
+- `அதிகாரம் / பாடல்` is controlled as **Chapter / Kural**, and chapter labels encountered through scan 44 were recorded: **Praise of God**, **Domestic Life**, **Lamenting at the Sight of Evening**, **The Blessing of Children**, **Education**, **Realization of Truth**, and **Reading the Sign**;
 - no standard/published/web English Kural translation wording was imported.
 
-Glossary reconciliation coverage: **30/111 scans**.
+Glossary reconciliation coverage: **45/111 scans**.
 
 Page statuses remain **107 `source-checked` + 4 `source-limited`**. Glossary reconciliation does not itself promote pages to `editorial-reviewed`.
 
 ## Current exact activity
 
-Proceed with **Part 001 glossary / recurring-terminology reconciliation GR3 — scans 31–45**:
+Proceed with **Part 001 glossary / recurring-terminology reconciliation GR4 — scans 46–60**:
 
 1. fetch live `main` first;
 2. process exactly **15 consecutive scans**;
-3. fetch matching English and audited Tamil records for scans **31–45** as needed;
+3. fetch matching English and audited Tamil records for scans **46–60** as needed;
 4. compare recurring names, controlled literary terms, chapter labels, publication/work names and repeated English renderings against the expanded `translations/en/GLOSSARY.md` and Tamil context;
 5. add or refine glossary entries only where Part 001 evidence supports them;
 6. do not mechanically force one English equivalent where context requires a different rendering;
 7. do not import standard Thirukkural terminology, web text, published translations, another commentator or memory;
 8. this gate does **not** itself promote pages to `editorial-reviewed`;
 9. record terminology corrections transparently in affected English pages and `GLOSSARY.md`;
-10. update `TRANSLATION_STATUS.md`, English/work README, handover and current prompt, then audit the exact changed-file set before advancing to GR4.
+10. update `TRANSLATION_STATUS.md`, English/work README, handover and current prompt, then audit the exact changed-file set before advancing to GR5.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and Part 002 source is supplied.
