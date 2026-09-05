@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -25,7 +25,7 @@ He went on describing him in this way.
 
 What can be done? Perhaps it was with people like these in mind that Valluvar declared long ago, in unmistakable terms:
 
-“One who undertakes to speak without understanding the nature of the assembly not only fails to know the kinds of speech; he also has no good idea that he is capable of expressing.”
+“One who undertakes to speak without understanding the nature of the assembly not only fails to know the kinds of speech; he also has no worthwhile idea to express.”
 
 > Those who take up speech without knowing the assembly  
 > know not the kinds of words—and have no mastery to offer.
