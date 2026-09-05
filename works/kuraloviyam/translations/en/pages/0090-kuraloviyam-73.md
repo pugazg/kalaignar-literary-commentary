@@ -15,7 +15,7 @@ This Kural expresses her bewilderment. If this is her condition, another woman s
 
 Do you know what she said when her lover took leave of her? “If you are not going away, tell me that! If you are going to say, ‘I will go and return,’ then take leave of the woman who will still be alive when you return!”
 
-Such were the words with which she made love itself reel. Poor woman! She cannot hide the illness of love from others; yet she is ashamed to explain the severity of that illness to the lover who caused it. Thus that flower-haired maiden, over whom bees hover, struggles in distress.
+Such were the words with which she made love itself reel. Poor woman! She cannot hide her love-sickness from others; yet she is ashamed to explain the severity of that illness to the lover who caused it. Thus that flower-haired maiden, over whom bees hover, struggles in distress.
 
 > I cannot hide this illness; yet to tell  
 > the one who caused it brings me shame.
@@ -27,7 +27,7 @@ Such were the words with which she made love itself reel. Poor woman! She cannot
 
 Chapter 117 — Lamenting in Wasting Longing; verses 1163, 1162
 
-Chapter 119 — Anguish of Pallor; verse 1187
+Chapter 119 — Suffering from Pallor; verse 1187
 
 ## Visual material
 
