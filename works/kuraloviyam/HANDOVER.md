@@ -52,9 +52,10 @@ Source intake: **COMPLETE**.
 - no usable parsed text layer;
 - rendered page images are controlling.
 
-Durable intake record:
+Durable records:
 
-`works/kuraloviyam/SOURCE_INTAKE_PART_002.md`
+- source intake: `works/kuraloviyam/SOURCE_INTAKE_PART_002.md`;
+- Pass 1 progress: `works/kuraloviyam/PART_002_PASS1_PROGRESS.md`.
 
 ### Resolved 111→112 boundary
 
@@ -76,35 +77,49 @@ Planned scan batches:
 
 Iteration boundaries are workflow boundaries only; never force a source/narrative boundary at an 11-page cutoff.
 
-## P2-01 / Pass 1 — COMPLETE
+## Part 002 Pass 1 progress
 
-Processed overall scans **112–122 / printed pages 95–105**.
+### P2-01 — COMPLETE
 
-- page-aligned records created: **11**;
-- all new Part 002 records remain `needs-review` / `visual_fidelity: needs-review`;
-- scan 113 closes the opening love / `ஊடல்` vignette with Chapter 133 / Kural 1330;
-- scans 114–115 close the sculptor/painter vignette with Chapter 41 / Kural 407;
-- scan 116 closes the lemon/liquor/love comparison with Chapter 129 / Kural 1281;
-- scans 117–118 close the Valluvar/student/hunter/deer vignette with Chapter 30 / Kurals 292, 293;
-- scans 119–120 close the husband/wife eyeliner analogy with Chapter 129 / Kural 1285;
-- scans 121–122 begin the merchant/rest-house vignette;
-- scan **118** carries a blue circular library stamp in the lower margin; kept separate from printed prose;
-- scan **123 / printed 106** was inspected only as the batch-boundary witness and confirms **122→123 is a real narrative continuation**.
+Processed scans **112–122 / printed pages 95–105**.
 
-No standard/published/web Kural wording was imported.
+### P2-02 — COMPLETE
+
+Processed scans **123–133 / printed pages 106–116**.
+
+Current Pass 1 coverage: **22 / 111 scans**, overall scans **112–133**.
+
+All Part 002 records created so far remain `needs-review` / `visual_fidelity: needs-review` as required for Pass 1.
+
+P2-02 source units:
+
+- scan 123 closes the merchant/rest-house vignette; Chapter 51 / Kural 510;
+- scans 124–125 — young-woman/heart vignette; Chapter 130 / Kural 1291;
+- scans 126–127 — Gandhi vignette; Chapter 83 / Kural 828;
+- scans 128–129 — sneezing/lovers vignette; Chapter 132 / Kurals 1317, 1312;
+- scans 130–131 — elderly-man/public-meeting vignette; Chapter 10 / Kural 100;
+- scans 132–133 — lovers' quarrel vignette; Chapter 132 / Kurals 1313, 1320.
+
+Continuity controls:
+
+- **122→123** is a real continuation and was preserved;
+- scan **134 / printed 117** was inspected only as the P2-02 closing boundary witness;
+- **133→134 is a clean source boundary**; scan 134 begins a new illustrated vignette.
+
+No standard/published/web Kural wording, another edition, OCR guess or memory was used to fill uncertain readings.
 
 ## Exact current activity
 
-Proceed with **P2-02 / Part 002 Pass 1 — overall scans 123–133**:
+Proceed with **P2-03 / Part 002 Pass 1 — overall scans 134–144 / printed pages 117–127**:
 
 1. fetch live `main`;
-2. preserve the known scan **122→123** continuation;
-3. process exactly scans **123–133** from the rendered Part 002 source;
+2. begin at the confirmed clean **133→134** boundary;
+3. process exactly scans **134–144** from the rendered Part 002 source;
 4. create one Tamil page record per scan with overall `scan_page`, `part: 2`, local `part_page`, printed pagination, page function, visual notes and visible Tamil text;
-5. copy any Kural/chapter metadata only from the source image;
-6. keep first-pass statuses as `needs-review`;
-7. inspect scan **134** only as the closing boundary witness when needed;
-8. update the durable frontier to **134–144** after P2-02 is committed.
+5. copy Kural/chapter metadata only from the source image;
+6. keep Pass 1 statuses as `needs-review`;
+7. inspect scan **145** only as the closing boundary witness when needed;
+8. update `PART_002_PASS1_PROGRESS.md`, page map, README, HANDOVER and next-chat prompt, then advance the durable frontier to **145–155**.
 
 Do not import OCR guesses, another edition, standard Kural text, web material or memory to fill uncertain readings.
 
