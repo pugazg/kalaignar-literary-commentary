@@ -58,7 +58,7 @@ Part 001 English:
 - source-limited scans: **13, 14, 15, 19**, all reviewed within available evidence;
 - glossary / recurring-terminology reconciliation: **90/111 scans complete** — GR1 scans 1–15, GR2 scans 16–30, GR3 scans 31–45, GR4 scans 46–60, GR5 scans 61–75, GR6 scans 76–90;
 - GR5 added nine source-supported Kural chapter labels, the `பதர் / பதடி` → **chaff** metaphor control, narrative names **Karmegam / Poovazhagi / Kannayiram / Thirunadu / Valanadu**, and a context-aware **Ramayanam / Ramayana** distinction with **Valmiki**;
-- GR6 corrected three English page records: scan 77 **Valluvar's hall → Valluvar Kottam**; scan 86 **Speaking of the State of Dreams → Speaking of the Dream State**; scan 90 **illness of love → love-sickness** and **Anguish of Pallor → Suffering from Pallor**;
+- GR6 corrected three English page records: scan 77 **Valluvar's hall → Valluvar Kottam**; scan 86 **Speaking of the State of Dreams → Speaking of the Dream State**; scan 90 **illness of love → love-sickness**, **Anguish of Pallor → Suffering from Pallor**, and citation metadata **verse / verses → Kural / Kurals**;
 - GR6 added source-supported controls for six new chapter labels, `செங்கோல்`, `காம நோய்`, and the generic-vs-proper-name distinction for `பெரியார்`;
 - no standard/published/web English Kural translation wording was imported;
 - editorial-reviewed: **0**;
