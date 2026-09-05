@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-Seeing a man lie utterly lost in himself upon the shoulder of that ravishing beauty who had caused even the stars such confusion is enough to kindle a fire of jealousy in young hearts. But Valluvar’s mind raises a beautiful question fragrant with wisdom.
+Seeing a man lie there, forgetting himself, upon the shoulder of that ravishing beauty who had caused even the stars such confusion is enough to kindle a fire of jealousy in young hearts. But Valluvar’s mind raises a beautiful question fragrant with wisdom.
 
 Is the world of the lotus-eyed one as sweet as the sleep enjoyed while reclining on the soft shoulder of the woman one loves?
 
