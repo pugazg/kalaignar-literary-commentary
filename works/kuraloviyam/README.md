@@ -8,7 +8,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
-| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; source-check through scan 30 |
+| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; source-check through scan 45 |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -65,16 +65,18 @@ Drafting Batches 1–10 cover scans 1–111.
 
 - **SC1 / scans 1–15 — COMPLETE**: scans 1–12 `source-checked`; scans 13–15 reviewed within source limits and remain `source-limited`.
 - **SC2 / scans 16–30 — COMPLETE**: scans 16–18 and 20–30 `source-checked`; scan 19 reviewed within source limits and remains `source-limited`.
-- SC2 required one fidelity correction on scan 19: Tamil `மிகப் பலர் அல்லர்` is now correctly rendered **“not very many”** rather than the earlier meaning-reversing **“not very few.”**
+- **SC3 / scans 31–45 — COMPLETE**: all fifteen pages passed and are `source-checked`.
+- SC2 corrected scan 19 Tamil `மிகப் பலர் அல்லர்` to **“not very many”**, replacing the earlier meaning-reversing **“not very few.”**
+- SC3 made six fidelity adjustments affecting seven page records: two cross-page boundary repairs (34–35 and 37–38), `வாலறிவன்` transliteration correction on 36, tighter source wording on 39, removal of unsupported “feeds” on 40, and removal of unsupported “attendants” on 45. Full detail is in `translations/en/TRANSLATION_STATUS.md`.
 - No unreadable source material was reconstructed and no external/standard English Kural wording was imported.
 
 Current English counts:
 
 - page records: **111 / 111**;
-- source-check coverage: **30 / 111** scans;
-- `source-checked`: **26**;
-- `draft`: **81**;
-- `source-limited`: **4** — scans 13–15, 19; all four have now been source-reviewed within available evidence;
+- source-check coverage: **45 / 111** scans;
+- `source-checked`: **41**;
+- `draft`: **66**;
+- `source-limited`: **4** — scans 13–15, 19; all four have been source-reviewed within available evidence;
 - editorial-reviewed: **0**;
 - release-ready: **0**.
 
@@ -82,8 +84,8 @@ Current English counts:
 
 **Tamil Part 001: archival-ready / closed.**
 
-**English Part 001: first-pass drafting COMPLETE; source-check complete through scan 30.**
+**English Part 001: first-pass drafting COMPLETE; source-check complete through scan 45.**
 
-Exact next activity: **English source-check SC3 — scans 31–45**, exactly 15 consecutive pages. Promote each ordinary page only after Tamil↔English fidelity review passes.
+Exact next activity: **English source-check SC4 — scans 46–60**, exactly 15 consecutive pages. Promote each page only after Tamil↔English fidelity review passes.
 
 Do not begin glossary reconciliation/editorial review before source-check is complete. Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
