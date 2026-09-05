@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-If we say this to a young man, we must understand that the force of the statement is being given to education, not to seven births.
+If we say this to a young man, we must understand that the emphasis falls on education, not on seven births.
 
 > The learning one acquires in a single birth  
 > Has the power to safeguard him through seven births.
