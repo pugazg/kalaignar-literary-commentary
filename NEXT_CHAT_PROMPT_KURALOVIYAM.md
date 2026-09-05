@@ -75,39 +75,48 @@ All **111/111** Part 001 English page records exist.
 **SC1 — scans 1–15 — COMPLETE.**
 
 - scans 1–12 are `source-checked`;
-- scans 13–15 remain `source-limited`, reviewed within safely established evidence;
-- no wording corrections required.
+- scans 13–15 remain `source-limited`, reviewed within safely established evidence.
 
 **SC2 — scans 16–30 — COMPLETE.**
 
-- scans **16–18, 20–30** passed Tamil↔English fidelity comparison and are `source-checked`;
-- scan **19** passed within source limits and remains `source-limited`; the washed-out gap was not reconstructed;
-- one source-check correction was made on scan 19: Tamil `மிகப் பலர் அல்லர்` is now **“not very many”**, correcting the previous meaning-reversing **“not very few”**;
-- no other wording changes were required;
+- scans **16–18, 20–30** are `source-checked`;
+- scan **19** remains `source-limited` after review within its available evidence;
+- scan 19 correction: `மிகப் பலர் அல்லர்` is **“not very many”**, not the earlier meaning-reversing **“not very few.”**
+
+**SC3 — scans 31–45 — COMPLETE.**
+
+- all scans **31–45** passed Tamil↔English fidelity comparison and are `source-checked`;
+- six fidelity adjustments affected seven records:
+  - 34–35: corrected the physical split at `விஞ்ஞான, / மேதைகள்`;
+  - 36: `வாலறிவன்` → `Vaal-arivan`;
+  - 37–38: repaired the duplicated “army” wording across the physical continuation;
+  - 39: tightened `சேர்த்த இன்பம் பேரின்பம்` to source meaning;
+  - 40: removed unsupported “feeds” from the child/gruel sentence;
+  - 45: removed unsupported “attendants”;
 - no external/standard Kural English wording was imported.
 
 Current English totals:
 
 - page records: **111/111**;
-- source-check coverage: **30/111**;
-- `source-checked`: **26**;
-- `draft`: **81**;
-- `source-limited`: **4** — scans 13–15, 19; all four have now been reviewed within available evidence;
+- source-check coverage: **45/111**;
+- `source-checked`: **41**;
+- `draft`: **66**;
+- `source-limited`: **4** — scans 13–15, 19; all four have been reviewed within available evidence;
 - editorial-reviewed: **0**;
 - release-ready: **0**.
 
 ## Exact next activity
 
-If live `main` has not advanced beyond this frontier, execute **Part 001 English source-check SC3 — scans 31–45**.
+If live `main` has not advanced beyond this frontier, execute **Part 001 English source-check SC4 — scans 46–60**.
 
-1. fetch audited Tamil records and matching English records for scans **31–45**;
+1. fetch audited Tamil records and matching English records for scans **46–60**;
 2. process exactly **15 consecutive pages**;
 3. compare each page paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual/page function and cross-page continuations;
 4. promote each page from `draft` to `source-checked` only after it passes;
 5. revise only from audited repository Tamil and do not import standard Kural or external English wording;
-6. record any source-check corrections transparently in affected English page records;
-7. update `translations/en/TRANSLATION_STATUS.md`, `works/kuraloviyam/README.md`, `works/kuraloviyam/HANDOVER.md`, and this prompt after SC3;
-8. audit the pre-batch base→head changed-file set and record the exact next source-check frontier before advancing to scan 46.
+6. record source-check corrections transparently in affected English records and `translations/en/TRANSLATION_STATUS.md`;
+7. update `works/kuraloviyam/README.md`, `works/kuraloviyam/HANDOVER.md`, and this prompt after SC4;
+8. audit the pre-batch base→head changed-file set and record the exact next source-check frontier before advancing to scan 61.
 
 Do not begin glossary reconciliation or editorial review until Part 001 source-check is complete.
 
