@@ -127,39 +127,46 @@ Editorial review checks readability, controlled terminology, names, repeated phr
 ### ER5 — scans 61–75 — COMPLETE
 
 - scans **61–75** passed and moved from `source-checked` to `editorial-reviewed`;
-- four source-faithful readability refinements were made:
-  - scan **61**: the awkward sentence describing the four `புறப்பாடல்` qualities as army distinctions was refined to **“Valluvar's designation of these four qualities, found in the literature of *Purappadal*, as marks of excellence in an army...”**, preserving `புறப்பாடல் இலக்கியத்தில் காணப்பெறும் இந்த நான்கு பண்புகளையும் ஒரு படைக்குரிய சிறப்பாக வள்ளுவர் வகுத்திருப்பது`;
-  - scan **68**: **“Seeing his thoughts stretch on”** was refined to **“Seeing the minister remain deep in thought”**, preserving `அவரது சிந்தனை நீண்டு கொண்டிருப்பதைக் கண்ட`;
-  - scan **73**: **“he also has no good idea that he is capable of expressing”** was refined to **“he also has no worthwhile idea to express”**, preserving `சொல்லக்கூடிய நல்ல கருத்துக்களும் இல்லாதவர்`;
-  - scan **74**: **“Nor did it seem that anyone who might come to their aid was there”** was refined to **“Nor did there seem to be anyone there who could come to their aid”**, preserving `உதவிக்கு வரக்கூடியவர்களும் அங்கே இருப்பதும் தெரியவில்லை`;
-- scans **62–67, 69–72 and 75** required no body-text change beyond status promotion;
+- source-faithful readability refinements: scans **61, 68, 73 and 74**;
 - the **60→61**, **62→63**, **64→65**, **68→69**, **72→73** and **74→75** continuities remain intact;
-- scan **75→76** was boundary-checked: scan 75 closes the giving vignette, and scan 76 begins a new oppressive-rule vignette; scan 76 was not processed in ER5;
-- controlled forms including **Excellence of the Army**, **Wasting Away of Bodily Beauty**, **Speaking of the Dream State**, **Tyrannical Rule**, **chaff**, **Refraining from Useless Speech**, **The Minister**, **Praising Her Beauty**, **Declaring Love's Excellence**, **Ramayana**, **Knowing the Assembly**, **Giving**, and source Kural metadata remain consistent with the completed glossary;
+- scan **75→76** was boundary-checked: scan 75 closes the giving vignette and scan 76 begins a new oppressive-rule vignette;
+- no source-limited material was reconstructed and no external Kural wording was imported.
+
+### ER6 — scans 76–90 — COMPLETE
+
+- scans **76–90** passed and moved from `source-checked` to `editorial-reviewed`;
+- three source-faithful readability refinements were made:
+  - scan **78**: **“In the cool breeze he felt a warmth of sensation mingled in”** was refined to **“In the cool breeze he felt a warm thrill mingling in”**, preserving `குளிர் மொண்டுவரும் தென்றலிலே கதகதப்பு உணர்ச்சி கலந்து வருவதாக அறிகிறான்`;
+  - scan **79**: the awkward **“even to perform the ordinary duties of nature one cannot rise and walk”** was refined to **“one cannot even rise and walk to attend to the body's natural needs”**, preserving `இயற்கைக் கடமைகளை ஆற்றக்கூட எழுந்து செல்லமுடியாத` and the 79→80 continuation;
+  - scan **80**: the sentence describing a sick person's growing attachment to the failing body was restructured to **“the more uncontrollable becomes the desire of a person left with life alone to cling to that very body”**, preserving `உயிரை மட்டுமே மிச்சமாகக் கொண்டிருப்பவருக்கு அந்த உடல்மீதே மேலும் மேலும் அடங்காத ஆசை ஏற்படுகிறது`;
+- scans **76–77 and 81–90** required no body-text change beyond status promotion;
+- the **76→77**, **79→80**, **81→82**, **83→84**, **85→86**, **87→88** and **89→90** physical continuities remain intact;
+- scan **90→91** was boundary-checked: scan 90 closes the love-sickness/pallor material and scan 91 begins a new character-judgement vignette; scan 91 was not processed in ER6;
+- controlled forms including **Tyrannical Rule**, **Valluvar Kottam**, **Reproaching the Eyes**, **Muthamizh**, **Gambling**, **Suffering from Pallor**, **Just Rule**, **Speaking of the Dream State**, **Not Offending the Great**, **Lamenting in Wasting Longing**, and source Kural metadata remain consistent with the completed glossary;
 - no source-limited material was reconstructed;
 - no standard/published/web English Kural wording was imported.
 
-## Current English page statuses after ER5
+## Current English page statuses after ER6
 
-- `editorial-reviewed`: **71**;
-- `source-checked`: **36**;
+- `editorial-reviewed`: **86**;
+- `source-checked`: **21**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - `draft`: **0**;
 - `release-ready`: **0**.
 
-Editorial-review coverage: **75 / 111 scans**.
+Editorial-review coverage: **90 / 111 scans**.
 
 Source-limited records remain source-limited even after editorial review within available evidence.
 
 ## Exact next activity
 
-Proceed with **Part 001 editorial consistency review ER6 — scans 76–90**, exactly **15 consecutive scans**.
+Proceed with **Part 001 editorial consistency review ER7 — scans 91–105**, exactly **15 consecutive scans**.
 
 - review English readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity;
 - use audited Tamil records whenever needed to ensure editorial changes do not alter source meaning;
 - make only source-faithful editorial improvements; do not add commentary or explanatory material absent from the source;
 - do not import standard Thirukkural wording, published English translations, web text, another commentator or memory;
-- passing scans **76–90** may move from `source-checked` to `editorial-reviewed`;
-- update frontier documents and audit the exact pre-batch base→head changed-file set before advancing to ER7.
+- passing scans **91–105** may move from `source-checked` to `editorial-reviewed`;
+- update frontier documents and audit the exact pre-batch base→head changed-file set before advancing to ER8, the final scans **106–111** remainder.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
