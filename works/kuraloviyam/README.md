@@ -8,7 +8,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
-| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; English source-check **111/111 complete**; glossary reconciliation **111/111 complete**; editorial review **111/111 complete**; Part-level English review next |
+| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass, source-check, glossary reconciliation and editorial review **111/111 complete**; Part-level English review **PASS**; release report next |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -53,94 +53,42 @@ Permanent review cadence:
 
 **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
 
-The current user-directed normal iteration size is **15 consecutive scans**; a final Part remainder may be shorter.
-
-## Completed pre-editorial gates
+## Completed English gates
 
 - first-pass translation: **111/111 COMPLETE**;
 - source-check: **111/111 COMPLETE**;
-- glossary / recurring-terminology reconciliation: **111/111 COMPLETE**.
+- glossary / recurring-terminology reconciliation: **111/111 COMPLETE**;
+- editorial consistency review ER1–ER8: **111/111 COMPLETE**;
+- Part-level English review: **COMPLETE — PASS**.
 
-## Editorial consistency review
+Durable Part-level review record:
 
-### ER1 / scans 1–15 — COMPLETE
+`works/kuraloviyam/translations/en/reviews/PART_001_ENGLISH_REVIEW.md`
 
-- scans **1–12** promoted to `editorial-reviewed`;
-- scans **13–15** remain source-limited;
-- readability refinements: scans **5 and 6**.
+## Part-level English review result
 
-### ER2 / scans 16–30 — COMPLETE
+The whole-Part review confirmed:
 
-- scans **16–18 and 20–30** promoted to `editorial-reviewed`;
-- scan **19** remains source-limited;
-- readability refinements: scans **20, 21, 24 and 28**;
-- scan **26→27** continuation preserved; source `கொளவு` remains *kolavu*.
-
-### ER3 / scans 31–45 — COMPLETE
-
-- scans **31–45** promoted to `editorial-reviewed`;
-- readability refinements: scans **36, 42, 43 and 44**;
-- **34→35** and **37→38** continuations preserved; **45→46** boundary checked.
-
-### ER4 / scans 46–60 — COMPLETE
-
-- scans **46–60** promoted to `editorial-reviewed`;
-- readability refinements: scans **46, 50 and 60**;
-- controlled **sin / merit** wording retained on scan 50;
-- Chera-king agency in `அவர்தம் முடியினில் கல்வேற்றி வந்து` clarified on scan 60;
-- **50→51**, **56→57** and **58→59** continuations preserved; **60→61** boundary checked.
-
-### ER5 / scans 61–75 — COMPLETE
-
-- scans **61–75** promoted to `editorial-reviewed`;
-- source-faithful readability refinements: scans **61, 68, 73 and 74**;
-- **60→61, 62→63, 64→65, 68→69, 72→73 and 74→75** continuities remain intact;
-- **75→76** was boundary-checked and scan 76 begins a new vignette;
-- no standard/published/web English Kural wording was imported.
-
-### ER6 / scans 76–90 — COMPLETE
-
-- scans **76–90** promoted to `editorial-reviewed`;
-- source-faithful readability refinements: scans **78, 79 and 80**;
-- **76→77, 79→80, 81→82, 83→84, 85→86, 87→88 and 89→90** continuities remain intact;
-- **90→91** was boundary-checked and scan 91 begins a new vignette;
-- no standard/published/web English Kural wording was imported.
-
-### ER7 / scans 91–105 — COMPLETE
-
-- scans **91–105** promoted to `editorial-reviewed`;
-- source-faithful readability refinements: scans **91, 103 and 105**;
-- **91→92, 93→94, 95→96, 97→98, 99→100→101, 102→103 and 104→105** continuities remain intact;
-- **105→106** was boundary-checked and scan 106 begins the Kalingan/Kathiravan vignette;
-- no standard/published/web English Kural wording was imported.
-
-### ER8 / scans 106–111 — COMPLETE
-
-- scans **106–111** promoted to `editorial-reviewed`;
-- **no body wording changes were required** in the final six-page remainder;
-- **106→107** and **109→110→111** continuities remain intact; scan **108** is self-contained;
-- scan **111** is the final supplied physical scan of Part 001;
-- the **111→112** split boundary remains unresolved until Part 002 is supplied;
-- no standard/published/web English Kural wording was imported.
-
-Current English page statuses after ER8:
-
-- `editorial-reviewed`: **107**;
-- `source-checked`: **0**;
-- `source-limited`: **4** — scans 13, 14, 15, 19;
-- `draft`: **0**;
-- `release-ready`: **0**.
-
-Editorial-review coverage: **111/111 scans COMPLETE**.
+- **111/111** Tamil page records and **111/111** English page records;
+- **111/111** filename alignment with no missing or extra English record;
+- final English page statuses remain **107 `editorial-reviewed` + 4 `source-limited`**;
+- source-limited scans **13, 14, 15 and 19** remain explicit and contain no reconstructed missing wording;
+- `draft=0`, `source-checked=0`, `release-ready=0`;
+- controlled glossary terms, personal names, chapter labels, Kural numbering/metadata, quotation handling and recurring phrasing are consistent across Part 001;
+- accumulated page functions and cross-page continuities remain coherent after editorial review;
+- the stale final frontier in `TRANSLATION_GUIDE.md` was corrected as a documentation-only control synchronization;
+- no Tamil page file, English page body text, or English page status was changed during the Part-level review;
+- scan **111** remains only the final supplied physical scan of Part 001;
+- the **111→112** split boundary remains unresolved until Part 002 is supplied.
 
 # Current frontier
 
 **Tamil Part 001: archival-ready / closed.**
 
-**English Part 001: first-pass drafting COMPLETE; source-check COMPLETE; glossary reconciliation COMPLETE; editorial review COMPLETE 111/111.**
+**English Part 001: first-pass COMPLETE; source-check COMPLETE; glossary reconciliation COMPLETE; editorial review COMPLETE; Part-level English review PASS.**
 
-Exact next activity: **Part 001 Part-level English review**. Review the completed 111-page English layer as a whole for page alignment, final statuses, source-limited handling, controlled terminology, names, chapter/Kural metadata, quotations, recurring phrasing, page functions and cross-page continuity. Create a durable Part-level English review record.
+Exact next activity: **Part 001 Part-level English release report**.
 
-Do **not** promote pages to `release-ready` during Part-level review. The later release-report gate controls that promotion.
+The release-report gate must use the completed Part-level review record and decide release approval before any eligible page is promoted to `release-ready`. The four source-limited pages remain source-limited unless better source evidence is supplied.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied. The **111→112** boundary remains unverifiable until then.
