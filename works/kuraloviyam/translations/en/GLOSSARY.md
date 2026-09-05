@@ -250,11 +250,12 @@ GR5 compared the English records for scans **61–75** against their audited Tam
 GR6 compared the English records for scans **76–90** against their audited Tamil context and the GR5-controlled glossary.
 
 - scans **76–90** — terminology reconciliation PASS;
-- **three English page records** required **four terminology corrections**:
+- **three English page records** required **five terminology/citation-metadata correction groups**:
   - scan **77**: source `வள்ளுவர் கோட்டம்` was reconciled from generic **“Valluvar's hall”** to the existing controlled proper-name form **Valluvar Kottam**;
   - scan **86**: `கனவுநிலையுரைத்தல்` was reconciled from **Speaking of the State of Dreams** to the existing controlled chapter label **Speaking of the Dream State**;
   - scan **90**: recurring `காம நோய்` was reconciled from **illness of love** to **love-sickness**, while the later generic `நோய்` remains naturally **illness**;
   - scan **90**: `பசப்புறுபருவரல்` was reconciled from **Anguish of Pallor** to **Suffering from Pallor**, matching the same Chapter 119 label already used on scans 81–82;
+  - scan **90**: source citation metadata `பாடல் / பாடல்கள்` was reconciled from generic **verse / verses** to the existing controlled **Kural / Kurals** convention;
 - source-supported new chapter-label controls were added for **Reproaching the Eyes**, **Gambling**, **Suffering from Pallor**, **Just Rule**, **Not Offending the Great**, and **Lamenting in Wasting Longing**; the Chapter 122 source spacing variant was recorded without creating a second English label;
 - recurring source terms `செங்கோல்` and `காம நோய்` were added as context-aware controls;
 - the `பெரியார்` entry was refined so the personal name **Periyar** is not mechanically imposed on generic literary/Kural uses such as scan 88's `பெரியாரைப் பிழையாமை`;
