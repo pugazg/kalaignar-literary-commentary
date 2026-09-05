@@ -6,14 +6,14 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
 —horse and rode toward the place specified by the king.
 
-With a plan to intercept the enemies on the way itself and drive them back, the king had his soldiers stand in formation at the entrance to the fort and ordered them to be ready to move the moment the command was given.
+Planning to intercept the enemy on the way and drive them back, the king had his soldiers form ranks at the fort entrance and ordered them to be ready to move the moment the command was given.
 
 Warriors from the capital and from the surrounding villages kept arriving one after another on horseback and joining that battle formation.
 
