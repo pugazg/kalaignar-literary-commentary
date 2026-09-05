@@ -15,6 +15,8 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | கலைஞர் | Kalaignar | Retain established title/name. |
 | கலைஞர் மு. கருணாநிதி | Kalaignar M. Karunanidhi | Default author form. |
 | முகப்புரை | Preface | Controlled literary-commentary baseline. |
+| முன்னுரை | preface | Scan 31 uses this general narrative term for the book's preface; keep distinct from the printed edition-heading term `முகப்புரை` where that distinction matters. |
+| ஏற்புரை | Response | Event-response heading in scan 31; `கலைஞர் ஏற்புரை` → `Kalaignar's Response`. |
 | அணிந்துரை | Foreword | Keep distinct from `மதிப்புரை`; scan 8 describes Dr. V. Sub. Manickam's contribution with this term. |
 | மதிப்புரை | Critical Appreciation | Controlled literary-commentary baseline; this is the printed heading on scans 9–12. |
 | பதவுரை | word-by-word explanation | User-confirmed lexical clarification during GR2; use when contrasting commentary forms. Keep distinct from `பதிப்புரை`. |
@@ -41,7 +43,25 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | உரைக் கவிதை | prose-poetry | Speaker's intermediate category between new/free verse and traditional poetry in scans 26–27. |
 | எதுகை மோனை | alliteration and rhyme | Paired descriptive rendering used in the Ramalinganar discussion; do not infer additional technical equivalences beyond the audited context. |
 | அசை / சீர் / தளை | asai / seer / thalai | Retain these Tamil prosodic terms in transliteration when used technically. |
+| முத்தமிழ் | Muthamizh | Retain the cultural/literary term in transliteration when it is named as a term, as on scan 40. |
+| யாழ் | yaazh | Retain the Tamil instrument name in transliteration; do not silently replace it with a different instrument name. |
 | வள்ளுவர் கோட்டம் | Valluvar Kottam | Retain established proper-name form. |
+| இறைவன் / இறை / கடவுள் / தெய்வம் | Iraivan / Irai / Kadavul / Deivam; contextually God / divine / deity | When the Tamil explicitly contrasts the four labels, as on scan 35, preserve the distinct transliterations. In ordinary prose where no lexical contrast is being made, natural English such as `God`, `divine` or `deity` may be used. |
+| ஆதிபகவன் | Primordial Being | Source-supported rendering used in scan 35's discussion of the opening Kural. |
+| வாலறிவன் | Vaal-arivan | Preserve the corrected transliteration established during source-check on scan 36. |
+| அதிகாரம் / பாடல் | Chapter / Kural | In the source metadata beneath quoted Kurals, render `அதிகாரம்` as `Chapter` and `பாடல்` / `பாடல்கள்` as `Kural` / `Kurals` with the source numbers. |
+
+## Thirukkural chapter labels encountered in Part 001
+
+| Tamil | Default English | Editorial note |
+|---|---|---|
+| கடவுள் வாழ்த்து | Praise of God | Source-supported chapter label used on scans 35–36. |
+| இல்வாழ்க்கை | Domestic Life | Chapter 5 label on scan 36. |
+| பொழுதுகண்டு இரங்கல் | Lamenting at the Sight of Evening | Chapter 123 label on scan 38. |
+| மக்கட்பேறு | The Blessing of Children | Chapter 7 label on scan 40. |
+| கல்வி | Education | Chapter 40 label on scan 42. |
+| மெய்யுணர்தல் | Realization of Truth | Chapter 36 label on scan 42. |
+| குறிப்பறிதல் | Reading the Sign | Chapter 110 label on scan 44. |
 
 ## Edition-preface / publication-note labels encountered in Part 001
 
@@ -140,6 +160,19 @@ GR2 compared the English records for scans **16–30** against their audited Tam
 - contextual variation was retained where it carries source meaning: `உரை` may mean commentary or speech/address, and `புதுக் கவிதை` may appear as `free verse` or `new poetry` according to the speaker's context;
 - the glossary was expanded with source-supported speaker/role names and literary/prosodic terms actually encountered in scans 16–30;
 - scan **19** remains source-limited; no term was inferred from its physically washed-out gap;
+- no standard/published/web English Kural translation wording was imported.
+
+## GR3 reconciliation record — scans 31–45
+
+GR3 compared the English records for scans **31–45** against their audited Tamil context and the GR2-controlled glossary.
+
+- scans **31–45** — terminology reconciliation PASS;
+- English page wording corrections required solely for GR3 consistency: **none**;
+- `முன்னுரை` and `ஏற்புரை` were recorded from scan 31 as **preface** and **Response**, while preserving their distinction from the existing printed-heading term `முகப்புரை`;
+- source-supported recurring literary/cultural forms **Muthamizh** (`முத்தமிழ்`) and **yaazh** (`யாழ்`) were recorded from scans 39–40;
+- the explicit divinity-label contrast on scan 35 is preserved: `இறைவன்`, `இறை`, `கடவுள்`, `தெய்வம்` may remain **Iraivan / Irai / Kadavul / Deivam** when the Tamil itself distinguishes the words, while ordinary contexts may use natural English such as **God / divine / deity**;
+- source-supported forms **Primordial Being** (`ஆதிபகவன்`) and **Vaal-arivan** (`வாலறிவன்`) were recorded without importing wording from an external Kural edition;
+- the source's Kural metadata convention `அதிகாரம் / பாடல்` is controlled as **Chapter / Kural**, and the chapter labels actually encountered in scans 35–44 were recorded: **Praise of God**, **Domestic Life**, **Lamenting at the Sight of Evening**, **The Blessing of Children**, **Education**, **Realization of Truth**, and **Reading the Sign**;
 - no standard/published/web English Kural translation wording was imported.
 
 ## Review rule
