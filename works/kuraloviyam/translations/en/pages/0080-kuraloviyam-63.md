@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -25,7 +25,7 @@ Some gamblers stake what they possess and lose it. Defeat after defeat. Yet they
 
 The more they lose their possessions, the more their attachment to gambling grows. They are one kind.
 
-The more a body is weakened and distressed by disease, losing strength again and again, the more uncontrollable desire arises in the person who is left with life alone to cling to that very body. They are another kind.
+The more a body is weakened and distressed by disease, losing strength again and again, the more uncontrollable becomes the desire of a person left with life alone to cling to that very body. They are another kind.
 
 How can one adequately praise the intelligence of the great man who made these two kinds of people into a comparison and composed a Kural?
 
