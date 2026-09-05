@@ -10,7 +10,7 @@ Active work: `works/kuraloviyam/`
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Preserve any newer durable state. Do not reset, repeat or reopen completed Tamil work, completed first-pass English drafting, or the completed Part 001 English source-check because a copied prompt or root multi-work handover contains an older checkpoint.
+Fetch live `main` first. Preserve any newer durable state. Do not reset, repeat or reopen completed Tamil work, completed first-pass English drafting, completed Part 001 English source-check, or completed glossary-reconciliation batches because a copied prompt or root multi-work handover contains an older checkpoint.
 
 ## Mandatory startup
 
@@ -74,23 +74,7 @@ All **111/111** Part 001 English page records exist.
 
 All **111/111 physical scans** have been source-reviewed.
 
-- SC1 / scans 1–15 — COMPLETE;
-- SC2 / scans 16–30 — COMPLETE;
-- SC3 / scans 31–45 — COMPLETE;
-- SC4 / scans 46–60 — COMPLETE;
-- SC5 / scans 61–75 — COMPLETE;
-- SC6 / scans 76–90 — COMPLETE;
-- SC7 / scans 91–105 — COMPLETE;
-- SC8 / scans 106–111 — COMPLETE, final 6-page remainder.
-
-SC8 made four fidelity-adjustment groups affecting five records:
-
-- scan 107: `சே` corrected from unsupported **“Hey”** to **“Tch”**;
-- scan 108: removed unsupported **“care”** while preserving the `உப்பிட்டு வளர்த்த` salt/feeding image;
-- scans 109–110: repaired the `காலையில் / மலரும் அவர் கண்கள்` physical continuation and removed unsupported **“palm-leaf”** from `ஏடுகள்`;
-- scan 111: corrected `ஏவலை ... விரைந்து கேட்கும்` in prose and Kural 648 to **“swiftly heeds the bidding.”**
-
-Final English source-check totals:
+Final source-check totals:
 
 - page records: **111/111**;
 - `source-checked`: **107**;
@@ -101,19 +85,33 @@ Final English source-check totals:
 - unreadable source material reconstructed: **none**;
 - external/standard Kural English wording imported: **none**.
 
+## Glossary / recurring-terminology reconciliation
+
+**GR1 — scans 1–15 — COMPLETE.**
+
+- all fifteen records were reconciled against the audited Tamil context and `works/kuraloviyam/translations/en/GLOSSARY.md`;
+- no English page wording correction was required solely for GR1 terminology consistency;
+- `GLOSSARY.md` was expanded only from source evidence actually present in scans 1–15;
+- controlled distinctions now recorded include `அணிந்துரை` / `மதிப்புரை` → **Foreword / Critical Appreciation** and `இன்பத்துப்பால்` / `காமத்துப்பால்` → **Book of Inbam / Book of Love**;
+- source-supported entries were also added for `சூழ்நிலையுரை`, classical `akam` terminology, `ஊடல்` / `கூடல்`, Valluvar Kottam, edition-preface labels, and additional work/publication/person names;
+- scans 13–15 remain `source-limited`; no handwritten body terminology was inferred;
+- external/standard Thirukkural terminology imported: **none**.
+
+Glossary-reconciliation coverage: **15/111 scans**. Page statuses remain unchanged; glossary review does not itself create `editorial-reviewed` status.
+
 ## Exact next activity
 
-If live `main` has not advanced beyond this frontier, execute **Part 001 glossary / recurring-terminology reconciliation GR1 — scans 1–15**.
+If live `main` has not advanced beyond this frontier, execute **Part 001 glossary / recurring-terminology reconciliation GR2 — scans 16–30**.
 
-1. process exactly **15 consecutive pages** under the current cadence;
-2. fetch the matching audited Tamil and English records for scans **1–15** as needed;
-3. compare recurring names, controlled literary terms, publication/work names, chapter labels and repeated English renderings against `works/kuraloviyam/translations/en/GLOSSARY.md` and their Tamil context;
+1. process exactly **15 consecutive pages**;
+2. fetch matching audited Tamil and English records for scans **16–30** as needed;
+3. compare recurring names, controlled literary terms, chapter labels, publication/work names and repeated English renderings against the expanded `works/kuraloviyam/translations/en/GLOSSARY.md` and their Tamil context;
 4. add or refine glossary entries only where Part 001 evidence supports them;
 5. do not mechanically force one English equivalent where context requires a different rendering;
 6. do not import terminology from standard Thirukkural editions, web sources, published translations, another commentator or memory;
-7. this glossary gate does **not** itself promote `source-checked` pages to `editorial-reviewed`; scans 13–15 remain `source-limited`;
+7. this glossary gate does **not** itself promote pages to `editorial-reviewed`; scan **19** remains `source-limited`;
 8. record any terminology corrections transparently in affected English page records and `GLOSSARY.md`;
-9. update `TRANSLATION_STATUS.md`, `works/kuraloviyam/README.md`, `works/kuraloviyam/HANDOVER.md`, and this prompt;
-10. audit the exact pre-batch base→head changed-file set before advancing to GR2.
+9. update `TRANSLATION_STATUS.md`, English/work README, `works/kuraloviyam/HANDOVER.md`, and this prompt;
+10. audit the exact pre-batch base→head changed-file set before advancing to GR3.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
