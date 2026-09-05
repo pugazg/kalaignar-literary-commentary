@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Principal of Madurai Yadava College — Tamilkudimagan"
 language: "en"
 translation_type: "project_translation"
-status: "editorial-reviewed"
+status: "release-ready"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains authoritative"
 ---
