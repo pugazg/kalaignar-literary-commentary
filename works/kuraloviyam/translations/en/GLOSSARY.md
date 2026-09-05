@@ -23,7 +23,7 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | விரிவுரை | extended commentary | Context-aware descriptive rendering. |
 | விளக்கவுரை | explanatory commentary | Context-aware descriptive rendering. |
 | விளக்கம் | explanation | General explanatory noun; keep distinct from the more specific commentary-form term `விளக்கவுரை`. |
-| உரை | commentary / speech or address | Context-sensitive. In Kural exegesis it is `commentary`; in an event/speaker context it may be `speech` or `address`. Do not force one equivalent mechanically. |
+| உரை | commentary / interpretation / speech or address | Context-sensitive. In Kural exegesis it may be `commentary` or `interpretation`; in an event/speaker context it may be `speech` or `address`. Do not force one equivalent mechanically. |
 | உரையாசிரியர் | commentator | Use for a writer/interpreter of commentary in the literary-exegesis context. |
 | சூழ்நிலையுரை | situational commentary | Term proposed within the Critical Appreciation for Kalaignar's background-setting method. |
 | சொல்லோவியம் | word-picture | Preserve Kalaignar's visual/literary metaphor where the term is used. |
@@ -35,6 +35,9 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | காமத்துப்பால் | Book of Love | Preserve the distinct term used in the source; do not silently rewrite it as `Book of Inbam`. |
 | அகம் / அகத்திணை | akam / akam tradition / inner landscape | Keep `akam` when the source is discussing the classical literary category; a contextual gloss such as `inner landscape` may accompany it. |
 | அகப்பொருள் | inner landscape / akam subject matter | Context-aware literary term; do not flatten it to ordinary `interior` language. |
+| அறம் | virtue / virtuous conduct | Context-aware conceptual noun. Keep distinct from the structural title `அறத்துப்பால்` → `Book of Aram`. |
+| பாவம் / புண்ணியம் | sin / merit | Preserve the contrast when the source discusses the palanquin interpretation on scans 50–51; do not infer doctrine beyond the audited passage. |
+| பல்லக்கு / சிவிகை | palanquin | `பல்லக்கு` is used in the narrative and `சிவிகை` in the quoted Kural on scans 50–51; use the same object term in English. |
 | ஊடல் | lovers' quarrel | Controlled contextual rendering in the love-poetics discussion. |
 | கூடல் | lovers' union | Controlled contextual rendering in the love-poetics discussion. |
 | பகுத்தறிவு | rationalism | Use for the ideological/conceptual noun; related person-description may naturally be `rationalist`. |
@@ -62,6 +65,14 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | கல்வி | Education | Chapter 40 label on scan 42. |
 | மெய்யுணர்தல் | Realization of Truth | Chapter 36 label on scan 42. |
 | குறிப்பறிதல் | Reading the Sign | Chapter 110 label on scan 44. |
+| வினைத்திட்பம் | Firmness in Action | Chapter 67 label on scan 47. |
+| தனிப்படர் மிகுதி | The Agony of Solitary Love | Chapter 120 label on scan 49. |
+| அறன் வலியுறுத்தல் | The Insistence on Virtue | Chapter 4 label on scan 51. |
+| நலம் புனைந்துரைத்தல் | Praising Her Beauty | Chapter 112 label cited on scan 55 for the preceding Kural. |
+| புணர்ச்சி மகிழ்தல் | The Joy of Union | Chapter 111 label on scan 55. |
+| உட்பகை | Internal Enmity | Chapter 89 label on scan 57. |
+| வான்சிறப்பு | The Excellence of Rain | Chapter 2 label on scan 59. |
+| வாழ்க்கைத் துணை நலம் | The Worth of a Life-Partner | Chapter 6 label on scan 59. |
 
 ## Edition-preface / publication-note labels encountered in Part 001
 
@@ -113,7 +124,7 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | ஆசிரியர் சாவி | Editor Saavi | Use `Editor` for the publication-editor role; `ஆசிரியர்` remains context-sensitive elsewhere. |
 | டாக்டர் மெ.சுந்தரம் | Dr. Me. Sundaram | Preserve the scan 29 speaker-name form. |
 | டாக்டர் மா.நன்னன் | Dr. Ma. Nannan | Preserve the scan 30 speaker-name form. |
-| புரட்சிக் கவிஞர் பாரதிதாசன் | Puratchi Kavignar Bharathidasan | Retain the explicit source honorific consistently; reconciled across scans 19 and 30 in GR2. |
+| புரட்சிக் கவிஞர் பாரதிதாசன் | Puratchi Kavignar Bharathidasan | Retain the explicit source honorific consistently; reconciled across scans 19, 30 and 59. |
 | கபிலர் | Kapilar | Transliterate poet's name. |
 | பரிமேலழகர் | Parimelazhagar | Transliterate. |
 | மணக்குடவர் | Manakkudavar | Transliterate. |
@@ -126,6 +137,7 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | சிதம்பரம் / சிதம்பரனார் | Chidambaram / Chidambaranar | Preserve the form carried by the Tamil source rather than mechanically collapsing the honorific form. |
 | கம்பர் | Kambar | Transliterate. |
 | இளங்கோ | Ilango | Transliterate consistently across the Critical Appreciation. |
+| இளங்கோ அடிகள் / இளங்கோவடிகள் | Ilango Adigal | Preserve the explicit ascetic/honorific form used on scans 52–53. |
 | காந்தியடிகள் | Gandhi | The current English rendering of the source honorific form in scan 10. |
 | பூட்டோ | Bhutto | Transliterate the name as used in scan 10. |
 | காரல் மார்க்ஸ் | Karl Marx | Established English personal-name form already used in the source-checked translation. |
@@ -135,7 +147,14 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | மூதறிஞர் இராசாசி | elder statesman Rajaji | Preserve `Rajaji`; retain the source honorific descriptively when present. |
 | பாரதி | Bharathi | Retain the poet's name in the form used by Bharathi Pathippagam and the Critical Appreciation. |
 | கண்ணகி | Kannagi | Transliterate. |
-| செங்குட்டுவன் | Senguttuvan | Transliterate. |
+| செங்குட்டுவன் | Senguttuvan | Controlled transliteration; GR4 reconciled scan 52 from `Chenguttuvan` to this existing form. |
+| இமயவரம்பன் நெடுஞ்சேரலாதன் | Imayavaramban Nedunjeralathan | Source-supported royal name on scan 52. |
+
+## Place references encountered in Part 001
+
+| Tamil | Default English form | Editorial note |
+|---|---|---|
+| குணவாயிற் கோட்டம் | Gunavayir Kottam | Retain the place name in transliteration; used across scans 52–53. |
 
 ## GR1 reconciliation record — scans 1–15
 
@@ -173,6 +192,20 @@ GR3 compared the English records for scans **31–45** against their audited Tam
 - the explicit divinity-label contrast on scan 35 is preserved: `இறைவன்`, `இறை`, `கடவுள்`, `தெய்வம்` may remain **Iraivan / Irai / Kadavul / Deivam** when the Tamil itself distinguishes the words, while ordinary contexts may use natural English such as **God / divine / deity**;
 - source-supported forms **Primordial Being** (`ஆதிபகவன்`) and **Vaal-arivan** (`வாலறிவன்`) were recorded without importing wording from an external Kural edition;
 - the source's Kural metadata convention `அதிகாரம் / பாடல்` is controlled as **Chapter / Kural**, and the chapter labels actually encountered in scans 35–44 were recorded: **Praise of God**, **Domestic Life**, **Lamenting at the Sight of Evening**, **The Blessing of Children**, **Education**, **Realization of Truth**, and **Reading the Sign**;
+- no standard/published/web English Kural translation wording was imported.
+
+## GR4 reconciliation record — scans 46–60
+
+GR4 compared the English records for scans **46–60** against their audited Tamil context and the GR3-controlled glossary.
+
+- scans **46–60** — terminology reconciliation PASS;
+- two English page terminology corrections were required:
+  - scan **52**: `செங்குட்டுவன்` was reconciled from **Chenguttuvan** to the existing controlled form **Senguttuvan**, including the visual note and prose occurrences;
+  - scan **59**: the explicit source honorific `புரட்சிக் கவிஞர் பாரதிதாசன்` was reconciled from descriptive **“the revolutionary poet Bharathidasan”** to the controlled form **Puratchi Kavignar Bharathidasan**, matching scans 19 and 30;
+- `உரை` was refined to allow **interpretation** as well as **commentary** in Kural-exegesis contexts, reflecting the palanquin discussion on scan 51 without flattening event/speech uses;
+- source-supported conceptual/object controls `அறம்` → **virtue / virtuous conduct**, `பாவம் / புண்ணியம்` → **sin / merit**, and `பல்லக்கு / சிவிகை` → **palanquin** were recorded from scans 50–51;
+- source-supported forms **Ilango Adigal**, **Imayavaramban Nedunjeralathan** and **Gunavayir Kottam** were added from scans 52–53;
+- chapter labels actually encountered in scans 47–59 were recorded: **Firmness in Action**, **The Agony of Solitary Love**, **The Insistence on Virtue**, **Praising Her Beauty**, **The Joy of Union**, **Internal Enmity**, **The Excellence of Rain**, and **The Worth of a Life-Partner**;
 - no standard/published/web English Kural translation wording was imported.
 
 ## Review rule
