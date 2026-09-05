@@ -95,35 +95,52 @@ Result:
 
 - scans **1–12** — PASS and promoted from `source-checked` to `editorial-reviewed`;
 - scans **13–15** — PASS within securely established material and remain `source-limited` because their handwritten/facsimile bodies cannot be established word-for-word;
-- editorial-review coverage: **15 / 111 scans**;
 - two source-faithful readability refinements were required:
-  - scan **5**: **“Amid the social community of Tamil land as it existed two thousand years ago...”** was refined to **“In the midst of Tamil society as it existed two thousand years ago...”**, matching audited Tamil `இரண்டாயிரம் ஆண்டுகட்கு முன்பு உருவாகியிருந்த தமிழ் நிலத்துச் சமுதாயக் குழுவின் நடுவிலே` without changing meaning;
-  - scan **6**: the awkward **“six-month rigorous-imprisonment prisoner...”** construction was refined to **“serving six months of rigorous imprisonment in Tiruchirappalli prison because of the Kallakudi protest”**, preserving audited Tamil `ஆறுமாதக் கடுங்காவல் கைதியாக...`;
+  - scan **5**: **“Amid the social community of Tamil land as it existed two thousand years ago...”** was refined to **“In the midst of Tamil society as it existed two thousand years ago...”**;
+  - scan **6**: the awkward **“six-month rigorous-imprisonment prisoner...”** construction was refined to **“serving six months of rigorous imprisonment in Tiruchirappalli prison because of the Kallakudi protest”**;
 - scans **1–4 and 7–12** required no body-text change beyond status promotion;
 - scan 3 source-visible printed English **“Nineth Edition”** remains intentionally preserved rather than silently normalized;
 - scans 13–15 were not reconstructed;
 - no standard/published/web English Kural wording was imported.
 
-## Current English page statuses after ER1
+### ER2 — scans 16–30 — COMPLETE
 
-- `editorial-reviewed`: **12**;
-- `source-checked`: **95**;
+Result:
+
+- scans **16–18 and 20–30** — PASS and promoted from `source-checked` to `editorial-reviewed`;
+- scan **19** — PASS within securely established material and remains `source-limited`; its washed-out Tamil gap was not reconstructed;
+- four source-faithful readability refinements were made:
+  - scan **20**: restructured the awkward twentieth-century Kalaignar / “re-edition of Valluvar” sentence so the English now reads naturally while preserving `“வள்ளுவரை உணர்ந்த கலைஞன் நான்”` and the source comparison;
+  - scan **21**: **“All our efforts are efforts of the manuscript”** was refined to **“All our efforts are efforts on the page”**, retaining the source contrast `ஏட்டு முயற்சி / எண்ண முயற்சி` with **“efforts of thought”**;
+  - scan **24**: streamlined the Valluvar Kottam versus *Kuraloviyam* durability comparison and the sentence describing the method by which the Kural takes firm hold in every heart, without adding new interpretation;
+  - scan **28**: restructured the interrupted clause around **“every picture he has written”** so Saavi's praise of Kalaignar's little-story telling reads naturally without changing the source claim;
+- scans **16–18, 22–23, 25–27 and 29–30** required no body-text change beyond status promotion;
+- the scan **26→27** physical continuation from new poetry to traditional poetry remains preserved;
+- scan **26** source form `கொளவு` remains represented as *kolavu*; it was not silently normalized;
+- no source-limited material was reconstructed;
+- no standard/published/web English Kural wording was imported.
+
+## Current English page statuses after ER2
+
+- `editorial-reviewed`: **26**;
+- `source-checked`: **81**;
 - `source-limited`: **4** — scans 13, 14, 15, 19;
 - `draft`: **0**;
 - `release-ready`: **0**.
+
+Editorial-review coverage: **30 / 111 scans**.
 
 Source-limited records remain source-limited even after editorial review within available evidence.
 
 ## Exact next activity
 
-Proceed with **Part 001 editorial consistency review ER2 — scans 16–30**, exactly **15 consecutive scans**.
+Proceed with **Part 001 editorial consistency review ER3 — scans 31–45**, exactly **15 consecutive scans**.
 
 - review English readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity;
 - use audited Tamil records whenever needed to ensure editorial changes do not alter source meaning;
 - make only source-faithful editorial improvements; do not add a new commentary or explanatory material absent from the source;
 - do not import standard Thirukkural wording, published English translations, web text, another commentator or memory;
-- scan **19** remains `source-limited`; review only securely established material and do not reconstruct its washed-out Tamil gap;
-- passing non-limited scans **16–18 and 20–30** may move from `source-checked` to `editorial-reviewed`;
-- update frontier documents and audit the exact pre-batch base→head changed-file set before advancing to ER3.
+- passing scans **31–45** may move from `source-checked` to `editorial-reviewed`;
+- update frontier documents and audit the exact pre-batch base→head changed-file set before advancing to ER4.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
