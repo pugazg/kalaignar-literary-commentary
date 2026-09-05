@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -17,6 +17,6 @@ Large colour illustration of a couple embracing on a bed, directly above the pro
 
 A physician gives an injection; pain is felt in the body. But the medicine that enters the body through that needle greatly helps to cure the illness. The physician has a needle that causes pain; within it is also the medicine that removes the pain of disease!
 
-Here Thiruvalluvar introduces a physician through a Kural! Look. The beautiful woman looks at the handsome man. He describes that gaze. This maiden has two kinds of look: with one look she causes him pain; with the next she removes that pain. Listen to the special quality of the gaze of this strange medical woman in Valluvar’s own words:
+Here Thiruvalluvar introduces a physician through a Kural! Look. The beautiful woman looks at the handsome man. He describes that gaze. This maiden has two kinds of look: with one look she causes him pain; with the next she removes that pain. Listen to Valluvar himself describe the special quality of this unusual woman physician’s gaze:
 
 <!-- Source scan page: 43; printed page: 26 -->
