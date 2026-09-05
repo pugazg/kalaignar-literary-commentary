@@ -8,7 +8,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
-| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; English source-check **111/111 complete**; glossary reconciliation through scan 15 |
+| 001 | 1–111 | supplied — `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | **Tamil archival-ready / closed**; English first-pass **111/111 complete**; English source-check **111/111 complete**; glossary reconciliation through scan 30 |
 | 002 | 112–222 | not yet supplied | not-started |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
@@ -88,18 +88,21 @@ No unreadable source material was reconstructed and no external/standard English
 ## Glossary / recurring-terminology reconciliation
 
 - **GR1 / scans 1–15 — COMPLETE**;
-- all fifteen records were compared against their audited Tamil context and `translations/en/GLOSSARY.md`;
-- English page wording changes required solely for GR1 consistency: **none**;
-- `GLOSSARY.md` was expanded only with source-supported terms/names actually encountered in scans 1–15, including the deliberate distinctions `அணிந்துரை` / `மதிப்புரை` → **Foreword / Critical Appreciation** and `இன்பத்துப்பால்` / `காமத்துப்பால்` → **Book of Inbam / Book of Love**;
-- scans 13–15 remain source-limited and no handwritten terminology was inferred;
-- glossary reconciliation coverage: **15 / 111 scans**.
+- **GR2 / scans 16–30 — COMPLETE**;
+- glossary reconciliation coverage: **30 / 111 scans**;
+- GR2 recorded `பதிப்புரை` → **Publisher's Note**, `உரையாசிரியர்` → **commentator**, context-aware `உரை`, literary/prosodic terms from scans 16–30, and source-supported speaker/name forms;
+- the user-confirmed `பதவுரை` → **word-by-word explanation** clarification was applied to the glossary and existing English scans 4–5;
+- scan 17's `அறத்துப்பால், பொருட்பால், காமத்துப்பால்` was reconciled to **the Book of Aram, the Book of Porul and the Book of Love**;
+- scan 30's explicit `புரட்சிக் கவிஞர் பாரதிதாசன்` was reconciled to **Puratchi Kavignar Bharathidasan**, matching scan 19;
+- scan 19 remains source-limited and no terminology was inferred from its washed-out gap;
+- glossary reconciliation does not change page review status.
 
 # Current frontier
 
 **Tamil Part 001: archival-ready / closed.**
 
-**English Part 001: first-pass drafting COMPLETE; source-check COMPLETE; glossary reconciliation complete through scan 15.**
+**English Part 001: first-pass drafting COMPLETE; source-check COMPLETE; glossary reconciliation complete through scan 30.**
 
-Exact next activity: **glossary / recurring-terminology reconciliation GR2 — scans 16–30**, exactly 15 consecutive scans. Check controlled names, literary terms, chapter labels, work/publication names and repeated English renderings against the expanded glossary and audited Tamil context. This gate does not itself promote pages to `editorial-reviewed`; scan 19 remains `source-limited`.
+Exact next activity: **glossary / recurring-terminology reconciliation GR3 — scans 31–45**, exactly 15 consecutive scans. Check controlled names, literary terms, chapter labels, work/publication names and repeated English renderings against the expanded glossary and audited Tamil context. This gate does not itself promote pages to `editorial-reviewed`.
 
 Do not begin Part 002 until Part 001 English/final closure is complete and the Part 002 source is supplied.
