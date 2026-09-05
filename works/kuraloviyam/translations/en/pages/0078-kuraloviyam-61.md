@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -17,7 +17,7 @@ Large colour illustration above the prose showing a pair of tearful eyes, with a
 
 She lay on a bed of silver sand like a spotted peahen. From afar he saw the figure of her resting there. The sight, pouring sweetness into his heart, made him praise and bless the eyes that had given him that vision.
 
-In the cool breeze he felt a warmth of sensation mingled in. For a moment he became like a statue. When awareness returned, he moved. Then the moon-like maiden was no longer there. She had gone.
+In the cool breeze he felt a warm thrill mingling in. For a moment he became like a statue. When awareness returned, he moved. Then the moon-like maiden was no longer there. She had gone.
 
 His heart throbbed and grew heavy. “Alas! Why did I look upon this beauty? If I had not seen her, there would have been no need to suffer like this,” he lamented.
 
