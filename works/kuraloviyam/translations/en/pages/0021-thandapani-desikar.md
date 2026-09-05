@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Maha Vidwan Dandapani Desikar"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains authoritative"
 ---
@@ -19,7 +19,7 @@ An artist who creates an epic or a painting must always be able to carry it thro
 
 I see Kalaignar carrying this painting forward in a very beautiful manner, without letting its flavour diminish. This book has produced wonder even in me—why do I say even in me? Because I am one who knows how to savour—and I have also received the opportunity to praise it.
 
-If Kalaignar were to paint pictures for all the other Kurals as well, I believe it would benefit everyone. All our efforts are efforts of the manuscript; all his efforts are efforts of thought. This effort of thought will triumph; the Tamil people will rise.
+If Kalaignar were to paint pictures for all the other Kurals as well, I believe it would benefit everyone. All our efforts are efforts on the page; all his efforts are efforts of thought. This effort of thought will triumph; the Tamil people will rise.
 
 For a long time, the Thirukkural remained as though it were a possession of scholars. In my twelfth year itself I memorized and recited it together with Parimelazhagar's commentary.
 
