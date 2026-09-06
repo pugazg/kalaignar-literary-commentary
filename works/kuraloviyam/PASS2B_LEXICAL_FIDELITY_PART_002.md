@@ -36,12 +36,31 @@ All Part 002 page records remain `status: "needs-review"` and `visual_fidelity: 
 
 Batch 1 corrections were therefore required on scans **113, 114, 115 and 118**. Scans **112, 116, 117, 119, 120 and 121** required no new lexical correction.
 
+## Batch 2 — overall scans 122–131 / printed pages 105–114
+
+**Status: COMPLETE — 10 / 10 scans independently re-read against freshly rendered source pages for Pass 2B.**
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 122 | 105 | independent word-level re-read complete across the merchant/rest-house continuation, dialogue and 122→123 continuation boundary; no new correction required |
+| 123 | 106 | independently confirmed the merchant/rest-house conclusion, Kural 510, lineation, Chapter 51 / பாடல் metadata and printed monument/chariot motif separation; no new correction required |
+| 124 | 107 | independent word-level re-read complete across the illustrated young-woman/heart vignette opening and continuation into scan 125; no new correction required |
+| 125 | 108 | independently confirmed the full young-woman/heart continuation, dialogue, Kural 1291, lineation and Chapter 130 / பாடல் metadata; no new correction required |
+| 126 | 109 | independent word-level re-read complete across the illustrated Gandhi-vignette opening, uncommon compounds and continuation into scan 127; no new correction required |
+| 127 | 110 | independently confirmed the Gandhi-vignette conclusion, both quoted Kural material, Kural 828, lineation and Chapter 83 / பாடல் metadata; no new correction required |
+| 128 | 111 | independent word-level re-read complete across the illustrated sneezing/lovers vignette opening and sentence continuation into scan 129; no new correction required |
+| 129 | 112 | independently confirmed both sneezing/ஊடல் episodes, Kurals 1317 and 1312, lineation and Chapter 132 / பாடல்கள் metadata; no new correction required |
+| 130 | 113 | independent word-level re-read complete across the illustrated elderly-man/public-meeting opening and continuation into scan 131; no new correction required |
+| 131 | 114 | independently confirmed the public-meeting conclusion, dialogue, Kural 100, lineation and Chapter 10 / பாடல் metadata; vignette closes cleanly; no new correction required |
+
+Batch 2 required **no new lexical corrections**. All scans **122–131** match the freshly rendered controlling source at the Pass 2B lexical-fidelity gate.
+
 ## Coverage
 
-Pass 2B coverage: **10 / 111 scans**, overall scans **112–121 / printed 95–104**.
+Pass 2B coverage: **20 / 111 scans**, overall scans **112–131 / printed 95–114**.
 
-Remaining Pass 2B: **101 scans**.
+Remaining Pass 2B: **91 scans**.
 
-Exact next batch: **overall scans 122–131 / printed pages 105–114**.
+Exact next batch: **overall scans 132–141 / printed pages 115–124**.
 
 Do not promote Part 002 records to final `verified` during Pass 2B. Do not start Pass 3 until Pass 2B covers the whole Part, and do not begin Part 003 before Part 002 is fully closed.
