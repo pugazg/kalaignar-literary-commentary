@@ -58,29 +58,36 @@ Important boundary: **199→200** is clean.
 
 Scans **200–210 / printed 183–193** captured as 11 page-aligned Tamil records.
 
+Important boundary: **210→211** is clean.
+
+## P2-10 — COMPLETE
+
+Scans **211–221 / printed 194–204** captured as 11 page-aligned Tamil records.
+
 All Part 002 Pass-1 records remain:
 
 - `status: "needs-review"`
 - `visual_fidelity: "needs-review"`
 
-Source units observed in P2-09:
+Source units observed in P2-10:
 
-- scans **200–201 / printed 183–184** — lovers/embrace vignette; Chapter 111 / Kural 1108;
-- scans **202–204 / printed 185–187** — battlefield/war-elephant vignette; scan 203 is illustration-only; Chapter 78 / Kural 774;
-- scans **205–206 / printed 188–189** — `அலர்` / gossip vignette; Chapter 115 / Kural 1148;
-- scans **207–208 / printed 190–191** — battlefield command/courage vignette; Chapter 78 / Kurals 776, 775;
-- scans **209–210 / printed 192–193** — separation/tear-flood vignette; Chapter 117 / Kural 1170.
+- scans **211–212 / printed 194–195** — enemy-siege/treachery and mercy vignette; Chapter 21 / Kural 203;
+- scans **213–214 / printed 196–197** — பூங்குழலி waiting / இனியவள் disguise vignette; Chapter 130 / Kural 1297;
+- scans **215–216 / printed 198–199** — warrior departure, battlefield death and commander's tears vignette; Chapter 78 / Kural 780;
+- scans **217–218 / printed 200–201** — domestic meal / salt analogy / `ஊடல்` vignette; scan 218 carries a blue circular library stamp; Chapter 131 / Kural 1302;
+- scans **219–220 / printed 202–203** — dying veteran / abandoned friendship vignette; Chapter 80 / Kural 799;
+- scan **221 / printed 204** — new pastoral / ஆயர்குடி vignette begins and continues directly to scan 222.
 
-Scan **211 / printed 194** was inspected only as the closing boundary witness. It begins a new illustrated sword/warriors vignette, so **210→211 is a clean source boundary**.
+Scan **222 / printed 205** was inspected only as the P2-10 closing boundary witness. It continues the pastoral/ஆயர்குடி vignette from scan 221 and closes it with Chapter 128 / Kural 1275, so **221→222 is a genuine source continuation**.
 
 No standard/published/web Kural wording, another edition, OCR guess, or memory was used to fill uncertain readings.
 
 ## Current Pass 1 coverage
 
-**99 / 111 scans complete** — overall scans **112–210 / printed 95–193**.
+**110 / 111 scans complete** — overall scans **112–221 / printed 95–204**.
 
 ## Next activity
 
-**P2-10 — overall scans 211–221 / printed 194–204.**
+Process the **final Part 002 Pass 1 remainder — scan 222 / printed 205**.
 
-Begin scan 211 at the confirmed clean 210→211 source boundary. Inspect scan 222 only as the closing boundary witness when needed.
+Begin scan 222 as the confirmed continuation from scan 221. After its page record is captured, synchronize Part 002 Pass 1 to **111/111 complete** and then proceed only to the next Part 002 verification gate; do not begin Part 003.
