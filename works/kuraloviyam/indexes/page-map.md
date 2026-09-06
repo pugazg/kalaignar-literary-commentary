@@ -7,7 +7,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
-| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **source intake complete; Pass 1 COMPLETE 111/111; Pass 2A ACTIVE 103/111** |
+| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **source intake complete; Pass 1 COMPLETE 111/111; Pass 2A COMPLETE 111/111; Pass 2B NEXT** |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
@@ -38,7 +38,7 @@ Part 001 contains **111 / 111 page-aligned records** under `../pages/`.
 | 29 | `டாக்டர் மெ.சுந்தரம்`, printed 12 | verified |
 | 30 | `டாக்டர் மா.நன்னன்`, printed 13 | verified |
 | 31 | `கலைஞர் ஏற்புரை`, printed 14 | verified |
-| 32 | unnumbered section-title leaf `கலைஞரின் குறளோவியம்` | verified |
+| 32 | unnumbered section-title leaf `கலைஞரின் / குறளோவியம்` | verified |
 | 33 | intentionally blank source-side page; reverse bleed-through excluded; printed 16 | verified |
 | 34–111 | main `கலைஞரின் குறளோவியம்` illustrated/body sequence, printed 17–94 | verified |
 
@@ -133,6 +133,7 @@ Pass 1 contains **111 page-aligned records**, scans **112–222 / printed 95–2
 - scan **222 / printed 205** closes the pastoral/ஆயர்குடி vignette and is the final physical scan of Part 002.
 
 Durable Pass 2A record: `../PASS2_TEXTUAL_VERIFICATION_PART_002.md`.
+Pass 2B precedent: `../PASS2B_LEXICAL_FIDELITY_PART_001.md`; Part 002 will use the same independent lexical-fidelity gate.
 
 ## Verification gates
 
@@ -142,14 +143,14 @@ Part 002:
 
 - source intake — **COMPLETE**;
 - Pass 1 — **COMPLETE, 111/111**;
-- Pass 2A — **ACTIVE, 103/111**, scans **112–214 / printed 95–197** complete;
-- Pass 2B — not started;
+- Pass 2A — **COMPLETE, 111/111**, scans **112–222 / printed 95–205**;
+- Pass 2B — **NEXT, 0/111**;
 - Pass 3 — not started.
 
 ## Current frontier
 
 **Part 001: CLOSED.**
 
-**Part 002: ACTIVE — Pass 2A complete through scan 214 / printed 197, 103/111.**
+**Part 002: ACTIVE — Pass 2A COMPLETE 111/111. Pass 2B is the next gate.**
 
-Exact next activity: **Part 002 Pass 2A direct textual verification, final batch scans 215–222 / printed 198–205**. Scan 215 has been inspected only as the boundary witness and begins the warrior-departure / battlefield-death vignette. This 8-scan range preserves complete paired blocks through the final physical scan 222. Final `verified` remains unavailable after Pass 2A; the next phase is Pass 2B, followed by Pass 3, the Part audit and final synchronization.
+Exact next activity: **Part 002 Pass 2B independent lexical-fidelity re-read, scans 112–121 / printed 95–104**. Independently re-read every source-visible printed word against the rendered source, with special attention to `ர/ற`, `ன/ண`, `ல/ள/ழ`, vowel signs, compound letters, source-visible joining/spacing, old or uncommon forms, names, quotations and Kural text. Correct only source-supported discrepancies. Final `verified` remains unavailable until Pass 2B, Pass 3, the Part audit and final synchronization close. Do not begin Part 003.
