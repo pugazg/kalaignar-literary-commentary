@@ -52,40 +52,41 @@ Workflow boundaries are not textual boundaries.
 - P2-05 / scans **156–166** — COMPLETE
 - P2-06 / scans **167–177** — COMPLETE
 - P2-07 / scans **178–188** — COMPLETE
+- P2-08 / scans **189–199** — COMPLETE
 
-Current Pass 1 coverage: **77 / 111 scans**, overall **112–188 / printed 95–171**.
+Current Pass 1 coverage: **88 / 111 scans**, overall **112–199 / printed 95–182**.
 
 All Part 002 page records remain:
 
 - `status: "needs-review"`;
 - `visual_fidelity: "needs-review"`.
 
-P2-07 captured:
+P2-08 captured:
 
-- 178 — closes the love/separation-night vignette from scans 176–177; Chapter 117 / Kurals 1168, 1169;
-- 179–180 — king/minister/two-spies; Chapter 63 / Kural 621 and Chapter 59 / Kural 588;
-- 181–183 — moonlit-seaside lovers; Chapter 132 / Kural 1316;
-- 184–186 — flood/rescue and human effort; Chapter 38 / Kural 380 and Chapter 62 / Kural 620;
-- 187–188 — separation/evening; Chapter 123 / Kural 1222.
+- 189–190 — snake/Muthuvelar autobiographical vignette; Chapter 63 / Kural 622;
+- 191–192 — lovers / `ஊடல்`; Chapter 133 / Kurals 1321, 1323;
+- 193–194 — Kumanan/Saathanaar generosity; Chapter 23 / Kural 230;
+- 195–196 — returning warrior / maiden; Chapter 109 / Kurals 1088, 1087, 1082;
+- 197–199 — praise/reversal vignette; Chapter 63 / Kural 629.
 
 Important continuity:
 
-- **177→178** is a genuine continuation and was preserved;
-- scan **189 / printed 172** was inspected only as the P2-07 closing boundary witness;
-- **188→189 is a clean source boundary** and scan 189 begins a new illustrated household vignette.
+- **188→189** is a clean source boundary and was preserved;
+- scan **200 / printed 183** was inspected only as the P2-08 closing boundary witness;
+- **199→200 is a clean source boundary** and scan 200 begins a new illustrated lovers vignette.
 
 ## Exact next activity
 
-Execute **P2-08 / Part 002 Pass 1, overall scans 189–199 / printed pages 172–182**.
+Execute **P2-09 / Part 002 Pass 1, overall scans 200–210 / printed pages 183–193**.
 
 1. fetch live `main` and preserve newer durable work;
 2. read `works/kuraloviyam/HANDOVER.md`, `works/kuraloviyam/README.md`, `works/kuraloviyam/PART_002_PASS1_PROGRESS.md`, `works/kuraloviyam/indexes/page-map.md`, `works/kuraloviyam/metadata/source.md`, and `works/kuraloviyam/metadata/transcription-policy.md`;
-3. begin scan 189 at the confirmed clean 188→189 source boundary;
-4. process exactly scans **189–199** source-first;
+3. begin scan 200 at the confirmed clean 199→200 source boundary;
+4. process exactly scans **200–210** source-first;
 5. capture visible Tamil wording, Kural/chapter metadata, page function, images/non-body marks and continuations;
 6. keep Pass 1 records `needs-review`; do not silently verify them;
 7. do not reconstruct uncertain readings from OCR, context, another edition, standard Kural text, web material or memory;
-8. inspect scan **200** only as a closing boundary witness when needed;
-9. commit the batch and update the next frontier to **200–210**.
+8. inspect scan **211** only as a closing boundary witness when needed;
+9. commit the batch and update the next frontier to **211–221**.
 
 Part 003 must not begin until Part 002 is fully closed.
