@@ -7,7 +7,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
-| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **source intake complete; Pass 1 COMPLETE 111/111; Pass 2A COMPLETE 111/111; Pass 2B ACTIVE 20/111** |
+| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **source intake complete; Pass 1 COMPLETE 111/111; Pass 2A COMPLETE 111/111; Pass 2B ACTIVE 30/111** |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
@@ -145,13 +145,13 @@ Part 002:
 - source intake — **COMPLETE**;
 - Pass 1 — **COMPLETE, 111/111**;
 - Pass 2A — **COMPLETE, 111/111**, scans **112–222 / printed 95–205**;
-- Pass 2B — **ACTIVE, 20/111**, scans **112–131 / printed 95–114** complete;
+- Pass 2B — **ACTIVE, 30/111**, scans **112–141 / printed 95–124** complete;
 - Pass 3 — not started.
 
 ## Current frontier
 
 **Part 001: CLOSED.**
 
-**Part 002: ACTIVE — Pass 2A COMPLETE 111/111; Pass 2B ACTIVE 20/111.**
+**Part 002: ACTIVE — Pass 2A COMPLETE 111/111; Pass 2B ACTIVE 30/111.**
 
-Exact next activity: **Part 002 Pass 2B independent lexical-fidelity re-read, scans 132–141 / printed 115–124**. Independently re-read every source-visible printed word against freshly rendered source pages, with special attention to `ர/ற`, `ன/ண`, `ல/ள/ழ`, vowel signs, compound letters, source-visible joining/spacing, old or uncommon forms, names, quotations, Kural text, punctuation, paragraph/quotation boundaries and printed `அதிகாரம்` / பாடல் metadata. Correct only source-supported discrepancies. Final `verified` remains unavailable until Pass 2B, Pass 3, the Part audit and final synchronization close. Do not begin Part 003.
+Exact next activity: **Part 002 Pass 2B independent lexical-fidelity re-read, scans 142–152 / printed 125–135**. Independently re-read every source-visible printed word against freshly rendered source pages, with special attention to `ர/ற`, `ன/ண`, `ல/ள/ழ`, vowel signs, compound letters, source-visible joining/spacing, old or uncommon forms, names, quotations, Kural text, punctuation, paragraph/quotation boundaries and printed `அதிகாரம்` / பாடல் metadata. Correct only source-supported discrepancies. Final `verified` remains unavailable until Pass 2B, Pass 3, the Part audit and final synchronization close. Do not begin Part 003.
