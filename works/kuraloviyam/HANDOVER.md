@@ -110,7 +110,25 @@ Corrections:
 
 Scans **126** and **128** required no textual correction. Printed Kural wording/lineation and `அதிகாரம்` / பாடல் metadata were checked directly. Continuity from **121→122→123** was confirmed. Scan 131 closes its vignette cleanly.
 
-Current Pass 2A coverage: **20 / 111 scans**, overall scans **112–131 / printed 95–114**.
+### Batch 3 — COMPLETE
+
+Overall scans **132–141 / printed 115–124** directly compared against the rendered source.
+
+Corrections:
+
+- scan **132**: `வளைந்து நடப்பதும்` → `வளைந்து நடப்பதிலும்`;
+- scan **133**: `அப்படிப்பா!` → `அப்பப்பா!`;
+- scan **134**: `எண்ணெயும் எழுத்தையும்` → `எண்ணையும் எழுத்தையும்`;
+- scan **135**: restored source-visible court-music readings including `வாணனும்`, `பொன்னுருக்கிய தட்டுக்களில்`, `முத்தாரமொன்றை இசைப்புலவனின் கழுத்தில்`, the singer quotation beginning `மண்டிலமாளும் மன்னர் மன்னவ!`, and the closing `வகைவகையான தினிகளுக்காக ... செந்தமிழ் இசைகேட்கச் செவியைத் திறந்தானில்லை` prose;
+- scan **136**: `அவன் இளவரசி` → `அவள் இளவரசி`; `தயார்படுத்தினான்` → `தயார்ப்படுத்தினான்`;
+- scan **137**: restored `சிறை பெடுத்துச் செல்லப்பட்ட`, `கொலைக்களம் கொண்டுசென்று`, `நமது நாட்டுப் படைகளுடன்`, and `கொலையாளிகள் சிறைப்பட்டனர்`;
+- scan **138**: restored multiple source-visible night/owl readings including `காட்சியாக்கி`, `இடையிடையே`, `கேட்கவண்ணமிருந்தது`, `கிளம்பும்போது மட்டும்`, `சற்றுத்`, `கால்களைக்`, `வண்ண வண்ண`, and `வலிவற்றவை`;
+- scan **139**: restored source punctuation `கொண்டன:-` / `உறுமிற்று.`, corrected `ஓரே` → `ஒரே`, and `வெற்றி பெற்றான்` → `வெற்றி பெற்றார்கள்`;
+- scan **141**: restored `காதலியின் நெஞ்சம் அவள் காதலனைத் தேடிச் செல்கிறதாம்`, `கண்கள், அவளைப் பிடுங்கித் தின்கின்றனவாம்`, and `செல்!` → `செல்க!`.
+
+Scan **140** required no textual correction. Printed Kural wording/lineation and `அதிகாரம்` / பாடல் metadata were checked directly throughout the batch. Scan **141** closes the vignette cleanly.
+
+Current Pass 2A coverage: **30 / 111 scans**, overall scans **112–141 / printed 95–124**.
 
 This is Pass 2A only. Page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`; final `verified` is unavailable until Pass 2B, Pass 3, Part audit and final synchronization close.
 
@@ -118,15 +136,15 @@ This is Pass 2A only. Page records remain `status: "needs-review"` / `visual_fid
 
 Continue **Part 002 Pass 2A — direct textual verification**.
 
-Next verification batch: **overall scans 132–141 / printed pages 115–124**.
+Next verification batch: **overall scans 142–152 / printed pages 125–135**.
 
 1. fetch live `main`;
 2. resolve the same controlling Part 002 source;
-3. inspect rendered scans **132–141** directly;
+3. inspect rendered scans **142–152** directly;
 4. fetch the corresponding existing page records before changing them;
 5. compare every source-visible printed word, punctuation, paragraph boundary, Kural lineation and printed `அதிகாரம்` / பாடல் metadata directly against the source;
 6. correct only source-supported discrepancies; do not normalize or replace this edition's wording with standard Kural text;
 7. append the results to `PASS2_TEXTUAL_VERIFICATION_PART_002.md` and advance the exact next frontier;
 8. keep final `verified` unavailable until Pass 2B and Pass 3 also close.
 
-Scan 131 closes its vignette, so scan 132 begins the next vignette cleanly. Part 003 must not begin until Part 002 is fully closed.
+Scan 141 closes its vignette and scan 142 begins the next vignette cleanly. The next batch intentionally runs for 11 scans through scan 152 so the three-page vignette on scans 150–152 is not split by an arbitrary 10-scan workflow boundary. Part 003 must not begin until Part 002 is fully closed.
