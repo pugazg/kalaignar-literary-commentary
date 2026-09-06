@@ -50,41 +50,43 @@ Workflow boundaries are not textual boundaries.
 - P2-03 / scans **134–144** — COMPLETE
 - P2-04 / scans **145–155** — COMPLETE
 - P2-05 / scans **156–166** — COMPLETE
+- P2-06 / scans **167–177** — COMPLETE
 
-Current Pass 1 coverage: **55 / 111 scans**, overall **112–166 / printed 95–149**.
+Current Pass 1 coverage: **66 / 111 scans**, overall **112–177 / printed 95–160**.
 
 All Part 002 page records remain:
 
 - `status: "needs-review"`;
 - `visual_fidelity: "needs-review"`.
 
-P2-05 captured:
+P2-06 captured:
 
-- 156–157 — crowd/knife and critical inquiry; Chapter 43 / Kural 423;
-- 158–159 — Maavengko/Maangani separation; Chapter 116 / Kural 1151;
-- 160–161 — elephant / terrain / strength; Chapter 50 / Kural 500;
-- 162–163 — Malaiyan/Silamban/Kalingan slander; Chapter 19 / Kural 188;
-- 164–165 — one-sided love / kavadi; Chapter 120 / Kural 1196;
-- 166 — medical/valor vignette begins.
+- 167 — closes the medical/valor vignette begun on 166; Chapter 62 / Kural 614;
+- 168–169 — love/heart vignette; Chapter 130 / Kural 1293;
+- 170–171 — Socrates/prison/poison vignette; Chapter 58 / Kural 580;
+- 172–173 — lovers/separation vignette; Chapter 128 / Kural 1280;
+- 174–175 — battlefield/war-elephant vignette; Chapter 60 / Kural 597;
+- 176 — new love/separation-night vignette begins;
+- 177 — full-page illustration only for the same vignette.
 
 Important continuity:
 
-- **155→156** is a clean source boundary;
-- scan **167 / printed 150** was inspected only as the P2-05 closing boundary witness;
-- **166→167 is a genuine narrative continuation**; scan 167 continues the same medical/valor vignette and later closes with Chapter 62 / Kural 614.
+- **166→167** is a genuine continuation and was preserved;
+- scan **178 / printed 161** was inspected only as the P2-06 closing boundary witness;
+- **177→178 is a genuine narrative continuation** and scan 178 must continue the same love/separation-night vignette.
 
 ## Exact next activity
 
-Execute **P2-06 / Part 002 Pass 1, overall scans 167–177 / printed pages 150–160**.
+Execute **P2-07 / Part 002 Pass 1, overall scans 178–188 / printed pages 161–171**.
 
 1. fetch live `main` and preserve newer durable work;
 2. read `works/kuraloviyam/HANDOVER.md`, `works/kuraloviyam/README.md`, `works/kuraloviyam/PART_002_PASS1_PROGRESS.md`, `works/kuraloviyam/indexes/page-map.md`, `works/kuraloviyam/metadata/source.md`, and `works/kuraloviyam/metadata/transcription-policy.md`;
-3. begin scan 167 as continuation of scan 166's medical/valor vignette;
-4. process exactly scans **167–177** source-first;
+3. begin scan 178 as continuation of the love/separation-night vignette from scans 176–177;
+4. process exactly scans **178–188** source-first;
 5. capture visible Tamil wording, Kural/chapter metadata, page function, images/non-body marks and continuations;
 6. keep Pass 1 records `needs-review`; do not silently verify them;
 7. do not reconstruct uncertain readings from OCR, context, another edition, standard Kural text, web material or memory;
-8. inspect scan **178** only as a closing boundary witness when needed;
-9. commit the batch and update the next frontier to **178–188**.
+8. inspect scan **189** only as a closing boundary witness when needed;
+9. commit the batch and update the next frontier to **189–199**.
 
 Part 003 must not begin until Part 002 is fully closed.
