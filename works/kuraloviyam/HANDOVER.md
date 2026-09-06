@@ -50,7 +50,7 @@ Never fill uncertain Tamil from OCR, web text, another edition, standard Kural w
 
 - source intake — COMPLETE;
 - Pass 1 — COMPLETE, **111/111** scans 112–222;
-- Pass 2A — **ACTIVE, 93/111**, scans **112–204 / printed 95–187** complete;
+- Pass 2A — **ACTIVE, 103/111**, scans **112–214 / printed 95–197** complete;
 - Pass 2B — not started;
 - Pass 3 — not started;
 - Part audit — not started.
@@ -68,23 +68,21 @@ Completed Pass 2A batches:
 - Batch 7: 174–183 / 157–166
 - Batch 8: 184–194 / 167–177
 - Batch 9: 195–204 / 178–187
+- Batch 10: 205–214 / 188–197
 
-Batch 8 and Batch 9 details are durable in `PASS2_TEXTUAL_VERIFICATION_PART_002.md`.
-
-Batch 9 required page-record corrections on scans **195, 197, 198, 199**. Scans **196, 200, 201, 202, 203, 204** required no textual correction; scan **203** is illustration-only. Notable source restorations include `மனைவியாட்டி`, `காத்திருக்கமாட்டாள். காரணம்;`, `களம் பல`, `கண்டதுமில்லை`, `தலையெல்லாம்`, `அரங்கில்`, `வரம்பு கடந்து`, `மறைந்திருந்து கேட்டுக் கொண்டனர்`, and `நாடோடி இவன்! ... இவன் மூளையைச் சூளையில்தான் வைக்க வேண்டும்.`
+Batch 10 required a page-record correction only on scan **214**, restoring `மாரியெனப்` from the rendered source in place of `மார்பெனப்`. Scans **205–213** required no textual correction. Chapter / Kural metadata and the paired boundaries were directly checked across all ten scans. Full details are durable in `PASS2_TEXTUAL_VERIFICATION_PART_002.md`.
 
 ## Exact current activity
 
-Continue **Part 002 Pass 2A — direct textual verification** with **overall scans 205–214 / printed pages 188–197**.
+Continue **Part 002 Pass 2A — direct textual verification** with the **final Pass 2A batch, overall scans 215–222 / printed pages 198–205**.
 
-Scan **204 / printed 187** closes its battlefield/war-elephant vignette cleanly. Scan **205 / printed 188** has already been rendered and inspected only as the next boundary witness and begins the `அலர்` / gossip vignette.
+Scan **214 / printed 197** closes the பூங்குழலி / இனியவள் disguise vignette. Scan **215 / printed 198** has already been rendered and inspected only as the next boundary witness; it begins a new warrior-departure / battlefield-death vignette.
 
-The next 10-scan range intentionally keeps complete source blocks together:
+The final 8-scan range intentionally keeps complete source blocks together:
 
-- 205–206 — `அலர்` / gossip vignette; Chapter 115 / Kural 1148;
-- 207–208 — battlefield command/courage vignette; Chapter 78 / Kurals 776, 775;
-- 209–210 — separation/tear-flood vignette; Chapter 117 / Kural 1170;
-- 211–212 — enemy-siege/treachery and mercy vignette; Chapter 21 / Kural 203;
-- 213–214 — பூங்குழலி waiting / இனியவள் disguise vignette; Chapter 130 / Kural 1297.
+- 215–216 — warrior departure / battlefield death; Chapter 78 / Kural 780;
+- 217–218 — domestic meal / salt analogy / `ஊடல்`; Chapter 131 / Kural 1302; scan 218 carries a blue circular library stamp;
+- 219–220 — dying veteran / abandoned friendship; Chapter 80 / Kural 799;
+- 221–222 — pastoral / ஆயர்குடி; Chapter 128 / Kural 1275; **221→222 is a genuine continuation** and scan 222 is Part 002's final physical scan.
 
-For every scan: compare every printed word, punctuation mark, paragraph/quotation boundary, Kural lineation, and printed `அதிகாரம்` / பாடல் metadata directly against the rendered source. Correct only source-supported discrepancies. Keep final `verified` unavailable until Pass 2B and Pass 3 close. Do not begin Part 003.
+For every scan: compare every printed word, punctuation mark, paragraph/quotation boundary, Kural lineation, and printed `அதிகாரம்` / பாடல் metadata directly against the rendered source. Correct only source-supported discrepancies. After scans 215–222 complete, **Pass 2A will be 111/111**, but final `verified` must still remain unavailable; the next phase is Pass 2B, not Part 003.
