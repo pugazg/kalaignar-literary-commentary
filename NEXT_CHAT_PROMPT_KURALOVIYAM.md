@@ -32,40 +32,44 @@ Durable Part 002 controls:
 
 - `works/kuraloviyam/SOURCE_INTAKE_PART_002.md`
 - `works/kuraloviyam/PART_002_PASS1_PROGRESS.md`
+- `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_002.md`
 - `works/kuraloviyam/indexes/page-map.md`
 
 ## Completed Part 002 work
 
 - source intake — COMPLETE
 - Pass 1 / overall scans **112–222** — **COMPLETE, 111/111**
+- Pass 2A Batch 1 / overall scans **112–121 / printed 95–104** — **COMPLETE, 10/111 total Pass 2A coverage**
+
+Pass 2A Batch 1 made only these source-supported page-record corrections:
+
+- scan **113**: `காமத்துப்பால் வாழ்வாக` → `காமத்துப்பால் வாயிலாக`;
+- scan **115**: `அடடே!` → `அடேடே!`;
+- scan **120**: `அவன் மன்னித்து` → `அவள் மன்னித்து`.
+
+The other seven scans required no textual correction. Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata were checked directly. Scan 118's blue circular library stamp remains separate from printed prose.
 
 All Part 002 page records remain:
 
 - `status: "needs-review"`;
 - `visual_fidelity: "needs-review"`.
 
-That is intentional. Pass 1 is physical capture/transcription only; final textual verification is unavailable until Pass 2A, Pass 2B and Pass 3 have been completed as required.
-
-Final Pass-1 continuity:
-
-- **210→211** is clean;
-- **221→222** is a genuine source continuation;
-- scan **222 / printed 205** closes the pastoral/ஆயர்குடி vignette begun on scan 221 with Chapter 128 / Kural 1275;
-- scan 222 is the final physical scan of Part 002.
+That is intentional. Pass 2A alone does not permit final `verified`; Pass 2B, Pass 3, Part audit and final synchronization remain pending.
 
 ## Exact next activity
 
-Begin **Part 002 Pass 2A — direct textual verification**.
+Continue **Part 002 Pass 2A — direct textual verification**.
 
-First batch: **overall scans 112–121 / printed pages 95–104**.
+Next batch: **overall scans 122–131 / printed pages 105–114**.
 
 1. fetch live `main` and preserve newer durable work;
-2. read `KURALOVIYAM_ARCHIVAL_GUIDELINES.md`, `works/kuraloviyam/HANDOVER.md`, `works/kuraloviyam/README.md`, `works/kuraloviyam/PART_002_PASS1_PROGRESS.md`, `works/kuraloviyam/indexes/page-map.md`, `works/kuraloviyam/metadata/source.md`, and `works/kuraloviyam/metadata/transcription-policy.md`;
-3. resolve the same controlling Part 002 PDF and render scans **112–121** directly;
-4. fetch the existing corresponding page records before editing;
-5. compare every source-visible printed word, punctuation, paragraph boundary, Kural lineation and printed `அதிகாரம்` / பாடல் metadata directly against the rendered scan;
-6. correct only source-supported discrepancies; do not normalize spelling or substitute a standard/published/web Kural reading;
-7. this is Pass 2A only — do not assign final `verified` merely because a page has passed this gate;
-8. create/update a durable Part 002 Pass 2A progress record and advance the exact next verification frontier.
+2. read `KURALOVIYAM_ARCHIVAL_GUIDELINES.md`, `works/kuraloviyam/HANDOVER.md`, `works/kuraloviyam/README.md`, `works/kuraloviyam/PART_002_PASS1_PROGRESS.md`, `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_002.md`, `works/kuraloviyam/indexes/page-map.md`, `works/kuraloviyam/metadata/source.md`, and `works/kuraloviyam/metadata/transcription-policy.md`;
+3. resolve the same controlling Part 002 PDF and render scans **122–131** directly;
+4. start scan **122** as the direct continuation from scan 121;
+5. fetch the existing corresponding page records before editing;
+6. compare every source-visible printed word, punctuation, paragraph boundary, Kural lineation and printed `அதிகாரம்` / பாடல் metadata directly against the rendered scan;
+7. correct only source-supported discrepancies; do not normalize spelling or substitute a standard/published/web Kural reading;
+8. append the batch results to `PASS2_TEXTUAL_VERIFICATION_PART_002.md` and advance the exact next verification frontier;
+9. this is Pass 2A only — do not assign final `verified` merely because a page has passed this gate.
 
 Part 003 must not begin until Part 002 is fully closed.

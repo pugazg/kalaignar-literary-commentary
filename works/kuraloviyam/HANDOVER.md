@@ -44,6 +44,7 @@ Durable records:
 
 - `works/kuraloviyam/SOURCE_INTAKE_PART_002.md`
 - `works/kuraloviyam/PART_002_PASS1_PROGRESS.md`
+- `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_002.md`
 - `works/kuraloviyam/indexes/page-map.md`
 
 ## Part 002 Pass 1 — COMPLETE
@@ -80,19 +81,34 @@ Final continuity controls:
 
 No standard/published/web Kural wording, another edition, OCR guess or memory was used to fill uncertain readings.
 
+## Part 002 Pass 2A — ACTIVE
+
+Batch 1 / overall scans **112–121 / printed 95–104** is **COMPLETE: 10 / 111 scans** directly compared against the rendered source.
+
+Source-supported page-record corrections made in Batch 1:
+
+- scan **113 / printed 96**: `காமத்துப்பால் வாழ்வாக` → `காமத்துப்பால் வாயிலாக`;
+- scan **115 / printed 98**: `அடடே!` → `அடேடே!`;
+- scan **120 / printed 103**: `அவன் மன்னித்து` → `அவள் மன்னித்து`.
+
+Scans 112, 114, 116–119 and 121 required no textual correction. Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata in the batch were compared directly. Scan 118's blue circular library stamp remains separate from printed prose. Continuations **117→118**, **119→120** and **121→122** were confirmed.
+
+This is Pass 2A only. Page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`; final `verified` is unavailable until Pass 2B, Pass 3 and final synchronization close.
+
 ## Exact current activity
 
-Proceed with **Part 002 Pass 2A — direct textual verification**.
+Continue **Part 002 Pass 2A — direct textual verification**.
 
-First verification batch: **overall scans 112–121 / printed pages 95–104**.
+Next verification batch: **overall scans 122–131 / printed pages 105–114**.
 
 1. fetch live `main`;
 2. resolve the same controlling Part 002 source;
-3. inspect rendered scans **112–121** directly;
-4. fetch the corresponding existing page records before changing them;
-5. compare wording, punctuation, paragraph boundaries, Kural text and printed `அதிகாரம்` / பாடல் metadata directly against the source;
-6. correct only source-supported discrepancies; do not normalize or replace this edition's wording with standard Kural text;
-7. record Pass 2A progress durably;
-8. keep final `verified` unavailable until Pass 2B and Pass 3 also close.
+3. inspect rendered scans **122–131** directly;
+4. start scan 122 as the direct continuation from scan 121;
+5. fetch the corresponding existing page records before changing them;
+6. compare every source-visible printed word, punctuation, paragraph boundary, Kural lineation and printed `அதிகாரம்` / பாடல் metadata directly against the source;
+7. correct only source-supported discrepancies; do not normalize or replace this edition's wording with standard Kural text;
+8. append the results to `PASS2_TEXTUAL_VERIFICATION_PART_002.md` and advance the exact next frontier;
+9. keep final `verified` unavailable until Pass 2B and Pass 3 also close.
 
 Part 003 must not begin until Part 002 is fully closed.

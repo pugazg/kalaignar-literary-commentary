@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
 | 001 | 1–111 | supplied | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | **intake complete; Pass 1 COMPLETE 111/111; Pass 2A NEXT** |
+| 002 | 112–222 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | **intake complete; Pass 1 COMPLETE 111/111; Pass 2A ACTIVE 10/111** |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
 | 005 | 445–555 | not yet supplied | not-started |
@@ -49,6 +49,7 @@ Durable controls:
 
 - `works/kuraloviyam/SOURCE_INTAKE_PART_002.md`
 - `works/kuraloviyam/PART_002_PASS1_PROGRESS.md`
+- `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_002.md`
 - `works/kuraloviyam/indexes/page-map.md`
 
 ## Part 002 Pass 1 — COMPLETE
@@ -69,12 +70,10 @@ Completed capture cadence:
 - P2-10: **211–221** — COMPLETE
 - final remainder: **222** — COMPLETE
 
-All Part 002 Pass-1 page records remain:
+All Part 002 page records remain:
 
 - `status: "needs-review"`;
 - `visual_fidelity: "needs-review"`.
-
-This is intentional: Pass 1 is physical capture/transcription only and does not constitute final source verification.
 
 Final source continuity:
 
@@ -85,8 +84,22 @@ Final source continuity:
 
 No standard/published/web Kural wording, another edition, OCR guess or memory was used to fill uncertain readings.
 
+## Part 002 Pass 2A — ACTIVE
+
+Batch 1 / overall scans **112–121 / printed pages 95–104** is **COMPLETE: 10 / 111 scans** directly compared against the rendered source.
+
+Source-supported corrections:
+
+- scan **113 / printed 96** — `காமத்துப்பால் வாழ்வாக` → `காமத்துப்பால் வாயிலாக`;
+- scan **115 / printed 98** — `அடடே!` → `அடேடே!`;
+- scan **120 / printed 103** — `அவன் மன்னித்து` → `அவள் மன்னித்து`.
+
+The other seven scans in the batch required no textual correction. Quoted Kural wording/lineation, printed `அதிகாரம்` / பாடல் metadata and the relevant continuations were checked directly. Scan 118's blue circular library stamp remains separate from printed prose.
+
+This is intentionally not a final verification state: Pass 2B, Pass 3, the Part audit and final synchronization remain pending.
+
 ## Current frontier
 
-Exact next activity: **Part 002 Pass 2A — direct textual verification**, starting with overall scans **112–121 / printed pages 95–104**.
+Exact next activity: continue **Part 002 Pass 2A — direct textual verification** with overall scans **122–131 / printed pages 105–114**.
 
-Compare wording, punctuation, paragraph boundaries, Kural text and printed metadata directly against the rendered source scans. Do not normalize source wording. Part 003 must not begin until Part 002 is fully closed.
+Start scan **122** as the direct continuation from scan 121. Compare every source-visible printed word, punctuation, paragraph boundary, Kural lineation and printed metadata directly against the rendered source. Do not normalize source wording. Part 003 must not begin until Part 002 is fully closed.
