@@ -43,7 +43,8 @@ Durable Part 002 controls:
 - Pass 2A Batch 2 / overall scans **122–131 / printed 105–114** — COMPLETE
 - Pass 2A Batch 3 / overall scans **132–141 / printed 115–124** — COMPLETE
 - Pass 2A Batch 4 / overall scans **142–152 / printed 125–135** — COMPLETE
-- total Pass 2A coverage — **41/111**
+- Pass 2A Batch 5 / overall scans **153–163 / printed 136–146** — COMPLETE
+- total Pass 2A coverage — **52/111**
 
 Batch 1 corrections:
 
@@ -92,7 +93,17 @@ Batch 4 corrections:
 - scan **151**: restored `சிறப்புறத் திகழ்ந்தவர்கள்` and `அறத்தை விட்டுத்`;
 - scan **152**: restored `அவன் வலையில்` and `களிபேருவகை`.
 
-Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata were checked directly throughout Batch 4. Scan **152** closes the தெளிந்தான்/நெளிந்தான் vignette cleanly.
+Batch 5 corrections:
+
+- scan **155**: `நடுவாங்கத்துடனும்` → `நட்டுவாங்கத்துடனும்`; `சுகத்தவிட` → `சுகத்தைவிட`;
+- scan **157**: `புலிவேட்டை` → `புரவியேறி`; restored final punctuation in Kural 423;
+- scan **158**: restored `மூதாதையர் சேர்த்துவைத்த பொற்குவியல் குன்றுபோல் உண்டு`, `அவன் துணைவி மாங்கனிதான்`, and `உணவருந்திட அழைத்தாள்`;
+- scan **159**: restored `வாரியணைத்துக் கொண்டது`, `அரும்புகளின்மீது ... மென்காற்றுக்கேற்ப`, `மௌன ஓவியங்கள்`, `வைகறைப் பொழுதின் விளிம்பு வரையில் ... தித்திக்கவில்லையா`, and `அருகம்புல்லில்`;
+- scan **160**: restored `மகாவிஷ்ணுவான நாராயணன்`, `கதைப்பார்கள்`, `முதலையிடம்`, the source `நிகழ்ச்சிச் சித்திரம்` explanation, `அனந்த சயனனையும்`, and `பரந்தாமனை அழைத்துப் பரகதி அடைந்த யானை, புராணங்களுடைய யானை`;
+- scan **161**: restored multiple elephant/terrain readings including `வேழம்`, `தேங்கி நிற்கும் சேறு நிரம்பிய`, `ஏங்குகிறது - வேதனை தாங்காமல் துடிக்கிறது`, `அகப்பட்டவில்லையானால்`, `குறள் மூலமாக`, `செல்லாக் காசாகிவிட்ட சேதியையும்`, `மூட நம்பிக்கை`, `காகப்பட்டர்`, and the exact final elephant sentence;
+- scan **163**: `சேதி கொண்டு` → `சேதிகொண்டு`; restored `அயலார் நம்மைப்பற்றிப் பேசுவதுகுறித்து நான் என்ன சொல்ல இருக்கிறது?`.
+
+Scans **153, 154, 156 and 162** required no textual correction. Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata were checked directly throughout Batch 5. Scan **163** closes its vignette cleanly.
 
 All Part 002 page records remain:
 
@@ -105,15 +116,15 @@ That is intentional. Pass 2A alone does not permit final `verified`; Pass 2B, Pa
 
 Continue **Part 002 Pass 2A — direct textual verification**.
 
-Next batch: **overall scans 153–163 / printed pages 136–146**.
+Next batch: **overall scans 164–173 / printed pages 147–156**.
 
 1. fetch live `main` and preserve newer durable work;
 2. read `KURALOVIYAM_ARCHIVAL_GUIDELINES.md`, `works/kuraloviyam/HANDOVER.md`, `works/kuraloviyam/README.md`, `works/kuraloviyam/PART_002_PASS1_PROGRESS.md`, `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_002.md`, `works/kuraloviyam/indexes/page-map.md`, `works/kuraloviyam/metadata/source.md`, and `works/kuraloviyam/metadata/transcription-policy.md`;
-3. resolve the same controlling Part 002 PDF and render scans **153–163** directly;
+3. resolve the same controlling Part 002 PDF and render scans **164–173** directly;
 4. fetch the existing corresponding page records before editing;
 5. compare every source-visible printed word, punctuation, paragraph boundary, Kural lineation and printed `அதிகாரம்` / பாடல் metadata directly against the rendered scan;
 6. correct only source-supported discrepancies; do not normalize spelling or substitute a standard/published/web Kural reading;
 7. append the batch results to `PASS2_TEXTUAL_VERIFICATION_PART_002.md` and advance the exact next verification frontier;
 8. this is Pass 2A only — do not assign final `verified` merely because a page has passed this gate.
 
-Scan **152 / printed 135** closes the preceding vignette. Scan 153 is the next new vignette. This next batch intentionally runs for 11 scans through scan 163 so the paired vignette blocks through scans 162–163 are not split at an arbitrary workflow boundary. Part 003 must not begin until Part 002 is fully closed.
+Scan **163 / printed 146** closes the preceding vignette. The next batch is 10 scans and preserves the five paired vignette blocks on scans 164–165, 166–167, 168–169, 170–171 and 172–173. Part 003 must not begin until Part 002 is fully closed.
