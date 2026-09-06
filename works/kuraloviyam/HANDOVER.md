@@ -60,20 +60,19 @@ Process **11 physical scans per iteration**. Workflow cutoffs never create sourc
 - P2-04 / scans **145–155** — COMPLETE
 - P2-05 / scans **156–166** — COMPLETE
 - P2-06 / scans **167–177** — COMPLETE
+- P2-07 / scans **178–188** — COMPLETE
 
-Current coverage: **66 / 111 scans**, overall **112–177 / printed 95–160**.
+Current coverage: **77 / 111 scans**, overall **112–188 / printed 95–171**.
 
 All Part 002 records remain `needs-review` / `visual_fidelity: needs-review` as required for Pass 1.
 
-P2-06 source units:
+P2-07 source units:
 
-- 167 — closes the medical/valor vignette begun on scan 166; Chapter 62 / Kural 614;
-- 168–169 — love/heart vignette; Chapter 130 / Kural 1293;
-- 170–171 — Socrates/prison/poison vignette; Chapter 58 / Kural 580;
-- 172–173 — lovers/separation vignette; Chapter 128 / Kural 1280;
-- 174–175 — battlefield/war-elephant vignette; Chapter 60 / Kural 597;
-- 176 — new love/separation-night vignette begins;
-- 177 — full-page illustration only for that vignette.
+- 178 — closes the love/separation-night vignette from scans 176–177; Chapter 117 / Kurals 1168, 1169;
+- 179–180 — king/minister/two-spies vignette; Chapter 63 / Kural 621 and Chapter 59 / Kural 588;
+- 181–183 — moonlit-seaside lovers vignette; Chapter 132 / Kural 1316;
+- 184–186 — flood/rescue and human-effort vignette; Chapter 38 / Kural 380 and Chapter 62 / Kural 620;
+- 187–188 — separation/evening vignette; Chapter 123 / Kural 1222.
 
 Continuity controls:
 
@@ -82,23 +81,24 @@ Continuity controls:
 - **144→145** continuation preserved;
 - **155→156** clean;
 - **166→167** continuation preserved;
-- scan **178 / printed 161** was inspected only as the P2-06 closing witness;
-- **177→178 is a genuine narrative continuation** of the love/separation-night vignette.
+- **177→178** continuation preserved;
+- scan **189 / printed 172** was inspected only as the P2-07 closing witness;
+- **188→189 is a clean source boundary** and scan 189 begins a new illustrated household vignette.
 
 No standard/published/web Kural wording, another edition, OCR guess or memory was used to fill uncertain readings.
 
 ## Exact current activity
 
-Proceed with **P2-07 / Part 002 Pass 1 — overall scans 178–188 / printed pages 161–171**:
+Proceed with **P2-08 / Part 002 Pass 1 — overall scans 189–199 / printed pages 172–182**:
 
 1. fetch live `main`;
-2. begin scan **178** as continuation of the love/separation-night vignette from scans 176–177;
-3. process exactly scans **178–188** source-first;
+2. begin scan **189** at the confirmed clean **188→189** source boundary;
+3. process exactly scans **189–199** source-first;
 4. create one Tamil page record per scan with overall `scan_page`, `part: 2`, local `part_page`, printed pagination, page function, visual notes and visible Tamil text;
 5. copy Kural/chapter metadata only from the rendered source image;
 6. keep Pass 1 statuses as `needs-review`;
-7. inspect scan **189** only as the closing boundary witness when needed;
-8. update progress/page-map/README/HANDOVER/NEXT and advance the frontier to **189–199**.
+7. inspect scan **200** only as the closing boundary witness when needed;
+8. update progress/page-map/README/HANDOVER/NEXT and advance the frontier to **200–210**.
 
 Do not import OCR guesses, another edition, standard Kural text, web material or memory to fill uncertain readings.
 

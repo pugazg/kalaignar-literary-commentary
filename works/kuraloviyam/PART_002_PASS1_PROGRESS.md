@@ -40,31 +40,35 @@ Important boundary: **166→167** is a genuine continuation.
 
 Scans **167–177 / printed 150–160** captured as 11 page-aligned Tamil records.
 
+Important boundary: **177→178** is a genuine continuation.
+
+## P2-07 — COMPLETE
+
+Scans **178–188 / printed 161–171** captured as 11 page-aligned Tamil records.
+
 All Part 002 Pass-1 records remain:
 
 - `status: "needs-review"`
 - `visual_fidelity: "needs-review"`
 
-Source units observed in P2-06:
+Source units observed in P2-07:
 
-- scan **167 / printed 150** — closes the medical/valor vignette begun on scan 166; Chapter 62 / Kural 614;
-- scans **168–169 / printed 151–152** — love/heart vignette; Chapter 130 / Kural 1293;
-- scans **170–171 / printed 153–154** — Socrates/prison/poison vignette; Chapter 58 / Kural 580;
-- scans **172–173 / printed 155–156** — lovers/separation vignette; Chapter 128 / Kural 1280;
-- scans **174–175 / printed 157–158** — battlefield/war-elephant vignette; Chapter 60 / Kural 597;
-- scan **176 / printed 159** — new love/separation-night vignette begins;
-- scan **177 / printed 160** — full-page illustration only for the same vignette.
+- scan **178 / printed 161** — closes the love/separation-night vignette begun on scans 176–177; Chapter 117 / Kurals 1168, 1169;
+- scans **179–180 / printed 162–163** — king/minister/two-spies vignette; Chapter 63 / Kural 621 and Chapter 59 / Kural 588;
+- scans **181–183 / printed 164–166** — moonlit-seaside lovers vignette; Chapter 132 / Kural 1316;
+- scans **184–186 / printed 167–169** — flood/rescue and human-effort vignette; Chapter 38 / Kural 380 and Chapter 62 / Kural 620;
+- scans **187–188 / printed 170–171** — separation/evening vignette; Chapter 123 / Kural 1222.
 
-Scan **178 / printed 161** was inspected only as the closing boundary witness. It directly continues the vignette begun on scan 176, so **177→178 is a genuine narrative continuation**.
+Scan **189 / printed 172** was inspected only as the closing boundary witness. It begins a new illustrated household vignette, so **188→189 is a clean source boundary**.
 
 No standard/published/web Kural wording, another edition, OCR guess, or memory was used to fill uncertain readings.
 
 ## Current Pass 1 coverage
 
-**66 / 111 scans complete** — overall scans **112–177 / printed 95–160**.
+**77 / 111 scans complete** — overall scans **112–188 / printed 95–171**.
 
 ## Next activity
 
-**P2-07 — overall scans 178–188 / printed 161–171.**
+**P2-08 — overall scans 189–199 / printed 172–182.**
 
-Begin scan 178 as continuation of the love/separation-night vignette from scans 176–177. Inspect scan 189 only as the closing boundary witness when needed.
+Begin scan 189 at the confirmed clean 188→189 source boundary. Inspect scan 200 only as the closing boundary witness when needed.

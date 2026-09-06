@@ -9,7 +9,7 @@ Individual Markdown records under `../pages/` are authoritative for exact captur
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
-| 002 | 112–222 | 1–111 | scan 112 / printed 95; Pass 1 through scan 177 / printed 160; scan 178 / printed 161 inspected as boundary witness | **source intake complete; Pass 1 66/111** |
+| 002 | 112–222 | 1–111 | scan 112 / printed 95; Pass 1 through scan 188 / printed 171; scan 189 / printed 172 inspected as boundary witness | **source intake complete; Pass 1 77/111** |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
@@ -72,7 +72,7 @@ Do not reconstruct those readings from context, OCR, web text or a standard edit
 
 ## Part 002 physical map — current Pass 1 coverage
 
-Pass 1 currently contains **66 page-aligned records**, scans **112–177 / printed 95–160**.
+Pass 1 currently contains **77 page-aligned records**, scans **112–188 / printed 95–171**.
 
 | Overall scans | Printed pages | Source role / observed boundary | Pass 1 state |
 |---:|---:|---|---|
@@ -108,7 +108,11 @@ Pass 1 currently contains **66 page-aligned records**, scans **112–177 / print
 | 170–171 | 153–154 | Socrates/prison/poison vignette; Chapter 58 / Kural 580 | needs-review |
 | 172–173 | 155–156 | lovers/separation vignette; Chapter 128 / Kural 1280 | needs-review |
 | 174–175 | 157–158 | battlefield/war-elephant vignette; Chapter 60 / Kural 597 | needs-review |
-| 176–177 | 159–160 | love/separation-night vignette begins; scan 177 is illustration-only; continues to scan 178 | needs-review |
+| 176–178 | 159–161 | love/separation-night vignette; scan 177 illustration-only; closes on scan 178 with Chapter 117 / Kurals 1168, 1169 | needs-review |
+| 179–180 | 162–163 | king/minister/two-spies vignette; Chapter 63 / Kural 621 and Chapter 59 / Kural 588 | needs-review |
+| 181–183 | 164–166 | moonlit-seaside lovers vignette; Chapter 132 / Kural 1316 | needs-review |
+| 184–186 | 167–169 | flood/rescue and human-effort vignette; Chapter 38 / Kural 380 and Chapter 62 / Kural 620 | needs-review |
+| 187–188 | 170–171 | separation/evening vignette; Chapter 123 / Kural 1222 | needs-review |
 
 Additional physical notes:
 
@@ -119,8 +123,9 @@ Additional physical notes:
 - **155→156** is clean;
 - **166→167** is a genuine continuation;
 - scan **177 / printed 160** is a full-page illustration with no body prose;
-- scan **178 / printed 161** was inspected only as the P2-06 closing boundary witness;
-- **177→178 is a genuine narrative continuation** of the love/separation-night vignette.
+- **177→178** is a genuine narrative continuation and is preserved;
+- scan **189 / printed 172** was inspected only as the P2-07 closing boundary witness;
+- **188→189 is a clean source boundary** and scan 189 begins a new illustrated household vignette.
 
 Durable Pass 1 progress record:
 
@@ -143,13 +148,13 @@ Part 001:
 Part 002:
 
 - source intake — **COMPLETE**;
-- Pass 1 — **66/111 complete**, scans 112–177;
+- Pass 1 — **77/111 complete**, scans 112–188;
 - Pass 2A / 2B / 3 — not started.
 
 ## Current frontier
 
 **Part 001: CLOSED.**
 
-**Part 002: ACTIVE — source intake complete; P2-01 through P2-06 / Pass 1 scans 112–177 complete.**
+**Part 002: ACTIVE — source intake complete; P2-01 through P2-07 / Pass 1 scans 112–188 complete.**
 
-Exact next activity: **P2-07 / Pass 1 scans 178–188 / printed 161–171**, beginning with the known **177→178 continuation** and inspecting scan 189 only as the closing boundary witness when necessary.
+Exact next activity: **P2-08 / Pass 1 scans 189–199 / printed 172–182**, beginning at the clean **188→189** source boundary and inspecting scan 200 only as the closing boundary witness when necessary.
