@@ -84,15 +84,33 @@ Page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
 | 151 | 134 | corrected `சிறப்புத் திகழ்ந்தவர்கள்` → `சிறப்புறத் திகழ்ந்தவர்கள்` and `அறத்தை விட்டு` → `அறத்தை விட்டுத்`; Kural 142 wording confirmed; vignette continues into scan 152 |
 | 152 | 135 | corrected `அவள் வலையில்` → source-visible `அவன் வலையில்` and `களிப்பெருவகை` → `களிபேருவகை`; Kural 145 and Chapter 15 / பாடல்கள் 142, 145 metadata confirmed; vignette closes cleanly |
 
+## Batch 5 — overall scans 153–163 / printed pages 136–146
+
+**Status: COMPLETE — 11 / 11 scans directly compared with the rendered source scan for Pass 2A.**
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 153 | 136 | direct textual comparison complete; no page-record correction required; Chapter 125 / Kural 1246 and lexical footnote `உணர்த்தும் = நீக்கும்` confirmed; self-contained vignette closes |
+| 154 | 137 | direct textual comparison complete; no page-record correction required; lovers/ஊடல் vignette continues into scan 155 |
+| 155 | 138 | corrected `நடுவாங்கத்துடனும்` → source-visible `நட்டுவாங்கத்துடனும்` and `சுகத்தவிட` → `சுகத்தைவிட`; Chapter 133 / Kural 1326 confirmed; vignette closes and 155→156 is clean |
+| 156 | 139 | direct textual comparison complete; no page-record correction required; crowd/knife vignette continues into scan 157 |
+| 157 | 140 | corrected `புலிவேட்டை` → source-visible `புரவியேறி` and restored the printed Kural's final punctuation; Chapter 43 / Kural 423 confirmed; vignette closes |
+| 158 | 141 | restored source-visible `மூதாதையர் சேர்த்துவைத்த பொற்குவியல் குன்றுபோல் உண்டு`, `அவன் துணைவி மாங்கனிதான்`, and `உணவருந்திட அழைத்தாள்`; vignette continues into scan 159 |
+| 159 | 142 | restored `வாரியணைத்துக் கொண்டது`, `அரும்புகளின்மீது ... மென்காற்றுக்கேற்ப`, `மௌன ஓவியங்கள்`, `வைகறைப் பொழுதின் விளிம்பு வரையில் ... தித்திக்கவில்லையா`, and `அருகம்புல்லில்`; Chapter 116 / Kural 1151 confirmed; vignette closes |
+| 160 | 143 | restored source-visible `மகாவிஷ்ணுவான நாராயணன்`, `கதைப்பார்கள்`, `முதலையிடம்`, the `நிகழ்ச்சிச் சித்திரம்` explanation, `அனந்த சயனனையும்`, and the closing `பரந்தாமனை அழைத்துப் பரகதி அடைந்த யானை, புராணங்களுடைய யானை`; vignette continues into scan 161 |
+| 161 | 144 | restored multiple source-visible elephant/terrain readings including `வேழம்`, `தேங்கி நிற்கும் சேறு நிரம்பிய`, `ஏங்குகிறது - வேதனை தாங்காமல் துடிக்கிறது`, `அகப்பட்டவில்லையானால்`, `குறள் மூலமாக`, `செல்லாக் காசாகிவிட்ட சேதியையும்`, `மூட நம்பிக்கை`, `காகப்பட்டர்`, and the exact final `வேல்கொண்ட வீரனைக் குத்திக் கொன்ற யானை ... அழித்துவிடும்`; Chapter 50 / Kural 500 confirmed; vignette closes |
+| 162 | 145 | direct textual comparison complete; no page-record correction required; Malaiyan/Silamban/Kalingan slander vignette continues into scan 163 |
+| 163 | 146 | corrected `சேதி கொண்டு` → source-visible `சேதிகொண்டு` and restored `அயலார் நம்மைப்பற்றிப் பேசுவதுகுறித்து நான் என்ன சொல்ல இருக்கிறது?`; Chapter 19 / Kural 188 confirmed; vignette closes cleanly |
+
 ## Current Pass 2A coverage
 
-- complete: **41 / 111 scans**;
-- overall scans: **112–152**;
-- printed pages: **95–135**;
-- remaining Pass 2A: **70 scans**.
+- complete: **52 / 111 scans**;
+- overall scans: **112–163**;
+- printed pages: **95–146**;
+- remaining Pass 2A: **59 scans**.
 
 ## Exact next Pass 2A activity
 
-Proceed with overall scans **153–163 / printed pages 136–146**.
+Proceed with overall scans **164–173 / printed pages 147–156**.
 
-Scan 152 closes the தெளிந்தான்/நெளிந்தான் vignette cleanly and scan 153 begins a new vignette. This 11-scan batch intentionally runs through scan 163 so the paired vignette blocks through scans 162–163 are not split at an arbitrary workflow boundary. Keep final `verified` unavailable until Pass 2B, Pass 3 and final synchronization close.
+Scan 163 closes its vignette cleanly. The next 10-scan batch preserves the five paired vignette blocks on scans 164–165, 166–167, 168–169, 170–171 and 172–173 without an arbitrary split. Keep final `verified` unavailable until Pass 2B, Pass 3 and final synchronization close.
