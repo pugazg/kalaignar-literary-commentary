@@ -50,8 +50,8 @@ Never fill uncertain Tamil from OCR, web text, another edition, standard Kural w
 
 - source intake — COMPLETE;
 - Pass 1 — COMPLETE, **111/111** scans 112–222;
-- Pass 2A — **ACTIVE, 103/111**, scans **112–214 / printed 95–197** complete;
-- Pass 2B — not started;
+- Pass 2A — **COMPLETE, 111/111**, scans **112–222 / printed 95–205**;
+- Pass 2B — not started; **NEXT**;
 - Pass 3 — not started;
 - Part audit — not started.
 
@@ -69,20 +69,18 @@ Completed Pass 2A batches:
 - Batch 8: 184–194 / 167–177
 - Batch 9: 195–204 / 178–187
 - Batch 10: 205–214 / 188–197
+- Batch 11: 215–222 / 198–205
 
-Batch 10 required a page-record correction only on scan **214**, restoring `மாரியெனப்` from the rendered source in place of `மார்பெனப்`. Scans **205–213** required no textual correction. Chapter / Kural metadata and the paired boundaries were directly checked across all ten scans. Full details are durable in `PASS2_TEXTUAL_VERIFICATION_PART_002.md`.
+Batch 10 source-supported corrections were required on scans **206, 207, 208, 209, 210, 211, 213, 214**; scans **205 and 212** required no textual correction. Batch 11 corrections were required on scans **215, 216, 217, 218, 219, 220, 222**; scan **221** required no textual correction. Full scan-by-scan details are durable in `PASS2_TEXTUAL_VERIFICATION_PART_002.md`.
+
+Notable final-batch restorations include `தழையாகிச்`, `அக்கணமில்லை`, `நம் காளை சுழல்காற்றாய்ப்`, `என்னத்தான்`, `அதைச் சமைத்தேன்`, `காரிருள்`, `சாவுக்கு விடை கொடுத்தனுப்பி`, `எழுத்தாணியைக்`, `கொலு மண்டபத்தில்`, `பத்தாண்டுகட்கு`, `தலைமையேற்றபோது`, `இளமைக் காலந்தொட்டு`, `அவர் தான்மட்டும்`, and `மகிழ்ச்சியடைகிறான்`.
+
+Scan **218** carries a blue circular library stamp; **221→222** is a genuine continuation; scan **222 / printed 205** closes the pastoral / ஆயர்குடி vignette and is the final physical scan of Part 002.
 
 ## Exact current activity
 
-Continue **Part 002 Pass 2A — direct textual verification** with the **final Pass 2A batch, overall scans 215–222 / printed pages 198–205**.
+Begin **Part 002 Pass 2B — independent lexical-fidelity re-read** with overall scans **112–121 / printed pages 95–104**.
 
-Scan **214 / printed 197** closes the பூங்குழலி / இனியவள் disguise vignette. Scan **215 / printed 198** has already been rendered and inspected only as the next boundary witness; it begins a new warrior-departure / battlefield-death vignette.
+Pass 2B is an independent source re-read, not a mechanical confirmation of Pass 2A. Re-render/read each controlling scan directly and compare every source-visible word, punctuation mark, paragraph/quotation boundary, Kural lineation and printed `அதிகாரம்` / பாடல் metadata. Correct only newly source-supported discrepancies and log the result separately/durably as Pass 2B.
 
-The final 8-scan range intentionally keeps complete source blocks together:
-
-- 215–216 — warrior departure / battlefield death; Chapter 78 / Kural 780;
-- 217–218 — domestic meal / salt analogy / `ஊடல்`; Chapter 131 / Kural 1302; scan 218 carries a blue circular library stamp;
-- 219–220 — dying veteran / abandoned friendship; Chapter 80 / Kural 799;
-- 221–222 — pastoral / ஆயர்குடி; Chapter 128 / Kural 1275; **221→222 is a genuine continuation** and scan 222 is Part 002's final physical scan.
-
-For every scan: compare every printed word, punctuation mark, paragraph/quotation boundary, Kural lineation, and printed `அதிகாரம்` / பாடல் metadata directly against the rendered source. Correct only source-supported discrepancies. After scans 215–222 complete, **Pass 2A will be 111/111**, but final `verified` must still remain unavailable; the next phase is Pass 2B, not Part 003.
+Do not promote any Part 002 page to final `verified` during Pass 2B. `visual_fidelity` also remains `needs-review` until Pass 3. Do not begin Part 003 before Part 002 is fully closed.
