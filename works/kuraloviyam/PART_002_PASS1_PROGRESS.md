@@ -64,11 +64,6 @@ Important boundary: **210→211** is clean.
 
 Scans **211–221 / printed 194–204** captured as 11 page-aligned Tamil records.
 
-All Part 002 Pass-1 records remain:
-
-- `status: "needs-review"`
-- `visual_fidelity: "needs-review"`
-
 Source units observed in P2-10:
 
 - scans **211–212 / printed 194–195** — enemy-siege/treachery and mercy vignette; Chapter 21 / Kural 203;
@@ -76,18 +71,29 @@ Source units observed in P2-10:
 - scans **215–216 / printed 198–199** — warrior departure, battlefield death and commander's tears vignette; Chapter 78 / Kural 780;
 - scans **217–218 / printed 200–201** — domestic meal / salt analogy / `ஊடல்` vignette; scan 218 carries a blue circular library stamp; Chapter 131 / Kural 1302;
 - scans **219–220 / printed 202–203** — dying veteran / abandoned friendship vignette; Chapter 80 / Kural 799;
-- scan **221 / printed 204** — new pastoral / ஆயர்குடி vignette begins and continues directly to scan 222.
+- scan **221 / printed 204** — pastoral / ஆயர்குடி vignette begins and continues directly to scan 222.
 
-Scan **222 / printed 205** was inspected only as the P2-10 closing boundary witness. It continues the pastoral/ஆயர்குடி vignette from scan 221 and closes it with Chapter 128 / Kural 1275, so **221→222 is a genuine source continuation**.
+Important boundary: **221→222** is a genuine continuation.
+
+## Final remainder — COMPLETE
+
+Scan **222 / printed 205** captured as the final page-aligned Tamil record of Part 002. It continues and closes the pastoral/ஆயர்குடி vignette begun on scan 221 and closes with Chapter 128 / Kural 1275.
+
+All Part 002 Pass-1 records remain:
+
+- `status: "needs-review"`
+- `visual_fidelity: "needs-review"`
 
 No standard/published/web Kural wording, another edition, OCR guess, or memory was used to fill uncertain readings.
 
-## Current Pass 1 coverage
+## Pass 1 closure
 
-**110 / 111 scans complete** — overall scans **112–221 / printed 95–204**.
+**111 / 111 scans complete** — overall scans **112–222 / printed 95–205**.
 
-## Next activity
+Part 002 Pass 1 is **COMPLETE**. This is a physical-capture/transcription checkpoint only; it does not make the page records source-verified.
 
-Process the **final Part 002 Pass 1 remainder — scan 222 / printed 205**.
+## Next verification gate
 
-Begin scan 222 as the confirmed continuation from scan 221. After its page record is captured, synchronize Part 002 Pass 1 to **111/111 complete** and then proceed only to the next Part 002 verification gate; do not begin Part 003.
+Begin **Part 002 Pass 2A — direct textual verification** against the rendered source scans.
+
+Normal source-dependent verification batches are about 10 physical scans. Start with **overall scans 112–121 / printed 95–104** and compare wording, punctuation, paragraph boundaries, Kural text and printed metadata directly against the rendered scan. Do not normalize or import standard Kural wording.

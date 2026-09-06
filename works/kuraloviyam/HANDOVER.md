@@ -46,13 +46,9 @@ Durable records:
 - `works/kuraloviyam/PART_002_PASS1_PROGRESS.md`
 - `works/kuraloviyam/indexes/page-map.md`
 
-### Standard iteration cadence
+## Part 002 Pass 1 — COMPLETE
 
-Process **11 physical scans per iteration**. Workflow cutoffs never create source boundaries.
-
-112–122; 123–133; 134–144; 145–155; 156–166; 167–177; 178–188; 189–199; 200–210; 211–221; final 222.
-
-## Part 002 Pass 1 progress
+All **111 / 111** physical scans are captured as page-aligned Tamil records: overall scans **112–222 / printed 95–205**.
 
 - P2-01 / scans **112–122** — COMPLETE
 - P2-02 / scans **123–133** — COMPLETE
@@ -64,21 +60,11 @@ Process **11 physical scans per iteration**. Workflow cutoffs never create sourc
 - P2-08 / scans **189–199** — COMPLETE
 - P2-09 / scans **200–210** — COMPLETE
 - P2-10 / scans **211–221** — COMPLETE
+- final remainder / scan **222** — COMPLETE
 
-Current coverage: **110 / 111 scans**, overall **112–221 / printed 95–204**.
+All Part 002 records remain `needs-review` / `visual_fidelity: needs-review` after Pass 1 as required by policy.
 
-All Part 002 records remain `needs-review` / `visual_fidelity: needs-review` as required for Pass 1.
-
-P2-10 source units:
-
-- 211–212 — enemy-siege/treachery and mercy vignette; Chapter 21 / Kural 203;
-- 213–214 — பூங்குழலி waiting / இனியவள் disguise vignette; Chapter 130 / Kural 1297;
-- 215–216 — warrior departure/battlefield death vignette; Chapter 78 / Kural 780;
-- 217–218 — domestic meal / salt analogy / `ஊடல்`; scan 218 carries a blue circular library stamp; Chapter 131 / Kural 1302;
-- 219–220 — dying veteran / abandoned friendship vignette; Chapter 80 / Kural 799;
-- 221 — pastoral / ஆயர்குடி vignette begins and continues directly to scan 222.
-
-Continuity controls:
+Final continuity controls:
 
 - **122→123** continuation preserved;
 - **133→134** clean;
@@ -89,23 +75,24 @@ Continuity controls:
 - **188→189** clean;
 - **199→200** clean;
 - **210→211** clean;
-- scan **222 / printed 205** was inspected only as the P2-10 closing witness;
-- **221→222 is a genuine source continuation**; scan 222 closes the pastoral/ஆயர்குடி vignette with Chapter 128 / Kural 1275.
+- **221→222** genuine continuation preserved;
+- scan **222 / printed 205** closes the pastoral/ஆயர்குடி vignette with Chapter 128 / Kural 1275 and is the final physical scan of Part 002.
 
 No standard/published/web Kural wording, another edition, OCR guess or memory was used to fill uncertain readings.
 
 ## Exact current activity
 
-Process the **final Part 002 Pass 1 remainder — overall scan 222 / printed page 205**:
+Proceed with **Part 002 Pass 2A — direct textual verification**.
+
+First verification batch: **overall scans 112–121 / printed pages 95–104**.
 
 1. fetch live `main`;
-2. begin scan **222** as the confirmed continuation from scan **221**;
-3. create its Tamil page record with overall `scan_page: 222`, `part: 2`, local `part_page: 111`, printed page 205, page function, visual notes and visible Tamil text;
-4. copy the visible Chapter 128 / Kural 1275 metadata only from the rendered source image;
-5. keep Pass 1 status as `needs-review` / `visual_fidelity: needs-review`;
-6. synchronize Part 002 Pass 1 to **111/111 complete**;
-7. advance only to the next Part 002 verification gate.
-
-Do not import OCR guesses, another edition, standard Kural text, web material or memory to fill uncertain readings.
+2. resolve the same controlling Part 002 source;
+3. inspect rendered scans **112–121** directly;
+4. fetch the corresponding existing page records before changing them;
+5. compare wording, punctuation, paragraph boundaries, Kural text and printed `அதிகாரம்` / பாடல் metadata directly against the source;
+6. correct only source-supported discrepancies; do not normalize or replace this edition's wording with standard Kural text;
+7. record Pass 2A progress durably;
+8. keep final `verified` unavailable until Pass 2B and Pass 3 also close.
 
 Part 003 must not begin until Part 002 is fully closed.
