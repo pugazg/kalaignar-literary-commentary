@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Current archival state |
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **source intake complete; Pass 1 COMPLETE 111/111; Pass 2A COMPLETE 111/111; Pass 2B NEXT** |
+| 002 | 112–222 | **source intake complete; Pass 1 COMPLETE 111/111; Pass 2A COMPLETE 111/111; Pass 2B ACTIVE 10/111** |
 | 003 | 223–333 | not-started |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
@@ -49,6 +49,7 @@ Durable controls:
 - `works/kuraloviyam/SOURCE_INTAKE_PART_002.md`
 - `works/kuraloviyam/PART_002_PASS1_PROGRESS.md`
 - `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_002.md`
+- `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_002.md`
 - `works/kuraloviyam/indexes/page-map.md`
 
 ### Pass 1 — COMPLETE
@@ -79,14 +80,24 @@ Batch 10 directly verified scans **205–214**. Source-supported corrections wer
 
 Batch 11 directly verified scans **215–222** and completed Pass 2A. Source-supported corrections were required on scans **215, 216, 217, 218, 219, 220, 222**; scan **221** required no textual correction. Important restorations include `தழையாகிச்`, `அக்கணமில்லை`, `நம் காளை சுழல்காற்றாய்ப்`, `என்னத்தான்`, `அதைச் சமைத்தேன்`, `காரிருள்`, `சாவுக்கு விடை கொடுத்தனுப்பி`, `எழுத்தாணியைக்`, `கொலு மண்டபத்தில்`, `பத்தாண்டுகட்கு`, `தலைமையேற்றபோது`, `இளமைக் காலந்தொட்டு`, `அவர் தான்மட்டும்`, and `மகிழ்ச்சியடைகிறான்`. Scan **218** carries a blue circular library stamp; **221→222** is a genuine continuation; scan **222 / printed 205** closes the pastoral / ஆயர்குடி vignette and is the final physical scan of Part 002.
 
-Full scan-by-scan correction history is maintained in `PASS2_TEXTUAL_VERIFICATION_PART_002.md`.
+Full scan-by-scan Pass 2A correction history is maintained in `PASS2_TEXTUAL_VERIFICATION_PART_002.md`.
 
-Pass 2A is **not** final verification. All Part 002 records remain `needs-review` / `visual_fidelity: needs-review`. Final `verified` is unavailable until Pass 2B, Pass 3, the Part audit and final synchronization close.
+### Pass 2B — ACTIVE
+
+Batch 1, overall scans **112–121 / printed 95–104**, is **COMPLETE, 10/10** by an independent fresh-source lexical reread.
+
+New Pass 2B corrections were required on scans **113, 114, 115 and 118**. Scans **112, 116, 117, 119, 120 and 121** required no new lexical correction. Newly restored source readings include `எடுத்துக் கொள்ளல்`, `கைபடுமாறு`, `அசைந்தாடும்`, `ஆண்மகனைப்`, `அன்னமயில் வந்து கொண்டிருக்கிறானே- ஆகா-`, and `பொய் சொல்லுவதே வாழ்க்கையாக`.
+
+Pass 2B coverage: **10 / 111 scans**, overall scans **112–121 / printed 95–104**. Remaining Pass 2B: **101 scans**.
+
+Full Pass 2B results are maintained in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
+
+Pass 2B is **not** final verification. All Part 002 records remain `needs-review` / `visual_fidelity: needs-review`. Final `verified` is unavailable until Pass 2B, Pass 3, the Part audit and final synchronization close.
 
 ## Current frontier
 
-Exact next activity: **Part 002 Pass 2B independent lexical-fidelity re-read — overall scans 112–121 / printed pages 95–104**.
+Exact next activity: **Part 002 Pass 2B independent lexical-fidelity re-read — overall scans 122–131 / printed pages 105–114**.
 
-Pass 2B must be an independent source re-read rather than a mechanical confirmation of Pass 2A. Re-render/read the controlling scans directly and compare every source-visible word, punctuation mark, paragraph/quotation boundary, Kural lineation and printed `அதிகாரம்` / பாடல் metadata. Record and correct only newly source-supported discrepancies.
+Pass 2B must remain an independent source re-read rather than a mechanical confirmation of Pass 2A. Re-render/read the controlling scans directly and compare every source-visible word, punctuation mark, paragraph/quotation boundary, Kural lineation and printed `அதிகாரம்` / பாடல் metadata. Record and correct only newly source-supported discrepancies.
 
 Do not normalize source wording, do not substitute standard/published/web Kural text, and do not begin Part 003 before Part 002 is fully closed.
