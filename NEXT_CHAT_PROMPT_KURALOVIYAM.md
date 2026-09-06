@@ -41,7 +41,8 @@ Durable Part 002 controls:
 - Pass 1 / overall scans **112–222** — **COMPLETE, 111/111**
 - Pass 2A Batch 1 / overall scans **112–121 / printed 95–104** — COMPLETE
 - Pass 2A Batch 2 / overall scans **122–131 / printed 105–114** — COMPLETE
-- total Pass 2A coverage — **20/111**
+- Pass 2A Batch 3 / overall scans **132–141 / printed 115–124** — COMPLETE
+- total Pass 2A coverage — **30/111**
 
 Batch 1 corrections:
 
@@ -60,7 +61,21 @@ Batch 2 corrections:
 - scan **130**: restored `அறவே அவரது விழிகளின் ஒளி பழுதாகி விடாத காரணத்தால்`;
 - scan **131**: restored `முதியவர் அந்த இளந்தளிருக்கு முத்த மழை பொழிந்தார்.`
 
-Scans **126** and **128** required no textual correction. Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata were checked directly. Scan 131 closes its vignette cleanly.
+Scans **126** and **128** required no textual correction.
+
+Batch 3 corrections:
+
+- scan **132**: `வளைந்து நடப்பதும்` → `வளைந்து நடப்பதிலும்`;
+- scan **133**: `அப்படிப்பா!` → `அப்பப்பா!`;
+- scan **134**: `எண்ணெயும் எழுத்தையும்` → `எண்ணையும் எழுத்தையும்`;
+- scan **135**: restored several source-visible court-music readings, including `வாணனும்`, `பொன்னுருக்கிய தட்டுக்களில்`, `முத்தாரமொன்றை இசைப்புலவனின் கழுத்தில்`, the printed singer quotation beginning `மண்டிலமாளும் மன்னர் மன்னவ!`, and the closing `வகைவகையான தினிகளுக்காக ... செந்தமிழ் இசைகேட்கச் செவியைத் திறந்தானில்லை` prose;
+- scan **136**: `அவன் இளவரசி` → `அவள் இளவரசி`; `தயார்படுத்தினான்` → `தயார்ப்படுத்தினான்`;
+- scan **137**: restored `சிறை பெடுத்துச் செல்லப்பட்ட`, `கொலைக்களம் கொண்டுசென்று`, `நமது நாட்டுப் படைகளுடன்`, `கொலையாளிகள் சிறைப்பட்டனர்`;
+- scan **138**: restored multiple source-visible night/owl readings including `காட்சியாக்கி`, `இடையிடையே`, `கேட்கவண்ணமிருந்தது`, `கிளம்பும்போது மட்டும்`, `வண்ண வண்ண`, and `வலிவற்றவை`;
+- scan **139**: restored source punctuation and `வெற்றி பெற்றார்கள்`;
+- scan **141**: restored `காதலியின் நெஞ்சம் அவள் காதலனைத் தேடிச் செல்கிறதாம்`, `கண்கள், அவளைப் பிடுங்கித் தின்கின்றனவாம்`, and `செல்க!`.
+
+Scan **140** required no textual correction. Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata were checked directly throughout Batch 3. Scan 141 closes its vignette cleanly.
 
 All Part 002 page records remain:
 
@@ -73,15 +88,15 @@ That is intentional. Pass 2A alone does not permit final `verified`; Pass 2B, Pa
 
 Continue **Part 002 Pass 2A — direct textual verification**.
 
-Next batch: **overall scans 132–141 / printed pages 115–124**.
+Next batch: **overall scans 142–152 / printed pages 125–135**.
 
 1. fetch live `main` and preserve newer durable work;
 2. read `KURALOVIYAM_ARCHIVAL_GUIDELINES.md`, `works/kuraloviyam/HANDOVER.md`, `works/kuraloviyam/README.md`, `works/kuraloviyam/PART_002_PASS1_PROGRESS.md`, `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_002.md`, `works/kuraloviyam/indexes/page-map.md`, `works/kuraloviyam/metadata/source.md`, and `works/kuraloviyam/metadata/transcription-policy.md`;
-3. resolve the same controlling Part 002 PDF and render scans **132–141** directly;
+3. resolve the same controlling Part 002 PDF and render scans **142–152** directly;
 4. fetch the existing corresponding page records before editing;
 5. compare every source-visible printed word, punctuation, paragraph boundary, Kural lineation and printed `அதிகாரம்` / பாடல் metadata directly against the rendered scan;
 6. correct only source-supported discrepancies; do not normalize spelling or substitute a standard/published/web Kural reading;
 7. append the batch results to `PASS2_TEXTUAL_VERIFICATION_PART_002.md` and advance the exact next verification frontier;
 8. this is Pass 2A only — do not assign final `verified` merely because a page has passed this gate.
 
-Scan **131 / printed 114** closes the preceding vignette, so scan 132 begins a new vignette. Part 003 must not begin until Part 002 is fully closed.
+Scan **141 / printed 124** closes the preceding vignette and scan 142 begins a new vignette. This next batch intentionally runs for 11 scans through scan 152 so the three-page vignette on scans 150–152 is not split at an arbitrary 10-scan workflow boundary. Part 003 must not begin until Part 002 is fully closed.
