@@ -92,7 +92,7 @@ Batch 2, overall scans **122–131 / printed 105–114**, is **COMPLETE, 10/10**
 
 Batch 3, overall scans **132–141 / printed 115–124**, is **COMPLETE, 10/10**. New Pass 2B corrections were required on scans **133, 134, 135, 138 and 141**; scans **132, 136, 137, 139 and 140** required no new lexical correction. Important restorations include `காளை!`, the court-music passage `செந்தமிழ் மகளிர் வீசி ஆடுகிற மலர்ப்பந்தோ?... குரல் வளமோ குழல் வளம் போல!`, `இனிமை மேவிட`, `வேறோர் கொடுமை!`, `கேட்டவண்ணமிருந்தது`, `சிறகைச் சிறிது தூக்கித்`, and `அவரைக் காணவேண்டுமென்று என்னைப் பிடுங்கித் தின்கிறான்!`.
 
-Batch 4, overall scans **142–152 / printed 125–135**, is **COMPLETE, 11/11**. The fresh independent re-read found **no new lexical discrepancies**: all eleven page records match the controlling rendered source at the Pass 2B gate, including quoted Kural wording, lineation and printed `அதிகாரம்` / பாடல் metadata.
+Batch 4, overall scans **142–152 / printed 125–135**, is **COMPLETE, 11/11**. New Pass 2B corrections were required on scans **144, 145, 146, 147 and 152**; scans **142, 143, 148, 149, 150 and 151** required no new lexical correction. Important restorations include `படுத்தவளைப்போல`, `அஞ்சாமல் செல்லலாயாக!`, `வளைந்த தென்னையொன்றில்`, `வறுமையில் வாடும் மக்களுக்கு`, `கணைபட்ட வேங்கை`, `இரண்டாயிரம் ஆண்டுகட்கு`, and both source-visible `மனத்தைப்` readings on scan 152.
 
 Pass 2B coverage: **41 / 111 scans**, overall scans **112–152 / printed 95–135**. Remaining Pass 2B: **70 scans**.
 
