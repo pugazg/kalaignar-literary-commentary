@@ -171,17 +171,34 @@ All Part 002 page records remain `status: "needs-review"` / `visual_fidelity: "n
 | 203 | 186 | illustration-only page confirmed; no body prose; narrative continuity 202→203→204 preserved |
 | 204 | 187 | direct textual comparison complete; no page-record correction required; Chapter 78 / Kural 774 confirmed; vignette closes cleanly |
 
+## Batch 10 — overall scans 205–214 / printed pages 188–197
+
+**Status: COMPLETE — 10 / 10 scans directly compared against the rendered source.**
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 205 | 188 | direct textual comparison complete; no page-record correction required; `அலர்` / gossip vignette begins and continues into 206 |
+| 206 | 189 | direct textual comparison complete; no page-record correction required; Chapter 115 / Kural 1148 confirmed; vignette closes |
+| 207 | 190 | direct textual comparison complete; no page-record correction required; battlefield command/courage vignette begins and continues into 208 |
+| 208 | 191 | direct textual comparison complete; no page-record correction required; Chapter 78 / Kurals 776, 775 confirmed; vignette closes |
+| 209 | 192 | direct textual comparison complete; no page-record correction required; separation/tear-flood vignette begins and continues into 210 |
+| 210 | 193 | direct textual comparison complete; no page-record correction required; Chapter 117 / Kural 1170 confirmed; vignette closes and 210→211 is clean |
+| 211 | 194 | direct textual comparison complete; no page-record correction required; enemy-siege/treachery and mercy vignette begins and continues into 212 |
+| 212 | 195 | direct textual comparison complete; no page-record correction required; Chapter 21 / Kural 203 confirmed; vignette closes |
+| 213 | 196 | direct textual comparison complete; no page-record correction required; பூங்குழலி waiting / இனியவள் disguise vignette begins and continues into 214 |
+| 214 | 197 | corrected `மார்பெனப்` → source-visible `மாரியெனப்`; Chapter 130 / Kural 1297 confirmed; vignette closes cleanly |
+
 ## Current Pass 2A coverage
 
-- complete: **93 / 111 scans**;
-- overall scans: **112–204**;
-- printed pages: **95–187**;
-- remaining Pass 2A: **18 scans**.
+- complete: **103 / 111 scans**;
+- overall scans: **112–214**;
+- printed pages: **95–197**;
+- remaining Pass 2A: **8 scans**.
 
 ## Exact next Pass 2A activity
 
-Proceed with overall scans **205–214 / printed pages 188–197**.
+Proceed with overall scans **215–222 / printed pages 198–205**.
 
-Scan **204 / printed 187** closes its battlefield/war-elephant vignette cleanly. Scan **205 / printed 188** has been inspected as the next boundary witness and begins the `அலர்` / gossip vignette. The next 10-scan batch preserves the complete paired blocks **205–206**, **207–208**, **209–210**, **211–212**, and **213–214**.
+Scan **214 / printed 197** closes the பூங்குழலி / இனியவள் disguise vignette cleanly. Scan **215 / printed 198** has been inspected as the boundary witness and begins a new warrior-departure / battlefield-death vignette. The final 8-scan Pass 2A batch preserves complete paired source blocks **215–216**, **217–218**, **219–220**, and **221–222**; scan 218 carries a blue circular library stamp and 221→222 is a genuine continuation.
 
 Keep final `verified` unavailable until Pass 2B, Pass 3, the Part audit and final synchronization close. Part 003 must not begin before Part 002 is fully closed.
