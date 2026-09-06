@@ -148,7 +148,23 @@ Corrections:
 
 Quoted Kural wording/lineation, printed `அதிகாரம்` / பாடல் metadata and relevant continuations were checked directly throughout Batch 4. Scan **152** closes the தெளிந்தான்/நெளிந்தான் vignette cleanly.
 
-Current Pass 2A coverage: **41 / 111 scans**, overall scans **112–152 / printed 95–135**.
+### Batch 5 — COMPLETE
+
+Overall scans **153–163 / printed 136–146** directly compared against the rendered source.
+
+Corrections:
+
+- scan **155**: `நடுவாங்கத்துடனும்` → `நட்டுவாங்கத்துடனும்`; `சுகத்தவிட` → `சுகத்தைவிட`;
+- scan **157**: `புலிவேட்டை` → `புரவியேறி`; restored final punctuation in Kural 423;
+- scan **158**: restored `மூதாதையர் சேர்த்துவைத்த பொற்குவியல் குன்றுபோல் உண்டு`, `அவன் துணைவி மாங்கனிதான்`, and `உணவருந்திட அழைத்தாள்`;
+- scan **159**: restored `வாரியணைத்துக் கொண்டது`, `அரும்புகளின்மீது ... மென்காற்றுக்கேற்ப`, `மௌன ஓவியங்கள்`, `வைகறைப் பொழுதின் விளிம்பு வரையில் ... தித்திக்கவில்லையா`, and `அருகம்புல்லில்`;
+- scan **160**: restored `மகாவிஷ்ணுவான நாராயணன்`, `கதைப்பார்கள்`, `முதலையிடம்`, the source `நிகழ்ச்சிச் சித்திரம்` explanation, `அனந்த சயனனையும்`, and `பரந்தாமனை அழைத்துப் பரகதி அடைந்த யானை, புராணங்களுடைய யானை`;
+- scan **161**: restored multiple source-visible elephant/terrain readings including `வேழம்`, `தேங்கி நிற்கும் சேறு நிரம்பிய`, `ஏங்குகிறது - வேதனை தாங்காமல் துடிக்கிறது`, `அகப்பட்டவில்லையானால்`, `குறள் மூலமாக`, `செல்லாக் காசாகிவிட்ட சேதியையும்`, `மூட நம்பிக்கை`, `காகப்பட்டர்`, and the exact final elephant sentence;
+- scan **163**: `சேதி கொண்டு` → `சேதிகொண்டு`; restored `அயலார் நம்மைப்பற்றிப் பேசுவதுகுறித்து நான் என்ன சொல்ல இருக்கிறது?`.
+
+Scans **153, 154, 156 and 162** required no textual correction. Printed Kural wording/lineation and `அதிகாரம்` / பாடல் metadata were checked directly. Scan 153's lexical note `உணர்த்தும் = நீக்கும்` was also confirmed. Scan **163** closes its vignette cleanly.
+
+Current Pass 2A coverage: **52 / 111 scans**, overall scans **112–163 / printed 95–146**.
 
 This is Pass 2A only. Page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`; final `verified` is unavailable until Pass 2B, Pass 3, Part audit and final synchronization close.
 
@@ -156,15 +172,15 @@ This is Pass 2A only. Page records remain `status: "needs-review"` / `visual_fid
 
 Continue **Part 002 Pass 2A — direct textual verification**.
 
-Next verification batch: **overall scans 153–163 / printed pages 136–146**.
+Next verification batch: **overall scans 164–173 / printed pages 147–156**.
 
 1. fetch live `main`;
 2. resolve the same controlling Part 002 source;
-3. inspect rendered scans **153–163** directly;
+3. inspect rendered scans **164–173** directly;
 4. fetch the corresponding existing page records before changing them;
 5. compare every source-visible printed word, punctuation, paragraph boundary, Kural lineation and printed `அதிகாரம்` / பாடல் metadata directly against the source;
 6. correct only source-supported discrepancies; do not normalize or replace this edition's wording with standard Kural text;
 7. append the results to `PASS2_TEXTUAL_VERIFICATION_PART_002.md` and advance the exact next frontier;
 8. keep final `verified` unavailable until Pass 2B and Pass 3 also close.
 
-Scan **152 / printed 135** closes the தெளிந்தான்/நெளிந்தான் vignette. Scan 153 is the next new vignette. The next batch intentionally runs for 11 scans through scan 163 so the paired vignette blocks through scans 162–163 are not split by an arbitrary workflow boundary. Part 003 must not begin until Part 002 is fully closed.
+Scan **163 / printed 146** closes the slander/friendship vignette. The next batch is 10 scans and preserves the five paired vignette blocks on scans 164–165, 166–167, 168–169, 170–171 and 172–173. Part 003 must not begin until Part 002 is fully closed.
