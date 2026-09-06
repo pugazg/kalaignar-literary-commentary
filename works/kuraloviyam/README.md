@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Current archival state |
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **source intake complete; Pass 1 COMPLETE 111/111; Pass 2A ACTIVE 93/111** |
+| 002 | 112–222 | **source intake complete; Pass 1 COMPLETE 111/111; Pass 2A ACTIVE 103/111** |
 | 003 | 223–333 | not-started |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
@@ -70,12 +70,13 @@ Completed source-verification batches:
 | 7 | 174–183 | 157–166 | COMPLETE |
 | 8 | 184–194 | 167–177 | COMPLETE |
 | 9 | 195–204 | 178–187 | COMPLETE |
+| 10 | 205–214 | 188–197 | COMPLETE |
 
-Current Pass 2A coverage: **93 / 111 scans**, overall scans **112–204 / printed 95–187**. Remaining: **18 scans**.
+Current Pass 2A coverage: **103 / 111 scans**, overall scans **112–214 / printed 95–197**. Remaining: **8 scans**.
 
-Batch 8 directly verified scans **184–194**. Corrections were required on scans **187, 188, 190, 191, 192, 193, 194**; scans **184, 185, 186, 189** required no textual correction.
+Batch 9 directly verified scans **195–204**. Corrections were required on scans **195, 197, 198, 199**; scans **196, 200, 201, 202, 203, 204** required no textual correction. Scan **203** is illustration-only and narrative continuity **202→203→204** is preserved.
 
-Batch 9 directly verified scans **195–204**. Corrections were required on scans **195, 197, 198, 199**; scans **196, 200, 201, 202, 203, 204** required no textual correction. Important source restorations include `மனைவியாட்டி`, `காத்திருக்கமாட்டாள். காரணம்;`, `களம் பல`, `கண்டதுமில்லை`, `தலையெல்லாம்`, `அரங்கில்`, `வரம்பு கடந்து`, `மறைந்திருந்து கேட்டுக் கொண்டனர்`, and the source-visible denunciation `நாடோடி இவன்! ... இவன் மூளையைச் சூளையில்தான் வைக்க வேண்டும்.` Scan **203** is illustration-only and the narrative continuity **202→203→204** is preserved.
+Batch 10 directly verified scans **205–214**. Only scan **214** required a page-record correction: `மார்பெனப்` → source-visible `மாரியெனப்`. Scans **205–213** required no textual correction. Chapter / Kural metadata was confirmed across the five paired blocks, ending with Chapter 130 / Kural 1297 on scan 214.
 
 Full scan-by-scan correction history is maintained in `PASS2_TEXTUAL_VERIFICATION_PART_002.md`.
 
@@ -83,8 +84,8 @@ This is **Pass 2A only**. Final `verified` is unavailable until Pass 2B, Pass 3,
 
 ## Current frontier
 
-Exact next activity: **Part 002 Pass 2A direct textual verification — overall scans 205–214 / printed pages 188–197**.
+Exact next activity: **Part 002 Pass 2A direct textual verification — overall scans 215–222 / printed pages 198–205**.
 
-Scan **204 / printed 187** closes its battlefield/war-elephant vignette cleanly. Scan **205 / printed 188** has been inspected as the boundary witness and begins the next `அலர்` / gossip vignette. The 10-scan batch preserves the complete paired blocks **205–206**, **207–208**, **209–210**, **211–212**, and **213–214**.
+Scan **214 / printed 197** closes its பூங்குழலி / இனியவள் disguise vignette cleanly. Scan **215 / printed 198** has been inspected as the boundary witness and begins a new warrior-departure / battlefield-death vignette. The final 8-scan Pass 2A batch preserves the complete paired blocks **215–216**, **217–218**, **219–220**, and **221–222**. Scan **218** carries a blue circular library stamp; **221→222** is a genuine continuation and scan **222 / printed 205** is the final physical scan of Part 002.
 
 Do not normalize source wording, do not substitute standard/published/web Kural text, and do not begin Part 003 before Part 002 is fully closed.
