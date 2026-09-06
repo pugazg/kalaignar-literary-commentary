@@ -51,25 +51,19 @@ Tamil 1–111 archival-ready; English closed with **107 release-ready + 4 source
 - Batch 8 — 184–194 / 167–177 — COMPLETE
 - Batch 9 — 195–204 / 178–187 — COMPLETE
 - Batch 10 — 205–214 / 188–197 — COMPLETE
-- current Pass 2A coverage — **103/111**
+- Batch 11 — 215–222 / 198–205 — COMPLETE
+- Pass 2A — **COMPLETE, 111/111 scans 112–222 / printed 95–205**
 
-Batch 10 required only one page-record correction: scan **214**, `மார்பெனப்` → source-visible `மாரியெனப்`. Scans **205–213** required no textual correction. Full results are in `PASS2_TEXTUAL_VERIFICATION_PART_002.md`.
+Batch 10 source-supported corrections were required on scans **206, 207, 208, 209, 210, 211, 213, 214**; scans **205 and 212** required no textual correction. Batch 11 corrections were required on scans **215, 216, 217, 218, 219, 220, 222**; scan **221** required no textual correction. Full results are in `PASS2_TEXTUAL_VERIFICATION_PART_002.md`.
 
-All Part 002 records remain `needs-review` / `visual_fidelity: needs-review`; Pass 2A does not authorize final `verified`.
+All Part 002 records remain `needs-review` / `visual_fidelity: needs-review`; Pass 2A completion does **not** authorize final `verified`.
 
 ## Exact next activity
 
-Continue **Part 002 Pass 2A direct textual verification** with the **final Pass 2A batch: overall scans 215–222 / printed pages 198–205**.
+Begin **Part 002 Pass 2B independent lexical-fidelity re-read** with **overall scans 112–121 / printed pages 95–104**.
 
-Scan **214 / printed 197** closes the பூங்குழலி / இனியவள் disguise vignette. Scan **215 / printed 198** was inspected only as a boundary witness and begins a new warrior-departure / battlefield-death vignette.
+Pass 2B must be independent of Pass 2A. Re-render/read the controlling source scans directly and compare every visible printed word, punctuation mark, paragraph/quotation boundary, quoted Kural wording and lineation, and printed `அதிகாரம்` / பாடல் metadata. Do not simply re-approve the Pass 2A record from memory or from the existing Markdown.
 
-Use an **8-scan final Pass 2A batch** so complete blocks are preserved:
+For newly discovered discrepancies, correct only what is directly supported by the rendered scan and record the Pass 2B result durably. Keep all page records `needs-review` and `visual_fidelity: needs-review`; Pass 3 is still required after Pass 2B.
 
-- 215–216 — warrior departure / battlefield death; Chapter 78 / Kural 780;
-- 217–218 — domestic meal / salt analogy / `ஊடல்`; Chapter 131 / Kural 1302; scan 218 carries a blue circular library stamp;
-- 219–220 — dying veteran / abandoned friendship; Chapter 80 / Kural 799;
-- 221–222 — pastoral / ஆயர்குடி; Chapter 128 / Kural 1275; 221→222 is a genuine continuation and scan 222 is Part 002's final physical scan.
-
-Render the controlling source and compare every visible printed word, punctuation, paragraph boundary, Kural lineation and printed metadata. Do not use OCR guesswork, normalization, another edition, web Kural text or memory to fill uncertain readings. Update page records only for source-supported discrepancies, then append the durable Pass 2A log and synchronize README/HANDOVER/this prompt/page-map.
-
-After scans **215–222** are complete, Pass 2A becomes **111/111**, but **do not promote pages to `verified`** and **do not start Part 003**. The next authorized phase is **Part 002 Pass 2B independent lexical reread**.
+Do not use OCR guesswork, normalization, another edition, web Kural text or memory to fill uncertain readings. Do not start Part 003 before Part 002 is fully closed.
