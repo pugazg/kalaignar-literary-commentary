@@ -9,7 +9,7 @@ Individual Markdown records under `../pages/` are authoritative for exact captur
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
-| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **source intake complete; Pass 1 COMPLETE 111/111; Pass 2A ACTIVE 20/111** |
+| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **source intake complete; Pass 1 COMPLETE 111/111; Pass 2A ACTIVE 30/111** |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
@@ -135,6 +135,7 @@ Additional physical notes:
 - scan **118 / printed 101** carries a blue circular library stamp in the lower margin;
 - **122→123** is a genuine continuation;
 - **133→134** is clean;
+- **141→142** is a clean source boundary;
 - **144→145** is a genuine continuation;
 - **155→156** is clean;
 - **166→167** is a genuine continuation;
@@ -174,13 +175,13 @@ Part 002:
 
 - source intake — **COMPLETE**;
 - Pass 1 — **COMPLETE, 111/111**, scans 112–222;
-- Pass 2A — **ACTIVE, 20/111**, scans 112–131 / printed 95–114 complete;
+- Pass 2A — **ACTIVE, 30/111**, scans 112–141 / printed 95–124 complete;
 - Pass 2B / Pass 3 — not started.
 
 ## Current frontier
 
 **Part 001: CLOSED.**
 
-**Part 002: ACTIVE — Pass 2A complete through scan 131 / printed 114, 20/111.**
+**Part 002: ACTIVE — Pass 2A complete through scan 141 / printed 124, 30/111.**
 
-Exact next activity: **Part 002 Pass 2A direct textual verification, scans 132–141 / printed 115–124**. Scan 131 closes its vignette, so scan 132 begins a new vignette. Compare every source-visible printed word, punctuation, paragraph boundary, Kural lineation and printed metadata directly against the rendered source. Final `verified` status remains unavailable until Pass 2B and Pass 3 also close.
+Exact next activity: **Part 002 Pass 2A direct textual verification, scans 142–152 / printed 125–135**. Scan 141 closes its vignette and scan 142 begins a new vignette. This 11-scan batch intentionally runs through scan 152 so the three-page scans 150–152 vignette is not split at an arbitrary workflow boundary. Compare every source-visible printed word, punctuation, paragraph boundary, Kural lineation and printed metadata directly against the rendered source. Final `verified` status remains unavailable until Pass 2B and Pass 3 also close.
