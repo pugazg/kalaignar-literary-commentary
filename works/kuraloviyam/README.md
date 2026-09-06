@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
 | 001 | 1–111 | supplied | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | **intake complete; Pass 1 112–210 complete (99/111)** |
+| 002 | 112–222 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | **intake complete; Pass 1 112–221 complete (110/111)** |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
 | 005 | 445–555 | not yet supplied | not-started |
@@ -64,38 +64,39 @@ Part 002 uses **11 physical scans per iteration**:
 - P2-07: **178–188** — COMPLETE
 - P2-08: **189–199** — COMPLETE
 - P2-09: **200–210** — COMPLETE
-- P2-10: **211–221** — NEXT
-- final remainder: **222**
+- P2-10: **211–221** — COMPLETE
+- final remainder: **222** — NEXT
 
 The 11-page cadence is only a workflow rule. Preserve source continuations across batch boundaries.
 
 ## Pass 1 progress
 
-**99 / 111 scans complete — scans 112–210 / printed pages 95–193.**
+**110 / 111 scans complete — scans 112–221 / printed pages 95–204.**
 
 All Part 002 Pass-1 records remain:
 
 - `status: "needs-review"`;
 - `visual_fidelity: "needs-review"`.
 
-P2-09 captured:
+P2-10 captured:
 
-- 200–201 — lovers/embrace vignette; Chapter 111 / Kural 1108;
-- 202–204 — battlefield/war-elephant vignette; scan 203 illustration-only; Chapter 78 / Kural 774;
-- 205–206 — `அலர்` / gossip vignette; Chapter 115 / Kural 1148;
-- 207–208 — battlefield command/courage vignette; Chapter 78 / Kurals 776, 775;
-- 209–210 — separation/tear-flood vignette; Chapter 117 / Kural 1170.
+- 211–212 — enemy-siege/treachery and mercy vignette; Chapter 21 / Kural 203;
+- 213–214 — பூங்குழலி waiting / இனியவள் disguise vignette; Chapter 130 / Kural 1297;
+- 215–216 — warrior departure/battlefield death vignette; Chapter 78 / Kural 780;
+- 217–218 — domestic meal / salt analogy / `ஊடல்`; scan 218 has a blue circular library stamp; Chapter 131 / Kural 1302;
+- 219–220 — dying veteran / abandoned friendship vignette; Chapter 80 / Kural 799;
+- 221 — pastoral / ஆயர்குடி vignette begins and continues directly to scan 222.
 
 Important boundaries:
 
-- **199→200** is a clean source boundary and was preserved;
-- scan **211 / printed 194** was inspected only as the P2-09 closing witness;
-- **210→211 is a clean source boundary** and scan 211 begins a new illustrated sword/warriors vignette.
+- **210→211** is a clean source boundary and was preserved;
+- scan **222 / printed 205** was inspected only as the P2-10 closing witness;
+- **221→222 is a genuine source continuation**; scan 222 closes the pastoral/ஆயர்குடி vignette with Chapter 128 / Kural 1275.
 
 No standard/published/web Kural wording, another edition, OCR guess or memory was used to fill uncertain readings.
 
 ## Current frontier
 
-Exact next activity: **P2-10 / Part 002 Pass 1, overall scans 211–221 / printed pages 194–204**.
+Exact next activity: capture the **final Part 002 Pass 1 remainder, scan 222 / printed page 205**, beginning as the confirmed continuation from scan 221.
 
-Begin scan 211 at the confirmed clean 210→211 boundary. Inspect scan 222 only when needed as the closing boundary witness.
+After scan 222 is captured, synchronize Pass 1 to **111/111 complete** and proceed to the next Part 002 verification gate. Do not begin Part 003.
