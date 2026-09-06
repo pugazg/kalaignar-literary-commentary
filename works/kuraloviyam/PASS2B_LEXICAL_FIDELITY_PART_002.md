@@ -82,17 +82,17 @@ Batch 3 corrections were required on scans **133, 134, 135, 138 and 141**. Scans
 |---:|---:|---|
 | 142 | 125 | independent word-level re-read complete across the illustrated medical-hypocrisy opening, uncommon compounds and sentence continuation into scan 143; no new correction required |
 | 143 | 126 | independently confirmed the medical-hypocrisy conclusion, dialogue, Kural 277, lineation, Chapter 28 / பாடல் metadata and printed monument motif separation; no new correction required |
-| 144 | 127 | independent word-level re-read complete across the illustrated secret-meeting opening, dialogue and genuine continuation into scan 145; no new correction required |
-| 145 | 128 | independently confirmed the secret-meeting conclusion, eclipse comparison, Kural 1146, lineation and Chapter 115 / பாடல் metadata; no new correction required |
-| 146 | 129 | independent word-level re-read complete across the illustrated physician/tiger opening, uncommon medical/forest wording and continuation into scan 147; no new correction required |
-| 147 | 130 | independently confirmed the physician/tiger conclusion, quoted song reference, Kural 469, lineation and Chapter 47 / பாடல் metadata; no new correction required |
+| 144 | 127 | corrected source-visible `அஞ்சாமல் செல்லலாமாக!` → `அஞ்சாமல் செல்லலாயாக!`; remaining secret-meeting opening and genuine continuation into scan 145 independently confirmed |
+| 145 | 128 | corrected `வளைந்த தென்னைபோன்றில்` → source-visible `வளைந்த தென்னையொன்றில்`; remaining secret-meeting conclusion, eclipse comparison, Kural 1146, lineation and Chapter 115 / பாடல் metadata independently confirmed |
+| 146 | 129 | corrected `வறுமையில் வாழும் மக்களுக்கு` → source-visible `வறுமையில் வாடும் மக்களுக்கு`; remaining physician/tiger opening, uncommon medical/forest wording and continuation into scan 147 independently confirmed |
+| 147 | 130 | corrected `குணைபட்ட வேங்கை` → source-visible `கணைபட்ட வேங்கை`; corrected `இரண்டாயிரம் ஆண்டுகளுக்கு` → source-visible `இரண்டாயிரம் ஆண்டுகட்கு`; remaining physician/tiger conclusion, quoted song reference, Kural 469, lineation and Chapter 47 / பாடல் metadata independently confirmed |
 | 148 | 131 | independent word-level re-read complete across the illustrated moon/separation opening and continuation into scan 149; no new correction required |
 | 149 | 132 | independently confirmed the moon/separation conclusion, Kural 1210, lineation and Chapter 121 / பாடல் metadata; no new correction required |
 | 150 | 133 | independent word-level re-read complete across the illustrated தெளிந்தான்/நெளிந்தான் opening and continuation into scan 151; no new correction required |
 | 151 | 134 | independently confirmed the தெளிந்தான்/நெளிந்தான் continuation, dialogue, Kural 142 and continuation into scan 152; no new correction required |
 | 152 | 135 | independently confirmed the vignette conclusion, Kural 145, Chapter 15 / பாடல்கள் 142, 145 metadata and clean close; no new correction required |
 
-Batch 4 required **no new lexical corrections**. All scans **142–152** match the freshly rendered controlling source at the Pass 2B lexical-fidelity gate.
+Batch 4 corrections were required on scans **144, 145, 146 and 147**. Scans **142, 143, 148, 149, 150, 151 and 152** required no new lexical correction.
 
 ## Coverage
 
