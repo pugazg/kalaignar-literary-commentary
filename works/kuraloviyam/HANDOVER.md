@@ -20,9 +20,10 @@ Read before source-dependent changes:
 6. `works/kuraloviyam/README.md`
 7. `works/kuraloviyam/PART_002_PASS1_PROGRESS.md`
 8. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_002.md`
-9. `works/kuraloviyam/indexes/page-map.md`
-10. `works/kuraloviyam/metadata/source.md`
-11. `works/kuraloviyam/metadata/transcription-policy.md`
+9. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_002.md`
+10. `works/kuraloviyam/indexes/page-map.md`
+11. `works/kuraloviyam/metadata/source.md`
+12. `works/kuraloviyam/metadata/transcription-policy.md`
 
 Permanent cadence:
 
@@ -51,7 +52,7 @@ Never fill uncertain Tamil from OCR, web text, another edition, standard Kural w
 - source intake — COMPLETE;
 - Pass 1 — COMPLETE, **111/111** scans 112–222;
 - Pass 2A — **COMPLETE, 111/111**, scans **112–222 / printed 95–205**;
-- Pass 2B — not started; **NEXT**;
+- Pass 2B — **ACTIVE, 10/111**, scans **112–121 / printed 95–104** complete;
 - Pass 3 — not started;
 - Part audit — not started.
 
@@ -71,16 +72,29 @@ Completed Pass 2A batches:
 - Batch 10: 205–214 / 188–197
 - Batch 11: 215–222 / 198–205
 
-Batch 10 source-supported corrections were required on scans **206, 207, 208, 209, 210, 211, 213, 214**; scans **205 and 212** required no textual correction. Batch 11 corrections were required on scans **215, 216, 217, 218, 219, 220, 222**; scan **221** required no textual correction. Full scan-by-scan details are durable in `PASS2_TEXTUAL_VERIFICATION_PART_002.md`.
+Batch 10 source-supported corrections were required on scans **206, 207, 208, 209, 210, 211, 213, 214**; scans **205 and 212** required no textual correction. Batch 11 corrections were required on scans **215, 216, 217, 218, 219, 220, 222**; scan **221** required no textual correction. Full scan-by-scan Pass 2A details are durable in `PASS2_TEXTUAL_VERIFICATION_PART_002.md`.
 
-Notable final-batch restorations include `தழையாகிச்`, `அக்கணமில்லை`, `நம் காளை சுழல்காற்றாய்ப்`, `என்னத்தான்`, `அதைச் சமைத்தேன்`, `காரிருள்`, `சாவுக்கு விடை கொடுத்தனுப்பி`, `எழுத்தாணியைக்`, `கொலு மண்டபத்தில்`, `பத்தாண்டுகட்கு`, `தலைமையேற்றபோது`, `இளமைக் காலந்தொட்டு`, `அவர் தான்மட்டும்`, and `மகிழ்ச்சியடைகிறான்`.
+Notable final Pass 2A restorations include `தழையாகிச்`, `அக்கணமில்லை`, `நம் காளை சுழல்காற்றாய்ப்`, `என்னத்தான்`, `அதைச் சமைத்தேன்`, `காரிருள்`, `சாவுக்கு விடை கொடுத்தனுப்பி`, `எழுத்தாணியைக்`, `கொலு மண்டபத்தில்`, `பத்தாண்டுகட்கு`, `தலைமையேற்றபோது`, `இளமைக் காலந்தொட்டு`, `அவர் தான்மட்டும்`, and `மகிழ்ச்சியடைகிறான்`.
 
 Scan **218** carries a blue circular library stamp; **221→222** is a genuine continuation; scan **222 / printed 205** closes the pastoral / ஆயர்குடி vignette and is the final physical scan of Part 002.
 
+## Pass 2B progress
+
+Batch 1 — scans **112–121 / printed 95–104** — **COMPLETE, 10/10** by independent fresh-source lexical reread.
+
+New corrections were required on scans **113, 114, 115 and 118**:
+
+- scan 113: `எடுத்துக் கொள்ள` → `எடுத்துக் கொள்ளல்`; `கைபோமாறு` → `கைபடுமாறு`;
+- scan 114: `அலைந்தாடும்` → `அசைந்தாடும்`;
+- scan 115: `ஆணழகனைப்` → `ஆண்மகனைப்`; restored `அன்னமயில் வந்து கொண்டிருக்கிறானே- ஆகா-`;
+- scan 118: `பொய் சொல்லு வகையே வாழ்க்கையாக` → `பொய் சொல்லுவதே வாழ்க்கையாக`.
+
+Scans **112, 116, 117, 119, 120 and 121** required no new lexical correction. Full Batch 1 details are durable in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
+
 ## Exact current activity
 
-Begin **Part 002 Pass 2B — independent lexical-fidelity re-read** with overall scans **112–121 / printed pages 95–104**.
+Continue **Part 002 Pass 2B — independent lexical-fidelity re-read** with overall scans **122–131 / printed pages 105–114**.
 
-Pass 2B is an independent source re-read, not a mechanical confirmation of Pass 2A. Re-render/read each controlling scan directly and compare every source-visible word, punctuation mark, paragraph/quotation boundary, Kural lineation and printed `அதிகாரம்` / பாடல் metadata. Correct only newly source-supported discrepancies and log the result separately/durably as Pass 2B.
+Pass 2B is an independent source re-read, not a mechanical confirmation of Pass 2A. Re-render/read each controlling scan directly and compare every source-visible word, punctuation mark, paragraph/quotation boundary, Kural lineation and printed `அதிகாரம்` / பாடல் metadata. Correct only newly source-supported discrepancies and append the result durably to `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
 
 Do not promote any Part 002 page to final `verified` during Pass 2B. `visual_fidelity` also remains `needs-review` until Pass 3. Do not begin Part 003 before Part 002 is fully closed.
