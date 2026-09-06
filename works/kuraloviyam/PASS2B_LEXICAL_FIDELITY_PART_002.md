@@ -55,12 +55,31 @@ Batch 1 corrections were therefore required on scans **113, 114, 115 and 118**. 
 
 Batch 2 required **no new lexical corrections**. All scans **122–131** match the freshly rendered controlling source at the Pass 2B lexical-fidelity gate.
 
+## Batch 3 — overall scans 132–141 / printed pages 115–124
+
+**Status: COMPLETE — 10 / 10 scans independently re-read against freshly rendered source pages for Pass 2B.**
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 132 | 115 | independent word-level re-read complete across the illustrated lovers' quarrel opening and continuation into scan 133; no new correction required |
+| 133 | 116 | corrected source-visible `காலை!` → `காளை!`; both Kurals 1313 and 1320, lineation, Chapter 132 / பாடல்கள் metadata and the clean 133→134 vignette boundary independently confirmed |
+| 134 | 117 | restored the source passage `செந்தமிழ் மகளிர் வீசி ஆடுகிற மலர்ப்பந்தோ? வியப்பும் வினாக்குறியும் ஒன்றையொன்று முந்தும் வண்ணம் அமைந்தது அந்த இசை நிகழ்ச்சி. குரல் வளமோ குழல் வளம் போல!`; corrected `இனிமை மேலிட` → `இனிமை மேவிட`; corrected source punctuation `கூறலாம்:` → `கூறலாம்.`; remaining court-music opening and quoted song material confirmed |
+| 135 | 118 | corrected `வேறு கொடுமை!` → source-visible `வேறோர் கொடுமை!`; remaining court-music conclusion, quoted song material, Kural 420, lineation and Chapter 42 / பாடல் metadata independently confirmed |
+| 136 | 119 | independent word-level re-read complete across the illustrated princess/commander war vignette opening and sentence continuation into scan 137; no new correction required |
+| 137 | 120 | independently confirmed the princess/commander conclusion, dialogue, Kural 1224, lineation and Chapter 123 / பாடல் metadata; no new correction required |
+| 138 | 121 | corrected source-visible joining `சிரித்துக் கொண்டிருந்தாள்` → `சிரித்துக் கொண்டு இருந்தாள்`; corrected `கேட்கவண்ணமிருந்தது` → `கேட்டவண்ணமிருந்தது`; corrected `சிறகைச் சற்றுத் தாக்கித்` → `சிறகைச் சிறிது தூக்கித்`; remaining owl/crows opening and continuation into scan 139 confirmed |
+| 139 | 122 | independently confirmed the owl/crows conclusion, dialogue, Kural 481, lineation and Chapter 49 / பாடல் metadata; no new correction required |
+| 140 | 123 | independent word-level re-read complete across the illustrated sisters/child/absent-lover opening and continuation into scan 141; no new correction required |
+| 141 | 124 | restored source dialogue `அவரைக் காணவேண்டுமென்று என்னைப் பிடுங்கித் தின்கிறான்!` in place of the prior `அவரைக் காணவேண்டுமென்று ஒரேயடியாக ஏங்குகிறான்!`; remaining vignette conclusion, Kural 1244, lineation and Chapter 125 / பாடல் metadata independently confirmed |
+
+Batch 3 corrections were required on scans **133, 134, 135, 138 and 141**. Scans **132, 136, 137, 139 and 140** required no new lexical correction.
+
 ## Coverage
 
-Pass 2B coverage: **20 / 111 scans**, overall scans **112–131 / printed 95–114**.
+Pass 2B coverage: **30 / 111 scans**, overall scans **112–141 / printed 95–124**.
 
-Remaining Pass 2B: **91 scans**.
+Remaining Pass 2B: **81 scans**.
 
-Exact next batch: **overall scans 132–141 / printed pages 115–124**.
+Exact next batch: **overall scans 142–152 / printed pages 125–135**.
 
 Do not promote Part 002 records to final `verified` during Pass 2B. Do not start Pass 3 until Pass 2B covers the whole Part, and do not begin Part 003 before Part 002 is fully closed.
