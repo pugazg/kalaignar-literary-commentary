@@ -50,7 +50,7 @@ Never fill uncertain Tamil from OCR, web text, another edition, standard Kural w
 
 - source intake — COMPLETE;
 - Pass 1 — COMPLETE, **111/111** scans 112–222;
-- Pass 2A — **ACTIVE, 72/111**, scans **112–183 / printed 95–166** complete;
+- Pass 2A — **ACTIVE, 93/111**, scans **112–204 / printed 95–187** complete;
 - Pass 2B — not started;
 - Pass 3 — not started;
 - Part audit — not started.
@@ -66,23 +66,25 @@ Completed Pass 2A batches:
 - Batch 5: 153–163 / 136–146
 - Batch 6: 164–173 / 147–156
 - Batch 7: 174–183 / 157–166
+- Batch 8: 184–194 / 167–177
+- Batch 9: 195–204 / 178–187
 
-Batch 6 and 7 details are durable in `PASS2_TEXTUAL_VERIFICATION_PART_002.md`. Batch 7 required corrections on scans **174, 176, 178, 181, 182, 183** and no textual correction on **175, 177, 179, 180**.
+Batch 8 and Batch 9 details are durable in `PASS2_TEXTUAL_VERIFICATION_PART_002.md`.
 
-Notable Batch 7 restorations: `கிட்டுகிறது`, `ஆங்கோர் யானை`, `பிரிவுக் கொடுமையைவிட`, `வெளியிடுகிறாள்`, `நீலத் திரை கடலோரம்!`, `போதாகி`, `அவனுடல் தங்கத்தில்`, `இடையணைக்கப்`, `அவர்கட்கு`.
+Batch 9 required page-record corrections on scans **195, 197, 198, 199**. Scans **196, 200, 201, 202, 203, 204** required no textual correction; scan **203** is illustration-only. Notable source restorations include `மனைவியாட்டி`, `காத்திருக்கமாட்டாள். காரணம்;`, `களம் பல`, `கண்டதுமில்லை`, `தலையெல்லாம்`, `அரங்கில்`, `வரம்பு கடந்து`, `மறைந்திருந்து கேட்டுக் கொண்டனர்`, and `நாடோடி இவன்! ... இவன் மூளையைச் சூளையில்தான் வைக்க வேண்டும்.`
 
 ## Exact current activity
 
-Continue **Part 002 Pass 2A — direct textual verification** with **overall scans 184–194 / printed pages 167–177**.
+Continue **Part 002 Pass 2A — direct textual verification** with **overall scans 205–214 / printed pages 188–197**.
 
-Scan **183** closes its vignette. Scan **184** has already been rendered and inspected only as the next boundary witness; it begins the flood/rescue vignette represented across scans **184–186**.
+Scan **204 / printed 187** closes its battlefield/war-elephant vignette cleanly. Scan **205 / printed 188** has already been rendered and inspected only as the next boundary witness and begins the `அலர்` / gossip vignette.
 
-The next 11-scan range intentionally keeps complete source blocks together:
+The next 10-scan range intentionally keeps complete source blocks together:
 
-- 184–186 — flood/rescue and human-effort vignette; Chapter 38 / Kural 380 and Chapter 62 / Kural 620;
-- 187–188 — separation/evening vignette; Chapter 123 / Kural 1222;
-- 189–190 — snake/Muthuvelar autobiographical vignette; Chapter 63 / Kural 622;
-- 191–192 — lovers/ஊடல் vignette; Chapter 133 / Kurals 1321, 1323;
-- 193–194 — Kumanan/Saathanaar generosity vignette; Chapter 23 / Kural 230.
+- 205–206 — `அலர்` / gossip vignette; Chapter 115 / Kural 1148;
+- 207–208 — battlefield command/courage vignette; Chapter 78 / Kurals 776, 775;
+- 209–210 — separation/tear-flood vignette; Chapter 117 / Kural 1170;
+- 211–212 — enemy-siege/treachery and mercy vignette; Chapter 21 / Kural 203;
+- 213–214 — பூங்குழலி waiting / இனியவள் disguise vignette; Chapter 130 / Kural 1297.
 
 For every scan: compare every printed word, punctuation mark, paragraph/quotation boundary, Kural lineation, and printed `அதிகாரம்` / பாடல் metadata directly against the rendered source. Correct only source-supported discrepancies. Keep final `verified` unavailable until Pass 2B and Pass 3 close. Do not begin Part 003.
