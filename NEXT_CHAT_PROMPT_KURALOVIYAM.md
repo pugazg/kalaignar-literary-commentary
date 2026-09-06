@@ -59,7 +59,7 @@ Key Batch 3 restorations include:
 - scan 138: `சிரித்துக் கொண்டிருந்தாள்` → `சிரித்துக் கொண்டு இருந்தாள்`; `கேட்கவண்ணமிருந்தது` → `கேட்டவண்ணமிருந்தது`; `சிறகைச் சற்றுத் தாக்கித்` → `சிறகைச் சிறிது தூக்கித்`;
 - scan 141: restored `அவரைக் காணவேண்டுமென்று என்னைப் பிடுங்கித் தின்கிறான்!`.
 
-Batch 4 found **no new lexical discrepancies** across scans **142–152**.
+Batch 4 found new source-supported corrections on scans **144, 145, 146, 147 and 152**. Key restorations are `படுத்தவளைப்போல`, `அஞ்சாமல் செல்லலாயாக!`, `வளைந்த தென்னையொன்றில்`, `வறுமையில் வாடும் மக்களுக்கு`, `கணைபட்ட வேங்கை`, `இரண்டாயிரம் ஆண்டுகட்கு`, and both source-visible `மனத்தைப்` readings on scan 152. Scans **142, 143, 148, 149, 150 and 151** required no new lexical correction.
 
 Overall Pass 2B coverage is **41/111**, scans **112–152 / printed 95–135**; **70 scans remain**. Durable details are in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
 
