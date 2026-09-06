@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
 | 001 | 1–111 | supplied | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | **intake complete; Pass 1 112–166 complete (55/111)** |
+| 002 | 112–222 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | **intake complete; Pass 1 112–177 complete (66/111)** |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
 | 005 | 445–555 | not yet supplied | not-started |
@@ -60,8 +60,8 @@ Part 002 uses **11 physical scans per iteration**:
 - P2-03: **134–144** — COMPLETE
 - P2-04: **145–155** — COMPLETE
 - P2-05: **156–166** — COMPLETE
-- P2-06: **167–177** — NEXT
-- P2-07: **178–188**
+- P2-06: **167–177** — COMPLETE
+- P2-07: **178–188** — NEXT
 - P2-08: **189–199**
 - P2-09: **200–210**
 - P2-10: **211–221**
@@ -71,32 +71,33 @@ The 11-page cadence is only a workflow rule. Preserve source continuations acros
 
 ## Pass 1 progress
 
-**55 / 111 scans complete — scans 112–166 / printed pages 95–149.**
+**66 / 111 scans complete — scans 112–177 / printed pages 95–160.**
 
 All Part 002 Pass-1 records remain:
 
 - `status: "needs-review"`;
 - `visual_fidelity: "needs-review"`.
 
-P2-05 captured:
+P2-06 captured:
 
-- 156–157 — crowd/knife and critical inquiry; Chapter 43 / Kural 423;
-- 158–159 — Maavengko/Maangani separation; Chapter 116 / Kural 1151;
-- 160–161 — elephant / terrain / strength; Chapter 50 / Kural 500;
-- 162–163 — Malaiyan/Silamban/Kalingan and slander; Chapter 19 / Kural 188;
-- 164–165 — one-sided love / kavadi; Chapter 120 / Kural 1196;
-- 166 — medical/valor vignette begins.
+- 167 — closes the medical/valor vignette begun on 166; Chapter 62 / Kural 614;
+- 168–169 — love/heart; Chapter 130 / Kural 1293;
+- 170–171 — Socrates/prison/poison; Chapter 58 / Kural 580;
+- 172–173 — lovers/separation; Chapter 128 / Kural 1280;
+- 174–175 — battlefield/war elephant; Chapter 60 / Kural 597;
+- 176 — new love/separation-night vignette begins;
+- 177 — full-page illustration for that same vignette.
 
 Important boundaries:
 
-- **155→156** is a clean source boundary;
-- scan **167 / printed 150** was inspected only as the P2-05 closing witness;
-- **166→167 is a genuine narrative continuation** and must be preserved in P2-06.
+- **166→167** is a genuine continuation and has been preserved;
+- scan **178 / printed 161** was inspected only as the P2-06 closing witness;
+- **177→178 is a genuine narrative continuation** and P2-07 must begin by continuing that vignette.
 
 No standard/published/web Kural wording, another edition, OCR guess or memory was used to fill uncertain readings.
 
 ## Current frontier
 
-Exact next activity: **P2-06 / Part 002 Pass 1, overall scans 167–177 / printed pages 150–160**.
+Exact next activity: **P2-07 / Part 002 Pass 1, overall scans 178–188 / printed pages 161–171**.
 
-Begin scan 167 as continuation of scan 166. Inspect scan 178 only when needed as the closing boundary witness.
+Begin scan 178 as continuation of scans 176–177. Inspect scan 189 only when needed as the closing boundary witness.
