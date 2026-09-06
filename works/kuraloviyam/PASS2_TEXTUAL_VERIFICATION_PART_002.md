@@ -32,15 +32,32 @@ Page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
 | 120 | 103 | corrected source-visible pronoun `அவன் மன்னித்து` → `அவள் மன்னித்து`; Kural and Chapter 129 / பாடல் 1285 metadata confirmed |
 | 121 | 104 | direct textual comparison complete; merchant-partners vignette begins; final sentence continues directly into scan 122 |
 
+## Batch 2 — overall scans 122–131 / printed pages 105–114
+
+**Status: COMPLETE — 10 / 10 scans directly compared with the rendered source scan for Pass 2A.**
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 122 | 105 | corrected `விட்டவில்லை` → source-visible `விடவில்லை`; continuation from scan 121 and into scan 123 confirmed |
+| 123 | 106 | corrected `பேழையைக் தாக்கிக்கொண்டு` → `பேழையைத் தூக்கிக்கொண்டு` and `கேலியில்லாமல்` → `தேவையில்லாமல்`; Chapter 51 / Kural 510 wording and metadata confirmed; merchant/rest-house vignette closes |
+| 124 | 107 | corrected `கோவையப்பழ` → `கோவைப்பழ` and `கண்ணழகும்` → `கன்னமுங்`; continuation into scan 125 confirmed |
+| 125 | 108 | corrected `அழுவாளேன்?` → source-visible `அழுவானேன்?`; Chapter 130 / Kural 1291 wording and metadata confirmed |
+| 126 | 109 | direct textual comparison complete; no page-record correction required; Gandhi vignette continues into scan 127 |
+| 127 | 110 | corrected `வணக்கத்தைக் சூழ்ந்திருந்தோர்` → `வணக்கத்தைச் சூழ்ந்திருந்தோர்`, `அம்மலோ!` → `அம்மவோ!`, and `கைகளிலே` → `கைகளுள்ளே`; Chapter 83 / Kural 828 wording and metadata confirmed |
+| 128 | 111 | direct textual comparison complete; no page-record correction required; sneezing/lovers vignette continues into scan 129 |
+| 129 | 112 | corrected Kural line `ஊடி இருந்தேமாத்` → source-visible `ஊடி யிருந்தேமாத்`; both printed Kural blocks and Chapter 132 / பாடல்கள் 1317, 1312 metadata confirmed |
+| 130 | 113 | corrected `அறவே அவரது விழிகளின் ஒளி படுமாறு விட்ட காரணத்தால்` → source-visible `அறவே அவரது விழிகளின் ஒளி பழுதாகி விடாத காரணத்தால்`; continuation into scan 131 confirmed |
+| 131 | 114 | corrected `முதியவர் அந்த இளைஞனிருந்த முகம் மலர மொழிந்தார்` → source-visible `முதியவர் அந்த இளந்தளிருக்கு முத்த மழை பொழிந்தார்`; Chapter 10 / Kural 100 wording and metadata confirmed; vignette closes |
+
 ## Current Pass 2A coverage
 
-- complete: **10 / 111 scans**;
-- overall scans: **112–121**;
-- printed pages: **95–104**;
-- remaining Pass 2A: **101 scans**.
+- complete: **20 / 111 scans**;
+- overall scans: **112–131**;
+- printed pages: **95–114**;
+- remaining Pass 2A: **91 scans**.
 
 ## Exact next Pass 2A activity
 
-Proceed with overall scans **122–131 / printed pages 105–114**.
+Proceed with overall scans **132–141 / printed pages 115–124**.
 
-Start scan 122 as the direct continuation from scan 121. Keep final `verified` unavailable until Pass 2B, Pass 3 and final synchronization close.
+This next batch begins at a new vignette after the clean close on scan 131. Keep final `verified` unavailable until Pass 2B, Pass 3 and final synchronization close.
