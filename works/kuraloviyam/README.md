@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
 | 001 | 1–111 | supplied | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | **intake complete; Pass 1 112–188 complete (77/111)** |
+| 002 | 112–222 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | **intake complete; Pass 1 112–199 complete (88/111)** |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
 | 005 | 445–555 | not yet supplied | not-started |
@@ -62,8 +62,8 @@ Part 002 uses **11 physical scans per iteration**:
 - P2-05: **156–166** — COMPLETE
 - P2-06: **167–177** — COMPLETE
 - P2-07: **178–188** — COMPLETE
-- P2-08: **189–199** — NEXT
-- P2-09: **200–210**
+- P2-08: **189–199** — COMPLETE
+- P2-09: **200–210** — NEXT
 - P2-10: **211–221**
 - final remainder: **222**
 
@@ -71,31 +71,31 @@ The 11-page cadence is only a workflow rule. Preserve source continuations acros
 
 ## Pass 1 progress
 
-**77 / 111 scans complete — scans 112–188 / printed pages 95–171.**
+**88 / 111 scans complete — scans 112–199 / printed pages 95–182.**
 
 All Part 002 Pass-1 records remain:
 
 - `status: "needs-review"`;
 - `visual_fidelity: "needs-review"`.
 
-P2-07 captured:
+P2-08 captured:
 
-- 178 — closes the love/separation-night vignette from scans 176–177; Chapter 117 / Kurals 1168, 1169;
-- 179–180 — king/minister/two-spies; Chapter 63 / Kural 621 and Chapter 59 / Kural 588;
-- 181–183 — moonlit-seaside lovers; Chapter 132 / Kural 1316;
-- 184–186 — flood/rescue and human effort; Chapter 38 / Kural 380 and Chapter 62 / Kural 620;
-- 187–188 — separation/evening; Chapter 123 / Kural 1222.
+- 189–190 — snake/Muthuvelar autobiographical vignette; Chapter 63 / Kural 622;
+- 191–192 — lovers / `ஊடல்`; Chapter 133 / Kurals 1321, 1323;
+- 193–194 — Kumanan/Saathanaar generosity; Chapter 23 / Kural 230;
+- 195–196 — returning warrior / maiden; Chapter 109 / Kurals 1088, 1087, 1082;
+- 197–199 — praise/reversal vignette; Chapter 63 / Kural 629.
 
 Important boundaries:
 
-- **177→178** is a genuine narrative continuation and has been preserved;
-- scan **189 / printed 172** was inspected only as the P2-07 closing witness;
-- **188→189 is a clean source boundary** and scan 189 begins a new illustrated household vignette.
+- **188→189** is a clean source boundary and was preserved;
+- scan **200 / printed 183** was inspected only as the P2-08 closing witness;
+- **199→200 is a clean source boundary** and scan 200 begins a new illustrated lovers vignette.
 
 No standard/published/web Kural wording, another edition, OCR guess or memory was used to fill uncertain readings.
 
 ## Current frontier
 
-Exact next activity: **P2-08 / Part 002 Pass 1, overall scans 189–199 / printed pages 172–182**.
+Exact next activity: **P2-09 / Part 002 Pass 1, overall scans 200–210 / printed pages 183–193**.
 
-Begin scan 189 at the confirmed clean 188→189 boundary. Inspect scan 200 only when needed as the closing boundary witness.
+Begin scan 200 at the confirmed clean 199→200 boundary. Inspect scan 211 only when needed as the closing boundary witness.
