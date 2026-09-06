@@ -178,27 +178,43 @@ All Part 002 page records remain `status: "needs-review"` / `visual_fidelity: "n
 | Scan | Printed page | Result |
 |---:|---:|---|
 | 205 | 188 | direct textual comparison complete; no page-record correction required; `அலர்` / gossip vignette begins and continues into 206 |
-| 206 | 189 | direct textual comparison complete; no page-record correction required; Chapter 115 / Kural 1148 confirmed; vignette closes |
-| 207 | 190 | direct textual comparison complete; no page-record correction required; battlefield command/courage vignette begins and continues into 208 |
-| 208 | 191 | direct textual comparison complete; no page-record correction required; Chapter 78 / Kurals 776, 775 confirmed; vignette closes |
-| 209 | 192 | direct textual comparison complete; no page-record correction required; separation/tear-flood vignette begins and continues into 210 |
-| 210 | 193 | direct textual comparison complete; no page-record correction required; Chapter 117 / Kural 1170 confirmed; vignette closes and 210→211 is clean |
-| 211 | 194 | direct textual comparison complete; no page-record correction required; enemy-siege/treachery and mercy vignette begins and continues into 212 |
+| 206 | 189 | `காதுற்று` → `காதலுற்று`; `தனியாமல்` → `தணியாமல்`; Chapter 115 / Kural 1148 confirmed; vignette closes |
+| 207 | 190 | `கணக்குப் பார்த்தும்` → `கணக்குப் பார்ப்பதும்`; battlefield command/courage vignette continues into 208 |
+| 208 | 191 | `பயனற்ற நாட்களேயாகும்` → `பயன்படாத நாட்களேயாகும்`; Chapter 78 / Kurals 776, 775 confirmed; vignette closes |
+| 209 | 192 | `போய்விட்டார்கள்` → `போய்விட்டீர்கள்`; `அவரைத் தேடித்தான்` → `அவனைத் தேடித்தான்`; `சென்று கொண்டிருக்கிறோம்` → `சென்றுகொண்டிருக்கிறோம்`; continues into 210 |
+| 210 | 193 | `முத்து வரிசைகள்` → `முத்து விரிசைகள்`; `இணைந்துக் களித்தனர்` → `இணைந்து களித்தனர்`; Chapter 117 / Kural 1170 confirmed; vignette closes and 210→211 is clean |
+| 211 | 194 | restored source punctuation `விடைகாண முடியவில்லை எனினும்`; `தன் படைவரிசையில் இருந்து நுழைந்தார்களே` → `தன் படைவரிசையிலிருந்து நுழைந்தார்கள்`; `கவலை யைப்` → `கவலையைப்`; continues into 212 |
 | 212 | 195 | direct textual comparison complete; no page-record correction required; Chapter 21 / Kural 203 confirmed; vignette closes |
-| 213 | 196 | direct textual comparison complete; no page-record correction required; பூங்குழலி waiting / இனியவள் disguise vignette begins and continues into 214 |
-| 214 | 197 | corrected `மார்பெனப்` → source-visible `மாரியெனப்`; Chapter 130 / Kural 1297 confirmed; vignette closes cleanly |
+| 213 | 196 | `காதலையின்` → `காதலனின்`; பூங்குழலி waiting / இனியவள் disguise vignette continues into 214 |
+| 214 | 197 | `மார்பெனப்` → source-visible `மாரியெனப்`; Chapter 130 / Kural 1297 confirmed; vignette closes cleanly |
+
+## Batch 11 — overall scans 215–222 / printed pages 198–205
+
+**Status: COMPLETE — 8 / 8 scans directly compared against the rendered source. Pass 2A is complete for all Part 002 scans.**
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 215 | 198 | `தழையாக்கிச்` → `தழையாகிச்`; warrior-departure / battlefield-death vignette continues into 216 |
+| 216 | 199 | `அக்கனமில்லை` → `அக்கணமில்லை`; `படைவரிசை` → `படை வரிசை`; `நம் காலை சூழல்காற்றாய்ப்` → `நம் காளை சுழல்காற்றாய்ப்`; `ஏற்பட்டுகின்ற` → `ஏற்படுகின்ற`; Chapter 78 / Kural 780 confirmed; vignette closes |
+| 217 | 200 | `எனத்தான்` → `என்னத்தான்`; domestic meal / salt / ஊடல் vignette continues into 218 |
+| 218 | 201 | `அதைக் சமைத்தேன்` → `அதைச் சமைத்தேன்`; blue circular library stamp remains separate from text; Chapter 131 / Kural 1302 confirmed; vignette closes |
+| 219 | 202 | `காரிரை` → `காரிருள்`; `சாவுறுக்கு விடை கொடுத்த ஞாபி` → `சாவுக்கு விடை கொடுத்தனுப்பி`; `எழுதியத்தானே` → `எழுதித்தானே`; `எழுதாணியைக்` → `எழுத்தாணியைக்`; dying-veteran / friendship vignette continues into 220 |
+| 220 | 203 | restored `கொலு மண்டபத்தில்`, `பத்தாண்டுகட்கு`, `பழையனூரைப் படையை`, `தலைமையேற்றபோது`, `இளமைக் காலந்தொட்டு`, `என்ன ஆனாரோ?`, `அவர் தான்மட்டும்`, and the source-visible explanation `கேடு வருகிற நேரத்தில் கைவிட்டு ஒதுங்குகிறவனின் நட்பு, சாகும்போது நினைத்தாலும் உள்ளத்தைச் சுடக்கூடிய வேதனையளிக்கக் கூடியதாகும்.`; Chapter 80 / Kural 799 confirmed; vignette closes |
+| 221 | 204 | direct textual comparison complete; no page-record correction required; pastoral / ஆயர்குடி vignette begins and genuinely continues into 222 |
+| 222 | 205 | `மகிழ்ச்சியடைந்தான்` → `மகிழ்ச்சியடைகிறான்`; Chapter 128 / Kural 1275 confirmed; vignette closes; final physical scan of Part 002 |
 
 ## Current Pass 2A coverage
 
-- complete: **103 / 111 scans**;
-- overall scans: **112–214**;
-- printed pages: **95–197**;
-- remaining Pass 2A: **8 scans**.
+- complete: **111 / 111 scans**;
+- overall scans: **112–222**;
+- printed pages: **95–205**;
+- remaining Pass 2A: **0 scans**;
+- state: **PASS 2A COMPLETE**.
 
-## Exact next Pass 2A activity
+## Exact next activity
 
-Proceed with overall scans **215–222 / printed pages 198–205**.
+Begin **Part 002 Pass 2B — independent lexical-fidelity re-read**, starting with overall scans **112–121 / printed pages 95–104**.
 
-Scan **214 / printed 197** closes the பூங்குழலி / இனியவள் disguise vignette cleanly. Scan **215 / printed 198** has been inspected as the boundary witness and begins a new warrior-departure / battlefield-death vignette. The final 8-scan Pass 2A batch preserves complete paired source blocks **215–216**, **217–218**, **219–220**, and **221–222**; scan 218 carries a blue circular library stamp and 221→222 is a genuine continuation.
+Pass 2B must be an independent source re-read rather than a mechanical confirmation of Pass 2A. Re-render/read the controlling scans directly, compare source-visible words, punctuation, Kural lineation and printed metadata, and record any newly discovered source discrepancy. Page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`; final `verified` is still unavailable until Pass 2B, Pass 3, the Part audit and final synchronization close.
 
-Keep final `verified` unavailable until Pass 2B, Pass 3, the Part audit and final synchronization close. Part 003 must not begin before Part 002 is fully closed.
+Part 003 must not begin before Part 002 is fully closed.
