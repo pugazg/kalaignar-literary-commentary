@@ -128,7 +128,27 @@ Corrections:
 
 Scan **140** required no textual correction. Printed Kural wording/lineation and `அதிகாரம்` / பாடல் metadata were checked directly throughout the batch. Scan **141** closes the vignette cleanly.
 
-Current Pass 2A coverage: **30 / 111 scans**, overall scans **112–141 / printed 95–124**.
+### Batch 4 — COMPLETE
+
+Overall scans **142–152 / printed 125–135** directly compared against the rendered source.
+
+Corrections:
+
+- scan **142**: restored `விளையாடுகிறவர்கள்`, `சொல்லாவிட்டால்`, `சொன்னவரைக் குறைகளே`, `அதற்குத் திட்டமிட்டே`, `அரண்மனை`, `ஆவலை`, and plural `விசுவாசிகள்`;
+- scan **143**: restored `நொடியிலேயே விசுவாசிகள்`, `விற்றது`, and `அன்றிரவு இவரே`;
+- scan **144**: `பாலையப்` → `பாலைப்`;
+- scan **145**: restored `ஏன் தெரியாது?`, `என்பதைத் தான் சொல்லுகிறேனே`, and `தென்னந்தோப்புச்`;
+- scan **146**: `மனிதர்க்கு` → `மானிடர்க்கு`;
+- scan **147**: restored `குணைபட்ட வேங்கை`, source attack wording `அவர் மார்பகத்தைப் பிளந்து`, and `பாட்டைப்`;
+- scan **148**: `சிறிவிழும்` → `சீறிவிழும்`;
+- scan **149**: restored `முடியவில்லைத்தான்` and `நிலாவின்மீது`;
+- scan **150**: restored source punctuation after `நண்பர்கள்` and `தேவைப்படுகிற`;
+- scan **151**: restored `சிறப்புறத் திகழ்ந்தவர்கள்` and `அறத்தை விட்டுத்`;
+- scan **152**: restored `அவன் வலையில்` and `களிபேருவகை`.
+
+Quoted Kural wording/lineation, printed `அதிகாரம்` / பாடல் metadata and relevant continuations were checked directly throughout Batch 4. Scan **152** closes the தெளிந்தான்/நெளிந்தான் vignette cleanly.
+
+Current Pass 2A coverage: **41 / 111 scans**, overall scans **112–152 / printed 95–135**.
 
 This is Pass 2A only. Page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`; final `verified` is unavailable until Pass 2B, Pass 3, Part audit and final synchronization close.
 
@@ -136,15 +156,15 @@ This is Pass 2A only. Page records remain `status: "needs-review"` / `visual_fid
 
 Continue **Part 002 Pass 2A — direct textual verification**.
 
-Next verification batch: **overall scans 142–152 / printed pages 125–135**.
+Next verification batch: **overall scans 153–163 / printed pages 136–146**.
 
 1. fetch live `main`;
 2. resolve the same controlling Part 002 source;
-3. inspect rendered scans **142–152** directly;
+3. inspect rendered scans **153–163** directly;
 4. fetch the corresponding existing page records before changing them;
 5. compare every source-visible printed word, punctuation, paragraph boundary, Kural lineation and printed `அதிகாரம்` / பாடல் metadata directly against the source;
 6. correct only source-supported discrepancies; do not normalize or replace this edition's wording with standard Kural text;
 7. append the results to `PASS2_TEXTUAL_VERIFICATION_PART_002.md` and advance the exact next frontier;
 8. keep final `verified` unavailable until Pass 2B and Pass 3 also close.
 
-Scan 141 closes its vignette and scan 142 begins the next vignette cleanly. The next batch intentionally runs for 11 scans through scan 152 so the three-page vignette on scans 150–152 is not split by an arbitrary 10-scan workflow boundary. Part 003 must not begin until Part 002 is fully closed.
+Scan **152 / printed 135** closes the தெளிந்தான்/நெளிந்தான் vignette. Scan 153 is the next new vignette. The next batch intentionally runs for 11 scans through scan 163 so the paired vignette blocks through scans 162–163 are not split by an arbitrary workflow boundary. Part 003 must not begin until Part 002 is fully closed.
