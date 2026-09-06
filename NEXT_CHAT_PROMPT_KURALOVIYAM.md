@@ -42,7 +42,8 @@ Durable Part 002 controls:
 - Pass 2A Batch 1 / overall scans **112–121 / printed 95–104** — COMPLETE
 - Pass 2A Batch 2 / overall scans **122–131 / printed 105–114** — COMPLETE
 - Pass 2A Batch 3 / overall scans **132–141 / printed 115–124** — COMPLETE
-- total Pass 2A coverage — **30/111**
+- Pass 2A Batch 4 / overall scans **142–152 / printed 125–135** — COMPLETE
+- total Pass 2A coverage — **41/111**
 
 Batch 1 corrections:
 
@@ -75,7 +76,23 @@ Batch 3 corrections:
 - scan **139**: restored source punctuation and `வெற்றி பெற்றார்கள்`;
 - scan **141**: restored `காதலியின் நெஞ்சம் அவள் காதலனைத் தேடிச் செல்கிறதாம்`, `கண்கள், அவளைப் பிடுங்கித் தின்கின்றனவாம்`, and `செல்க!`.
 
-Scan **140** required no textual correction. Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata were checked directly throughout Batch 3. Scan 141 closes its vignette cleanly.
+Scan **140** required no textual correction.
+
+Batch 4 corrections:
+
+- scan **142**: restored `விளையாடுகிறவர்கள்`, `சொல்லாவிட்டால்`, `சொன்னவரைக் குறைகளே`, `அதற்குத் திட்டமிட்டே`, `அரண்மனை`, `ஆவலை`, and plural `விசுவாசிகள்`;
+- scan **143**: restored `நொடியிலேயே விசுவாசிகள்`, `விற்றது`, and `அன்றிரவு இவரே`;
+- scan **144**: `பாலையப்` → `பாலைப்`;
+- scan **145**: restored `ஏன் தெரியாது?`, `என்பதைத் தான் சொல்லுகிறேனே`, and `தென்னந்தோப்புச்`;
+- scan **146**: `மனிதர்க்கு` → `மானிடர்க்கு`;
+- scan **147**: restored `குணைபட்ட வேங்கை`, `அவர் மார்பகத்தைப் பிளந்து`, and `பாட்டைப்`;
+- scan **148**: `சிறிவிழும்` → `சீறிவிழும்`;
+- scan **149**: restored `முடியவில்லைத்தான்` and `நிலாவின்மீது`;
+- scan **150**: restored source punctuation after `நண்பர்கள்` and `தேவைப்படுகிற`;
+- scan **151**: restored `சிறப்புறத் திகழ்ந்தவர்கள்` and `அறத்தை விட்டுத்`;
+- scan **152**: restored `அவன் வலையில்` and `களிபேருவகை`.
+
+Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata were checked directly throughout Batch 4. Scan **152** closes the தெளிந்தான்/நெளிந்தான் vignette cleanly.
 
 All Part 002 page records remain:
 
@@ -88,15 +105,15 @@ That is intentional. Pass 2A alone does not permit final `verified`; Pass 2B, Pa
 
 Continue **Part 002 Pass 2A — direct textual verification**.
 
-Next batch: **overall scans 142–152 / printed pages 125–135**.
+Next batch: **overall scans 153–163 / printed pages 136–146**.
 
 1. fetch live `main` and preserve newer durable work;
 2. read `KURALOVIYAM_ARCHIVAL_GUIDELINES.md`, `works/kuraloviyam/HANDOVER.md`, `works/kuraloviyam/README.md`, `works/kuraloviyam/PART_002_PASS1_PROGRESS.md`, `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_002.md`, `works/kuraloviyam/indexes/page-map.md`, `works/kuraloviyam/metadata/source.md`, and `works/kuraloviyam/metadata/transcription-policy.md`;
-3. resolve the same controlling Part 002 PDF and render scans **142–152** directly;
+3. resolve the same controlling Part 002 PDF and render scans **153–163** directly;
 4. fetch the existing corresponding page records before editing;
 5. compare every source-visible printed word, punctuation, paragraph boundary, Kural lineation and printed `அதிகாரம்` / பாடல் metadata directly against the rendered scan;
 6. correct only source-supported discrepancies; do not normalize spelling or substitute a standard/published/web Kural reading;
 7. append the batch results to `PASS2_TEXTUAL_VERIFICATION_PART_002.md` and advance the exact next verification frontier;
 8. this is Pass 2A only — do not assign final `verified` merely because a page has passed this gate.
 
-Scan **141 / printed 124** closes the preceding vignette and scan 142 begins a new vignette. This next batch intentionally runs for 11 scans through scan 152 so the three-page vignette on scans 150–152 is not split at an arbitrary 10-scan workflow boundary. Part 003 must not begin until Part 002 is fully closed.
+Scan **152 / printed 135** closes the preceding vignette. Scan 153 is the next new vignette. This next batch intentionally runs for 11 scans through scan 163 so the paired vignette blocks through scans 162–163 are not split at an arbitrary workflow boundary. Part 003 must not begin until Part 002 is fully closed.
