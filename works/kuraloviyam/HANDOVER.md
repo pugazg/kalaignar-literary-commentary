@@ -63,9 +63,9 @@ All **111 / 111** physical scans are captured as page-aligned Tamil records: ove
 - P2-10 / scans **211–221** — COMPLETE
 - final remainder / scan **222** — COMPLETE
 
-All Part 002 records remain `needs-review` / `visual_fidelity: needs-review` after Pass 1 as required by policy.
+All Part 002 records remain `needs-review` / `visual_fidelity: needs-review` as required by the staged workflow.
 
-Final continuity controls:
+Final continuity controls from Pass 1:
 
 - **122→123** continuation preserved;
 - **133→134** clean;
@@ -83,32 +83,50 @@ No standard/published/web Kural wording, another edition, OCR guess or memory wa
 
 ## Part 002 Pass 2A — ACTIVE
 
-Batch 1 / overall scans **112–121 / printed 95–104** is **COMPLETE: 10 / 111 scans** directly compared against the rendered source.
+### Batch 1 — COMPLETE
 
-Source-supported page-record corrections made in Batch 1:
+Overall scans **112–121 / printed 95–104** directly compared against the rendered source.
 
-- scan **113 / printed 96**: `காமத்துப்பால் வாழ்வாக` → `காமத்துப்பால் வாயிலாக`;
-- scan **115 / printed 98**: `அடடே!` → `அடேடே!`;
-- scan **120 / printed 103**: `அவன் மன்னித்து` → `அவள் மன்னித்து`.
+Corrections:
 
-Scans 112, 114, 116–119 and 121 required no textual correction. Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata in the batch were compared directly. Scan 118's blue circular library stamp remains separate from printed prose. Continuations **117→118**, **119→120** and **121→122** were confirmed.
+- scan **113**: `காமத்துப்பால் வாழ்வாக` → `காமத்துப்பால் வாயிலாக`;
+- scan **115**: `அடடே!` → `அடேடே!`;
+- scan **120**: `அவன் மன்னித்து` → `அவள் மன்னித்து`.
 
-This is Pass 2A only. Page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`; final `verified` is unavailable until Pass 2B, Pass 3 and final synchronization close.
+### Batch 2 — COMPLETE
+
+Overall scans **122–131 / printed 105–114** directly compared against the rendered source.
+
+Corrections:
+
+- scan **122**: `விட்டவில்லை` → `விடவில்லை`;
+- scan **123**: `பேழையைக் தாக்கிக்கொண்டு` → `பேழையைத் தூக்கிக்கொண்டு`; `கேலியில்லாமல்` → `தேவையில்லாமல்`;
+- scan **124**: `கோவையப்பழ` → `கோவைப்பழ`; `கண்ணழகும்` → `கன்னமுங்`;
+- scan **125**: `அழுவாளேன்?` → `அழுவானேன்?`;
+- scan **127**: `வணக்கத்தைக் சூழ்ந்திருந்தோர்` → `வணக்கத்தைச் சூழ்ந்திருந்தோர்`; `அம்மலோ!` → `அம்மவோ!`; `கைகளிலே` → `கைகளுள்ளே`;
+- scan **129**: `ஊடி இருந்தேமாத்` → `ஊடி யிருந்தேமாத்` in the printed Kural line;
+- scan **130**: restored source-visible `அறவே அவரது விழிகளின் ஒளி பழுதாகி விடாத காரணத்தால்`;
+- scan **131**: restored source-visible `முதியவர் அந்த இளந்தளிருக்கு முத்த மழை பொழிந்தார்.`
+
+Scans **126** and **128** required no textual correction. Printed Kural wording/lineation and `அதிகாரம்` / பாடல் metadata were checked directly. Continuity from **121→122→123** was confirmed. Scan 131 closes its vignette cleanly.
+
+Current Pass 2A coverage: **20 / 111 scans**, overall scans **112–131 / printed 95–114**.
+
+This is Pass 2A only. Page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`; final `verified` is unavailable until Pass 2B, Pass 3, Part audit and final synchronization close.
 
 ## Exact current activity
 
 Continue **Part 002 Pass 2A — direct textual verification**.
 
-Next verification batch: **overall scans 122–131 / printed pages 105–114**.
+Next verification batch: **overall scans 132–141 / printed pages 115–124**.
 
 1. fetch live `main`;
 2. resolve the same controlling Part 002 source;
-3. inspect rendered scans **122–131** directly;
-4. start scan 122 as the direct continuation from scan 121;
-5. fetch the corresponding existing page records before changing them;
-6. compare every source-visible printed word, punctuation, paragraph boundary, Kural lineation and printed `அதிகாரம்` / பாடல் metadata directly against the source;
-7. correct only source-supported discrepancies; do not normalize or replace this edition's wording with standard Kural text;
-8. append the results to `PASS2_TEXTUAL_VERIFICATION_PART_002.md` and advance the exact next frontier;
-9. keep final `verified` unavailable until Pass 2B and Pass 3 also close.
+3. inspect rendered scans **132–141** directly;
+4. fetch the corresponding existing page records before changing them;
+5. compare every source-visible printed word, punctuation, paragraph boundary, Kural lineation and printed `அதிகாரம்` / பாடல் metadata directly against the source;
+6. correct only source-supported discrepancies; do not normalize or replace this edition's wording with standard Kural text;
+7. append the results to `PASS2_TEXTUAL_VERIFICATION_PART_002.md` and advance the exact next frontier;
+8. keep final `verified` unavailable until Pass 2B and Pass 3 also close.
 
-Part 003 must not begin until Part 002 is fully closed.
+Scan 131 closes its vignette, so scan 132 begins the next vignette cleanly. Part 003 must not begin until Part 002 is fully closed.
