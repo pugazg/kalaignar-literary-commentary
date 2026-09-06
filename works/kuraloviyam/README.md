@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
 | 001 | 1–111 | supplied | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | **intake complete; Pass 1 COMPLETE 111/111; Pass 2A ACTIVE 10/111** |
+| 002 | 112–222 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | **intake complete; Pass 1 COMPLETE 111/111; Pass 2A ACTIVE 20/111** |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
 | 005 | 445–555 | not yet supplied | not-started |
@@ -86,20 +86,35 @@ No standard/published/web Kural wording, another edition, OCR guess or memory wa
 
 ## Part 002 Pass 2A — ACTIVE
 
-Batch 1 / overall scans **112–121 / printed pages 95–104** is **COMPLETE: 10 / 111 scans** directly compared against the rendered source.
+Batch 1 / overall scans **112–121 / printed pages 95–104** is **COMPLETE**.
 
-Source-supported corrections:
+Source-supported Batch 1 corrections:
 
-- scan **113 / printed 96** — `காமத்துப்பால் வாழ்வாக` → `காமத்துப்பால் வாயிலாக`;
-- scan **115 / printed 98** — `அடடே!` → `அடேடே!`;
-- scan **120 / printed 103** — `அவன் மன்னித்து` → `அவள் மன்னித்து`.
+- scan **113** — `காமத்துப்பால் வாழ்வாக` → `காமத்துப்பால் வாயிலாக`;
+- scan **115** — `அடடே!` → `அடேடே!`;
+- scan **120** — `அவன் மன்னித்து` → `அவள் மன்னித்து`.
 
-The other seven scans in the batch required no textual correction. Quoted Kural wording/lineation, printed `அதிகாரம்` / பாடல் metadata and the relevant continuations were checked directly. Scan 118's blue circular library stamp remains separate from printed prose.
+Batch 2 / overall scans **122–131 / printed pages 105–114** is **COMPLETE**.
+
+Source-supported Batch 2 corrections:
+
+- scan **122** — `விட்டவில்லை` → `விடவில்லை`;
+- scan **123** — `பேழையைக் தாக்கிக்கொண்டு` → `பேழையைத் தூக்கிக்கொண்டு`; `கேலியில்லாமல்` → `தேவையில்லாமல்`;
+- scan **124** — `கோவையப்பழ` → `கோவைப்பழ`; `கண்ணழகும்` → `கன்னமுங்`;
+- scan **125** — `அழுவாளேன்?` → `அழுவானேன்?`;
+- scan **127** — `வணக்கத்தைக் சூழ்ந்திருந்தோர்` → `வணக்கத்தைச் சூழ்ந்திருந்தோர்`; `அம்மலோ!` → `அம்மவோ!`; `கைகளிலே` → `கைகளுள்ளே`;
+- scan **129** — Kural line `ஊடி இருந்தேமாத்` → `ஊடி யிருந்தேமாத்`;
+- scan **130** — restored source-visible `அறவே அவரது விழிகளின் ஒளி பழுதாகி விடாத காரணத்தால்`;
+- scan **131** — restored source-visible `முதியவர் அந்த இளந்தளிருக்கு முத்த மழை பொழிந்தார்.`
+
+Scans **126** and **128** required no textual correction. Kural wording/lineation, printed `அதிகாரம்` / பாடல் metadata and relevant continuations were directly checked throughout the batch.
+
+Current Pass 2A coverage: **20 / 111 scans**, overall scans **112–131 / printed 95–114**.
 
 This is intentionally not a final verification state: Pass 2B, Pass 3, the Part audit and final synchronization remain pending.
 
 ## Current frontier
 
-Exact next activity: continue **Part 002 Pass 2A — direct textual verification** with overall scans **122–131 / printed pages 105–114**.
+Exact next activity: continue **Part 002 Pass 2A — direct textual verification** with overall scans **132–141 / printed pages 115–124**.
 
-Start scan **122** as the direct continuation from scan 121. Compare every source-visible printed word, punctuation, paragraph boundary, Kural lineation and printed metadata directly against the rendered source. Do not normalize source wording. Part 003 must not begin until Part 002 is fully closed.
+Scan **131 / printed 114** closes its vignette, so scan 132 begins a new vignette. Compare every source-visible printed word, punctuation, paragraph boundary, Kural lineation and printed metadata directly against the rendered source. Do not normalize source wording. Part 003 must not begin until Part 002 is fully closed.
