@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
 | 001 | 1–111 | supplied | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | **intake complete; Pass 1 COMPLETE 111/111; Pass 2A ACTIVE 20/111** |
+| 002 | 112–222 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | **intake complete; Pass 1 COMPLETE 111/111; Pass 2A ACTIVE 30/111** |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
 | 005 | 445–555 | not yet supplied | not-started |
@@ -107,14 +107,30 @@ Source-supported Batch 2 corrections:
 - scan **130** — restored source-visible `அறவே அவரது விழிகளின் ஒளி பழுதாகி விடாத காரணத்தால்`;
 - scan **131** — restored source-visible `முதியவர் அந்த இளந்தளிருக்கு முத்த மழை பொழிந்தார்.`
 
-Scans **126** and **128** required no textual correction. Kural wording/lineation, printed `அதிகாரம்` / பாடல் metadata and relevant continuations were directly checked throughout the batch.
+Scans **126** and **128** required no textual correction.
 
-Current Pass 2A coverage: **20 / 111 scans**, overall scans **112–131 / printed 95–114**.
+Batch 3 / overall scans **132–141 / printed pages 115–124** is **COMPLETE**.
+
+Source-supported Batch 3 corrections include:
+
+- scan **132** — `வளைந்து நடப்பதும்` → `வளைந்து நடப்பதிலும்`;
+- scan **133** — `அப்படிப்பா!` → `அப்பப்பா!`;
+- scan **134** — `எண்ணெயும் எழுத்தையும்` → `எண்ணையும் எழுத்தையும்`;
+- scan **135** — restored multiple court-music readings, including `வாணனும்`, `பொன்னுருக்கிய தட்டுக்களில்`, `முத்தாரமொன்றை இசைப்புலவனின் கழுத்தில்`, the printed singer quotation, and the closing `வகைவகையான தினிகளுக்காக ... செந்தமிழ் இசைகேட்கச் செவியைத் திறந்தானில்லை` prose;
+- scan **136** — `அவன் இளவரசி` → `அவள் இளவரசி`; `தயார்படுத்தினான்` → `தயார்ப்படுத்தினான்`;
+- scan **137** — restored `சிறை பெடுத்துச் செல்லப்பட்ட`, `கொலைக்களம் கொண்டுசென்று`, `நமது நாட்டுப் படைகளுடன்`, `கொலையாளிகள் சிறைப்பட்டனர்`;
+- scan **138** — restored multiple source-visible night/owl readings including `காட்சியாக்கி`, `இடையிடையே`, `கேட்கவண்ணமிருந்தது`, `கிளம்பும்போது மட்டும்`, `வண்ண வண்ண`, and `வலிவற்றவை`;
+- scan **139** — restored source punctuation and `வெற்றி பெற்றார்கள்`;
+- scan **141** — restored `காதலியின் நெஞ்சம் அவள் காதலனைத் தேடிச் செல்கிறதாம்`, `கண்கள், அவளைப் பிடுங்கித் தின்கின்றனவாம்`, and `செல்க!`.
+
+Scan **140** required no textual correction. Quoted Kural wording/lineation, printed `அதிகாரம்` / பாடல் metadata and relevant continuations were directly checked throughout Batch 3. Scan **141** closes its vignette cleanly.
+
+Current Pass 2A coverage: **30 / 111 scans**, overall scans **112–141 / printed 95–124**.
 
 This is intentionally not a final verification state: Pass 2B, Pass 3, the Part audit and final synchronization remain pending.
 
 ## Current frontier
 
-Exact next activity: continue **Part 002 Pass 2A — direct textual verification** with overall scans **132–141 / printed pages 115–124**.
+Exact next activity: continue **Part 002 Pass 2A — direct textual verification** with overall scans **142–152 / printed pages 125–135**.
 
-Scan **131 / printed 114** closes its vignette, so scan 132 begins a new vignette. Compare every source-visible printed word, punctuation, paragraph boundary, Kural lineation and printed metadata directly against the rendered source. Do not normalize source wording. Part 003 must not begin until Part 002 is fully closed.
+Scan **141 / printed 124** closes its vignette and scan 142 begins a new vignette. This 11-scan batch intentionally extends through scan 152 so the three-page 150–152 vignette is not split at an arbitrary workflow boundary. Compare every source-visible printed word, punctuation, paragraph boundary, Kural lineation and printed metadata directly against the rendered source. Do not normalize source wording. Part 003 must not begin until Part 002 is fully closed.
