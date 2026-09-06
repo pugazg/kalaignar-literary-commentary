@@ -9,7 +9,7 @@ Individual Markdown records under `../pages/` are authoritative for exact captur
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
-| 002 | 112–222 | 1–111 | scan 112 / printed 95; Pass 1 through scan 210 / printed 193; scan 211 / printed 194 inspected as boundary witness | **source intake complete; Pass 1 99/111** |
+| 002 | 112–222 | 1–111 | scan 112 / printed 95; Pass 1 through scan 221 / printed 204; scan 222 / printed 205 inspected as boundary witness | **source intake complete; Pass 1 110/111** |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
@@ -72,7 +72,7 @@ Do not reconstruct those readings from context, OCR, web text or a standard edit
 
 ## Part 002 physical map — current Pass 1 coverage
 
-Pass 1 currently contains **99 page-aligned records**, scans **112–210 / printed 95–193**.
+Pass 1 currently contains **110 page-aligned records**, scans **112–221 / printed 95–204**.
 
 | Overall scans | Printed pages | Source role / observed boundary | Pass 1 state |
 |---:|---:|---|---|
@@ -123,6 +123,12 @@ Pass 1 currently contains **99 page-aligned records**, scans **112–210 / print
 | 205–206 | 188–189 | `அலர்` / gossip vignette; Chapter 115 / Kural 1148 | needs-review |
 | 207–208 | 190–191 | battlefield command/courage vignette; Chapter 78 / Kurals 776, 775 | needs-review |
 | 209–210 | 192–193 | separation/tear-flood vignette; Chapter 117 / Kural 1170 | needs-review |
+| 211–212 | 194–195 | enemy-siege/treachery and mercy vignette; Chapter 21 / Kural 203 | needs-review |
+| 213–214 | 196–197 | பூங்குழலி waiting / இனியவள் disguise vignette; Chapter 130 / Kural 1297 | needs-review |
+| 215–216 | 198–199 | warrior departure/battlefield death vignette; Chapter 78 / Kural 780 | needs-review |
+| 217–218 | 200–201 | domestic meal / salt analogy / `ஊடல்`; Chapter 131 / Kural 1302 | needs-review |
+| 219–220 | 202–203 | dying veteran / abandoned friendship vignette; Chapter 80 / Kural 799 | needs-review |
+| 221 | 204 | pastoral / ஆயர்குடி vignette begins; continues directly to scan 222 | needs-review |
 
 Additional physical notes:
 
@@ -137,8 +143,10 @@ Additional physical notes:
 - **188→189** is a clean source boundary;
 - **199→200** is a clean source boundary;
 - scan **203 / printed 186** is a full-page illustration with no body prose;
-- scan **211 / printed 194** was inspected only as the P2-09 closing boundary witness;
-- **210→211 is a clean source boundary** and scan 211 begins a new illustrated sword/warriors vignette.
+- **210→211** is a clean source boundary;
+- scan **218 / printed 201** carries a blue circular library stamp in the lower margin;
+- scan **222 / printed 205** was inspected only as the P2-10 closing boundary witness;
+- **221→222 is a genuine source continuation**; scan 222 closes the pastoral/ஆயர்குடி vignette with Chapter 128 / Kural 1275.
 
 Durable Pass 1 progress record:
 
@@ -161,13 +169,13 @@ Part 001:
 Part 002:
 
 - source intake — **COMPLETE**;
-- Pass 1 — **99/111 complete**, scans 112–210;
+- Pass 1 — **110/111 complete**, scans 112–221;
 - Pass 2A / 2B / 3 — not started.
 
 ## Current frontier
 
 **Part 001: CLOSED.**
 
-**Part 002: ACTIVE — source intake complete; P2-01 through P2-09 / Pass 1 scans 112–210 complete.**
+**Part 002: ACTIVE — source intake complete; P2-01 through P2-10 / Pass 1 scans 112–221 complete.**
 
-Exact next activity: **P2-10 / Pass 1 scans 211–221 / printed 194–204**, beginning at the clean **210→211** source boundary and inspecting scan 222 only as the closing boundary witness when necessary.
+Exact next activity: capture the **final Part 002 Pass 1 remainder, scan 222 / printed 205**, as the genuine continuation from scan 221. After that page record is committed, synchronize Pass 1 to **111/111 complete** and advance only to the next Part 002 verification gate.
