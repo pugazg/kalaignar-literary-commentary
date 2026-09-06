@@ -48,25 +48,27 @@ Tamil 1–111 archival-ready; English closed with **107 release-ready + 4 source
 - Batch 5 — 153–163 / 136–146 — COMPLETE
 - Batch 6 — 164–173 / 147–156 — COMPLETE
 - Batch 7 — 174–183 / 157–166 — COMPLETE
-- current Pass 2A coverage — **72/111**
+- Batch 8 — 184–194 / 167–177 — COMPLETE
+- Batch 9 — 195–204 / 178–187 — COMPLETE
+- current Pass 2A coverage — **93/111**
 
-Batch 7 source corrections were made on scans **174, 176, 178, 181, 182, 183**. Scans **175, 177, 179, 180** required no textual correction. Full results are in `PASS2_TEXTUAL_VERIFICATION_PART_002.md`.
+Batch 9 corrections were made on scans **195, 197, 198, 199**. Scans **196, 200, 201, 202, 203, 204** required no textual correction; scan 203 is illustration-only. Full results are in `PASS2_TEXTUAL_VERIFICATION_PART_002.md`.
 
 All Part 002 records remain `needs-review` / `visual_fidelity: needs-review`; Pass 2A does not authorize final `verified`.
 
 ## Exact next activity
 
-Continue **Part 002 Pass 2A direct textual verification** with **overall scans 184–194 / printed pages 167–177**.
+Continue **Part 002 Pass 2A direct textual verification** with **overall scans 205–214 / printed pages 188–197**.
 
-Scan **183 / printed 166** closes the moonlit-seaside lovers vignette. Scan **184 / printed 167** was inspected only as a boundary witness and begins a new flood/rescue vignette.
+Scan **204 / printed 187** closes the battlefield/war-elephant vignette. Scan **205 / printed 188** was inspected only as a boundary witness and begins a new `அலர்` / gossip vignette.
 
-Use an **11-scan batch** so complete blocks are preserved:
+Use a **10-scan batch** so complete blocks are preserved:
 
-- 184–186;
-- 187–188;
-- 189–190;
-- 191–192;
-- 193–194.
+- 205–206 — `அலர்` / gossip;
+- 207–208 — battlefield command/courage;
+- 209–210 — separation/tear-flood;
+- 211–212 — enemy-siege/treachery and mercy;
+- 213–214 — பூங்குழலி waiting / இனியவள் disguise.
 
 Render the controlling source and compare every visible printed word, punctuation, paragraph boundary, Kural lineation and printed metadata. Do not use OCR guesswork, normalization, another edition, web Kural text or memory to fill uncertain readings. Update page records only for source-supported discrepancies, then append the durable Pass 2A log and synchronize README/HANDOVER/this prompt/page-map.
 
