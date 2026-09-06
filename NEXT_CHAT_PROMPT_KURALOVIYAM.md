@@ -46,7 +46,8 @@ Tamil 1–111 archival-ready; English closed with **107 release-ready + 4 source
 - Pass 2B Batch 1 — **112–121 / 95–104 — COMPLETE, 10/10**
 - Pass 2B Batch 2 — **122–131 / 105–114 — COMPLETE, 10/10**
 - Pass 2B Batch 3 — **132–141 / 115–124 — COMPLETE, 10/10**
-- Pass 2B overall — **ACTIVE, 30/111**
+- Pass 2B Batch 4 — **142–152 / 125–135 — COMPLETE, 11/11**
+- Pass 2B overall — **ACTIVE, 41/111**
 
 Batch 1 found new source-supported corrections on scans **113, 114, 115 and 118**. Batch 2 found **no new lexical discrepancies**. Batch 3 found new source-supported corrections on scans **133, 134, 135, 138 and 141**; scans **132, 136, 137, 139 and 140** required no new lexical correction.
 
@@ -58,13 +59,15 @@ Key Batch 3 restorations include:
 - scan 138: `சிரித்துக் கொண்டிருந்தாள்` → `சிரித்துக் கொண்டு இருந்தாள்`; `கேட்கவண்ணமிருந்தது` → `கேட்டவண்ணமிருந்தது`; `சிறகைச் சற்றுத் தாக்கித்` → `சிறகைச் சிறிது தூக்கித்`;
 - scan 141: restored `அவரைக் காணவேண்டுமென்று என்னைப் பிடுங்கித் தின்கிறான்!`.
 
-Overall Pass 2B coverage is **30/111**, scans **112–141 / printed 95–124**; **81 scans remain**. Durable details are in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
+Batch 4 found **no new lexical discrepancies** across scans **142–152**.
+
+Overall Pass 2B coverage is **41/111**, scans **112–152 / printed 95–135**; **70 scans remain**. Durable details are in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
 
 All Part 002 records remain `needs-review` / `visual_fidelity: needs-review`; Pass 2B completion alone will not authorize final `verified` because Pass 3 and the Part audit still remain.
 
 ## Exact next activity
 
-Continue **Part 002 Pass 2B independent lexical-fidelity re-read** with **overall scans 142–152 / printed pages 125–135**.
+Continue **Part 002 Pass 2B independent lexical-fidelity re-read** with **overall scans 153–163 / printed pages 136–146**.
 
 Pass 2B must be independent of Pass 2A. Freshly render/read the controlling source scans and compare every visible printed word, punctuation mark, paragraph/quotation boundary, quoted Kural wording and lineation, and printed `அதிகாரம்` / பாடல் metadata. Do not simply re-approve the Pass 2A record from memory or from the existing Markdown.
 
