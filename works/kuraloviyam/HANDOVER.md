@@ -52,7 +52,7 @@ Never fill uncertain Tamil from OCR, web text, another edition, standard Kural w
 - source intake — COMPLETE;
 - Pass 1 — COMPLETE, **111/111** scans 112–222;
 - Pass 2A — **COMPLETE, 111/111**, scans **112–222 / printed 95–205**;
-- Pass 2B — **ACTIVE, 30/111**, scans **112–141 / printed 95–124** complete;
+- Pass 2B — **ACTIVE, 41/111**, scans **112–152 / printed 95–135** complete;
 - Pass 3 — not started;
 - Part audit — not started.
 
@@ -95,7 +95,7 @@ Batch 2 — scans **122–131 / printed 105–114** — **COMPLETE, 10/10**. Fre
 
 Batch 3 — scans **132–141 / printed 115–124** — **COMPLETE, 10/10**. New source-supported corrections were required on scans **133, 134, 135, 138 and 141**; scans **132, 136, 137, 139 and 140** required no new lexical correction. Key restorations include `காளை!`; the source court-music passage `செந்தமிழ் மகளிர் வீசி ஆடுகிற மலர்ப்பந்தோ?... குரல் வளமோ குழல் வளம் போல!`; `இனிமை மேவிட`; `வேறோர் கொடுமை!`; `சிரித்துக் கொண்டு இருந்தாள்`; `கேட்டவண்ணமிருந்தது`; `சிறகைச் சிறிது தூக்கித்`; and `அவரைக் காணவேண்டுமென்று என்னைப் பிடுங்கித் தின்கிறான்!`.
 
-Batch 4 — scans **142–152 / printed 125–135** — **COMPLETE, 11/11**. Fresh direct reread found **no new lexical corrections** on any of the eleven scans. Prose, punctuation, quotation boundaries, Kural wording/lineation, illustration separation and printed `அதிகாரம்` / பாடல் metadata were independently confirmed against the rendered source.
+Batch 4 — scans **142–152 / printed 125–135** — **COMPLETE, 11/11**. New source-supported corrections were required on scans **144, 145, 146, 147 and 152**; scans **142, 143, 148, 149, 150 and 151** required no new lexical correction. Key restorations include `படுத்தவளைப்போல`, `அஞ்சாமல் செல்லலாயாக!`, `வளைந்த தென்னையொன்றில்`, `வறுமையில் வாடும் மக்களுக்கு`, `கணைபட்ட வேங்கை`, `இரண்டாயிரம் ஆண்டுகட்கு`, and the two source-visible `மனத்தைப்` readings on scan 152.
 
 Overall Pass 2B coverage is now **41/111**, scans **112–152 / printed 95–135**. Remaining Pass 2B: **70 scans**. Full details are durable in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
 
