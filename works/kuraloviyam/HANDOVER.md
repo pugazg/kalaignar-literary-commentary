@@ -63,18 +63,20 @@ Process **11 physical scans per iteration**. Workflow cutoffs never create sourc
 - P2-07 / scans **178–188** — COMPLETE
 - P2-08 / scans **189–199** — COMPLETE
 - P2-09 / scans **200–210** — COMPLETE
+- P2-10 / scans **211–221** — COMPLETE
 
-Current coverage: **99 / 111 scans**, overall **112–210 / printed 95–193**.
+Current coverage: **110 / 111 scans**, overall **112–221 / printed 95–204**.
 
 All Part 002 records remain `needs-review` / `visual_fidelity: needs-review` as required for Pass 1.
 
-P2-09 source units:
+P2-10 source units:
 
-- 200–201 — lovers/embrace vignette; Chapter 111 / Kural 1108;
-- 202–204 — battlefield/war-elephant vignette; scan 203 is illustration-only; Chapter 78 / Kural 774;
-- 205–206 — `அலர்` / gossip vignette; Chapter 115 / Kural 1148;
-- 207–208 — battlefield command/courage vignette; Chapter 78 / Kurals 776, 775;
-- 209–210 — separation/tear-flood vignette; Chapter 117 / Kural 1170.
+- 211–212 — enemy-siege/treachery and mercy vignette; Chapter 21 / Kural 203;
+- 213–214 — பூங்குழலி waiting / இனியவள் disguise vignette; Chapter 130 / Kural 1297;
+- 215–216 — warrior departure/battlefield death vignette; Chapter 78 / Kural 780;
+- 217–218 — domestic meal / salt analogy / `ஊடல்`; scan 218 carries a blue circular library stamp; Chapter 131 / Kural 1302;
+- 219–220 — dying veteran / abandoned friendship vignette; Chapter 80 / Kural 799;
+- 221 — pastoral / ஆயர்குடி vignette begins and continues directly to scan 222.
 
 Continuity controls:
 
@@ -86,23 +88,23 @@ Continuity controls:
 - **177→178** continuation preserved;
 - **188→189** clean;
 - **199→200** clean;
-- scan **211 / printed 194** was inspected only as the P2-09 closing witness;
-- **210→211 is a clean source boundary** and scan 211 begins a new illustrated sword/warriors vignette.
+- **210→211** clean;
+- scan **222 / printed 205** was inspected only as the P2-10 closing witness;
+- **221→222 is a genuine source continuation**; scan 222 closes the pastoral/ஆயர்குடி vignette with Chapter 128 / Kural 1275.
 
 No standard/published/web Kural wording, another edition, OCR guess or memory was used to fill uncertain readings.
 
 ## Exact current activity
 
-Proceed with **P2-10 / Part 002 Pass 1 — overall scans 211–221 / printed pages 194–204**:
+Process the **final Part 002 Pass 1 remainder — overall scan 222 / printed page 205**:
 
 1. fetch live `main`;
-2. begin scan **211** at the confirmed clean **210→211** source boundary;
-3. process exactly scans **211–221** source-first;
-4. create one Tamil page record per scan with overall `scan_page`, `part: 2`, local `part_page`, printed pagination, page function, visual notes and visible Tamil text;
-5. copy Kural/chapter metadata only from the rendered source image;
-6. keep Pass 1 statuses as `needs-review`;
-7. inspect scan **222** only as the closing boundary witness when needed;
-8. update progress/page-map/README/HANDOVER/NEXT and advance the frontier to final scan **222**.
+2. begin scan **222** as the confirmed continuation from scan **221**;
+3. create its Tamil page record with overall `scan_page: 222`, `part: 2`, local `part_page: 111`, printed page 205, page function, visual notes and visible Tamil text;
+4. copy the visible Chapter 128 / Kural 1275 metadata only from the rendered source image;
+5. keep Pass 1 status as `needs-review` / `visual_fidelity: needs-review`;
+6. synchronize Part 002 Pass 1 to **111/111 complete**;
+7. advance only to the next Part 002 verification gate.
 
 Do not import OCR guesses, another edition, standard Kural text, web material or memory to fill uncertain readings.
 
