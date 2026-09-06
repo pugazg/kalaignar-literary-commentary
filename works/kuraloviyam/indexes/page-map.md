@@ -7,7 +7,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
-| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **source intake complete; Pass 1 COMPLETE 111/111; Pass 2A ACTIVE 93/111** |
+| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **source intake complete; Pass 1 COMPLETE 111/111; Pass 2A ACTIVE 103/111** |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
@@ -127,6 +127,7 @@ Pass 1 contains **111 page-aligned records**, scans **112–222 / printed 95–2
 - scan **203 / printed 186** is a full-page illustration with no body prose; **202→203→204** narrative continuity is preserved;
 - **204→205** clean; scan 205 begins the `அலர்` / gossip vignette;
 - **210→211** clean;
+- **214→215** clean; scan 215 begins the warrior-departure / battlefield-death vignette;
 - scan **218 / printed 201** carries a blue circular library stamp;
 - **221→222** genuine continuation;
 - scan **222 / printed 205** closes the pastoral/ஆயர்குடி vignette and is the final physical scan of Part 002.
@@ -141,7 +142,7 @@ Part 002:
 
 - source intake — **COMPLETE**;
 - Pass 1 — **COMPLETE, 111/111**;
-- Pass 2A — **ACTIVE, 93/111**, scans **112–204 / printed 95–187** complete;
+- Pass 2A — **ACTIVE, 103/111**, scans **112–214 / printed 95–197** complete;
 - Pass 2B — not started;
 - Pass 3 — not started.
 
@@ -149,6 +150,6 @@ Part 002:
 
 **Part 001: CLOSED.**
 
-**Part 002: ACTIVE — Pass 2A complete through scan 204 / printed 187, 93/111.**
+**Part 002: ACTIVE — Pass 2A complete through scan 214 / printed 197, 103/111.**
 
-Exact next activity: **Part 002 Pass 2A direct textual verification, scans 205–214 / printed 188–197**. Scan 205 has been inspected only as the boundary witness and starts the `அலர்` / gossip vignette. This 10-scan range preserves complete paired vignette blocks through scan 214. Final `verified` remains unavailable until Pass 2B, Pass 3, the Part audit and final synchronization close.
+Exact next activity: **Part 002 Pass 2A direct textual verification, final batch scans 215–222 / printed 198–205**. Scan 215 has been inspected only as the boundary witness and begins the warrior-departure / battlefield-death vignette. This 8-scan range preserves complete paired blocks through the final physical scan 222. Final `verified` remains unavailable after Pass 2A; the next phase is Pass 2B, followed by Pass 3, the Part audit and final synchronization.
