@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Current archival state |
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **source intake complete; Pass 1 COMPLETE 111/111; Pass 2A ACTIVE 72/111** |
+| 002 | 112–222 | **source intake complete; Pass 1 COMPLETE 111/111; Pass 2A ACTIVE 93/111** |
 | 003 | 223–333 | not-started |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
@@ -68,12 +68,14 @@ Completed source-verification batches:
 | 5 | 153–163 | 136–146 | COMPLETE |
 | 6 | 164–173 | 147–156 | COMPLETE |
 | 7 | 174–183 | 157–166 | COMPLETE |
+| 8 | 184–194 | 167–177 | COMPLETE |
+| 9 | 195–204 | 178–187 | COMPLETE |
 
-Current Pass 2A coverage: **72 / 111 scans**, overall scans **112–183 / printed 95–166**. Remaining: **39 scans**.
+Current Pass 2A coverage: **93 / 111 scans**, overall scans **112–204 / printed 95–187**. Remaining: **18 scans**.
 
-Batch 6 directly verified scans 164–173 and included source-supported recoveries such as `மாடப்புறா`, `ஒப்பிடுதற்குரிய`, `கேலி பேசிட மாட்டாரோ?`, `பழங் கொள்கையினர்`, `ஆணழகன்`, `வந்துவிட்டீர்களா?`, `காமத்தீ`, and the source edition's printed Kural reading `நண்ணினால்` on scan 173.
+Batch 8 directly verified scans **184–194**. Corrections were required on scans **187, 188, 190, 191, 192, 193, 194**; scans **184, 185, 186, 189** required no textual correction.
 
-Batch 7 directly verified scans 174–183. Corrections were required on scans **174, 176, 178, 181, 182, 183**; scans **175, 177, 179, 180** required no textual correction. Important source readings restored include `கிட்டுகிறது`, `ஆங்கோர் யானை`, `பிரிவுக் கொடுமையைவிட`, `வெளியிடுகிறாள்`, `நீலத் திரை கடலோரம்!`, `போதாகி`, `அவனுடல் தங்கத்தில்`, `இடையணைக்கப்`, and `அவர்கட்கு`.
+Batch 9 directly verified scans **195–204**. Corrections were required on scans **195, 197, 198, 199**; scans **196, 200, 201, 202, 203, 204** required no textual correction. Important source restorations include `மனைவியாட்டி`, `காத்திருக்கமாட்டாள். காரணம்;`, `களம் பல`, `கண்டதுமில்லை`, `தலையெல்லாம்`, `அரங்கில்`, `வரம்பு கடந்து`, `மறைந்திருந்து கேட்டுக் கொண்டனர்`, and the source-visible denunciation `நாடோடி இவன்! ... இவன் மூளையைச் சூளையில்தான் வைக்க வேண்டும்.` Scan **203** is illustration-only and the narrative continuity **202→203→204** is preserved.
 
 Full scan-by-scan correction history is maintained in `PASS2_TEXTUAL_VERIFICATION_PART_002.md`.
 
@@ -81,8 +83,8 @@ This is **Pass 2A only**. Final `verified` is unavailable until Pass 2B, Pass 3,
 
 ## Current frontier
 
-Exact next activity: **Part 002 Pass 2A direct textual verification — overall scans 184–194 / printed pages 167–177**.
+Exact next activity: **Part 002 Pass 2A direct textual verification — overall scans 205–214 / printed pages 188–197**.
 
-Scan **183 / printed 166** closes its vignette cleanly. Scan **184 / printed 167** has been inspected as the boundary witness and begins the next flood/rescue vignette. The 11-scan batch preserves the complete blocks **184–186**, **187–188**, **189–190**, **191–192**, and **193–194**.
+Scan **204 / printed 187** closes its battlefield/war-elephant vignette cleanly. Scan **205 / printed 188** has been inspected as the boundary witness and begins the next `அலர்` / gossip vignette. The 10-scan batch preserves the complete paired blocks **205–206**, **207–208**, **209–210**, **211–212**, and **213–214**.
 
 Do not normalize source wording, do not substitute standard/published/web Kural text, and do not begin Part 003 before Part 002 is fully closed.
