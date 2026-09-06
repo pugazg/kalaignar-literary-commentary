@@ -9,7 +9,7 @@ Individual Markdown records under `../pages/` are authoritative for exact captur
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
-| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **source intake complete; Pass 1 COMPLETE 111/111; Pass 2A ACTIVE 10/111** |
+| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **source intake complete; Pass 1 COMPLETE 111/111; Pass 2A ACTIVE 20/111** |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
@@ -174,13 +174,13 @@ Part 002:
 
 - source intake — **COMPLETE**;
 - Pass 1 — **COMPLETE, 111/111**, scans 112–222;
-- Pass 2A — **ACTIVE, 10/111**, scans 112–121 / printed 95–104 complete;
+- Pass 2A — **ACTIVE, 20/111**, scans 112–131 / printed 95–114 complete;
 - Pass 2B / Pass 3 — not started.
 
 ## Current frontier
 
 **Part 001: CLOSED.**
 
-**Part 002: ACTIVE — Pass 2A complete through scan 121 / printed 104, 10/111.**
+**Part 002: ACTIVE — Pass 2A complete through scan 131 / printed 114, 20/111.**
 
-Exact next activity: **Part 002 Pass 2A direct textual verification, scans 122–131 / printed 105–114**. Start scan 122 as the direct continuation from scan 121. Compare every source-visible printed word, punctuation, paragraph boundary, Kural lineation and printed metadata directly against the rendered source. Final `verified` status remains unavailable until Pass 2B and Pass 3 also close.
+Exact next activity: **Part 002 Pass 2A direct textual verification, scans 132–141 / printed 115–124**. Scan 131 closes its vignette, so scan 132 begins a new vignette. Compare every source-visible printed word, punctuation, paragraph boundary, Kural lineation and printed metadata directly against the rendered source. Final `verified` status remains unavailable until Pass 2B and Pass 3 also close.
