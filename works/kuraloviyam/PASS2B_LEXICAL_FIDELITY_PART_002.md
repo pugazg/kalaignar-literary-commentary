@@ -74,12 +74,32 @@ Batch 2 required **no new lexical corrections**. All scans **122–131** match t
 
 Batch 3 corrections were required on scans **133, 134, 135, 138 and 141**. Scans **132, 136, 137, 139 and 140** required no new lexical correction.
 
+## Batch 4 — overall scans 142–152 / printed pages 125–135
+
+**Status: COMPLETE — 11 / 11 scans independently re-read against freshly rendered source pages for Pass 2B.**
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 142 | 125 | independent word-level re-read complete across the illustrated medical-hypocrisy opening, uncommon compounds and sentence continuation into scan 143; no new correction required |
+| 143 | 126 | independently confirmed the medical-hypocrisy conclusion, dialogue, Kural 277, lineation, Chapter 28 / பாடல் metadata and printed monument motif separation; no new correction required |
+| 144 | 127 | independent word-level re-read complete across the illustrated secret-meeting opening, dialogue and genuine continuation into scan 145; no new correction required |
+| 145 | 128 | independently confirmed the secret-meeting conclusion, eclipse comparison, Kural 1146, lineation and Chapter 115 / பாடல் metadata; no new correction required |
+| 146 | 129 | independent word-level re-read complete across the illustrated physician/tiger opening, uncommon medical/forest wording and continuation into scan 147; no new correction required |
+| 147 | 130 | independently confirmed the physician/tiger conclusion, quoted song reference, Kural 469, lineation and Chapter 47 / பாடல் metadata; no new correction required |
+| 148 | 131 | independent word-level re-read complete across the illustrated moon/separation opening and continuation into scan 149; no new correction required |
+| 149 | 132 | independently confirmed the moon/separation conclusion, Kural 1210, lineation and Chapter 121 / பாடல் metadata; no new correction required |
+| 150 | 133 | independent word-level re-read complete across the illustrated தெளிந்தான்/நெளிந்தான் opening and continuation into scan 151; no new correction required |
+| 151 | 134 | independently confirmed the தெளிந்தான்/நெளிந்தான் continuation, dialogue, Kural 142 and continuation into scan 152; no new correction required |
+| 152 | 135 | independently confirmed the vignette conclusion, Kural 145, Chapter 15 / பாடல்கள் 142, 145 metadata and clean close; no new correction required |
+
+Batch 4 required **no new lexical corrections**. All scans **142–152** match the freshly rendered controlling source at the Pass 2B lexical-fidelity gate.
+
 ## Coverage
 
-Pass 2B coverage: **30 / 111 scans**, overall scans **112–141 / printed 95–124**.
+Pass 2B coverage: **41 / 111 scans**, overall scans **112–152 / printed 95–135**.
 
-Remaining Pass 2B: **81 scans**.
+Remaining Pass 2B: **70 scans**.
 
-Exact next batch: **overall scans 142–152 / printed pages 125–135**.
+Exact next batch: **overall scans 153–163 / printed pages 136–146**.
 
 Do not promote Part 002 records to final `verified` during Pass 2B. Do not start Pass 3 until Pass 2B covers the whole Part, and do not begin Part 003 before Part 002 is fully closed.
