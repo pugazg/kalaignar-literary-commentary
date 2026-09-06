@@ -66,15 +66,33 @@ Page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`
 | 140 | 123 | direct textual comparison complete; no page-record correction required; sisters/child/absent-lover vignette continues into scan 141 |
 | 141 | 124 | restored source-visible `காதலியின் நெஞ்சம் அவள் காதலனைத் தேடிச் செல்கிறதாம்`, `கண்கள், அவளைப் பிடுங்கித் தின்கின்றனவாம்`, and `செல்!` → `செல்க!`; Chapter 125 / Kural 1244 confirmed; vignette closes cleanly |
 
+## Batch 4 — overall scans 142–152 / printed pages 125–135
+
+**Status: COMPLETE — 11 / 11 scans directly compared with the rendered source scan for Pass 2A.**
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 142 | 125 | corrected source-visible `விளையாடுகிறவர்களாக` → `விளையாடுகிறவர்கள்`, `சொல்லிவிட்டால்` → `சொல்லாவிட்டால்`, `சொன்னவனைக் குறைகூறலே` → `சொன்னவரைக் குறைகளே`; restored `அதற்குத் திட்டமிட்டே`, `அரண்மனை`, `ஆவலை`, and plural `விசுவாசிகள்`; sentence continues into scan 143 |
+| 143 | 126 | corrected `நொடியில்ேயே விசுவாசி` → source-visible `நொடியிலேயே விசுவாசிகள்`, `விற்று` → `விற்றது`, and `அன்றிரவு இதோ` → `அன்றிரவு இவரே`; Chapter 28 / Kural 277 confirmed; vignette closes |
+| 144 | 127 | corrected `பாலையப்` → source-visible `பாலைப்`; secret-meeting vignette continues directly into scan 145 |
+| 145 | 128 | corrected `என் தெரியாது?` → `ஏன் தெரியாது?`, restored `என்பதைத் தான் சொல்லுகிறேனே`, and `தென்னைத் தோப்புச்` → `தென்னந்தோப்புச்`; Chapter 115 / Kural 1146 confirmed; vignette closes |
+| 146 | 129 | corrected `மனிதர்க்கு` → source-visible `மானிடர்க்கு`; physician/tiger vignette continues into scan 147 |
+| 147 | 130 | restored source-visible `குணைபட்ட வேங்கை`, replaced the unsupported attack reading with `அவர் மார்பகத்தைப் பிளந்து`, and corrected `பாடலைப்` → `பாட்டைப்`; Chapter 47 / Kural 469 confirmed; vignette closes |
+| 148 | 131 | corrected `சிறிவிழும்` → source-visible `சீறிவிழும்`; moon/separation vignette continues into scan 149 |
+| 149 | 132 | corrected `முடியவில்லைதான்` → `முடியவில்லைத்தான்` and `நிலாவின் மீது` → `நிலாவின்மீது`; Chapter 121 / Kural 1210 confirmed; vignette closes |
+| 150 | 133 | restored source punctuation after `நண்பர்கள்` and corrected `தேவைப்படும்` → source-visible `தேவைப்படுகிற`; தெளிந்தான்/நெளிந்தான் vignette continues into scan 151 |
+| 151 | 134 | corrected `சிறப்புத் திகழ்ந்தவர்கள்` → `சிறப்புறத் திகழ்ந்தவர்கள்` and `அறத்தை விட்டு` → `அறத்தை விட்டுத்`; Kural 142 wording confirmed; vignette continues into scan 152 |
+| 152 | 135 | corrected `அவள் வலையில்` → source-visible `அவன் வலையில்` and `களிப்பெருவகை` → `களிபேருவகை`; Kural 145 and Chapter 15 / பாடல்கள் 142, 145 metadata confirmed; vignette closes cleanly |
+
 ## Current Pass 2A coverage
 
-- complete: **30 / 111 scans**;
-- overall scans: **112–141**;
-- printed pages: **95–124**;
-- remaining Pass 2A: **81 scans**.
+- complete: **41 / 111 scans**;
+- overall scans: **112–152**;
+- printed pages: **95–135**;
+- remaining Pass 2A: **70 scans**.
 
 ## Exact next Pass 2A activity
 
-Proceed with overall scans **142–152 / printed pages 125–135**.
+Proceed with overall scans **153–163 / printed pages 136–146**.
 
-Scan 141 closes its vignette cleanly and scan 142 begins a new vignette. This 11-scan batch intentionally continues through scan 152 so the three-page scans 150–152 vignette is not split at an arbitrary 10-scan workflow boundary. Keep final `verified` unavailable until Pass 2B, Pass 3 and final synchronization close.
+Scan 152 closes the தெளிந்தான்/நெளிந்தான் vignette cleanly and scan 153 begins a new vignette. This 11-scan batch intentionally runs through scan 163 so the paired vignette blocks through scans 162–163 are not split at an arbitrary workflow boundary. Keep final `verified` unavailable until Pass 2B, Pass 3 and final synchronization close.
