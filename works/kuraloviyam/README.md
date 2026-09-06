@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Current archival state |
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **source intake complete; Pass 1 COMPLETE 111/111; Pass 2A COMPLETE 111/111; Pass 2B ACTIVE 10/111** |
+| 002 | 112–222 | **source intake complete; Pass 1 COMPLETE 111/111; Pass 2A COMPLETE 111/111; Pass 2B ACTIVE 20/111** |
 | 003 | 223–333 | not-started |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
@@ -88,7 +88,9 @@ Batch 1, overall scans **112–121 / printed 95–104**, is **COMPLETE, 10/10** 
 
 New Pass 2B corrections were required on scans **113, 114, 115 and 118**. Scans **112, 116, 117, 119, 120 and 121** required no new lexical correction. Newly restored source readings include `எடுத்துக் கொள்ளல்`, `கைபடுமாறு`, `அசைந்தாடும்`, `ஆண்மகனைப்`, `அன்னமயில் வந்து கொண்டிருக்கிறானே- ஆகா-`, and `பொய் சொல்லுவதே வாழ்க்கையாக`.
 
-Pass 2B coverage: **10 / 111 scans**, overall scans **112–121 / printed 95–104**. Remaining Pass 2B: **101 scans**.
+Batch 2, overall scans **122–131 / printed 105–114**, is **COMPLETE, 10/10**. The fresh independent re-read found **no new lexical discrepancies**: all ten page records match the controlling rendered source at the Pass 2B gate, including quoted Kural wording, lineation and printed `அதிகாரம்` / பாடல் metadata.
+
+Pass 2B coverage: **20 / 111 scans**, overall scans **112–131 / printed 95–114**. Remaining Pass 2B: **91 scans**.
 
 Full Pass 2B results are maintained in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
 
@@ -96,7 +98,7 @@ Pass 2B is **not** final verification. All Part 002 records remain `needs-review
 
 ## Current frontier
 
-Exact next activity: **Part 002 Pass 2B independent lexical-fidelity re-read — overall scans 122–131 / printed pages 105–114**.
+Exact next activity: **Part 002 Pass 2B independent lexical-fidelity re-read — overall scans 132–141 / printed pages 115–124**.
 
 Pass 2B must remain an independent source re-read rather than a mechanical confirmation of Pass 2A. Re-render/read the controlling scans directly and compare every source-visible word, punctuation mark, paragraph/quotation boundary, Kural lineation and printed `அதிகாரம்` / பாடல் metadata. Record and correct only newly source-supported discrepancies.
 
