@@ -1,186 +1,88 @@
 # HANDOVER — குறளோவியம்
 
-Repository: `pugazg/kalaignar-literary-commentary`
-
-Branch: `main`
-
+Repository: `pugazg/kalaignar-literary-commentary`  
+Branch: `main`  
 Active work: `works/kuraloviyam/`
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Preserve any newer durable Kuraloviyam work. Do not reopen closed Part 001 Tamil or English work unless a genuinely new source/provenance issue appears.
+Fetch live `main` first. Preserve newer durable Kuraloviyam work. Do not reopen closed Part 001 Tamil or English work unless a genuinely new source/provenance issue appears.
 
-## Source family
+## Permanent workflow
 
-- source ID: `TVA_BOK_0065733`;
-- complete extent reported by user: **666 physical pages**;
-- split ranges: 1–111, 112–222, 223–333, 334–444, 445–555, 556–666;
-- repository `scan_page` never restarts per split.
+Read before source-dependent changes:
+
+1. `LITERARY_COMMENTARY_PROCESSING_GUIDE.md`
+2. `KURALOVIYAM_ARCHIVAL_GUIDELINES.md`
+3. root `HANDOVER.md`
+4. `NEXT_CHAT_PROMPT_KURALOVIYAM.md`
+5. this file
+6. `works/kuraloviyam/README.md`
+7. `works/kuraloviyam/PART_002_PASS1_PROGRESS.md`
+8. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_002.md`
+9. `works/kuraloviyam/indexes/page-map.md`
+10. `works/kuraloviyam/metadata/source.md`
+11. `works/kuraloviyam/metadata/transcription-policy.md`
+
+Permanent cadence:
+
+source intake → Pass 1 → Pass 2A → Pass 2B → Pass 3 → Part audit → final metadata/status sync → documentation sync → Tamil archival-ready → maintained English workflow → final Part closure.
 
 ## Part 001 — CLOSED
 
-Tamil Part 001 / scans **1–111** is archival-ready: **107 `verified` + 4 `partial`**, visual fidelity **111/111 verified**. English Part 001 is closed with **107 `release-ready` + 4 `source-limited`**; limited scans remain 13, 14, 15, 19.
+Tamil scans **1–111**: **107 verified + 4 partial**; visual **111/111 verified**. English: **107 release-ready + 4 source-limited**; source-limited scans **13, 14, 15, 19**.
 
-Durable English release report:
-
-`works/kuraloviyam/translations/en/reviews/PART_001_ENGLISH_RELEASE_REPORT.md`
-
-## Part 002 — ACTIVE
-
-Controlling split source:
+## Part 002 controlling source
 
 `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf`
 
-Source intake: **COMPLETE**.
-
-- local pages: **111**;
-- overall scans: **112–222**;
-- file size: **93,279,161 bytes**;
-- SHA-256: `4397caf9ba405ba65f50865c85e24461ea56bd2efa3dd589d31469877c9a4bda`;
+- 111 physical pages;
+- overall scans **112–222**;
+- printed pages **95–205**;
+- size **93,279,161 bytes**;
+- SHA-256 `4397caf9ba405ba65f50865c85e24461ea56bd2efa3dd589d31469877c9a4bda`;
 - no usable parsed text layer;
-- rendered page images are controlling.
+- rendered scan is lexical authority.
 
-Durable records:
+Never fill uncertain Tamil from OCR, web text, another edition, standard Kural wording, context reconstruction, or memory.
 
-- `works/kuraloviyam/SOURCE_INTAKE_PART_002.md`
-- `works/kuraloviyam/PART_002_PASS1_PROGRESS.md`
-- `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_002.md`
-- `works/kuraloviyam/indexes/page-map.md`
+## Part 002 status
 
-## Part 002 Pass 1 — COMPLETE
+- source intake — COMPLETE;
+- Pass 1 — COMPLETE, **111/111** scans 112–222;
+- Pass 2A — **ACTIVE, 72/111**, scans **112–183 / printed 95–166** complete;
+- Pass 2B — not started;
+- Pass 3 — not started;
+- Part audit — not started.
 
-All **111 / 111** physical scans are captured as page-aligned Tamil records: overall scans **112–222 / printed 95–205**.
+All Part 002 page records intentionally remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
 
-- P2-01 / scans **112–122** — COMPLETE
-- P2-02 / scans **123–133** — COMPLETE
-- P2-03 / scans **134–144** — COMPLETE
-- P2-04 / scans **145–155** — COMPLETE
-- P2-05 / scans **156–166** — COMPLETE
-- P2-06 / scans **167–177** — COMPLETE
-- P2-07 / scans **178–188** — COMPLETE
-- P2-08 / scans **189–199** — COMPLETE
-- P2-09 / scans **200–210** — COMPLETE
-- P2-10 / scans **211–221** — COMPLETE
-- final remainder / scan **222** — COMPLETE
+Completed Pass 2A batches:
 
-All Part 002 records remain `needs-review` / `visual_fidelity: needs-review` as required by the staged workflow.
+- Batch 1: 112–121 / 95–104
+- Batch 2: 122–131 / 105–114
+- Batch 3: 132–141 / 115–124
+- Batch 4: 142–152 / 125–135
+- Batch 5: 153–163 / 136–146
+- Batch 6: 164–173 / 147–156
+- Batch 7: 174–183 / 157–166
 
-Final continuity controls from Pass 1:
+Batch 6 and 7 details are durable in `PASS2_TEXTUAL_VERIFICATION_PART_002.md`. Batch 7 required corrections on scans **174, 176, 178, 181, 182, 183** and no textual correction on **175, 177, 179, 180**.
 
-- **122→123** continuation preserved;
-- **133→134** clean;
-- **144→145** continuation preserved;
-- **155→156** clean;
-- **166→167** continuation preserved;
-- **177→178** continuation preserved;
-- **188→189** clean;
-- **199→200** clean;
-- **210→211** clean;
-- **221→222** genuine continuation preserved;
-- scan **222 / printed 205** closes the pastoral/ஆயர்குடி vignette with Chapter 128 / Kural 1275 and is the final physical scan of Part 002.
-
-No standard/published/web Kural wording, another edition, OCR guess or memory was used to fill uncertain readings.
-
-## Part 002 Pass 2A — ACTIVE
-
-### Batch 1 — COMPLETE
-
-Overall scans **112–121 / printed 95–104** directly compared against the rendered source.
-
-Corrections:
-
-- scan **113**: `காமத்துப்பால் வாழ்வாக` → `காமத்துப்பால் வாயிலாக`;
-- scan **115**: `அடடே!` → `அடேடே!`;
-- scan **120**: `அவன் மன்னித்து` → `அவள் மன்னித்து`.
-
-### Batch 2 — COMPLETE
-
-Overall scans **122–131 / printed 105–114** directly compared against the rendered source.
-
-Corrections:
-
-- scan **122**: `விட்டவில்லை` → `விடவில்லை`;
-- scan **123**: `பேழையைக் தாக்கிக்கொண்டு` → `பேழையைத் தூக்கிக்கொண்டு`; `கேலியில்லாமல்` → `தேவையில்லாமல்`;
-- scan **124**: `கோவையப்பழ` → `கோவைப்பழ`; `கண்ணழகும்` → `கன்னமுங்`;
-- scan **125**: `அழுவாளேன்?` → `அழுவானேன்?`;
-- scan **127**: `வணக்கத்தைக் சூழ்ந்திருந்தோர்` → `வணக்கத்தைச் சூழ்ந்திருந்தோர்`; `அம்மலோ!` → `அம்மவோ!`; `கைகளிலே` → `கைகளுள்ளே`;
-- scan **129**: `ஊடி இருந்தேமாத்` → `ஊடி யிருந்தேமாத்` in the printed Kural line;
-- scan **130**: restored source-visible `அறவே அவரது விழிகளின் ஒளி பழுதாகி விடாத காரணத்தால்`;
-- scan **131**: restored source-visible `முதியவர் அந்த இளந்தளிருக்கு முத்த மழை பொழிந்தார்.`
-
-Scans **126** and **128** required no textual correction. Printed Kural wording/lineation and `அதிகாரம்` / பாடல் metadata were checked directly. Continuity from **121→122→123** was confirmed. Scan 131 closes its vignette cleanly.
-
-### Batch 3 — COMPLETE
-
-Overall scans **132–141 / printed 115–124** directly compared against the rendered source.
-
-Corrections:
-
-- scan **132**: `வளைந்து நடப்பதும்` → `வளைந்து நடப்பதிலும்`;
-- scan **133**: `அப்படிப்பா!` → `அப்பப்பா!`;
-- scan **134**: `எண்ணெயும் எழுத்தையும்` → `எண்ணையும் எழுத்தையும்`;
-- scan **135**: restored source-visible court-music readings including `வாணனும்`, `பொன்னுருக்கிய தட்டுக்களில்`, `முத்தாரமொன்றை இசைப்புலவனின் கழுத்தில்`, the singer quotation beginning `மண்டிலமாளும் மன்னர் மன்னவ!`, and the closing `வகைவகையான தினிகளுக்காக ... செந்தமிழ் இசைகேட்கச் செவியைத் திறந்தானில்லை` prose;
-- scan **136**: `அவன் இளவரசி` → `அவள் இளவரசி`; `தயார்படுத்தினான்` → `தயார்ப்படுத்தினான்`;
-- scan **137**: restored `சிறை பெடுத்துச் செல்லப்பட்ட`, `கொலைக்களம் கொண்டுசென்று`, `நமது நாட்டுப் படைகளுடன்`, and `கொலையாளிகள் சிறைப்பட்டனர்`;
-- scan **138**: restored multiple source-visible night/owl readings including `காட்சியாக்கி`, `இடையிடையே`, `கேட்கவண்ணமிருந்தது`, `கிளம்பும்போது மட்டும்`, `சற்றுத்`, `கால்களைக்`, `வண்ண வண்ண`, and `வலிவற்றவை`;
-- scan **139**: restored source punctuation `கொண்டன:-` / `உறுமிற்று.`, corrected `ஓரே` → `ஒரே`, and `வெற்றி பெற்றான்` → `வெற்றி பெற்றார்கள்`;
-- scan **141**: restored `காதலியின் நெஞ்சம் அவள் காதலனைத் தேடிச் செல்கிறதாம்`, `கண்கள், அவளைப் பிடுங்கித் தின்கின்றனவாம்`, and `செல்!` → `செல்க!`.
-
-Scan **140** required no textual correction. Printed Kural wording/lineation and `அதிகாரம்` / பாடல் metadata were checked directly throughout the batch. Scan **141** closes the vignette cleanly.
-
-### Batch 4 — COMPLETE
-
-Overall scans **142–152 / printed 125–135** directly compared against the rendered source.
-
-Corrections:
-
-- scan **142**: restored `விளையாடுகிறவர்கள்`, `சொல்லாவிட்டால்`, `சொன்னவரைக் குறைகளே`, `அதற்குத் திட்டமிட்டே`, `அரண்மனை`, `ஆவலை`, and plural `விசுவாசிகள்`;
-- scan **143**: restored `நொடியிலேயே விசுவாசிகள்`, `விற்றது`, and `அன்றிரவு இவரே`;
-- scan **144**: `பாலையப்` → `பாலைப்`;
-- scan **145**: restored `ஏன் தெரியாது?`, `என்பதைத் தான் சொல்லுகிறேனே`, and `தென்னந்தோப்புச்`;
-- scan **146**: `மனிதர்க்கு` → `மானிடர்க்கு`;
-- scan **147**: restored `குணைபட்ட வேங்கை`, source attack wording `அவர் மார்பகத்தைப் பிளந்து`, and `பாட்டைப்`;
-- scan **148**: `சிறிவிழும்` → `சீறிவிழும்`;
-- scan **149**: restored `முடியவில்லைத்தான்` and `நிலாவின்மீது`;
-- scan **150**: restored source punctuation after `நண்பர்கள்` and `தேவைப்படுகிற`;
-- scan **151**: restored `சிறப்புறத் திகழ்ந்தவர்கள்` and `அறத்தை விட்டுத்`;
-- scan **152**: restored `அவன் வலையில்` and `களிபேருவகை`.
-
-Quoted Kural wording/lineation, printed `அதிகாரம்` / பாடல் metadata and relevant continuations were checked directly throughout Batch 4. Scan **152** closes the தெளிந்தான்/நெளிந்தான் vignette cleanly.
-
-### Batch 5 — COMPLETE
-
-Overall scans **153–163 / printed 136–146** directly compared against the rendered source.
-
-Corrections:
-
-- scan **155**: `நடுவாங்கத்துடனும்` → `நட்டுவாங்கத்துடனும்`; `சுகத்தவிட` → `சுகத்தைவிட`;
-- scan **157**: `புலிவேட்டை` → `புரவியேறி`; restored final punctuation in Kural 423;
-- scan **158**: restored `மூதாதையர் சேர்த்துவைத்த பொற்குவியல் குன்றுபோல் உண்டு`, `அவன் துணைவி மாங்கனிதான்`, and `உணவருந்திட அழைத்தாள்`;
-- scan **159**: restored `வாரியணைத்துக் கொண்டது`, `அரும்புகளின்மீது ... மென்காற்றுக்கேற்ப`, `மௌன ஓவியங்கள்`, `வைகறைப் பொழுதின் விளிம்பு வரையில் ... தித்திக்கவில்லையா`, and `அருகம்புல்லில்`;
-- scan **160**: restored `மகாவிஷ்ணுவான நாராயணன்`, `கதைப்பார்கள்`, `முதலையிடம்`, the source `நிகழ்ச்சிச் சித்திரம்` explanation, `அனந்த சயனனையும்`, and `பரந்தாமனை அழைத்துப் பரகதி அடைந்த யானை, புராணங்களுடைய யானை`;
-- scan **161**: restored multiple source-visible elephant/terrain readings including `வேழம்`, `தேங்கி நிற்கும் சேறு நிரம்பிய`, `ஏங்குகிறது - வேதனை தாங்காமல் துடிக்கிறது`, `அகப்பட்டவில்லையானால்`, `குறள் மூலமாக`, `செல்லாக் காசாகிவிட்ட சேதியையும்`, `மூட நம்பிக்கை`, `காகப்பட்டர்`, and the exact final elephant sentence;
-- scan **163**: `சேதி கொண்டு` → `சேதிகொண்டு`; restored `அயலார் நம்மைப்பற்றிப் பேசுவதுகுறித்து நான் என்ன சொல்ல இருக்கிறது?`.
-
-Scans **153, 154, 156 and 162** required no textual correction. Printed Kural wording/lineation and `அதிகாரம்` / பாடல் metadata were checked directly. Scan 153's lexical note `உணர்த்தும் = நீக்கும்` was also confirmed. Scan **163** closes its vignette cleanly.
-
-Current Pass 2A coverage: **52 / 111 scans**, overall scans **112–163 / printed 95–146**.
-
-This is Pass 2A only. Page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`; final `verified` is unavailable until Pass 2B, Pass 3, Part audit and final synchronization close.
+Notable Batch 7 restorations: `கிட்டுகிறது`, `ஆங்கோர் யானை`, `பிரிவுக் கொடுமையைவிட`, `வெளியிடுகிறாள்`, `நீலத் திரை கடலோரம்!`, `போதாகி`, `அவனுடல் தங்கத்தில்`, `இடையணைக்கப்`, `அவர்கட்கு`.
 
 ## Exact current activity
 
-Continue **Part 002 Pass 2A — direct textual verification**.
+Continue **Part 002 Pass 2A — direct textual verification** with **overall scans 184–194 / printed pages 167–177**.
 
-Next verification batch: **overall scans 164–173 / printed pages 147–156**.
+Scan **183** closes its vignette. Scan **184** has already been rendered and inspected only as the next boundary witness; it begins the flood/rescue vignette represented across scans **184–186**.
 
-1. fetch live `main`;
-2. resolve the same controlling Part 002 source;
-3. inspect rendered scans **164–173** directly;
-4. fetch the corresponding existing page records before changing them;
-5. compare every source-visible printed word, punctuation, paragraph boundary, Kural lineation and printed `அதிகாரம்` / பாடல் metadata directly against the source;
-6. correct only source-supported discrepancies; do not normalize or replace this edition's wording with standard Kural text;
-7. append the results to `PASS2_TEXTUAL_VERIFICATION_PART_002.md` and advance the exact next frontier;
-8. keep final `verified` unavailable until Pass 2B and Pass 3 also close.
+The next 11-scan range intentionally keeps complete source blocks together:
 
-Scan **163 / printed 146** closes the slander/friendship vignette. The next batch is 10 scans and preserves the five paired vignette blocks on scans 164–165, 166–167, 168–169, 170–171 and 172–173. Part 003 must not begin until Part 002 is fully closed.
+- 184–186 — flood/rescue and human-effort vignette; Chapter 38 / Kural 380 and Chapter 62 / Kural 620;
+- 187–188 — separation/evening vignette; Chapter 123 / Kural 1222;
+- 189–190 — snake/Muthuvelar autobiographical vignette; Chapter 63 / Kural 622;
+- 191–192 — lovers/ஊடல் vignette; Chapter 133 / Kurals 1321, 1323;
+- 193–194 — Kumanan/Saathanaar generosity vignette; Chapter 23 / Kural 230.
+
+For every scan: compare every printed word, punctuation mark, paragraph/quotation boundary, Kural lineation, and printed `அதிகாரம்` / பாடல் metadata directly against the rendered source. Correct only source-supported discrepancies. Keep final `verified` unavailable until Pass 2B and Pass 3 close. Do not begin Part 003.
