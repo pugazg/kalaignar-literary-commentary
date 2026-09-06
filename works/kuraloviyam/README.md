@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
 | 001 | 1–111 | supplied | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | **intake complete; Pass 1 COMPLETE 111/111; Pass 2A ACTIVE 30/111** |
+| 002 | 112–222 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | **intake complete; Pass 1 COMPLETE 111/111; Pass 2A ACTIVE 41/111** |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
 | 005 | 445–555 | not yet supplied | not-started |
@@ -123,14 +123,32 @@ Source-supported Batch 3 corrections include:
 - scan **139** — restored source punctuation and `வெற்றி பெற்றார்கள்`;
 - scan **141** — restored `காதலியின் நெஞ்சம் அவள் காதலனைத் தேடிச் செல்கிறதாம்`, `கண்கள், அவளைப் பிடுங்கித் தின்கின்றனவாம்`, and `செல்க!`.
 
-Scan **140** required no textual correction. Quoted Kural wording/lineation, printed `அதிகாரம்` / பாடல் metadata and relevant continuations were directly checked throughout Batch 3. Scan **141** closes its vignette cleanly.
+Scan **140** required no textual correction.
 
-Current Pass 2A coverage: **30 / 111 scans**, overall scans **112–141 / printed 95–124**.
+Batch 4 / overall scans **142–152 / printed pages 125–135** is **COMPLETE**.
+
+Source-supported Batch 4 corrections include:
+
+- scan **142** — restored `விளையாடுகிறவர்கள்`, `சொல்லாவிட்டால்`, `சொன்னவரைக் குறைகளே`, `அதற்குத் திட்டமிட்டே`, `அரண்மனை`, `ஆவலை`, and plural `விசுவாசிகள்`;
+- scan **143** — restored `நொடியிலேயே விசுவாசிகள்`, `விற்றது`, and `அன்றிரவு இவரே`;
+- scan **144** — `பாலையப்` → `பாலைப்`;
+- scan **145** — restored `ஏன் தெரியாது?`, `என்பதைத் தான் சொல்லுகிறேனே`, and `தென்னந்தோப்புச்`;
+- scan **146** — `மனிதர்க்கு` → `மானிடர்க்கு`;
+- scan **147** — restored `குணைபட்ட வேங்கை`, the source attack wording `அவர் மார்பகத்தைப் பிளந்து`, and `பாட்டைப்`;
+- scan **148** — `சிறிவிழும்` → `சீறிவிழும்`;
+- scan **149** — restored `முடியவில்லைத்தான்` and `நிலாவின்மீது`;
+- scan **150** — restored source punctuation after `நண்பர்கள்` and `தேவைப்படுகிற`;
+- scan **151** — restored `சிறப்புறத் திகழ்ந்தவர்கள்` and `அறத்தை விட்டுத்`;
+- scan **152** — restored `அவன் வலையில்` and `களிபேருவகை`.
+
+Quoted Kural wording/lineation, printed `அதிகாரம்` / பாடல் metadata and relevant continuations were directly checked throughout Batch 4. Scan **152** closes the தெளிந்தான்/நெளிந்தான் vignette cleanly.
+
+Current Pass 2A coverage: **41 / 111 scans**, overall scans **112–152 / printed 95–135**.
 
 This is intentionally not a final verification state: Pass 2B, Pass 3, the Part audit and final synchronization remain pending.
 
 ## Current frontier
 
-Exact next activity: continue **Part 002 Pass 2A — direct textual verification** with overall scans **142–152 / printed pages 125–135**.
+Exact next activity: continue **Part 002 Pass 2A — direct textual verification** with overall scans **153–163 / printed pages 136–146**.
 
-Scan **141 / printed 124** closes its vignette and scan 142 begins a new vignette. This 11-scan batch intentionally extends through scan 152 so the three-page 150–152 vignette is not split at an arbitrary workflow boundary. Compare every source-visible printed word, punctuation, paragraph boundary, Kural lineation and printed metadata directly against the rendered source. Do not normalize source wording. Part 003 must not begin until Part 002 is fully closed.
+Scan **152 / printed 135** closes its vignette and scan 153 begins a new vignette. This 11-scan batch intentionally runs through scan 163 so the paired vignette blocks through scans 162–163 are not split at an arbitrary workflow boundary. Compare every source-visible printed word, punctuation, paragraph boundary, Kural lineation and printed metadata directly against the rendered source. Do not normalize source wording. Part 003 must not begin until Part 002 is fully closed.
