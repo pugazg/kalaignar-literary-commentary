@@ -154,17 +154,34 @@ All Part 002 page records remain `status: "needs-review"` / `visual_fidelity: "n
 | 193 | 176 | restored `விட்டுவைப்பதும்`, `அணிதேர்ப் புரவி ஆட்பெரும் படையுடன்`, and `நிலையைப் பெற்றதுடன்`; Kumanan/Saathanaar vignette continues into 194 |
 | 194 | 177 | restored `மாற்றிட இயலாது`, `வழுவிலே`, `காவலன் குமணனிடம்`, the four-line `அந்தநாள் வந்திலை அருங்கவிப் புலவோய்...` source quotation, `சாவதைவிடத்`, and `அந்தச் சாதலும் இனியதே என்ற அருங்கருத்தினைப் பொழிந்திடுகிறார்`; Chapter 23 / Kural 230 confirmed; vignette closes cleanly |
 
+## Batch 9 — overall scans 195–204 / printed pages 178–187
+
+**Status: COMPLETE — 10 / 10 scans directly compared against the rendered source.**
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 195 | 178 | restored `மனைவியாட்டி`, `காத்திருக்கமாட்டாள். காரணம்;`, and `களம் பல`; returning-warrior/maiden vignette continues into 196 |
+| 196 | 179 | direct textual comparison complete; no page-record correction required; Chapter 109 / Kurals 1088, 1087, 1082 confirmed; vignette closes |
+| 197 | 180 | `கண்டதில்லை` → `கண்டதுமில்லை`; `காணப் போவது` → `காணப்போவது`; `தலைவயல்லாம்` → `தலையெல்லாம்`; praise/panegyric vignette continues into 198 |
+| 198 | 181 | `அரசங்கில்` → `அரங்கில்`; `வம்பு கடந்து` → `வரம்பு கடந்து`; vignette continues into 199 |
+| 199 | 182 | `மறைந்திருந்து கேட்கிறார்கள்` → `மறைந்திருந்து கேட்டுக் கொண்டனர்`; restored `நாடோடி இவன்! எழுத்தா அது? தலையெழுத்து! பேச்சா அது? பேயின் கூச்சல்! இவன் மூளையைச் சூளையில்தான் வைக்க வேண்டும்.`; Chapter 63 / Kural 629 confirmed; vignette closes and 199→200 is clean |
+| 200 | 183 | direct textual comparison complete; no page-record correction required; lovers/embrace vignette continues into 201 |
+| 201 | 184 | direct textual comparison complete; no page-record correction required; Chapter 111 / Kural 1108 confirmed; vignette closes |
+| 202 | 185 | direct textual comparison complete; no page-record correction required; battlefield/war-elephant vignette begins and continues through 203 |
+| 203 | 186 | illustration-only page confirmed; no body prose; narrative continuity 202→203→204 preserved |
+| 204 | 187 | direct textual comparison complete; no page-record correction required; Chapter 78 / Kural 774 confirmed; vignette closes cleanly |
+
 ## Current Pass 2A coverage
 
-- complete: **83 / 111 scans**;
-- overall scans: **112–194**;
-- printed pages: **95–177**;
-- remaining Pass 2A: **28 scans**.
+- complete: **93 / 111 scans**;
+- overall scans: **112–204**;
+- printed pages: **95–187**;
+- remaining Pass 2A: **18 scans**.
 
 ## Exact next Pass 2A activity
 
-Proceed with overall scans **195–204 / printed pages 178–187**.
+Proceed with overall scans **205–214 / printed pages 188–197**.
 
-Scan **194 / printed 177** closes the Kumanan/Saathanaar vignette cleanly. The next 10-scan batch preserves complete source blocks **195–196**, **197–199**, **200–201**, and **202–204**; scan 203 is an illustration-only page within the final block.
+Scan **204 / printed 187** closes its battlefield/war-elephant vignette cleanly. Scan **205 / printed 188** has been inspected as the next boundary witness and begins the `அலர்` / gossip vignette. The next 10-scan batch preserves the complete paired blocks **205–206**, **207–208**, **209–210**, **211–212**, and **213–214**.
 
 Keep final `verified` unavailable until Pass 2B, Pass 3, the Part audit and final synchronization close. Part 003 must not begin before Part 002 is fully closed.
