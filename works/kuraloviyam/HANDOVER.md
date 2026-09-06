@@ -52,7 +52,7 @@ Never fill uncertain Tamil from OCR, web text, another edition, standard Kural w
 - source intake — COMPLETE;
 - Pass 1 — COMPLETE, **111/111** scans 112–222;
 - Pass 2A — **COMPLETE, 111/111**, scans **112–222 / printed 95–205**;
-- Pass 2B — **ACTIVE, 10/111**, scans **112–121 / printed 95–104** complete;
+- Pass 2B — **ACTIVE, 20/111**, scans **112–131 / printed 95–114** complete;
 - Pass 3 — not started;
 - Part audit — not started.
 
@@ -89,11 +89,15 @@ New corrections were required on scans **113, 114, 115 and 118**:
 - scan 115: `ஆணழகனைப்` → `ஆண்மகனைப்`; restored `அன்னமயில் வந்து கொண்டிருக்கிறானே- ஆகா-`;
 - scan 118: `பொய் சொல்லு வகையே வாழ்க்கையாக` → `பொய் சொல்லுவதே வாழ்க்கையாக`.
 
-Scans **112, 116, 117, 119, 120 and 121** required no new lexical correction. Full Batch 1 details are durable in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
+Scans **112, 116, 117, 119, 120 and 121** required no new lexical correction.
+
+Batch 2 — scans **122–131 / printed 105–114** — **COMPLETE, 10/10**. Fresh direct reread found **no new lexical corrections** on any of the ten scans. Prose, punctuation, quotation boundaries, Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata were independently confirmed against the rendered source.
+
+Overall Pass 2B coverage is now **20/111**, scans **112–131 / printed 95–114**. Remaining Pass 2B: **91 scans**. Full details are durable in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
 
 ## Exact current activity
 
-Continue **Part 002 Pass 2B — independent lexical-fidelity re-read** with overall scans **122–131 / printed pages 105–114**.
+Continue **Part 002 Pass 2B — independent lexical-fidelity re-read** with overall scans **132–141 / printed pages 115–124**.
 
 Pass 2B is an independent source re-read, not a mechanical confirmation of Pass 2A. Re-render/read each controlling scan directly and compare every source-visible word, punctuation mark, paragraph/quotation boundary, Kural lineation and printed `அதிகாரம்` / பாடல் metadata. Correct only newly source-supported discrepancies and append the result durably to `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
 
