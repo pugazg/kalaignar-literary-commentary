@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
 | 001 | 1–111 | supplied | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | **intake complete; Pass 1 112–177 complete (66/111)** |
+| 002 | 112–222 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | **intake complete; Pass 1 112–188 complete (77/111)** |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
 | 005 | 445–555 | not yet supplied | not-started |
@@ -61,8 +61,8 @@ Part 002 uses **11 physical scans per iteration**:
 - P2-04: **145–155** — COMPLETE
 - P2-05: **156–166** — COMPLETE
 - P2-06: **167–177** — COMPLETE
-- P2-07: **178–188** — NEXT
-- P2-08: **189–199**
+- P2-07: **178–188** — COMPLETE
+- P2-08: **189–199** — NEXT
 - P2-09: **200–210**
 - P2-10: **211–221**
 - final remainder: **222**
@@ -71,33 +71,31 @@ The 11-page cadence is only a workflow rule. Preserve source continuations acros
 
 ## Pass 1 progress
 
-**66 / 111 scans complete — scans 112–177 / printed pages 95–160.**
+**77 / 111 scans complete — scans 112–188 / printed pages 95–171.**
 
 All Part 002 Pass-1 records remain:
 
 - `status: "needs-review"`;
 - `visual_fidelity: "needs-review"`.
 
-P2-06 captured:
+P2-07 captured:
 
-- 167 — closes the medical/valor vignette begun on 166; Chapter 62 / Kural 614;
-- 168–169 — love/heart; Chapter 130 / Kural 1293;
-- 170–171 — Socrates/prison/poison; Chapter 58 / Kural 580;
-- 172–173 — lovers/separation; Chapter 128 / Kural 1280;
-- 174–175 — battlefield/war elephant; Chapter 60 / Kural 597;
-- 176 — new love/separation-night vignette begins;
-- 177 — full-page illustration for that same vignette.
+- 178 — closes the love/separation-night vignette from scans 176–177; Chapter 117 / Kurals 1168, 1169;
+- 179–180 — king/minister/two-spies; Chapter 63 / Kural 621 and Chapter 59 / Kural 588;
+- 181–183 — moonlit-seaside lovers; Chapter 132 / Kural 1316;
+- 184–186 — flood/rescue and human effort; Chapter 38 / Kural 380 and Chapter 62 / Kural 620;
+- 187–188 — separation/evening; Chapter 123 / Kural 1222.
 
 Important boundaries:
 
-- **166→167** is a genuine continuation and has been preserved;
-- scan **178 / printed 161** was inspected only as the P2-06 closing witness;
-- **177→178 is a genuine narrative continuation** and P2-07 must begin by continuing that vignette.
+- **177→178** is a genuine narrative continuation and has been preserved;
+- scan **189 / printed 172** was inspected only as the P2-07 closing witness;
+- **188→189 is a clean source boundary** and scan 189 begins a new illustrated household vignette.
 
 No standard/published/web Kural wording, another edition, OCR guess or memory was used to fill uncertain readings.
 
 ## Current frontier
 
-Exact next activity: **P2-07 / Part 002 Pass 1, overall scans 178–188 / printed pages 161–171**.
+Exact next activity: **P2-08 / Part 002 Pass 1, overall scans 189–199 / printed pages 172–182**.
 
-Begin scan 178 as continuation of scans 176–177. Inspect scan 189 only when needed as the closing boundary witness.
+Begin scan 189 at the confirmed clean 188→189 boundary. Inspect scan 200 only when needed as the closing boundary witness.
