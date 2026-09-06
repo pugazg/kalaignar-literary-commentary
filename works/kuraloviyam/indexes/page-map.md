@@ -9,7 +9,7 @@ Individual Markdown records under `../pages/` are authoritative for exact captur
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
-| 002 | 112–222 | 1–111 | scan 112 / printed 95; Pass 1 through scan 199 / printed 182; scan 200 / printed 183 inspected as boundary witness | **source intake complete; Pass 1 88/111** |
+| 002 | 112–222 | 1–111 | scan 112 / printed 95; Pass 1 through scan 210 / printed 193; scan 211 / printed 194 inspected as boundary witness | **source intake complete; Pass 1 99/111** |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
@@ -72,7 +72,7 @@ Do not reconstruct those readings from context, OCR, web text or a standard edit
 
 ## Part 002 physical map — current Pass 1 coverage
 
-Pass 1 currently contains **88 page-aligned records**, scans **112–199 / printed 95–182**.
+Pass 1 currently contains **99 page-aligned records**, scans **112–210 / printed 95–193**.
 
 | Overall scans | Printed pages | Source role / observed boundary | Pass 1 state |
 |---:|---:|---|---|
@@ -118,6 +118,11 @@ Pass 1 currently contains **88 page-aligned records**, scans **112–199 / print
 | 193–194 | 176–177 | Kumanan/Saathanaar generosity vignette; Chapter 23 / Kural 230 | needs-review |
 | 195–196 | 178–179 | returning-warrior/maiden vignette; Chapter 109 / Kurals 1088, 1087, 1082 | needs-review |
 | 197–199 | 180–182 | praise/reversal vignette; Chapter 63 / Kural 629 | needs-review |
+| 200–201 | 183–184 | lovers/embrace vignette; Chapter 111 / Kural 1108 | needs-review |
+| 202–204 | 185–187 | battlefield/war-elephant vignette; scan 203 illustration-only; Chapter 78 / Kural 774 | needs-review |
+| 205–206 | 188–189 | `அலர்` / gossip vignette; Chapter 115 / Kural 1148 | needs-review |
+| 207–208 | 190–191 | battlefield command/courage vignette; Chapter 78 / Kurals 776, 775 | needs-review |
+| 209–210 | 192–193 | separation/tear-flood vignette; Chapter 117 / Kural 1170 | needs-review |
 
 Additional physical notes:
 
@@ -130,8 +135,10 @@ Additional physical notes:
 - scan **177 / printed 160** is a full-page illustration with no body prose;
 - **177→178** is a genuine narrative continuation and is preserved;
 - **188→189** is a clean source boundary;
-- scan **200 / printed 183** was inspected only as the P2-08 closing boundary witness;
-- **199→200 is a clean source boundary** and scan 200 begins a new illustrated lovers vignette.
+- **199→200** is a clean source boundary;
+- scan **203 / printed 186** is a full-page illustration with no body prose;
+- scan **211 / printed 194** was inspected only as the P2-09 closing boundary witness;
+- **210→211 is a clean source boundary** and scan 211 begins a new illustrated sword/warriors vignette.
 
 Durable Pass 1 progress record:
 
@@ -154,13 +161,13 @@ Part 001:
 Part 002:
 
 - source intake — **COMPLETE**;
-- Pass 1 — **88/111 complete**, scans 112–199;
+- Pass 1 — **99/111 complete**, scans 112–210;
 - Pass 2A / 2B / 3 — not started.
 
 ## Current frontier
 
 **Part 001: CLOSED.**
 
-**Part 002: ACTIVE — source intake complete; P2-01 through P2-08 / Pass 1 scans 112–199 complete.**
+**Part 002: ACTIVE — source intake complete; P2-01 through P2-09 / Pass 1 scans 112–210 complete.**
 
-Exact next activity: **P2-09 / Pass 1 scans 200–210 / printed 183–193**, beginning at the clean **199→200** source boundary and inspecting scan 211 only as the closing boundary witness when necessary.
+Exact next activity: **P2-10 / Pass 1 scans 211–221 / printed 194–204**, beginning at the clean **210→211** source boundary and inspecting scan 222 only as the closing boundary witness when necessary.

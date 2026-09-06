@@ -62,18 +62,19 @@ Process **11 physical scans per iteration**. Workflow cutoffs never create sourc
 - P2-06 / scans **167–177** — COMPLETE
 - P2-07 / scans **178–188** — COMPLETE
 - P2-08 / scans **189–199** — COMPLETE
+- P2-09 / scans **200–210** — COMPLETE
 
-Current coverage: **88 / 111 scans**, overall **112–199 / printed 95–182**.
+Current coverage: **99 / 111 scans**, overall **112–210 / printed 95–193**.
 
 All Part 002 records remain `needs-review` / `visual_fidelity: needs-review` as required for Pass 1.
 
-P2-08 source units:
+P2-09 source units:
 
-- 189–190 — snake/Muthuvelar autobiographical vignette; Chapter 63 / Kural 622;
-- 191–192 — lovers / `ஊடல்` vignette; Chapter 133 / Kurals 1321, 1323;
-- 193–194 — Kumanan/Saathanaar generosity vignette; Chapter 23 / Kural 230;
-- 195–196 — returning-warrior/maiden vignette; Chapter 109 / Kurals 1088, 1087, 1082;
-- 197–199 — praise/reversal vignette; Chapter 63 / Kural 629.
+- 200–201 — lovers/embrace vignette; Chapter 111 / Kural 1108;
+- 202–204 — battlefield/war-elephant vignette; scan 203 is illustration-only; Chapter 78 / Kural 774;
+- 205–206 — `அலர்` / gossip vignette; Chapter 115 / Kural 1148;
+- 207–208 — battlefield command/courage vignette; Chapter 78 / Kurals 776, 775;
+- 209–210 — separation/tear-flood vignette; Chapter 117 / Kural 1170.
 
 Continuity controls:
 
@@ -84,23 +85,24 @@ Continuity controls:
 - **166→167** continuation preserved;
 - **177→178** continuation preserved;
 - **188→189** clean;
-- scan **200 / printed 183** was inspected only as the P2-08 closing witness;
-- **199→200 is a clean source boundary** and scan 200 begins a new illustrated lovers vignette.
+- **199→200** clean;
+- scan **211 / printed 194** was inspected only as the P2-09 closing witness;
+- **210→211 is a clean source boundary** and scan 211 begins a new illustrated sword/warriors vignette.
 
 No standard/published/web Kural wording, another edition, OCR guess or memory was used to fill uncertain readings.
 
 ## Exact current activity
 
-Proceed with **P2-09 / Part 002 Pass 1 — overall scans 200–210 / printed pages 183–193**:
+Proceed with **P2-10 / Part 002 Pass 1 — overall scans 211–221 / printed pages 194–204**:
 
 1. fetch live `main`;
-2. begin scan **200** at the confirmed clean **199→200** source boundary;
-3. process exactly scans **200–210** source-first;
+2. begin scan **211** at the confirmed clean **210→211** source boundary;
+3. process exactly scans **211–221** source-first;
 4. create one Tamil page record per scan with overall `scan_page`, `part: 2`, local `part_page`, printed pagination, page function, visual notes and visible Tamil text;
 5. copy Kural/chapter metadata only from the rendered source image;
 6. keep Pass 1 statuses as `needs-review`;
-7. inspect scan **211** only as the closing boundary witness when needed;
-8. update progress/page-map/README/HANDOVER/NEXT and advance the frontier to **211–221**.
+7. inspect scan **222** only as the closing boundary witness when needed;
+8. update progress/page-map/README/HANDOVER/NEXT and advance the frontier to final scan **222**.
 
 Do not import OCR guesses, another edition, standard Kural text, web material or memory to fill uncertain readings.
 

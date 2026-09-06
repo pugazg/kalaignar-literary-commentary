@@ -52,29 +52,35 @@ Important boundary: **188→189** is clean.
 
 Scans **189–199 / printed 172–182** captured as 11 page-aligned Tamil records.
 
+Important boundary: **199→200** is clean.
+
+## P2-09 — COMPLETE
+
+Scans **200–210 / printed 183–193** captured as 11 page-aligned Tamil records.
+
 All Part 002 Pass-1 records remain:
 
 - `status: "needs-review"`
 - `visual_fidelity: "needs-review"`
 
-Source units observed in P2-08:
+Source units observed in P2-09:
 
-- scans **189–190 / printed 172–173** — snake/Muthuvelar autobiographical vignette; Chapter 63 / Kural 622;
-- scans **191–192 / printed 174–175** — lovers / `ஊடல்` vignette; Chapter 133 / Kurals 1321, 1323;
-- scans **193–194 / printed 176–177** — Kumanan/Saathanaar generosity vignette; Chapter 23 / Kural 230;
-- scans **195–196 / printed 178–179** — returning-warrior/maiden vignette; Chapter 109 / Kurals 1088, 1087, 1082;
-- scans **197–199 / printed 180–182** — praise/reversal vignette; Chapter 63 / Kural 629.
+- scans **200–201 / printed 183–184** — lovers/embrace vignette; Chapter 111 / Kural 1108;
+- scans **202–204 / printed 185–187** — battlefield/war-elephant vignette; scan 203 is illustration-only; Chapter 78 / Kural 774;
+- scans **205–206 / printed 188–189** — `அலர்` / gossip vignette; Chapter 115 / Kural 1148;
+- scans **207–208 / printed 190–191** — battlefield command/courage vignette; Chapter 78 / Kurals 776, 775;
+- scans **209–210 / printed 192–193** — separation/tear-flood vignette; Chapter 117 / Kural 1170.
 
-Scan **200 / printed 183** was inspected only as the closing boundary witness. It begins a new illustrated lovers vignette, so **199→200 is a clean source boundary**.
+Scan **211 / printed 194** was inspected only as the closing boundary witness. It begins a new illustrated sword/warriors vignette, so **210→211 is a clean source boundary**.
 
 No standard/published/web Kural wording, another edition, OCR guess, or memory was used to fill uncertain readings.
 
 ## Current Pass 1 coverage
 
-**88 / 111 scans complete** — overall scans **112–199 / printed 95–182**.
+**99 / 111 scans complete** — overall scans **112–210 / printed 95–193**.
 
 ## Next activity
 
-**P2-09 — overall scans 200–210 / printed 183–193.**
+**P2-10 — overall scans 211–221 / printed 194–204.**
 
-Begin scan 200 at the confirmed clean 199→200 source boundary. Inspect scan 211 only as the closing boundary witness when needed.
+Begin scan 211 at the confirmed clean 210→211 source boundary. Inspect scan 222 only as the closing boundary witness when needed.

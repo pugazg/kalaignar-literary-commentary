@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
 | 001 | 1–111 | supplied | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | **intake complete; Pass 1 112–199 complete (88/111)** |
+| 002 | 112–222 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | **intake complete; Pass 1 112–210 complete (99/111)** |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
 | 005 | 445–555 | not yet supplied | not-started |
@@ -63,39 +63,39 @@ Part 002 uses **11 physical scans per iteration**:
 - P2-06: **167–177** — COMPLETE
 - P2-07: **178–188** — COMPLETE
 - P2-08: **189–199** — COMPLETE
-- P2-09: **200–210** — NEXT
-- P2-10: **211–221**
+- P2-09: **200–210** — COMPLETE
+- P2-10: **211–221** — NEXT
 - final remainder: **222**
 
 The 11-page cadence is only a workflow rule. Preserve source continuations across batch boundaries.
 
 ## Pass 1 progress
 
-**88 / 111 scans complete — scans 112–199 / printed pages 95–182.**
+**99 / 111 scans complete — scans 112–210 / printed pages 95–193.**
 
 All Part 002 Pass-1 records remain:
 
 - `status: "needs-review"`;
 - `visual_fidelity: "needs-review"`.
 
-P2-08 captured:
+P2-09 captured:
 
-- 189–190 — snake/Muthuvelar autobiographical vignette; Chapter 63 / Kural 622;
-- 191–192 — lovers / `ஊடல்`; Chapter 133 / Kurals 1321, 1323;
-- 193–194 — Kumanan/Saathanaar generosity; Chapter 23 / Kural 230;
-- 195–196 — returning warrior / maiden; Chapter 109 / Kurals 1088, 1087, 1082;
-- 197–199 — praise/reversal vignette; Chapter 63 / Kural 629.
+- 200–201 — lovers/embrace vignette; Chapter 111 / Kural 1108;
+- 202–204 — battlefield/war-elephant vignette; scan 203 illustration-only; Chapter 78 / Kural 774;
+- 205–206 — `அலர்` / gossip vignette; Chapter 115 / Kural 1148;
+- 207–208 — battlefield command/courage vignette; Chapter 78 / Kurals 776, 775;
+- 209–210 — separation/tear-flood vignette; Chapter 117 / Kural 1170.
 
 Important boundaries:
 
-- **188→189** is a clean source boundary and was preserved;
-- scan **200 / printed 183** was inspected only as the P2-08 closing witness;
-- **199→200 is a clean source boundary** and scan 200 begins a new illustrated lovers vignette.
+- **199→200** is a clean source boundary and was preserved;
+- scan **211 / printed 194** was inspected only as the P2-09 closing witness;
+- **210→211 is a clean source boundary** and scan 211 begins a new illustrated sword/warriors vignette.
 
 No standard/published/web Kural wording, another edition, OCR guess or memory was used to fill uncertain readings.
 
 ## Current frontier
 
-Exact next activity: **P2-09 / Part 002 Pass 1, overall scans 200–210 / printed pages 183–193**.
+Exact next activity: **P2-10 / Part 002 Pass 1, overall scans 211–221 / printed pages 194–204**.
 
-Begin scan 200 at the confirmed clean 199→200 boundary. Inspect scan 211 only when needed as the closing boundary witness.
+Begin scan 211 at the confirmed clean 210→211 boundary. Inspect scan 222 only when needed as the closing boundary witness.
