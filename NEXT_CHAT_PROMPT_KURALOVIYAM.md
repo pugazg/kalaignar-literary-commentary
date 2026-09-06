@@ -44,22 +44,20 @@ Tamil 1–111 archival-ready; English closed with **107 release-ready + 4 source
 - Pass 1 — COMPLETE, **111/111**
 - Pass 2A — **COMPLETE, 111/111 scans 112–222 / printed 95–205**
 - Pass 2B Batch 1 — **112–121 / 95–104 — COMPLETE, 10/10**
-- Pass 2B overall — **ACTIVE, 10/111**
+- Pass 2B Batch 2 — **122–131 / 105–114 — COMPLETE, 10/10**
+- Pass 2B overall — **ACTIVE, 20/111**
 
 Pass 2B Batch 1 found new source-supported corrections on scans **113, 114, 115 and 118**. Scans **112, 116, 117, 119, 120 and 121** required no new lexical correction. Durable details are in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
 
-Key newly restored readings include:
+Batch 2 was a fresh independent reread of all scans **122–131** and found **no new lexical discrepancies**. The existing records match the controlling source at this gate, including punctuation, quotation boundaries, Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata.
 
-- scan 113: `எடுத்துக் கொள்ளல்`; `கைபடுமாறு`;
-- scan 114: `அசைந்தாடும்`;
-- scan 115: `ஆண்மகனைப்`; `அன்னமயில் வந்து கொண்டிருக்கிறானே- ஆகா-`;
-- scan 118: `பொய் சொல்லுவதே வாழ்க்கையாக`.
+Overall Pass 2B coverage is **20/111**, scans **112–131 / printed 95–114**; **91 scans remain**.
 
 All Part 002 records remain `needs-review` / `visual_fidelity: needs-review`; Pass 2B completion alone will not authorize final `verified` because Pass 3 and the Part audit still remain.
 
 ## Exact next activity
 
-Continue **Part 002 Pass 2B independent lexical-fidelity re-read** with **overall scans 122–131 / printed pages 105–114**.
+Continue **Part 002 Pass 2B independent lexical-fidelity re-read** with **overall scans 132–141 / printed pages 115–124**.
 
 Pass 2B must be independent of Pass 2A. Freshly render/read the controlling source scans and compare every visible printed word, punctuation mark, paragraph/quotation boundary, quoted Kural wording and lineation, and printed `அதிகாரம்` / பாடல் metadata. Do not simply re-approve the Pass 2A record from memory or from the existing Markdown.
 
