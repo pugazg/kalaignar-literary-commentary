@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Supplied state | Current archival state |
 |---|---:|---|---|
 | 001 | 1–111 | supplied | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | **intake complete; Pass 1 COMPLETE 111/111; Pass 2A ACTIVE 41/111** |
+| 002 | 112–222 | **supplied** — `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | **intake complete; Pass 1 COMPLETE 111/111; Pass 2A ACTIVE 52/111** |
 | 003 | 223–333 | not yet supplied | not-started |
 | 004 | 334–444 | not yet supplied | not-started |
 | 005 | 445–555 | not yet supplied | not-started |
@@ -143,12 +143,26 @@ Source-supported Batch 4 corrections include:
 
 Quoted Kural wording/lineation, printed `அதிகாரம்` / பாடல் metadata and relevant continuations were directly checked throughout Batch 4. Scan **152** closes the தெளிந்தான்/நெளிந்தான் vignette cleanly.
 
-Current Pass 2A coverage: **41 / 111 scans**, overall scans **112–152 / printed 95–135**.
+Batch 5 / overall scans **153–163 / printed pages 136–146** is **COMPLETE**.
+
+Source-supported Batch 5 corrections include:
+
+- scan **155** — `நடுவாங்கத்துடனும்` → `நட்டுவாங்கத்துடனும்`; `சுகத்தவிட` → `சுகத்தைவிட`;
+- scan **157** — `புலிவேட்டை` → `புரவியேறி`; restored printed Kural final punctuation;
+- scan **158** — restored `மூதாதையர் சேர்த்துவைத்த பொற்குவியல் குன்றுபோல் உண்டு`, `அவன் துணைவி மாங்கனிதான்`, and `உணவருந்திட அழைத்தாள்`;
+- scan **159** — restored `வாரியணைத்துக் கொண்டது`, `அரும்புகளின்மீது ... மென்காற்றுக்கேற்ப`, `மௌன ஓவியங்கள்`, `வைகறைப் பொழுதின் விளிம்பு வரையில் ... தித்திக்கவில்லையா`, and `அருகம்புல்லில்`;
+- scan **160** — restored `மகாவிஷ்ணுவான நாராயணன்`, `கதைப்பார்கள்`, `முதலையிடம்`, the source `நிகழ்ச்சிச் சித்திரம்` explanation, `அனந்த சயனனையும்`, and `பரந்தாமனை அழைத்துப் பரகதி அடைந்த யானை, புராணங்களுடைய யானை`;
+- scan **161** — restored multiple elephant/terrain readings including `வேழம்`, `தேங்கி நிற்கும் சேறு நிரம்பிய`, `ஏங்குகிறது - வேதனை தாங்காமல் துடிக்கிறது`, `அகப்பட்டவில்லையானால்`, `குறள் மூலமாக`, `செல்லாக் காசாகிவிட்ட சேதியையும்`, `மூட நம்பிக்கை`, `காகப்பட்டர்`, and the exact final elephant sentence;
+- scan **163** — `சேதி கொண்டு` → `சேதிகொண்டு`; restored `அயலார் நம்மைப்பற்றிப் பேசுவதுகுறித்து நான் என்ன சொல்ல இருக்கிறது?`.
+
+Scans **153, 154, 156 and 162** required no textual correction. Kural wording/lineation, printed `அதிகாரம்` / பாடல் metadata, the scan-153 lexical footnote, and all relevant continuations were directly checked throughout Batch 5. Scan **163** closes its vignette cleanly.
+
+Current Pass 2A coverage: **52 / 111 scans**, overall scans **112–163 / printed 95–146**.
 
 This is intentionally not a final verification state: Pass 2B, Pass 3, the Part audit and final synchronization remain pending.
 
 ## Current frontier
 
-Exact next activity: continue **Part 002 Pass 2A — direct textual verification** with overall scans **153–163 / printed pages 136–146**.
+Exact next activity: continue **Part 002 Pass 2A — direct textual verification** with overall scans **164–173 / printed pages 147–156**.
 
-Scan **152 / printed 135** closes its vignette and scan 153 begins a new vignette. This 11-scan batch intentionally runs through scan 163 so the paired vignette blocks through scans 162–163 are not split at an arbitrary workflow boundary. Compare every source-visible printed word, punctuation, paragraph boundary, Kural lineation and printed metadata directly against the rendered source. Do not normalize source wording. Part 003 must not begin until Part 002 is fully closed.
+Scan **163 / printed 146** closes its vignette. The next 10-scan batch preserves the five paired vignette blocks on scans 164–165, 166–167, 168–169, 170–171 and 172–173. Compare every source-visible printed word, punctuation, paragraph boundary, Kural lineation and printed metadata directly against the rendered source. Do not normalize source wording. Part 003 must not begin until Part 002 is fully closed.
