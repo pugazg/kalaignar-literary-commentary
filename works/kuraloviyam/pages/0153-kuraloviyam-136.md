@@ -5,14 +5,18 @@ part_page: 42
 printed_page: "136"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large illustration of woman addressing her own heart; self-contained vignette; Chapter 125 / Kural 1246; printed lexical note at foot"
+visual_notes: "Large colour illustration physically above the prose showing a woman addressing her own heart, with a second female face inset; distinct highlighted Kural 1246 block and printed lexical note at the foot; recurring vertical side banner and printed page 136"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour illustration above the prose showing a woman in the foreground with a second female face inset, visually accompanying the woman-addressing-her-heart vignette.
 
 “என் இனிய நெஞ்சமே! சே! உன்னைப் போய் இனிய நெஞ்சம் என்று கூறுகிறேன் பார்! எத்தனையோ இன்னல்களைத் தாங்குகிற உனக்கு; இந்த ஒரு விஷயத்தில் மட்டும் உறுதி என்பது ஒரு துளியும் கிடையாது. அவரைத்தான் உன்னுடையவர் என்று ஏற்றுக்கொண்டிருக்கிறாய் - ஆனால், அவரைப்பற்றி உனக்கேன் இத்தனை ஐயப்பாடு? அதனால்தானே அடிக்கடி ஊடல் கொள்கிறாய்? அந்த ஊடலாவது நிலைத்துநிற்கும் உறுதியை நீ பெற்றிருக்கிறாயா? அவரைக் கண்டவுடன் என்ன செய்கிறாய்? தீர விசாரித்துத் தெளிவுறாத ஒரு குற்றத்தை அவர்மீது சுமத்தி ஊடல் கொண்டிருக்கும்போது - அவர் கரங்கள் என்மீது பட்டவுடன் நீ எங்கேயோ போய்விடுகிறாய் நெஞ்சே! கட்டித் தழுவுகிறார் - காதல் இலக்கியம் வரைகிறார் - எட்டித் தள்ளமுடியாமல் என்னை முழுமையாக அவருக்குக் கொடுத்துவிடுகிறேன். கூடலெனும் தேர்த்திருவிழாவில் ஊடலென்பது எங்கேயோ காணாமல் போய்விட்ட செல்லாப் பணமாகி விடுகிறது.
 
@@ -20,8 +24,8 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 இப்படியொரு கிள்ளைமொழியாள், தன் நெஞ்சோடு கிளத்தலை இந்தக் குறள் குறிப்பிடுகிறது.
 
-“கலந்துணர்த்தும் காதலர்க் கண்டால் புலந்துணராய்
-பொய்க்காய்வு காய்திஎன் நெஞ்சு.”
+> கலந்துணர்த்தும் காதலர்க் கண்டால் புலந்துணராய்  
+> பொய்க்காய்வு காய்திஎன் நெஞ்சு.
 
 அதிகாரம் - 125 - நெஞ்சொடு கிளத்தல்; பாடல் - 1246
 
