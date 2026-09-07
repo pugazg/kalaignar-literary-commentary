@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "New love/separation-night vignette begins; no large illustration on this page; continues across scan 177's full-page illustration into scan 178"
+visual_notes: "New love/separation-night vignette begins; distinct highlighted Kural 1168 block; continues across scan 177's full-page illustration into scan 178"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -24,8 +24,8 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 காதலன் உடன் இருக்கும்போது, கட்டித் தழுவி இன்பக் கனிரசம் பருகிய போது இரவுகள், பந்தயக் குதிரைகள்போல் ஓடியதாகத் தெரிந்தது அவளுக்கு! அவசரக்கார இரவு அதற்குள் தொலைந்துவிட்டதே என்று வசைகூடப் பாடியிருக்கிறாள். இன்றோ, அந்த இரவு ஆமையைக் காட்டிலும் குறைவான வேகத்தில் நடப்பதாகத் தோன்றியது.
 
-“கொடியார் கொடுமையின் தாம்கொடிய இந்நாள்
-நெடிய கழியும் இரா.”
+> கொடியார் கொடுமையின் தாம்கொடிய இந்நாள்  
+> நெடிய கழியும் இரா.
 
 என்னைப் பிரிந்து சென்ற கொடியவர் எனக்கு விளைத்த பிரிவுக் கொடுமையைவிட; விடியாமலே நீண்டுகொண்டு போகிற இந்த இரவு கொடியதாகும் என்று இரவின்மீது சீறி விழுகிறாள். பாவம், இரவு!
 
