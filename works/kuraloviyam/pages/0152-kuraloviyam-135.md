@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Text-only close of தெளிந்தான்/நெளிந்தான் vignette; Chapter 15 / Kurals 142 and 145"
+visual_notes: "Text-only close of the தெளிந்தான்/நெளிந்தான் vignette; distinct highlighted two-line Kural 145 block above Chapter 15 / பாடல்கள் 142, 145 metadata, recurring vertical side banner and printed page 135"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -32,8 +32,8 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 “எனக்கும் குறள் தெரியும் பெண்ணே!”
 
-“எளிதென இல்லிறப்பான் எய்துமெஞ் ஞான்றும்
-விளியாது நிற்கும் பழி.”
+> “எளிதென இல்லிறப்பான் எய்துமெஞ் ஞான்றும்  
+> விளியாது நிற்கும் பழி.”
 
 “அதாவது, இச்செயல் எளிதாக நிறைவேறும் என்ற நிலையிலேகூடப் பிறன் மனைவியிடம் நெறி தவறிச் செல்கிறவன் அழியாத பழிக்கு ஆளாவான்.”
 
