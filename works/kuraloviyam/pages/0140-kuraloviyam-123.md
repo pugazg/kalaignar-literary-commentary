@@ -5,14 +5,18 @@ part_page: 29
 printed_page: "123"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large color domestic illustration shows an older woman at left, a younger woman carrying stacked pots, and another woman holding a child; new sisters/child/absent-lover vignette begins and continues to scan 141; printed page 123"
+visual_notes: "Large colour domestic illustration physically above the prose, showing an older woman at left, a younger woman carrying stacked pots, and another woman holding a child; recurring vertical side banner and printed page 123; vignette continues to scan 141"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour domestic illustration showing an older woman at left, a younger woman carrying stacked pots, and another woman holding a child.
 
 “தங்கச்சி, எங்கேயம்மா போகிறாய்?”
 
