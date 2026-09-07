@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Continuation and close of the battlefield/war-elephant vignette begun on scan 174; closes with Chapter 60 / Kural 597; no new source unit begins on this page"
+visual_notes: "Continuation and close of the battlefield/war-elephant vignette begun on scan 174; distinct highlighted Kural 597 block, Chapter 60 metadata, recurring side banner and printed page 158"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -20,8 +20,8 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 யானை, தன் இரு முன்னங்கால்களையும் மேலே தூக்குகிறது. துதிக்கையைக் கம்பீரமாக உயர்த்துகிறது. தன்னைச் சுற்றி நிற்கும் தேர்களையும் தேர்களில் உள்ள தளபதிகளையும் பார்க்கிறது. இமை கொட்டித் திறப்பதற்குள் பெரும் ஓலியுடன் தன் எதிரேயுள்ள ஒரு தேரைப் பொடி செய்கிறது. மற்றொரு தேர் நொறுங்குகிறது. ஏனைய தேர்களில் உள்ள தளபதிகள் சிறிதுநேரம் திகைக்கின்றனர். தன் வாழ்வு முடிவதற்குள் அந்தக் களத்தில் பகைவர்கள் பலர் வாழ்வை முடிப்பதென அந்த யானை சுழலும் கடுமைகண்டு அனைவருமே வியப்படைகின்றனர். வள்ளுவரும் அதற்கென ஓர் அழகான குறள் வழங்கி ‘ஊக்கம் உடைமை’யின் உயர்வினை எடுத்துக் காட்டுகிறார்.
 
-“சிதைவிடத்து ஒல்கார் உரவோர் புதையம்பிற்
-பட்டுப் பாடூன்றும் களிறு.”
+> சிதைவிடத்து ஒல்கார் உரவோர் புதையம்பிற்  
+> பட்டுப் பாடூன்றும் களிறு.
 
 ‘மேனி மறையுமளவுக்குக் கணைகளால் புண்பட்டாலும்கூட யானை, இறுதிவரையில் தன் பெருமையை நிலைநாட்டும். அதுபோல், ஊக்கம் உடையவர்கள், அழிவே வந்தாலுங்கூடத் தளர்ச்சி அடைய மாட்டார்கள்’ என்பது இதற்குப் பொருள்.
 
