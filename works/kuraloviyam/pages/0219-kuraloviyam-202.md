@@ -5,14 +5,18 @@ part_page: 108
 printed_page: "202"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large color illustration of an aged, tearful warrior reclining while another armed man looks away; new dying-veteran/friendship vignette begins and continues directly to scan 220"
+visual_notes: "Large color illustration of an aged, tearful warrior reclining beneath a fire motif while another armed man looks away is physically above the prose; new dying-veteran/friendship vignette begins and continues directly to scan 220"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour illustration of an aged, tearful warrior reclining beneath a fire motif while another armed man looks away.
 
 நாட்டுக் காவலர் அவர். பாட்டுத் தமிழ்ப் புலவர்க்குப் புரவலர். வரலாற்று ஏட்டுக்கு ஒளிசேர்க்கும் வலிமை படைத்த தோளுடையவர். அவர் நெஞ்சு வீட்டுக்குள் கலக்கமெனும் காரிருள், கணநேரமும் நுழைந்ததில்லை. களம்பல கண்டவர் எனினும், பகைப் புலம் மீது பழி தீர்க்க எண்ணிடாத இதயம் கொண்டவர். எதிரிகளின் வாள்வீச்சு அவர் மார்பகத்தில் வீர ரேகைகளை உருவாக்கியதுண்டு. போர்க்களத்தில் பொல்லாப் பகைவர்களை ஆயிரக்கணக்கில் சாவுக்கு விடை கொடுத்தனுப்பி, வெற்றி மாலைகளைச் சூடிய அந்த வீரர்குலச் சிங்கம், இதோ சாவறியிலிருந்து வந்துள்ள அழைப்பிதழைப் படித்துக்கொண்டு படுக்கையில் கிடக்கிறது. தூதுவர் செல்ல அஞ்சி நடுங்கியதால், தானும் சென்றிடப் பயந்துகொண்டு காலன் அவருக்கே அழைப்புக் கடிதம் விடுத்தனன் போலும், அத்தனை ஆற்றல் மிகு மறவனன்றோ அவர்! அணிதேர்ப்புரவி, ஆட்பெரும் படையுடன் அவரது தலைநகரை முற்றுகையிட்டவர்கள், மஞ்சத்தில் சிரித்து மறுநாள் காலையில் வாடிய மலர்களைப்போல அள்ளிக் கொட்டப்பட்டனர், அவரது போர் முறையின் திறனால்!
 
