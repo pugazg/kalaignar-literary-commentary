@@ -52,7 +52,7 @@ Never fill uncertain Tamil from OCR, web text, another edition, standard Kural w
 - source intake — COMPLETE;
 - Pass 1 — COMPLETE, **111/111** scans 112–222;
 - Pass 2A — **COMPLETE, 111/111**, scans **112–222 / printed 95–205**;
-- Pass 2B — **ACTIVE, 62/111**, scans **112–173 / printed 95–156** complete;
+- Pass 2B — **ACTIVE, 72/111**, scans **112–183 / printed 95–166** complete;
 - Pass 3 — not started;
 - Part audit — not started.
 
@@ -101,11 +101,19 @@ Batch 5 — scans **153–163 / printed 136–146** — **COMPLETE, 11/11**. New
 
 Batch 6 — scans **164–173 / printed 147–156** — **COMPLETE, 10/10**. New source-supported corrections were required on scans **164, 168 and 169**; scans **165, 166, 167, 170, 171, 172 and 173** required no new lexical correction. Key restorations: scan 164 `இந்தப் புவியிலுள்ள`, `என் கணிப்பு!` and the source's single continuous quoted paragraph; scan 168 `குங்கும நிறங்காட்டும்`; scan 169 source punctuation `ஆனால்.....ஆனால்.....`.
 
-Overall Pass 2B coverage is now **62/111**, scans **112–173 / printed 95–156**. Remaining Pass 2B: **49 scans**. Full details are durable in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
+Batch 7 — scans **174–183 / printed 157–166** — **COMPLETE, 10/10**. New source-supported corrections were required on scans **175, 176 and 180**:
+
+- scan 175: `புலிபோல் பாய்கிறது.` → `புலிபோலப் பாய்கிறது.`;
+- scan 176: `ஓடியதாகத் தெரிந்து அவளுக்கு!` → `ஓடியதாகத் தெரிந்தது அவளுக்கு!`;
+- scan 180: source-visible spacing `காதுகொடுத்துக்` → `காது கொடுத்துக்`.
+
+Scans **174, 177, 178, 179, 181, 182 and 183** required no new lexical correction. Scan **177 / printed 160** is full-page illustration only; the vignette continues cleanly from scan 176 to scan 178.
+
+Overall Pass 2B coverage is now **72/111**, scans **112–183 / printed 95–166**. Remaining Pass 2B: **39 scans**. Full details are durable in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
 
 ## Exact current activity
 
-Continue **Part 002 Pass 2B — independent lexical-fidelity re-read** with overall scans **174–183 / printed pages 157–166**.
+Continue **Part 002 Pass 2B — independent lexical-fidelity re-read** with overall scans **184–194 / printed pages 167–177**.
 
 Pass 2B is an independent source re-read, not a mechanical confirmation of Pass 2A. Re-render/read each controlling scan directly and compare every source-visible word, punctuation mark, paragraph/quotation boundary, Kural lineation and printed `அதிகாரம்` / பாடல் metadata. Correct only newly source-supported discrepancies and append the result durably to `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
 
