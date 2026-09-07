@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Continuation and close of the king/minister/two-spies vignette begun on scan 179; closes with Chapter 63 / Kural 621 and Chapter 59 / Kural 588"
+visual_notes: "Continuation and close of the king/minister/two-spies vignette begun on scan 179; two distinct highlighted Kural blocks for 621 and 588, with Chapter 63 and Chapter 59 metadata; recurring side banner and printed page 163"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -28,8 +28,8 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 “அரசே! அமைச்சரின் துணைவியார் அமைச்சரைப் பார்த்து; ‘உங்களுக்கு இப்படி ஒரு துன்பம் வந்ததே! மன்னரே உங்களைச் சந்தேகித்துச் சோதிக்கும் சூழ்நிலை ஏற்பட்டுவிட்டதே!’ என்று வருந்தினார். அதற்கு அவர் ஆறுதல் கூறும் பொருட்டு,
 
-“இடுக்கண் வருங்கால் நகுக அதனை
-அடுத்தூர்வது அஃதொப்பது இல்”
+> இடுக்கண் வருங்கால் நகுக அதனை  
+> அடுத்தூர்வது அஃதொப்பது இல்
 
 என்ற குறளைக் குறிப்பிட்டார்.”
 
@@ -37,8 +37,8 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 “ஒதியா! துன்பம் வந்தால் கலங்காமல் இருந்து அந்தத் துன்பத்தை எதிர்த்து வென்றிடவேண்டும் என்ற குறளின் கருத்தைக் கூறியிருக்கிறார் அமைச்சர். நீ, அவர்மீது கொண்டுள்ள வெறுப்பின் காரணமாகப் பாதிக்குறளைப் பயன்படுத்தி எனக்கும் அவருக்கும் பகைமூட்டப் பார்க்கிறாய்! உன்னைப்போலவும் சில ஒற்றர்கள் இருப்பார்கள் என்று அறிந்துதான் வள்ளுவர், ‘ஒரு ஒற்றன் தெரிந்துவந்து சொன்ன செய்தியை, மற்றொரு ஒற்றனைவிட்டு அறிந்துவரச் செய்து ஒப்பிட்டுப் பார்த்து உண்மை காணவேண்டும்’ என்று கூறியிருக்கிறார்.
 
-“ஒற்றொற்றித் தந்த பொருளையும் மற்றுமோர்
-ஒற்றினால் ஒற்றிக் கொளல்.”
+> ஒற்றொற்றித் தந்த பொருளையும் மற்றுமோர்  
+> ஒற்றினால் ஒற்றிக் கொளல்.
 
 இந்தக் குறள் தரும் அறிவுரையைக் கேட்டதனாலன்றோ உன் தவறு எனக்குப் புரிந்தது? ஓடு; என்னுமுன் நில்லாதே! இனியா! இப்போதே சென்று அமைச்சரை நான் அன்புடன் அழைத்ததாகக் கூறி அழைத்து வா!”
 
