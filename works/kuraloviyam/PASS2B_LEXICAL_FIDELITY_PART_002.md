@@ -172,12 +172,31 @@ Batch 7 corrections were required on scans **175, 176 and 180**. Scans **174, 17
 
 Batch 8 corrections were required on scans **184, 186, 189, 190, 192 and 194**. Scans **185, 187, 188, 191 and 193** required no new lexical correction.
 
+## Batch 9 — overall scans 195–204 / printed pages 178–187
+
+**Status: COMPLETE — 10 / 10 scans independently re-read against freshly rendered source pages for Pass 2B.**
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 195 | 178 | independent word-level re-read complete across the illustrated returning-warrior/maiden opening, quoted Kural material and continuation into scan 196; no new correction required |
+| 196 | 179 | independently confirmed the returning-warrior/maiden conclusion, quoted Kurals 1087 and 1082, lineation and Chapter 109 / பாடல்கள் 1088, 1087, 1082 metadata; no new correction required |
+| 197 | 180 | independent word-level re-read complete across the illustrated praise/panegyric opening and star-led praise lines; continuation into scan 198 confirmed; no new correction required |
+| 198 | 181 | independently confirmed the praise/panegyric continuation, dialogue, appointment/revocation wording and continuation into scan 199; no new correction required |
+| 199 | 182 | independently confirmed the praise/reversal conclusion, dialogue, Kural 629, lineation and Chapter 63 / பாடல் metadata; no new correction required |
+| 200 | 183 | independent word-level re-read complete across the illustrated lovers/embrace opening and continuation into scan 201; no new correction required |
+| 201 | 184 | corrected source-visible historical form `இரண்டாயிரம் ஆண்டுக்கு முன்பே` → `இரண்டாயிரம் ஆண்டுகட்கு முன்பே`; remaining lovers/embrace conclusion, Kural 1108, lineation and Chapter 111 / பாடல் metadata independently confirmed |
+| 202 | 185 | independently confirmed the illustrated battlefield opening, all source-visible prose and direct narrative continuation across illustration-only scan 203 into scan 204; no new correction required |
+| 203 | 186 | full-page illustration only; independently confirmed no body prose and continuation of the battlefield/war-elephant vignette from scan 202 to scan 204; no lexical correction required |
+| 204 | 187 | independently confirmed the battlefield/war-elephant conclusion, Kural 774, lineation and Chapter 78 / பாடல் metadata; no new correction required |
+
+Batch 9 correction was required only on scan **201**. Scans **195, 196, 197, 198, 199, 200, 202, 203 and 204** required no new lexical correction.
+
 ## Coverage
 
-Pass 2B coverage: **83 / 111 scans**, overall scans **112–194 / printed 95–177**.
+Pass 2B coverage: **93 / 111 scans**, overall scans **112–204 / printed 95–187**.
 
-Remaining Pass 2B: **28 scans**.
+Remaining Pass 2B: **18 scans**.
 
-Exact next batch: **overall scans 195–204 / printed pages 178–187**.
+Exact next batch: **overall scans 205–214 / printed pages 188–197**.
 
 Do not promote Part 002 records to final `verified` during Pass 2B. Do not start Pass 3 until Pass 2B covers the whole Part, and do not begin Part 003 before Part 002 is fully closed.
