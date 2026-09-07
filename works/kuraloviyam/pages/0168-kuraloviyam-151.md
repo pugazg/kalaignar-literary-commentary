@@ -5,14 +5,18 @@ part_page: 57
 printed_page: "151"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large color illustration shows two women seated together in conversation; new Kலை/தோகை love-separation vignette begins and continues to scan 169"
+visual_notes: "Large colour illustration physically above the prose showing two women seated together in conversation; recurring vertical side banner and printed page 151; vignette continues to scan 169"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour illustration occupying the upper page: two women seated together in conversation, one gesturing toward the other.
 
 குங்கும நிறங்காட்டும் கொவ்வைச் செவ்வாய்! குத்துவிளக்குச் சுடர் காட்டும் ஒளிவிழிகள்! கோலத் திருநிலா முகம்; பளிங்குக் கல்லெடுத்து இயற்கையெனும் சிற்பி செதுக்கிய சிலை; மாதுளைகள் இரண்டு காய்த்துக் கிடக்கும் மார்பகம்; பால் உருக்கிச் செய்த பல்லவரிசை; பட்டுமேனி; கெட்டித் தங்கம்; கலைபெனும் பெயருக்குச் சொந்தக்காரி; களையிழந்து சோர்வுற்றுக் காணப்படுகிறாளே... ஏன் என்று தோகையெனும் அவள் தோழி அருகில் வந்தாள்.
 
