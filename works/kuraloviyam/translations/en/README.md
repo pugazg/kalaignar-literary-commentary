@@ -12,7 +12,7 @@ translation_type: "project_translation"
 
 ## Authority
 
-Normal translation/review work uses the audited Tamil page records under `../../pages/`. The original Tamil scan remains the ultimate source authority if a genuinely new provenance or fidelity problem is discovered, but a Tamil-closed Part is not routinely reopened.
+Normal translation/review work uses the audited Tamil page records under `../../pages/`. The original Tamil scan remains the ultimate source authority if a new provenance or fidelity problem is discovered, but a closed Tamil Part is not routinely reopened.
 
 Do not import standard Thirukkural wording, a published English Kural translation, another commentator, web text or memory.
 
@@ -36,7 +36,7 @@ English pages mirror the Tamil filenames exactly.
 
 Tamil verification status and English review status are separate.
 
-## Part 001 final state
+## Part 001 — CLOSED
 
 Part 001 Tamil / scans **1–111**: **ARCHIVAL-READY / CLOSED**.
 
@@ -56,37 +56,28 @@ Durable Part 001 controls:
 - `reviews/PART_001_ENGLISH_REVIEW.md`
 - `reviews/PART_001_ENGLISH_RELEASE_REPORT.md`
 
-## Part 002 Tamil readiness
+## Part 002 Tamil — ARCHIVAL-READY / CLOSED
 
-Part 002 / overall scans **112–222 / printed 95–205** is now **TAMIL ARCHIVAL-READY / CLOSED**.
+Part 002 covers overall scans **112–222 / printed 95–205**, 111 physical pages. The Tamil layer is closed at **111 textual verified + 111 visual verified**, with zero exceptions.
 
-- source intake / Pass 1 / Pass 2A / Pass 2B / Pass 3: complete **111/111**;
-- Part audit: **PASS**;
-- final status sync: **PASS / CLOSED**;
-- documentation sync: **COMPLETE**;
-- Tamil archival-ready checkpoint: **PASS / CLOSED**;
-- Tamil status: **111 verified / 0 partial / 0 needs-review**;
-- visual fidelity: **111 verified / 0 needs-review**.
+Durable declaration:
 
-Durable declaration: `../../PART_002_TAMIL_ARCHIVAL_READY.md`.
+`../../PART_002_TAMIL_ARCHIVAL_READY.md`
 
-## Part 002 English frontier
+## Part 002 English — ACTIVE
 
-Part 002 English has not started:
+First-pass drafting status: **11/111 complete**.
 
-- draft: **0/111**;
-- source-check: **0/111**;
-- glossary reconciliation: **0/111**;
-- editorial review: **0/111**;
-- Part review: not started;
-- release report: not started.
+Completed:
 
-Standard drafting cadence is **11 physical/page-aligned records per iteration**.
+- **Batch 1: scans 112–122 / printed 95–105 — 11 draft records.**
 
-### Exact next activity
+The batch preserves Tamil page alignment, visual-material placement, Kural blocks and cross-page continuations. Scan **122** remains a deliberate batch-end continuation into scan **123**.
 
-Draft **overall scans 112–122 / printed pages 95–105**, 11 English records, from the audited Tamil page files.
+## Current frontier
 
-Use `TRANSLATION_GUIDE.md`, `GLOSSARY.md` and `TRANSLATION_STATUS.md`. The original PDF is not a routine English drafting dependency; reopen source only if a genuinely new provenance/fidelity issue appears.
+Proceed with **Part 002 English first-pass draft Batch 2: scans 123–133 / printed 106–116**, 11 records.
 
-After Batch 1, the next draft batch is **123–133 / printed 106–116**.
+Use only the audited Tamil records as the normal working basis; do not import published/standard/web English Kural wording, and do not modify the closed Tamil layer.
+
+See `TRANSLATION_STATUS.md` for the authoritative detailed frontier.
