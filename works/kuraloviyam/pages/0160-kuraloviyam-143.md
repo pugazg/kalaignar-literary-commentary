@@ -5,14 +5,18 @@ part_page: 49
 printed_page: "143"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large color illustration shows an elephant seized by a crocodile; Gajendra-Moksha comparison vignette begins and continues to scan 161"
+visual_notes: "Large colour elephant illustration physically above the prose, showing the elephant with a fallen warrior at the front and a jackal attacking from behind; recurring vertical side banner, printed page 143 and continuation into scan 161"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour illustration above the prose showing an elephant with a fallen warrior at the front while a jackal attacks the elephant from behind.
 
 யானை ஒன்று, தண்ணீர் குடிப்பதற்காக ஆற்றிலே இறங்குகிறது. அப்போது அந்த யானையை முதலையொன்று பிடித்துக் கொள்கிறது. யானை உயிர் தப்ப முடியாமல் தவிக்கிறது; அலறுகிறது. கடைசியாக அந்த யானை, “நாராயணா! நாராயணா!” என்று கத்துகிறது; உடனே மகாவிஷ்ணுவான நாராயணன் தோன்றி, அந்த யானையை முதலையிடமிருந்து விடுவிக்கிறான். இதைத்தான் புராணிகள் ‘கஜேந்திர மோட்சம்’ என்று கதைப்பார்கள்.
 
