@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Continuation and close of the `அலர்`/gossip vignette begun on scan 205; closes with Chapter 115 / Kural 1148"
+visual_notes: "Text-only continuation and close of the `அலர்`/gossip vignette begun on scan 205; source-highlighted Kural 1148 is a distinct two-line block above Chapter 115 metadata"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -24,8 +24,8 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 அதற்கு அவள், “நெய்யை ஊற்றுவதால் நெருப்பை அவிக்க முடியாதல்லவா? இதைப் போலத்தான் ஊரார் ‘அலர்’ கூறுவதால் நான் அவர் மீது கொண்ட காதலை (காமம்)யும் அவிக்க முடியாது! நெய் ஊற்றுவதால் நெருப்பு அவியாமல் பெரிதாக எரிவது போல- ‘அலர்’ கூறுவதால் எனது காதல் தணியாமல் மேலும் வளரும் என்பதை அறிந்து கொள்வாயாக” என்று விளக்கமளிக்கிறாள். அதற்கான குறட்பா இதோ:-
 
-“நெய்யால் எரிநுதுப்பேம் என்றற்றால் கெளவையால்
-காமம் நுதுப்பேம் எனல்.”
+> நெய்யால் எரிநுதுப்பேம் என்றற்றால் கெளவையால்  
+> காமம் நுதுப்பேம் எனல்.
 
 அதிகாரம் - 115     -     அலர் அறிவுறுத்தல்;     பாடல் - 1148
 
