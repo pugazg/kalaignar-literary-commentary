@@ -54,7 +54,7 @@ Never fill uncertain Tamil from OCR, web text, another edition, standard Kural w
 - Pass 1 — COMPLETE, **111/111** scans 112–222;
 - Pass 2A — COMPLETE, **111/111**, scans **112–222 / printed 95–205**;
 - Pass 2B — COMPLETE, **111/111**, scans **112–222 / printed 95–205**;
-- Pass 3 — **ACTIVE, 41/111**, scans **112–152 / printed 95–135** complete;
+- Pass 3 — **ACTIVE, 52/111**, scans **112–163 / printed 95–146** complete;
 - Part audit — not started.
 
 All Part 002 page records intentionally remain `status: "needs-review"` / `visual_fidelity: "needs-review"`. Pass 3 progress does not authorize final `verified`; the whole Pass 3, Part audit and final status synchronization still must close.
@@ -146,11 +146,22 @@ Ten page records received source-supported structural-only corrections:
 
 Scan **143** required no page-record correction: its highlighted Kural 277 block, Chapter 28 metadata and lower Valluvar-monument motif were already represented meaningfully. **No Tamil lexical wording changed during Pass 3 Batch 4.**
 
-Pass 3 coverage: **41/111**, scans **112–152 / printed 95–135**. Remaining Pass 3: **70 scans**. Full details are durable in `PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md`.
+Batch 5 — scans **153–163 / printed 136–146** — **COMPLETE, 11/11** by fresh direct meaningful visual-text comparison.
+
+Seven page records received source-supported structural-only corrections:
+
+- scans **153, 154, 156, 158, 160 and 162**: restored physical illustration-before-prose order with `## Visual material` blocks and `body-illustrated` page typing;
+- scan **153** also restores the highlighted Kural 1246 block as a distinct block while retaining the printed lexical note `உணர்த்தும் = நீக்கும்`;
+- scan **155** restores the highlighted Kural 1326 block and separates the small centred Valluvar-monument illustration below its metadata;
+- scan **160** corrects the prior visual description: the source-visible illustration shows an elephant with a fallen warrior at the front and a jackal attacking from behind, not an elephant seized by a crocodile.
+
+Scans **157, 159, 161 and 163** required no page-record correction. Their prose/dialogue hierarchy, highlighted Kural blocks, printed metadata, recurring side banners, page numbers and continuations already match the source meaningfully. **No Tamil lexical wording changed during Pass 3 Batch 5.**
+
+Pass 3 coverage: **52/111**, scans **112–163 / printed 95–146**. Remaining Pass 3: **59 scans**. Full details are durable in `PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md`.
 
 ## Exact current activity
 
-Continue **Part 002 Pass 3 — meaningful visual-text verification**, Batch 5: **overall scans 153–163 / printed pages 136–146**.
+Continue **Part 002 Pass 3 — meaningful visual-text verification**, Batch 6: **overall scans 164–173 / printed pages 147–156**.
 
 Pass 3 must freshly render/read the controlling scans and verify:
 
