@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Text-only continuation and close of lovers/ஊடல் vignette; Chapter 133 / Kural 1326; scan 156 begins a new crowd/knife vignette"
+visual_notes: "Text-only continuation and close of the lovers/ஊடல் vignette; distinct highlighted Kural 1326 block, Chapter 133 metadata and small centred Valluvar-monument illustration below the metadata; recurring side banner and printed page 138"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -24,9 +24,13 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 இதோ அதற்குக் குறள்:
 
-“உணலினும் உண்டது அறல்இனிது காமம்
-புணர்தலின் ஊடல் இனிது.”
+> உணலினும் உண்டது அறல்இனிது காமம்  
+> புணர்தலின் ஊடல் இனிது.
 
 அதிகாரம் - 133 - ஊடலுவகை; பாடல் - 1326
+
+## Visual material
+
+Small printed Valluvar-monument illustration centred below the Kural metadata.
 
 <!-- மூல ஸ்கேன் பக்கம்: 155; பகுதி 002 உள்ளூர் பக்கம்: 44; அச்சுப் பக்கம்: 138; closes vignette; 155→156 is a clean source boundary -->
