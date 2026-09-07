@@ -21,9 +21,10 @@ Read completely before changing anything:
 9. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_002.md`
 10. `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md`
 11. `works/kuraloviyam/PART_002_AUDIT.md`
-12. `works/kuraloviyam/indexes/page-map.md`
-13. `works/kuraloviyam/metadata/source.md`
-14. `works/kuraloviyam/metadata/transcription-policy.md`
+12. `works/kuraloviyam/PART_002_FINAL_STATUS_SYNC.md`
+13. `works/kuraloviyam/indexes/page-map.md`
+14. `works/kuraloviyam/metadata/source.md`
+15. `works/kuraloviyam/metadata/transcription-policy.md`
 
 ## Part 001 — CLOSED
 
@@ -52,9 +53,17 @@ Recorded identity:
 - Pass 2B — **COMPLETE, 111/111**
 - Pass 3 — **COMPLETE, 111/111 scans 112–222 / printed 95–205**
 - Part audit — **PASS**
-- final metadata/status synchronization — **NEXT / not started**
+- final metadata/status synchronization — **PASS / CLOSED**
+- documentation synchronization — **COMPLETE**
+- Tamil archival-ready checkpoint — **NEXT / not yet declared**
 
-All Part 002 records still remain `status: "needs-review"` / `visual_fidelity: "needs-review"`; the Part audit deliberately made no status promotion.
+Final Part 002 page disposition after final status synchronization:
+
+- textual `status: "verified"` — **111/111**;
+- textual `partial` / source-limited — **0**;
+- textual `needs-review` — **0**;
+- `visual_fidelity: "verified"` — **111/111**;
+- visual `needs-review` — **0**.
 
 ## Part 002 audit closure
 
@@ -70,25 +79,39 @@ The audit confirms:
 - identified library stamps remain non-body material;
 - no blocked/source-limited/partial Tamil condition requires an audit HOLD.
 
-The audit made **no Tamil body-text change** and **no status change**.
+The audit made **no Tamil body-text change** and deliberately made **no status change**.
 
-## Exact next activity — Part 002 final metadata/status synchronization
+## Part 002 final metadata/status synchronization closure
 
-Synchronize final metadata across **all 111 Part 002 page records, scans 112–222 / printed 95–205**.
+Durable status record: `works/kuraloviyam/PART_002_FINAL_STATUS_SYNC.md`.
 
-Use the completed source intake, Pass 1, Pass 2A, Pass 2B, Pass 3 and Part-audit records as the evidence base. This is a metadata/status gate, not a fresh transcription pass.
+All 111 page records were promoted after the audit from `needs-review` to `verified` for both textual `status` and `visual_fidelity`.
+
+The metadata-only page-change audit compares:
+
+- base `6266ee60a27f2310d4a2e3e83779d0b987352eb8`;
+- page-status endpoint `90d1b43acb01b876a1b269605079f437d5f87b53`.
+
+It confirms exactly **111 changed Part 002 page files**, with **2 additions + 2 deletions per page**, and no Tamil body wording, page-type, visual-block, continuation-comment or non-body stamp-treatment change.
+
+The final status result has now been synchronized in README, HANDOVER, page-map and this prompt; the documentation synchronization gate is therefore closed.
+
+## Exact next activity — Part 002 Tamil archival-ready checkpoint
+
+Perform the dedicated **Part 002 Tamil archival-ready checkpoint**.
+
+This is a repository/control verification checkpoint, not a fresh transcription or source-reinspection pass.
 
 Requirements:
 
 1. fetch live `main` first and preserve newer durable state;
-2. determine the final textual and visual status distribution from the closed verification/audit evidence rather than assuming a result in advance;
-3. update each Part 002 page record's `status` and `visual_fidelity` consistently;
-4. **do not change Tamil body wording** during synchronization;
-5. preserve page types, visual-material blocks, non-body stamp notes and source-continuation comments established during Pass 3;
-6. create a durable `PART_002_FINAL_STATUS_SYNC.md` report recording counts, exceptions, evidence and the exact post-sync gate;
-7. audit the starting-head→final-head changed-file set;
-8. after the status result is known, synchronize README, HANDOVER, page map and this prompt;
-9. do not declare Part 002 Tamil archival-ready until final metadata/status synchronization and the required documentation synchronization close;
-10. do not begin Part 003 before Part 002 is fully closed.
+2. confirm the Part 002 source identity and complete physical range **112–222 / local 1–111 / printed 95–205**;
+3. confirm source intake, Pass 1, Pass 2A, Pass 2B, Pass 3, Part audit, final metadata/status sync and documentation sync are all closed;
+4. confirm final page distribution **111 textual verified / 0 partial / 0 needs-review** and **111 visual verified / 0 needs-review**;
+5. do **not** change Tamil body wording or page structure;
+6. create a durable Part 002 Tamil archival-ready checkpoint/declaration using the closed evidence chain;
+7. synchronize README, HANDOVER, page-map and this prompt to that declaration;
+8. move the next content frontier to the maintained **Part 002 English translation/review workflow**;
+9. do not begin Part 003 before the Part 002 maintained English workflow and final Part closure are complete.
 
-If the evidence exposes any genuine unresolved source limitation during synchronization, preserve it explicitly rather than forcing `verified`.
+Reopen the controlling PDF only if a genuinely new source/provenance problem is discovered. Do not manufacture a new source check merely for the archival-ready declaration.
