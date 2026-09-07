@@ -5,14 +5,18 @@ part_page: 98
 printed_page: "192"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large color illustration of a tearful young woman, with a silhouetted departing couple/figures above; new separation/tear-flood vignette begins and continues directly to scan 210"
+visual_notes: "Large color illustration dominated by a tearful young woman's face, with silhouetted departing figures above, is physically above the prose; new separation/tear-flood vignette begins and continues directly to scan 210"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour illustration dominated by a tearful young woman's face, with silhouetted departing figures above.
 
 வெள்ளம் கரைபுரண்டு ஓடுகிறது. அந்த வெள்ளத்தைக் கண்டதும் அவளது கண்களுக்கு ஓர் ஆறுதல். அவளையும் அறியாமல் அவைகள், வெள்ளத்தில் குதித்து நீந்திச் செல்கின்றன.
 
