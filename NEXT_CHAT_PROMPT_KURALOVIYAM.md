@@ -50,7 +50,8 @@ Tamil 1–111 archival-ready; English closed with **107 release-ready + 4 source
 - Pass 2B Batch 5 — **153–163 / 136–146 — COMPLETE, 11/11**
 - Pass 2B Batch 6 — **164–173 / 147–156 — COMPLETE, 10/10**
 - Pass 2B Batch 7 — **174–183 / 157–166 — COMPLETE, 10/10**
-- Pass 2B overall — **ACTIVE, 72/111**
+- Pass 2B Batch 8 — **184–194 / 167–177 — COMPLETE, 11/11**
+- Pass 2B overall — **ACTIVE, 83/111**
 
 Batch 1 corrections were required on scans **113, 114, 115 and 118**. Batch 2 found **no new lexical discrepancies**. Batch 3 corrections were required on scans **133, 134, 135, 138 and 141**. Batch 4 corrections were required on scans **144, 145, 146, 147 and 152**. Batch 5 corrections were required only on scans **157 and 160**.
 
@@ -70,13 +71,24 @@ Batch 7 found new source-supported corrections on scans **175, 176 and 180**:
 
 Scans **174, 177, 178, 179, 181, 182 and 183** required no new lexical correction. Scan **177 / printed 160** is full-page illustration only; continuity from scan 176 to scan 178 was independently confirmed.
 
-Overall Pass 2B coverage is **72/111**, scans **112–183 / printed 95–166**; **39 scans remain**. Durable details are in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
+Batch 8 found new source-supported corrections on scans **184, 186, 189, 190, 192 and 194**:
+
+- scan 184: `தூக்கிப் பெயரப்பட்டுத்` → `தூக்கிபெயரியப்பட்டுத்`; `படுத்திருந்தனர்.` → `படுத்திருந்தன.`;
+- scan 186: `ஈடுபடுகிறவர்கள்` → `ஈடுபடுகின்றவர்கள்`;
+- scan 189: `ஊசிப் போன்ற` → `ஊசி போன்ற`; `ஒரு திருடனாகவும்` → `ஒரு மிருகமாகவும்`; page-end `தன்னைத்` → `தன்னைக்`, preserving the 189→190 continuation `தன்னைக் காத்துக்கொள்ளவே`;
+- scan 190: restored source-visible `பாம்பினால் ஏற்பட்ட இருந்த துன்பம் அகன்றது!`;
+- scan 192: `மாலைகள்` → `மாவிலைகள்`;
+- scan 194: source punctuation spacing `ஒருநாள் - அதுவும்` → `ஒருநாள்- அதுவும்`.
+
+Scans **185, 187, 188, 191 and 193** required no new lexical correction.
+
+Overall Pass 2B coverage is **83/111**, scans **112–194 / printed 95–177**; **28 scans remain**. Durable details are in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
 
 All Part 002 records remain `needs-review` / `visual_fidelity: needs-review`; Pass 2B completion alone will not authorize final `verified` because Pass 3 and the Part audit still remain.
 
 ## Exact next activity
 
-Continue **Part 002 Pass 2B independent lexical-fidelity re-read** with **overall scans 184–194 / printed pages 167–177**.
+Continue **Part 002 Pass 2B independent lexical-fidelity re-read** with **overall scans 195–204 / printed pages 178–187**.
 
 Pass 2B must be independent of Pass 2A. Freshly render/read the controlling source scans and compare every visible printed word, punctuation mark, paragraph/quotation boundary, quoted Kural wording and lineation, and printed `அதிகாரம்` / பாடல் metadata. Do not simply re-approve the Pass 2A record from memory or from the existing Markdown.
 
