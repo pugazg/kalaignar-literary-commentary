@@ -55,12 +55,31 @@ Seven page records — scans **112, 114, 116, 117, 119, 120 and 121** — receiv
 
 Four page records — scans **124, 126, 128 and 130** — received source-supported **structural-only** corrections to restore the physical illustration-before-prose order visible in the controlling scans. Scans **122, 123, 125, 127, 129 and 131** required no page-record correction. **No Tamil lexical wording was changed during Batch 2.**
 
+## Batch 3 — overall scans 132–141 / printed pages 115–124
+
+**Status: COMPLETE — 10 / 10 scans directly compared with freshly rendered source pages for meaningful visual-text fidelity.**
+
+| Scan | Printed page | Pass 3 result |
+|---:|---:|---|
+| 132 | 115 | lovers' quarrel vignette opening confirmed: large colour illustration of a woman in the foreground and a man behind her is physically above the short prose opening, with recurring vertical side banner, printed page 115 and continuation into scan 133; page record structurally corrected so the visual-material block precedes the prose |
+| 133 | 116 | text-only lovers' quarrel conclusion confirmed: prose hierarchy, two distinct highlighted Kural blocks, Chapter 132 / பாடல்கள் 1313, 1320 metadata, recurring side banner and printed page 116 are source-faithful; no structural correction required |
+| 134 | 117 | court-music vignette opening confirmed: large ceremonial illustration of two men is physically above the prose, followed by distinct quoted-song blocks, recurring side banner, printed page 117 and continuation into scan 135; page record structurally corrected so the visual-material block precedes the prose |
+| 135 | 118 | text-only court-music conclusion confirmed: continuation of quoted-song blocks, prose/dialogue organization, final highlighted Kural 420 block, Chapter 42 metadata, recurring side banner and printed page 118 are source-faithful; no structural correction required |
+| 136 | 119 | princess/commander war vignette opening confirmed: large royal/warrior illustration with spear and weapon motifs is physically above the prose, with recurring side banner, printed page 119 and direct sentence continuation into scan 137; page record structurally corrected so the visual-material block precedes the prose |
+| 137 | 120 | text-only princess/commander conclusion confirmed: prose/dialogue hierarchy, distinct Kural 1224 block, Chapter 123 metadata, recurring side banner and printed page 120 are source-faithful; no structural correction required |
+| 138 | 121 | owl/crows timing vignette opening confirmed: large owl illustration dominates the upper page with two smaller crows at right, physically above the prose; recurring side banner, printed page 121 and direct continuation into scan 139 confirmed; page record structurally corrected so the visual-material block precedes the prose |
+| 139 | 122 | text-only owl/crows conclusion confirmed: dialogue/prose organization, distinct Kural 481 block, Chapter 49 metadata, recurring side banner and printed page 122 are source-faithful; no structural correction required |
+| 140 | 123 | sisters/child/absent-lover vignette opening confirmed: large domestic illustration is physically above the dialogue/prose, with older woman foreground, younger woman carrying stacked pots and another woman holding a child; recurring side banner, printed page 123 and continuation into scan 141 confirmed; page record structurally corrected so the visual-material block precedes the prose |
+| 141 | 124 | text-only vignette conclusion confirmed: dialogue/prose hierarchy, distinct Kural 1244 block, Chapter 125 metadata, recurring side banner and printed page 124 are source-faithful; no structural correction required |
+
+Five page records — scans **132, 134, 136, 138 and 140** — received source-supported **structural-only** corrections to restore the physical illustration-before-prose order visible in the controlling scans. Scans **133, 135, 137, 139 and 141** required no page-record correction. **No Tamil lexical wording was changed during Batch 3.**
+
 ## Coverage
 
-Pass 3 coverage: **20 / 111 scans**, overall scans **112–131 / printed 95–114**.
+Pass 3 coverage: **30 / 111 scans**, overall scans **112–141 / printed 95–124**.
 
-Remaining Pass 3: **91 scans**.
+Remaining Pass 3: **81 scans**.
 
-Exact next batch: **overall scans 132–141 / printed pages 115–124**.
+Exact next batch: **overall scans 142–152 / printed pages 125–135**.
 
 Do not begin the Part audit until Pass 3 covers the whole Part. Do not promote Part 002 records to final `verified` during Pass 3, and do not begin Part 003 before Part 002 is fully closed.
