@@ -52,7 +52,7 @@ Never fill uncertain Tamil from OCR, web text, another edition, standard Kural w
 - source intake — COMPLETE;
 - Pass 1 — COMPLETE, **111/111** scans 112–222;
 - Pass 2A — **COMPLETE, 111/111**, scans **112–222 / printed 95–205**;
-- Pass 2B — **ACTIVE, 41/111**, scans **112–152 / printed 95–135** complete;
+- Pass 2B — **ACTIVE, 62/111**, scans **112–173 / printed 95–156** complete;
 - Pass 3 — not started;
 - Part audit — not started.
 
@@ -97,11 +97,15 @@ Batch 3 — scans **132–141 / printed 115–124** — **COMPLETE, 10/10**. New
 
 Batch 4 — scans **142–152 / printed 125–135** — **COMPLETE, 11/11**. New source-supported corrections were required on scans **144, 145, 146, 147 and 152**; scans **142, 143, 148, 149, 150 and 151** required no new lexical correction. Key restorations include `படுத்தவளைப்போல`, `அஞ்சாமல் செல்லலாயாக!`, `வளைந்த தென்னையொன்றில்`, `வறுமையில் வாடும் மக்களுக்கு`, `கணைபட்ட வேங்கை`, `இரண்டாயிரம் ஆண்டுகட்கு`, and the two source-visible `மனத்தைப்` readings on scan 152.
 
-Overall Pass 2B coverage is now **41/111**, scans **112–152 / printed 95–135**. Remaining Pass 2B: **70 scans**. Full details are durable in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
+Batch 5 — scans **153–163 / printed 136–146** — **COMPLETE, 11/11**. New source-supported corrections were required only on scans **157 and 160**; scans **153, 154, 155, 156, 158, 159, 161, 162 and 163** required no new lexical correction. Restored readings: `நான் உதைத்தது தரையை அல்ல!` and `புராணிக் கற்பனையாளன்`.
+
+Batch 6 — scans **164–173 / printed 147–156** — **COMPLETE, 10/10**. New source-supported corrections were required on scans **164, 168 and 169**; scans **165, 166, 167, 170, 171, 172 and 173** required no new lexical correction. Key restorations: scan 164 `இந்தப் புவியிலுள்ள`, `என் கணிப்பு!` and the source's single continuous quoted paragraph; scan 168 `குங்கும நிறங்காட்டும்`; scan 169 source punctuation `ஆனால்.....ஆனால்.....`.
+
+Overall Pass 2B coverage is now **62/111**, scans **112–173 / printed 95–156**. Remaining Pass 2B: **49 scans**. Full details are durable in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
 
 ## Exact current activity
 
-Continue **Part 002 Pass 2B — independent lexical-fidelity re-read** with overall scans **153–163 / printed pages 136–146**.
+Continue **Part 002 Pass 2B — independent lexical-fidelity re-read** with overall scans **174–183 / printed pages 157–166**.
 
 Pass 2B is an independent source re-read, not a mechanical confirmation of Pass 2A. Re-render/read each controlling scan directly and compare every source-visible word, punctuation mark, paragraph/quotation boundary, Kural lineation and printed `அதிகாரம்` / பாடல் metadata. Correct only newly source-supported discrepancies and append the result durably to `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
 
