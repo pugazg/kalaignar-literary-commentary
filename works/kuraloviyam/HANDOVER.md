@@ -54,7 +54,7 @@ Never fill uncertain Tamil from OCR, web text, another edition, standard Kural w
 - Pass 1 — COMPLETE, **111/111** scans 112–222;
 - Pass 2A — COMPLETE, **111/111**, scans **112–222 / printed 95–205**;
 - Pass 2B — COMPLETE, **111/111**, scans **112–222 / printed 95–205**;
-- Pass 3 — **ACTIVE, 30/111**, scans **112–141 / printed 95–124** complete;
+- Pass 3 — **ACTIVE, 41/111**, scans **112–152 / printed 95–135** complete;
 - Part audit — not started.
 
 All Part 002 page records intentionally remain `status: "needs-review"` / `visual_fidelity: "needs-review"`. Pass 3 progress does not authorize final `verified`; the whole Pass 3, Part audit and final status synchronization still must close.
@@ -136,11 +136,21 @@ Five page records received source-supported structural-only corrections:
 
 Scans **133, 135, 137, 139 and 141** required no page-record correction. Their prose/dialogue organization, highlighted Kural blocks, printed chapter/song metadata, recurring side banners, page numbers and physical continuations already match the source meaningfully. **No Tamil lexical wording changed during Pass 3 Batch 3.**
 
-Pass 3 coverage: **30/111**, scans **112–141 / printed 95–124**. Remaining Pass 3: **81 scans**. Full details are durable in `PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md`.
+Batch 4 — scans **142–152 / printed 125–135** — **COMPLETE, 11/11** by fresh direct meaningful visual-text comparison.
+
+Ten page records received source-supported structural-only corrections:
+
+- scans **142, 144, 146, 148 and 150**: restored physical illustration-before-prose order with `## Visual material` blocks and `body-illustrated` page typing;
+- scans **145, 147, 149, 151 and 152**: restored source-highlighted Kural blocks as distinct block structures rather than inline quoted lines;
+- scan **149** additionally separates the small centred Valluvar-monument illustration below its metadata as visual material.
+
+Scan **143** required no page-record correction: its highlighted Kural 277 block, Chapter 28 metadata and lower Valluvar-monument motif were already represented meaningfully. **No Tamil lexical wording changed during Pass 3 Batch 4.**
+
+Pass 3 coverage: **41/111**, scans **112–152 / printed 95–135**. Remaining Pass 3: **70 scans**. Full details are durable in `PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md`.
 
 ## Exact current activity
 
-Continue **Part 002 Pass 3 — meaningful visual-text verification**, Batch 4: **overall scans 142–152 / printed pages 125–135**.
+Continue **Part 002 Pass 3 — meaningful visual-text verification**, Batch 5: **overall scans 153–163 / printed pages 136–146**.
 
 Pass 3 must freshly render/read the controlling scans and verify:
 
