@@ -152,12 +152,32 @@ Batch 6 corrections were required on scans **164, 168 and 169**. Scans **165, 16
 
 Batch 7 corrections were required on scans **175, 176 and 180**. Scans **174, 177, 178, 179, 181, 182 and 183** required no new lexical correction.
 
+## Batch 8 — overall scans 184–194 / printed pages 167–177
+
+**Status: COMPLETE — 11 / 11 scans independently re-read against freshly rendered source pages for Pass 2B.**
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 184 | 167 | corrected source-visible uncommon form/joining `தூக்கிப் பெயரப்பட்டுத்` → `தூக்கிபெயரியப்பட்டுத்`; corrected `படுத்திருந்தனர்.` → `படுத்திருந்தன.`; remaining flood/rescue opening and direct continuation into scan 185 independently confirmed |
+| 185 | 168 | independent word-level re-read complete across the flood/rescue continuation, dialogue, Kural 380 and direct continuation into scan 186; no new correction required |
+| 186 | 169 | corrected `ஈடுபடுகிறவர்கள்` → source-visible `ஈடுபடுகின்றவர்கள்`; remaining flood/rescue conclusion, Kural 620, lineation and Chapters 38 / 62 metadata independently confirmed |
+| 187 | 170 | independent word-level re-read complete across the illustrated separation/evening opening and continuation into scan 188; no new correction required |
+| 188 | 171 | independently confirmed the separation/evening conclusion, dialogue, Kural 1222, lineation and Chapter 123 / பாடல் metadata; no new correction required |
+| 189 | 172 | corrected `ஊசிப் போன்ற` → source-visible `ஊசி போன்ற`; corrected `ஒரு திருடனாகவும்` → `ஒரு மிருகமாகவும்`; corrected page-end `தன்னைத்` → `தன்னைக்`, preserving the direct continuation `தன்னைக் காத்துக்கொள்ளவே` into scan 190 |
+| 190 | 173 | restored source-visible uncommon wording `பாம்பினால் ஏற்பட்ட துன்பம் அகன்றது!` → `பாம்பினால் ஏற்பட்ட இருந்த துன்பம் அகன்றது!`; remaining snake/Muthuvelar conclusion, Kural 622, lineation and Chapter 63 / பாடல் metadata independently confirmed |
+| 191 | 174 | independent word-level re-read complete across the illustrated lovers/ஊடல் opening and continuation into scan 192; no new correction required |
+| 192 | 175 | corrected `மாலைகள்` → source-visible `மாவிலைகள்`; remaining lovers/ஊடல் conclusion, Kurals 1321 and 1323, lineation and Chapter 133 / பாடல்கள் metadata independently confirmed |
+| 193 | 176 | independent word-level re-read complete across the illustrated Kumanan/Saathanaar generosity opening and continuation into scan 194; no new correction required |
+| 194 | 177 | restored source punctuation spacing `ஒருநாள் - அதுவும்` → `ஒருநாள்- அதுவும்`; remaining Kumanan/Saathanaar conclusion, quoted poem, Kural 230, lineation and Chapter 23 / பாடல் metadata independently confirmed |
+
+Batch 8 corrections were required on scans **184, 186, 189, 190, 192 and 194**. Scans **185, 187, 188, 191 and 193** required no new lexical correction.
+
 ## Coverage
 
-Pass 2B coverage: **72 / 111 scans**, overall scans **112–183 / printed 95–166**.
+Pass 2B coverage: **83 / 111 scans**, overall scans **112–194 / printed 95–177**.
 
-Remaining Pass 2B: **39 scans**.
+Remaining Pass 2B: **28 scans**.
 
-Exact next batch: **overall scans 184–194 / printed pages 167–177**.
+Exact next batch: **overall scans 195–204 / printed pages 178–187**.
 
 Do not promote Part 002 records to final `verified` during Pass 2B. Do not start Pass 3 until Pass 2B covers the whole Part, and do not begin Part 003 before Part 002 is fully closed.
