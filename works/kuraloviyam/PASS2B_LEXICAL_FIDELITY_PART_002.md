@@ -133,12 +133,31 @@ Batch 5 corrections were required only on scans **157 and 160**. Scans **153, 15
 
 Batch 6 corrections were required on scans **164, 168 and 169**. Scans **165, 166, 167, 170, 171, 172 and 173** required no new lexical correction.
 
+## Batch 7 — overall scans 174–183 / printed pages 157–166
+
+**Status: COMPLETE — 10 / 10 scans independently re-read against freshly rendered source pages for Pass 2B.**
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 174 | 157 | independent word-level re-read complete across the illustrated battlefield/war-elephant opening and continuation into scan 175; no new correction required |
+| 175 | 158 | corrected source-visible `புலிபோல் பாய்கிறது.` → `புலிபோலப் பாய்கிறது.`; remaining war-elephant conclusion, Kural 597, lineation and Chapter 60 / பாடல் metadata independently confirmed |
+| 176 | 159 | corrected source-visible `ஓடியதாகத் தெரிந்து அவளுக்கு!` → `ஓடியதாகத் தெரிந்தது அவளுக்கு!`; remaining separation-night opening, quoted Kural 1168 wording/lineation and continuation through scan 177 independently confirmed |
+| 177 | 160 | full-page illustration only; independently confirmed that no body prose is printed and that the separation-night vignette continues from scan 176 to scan 178; no lexical correction required |
+| 178 | 161 | independently confirmed the separation-night conclusion, Kural 1169, lineation and Chapter 117 / பாடல்கள் 1168, 1169 metadata; no new correction required |
+| 179 | 162 | independent word-level re-read complete across the illustrated king/minister/two-spies opening and direct continuation into scan 180; no new correction required |
+| 180 | 163 | restored source-visible spacing `காதுகொடுத்துக்` → `காது கொடுத்துக்`; remaining two-spies conclusion, Kurals 621 and 588, lineation and Chapters 63 / 59 metadata independently confirmed |
+| 181 | 164 | independent word-level re-read complete across the illustrated moonlit-seaside lovers opening and continuation into scan 182; no new correction required |
+| 182 | 165 | independent word-level re-read complete across the moonlit-seaside lovers continuation and dialogue into scan 183; no new correction required |
+| 183 | 166 | independently confirmed the moonlit-seaside lovers conclusion, Kural 1316, lineation and Chapter 132 / பாடல் metadata; vignette closes cleanly; no new correction required |
+
+Batch 7 corrections were required on scans **175, 176 and 180**. Scans **174, 177, 178, 179, 181, 182 and 183** required no new lexical correction.
+
 ## Coverage
 
-Pass 2B coverage: **62 / 111 scans**, overall scans **112–173 / printed 95–156**.
+Pass 2B coverage: **72 / 111 scans**, overall scans **112–183 / printed 95–166**.
 
-Remaining Pass 2B: **49 scans**.
+Remaining Pass 2B: **39 scans**.
 
-Exact next batch: **overall scans 174–183 / printed pages 157–166**.
+Exact next batch: **overall scans 184–194 / printed pages 167–177**.
 
 Do not promote Part 002 records to final `verified` during Pass 2B. Do not start Pass 3 until Pass 2B covers the whole Part, and do not begin Part 003 before Part 002 is fully closed.
