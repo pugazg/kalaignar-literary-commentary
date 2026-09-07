@@ -5,14 +5,18 @@ part_page: 33
 printed_page: "127"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large color illustration shows a romantic couple beneath coconut/palm trees at night; new secret-meeting vignette begins; text continues directly into scan 145 / printed 128, which was inspected only as the P2-03 boundary witness"
+visual_notes: "Large colour illustration physically above the prose showing a romantic couple beneath coconut/palm trees at night; recurring vertical side banner and printed page 127; vignette continues directly into scan 145"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour illustration showing a romantic couple embracing beneath coconut/palm trees at night.
 
 அகன்ற நெற்றி.
 
@@ -26,4 +30,4 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 பின்னர், அவள் கால்கள் அந்தத் தென்னைத் தோப்பை நோக்கி நடக்கின்றன. அன்று மாலை, அவன் விழிகாட்டிய குறிப்பு, “அந்தத் தோப்பில் காத்திருப்பேன் - கண்மணியே வந்திடுக” என்ற மொழியைப் பேசியதாகவே அவள் தீர்மானித்துக் கொண்டிருந்தாள். மண் கலயங்களைத் தலையில் தூக்கிக் கொண்டு சந்தைக்குச் செல்லும் குயவனைப்போல், குலைகளைத் தாங்கிக் கொண்டு தென்னை மரங்கள் காட்சியளிக்கும் அந்தச் சோலையில், தன்னை மடியில் தாங்கிட அந்த மறவன்
 
-<!-- மூல ஸ்கேன் பக்கம்: 144; பகுதி 002 உள்ளூர் பக்கம்: 33; அச்சுப் பக்கம்: 127; sentence and vignette continue directly to scan 145 / printed 128; scan 145 inspected only as P2-03 boundary witness -->
+<!-- மூல ஸ்கேன் பக்கம்: 144; பகுதி 002 உள்ளூர் பக்கம்: 33; அச்சுப் பக்கம்: 127; sentence and vignette continue directly to scan 145 / printed 128 -->
