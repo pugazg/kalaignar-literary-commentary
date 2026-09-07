@@ -51,7 +51,8 @@ Tamil 1–111 archival-ready; English closed with **107 release-ready + 4 source
 - Pass 2B Batch 6 — **164–173 / 147–156 — COMPLETE, 10/10**
 - Pass 2B Batch 7 — **174–183 / 157–166 — COMPLETE, 10/10**
 - Pass 2B Batch 8 — **184–194 / 167–177 — COMPLETE, 11/11**
-- Pass 2B overall — **ACTIVE, 83/111**
+- Pass 2B Batch 9 — **195–204 / 178–187 — COMPLETE, 10/10**
+- Pass 2B overall — **ACTIVE, 93/111**
 
 Batch 1 corrections were required on scans **113, 114, 115 and 118**. Batch 2 found **no new lexical discrepancies**. Batch 3 corrections were required on scans **133, 134, 135, 138 and 141**. Batch 4 corrections were required on scans **144, 145, 146, 147 and 152**. Batch 5 corrections were required only on scans **157 and 160**.
 
@@ -82,13 +83,19 @@ Batch 8 found new source-supported corrections on scans **184, 186, 189, 190, 19
 
 Scans **185, 187, 188, 191 and 193** required no new lexical correction.
 
-Overall Pass 2B coverage is **83/111**, scans **112–194 / printed 95–177**; **28 scans remain**. Durable details are in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
+Batch 9 found one new source-supported correction on scan **201**:
+
+- scan 201: `இரண்டாயிரம் ஆண்டுக்கு முன்பே` → `இரண்டாயிரம் ஆண்டுகட்கு முன்பே`.
+
+Scans **195, 196, 197, 198, 199, 200, 202, 203 and 204** required no new lexical correction. Scan **203 / printed 186** is full-page illustration only; direct continuity from scan 202 to scan 204 was independently confirmed.
+
+Overall Pass 2B coverage is **93/111**, scans **112–204 / printed 95–187**; **18 scans remain**. Durable details are in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
 
 All Part 002 records remain `needs-review` / `visual_fidelity: needs-review`; Pass 2B completion alone will not authorize final `verified` because Pass 3 and the Part audit still remain.
 
 ## Exact next activity
 
-Continue **Part 002 Pass 2B independent lexical-fidelity re-read** with **overall scans 195–204 / printed pages 178–187**.
+Continue **Part 002 Pass 2B independent lexical-fidelity re-read** with **overall scans 205–214 / printed pages 188–197**.
 
 Pass 2B must be independent of Pass 2A. Freshly render/read the controlling source scans and compare every visible printed word, punctuation mark, paragraph/quotation boundary, quoted Kural wording and lineation, and printed `அதிகாரம்` / பாடல் metadata. Do not simply re-approve the Pass 2A record from memory or from the existing Markdown.
 
