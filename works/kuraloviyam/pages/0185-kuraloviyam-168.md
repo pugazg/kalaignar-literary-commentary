@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Continuation of the flood/rescue vignette begun on scan 184; Singan enters the flooded river to rescue a fawn; Chapter 38 / Kural 380 is introduced and the vignette continues to scan 186"
+visual_notes: "Text-only continuation of the flood/rescue vignette; source-highlighted Kural 380 is a distinct two-line block within the prose flow; vignette continues directly to scan 186"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -36,8 +36,8 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 நாட்டாண்மைக்காரர், தன் உதவியாளரிடம் சொன்னார்:
 
-“ஊழிற் பெருவலி யாவுள மற்றொன்று
-சூழினுந் தான்முந் துறும்”
+> ஊழிற் பெருவலி யாவுள மற்றொன்று  
+> சூழினுந் தான்முந் துறும்
 
 என்று வள்ளுவர் சொன்ன வாக்குப் பொய்யாகப் போகாது பார்! ஊழைவிட மிக்க வலிமையுள்ளது எதுவுமில்லை! அதை விலக்குவதற்காக மற்றொரு வழியைப் பின்பற்றினாலும் அங்கேயும் ஊழ்தான் முன்வந்து நிற்கும். எனவே, இப்போது
 
