@@ -5,14 +5,18 @@ part_page: 84
 printed_page: "178"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large color illustration of a returning warrior seeing a young woman in a grove; new returning-warrior/maiden vignette begins and continues to scan 196"
+visual_notes: "Large color illustration of a returning warrior approaching a young woman in a grove is physically above the prose; source-highlighted Kural 1088 is a distinct block near the foot; vignette continues to scan 196"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour illustration of a returning warrior approaching a young woman in a grove.
 
 போர்க்களத்தில் யானைகளை வேல் எறிந்து வீழ்த்தி, குதிரைப்படைகளைத் தன் கணைகளின் வலிமையால் துரத்தியடித்து, எதிரிகளின் தேர்க்கால்களை வாள் கொண்டு வெட்டிச் சாய்த்து, வெற்றி முழக்கமிட்டவாறு வீரனொருவன் வீடு திரும்புகிறான். அவனை வரவேற்று மாலை அணிவித்து, மார்பகம் அழுந்தத் தழுவி, விழுப்புண்களில் இதழ்களால் ஒத்தடம் கொடுக்க, அவன் இனிய மனைவியாட்டி வீட்டில் காத்திருக்கமாட்டாள். காரணம்; இன்னும் மணமாகாத இளம் வீரன் அவன். அவனைப் பெற்றெடுத்த வீரத்தாய், வழிமேல் விழி வைத்து வீட்டின் வாயிற்புறத் திண்ணையிலே காத்துக் கிடக்கிறாள்; வீரத்திருமகனை வாரியணைத்து வாழ்த்து மலர் தூவ!
 
@@ -20,8 +24,8 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 அவன் எதிரே நின்றது ஒரு பெண்தான்! அவளைக் கண்டவுடன் களம் பல கண்ட அந்தத் தீரன் திகைத்து நின்றுவிடுகிறான்.
 
-“ஒண்ணுதற் கோஓ உடைந்ததே ஞாட்பினுள்
-நண்ணாரும் உட்குமென் பீடு.”
+> ஒண்ணுதற் கோஓ உடைந்ததே ஞாட்பினுள்  
+> நண்ணாரும் உட்குமென் பீடு.
 
 என்ற குறள் அவன் நினைவுக்கு வருகிறது.
 
