@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Continuation and close of the praise/reversal vignette begun on scan 197; closes with Chapter 63 / Kural 629; scan 200 begins a new lovers vignette"
+visual_notes: "Text-only close of the praise/reversal vignette begun on scan 197; source-highlighted Kural 629 is a distinct two-line block above Chapter 63 metadata; scan 200 begins a new lovers vignette"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -30,8 +30,8 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 “நண்பரே! இதை ஏன் துன்பம் என்று கருதுகிறீர்? சற்று முன்பு இதே மனிதர் என்னைப் புகழ்ந்தார்; இப்போது இகழ்கிறார்; அவ்வளவுதானே! அவர் புகழும்போது இன்பமாக இருந்தால்தானே இகழும்போது துன்பமாக இருக்கும்! இன்பம் வந்த காலத்தில் அதை விரும்பிப் போற்றி பாராட்டாமல் இருந்தால், துன்பம் வந்த காலத்தில் அந்தத் துன்பத்தின் வேதனையை அடையத் தேவையில்லை. அதனால்தான் நண்பரே, வள்ளுவர் கூறுகிறார்:
 
-“இன்பத்துள் இன்பம் விழையாதான் துன்பத்துள்
-துன்பம் உறுதல் இலன்.”
+> இன்பத்துள் இன்பம் விழையாதான் துன்பத்துள்  
+> துன்பம் உறுதல் இலன்.
 
 என்பதாக! எனவே இன்பத்தைத் தாங்கிக் கொண்டால், துன்பத்தையும் தாங்கிக் கொள்ளலாம். இன்பத்தில் மயக்கமுற்று அலைந்தால், துன்பத்தைப் புறங்காண இயலாது!
 
