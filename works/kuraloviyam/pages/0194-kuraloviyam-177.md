@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Continuation and close of the Kumanan/Saathanaar generosity vignette begun on scan 193; closes with Chapter 23 / Kural 230"
+visual_notes: "Text-only close of the Kumanan/Saathanaar generosity vignette; source-highlighted Kural 230 is a distinct two-line block above Chapter 23 metadata"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -39,8 +39,8 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 சாவதைவிடத் துன்பமானது வேறொன்றுமில்லை என மொழிந்த வள்ளுவர், வறியவர்க்கு எதுவும் வழங்கிட முடியாத நிலை வந்துவிட்டபோது அந்தச் சாதலும் இனியதே என்ற அருங்கருத்தினைப் பொழிந்திடுகிறார். இந்தக் குறளுக்கேற்ற ஓவியமாகத்தான் குமண வள்ளலின் வாழ்க்கைக் காவியம் அமைந்திருக்கிறது.
 
-“சாதலின் இன்னாத தில்லை இனிததூஉம்
-ஈதல் இயையாக் கடை”
+> சாதலின் இன்னாத தில்லை இனிததூஉம்  
+> ஈதல் இயையாக் கடை
 
 அதிகாரம் - 23     -     ஈகை;     பாடல் - 230
 
