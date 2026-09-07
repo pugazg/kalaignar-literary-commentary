@@ -5,14 +5,18 @@ part_page: 51
 printed_page: "145"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large color illustration shows two men conversing while a third man walks away in the background; slander/friendship vignette begins and continues to scan 163"
+visual_notes: "Large colour illustration physically above the prose showing two men conversing in the foreground while a third man walks away in the background; recurring vertical side banner, printed page 145 and direct continuation into scan 163"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour illustration above the prose showing two men conversing in the foreground while a third man walks away in the background.
 
 “மலையா! நமது ஊர்க் கூனனும் குள்ளனும் எப்போது பார்த்தாலும் உன்னைப் பற்றியே இழித்துப் பேசிக் கொண்டிருக்கிறார்கள். நேற்றிரவு பக்கத்துச் சிற்றூரில் மணவிழா விருந்தொன்றுக்குப் போயிருந்தேன். அங்கே இந்தக் கூனனும் குள்ளனும் வந்திருந்தார்கள். விருந்துக்கிடையே உன்னைப் பற்றிய பேச்சு வந்தது. அந்த இருவரும் மாறிமாறி உன்னைத் தாக்கிப் பேசிக்கொண்டேயிருந்தார்கள்.”
 
