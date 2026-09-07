@@ -114,12 +114,31 @@ Batch 4 corrections were required on scans **144, 145, 146, 147 and 152**. Scans
 
 Batch 5 corrections were required only on scans **157 and 160**. Scans **153, 154, 155, 156, 158, 159, 161, 162 and 163** required no new lexical correction.
 
+## Batch 6 — overall scans 164–173 / printed pages 147–156
+
+**Status: COMPLETE — 10 / 10 scans independently re-read against freshly rendered source pages for Pass 2B.**
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 164 | 147 | corrected source-visible `இந்தப் புவிக்குள்ள` → `இந்தப் புவியிலுள்ள`; corrected `என் துணிபு!` → `என் கணிப்பு!`; restored the source's single continuous quoted paragraph instead of the prior false paragraph break after `வெற்றி பெறுவாள்.`; remaining one-sided-love opening independently confirmed |
+| 165 | 148 | independently confirmed the one-sided-love / காவடி conclusion, dialogue, Kural 1196, lineation and Chapter 120 / பாடல் metadata; no new correction required |
+| 166 | 149 | independent word-level re-read complete across the illustrated street-crowd / medical-valor opening and continuation into scan 167; no new correction required |
+| 167 | 150 | independently confirmed the medical/valor conclusion, dialogue, Kural 614, lineation and Chapter 62 / பாடல் metadata; no new correction required |
+| 168 | 151 | corrected source-visible `குங்குமம் நிறங்காட்டும்` → `குங்கும நிறங்காட்டும்`; remaining கலை/தோகை opening and continuation into scan 169 independently confirmed |
+| 169 | 152 | restored source punctuation `ஆனால்... ஆனால்....` → `ஆனால்.....ஆனால்.....`; remaining கலை/தோகை conclusion, Kural 1293, lineation and Chapter 130 / பாடல் metadata independently confirmed |
+| 170 | 153 | independent word-level re-read complete across the illustrated Socrates-prison opening and continuation into scan 171; no new correction required |
+| 171 | 154 | independently confirmed the Socrates conclusion, Kural 580, lineation and Chapter 58 / பாடல் metadata; no new correction required |
+| 172 | 155 | independent word-level re-read complete across the illustrated வேங்கை/ஏந்திழை opening and continuation into scan 173; no new correction required |
+| 173 | 156 | independently confirmed the வேங்கை/ஏந்திழை conclusion, Kural 1280, lineation and Chapter 128 / பாடல் metadata; no new correction required |
+
+Batch 6 corrections were required on scans **164, 168 and 169**. Scans **165, 166, 167, 170, 171, 172 and 173** required no new lexical correction.
+
 ## Coverage
 
-Pass 2B coverage: **52 / 111 scans**, overall scans **112–163 / printed 95–146**.
+Pass 2B coverage: **62 / 111 scans**, overall scans **112–173 / printed 95–156**.
 
-Remaining Pass 2B: **59 scans**.
+Remaining Pass 2B: **49 scans**.
 
-Exact next batch: **overall scans 164–173 / printed pages 147–156**.
+Exact next batch: **overall scans 174–183 / printed pages 157–166**.
 
 Do not promote Part 002 records to final `verified` during Pass 2B. Do not start Pass 3 until Pass 2B covers the whole Part, and do not begin Part 003 before Part 002 is fully closed.
