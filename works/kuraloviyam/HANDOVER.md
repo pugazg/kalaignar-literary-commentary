@@ -71,16 +71,14 @@ Final Tamil disposition:
 
 Durable declaration: `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`.
 
-The declaration preserves the closed source/structure evidence, including illustration-only continuations **176→177→178** and **202→203→204**, genuine **221→222** continuation, scan **222 / printed 205** as the supplied Part endpoint, and non-body stamp treatment on **117–118** and **217–218**.
-
 Part 002 Tamil is not to be routinely retranscribed or reverified during English work.
 
-## Part 002 English status
+## Part 002 English status — ACTIVE
 
 - translation type — **project-created English translation**;
 - official/publisher English source supplied — **no**;
 - normal authority — audited Tamil Part 002 records;
-- first-pass drafting — **NOT STARTED, 0/111**;
+- first-pass drafting — **11/111 COMPLETE so far / ACTIVE**;
 - source-check — **0/111**;
 - glossary reconciliation — **0/111**;
 - editorial review — **0/111**;
@@ -91,21 +89,34 @@ Permanent English cadence:
 
 **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
 
-## Exact current activity — Part 002 English draft Batch 1
+Completed first-pass batch:
 
-Proceed with the maintained English workflow for **overall scans 112–122 / printed 95–105**, 11 page-aligned records.
+- **Batch 1: scans 112–122 / printed 95–105 — 11/11 draft records.**
+
+Batch 1 preserved Tamil-English filename alignment, Kural block lineation, Chapter/Kural metadata, visual descriptions and cross-page continuations. No standard/published/web English Kural translation was imported and no Tamil page was changed.
+
+Important continuation state:
+
+- 112→113 love / lovers' quarrel;
+- 114→115 sculptor/painter;
+- 117→118 Valluvar/student/hunter/deer;
+- 119→120 husband/wife;
+- 121→122 merchant/rest-house, continuing further to scan 123.
+
+## Exact current activity — Part 002 English draft Batch 2
+
+Proceed with **overall scans 123–133 / printed 106–116**, 11 page-aligned records.
 
 Requirements:
 
 1. fetch live `main` and preserve newer durable work;
-2. read the English README, TRANSLATION_GUIDE, TRANSLATION_STATUS and relevant GLOSSARY conventions before drafting;
-3. use audited Tamil page records **0112–0122** as the normal translation basis;
+2. read the English README, TRANSLATION_GUIDE, TRANSLATION_STATUS and relevant GLOSSARY conventions;
+3. use audited Tamil page records **0123–0133** as the normal translation basis;
 4. mirror Tamil filenames in `translations/en/pages/`;
-5. set/retain `translation_type: "project_translation"` and the project's English draft status convention;
+5. set/retain `translation_type: "project_translation"` and `status: "draft"`;
 6. preserve Kural numbering, chapter relationships, page/visual structure and source-continuation relationships without importing a published/standard English Kural translation;
-7. do not reopen the Tamil source merely to make the English prose smoother;
-8. if a genuinely new source/provenance issue is discovered, stop the affected item and reopen only that source question explicitly;
-9. synchronize English translation status/frontier after the 11-record batch;
-10. next English draft batch after completion will be **123–133 / printed 106–116**, 11 records.
+7. do not reopen the Tamil source merely to make English prose smoother;
+8. synchronize English status/frontier after the 11-record batch;
+9. next draft batch after completion will be **134–144 / printed 117–127**, 11 records.
 
-Part 003 remains blocked until Part 002 English workflow and final Part closure are complete.
+Do not begin source-check until Part 002 first-pass drafting is complete. Part 003 remains blocked until Part 002 English workflow and final Part closure are complete.
