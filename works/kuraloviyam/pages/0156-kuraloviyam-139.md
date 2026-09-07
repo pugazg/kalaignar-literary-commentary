@@ -5,14 +5,18 @@ part_page: 45
 printed_page: "139"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large color illustration shows a man brandishing a knife amid a crowd, with a woman beside him; a new vignette begins and continues to scan 157"
+visual_notes: "Large colour illustration physically above the prose showing a knife-brandishing man beside a woman amid a crowd; recurring vertical side banner, printed page 139 and vignette continuation into scan 157"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour illustration above the prose showing a knife-brandishing man beside a woman, surrounded by raised hands in a crowd.
 
 ஒருவன் குப்புற விழ்ந்து மூக்கை உடைத்துக் கொண்டான். எல்லாரும் அவனைக் கேலி செய்தார்கள். கேலியைத் தாங்க முடியாமல் அவனொரு சூழ்ச்சி செய்தான். ஒருநாள் காலையில் வானத்தைப் பார்த்துக் கரம் கூப்பியவாறு, “ஆகா! கடவுளே!” என்று கசிந்துருகிக் கத்தினான்.
 
