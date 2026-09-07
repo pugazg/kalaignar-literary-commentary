@@ -51,7 +51,8 @@ Tamil 1–111 archival-ready; English closed with **107 release-ready + 4 source
 - Pass 3 Batch 4 — **142–152 / printed 125–135 — COMPLETE, 11/11**
 - Pass 3 Batch 5 — **153–163 / printed 136–146 — COMPLETE, 11/11**
 - Pass 3 Batch 6 — **164–173 / printed 147–156 — COMPLETE, 10/10**
-- Pass 3 overall — **ACTIVE, 62/111**
+- Pass 3 Batch 7 — **174–183 / printed 157–166 — COMPLETE, 10/10**
+- Pass 3 overall — **ACTIVE, 72/111**
 - Part audit — not started
 
 All Part 002 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`. Pass 3 progress does not authorize final `verified`; the complete Pass 3, Part audit and final status synchronization remain.
@@ -135,11 +136,23 @@ Six page records received source-supported structural-only corrections:
 
 Scans **165, 167, 169 and 173** required no page-record correction. Their prose/dialogue hierarchy, highlighted Kural blocks, printed chapter/song metadata, recurring side banners, printed page numbers and physical continuations already match the source meaningfully. **No Tamil lexical wording changed during Pass 3 Batch 6.**
 
-Pass 3 coverage is now **62/111**, scans **112–173 / printed 95–156**; **49 scans remain**.
+## Pass 3 Batch 7 closure
+
+Scans **174–183 / printed 157–166** were freshly rendered and directly checked for meaningful visual-text fidelity.
+
+Eight page records received source-supported structural-only corrections:
+
+- **174, 179, 181** — restored physical illustration-before-prose order using `## Visual material` blocks and `body-illustrated` page typing;
+- **175, 176, 178, 180, 183** — restored source-highlighted Kural blocks as distinct block structures;
+- **178** — additionally separates the small centred Valluvar-monument illustration below Chapter 117 / பாடல்கள் 1168, 1169 metadata.
+
+Scan **177** is a full-page illustration-only continuation and required no page-record correction. Scan **182** is a text-only continuation and also already matched the source meaningfully. **No Tamil lexical wording changed during Pass 3 Batch 7.**
+
+Pass 3 coverage is now **72/111**, scans **112–183 / printed 95–166**; **39 scans remain**.
 
 ## Exact next activity
 
-Continue **Part 002 Pass 3 meaningful visual-text verification — Batch 7: overall scans 174–183 / printed pages 157–166**.
+Continue **Part 002 Pass 3 meaningful visual-text verification — Batch 8: overall scans 184–194 / printed pages 167–177**.
 
 Freshly render the controlling source scans and directly verify each page for:
 
@@ -151,7 +164,7 @@ Freshly render the controlling source scans and directly verify each page for:
 - non-body handwriting, stamps or scanner marks;
 - physical continuation across scan boundaries.
 
-Fetch existing page records for scans **174–183** before writing. Page records should be changed only for directly source-supported structural corrections. Correct Tamil body text only if Pass 3 exposes a directly source-supported textual discrepancy; otherwise record the visual result in `PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md` without a mechanical page rewrite.
+Fetch existing page records for scans **184–194** before writing. Page records should be changed only for directly source-supported structural corrections. Correct Tamil body text only if Pass 3 exposes a directly source-supported textual discrepancy; otherwise record the visual result in `PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md` without a mechanical page rewrite.
 
 Keep all Part 002 records `status: "needs-review"` / `visual_fidelity: "needs-review"` until the later Part audit/final-status synchronization. Do not begin the Part audit until Pass 3 covers all 111 scans.
 
