@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Current archival state |
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **source intake COMPLETE; Pass 1 COMPLETE; Pass 2A COMPLETE; Pass 2B COMPLETE; Pass 3 COMPLETE 111/111; Part audit PASS; final metadata/status sync NEXT** |
+| 002 | 112–222 | **verification COMPLETE 111/111; Part audit PASS; final status sync PASS 111/111 verified; documentation sync COMPLETE; Tamil archival-ready checkpoint NEXT** |
 | 003 | 223–333 | not-started |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
@@ -52,6 +52,7 @@ Durable controls:
 - `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_002.md`
 - `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md`
 - `works/kuraloviyam/PART_002_AUDIT.md`
+- `works/kuraloviyam/PART_002_FINAL_STATUS_SYNC.md`
 - `works/kuraloviyam/indexes/page-map.md`
 
 ### Completed gates
@@ -61,7 +62,9 @@ Durable controls:
 - Pass 2A direct textual verification — **COMPLETE, 111/111**;
 - Pass 2B independent lexical-fidelity reread — **COMPLETE, 111/111**;
 - Pass 3 meaningful visual-text verification — **COMPLETE, 111/111**, overall scans **112–222 / printed 95–205**;
-- Part audit — **PASS**.
+- Part audit — **PASS**;
+- final metadata/status synchronization — **PASS / CLOSED**;
+- documentation synchronization — **COMPLETE**.
 
 Detailed scan-by-scan Pass 2A, Pass 2B and Pass 3 histories remain in their dedicated control logs and are authoritative for corrections made during those gates.
 
@@ -79,16 +82,37 @@ The audit confirms:
 - identified library stamps remain separated from body text, including scans **117–118** and **217–218**;
 - no carried blocked/source-limited/partial Tamil condition requires an audit HOLD.
 
-The audit made **no Tamil body-text changes** and **no page-status promotions**.
+The audit made **no Tamil body-text changes** and deliberately made **no page-status promotions**.
 
-### Status discipline
+### Final metadata/status synchronization — PASS
 
-All Part 002 records intentionally remain `status: "needs-review"` / `visual_fidelity: "needs-review"` after the audit. The audit authorizes the next gate, but final status promotion is performed only by the separate **final metadata/status synchronization**.
+`PART_002_FINAL_STATUS_SYNC.md` records the dedicated post-audit status gate.
+
+Final Part 002 status distribution:
+
+- textual `status: "verified"` — **111/111**;
+- textual `partial` / source-limited — **0**;
+- textual `needs-review` — **0**;
+- `visual_fidelity: "verified"` — **111/111**;
+- visual `needs-review` — **0**.
+
+The metadata-only comparison from audit checkpoint `6266ee60a27f2310d4a2e3e83779d0b987352eb8` to page-status endpoint `90d1b43acb01b876a1b269605079f437d5f87b53` contains exactly the **111 Part 002 page records**, each with **2 additions + 2 deletions** for the two final status fields. No Tamil body wording, page type, visual structure, source-continuation note or non-body stamp treatment changed during this gate.
+
+### Documentation synchronization — COMPLETE
+
+The Part 002 status result is now synchronized in:
+
+- this README;
+- `HANDOVER.md`;
+- `indexes/page-map.md`;
+- root `NEXT_CHAT_PROMPT_KURALOVIYAM.md`.
+
+This documentation synchronization does not itself reopen or modify the audited Tamil page layer.
 
 ## Current frontier
 
-**Next activity: Part 002 final metadata/status synchronization across all 111 records, scans 112–222 / printed 95–205.**
+**Next activity: Part 002 Tamil archival-ready checkpoint.**
 
-This gate must synchronize final textual and visual status metadata from the completed source intake, Pass 1, Pass 2A, Pass 2B, Pass 3 and Part-audit evidence without changing Tamil body wording.
+The checkpoint must confirm that source intake, Pass 1, Pass 2A, Pass 2B, Pass 3, Part audit, final metadata/status synchronization and documentation synchronization are all closed; verify the final **111 verified / 111 visual-verified / 0 exceptions** disposition; record the Tamil archival-ready declaration durably; and identify the maintained Part 002 English workflow as the subsequent content stage.
 
-Do not declare Part 002 Tamil archival-ready until final status synchronization and the subsequent documentation synchronization close. Do not start Part 003 before Part 002 is fully closed.
+Do not begin Part 003 before Part 002 completes its required Tamil and maintained English closure workflow.
