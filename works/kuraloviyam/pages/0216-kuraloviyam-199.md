@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Continuation and close of the warrior-departure/death vignette begun on scan 215; closes with Chapter 78 / Kural 780"
+visual_notes: "Text-only continuation and close of the warrior-departure/death vignette begun on scan 215; source-highlighted Kural 780 is a distinct two-line block above Chapter 78 metadata"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -30,8 +30,8 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 தலைவன், தன் சாவு கண்டு கண்ணீர் விடுவது, வீரனுக்கு அவ்வளவு பெருமையாக இருக்கிறது! தலைவனுக்குக் கண்ணீரை வரவழைத்த அந்த வீரச் சாவு பாராட்டுக்குரியது. அதற்கு இதோ குறள்:
 
-“புரந்தார்கண் நீர்மல்கச் சாகிற்பின் சாக்காடு
-இரந்துகோள் தக்கது உடைத்து.”
+> புரந்தார்கண் நீர்மல்கச் சாகிற்பின் சாக்காடு  
+> இரந்துகோள் தக்கது உடைத்து.
 
 அதிகாரம் - 78     -     படைச் செருக்கு;     பாடல் - 780
 
