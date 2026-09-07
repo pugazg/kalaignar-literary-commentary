@@ -5,14 +5,18 @@ part_page: 100
 printed_page: "194"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large color illustration of an armed warrior confronting two men in a wooded setting; new enemy-siege/treachery vignette begins at the clean 210→211 boundary and continues directly to scan 212"
+visual_notes: "Large color illustration of an armed warrior confronting two men in a wooded setting is physically above the prose; new enemy-siege/treachery vignette begins at the clean 210→211 boundary and continues directly to scan 212"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour illustration of an armed warrior confronting two men in a wooded setting.
 
 அலைகடலெனத் திரண்டு வந்த பகையரசின் படைகள், திடீரெனத் தென்னவனின் கோட்டையை முற்றுகையிட்டுத் தாக்கின. எதிர்பாராமல் ஏற்பட்ட அதிர்ச்சியினால், தென்னவனின் படைகள் திகைத்துப் போயின. மன்னவன் தென்னவனுக்குப் பெரும் வியப்பு. ஆற்றல் மிக்க ஒற்றர்களிருந்தும் அவர்களையுமறியாமல் பகைநாட்டான் தன் கோட்டையை முற்றுகையிட்டது எப்படி என்ற கேள்விக்கு அவனால் விடைகாண முடியவில்லை. எனினும், அந்தக் கேள்விக்கு விடை கிடைக்காமலே போய்விடவில்லை.
 
