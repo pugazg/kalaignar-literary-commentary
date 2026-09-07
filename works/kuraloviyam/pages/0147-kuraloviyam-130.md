@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Text-only continuation and close of physician/tiger vignette; Chapter 47 / Kural 469"
+visual_notes: "Text-only continuation and closure of physician/tiger vignette; distinct highlighted two-line Kural 469 block above Chapter 47 metadata, recurring vertical side banner and printed page 130"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -30,8 +30,8 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 அவரவர்களுடைய இயல்புகளை அறிந்து, அவரவர்க்குப் பொருந்துமாறு செய்யாவிட்டால், நன்மை செய்வதிலும் தவறு ஏற்பட்டுவிடும்.
 
-“நன்றாற்ற லுள்ளுந் தவறுண்டு அவரவர்
-பண்பறிந் தாற்றாக் கடை”
+> “நன்றாற்ற லுள்ளுந் தவறுண்டு அவரவர்  
+> பண்பறிந் தாற்றாக் கடை”
 
 அதிகாரம் - 47 - தெரிந்து செயல்வகை; பாடல் - 469
 
