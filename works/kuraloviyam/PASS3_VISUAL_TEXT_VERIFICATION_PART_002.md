@@ -191,12 +191,31 @@ All eleven page records — scans **184–194** — received source-supported **
 
 Eight page records — scans **195, 196, 197, 199, 200, 201, 202 and 204** — received source-supported **structural-only** corrections. Illustrated openings **195, 197, 200 and 202** now restore physical illustration-before-prose order; scans **195, 196, 199, 201 and 204** now preserve source-highlighted Kural blocks structurally, with scans **201 and 204** also separating their lower Valluvar visual devices. Scans **198 and 203** required no page-record correction. **No Tamil lexical wording was changed during Batch 9.**
 
+## Batch 10 — overall scans 205–214 / printed pages 188–197
+
+**Status: COMPLETE — 10 / 10 scans directly compared with freshly rendered source pages for meaningful visual-text fidelity.**
+
+| Scan | Printed page | Pass 3 result |
+|---:|---:|---|
+| 205 | 188 | `அலர்`/gossip vignette opening confirmed: large colour illustration of two women, one reclining and one standing, beneath a small vessel/flame motif is physically above the prose; recurring side banner, printed page 188 and direct continuation into scan 206 confirmed; page record structurally corrected so the visual-material block precedes the prose |
+| 206 | 189 | text-only `அலர்`/gossip conclusion confirmed: prose/dialogue hierarchy, source-highlighted Kural 1148 as a distinct two-line block, Chapter 115 metadata, recurring side banner and printed page 189 are source-faithful; page record structurally corrected to preserve the highlighted Kural block |
+| 207 | 190 | battlefield-command/courage vignette opening confirmed: large colour battlefield illustration of a commander with a spear piercing his torso is physically above the prose, with recurring side banner, printed page 190 and direct continuation into scan 208; page record structurally corrected so the visual-material block precedes the prose |
+| 208 | 191 | text-only battlefield-command/courage conclusion confirmed: prose/speech hierarchy, source-highlighted Kurals 776 and 775 as two distinct two-line blocks, Chapter 78 metadata, recurring side banner and printed page 191 are source-faithful; page record structurally corrected to preserve both Kural blocks distinctly |
+| 209 | 192 | separation/tear-flood vignette opening confirmed: large colour illustration of a tearful young woman with a silhouetted departing-couple/figures motif above is physically before the prose; recurring side banner, printed page 192 and direct continuation into scan 210 confirmed; page record structurally corrected so the visual-material block precedes the prose |
+| 210 | 193 | text-only separation/tear-flood conclusion confirmed: prose hierarchy, source-highlighted Kural 1170 as a distinct two-line block, Chapter 117 metadata, recurring side banner and printed page 193 are source-faithful; page record structurally corrected to preserve the highlighted Kural block; 210→211 is a clean source boundary |
+| 211 | 194 | enemy-siege/treachery vignette opening confirmed: large colour illustration of an armed warrior confronting two men in a wooded setting is physically above the prose, with recurring side banner, printed page 194 and direct continuation into scan 212; page record structurally corrected so the visual-material block precedes the prose |
+| 212 | 195 | text-only enemy-siege/treachery conclusion confirmed: prose/dialogue hierarchy, source-highlighted Kural 203 as a distinct two-line block, Chapter 21 metadata, recurring side banner and printed page 195 are source-faithful; page record structurally corrected to preserve the highlighted Kural block |
+| 213 | 196 | பூங்குழலி waiting/disguise vignette opening confirmed: large colour night illustration of பூங்குழலி waiting by a tree while a distant figure approaches through the grove is physically above the prose; recurring side banner, printed page 196 and direct continuation into scan 214 confirmed; page record structurally corrected so the visual-material block precedes the prose |
+| 214 | 197 | text-only பூங்குழலி waiting/disguise conclusion confirmed: prose/dialogue hierarchy, source-highlighted Kural 1297 as a distinct two-line block, Chapter 130 metadata, recurring side banner and printed page 197 are source-faithful; page record structurally corrected to preserve the highlighted Kural block |
+
+All ten page records — scans **205–214** — received source-supported **structural-only** corrections. Illustrated openings **205, 207, 209, 211 and 213** now restore physical illustration-before-prose order; scans **206, 208, 210, 212 and 214** now preserve source-highlighted Kural blocks structurally, with scan **208** preserving both Kurals 776 and 775 as distinct blocks. **No Tamil lexical wording was changed during Batch 10.**
+
 ## Coverage
 
-Pass 3 coverage: **93 / 111 scans**, overall scans **112–204 / printed 95–187**.
+Pass 3 coverage: **103 / 111 scans**, overall scans **112–214 / printed 95–197**.
 
-Remaining Pass 3: **18 scans**.
+Remaining Pass 3: **8 scans**.
 
-Exact next batch: **overall scans 205–214 / printed pages 188–197**.
+Exact next batch: **overall scans 215–222 / printed pages 198–205**.
 
 Do not begin the Part audit until Pass 3 covers the whole Part. Do not promote Part 002 records to final `verified` during Pass 3, and do not begin Part 003 before Part 002 is fully closed.
