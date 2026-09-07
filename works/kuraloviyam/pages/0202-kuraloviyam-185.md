@@ -5,14 +5,18 @@ part_page: 91
 printed_page: "185"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large color battlefield illustration with an elephant and a warrior amid fallen fighters; new battlefield/war-elephant vignette begins and continues through scans 203–204"
+visual_notes: "Large color battlefield illustration with an elephant and a warrior amid fallen fighters is physically above the prose; new battlefield/war-elephant vignette begins and continues through scans 203–204"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour battlefield illustration with an elephant and a warrior amid fallen fighters.
 
 தெற்குச் சீமை வீரத்தின் விளைநிலம். ஈட்டியின் பாய்ச்சல் கண்டு இமை கொட்டியவன் கோழை; இது தமிழர்களின் போர்க்குரல்.
 
