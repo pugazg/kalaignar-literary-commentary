@@ -5,14 +5,18 @@ part_page: 110
 printed_page: "204"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large color pastoral illustration of an ayar youth with staff watching a woman carrying a basket; new pastoral/ஆயர்குடி vignette begins and continues directly across the batch boundary to scan 222"
+visual_notes: "Large color pastoral illustration of a woman carrying a basket in the foreground while an ayar youth with a staff stands behind is physically above the prose; new pastoral/ஆயர்குடி vignette begins and continues directly to scan 222"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour pastoral illustration of a woman carrying a basket in the foreground while an ayar youth with a staff stands behind.
 
 பச்சைப் பட்டாடை உடுத்தி அழகு மிளிர விளங்கினாள் நிலமடந்தை! பசுக்களும், கன்றுகளும், காளைகளும் வயிறுபுடைக்கப் புல்லைத் தின்றும்கூட நிலமங்கையின் அழகுவளம் குறையவில்லை.
 
