@@ -133,12 +133,31 @@ Seven page records — scans **153, 154, 155, 156, 158, 160 and 162** — receiv
 
 Six page records — scans **164, 166, 168, 170, 171 and 172** — received source-supported **structural-only** corrections. The illustrated openings **164, 166, 168, 170 and 172** now restore illustration-before-prose order; scan **171** additionally separates the small centred Valluvar-monument illustration below its Kural/metadata. Scans **165, 167, 169 and 173** required no page-record correction. **No Tamil lexical wording was changed during Batch 6.**
 
+## Batch 7 — overall scans 174–183 / printed pages 157–166
+
+**Status: COMPLETE — 10 / 10 scans directly compared with freshly rendered source pages for meaningful visual-text fidelity.**
+
+| Scan | Printed page | Pass 3 result |
+|---:|---:|---|
+| 174 | 157 | battlefield/war-elephant vignette opening confirmed: large colour illustration of an arrow-covered war elephant amid wrecked chariots is physically above the prose, with recurring side banner, printed page 157 and direct continuation into scan 175; page record structurally corrected so the visual-material block precedes the prose |
+| 175 | 158 | text-only battlefield/war-elephant conclusion confirmed: prose hierarchy, distinct highlighted Kural 597 block, explanatory gloss, Chapter 60 metadata, recurring side banner and printed page 158 are source-faithful; page record structurally corrected to preserve the Kural as a distinct block |
+| 176 | 159 | love/separation-night vignette opening confirmed: text-only page with a distinct highlighted Kural 1168 block, recurring side banner and printed page 159; narrative continues through illustration-only scan 177 into scan 178; page record structurally corrected to preserve the Kural as a distinct block |
+| 177 | 160 | full-page illustration-only continuation confirmed: woman holding a glowing lamp leans toward a reclining man; no body prose; direct narrative continuity from scan 176 to scan 178 is source-faithful; existing illustration-only record already matches and required no correction |
+| 178 | 161 | love/separation-night conclusion confirmed: text-only prose, distinct highlighted Kural 1169 block, Chapter 117 / பாடல்கள் 1168, 1169 metadata, recurring side banner, printed page 161 and small centred Valluvar-monument illustration below the metadata; page record structurally corrected for Kural block and lower visual-material separation |
+| 179 | 162 | king/minister/two-spies vignette opening confirmed: large colour royal-court illustration of a pointing king with two attendants is physically above the prose, with recurring side banner, printed page 162 and direct sentence continuation into scan 180; page record structurally corrected so the visual-material block precedes the prose |
+| 180 | 163 | text-only king/minister/two-spies conclusion confirmed: prose/dialogue hierarchy, two distinct highlighted Kural blocks for 621 and 588, Chapter 63 and Chapter 59 metadata, recurring side banner and printed page 163 are source-faithful; page record structurally corrected to preserve both Kural blocks distinctly |
+| 181 | 164 | moonlit-seaside lovers vignette opening confirmed: large colour illustration of a couple embracing beside a boat under the moon is physically above the short prose opening, with recurring side banner, printed page 164 and direct continuation into scan 182; page record structurally corrected so the visual-material block precedes the prose |
+| 182 | 165 | text-only continuation of the moonlit-seaside lovers vignette confirmed: dialogue/prose organization, recurring side banner, printed page 165 and direct continuation into scan 183 already match the source meaningfully; no structural correction required |
+| 183 | 166 | text-only moonlit-seaside lovers conclusion confirmed: prose/dialogue hierarchy, distinct highlighted Kural 1316 block, Chapter 132 metadata, recurring side banner and printed page 166 are source-faithful; page record structurally corrected to preserve the Kural as a distinct block |
+
+Eight page records — scans **174, 175, 176, 178, 179, 180, 181 and 183** — received source-supported **structural-only** corrections. The illustrated openings **174, 179 and 181** now restore illustration-before-prose order; scans **175, 176, 178, 180 and 183** now preserve source-highlighted Kural blocks structurally, with scan **178** also separating the lower Valluvar-monument illustration. Scans **177 and 182** required no page-record correction. **No Tamil lexical wording was changed during Batch 7.**
+
 ## Coverage
 
-Pass 3 coverage: **62 / 111 scans**, overall scans **112–173 / printed 95–156**.
+Pass 3 coverage: **72 / 111 scans**, overall scans **112–183 / printed 95–166**.
 
-Remaining Pass 3: **49 scans**.
+Remaining Pass 3: **39 scans**.
 
-Exact next batch: **overall scans 174–183 / printed pages 157–166**.
+Exact next batch: **overall scans 184–194 / printed pages 167–177**.
 
 Do not begin the Part audit until Pass 3 covers the whole Part. Do not promote Part 002 records to final `verified` during Pass 3, and do not begin Part 003 before Part 002 is fully closed.
