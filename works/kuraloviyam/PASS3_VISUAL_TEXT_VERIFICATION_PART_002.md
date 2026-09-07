@@ -210,12 +210,29 @@ Eight page records — scans **195, 196, 197, 199, 200, 201, 202 and 204** — r
 
 All ten page records — scans **205–214** — received source-supported **structural-only** corrections. Illustrated openings **205, 207, 209, 211 and 213** now restore physical illustration-before-prose order; scans **206, 208, 210, 212 and 214** now preserve source-highlighted Kural blocks structurally, with scan **208** preserving both Kurals 776 and 775 as distinct blocks. **No Tamil lexical wording was changed during Batch 10.**
 
+## Batch 11 — overall scans 215–222 / printed pages 198–205
+
+**Status: COMPLETE — 8 / 8 scans directly compared with freshly rendered source pages for meaningful visual-text fidelity.**
+
+| Scan | Printed page | Pass 3 result |
+|---:|---:|---|
+| 215 | 198 | warrior-departure/death vignette opening confirmed: large colour battlefield illustration of a commander cradling a wounded or fallen warrior is physically above the prose; recurring side banner, printed page 198 and direct continuation into scan 216 confirmed; page record structurally corrected so the visual-material block precedes the prose |
+| 216 | 199 | text-only warrior-departure/death conclusion confirmed: prose/dialogue hierarchy, source-highlighted Kural 780 as a distinct two-line block, Chapter 78 metadata, recurring side banner and printed page 199 are source-faithful; page record structurally corrected to preserve the highlighted Kural block |
+| 217 | 200 | meal/salt/ஊடல் vignette opening confirmed: large colour domestic illustration of the husband eating while his wife sits nearby is physically above the prose; recurring side banner, printed page 200, partial blue circular library stamp in the lower margin as non-body material, and direct continuation into scan 218 confirmed; page record structurally corrected for illustration-before-prose order and stamp separation |
+| 218 | 201 | text-only meal/salt/ஊடல் conclusion confirmed: prose/dialogue hierarchy, source-highlighted Kural 1302 as a distinct two-line block, Chapter 131 metadata, recurring side banner, printed page 201 and blue circular library stamp in the lower margin; page record structurally corrected to preserve the highlighted Kural block while keeping the stamp non-body |
+| 219 | 202 | dying-veteran/friendship vignette opening confirmed: large colour illustration of an aged, tearful warrior reclining beneath a fire motif while another armed man looks away is physically above the prose; recurring side banner, printed page 202 and direct continuation into scan 220 confirmed; page record structurally corrected so the visual-material block precedes the prose |
+| 220 | 203 | text-only dying-veteran/friendship conclusion confirmed: prose/quotation hierarchy, source-highlighted Kural 799 as a distinct two-line block, Chapter 80 metadata, recurring side banner and printed page 203 are source-faithful; page record structurally corrected to preserve the highlighted Kural block |
+| 221 | 204 | pastoral/ஆயர்குடி vignette opening confirmed: large colour pastoral illustration of a woman carrying a basket in the foreground while an ayar youth with a staff stands behind is physically above the prose; recurring side banner, printed page 204 and genuine continuation into scan 222 confirmed; page record structurally corrected so the visual-material block precedes the prose |
+| 222 | 205 | text-only pastoral/ஆயர்குடி conclusion confirmed: prose hierarchy, source-highlighted Kural 1275 as a distinct two-line block, Chapter 128 metadata, recurring side banner and printed page 205 are source-faithful; page record structurally corrected to preserve the highlighted Kural block; this is the final physical scan of Part 002 |
+
+All eight page records — scans **215–222** — received source-supported **structural-only** corrections. Illustrated openings **215, 217, 219 and 221** now restore physical illustration-before-prose order; scans **216, 218, 220 and 222** now preserve source-highlighted Kural blocks structurally. Scans **217 and 218** also preserve the blue circular library stamp as non-body material. **No Tamil lexical wording was changed during Batch 11.**
+
 ## Coverage
 
-Pass 3 coverage: **103 / 111 scans**, overall scans **112–214 / printed 95–197**.
+Pass 3 coverage: **111 / 111 scans**, overall scans **112–222 / printed 95–205**.
 
-Remaining Pass 3: **8 scans**.
+Remaining Pass 3: **0 scans**.
 
-Exact next batch: **overall scans 215–222 / printed pages 198–205**.
+**Pass 3 is CLOSED.**
 
-Do not begin the Part audit until Pass 3 covers the whole Part. Do not promote Part 002 records to final `verified` during Pass 3, and do not begin Part 003 before Part 002 is fully closed.
+Exact next gate: **Part 002 audit**. Do not promote Part 002 records to final `verified` until the Part audit and final metadata/status synchronization close. Do not begin Part 003 before Part 002 is fully closed.
