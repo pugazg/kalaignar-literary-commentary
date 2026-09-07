@@ -74,12 +74,32 @@ Four page records — scans **124, 126, 128 and 130** — received source-suppor
 
 Five page records — scans **132, 134, 136, 138 and 140** — received source-supported **structural-only** corrections to restore the physical illustration-before-prose order visible in the controlling scans. Scans **133, 135, 137, 139 and 141** required no page-record correction. **No Tamil lexical wording was changed during Batch 3.**
 
+## Batch 4 — overall scans 142–152 / printed pages 125–135
+
+**Status: COMPLETE — 11 / 11 scans directly compared with freshly rendered source pages for meaningful visual-text fidelity.**
+
+| Scan | Printed page | Pass 3 result |
+|---:|---:|---|
+| 142 | 125 | medical-hypocrisy vignette opening confirmed: large eye-framed colour illustration is physically above the prose, recurring side banner and printed page 125 are source-visible, and the sentence continues directly into scan 143; page record structurally corrected so the visual-material block precedes the prose |
+| 143 | 126 | text-only medical-hypocrisy conclusion confirmed: prose/dialogue hierarchy, distinct highlighted Kural 277 block, Chapter 28 metadata, recurring side banner, printed page 126 and small centred Valluvar-monument motif below the metadata are already represented meaningfully; no structural correction required |
+| 144 | 127 | secret-meeting vignette opening confirmed: large lovers-under-palms illustration is physically above the prose, recurring side banner and printed page 127 are source-visible, and the sentence continues directly into scan 145; page record structurally corrected so the visual-material block precedes the prose |
+| 145 | 128 | text-only secret-meeting conclusion confirmed: prose/dialogue hierarchy, distinct highlighted two-line Kural 1146 block, Chapter 115 metadata, recurring side banner and printed page 128 are source-faithful; page record structurally corrected to preserve the Kural as a distinct block rather than inline quoted lines |
+| 146 | 129 | physician/tiger vignette opening confirmed: large forest illustration of the physician facing a tiger is physically above the prose, recurring side banner and printed page 129 are source-visible, and the narrative continues into scan 147; page record structurally corrected so the visual-material block precedes the prose |
+| 147 | 130 | text-only physician/tiger conclusion confirmed: prose hierarchy, distinct highlighted two-line Kural 469 block, Chapter 47 metadata, recurring side banner and printed page 130 are source-faithful; page record structurally corrected to preserve the Kural as a distinct block |
+| 148 | 131 | moon/separation vignette opening confirmed: large illustration of a woman looking toward the moon beneath giant eyes is physically above the prose, recurring side banner and printed page 131 are source-visible, and the sentence continues into scan 149; page record structurally corrected so the visual-material block precedes the prose |
+| 149 | 132 | text-only moon/separation conclusion confirmed: prose hierarchy, distinct highlighted Kural 1210 block, Chapter 121 metadata, recurring side banner, printed page 132 and small centred Valluvar-monument illustration below the metadata are source-faithful; page record structurally corrected for both the Kural block and lower visual-material separation |
+| 150 | 133 | தெளிந்தான்/நெளிந்தான் vignette opening confirmed: large multi-scene domestic illustration is physically above the short prose opening, recurring side banner and printed page 133 are source-visible, and the vignette continues into scan 151; page record structurally corrected so the visual-material block precedes the prose |
+| 151 | 134 | text-only continuation confirmed: prose/dialogue hierarchy, distinct highlighted Kural 142 block embedded within the dialogue/prose flow, recurring side banner and printed page 134 are source-faithful; page record structurally corrected to preserve the Kural as a distinct block before continuation into scan 152 |
+| 152 | 135 | text-only conclusion confirmed: prose/dialogue hierarchy, distinct highlighted Kural 145 block, Chapter 15 / பாடல்கள் 142, 145 metadata, recurring side banner and printed page 135 are source-faithful; page record structurally corrected to preserve the Kural as a distinct block |
+
+Ten page records — scans **142, 144, 145, 146, 147, 148, 149, 150, 151 and 152** — received source-supported **structural-only** corrections. The five illustrated openings **142, 144, 146, 148 and 150** now restore illustration-before-prose order; scans **145, 147, 149, 151 and 152** now preserve source-highlighted Kural blocks structurally, with scan **149** also separating its lower Valluvar-monument illustration. Scan **143** required no page-record correction. **No Tamil lexical wording was changed during Batch 4.**
+
 ## Coverage
 
-Pass 3 coverage: **30 / 111 scans**, overall scans **112–141 / printed 95–124**.
+Pass 3 coverage: **41 / 111 scans**, overall scans **112–152 / printed 95–135**.
 
-Remaining Pass 3: **81 scans**.
+Remaining Pass 3: **70 scans**.
 
-Exact next batch: **overall scans 142–152 / printed pages 125–135**.
+Exact next batch: **overall scans 153–163 / printed pages 136–146**.
 
 Do not begin the Part audit until Pass 3 covers the whole Part. Do not promote Part 002 records to final `verified` during Pass 3, and do not begin Part 003 before Part 002 is fully closed.
