@@ -7,7 +7,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
-| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **source intake complete; Pass 1 COMPLETE 111/111; Pass 2A COMPLETE 111/111; Pass 2B ACTIVE 41/111** |
+| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **source intake, Pass 1, Pass 2A, Pass 2B and Pass 3 COMPLETE 111/111; Part audit PASS; final metadata/status sync NEXT** |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
@@ -50,9 +50,9 @@ Final Part 001 status: **107/111 verified + 4 partial** (13, 14, 15, 19); visual
 - scan **112 / printed 95** begins a new illustrated love vignette;
 - **111→112 is a clean vignette boundary**.
 
-## Part 002 physical map — Pass 1 complete
+## Part 002 physical map — audited
 
-Pass 1 contains **111 page-aligned records**, scans **112–222 / printed 95–205**.
+Part 002 contains **111 page-aligned records**, scans **112–222 / printed 95–205**. The Part audit passed after Pass 1, Pass 2A, Pass 2B and Pass 3 each closed 111/111. Page-record status remains `needs-review` until the separate final metadata/status synchronization gate.
 
 | Overall scans | Printed pages | Source role / observed boundary | Current page-record state |
 |---:|---:|---|---|
@@ -112,7 +112,7 @@ Pass 1 contains **111 page-aligned records**, scans **112–222 / printed 95–2
 
 ## Additional physical notes
 
-- scan **118 / printed 101** carries a blue circular library stamp in the lower margin;
+- scans **117–118** carry lower-margin circular library-stamp material that is kept separate from body text;
 - **122→123** genuine continuation;
 - **133→134** clean;
 - **141→142** clean;
@@ -128,13 +128,14 @@ Pass 1 contains **111 page-aligned records**, scans **112–222 / printed 95–2
 - **204→205** clean; scan 205 begins the `அலர்` / gossip vignette;
 - **210→211** clean;
 - **214→215** clean; scan 215 begins the warrior-departure / battlefield-death vignette;
-- scan **218 / printed 201** carries a blue circular library stamp;
+- scans **217–218** carry blue circular library-stamp material kept separate from body text;
 - **221→222** genuine continuation;
 - scan **222 / printed 205** closes the pastoral/ஆயர்குடி vignette and is the final physical scan of Part 002.
 
 Durable Pass 2A record: `../PASS2_TEXTUAL_VERIFICATION_PART_002.md`.
 Durable Part 002 Pass 2B record: `../PASS2B_LEXICAL_FIDELITY_PART_002.md`.
-Pass 2B precedent: `../PASS2B_LEXICAL_FIDELITY_PART_001.md`.
+Durable Part 002 Pass 3 record: `../PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md`.
+Durable Part 002 audit: `../PART_002_AUDIT.md`.
 
 ## Verification gates
 
@@ -145,13 +146,15 @@ Part 002:
 - source intake — **COMPLETE**;
 - Pass 1 — **COMPLETE, 111/111**;
 - Pass 2A — **COMPLETE, 111/111**, scans **112–222 / printed 95–205**;
-- Pass 2B — **ACTIVE, 41/111**, scans **112–152 / printed 95–135** complete;
-- Pass 3 — not started.
+- Pass 2B — **COMPLETE, 111/111**, scans **112–222 / printed 95–205**;
+- Pass 3 — **COMPLETE, 111/111**, scans **112–222 / printed 95–205**;
+- Part audit — **PASS**;
+- final metadata/status synchronization — **NEXT**.
 
 ## Current frontier
 
 **Part 001: CLOSED.**
 
-**Part 002: ACTIVE — Pass 2A COMPLETE 111/111; Pass 2B ACTIVE 41/111.**
+**Part 002: ACTIVE — all verification passes complete; Part audit PASS; final metadata/status synchronization NEXT.**
 
-Exact next activity: **Part 002 Pass 2B independent lexical-fidelity re-read, scans 153–163 / printed 136–146**. Independently re-read every source-visible printed word against freshly rendered source pages, with special attention to `ர/ற`, `ன/ண`, `ல/ள/ழ`, vowel signs, compound letters, source-visible joining/spacing, old or uncommon forms, names, quotations, Kural text, punctuation, paragraph/quotation boundaries and printed `அதிகாரம்` / பாடல் metadata. Correct only source-supported discrepancies. Final `verified` remains unavailable until Pass 2B, Pass 3, the Part audit and final synchronization close. Do not begin Part 003.
+Exact next activity: **Part 002 final metadata/status synchronization across all 111 records, scans 112–222 / printed 95–205**. Update final textual/visual status metadata from the completed verification and audit evidence without changing Tamil body wording. If any genuine source limitation is discovered, preserve it explicitly rather than forcing `verified`. Do not begin Part 003 before Part 002 is fully closed.
