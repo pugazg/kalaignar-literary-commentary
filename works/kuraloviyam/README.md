@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Current archival state |
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **source intake complete; Pass 1 COMPLETE 111/111; Pass 2A COMPLETE 111/111; Pass 2B ACTIVE 103/111** |
+| 002 | 112–222 | **source intake complete; Pass 1 COMPLETE 111/111; Pass 2A COMPLETE 111/111; Pass 2B COMPLETE 111/111; Pass 3 not started** |
 | 003 | 223–333 | not-started |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
@@ -82,7 +82,7 @@ Batch 11 directly verified scans **215–222** and completed Pass 2A. Source-sup
 
 Full scan-by-scan Pass 2A correction history is maintained in `PASS2_TEXTUAL_VERIFICATION_PART_002.md`.
 
-### Pass 2B — ACTIVE
+### Pass 2B — COMPLETE
 
 Batch 1, overall scans **112–121 / printed 95–104**, is **COMPLETE, 10/10** by an independent fresh-source lexical reread.
 
@@ -106,16 +106,18 @@ Batch 9, overall scans **195–204 / printed 178–187**, is **COMPLETE, 10/10**
 
 Batch 10, overall scans **205–214 / printed 188–197**, is **COMPLETE, 10/10**. New Pass 2B corrections were required on scans **209, 211 and 212**. Restorations include source spacing `நீந்திச் சென்று கொண்டிருக்கிறோம்`; scan 211 punctuation `விடைகாண முடியவில்லை. எனினும்,` and source wording `தன் படைவரிசையில் இருந்து`; scan 212 `பலிக்காமற் போனதுகண்டு`, `சூதுமதி யால்`, and `புறந்தோடி வந்திருக்கிறான்`. Scans **205, 206, 207, 208, 210, 213 and 214** required no new lexical correction.
 
-Pass 2B coverage: **103 / 111 scans**, overall scans **112–214 / printed 95–197**. Remaining Pass 2B: **8 scans**.
+Batch 11, overall scans **215–222 / printed 198–205**, is **COMPLETE, 8/8**. New Pass 2B corrections were required on scans **216 and 221**: scan 216 restored `படைவரிசை` and `காட்சிதனைக்கண்டு`; scan 221 corrected `கூறான கொம்புகளைக்` → `கூரான கொம்புகளைக்`. Scans **215, 217, 218, 219, 220 and 222** required no new lexical correction. Scan **218** retains the lower-margin blue library stamp as non-body material; **221→222** is a genuine continuation; **222 / printed 205** is the final physical scan of Part 002.
+
+Pass 2B coverage: **111 / 111 scans**, overall scans **112–222 / printed 95–205**. Remaining Pass 2B: **0**. **Pass 2B is closed.**
 
 Full Pass 2B results are maintained in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
 
-Pass 2B is **not** final verification. All Part 002 records remain `needs-review` / `visual_fidelity: needs-review`. Final `verified` is unavailable until Pass 2B, Pass 3, the Part audit and final synchronization close.
+Pass 2B completion is **not** final verification. All Part 002 records remain `needs-review` / `visual_fidelity: needs-review`. Final `verified` remains unavailable until Pass 3, the Part audit and final synchronization close.
 
 ## Current frontier
 
-Exact next activity: **Part 002 Pass 2B independent lexical-fidelity re-read — overall scans 215–222 / printed pages 198–205**.
+Exact next activity: **Part 002 Pass 3 meaningful visual-text verification — Batch 1, overall scans 112–121 / printed pages 95–104**.
 
-Pass 2B must remain an independent source re-read rather than a mechanical confirmation of Pass 2A. Re-render/read the controlling scans directly and compare every source-visible word, punctuation mark, paragraph/quotation boundary, Kural lineation and printed `அதிகாரம்` / பாடல் metadata. Record and correct only newly source-supported discrepancies.
+Pass 3 must directly verify headings/hierarchy, quoted-Kural lineation and block placement, paragraph/quotation relationships, page furniture, illustration/text relationships, non-body stamps/marks and physical continuations against freshly rendered source scans. Textual corrections should be made only if the visual verification exposes a directly source-supported discrepancy; otherwise this stage primarily closes meaningful visual fidelity.
 
 Do not normalize source wording, do not substitute standard/published/web Kural text, and do not begin Part 003 before Part 002 is fully closed.
