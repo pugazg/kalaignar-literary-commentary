@@ -5,14 +5,18 @@ part_page: 61
 printed_page: "155"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large color illustration shows a young man and woman facing one another; new வேங்கை/ஏந்திழை vignette begins and continues to scan 173"
+visual_notes: "Large colour illustration physically above the prose showing a young man and woman facing one another indoors; recurring vertical side banner and printed page 155; vignette continues to scan 173"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour illustration occupying the upper page: a young man and woman facing one another indoors.
 
 காதல் ஒரு நிலவு - அது மாளிகையில் மட்டுமல்ல; மண் குடிசையிலும் இன்ப ஒளி பரப்பும். அதோ - ஆற்றோரத்தில் ஆலமரத்துக்கருகே வெண்ணிலவின் உதவியால் வெள்ளிக்கீற்று வேய்ந்ததுபோல் காட்சியளிக்கும் அந்தக் குடிலுக்குள்ளே, புனுகுப் பூனைபோல் அங்குமிங்கும் நடந்து கொண்டிருக்கிறானே அந்த ஆணழகன்; அவன் பெயர் என்ன தெரியுமா? வேங்கை! வேட்டை நடத்திப் புசிப்பவனல்ல! வேளாண்மைத்தொழில் புரிந்து, தானும் புசித்துப் பசித்தோர்க்கும் துணைநிற்கும் இளைஞன். ஏரின் பின்னால் நிற்கும் உலகமென ஏர்த்தொழிலுக்கு ஏற்றம் தரும் மரபில் வந்தவன். அவன், தன் இளம் மனைவியின் வரவு பார்த்துத்தான் காத்திருக்கிறான். ஆருயிர்த் தோழியருடன் அவள் ஆற்றில் குளித்துவிட்டு, ஆளன் காத்திருப்பானே யென்று அவசர அவசரமாய் ஈர உடையுடன் மனைநோக்கி வருகிறாள். இரவு உணவு அத்தானுக்கு அளிப்பதற்கு முன், குளித்தால்தான் அவளுக்குக் கலகலப்பு!
 
