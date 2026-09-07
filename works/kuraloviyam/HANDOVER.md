@@ -54,7 +54,7 @@ Never fill uncertain Tamil from OCR, web text, another edition, standard Kural w
 - Pass 1 — COMPLETE, **111/111** scans 112–222;
 - Pass 2A — COMPLETE, **111/111**, scans **112–222 / printed 95–205**;
 - Pass 2B — COMPLETE, **111/111**, scans **112–222 / printed 95–205**;
-- Pass 3 — **ACTIVE, 93/111**, scans **112–204 / printed 95–187** complete;
+- Pass 3 — **ACTIVE, 103/111**, scans **112–214 / printed 95–197** complete;
 - Part audit — not started.
 
 All Part 002 page records intentionally remain `status: "needs-review"` / `visual_fidelity: "needs-review"`. Pass 3 progress does not authorize final `verified`; the whole Pass 3, Part audit and final status synchronization still must close.
@@ -196,11 +196,21 @@ Eight page records received source-supported structural-only corrections:
 
 Scans **198 and 203** required no page-record correction; scan **203 / printed 186** remains a full-page illustration-only continuation between scans 202 and 204. **No Tamil lexical wording changed during Pass 3 Batch 9.**
 
-Pass 3 coverage: **93/111**, scans **112–204 / printed 95–187**. Remaining Pass 3: **18 scans**. Full details are durable in `PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md`.
+Batch 10 — scans **205–214 / printed 188–197** — **COMPLETE, 10/10** by fresh direct meaningful visual-text comparison.
+
+All ten page records received source-supported structural-only corrections:
+
+- scans **205, 207, 209, 211 and 213**: restored physical illustration-before-prose order with `## Visual material` blocks and `body-illustrated` page typing;
+- scans **206, 208, 210, 212 and 214**: restored source-highlighted Kural blocks as distinct block structures;
+- scan **208** preserves both Kurals **776 and 775** as separate highlighted blocks.
+
+**No Tamil lexical wording changed during Pass 3 Batch 10.**
+
+Pass 3 coverage: **103/111**, scans **112–214 / printed 95–197**. Remaining Pass 3: **8 scans**. Full details are durable in `PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md`.
 
 ## Exact current activity
 
-Continue **Part 002 Pass 3 — meaningful visual-text verification**, Batch 10: **overall scans 205–214 / printed pages 188–197**.
+Continue **Part 002 Pass 3 — meaningful visual-text verification**, final Batch 11: **overall scans 215–222 / printed pages 198–205**, **8 scans**.
 
 Pass 3 must freshly render/read the controlling scans and verify:
 
@@ -209,9 +219,9 @@ Pass 3 must freshly render/read the controlling scans and verify:
 - prose paragraph and quotation relationships;
 - page furniture such as running headers and printed page numbers;
 - illustration/text order and relationship;
-- non-body handwriting/stamps/marks;
-- physical continuation across page boundaries.
+- non-body handwriting/stamps/marks, especially the known blue circular library stamp on scan 218;
+- physical continuation across page boundaries, especially genuine **221→222** continuation and Part-ending scan 222.
 
 Page records are rewritten only when direct source comparison finds a structural mismatch. Textual corrections are allowed only when Pass 3 exposes a directly source-supported discrepancy. Otherwise record the no-change visual result in the Pass 3 control log. Keep all Part 002 page statuses `needs-review` until the later Part audit/final-status synchronization.
 
-Do not begin Part 003 before Part 002 is fully closed.
+After Batch 11 closes all **111/111** Pass 3 scans, the exact next gate is the **Part 002 audit**. Do not begin final metadata/status synchronization before that audit, and do not begin Part 003 before Part 002 is fully closed.
