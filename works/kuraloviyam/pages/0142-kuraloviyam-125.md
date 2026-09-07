@@ -5,14 +5,18 @@ part_page: 31
 printed_page: "125"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large color illustration shows a physician/merchant-like man framed within an eye-shaped motif with medicine-like objects; medical-hypocrisy vignette begins and continues to scan 143; printed page 125"
+visual_notes: "Large colour illustration physically above the prose: a turbaned man framed within an eye-shaped motif, with crossed rod/spear-like forms and a smaller two-person inset; recurring vertical side banner and printed page 125"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour illustration showing a turbaned man framed within an eye-shaped motif, with crossed rod/spear-like forms and a smaller two-person inset scene.
 
 கொம்பு விட்டுக் கொம்பு தாவும் குரங்கினைப்போல், கொள்கை விட்டுக் கொள்கை தாவும் மனிதர்கள் சிலரில், அந்த மருத்துவ சிகாமணியும் ஒருவர். உண்மையில் மருத்துவத்தில் அவர் சிகாமணி அல்ல. பெயர்தான் அவருக்குச் சிகாமணி. அந்தப் பெயர் மருத்துவத் தொழிலுடன் ஒட்டிக்கொண்டு ‘மருத்துவ சிகாமணி’யென அழைக்கப்பட்டார். மருந்து தயாரித்து விற்பனை செய்யும் வாணிபமும் அவருக்கு உண்டு. தான் தயாரிக்கும் மருந்துகளே உயர்ந்தவை; உன்னதமானவை; நேர்த்தியானவை என்பதைக் காட்டிக்கொள்ள, அவர் ஒரு மலிவான வியாபார தந்திரத்தைக் கையாண்டு வந்தார். அதாவது, தன்னைத்தவிர மற்றுமுள்ள மருத்துவ வணிகர்கள் அனைவருமே நேர்மையற்றவர்கள் - கலப்படம் செய்து மக்களின் உயிரோடு விளையாடுகிறவர்கள் என்று பிரச்சாரம் செய்து வந்தார்.
 
