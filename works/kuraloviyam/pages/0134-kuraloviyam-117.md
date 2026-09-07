@@ -5,14 +5,18 @@ part_page: 23
 printed_page: "117"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large color illustration above the text shows two men in court/ceremonial dress, one holding a chain or ornament; new vignette begins at the clean 133→134 boundary; printed page 117"
+visual_notes: "Large colour illustration physically above the prose showing two men in court/ceremonial dress, one holding a chain or ornament; recurring vertical side banner and printed page 117; new vignette begins at the clean 133→134 boundary"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour illustration showing two men in court/ceremonial dress, one holding a chain or ornament.
 
 கண்ணைக் கவரும் இசையரங்கம்! மண்ணையாளும் மன்னவனும் அவன் மன்றத்துப் பெருமக்களும் வீற்றிருக்கின்றனர். எண்ணையும் எழுத்தையும் தந்த தாய்மொழி, இசைக்கோர் இலக்கணத்தையும் வழங்கி, விண்ணை எட்டும் புகழைப் பெற்றிருப்பதை எடுத்தியம்பும் ஏற்றமிகு இசைக் கலைவாணர், அரங்கிலமர்ந்து அமுதமழை பொழிந்து கொண்டிருந்தார். அருவியின் ஆலோலம்! தென்றலின் தெம்பாங்கு! குயிலின் தாலாட்டு! சிற்றாறு பாடுகிற சிந்தோ? செந்தமிழ் மகளிர் வீசி ஆடுகிற மலர்ப்பந்தோ? வியப்பும் வினாக்குறியும் ஒன்றையொன்று முந்தும் வண்ணம் அமைந்தது அந்த இசை நிகழ்ச்சி. குரல் வளமோ குழல் வளம் போல! குழைவு, நெளிவு, ஏற்றம், இறக்கம் எல்லாமே முழுப் பொருத்தம்.
 
