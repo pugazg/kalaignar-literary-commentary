@@ -5,14 +5,18 @@ part_page: 68
 printed_page: "162"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large color illustration shows a king pointing while two attendants stand behind him; new king/minister/two-spies vignette begins and continues to scan 180"
+visual_notes: "Large colour royal-court illustration physically above the prose, showing a king pointing while two attendants stand behind him; recurring side banner and printed page 162; vignette continues to scan 180"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour royal-court illustration occupying the upper part of the page: a crowned king points outward while two attendants stand behind him.
 
 தன் அமைச்சரிடம் கனிந்த அன்பு காட்டி வரும் மாமன்னன் ஒருவன், ஒரு நாள் சற்றுக் கடுமையாகப் பேசி அவமதியப்படுத்தி விட்டான். அதற்குக் காரணமே அமைச்சரைப்பற்றி மன்னனிடம் ஒற்றன் தந்த தவறான தகவலேயாகும். அரசனுக்கு எதிராக அமைச்சர் சூழ்ச்சியில் ஈடுபடுகிறார் என்பதே, அந்த ஒற்றன் கண்டறிந்ததாகக் காவலனிடம் கூறப்பட்ட செய்தியாகும். நாடாளும் காவலனால் முதலில் நம்பத்தான் முடியவில்லை. அந்த ஒற்றனுக்கு அமைச்சரைப் பிடிக்காது என்பதும் அந்த வெறுப்பின் காரணமாக இப்படி ஒரு விபரீதப் பொய்யை அவன் விளைத்து அறுவடை செய்து வெற்றி கண்டுவிட்டான் என்பதும், மன்னனுக்குத் தெரியவில்லை. தன் சினம் கண்டு தலைகுனிந்தவாறு வெளியேறிய அமைச்சரின் நடவடிக்கைகளைத் தொடர்ந்து கவனித்திட வேண்டுமென்று மன்னன் கருதினான். ஒற்றனை மீண்டும் அழைத்து, அமைச்சரின் ஒவ்வொரு அசைவினையும் மிகக்கூர்மையாகக் கவனித்திடுமாறு ஆணை பிறப்பித்தான். அதே ஒற்றன்தான்! அரசனுக்கும், அமைச்சருக்கும் பிளவு உருவாக்கிடச் செயல்பட்ட அதே ஒற்றன்தான்! ஒற்றர்களும் மனிதர்கள்தானே! அவர்களிலும் சிலர் விருப்பு வெறுப்புக்கு ஆட்படுகிறவர்கள்தானே! அரசாணையை நிறைவேற்ற அந்த ஒற்றன் கிளம்பிவிட்டான். அவனை அனுப்பியபிறகு, அரசனுக்கு சிந்தனை வேகமாகச் சுழன்றது. அந்த ஒற்றன் கூறுவது உண்மைதானா என்று அறிந்திடவும் அவன் நேர்மையாகச் செயல்படுகிறானா என்று தெளிந்திடவும் அவனுக்கும் தெரியாமல் இன்னொரு ஒற்றனை அனுப்புவதே சாலச் சிறந்தது என்ற முடிவுக்கு வருகிறான். அவ்வாறே இன்னொரு ஒற்றனுக்குக் கட்டளையிடப்படுகிறது. முதல் ஒற்றன் பெயர் ஒதியன்! அடுத்து அனுப்பப்பட்டவன் பெயர் இனியன்!
 
