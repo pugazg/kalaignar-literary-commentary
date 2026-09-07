@@ -210,12 +210,29 @@ Batch 9 correction was required only on scan **201**. Scans **195, 196, 197, 198
 
 Batch 10 corrections were required on scans **209, 211 and 212**. Scans **205, 206, 207, 208, 210, 213 and 214** required no new lexical correction.
 
+## Batch 11 — overall scans 215–222 / printed pages 198–205
+
+**Status: COMPLETE — 8 / 8 scans independently re-read against freshly rendered source pages for Pass 2B.**
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 215 | 198 | independent word-level re-read complete across the illustrated warrior-departure/death opening and continuation into scan 216; no new correction required |
+| 216 | 199 | restored source-visible joining `படை வரிசை` → `படைவரிசை`; corrected `காட்சினைக்கண்டு` → source-visible `காட்சிதனைக்கண்டு`; remaining warrior-death conclusion, Kural 780, lineation and Chapter 78 / பாடல் metadata independently confirmed |
+| 217 | 200 | independent word-level re-read complete across the illustrated meal/salt/ஊடல் opening and continuation into scan 218; no new correction required |
+| 218 | 201 | independently confirmed the meal/salt/ஊடல் conclusion, Kural 1302, lineation, Chapter 131 / பாடல் metadata and the lower-margin blue library stamp as non-body material; no new correction required |
+| 219 | 202 | independent word-level re-read complete across the illustrated dying-veteran/friendship opening and continuation into scan 220; no new correction required |
+| 220 | 203 | independently confirmed the dying-veteran/friendship conclusion, Kural 799, lineation and Chapter 80 / பாடல் metadata; no new correction required |
+| 221 | 204 | corrected source-visible `கூறான கொம்புகளைக்` → `கூரான கொம்புகளைக்`; remaining pastoral/ஆயர்குடி opening and genuine continuation into scan 222 independently confirmed |
+| 222 | 205 | independently confirmed the pastoral/ஆயர்குடி conclusion, Kural 1275, lineation and Chapter 128 / பாடல் metadata; final physical scan of Part 002; no new correction required |
+
+Batch 11 corrections were required on scans **216 and 221**. Scans **215, 217, 218, 219, 220 and 222** required no new lexical correction.
+
 ## Coverage
 
-Pass 2B coverage: **103 / 111 scans**, overall scans **112–214 / printed 95–197**.
+Pass 2B coverage: **111 / 111 scans**, overall scans **112–222 / printed 95–205**.
 
-Remaining Pass 2B: **8 scans**.
+Remaining Pass 2B: **0 scans**. **Pass 2B is COMPLETE for Part 002.**
 
-Exact next batch: **overall scans 215–222 / printed pages 198–205**.
+Exact next stage: **Pass 3 meaningful visual-text verification**, beginning with **overall scans 112–121 / printed pages 95–104**. Pass 3 must verify headings, quoted-Kural lineation/block placement, paragraph and quotation relationships, page furniture, illustration/text relationships, non-body marks and physical continuations directly against freshly rendered source scans.
 
-Do not promote Part 002 records to final `verified` during Pass 2B. Do not start Pass 3 until Pass 2B covers the whole Part, and do not begin Part 003 before Part 002 is fully closed.
+Do not promote Part 002 records to final `verified` merely because Pass 2B is complete. Final textual/visual status synchronization remains blocked until Pass 3 and the Part audit close. Do not begin Part 003 before Part 002 is fully closed.
