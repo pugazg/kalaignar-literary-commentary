@@ -5,14 +5,18 @@ part_page: 55
 printed_page: "149"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large color illustration shows an older white-bearded man advising a younger man, with a bed/dream scene above; new medical/valor vignette begins and continues directly to scan 167"
+visual_notes: "Large colour illustration physically above the prose: an older white-bearded man advises a younger man in the foreground, with a sword-wielding figure and reclining man in the upper background; recurring side banner and printed page 149"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour illustration occupying the upper page: an older white-bearded man advising a younger man, with a sword-wielding figure and a reclining man depicted above them.
 
 தெருநடுவே சிறு கூட்டமே கூடிவிட்டது. தன்னைப் பெருவீரன் என்று பிறர் புகழ வேண்டும் என்பதற்காக, வலிமையே இல்லாத இளைஞன் ஒருவன், வாளை எடுத்து அப்படியும் இப்படியுமாக ஆட்டியவண்ணம் இருந்தான். அவன் செய்கை, எல்லாருக்கும் சிரிப்பை மூட்டுவதாகவே இருந்தது. கூட்டத்தில் இருந்த முதியவர் ஒருவர்:
 
