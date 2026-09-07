@@ -94,12 +94,32 @@ Batch 3 corrections were required on scans **133, 134, 135, 138 and 141**. Scans
 
 Batch 4 corrections were required on scans **144, 145, 146, 147 and 152**. Scans **142, 143, 148, 149, 150 and 151** required no new lexical correction.
 
+## Batch 5 — overall scans 153–163 / printed pages 136–146
+
+**Status: COMPLETE — 11 / 11 scans independently re-read against freshly rendered source pages for Pass 2B.**
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 153 | 136 | independently confirmed the self-contained woman/addressing-heart vignette, Kural 1246, Chapter 125 / பாடல் metadata and printed lexical note `உணர்த்தும் = நீக்கும்`; no new correction required |
+| 154 | 137 | independent word-level re-read complete across the illustrated lovers/ஊடல் opening and continuation into scan 155; no new correction required |
+| 155 | 138 | independently confirmed the lovers/ஊடல் conclusion, `நட்டுவாங்கத்துடனும்`, `சுகத்தைவிட`, Kural 1326, lineation and Chapter 133 / பாடல் metadata; no new correction required |
+| 156 | 139 | independent word-level re-read complete across the crowd/nose-story opening and continuation into scan 157; no new correction required |
+| 157 | 140 | corrected source-visible `நான் உதைத்து தரையை அல்ல!` → `நான் உதைத்தது தரையை அல்ல!`; remaining crowd/critical-inquiry conclusion, Kural 423, lineation and Chapter 43 / பாடல் metadata independently confirmed |
+| 158 | 141 | independent word-level re-read complete across the illustrated மாவெண்கோ/மாங்கனி foreign-trade/separation opening and continuation into scan 159; no new correction required |
+| 159 | 142 | independently confirmed the மாவெண்கோ/மாங்கனி conclusion, Kural 1151, lineation and Chapter 116 / பாடல் metadata; no new correction required |
+| 160 | 143 | corrected source-visible `புராணக் கற்பனையாளன்` → `புராணிக் கற்பனையாளன்`; remaining Gajendra-Moksha comparison prose and continuation into scan 161 independently confirmed |
+| 161 | 144 | independently confirmed the elephant/terrain conclusion, uncommon printed wording, Kural 500, lineation and Chapter 50 / பாடல் metadata; no new correction required |
+| 162 | 145 | independent word-level re-read complete across the slander/friendship opening and continuation into scan 163; no new correction required |
+| 163 | 146 | independently confirmed the slander/friendship conclusion, Kural 188, lineation and Chapter 19 / பாடல் metadata; vignette closes cleanly; no new correction required |
+
+Batch 5 corrections were required only on scans **157 and 160**. Scans **153, 154, 155, 156, 158, 159, 161, 162 and 163** required no new lexical correction.
+
 ## Coverage
 
-Pass 2B coverage: **41 / 111 scans**, overall scans **112–152 / printed 95–135**.
+Pass 2B coverage: **52 / 111 scans**, overall scans **112–163 / printed 95–146**.
 
-Remaining Pass 2B: **70 scans**.
+Remaining Pass 2B: **59 scans**.
 
-Exact next batch: **overall scans 153–163 / printed pages 136–146**.
+Exact next batch: **overall scans 164–173 / printed pages 147–156**.
 
 Do not promote Part 002 records to final `verified` during Pass 2B. Do not start Pass 3 until Pass 2B covers the whole Part, and do not begin Part 003 before Part 002 is fully closed.
