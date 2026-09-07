@@ -94,12 +94,32 @@ Five page records — scans **132, 134, 136, 138 and 140** — received source-s
 
 Ten page records — scans **142, 144, 145, 146, 147, 148, 149, 150, 151 and 152** — received source-supported **structural-only** corrections. The five illustrated openings **142, 144, 146, 148 and 150** now restore illustration-before-prose order; scans **145, 147, 149, 151 and 152** now preserve source-highlighted Kural blocks structurally, with scan **149** also separating its lower Valluvar-monument illustration. Scan **143** required no page-record correction. **No Tamil lexical wording was changed during Batch 4.**
 
+## Batch 5 — overall scans 153–163 / printed pages 136–146
+
+**Status: COMPLETE — 11 / 11 scans directly compared with freshly rendered source pages for meaningful visual-text fidelity.**
+
+| Scan | Printed page | Pass 3 result |
+|---:|---:|---|
+| 153 | 136 | self-contained woman/heart vignette confirmed: large colour illustration is physically above the prose, followed by a distinct highlighted Kural 1246 block, Chapter 125 metadata and the printed lexical note `உணர்த்தும் = நீக்கும்`; page record structurally corrected for illustration-before-prose order and Kural block placement |
+| 154 | 137 | lovers/ஊடல் vignette opening confirmed: large multi-scene romantic illustration is physically above the short prose opening, with recurring side banner, printed page 137 and direct continuation into scan 155; page record structurally corrected so the visual-material block precedes the prose |
+| 155 | 138 | text-only lovers/ஊடல் conclusion confirmed: prose hierarchy, distinct highlighted Kural 1326 block, Chapter 133 metadata, recurring side banner, printed page 138 and small centred Valluvar-monument illustration below the metadata are source-faithful; page record structurally corrected for Kural block and lower visual-material separation |
+| 156 | 139 | crowd/knife vignette opening confirmed: large colour illustration of a knife-brandishing man beside a woman amid a crowd is physically above the prose, with recurring side banner, printed page 139 and continuation into scan 157; page record structurally corrected so the visual-material block precedes the prose |
+| 157 | 140 | text-only continuation/conclusion confirmed: prose organization, distinct highlighted Kural 423 block, Chapter 43 metadata, recurring side banner and printed page 140 are already represented meaningfully; no structural correction required |
+| 158 | 141 | மாவெண்கோ/மாங்கனி separation vignette opening confirmed: large indoor couple illustration is physically above the prose, with recurring side banner, printed page 141 and direct sentence continuation into scan 159; page record structurally corrected so the visual-material block precedes the prose |
+| 159 | 142 | text-only vignette conclusion confirmed: dialogue/prose hierarchy, distinct highlighted Kural 1151 block, Chapter 116 metadata, recurring side banner and printed page 142 are source-faithful; no structural correction required |
+| 160 | 143 | elephant/terrain vignette opening confirmed: large illustration is physically above the prose and depicts the elephant with a fallen warrior at the front and a jackal attacking from behind; recurring side banner, printed page 143 and continuation into scan 161 confirmed; page record structurally corrected and its earlier crocodile-oriented visual description replaced by the source-visible scene |
+| 161 | 144 | text-only elephant/terrain conclusion confirmed: prose hierarchy, distinct highlighted Kural 500 block, Chapter 50 metadata, recurring side banner and printed page 144 are already represented meaningfully; no structural correction required |
+| 162 | 145 | slander/friendship vignette opening confirmed: large colour illustration of two men conversing while a third man walks away is physically above the prose, with recurring side banner, printed page 145 and direct continuation into scan 163; page record structurally corrected so the visual-material block precedes the prose |
+| 163 | 146 | text-only vignette conclusion confirmed: dialogue/prose hierarchy, distinct highlighted Kural 188 block, Chapter 19 metadata, recurring side banner and printed page 146 are already represented meaningfully; no structural correction required |
+
+Seven page records — scans **153, 154, 155, 156, 158, 160 and 162** — received source-supported **structural-only** corrections. The illustrated pages **153, 154, 156, 158, 160 and 162** now restore illustration-before-prose order; scan **153** also preserves the highlighted Kural block, scan **155** preserves the highlighted Kural block and lower Valluvar-monument illustration, and scan **160** corrects the visual description to the actual warrior/jackal scene visible in the source. Scans **157, 159, 161 and 163** required no page-record correction. **No Tamil lexical wording was changed during Batch 5.**
+
 ## Coverage
 
-Pass 3 coverage: **41 / 111 scans**, overall scans **112–152 / printed 95–135**.
+Pass 3 coverage: **52 / 111 scans**, overall scans **112–163 / printed 95–146**.
 
-Remaining Pass 3: **70 scans**.
+Remaining Pass 3: **59 scans**.
 
-Exact next batch: **overall scans 153–163 / printed pages 136–146**.
+Exact next batch: **overall scans 164–173 / printed pages 147–156**.
 
 Do not begin the Part audit until Pass 3 covers the whole Part. Do not promote Part 002 records to final `verified` during Pass 3, and do not begin Part 003 before Part 002 is fully closed.
