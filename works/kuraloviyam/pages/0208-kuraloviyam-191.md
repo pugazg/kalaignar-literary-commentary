@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Continuation and close of the battlefield-command/courage vignette begun on scan 207; closes with Chapter 78 / Kurals 776 and 775"
+visual_notes: "Text-only continuation and close of the battlefield-command/courage vignette begun on scan 207; source-highlighted Kurals 776 and 775 are distinct two-line blocks above Chapter 78 metadata"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -27,8 +27,8 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 இதோ! வள்ளுவர் கூறுகிறார்; கேளுங்கள்:
 
-“விழுப்புண் படாதநாள் எல்லாம் வழுக்கினுள்
-வைக்கும்தன் நாளை எடுத்து.”
+> விழுப்புண் படாதநாள் எல்லாம் வழுக்கினுள்  
+> வைக்கும்தன் நாளை எடுத்து.
 
 போர்க்களம் சென்று அவன் உடலில் விழுப்புண் ஏற்காத நாட்கள் எல்லாம் பயன்படாத நாட்களேயாகும் என்பது வள்ளுவரின் வீர வரிகளன்றோ!
 
@@ -38,8 +38,8 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 உங்கள் விழிகள் பகைவர்களை நோக்கிக் கோபம் கொப்பளிக்கத் திறக்கட்டும். ஆனால் ஒன்று; மறந்து விடாதீர்கள்! பகைவரைச் சினந்து நோக்கிய கண்களுக்குரிய இலக்கணத்தை, வள்ளுவன் வகுத்திருக்கும் சிறப்பினை மறந்து விடாதீர்கள்! பகைவரை நோக்கிச் சீற்றமுடன் திறந்த விழிகள், பகைவர் எறியும் வேலைப் பார்த்திடும்போது மூடி இமைக்குமானால், அது வீரர்களுக்கு ஏற்பட்ட தோல்வியையே காட்டுவதாகும்.
 
-“விழித்தகண் வேல்கொண் டெறிய அழித்திமைப்பின்
-ஒட்டன்றோ வன்க ணவர்க்கு.”
+> விழித்தகண் வேல்கொண் டெறிய அழித்திமைப்பின்  
+> ஒட்டன்றோ வன்க ணவர்க்கு.
 
 வேலின் பாய்ச்சல் கண்டு விழி இமைப்பதும் கோழைத்தனம் என்று கூறுகின்றார் குறளார்!
 
