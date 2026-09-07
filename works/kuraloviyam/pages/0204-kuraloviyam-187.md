@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Continuation and close of the battlefield/war-elephant vignette begun on scan 202 and visually continued on scan 203; closes with Chapter 78 / Kural 774; small Valluvar memorial device below the metadata"
+visual_notes: "Text-only close of the battlefield/war-elephant vignette begun on scan 202 and visually continued on scan 203; source-highlighted Kural 774 is a distinct two-line block above Chapter 78 metadata; small centred Valluvar memorial/chariot device is below the metadata"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -26,9 +26,13 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 இதோ, வீரஞ்செறியும் குறள்:-
 
-“கைவேல் களிற்றொடு போக்கி வருபவன்
-மெய்வேல் பறியா நகும்!”
+> கைவேல் களிற்றொடு போக்கி வருபவன்  
+> மெய்வேல் பறியா நகும்!
 
 அதிகாரம் - 78     -     படைச்செருக்கு;     பாடல் - 774
+
+## Visual material
+
+Small centred Valluvar memorial/chariot device below the chapter/song metadata.
 
 <!-- மூல ஸ்கேன் பக்கம்: 204; பகுதி 002 உள்ளூர் பக்கம்: 93; அச்சுப் பக்கம்: 187; closes battlefield/war-elephant vignette; Chapter 78 / Kural 774 -->
