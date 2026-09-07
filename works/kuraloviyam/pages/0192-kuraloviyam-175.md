@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Continuation and close of the lovers/oodal vignette begun on scan 191; closes with Chapter 133 / Kurals 1321 and 1323"
+visual_notes: "Text-only close of the lovers/oodal vignette; source-highlighted Kurals 1321 and 1323 are two distinct two-line blocks above Chapter 133 metadata"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -38,11 +38,11 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 இந்தக் குறளோவியத்திற்கான இரண்டு குறட்பாக்கள் இதோ:
 
-“இல்லை தவறவர்க்கு ஆயினும் ஊடுதல்
-வல்லது அவரளிக்கு மாறு.”
+> இல்லை தவறவர்க்கு ஆயினும் ஊடுதல்  
+> வல்லது அவரளிக்கு மாறு.
 
-“புலத்தலின் புத்தேள்நாடு உண்டோ நிலத்தொடு
-நீரியைந் தன்னார் அகத்து.”
+> புலத்தலின் புத்தேள்நாடு உண்டோ நிலத்தொடு  
+> நீரியைந் தன்னார் அகத்து.
 
 அதிகாரம் - 133     -     ஊடலுவகை;     பாடல்கள் - 1321, 1323
 
