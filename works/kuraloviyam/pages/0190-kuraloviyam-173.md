@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Continuation and close of the snake/Muthuvelar autobiographical vignette begun on scan 189; closes with Chapter 63 / Kural 622"
+visual_notes: "Text-only close of the snake/Muthuvelar autobiographical vignette; source-highlighted Kural 622 is a distinct two-line block above Chapter 63 metadata"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -26,8 +26,8 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 பாம்பின் இயல்பைப் புரிந்துகொண்டது மட்டுமல்ல, அதை நினைவிலும் கொண்டதால்தானே பாம்பினால் ஏற்பட்ட இருந்த துன்பம் அகன்றது!
 
-“வெள்ளத் தனைய இடும்பை அறிவுடையான்
-உள்ளத்தின் உள்ளக் கெடும்”
+> வெள்ளத் தனைய இடும்பை அறிவுடையான்  
+> உள்ளத்தின் உள்ளக் கெடும்
 
 அதிகாரம் - 63     -     இடுக்கண் அழியாமை;     பாடல் - 622
 
