@@ -5,14 +5,18 @@ part_page: 25
 printed_page: "119"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large color illustration shows a royal couple/warrior pair with spears and weapons in the background; new princess/commander war vignette begins and continues to scan 137; printed page 119"
+visual_notes: "Large colour illustration physically above the prose showing a royal/warrior couple with spears and weapons in the background; recurring vertical side banner and printed page 119; princess/commander war vignette continues to scan 137"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour illustration showing a royal/warrior couple with spears and weapons in the background.
 
 அவள் இளவரசி; அழகின் உறைவிடம். அவளை மணந்துகொள்ளப் பக்கத்து நாட்டு மன்னன் விரும்பினான். அவளோ தன் நாட்டு தளபதியிடம் இதயத்தைப் பறி கொடுத்திருந்தாள். இளவரசியின் எண்ணத்தைத் தெரிந்து கொண்ட அவள் தந்தை, பக்கத்து நாட்டு மன்னனுக்கு உண்மையை விளக்கி மடல் விடுத்தான்.
 
