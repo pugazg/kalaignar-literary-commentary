@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Continuation and close of the dying-veteran/friendship vignette begun on scan 219; closes with Chapter 80 / Kural 799"
+visual_notes: "Text-only continuation and close of the dying-veteran/friendship vignette begun on scan 219; source-highlighted Kural 799 is a distinct two-line block above Chapter 80 metadata"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -30,8 +30,8 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 “கேடு வருகிற நேரத்தில் கைவிட்டு ஒதுங்குகிறவனின் நட்பு, சாகும்போது நினைத்தாலும் உள்ளத்தைச் சுடக்கூடிய வேதனையளிக்கக் கூடியதாகும்.”
 
-“கெடுங்காலைக் கைவிடுவார் கேண்மை அடுங்காலை
-உள்ளினும் உள்ளம் சுடும்.”
+> கெடுங்காலைக் கைவிடுவார் கேண்மை அடுங்காலை  
+> உள்ளினும் உள்ளம் சுடும்.
 
 அதிகாரம் - 80     -     நட்பாராய்தல்;     பாடல் - 799
 
