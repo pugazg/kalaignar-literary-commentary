@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Continuation and close of the enemy-siege/treachery vignette begun on scan 211; closes with Chapter 21 / Kural 203"
+visual_notes: "Text-only continuation and close of the enemy-siege/treachery vignette begun on scan 211; source-highlighted Kural 203 is a distinct two-line block above Chapter 21 metadata"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -28,8 +28,8 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 என்று விடையளித்துவிட்டுத் தென்னவன் அந்தக் குறளையும் பகையரசனுக்குப் பாடிக் காட்டினான். அந்தக் குறள் இதோ:
 
-“அறிவினுள் எல்லாம் தலையென்ப தீய
-செறுவார்க்கும் செய்யா விடல்.”
+> அறிவினுள் எல்லாம் தலையென்ப தீய  
+> செறுவார்க்கும் செய்யா விடல்.
 
 அதிகாரம் - 21     -     தீவினையச்சம்;     பாடல் - 203
 
