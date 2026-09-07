@@ -59,37 +59,112 @@ Never fill uncertain Tamil from OCR, web text, another edition, standard Kural w
 
 All Part 002 page records intentionally remain `status: "needs-review"` / `visual_fidelity: "needs-review"`. Pass 3 progress does not authorize final `verified`; the whole Pass 3, Part audit and final status synchronization still must close.
 
-## Pass 2A / Pass 2B closure
+## Pass 2A closure
 
-Pass 2A and Pass 2B are complete across all **111/111** Part 002 scans. Full correction history is durable in `PASS2_TEXTUAL_VERIFICATION_PART_002.md` and `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
+Pass 2A completed in 11 batches:
+
+- 112–121 / 95–104
+- 122–131 / 105–114
+- 132–141 / 115–124
+- 142–152 / 125–135
+- 153–163 / 136–146
+- 164–173 / 147–156
+- 174–183 / 157–166
+- 184–194 / 167–177
+- 195–204 / 178–187
+- 205–214 / 188–197
+- 215–222 / 198–205
+
+Full scan-by-scan correction history is durable in `PASS2_TEXTUAL_VERIFICATION_PART_002.md`.
+
+Notable final Pass 2A restorations include `தழையாகிச்`, `அக்கணமில்லை`, `நம் காளை சுழல்காற்றாய்ப்`, `என்னத்தான்`, `அதைச் சமைத்தேன்`, `காரிருள்`, `சாவுக்கு விடை கொடுத்தனுப்பி`, `எழுத்தாணியைக்`, `கொலு மண்டபத்தில்`, `பத்தாண்டுகட்கு`, `தலைமையேற்றபோது`, `இளமைக் காலந்தொட்டு`, `அவர் தான்மட்டும்`, and `மகிழ்ச்சியடைகிறான்`.
+
+Scan **218** carries a blue circular library stamp; **221→222** is a genuine continuation; scan **222 / printed 205** closes the pastoral / ஆயர்குடி vignette and is the final physical scan of Part 002.
+
+## Pass 2B — COMPLETE
+
+Pass 2B was an independent fresh-source lexical reread across all **111/111** Part 002 scans.
+
+Batch correction summary:
+
+- Batch 1, 112–121: corrections on **113, 114, 115, 118**;
+- Batch 2, 122–131: **no new corrections**;
+- Batch 3, 132–141: corrections on **133, 134, 135, 138, 141**;
+- Batch 4, 142–152: corrections on **144, 145, 146, 147, 152**;
+- Batch 5, 153–163: corrections on **157, 160**;
+- Batch 6, 164–173: corrections on **164, 168, 169**;
+- Batch 7, 174–183: corrections on **175, 176, 180**;
+- Batch 8, 184–194: corrections on **184, 186, 189, 190, 192, 194**;
+- Batch 9, 195–204: correction on **201**;
+- Batch 10, 205–214: corrections on **209, 211, 212**;
+- Batch 11, 215–222: corrections on **216, 221**.
+
+Final Batch 11 source-supported corrections:
+
+- scan **216 / printed 199**: `படை வரிசை` → `படைவரிசை`; `காட்சினைக்கண்டு` → `காட்சிதனைக்கண்டு`;
+- scan **221 / printed 204**: `கூறான கொம்புகளைக்` → `கூரான கொம்புகளைக்`.
+
+Scans **215, 217, 218, 219, 220 and 222** required no new lexical correction in Batch 11. Kural wording/lineation, printed chapter/song metadata, page continuations and the non-body blue library stamp on scan 218 were independently confirmed.
+
+Pass 2B coverage is **111/111**, scans **112–222 / printed 95–205**. Full details are durable in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
 
 ## Pass 3 — ACTIVE
 
-Completed batches:
+Batch 1 — scans **112–121 / printed 95–104** — **COMPLETE, 10/10** by fresh direct meaningful visual-text comparison.
 
-- Batch 1 — **112–121 / 95–104**, COMPLETE 10/10; structural-only corrections on **112, 114, 116, 117, 119, 120, 121**.
-- Batch 2 — **122–131 / 105–114**, COMPLETE 10/10; corrections on **124, 126, 128, 130**.
-- Batch 3 — **132–141 / 115–124**, COMPLETE 10/10; corrections on **132, 134, 136, 138, 140**.
-- Batch 4 — **142–152 / 125–135**, COMPLETE 11/11; corrections on **142, 144, 145, 146, 147, 148, 149, 150, 151, 152**.
-- Batch 5 — **153–163 / 136–146**, COMPLETE 11/11; corrections on **153, 154, 155, 156, 158, 160, 162**.
-- Batch 6 — **164–173 / 147–156**, COMPLETE 10/10; corrections on **164, 166, 168, 170, 171, 172**.
+Seven page records received source-supported structural-only corrections:
 
-### Pass 3 Batch 6 closure
+- scans **112, 114, 116, 117, 119 and 121**: restored the physical large-illustration-before-prose relationship with `## Visual material` blocks and `body-illustrated` page typing;
+- scan **120**: represented the small centred Thiruvalluvar statue below the Kural/metadata as a separate visual-material block;
+- scan **117** also records a partial blue circular library stamp in the lower margin as non-body material.
 
-Fresh direct visual comparison established:
+Scans **113, 115 and 118** required no page-record correction. Their prose/quotation organization, highlighted Kural blocks, printed metadata, recurring page furniture and scan 118 lower-margin library stamp already match the source meaningfully. **No Tamil lexical wording changed during Pass 3 Batch 1.**
 
-- **164** — idealized-woman / two-men / ceremonial-arch illustration is physically above prose; restored as `body-illustrated` with `## Visual material` before text.
-- **165** — text-only conclusion with highlighted Kural 1196 / Chapter 120; no page change.
-- **166** — older adviser / younger man with sword/reclining inset illustration physically above prose; restored visual-first structure.
-- **167** — text-only conclusion with highlighted Kural 614 / Chapter 62; no page change.
-- **168** — two-women conversation illustration physically above prose; restored visual-first structure.
-- **169** — text-only conclusion with highlighted Kural 1293 / Chapter 130; no page change.
-- **170** — Socrates prison/cup illustration physically above prose; restored visual-first structure.
-- **171** — text-only Socrates conclusion with highlighted Kural 580 / Chapter 58 and small centred Valluvar-monument below metadata; lower visual now represented separately.
-- **172** — young couple indoor illustration physically above prose; restored visual-first structure.
-- **173** — text-only conclusion with highlighted Kural 1280 / Chapter 128; no page change.
+Batch 2 — scans **122–131 / printed 105–114** — **COMPLETE, 10/10** by fresh direct meaningful visual-text comparison.
 
-**No Tamil lexical wording changed during Pass 3 Batch 6.**
+Four page records received source-supported structural-only corrections:
+
+- scans **124, 126, 128 and 130**: restored the physical large-illustration-before-prose relationship with `## Visual material` blocks and `body-illustrated` page typing.
+
+Scans **122, 123, 125, 127, 129 and 131** required no page-record correction. Their prose/quotation hierarchy, highlighted Kural blocks, printed chapter/song metadata, recurring side banners, page numbers and physical continuations already match the source meaningfully. Scan **123** also already represents the small centred monument/chariot motif below its metadata. **No Tamil lexical wording changed during Pass 3 Batch 2.**
+
+Batch 3 — scans **132–141 / printed 115–124** — **COMPLETE, 10/10** by fresh direct meaningful visual-text comparison.
+
+Five page records received source-supported structural-only corrections:
+
+- scans **132, 134, 136, 138 and 140**: restored the physical large-illustration-before-prose relationship with `## Visual material` blocks and `body-illustrated` page typing.
+
+Scans **133, 135, 137, 139 and 141** required no page-record correction. Their prose/dialogue organization, highlighted Kural blocks, printed chapter/song metadata, recurring side banners, page numbers and physical continuations already match the source meaningfully. **No Tamil lexical wording changed during Pass 3 Batch 3.**
+
+Batch 4 — scans **142–152 / printed 125–135** — **COMPLETE, 11/11** by fresh direct meaningful visual-text comparison.
+
+Ten page records received source-supported structural-only corrections:
+
+- scans **142, 144, 146, 148 and 150**: restored physical illustration-before-prose order with `## Visual material` blocks and `body-illustrated` page typing;
+- scans **145, 147, 149, 151 and 152**: restored source-highlighted Kural blocks as distinct block structures rather than inline quoted lines;
+- scan **149** additionally separates the small centred Valluvar-monument illustration below its metadata as visual material.
+
+Scan **143** required no page-record correction: its highlighted Kural 277 block, Chapter 28 metadata and lower Valluvar-monument motif were already represented meaningfully. **No Tamil lexical wording changed during Pass 3 Batch 4.**
+
+Batch 5 — scans **153–163 / printed 136–146** — **COMPLETE, 11/11** by fresh direct meaningful visual-text comparison.
+
+Seven page records received source-supported structural-only corrections:
+
+- scans **153, 154, 156, 158, 160 and 162**: restored physical illustration-before-prose order with `## Visual material` blocks and `body-illustrated` page typing;
+- scan **153** also restores the highlighted Kural 1246 block as a distinct block while retaining the printed lexical note `உணர்த்தும் = நீக்கும்`;
+- scan **155** restores the highlighted Kural 1326 block and separates the small centred Valluvar-monument illustration below its metadata;
+- scan **160** corrects the prior visual description: the source-visible illustration shows an elephant with a fallen warrior at the front and a jackal attacking from behind, not an elephant seized by a crocodile.
+
+Scans **157, 159, 161 and 163** required no page-record correction. Their prose/dialogue hierarchy, highlighted Kural blocks, printed metadata, recurring side banners, page numbers and continuations already match the source meaningfully. **No Tamil lexical wording changed during Pass 3 Batch 5.**
+
+Batch 6 — scans **164–173 / printed 147–156** — **COMPLETE, 10/10** by fresh direct meaningful visual-text comparison.
+
+Six page records received source-supported structural-only corrections:
+
+- scans **164, 166, 168, 170 and 172**: restored physical illustration-before-prose order with `## Visual material` blocks and `body-illustrated` page typing;
+- scan **171**: separated the small centred Valluvar-monument illustration below highlighted Kural 580 / Chapter 58 metadata as distinct visual material.
+
+Scans **165, 167, 169 and 173** required no page-record correction. Their prose/dialogue hierarchy, highlighted Kural blocks, printed metadata, recurring side banners, page numbers and continuations already match the source meaningfully. **No Tamil lexical wording changed during Pass 3 Batch 6.**
 
 Pass 3 coverage: **62/111**, scans **112–173 / printed 95–156**. Remaining Pass 3: **49 scans**. Full details are durable in `PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md`.
 
