@@ -5,14 +5,18 @@ part_page: 82
 printed_page: "176"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large color illustration of Kumanan-like ruler and a bearded poet in a forest; generosity/poverty vignette begins and continues to scan 194"
+visual_notes: "Large colour forest illustration is physically above the prose, showing Kumanan-like ruler and a bearded poet conversing among trees; generosity/poverty vignette begins and continues directly to scan 194"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour forest illustration showing Kumanan-like ruler and a bearded poet conversing among trees.
 
 குமண மன்னன், தனது தம்பியின் சூழ்ச்சியால் காட்டில் வாழ நேரிடுகிறது. நாடிழந்து நகரிழந்து நலிவுற்றுக் காட்டில் வாழும் அவனை, உயிருடன் விட்டுவைப்பதும் தன்னுடைய ஆட்சிக்கு ஆபத்து என நினைத்த அவனது தம்பி, அண்ணனின் தலையைக் கொண்டு வருபவர்க்குப் பொற்கிழி வழங்கப்படுமென்று அறிவிக்கிறான்.
 
