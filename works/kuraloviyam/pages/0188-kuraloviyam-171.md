@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Continuation and close of the separation/evening vignette begun on scan 187; closes with Chapter 123 / Kural 1222; scan 189 begins a new illustrated household vignette, so 188→189 is a clean source boundary"
+visual_notes: "Text-only close of the separation/evening vignette; source-highlighted Kural 1222 is a distinct two-line block above Chapter 123 metadata; scan 189 begins a new illustrated household vignette, so 188→189 is a clean source boundary"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -40,8 +40,8 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 துணையைப் பிரிந்து துன்புறுகிற இருவரும் ஒருவருக்கொருவர் ஆறுதல் கூறிக்கொள்வதோடு - தங்கள் துணைவர்களை இரக்கமற்றவர்கள் என்று குறிப்பிடுவதன் வாயிலாக, அவர்கள் மீது கொண்டுள்ள ஆறாக் காதலையல்லவா வெளிப்படுத்துகிறார்கள். அதுமட்டுமல்ல; மாலைப்பொழுது அவளுக்குத் துன்பம் செய்கிறதாம்! அதனால் அந்த மாலைப் பொழுதுக்கும் இன்பம் இல்லையாம். எனவே “வாழி!” என்று குமுறலோடு வாழ்த்துகிறாள். இதோ குறள்:
 
-“புன்கண்ணை வாழி மருள்மாலை எம்கேள்போல்
-வன்கண்ண தோநின் துணை”
+> புன்கண்ணை வாழி மருள்மாலை எம்கேள்போல்  
+> வன்கண்ண தோநின் துணை
 
 அதிகாரம் - 123     -     பொழுதுகண்டிரங்கல்;     பாடல் - 1222
 
