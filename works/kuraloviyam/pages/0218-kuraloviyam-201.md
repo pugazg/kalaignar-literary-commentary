@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Continuation and close of the meal/salt/ஊடல் vignette begun on scan 217; blue circular library stamp in the lower margin; closes with Chapter 131 / Kural 1302"
+visual_notes: "Text-only continuation and close of the meal/salt/ஊடல் vignette begun on scan 217; source-highlighted Kural 1302 is a distinct two-line block above Chapter 131 metadata; blue circular library stamp in the lower margin is non-body material"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -32,9 +32,9 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 அன்றிரவு, தான் கொண்ட ஊடலை அளவுக்கு அதிகமாகவே நீட்டித்ததை எண்ணிப் பார்த்து அந்தப் பேரழகி வெட்கத்தால் தலை குனிந்து கொண்டாள்.
 
-“உப்பமைந் தற்றால் புலவி அதுசிறிது
-மிக்கற்றால் நீள விடல்.”
+> உப்பமைந் தற்றால் புலவி அதுசிறிது  
+> மிக்கற்றால் நீள விடல்.
 
 அதிகாரம் - 131     -     புலவி;     பாடல் - 1302
 
-<!-- மூல ஸ்கேன் பக்கம்: 218; பகுதி 002 உள்ளூர் பக்கம்: 107; அச்சுப் பக்கம்: 201; closes meal/salt/ஊடல் vignette; lower-margin blue circular library stamp; Chapter 131 / Kural 1302 -->
+<!-- மூல ஸ்கேன் பக்கம்: 218; பகுதி 002 உள்ளூர் பக்கம்: 107; அச்சுப் பக்கம்: 201; closes meal/salt/ஊடல் vignette; source-highlighted Kural 1302 is a distinct block; lower-margin blue circular library stamp is non-body material; Chapter 131 / Kural 1302 -->
