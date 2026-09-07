@@ -7,7 +7,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
-| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **verification COMPLETE 111/111; Part audit PASS; final status sync PASS 111/111 verified; documentation sync COMPLETE; Tamil archival-ready checkpoint NEXT** |
+| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; maintained English workflow NEXT** |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
@@ -50,9 +50,9 @@ Final Part 001 status: **107/111 verified + 4 partial** (13, 14, 15, 19); visual
 - scan **112 / printed 95** begins a new illustrated love vignette;
 - **111→112 is a clean vignette boundary**.
 
-## Part 002 physical map — audited and status-synchronized
+## Part 002 physical map — Tamil archival-ready
 
-Part 002 contains **111 page-aligned records**, scans **112–222 / printed 95–205**. Source intake, Pass 1, Pass 2A, Pass 2B and Pass 3 each closed 111/111; the Part audit passed; the dedicated final metadata/status synchronization subsequently promoted all **111/111** page records to textual `verified` and visual-fidelity `verified`, with **0 exceptions**.
+Part 002 contains **111 page-aligned records**, scans **112–222 / printed 95–205**. Source intake, Pass 1, Pass 2A, Pass 2B and Pass 3 each closed 111/111; the Part audit passed; final metadata/status synchronization promoted all **111/111** records to textual and visual `verified`; documentation synchronization and the dedicated Tamil archival-ready checkpoint are now closed.
 
 | Overall scans | Printed pages | Source role / observed boundary | Final page-record state |
 |---:|---:|---|---|
@@ -139,6 +139,7 @@ Durable Part 002 Pass 2B record: `../PASS2B_LEXICAL_FIDELITY_PART_002.md`.
 Durable Part 002 Pass 3 record: `../PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md`.
 Durable Part 002 audit: `../PART_002_AUDIT.md`.
 Durable Part 002 final status sync: `../PART_002_FINAL_STATUS_SYNC.md`.
+Durable Part 002 Tamil archival-ready declaration: `../PART_002_TAMIL_ARCHIVAL_READY.md`.
 
 ## Verification gates
 
@@ -154,12 +155,13 @@ Part 002:
 - Part audit — **PASS**;
 - final metadata/status synchronization — **PASS / CLOSED, 111 textual verified + 111 visual verified**;
 - documentation synchronization — **COMPLETE**;
-- Tamil archival-ready checkpoint — **NEXT**.
+- Tamil archival-ready checkpoint — **PASS / CLOSED**;
+- maintained English workflow — **NEXT / not started**.
 
 ## Current frontier
 
 **Part 001: CLOSED.**
 
-**Part 002: ACTIVE — all Tamil verification and final status/documentation gates complete; Tamil archival-ready checkpoint NEXT.**
+**Part 002 Tamil: ARCHIVAL-READY / CLOSED.**
 
-Exact next activity: **Part 002 Tamil archival-ready checkpoint**. Confirm the closed evidence chain and final 111/111 verified disposition, record the archival-ready declaration durably without changing Tamil body wording, then move the frontier to the maintained Part 002 English translation/review workflow. Do not begin Part 003 before Part 002 completes its required maintained English and final Part closure workflow.
+Exact next activity: **Part 002 English draft Batch 1, overall scans 112–122 / printed 95–105**, using audited Tamil page records as the normal working authority. Do not begin Part 003 before Part 002 completes its maintained English workflow and final Part closure.

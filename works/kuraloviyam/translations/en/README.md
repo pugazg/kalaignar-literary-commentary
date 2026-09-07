@@ -12,7 +12,7 @@ translation_type: "project_translation"
 
 ## Authority
 
-Normal translation/review work uses the audited Tamil page records under `../../pages/`. The original Tamil scan remains the ultimate source authority if a new provenance or fidelity problem is discovered, but a closed Part is not routinely reopened.
+Normal translation/review work uses the audited Tamil page records under `../../pages/`. The original Tamil scan remains the ultimate source authority if a genuinely new provenance or fidelity problem is discovered, but a Tamil-closed Part is not routinely reopened.
 
 Do not import standard Thirukkural wording, a published English Kural translation, another commentator, web text or memory.
 
@@ -26,8 +26,6 @@ translations/en/
   TRANSLATION_STATUS.md
   pages/
   reviews/
-    PART_001_ENGLISH_REVIEW.md
-    PART_001_ENGLISH_RELEASE_REPORT.md
 ```
 
 English pages mirror the Tamil filenames exactly.
@@ -37,15 +35,6 @@ English pages mirror the Tamil filenames exactly.
 **Tamil archival-ready → English draft → English source-check → glossary reconciliation → editorial review → Part-level review → release report → release-ready.**
 
 Tamil verification status and English review status are separate.
-
-## Part 001 source limitations
-
-Part 001 has four intentional source-limited pages:
-
-- scans 13–15 — unreadable continuous handwritten/facsimile bodies;
-- scan 19 — physically washed-out/faint printed region.
-
-The English layer preserves those limits and does not reconstruct unavailable wording.
 
 ## Part 001 final state
 
@@ -60,25 +49,44 @@ Part 001 English:
 - Part-level English review: **PASS**;
 - release report: **APPROVED WITH EXPLICIT SOURCE LIMITATIONS**;
 - final page statuses: **107 `release-ready` + 4 `source-limited`**;
-- source-limited scans: **13, 14, 15, 19**;
-- `editorial-reviewed`: **0**;
-- `source-checked`: **0**;
-- `draft`: **0**;
-- no English body text changed at the release gate;
-- no source-limited material was reconstructed;
-- no standard/published/web English Kural wording was imported.
+- source-limited scans: **13, 14, 15, 19**.
 
 Durable Part 001 controls:
 
 - `reviews/PART_001_ENGLISH_REVIEW.md`
 - `reviews/PART_001_ENGLISH_RELEASE_REPORT.md`
 
-The **111→112** external split boundary was deliberately left unresolved until Part 002 became available.
+## Part 002 Tamil readiness
 
-## Current frontier
+Part 002 / overall scans **112–222 / printed 95–205** is now **TAMIL ARCHIVAL-READY / CLOSED**.
 
-Part 002 has now been supplied as `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` and covers overall scans **112–222**.
+- source intake / Pass 1 / Pass 2A / Pass 2B / Pass 3: complete **111/111**;
+- Part audit: **PASS**;
+- final status sync: **PASS / CLOSED**;
+- documentation sync: **COMPLETE**;
+- Tamil archival-ready checkpoint: **PASS / CLOSED**;
+- Tamil status: **111 verified / 0 partial / 0 needs-review**;
+- visual fidelity: **111 verified / 0 needs-review**.
 
-The standard Part 002 working cadence is **11 physical scans per iteration**. The first source-first iteration is **112–122**, beginning with an explicit 111→112 boundary check.
+Durable declaration: `../../PART_002_TAMIL_ARCHIVAL_READY.md`.
 
-See `TRANSLATION_STATUS.md` for the authoritative English frontier.
+## Part 002 English frontier
+
+Part 002 English has not started:
+
+- draft: **0/111**;
+- source-check: **0/111**;
+- glossary reconciliation: **0/111**;
+- editorial review: **0/111**;
+- Part review: not started;
+- release report: not started.
+
+Standard drafting cadence is **11 physical/page-aligned records per iteration**.
+
+### Exact next activity
+
+Draft **overall scans 112–122 / printed pages 95–105**, 11 English records, from the audited Tamil page files.
+
+Use `TRANSLATION_GUIDE.md`, `GLOSSARY.md` and `TRANSLATION_STATUS.md`. The original PDF is not a routine English drafting dependency; reopen source only if a genuinely new provenance/fidelity issue appears.
+
+After Batch 1, the next draft batch is **123–133 / printed 106–116**.

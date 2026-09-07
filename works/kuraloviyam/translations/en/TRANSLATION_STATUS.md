@@ -5,18 +5,7 @@
 - type: **project-created English translation**
 - official/publisher English source supplied: **no**
 - working basis: audited Tamil archival records under `works/kuraloviyam/pages/`
-- original Tamil scan: ultimate source authority if a new provenance/fidelity issue requires reopening it
-
-## Tamil readiness
-
-Part 001 / overall scans **1–111** is Tamil archival-ready:
-
-- source intake / Pass 1 / Pass 2A / Pass 2B / Pass 3: complete;
-- Part audit: PASS;
-- final status sync: PASS;
-- Tamil statuses: **107 `verified` + 4 `partial`**;
-- source-limited Tamil scans: **13, 14, 15, 19**;
-- visual fidelity: **111/111 `verified`**.
+- original Tamil scan: ultimate source authority only if a genuinely new provenance/fidelity issue requires reopening it
 
 ## English workflow
 
@@ -26,68 +15,85 @@ Permanent cadence:
 
 `source-limited` is retained wherever the audited Tamil source itself is incomplete.
 
-## Part 001 English gates
+## Part 001 — CLOSED
 
-All Part 001 English gates are complete:
+Tamil scans **1–111** are archival-ready: **107 verified + 4 partial**, visual **111/111 verified**.
+
+English gates are all closed:
 
 - first-pass drafting: **111/111 COMPLETE**;
 - source-check SC1–SC8: **111/111 COMPLETE**;
 - glossary reconciliation GR1–GR8: **111/111 COMPLETE**;
 - editorial review ER1–ER8: **111/111 COMPLETE**;
 - Part-level English review: **PASS**;
-- Part-level English release report: **APPROVED WITH EXPLICIT SOURCE LIMITATIONS**.
+- release report: **APPROVED WITH EXPLICIT SOURCE LIMITATIONS**;
+- final English: **107 release-ready + 4 source-limited** — scans **13, 14, 15, 19**.
 
-Durable review records:
+Durable reviews:
 
-- `works/kuraloviyam/translations/en/reviews/PART_001_ENGLISH_REVIEW.md`
-- `works/kuraloviyam/translations/en/reviews/PART_001_ENGLISH_RELEASE_REPORT.md`
+- `reviews/PART_001_ENGLISH_REVIEW.md`
+- `reviews/PART_001_ENGLISH_RELEASE_REPORT.md`
 
-## Part 001 release state
+## Part 002 Tamil readiness — CLOSED
 
-Final English page statuses:
+Controlling Tamil source identity:
 
-- `release-ready`: **107**;
-- `source-limited`: **4** — scans **13, 14, 15, 19**;
-- `editorial-reviewed`: **0**;
-- `source-checked`: **0**;
-- `draft`: **0**;
-- `blocked`: **0**.
+- source: `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf`;
+- overall scans: **112–222**;
+- printed pages: **95–205**;
+- physical/local pages: **111 / 1–111**;
+- SHA-256: `4397caf9ba405ba65f50865c85e24461ea56bd2efa3dd589d31469877c9a4bda`.
 
-The release gate changed **status only** on the 107 eligible pages. No English body wording, Tamil page text, glossary entry or Kural metadata was changed.
+Tamil gates:
 
-The four source-limited records remain intentionally incomplete:
+- source intake — **COMPLETE**;
+- Pass 1 — **COMPLETE 111/111**;
+- Pass 2A — **COMPLETE 111/111**;
+- Pass 2B — **COMPLETE 111/111**;
+- Pass 3 — **COMPLETE 111/111**;
+- Part audit — **PASS**;
+- final status sync — **PASS / CLOSED**;
+- documentation sync — **COMPLETE**;
+- Tamil archival-ready checkpoint — **PASS / CLOSED**.
 
-- scans 13–15: continuous handwritten/facsimile preface bodies are not securely readable word-for-word;
-- scan 19: a physically washed-out/faint printed region is unavailable.
+Final Part 002 Tamil state:
 
-No missing wording has been reconstructed from context, OCR, another edition, web text, standard Thirukkural wording or memory.
+- textual verified: **111**;
+- partial/source-limited: **0**;
+- needs-review: **0**;
+- visual verified: **111**;
+- visual needs-review: **0**.
 
-## Controlled terminology and continuity
+Durable Tamil declaration: `../../PART_002_TAMIL_ARCHIVAL_READY.md`.
 
-The completed GR1–GR8 and ER1–ER8 controls remain authoritative, including distinctions such as **Preface / Foreword / Critical Appreciation / Publisher's Note / word-by-word explanation**, **Book of Inbam / Book of Love** according to source context, **Chapter / Kural / Kurals**, and controlled forms such as **Vaal-arivan, Muthamizh, yaazh, Valluvar Kottam, Kalingan / Kalinga, Kalingar, Kathiravan, Thenmozhi, Paingili, Kayalvizhi, Urkkavalan, Villavan**.
+The **111→112** split boundary is already resolved by the closed Tamil archival workflow. Do not repeat source intake or Tamil verification simply because English drafting is beginning.
 
-Known internal Part 001 cross-page joins remain closed by the completed Part review. The external split boundary **111→112** remains a source check to be performed against Part 002 itself; it was never inferred from Part 001.
+## Part 002 English gates
+
+- first-pass drafting: **0/111 — NEXT**;
+- source-check: **0/111**;
+- glossary reconciliation: **0/111**;
+- editorial review: **0/111**;
+- Part-level English review: not started;
+- release report: not started;
+- release-ready: **0/111**.
 
 ## Current frontier
 
-**Part 001 English: CLOSED — 107 `release-ready` + 4 `source-limited`.**
+Proceed with **Part 002 English first-pass draft Batch 1: overall scans 112–122 / printed 95–105**, 11 records.
 
-Part 002 source has now been supplied as:
+Requirements:
 
-`TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf`
+1. read `README.md`, `TRANSLATION_GUIDE.md` and relevant `GLOSSARY.md` conventions;
+2. translate from audited Tamil page records `../../pages/0112-kuraloviyam-95.md` through `../../pages/0122-kuraloviyam-105.md`;
+3. mirror filenames exactly under `pages/`;
+4. declare `translation_type: "project_translation"` and use the established English draft-status convention;
+5. preserve page-aligned Kural/chapter and visual/continuation relationships;
+6. do not import published/standard/web English Kural wording;
+7. do not silently change Tamil archival records;
+8. reopen the original scan only for a genuinely new source/provenance problem;
+9. synchronize this status after the batch.
 
-Part 002 covers overall scans **112–222**. Standard working iteration size is **11 physical scans per iteration**.
+Next draft batch after Batch 1: **123–133 / printed 106–116**, 11 records.
 
-### Exact next activity
-
-Proceed with **Part 002 source intake and first 11-scan iteration, overall scans 112–122**:
-
-1. verify Part 002 file identity and 111-page extent;
-2. verify the real **111→112** boundary using Part 001 scan 111 and Part 002 scan 112;
-3. preserve overall `scan_page` numbering beginning at 112;
-4. create/update Part 002 intake and page-map controls;
-5. process exactly overall scans **112–122** as the first 11-page source-first iteration;
-6. do not infer unreadable wording; record source limitations explicitly;
-7. update the Part 002 frontier for the next batch **123–133**.
-
-The 11-scan cadence is the standard for Part 002 unless a final remainder is shorter.
+Part 003 remains blocked until Part 002 English workflow and final Part closure are complete.
