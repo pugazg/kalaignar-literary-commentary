@@ -47,27 +47,27 @@ Tamil 1–111 archival-ready; English closed with **107 release-ready + 4 source
 - Pass 2B Batch 2 — **122–131 / 105–114 — COMPLETE, 10/10**
 - Pass 2B Batch 3 — **132–141 / 115–124 — COMPLETE, 10/10**
 - Pass 2B Batch 4 — **142–152 / 125–135 — COMPLETE, 11/11**
-- Pass 2B overall — **ACTIVE, 41/111**
+- Pass 2B Batch 5 — **153–163 / 136–146 — COMPLETE, 11/11**
+- Pass 2B Batch 6 — **164–173 / 147–156 — COMPLETE, 10/10**
+- Pass 2B overall — **ACTIVE, 62/111**
 
-Batch 1 found new source-supported corrections on scans **113, 114, 115 and 118**. Batch 2 found **no new lexical discrepancies**. Batch 3 found new source-supported corrections on scans **133, 134, 135, 138 and 141**; scans **132, 136, 137, 139 and 140** required no new lexical correction.
+Batch 1 corrections were required on scans **113, 114, 115 and 118**. Batch 2 found **no new lexical discrepancies**. Batch 3 corrections were required on scans **133, 134, 135, 138 and 141**. Batch 4 corrections were required on scans **144, 145, 146, 147 and 152**. Batch 5 corrections were required only on scans **157 and 160**.
 
-Key Batch 3 restorations include:
+Batch 6 found new source-supported corrections on scans **164, 168 and 169**:
 
-- scan 133: `காலை!` → `காளை!`;
-- scan 134: restored `செந்தமிழ் மகளிர் வீசி ஆடுகிற மலர்ப்பந்தோ? வியப்பும் வினாக்குறியும் ஒன்றையொன்று முந்தும் வண்ணம் அமைந்தது அந்த இசை நிகழ்ச்சி. குரல் வளமோ குழல் வளம் போல!`; `இனிமை மேலிட` → `இனிமை மேவிட`; `கூறலாம்:` → `கூறலாம்.`;
-- scan 135: `வேறு கொடுமை!` → `வேறோர் கொடுமை!`;
-- scan 138: `சிரித்துக் கொண்டிருந்தாள்` → `சிரித்துக் கொண்டு இருந்தாள்`; `கேட்கவண்ணமிருந்தது` → `கேட்டவண்ணமிருந்தது`; `சிறகைச் சற்றுத் தாக்கித்` → `சிறகைச் சிறிது தூக்கித்`;
-- scan 141: restored `அவரைக் காணவேண்டுமென்று என்னைப் பிடுங்கித் தின்கிறான்!`.
+- scan 164: `இந்தப் புவிக்குள்ள` → `இந்தப் புவியிலுள்ள`; `என் துணிபு!` → `என் கணிப்பு!`; restored the source's single continuous quoted paragraph instead of the false paragraph break after `வெற்றி பெறுவாள்.`;
+- scan 168: `குங்குமம் நிறங்காட்டும்` → `குங்கும நிறங்காட்டும்`;
+- scan 169: source punctuation `ஆனால்... ஆனால்....` → `ஆனால்.....ஆனால்.....`.
 
-Batch 4 found new source-supported corrections on scans **144, 145, 146, 147 and 152**. Key restorations are `படுத்தவளைப்போல`, `அஞ்சாமல் செல்லலாயாக!`, `வளைந்த தென்னையொன்றில்`, `வறுமையில் வாடும் மக்களுக்கு`, `கணைபட்ட வேங்கை`, `இரண்டாயிரம் ஆண்டுகட்கு`, and both source-visible `மனத்தைப்` readings on scan 152. Scans **142, 143, 148, 149, 150 and 151** required no new lexical correction.
+Scans **165, 166, 167, 170, 171, 172 and 173** required no new lexical correction.
 
-Overall Pass 2B coverage is **41/111**, scans **112–152 / printed 95–135**; **70 scans remain**. Durable details are in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
+Overall Pass 2B coverage is **62/111**, scans **112–173 / printed 95–156**; **49 scans remain**. Durable details are in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
 
 All Part 002 records remain `needs-review` / `visual_fidelity: needs-review`; Pass 2B completion alone will not authorize final `verified` because Pass 3 and the Part audit still remain.
 
 ## Exact next activity
 
-Continue **Part 002 Pass 2B independent lexical-fidelity re-read** with **overall scans 153–163 / printed pages 136–146**.
+Continue **Part 002 Pass 2B independent lexical-fidelity re-read** with **overall scans 174–183 / printed pages 157–166**.
 
 Pass 2B must be independent of Pass 2A. Freshly render/read the controlling source scans and compare every visible printed word, punctuation mark, paragraph/quotation boundary, quoted Kural wording and lineation, and printed `அதிகாரம்` / பாடல் metadata. Do not simply re-approve the Pass 2A record from memory or from the existing Markdown.
 
