@@ -36,12 +36,31 @@ Page records are rewritten during Pass 3 only when a directly source-supported s
 
 Seven page records — scans **112, 114, 116, 117, 119, 120 and 121** — received source-supported **structural-only** corrections. Scans **113, 115 and 118** required no page-record correction. **No Tamil lexical wording was changed.**
 
+## Batch 2 — overall scans 122–131 / printed pages 105–114
+
+**Status: COMPLETE — 10 / 10 scans directly compared with freshly rendered source pages for meaningful visual-text fidelity.**
+
+| Scan | Printed page | Pass 3 result |
+|---:|---:|---|
+| 122 | 105 | text-only merchant/rest-house continuation confirmed: dialogue/prose hierarchy, recurring vertical side banner, printed page 105 and direct continuation from scan 121 / into scan 123 are source-faithful; no structural correction required |
+| 123 | 106 | merchant/rest-house conclusion confirmed: prose/dialogue grouping, distinct highlighted Kural 510 block, separate explanatory gloss, Chapter 51 metadata, small centred monument/chariot motif below the metadata, recurring side banner and printed page 106 are represented meaningfully; no structural correction required |
+| 124 | 107 | young-woman/heart vignette opening confirmed: large colour illustration of the seated young woman is physically above the prose, with shadowed figures behind her, recurring side banner, printed page 107 and direct continuation into scan 125; page record structurally corrected so the visual-material block precedes the prose |
+| 125 | 108 | text-only conclusion of the young-woman/heart vignette confirmed: prose/dialogue hierarchy, distinct Kural 1291 block, Chapter 130 metadata, recurring side banner and printed page 108 are source-faithful; no structural correction required |
+| 126 | 109 | Gandhi vignette opening confirmed: large Gandhi illustration with spinning-wheel and handgun inset motifs is physically above the prose, with recurring side banner, printed page 109 and direct continuation into scan 127; page record structurally corrected so the visual-material block precedes the prose |
+| 127 | 110 | text-only Gandhi conclusion confirmed: prose hierarchy, earlier `என்பு இலதனை...` Kural block, final `தொழுத கையுள்ளும்...` Kural 828 block, Chapter 83 metadata, recurring side banner and printed page 110 are meaningfully separated; no structural correction required |
+| 128 | 111 | sneezing/lovers vignette opening confirmed: large colour grove illustration is physically above the prose, with recurring side banner, printed page 111 and sentence continuation into scan 129; page record structurally corrected so the visual-material block precedes the prose |
+| 129 | 112 | text-only sneezing/lovers conclusion confirmed: prose/dialogue organization, two distinct highlighted Kural blocks, Chapter 132 / பாடல்கள் 1317, 1312 metadata, recurring side banner and printed page 112 are source-faithful; no structural correction required |
+| 130 | 113 | elderly-man/public-meeting vignette opening confirmed: large illustration of the elderly man and younger companion beside the loudspeaker-equipped meeting is physically above the prose, with recurring side banner, printed page 113 and continuation into scan 131; page record structurally corrected so the visual-material block precedes the prose |
+| 131 | 114 | text-only public-meeting conclusion confirmed: prose/dialogue grouping, distinct Kural 100 block, Chapter 10 metadata, recurring side banner and printed page 114 are source-faithful; no structural correction required |
+
+Four page records — scans **124, 126, 128 and 130** — received source-supported **structural-only** corrections to restore the physical illustration-before-prose order visible in the controlling scans. Scans **122, 123, 125, 127, 129 and 131** required no page-record correction. **No Tamil lexical wording was changed during Batch 2.**
+
 ## Coverage
 
-Pass 3 coverage: **10 / 111 scans**, overall scans **112–121 / printed 95–104**.
+Pass 3 coverage: **20 / 111 scans**, overall scans **112–131 / printed 95–114**.
 
-Remaining Pass 3: **101 scans**.
+Remaining Pass 3: **91 scans**.
 
-Exact next batch: **overall scans 122–131 / printed pages 105–114**.
+Exact next batch: **overall scans 132–141 / printed pages 115–124**.
 
 Do not begin the Part audit until Pass 3 covers the whole Part. Do not promote Part 002 records to final `verified` during Pass 3, and do not begin Part 003 before Part 002 is fully closed.
