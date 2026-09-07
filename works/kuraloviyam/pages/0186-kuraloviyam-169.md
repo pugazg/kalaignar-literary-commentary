@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Continuation and close of the flood/rescue vignette begun on scan 184; Singan rescues the fawn; closes with Chapter 38 / Kural 380 and Chapter 62 / Kural 620; small decorative monument illustration below metadata"
+visual_notes: "Text-only close of the flood/rescue vignette; source-highlighted Kural 620 is a distinct block, Chapter 38 / Kural 380 and Chapter 62 / Kural 620 metadata follow, and a small centred Valluvar-monument illustration appears below the metadata"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -26,11 +26,15 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 “அய்யா! சோர்வின்றி உறுதியுடன் முயற்சியில் ஈடுபடுகின்றவர்கள் ஊழையும் தோல்வி காணச் செய்து விடுவார்கள்! இதோ அதற்குக் குறள்!” என்று உரக்கப் பாடினான் சிங்கன்.
 
-“ஊழையும் உப்பக்கம் காண்பர் உலைவின்றித்
-தாழாது உஞற்று பவர்”
+> ஊழையும் உப்பக்கம் காண்பர் உலைவின்றித்  
+> தாழாது உஞற்று பவர்
 
 அதிகாரம் - 38     -     ஊழ்;     பாடல் - 380
 
 அதிகாரம் - 62     -     ஆள்வினையுடைமை;     பாடல் - 620
+
+## Visual material
+
+Small centred Valluvar-monument illustration below the chapter/song metadata.
 
 <!-- மூல ஸ்கேன் பக்கம்: 186; பகுதி 002 உள்ளூர் பக்கம்: 75; அச்சுப் பக்கம்: 169; closes flood/rescue vignette begun on scan 184; Chapter 38 / Kural 380 and Chapter 62 / Kural 620 -->
