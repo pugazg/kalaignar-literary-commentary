@@ -5,14 +5,18 @@ part_page: 47
 printed_page: "141"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large color illustration shows a romantic couple indoors; new foreign-trade/separation vignette begins and continues to scan 159"
+visual_notes: "Large colour romantic illustration physically above the prose showing the couple indoors; recurring vertical side banner, printed page 141 and direct sentence continuation into scan 159"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour illustration above the prose showing the couple together indoors, with the woman seated in the foreground and the man behind her.
 
 வாணிபத்தின் பொருட்டுப் பிறநாடு சென்றுவரத் திட்டமிடுகிறான் மாவெண்கோ! ஆனால், அந்தத் திட்டத்தை நிறைவேற்ற முடியாமல் தவித்துக் கொண்டிருக்கிறான். வாணிபத்திற்குத் தேவையான பொருள் இல்லாத காரணமா என்றால் இல்லை! அவனது மூதாதையர் சேர்த்துவைத்த பொற்குவியல் குன்றுபோல் உண்டு, அவன் வீட்டில்! அவன் தயக்கத்திற்கும், தவிப்புக்கும் காரணமே அவன் துணைவி மாங்கனிதான்! அவளைப் பிரிந்து அவனாலும் இருக்கமுடியாது என்றாலும் அவனைப் பிரிந்து அவளால் உயிர்வாழவே முடியாது என்பதை அவனறிவான். இதற்கிடையே அவனது வணிகத்துறை கூட்டாளிகள் அவனை வலியுறுத்திக் கொண்டேயிருந்தார்கள், பிறநாடு சென்று வாணிபம் நடத்திப் பொருளீட்டுவதன் மேன்மை குறித்து! வேறு வழியின்றி, ஒரு நாள் மாவெண்கோ, அவர்களுடன் பயணம் புறப்படுவதாக ஒப்புதல் அளித்துவிட்டான்.
 
