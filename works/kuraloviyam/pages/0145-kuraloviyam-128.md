@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Continuation from scan 144; closes the secret-meeting vignette with Chapter 115 / Kural 1146"
+visual_notes: "Text-only continuation and closure of the secret-meeting vignette; distinct highlighted two-line Kural 1146 block above Chapter 115 metadata, recurring vertical side banner and printed page 128"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -42,8 +42,8 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 அந்தக் கிரகணம் பிடிப்பது எப்படி ஊருக்கெல்லாம் பரவலாகத் தெரிந்து விடுகிறதோ, அதுபோல அவள், தன் காதலனை ஒரு நாள் சந்தித்த நிகழ்ச்சியும் விரைவில் ஊர்முழுக்கப் பரவி விடுகிறதாம். அதற்கு இதோ குறள்.
 
-“கண்டது மன்னும் ஒருநாள் அலர்மன்னும்
-திங்களைப் பாம்புகொண் டற்று.”
+> “கண்டது மன்னும் ஒருநாள் அலர்மன்னும்  
+> திங்களைப் பாம்புகொண் டற்று.”
 
 அதிகாரம் - 115 - அலர் அறிவுறுத்தல்; பாடல் - 1146
 
