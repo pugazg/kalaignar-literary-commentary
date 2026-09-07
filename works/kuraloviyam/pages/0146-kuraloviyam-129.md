@@ -5,14 +5,18 @@ part_page: 35
 printed_page: "129"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large color illustration of physician facing a tiger in dense forest; physician/tiger vignette begins and continues to scan 147"
+visual_notes: "Large colour illustration physically above the prose showing an elderly physician facing a tiger in dense forest; recurring vertical side banner and printed page 129; vignette continues directly into scan 147"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour illustration showing an elderly physician facing a tiger in dense forest.
 
 அடர்ந்த காடு! முட்புதர்கள் மொய்த்த தரை! பகல் வேளைதான் எனினும், ஒளி உட்புக முடியாத அளவுக்கு நிழல் வழங்கும் தருக்கள்! அந்தக் காட்டைக் கடந்து அடுத்த ஊருக்குச் செல்லவேண்டிய மருத்துவர் ஒருவர், வேறு வழியின்றி அவ்வழியே நடந்து கொண்டிருந்தார். பயணம், ஒரு வகையில் பயன் படக்கூடியதாகவும் அமைந்திருப்பதாகக் கருதி மகிழ்ந்தார், அந்த மருத்துவர். காரணம், அவர் மருந்து தயாரிப்பதற்குத் தேவையான பச்சிலைகள், மூலிகை வேர்கள் அந்தக் காட்டில் ஏராளமாகக் கிடைத்தன. அவைகளையெல்லாம் மிக்க உற்சாகத்துடன் அவர் தன் மருந்துப் பையில் நிரப்பிக் கொண்டார். அந்த வட்டாரத்திலேயே அவருக்கு நிகரான மருத்துவர் இல்லையென்றுகூடக் கூறலாம். ஏழைகளுக்கு நோய் எனில் அவர்களிடம் காசு எதுவும் பெறாமலே அவர் சிகிச்சை செய்வார்.
 
