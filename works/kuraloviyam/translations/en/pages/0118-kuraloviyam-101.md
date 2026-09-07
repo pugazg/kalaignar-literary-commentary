@@ -37,7 +37,7 @@ Then he continued to the student:
 > Do not lie against what your own heart knows; once you lie,  
 > your own heart itself will burn you.
 
-Delighted by Valluvar's precious ideas, the student bowed at his flower-like feet and cried, “Long live Valluvar's wisdom!”
+Delighted by Valluvar's precious ideas, the student bowed at his flower-like feet and cried, “Long live Valluvam!”
 
 Chapter 30 — Truthfulness; Kurals 292, 293
 
