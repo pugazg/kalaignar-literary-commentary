@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Continuation and close of the love/separation-night vignette begun on scan 176 and illustrated on scan 177; closes with Chapter 117 / Kurals 1168, 1169; small decorative monument illustration below the metadata"
+visual_notes: "Continuation and close of the love/separation-night vignette begun on scan 176 and illustrated on scan 177; distinct highlighted Kural 1169 block, Chapter 117 / பாடல்கள் 1168, 1169 metadata, and small centred Valluvar-monument illustration below the metadata"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -26,9 +26,13 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 அவளா கூறுகிறாள் - அவளை வள்ளுவர் அவ்வாறு கூற வைக்கிறார்!
 
-“மன்னுயிர் எல்லாம் துயிற்றி அளித்திரா
-என்னல்லது இல்லை துணை”
+> மன்னுயிர் எல்லாம் துயிற்றி அளித்திரா  
+> என்னல்லது இல்லை துணை
 
 அதிகாரம் - 117     -     படர்மெலிந்திரங்கல்; பாடல்கள் - 1168, 1169
+
+## Visual material
+
+Small centred Valluvar-monument illustration printed below the chapter/song metadata.
 
 <!-- மூல ஸ்கேன் பக்கம்: 178; பகுதி 002 உள்ளூர் பக்கம்: 67; அச்சுப் பக்கம்: 161; closes love/separation-night vignette continued from scans 176–177; Chapter 117 / Kurals 1168, 1169 -->
