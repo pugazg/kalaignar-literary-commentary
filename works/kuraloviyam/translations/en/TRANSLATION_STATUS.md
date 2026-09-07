@@ -66,11 +66,11 @@ Final Part 002 Tamil state:
 
 Durable Tamil declaration: `../../PART_002_TAMIL_ARCHIVAL_READY.md`.
 
-The **111→112** split boundary is already resolved by the closed Tamil archival workflow. Do not repeat source intake or Tamil verification simply because English drafting is beginning.
+The **111→112** split boundary is already resolved by the closed Tamil archival workflow. Do not repeat source intake or Tamil verification simply because English drafting is underway.
 
 ## Part 002 English gates
 
-- first-pass drafting: **0/111 — NEXT**;
+- first-pass drafting: **11/111 — ACTIVE**;
 - source-check: **0/111**;
 - glossary reconciliation: **0/111**;
 - editorial review: **0/111**;
@@ -78,22 +78,34 @@ The **111→112** split boundary is already resolved by the closed Tamil archiva
 - release report: not started;
 - release-ready: **0/111**.
 
+### First-pass drafting batches
+
+- **Batch 1: scans 112–122 / printed 95–105 — COMPLETE, 11/11 draft records.**
+
+Batch 1 preserves the audited Tamil page alignment, visual-material placement, Kural block lineation, Chapter/Kural metadata and cross-page continuations. No published/standard/web English Kural wording was imported, and no Tamil archival record was changed.
+
+Notable batch boundaries retained:
+
+- 112→113 love / lovers' quarrel vignette;
+- 114→115 sculptor/painter vignette;
+- 117→118 Valluvar/student/hunter/deer continuation;
+- 119→120 husband/wife continuation;
+- 121→122 merchant/rest-house continuation, which continues beyond the batch to scan 123.
+
 ## Current frontier
 
-Proceed with **Part 002 English first-pass draft Batch 1: overall scans 112–122 / printed 95–105**, 11 records.
+Proceed with **Part 002 English first-pass draft Batch 2: overall scans 123–133 / printed 106–116**, 11 records.
 
 Requirements:
 
-1. read `README.md`, `TRANSLATION_GUIDE.md` and relevant `GLOSSARY.md` conventions;
-2. translate from audited Tamil page records `../../pages/0112-kuraloviyam-95.md` through `../../pages/0122-kuraloviyam-105.md`;
-3. mirror filenames exactly under `pages/`;
-4. declare `translation_type: "project_translation"` and use the established English draft-status convention;
-5. preserve page-aligned Kural/chapter and visual/continuation relationships;
-6. do not import published/standard/web English Kural wording;
-7. do not silently change Tamil archival records;
-8. reopen the original scan only for a genuinely new source/provenance problem;
-9. synchronize this status after the batch.
+1. translate only from the audited Tamil page records;
+2. mirror filenames exactly under `pages/`;
+3. use `translation_type: "project_translation"` and `status: "draft"`;
+4. preserve source-supported Kural/chapter, visual and continuation relationships;
+5. do not import published/standard/web English Kural wording;
+6. do not change Tamil archival records;
+7. update this status and audit the exact changed-file set after the batch.
 
-Next draft batch after Batch 1: **123–133 / printed 106–116**, 11 records.
+Next draft batch after Batch 2: **134–144 / printed 117–127**, 11 records.
 
 Part 003 remains blocked until Part 002 English workflow and final Part closure are complete.
