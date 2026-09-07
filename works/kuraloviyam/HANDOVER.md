@@ -22,9 +22,10 @@ Read before source-dependent changes:
 8. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_002.md`
 9. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_002.md`
 10. `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md`
-11. `works/kuraloviyam/indexes/page-map.md`
-12. `works/kuraloviyam/metadata/source.md`
-13. `works/kuraloviyam/metadata/transcription-policy.md`
+11. `works/kuraloviyam/PART_002_AUDIT.md`
+12. `works/kuraloviyam/indexes/page-map.md`
+13. `works/kuraloviyam/metadata/source.md`
+14. `works/kuraloviyam/metadata/transcription-policy.md`
 
 Permanent cadence:
 
@@ -44,7 +45,7 @@ Tamil scans **1–111**: **107 verified + 4 partial**; visual **111/111 verified
 - size **93,279,161 bytes**;
 - SHA-256 `4397caf9ba405ba65f50865c85e24461ea56bd2efa3dd589d31469877c9a4bda`;
 - no usable parsed text layer;
-- rendered scan is lexical and visual authority.
+- rendered scan is lexical and visual authority when source reinspection is genuinely required.
 
 Never fill uncertain Tamil from OCR, web text, another edition, standard Kural wording, context reconstruction, or memory.
 
@@ -55,47 +56,41 @@ Never fill uncertain Tamil from OCR, web text, another edition, standard Kural w
 - Pass 2A — **COMPLETE, 111/111**;
 - Pass 2B — **COMPLETE, 111/111**;
 - Pass 3 — **COMPLETE, 111/111**, scans **112–222 / printed 95–205**;
-- Part audit — **NEXT / not started**;
-- final metadata/status synchronization — not started;
+- Part audit — **PASS**;
+- final metadata/status synchronization — **NEXT / not started**;
 - Tamil archival-ready checkpoint — not reached.
 
-All Part 002 page records intentionally remain `status: "needs-review"` / `visual_fidelity: "needs-review"`. Completion of Pass 3 does **not** authorize final status promotion.
+All Part 002 page records intentionally remain `status: "needs-review"` / `visual_fidelity: "needs-review"` until the separate final metadata/status synchronization gate executes.
 
-## Pass 3 final closure
+## Part 002 audit — PASS
 
-Final Batch 11 covered scans **215–222 / printed 198–205**, **8/8**.
+Durable audit record: `works/kuraloviyam/PART_002_AUDIT.md`.
 
-Source-supported structural-only corrections were made on all eight records:
+The audit was performed repository/control-record-first after direct source verification had already closed through Pass 3. It confirms:
 
-- **215, 217, 219, 221** — restored physical illustration-before-prose order with `body-illustrated` typing and `## Visual material` before prose;
-- **216, 218, 220, 222** — restored source-highlighted Kural blocks as distinct two-line structures;
-- **217–218** — preserved the blue circular library stamp as non-body material;
-- **221→222** — confirmed as a genuine continuation;
-- **222 / printed 205** — confirmed as the final physical scan of Part 002.
+- complete **111/111** physical coverage;
+- continuous overall scan range **112–222**, local part pages **1–111**, printed pages **95–205**;
+- one durable page-aligned record per physical scan as established by Pass 1 and the page-map controls;
+- Pass 2A, Pass 2B and Pass 3 each closed **111/111**;
+- **176→177→178** and **202→203→204** illustration-only continuations remain coherent;
+- **221→222** is genuine continuation and **222 / printed 205** is the final supplied Part 002 scan;
+- library/stamp material on the identified stamp-bearing pages remains separate from Tamil body text;
+- no blocked/source-limited/partial Tamil condition is carried forward that requires an audit HOLD.
 
-**No Tamil lexical wording changed during Pass 3 Batch 11.**
+The audit made **no Tamil body-wording change** and **no status promotion**.
 
-Full scan-by-scan Pass 3 history is durable in `PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md`.
+## Exact current activity — final metadata/status synchronization
 
-## Exact current activity — Part 002 audit
+Proceed with **Part 002 final metadata/status synchronization across all 111 page records, scans 112–222 / printed 95–205**.
 
-The next gate is the **Part audit**, not final status synchronization and not Part 003.
+The synchronization gate must:
 
-Audit requirements from the work-specific guidelines:
-
-1. verify complete physical coverage of **111/111 scans, overall 112–222**;
-2. verify printed-page progression **95–205** and page-map consistency;
-3. verify one durable page record exists for every physical scan;
-4. verify frontmatter identifiers (`scan_page`, `part`, `part_page`, `printed_page`, source filename) are internally consistent;
-5. verify internal physical continuations and clean boundaries recorded during Passes 2A–3, including **221→222**;
-6. verify source-visible non-body marks remain separate from body text, especially the blue library-stamp cases;
-7. verify illustration-only / illustrated-body / text-only roles are internally coherent with the completed Pass 3 record;
-8. verify the supplied Part boundary: scan **222** is the last available Part 002 scan; do not infer the Part 003 side of the boundary;
-9. verify no unresolved source-limited Tamil issue is being silently normalized or guessed;
-10. record a durable Part 002 audit result before any final metadata/status promotion.
-
-The Part audit should normally be repository/control-record based now that direct Pass 2A, Pass 2B and Pass 3 source comparisons have closed. Reopen the controlling source only if the audit exposes a specific source/provenance/fidelity question that genuinely requires it.
-
-Do not mechanically rewrite Tamil body text during the audit. Do not promote statuses until the audit passes and the separate final metadata/status synchronization begins.
+1. use the completed source intake, Pass 1, Pass 2A, Pass 2B, Pass 3 and `PART_002_AUDIT.md` as the durable evidence base;
+2. assign final textual `status` and `visual_fidelity` values consistently across all Part 002 records;
+3. preserve every Tamil body word exactly — this is a metadata-only gate unless an independently discovered source problem explicitly forces a separate correction workflow;
+4. preserve source-visible non-body marks and illustration/text structure already established by Pass 3;
+5. record a durable final-status synchronization report with counts and any exceptions;
+6. update page-map/current-frontier controls only after the synchronization result is known;
+7. do not declare Tamil archival-ready until this gate and subsequent documentation synchronization pass.
 
 Do not start Part 003 before Part 002 is fully closed.
