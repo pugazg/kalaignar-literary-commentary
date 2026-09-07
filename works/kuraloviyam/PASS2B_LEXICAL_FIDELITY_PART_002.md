@@ -191,12 +191,31 @@ Batch 8 corrections were required on scans **184, 186, 189, 190, 192 and 194**. 
 
 Batch 9 correction was required only on scan **201**. Scans **195, 196, 197, 198, 199, 200, 202, 203 and 204** required no new lexical correction.
 
+## Batch 10 — overall scans 205–214 / printed pages 188–197
+
+**Status: COMPLETE — 10 / 10 scans independently re-read against freshly rendered source pages for Pass 2B.**
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 205 | 188 | independent word-level re-read complete across the illustrated `அலர்`/gossip opening and continuation into scan 206; source-visible prose, quotation marks and uncommon lexical forms independently confirmed; no new correction required |
+| 206 | 189 | independently confirmed the `அலர்`/gossip conclusion, dialogue, Kural 1148, lineation and Chapter 115 / பாடல் metadata; no new correction required |
+| 207 | 190 | independent word-level re-read complete across the illustrated battlefield-command/courage opening and continuation into scan 208; no new correction required |
+| 208 | 191 | independently confirmed the battlefield-command/courage conclusion, quoted Kurals 776 and 775, lineation and Chapter 78 / பாடல்கள் metadata; no new correction required |
+| 209 | 192 | restored source-visible spacing `நீந்திச் சென்றுகொண்டிருக்கிறோம்` → `நீந்திச் சென்று கொண்டிருக்கிறோம்`; remaining separation/tear-flood opening and continuation into scan 210 independently confirmed |
+| 210 | 193 | independently confirmed the separation/tear-flood conclusion, Kural 1170, lineation and Chapter 117 / பாடல் metadata; no new correction required |
+| 211 | 194 | restored source punctuation `விடைகாண முடியவில்லை எனினும்,` → `விடைகாண முடியவில்லை. எனினும்,`; restored source wording/spacing `தன் படைவரிசையிலிருந்து நுழைந்தார்கள்...` → `தன் படைவரிசையில் இருந்து நுழைந்தார்கள்...`; remaining enemy-siege/treachery opening and continuation into scan 212 independently confirmed |
+| 212 | 195 | corrected `பலிக்காமல் போனதுகண்டு` → source-visible `பலிக்காமற் போனதுகண்டு`; corrected `சூழுமதி யால்` → `சூதுமதி யால்`; restored `புறப்பட்டு வந்திருக்கிறான்` → source-visible `புறந்தோடி வந்திருக்கிறான்`; remaining treachery-vignette conclusion, Kural 203, lineation and Chapter 21 / பாடல் metadata independently confirmed |
+| 213 | 196 | independent word-level re-read complete across the illustrated பூங்குழலி waiting/disguise opening and continuation into scan 214; no new correction required |
+| 214 | 197 | independently confirmed the பூங்குழலி waiting/disguise conclusion, dialogue, Kural 1297, lineation and Chapter 130 / பாடல் metadata; no new correction required |
+
+Batch 10 corrections were required on scans **209, 211 and 212**. Scans **205, 206, 207, 208, 210, 213 and 214** required no new lexical correction.
+
 ## Coverage
 
-Pass 2B coverage: **93 / 111 scans**, overall scans **112–204 / printed 95–187**.
+Pass 2B coverage: **103 / 111 scans**, overall scans **112–214 / printed 95–197**.
 
-Remaining Pass 2B: **18 scans**.
+Remaining Pass 2B: **8 scans**.
 
-Exact next batch: **overall scans 205–214 / printed pages 188–197**.
+Exact next batch: **overall scans 215–222 / printed pages 198–205**.
 
 Do not promote Part 002 records to final `verified` during Pass 2B. Do not start Pass 3 until Pass 2B covers the whole Part, and do not begin Part 003 before Part 002 is fully closed.
