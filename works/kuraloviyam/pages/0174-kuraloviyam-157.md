@@ -5,14 +5,18 @@ part_page: 63
 printed_page: "157"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large color illustration shows a war elephant covered with arrows amid wrecked chariots; new battlefield/elephant vignette begins and continues to scan 175"
+visual_notes: "Large colour battlefield illustration physically above the prose, showing an arrow-covered war elephant amid wrecked chariots; recurring side banner and printed page 157; vignette continues to scan 175"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour battlefield illustration occupying the upper half of the page: a war elephant covered with arrows amid wrecked chariots and weapons.
 
 நால்வகைப் படைகளும் மோதிக்கொள்ளும் போர்க்களம். வாள்கள் மின்னலென ஒளி வீசுகின்றன. கணைகள், மழையெனப் பொழிகின்றன. முரசுகள், இடியென முழங்குகின்றன. தேர்களும் புரவிகளும் பாய்ந்தோடித் தாக்கும் வேகத்தில், களத்தில் சாய்ந்து கெடுகின்றன. மேகக்கூட்டம்போல் வரும் யானைக் கூட்டம், குன்றுகள் மோதுவதுபோல் போரிடுகின்றன. பிறந்த மண்ணின் பெருமையைக் காக்க, இருதரப்பு வீரர்களும் களத்து மண்ணில் குருதி சிந்துகின்றனர். இறுதி வெற்றி, இருதரப்பினரில் ஒருதரப்பினர்க்கே கிட்டுகிறது. எனினும் புறங்கொடாது போரிட்டு மாண்டிடச் சபதமேற்று வில்லும் வேலும் வாளும் கேடயமும் தாங்கிய மறவர், அந்தக் களத்தினில் அங்குமிங்கும் துள்ளிச் சென்று வீர விளையாட்டு நிகழ்த்துகின்றனர்.
 
