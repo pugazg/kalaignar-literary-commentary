@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Current archival state |
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 verified; maintained English workflow NEXT** |
+| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English drafting ACTIVE 11/111** |
 | 003 | 223–333 | not-started |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
@@ -29,7 +29,7 @@ Durable English release report:
 
 `works/kuraloviyam/translations/en/reviews/PART_001_ENGLISH_RELEASE_REPORT.md`
 
-## Part 002 — TAMIL CLOSED / ENGLISH NEXT
+## Part 002 — TAMIL CLOSED / ENGLISH ACTIVE
 
 Controlling source:
 
@@ -80,13 +80,19 @@ Final Part 002 Tamil distribution:
 
 ## Maintained English workflow
 
-Part 002 English has **not yet started**. Normal translation/review work now uses the audited Tamil page records under `works/kuraloviyam/pages/`.
+Normal translation/review work uses the audited Tamil page records under `works/kuraloviyam/pages/`.
 
 Permanent cadence:
 
 **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
 
-The first Part 002 English drafting batch is **overall scans 112–122 / printed pages 95–105**, 11 records.
+Part 002 first-pass drafting is now **ACTIVE: 11/111 complete**.
+
+Completed:
+
+- **Batch 1: scans 112–122 / printed pages 95–105 — 11/11 draft records.**
+
+Batch 1 preserves page alignment, Kural blocks, Chapter/Kural metadata, visual-material placement and source continuations. The batch ends inside the merchant/rest-house vignette: scan **122 continues to 123**.
 
 English controls:
 
@@ -97,6 +103,6 @@ English controls:
 
 ## Current frontier
 
-**Next activity: initialize/continue the maintained Part 002 English workflow and draft scans 112–122 / printed 95–105 from the audited Tamil records.**
+**Next activity: Part 002 English first-pass draft Batch 2 — scans 123–133 / printed 106–116, 11 records.**
 
-Do not begin Part 003 before Part 002 English review/release and final Part closure are complete.
+Do not begin source-check until first-pass drafting covers the full Part, and do not begin Part 003 before Part 002 English review/release and final Part closure are complete.
