@@ -5,14 +5,18 @@ part_page: 104
 printed_page: "198"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large color battlefield illustration of a commander cradling a wounded or fallen warrior; new warrior-departure/death vignette begins and continues directly to scan 216"
+visual_notes: "Large color battlefield illustration of a commander cradling a wounded or fallen warrior is physically above the prose; new warrior-departure/death vignette begins and continues directly to scan 216"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour battlefield illustration of a commander cradling a wounded or fallen warrior.
 
 சேனை தழையாகிச் செங்குருதி நீர்தேக்கி ஆனை மிதிக்கும் அருஞ்சேறாம் போர்க்களத்தில் எதிரிகளின் முடி நடுவதற்கு முரசம் ஆர்த்துவிட்டது. அழைப்பு வந்துவிட்டது, அந்த வீரனுக்கு!
 
