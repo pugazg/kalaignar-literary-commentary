@@ -5,14 +5,18 @@ part_page: 76
 printed_page: "170"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large color illustration shows two women in the foreground with a man's face represented in the sun behind them; new separation/evening vignette begins and continues to scan 188"
+visual_notes: "Large colour separation/evening illustration is physically above the prose, showing two women in the foreground with a man's face represented in the sun behind them; vignette begins and continues directly to scan 188"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour illustration showing two women in the foreground with a man's face represented in the sun behind them.
 
 ‘தன்னைப்போல உளம் கலங்கிய நிலையில் உலகில் எந்தப் பெண்ணும் இருக்கமாட்டாள்’ என்று எண்ணியவாறு அந்த அழகிய மங்கை கண்ணீர் உகுத்தாள். மாவிலையில் தேங்கியிருந்து வடிந்த பனித்துளிகள் மாங்கனிகளின் மீது ஊர்ந்து செல்வதைப்போல், அந்தக் கண்ணீர் அவள் கன்னங்களில் வழிந்தது.
 
