@@ -5,14 +5,18 @@ part_page: 27
 printed_page: "121"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large color owl illustration dominates the upper page with two smaller crows at right; owl/crows timing vignette begins and continues to scan 139; printed page 121"
+visual_notes: "Large colour owl illustration physically above the prose, dominating the upper page with two smaller crows at right; recurring vertical side banner and printed page 121; owl/crows timing vignette continues to scan 139"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour illustration of an owl on a tree, with two smaller crows visible at right.
 
 இருள் சூழ்ந்த நேரம். இயற்கைப் பெண், தன் ஒளி பொருந்திய முகத்தைத் திருப்பிக்கொண்டு கரிய கூந்தலின் அழகைக் காட்சியாக்கி உயிரினங்களை மயங்கச் செய்தும் இன்பக் கூத்து ஆடச் செய்தும் சோர்ந்து போய்த் தூங்கச் செய்தும் இடையிடையே நட்சத்திரப் பற்கள் காட்டிச் சிரித்துக் கொண்டு இருந்தாள். காற்றில் மெல்ல அசையும் இலைகளின் இசையொலியைக் கிழித்துக் கொண்டு, அடிக்கடி ஒரு பறவையின் ஆரவாரச் சத்தம் கேட்டவண்ணமிருந்தது. அந்தப் பேரொலி கிளம்பும்போது மட்டும், மரக்கிளைகளில் உறங்கிக் கொண்டிருக்கும் மற்ற பறவைகள் சிறிது இமை திறந்து, சிறகைச் சிறிது தூக்கித் தங்கள் சிறிய கால்களைக் கிளைகளில் அழுத்தமாக ஊன்றிக்கொண்டு படபடத்துப் பின்னர் அமைதிபெற்றுக் கொண்டிருந்தன.
 
