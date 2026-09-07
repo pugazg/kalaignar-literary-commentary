@@ -5,14 +5,18 @@ part_page: 43
 printed_page: "137"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large romantic illustration; lovers/ஊடல் vignette begins; final sentence continues directly to scan 155"
+visual_notes: "Large romantic colour illustration physically above the short prose opening, showing an embracing couple above and the pair turned apart below; recurring vertical side banner, printed page 137 and direct continuation into scan 155"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour illustration above the prose showing the lovers embracing in the upper scene and the pair turned apart in a lower scene.
 
 “அன்பே” என்றான். “ஆருயிரே” என்றாள். “அமிழ்தே” என்றான். “தரட்டுமா” என்றான். “தடையேது?” என்றாள்.
 
