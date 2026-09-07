@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Text continuation of the Socrates vignette; closes with Chapter 58 / Kural 580 and a small Thiruvalluvar-statue image near the lower page"
+visual_notes: "Text continuation and closure of the Socrates vignette; distinct highlighted Kural 580 block, Chapter 58 metadata, small centred Valluvar-monument illustration below the metadata, recurring side banner and printed page 154"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -24,5 +24,9 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 என்ற குறள் எவ்வளவு பொருத்தமாக அமைகிறது, சாக்ரடீஸ் வாழ்க்கையோடு!
 
 அதிகாரம் - 58 - கண்ணோட்டம்; பாடல் - 580
+
+## Visual material
+
+Small centred Valluvar-monument illustration below the chapter/song metadata.
 
 <!-- மூல ஸ்கேன் பக்கம்: 171; பகுதி 002 உள்ளூர் பக்கம்: 60; அச்சுப் பக்கம்: 154; continuation from scan 170; Socrates vignette closes here -->
