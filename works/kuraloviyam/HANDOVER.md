@@ -52,7 +52,7 @@ Never fill uncertain Tamil from OCR, web text, another edition, standard Kural w
 - source intake — COMPLETE;
 - Pass 1 — COMPLETE, **111/111** scans 112–222;
 - Pass 2A — **COMPLETE, 111/111**, scans **112–222 / printed 95–205**;
-- Pass 2B — **ACTIVE, 83/111**, scans **112–194 / printed 95–177** complete;
+- Pass 2B — **ACTIVE, 93/111**, scans **112–204 / printed 95–187** complete;
 - Pass 3 — not started;
 - Part audit — not started.
 
@@ -120,11 +120,17 @@ Batch 8 — scans **184–194 / printed 167–177** — **COMPLETE, 11/11**. New
 
 Scans **185, 187, 188, 191 and 193** required no new lexical correction.
 
-Overall Pass 2B coverage is now **83/111**, scans **112–194 / printed 95–177**. Remaining Pass 2B: **28 scans**. Full details are durable in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
+Batch 9 — scans **195–204 / printed 178–187** — **COMPLETE, 10/10**. New source-supported correction was required only on scan **201**:
+
+- scan 201: `இரண்டாயிரம் ஆண்டுக்கு முன்பே` → source-visible `இரண்டாயிரம் ஆண்டுகட்கு முன்பே`.
+
+Scans **195, 196, 197, 198, 199, 200, 202, 203 and 204** required no new lexical correction. Scan **203 / printed 186** is full-page illustration only; the battlefield/war-elephant vignette continues cleanly from scan 202 to scan 204.
+
+Overall Pass 2B coverage is now **93/111**, scans **112–204 / printed 95–187**. Remaining Pass 2B: **18 scans**. Full details are durable in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
 
 ## Exact current activity
 
-Continue **Part 002 Pass 2B — independent lexical-fidelity re-read** with overall scans **195–204 / printed pages 178–187**.
+Continue **Part 002 Pass 2B — independent lexical-fidelity re-read** with overall scans **205–214 / printed pages 188–197**.
 
 Pass 2B is an independent source re-read, not a mechanical confirmation of Pass 2A. Re-render/read each controlling scan directly and compare every source-visible word, punctuation mark, paragraph/quotation boundary, Kural lineation and printed `அதிகாரம்` / பாடல் metadata. Correct only newly source-supported discrepancies and append the result durably to `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
 
