@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Current archival state |
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **source intake complete; Pass 1 COMPLETE 111/111; Pass 2A COMPLETE 111/111; Pass 2B COMPLETE 111/111; Pass 3 ACTIVE 20/111** |
+| 002 | 112–222 | **source intake complete; Pass 1 COMPLETE 111/111; Pass 2A COMPLETE 111/111; Pass 2B COMPLETE 111/111; Pass 3 ACTIVE 30/111** |
 | 003 | 223–333 | not-started |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
@@ -123,7 +123,9 @@ Source-supported structural-only corrections were required on scans **112, 114, 
 
 Batch 2, overall scans **122–131 / printed 105–114**, is **COMPLETE, 10/10** by fresh direct meaningful visual-text comparison. Source-supported structural-only corrections were required on scans **124, 126, 128 and 130** to restore the physical large-illustration-before-prose order. Scans **122, 123, 125, 127, 129 and 131** required no page-record correction; their text/quotation structure, Kural blocks, printed metadata, side banners, continuations and scan 123 lower monument/chariot motif were already represented meaningfully. **No Tamil lexical wording changed in Pass 3 Batch 2.**
 
-Pass 3 coverage: **20 / 111 scans**, overall scans **112–131 / printed 95–114**. Remaining Pass 3: **91 scans**.
+Batch 3, overall scans **132–141 / printed 115–124**, is **COMPLETE, 10/10** by fresh direct meaningful visual-text comparison. Source-supported structural-only corrections were required on scans **132, 134, 136, 138 and 140** to restore the physical large-illustration-before-prose order. Scans **133, 135, 137, 139 and 141** required no page-record correction; their prose/dialogue organization, highlighted Kural blocks, printed chapter/song metadata, side banners, page furniture and continuations already match the source meaningfully. **No Tamil lexical wording changed in Pass 3 Batch 3.**
+
+Pass 3 coverage: **30 / 111 scans**, overall scans **112–141 / printed 95–124**. Remaining Pass 3: **81 scans**.
 
 Full Pass 3 results are maintained in `PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md`.
 
@@ -131,7 +133,7 @@ All Part 002 records intentionally remain `status: "needs-review"` / `visual_fid
 
 ## Current frontier
 
-Exact next activity: **Part 002 Pass 3 meaningful visual-text verification — Batch 3, overall scans 132–141 / printed pages 115–124**.
+Exact next activity: **Part 002 Pass 3 meaningful visual-text verification — Batch 4, overall scans 142–152 / printed pages 125–135**.
 
 Pass 3 must directly verify headings/hierarchy, quoted-Kural lineation and block placement, paragraph/quotation relationships, page furniture, illustration/text relationships, non-body stamps/marks and physical continuations against freshly rendered source scans. Page records should be rewritten only for directly source-supported structural corrections; otherwise record the no-change result in the Pass 3 control log.
 
