@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Current archival state |
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **source intake COMPLETE; Pass 1 COMPLETE; Pass 2A COMPLETE; Pass 2B COMPLETE; Pass 3 COMPLETE 111/111; Part audit NEXT** |
+| 002 | 112–222 | **source intake COMPLETE; Pass 1 COMPLETE; Pass 2A COMPLETE; Pass 2B COMPLETE; Pass 3 COMPLETE 111/111; Part audit PASS; final metadata/status sync NEXT** |
 | 003 | 223–333 | not-started |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
@@ -51,6 +51,7 @@ Durable controls:
 - `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_002.md`
 - `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_002.md`
 - `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md`
+- `works/kuraloviyam/PART_002_AUDIT.md`
 - `works/kuraloviyam/indexes/page-map.md`
 
 ### Completed gates
@@ -59,32 +60,35 @@ Durable controls:
 - Pass 1 — **COMPLETE, 111/111**;
 - Pass 2A direct textual verification — **COMPLETE, 111/111**;
 - Pass 2B independent lexical-fidelity reread — **COMPLETE, 111/111**;
-- Pass 3 meaningful visual-text verification — **COMPLETE, 111/111**, overall scans **112–222 / printed 95–205**.
+- Pass 3 meaningful visual-text verification — **COMPLETE, 111/111**, overall scans **112–222 / printed 95–205**;
+- Part audit — **PASS**.
 
 Detailed scan-by-scan Pass 2A, Pass 2B and Pass 3 histories remain in their dedicated control logs and are authoritative for corrections made during those gates.
 
-### Pass 3 final batch closure
+### Part audit — PASS
 
-Final Batch 11, scans **215–222 / printed 198–205**, closed **8/8** by direct comparison with freshly rendered source scans.
+`PART_002_AUDIT.md` records the full-Part closure audit across **111/111 scans**.
 
-All eight page records received source-supported **structural-only** corrections:
+The audit confirms:
 
-- illustrated openings **215, 217, 219, 221** now restore physical illustration-before-prose order;
-- text-only conclusions **216, 218, 220, 222** now preserve source-highlighted Kural blocks as distinct two-line blocks;
-- scans **217–218** preserve the blue circular library stamp as non-body material;
-- **221→222** remains a genuine physical continuation;
-- scan **222 / printed 205** is the final physical scan of Part 002.
+- continuous physical coverage **112–222 / local 1–111 / printed 95–205**;
+- one durable page-aligned record per physical scan as recorded by the Pass 1 and page-map controls;
+- all source-verification gates through Pass 3 closed **111/111**;
+- illustration-only continuations **176→177→178** and **202→203→204** remain coherent;
+- **221→222** is a genuine continuation and scan **222 / printed 205** is the supplied Part 002 endpoint;
+- identified library stamps remain separated from body text, including scans **117–118** and **217–218**;
+- no carried blocked/source-limited/partial Tamil condition requires an audit HOLD.
 
-**No Tamil lexical wording changed during Pass 3 Batch 11.**
+The audit made **no Tamil body-text changes** and **no page-status promotions**.
 
 ### Status discipline
 
-All Part 002 records intentionally remain `status: "needs-review"` / `visual_fidelity: "needs-review"` even though Pass 3 is complete. Final `verified` status is not authorized until the **Part audit** and **final metadata/status synchronization** close.
+All Part 002 records intentionally remain `status: "needs-review"` / `visual_fidelity: "needs-review"` after the audit. The audit authorizes the next gate, but final status promotion is performed only by the separate **final metadata/status synchronization**.
 
 ## Current frontier
 
-**Next activity: Part 002 Part audit.**
+**Next activity: Part 002 final metadata/status synchronization across all 111 records, scans 112–222 / printed 95–205.**
 
-The audit must verify complete physical coverage, internal continuity, source limits, page-map/record consistency, non-body source marks, and the supplied Part boundary across scans **112–222 / printed 95–205**. Do not change Tamil wording during the audit unless a new direct source discrepancy is genuinely discovered.
+This gate must synchronize final textual and visual status metadata from the completed source intake, Pass 1, Pass 2A, Pass 2B, Pass 3 and Part-audit evidence without changing Tamil body wording.
 
-Do not start final metadata/status synchronization until the Part audit passes. Do not start Part 003 before Part 002 is fully closed.
+Do not declare Part 002 Tamil archival-ready until final status synchronization and the subsequent documentation synchronization close. Do not start Part 003 before Part 002 is fully closed.
