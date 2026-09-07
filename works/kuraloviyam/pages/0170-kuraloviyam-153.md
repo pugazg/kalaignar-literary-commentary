@@ -5,14 +5,18 @@ part_page: 59
 printed_page: "153"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large illustration shows Socrates in prison with a cup and another man behind bars; new Socrates vignette begins and continues to scan 171"
+visual_notes: "Large colour illustration physically above the prose showing Socrates seated in prison with a cup while another man stands behind bars; recurring vertical side banner and printed page 153; vignette continues to scan 171"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour illustration occupying the upper page: Socrates seated in a stone-walled prison holding a cup, with another man standing behind prison bars.
 
 “எனதருமை ஏதன்சு நகரத்துப் பெருமக்களே!” என நீட்டி முழங்கி அந்தக் கிழவன் அழைத்ததும் அவனைச் சுற்றிச் சூழ்ந்து கொள்வர் இளைஞரும் முதியோரும்-ஆடவரும் பெண்டிருமாக நூற்றுக்கணக்கில்! அந்தக் கிழவனின் நெஞ்சுரத்தைச் சுட்டிக் காட்டுவதுபோல் மார்பு நோக்கி நீண்டிருக்கும் தூய வெண்தாடி! சிந்தனையாளன் என்பதை விளக்கிடும் வண்ணம் அகன்ற நெற்றி! எதிர்காலத்தை ஊடுருவி நோக்குகின்ற எடுப்பான கண்கள்! சற்றுத் தழுதழுத்த குரலாயினும் அழுத்தம் திருத்தமான சொற்களின் நீர்வீழ்ச்சியாக அமைந்திடும் அழகு மிகு சொற்பொழிவு! குறிபார்க்க வளைப்பதற்குமுன் இருக்கின்ற வில்லின் தோற்றத்திலே, சிறிது வளைந்த உடல்! எப்போதும் மக்கள் மத்தியிலேயே இருக்க வேண்டும் என்ற துடிப்பும் ஆர்வமும் தொய்வின்றிச் சுழலும் இயல்பு! சூழ்ந்து நிற்கும் கூட்டத்தினரைப் பார்த்து அவன் உரைத்தது என்ன? “உன்னையே, நீ அறிவாய்!” என்பதுதான். “ஏமாற்றுக்காரர்களிடம் ஏமாந்துவிடாதே! சிந்தனைச் செல்வத்தை இழந்துவிடாதே! ‘ஏன்?’ ‘எதற்காக?’ ‘எப்படி?’ என்ற கேள்விகளை எழுப்பி, அறிவுப் புரட்சி செய்!” - இதுதான் அந்தக் கிழவனின் அறிவுரை. இதனை அவன், கிரேக்கத்து மூலை முடுக்குகளில் எல்லாம் பரப்பிட விரும்பினான். ஏதன்சு நகரத்து எழில்மிகு வீதிகள், வீதியோரத்துத் திண்ணைகள் அனைத்தும் அவன் அறிவுப் பிரச்சாரம் நடைபெறும் மேடைகளாயின.
 
