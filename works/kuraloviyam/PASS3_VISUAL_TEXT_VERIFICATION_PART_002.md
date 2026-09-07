@@ -152,12 +152,32 @@ Six page records — scans **164, 166, 168, 170, 171 and 172** — received sour
 
 Eight page records — scans **174, 175, 176, 178, 179, 180, 181 and 183** — received source-supported **structural-only** corrections. The illustrated openings **174, 179 and 181** now restore illustration-before-prose order; scans **175, 176, 178, 180 and 183** now preserve source-highlighted Kural blocks structurally, with scan **178** also separating the lower Valluvar-monument illustration. Scans **177 and 182** required no page-record correction. **No Tamil lexical wording was changed during Batch 7.**
 
+## Batch 8 — overall scans 184–194 / printed pages 167–177
+
+**Status: COMPLETE — 11 / 11 scans directly compared with freshly rendered source pages for meaningful visual-text fidelity.**
+
+| Scan | Printed page | Pass 3 result |
+|---:|---:|---|
+| 184 | 167 | flood/rescue vignette opening confirmed: large colour illustration of a man in floodwater carrying a calf while two men watch from the bank is physically above the prose, with recurring side banner, printed page 167 and direct continuation into scan 185; page record structurally corrected so the visual-material block precedes the prose |
+| 185 | 168 | text-only flood/rescue continuation confirmed: prose/dialogue hierarchy, source-highlighted Kural 380 as a distinct two-line block, recurring side banner, printed page 168 and direct continuation into scan 186; page record structurally corrected to preserve the Kural block |
+| 186 | 169 | flood/rescue conclusion confirmed: prose hierarchy, distinct highlighted Kural 620 block, Chapter 38 / Kural 380 and Chapter 62 / Kural 620 metadata, recurring side banner, printed page 169 and small centred Valluvar-monument illustration below the metadata; page record structurally corrected for Kural block and lower visual-material separation |
+| 187 | 170 | separation/evening vignette opening confirmed: large colour illustration of two women with a man's face represented in the sun behind them is physically above the prose, with recurring side banner, printed page 170 and direct continuation into scan 188; page record structurally corrected so the visual-material block precedes the prose |
+| 188 | 171 | text-only separation/evening conclusion confirmed: prose/dialogue hierarchy, distinct highlighted Kural 1222 block, Chapter 123 metadata, recurring side banner and printed page 171; page record structurally corrected to preserve the Kural as a distinct block; 188→189 is a clean source boundary |
+| 189 | 172 | snake/Muthuvelar autobiographical vignette opening confirmed: large colour household illustration of a seated bearded man handling goods while a woman stands at the doorway is physically above the prose, with recurring side banner, printed page 172 and continuation into scan 190; page record structurally corrected so the visual-material block precedes the prose |
+| 190 | 173 | text-only snake/Muthuvelar conclusion confirmed: prose hierarchy, distinct highlighted Kural 622 block, Chapter 63 metadata, recurring side banner and printed page 173; page record structurally corrected to preserve the Kural as a distinct block |
+| 191 | 174 | lovers/oodal vignette opening confirmed: large colour illustration of a young couple beneath a flowering tree is physically above the prose, with recurring side banner, printed page 174 and direct continuation into scan 192; page record structurally corrected so the visual-material block precedes the prose |
+| 192 | 175 | text-only lovers/oodal conclusion confirmed: prose/dialogue hierarchy, two distinct highlighted Kural blocks for 1321 and 1323, Chapter 133 metadata, recurring side banner and printed page 175; page record structurally corrected to preserve both Kural blocks distinctly |
+| 193 | 176 | Kumanan/Saathanaar generosity vignette opening confirmed: large colour forest illustration of the ruler and bearded poet is physically above the prose, with recurring side banner, printed page 176 and direct continuation into scan 194; page record structurally corrected so the visual-material block precedes the prose |
+| 194 | 177 | text-only Kumanan/Saathanaar conclusion confirmed: prose hierarchy, distinct highlighted Kural 230 block, Chapter 23 metadata, recurring side banner and printed page 177; page record structurally corrected to preserve the Kural as a distinct block |
+
+All eleven page records — scans **184–194** — received source-supported **structural-only** corrections. Illustrated openings **184, 187, 189, 191 and 193** now restore illustration-before-prose order; scans **185, 186, 188, 190, 192 and 194** now preserve source-highlighted Kural blocks structurally, with scan **186** also separating the lower Valluvar-monument illustration. **No Tamil lexical wording was changed during Batch 8.**
+
 ## Coverage
 
-Pass 3 coverage: **72 / 111 scans**, overall scans **112–183 / printed 95–166**.
+Pass 3 coverage: **83 / 111 scans**, overall scans **112–194 / printed 95–177**.
 
-Remaining Pass 3: **39 scans**.
+Remaining Pass 3: **28 scans**.
 
-Exact next batch: **overall scans 184–194 / printed pages 167–177**.
+Exact next batch: **overall scans 195–204 / printed pages 178–187**.
 
 Do not begin the Part audit until Pass 3 covers the whole Part. Do not promote Part 002 records to final `verified` during Pass 3, and do not begin Part 003 before Part 002 is fully closed.
