@@ -53,7 +53,7 @@ Seven page records — scans **112, 114, 116, 117, 119, 120 and 121** — receiv
 | 130 | 113 | elderly-man/public-meeting vignette opening confirmed: large illustration of the elderly man and younger companion beside the loudspeaker-equipped meeting is physically above the prose, with recurring side banner, printed page 113 and continuation into scan 131; page record structurally corrected so the visual-material block precedes the prose |
 | 131 | 114 | text-only public-meeting conclusion confirmed: prose/dialogue grouping, distinct Kural 100 block, Chapter 10 metadata, recurring side banner and printed page 114 are source-faithful; no structural correction required |
 
-Four page records — scans **124, 126, 128 and 130** — received source-supported **structural-only** corrections to restore the physical illustration-before-prose order visible in the controlling scans. Scans **122, 123, 125, 127, 129 and 131** required no page-record correction. **No Tamil lexical wording was changed during Batch 2.**
+Four page records — scans **124, 126, 128 and 130** — received source-supported **structural-only** corrections to restore the physical large-illustration-before-prose order visible in the controlling scans. Scans **122, 123, 125, 127, 129 and 131** required no page-record correction. **No Tamil lexical wording was changed during Batch 2.**
 
 ## Batch 3 — overall scans 132–141 / printed pages 115–124
 
@@ -72,7 +72,7 @@ Four page records — scans **124, 126, 128 and 130** — received source-suppor
 | 140 | 123 | sisters/child/absent-lover vignette opening confirmed: large domestic illustration is physically above the dialogue/prose, with older woman foreground, younger woman carrying stacked pots and another woman holding a child; recurring side banner, printed page 123 and continuation into scan 141 confirmed; page record structurally corrected so the visual-material block precedes the prose |
 | 141 | 124 | text-only vignette conclusion confirmed: dialogue/prose hierarchy, distinct Kural 1244 block, Chapter 125 metadata, recurring side banner and printed page 124 are source-faithful; no structural correction required |
 
-Five page records — scans **132, 134, 136, 138 and 140** — received source-supported **structural-only** corrections to restore the physical illustration-before-prose order visible in the controlling scans. Scans **133, 135, 137, 139 and 141** required no page-record correction. **No Tamil lexical wording was changed during Batch 3.**
+Five page records — scans **132, 134, 136, 138 and 140** — received source-supported **structural-only** corrections to restore the physical large-illustration-before-prose order visible in the controlling scans. Scans **133, 135, 137, 139 and 141** required no page-record correction. **No Tamil lexical wording was changed during Batch 3.**
 
 ## Batch 4 — overall scans 142–152 / printed pages 125–135
 
@@ -172,12 +172,31 @@ Eight page records — scans **174, 175, 176, 178, 179, 180, 181 and 183** — r
 
 All eleven page records — scans **184–194** — received source-supported **structural-only** corrections. Illustrated openings **184, 187, 189, 191 and 193** now restore illustration-before-prose order; scans **185, 186, 188, 190, 192 and 194** now preserve source-highlighted Kural blocks structurally, with scan **186** also separating the lower Valluvar-monument illustration. **No Tamil lexical wording was changed during Batch 8.**
 
+## Batch 9 — overall scans 195–204 / printed pages 178–187
+
+**Status: COMPLETE — 10 / 10 scans directly compared with freshly rendered source pages for meaningful visual-text fidelity.**
+
+| Scan | Printed page | Pass 3 result |
+|---:|---:|---|
+| 195 | 178 | returning-warrior/maiden vignette opening confirmed: large colour grove illustration with the maiden foreground and returning warrior behind is physically above the prose; source-highlighted Kural 1088 is a distinct two-line block near the foot; recurring side banner, printed page 178 and direct continuation into scan 196 confirmed; page record structurally corrected for illustration order and Kural block placement |
+| 196 | 179 | text-only returning-warrior/maiden conclusion confirmed: prose hierarchy, source-highlighted Kural 1087 and Kural 1082 as distinct two-line blocks, Chapter 109 / பாடல்கள் 1088, 1087, 1082 metadata, recurring side banner and printed page 179 are source-faithful; page record structurally corrected to preserve both highlighted Kural blocks |
+| 197 | 180 | praise/panegyric vignette opening confirmed: large colour court illustration of two bearded men in the foreground with a gathered group behind is physically above the prose and star-marked praise lines; recurring side banner, printed page 180 and continuation into scan 198 confirmed; page record structurally corrected so the visual-material block precedes the prose |
+| 198 | 181 | text-only praise/panegyric continuation confirmed: prose/dialogue hierarchy, recurring side banner, printed page 181 and direct continuation into scan 199 already match the source meaningfully; no structural correction required |
+| 199 | 182 | text-only praise/reversal conclusion confirmed: prose/dialogue hierarchy, source-highlighted Kural 629 as a distinct two-line block, Chapter 63 metadata, recurring side banner and printed page 182; page record structurally corrected to preserve the Kural block; 199→200 is a clean source boundary |
+| 200 | 183 | lovers/embrace vignette opening confirmed: large colour illustration of an embracing reclining couple beneath a dark sky is physically above the short prose opening, with recurring side banner, printed page 183 and direct continuation into scan 201; page record structurally corrected so the visual-material block precedes the prose |
+| 201 | 184 | text-only lovers/embrace conclusion confirmed: prose hierarchy, source-highlighted Kural 1108 as a distinct two-line block, Chapter 111 metadata, recurring side banner, printed page 184 and small centred Valluvar statue device below the metadata; page record structurally corrected for Kural block and lower visual-material separation |
+| 202 | 185 | battlefield/war-elephant vignette opening confirmed: large colour battlefield illustration with an elephant and warrior amid fallen fighters is physically above the short prose opening, with recurring side banner, printed page 185 and continuation through illustration-only scan 203 into scan 204; page record structurally corrected so the visual-material block precedes the prose |
+| 203 | 186 | full-page illustration-only continuation confirmed: elephant and warrior amid battle, no body prose; direct narrative continuity from scan 202 to scan 204 is source-faithful; existing illustration-only record already matches and required no correction |
+| 204 | 187 | text-only battlefield/war-elephant conclusion confirmed: prose hierarchy, source-highlighted Kural 774 as a distinct two-line block, Chapter 78 metadata, recurring side banner, printed page 187 and small centred Valluvar memorial/chariot device below the metadata; page record structurally corrected for Kural block and lower visual-material separation |
+
+Eight page records — scans **195, 196, 197, 199, 200, 201, 202 and 204** — received source-supported **structural-only** corrections. Illustrated openings **195, 197, 200 and 202** now restore physical illustration-before-prose order; scans **195, 196, 199, 201 and 204** now preserve source-highlighted Kural blocks structurally, with scans **201 and 204** also separating their lower Valluvar visual devices. Scans **198 and 203** required no page-record correction. **No Tamil lexical wording was changed during Batch 9.**
+
 ## Coverage
 
-Pass 3 coverage: **83 / 111 scans**, overall scans **112–194 / printed 95–177**.
+Pass 3 coverage: **93 / 111 scans**, overall scans **112–204 / printed 95–187**.
 
-Remaining Pass 3: **28 scans**.
+Remaining Pass 3: **18 scans**.
 
-Exact next batch: **overall scans 195–204 / printed pages 178–187**.
+Exact next batch: **overall scans 205–214 / printed pages 188–197**.
 
 Do not begin the Part audit until Pass 3 covers the whole Part. Do not promote Part 002 records to final `verified` during Pass 3, and do not begin Part 003 before Part 002 is fully closed.
