@@ -7,7 +7,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
-| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **source intake, Pass 1, Pass 2A, Pass 2B and Pass 3 COMPLETE 111/111; Part audit PASS; final metadata/status sync NEXT** |
+| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **verification COMPLETE 111/111; Part audit PASS; final status sync PASS 111/111 verified; documentation sync COMPLETE; Tamil archival-ready checkpoint NEXT** |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
@@ -50,65 +50,67 @@ Final Part 001 status: **107/111 verified + 4 partial** (13, 14, 15, 19); visual
 - scan **112 / printed 95** begins a new illustrated love vignette;
 - **111→112 is a clean vignette boundary**.
 
-## Part 002 physical map — audited
+## Part 002 physical map — audited and status-synchronized
 
-Part 002 contains **111 page-aligned records**, scans **112–222 / printed 95–205**. The Part audit passed after Pass 1, Pass 2A, Pass 2B and Pass 3 each closed 111/111. Page-record status remains `needs-review` until the separate final metadata/status synchronization gate.
+Part 002 contains **111 page-aligned records**, scans **112–222 / printed 95–205**. Source intake, Pass 1, Pass 2A, Pass 2B and Pass 3 each closed 111/111; the Part audit passed; the dedicated final metadata/status synchronization subsequently promoted all **111/111** page records to textual `verified` and visual-fidelity `verified`, with **0 exceptions**.
 
-| Overall scans | Printed pages | Source role / observed boundary | Current page-record state |
+| Overall scans | Printed pages | Source role / observed boundary | Final page-record state |
 |---:|---:|---|---|
-| 112–113 | 95–96 | love / `ஊடல்`; Chapter 133 / Kural 1330 | needs-review |
-| 114–115 | 97–98 | sculptor/painter; Chapter 41 / Kural 407 | needs-review |
-| 116 | 99 | lemon/liquor/love comparison; Chapter 129 / Kural 1281 | needs-review |
-| 117–118 | 100–101 | Valluvar/student/hunter/deer; Chapter 30 / Kurals 292, 293 | needs-review |
-| 119–120 | 102–103 | husband/wife and eyeliner analogy; Chapter 129 / Kural 1285 | needs-review |
-| 121–123 | 104–106 | merchant/rest-house; Chapter 51 / Kural 510 | needs-review |
-| 124–125 | 107–108 | young-woman/heart; Chapter 130 / Kural 1291 | needs-review |
-| 126–127 | 109–110 | Gandhi; Chapter 83 / Kural 828 | needs-review |
-| 128–129 | 111–112 | sneezing/lovers; Chapter 132 / Kurals 1317, 1312 | needs-review |
-| 130–131 | 113–114 | elderly-man/public-meeting; Chapter 10 / Kural 100 | needs-review |
-| 132–133 | 115–116 | lovers' quarrel; Chapter 132 / Kurals 1313, 1320 | needs-review |
-| 134–135 | 117–118 | court music / taste; Chapter 42 / Kural 420 | needs-review |
-| 136–137 | 119–120 | princess/commander war-and-separation; Chapter 123 / Kural 1224 | needs-review |
-| 138–139 | 121–122 | owl/crows timing; Chapter 49 / Kural 481 | needs-review |
-| 140–141 | 123–124 | sisters/child/absent-lover; Chapter 125 / Kural 1244 | needs-review |
-| 142–143 | 125–126 | medical-hypocrisy; Chapter 28 / Kural 277 | needs-review |
-| 144–145 | 127–128 | secret meeting; Chapter 115 / Kural 1146 | needs-review |
-| 146–147 | 129–130 | physician/tiger; Chapter 47 / Kural 469 | needs-review |
-| 148–149 | 131–132 | separated woman/moon; Chapter 121 / Kural 1210 | needs-review |
-| 150–152 | 133–135 | `தெளிந்தான்` / `நெளிந்தான்`; Chapter 15 / Kurals 142, 145 | needs-review |
-| 153 | 136 | woman addressing her own heart; Chapter 125 / Kural 1246 | needs-review |
-| 154–155 | 137–138 | lovers / `ஊடல்`; Chapter 133 / Kural 1326 | needs-review |
-| 156–157 | 139–140 | crowd/knife and critical inquiry; Chapter 43 / Kural 423 | needs-review |
-| 158–159 | 141–142 | Maavengko/Maangani foreign-trade and separation; Chapter 116 / Kural 1151 | needs-review |
-| 160–161 | 143–144 | elephant / terrain / strength; Chapter 50 / Kural 500 | needs-review |
-| 162–163 | 145–146 | Malaiyan/Silamban/Kalingan slander; Chapter 19 / Kural 188 | needs-review |
-| 164–165 | 147–148 | one-sided love / kavadi; Chapter 120 / Kural 1196 | needs-review |
-| 166–167 | 149–150 | medical/valor; Chapter 62 / Kural 614 | needs-review |
-| 168–169 | 151–152 | love/heart; Chapter 130 / Kural 1293 | needs-review |
-| 170–171 | 153–154 | Socrates/prison/poison; Chapter 58 / Kural 580 | needs-review |
-| 172–173 | 155–156 | lovers/separation; Chapter 128 / Kural 1280 | needs-review |
-| 174–175 | 157–158 | battlefield/war-elephant; Chapter 60 / Kural 597 | needs-review |
-| 176–178 | 159–161 | love/separation-night; scan 177 illustration-only; Chapter 117 / Kurals 1168, 1169 | needs-review |
-| 179–180 | 162–163 | king/minister/two-spies; Chapter 63 / Kural 621 and Chapter 59 / Kural 588 | needs-review |
-| 181–183 | 164–166 | moonlit-seaside lovers; Chapter 132 / Kural 1316 | needs-review |
-| 184–186 | 167–169 | flood/rescue and human effort; Chapter 38 / Kural 380 and Chapter 62 / Kural 620 | needs-review |
-| 187–188 | 170–171 | separation/evening; Chapter 123 / Kural 1222 | needs-review |
-| 189–190 | 172–173 | snake/Muthuvelar autobiographical; Chapter 63 / Kural 622 | needs-review |
-| 191–192 | 174–175 | lovers / `ஊடல்`; Chapter 133 / Kurals 1321, 1323 | needs-review |
-| 193–194 | 176–177 | Kumanan/Saathanaar generosity; Chapter 23 / Kural 230 | needs-review |
-| 195–196 | 178–179 | returning-warrior/maiden; Chapter 109 / Kurals 1088, 1087, 1082 | needs-review |
-| 197–199 | 180–182 | praise/reversal; Chapter 63 / Kural 629 | needs-review |
-| 200–201 | 183–184 | lovers/embrace; Chapter 111 / Kural 1108 | needs-review |
-| 202–204 | 185–187 | battlefield/war-elephant; scan 203 illustration-only; Chapter 78 / Kural 774 | needs-review |
-| 205–206 | 188–189 | `அலர்` / gossip; Chapter 115 / Kural 1148 | needs-review |
-| 207–208 | 190–191 | battlefield command/courage; Chapter 78 / Kurals 776, 775 | needs-review |
-| 209–210 | 192–193 | separation/tear-flood; Chapter 117 / Kural 1170 | needs-review |
-| 211–212 | 194–195 | enemy-siege/treachery and mercy; Chapter 21 / Kural 203 | needs-review |
-| 213–214 | 196–197 | பூங்குழலி waiting / இனியவள் disguise; Chapter 130 / Kural 1297 | needs-review |
-| 215–216 | 198–199 | warrior departure/battlefield death; Chapter 78 / Kural 780 | needs-review |
-| 217–218 | 200–201 | domestic meal / salt analogy / `ஊடல்`; Chapter 131 / Kural 1302 | needs-review |
-| 219–220 | 202–203 | dying veteran / abandoned friendship; Chapter 80 / Kural 799 | needs-review |
-| 221–222 | 204–205 | pastoral / ஆயர்குடி; genuine 221→222 continuation; Chapter 128 / Kural 1275 | needs-review |
+| 112–113 | 95–96 | love / `ஊடல்`; Chapter 133 / Kural 1330 | verified |
+| 114–115 | 97–98 | sculptor/painter; Chapter 41 / Kural 407 | verified |
+| 116 | 99 | lemon/liquor/love comparison; Chapter 129 / Kural 1281 | verified |
+| 117–118 | 100–101 | Valluvar/student/hunter/deer; Chapter 30 / Kurals 292, 293 | verified |
+| 119–120 | 102–103 | husband/wife and eyeliner analogy; Chapter 129 / Kural 1285 | verified |
+| 121–123 | 104–106 | merchant/rest-house; Chapter 51 / Kural 510 | verified |
+| 124–125 | 107–108 | young-woman/heart; Chapter 130 / Kural 1291 | verified |
+| 126–127 | 109–110 | Gandhi; Chapter 83 / Kural 828 | verified |
+| 128–129 | 111–112 | sneezing/lovers; Chapter 132 / Kurals 1317, 1312 | verified |
+| 130–131 | 113–114 | elderly-man/public-meeting; Chapter 10 / Kural 100 | verified |
+| 132–133 | 115–116 | lovers' quarrel; Chapter 132 / Kurals 1313, 1320 | verified |
+| 134–135 | 117–118 | court music / taste; Chapter 42 / Kural 420 | verified |
+| 136–137 | 119–120 | princess/commander war-and-separation; Chapter 123 / Kural 1224 | verified |
+| 138–139 | 121–122 | owl/crows timing; Chapter 49 / Kural 481 | verified |
+| 140–141 | 123–124 | sisters/child/absent-lover; Chapter 125 / Kural 1244 | verified |
+| 142–143 | 125–126 | medical-hypocrisy; Chapter 28 / Kural 277 | verified |
+| 144–145 | 127–128 | secret meeting; Chapter 115 / Kural 1146 | verified |
+| 146–147 | 129–130 | physician/tiger; Chapter 47 / Kural 469 | verified |
+| 148–149 | 131–132 | separated woman/moon; Chapter 121 / Kural 1210 | verified |
+| 150–152 | 133–135 | `தெளிந்தான்` / `நெளிந்தான்`; Chapter 15 / Kurals 142, 145 | verified |
+| 153 | 136 | woman addressing her own heart; Chapter 125 / Kural 1246 | verified |
+| 154–155 | 137–138 | lovers / `ஊடல்`; Chapter 133 / Kural 1326 | verified |
+| 156–157 | 139–140 | crowd/knife and critical inquiry; Chapter 43 / Kural 423 | verified |
+| 158–159 | 141–142 | Maavengko/Maangani foreign-trade and separation; Chapter 116 / Kural 1151 | verified |
+| 160–161 | 143–144 | elephant / terrain / strength; Chapter 50 / Kural 500 | verified |
+| 162–163 | 145–146 | Malaiyan/Silamban/Kalingan slander; Chapter 19 / Kural 188 | verified |
+| 164–165 | 147–148 | one-sided love / kavadi; Chapter 120 / Kural 1196 | verified |
+| 166–167 | 149–150 | medical/valor; Chapter 62 / Kural 614 | verified |
+| 168–169 | 151–152 | love/heart; Chapter 130 / Kural 1293 | verified |
+| 170–171 | 153–154 | Socrates/prison/poison; Chapter 58 / Kural 580 | verified |
+| 172–173 | 155–156 | lovers/separation; Chapter 128 / Kural 1280 | verified |
+| 174–175 | 157–158 | battlefield/war-elephant; Chapter 60 / Kural 597 | verified |
+| 176–178 | 159–161 | love/separation-night; scan 177 illustration-only; Chapter 117 / Kurals 1168, 1169 | verified |
+| 179–180 | 162–163 | king/minister/two-spies; Chapter 63 / Kural 621 and Chapter 59 / Kural 588 | verified |
+| 181–183 | 164–166 | moonlit-seaside lovers; Chapter 132 / Kural 1316 | verified |
+| 184–186 | 167–169 | flood/rescue and human effort; Chapter 38 / Kural 380 and Chapter 62 / Kural 620 | verified |
+| 187–188 | 170–171 | separation/evening; Chapter 123 / Kural 1222 | verified |
+| 189–190 | 172–173 | snake/Muthuvelar autobiographical; Chapter 63 / Kural 622 | verified |
+| 191–192 | 174–175 | lovers / `ஊடல்`; Chapter 133 / Kurals 1321, 1323 | verified |
+| 193–194 | 176–177 | Kumanan/Saathanaar generosity; Chapter 23 / Kural 230 | verified |
+| 195–196 | 178–179 | returning-warrior/maiden; Chapter 109 / Kurals 1088, 1087, 1082 | verified |
+| 197–199 | 180–182 | praise/reversal; Chapter 63 / Kural 629 | verified |
+| 200–201 | 183–184 | lovers/embrace; Chapter 111 / Kural 1108 | verified |
+| 202–204 | 185–187 | battlefield/war-elephant; scan 203 illustration-only; Chapter 78 / Kural 774 | verified |
+| 205–206 | 188–189 | `அலர்` / gossip; Chapter 115 / Kural 1148 | verified |
+| 207–208 | 190–191 | battlefield command/courage; Chapter 78 / Kurals 776, 775 | verified |
+| 209–210 | 192–193 | separation/tear-flood; Chapter 117 / Kural 1170 | verified |
+| 211–212 | 194–195 | enemy-siege/treachery and mercy; Chapter 21 / Kural 203 | verified |
+| 213–214 | 196–197 | பூங்குழலி waiting / இனியவள் disguise; Chapter 130 / Kural 1297 | verified |
+| 215–216 | 198–199 | warrior departure/battlefield death; Chapter 78 / Kural 780 | verified |
+| 217–218 | 200–201 | domestic meal / salt analogy / `ஊடல்`; Chapter 131 / Kural 1302 | verified |
+| 219–220 | 202–203 | dying veteran / abandoned friendship; Chapter 80 / Kural 799 | verified |
+| 221–222 | 204–205 | pastoral / ஆயர்குடி; genuine 221→222 continuation; Chapter 128 / Kural 1275 | verified |
+
+Final Part 002 status: **111/111 textual verified; 111/111 visual fidelity verified; 0 partial; 0 source-limited; 0 needs-review**.
 
 ## Additional physical notes
 
@@ -136,6 +138,7 @@ Durable Pass 2A record: `../PASS2_TEXTUAL_VERIFICATION_PART_002.md`.
 Durable Part 002 Pass 2B record: `../PASS2B_LEXICAL_FIDELITY_PART_002.md`.
 Durable Part 002 Pass 3 record: `../PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md`.
 Durable Part 002 audit: `../PART_002_AUDIT.md`.
+Durable Part 002 final status sync: `../PART_002_FINAL_STATUS_SYNC.md`.
 
 ## Verification gates
 
@@ -149,12 +152,14 @@ Part 002:
 - Pass 2B — **COMPLETE, 111/111**, scans **112–222 / printed 95–205**;
 - Pass 3 — **COMPLETE, 111/111**, scans **112–222 / printed 95–205**;
 - Part audit — **PASS**;
-- final metadata/status synchronization — **NEXT**.
+- final metadata/status synchronization — **PASS / CLOSED, 111 textual verified + 111 visual verified**;
+- documentation synchronization — **COMPLETE**;
+- Tamil archival-ready checkpoint — **NEXT**.
 
 ## Current frontier
 
 **Part 001: CLOSED.**
 
-**Part 002: ACTIVE — all verification passes complete; Part audit PASS; final metadata/status synchronization NEXT.**
+**Part 002: ACTIVE — all Tamil verification and final status/documentation gates complete; Tamil archival-ready checkpoint NEXT.**
 
-Exact next activity: **Part 002 final metadata/status synchronization across all 111 records, scans 112–222 / printed 95–205**. Update final textual/visual status metadata from the completed verification and audit evidence without changing Tamil body wording. If any genuine source limitation is discovered, preserve it explicitly rather than forcing `verified`. Do not begin Part 003 before Part 002 is fully closed.
+Exact next activity: **Part 002 Tamil archival-ready checkpoint**. Confirm the closed evidence chain and final 111/111 verified disposition, record the archival-ready declaration durably without changing Tamil body wording, then move the frontier to the maintained Part 002 English translation/review workflow. Do not begin Part 003 before Part 002 completes its required maintained English and final Part closure workflow.
