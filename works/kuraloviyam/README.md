@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Current archival state |
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **source intake complete; Pass 1 COMPLETE 111/111; Pass 2A COMPLETE 111/111; Pass 2B ACTIVE 52/111** |
+| 002 | 112–222 | **source intake complete; Pass 1 COMPLETE 111/111; Pass 2A COMPLETE 111/111; Pass 2B ACTIVE 62/111** |
 | 003 | 223–333 | not-started |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
@@ -96,7 +96,9 @@ Batch 4, overall scans **142–152 / printed 125–135**, is **COMPLETE, 11/11**
 
 Batch 5, overall scans **153–163 / printed 136–146**, is **COMPLETE, 11/11**. New Pass 2B corrections were required only on scans **157 and 160**; scans **153, 154, 155, 156, 158, 159, 161, 162 and 163** required no new lexical correction. Newly restored readings are `நான் உதைத்தது தரையை அல்ல!` and `புராணிக் கற்பனையாளன்`.
 
-Pass 2B coverage: **52 / 111 scans**, overall scans **112–163 / printed 95–146**. Remaining Pass 2B: **59 scans**.
+Batch 6, overall scans **164–173 / printed 147–156**, is **COMPLETE, 10/10**. New Pass 2B corrections were required on scans **164, 168 and 169**; scans **165, 166, 167, 170, 171, 172 and 173** required no new lexical correction. Important restorations include `இந்தப் புவியிலுள்ள`, `என் கணிப்பு!`, the source's single continuous quotation on scan 164, `குங்கும நிறங்காட்டும்`, and source punctuation `ஆனால்.....ஆனால்.....`.
+
+Pass 2B coverage: **62 / 111 scans**, overall scans **112–173 / printed 95–156**. Remaining Pass 2B: **49 scans**.
 
 Full Pass 2B results are maintained in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
 
@@ -104,7 +106,7 @@ Pass 2B is **not** final verification. All Part 002 records remain `needs-review
 
 ## Current frontier
 
-Exact next activity: **Part 002 Pass 2B independent lexical-fidelity re-read — overall scans 164–173 / printed pages 147–156**.
+Exact next activity: **Part 002 Pass 2B independent lexical-fidelity re-read — overall scans 174–183 / printed pages 157–166**.
 
 Pass 2B must remain an independent source re-read rather than a mechanical confirmation of Pass 2A. Re-render/read the controlling scans directly and compare every source-visible word, punctuation mark, paragraph/quotation boundary, Kural lineation and printed `அதிகாரம்` / பாடல் metadata. Record and correct only newly source-supported discrepancies.
 
