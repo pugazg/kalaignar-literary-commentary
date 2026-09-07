@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Continuation of தெளிந்தான்/நெளிந்தான் vignette; contains Kural 142 and continues to scan 152"
+visual_notes: "Text-only continuation of the தெளிந்தான்/நெளிந்தான் vignette; distinct highlighted two-line Kural 142 block embedded within the dialogue/prose flow, recurring vertical side banner and printed page 134; continues to scan 152"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -34,8 +34,8 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 “குறளில் மூன்றாவது பால் தெரியுமா என்றா கேட்கிறாய்? மூடனே, முதற்பால் அறத்துப்பாலைப் படித்துப் பார்! அப்போது புரியும் உனக்கு!
 
-“அறன்கடை நின்றாருள் எல்லாம் பிறன்கடை
-நின்றாரின் பேதையார் இல்.”
+> “அறன்கடை நின்றாருள் எல்லாம் பிறன்கடை  
+> நின்றாரின் பேதையார் இல்.”
 
 இந்தக் குறளுக்குப் பொருள் விளங்குகிறதா? சொல்லுகிறேன் கேள்! அறத்தை விட்டுத் தீய வழிகளில் நின்றவர்கள் எல்லாரையும்விட, பிறனுடைய மனைவியை விரும்பி அந்த வீட்டு வாயிலில் போய் நின்றவர்கள் அறிவிலிகள். ஆம்! அவர்களைப்போல் அறமொழிந்த அறிவிலிகளே இல்லை.”
 
