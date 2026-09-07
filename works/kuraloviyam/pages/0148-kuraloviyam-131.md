@@ -5,14 +5,18 @@ part_page: 37
 printed_page: "131"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large illustration of separated woman addressing the moon; prose begins and continues directly to scan 149"
+visual_notes: "Large colour illustration physically above the prose showing a separated woman addressing the moon beneath a giant pair of eyes; recurring vertical side banner and printed page 131; prose continues directly into scan 149"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour illustration showing a separated woman looking up toward the moon beneath a giant pair of eyes.
 
 “நிலவு நெருப்பாகச் சுடுகிறதே - அய்யோ! கொடுமை நிறைந்த நிலவே! உனக்குத் தண்ணிலவு என்று பெயராயிற்றே; என்மீது எதற்காகத் தணலைக் கொட்டுகிறாய்?” என, முழுமதியின் மீது சினங்கொப்பளிக்கச் சீறிவிழும் மங்கை யார் உண்டு, மார்புறத் தழுவி மகிழ்ந்த மணாளனைப் பிரிந்திருக்கும்போது!
 
