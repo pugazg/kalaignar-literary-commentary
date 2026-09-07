@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Current archival state |
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **source intake complete; Pass 1 COMPLETE 111/111; Pass 2A COMPLETE 111/111; Pass 2B ACTIVE 83/111** |
+| 002 | 112–222 | **source intake complete; Pass 1 COMPLETE 111/111; Pass 2A COMPLETE 111/111; Pass 2B ACTIVE 93/111** |
 | 003 | 223–333 | not-started |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
@@ -102,7 +102,9 @@ Batch 7, overall scans **174–183 / printed 157–166**, is **COMPLETE, 10/10**
 
 Batch 8, overall scans **184–194 / printed 167–177**, is **COMPLETE, 11/11**. New Pass 2B corrections were required on scans **184, 186, 189, 190, 192 and 194**; scans **185, 187, 188, 191 and 193** required no new lexical correction. Important restorations include `தூக்கிபெயரியப்பட்டுத்`, `படுத்திருந்தன.`, `ஈடுபடுகின்றவர்கள்`, `ஊசி போன்ற`, `ஒரு மிருகமாகவும்`, the 189→190 continuation `தன்னைக் காத்துக்கொள்ளவே`, source-visible `பாம்பினால் ஏற்பட்ட இருந்த துன்பம் அகன்றது!`, `மாவிலைகள்`, and source punctuation `ஒருநாள்- அதுவும்`.
 
-Pass 2B coverage: **83 / 111 scans**, overall scans **112–194 / printed 95–177**. Remaining Pass 2B: **28 scans**.
+Batch 9, overall scans **195–204 / printed 178–187**, is **COMPLETE, 10/10**. The only new Pass 2B correction was on scan **201**: source-visible `இரண்டாயிரம் ஆண்டுக்கு முன்பே` → `இரண்டாயிரம் ஆண்டுகட்கு முன்பே`. Scans **195, 196, 197, 198, 199, 200, 202, 203 and 204** required no new lexical correction; scan **203 / printed 186** is full-page illustration only, with direct narrative continuity from scan 202 to scan 204 independently confirmed.
+
+Pass 2B coverage: **93 / 111 scans**, overall scans **112–204 / printed 95–187**. Remaining Pass 2B: **18 scans**.
 
 Full Pass 2B results are maintained in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
 
@@ -110,7 +112,7 @@ Pass 2B is **not** final verification. All Part 002 records remain `needs-review
 
 ## Current frontier
 
-Exact next activity: **Part 002 Pass 2B independent lexical-fidelity re-read — overall scans 195–204 / printed pages 178–187**.
+Exact next activity: **Part 002 Pass 2B independent lexical-fidelity re-read — overall scans 205–214 / printed pages 188–197**.
 
 Pass 2B must remain an independent source re-read rather than a mechanical confirmation of Pass 2A. Re-render/read the controlling scans directly and compare every source-visible word, punctuation mark, paragraph/quotation boundary, Kural lineation and printed `அதிகாரம்` / பாடல் metadata. Record and correct only newly source-supported discrepancies.
 
