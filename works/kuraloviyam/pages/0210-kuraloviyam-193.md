@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Continuation and close of the separation/tear-flood vignette begun on scan 209; closes with Chapter 117 / Kural 1170; scan 211 begins a new illustrated sword/warriors vignette"
+visual_notes: "Text-only continuation and close of the separation/tear-flood vignette begun on scan 209; source-highlighted Kural 1170 is a distinct two-line block above Chapter 117 metadata; scan 211 begins a new illustrated source unit"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -36,8 +36,8 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 இந்த ஓவியம் தீட்டக் கிடைத்த குறள்தான் இது;
 
-“உள்ளம்போன்று உள்வழிச் செல்கிற்பின் வெள்ளநீர்
-நீந்தல மன்னோஎன் கண்.”
+> உள்ளம்போன்று உள்வழிச் செல்கிற்பின் வெள்ளநீர்  
+> நீந்தல மன்னோஎன் கண்.
 
 அதிகாரம் - 117     -     படர்மெலிந்திரங்கல்;     பாடல் - 1170
 
