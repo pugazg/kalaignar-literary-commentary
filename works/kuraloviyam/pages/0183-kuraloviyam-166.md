@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Continuation and close of the moonlit-seaside lovers vignette begun on scan 181; closes with Chapter 132 / Kural 1316"
+visual_notes: "Continuation and close of the moonlit-seaside lovers vignette begun on scan 181; distinct highlighted Kural 1316 block, Chapter 132 metadata, recurring side banner and printed page 166"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -42,8 +42,8 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 இந்த ஊடலுக்கு வள்ளுவர் தீட்டிய குறள் இதோ:-
 
-“உள்ளினேன் என்றேன்மற்று என்மறந்தீர் என்றென்னைப்
-புல்லாள் புலத்தக் கனள்”
+> உள்ளினேன் என்றேன்மற்று என்மறந்தீர் என்றென்னைப்  
+> புல்லாள் புலத்தக் கனள்
 
 அதிகாரம் - 132     -     புலவி நுணுக்கம்;     பாடல் - 1316
 
