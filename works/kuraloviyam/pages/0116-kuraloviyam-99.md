@@ -5,14 +5,18 @@ part_page: 5
 printed_page: "99"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Colour illustration above the prose showing a woman and a man; page closes with a highlighted Kural block; printed page 99"
+visual_notes: "Colour illustration physically above the prose showing a woman and a man; prose closes with a highlighted Kural block and printed Chapter 129 / பாடல் 1281 metadata; printed page 99"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Colour illustration above the prose showing a woman standing opposite a reclining/seated man.
 
 எலுமிச்சம் பழத்தைச் சுவைக்காமலிருக்கும்போதே - நேரிலே காணும் போதே நாவிலே நீர் ஊறுகிறது; புளிப்பு உணர்ச்சியால் ஆட்கொள்ளப் படுகிறோம். ஆனால், மனிதனை நிலை தடுமாறச் செய்யும் சக்திபெற்ற மதுவை நினைப்பதாலோ - நேரில் காண்பதாலோ ‘போதை’ உணர்ச்சி அவனை ஆட்டிப் படைப்பதில்லை. அதை அருந்திய பிறகே மயக்கமும் அது தரும் மன உற்சாகமும், இன்பவெறியும் தலைபெடுக்கிறது. அதிகப் போதையில் வீழ்ந்தவனையும் நிமிரச் செய்யும் வல்லமை எலுமிச்சைக்கு உண்டு என்பார்கள். எலுமிச்சை, மதுவை வெல்லக் கூடியது; மதுவின் ஆதிக்கத்தை முறியடிக்கக் கூடியது. கள்ளைப் போலன்றிக் கண்ட மாத்திரத்தில் நாவில் புளிப்பு உணர்ச்சியைப் பொழியும் தன்மை வாய்ந்தது!
 
