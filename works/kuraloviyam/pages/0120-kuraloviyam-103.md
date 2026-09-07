@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Text-only continuation page closing the husband/wife vignette with a highlighted Kural block and a small Valluvar statue illustration near the foot; printed page 103"
+visual_notes: "Text-led continuation page closing the husband/wife vignette with a highlighted Kural block and Chapter 129 / பாடல் 1285 metadata; small Valluvar statue illustration centred below the text; printed page 103"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -34,5 +34,9 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 > பழிகாணேன் கண்ட விடத்து.
 
 அதிகாரம் - 129 - புணர்ச்சி விதும்பல்; பாடல் - 1285
+
+## Visual material
+
+Small Thiruvalluvar statue illustration centred below the text and metadata near the foot of the page.
 
 <!-- மூல ஸ்கேன் பக்கம்: 120; பகுதி 002 உள்ளூர் பக்கம்: 9; அச்சுப் பக்கம்: 103 -->
