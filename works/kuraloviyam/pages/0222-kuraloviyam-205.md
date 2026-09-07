@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Text-only continuation and close of the pastoral/ஆயர்குடி vignette begun on scan 221; closes with Chapter 128 / Kural 1275; final physical scan of Part 002"
+visual_notes: "Text-only continuation and close of the pastoral/ஆயர்குடி vignette begun on scan 221; source-highlighted Kural 1275 is a distinct two-line block above Chapter 128 metadata; final physical scan of Part 002"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -32,9 +32,9 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 என்று தனக்குத்தானே சொல்லிக்கொண்டு மகிழ்ச்சியடைகிறான். அதனை விளக்கவே இந்தக் குறள்:
 
-“செறிதொடி செய்திறந்த கள்ளம் உறுதுயர்
-தீர்க்கு மருந்தொன்று உடைத்து.”
+> செறிதொடி செய்திறந்த கள்ளம் உறுதுயர்  
+> தீர்க்கு மருந்தொன்று உடைத்து.
 
 அதிகாரம் - 128     -     குறிப்பறிவுறுத்தல்;     பாடல் - 1275
 
-<!-- மூல ஸ்கேன் பக்கம்: 222; பகுதி 002 உள்ளூர் பக்கம்: 111; அச்சுப் பக்கம்: 205; closes pastoral/ஆயர்குடி vignette continued from scan 221; Chapter 128 / Kural 1275; final physical scan of Part 002 -->
+<!-- மூல ஸ்கேன் பக்கம்: 222; பகுதி 002 உள்ளூர் பக்கம்: 111; அச்சுப் பக்கம்: 205; closes pastoral/ஆயர்குடி vignette continued from scan 221; source-highlighted Kural 1275 is a distinct block; Chapter 128 / Kural 1275; final physical scan of Part 002 -->
