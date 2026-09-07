@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Continuation and close of the returning-warrior/maiden vignette begun on scan 195; closes with Chapter 109 / Kurals 1088, 1087 and 1082"
+visual_notes: "Text-only close of the returning-warrior/maiden vignette; source-highlighted Kurals 1087 and 1082 are distinct two-line blocks; closes with Chapter 109 / Kurals 1088, 1087 and 1082"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -18,8 +18,8 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 தேர்ப்படையை அடுத்து யானைப்படையையும் அவளிடமே காணுகிறான். அதை வள்ளுவர் தீட்டும் அழகே அழகு!
 
-“கடாஅக் களிற்றின்மேல் கட்படாம் மாதர்
-படாஅ முலைமேல் துகில்.”
+> கடாஅக் களிற்றின்மேல் கட்படாம் மாதர்  
+> படாஅ முலைமேல் துகில்.
 
 மாதருடைய சாயாத கொங்கைகளின் மேல் அணிந்துள்ள அழகிய மேலாடை, மதம் பிடித்த ஆண் யானையின் மேல் இட்ட முகபடாம் போன்று இருக்கிறது.
 
@@ -31,8 +31,8 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 போர்க்களத்தில் பகைவரைப் புறங்கண்ட அந்த மாவீரன், தன் எதிரே தேர்ப்படையாக, யானைப்படையாகத் தோற்றமளிக்கும் ஒரு தோகையைக் கண்டு எவ்வளவு தோல்வி மனப்பான்மைக்குத் தன்னை ஆளாக்கிக் கொள்கிறான் என்பதற்கு இந்தக் குறட்பாக்கள் அளிக்கும் விளக்கம், பலாச்சுளைபோல் இனிக்கிறதல்லவா?
 
-“நோக்கினாள் நோக்கெதிர் நோக்குதல் தாக்கணங்கு
-தானைக்கொண் டன்னது உடைத்து.”
+> நோக்கினாள் நோக்கெதிர் நோக்குதல் தாக்கணங்கு  
+> தானைக்கொண் டன்னது உடைத்து.
 
 அதிகாரம் - 109     -     தகையணங்குறுத்தல்;     பாடல்கள் - 1088, 1087, 1082
 
