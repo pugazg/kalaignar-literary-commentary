@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Continuation and close of the lovers/embrace vignette begun on scan 200; closes with Chapter 111 / Kural 1108; small Valluvar statue device below the metadata"
+visual_notes: "Text-only close of the lovers/embrace vignette begun on scan 200; source-highlighted Kural 1108 is a distinct two-line block above Chapter 111 metadata; small centred Valluvar statue device is below the metadata"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -32,9 +32,13 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 என்று தழுவலின் சிறப்பைக் கூறுகிறது குறள்:
 
-“வீழும் இருவர்க்கு இனிதே வளியிடை
-போழப் படாஅ முயக்கு.”
+> வீழும் இருவர்க்கு இனிதே வளியிடை  
+> போழப் படாஅ முயக்கு.
 
 அதிகாரம் - 111     -     புணர்ச்சி மகிழ்தல்;     பாடல் - 1108
+
+## Visual material
+
+Small centred Valluvar statue device below the chapter/song metadata.
 
 <!-- மூல ஸ்கேன் பக்கம்: 201; பகுதி 002 உள்ளூர் பக்கம்: 90; அச்சுப் பக்கம்: 184; closes lovers/embrace vignette; Chapter 111 / Kural 1108 -->
