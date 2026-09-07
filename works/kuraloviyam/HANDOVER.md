@@ -54,7 +54,7 @@ Never fill uncertain Tamil from OCR, web text, another edition, standard Kural w
 - Pass 1 — COMPLETE, **111/111** scans 112–222;
 - Pass 2A — COMPLETE, **111/111**, scans **112–222 / printed 95–205**;
 - Pass 2B — COMPLETE, **111/111**, scans **112–222 / printed 95–205**;
-- Pass 3 — **ACTIVE, 72/111**, scans **112–183 / printed 95–166** complete;
+- Pass 3 — **ACTIVE, 83/111**, scans **112–194 / printed 95–177** complete;
 - Part audit — not started.
 
 All Part 002 page records intentionally remain `status: "needs-review"` / `visual_fidelity: "needs-review"`. Pass 3 progress does not authorize final `verified`; the whole Pass 3, Part audit and final status synchronization still must close.
@@ -176,11 +176,21 @@ Eight page records received source-supported structural-only corrections:
 
 Scan **177** is a full-page illustration-only continuation and already matched its source role; scan **182** is a text-only continuation and also required no page-record correction. **No Tamil lexical wording changed during Pass 3 Batch 7.**
 
-Pass 3 coverage: **72/111**, scans **112–183 / printed 95–166**. Remaining Pass 3: **39 scans**. Full details are durable in `PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md`.
+Batch 8 — scans **184–194 / printed 167–177** — **COMPLETE, 11/11** by fresh direct meaningful visual-text comparison.
+
+All eleven page records received source-supported structural-only corrections:
+
+- scans **184, 187, 189, 191 and 193**: restored physical illustration-before-prose order with `## Visual material` blocks and `body-illustrated` page typing;
+- scans **185, 186, 188, 190, 192 and 194**: restored source-highlighted Kural blocks as distinct block structures;
+- scan **186** additionally separates the small centred Valluvar-monument illustration below Chapter 38 / Kural 380 and Chapter 62 / Kural 620 metadata.
+
+**No Tamil lexical wording changed during Pass 3 Batch 8.**
+
+Pass 3 coverage: **83/111**, scans **112–194 / printed 95–177**. Remaining Pass 3: **28 scans**. Full details are durable in `PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md`.
 
 ## Exact current activity
 
-Continue **Part 002 Pass 3 — meaningful visual-text verification**, Batch 8: **overall scans 184–194 / printed pages 167–177**.
+Continue **Part 002 Pass 3 — meaningful visual-text verification**, Batch 9: **overall scans 195–204 / printed pages 178–187**.
 
 Pass 3 must freshly render/read the controlling scans and verify:
 
