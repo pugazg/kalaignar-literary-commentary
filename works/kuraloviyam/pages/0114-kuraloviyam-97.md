@@ -5,14 +5,18 @@ part_page: 3
 printed_page: "97"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large colour illustration above the prose showing three men in a mountain landscape; printed page 97"
+visual_notes: "Large colour illustration physically above the prose showing three male figures in a mountain landscape; recurring vertical side banner and printed page 97"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour illustration showing two men facing a third young man in a mountain landscape with a waterfall in the background.
 
 கல்லைக் கலையாக்கும் சிற்பியொருவனும் சித்திரங்களைப் பேசவைக்கும் ஓவியன் ஒருவனும் இயற்கைக் காட்சிகளைக் கண்டு மகிழ்ந்தவாறு மலைச்சாரலில் நடந்து கொண்டிருந்தனர். இளங்காற்றின் இன்பத்தழுவல் அவர்தம் கற்பனை உள்ளத்திற்கு அமுதமாக இருந்தது. கரிய யானைகளும் வெள்ளைக் குதிரைகளும் மலைமுகடுகளில் நடைபழகுவதுபோல, வான்முகில்கள் பல்வேறு வடிவங்களில் பரவிக்கிடந்தன. இருவரும் தாங்கள் படைத்த அற்புதக் கலைகளைப்பற்றி ஒருவரோடொருவர் உரையாடி மகிழ, அந்த வளம் கொஞ்சும் பகுதி ஏற்றதாக இருந்ததை உணர்ந்து, உவகை கொண்டனர். பெருங்காற்றில் வேகமாக அசைந்தாடும் நரை மூதாட்டியின் வெள்ளிய கூந்தலையொத்துத் தொலைவில் காட்சி தந்த நீர்வீழ்ச்சியைப் போல, தான் ஓர் ஓவியம் தீட்டியிருப்பதாகப் பெருமைப்பட்டுக் கொண்ட நண்பனைப் பார்த்து, “அதோ மயிலாடுவதை, மான் ஒன்று பார்த்துக் கொண்டு நிற்கிறதே, அதேபோலச் சிற்பமொன்று நேற்றுத்தான் கல்லில் வடித்து முடித்தேன்” என்று களிப்புமிகக் கூறினான் அந்தச் சிற்பி.
 
