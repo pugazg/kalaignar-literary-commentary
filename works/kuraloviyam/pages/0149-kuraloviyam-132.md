@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Text-only continuation and close of moon/separation vignette; Chapter 121 / Kural 1210"
+visual_notes: "Text-only continuation and closure of moon/separation vignette; distinct highlighted two-line Kural 1210 block above Chapter 121 metadata, small centred Valluvar-monument illustration below, recurring vertical side banner and printed page 132"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -22,9 +22,13 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 அதற்கு இதோ குறள்:
 
-“விடாஅது சென்றாரைக் கண்ணினால் காணப்
-படாஅதி வாழி மதி.”
+> “விடாஅது சென்றாரைக் கண்ணினால் காணப்  
+> படாஅதி வாழி மதி.”
 
 அதிகாரம் - 121 - நினைந்தவர் புலம்பல்; பாடல் - 1210
+
+## Visual material
+
+Small printed Valluvar-monument illustration centred below the authority/song metadata.
 
 <!-- மூல ஸ்கேன் பக்கம்: 149; பகுதி 002 உள்ளூர் பக்கம்: 38; அச்சுப் பக்கம்: 132; closes vignette -->
