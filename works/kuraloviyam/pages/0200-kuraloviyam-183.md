@@ -5,14 +5,18 @@ part_page: 89
 printed_page: "183"
 work: "kuraloviyam"
 section: "கலைஞரின் குறளோவியம்"
-page_type: "body-prose"
+page_type: "body-illustrated"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large color illustration of an embracing reclining couple; new lovers/embrace vignette begins at the clean 199→200 boundary and continues directly to scan 201"
+visual_notes: "Large color illustration of an embracing reclining couple is physically above the prose; new lovers/embrace vignette begins at the clean 199→200 boundary and continues directly to scan 201"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
 ---
+
+## Visual material
+
+Large colour illustration of an embracing reclining couple beneath a dark sky.
 
 கன்னத்துடன் கன்னம் பதித்து கட்டித் தழுவினர்.
 
