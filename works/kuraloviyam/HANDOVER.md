@@ -21,9 +21,10 @@ Read before source-dependent changes:
 7. `works/kuraloviyam/PART_002_PASS1_PROGRESS.md`
 8. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_002.md`
 9. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_002.md`
-10. `works/kuraloviyam/indexes/page-map.md`
-11. `works/kuraloviyam/metadata/source.md`
-12. `works/kuraloviyam/metadata/transcription-policy.md`
+10. `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md`
+11. `works/kuraloviyam/indexes/page-map.md`
+12. `works/kuraloviyam/metadata/source.md`
+13. `works/kuraloviyam/metadata/transcription-policy.md`
 
 Permanent cadence:
 
@@ -53,10 +54,10 @@ Never fill uncertain Tamil from OCR, web text, another edition, standard Kural w
 - Pass 1 — COMPLETE, **111/111** scans 112–222;
 - Pass 2A — COMPLETE, **111/111**, scans **112–222 / printed 95–205**;
 - Pass 2B — COMPLETE, **111/111**, scans **112–222 / printed 95–205**;
-- Pass 3 — **not started**;
+- Pass 3 — **ACTIVE, 10/111**, scans **112–121 / printed 95–104** complete;
 - Part audit — not started.
 
-All Part 002 page records intentionally remain `status: "needs-review"` / `visual_fidelity: "needs-review"`. Pass 2B completion does not authorize final `verified`; Pass 3 and the Part audit still must close.
+All Part 002 page records intentionally remain `status: "needs-review"` / `visual_fidelity: "needs-review"`. Pass 3 progress does not authorize final `verified`; the whole Pass 3, Part audit and final status synchronization still must close.
 
 ## Pass 2A closure
 
@@ -105,11 +106,25 @@ Final Batch 11 source-supported corrections:
 
 Scans **215, 217, 218, 219, 220 and 222** required no new lexical correction in Batch 11. Kural wording/lineation, printed chapter/song metadata, page continuations and the non-body blue library stamp on scan 218 were independently confirmed.
 
-Pass 2B coverage is now **111/111**, scans **112–222 / printed 95–205**. Remaining Pass 2B: **0**. Full details are durable in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
+Pass 2B coverage is **111/111**, scans **112–222 / printed 95–205**. Full details are durable in `PASS2B_LEXICAL_FIDELITY_PART_002.md`.
+
+## Pass 3 — ACTIVE
+
+Batch 1 — scans **112–121 / printed 95–104** — **COMPLETE, 10/10** by fresh direct meaningful visual-text comparison.
+
+Seven page records received source-supported structural-only corrections:
+
+- scans **112, 114, 116, 117, 119 and 121**: restored the physical large-illustration-before-prose relationship with `## Visual material` blocks and `body-illustrated` page typing;
+- scan **120**: represented the small centred Thiruvalluvar statue below the Kural/metadata as a separate visual-material block;
+- scan **117** also records a partial blue circular library stamp in the lower margin as non-body material.
+
+Scans **113, 115 and 118** required no page-record correction. Their prose/quotation organization, highlighted Kural blocks, printed metadata, recurring page furniture and scan 118 lower-margin library stamp already match the source meaningfully. **No Tamil lexical wording changed during Pass 3 Batch 1.**
+
+Pass 3 coverage: **10/111**, scans **112–121 / printed 95–104**. Remaining Pass 3: **101 scans**. Full details are durable in `PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md`.
 
 ## Exact current activity
 
-Begin **Part 002 Pass 3 — meaningful visual-text verification**, Batch 1: **overall scans 112–121 / printed pages 95–104**.
+Continue **Part 002 Pass 3 — meaningful visual-text verification**, Batch 2: **overall scans 122–131 / printed pages 105–114**.
 
 Pass 3 must freshly render/read the controlling scans and verify:
 
@@ -121,6 +136,6 @@ Pass 3 must freshly render/read the controlling scans and verify:
 - non-body handwriting/stamps/marks;
 - physical continuation across page boundaries.
 
-Textual corrections are allowed only when Pass 3 exposes a directly source-supported discrepancy. Otherwise the purpose of this stage is to close meaningful visual fidelity. Keep `status: "needs-review"` until the later Part audit/final-status synchronization; update `visual_fidelity` only according to the Pass 3 workflow and source evidence.
+Page records are rewritten only when direct source comparison finds a structural mismatch. Textual corrections are allowed only when Pass 3 exposes a directly source-supported discrepancy. Otherwise record the no-change visual result in the Pass 3 control log. Keep all Part 002 page statuses `needs-review` until the later Part audit/final-status synchronization.
 
 Do not begin Part 003 before Part 002 is fully closed.
