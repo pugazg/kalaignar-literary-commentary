@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,7 +19,7 @@ With a bright face the warrior asked leave. A new light shone in his eyes. He lo
 
 He spoke to them again—yes, for the last time:
 
-“You are astonished by me? You wonder why there is turmoil in the eyes of one who is disturbed by nothing, do you not? Do you think I grieve because I am embracing a natural death instead of dying from a spear wound on the battlefield? That sorrow exists, but a still greater pain has struck me now. Yes! It is a suffering I could not forget even until death. That is why I have become shaken. I am not shaken by death! Do you remember? Ten years ago, when I commanded the battle against the army of Pazhayanur, the camp where I stayed was set on fire. The enemy surrounded us. One of my commanders was nowhere to be seen. He was not merely my commander, but also my friend from youth. While I stood in anguish wondering what had happened to him, he abandoned me in danger and fled, thinking only of saving his own life. I, my warriors, and the commanders who remained fought to the end, drove back the Pazhayanur army and survived. Now I remembered what that friend did. I became shaken.”
+“Are you astonished at me? You wonder why there is turmoil in the eyes of one who is disturbed by nothing, do you not? Do you think I grieve because I am embracing a natural death instead of dying from a spear wound on the battlefield? That sorrow exists, but a still greater pain has struck me now. Yes! It is a suffering I could not forget even until death. That is why I have become shaken. I am not shaken by death! Do you remember? Ten years ago, when I commanded the battle against the army of Pazhayanur, the camp where I stayed was set on fire. The enemy surrounded us. One of my commanders was nowhere to be seen. He was not merely my commander, but also my friend from youth. While I stood in anguish wondering what had happened to him, he abandoned me in danger and fled, thinking only of saving his own life. I, my warriors, and the commanders who remained fought to the end, drove back the Pazhayanur army and survived. Now I remembered what that friend did. I became shaken.”
 
 With those words the warrior closed his eyes. Life ceased. His body was drenched by a rain of tears.
 
