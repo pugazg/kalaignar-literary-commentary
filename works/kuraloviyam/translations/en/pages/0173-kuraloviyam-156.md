@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -25,7 +25,7 @@ She longed to pour out a thousand words and beg him not to leave.
 
 The castles she had built in her mind, imagining that this would be an incomparable night of pleasure, crumbled to dust.
 
-“My dear! I cannot bear to be separated from you tonight. Since morning my lips have been standing ready to battle with your lips, where the tender moustache has begun to spread. I had imagined that tonight, seeing us embrace perfectly from crown to sole until two bodies became one, even Kama himself would close his eyes in shyness. Is it right for you to go away contrary to all I had imagined? Do you not know that my body is burning like fire? Tell your friend that I will not let you come, and cool the passion of this woman; otherwise the fire of love will burn me to ashes.”
+“My dear! I cannot bear to be separated from you tonight. Since morning my lips have been standing ready to battle with your lips, where the tender moustache has begun to spread. I had imagined that tonight, seeing us embrace perfectly from crown to sole until two bodies became one, even Kama himself would close his eyes in shyness. Is it right for you to go away contrary to all I had imagined? Do you not know that my body is burning like fire? Tell your friend, ‘I am not coming,’ and cool the passion of this woman; otherwise the fire of love will burn me to ashes.”
 
 Enthizhai did not actually say all this to Vengai; she thought it. Yet her womanly reserve prevented her from letting those thoughts come out through her mouth. Then how did she express what she felt?
 
