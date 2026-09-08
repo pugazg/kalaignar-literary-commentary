@@ -13,9 +13,9 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 made every comfort available to the older man. The younger partner grew suspicious of him. The proprietor assigned the two of them a good room in which to stay. Then, turning to the older man, he began displaying his skill with words.
 
-“Even our local ruler once came and stayed at this inn. On another occasion the princess came here to rest before continuing on her way. At that time, all the nine-gem ornaments and garlands she wore were kept in my custody. Every merchant prince who comes to this harbour for import or export leaves his goods in my care. You may sleep here without the slightest fear.”
+“Even our local ruler once came and stayed at this rest-house. On another occasion the princess came here to rest before continuing on her way. At that time, all the nine-gem ornaments and garlands she wore were kept in my custody. Every merchant prince who comes to this harbour for import or export leaves his goods in my care. You may sleep here without the slightest fear.”
 
-The innkeeper's words strengthened the older man's trust. Very pleased, he went toward the bed to sleep. The proprietor did not let him go.
+The rest-house proprietor's words strengthened the older man's trust. Very pleased, he went toward the bed to sleep. The proprietor did not let him go.
 
 “Just one matter! I must speak to you in private,” he said. The older man agreed and went aside with him.
 
@@ -27,7 +27,7 @@ The innkeeper's words strengthened the older man's trust. Very pleased, he went 
 
 “Certainly! We have been conducting business together for many years.”
 
-“Please do not be angry with me! An incident once took place in this very inn.”
+“Please do not be angry with me! An incident once took place in this very rest-house.”
 
 “What incident was that?”
 
