@@ -24,7 +24,7 @@ Here is the Kural for it:
 > Sweeter than eating is the digestion of what was eaten;  
 > sweeter than union in love is lovers' quarrel.
 
-Chapter 133 — Delight in Lovers' Quarrel; Kural 1326
+Chapter 133 — Joy of Lovers' Quarrel; Kural 1326
 
 ## Visual material
 
