@@ -57,7 +57,7 @@ Durable declaration:
 
 ## Part 002 English — ACTIVE
 
-First-pass drafting status: **99/111 complete**.
+First-pass drafting status: **110/111 complete**.
 
 Completed:
 
@@ -70,15 +70,16 @@ Completed:
 - **Batch 7: scans 178–188 / printed 161–171 — 11 draft records.**
 - **Batch 8: scans 189–199 / printed 172–182 — 11 draft records.**
 - **Batch 9: scans 200–210 / printed 183–193 — 11 draft records.**
+- **Batch 10: scans 211–221 / printed 194–204 — 11 draft records.**
 
-The draft layer preserves Tamil page alignment, visual-material placement, quoted/Kural blocks, Chapter/Kural metadata and cross-page continuations. Batch 9 preserves **200→201**, **202→203→204** with scan 203 illustration-only, **205→206**, **207→208** and **209→210**, with clean source boundaries at **199→200**, **204→205** and **210→211**.
+The draft layer preserves Tamil page alignment, visual-material placement, quoted/Kural blocks, Chapter/Kural metadata and cross-page continuations. Batch 10 preserves **211→212**, **213→214**, **215→216**, **217→218**, **219→220**, and begins the genuine **221→222** pastoral continuation without inventing closure at the batch boundary.
 
 No published/standard/web English Kural wording has been imported, and the closed Tamil layer has not been changed during English drafting.
 
 ## Current frontier
 
-Proceed with **Part 002 English first-pass draft Batch 10: scans 211–221 / printed 194–204**, 11 records.
+Proceed with the **final Part 002 first-pass drafting remainder: scan 222 / printed 205**, 1 record.
 
-Preserve the clean **210→211** source boundary when beginning scan 211. Use only the audited Tamil records as the normal working basis. After Batch 10, only **scan 222 / printed 205** remains as the final drafting remainder. Do not begin source-check until the full Part 002 first-pass draft is complete.
+Continue directly from scan 221 and close the pastoral/ayar-community vignette with Chapter 128 / Kural 1275. Only after scan 222 is drafted may Part 002 first-pass drafting be marked **111/111 COMPLETE** and source-check begin.
 
 See `TRANSLATION_STATUS.md` for the authoritative detailed frontier.
