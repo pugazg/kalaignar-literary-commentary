@@ -6,14 +6,14 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
 —were jumping and playing. Farmers stood sighing heavily as they looked at the ears of paddy floating with their heads bent in the fields. In the calm that followed the storm, it was mostly a background music of sorrow that could be heard. The river that ran through the middle of the village like a straight parting drawn across a head had lost its composure and was rushing along as though seized by madness. The heavy rain and storm were the cause of the river's fury. Leaves, branches and the carcasses of lambs and calves rode upon the river's shoulders.
 
-The village headman and his assistant walked along the bank, watching the force of the river. On the opposite bank stood a strongly built young man staring fixedly at the water. He was visibly agitated. The headman noticed him and questioned his assistant to clear his doubt.
+The village headman and his assistant walked along the bank, watching the force of the river. On the opposite bank stood a strongly built young man staring fixedly at the water. He was visibly agitated. The headman noticed him and asked his assistant to resolve his doubt.
 
 “Hey! The man standing on the opposite bank—is that not our Singan?”
 
@@ -29,7 +29,7 @@ Even as they spoke, Singan, standing on the opposite bank, jumped into the river
 
 “Wait, sir! Do not hurry. He knows how to swim,” said the assistant.
 
-Just as he said, Singan swam forward, trying to reach and save the fawn. Unable to master the violent current, he struggled.
+Just as he had said, Singan swam forward, trying to reach and save the fawn. Unable to master the violent current, he struggled.
 
 The headman said to his assistant:
 
