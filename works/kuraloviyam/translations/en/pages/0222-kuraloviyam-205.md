@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-That young man of the ayar community was named Alagan. Alagan also had an Alaguvalli. Though their love had not yet fully blossomed, both had surrendered their hearts to it.
+That young man of the ayar community was named Alagan. Alagan also had an Alaguvalli. Though their love had not yet fully blossomed, both had already lost their hearts to it.
 
 Each day, at the time when he drove the cattle home after grazing, Alaguvalli and her mother would come along that very path. They were accustomed to going to the neighbouring hamlets to sell milk, curd and butter and returning home before dusk.
 
@@ -25,7 +25,7 @@ Fortunately, Alaguvalli was standing behind her mother. With her long eyes she h
 
 The cattle, assuming that their herdsman was coming behind them, had gone a long distance away. Alagan alone stood motionless. Heat spread through his veins and nerves with the speed of lightning. A light of hope shone upon his face.
 
-“Ah! In that secret sign my beloved gave me as she went away, is there not a medicine mixed that will cure my sickness of love? Now my illness will leave.”
+“Ah! In that secret sign my beloved gave me as she went away, is there not medicine mixed to cure my sickness of love? Now my illness will leave.”
 
 So saying to himself, he rejoices. It is to explain this that the following Kural is given:
 
