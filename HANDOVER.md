@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 001 Pass 1 complete through scan 111**: **2026-09-03**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
+Last refreshed for Kuraloviyam **Part 003 Pass 1 through P3-04 / scan 266**: **2026-09-08**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
 
 ## Repository
 
@@ -177,8 +177,6 @@ Do not restart Pass 1. Do not resume scan-led lexical Pass 2 at scan 14.
 
 # Active source-ready work — குறளோவியம்
 
-The user supplied the first split of the Kuraloviyam source on **2026-09-03**.
-
 ## Mandatory startup — குறளோவியம்
 
 Before Kuraloviyam repository changes, read completely:
@@ -187,84 +185,99 @@ Before Kuraloviyam repository changes, read completely:
 2. `KURALOVIYAM_ARCHIVAL_GUIDELINES.md`
 3. root `HANDOVER.md`
 4. `NEXT_CHAT_PROMPT_KURALOVIYAM.md`
-5. `works/kuraloviyam/README.md`
-6. `works/kuraloviyam/SOURCE_INTAKE_PART_001.md`
+5. `works/kuraloviyam/HANDOVER.md`
+6. `works/kuraloviyam/README.md`
 7. `works/kuraloviyam/metadata/source.md`
 8. `works/kuraloviyam/metadata/transcription-policy.md`
 9. `works/kuraloviyam/indexes/page-map.md`
+10. `works/kuraloviyam/SOURCE_INTAKE_PART_003.md`
+11. `works/kuraloviyam/PART_003_PASS1_PROGRESS.md`
+12. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`
+13. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
+14. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
 
 Then inspect the actual supplied scan images before writing.
 
-## Kuraloviyam source identity
+## Kuraloviyam source family
 
 - source family: `TVA_BOK_0065733`
 - title: **குறளோவியம்**
 - author: **கலைஞர் மு. கருணாநிதி**
 - complete source extent reported by user: **666 physical PDF pages**
 - split plan: **6 parts × 111 pages**
-- canonical overall ranges:
-  - Part 001: 1–111
-  - Part 002: 112–222
-  - Part 003: 223–333
-  - Part 004: 334–444
-  - Part 005: 445–555
-  - Part 006: 556–666
-- overall `scan_page` numbering never restarts per split.
+- repository `scan_page` always uses overall 1–666 numbering.
 
-Current supplied source:
+## Closed state
 
-`TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf`
+- Part 001 Tamil: **CLOSED / archival-ready**.
+- Part 001 English: **CLOSED — 107 release-ready + 4 source-limited**.
+- Part 002 Tamil: **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified**.
+- Part 002 English: **RELEASE COMPLETE / CLOSED — 111/111 release-ready**.
 
-Part 001 has no usable parsed text layer. Rendered scan images are controlling.
+Do not reopen Part 001 or Part 002 from stale prompts unless a genuinely new source/provenance/fidelity problem appears.
 
-## Kuraloviyam Part 001 intake — COMPLETE
+## Part 003 — active source
 
-Confirmed:
+Controlling source:
 
-- local pages: **111/111**;
-- overall scans: **1–111**;
-- scan 1: front cover;
-- scans 2–3: title/publication/edition matter;
-- scans 4–17: front matter;
-- scan 18: main body begins at printed page **1**, heading `பேராசிரியர்`;
-- scan 111: printed page **94**.
+`TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf`
 
-## Kuraloviyam Part 001 Pass 1 — COMPLETE
+Confirmed identity:
 
-Page-aligned records now exist continuously for **overall scans 1–111: 111 / 111 physical scans captured**.
+- local pages: **111**;
+- overall scans: **223–333**;
+- printed pages: **206–316**;
+- file size: **93,488,924 bytes**;
+- SHA-256: `f07e7cdb3a6e786b0378e00bbe699a241be41c9e099c004a4faa90fa82b4239f`;
+- no usable parsed text layer; rendered scans control.
 
-Final captured ranges:
+Source intake: **PASS / COMPLETE**.
 
-- scans **99–101 / printed 82–84** — `ஊர்க்காவலன்` / tiger-danger vignette; delayed action leaves villagers to kill the tiger themselves, concluding with `நெடுநீர் மறவி மடிதுயில்...`;
-- scans **102–103 / printed 85–86** — lovers / waiting / planned `ஊடல்`, concluding with `புலப்பல் எனச்சென்றேன்...`;
-- scans **104–105 / printed 87–88** — வில்லவன் / unreliable-horse vignette, concluding with `அமரகத்து ஆற்றறுக்கும்...`;
-- scans **106–107 / printed 89–90** — கலிங்கன்–கதிரவன் anger-control vignette, concluding with `செல்லிடத்துக் காப்பான்...`;
-- scan **108 / printed 91** — lover-away / wall-tally vignette, concluding with `வாளற்றுப் புற்கென்ற...`;
-- scans **109–111 / printed 92–94** — learned-speaker / assembly vignette, concluding with `விரைந்து தொழில்கேட்கும்...` and `இணரூழ்த்தும் நாறா...`.
+## Part 003 Pass 1 — ACTIVE
 
-Printed-text records remain `needs-review` / `visual_fidelity: needs-review` after Pass 1. Scans **13–15** remain source-limited `partial`; their handwriting must not be guessed or reconstructed.
+User-directed normal iteration size: **11 physical scans**.
 
-Final Pass-1 page-batch audit:
+Current capture state: **44 / 111 scans — overall scans 223–266 / printed 206–249**.
 
-`a7898940a9935cc86b659c4dac9fe5e8c09401b4` → `bc45693fedf1619bc839fc516f6c19f0fa408be5`
+Completed batches:
 
-The comparison confirmed **11 sequential page commits**, exactly the expected eleven page files for scans **101–111**, and no unrelated file changes.
+- **P3-01 scans 223–233 / printed 206–216 — COMPLETE**;
+- **P3-02 scans 234–244 / printed 217–227 — COMPLETE**;
+- **P3-03 scans 245–255 / printed 228–238 — COMPLETE**;
+- **P3-04 scans 256–266 / printed 239–249 — COMPLETE**.
 
-Do not restart Pass 1 merely for stylistic harmonization. Pass 2 and Pass 3 are the source-check gates.
+Current internal boundaries:
+
+- **233→234 genuine continuation**;
+- **244→245 clean**;
+- **255→256 clean**;
+- **266→267 genuine continuation**.
+
+All Part-003 Pass-1 records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`. Pass 1 is capture/transcription only; do not claim source verification.
+
+P3-04 source units:
+
+- scans 256–257 — poverty / fire;
+- scans 258–259 — pottery / lovers;
+- scans 260–261 — Alagan / harsh-aunt / orphan; Chapter 13 / Kural 129;
+- scans 262–263 — moon / separation; Chapter 114 / Kural 1140;
+- scans 264–265 — Nallaan / Vallaan bear-and-friendship; Chapter 80 / Kural 796;
+- scan 266 — trade / separation begins and continues directly to scan 267.
+
+The external **333→334** boundary remains deferred until Part 004 intake; do not infer it.
 
 # Exact next activity — குறளோவியம்
 
 1. fetch live `main`;
 2. complete the Kuraloviyam mandatory startup reading above;
-3. resolve the already supplied Part 001 PDF;
-4. begin **Part 001 Pass 2 — textual verification**;
-5. process **overall scans 1–10**;
-6. compare each existing Markdown page record directly against the rendered source scan;
-7. verify source-visible wording, punctuation, paragraph boundaries, headings, quoted/Kural text, printed-page metadata and separation of printed text from handwriting/stamps/other non-source marks;
-8. correct only what the controlling scan visibly supports;
-9. do not modernize, normalize or replace wording from memory/web sources;
-10. do not claim Pass 3 visual-text verification during this textual-verification batch;
-11. preserve genuine source limitations as `partial` / `blocked` where applicable;
-12. audit the changed-file set before advancing to scans 11–20.
+3. resolve the supplied Part 003 PDF;
+4. process **P3-05 — overall scans 267–277 / printed 250–260, 11 physical pages**;
+5. begin scan **267 / printed 250** as the direct continuation of scan 266;
+6. create page-aligned Tamil records only for scans 267–277;
+7. preserve exact visible source wording, punctuation, paragraph/dialogue structure, Kural blocks, printed metadata and illustration/text relationships;
+8. keep new records at `needs-review` / `visual_fidelity: needs-review` unless a genuine source limitation requires otherwise;
+9. do not normalize, modernize, import standard/web Kural wording, use another edition, or guess from OCR/memory;
+10. inspect scan **278 / printed 261** only as a boundary witness when needed;
+11. synchronize Kuraloviyam progress/frontier documents and audit the exact changed-file set before advancing.
 
-Do not restart Pass 1. Do not begin Pass 3, the Part audit or English translation before Part 001 Pass 2 is complete.
+Next after successful P3-05: **P3-06 scans 278–288 / printed 261–271**.
