@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -17,7 +17,7 @@ The poet rose and walked out of the hall. His friend followed him.
 
 Nearby stood a small pavilion. There, the man who had offered all that praise had gathered four people around him and was talking. Hidden from sight, the poet and his friend listened.
 
-“What does this fellow know? I thought it even then—how could they take him and make him a court poet! He's a wanderer! Is that writing? It's a miserable fate written out! Is that speech? It's the howl of a ghost! His brain belongs in a furnace. The king has done a good thing!”
+“What does this fellow know? I thought it even then—how could they take him and make him a court poet! He's a wanderer! Is that writing? It's fate written out! Is that speech? It's the howl of a ghost! His brain belongs in a furnace. The king has done a good thing!”
 
 The poet's friend could not bear it. The poet calmed him.
 
