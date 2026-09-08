@@ -221,15 +221,15 @@ Part 002 covers scans **112–222 / printed 95–205**.
 - first-pass drafting: **COMPLETE 111/111**;
 - source-check: **COMPLETE 111/111**;
 - glossary reconciliation: **COMPLETE / CLOSED 111/111**;
-- editorial review: **ACTIVE 66/111**.
+- editorial review: **ACTIVE 99/111**.
 
 Editorial-review batching:
 
 - **ER1 scans 112–144 / printed 95–127 — COMPLETE 33/33**;
 - **ER2 scans 145–177 / printed 128–160 — COMPLETE 33/33**;
-- **ER3 scans 178–210 / printed 161–193 — NEXT 33 pages**;
-- **ER4 scans 211–222 / printed 194–205 — final 12-page remainder**.
+- **ER3 scans 178–210 / printed 161–193 — COMPLETE 33/33**;
+- **ER4 scans 211–222 / printed 194–205 — NEXT / final 12-page remainder**.
 
-Scans **112–177** are `editorial-reviewed`; scans **178–222** remain `source-checked` pending the remaining editorial batches. Scan **177** is illustration-only inside the genuine **176→177→178** continuation; scan 178 belongs to ER3.
+Scans **112–210** are `editorial-reviewed`; scans **211–222** remain `source-checked` pending ER4. Scan **203** is illustration-only inside **202→203→204**. The **210→211** boundary is clean; final **221→222** continuity must be preserved during ER4.
 
 Do not begin Part-level English review until editorial review reaches **111/111**. Part 003 remains blocked until Part 002 English review/release and final Part closure are complete.
