@@ -31,33 +31,30 @@ Part 002 covers scans **112–222 / printed 95–205**, 111 physical pages, and 
 ## Part 002 English — ACTIVE
 
 - first-pass drafting: **111/111 COMPLETE**;
-- source-check: **111/111 COMPLETE**;
-- glossary reconciliation: **0/111 — NEXT**;
+- source-check: **111/111 COMPLETE / CLOSED**;
+- glossary reconciliation: **15/111 ACTIVE**;
 - editorial review: **0/111**.
 
-Completed source-check:
+Source-check closed with **0 remaining draft pages** after eight batches, SC1–SC8.
 
-- **SC1 scans 112–126 — 15/15 source-checked**;
-- **SC2 scans 127–141 — 15/15 source-checked**;
-- **SC3 scans 142–156 — 15/15 source-checked**;
-- **SC4 scans 157–171 — 15/15 source-checked**;
-- **SC5 scans 172–186 — 15/15 source-checked**;
-- **SC6 scans 187–201 — 15/15 source-checked**;
-- **SC7 scans 202–216 — 15/15 source-checked**;
-- **SC8 scans 217–222 — final 6/6 source-checked**.
+Glossary reconciliation completed so far:
 
-Source-check is therefore **CLOSED at 111/111 with no remaining draft pages**. The final remainder preserved all source-supported continuations, including illustration-only scan **203** within **202→203→204**, lower-margin library-stamp material on **217–218**, and the genuine final **221→222** continuation.
+- **GR1 scans 112–126 / printed 95–109 — 15/15 reconciled**.
 
-Material fidelity fixes during the closing SC6–SC8 work removed unsupported English additions on scans **198, 199, 207 and 219**, and corrected scan **215** to preserve the source image `எதிரிகளின் முடி நடுவதற்கு` directly rather than the draft's invented “plant defeat” wording.
+GR1 made four page-level terminology corrections: scan **113** now uses controlled Chapter 133 label **Joy of Lovers' Quarrel**; scans **121–122** consistently use **rest-house** for `ஓய்வு விடுதி / விடுதி`; and scan **126** now uses established project form **Gandhi** for `காந்தியடிகள்`. `GLOSSARY.md` also records six newly encountered Part 002 chapter labels, recurring names **Marudhan / Marudha** and **Thenappan**, and context distinctions including **Kungumam / kumkum** and **Valluvam**.
 
-No Tamil archival record was changed and no published/standard/web English Kural wording was imported.
+The genuine **126→127** Gandhi continuation was checked as the GR1 boundary. Scan 127 remains `source-checked` for GR2 and still contains **Gandhiji**, which is an explicit next-batch terminology correction.
+
+Glossary reconciliation does not itself promote pages from `source-checked` to `editorial-reviewed`.
+
+No Tamil archival record was changed and no published/standard/web English Kural wording or terminology was imported.
 
 ## Current frontier
 
-Proceed with **Part 002 glossary reconciliation GR1: scans 112–126 / printed 95–109**, 15 consecutive records.
+Proceed with **Part 002 glossary reconciliation GR2: scans 127–141 / printed 110–124**, 15 consecutive records.
 
-Reconcile recurring names, controlled literary terms, chapter labels and repeated English renderings against `GLOSSARY.md` and audited Tamil context. Glossary reconciliation does not itself promote pages to `editorial-reviewed`.
+Begin by reconciling scan **127**'s `காந்தியடிகள்` occurrence to controlled **Gandhi**, then reconcile recurring names, controlled literary terms, chapter labels and repeated English renderings against `GLOSSARY.md` and audited Tamil context.
 
-Next after GR1: **GR2 scans 127–141 / printed 110–124**.
+Next after GR2: **GR3 scans 142–156 / printed 125–139**.
 
 See `TRANSLATION_STATUS.md` for the authoritative detailed frontier.
