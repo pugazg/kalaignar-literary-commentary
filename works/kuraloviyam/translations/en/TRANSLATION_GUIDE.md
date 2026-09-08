@@ -157,7 +157,7 @@ Do not begin a later Part until the active Part's required English review/releas
 
 **Current normal iteration size: 33 physical scan pages.**
 
-This user-directed cadence applies to active Kuraloviyam English **page-batched** workflow iterations. Historical completed batches retain the sizes at which they were actually processed. A final Part remainder may be shorter than 33 pages. Whole-Part gates are not subdivided merely to satisfy the page cadence.
+This user-directed cadence applies to active Kuraloviyam English page-batched workflow iterations. Historical completed batches retain the sizes at which they were actually processed. A final Part remainder may be shorter than 33 pages. Part-level review and release report are whole-Part gates.
 
 For first-pass drafting:
 
@@ -198,6 +198,14 @@ For Part-level review:
 - create a durable review record under `translations/en/reviews/`;
 - do **not** promote pages to `release-ready` at this gate.
 
+For release report:
+
+- use the completed Part-level review as the authoritative prior gate;
+- explicitly approve or block release;
+- if approved, promote only eligible `editorial-reviewed` pages to `release-ready` without changing wording;
+- preserve `source-limited` or `blocked` states where applicable;
+- record any deferred split-boundary check rather than inferring unsupplied source content.
+
 For every iteration or gate, fetch live `main` first, preserve newer durable state, update `TRANSLATION_STATUS.md`, and audit the exact changed-file set before advancing.
 
 ## 13. Historical Part 001 English record
@@ -222,16 +230,14 @@ Part 002 covers scans **112–222 / printed 95–205**.
 - source-check: **COMPLETE 111/111**;
 - glossary reconciliation: **COMPLETE / CLOSED 111/111**;
 - editorial review: **COMPLETE / CLOSED 111/111**;
-- Part-level review: **READY / NEXT**;
+- Part-level review: **PASS / CLOSED**;
+- release report: **READY / NEXT**;
 - release-ready: **0/111**.
 
-Editorial-review batching:
+Durable Part-level review: `reviews/PART_002_ENGLISH_REVIEW.md`.
 
-- **ER1 scans 112–144 / printed 95–127 — COMPLETE 33/33**;
-- **ER2 scans 145–177 / printed 128–160 — COMPLETE 33/33**;
-- **ER3 scans 178–210 / printed 161–193 — COMPLETE 33/33**;
-- **ER4 scans 211–222 / printed 194–205 — COMPLETE 12/12 / final remainder**.
+The Part-level review passed inventory/alignment, exact status state, terminology/names, chapter/Kural metadata, page functions/non-body material and accumulated continuities. All scans **112–222** remain `editorial-reviewed`. No page wording or status changed at the Part-review gate.
 
-All scans **112–222** are `editorial-reviewed`. The **210→211** boundary is clean; final **221→222** continuity is preserved and scan **222** closes Part 002.
+The internal Part ending at scan **222** is closed. The external **222→223** split boundary remains deferred until Part 003 intake.
 
-The exact next gate is the **Part 002 Part-level English review**. Create `reviews/PART_002_ENGLISH_REVIEW.md` following the Part 001 review precedent. Do not promote pages to `release-ready` until a subsequent release-report gate approves release. Part 003 remains blocked until Part 002 English release and final Part closure are complete.
+The exact next gate is the **Part 002 English release report**. Create `reviews/PART_002_ENGLISH_RELEASE_REPORT.md` following the Part 001 release-report precedent. If approved, promote all 111 eligible pages to `release-ready` without wording changes. Part 003 remains blocked until Part 002 release and final Part closure are complete.
