@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Current archival state |
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English first-pass COMPLETE 111/111; source-check COMPLETE 111/111; glossary reconciliation NEXT 0/111** |
+| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English first-pass COMPLETE 111/111; source-check COMPLETE 111/111; glossary reconciliation ACTIVE 15/111** |
 | 003 | 223–333 | not-started |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
@@ -38,33 +38,30 @@ Permanent cadence:
 **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
 
 - first-pass drafting: **111/111 COMPLETE**;
-- source-check: **111/111 COMPLETE**;
-- glossary reconciliation: **0/111 NEXT**;
+- source-check: **111/111 COMPLETE / CLOSED**;
+- glossary reconciliation: **15/111 ACTIVE**;
 - editorial review: **0/111**.
 
-Completed source-check batches:
+Source-check closed with **0 remaining draft pages** after SC1–SC8.
 
-- **SC1 scans 112–126 / printed 95–109 — 15/15**;
-- **SC2 scans 127–141 / printed 110–124 — 15/15**;
-- **SC3 scans 142–156 / printed 125–139 — 15/15**;
-- **SC4 scans 157–171 / printed 140–154 — 15/15**;
-- **SC5 scans 172–186 / printed 155–169 — 15/15**;
-- **SC6 scans 187–201 / printed 170–184 — 15/15**;
-- **SC7 scans 202–216 / printed 185–199 — 15/15**;
-- **SC8 scans 217–222 / printed 200–205 — final 6/6**.
+Completed glossary-reconciliation batches:
 
-Source-check is closed at **111/111**, with **0 remaining draft pages**. The closing remainder preserved the source's page functions and continuities, including illustration-only scan **203**, non-body library stamps on **217–218**, and the genuine **221→222** final continuation.
+- **GR1 scans 112–126 / printed 95–109 — 15/15**.
 
-Closing fidelity corrections removed unsupported English additions on scans **198, 199, 207 and 219** and corrected scan **215** so the source image `எதிரிகளின் முடி நடுவதற்கு` is not replaced by the draft's invented “plant defeat” phrase.
+GR1 reconciled scan **113** to Chapter 133 label **Joy of Lovers' Quarrel**; standardized `ஓய்வு விடுதி / விடுதி` as **rest-house** across scans **121–123** by correcting scans **121–122**; and reconciled scan **126** `காந்தியடிகள்` from **Gandhiji** to controlled **Gandhi**. `GLOSSARY.md` now records the new GR1 chapter labels and recurring narrative names **Marudhan / Marudha** and **Thenappan**, while keeping context distinctions such as publication **Kungumam** versus ordinary **kumkum**.
 
-No Tamil page record was changed and no published/standard/web English Kural wording was imported.
+Scan **126→127** is a genuine continuation. Scan 127 was inspected only as the GR1 boundary witness and remains for GR2; its existing **Gandhiji** form must be reconciled to **Gandhi** in that batch.
+
+Glossary reconciliation does not promote `source-checked` pages to `editorial-reviewed`.
+
+No Tamil page record was changed and no published/standard/web English Kural wording or terminology was imported.
 
 ## Current frontier
 
-**Next activity: Part 002 English glossary reconciliation GR1 — scans 112–126 / printed 95–109, 15 records.**
+**Next activity: Part 002 English glossary reconciliation GR2 — scans 127–141 / printed 110–124, 15 records.**
 
-Use `GLOSSARY.md`, the source-checked English pages and audited Tamil context to reconcile recurring names, work/section names, controlled literary terms, chapter labels and repeated English renderings. Do not promote pages to `editorial-reviewed` at this gate.
+Use current `GLOSSARY.md`, the source-checked English pages and audited Tamil context. Begin with scan **127**'s Gandhi form, then reconcile recurring names, controlled literary terms, chapter labels and repeated English renderings. Do not promote pages to `editorial-reviewed` at this gate.
 
-Next after GR1: **GR2 scans 127–141 / printed 110–124**.
+Next after GR2: **GR3 scans 142–156 / printed 125–139**.
 
 Do not begin Part 003 before Part 002 glossary reconciliation, editorial review, Part-level review, release report and final Part closure are complete.
