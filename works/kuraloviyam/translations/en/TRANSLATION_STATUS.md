@@ -34,12 +34,12 @@ Final Tamil state: **111 textual verified / 111 visual verified / 0 exceptions**
 - first-pass drafting: **111/111 — COMPLETE**;
 - source-check: **111/111 — COMPLETE / CLOSED**;
 - glossary reconciliation: **111/111 — COMPLETE / CLOSED**;
-- editorial review: **0/111 — READY / NEXT**;
+- editorial review: **33/111 — ACTIVE**;
 - Part-level English review: not started;
 - release report: not started;
 - release-ready: **0/111**.
 
-There are **0 remaining `draft` pages** in Part 002. All 111 pages remain `source-checked` until they pass the editorial-review gate.
+There are **0 remaining `draft` pages** in Part 002. Scans **112–144** are now `editorial-reviewed`; scans **145–222** remain `source-checked` pending editorial review.
 
 ## Source-check batches — CLOSED
 
@@ -56,59 +56,49 @@ Source-check closed at **111/111** with no remaining draft pages. No Tamil archi
 
 ## Glossary-reconciliation batches — CLOSED
 
-### GR1 — COMPLETE
+- **GR1 scans 112–126 / printed 95–109 — 15/15**;
+- **GR2 scans 127–159 / printed 110–142 — 33/33**;
+- **GR3 scans 160–192 / printed 143–175 — 33/33**;
+- **GR4 scans 193–222 / printed 176–205 — final 30/30**.
 
-**Scans 112–126 / printed 95–109 — 15/15.**
+Part 002 glossary reconciliation is **COMPLETE / CLOSED at 111/111**. `GLOSSARY.md` carries only terminology evidenced in the audited project source; no external/published/web terminology was imported.
 
-GR1 reconciled scan 113 Chapter 133 to **Joy of Lovers' Quarrel**, standardized the merchant vignette to **rest-house**, and reconciled scan 126 `காந்தியடிகள்` to **Gandhi**.
+## Editorial-review batches
 
-### GR2 — COMPLETE
+### ER1 — COMPLETE
 
-**Scans 127–159 / printed 110–142 — 33/33.**
+**Scans 112–144 / printed 95–127 — 33/33.**
 
-Material terminology corrections included **revered Gandhiji → revered Gandhi**, **paddy-chaff → chaff**, lexical-note transliteration **`unaruththum` → `unarththum`**, and Chapter 133 **Delight in Lovers' Quarrel → Joy of Lovers' Quarrel**.
+All 33 pages passed the editorial gate and were promoted from `source-checked` to `editorial-reviewed`.
 
-### GR3 — COMPLETE
+Material source-faithful editorial improvements:
 
-**Scans 160–192 / printed 143–175 — 33/33.**
+1. **scan 113 / printed 96** — corrected awkward English `start with surprise` to **startle in surprise**, removed the stray comma in **husband and wife quarrel**, and repaired the sentence fragment **then the two are apart** without changing the Tamil image;
+2. **scan 120 / printed 103** — made `நான் சும்மா விடப் போவதில்லை` idiomatic as **I am not going to let ... off so easily**, and reconciled `வேறு ஒரு புது உலகம்` to **a whole new world**;
+3. **scan 127 / printed 110** — improved the prayer-transition sentence while retaining `அவரோடும் அவர் இதய உணர்வுகளோடும் இணைந்து`, and rendered the source timekeeping image naturally as **The timepiece at his waist keeps ticking**;
+4. **scans 142→143 / printed 125→126** — repaired the genuine cross-page syntax so the palace loyalist asks for a post **not only for Sigamani—but for himself as well**, and corrected the inspection sentence to **caught red-handed adulterating and selling his medicines**.
 
-No English page wording corrections were required solely for GR3 terminology consistency. The glossary was extended with source-supported chapter labels, cultural/work controls, names and source spelling variants through scan 192.
+No other ER1 page required wording change. All chapter/Kural metadata, visual/non-body descriptions and controlled terms passed. Genuine continuities were preserved throughout the range. **144→145 is a genuine continuation**; scan 145 was inspected only as the boundary witness and remains `source-checked` for ER2.
 
-### GR4 — COMPLETE / FINAL REMAINDER
+No Tamil archival record changed. No publisher/standard/web English wording was imported.
 
-**Scans 193–222 / printed 176–205 — 30/30.**
+## Current frontier — editorial review ER2
 
-Material terminology corrections:
-
-1. **scan 201 / printed 184** — explicit source honorific `பாவேந்தர் பாரதிதாசன்` restored as **Paavendhar Bharathidasan**; bare `பாரதிதாசன்` on scan 217 remains **Bharathidasan** because the source there is bare;
-2. **scan 218 / printed 201** — prose `ஊடல்` reconciled from transliterated **oodal** to controlled **lovers' quarrel**; Chapter 131 `புலவி` remains the distinct title **Lovers' Sulking**.
-
-`GLOSSARY.md` now carries the terminology actually evidenced through the final Part 002 scan, including new controls for **alar / kauvai / ethiraar**, **Maravar**, **Mukhari**, **Kuralar**, **naazhigai**, **pachadi**, **ayar community**, **veshti**, newly encountered chapter labels, and names including **Kumanan, Saathanaar, Thennavan / Thennava, Poonguzhali, Iniyaval, Alagan** and **Alaguvalli**.
-
-Continuity was preserved across every genuine source unit in GR4, including illustration-only scan **203** within **202→203→204** and the genuine final **221→222** continuation. Scan **222 / printed 205** closes the pastoral/ayar-community vignette and Part 002's physical source sequence.
-
-No page was promoted to `editorial-reviewed`; no Tamil archival record changed; no external/published/web English terminology was imported.
-
-**Part 002 glossary reconciliation is COMPLETE / CLOSED at 111/111.**
-
-## Current frontier — editorial review ER1
-
-Proceed with **Part 002 English editorial review ER1: scans 112–144 / printed 95–127 — 33 consecutive records**.
+Proceed with **Part 002 English editorial review ER2: scans 145–177 / printed 128–160 — 33 consecutive records**.
 
 Requirements:
 
-1. use the complete `source-checked` + glossary-reconciled English layer as the working text, with audited Tamil records available as the source-faithfulness authority;
-2. review English readability, grammar, style, internal coherence, repeated terminology, chapter/Kural metadata, visual/non-body descriptions and cross-page transitions without changing source meaning;
-3. preserve source-supported Tamil-specific terms and names according to `GLOSSARY.md`; do not mechanically anglicize them;
-4. do not import publisher/standard/web English Kural wording or external-edition prose;
-5. preserve all genuine cross-page continuities and clean boundaries;
+1. use the complete source-checked + glossary-reconciled English layer as working text, with audited Tamil records as source-faithfulness authority;
+2. scan 145 begins by directly continuing and closing the secret-meeting vignette from editorial-reviewed scan 144;
+3. review readability, grammar, style, internal coherence, repeated terminology, chapter/Kural metadata, visual/non-body descriptions and cross-page transitions without changing source meaning;
+4. preserve source-supported Tamil-specific terms and names according to `GLOSSARY.md`;
+5. do not import publisher/standard/web English Kural wording or external-edition prose;
 6. promote a page from `source-checked` to `editorial-reviewed` only after it passes this gate;
 7. do not change Tamil archival records;
-8. synchronize status/frontier and audit the exact changed-file set after ER1.
+8. synchronize status/frontier and audit the exact changed-file set after ER2.
 
-After ER1:
+After ER2:
 
-- **ER2 scans 145–177 / printed 128–160 — 33 pages**;
 - **ER3 scans 178–210 / printed 161–193 — 33 pages**;
 - **ER4 scans 211–222 / printed 194–205 — final 12 pages**.
 
