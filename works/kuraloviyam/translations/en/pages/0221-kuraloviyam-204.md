@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -23,4 +23,4 @@ The son of the ayar community who had driven those domestic animals out to graze
 
 A veshti folded and tied at the waist! A cloth wound as a turban upon his head! A long staff in his hand! Around his neck, a chain strung with a tiger claw! A face bearing the light of calm and valour together, with a budding moustache!
 
-<!-- Source scan page: 221; printed page: 204; pastoral/ayar-community vignette begins; genuine continuation across 221→222; scan 222 remains the final drafting remainder -->
+<!-- Source scan page: 221; printed page: 204; pastoral/ayar-community vignette begins; genuine continuation across 221→222 -->
