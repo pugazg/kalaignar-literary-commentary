@@ -7,7 +7,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
-| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; maintained English workflow NEXT** |
+| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English drafting ACTIVE 55/111** |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
@@ -156,7 +156,7 @@ Part 002:
 - final metadata/status synchronization — **PASS / CLOSED, 111 textual verified + 111 visual verified**;
 - documentation synchronization — **COMPLETE**;
 - Tamil archival-ready checkpoint — **PASS / CLOSED**;
-- maintained English workflow — **NEXT / not started**.
+- maintained English workflow — **ACTIVE — first-pass drafting 55/111; source-check 0/111**.
 
 ## Current frontier
 
@@ -164,4 +164,6 @@ Part 002:
 
 **Part 002 Tamil: ARCHIVAL-READY / CLOSED.**
 
-Exact next activity: **Part 002 English draft Batch 1, overall scans 112–122 / printed 95–105**, using audited Tamil page records as the normal working authority. Do not begin Part 003 before Part 002 completes its maintained English workflow and final Part closure.
+**Part 002 English: ACTIVE — 55/111 first-pass draft records complete.**
+
+Exact next activity: **Part 002 English draft Batch 6, overall scans 167–177 / printed 150–160**, using audited Tamil page records as the normal working authority. Preserve the genuine **166→167** incoming continuation and the source-supported full-page illustration at scan **177 / printed 160**. Do not begin Part 003 before Part 002 completes its maintained English workflow and final Part closure.
