@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Current archival state |
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English drafting ACTIVE 110/111** |
+| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English first-pass COMPLETE 111/111; source-check NEXT** |
 | 003 | 223–333 | not-started |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
@@ -41,7 +41,7 @@ Permanent cadence:
 
 **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
 
-Part 002 first-pass drafting is now **ACTIVE: 110/111 complete**.
+Part 002 first-pass drafting is now **COMPLETE: 111/111**.
 
 Completed:
 
@@ -55,8 +55,9 @@ Completed:
 - **Batch 8: scans 189–199 / printed pages 172–182 — 11/11 draft records.**
 - **Batch 9: scans 200–210 / printed pages 183–193 — 11/11 draft records.**
 - **Batch 10: scans 211–221 / printed pages 194–204 — 11/11 draft records.**
+- **Final remainder: scan 222 / printed page 205 — 1/1 draft record.**
 
-Batch 10 preserves enemy-siege/treachery **211→212**, Poonguzhali/Iniyaval **213→214**, warrior-departure/death **215→216**, domestic meal/salt/oodal **217→218**, dying-veteran/friendship **219→220**, and opens the genuine pastoral/ayar-community continuation **221→222** without closing it prematurely.
+The final remainder continues directly from scan 221 and closes the genuine **221→222** pastoral/ayar-community vignette with Chapter 128 / Kural 1275. The full Part 002 English first-pass layer is now page-aligned and complete at **111/111**.
 
 No Tamil page record was changed during English drafting, and no published/standard/web English Kural wording was imported.
 
@@ -69,6 +70,6 @@ English controls:
 
 ## Current frontier
 
-**Next activity: final Part 002 English first-pass drafting remainder — scan 222 / printed 205, 1 record.**
+**Next activity: Part 002 English source-check SC1 — scans 112–126 / printed 95–109, 15 records.**
 
-Continue directly from scan 221 and close the genuine **221→222** pastoral/ayar-community vignette with Chapter 128 / Kural 1275. After that record is drafted, first-pass coverage becomes **111/111 COMPLETE** and the next phase is English source-check. Do not begin Part 003 before Part 002 English review/release and final Part closure are complete.
+Compare each English page against its audited Tamil record paragraph-by-paragraph / block-by-block. Check omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual function and continuation relationships. Only passing records may move from `draft` to `source-checked`. Do not begin glossary reconciliation until source-check covers all 111 Part 002 records. Do not begin Part 003 before Part 002 English review/release and final Part closure are complete.
