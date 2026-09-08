@@ -23,11 +23,26 @@ Source units observed:
 - scans **227–228 / printed 210–211** — Valluvar / land / patience and slander vignette; Chapter 16 / Kural 151 and Chapter 19 / Kural 189;
 - scans **229–230 / printed 212–213** — Maragatham / medicine / love-sickness vignette; Chapter 125 / Kural 1241;
 - scans **231–232 / printed 214–215** — courtesan / `வரைவின் மகளிர்` vignette; Chapter 92 / Kural 913;
-- scan **233 / printed 216** — festival / green-sari vignette begins and continues directly to scan **234 / printed 217**.
+- scan **233 / printed 216** — festival / green-sari vignette begins and continues directly to scan 234.
 
-Important boundary: **233→234 is a genuine continuation.** Scan 234 was inspected only as the next-batch boundary witness; its page record was not created in P3-01.
+Important boundary: **233→234 is a genuine continuation.**
 
-All P3-01 records remain:
+## P3-02 — COMPLETE
+
+Scans **234–244 / printed 217–227** captured as **11 page-aligned Tamil records**.
+
+Source units observed:
+
+- scan **234 / printed 217** — closes the festival / green-sari / bangle-seller vignette begun on scan 233; Chapter 118 / Kural 1171;
+- scans **235–236 / printed 218–219** — Anbumani / Inbamani friendship and hospitality vignette; Chapter 9 / Kural 90;
+- scans **237–238 / printed 220–221** — poet / beloved / moon comparison vignette; Chapter 112 / Kurals 1117, 1118;
+- scans **239–240 / printed 222–223** — drunkard / `கள்ளுண்ணாமை` vignette; Chapter 93 / Kural 929;
+- scans **241–242 / printed 224–225** — lamp/darkness and lovers/pallor analogy; Chapter 119 / Kural 1186;
+- scans **243–244 / printed 226–227** — agriculture / family / child-and-gruel vignette; Chapter 104 / Kural 1031 and Chapter 7 / Kural 64.
+
+Important boundary: **244→245 is clean.** Scan 245 / printed 228 was inspected only as the next-batch boundary witness; it begins a new illustrated vignette and no scan-245 page record was created during P3-02.
+
+All captured Part 003 Pass-1 records remain:
 
 - `status: "needs-review"`
 - `visual_fidelity: "needs-review"`
@@ -36,8 +51,7 @@ Pass 1 is physical capture/transcription only and does not make records source-v
 
 ## Planned remaining Pass 1 iterations — 11-page cadence
 
-- **P3-02 — NEXT:** scans **234–244 / printed 217–227** — 11 scans; use scan 245 / printed 228 only as a boundary witness if required.
-- **P3-03:** scans **245–255 / printed 228–238** — 11 scans.
+- **P3-03 — NEXT:** scans **245–255 / printed 228–238** — 11 scans; use scan 256 / printed 239 only as a boundary witness if required.
 - **P3-04:** scans **256–266 / printed 239–249** — 11 scans.
 - **P3-05:** scans **267–277 / printed 250–260** — 11 scans.
 - **P3-06:** scans **278–288 / printed 261–271** — 11 scans.
@@ -55,4 +69,4 @@ Scans **332–333 / printed 315–316** form the final visible Part 003 unit. Sc
 
 ## Exact next activity
 
-Complete **P3-02 — overall scans 234–244 / printed 217–227** as 11 page-aligned Tamil records under `works/kuraloviyam/pages/`, beginning by preserving the genuine **233→234** continuation. Inspect scan **245 / printed 228** only as a boundary witness when needed. Do not normalize, import standard Kural wording, or claim Pass 2/Pass 3 verification.
+Complete **P3-03 — overall scans 245–255 / printed 228–238** as 11 page-aligned Tamil records under `works/kuraloviyam/pages/`. Scan 245 begins a new illustrated vignette after the clean **244→245** boundary. Inspect scan **256 / printed 239** only as a boundary witness when needed. Do not normalize, import standard Kural wording, or claim Pass 2/Pass 3 verification.
