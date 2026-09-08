@@ -27,7 +27,7 @@ Peace is destroyed! Darkness closes in. As a flood of blood surges from his ches
 > Even within hands joined in worship, an enemy's weapon may hide;  
 > so too may there be deceit within tears shed in grief.
 
-He points out: “When enemies bow in worship, a murder weapon may be hidden within their hands; their shedding of tears may be of the same kind.” Is not the end of revered Gandhiji an example that makes this Kural come true?
+He points out: “When enemies bow in worship, a murder weapon may be hidden within their hands; their shedding of tears may be of the same kind.” Is not the end of revered Gandhi an example that makes this Kural come true?
 
 Chapter 83 — False Friendship; Kural 828
 
