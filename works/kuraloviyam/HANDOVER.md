@@ -6,7 +6,7 @@ Active work: `works/kuraloviyam/`
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Preserve newer durable Kuraloviyam work. Do not reopen closed Part 001 work or Part 002 Tamil unless a genuinely new source/provenance/fidelity issue appears.
+Fetch live `main` first and preserve newer durable Kuraloviyam work. Do not reopen closed Part 001 or Part 002 unless a genuinely new source/provenance/fidelity issue appears.
 
 ## Mandatory startup
 
@@ -18,75 +18,94 @@ Read before changing anything:
 4. `NEXT_CHAT_PROMPT_KURALOVIYAM.md`
 5. this file
 6. `works/kuraloviyam/README.md`
-7. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`
-8. `works/kuraloviyam/indexes/page-map.md`
-9. `works/kuraloviyam/translations/en/README.md`
-10. `works/kuraloviyam/translations/en/TRANSLATION_GUIDE.md`
-11. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
-12. `works/kuraloviyam/translations/en/GLOSSARY.md`
-13. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_REVIEW.md`
+7. `works/kuraloviyam/metadata/source.md`
+8. `works/kuraloviyam/metadata/transcription-policy.md`
+9. `works/kuraloviyam/indexes/page-map.md`
+10. `works/kuraloviyam/SOURCE_INTAKE_PART_003.md`
+11. `works/kuraloviyam/PART_003_PASS1_PROGRESS.md`
+12. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`
+13. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
 14. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
 
-## Durable state
+## Durable closed state
 
-- Part 001: **CLOSED** — English **107 release-ready + 4 source-limited**.
+- Part 001: **CLOSED** — Tamil archival-ready; English **107 release-ready + 4 source-limited**.
 - Part 002 Tamil: **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**.
-- Part 002 English first-pass: **111/111 COMPLETE**.
-- Part 002 English source-check: **111/111 COMPLETE / CLOSED**.
-- Part 002 English glossary reconciliation: **111/111 COMPLETE / CLOSED**.
-- Part 002 English editorial review: **111/111 COMPLETE / CLOSED**.
-- Part 002 English Part-level review: **PASS / CLOSED**.
-- Part 002 English release report: **APPROVED / CLOSED**.
-- Part 002 English release-ready: **111/111 COMPLETE / CLOSED**.
+- Part 002 English: **RELEASE COMPLETE / CLOSED — 111/111 release-ready**.
 - Part 002 final Part checkpoint: **PASS / CLOSED**.
 
-Permanent English gate order:
+Do not repeat Part 001/002 verification or English work from stale prompts.
 
-**draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
+## Part 003 controlling source — ONBOARDED
 
-### User-directed iteration size
+`TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf`
 
-Process **33 physical scan pages per normal page-batched iteration**. Historical completed batches retain their recorded sizes. A final Part remainder may be shorter. Part-level review and release report are whole-Part gates.
+Source intake: **PASS / COMPLETE**.
 
-## Completed Part 002 Part-level English review
+Confirmed identity:
 
-Durable review: `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_REVIEW.md`.
+- source family: `TVA_BOK_0065733`;
+- local pages: **111**;
+- overall scans: **223–333**;
+- printed pages: **206–316**;
+- file size: **93,488,924 bytes**;
+- SHA-256: `f07e7cdb3a6e786b0378e00bbe699a241be41c9e099c004a4faa90fa82b4239f`;
+- usable parsed text layer: **none**;
+- rendered scan images are the controlling source.
 
-Review base: `ab7c679d8c1ba73fdd67eec8ea7cc71a3b5a7b42`.
+Durable intake: `works/kuraloviyam/SOURCE_INTAKE_PART_003.md`.
 
-Result: **PASS**.
+## Resolved 222→223 boundary
 
-Whole-Part checks passed for:
+The previously deferred cross-Part boundary is now closed.
 
-- **111/111** Tamil/English page inventory and filename alignment across scans **112–222 / printed 95–205**;
-- exact pre-release English status state: **111 `editorial-reviewed`**, with **0 source-checked, 0 draft, 0 source-limited, 0 blocked, 0 release-ready**;
-- controlled terminology, names, chapter labels, Kural numbering/metadata and Kural-block separation;
-- page functions/non-body material, including illustration-only scan **203** and lower-margin library stamps on **217–218**;
-- accumulated continuity and clean boundaries through final **221→222**.
+- scan **222 / printed 205** closes the pastoral / `ஆயர்குடி` vignette with Chapter 128 / Kural 1275;
+- scan **223 / printed 206** starts a new illustrated `பேதைமை` vignette;
+- scan **224 / printed 207** closes that new unit with Chapter 84 / Kurals 838, 839;
+- therefore **222→223 is a clean vignette boundary**.
 
-No page text or status changed during the Part-level review. No Tamil record changed and no external/published/web wording was imported.
+No split text is reconstructed.
 
-The internal Part ending at scan **222 / printed 205** is closed. The external **222→223** split-boundary check is explicitly deferred until Part 003 source intake because Part 003 has not yet been supplied/onboarded.
+## Part 003 outgoing boundary
 
-## Part 002 release closure — PASS / CLOSED
+- scans **332–333 / printed 315–316** form the final visible Part 003 unit;
+- scan **333** closes with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567;
+- external **333→334** remains deferred until Part 004 is supplied. Do not infer it.
 
-Durable release report: `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`.
+## User-directed iteration size
 
-Release base: `ee81bdb8a04706bb931d48d17f977f869854b8b0`.
+Process **33 physical scan pages per normal Part 003 page-batched iteration**. A final remainder may be shorter. These are workflow boundaries only and do not imply textual boundaries.
 
-Final Part 002 English state: **111/111 `release-ready`; 0 editorial-reviewed; 0 source-checked; 0 draft; 0 source-limited; 0 blocked**. Release changed only page status fields and changed no approved English wording or Tamil record.
+Part 003 Pass 1 plan:
 
-The internal Part ending at scan **222 / printed 205** is closed. The external **222→223** boundary remains deferred to Part 003 intake.
+- P3-01: **223–255 / printed 206–238**;
+- P3-02: **256–288 / printed 239–271**;
+- P3-03: **289–321 / printed 272–304**;
+- final remainder: **322–333 / printed 305–316**.
 
-## Exact next activity — Part 003 source intake
+## Pass 1 rules
 
-Part 003 is **not started** and its controlling source is not yet onboarded in the durable state.
+Pass 1 is physical capture/transcription only.
 
-When the user supplies Part 003:
+For each page:
 
-1. fetch live `main` first and preserve this Part 002 closure;
-2. record the Part 003 source identity, physical-page count, byte size and SHA-256;
-3. confirm it maps to overall scans **223–333** without restarting repository `scan_page`;
-4. inspect the actual first Part 003 scan and verify the deferred **222→223** continuity/boundary against closed scan 222;
-5. only then begin Part 003 Tamil source intake / archival workflow under the permanent Kuraloviyam guidelines;
-6. do not reopen Part 001 or Part 002 unless a genuinely new source/provenance/fidelity issue appears.
+- create one page-aligned Tamil record under `works/kuraloviyam/pages/`;
+- preserve exact visible wording, punctuation, paragraph/dialogue structure, Kural blocks and printed metadata;
+- preserve illustration/text relationship and record non-body marks separately;
+- keep overall `scan_page` numbering; never restart at local page 1;
+- default to `status: "needs-review"` and `visual_fidelity: "needs-review"`;
+- do not import standard/web Kural wording, another edition, OCR guesses or memory;
+- do not claim Pass 2A, Pass 2B or Pass 3 verification during Pass 1.
+
+## Exact next activity — Part 003 Pass 1 / P3-01
+
+Process **overall scans 223–255 / printed 206–238 — 33 pages** in one iteration.
+
+Use the supplied Part 003 PDF directly. Inspect scan **256 / printed 239** only as a boundary witness when needed; do not create its page record during P3-01.
+
+After P3-01:
+
+1. update `PART_003_PASS1_PROGRESS.md` and the page map/frontier;
+2. audit the exact changed-file set;
+3. confirm all 33 new page records remain appropriate Pass-1 statuses;
+4. set P3-02 scans 256–288 as the next activity.
