@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Current archival state |
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English drafting ACTIVE 77/111** |
+| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English drafting ACTIVE 88/111** |
 | 003 | 223–333 | not-started |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
@@ -41,7 +41,7 @@ Permanent cadence:
 
 **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
 
-Part 002 first-pass drafting is now **ACTIVE: 77/111 complete**.
+Part 002 first-pass drafting is now **ACTIVE: 88/111 complete**.
 
 Completed:
 
@@ -52,8 +52,9 @@ Completed:
 - **Batch 5: scans 156–166 / printed pages 139–149 — 11/11 draft records.**
 - **Batch 6: scans 167–177 / printed pages 150–160 — 11/11 draft records.**
 - **Batch 7: scans 178–188 / printed pages 161–171 — 11/11 draft records.**
+- **Batch 8: scans 189–199 / printed pages 172–182 — 11/11 draft records.**
 
-Batch 7 closes the incoming love/separation-night continuation at **178**, then preserves king/minister/two-spies **179→180**, moonlit-seaside lovers **181→182→183**, flood/rescue **184→185→186**, and separation/evening **187→188**. The batch ends at the clean **188→189** source boundary.
+Batch 8 preserves snake/Muthuvelar **189→190**, lovers/oodal **191→192**, Kumanan/Saathanaar **193→194**, returning-warrior/maiden **195→196**, and praise/reversal **197→198→199**. The batch begins and ends at clean source boundaries **188→189** and **199→200**.
 
 No Tamil page record was changed during English drafting, and no published/standard/web English Kural wording was imported.
 
@@ -66,6 +67,6 @@ English controls:
 
 ## Current frontier
 
-**Next activity: Part 002 English first-pass draft Batch 8 — scans 189–199 / printed 172–182, 11 records.**
+**Next activity: Part 002 English first-pass draft Batch 9 — scans 200–210 / printed 183–193, 11 records.**
 
-Preserve the clean **188→189** source boundary when beginning scan 189. Do not begin source-check until first-pass drafting covers all 111 Part 002 records. Do not begin Part 003 before Part 002 English review/release and final Part closure are complete.
+Preserve the clean **199→200** source boundary when beginning scan 200. Do not begin source-check until first-pass drafting covers all 111 Part 002 records. Do not begin Part 003 before Part 002 English review/release and final Part closure are complete.
