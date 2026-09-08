@@ -8,7 +8,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
 | 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **SOURCE INTAKE PASS / COMPLETE; Tamil Pass 1 READY / NEXT** |
+| 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **SOURCE INTAKE PASS / COMPLETE; Tamil Pass 1 ACTIVE — 44/111 captured** |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
 | 006 | 556–666 | 1–111 | not yet inspected | not-started |
@@ -156,6 +156,13 @@ Incoming boundary:
 - scan **224 / printed 207** closes that new unit with Chapter 84 / Kurals 838, 839;
 - **222→223 is CLEAN**.
 
+Current Pass-1 boundary chain:
+
+- **233→234 genuine continuation**;
+- **244→245 clean**;
+- **255→256 clean**;
+- **266→267 genuine continuation** — scan 266 begins the trade/separation vignette and scan 267 continues it.
+
 Outgoing intake witness:
 
 - scans **332–333 / printed 315–316** form the final visible Part 003 unit;
@@ -164,10 +171,28 @@ Outgoing intake witness:
 
 Part 003 Pass 1 user-directed cadence:
 
-- P3-01: **223–255 / printed 206–238**;
-- P3-02: **256–288 / printed 239–271**;
-- P3-03: **289–321 / printed 272–304**;
-- final remainder: **322–333 / printed 305–316**.
+- P3-01: **223–233 / printed 206–216 — COMPLETE**;
+- P3-02: **234–244 / printed 217–227 — COMPLETE**;
+- P3-03: **245–255 / printed 228–238 — COMPLETE**;
+- P3-04: **256–266 / printed 239–249 — COMPLETE**;
+- P3-05: **267–277 / printed 250–260 — NEXT**;
+- P3-06: **278–288 / printed 261–271**;
+- P3-07: **289–299 / printed 272–282**;
+- P3-08: **300–310 / printed 283–293**;
+- P3-09: **311–321 / printed 294–304**;
+- P3-10: **322–332 / printed 305–315**;
+- final remainder: **333 / printed 316**.
+
+Current Part 003 Pass-1 inventory: **44 / 111 records captured — scans 223–266 / printed 206–249**. All remain `needs-review` / `visual_fidelity: needs-review`.
+
+P3-04 source units:
+
+- **256–257 / 239–240** — poverty / fire;
+- **258–259 / 241–242** — pottery / lovers;
+- **260–261 / 243–244** — Alagan / harsh-aunt / orphan; Chapter 13 / Kural 129;
+- **262–263 / 245–246** — moon / separation; Chapter 114 / Kural 1140;
+- **264–265 / 247–248** — Nallaan / Vallaan bear-and-friendship; Chapter 80 / Kural 796;
+- **266 / 249** — trade / separation begins; genuine continuation to scan 267.
 
 Durable intake: `../SOURCE_INTAKE_PART_003.md`.  
 Durable Pass 1 progress: `../PART_003_PASS1_PROGRESS.md`.
@@ -202,6 +227,10 @@ Durable Pass 1 progress: `../PART_003_PASS1_PROGRESS.md`.
 - scans **217–218** carry blue circular library-stamp material kept separate from body text;
 - **221→222** genuine continuation;
 - **222→223** clean, source-resolved at Part 003 intake;
+- **233→234** genuine continuation;
+- **244→245** clean;
+- **255→256** clean;
+- **266→267** genuine continuation;
 - scan **333 / printed 316** closes the final visible Part 003 unit; **333→334** remains deferred.
 
 Durable Part 002 Pass 2A record: `../PASS2_TEXTUAL_VERIFICATION_PART_002.md`.
@@ -234,7 +263,7 @@ Part 002:
 Part 003:
 
 - source intake — **PASS / COMPLETE**;
-- Pass 1 — **READY / NEXT, 0/111**;
+- Pass 1 — **ACTIVE, 44/111 captured through scan 266 / printed 249**;
 - Pass 2A — not-started;
 - Pass 2B — not-started;
 - Pass 3 — not-started;
@@ -248,8 +277,8 @@ Part 003:
 
 **Part 002: Tamil + English CLOSED.**
 
-**Part 003: SOURCE INTAKE COMPLETE / TAMIL PASS 1 READY.**
+**Part 003: SOURCE INTAKE COMPLETE / TAMIL PASS 1 ACTIVE — 44/111.**
 
-User-directed normal Part 003 page-batched iteration size: **33 physical scan pages**.
+User-directed normal Part 003 page-batched iteration size: **11 physical scan pages**.
 
-Exact next activity: **P3-01 — Part 003 Pass 1 scans 223–255 / printed 206–238, 33 page-aligned Tamil records**. Use scan **256 / printed 239** only as a boundary witness when needed. Do not infer the external **333→334** boundary before Part 004 is supplied.
+Exact next activity: **P3-05 — Part 003 Pass 1 scans 267–277 / printed 250–260, 11 page-aligned Tamil records**. Begin scan **267 / printed 250** as the direct continuation of scan 266. Use scan **278 / printed 261** only as a boundary witness when needed. Do not infer the external **333→334** boundary before Part 004 is supplied.
