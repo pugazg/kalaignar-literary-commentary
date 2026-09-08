@@ -9,11 +9,15 @@
 
 ## English workflow
 
-Permanent cadence:
+Permanent gate order:
 
 **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**
 
 `source-limited` is retained wherever the audited Tamil source itself is incomplete.
+
+### Current user-directed iteration cadence
+
+From the current Part 002 glossary checkpoint onward, process **33 physical scan pages per normal iteration**. Historical completed batches retain their recorded sizes. A final Part remainder may be shorter.
 
 ## Part 001 — CLOSED
 
@@ -29,7 +33,7 @@ Final Tamil state: **111 textual verified / 111 visual verified / 0 exceptions**
 
 - first-pass drafting: **111/111 — COMPLETE**;
 - source-check: **111/111 — COMPLETE / CLOSED**;
-- glossary reconciliation: **15/111 — ACTIVE**;
+- glossary reconciliation: **48/111 — ACTIVE**;
 - editorial review: **0/111**;
 - Part-level English review: not started;
 - release report: not started;
@@ -37,65 +41,64 @@ Final Tamil state: **111 textual verified / 111 visual verified / 0 exceptions**
 
 There are **0 remaining `draft` pages** in Part 002. Glossary reconciliation does not change the `source-checked` page status by itself.
 
-### Source-check batches — CLOSED
+## Source-check batches — CLOSED
 
-- **SC1: scans 112–126 / printed 95–109 — COMPLETE, 15/15 `source-checked`.**
-- **SC2: scans 127–141 / printed 110–124 — COMPLETE, 15/15 `source-checked`.**
-- **SC3: scans 142–156 / printed 125–139 — COMPLETE, 15/15 `source-checked`.**
-- **SC4: scans 157–171 / printed 140–154 — COMPLETE, 15/15 `source-checked`.**
-- **SC5: scans 172–186 / printed 155–169 — COMPLETE, 15/15 `source-checked`.**
-- **SC6: scans 187–201 / printed 170–184 — COMPLETE, 15/15 `source-checked`.**
-- **SC7: scans 202–216 / printed 185–199 — COMPLETE, 15/15 `source-checked`.**
-- **SC8: scans 217–222 / printed 200–205 — COMPLETE, final remainder 6/6 `source-checked`.**
+- SC1 scans 112–126 / printed 95–109 — 15/15;
+- SC2 scans 127–141 / printed 110–124 — 15/15;
+- SC3 scans 142–156 / printed 125–139 — 15/15;
+- SC4 scans 157–171 / printed 140–154 — 15/15;
+- SC5 scans 172–186 / printed 155–169 — 15/15;
+- SC6 scans 187–201 / printed 170–184 — 15/15;
+- SC7 scans 202–216 / printed 185–199 — 15/15;
+- SC8 scans 217–222 / printed 200–205 — final 6/6.
 
-### Source-check closure notes — SC6–SC8
+Source-check closed at **111/111** with no remaining draft pages. Closing fidelity fixes removed unsupported additions on scans 198, 199, 207 and 219 and corrected scan 215's source image. No Tamil archival record changed and no published/standard/web English Kural wording was imported.
 
-All remaining English records were compared against their audited Tamil counterparts paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual-page function and cross-page continuity.
+## Glossary-reconciliation batches
 
-Source-supported continuity was preserved throughout the remainder, including **187→188**, **189→190**, **191→192**, **193→194**, **195→196**, **197→198→199**, **200→201**, the illustration-only **202→203→204** sequence, **205→206**, **207→208**, **209→210**, **211→212**, **213→214**, **215→216**, **217→218**, **219→220**, and the final genuine **221→222** continuation. Clean boundaries were retained between those source units. Scans **217–218** retain their blue circular library stamps strictly as non-body material. Scan **222 / printed 205** closes the pastoral / ayar-community vignette and is the final physical scan of Part 002.
+### GR1 — COMPLETE
 
-Material source-fidelity corrections during SC6–SC8:
+**Scans 112–126 / printed 95–109 — 15/15.**
 
-1. **scan 198 / printed 181** — removed the unsupported adjective **“official”** from the palm-leaf message arriving from the palace;
-2. **scan 199 / printed 182** — removed the unsupported adjective **“miserable”** from the rendering of `தலையெழுத்து`;
-3. **scan 207 / printed 190** — removed the unsupported interpretive adjective **“mournful”** before `Mukhari`;
-4. **scan 215 / printed 198** — corrected the unsupported phrase **“plant defeat upon the heads of the enemy”** to preserve the source image more directly as **“plant the enemies' heads there”**;
-5. **scan 219 / printed 202** — removed the unsupported adjective **“ceremonial”** from the source's `மஞ்சம்` image.
+GR1 reconciled:
 
-No Tamil archival record was changed and no published/standard/web English Kural wording was imported.
+- scan 113 Chapter 133 `ஊடலுவகை`: **Delight in Lovers' Quarrel → Joy of Lovers' Quarrel**;
+- scans 121–122 `ஓய்வு விடுதி / விடுதி`: mixed **inn / rest-house → rest-house**;
+- scan 126 `காந்தியடிகள்`: **Gandhiji → Gandhi**.
 
-### Glossary-reconciliation batches
+### GR2 — COMPLETE at revised 33-page cadence
 
-- **GR1: scans 112–126 / printed 95–109 — COMPLETE, 15/15 reconciled.**
+**Scans 127–159 / printed 110–142 — 33/33.**
 
-GR1 used the source-checked English layer, matching audited Tamil records and `GLOSSARY.md` as the terminology authority. Four English page records required terminology consistency changes:
+Material terminology corrections:
 
-1. **scan 113 / printed 96** — Chapter 133 `ஊடலுவகை` was reconciled from **Delight in Lovers' Quarrel** to controlled **Joy of Lovers' Quarrel**;
-2. **scans 121–122 / printed 104–105** — recurring `ஓய்வு விடுதி / விடுதி` was reconciled from mixed **inn / rest-house** wording to controlled **rest-house** within the same source unit;
-3. **scan 126 / printed 109** — `காந்தியடிகள்` was reconciled from **Gandhiji** to established project form **Gandhi**.
+1. **scan 127 / printed 110** — remaining `காந்தியடிகள்` occurrence: **revered Gandhiji → revered Gandhi**;
+2. **scan 134 / printed 117** — source `நெற்பதர்`: **paddy-chaff → chaff**, matching the controlled `பதர் / பதடி` term;
+3. **scan 153 / printed 136** — lexical note `உணர்த்தும் = நீக்கும்`: **`unaruththum` → `unarththum`**, retaining `= removes`;
+4. **scan 155 / printed 138** — Chapter 133 `ஊடலுவகை`: **Delight in Lovers' Quarrel → Joy of Lovers' Quarrel**.
 
-`GLOSSARY.md` now records the GR1 chapter labels **Joy of Lovers' Quarrel**, **Lack of Learning**, **Yearning for Union**, **Truthfulness**, **Knowing and Trusting**, and **Chiding the Heart**; recurring rest-house terminology; narrative names **Marudhan / Marudha** and **Thenappan**; and contextual refinements for **Kungumam / kumkum**, **Valluvam**, and **Gandhi**.
+`GLOSSARY.md` now records the source-supported Part 002 chapter labels encountered through scan 159, recurring/context-sensitive terms such as **akka**, **Atthaan**, **rest-house**, the scan-153 lexical note, and narrative-name controls **Medical Sigamani**, **Thelindhan**, **Nelindhan**, **Maavengko** and **Maangani**.
 
-The genuine **126→127** Gandhi continuation was inspected as a boundary witness. Scan 127 remains outside GR1 and is still `source-checked`; its existing **Gandhiji** form is an explicit GR2 terminology item.
+Continuity was preserved across all source-supported units in the range. The **159→160** boundary is clean; scan 160 was inspected only as the next-batch boundary witness and remains outside GR2.
 
-No Tamil archival record was changed and no external/published/web English terminology was imported.
+No page status was promoted to `editorial-reviewed`; no Tamil archival record changed; no external/published/web English terminology was imported.
 
 ## Current frontier
 
-Proceed with **Part 002 English glossary reconciliation GR2: overall scans 127–141 / printed 110–124**, 15 consecutive records.
+Proceed with **Part 002 English glossary reconciliation GR3: overall scans 160–192 / printed 143–175**, exactly **33 consecutive records**.
 
 Requirements:
 
 1. use the complete `source-checked` English layer, matching audited Tamil records and current `GLOSSARY.md`;
-2. begin by reconciling scan **127**'s `காந்தியடிகள்` occurrence from **Gandhiji** to controlled **Gandhi**, preserving the genuine 126→127 continuation;
-3. reconcile recurring names, work/section names, controlled literary terms, publication names, chapter labels and repeated English renderings;
-4. update `GLOSSARY.md` only for recurring terms actually evidenced in Part 002;
+2. scan 160 begins a new elephant/terrain/strength vignette after the clean 159→160 boundary;
+3. reconcile recurring names, work/section names, controlled literary terms, publication names, chapter labels, citation metadata and repeated English renderings;
+4. update `GLOSSARY.md` only for terminology actually evidenced in the audited Part 002 records;
 5. do not mechanically force one English equivalent when context requires a different rendering;
 6. glossary reconciliation does **not** promote pages to `editorial-reviewed`;
 7. do not import terminology from external editions, web sources or memory;
 8. do not change Tamil archival records;
-9. synchronize status/frontier and audit the exact changed-file set after GR2.
+9. synchronize status/frontier and audit the exact changed-file set after GR3.
 
-Next glossary batch after GR2: **GR3 scans 142–156 / printed 125–139**.
+After GR3, the final glossary remainder is **GR4 scans 193–222 / printed 176–205 — 30 pages**.
 
-Part 003 remains blocked until Part 002 English glossary reconciliation, editorial review, Part-level review, release report and final Part closure are complete.
+Do not begin editorial review until glossary reconciliation reaches **111/111**. Part 003 remains blocked until Part 002 English glossary reconciliation, editorial review, Part-level review, release report and final Part closure are complete.
