@@ -35,27 +35,29 @@ Part 002 covers scans **112–222 / printed 95–205**, 111 physical pages, and 
 - first-pass drafting: **111/111 COMPLETE**;
 - source-check: **111/111 COMPLETE / CLOSED**;
 - glossary reconciliation: **111/111 COMPLETE / CLOSED**;
-- editorial review: **0/111 — READY / NEXT**.
+- editorial review: **33/111 ACTIVE**.
 
-Glossary reconciliation is fully closed:
+Glossary reconciliation is fully closed across **GR1–GR4**.
 
-- **GR1 scans 112–126 / printed 95–109 — 15/15**;
-- **GR2 scans 127–159 / printed 110–142 — 33/33**;
-- **GR3 scans 160–192 / printed 143–175 — 33/33**;
-- **GR4 scans 193–222 / printed 176–205 — final 30/30**.
+Editorial review:
 
-GR4 required two page-level terminology corrections: scan **201** restored the explicit source honorific as **Paavendhar Bharathidasan**, and scan **218** reconciled prose `ஊடல்` from transliterated **oodal** to controlled **lovers' quarrel**, while Chapter 131 `புலவி` remains **Lovers' Sulking**. `GLOSSARY.md` now records all terminology actually evidenced through the final Part 002 scan, including the newly encountered chapter labels, lexical/cultural terms, names and place controls.
+- **ER1 scans 112–144 / printed 95–127 — COMPLETE 33/33**;
+- scans **112–144** are now `editorial-reviewed`;
+- scans **145–222** remain `source-checked` pending editorial review.
 
-All genuine continuities through scan **222** were preserved, including illustration-only scan **203** within **202→203→204** and the final **221→222** pastoral/ayar continuation. No Tamil archival record changed, no page has yet been promoted to `editorial-reviewed`, and no external/published/web English terminology was imported.
+ER1 made source-faithful English improvements on scans **113, 120, 127, 142 and 143**. It corrected awkward grammar and phrasing without importing outside wording or changing source meaning. The **144→145** continuation was checked; scan 145 remains outside ER1 and begins ER2 by directly closing the secret-meeting vignette.
+
+No Tamil archival record changed and no publisher/standard/web English wording was imported.
 
 ## Current frontier
 
-Proceed with **Part 002 editorial review ER1: scans 112–144 / printed 95–127 — 33 consecutive records**.
+Proceed with **Part 002 editorial review ER2: scans 145–177 / printed 128–160 — 33 records**.
 
-At editorial review, improve English readability, grammar, style, coherence, metadata consistency and page-to-page transitions while preserving source meaning and glossary controls. Promote a page from `source-checked` to `editorial-reviewed` only after it passes this gate. Do not import published/standard/web English Kural wording and do not change Tamil archival records.
+After ER2:
 
-After ER1: **ER2 scans 145–177 / printed 128–160 — 33 pages**.
+- **ER3 scans 178–210 / printed 161–193 — 33 pages**;
+- **ER4 scans 211–222 / printed 194–205 — final 12 pages**.
 
-Do not begin Part 003 before Part 002 editorial review, Part-level review, release report and final Part closure are complete.
+Do not begin Part-level English review until editorial review reaches **111/111**. Do not begin Part 003 before Part 002 English editorial review, Part-level review, release report and final Part closure are complete.
 
 See `TRANSLATION_STATUS.md` for the authoritative detailed frontier.
