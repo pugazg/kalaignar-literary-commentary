@@ -10,7 +10,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
 | 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | not-started |
+| 003 | 223–333 | **source intake PASS / COMPLETE; Tamil Pass 1 READY / NEXT** |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
 | 006 | 556–666 | not-started |
@@ -21,7 +21,7 @@ Mandatory per-part cadence:
 
 source intake → Pass 1 → Pass 2A → Pass 2B → Pass 3 → Part audit → final metadata/status sync → documentation sync → Tamil archival-ready → English project-translation/review closure → final Part checkpoint → next supplied Part.
 
-For active English page-batched iterations, the user-directed normal batch size is **33 physical pages**. Historical completed batches retain their original sizes; a final remainder may be shorter. Part-level review and release report are whole-Part gates.
+Current user-directed normal page-batched iteration size is **33 physical pages**. Historical completed batches retain their original sizes; a final remainder may be shorter. Workflow boundaries never create artificial source boundaries.
 
 ## Part 001 — CLOSED
 
@@ -33,34 +33,40 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_002_
 
 Tamil is **ARCHIVAL-READY / CLOSED** at **111 textual verified + 111 visual verified / 0 exceptions**.
 
-## Maintained English workflow
+Maintained English is **RELEASE COMPLETE / CLOSED — 111/111 `release-ready`**. Durable review and release records are under `translations/en/reviews/`.
 
-**draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
+## Part 003 — SOURCE INTAKE COMPLETE / TAMIL ACTIVE
 
-- first-pass drafting: **111/111 COMPLETE**;
-- source-check: **111/111 COMPLETE / CLOSED**;
-- glossary reconciliation: **111/111 COMPLETE / CLOSED**;
-- editorial review: **111/111 COMPLETE / CLOSED**;
-- Part-level review: **PASS / CLOSED**;
-- release report: **APPROVED / CLOSED**;
-- release-ready: **111/111 COMPLETE / CLOSED**.
+Controlling source:
 
-Durable Part-level review: `translations/en/reviews/PART_002_ENGLISH_REVIEW.md`.
+`TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf`
 
-The whole-Part review passed one-to-one Tamil/English inventory and filename alignment, exact pre-release statuses, controlled terminology/names, chapter/Kural metadata, visual/non-body functions and continuity through final **221→222**. No English page wording or status changed at that gate.
+Confirmed intake identity:
 
-The internal Part ending at scan **222** is closed. The external **222→223** boundary remains explicitly deferred until Part 003 source intake; no unsupported boundary is inferred.
+- **111 physical pages**;
+- overall scans **223–333**;
+- printed pages **206–316**;
+- **93,488,924 bytes**;
+- SHA-256 `f07e7cdb3a6e786b0378e00bbe699a241be41c9e099c004a4faa90fa82b4239f`;
+- no usable parsed text layer; rendered scan images are controlling.
 
-No Tamil page record changed and no external/published/web English wording was imported.
+Durable intake record: `SOURCE_INTAKE_PART_003.md`.
 
-## English release closure
+The previously deferred **222→223** boundary is now resolved as **clean**: scan 222 closes the pastoral / `ஆயர்குடி` vignette with Chapter 128 / Kural 1275, while scan 223 / printed 206 begins a new illustrated `பேதைமை` vignette. Scan 224 / printed 207 closes that new unit with Chapter 84 / Kurals 838, 839.
 
-Durable release report: `translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`.
+At the far end, scan **333 / printed 316** closes the final visible Part 003 unit with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567. The external **333→334** boundary remains deferred until Part 004 is supplied.
 
-Part 002 English release is **APPROVED / CLOSED at 111/111 `release-ready`**. Release changed only page status fields; approved English wording and Tamil archival records were unchanged. Final Part 002 checkpoint: **PASS / CLOSED**.
+### Part 003 Pass 1 cadence
 
-The internal ending at scan **222** is closed. The external **222→223** split-boundary check remains deferred until the Part 003 source is supplied.
+User-directed normal iteration size: **33 scans**.
+
+- P3-01: **223–255 / printed 206–238**;
+- P3-02: **256–288 / printed 239–271**;
+- P3-03: **289–321 / printed 272–304**;
+- final remainder: **322–333 / printed 305–316**.
+
+Durable progress record: `PART_003_PASS1_PROGRESS.md`.
 
 ## Current frontier
 
-**Next activity: Part 003 source intake when the controlling source is supplied/onboarded.** Verify source identity and the actual **222→223** boundary first, then continue the overall scan sequence at **223**.
+**Next activity: Part 003 Pass 1 / P3-01 — scans 223–255 / printed 206–238, 33 page-aligned Tamil records.** Use scan 256 / printed 239 only as a boundary witness when needed. Pass 1 records remain `needs-review` / `visual_fidelity: needs-review`; do not normalize or import standard Kural wording.
