@@ -7,7 +7,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
-| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English first-pass COMPLETE 111/111; source-check COMPLETE 111/111; glossary reconciliation COMPLETE 111/111; editorial review ACTIVE 33/111** |
+| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English first-pass COMPLETE 111/111; source-check COMPLETE 111/111; glossary reconciliation COMPLETE 111/111; editorial review ACTIVE 66/111** |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
@@ -112,7 +112,7 @@ Part 002 contains **111 page-aligned records**, scans **112–222 / printed 95�
 
 Final Part 002 Tamil status: **111/111 textual verified; 111/111 visual fidelity verified; 0 partial; 0 source-limited; 0 needs-review**.
 
-Part 002 maintained English source-check is **COMPLETE 111/111**, with **0 remaining draft pages**. Glossary reconciliation is **COMPLETE / CLOSED 111/111**. Editorial review is **ACTIVE 33/111**.
+Part 002 maintained English source-check is **COMPLETE 111/111**, with **0 remaining draft pages**. Glossary reconciliation is **COMPLETE / CLOSED 111/111**. Editorial review is **ACTIVE 66/111**.
 
 - **GR1 scans 112–126 / printed 95–109 — COMPLETE 15/15**;
 - **GR2 scans 127–159 / printed 110–142 — COMPLETE 33/33**;
@@ -124,10 +124,11 @@ GR4 reconciled explicit `பாவேந்தர் பாரதிதாசன
 Editorial review:
 
 - **ER1 scans 112–144 / printed 95–127 — COMPLETE 33/33**;
-- scans **112–144** are `editorial-reviewed`;
-- scans **145–222** remain `source-checked` pending editorial review.
+- **ER2 scans 145–177 / printed 128–160 — COMPLETE 33/33**;
+- scans **112–177** are `editorial-reviewed`;
+- scans **178–222** remain `source-checked` pending editorial review.
 
-ER1 made source-faithful wording improvements on scans **113, 120, 127, 142 and 143**. No other ER1 page required wording change. The **144→145** boundary remains a genuine continuation; scan 145 was inspected as a boundary witness and remains for ER2.
+ER2 made source-faithful wording improvements on scans **146, 150, 157, 161, 169, 171 and 176**. No other ER2 page required wording change. Scan **177 / printed 160** remains illustration-only inside the genuine **176→177→178** continuation; scan 178 was inspected only as the ER2 boundary witness and remains for ER3.
 
 ## Additional physical notes
 
@@ -185,7 +186,7 @@ Part 002:
 - maintained English first-pass drafting — **COMPLETE 111/111**;
 - maintained English source-check — **COMPLETE 111/111**;
 - maintained English glossary reconciliation — **COMPLETE / CLOSED 111/111; GR1–GR4 COMPLETE**;
-- maintained English editorial review — **ACTIVE 33/111; ER1 COMPLETE**.
+- maintained English editorial review — **ACTIVE 66/111; ER1 + ER2 COMPLETE**.
 
 ## Current frontier
 
@@ -193,10 +194,10 @@ Part 002:
 
 **Part 002 Tamil: ARCHIVAL-READY / CLOSED.**
 
-**Part 002 English: ACTIVE — first-pass drafting COMPLETE 111/111; source-check COMPLETE 111/111; glossary reconciliation COMPLETE/CLOSED 111/111; editorial review ACTIVE 33/111.**
+**Part 002 English: ACTIVE — first-pass drafting COMPLETE 111/111; source-check COMPLETE 111/111; glossary reconciliation COMPLETE/CLOSED 111/111; editorial review ACTIVE 66/111.**
 
 User-directed normal iteration size: **33 physical scan pages**.
 
-Exact next activity: **Part 002 English editorial review ER2, overall scans 145–177 / printed 128–160 — 33 records**, using the source-checked + glossary-reconciled English records, audited Tamil source authority and current `GLOSSARY.md`. Scan 145 directly continues the editorial-reviewed scan 144. Review English readability/style/coherence and metadata without changing source meaning; promote only passing pages to `editorial-reviewed`.
+Exact next activity: **Part 002 English editorial review ER3, overall scans 178–210 / printed 161–193 — 33 records**, using the source-checked + glossary-reconciled English records, audited Tamil source authority and current `GLOSSARY.md`. Scan 178 directly continues and closes the editorial-reviewed **176→177** sequence. Review English readability/style/coherence and metadata without changing source meaning; promote only passing pages to `editorial-reviewed`.
 
-After ER2, **ER3 scans 178–210 / printed 161–193 — 33 pages**, followed by **ER4 scans 211–222 / printed 194–205 — final 12 pages**. Do not begin Part-level English review until editorial review reaches 111/111, and do not begin Part 003 before Part 002 completes its maintained English workflow and final Part closure.
+After ER3, **ER4 scans 211–222 / printed 194–205 — final 12 pages**. Do not begin Part-level English review until editorial review reaches 111/111, and do not begin Part 003 before Part 002 completes its maintained English workflow and final Part closure.
