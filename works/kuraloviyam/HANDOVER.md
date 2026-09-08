@@ -25,40 +25,14 @@ Read before changing anything:
 11. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
 12. `works/kuraloviyam/translations/en/GLOSSARY.md`
 
-Permanent cadence:
+## Durable state
 
-source intake → Pass 1 → Pass 2A → Pass 2B → Pass 3 → Part audit → final metadata/status sync → documentation sync → Tamil archival-ready → maintained English workflow → final Part closure.
-
-## Part 001 — CLOSED
-
-Tamil scans **1–111**: **107 verified + 4 partial**; visual **111/111 verified**. English: **107 release-ready + 4 source-limited**; source-limited scans **13, 14, 15, 19**.
-
-## Part 002 Tamil — ARCHIVAL-READY / CLOSED
-
-Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf`.
-
-- overall scans **112–222**;
-- printed pages **95–205**;
-- 111 physical pages;
-- SHA-256 `4397caf9ba405ba65f50865c85e24461ea56bd2efa3dd589d31469877c9a4bda`.
-
-All Tamil archival gates are closed. Final disposition: **111 textual verified / 111 visual verified / 0 exceptions**.
-
-Durable declaration: `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`.
-
-Part 002 Tamil is not to be routinely retranscribed or reverified during English work.
-
-## Part 002 English status — ACTIVE
-
-- translation type — **project-created English translation**;
-- official/publisher English source supplied — **no**;
-- normal authority — audited Tamil Part 002 records;
-- first-pass drafting — **111/111 COMPLETE**;
-- source-check — **15/111 COMPLETE so far / ACTIVE**;
-- glossary reconciliation — **0/111**;
-- editorial review — **0/111**;
-- Part review — not started;
-- release report — not started.
+- Part 001: **CLOSED** — English **107 release-ready + 4 source-limited**.
+- Part 002 Tamil: **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**.
+- Part 002 English first-pass: **111/111 COMPLETE**.
+- Part 002 English source-check: **30/111 ACTIVE**.
+- glossary reconciliation: **0/111**.
+- editorial review: **0/111**.
 
 Permanent English cadence:
 
@@ -66,31 +40,33 @@ Permanent English cadence:
 
 ## Source-check record
 
-- **SC1: scans 112–126 / printed 95–109 — COMPLETE, 15/15 source-checked.**
+- **SC1 scans 112–126 / printed 95–109 — COMPLETE 15/15.**
+- **SC2 scans 127–141 / printed 110–124 — COMPLETE 15/15.**
 
-SC1 compared English pages against the audited Tamil records paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual-page function and source-continuation relationships. The clean **111→112** Part boundary was preserved.
+SC2 source-check corrections:
 
-Scan **127 / printed 110** was inspected only as the continuation witness for scan 126 and remains `draft` for SC2.
+- scan **129 / Kural 1312** — removed the unsupported Kural-level idea that the heroine would “forget” the quarrel; source-faithful line now says he sneezed knowing she would say, “May you live long.”
+- scan **137** — corrected `கொய்யாக் கனி` from “guava-like fruit” to **“unplucked fruit.”**
 
-One source-fidelity correction was required: scan **125 / printed 108 / Kural 1291** previously contained the unsupported draft phrase **“and his love.”** The Kural rendering was corrected to **“Though you see that his heart is his own, / why, my heart, do you not belong to me?”** before the page was promoted to `source-checked`. No Tamil page changed and no published/standard/web English Kural wording was imported.
+Continuity: scan 127 closes the Gandhi continuation from 126; **133→134 clean**; **141→142 clean**. No Tamil archival record changed. No published/standard/web English Kural wording was imported.
 
-## Exact current activity — Part 002 English source-check SC2
+## Exact current activity — Part 002 English source-check SC3
 
-Proceed with **overall scans 127–141 / printed 110–124**, 15 consecutive page-aligned records.
+Proceed with **overall scans 142–156 / printed 125–139**, 15 consecutive page-aligned records.
 
 Requirements:
 
 1. fetch live `main` and preserve newer durable work;
-2. read the English README, TRANSLATION_GUIDE, TRANSLATION_STATUS and relevant GLOSSARY conventions;
-3. compare English files `0127`–`0141` against their audited Tamil counterparts paragraph-by-paragraph / block-by-block;
-4. check omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual-page function and source-continuation relationships;
-5. scan **127** begins as the direct continuation and closure of the Gandhi vignette from already source-checked scan **126**;
-6. only pages that pass may move from `draft` to `source-checked`;
-7. do not use source-check for stylistic rewriting unrelated to fidelity;
-8. do not import a published/standard English Kural translation;
+2. compare English files `0142`–`0156` against the audited Tamil counterparts paragraph-by-paragraph / block-by-block;
+3. check omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual-page function and cross-page continuity;
+4. **141→142 is a clean boundary**;
+5. preserve the genuine **144→145** continuation and clean **155→156** boundary;
+6. only passing pages may move from `draft` to `source-checked`;
+7. do not use source-check for unrelated stylistic rewriting;
+8. do not import published/standard/web English Kural wording;
 9. do not change Tamil archival records;
-10. synchronize English status/frontier and audit the exact changed-file set after SC2.
+10. synchronize status/frontier and audit the exact changed-file set after SC3.
 
-Next source-check batch after SC2: **SC3 scans 142–156 / printed 125–139**, 15 records.
+Next after SC3: **SC4 scans 157–171 / printed 140–154**, 15 records.
 
-Do not begin glossary reconciliation until source-check is complete at **111/111**. Part 003 remains blocked until Part 002 English workflow and final Part closure are complete.
+Do not begin glossary reconciliation until source-check reaches **111/111**. Part 003 remains blocked until Part 002 English workflow and final Part closure are complete.
