@@ -52,7 +52,7 @@ Do not repeat Tamil verification merely because English drafting is underway.
 
 ## Part 002 English gates
 
-- first-pass drafting: **55/111 — ACTIVE**;
+- first-pass drafting: **66/111 — ACTIVE**;
 - source-check: **0/111**;
 - glossary reconciliation: **0/111**;
 - editorial review: **0/111**;
@@ -67,22 +67,22 @@ Do not repeat Tamil verification merely because English drafting is underway.
 - **Batch 3: scans 134–144 / printed 117–127 — COMPLETE, 11/11 draft records.**
 - **Batch 4: scans 145–155 / printed 128–138 — COMPLETE, 11/11 draft records.**
 - **Batch 5: scans 156–166 / printed 139–149 — COMPLETE, 11/11 draft records.**
+- **Batch 6: scans 167–177 / printed 150–160 — COMPLETE, 11/11 draft records.**
 
-Batch 5 preserves audited Tamil page alignment, visual-material placement, Kural block lineation, Chapter/Kural metadata and source-supported cross-page continuations. No published/standard/web English Kural wording was imported, and no Tamil archival record was changed.
+Batch 6 preserves audited Tamil page alignment, visual-material placement, Kural block lineation, Chapter/Kural metadata and source-supported cross-page continuations. Scan **177 / printed 160** is preserved as a full-page illustration-only English record. No published/standard/web English Kural wording was imported, and no Tamil archival record was changed.
 
 Notable continuity retained:
 
-- **155→156** is a clean source boundary;
-- **156→157** crowd/knife and critical-inquiry vignette closes at 157;
-- **158→159** Maavengko/Maangani trade-and-separation vignette closes at 159;
-- **160→161** elephant/terrain/strength vignette closes at 161;
-- **162→163** Malaiyan/Silamban/Kalingan slander vignette closes at 163;
-- **164→165** one-sided-love/kavadi vignette closes at 165;
-- **166→167** is a genuine continuation; Batch 5 therefore ends at a physical batch boundary inside the medical/valor vignette.
+- **166→167** medical/valor vignette closes at 167;
+- **168→169** Kala/Thogai love-and-heart vignette closes at 169;
+- **170→171** Socrates/prison/poison vignette closes at 171;
+- **172→173** Vengai/Enthizhai separation vignette closes at 173;
+- **174→175** battlefield/war-elephant vignette closes at 175;
+- **176→177→178** love/separation-night vignette continues across the illustration-only scan 177 into scan 178; Batch 6 therefore ends at a physical batch boundary inside that vignette.
 
 ## Current frontier
 
-Proceed with **Part 002 English first-pass draft Batch 6: overall scans 167–177 / printed 150–160**, 11 records.
+Proceed with **Part 002 English first-pass draft Batch 7: overall scans 178–188 / printed 161–171**, 11 records.
 
 Requirements:
 
@@ -92,8 +92,9 @@ Requirements:
 4. preserve source-supported Kural/chapter, visual and continuation relationships;
 5. do not import published/standard/web English Kural wording;
 6. do not change Tamil archival records;
-7. update this status and audit the exact changed-file set after the batch.
+7. preserve the incoming **176→177→178** continuation when drafting scan 178;
+8. update this status and audit the exact changed-file set after the batch.
 
-Next draft batch after Batch 6: **178–188 / printed 161–171**, 11 records.
+Next draft batch after Batch 7: **189–199 / printed 172–182**, 11 records.
 
 Do not begin source-check until Part 002 first-pass drafting covers all 111 records. Part 003 remains blocked until Part 002 English workflow and final Part closure are complete.
