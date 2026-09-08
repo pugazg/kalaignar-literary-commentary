@@ -119,9 +119,9 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | திராவிடர் பதிப்பகம் | Dravidar Pathippagam | Transliterate the publisher name. |
 | முரசொலி | Murasoli | Retain periodical title. |
 | தினமணி கதிர் | Dinamani Kathir | Retain periodical title. |
-| குங்குமம் | Kungumam | Retain periodical title. |
+| குங்குமம் | Kungumam / contextually kumkum | Use **Kungumam** for the periodical title. In ordinary descriptive prose, as on scan 124's `குங்கும ஒளி`, use natural **kumkum** rather than the publication-name form. |
 | குடியரசு | Kudiyarasu | Retain periodical title. |
-| வள்ளுவம் | Valluvam | Retain book title in transliteration. |
+| வள்ளுவம் | Valluvam | Retain in transliteration. Part 001 includes a book-title context; scan 118's `வாழ்க வள்ளுவம்` uses the same form as a broader Valluvar-tradition/teaching reference. Do not replace it mechanically with an invented English ideological label. |
 | இராமாயணம் | Ramayanam / Ramayana | Context-aware. Preserve `Ramayanam` in the earlier Kambar-work context; scan 72 uses natural English `Ramayana` in the Valmiki reference. Do not force one form across unlike contexts. |
 | தொல்காப்பியம் | Tolkappiyam | Retain classical work title in transliteration. |
 | சிலப்பதிகாரம் | Silappathikaram | Retain classical work title in transliteration. |
@@ -163,7 +163,7 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | கம்பர் | Kambar | Transliterate. |
 | இளங்கோ | Ilango | Transliterate consistently across the Critical Appreciation. |
 | இளங்கோ அடிகள் / இளங்கோவடிகள் | Ilango Adigal | Preserve the explicit ascetic/honorific form used on scans 52–53. |
-| காந்தியடிகள் | Gandhi | The current English rendering of the source honorific form in scan 10. |
+| காந்தியடிகள் | Gandhi | Controlled source-honorific rendering across scans 10 and 126. Do not mechanically add an English/Hindi honorific such as `-ji` when the established project form is simply `Gandhi`. |
 | பூட்டோ | Bhutto | Transliterate the name as used in scan 10. |
 | காரல் மார்க்ஸ் | Karl Marx | Established English personal-name form already used in the source-checked translation. |
 | சென்னியாள் | Jenny | Source-supported English name used in scan 10 for Karl Marx's wife. |
@@ -305,6 +305,45 @@ GR8 compared the final six English records against their audited Tamil context a
 - no standard/published/web English Kural terminology was imported.
 
 Part 001 glossary / recurring-terminology reconciliation is now **COMPLETE — 111/111 scans**.
+
+## Part 002 recurring-term controls encountered through GR1
+
+| Tamil | Default English | Editorial note |
+|---|---|---|
+| ஓய்வு விடுதி / விடுதி | rest-house | Controlled for the merchant/rest-house vignette across scans 121–123. Keep the same lodging term across the source unit; `விடுதி உரிமையாளன்` may be **rest-house proprietor** or **owner of the rest-house** according to syntax. |
+
+## Thirukkural chapter labels encountered in Part 002 through GR1
+
+| Tamil | Default English | Editorial note |
+|---|---|---|
+| ஊடலுவகை | Joy of Lovers' Quarrel | Chapter 133; scan 113 reconciled from `Delight in Lovers' Quarrel` to this controlled label, matching later Part 002 usage. |
+| கல்லாமை | Lack of Learning | Chapter 41 label on scan 115. |
+| புணர்ச்சி விதும்பல் | Yearning for Union | Chapter 129 label on scans 116 and 120. |
+| வாய்மை | Truthfulness | Chapter 30 label on scan 118. |
+| தெரிந்து தெளிதல் | Knowing and Trusting | Chapter 51 label on scan 123. |
+| நெஞ்சொடு புலத்தல் | Chiding the Heart | Chapter 130 label on scan 125. |
+
+## People / narrative names encountered in Part 002 through GR1
+
+| Tamil | Default English form | Editorial note |
+|---|---|---|
+| மருதன் / மருதா | Marudhan / Marudha | Younger brother in scans 124–125; use `Marudha` for the direct-address/vocative form. |
+| தேனப்பன் | Thenappan | Marudhan's friend in scans 124–125. |
+
+## Part 002 GR1 reconciliation record — scans 112–126
+
+GR1 compared the source-checked English records for scans **112–126 / printed 95–109** against their audited Tamil counterparts and the controlled glossary.
+
+- scans **112–126** — terminology reconciliation **PASS, 15/15**;
+- **four English page records** required terminology consistency corrections:
+  - scan **113 / printed 96** — Chapter 133 `ஊடலுவகை` was reconciled from **Delight in Lovers' Quarrel** to controlled **Joy of Lovers' Quarrel**;
+  - scans **121–122 / printed 104–105** — the same source lodging `ஓய்வு விடுதி / விடுதி` had alternated between **inn** and **rest-house**; the source unit is now consistently **rest-house**, with proprietor/owner wording adjusted naturally by syntax;
+  - scan **126 / printed 109** — source honorific `காந்தியடிகள்` was reconciled from **Gandhiji** to the established project form **Gandhi**, matching the existing Part 001 control;
+- existing glossary entries were refined contextually rather than mechanically: `குங்குமம்` remains **Kungumam** as a periodical title but ordinary scan-124 prose uses **kumkum**; `வள்ளுவம்` remains **Valluvam** both in the earlier book-title context and scan 118's broader `வாழ்க வள்ளுவம்` usage; `காந்தியடிகள்` is controlled as **Gandhi**;
+- new source-supported chapter-label controls added in this batch are **Joy of Lovers' Quarrel**, **Lack of Learning**, **Yearning for Union**, **Truthfulness**, **Knowing and Trusting**, and **Chiding the Heart**;
+- recurring source-supported narrative-name controls **Marudhan / Marudha** and **Thenappan** were added from scans 124–125;
+- scan **126→127** is a genuine continuation. Scan 127 was inspected only as the boundary witness and remains for GR2; its still-existing **Gandhiji** form is therefore an explicit GR2 terminology item rather than a GR1 out-of-batch edit;
+- no Tamil archival record was changed and no external/published/web English Kural terminology was imported.
 
 ## Review rule
 
