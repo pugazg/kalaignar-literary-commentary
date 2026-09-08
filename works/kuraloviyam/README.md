@@ -10,7 +10,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
 | 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | **source intake PASS / COMPLETE; Tamil Pass 1 ACTIVE — 66/111 captured** |
+| 003 | 223–333 | **source intake PASS / COMPLETE; Tamil Pass 1 ACTIVE — 77/111 captured** |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
 | 006 | 556–666 | not-started |
@@ -56,7 +56,7 @@ The **222→223** boundary is resolved as **clean**. The external **333→334** 
 
 ### Part 003 Pass 1 state
 
-**66 / 111 scans captured — overall scans 223–288 / printed 206–271.** All records remain `needs-review` / `visual_fidelity: needs-review` as required for Pass 1.
+**77 / 111 scans captured — overall scans 223–299 / printed 206–282.** All records remain `needs-review` / `visual_fidelity: needs-review` as required for Pass 1.
 
 Completed batches:
 
@@ -65,22 +65,22 @@ Completed batches:
 - **P3-03: scans 245–255 / printed 228–238 — COMPLETE 11/11**;
 - **P3-04: scans 256–266 / printed 239–249 — COMPLETE 11/11**;
 - **P3-05: scans 267–277 / printed 250–260 — COMPLETE 11/11**;
-- **P3-06: scans 278–288 / printed 261–271 — COMPLETE 11/11**.
+- **P3-06: scans 278–288 / printed 261–271 — COMPLETE 11/11**;
+- **P3-07: scans 289–299 / printed 272–282 — COMPLETE 11/11**.
 
-P3-06 captured:
+P3-07 captured:
 
-- scans **278–279** — Killi / Nalli lovers' quarrel and flood-swimmer analogy; Chapter 129 / Kural 1287;
-- scans **280–281** — household cleanliness / foolishness vignette; Chapter 84 / Kural 840;
-- scans **282–283** — union / self-earned-sharing vignette; Chapter 111 / Kural 1107;
-- scans **284–285** — two-poets / ruler-and-counsel vignette; Chapter 45 / Kural 448;
-- scans **286–287** — war-separation / beloved's fame vignette; Chapter 120 / Kural 1199;
-- scan **288** — Valluvar / renunciation vignette begins and continues directly to scan 289.
+- scan **289** — closes the Valluvar / renunciation vignette begun on scan 288; Chapter 35 / Kurals 347, 350;
+- scans **290–291** — Ponni / Thamarai waiting vignette; Chapter 127 / Kural 1269;
+- scans **292–293** — altered-Kural / friendship vignette; Chapter 53 / Kural 521;
+- scans **294–295** — woodcutter / one-day-separation vignette; Chapter 127 / Kural 1264;
+- scans **296–297** — defeated-army / enduring-military-strength vignette; Chapter 77 / Kural 762;
+- scans **298–299** — Mullai-kodi / Mukilan fisher-couple separation-and-dream vignette; Chapter 122 / Kural 1218.
 
-Boundary state through the current frontier: **233→234 genuine; 244→245 clean; 255→256 clean; 266→267 genuine; 277→278 clean; 288→289 genuine**. Scan **289 / printed 272** was inspected only as the P3-06 outgoing boundary witness; it continues the Valluvar / renunciation vignette and belongs to P3-07.
+Boundary state through the current frontier: **233→234 genuine; 244→245 clean; 255→256 clean; 266→267 genuine; 277→278 clean; 288→289 genuine; 299→300 clean**. Scan **300 / printed 283** was inspected only as the P3-07 outgoing boundary witness; it begins a new illustrated vignette and belongs to P3-08.
 
 ### Remaining 11-page Pass 1 cadence
 
-- P3-07: **289–299 / printed 272–282**;
 - P3-08: **300–310 / printed 283–293**;
 - P3-09: **311–321 / printed 294–304**;
 - P3-10: **322–332 / printed 305–315**;
@@ -90,4 +90,4 @@ Durable progress record: `PART_003_PASS1_PROGRESS.md`.
 
 ## Current frontier
 
-**Next activity: Part 003 Pass 1 / P3-07 — scans 289–299 / printed 272–282, 11 page-aligned Tamil records.** Begin scan **289 / printed 272** as the direct continuation of the Valluvar / renunciation vignette begun on scan 288. Use scan **300 / printed 283** only as a boundary witness when needed. Pass 1 records remain `needs-review` / `visual_fidelity: needs-review`; do not normalize or import standard Kural wording.
+**Next activity: Part 003 Pass 1 / P3-08 — scans 300–310 / printed 283–293, 11 page-aligned Tamil records.** Begin scan **300 / printed 283** as the new illustrated vignette confirmed by the P3-07 outgoing boundary witness. Use scan **311 / printed 294** only as a boundary witness when needed. Pass 1 records remain `needs-review` / `visual_fidelity: needs-review`; do not normalize or import standard Kural wording.
