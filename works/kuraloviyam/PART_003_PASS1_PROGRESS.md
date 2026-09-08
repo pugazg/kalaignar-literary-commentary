@@ -84,7 +84,22 @@ Source units observed:
 - scans **274–275 / printed 257–258** — returning-prince / separation vignette; Chapter 127 / Kural 1267;
 - scans **276–277 / printed 259–260** — nettilingam-tree / drunken-climber autobiographical vignette; Chapter 48 / Kural 476.
 
-Important boundary: **277→278 is clean.** Scan **278 / printed 261** was inspected only as the outgoing boundary witness during P3-05 and begins a new illustrated vignette; it belongs to P3-06.
+Important boundary: **277→278 is clean.**
+
+## P3-06 — COMPLETE
+
+Scans **278–288 / printed 261–271** captured as **11 page-aligned Tamil records**.
+
+Source units observed:
+
+- scans **278–279 / printed 261–262** — Killi / Nalli lovers' quarrel and flood-swimmer analogy; Chapter 129 / Kural 1287;
+- scans **280–281 / printed 263–264** — household cleanliness / foolishness vignette; Chapter 84 / Kural 840;
+- scans **282–283 / printed 265–266** — union / self-earned-sharing vignette; Chapter 111 / Kural 1107;
+- scans **284–285 / printed 267–268** — two-poets / ruler-and-counsel vignette; Chapter 45 / Kural 448;
+- scans **286–287 / printed 269–270** — war-separation / beloved's fame vignette; Chapter 120 / Kural 1199;
+- scan **288 / printed 271** — Valluvar / renunciation vignette begins and continues directly to scan 289.
+
+Important boundary: **288→289 is a genuine continuation.** Scan **289 / printed 272** was inspected only as the outgoing boundary witness during P3-06 and continues the same Valluvar / renunciation unit; it belongs to P3-07.
 
 All captured Part 003 Pass-1 records remain:
 
@@ -93,12 +108,11 @@ All captured Part 003 Pass-1 records remain:
 
 Pass 1 is physical capture/transcription only and does not make records source-verified.
 
-Current Part 003 Pass-1 capture frontier: **55 / 111 scans — overall scans 223–277 / printed 206–260**.
+Current Part 003 Pass-1 capture frontier: **66 / 111 scans — overall scans 223–288 / printed 206–271**.
 
 ## Planned remaining Pass 1 iterations — 11-page cadence
 
-- **P3-06 — NEXT:** scans **278–288 / printed 261–271** — 11 scans;
-- **P3-07:** scans **289–299 / printed 272–282** — 11 scans;
+- **P3-07 — NEXT:** scans **289–299 / printed 272–282** — 11 scans;
 - **P3-08:** scans **300–310 / printed 283–293** — 11 scans;
 - **P3-09:** scans **311–321 / printed 294–304** — 11 scans;
 - **P3-10:** scans **322–332 / printed 305–315** — 11 scans;
@@ -112,4 +126,4 @@ Scans **332–333 / printed 315–316** form the final visible Part 003 unit. Sc
 
 ## Exact next activity
 
-Complete **P3-06 — overall scans 278–288 / printed 261–271** as 11 page-aligned Tamil records under `works/kuraloviyam/pages/`. Begin scan **278 / printed 261** as the new illustrated vignette confirmed by the P3-05 outgoing boundary witness. Inspect scan **289 / printed 272** only as a boundary witness when needed. Do not normalize, import standard Kural wording, or claim Pass 2/Pass 3 verification.
+Complete **P3-07 — overall scans 289–299 / printed 272–282** as 11 page-aligned Tamil records under `works/kuraloviyam/pages/`. Begin scan **289 / printed 272** as the direct continuation of the Valluvar / renunciation vignette begun on scan 288. Inspect scan **300 / printed 283** only as a boundary witness when needed. Do not normalize, import standard Kural wording, or claim Pass 2/Pass 3 verification.
