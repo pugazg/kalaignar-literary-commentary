@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 The headman jumped about in delight as he said this. The assistant explained:
 
-“Sir! It is true that fate cannot be conquered, people say. When something defeats us, we say, ‘Fate has won.’ On the other hand, when we gain victory, we say, ‘Fate itself gave us that victory.’ So fate is the cause we attribute to whatever result occurs. That is what Valluvar is saying.”
+“Sir! It is true that fate cannot be conquered. When something defeats us, we say, ‘Fate has won.’ On the other hand, when we gain victory, we say, ‘Fate itself gave us that victory.’ So fate is the cause we attribute to whatever result occurs. That is what Valluvar is saying.”
 
 The headman was astonished by his assistant's explanation. By then Singan had fought through the river's whirlpools and won, reaching the bank with the fawn. The headman was even more astonished. Forgetting even the enmity he had borne toward Singan, he praised the young man's courage, firmness of mind and compassionate heart, ran to him and embraced him.
 
