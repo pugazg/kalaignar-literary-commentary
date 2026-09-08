@@ -2,7 +2,7 @@
 
 This guide governs the **project-created English translation** of the audited Tamil archive of Kalaignar M. Karunanidhi's `குறளோவியம்`.
 
-It follows the repository-wide literary-commentary workflow and the completed Thirukkural English benchmark, while preserving Kuraloviyam's own source structure.
+It follows the repository-wide literary-commentary workflow while preserving Kuraloviyam's own source structure.
 
 ## 1. Translation identity
 
@@ -18,12 +18,12 @@ If a published English Kuraloviyam source is supplied later, archive it separate
 
 ## 2. Authority order
 
-For normal translation work:
+For normal translation/review work:
 
 1. audited Tamil page record under `works/kuraloviyam/pages/`;
 2. completed Tamil audit/status-sync records;
 3. this translation guide and `GLOSSARY.md`;
-4. `TRANSLATION_STATUS.md` and part-level English review/release records.
+4. `TRANSLATION_STATUS.md` and Part-level English review/release records.
 
 The original Tamil scan remains the ultimate source authority if a new provenance or fidelity problem is discovered, but a closed Part does not require routine PDF reopening for translation.
 
@@ -38,9 +38,9 @@ Never silently import:
 
 ## 3. Translation objective
 
-Produce faithful, readable English that preserves the meaning, imagery, rhetoric, narrative movement and interpretive voice of the audited Tamil record.
+Produce faithful, readable English that preserves meaning, imagery, rhetoric, narrative movement and interpretive voice of the audited Tamil record.
 
-Do not turn the translation into a new commentary, explanatory adaptation or ideological harmonization. Natural English syntax is expected, but additions that are not present in the Tamil must not be introduced merely to help the reader.
+Do not turn the translation into new commentary, explanatory adaptation or ideological harmonization. Natural English syntax is expected, but additions unsupported by Tamil must not be introduced merely to help the reader.
 
 ## 4. Page alignment
 
@@ -77,7 +77,7 @@ Tamil archival status and English translation status are separate. Never copy Ta
 
 ## 5. English statuses
 
-- `draft` — complete first English rendering exists for the safely translatable Tamil content.
+- `draft` — complete first English rendering exists for safely translatable Tamil content.
 - `source-checked` — English has been compared against the audited Tamil record paragraph-by-paragraph / block-by-block for omissions, additions and meaning drift.
 - `editorial-reviewed` — readability, terminology, names, repeated phrasing, quotations and consistency have received a second review.
 - `release-ready` — included in a completed Part-level English release report.
@@ -91,7 +91,7 @@ Part 001 Tamil is archival-ready with four intentional `partial` records:
 - scans 13–15 — handwritten/facsimile bodies cannot safely be established word-for-word;
 - scan 19 — physically washed-out/faint central printed text cannot safely be recovered.
 
-The English layer must not become more complete than those Tamil records. Translate only securely established material and mark the English page `source-limited`. Do not infer missing words from context, OCR, other editions or memory.
+The English layer must not become more complete than those Tamil records. Translate only securely established material and retain `source-limited`. Do not infer missing words from context, OCR, other editions or memory.
 
 ## 7. Kural handling inside Kuraloviyam
 
@@ -99,43 +99,45 @@ Kuraloviyam frequently embeds Kurals inside narrative, dialogue, criticism and i
 
 - Translate the exact Kural wording preserved in the audited Tamil page, not a standard edition.
 - Preserve a two-line Kural block when the Tamil record preserves it as a two-line block.
-- Preserve quoted Kural fragments as quoted fragments when they occur inside prose.
+- Preserve quoted Kural fragments as fragments when they occur inside prose.
 - Keep a Kural translation distinct from Kalaignar's surrounding explanation or narrative.
 - If a compressed Kural needs interpretive help, Kalaignar's adjacent explanation in the audited record is the first permitted aid.
 - Record materially interpretive choices during review rather than silently borrowing a conventional published rendering.
 
 ## 8. Front matter and literary prose
 
-Prefaces, critical appreciations, publication notes and other prose are translated paragraph-by-paragraph, preserving source order, rhetorical questions, repeated emphasis, quotations and meaningful paragraph boundaries.
+Translate prefaces, critical appreciations, publication notes and other prose paragraph-by-paragraph, preserving source order, rhetorical questions, repeated emphasis, quotations and meaningful paragraph boundaries.
 
 Poetry or verse quoted inside prose should preserve source-supported lineation and stanza grouping in English where practicable.
-
-Source emphasis may be reflected when it carries rhetorical structure, but exact colour/font reproduction is not required.
 
 ## 9. Visual and non-body material
 
 Translate factual archival descriptions of illustrations, photographs, signatures, stamps and other non-body material when they help preserve page meaning.
 
-Do not turn visual descriptions into invented captions. Non-printed marks remain clearly identified as non-printed material.
+Do not turn visual descriptions into invented captions. Non-printed marks remain clearly identified as non-body material.
 
 ## 10. Names and controlled terms
 
-Use the project glossary as a context-aware default, not a mechanical word-substitution table.
+Use `GLOSSARY.md` as a context-aware default, not a mechanical word-substitution table.
 
-Existing literary-commentary baseline terms retained where applicable include:
+Core controls include:
 
 - `குறளோவியம்` → **Kuraloviyam**;
 - `திருக்குறள்` → **Thirukkural**;
 - `குறள்` → **Kural**;
 - `முகப்புரை` → **Preface**;
 - `மதிப்புரை` → **Critical Appreciation**;
-- `அறத்துப்பால்` → **Book of Aram (Virtue / Right Conduct)** on first significant use, then **Book of Aram**;
+- `அறத்துப்பால்` → **Book of Aram**;
 - `பொருட்பால்` → **Book of Porul**;
-- `இன்பத்துப்பால்` → **Book of Inbam**.
+- `இன்பத்துப்பால்` → **Book of Inbam**;
+- `காமத்துப்பால்` → **Book of Love**;
+- `ஊடல்` → **lovers' quarrel** contextually;
+- `கூடல்` → **lovers' union** contextually;
+- `யாழ்` → **yaazh**.
 
-Personal names and periodical/book titles should be rendered consistently and not anglicized beyond established project usage.
+Personal names and periodical/book titles should be rendered consistently and not anglicized beyond established project usage. Context-sensitive kinship/direct-address terms must not be forced into one English equivalent when relationships differ.
 
-## 11. Review workflow for each Part
+## 11. Permanent Part workflow
 
 For each Tamil Part:
 
@@ -149,131 +151,83 @@ For each Tamil Part:
 8. page promotion to `release-ready` only after release approval;
 9. final Part checkpoint before the next Part begins.
 
-Part 002 must not begin until Part 001 English closure is complete and Part 002 source is supplied.
+Do not begin a later Part until the active Part's required English review/release and final closure are complete.
 
-## 12. Iteration discipline
+## 12. Iteration discipline — current user directive
 
-The current user-directed cadence is **15 physical scan pages per normal iteration**. A final Part remainder may be shorter.
+**Current normal iteration size: 33 physical scan pages.**
+
+This user-directed cadence applies **from the current Part 002 glossary checkpoint onward** to active Kuraloviyam English workflow iterations. Historical completed batches retain the sizes at which they were actually processed. A final Part remainder may be shorter than 33 pages.
 
 For first-pass drafting:
 
-- use exactly 15 consecutive `scan_page` records in each normal iteration;
-- the final drafting iteration of a Part may be shorter when fewer than 15 pages remain;
+- use 33 consecutive `scan_page` records per normal future iteration unless the user explicitly changes the cadence again;
 - a batch boundary does not imply a narrative, quotation or Kural boundary;
+- preserve cross-page continuation exactly;
 - source-limited pages count toward the batch and remain `source-limited`.
 
 For source-check:
 
-- use exactly 15 consecutive `scan_page` records in each normal iteration;
-- compare English against the audited Tamil page paragraph-by-paragraph / block-by-block;
+- use 33 consecutive `scan_page` records per normal future iteration unless a final remainder is shorter;
+- compare English against audited Tamil paragraph-by-paragraph / block-by-block;
 - check omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual-page function and cross-page continuations;
-- only a page that passes this comparison may move from `draft` to `source-checked`;
-- `source-limited` pages remain `source-limited` even after their securely established material is reviewed;
-- do not use the source-check stage for stylistic rewriting that is unrelated to fidelity.
+- only a passing page may move from `draft` to `source-checked`;
+- do not use source-check for stylistic rewriting unrelated to fidelity.
 
 For glossary / recurring-terminology reconciliation:
 
-- use the same **15 consecutive scan-page** cadence;
-- compare recurring names, work/section names, controlled literary terms, publication names, chapter labels and repeated English renderings against `GLOSSARY.md` and their audited Tamil context;
-- update `GLOSSARY.md` only for recurring terms actually evidenced in Part 001;
-- do not mechanically force one English word where the Tamil context requires a different rendering;
-- this gate does **not** by itself promote `source-checked` pages to `editorial-reviewed`; source-limited pages remain `source-limited`;
+- use **33 consecutive scan pages per normal iteration**;
+- compare recurring names, work/section names, controlled literary terms, publication names, chapter labels, citation metadata and repeated English renderings against `GLOSSARY.md` and audited Tamil context;
+- update `GLOSSARY.md` only for terms actually evidenced in the active source;
+- do not mechanically force one English word where context requires a different rendering;
+- this gate does **not** promote `source-checked` pages to `editorial-reviewed`;
 - do not import terminology from external editions, web sources or memory.
 
 For editorial review:
 
+- use the current 33-page normal cadence unless the user changes it;
 - review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity;
-- consult the matching audited Tamil whenever an editorial change could affect meaning;
+- consult matching audited Tamil whenever an editorial change could affect meaning;
 - make only source-faithful editorial improvements;
-- passing `source-checked` pages may move to `editorial-reviewed`; source-limited pages remain `source-limited`.
+- passing `source-checked` pages may move to `editorial-reviewed`.
 
 For Part-level review:
 
 - review the completed Part as a whole rather than repeating page-level batches;
-- verify page inventory/alignment, final statuses, source-limited integrity, terminology, names, Kural metadata, page functions and accumulated cross-page continuities;
+- verify page inventory/alignment, final statuses, source-limited integrity, terminology, names, Kural metadata, page functions and accumulated continuities;
 - create a durable review record under `translations/en/reviews/`;
 - do **not** promote pages to `release-ready` at this gate.
 
 For every iteration or gate, fetch live `main` first, preserve newer durable state, update `TRANSLATION_STATUS.md`, and audit the exact changed-file set before advancing.
 
-## 13. Part 001 drafting record
+## 13. Historical Part 001 English record
 
 Part 001 covers overall scans 1–111.
 
-Completed first-pass batches:
+- first-pass drafting: **COMPLETE 111/111**;
+- source-check: **COMPLETE 111/111**;
+- glossary reconciliation: **COMPLETE 111/111**;
+- editorial review: **COMPLETE — 107 editorial-reviewed + 4 source-limited**;
+- Part-level review: **PASS**;
+- release: **CLOSED — 107 release-ready + 4 source-limited**.
 
-- Batch 1: scans 1–8;
-- Batch 2: scans 9–17;
-- Batch 3: scans 18–27;
-- Batch 4: scans 28–37;
-- Batch 5: scans 38–48 — 11-page cadence;
-- Batch 6: scans 49–59 — 11-page cadence;
-- Batch 7: scans 60–74 — 15 pages;
-- Batch 8: scans 75–89 — 15 pages;
-- Batch 9: scans 90–104 — 15 pages;
-- Batch 10: scans 105–111 — final 7-page remainder.
+Historical Part 001 batch sizes are retained in the durable status/review records and are not retroactively changed by the current 33-page directive.
 
-Part 001 first-pass English drafting is **COMPLETE: 111/111 page records**.
+## 14. Part 002 current English record
 
-## 14. Part 001 source-check record
+Part 002 covers scans **112–222 / printed 95–205**.
 
-**COMPLETE — 111/111 physical scans reviewed.**
+- Tamil: **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified**;
+- first-pass drafting: **COMPLETE 111/111**;
+- source-check: **COMPLETE 111/111**;
+- glossary reconciliation: **ACTIVE 48/111**;
+- editorial review: **0/111**.
 
-- SC1: scans 1–15;
-- SC2: scans 16–30;
-- SC3: scans 31–45;
-- SC4: scans 46–60;
-- SC5: scans 61–75;
-- SC6: scans 76–90;
-- SC7: scans 91–105;
-- SC8: scans 106–111 — final 6-page remainder.
+Glossary reconciliation:
 
-Source-check closure state: **107 `source-checked` + 4 `source-limited`** (scans 13, 14, 15, 19), with no `draft` pages.
+- GR1 scans 112–126 — 15/15, historical pre-cadence-change batch;
+- GR2 scans 127–159 — 33/33, first batch under the revised 33-page cadence;
+- next GR3 scans 160–192 — 33 pages;
+- final GR4 scans 193–222 — 30-page remainder.
 
-## 15. Part 001 glossary-reconciliation record
-
-**COMPLETE — 111/111 physical scans reconciled.**
-
-- GR1: scans 1–15;
-- GR2: scans 16–30;
-- GR3: scans 31–45;
-- GR4: scans 46–60;
-- GR5: scans 61–75;
-- GR6: scans 76–90;
-- GR7: scans 91–105;
-- GR8: scans 106–111 — final 6-page remainder.
-
-`GLOSSARY.md` is the durable context-aware terminology authority for the Part.
-
-## 16. Part 001 editorial-review record
-
-**COMPLETE — 111/111 physical scans reviewed.**
-
-- ER1: scans 1–15;
-- ER2: scans 16–30;
-- ER3: scans 31–45;
-- ER4: scans 46–60;
-- ER5: scans 61–75;
-- ER6: scans 76–90;
-- ER7: scans 91–105;
-- ER8: scans 106–111 — final 6-page remainder.
-
-Editorial-review closure state: **107 `editorial-reviewed` + 4 `source-limited`**, with `draft=0`, `source-checked=0`, and `release-ready=0`.
-
-## 17. Part 001 Part-level English review record
-
-**COMPLETE — PASS.**
-
-Durable review record: `reviews/PART_001_ENGLISH_REVIEW.md`.
-
-The Part-level review confirmed 111/111 Tamil-English filename alignment, preserved all four source limitations, found no unresolved controlled-term or continuity defect, and retained scan **111→112** as an explicitly deferred boundary until Part 002 is supplied.
-
-The Part-level review did not alter any English page text or status.
-
-## Current gate
-
-Proceed with the **Part 001 Part-level English release report** gate.
-
-The release-report gate must use the completed Part-level review record and current English state to decide release approval. Do not promote pages to `release-ready` before that report is completed and approved. Source-limited scans **13, 14, 15 and 19** must remain source-limited unless better source evidence is supplied.
-
-Do not begin Part 002 until Part 001 English/final closure is complete and Part 002 source is supplied. The **111→112** split boundary remains deferred until then.
+Do not begin Part 002 editorial review until glossary reconciliation reaches **111/111**. Part 003 remains blocked until Part 002 English review/release and final Part closure are complete.
