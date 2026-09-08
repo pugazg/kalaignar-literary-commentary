@@ -26,6 +26,6 @@ This Kural speaks of just such a sweet-voiced woman addressing her own heart:
 
 Chapter 125 — Speaking with the Heart; Kural 1246
 
-`unaruththum` = removes
+`unarththum` = removes
 
 <!-- Source scan page: 153; printed page: 136; self-contained vignette -->
