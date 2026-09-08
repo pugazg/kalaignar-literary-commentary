@@ -157,7 +157,7 @@ Do not begin a later Part until the active Part's required English review/releas
 
 **Current normal iteration size: 33 physical scan pages.**
 
-This user-directed cadence applies to active Kuraloviyam English workflow iterations. Historical completed batches retain the sizes at which they were actually processed. A final Part remainder may be shorter than 33 pages.
+This user-directed cadence applies to active Kuraloviyam English **page-batched** workflow iterations. Historical completed batches retain the sizes at which they were actually processed. A final Part remainder may be shorter than 33 pages. Whole-Part gates are not subdivided merely to satisfy the page cadence.
 
 For first-pass drafting:
 
@@ -221,15 +221,17 @@ Part 002 covers scans **112–222 / printed 95–205**.
 - first-pass drafting: **COMPLETE 111/111**;
 - source-check: **COMPLETE 111/111**;
 - glossary reconciliation: **COMPLETE / CLOSED 111/111**;
-- editorial review: **ACTIVE 99/111**.
+- editorial review: **COMPLETE / CLOSED 111/111**;
+- Part-level review: **READY / NEXT**;
+- release-ready: **0/111**.
 
 Editorial-review batching:
 
 - **ER1 scans 112–144 / printed 95–127 — COMPLETE 33/33**;
 - **ER2 scans 145–177 / printed 128–160 — COMPLETE 33/33**;
 - **ER3 scans 178–210 / printed 161–193 — COMPLETE 33/33**;
-- **ER4 scans 211–222 / printed 194–205 — NEXT / final 12-page remainder**.
+- **ER4 scans 211–222 / printed 194–205 — COMPLETE 12/12 / final remainder**.
 
-Scans **112–210** are `editorial-reviewed`; scans **211–222** remain `source-checked` pending ER4. Scan **203** is illustration-only inside **202→203→204**. The **210→211** boundary is clean; final **221→222** continuity must be preserved during ER4.
+All scans **112–222** are `editorial-reviewed`. The **210→211** boundary is clean; final **221→222** continuity is preserved and scan **222** closes Part 002.
 
-Do not begin Part-level English review until editorial review reaches **111/111**. Part 003 remains blocked until Part 002 English review/release and final Part closure are complete.
+The exact next gate is the **Part 002 Part-level English review**. Create `reviews/PART_002_ENGLISH_REVIEW.md` following the Part 001 review precedent. Do not promote pages to `release-ready` until a subsequent release-report gate approves release. Part 003 remains blocked until Part 002 English release and final Part closure are complete.
