@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Current archival state |
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English drafting ACTIVE 22/111** |
+| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English drafting ACTIVE 33/111** |
 | 003 | 223–333 | not-started |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
@@ -27,17 +27,9 @@ Tamil scans **1–111** are archival-ready: **107 `verified` + 4 `partial`**; vi
 
 ## Part 002 — TAMIL CLOSED / ENGLISH ACTIVE
 
-Controlling source:
+Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf`.
 
-`TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf`
-
-Source identity:
-
-- local pages: **111**;
-- overall scans: **112–222**;
-- printed pages: **95–205**;
-- file size: **93,279,161 bytes**;
-- SHA-256: `4397caf9ba405ba65f50865c85e24461ea56bd2efa3dd589d31469877c9a4bda`.
+Source identity: **111 physical pages; overall scans 112–222; printed pages 95–205; SHA-256 `4397caf9ba405ba65f50865c85e24461ea56bd2efa3dd589d31469877c9a4bda`.**
 
 Part 002 Tamil is **ARCHIVAL-READY / CLOSED** at **111 textual verified + 111 visual verified / 0 exceptions**. Durable declaration: `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`.
 
@@ -49,14 +41,15 @@ Permanent cadence:
 
 **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
 
-Part 002 first-pass drafting is now **ACTIVE: 22/111 complete**.
+Part 002 first-pass drafting is now **ACTIVE: 33/111 complete**.
 
 Completed:
 
 - **Batch 1: scans 112–122 / printed pages 95–105 — 11/11 draft records.**
 - **Batch 2: scans 123–133 / printed pages 106–116 — 11/11 draft records.**
+- **Batch 3: scans 134–144 / printed pages 117–127 — 11/11 draft records.**
 
-Batch 2 closes the merchant/rest-house continuation at scan 123, then preserves the 124→125, 126→127, 128→129, 130→131 and 132→133 vignette relationships. Scan **134 / printed 117** begins a new illustrated vignette.
+Batch 3 preserves court-music **134→135**, princess/commander **136→137**, owl/crows **138→139**, sisters/child **140→141**, and medical-hypocrisy **142→143** vignette continuities. Scan **144 / printed 127** begins a romantic coconut-grove vignette that continues to scan **145**.
 
 No Tamil page record was changed during English drafting, and no published/standard/web English Kural wording was imported.
 
@@ -69,6 +62,6 @@ English controls:
 
 ## Current frontier
 
-**Next activity: Part 002 English first-pass draft Batch 3 — scans 134–144 / printed 117–127, 11 records.**
+**Next activity: Part 002 English first-pass draft Batch 4 — scans 145–155 / printed 128–138, 11 records.**
 
 Do not begin source-check until first-pass drafting covers all 111 Part 002 records. Do not begin Part 003 before Part 002 English review/release and final Part closure are complete.
