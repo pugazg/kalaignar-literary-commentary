@@ -16,8 +16,8 @@ The original source PDF is reported as **666 physical PDF pages**. Because the o
 | Part | Overall scans | Local pages | Exact supplied filename | Current state |
 |---|---:|---:|---|---|
 | 001 | 1–111 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | supplied; Tamil/English closed |
-| 002 | 112–222 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | **supplied; source intake complete; Pass 1 112–122 complete** |
-| 003 | 223–333 | 111 | not yet supplied / exact filename not yet established | not-started |
+| 002 | 112–222 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | supplied; Tamil/English closed |
+| 003 | 223–333 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf` | **supplied; source intake PASS / COMPLETE; Pass 1 NEXT** |
 | 004 | 334–444 | 111 | not yet supplied / exact filename not yet established | not-started |
 | 005 | 445–555 | 111 | not yet supplied / exact filename not yet established | not-started |
 | 006 | 556–666 | 111 | not yet supplied / exact filename not yet established | not-started |
@@ -70,15 +70,39 @@ Controlling split:
 - SHA-256: `4397caf9ba405ba65f50865c85e24461ea56bd2efa3dd589d31469877c9a4bda`;
 - no usable parsed text layer is exposed; rendered page images remain controlling;
 - local page 1 / overall scan 112 carries printed page **95**;
-- local page 12 / overall scan 123 carries printed page **106** and has been inspected as the first-batch boundary witness.
+- local page 111 / overall scan 222 carries printed page **205**.
 
-The previously deferred **111→112** boundary is now resolved from the supplied source: scan 111 closes the learned-speaker / `சொல்வன்மை` vignette, while scan 112 begins a new illustrated love vignette. It is a clean vignette boundary; no split text is reconstructed.
+The **111→112** boundary is resolved from the supplied source: scan 111 closes the learned-speaker / `சொல்வன்மை` vignette, while scan 112 begins a new illustrated love vignette. It is a clean vignette boundary; no split text is reconstructed.
 
-P2-01 has captured scans **112–122 / printed 95–105**. The merchant/rest-house vignette begun on scans 121–122 continues into scan **123 / printed 106**, proving that the user-set 11-page cadence is only a workflow boundary.
+Part 002 Tamil and maintained English workflows are **CLOSED**. Tamil is 111/111 textual + visual verified; English is 111/111 `release-ready`.
 
 Detailed Part 002 intake record:
 
 `works/kuraloviyam/SOURCE_INTAKE_PART_002.md`
+
+## Part 003 source identity and provenance
+
+Controlling split:
+
+`TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf`
+
+- local page count: **111**;
+- overall scans: **223–333**;
+- file size: **93,488,924 bytes**;
+- SHA-256: `f07e7cdb3a6e786b0378e00bbe699a241be41c9e099c004a4faa90fa82b4239f`;
+- no usable parsed text layer is exposed; rendered page images remain controlling;
+- local page 1 / overall scan **223** carries printed page **206**;
+- local page 111 / overall scan **333** carries printed page **316**.
+
+The previously deferred **222→223** boundary is now source-resolved. Scan 222 closes the pastoral / `ஆயர்குடி` vignette with Chapter 128 / Kural 1275. Scan 223 begins a new illustrated `பேதைமை` vignette, and scan 224 closes that new unit with Chapter 84 / Kurals 838, 839. Therefore **222→223 is a clean vignette boundary**.
+
+The final supplied Part 003 unit occupies scans **332–333 / printed 315–316** and closes on scan 333 with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567. The external **333→334** boundary remains deferred until Part 004 is supplied.
+
+Detailed Part 003 intake record:
+
+`works/kuraloviyam/SOURCE_INTAKE_PART_003.md`
+
+Current user-directed Part 003 Pass 1 cadence is **33 physical scans per normal iteration**: 223–255, 256–288, 289–321, then final remainder 322–333. These are workflow boundaries only.
 
 ## Front-matter observations
 
@@ -91,13 +115,13 @@ Visible source structure in Part 001 includes:
 - a photograph page immediately before the final front-matter publisher note;
 - main-body transition at scan 18.
 
-Part 002 continues the main `கலைஞரின் குறளோவியம்` illustrated/body sequence.
+Parts 002 and 003 continue the main `கலைஞரின் குறளோவியம்` illustrated/body sequence.
 
 Do not treat handwriting, signatures, library marks or accession annotations as ordinary printed body prose.
 
 ## Text-layer limitation
 
-The supplied Part 001 and Part 002 splits expose **no usable parsed text layer** in the file environment. Rendered scan images are therefore mandatory for transcription and verification.
+The supplied Part 001, Part 002 and Part 003 splits expose **no usable parsed text layer** in the file environment. Rendered scan images are therefore mandatory for transcription and verification.
 
 OCR or model-generated readings may not override the scan.
 
