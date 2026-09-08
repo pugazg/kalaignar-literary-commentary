@@ -30,7 +30,7 @@ Read before changing anything:
 - Part 001: **CLOSED** — English **107 release-ready + 4 source-limited**.
 - Part 002 Tamil: **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**.
 - Part 002 English first-pass: **111/111 COMPLETE**.
-- Part 002 English source-check: **30/111 ACTIVE**.
+- Part 002 English source-check: **45/111 ACTIVE**.
 - glossary reconciliation: **0/111**.
 - editorial review: **0/111**.
 
@@ -42,31 +42,34 @@ Permanent English cadence:
 
 - **SC1 scans 112–126 / printed 95–109 — COMPLETE 15/15.**
 - **SC2 scans 127–141 / printed 110–124 — COMPLETE 15/15.**
+- **SC3 scans 142–156 / printed 125–139 — COMPLETE 15/15.**
 
-SC2 source-check corrections:
+SC3 fidelity corrections:
 
-- scan **129 / Kural 1312** — removed the unsupported Kural-level idea that the heroine would “forget” the quarrel; source-faithful line now says he sneezed knowing she would say, “May you live long.”
-- scan **137** — corrected `கொய்யாக் கனி` from “guava-like fruit” to **“unplucked fruit.”**
+- **142→143** — `பத்தரைமாற்றுத் தங்கம்` is retained as **pure gold without a flaw**, not the unsupported modernizing “twenty-four-carat”; the physical cross-page sentence split was also restored.
+- **149 / Kural 1210** — corrected the source agency so the beloved had not been apart from her and has now gone away; removed the draft implication that she “would never leave him.”
+- **150** — removed explanatory glosses appended to the names `Thelindhan` and `Nelindhan`, because the Tamil page gives only the names.
 
-Continuity: scan 127 closes the Gandhi continuation from 126; **133→134 clean**; **141→142 clean**. No Tamil archival record changed. No published/standard/web English Kural wording was imported.
+Continuity: **141→142 clean**; **144→145 genuine**; **155→156 clean**; **156→157 genuine**, with scan 157 retained as a draft boundary witness for SC4.
 
-## Exact current activity — Part 002 English source-check SC3
+No Tamil archival record changed. No published/standard/web English Kural wording was imported.
 
-Proceed with **overall scans 142–156 / printed 125–139**, 15 consecutive page-aligned records.
+## Exact current activity — Part 002 English source-check SC4
+
+Proceed with **overall scans 157–171 / printed 140–154**, 15 consecutive page-aligned records.
 
 Requirements:
 
 1. fetch live `main` and preserve newer durable work;
-2. compare English files `0142`–`0156` against the audited Tamil counterparts paragraph-by-paragraph / block-by-block;
-3. check omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual-page function and cross-page continuity;
-4. **141→142 is a clean boundary**;
-5. preserve the genuine **144→145** continuation and clean **155→156** boundary;
-6. only passing pages may move from `draft` to `source-checked`;
-7. do not use source-check for unrelated stylistic rewriting;
-8. do not import published/standard/web English Kural wording;
-9. do not change Tamil archival records;
-10. synchronize status/frontier and audit the exact changed-file set after SC3.
+2. compare English files `0157`–`0171` against their audited Tamil counterparts paragraph-by-paragraph / block-by-block;
+3. scan **157** begins as the direct continuation and closure of the vignette from already source-checked scan **156**;
+4. check omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual-page function and cross-page continuity;
+5. only passing pages may move from `draft` to `source-checked`;
+6. do not use source-check for unrelated stylistic rewriting;
+7. do not import published/standard/web English Kural wording;
+8. do not change Tamil archival records;
+9. synchronize status/frontier and audit the exact changed-file set after SC4.
 
-Next after SC3: **SC4 scans 157–171 / printed 140–154**, 15 records.
+Next after SC4: **SC5 scans 172–186 / printed 155–169**, 15 records.
 
 Do not begin glossary reconciliation until source-check reaches **111/111**. Part 003 remains blocked until Part 002 English workflow and final Part closure are complete.
