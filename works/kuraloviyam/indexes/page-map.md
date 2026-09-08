@@ -7,7 +7,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
-| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English first-pass COMPLETE 111/111; source-check COMPLETE 111/111; glossary reconciliation COMPLETE 111/111; editorial review COMPLETE 111/111; Part-level review READY / NEXT** |
+| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English first-pass, source-check, glossary reconciliation and editorial review COMPLETE 111/111; Part-level English review PASS; release report READY / NEXT** |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
@@ -112,14 +112,14 @@ Part 002 contains **111 page-aligned records**, scans **112–222 / printed 95�
 
 Final Part 002 Tamil status: **111/111 textual verified; 111/111 visual fidelity verified; 0 partial; 0 source-limited; 0 needs-review**.
 
-Part 002 maintained English source-check is **COMPLETE 111/111**, with **0 remaining draft pages**. Glossary reconciliation is **COMPLETE / CLOSED 111/111**. Editorial review is **COMPLETE / CLOSED 111/111**. Part-level English review is **READY / NEXT**.
+Part 002 maintained English source-check is **COMPLETE 111/111**, glossary reconciliation is **COMPLETE / CLOSED 111/111**, editorial review is **COMPLETE / CLOSED 111/111**, and Part-level English review is **PASS / CLOSED**. The release report is **READY / NEXT**; release-ready remains **0/111**.
 
 - **GR1 scans 112–126 / printed 95–109 — COMPLETE 15/15**;
 - **GR2 scans 127–159 / printed 110–142 — COMPLETE 33/33**;
 - **GR3 scans 160–192 / printed 143–175 — COMPLETE 33/33**;
 - **GR4 scans 193–222 / printed 176–205 — COMPLETE 30/30 / FINAL REMAINDER**.
 
-GR4 reconciled explicit `பாவேந்தர் பாரதிதாசன்` on scan **201** as **Paavendhar Bharathidasan** and prose `ஊடல்` on scan **218** to controlled **lovers' quarrel**, while Chapter 131 `புலவி` remains **Lovers' Sulking**. `GLOSSARY.md` now covers source-supported terminology through final scan **222**.
+GR4 reconciled explicit `பாவேந்தர் பாரதிதாசன்` on scan **201** as **Paavendhar Bharathidasan** and prose `ஊடல்` on scan **218** to controlled **lovers' quarrel**, while Chapter 131 `புலவி` remains **Lovers' Sulking**. `GLOSSARY.md` covers source-supported terminology through final scan **222**.
 
 Editorial review:
 
@@ -127,9 +127,17 @@ Editorial review:
 - **ER2 scans 145–177 / printed 128–160 — COMPLETE 33/33**;
 - **ER3 scans 178–210 / printed 161–193 — COMPLETE 33/33**;
 - **ER4 scans 211–222 / printed 194–205 — COMPLETE 12/12 / FINAL REMAINDER**;
-- scans **112–222** are all `editorial-reviewed`.
+- scans **112–222** are all `editorial-reviewed` pending release approval.
 
-ER4 made source-faithful wording improvements on scans **211, 212, 215, 218, 219, 220, 221 and 222**. Final-range continuity is preserved through the genuine **221→222** close.
+Part-level English review:
+
+- durable record: `../translations/en/reviews/PART_002_ENGLISH_REVIEW.md`;
+- result: **PASS**;
+- inventory/alignment: **111/111**;
+- final pre-release status: **111 editorial-reviewed / 0 in all other statuses**;
+- page functions/non-body material and accumulated continuity: **PASS**;
+- internal Part ending at **222**: closed;
+- external **222→223** split boundary: deferred until Part 003 source intake.
 
 ## Additional physical notes
 
@@ -168,6 +176,7 @@ Durable Part 002 Pass 3 record: `../PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md`.
 Durable Part 002 audit: `../PART_002_AUDIT.md`.
 Durable Part 002 final status sync: `../PART_002_FINAL_STATUS_SYNC.md`.
 Durable Part 002 Tamil archival-ready declaration: `../PART_002_TAMIL_ARCHIVAL_READY.md`.
+Durable Part 002 English review: `../translations/en/reviews/PART_002_ENGLISH_REVIEW.md`.
 
 ## Verification gates
 
@@ -188,7 +197,8 @@ Part 002:
 - maintained English source-check — **COMPLETE 111/111**;
 - maintained English glossary reconciliation — **COMPLETE / CLOSED 111/111; GR1–GR4 COMPLETE**;
 - maintained English editorial review — **COMPLETE / CLOSED 111/111; ER1–ER4 COMPLETE**;
-- Part 002 Part-level English review — **READY / NEXT**.
+- Part 002 Part-level English review — **PASS / CLOSED**;
+- Part 002 English release report — **READY / NEXT**.
 
 ## Current frontier
 
@@ -196,10 +206,10 @@ Part 002:
 
 **Part 002 Tamil: ARCHIVAL-READY / CLOSED.**
 
-**Part 002 English: ACTIVE — first-pass drafting COMPLETE 111/111; source-check COMPLETE 111/111; glossary reconciliation COMPLETE/CLOSED 111/111; editorial review COMPLETE/CLOSED 111/111; Part-level review READY / NEXT; release-ready 0/111.**
+**Part 002 English: ACTIVE — first-pass drafting COMPLETE 111/111; source-check COMPLETE 111/111; glossary reconciliation COMPLETE/CLOSED 111/111; editorial review COMPLETE/CLOSED 111/111; Part-level review PASS/CLOSED; release report READY/NEXT; release-ready 0/111.**
 
-User-directed normal page-batched iteration size: **33 physical scan pages**. Part-level review is a whole-Part gate.
+User-directed normal page-batched iteration size: **33 physical scan pages**. Part-level review and release report are whole-Part gates.
 
-Exact next activity: **Part 002 Part-level English review across scans 112–222 / printed 95–205**, following `../translations/en/reviews/PART_001_ENGLISH_REVIEW.md` as precedent and creating `../translations/en/reviews/PART_002_ENGLISH_REVIEW.md`. Verify inventory/alignment, exact final statuses, controlled terminology/names, chapter/Kural metadata, page functions/non-body material and accumulated continuities. Do not promote pages to `release-ready` during this gate.
+Exact next activity: **Part 002 English release report**, following `../translations/en/reviews/PART_001_ENGLISH_RELEASE_REPORT.md` as precedent and using `../translations/en/reviews/PART_002_ENGLISH_REVIEW.md` as the authoritative prior PASS gate. If approved, promote all 111 eligible English pages from `editorial-reviewed` to `release-ready` without wording changes.
 
-If Part review passes, proceed to the **Part 002 English release report**. Do not begin Part 003 before Part 002 release and final Part closure.
+Preserve the deferred external **222→223** boundary for Part 003 intake. Do not begin Part 003 before Part 002 release and final Part closure.
