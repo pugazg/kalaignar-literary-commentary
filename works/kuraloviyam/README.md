@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Current archival state |
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English drafting ACTIVE 99/111** |
+| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English drafting ACTIVE 110/111** |
 | 003 | 223–333 | not-started |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
@@ -41,7 +41,7 @@ Permanent cadence:
 
 **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
 
-Part 002 first-pass drafting is now **ACTIVE: 99/111 complete**.
+Part 002 first-pass drafting is now **ACTIVE: 110/111 complete**.
 
 Completed:
 
@@ -54,8 +54,9 @@ Completed:
 - **Batch 7: scans 178–188 / printed pages 161–171 — 11/11 draft records.**
 - **Batch 8: scans 189–199 / printed pages 172–182 — 11/11 draft records.**
 - **Batch 9: scans 200–210 / printed pages 183–193 — 11/11 draft records.**
+- **Batch 10: scans 211–221 / printed pages 194–204 — 11/11 draft records.**
 
-Batch 9 preserves lovers/embrace **200→201**, battlefield/war-elephant **202→203→204** with scan 203 illustration-only, `alar`/gossip **205→206**, battlefield-command/courage **207→208**, and separation/tear-flood **209→210**. It begins at the clean **199→200** boundary and ends at the clean **210→211** boundary.
+Batch 10 preserves enemy-siege/treachery **211→212**, Poonguzhali/Iniyaval **213→214**, warrior-departure/death **215→216**, domestic meal/salt/oodal **217→218**, dying-veteran/friendship **219→220**, and opens the genuine pastoral/ayar-community continuation **221→222** without closing it prematurely.
 
 No Tamil page record was changed during English drafting, and no published/standard/web English Kural wording was imported.
 
@@ -68,6 +69,6 @@ English controls:
 
 ## Current frontier
 
-**Next activity: Part 002 English first-pass draft Batch 10 — scans 211–221 / printed 194–204, 11 records.**
+**Next activity: final Part 002 English first-pass drafting remainder — scan 222 / printed 205, 1 record.**
 
-Preserve the clean **210→211** source boundary when beginning scan 211. After Batch 10, only **scan 222 / printed 205** remains as the final first-pass drafting remainder. Do not begin source-check until first-pass drafting covers all 111 Part 002 records. Do not begin Part 003 before Part 002 English review/release and final Part closure are complete.
+Continue directly from scan 221 and close the genuine **221→222** pastoral/ayar-community vignette with Chapter 128 / Kural 1275. After that record is drafted, first-pass coverage becomes **111/111 COMPLETE** and the next phase is English source-check. Do not begin Part 003 before Part 002 English review/release and final Part closure are complete.
