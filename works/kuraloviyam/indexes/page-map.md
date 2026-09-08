@@ -8,7 +8,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
 | 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | 1–111 | not yet inspected | not-started |
+| 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **SOURCE INTAKE PASS / COMPLETE; Tamil Pass 1 READY / NEXT** |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
 | 006 | 556–666 | 1–111 | not yet inspected | not-started |
@@ -136,8 +136,41 @@ Part-level English review:
 - inventory/alignment: **111/111**;
 - final pre-release status: **111 editorial-reviewed / 0 in all other statuses**;
 - page functions/non-body material and accumulated continuity: **PASS**;
-- internal Part ending at **222**: closed;
-- external **222→223** split boundary: deferred until Part 003 source intake.
+- internal Part ending at **222**: closed.
+
+## Part 003 boundary resolution and intake map
+
+Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf`.
+
+- local pages: **111**;
+- overall scans: **223–333**;
+- printed pages: **206–316**;
+- file size: **93,488,924 bytes**;
+- SHA-256: `f07e7cdb3a6e786b0378e00bbe699a241be41c9e099c004a4faa90fa82b4239f`;
+- source text layer: no usable parsed text; rendered page images control.
+
+Incoming boundary:
+
+- scan **222 / printed 205** closes the pastoral / `ஆயர்குடி` vignette with Chapter 128 / Kural 1275;
+- scan **223 / printed 206** begins a new illustrated `பேதைமை` vignette;
+- scan **224 / printed 207** closes that new unit with Chapter 84 / Kurals 838, 839;
+- **222→223 is CLEAN**.
+
+Outgoing intake witness:
+
+- scans **332–333 / printed 315–316** form the final visible Part 003 unit;
+- scan **333** closes with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567;
+- external **333→334** is deferred until Part 004 source intake.
+
+Part 003 Pass 1 user-directed cadence:
+
+- P3-01: **223–255 / printed 206–238**;
+- P3-02: **256–288 / printed 239–271**;
+- P3-03: **289–321 / printed 272–304**;
+- final remainder: **322–333 / printed 305–316**.
+
+Durable intake: `../SOURCE_INTAKE_PART_003.md`.  
+Durable Pass 1 progress: `../PART_003_PASS1_PROGRESS.md`.
 
 ## Additional physical notes
 
@@ -168,9 +201,10 @@ Part-level English review:
 - **214→215** clean; scan 215 begins the warrior-departure / battlefield-death vignette;
 - scans **217–218** carry blue circular library-stamp material kept separate from body text;
 - **221→222** genuine continuation;
-- scan **222 / printed 205** closes the pastoral/ஆயர்குடி vignette and is the final physical scan of Part 002.
+- **222→223** clean, source-resolved at Part 003 intake;
+- scan **333 / printed 316** closes the final visible Part 003 unit; **333→334** remains deferred.
 
-Durable Pass 2A record: `../PASS2_TEXTUAL_VERIFICATION_PART_002.md`.
+Durable Part 002 Pass 2A record: `../PASS2_TEXTUAL_VERIFICATION_PART_002.md`.
 Durable Part 002 Pass 2B record: `../PASS2B_LEXICAL_FIDELITY_PART_002.md`.
 Durable Part 002 Pass 3 record: `../PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md`.
 Durable Part 002 audit: `../PART_002_AUDIT.md`.
@@ -187,31 +221,35 @@ Part 002:
 
 - source intake — **COMPLETE**;
 - Pass 1 — **COMPLETE, 111/111**;
-- Pass 2A — **COMPLETE, 111/111**, scans **112–222 / printed 95–205**;
-- Pass 2B — **COMPLETE, 111/111**, scans **112–222 / printed 95–205**;
-- Pass 3 — **COMPLETE, 111/111**, scans **112–222 / printed 95–205**;
+- Pass 2A — **COMPLETE, 111/111**;
+- Pass 2B — **COMPLETE, 111/111**;
+- Pass 3 — **COMPLETE, 111/111**;
 - Part audit — **PASS**;
 - final metadata/status synchronization — **PASS / CLOSED, 111 textual verified + 111 visual verified**;
 - documentation synchronization — **COMPLETE**;
 - Tamil archival-ready checkpoint — **PASS / CLOSED**;
-- maintained English first-pass drafting — **COMPLETE 111/111**;
-- maintained English source-check — **COMPLETE 111/111**;
-- maintained English glossary reconciliation — **COMPLETE / CLOSED 111/111; GR1–GR4 COMPLETE**;
-- maintained English editorial review — **COMPLETE / CLOSED 111/111; ER1–ER4 COMPLETE**;
-- Part 002 Part-level English review — **PASS / CLOSED**;
-- Part 002 English release report — **APPROVED / CLOSED**;
+- maintained English workflow — **RELEASE COMPLETE / CLOSED, 111/111 release-ready**;
 - final Part 002 checkpoint — **PASS / CLOSED**.
+
+Part 003:
+
+- source intake — **PASS / COMPLETE**;
+- Pass 1 — **READY / NEXT, 0/111**;
+- Pass 2A — not-started;
+- Pass 2B — not-started;
+- Pass 3 — not-started;
+- Part audit — not-started;
+- Tamil archival-ready — not-started;
+- English — blocked until Tamil closure.
 
 ## Current frontier
 
 **Part 001: CLOSED.**
 
-**Part 002 Tamil: ARCHIVAL-READY / CLOSED.**
+**Part 002: Tamil + English CLOSED.**
 
-**Part 002 English: RELEASE COMPLETE / CLOSED — 111/111 `release-ready`.**
+**Part 003: SOURCE INTAKE COMPLETE / TAMIL PASS 1 READY.**
 
-The internal Part 002 ending at scan **222 / printed 205** is closed. The external **222→223** split boundary remains deferred until Part 003 source intake.
+User-directed normal Part 003 page-batched iteration size: **33 physical scan pages**.
 
-User-directed normal page-batched iteration size remains **33 physical scan pages** for future page-batched English work. Whole-Part gates are not divided merely to satisfy that cadence.
-
-Exact next activity: **Part 003 source intake when its controlling source is supplied/onboarded**. Record source identity, confirm overall scans **223–333**, verify the real **222→223** boundary, and then begin the Part 003 Tamil archival workflow.
+Exact next activity: **P3-01 — Part 003 Pass 1 scans 223–255 / printed 206–238, 33 page-aligned Tamil records**. Use scan **256 / printed 239** only as a boundary witness when needed. Do not infer the external **333→334** boundary before Part 004 is supplied.
