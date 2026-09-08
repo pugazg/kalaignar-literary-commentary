@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Current archival state |
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English first-pass, source-check, glossary reconciliation and editorial review COMPLETE 111/111; Part-level English review PASS; release report READY / NEXT** |
+| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
 | 003 | 223–333 | not-started |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
@@ -27,7 +27,7 @@ For active English page-batched iterations, the user-directed normal batch size 
 
 Tamil scans **1–111** are archival-ready. English is closed at **107 release-ready + 4 source-limited**.
 
-## Part 002 — TAMIL CLOSED / ENGLISH ACTIVE
+## Part 002 — TAMIL + ENGLISH CLOSED
 
 Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` — **111 physical pages; scans 112–222; printed 95–205; SHA-256 `4397caf9ba405ba65f50865c85e24461ea56bd2efa3dd589d31469877c9a4bda`.**
 
@@ -42,8 +42,8 @@ Tamil is **ARCHIVAL-READY / CLOSED** at **111 textual verified + 111 visual veri
 - glossary reconciliation: **111/111 COMPLETE / CLOSED**;
 - editorial review: **111/111 COMPLETE / CLOSED**;
 - Part-level review: **PASS / CLOSED**;
-- release report: **READY / NEXT**;
-- release-ready: **0/111**.
+- release report: **APPROVED / CLOSED**;
+- release-ready: **111/111 COMPLETE / CLOSED**.
 
 Durable Part-level review: `translations/en/reviews/PART_002_ENGLISH_REVIEW.md`.
 
@@ -53,10 +53,14 @@ The internal Part ending at scan **222** is closed. The external **222→223** b
 
 No Tamil page record changed and no external/published/web English wording was imported.
 
+## English release closure
+
+Durable release report: `translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`.
+
+Part 002 English release is **APPROVED / CLOSED at 111/111 `release-ready`**. Release changed only page status fields; approved English wording and Tamil archival records were unchanged. Final Part 002 checkpoint: **PASS / CLOSED**.
+
+The internal ending at scan **222** is closed. The external **222→223** split-boundary check remains deferred until the Part 003 source is supplied.
+
 ## Current frontier
 
-**Next activity: Part 002 English release report.**
-
-Create `translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`, following the Part 001 release-report precedent. Use the Part 002 review PASS as the authoritative prior gate. If release is approved, promote all **111** Part 002 English pages from `editorial-reviewed` to `release-ready` without wording changes.
-
-Do not begin Part 003 before the Part 002 release report, page-status promotion and final Part closure are complete.
+**Next activity: Part 003 source intake when the controlling source is supplied/onboarded.** Verify source identity and the actual **222→223** boundary first, then continue the overall scan sequence at **223**.

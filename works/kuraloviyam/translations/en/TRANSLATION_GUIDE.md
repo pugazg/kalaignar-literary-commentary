@@ -231,13 +231,15 @@ Part 002 covers scans **112–222 / printed 95–205**.
 - glossary reconciliation: **COMPLETE / CLOSED 111/111**;
 - editorial review: **COMPLETE / CLOSED 111/111**;
 - Part-level review: **PASS / CLOSED**;
-- release report: **READY / NEXT**;
-- release-ready: **0/111**.
+- release report: **APPROVED / CLOSED**;
+- release-ready: **111/111 COMPLETE / CLOSED**.
 
 Durable Part-level review: `reviews/PART_002_ENGLISH_REVIEW.md`.
 
-The Part-level review passed inventory/alignment, exact status state, terminology/names, chapter/Kural metadata, page functions/non-body material and accumulated continuities. All scans **112–222** remain `editorial-reviewed`. No page wording or status changed at the Part-review gate.
+The Part-level review passed inventory/alignment, exact status state, terminology/names, chapter/Kural metadata, page functions/non-body material and accumulated continuities.
+
+Durable release report: `reviews/PART_002_ENGLISH_RELEASE_REPORT.md` — **APPROVED / CLOSED**. All scans **112–222** are now `release-ready`; the release changed only the English status field and changed no approved wording or Tamil record.
 
 The internal Part ending at scan **222** is closed. The external **222→223** split boundary remains deferred until Part 003 intake.
 
-The exact next gate is the **Part 002 English release report**. Create `reviews/PART_002_ENGLISH_RELEASE_REPORT.md` following the Part 001 release-report precedent. If approved, promote all 111 eligible pages to `release-ready` without wording changes. Part 003 remains blocked until Part 002 release and final Part closure are complete.
+Final Part 002 checkpoint: **PASS / CLOSED**. The next activity is **Part 003 source intake when the controlling source is supplied**, beginning with source identity and the real 222→223 boundary before continuing at overall scan **223**.

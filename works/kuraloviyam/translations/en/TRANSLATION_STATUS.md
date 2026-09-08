@@ -36,10 +36,10 @@ Final Tamil state: **111 textual verified / 111 visual verified / 0 exceptions**
 - glossary reconciliation: **111/111 — COMPLETE / CLOSED**;
 - editorial review: **111/111 — COMPLETE / CLOSED**;
 - Part-level English review: **PASS / CLOSED**;
-- release report: **READY / NEXT**;
-- release-ready: **0/111**.
+- release report: **APPROVED / CLOSED**;
+- release-ready: **111/111 — COMPLETE / CLOSED**.
 
-There are **0 remaining `draft` pages** and **0 remaining `source-checked` pages** in Part 002. All scans **112–222** remain `editorial-reviewed` until release approval.
+There are **0 remaining `draft`, `source-checked`, or `editorial-reviewed` pages** in Part 002. All scans **112–222** are now `release-ready`.
 
 ## Source-check batches — CLOSED
 
@@ -92,23 +92,34 @@ The internal Part ending at scan **222** is closed. The external **222→223** s
 
 The Part-level review changed no English page wording, no page statuses and no Tamil records.
 
-## Current frontier — Part 002 English release report
+## Part 002 English release — APPROVED / CLOSED
 
-Proceed with the **Part 002 English release-report gate** using `works/kuraloviyam/translations/en/reviews/PART_001_ENGLISH_RELEASE_REPORT.md` as precedent.
+Durable release report: `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`.
 
-Required durable output:
+Release base / authoritative prior-gate HEAD: `ee81bdb8a04706bb931d48d17f977f869854b8b0`.
 
-`works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
+Status-promotion completion checkpoint before report sync: `1ad224c2ff93c1ccaaf0caf757d4a04658e7f83d`.
 
-The release report must:
+Final release gate result:
 
-1. use `PART_002_ENGLISH_REVIEW.md` as the authoritative prior gate and confirm **PASS**;
-2. confirm all **111** Part 002 English pages are eligible for release and there are **0 source-limited / blocked** records;
-3. confirm body-text changes at release gate are **0**;
-4. approve or block release explicitly;
-5. only if approved, promote all **111** pages from `editorial-reviewed` to `release-ready` without changing wording;
-6. preserve the deferred external **222→223** boundary for Part 003 intake rather than inferring it;
-7. change no Tamil page record and import no external/published/web English wording;
-8. synchronize durable status/frontier and audit the exact changed-file set.
+- eligible pages: **111/111**;
+- `release-ready`: **111/111**;
+- `editorial-reviewed`: **0**;
+- `source-checked`: **0**;
+- `draft`: **0**;
+- `source-limited`: **0**;
+- `blocked`: **0**;
+- body-text changes during release: **0**;
+- Tamil page changes during release: **0**.
 
-Part 003 remains blocked until the Part 002 release report, page-status promotion and final Part closure are complete.
+The release audit confirms that every Part 002 English page changed only by the single status-token replacement from `editorial-reviewed` to `release-ready`; no approved English wording changed.
+
+The internal Part ending at scan **222 / printed 205** is closed. The external **222→223** split-boundary check remains deferred until Part 003 intake.
+
+Final Part 002 checkpoint: **PASS / CLOSED**.
+
+## Current frontier — Part 003 source intake
+
+Part 001 and Part 002 are both closed. **Part 003 has not yet been supplied/onboarded.**
+
+Do not infer the **222→223** boundary. When the Part 003 controlling source is supplied, first verify its source identity and the real 222→223 split boundary, then continue the overall physical scan sequence at **223**.

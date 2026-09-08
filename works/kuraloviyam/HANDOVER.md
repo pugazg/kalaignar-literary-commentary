@@ -25,7 +25,7 @@ Read before changing anything:
 11. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
 12. `works/kuraloviyam/translations/en/GLOSSARY.md`
 13. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_REVIEW.md`
-14. `works/kuraloviyam/translations/en/reviews/PART_001_ENGLISH_RELEASE_REPORT.md` as the structural precedent for the next gate
+14. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
 
 ## Durable state
 
@@ -36,8 +36,9 @@ Read before changing anything:
 - Part 002 English glossary reconciliation: **111/111 COMPLETE / CLOSED**.
 - Part 002 English editorial review: **111/111 COMPLETE / CLOSED**.
 - Part 002 English Part-level review: **PASS / CLOSED**.
-- Part 002 English release report: **READY / NEXT**.
-- Part 002 English release-ready: **0/111**.
+- Part 002 English release report: **APPROVED / CLOSED**.
+- Part 002 English release-ready: **111/111 COMPLETE / CLOSED**.
+- Part 002 final Part checkpoint: **PASS / CLOSED**.
 
 Permanent English gate order:
 
@@ -67,25 +68,25 @@ No page text or status changed during the Part-level review. No Tamil record cha
 
 The internal Part ending at scan **222 / printed 205** is closed. The external **222→223** split-boundary check is explicitly deferred until Part 003 source intake because Part 003 has not yet been supplied/onboarded.
 
-## Exact current activity — Part 002 English release report
+## Part 002 release closure — PASS / CLOSED
 
-Create:
+Durable release report: `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`.
 
-`works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
+Release base: `ee81bdb8a04706bb931d48d17f977f869854b8b0`.
 
-Use `PART_001_ENGLISH_RELEASE_REPORT.md` as the structural precedent and `PART_002_ENGLISH_REVIEW.md` as the authoritative prior gate.
+Final Part 002 English state: **111/111 `release-ready`; 0 editorial-reviewed; 0 source-checked; 0 draft; 0 source-limited; 0 blocked**. Release changed only page status fields and changed no approved English wording or Tamil record.
 
-Requirements:
+The internal Part ending at scan **222 / printed 205** is closed. The external **222→223** boundary remains deferred to Part 003 intake.
 
-1. fetch live `main` and record the release base;
-2. confirm the Part 002 Part-level English review is **PASS**;
-3. confirm all **111** English records are `editorial-reviewed` and eligible for release, with **0 source-limited / blocked** records;
-4. confirm body-text changes at the release gate are **0** and Tamil page changes are **0**;
-5. decide release explicitly;
-6. only if approved, promote all **111** English pages from `editorial-reviewed` to `release-ready` without changing wording;
-7. retain the external **222→223** boundary as a deferred Part 003 intake check rather than inferring it;
-8. do not import standard/published/web English wording or external-edition prose;
-9. synchronize durable controls and audit the exact changed-file set;
-10. after successful release/status promotion, complete the final Part 002 closure checkpoint before Part 003 begins.
+## Exact next activity — Part 003 source intake
 
-Part 003 remains blocked until Part 002 release and final Part closure are complete.
+Part 003 is **not started** and its controlling source is not yet onboarded in the durable state.
+
+When the user supplies Part 003:
+
+1. fetch live `main` first and preserve this Part 002 closure;
+2. record the Part 003 source identity, physical-page count, byte size and SHA-256;
+3. confirm it maps to overall scans **223–333** without restarting repository `scan_page`;
+4. inspect the actual first Part 003 scan and verify the deferred **222→223** continuity/boundary against closed scan 222;
+5. only then begin Part 003 Tamil source intake / archival workflow under the permanent Kuraloviyam guidelines;
+6. do not reopen Part 001 or Part 002 unless a genuinely new source/provenance/fidelity issue appears.
