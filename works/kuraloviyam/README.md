@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Current archival state |
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English drafting ACTIVE 55/111** |
+| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English drafting ACTIVE 66/111** |
 | 003 | 223–333 | not-started |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
@@ -41,7 +41,7 @@ Permanent cadence:
 
 **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
 
-Part 002 first-pass drafting is now **ACTIVE: 55/111 complete**.
+Part 002 first-pass drafting is now **ACTIVE: 66/111 complete**.
 
 Completed:
 
@@ -50,8 +50,9 @@ Completed:
 - **Batch 3: scans 134–144 / printed pages 117–127 — 11/11 draft records.**
 - **Batch 4: scans 145–155 / printed pages 128–138 — 11/11 draft records.**
 - **Batch 5: scans 156–166 / printed pages 139–149 — 11/11 draft records.**
+- **Batch 6: scans 167–177 / printed pages 150–160 — 11/11 draft records.**
 
-Batch 5 closes crowd/critical-inquiry **156→157**, Maavengko/Maangani **158→159**, elephant/terrain **160→161**, slander/friendship **162→163** and one-sided-love/kavadi **164→165**. Scan **166→167** is a genuine continuation into the next batch, so Batch 5 ends at a physical batch boundary inside the medical/valor vignette.
+Batch 6 closes the medical/valor continuation at **167**, then preserves and closes Kala/Thogai **168→169**, Socrates **170→171**, Vengai/Enthizhai **172→173** and battlefield/war-elephant **174→175**. The love/separation-night vignette begins at **176**, continues through the full-page illustration-only scan **177**, and carries directly into **178**, so Batch 6 ends at a physical batch boundary inside that vignette.
 
 No Tamil page record was changed during English drafting, and no published/standard/web English Kural wording was imported.
 
@@ -64,6 +65,6 @@ English controls:
 
 ## Current frontier
 
-**Next activity: Part 002 English first-pass draft Batch 6 — scans 167–177 / printed 150–160, 11 records.**
+**Next activity: Part 002 English first-pass draft Batch 7 — scans 178–188 / printed 161–171, 11 records.**
 
-Do not begin source-check until first-pass drafting covers all 111 Part 002 records. Do not begin Part 003 before Part 002 English review/release and final Part closure are complete.
+Preserve the incoming **176→177→178** continuation when drafting scan 178. Do not begin source-check until first-pass drafting covers all 111 Part 002 records. Do not begin Part 003 before Part 002 English review/release and final Part closure are complete.
