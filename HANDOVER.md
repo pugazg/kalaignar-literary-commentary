@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 003 Pass 1 through P3-04 / scan 266**: **2026-09-08**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
+Last refreshed for Kuraloviyam **Part 003 Pass 1 through P3-05 / scan 277**: **2026-09-08**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
 
 ## Repository
 
@@ -237,32 +237,36 @@ Source intake: **PASS / COMPLETE**.
 
 User-directed normal iteration size: **11 physical scans**.
 
-Current capture state: **44 / 111 scans — overall scans 223–266 / printed 206–249**.
+Current capture state: **55 / 111 scans — overall scans 223–277 / printed 206–260**.
 
 Completed batches:
 
 - **P3-01 scans 223–233 / printed 206–216 — COMPLETE**;
 - **P3-02 scans 234–244 / printed 217–227 — COMPLETE**;
 - **P3-03 scans 245–255 / printed 228–238 — COMPLETE**;
-- **P3-04 scans 256–266 / printed 239–249 — COMPLETE**.
+- **P3-04 scans 256–266 / printed 239–249 — COMPLETE**;
+- **P3-05 scans 267–277 / printed 250–260 — COMPLETE**.
 
 Current internal boundaries:
 
 - **233→234 genuine continuation**;
 - **244→245 clean**;
 - **255→256 clean**;
-- **266→267 genuine continuation**.
+- **266→267 genuine continuation**;
+- **277→278 clean**.
 
 All Part-003 Pass-1 records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`. Pass 1 is capture/transcription only; do not claim source verification.
 
-P3-04 source units:
+P3-05 source units:
 
-- scans 256–257 — poverty / fire;
-- scans 258–259 — pottery / lovers;
-- scans 260–261 — Alagan / harsh-aunt / orphan; Chapter 13 / Kural 129;
-- scans 262–263 — moon / separation; Chapter 114 / Kural 1140;
-- scans 264–265 — Nallaan / Vallaan bear-and-friendship; Chapter 80 / Kural 796;
-- scan 266 — trade / separation begins and continues directly to scan 267.
+- scan 267 — closes trade / separation begun on scan 266; Chapter 122 / Kural 1220;
+- scans 268–269 — public water-tank / youths / patient elder; Chapter 16 / Kural 155;
+- scans 270–271 — Ilamathi / Thirumathi lovers' quarrel; Chapter 133 / Kural 1327;
+- scans 272–273 — Ramayana-discourse / caste-and-conduct; Chapter 14 / Kural 133;
+- scans 274–275 — returning-prince / separation; Chapter 127 / Kural 1267;
+- scans 276–277 — nettilingam-tree / drunken-climber autobiographical vignette; Chapter 48 / Kural 476.
+
+Scan 277 was source-rechecked before closure and corrected to visible `நினைத்திடும்போது` and `அதுவே அவரது உயிருக்கு`.
 
 The external **333→334** boundary remains deferred until Part 004 intake; do not infer it.
 
@@ -271,13 +275,13 @@ The external **333→334** boundary remains deferred until Part 004 intake; do n
 1. fetch live `main`;
 2. complete the Kuraloviyam mandatory startup reading above;
 3. resolve the supplied Part 003 PDF;
-4. process **P3-05 — overall scans 267–277 / printed 250–260, 11 physical pages**;
-5. begin scan **267 / printed 250** as the direct continuation of scan 266;
-6. create page-aligned Tamil records only for scans 267–277;
+4. process **P3-06 — overall scans 278–288 / printed 261–271, 11 physical pages**;
+5. begin scan **278 / printed 261** as the new illustrated vignette confirmed by the P3-05 outgoing boundary witness;
+6. create page-aligned Tamil records only for scans 278–288;
 7. preserve exact visible source wording, punctuation, paragraph/dialogue structure, Kural blocks, printed metadata and illustration/text relationships;
 8. keep new records at `needs-review` / `visual_fidelity: needs-review` unless a genuine source limitation requires otherwise;
 9. do not normalize, modernize, import standard/web Kural wording, use another edition, or guess from OCR/memory;
-10. inspect scan **278 / printed 261** only as a boundary witness when needed;
+10. inspect scan **289 / printed 272** only as a boundary witness when needed;
 11. synchronize Kuraloviyam progress/frontier documents and audit the exact changed-file set before advancing.
 
-Next after successful P3-05: **P3-06 scans 278–288 / printed 261–271**.
+Next after successful P3-06: **P3-07 scans 289–299 / printed 272–282**.
