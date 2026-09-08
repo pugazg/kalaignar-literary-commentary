@@ -24,6 +24,7 @@ Read before changing anything:
 10. `works/kuraloviyam/translations/en/TRANSLATION_GUIDE.md`
 11. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
 12. `works/kuraloviyam/translations/en/GLOSSARY.md`
+13. `works/kuraloviyam/translations/en/reviews/PART_001_ENGLISH_REVIEW.md` as the precedent for the next gate
 
 ## Durable state
 
@@ -33,7 +34,9 @@ Read before changing anything:
 - Part 002 English source-check: **111/111 COMPLETE / CLOSED**.
 - Part 002 English draft pages remaining: **0**.
 - Part 002 English glossary reconciliation: **111/111 COMPLETE / CLOSED**.
-- Part 002 English editorial review: **99/111 ACTIVE**.
+- Part 002 English editorial review: **111/111 COMPLETE / CLOSED**.
+- Part 002 English Part-level review: **READY / NEXT**.
+- Part 002 English release-ready: **0/111**.
 
 Permanent English gate order:
 
@@ -41,49 +44,57 @@ Permanent English gate order:
 
 ### User-directed iteration size
 
-Process **33 physical scan pages per normal iteration**. Historical completed batches retain their recorded sizes. A final Part remainder may be shorter.
+Process **33 physical scan pages per normal page-batched iteration**. Historical completed batches retain their recorded sizes. A final Part remainder may be shorter. Part-level review is a whole-Part gate.
 
 ## Source-check / glossary state — CLOSED
 
 Source-check and glossary reconciliation each cover all scans **112–222 / printed 95–205** and are **111/111 COMPLETE / CLOSED**. No Tamil record was changed and no published/standard/web English Kural wording was imported.
 
-## Editorial-review record
+## Editorial-review record — CLOSED
 
 - **ER1 scans 112–144 / printed 95–127 — COMPLETE 33/33**;
 - **ER2 scans 145–177 / printed 128–160 — COMPLETE 33/33**;
-- **ER3 scans 178–210 / printed 161–193 — COMPLETE 33/33**.
+- **ER3 scans 178–210 / printed 161–193 — COMPLETE 33/33**;
+- **ER4 scans 211–222 / printed 194–205 — COMPLETE 12/12 / FINAL REMAINDER**.
 
-All scans **112–210** are now `editorial-reviewed`; scans **211–222** remain `source-checked` for the final remainder.
+All scans **112–222** are now `editorial-reviewed`.
 
-ER3 material source-faithful improvements:
+ER4 material source-faithful improvements:
 
-- **178 / printed 161** — rhetorical close → **It is Valluvar who makes her say it!**;
-- **184 / printed 167** — repaired the elderly-people sentence to **Elderly people lay on the verandas of their homes, wrapped up, their bodies trembling**;
-- **185 / printed 168** — **asked his assistant to resolve his doubt** and **Just as he had said**;
-- **189 / printed 172** — **sinks its poisonous fang into it**, preserving `தன்னுடைய நச்சுப் பல்லை அழுத்திவிடும்`;
-- **201 / printed 184** — `மெய்மறந்து` → **Losing all awareness of herself**.
+- **211 / printed 194** — **without even their knowing it?**;
+- **212 / printed 195** — **banished Thennavan alone from the country**;
+- **215 / printed 198** — restructured the opening war-drum sentence while preserving all source images;
+- **218 / printed 201** — salt analogy → **food with a little too much salt**;
+- **219 / printed 202** — **The moment has come for the stylus to be taken up**;
+- **220 / printed 203** — **Are you astonished at me?**;
+- **221 / printed 204** — `நாளைக்குப் பார்த்துக் கொள்ளலாம்` → **we can think about tomorrow when it comes**;
+- **222 / printed 205** — **both had already lost their hearts to it** and **is there not medicine mixed to cure my sickness of love?**.
 
-No other ER3 page required wording change. Controlled terminology, names, chapter/Kural metadata, visual/non-body descriptions and page functions passed.
+No other ER4 page required wording change. Controlled terms, names, chapter/Kural metadata, visual/non-body descriptions and page functions passed.
 
-Continuity remained source-faithful: scan **178** closes **176→177→178**; scan **203** is illustration-only inside **202→203→204**; **210→211** is clean and scan **211** remains outside ER3.
+Final-range continuity is source-faithful: **210→211 clean; 211→212 genuine; 212→213 clean; 213→214 genuine; 214→215 clean; 215→216 genuine; 216→217 clean; 217→218 genuine; 218→219 clean; 219→220 genuine; 220→221 clean; 221→222 genuine**. Scan **222** closes Part 002.
 
 No Tamil archival record changed. No external/published/web English wording was imported.
 
-## Exact current activity — Part 002 English editorial review ER4
+## Exact current activity — Part 002 Part-level English review
 
-Proceed with **overall scans 211–222 / printed 194–205**, the **final 12 page-aligned records**.
+Review the completed Part 002 English layer across **scans 112–222 / printed 95–205** as a whole, following the precedent in `translations/en/reviews/PART_001_ENGLISH_REVIEW.md`.
+
+Required durable output:
+
+`works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_REVIEW.md`
 
 Requirements:
 
-1. fetch live `main` and preserve newer durable work;
-2. use source-checked, glossary-reconciled English files for scans **211–222**, with audited Tamil counterparts as source-faithfulness authority and `GLOSSARY.md` as terminology authority;
-3. scan **211** begins a new enemy-siege/treachery vignette at the clean **210→211** boundary;
-4. review readability, grammar, style, sentence flow, internal coherence, visual/non-body descriptions, chapter/Kural metadata and page-to-page transitions without changing source meaning;
-5. preserve source-supported Tamil-specific terms, proper names and chapter labels according to the glossary;
-6. preserve genuine cross-page continuities, especially final **221→222**;
-7. do not import standard/published/web English Kural wording or external-edition prose;
-8. promote a page from `source-checked` to `editorial-reviewed` only after it passes this gate;
-9. do not change Tamil archival records;
-10. synchronize status/frontier and audit the exact changed-file set after ER4.
+1. fetch live `main` and record the review base commit;
+2. verify ordered Tamil and English inventories are **111/111**, filenames match one-to-one, with 0 missing and 0 extra Part 002 English records;
+3. verify final English statuses are exactly **111 `editorial-reviewed`**, and **0 `source-checked`, 0 `draft`, 0 `source-limited`, 0 `blocked`, 0 `release-ready`**;
+4. review controlled terminology, names, chapter/Kural metadata and Kural-block separation at Part scale against `GLOSSARY.md`;
+5. review page functions/non-body material, including illustration-only scan **203** and lower-margin library stamps on **217–218**;
+6. review accumulated genuine continuities and clean boundaries through final **221→222**;
+7. document any control-document inconsistency found and remediate only what is necessary;
+8. do not change page status and do not promote anything to `release-ready` during Part review;
+9. do not reopen Tamil or import standard/published/web wording unless a genuinely new fidelity issue appears;
+10. synchronize durable status/frontier and audit the exact changed-file set.
 
-When ER4 closes at **111/111**, the next gate is the **Part 002 Part-level English review** over the completed Part as a whole. Do not begin Part 003 before Part review, release report and final Part closure are complete.
+If Part review passes, the next gate is the **Part 002 English release report**, using the Part 001 release report as precedent. Part 003 remains blocked until Part 002 release and final Part closure are complete.
