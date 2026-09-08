@@ -7,7 +7,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
-| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English first-pass COMPLETE 111/111; source-check COMPLETE 111/111; glossary reconciliation ACTIVE 15/111** |
+| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English first-pass COMPLETE 111/111; source-check COMPLETE 111/111; glossary reconciliation ACTIVE 48/111** |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
@@ -52,7 +52,7 @@ Final Part 001 status: **107/111 verified + 4 partial** (13, 14, 15, 19); visual
 
 ## Part 002 physical map — Tamil archival-ready
 
-Part 002 contains **111 page-aligned records**, scans **112–222 / printed 95–205**. Source intake, Pass 1, Pass 2A, Pass 2B and Pass 3 each closed 111/111; the Part audit passed; final metadata/status synchronization promoted all **111/111** records to textual and visual `verified`; documentation synchronization and the dedicated Tamil archival-ready checkpoint are now closed.
+Part 002 contains **111 page-aligned records**, scans **112–222 / printed 95–205**. Source intake, Pass 1, Pass 2A, Pass 2B and Pass 3 each closed 111/111; the Part audit passed; final metadata/status synchronization promoted all **111/111** records to textual and visual `verified`; documentation synchronization and the dedicated Tamil archival-ready checkpoint are closed.
 
 | Overall scans | Printed pages | Source role / observed boundary | Final page-record state |
 |---:|---:|---|---|
@@ -112,19 +112,25 @@ Part 002 contains **111 page-aligned records**, scans **112–222 / printed 95�
 
 Final Part 002 Tamil status: **111/111 textual verified; 111/111 visual fidelity verified; 0 partial; 0 source-limited; 0 needs-review**.
 
-Part 002 maintained English source-check is **COMPLETE 111/111**, with **0 remaining draft pages**. Glossary reconciliation is **ACTIVE 15/111**; **GR1 scans 112–126 / printed 95–109 is COMPLETE 15/15**.
+Part 002 maintained English source-check is **COMPLETE 111/111**, with **0 remaining draft pages**. Glossary reconciliation is **ACTIVE 48/111**.
 
-GR1 terminology reconciliation corrected Chapter 133 on scan **113** to **Joy of Lovers' Quarrel**, standardized the merchant vignette's `ஓய்வு விடுதி / விடுதி` as **rest-house** on scans **121–122**, and reconciled scan **126** `காந்தியடிகள்` to controlled **Gandhi**. The genuine **126→127** continuation is preserved; scan 127 remains for GR2.
+- **GR1 scans 112–126 / printed 95–109 — COMPLETE 15/15**;
+- **GR2 scans 127–159 / printed 110–142 — COMPLETE 33/33**, using the user's revised 33-page cadence.
+
+GR2 reconciled scan **127** `Gandhiji → Gandhi`, scan **134** `paddy-chaff → chaff`, scan **153** lexical-note transliteration `unaruththum → unarththum`, and scan **155** Chapter 133 `Delight → Joy of Lovers' Quarrel`. The **159→160** boundary is clean; scan 160 remains for GR3.
 
 ## Additional physical notes
 
 - scans **117–118** carry lower-margin circular library-stamp material that is kept separate from body text;
 - **122→123** genuine continuation;
+- **126→127** genuine continuation;
+- **127→128** clean;
 - **133→134** clean;
 - **141→142** clean;
 - **144→145** genuine continuation;
 - **155→156** clean;
 - **156→157** genuine continuation;
+- **159→160** clean; scan 160 begins the elephant/terrain/strength vignette;
 - **166→167** genuine continuation;
 - **171→172** clean; scan 172 begins a new lovers/separation vignette;
 - **173→174** clean;
@@ -167,7 +173,7 @@ Part 002:
 - Tamil archival-ready checkpoint — **PASS / CLOSED**;
 - maintained English first-pass drafting — **COMPLETE 111/111**;
 - maintained English source-check — **COMPLETE 111/111**;
-- maintained English glossary reconciliation — **ACTIVE 15/111; GR1 COMPLETE**.
+- maintained English glossary reconciliation — **ACTIVE 48/111; GR1 + GR2 COMPLETE**.
 
 ## Current frontier
 
@@ -175,6 +181,10 @@ Part 002:
 
 **Part 002 Tamil: ARCHIVAL-READY / CLOSED.**
 
-**Part 002 English: ACTIVE — first-pass drafting COMPLETE 111/111; source-check COMPLETE 111/111; glossary reconciliation ACTIVE 15/111.**
+**Part 002 English: ACTIVE — first-pass drafting COMPLETE 111/111; source-check COMPLETE 111/111; glossary reconciliation ACTIVE 48/111.**
 
-Exact next activity: **Part 002 English glossary reconciliation GR2, overall scans 127–141 / printed 110–124**, using source-checked English records, audited Tamil records and current `GLOSSARY.md` as the terminology authorities. Begin with scan **127** `காந்தியடிகள்`, reconciling **Gandhiji → Gandhi** while preserving the genuine 126→127 continuation. Reconcile recurring names, controlled literary terms, chapter labels and repeated English renderings without mechanically forcing context-insensitive equivalents. Glossary reconciliation does not promote pages to `editorial-reviewed`. Do not begin Part 003 before Part 002 completes its maintained English workflow and final Part closure.
+User-directed normal iteration size from this checkpoint onward: **33 physical scan pages**.
+
+Exact next activity: **Part 002 English glossary reconciliation GR3, overall scans 160–192 / printed 143–175 — 33 records**, using source-checked English records, audited Tamil records and current `GLOSSARY.md` as terminology authorities. Glossary reconciliation does not promote pages to `editorial-reviewed`.
+
+After GR3, the final glossary remainder is **GR4 scans 193–222 / printed 176–205 — 30 pages**. Do not begin Part 003 before Part 002 completes its maintained English workflow and final Part closure.
