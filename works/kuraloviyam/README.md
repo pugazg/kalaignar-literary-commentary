@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Current archival state |
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English first-pass COMPLETE 111/111; source-check NEXT** |
+| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English first-pass COMPLETE 111/111; source-check ACTIVE 15/111** |
 | 003 | 223–333 | not-started |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
@@ -41,25 +41,17 @@ Permanent cadence:
 
 **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
 
-Part 002 first-pass drafting is now **COMPLETE: 111/111**.
+Part 002 first-pass drafting is **COMPLETE: 111/111**.
 
-Completed:
+Part 002 source-check is **ACTIVE: 15/111 complete**.
 
-- **Batch 1: scans 112–122 / printed pages 95–105 — 11/11 draft records.**
-- **Batch 2: scans 123–133 / printed pages 106–116 — 11/11 draft records.**
-- **Batch 3: scans 134–144 / printed pages 117–127 — 11/11 draft records.**
-- **Batch 4: scans 145–155 / printed pages 128–138 — 11/11 draft records.**
-- **Batch 5: scans 156–166 / printed pages 139–149 — 11/11 draft records.**
-- **Batch 6: scans 167–177 / printed pages 150–160 — 11/11 draft records.**
-- **Batch 7: scans 178–188 / printed pages 161–171 — 11/11 draft records.**
-- **Batch 8: scans 189–199 / printed pages 172–182 — 11/11 draft records.**
-- **Batch 9: scans 200–210 / printed pages 183–193 — 11/11 draft records.**
-- **Batch 10: scans 211–221 / printed pages 194–204 — 11/11 draft records.**
-- **Final remainder: scan 222 / printed page 205 — 1/1 draft record.**
+Completed source-check:
 
-The final remainder continues directly from scan 221 and closes the genuine **221→222** pastoral/ayar-community vignette with Chapter 128 / Kural 1275. The full Part 002 English first-pass layer is now page-aligned and complete at **111/111**.
+- **SC1: scans 112–126 / printed 95–109 — 15/15 source-checked.**
 
-No Tamil page record was changed during English drafting, and no published/standard/web English Kural wording was imported.
+SC1 compared each English record against the audited Tamil layer paragraph-by-paragraph / block-by-block and preserved the clean **111→112** boundary. Scan **127** was used only as a continuation witness for scan 126 and remains `draft` for SC2. A single fidelity correction was required on **scan 125 / Kural 1291**, where the unsupported draft words “and his love” were removed before promotion.
+
+No Tamil page record was changed during English source-check, and no published/standard/web English Kural wording was imported.
 
 English controls:
 
@@ -70,6 +62,6 @@ English controls:
 
 ## Current frontier
 
-**Next activity: Part 002 English source-check SC1 — scans 112–126 / printed 95–109, 15 records.**
+**Next activity: Part 002 English source-check SC2 — scans 127–141 / printed 110–124, 15 records.**
 
-Compare each English page against its audited Tamil record paragraph-by-paragraph / block-by-block. Check omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual function and continuation relationships. Only passing records may move from `draft` to `source-checked`. Do not begin glossary reconciliation until source-check covers all 111 Part 002 records. Do not begin Part 003 before Part 002 English review/release and final Part closure are complete.
+Scan 127 directly continues and closes the Gandhi vignette from source-checked scan 126. Compare each English page against its audited Tamil record paragraph-by-paragraph / block-by-block. Check omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual function and continuation relationships. Only passing records may move from `draft` to `source-checked`. Do not begin glossary reconciliation until source-check covers all 111 Part 002 records. Do not begin Part 003 before Part 002 English review/release and final Part closure are complete.
