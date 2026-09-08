@@ -69,7 +69,22 @@ Source units observed:
 - scans **264–265 / printed 247–248** — Nallaan / Vallaan bear-and-friendship vignette; Chapter 80 / Kural 796;
 - scan **266 / printed 249** — trade / separation vignette begins and continues directly to scan 267.
 
-Important boundary: **266→267 is a genuine continuation.** Scan **267 / printed 250** was inspected only as the outgoing boundary witness during P3-04; it continues the same trade/separation vignette and belongs to P3-05.
+Important boundary: **266→267 is a genuine continuation.**
+
+## P3-05 — COMPLETE
+
+Scans **267–277 / printed 250–260** captured as **11 page-aligned Tamil records**.
+
+Source units observed:
+
+- scan **267 / printed 250** — closes the trade / separation vignette begun on scan 266; Chapter 122 / Kural 1220;
+- scans **268–269 / printed 251–252** — public water-tank / youths / patient elder vignette; Chapter 16 / Kural 155;
+- scans **270–271 / printed 253–254** — Ilamathi / Thirumathi lovers' quarrel vignette; Chapter 133 / Kural 1327;
+- scans **272–273 / printed 255–256** — Ramayana-discourse / caste-and-conduct vignette; Chapter 14 / Kural 133;
+- scans **274–275 / printed 257–258** — returning-prince / separation vignette; Chapter 127 / Kural 1267;
+- scans **276–277 / printed 259–260** — nettilingam-tree / drunken-climber autobiographical vignette; Chapter 48 / Kural 476.
+
+Important boundary: **277→278 is clean.** Scan **278 / printed 261** was inspected only as the outgoing boundary witness during P3-05 and begins a new illustrated vignette; it belongs to P3-06.
 
 All captured Part 003 Pass-1 records remain:
 
@@ -78,12 +93,11 @@ All captured Part 003 Pass-1 records remain:
 
 Pass 1 is physical capture/transcription only and does not make records source-verified.
 
-Current Part 003 Pass-1 capture frontier: **44 / 111 scans — overall scans 223–266 / printed 206–249**.
+Current Part 003 Pass-1 capture frontier: **55 / 111 scans — overall scans 223–277 / printed 206–260**.
 
 ## Planned remaining Pass 1 iterations — 11-page cadence
 
-- **P3-05 — NEXT:** scans **267–277 / printed 250–260** — 11 scans;
-- **P3-06:** scans **278–288 / printed 261–271** — 11 scans;
+- **P3-06 — NEXT:** scans **278–288 / printed 261–271** — 11 scans;
 - **P3-07:** scans **289–299 / printed 272–282** — 11 scans;
 - **P3-08:** scans **300–310 / printed 283–293** — 11 scans;
 - **P3-09:** scans **311–321 / printed 294–304** — 11 scans;
@@ -98,4 +112,4 @@ Scans **332–333 / printed 315–316** form the final visible Part 003 unit. Sc
 
 ## Exact next activity
 
-Complete **P3-05 — overall scans 267–277 / printed 250–260** as 11 page-aligned Tamil records under `works/kuraloviyam/pages/`. Begin scan **267 / printed 250** as the direct continuation of scan 266. Inspect scan **278 / printed 261** only as a boundary witness when needed. Do not normalize, import standard Kural wording, or claim Pass 2/Pass 3 verification.
+Complete **P3-06 — overall scans 278–288 / printed 261–271** as 11 page-aligned Tamil records under `works/kuraloviyam/pages/`. Begin scan **278 / printed 261** as the new illustrated vignette confirmed by the P3-05 outgoing boundary witness. Inspect scan **289 / printed 272** only as a boundary witness when needed. Do not normalize, import standard Kural wording, or claim Pass 2/Pass 3 verification.
