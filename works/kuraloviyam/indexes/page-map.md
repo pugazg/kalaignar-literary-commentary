@@ -8,7 +8,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
 | 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **SOURCE INTAKE PASS / COMPLETE; Tamil Pass 1 ACTIVE — 77/111 captured** |
+| 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **SOURCE INTAKE PASS / COMPLETE; Tamil Pass 1 ACTIVE — 88/111 captured** |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
 | 006 | 556–666 | 1–111 | not yet inspected | not-started |
@@ -164,7 +164,8 @@ Current Pass-1 boundary chain:
 - **266→267 genuine continuation** — scan 266 begins the trade/separation vignette and scan 267 continues it;
 - **277→278 clean** — scan 277 closes the nettilingam-tree / drunken-climber vignette and scan 278 begins a new illustrated vignette;
 - **288→289 genuine continuation** — scan 288 begins the Valluvar / renunciation vignette and scan 289 continues it;
-- **299→300 clean** — scan 299 closes the Mullai-kodi / Mukilan fisher-couple dream vignette and scan 300 begins a new illustrated vignette.
+- **299→300 clean** — scan 299 closes the Mullai-kodi / Mukilan fisher-couple dream vignette and scan 300 begins a new illustrated vignette;
+- **310→311 clean** — scan 310 closes the autobiographical 1982 Madurai-to-Tiruchendur justice-march vignette and scan 311 begins a new illustrated love vignette.
 
 Outgoing intake witness:
 
@@ -181,21 +182,20 @@ Part 003 Pass 1 user-directed cadence:
 - P3-05: **267–277 / printed 250–260 — COMPLETE**;
 - P3-06: **278–288 / printed 261–271 — COMPLETE**;
 - P3-07: **289–299 / printed 272–282 — COMPLETE**;
-- P3-08: **300–310 / printed 283–293 — NEXT**;
-- P3-09: **311–321 / printed 294–304**;
+- P3-08: **300–310 / printed 283–293 — COMPLETE**;
+- P3-09: **311–321 / printed 294–304 — NEXT**;
 - P3-10: **322–332 / printed 305–315**;
 - final remainder: **333 / printed 316**.
 
-Current Part 003 Pass-1 inventory: **77 / 111 records captured — scans 223–299 / printed 206–282**. All remain `needs-review` / `visual_fidelity: needs-review`.
+Current Part 003 Pass-1 inventory: **88 / 111 records captured — scans 223–310 / printed 206–293**. All remain `needs-review` / `visual_fidelity: needs-review`.
 
-P3-07 source units:
+P3-08 source units:
 
-- **289 / 272** — closes Valluvar / renunciation begun on scan 288; Chapter 35 / Kurals 347, 350;
-- **290–291 / 273–274** — Ponni / Thamarai waiting; Chapter 127 / Kural 1269;
-- **292–293 / 275–276** — altered-Kural / friendship; Chapter 53 / Kural 521;
-- **294–295 / 277–278** — woodcutter / one-day-separation; Chapter 127 / Kural 1264;
-- **296–297 / 279–280** — defeated-army / enduring-military-strength; Chapter 77 / Kural 762;
-- **298–299 / 281–282** — Mullai-kodi / Mukilan fisher-couple separation-and-dream; Chapter 122 / Kural 1218.
+- **300–302 / 283–285** — Thirumagal / Moodevi labour-and-idleness; Chapter 62 / Kural 617;
+- **303–304 / 286–287** — Thingal / Sevvai love-separation, `ஊடல்`, and union; Chapter 126 / Kurals 1256, 1260, 1257;
+- **305–306 / 288–289** — Ezhini / Valanadu betrayal-and-useless-speech; Chapter 20 / Kural 191;
+- **307–308 / 290–291** — Vanchikkodi / Kadamban harvest-field separation-and-heart; Chapter 130 / Kural 1300;
+- **309–310 / 292–293** — autobiographical 1982 Madurai-to-Tiruchendur justice march; Chapters 60 and 63 / Kurals 594 and 624.
 
 Durable intake: `../SOURCE_INTAKE_PART_003.md`.  
 Durable Pass 1 progress: `../PART_003_PASS1_PROGRESS.md`.
@@ -237,6 +237,7 @@ Durable Pass 1 progress: `../PART_003_PASS1_PROGRESS.md`.
 - **277→278** clean; scan 278 begins a new illustrated vignette;
 - **288→289** genuine continuation; scan 289 continues the Valluvar / renunciation vignette begun on scan 288;
 - **299→300** clean; scan 300 begins a new illustrated vignette;
+- **310→311** clean; scan 311 begins a new illustrated love vignette;
 - scan **333 / printed 316** closes the final visible Part 003 unit; **333→334** remains deferred.
 
 Durable Part 002 Pass 2A record: `../PASS2_TEXTUAL_VERIFICATION_PART_002.md`.
@@ -269,7 +270,7 @@ Part 002:
 Part 003:
 
 - source intake — **PASS / COMPLETE**;
-- Pass 1 — **ACTIVE, 77/111 captured through scan 299 / printed 282**;
+- Pass 1 — **ACTIVE, 88/111 captured through scan 310 / printed 293**;
 - Pass 2A — not-started;
 - Pass 2B — not-started;
 - Pass 3 — not-started;
@@ -283,8 +284,8 @@ Part 003:
 
 **Part 002: Tamil + English CLOSED.**
 
-**Part 003: SOURCE INTAKE COMPLETE / TAMIL PASS 1 ACTIVE — 77/111.**
+**Part 003: SOURCE INTAKE COMPLETE / TAMIL PASS 1 ACTIVE — 88/111.**
 
 User-directed normal Part 003 page-batched iteration size: **11 physical scan pages**.
 
-Exact next activity: **P3-08 — Part 003 Pass 1 scans 300–310 / printed 283–293, 11 page-aligned Tamil records**. Begin scan **300 / printed 283** as the new illustrated vignette confirmed by the P3-07 outgoing boundary witness. Use scan **311 / printed 294** only as a boundary witness when needed. Do not infer the external **333→334** boundary before Part 004 is supplied.
+Exact next activity: **P3-09 — Part 003 Pass 1 scans 311–321 / printed 294–304, 11 page-aligned Tamil records**. Begin scan **311 / printed 294** as the new illustrated love vignette confirmed by the P3-08 outgoing boundary witness. Use scan **322 / printed 305** only as a boundary witness when needed. Do not infer the external **333→334** boundary before Part 004 is supplied.
