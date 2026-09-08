@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-The enemy king banished Thennavan from the country alone and issued an order that “no one must follow him.” Those who rejoiced most on hearing that command were Thennavan's former commander and his spies. Another order flew out: seize Thennavan's only son and have his head crushed beneath an elephant's foot! Looking at those who had betrayed him, Thennavan said, “Friends! I am leaving. May you live well!” and departed the country alone.
+The enemy king banished Thennavan alone from the country and issued an order that “no one must follow him.” Those who rejoiced most on hearing that command were Thennavan's former commander and his spies. Another order flew out: seize Thennavan's only son and have his head crushed beneath an elephant's foot! Looking at those who had betrayed him, Thennavan said, “Friends! I am leaving. May you live well!” and departed the country alone.
 
 Even after Thennavan gave up his land and lived in the forest, the enemy king would not allow him to live there in peace. Those who had already betrayed him continued to poison the enemy king's mind and themselves took on the work of causing Thennavan further trouble.
 
