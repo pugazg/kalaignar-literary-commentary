@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-A warrior comes bearing a spear. The elephant confronts him. The warrior too fights bravely to defeat the elephant. Is he not a Tamil? Is his not a tradition that never turns its back?
+A warrior comes bearing a spear. The elephant confronts him. The warrior too fights bravely to defeat the elephant. Is he not a Tamil? Does he not belong to a tradition that never turns its back?
 
 With chest held high and spear raised, he charges at the elephant. The elephant, in turn, cunningly extends its tusks, pierces the warrior's stomach and tosses him upward. At the threshold of death the spear-bearer lets out a cry of pain—a cry still mingled with valour. With the force of having gored the warrior, the elephant strides in triumph, running here and there in rage and fury. As it runs, it places a foot in a muddy pool that has collected beside a rock. It cannot pull the foot out. The elephant is a heavy animal. Its weight sinks toward the earth, and there is no support strong enough to help it rise and reach the bank. The elephant struggles. Then something curious happens. What is it?
 

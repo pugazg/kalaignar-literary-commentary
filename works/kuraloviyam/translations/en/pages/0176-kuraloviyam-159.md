@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ A flower garden—in its midst a jewelled pavilion—within the pavilion a bed�
 
 She is a creeper, after all; so she bends in the wind of memory. And that memory is of separation in love. Therefore that creeper-like body does not merely bend; it droops as well.
 
-She closes her eyelids and tries. Ignoring even that barrier, her eyes set out in search of him. Realizing that the barrier is useless, she opens the doors of her eyelids again.
+She tries closing her eyelids. Ignoring even that barrier, her eyes set out in search of him. Realizing that the barrier is useless, she opens the doors of her eyelids again.
 
 A question rises in her mind: should she put out the lamp that, in that dark room, is admiring her beauty atom by atom? The very word “embrace” awakens thousands upon thousands of feelings in her heart. She clutches the pillow tightly to her breast. She herself has drawn her lover's form and placed it there. The cheeks of that picture grow wet. Yet the hunger of her lips is not satisfied. For a little while she walks about, her silken feet touching the floor. Then she lies down upon the bed, lotus buds turned upward. The night does not seem to hurry in answer to her urgency.
 

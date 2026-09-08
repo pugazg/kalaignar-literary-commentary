@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,7 +19,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 “Go away! Life itself seems beautiful to me—something I want to think of and cherish again and again, Thogai!”
 
-“And when he is away, does not even the distance seem to rise before you?”
+“And when he is away, does not even the distance make itself felt?”
 
 Kala did not answer that question. Her chest heaved with an uncontrollable deep breath and then subsided. It was a sight her husband should have been there to see! Yet it was only her friend who was there. What use was that? The green-parrot maiden, who had allowed a pause for the answer, said to Thogai:
 
