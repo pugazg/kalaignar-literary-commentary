@@ -23,7 +23,7 @@ If a reading is uncertain, use `needs-review`, `partial` or `blocked` rather tha
 
 ## 2. Source identity and split-PDF rule
 
-The user reports the complete Kuraloviyam source as **666 physical PDF pages**, manually split into **six parts of 111 pages each** because the original PDF exceeds the upload limit.
+The complete Kuraloviyam source is reported as **666 physical PDF pages**, manually split into **six parts of 111 pages each**.
 
 | Part | Overall scans |
 |---|---:|
@@ -46,7 +46,7 @@ Archive transcription, metadata, indexes, verification/audit records and project
 
 ## 4. Image-only / no-text-layer handling
 
-Part 001 has no usable parsed text layer in the supplied file environment. The same caution must be applied to later Parts unless a usable text layer is actually confirmed.
+Parts 001–003 expose no usable parsed text layer in the supplied file environment.
 
 - inspect rendered page images directly;
 - OCR may be a disposable aid only, never authority;
@@ -90,8 +90,6 @@ Do not substitute standard Thirukkural wording for what this edition actually pr
 
 > **Finish the entire required workflow for the currently supplied Part before beginning the next Part.**
 
-This rule exists so that normal later work does not depend on reopening an earlier split source PDF.
-
 For each Part, in order:
 
 1. **Source intake** — confirm actual local page count, overall scan range, source identity and visible boundaries.
@@ -112,13 +110,13 @@ A page is not finally source-verified merely because Pass 2A completed. Pass 2B 
 
 After a Part reaches its closed checkpoint, repository records become the durable working layer for normal subsequent work.
 
-Do **not** routinely require that older split PDF again while processing later Parts. Reopen an earlier Part source only when a newly discovered source/provenance/fidelity problem specifically requires an earlier scan to be checked.
+Do **not** routinely require an older split PDF again while processing later Parts. Reopen an earlier Part source only when a newly discovered source/provenance/fidelity problem specifically requires an earlier scan to be checked.
 
 The cross-Part boundary itself is checked only when the adjacent Part source becomes available; do not infer the missing side of a boundary.
 
 ## 9. Batch discipline
 
-Normal source-dependent batch: about **10 physical scans**, adjusted slightly for a natural boundary when useful.
+Default source-dependent work may use smaller batches when no user override exists. **Current user directive for Part 003 page-batched work: 33 physical scans per normal iteration**, with a shorter final remainder when necessary.
 
 For every source-dependent batch:
 
@@ -131,6 +129,8 @@ For every source-dependent batch:
 7. commit sequentially;
 8. inspect the changed-file set;
 9. record the exact next frontier.
+
+A workflow batch boundary never implies a narrative, quotation or Kural boundary. Inspect the first scan of the following batch only as a boundary witness when needed.
 
 Pass 2B is performed only after Pass 2A reaches the end of the supplied Part so it functions as an independent second read.
 
@@ -150,24 +150,33 @@ English translation must not silently alter or repair a source-limited Tamil rea
 
 ### Part 001 — overall scans 1–111
 
-**Tamil archival layer: CLOSED / ARCHIVAL-READY.**
+**Tamil + maintained English: CLOSED.**
 
-Completed:
+English final state: **107 `release-ready` + 4 `source-limited`**.
 
-- source intake: 111 / 111;
-- Pass 1: 111 / 111;
-- Pass 2A: 111 / 111;
-- Pass 2B: 111 / 111;
-- Pass 3: 111 / 111;
-- Part audit: PASS;
-- final page-status synchronization: PASS;
-- final status distribution: **107 `verified` + 4 `partial` (scans 13–15, 19)**;
-- visual fidelity: **111 / 111 `verified`**.
+### Part 002 — overall scans 112–222
 
-See `works/kuraloviyam/PART_001_AUDIT.md` and `works/kuraloviyam/PART_001_FINAL_STATUS_SYNC.md`.
+**Tamil + maintained English: CLOSED.**
+
+- Tamil: **111/111 textual verified + 111/111 visual verified / 0 exceptions**;
+- English: **111/111 `release-ready`**;
+- final Part checkpoint: **PASS / CLOSED**.
+
+### Part 003 — overall scans 223–333
+
+Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf`.
+
+Source intake: **PASS / COMPLETE**.
+
+- local pages: **111**;
+- printed pages: **206–316**;
+- file size: **93,488,924 bytes**;
+- SHA-256: `f07e7cdb3a6e786b0378e00bbe699a241be41c9e099c004a4faa90fa82b4239f`;
+- source text layer: no usable parsed text;
+- **222→223: clean boundary** — Part 003 begins a new `பேதைமை` vignette;
+- scan 333 closes the final visible Part 003 unit with Chapter 57 / Kural 567;
+- external **333→334** is deferred until Part 004 intake.
 
 ### Exact next content stage
 
-After documentation synchronization, begin the **Part 001 project-created English translation/review workflow** from the audited Tamil records.
-
-**Part 002 / overall scans 112–222 is not started.** Do not begin it until Part 001's required English/final closure workflow is complete and the Part 002 source is supplied.
+Begin **Part 003 Pass 1 / P3-01 — scans 223–255 / printed 206–238, 33 physical scans**. Create page-aligned Tamil records only for that range, keep them at Pass-1 statuses, inspect scan 256 only as a boundary witness when necessary, and audit the exact changed-file set before advancing.
