@@ -28,12 +28,14 @@ Final Tamil state: **111 textual verified / 111 visual verified / 0 exceptions**
 ## Part 002 English gates
 
 - first-pass drafting: **111/111 — COMPLETE**;
-- source-check: **75/111 — ACTIVE**;
-- glossary reconciliation: **0/111**;
+- source-check: **111/111 — COMPLETE**;
+- glossary reconciliation: **0/111 — NEXT**;
 - editorial review: **0/111**;
 - Part-level English review: not started;
 - release report: not started;
 - release-ready: **0/111**.
+
+There are **0 remaining `draft` pages** in Part 002 after source-check closure.
 
 ### Source-check batches
 
@@ -42,31 +44,41 @@ Final Tamil state: **111 textual verified / 111 visual verified / 0 exceptions**
 - **SC3: scans 142–156 / printed 125–139 — COMPLETE, 15/15 `source-checked`.**
 - **SC4: scans 157–171 / printed 140–154 — COMPLETE, 15/15 `source-checked`.**
 - **SC5: scans 172–186 / printed 155–169 — COMPLETE, 15/15 `source-checked`.**
+- **SC6: scans 187–201 / printed 170–184 — COMPLETE, 15/15 `source-checked`.**
+- **SC7: scans 202–216 / printed 185–199 — COMPLETE, 15/15 `source-checked`.**
+- **SC8: scans 217–222 / printed 200–205 — COMPLETE, final remainder 6/6 `source-checked`.**
 
-SC5 compared each English record against its audited Tamil counterpart paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual-page function and cross-page continuity. It preserved the clean **171→172** boundary; genuine **172→173** continuation; clean **173→174** boundary; genuine **174→175** continuation; clean **175→176** boundary; the source-supported **176→177→178** narrative sequence with scan 177 illustration-only; clean **178→179** boundary; genuine **179→180** continuation; clean **180→181** boundary; genuine **181→182→183** sequence; clean **183→184** boundary; genuine **184→185→186** sequence; and the clean **186→187** boundary. Scan 187 was inspected only as a boundary witness and remains `draft` for SC6.
+### Source-check closure notes — SC6–SC8
 
-Material source-fidelity corrections during SC5:
+All remaining English records were compared against their audited Tamil counterparts paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual-page function and cross-page continuity.
 
-1. **scan 173 / printed 156** — the imagined plea had been expanded to **“Tell your friend that I will not let you come”**. The audited Tamil instead has `நான் வரவில்லையென்று நண்பருக்குச் சொல்லிவிட்டு`; the English now preserves that source form as **“Tell your friend, ‘I am not coming,’ ...”** without adding the unsupported “I will not let you” wording;
-2. **scan 186 / printed 169** — removed the unsupported qualifier **“people say”** from the assistant's statement `ஊழை வெல்ல முடியாது என்பது சரிதான்`; it now reads directly **“It is true that fate cannot be conquered.”**
+Source-supported continuity was preserved throughout the remainder, including **187→188**, **189→190**, **191→192**, **193→194**, **195→196**, **197→198→199**, **200→201**, the illustration-only **202→203→204** sequence, **205→206**, **207→208**, **209→210**, **211→212**, **213→214**, **215→216**, **217→218**, **219→220**, and the final genuine **221→222** continuation. Clean boundaries were retained between those source units. Scans **217–218** retain their blue circular library stamps strictly as non-body material. Scan **222 / printed 205** closes the pastoral / ayar-community vignette and is the final physical scan of Part 002.
+
+Material source-fidelity corrections during SC6–SC8:
+
+1. **scan 198 / printed 181** — removed the unsupported adjective **“official”** from the palm-leaf message arriving from the palace;
+2. **scan 199 / printed 182** — removed the unsupported adjective **“miserable”** from the rendering of `தலையெழுத்து`;
+3. **scan 207 / printed 190** — removed the unsupported interpretive adjective **“mournful”** before `Mukhari`;
+4. **scan 215 / printed 198** — corrected the unsupported phrase **“plant defeat upon the heads of the enemy”** to preserve the source image more directly as **“plant the enemies' heads there”**;
+5. **scan 219 / printed 202** — removed the unsupported adjective **“ceremonial”** from the source's `மஞ்சம்` image.
 
 No Tamil archival record was changed and no published/standard/web English Kural wording was imported.
 
 ## Current frontier
 
-Proceed with **Part 002 English source-check SC6: overall scans 187–201 / printed 170–184**, 15 consecutive records.
+Proceed with **Part 002 English glossary reconciliation GR1: overall scans 112–126 / printed 95–109**, 15 consecutive records.
 
 Requirements:
 
-1. compare each English record against its audited Tamil counterpart paragraph-by-paragraph / block-by-block;
-2. scan **187** begins a new illustrated separation/evening vignette after the clean **186→187** boundary;
-3. check omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual-page function and cross-page continuations;
-4. only pages that pass may move from `draft` to `source-checked`;
-5. do not use source-check for unrelated stylistic rewriting;
-6. do not import published/standard/web English Kural wording;
+1. use the now-complete `source-checked` English layer and matching audited Tamil records;
+2. reconcile recurring names, work/section names, controlled literary terms, publication names, chapter labels and repeated English renderings against `GLOSSARY.md` and source context;
+3. update `GLOSSARY.md` only for recurring terms actually evidenced in Part 002;
+4. do not mechanically force one English equivalent when context requires a different rendering;
+5. glossary reconciliation does **not** promote pages to `editorial-reviewed`;
+6. do not import terminology from external editions, web sources or memory;
 7. do not change Tamil archival records;
-8. update this status and audit the exact changed-file set after SC6.
+8. synchronize status/frontier and audit the exact changed-file set after GR1.
 
-Next source-check batch after SC6: **SC7 scans 202–216 / printed 185–199**, 15 records.
+Next glossary batch after GR1: **GR2 scans 127–141 / printed 110–124**.
 
-Do not begin glossary reconciliation until source-check covers all **111/111** Part 002 records. Part 003 remains blocked until Part 002 English workflow and final Part closure are complete.
+Part 003 remains blocked until Part 002 English glossary reconciliation, editorial review, Part-level review, release report and final Part closure are complete.
