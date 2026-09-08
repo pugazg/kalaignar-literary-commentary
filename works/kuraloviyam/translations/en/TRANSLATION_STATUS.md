@@ -52,7 +52,7 @@ Do not repeat Tamil verification merely because English drafting is underway.
 
 ## Part 002 English gates
 
-- first-pass drafting: **88/111 — ACTIVE**;
+- first-pass drafting: **99/111 — ACTIVE**;
 - source-check: **0/111**;
 - glossary reconciliation: **0/111**;
 - editorial review: **0/111**;
@@ -70,22 +70,24 @@ Do not repeat Tamil verification merely because English drafting is underway.
 - **Batch 6: scans 167–177 / printed 150–160 — COMPLETE, 11/11 draft records.**
 - **Batch 7: scans 178–188 / printed 161–171 — COMPLETE, 11/11 draft records.**
 - **Batch 8: scans 189–199 / printed 172–182 — COMPLETE, 11/11 draft records.**
+- **Batch 9: scans 200–210 / printed 183–193 — COMPLETE, 11/11 draft records.**
 
-Batch 8 preserves audited Tamil page alignment, visual-material placement, Kural block lineation, Chapter/Kural metadata and source-supported cross-page continuations. It begins and ends at clean source boundaries: **188→189** and **199→200**. No published/standard/web English Kural wording was imported, and no Tamil archival record was changed.
+Batch 9 preserves audited Tamil page alignment, visual-material placement, Kural block lineation, Chapter/Kural metadata and source-supported cross-page continuations. It begins and ends at clean source boundaries: **199→200** and **210→211**. Scan **203 / printed 186** is retained as an illustration-only English record within the genuine **202→203→204** continuation. No published/standard/web English Kural wording was imported, and no Tamil archival record was changed.
 
 Notable continuity retained:
 
-- **188→189** is a clean source boundary;
-- **189→190** snake/Muthuvelar autobiographical vignette closes at 190;
-- **191→192** lovers/oodal vignette closes at 192;
-- **193→194** Kumanan/Saathanaar generosity vignette closes at 194;
-- **195→196** returning-warrior/maiden vignette closes at 196;
-- **197→198→199** praise/reversal vignette closes at 199;
-- **199→200** is a clean source boundary.
+- **199→200** is a clean source boundary;
+- **200→201** lovers/embrace vignette closes at 201;
+- **202→203→204** battlefield/war-elephant vignette closes at 204; scan 203 is illustration-only;
+- **204→205** is a clean source boundary;
+- **205→206** `alar`/gossip vignette closes at 206;
+- **207→208** battlefield-command/courage vignette closes at 208;
+- **209→210** separation/tear-flood vignette closes at 210;
+- **210→211** is a clean source boundary.
 
 ## Current frontier
 
-Proceed with **Part 002 English first-pass draft Batch 9: overall scans 200–210 / printed 183–193**, 11 records.
+Proceed with **Part 002 English first-pass draft Batch 10: overall scans 211–221 / printed 194–204**, 11 records.
 
 Requirements:
 
@@ -95,9 +97,9 @@ Requirements:
 4. preserve source-supported Kural/chapter, visual and continuation relationships;
 5. do not import published/standard/web English Kural wording;
 6. do not change Tamil archival records;
-7. preserve the clean **199→200** source boundary when beginning scan 200;
+7. preserve the clean **210→211** source boundary when beginning scan 211;
 8. update this status and audit the exact changed-file set after the batch.
 
-Next draft batch after Batch 9: **211–221 / printed 194–204**, 11 records; scan **222 / printed 205** will remain as the final drafting remainder.
+After Batch 10, only **scan 222 / printed 205** remains as the final first-pass drafting remainder. Do not begin source-check until that final remainder is drafted and Part 002 first-pass coverage is **111/111**.
 
-Do not begin source-check until Part 002 first-pass drafting covers all 111 records. Part 003 remains blocked until Part 002 English workflow and final Part closure are complete.
+Part 003 remains blocked until Part 002 English workflow and final Part closure are complete.
