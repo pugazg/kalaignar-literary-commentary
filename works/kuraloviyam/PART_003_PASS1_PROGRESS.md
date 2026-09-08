@@ -114,7 +114,21 @@ Source units observed:
 - scans **296–297 / printed 279–280** — defeated-army / enduring-military-strength vignette; Chapter 77 / Kural 762;
 - scans **298–299 / printed 281–282** — Mullai-kodi / Mukilan fisher-couple separation-and-dream vignette; Chapter 122 / Kural 1218.
 
-Important boundary: **299→300 is clean.** Scan **300 / printed 283** was inspected only as the outgoing boundary witness during P3-07 and begins a new illustrated vignette; it belongs to P3-08.
+Important boundary: **299→300 is clean.**
+
+## P3-08 — COMPLETE
+
+Scans **300–310 / printed 283–293** captured as **11 page-aligned Tamil records**.
+
+Source units observed:
+
+- scans **300–302 / printed 283–285** — Thirumagal / Moodevi labour-and-idleness vignette; Chapter 62 / Kural 617;
+- scans **303–304 / printed 286–287** — Thingal / Sevvai love-separation, `ஊடல்`, and union vignette; Chapter 126 / Kurals 1256, 1260, 1257;
+- scans **305–306 / printed 288–289** — Ezhini / Valanadu betrayal-and-useless-speech vignette; Chapter 20 / Kural 191;
+- scans **307–308 / printed 290–291** — Vanchikkodi / Kadamban harvest-field separation-and-heart vignette; Chapter 130 / Kural 1300;
+- scans **309–310 / printed 292–293** — autobiographical 1982 Madurai-to-Tiruchendur justice-march vignette; Chapters 60 and 63 / Kurals 594 and 624.
+
+Important boundary: **310→311 is clean.** Scan **311 / printed 294** was inspected only as the outgoing boundary witness during P3-08 and begins a new illustrated love vignette; it belongs to P3-09.
 
 All captured Part 003 Pass-1 records remain:
 
@@ -123,12 +137,11 @@ All captured Part 003 Pass-1 records remain:
 
 Pass 1 is physical capture/transcription only and does not make records source-verified.
 
-Current Part 003 Pass-1 capture frontier: **77 / 111 scans — overall scans 223–299 / printed 206–282**.
+Current Part 003 Pass-1 capture frontier: **88 / 111 scans — overall scans 223–310 / printed 206–293**.
 
 ## Planned remaining Pass 1 iterations — 11-page cadence
 
-- **P3-08 — NEXT:** scans **300–310 / printed 283–293** — 11 scans;
-- **P3-09:** scans **311–321 / printed 294–304** — 11 scans;
+- **P3-09 — NEXT:** scans **311–321 / printed 294–304** — 11 scans;
 - **P3-10:** scans **322–332 / printed 305–315** — 11 scans;
 - **Final remainder:** scan **333 / printed 316** — 1 scan.
 
@@ -140,4 +153,4 @@ Scans **332–333 / printed 315–316** form the final visible Part 003 unit. Sc
 
 ## Exact next activity
 
-Complete **P3-08 — overall scans 300–310 / printed 283–293** as 11 page-aligned Tamil records under `works/kuraloviyam/pages/`. Begin scan **300 / printed 283** as the new illustrated vignette confirmed by the P3-07 outgoing boundary witness. Inspect scan **311 / printed 294** only as a boundary witness when needed. Do not normalize, import standard Kural wording, or claim Pass 2/Pass 3 verification.
+Complete **P3-09 — overall scans 311–321 / printed 294–304** as 11 page-aligned Tamil records under `works/kuraloviyam/pages/`. Begin scan **311 / printed 294** as the new illustrated love vignette confirmed by the P3-08 outgoing boundary witness. Inspect scan **322 / printed 305** only as a boundary witness when needed. Do not normalize, import standard Kural wording, or claim Pass 2/Pass 3 verification.
