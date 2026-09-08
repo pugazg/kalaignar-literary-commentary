@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -29,9 +29,9 @@ If her heart had answered her, what might it have said?
 
 To make us understand that the heart of the jewel-adorned maiden is just like this, the great Valluvar delights in turning the heart of the peacock-like woman into a picture.
 
-> Though you see that his heart belongs to him and his love,  
+> Though you see that his heart is his own,  
 > why, my heart, do you not belong to me?
 
 Chapter 130 — Chiding the Heart; Kural 1291
 
-<!-- Source scan page: 125; printed page: 108; vignette closes here -->
+<!-- Source scan page: 125; printed page: 108; vignette closes here; source-check corrected the Kural rendering to remove an unsupported addition -->
