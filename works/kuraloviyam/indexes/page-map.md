@@ -7,7 +7,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
-| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English first-pass COMPLETE 111/111; source-check ACTIVE 75/111** |
+| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English first-pass COMPLETE 111/111; source-check COMPLETE 111/111; glossary reconciliation NEXT 0/111** |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
@@ -110,7 +110,9 @@ Part 002 contains **111 page-aligned records**, scans **112–222 / printed 95�
 | 219–220 | 202–203 | dying veteran / abandoned friendship; Chapter 80 / Kural 799 | verified |
 | 221–222 | 204–205 | pastoral / ஆயர்குடி; genuine 221→222 continuation; Chapter 128 / Kural 1275 | verified |
 
-Final Part 002 status: **111/111 textual verified; 111/111 visual fidelity verified; 0 partial; 0 source-limited; 0 needs-review**.
+Final Part 002 Tamil status: **111/111 textual verified; 111/111 visual fidelity verified; 0 partial; 0 source-limited; 0 needs-review**.
+
+Part 002 maintained English source-check is also **COMPLETE 111/111**, with **0 remaining draft pages**. Glossary reconciliation is the next English gate.
 
 ## Additional physical notes
 
@@ -161,7 +163,9 @@ Part 002:
 - final metadata/status synchronization — **PASS / CLOSED, 111 textual verified + 111 visual verified**;
 - documentation synchronization — **COMPLETE**;
 - Tamil archival-ready checkpoint — **PASS / CLOSED**;
-- maintained English workflow — **ACTIVE — first-pass drafting COMPLETE 111/111; source-check 75/111**.
+- maintained English first-pass drafting — **COMPLETE 111/111**;
+- maintained English source-check — **COMPLETE 111/111**;
+- maintained English glossary reconciliation — **NEXT, 0/111**.
 
 ## Current frontier
 
@@ -169,6 +173,6 @@ Part 002:
 
 **Part 002 Tamil: ARCHIVAL-READY / CLOSED.**
 
-**Part 002 English: ACTIVE — first-pass drafting COMPLETE 111/111; source-check 75/111.**
+**Part 002 English: ACTIVE — first-pass drafting COMPLETE 111/111; source-check COMPLETE 111/111; glossary reconciliation NEXT 0/111.**
 
-Exact next activity: **Part 002 English source-check SC6, overall scans 187–201 / printed 170–184**, using audited Tamil page records as the fidelity authority. Scan 187 begins a new separation/evening vignette after the clean 186→187 boundary. Compare paragraph-by-paragraph / block-by-block and promote only passing English records from `draft` to `source-checked`. Do not begin Part 003 before Part 002 completes its maintained English workflow and final Part closure.
+Exact next activity: **Part 002 English glossary reconciliation GR1, overall scans 112–126 / printed 95–109**, using source-checked English records, audited Tamil records and `GLOSSARY.md` as the terminology authorities. Reconcile recurring names, controlled literary terms, chapter labels and repeated English renderings without mechanically forcing context-insensitive equivalents. Glossary reconciliation does not promote pages to `editorial-reviewed`. Do not begin Part 003 before Part 002 completes its maintained English workflow and final Part closure.
