@@ -209,7 +209,7 @@ Part 001 glossary reconciliation is **COMPLETE — 111/111 scans**.
 
 No standard/published/web English Kural terminology was imported during Part 001 glossary reconciliation.
 
-## Part 002 recurring-term controls encountered through scan 192
+## Part 002 recurring-term controls encountered through scan 222
 
 | Tamil | Default English | Editorial note |
 |---|---|---|
@@ -220,8 +220,18 @@ No standard/published/web English Kural terminology was imported during Part 001
 | காவடி / பார்காவடி | kavadi / paar-kavadi | Scan 165 uses the culturally specific carrying-frame image and explicitly names `பார்காவடி`; retain the source-checked transliteration rather than replacing it with a generic object name. |
 | கஜேந்திர மோட்சம் | Gajendra Moksha | Named Puranic story on scan 160; retain the source-checked proper-name form. |
 | குறுந்தொகை | Kurunthogai | Classical work named on scans 191–192; retain the source-checked transliteration and do not import a different scholarly romanization at this gate. |
+| அலர் | `alar` / gossip | Scans 205–206 explicitly discuss the word as information/gossip made known among many. Retain `alar` while the source is discussing the lexical term; use natural **gossip** in explanatory or Kural rendering where appropriate. |
+| கெளவை / கெளவையால் | `kauvai` / `kauvaiyaal`; slander | Scans 205–206 explicitly define `கெளவை` as `பழிதூற்றுதல்` and relate it to `அலர்`; retain the source-checked transliteration while discussing the word itself. |
+| எதிரார் | `ethiraar`; unrelated outsiders | Scan 206 explicitly glosses the term as people wholly unrelated to the matter. Preserve the transliteration in the lexical discussion and the English explanation beside it. |
+| மறவர் / மறவர்குடி | Maravar / Maravar warrior clan | Recurs in the battlefield material on scans 204, 207 and 215–216. Retain the culturally specific clan/warrior term where the English record uses it; ordinary `warrior` remains contextually available. |
+| முகாரி | Mukhari | Musical/raga name on scan 207; retain the source-checked proper-name form. |
+| குறளார் | Kuralar | Source rhetorical epithet on scan 208; retain the source-checked transliteration rather than silently replacing it with a different title. |
+| நாழிகை | naazhigai | Traditional time-unit term retained on scan 213. Do not import an external numerical conversion at this gate. |
+| பச்சடி | pachadi | Food term retained in the domestic vignette on scan 218. |
+| ஆயர்குடி | ayar community | Pastoral community term across scans 221–222; retain **ayar** as the source-checked cultural identifier. |
+| வேட்டி | veshti | Garment term retained on scan 221. |
 
-## Thirukkural chapter labels encountered in Part 002 through scan 192
+## Thirukkural chapter labels encountered in Part 002 through scan 222
 
 | Tamil | Default English | Editorial note |
 |---|---|---|
@@ -230,14 +240,14 @@ No standard/published/web English Kural terminology was imported during Part 001
 | புணர்ச்சி விதும்பல் | Yearning for Union | Chapter 129 label on scans 116 and 120. |
 | வாய்மை | Truthfulness | Chapter 30 label on scan 118. |
 | தெரிந்து தெளிதல் | Knowing and Trusting | Chapter 51 label on scan 123. |
-| நெஞ்சொடு புலத்தல் | Chiding the Heart | Chapter 130 label on scans 125 and 169. |
+| நெஞ்சொடு புலத்தல் | Chiding the Heart | Chapter 130 label on scans 125, 169 and 214. |
 | கூடா நட்பு | False Friendship | Chapter 83 label on scan 127. |
 | புலவி நுணுக்கம் | Subtleties of Lovers' Quarrel | Chapter 132 label on scans 129, 133 and 183. |
 | இனியவை கூறல் | Speaking Pleasant Words | Chapter 10 label on scan 131. |
 | கேள்வி | Listening | Chapter 42 label on scan 135. |
 | காலம் அறிதல் | Knowing the Proper Time | Chapter 49 label on scan 139. |
 | நெஞ்சொடு கிளத்தல் | Speaking with the Heart | Chapter 125 label on scans 141 and 153. Keep distinct from Chapter 130 `நெஞ்சொடு புலத்தல்` → **Chiding the Heart**. |
-| அலர் அறிவுறுத்தல் | Awareness of Gossip | Chapter 115 label on scan 145. |
+| அலர் அறிவுறுத்தல் | Awareness of Gossip | Chapter 115 label on scans 145 and 206. |
 | தெரிந்து செயல்வகை | Acting After Due Consideration | Chapter 47 label on scan 147. |
 | நினைந்தவர் புலம்பல் | Lamenting the Absent Lover | Chapter 121 label on scan 149. |
 | பிறனில் விழையாமை | Not Desiring Another's Wife | Chapter 15 label on scan 152. |
@@ -247,15 +257,20 @@ No standard/published/web English Kural terminology was imported during Part 001
 | புறங்கூறாமை | Refraining from Slander | Chapter 19 label on scan 163. |
 | ஆள்வினையுடைமை | Diligent Effort | Chapter 62 label on scans 167 and 186. |
 | கண்ணோட்டம் | Gracious Regard | Chapter 58 label on scan 171. |
-| குறிப்பறிவுறுத்தல் | Making the Sign Understood | Chapter 128 label on scan 173. |
+| குறிப்பறிவுறுத்தல் | Making the Sign Understood | Chapter 128 label on scans 173 and 222. |
 | ஊக்கம் உடைமை | Possession of Resolve | Chapter 60 label on scan 175. |
-| இடுக்கண் அழியாமை | Not Succumbing to Adversity | Chapter 63 label on scans 180 and 190. |
+| இடுக்கண் அழியாமை | Not Succumbing to Adversity | Chapter 63 label on scans 180, 190 and 199. |
 | ஒற்றாடல் | Espionage | Chapter 59 label on scan 180. |
 | ஊழ் | Fate | Chapter 38 label on scan 186. |
+| தகையணங்குறுத்தல் | The Bewildering Power of Beauty | Chapter 109 label on scan 196. |
+| படைச்செருக்கு / படைச் செருக்கு | Martial Pride | Chapter 78 label on scans 204, 208 and 216; scan 216 carries the spaced source variant. |
+| தீவினையச்சம் | Fear of Evil Deeds | Chapter 21 label on scan 212. |
+| புலவி | Lovers' Sulking | Chapter 131 label on scan 218. Keep distinct from the broader prose term `ஊடல்` → **lovers' quarrel** and from Chapter 132 `புலவி நுணுக்கம்`. |
+| நட்பாராய்தல் | Examining Friendship | Chapter 80 label on scan 220. |
 
-Existing Part 001 controls are reused unchanged when the same Tamil chapter label reappears, including **The Agony of Solitary Love** (`தனிப்படர் மிகுதி / தனிப்படர்மிகுதி`, Part 002 scan 165), **Lamenting in Wasting Longing** (`படர்மெலிந்திரங்கல்`, scan 178), **Lamenting at the Sight of Evening** (`பொழுதுகண்டு இரங்கல் / பொழுதுகண்டிரங்கல்`, scans 137 and 188), and **False Conduct** (`கூடாவொழுக்கம்`, scan 143).
+Existing Part 001 controls are reused unchanged when the same Tamil chapter label reappears, including **Giving** (`ஈகை`, Part 002 scan 194), **The Agony of Solitary Love** (`தனிப்படர் மிகுதி / தனிப்படர்மிகுதி`, scan 165), **The Joy of Union** (`புணர்ச்சி மகிழ்தல்`, scan 201), **Lamenting in Wasting Longing** (`படர்மெலிந்திரங்கல்`, scans 178 and 210), **Lamenting at the Sight of Evening** (`பொழுதுகண்டு இரங்கல் / பொழுதுகண்டிரங்கல்`, scans 137 and 188), and **False Conduct** (`கூடாவொழுக்கம்`, scan 143).
 
-## People / narrative / historical names encountered in Part 002 through scan 192
+## People / narrative / historical names encountered in Part 002 through scan 222
 
 | Tamil | Default English form | Editorial note |
 |---|---|---|
@@ -290,6 +305,20 @@ Existing Part 001 controls are reused unchanged when the same Tamil chapter labe
 | இனியன் / இனியா | Iniyan / Iniya | Second spy across scans 179–180; use `Iniya` in direct address. |
 | சிங்கன் | Singan | Young man in the flood/rescue vignette across scans 185–186. |
 | அஞ்சுகத்தம்மை | Anjugathammai | Kalaignar's mother as explicitly named in scan 190. Keep this source form distinct from Part 001 `அஞ்சுக அன்னை` → **Mother Anjugam**. |
+| குமணன் / குமண மன்னன் | Kumanan / King Kumanan | Ruler in the generosity vignette across scans 193–194. |
+| சாத்தனார் | Saathanaar | Poet in the Kumanan generosity vignette on scan 194. |
+| பாவேந்தர் பாரதிதாசன் | Paavendhar Bharathidasan | Explicit source honorific on scan 201. Preserve the honorific when present; keep bare **Bharathidasan** where the Tamil itself is bare, as on scan 217. |
+| தென்னவன் / தென்னவா | Thennavan / Thennava | King in the treachery/mercy vignette across scans 211–212; use `Thennava` in direct address. |
+| பூங்குழலி | Poonguzhali | Woman in the waiting/disguise vignette across scans 213–214. |
+| இனியவள் | Iniyaval | Poonguzhali's close friend in scan 214. |
+| அழகன் | Alagan | Ayar-community youth in the pastoral vignette on scan 222. |
+| அழகுவல்லி | Alaguvalli | Alagan's beloved in the pastoral vignette on scan 222. |
+
+## Part 002 place references added during glossary reconciliation
+
+| Tamil | Default English form | Editorial note |
+|---|---|---|
+| பழையனூர் | Pazhayanur | Place/army name in the dying-veteran recollection on scan 220; retain the source-checked transliteration. |
 
 ## Part 002 GR1 reconciliation record — scans 112–126
 
@@ -331,6 +360,22 @@ GR3 processed **33 consecutive pages: scans 160–192 / printed 143–175** at t
 - source-supported personal/narrative forms were added for the Puranic/historical figures and Part 002 characters actually encountered through scan 192, including **Malaiyan / Malaiya**, **Silamban**, **Kala**, **Thogai**, **Socrates**, **Meletus**, **Xanthippe**, **Vengai**, **Enthizhai**, **Veeran**, **Othiyan / Othiya**, **Iniyan / Iniya**, **Singan**, and **Anjugathammai**;
 - source-supported continuity was preserved across 160→161, 162→163, 164→165, 166→167, 168→169, 170→171, 172→173, 174→175, 176→177→178, 179→180, 181→182→183, 184→185→186, 187→188, 189→190 and 191→192; scan **192→193** is a clean source boundary and scan 193 was inspected only as the next-batch witness;
 - no page status changed from `source-checked`, no Tamil archival record changed, and no external/published/web English terminology was imported.
+
+## Part 002 GR4 reconciliation record — scans 193–222
+
+GR4 processed the **final 30-page remainder: scans 193–222 / printed 176–205**.
+
+- scans **193–222** — terminology reconciliation **PASS, 30/30**;
+- **scan 201 / printed 184** — explicit source honorific `பாவேந்தர் பாரதிதாசன்` was restored in English as **Paavendhar Bharathidasan**; bare `பாரதிதாசன்` on scan 217 remains **Bharathidasan**;
+- **scan 218 / printed 201** — prose `ஊடல்` was reconciled from transliterated **oodal** to the controlled contextual rendering **lovers' quarrel**; the distinct Chapter 131 title `புலவி` remains **Lovers' Sulking**;
+- newly evidenced chapter-label controls were added for **The Bewildering Power of Beauty**, **Martial Pride**, **Fear of Evil Deeds**, **Lovers' Sulking**, and **Examining Friendship**; existing controls **Giving**, **The Joy of Union**, **Awareness of Gossip**, **Chiding the Heart**, **Lamenting in Wasting Longing**, **Making the Sign Understood**, and **Not Succumbing to Adversity** were confirmed;
+- lexical/cultural controls were added for **alar**, **kauvai**, **ethiraar**, **Maravar**, **Mukhari**, **Kuralar**, **naazhigai**, **pachadi**, **ayar community**, and **veshti**;
+- source-supported names were added for **Kumanan**, **Saathanaar**, **Paavendhar Bharathidasan**, **Thennavan / Thennava**, **Poonguzhali**, **Iniyaval**, **Alagan**, and **Alaguvalli**, with **Pazhayanur** added as a place-name control;
+- source-supported continuity was preserved across 193→194, 195→196, 197→198→199, 200→201, 202→203→204, 205→206, 207→208, 209→210, 211→212, 213→214, 215→216, 217→218, 219→220 and the genuine final 221→222 continuation; illustration-only scan **203** remains correctly embedded in the 202→203→204 sequence;
+- scan **222 / printed 205** closes the pastoral/ayar-community vignette and is the final physical scan of Part 002;
+- no page status changed from `source-checked`, no Tamil archival record changed, and no external/published/web English terminology was imported.
+
+**Part 002 glossary reconciliation is COMPLETE — 111/111 scans.**
 
 ## Review rule
 
