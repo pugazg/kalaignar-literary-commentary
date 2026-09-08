@@ -29,6 +29,6 @@ When he sang that philosophical song with emotion overflowing, one might even sa
 Having sung that, the musician immediately continued:
 
 > “To grieve that life is impermanent  
-> and turn oneself into mere paddy-chaff is folly!”
+> and turn oneself into mere chaff is folly!”
 
 <!-- Source scan page: 134; printed page: 117; vignette continues to scan 135 -->
