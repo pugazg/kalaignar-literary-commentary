@@ -53,7 +53,7 @@ Part 002 Tamil is not to be routinely retranscribed or reverified during English
 - translation type — **project-created English translation**;
 - official/publisher English source supplied — **no**;
 - normal authority — audited Tamil Part 002 records;
-- first-pass drafting — **77/111 COMPLETE so far / ACTIVE**;
+- first-pass drafting — **88/111 COMPLETE so far / ACTIVE**;
 - source-check — **0/111**;
 - glossary reconciliation — **0/111**;
 - editorial review — **0/111**;
@@ -73,34 +73,35 @@ Completed first-pass batches:
 - **Batch 5: scans 156–166 / printed 139–149 — 11/11 draft records.**
 - **Batch 6: scans 167–177 / printed 150–160 — 11/11 draft records.**
 - **Batch 7: scans 178–188 / printed 161–171 — 11/11 draft records.**
+- **Batch 8: scans 189–199 / printed 172–182 — 11/11 draft records.**
 
-Batch 7 preserved Tamil-English filename alignment, visual descriptions, Kural block lineation, Chapter/Kural metadata and cross-page continuations. It completes the incoming **176→177→178** love/separation-night sequence and ends at the clean **188→189** source boundary. No standard/published/web English Kural translation was imported and no Tamil page was changed.
+Batch 8 preserved Tamil-English filename alignment, visual descriptions, Kural block lineation, Chapter/Kural metadata and cross-page continuations. No standard/published/web English Kural translation was imported and no Tamil page was changed.
 
 Important continuity state:
 
-- **176→177→178** love/separation-night closes at 178;
-- **179→180** king/minister/two-spies closes at 180;
-- **181→182→183** moonlit-seaside lovers closes at 183;
-- **183→184** clean source boundary;
-- **184→185→186** flood/rescue closes at 186;
-- **187→188** separation/evening closes at 188;
-- **188→189** clean source boundary.
+- **188→189** clean source boundary;
+- **189→190** snake/Muthuvelar autobiographical vignette closes at 190;
+- **191→192** lovers/oodal closes at 192;
+- **193→194** Kumanan/Saathanaar generosity closes at 194;
+- **195→196** returning-warrior/maiden closes at 196;
+- **197→198→199** praise/reversal closes at 199;
+- **199→200** clean source boundary.
 
-## Exact current activity — Part 002 English draft Batch 8
+## Exact current activity — Part 002 English draft Batch 9
 
-Proceed with **overall scans 189–199 / printed 172–182**, 11 page-aligned records.
+Proceed with **overall scans 200–210 / printed 183–193**, 11 page-aligned records.
 
 Requirements:
 
 1. fetch live `main` and preserve newer durable work;
 2. read the English README, TRANSLATION_GUIDE, TRANSLATION_STATUS and relevant GLOSSARY conventions;
-3. use audited Tamil page records **0189–0199** as the normal translation basis;
+3. use audited Tamil page records **0200–0210** as the normal translation basis;
 4. mirror Tamil filenames in `translations/en/pages/`;
 5. set/retain `translation_type: "project_translation"` and `status: "draft"`;
 6. preserve Kural numbering, chapter relationships, page/visual structure and source-continuation relationships without importing a published/standard English Kural translation;
 7. do not reopen the Tamil source merely to make English prose smoother;
-8. preserve the clean **188→189** source boundary when beginning scan 189;
+8. preserve the clean **199→200** source boundary when beginning scan 200;
 9. synchronize English status/frontier after the 11-record batch;
-10. next draft batch after completion will be **200–210 / printed 183–193**, 11 records.
+10. next draft batch after completion will be **211–221 / printed 194–204**, 11 records, followed by scan **222 / printed 205** as the final drafting remainder.
 
 Do not begin source-check until Part 002 first-pass drafting is complete. Part 003 remains blocked until Part 002 English workflow and final Part closure are complete.
