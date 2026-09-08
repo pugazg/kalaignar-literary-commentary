@@ -44,33 +44,15 @@ Controlling Tamil source identity:
 - physical/local pages: **111 / 1–111**;
 - SHA-256: `4397caf9ba405ba65f50865c85e24461ea56bd2efa3dd589d31469877c9a4bda`.
 
-Tamil gates:
-
-- source intake — **COMPLETE**;
-- Pass 1 — **COMPLETE 111/111**;
-- Pass 2A — **COMPLETE 111/111**;
-- Pass 2B — **COMPLETE 111/111**;
-- Pass 3 — **COMPLETE 111/111**;
-- Part audit — **PASS**;
-- final status sync — **PASS / CLOSED**;
-- documentation sync — **COMPLETE**;
-- Tamil archival-ready checkpoint — **PASS / CLOSED**.
-
-Final Part 002 Tamil state:
-
-- textual verified: **111**;
-- partial/source-limited: **0**;
-- needs-review: **0**;
-- visual verified: **111**;
-- visual needs-review: **0**.
+Tamil gates are closed through the archival-ready checkpoint. Final Part 002 Tamil state is **111 textual verified / 111 visual verified / 0 exceptions**.
 
 Durable Tamil declaration: `../../PART_002_TAMIL_ARCHIVAL_READY.md`.
 
-The **111→112** split boundary is already resolved by the closed Tamil archival workflow. Do not repeat source intake or Tamil verification simply because English drafting is underway.
+Do not repeat Tamil verification merely because English drafting is underway.
 
 ## Part 002 English gates
 
-- first-pass drafting: **11/111 — ACTIVE**;
+- first-pass drafting: **22/111 — ACTIVE**;
 - source-check: **0/111**;
 - glossary reconciliation: **0/111**;
 - editorial review: **0/111**;
@@ -81,20 +63,23 @@ The **111→112** split boundary is already resolved by the closed Tamil archiva
 ### First-pass drafting batches
 
 - **Batch 1: scans 112–122 / printed 95–105 — COMPLETE, 11/11 draft records.**
+- **Batch 2: scans 123–133 / printed 106–116 — COMPLETE, 11/11 draft records.**
 
-Batch 1 preserves the audited Tamil page alignment, visual-material placement, Kural block lineation, Chapter/Kural metadata and cross-page continuations. No published/standard/web English Kural wording was imported, and no Tamil archival record was changed.
+Batch 2 preserves audited Tamil page alignment, visual-material placement, Kural block lineation, Chapter/Kural metadata and cross-page continuations. No published/standard/web English Kural wording was imported, and no Tamil archival record was changed.
 
-Notable batch boundaries retained:
+Notable continuity retained:
 
-- 112→113 love / lovers' quarrel vignette;
-- 114→115 sculptor/painter vignette;
-- 117→118 Valluvar/student/hunter/deer continuation;
-- 119→120 husband/wife continuation;
-- 121→122 merchant/rest-house continuation, which continues beyond the batch to scan 123.
+- **121→122→123** merchant/rest-house vignette closes at scan 123;
+- **124→125** young-woman/heart vignette;
+- **126→127** Gandhi vignette;
+- **128→129** sneezing/lovers vignette;
+- **130→131** elderly-man/public-meeting vignette;
+- **132→133** lovers' quarrel vignette, closing at 133;
+- scan **134 / printed 117** begins a new illustrated vignette.
 
 ## Current frontier
 
-Proceed with **Part 002 English first-pass draft Batch 2: overall scans 123–133 / printed 106–116**, 11 records.
+Proceed with **Part 002 English first-pass draft Batch 3: overall scans 134–144 / printed 117–127**, 11 records.
 
 Requirements:
 
@@ -106,6 +91,6 @@ Requirements:
 6. do not change Tamil archival records;
 7. update this status and audit the exact changed-file set after the batch.
 
-Next draft batch after Batch 2: **134–144 / printed 117–127**, 11 records.
+Next draft batch after Batch 3: **145–155 / printed 128–138**, 11 records.
 
-Part 003 remains blocked until Part 002 English workflow and final Part closure are complete.
+Do not begin source-check until Part 002 first-pass drafting covers all 111 records. Part 003 remains blocked until Part 002 English workflow and final Part closure are complete.
