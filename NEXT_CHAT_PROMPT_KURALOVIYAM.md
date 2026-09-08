@@ -31,7 +31,8 @@ Read completely before changing anything:
 - Part 002 Tamil: **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified**.
 - Part 002 English: **RELEASE COMPLETE / CLOSED — 111/111 release-ready**.
 - Part 003 source intake: **PASS / COMPLETE**.
-- Part 003 Pass 1: **ACTIVE — scans 223–233 / 11 of 111 captured**.
+- Part 003 Pass 1: **ACTIVE — scans 223–266 / 44 of 111 captured**.
+- Completed Pass-1 batches: **P3-01, P3-02, P3-03, P3-04**.
 
 ## Part 003 controlling source
 
@@ -48,9 +49,16 @@ Confirmed source identity:
 
 ## Boundary state
 
-**222→223 is resolved CLEAN.** Scan 222 closes the pastoral / `ஆயர்குடி` vignette with Chapter 128 / Kural 1275. Scan 223 / printed 206 begins a new illustrated `பேதைமை` vignette.
+**222→223 is CLEAN.**
 
-**233→234 is a genuine continuation.** Scan 233 / printed 216 begins the festival / green-sari vignette; scan 234 / printed 217 was inspected only as the P3-01 boundary witness and continues the same unit.
+Through the current Part-003 frontier:
+
+- **233→234 genuine continuation**;
+- **244→245 clean**;
+- **255→256 clean**;
+- **266→267 genuine continuation**.
+
+P3-04 scan **266 / printed 249** begins the trade/separation vignette and ends mid-sentence. Scan **267 / printed 250** was inspected only as the outgoing boundary witness and continues that same sentence/unit; it must be the first page captured in P3-05.
 
 At the far end, scan 333 / printed 316 closes the final visible Part 003 unit with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567. The external **333→334** boundary remains deferred until Part 004 intake.
 
@@ -60,13 +68,13 @@ Process **11 physical scan pages per normal iteration**. These are workflow boun
 
 Completed:
 
-- **P3-01: scans 223–233 / printed 206–216 — COMPLETE 11/11**.
+- **P3-01: 223–233 / printed 206–216 — COMPLETE 11/11**;
+- **P3-02: 234–244 / printed 217–227 — COMPLETE 11/11**;
+- **P3-03: 245–255 / printed 228–238 — COMPLETE 11/11**;
+- **P3-04: 256–266 / printed 239–249 — COMPLETE 11/11**.
 
 Remaining:
 
-- P3-02: 234–244 / printed 217–227
-- P3-03: 245–255 / printed 228–238
-- P3-04: 256–266 / printed 239–249
 - P3-05: 267–277 / printed 250–260
 - P3-06: 278–288 / printed 261–271
 - P3-07: 289–299 / printed 272–282
@@ -75,20 +83,31 @@ Remaining:
 - P3-10: 322–332 / printed 305–315
 - final remainder: 333 / printed 316
 
-## Exact next activity — P3-02
+## P3-04 durable capture summary
 
-Process **scans 234–244 / printed 217–227 — 11 physical pages** in one iteration.
+- scans **256–257** — poverty / fire vignette;
+- scans **258–259** — pottery / lovers vignette;
+- scans **260–261** — Alagan / harsh-aunt / orphan vignette; Chapter 13 / Kural 129;
+- scans **262–263** — moon / separation vignette; Chapter 114 / Kural 1140;
+- scans **264–265** — Nallaan / Vallaan bear-and-friendship vignette; Chapter 80 / Kural 796;
+- scan **266** — trade / separation vignette begins and continues directly to scan 267.
+
+All Part-003 Pass-1 records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`. Do not promote them during capture.
+
+## Exact next activity — P3-05
+
+Process **scans 267–277 / printed 250–260 — 11 physical pages** in one iteration.
 
 Requirements:
 
 1. use the supplied Part 003 controlling PDF and inspect rendered scans directly;
-2. begin scan 234 as the direct continuation of scan 233;
-3. create page-aligned Tamil records under `works/kuraloviyam/pages/` for scans 234–244 only;
+2. begin scan 267 as the direct continuation of scan 266;
+3. create page-aligned Tamil records under `works/kuraloviyam/pages/` for scans 267–277 only;
 4. preserve exact visible wording, punctuation, paragraphs, dialogue, Kural blocks, chapter/Kural metadata, illustration/text relationships and non-body marks;
 5. keep overall `scan_page` numbering; do not restart numbering at Part-local page 1;
 6. default new records to `status: "needs-review"` and `visual_fidelity: "needs-review"` unless a genuine source limitation requires otherwise;
 7. do not normalize, modernize, import standard/web Kural wording, use another edition, or guess from OCR/memory;
-8. inspect scan **245 / printed 228** only as a boundary witness when needed; do not create scan 245 during P3-02;
-9. after capture, update `PART_003_PASS1_PROGRESS.md`, page-map/frontier and handover as needed;
+8. inspect scan **278 / printed 261** only as a boundary witness when needed; do not create scan 278 during P3-05;
+9. after capture, synchronize `PART_003_PASS1_PROGRESS.md`, README, handovers, this prompt and page-map/frontier;
 10. audit the exact changed-file set before advancing;
-11. next after successful P3-02 is **P3-03 scans 245–255 / printed 228–238**.
+11. next after successful P3-05 is **P3-06 scans 278–288 / printed 261–271**.
