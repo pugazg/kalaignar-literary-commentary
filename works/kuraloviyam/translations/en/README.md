@@ -35,27 +35,24 @@ Part 002 covers scans **112–222 / printed 95–205**, 111 physical pages, and 
 - first-pass drafting: **111/111 COMPLETE**;
 - source-check: **111/111 COMPLETE / CLOSED**;
 - glossary reconciliation: **111/111 COMPLETE / CLOSED**;
-- editorial review: **66/111 ACTIVE**.
-
-Glossary reconciliation is fully closed across **GR1–GR4**.
+- editorial review: **99/111 ACTIVE**.
 
 Editorial review:
 
 - **ER1 scans 112–144 / printed 95–127 — COMPLETE 33/33**;
 - **ER2 scans 145–177 / printed 128–160 — COMPLETE 33/33**;
-- scans **112–177** are now `editorial-reviewed`;
-- scans **178–222** remain `source-checked` pending editorial review.
+- **ER3 scans 178–210 / printed 161–193 — COMPLETE 33/33**;
+- scans **112–210** are now `editorial-reviewed`;
+- scans **211–222** remain `source-checked` pending the final editorial remainder.
 
-ER2 made source-faithful English improvements on scans **146, 150, 157, 161, 169, 171 and 176**. It also preserved the illustration-only scan **177** inside the genuine **176→177→178** continuation; scan 178 remains outside ER2 and starts ER3 by directly closing that vignette.
+ER3 made source-faithful English improvements on scans **178, 184, 185, 189 and 201**. It preserved the illustration-only scan **203** inside **202→203→204** and confirmed the **210→211** boundary as clean.
 
 No Tamil archival record changed and no publisher/standard/web English wording was imported.
 
 ## Current frontier
 
-Proceed with **Part 002 editorial review ER3: scans 178–210 / printed 161–193 — 33 records**.
+Proceed with **Part 002 editorial review ER4: scans 211–222 / printed 194–205 — final 12 records**.
 
-After ER3, **ER4 scans 211–222 / printed 194–205 — final 12 pages**.
-
-Do not begin Part-level English review until editorial review reaches **111/111**. Do not begin Part 003 before Part 002 English editorial review, Part-level review, release report and final Part closure are complete.
+After ER4 reaches **111/111**, proceed to the **Part 002 Part-level English review**. Do not begin Part 003 before Part-level review, release report and final Part closure are complete.
 
 See `TRANSLATION_STATUS.md` for the authoritative detailed frontier.
