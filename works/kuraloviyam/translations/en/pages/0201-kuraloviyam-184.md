@@ -21,7 +21,7 @@ Four lips turn saliva into nectar and make music swell through every vein and ne
 
 Even after such an embrace, was she satisfied?
 
-“Do not let even the breeze enter between the two of us, my love!” Bharathidasan wrote, making the embracing lovers into a scene in his lines of poetry. They are to embrace so closely that there is not even room for the air to enter!
+“Do not let even the breeze enter between the two of us, my love!” Paavendhar Bharathidasan wrote, making the embracing lovers into a scene in his lines of poetry. They are to embrace so closely that there is not even room for the air to enter!
 
 Valluvar had introduced just such a pair of lovers through a Kural two thousand years ago—with what beauty!
 
