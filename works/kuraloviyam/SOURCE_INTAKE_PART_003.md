@@ -43,12 +43,19 @@ No text is reconstructed across the split.
 
 ## User-directed Part 003 Pass 1 cadence
 
-Use **33 physical scans per normal Part 003 Pass 1 iteration**. These are workflow boundaries only and must never create artificial textual boundaries.
+Use **11 physical scans per normal Part 003 Pass 1 iteration**. These are workflow boundaries only and must never create artificial textual boundaries.
 
-- P3-01: scans **223–255 / printed 206–238**;
-- P3-02: scans **256–288 / printed 239–271**;
-- P3-03: scans **289–321 / printed 272–304**;
-- final remainder: scans **322–333 / printed 305–316**.
+- P3-01: scans **223–233 / printed 206–216** — COMPLETE;
+- P3-02: scans **234–244 / printed 217–227**;
+- P3-03: scans **245–255 / printed 228–238**;
+- P3-04: scans **256–266 / printed 239–249**;
+- P3-05: scans **267–277 / printed 250–260**;
+- P3-06: scans **278–288 / printed 261–271**;
+- P3-07: scans **289–299 / printed 272–282**;
+- P3-08: scans **300–310 / printed 283–293**;
+- P3-09: scans **311–321 / printed 294–304**;
+- P3-10: scans **322–332 / printed 305–315**;
+- final remainder: scan **333 / printed 316**.
 
 Where needed, inspect the first scan of the following iteration only as a boundary witness before committing the current batch.
 
@@ -58,11 +65,13 @@ Where needed, inspect the first scan of the following iteration only as a bounda
 2. Kural wording is copied only from this edition's visible scan; no canonical/web wording is substituted.
 3. Illustrations, page furniture, stamps and other non-body marks remain separate from printed prose.
 4. Pass 1 records remain `needs-review`; no hidden verification is claimed.
-5. The 33-scan cadence never creates an artificial narrative boundary.
+5. The 11-scan cadence never creates an artificial narrative boundary.
 6. Part 001 and Part 002 remain closed and are not reopened by this intake.
 
 ## Current gate
 
 **Part 003 source intake: COMPLETE / PASS.**
 
-Next: **P3-01 / Part 003 Pass 1 — scans 223–255 / printed 206–238**, using scan **256 / printed 239** only as a boundary witness when needed.
+**P3-01 / Pass 1 scans 223–233: COMPLETE.**
+
+Next: **P3-02 / Part 003 Pass 1 — scans 234–244 / printed 217–227**, beginning with the genuine **233→234** continuation and using scan **245 / printed 228** only as a boundary witness when needed.
