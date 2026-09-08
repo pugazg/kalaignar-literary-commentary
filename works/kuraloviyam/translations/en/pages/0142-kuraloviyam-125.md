@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,6 +19,6 @@ Like a monkey leaping from branch to branch, there are people who leap from prin
 
 People, it is said, will think a person is pure gold without a flaw if he is the first to point out some fault in somebody or something! Medical Sigamani belonged to that class.
 
-He had a desire somehow to obtain a government post and become famous. With that aim he deliberately befriended one of the palace loyalists and asked him to place his ambition before the government. That loyalist, for Sigamani—
+He had a desire somehow to obtain a government post and become famous. With that aim he deliberately befriended one of the palace loyalists and asked him to place his ambition before the government. That loyalist asked the government for a post not only for Sigamani—
 
 <!-- Source scan page: 142; printed page: 125; sentence continues directly to scan 143 -->
