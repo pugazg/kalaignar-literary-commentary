@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 Large colour multi-scene domestic illustration showing several women and a man in linked dramatic moments.
 
-In a palace there were two inseparable friends who held highly paid posts. Their names are imaginary names. Yet they are names needed for the story and for the idea of the story.
+In a palace there were two inseparable friends who held highly paid posts. Their names were imaginary. Even so, they were names needed for the story and for its central idea.
 
 One was named “Thelindhan.”
 

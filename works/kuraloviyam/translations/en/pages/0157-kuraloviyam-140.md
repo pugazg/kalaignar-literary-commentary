@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,7 +19,7 @@ The sword-bearing men were shaken. Unable to withstand the fire pouring from her
 
 He testified that she had lost her chastity! He called her a prostitute! Those who until then had submitted to his commands could not endure it. The people of the village knew well the strength of her chastity. No one came forward to accept the slander spoken against that woman of golden worth. The lustful man rose grandly, sword in hand. Facing him, the villagers raised only their hands. From every direction came the cry, “Do not lay false blame upon her!”
 
-What could his sword and the support of his men do before the united strength of the people!
+What could his sword and the support of his men do against the united strength of the people?
 
 His swagger subsided—his arrogance was destroyed—and with head bowed he walked back toward his home.
 
