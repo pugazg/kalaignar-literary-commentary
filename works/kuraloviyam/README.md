@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Current archival state |
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English first-pass COMPLETE 111/111; source-check COMPLETE 111/111; glossary reconciliation COMPLETE 111/111; editorial review COMPLETE 111/111; Part-level review READY / NEXT** |
+| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English first-pass, source-check, glossary reconciliation and editorial review COMPLETE 111/111; Part-level English review PASS; release report READY / NEXT** |
 | 003 | 223–333 | not-started |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
@@ -21,7 +21,7 @@ Mandatory per-part cadence:
 
 source intake → Pass 1 → Pass 2A → Pass 2B → Pass 3 → Part audit → final metadata/status sync → documentation sync → Tamil archival-ready → English project-translation/review closure → final Part checkpoint → next supplied Part.
 
-For active English page-batched iterations, the user-directed normal batch size is **33 physical pages**. Historical completed batches retain their original sizes; a final remainder may be shorter. Part-level review is a whole-Part gate.
+For active English page-batched iterations, the user-directed normal batch size is **33 physical pages**. Historical completed batches retain their original sizes; a final remainder may be shorter. Part-level review and release report are whole-Part gates.
 
 ## Part 001 — CLOSED
 
@@ -41,19 +41,22 @@ Tamil is **ARCHIVAL-READY / CLOSED** at **111 textual verified + 111 visual veri
 - source-check: **111/111 COMPLETE / CLOSED**;
 - glossary reconciliation: **111/111 COMPLETE / CLOSED**;
 - editorial review: **111/111 COMPLETE / CLOSED**;
-- Part-level review: **READY / NEXT**;
+- Part-level review: **PASS / CLOSED**;
+- release report: **READY / NEXT**;
 - release-ready: **0/111**.
 
-Editorial review is closed across ER1–ER4. The final ER4 remainder, scans **211–222 / printed 194–205**, passed **12/12** and promoted all remaining pages to `editorial-reviewed`.
+Durable Part-level review: `translations/en/reviews/PART_002_ENGLISH_REVIEW.md`.
 
-ER4 made source-faithful wording improvements on scans **211, 212, 215, 218, 219, 220, 221 and 222**. The **210→211** boundary remains clean; all final-range source continuities remain intact, including genuine **221→222**, and scan **222 / printed 205** closes the pastoral/ஆயர்குடி vignette and Part 002.
+The whole-Part review passed one-to-one Tamil/English inventory and filename alignment, exact pre-release statuses, controlled terminology/names, chapter/Kural metadata, visual/non-body functions and continuity through final **221→222**. No English page wording or status changed at that gate.
+
+The internal Part ending at scan **222** is closed. The external **222→223** boundary remains explicitly deferred until Part 003 source intake; no unsupported boundary is inferred.
 
 No Tamil page record changed and no external/published/web English wording was imported.
 
 ## Current frontier
 
-**Next activity: Part 002 Part-level English review across scans 112–222 as one completed Part.**
+**Next activity: Part 002 English release report.**
 
-Create `translations/en/reviews/PART_002_ENGLISH_REVIEW.md`, following the Part 001 review precedent. Verify one-to-one page inventory/alignment, exact final statuses, controlled terminology/names, chapter/Kural metadata, page functions and non-body material, and accumulated continuities. Do not promote pages to `release-ready` during this gate.
+Create `translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`, following the Part 001 release-report precedent. Use the Part 002 review PASS as the authoritative prior gate. If release is approved, promote all **111** Part 002 English pages from `editorial-reviewed` to `release-ready` without wording changes.
 
-If the Part-level review passes, the next gate is the **Part 002 English release report**. Do not begin Part 003 before Part 002 release and final Part closure are complete.
+Do not begin Part 003 before the Part 002 release report, page-status promotion and final Part closure are complete.
