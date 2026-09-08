@@ -54,7 +54,7 @@ Part 002 Tamil is not to be routinely retranscribed or reverified during English
 - official/publisher English source supplied — **no**;
 - normal authority — audited Tamil Part 002 records;
 - first-pass drafting — **111/111 COMPLETE**;
-- source-check — **0/111 / NEXT GATE**;
+- source-check — **15/111 COMPLETE so far / ACTIVE**;
 - glossary reconciliation — **0/111**;
 - editorial review — **0/111**;
 - Part review — not started;
@@ -64,50 +64,33 @@ Permanent English cadence:
 
 **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
 
-Completed first-pass drafting:
+## Source-check record
 
-- **Batch 1: scans 112–122 / printed 95–105 — 11/11 draft records.**
-- **Batch 2: scans 123–133 / printed 106–116 — 11/11 draft records.**
-- **Batch 3: scans 134–144 / printed 117–127 — 11/11 draft records.**
-- **Batch 4: scans 145–155 / printed 128–138 — 11/11 draft records.**
-- **Batch 5: scans 156–166 / printed 139–149 — 11/11 draft records.**
-- **Batch 6: scans 167–177 / printed 150–160 — 11/11 draft records.**
-- **Batch 7: scans 178–188 / printed 161–171 — 11/11 draft records.**
-- **Batch 8: scans 189–199 / printed 172–182 — 11/11 draft records.**
-- **Batch 9: scans 200–210 / printed 183–193 — 11/11 draft records.**
-- **Batch 10: scans 211–221 / printed 194–204 — 11/11 draft records.**
-- **Final remainder: scan 222 / printed 205 — 1/1 draft record.**
+- **SC1: scans 112–126 / printed 95–109 — COMPLETE, 15/15 source-checked.**
 
-The final remainder closes the genuine **221→222** pastoral/ayar-community continuation with Chapter 128 / Kural 1275. The first-pass English layer is now complete for all **111/111** Part 002 page records. No standard/published/web English Kural translation was imported and no Tamil page was changed.
+SC1 compared English pages against the audited Tamil records paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual-page function and source-continuation relationships. The clean **111→112** Part boundary was preserved.
 
-Important continuity state at the drafting closure:
+Scan **127 / printed 110** was inspected only as the continuation witness for scan 126 and remains `draft` for SC2.
 
-- **210→211** clean source boundary;
-- **211→212** enemy-siege/treachery and mercy closes at 212;
-- **213→214** Poonguzhali waiting/Iniyaval disguise closes at 214;
-- **214→215** clean source boundary;
-- **215→216** warrior-departure/battlefield-death closes at 216;
-- **217→218** domestic meal/salt/oodal closes at 218; lower-margin blue circular library stamps remain non-body material;
-- **219→220** dying-veteran/abandoned-friendship closes at 220;
-- **221→222** pastoral/ayar-community closes at 222, the final physical scan of Part 002.
+One source-fidelity correction was required: scan **125 / printed 108 / Kural 1291** previously contained the unsupported draft phrase **“and his love.”** The Kural rendering was corrected to **“Though you see that his heart is his own, / why, my heart, do you not belong to me?”** before the page was promoted to `source-checked`. No Tamil page changed and no published/standard/web English Kural wording was imported.
 
-## Exact current activity — Part 002 English source-check SC1
+## Exact current activity — Part 002 English source-check SC2
 
-Proceed with **overall scans 112–126 / printed 95–109**, 15 consecutive page-aligned records.
+Proceed with **overall scans 127–141 / printed 110–124**, 15 consecutive page-aligned records.
 
 Requirements:
 
 1. fetch live `main` and preserve newer durable work;
 2. read the English README, TRANSLATION_GUIDE, TRANSLATION_STATUS and relevant GLOSSARY conventions;
-3. compare English files `0112`–`0126` against their audited Tamil counterparts paragraph-by-paragraph / block-by-block;
+3. compare English files `0127`–`0141` against their audited Tamil counterparts paragraph-by-paragraph / block-by-block;
 4. check omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual-page function and source-continuation relationships;
-5. preserve the clean **111→112** boundary at the start of Part 002;
+5. scan **127** begins as the direct continuation and closure of the Gandhi vignette from already source-checked scan **126**;
 6. only pages that pass may move from `draft` to `source-checked`;
 7. do not use source-check for stylistic rewriting unrelated to fidelity;
 8. do not import a published/standard English Kural translation;
 9. do not change Tamil archival records;
-10. synchronize English status/frontier and audit the exact changed-file set after SC1.
+10. synchronize English status/frontier and audit the exact changed-file set after SC2.
 
-Next source-check batch after SC1: **SC2 scans 127–141 / printed 110–124**, 15 records.
+Next source-check batch after SC2: **SC3 scans 142–156 / printed 125–139**, 15 records.
 
 Do not begin glossary reconciliation until source-check is complete at **111/111**. Part 003 remains blocked until Part 002 English workflow and final Part closure are complete.
