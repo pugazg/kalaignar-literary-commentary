@@ -59,15 +59,19 @@ Durable intake: `works/kuraloviyam/SOURCE_INTAKE_PART_003.md`.
 
 Incoming **222→223 is clean**: scan 222 closes the pastoral / `ஆயர்குடி` vignette; scan 223 begins the new illustrated `பேதைமை` vignette.
 
+Current internal frontier:
+
+- **233→234 genuine continuation**;
+- **244→245 clean** — scan 245 / printed 228 begins a new illustrated vignette and was inspected only as the P3-02 boundary witness.
+
 Outgoing **333→334 remains deferred** until Part 004 is supplied. Scan 333 / printed 316 closes the final visible Part 003 unit with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567.
 
 ## User-directed Part 003 Pass 1 cadence
 
 Process **11 physical scan pages per normal Part 003 Pass 1 iteration**. A final remainder may be shorter. These are workflow boundaries only and do not imply textual boundaries.
 
-Planned ranges after P3-01:
+Remaining planned ranges:
 
-- P3-02: **234–244 / printed 217–227**;
 - P3-03: **245–255 / printed 228–238**;
 - P3-04: **256–266 / printed 239–249**;
 - P3-05: **267–277 / printed 250–260**;
@@ -80,23 +84,26 @@ Planned ranges after P3-01:
 
 ## Part 003 Pass 1 — ACTIVE
 
-**P3-01 scans 223–233 / printed 206–216 — COMPLETE, 11/11.**
+**22 / 111 scans captured — scans 223–244 / printed 206–227.**
 
-All 11 page records exist under `works/kuraloviyam/pages/` and remain at:
+Completed:
+
+- **P3-01 scans 223–233 / printed 206–216 — COMPLETE 11/11**;
+- **P3-02 scans 234–244 / printed 217–227 — COMPLETE 11/11**.
+
+All 22 page records exist under `works/kuraloviyam/pages/` and remain at:
 
 - `status: "needs-review"`
 - `visual_fidelity: "needs-review"`
 
-Captured source units:
+P3-02 captured:
 
-- 223–224 — `பேதைமை`; Chapter 84 / Kurals 838, 839;
-- 225–226 — `தும்மல்` / lovers; Chapters 121, 132, 126 / Kurals 1203, 1318, 1253;
-- 227–228 — Valluvar / land / patience and slander; Chapter 16 / Kural 151 and Chapter 19 / Kural 189;
-- 229–230 — Maragatham / medicine / love-sickness; Chapter 125 / Kural 1241;
-- 231–232 — courtesan / `வரைவின் மகளிர்`; Chapter 92 / Kural 913;
-- 233 — festival / green-sari vignette begins.
-
-**233→234 is a genuine continuation.** Scan 234 / printed 217 was inspected only as the P3-01 boundary witness; no scan-234 page record was created during P3-01.
+- scan 234 — closes festival / green-sari / bangle-seller; Chapter 118 / Kural 1171;
+- scans 235–236 — Anbumani / Inbamani hospitality; Chapter 9 / Kural 90;
+- scans 237–238 — moon / beloved comparison; Chapter 112 / Kurals 1117, 1118;
+- scans 239–240 — drunkard / `கள்ளுண்ணாமை`; Chapter 93 / Kural 929;
+- scans 241–242 — lamp/darkness and lovers/pallor analogy; Chapter 119 / Kural 1186;
+- scans 243–244 — agriculture / family / child-and-gruel; Chapter 104 / Kural 1031 and Chapter 7 / Kural 64.
 
 ## Pass 1 rules
 
@@ -112,15 +119,15 @@ For each page:
 - do not import standard/web Kural wording, another edition, OCR guesses or memory;
 - do not claim Pass 2A, Pass 2B or Pass 3 verification during Pass 1.
 
-## Exact next activity — Part 003 Pass 1 / P3-02
+## Exact next activity — Part 003 Pass 1 / P3-03
 
-Process **overall scans 234–244 / printed 217–227 — 11 pages** in one iteration.
+Process **overall scans 245–255 / printed 228–238 — 11 pages** in one iteration.
 
-Begin scan 234 as the direct continuation of scan 233. Use the supplied Part 003 PDF directly. Inspect scan **245 / printed 228** only as a boundary witness when needed; do not create its page record during P3-02.
+Scan 245 begins a new illustrated vignette after the clean **244→245** boundary. Use the supplied Part 003 PDF directly. Inspect scan **256 / printed 239** only as a boundary witness when needed; do not create its page record during P3-03.
 
-After P3-02:
+After P3-03:
 
 1. update `PART_003_PASS1_PROGRESS.md` and page map/frontier;
 2. audit the exact changed-file set;
 3. confirm all 11 new page records remain appropriate Pass-1 statuses;
-4. set P3-03 scans 245–255 as the next activity.
+4. set P3-04 scans 256–266 as the next activity.
