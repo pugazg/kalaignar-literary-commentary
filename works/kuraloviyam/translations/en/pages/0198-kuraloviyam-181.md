@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -29,6 +29,6 @@ His friend could not accept this explanation. He argued against it. At last the 
 
 When the man who had praised him finished singing, the poet stood, spoke briefly, offered his thanks, and then made an announcement.
 
-“You praised me so greatly because I received the post of court poet in the king's assembly. But I have not been able to enjoy this happiness for very long. An official palm-leaf message has only now arrived from the palace. It says that the order appointing me to that responsibility has been withdrawn!”
+“You praised me so greatly because I received the post of court poet in the king's assembly. But I have not been able to enjoy this happiness for very long. A palm-leaf message has only now arrived from the palace. It says that the order appointing me to that responsibility has been withdrawn!”
 
 <!-- Source scan page: 198; printed page: 181; continuation from scan 197; praise/panegyric vignette continues directly to scan 199 -->
