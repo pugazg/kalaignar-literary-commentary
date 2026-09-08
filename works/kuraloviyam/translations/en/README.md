@@ -20,7 +20,7 @@ Do not import standard Thirukkural wording, a published English Kural translatio
 
 **Tamil archival-ready → English draft → English source-check → glossary reconciliation → editorial review → Part-level review → release report → release-ready.**
 
-The user-directed normal iteration size is **33 physical scan pages** for page-batched work. Historical completed batches retain their recorded sizes; a final remainder may be shorter. Part-level review is a whole-Part gate.
+The user-directed normal iteration size is **33 physical scan pages** for page-batched work. Historical completed batches retain their recorded sizes; a final remainder may be shorter. Part-level review and release report are whole-Part gates.
 
 ## Part 001 — CLOSED
 
@@ -36,28 +36,28 @@ Part 002 covers scans **112–222 / printed 95–205**, 111 physical pages, and 
 - source-check: **111/111 COMPLETE / CLOSED**;
 - glossary reconciliation: **111/111 COMPLETE / CLOSED**;
 - editorial review: **111/111 COMPLETE / CLOSED**;
-- Part-level review: **READY / NEXT**;
+- Part-level review: **PASS / CLOSED**;
+- release report: **READY / NEXT**;
 - release-ready: **0/111**.
 
-Editorial review is closed across:
+Part-level review record:
 
-- **ER1 scans 112–144 / printed 95–127 — COMPLETE 33/33**;
-- **ER2 scans 145–177 / printed 128–160 — COMPLETE 33/33**;
-- **ER3 scans 178–210 / printed 161–193 — COMPLETE 33/33**;
-- **ER4 scans 211–222 / printed 194–205 — COMPLETE 12/12 / FINAL REMAINDER**.
+`reviews/PART_002_ENGLISH_REVIEW.md`
 
-All scans **112–222** are now `editorial-reviewed`. ER4 made source-faithful English improvements on scans **211, 212, 215, 218, 219, 220, 221 and 222**. The final **221→222** continuation remains intact, and scan 222 closes Part 002.
+The whole-Part review passed inventory/alignment, exact pre-release status state, controlled terminology and names, chapter/Kural metadata, page functions/non-body material and accumulated continuities. All scans **112–222** remain `editorial-reviewed`; no page wording or status changed during Part review.
+
+The internal Part ending at scan **222 / printed 205** is closed. The external **222→223** split-boundary check remains deferred until Part 003 intake because Part 003 has not yet been supplied/onboarded.
 
 No Tamil archival record changed and no publisher/standard/web English wording was imported.
 
 ## Current frontier
 
-Proceed with the **Part 002 Part-level English review** as a whole-Part gate and create:
+Proceed with the **Part 002 English release report** and create:
 
-`reviews/PART_002_ENGLISH_REVIEW.md`
+`reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
 
-Verify inventory/alignment, final statuses, controlled terminology and names, chapter/Kural metadata, page functions/non-body material, and accumulated continuities. Do **not** promote pages to `release-ready` during Part review.
+Use `PART_001_ENGLISH_RELEASE_REPORT.md` as the structural precedent and `PART_002_ENGLISH_REVIEW.md` as the authoritative prior gate. If release is approved, promote all **111** Part 002 English pages from `editorial-reviewed` to `release-ready` without changing wording.
 
-If Part review passes, proceed to the **Part 002 English release report**. Do not begin Part 003 before Part 002 release and final Part closure are complete.
+Do not begin Part 003 before the Part 002 release report, status promotion and final Part closure are complete.
 
 See `TRANSLATION_STATUS.md` for the authoritative detailed frontier.
