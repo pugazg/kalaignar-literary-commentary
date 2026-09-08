@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -23,9 +23,9 @@ In just the same way, whatever fault the husband may have committed, the moment 
 
 “How could he go alone to the festival without calling me?”
 
-“I am not going to leave alone the man who hurt my heart!”
+“I am not going to let the man who hurt my heart off so easily!”
 
-She stands ready for battle, saying all this. But the moment he arrives, she forgets all her anger, cannot even remember the accusations she had piled upon him, and passes into a different new world. Like the kohl-stick, the husband's faults vanish. Valluvar's Kural explains just this beautifully.
+She stands ready for battle, saying all this. But the moment he arrives, she forgets all her anger, cannot even remember the accusations she had piled upon him, and passes into a whole new world. Like the kohl-stick, the husband's faults vanish. Valluvar's Kural explains just this beautifully.
 
 > As an eye sees not the kohl-stick while it is being applied,  
 > I see no fault in my husband when I see him before me.
