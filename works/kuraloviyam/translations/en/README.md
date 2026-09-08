@@ -57,21 +57,22 @@ Durable declaration:
 
 ## Part 002 English — ACTIVE
 
-First-pass drafting status: **33/111 complete**.
+First-pass drafting status: **44/111 complete**.
 
 Completed:
 
 - **Batch 1: scans 112–122 / printed 95–105 — 11 draft records.**
 - **Batch 2: scans 123–133 / printed 106–116 — 11 draft records.**
 - **Batch 3: scans 134–144 / printed 117–127 — 11 draft records.**
+- **Batch 4: scans 145–155 / printed 128–138 — 11 draft records.**
 
-The draft layer preserves Tamil page alignment, visual-material placement, quoted-song and Kural blocks, Chapter/Kural metadata and cross-page continuations. Batch 3 preserves **134→135, 136→137, 138→139, 140→141 and 142→143** as source-supported vignette continuities. Scan **144** deliberately ends inside the coconut-grove vignette, which continues to scan **145**.
+The draft layer preserves Tamil page alignment, visual-material placement, quoted/Kural blocks, Chapter/Kural metadata and cross-page continuations. Batch 4 closes the **144→145** coconut-grove meeting, preserves **146→147**, **148→149**, **150→151→152** and **154→155** continuities, and ends at a clean **155→156** source boundary.
 
 No published/standard/web English Kural wording has been imported, and the closed Tamil layer has not been changed during English drafting.
 
 ## Current frontier
 
-Proceed with **Part 002 English first-pass draft Batch 4: scans 145–155 / printed 128–138**, 11 records.
+Proceed with **Part 002 English first-pass draft Batch 5: scans 156–166 / printed 139–149**, 11 records.
 
 Use only the audited Tamil records as the normal working basis. Do not begin source-check until the full Part 002 first-pass draft is complete.
 
