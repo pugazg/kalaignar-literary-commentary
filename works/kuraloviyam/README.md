@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Current archival state |
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English first-pass COMPLETE 111/111; source-check COMPLETE 111/111; glossary reconciliation ACTIVE 81/111** |
+| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English first-pass COMPLETE 111/111; source-check COMPLETE 111/111; glossary reconciliation COMPLETE 111/111; editorial review READY 0/111** |
 | 003 | 223–333 | not-started |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
@@ -39,25 +39,26 @@ Tamil is **ARCHIVAL-READY / CLOSED** at **111 textual verified + 111 visual veri
 
 - first-pass drafting: **111/111 COMPLETE**;
 - source-check: **111/111 COMPLETE / CLOSED**;
-- glossary reconciliation: **81/111 ACTIVE**;
-- editorial review: **0/111**.
+- glossary reconciliation: **111/111 COMPLETE / CLOSED**;
+- editorial review: **0/111 — READY / NEXT**.
 
 Glossary batches completed:
 
 - **GR1 scans 112–126 / printed 95–109 — 15/15**;
 - **GR2 scans 127–159 / printed 110–142 — 33/33**;
-- **GR3 scans 160–192 / printed 143–175 — 33/33**.
+- **GR3 scans 160–192 / printed 143–175 — 33/33**;
+- **GR4 scans 193–222 / printed 176–205 — final 30/30**.
 
-GR3 required **no English page wording corrections**. Existing controlled terminology was confirmed and `GLOSSARY.md` was extended only with source-supported material evidenced through scan 192, including newly encountered chapter labels, source variants, **kavadi / paar-kavadi**, **Gajendra Moksha**, **Kurunthogai**, and the relevant narrative/historical names.
+GR4 corrected scan **201** to preserve the explicit source honorific **Paavendhar Bharathidasan**, and scan **218** to use controlled **lovers' quarrel** for prose `ஊடல்` rather than transliterated `oodal`; Chapter 131 `புலவி` remains the distinct title **Lovers' Sulking**. The glossary now carries the source-supported controls evidenced through scan 222, including the final chapter labels, lexical/cultural terms, names and the **Pazhayanur** place control.
 
-All genuine continuities in the 33-page range were preserved; scan **177** remains illustration-only within the **176→177→178** sequence. The **192→193** source boundary is clean.
-
-No Tamil page record changed, no English page was promoted beyond `source-checked`, and no external/published/web English terminology was imported.
+All genuine cross-page continuities were preserved through the final Part 002 scan, including illustration-only **203** within **202→203→204** and the genuine **221→222** continuation. No Tamil page record changed, no English page was promoted beyond `source-checked`, and no external/published/web English terminology was imported.
 
 ## Current frontier
 
-**Next activity: final Part 002 English glossary remainder GR4 — scans 193–222 / printed 176–205, 30 records.**
+**Next activity: Part 002 English editorial review ER1 — scans 112–144 / printed 95–127, 33 records.**
 
-After GR4, glossary reconciliation reaches **111/111 COMPLETE**. The next gate is **Part 002 English editorial review**, using the normal 33-page iteration cadence.
+Use the complete source-checked + glossary-reconciled English layer. Review readability, grammar, style, internal coherence, visual/non-body descriptions, metadata and cross-page transitions while preserving source meaning and glossary controls. Promote only passing pages to `editorial-reviewed`. Do not import published/standard/web English Kural wording and do not change Tamil archival records.
+
+After ER1: **ER2 scans 145–177 / printed 128–160 — 33 pages**.
 
 Do not begin Part 003 before Part 002 editorial review, Part-level review, release report and final Part closure are complete.
