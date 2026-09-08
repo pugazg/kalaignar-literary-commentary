@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-Lost to herself, she embraced him so closely that their bodies pressed together at her belly. She, for her part, claimed his mountain-like shoulders as her own and longed to defeat him in the contest of embrace.
+Losing all awareness of herself, she embraced him so closely that their bodies pressed together at her belly. She, for her part, claimed his mountain-like shoulders as her own and longed to defeat him in the contest of embrace.
 
 Have these legs been carved beautifully from elephant ivory? And above them, a waist bends, slender as half a thread!
 
