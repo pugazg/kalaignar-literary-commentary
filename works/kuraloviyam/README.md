@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Current archival state |
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English first-pass COMPLETE 111/111; source-check COMPLETE 111/111; glossary reconciliation COMPLETE 111/111; editorial review ACTIVE 33/111** |
+| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English first-pass COMPLETE 111/111; source-check COMPLETE 111/111; glossary reconciliation COMPLETE 111/111; editorial review ACTIVE 66/111** |
 | 003 | 223–333 | not-started |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
@@ -40,29 +40,25 @@ Tamil is **ARCHIVAL-READY / CLOSED** at **111 textual verified + 111 visual veri
 - first-pass drafting: **111/111 COMPLETE**;
 - source-check: **111/111 COMPLETE / CLOSED**;
 - glossary reconciliation: **111/111 COMPLETE / CLOSED**;
-- editorial review: **33/111 ACTIVE**.
-
-Glossary reconciliation is closed across **GR1–GR4**.
+- editorial review: **66/111 ACTIVE**.
 
 Editorial review:
 
 - **ER1 scans 112–144 / printed 95–127 — COMPLETE 33/33**;
-- scans **112–144** are `editorial-reviewed`;
-- scans **145–222** remain `source-checked` pending editorial review.
+- **ER2 scans 145–177 / printed 128–160 — COMPLETE 33/33**;
+- scans **112–177** are `editorial-reviewed`;
+- scans **178–222** remain `source-checked`.
 
-ER1 made source-faithful English improvements on scans **113, 120, 127, 142 and 143**, correcting awkward grammar, idiom and cross-page syntax while preserving the audited Tamil meaning. The **144→145** continuation was checked; scan 145 remains outside ER1 and begins ER2 by directly continuing the secret-meeting vignette.
+ER2 made source-faithful wording improvements on scans **146, 150, 157, 161, 169, 171 and 176**. The **144→145** continuation remained intact, and illustration-only scan **177** remains correctly inside the genuine **176→177→178** source unit.
 
 No Tamil page record changed and no external/published/web English wording was imported.
 
 ## Current frontier
 
-**Next activity: Part 002 English editorial review ER2 — scans 145–177 / printed 128–160, 33 records.**
+**Next activity: Part 002 English editorial review ER3 — scans 178–210 / printed 161–193, 33 records.**
 
-Use the source-checked + glossary-reconciled English layer, with audited Tamil as source-faithfulness authority. Review readability, grammar, style, internal coherence, visual/non-body descriptions, metadata and cross-page transitions while preserving source meaning and glossary controls. Promote only passing pages to `editorial-reviewed`.
+Use the source-checked + glossary-reconciled English layer, with audited Tamil as source-faithfulness authority. Scan 178 directly continues and closes the love/separation-night vignette from editorial-reviewed scans 176–177. Promote only passing pages to `editorial-reviewed`.
 
-After ER2:
-
-- **ER3 scans 178–210 / printed 161–193 — 33 pages**;
-- **ER4 scans 211–222 / printed 194–205 — final 12 pages**.
+After ER3: **ER4 scans 211–222 / printed 194–205 — final 12 pages**.
 
 Do not begin Part-level review until editorial review reaches **111/111**. Do not begin Part 003 before Part 002 editorial review, Part-level review, release report and final Part closure are complete.

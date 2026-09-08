@@ -34,12 +34,12 @@ Final Tamil state: **111 textual verified / 111 visual verified / 0 exceptions**
 - first-pass drafting: **111/111 — COMPLETE**;
 - source-check: **111/111 — COMPLETE / CLOSED**;
 - glossary reconciliation: **111/111 — COMPLETE / CLOSED**;
-- editorial review: **33/111 — ACTIVE**;
+- editorial review: **66/111 — ACTIVE**;
 - Part-level English review: not started;
 - release report: not started;
 - release-ready: **0/111**.
 
-There are **0 remaining `draft` pages** in Part 002. Scans **112–144** are now `editorial-reviewed`; scans **145–222** remain `source-checked` pending editorial review.
+There are **0 remaining `draft` pages** in Part 002. Scans **112–177** are now `editorial-reviewed`; scans **178–222** remain `source-checked` pending editorial review.
 
 ## Source-check batches — CLOSED
 
@@ -69,37 +69,49 @@ Part 002 glossary reconciliation is **COMPLETE / CLOSED at 111/111**. `GLOSSARY.
 
 **Scans 112–144 / printed 95–127 — 33/33.**
 
+All 33 pages passed and were promoted from `source-checked` to `editorial-reviewed`.
+
+Material source-faithful editorial improvements were made on scans **113, 120, 127, 142 and 143**. The genuine **144→145** continuation was preserved.
+
+### ER2 — COMPLETE
+
+**Scans 145–177 / printed 128–160 — 33/33.**
+
 All 33 pages passed the editorial gate and were promoted from `source-checked` to `editorial-reviewed`.
 
 Material source-faithful editorial improvements:
 
-1. **scan 113 / printed 96** — corrected awkward English `start with surprise` to **startle in surprise**, removed the stray comma in **husband and wife quarrel**, and repaired the sentence fragment **then the two are apart** without changing the Tamil image;
-2. **scan 120 / printed 103** — made `நான் சும்மா விடப் போவதில்லை` idiomatic as **I am not going to let ... off so easily**, and reconciled `வேறு ஒரு புது உலகம்` to **a whole new world**;
-3. **scan 127 / printed 110** — improved the prayer-transition sentence while retaining `அவரோடும் அவர் இதய உணர்வுகளோடும் இணைந்து`, and rendered the source timekeeping image naturally as **The timepiece at his waist keeps ticking**;
-4. **scans 142→143 / printed 125→126** — repaired the genuine cross-page syntax so the palace loyalist asks for a post **not only for Sigamani—but for himself as well**, and corrected the inspection sentence to **caught red-handed adulterating and selling his medicines**.
+1. **scan 146 / printed 129** — replaced awkward **kept piling up besides** with **kept piling up as well**, preserving `புகழாரங்கள் வேறு குவிந்து கொண்டிருந்தன`;
+2. **scan 150 / printed 133** — removed the repeated **names / names** construction while preserving that Thelindhan and Nelindhan are imaginary names required by the story and its idea;
+3. **scan 157 / printed 140** — made the rhetorical sentence idiomatic as **What could his sword and the support of his men do against the united strength of the people?**;
+4. **scan 161 / printed 144** — repaired **Is his not a tradition...** to **Does he not belong to a tradition that never turns its back?**, preserving `முதுகு காட்டாத மரபு அல்லவா?`;
+5. **scan 169 / printed 152** — rendered `தூரமும் தோன்றுகிறதல்லவா?` more naturally as **does not even the distance make itself felt?**;
+6. **scan 171 / printed 154** — repaired the awkward Socrates sentence to **brought the case and succeeded in having poison administered to him**, preserving the audited Tamil statement;
+7. **scan 176 / printed 159** — rendered `இமைகளை மூடிப்பார்க்கிறாள்` naturally as **She tries closing her eyelids.**
 
-No other ER1 page required wording change. All chapter/Kural metadata, visual/non-body descriptions and controlled terms passed. Genuine continuities were preserved throughout the range. **144→145 is a genuine continuation**; scan 145 was inspected only as the boundary witness and remains `source-checked` for ER2.
+No other ER2 page required wording change. Controlled terminology, names, chapter/Kural metadata, visual/non-body descriptions and page functions passed.
+
+Continuity was preserved throughout ER2. Scan **145** directly closes the vignette begun on editorial-reviewed scan 144. Scan **177 / printed 160** remains a full-page illustration with no body prose inside the genuine **176→177→178** continuation. Scan **178** was inspected only as the next-batch boundary witness and remains `source-checked` for ER3.
 
 No Tamil archival record changed. No publisher/standard/web English wording was imported.
 
-## Current frontier — editorial review ER2
+## Current frontier — editorial review ER3
 
-Proceed with **Part 002 English editorial review ER2: scans 145–177 / printed 128–160 — 33 consecutive records**.
+Proceed with **Part 002 English editorial review ER3: scans 178–210 / printed 161–193 — 33 consecutive records**.
 
 Requirements:
 
 1. use the complete source-checked + glossary-reconciled English layer as working text, with audited Tamil records as source-faithfulness authority;
-2. scan 145 begins by directly continuing and closing the secret-meeting vignette from editorial-reviewed scan 144;
+2. scan 178 begins by directly continuing and closing the love/separation-night vignette from editorial-reviewed scans 176–177;
 3. review readability, grammar, style, internal coherence, repeated terminology, chapter/Kural metadata, visual/non-body descriptions and cross-page transitions without changing source meaning;
 4. preserve source-supported Tamil-specific terms and names according to `GLOSSARY.md`;
 5. do not import publisher/standard/web English Kural wording or external-edition prose;
 6. promote a page from `source-checked` to `editorial-reviewed` only after it passes this gate;
 7. do not change Tamil archival records;
-8. synchronize status/frontier and audit the exact changed-file set after ER2.
+8. synchronize status/frontier and audit the exact changed-file set after ER3.
 
-After ER2:
+After ER3:
 
-- **ER3 scans 178–210 / printed 161–193 — 33 pages**;
 - **ER4 scans 211–222 / printed 194–205 — final 12 pages**.
 
 Do not begin Part-level English review until editorial review reaches **111/111**. Part 003 remains blocked until Part 002 editorial review, Part review, release report and final Part closure are complete.

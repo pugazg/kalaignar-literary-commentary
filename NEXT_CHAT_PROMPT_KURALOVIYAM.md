@@ -33,7 +33,7 @@ Part 002 maintained English:
 - source-check: **111/111 COMPLETE / CLOSED**;
 - remaining `draft` pages: **0**;
 - glossary reconciliation: **111/111 COMPLETE / CLOSED**;
-- editorial review: **33/111 ACTIVE**.
+- editorial review: **66/111 ACTIVE**.
 
 Permanent gate order:
 
@@ -45,41 +45,34 @@ Process **33 physical scan pages per normal iteration**. Historical completed ba
 
 ## Completed Part 002 editorial review
 
-### ER1 — scans 112–144 / printed 95–127 — COMPLETE 33/33
+- **ER1: scans 112–144 / printed 95–127 — COMPLETE 33/33**;
+- **ER2: scans 145–177 / printed 128–160 — COMPLETE 33/33**.
 
-All 33 pages passed and are now `editorial-reviewed`.
+ER2 source-faithful English improvements were made on scans **146, 150, 157, 161, 169, 171 and 176**. No other ER2 page required wording change. All 33 pages are now `editorial-reviewed`.
 
-Material source-faithful English improvements:
+Key ER2 boundary: scan **177 / printed 160** is illustration-only within the genuine **176→177→178** love/separation-night continuation. Scan **178** remains `source-checked` and begins ER3 by directly closing that vignette.
 
-- **113 / printed 96** — `start with surprise` → **startle in surprise**; removed the stray comma in **husband and wife quarrel**; repaired the fragment to **then the two are apart**;
-- **120 / printed 103** — `நான் சும்மா விடப் போவதில்லை` → **I am not going to let ... off so easily**; `வேறு ஒரு புது உலகம்` → **a whole new world**;
-- **127 / printed 110** — improved the prayer-transition sentence and rendered the source timekeeping image as **The timepiece at his waist keeps ticking**;
-- **142→143 / printed 125→126** — repaired the genuine cross-page syntax to **not only for Sigamani— / —but for himself as well** and corrected the inspection sentence to **caught red-handed adulterating and selling his medicines**.
+No Tamil archival record changed. No external/published/web English wording was imported.
 
-No other ER1 page required wording change. No Tamil archival record changed and no external/published/web English wording was imported.
+## Exact next activity — English editorial review ER3
 
-The **144→145** boundary is a genuine continuation. Scan **145** was inspected only as the ER1 boundary witness and remains `source-checked`.
-
-## Exact next activity — English editorial review ER2
-
-Review **overall scans 145–177 / printed pages 128–160**, exactly **33 consecutive records**.
+Review **overall scans 178–210 / printed pages 161–193**, exactly **33 consecutive records**.
 
 Requirements:
 
 1. fetch live `main` first;
-2. use the source-checked + glossary-reconciled English files for scans **145–177**, audited Tamil counterparts where source-faithfulness needs confirmation, and current `GLOSSARY.md`;
-3. scan **145** begins by directly continuing and closing the secret-meeting vignette from editorial-reviewed scan 144;
+2. use the source-checked + glossary-reconciled English files for scans **178–210**, audited Tamil counterparts where source-faithfulness needs confirmation, and current `GLOSSARY.md`;
+3. scan **178** directly continues and closes the love/separation-night vignette from editorial-reviewed scans 176–177;
 4. review English readability, grammar, style, sentence flow, internal coherence, visual/non-body descriptions, chapter/Kural metadata and cross-page transitions without altering source meaning;
 5. preserve source-supported Tamil-specific terms, names, relationship terms and controlled chapter labels;
 6. preserve genuine cross-page continuities and clean source boundaries;
 7. do not import terminology or wording from external editions, web sources, standard Kural translations or memory;
 8. promote a page from `source-checked` to `editorial-reviewed` only after it passes editorial review;
 9. do not silently normalize or repair source-controlled Tamil;
-10. synchronize English status/frontier and audit the exact changed-file set after ER2.
+10. synchronize English status/frontier and audit the exact changed-file set after ER3.
 
 Remaining editorial-review cadence:
 
-- **ER2 scans 145–177 / printed 128–160 — 33 pages**;
 - **ER3 scans 178–210 / printed 161–193 — 33 pages**;
 - **ER4 scans 211–222 / printed 194–205 — final 12 pages**.
 

@@ -157,7 +157,7 @@ Do not begin a later Part until the active Part's required English review/releas
 
 **Current normal iteration size: 33 physical scan pages.**
 
-This user-directed cadence applies **from the current Part 002 glossary checkpoint onward** to active Kuraloviyam English workflow iterations. Historical completed batches retain the sizes at which they were actually processed. A final Part remainder may be shorter than 33 pages.
+This user-directed cadence applies to active Kuraloviyam English workflow iterations. Historical completed batches retain the sizes at which they were actually processed. A final Part remainder may be shorter than 33 pages.
 
 For first-pass drafting:
 
@@ -221,15 +221,15 @@ Part 002 covers scans **112–222 / printed 95–205**.
 - first-pass drafting: **COMPLETE 111/111**;
 - source-check: **COMPLETE 111/111**;
 - glossary reconciliation: **COMPLETE / CLOSED 111/111**;
-- editorial review: **ACTIVE 33/111**.
+- editorial review: **ACTIVE 66/111**.
 
 Editorial-review batching:
 
 - **ER1 scans 112–144 / printed 95–127 — COMPLETE 33/33**;
-- **ER2 scans 145–177 / printed 128–160 — NEXT 33 pages**;
-- **ER3 scans 178–210 / printed 161–193 — 33 pages**;
+- **ER2 scans 145–177 / printed 128–160 — COMPLETE 33/33**;
+- **ER3 scans 178–210 / printed 161–193 — NEXT 33 pages**;
 - **ER4 scans 211–222 / printed 194–205 — final 12-page remainder**.
 
-Scans **112–144** are `editorial-reviewed`; scans **145–222** remain `source-checked` pending the remaining editorial batches. The **144→145** boundary is a genuine continuation and must remain intact across the batch boundary.
+Scans **112–177** are `editorial-reviewed`; scans **178–222** remain `source-checked` pending the remaining editorial batches. Scan **177** is illustration-only inside the genuine **176→177→178** continuation; scan 178 belongs to ER3.
 
 Do not begin Part-level English review until editorial review reaches **111/111**. Part 003 remains blocked until Part 002 English review/release and final Part closure are complete.

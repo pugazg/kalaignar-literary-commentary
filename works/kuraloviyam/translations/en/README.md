@@ -35,28 +35,26 @@ Part 002 covers scans **112–222 / printed 95–205**, 111 physical pages, and 
 - first-pass drafting: **111/111 COMPLETE**;
 - source-check: **111/111 COMPLETE / CLOSED**;
 - glossary reconciliation: **111/111 COMPLETE / CLOSED**;
-- editorial review: **33/111 ACTIVE**.
+- editorial review: **66/111 ACTIVE**.
 
 Glossary reconciliation is fully closed across **GR1–GR4**.
 
 Editorial review:
 
 - **ER1 scans 112–144 / printed 95–127 — COMPLETE 33/33**;
-- scans **112–144** are now `editorial-reviewed`;
-- scans **145–222** remain `source-checked` pending editorial review.
+- **ER2 scans 145–177 / printed 128–160 — COMPLETE 33/33**;
+- scans **112–177** are now `editorial-reviewed`;
+- scans **178–222** remain `source-checked` pending editorial review.
 
-ER1 made source-faithful English improvements on scans **113, 120, 127, 142 and 143**. It corrected awkward grammar and phrasing without importing outside wording or changing source meaning. The **144→145** continuation was checked; scan 145 remains outside ER1 and begins ER2 by directly closing the secret-meeting vignette.
+ER2 made source-faithful English improvements on scans **146, 150, 157, 161, 169, 171 and 176**. It also preserved the illustration-only scan **177** inside the genuine **176→177→178** continuation; scan 178 remains outside ER2 and starts ER3 by directly closing that vignette.
 
 No Tamil archival record changed and no publisher/standard/web English wording was imported.
 
 ## Current frontier
 
-Proceed with **Part 002 editorial review ER2: scans 145–177 / printed 128–160 — 33 records**.
+Proceed with **Part 002 editorial review ER3: scans 178–210 / printed 161–193 — 33 records**.
 
-After ER2:
-
-- **ER3 scans 178–210 / printed 161–193 — 33 pages**;
-- **ER4 scans 211–222 / printed 194–205 — final 12 pages**.
+After ER3, **ER4 scans 211–222 / printed 194–205 — final 12 pages**.
 
 Do not begin Part-level English review until editorial review reaches **111/111**. Do not begin Part 003 before Part 002 English editorial review, Part-level review, release report and final Part closure are complete.
 
