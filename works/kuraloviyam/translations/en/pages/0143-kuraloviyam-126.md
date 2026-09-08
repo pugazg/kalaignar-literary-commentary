@@ -6,14 +6,14 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-—not only so, but for himself as well, asked the government for a post. The very next moment the loyalist was sent home.
+—but for himself as well. The very next moment the loyalist was sent home.
 
-Government officials had also been watching Sigamani's activities closely. One day a large crowd gathered in front of Sigamani's pharmacy. Government officers were inspecting the medicines there. The inspection had taken place because it had been caught red-handed that he was adulterating and selling his medicines. The people talked among themselves.
+Government officials had also been watching Sigamani's activities closely. One day a large crowd gathered in front of Sigamani's pharmacy. Government officers were inspecting the medicines there. The inspection took place because he had been caught red-handed adulterating and selling his medicines. The people talked among themselves.
 
 “How noble and disciplined he appeared until now. And now the truth has been exposed!”
 
