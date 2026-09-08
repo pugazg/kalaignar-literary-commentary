@@ -31,22 +31,23 @@ Part 002 covers scans **112–222 / printed 95–205**, 111 physical pages, and 
 ## Part 002 English — ACTIVE
 
 - first-pass drafting: **111/111 COMPLETE**;
-- source-check: **60/111 complete**.
+- source-check: **75/111 complete**.
 
 Completed source-check:
 
 - **SC1 scans 112–126 — 15/15 source-checked**;
 - **SC2 scans 127–141 — 15/15 source-checked**;
 - **SC3 scans 142–156 — 15/15 source-checked**;
-- **SC4 scans 157–171 — 15/15 source-checked**.
+- **SC4 scans 157–171 — 15/15 source-checked**;
+- **SC5 scans 172–186 — 15/15 source-checked**.
 
-SC4 preserved the genuine **156→157** continuation, all source-supported internal continuations and clean boundaries through scans 157–171, and the clean **171→172** boundary. Fidelity fixes removed unsupported explanatory English additions on scan 168 around the name `Kala` and the `மணம்` fragrance/marriage wordplay, and corrected scan 169 so `துணைவன்` is rendered as the absent **husband**, distinct from the friend who is present.
+SC5 preserved every source-supported clean/continuing boundary from the clean **171→172** opening through the clean **186→187** boundary, including the illustration-only scan **177** within the **176→177→178** sequence. Fidelity corrections on scan **173 / printed 156** removed the unsupported “I will not let you come” expansion and retained the source as **“Tell your friend, ‘I am not coming,’ ...”**; scan **186 / printed 169** removed the unsupported qualifier “people say” from the statement about fate.
 
 No Tamil archival record was changed and no published/standard/web English Kural wording was imported.
 
 ## Current frontier
 
-Proceed with **Part 002 source-check SC5: scans 172–186 / printed 155–169**, 15 consecutive records. Scan 172 begins a new lovers/separation vignette after the clean 171→172 boundary.
+Proceed with **Part 002 source-check SC6: scans 187–201 / printed 170–184**, 15 consecutive records. Scan 187 begins a new separation/evening vignette after the clean 186→187 boundary.
 
 Only pages that pass the audited-Tamil fidelity comparison may move from `draft` to `source-checked`. Do not begin glossary reconciliation until source-check covers all 111 records.
 
