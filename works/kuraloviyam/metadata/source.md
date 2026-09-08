@@ -17,7 +17,7 @@ The original source PDF is reported as **666 physical PDF pages**. Because the o
 |---|---:|---:|---|---|
 | 001 | 1–111 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | supplied; Tamil/English closed |
 | 002 | 112–222 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | supplied; Tamil/English closed |
-| 003 | 223–333 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf` | **supplied; source intake PASS / COMPLETE; Pass 1 NEXT** |
+| 003 | 223–333 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf` | **supplied; source intake PASS / COMPLETE; Pass 1 ACTIVE — 11/111** |
 | 004 | 334–444 | 111 | not yet supplied / exact filename not yet established | not-started |
 | 005 | 445–555 | 111 | not yet supplied / exact filename not yet established | not-started |
 | 006 | 556–666 | 111 | not yet supplied / exact filename not yet established | not-started |
@@ -94,7 +94,7 @@ Controlling split:
 - local page 1 / overall scan **223** carries printed page **206**;
 - local page 111 / overall scan **333** carries printed page **316**.
 
-The previously deferred **222→223** boundary is now source-resolved. Scan 222 closes the pastoral / `ஆயர்குடி` vignette with Chapter 128 / Kural 1275. Scan 223 begins a new illustrated `பேதைமை` vignette, and scan 224 closes that new unit with Chapter 84 / Kurals 838, 839. Therefore **222→223 is a clean vignette boundary**.
+The previously deferred **222→223** boundary is source-resolved. Scan 222 closes the pastoral / `ஆயர்குடி` vignette with Chapter 128 / Kural 1275. Scan 223 begins a new illustrated `பேதைமை` vignette, and scan 224 closes that new unit with Chapter 84 / Kurals 838, 839. Therefore **222→223 is a clean vignette boundary**.
 
 The final supplied Part 003 unit occupies scans **332–333 / printed 315–316** and closes on scan 333 with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567. The external **333→334** boundary remains deferred until Part 004 is supplied.
 
@@ -102,7 +102,7 @@ Detailed Part 003 intake record:
 
 `works/kuraloviyam/SOURCE_INTAKE_PART_003.md`
 
-Current user-directed Part 003 Pass 1 cadence is **33 physical scans per normal iteration**: 223–255, 256–288, 289–321, then final remainder 322–333. These are workflow boundaries only.
+Current user-directed Part 003 Pass 1 cadence is **11 physical scans per normal iteration**. P3-01 scans **223–233 / printed 206–216** are complete; **233→234 is a genuine continuation**. The exact next batch is **234–244 / printed 217–227**. Remaining normal 11-scan batches continue through 322–332, with scan 333 as the final one-page remainder. These are workflow boundaries only.
 
 ## Front-matter observations
 
