@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -21,7 +21,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 “And when he is away, does not even the distance seem to rise before you?”
 
-Kala did not answer that question. Her chest heaved with an uncontrollable deep breath and then subsided. It was a sight her companion ought to have been there to see! But only her friend was there. What use was that? The green-parrot maiden, who had allowed a pause for the answer, said to Thogai:
+Kala did not answer that question. Her chest heaved with an uncontrollable deep breath and then subsided. It was a sight her husband should have been there to see! Yet it was only her friend who was there. What use was that? The green-parrot maiden, who had allowed a pause for the answer, said to Thogai:
 
 “Thogai! I am not even so angry with him for leaving me to suffer in separation. But... but...”
 

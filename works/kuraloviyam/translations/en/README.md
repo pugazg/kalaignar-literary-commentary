@@ -31,21 +31,22 @@ Part 002 covers scans **112–222 / printed 95–205**, 111 physical pages, and 
 ## Part 002 English — ACTIVE
 
 - first-pass drafting: **111/111 COMPLETE**;
-- source-check: **45/111 complete**.
+- source-check: **60/111 complete**.
 
 Completed source-check:
 
 - **SC1 scans 112–126 — 15/15 source-checked**;
 - **SC2 scans 127–141 — 15/15 source-checked**;
-- **SC3 scans 142–156 — 15/15 source-checked**.
+- **SC3 scans 142–156 — 15/15 source-checked**;
+- **SC4 scans 157–171 — 15/15 source-checked**.
 
-SC3 preserved source page boundaries and continuations, including **144→145** and **156→157**. Fidelity fixes included removing the unsupported “twenty-four-carat” modernization on scan 142 and repairing the 142→143 sentence split; correcting the separation agency in scan 149 / Kural 1210; and removing unsupported explanatory glosses from the two character names on scan 150.
+SC4 preserved the genuine **156→157** continuation, all source-supported internal continuations and clean boundaries through scans 157–171, and the clean **171→172** boundary. Fidelity fixes removed unsupported explanatory English additions on scan 168 around the name `Kala` and the `மணம்` fragrance/marriage wordplay, and corrected scan 169 so `துணைவன்` is rendered as the absent **husband**, distinct from the friend who is present.
 
 No Tamil archival record was changed and no published/standard/web English Kural wording was imported.
 
 ## Current frontier
 
-Proceed with **Part 002 source-check SC4: scans 157–171 / printed 140–154**, 15 consecutive records. Scan 157 directly continues and closes the vignette begun on scan 156.
+Proceed with **Part 002 source-check SC5: scans 172–186 / printed 155–169**, 15 consecutive records. Scan 172 begins a new lovers/separation vignette after the clean 171→172 boundary.
 
 Only pages that pass the audited-Tamil fidelity comparison may move from `draft` to `source-checked`. Do not begin glossary reconciliation until source-check covers all 111 records.
 

@@ -30,7 +30,7 @@ Read before changing anything:
 - Part 001: **CLOSED** — English **107 release-ready + 4 source-limited**.
 - Part 002 Tamil: **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**.
 - Part 002 English first-pass: **111/111 COMPLETE**.
-- Part 002 English source-check: **45/111 ACTIVE**.
+- Part 002 English source-check: **60/111 ACTIVE**.
 - glossary reconciliation: **0/111**.
 - editorial review: **0/111**.
 
@@ -43,33 +43,33 @@ Permanent English cadence:
 - **SC1 scans 112–126 / printed 95–109 — COMPLETE 15/15.**
 - **SC2 scans 127–141 / printed 110–124 — COMPLETE 15/15.**
 - **SC3 scans 142–156 / printed 125–139 — COMPLETE 15/15.**
+- **SC4 scans 157–171 / printed 140–154 — COMPLETE 15/15.**
 
-SC3 fidelity corrections:
+SC4 source-fidelity corrections:
 
-- **142→143** — `பத்தரைமாற்றுத் தங்கம்` is retained as **pure gold without a flaw**, not the unsupported modernizing “twenty-four-carat”; the physical cross-page sentence split was also restored.
-- **149 / Kural 1210** — corrected the source agency so the beloved had not been apart from her and has now gone away; removed the draft implication that she “would never leave him.”
-- **150** — removed explanatory glosses appended to the names `Thelindhan` and `Nelindhan`, because the Tamil page gives only the names.
+- **168 / printed 151** — removed the unsupported explanatory additions **“—art itself”** after `Kala` and **“the Tamil word carrying both senses”** after the `மணம்` fragrance/marriage wordplay; the page now translates the source contrast directly without added editorial commentary.
+- **169 / printed 152** — corrected `துணைவன்` from generic **“companion”** to **“husband”**, preserving the source contrast between the absent spouse and the female friend who is actually present.
 
-Continuity: **141→142 clean**; **144→145 genuine**; **155→156 clean**; **156→157 genuine**, with scan 157 retained as a draft boundary witness for SC4.
+Continuity through SC4: **156→157 genuine** and closes on 157; **157→158 clean; 158→159 genuine; 159→160 clean; 160→161 genuine; 161→162 clean; 162→163 genuine; 163→164 clean; 164→165 genuine; 165→166 clean; 166→167 genuine; 167→168 clean; 168→169 genuine; 169→170 clean; 170→171 genuine; 171→172 clean**. Scan 172 was inspected only as the SC4 boundary witness and remains `draft` for SC5.
 
 No Tamil archival record changed. No published/standard/web English Kural wording was imported.
 
-## Exact current activity — Part 002 English source-check SC4
+## Exact current activity — Part 002 English source-check SC5
 
-Proceed with **overall scans 157–171 / printed 140–154**, 15 consecutive page-aligned records.
+Proceed with **overall scans 172–186 / printed 155–169**, 15 consecutive page-aligned records.
 
 Requirements:
 
 1. fetch live `main` and preserve newer durable work;
-2. compare English files `0157`–`0171` against their audited Tamil counterparts paragraph-by-paragraph / block-by-block;
-3. scan **157** begins as the direct continuation and closure of the vignette from already source-checked scan **156**;
+2. compare English files `0172`–`0186` against their audited Tamil counterparts paragraph-by-paragraph / block-by-block;
+3. scan **172** begins a new illustrated lovers/separation vignette after the clean **171→172** boundary;
 4. check omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual-page function and cross-page continuity;
 5. only passing pages may move from `draft` to `source-checked`;
 6. do not use source-check for unrelated stylistic rewriting;
 7. do not import published/standard/web English Kural wording;
 8. do not change Tamil archival records;
-9. synchronize status/frontier and audit the exact changed-file set after SC4.
+9. synchronize status/frontier and audit the exact changed-file set after SC5.
 
-Next after SC4: **SC5 scans 172–186 / printed 155–169**, 15 records.
+Next after SC5: **SC6 scans 187–201 / printed 170–184**, 15 records.
 
 Do not begin glossary reconciliation until source-check reaches **111/111**. Part 003 remains blocked until Part 002 English workflow and final Part closure are complete.
