@@ -32,7 +32,7 @@ Read before changing anything:
 - Part 002 English first-pass: **111/111 COMPLETE**.
 - Part 002 English source-check: **111/111 COMPLETE / CLOSED**.
 - Part 002 English draft pages remaining: **0**.
-- glossary reconciliation: **0/111 — NEXT**.
+- glossary reconciliation: **15/111 ACTIVE**.
 - editorial review: **0/111**.
 
 Permanent English cadence:
@@ -58,26 +58,43 @@ Closing SC6–SC8 source-fidelity corrections:
 - **215 / printed 198** — replaced the invented “plant defeat upon the heads of the enemy” wording with the source-directed image **“plant the enemies' heads there”**;
 - **219 / printed 202** — removed unsupported **“ceremonial”** from the `மஞ்சம்` image.
 
-Continuity in the closing remainder was preserved, including **197→198→199**, **202→203→204** with scan 203 illustration-only, **217→218** with library stamps treated as non-body material, and final **221→222**. Scan 222 closes Part 002 physically and narratively.
-
 No Tamil archival record changed. No published/standard/web English Kural wording was imported.
 
-## Exact current activity — Part 002 English glossary reconciliation GR1
+## Glossary-reconciliation record
 
-Proceed with **overall scans 112–126 / printed 95–109**, 15 consecutive page-aligned records.
+- **GR1 scans 112–126 / printed 95–109 — COMPLETE 15/15.**
+
+GR1 terminology corrections:
+
+- **113 / printed 96** — Chapter 133 `ஊடலுவகை`: **Delight in Lovers' Quarrel → Joy of Lovers' Quarrel**;
+- **121–122 / printed 104–105** — `ஓய்வு விடுதி / விடுதி`: mixed **inn / rest-house → rest-house**, keeping proprietor/owner wording syntax-sensitive;
+- **126 / printed 109** — `காந்தியடிகள்`: **Gandhiji → Gandhi**, matching the established project control from Part 001.
+
+`GLOSSARY.md` now records the GR1 Part 002 chapter labels **Joy of Lovers' Quarrel**, **Lack of Learning**, **Yearning for Union**, **Truthfulness**, **Knowing and Trusting**, and **Chiding the Heart**; the recurring rest-house term; narrative names **Marudhan / Marudha** and **Thenappan**; and context refinements for **Kungumam / kumkum**, **Valluvam**, and **Gandhi**.
+
+The source-supported **126→127** Gandhi continuation was checked as the batch boundary. Scan 127 remains outside GR1; its existing **Gandhiji** form is an explicit GR2 terminology correction.
+
+Glossary reconciliation does not promote pages to `editorial-reviewed`. All GR1 pages remain `source-checked`.
+
+No Tamil archival record changed. No published/standard/web English terminology was imported.
+
+## Exact current activity — Part 002 English glossary reconciliation GR2
+
+Proceed with **overall scans 127–141 / printed 110–124**, 15 consecutive page-aligned records.
 
 Requirements:
 
 1. fetch live `main` and preserve newer durable work;
-2. use source-checked English files `0112`–`0126`, their audited Tamil counterparts and `GLOSSARY.md`;
-3. reconcile recurring names, work/section names, controlled literary terms, publication names, chapter labels and repeated English renderings;
-4. update `GLOSSARY.md` only for recurring terms actually evidenced in Part 002;
-5. do not mechanically force one English equivalent where context requires another;
-6. glossary reconciliation does not promote pages to `editorial-reviewed`;
-7. do not import external-edition, web or memory terminology;
-8. do not change Tamil archival records;
-9. synchronize status/frontier and audit the exact changed-file set after GR1.
+2. use source-checked English files `0127`–`0141`, their audited Tamil counterparts and current `GLOSSARY.md`;
+3. begin by reconciling scan **127** `காந்தியடிகள்` from **Gandhiji** to controlled **Gandhi**, preserving the genuine 126→127 continuation;
+4. reconcile recurring names, work/section names, controlled literary terms, publication names, chapter labels and repeated English renderings;
+5. update `GLOSSARY.md` only for recurring terms actually evidenced in Part 002;
+6. do not mechanically force one English equivalent where context requires another;
+7. glossary reconciliation does not promote pages to `editorial-reviewed`;
+8. do not import external-edition, web or memory terminology;
+9. do not change Tamil archival records;
+10. synchronize status/frontier and audit the exact changed-file set after GR2.
 
-Next after GR1: **GR2 scans 127–141 / printed 110–124**, 15 records.
+Next after GR2: **GR3 scans 142–156 / printed 125–139**, 15 records.
 
 Part 003 remains blocked until Part 002 glossary reconciliation, editorial review, Part review, release report and final Part closure are complete.
