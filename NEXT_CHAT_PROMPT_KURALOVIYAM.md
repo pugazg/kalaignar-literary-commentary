@@ -22,7 +22,8 @@ Read completely before changing anything:
 10. `works/kuraloviyam/translations/en/TRANSLATION_GUIDE.md`
 11. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
 12. `works/kuraloviyam/translations/en/GLOSSARY.md`
-13. `works/kuraloviyam/translations/en/reviews/PART_001_ENGLISH_REVIEW.md`
+13. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_REVIEW.md`
+14. `works/kuraloviyam/translations/en/reviews/PART_001_ENGLISH_RELEASE_REPORT.md`
 
 ## Durable state
 
@@ -32,10 +33,10 @@ Part 002 maintained English:
 
 - first-pass drafting: **111/111 COMPLETE**;
 - source-check: **111/111 COMPLETE / CLOSED**;
-- remaining `draft` pages: **0**;
 - glossary reconciliation: **111/111 COMPLETE / CLOSED**;
 - editorial review: **111/111 COMPLETE / CLOSED**;
-- Part-level review: **READY / NEXT**;
+- Part-level review: **PASS / CLOSED**;
+- release report: **READY / NEXT**;
 - release-ready: **0/111**.
 
 Permanent gate order:
@@ -44,42 +45,46 @@ Permanent gate order:
 
 ### User-directed cadence
 
-Process **33 physical scan pages per normal page-batched iteration**. Historical completed batches retain their original sizes. A final Part remainder may be shorter. Part-level review is a whole-Part gate.
+Process **33 physical scan pages per normal page-batched iteration**. Historical completed batches retain their original sizes. A final Part remainder may be shorter. Part-level review and release report are whole-Part gates.
 
-## Completed Part 002 editorial review
+## Completed Part 002 Part-level English review
 
-- **ER1: scans 112–144 / printed 95–127 — COMPLETE 33/33**;
-- **ER2: scans 145–177 / printed 128–160 — COMPLETE 33/33**;
-- **ER3: scans 178–210 / printed 161–193 — COMPLETE 33/33**;
-- **ER4: scans 211–222 / printed 194–205 — COMPLETE 12/12 / FINAL REMAINDER**.
-
-All scans **112–222** are `editorial-reviewed`.
-
-ER4 source-faithful wording improvements were made on scans **211, 212, 215, 218, 219, 220, 221 and 222**. No other ER4 page required wording change.
-
-Final-range continuity was preserved: **210→211 clean; 211→212 genuine; 212→213 clean; 213→214 genuine; 214→215 clean; 215→216 genuine; 216→217 clean; 217→218 genuine; 218→219 clean; 219→220 genuine; 220→221 clean; 221→222 genuine**. Scan **222 / printed 205** closes Part 002.
-
-No Tamil archival record changed. No external/published/web English wording was imported.
-
-## Exact next activity — Part 002 Part-level English review
-
-Review **Part 002 overall scans 112–222 / printed 95–205** as one complete English Part, following `translations/en/reviews/PART_001_ENGLISH_REVIEW.md` as the structural precedent.
-
-Create:
+Durable record:
 
 `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_REVIEW.md`
 
+Review base: `ab7c679d8c1ba73fdd67eec8ea7cc71a3b5a7b42`.
+
+Result: **PASS**.
+
+The whole-Part gate verified:
+
+- **111/111** Tamil/English records with one-to-one filename alignment across scans **112–222 / printed 95–205**;
+- exact English status state of **111 `editorial-reviewed`**, with 0 in all other pre-release/final statuses;
+- controlled terminology, names, chapter/Kural metadata and Kural-block separation;
+- page functions/non-body material including illustration-only scan **203** and blue library stamps on **217–218**;
+- continuity and clean boundaries through final genuine **221→222**.
+
+No page wording or status changed during Part review. No Tamil archival record changed. The external **222→223** split-boundary check remains deferred until Part 003 intake.
+
+## Exact next activity — Part 002 English release report
+
+Create:
+
+`works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
+
 Requirements:
 
-1. fetch live `main` first and record its SHA as the Part-review base;
-2. verify Tamil/English ordered inventories are **111/111**, with exact filename alignment and 0 missing/extra English records;
-3. verify English page statuses are exactly **111 `editorial-reviewed`** and 0 in every other pre-release status;
-4. review controlled terminology, proper names, chapter labels, Kural numbering/metadata and Kural-block separation at Part scale against `GLOSSARY.md`;
-5. verify page functions and non-body material, including illustration-only scan **203** and blue library stamps on **217–218**;
-6. verify accumulated continuity and clean boundaries across the Part, including **176→177→178**, **202→203→204**, and final **221→222**;
-7. record and repair any documentation-only inconsistency discovered during the gate;
-8. do not change page statuses and do not promote any page to `release-ready` at Part review;
-9. do not reopen Tamil or import terminology/wording from external editions, web sources, standard Kural translations or memory unless a genuinely new fidelity issue appears;
-10. synchronize status/frontier and audit the exact changed-file set.
+1. fetch live `main` first and record its SHA as the release base;
+2. use `PART_002_ENGLISH_REVIEW.md` as the authoritative prior gate and confirm **PASS**;
+3. use `PART_001_ENGLISH_RELEASE_REPORT.md` as the structural precedent;
+4. confirm all **111** Part 002 English pages are `editorial-reviewed`, eligible for release, and there are **0 source-limited / blocked** pages;
+5. confirm body-text changes at the release gate are **0**;
+6. decide release explicitly;
+7. only if approved, promote all **111** English pages from `editorial-reviewed` to `release-ready` without changing wording;
+8. preserve the deferred external **222→223** boundary for Part 003 intake instead of inferring it;
+9. do not change Tamil archival records or import external/published/web English wording;
+10. synchronize status/frontier and audit the exact changed-file set;
+11. after successful release/status promotion, perform the final Part 002 closure checkpoint before Part 003 begins.
 
-If Part review passes, proceed to the **Part 002 English release report** using `PART_001_ENGLISH_RELEASE_REPORT.md` as precedent. Part 003 must not begin before Part 002 release and final Part closure are complete.
+Part 003 must not begin before Part 002 release and final Part closure are complete.
