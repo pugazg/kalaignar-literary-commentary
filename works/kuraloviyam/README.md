@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Current archival state |
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English first-pass COMPLETE 111/111; source-check ACTIVE 75/111** |
+| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English first-pass COMPLETE 111/111; source-check COMPLETE 111/111; glossary reconciliation NEXT 0/111** |
 | 003 | 223–333 | not-started |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
@@ -38,7 +38,9 @@ Permanent cadence:
 **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
 
 - first-pass drafting: **111/111 COMPLETE**;
-- source-check: **75/111 ACTIVE**.
+- source-check: **111/111 COMPLETE**;
+- glossary reconciliation: **0/111 NEXT**;
+- editorial review: **0/111**.
 
 Completed source-check batches:
 
@@ -46,18 +48,23 @@ Completed source-check batches:
 - **SC2 scans 127–141 / printed 110–124 — 15/15**;
 - **SC3 scans 142–156 / printed 125–139 — 15/15**;
 - **SC4 scans 157–171 / printed 140–154 — 15/15**;
-- **SC5 scans 172–186 / printed 155–169 — 15/15**.
+- **SC5 scans 172–186 / printed 155–169 — 15/15**;
+- **SC6 scans 187–201 / printed 170–184 — 15/15**;
+- **SC7 scans 202–216 / printed 185–199 — 15/15**;
+- **SC8 scans 217–222 / printed 200–205 — final 6/6**.
 
-SC5 preserved the clean **171→172** opening boundary, all source-supported internal continuations and clean boundaries through scans 172–186, and the clean **186→187** boundary. Material fidelity corrections were made on **scan 173 / printed 156**, removing the unsupported “I will not let you come” expansion from the imagined plea, and on **scan 186 / printed 169**, removing the unsupported “people say” qualifier from the assistant's statement about fate.
+Source-check is closed at **111/111**, with **0 remaining draft pages**. The closing remainder preserved the source's page functions and continuities, including illustration-only scan **203**, non-body library stamps on **217–218**, and the genuine **221→222** final continuation.
+
+Closing fidelity corrections removed unsupported English additions on scans **198, 199, 207 and 219** and corrected scan **215** so the source image `எதிரிகளின் முடி நடுவதற்கு` is not replaced by the draft's invented “plant defeat” phrase.
 
 No Tamil page record was changed and no published/standard/web English Kural wording was imported.
 
 ## Current frontier
 
-**Next activity: Part 002 English source-check SC6 — scans 187–201 / printed 170–184, 15 records.**
+**Next activity: Part 002 English glossary reconciliation GR1 — scans 112–126 / printed 95–109, 15 records.**
 
-Scan **187** begins a new separation/evening vignette after the clean 186→187 boundary. Compare each English page against its audited Tamil counterpart and promote only passing records to `source-checked`.
+Use `GLOSSARY.md`, the source-checked English pages and audited Tamil context to reconcile recurring names, work/section names, controlled literary terms, chapter labels and repeated English renderings. Do not promote pages to `editorial-reviewed` at this gate.
 
-Next after SC6: **SC7 scans 202–216 / printed 185–199**.
+Next after GR1: **GR2 scans 127–141 / printed 110–124**.
 
-Do not begin glossary reconciliation until source-check covers all 111 Part 002 records. Do not begin Part 003 before Part 002 English review/release and final Part closure are complete.
+Do not begin Part 003 before Part 002 glossary reconciliation, editorial review, Part-level review, release report and final Part closure are complete.
