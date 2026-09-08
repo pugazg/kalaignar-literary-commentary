@@ -57,7 +57,7 @@ Durable declaration:
 
 ## Part 002 English — ACTIVE
 
-First-pass drafting status: **110/111 complete**.
+First-pass drafting status: **111/111 COMPLETE**.
 
 Completed:
 
@@ -71,15 +71,16 @@ Completed:
 - **Batch 8: scans 189–199 / printed 172–182 — 11 draft records.**
 - **Batch 9: scans 200–210 / printed 183–193 — 11 draft records.**
 - **Batch 10: scans 211–221 / printed 194–204 — 11 draft records.**
+- **Final remainder: scan 222 / printed 205 — 1 draft record.**
 
-The draft layer preserves Tamil page alignment, visual-material placement, quoted/Kural blocks, Chapter/Kural metadata and cross-page continuations. Batch 10 preserves **211→212**, **213→214**, **215→216**, **217→218**, **219→220**, and begins the genuine **221→222** pastoral continuation without inventing closure at the batch boundary.
+The draft layer now covers all **111/111** Part 002 records. The final page continues the genuine **221→222** pastoral/ayar-community sequence and closes it with Chapter 128 / Kural 1275. Page alignment, visual-material placement, quoted/Kural blocks, Chapter/Kural metadata and cross-page continuations are preserved.
 
 No published/standard/web English Kural wording has been imported, and the closed Tamil layer has not been changed during English drafting.
 
 ## Current frontier
 
-Proceed with the **final Part 002 first-pass drafting remainder: scan 222 / printed 205**, 1 record.
+Proceed with **Part 002 English source-check SC1: scans 112–126 / printed 95–109**, 15 consecutive records.
 
-Continue directly from scan 221 and close the pastoral/ayar-community vignette with Chapter 128 / Kural 1275. Only after scan 222 is drafted may Part 002 first-pass drafting be marked **111/111 COMPLETE** and source-check begin.
+Compare English against the audited Tamil page-by-page and block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual function and continuity. Only passing pages may move from `draft` to `source-checked`. Do not begin glossary reconciliation until source-check covers all 111 records.
 
 See `TRANSLATION_STATUS.md` for the authoritative detailed frontier.
