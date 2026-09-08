@@ -51,7 +51,7 @@ Permanent English cadence:
 
 Current English Part 002 status:
 
-- first-pass drafting: **44/111 — ACTIVE**;
+- first-pass drafting: **55/111 — ACTIVE**;
 - source-check: **0/111**;
 - glossary reconciliation: **0/111**;
 - editorial review: **0/111**;
@@ -63,24 +63,26 @@ Current English Part 002 status:
 - Batch 2: **123–133 / printed 106–116 — 11/11**.
 - Batch 3: **134–144 / printed 117–127 — 11/11**.
 - Batch 4: **145–155 / printed 128–138 — 11/11**.
+- Batch 5: **156–166 / printed 139–149 — 11/11**.
 
-Batch 4 preserves page alignment, visual-material placement, Kural blocks, Chapter/Kural metadata, the scan-153 lexical note and cross-page continuations. It closes **144→145**, preserves **146→147, 148→149, 150→151→152, 154→155**, and confirms **155→156** as a clean source boundary. No standard/published/web English Kural wording was imported and no Tamil archival record was changed.
+Batch 5 preserves page alignment, visual-material placement, Kural blocks, Chapter/Kural metadata and cross-page continuations. It closes **156→157, 158→159, 160→161, 162→163, 164→165** and preserves **166→167** as a genuine continuation into the next batch. No standard/published/web English Kural wording was imported and no Tamil archival record was changed.
 
-## Exact next activity — English draft Batch 5
+## Exact next activity — English draft Batch 6
 
-Draft English page records for **overall scans 156–166 / printed pages 139–149**, 11 records.
+Draft English page records for **overall scans 167–177 / printed pages 150–160**, 11 records.
 
 Requirements:
 
 1. fetch live `main` first;
 2. read `translations/en/README.md`, `TRANSLATION_GUIDE.md`, `TRANSLATION_STATUS.md` and relevant `GLOSSARY.md` entries;
-3. use audited Tamil files `works/kuraloviyam/pages/0156-kuraloviyam-139.md` through `0166-kuraloviyam-149.md` as the normal basis;
+3. use audited Tamil files `works/kuraloviyam/pages/0167-kuraloviyam-150.md` through `0177-kuraloviyam-160.md` as the normal basis;
 4. mirror the Tamil filenames exactly under `works/kuraloviyam/translations/en/pages/`;
 5. preserve `translation_type: "project_translation"` and `status: "draft"`;
 6. preserve Kural/chapter numbering, page structure, illustrations and continuation relationships;
-7. do not import standard/published/web English Thirukkural wording;
-8. do not silently normalize or repair source-controlled Tamil while translating;
-9. update English README/TRANSLATION_STATUS and Kuraloviyam frontier after the batch;
-10. next draft batch is **167–177 / printed 150–160**.
+7. preserve the genuine incoming **166→167** continuation and the source-supported illustration-only role of scan **177 / printed 160**;
+8. do not import standard/published/web English Thirukkural wording;
+9. do not silently normalize or repair source-controlled Tamil while translating;
+10. update English README/TRANSLATION_STATUS and Kuraloviyam frontier after the batch;
+11. next draft batch is **178–188 / printed 161–171**.
 
 Do not begin source-check until the Part 002 first-pass draft covers all 111 records. Part 003 must not begin before Part 002 English review/release and final Part closure are complete.
