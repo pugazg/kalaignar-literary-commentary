@@ -1,0 +1,179 @@
+name: Kuraloviyam Part 002 release documentation sync
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/kuraloviyam-part002-doc-sync.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Synchronize durable Part 002 closure controls
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          RELEASE_REPORT = 'works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md'
+          RELEASE_BASE = 'ee81bdb8a04706bb931d48d17f977f869854b8b0'
+          PROMOTION_CHECKPOINT = '1ad224c2ff93c1ccaaf0caf757d4a04658e7f83d'
+
+          def read(path):
+              return Path(path).read_text(encoding='utf-8')
+
+          def write(path, text):
+              Path(path).write_text(text, encoding='utf-8')
+
+          def rep(text, old, new, label):
+              n = text.count(old)
+              if n != 1:
+                  raise SystemExit(f'{label}: expected exactly one match, found {n}')
+              return text.replace(old, new, 1)
+
+          def replace_tail(text, marker, new_tail, label):
+              if text.count(marker) != 1:
+                  raise SystemExit(f'{label}: tail marker count is {text.count(marker)}')
+              return text.split(marker, 1)[0] + new_tail
+
+          # 1. TRANSLATION_STATUS.md
+          p = 'works/kuraloviyam/translations/en/TRANSLATION_STATUS.md'
+          t = read(p)
+          t = rep(t,
+              '- release report: **READY / NEXT**;\n- release-ready: **0/111**.',
+              '- release report: **APPROVED / CLOSED**;\n- release-ready: **111/111 — COMPLETE / CLOSED**.',
+              'status gate bullets')
+          t = rep(t,
+              'There are **0 remaining `draft` pages** and **0 remaining `source-checked` pages** in Part 002. All scans **112–222** remain `editorial-reviewed` until release approval.',
+              'There are **0 remaining `draft`, `source-checked`, or `editorial-reviewed` pages** in Part 002. All scans **112–222** are now `release-ready`.',
+              'status page state')
+          marker = '## Current frontier — Part 002 English release report\n'
+          new_tail = f'''## Part 002 English release — APPROVED / CLOSED\n\nDurable release report: `{RELEASE_REPORT}`.\n\nRelease base / authoritative prior-gate HEAD: `{RELEASE_BASE}`.\n\nStatus-promotion completion checkpoint before report sync: `{PROMOTION_CHECKPOINT}`.\n\nFinal release gate result:\n\n- eligible pages: **111/111**;\n- `release-ready`: **111/111**;\n- `editorial-reviewed`: **0**;\n- `source-checked`: **0**;\n- `draft`: **0**;\n- `source-limited`: **0**;\n- `blocked`: **0**;\n- body-text changes during release: **0**;\n- Tamil page changes during release: **0**.\n\nThe release audit confirms that every Part 002 English page changed only by the single status-token replacement from `editorial-reviewed` to `release-ready`; no approved English wording changed.\n\nThe internal Part ending at scan **222 / printed 205** is closed. The external **222→223** split-boundary check remains deferred until Part 003 intake.\n\nFinal Part 002 checkpoint: **PASS / CLOSED**.\n\n## Current frontier — Part 003 source intake\n\nPart 001 and Part 002 are both closed. **Part 003 has not yet been supplied/onboarded.**\n\nDo not infer the **222→223** boundary. When the Part 003 controlling source is supplied, first verify its source identity and the real 222→223 split boundary, then continue the overall physical scan sequence at **223**.\n'''
+          t = replace_tail(t, marker, new_tail, 'status frontier')
+          write(p, t)
+
+          # 2. English README
+          p = 'works/kuraloviyam/translations/en/README.md'
+          t = read(p)
+          t = rep(t, '## Part 002 English — ACTIVE', '## Part 002 English — CLOSED', 'english readme heading')
+          t = rep(t,
+              '- release report: **READY / NEXT**;\n- release-ready: **0/111**.',
+              '- release report: **APPROVED / CLOSED**;\n- release-ready: **111/111 COMPLETE / CLOSED**.',
+              'english readme bullets')
+          t = rep(t,
+              'The whole-Part review passed inventory/alignment, exact pre-release status state, controlled terminology and names, chapter/Kural metadata, page functions/non-body material and accumulated continuities. All scans **112–222** remain `editorial-reviewed`; no page wording or status changed during Part review.',
+              'The whole-Part review passed inventory/alignment, exact pre-release status state, controlled terminology and names, chapter/Kural metadata, page functions/non-body material and accumulated continuities. The subsequent release report approved all **111** pages, which are now `release-ready`; their approved English wording did not change during release.',
+              'english readme review paragraph')
+          marker = '## Current frontier\n'
+          new_tail = f'''## Release closure\n\nDurable release report: `reviews/PART_002_ENGLISH_RELEASE_REPORT.md`.\n\n**PART 002 ENGLISH RELEASE: APPROVED / CLOSED — 111/111 `release-ready`.**\n\nNo Tamil archival record changed and no publisher/standard/web English wording was imported during the release gate. The final Part 002 checkpoint is **PASS / CLOSED**.\n\n## Current frontier\n\nPart 003 may begin only when its controlling source is supplied/onboarded. At intake, first verify the deferred **222→223** boundary from the actual Part 003 source and continue the overall scan sequence at **223**.\n\nSee `TRANSLATION_STATUS.md` for the authoritative detailed frontier.\n'''
+          t = replace_tail(t, marker, new_tail, 'english readme frontier')
+          write(p, t)
+
+          # 3. TRANSLATION_GUIDE.md current Part record
+          p = 'works/kuraloviyam/translations/en/TRANSLATION_GUIDE.md'
+          t = read(p)
+          t = rep(t,
+              '- release report: **READY / NEXT**;\n- release-ready: **0/111**.',
+              '- release report: **APPROVED / CLOSED**;\n- release-ready: **111/111 COMPLETE / CLOSED**.',
+              'guide Part002 bullets')
+          old = '''The Part-level review passed inventory/alignment, exact status state, terminology/names, chapter/Kural metadata, page functions/non-body material and accumulated continuities. All scans **112–222** remain `editorial-reviewed`. No page wording or status changed at the Part-review gate.\n\nThe internal Part ending at scan **222** is closed. The external **222→223** split boundary remains deferred until Part 003 intake.\n\nThe exact next gate is the **Part 002 English release report**. Create `reviews/PART_002_ENGLISH_RELEASE_REPORT.md` following the Part 001 release-report precedent. If approved, promote all 111 eligible pages to `release-ready` without wording changes. Part 003 remains blocked until Part 002 release and final Part closure are complete.\n'''
+          new = f'''The Part-level review passed inventory/alignment, exact status state, terminology/names, chapter/Kural metadata, page functions/non-body material and accumulated continuities.\n\nDurable release report: `reviews/PART_002_ENGLISH_RELEASE_REPORT.md` — **APPROVED / CLOSED**. All scans **112–222** are now `release-ready`; the release changed only the English status field and changed no approved wording or Tamil record.\n\nThe internal Part ending at scan **222** is closed. The external **222→223** split boundary remains deferred until Part 003 intake.\n\nFinal Part 002 checkpoint: **PASS / CLOSED**. The next activity is **Part 003 source intake when the controlling source is supplied**, beginning with source identity and the real 222→223 boundary before continuing at overall scan **223**.\n'''
+          t = rep(t, old, new, 'guide Part002 tail')
+          write(p, t)
+
+          # 4. Work README
+          p = 'works/kuraloviyam/README.md'
+          t = read(p)
+          t = rep(t,
+              '| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English first-pass, source-check, glossary reconciliation and editorial review COMPLETE 111/111; Part-level English review PASS; release report READY / NEXT** |',
+              '| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |',
+              'work readme table')
+          t = rep(t, '## Part 002 — TAMIL CLOSED / ENGLISH ACTIVE', '## Part 002 — TAMIL + ENGLISH CLOSED', 'work readme heading')
+          t = rep(t,
+              '- release report: **READY / NEXT**;\n- release-ready: **0/111**.',
+              '- release report: **APPROVED / CLOSED**;\n- release-ready: **111/111 COMPLETE / CLOSED**.',
+              'work readme bullets')
+          marker = '## Current frontier\n'
+          new_tail = '''## English release closure\n\nDurable release report: `translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`.\n\nPart 002 English release is **APPROVED / CLOSED at 111/111 `release-ready`**. Release changed only page status fields; approved English wording and Tamil archival records were unchanged. Final Part 002 checkpoint: **PASS / CLOSED**.\n\nThe internal ending at scan **222** is closed. The external **222→223** split-boundary check remains deferred until the Part 003 source is supplied.\n\n## Current frontier\n\n**Next activity: Part 003 source intake when the controlling source is supplied/onboarded.** Verify source identity and the actual **222→223** boundary first, then continue the overall scan sequence at **223**.\n'''
+          t = replace_tail(t, marker, new_tail, 'work readme frontier')
+          write(p, t)
+
+          # 5. Work HANDOVER
+          p = 'works/kuraloviyam/HANDOVER.md'
+          t = read(p)
+          t = rep(t,
+              '14. `works/kuraloviyam/translations/en/reviews/PART_001_ENGLISH_RELEASE_REPORT.md` as the structural precedent for the next gate',
+              '14. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`',
+              'handover startup release record')
+          t = rep(t,
+              '- Part 002 English release report: **READY / NEXT**.\n- Part 002 English release-ready: **0/111**.',
+              '- Part 002 English release report: **APPROVED / CLOSED**.\n- Part 002 English release-ready: **111/111 COMPLETE / CLOSED**.\n- Part 002 final Part checkpoint: **PASS / CLOSED**.',
+              'handover durable release state')
+          marker = '## Exact current activity — Part 002 English release report\n'
+          new_tail = f'''## Part 002 release closure — PASS / CLOSED\n\nDurable release report: `{RELEASE_REPORT}`.\n\nRelease base: `{RELEASE_BASE}`.\n\nFinal Part 002 English state: **111/111 `release-ready`; 0 editorial-reviewed; 0 source-checked; 0 draft; 0 source-limited; 0 blocked**. Release changed only page status fields and changed no approved English wording or Tamil record.\n\nThe internal Part ending at scan **222 / printed 205** is closed. The external **222→223** boundary remains deferred to Part 003 intake.\n\n## Exact next activity — Part 003 source intake\n\nPart 003 is **not started** and its controlling source is not yet onboarded in the durable state.\n\nWhen the user supplies Part 003:\n\n1. fetch live `main` first and preserve this Part 002 closure;\n2. record the Part 003 source identity, physical-page count, byte size and SHA-256;\n3. confirm it maps to overall scans **223–333** without restarting repository `scan_page`;\n4. inspect the actual first Part 003 scan and verify the deferred **222→223** continuity/boundary against closed scan 222;\n5. only then begin Part 003 Tamil source intake / archival workflow under the permanent Kuraloviyam guidelines;\n6. do not reopen Part 001 or Part 002 unless a genuinely new source/provenance/fidelity issue appears.\n'''
+          t = replace_tail(t, marker, new_tail, 'handover frontier')
+          write(p, t)
+
+          # 6. NEXT_CHAT_PROMPT_KURALOVIYAM.md
+          p = 'NEXT_CHAT_PROMPT_KURALOVIYAM.md'
+          t = read(p)
+          t = rep(t,
+              '14. `works/kuraloviyam/translations/en/reviews/PART_001_ENGLISH_RELEASE_REPORT.md`',
+              '14. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`',
+              'next prompt release record')
+          t = rep(t,
+              '- release report: **READY / NEXT**;\n- release-ready: **0/111**.',
+              '- release report: **APPROVED / CLOSED**;\n- release-ready: **111/111 COMPLETE / CLOSED**.',
+              'next prompt release bullets')
+          marker = '## Exact next activity — Part 002 English release report\n'
+          new_tail = f'''## Completed Part 002 English release\n\nDurable report:\n\n`{RELEASE_REPORT}`\n\nRelease decision: **APPROVED / CLOSED**.\n\n- Part 002 English pages: **111/111 `release-ready`**;\n- `editorial-reviewed`: **0**;\n- `source-checked`: **0**;\n- `draft`: **0**;\n- `source-limited`: **0**;\n- `blocked`: **0**;\n- English body-text changes at release: **0**;\n- Tamil page changes at release: **0**.\n\nFinal Part 002 checkpoint: **PASS / CLOSED**. The **222→223** external split boundary remains intentionally deferred because Part 003 has not yet been supplied/onboarded.\n\n## Exact next activity — Part 003 source intake\n\nDo not start source-dependent Part 003 work until its controlling source is supplied. When supplied:\n\n1. fetch live `main`;\n2. record source identity, physical pages, bytes and SHA-256;\n3. confirm the overall scan mapping begins at **223**;\n4. verify the real **222→223** boundary against closed Part 002 scan 222;\n5. proceed through the Part 003 Tamil archival workflow before beginning its English layer.\n\nDo not reopen Part 001 or Part 002 from stale prompts.\n'''
+          t = replace_tail(t, marker, new_tail, 'next prompt frontier')
+          write(p, t)
+
+          # 7. page-map.md
+          p = 'works/kuraloviyam/indexes/page-map.md'
+          t = read(p)
+          t = rep(t,
+              '| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English first-pass, source-check, glossary reconciliation and editorial review COMPLETE 111/111; Part-level English review PASS; release report READY / NEXT** |',
+              '| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |',
+              'page-map table')
+          t = rep(t,
+              'Part 002 maintained English source-check is **COMPLETE 111/111**, glossary reconciliation is **COMPLETE / CLOSED 111/111**, editorial review is **COMPLETE / CLOSED 111/111**, and Part-level English review is **PASS / CLOSED**. The release report is **READY / NEXT**; release-ready remains **0/111**.',
+              'Part 002 maintained English source-check, glossary reconciliation and editorial review are **COMPLETE / CLOSED 111/111**; Part-level English review is **PASS / CLOSED**; the release report is **APPROVED / CLOSED**; all **111/111** English pages are `release-ready`.',
+              'page-map English state')
+          t = rep(t,
+              '- scans **112–222** are all `editorial-reviewed` pending release approval.',
+              '- scans **112–222** are all `release-ready`; release changed only the status field and no approved English wording.',
+              'page-map editorial final line')
+          t = rep(t,
+              'Durable Part 002 English review: `../translations/en/reviews/PART_002_ENGLISH_REVIEW.md`.',
+              'Durable Part 002 English review: `../translations/en/reviews/PART_002_ENGLISH_REVIEW.md`.\nDurable Part 002 English release report: `../translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`.',
+              'page-map durable release link')
+          t = rep(t,
+              '- Part 002 English release report — **READY / NEXT**.',
+              '- Part 002 English release report — **APPROVED / CLOSED**;\n- final Part 002 checkpoint — **PASS / CLOSED**.',
+              'page-map release gate')
+          marker = '## Current frontier\n'
+          new_tail = '''## Current frontier\n\n**Part 001: CLOSED.**\n\n**Part 002 Tamil: ARCHIVAL-READY / CLOSED.**\n\n**Part 002 English: RELEASE COMPLETE / CLOSED — 111/111 `release-ready`.**\n\nThe internal Part 002 ending at scan **222 / printed 205** is closed. The external **222→223** split boundary remains deferred until Part 003 source intake.\n\nUser-directed normal page-batched iteration size remains **33 physical scan pages** for future page-batched English work. Whole-Part gates are not divided merely to satisfy that cadence.\n\nExact next activity: **Part 003 source intake when its controlling source is supplied/onboarded**. Record source identity, confirm overall scans **223–333**, verify the real **222→223** boundary, and then begin the Part 003 Tamil archival workflow.\n'''
+          t = replace_tail(t, marker, new_tail, 'page-map frontier')
+          write(p, t)
+
+          print('Synchronized 7 durable Part 002 closure controls.')
+          PY
+      - name: Commit documentation sync and remove one-time workflow
+        shell: bash
+        run: |
+          git config user.name 'pugazg'
+          git config user.email 'w46v654vvn@privaterelay.appleid.com'
+          rm .github/workflows/kuraloviyam-part002-doc-sync.yml
+          git add NEXT_CHAT_PROMPT_KURALOVIYAM.md works/kuraloviyam/HANDOVER.md works/kuraloviyam/README.md works/kuraloviyam/indexes/page-map.md works/kuraloviyam/translations/en/README.md works/kuraloviyam/translations/en/TRANSLATION_GUIDE.md works/kuraloviyam/translations/en/TRANSLATION_STATUS.md .github/workflows/kuraloviyam-part002-doc-sync.yml
+          git diff --cached --check
+          git commit -m 'kuraloviyam: Close Part 002 English release'
+          git push origin HEAD:main
