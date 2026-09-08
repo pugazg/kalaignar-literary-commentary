@@ -33,13 +33,13 @@ Final Tamil state: **111 textual verified / 111 visual verified / 0 exceptions**
 
 - first-pass drafting: **111/111 — COMPLETE**;
 - source-check: **111/111 — COMPLETE / CLOSED**;
-- glossary reconciliation: **81/111 — ACTIVE**;
-- editorial review: **0/111**;
+- glossary reconciliation: **111/111 — COMPLETE / CLOSED**;
+- editorial review: **0/111 — READY / NEXT**;
 - Part-level English review: not started;
 - release report: not started;
 - release-ready: **0/111**.
 
-There are **0 remaining `draft` pages** in Part 002. Glossary reconciliation does not change the `source-checked` page status by itself.
+There are **0 remaining `draft` pages** in Part 002. All 111 pages remain `source-checked` until they pass the editorial-review gate.
 
 ## Source-check batches — CLOSED
 
@@ -52,9 +52,9 @@ There are **0 remaining `draft` pages** in Part 002. Glossary reconciliation doe
 - SC7 scans 202–216 / printed 185–199 — 15/15;
 - SC8 scans 217–222 / printed 200–205 — final 6/6.
 
-Source-check closed at **111/111** with no remaining draft pages. Closing fidelity fixes removed unsupported additions on scans 198, 199, 207 and 219 and corrected scan 215's source image. No Tamil archival record changed and no published/standard/web English Kural wording was imported.
+Source-check closed at **111/111** with no remaining draft pages. No Tamil archival record changed and no published/standard/web English Kural wording was imported.
 
-## Glossary-reconciliation batches
+## Glossary-reconciliation batches — CLOSED
 
 ### GR1 — COMPLETE
 
@@ -66,44 +66,50 @@ GR1 reconciled scan 113 Chapter 133 to **Joy of Lovers' Quarrel**, standardized 
 
 **Scans 127–159 / printed 110–142 — 33/33.**
 
-Material terminology corrections:
-
-1. **scan 127 / printed 110** — **revered Gandhiji → revered Gandhi**;
-2. **scan 134 / printed 117** — **paddy-chaff → chaff**;
-3. **scan 153 / printed 136** — lexical-note transliteration **`unaruththum` → `unarththum`**;
-4. **scan 155 / printed 138** — Chapter 133 **Delight in Lovers' Quarrel → Joy of Lovers' Quarrel**.
+Material terminology corrections included **revered Gandhiji → revered Gandhi**, **paddy-chaff → chaff**, lexical-note transliteration **`unaruththum` → `unarththum`**, and Chapter 133 **Delight in Lovers' Quarrel → Joy of Lovers' Quarrel**.
 
 ### GR3 — COMPLETE
 
 **Scans 160–192 / printed 143–175 — 33/33.**
 
-- English page wording corrections required solely for GR3 terminology consistency: **none**;
-- existing controls including **The Agony of Solitary Love**, **Diligent Effort**, **Chiding the Heart**, **Lamenting in Wasting Longing**, **Subtleties of Lovers' Quarrel**, **Lamenting at the Sight of Evening**, **Joy of Lovers' Quarrel**, **love-sickness**, **lovers' quarrel**, **lovers' union**, **yaazh**, `Kural / Kurals`, and context-sensitive **Atthaan** were confirmed;
-- `GLOSSARY.md` now records newly evidenced chapter labels through scan 192, including **Knowing the Place**, **Refraining from Slander**, **Gracious Regard**, **Making the Sign Understood**, **Possession of Resolve**, **Not Succumbing to Adversity**, **Espionage**, and **Fate**;
-- source variants `தனிப்படர்மிகுதி` and `பொழுதுகண்டிரங்கல்` were mapped to the existing controlled chapter labels rather than creating duplicates;
-- newly evidenced cultural/work controls include **kavadi / paar-kavadi**, **Gajendra Moksha**, and **Kurunthogai**;
-- source-supported personal/narrative controls through scan 192 were added, including **Malaiyan / Malaiya**, **Silamban**, **Kala**, **Thogai**, **Socrates**, **Meletus**, **Xanthippe**, **Vengai**, **Enthizhai**, **Veeran**, **Othiyan / Othiya**, **Iniyan / Iniya**, **Singan**, and **Anjugathammai**;
-- continuity was preserved across every genuine continuation in the range, including illustration-only scan 177 inside **176→177→178**;
-- **192→193 is a clean source boundary**. Scan 193 was inspected only as the final-remainder boundary witness and remains outside GR3.
+No English page wording corrections were required solely for GR3 terminology consistency. The glossary was extended with source-supported chapter labels, cultural/work controls, names and source spelling variants through scan 192.
+
+### GR4 — COMPLETE / FINAL REMAINDER
+
+**Scans 193–222 / printed 176–205 — 30/30.**
+
+Material terminology corrections:
+
+1. **scan 201 / printed 184** — explicit source honorific `பாவேந்தர் பாரதிதாசன்` restored as **Paavendhar Bharathidasan**; bare `பாரதிதாசன்` on scan 217 remains **Bharathidasan** because the source there is bare;
+2. **scan 218 / printed 201** — prose `ஊடல்` reconciled from transliterated **oodal** to controlled **lovers' quarrel**; Chapter 131 `புலவி` remains the distinct title **Lovers' Sulking**.
+
+`GLOSSARY.md` now carries the terminology actually evidenced through the final Part 002 scan, including new controls for **alar / kauvai / ethiraar**, **Maravar**, **Mukhari**, **Kuralar**, **naazhigai**, **pachadi**, **ayar community**, **veshti**, newly encountered chapter labels, and names including **Kumanan, Saathanaar, Thennavan / Thennava, Poonguzhali, Iniyaval, Alagan** and **Alaguvalli**.
+
+Continuity was preserved across every genuine source unit in GR4, including illustration-only scan **203** within **202→203→204** and the genuine final **221→222** continuation. Scan **222 / printed 205** closes the pastoral/ayar-community vignette and Part 002's physical source sequence.
 
 No page was promoted to `editorial-reviewed`; no Tamil archival record changed; no external/published/web English terminology was imported.
 
-## Current frontier
+**Part 002 glossary reconciliation is COMPLETE / CLOSED at 111/111.**
 
-Proceed with the **final Part 002 English glossary-reconciliation remainder GR4: scans 193–222 / printed 176–205 — 30 consecutive records**.
+## Current frontier — editorial review ER1
+
+Proceed with **Part 002 English editorial review ER1: scans 112–144 / printed 95–127 — 33 consecutive records**.
 
 Requirements:
 
-1. use the complete `source-checked` English layer, matching audited Tamil records and current `GLOSSARY.md`;
-2. scan 193 begins the Kumanan/Saathanaar generosity vignette after the clean 192→193 boundary;
-3. reconcile recurring names, work/section names, controlled literary terms, publication names, chapter labels, citation metadata and repeated English renderings;
-4. update `GLOSSARY.md` only for terminology actually evidenced in the audited Part 002 records;
-5. do not mechanically force one English equivalent when context requires a different rendering;
-6. glossary reconciliation does **not** promote pages to `editorial-reviewed`;
-7. do not import terminology from external editions, web sources or memory;
-8. do not change Tamil archival records;
-9. synchronize status/frontier and audit the exact changed-file set after GR4.
+1. use the complete `source-checked` + glossary-reconciled English layer as the working text, with audited Tamil records available as the source-faithfulness authority;
+2. review English readability, grammar, style, internal coherence, repeated terminology, chapter/Kural metadata, visual/non-body descriptions and cross-page transitions without changing source meaning;
+3. preserve source-supported Tamil-specific terms and names according to `GLOSSARY.md`; do not mechanically anglicize them;
+4. do not import publisher/standard/web English Kural wording or external-edition prose;
+5. preserve all genuine cross-page continuities and clean boundaries;
+6. promote a page from `source-checked` to `editorial-reviewed` only after it passes this gate;
+7. do not change Tamil archival records;
+8. synchronize status/frontier and audit the exact changed-file set after ER1.
 
-After GR4, glossary reconciliation will be **111/111 COMPLETE**, and the next gate will be **Part 002 English editorial review**, using the normal 33-page iteration cadence.
+After ER1:
 
-Part 003 remains blocked until Part 002 editorial review, Part-level review, release report and final Part closure are complete.
+- **ER2 scans 145–177 / printed 128–160 — 33 pages**;
+- **ER3 scans 178–210 / printed 161–193 — 33 pages**;
+- **ER4 scans 211–222 / printed 194–205 — final 12 pages**.
+
+Do not begin Part-level English review until editorial review reaches **111/111**. Part 003 remains blocked until Part 002 editorial review, Part review, release report and final Part closure are complete.
