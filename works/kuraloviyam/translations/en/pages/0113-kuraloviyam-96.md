@@ -30,6 +30,6 @@ Then comes the flood of exhilaration brought by the fruit of lovers' quarrel! Va
 > Lovers' quarrel is delight in love; its delight is this—  
 > to come together and embrace.
 
-Chapter 133 — Delight in Lovers' Quarrel; Kural 1330
+Chapter 133 — Joy of Lovers' Quarrel; Kural 1330
 
 <!-- Source scan page: 113; printed page: 96 -->
