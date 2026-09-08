@@ -53,7 +53,7 @@ Part 002 Tamil is not to be routinely retranscribed or reverified during English
 - translation type — **project-created English translation**;
 - official/publisher English source supplied — **no**;
 - normal authority — audited Tamil Part 002 records;
-- first-pass drafting — **44/111 COMPLETE so far / ACTIVE**;
+- first-pass drafting — **55/111 COMPLETE so far / ACTIVE**;
 - source-check — **0/111**;
 - glossary reconciliation — **0/111**;
 - editorial review — **0/111**;
@@ -70,33 +70,35 @@ Completed first-pass batches:
 - **Batch 2: scans 123–133 / printed 106–116 — 11/11 draft records.**
 - **Batch 3: scans 134–144 / printed 117–127 — 11/11 draft records.**
 - **Batch 4: scans 145–155 / printed 128–138 — 11/11 draft records.**
+- **Batch 5: scans 156–166 / printed 139–149 — 11/11 draft records.**
 
-Batch 4 preserved Tamil-English filename alignment, visual descriptions, Kural block lineation, Chapter/Kural metadata, the printed lexical note on scan 153 and cross-page continuations. No standard/published/web English Kural translation was imported and no Tamil page was changed.
+Batch 5 preserved Tamil-English filename alignment, visual descriptions, Kural block lineation, Chapter/Kural metadata and cross-page continuations. No standard/published/web English Kural translation was imported and no Tamil page was changed.
 
 Important continuity state:
 
-- **144→145** secret coconut-grove meeting closes at 145;
-- **146→147** physician/tiger;
-- **148→149** moon/separation;
-- **150→151→152** Thelindhan/Nelindhan;
-- **153** self-contained woman-addressing-her-heart vignette;
-- **154→155** lovers/ஊடல் closes at 155;
-- **155→156** clean source boundary.
+- **155→156** clean source boundary;
+- **156→157** crowd/knife and critical inquiry closes at 157;
+- **158→159** Maavengko/Maangani foreign-trade and separation closes at 159;
+- **160→161** elephant/terrain/strength closes at 161;
+- **162→163** Malaiyan/Silamban/Kalingan slander closes at 163;
+- **164→165** one-sided love/kavadi closes at 165;
+- **166→167** genuine continuation into the medical/valor vignette; Batch 5 ends at the physical batch boundary rather than inventing a narrative boundary.
 
-## Exact current activity — Part 002 English draft Batch 5
+## Exact current activity — Part 002 English draft Batch 6
 
-Proceed with **overall scans 156–166 / printed 139–149**, 11 page-aligned records.
+Proceed with **overall scans 167–177 / printed 150–160**, 11 page-aligned records.
 
 Requirements:
 
 1. fetch live `main` and preserve newer durable work;
 2. read the English README, TRANSLATION_GUIDE, TRANSLATION_STATUS and relevant GLOSSARY conventions;
-3. use audited Tamil page records **0156–0166** as the normal translation basis;
+3. use audited Tamil page records **0167–0177** as the normal translation basis;
 4. mirror Tamil filenames in `translations/en/pages/`;
 5. set/retain `translation_type: "project_translation"` and `status: "draft"`;
 6. preserve Kural numbering, chapter relationships, page/visual structure and source-continuation relationships without importing a published/standard English Kural translation;
 7. do not reopen the Tamil source merely to make English prose smoother;
-8. synchronize English status/frontier after the 11-record batch;
-9. next draft batch after completion will be **167–177 / printed 150–160**, 11 records.
+8. preserve the genuine **166→167** incoming continuation and the illustration-only role of scan **177 / printed 160** if reflected by the audited Tamil records;
+9. synchronize English status/frontier after the 11-record batch;
+10. next draft batch after completion will be **178–188 / printed 161–171**, 11 records.
 
 Do not begin source-check until Part 002 first-pass drafting is complete. Part 003 remains blocked until Part 002 English workflow and final Part closure are complete.
