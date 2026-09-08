@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -21,7 +21,7 @@ It is because of that anguish that the night is first abused; then the same feel
 
 Thus she looks upon the night and expresses her compassion. Thinking again and again of the man who is as dear as life itself, she alone tosses upon the bed without sleep. If she too had fallen asleep, poor night—there would be no one at all to keep it company. How beautifully that maiden expresses the pain of separation she suffers at night!
 
-Is it she who says this? Valluvar makes her say it so!
+Is it she who says this? It is Valluvar who makes her say it!
 
 > O night that has put all living beings to sleep,  
 > you have no companion except me.
