@@ -20,7 +20,7 @@ Do not import standard Thirukkural wording, a published English Kural translatio
 
 **Tamil archival-ready → English draft → English source-check → glossary reconciliation → editorial review → Part-level review → release report → release-ready.**
 
-The user-directed normal iteration size is **33 physical scan pages**. Historical completed batches retain their recorded sizes; a final Part remainder may be shorter.
+The user-directed normal iteration size is **33 physical scan pages** for page-batched work. Historical completed batches retain their recorded sizes; a final remainder may be shorter. Part-level review is a whole-Part gate.
 
 ## Part 001 — CLOSED
 
@@ -35,24 +35,29 @@ Part 002 covers scans **112–222 / printed 95–205**, 111 physical pages, and 
 - first-pass drafting: **111/111 COMPLETE**;
 - source-check: **111/111 COMPLETE / CLOSED**;
 - glossary reconciliation: **111/111 COMPLETE / CLOSED**;
-- editorial review: **99/111 ACTIVE**.
+- editorial review: **111/111 COMPLETE / CLOSED**;
+- Part-level review: **READY / NEXT**;
+- release-ready: **0/111**.
 
-Editorial review:
+Editorial review is closed across:
 
 - **ER1 scans 112–144 / printed 95–127 — COMPLETE 33/33**;
 - **ER2 scans 145–177 / printed 128–160 — COMPLETE 33/33**;
 - **ER3 scans 178–210 / printed 161–193 — COMPLETE 33/33**;
-- scans **112–210** are now `editorial-reviewed`;
-- scans **211–222** remain `source-checked` pending the final editorial remainder.
+- **ER4 scans 211–222 / printed 194–205 — COMPLETE 12/12 / FINAL REMAINDER**.
 
-ER3 made source-faithful English improvements on scans **178, 184, 185, 189 and 201**. It preserved the illustration-only scan **203** inside **202→203→204** and confirmed the **210→211** boundary as clean.
+All scans **112–222** are now `editorial-reviewed`. ER4 made source-faithful English improvements on scans **211, 212, 215, 218, 219, 220, 221 and 222**. The final **221→222** continuation remains intact, and scan 222 closes Part 002.
 
 No Tamil archival record changed and no publisher/standard/web English wording was imported.
 
 ## Current frontier
 
-Proceed with **Part 002 editorial review ER4: scans 211–222 / printed 194–205 — final 12 records**.
+Proceed with the **Part 002 Part-level English review** as a whole-Part gate and create:
 
-After ER4 reaches **111/111**, proceed to the **Part 002 Part-level English review**. Do not begin Part 003 before Part-level review, release report and final Part closure are complete.
+`reviews/PART_002_ENGLISH_REVIEW.md`
+
+Verify inventory/alignment, final statuses, controlled terminology and names, chapter/Kural metadata, page functions/non-body material, and accumulated continuities. Do **not** promote pages to `release-ready` during Part review.
+
+If Part review passes, proceed to the **Part 002 English release report**. Do not begin Part 003 before Part 002 release and final Part closure are complete.
 
 See `TRANSLATION_STATUS.md` for the authoritative detailed frontier.
