@@ -21,7 +21,7 @@ He mixed rice and curry, took a handful and put it into his mouth.
 
 “Your simile is confusing, Atthaan! Explain it clearly!” she protested coyly.
 
-“I told you I went to a Kural gathering on the way home. There an explanation was given about oodal. Lovers' quarrel may indeed bring pleasure to lovers, but if that quarrel is prolonged beyond measure, it becomes like food in which the salt has become a little too much. Oodal should be like salt mixed into food in the right measure! Valluvar has written about lovers' quarrel with such beauty. I came home with that explanation still in mind. That is why I said what I did about today's meal,” he replied with a bright face.
+“I told you I went to a Kural gathering on the way home. There an explanation was given about lovers' quarrel. Lovers' quarrel may indeed bring pleasure to lovers, but if that quarrel is prolonged beyond measure, it becomes like food in which the salt has become a little too much. Lovers' quarrel should be like salt mixed into food in the right measure! Valluvar has written about lovers' quarrel with such beauty. I came home with that explanation still in mind. That is why I said what I did about today's meal,” he replied with a bright face.
 
 “Then is there too much salt in the curry?”
 
