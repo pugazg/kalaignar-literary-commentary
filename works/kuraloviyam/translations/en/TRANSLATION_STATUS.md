@@ -52,7 +52,7 @@ Do not repeat Tamil verification merely because English drafting is underway.
 
 ## Part 002 English gates
 
-- first-pass drafting: **33/111 — ACTIVE**;
+- first-pass drafting: **44/111 — ACTIVE**;
 - source-check: **0/111**;
 - glossary reconciliation: **0/111**;
 - editorial review: **0/111**;
@@ -65,21 +65,23 @@ Do not repeat Tamil verification merely because English drafting is underway.
 - **Batch 1: scans 112–122 / printed 95–105 — COMPLETE, 11/11 draft records.**
 - **Batch 2: scans 123–133 / printed 106–116 — COMPLETE, 11/11 draft records.**
 - **Batch 3: scans 134–144 / printed 117–127 — COMPLETE, 11/11 draft records.**
+- **Batch 4: scans 145–155 / printed 128–138 — COMPLETE, 11/11 draft records.**
 
-Batch 3 preserves audited Tamil page alignment, visual-material placement, quoted-song and Kural block lineation, Chapter/Kural metadata and cross-page continuations. No published/standard/web English Kural wording was imported, and no Tamil archival record was changed.
+Batch 4 preserves audited Tamil page alignment, visual-material placement, Kural block lineation, Chapter/Kural metadata, printed lexical note on scan 153 and cross-page continuations. No published/standard/web English Kural wording was imported, and no Tamil archival record was changed.
 
 Notable continuity retained:
 
-- **134→135** court-music vignette;
-- **136→137** princess/commander war-and-separation vignette;
-- **138→139** owl/crows timing vignette;
-- **140→141** sisters/child/absent-lover vignette;
-- **142→143** medical-hypocrisy vignette;
-- **144→145** romantic coconut-grove vignette continues beyond the batch boundary.
+- **144→145** secret coconut-grove meeting closes at scan 145;
+- **146→147** physician/tiger vignette;
+- **148→149** moon/separation vignette;
+- **150→151→152** Thelindhan/Nelindhan vignette;
+- **153** self-contained woman-addressing-her-heart vignette;
+- **154→155** lovers/`ஊடல்` vignette closes at 155;
+- **155→156** is a clean source boundary.
 
 ## Current frontier
 
-Proceed with **Part 002 English first-pass draft Batch 4: overall scans 145–155 / printed 128–138**, 11 records.
+Proceed with **Part 002 English first-pass draft Batch 5: overall scans 156–166 / printed 139–149**, 11 records.
 
 Requirements:
 
@@ -91,6 +93,6 @@ Requirements:
 6. do not change Tamil archival records;
 7. update this status and audit the exact changed-file set after the batch.
 
-Next draft batch after Batch 4: **156–166 / printed 139–149**, 11 records.
+Next draft batch after Batch 5: **167–177 / printed 150–160**, 11 records.
 
 Do not begin source-check until Part 002 first-pass drafting covers all 111 records. Part 003 remains blocked until Part 002 English workflow and final Part closure are complete.
