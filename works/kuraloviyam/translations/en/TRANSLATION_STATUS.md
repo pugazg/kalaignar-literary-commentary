@@ -53,7 +53,7 @@ Do not repeat Tamil verification merely because English review is underway.
 ## Part 002 English gates
 
 - first-pass drafting: **111/111 — COMPLETE**;
-- source-check: **0/111 — NEXT GATE**;
+- source-check: **15/111 — ACTIVE**;
 - glossary reconciliation: **0/111**;
 - editorial review: **0/111**;
 - Part-level English review: not started;
@@ -74,34 +74,31 @@ Do not repeat Tamil verification merely because English review is underway.
 - **Batch 10: scans 211–221 / printed 194–204 — COMPLETE, 11/11 draft records.**
 - **Final remainder: scan 222 / printed 205 — COMPLETE, 1/1 draft record.**
 
-The final remainder continues directly from scan **221** and closes the genuine **221→222** pastoral/ayar-community vignette with Chapter **128** / Kural **1275**. Part 002 now has a complete page-aligned first-pass English layer for all **111/111** Tamil records. No published/standard/web English Kural wording was imported, and no Tamil archival record was changed.
+First-pass drafting is complete and page-aligned for all **111/111** Part 002 records.
 
-First-pass continuity closure includes:
+### Source-check batches
 
-- **210→211** clean source boundary;
-- **211→212** enemy-siege/treachery and mercy closes at 212;
-- **213→214** Poonguzhali waiting/Iniyaval disguise closes at 214;
-- **214→215** clean source boundary;
-- **215→216** warrior-departure/battlefield-death closes at 216;
-- **217→218** domestic meal/salt/oodal closes at 218; lower-margin blue circular library stamps remain non-body material;
-- **219→220** dying-veteran/abandoned-friendship closes at 220;
-- **221→222** pastoral/ayar-community closes at 222, the final physical scan of Part 002.
+- **SC1: scans 112–126 / printed 95–109 — COMPLETE, 15/15 `source-checked`.**
+
+SC1 compared each English record against its audited Tamil counterpart paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual-page function and cross-page continuity. The clean **111→112** Part boundary was preserved. Scan **127 / printed 110** was inspected only as the continuation witness for scan 126 and remains `draft` for SC2.
+
+One fidelity correction was required during SC1: on **scan 125 / printed 108 / Kural 1291**, the draft Kural line contained the unsupported addition **“and his love.”** It was corrected to **“Though you see that his heart is his own, / why, my heart, do you not belong to me?”** before promotion to `source-checked`. No Tamil archival record was changed and no published/standard/web English Kural wording was imported.
 
 ## Current frontier
 
-Proceed with **Part 002 English source-check SC1: overall scans 112–126 / printed 95–109**, 15 consecutive records.
+Proceed with **Part 002 English source-check SC2: overall scans 127–141 / printed 110–124**, 15 consecutive records.
 
 Requirements:
 
 1. compare each English record against its audited Tamil counterpart paragraph-by-paragraph / block-by-block;
 2. check omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual-page function and cross-page continuations;
-3. preserve the clean **111→112** Part boundary when beginning scan 112;
+3. scan 127 begins as the direct continuation and closure of the Gandhi vignette from source-checked scan 126;
 4. only pages that pass the fidelity comparison may move from `draft` to `source-checked`;
 5. do not use source-check for unrelated stylistic rewriting;
 6. do not import published/standard/web English Kural wording;
 7. do not change Tamil archival records;
-8. update this status and audit the exact changed-file set after SC1.
+8. update this status and audit the exact changed-file set after SC2.
 
-Next source-check batch after SC1: **SC2 scans 127–141 / printed 110–124**, 15 records.
+Next source-check batch after SC2: **SC3 scans 142–156 / printed 125–139**, 15 records.
 
 Do not begin glossary reconciliation until source-check covers all **111/111** Part 002 records. Part 003 remains blocked until Part 002 English workflow and final Part closure are complete.
