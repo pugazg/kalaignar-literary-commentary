@@ -20,6 +20,8 @@ Do not import standard Thirukkural wording, a published English Kural translatio
 
 **Tamil archival-ready → English draft → English source-check → glossary reconciliation → editorial review → Part-level review → release report → release-ready.**
 
+From the current checkpoint onward, the user-directed normal iteration size is **33 physical scan pages**. Historical completed batches retain their recorded sizes; a final Part remainder may be shorter.
+
 ## Part 001 — CLOSED
 
 Part 001 English is closed at **107 `release-ready` + 4 `source-limited`**; source-limited scans are **13, 14, 15, 19**.
@@ -32,29 +34,26 @@ Part 002 covers scans **112–222 / printed 95–205**, 111 physical pages, and 
 
 - first-pass drafting: **111/111 COMPLETE**;
 - source-check: **111/111 COMPLETE / CLOSED**;
-- glossary reconciliation: **15/111 ACTIVE**;
+- glossary reconciliation: **48/111 ACTIVE**;
 - editorial review: **0/111**.
 
-Source-check closed with **0 remaining draft pages** after eight batches, SC1–SC8.
+Completed glossary work:
 
-Glossary reconciliation completed so far:
+- **GR1 scans 112–126 / printed 95–109 — 15/15**;
+- **GR2 scans 127–159 / printed 110–142 — 33/33**, using the revised 33-page cadence.
 
-- **GR1 scans 112–126 / printed 95–109 — 15/15 reconciled**.
+GR2 reconciled the remaining **Gandhiji → Gandhi** occurrence on scan 127, **paddy-chaff → chaff** on scan 134, the scan-153 lexical-note transliteration **`unaruththum` → `unarththum`**, and Chapter 133 **Delight → Joy of Lovers' Quarrel** on scan 155. `GLOSSARY.md` was extended with source-supported chapter labels, contextual kinship terms and narrative-name controls through scan 159.
 
-GR1 made four page-level terminology corrections: scan **113** now uses controlled Chapter 133 label **Joy of Lovers' Quarrel**; scans **121–122** consistently use **rest-house** for `ஓய்வு விடுதி / விடுதி`; and scan **126** now uses established project form **Gandhi** for `காந்தியடிகள்`. `GLOSSARY.md` also records six newly encountered Part 002 chapter labels, recurring names **Marudhan / Marudha** and **Thenappan**, and context distinctions including **Kungumam / kumkum** and **Valluvam**.
-
-The genuine **126→127** Gandhi continuation was checked as the GR1 boundary. Scan 127 remains `source-checked` for GR2 and still contains **Gandhiji**, which is an explicit next-batch terminology correction.
-
-Glossary reconciliation does not itself promote pages from `source-checked` to `editorial-reviewed`.
-
-No Tamil archival record was changed and no published/standard/web English Kural wording or terminology was imported.
+No Tamil archival record changed, no page was promoted to `editorial-reviewed`, and no external/published/web English terminology was imported.
 
 ## Current frontier
 
-Proceed with **Part 002 glossary reconciliation GR2: scans 127–141 / printed 110–124**, 15 consecutive records.
+Proceed with **Part 002 glossary reconciliation GR3: scans 160–192 / printed 143–175 — 33 consecutive records**.
 
-Begin by reconciling scan **127**'s `காந்தியடிகள்` occurrence to controlled **Gandhi**, then reconcile recurring names, controlled literary terms, chapter labels and repeated English renderings against `GLOSSARY.md` and audited Tamil context.
+Scan 160 begins a new elephant/terrain/strength vignette after the clean **159→160** boundary. Reconcile terminology against `GLOSSARY.md` and the audited Tamil context; do not promote pages to `editorial-reviewed` at this gate.
 
-Next after GR2: **GR3 scans 142–156 / printed 125–139**.
+After GR3, the final glossary remainder is **GR4 scans 193–222 / printed 176–205 — 30 pages**.
+
+Do not begin editorial review until glossary reconciliation reaches 111/111. Do not begin Part 003 before Part 002 English review/release and final Part closure are complete.
 
 See `TRANSLATION_STATUS.md` for the authoritative detailed frontier.
