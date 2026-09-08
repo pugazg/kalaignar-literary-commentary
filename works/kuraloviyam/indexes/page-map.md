@@ -8,7 +8,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
 | 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **SOURCE INTAKE PASS / COMPLETE; Tamil Pass 1 ACTIVE — 55/111 captured** |
+| 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **SOURCE INTAKE PASS / COMPLETE; Tamil Pass 1 ACTIVE — 66/111 captured** |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
 | 006 | 556–666 | 1–111 | not yet inspected | not-started |
@@ -162,7 +162,8 @@ Current Pass-1 boundary chain:
 - **244→245 clean**;
 - **255→256 clean**;
 - **266→267 genuine continuation** — scan 266 begins the trade/separation vignette and scan 267 continues it;
-- **277→278 clean** — scan 277 closes the nettilingam-tree / drunken-climber vignette and scan 278 begins a new illustrated vignette.
+- **277→278 clean** — scan 277 closes the nettilingam-tree / drunken-climber vignette and scan 278 begins a new illustrated vignette;
+- **288→289 genuine continuation** — scan 288 begins the Valluvar / renunciation vignette and scan 289 continues it.
 
 Outgoing intake witness:
 
@@ -177,23 +178,23 @@ Part 003 Pass 1 user-directed cadence:
 - P3-03: **245–255 / printed 228–238 — COMPLETE**;
 - P3-04: **256–266 / printed 239–249 — COMPLETE**;
 - P3-05: **267–277 / printed 250–260 — COMPLETE**;
-- P3-06: **278–288 / printed 261–271 — NEXT**;
-- P3-07: **289–299 / printed 272–282**;
+- P3-06: **278–288 / printed 261–271 — COMPLETE**;
+- P3-07: **289–299 / printed 272–282 — NEXT**;
 - P3-08: **300–310 / printed 283–293**;
 - P3-09: **311–321 / printed 294–304**;
 - P3-10: **322–332 / printed 305–315**;
 - final remainder: **333 / printed 316**.
 
-Current Part 003 Pass-1 inventory: **55 / 111 records captured — scans 223–277 / printed 206–260**. All remain `needs-review` / `visual_fidelity: needs-review`.
+Current Part 003 Pass-1 inventory: **66 / 111 records captured — scans 223–288 / printed 206–271**. All remain `needs-review` / `visual_fidelity: needs-review`.
 
-P3-05 source units:
+P3-06 source units:
 
-- **267 / 250** — closes trade / separation begun on scan 266; Chapter 122 / Kural 1220;
-- **268–269 / 251–252** — public water-tank / youths / patient elder; Chapter 16 / Kural 155;
-- **270–271 / 253–254** — Ilamathi / Thirumathi lovers' quarrel; Chapter 133 / Kural 1327;
-- **272–273 / 255–256** — Ramayana-discourse / caste-and-conduct; Chapter 14 / Kural 133;
-- **274–275 / 257–258** — returning-prince / separation; Chapter 127 / Kural 1267;
-- **276–277 / 259–260** — nettilingam-tree / drunken-climber autobiographical vignette; Chapter 48 / Kural 476.
+- **278–279 / 261–262** — Killi / Nalli lovers' quarrel and flood-swimmer analogy; Chapter 129 / Kural 1287;
+- **280–281 / 263–264** — household cleanliness / foolishness; Chapter 84 / Kural 840;
+- **282–283 / 265–266** — union / self-earned-sharing; Chapter 111 / Kural 1107;
+- **284–285 / 267–268** — two-poets / ruler-and-counsel; Chapter 45 / Kural 448;
+- **286–287 / 269–270** — war-separation / beloved's fame; Chapter 120 / Kural 1199;
+- **288 / 271** — Valluvar / renunciation begins; genuine continuation to scan 289.
 
 Durable intake: `../SOURCE_INTAKE_PART_003.md`.  
 Durable Pass 1 progress: `../PART_003_PASS1_PROGRESS.md`.
@@ -233,6 +234,7 @@ Durable Pass 1 progress: `../PART_003_PASS1_PROGRESS.md`.
 - **255→256** clean;
 - **266→267** genuine continuation;
 - **277→278** clean; scan 278 begins a new illustrated vignette;
+- **288→289** genuine continuation; scan 289 continues the Valluvar / renunciation vignette begun on scan 288;
 - scan **333 / printed 316** closes the final visible Part 003 unit; **333→334** remains deferred.
 
 Durable Part 002 Pass 2A record: `../PASS2_TEXTUAL_VERIFICATION_PART_002.md`.
@@ -265,7 +267,7 @@ Part 002:
 Part 003:
 
 - source intake — **PASS / COMPLETE**;
-- Pass 1 — **ACTIVE, 55/111 captured through scan 277 / printed 260**;
+- Pass 1 — **ACTIVE, 66/111 captured through scan 288 / printed 271**;
 - Pass 2A — not-started;
 - Pass 2B — not-started;
 - Pass 3 — not-started;
@@ -279,8 +281,8 @@ Part 003:
 
 **Part 002: Tamil + English CLOSED.**
 
-**Part 003: SOURCE INTAKE COMPLETE / TAMIL PASS 1 ACTIVE — 55/111.**
+**Part 003: SOURCE INTAKE COMPLETE / TAMIL PASS 1 ACTIVE — 66/111.**
 
 User-directed normal Part 003 page-batched iteration size: **11 physical scan pages**.
 
-Exact next activity: **P3-06 — Part 003 Pass 1 scans 278–288 / printed 261–271, 11 page-aligned Tamil records**. Begin scan **278 / printed 261** as the new illustrated vignette confirmed by the P3-05 outgoing boundary witness. Use scan **289 / printed 272** only as a boundary witness when needed. Do not infer the external **333→334** boundary before Part 004 is supplied.
+Exact next activity: **P3-07 — Part 003 Pass 1 scans 289–299 / printed 272–282, 11 page-aligned Tamil records**. Begin scan **289 / printed 272** as the direct continuation of the Valluvar / renunciation vignette begun on scan 288. Use scan **300 / printed 283** only as a boundary witness when needed. Do not infer the external **333→334** boundary before Part 004 is supplied.
