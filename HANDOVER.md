@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 003 Pass 1 through P3-07 / scan 299**: **2026-09-08**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
+Last refreshed for Kuraloviyam **Part 003 Pass 1 through P3-08 / scan 310**: **2026-09-08**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
 
 ## Repository
 
@@ -237,7 +237,7 @@ Source intake: **PASS / COMPLETE**.
 
 User-directed normal iteration size: **11 physical scans**.
 
-Current capture state: **77 / 111 scans — overall scans 223–299 / printed 206–282**.
+Current capture state: **88 / 111 scans — overall scans 223–310 / printed 206–293**.
 
 Completed batches:
 
@@ -247,7 +247,8 @@ Completed batches:
 - **P3-04 scans 256–266 / printed 239–249 — COMPLETE**;
 - **P3-05 scans 267–277 / printed 250–260 — COMPLETE**;
 - **P3-06 scans 278–288 / printed 261–271 — COMPLETE**;
-- **P3-07 scans 289–299 / printed 272–282 — COMPLETE**.
+- **P3-07 scans 289–299 / printed 272–282 — COMPLETE**;
+- **P3-08 scans 300–310 / printed 283–293 — COMPLETE**.
 
 Current internal boundaries:
 
@@ -257,20 +258,20 @@ Current internal boundaries:
 - **266→267 genuine continuation**;
 - **277→278 clean**;
 - **288→289 genuine continuation**;
-- **299→300 clean**.
+- **299→300 clean**;
+- **310→311 clean**.
 
 All Part-003 Pass-1 records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`. Pass 1 is capture/transcription only; do not claim source verification.
 
-P3-07 source units:
+P3-08 source units:
 
-- scan 289 — closes Valluvar / renunciation begun on scan 288; Chapter 35 / Kurals 347, 350;
-- scans 290–291 — Ponni / Thamarai waiting; Chapter 127 / Kural 1269;
-- scans 292–293 — altered-Kural / friendship; Chapter 53 / Kural 521;
-- scans 294–295 — woodcutter / one-day-separation; Chapter 127 / Kural 1264;
-- scans 296–297 — defeated-army / enduring-military-strength; Chapter 77 / Kural 762;
-- scans 298–299 — Mullai-kodi / Mukilan fisher-couple separation-and-dream; Chapter 122 / Kural 1218.
+- scans 300–302 — Thirumagal / Moodevi labour-and-idleness; Chapter 62 / Kural 617;
+- scans 303–304 — Thingal / Sevvai love-separation, `ஊடல்`, and union; Chapter 126 / Kurals 1256, 1260, 1257;
+- scans 305–306 — Ezhini / Valanadu betrayal-and-useless-speech; Chapter 20 / Kural 191;
+- scans 307–308 — Vanchikkodi / Kadamban harvest-field separation-and-heart; Chapter 130 / Kural 1300;
+- scans 309–310 — autobiographical 1982 Madurai-to-Tiruchendur justice march; Chapters 60 and 63 / Kurals 594 and 624.
 
-Scan 298 was source-rechecked and preserves visible `ஒருவருக் கொருவர்`; scan 299 preserves visible `துஞ்சுங்கால் தோள் மேலராகி விழிக்குங்கால்`.
+P3-08 was transcribed from rendered scans with targeted close visual checks on uncertain readings on scans 302, 305, 308, 309, and 310.
 
 The external **333→334** boundary remains deferred until Part 004 intake; do not infer it.
 
@@ -279,13 +280,13 @@ The external **333→334** boundary remains deferred until Part 004 intake; do n
 1. fetch live `main`;
 2. complete the Kuraloviyam mandatory startup reading above;
 3. resolve the supplied Part 003 PDF;
-4. process **P3-08 — overall scans 300–310 / printed 283–293, 11 physical pages**;
-5. begin scan **300 / printed 283** as the new illustrated vignette confirmed by the P3-07 outgoing boundary witness;
-6. create page-aligned Tamil records only for scans 300–310;
+4. process **P3-09 — overall scans 311–321 / printed 294–304, 11 physical pages**;
+5. begin scan **311 / printed 294** as the new illustrated love vignette confirmed by the P3-08 outgoing boundary witness;
+6. create page-aligned Tamil records only for scans 311–321;
 7. preserve exact visible source wording, punctuation, paragraph/dialogue structure, Kural blocks, printed metadata and illustration/text relationships;
 8. keep new records at `needs-review` / `visual_fidelity: needs-review` unless a genuine source limitation requires otherwise;
 9. do not normalize, modernize, import standard/web Kural wording, use another edition, or guess from OCR/memory;
-10. inspect scan **311 / printed 294** only as a boundary witness when needed;
+10. inspect scan **322 / printed 305** only as a boundary witness when needed;
 11. synchronize Kuraloviyam progress/frontier documents and audit the exact changed-file set before advancing.
 
-Next after successful P3-08: **P3-09 scans 311–321 / printed 294–304**.
+Next after successful P3-09: **P3-10 scans 322–332 / printed 305–315**.
