@@ -66,7 +66,8 @@ Current internal frontier:
 - **255→256 clean**;
 - **266→267 genuine continuation** — scan 266 begins the trade/separation vignette and scan 267 continues the same sentence/unit;
 - **277→278 clean** — scan 277 closes the nettilingam-tree / drunken-climber vignette with Chapter 48 / Kural 476; scan 278 begins a new illustrated vignette;
-- **288→289 genuine continuation** — scan 288 begins the Valluvar / renunciation vignette and scan 289 continues the same unit.
+- **288→289 genuine continuation** — scan 288 begins the Valluvar / renunciation vignette and scan 289 continues the same unit;
+- **299→300 clean** — scan 299 closes the Mullai-kodi / Mukilan fisher-couple dream vignette with Chapter 122 / Kural 1218; scan 300 begins a new illustrated vignette.
 
 Outgoing **333→334 remains deferred** until Part 004 is supplied. Scan 333 / printed 316 closes the final visible Part 003 unit with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567.
 
@@ -81,11 +82,11 @@ Completed:
 - P3-03: **245–255 / printed 228–238 — COMPLETE 11/11**;
 - P3-04: **256–266 / printed 239–249 — COMPLETE 11/11**;
 - P3-05: **267–277 / printed 250–260 — COMPLETE 11/11**;
-- P3-06: **278–288 / printed 261–271 — COMPLETE 11/11**.
+- P3-06: **278–288 / printed 261–271 — COMPLETE 11/11**;
+- P3-07: **289–299 / printed 272–282 — COMPLETE 11/11**.
 
 Remaining:
 
-- P3-07: **289–299 / printed 272–282**;
 - P3-08: **300–310 / printed 283–293**;
 - P3-09: **311–321 / printed 294–304**;
 - P3-10: **322–332 / printed 305–315**;
@@ -93,21 +94,23 @@ Remaining:
 
 ## Part 003 Pass 1 — ACTIVE
 
-**66 / 111 scans captured — scans 223–288 / printed 206–271.**
+**77 / 111 scans captured — scans 223–299 / printed 206–282.**
 
-All 66 page records exist under `works/kuraloviyam/pages/` and remain at:
+All 77 page records exist under `works/kuraloviyam/pages/` and remain at:
 
 - `status: "needs-review"`
 - `visual_fidelity: "needs-review"`
 
-P3-06 captured:
+P3-07 captured:
 
-- scans **278–279** — Killi / Nalli lovers' quarrel and flood-swimmer analogy; Chapter 129 / Kural 1287;
-- scans **280–281** — household cleanliness / foolishness vignette; Chapter 84 / Kural 840;
-- scans **282–283** — union / self-earned-sharing vignette; Chapter 111 / Kural 1107;
-- scans **284–285** — two-poets / ruler-and-counsel vignette; Chapter 45 / Kural 448;
-- scans **286–287** — war-separation / beloved's fame vignette; Chapter 120 / Kural 1199;
-- scan **288** — Valluvar / renunciation vignette begins and continues directly to scan 289.
+- scan **289** — closes the Valluvar / renunciation vignette begun on scan 288; Chapter 35 / Kurals 347, 350;
+- scans **290–291** — Ponni / Thamarai waiting vignette; Chapter 127 / Kural 1269;
+- scans **292–293** — altered-Kural / friendship vignette; Chapter 53 / Kural 521;
+- scans **294–295** — woodcutter / one-day-separation vignette; Chapter 127 / Kural 1264;
+- scans **296–297** — defeated-army / enduring-military-strength vignette; Chapter 77 / Kural 762;
+- scans **298–299** — Mullai-kodi / Mukilan fisher-couple separation-and-dream vignette; Chapter 122 / Kural 1218.
+
+Scan 298 was source-rechecked before closure and preserved the visible spacing `ஒருவருக் கொருவர்`. Scan 299 was source-rechecked and preserved the visible Kural line `துஞ்சுங்கால் தோள் மேலராகி விழிக்குங்கால்`; both remain Pass-1 `needs-review` records and were not promoted.
 
 ## Pass 1 rules
 
@@ -123,15 +126,15 @@ For each page:
 - do not import standard/web Kural wording, another edition, OCR guesses or memory;
 - do not claim Pass 2A, Pass 2B or Pass 3 verification during Pass 1.
 
-## Exact next activity — Part 003 Pass 1 / P3-07
+## Exact next activity — Part 003 Pass 1 / P3-08
 
-Process **overall scans 289–299 / printed 272–282 — 11 pages** in one iteration.
+Process **overall scans 300–310 / printed 283–293 — 11 pages** in one iteration.
 
-Scan **289 / printed 272** is the direct continuation of the Valluvar / renunciation vignette begun on scan 288 and must begin P3-07 accordingly. Use the supplied Part 003 PDF directly. Inspect scan **300 / printed 283** only as a boundary witness when needed; do not create its page record during P3-07.
+Scan **300 / printed 283** begins a new illustrated vignette, confirmed as the clean outgoing boundary witness during P3-07. Use the supplied Part 003 PDF directly. Inspect scan **311 / printed 294** only as a boundary witness when needed; do not create its page record during P3-08.
 
-After P3-07:
+After P3-08:
 
 1. update `PART_003_PASS1_PROGRESS.md`, README, handover, next-chat prompt and page map/frontier;
 2. audit the exact changed-file set;
 3. confirm all 11 new page records remain appropriate Pass-1 statuses;
-4. set P3-08 scans 300–310 as the next activity.
+4. set P3-09 scans 311–321 as the next activity.
