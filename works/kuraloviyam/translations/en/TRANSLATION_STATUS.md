@@ -17,7 +17,7 @@ Permanent gate order:
 
 ### Current user-directed iteration cadence
 
-Process **33 physical scan pages per normal iteration**. Historical completed batches retain their recorded sizes. A final Part remainder may be shorter.
+Process **33 physical scan pages per normal iteration**. Historical completed batches retain their recorded sizes. A final Part remainder may be shorter. Part-level review is a whole-Part gate rather than a page batch.
 
 ## Part 001 — CLOSED
 
@@ -34,12 +34,12 @@ Final Tamil state: **111 textual verified / 111 visual verified / 0 exceptions**
 - first-pass drafting: **111/111 — COMPLETE**;
 - source-check: **111/111 — COMPLETE / CLOSED**;
 - glossary reconciliation: **111/111 — COMPLETE / CLOSED**;
-- editorial review: **99/111 — ACTIVE**;
-- Part-level English review: not started;
+- editorial review: **111/111 — COMPLETE / CLOSED**;
+- Part-level English review: **READY / NEXT**;
 - release report: not started;
 - release-ready: **0/111**.
 
-There are **0 remaining `draft` pages** in Part 002. Scans **112–210** are now `editorial-reviewed`; scans **211–222** remain `source-checked` pending the final editorial-review remainder.
+There are **0 remaining `draft` pages** and **0 remaining `source-checked` pages** in Part 002. All scans **112–222** are now `editorial-reviewed`.
 
 ## Source-check batches — CLOSED
 
@@ -63,54 +63,58 @@ Source-check closed at **111/111** with no remaining draft pages. No Tamil archi
 
 Part 002 glossary reconciliation is **COMPLETE / CLOSED at 111/111**. `GLOSSARY.md` carries only terminology evidenced in the audited project source; no external/published/web terminology was imported.
 
-## Editorial-review batches
+## Editorial-review batches — CLOSED
 
 ### ER1 — COMPLETE
 
-**Scans 112–144 / printed 95–127 — 33/33.**
-
-All 33 pages passed and were promoted from `source-checked` to `editorial-reviewed`. Material source-faithful wording improvements were made on scans **113, 120, 127, 142 and 143**.
+**Scans 112–144 / printed 95–127 — 33/33.** Material source-faithful wording improvements were made on scans **113, 120, 127, 142 and 143**.
 
 ### ER2 — COMPLETE
 
-**Scans 145–177 / printed 128–160 — 33/33.**
-
-All 33 pages passed. Material source-faithful wording improvements were made on scans **146, 150, 157, 161, 169, 171 and 176**. Illustration-only scan **177** remains correctly inside the genuine **176→177→178** continuation.
+**Scans 145–177 / printed 128–160 — 33/33.** Material source-faithful wording improvements were made on scans **146, 150, 157, 161, 169, 171 and 176**.
 
 ### ER3 — COMPLETE
 
-**Scans 178–210 / printed 161–193 — 33/33.**
+**Scans 178–210 / printed 161–193 — 33/33.** Material source-faithful wording improvements were made on scans **178, 184, 185, 189 and 201**.
 
-All 33 pages passed the editorial gate and were promoted from `source-checked` to `editorial-reviewed`.
+### ER4 — COMPLETE / FINAL REMAINDER
+
+**Scans 211–222 / printed 194–205 — 12/12.**
+
+All 12 pages passed the editorial gate and were promoted from `source-checked` to `editorial-reviewed`.
 
 Material source-faithful editorial improvements:
 
-1. **scan 178 / printed 161** — made the rhetorical close idiomatic as **It is Valluvar who makes her say it!** while preserving the source's emphatic question-and-answer movement;
-2. **scan 184 / printed 167** — repaired the awkward elderly-people sentence to **Elderly people lay on the verandas of their homes, wrapped up, their bodies trembling**, preserving `கிழங்கள், நடுங்கும் மேனியைப் போர்த்துக்கொண்டு...`;
-3. **scan 185 / printed 168** — changed **questioned his assistant to clear his doubt** to **asked his assistant to resolve his doubt**, and **Just as he said** to **Just as he had said**;
-4. **scan 189 / printed 172** — corrected the snake sentence from **sinks in its poisonous fang** to **sinks its poisonous fang into it**, matching `தன்னுடைய நச்சுப் பல்லை அழுத்திவிடும்`;
-5. **scan 201 / printed 184** — rendered `மெய்மறந்து` naturally as **Losing all awareness of herself**, replacing the awkward **Lost to herself**.
+1. **scan 211 / printed 194** — repaired the siege question to **without even their knowing it?**, preserving `அவர்களையுமறியாமல்`;
+2. **scan 212 / printed 195** — made the banishment sentence idiomatic as **banished Thennavan alone from the country**, preserving `தென்னவனைத் தனிப்பொருளாக நாடு கடத்தி`;
+3. **scan 215 / printed 198** — restructured the opening war-drum sentence for readable English while preserving the source images of army-foliage, pooled red blood, elephant-trampled mire and the planting of enemy heads;
+4. **scan 218 / printed 201** — simplified the salt analogy to **food with a little too much salt**, preserving the source comparison;
+5. **scan 219 / printed 202** — repaired the closing literary image to **The moment has come for the stylus to be taken up**, preserving `எழுத்தாணியைக் கையில் எடுத்துவிட்ட வேளை`;
+6. **scan 220 / printed 203** — made the direct question idiomatic as **Are you astonished at me?**;
+7. **scan 221 / printed 204** — rendered `நாளைக்குப் பார்த்துக் கொள்ளலாம்` naturally as **we can think about tomorrow when it comes**;
+8. **scan 222 / printed 205** — made `நெஞ்சைப் பறிகொடுத்திருந்தனர்` and the medicine image idiomatic as **both had already lost their hearts to it** and **is there not medicine mixed to cure my sickness of love?**.
 
-No other ER3 page required wording change. Controlled terminology, names, chapter/Kural metadata, visual/non-body descriptions and page functions passed.
+No other ER4 page required wording change. Controlled terminology, names, chapter/Kural metadata, visual/non-body descriptions and page functions passed.
 
-Continuity was preserved throughout ER3. Scan **178** directly closes the vignette begun across editorial-reviewed scans **176–177**. Scan **203 / printed 186** remains a full-page illustration inside the genuine **202→203→204** source unit. The **210→211** boundary is clean; scan **211** was inspected only as the next-batch boundary witness and remains `source-checked` for ER4.
+Continuity remained source-faithful throughout the final range: **210→211 clean; 211→212 genuine; 212→213 clean; 213→214 genuine; 214→215 clean; 215→216 genuine; 216→217 clean; 217→218 genuine; 218→219 clean; 219→220 genuine; 220→221 clean; 221→222 genuine**. Scan **222 / printed 205** closes the pastoral/ayar-community vignette and is the final physical scan of Part 002.
 
 No Tamil archival record changed. No publisher/standard/web English wording was imported.
 
-## Current frontier — editorial review ER4
+## Current frontier — Part 002 Part-level English review
 
-Proceed with **Part 002 English editorial review ER4: scans 211–222 / printed 194–205 — final 12 records**.
+Editorial review is now **111/111 COMPLETE / CLOSED**. Proceed with the **Part 002 Part-level English review** across the completed Part as a whole.
 
-Requirements:
+Required durable output: `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_REVIEW.md`.
 
-1. use the complete source-checked + glossary-reconciled English layer as working text, with audited Tamil records as source-faithfulness authority;
-2. scan 211 begins a new enemy-siege/treachery vignette at the clean **210→211** boundary;
-3. review readability, grammar, style, internal coherence, repeated terminology, chapter/Kural metadata, visual/non-body descriptions and cross-page transitions without changing source meaning;
-4. preserve source-supported Tamil-specific terms and names according to `GLOSSARY.md`;
-5. preserve genuine continuities, including final **221→222**;
-6. do not import publisher/standard/web English Kural wording or external-edition prose;
-7. promote a page from `source-checked` to `editorial-reviewed` only after it passes this gate;
-8. do not change Tamil archival records;
-9. synchronize status/frontier and audit the exact changed-file set after ER4.
+The Part-level review must:
 
-After ER4 reaches **111/111**, begin the **Part 002 Part-level English review** as a whole-Part gate; do not begin Part 003 before Part review, release report and final Part closure are complete.
+1. verify one-to-one Tamil/English page inventory and filename alignment for scans **112–222**;
+2. verify final English statuses are exactly **111 `editorial-reviewed`**, with **0 `source-checked`, 0 `draft`, 0 `source-limited`, 0 `blocked`, 0 `release-ready`** before release;
+3. review Part-scale controlled terminology, names, chapter/Kural metadata and Kural-block separation against `GLOSSARY.md`;
+4. verify visual/non-body page functions, including illustration-only scan **203** and library-stamp separation on **217–218**;
+5. verify accumulated genuine continuities and clean boundaries through final **221→222**;
+6. record any documentation-only remediation discovered during the whole-Part check;
+7. do **not** promote pages to `release-ready` at this gate;
+8. do not reopen Tamil or import external/published/web wording unless a genuinely new fidelity issue is discovered.
+
+If the Part-level review passes, the next gate is the **Part 002 English release report**. Part 003 remains blocked until Part 002 release and final Part closure are complete.
