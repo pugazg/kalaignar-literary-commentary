@@ -63,13 +63,13 @@ Defaults are context-aware. If a later passage requires a different rendering to
 |---|---|---|
 | கடவுள் வாழ்த்து | Praise of God | Source-supported chapter label used on scans 35–36. |
 | இல்வாழ்க்கை | Domestic Life | Chapter 5 label on scan 36. |
-| பொழுதுகண்டு இரங்கல் | Lamenting at the Sight of Evening | Chapter 123 label on scan 38; reused unchanged on Part 002 scan 137. |
+| பொழுதுகண்டு இரங்கல் / பொழுதுகண்டிரங்கல் | Lamenting at the Sight of Evening | Chapter 123 label on scan 38; reused unchanged on Part 002 scans 137 and 188, where scan 188 carries the closed source variant `பொழுதுகண்டிரங்கல்`. |
 | மக்கட்பேறு | The Blessing of Children | Chapter 7 label on scan 40. |
 | கல்வி | Education | Chapter 40 label on scans 42 and 96. Part 001 GR7 reconciled scan 96 from `Learning` to this controlled label. |
 | மெய்யுணர்தல் | Realization of Truth | Chapter 36 label on scan 42. |
 | குறிப்பறிதல் | Reading the Sign | Chapter 110 label on scan 44. |
 | வினைத்திட்பம் | Firmness in Action | Chapter 67 label on scan 47. |
-| தனிப்படர் மிகுதி | The Agony of Solitary Love | Chapter 120 label on scan 49. |
+| தனிப்படர் மிகுதி / தனிப்படர்மிகுதி | The Agony of Solitary Love | Chapter 120 label on scan 49; Part 002 scan 165 uses the closed source variant `தனிப்படர்மிகுதி` with the same controlled English label. |
 | அறன் வலியுறுத்தல் | The Insistence on Virtue | Chapter 4 label on scan 51. |
 | நலம் புனைந்துரைத்தல் | Praising Her Beauty | Chapter 112 label cited on scans 55 and 71. |
 | புணர்ச்சி மகிழ்தல் | The Joy of Union | Chapter 111 label on scan 55. |
@@ -209,7 +209,7 @@ Part 001 glossary reconciliation is **COMPLETE — 111/111 scans**.
 
 No standard/published/web English Kural terminology was imported during Part 001 glossary reconciliation.
 
-## Part 002 recurring-term controls encountered through scan 159
+## Part 002 recurring-term controls encountered through scan 192
 
 | Tamil | Default English | Editorial note |
 |---|---|---|
@@ -217,19 +217,22 @@ No standard/published/web English Kural terminology was imported during Part 001
 | அக்கா | akka / elder sister | Context-aware kinship/direct-address term in scans 140–141. Preserve **akka** in intimate dialogue where the relationship is already clear; use **elder sister** where explanatory prose requires it. |
 | அத்தான் | Atthaan / husband / brother-in-law / beloved / my dear | Highly context-sensitive relationship/direct-address term across Part 002. Do not force one English equivalent mechanically; infer only from the audited relationship in the immediate passage. |
 | உணர்த்தும் = நீக்கும் | `unarththum` = removes | Source-printed lexical note on scan 153 specifically glosses `உணர்த்தும்` as `நீக்கும்`; preserve that page-specific gloss without treating **removes** as a universal translation of the word in every context. |
+| காவடி / பார்காவடி | kavadi / paar-kavadi | Scan 165 uses the culturally specific carrying-frame image and explicitly names `பார்காவடி`; retain the source-checked transliteration rather than replacing it with a generic object name. |
+| கஜேந்திர மோட்சம் | Gajendra Moksha | Named Puranic story on scan 160; retain the source-checked proper-name form. |
+| குறுந்தொகை | Kurunthogai | Classical work named on scans 191–192; retain the source-checked transliteration and do not import a different scholarly romanization at this gate. |
 
-## Thirukkural chapter labels encountered in Part 002 through scan 159
+## Thirukkural chapter labels encountered in Part 002 through scan 192
 
 | Tamil | Default English | Editorial note |
 |---|---|---|
-| ஊடலுவகை | Joy of Lovers' Quarrel | Chapter 133; scans 113 and 155 use this controlled label. |
+| ஊடலுவகை | Joy of Lovers' Quarrel | Chapter 133; scans 113, 155 and 192 use this controlled label. |
 | கல்லாமை | Lack of Learning | Chapter 41 label on scan 115. |
 | புணர்ச்சி விதும்பல் | Yearning for Union | Chapter 129 label on scans 116 and 120. |
 | வாய்மை | Truthfulness | Chapter 30 label on scan 118. |
 | தெரிந்து தெளிதல் | Knowing and Trusting | Chapter 51 label on scan 123. |
-| நெஞ்சொடு புலத்தல் | Chiding the Heart | Chapter 130 label on scan 125. |
+| நெஞ்சொடு புலத்தல் | Chiding the Heart | Chapter 130 label on scans 125 and 169. |
 | கூடா நட்பு | False Friendship | Chapter 83 label on scan 127. |
-| புலவி நுணுக்கம் | Subtleties of Lovers' Quarrel | Chapter 132 label on scans 129 and 133. |
+| புலவி நுணுக்கம் | Subtleties of Lovers' Quarrel | Chapter 132 label on scans 129, 133 and 183. |
 | இனியவை கூறல் | Speaking Pleasant Words | Chapter 10 label on scan 131. |
 | கேள்வி | Listening | Chapter 42 label on scan 135. |
 | காலம் அறிதல் | Knowing the Proper Time | Chapter 49 label on scan 139. |
@@ -240,10 +243,19 @@ No standard/published/web English Kural terminology was imported during Part 001
 | பிறனில் விழையாமை | Not Desiring Another's Wife | Chapter 15 label on scan 152. |
 | அறிவுடைமை | Wisdom | Chapter 43 label on scan 157. |
 | பிரிவாற்றாமை | Inability to Bear Separation | Chapter 116 label on scan 159. |
+| இடனறிதல் | Knowing the Place | Chapter 50 label on scan 161. |
+| புறங்கூறாமை | Refraining from Slander | Chapter 19 label on scan 163. |
+| ஆள்வினையுடைமை | Diligent Effort | Chapter 62 label on scans 167 and 186. |
+| கண்ணோட்டம் | Gracious Regard | Chapter 58 label on scan 171. |
+| குறிப்பறிவுறுத்தல் | Making the Sign Understood | Chapter 128 label on scan 173. |
+| ஊக்கம் உடைமை | Possession of Resolve | Chapter 60 label on scan 175. |
+| இடுக்கண் அழியாமை | Not Succumbing to Adversity | Chapter 63 label on scans 180 and 190. |
+| ஒற்றாடல் | Espionage | Chapter 59 label on scan 180. |
+| ஊழ் | Fate | Chapter 38 label on scan 186. |
 
-Existing Part 001 controls are reused unchanged when the same Tamil chapter label reappears, including **Lamenting at the Sight of Evening** (`பொழுதுகண்டு இரங்கல்`, Part 002 scan 137) and **False Conduct** (`கூடாவொழுக்கம்`, Part 002 scan 143).
+Existing Part 001 controls are reused unchanged when the same Tamil chapter label reappears, including **The Agony of Solitary Love** (`தனிப்படர் மிகுதி / தனிப்படர்மிகுதி`, Part 002 scan 165), **Lamenting in Wasting Longing** (`படர்மெலிந்திரங்கல்`, scan 178), **Lamenting at the Sight of Evening** (`பொழுதுகண்டு இரங்கல் / பொழுதுகண்டிரங்கல்`, scans 137 and 188), and **False Conduct** (`கூடாவொழுக்கம்`, scan 143).
 
-## People / narrative names encountered in Part 002 through scan 159
+## People / narrative / historical names encountered in Part 002 through scan 192
 
 | Tamil | Default English form | Editorial note |
 |---|---|---|
@@ -254,6 +266,30 @@ Existing Part 001 controls are reused unchanged when the same Tamil chapter labe
 | நெளிந்தான் | Nelindhan | Character name across scans 150–152. Preserve the transliterated name; translate the source's explicit later wordplay contextually. |
 | மாவெண்கோ | Maavengko | Merchant/lover in scans 158–159. Preserve transliteration consistently. |
 | மாங்கனி | Maangani | Maavengko's companion in scans 158–159. Preserve transliteration consistently. |
+| நாராயணன் / நாராயணா | Narayana | Scan 160; use `Narayana` for both ordinary and vocative source occurrences. |
+| மகாவிஷ்ணு | Maha Vishnu | Scan 160; retain the source-checked deity-name form. |
+| அனந்த சயனன் | Anantha-Sayanan | Scan 160; retain the source-checked transliteration. |
+| பரந்தாமன் | Parandhaman | Scan 160; retain the source-checked transliteration. |
+| சிவாஜி | Shivaji | Historical figure named on scan 161; retain the source-checked English form. |
+| காகப்பட்டர் | Kakabhattar | Vaidika leader named on scan 161; retain the source-checked transliteration without importing an alternate romanization. |
+| சீசர் | Caesar | Historical figure named on scan 161. |
+| ஆண்டனி | Antony | Historical figure named on scan 161. |
+| கிளியோபாட்ரா | Cleopatra | Historical figure named on scan 161. |
+| மலையன் / மலையா | Malaiyan / Malaiya | Character across scans 162–163; use `Malaiya` for direct address. |
+| சிலம்பன் | Silamban | Character across scans 162–163. |
+| கலிங்கன் / கலிங்கா | Kalingan / Kalinga | Same controlled transliteration as the earlier Part 001 narrative name; Part 002 scans 162–163 use another character with this name. Do not infer identity across vignettes. |
+| கலை | Kala | Woman named across scans 168–169. |
+| தோகை | Thogai | Kala's friend across scans 168–169. |
+| சாக்ரடீஸ் | Socrates | Historical/philosophical figure across scans 170–171; retain the source-checked English name. |
+| மெலிட்டஸ் | Meletus | Socrates' accuser named on scan 171; retain the source-checked English name. |
+| எக்சேந்திப்பி | Xanthippe | Socrates' wife named on scan 171; retain the source-checked English name. |
+| வேங்கை | Vengai | Husband/lover across scans 172–173. |
+| ஏந்திழை | Enthizhai | Vengai's young wife across scans 172–173. |
+| வீரன் | Veeran | Vengai's friend named on scan 173. |
+| ஒதியன் / ஒதியா | Othiyan / Othiya | First spy across scans 179–180; use `Othiya` in direct address. |
+| இனியன் / இனியா | Iniyan / Iniya | Second spy across scans 179–180; use `Iniya` in direct address. |
+| சிங்கன் | Singan | Young man in the flood/rescue vignette across scans 185–186. |
+| அஞ்சுகத்தம்மை | Anjugathammai | Kalaignar's mother as explicitly named in scan 190. Keep this source form distinct from Part 001 `அஞ்சுக அன்னை` → **Mother Anjugam**. |
 
 ## Part 002 GR1 reconciliation record — scans 112–126
 
@@ -280,6 +316,20 @@ At the user's revised cadence, GR2 processed **33 consecutive pages: scans 127�
 - existing controls for **Book of Aram**, **Book of Love**, **lovers' quarrel**, **lovers' union**, **yaazh**, **Lamenting at the Sight of Evening**, and **False Conduct** were confirmed and retained contextually;
 - new source-supported controls were recorded for the chapter labels encountered through scan 159, the narrative names **Medical Sigamani**, **Thelindhan**, **Nelindhan**, **Maavengko**, **Maangani**, and the context-sensitive kinship/direct-address terms **akka** and **Atthaan**;
 - source-supported cross-page continuities were preserved throughout the 33-page range, including 128→129, 130→131, 132→133, 134→135, 136→137, 138→139, 140→141, 142→143, 144→145, 146→147, 148→149, 150→151→152, 154→155, 156→157 and 158→159; scan **159→160** is a clean boundary and scan 160 was inspected only as the next-batch witness;
+- no page status changed from `source-checked`, no Tamil archival record changed, and no external/published/web English terminology was imported.
+
+## Part 002 GR3 reconciliation record — scans 160–192
+
+GR3 processed **33 consecutive pages: scans 160–192 / printed 143–175** at the current user-directed cadence.
+
+- scans **160–192** — terminology reconciliation **PASS, 33/33**;
+- English page wording corrections required solely for GR3 terminology consistency: **none**;
+- existing controls for **The Agony of Solitary Love**, **Diligent Effort**, **Chiding the Heart**, **Lamenting in Wasting Longing**, **Subtleties of Lovers' Quarrel**, **Lamenting at the Sight of Evening**, **Joy of Lovers' Quarrel**, **love-sickness**, **lovers' quarrel**, **lovers' union**, **yaazh**, `Kural / Kurals`, and context-sensitive **Atthaan** were confirmed and retained;
+- newly evidenced chapter-label controls were added for **Knowing the Place**, **Refraining from Slander**, **Gracious Regard**, **Making the Sign Understood**, **Possession of Resolve**, **Not Succumbing to Adversity**, **Espionage**, and **Fate**; Chapter 62 **Diligent Effort** was recorded for scans 167 and 186;
+- source variants `தனிப்படர்மிகுதி` and `பொழுதுகண்டிரங்கல்` were mapped to the existing Part 001 labels rather than creating duplicate English chapter names;
+- source-supported cultural/work controls **kavadi / paar-kavadi**, **Gajendra Moksha**, and **Kurunthogai** were added without importing external romanization;
+- source-supported personal/narrative forms were added for the Puranic/historical figures and Part 002 characters actually encountered through scan 192, including **Malaiyan / Malaiya**, **Silamban**, **Kala**, **Thogai**, **Socrates**, **Meletus**, **Xanthippe**, **Vengai**, **Enthizhai**, **Veeran**, **Othiyan / Othiya**, **Iniyan / Iniya**, **Singan**, and **Anjugathammai**;
+- source-supported continuity was preserved across 160→161, 162→163, 164→165, 166→167, 168→169, 170→171, 172→173, 174→175, 176→177→178, 179→180, 181→182→183, 184→185→186, 187→188, 189→190 and 191→192; scan **192→193** is a clean source boundary and scan 193 was inspected only as the next-batch witness;
 - no page status changed from `source-checked`, no Tamil archival record changed, and no external/published/web English terminology was imported.
 
 ## Review rule
