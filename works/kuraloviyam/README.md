@@ -10,7 +10,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
 | 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | **source intake PASS / COMPLETE; Tamil Pass 1 ACTIVE — 33/111 captured** |
+| 003 | 223–333 | **source intake PASS / COMPLETE; Tamil Pass 1 ACTIVE — 44/111 captured** |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
 | 006 | 556–666 | not-started |
@@ -56,27 +56,28 @@ The **222→223** boundary is resolved as **clean**. The external **333→334** 
 
 ### Part 003 Pass 1 state
 
-**33 / 111 scans captured — overall scans 223–255 / printed 206–238.** All records remain `needs-review` / `visual_fidelity: needs-review` as required for Pass 1.
+**44 / 111 scans captured — overall scans 223–266 / printed 206–249.** All records remain `needs-review` / `visual_fidelity: needs-review` as required for Pass 1.
 
 Completed batches:
 
 - **P3-01: scans 223–233 / printed 206–216 — COMPLETE 11/11**;
 - **P3-02: scans 234–244 / printed 217–227 — COMPLETE 11/11**;
-- **P3-03: scans 245–255 / printed 228–238 — COMPLETE 11/11**.
+- **P3-03: scans 245–255 / printed 228–238 — COMPLETE 11/11**;
+- **P3-04: scans 256–266 / printed 239–249 — COMPLETE 11/11**.
 
-P3-03 captured:
+P3-04 captured:
 
-- scans 245–247 — Maangani / Poonguzhali friendship, marriage and `ஊடல்`; Chapter 131 / Kurals 1306, 1309;
-- scans 248–249 — tiger-skin / cow deception and false-ascetic analogy; Chapter 28 / Kural 273;
-- scans 250–251 — lovers' quarrel / union; Chapter 129 / Kurals 1282, 1284, 1290;
-- scans 252–253 — harvest / neglected field / spouse-and-land `ஊடல்`; Chapter 104 / Kural 1039;
-- scans 254–255 — night-time fear / chastity / desire; Chapter 126 / Kural 1251.
+- scans **256–257** — poverty / fire vignette;
+- scans **258–259** — pottery / lovers vignette;
+- scans **260–261** — Alagan / harsh-aunt / orphan vignette; Chapter 13 / Kural 129;
+- scans **262–263** — moon / separation vignette; Chapter 114 / Kural 1140;
+- scans **264–265** — Nallaan / Vallaan bear-and-friendship vignette; Chapter 80 / Kural 796;
+- scan **266** — trade / separation vignette begins and continues directly to scan 267.
 
-Boundary state through the current frontier: **233→234 genuine; 244→245 clean; 255→256 clean.** Scan 256 / printed 239 was inspected only as the P3-03 boundary witness and begins a new illustrated vignette.
+Boundary state through the current frontier: **233→234 genuine; 244→245 clean; 255→256 clean; 266→267 genuine**. Scan **267 / printed 250** was inspected only as the P3-04 outgoing boundary witness and belongs to P3-05.
 
 ### Remaining 11-page Pass 1 cadence
 
-- P3-04: **256–266 / printed 239–249**;
 - P3-05: **267–277 / printed 250–260**;
 - P3-06: **278–288 / printed 261–271**;
 - P3-07: **289–299 / printed 272–282**;
@@ -89,4 +90,4 @@ Durable progress record: `PART_003_PASS1_PROGRESS.md`.
 
 ## Current frontier
 
-**Next activity: Part 003 Pass 1 / P3-04 — scans 256–266 / printed 239–249, 11 page-aligned Tamil records.** Scan 256 begins a new illustrated vignette after the clean **255→256** boundary. Use scan 267 / printed 250 only as a boundary witness when needed. Pass 1 records remain `needs-review` / `visual_fidelity: needs-review`; do not normalize or import standard Kural wording.
+**Next activity: Part 003 Pass 1 / P3-05 — scans 267–277 / printed 250–260, 11 page-aligned Tamil records.** Begin scan **267 / printed 250** as the direct continuation of scan 266. Use scan **278 / printed 261** only as a boundary witness when needed. Pass 1 records remain `needs-review` / `visual_fidelity: needs-review`; do not normalize or import standard Kural wording.
