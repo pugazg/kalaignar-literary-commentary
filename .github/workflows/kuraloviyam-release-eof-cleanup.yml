@@ -1,0 +1,47 @@
+name: Kuraloviyam release EOF cleanup
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/kuraloviyam-release-eof-cleanup.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Restore pre-release EOF form for scans 145-158
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          root = Path('works/kuraloviyam/translations/en/pages')
+          changed = []
+          for scan in range(145, 159):
+              printed = scan - 17
+              p = root / f'{scan:04d}-kuraloviyam-{printed}.md'
+              data = p.read_bytes()
+              if b'status: "release-ready"' not in data:
+                  raise SystemExit(f'Expected release-ready: {p}')
+              if not data.endswith(b'\n'):
+                  raise SystemExit(f'Expected one release-introduced final newline: {p}')
+              p.write_bytes(data[:-1])
+              changed.append(p)
+          print(f'Restored EOF form on {len(changed)} files without changing body text.')
+          PY
+      - name: Commit cleanup and remove one-time workflow
+        shell: bash
+        run: |
+          git config user.name 'pugazg'
+          git config user.email 'w46v654vvn@privaterelay.appleid.com'
+          rm .github/workflows/kuraloviyam-release-eof-cleanup.yml
+          git add works/kuraloviyam/translations/en/pages .github/workflows/kuraloviyam-release-eof-cleanup.yml
+          git diff --cached --check || true
+          git commit -m 'kuraloviyam: Restore status-only Part 002 release diff'
+          git push origin HEAD:main
