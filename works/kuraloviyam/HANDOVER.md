@@ -30,7 +30,7 @@ Read before changing anything:
 - Part 001: **CLOSED** — English **107 release-ready + 4 source-limited**.
 - Part 002 Tamil: **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**.
 - Part 002 English first-pass: **111/111 COMPLETE**.
-- Part 002 English source-check: **60/111 ACTIVE**.
+- Part 002 English source-check: **75/111 ACTIVE**.
 - glossary reconciliation: **0/111**.
 - editorial review: **0/111**.
 
@@ -44,32 +44,33 @@ Permanent English cadence:
 - **SC2 scans 127–141 / printed 110–124 — COMPLETE 15/15.**
 - **SC3 scans 142–156 / printed 125–139 — COMPLETE 15/15.**
 - **SC4 scans 157–171 / printed 140–154 — COMPLETE 15/15.**
+- **SC5 scans 172–186 / printed 155–169 — COMPLETE 15/15.**
 
-SC4 source-fidelity corrections:
+SC5 source-fidelity corrections:
 
-- **168 / printed 151** — removed the unsupported explanatory additions **“—art itself”** after `Kala` and **“the Tamil word carrying both senses”** after the `மணம்` fragrance/marriage wordplay; the page now translates the source contrast directly without added editorial commentary.
-- **169 / printed 152** — corrected `துணைவன்` from generic **“companion”** to **“husband”**, preserving the source contrast between the absent spouse and the female friend who is actually present.
+- **173 / printed 156** — the draft expanded `நான் வரவில்லையென்று நண்பருக்குச் சொல்லிவிட்டு` into **“Tell your friend that I will not let you come”**. The source-check removed that unsupported addition and now preserves the imagined speech as **“Tell your friend, ‘I am not coming,’ ...”**.
+- **186 / printed 169** — removed the unsupported qualifier **“people say”** from `ஊழை வெல்ல முடியாது என்பது சரிதான்`; the English now directly states **“It is true that fate cannot be conquered.”**
 
-Continuity through SC4: **156→157 genuine** and closes on 157; **157→158 clean; 158→159 genuine; 159→160 clean; 160→161 genuine; 161→162 clean; 162→163 genuine; 163→164 clean; 164→165 genuine; 165→166 clean; 166→167 genuine; 167→168 clean; 168→169 genuine; 169→170 clean; 170→171 genuine; 171→172 clean**. Scan 172 was inspected only as the SC4 boundary witness and remains `draft` for SC5.
+Continuity through SC5: **171→172 clean; 172→173 genuine; 173→174 clean; 174→175 genuine; 175→176 clean; 176→177→178 genuine with scan 177 illustration-only; 178→179 clean; 179→180 genuine; 180→181 clean; 181→182→183 genuine; 183→184 clean; 184→185→186 genuine; 186→187 clean**. Scan 187 was inspected only as the SC5 boundary witness and remains `draft` for SC6.
 
 No Tamil archival record changed. No published/standard/web English Kural wording was imported.
 
-## Exact current activity — Part 002 English source-check SC5
+## Exact current activity — Part 002 English source-check SC6
 
-Proceed with **overall scans 172–186 / printed 155–169**, 15 consecutive page-aligned records.
+Proceed with **overall scans 187–201 / printed 170–184**, 15 consecutive page-aligned records.
 
 Requirements:
 
 1. fetch live `main` and preserve newer durable work;
-2. compare English files `0172`–`0186` against their audited Tamil counterparts paragraph-by-paragraph / block-by-block;
-3. scan **172** begins a new illustrated lovers/separation vignette after the clean **171→172** boundary;
+2. compare English files `0187`–`0201` against their audited Tamil counterparts paragraph-by-paragraph / block-by-block;
+3. scan **187** begins a new illustrated separation/evening vignette after the clean **186→187** boundary;
 4. check omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual-page function and cross-page continuity;
 5. only passing pages may move from `draft` to `source-checked`;
 6. do not use source-check for unrelated stylistic rewriting;
 7. do not import published/standard/web English Kural wording;
 8. do not change Tamil archival records;
-9. synchronize status/frontier and audit the exact changed-file set after SC5.
+9. synchronize status/frontier and audit the exact changed-file set after SC6.
 
-Next after SC5: **SC6 scans 187–201 / printed 170–184**, 15 records.
+Next after SC6: **SC7 scans 202–216 / printed 185–199**, 15 records.
 
 Do not begin glossary reconciliation until source-check reaches **111/111**. Part 003 remains blocked until Part 002 English workflow and final Part closure are complete.
