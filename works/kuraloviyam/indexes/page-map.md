@@ -7,7 +7,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
-| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English first-pass COMPLETE 111/111; source-check ACTIVE 15/111** |
+| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English first-pass COMPLETE 111/111; source-check ACTIVE 30/111** |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
@@ -156,7 +156,7 @@ Part 002:
 - final metadata/status synchronization — **PASS / CLOSED, 111 textual verified + 111 visual verified**;
 - documentation synchronization — **COMPLETE**;
 - Tamil archival-ready checkpoint — **PASS / CLOSED**;
-- maintained English workflow — **ACTIVE — first-pass drafting COMPLETE 111/111; source-check 15/111**.
+- maintained English workflow — **ACTIVE — first-pass drafting COMPLETE 111/111; source-check 30/111**.
 
 ## Current frontier
 
@@ -164,6 +164,6 @@ Part 002:
 
 **Part 002 Tamil: ARCHIVAL-READY / CLOSED.**
 
-**Part 002 English: ACTIVE — first-pass drafting COMPLETE 111/111; source-check 15/111.**
+**Part 002 English: ACTIVE — first-pass drafting COMPLETE 111/111; source-check 30/111.**
 
-Exact next activity: **Part 002 English source-check SC2, overall scans 127–141 / printed 110–124**, using audited Tamil page records as the fidelity authority. Scan 127 directly continues and closes the Gandhi vignette from source-checked scan 126. Compare paragraph-by-paragraph / block-by-block and promote only passing English records from `draft` to `source-checked`. Do not begin Part 003 before Part 002 completes its maintained English workflow and final Part closure.
+Exact next activity: **Part 002 English source-check SC3, overall scans 142–156 / printed 125–139**, using audited Tamil page records as the fidelity authority. Preserve clean **141→142**, genuine **144→145** continuation and clean **155→156** boundary. Compare paragraph-by-paragraph / block-by-block and promote only passing English records from `draft` to `source-checked`. Do not begin Part 003 before Part 002 completes its maintained English workflow and final Part closure.
