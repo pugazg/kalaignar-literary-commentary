@@ -59,27 +59,19 @@ Durable declaration:
 
 First-pass drafting status: **111/111 COMPLETE**.
 
-Completed:
+Source-check status: **15/111 complete**.
 
-- **Batch 1: scans 112–122 / printed 95–105 — 11 draft records.**
-- **Batch 2: scans 123–133 / printed 106–116 — 11 draft records.**
-- **Batch 3: scans 134–144 / printed 117–127 — 11 draft records.**
-- **Batch 4: scans 145–155 / printed 128–138 — 11 draft records.**
-- **Batch 5: scans 156–166 / printed 139–149 — 11 draft records.**
-- **Batch 6: scans 167–177 / printed 150–160 — 11 draft records.**
-- **Batch 7: scans 178–188 / printed 161–171 — 11 draft records.**
-- **Batch 8: scans 189–199 / printed 172–182 — 11 draft records.**
-- **Batch 9: scans 200–210 / printed 183–193 — 11 draft records.**
-- **Batch 10: scans 211–221 / printed 194–204 — 11 draft records.**
-- **Final remainder: scan 222 / printed 205 — 1 draft record.**
+Completed source-check:
 
-The draft layer now covers all **111/111** Part 002 records. The final page continues the genuine **221→222** pastoral/ayar-community sequence and closes it with Chapter 128 / Kural 1275. Page alignment, visual-material placement, quoted/Kural blocks, Chapter/Kural metadata and cross-page continuations are preserved.
+- **SC1: scans 112–126 / printed 95–109 — 15/15 source-checked.**
 
-No published/standard/web English Kural wording has been imported, and the closed Tamil layer has not been changed during English drafting.
+SC1 preserved the clean **111→112** Part boundary and all source-supported visual and continuation relationships. Scan 127 was inspected only as the continuation witness for scan 126 and remains `draft` for SC2. One fidelity correction was made on scan **125 / Kural 1291**, removing the unsupported draft addition “and his love” before promotion to `source-checked`.
+
+No published/standard/web English Kural wording has been imported, and the closed Tamil layer has not been changed during English review.
 
 ## Current frontier
 
-Proceed with **Part 002 English source-check SC1: scans 112–126 / printed 95–109**, 15 consecutive records.
+Proceed with **Part 002 English source-check SC2: scans 127–141 / printed 110–124**, 15 consecutive records.
 
 Compare English against the audited Tamil page-by-page and block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual function and continuity. Only passing pages may move from `draft` to `source-checked`. Do not begin glossary reconciliation until source-check covers all 111 records.
 
