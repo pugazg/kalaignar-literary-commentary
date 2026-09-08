@@ -220,14 +220,16 @@ Part 002 covers scans **112–222 / printed 95–205**.
 - Tamil: **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified**;
 - first-pass drafting: **COMPLETE 111/111**;
 - source-check: **COMPLETE 111/111**;
-- glossary reconciliation: **ACTIVE 48/111**;
-- editorial review: **0/111**.
+- glossary reconciliation: **COMPLETE / CLOSED 111/111**;
+- editorial review: **ACTIVE 33/111**.
 
-Glossary reconciliation:
+Editorial-review batching:
 
-- GR1 scans 112–126 — 15/15, historical pre-cadence-change batch;
-- GR2 scans 127–159 — 33/33, first batch under the revised 33-page cadence;
-- next GR3 scans 160–192 — 33 pages;
-- final GR4 scans 193–222 — 30-page remainder.
+- **ER1 scans 112–144 / printed 95–127 — COMPLETE 33/33**;
+- **ER2 scans 145–177 / printed 128–160 — NEXT 33 pages**;
+- **ER3 scans 178–210 / printed 161–193 — 33 pages**;
+- **ER4 scans 211–222 / printed 194–205 — final 12-page remainder**.
 
-Do not begin Part 002 editorial review until glossary reconciliation reaches **111/111**. Part 003 remains blocked until Part 002 English review/release and final Part closure are complete.
+Scans **112–144** are `editorial-reviewed`; scans **145–222** remain `source-checked` pending the remaining editorial batches. The **144→145** boundary is a genuine continuation and must remain intact across the batch boundary.
+
+Do not begin Part-level English review until editorial review reaches **111/111**. Part 003 remains blocked until Part 002 English review/release and final Part closure are complete.
