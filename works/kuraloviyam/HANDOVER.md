@@ -33,7 +33,7 @@ Read before changing anything:
 - Part 002 English source-check: **111/111 COMPLETE / CLOSED**.
 - Part 002 English draft pages remaining: **0**.
 - Part 002 English glossary reconciliation: **111/111 COMPLETE / CLOSED**.
-- Part 002 English editorial review: **0/111 — READY / NEXT**.
+- Part 002 English editorial review: **33/111 ACTIVE**.
 
 Permanent English gate order:
 
@@ -49,43 +49,48 @@ SC1–SC8 cover all scans **112–222 / printed 95–205**. Final source-check s
 
 ## Glossary-reconciliation record — CLOSED
 
-- **GR1 scans 112–126 / printed 95–109 — COMPLETE 15/15.**
-- **GR2 scans 127–159 / printed 110–142 — COMPLETE 33/33.**
-- **GR3 scans 160–192 / printed 143–175 — COMPLETE 33/33.**
-- **GR4 scans 193–222 / printed 176–205 — COMPLETE 30/30 / FINAL REMAINDER.**
+GR1–GR4 cover all scans **112–222 / printed 95–205**. Glossary reconciliation is **111/111 COMPLETE / CLOSED**. `GLOSSARY.md` is reconciled through final scan 222 using only terminology evidenced in the audited project source.
 
-GR4 material terminology corrections:
+## Editorial-review record
 
-- **scan 201 / printed 184** — explicit source honorific `பாவேந்தர் பாரதிதாசன்` restored as **Paavendhar Bharathidasan**; bare `பாரதிதாசன்` on scan 217 remains **Bharathidasan**;
-- **scan 218 / printed 201** — prose `ஊடல்` reconciled from transliterated **oodal** to controlled **lovers' quarrel**; Chapter 131 `புலவி` remains **Lovers' Sulking**.
+### ER1 — COMPLETE 33/33
 
-`GLOSSARY.md` is reconciled through the final scan **222**. It records the source-supported final chapter labels, lexical/cultural controls including **alar / kauvai / ethiraar**, **Maravar**, **Mukhari**, **Kuralar**, **naazhigai**, **pachadi**, **ayar community**, **veshti**, and names including **Kumanan, Saathanaar, Thennavan / Thennava, Poonguzhali, Iniyaval, Alagan, Alaguvalli**, plus **Pazhayanur**.
+Range: **scans 112–144 / printed 95–127**.
 
-Continuity was preserved across the full final remainder: **193→194, 195→196, 197→198→199, 200→201, 202→203→204, 205→206, 207→208, 209→210, 211→212, 213→214, 215→216, 217→218, 219→220, 221→222**. Scan **203** remains illustration-only within its source unit; scan **222 / printed 205** closes the final pastoral/ayar-community vignette and is the final physical scan of Part 002.
+All 33 pages passed and were promoted from `source-checked` to `editorial-reviewed`.
 
-Glossary reconciliation did not promote pages to `editorial-reviewed`; all 111 Part 002 English pages remain `source-checked` at the start of editorial review.
+Material editorial improvements:
 
-No Tamil archival record changed. No external/published/web English terminology was imported.
+- **113 / printed 96** — `start with surprise` → **startle in surprise**; removed the stray comma in **husband and wife quarrel**; repaired the fragment to **then the two are apart**;
+- **120 / printed 103** — `நான் சும்மா விடப் போவதில்லை` rendered idiomatically as **I am not going to let ... off so easily**; `வேறு ஒரு புது உலகம்` → **a whole new world**;
+- **127 / printed 110** — improved the prayer-transition sentence while retaining the source meaning; `காலமுணர்த்தும் கருவி... அடிக் கொண்டிருக்கிறது` → **The timepiece at his waist keeps ticking**;
+- **142→143 / printed 125→126** — repaired the genuine cross-page sentence to **not only for Sigamani— / —but for himself as well**; corrected the inspection sentence to **caught red-handed adulterating and selling his medicines**.
 
-## Exact current activity — Part 002 English editorial review ER1
+No other ER1 page required wording change. Chapter/Kural metadata, controlled terminology, visual/non-body descriptions and page functions passed.
 
-Proceed with **overall scans 112–144 / printed 95–127**, exactly **33 consecutive page-aligned records**.
+Continuity was preserved across the batch. The **144→145** boundary is a genuine continuation. Scan **145** was inspected only as a boundary witness, remains `source-checked`, and belongs to ER2.
+
+No Tamil archival record changed. No publisher/standard/web English wording was imported.
+
+## Exact current activity — Part 002 English editorial review ER2
+
+Proceed with **overall scans 145–177 / printed 128–160**, exactly **33 consecutive page-aligned records**.
 
 Requirements:
 
 1. fetch live `main` and preserve newer durable work;
-2. use the source-checked, glossary-reconciled English files for scans **112–144**, with audited Tamil counterparts as source-faithfulness authority and `GLOSSARY.md` as terminology authority;
-3. review English readability, grammar, style, sentence flow, internal coherence, visual/non-body descriptions, chapter/Kural metadata and page-to-page transitions without changing source meaning;
-4. preserve source-supported Tamil-specific terms, proper names and chapter labels according to the glossary;
-5. preserve genuine cross-page continuities and clean boundaries;
-6. do not import standard/published/web English Kural wording or external-edition prose;
-7. promote a page from `source-checked` to `editorial-reviewed` only after it passes this gate;
-8. do not change Tamil archival records;
-9. synchronize status/frontier and audit the exact changed-file set after ER1.
+2. use source-checked, glossary-reconciled English files for scans **145–177**, with audited Tamil counterparts as source-faithfulness authority and `GLOSSARY.md` as terminology authority;
+3. scan **145** begins by directly continuing and closing the secret-meeting vignette from editorial-reviewed scan 144;
+4. review readability, grammar, style, sentence flow, internal coherence, visual/non-body descriptions, chapter/Kural metadata and page-to-page transitions without changing source meaning;
+5. preserve source-supported Tamil-specific terms, proper names and chapter labels according to the glossary;
+6. preserve genuine cross-page continuities and clean boundaries;
+7. do not import standard/published/web English Kural wording or external-edition prose;
+8. promote a page from `source-checked` to `editorial-reviewed` only after it passes this gate;
+9. do not change Tamil archival records;
+10. synchronize status/frontier and audit the exact changed-file set after ER2.
 
-Editorial-review batching at the 33-page cadence:
+Remaining editorial-review batches:
 
-- **ER1 scans 112–144 / printed 95–127 — 33 pages**;
 - **ER2 scans 145–177 / printed 128–160 — 33 pages**;
 - **ER3 scans 178–210 / printed 161–193 — 33 pages**;
 - **ER4 scans 211–222 / printed 194–205 — final 12 pages**.
