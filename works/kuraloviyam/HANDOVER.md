@@ -64,7 +64,8 @@ Current internal frontier:
 - **233→234 genuine continuation**;
 - **244→245 clean**;
 - **255→256 clean**;
-- **266→267 genuine continuation** — scan 266 begins the trade/separation vignette and scan 267 continues the same sentence/unit.
+- **266→267 genuine continuation** — scan 266 begins the trade/separation vignette and scan 267 continues the same sentence/unit;
+- **277→278 clean** — scan 277 closes the nettilingam-tree / drunken-climber vignette with Chapter 48 / Kural 476; scan 278 begins a new illustrated vignette.
 
 Outgoing **333→334 remains deferred** until Part 004 is supplied. Scan 333 / printed 316 closes the final visible Part 003 unit with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567.
 
@@ -77,11 +78,11 @@ Completed:
 - P3-01: **223–233 / printed 206–216 — COMPLETE 11/11**;
 - P3-02: **234–244 / printed 217–227 — COMPLETE 11/11**;
 - P3-03: **245–255 / printed 228–238 — COMPLETE 11/11**;
-- P3-04: **256–266 / printed 239–249 — COMPLETE 11/11**.
+- P3-04: **256–266 / printed 239–249 — COMPLETE 11/11**;
+- P3-05: **267–277 / printed 250–260 — COMPLETE 11/11**.
 
 Remaining:
 
-- P3-05: **267–277 / printed 250–260**;
 - P3-06: **278–288 / printed 261–271**;
 - P3-07: **289–299 / printed 272–282**;
 - P3-08: **300–310 / printed 283–293**;
@@ -91,23 +92,23 @@ Remaining:
 
 ## Part 003 Pass 1 — ACTIVE
 
-**44 / 111 scans captured — scans 223–266 / printed 206–249.**
+**55 / 111 scans captured — scans 223–277 / printed 206–260.**
 
-All 44 page records exist under `works/kuraloviyam/pages/` and remain at:
+All 55 page records exist under `works/kuraloviyam/pages/` and remain at:
 
 - `status: "needs-review"`
 - `visual_fidelity: "needs-review"`
 
-P3-04 captured:
+P3-05 captured:
 
-- scans **256–257** — poverty / fire vignette;
-- scans **258–259** — pottery / lovers vignette;
-- scans **260–261** — Alagan / harsh-aunt / orphan vignette; Chapter 13 / Kural 129;
-- scans **262–263** — moon / separation vignette; Chapter 114 / Kural 1140;
-- scans **264–265** — Nallaan / Vallaan bear-and-friendship vignette; Chapter 80 / Kural 796;
-- scan **266** — trade / separation vignette begins and continues directly to scan 267.
+- scan **267** — closes the trade / separation vignette begun on scan 266; Chapter 122 / Kural 1220;
+- scans **268–269** — public water-tank / youths / patient elder vignette; Chapter 16 / Kural 155;
+- scans **270–271** — Ilamathi / Thirumathi lovers' quarrel vignette; Chapter 133 / Kural 1327;
+- scans **272–273** — Ramayana-discourse / caste-and-conduct vignette; Chapter 14 / Kural 133;
+- scans **274–275** — returning-prince / separation vignette; Chapter 127 / Kural 1267;
+- scans **276–277** — nettilingam-tree / drunken-climber autobiographical vignette; Chapter 48 / Kural 476.
 
-During P3-04 scan 262 was rechecked against the rendered source and corrected to the visible phrase `ஏன் நடுங்குகிறாய்?`; it remains a Pass-1 `needs-review` record and was not promoted.
+During P3-05 scan 277 was rechecked directly against the rendered source and corrected to the visible phrases `நினைத்திடும்போது` and `அதுவே அவரது உயிருக்கு`; it remains a Pass-1 `needs-review` record and was not promoted.
 
 ## Pass 1 rules
 
@@ -123,15 +124,15 @@ For each page:
 - do not import standard/web Kural wording, another edition, OCR guesses or memory;
 - do not claim Pass 2A, Pass 2B or Pass 3 verification during Pass 1.
 
-## Exact next activity — Part 003 Pass 1 / P3-05
+## Exact next activity — Part 003 Pass 1 / P3-06
 
-Process **overall scans 267–277 / printed 250–260 — 11 pages** in one iteration.
+Process **overall scans 278–288 / printed 261–271 — 11 pages** in one iteration.
 
-Scan **267 / printed 250** is the direct continuation of scan 266 and must begin P3-05 accordingly. Use the supplied Part 003 PDF directly. Inspect scan **278 / printed 261** only as a boundary witness when needed; do not create its page record during P3-05.
+Scan **278 / printed 261** begins a new illustrated vignette, confirmed as the clean outgoing boundary witness during P3-05. Use the supplied Part 003 PDF directly. Inspect scan **289 / printed 272** only as a boundary witness when needed; do not create its page record during P3-06.
 
-After P3-05:
+After P3-06:
 
 1. update `PART_003_PASS1_PROGRESS.md`, README, handover, next-chat prompt and page map/frontier;
 2. audit the exact changed-file set;
 3. confirm all 11 new page records remain appropriate Pass-1 statuses;
-4. set P3-06 scans 278–288 as the next activity.
+4. set P3-07 scans 289–299 as the next activity.
