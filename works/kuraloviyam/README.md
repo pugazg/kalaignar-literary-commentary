@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Current archival state |
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English first-pass COMPLETE 111/111; source-check COMPLETE 111/111; glossary reconciliation ACTIVE 48/111** |
+| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English first-pass COMPLETE 111/111; source-check COMPLETE 111/111; glossary reconciliation ACTIVE 81/111** |
 | 003 | 223–333 | not-started |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
@@ -21,7 +21,7 @@ Mandatory per-part cadence:
 
 source intake → Pass 1 → Pass 2A → Pass 2B → Pass 3 → Part audit → final metadata/status sync → documentation sync → Tamil archival-ready → English project-translation/review closure → final Part checkpoint → next supplied Part.
 
-For active English iterations from the current checkpoint onward, the user-directed normal batch size is **33 physical pages**. Historical completed batches retain their original sizes; a final remainder may be shorter.
+For active English iterations, the user-directed normal batch size is **33 physical pages**. Historical completed batches retain their original sizes; a final remainder may be shorter.
 
 ## Part 001 — CLOSED
 
@@ -39,24 +39,25 @@ Tamil is **ARCHIVAL-READY / CLOSED** at **111 textual verified + 111 visual veri
 
 - first-pass drafting: **111/111 COMPLETE**;
 - source-check: **111/111 COMPLETE / CLOSED**;
-- glossary reconciliation: **48/111 ACTIVE**;
+- glossary reconciliation: **81/111 ACTIVE**;
 - editorial review: **0/111**.
 
 Glossary batches completed:
 
 - **GR1 scans 112–126 / printed 95–109 — 15/15**;
-- **GR2 scans 127–159 / printed 110–142 — 33/33** under the revised user-directed cadence.
+- **GR2 scans 127–159 / printed 110–142 — 33/33**;
+- **GR3 scans 160–192 / printed 143–175 — 33/33**.
 
-GR2 corrected scan **127** `Gandhiji → Gandhi`, scan **134** `paddy-chaff → chaff`, scan **153** lexical-note transliteration `unaruththum → unarththum`, and scan **155** Chapter 133 `Delight → Joy of Lovers' Quarrel`. `GLOSSARY.md` now carries the Part 002 controls evidenced through scan 159, including chapter labels, contextual kinship/direct-address terms and narrative names.
+GR3 required **no English page wording corrections**. Existing controlled terminology was confirmed and `GLOSSARY.md` was extended only with source-supported material evidenced through scan 192, including newly encountered chapter labels, source variants, **kavadi / paar-kavadi**, **Gajendra Moksha**, **Kurunthogai**, and the relevant narrative/historical names.
+
+All genuine continuities in the 33-page range were preserved; scan **177** remains illustration-only within the **176→177→178** sequence. The **192→193** source boundary is clean.
 
 No Tamil page record changed, no English page was promoted beyond `source-checked`, and no external/published/web English terminology was imported.
 
 ## Current frontier
 
-**Next activity: Part 002 English glossary reconciliation GR3 — scans 160–192 / printed 143–175, 33 records.**
+**Next activity: final Part 002 English glossary remainder GR4 — scans 193–222 / printed 176–205, 30 records.**
 
-Scan **160** begins the elephant/terrain/strength vignette after the clean **159→160** boundary. Use current `GLOSSARY.md`, the source-checked English pages and audited Tamil context. Reconcile recurring terminology and metadata without promoting pages to `editorial-reviewed`.
+After GR4, glossary reconciliation reaches **111/111 COMPLETE**. The next gate is **Part 002 English editorial review**, using the normal 33-page iteration cadence.
 
-After GR3, final glossary remainder: **GR4 scans 193–222 / printed 176–205 — 30 pages**.
-
-Do not begin editorial review until glossary reconciliation reaches **111/111**. Do not begin Part 003 before Part 002 glossary reconciliation, editorial review, Part-level review, release report and final Part closure are complete.
+Do not begin Part 003 before Part 002 editorial review, Part-level review, release report and final Part closure are complete.
