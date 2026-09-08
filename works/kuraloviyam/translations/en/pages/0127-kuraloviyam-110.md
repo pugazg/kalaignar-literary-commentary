@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -18,9 +18,9 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 he lived out what he taught. That supreme nobleman of the world is the one approaching there.
 
-It is the hour when the sun disappears in the west. A gentle breeze blows softly and circles around him. He is about to sit upon that platform and begin the prayer to God. Joining him and the feelings of his heart, the good people gathered there are about to sing the prayer hymn. As a feast to eyes that had longed, wondering when he would come, as a medicine that removes every illness from the heart, he has arrived.
+It is the hour when the sun disappears in the west. A gentle breeze blows softly and circles around him. He is about to sit upon that platform and begin the prayer to God. Sharing his feelings, the good people gathered there are about to join him in singing the prayer hymn. As a feast to eyes that had longed, wondering when he would come, as a medicine that removes every illness from the heart, he has arrived.
 
-All the hands there look like flowers that have blossomed and then become buds again. Yes, everyone worships him. He too worships in the same way. Those around him take that gesture of worship as a blessing. The device that tells the time beats at his waist. From among the folded hands, one hand moves toward him. Pushing past those in the crowd, that man alone goes closer. Before anyone can wonder, “Why is he going near?” he bows low before him. That heart white as the thumbai flower pours love upon him. Alas! Hidden within the folded hands of that cruel man is a weapon of murder. The handgun suddenly shatters the stillness of the place. Like a tiger springing upon a cow that stands chewing cud with closed eyes, the sound of gunfire strikes that peaceful setting.
+All the hands there look like flowers that have blossomed and then become buds again. Yes, everyone worships him. He too worships in the same way. Those around him take that gesture of worship as a blessing. The timepiece at his waist keeps ticking. From among the folded hands, one hand moves toward him. Pushing past those in the crowd, that man alone goes closer. Before anyone can wonder, “Why is he going near?” he bows low before him. That heart white as the thumbai flower pours love upon him. Alas! Hidden within the folded hands of that cruel man is a weapon of murder. The handgun suddenly shatters the stillness of the place. Like a tiger springing upon a cow that stands chewing cud with closed eyes, the sound of gunfire strikes that peaceful setting.
 
 Peace is destroyed! Darkness closes in. As a flood of blood surges from his chest, that simple figure—the lamp of hope for the poor—falls to the earth. The weapon hidden in hands folded in worship drinks the life of the Father of the Nation. How could Valluvar's subtle wisdom have foreseen that even such a thing might happen?
 
