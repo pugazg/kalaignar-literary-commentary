@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,6 +15,6 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 Large colour household illustration showing a seated bearded man handling goods inside a house while a woman stands at the doorway.
 
-Though we call it a “good snake,” it is a snake filled with deadly venom! Is that not why the saying arose that even an army trembles at the sight of a snake? If anything blocks its path, it takes that obstruction to have come there to oppose it, hisses and lunges, and sinks in its poisonous fang. Through the needle-like opening in that fang, venom descends into the stricken body and poisons the blood. What is struck may be an animal, or it may be a human being. Most often, when an obstacle comes in its way, it bites only in order to—
+Though we call it a “good snake,” it is a snake filled with deadly venom! Is that not why the saying arose that even an army trembles at the sight of a snake? If anything blocks its path, it takes that obstruction to have come there to oppose it, hisses and lunges, and sinks its poisonous fang into it. Through the needle-like opening in that fang, venom descends into the stricken body and poisons the blood. What is struck may be an animal, or it may be a human being. Most often, when an obstacle comes in its way, it bites only in order to—
 
 <!-- Source scan page: 189; printed page: 172; snake/Muthuvelar autobiographical vignette begins; sentence continues directly to scan 190 -->
