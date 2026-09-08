@@ -55,33 +55,48 @@ Confirmed identity:
 
 Durable intake: `works/kuraloviyam/SOURCE_INTAKE_PART_003.md`.
 
-## Resolved 222→223 boundary
+## Boundary state
 
-The previously deferred cross-Part boundary is now closed.
+Incoming **222→223 is clean**: scan 222 closes the pastoral / `ஆயர்குடி` vignette; scan 223 begins the new illustrated `பேதைமை` vignette.
 
-- scan **222 / printed 205** closes the pastoral / `ஆயர்குடி` vignette with Chapter 128 / Kural 1275;
-- scan **223 / printed 206** starts a new illustrated `பேதைமை` vignette;
-- scan **224 / printed 207** closes that new unit with Chapter 84 / Kurals 838, 839;
-- therefore **222→223 is a clean vignette boundary**.
+Outgoing **333→334 remains deferred** until Part 004 is supplied. Scan 333 / printed 316 closes the final visible Part 003 unit with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567.
 
-No split text is reconstructed.
+## User-directed Part 003 Pass 1 cadence
 
-## Part 003 outgoing boundary
+Process **11 physical scan pages per normal Part 003 Pass 1 iteration**. A final remainder may be shorter. These are workflow boundaries only and do not imply textual boundaries.
 
-- scans **332–333 / printed 315–316** form the final visible Part 003 unit;
-- scan **333** closes with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567;
-- external **333→334** remains deferred until Part 004 is supplied. Do not infer it.
+Planned ranges after P3-01:
 
-## User-directed iteration size
+- P3-02: **234–244 / printed 217–227**;
+- P3-03: **245–255 / printed 228–238**;
+- P3-04: **256–266 / printed 239–249**;
+- P3-05: **267–277 / printed 250–260**;
+- P3-06: **278–288 / printed 261–271**;
+- P3-07: **289–299 / printed 272–282**;
+- P3-08: **300–310 / printed 283–293**;
+- P3-09: **311–321 / printed 294–304**;
+- P3-10: **322–332 / printed 305–315**;
+- final remainder: **333 / printed 316**.
 
-Process **33 physical scan pages per normal Part 003 page-batched iteration**. A final remainder may be shorter. These are workflow boundaries only and do not imply textual boundaries.
+## Part 003 Pass 1 — ACTIVE
 
-Part 003 Pass 1 plan:
+**P3-01 scans 223–233 / printed 206–216 — COMPLETE, 11/11.**
 
-- P3-01: **223–255 / printed 206–238**;
-- P3-02: **256–288 / printed 239–271**;
-- P3-03: **289–321 / printed 272–304**;
-- final remainder: **322–333 / printed 305–316**.
+All 11 page records exist under `works/kuraloviyam/pages/` and remain at:
+
+- `status: "needs-review"`
+- `visual_fidelity: "needs-review"`
+
+Captured source units:
+
+- 223–224 — `பேதைமை`; Chapter 84 / Kurals 838, 839;
+- 225–226 — `தும்மல்` / lovers; Chapters 121, 132, 126 / Kurals 1203, 1318, 1253;
+- 227–228 — Valluvar / land / patience and slander; Chapter 16 / Kural 151 and Chapter 19 / Kural 189;
+- 229–230 — Maragatham / medicine / love-sickness; Chapter 125 / Kural 1241;
+- 231–232 — courtesan / `வரைவின் மகளிர்`; Chapter 92 / Kural 913;
+- 233 — festival / green-sari vignette begins.
+
+**233→234 is a genuine continuation.** Scan 234 / printed 217 was inspected only as the P3-01 boundary witness; no scan-234 page record was created during P3-01.
 
 ## Pass 1 rules
 
@@ -97,15 +112,15 @@ For each page:
 - do not import standard/web Kural wording, another edition, OCR guesses or memory;
 - do not claim Pass 2A, Pass 2B or Pass 3 verification during Pass 1.
 
-## Exact next activity — Part 003 Pass 1 / P3-01
+## Exact next activity — Part 003 Pass 1 / P3-02
 
-Process **overall scans 223–255 / printed 206–238 — 33 pages** in one iteration.
+Process **overall scans 234–244 / printed 217–227 — 11 pages** in one iteration.
 
-Use the supplied Part 003 PDF directly. Inspect scan **256 / printed 239** only as a boundary witness when needed; do not create its page record during P3-01.
+Begin scan 234 as the direct continuation of scan 233. Use the supplied Part 003 PDF directly. Inspect scan **245 / printed 228** only as a boundary witness when needed; do not create its page record during P3-02.
 
-After P3-01:
+After P3-02:
 
-1. update `PART_003_PASS1_PROGRESS.md` and the page map/frontier;
+1. update `PART_003_PASS1_PROGRESS.md` and page map/frontier;
 2. audit the exact changed-file set;
-3. confirm all 33 new page records remain appropriate Pass-1 statuses;
-4. set P3-02 scans 256–288 as the next activity.
+3. confirm all 11 new page records remain appropriate Pass-1 statuses;
+4. set P3-03 scans 245–255 as the next activity.
