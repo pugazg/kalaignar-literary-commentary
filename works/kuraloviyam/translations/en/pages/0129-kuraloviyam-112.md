@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -31,7 +31,7 @@ The lover may simply have sneezed naturally. But the next morning she tells her 
 “I was sulking—he deliberately sneezed. I forgot my quarrel and blessed him!” she says, stroking her cheek and pouring out sweet words. Here is that Kural:
 
 > While we were in lovers' quarrel he sneezed, knowing  
-> that I would forget it and say, “May you live long.”
+> that I would say to him, “May you live long.”
 
 Chapter 132 — Subtleties of Lovers' Quarrel; Kurals 1317, 1312
 
