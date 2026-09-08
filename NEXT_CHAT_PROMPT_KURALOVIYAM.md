@@ -31,8 +31,8 @@ Read completely before changing anything:
 - Part 002 Tamil: **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified**.
 - Part 002 English: **RELEASE COMPLETE / CLOSED — 111/111 release-ready**.
 - Part 003 source intake: **PASS / COMPLETE**.
-- Part 003 Pass 1: **ACTIVE — scans 223–288 / 66 of 111 captured**.
-- Completed Pass-1 batches: **P3-01, P3-02, P3-03, P3-04, P3-05, P3-06**.
+- Part 003 Pass 1: **ACTIVE — scans 223–299 / 77 of 111 captured**.
+- Completed Pass-1 batches: **P3-01, P3-02, P3-03, P3-04, P3-05, P3-06, P3-07**.
 
 ## Part 003 controlling source
 
@@ -58,9 +58,10 @@ Through the current Part-003 frontier:
 - **255→256 clean**;
 - **266→267 genuine continuation**;
 - **277→278 clean**;
-- **288→289 genuine continuation**.
+- **288→289 genuine continuation**;
+- **299→300 clean**.
 
-P3-06 scan **288 / printed 271** begins the Valluvar / renunciation vignette and ends with the unit continuing directly onward. Scan **289 / printed 272** was inspected only as the outgoing boundary witness and continues that same unit; it must be the first page captured in P3-07.
+P3-07 scan **299 / printed 282** closes the Mullai-kodi / Mukilan fisher-couple separation-and-dream vignette with Chapter 122 / Kural 1218. Scan **300 / printed 283** was inspected only as the outgoing boundary witness and begins a new illustrated vignette; it must be the first page captured in P3-08.
 
 At the far end, scan 333 / printed 316 closes the final visible Part 003 unit with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567. The external **333→334** boundary remains deferred until Part 004 intake.
 
@@ -75,41 +76,43 @@ Completed:
 - **P3-03: 245–255 / printed 228–238 — COMPLETE 11/11**;
 - **P3-04: 256–266 / printed 239–249 — COMPLETE 11/11**;
 - **P3-05: 267–277 / printed 250–260 — COMPLETE 11/11**;
-- **P3-06: 278–288 / printed 261–271 — COMPLETE 11/11**.
+- **P3-06: 278–288 / printed 261–271 — COMPLETE 11/11**;
+- **P3-07: 289–299 / printed 272–282 — COMPLETE 11/11**.
 
 Remaining:
 
-- P3-07: 289–299 / printed 272–282
 - P3-08: 300–310 / printed 283–293
 - P3-09: 311–321 / printed 294–304
 - P3-10: 322–332 / printed 305–315
 - final remainder: 333 / printed 316
 
-## P3-06 durable capture summary
+## P3-07 durable capture summary
 
-- scans **278–279** — Killi / Nalli lovers' quarrel and flood-swimmer analogy; Chapter 129 / Kural 1287;
-- scans **280–281** — household cleanliness / foolishness vignette; Chapter 84 / Kural 840;
-- scans **282–283** — union / self-earned-sharing vignette; Chapter 111 / Kural 1107;
-- scans **284–285** — two-poets / ruler-and-counsel vignette; Chapter 45 / Kural 448;
-- scans **286–287** — war-separation / beloved's fame vignette; Chapter 120 / Kural 1199;
-- scan **288** — Valluvar / renunciation vignette begins and continues directly to scan 289.
+- scan **289** — closes the Valluvar / renunciation vignette begun on scan 288; Chapter 35 / Kurals 347, 350;
+- scans **290–291** — Ponni / Thamarai waiting vignette; Chapter 127 / Kural 1269;
+- scans **292–293** — altered-Kural / friendship vignette; Chapter 53 / Kural 521;
+- scans **294–295** — woodcutter / one-day-separation vignette; Chapter 127 / Kural 1264;
+- scans **296–297** — defeated-army / enduring-military-strength vignette; Chapter 77 / Kural 762;
+- scans **298–299** — Mullai-kodi / Mukilan fisher-couple separation-and-dream vignette; Chapter 122 / Kural 1218.
+
+Scan 298 was source-rechecked before closure and preserves visible `ஒருவருக் கொருவர்`. Scan 299 was source-rechecked and preserves the visible Kural line `துஞ்சுங்கால் தோள் மேலராகி விழிக்குங்கால்`.
 
 All Part-003 Pass-1 records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`. Do not promote them during capture.
 
-## Exact next activity — P3-07
+## Exact next activity — P3-08
 
-Process **scans 289–299 / printed 272–282 — 11 physical pages** in one iteration.
+Process **scans 300–310 / printed 283–293 — 11 physical pages** in one iteration.
 
 Requirements:
 
 1. use the supplied Part 003 controlling PDF and inspect rendered scans directly;
-2. begin scan 289 as the direct continuation of the Valluvar / renunciation vignette begun on scan 288;
-3. create page-aligned Tamil records under `works/kuraloviyam/pages/` for scans 289–299 only;
+2. begin scan 300 as the new illustrated vignette confirmed by the P3-07 outgoing boundary witness;
+3. create page-aligned Tamil records under `works/kuraloviyam/pages/` for scans 300–310 only;
 4. preserve exact visible wording, punctuation, paragraphs, dialogue, Kural blocks, chapter/Kural metadata, illustration/text relationships and non-body marks;
 5. keep overall `scan_page` numbering; do not restart numbering at Part-local page 1;
 6. default new records to `status: "needs-review"` and `visual_fidelity: "needs-review"` unless a genuine source limitation requires otherwise;
 7. do not normalize, modernize, import standard/web Kural wording, use another edition, or guess from OCR/memory;
-8. inspect scan **300 / printed 283** only as a boundary witness when needed; do not create scan 300 during P3-07;
+8. inspect scan **311 / printed 294** only as a boundary witness when needed; do not create scan 311 during P3-08;
 9. after capture, synchronize `PART_003_PASS1_PROGRESS.md`, README, handovers, this prompt and page-map/frontier;
 10. audit the exact changed-file set before advancing;
-11. next after successful P3-07 is **P3-08 scans 300–310 / printed 283–293**.
+11. next after successful P3-08 is **P3-09 scans 311–321 / printed 294–304**.
