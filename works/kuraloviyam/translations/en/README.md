@@ -31,7 +31,9 @@ Part 002 covers scans **112–222 / printed 95–205**, 111 physical pages, and 
 ## Part 002 English — ACTIVE
 
 - first-pass drafting: **111/111 COMPLETE**;
-- source-check: **75/111 complete**.
+- source-check: **111/111 COMPLETE**;
+- glossary reconciliation: **0/111 — NEXT**;
+- editorial review: **0/111**.
 
 Completed source-check:
 
@@ -39,16 +41,23 @@ Completed source-check:
 - **SC2 scans 127–141 — 15/15 source-checked**;
 - **SC3 scans 142–156 — 15/15 source-checked**;
 - **SC4 scans 157–171 — 15/15 source-checked**;
-- **SC5 scans 172–186 — 15/15 source-checked**.
+- **SC5 scans 172–186 — 15/15 source-checked**;
+- **SC6 scans 187–201 — 15/15 source-checked**;
+- **SC7 scans 202–216 — 15/15 source-checked**;
+- **SC8 scans 217–222 — final 6/6 source-checked**.
 
-SC5 preserved every source-supported clean/continuing boundary from the clean **171→172** opening through the clean **186→187** boundary, including the illustration-only scan **177** within the **176→177→178** sequence. Fidelity corrections on scan **173 / printed 156** removed the unsupported “I will not let you come” expansion and retained the source as **“Tell your friend, ‘I am not coming,’ ...”**; scan **186 / printed 169** removed the unsupported qualifier “people say” from the statement about fate.
+Source-check is therefore **CLOSED at 111/111 with no remaining draft pages**. The final remainder preserved all source-supported continuations, including illustration-only scan **203** within **202→203→204**, lower-margin library-stamp material on **217–218**, and the genuine final **221→222** continuation.
+
+Material fidelity fixes during the closing SC6–SC8 work removed unsupported English additions on scans **198, 199, 207 and 219**, and corrected scan **215** to preserve the source image `எதிரிகளின் முடி நடுவதற்கு` directly rather than the draft's invented “plant defeat” wording.
 
 No Tamil archival record was changed and no published/standard/web English Kural wording was imported.
 
 ## Current frontier
 
-Proceed with **Part 002 source-check SC6: scans 187–201 / printed 170–184**, 15 consecutive records. Scan 187 begins a new separation/evening vignette after the clean 186→187 boundary.
+Proceed with **Part 002 glossary reconciliation GR1: scans 112–126 / printed 95–109**, 15 consecutive records.
 
-Only pages that pass the audited-Tamil fidelity comparison may move from `draft` to `source-checked`. Do not begin glossary reconciliation until source-check covers all 111 records.
+Reconcile recurring names, controlled literary terms, chapter labels and repeated English renderings against `GLOSSARY.md` and audited Tamil context. Glossary reconciliation does not itself promote pages to `editorial-reviewed`.
+
+Next after GR1: **GR2 scans 127–141 / printed 110–124**.
 
 See `TRANSLATION_STATUS.md` for the authoritative detailed frontier.
