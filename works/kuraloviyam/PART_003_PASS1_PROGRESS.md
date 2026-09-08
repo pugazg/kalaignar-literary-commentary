@@ -6,25 +6,48 @@ Overall scan range: **223–333**. Repository scan numbering never restarts per 
 
 Source intake: **PASS / COMPLETE** — 111 local pages, printed **206–316**, 93,488,924 bytes, SHA-256 `f07e7cdb3a6e786b0378e00bbe699a241be41c9e099c004a4faa90fa82b4239f`.
 
-User-directed normal Part 003 Pass 1 iteration size: **33 physical scans**. Workflow boundaries do not create textual boundaries.
+User-directed normal Part 003 Pass 1 iteration size: **11 physical scans**. Workflow boundaries do not create textual boundaries.
 
 ## Resolved incoming boundary
 
 **222→223 is clean.** Closed Part 002 scan 222 / printed 205 finishes the pastoral / `ஆயர்குடி` vignette with Chapter 128 / Kural 1275. Part 003 scan 223 / printed 206 starts a new illustrated `பேதைமை` vignette; scan 224 / printed 207 closes it with Chapter 84 / Kurals 838, 839.
 
-## Planned Pass 1 iterations
+## P3-01 — COMPLETE
 
-- **P3-01 — NEXT:** scans **223–255 / printed 206–238** — 33 scans; use scan 256 / printed 239 only as a boundary witness if required.
-- **P3-02:** scans **256–288 / printed 239–271** — 33 scans; use scan 289 / printed 272 only as a boundary witness if required.
-- **P3-03:** scans **289–321 / printed 272–304** — 33 scans; use scan 322 / printed 305 only as a boundary witness if required.
-- **Final remainder:** scans **322–333 / printed 305–316** — 12 scans.
+Scans **223–233 / printed 206–216** captured as **11 page-aligned Tamil records**.
 
-Pass 1 records must remain:
+Source units observed:
+
+- scans **223–224 / printed 206–207** — `பேதைமை` / foolishness vignette; Chapter 84 / Kurals 838, 839;
+- scans **225–226 / printed 208–209** — `தும்மல்` / lovers vignette; Chapter 121 / Kural 1203, Chapter 132 / Kural 1318, Chapter 126 / Kural 1253;
+- scans **227–228 / printed 210–211** — Valluvar / land / patience and slander vignette; Chapter 16 / Kural 151 and Chapter 19 / Kural 189;
+- scans **229–230 / printed 212–213** — Maragatham / medicine / love-sickness vignette; Chapter 125 / Kural 1241;
+- scans **231–232 / printed 214–215** — courtesan / `வரைவின் மகளிர்` vignette; Chapter 92 / Kural 913;
+- scan **233 / printed 216** — festival / green-sari vignette begins and continues directly to scan **234 / printed 217**.
+
+Important boundary: **233→234 is a genuine continuation.** Scan 234 was inspected only as the next-batch boundary witness; its page record was not created in P3-01.
+
+All P3-01 records remain:
 
 - `status: "needs-review"`
 - `visual_fidelity: "needs-review"`
 
-unless a genuine source limitation requires a stricter status. Pass 1 is physical capture/transcription only and does not make records source-verified.
+Pass 1 is physical capture/transcription only and does not make records source-verified.
+
+## Planned remaining Pass 1 iterations — 11-page cadence
+
+- **P3-02 — NEXT:** scans **234–244 / printed 217–227** — 11 scans; use scan 245 / printed 228 only as a boundary witness if required.
+- **P3-03:** scans **245–255 / printed 228–238** — 11 scans.
+- **P3-04:** scans **256–266 / printed 239–249** — 11 scans.
+- **P3-05:** scans **267–277 / printed 250–260** — 11 scans.
+- **P3-06:** scans **278–288 / printed 261–271** — 11 scans.
+- **P3-07:** scans **289–299 / printed 272–282** — 11 scans.
+- **P3-08:** scans **300–310 / printed 283–293** — 11 scans.
+- **P3-09:** scans **311–321 / printed 294–304** — 11 scans.
+- **P3-10:** scans **322–332 / printed 305–315** — 11 scans.
+- **Final remainder:** scan **333 / printed 316** — 1 scan.
+
+Where needed, inspect the first scan of the following iteration only as a boundary witness before committing the current batch.
 
 ## Part-ending intake witness
 
@@ -32,4 +55,4 @@ Scans **332–333 / printed 315–316** form the final visible Part 003 unit. Sc
 
 ## Exact next activity
 
-Complete **P3-01 — overall scans 223–255 / printed 206–238** as 33 page-aligned Tamil records under `works/kuraloviyam/pages/`, preserving exact source-visible wording, paragraph/dialogue structure, Kural blocks, chapter/Kural metadata, illustrations/non-body material and genuine cross-page continuities. Inspect scan 256 only as a boundary witness when needed. Do not normalize, import standard Kural wording, or claim Pass 2/Pass 3 verification.
+Complete **P3-02 — overall scans 234–244 / printed 217–227** as 11 page-aligned Tamil records under `works/kuraloviyam/pages/`, beginning by preserving the genuine **233→234** continuation. Inspect scan **245 / printed 228** only as a boundary witness when needed. Do not normalize, import standard Kural wording, or claim Pass 2/Pass 3 verification.
