@@ -20,7 +20,7 @@ Do not import standard Thirukkural wording, a published English Kural translatio
 
 **Tamil archival-ready → English draft → English source-check → glossary reconciliation → editorial review → Part-level review → release report → release-ready.**
 
-From the current checkpoint onward, the user-directed normal iteration size is **33 physical scan pages**. Historical completed batches retain their recorded sizes; a final Part remainder may be shorter.
+The user-directed normal iteration size is **33 physical scan pages**. Historical completed batches retain their recorded sizes; a final Part remainder may be shorter.
 
 ## Part 001 — CLOSED
 
@@ -34,26 +34,27 @@ Part 002 covers scans **112–222 / printed 95–205**, 111 physical pages, and 
 
 - first-pass drafting: **111/111 COMPLETE**;
 - source-check: **111/111 COMPLETE / CLOSED**;
-- glossary reconciliation: **48/111 ACTIVE**;
+- glossary reconciliation: **81/111 ACTIVE**;
 - editorial review: **0/111**.
 
 Completed glossary work:
 
 - **GR1 scans 112–126 / printed 95–109 — 15/15**;
-- **GR2 scans 127–159 / printed 110–142 — 33/33**, using the revised 33-page cadence.
+- **GR2 scans 127–159 / printed 110–142 — 33/33**;
+- **GR3 scans 160–192 / printed 143–175 — 33/33**.
 
-GR2 reconciled the remaining **Gandhiji → Gandhi** occurrence on scan 127, **paddy-chaff → chaff** on scan 134, the scan-153 lexical-note transliteration **`unaruththum` → `unarththum`**, and Chapter 133 **Delight → Joy of Lovers' Quarrel** on scan 155. `GLOSSARY.md` was extended with source-supported chapter labels, contextual kinship terms and narrative-name controls through scan 159.
+GR3 required **no English page wording corrections**. It confirmed existing controls and extended `GLOSSARY.md` with source-supported chapter labels, source spelling variants, cultural/work terms and personal/narrative forms evidenced through scan 192. Notable additions include **Knowing the Place**, **Refraining from Slander**, **Gracious Regard**, **Making the Sign Understood**, **Possession of Resolve**, **Not Succumbing to Adversity**, **Espionage**, **Fate**, **kavadi / paar-kavadi**, **Gajendra Moksha**, and **Kurunthogai**.
+
+The genuine continuities in scans 160–192 were preserved, including illustration-only scan 177 within **176→177→178**. The **192→193** boundary is clean; scan 193 was inspected only as the boundary witness for the final glossary remainder.
 
 No Tamil archival record changed, no page was promoted to `editorial-reviewed`, and no external/published/web English terminology was imported.
 
 ## Current frontier
 
-Proceed with **Part 002 glossary reconciliation GR3: scans 160–192 / printed 143–175 — 33 consecutive records**.
+Proceed with the **final Part 002 glossary remainder GR4: scans 193–222 / printed 176–205 — 30 records**.
 
-Scan 160 begins a new elephant/terrain/strength vignette after the clean **159→160** boundary. Reconcile terminology against `GLOSSARY.md` and the audited Tamil context; do not promote pages to `editorial-reviewed` at this gate.
+After GR4, glossary reconciliation reaches **111/111 COMPLETE**. The next gate will then be **Part 002 English editorial review**, using the normal 33-page iteration cadence.
 
-After GR3, the final glossary remainder is **GR4 scans 193–222 / printed 176–205 — 30 pages**.
-
-Do not begin editorial review until glossary reconciliation reaches 111/111. Do not begin Part 003 before Part 002 English review/release and final Part closure are complete.
+Do not begin Part 003 before Part 002 English editorial review, Part-level review, release report and final Part closure are complete.
 
 See `TRANSLATION_STATUS.md` for the authoritative detailed frontier.
