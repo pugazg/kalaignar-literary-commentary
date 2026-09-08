@@ -7,7 +7,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 | Part | Overall scans | Local pages | Visible printed-page boundary | Current state |
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
-| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English drafting ACTIVE 66/111** |
+| 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English drafting ACTIVE 77/111** |
 | 003 | 223–333 | 1–111 | not yet inspected | not-started |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
@@ -156,7 +156,7 @@ Part 002:
 - final metadata/status synchronization — **PASS / CLOSED, 111 textual verified + 111 visual verified**;
 - documentation synchronization — **COMPLETE**;
 - Tamil archival-ready checkpoint — **PASS / CLOSED**;
-- maintained English workflow — **ACTIVE — first-pass drafting 66/111; source-check 0/111**.
+- maintained English workflow — **ACTIVE — first-pass drafting 77/111; source-check 0/111**.
 
 ## Current frontier
 
@@ -164,6 +164,6 @@ Part 002:
 
 **Part 002 Tamil: ARCHIVAL-READY / CLOSED.**
 
-**Part 002 English: ACTIVE — 66/111 first-pass draft records complete.**
+**Part 002 English: ACTIVE — 77/111 first-pass draft records complete.**
 
-Exact next activity: **Part 002 English draft Batch 7, overall scans 178–188 / printed 161–171**, using audited Tamil page records as the normal working authority. Preserve the incoming **176→177→178** continuation when drafting scan 178. Do not begin Part 003 before Part 002 completes its maintained English workflow and final Part closure.
+Exact next activity: **Part 002 English draft Batch 8, overall scans 189–199 / printed 172–182**, using audited Tamil page records as the normal working authority. Preserve the clean **188→189** source boundary when drafting scan 189. Do not begin Part 003 before Part 002 completes its maintained English workflow and final Part closure.
