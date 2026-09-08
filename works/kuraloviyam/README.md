@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Current archival state |
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English drafting ACTIVE 44/111** |
+| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English drafting ACTIVE 55/111** |
 | 003 | 223–333 | not-started |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
@@ -41,7 +41,7 @@ Permanent cadence:
 
 **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
 
-Part 002 first-pass drafting is now **ACTIVE: 44/111 complete**.
+Part 002 first-pass drafting is now **ACTIVE: 55/111 complete**.
 
 Completed:
 
@@ -49,8 +49,9 @@ Completed:
 - **Batch 2: scans 123–133 / printed pages 106–116 — 11/11 draft records.**
 - **Batch 3: scans 134–144 / printed pages 117–127 — 11/11 draft records.**
 - **Batch 4: scans 145–155 / printed pages 128–138 — 11/11 draft records.**
+- **Batch 5: scans 156–166 / printed pages 139–149 — 11/11 draft records.**
 
-Batch 4 closes the coconut-grove continuation at **145**, then preserves physician/tiger **146→147**, moon/separation **148→149**, Thelindhan/Nelindhan **150→151→152**, self-contained scan **153**, and lovers/ஊடல் **154→155**. Scan **155→156** is a clean source boundary.
+Batch 5 closes crowd/critical-inquiry **156→157**, Maavengko/Maangani **158→159**, elephant/terrain **160→161**, slander/friendship **162→163** and one-sided-love/kavadi **164→165**. Scan **166→167** is a genuine continuation into the next batch, so Batch 5 ends at a physical batch boundary inside the medical/valor vignette.
 
 No Tamil page record was changed during English drafting, and no published/standard/web English Kural wording was imported.
 
@@ -63,6 +64,6 @@ English controls:
 
 ## Current frontier
 
-**Next activity: Part 002 English first-pass draft Batch 5 — scans 156–166 / printed 139–149, 11 records.**
+**Next activity: Part 002 English first-pass draft Batch 6 — scans 167–177 / printed 150–160, 11 records.**
 
 Do not begin source-check until first-pass drafting covers all 111 Part 002 records. Do not begin Part 003 before Part 002 English review/release and final Part closure are complete.
