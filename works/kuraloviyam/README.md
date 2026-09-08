@@ -9,7 +9,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | Part | Overall scans | Current archival state |
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
-| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English first-pass COMPLETE 111/111; source-check ACTIVE 60/111** |
+| 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English first-pass COMPLETE 111/111; source-check ACTIVE 75/111** |
 | 003 | 223–333 | not-started |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
@@ -38,25 +38,26 @@ Permanent cadence:
 **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
 
 - first-pass drafting: **111/111 COMPLETE**;
-- source-check: **60/111 ACTIVE**.
+- source-check: **75/111 ACTIVE**.
 
 Completed source-check batches:
 
 - **SC1 scans 112–126 / printed 95–109 — 15/15**;
 - **SC2 scans 127–141 / printed 110–124 — 15/15**;
 - **SC3 scans 142–156 / printed 125–139 — 15/15**;
-- **SC4 scans 157–171 / printed 140–154 — 15/15**.
+- **SC4 scans 157–171 / printed 140–154 — 15/15**;
+- **SC5 scans 172–186 / printed 155–169 — 15/15**.
 
-SC4 preserved the genuine **156→157** continuation and closure, all source-supported internal clean/continuing boundaries through scans 157–171, and the clean **171→172** boundary. Material fidelity corrections removed unsupported explanatory English additions on scan **168 / printed 151** and corrected `துணைவன்` on **scan 169 / printed 152** to the absent **husband**, distinct from the female friend who is present.
+SC5 preserved the clean **171→172** opening boundary, all source-supported internal continuations and clean boundaries through scans 172–186, and the clean **186→187** boundary. Material fidelity corrections were made on **scan 173 / printed 156**, removing the unsupported “I will not let you come” expansion from the imagined plea, and on **scan 186 / printed 169**, removing the unsupported “people say” qualifier from the assistant's statement about fate.
 
 No Tamil page record was changed and no published/standard/web English Kural wording was imported.
 
 ## Current frontier
 
-**Next activity: Part 002 English source-check SC5 — scans 172–186 / printed 155–169, 15 records.**
+**Next activity: Part 002 English source-check SC6 — scans 187–201 / printed 170–184, 15 records.**
 
-Scan **172** begins a new lovers/separation vignette after the clean 171→172 boundary. Compare each English page against its audited Tamil counterpart and promote only passing records to `source-checked`.
+Scan **187** begins a new separation/evening vignette after the clean 186→187 boundary. Compare each English page against its audited Tamil counterpart and promote only passing records to `source-checked`.
 
-Next after SC5: **SC6 scans 187–201 / printed 170–184**.
+Next after SC6: **SC7 scans 202–216 / printed 185–199**.
 
 Do not begin glossary reconciliation until source-check covers all 111 Part 002 records. Do not begin Part 003 before Part 002 English review/release and final Part closure are complete.
