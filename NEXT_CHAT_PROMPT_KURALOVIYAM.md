@@ -30,8 +30,9 @@ Part 001 is closed. Part 002 Tamil is archival-ready/closed at **111/111 textual
 Part 002 maintained English:
 
 - first-pass drafting: **111/111 COMPLETE**;
-- source-check: **75/111 ACTIVE**;
-- glossary reconciliation: **0/111**;
+- source-check: **111/111 COMPLETE / CLOSED**;
+- remaining `draft` pages: **0**;
+- glossary reconciliation: **0/111 — NEXT**;
 - editorial review: **0/111**.
 
 Completed source-check:
@@ -40,27 +41,29 @@ Completed source-check:
 - **SC2: scans 127–141 / printed 110–124 — 15/15**;
 - **SC3: scans 142–156 / printed 125–139 — 15/15**;
 - **SC4: scans 157–171 / printed 140–154 — 15/15**;
-- **SC5: scans 172–186 / printed 155–169 — 15/15**.
+- **SC5: scans 172–186 / printed 155–169 — 15/15**;
+- **SC6: scans 187–201 / printed 170–184 — 15/15**;
+- **SC7: scans 202–216 / printed 185–199 — 15/15**;
+- **SC8: scans 217–222 / printed 200–205 — final 6/6**.
 
-SC5 source-fidelity corrections: on **scan 173 / printed 156**, removed the unsupported expansion “I will not let you come” and preserved `நான் வரவில்லையென்று நண்பருக்குச் சொல்லிவிட்டு` as **“Tell your friend, ‘I am not coming,’ ...”**; on **scan 186 / printed 169**, removed the unsupported “people say” qualifier from the assistant's statement about fate. SC5 preserved all source-supported continuations and clean boundaries, ending with the clean **186→187** boundary. No Tamil archival record changed and no published/standard/web English Kural wording was imported.
+Closing source-check fixes removed unsupported English additions on scans **198, 199, 207 and 219** and corrected scan **215** to preserve the source image rather than the draft's invented “plant defeat” wording. The closing work preserved illustration-only scan **203**, the non-body library stamps on **217–218**, and genuine final **221→222** continuity. No Tamil archival record changed and no published/standard/web English Kural wording was imported.
 
-## Exact next activity — English source-check SC6
+## Exact next activity — English glossary reconciliation GR1
 
-Source-check **overall scans 187–201 / printed pages 170–184**, 15 consecutive records.
+Reconcile **overall scans 112–126 / printed pages 95–109**, 15 consecutive records.
 
 Requirements:
 
 1. fetch live `main` first;
-2. use audited Tamil files `works/kuraloviyam/pages/0187-kuraloviyam-170.md` through `0201-kuraloviyam-184.md` as the fidelity authority;
-3. compare matching English records paragraph-by-paragraph / block-by-block for omissions, additions and meaning drift;
-4. scan **187** begins a new illustrated separation/evening vignette after the clean **186→187** boundary;
-5. check names, titles, quotations, Kural blocks, visual-page function and cross-page continuations;
-6. only passing records may move from `draft` to `source-checked`;
-7. do not use source-check for unrelated stylistic rewriting;
-8. do not import standard/published/web English Thirukkural wording;
-9. do not silently normalize or repair source-controlled Tamil;
-10. update English status/frontier and audit the exact changed-file set after SC6.
+2. use source-checked English files `works/kuraloviyam/translations/en/pages/0112-kuraloviyam-95.md` through `0126-kuraloviyam-109.md`, matching audited Tamil records, and `GLOSSARY.md`;
+3. compare recurring names, work/section names, controlled literary terms, publication names, chapter labels and repeated English renderings against source context;
+4. update `GLOSSARY.md` only for recurring terminology actually evidenced in Part 002;
+5. do not mechanically force one English equivalent where the Tamil context requires another;
+6. glossary reconciliation does **not** promote `source-checked` pages to `editorial-reviewed`;
+7. do not import terminology from external editions, web sources or memory;
+8. do not silently normalize or repair source-controlled Tamil;
+9. update English status/frontier and audit the exact changed-file set after GR1.
 
-Next after SC6: **SC7 scans 202–216 / printed 185–199**, 15 records.
+Next after GR1: **GR2 scans 127–141 / printed 110–124**, 15 records.
 
-Do not begin glossary reconciliation until Part 002 source-check covers all **111/111** records. Part 003 must not begin before Part 002 English review/release and final Part closure are complete.
+Part 003 must not begin before Part 002 glossary reconciliation, editorial review, Part-level review, release report and final Part closure are complete.
