@@ -8,7 +8,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
 | 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **SOURCE INTAKE + Pass 1 + Pass 2A COMPLETE — 111/111; Pass 2B ACTIVE — 20/111 through scan 242** |
+| 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **SOURCE INTAKE + Pass 1 + Pass 2A COMPLETE — 111/111; Pass 2B ACTIVE — 30/111 through scan 252** |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
 | 006 | 556–666 | 1–111 | not yet inspected | not-started |
@@ -227,7 +227,8 @@ Part 003 Pass 2B verified frontier:
 
 - Batch 1: **223–232 / printed 206–215 — COMPLETE 10/10**; source-supported corrections on scans **223 and 226**; scans **224, 225, 227, 228, 229, 230, 231, 232** no-change; **232→233 CLEAN** reconfirmed from scan 233 witness;
 - Batch 2: **233–242 / printed 216–225 — COMPLETE 10/10**; source-supported corrections on scans **235 and 236**; scans **233, 234, 237, 238, 239, 240, 241, 242** no-change; **242→243 CLEAN** confirmed from scan 243 witness;
-- cumulative Pass-2B coverage: **20/111 through scan 242 / printed 225 — ACTIVE**;
+- Batch 3: **243–252 / printed 226–235 — COMPLETE 10/10**; source-supported corrections on scans **249, 250, 251 and 252**; scans **243, 244, 245, 246, 247, 248** no-change; **252→253 genuine continuation** reconfirmed from scan 253 witness;
+- cumulative Pass-2B coverage: **30/111 through scan 252 / printed 235 — ACTIVE**;
 - all Part 003 records remain `needs-review` / `visual_fidelity: needs-review` until later gates close.
 
 ## Additional physical notes
@@ -264,6 +265,7 @@ Part 003 Pass 2B verified frontier:
 - **233→234** genuine continuation;
 - **242→243** clean, independently reconfirmed during Part 003 Pass-2B Batch 2;
 - **244→245** clean;
+- **252→253** genuine continuation, independently reconfirmed during Part 003 Pass-2B Batch 3;
 - **255→256** clean;
 - **266→267** genuine continuation;
 - **277→278** clean; scan 278 begins a new illustrated vignette;
@@ -312,7 +314,7 @@ Part 003:
 - source intake — **PASS / COMPLETE**;
 - Pass 1 — **COMPLETE, 111/111 captured through scan 333 / printed 316**;
 - Pass 2A — **COMPLETE, 111/111 verified through scan 333 / printed 316**;
-- Pass 2B — **ACTIVE, 20/111 independently re-read through scan 242 / printed 225**;
+- Pass 2B — **ACTIVE, 30/111 independently re-read through scan 252 / printed 235**;
 - Pass 3 — not-started;
 - Part audit — not-started;
 - Tamil archival-ready — not-started;
@@ -324,6 +326,6 @@ Part 003:
 
 **Part 002: Tamil + English CLOSED.**
 
-**Part 003: SOURCE INTAKE + PASS 1 + PASS 2A COMPLETE — 111/111; PASS 2B ACTIVE — 20/111 through scan 242 / printed 225.**
+**Part 003: SOURCE INTAKE + PASS 1 + PASS 2A COMPLETE — 111/111; PASS 2B ACTIVE — 30/111 through scan 252 / printed 235.**
 
-Exact next activity: **Part 003 Pass 2B / Batch 3 — scans 243–252 / printed 226–235, 10 independent lexical-fidelity scans**. Begin after the confirmed clean **242→243** boundary. Re-read every source-visible printed word against freshly rendered scans, with special attention to `ர/ற`, `ன/ண`, `ல/ள/ழ`, vowel signs, compound letters, source-visible joining/spacing, old or uncommon forms, names, quotations, Kural wording/lineation, punctuation and printed `அதிகாரம்` / பாடல் metadata. Keep all page records at `needs-review` / `visual_fidelity: needs-review`, update the dedicated Part-003 Pass-2B log, and audit the exact changed-file set before advancing.
+Exact next activity: **Part 003 Pass 2B / Batch 4 — scans 253–262 / printed 236–245, 10 independent lexical-fidelity scans**. Begin inside the confirmed genuine **252→253** continuation. Re-read every source-visible printed word against freshly rendered scans, with special attention to `ர/ற`, `ன/ண`, `ல/ள/ழ`, vowel signs, compound letters, source-visible joining/spacing, old or uncommon forms, names, quotations, Kural wording/lineation, punctuation and printed `அதிகாரம்` / பாடல் metadata. Keep all page records at `needs-review` / `visual_fidelity: needs-review`, update the dedicated Part-003 Pass-2B log, and audit the exact changed-file set before advancing.
