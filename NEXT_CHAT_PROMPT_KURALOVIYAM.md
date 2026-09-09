@@ -34,7 +34,7 @@ Read completely before changing anything:
 - Part 002 English: **RELEASE COMPLETE / CLOSED — 111/111 release-ready**.
 - Part 003 source intake: **PASS / COMPLETE**.
 - Part 003 Pass 1: **COMPLETE — scans 223–333 / 111 of 111 captured**.
-- Part 003 Pass 2A: **ACTIVE — 55/111 verified through scan 277 / printed 260**.
+- Part 003 Pass 2A: **ACTIVE — 66/111 verified through scan 288 / printed 271**.
 - Part 003 Pass 2B, Pass 3, audit and Tamil archival-ready: **not-started**.
 - English remains **blocked until Tamil closure**.
 
@@ -97,21 +97,25 @@ User directive: **process 11 physical scans in each normal Pass-2A iteration**, 
 
 **Scans 267–277 / printed 250–260 — COMPLETE 11/11.** Six records corrected: **267, 269, 271, 273, 275, 277**. Scans **268, 270, 272, 274 and 276** required no textual correction. Scan **278 / printed 261** was inspected only as the boundary witness and reconfirms **277→278 CLEAN**.
 
-Important Batch-5 source-specific readings restored include `தொடமுடியாமல்`, `உச்சிமுதல்`, `இடித்துரைத்துக்`, `கூடிமகிழும் நிலையில்`, the source comma in `அதாவது,`, the missing `என்பது`, plus source quotation punctuation around Kurals 1220, 155, 1327, 133, 1267 and 476. See `PASS2_TEXTUAL_VERIFICATION_PART_003.md` for the complete per-scan record.
+## Pass 2A Batch 6 — COMPLETE
 
-## Exact next activity — Part 003 Pass 2A / Batch 6
+**Scans 278–288 / printed 261–271 — COMPLETE 11/11.** Five records corrected: **279, 281, 283, 285, 287**. Scans **278, 280, 282, 284, 286 and 288** required no textual correction. Scan **289 / printed 272** was inspected only as the boundary witness and reconfirms **288→289 as a genuine continuation**.
 
-Process **scans 278–288 / printed 261–271 — 11 physical scans** in one iteration.
+Important Batch-6 source-specific readings restored include `நடுங்குவதைக்கண்டு`, `தனக்கு எல்லாம் தெரிந்திருப்பதைப்போலப் புகழைப் போன்றதாம்! அதைவிடப் பேதைமையே இல்லை என்கிறது குறள்!`, `தன்னம்பிக்கையுடன்`, `வறுமைக்கு எங்கள் நாட்டில் வறுமை`, `மிக்க வலிமை`, `என்று செய்திகூட`, plus source quotation punctuation around Kurals 1287, 840, 1107, 448 and 1199. See `PASS2_TEXTUAL_VERIFICATION_PART_003.md` for the complete per-scan record.
+
+## Exact next activity — Part 003 Pass 2A / Batch 7
+
+Process **scans 289–299 / printed 272–282 — 11 physical scans** in one iteration.
 
 Requirements:
 
 1. fetch live `main` first;
 2. resolve the supplied Part 003 PDF and inspect rendered scans directly;
-3. begin after the confirmed clean **277→278** boundary;
-4. fetch current page records `0278`–`0288` before comparison;
+3. begin scan **289 / printed 272** as the genuine continuation of the Valluvar / renunciation vignette from scan 288;
+4. fetch current page records `0289`–`0299` before comparison;
 5. compare source-visible wording, punctuation, paragraph/quotation boundaries, Kural text/lineation and printed metadata word-for-word against the scans;
 6. make only source-supported corrections;
-7. inspect scan **289 / printed 272** only as a continuity/boundary witness when needed; Pass-1 mapping records **288→289 as a genuine continuation**;
+7. inspect scan **300 / printed 283** only as a continuity/boundary witness when needed; Pass-1 mapping records **299→300 as CLEAN**;
 8. update `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md` to log every correction/no-change result;
 9. keep all records at `needs-review` / `visual_fidelity: needs-review`;
 10. audit the exact changed-file set before advancing;
