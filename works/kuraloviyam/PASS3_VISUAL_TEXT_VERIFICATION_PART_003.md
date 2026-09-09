@@ -171,12 +171,43 @@ This is not another lexical reread. Settled wording is not normalized or rewritt
 - Lexical body-text changes: **0**.
 - Status promotion: **0**.
 
+## Batch 6 — scans 278–288 / printed 261–271
+
+**Result: COMPLETE — 11 / 11.**
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 278 | 261 | **NO STRUCTURAL CHANGE** — large upper river illustration with Killi/Nalli beside the water and a swimmer visible in the river; prose begins the lovers'-quarrel / flood-swimmer analogy after the clean 277→278 boundary and continues directly to scan 279. |
+| 279 | 262 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Killi/Nalli vignette; Kural 1287 remains a distinct block above Chapter 129 metadata. |
+| 280 | 263 | **NO STRUCTURAL CHANGE** — large upper domestic illustration with mother, child and father; prose begins the household-cleanliness / foolishness vignette and continues directly to scan 281. |
+| 281 | 264 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the household-cleanliness / foolishness vignette; Kural 840 remains a distinct block above Chapter 84 metadata. |
+| 282 | 265 | **NO STRUCTURAL CHANGE** — large upper composite intimacy/household illustration associated with the married couple; prose begins the union-and-self-earned-sharing vignette and continues directly to scan 283. |
+| 283 | 266 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the union-and-self-earned-sharing vignette; Kural 1107 remains a distinct block above Chapter 111 metadata. |
+| 284 | 267 | **NO STRUCTURAL CHANGE** — large upper illustration with the ruler dominant above two conversing learned men; prose begins the two-poets / ruler-and-counsel vignette and continues directly to scan 285. |
+| 285 | 268 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the two-poets / ruler-and-counsel vignette; Kural 448 remains a distinct block above Chapter 45 metadata. |
+| 286 | 269 | **NO STRUCTURAL CHANGE** — large upper illustration with a woman in the foreground and a warrior behind; prose begins the war-separation / beloved's-fame vignette and continues directly to scan 287. |
+| 287 | 270 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the war-separation / beloved's-fame vignette; Kural 1199 remains a distinct block above Chapter 120 metadata. |
+| 288 | 271 | **NO STRUCTURAL CHANGE** — large upper illustration of Valluvar seated beneath a tree speaking with a standing man seeking guidance on ascetic life; prose begins the renunciation vignette and continues directly to scan 289. |
+
+### Boundary / continuity result
+
+- Incoming **277→278 remains CLEAN**.
+- **288→289 is a genuine continuation**, reconfirmed from scan 289 / printed 272 as the outgoing witness.
+- Scan 289 was used only as the outgoing witness and is **not** counted in Batch 6.
+
+### Batch 6 correction summary
+
+- Structural/visual-description corrections: **0**.
+- No-change scans: **278–288 — 11 pages**.
+- Lexical body-text changes: **0**.
+- Status promotion: **0**.
+
 ## Current Pass-3 frontier
 
-**55 / 111 complete through scan 277 / printed 260.**
+**66 / 111 complete through scan 288 / printed 271.**
 
 All Part-003 records remain `needs-review` / `visual_fidelity: needs-review`.
 
-## Exact next activity — Batch 6
+## Exact next activity — Batch 7
 
-Process **scans 278–288 / printed 261–271 — 11 physical scans**, beginning after the confirmed CLEAN **277→278** boundary. Inspect **scan 289 / printed 272** only as the outgoing boundary/continuity witness when needed. Keep the same visual-text-only gate; do not start the Part audit.
+Process **scans 289–299 / printed 272–282 — 11 physical scans**, beginning inside the confirmed genuine **288→289** continuation. Inspect **scan 300 / printed 283** only as the outgoing boundary/continuity witness when needed. Keep the same visual-text-only gate; do not start the Part audit.
