@@ -190,10 +190,58 @@ Batch 8 corrections were therefore required on scans **293, 294, 295, 299 and 30
 
 Batch 9 corrections were therefore required on scans **304 and 305**. Scans **303, 306, 307, 308, 309, 310, 311 and 312** required no new Pass-2B correction.
 
-Current Part 003 Pass-2B frontier: **90 / 111 scans independently re-read — through scan 312 / printed 295**.
+## Batch 10 — overall scans 313–322 / printed pages 296–305
 
-## Next batch
+**Status: COMPLETE — 10 / 10 scans independently re-read against freshly rendered source pages for Pass 2B.** Incoming **312→313 CLEAN** preserved. Scan **323 / printed 306** was inspected only as the outgoing witness and confirms **322→323 genuine continuation** of the classroom / `வலியறிதல்` vignette.
 
-**Batch 10 — scans 313–322 / printed 296–305 — 10 scans.** Begin after the confirmed **312→313 CLEAN** boundary. Use freshly rendered source scans, re-read independently at word/character level, preserve source punctuation/quotation/Kural lineation and metadata, and keep all records at `needs-review` / `visual_fidelity: needs-review`. Inspect scan **323 / printed 306** only as the outgoing boundary witness if needed.
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 313 | 296 | no new lexical correction; agriculture / poverty-and-idleness opening independently reconfirmed |
+| 314 | 297 | corrected `வளமான விளைவை காணுகிறீர்` → `வளமான விளைவைக் காணுகிறீர்`; remaining Kaarmegam / land-and-idleness conclusion, Kural 1040, lineation and Chapter 104 metadata reconfirmed |
+| 315 | 298 | no new lexical correction; pallor / separation opening independently reconfirmed |
+| 316 | 299 | corrected `திங்கள் இரண்டு தேய்ந்து மறைந்தன` → `திங்கள் இரண்டு தேய்ந்து மாய்ந்தன`; remaining Seyizhai / pallor conclusion, Kural 1188, lineation and Chapter 119 metadata reconfirmed |
+| 317 | 300 | no new lexical correction; strength-and-self-knowledge opening independently reconfirmed |
+| 318 | 301 | no new lexical correction; boastful-climber conclusion, Kural 474, lineation and Chapter 48 metadata reconfirmed |
+| 319 | 302 | no new lexical correction; lovers' quarrel / interpreting-signs opening independently reconfirmed |
+| 320 | 303 | corrected `பூஞ்செடியின்` → `பூச்செடியின்`; corrected `இந்த நேரத்தில்` → `இந்நேரத்தில்`; remaining continuation independently reconfirmed |
+| 321 | 304 | no new lexical correction; Kural 1097, source glosses, lineation and Chapter 110 metadata independently reconfirmed |
+| 322 | 305 | corrected `மாணாக்கர்க்குப்` → source form `மாணாக்கர்கட்குப்`; remaining classroom / `வலியறிதல்` opening independently reconfirmed; **322→323 genuine continuation** |
 
-External **333→334** remains deferred until Part 004 source intake.
+Batch 10 corrections were therefore required on scans **314, 316, 320 and 322**. Scans **313, 315, 317, 318, 319 and 321** required no new Pass-2B correction.
+
+## Batch 11 — overall scans 323–332 / printed pages 306–315
+
+**Status: COMPLETE — 10 / 10 scans independently re-read against freshly rendered source pages for Pass 2B.** Incoming **322→323 genuine continuation** preserved. Scan **333 / printed 316** was inspected only as the outgoing witness and reconfirms **332→333 genuine continuation** of the severe-rule / famine vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 323 | 306 | classroom / `வலியறிதல்` conclusion, Kurals 479 and 473, lineation and Chapter 48 metadata independently reconfirmed; no new correction |
+| 324 | 307 | Iraaman / Annam-Amudham chastity opening independently reconfirmed; no new correction |
+| 325 | 308 | Iraaman / chastity conclusion, Kural 57, lineation and Chapter 6 metadata independently reconfirmed; no new correction |
+| 326 | 309 | restored source-visible spacing `திங்கள்சந்தைக்குப்` → `திங்கள் சந்தைக்குப்`; remaining Ezhini / Iniyan 'Yama' opening independently reconfirmed |
+| 327 | 310 | Ezhini / Iniyan conclusion, Kural 1083, lineation and Chapter 109 metadata independently reconfirmed; no new correction |
+| 328 | 311 | solitary-beauty / unused-wealth opening independently reconfirmed; no new correction |
+| 329 | 312 | solitary-beauty / unused-wealth conclusion, Kural 1007, lineation and Chapter 101 metadata independently reconfirmed; no new correction |
+| 330 | 313 | burden / moral-faults opening independently reconfirmed; no new correction |
+| 331 | 314 | burden / moral-faults conclusion, Kural 35, lineation and Chapter 4 metadata independently reconfirmed; no new correction |
+| 332 | 315 | severe-rule / famine opening independently reconfirmed; source-visible `ஆர்ப்பாட்டம் செய்கிறார்கள்` retained; no new correction; scan 333 witness reconfirms **332→333 genuine continuation** |
+
+Batch 11 correction was therefore required only on scan **326**. Scans **323, 324, 325, 327, 328, 329, 330, 331 and 332** required no new Pass-2B correction.
+
+## Final remainder — overall scan 333 / printed page 316
+
+**Status: COMPLETE — 1 / 1 scan independently re-read against the freshly rendered source page for Pass 2B.** Incoming **332→333 genuine continuation** directly reconfirmed. External **333→334 remains deferred** until Part 004 source intake.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 333 | 316 | corrected source-visible `இறுதியான` → `இறுதி யான` and `தலைமை ஏற்று` → `தலைமைபெற்று`; remaining severe-rule / famine conclusion, quoted Kural 567 lineation, Chapter 57 `வெருவந்த செய்யாமை` metadata, side title/page furniture separation and Part ending independently reconfirmed |
+
+## Pass 2B closure
+
+**COMPLETE — 111 / 111 Part-003 scans independently re-read, overall scans 223–333 / printed pages 206–316.**
+
+The internal **332→333 genuine continuation is closed**. External **333→334 remains deferred until Part 004 source intake**. All page records intentionally remain `status: "needs-review"` / `visual_fidelity: "needs-review"`; Pass 3, Part audit and final metadata/status synchronization are still required before Tamil archival-ready closure.
+
+## Next activity
+
+Begin **Part 003 Pass 3 meaningful visual-text verification / Batch 1 — scans 223–232 / printed 206–215, 10 scans**, following `PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md` as precedent. Pass 3 verifies heading hierarchy, Kural/quotation lineation and block placement, prose/quotation relationships, page furniture, source/non-source visual separation, illustration/text order and relationship, physical-page continuation and source-size legibility. Do not repeat lexical verification or promote page statuses during Pass 3.
