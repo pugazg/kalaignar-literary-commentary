@@ -10,7 +10,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
 | 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | **source intake + Pass 1 COMPLETE — 111/111; Pass 2A ACTIVE — 22/111 verified** |
+| 003 | 223–333 | **source intake + Pass 1 COMPLETE — 111/111; Pass 2A ACTIVE — 33/111 verified** |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
 | 006 | 556–666 | not-started |
@@ -87,13 +87,14 @@ User-directed Pass-2A cadence: **11 physical scans per normal iteration**, with 
 
 - **Batch 1: scans 223–233 / printed 206–216 — COMPLETE 11/11**; 8 records corrected, 3 no-change; **233→234 genuine** reconfirmed.
 - **Batch 2: scans 234–244 / printed 217–227 — COMPLETE 11/11**; 9 records corrected, scans **239** and **241** no-change; **244→245 CLEAN** confirmed from scan 245 witness.
+- **Batch 3: scans 245–255 / printed 228–238 — COMPLETE 11/11**; 10 records corrected, scan **254** no-change; **255→256 CLEAN** confirmed from scan 256 witness.
 
-Representative Batch-2 source readings restored include `தங்களூருக்குத்`, `வேலை வாய்ப்புத் தேடி`, `அடே டே..!`, `எழிற்பாவை யொருத்தியை`, `இணையற்ற`, `சினுங்கினாள்`, `கலங்கினர்`, `முடியுமென`, `இதழ் மொட்டு`, `நீர்வையம்`, `களம்புகும்`, `நடையழகு`, plus printed quotation punctuation around the relevant Kural blocks.
+Representative Batch-3 source readings restored include `இணைபிரியாத்`, `மணநிகழ்ச்சி`, `முற்றாத இளங்காயைப்`, `மணாளனைத்`, `வளத்தைக்`, `கொள்ளுதல்`, `வரிப்புலி`, `பொற்களஞ்சியங்களாகப்`, `தத்துப்பிள்ளை`, `திண்ணை`, `ஏக்கத்தை`, `நீங்களும்`, `சினந்து`, `தேடக்கூடியது`, `கரம்பிடித்து`, plus printed quotation punctuation around the relevant Kural blocks.
 
-Current Pass-2A frontier: **22 / 111 scans verified through scan 244 / printed 227**. All records remain `needs-review` / `visual_fidelity: needs-review`; later Pass 2B, Pass 3, audit and final synchronization are still required before textual/visual `verified` status.
+Current Pass-2A frontier: **33 / 111 scans verified through scan 255 / printed 238**. All records remain `needs-review` / `visual_fidelity: needs-review`; later Pass 2B, Pass 3, audit and final synchronization are still required before textual/visual `verified` status.
 
 Durable Pass-2A record: `PASS2_TEXTUAL_VERIFICATION_PART_003.md`.
 
 ## Current frontier
 
-**Next activity: Part 003 Pass 2A / Batch 3 — scans 245–255 / printed 228–238, 11 direct textual-verification scans.** Begin after the confirmed clean **244→245** boundary and inspect scan **256 / printed 239** only as a continuity/boundary witness when necessary. Compare source-visible wording, punctuation, paragraph/quotation boundaries, Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata directly against rendered scans. Keep records at `needs-review` / `visual_fidelity: needs-review`; do not normalize or import standard Kural wording.
+**Next activity: Part 003 Pass 2A / Batch 4 — scans 256–266 / printed 239–249, 11 direct textual-verification scans.** Begin after the confirmed clean **255→256** boundary and inspect scan **267 / printed 250** only as a continuity/boundary witness when necessary; Pass-1 mapping records **266→267 as a genuine continuation**. Compare source-visible wording, punctuation, paragraph/quotation boundaries, Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata directly against rendered scans. Keep records at `needs-review` / `visual_fidelity: needs-review`; do not normalize or import standard Kural wording.
