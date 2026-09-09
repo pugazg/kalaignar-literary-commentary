@@ -21,9 +21,10 @@ Read completely before changing anything:
 9. `works/kuraloviyam/indexes/page-map.md`
 10. `works/kuraloviyam/SOURCE_INTAKE_PART_003.md`
 11. `works/kuraloviyam/PART_003_PASS1_PROGRESS.md`
-12. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`
-13. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
-14. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
+12. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_002.md` as Pass-2A precedent
+13. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`
+14. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
+15. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
 
 ## Durable state
 
@@ -31,9 +32,10 @@ Read completely before changing anything:
 - Part 002 Tamil: **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified**.
 - Part 002 English: **RELEASE COMPLETE / CLOSED — 111/111 release-ready**.
 - Part 003 source intake: **PASS / COMPLETE**.
-- Part 003 Pass 1: **ACTIVE — scans 223–332 / 110 of 111 captured**.
-- Completed Pass-1 batches: **P3-01 through P3-10**.
-- Final Part-003 Pass-1 remainder: **scan 333 / printed 316 — NEXT**.
+- Part 003 Pass 1: **COMPLETE — scans 223–333 / 111 of 111 captured**.
+- Part 003 Pass 2A: **NEXT / not-started**.
+- Part 003 Pass 2B, Pass 3, audit and Tamil archival-ready: **not-started**.
+- English remains **blocked until Tamil closure**.
 
 ## Part 003 controlling source
 
@@ -48,35 +50,11 @@ Confirmed source identity:
 - SHA-256: `f07e7cdb3a6e786b0378e00bbe699a241be41c9e099c004a4faa90fa82b4239f`;
 - no usable parsed text layer; rendered scan images control.
 
-## Boundary state
+## Pass 1 closure
 
-**222→223 is CLEAN.**
+Part 003 Pass 1 is **COMPLETE 111/111**.
 
-Through the current Part-003 frontier:
-
-- **233→234 genuine continuation**;
-- **244→245 clean**;
-- **255→256 clean**;
-- **266→267 genuine continuation**;
-- **277→278 clean**;
-- **288→289 genuine continuation**;
-- **299→300 clean**;
-- **310→311 clean**;
-- **321→322 clean**;
-- **323→324 clean**;
-- **325→326 clean**;
-- **327→328 clean**;
-- **329→330 clean**;
-- **331→332 clean**;
-- **332→333 genuine continuation**.
-
-P3-10 scan **332 / printed 315** begins the severe-rule / famine vignette. Scan **333 / printed 316** was inspected only as the outgoing P3-10 boundary witness and continues the same unit, closing it with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567. It must be the one page captured in the final Pass-1 remainder.
-
-The external **333→334** boundary remains deferred until Part 004 intake and must not be inferred.
-
-## User-directed Part 003 Pass 1 cadence
-
-Completed:
+Completed capture:
 
 - **P3-01: 223–233 / printed 206–216 — COMPLETE 11/11**;
 - **P3-02: 234–244 / printed 217–227 — COMPLETE 11/11**;
@@ -87,38 +65,44 @@ Completed:
 - **P3-07: 289–299 / printed 272–282 — COMPLETE 11/11**;
 - **P3-08: 300–310 / printed 283–293 — COMPLETE 11/11**;
 - **P3-09: 311–321 / printed 294–304 — COMPLETE 11/11**;
-- **P3-10: 322–332 / printed 305–315 — COMPLETE 11/11**.
+- **P3-10: 322–332 / printed 305–315 — COMPLETE 11/11**;
+- **final remainder: 333 / printed 316 — COMPLETE 1/1**.
 
-Remaining:
+Final unit: **332→333 genuine continuation**. Scan 332 begins the severe-rule / famine vignette; scan 333 continues and closes it with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567. External **333→334 remains deferred** until Part 004 intake.
 
-- **final remainder: scan 333 / printed 316 — NEXT / 1 scan**.
+All 111 Part-003 page records remain:
 
-## P3-10 durable capture summary
+- `status: "needs-review"`
+- `visual_fidelity: "needs-review"`
 
-- scans **322–323** — classroom / `வலியறிதல்` vignette; Chapter 48 / Kurals 479, 473;
-- scans **324–325** — Iraaman / Annam-Amudham chastity vignette; Chapter 6 / Kural 57;
-- scans **326–327** — Ezhini / Iniyan “Yama” love vignette; Chapter 109 / Kural 1083;
-- scans **328–329** — solitary-beauty / unused-wealth analogy; Chapter 101 / Kural 1007;
-- scans **330–331** — burden / moral-faults / `அழுக்காறு` vignette; Chapter 4 / Kural 35;
-- scan **332** — severe-rule / famine vignette begins and continues directly to scan 333.
+Do not promote records during Pass 2A.
 
-All Part-003 Pass-1 records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`. Do not promote them during capture.
+## Pass 2A rule
 
-## Exact next activity — final Part 003 Pass-1 remainder
+Pass 2A is **direct textual verification against rendered source scans**. For each page compare:
 
-Process **scan 333 / printed 316 — 1 physical page**.
+- every source-visible word and punctuation mark;
+- paragraph and quotation boundaries relevant to textual fidelity;
+- quoted Kural wording and printed lineation;
+- printed `அதிகாரம்` / பாடல் metadata;
+- physical continuations across scans;
+- separation of printed body text from illustrations, running/page furniture, stamps and other non-body marks.
+
+Correct only source-supported differences. Do not normalize, modernize, import standard/web Kural wording, use another edition, or guess from OCR/memory. Keep `status: "needs-review"` / `visual_fidelity: "needs-review"` until later gates close.
+
+## Exact next activity — Part 003 Pass 2A / Batch 1
+
+Process **scans 223–232 / printed 206–215 — 10 physical scans** in one iteration, following the established Part 002 Pass-2A precedent.
 
 Requirements:
 
-1. use the supplied Part 003 controlling PDF and inspect the rendered scan directly;
-2. begin scan 333 as the direct continuation of the severe-rule / famine vignette begun on scan 332;
-3. create exactly one page-aligned Tamil record: `works/kuraloviyam/pages/0333-kuraloviyam-316.md`;
-4. preserve exact visible wording, punctuation, paragraph/dialogue structure, Kural block and printed metadata;
-5. preserve the source-visible closing Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567;
-6. keep the new record at `status: "needs-review"` and `visual_fidelity: "needs-review"` unless a genuine source limitation requires otherwise;
-7. do not normalize, modernize, import standard/web Kural wording, use another edition, or guess from OCR/memory;
-8. do not infer **333→334** before Part 004 is supplied;
-9. after capture, synchronize `PART_003_PASS1_PROGRESS.md`, README, handovers, this prompt and page-map/frontier;
-10. audit the exact changed-file set;
-11. mark Part 003 Pass 1 **COMPLETE 111/111** only after scan 333 exists;
-12. then advance only to the next authorized Tamil archival gate; English remains blocked until Tamil closure.
+1. fetch live `main` first;
+2. resolve the supplied Part 003 PDF and inspect rendered scans directly;
+3. fetch current page records `0223`–`0232` before comparison;
+4. compare source-visible wording, punctuation, paragraph/quotation boundaries, Kural text/lineation and printed metadata word-for-word against the scans;
+5. make only source-supported corrections;
+6. inspect scan **233 / printed 216** only as a continuity witness when needed; scan 233 begins a vignette that continues to scan 234;
+7. create/update `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md` to log the batch and every correction/no-change result;
+8. keep all records at `needs-review` / `visual_fidelity: needs-review`;
+9. audit the exact changed-file set before advancing;
+10. do not begin Pass 2B until Pass 2A covers all 111 scans.
