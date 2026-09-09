@@ -233,12 +233,43 @@ This is not another lexical reread. Settled wording is not normalized or rewritt
 - Lexical body-text changes: **0**.
 - Status promotion: **0**.
 
+## Batch 8 — scans 300–310 / printed 283–293
+
+**Result: COMPLETE — 11 / 11.**
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 300 | 283 | **NO STRUCTURAL CHANGE** — large upper illustration of the two women with the cage/furnace imagery remains above the prose; the Thirumagal / Moodevi / labour-and-idleness vignette begins after the clean 299→300 boundary and continues directly to scan 301. |
+| 301 | 284 | **NO STRUCTURAL CHANGE** — text-only continuation of the labour-and-idleness vignette; forge workers and the neglected memorial pavilion are contrasted in prose and the unit continues directly to scan 302. |
+| 302 | 285 | **CORRECTED** — Kural 617 and Chapter 62 metadata remain correctly separated; `visual_notes` now records the large red decorative pavilion/monument illustration below as source page furniture instead of describing the page as text-only. |
+| 303 | 286 | **CORRECTED** — upper illustration independently re-read as an embracing couple in an intimate indoor setting by an open/moonlit window; the prior note incorrectly described two women. Prose below begins the Thingal / Sevvai vignette. Body wording and review flags unchanged. |
+| 304 | 287 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Thingal / Sevvai unit; Kural blocks, concluding Chapter 126 metadata and their prose relationship remain correctly represented. |
+| 305 | 288 | **NO STRUCTURAL CHANGE** — large upper court illustration with ruler and surrounding figures remains above the prose; the Ezhini / Valanadu betrayal-and-useless-speech vignette begins and continues directly to scan 306. |
+| 306 | 289 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Ezhini / Valanadu vignette; Kural 191 remains a distinct block above Chapter 20 metadata. |
+| 307 | 290 | **NO STRUCTURAL CHANGE** — large upper harvested-straw / embracing-couple illustration remains above the prose; the harvest-field love vignette begins and continues directly to scan 308. |
+| 308 | 291 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the harvest-field separation-and-heart vignette; Kural 1300 remains a distinct block above Chapter 130 metadata. |
+| 309 | 292 | **NO STRUCTURAL CHANGE** — large upper monochrome justice-march illustration remains above the autobiographical prose and the unit continues directly to scan 310. |
+| 310 | 293 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the 1982 justice-march vignette; the two Kural blocks, Chapter 60/63 metadata and source glosses remain correctly ordered and separated. |
+
+### Boundary / continuity result
+
+- Incoming **299→300 remains CLEAN**.
+- **310→311 is CLEAN**, reconfirmed from scan 311 / printed 294: scan 310 closes the justice-march unit and scan 311 begins a new large illustrated love-separation vignette.
+- Scan 311 was used only as the outgoing witness and is **not** counted in Batch 8.
+
+### Batch 8 correction summary
+
+- Structural/visual-description corrections: **2 pages — scans 302, 303**.
+- No-change scans: **300–301, 304–310 — 9 pages**.
+- Lexical body-text changes: **0**.
+- Status promotion: **0**.
+
 ## Current Pass-3 frontier
 
-**77 / 111 complete through scan 299 / printed 282.**
+**88 / 111 complete through scan 310 / printed 293.**
 
 All Part-003 records remain `needs-review` / `visual_fidelity: needs-review`.
 
-## Exact next activity — Batch 8
+## Exact next activity — Batch 9
 
-Process **scans 300–310 / printed 283–293 — 11 physical scans**, beginning after the confirmed CLEAN **299→300** boundary. Inspect **scan 311 / printed 294** only as the outgoing boundary/continuity witness when needed. Keep the same visual-text-only gate; do not start the Part audit.
+Process **scans 311–321 / printed 294–304 — 11 physical scans**, beginning after the confirmed CLEAN **310→311** boundary. Inspect **scan 322 / printed 305** only as the outgoing boundary/continuity witness when needed. Keep the same visual-text-only gate; do not start the Part audit.
