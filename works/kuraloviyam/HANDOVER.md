@@ -112,33 +112,40 @@ User directive: **process 11 physical scans per Pass-2A iteration**, with a shor
 
 Source-supported corrections were committed on scans **223, 224, 225, 226, 227, 228, 230 and 232**. Scans **229, 231 and 233** required no textual correction. The genuine **233→234 continuation** was reconfirmed by inspecting scan 234 as the boundary witness.
 
-Representative exact source readings restored in Batch 1 include:
+Representative exact source readings restored in Batch 1 include `சுருங்கச் சொல்ல வேண்டுமானால்`, `சற்று நிற்பார்`, `அவளருகே கிடக்கும் நீண்ட தலையணையை`, and exact scan-232 Kural ending `ஏதில் பிணந்தழீஇ யற்று.`.
 
-- scan 223: `ஒருவன்மீது`, `வடித்தளிக்கும்`, `சுருங்கச் சொல்ல வேண்டுமானால்`, `பேதையைப்பற்றி`;
-- scan 224: `கலக்கமில்லை`, `நட்புச் சிறந்தது`, and the source closing sentence beginning `எவ்வளவு மகத்தான உண்மையை, மறைமுகமான நகைச்சுவை ஓவியமாக...`;
-- scan 225: `குறிப்பிடுகிறார்`, `பாலில்`, `அவ்வாறு`, `தழுவிய`, `அவளுக்குத்`;
-- scan 226: `ஐயுற்றுக்` and source quotation punctuation around the three Kural blocks;
-- scan 227: `சற்று நிற்பார்`;
-- scan 228: source quotation punctuation around both Kural blocks;
-- scan 230: `அவனைப் பிரிந்து தன்னந்தனியாகப்`, `அவளருகே கிடக்கும் நீண்ட தலையணையை`, `துன்ப நோயைத்`;
-- scan 232: `எனக் கேட்டுப் பொருள்`, `விலைமாதருடன்`, and exact source Kural ending `ஏதில் பிணந்தழீஇ யற்று.`.
+### Batch 2 — COMPLETE
 
-Current Pass-2A frontier: **11 / 111 scans verified — through scan 233 / printed 216**.
+**Scans 234–244 / printed 217–227 — COMPLETE 11/11.**
+
+Source-supported corrections were committed on scans **234, 235, 236, 237, 238, 240, 242, 243 and 244**. Scans **239 and 241** required no textual correction. Scan **245 / printed 228** was inspected only as the outgoing witness and reconfirmed **244→245 CLEAN**.
+
+Representative exact source readings restored in Batch 2 include:
+
+- scan 235: `தங்களூருக்குத்`, `வேலை வாய்ப்புத் தேடி`;
+- scan 236: `சந்தித்தான்,`, `அடே டே..!`, and printed quotation punctuation around Kural 90;
+- scan 237: `எழிற்பாவை யொருத்தியை`, `இணையற்ற`;
+- scan 238: `சினுங்கினாள்` and printed quotation punctuation around both Kurals;
+- scan 240: `கலங்கினர்`, `முடியுமென`;
+- scan 243: `இதழ் மொட்டு`, `நீர்வையம்`, `களம்புகும்`;
+- scan 244: `நடையழகு` and printed quotation punctuation around Kurals 1031 and 64.
+
+Current Pass-2A frontier: **22 / 111 scans verified — through scan 244 / printed 227**.
 
 Durable Pass-2A log: `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md`.
 
 During Pass 2A, keep records at `status: "needs-review"` / `visual_fidelity: "needs-review"`; final verified statuses require later Pass 2B, Pass 3, audit and final synchronization.
 
-## Exact next activity — Part 003 Pass 2A / Batch 2
+## Exact next activity — Part 003 Pass 2A / Batch 3
 
-Process **overall scans 234–244 / printed 217–227 — 11 scans**.
+Process **overall scans 245–255 / printed 228–238 — 11 scans**.
 
 1. fetch live `main` first;
 2. use the supplied Part 003 controlling PDF and rendered scans directly;
-3. preserve the genuine **233→234** continuation at entry;
+3. begin after the confirmed clean **244→245** boundary;
 4. fetch each existing page record before comparison;
 5. correct only source-supported wording/punctuation/paragraph/Kural/metadata differences;
-6. inspect scan **245 / printed 228** only as a continuity/boundary witness when needed;
+6. inspect scan **256 / printed 239** only as a continuity/boundary witness when needed;
 7. update `PASS2_TEXTUAL_VERIFICATION_PART_003.md` with every correction/no-change result;
 8. keep textual and visual statuses at `needs-review` throughout Pass 2A;
 9. audit the exact changed-file set before advancing.
