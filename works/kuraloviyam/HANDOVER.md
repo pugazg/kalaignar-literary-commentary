@@ -214,20 +214,30 @@ Exact font, colour and artwork recreation are not required. Rewrite a page recor
 - status promotions: **0**;
 - outgoing scan **289 / printed 272** witness reconfirms **288→289 genuine continuation**.
 
+### Pass 3 Batch 7 — COMPLETE
+
+**Scans 289–299 / printed 272–282 — 11/11.**
+
+- scan **292**: structural correction only — the altered three-line Kural displayed separately in the source is now preserved as a distinct Markdown set-out block; `visual_notes` updated accordingly;
+- scans **289–291, 293–299**: no structural correction required;
+- lexical body-text changes: **0**;
+- status promotions: **0**;
+- outgoing scan **300 / printed 283** witness reconfirms **299→300 CLEAN**.
+
 Durable Pass-3 record: `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`.
 
-Current Pass-3 frontier: **66 / 111 through scan 288 / printed 271**.
+Current Pass-3 frontier: **77 / 111 through scan 299 / printed 282**.
 
-## Exact next activity — Part 003 Pass 3 / Batch 7
+## Exact next activity — Part 003 Pass 3 / Batch 8
 
-Process **overall scans 289–299 / printed 272–282 — 11 scans**, beginning inside the confirmed genuine **288→289** continuation.
+Process **overall scans 300–310 / printed 283–293 — 11 scans**, beginning after the confirmed CLEAN **299→300** boundary.
 
 1. fetch live `main` first;
 2. use the supplied Part 003 controlling PDF and freshly rendered scans directly;
-3. fetch current page records **0289–0299** before comparison;
+3. fetch current page records **0300–0310** before comparison;
 4. verify meaningful visual-text fidelity using the Pass-3 rules above;
 5. make only source-supported **structural** corrections; do not repeat or alter settled lexical wording unless a genuinely new direct-source issue is discovered and explicitly logged;
-6. inspect scan **300 / printed 283** only as the outgoing continuity/boundary witness when needed;
+6. inspect scan **311 / printed 294** only as the outgoing continuity/boundary witness when needed;
 7. update the Part-003 Pass-3 durable log;
 8. keep textual and visual statuses at `needs-review`;
 9. audit the exact changed-file set before advancing.
