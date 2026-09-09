@@ -38,7 +38,7 @@ Read completely before changing anything:
 - Part 003 Pass 1: **COMPLETE — 111/111, scans 223–333 / printed 206–316**.
 - Part 003 Pass 2A: **COMPLETE — 111/111, scans 223–333 / printed 206–316**.
 - Part 003 Pass 2B: **COMPLETE — 111/111 independently re-read through scan 333 / printed 316**.
-- Part 003 Pass 3: **ACTIVE — 88/111 through scan 310 / printed 293**.
+- Part 003 Pass 3: **ACTIVE — 99/111 through scan 321 / printed 304**.
 - Part 003 audit and Tamil archival-ready: **not-started**.
 - English remains **blocked until Tamil closure**.
 
@@ -174,22 +174,32 @@ Exact font, colour and artwork recreation are not required. Rewrite a page recor
 - all records remain `needs-review` / `visual_fidelity: needs-review`;
 - scan **311 / printed 294** outgoing witness reconfirms **310→311 CLEAN**.
 
-Durable Pass-3 record: `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`.
+## Pass 3 Batch 9 — COMPLETE
 
-## Exact next activity — Part 003 Pass 3 / Batch 9
+**Scans 311–321 / printed 294–304 — 11/11.**
 
-Process **scans 311–321 / printed 294–304 — 11 physical scans** in one meaningful visual-text verification iteration, beginning after the confirmed CLEAN **310→311** boundary.
+- scan **311**: corrected only the structural/visual description. Direct source inspection shows a composite separation/intimacy image, with an embracing couple above and the woman reclining alone below;
+- scans **312–321**: no structural correction required;
+- lexical body-text changes: **0**;
+- all records remain `needs-review` / `visual_fidelity: needs-review`;
+- scan **322 / printed 305** outgoing witness reconfirms **321→322 CLEAN**.
+
+Durable Pass-3 record: `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`. Supplemental Batch-9 record: `works/kuraloviyam/PASS3_BATCH_009.md`.
+
+## Exact next activity — Part 003 Pass 3 / Batch 10
+
+Process **scans 322–332 / printed 305–315 — 11 physical scans** in one meaningful visual-text verification iteration, beginning after the confirmed CLEAN **321→322** boundary.
 
 Requirements:
 
 1. fetch live `main` first;
-2. resolve the supplied Part 003 PDF and freshly render/inspect scans **311–321** directly;
-3. fetch current page records `0311`–`0321` before comparison;
+2. resolve the supplied Part 003 PDF and freshly render/inspect scans **322–332** directly;
+3. fetch current page records `0322`–`0332` before comparison;
 4. verify heading hierarchy, illustration/text order, Kural/quotation block placement and lineation, prose/quotation relationships, page furniture, non-body marks and physical continuations against the scans;
 5. make only direct source-supported **structural** corrections; do not repeat lexical verification or normalize settled wording;
-6. inspect scan **322 / printed 305** only as the outgoing continuity/boundary witness when needed;
+6. inspect scan **333 / printed 316** only as the outgoing continuity/boundary witness when needed;
 7. update `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md` and log every structural-correction/no-change result;
 8. keep all records at `needs-review` / `visual_fidelity: needs-review`;
 9. synchronize README, work/root handovers, page-map and this prompt to the resulting Pass-3 frontier;
 10. audit the exact changed-file set before advancing;
-11. do not begin the Part audit until Pass 3 covers all 111 Part-003 scans.
+11. after Batch 10, process the final one-scan remainder **333 / printed 316** under Pass 3 before beginning the Part audit.
