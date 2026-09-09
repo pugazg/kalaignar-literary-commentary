@@ -59,10 +59,30 @@ Batch 1 correction summary: **8 records corrected; 3 records required no textual
 
 Batch 2 correction summary: **9 records corrected; scans 239 and 241 required no textual change**.
 
-Current Part 003 Pass 2A frontier: **22 / 111 scans verified — overall scans 223–244 / printed 206–227**.
+## Batch 3 — overall scans 245–255 / printed pages 228–238
+
+**Status: COMPLETE — 11 / 11 scans.** Incoming **244→245 CLEAN** boundary preserved. Scan **256 / printed 239** was inspected only as the outgoing witness and confirms **255→256 CLEAN**.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 245 | 228 | corrected `இணையபிரியாத` → `இணைபிரியாத்`; continuation into 246 confirmed |
+| 246 | 229 | corrected `மணிகழ்ச்சி` → `மணநிகழ்ச்சி`, `வாய்ந்தவன் தான்` → `வாய்ந்தவன்தான்`, and `முற்றாக இளங்காயைப்` → `முற்றாத இளங்காயைப்`; continuation into 247 confirmed |
+| 247 | 230 | restored source quotation punctuation around both Kural blocks and corrected `மணமானனைத்` → `மணாளனைத்`; Chapter 131 / Kurals 1306, 1309 confirmed |
+| 248 | 231 | body wording matched; restored source quotation punctuation around the cultivator Kural; continuation into 249 confirmed |
+| 249 | 232 | corrected source readings including `வளத்தைக்`, `முற்றாத`, `கழனியைவிட்டுத்`, `மிரட்டுவதுபோல்`; restored source quotation punctuation around Kural 273; Chapter 28 / Kural 273 confirmed |
+| 250 | 233 | corrected `கொண்டுதல்` → `கொள்ளுதல்` and `கூடாது என ஏதோ` → `கூடாது என்றதோடு`; restored source quotation punctuation around Kural 1282; continuation into 251 confirmed |
+| 251 | 234 | corrected `பயன்படாது` → `பயன்தராது`; restored source quotation punctuation around Kurals 1284 and 1290; Chapter 129 / Kurals 1282, 1284, 1290 confirmed |
+| 252 | 235 | corrected `வறிப்புலி` → `வரிப்புலி` and `பொற்கலஞ்சியங்களாகப்` → `பொற்களஞ்சியங்களாகப்`; continuation into 253 confirmed |
+| 253 | 236 | corrected multiple direct-source readings including `வயலெங்கும்`, `தத்துப்பிள்ளை`, `திண்ணை`, `மூடிவான்`, `ஏக்கத்தை`, `நீங்களும்`, `ஒட்டிய`, `சினந்து`; restored source punctuation/quotation structure and Kural 1039 quotation; Chapter 104 / Kural 1039 confirmed |
+| 254 | 237 | direct textual comparison complete; no correction required; continuation into 255 confirmed |
+| 255 | 238 | corrected `தேடிக்கூடியது` → `தேடக்கூடியது` and `காம்பிடித்து` → `கரம்பிடித்து`; restored source quotation punctuation around Kural 1251; Chapter 126 / Kural 1251 confirmed; **255→256 CLEAN** |
+
+Batch 3 correction summary: **10 records corrected; scan 254 required no textual change**.
+
+Current Part 003 Pass 2A frontier: **33 / 111 scans verified — overall scans 223–255 / printed 206–238**.
 
 ## Next batch
 
-**Batch 3 — scans 245–255 / printed 228–238 — 11 scans.** Begin after the confirmed clean **244→245** boundary. Inspect scan **256 / printed 239** only as a continuity/boundary witness when needed. Keep all records at `needs-review` / `visual_fidelity: needs-review`.
+**Batch 4 — scans 256–266 / printed 239–249 — 11 scans.** Begin after the confirmed clean **255→256** boundary. Inspect scan **267 / printed 250** only as a continuity/boundary witness when needed; Pass-1 mapping records **266→267 as a genuine continuation**. Keep all records at `needs-review` / `visual_fidelity: needs-review`.
 
 External **333→334** remains deferred until Part 004 source intake.
