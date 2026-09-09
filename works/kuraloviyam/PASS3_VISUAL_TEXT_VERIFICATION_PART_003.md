@@ -202,12 +202,43 @@ This is not another lexical reread. Settled wording is not normalized or rewritt
 - Lexical body-text changes: **0**.
 - Status promotion: **0**.
 
+## Batch 7 — scans 289–299 / printed 272–282
+
+**Result: COMPLETE — 11 / 11.**
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 289 | 272 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Valluvar / renunciation vignette; the two set-out Kural blocks (347 and 350) and Chapter 35 metadata remain correctly separated. |
+| 290 | 273 | **NO STRUCTURAL CHANGE** — large upper illustration shows Ponni and Thamarai conversing with the absent beloved represented above; prose begins the waiting-for-lover vignette and continues directly to scan 291. |
+| 291 | 274 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Ponni / Thamarai vignette; Kural 1269 remains a distinct block above Chapter 127 metadata. |
+| 292 | 275 | **CORRECTED** — large upper illustration of the two male friends remains above the prose; the source-displayed altered three-line Kural is now represented as a distinct set-out block before the prose resumes. `visual_notes` and Markdown block structure corrected only; lexical wording and review flags unchanged. |
+| 293 | 276 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the altered-Kural / friendship vignette; the explanatory prose, final canonical Kural 521 block and Chapter 53 metadata remain correctly ordered. |
+| 294 | 277 | **NO STRUCTURAL CHANGE** — large upper night illustration of the woodcutter couple beneath a tree with prose below; the one-day-separation vignette begins and continues directly to scan 295. |
+| 295 | 278 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the woodcutter / one-day separation vignette; Kural 1264 remains a distinct block above Chapter 127 metadata. |
+| 296 | 279 | **NO STRUCTURAL CHANGE** — large upper defeated-army / military-strength illustration with prose below; the vignette begins and continues directly to scan 297. |
+| 297 | 280 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the defeated-army / enduring-military-strength vignette; Kural 762 remains a distinct block above Chapter 77 metadata. |
+| 298 | 281 | **NO STRUCTURAL CHANGE** — large upper composite fisher-couple illustration with prose below; the Mullai-kodi / Mukilan separation-and-dream vignette begins and continues directly to scan 299. |
+| 299 | 282 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Mullai-kodi / Mukilan vignette; Kural 1218 remains a distinct block above Chapter 122 metadata. |
+
+### Boundary / continuity result
+
+- Incoming **288→289 genuine continuation** remains confirmed.
+- **299→300 is CLEAN**, reconfirmed from scan 300 / printed 283: scan 299 closes the Mullai-kodi / Mukilan unit and scan 300 begins a new illustrated vignette.
+- Scan 300 was used only as the outgoing witness and is **not** counted in Batch 7.
+
+### Batch 7 correction summary
+
+- Structural/visual-description corrections: **1 page — scan 292**.
+- No-change scans: **289–291, 293–299 — 10 pages**.
+- Lexical body-text changes: **0**.
+- Status promotion: **0**.
+
 ## Current Pass-3 frontier
 
-**66 / 111 complete through scan 288 / printed 271.**
+**77 / 111 complete through scan 299 / printed 282.**
 
 All Part-003 records remain `needs-review` / `visual_fidelity: needs-review`.
 
-## Exact next activity — Batch 7
+## Exact next activity — Batch 8
 
-Process **scans 289–299 / printed 272–282 — 11 physical scans**, beginning inside the confirmed genuine **288→289** continuation. Inspect **scan 300 / printed 283** only as the outgoing boundary/continuity witness when needed. Keep the same visual-text-only gate; do not start the Part audit.
+Process **scans 300–310 / printed 283–293 — 11 physical scans**, beginning after the confirmed CLEAN **299→300** boundary. Inspect **scan 311 / printed 294** only as the outgoing boundary/continuity witness when needed. Keep the same visual-text-only gate; do not start the Part audit.
