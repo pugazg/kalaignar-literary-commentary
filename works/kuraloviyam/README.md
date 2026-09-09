@@ -10,7 +10,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
 | 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | **source intake + Pass 1 + Pass 2A + Pass 2B COMPLETE — 111/111; Pass 3 ACTIVE — 44/111 through scan 266 / printed 249** |
+| 003 | 223–333 | **source intake + Pass 1 + Pass 2A + Pass 2B COMPLETE — 111/111; Pass 3 ACTIVE — 55/111 through scan 277 / printed 260** |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
 | 006 | 556–666 | not-started |
@@ -128,17 +128,18 @@ Durable Pass-2B record: `PASS2B_LEXICAL_FIDELITY_PART_003.md`. Supplemental late
 
 ### Part 003 Pass 3 state
 
-**ACTIVE — 44 / 111 meaningful visual-text verification scans complete through scan 266 / printed 249.** User-directed cadence is **11 physical scans per iteration**.
+**ACTIVE — 55 / 111 meaningful visual-text verification scans complete through scan 277 / printed 260.** User-directed cadence is **11 physical scans per iteration**.
 
 - **Batch 1: scans 223–233 / printed 206–216 — COMPLETE 11/11**; structural/visual-description correction on **scan 223 only**; scans **224–233** no structural change; **233→234 genuine continuation** reconfirmed from scan 234 witness.
 - **Batch 2: scans 234–244 / printed 217–227 — COMPLETE 11/11**; **no structural corrections**; scans **234–244** all no-change; **244→245 CLEAN** reconfirmed from scan 245 witness.
 - **Batch 3: scans 245–255 / printed 228–238 — COMPLETE 11/11**; **no structural corrections**; scans **245–255** all no-change; **255→256 CLEAN** reconfirmed from scan 256 witness.
 - **Batch 4: scans 256–266 / printed 239–249 — COMPLETE 11/11**; structural/visual-description correction on **scan 260 only**; scans **256–259, 261–266** no structural change; **266→267 genuine continuation** reconfirmed from scan 267 witness.
-- Lexical body-text changes during Pass 3 through Batch 4: **0**.
+- **Batch 5: scans 267–277 / printed 250–260 — COMPLETE 11/11**; structural/visual-description corrections on **scans 267, 274, 277**; scans **268–273, 275–276** no structural change; **277→278 CLEAN** reconfirmed from scan 278 witness.
+- Lexical body-text changes during Pass 3 through Batch 5: **0**.
 - All records remain `needs-review` / `visual_fidelity: needs-review`.
 
 Durable Pass-3 record: `PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`.
 
 ## Current frontier
 
-**Next activity: Part 003 Pass 3 / Batch 5 — scans 267–277 / printed 250–260, 11 scans**, beginning inside the confirmed genuine **266→267** continuation. Inspect scan **278 / printed 261** only as the outgoing continuity/boundary witness when needed. Continue meaningful visual-text verification only; do not repeat lexical verification and do not promote statuses during Pass 3.
+**Next activity: Part 003 Pass 3 / Batch 6 — scans 278–288 / printed 261–271, 11 scans**, beginning after the confirmed CLEAN **277→278** boundary. Inspect scan **289 / printed 272** only as the outgoing continuity/boundary witness when needed. Continue meaningful visual-text verification only; do not repeat lexical verification and do not promote statuses during Pass 3.
