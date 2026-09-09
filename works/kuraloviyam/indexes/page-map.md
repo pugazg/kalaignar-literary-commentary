@@ -8,7 +8,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
 | 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **SOURCE INTAKE + Pass 1 COMPLETE — 111/111; Pass 2A ACTIVE — 22/111** |
+| 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **SOURCE INTAKE + Pass 1 COMPLETE — 111/111; Pass 2A ACTIVE — 33/111** |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
 | 006 | 556–666 | 1–111 | not yet inspected | not-started |
@@ -210,7 +210,8 @@ Part 003 Pass 2A verified frontier:
 
 - Batch 1: **223–233 / printed 206–216 — COMPLETE 11/11**; **233→234 genuine** reconfirmed;
 - Batch 2: **234–244 / printed 217–227 — COMPLETE 11/11**; **244→245 clean** reconfirmed from scan 245 witness;
-- cumulative Pass-2A coverage: **22/111 through scan 244 / printed 227**;
+- Batch 3: **245–255 / printed 228–238 — COMPLETE 11/11**; **255→256 clean** reconfirmed from scan 256 witness;
+- cumulative Pass-2A coverage: **33/111 through scan 255 / printed 238**;
 - all Part 003 records remain `needs-review` / `visual_fidelity: needs-review` until later gates close.
 
 ## Additional physical notes
@@ -292,7 +293,7 @@ Part 003:
 
 - source intake — **PASS / COMPLETE**;
 - Pass 1 — **COMPLETE, 111/111 captured through scan 333 / printed 316**;
-- Pass 2A — **ACTIVE, 22/111 verified through scan 244 / printed 227**;
+- Pass 2A — **ACTIVE, 33/111 verified through scan 255 / printed 238**;
 - Pass 2B — not-started;
 - Pass 3 — not-started;
 - Part audit — not-started;
@@ -305,6 +306,6 @@ Part 003:
 
 **Part 002: Tamil + English CLOSED.**
 
-**Part 003: SOURCE INTAKE + PASS 1 COMPLETE — 111/111; PASS 2A ACTIVE — 22/111.**
+**Part 003: SOURCE INTAKE + PASS 1 COMPLETE — 111/111; PASS 2A ACTIVE — 33/111.**
 
-Exact next activity: **Part 003 Pass 2A / Batch 3 — scans 245–255 / printed 228–238, 11 direct textual-verification scans**. Begin after the confirmed clean **244→245** boundary. Compare every source-visible word, punctuation mark, paragraph/quotation boundary, Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata against rendered scans. Inspect scan **256 / printed 239** only as a continuity/boundary witness when needed. Keep all page records at `needs-review` / `visual_fidelity: needs-review`, update the dedicated Part 003 Pass-2A log, and audit the exact changed-file set before advancing.
+Exact next activity: **Part 003 Pass 2A / Batch 4 — scans 256–266 / printed 239–249, 11 direct textual-verification scans**. Begin after the confirmed clean **255→256** boundary. Compare every source-visible word, punctuation mark, paragraph/quotation boundary, Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata against rendered scans. Inspect scan **267 / printed 250** only as a continuity/boundary witness when needed and preserve the known **266→267 genuine continuation**. Keep all page records at `needs-review` / `visual_fidelity: needs-review`, update the dedicated Part 003 Pass-2A log, and audit the exact changed-file set before advancing.
