@@ -39,10 +39,30 @@ User-directed Pass 2A cadence: **11 physical scans per normal iteration**, with 
 
 Batch 1 correction summary: **8 records corrected; 3 records required no textual change**.
 
-Current Part 003 Pass 2A frontier: **11 / 111 scans verified — overall scans 223–233 / printed 206–216**.
+## Batch 2 — overall scans 234–244 / printed pages 217–227
+
+**Status: COMPLETE — 11 / 11 scans.** Incoming **233→234 genuine continuation** preserved. Scan **245 / printed 228** was inspected only as the outgoing witness and confirms **244→245 CLEAN**.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 234 | 217 | body wording already matched; restored source quotation punctuation around Kural 1171 |
+| 235 | 218 | corrected `தங்களுக்குத்` → `தங்களூருக்குத்` and `வேலை வாய்ப்புக் தேடி` → `வேலை வாய்ப்புத் தேடி`; continuation into 236 confirmed |
+| 236 | 219 | restored source punctuation `சந்தித்தான்,`; corrected `அடேடே!` → `அடே டே..!`; restored source quotation punctuation around Kural 90; Chapter 9 / Kural 90 confirmed |
+| 237 | 220 | corrected `எழிற்பாவை பொருத்தியை` → `எழிற்பாவை யொருத்தியை` and `இணைபற்ற` → `இணையற்ற`; continuation into 238 confirmed |
+| 238 | 221 | corrected `சினங்கிளினாள்` → `சினுங்கினாள்`; restored source quotation punctuation around both Kural blocks; Chapter 112 / Kurals 1117, 1118 confirmed |
+| 239 | 222 | direct textual comparison complete; no correction required; continuation into 240 confirmed |
+| 240 | 223 | corrected `கலங்கினார்` → `கலங்கினர்` and `என்னால் முடியும் என` → `என்னால் முடியுமென`; restored source quotation punctuation around Kural 929; Chapter 93 / Kural 929 confirmed |
+| 241 | 224 | direct textual comparison complete; no correction required; continuation into 242 confirmed |
+| 242 | 225 | body wording matched; restored source quotation punctuation around Kural 1186; Chapter 119 / Kural 1186 confirmed |
+| 243 | 226 | corrected `இதழ் பொட்டு` → `இதழ் மொட்டு`, `நீர்வையும்` → `நீர்வையம்`, and `களப்புகும்` → `களம்புகும்`; continuation into 244 confirmed |
+| 244 | 227 | corrected `நடைபயிறு` → `நடையழகு`; restored source quotation punctuation around Kurals 1031 and 64; Chapter 104 / Kural 1031 and Chapter 7 / Kural 64 confirmed; **244→245 CLEAN** |
+
+Batch 2 correction summary: **9 records corrected; scans 239 and 241 required no textual change**.
+
+Current Part 003 Pass 2A frontier: **22 / 111 scans verified — overall scans 223–244 / printed 206–227**.
 
 ## Next batch
 
-**Batch 2 — scans 234–244 / printed 217–227 — 11 scans.** Preserve the genuine **233→234** continuation at entry. Inspect scan **245 / printed 228** only as a continuity/boundary witness when needed. Keep all records at `needs-review` / `visual_fidelity: needs-review`.
+**Batch 3 — scans 245–255 / printed 228–238 — 11 scans.** Begin after the confirmed clean **244→245** boundary. Inspect scan **256 / printed 239** only as a continuity/boundary witness when needed. Keep all records at `needs-review` / `visual_fidelity: needs-review`.
 
 External **333→334** remains deferred until Part 004 source intake.
