@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 003 Pass 2A Batch 7 COMPLETE / 77 of 111 through scan 299**: **2026-09-09**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
+Last refreshed for Kuraloviyam **Part 003 Pass 2A Batch 9 COMPLETE / 99 of 111 through scan 321**: **2026-09-09**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
 
 ## Repository
 
@@ -257,11 +257,13 @@ Completed:
 - **Batch 4 — scans 256–266 / printed 239–249 — COMPLETE 11/11**;
 - **Batch 5 — scans 267–277 / printed 250–260 — COMPLETE 11/11**;
 - **Batch 6 — scans 278–288 / printed 261–271 — COMPLETE 11/11**;
-- **Batch 7 — scans 289–299 / printed 272–282 — COMPLETE 11/11**.
+- **Batch 7 — scans 289–299 / printed 272–282 — COMPLETE 11/11**;
+- **Batch 8 — scans 300–310 / printed 283–293 — COMPLETE 11/11**;
+- **Batch 9 — scans 311–321 / printed 294–304 — COMPLETE 11/11**.
 
-Current Pass-2A frontier: **77/111 through scan 299 / printed 282**. The **233→234** genuine continuation, **244→245 CLEAN**, **255→256 CLEAN**, **266→267 genuine continuation**, **277→278 CLEAN**, **288→289 genuine continuation**, and **299→300 CLEAN** boundaries were directly reconfirmed during these batches.
+Current Pass-2A frontier: **99/111 through scan 321 / printed 304**. The **233→234** genuine continuation, **244→245 CLEAN**, **255→256 CLEAN**, **266→267 genuine continuation**, **277→278 CLEAN**, **288→289 genuine continuation**, **299→300 CLEAN**, **310→311 CLEAN**, and **321→322 CLEAN** boundaries were directly reconfirmed during these batches.
 
-Batch 7 corrected scans **289, 291, 293, 295, 297 and 299**; scans **290, 292, 294, 296 and 298** required no textual correction. Representative source-specific restorations include `உற்றது கூறுவீராக`, `அழைத்துக் கொண்டும்`, `பதித்ததால்`, and source-printed quotation punctuation around Kurals 347, 350, 1269, 521, 1264, 762 and 1218. All page records remain `needs-review` / `visual_fidelity: needs-review`.
+Batch 9 corrected scans **312, 314, 316, 317, 318, 320 and 321**; scans **311, 313, 315 and 319** required no textual correction. Representative source-specific restorations include `அணைத்தும்`, `தன்னால் முடியாதது`, `வெளிமாடத்திற்கருகே`, and source-printed quotation punctuation around Kurals 1247, 1040, 1188, 474 and 1097. All page records remain `needs-review` / `visual_fidelity: needs-review`.
 
 Durable log: `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md`.
 
@@ -270,12 +272,12 @@ Durable log: `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md`.
 1. fetch live `main`;
 2. complete the Kuraloviyam mandatory startup reading above;
 3. resolve the supplied Part 003 PDF;
-4. process **Part 003 Pass 2A / Batch 8 — scans 300–310 / printed 283–293, 11 physical scans**;
-5. begin after the confirmed clean **299→300** boundary;
-6. fetch current page records `0300`–`0310` before comparison;
+4. process **Part 003 Pass 2A / Batch 10 — scans 322–332 / printed 305–315, 11 physical scans**;
+5. begin after the confirmed clean **321→322** boundary;
+6. fetch current page records `0322`–`0332` before comparison;
 7. compare every source-visible word, punctuation mark, paragraph/quotation boundary, Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata directly against rendered scans;
 8. make only source-supported corrections and preserve non-body/page-furniture separation;
-9. inspect scan **311 / printed 294** only as a continuity/boundary witness when necessary; preserve the known **310→311 CLEAN** boundary;
+9. inspect scan **333 / printed 316** only as a continuity/boundary witness when necessary; preserve the known **332→333 genuine continuation**;
 10. update `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md` for every correction/no-change result;
 11. keep all records at `needs-review` / `visual_fidelity: needs-review`;
 12. audit the exact changed-file set before advancing;
