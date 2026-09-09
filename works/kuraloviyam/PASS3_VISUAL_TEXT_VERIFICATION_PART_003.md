@@ -140,12 +140,43 @@ This is not another lexical reread. Settled wording is not normalized or rewritt
 - Lexical body-text changes: **0**.
 - Status promotion: **0**.
 
+## Batch 5 — scans 267–277 / printed 250–260
+
+**Result: COMPLETE — 11 / 11.**
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 267 | 250 | **CORRECTED** — text-only continuation/close of the trade/separation vignette; Kural 1220 and Chapter 122 metadata remain correctly separated, and `visual_notes` now also records the small red decorative monument below the metadata as source page furniture. |
+| 268 | 251 | **NO STRUCTURAL CHANGE** — large upper public-water-tank scene with youths, women and the intervening elder; prose begins below and continues directly to scan 269. |
+| 269 | 252 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the public-water-tank / patient-elder vignette; Kural 155 is a distinct block above Chapter 16 metadata. |
+| 270 | 253 | **NO STRUCTURAL CHANGE** — large upper Ilamathi/Thirumathi illustration with prose below; the lovers'-quarrel vignette begins and continues directly to scan 271. |
+| 271 | 254 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Ilamathi/Thirumathi vignette; Kural 1327 is a distinct block above Chapter 133 metadata. |
+| 272 | 255 | **NO STRUCTURAL CHANGE** — large upper two-woman domestic illustration associated with the Ramayana-discourse / caste-and-conduct vignette; prose begins below and continues directly to scan 273. |
+| 273 | 256 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the caste-and-conduct vignette; Kural 133 is a distinct block above Chapter 14 metadata. |
+| 274 | 257 | **CORRECTED** — upper illustration independently re-read: one woman faces an oval mirror in which the returning prince is pictured/reflected; the prior note incorrectly described a companion speaking in the illustration. Body wording and review flags unchanged. |
+| 275 | 258 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the returning-prince / separation vignette; the three short question lines, Kural 1267 block and Chapter 127 metadata remain structurally distinct. |
+| 276 | 259 | **NO STRUCTURAL CHANGE** — large upper nettlinga-tree climber illustration with prose below; autobiographical vignette begins and continues directly to scan 277. |
+| 277 | 260 | **CORRECTED** — text-only continuation/close of the nettlinga-tree / drunken-climber vignette; Kural 476, explanatory prose and Chapter 48 metadata remain correctly ordered, and `visual_notes` now records the small red decorative monument below as source page furniture. |
+
+### Boundary / continuity result
+
+- Incoming **266→267 genuine continuation** remains confirmed.
+- **277→278 is CLEAN**, reconfirmed from scan 278 / printed 261: scan 277 closes the nettlinga-tree / drunken-climber unit and scan 278 begins a new illustrated vignette.
+- Scan 278 was used only as the outgoing witness and is **not** counted in Batch 5.
+
+### Batch 5 correction summary
+
+- Structural/visual-description corrections: **3 pages — scans 267, 274, 277**.
+- No-change scans: **268–273, 275–276 — 8 pages**.
+- Lexical body-text changes: **0**.
+- Status promotion: **0**.
+
 ## Current Pass-3 frontier
 
-**44 / 111 complete through scan 266 / printed 249.**
+**55 / 111 complete through scan 277 / printed 260.**
 
 All Part-003 records remain `needs-review` / `visual_fidelity: needs-review`.
 
-## Exact next activity — Batch 5
+## Exact next activity — Batch 6
 
-Process **scans 267–277 / printed 250–260 — 11 physical scans**, beginning inside the confirmed genuine **266→267** continuation. Inspect **scan 278 / printed 261** only as the outgoing boundary/continuity witness when needed. Keep the same visual-text-only gate; do not start the Part audit.
+Process **scans 278–288 / printed 261–271 — 11 physical scans**, beginning after the confirmed CLEAN **277→278** boundary. Inspect **scan 289 / printed 272** only as the outgoing boundary/continuity witness when needed. Keep the same visual-text-only gate; do not start the Part audit.
