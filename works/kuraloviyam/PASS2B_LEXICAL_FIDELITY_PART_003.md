@@ -133,10 +133,29 @@ Batch 5 correction was therefore required only on scan **264**. Scans **263, 265
 
 Batch 6 correction was therefore required only on scan **281**. Scans **273, 274, 275, 276, 277, 278, 279, 280 and 282** required no new Pass-2B correction.
 
-Current Part 003 Pass-2B frontier: **60 / 111 scans independently re-read — through scan 282 / printed 265**.
+## Batch 7 — overall scans 283–292 / printed pages 266–275
+
+**Status: COMPLETE — 10 / 10 scans independently re-read against freshly rendered source pages for Pass 2B.** Incoming **282→283 genuine continuation** preserved. Scan **293 / printed 276** was inspected only as the outgoing witness and confirms **292→293 as a genuine continuation** of the altered-Kural / friendship vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 283 | 266 | independently confirmed the union / self-earned-sharing conclusion, Kural 1107, lineation and Chapter 111 metadata; no new correction required |
+| 284 | 267 | independently confirmed the illustrated two-poets / ruler-and-counsel opening and continuation into 285; no new correction required |
+| 285 | 268 | restored source-visible joining `எடுத்துக்காட்டாக கொண்டு` → `எடுத்துக்காட்டாகக் கொண்டு`; corrected `அசைக்கிட` → `அசைத்திட`; remaining two-poets / ruler-and-counsel conclusion, Kural 448, lineation and Chapter 45 metadata independently confirmed |
+| 286 | 269 | independently confirmed the illustrated war-separation / beloved's-fame opening and continuation into 287; no new correction required |
+| 287 | 270 | corrected `என்று செய்திகூட` → `என்ற செய்திகூட`; restored source wording `புகழச் செய்வது` → `புகழக் கேட்பது`; remaining war-separation / beloved's-fame conclusion, Kural 1199, lineation and Chapter 120 metadata independently confirmed |
+| 288 | 271 | corrected source-visible `நடித்துபோரை` → `நடிப்போரை`; remaining Valluvar / renunciation opening and continuation into 289 independently confirmed |
+| 289 | 272 | independently confirmed the Valluvar / renunciation conclusion, Kurals 347 and 350, quotation punctuation, lineation and Chapter 35 metadata; no new correction required |
+| 290 | 273 | independently confirmed the illustrated Ponni / Thamarai waiting-for-lover opening and continuation into 291; no new correction required |
+| 291 | 274 | restored source-visible prose `ஏழு நாள்தானே` → `எழு நாள்தானே`; remaining Ponni / Thamarai conclusion, Kural 1269, lineation and Chapter 127 metadata independently confirmed |
+| 292 | 275 | independently confirmed the illustrated altered-Kural / friendship opening and its displayed three-line altered verse; no new correction required; scan 293 witness reconfirms **292→293 genuine continuation** |
+
+Batch 7 corrections were therefore required on scans **285, 287, 288 and 291**. Scans **283, 284, 286, 289, 290 and 292** required no new Pass-2B correction.
+
+Current Part 003 Pass-2B frontier: **70 / 111 scans independently re-read — through scan 292 / printed 275**.
 
 ## Next batch
 
-**Batch 7 — scans 283–292 / printed 266–275 — 10 scans.** Begin inside the confirmed genuine **282→283** continuation. Use freshly rendered source scans, re-read independently at word/character level, preserve source punctuation/quotation/Kural lineation and metadata, and keep all records at `needs-review` / `visual_fidelity: needs-review`.
+**Batch 8 — scans 293–302 / printed 276–285 — 10 scans.** Begin inside the confirmed genuine **292→293** continuation. Use freshly rendered source scans, re-read independently at word/character level, preserve source punctuation/quotation/Kural lineation and metadata, and keep all records at `needs-review` / `visual_fidelity: needs-review`. Inspect scan **303 / printed 286** only as the outgoing boundary witness if needed.
 
 External **333→334** remains deferred until Part 004 source intake.
