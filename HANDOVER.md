@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 003 Pass 2A Batch 4 COMPLETE / 44 of 111 through scan 266**: **2026-09-09**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
+Last refreshed for Kuraloviyam **Part 003 Pass 2A Batch 5 COMPLETE / 55 of 111 through scan 277**: **2026-09-09**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
 
 ## Repository
 
@@ -254,11 +254,12 @@ Completed:
 - **Batch 1 — scans 223–233 / printed 206–216 — COMPLETE 11/11**;
 - **Batch 2 — scans 234–244 / printed 217–227 — COMPLETE 11/11**;
 - **Batch 3 — scans 245–255 / printed 228–238 — COMPLETE 11/11**;
-- **Batch 4 — scans 256–266 / printed 239–249 — COMPLETE 11/11**.
+- **Batch 4 — scans 256–266 / printed 239–249 — COMPLETE 11/11**;
+- **Batch 5 — scans 267–277 / printed 250–260 — COMPLETE 11/11**.
 
-Current Pass-2A frontier: **44/111 through scan 266 / printed 249**. The **233→234** genuine continuation, **244→245 CLEAN**, **255→256 CLEAN**, and **266→267 genuine continuation** boundaries were directly reconfirmed during these batches.
+Current Pass-2A frontier: **55/111 through scan 277 / printed 260**. The **233→234** genuine continuation, **244→245 CLEAN**, **255→256 CLEAN**, **266→267 genuine continuation**, and **277→278 CLEAN** boundaries were directly reconfirmed during these batches.
 
-Batch 4 corrected scans **257, 259, 260, 261, 262, 263 and 265**; scans **256, 258, 264 and 266** required no textual correction. All page records remain `needs-review` / `visual_fidelity: needs-review`.
+Batch 5 corrected scans **267, 269, 271, 273, 275 and 277**; scans **268, 270, 272, 274 and 276** required no textual correction. All page records remain `needs-review` / `visual_fidelity: needs-review`.
 
 Durable log: `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md`.
 
@@ -267,12 +268,12 @@ Durable log: `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md`.
 1. fetch live `main`;
 2. complete the Kuraloviyam mandatory startup reading above;
 3. resolve the supplied Part 003 PDF;
-4. process **Part 003 Pass 2A / Batch 5 — scans 267–277 / printed 250–260, 11 physical scans**;
-5. begin with scan **267 / printed 250** as the genuine continuation of the trade/separation vignette from scan 266;
-6. fetch current page records `0267`–`0277` before comparison;
+4. process **Part 003 Pass 2A / Batch 6 — scans 278–288 / printed 261–271, 11 physical scans**;
+5. begin after the confirmed clean **277→278** boundary;
+6. fetch current page records `0278`–`0288` before comparison;
 7. compare every source-visible word, punctuation mark, paragraph/quotation boundary, Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata directly against rendered scans;
 8. make only source-supported corrections and preserve non-body/page-furniture separation;
-9. inspect scan **278 / printed 261** only as a continuity/boundary witness when necessary; preserve the known **277→278 CLEAN** boundary;
+9. inspect scan **289 / printed 272** only as a continuity/boundary witness when necessary; preserve the known **288→289 genuine continuation**;
 10. update `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md` for every correction/no-change result;
 11. keep all records at `needs-review` / `visual_fidelity: needs-review`;
 12. audit the exact changed-file set before advancing;
