@@ -204,20 +204,30 @@ Exact font, colour and artwork recreation are not required. Rewrite a page recor
 - status promotions: **0**;
 - outgoing scan **278 / printed 261** witness reconfirms **277→278 CLEAN**.
 
+### Pass 3 Batch 6 — COMPLETE
+
+**Scans 278–288 / printed 261–271 — 11/11.**
+
+- structural/visual-description corrections: **0**;
+- scans **278–288**: all source-supported visual organization already adequately represented;
+- lexical body-text changes: **0**;
+- status promotions: **0**;
+- outgoing scan **289 / printed 272** witness reconfirms **288→289 genuine continuation**.
+
 Durable Pass-3 record: `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`.
 
-Current Pass-3 frontier: **55 / 111 through scan 277 / printed 260**.
+Current Pass-3 frontier: **66 / 111 through scan 288 / printed 271**.
 
-## Exact next activity — Part 003 Pass 3 / Batch 6
+## Exact next activity — Part 003 Pass 3 / Batch 7
 
-Process **overall scans 278–288 / printed 261–271 — 11 scans**, beginning after the confirmed CLEAN **277→278** boundary.
+Process **overall scans 289–299 / printed 272–282 — 11 scans**, beginning inside the confirmed genuine **288→289** continuation.
 
 1. fetch live `main` first;
 2. use the supplied Part 003 controlling PDF and freshly rendered scans directly;
-3. fetch current page records **0278–0288** before comparison;
+3. fetch current page records **0289–0299** before comparison;
 4. verify meaningful visual-text fidelity using the Pass-3 rules above;
 5. make only source-supported **structural** corrections; do not repeat or alter settled lexical wording unless a genuinely new direct-source issue is discovered and explicitly logged;
-6. inspect scan **289 / printed 272** only as the outgoing continuity/boundary witness when needed;
+6. inspect scan **300 / printed 283** only as the outgoing continuity/boundary witness when needed;
 7. update the Part-003 Pass-3 durable log;
 8. keep textual and visual statuses at `needs-review`;
 9. audit the exact changed-file set before advancing.
