@@ -25,10 +25,11 @@ Read before changing anything:
 11. `works/kuraloviyam/PART_003_PASS1_PROGRESS.md`
 12. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md`
 13. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md`
-14. `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md` as Pass-3 precedent
-15. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`
-16. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
-17. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
+14. `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`
+15. `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md` as Pass-3 precedent
+16. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`
+17. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
+18. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
 
 ## Durable closed state
 
@@ -135,9 +136,9 @@ Durable Pass-2B record: `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md`.
 
 All Part-003 records intentionally remain `status: "needs-review"` / `visual_fidelity: "needs-review"`. Pass 2B completion does **not** promote them.
 
-## Part 003 Pass 3 — NOT STARTED
+## Part 003 Pass 3 — ACTIVE
 
-Pass 3 is **meaningful visual-text verification**, following `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md` as precedent.
+Pass 3 is **meaningful visual-text verification**, following `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md` as precedent. User-directed cadence is **11 physical scans per iteration**.
 
 Pass 3 checks source-supported visual organization rather than repeating lexical verification. Verify:
 
@@ -151,17 +152,31 @@ Pass 3 checks source-supported visual organization rather than repeating lexical
 
 Exact font, colour and artwork recreation are not required. Rewrite a page record only when a direct source-supported structural correction is necessary. Keep `status: "needs-review"` / `visual_fidelity: "needs-review"` until the later Part audit and final metadata/status synchronization.
 
-## Exact next activity — Part 003 Pass 3 / Batch 1
+### Pass 3 Batch 1 — COMPLETE
 
-Process **overall scans 223–232 / printed 206–215 — 10 scans**.
+**Scans 223–233 / printed 206–216 — 11/11.**
+
+- scan **223**: structural/visual-description correction only — removed the incorrect snake-scene description and replaced it with a source-faithful description of the large upper illustration showing a foreground man gesturing toward a younger man with an onlooking crowd behind; prose remains below;
+- scans **224–233**: no structural correction required;
+- lexical body-text changes: **0**;
+- status promotions: **0**;
+- outgoing scan **234 / printed 217** witness reconfirms **233→234 genuine continuation**.
+
+Durable Pass-3 record: `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`.
+
+Current Pass-3 frontier: **11 / 111 through scan 233 / printed 216**.
+
+## Exact next activity — Part 003 Pass 3 / Batch 2
+
+Process **overall scans 234–244 / printed 217–227 — 11 scans**, beginning inside the confirmed genuine **233→234** continuation.
 
 1. fetch live `main` first;
 2. use the supplied Part 003 controlling PDF and freshly rendered scans directly;
-3. fetch current page records **0223–0232** before comparison;
+3. fetch current page records **0234–0244** before comparison;
 4. verify meaningful visual-text fidelity using the Pass-3 rules above;
 5. make only source-supported **structural** corrections; do not repeat or alter settled lexical wording unless a genuinely new direct-source issue is discovered and explicitly logged;
-6. inspect scan **233 / printed 216** only as the outgoing continuity witness when needed;
-7. create/update the Part-003 Pass-3 durable log following the Part-002 precedent;
+6. inspect scan **245 / printed 228** only as the outgoing continuity/boundary witness when needed;
+7. update the Part-003 Pass-3 durable log;
 8. keep textual and visual statuses at `needs-review`;
 9. audit the exact changed-file set before advancing.
 
