@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 003 Pass 2B Batch 6 COMPLETE / 60 of 111 through scan 282**: **2026-09-09**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
+Last refreshed for Kuraloviyam **Part 003 Pass 2B COMPLETE — 111/111 through scan 333 / printed 316; Pass 3 next**: **2026-09-09**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
 
 ## Repository
 
@@ -194,7 +194,7 @@ Before Kuraloviyam repository changes, read completely:
 11. `works/kuraloviyam/PART_003_PASS1_PROGRESS.md`
 12. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md`
 13. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md`
-14. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_002.md` as Pass-2B precedent
+14. `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md` as Pass-3 precedent
 15. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`
 16. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
 17. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
@@ -248,53 +248,54 @@ All 111 Part-003 page records remain `status: "needs-review"` and `visual_fideli
 
 **111 / 111 scans directly textually verified against rendered source scans — overall scans 223–333 / printed 206–316.**
 
-Completed:
+Durable log: `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md`.
 
-- **Batch 1 — scans 223–233 / printed 206–216 — COMPLETE 11/11**;
-- **Batch 2 — scans 234–244 / printed 217–227 — COMPLETE 11/11**;
-- **Batch 3 — scans 245–255 / printed 228–238 — COMPLETE 11/11**;
-- **Batch 4 — scans 256–266 / printed 239–249 — COMPLETE 11/11**;
-- **Batch 5 — scans 267–277 / printed 250–260 — COMPLETE 11/11**;
-- **Batch 6 — scans 278–288 / printed 261–271 — COMPLETE 11/11**;
-- **Batch 7 — scans 289–299 / printed 272–282 — COMPLETE 11/11**;
-- **Batch 8 — scans 300–310 / printed 283–293 — COMPLETE 11/11**;
-- **Batch 9 — scans 311–321 / printed 294–304 — COMPLETE 11/11**;
-- **Batch 10 — scans 322–332 / printed 305–315 — COMPLETE 11/11**;
-- **final remainder — scan 333 / printed 316 — COMPLETE 1/1**.
+## Part 003 Pass 2B — COMPLETE
 
-Batch 10 corrected scans **322, 323, 325, 326, 327, 329, 331 and 332**; scans **324, 328 and 330** required no textual correction. Final scan 333 corrected `ஆர்ப்பாட்டம் செய்வார்கள்`, `எழுதிக் களிக்க`, and `இறுதியான`. The internal **332→333 genuine continuation** is closed; external **333→334 remains deferred** until Part 004 intake.
+**111 / 111 scans independently lexical-fidelity re-read against freshly rendered source scans — overall scans 223–333 / printed 206–316.**
 
-All page records remain `needs-review` / `visual_fidelity: needs-review`. Durable log: `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md`.
+Completed batches:
 
-## Part 003 Pass 2B — ACTIVE
+- Batch 1 — **223–232 — 10/10**;
+- Batch 2 — **233–242 — 10/10**;
+- Batch 3 — **243–252 — 10/10**;
+- Batch 4 — **253–262 — 10/10**;
+- Batch 5 — **263–272 — 10/10**;
+- Batch 6 — **273–282 — 10/10**;
+- Batch 7 — **283–292 — 10/10**;
+- Batch 8 — **293–302 — 10/10**;
+- Batch 9 — **303–312 — 10/10**;
+- Batch 10 — **313–322 — 10/10**;
+- Batch 11 — **323–332 — 10/10**;
+- final remainder — **333 — 1/1**.
 
-Pass 2B is an independent lexical-fidelity re-read against freshly rendered scans. Follow `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_002.md` as precedent and `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md` as the active durable log.
+Late Pass-2B corrections:
 
-Completed:
+- Batch 10: scans **314, 316, 320, 322**;
+- Batch 11: scan **326**;
+- final scan **333**: `இறுதியான` → `இறுதி யான`; `தலைமை ஏற்று` → `தலைமைபெற்று`.
 
-- **Batch 1 — scans 223–232 / printed 206–215 — COMPLETE 10/10**; corrections on scans **223 and 226**; **232→233 CLEAN** reconfirmed.
-- **Batch 2 — scans 233–242 / printed 216–225 — COMPLETE 10/10**; corrections on scans **235 and 236**; **242→243 CLEAN** confirmed from scan 243 witness.
-- **Batch 3 — scans 243–252 / printed 226–235 — COMPLETE 10/10**; corrections on scans **249, 250, 251 and 252**; **252→253 genuine continuation** reconfirmed from scan 253 witness.
-- **Batch 4 — scans 253–262 / printed 236–245 — COMPLETE 10/10**; corrections on scans **253 and 261**; **262→263 genuine continuation** reconfirmed from scan 263 witness.
-- **Batch 5 — scans 263–272 / printed 246–255 — COMPLETE 10/10**; correction only on scan **264** (`நாட்டோடிப்` → `நாடோடிப்`); **272→273 genuine continuation** reconfirmed.
-- **Batch 6 — scans 273–282 / printed 256–265 — COMPLETE 10/10**; correction only on scan **281** (`புகழைப் போன்றதாம்` → `புகுவதைப் போன்றதாம்`); **282→283 genuine continuation** reconfirmed.
+The final scan independently reconfirmed Kural 567 wording/lineation, Chapter 57 `வெருவந்த செய்யாமை` metadata and the internal **332→333 genuine continuation**. External **333→334 remains deferred** until Part 004 source intake.
 
-Scans **273, 274, 275, 276, 277, 278, 279, 280 and 282** required no new Batch-6 correction.
+Durable log: `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md`.
 
-Current Pass-2B frontier: **60/111 through scan 282 / printed 265**. All page records remain `needs-review` / `visual_fidelity: needs-review`.
+All records remain `needs-review` / `visual_fidelity: needs-review` pending Pass 3, Part audit and final synchronization.
+
+## Part 003 Pass 3 — NOT STARTED
+
+Pass 3 is meaningful visual-text verification and follows `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md` as precedent. It verifies heading hierarchy, Kural/quotation lineation and block placement, prose/quotation relationships, page furniture, source/non-source visual separation, illustration/text order and relationship, physical-page continuation and source-size legibility. It is not another lexical reread.
 
 # Exact next activity — குறளோவியம்
 
 1. fetch live `main`;
 2. complete the Kuraloviyam mandatory startup reading above;
 3. resolve the supplied Part 003 PDF;
-4. process **Part 003 Pass 2B / Batch 7 — scans 283–292 / printed 266–275, 10 physical scans**;
-5. begin inside confirmed **282→283 genuine continuation**;
-6. fetch current page records `0283`–`0292` before comparison;
-7. independently re-read every source-visible printed word, punctuation mark, paragraph/quotation boundary, Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata against freshly rendered scans;
-8. make only direct source-supported corrections;
-9. inspect scan **293 / printed 276** only as the outgoing boundary witness if needed;
-10. update `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md` for every correction/no-change result;
-11. keep all records at `needs-review` / `visual_fidelity: needs-review`;
-12. audit the exact changed-file set before advancing;
-13. do not start Pass 3 until Part 003 Pass 2B is complete 111/111; English remains blocked until Tamil closure.
+4. process **Part 003 Pass 3 / Batch 1 — scans 223–232 / printed 206–215, 10 physical scans**;
+5. fetch current page records `0223`–`0232` before comparison;
+6. verify meaningful visual-text fidelity directly from freshly rendered scans;
+7. make only source-supported structural corrections; do not repeat settled lexical verification;
+8. inspect scan **233 / printed 216** only as the outgoing continuity witness when needed; **232→233 is CLEAN**;
+9. create/update `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md` using the Part-002 Pass-3 precedent;
+10. keep all records at `needs-review` / `visual_fidelity: needs-review`;
+11. audit the exact changed-file set before advancing;
+12. do not begin the Part audit until Part 003 Pass 3 is complete 111/111; English remains blocked until Tamil closure.
