@@ -142,7 +142,24 @@ Source units observed:
 - scans **317–318 / printed 300–301** — boastful climber / knowing one's strength vignette; Chapter 48 / Kural 474;
 - scans **319–321 / printed 302–304** — lovers' quarrel / interpreting-signs vignette; Chapter 110 / Kural 1097.
 
-Important boundary: **321→322 is clean.** Scan **322 / printed 305** was inspected only as the outgoing boundary witness during P3-09 and begins a new illustrated classroom / `வலியறிதல்` vignette; it belongs to P3-10.
+Important boundary: **321→322 is clean.**
+
+## P3-10 — COMPLETE
+
+Scans **322–332 / printed 305–315** captured as **11 page-aligned Tamil records**.
+
+Source units observed:
+
+- scans **322–323 / printed 305–306** — classroom / `வலியறிதல்` vignette; Chapter 48 / Kurals 479, 473;
+- scans **324–325 / printed 307–308** — Iraaman / Annam-Amudham chastity vignette; Chapter 6 / Kural 57;
+- scans **326–327 / printed 309–310** — Ezhini / Iniyan “Yama” love vignette; Chapter 109 / Kural 1083;
+- scans **328–329 / printed 311–312** — solitary-beauty / unused-wealth analogy; Chapter 101 / Kural 1007;
+- scans **330–331 / printed 313–314** — burden / moral-faults / `அழுக்காறு` vignette; Chapter 4 / Kural 35;
+- scan **332 / printed 315** — severe-rule / famine vignette begins and continues directly to scan 333.
+
+Important internal boundaries: **323→324 clean; 325→326 clean; 327→328 clean; 329→330 clean; 331→332 clean.**
+
+Important outgoing boundary: **332→333 is a genuine continuation.** Scan **333 / printed 316** was inspected only as the outgoing boundary witness during P3-10. It closes the same severe-rule / famine vignette with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567 and belongs to the final one-scan remainder.
 
 All captured Part 003 Pass-1 records remain:
 
@@ -151,19 +168,16 @@ All captured Part 003 Pass-1 records remain:
 
 Pass 1 is physical capture/transcription only and does not make records source-verified.
 
-Current Part 003 Pass-1 capture frontier: **99 / 111 scans — overall scans 223–321 / printed 206–304**.
+Current Part 003 Pass-1 capture frontier: **110 / 111 scans — overall scans 223–332 / printed 206–315**.
 
-## Planned remaining Pass 1 iterations — 11-page cadence
+## Planned remaining Pass 1 iteration
 
-- **P3-10 — NEXT:** scans **322–332 / printed 305–315** — 11 scans;
-- **Final remainder:** scan **333 / printed 316** — 1 scan.
-
-Where needed, inspect the first scan of the following iteration only as a boundary witness before committing the current batch.
+- **Final remainder — NEXT:** scan **333 / printed 316** — 1 scan.
 
 ## Part-ending intake witness
 
-Scans **332–333 / printed 315–316** form the final visible Part 003 unit. Scan 333 closes with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567. The **332→333** boundary is therefore a genuine continuation into the final one-scan remainder. The external **333→334** split boundary is deferred until Part 004 intake and must not be inferred.
+Scans **332–333 / printed 315–316** form the final visible Part 003 unit. The **332→333** boundary is a genuine continuation. Scan 333 closes with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567. The external **333→334** split boundary is deferred until Part 004 intake and must not be inferred.
 
 ## Exact next activity
 
-Complete **P3-10 — overall scans 322–332 / printed 305–315** as 11 page-aligned Tamil records under `works/kuraloviyam/pages/`. Begin scan **322 / printed 305** as the new illustrated classroom / `வலியறிதல்` vignette confirmed by the P3-09 outgoing boundary witness. Inspect scan **333 / printed 316** only as the outgoing boundary witness when needed; it belongs to the final one-scan remainder and must not be created during P3-10. Do not normalize, import standard Kural wording, or claim Pass 2/Pass 3 verification.
+Complete the **final Part 003 Pass-1 remainder — overall scan 333 / printed 316** as one page-aligned Tamil record under `works/kuraloviyam/pages/`. Begin it as the direct continuation of the severe-rule / famine vignette begun on scan 332 and preserve the source-visible closing Chapter 57 / Kural 567 material. Do not infer the external **333→334** boundary before Part 004 is supplied. Do not normalize, import standard Kural wording, or claim Pass 2/Pass 3 verification.
