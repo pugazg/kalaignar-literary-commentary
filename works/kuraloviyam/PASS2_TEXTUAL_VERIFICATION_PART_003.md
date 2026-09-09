@@ -139,10 +139,30 @@ Batch 5 correction summary: **6 records corrected; scans 268, 270, 272, 274 and 
 
 Batch 6 correction summary: **5 records corrected; scans 278, 280, 282, 284, 286 and 288 required no textual change**.
 
-Current Part 003 Pass 2A frontier: **66 / 111 scans verified — overall scans 223–288 / printed 206–271**.
+## Batch 7 — overall scans 289–299 / printed pages 272–282
+
+**Status: COMPLETE — 11 / 11 scans.** Incoming **288→289 genuine continuation** preserved. Scan **300 / printed 283** was inspected only as the outgoing witness and directly reconfirms **299→300 CLEAN**.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 289 | 272 | corrected `உற்று கூறுவீராக` → `உற்றது கூறுவீராக`; restored source quotation punctuation around Kurals 347 and 350; Chapter 35 / Kurals 347, 350 confirmed; closes the continuation from scan 288 |
+| 290 | 273 | direct textual comparison complete; no correction required; genuine continuation into 291 confirmed |
+| 291 | 274 | body wording matched; restored source quotation punctuation around Kural 1269; Chapter 127 / Kural 1269 confirmed |
+| 292 | 275 | direct textual comparison complete; no correction required; genuine continuation into 293 confirmed |
+| 293 | 276 | corrected `அழைத்துக்கொண்டும்` → `அழைத்துக் கொண்டும்` and `பதித்தால்` → `பதித்ததால்`; restored source quotation punctuation around Kural 521; Chapter 53 / Kural 521 confirmed |
+| 294 | 277 | direct textual comparison complete; no correction required; genuine continuation into 295 confirmed |
+| 295 | 278 | body wording matched; restored source quotation punctuation around Kural 1264; Chapter 127 / Kural 1264 confirmed |
+| 296 | 279 | direct textual comparison complete; no correction required; genuine continuation into 297 confirmed |
+| 297 | 280 | body wording matched; restored source quotation punctuation around Kural 762; Chapter 77 / Kural 762 confirmed |
+| 298 | 281 | direct textual comparison complete; no correction required; genuine continuation into 299 confirmed |
+| 299 | 282 | body wording matched; restored source quotation punctuation around Kural 1218; Chapter 122 / Kural 1218 confirmed; scan 300 witness reconfirmed **299→300 CLEAN** |
+
+Batch 7 correction summary: **6 records corrected; scans 290, 292, 294, 296 and 298 required no textual change**.
+
+Current Part 003 Pass 2A frontier: **77 / 111 scans verified — overall scans 223–299 / printed 206–282**.
 
 ## Next batch
 
-**Batch 7 — scans 289–299 / printed 272–282 — 11 scans.** Begin with scan 289 as the genuine continuation of the Valluvar / renunciation vignette from scan 288. Inspect scan **300 / printed 283** only as a continuity/boundary witness when needed; Pass-1 mapping records **299→300 as CLEAN**. Keep all records at `needs-review` / `visual_fidelity: needs-review`.
+**Batch 8 — scans 300–310 / printed 283–293 — 11 scans.** Begin after the confirmed clean **299→300** boundary. Inspect scan **311 / printed 294** only as a continuity/boundary witness when needed; Pass-1 mapping records **310→311 as CLEAN**. Keep all records at `needs-review` / `visual_fidelity: needs-review`.
 
 External **333→334** remains deferred until Part 004 source intake.
