@@ -10,7 +10,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
 | 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | **source intake + Pass 1 + Pass 2A COMPLETE — 111/111; Pass 2B ACTIVE — 60/111 through scan 282** |
+| 003 | 223–333 | **source intake + Pass 1 + Pass 2A COMPLETE — 111/111; Pass 2B ACTIVE — 70/111 through scan 292** |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
 | 006 | 556–666 | not-started |
@@ -105,7 +105,7 @@ Durable Pass-2A record: `PASS2_TEXTUAL_VERIFICATION_PART_003.md`.
 
 ### Part 003 Pass 2B state
 
-**ACTIVE — 60 / 111 independently re-read through scan 282 / printed 265.** Pass 2B follows the Part-002 independent lexical-fidelity precedent and uses freshly rendered scans as authority.
+**ACTIVE — 70 / 111 independently re-read through scan 292 / printed 275.** Pass 2B follows the Part-002 independent lexical-fidelity precedent and uses freshly rendered scans as authority.
 
 - **Batch 1: scans 223–232 / printed 206–215 — COMPLETE 10/10**; corrections on scans **223 and 226**; eight no-change scans; **232→233 CLEAN** confirmed.
 - **Batch 2: scans 233–242 / printed 216–225 — COMPLETE 10/10**; corrections on scans **235 and 236**; scans **233, 234, 237, 238, 239, 240, 241 and 242** required no new correction; **242→243 CLEAN** confirmed from scan 243 witness.
@@ -113,6 +113,7 @@ Durable Pass-2A record: `PASS2_TEXTUAL_VERIFICATION_PART_003.md`.
 - **Batch 4: scans 253–262 / printed 236–245 — COMPLETE 10/10**; corrections on scans **253 and 261**; scans **254, 255, 256, 257, 258, 259, 260 and 262** required no new correction; **262→263 genuine continuation** reconfirmed from scan 263 witness.
 - **Batch 5: scans 263–272 / printed 246–255 — COMPLETE 10/10**; correction only on scan **264**, restoring `நாட்டோடிப்` → `நாடோடிப்`; scans **263, 265, 266, 267, 268, 269, 270, 271 and 272** required no new correction; **272→273 genuine continuation** reconfirmed from scan 273 witness.
 - **Batch 6: scans 273–282 / printed 256–265 — COMPLETE 10/10**; correction only on scan **281**, restoring `புகழைப் போன்றதாம்` → `புகுவதைப் போன்றதாம்`; scans **273, 274, 275, 276, 277, 278, 279, 280 and 282** required no new correction; **282→283 genuine continuation** reconfirmed from scan 283 witness.
+- **Batch 7: scans 283–292 / printed 266–275 — COMPLETE 10/10**; corrections on scans **285, 287, 288 and 291**; scans **283, 284, 286, 289, 290 and 292** required no new correction; source restorations include `எடுத்துக்காட்டாகக் கொண்டு`, `அசைத்திட`, `என்ற செய்திகூட`, `புகழக் கேட்பது`, `நடிப்போரை`, and `எழு நாள்தானே`; **292→293 genuine continuation** reconfirmed from scan 293 witness.
 
 All records intentionally remain `needs-review` / `visual_fidelity: needs-review`; Pass 3, audit and final synchronization are still required before textual/visual `verified` status.
 
@@ -120,4 +121,4 @@ Durable Pass-2B record: `PASS2B_LEXICAL_FIDELITY_PART_003.md`.
 
 ## Current frontier
 
-**Next activity: Part 003 Pass 2B / Batch 7 — scans 283–292 / printed 266–275, 10 independent scans.** Begin inside confirmed **282→283 genuine continuation**. Freshly re-read every source-visible printed word with special attention to `ர/ற`, `ன/ண`, `ல/ள/ழ`, vowel signs, compound letters, source-visible joining/spacing, old or uncommon forms, names, quotations, Kural text/lineation, punctuation and printed `அதிகாரம்` / பாடல் metadata. Keep all records at `needs-review` / `visual_fidelity: needs-review`; do not normalize, use OCR guesswork, or import standard/web wording.
+**Next activity: Part 003 Pass 2B / Batch 8 — scans 293–302 / printed 276–285, 10 independent scans.** Begin inside confirmed **292→293 genuine continuation**. Freshly re-read every source-visible printed word with special attention to `ர/ற`, `ன/ண`, `ல/ள/ழ`, vowel signs, compound letters, source-visible joining/spacing, old or uncommon forms, names, quotations, Kural text/lineation, punctuation and printed `அதிகாரம்` / பாடல் metadata. Keep all records at `needs-review` / `visual_fidelity: needs-review`; do not normalize, use OCR guesswork, or import standard/web wording. Inspect scan **303 / printed 286** only as the outgoing boundary witness if needed.
