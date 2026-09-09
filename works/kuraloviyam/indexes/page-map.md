@@ -8,7 +8,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
 | 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **SOURCE INTAKE + Pass 1 COMPLETE — 111/111; Pass 2A ACTIVE — 77/111** |
+| 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **SOURCE INTAKE + Pass 1 + Pass 2A COMPLETE — 111/111; Pass 2B NOT STARTED** |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
 | 006 | 556–666 | 1–111 | not yet inspected | not-started |
@@ -215,7 +215,11 @@ Part 003 Pass 2A verified frontier:
 - Batch 5: **267–277 / printed 250–260 — COMPLETE 11/11**; **277→278 clean** reconfirmed from scan 278 witness;
 - Batch 6: **278–288 / printed 261–271 — COMPLETE 11/11**; **288→289 genuine continuation** reconfirmed from scan 289 witness;
 - Batch 7: **289–299 / printed 272–282 — COMPLETE 11/11**; **299→300 clean** reconfirmed from scan 300 witness;
-- cumulative Pass-2A coverage: **77/111 through scan 299 / printed 282**;
+- Batch 8: **300–310 / printed 283–293 — COMPLETE 11/11**; **310→311 clean** reconfirmed from scan 311 witness;
+- Batch 9: **311–321 / printed 294–304 — COMPLETE 11/11**; **321→322 clean** reconfirmed from scan 322 witness;
+- Batch 10: **322–332 / printed 305–315 — COMPLETE 11/11**; genuine **332→333 continuation** reconfirmed from scan 333 witness;
+- final remainder: **333 / printed 316 — COMPLETE 1/1**; Chapter 57 / Kural 567 and Part closure directly confirmed;
+- cumulative Pass-2A coverage: **111/111 through scan 333 / printed 316 — COMPLETE**;
 - all Part 003 records remain `needs-review` / `visual_fidelity: needs-review` until later gates close.
 
 ## Additional physical notes
@@ -297,7 +301,7 @@ Part 003:
 
 - source intake — **PASS / COMPLETE**;
 - Pass 1 — **COMPLETE, 111/111 captured through scan 333 / printed 316**;
-- Pass 2A — **ACTIVE, 77/111 verified through scan 299 / printed 282**;
+- Pass 2A — **COMPLETE, 111/111 verified through scan 333 / printed 316**;
 - Pass 2B — not-started;
 - Pass 3 — not-started;
 - Part audit — not-started;
@@ -310,6 +314,6 @@ Part 003:
 
 **Part 002: Tamil + English CLOSED.**
 
-**Part 003: SOURCE INTAKE + PASS 1 COMPLETE — 111/111; PASS 2A ACTIVE — 77/111.**
+**Part 003: SOURCE INTAKE + PASS 1 + PASS 2A COMPLETE — 111/111; PASS 2B NOT STARTED.**
 
-Exact next activity: **Part 003 Pass 2A / Batch 8 — scans 300–310 / printed 283–293, 11 direct textual-verification scans**. Begin after the confirmed clean **299→300** boundary. Compare every source-visible word, punctuation mark, paragraph/quotation boundary, Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata against rendered scans. Inspect scan **311 / printed 294** only as a continuity/boundary witness when needed and preserve the known **310→311 CLEAN** boundary. Keep all page records at `needs-review` / `visual_fidelity: needs-review`, update the dedicated Part 003 Pass-2A log, and audit the exact changed-file set before advancing.
+Exact next activity: **Part 003 Pass 2B / Batch 1 — scans 223–232 / printed 206–215, 10 independent lexical-fidelity scans**. Follow `../PASS2B_LEXICAL_FIDELITY_PART_002.md` as precedent. Re-read every source-visible printed word against freshly rendered scans, with special attention to `ர/ற`, `ன/ண`, `ல/ள/ழ`, vowel signs, compound letters, source-visible joining/spacing, old or uncommon forms, names, quotations, Kural wording/lineation, punctuation and printed `அதிகாரம்` / பாடல் metadata. Keep all page records at `needs-review` / `visual_fidelity: needs-review`, create/update the dedicated Part-003 Pass-2B log, and audit the exact changed-file set before advancing.
