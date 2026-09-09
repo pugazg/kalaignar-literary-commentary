@@ -47,12 +47,43 @@ This is not another lexical reread. Settled wording is not normalized or rewritt
 - Lexical body-text changes: **0**.
 - Status promotion: **0**.
 
+## Batch 2 — scans 234–244 / printed 217–227
+
+**Result: COMPLETE — 11 / 11.**
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 234 | 217 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the festival and bangle-seller vignette; set-out Kural 1171 block and Chapter 118 metadata are correctly separated below the prose. |
+| 235 | 218 | **NO STRUCTURAL CHANGE** — large upper illustration of the dining/serving scene with a man leaving through the doorway; prose begins below and continues directly to scan 236 as recorded. |
+| 236 | 219 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the hospitality vignette; Kural 90 is a distinct set-out block above Chapter 9 metadata. |
+| 237 | 220 | **NO STRUCTURAL CHANGE** — large upper illustration of the poet/lover holding the reclining woman with the moon-woman figure behind; prose begins below and continues to scan 238. |
+| 238 | 221 | **NO STRUCTURAL CHANGE** — text-only continuation/close; the two Kural blocks remain visually distinct and precede Chapter 112 / Kurals 1117, 1118 metadata. |
+| 239 | 222 | **NO STRUCTURAL CHANGE** — large upper drunkard/Valluvar illustration with drinking imagery behind; prose begins below and continues directly to scan 240. |
+| 240 | 223 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the `கள்ளுண்ணாமை` vignette; set-out Kural 929, Chapter 93 metadata and the short lexical note are correctly ordered. |
+| 241 | 224 | **NO STRUCTURAL CHANGE** — large upper lamp/darkness illustration with concealed figures and patterned screen; prose begins below and continues directly to scan 242. |
+| 242 | 225 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the lamp/darkness and pallor analogy; set-out Kural 1186, Chapter 119 metadata and lexical notes are correctly separated. |
+| 243 | 226 | **NO STRUCTURAL CHANGE** — large upper farming-family illustration under a tree with child and food pot; short prose begins below and continues mid-sentence to scan 244. |
+| 244 | 227 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the agriculture/family vignette; two Kural blocks and their Chapter 104 / Chapter 7 metadata are structurally distinct and correctly ordered. |
+
+### Boundary / continuity result
+
+- Incoming **233→234 genuine continuation** remains confirmed.
+- **244→245 is CLEAN**, reconfirmed from scan 245 / printed 228: scan 244 closes the agriculture/family unit and scan 245 begins a new illustrated vignette.
+- Scan 245 was used only as the outgoing witness and is **not** counted in Batch 2.
+
+### Batch 2 correction summary
+
+- Structural/visual-description corrections: **0**.
+- No-change scans: **234–244 — 11 pages**.
+- Lexical body-text changes: **0**.
+- Status promotion: **0**.
+
 ## Current Pass-3 frontier
 
-**11 / 111 complete through scan 233 / printed 216.**
+**22 / 111 complete through scan 244 / printed 227.**
 
 All Part-003 records remain `needs-review` / `visual_fidelity: needs-review`.
 
-## Exact next activity — Batch 2
+## Exact next activity — Batch 3
 
-Process **scans 234–244 / printed 217–227 — 11 physical scans**, beginning inside the confirmed genuine **233→234** continuation. Inspect **scan 245 / printed 228** only as the outgoing boundary/continuity witness when needed. Keep the same visual-text-only gate; do not start the Part audit.
+Process **scans 245–255 / printed 228–238 — 11 physical scans**, beginning after the confirmed CLEAN **244→245** boundary. Inspect **scan 256 / printed 239** only as the outgoing boundary/continuity witness when needed. Keep the same visual-text-only gate; do not start the Part audit.
