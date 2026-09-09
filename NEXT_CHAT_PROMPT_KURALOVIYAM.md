@@ -34,7 +34,7 @@ Read completely before changing anything:
 - Part 002 English: **RELEASE COMPLETE / CLOSED — 111/111 release-ready**.
 - Part 003 source intake: **PASS / COMPLETE**.
 - Part 003 Pass 1: **COMPLETE — scans 223–333 / 111 of 111 captured**.
-- Part 003 Pass 2A: **ACTIVE — 66/111 verified through scan 288 / printed 271**.
+- Part 003 Pass 2A: **ACTIVE — 77/111 verified through scan 299 / printed 282**.
 - Part 003 Pass 2B, Pass 3, audit and Tamil archival-ready: **not-started**.
 - English remains **blocked until Tamil closure**.
 
@@ -101,21 +101,25 @@ User directive: **process 11 physical scans in each normal Pass-2A iteration**, 
 
 **Scans 278–288 / printed 261–271 — COMPLETE 11/11.** Five records corrected: **279, 281, 283, 285, 287**. Scans **278, 280, 282, 284, 286 and 288** required no textual correction. Scan **289 / printed 272** was inspected only as the boundary witness and reconfirms **288→289 as a genuine continuation**.
 
-Important Batch-6 source-specific readings restored include `நடுங்குவதைக்கண்டு`, `தனக்கு எல்லாம் தெரிந்திருப்பதைப்போலப் புகழைப் போன்றதாம்! அதைவிடப் பேதைமையே இல்லை என்கிறது குறள்!`, `தன்னம்பிக்கையுடன்`, `வறுமைக்கு எங்கள் நாட்டில் வறுமை`, `மிக்க வலிமை`, `என்று செய்திகூட`, plus source quotation punctuation around Kurals 1287, 840, 1107, 448 and 1199. See `PASS2_TEXTUAL_VERIFICATION_PART_003.md` for the complete per-scan record.
+## Pass 2A Batch 7 — COMPLETE
 
-## Exact next activity — Part 003 Pass 2A / Batch 7
+**Scans 289–299 / printed 272–282 — COMPLETE 11/11.** Six records corrected: **289, 291, 293, 295, 297, 299**. Scans **290, 292, 294, 296 and 298** required no textual correction. Scan **300 / printed 283** was inspected only as the boundary witness and reconfirms **299→300 CLEAN**.
 
-Process **scans 289–299 / printed 272–282 — 11 physical scans** in one iteration.
+Important Batch-7 source-specific readings restored include `உற்றது கூறுவீராக`, `அழைத்துக் கொண்டும்`, `பதித்ததால்`, plus source quotation punctuation around Kurals 347, 350, 1269, 521, 1264, 762 and 1218. See `PASS2_TEXTUAL_VERIFICATION_PART_003.md` for the complete per-scan record.
+
+## Exact next activity — Part 003 Pass 2A / Batch 8
+
+Process **scans 300–310 / printed 283–293 — 11 physical scans** in one iteration.
 
 Requirements:
 
 1. fetch live `main` first;
 2. resolve the supplied Part 003 PDF and inspect rendered scans directly;
-3. begin scan **289 / printed 272** as the genuine continuation of the Valluvar / renunciation vignette from scan 288;
-4. fetch current page records `0289`–`0299` before comparison;
+3. begin after the confirmed clean **299→300** boundary;
+4. fetch current page records `0300`–`0310` before comparison;
 5. compare source-visible wording, punctuation, paragraph/quotation boundaries, Kural text/lineation and printed metadata word-for-word against the scans;
 6. make only source-supported corrections;
-7. inspect scan **300 / printed 283** only as a continuity/boundary witness when needed; Pass-1 mapping records **299→300 as CLEAN**;
+7. inspect scan **311 / printed 294** only as a continuity/boundary witness when needed; Pass-1 mapping records **310→311 as CLEAN**;
 8. update `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md` to log every correction/no-change result;
 9. keep all records at `needs-review` / `visual_fidelity: needs-review`;
 10. audit the exact changed-file set before advancing;
