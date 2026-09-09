@@ -79,10 +79,30 @@ Batch 2 correction summary: **9 records corrected; scans 239 and 241 required no
 
 Batch 3 correction summary: **10 records corrected; scan 254 required no textual change**.
 
-Current Part 003 Pass 2A frontier: **33 / 111 scans verified — overall scans 223–255 / printed 206–238**.
+## Batch 4 — overall scans 256–266 / printed pages 239–249
+
+**Status: COMPLETE — 11 / 11 scans.** Incoming **255→256 CLEAN** boundary preserved. Scan **267 / printed 250** was inspected only as the outgoing witness and reconfirms **266→267 as a genuine continuation**.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 256 | 239 | direct textual comparison complete; no correction required; continuation into 257 confirmed |
+| 257 | 240 | corrected `என்று கொண்டு கேட்டனர்` → `என்று சினந்து கேட்டனர்`, `தெரியாமல், நான்` → `தெரியாமல்கூட நான்`, `அது கொடியதில்லையா` → `அது தெரியவில்லையா`, and `அந்தக் குறளைத்தான்... வெளிப்படுத்துகிறது` → `அந்தக் குமுறல்தான்... வெளிப்படுகிறது`; restored source quotation punctuation around Kural 1049; Chapter 105 / Kural 1049 confirmed |
+| 258 | 241 | direct textual comparison complete; no correction required; genuine 258→259 continuation confirmed |
+| 259 | 242 | corrected `ஏக்கத்திற்கிலோர்` → `ஏக்கத்தைத்தவிர` and `மறந்து கிடையாதே` → `மறந்தது கிடையாதே`; restored source quotation punctuation around Kurals 1126 and 1125; Chapter 113 / Kurals 1126, 1125 confirmed |
+| 260 | 243 | corrected `விசியெறியும்` → `வீசியெறியும்`; genuine 260→261 continuation confirmed |
+| 261 | 244 | corrected `ஆவேசம் கொண்டாள்` → `ஆவேசங் கொண்டாள்` and `இழிந்து வாயினால்` → `இகழ்ந்து வாயினால்`; restored source quotation punctuation around Kural 129; Chapter 13 / Kural 129 confirmed |
+| 262 | 245 | corrected `உன்னைப் பார்த்திட` → `விண்ணைப் பார்த்திட`, `அள்ளி அணைத்திடத் தண்ணீரில்` → `அள்ளி அணைத்திடக் குளத்திலும்`, and `உன் ஒளியுடன்... நடுங்குகிறாய்` → `உன் ஒளியுடல்... நடுங்குகிறது`; continuation into 263 confirmed |
+| 263 | 246 | body wording matched; restored source quotation punctuation around Kural 1140; Chapter 114 / Kural 1140 confirmed |
+| 264 | 247 | direct textual comparison complete; no correction required; continuation into 265 confirmed |
+| 265 | 248 | body wording matched; restored source quotation punctuation around Kural 796; Chapter 80 / Kural 796 confirmed |
+| 266 | 249 | direct textual comparison complete; no correction required; scan 267 witness reconfirmed the genuine **266→267 continuation** |
+
+Batch 4 correction summary: **7 records corrected; scans 256, 258, 264 and 266 required no textual change**.
+
+Current Part 003 Pass 2A frontier: **44 / 111 scans verified — overall scans 223–266 / printed 206–249**.
 
 ## Next batch
 
-**Batch 4 — scans 256–266 / printed 239–249 — 11 scans.** Begin after the confirmed clean **255→256** boundary. Inspect scan **267 / printed 250** only as a continuity/boundary witness when needed; Pass-1 mapping records **266→267 as a genuine continuation**. Keep all records at `needs-review` / `visual_fidelity: needs-review`.
+**Batch 5 — scans 267–277 / printed 250–260 — 11 scans.** Begin with scan 267 as the continuation of the trade/separation vignette from scan 266. Inspect scan **278 / printed 261** only as a continuity/boundary witness when needed; Pass-1 mapping records **277→278 as CLEAN**. Keep all records at `needs-review` / `visual_fidelity: needs-review`.
 
 External **333→334** remains deferred until Part 004 source intake.
