@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 003 Pass 2B Batch 1 COMPLETE / 10 of 111 through scan 232**: **2026-09-09**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
+Last refreshed for Kuraloviyam **Part 003 Pass 2B Batch 2 COMPLETE / 20 of 111 through scan 242**: **2026-09-09**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
 
 ## Repository
 
@@ -272,25 +272,26 @@ Pass 2B is an independent lexical-fidelity re-read against freshly rendered scan
 
 Completed:
 
-- **Batch 1 — scans 223–232 / printed 206–215 — COMPLETE 10/10**.
+- **Batch 1 — scans 223–232 / printed 206–215 — COMPLETE 10/10**; corrections on scans **223 and 226**; **232→233 CLEAN** reconfirmed.
+- **Batch 2 — scans 233–242 / printed 216–225 — COMPLETE 10/10**; corrections on scans **235 and 236**; **242→243 CLEAN** confirmed from scan 243 witness.
 
-Batch 1 corrections:
+Batch 2 corrections:
 
-- scan **223** — restored source single quotes `‘பேதைமை’` / `‘பேதை’`; removed non-source quote marks from `அந்தப் பேதை, பேதைமை`; corrected `கோட்டைக் சுவருக்கு` → `கோட்டைச் சுவருக்கு`;
-- scan **226** — corrected `நினைப்பவர்போல்` → `நினைப்பவர்போல`.
+- scan **235** — source-visible joining restored: `நடந்து சென்று` → `நடந்துசென்று`;
+- scan **236** — source-visible exclamation restored: `அடே டே..!` → `அடேடே!`.
 
-Scans **224, 225, 227, 228, 229, 230, 231 and 232** required no new Pass-2B correction. Scan **233 / printed 216** was inspected only as outgoing witness and reconfirms **232→233 CLEAN**.
+Scans **233, 234, 237, 238, 239, 240, 241 and 242** required no new Pass-2B correction.
 
-Current Pass-2B frontier: **10/111 through scan 232 / printed 215**. All page records remain `needs-review` / `visual_fidelity: needs-review`.
+Current Pass-2B frontier: **20/111 through scan 242 / printed 225**. All page records remain `needs-review` / `visual_fidelity: needs-review`.
 
 # Exact next activity — குறளோவியம்
 
 1. fetch live `main`;
 2. complete the Kuraloviyam mandatory startup reading above;
 3. resolve the supplied Part 003 PDF;
-4. process **Part 003 Pass 2B / Batch 2 — scans 233–242 / printed 216–225, 10 physical scans**;
-5. begin after confirmed **232→233 CLEAN**;
-6. fetch current page records `0233`–`0242` before comparison;
+4. process **Part 003 Pass 2B / Batch 3 — scans 243–252 / printed 226–235, 10 physical scans**;
+5. begin after confirmed **242→243 CLEAN**;
+6. fetch current page records `0243`–`0252` before comparison;
 7. independently re-read every source-visible printed word, punctuation mark, paragraph/quotation boundary, Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata against freshly rendered scans;
 8. make only direct source-supported corrections;
 9. update `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md` for every correction/no-change result;
