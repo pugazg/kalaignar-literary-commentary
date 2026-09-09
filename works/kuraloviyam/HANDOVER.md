@@ -24,9 +24,10 @@ Read before changing anything:
 10. `works/kuraloviyam/SOURCE_INTAKE_PART_003.md`
 11. `works/kuraloviyam/PART_003_PASS1_PROGRESS.md`
 12. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md`
-13. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`
-14. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
-15. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
+13. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_002.md` as Pass-2B precedent
+14. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`
+15. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
+16. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
 
 ## Durable closed state
 
@@ -100,86 +101,48 @@ Completed capture:
 
 Pass 1 is capture/transcription only. It does **not** make the Part source-verified.
 
-## Part 003 Pass 2A — ACTIVE
+## Part 003 Pass 2A — COMPLETE
 
-Pass 2A directly compares repository wording against rendered scans, including every source-visible word and punctuation mark, paragraph/quotation boundaries, Kural wording and lineation, printed `அதிகாரம்` / பாடல் metadata, physical continuations and separation of body text from non-body material.
+**111 / 111 scans directly verified against rendered source scans — scans 223–333 / printed 206–316.**
 
-User directive: **process 11 physical scans per Pass-2A iteration**, with a shorter final remainder if necessary. Workflow boundaries never create textual boundaries.
+Pass 2A compared every source-visible word and punctuation mark, paragraph/quotation boundaries, Kural wording and lineation, printed `அதிகாரம்` / பாடல் metadata, physical continuations and separation of body text from non-body material.
 
-### Batch 1 — COMPLETE
+Completed Pass-2A batches:
 
-**Scans 223–233 / printed 206–216 — COMPLETE 11/11.**
+- **Batch 1 — scans 223–233 / printed 206–216 — COMPLETE 11/11**;
+- **Batch 2 — scans 234–244 / printed 217–227 — COMPLETE 11/11**;
+- **Batch 3 — scans 245–255 / printed 228–238 — COMPLETE 11/11**;
+- **Batch 4 — scans 256–266 / printed 239–249 — COMPLETE 11/11**;
+- **Batch 5 — scans 267–277 / printed 250–260 — COMPLETE 11/11**;
+- **Batch 6 — scans 278–288 / printed 261–271 — COMPLETE 11/11**;
+- **Batch 7 — scans 289–299 / printed 272–282 — COMPLETE 11/11**;
+- **Batch 8 — scans 300–310 / printed 283–293 — COMPLETE 11/11**;
+- **Batch 9 — scans 311–321 / printed 294–304 — COMPLETE 11/11**;
+- **Batch 10 — scans 322–332 / printed 305–315 — COMPLETE 11/11**;
+- **final remainder — scan 333 / printed 316 — COMPLETE 1/1**.
 
-Source-supported corrections were committed on scans **223, 224, 225, 226, 227, 228, 230 and 232**. Scans **229, 231 and 233** required no textual correction. The genuine **233→234 continuation** was reconfirmed by inspecting scan 234 as the boundary witness.
+Batch 10 corrected scans **322, 323, 325, 326, 327, 329, 331 and 332**; scans **324, 328 and 330** required no textual correction. Representative restorations include `மாணாக்கனை யழைத்து`, `செயலால்`, `கேட்டினைத்தான்`, `கள்ளங் கபடமில்லாமல்`, `இலவு`, `என் ஆவலைத் தூண்டுகிறாய்`, `தன்னேரில்லாத`, `காளையொருவன்`, `பட்டொழியும்`, `கிழமானாள்`, `அல்லது ஆசைப்படுவது`, `முழுகிக்`, `அடுத்தவன் வாழ்வதைப் பார்த்து`, and `நான் நிம்மதியாக இருப்பதே உங்களுக்குப் பிடிக்காது!`.
 
-### Batch 2 — COMPLETE
+Final scan **333** corrected `ஆர்ப்பாட்டம் செய்கிறார்கள்` → `ஆர்ப்பாட்டம் செய்வார்கள்`, `எழுதி களிக்க` → `எழுதிக் களிக்க`, and `இறுதி யான` → `இறுதியான`; the remainder of the severe-rule/famine conclusion, Kural 567 and Chapter 57 metadata were directly confirmed.
 
-**Scans 234–244 / printed 217–227 — COMPLETE 11/11.**
-
-Source-supported corrections were committed on scans **234, 235, 236, 237, 238, 240, 242, 243 and 244**. Scans **239 and 241** required no textual correction. Scan **245 / printed 228** was inspected only as the outgoing witness and reconfirmed **244→245 CLEAN**.
-
-### Batch 3 — COMPLETE
-
-**Scans 245–255 / printed 228–238 — COMPLETE 11/11.**
-
-Source-supported corrections were committed on scans **245, 246, 247, 248, 249, 250, 251, 252, 253 and 255**. Scan **254** required no textual correction. Scan **256 / printed 239** was inspected only as the outgoing witness and reconfirmed **255→256 CLEAN**.
-
-### Batch 4 — COMPLETE
-
-**Scans 256–266 / printed 239–249 — COMPLETE 11/11.**
-
-Source-supported corrections were committed on scans **257, 259, 260, 261, 262, 263 and 265**. Scans **256, 258, 264 and 266** required no textual correction. Scan **267 / printed 250** was inspected only as the outgoing witness and reconfirmed the genuine **266→267 continuation**.
-
-### Batch 5 — COMPLETE
-
-**Scans 267–277 / printed 250–260 — COMPLETE 11/11.**
-
-Source-supported corrections were committed on scans **267, 269, 271, 273, 275 and 277**. Scans **268, 270, 272, 274 and 276** required no textual correction. Scan **278 / printed 261** was inspected only as the outgoing witness and reconfirmed **277→278 CLEAN**.
-
-### Batch 6 — COMPLETE
-
-**Scans 278–288 / printed 261–271 — COMPLETE 11/11.**
-
-Source-supported corrections were committed on scans **279, 281, 283, 285 and 287**. Scans **278, 280, 282, 284, 286 and 288** required no textual correction. Scan **289 / printed 272** was inspected only as the outgoing witness and reconfirmed the genuine **288→289 continuation**.
-
-### Batch 7 — COMPLETE
-
-**Scans 289–299 / printed 272–282 — COMPLETE 11/11.**
-
-Source-supported corrections were committed on scans **289, 291, 293, 295, 297 and 299**. Scans **290, 292, 294, 296 and 298** required no textual correction. Scan **300 / printed 283** was inspected only as the outgoing witness and reconfirmed **299→300 CLEAN**.
-
-### Batch 8 — COMPLETE
-
-**Scans 300–310 / printed 283–293 — COMPLETE 11/11.**
-
-Source-supported corrections were committed on scans **300, 303, 308, 309 and 310**. Scans **301, 302, 304, 305, 306 and 307** required no textual correction. Scan **311 / printed 294** was inspected only as the outgoing witness and reconfirmed **310→311 CLEAN**.
-
-### Batch 9 — COMPLETE
-
-**Scans 311–321 / printed 294–304 — COMPLETE 11/11.**
-
-Source-supported corrections were committed on scans **312, 314, 316, 317, 318, 320 and 321**. Scans **311, 313, 315 and 319** required no textual correction. Scan **322 / printed 305** was inspected only as the outgoing witness and reconfirmed **321→322 CLEAN**.
-
-Representative exact source readings restored in Batch 9 include `அணைத்தும்`, `தன்னால் முடியாதது`, `வெளிமாடத்திற்கருகே`, together with source-printed quotation punctuation around Kurals 1247, 1040, 1188, 474 and 1097.
-
-Current Pass-2A frontier: **99 / 111 scans verified — through scan 321 / printed 304**.
+The internal **332→333 genuine continuation** is closed. External **333→334 remains deferred** until Part 004 intake.
 
 Durable Pass-2A log: `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md`.
 
-During Pass 2A, keep records at `status: "needs-review"` / `visual_fidelity: "needs-review"`; final verified statuses require later Pass 2B, Pass 3, audit and final synchronization.
+All Part-003 records intentionally remain `status: "needs-review"` / `visual_fidelity: "needs-review"`; final verified statuses require Pass 2B, Pass 3, audit and final synchronization.
 
-## Exact next activity — Part 003 Pass 2A / Batch 10
+## Exact next activity — Part 003 Pass 2B / Batch 1
 
-Process **overall scans 322–332 / printed 305–315 — 11 scans**.
+Process **overall scans 223–232 / printed 206–215 — 10 scans** as an independent lexical-fidelity re-read, following `PASS2B_LEXICAL_FIDELITY_PART_002.md` as precedent.
 
 1. fetch live `main` first;
-2. use the supplied Part 003 controlling PDF and rendered scans directly;
-3. begin after the confirmed clean **321→322** boundary;
-4. fetch each existing page record before comparison;
-5. correct only source-supported wording/punctuation/paragraph/Kural/metadata differences;
-6. inspect scan **333 / printed 316** only as a continuity/boundary witness when needed; Pass-1 mapping records **332→333 as a genuine continuation**;
-7. update `PASS2_TEXTUAL_VERIFICATION_PART_003.md` with every correction/no-change result;
-8. keep textual and visual statuses at `needs-review` throughout Pass 2A;
+2. use the supplied Part 003 controlling PDF and freshly rendered scans directly;
+3. fetch current page records for scans **223–232** before comparison;
+4. independently re-read every source-visible printed word, with special attention to `ர/ற`, `ன/ண`, `ல/ள/ழ`, vowel signs, compound letters, joining/spacing, old or uncommon forms, names and quotations;
+5. independently reconfirm Kural wording/lineation, punctuation, paragraph/quotation boundaries and printed `அதிகாரம்` / பாடல் metadata;
+6. make only direct source-supported corrections — no OCR guesswork, normalization, web/standard-edition substitution, context reconstruction or memory;
+7. create/update the Part-003 Pass-2B durable log following the Part-002 precedent;
+8. keep textual and visual statuses at `needs-review` throughout Pass 2B;
 9. audit the exact changed-file set before advancing.
 
-Do not begin Pass 2B until Pass 2A has covered all 111 Part 003 scans. English remains blocked until Tamil archival closure.
+Do not begin Pass 3 until Pass 2B has covered all 111 Part-003 scans. English remains blocked until Tamil archival closure.
