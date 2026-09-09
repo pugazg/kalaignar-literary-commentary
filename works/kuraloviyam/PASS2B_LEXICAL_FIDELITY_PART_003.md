@@ -114,10 +114,29 @@ Batch 4 corrections were therefore required on scans **253 and 261**. Scans **25
 
 Batch 5 correction was therefore required only on scan **264**. Scans **263, 265, 266, 267, 268, 269, 270, 271 and 272** required no new Pass-2B correction.
 
-Current Part 003 Pass-2B frontier: **50 / 111 scans independently re-read — through scan 272 / printed 255**.
+## Batch 6 — overall scans 273–282 / printed pages 256–265
+
+**Status: COMPLETE — 10 / 10 scans independently re-read against freshly rendered source pages for Pass 2B.** Incoming **272→273 genuine continuation** preserved. Scan **283 / printed 266** was inspected only as the outgoing witness and confirms **282→283 as a genuine continuation** of the union / self-earned-sharing vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 273 | 256 | independently confirmed the Ramayana-discourse / caste-and-conduct conclusion, Kural 133, lineation and Chapter 14 metadata; no new correction required |
+| 274 | 257 | independently confirmed the illustrated returning-prince / separation opening and continuation into 275; no new correction required |
+| 275 | 258 | independently confirmed the returning-prince / separation conclusion, Kural 1267, lineation and Chapter 127 metadata; no new correction required |
+| 276 | 259 | independently confirmed the illustrated nettlinga-tree / drunken-climber autobiographical opening and continuation into 277; no new correction required |
+| 277 | 260 | independently confirmed the nettlinga-tree / drunken-climber conclusion, Kural 476, lineation and Chapter 48 metadata; no new correction required; **277→278 CLEAN** preserved |
+| 278 | 261 | independently confirmed the illustrated Killi/Nalli lovers'-quarrel and flood-swimmer opening and continuation into 279; no new correction required |
+| 279 | 262 | independently confirmed the Killi/Nalli conclusion, Kural 1287, lineation and Chapter 129 metadata; no new correction required |
+| 280 | 263 | independently confirmed the illustrated household-cleanliness / foolishness opening and continuation into 281; no new correction required |
+| 281 | 264 | corrected source-visible `புகழைப் போன்றதாம்` → `புகுவதைப் போன்றதாம்`; remaining household-cleanliness / foolishness conclusion, Kural 840, lineation and Chapter 84 metadata independently confirmed |
+| 282 | 265 | independently confirmed the illustrated union / self-earned-sharing opening; no new correction required; scan 283 witness reconfirms **282→283 genuine continuation** |
+
+Batch 6 correction was therefore required only on scan **281**. Scans **273, 274, 275, 276, 277, 278, 279, 280 and 282** required no new Pass-2B correction.
+
+Current Part 003 Pass-2B frontier: **60 / 111 scans independently re-read — through scan 282 / printed 265**.
 
 ## Next batch
 
-**Batch 6 — scans 273–282 / printed 256–265 — 10 scans.** Begin inside the confirmed genuine **272→273** continuation. Use freshly rendered source scans, re-read independently at word/character level, preserve source punctuation/quotation/Kural lineation and metadata, and keep all records at `needs-review` / `visual_fidelity: needs-review`.
+**Batch 7 — scans 283–292 / printed 266–275 — 10 scans.** Begin inside the confirmed genuine **282→283** continuation. Use freshly rendered source scans, re-read independently at word/character level, preserve source punctuation/quotation/Kural lineation and metadata, and keep all records at `needs-review` / `visual_fidelity: needs-review`.
 
 External **333→334** remains deferred until Part 004 source intake.
