@@ -8,7 +8,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
 | 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **SOURCE INTAKE + Pass 1 + Pass 2A + Pass 2B COMPLETE — 111/111; Pass 3 ACTIVE — 33/111 through scan 255 / printed 238** |
+| 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **SOURCE INTAKE + Pass 1 + Pass 2A + Pass 2B COMPLETE — 111/111; Pass 3 ACTIVE — 44/111 through scan 266 / printed 249** |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
 | 006 | 556–666 | 1–111 | not yet inspected | not-started |
@@ -246,8 +246,9 @@ Part 003 Pass 3 verified frontier:
 - Batch 1: **223–233 / printed 206–216 — COMPLETE 11/11**; structural/visual-description correction on **223** only; scans **224–233** no structural change; **233→234 genuine continuation** reconfirmed from scan 234 witness;
 - Batch 2: **234–244 / printed 217–227 — COMPLETE 11/11**; **0 structural corrections**; scans **234–244** all no-change; **244→245 CLEAN** reconfirmed from scan 245 witness;
 - Batch 3: **245–255 / printed 228–238 — COMPLETE 11/11**; **0 structural corrections**; scans **245–255** all no-change; **255→256 CLEAN** reconfirmed from scan 256 witness;
-- cumulative Pass-3 coverage: **33/111 through scan 255 / printed 238 — ACTIVE**;
-- lexical body-text changes during Pass 3 through Batch 3: **0**;
+- Batch 4: **256–266 / printed 239–249 — COMPLETE 11/11**; structural/visual-description correction on **260** only; scans **256–259, 261–266** no structural change; **266→267 genuine continuation** reconfirmed from scan 267 witness;
+- cumulative Pass-3 coverage: **44/111 through scan 266 / printed 249 — ACTIVE**;
+- lexical body-text changes during Pass 3 through Batch 4: **0**;
 - all Part 003 records remain `needs-review` / `visual_fidelity: needs-review`.
 
 ## Additional physical notes
@@ -287,7 +288,7 @@ Part 003 Pass 3 verified frontier:
 - **252→253** genuine continuation, independently reconfirmed during Part 003 Pass-2B Batch 3;
 - **255→256** clean, independently reconfirmed during Part 003 Pass-3 Batch 3; scan 256 begins a new illustrated vignette;
 - **262→263** genuine continuation, independently reconfirmed during Part 003 Pass-2B Batch 4;
-- **266→267** genuine continuation;
+- **266→267** genuine continuation, independently reconfirmed during Part 003 Pass-3 Batch 4;
 - **272→273** genuine continuation, independently reconfirmed during Part 003 Pass-2B Batch 5;
 - **277→278** clean; scan 278 begins a new illustrated vignette;
 - **282→283** genuine continuation, independently reconfirmed during Part 003 Pass-2B Batch 6;
@@ -341,7 +342,7 @@ Part 003:
 - Pass 1 — **COMPLETE, 111/111 captured through scan 333 / printed 316**;
 - Pass 2A — **COMPLETE, 111/111 verified through scan 333 / printed 316**;
 - Pass 2B — **COMPLETE, 111/111 independently re-read through scan 333 / printed 316**;
-- Pass 3 — **ACTIVE, 33/111 through scan 255 / printed 238**;
+- Pass 3 — **ACTIVE, 44/111 through scan 266 / printed 249**;
 - Part audit — not-started;
 - Tamil archival-ready — not-started;
 - English — blocked until Tamil closure.
@@ -352,6 +353,6 @@ Part 003:
 
 **Part 002: Tamil + English CLOSED.**
 
-**Part 003: SOURCE INTAKE + PASS 1 + PASS 2A + PASS 2B COMPLETE — 111/111; PASS 3 ACTIVE — 33/111 through scan 255 / printed 238.**
+**Part 003: SOURCE INTAKE + PASS 1 + PASS 2A + PASS 2B COMPLETE — 111/111; PASS 3 ACTIVE — 44/111 through scan 266 / printed 249.**
 
-Exact next activity: **Part 003 Pass 3 / Batch 4 — scans 256–266 / printed 239–249, 11 meaningful visual-text verification scans**, beginning after the confirmed CLEAN **255→256** boundary. Follow `../PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md` as precedent. Verify heading hierarchy, Kural/quotation lineation and block placement, prose/quotation relationships, page furniture, source/non-source visual separation, illustration/text order and relationship, physical-page continuation and source-size legibility. Inspect **scan 267 / printed 250** only as the outgoing continuity/boundary witness when needed. Keep all page records at `needs-review` / `visual_fidelity: needs-review`, update the dedicated Part-003 Pass-3 log and synchronized control documents, and audit the exact changed-file set before advancing. Do not begin the Part audit until Pass 3 is complete 111/111.
+Exact next activity: **Part 003 Pass 3 / Batch 5 — scans 267–277 / printed 250–260, 11 meaningful visual-text verification scans**, beginning inside the confirmed genuine **266→267** continuation. Follow `../PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md` as precedent. Verify heading hierarchy, Kural/quotation lineation and block placement, prose/quotation relationships, page furniture, source/non-source visual separation, illustration/text order and relationship, physical-page continuation and source-size legibility. Inspect **scan 278 / printed 261** only as the outgoing continuity/boundary witness when needed. Keep all page records at `needs-review` / `visual_fidelity: needs-review`, update the dedicated Part-003 Pass-3 log and synchronized control documents, and audit the exact changed-file set before advancing. Do not begin the Part audit until Pass 3 is complete 111/111.
