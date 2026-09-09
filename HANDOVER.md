@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 003 Pass 2A Batch 9 COMPLETE / 99 of 111 through scan 321**: **2026-09-09**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
+Last refreshed for Kuraloviyam **Part 003 Pass 2A COMPLETE / 111 of 111 through scan 333**: **2026-09-09**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
 
 ## Repository
 
@@ -193,7 +193,7 @@ Before Kuraloviyam repository changes, read completely:
 10. `works/kuraloviyam/SOURCE_INTAKE_PART_003.md`
 11. `works/kuraloviyam/PART_003_PASS1_PROGRESS.md`
 12. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md`
-13. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_002.md` as precedent
+13. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_002.md` as Pass-2B precedent
 14. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`
 15. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
 16. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
@@ -243,11 +243,9 @@ Final boundary state: **332→333 genuine continuation**. Scan 333 closes the se
 
 All 111 Part-003 page records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`. Pass 1 is capture/transcription only.
 
-## Part 003 Pass 2A — ACTIVE
+## Part 003 Pass 2A — COMPLETE
 
-Pass 2A is direct textual verification against rendered scans. Keep records at `needs-review` / `visual_fidelity: needs-review` throughout this gate. Pass 2B must not begin until Pass 2A covers all 111 scans.
-
-User directive: **11 physical scans per normal Pass-2A iteration**.
+**111 / 111 scans directly textually verified against rendered source scans — overall scans 223–333 / printed 206–316.**
 
 Completed:
 
@@ -259,26 +257,28 @@ Completed:
 - **Batch 6 — scans 278–288 / printed 261–271 — COMPLETE 11/11**;
 - **Batch 7 — scans 289–299 / printed 272–282 — COMPLETE 11/11**;
 - **Batch 8 — scans 300–310 / printed 283–293 — COMPLETE 11/11**;
-- **Batch 9 — scans 311–321 / printed 294–304 — COMPLETE 11/11**.
+- **Batch 9 — scans 311–321 / printed 294–304 — COMPLETE 11/11**;
+- **Batch 10 — scans 322–332 / printed 305–315 — COMPLETE 11/11**;
+- **final remainder — scan 333 / printed 316 — COMPLETE 1/1**.
 
-Current Pass-2A frontier: **99/111 through scan 321 / printed 304**. The **233→234** genuine continuation, **244→245 CLEAN**, **255→256 CLEAN**, **266→267 genuine continuation**, **277→278 CLEAN**, **288→289 genuine continuation**, **299→300 CLEAN**, **310→311 CLEAN**, and **321→322 CLEAN** boundaries were directly reconfirmed during these batches.
+Batch 10 corrected scans **322, 323, 325, 326, 327, 329, 331 and 332**; scans **324, 328 and 330** required no textual correction. Final scan 333 corrected `ஆர்ப்பாட்டம் செய்வார்கள்`, `எழுதிக் களிக்க`, and `இறுதியான`. The internal **332→333 genuine continuation** is closed; external **333→334 remains deferred** until Part 004 intake.
 
-Batch 9 corrected scans **312, 314, 316, 317, 318, 320 and 321**; scans **311, 313, 315 and 319** required no textual correction. Representative source-specific restorations include `அணைத்தும்`, `தன்னால் முடியாதது`, `வெளிமாடத்திற்கருகே`, and source-printed quotation punctuation around Kurals 1247, 1040, 1188, 474 and 1097. All page records remain `needs-review` / `visual_fidelity: needs-review`.
+All page records remain `needs-review` / `visual_fidelity: needs-review`. Durable log: `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md`.
 
-Durable log: `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md`.
+## Part 003 Pass 2B — NOT STARTED
+
+Pass 2B is an independent lexical-fidelity re-read against freshly rendered scans. Follow `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_002.md` as precedent. Re-read every source-visible word with special attention to `ர/ற`, `ன/ண`, `ல/ள/ழ`, vowel signs, compound letters, source-visible joining/spacing, old/uncommon forms, names, quotations, Kural wording/lineation, punctuation and printed metadata. Do not use OCR guesswork, normalization, standard/web wording, context reconstruction or memory.
 
 # Exact next activity — குறளோவியம்
 
 1. fetch live `main`;
 2. complete the Kuraloviyam mandatory startup reading above;
 3. resolve the supplied Part 003 PDF;
-4. process **Part 003 Pass 2A / Batch 10 — scans 322–332 / printed 305–315, 11 physical scans**;
-5. begin after the confirmed clean **321→322** boundary;
-6. fetch current page records `0322`–`0332` before comparison;
-7. compare every source-visible word, punctuation mark, paragraph/quotation boundary, Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata directly against rendered scans;
-8. make only source-supported corrections and preserve non-body/page-furniture separation;
-9. inspect scan **333 / printed 316** only as a continuity/boundary witness when necessary; preserve the known **332→333 genuine continuation**;
-10. update `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md` for every correction/no-change result;
-11. keep all records at `needs-review` / `visual_fidelity: needs-review`;
-12. audit the exact changed-file set before advancing;
-13. do not start Pass 2B until Part 003 Pass 2A is complete 111/111; English remains blocked until Tamil closure.
+4. process **Part 003 Pass 2B / Batch 1 — scans 223–232 / printed 206–215, 10 physical scans**;
+5. fetch current page records `0223`–`0232` before comparison;
+6. independently re-read every source-visible printed word, punctuation mark, paragraph/quotation boundary, Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata against freshly rendered scans;
+7. make only direct source-supported corrections;
+8. create/update `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md` following the Part-002 precedent;
+9. keep all records at `needs-review` / `visual_fidelity: needs-review`;
+10. audit the exact changed-file set before advancing;
+11. do not start Pass 3 until Part 003 Pass 2B is complete 111/111; English remains blocked until Tamil closure.
