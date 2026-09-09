@@ -23,10 +23,11 @@ Read completely before changing anything:
 11. `works/kuraloviyam/PART_003_PASS1_PROGRESS.md`
 12. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md`
 13. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md`
-14. `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md` as Pass-3 precedent
-15. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`
-16. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
-17. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
+14. `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`
+15. `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md` as Pass-3 precedent
+16. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`
+17. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
+18. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
 
 ## Durable state
 
@@ -37,7 +38,7 @@ Read completely before changing anything:
 - Part 003 Pass 1: **COMPLETE — 111/111, scans 223–333 / printed 206–316**.
 - Part 003 Pass 2A: **COMPLETE — 111/111, scans 223–333 / printed 206–316**.
 - Part 003 Pass 2B: **COMPLETE — 111/111 independently re-read through scan 333 / printed 316**.
-- Part 003 Pass 3: **NOT STARTED**.
+- Part 003 Pass 3: **ACTIVE — 11/111 through scan 233 / printed 216**.
 - Part 003 audit and Tamil archival-ready: **not-started**.
 - English remains **blocked until Tamil closure**.
 
@@ -76,7 +77,7 @@ Durable cumulative record: `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.m
 
 ## Pass 3 rule
 
-Pass 3 is **meaningful visual-text verification**, not another lexical reread. Follow `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md` as precedent.
+Pass 3 is **meaningful visual-text verification**, not another lexical reread. Follow `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md` as precedent. User-directed cadence is **11 physical scans per iteration**.
 
 For each scan verify source-supported visual organization, including:
 
@@ -90,19 +91,31 @@ For each scan verify source-supported visual organization, including:
 
 Exact font, colour and artwork recreation are not required. Rewrite a page record only when a directly source-supported structural correction is required. Do not mechanically rewrite no-change records. Pass 3 does **not** authorize final `verified` status.
 
-## Exact next activity — Part 003 Pass 3 / Batch 1
+## Pass 3 Batch 1 — COMPLETE
 
-Process **scans 223–232 / printed 206–215 — 10 physical scans** in one meaningful visual-text verification iteration.
+**Scans 223–233 / printed 206–216 — 11/11.**
+
+- scan **223**: corrected only the structural/visual description. The prior `visual_notes` incorrectly described a snake scene; direct scan inspection shows a large upper illustration with a bearded/bare-chested foreground man gesturing toward a younger man and an onlooking crowd behind, with prose below;
+- scans **224–233**: no structural correction required;
+- lexical body-text changes: **0**;
+- all records remain `needs-review` / `visual_fidelity: needs-review`;
+- scan **234 / printed 217** outgoing witness reconfirms **233→234 genuine continuation**.
+
+Durable Pass-3 record: `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`.
+
+## Exact next activity — Part 003 Pass 3 / Batch 2
+
+Process **scans 234–244 / printed 217–227 — 11 physical scans** in one meaningful visual-text verification iteration, beginning inside the confirmed genuine **233→234** continuation.
 
 Requirements:
 
 1. fetch live `main` first;
-2. resolve the supplied Part 003 PDF and freshly render/inspect scans **223–232** directly;
-3. fetch current page records `0223`–`0232` before comparison;
+2. resolve the supplied Part 003 PDF and freshly render/inspect scans **234–244** directly;
+3. fetch current page records `0234`–`0244` before comparison;
 4. verify heading hierarchy, illustration/text order, Kural/quotation block placement and lineation, prose/quotation relationships, page furniture, non-body marks and physical continuations against the scans;
 5. make only direct source-supported **structural** corrections; do not repeat lexical verification or normalize settled wording;
-6. inspect scan **233 / printed 216** only as the outgoing continuity/boundary witness when needed; known **232→233 is CLEAN**;
-7. create `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md` following the Part-002 precedent and log every structural-correction/no-change result;
+6. inspect scan **245 / printed 228** only as the outgoing continuity/boundary witness when needed;
+7. update `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md` and log every structural-correction/no-change result;
 8. keep all records at `needs-review` / `visual_fidelity: needs-review`;
 9. synchronize README, work/root handovers, page-map and this prompt to the resulting Pass-3 frontier;
 10. audit the exact changed-file set before advancing;
