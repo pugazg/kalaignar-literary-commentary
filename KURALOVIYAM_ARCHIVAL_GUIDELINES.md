@@ -179,14 +179,16 @@ Source intake: **PASS / COMPLETE**.
 - Pass 2A Batch 2: **COMPLETE — scans 234–244 / printed 217–227**;
 - Pass 2A Batch 3: **COMPLETE — scans 245–255 / printed 228–238**;
 - Pass 2A Batch 4: **COMPLETE — scans 256–266 / printed 239–249**;
-- current Pass-2A frontier: **44/111 through scan 266 / printed 249**;
+- Pass 2A Batch 5: **COMPLETE — scans 267–277 / printed 250–260**;
+- current Pass-2A frontier: **55/111 through scan 277 / printed 260**;
 - **233→234 genuine continuation** reconfirmed during Pass 2A;
 - **244→245 clean** reconfirmed from scan 245 boundary witness;
 - **255→256 clean** reconfirmed from scan 256 boundary witness;
 - **266→267 genuine continuation** reconfirmed from scan 267 boundary witness;
+- **277→278 clean** reconfirmed from scan 278 boundary witness;
 - scan 333 closes the final visible Part 003 unit with Chapter 57 / Kural 567;
 - external **333→334** is deferred until Part 004 intake.
 
 ### Exact next content stage
 
-Continue **Part 003 Pass 2A / Batch 5 — scans 267–277 / printed 250–260, 11 physical scans**. Begin with scan 267 as the genuine continuation of the trade/separation vignette from scan 266, inspect scan **278 / printed 261** only as a boundary witness when necessary, preserve the known **277→278 CLEAN** boundary, correct only direct source-supported differences, preserve `needs-review` statuses, update the Pass-2A log, and audit the exact changed-file set before advancing.
+Continue **Part 003 Pass 2A / Batch 6 — scans 278–288 / printed 261–271, 11 physical scans**. Begin after the confirmed clean **277→278** boundary, inspect scan **289 / printed 272** only as a boundary witness when necessary, preserve the known **288→289 genuine continuation**, correct only direct source-supported differences, preserve `needs-review` statuses, update the Pass-2A log, and audit the exact changed-file set before advancing.
