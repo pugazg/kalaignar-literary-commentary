@@ -148,24 +148,36 @@ Source-supported corrections were committed on scans **279, 281, 283, 285 and 28
 
 Source-supported corrections were committed on scans **289, 291, 293, 295, 297 and 299**. Scans **290, 292, 294, 296 and 298** required no textual correction. Scan **300 / printed 283** was inspected only as the outgoing witness and reconfirmed **299→300 CLEAN**.
 
-Representative exact source readings restored in Batch 7 include `உற்றது கூறுவீராக`, `அழைத்துக் கொண்டும்`, `பதித்ததால்`, together with source-printed quotation punctuation around Kurals 347, 350, 1269, 521, 1264, 762 and 1218.
+### Batch 8 — COMPLETE
 
-Current Pass-2A frontier: **77 / 111 scans verified — through scan 299 / printed 282**.
+**Scans 300–310 / printed 283–293 — COMPLETE 11/11.**
+
+Source-supported corrections were committed on scans **300, 303, 308, 309 and 310**. Scans **301, 302, 304, 305, 306 and 307** required no textual correction. Scan **311 / printed 294** was inspected only as the outgoing witness and reconfirmed **310→311 CLEAN**.
+
+### Batch 9 — COMPLETE
+
+**Scans 311–321 / printed 294–304 — COMPLETE 11/11.**
+
+Source-supported corrections were committed on scans **312, 314, 316, 317, 318, 320 and 321**. Scans **311, 313, 315 and 319** required no textual correction. Scan **322 / printed 305** was inspected only as the outgoing witness and reconfirmed **321→322 CLEAN**.
+
+Representative exact source readings restored in Batch 9 include `அணைத்தும்`, `தன்னால் முடியாதது`, `வெளிமாடத்திற்கருகே`, together with source-printed quotation punctuation around Kurals 1247, 1040, 1188, 474 and 1097.
+
+Current Pass-2A frontier: **99 / 111 scans verified — through scan 321 / printed 304**.
 
 Durable Pass-2A log: `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md`.
 
 During Pass 2A, keep records at `status: "needs-review"` / `visual_fidelity: "needs-review"`; final verified statuses require later Pass 2B, Pass 3, audit and final synchronization.
 
-## Exact next activity — Part 003 Pass 2A / Batch 8
+## Exact next activity — Part 003 Pass 2A / Batch 10
 
-Process **overall scans 300–310 / printed 283–293 — 11 scans**.
+Process **overall scans 322–332 / printed 305–315 — 11 scans**.
 
 1. fetch live `main` first;
 2. use the supplied Part 003 controlling PDF and rendered scans directly;
-3. begin after the confirmed clean **299→300** boundary;
+3. begin after the confirmed clean **321→322** boundary;
 4. fetch each existing page record before comparison;
 5. correct only source-supported wording/punctuation/paragraph/Kural/metadata differences;
-6. inspect scan **311 / printed 294** only as a continuity/boundary witness when needed; Pass-1 mapping records **310→311 as CLEAN**;
+6. inspect scan **333 / printed 316** only as a continuity/boundary witness when needed; Pass-1 mapping records **332→333 as a genuine continuation**;
 7. update `PASS2_TEXTUAL_VERIFICATION_PART_003.md` with every correction/no-change result;
 8. keep textual and visual statuses at `needs-review` throughout Pass 2A;
 9. audit the exact changed-file set before advancing.
