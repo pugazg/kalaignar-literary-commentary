@@ -116,7 +116,7 @@ The cross-Part boundary itself is checked only when the adjacent Part source bec
 
 ## 9. Batch discipline
 
-Default source-dependent work may use smaller batches when no user override exists. **Current user directive for Part 003 Pass 1 page-batched work: 11 physical scans per normal iteration**, with a shorter final remainder when necessary.
+Default source-dependent work may use smaller batches when no user override exists. **Current user directive for Part 003 Pass 1 and Pass 2A page-batched work: 11 physical scans per normal iteration**, with a shorter final remainder when necessary.
 
 For every source-dependent batch:
 
@@ -174,11 +174,15 @@ Source intake: **PASS / COMPLETE**.
 - SHA-256: `f07e7cdb3a6e786b0378e00bbe699a241be41c9e099c004a4faa90fa82b4239f`;
 - source text layer: no usable parsed text;
 - **222→223: clean boundary** — Part 003 begins a new `பேதைமை` vignette;
-- Pass 1: **11/111 captured — scans 223–233 / printed 206–216**;
-- **233→234 is a genuine continuation**, confirmed by inspecting scan 234 as a boundary witness;
+- Pass 1: **COMPLETE — 111/111 captured, scans 223–333 / printed 206–316**;
+- Pass 2A Batch 1: **COMPLETE — scans 223–233 / printed 206–216**;
+- Pass 2A Batch 2: **COMPLETE — scans 234–244 / printed 217–227**;
+- current Pass-2A frontier: **22/111 through scan 244 / printed 227**;
+- **233→234 genuine continuation** reconfirmed during Pass 2A;
+- **244→245 clean** reconfirmed from scan 245 boundary witness;
 - scan 333 closes the final visible Part 003 unit with Chapter 57 / Kural 567;
 - external **333→334** is deferred until Part 004 intake.
 
 ### Exact next content stage
 
-Continue **Part 003 Pass 1 / P3-02 — scans 234–244 / printed 217–227, 11 physical scans**. Begin by preserving the genuine 233→234 continuation, keep all new records at Pass-1 statuses, inspect scan 245 only as a boundary witness when necessary, and audit the exact changed-file set before advancing.
+Continue **Part 003 Pass 2A / Batch 3 — scans 245–255 / printed 228–238, 11 physical scans**. Begin after the confirmed clean **244→245** boundary, inspect scan **256 / printed 239** only as a boundary witness when necessary, correct only direct source-supported differences, preserve `needs-review` statuses, update the Pass-2A log, and audit the exact changed-file set before advancing.
