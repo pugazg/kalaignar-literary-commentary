@@ -159,10 +159,50 @@ Batch 6 correction summary: **5 records corrected; scans 278, 280, 282, 284, 286
 
 Batch 7 correction summary: **6 records corrected; scans 290, 292, 294, 296 and 298 required no textual change**.
 
-Current Part 003 Pass 2A frontier: **77 / 111 scans verified — overall scans 223–299 / printed 206–282**.
+## Batch 8 — overall scans 300–310 / printed pages 283–293
+
+**Status: COMPLETE — 11 / 11 scans.** Incoming **299→300 CLEAN** boundary preserved. Scan **311 / printed 294** was inspected only as the outgoing witness and directly reconfirms **310→311 CLEAN**.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 300 | 283 | restored the source inner opening quotation before `அந்த இருவருமே உண்டு!`; corrected `என்பதை காட்டுகிறேன்` → `என்பதைக் காட்டுகிறேன்`; genuine continuation into 301 confirmed |
+| 301 | 284 | direct textual comparison complete; no correction required; genuine continuation into 302 confirmed |
+| 302 | 285 | direct textual comparison complete; no correction required; Chapter 62 / Kural 617 confirmed |
+| 303 | 286 | corrected `அதிகம் செலுத்தத் தொடங்கிய` → `ஆதிக்கம் செலுத்தத் தொடங்கிய`; genuine continuation into 304 confirmed |
+| 304 | 287 | direct textual comparison complete; no correction required; Chapter 126 / Kurals 1256, 1260, 1257 confirmed |
+| 305 | 288 | direct textual comparison complete; no correction required; genuine continuation into 306 confirmed |
+| 306 | 289 | direct textual comparison complete; no correction required; Chapter 20 / Kural 191 confirmed |
+| 307 | 290 | direct textual comparison complete; no correction required; genuine continuation into 308 confirmed |
+| 308 | 291 | corrected `கதிரடித்துப் போட்டி இருந்த` → `கதிரடித்துப் போட்டிருந்த`; Chapter 130 / Kural 1300 confirmed |
+| 309 | 292 | corrected `ஆருந்தரப்பினரான` → `ஆளுந்தரப்பினரான` and `கை கட்டிவிட்டனர்` → `கதை கட்டிவிட்டனர்`; genuine continuation into 310 confirmed |
+| 310 | 293 | corrected `நிறைவு செய்து` → `நிறைவுசெய்து`; Chapters 60 and 63 / Kurals 594 and 624 confirmed; scan 311 witness reconfirmed **310→311 CLEAN** |
+
+Batch 8 correction summary: **5 records corrected; scans 301, 302, 304, 305, 306 and 307 required no textual change**.
+
+## Batch 9 — overall scans 311–321 / printed pages 294–304
+
+**Status: COMPLETE — 11 / 11 scans.** Incoming **310→311 CLEAN** boundary preserved. Scan **322 / printed 305** was inspected only as the outgoing witness and directly reconfirms **321→322 CLEAN**.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 311 | 294 | direct textual comparison complete; no correction required; genuine continuation into 312 confirmed |
+| 312 | 295 | body wording matched; restored source quotation punctuation around Kural 1247; Chapter 125 / Kural 1247 confirmed |
+| 313 | 296 | direct textual comparison complete; no correction required; genuine continuation into 314 confirmed |
+| 314 | 297 | body wording matched; restored source quotation punctuation around Kural 1040; Chapter 104 / Kural 1040 confirmed |
+| 315 | 298 | direct textual comparison complete; no correction required; genuine continuation into 316 confirmed |
+| 316 | 299 | corrected `அனைத்தும்` → `அணைத்தும்`; restored source quotation punctuation around Kural 1188; Chapter 119 / Kural 1188 confirmed |
+| 317 | 300 | corrected `தன் வாள் முடியாது` → `தன்னால் முடியாதது`; genuine continuation into 318 confirmed |
+| 318 | 301 | body wording matched; restored source quotation punctuation around Kural 474; Chapter 48 / Kural 474 confirmed |
+| 319 | 302 | direct textual comparison complete; no correction required; genuine continuation into 320 confirmed |
+| 320 | 303 | corrected `வெளிமாடத்திற்குருகே` → `வெளிமாடத்திற்கருகே`; genuine continuation into 321 confirmed |
+| 321 | 304 | body wording matched; restored source quotation punctuation around Kural 1097; Chapter 110 / Kural 1097 confirmed; scan 322 witness reconfirmed **321→322 CLEAN** |
+
+Batch 9 correction summary: **7 records corrected; scans 311, 313, 315 and 319 required no textual change**.
+
+Current Part 003 Pass 2A frontier: **99 / 111 scans verified — overall scans 223–321 / printed 206–304**.
 
 ## Next batch
 
-**Batch 8 — scans 300–310 / printed 283–293 — 11 scans.** Begin after the confirmed clean **299→300** boundary. Inspect scan **311 / printed 294** only as a continuity/boundary witness when needed; Pass-1 mapping records **310→311 as CLEAN**. Keep all records at `needs-review` / `visual_fidelity: needs-review`.
+**Batch 10 — scans 322–332 / printed 305–315 — 11 scans.** Begin after the confirmed clean **321→322** boundary. Inspect scan **333 / printed 316** only as a continuity/boundary witness when needed; Pass-1 mapping records **332→333 as a genuine continuation**. Keep all records at `needs-review` / `visual_fidelity: needs-review`.
 
 External **333→334** remains deferred until Part 004 source intake.
