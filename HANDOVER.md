@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 003 Pass 1 through P3-10 / scan 332**: **2026-09-09**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
+Last refreshed for Kuraloviyam **Part 003 Pass 1 COMPLETE 111/111 / scan 333**: **2026-09-09**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
 
 ## Repository
 
@@ -192,9 +192,10 @@ Before Kuraloviyam repository changes, read completely:
 9. `works/kuraloviyam/indexes/page-map.md`
 10. `works/kuraloviyam/SOURCE_INTAKE_PART_003.md`
 11. `works/kuraloviyam/PART_003_PASS1_PROGRESS.md`
-12. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`
-13. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
-14. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
+12. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_002.md` as Pass-2A precedent
+13. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`
+14. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
+15. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
 
 Then inspect the actual supplied scan images before writing.
 
@@ -233,11 +234,11 @@ Confirmed identity:
 
 Source intake: **PASS / COMPLETE**.
 
-## Part 003 Pass 1 — ACTIVE
+## Part 003 Pass 1 — COMPLETE
 
-Current capture state: **110 / 111 scans — overall scans 223–332 / printed 206–315**.
+**111 / 111 scans captured — overall scans 223–333 / printed 206–316.**
 
-Completed batches:
+Completed capture:
 
 - **P3-01 scans 223–233 / printed 206–216 — COMPLETE**;
 - **P3-02 scans 234–244 / printed 217–227 — COMPLETE**;
@@ -248,51 +249,28 @@ Completed batches:
 - **P3-07 scans 289–299 / printed 272–282 — COMPLETE**;
 - **P3-08 scans 300–310 / printed 283–293 — COMPLETE**;
 - **P3-09 scans 311–321 / printed 294–304 — COMPLETE**;
-- **P3-10 scans 322–332 / printed 305–315 — COMPLETE**.
+- **P3-10 scans 322–332 / printed 305–315 — COMPLETE**;
+- **final remainder scan 333 / printed 316 — COMPLETE**.
 
-Current internal boundaries:
+Final boundary state: **332→333 genuine continuation**. Scan 333 closes the severe-rule / famine unit with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567. External **333→334 remains deferred** until Part 004 intake.
 
-- **233→234 genuine continuation**;
-- **244→245 clean**;
-- **255→256 clean**;
-- **266→267 genuine continuation**;
-- **277→278 clean**;
-- **288→289 genuine continuation**;
-- **299→300 clean**;
-- **310→311 clean**;
-- **321→322 clean**;
-- **323→324 clean**;
-- **325→326 clean**;
-- **327→328 clean**;
-- **329→330 clean**;
-- **331→332 clean**;
-- **332→333 genuine continuation**.
+All 111 Part-003 page records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`. Pass 1 is capture/transcription only; source verification begins with Pass 2A.
 
-All Part-003 Pass-1 records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`. Pass 1 is capture/transcription only; do not claim source verification.
+## Part 003 Pass 2A — NEXT
 
-P3-10 source units:
-
-- scans **322–323** — classroom / `வலியறிதல்`; Chapter 48 / Kurals 479, 473;
-- scans **324–325** — Iraaman / Annam-Amudham chastity; Chapter 6 / Kural 57;
-- scans **326–327** — Ezhini / Iniyan “Yama” love; Chapter 109 / Kural 1083;
-- scans **328–329** — solitary-beauty / unused-wealth analogy; Chapter 101 / Kural 1007;
-- scans **330–331** — burden / moral-faults / `அழுக்காறு`; Chapter 4 / Kural 35;
-- scan **332** — severe-rule / famine vignette begins and continues directly to scan 333.
-
-Scan **333 / printed 316** has been inspected only as the P3-10 outgoing boundary witness. It continues scan 332 and closes the same unit with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567. The external **333→334** boundary remains deferred until Part 004 intake; do not infer it.
+Pass 2A is direct textual verification against rendered scans. Keep records at `needs-review` / `visual_fidelity: needs-review` throughout this gate. Pass 2B must not begin until Pass 2A covers all 111 scans.
 
 # Exact next activity — குறளோவியம்
 
 1. fetch live `main`;
 2. complete the Kuraloviyam mandatory startup reading above;
 3. resolve the supplied Part 003 PDF;
-4. process the **final Part 003 Pass-1 remainder — scan 333 / printed 316, one physical page**;
-5. begin scan 333 as the direct continuation of the severe-rule / famine vignette begun on scan 332;
-6. create exactly `works/kuraloviyam/pages/0333-kuraloviyam-316.md`;
-7. preserve exact visible source wording, punctuation, dialogue, Kural block and Chapter 57 / Kural 567 metadata;
-8. keep the new record at `needs-review` / `visual_fidelity: needs-review` unless a genuine source limitation requires otherwise;
-9. do not normalize, modernize, import standard/web Kural wording, use another edition, or guess from OCR/memory;
-10. do not infer **333→334** before Part 004 is supplied;
-11. synchronize Kuraloviyam progress/frontier documents and audit the exact changed-file set;
-12. mark Part 003 Pass 1 **COMPLETE 111/111** only after scan 333 exists;
-13. advance only to the next authorized Tamil archival gate; English remains blocked until Tamil closure.
+4. begin **Part 003 Pass 2A / Batch 1 — scans 223–232 / printed 206–215, 10 physical scans**;
+5. fetch current page records `0223`–`0232` before comparison;
+6. compare every source-visible word, punctuation mark, paragraph/quotation boundary, Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata directly against rendered scans;
+7. make only source-supported corrections and preserve non-body/page-furniture separation;
+8. inspect scan **233 / printed 216** only as a continuity witness when necessary;
+9. create/update `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md` for the batch log;
+10. keep all records at `needs-review` / `visual_fidelity: needs-review`;
+11. audit the exact changed-file set before advancing;
+12. do not start Pass 2B until Part 003 Pass 2A is complete 111/111; English remains blocked until Tamil closure.
