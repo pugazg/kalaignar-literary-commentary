@@ -38,10 +38,29 @@ Pass-2B cadence follows the Part-002 precedent: **10 physical scans per normal b
 
 Batch 1 corrections were therefore required on scans **223 and 226**. Scans **224, 225, 227, 228, 229, 230, 231 and 232** required no new Pass-2B correction.
 
-Current Part 003 Pass-2B frontier: **10 / 111 scans independently re-read — through scan 232 / printed 215**.
+## Batch 2 — overall scans 233–242 / printed pages 216–225
+
+**Status: COMPLETE — 10 / 10 scans independently re-read against freshly rendered source pages for Pass 2B.** Incoming **232→233 CLEAN** boundary preserved. Scan **243 / printed 226** was inspected only as the outgoing witness and confirms **242→243 CLEAN**; scan 243 begins a new agriculture/family vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 233 | 216 | independent word-level re-read complete across the illustrated festival / green-sari opening and continuation into 234; no new correction required |
+| 234 | 217 | independently confirmed the festival / bangle-seller conclusion, Kural 1171, lineation and Chapter 118 metadata; no new correction required |
+| 235 | 218 | corrected source-visible joining `நடந்து சென்று` → `நடந்துசென்று`; remaining Anbumani/Inbamani opening and continuation into 236 independently confirmed |
+| 236 | 219 | corrected source-visible exclamation `அடே டே..!` → `அடேடே!`; remaining hospitality conclusion, Kural 90, lineation and Chapter 9 metadata independently confirmed |
+| 237 | 220 | independent word-level re-read complete across the moon/beloved comparison opening and genuine continuation into 238; no new correction required |
+| 238 | 221 | independently confirmed the moon/beloved conclusion, Kurals 1117 and 1118, lineation and Chapter 112 metadata; no new correction required |
+| 239 | 222 | independent word-level re-read complete across the drunkard / `கள்ளுண்ணாமை` opening and continuation into 240; no new correction required |
+| 240 | 223 | independently confirmed the drunkard conclusion, Kural 929, lineation, Chapter 93 metadata and the lexical note `களித்தான் - குடிகாரன்`; no new correction required |
+| 241 | 224 | independent word-level re-read complete across the lamp/darkness analogy opening and continuation into 242; no new correction required |
+| 242 | 225 | independently confirmed the lamp/darkness and pallor conclusion, Kural 1186, lineation, Chapter 119 metadata and lexical notes; no new correction required; scan 243 witness confirms **242→243 CLEAN** |
+
+Batch 2 corrections were therefore required on scans **235 and 236**. Scans **233, 234, 237, 238, 239, 240, 241 and 242** required no new Pass-2B correction.
+
+Current Part 003 Pass-2B frontier: **20 / 111 scans independently re-read — through scan 242 / printed 225**.
 
 ## Next batch
 
-**Batch 2 — scans 233–242 / printed 216–225 — 10 scans.** Begin after the confirmed clean **232→233** boundary. Use freshly rendered source scans, re-read independently at word/character level, preserve source punctuation/quotation/Kural lineation and metadata, and keep all records at `needs-review` / `visual_fidelity: needs-review`.
+**Batch 3 — scans 243–252 / printed 226–235 — 10 scans.** Begin after the confirmed clean **242→243** boundary. Use freshly rendered source scans, re-read independently at word/character level, preserve source punctuation/quotation/Kural lineation and metadata, and keep all records at `needs-review` / `visual_fidelity: needs-review`.
 
 External **333→334** remains deferred until Part 004 source intake.
