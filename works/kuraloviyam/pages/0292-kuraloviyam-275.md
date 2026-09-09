@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Large upper illustration shows two male friends conversing; prose begins a playful altered-Kural / friendship vignette and continues directly to scan 293"
+visual_notes: "Large upper illustration shows two male friends conversing; prose begins a playful altered-Kural / friendship vignette, with the altered three-line Kural displayed as a distinct set-out block before the prose continues directly to scan 293"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -20,9 +20,9 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 என்ன குறள் என்று உற்றுக் கவனித்தேன்.
 
-“பற்றற்ற கண்ணும்
-பகைமை பாராட்டுதல்
-சுற்றத்தார் கண்ணேயுள”
+> “பற்றற்ற கண்ணும்  
+> பகைமை பாராட்டுதல்  
+> சுற்றத்தார் கண்ணேயுள”
 
 என்று, குறளை மாற்றிச் சொல்லிக் கொண்டிருந்தான்.
 
