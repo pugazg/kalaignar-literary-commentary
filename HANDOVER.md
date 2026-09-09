@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 003 Pass 1 through P3-09 / scan 321**: **2026-09-09**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
+Last refreshed for Kuraloviyam **Part 003 Pass 1 through P3-10 / scan 332**: **2026-09-09**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
 
 ## Repository
 
@@ -235,9 +235,7 @@ Source intake: **PASS / COMPLETE**.
 
 ## Part 003 Pass 1 — ACTIVE
 
-User-directed normal iteration size: **11 physical scans**.
-
-Current capture state: **99 / 111 scans — overall scans 223–321 / printed 206–304**.
+Current capture state: **110 / 111 scans — overall scans 223–332 / printed 206–315**.
 
 Completed batches:
 
@@ -249,7 +247,8 @@ Completed batches:
 - **P3-06 scans 278–288 / printed 261–271 — COMPLETE**;
 - **P3-07 scans 289–299 / printed 272–282 — COMPLETE**;
 - **P3-08 scans 300–310 / printed 283–293 — COMPLETE**;
-- **P3-09 scans 311–321 / printed 294–304 — COMPLETE**.
+- **P3-09 scans 311–321 / printed 294–304 — COMPLETE**;
+- **P3-10 scans 322–332 / printed 305–315 — COMPLETE**.
 
 Current internal boundaries:
 
@@ -261,35 +260,39 @@ Current internal boundaries:
 - **288→289 genuine continuation**;
 - **299→300 clean**;
 - **310→311 clean**;
-- **321→322 clean**.
+- **321→322 clean**;
+- **323→324 clean**;
+- **325→326 clean**;
+- **327→328 clean**;
+- **329→330 clean**;
+- **331→332 clean**;
+- **332→333 genuine continuation**.
 
 All Part-003 Pass-1 records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`. Pass 1 is capture/transcription only; do not claim source verification.
 
-P3-09 source units:
+P3-10 source units:
 
-- scans **311–312** — love-separation / letter-and-shame; Chapter 125 / Kural 1247;
-- scans **313–314** — Kaarmegam / land, labour and idleness; Chapter 104 / Kural 1040;
-- scans **315–316** — Seyizhai / pallor-and-separation; Chapter 119 / Kural 1188;
-- scans **317–318** — boastful climber / knowing one's strength; Chapter 48 / Kural 474;
-- scans **319–321** — lovers' quarrel / interpreting-signs; Chapter 110 / Kural 1097.
+- scans **322–323** — classroom / `வலியறிதல்`; Chapter 48 / Kurals 479, 473;
+- scans **324–325** — Iraaman / Annam-Amudham chastity; Chapter 6 / Kural 57;
+- scans **326–327** — Ezhini / Iniyan “Yama” love; Chapter 109 / Kural 1083;
+- scans **328–329** — solitary-beauty / unused-wealth analogy; Chapter 101 / Kural 1007;
+- scans **330–331** — burden / moral-faults / `அழுக்காறு`; Chapter 4 / Kural 35;
+- scan **332** — severe-rule / famine vignette begins and continues directly to scan 333.
 
-Scan 318 carries a lower-margin blue library stamp excluded from body text. Scan 321 preserves printed `குறிப்பறிதல்`, Kural 1097, and its printed word glosses.
-
-Scans **332–333 / printed 315–316** form the final visible Part 003 unit, so **332→333 is a genuine continuation** into the final one-scan remainder. The external **333→334** boundary remains deferred until Part 004 intake; do not infer it.
+Scan **333 / printed 316** has been inspected only as the P3-10 outgoing boundary witness. It continues scan 332 and closes the same unit with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567. The external **333→334** boundary remains deferred until Part 004 intake; do not infer it.
 
 # Exact next activity — குறளோவியம்
 
 1. fetch live `main`;
 2. complete the Kuraloviyam mandatory startup reading above;
 3. resolve the supplied Part 003 PDF;
-4. process **P3-10 — overall scans 322–332 / printed 305–315, 11 physical pages**;
-5. begin scan **322 / printed 305** as the new illustrated classroom / `வலியறிதல்` vignette confirmed by the P3-09 outgoing boundary witness;
-6. create page-aligned Tamil records only for scans 322–332;
-7. preserve exact visible source wording, punctuation, paragraph/dialogue structure, Kural blocks, printed metadata and illustration/text relationships;
-8. keep new records at `needs-review` / `visual_fidelity: needs-review` unless a genuine source limitation requires otherwise;
+4. process the **final Part 003 Pass-1 remainder — scan 333 / printed 316, one physical page**;
+5. begin scan 333 as the direct continuation of the severe-rule / famine vignette begun on scan 332;
+6. create exactly `works/kuraloviyam/pages/0333-kuraloviyam-316.md`;
+7. preserve exact visible source wording, punctuation, dialogue, Kural block and Chapter 57 / Kural 567 metadata;
+8. keep the new record at `needs-review` / `visual_fidelity: needs-review` unless a genuine source limitation requires otherwise;
 9. do not normalize, modernize, import standard/web Kural wording, use another edition, or guess from OCR/memory;
-10. inspect scan **333 / printed 316** only as the outgoing boundary witness; do not create scan 333 during P3-10 because it belongs to the final one-scan remainder;
-11. preserve the genuine **332→333** continuation;
-12. synchronize Kuraloviyam progress/frontier documents and audit the exact changed-file set before advancing.
-
-Next after successful P3-10: **final remainder — scan 333 / printed 316**.
+10. do not infer **333→334** before Part 004 is supplied;
+11. synchronize Kuraloviyam progress/frontier documents and audit the exact changed-file set;
+12. mark Part 003 Pass 1 **COMPLETE 111/111** only after scan 333 exists;
+13. advance only to the next authorized Tamil archival gate; English remains blocked until Tamil closure.
