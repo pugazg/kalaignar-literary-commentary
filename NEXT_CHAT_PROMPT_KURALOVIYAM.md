@@ -36,7 +36,7 @@ Read completely before changing anything:
 - Part 003 source intake: **PASS / COMPLETE**.
 - Part 003 Pass 1: **COMPLETE — scans 223–333 / 111 of 111 captured**.
 - Part 003 Pass 2A: **COMPLETE — scans 223–333 / 111 of 111 directly verified**.
-- Part 003 Pass 2B: **ACTIVE — 50/111 independently re-read through scan 272 / printed 255**.
+- Part 003 Pass 2B: **ACTIVE — 60/111 independently re-read through scan 282 / printed 265**.
 - Part 003 Pass 3, audit and Tamil archival-ready: **not-started**.
 - English remains **blocked until Tamil closure**.
 
@@ -111,22 +111,30 @@ Normal Pass-2B cadence: **10 physical scans per batch**, with a shorter final re
 
 Scans **263, 265, 266, 267, 268, 269, 270, 271 and 272** required no new Pass-2B correction. Scan **273 / printed 256** was inspected only as the outgoing witness and reconfirms **272→273 genuine continuation**.
 
+## Pass 2B Batch 6 — COMPLETE
+
+**Scans 273–282 / printed 256–265 — COMPLETE 10/10.** New Pass-2B correction:
+
+- scan **281** — `புகழைப் போன்றதாம்` → `புகுவதைப் போன்றதாம்`.
+
+Scans **273, 274, 275, 276, 277, 278, 279, 280 and 282** required no new Pass-2B correction. Scan **283 / printed 266** was inspected only as the outgoing witness and reconfirms **282→283 genuine continuation**.
+
 Durable Pass-2B record: `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md`.
 
-## Exact next activity — Part 003 Pass 2B / Batch 6
+## Exact next activity — Part 003 Pass 2B / Batch 7
 
-Process **scans 273–282 / printed 256–265 — 10 physical scans** in one independent lexical-fidelity iteration.
+Process **scans 283–292 / printed 266–275 — 10 physical scans** in one independent lexical-fidelity iteration.
 
 Requirements:
 
 1. fetch live `main` first;
-2. resolve the supplied Part 003 PDF and freshly render/inspect scans **273–282** directly;
-3. begin inside confirmed **272→273 genuine continuation**;
-4. fetch current page records `0273`–`0282` before comparison;
+2. resolve the supplied Part 003 PDF and freshly render/inspect scans **283–292** directly;
+3. begin inside confirmed **282→283 genuine continuation**;
+4. fetch current page records `0283`–`0292` before comparison;
 5. independently re-read every source-visible word and punctuation mark using the Pass-2B rules above;
 6. independently reconfirm Kural text/lineation, paragraph/quotation boundaries and printed metadata;
 7. make only direct source-supported corrections;
-8. inspect scan **283 / printed 266** only as the outgoing boundary witness if needed;
+8. inspect scan **293 / printed 276** only as the outgoing boundary witness if needed;
 9. update `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md` and log every correction/no-change result;
 10. keep all records at `needs-review` / `visual_fidelity: needs-review`;
 11. audit the exact changed-file set before advancing;
