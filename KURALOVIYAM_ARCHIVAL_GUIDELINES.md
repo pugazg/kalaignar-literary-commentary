@@ -180,15 +180,17 @@ Source intake: **PASS / COMPLETE**.
 - Pass 2A Batch 3: **COMPLETE — scans 245–255 / printed 228–238**;
 - Pass 2A Batch 4: **COMPLETE — scans 256–266 / printed 239–249**;
 - Pass 2A Batch 5: **COMPLETE — scans 267–277 / printed 250–260**;
-- current Pass-2A frontier: **55/111 through scan 277 / printed 260**;
+- Pass 2A Batch 6: **COMPLETE — scans 278–288 / printed 261–271**;
+- current Pass-2A frontier: **66/111 through scan 288 / printed 271**;
 - **233→234 genuine continuation** reconfirmed during Pass 2A;
 - **244→245 clean** reconfirmed from scan 245 boundary witness;
 - **255→256 clean** reconfirmed from scan 256 boundary witness;
 - **266→267 genuine continuation** reconfirmed from scan 267 boundary witness;
 - **277→278 clean** reconfirmed from scan 278 boundary witness;
+- **288→289 genuine continuation** reconfirmed from scan 289 boundary witness;
 - scan 333 closes the final visible Part 003 unit with Chapter 57 / Kural 567;
 - external **333→334** is deferred until Part 004 intake.
 
 ### Exact next content stage
 
-Continue **Part 003 Pass 2A / Batch 6 — scans 278–288 / printed 261–271, 11 physical scans**. Begin after the confirmed clean **277→278** boundary, inspect scan **289 / printed 272** only as a boundary witness when necessary, preserve the known **288→289 genuine continuation**, correct only direct source-supported differences, preserve `needs-review` statuses, update the Pass-2A log, and audit the exact changed-file set before advancing.
+Continue **Part 003 Pass 2A / Batch 7 — scans 289–299 / printed 272–282, 11 physical scans**. Begin with scan 289 as the genuine continuation of the Valluvar / renunciation vignette from scan 288, inspect scan **300 / printed 283** only as a boundary witness when necessary, preserve the known **299→300 CLEAN** boundary, correct only direct source-supported differences, preserve `needs-review` statuses, update the Pass-2A log, and audit the exact changed-file set before advancing.
