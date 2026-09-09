@@ -24,10 +24,11 @@ Read before changing anything:
 10. `works/kuraloviyam/SOURCE_INTAKE_PART_003.md`
 11. `works/kuraloviyam/PART_003_PASS1_PROGRESS.md`
 12. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md`
-13. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_002.md` as Pass-2B precedent
-14. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`
-15. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
-16. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
+13. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md`
+14. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_002.md` as Pass-2B precedent
+15. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`
+16. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
+17. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
 
 ## Durable closed state
 
@@ -63,6 +64,7 @@ Incoming **222→223 is clean**: scan 222 closes the pastoral / `ஆயர்க
 
 Part 003 boundaries include:
 
+- **232→233 clean** — reconfirmed during Pass-2B Batch 1;
 - **233→234 genuine continuation**;
 - **244→245 clean**;
 - **255→256 clean**;
@@ -121,28 +123,48 @@ Completed Pass-2A batches:
 - **Batch 10 — scans 322–332 / printed 305–315 — COMPLETE 11/11**;
 - **final remainder — scan 333 / printed 316 — COMPLETE 1/1**.
 
-Batch 10 corrected scans **322, 323, 325, 326, 327, 329, 331 and 332**; scans **324, 328 and 330** required no textual correction. Representative restorations include `மாணாக்கனை யழைத்து`, `செயலால்`, `கேட்டினைத்தான்`, `கள்ளங் கபடமில்லாமல்`, `இலவு`, `என் ஆவலைத் தூண்டுகிறாய்`, `தன்னேரில்லாத`, `காளையொருவன்`, `பட்டொழியும்`, `கிழமானாள்`, `அல்லது ஆசைப்படுவது`, `முழுகிக்`, `அடுத்தவன் வாழ்வதைப் பார்த்து`, and `நான் நிம்மதியாக இருப்பதே உங்களுக்குப் பிடிக்காது!`.
-
-Final scan **333** corrected `ஆர்ப்பாட்டம் செய்கிறார்கள்` → `ஆர்ப்பாட்டம் செய்வார்கள்`, `எழுதி களிக்க` → `எழுதிக் களிக்க`, and `இறுதி யான` → `இறுதியான`; the remainder of the severe-rule/famine conclusion, Kural 567 and Chapter 57 metadata were directly confirmed.
+Batch 10 corrected scans **322, 323, 325, 326, 327, 329, 331 and 332**; scans **324, 328 and 330** required no textual correction. Final scan **333** corrected `ஆர்ப்பாட்டம் செய்கிறார்கள்` → `ஆர்ப்பாட்டம் செய்வார்கள்`, `எழுதி களிக்க` → `எழுதிக் களிக்க`, and `இறுதி யான` → `இறுதியான`; the remainder of the severe-rule/famine conclusion, Kural 567 and Chapter 57 metadata were directly confirmed.
 
 The internal **332→333 genuine continuation** is closed. External **333→334 remains deferred** until Part 004 intake.
 
 Durable Pass-2A log: `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md`.
 
-All Part-003 records intentionally remain `status: "needs-review"` / `visual_fidelity: "needs-review"`; final verified statuses require Pass 2B, Pass 3, audit and final synchronization.
+## Part 003 Pass 2B — ACTIVE
 
-## Exact next activity — Part 003 Pass 2B / Batch 1
+Pass 2B is an independent lexical-fidelity re-read against freshly rendered source scans, following the Part-002 precedent. It independently checks every printed word/character, source-visible joining/spacing, old or uncommon forms, names, quotation punctuation, Kural wording/lineation and printed metadata. No OCR guesswork, normalization, web/standard-edition substitution, context reconstruction or memory may replace the scan.
 
-Process **overall scans 223–232 / printed 206–215 — 10 scans** as an independent lexical-fidelity re-read, following `PASS2B_LEXICAL_FIDELITY_PART_002.md` as precedent.
+User cadence: **10 physical scans per normal Pass-2B batch**, with the final remainder adjusted as necessary.
+
+### Batch 1 — COMPLETE
+
+**Scans 223–232 / printed 206–215 — COMPLETE 10/10.**
+
+New source-supported Pass-2B corrections were committed on scans **223 and 226**:
+
+- scan **223** — `“பேதைமை”` / `“பேதை”` restored to source single-quote form `‘பேதைமை’` / `‘பேதை’`; non-source quote marks removed from `அந்தப் பேதை, பேதைமை`; `கோட்டைக் சுவருக்கு` corrected to source-visible `கோட்டைச் சுவருக்கு`;
+- scan **226** — `நினைப்பவர்போல்` corrected to source-visible `நினைப்பவர்போல`.
+
+Scans **224, 225, 227, 228, 229, 230, 231 and 232** required no new lexical correction. Scan **233 / printed 216** was inspected only as the outgoing witness and reconfirmed **232→233 CLEAN**.
+
+Current Pass-2B frontier: **10 / 111 scans independently re-read — through scan 232 / printed 215**.
+
+Durable Pass-2B log: `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md`.
+
+All Part-003 records intentionally remain `status: "needs-review"` / `visual_fidelity: "needs-review"`; final verified statuses require Pass 2B completion, Pass 3, audit and final synchronization.
+
+## Exact next activity — Part 003 Pass 2B / Batch 2
+
+Process **overall scans 233–242 / printed 216–225 — 10 scans**.
 
 1. fetch live `main` first;
 2. use the supplied Part 003 controlling PDF and freshly rendered scans directly;
-3. fetch current page records for scans **223–232** before comparison;
-4. independently re-read every source-visible printed word, with special attention to `ர/ற`, `ன/ண`, `ல/ள/ழ`, vowel signs, compound letters, joining/spacing, old or uncommon forms, names and quotations;
-5. independently reconfirm Kural wording/lineation, punctuation, paragraph/quotation boundaries and printed `அதிகாரம்` / பாடல் metadata;
-6. make only direct source-supported corrections — no OCR guesswork, normalization, web/standard-edition substitution, context reconstruction or memory;
-7. create/update the Part-003 Pass-2B durable log following the Part-002 precedent;
-8. keep textual and visual statuses at `needs-review` throughout Pass 2B;
-9. audit the exact changed-file set before advancing.
+3. begin after confirmed **232→233 CLEAN**;
+4. fetch current page records for scans **233–242** before comparison;
+5. independently re-read every source-visible printed word, with special attention to `ர/ற`, `ன/ண`, `ல/ள/ழ`, vowel signs, compound letters, joining/spacing, old or uncommon forms, names and quotations;
+6. independently reconfirm Kural wording/lineation, punctuation, paragraph/quotation boundaries and printed `அதிகாரம்` / பாடல் metadata;
+7. make only direct source-supported corrections — no OCR guesswork, normalization, web/standard-edition substitution, context reconstruction or memory;
+8. update `PASS2B_LEXICAL_FIDELITY_PART_003.md` for every correction/no-change result;
+9. keep textual and visual statuses at `needs-review` throughout Pass 2B;
+10. audit the exact changed-file set before advancing.
 
 Do not begin Pass 3 until Pass 2B has covered all 111 Part-003 scans. English remains blocked until Tamil archival closure.
