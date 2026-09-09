@@ -159,25 +159,25 @@ Source units observed:
 
 Important internal boundaries: **323→324 clean; 325→326 clean; 327→328 clean; 329→330 clean; 331→332 clean.**
 
-Important outgoing boundary: **332→333 is a genuine continuation.** Scan **333 / printed 316** was inspected only as the outgoing boundary witness during P3-10. It closes the same severe-rule / famine vignette with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567 and belongs to the final one-scan remainder.
+Important outgoing boundary: **332→333 is a genuine continuation.**
 
-All captured Part 003 Pass-1 records remain:
+## Final remainder — COMPLETE
+
+Scan **333 / printed 316** captured as the **111th and final Part 003 Pass-1 record**. It directly continues the severe-rule / famine vignette begun on scan 332 and closes the unit with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567.
+
+The external **333→334** split boundary remains **DEFERRED** until Part 004 source intake and is not inferred.
+
+## Pass 1 closure
+
+**Part 003 Pass 1: COMPLETE — 111 / 111 physical scans captured, overall scans 223–333 / printed 206–316.**
+
+All Part 003 Pass-1 records remain:
 
 - `status: "needs-review"`
 - `visual_fidelity: "needs-review"`
 
-Pass 1 is physical capture/transcription only and does not make records source-verified.
-
-Current Part 003 Pass-1 capture frontier: **110 / 111 scans — overall scans 223–332 / printed 206–315**.
-
-## Planned remaining Pass 1 iteration
-
-- **Final remainder — NEXT:** scan **333 / printed 316** — 1 scan.
-
-## Part-ending intake witness
-
-Scans **332–333 / printed 315–316** form the final visible Part 003 unit. The **332→333** boundary is a genuine continuation. Scan 333 closes with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567. The external **333→334** split boundary is deferred until Part 004 intake and must not be inferred.
+Pass 1 is physical capture/transcription only and does not make records source-verified. Pass 2A, Pass 2B and Pass 3 remain required before final verification metadata may be assigned.
 
 ## Exact next activity
 
-Complete the **final Part 003 Pass-1 remainder — overall scan 333 / printed 316** as one page-aligned Tamil record under `works/kuraloviyam/pages/`. Begin it as the direct continuation of the severe-rule / famine vignette begun on scan 332 and preserve the source-visible closing Chapter 57 / Kural 567 material. Do not infer the external **333→334** boundary before Part 004 is supplied. Do not normalize, import standard Kural wording, or claim Pass 2/Pass 3 verification.
+Begin **Part 003 Pass 2A — direct textual verification** from scan **223 / printed 206**. Follow the established Part 002 precedent with a first **10-scan batch: scans 223–232 / printed 206–215**; inspect scan 233 only as a continuity witness when necessary. Compare every source-visible word, punctuation mark, paragraph/quotation boundary, Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata directly against the rendered source. Keep page records at `needs-review` / `visual_fidelity: needs-review` during Pass 2A, and create the dedicated Part 003 Pass-2A log when that gate begins.
