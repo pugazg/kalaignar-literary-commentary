@@ -177,12 +177,14 @@ Source intake: **PASS / COMPLETE**.
 - Pass 1: **COMPLETE — 111/111 captured, scans 223–333 / printed 206–316**;
 - Pass 2A Batch 1: **COMPLETE — scans 223–233 / printed 206–216**;
 - Pass 2A Batch 2: **COMPLETE — scans 234–244 / printed 217–227**;
-- current Pass-2A frontier: **22/111 through scan 244 / printed 227**;
+- Pass 2A Batch 3: **COMPLETE — scans 245–255 / printed 228–238**;
+- current Pass-2A frontier: **33/111 through scan 255 / printed 238**;
 - **233→234 genuine continuation** reconfirmed during Pass 2A;
 - **244→245 clean** reconfirmed from scan 245 boundary witness;
+- **255→256 clean** reconfirmed from scan 256 boundary witness;
 - scan 333 closes the final visible Part 003 unit with Chapter 57 / Kural 567;
 - external **333→334** is deferred until Part 004 intake.
 
 ### Exact next content stage
 
-Continue **Part 003 Pass 2A / Batch 3 — scans 245–255 / printed 228–238, 11 physical scans**. Begin after the confirmed clean **244→245** boundary, inspect scan **256 / printed 239** only as a boundary witness when necessary, correct only direct source-supported differences, preserve `needs-review` statuses, update the Pass-2A log, and audit the exact changed-file set before advancing.
+Continue **Part 003 Pass 2A / Batch 4 — scans 256–266 / printed 239–249, 11 physical scans**. Begin after the confirmed clean **255→256** boundary, inspect scan **267 / printed 250** only as a boundary witness when necessary, preserve the known **266→267 genuine continuation**, correct only direct source-supported differences, preserve `needs-review` statuses, update the Pass-2A log, and audit the exact changed-file set before advancing.
