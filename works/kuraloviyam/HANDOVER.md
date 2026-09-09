@@ -69,9 +69,15 @@ Current internal frontier:
 - **288→289 genuine continuation**;
 - **299→300 clean**;
 - **310→311 clean**;
-- **321→322 clean** — scan 321 closes Chapter 110 / Kural 1097; scan 322 begins a new illustrated classroom / `வலியறிதல்` vignette.
+- **321→322 clean**;
+- **323→324 clean**;
+- **325→326 clean**;
+- **327→328 clean**;
+- **329→330 clean**;
+- **331→332 clean**;
+- **332→333 genuine continuation** — scan 332 begins the severe-rule / famine vignette and scan 333 closes it with Chapter 57 / Kural 567.
 
-Scans **332–333 / printed 315–316** form the final visible Part 003 unit, so **332→333 is a genuine continuation** into the final one-scan remainder. Outgoing **333→334 remains deferred** until Part 004 is supplied. Scan 333 closes with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567.
+Outgoing **333→334 remains deferred** until Part 004 is supplied.
 
 ## User-directed Part 003 Pass 1 cadence
 
@@ -87,31 +93,32 @@ Completed:
 - P3-06: **278–288 / printed 261–271 — COMPLETE 11/11**;
 - P3-07: **289–299 / printed 272–282 — COMPLETE 11/11**;
 - P3-08: **300–310 / printed 283–293 — COMPLETE 11/11**;
-- P3-09: **311–321 / printed 294–304 — COMPLETE 11/11**.
+- P3-09: **311–321 / printed 294–304 — COMPLETE 11/11**;
+- P3-10: **322–332 / printed 305–315 — COMPLETE 11/11**.
 
 Remaining:
 
-- P3-10: **322–332 / printed 305–315**;
-- final remainder: **333 / printed 316**.
+- final remainder: **333 / printed 316 — NEXT**.
 
 ## Part 003 Pass 1 — ACTIVE
 
-**99 / 111 scans captured — scans 223–321 / printed 206–304.**
+**110 / 111 scans captured — scans 223–332 / printed 206–315.**
 
-All 99 page records exist under `works/kuraloviyam/pages/` and remain at:
+All 110 page records exist under `works/kuraloviyam/pages/` and remain at:
 
 - `status: "needs-review"`
 - `visual_fidelity: "needs-review"`
 
-P3-09 captured:
+P3-10 captured:
 
-- scans **311–312** — love-separation / letter-and-shame vignette; Chapter 125 / Kural 1247;
-- scans **313–314** — Kaarmegam / land, labour and idleness vignette; Chapter 104 / Kural 1040;
-- scans **315–316** — Seyizhai / pallor-and-separation vignette; Chapter 119 / Kural 1188;
-- scans **317–318** — boastful climber / knowing one's strength vignette; Chapter 48 / Kural 474;
-- scans **319–321** — lovers' quarrel / interpreting-signs vignette; Chapter 110 / Kural 1097.
+- scans **322–323** — classroom / `வலியறிதல்` vignette; Chapter 48 / Kurals 479, 473;
+- scans **324–325** — Iraaman / Annam-Amudham chastity vignette; Chapter 6 / Kural 57;
+- scans **326–327** — Ezhini / Iniyan “Yama” love vignette; Chapter 109 / Kural 1083;
+- scans **328–329** — solitary-beauty / unused-wealth analogy; Chapter 101 / Kural 1007;
+- scans **330–331** — burden / moral-faults / `அழுக்காறு` vignette; Chapter 4 / Kural 35;
+- scan **332** — severe-rule / famine vignette begins and continues directly to scan 333.
 
-Scan 318 carries a lower-margin blue library stamp that is excluded from body text. Scan 321 preserves the printed Chapter 110 heading `குறிப்பறிதல்`, Kural 1097, and the three printed word glosses. All remain Pass-1 `needs-review` records and were not promoted.
+Scan 333 / printed 316 was inspected only as the P3-10 outgoing boundary witness. It continues scan 332 and closes the final visible Part 003 unit with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567. Do not create scan 333 until the final-remainder activity.
 
 ## Pass 1 rules
 
@@ -127,15 +134,15 @@ For each page:
 - do not import standard/web Kural wording, another edition, OCR guesses or memory;
 - do not claim Pass 2A, Pass 2B or Pass 3 verification during Pass 1.
 
-## Exact next activity — Part 003 Pass 1 / P3-10
+## Exact next activity — Part 003 Pass 1 / final remainder
 
-Process **overall scans 322–332 / printed 305–315 — 11 pages** in one iteration.
+Process **overall scan 333 / printed 316 — 1 page**.
 
-Scan **322 / printed 305** begins a new illustrated classroom / `வலியறிதல்` vignette, confirmed as the clean outgoing boundary witness during P3-09. Use the supplied Part 003 PDF directly. Inspect scan **333 / printed 316** only as the outgoing boundary witness; it belongs to the final one-scan remainder and must not be created during P3-10.
+Begin scan **333 / printed 316** as the direct continuation of the severe-rule / famine vignette begun on scan 332. Preserve the source-visible closing Kural and metadata: Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567. Do not infer the external **333→334** boundary before Part 004 is supplied.
 
-After P3-10:
+After the final remainder:
 
 1. update `PART_003_PASS1_PROGRESS.md`, README, handover, next-chat prompt and page map/frontier;
 2. audit the exact changed-file set;
-3. confirm all 11 new page records remain appropriate Pass-1 statuses;
-4. set the final remainder scan 333 / printed 316 as the next activity.
+3. confirm the new scan 333 record remains appropriate Pass-1 status;
+4. mark Part 003 Pass 1 complete 111/111 and advance only to the next authorized archival gate, not directly to English.
