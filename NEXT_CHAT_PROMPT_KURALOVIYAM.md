@@ -36,7 +36,7 @@ Read completely before changing anything:
 - Part 003 source intake: **PASS / COMPLETE**.
 - Part 003 Pass 1: **COMPLETE — scans 223–333 / 111 of 111 captured**.
 - Part 003 Pass 2A: **COMPLETE — scans 223–333 / 111 of 111 directly verified**.
-- Part 003 Pass 2B: **ACTIVE — 10/111 independently re-read through scan 232 / printed 215**.
+- Part 003 Pass 2B: **ACTIVE — 20/111 independently re-read through scan 242 / printed 225**.
 - Part 003 Pass 3, audit and Tamil archival-ready: **not-started**.
 - English remains **blocked until Tamil closure**.
 
@@ -89,27 +89,31 @@ Normal Pass-2B cadence: **10 physical scans per batch**, with a shorter final re
 
 ## Pass 2B Batch 1 — COMPLETE
 
-**Scans 223–232 / printed 206–215 — COMPLETE 10/10.** Scan **233 / printed 216** was inspected only as the outgoing witness and confirms **232→233 CLEAN**.
+**Scans 223–232 / printed 206–215 — COMPLETE 10/10.** Corrections on scans **223 and 226**; eight scans no-change; **232→233 CLEAN** confirmed from scan 233 witness.
+
+## Pass 2B Batch 2 — COMPLETE
+
+**Scans 233–242 / printed 216–225 — COMPLETE 10/10.** Scan **243 / printed 226** was inspected only as the outgoing witness and confirms **242→243 CLEAN**.
 
 New Pass-2B corrections:
 
-- scan **223** — restored source single quotes `‘பேதைமை’` / `‘பேதை’`; removed non-source quote marks from `அந்தப் பேதை, பேதைமை`; corrected `கோட்டைக் சுவருக்கு` → `கோட்டைச் சுவருக்கு`;
-- scan **226** — corrected `நினைப்பவர்போல்` → `நினைப்பவர்போல`.
+- scan **235** — source-visible joining restored: `நடந்து சென்று` → `நடந்துசென்று`;
+- scan **236** — source-visible exclamation restored: `அடே டே..!` → `அடேடே!`.
 
-Scans **224, 225, 227, 228, 229, 230, 231 and 232** required no new Pass-2B correction.
+Scans **233, 234, 237, 238, 239, 240, 241 and 242** required no new Pass-2B correction.
 
 Durable Pass-2B record: `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md`.
 
-## Exact next activity — Part 003 Pass 2B / Batch 2
+## Exact next activity — Part 003 Pass 2B / Batch 3
 
-Process **scans 233–242 / printed 216–225 — 10 physical scans** in one independent lexical-fidelity iteration.
+Process **scans 243–252 / printed 226–235 — 10 physical scans** in one independent lexical-fidelity iteration.
 
 Requirements:
 
 1. fetch live `main` first;
-2. resolve the supplied Part 003 PDF and freshly render/inspect scans **233–242** directly;
-3. begin after confirmed **232→233 CLEAN**;
-4. fetch current page records `0233`–`0242` before comparison;
+2. resolve the supplied Part 003 PDF and freshly render/inspect scans **243–252** directly;
+3. begin after confirmed **242→243 CLEAN**;
+4. fetch current page records `0243`–`0252` before comparison;
 5. independently re-read every source-visible word and punctuation mark using the Pass-2B rules above;
 6. independently reconfirm Kural text/lineation, paragraph/quotation boundaries and printed metadata;
 7. make only direct source-supported corrections;
