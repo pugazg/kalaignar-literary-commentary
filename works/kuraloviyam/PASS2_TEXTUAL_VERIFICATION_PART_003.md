@@ -99,10 +99,30 @@ Batch 3 correction summary: **10 records corrected; scan 254 required no textual
 
 Batch 4 correction summary: **7 records corrected; scans 256, 258, 264 and 266 required no textual change**.
 
-Current Part 003 Pass 2A frontier: **44 / 111 scans verified — overall scans 223–266 / printed 206–249**.
+## Batch 5 — overall scans 267–277 / printed pages 250–260
+
+**Status: COMPLETE — 11 / 11 scans.** Incoming **266→267 genuine continuation** preserved. Scan **278 / printed 261** was inspected only as the outgoing witness and reconfirms **277→278 CLEAN**.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 267 | 250 | corrected `தொட்டுமுடியாமல்` → `தொடமுடியாமல்` and `உச்சிமுகல்` → `உச்சிமுதல்`; restored source quotation punctuation around Kural 1220; Chapter 122 / Kural 1220 confirmed; closes the continuation from scan 266 |
+| 268 | 251 | direct textual comparison complete; no correction required; genuine continuation into 269 confirmed |
+| 269 | 252 | body wording matched; restored source quotation punctuation around Kural 155; Chapter 16 / Kural 155 confirmed |
+| 270 | 253 | direct textual comparison complete; no correction required; genuine continuation into 271 confirmed |
+| 271 | 254 | corrected `இழுத்துரைத்துக்` → `இடித்துரைத்துக்`, `கூடலிலும் நிலையில்` → `கூடிமகிழும் நிலையில்`, restored source comma in `அதாவது,`, restored missing `என்பது`, and restored source quotation punctuation around Kural 1327; Chapter 133 / Kural 1327 confirmed |
+| 272 | 255 | direct textual comparison complete; no correction required; genuine continuation into 273 confirmed |
+| 273 | 256 | body wording matched; restored source quotation punctuation around Kural 133; Chapter 14 / Kural 133 confirmed |
+| 274 | 257 | direct textual comparison complete; no correction required; genuine continuation into 275 confirmed |
+| 275 | 258 | body wording matched; restored source quotation punctuation around Kural 1267; Chapter 127 / Kural 1267 confirmed |
+| 276 | 259 | direct textual comparison complete; no correction required; genuine continuation into 277 confirmed |
+| 277 | 260 | body wording matched; restored source quotation punctuation around Kural 476; Chapter 48 / Kural 476 confirmed; scan 278 witness reconfirmed **277→278 CLEAN** |
+
+Batch 5 correction summary: **6 records corrected; scans 268, 270, 272, 274 and 276 required no textual change**.
+
+Current Part 003 Pass 2A frontier: **55 / 111 scans verified — overall scans 223–277 / printed 206–260**.
 
 ## Next batch
 
-**Batch 5 — scans 267–277 / printed 250–260 — 11 scans.** Begin with scan 267 as the continuation of the trade/separation vignette from scan 266. Inspect scan **278 / printed 261** only as a continuity/boundary witness when needed; Pass-1 mapping records **277→278 as CLEAN**. Keep all records at `needs-review` / `visual_fidelity: needs-review`.
+**Batch 6 — scans 278–288 / printed 261–271 — 11 scans.** Begin after the confirmed clean **277→278** boundary. Inspect scan **289 / printed 272** only as a continuity/boundary witness when needed; Pass-1 mapping records **288→289 as a genuine continuation**. Keep all records at `needs-review` / `visual_fidelity: needs-review`.
 
 External **333→334** remains deferred until Part 004 source intake.
