@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 003 Pass 2B Batch 4 COMPLETE / 40 of 111 through scan 262**: **2026-09-09**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
+Last refreshed for Kuraloviyam **Part 003 Pass 2B Batch 6 COMPLETE / 60 of 111 through scan 282**: **2026-09-09**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
 
 ## Repository
 
@@ -276,27 +276,24 @@ Completed:
 - **Batch 2 — scans 233–242 / printed 216–225 — COMPLETE 10/10**; corrections on scans **235 and 236**; **242→243 CLEAN** confirmed from scan 243 witness.
 - **Batch 3 — scans 243–252 / printed 226–235 — COMPLETE 10/10**; corrections on scans **249, 250, 251 and 252**; **252→253 genuine continuation** reconfirmed from scan 253 witness.
 - **Batch 4 — scans 253–262 / printed 236–245 — COMPLETE 10/10**; corrections on scans **253 and 261**; **262→263 genuine continuation** reconfirmed from scan 263 witness.
+- **Batch 5 — scans 263–272 / printed 246–255 — COMPLETE 10/10**; correction only on scan **264** (`நாட்டோடிப்` → `நாடோடிப்`); **272→273 genuine continuation** reconfirmed.
+- **Batch 6 — scans 273–282 / printed 256–265 — COMPLETE 10/10**; correction only on scan **281** (`புகழைப் போன்றதாம்` → `புகுவதைப் போன்றதாம்`); **282→283 genuine continuation** reconfirmed.
 
-Batch 4 corrections:
+Scans **273, 274, 275, 276, 277, 278, 279, 280 and 282** required no new Batch-6 correction.
 
-- scan **253** — `எண்ணெய் அறியாக` → `எண்ணெய் அறியாத`; source-visible spacing `மூடிவான்` → `மூடி வான்`;
-- scan **261** — source-visible spacing `உட்காரவைத்துப் பருகுவதற்குப்` → `உட்காரவைத்து பருகுவதற்குப்`.
-
-Scans **254, 255, 256, 257, 258, 259, 260 and 262** required no new Pass-2B correction.
-
-Current Pass-2B frontier: **40/111 through scan 262 / printed 245**. All page records remain `needs-review` / `visual_fidelity: needs-review`.
+Current Pass-2B frontier: **60/111 through scan 282 / printed 265**. All page records remain `needs-review` / `visual_fidelity: needs-review`.
 
 # Exact next activity — குறளோவியம்
 
 1. fetch live `main`;
 2. complete the Kuraloviyam mandatory startup reading above;
 3. resolve the supplied Part 003 PDF;
-4. process **Part 003 Pass 2B / Batch 5 — scans 263–272 / printed 246–255, 10 physical scans**;
-5. begin inside confirmed **262→263 genuine continuation**;
-6. fetch current page records `0263`–`0272` before comparison;
+4. process **Part 003 Pass 2B / Batch 7 — scans 283–292 / printed 266–275, 10 physical scans**;
+5. begin inside confirmed **282→283 genuine continuation**;
+6. fetch current page records `0283`–`0292` before comparison;
 7. independently re-read every source-visible printed word, punctuation mark, paragraph/quotation boundary, Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata against freshly rendered scans;
 8. make only direct source-supported corrections;
-9. inspect scan **273 / printed 256** only as the outgoing boundary witness if needed;
+9. inspect scan **293 / printed 276** only as the outgoing boundary witness if needed;
 10. update `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md` for every correction/no-change result;
 11. keep all records at `needs-review` / `visual_fidelity: needs-review`;
 12. audit the exact changed-file set before advancing;
