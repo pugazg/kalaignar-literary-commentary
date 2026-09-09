@@ -10,7 +10,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
 | 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | **source intake + Pass 1 + Pass 2A COMPLETE — 111/111; Pass 2B NOT STARTED** |
+| 003 | 223–333 | **source intake + Pass 1 + Pass 2A COMPLETE — 111/111; Pass 2B ACTIVE — 10/111 through scan 232** |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
 | 006 | 556–666 | not-started |
@@ -33,7 +33,7 @@ Tamil is **ARCHIVAL-READY / CLOSED** at **111 textual verified + 111 visual veri
 
 Maintained English is **RELEASE COMPLETE / CLOSED — 111/111 `release-ready`**. Durable review and release records are under `translations/en/reviews/`.
 
-## Part 003 — SOURCE INTAKE + PASS 1 + PASS 2A COMPLETE
+## Part 003 — SOURCE INTAKE + PASS 1 + PASS 2A COMPLETE / PASS 2B ACTIVE
 
 Controlling source:
 
@@ -99,12 +99,25 @@ User-directed Pass-2A cadence was **11 physical scans per normal iteration**, wi
 - **Batch 10: scans 322–332 / printed 305–315 — COMPLETE 11/11**; 8 records corrected, scans **324, 328, 330** no-change; genuine **332→333 continuation** reconfirmed from scan 333 witness.
 - **Final remainder: scan 333 / printed 316 — COMPLETE 1/1**; corrected `ஆர்ப்பாட்டம் செய்வார்கள்`, `எழுதிக் களிக்க`, `இறுதியான`; Chapter 57 / Kural 567 and Part-ending continuation directly confirmed.
 
-Current Pass-2A frontier: **111 / 111 COMPLETE through scan 333 / printed 316**. The internal **332→333 genuine continuation** is closed. External **333→334 remains deferred** until Part 004 intake.
-
-All records intentionally remain `needs-review` / `visual_fidelity: needs-review`; Pass 2B, Pass 3, audit and final synchronization are still required before textual/visual `verified` status.
+Pass-2A closure: **111 / 111 COMPLETE through scan 333 / printed 316**. The internal **332→333 genuine continuation** is closed. External **333→334 remains deferred** until Part 004 intake.
 
 Durable Pass-2A record: `PASS2_TEXTUAL_VERIFICATION_PART_003.md`.
 
+### Part 003 Pass 2B state
+
+**ACTIVE — 10 / 111 independently re-read through scan 232 / printed 215.** Pass 2B follows the Part-002 independent lexical-fidelity precedent and uses freshly rendered scans as authority.
+
+- **Batch 1: scans 223–232 / printed 206–215 — COMPLETE 10/10**.
+- New Pass-2B corrections were required on scans **223 and 226**.
+- Scan **223** restored the source single-quote form around `‘பேதைமை’` / `‘பேதை’`, removed non-source quote marks from `அந்தப் பேதை, பேதைமை`, and corrected `கோட்டைக் சுவருக்கு` → `கோட்டைச் சுவருக்கு`.
+- Scan **226** corrected `நினைப்பவர்போல்` → `நினைப்பவர்போல`.
+- Scans **224, 225, 227, 228, 229, 230, 231 and 232** required no new Pass-2B correction.
+- Scan **233 / printed 216** was inspected only as the outgoing witness and confirms **232→233 CLEAN**.
+
+All records intentionally remain `needs-review` / `visual_fidelity: needs-review`; Pass 3, audit and final synchronization are still required before textual/visual `verified` status.
+
+Durable Pass-2B record: `PASS2B_LEXICAL_FIDELITY_PART_003.md`.
+
 ## Current frontier
 
-**Next activity: Part 003 Pass 2B lexical-fidelity re-read / Batch 1 — scans 223–232 / printed 206–215, 10 independent scans.** Follow `PASS2B_LEXICAL_FIDELITY_PART_002.md` as precedent: freshly re-read every source-visible printed word with special attention to `ர/ற`, `ன/ண`, `ல/ள/ழ`, vowel signs, compound letters, source-visible joining/spacing, old or uncommon forms, names, quotations, Kural text/lineation, punctuation and printed `அதிகாரம்` / பாடல் metadata. Keep all records at `needs-review` / `visual_fidelity: needs-review`; do not normalize, use OCR guesswork, or import standard/web wording.
+**Next activity: Part 003 Pass 2B / Batch 2 — scans 233–242 / printed 216–225, 10 independent scans.** Begin after confirmed **232→233 CLEAN**. Freshly re-read every source-visible printed word with special attention to `ர/ற`, `ன/ண`, `ல/ள/ழ`, vowel signs, compound letters, source-visible joining/spacing, old or uncommon forms, names, quotations, Kural text/lineation, punctuation and printed `அதிகாரம்` / பாடல் metadata. Keep all records at `needs-review` / `visual_fidelity: needs-review`; do not normalize, use OCR guesswork, or import standard/web wording.
