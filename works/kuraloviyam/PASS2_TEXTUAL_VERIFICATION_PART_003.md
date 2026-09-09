@@ -119,10 +119,30 @@ Batch 4 correction summary: **7 records corrected; scans 256, 258, 264 and 266 r
 
 Batch 5 correction summary: **6 records corrected; scans 268, 270, 272, 274 and 276 required no textual change**.
 
-Current Part 003 Pass 2A frontier: **55 / 111 scans verified — overall scans 223–277 / printed 206–260**.
+## Batch 6 — overall scans 278–288 / printed pages 261–271
+
+**Status: COMPLETE — 11 / 11 scans.** Incoming **277→278 CLEAN** boundary preserved. Scan **289 / printed 272** was inspected only as the outgoing witness and reconfirms **288→289 as a genuine continuation**.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 278 | 261 | direct textual comparison complete; no correction required; genuine continuation into 279 confirmed |
+| 279 | 262 | corrected `நடுங்குவதைக்கண்ட` → `நடுங்குவதைக்கண்டு`; restored source quotation punctuation around Kural 1287; Chapter 129 / Kural 1287 confirmed |
+| 280 | 263 | direct textual comparison complete; no correction required; genuine continuation into 281 confirmed |
+| 281 | 264 | restored source sentence `தனக்கு எல்லாம் தெரிந்திருப்பதைப்போலப் புகழைப் போன்றதாம்! அதைவிடப் பேதைமையே இல்லை என்கிறது குறள்!` in place of the inaccurate Pass-1 wording; restored source quotation punctuation around Kural 840; Chapter 84 / Kural 840 confirmed |
+| 282 | 265 | direct textual comparison complete; no correction required; genuine continuation into 283 confirmed |
+| 283 | 266 | corrected `தன்நம்பிக்கையுடன்` → `தன்னம்பிக்கையுடன்`; restored source quotation punctuation around Kural 1107; Chapter 111 / Kural 1107 confirmed |
+| 284 | 267 | direct textual comparison complete; no correction required; genuine continuation into 285 confirmed |
+| 285 | 268 | corrected `வளமைக்கு எங்கள் நாட்டில் வருமை` → `வறுமைக்கு எங்கள் நாட்டில் வறுமை` and `மிக வலிமை` → `மிக்க வலிமை`; restored source quotation punctuation around Kural 448; Chapter 45 / Kural 448 confirmed |
+| 286 | 269 | direct textual comparison complete; no correction required; genuine continuation into 287 confirmed |
+| 287 | 270 | corrected `என்ற செய்திகூட` → `என்று செய்திகூட`; restored source quotation punctuation around Kural 1199; Chapter 120 / Kural 1199 confirmed |
+| 288 | 271 | direct textual comparison complete; no correction required; scan 289 witness reconfirmed the genuine **288→289 continuation** |
+
+Batch 6 correction summary: **5 records corrected; scans 278, 280, 282, 284, 286 and 288 required no textual change**.
+
+Current Part 003 Pass 2A frontier: **66 / 111 scans verified — overall scans 223–288 / printed 206–271**.
 
 ## Next batch
 
-**Batch 6 — scans 278–288 / printed 261–271 — 11 scans.** Begin after the confirmed clean **277→278** boundary. Inspect scan **289 / printed 272** only as a continuity/boundary witness when needed; Pass-1 mapping records **288→289 as a genuine continuation**. Keep all records at `needs-review` / `visual_fidelity: needs-review`.
+**Batch 7 — scans 289–299 / printed 272–282 — 11 scans.** Begin with scan 289 as the genuine continuation of the Valluvar / renunciation vignette from scan 288. Inspect scan **300 / printed 283** only as a continuity/boundary witness when needed; Pass-1 mapping records **299→300 as CLEAN**. Keep all records at `needs-review` / `visual_fidelity: needs-review`.
 
 External **333→334** remains deferred until Part 004 source intake.
