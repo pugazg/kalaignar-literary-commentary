@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 003 Pass 3 ACTIVE — 22/111 through scan 244 / printed 227; Batch 3 next**: **2026-09-09**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
+Last refreshed for Kuraloviyam **Part 003 Pass 3 ACTIVE — 33/111 through scan 255 / printed 238; Batch 4 next**: **2026-09-09**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
 
 ## Repository
 
@@ -284,7 +284,7 @@ All records remain `needs-review` / `visual_fidelity: needs-review` pending Pass
 
 ## Part 003 Pass 3 — ACTIVE
 
-**22 / 111 scans complete through scan 244 / printed 227.** User-directed cadence is **11 physical scans per iteration**.
+**33 / 111 scans complete through scan 255 / printed 238.** User-directed cadence is **11 physical scans per iteration**.
 
 Pass 3 is meaningful visual-text verification and follows `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md` as precedent. It verifies heading hierarchy, Kural/quotation lineation and block placement, prose/quotation relationships, page furniture, source/non-source visual separation, illustration/text order and relationship, physical-page continuation and source-size legibility. It is not another lexical reread.
 
@@ -304,6 +304,14 @@ Batch 2 — **scans 234–244 / printed 217–227 — COMPLETE 11/11**:
 - all records remain `needs-review` / `visual_fidelity: needs-review`;
 - scan **245 / printed 228** witness reconfirms **244→245 CLEAN**.
 
+Batch 3 — **scans 245–255 / printed 228–238 — COMPLETE 11/11**:
+
+- structural/visual-description corrections: **0**;
+- scans **245–255** required no structural correction;
+- lexical body-text changes: **0**;
+- all records remain `needs-review` / `visual_fidelity: needs-review`;
+- scan **256 / printed 239** witness reconfirms **255→256 CLEAN**.
+
 Durable log: `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`.
 
 # Exact next activity — குறளோவியம்
@@ -311,11 +319,11 @@ Durable log: `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`.
 1. fetch live `main`;
 2. complete the Kuraloviyam mandatory startup reading above;
 3. resolve the supplied Part 003 PDF;
-4. process **Part 003 Pass 3 / Batch 3 — scans 245–255 / printed 228–238, 11 physical scans**, beginning after the confirmed CLEAN **244→245** boundary;
-5. fetch current page records `0245`–`0255` before comparison;
+4. process **Part 003 Pass 3 / Batch 4 — scans 256–266 / printed 239–249, 11 physical scans**, beginning after the confirmed CLEAN **255→256** boundary;
+5. fetch current page records `0256`–`0266` before comparison;
 6. verify meaningful visual-text fidelity directly from freshly rendered scans;
 7. make only source-supported structural corrections; do not repeat settled lexical verification;
-8. inspect scan **256 / printed 239** only as the outgoing continuity/boundary witness when needed;
+8. inspect scan **267 / printed 250** only as the outgoing continuity/boundary witness when needed;
 9. update `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`;
 10. keep all records at `needs-review` / `visual_fidelity: needs-review`;
 11. audit the exact changed-file set before advancing;
