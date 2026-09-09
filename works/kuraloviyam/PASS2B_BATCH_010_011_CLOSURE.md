@@ -1,10 +1,10 @@
-# குறளோவியம் — Part 003 Pass 2B Batches 10–11 closure
+# குறளோவியம் — Part 003 Pass 2B Batches 10–11 + final remainder closure
 
 Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf`
 
 Source identity: **111 physical pages; overall scans 223–333; printed pages 206–316; 93,488,924 bytes; SHA-256 `f07e7cdb3a6e786b0378e00bbe699a241be41c9e099c004a4faa90fa82b4239f`; rendered scans are controlling.**
 
-This file is a durable supplemental closure record for Pass-2B Batches 10 and 11. It exists because the cumulative Pass-2B/frontier documents were not all synchronized in the immediately preceding tool windows. Live page records and this closure record control these two batches until the cumulative documents are reconciled.
+This supplemental closure record preserves the late Pass-2B batches and final remainder. The cumulative authoritative log `PASS2B_LEXICAL_FIDELITY_PART_003.md` is now synchronized and controls the full 111/111 Pass-2B state.
 
 All Part-003 page records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`. Pass 3 has **not** started.
 
@@ -42,14 +42,23 @@ Batch-10 corrections: **314, 316, 320, 322**. No-change scans: **313, 315, 317, 
 | 329 | 312 | solitary-beauty / unused-wealth conclusion, Kural 1007, lineation and Chapter 101 metadata independently reconfirmed; no new correction |
 | 330 | 313 | burden / moral-faults opening independently reconfirmed; no new correction |
 | 331 | 314 | burden / moral-faults conclusion, Kural 35, lineation and Chapter 4 metadata independently reconfirmed; no new correction |
-| 332 | 315 | severe-rule / famine opening independently reconfirmed; source-visible `ஆர்ப்பாட்டம் செய்கிறார்கள்` retained; no new correction; scan 333 witness reconfirms **332→333 genuine continuation** |
+| 332 | 315 | severe-rule / famine opening independently reconfirmed; no new correction; scan 333 witness reconfirms **332→333 genuine continuation** |
 
 Batch-11 correction: **326 only**. No-change scans: **323, 324, 325, 327, 328, 329, 330, 331, 332**.
 
-## Current Pass-2B frontier
+## Final remainder — scan 333 / printed 316
 
-**110 / 111 scans independently re-read — through scan 332 / printed 315.**
+**COMPLETE — 1/1 independently re-read against the freshly rendered source scan.** Incoming **332→333 genuine continuation** reconfirmed and closed.
 
-Remaining Pass-2B work: **final one-scan remainder — scan 333 / printed 316**. It begins inside the confirmed genuine **332→333 continuation** and closes the Part with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567. External **333→334 remains deferred until Part 004 source intake**.
+Two new source-supported corrections were required:
 
-Do not begin Pass 3 until scan 333 has independently passed Pass 2B and the cumulative durable frontier is synchronized.
+- `இறுதியான` → `இறுதி யான`;
+- `தலைமை ஏற்று` → `தலைமைபெற்று`.
+
+The remaining severe-rule / famine conclusion, Kural 567 wording and lineation, Chapter 57 `வெருவந்த செய்யாமை` metadata and source/non-body separation were independently reconfirmed. External **333→334 remains deferred until Part 004 source intake**.
+
+## Final Pass-2B state
+
+**COMPLETE — 111/111 scans independently re-read, overall scans 223–333 / printed 206–316.**
+
+Next gate: **Part 003 Pass 3 meaningful visual-text verification**. Do not promote page statuses until Pass 3, Part audit and final metadata/status synchronization close.
