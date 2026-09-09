@@ -23,10 +23,11 @@ Read completely before changing anything:
 11. `works/kuraloviyam/PART_003_PASS1_PROGRESS.md`
 12. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md`
 13. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md`
-14. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_002.md` as Pass-2B precedent
-15. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`
-16. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
-17. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
+14. `works/kuraloviyam/PASS2B_BATCH_010_011_CLOSURE.md` — **supplemental controlling closure for Batches 10–11 until cumulative docs are fully reconciled**
+15. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_002.md` as Pass-2B precedent
+16. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`
+17. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
+18. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
 
 ## Durable state
 
@@ -34,9 +35,9 @@ Read completely before changing anything:
 - Part 002 Tamil: **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified**.
 - Part 002 English: **RELEASE COMPLETE / CLOSED — 111/111 release-ready**.
 - Part 003 source intake: **PASS / COMPLETE**.
-- Part 003 Pass 1: **COMPLETE — scans 223–333 / 111 of 111 captured**.
-- Part 003 Pass 2A: **COMPLETE — scans 223–333 / 111 of 111 directly verified**.
-- Part 003 Pass 2B: **ACTIVE — 90/111 independently re-read through scan 312 / printed 295**.
+- Part 003 Pass 1: **COMPLETE — 111/111, scans 223–333**.
+- Part 003 Pass 2A: **COMPLETE — 111/111, scans 223–333**.
+- Part 003 Pass 2B: **ACTIVE — 110/111 independently re-read through scan 332 / printed 315**.
 - Part 003 Pass 3, audit and Tamil archival-ready: **not-started**.
 - English remains **blocked until Tamil closure**.
 
@@ -44,61 +45,53 @@ Read completely before changing anything:
 
 `TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf`
 
-Confirmed source identity:
+Confirmed identity:
 
 - local PDF pages: **111**;
 - overall scans: **223–333**;
 - printed pages: **206–316**;
 - file size: **93,488,924 bytes**;
 - SHA-256: `f07e7cdb3a6e786b0378e00bbe699a241be41c9e099c004a4faa90fa82b4239f`;
-- no usable parsed text layer; rendered scan images control.
+- no usable parsed text layer; rendered source scans control.
 
-## Pass 1 and Pass 2A closure
+All Part-003 page records intentionally remain `status: "needs-review"` / `visual_fidelity: "needs-review"` during Pass 2B. Do not promote records before later gates.
 
-Part 003 Pass 1 is **COMPLETE 111/111**. Part 003 Pass 2A is also **COMPLETE 111/111**. Final unit **332→333 is a genuine continuation**; scan 333 closes it with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567. External **333→334 remains deferred** until Part 004 intake.
+## Pass 2B Batches 1–9
 
-All 111 Part-003 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`. Do not promote records during Pass 2B.
+**COMPLETE — 90/111 through scan 312 / printed 295.** See `PASS2B_LEXICAL_FIDELITY_PART_003.md` for the detailed per-scan record.
 
-## Pass 2B rule and cadence
+## Pass 2B Batch 10 — COMPLETE
 
-Pass 2B is an **independent lexical-fidelity re-read** against freshly rendered source scans. Follow `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_002.md` as precedent and the live Part-003 Pass-2B log as the active durable record. The rendered scan remains controlling; do not use OCR guesswork, normalization, another/standard edition, web text, context reconstruction or memory to replace source-visible wording.
+**Scans 313–322 / printed 296–305 — COMPLETE 10/10.** Corrections committed on **314, 316, 320, 322**; scans **313, 315, 317, 318, 319, 321** required no new lexical correction. Scan **323 / printed 306** was inspected as the outgoing witness and confirms **322→323 genuine continuation**.
 
-Normal cadence: **10 physical scans per batch**, with a shorter final remainder if necessary. Keep all records at `needs-review` / `visual_fidelity: needs-review` throughout Pass 2B. Pass 3 remains blocked until Pass 2B closes all 111 scans.
+Source-supported Batch-10 restorations:
 
-## Pass 2B batches 1–9 — COMPLETE
+- scan **314** — `வளமான விளைவை காணுகிறீர்` → `வளமான விளைவைக் காணுகிறீர்`;
+- scan **316** — `திங்கள் இரண்டு தேய்ந்து மறைந்தன` → `திங்கள் இரண்டு தேய்ந்து மாய்ந்தன`;
+- scan **320** — `பூஞ்செடியின்` → `பூச்செடியின்`; `இந்த நேரத்தில்` → `இந்நேரத்தில்`;
+- scan **322** — `மாணாக்கர்க்குப்` → source form `மாணாக்கர்கட்குப்`.
 
-- Batch 1: **223–232 / 206–215 — 10/10**.
-- Batch 2: **233–242 / 216–225 — 10/10**.
-- Batch 3: **243–252 / 226–235 — 10/10**.
-- Batch 4: **253–262 / 236–245 — 10/10**.
-- Batch 5: **263–272 / 246–255 — 10/10**.
-- Batch 6: **273–282 / 256–265 — 10/10**.
-- Batch 7: **283–292 / 266–275 — 10/10**; **292→293 genuine continuation**.
-- Batch 8: **293–302 / 276–285 — 10/10**; corrections on **293, 294, 295, 299, 302**; **302→303 CLEAN**.
-- Batch 9: **303–312 / 286–295 — 10/10**; corrections on **304 and 305**; scans **303, 306, 307, 308, 309, 310, 311, 312** no-change; **312→313 CLEAN** confirmed from scan 313 witness.
+## Pass 2B Batch 11 — COMPLETE
 
-Batch-9 source restorations:
+**Scans 323–332 / printed 306–315 — COMPLETE 10/10.** Only scan **326** required a new correction: source-visible spacing `திங்கள்சந்தைக்குப்` → `திங்கள் சந்தைக்குப்`. Scans **323, 324, 325, 327, 328, 329, 330, 331, 332** required no new lexical correction. Scan **333 / printed 316** was inspected only as the outgoing witness and reconfirms **332→333 genuine continuation**.
 
-- scan **304** — restored inner source quotation `‘இனிமேல் பிரிந்தே செல்லமாட்டேன், என்னை மன்னித்துவிடு’`; `பிரிவுத் துயரும்` → `பிரிவுத் துயரமும்`;
-- scan **305** — `பெயர் கொண்டான்` → `பெயர் கொண்டோன்`.
+Detailed durable supplemental record: `works/kuraloviyam/PASS2B_BATCH_010_011_CLOSURE.md`.
 
-Durable Pass-2B record: `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md`.
+## Exact next activity — Part 003 Pass 2B final remainder
 
-## Exact next activity — Part 003 Pass 2B / Batch 10
-
-Process **scans 313–322 / printed 296–305 — 10 physical scans** in one independent lexical-fidelity iteration.
+Process **scan 333 / printed 316 — 1 physical scan** as the final Pass-2B remainder.
 
 Requirements:
 
 1. fetch live `main` first;
-2. resolve the supplied Part 003 PDF and freshly render/inspect scans **313–322** directly;
-3. begin after confirmed **312→313 CLEAN**;
-4. fetch current page records `0313`–`0322` before comparison;
-5. independently re-read every source-visible word and punctuation mark using the Pass-2B rules;
-6. independently reconfirm Kural text/lineation, paragraph/quotation boundaries and printed metadata;
-7. make only direct source-supported corrections;
-8. inspect scan **323 / printed 306** only as the outgoing boundary witness if needed;
-9. update `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md` and log every correction/no-change result;
-10. keep all records at `needs-review` / `visual_fidelity: needs-review`;
-11. audit the exact changed-file set before advancing;
-12. do not begin Pass 3 until Pass 2B covers all 111 Part-003 scans.
+2. use the supplied Part 003 controlling PDF and freshly render/inspect scan **333** directly;
+3. begin inside confirmed genuine **332→333 continuation**;
+4. fetch current page record `0333-kuraloviyam-316.md` before comparison;
+5. independently re-read every source-visible word and punctuation mark at word/character level;
+6. independently reconfirm Kural 567 wording/lineation and Chapter 57 — `வெருவந்த செய்யாமை` metadata;
+7. make only direct source-supported corrections — no OCR guesswork, normalization, standard/web substitution, context reconstruction or memory;
+8. external **333→334 remains deferred** until Part 004 source intake; do not invent or infer the boundary from another source;
+9. keep `status: "needs-review"` and `visual_fidelity: "needs-review"` until Pass 3/audit/final sync;
+10. after scan 333 passes, close Pass 2B at **111/111** and synchronize the cumulative Pass-2B log plus README, work/root handovers, page-map and this next-chat prompt;
+11. audit the exact changed-file set;
+12. **do not begin Pass 3 in the same step unless separately authorized after durable Pass-2B closure**.
