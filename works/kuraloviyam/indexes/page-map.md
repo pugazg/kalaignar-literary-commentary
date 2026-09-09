@@ -8,7 +8,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
 | 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **SOURCE INTAKE PASS / COMPLETE; Tamil Pass 1 ACTIVE — 110/111 captured** |
+| 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **SOURCE INTAKE PASS / COMPLETE; Tamil Pass 1 COMPLETE — 111/111; Pass 2A NEXT** |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
 | 006 | 556–666 | 1–111 | not yet inspected | not-started |
@@ -156,7 +156,7 @@ Incoming boundary:
 - scan **224 / printed 207** closes that new unit with Chapter 84 / Kurals 838, 839;
 - **222→223 is CLEAN**.
 
-Current Pass-1 boundary chain:
+Part 003 Pass-1 boundary chain:
 
 - **233→234 genuine continuation**;
 - **244→245 clean**;
@@ -172,16 +172,16 @@ Current Pass-1 boundary chain:
 - **327→328 clean** — scan 327 closes the Ezhini / Iniyan vignette and scan 328 begins the solitary-beauty / unused-wealth analogy;
 - **329→330 clean** — scan 329 closes the unused-wealth analogy and scan 330 begins the burden / moral-faults vignette;
 - **331→332 clean** — scan 331 closes the burden / `அழுக்காறு` vignette and scan 332 begins the severe-rule / famine vignette;
-- **332→333 genuine continuation** — scan 332 begins the final visible Part 003 unit and scan 333 continues it.
+- **332→333 genuine continuation** — scan 332 begins the final visible Part 003 unit and scan 333 continues and closes it.
 
 Outgoing intake witness:
 
 - scans **332–333 / printed 315–316** form the final visible Part 003 unit;
-- **332→333 is a genuine continuation** into the final one-scan remainder;
+- **332→333 is a genuine continuation**;
 - scan **333** closes with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567;
 - external **333→334** is deferred until Part 004 source intake.
 
-Part 003 Pass 1 user-directed cadence:
+Part 003 Pass 1 capture:
 
 - P3-01: **223–233 / printed 206–216 — COMPLETE**;
 - P3-02: **234–244 / printed 217–227 — COMPLETE**;
@@ -193,18 +193,14 @@ Part 003 Pass 1 user-directed cadence:
 - P3-08: **300–310 / printed 283–293 — COMPLETE**;
 - P3-09: **311–321 / printed 294–304 — COMPLETE**;
 - P3-10: **322–332 / printed 305–315 — COMPLETE**;
-- final remainder: **333 / printed 316 — NEXT**.
+- final remainder: **333 / printed 316 — COMPLETE**.
 
-Current Part 003 Pass-1 inventory: **110 / 111 records captured — scans 223–332 / printed 206–315**. All remain `needs-review` / `visual_fidelity: needs-review`.
+Current Part 003 Pass-1 inventory: **111 / 111 records captured — scans 223–333 / printed 206–316**. All remain `needs-review` / `visual_fidelity: needs-review` pending later verification gates.
 
-P3-10 source units:
+Final Pass-1 source unit:
 
-- **322–323 / 305–306** — classroom / `வலியறிதல்`; Chapter 48 / Kurals 479, 473;
-- **324–325 / 307–308** — Iraaman / Annam-Amudham chastity; Chapter 6 / Kural 57;
-- **326–327 / 309–310** — Ezhini / Iniyan “Yama” love; Chapter 109 / Kural 1083;
-- **328–329 / 311–312** — solitary-beauty / unused-wealth analogy; Chapter 101 / Kural 1007;
-- **330–331 / 313–314** — burden / moral-faults / `அழுக்காறு`; Chapter 4 / Kural 35;
-- **332 / 315** — severe-rule / famine vignette begins and continues directly to scan 333.
+- **332 / 315** — severe-rule / famine vignette begins;
+- **333 / 316** — direct continuation and closure; Chapter 57 / Kural 567.
 
 Durable intake: `../SOURCE_INTAKE_PART_003.md`.  
 Durable Pass 1 progress: `../PART_003_PASS1_PROGRESS.md`.
@@ -254,7 +250,7 @@ Durable Pass 1 progress: `../PART_003_PASS1_PROGRESS.md`.
 - **327→328** clean; scan 328 begins the solitary-beauty / unused-wealth analogy;
 - **329→330** clean; scan 330 begins the burden / moral-faults vignette;
 - **331→332** clean; scan 332 begins the severe-rule / famine vignette;
-- **332→333** genuine continuation; scans 332–333 form the final visible Part 003 unit;
+- **332→333** genuine continuation; scans 332–333 form and close the final visible Part 003 unit;
 - scan **333 / printed 316** closes that unit with Chapter 57 / Kural 567; **333→334** remains deferred.
 
 Durable Part 002 Pass 2A record: `../PASS2_TEXTUAL_VERIFICATION_PART_002.md`.
@@ -287,8 +283,8 @@ Part 002:
 Part 003:
 
 - source intake — **PASS / COMPLETE**;
-- Pass 1 — **ACTIVE, 110/111 captured through scan 332 / printed 315**;
-- Pass 2A — not-started;
+- Pass 1 — **COMPLETE, 111/111 captured through scan 333 / printed 316**;
+- Pass 2A — **NEXT / not-started**;
 - Pass 2B — not-started;
 - Pass 3 — not-started;
 - Part audit — not-started;
@@ -301,6 +297,6 @@ Part 003:
 
 **Part 002: Tamil + English CLOSED.**
 
-**Part 003: SOURCE INTAKE COMPLETE / TAMIL PASS 1 ACTIVE — 110/111.**
+**Part 003: SOURCE INTAKE + PASS 1 COMPLETE — 111/111; PASS 2A NEXT.**
 
-Exact next activity: **final Part 003 Pass-1 remainder — scan 333 / printed 316, one page-aligned Tamil record**. Begin scan **333 / printed 316** as the direct continuation of the severe-rule / famine vignette begun on scan 332. Create exactly `../pages/0333-kuraloviyam-316.md`, preserve exact visible source wording and Chapter 57 / Kural 567 metadata, keep Pass-1 `needs-review` statuses, and do not infer external **333→334** before Part 004 is supplied.
+Exact next activity: **Part 003 Pass 2A / Batch 1 — scans 223–232 / printed 206–215, 10 direct textual-verification scans**. Compare every source-visible word, punctuation mark, paragraph/quotation boundary, Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata against rendered scans. Inspect scan 233 only as a continuity witness when needed. Keep all page records at `needs-review` / `visual_fidelity: needs-review`, create the dedicated Part 003 Pass-2A log, and audit the exact changed-file set before advancing.
