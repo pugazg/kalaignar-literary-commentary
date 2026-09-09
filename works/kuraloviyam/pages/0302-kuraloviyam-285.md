@@ -31,7 +31,7 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 அதுதான் இது:-
 
 > “மடியுளான் மாமுகடி என்ப மடியிலான்  
-> தாளுளாள் தாமரையினாள்”
+> தாளுளாள் தாமரை யினாள்”
 
 அதிகாரம் - 62     -     ஆள்வினை உடைமை;     பாடல் - 617
 
