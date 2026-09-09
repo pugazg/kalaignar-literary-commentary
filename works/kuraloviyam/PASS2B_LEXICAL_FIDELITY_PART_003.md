@@ -53,7 +53,7 @@ Batch 1 corrections were therefore required on scans **223 and 226**. Scans **22
 | 239 | 222 | independent word-level re-read complete across the drunkard / `கள்ளுண்ணாமை` opening and continuation into 240; no new correction required |
 | 240 | 223 | independently confirmed the drunkard conclusion, Kural 929, lineation, Chapter 93 metadata and the lexical note `களித்தான் - குடிகாரன்`; no new correction required |
 | 241 | 224 | independent word-level re-read complete across the lamp/darkness analogy opening and continuation into 242; no new correction required |
-| 242 | 225 | independently confirmed the lamp/darkness and pallor conclusion, Kural 1186, lineation, Chapter 119 metadata and lexical notes; no new correction required; scan 243 witness confirms **242→243 CLEAN** |
+| 242 | 225 | independently confirmed the lamp/darkness and pallor conclusion, Kural 1186, lineation and Chapter 119 metadata and lexical notes; no new correction required; scan 243 witness confirms **242→243 CLEAN** |
 
 Batch 2 corrections were therefore required on scans **235 and 236**. Scans **233, 234, 237, 238, 239, 240, 241 and 242** required no new Pass-2B correction.
 
@@ -152,10 +152,29 @@ Batch 6 correction was therefore required only on scan **281**. Scans **273, 274
 
 Batch 7 corrections were therefore required on scans **285, 287, 288 and 291**. Scans **283, 284, 286, 289, 290 and 292** required no new Pass-2B correction.
 
-Current Part 003 Pass-2B frontier: **70 / 111 scans independently re-read — through scan 292 / printed 275**.
+## Batch 8 — overall scans 293–302 / printed pages 276–285
+
+**Status: COMPLETE — 10 / 10 scans independently re-read against freshly rendered source pages for Pass 2B.** Incoming **292→293 genuine continuation** preserved. Scan **303 / printed 286** was inspected only as the outgoing witness and confirms **302→303 CLEAN**; scan 303 begins the illustrated Thingal / Sevvai love-separation vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 293 | 276 | corrected source-visible `மத்தியில்` → `மத்தியிலே` and `நீ என் அந்தச் சிலருக்காகக்` → `நீ ஏன் அந்தச் சிலருக்காகக்`; remaining altered-Kural / friendship conclusion, Kural 521, lineation and Chapter 53 metadata independently confirmed |
+| 294 | 277 | corrected source-visible `கடும்பெயிலில்` → `கடும்வெயிலில்`; remaining illustrated woodcutter / one-day separation opening and continuation into 295 independently confirmed |
+| 295 | 278 | corrected `நிலவேறு` → `நிலவொன்று` and source old-form `காணாமல்` → `காணாமற்`; remaining woodcutter / one-day separation conclusion, Kural 1264, lineation and Chapter 127 metadata independently confirmed |
+| 296 | 279 | independently confirmed the illustrated defeated-army / enduring-military-strength opening and continuation into 297; no new correction required |
+| 297 | 280 | independently confirmed the defeated-army / enduring-military-strength conclusion, Kural 762, lineation and Chapter 77 metadata; no new correction required; **297→298 CLEAN** preserved |
+| 298 | 281 | independently confirmed the illustrated Mullai-kodi / Mukilan fisher-couple separation-and-dream opening and continuation into 299; no new correction required |
+| 299 | 282 | restored source-visible old form `நீள இமைகளைக்` → `நீள் இமைகளைக்`; remaining fisher-couple dream conclusion, Kural 1218, lineation and Chapter 122 metadata independently confirmed; **299→300 CLEAN** preserved |
+| 300 | 283 | independently confirmed the illustrated Thirumagal / Moodevi / labour-and-idleness opening and continuation into 301; no new correction required |
+| 301 | 284 | independently confirmed the forge / neglected-pavilion continuation and genuine continuation into 302; no new correction required |
+| 302 | 285 | restored source-visible Kural spacing `தாளுளாள் தாமரையினாள்` → `தாளுளாள் தாமரை யினாள்`; remaining Thirumagal / Moodevi conclusion, Kural 617, lineation and Chapter 62 metadata independently confirmed; scan 303 witness confirms **302→303 CLEAN** |
+
+Batch 8 corrections were therefore required on scans **293, 294, 295, 299 and 302**. Scans **296, 297, 298, 300 and 301** required no new Pass-2B correction.
+
+Current Part 003 Pass-2B frontier: **80 / 111 scans independently re-read — through scan 302 / printed 285**.
 
 ## Next batch
 
-**Batch 8 — scans 293–302 / printed 276–285 — 10 scans.** Begin inside the confirmed genuine **292→293** continuation. Use freshly rendered source scans, re-read independently at word/character level, preserve source punctuation/quotation/Kural lineation and metadata, and keep all records at `needs-review` / `visual_fidelity: needs-review`. Inspect scan **303 / printed 286** only as the outgoing boundary witness if needed.
+**Batch 9 — scans 303–312 / printed 286–295 — 10 scans.** Begin after confirmed **302→303 CLEAN** boundary. Use freshly rendered source scans, re-read independently at word/character level, preserve source punctuation/quotation/Kural lineation and metadata, and keep all records at `needs-review` / `visual_fidelity: needs-review`. Inspect scan **313 / printed 296** only as the outgoing boundary witness if needed.
 
 External **333→334** remains deferred until Part 004 source intake.
