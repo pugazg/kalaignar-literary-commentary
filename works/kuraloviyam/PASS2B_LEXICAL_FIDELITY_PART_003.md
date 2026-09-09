@@ -76,10 +76,29 @@ Batch 2 corrections were therefore required on scans **235 and 236**. Scans **23
 
 Batch 3 corrections were therefore required on scans **249, 250, 251 and 252**. Scans **243, 244, 245, 246, 247 and 248** required no new Pass-2B correction.
 
-Current Part 003 Pass-2B frontier: **30 / 111 scans independently re-read — through scan 252 / printed 235**.
+## Batch 4 — overall scans 253–262 / printed pages 236–245
+
+**Status: COMPLETE — 10 / 10 scans independently re-read against freshly rendered source pages for Pass 2B.** Incoming **252→253 genuine continuation** preserved. Scan **263 / printed 246** was inspected only as the outgoing witness and confirms **262→263 as a genuine continuation** of the moon/separation vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 253 | 236 | corrected `எண்ணெய் அறியாக` → `எண்ணெய் அறியாத`; restored source-visible spacing `மூடிவான்` → `மூடி வான்`; remaining harvest / neglected-field conclusion, Kural 1039, lineation and Chapter 104 metadata independently confirmed |
+| 254 | 237 | independently confirmed the illustrated night-time fear/chastity opening and continuation into 255; no new correction required |
+| 255 | 238 | independently confirmed the night-time fear/chastity conclusion, Kural 1251, lineation and Chapter 126 metadata; no new correction required; **255→256 CLEAN** preserved |
+| 256 | 239 | independently confirmed the illustrated poverty/fire opening and continuation into 257; no new correction required |
+| 257 | 240 | independently confirmed the poverty/fire conclusion, Kural 1049, lineation and Chapter 105 metadata; no new correction required |
+| 258 | 241 | independently confirmed the illustrated pottery/lovers opening and genuine continuation into 259; no new correction required |
+| 259 | 242 | independently confirmed the pottery/lovers conclusion, Kurals 1126 and 1125, lineation and Chapter 113 metadata; no new correction required |
+| 260 | 243 | independently confirmed the illustrated Alagan/orphan opening and genuine continuation into 261; no new correction required |
+| 261 | 244 | restored source-visible spacing `உட்காரவைத்துப் பருகுவதற்குப்` → `உட்காரவைத்து பருகுவதற்குப்`; remaining Alagan/orphan conclusion, Kural 129, lineation and Chapter 13 metadata independently confirmed |
+| 262 | 245 | independently confirmed the illustrated moon/separation opening; no new correction required; scan 263 witness reconfirms **262→263 genuine continuation** |
+
+Batch 4 corrections were therefore required on scans **253 and 261**. Scans **254, 255, 256, 257, 258, 259, 260 and 262** required no new Pass-2B correction.
+
+Current Part 003 Pass-2B frontier: **40 / 111 scans independently re-read — through scan 262 / printed 245**.
 
 ## Next batch
 
-**Batch 4 — scans 253–262 / printed 236–245 — 10 scans.** Begin inside the confirmed genuine **252→253** continuation. Use freshly rendered source scans, re-read independently at word/character level, preserve source punctuation/quotation/Kural lineation and metadata, and keep all records at `needs-review` / `visual_fidelity: needs-review`.
+**Batch 5 — scans 263–272 / printed 246–255 — 10 scans.** Begin inside the confirmed genuine **262→263** continuation. Use freshly rendered source scans, re-read independently at word/character level, preserve source punctuation/quotation/Kural lineation and metadata, and keep all records at `needs-review` / `visual_fidelity: needs-review`.
 
 External **333→334** remains deferred until Part 004 source intake.
