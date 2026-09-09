@@ -38,7 +38,7 @@ Read completely before changing anything:
 - Part 003 Pass 1: **COMPLETE — 111/111, scans 223–333 / printed 206–316**.
 - Part 003 Pass 2A: **COMPLETE — 111/111, scans 223–333 / printed 206–316**.
 - Part 003 Pass 2B: **COMPLETE — 111/111 independently re-read through scan 333 / printed 316**.
-- Part 003 Pass 3: **ACTIVE — 22/111 through scan 244 / printed 227**.
+- Part 003 Pass 3: **ACTIVE — 33/111 through scan 255 / printed 238**.
 - Part 003 audit and Tamil archival-ready: **not-started**.
 - English remains **blocked until Tamil closure**.
 
@@ -111,20 +111,30 @@ Exact font, colour and artwork recreation are not required. Rewrite a page recor
 - all records remain `needs-review` / `visual_fidelity: needs-review`;
 - scan **245 / printed 228** outgoing witness reconfirms **244→245 CLEAN**.
 
+## Pass 3 Batch 3 — COMPLETE
+
+**Scans 245–255 / printed 228–238 — 11/11.**
+
+- direct source inspection found **0 structural/visual-description corrections**;
+- scans **245–255** all remain unchanged;
+- lexical body-text changes: **0**;
+- all records remain `needs-review` / `visual_fidelity: needs-review`;
+- scan **256 / printed 239** outgoing witness reconfirms **255→256 CLEAN**.
+
 Durable Pass-3 record: `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`.
 
-## Exact next activity — Part 003 Pass 3 / Batch 3
+## Exact next activity — Part 003 Pass 3 / Batch 4
 
-Process **scans 245–255 / printed 228–238 — 11 physical scans** in one meaningful visual-text verification iteration, beginning after the confirmed CLEAN **244→245** boundary.
+Process **scans 256–266 / printed 239–249 — 11 physical scans** in one meaningful visual-text verification iteration, beginning after the confirmed CLEAN **255→256** boundary.
 
 Requirements:
 
 1. fetch live `main` first;
-2. resolve the supplied Part 003 PDF and freshly render/inspect scans **245–255** directly;
-3. fetch current page records `0245`–`0255` before comparison;
+2. resolve the supplied Part 003 PDF and freshly render/inspect scans **256–266** directly;
+3. fetch current page records `0256`–`0266` before comparison;
 4. verify heading hierarchy, illustration/text order, Kural/quotation block placement and lineation, prose/quotation relationships, page furniture, non-body marks and physical continuations against the scans;
 5. make only direct source-supported **structural** corrections; do not repeat lexical verification or normalize settled wording;
-6. inspect scan **256 / printed 239** only as the outgoing continuity/boundary witness when needed;
+6. inspect scan **267 / printed 250** only as the outgoing continuity/boundary witness when needed;
 7. update `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md` and log every structural-correction/no-change result;
 8. keep all records at `needs-review` / `visual_fidelity: needs-review`;
 9. synchronize README, work/root handovers, page-map and this prompt to the resulting Pass-3 frontier;
