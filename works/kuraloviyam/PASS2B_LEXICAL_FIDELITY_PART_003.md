@@ -53,7 +53,7 @@ Batch 1 corrections were therefore required on scans **223 and 226**. Scans **22
 | 239 | 222 | independent word-level re-read complete across the drunkard / `கள்ளுண்ணாமை` opening and continuation into 240; no new correction required |
 | 240 | 223 | independently confirmed the drunkard conclusion, Kural 929, lineation, Chapter 93 metadata and the lexical note `களித்தான் - குடிகாரன்`; no new correction required |
 | 241 | 224 | independent word-level re-read complete across the lamp/darkness analogy opening and continuation into 242; no new correction required |
-| 242 | 225 | independently confirmed the lamp/darkness and pallor conclusion, Kural 1186, lineation and Chapter 119 metadata and lexical notes; no new correction required; scan 243 witness confirms **242→243 CLEAN** |
+| 242 | 225 | independently confirmed the lamp/darkness and pallor conclusion, Kural 1186, lineation, Chapter 119 metadata and lexical notes; no new correction required; scan 243 witness confirms **242→243 CLEAN** |
 
 Batch 2 corrections were therefore required on scans **235 and 236**. Scans **233, 234, 237, 238, 239, 240, 241 and 242** required no new Pass-2B correction.
 
@@ -154,7 +154,7 @@ Batch 7 corrections were therefore required on scans **285, 287, 288 and 291**. 
 
 ## Batch 8 — overall scans 293–302 / printed pages 276–285
 
-**Status: COMPLETE — 10 / 10 scans independently re-read against freshly rendered source pages for Pass 2B.** Incoming **292→293 genuine continuation** preserved. Scan **303 / printed 286** was inspected only as the outgoing witness and confirms **302→303 CLEAN**; scan 303 begins the illustrated Thingal / Sevvai love-separation vignette.
+**Status: COMPLETE — 10 / 10 scans independently re-read against freshly rendered source pages for Pass 2B.** Incoming **292→293 genuine continuation** preserved. Scan **303 / printed 286** was inspected only as the outgoing witness and confirms **302→303 CLEAN**; scan 303 begins the Thingal / Sevvai love-separation vignette.
 
 | Scan | Printed page | Result |
 |---:|---:|---|
@@ -171,10 +171,29 @@ Batch 7 corrections were therefore required on scans **285, 287, 288 and 291**. 
 
 Batch 8 corrections were therefore required on scans **293, 294, 295, 299 and 302**. Scans **296, 297, 298, 300 and 301** required no new Pass-2B correction.
 
-Current Part 003 Pass-2B frontier: **80 / 111 scans independently re-read — through scan 302 / printed 285**.
+## Batch 9 — overall scans 303–312 / printed pages 286–295
+
+**Status: COMPLETE — 10 / 10 scans independently re-read against freshly rendered source pages for Pass 2B.** Incoming **302→303 CLEAN** boundary preserved. Scan **313 / printed 296** was inspected only as the outgoing witness and confirms **312→313 CLEAN**; scan 313 begins a new illustrated elderly-farmers / agrarian-discussion vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 303 | 286 | independently confirmed the illustrated Thingal / Sevvai love-separation opening, Kural 1256 and continuation into 304; no new correction required |
+| 304 | 287 | restored source-visible inner quotation around `‘இனிமேல் பிரிந்தே செல்லமாட்டேன், என்னை மன்னித்துவிடு’`; corrected `பிரிவுத் துயரும்` → `பிரிவுத் துயரமும்`; remaining Thingal / Sevvai conclusion, Kurals 1256, 1260 and 1257, lineation and Chapter 126 metadata independently confirmed |
+| 305 | 288 | corrected source-visible `பெயர் கொண்டான்` → `பெயர் கொண்டோன்`; remaining illustrated Ezhini / Valanadu betrayal-and-useless-speech opening and continuation into 306 independently confirmed |
+| 306 | 289 | independently confirmed the Ezhini / Valanadu conclusion, Kural 191, lineation and Chapter 20 metadata; no new correction required |
+| 307 | 290 | independently confirmed the illustrated Vanchikkodi / Kadamban harvest-field opening and continuation into 308; no new correction required |
+| 308 | 291 | independently confirmed the Vanchikkodi / Kadamban separation-and-heart conclusion, Kural 1300, lineation and Chapter 130 metadata; no new correction required |
+| 309 | 292 | independently confirmed the illustrated 1982 Madurai-to-Tiruchendur justice-march opening and continuation into 310; no new correction required |
+| 310 | 293 | independently confirmed the 1982 justice-march conclusion, Kurals 594 and 624, both Chapter metadata blocks and source glosses; no new correction required; **310→311 CLEAN** preserved |
+| 311 | 294 | independently confirmed the illustrated love-separation / letter opening and genuine continuation into 312; no new correction required |
+| 312 | 295 | independently confirmed the love-separation / letter conclusion, Kural 1247, lineation and Chapter 125 metadata; no new correction required; scan 313 witness confirms **312→313 CLEAN** |
+
+Batch 9 corrections were therefore required on scans **304 and 305**. Scans **303, 306, 307, 308, 309, 310, 311 and 312** required no new Pass-2B correction.
+
+Current Part 003 Pass-2B frontier: **90 / 111 scans independently re-read — through scan 312 / printed 295**.
 
 ## Next batch
 
-**Batch 9 — scans 303–312 / printed 286–295 — 10 scans.** Begin after confirmed **302→303 CLEAN** boundary. Use freshly rendered source scans, re-read independently at word/character level, preserve source punctuation/quotation/Kural lineation and metadata, and keep all records at `needs-review` / `visual_fidelity: needs-review`. Inspect scan **313 / printed 296** only as the outgoing boundary witness if needed.
+**Batch 10 — scans 313–322 / printed 296–305 — 10 scans.** Begin after the confirmed **312→313 CLEAN** boundary. Use freshly rendered source scans, re-read independently at word/character level, preserve source punctuation/quotation/Kural lineation and metadata, and keep all records at `needs-review` / `visual_fidelity: needs-review`. Inspect scan **323 / printed 306** only as the outgoing boundary witness if needed.
 
 External **333→334** remains deferred until Part 004 source intake.
