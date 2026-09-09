@@ -36,7 +36,7 @@ Read completely before changing anything:
 - Part 003 source intake: **PASS / COMPLETE**.
 - Part 003 Pass 1: **COMPLETE — scans 223–333 / 111 of 111 captured**.
 - Part 003 Pass 2A: **COMPLETE — scans 223–333 / 111 of 111 directly verified**.
-- Part 003 Pass 2B: **ACTIVE — 60/111 independently re-read through scan 282 / printed 265**.
+- Part 003 Pass 2B: **ACTIVE — 70/111 independently re-read through scan 292 / printed 275**.
 - Part 003 Pass 3, audit and Tamil archival-ready: **not-started**.
 - English remains **blocked until Tamil closure**.
 
@@ -70,18 +70,7 @@ Durable Pass-2A record: `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.m
 
 Pass 2B is an **independent lexical-fidelity re-read** against freshly rendered source scans. Follow `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_002.md` as precedent and the live Part-003 Pass-2B log as the active durable record.
 
-Independently re-read every source-visible printed word, with special attention to:
-
-- `ர/ற`;
-- `ன/ண`;
-- `ல/ள/ழ`;
-- vowel signs and compound letters;
-- source-visible joining/spacing;
-- old or uncommon forms;
-- names and quotations;
-- Kural wording and printed lineation;
-- paragraph/quotation boundaries and punctuation;
-- printed `அதிகாரம்` / பாடல் metadata.
+Independently re-read every source-visible printed word, with special attention to `ர/ற`, `ன/ண`, `ல/ள/ழ`, vowel signs and compound letters, source-visible joining/spacing, old or uncommon forms, names and quotations, Kural wording and printed lineation, paragraph/quotation boundaries and punctuation, and printed `அதிகாரம்` / பாடல் metadata.
 
 The rendered source scan remains controlling. Do not use OCR guesswork, normalization, another/standard edition, web text, context reconstruction or memory to replace source-visible wording.
 
@@ -89,52 +78,55 @@ Normal Pass-2B cadence: **10 physical scans per batch**, with a shorter final re
 
 ## Pass 2B Batch 1 — COMPLETE
 
-**Scans 223–232 / printed 206–215 — COMPLETE 10/10.** Corrections on scans **223 and 226**; eight scans no-change; **232→233 CLEAN** confirmed from scan 233 witness.
+**Scans 223–232 / printed 206–215 — COMPLETE 10/10.** Corrections on scans **223 and 226**; eight scans no-change; **232→233 CLEAN** confirmed.
 
 ## Pass 2B Batch 2 — COMPLETE
 
-**Scans 233–242 / printed 216–225 — COMPLETE 10/10.** Corrections on scans **235 and 236**; eight scans no-change; **242→243 CLEAN** confirmed from scan 243 witness.
+**Scans 233–242 / printed 216–225 — COMPLETE 10/10.** Corrections on scans **235 and 236**; eight scans no-change; **242→243 CLEAN** confirmed.
 
 ## Pass 2B Batch 3 — COMPLETE
 
-**Scans 243–252 / printed 226–235 — COMPLETE 10/10.** Corrections on scans **249, 250, 251 and 252**; scans **243, 244, 245, 246, 247 and 248** no-change; **252→253 genuine continuation** reconfirmed from scan 253 witness.
+**Scans 243–252 / printed 226–235 — COMPLETE 10/10.** Corrections on scans **249, 250, 251 and 252**; six scans no-change; **252→253 genuine continuation** reconfirmed.
 
 ## Pass 2B Batch 4 — COMPLETE
 
-**Scans 253–262 / printed 236–245 — COMPLETE 10/10.** Corrections on scans **253 and 261**; scans **254, 255, 256, 257, 258, 259, 260 and 262** no-change; **262→263 genuine continuation** reconfirmed from scan 263 witness.
+**Scans 253–262 / printed 236–245 — COMPLETE 10/10.** Corrections on scans **253 and 261**; eight scans no-change; **262→263 genuine continuation** reconfirmed.
 
 ## Pass 2B Batch 5 — COMPLETE
 
-**Scans 263–272 / printed 246–255 — COMPLETE 10/10.** New Pass-2B correction:
-
-- scan **264** — `நாட்டோடிப்` → `நாடோடிப்`.
-
-Scans **263, 265, 266, 267, 268, 269, 270, 271 and 272** required no new Pass-2B correction. Scan **273 / printed 256** was inspected only as the outgoing witness and reconfirms **272→273 genuine continuation**.
+**Scans 263–272 / printed 246–255 — COMPLETE 10/10.** Correction only on scan **264** (`நாட்டோடிப்` → `நாடோடிப்`); nine scans no-change; **272→273 genuine continuation** reconfirmed.
 
 ## Pass 2B Batch 6 — COMPLETE
 
-**Scans 273–282 / printed 256–265 — COMPLETE 10/10.** New Pass-2B correction:
+**Scans 273–282 / printed 256–265 — COMPLETE 10/10.** Correction only on scan **281** (`புகழைப் போன்றதாம்` → `புகுவதைப் போன்றதாம்`); nine scans no-change; **282→283 genuine continuation** reconfirmed.
 
-- scan **281** — `புகழைப் போன்றதாம்` → `புகுவதைப் போன்றதாம்`.
+## Pass 2B Batch 7 — COMPLETE
 
-Scans **273, 274, 275, 276, 277, 278, 279, 280 and 282** required no new Pass-2B correction. Scan **283 / printed 266** was inspected only as the outgoing witness and reconfirms **282→283 genuine continuation**.
+**Scans 283–292 / printed 266–275 — COMPLETE 10/10.** Corrections were committed on scans **285, 287, 288 and 291**:
+
+- scan **285** — `எடுத்துக்காட்டாக கொண்டு` → `எடுத்துக்காட்டாகக் கொண்டு`; `அசைக்கிட` → `அசைத்திட`;
+- scan **287** — `என்று செய்திகூட` → `என்ற செய்திகூட`; `புகழச் செய்வது` → `புகழக் கேட்பது`;
+- scan **288** — `நடித்துபோரை` → `நடிப்போரை`;
+- scan **291** — source prose `ஏழு நாள்தானே` → `எழு நாள்தானே`.
+
+Scans **283, 284, 286, 289, 290 and 292** required no new Pass-2B correction. Scan **293 / printed 276** was inspected only as the outgoing witness and reconfirms **292→293 genuine continuation** of the altered-Kural / friendship vignette.
 
 Durable Pass-2B record: `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md`.
 
-## Exact next activity — Part 003 Pass 2B / Batch 7
+## Exact next activity — Part 003 Pass 2B / Batch 8
 
-Process **scans 283–292 / printed 266–275 — 10 physical scans** in one independent lexical-fidelity iteration.
+Process **scans 293–302 / printed 276–285 — 10 physical scans** in one independent lexical-fidelity iteration.
 
 Requirements:
 
 1. fetch live `main` first;
-2. resolve the supplied Part 003 PDF and freshly render/inspect scans **283–292** directly;
-3. begin inside confirmed **282→283 genuine continuation**;
-4. fetch current page records `0283`–`0292` before comparison;
+2. resolve the supplied Part 003 PDF and freshly render/inspect scans **293–302** directly;
+3. begin inside confirmed **292→293 genuine continuation**;
+4. fetch current page records `0293`–`0302` before comparison;
 5. independently re-read every source-visible word and punctuation mark using the Pass-2B rules above;
 6. independently reconfirm Kural text/lineation, paragraph/quotation boundaries and printed metadata;
 7. make only direct source-supported corrections;
-8. inspect scan **293 / printed 276** only as the outgoing boundary witness if needed;
+8. inspect scan **303 / printed 286** only as the outgoing boundary witness if needed;
 9. update `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md` and log every correction/no-change result;
 10. keep all records at `needs-review` / `visual_fidelity: needs-review`;
 11. audit the exact changed-file set before advancing;
