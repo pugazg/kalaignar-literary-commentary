@@ -172,20 +172,30 @@ Exact font, colour and artwork recreation are not required. Rewrite a page recor
 - status promotions: **0**;
 - outgoing scan **245 / printed 228** witness reconfirms **244→245 CLEAN**.
 
+### Pass 3 Batch 3 — COMPLETE
+
+**Scans 245–255 / printed 228–238 — 11/11.**
+
+- structural/visual-description corrections: **0**;
+- scans **245–255**: all source-supported visual organization already adequately represented;
+- lexical body-text changes: **0**;
+- status promotions: **0**;
+- outgoing scan **256 / printed 239** witness reconfirms **255→256 CLEAN**.
+
 Durable Pass-3 record: `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`.
 
-Current Pass-3 frontier: **22 / 111 through scan 244 / printed 227**.
+Current Pass-3 frontier: **33 / 111 through scan 255 / printed 238**.
 
-## Exact next activity — Part 003 Pass 3 / Batch 3
+## Exact next activity — Part 003 Pass 3 / Batch 4
 
-Process **overall scans 245–255 / printed 228–238 — 11 scans**, beginning after the confirmed CLEAN **244→245** boundary.
+Process **overall scans 256–266 / printed 239–249 — 11 scans**, beginning after the confirmed CLEAN **255→256** boundary.
 
 1. fetch live `main` first;
 2. use the supplied Part 003 controlling PDF and freshly rendered scans directly;
-3. fetch current page records **0245–0255** before comparison;
+3. fetch current page records **0256–0266** before comparison;
 4. verify meaningful visual-text fidelity using the Pass-3 rules above;
 5. make only source-supported **structural** corrections; do not repeat or alter settled lexical wording unless a genuinely new direct-source issue is discovered and explicitly logged;
-6. inspect scan **256 / printed 239** only as the outgoing continuity/boundary witness when needed;
+6. inspect scan **267 / printed 250** only as the outgoing continuity/boundary witness when needed;
 7. update the Part-003 Pass-3 durable log;
 8. keep textual and visual statuses at `needs-review`;
 9. audit the exact changed-file set before advancing.
