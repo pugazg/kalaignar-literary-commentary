@@ -10,7 +10,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
 | 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | **source intake + Pass 1 + Pass 2A COMPLETE — 111/111; Pass 2B ACTIVE — 20/111 through scan 242** |
+| 003 | 223–333 | **source intake + Pass 1 + Pass 2A COMPLETE — 111/111; Pass 2B ACTIVE — 30/111 through scan 252** |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
 | 006 | 556–666 | not-started |
@@ -105,11 +105,12 @@ Durable Pass-2A record: `PASS2_TEXTUAL_VERIFICATION_PART_003.md`.
 
 ### Part 003 Pass 2B state
 
-**ACTIVE — 20 / 111 independently re-read through scan 242 / printed 225.** Pass 2B follows the Part-002 independent lexical-fidelity precedent and uses freshly rendered scans as authority.
+**ACTIVE — 30 / 111 independently re-read through scan 252 / printed 235.** Pass 2B follows the Part-002 independent lexical-fidelity precedent and uses freshly rendered scans as authority.
 
 - **Batch 1: scans 223–232 / printed 206–215 — COMPLETE 10/10**; corrections on scans **223 and 226**; eight no-change scans; **232→233 CLEAN** confirmed.
 - **Batch 2: scans 233–242 / printed 216–225 — COMPLETE 10/10**; corrections on scans **235 and 236**; scans **233, 234, 237, 238, 239, 240, 241 and 242** required no new correction; **242→243 CLEAN** confirmed from scan 243 witness.
-- Batch-2 source restorations: scan **235** `நடந்து சென்று` → `நடந்துசென்று`; scan **236** `அடே டே..!` → `அடேடே!`.
+- **Batch 3: scans 243–252 / printed 226–235 — COMPLETE 10/10**; corrections on scans **249, 250, 251 and 252**; scans **243, 244, 245, 246, 247 and 248** required no new correction; **252→253 genuine continuation** reconfirmed from scan 253 witness.
+- Batch-3 source restorations include `வயல்களில்`, `பார்ப்போமேயென்று`, `என்பதோடு`, source-visible joining `உச்சிக்குச்சென்று`, and `பயன்படுவது`.
 
 All records intentionally remain `needs-review` / `visual_fidelity: needs-review`; Pass 3, audit and final synchronization are still required before textual/visual `verified` status.
 
@@ -117,4 +118,4 @@ Durable Pass-2B record: `PASS2B_LEXICAL_FIDELITY_PART_003.md`.
 
 ## Current frontier
 
-**Next activity: Part 003 Pass 2B / Batch 3 — scans 243–252 / printed 226–235, 10 independent scans.** Begin after confirmed **242→243 CLEAN**. Freshly re-read every source-visible printed word with special attention to `ர/ற`, `ன/ண`, `ல/ள/ழ`, vowel signs, compound letters, source-visible joining/spacing, old or uncommon forms, names, quotations, Kural text/lineation, punctuation and printed `அதிகாரம்` / பாடல் metadata. Keep all records at `needs-review` / `visual_fidelity: needs-review`; do not normalize, use OCR guesswork, or import standard/web wording.
+**Next activity: Part 003 Pass 2B / Batch 4 — scans 253–262 / printed 236–245, 10 independent scans.** Begin inside the confirmed genuine **252→253** continuation. Freshly re-read every source-visible printed word with special attention to `ர/ற`, `ன/ண`, `ல/ள/ழ`, vowel signs, compound letters, source-visible joining/spacing, old or uncommon forms, names, quotations, Kural text/lineation, punctuation and printed `அதிகாரம்` / பாடல் metadata. Keep all records at `needs-review` / `visual_fidelity: needs-review`; do not normalize, use OCR guesswork, or import standard/web wording.
