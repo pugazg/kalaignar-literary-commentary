@@ -199,10 +199,48 @@ Batch 8 correction summary: **5 records corrected; scans 301, 302, 304, 305, 306
 
 Batch 9 correction summary: **7 records corrected; scans 311, 313, 315 and 319 required no textual change**.
 
-Current Part 003 Pass 2A frontier: **99 / 111 scans verified — overall scans 223–321 / printed 206–304**.
+## Batch 10 — overall scans 322–332 / printed pages 305–315
 
-## Next batch
+**Status: COMPLETE — 11 / 11 scans.** Incoming **321→322 CLEAN** boundary preserved. Scan **333 / printed 316** was inspected only as the outgoing witness and directly reconfirms the genuine **332→333 continuation**.
 
-**Batch 10 — scans 322–332 / printed 305–315 — 11 scans.** Begin after the confirmed clean **321→322** boundary. Inspect scan **333 / printed 316** only as a continuity/boundary witness when needed; Pass-1 mapping records **332→333 as a genuine continuation**. Keep all records at `needs-review` / `visual_fidelity: needs-review`.
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 322 | 305 | corrected source-visible `மாணாக்கனை அழைத்து` → `மாணாக்கனை யழைத்து`; classroom / `வலியறிதல்` opening and genuine continuation into 323 confirmed |
+| 323 | 306 | restored source-supported readings including `செயலால்` and `கேட்டினைத்தான்`; restored source quotation punctuation around Kurals 479 and 473; Chapter 48 metadata confirmed; **323→324 CLEAN** |
+| 324 | 307 | direct textual comparison complete; no correction required; genuine continuation into 325 confirmed |
+| 325 | 308 | restored source-supported readings including `கள்ளங் கபடமில்லாமல்`; restored source quotation punctuation around Kural 57; Chapter 6 metadata confirmed; **325→326 CLEAN** |
+| 326 | 309 | corrected source-visible `இளவு` → `இலவு`; genuine continuation into 327 confirmed |
+| 327 | 310 | restored source-supported readings including `என் ஆவலைத் தூண்டுகிறாய்`; restored source quotation punctuation around Kural 1083; Chapter 109 metadata confirmed; **327→328 CLEAN** |
+| 328 | 311 | direct textual comparison complete; no correction required; genuine continuation into 329 confirmed |
+| 329 | 312 | restored source-supported readings including `தன்னேரில்லாத`, `காளையொருவன்`, `பட்டொழியும்`, `கிழமானாள்`; restored source quotation punctuation around Kural 1007; Chapter 101 metadata confirmed; **329→330 CLEAN** |
+| 330 | 313 | direct textual comparison complete; no correction required; genuine continuation into 331 confirmed |
+| 331 | 314 | restored source-supported readings including `அல்லது ஆசைப்படுவது`, `முழுகிக்`, `அடுத்தவன் வாழ்வதைப் பார்த்து`; restored source quotation punctuation around Kural 35; Chapter 4 metadata confirmed; **331→332 CLEAN** |
+| 332 | 315 | corrected source dialogue `நான் நிம்மதியாக இருப்பது உனக்குப் பிடிக்காதா!` → `நான் நிம்மதியாக இருப்பதே உங்களுக்குப் பிடிக்காது!`; genuine **332→333 continuation** reconfirmed from scan 333 witness |
+
+Batch 10 correction summary: **8 records corrected; scans 324, 328 and 330 required no textual change**.
+
+## Final remainder — overall scan 333 / printed page 316
+
+**Status: COMPLETE — 1 / 1 scan.** Incoming **332→333 genuine continuation** preserved. External **333→334 remains deferred** until Part 004 intake.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 333 | 316 | corrected `ஆர்ப்பாட்டம் செய்கிறார்கள்` → `ஆர்ப்பாட்டம் செய்வார்கள்`, `எழுதி களிக்க` → `எழுதிக் களிக்க`, and `இறுதி யான` → `இறுதியான`; remaining severe-rule / famine conclusion, Kural 567 wording/lineation and Chapter 57 / பாடல் metadata directly confirmed; closes Part 003 |
+
+Final remainder correction summary: **scan 333 corrected; no unresolved Pass-2A textual issue remains inside Part 003**.
+
+# Part 003 Pass 2A closure
+
+**COMPLETE — 111 / 111 scans verified — overall scans 223–333 / printed pages 206–316.**
+
+The final **332→333 genuine continuation** is closed within Part 003. External **333→334 remains deferred** until Part 004 source intake and is not a Part-003 Pass-2A defect.
+
+All page records intentionally remain `status: "needs-review"` / `visual_fidelity: "needs-review"`. Pass 2A closure does **not** promote records or make Part 003 archival-ready.
+
+## Exact next gate
+
+**Part 003 Pass 2B lexical-fidelity re-read — NOT STARTED.** Follow the Part-002 precedent in `PASS2B_LEXICAL_FIDELITY_PART_002.md`: independently re-read freshly rendered scans with special attention to `ர/ற`, `ன/ண`, `ல/ள/ழ`, vowel signs, compound letters, source-visible joining/spacing, old/uncommon forms, names, quotations, Kural wording/lineation, punctuation and printed metadata. Keep all page records at `needs-review` / `visual_fidelity: needs-review` during Pass 2B.
+
+Recommended first Pass-2B batch: **scans 223–232 / printed 206–215 — 10 scans**, matching the established Part-002 Pass-2B 10-scan opening cadence.
 
 External **333→334** remains deferred until Part 004 source intake.
