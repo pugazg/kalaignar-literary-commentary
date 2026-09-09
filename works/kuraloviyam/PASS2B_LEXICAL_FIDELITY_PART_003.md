@@ -57,10 +57,29 @@ Batch 1 corrections were therefore required on scans **223 and 226**. Scans **22
 
 Batch 2 corrections were therefore required on scans **235 and 236**. Scans **233, 234, 237, 238, 239, 240, 241 and 242** required no new Pass-2B correction.
 
-Current Part 003 Pass-2B frontier: **20 / 111 scans independently re-read — through scan 242 / printed 225**.
+## Batch 3 — overall scans 243–252 / printed pages 226–235
+
+**Status: COMPLETE — 10 / 10 scans independently re-read against freshly rendered source pages for Pass 2B.** Incoming **242→243 CLEAN** boundary preserved. Scan **253 / printed 236** was inspected only as the outgoing witness and reconfirms **252→253 as a genuine continuation** of the harvest / neglected-field vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 243 | 226 | independently confirmed the illustrated agriculture/family opening and its continuation into 244; no new correction required |
+| 244 | 227 | independently confirmed the agriculture/family conclusion, Kurals 1031 and 64, lineation and Chapter 104 / Chapter 7 metadata; no new correction required |
+| 245 | 228 | independently confirmed the illustrated Maangani–Poonguzhali friendship/marriage opening and continuation into 246; no new correction required |
+| 246 | 229 | independent word-level re-read complete across the Maangani–Poonguzhali marriage / `ஊடல்` discussion and continuation into 247; no new correction required |
+| 247 | 230 | independently confirmed the marriage / `ஊடல்` conclusion, Kurals 1306 and 1309, lineation, Chapter 131 metadata and source glosses; no new correction required |
+| 248 | 231 | independently confirmed the tiger/disguise and cultivator opening, including the source-highlighted `உழுதுண்டு வாழ்வாரே...` Kural block, and continuation into 249; no new correction required |
+| 249 | 232 | corrected source-visible `அந்த வயல்வெளியில் இறங்கி` → `அந்த வயல்களில் இறங்கி`; remaining tiger-skin/cow deception conclusion, Kural 273, lineation and Chapter 28 metadata independently confirmed |
+| 250 | 233 | corrected `பார்த்துப்போமேயென்று` → `பார்ப்போமேயென்று` and `என்றதோடு` → `என்பதோடு`; remaining lovers' quarrel opening and Kural wording/lineation independently confirmed |
+| 251 | 234 | restored source-visible joining `உச்சிக்குச் சென்று` → `உச்சிக்குச்சென்று`; remaining lovers' quarrel conclusion, Kurals 1284 and 1290, lineation and Chapter 129 metadata independently confirmed |
+| 252 | 235 | corrected source-visible `பயன்படுத்துவது` → `பயன்படுவது`; remaining harvest / neglected-field opening independently confirmed; scan 253 witness reconfirms **252→253 genuine continuation** |
+
+Batch 3 corrections were therefore required on scans **249, 250, 251 and 252**. Scans **243, 244, 245, 246, 247 and 248** required no new Pass-2B correction.
+
+Current Part 003 Pass-2B frontier: **30 / 111 scans independently re-read — through scan 252 / printed 235**.
 
 ## Next batch
 
-**Batch 3 — scans 243–252 / printed 226–235 — 10 scans.** Begin after the confirmed clean **242→243** boundary. Use freshly rendered source scans, re-read independently at word/character level, preserve source punctuation/quotation/Kural lineation and metadata, and keep all records at `needs-review` / `visual_fidelity: needs-review`.
+**Batch 4 — scans 253–262 / printed 236–245 — 10 scans.** Begin inside the confirmed genuine **252→253** continuation. Use freshly rendered source scans, re-read independently at word/character level, preserve source punctuation/quotation/Kural lineation and metadata, and keep all records at `needs-review` / `visual_fidelity: needs-review`.
 
 External **333→334** remains deferred until Part 004 source intake.
