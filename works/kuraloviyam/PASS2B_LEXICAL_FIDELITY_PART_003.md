@@ -95,10 +95,29 @@ Batch 3 corrections were therefore required on scans **249, 250, 251 and 252**. 
 
 Batch 4 corrections were therefore required on scans **253 and 261**. Scans **254, 255, 256, 257, 258, 259, 260 and 262** required no new Pass-2B correction.
 
-Current Part 003 Pass-2B frontier: **40 / 111 scans independently re-read — through scan 262 / printed 245**.
+## Batch 5 — overall scans 263–272 / printed pages 246–255
+
+**Status: COMPLETE — 10 / 10 scans independently re-read against freshly rendered source pages for Pass 2B.** Incoming **262→263 genuine continuation** preserved. Scan **273 / printed 256** was inspected only as the outgoing witness and confirms **272→273 as a genuine continuation** of the Ramayana-discourse / caste-and-conduct vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 263 | 246 | independently confirmed the moon/separation conclusion, Kural 1140, lineation and Chapter 114 metadata; no new correction required |
+| 264 | 247 | corrected source-visible `நாட்டோடிப்` → `நாடோடிப்`; remaining Nallaan/Vallaan bear-and-friendship opening and continuation into 265 independently confirmed |
+| 265 | 248 | independently confirmed the Nallaan/Vallaan conclusion, Kural 796, lineation and Chapter 80 metadata; no new correction required |
+| 266 | 249 | independently confirmed the illustrated trade/separation opening and **266→267 genuine continuation**; no new correction required |
+| 267 | 250 | independently confirmed the trade/separation conclusion, Kural 1220, lineation and Chapter 122 metadata; no new correction required |
+| 268 | 251 | independently confirmed the illustrated public water-tank / youths / elder opening and continuation into 269; no new correction required |
+| 269 | 252 | independently confirmed the public water-tank / patient elder conclusion, Kural 155, lineation and Chapter 16 metadata; no new correction required |
+| 270 | 253 | independently confirmed the illustrated Ilamathi / Thirumathi lovers' quarrel opening and continuation into 271; no new correction required |
+| 271 | 254 | independently confirmed the Ilamathi / Thirumathi conclusion, Kural 1327, lineation and Chapter 133 metadata; no new correction required |
+| 272 | 255 | independently confirmed the illustrated Ramayana-discourse / caste-and-conduct opening; no new correction required; scan 273 witness reconfirms **272→273 genuine continuation** |
+
+Batch 5 correction was therefore required only on scan **264**. Scans **263, 265, 266, 267, 268, 269, 270, 271 and 272** required no new Pass-2B correction.
+
+Current Part 003 Pass-2B frontier: **50 / 111 scans independently re-read — through scan 272 / printed 255**.
 
 ## Next batch
 
-**Batch 5 — scans 263–272 / printed 246–255 — 10 scans.** Begin inside the confirmed genuine **262→263** continuation. Use freshly rendered source scans, re-read independently at word/character level, preserve source punctuation/quotation/Kural lineation and metadata, and keep all records at `needs-review` / `visual_fidelity: needs-review`.
+**Batch 6 — scans 273–282 / printed 256–265 — 10 scans.** Begin inside the confirmed genuine **272→273** continuation. Use freshly rendered source scans, re-read independently at word/character level, preserve source punctuation/quotation/Kural lineation and metadata, and keep all records at `needs-review` / `visual_fidelity: needs-review`.
 
 External **333→334** remains deferred until Part 004 source intake.
