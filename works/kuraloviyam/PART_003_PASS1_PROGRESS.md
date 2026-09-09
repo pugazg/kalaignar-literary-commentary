@@ -182,4 +182,4 @@ Pass 1 is physical capture/transcription only and does not make records source-v
 
 Pass 1 is closed and this file is retained as the durable capture history. The active verification frontier is now maintained in `PASS2_TEXTUAL_VERIFICATION_PART_003.md`.
 
-As of the latest synchronization, **Part 003 Pass 2A is ACTIVE — 22 / 111 scans verified through scan 244 / printed 227**. Batch 1 (**223–233**) and Batch 2 (**234–244**) are complete at the user-directed **11-scan cadence**. The exact next verification batch is **245–255 / printed 228–238**, with scan **256 / printed 239** as boundary witness only when needed.
+As of the latest synchronization, **Part 003 Pass 2A is ACTIVE — 33 / 111 scans verified through scan 255 / printed 238**. Batch 1 (**223–233**), Batch 2 (**234–244**) and Batch 3 (**245–255**) are complete at the user-directed **11-scan cadence**. The exact next verification batch is **256–266 / printed 239–249**, with scan **267 / printed 250** as boundary witness only when needed; the known **266→267 genuine continuation** must be preserved.
