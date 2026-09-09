@@ -10,7 +10,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
 | 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | **source intake + Pass 1 COMPLETE — 111/111; Pass 2A ACTIVE — 77/111 verified** |
+| 003 | 223–333 | **source intake + Pass 1 COMPLETE — 111/111; Pass 2A ACTIVE — 99/111 verified** |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
 | 006 | 556–666 | not-started |
@@ -92,13 +92,15 @@ User-directed Pass-2A cadence: **11 physical scans per normal iteration**, with 
 - **Batch 5: scans 267–277 / printed 250–260 — COMPLETE 11/11**; 6 records corrected, scans **268, 270, 272, 274, 276** no-change; **277→278 CLEAN** reconfirmed from scan 278 witness.
 - **Batch 6: scans 278–288 / printed 261–271 — COMPLETE 11/11**; 5 records corrected, scans **278, 280, 282, 284, 286, 288** no-change; **288→289 genuine continuation** reconfirmed from scan 289 witness.
 - **Batch 7: scans 289–299 / printed 272–282 — COMPLETE 11/11**; 6 records corrected, scans **290, 292, 294, 296, 298** no-change; **299→300 CLEAN** reconfirmed from scan 300 witness.
+- **Batch 8: scans 300–310 / printed 283–293 — COMPLETE 11/11**; 5 records corrected, scans **301, 302, 304, 305, 306, 307** no-change; **310→311 CLEAN** reconfirmed from scan 311 witness.
+- **Batch 9: scans 311–321 / printed 294–304 — COMPLETE 11/11**; 7 records corrected, scans **311, 313, 315, 319** no-change; **321→322 CLEAN** reconfirmed from scan 322 witness.
 
-Representative Batch-7 source readings restored include `உற்றது கூறுவீராக`, `அழைத்துக் கொண்டும்`, `பதித்ததால்`, plus source-printed quotation punctuation around Kurals 347, 350, 1269, 521, 1264, 762 and 1218.
+Representative Batch-9 source readings restored include `அணைத்தும்`, `தன்னால் முடியாதது`, `வெளிமாடத்திற்கருகே`, together with source-printed quotation punctuation around Kurals 1247, 1040, 1188, 474 and 1097.
 
-Current Pass-2A frontier: **77 / 111 scans verified through scan 299 / printed 282**. All records remain `needs-review` / `visual_fidelity: needs-review`; later Pass 2B, Pass 3, audit and final synchronization are still required before textual/visual `verified` status.
+Current Pass-2A frontier: **99 / 111 scans verified through scan 321 / printed 304**. All records remain `needs-review` / `visual_fidelity: needs-review`; later Pass 2B, Pass 3, audit and final synchronization are still required before textual/visual `verified` status.
 
 Durable Pass-2A record: `PASS2_TEXTUAL_VERIFICATION_PART_003.md`.
 
 ## Current frontier
 
-**Next activity: Part 003 Pass 2A / Batch 8 — scans 300–310 / printed 283–293, 11 direct textual-verification scans.** Begin after the confirmed clean **299→300** boundary. Inspect scan **311 / printed 294** only as a continuity/boundary witness when necessary; Pass-1 mapping records **310→311 as CLEAN**. Compare source-visible wording, punctuation, paragraph/quotation boundaries, Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata directly against rendered scans. Keep records at `needs-review` / `visual_fidelity: needs-review`; do not normalize or import standard Kural wording.
+**Next activity: Part 003 Pass 2A / Batch 10 — scans 322–332 / printed 305–315, 11 direct textual-verification scans.** Begin after the confirmed clean **321→322** boundary. Inspect scan **333 / printed 316** only as a continuity/boundary witness when necessary; Pass-1 mapping records **332→333 as a genuine continuation**. Compare source-visible wording, punctuation, paragraph/quotation boundaries, Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata directly against rendered scans. Keep records at `needs-review` / `visual_fidelity: needs-review`; do not normalize or import standard Kural wording.
