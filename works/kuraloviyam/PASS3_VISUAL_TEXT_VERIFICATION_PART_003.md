@@ -78,12 +78,43 @@ This is not another lexical reread. Settled wording is not normalized or rewritt
 - Lexical body-text changes: **0**.
 - Status promotion: **0**.
 
+## Batch 3 — scans 245–255 / printed 228–238
+
+**Result: COMPLETE — 11 / 11.**
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 245 | 228 | **NO STRUCTURAL CHANGE** — new illustrated Maangani–Poonguzhali friendship/marriage vignette after the clean 244→245 boundary; multi-scene illustration remains above the short prose opening and the continuation to scan 246 is correctly represented. |
+| 246 | 229 | **NO STRUCTURAL CHANGE** — text-only continuation of the Maangani–Poonguzhali marriage / lovers'-quarrel discussion; paragraph/dialogue flow continues directly to scan 247 as recorded. |
+| 247 | 230 | **NO STRUCTURAL CHANGE** — text-only continuation/close; two set-out Kural blocks remain distinct above Chapter 131 / Kurals 1306, 1309 metadata and the source glosses. |
+| 248 | 231 | **NO STRUCTURAL CHANGE** — large upper tiger-in-field illustration with approaching spear-bearing figures; prose and the set-out Kural block below remain in correct physical order and continue to scan 249. |
+| 249 | 232 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the tiger-skin/cow deception vignette; Kural 273 is a distinct set-out block above Chapter 28 metadata. |
+| 250 | 233 | **NO STRUCTURAL CHANGE** — large upper lovers / mirror illustration with short prose below; set-out Kural block is distinct and the unit continues directly to scan 251. |
+| 251 | 234 | **NO STRUCTURAL CHANGE** — text-only continuation/close; two Kural blocks are distinct and the Chapter 129 metadata correctly closes the three-Kural unit across scans 250–251. |
+| 252 | 235 | **NO STRUCTURAL CHANGE** — large upper harvest illustration with man/woman scene; prose begins below and continues directly to scan 253. |
+| 253 | 236 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the neglected-field vignette; Kural 1039 remains a distinct block above Chapter 104 metadata. |
+| 254 | 237 | **NO STRUCTURAL CHANGE** — large upper illustration of the solitary young woman with two women behind/near her; short prose begins below and continues directly to scan 255. |
+| 255 | 238 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the night-time fear/chastity vignette; Kural 1251 is a distinct block above Chapter 126 metadata. |
+
+### Boundary / continuity result
+
+- Incoming **244→245 remains CLEAN**.
+- **255→256 is CLEAN**, reconfirmed from scan 256 / printed 239: scan 255 closes the night-time fear/chastity unit and scan 256 begins a new illustrated vignette.
+- Scan 256 was used only as the outgoing witness and is **not** counted in Batch 3.
+
+### Batch 3 correction summary
+
+- Structural/visual-description corrections: **0**.
+- No-change scans: **245–255 — 11 pages**.
+- Lexical body-text changes: **0**.
+- Status promotion: **0**.
+
 ## Current Pass-3 frontier
 
-**22 / 111 complete through scan 244 / printed 227.**
+**33 / 111 complete through scan 255 / printed 238.**
 
 All Part-003 records remain `needs-review` / `visual_fidelity: needs-review`.
 
-## Exact next activity — Batch 3
+## Exact next activity — Batch 4
 
-Process **scans 245–255 / printed 228–238 — 11 physical scans**, beginning after the confirmed CLEAN **244→245** boundary. Inspect **scan 256 / printed 239** only as the outgoing boundary/continuity witness when needed. Keep the same visual-text-only gate; do not start the Part audit.
+Process **scans 256–266 / printed 239–249 — 11 physical scans**, beginning after the confirmed CLEAN **255→256** boundary. Inspect **scan 267 / printed 250** only as the outgoing boundary/continuity witness when needed. Keep the same visual-text-only gate; do not start the Part audit.
