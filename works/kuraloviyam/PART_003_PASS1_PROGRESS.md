@@ -171,13 +171,15 @@ The external **333→334** split boundary remains **DEFERRED** until Part 004 so
 
 **Part 003 Pass 1: COMPLETE — 111 / 111 physical scans captured, overall scans 223–333 / printed 206–316.**
 
-All Part 003 Pass-1 records remain:
+All Part 003 page records remain:
 
 - `status: "needs-review"`
 - `visual_fidelity: "needs-review"`
 
 Pass 1 is physical capture/transcription only and does not make records source-verified. Pass 2A, Pass 2B and Pass 3 remain required before final verification metadata may be assigned.
 
-## Exact next activity
+## Superseding active frontier
 
-Begin **Part 003 Pass 2A — direct textual verification** from scan **223 / printed 206**. Follow the established Part 002 precedent with a first **10-scan batch: scans 223–232 / printed 206–215**; inspect scan 233 only as a continuity witness when necessary. Compare every source-visible word, punctuation mark, paragraph/quotation boundary, Kural wording/lineation and printed `அதிகாரம்` / பாடல் metadata directly against the rendered source. Keep page records at `needs-review` / `visual_fidelity: needs-review` during Pass 2A, and create the dedicated Part 003 Pass-2A log when that gate begins.
+Pass 1 is closed and this file is retained as the durable capture history. The active verification frontier is now maintained in `PASS2_TEXTUAL_VERIFICATION_PART_003.md`.
+
+As of the latest synchronization, **Part 003 Pass 2A is ACTIVE — 22 / 111 scans verified through scan 244 / printed 227**. Batch 1 (**223–233**) and Batch 2 (**234–244**) are complete at the user-directed **11-scan cadence**. The exact next verification batch is **245–255 / printed 228–238**, with scan **256 / printed 239** as boundary witness only when needed.
