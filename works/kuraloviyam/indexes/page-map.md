@@ -8,7 +8,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
 | 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **SOURCE INTAKE PASS / COMPLETE; Tamil Pass 1 ACTIVE — 99/111 captured** |
+| 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **SOURCE INTAKE PASS / COMPLETE; Tamil Pass 1 ACTIVE — 110/111 captured** |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
 | 006 | 556–666 | 1–111 | not yet inspected | not-started |
@@ -166,7 +166,13 @@ Current Pass-1 boundary chain:
 - **288→289 genuine continuation** — scan 288 begins the Valluvar / renunciation vignette and scan 289 continues it;
 - **299→300 clean** — scan 299 closes the Mullai-kodi / Mukilan fisher-couple dream vignette and scan 300 begins a new illustrated vignette;
 - **310→311 clean** — scan 310 closes the autobiographical 1982 Madurai-to-Tiruchendur justice-march vignette and scan 311 begins a new illustrated love vignette;
-- **321→322 clean** — scan 321 closes the lovers' quarrel / interpreting-signs vignette with Chapter 110 / Kural 1097 and scan 322 begins a new illustrated classroom / `வலியறிதல்` vignette.
+- **321→322 clean** — scan 321 closes the lovers' quarrel / interpreting-signs vignette with Chapter 110 / Kural 1097 and scan 322 begins a new illustrated classroom / `வலியறிதல்` vignette;
+- **323→324 clean** — scan 323 closes the classroom / `வலியறிதல்` vignette and scan 324 begins a new Iraaman / Annam-Amudham vignette;
+- **325→326 clean** — scan 325 closes the chastity vignette and scan 326 begins the Ezhini / Iniyan love vignette;
+- **327→328 clean** — scan 327 closes the Ezhini / Iniyan vignette and scan 328 begins the solitary-beauty / unused-wealth analogy;
+- **329→330 clean** — scan 329 closes the unused-wealth analogy and scan 330 begins the burden / moral-faults vignette;
+- **331→332 clean** — scan 331 closes the burden / `அழுக்காறு` vignette and scan 332 begins the severe-rule / famine vignette;
+- **332→333 genuine continuation** — scan 332 begins the final visible Part 003 unit and scan 333 continues it.
 
 Outgoing intake witness:
 
@@ -186,18 +192,19 @@ Part 003 Pass 1 user-directed cadence:
 - P3-07: **289–299 / printed 272–282 — COMPLETE**;
 - P3-08: **300–310 / printed 283–293 — COMPLETE**;
 - P3-09: **311–321 / printed 294–304 — COMPLETE**;
-- P3-10: **322–332 / printed 305–315 — NEXT**;
-- final remainder: **333 / printed 316**.
+- P3-10: **322–332 / printed 305–315 — COMPLETE**;
+- final remainder: **333 / printed 316 — NEXT**.
 
-Current Part 003 Pass-1 inventory: **99 / 111 records captured — scans 223–321 / printed 206–304**. All remain `needs-review` / `visual_fidelity: needs-review`.
+Current Part 003 Pass-1 inventory: **110 / 111 records captured — scans 223–332 / printed 206–315**. All remain `needs-review` / `visual_fidelity: needs-review`.
 
-P3-09 source units:
+P3-10 source units:
 
-- **311–312 / 294–295** — love-separation / letter-and-shame; Chapter 125 / Kural 1247;
-- **313–314 / 296–297** — Kaarmegam / land, labour and idleness; Chapter 104 / Kural 1040;
-- **315–316 / 298–299** — Seyizhai / pallor-and-separation; Chapter 119 / Kural 1188;
-- **317–318 / 300–301** — boastful climber / knowing one's strength; Chapter 48 / Kural 474;
-- **319–321 / 302–304** — lovers' quarrel / interpreting-signs; Chapter 110 / Kural 1097.
+- **322–323 / 305–306** — classroom / `வலியறிதல்`; Chapter 48 / Kurals 479, 473;
+- **324–325 / 307–308** — Iraaman / Annam-Amudham chastity; Chapter 6 / Kural 57;
+- **326–327 / 309–310** — Ezhini / Iniyan “Yama” love; Chapter 109 / Kural 1083;
+- **328–329 / 311–312** — solitary-beauty / unused-wealth analogy; Chapter 101 / Kural 1007;
+- **330–331 / 313–314** — burden / moral-faults / `அழுக்காறு`; Chapter 4 / Kural 35;
+- **332 / 315** — severe-rule / famine vignette begins and continues directly to scan 333.
 
 Durable intake: `../SOURCE_INTAKE_PART_003.md`.  
 Durable Pass 1 progress: `../PART_003_PASS1_PROGRESS.md`.
@@ -242,6 +249,11 @@ Durable Pass 1 progress: `../PART_003_PASS1_PROGRESS.md`.
 - **310→311** clean; scan 311 begins a new illustrated love vignette;
 - scan **318 / printed 301** carries a lower-margin blue library stamp kept separate from body text;
 - **321→322** clean; scan 322 begins a new illustrated classroom / `வலியறிதல்` vignette;
+- **323→324** clean; scan 324 begins the Iraaman / Annam-Amudham vignette;
+- **325→326** clean; scan 326 begins the Ezhini / Iniyan love vignette;
+- **327→328** clean; scan 328 begins the solitary-beauty / unused-wealth analogy;
+- **329→330** clean; scan 330 begins the burden / moral-faults vignette;
+- **331→332** clean; scan 332 begins the severe-rule / famine vignette;
 - **332→333** genuine continuation; scans 332–333 form the final visible Part 003 unit;
 - scan **333 / printed 316** closes that unit with Chapter 57 / Kural 567; **333→334** remains deferred.
 
@@ -275,7 +287,7 @@ Part 002:
 Part 003:
 
 - source intake — **PASS / COMPLETE**;
-- Pass 1 — **ACTIVE, 99/111 captured through scan 321 / printed 304**;
+- Pass 1 — **ACTIVE, 110/111 captured through scan 332 / printed 315**;
 - Pass 2A — not-started;
 - Pass 2B — not-started;
 - Pass 3 — not-started;
@@ -289,8 +301,6 @@ Part 003:
 
 **Part 002: Tamil + English CLOSED.**
 
-**Part 003: SOURCE INTAKE COMPLETE / TAMIL PASS 1 ACTIVE — 99/111.**
+**Part 003: SOURCE INTAKE COMPLETE / TAMIL PASS 1 ACTIVE — 110/111.**
 
-User-directed normal Part 003 page-batched iteration size: **11 physical scan pages**.
-
-Exact next activity: **P3-10 — Part 003 Pass 1 scans 322–332 / printed 305–315, 11 page-aligned Tamil records**. Begin scan **322 / printed 305** as the new illustrated classroom / `வலியறிதல்` vignette confirmed by the P3-09 outgoing boundary witness. Use scan **333 / printed 316** only as the outgoing boundary witness; it belongs to the final one-scan remainder and must not be created during P3-10. Preserve the genuine **332→333** continuation. Do not infer the external **333→334** boundary before Part 004 is supplied.
+Exact next activity: **final Part 003 Pass-1 remainder — scan 333 / printed 316, one page-aligned Tamil record**. Begin scan **333 / printed 316** as the direct continuation of the severe-rule / famine vignette begun on scan 332. Create exactly `../pages/0333-kuraloviyam-316.md`, preserve exact visible source wording and Chapter 57 / Kural 567 metadata, keep Pass-1 `needs-review` statuses, and do not infer external **333→334** before Part 004 is supplied.
