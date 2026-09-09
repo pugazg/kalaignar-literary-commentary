@@ -23,9 +23,10 @@ Read before changing anything:
 9. `works/kuraloviyam/indexes/page-map.md`
 10. `works/kuraloviyam/SOURCE_INTAKE_PART_003.md`
 11. `works/kuraloviyam/PART_003_PASS1_PROGRESS.md`
-12. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`
-13. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
-14. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
+12. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md`
+13. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`
+14. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
+15. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
 
 ## Durable closed state
 
@@ -59,7 +60,7 @@ Durable intake: `works/kuraloviyam/SOURCE_INTAKE_PART_003.md`.
 
 Incoming **222→223 is clean**: scan 222 closes the pastoral / `ஆயர்குடி` vignette; scan 223 begins the new illustrated `பேதைமை` vignette.
 
-Part 003 Pass-1 boundaries include:
+Part 003 boundaries include:
 
 - **233→234 genuine continuation**;
 - **244→245 clean**;
@@ -81,7 +82,7 @@ Outgoing **333→334 remains deferred** until Part 004 is supplied.
 
 ## Part 003 Pass 1 — COMPLETE
 
-**111 / 111 scans captured — scans 223–333 / printed 206–316.**
+**111 / 111 scans captured — scans 223–333 / printed 206–316.** All page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"` pending the later verification gates.
 
 Completed capture:
 
@@ -97,39 +98,49 @@ Completed capture:
 - P3-10: **322–332 / printed 305–315 — COMPLETE 11/11**;
 - final remainder: **333 / printed 316 — COMPLETE 1/1**.
 
-All 111 page records exist under `works/kuraloviyam/pages/` and remain at:
-
-- `status: "needs-review"`
-- `visual_fidelity: "needs-review"`
-
-The final record `0333-kuraloviyam-316.md` directly continues scan 332, preserves the source-visible severe-rule / famine conclusion, and closes with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567. Side vertical title/footer furniture is excluded from body text. The external **333→334** boundary is not inferred.
-
 Pass 1 is capture/transcription only. It does **not** make the Part source-verified.
 
-## Next gate — Pass 2A direct textual verification
+## Part 003 Pass 2A — ACTIVE
 
-Pass 2A must directly compare repository wording against rendered scans, including:
+Pass 2A directly compares repository wording against rendered scans, including every source-visible word and punctuation mark, paragraph/quotation boundaries, Kural wording and lineation, printed `அதிகாரம்` / பாடல் metadata, physical continuations and separation of body text from non-body material.
 
-- every source-visible word and punctuation mark;
-- paragraph and quotation boundaries relevant to textual fidelity;
-- Kural wording and printed lineation;
-- printed `அதிகாரம்` / பாடல் metadata;
-- continuations across scan boundaries;
-- separation of printed text from illustrations, page furniture and library marks.
+User directive: **process 11 physical scans per Pass-2A iteration**, with a shorter final remainder if necessary. Workflow boundaries never create textual boundaries.
+
+### Batch 1 — COMPLETE
+
+**Scans 223–233 / printed 206–216 — COMPLETE 11/11.**
+
+Source-supported corrections were committed on scans **223, 224, 225, 226, 227, 228, 230 and 232**. Scans **229, 231 and 233** required no textual correction. The genuine **233→234 continuation** was reconfirmed by inspecting scan 234 as the boundary witness.
+
+Representative exact source readings restored in Batch 1 include:
+
+- scan 223: `ஒருவன்மீது`, `வடித்தளிக்கும்`, `சுருங்கச் சொல்ல வேண்டுமானால்`, `பேதையைப்பற்றி`;
+- scan 224: `கலக்கமில்லை`, `நட்புச் சிறந்தது`, and the source closing sentence beginning `எவ்வளவு மகத்தான உண்மையை, மறைமுகமான நகைச்சுவை ஓவியமாக...`;
+- scan 225: `குறிப்பிடுகிறார்`, `பாலில்`, `அவ்வாறு`, `தழுவிய`, `அவளுக்குத்`;
+- scan 226: `ஐயுற்றுக்` and source quotation punctuation around the three Kural blocks;
+- scan 227: `சற்று நிற்பார்`;
+- scan 228: source quotation punctuation around both Kural blocks;
+- scan 230: `அவனைப் பிரிந்து தன்னந்தனியாகப்`, `அவளருகே கிடக்கும் நீண்ட தலையணையை`, `துன்ப நோயைத்`;
+- scan 232: `எனக் கேட்டுப் பொருள்`, `விலைமாதருடன்`, and exact source Kural ending `ஏதில் பிணந்தழீஇ யற்று.`.
+
+Current Pass-2A frontier: **11 / 111 scans verified — through scan 233 / printed 216**.
+
+Durable Pass-2A log: `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md`.
 
 During Pass 2A, keep records at `status: "needs-review"` / `visual_fidelity: "needs-review"`; final verified statuses require later Pass 2B, Pass 3, audit and final synchronization.
 
-## Exact next activity — Part 003 Pass 2A / Batch 1
+## Exact next activity — Part 003 Pass 2A / Batch 2
 
-Process **overall scans 223–232 / printed 206–215 — 10 scans** as the first direct textual-verification batch, following the established Part 002 Pass-2A precedent.
+Process **overall scans 234–244 / printed 217–227 — 11 scans**.
 
 1. fetch live `main` first;
 2. use the supplied Part 003 controlling PDF and rendered scans directly;
-3. fetch each existing page record before comparison;
-4. correct only source-supported wording/punctuation/paragraph/Kural/metadata differences;
-5. inspect scan **233 / printed 216** only as a continuity witness when needed because 233 begins a vignette that continues to 234;
-6. create/update the dedicated `PASS2_TEXTUAL_VERIFICATION_PART_003.md` log when the gate begins;
-7. keep textual and visual statuses at `needs-review` throughout Pass 2A;
-8. audit the exact changed-file set before advancing.
+3. preserve the genuine **233→234** continuation at entry;
+4. fetch each existing page record before comparison;
+5. correct only source-supported wording/punctuation/paragraph/Kural/metadata differences;
+6. inspect scan **245 / printed 228** only as a continuity/boundary witness when needed;
+7. update `PASS2_TEXTUAL_VERIFICATION_PART_003.md` with every correction/no-change result;
+8. keep textual and visual statuses at `needs-review` throughout Pass 2A;
+9. audit the exact changed-file set before advancing.
 
 Do not begin Pass 2B until Pass 2A has covered all 111 Part 003 scans. English remains blocked until Tamil archival closure.
