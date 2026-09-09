@@ -36,7 +36,7 @@ Read completely before changing anything:
 - Part 003 source intake: **PASS / COMPLETE**.
 - Part 003 Pass 1: **COMPLETE — scans 223–333 / 111 of 111 captured**.
 - Part 003 Pass 2A: **COMPLETE — scans 223–333 / 111 of 111 directly verified**.
-- Part 003 Pass 2B: **ACTIVE — 40/111 independently re-read through scan 262 / printed 245**.
+- Part 003 Pass 2B: **ACTIVE — 50/111 independently re-read through scan 272 / printed 255**.
 - Part 003 Pass 3, audit and Tamil archival-ready: **not-started**.
 - English remains **blocked until Tamil closure**.
 
@@ -101,31 +101,32 @@ Normal Pass-2B cadence: **10 physical scans per batch**, with a shorter final re
 
 ## Pass 2B Batch 4 — COMPLETE
 
-**Scans 253–262 / printed 236–245 — COMPLETE 10/10.** Scan **263 / printed 246** was inspected only as the outgoing witness and reconfirms **262→263 genuine continuation**.
+**Scans 253–262 / printed 236–245 — COMPLETE 10/10.** Corrections on scans **253 and 261**; scans **254, 255, 256, 257, 258, 259, 260 and 262** no-change; **262→263 genuine continuation** reconfirmed from scan 263 witness.
 
-New Pass-2B corrections:
+## Pass 2B Batch 5 — COMPLETE
 
-- scan **253** — `எண்ணெய் அறியாக` → `எண்ணெய் அறியாத`; source-visible spacing `மூடிவான்` → `மூடி வான்`;
-- scan **261** — source-visible spacing `உட்காரவைத்துப் பருகுவதற்குப்` → `உட்காரவைத்து பருகுவதற்குப்`.
+**Scans 263–272 / printed 246–255 — COMPLETE 10/10.** New Pass-2B correction:
 
-Scans **254, 255, 256, 257, 258, 259, 260 and 262** required no new Pass-2B correction.
+- scan **264** — `நாட்டோடிப்` → `நாடோடிப்`.
+
+Scans **263, 265, 266, 267, 268, 269, 270, 271 and 272** required no new Pass-2B correction. Scan **273 / printed 256** was inspected only as the outgoing witness and reconfirms **272→273 genuine continuation**.
 
 Durable Pass-2B record: `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md`.
 
-## Exact next activity — Part 003 Pass 2B / Batch 5
+## Exact next activity — Part 003 Pass 2B / Batch 6
 
-Process **scans 263–272 / printed 246–255 — 10 physical scans** in one independent lexical-fidelity iteration.
+Process **scans 273–282 / printed 256–265 — 10 physical scans** in one independent lexical-fidelity iteration.
 
 Requirements:
 
 1. fetch live `main` first;
-2. resolve the supplied Part 003 PDF and freshly render/inspect scans **263–272** directly;
-3. begin inside confirmed **262→263 genuine continuation**;
-4. fetch current page records `0263`–`0272` before comparison;
+2. resolve the supplied Part 003 PDF and freshly render/inspect scans **273–282** directly;
+3. begin inside confirmed **272→273 genuine continuation**;
+4. fetch current page records `0273`–`0282` before comparison;
 5. independently re-read every source-visible word and punctuation mark using the Pass-2B rules above;
 6. independently reconfirm Kural text/lineation, paragraph/quotation boundaries and printed metadata;
 7. make only direct source-supported corrections;
-8. inspect scan **273 / printed 256** only as the outgoing boundary witness if needed;
+8. inspect scan **283 / printed 266** only as the outgoing boundary witness if needed;
 9. update `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md` and log every correction/no-change result;
 10. keep all records at `needs-review` / `visual_fidelity: needs-review`;
 11. audit the exact changed-file set before advancing;
