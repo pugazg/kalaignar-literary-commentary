@@ -224,20 +224,31 @@ Exact font, colour and artwork recreation are not required. Rewrite a page recor
 - status promotions: **0**;
 - outgoing scan **300 / printed 283** witness reconfirms **299→300 CLEAN**.
 
+### Pass 3 Batch 8 — COMPLETE
+
+**Scans 300–310 / printed 283–293 — 11/11.**
+
+- scan **302**: structural/page-furniture clarification only — the large red decorative pavilion/monument below Chapter 62 / Kural 617 is now recorded in `visual_notes` instead of describing the page as text-only;
+- scan **303**: structural/visual-description correction only — the upper illustration is an embracing couple in an intimate indoor setting by an open/moonlit window; the prior note incorrectly described two women;
+- scans **300–301, 304–310**: no structural correction required;
+- lexical body-text changes: **0**;
+- status promotions: **0**;
+- outgoing scan **311 / printed 294** witness reconfirms **310→311 CLEAN**.
+
 Durable Pass-3 record: `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`.
 
-Current Pass-3 frontier: **77 / 111 through scan 299 / printed 282**.
+Current Pass-3 frontier: **88 / 111 through scan 310 / printed 293**.
 
-## Exact next activity — Part 003 Pass 3 / Batch 8
+## Exact next activity — Part 003 Pass 3 / Batch 9
 
-Process **overall scans 300–310 / printed 283–293 — 11 scans**, beginning after the confirmed CLEAN **299→300** boundary.
+Process **overall scans 311–321 / printed 294–304 — 11 scans**, beginning after the confirmed CLEAN **310→311** boundary.
 
 1. fetch live `main` first;
 2. use the supplied Part 003 controlling PDF and freshly rendered scans directly;
-3. fetch current page records **0300–0310** before comparison;
+3. fetch current page records **0311–0321** before comparison;
 4. verify meaningful visual-text fidelity using the Pass-3 rules above;
 5. make only source-supported **structural** corrections; do not repeat or alter settled lexical wording unless a genuinely new direct-source issue is discovered and explicitly logged;
-6. inspect scan **311 / printed 294** only as the outgoing continuity/boundary witness when needed;
+6. inspect scan **322 / printed 305** only as the outgoing continuity/boundary witness when needed;
 7. update the Part-003 Pass-3 durable log;
 8. keep textual and visual statuses at `needs-review`;
 9. audit the exact changed-file set before advancing.
