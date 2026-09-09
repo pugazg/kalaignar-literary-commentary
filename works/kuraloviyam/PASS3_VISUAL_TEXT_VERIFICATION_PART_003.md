@@ -109,12 +109,43 @@ This is not another lexical reread. Settled wording is not normalized or rewritt
 - Lexical body-text changes: **0**.
 - Status promotion: **0**.
 
+## Batch 4 — scans 256–266 / printed 239–249
+
+**Result: COMPLETE — 11 / 11.**
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 256 | 239 | **NO STRUCTURAL CHANGE** — large upper fire/rescue illustration with the destitute man and helpers; prose begins below after the clean 255→256 boundary and continues directly to scan 257. |
+| 257 | 240 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the poverty/fire vignette; Kural 1049 is a distinct block above Chapter 105 metadata, with the small red decorative monument kept as page furniture below. |
+| 258 | 241 | **NO STRUCTURAL CHANGE** — large upper pottery-yard illustration with earthen pots and the three figures; short prose begins below and continues mid-sentence to scan 259. |
+| 259 | 242 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the pottery/lovers vignette; two Kural blocks remain distinct above Chapter 113 / Kurals 1126, 1125 metadata. |
+| 260 | 243 | **CORRECTED** — upper illustration independently re-read as the later reunion: adult Alagan embraces his ill uncle while the aunt stands beside them; `visual_notes` now records that the illustration anticipates the later episode while the prose below begins with Alagan's childhood. Body wording and review flags unchanged. |
+| 261 | 244 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Alagan/orphan vignette; Kural 129 is a distinct block above Chapter 13 metadata. |
+| 262 | 245 | **NO STRUCTURAL CHANGE** — large upper moon/reflection illustration with the lover in profile; prose begins below and continues directly to scan 263. |
+| 263 | 246 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the moon/separation vignette; Kural 1140 is a distinct block above Chapter 114 metadata. |
+| 264 | 247 | **NO STRUCTURAL CHANGE** — large upper forest/bear illustration with one traveller prone and the other up the tree; prose begins below and continues directly to scan 265. |
+| 265 | 248 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Nallaan/Vallaan bear-and-friendship vignette; Kural 796 remains a distinct block above Chapter 80 metadata. |
+| 266 | 249 | **NO STRUCTURAL CHANGE** — large upper separation/remembrance illustration with short prose below; trade/separation vignette begins and continues directly to scan 267. |
+
+### Boundary / continuity result
+
+- Incoming **255→256 remains CLEAN**.
+- **266→267 is a genuine continuation**, reconfirmed from scan 267 / printed 250 as the outgoing witness.
+- Scan 267 was used only as the outgoing witness and is **not** counted in Batch 4.
+
+### Batch 4 correction summary
+
+- Structural/visual-description corrections: **1 page — scan 260**.
+- No-change scans: **256–259, 261–266 — 10 pages**.
+- Lexical body-text changes: **0**.
+- Status promotion: **0**.
+
 ## Current Pass-3 frontier
 
-**33 / 111 complete through scan 255 / printed 238.**
+**44 / 111 complete through scan 266 / printed 249.**
 
 All Part-003 records remain `needs-review` / `visual_fidelity: needs-review`.
 
-## Exact next activity — Batch 4
+## Exact next activity — Batch 5
 
-Process **scans 256–266 / printed 239–249 — 11 physical scans**, beginning after the confirmed CLEAN **255→256** boundary. Inspect **scan 267 / printed 250** only as the outgoing boundary/continuity witness when needed. Keep the same visual-text-only gate; do not start the Part audit.
+Process **scans 267–277 / printed 250–260 — 11 physical scans**, beginning inside the confirmed genuine **266→267** continuation. Inspect **scan 278 / printed 261** only as the outgoing boundary/continuity witness when needed. Keep the same visual-text-only gate; do not start the Part audit.
