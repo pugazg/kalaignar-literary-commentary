@@ -40,10 +40,12 @@ Read completely before changing anything:
 - Part 003 English source-check SC1: **COMPLETE 33/33 — scans 223–255 / printed 206–238**.
 - Part 003 English source-check SC2: **COMPLETE 33/33 — scans 256–288 / printed 239–271**.
 - Part 003 English source-check SC3: **COMPLETE 33/33 — scans 289–321 / printed 272–304**.
-- cumulative source-check: **99/111**.
-- current Part-003 English state: **99 `source-checked` + 12 `draft` / 0 source-limited / 0 blocked**.
+- Part 003 English source-check SC4: **COMPLETE 12/12 — scans 322–333 / printed 305–316 / FINAL REMAINDER**.
+- cumulative source-check: **111/111 COMPLETE / CLOSED**.
+- current Part-003 English state: **111 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**.
 - remaining undrafted pages: **0**.
-- glossary reconciliation / editorial review / Part review / release: **not-started**.
+- glossary reconciliation: **NEXT / not-started**.
+- editorial review / Part review / release: **not-started**.
 
 D4 page commit: `f43d41d57622abdda7a9de63effe39697362629e`; its 12 page records were reconciled into live main with the drafting-completion controls. No Tamil files changed.
 
@@ -93,35 +95,36 @@ For source-check:
 - do not import standard/published/web English Kural wording;
 - do not use source-check for stylistic rewriting unrelated to fidelity.
 
-## Source-check results through SC3 — COMPLETE / PASS
+## Source-check results through SC4 — COMPLETE / CLOSED
 
 - SC1 **223–255 / 206–238 — 33/33 source-checked**;
 - SC2 **256–288 / 239–271 — 33/33 source-checked**;
 - SC3 **289–321 / 272–304 — 33/33 source-checked**;
-- cumulative source-check **99/111**;
-- current English state **99 source-checked + 12 draft / 0 source-limited / 0 blocked**.
+- SC4 **322–333 / 305–316 — 12/12 source-checked / FINAL REMAINDER**;
+- cumulative source-check **111/111 COMPLETE / CLOSED**;
+- current English state **111 source-checked / 0 draft / 0 source-limited / 0 blocked**.
 
-SC3 source-fidelity corrections were limited to scans **295, 299, 302, 309→310 and 320**. The page-only gate changed exactly 33 English records and no Tamil record. Incoming **288→289** remains a genuine continuation closed on scan 289. Outgoing **321→322 is CLEAN**.
+SC4 source-fidelity corrections were limited to scan **327** (Monday-market sense), scans **328→329** (exact physical-page continuation), and scan **333** (side title/footer page furniture). The page-only gate changed exactly 12 English records and no Tamil record. Incoming **321→322 is CLEAN**; **332→333** remains a genuine continuation closed on scan 333.
 
-## Exact next activity — Part 003 English Source-check SC4
+SC4 page commit: `e07a6775513bcf1619e5d1bcb6e8222f7004f0a8`.
 
-Process **scans 322–333 / printed 305–316 — final 12 page-aligned records**.
+## Exact next activity — Part 003 English Glossary Reconciliation GR1
+
+Process **scans 223–255 / printed 206–238 — 33 page-aligned records**.
 
 Requirements:
 
 1. fetch live `main` first and preserve newer durable work;
 2. confirm `PART_003_TAMIL_ARCHIVAL_READY.md` remains **PASS / CLOSED**;
-3. confirm `translations/en/TRANSLATION_STATUS.md` records source-check **99/111 cumulative**;
-4. read English records **0322–0333** and matching audited Tamil records completely;
-5. compare each page paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural wording/lineation, visual/non-body page function and cross-page continuity;
-6. correct only source-fidelity issues supported by the audited Tamil records;
-7. keep `source_tamil_status: "verified"` and promote only passing pages from `draft` to `source-checked`;
-8. preserve incoming **321→322 CLEAN**, internal **332→333 genuine continuation**, and the Part end at scan **333**;
-9. do not alter any Tamil page record or Tamil metadata;
-10. do not begin glossary reconciliation or editorial review during SC4;
-11. update `translations/en/TRANSLATION_STATUS.md` after the batch;
-12. audit the exact changed-file set before advancing.
+3. confirm `translations/en/TRANSLATION_STATUS.md` records source-check **111/111 COMPLETE / CLOSED**;
+4. read `translations/en/GLOSSARY.md` and English records **0223–0255** with their matching audited Tamil records;
+5. reconcile recurring names, work/section names, controlled literary terms, publication names, chapter labels, citation metadata and repeated English renderings against the glossary and audited Tamil context;
+6. update `GLOSSARY.md` only for terms actually evidenced in Part 003;
+7. do not mechanically force one English rendering where context requires a different one;
+8. do not import standard/published/web English Kural wording, another edition's terminology, or memory;
+9. this gate does **not** promote `source-checked` pages to `editorial-reviewed`;
+10. do not alter Tamil page records or Tamil metadata;
+11. do not begin editorial review during GR1;
+12. update `translations/en/TRANSLATION_STATUS.md` and audit the exact changed-file set before advancing.
 
-If SC4 passes, Part-003 English source-check becomes **111/111 COMPLETE / CLOSED**. The next gate is **glossary / recurring-terminology reconciliation**, beginning with **scans 223–255 / printed 206–238** under the current 33-page cadence.
-
-External **333→334** remains deferred until Part 004 source intake. Part 004 remains blocked until Part 003 completes the maintained English workflow and final Part closure checkpoint.
+Part 004 remains blocked until Part 003 completes glossary reconciliation, editorial review, Part review, release report/release-ready synchronization and final Part closure. External **333→334** remains deferred until Part 004 source intake.
