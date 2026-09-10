@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 003 documentation synchronization COMPLETE — 111/111 textual + visual verified; Tamil archival-ready checkpoint next**: **2026-09-10**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
+Last refreshed for Kuraloviyam **Part 003 Tamil ARCHIVAL-READY / CLOSED; English drafting + source-check CLOSED; glossary GR1 COMPLETE 33/111, GR2 next**: **2026-09-10**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
 
 ## Repository
 
@@ -288,14 +288,28 @@ Durable status-sync record: `works/kuraloviyam/PART_003_FINAL_STATUS_SYNC.md`.
 
 Part 003 live control documents now agree with the durable audit and final-status records: **111 textual verified + 111 visual verified / 0 partial / 0 source-limited / 0 needs-review / 0 unresolved status exceptions**. Durable record: `works/kuraloviyam/PART_003_DOCUMENTATION_SYNC.md`.
 
+# Part 003 maintained English state — குறளோவியம்
+
+- Tamil: **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**;
+- English first-pass drafting: **111/111 COMPLETE / CLOSED**;
+- English source-check: **111/111 COMPLETE / CLOSED**;
+- English glossary reconciliation: **IN PROGRESS — GR1 scans 223–255 / printed 206–238 COMPLETE / PASS 33/33**;
+- cumulative glossary reconciliation: **33/111**;
+- all 111 English pages remain `source-checked`; editorial review is not started;
+- GR1 changed no English page wording or status and no Tamil record.
+
 # Exact next activity — குறளோவியம்
 
-Perform the separate **Part 003 Tamil archival-ready checkpoint**.
+Perform **Part 003 English Glossary Reconciliation GR2 — scans 256–288 / printed 239–271, 33 pages**.
 
 1. fetch live `main`;
-2. confirm the Part-003 audit is **PASS**, final metadata/status synchronization is **PASS / CLOSED**, and documentation synchronization is **COMPLETE**;
-3. follow `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md` as precedent;
-4. verify the final distribution **111 textual verified + 111 visual verified / 0 exceptions** and the closed internal **332→333** continuation;
-5. create `works/kuraloviyam/PART_003_TAMIL_ARCHIVAL_READY.md` without changing Tamil text or page records;
-6. keep external **333→334** deferred until Part 004 source intake;
-7. only after Tamil archival closure may the maintained Part-003 English workflow begin.
+2. read the Kuraloviyam mandatory controls, English `TRANSLATION_GUIDE.md`, `TRANSLATION_STATUS.md`, and `GLOSSARY.md`;
+3. confirm Tamil remains closed, source-check remains 111/111 closed, and GR1 remains 33/111 complete;
+4. reconcile recurring names, structural/literary terms, chapter labels, citation metadata and repeated renderings against the audited Tamil context;
+5. update the glossary only for source-evidenced terms;
+6. do not import external/published/web terminology or remembered Kural wording;
+7. do not promote page statuses or begin editorial review during GR2;
+8. do not alter Tamil records;
+9. audit the exact changed-file set before advancing.
+
+If GR2 passes, cumulative glossary reconciliation becomes **66/111**. Part 004 remains blocked until the maintained Part-003 English workflow and final Part closure checkpoint are complete. External **333→334** remains deferred until Part 004 source intake.

@@ -39,7 +39,7 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | பாவம் / புண்ணியம் | sin / merit | Preserve the contrast when the source discusses the palanquin interpretation on scans 50–51; do not infer doctrine beyond the audited passage. |
 | பல்லக்கு / சிவிகை | palanquin | `பல்லக்கு` is used in the narrative and `சிவிகை` in the quoted Kural on scans 50–51; use the same object term in English. |
 | செங்கோல் | just sceptre / sceptre of righteous rule | Context-aware political image on scans 76 and 84. Preserve the sceptre metaphor when the source contrasts righteous governance with oppressive or military power. |
-| ஊடல் | lovers' quarrel | Controlled contextual rendering in the love-poetics discussion. |
+| ஊடல் | lovers' quarrel / sulking | Context-aware. Use **lovers' quarrel** for reciprocal love-poetics contexts; Part 003 scan 253 uses **sulking** for the state of offended withdrawal in the wife/field analogy. |
 | கூடல் | lovers' union | Controlled contextual rendering in the love-poetics discussion. |
 | காம நோய் | love-sickness | Recurring love-poetics term on scans 89–90; use for the named condition, while a later pronoun/general `நோய்` may naturally be `illness`. |
 | பதர் / பதடி / நெற்பதர் | chaff | Scans 66–67 deliberately extend the grain term to a human metaphor; preserve `chaff` for that contrast. The source itself glosses `பதடி = பதர்`. Part 002 scan 134 uses `நெற்பதர்` in a quoted song; keep the same controlled **chaff** term rather than `paddy-chaff`. |
@@ -71,7 +71,7 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | வினைத்திட்பம் | Firmness in Action | Chapter 67 label on scan 47. |
 | தனிப்படர் மிகுதி / தனிப்படர்மிகுதி | The Agony of Solitary Love | Chapter 120 label on scan 49; Part 002 scan 165 uses the closed source variant `தனிப்படர்மிகுதி` with the same controlled English label. |
 | அறன் வலியுறுத்தல் | The Insistence on Virtue | Chapter 4 label on scan 51. |
-| நலம் புனைந்துரைத்தல் | Praising Her Beauty | Chapter 112 label cited on scans 55 and 71. |
+| நலம் புனைந்துரைத்தல் / நலம்புனைந்துரைத்தல் | Praising Her Beauty | Chapter 112 label on scans 55 and 71; Part 003 scan 238 uses the closed source form `நலம்புனைந்துரைத்தல்`. |
 | புணர்ச்சி மகிழ்தல் | The Joy of Union | Chapter 111 label on scan 55. |
 | உட்பகை | Internal Enmity | Chapter 89 label on scan 57. |
 | வான்சிறப்பு | The Excellence of Rain | Chapter 2 label on scan 59. |
@@ -376,6 +376,33 @@ GR4 processed the **final 30-page remainder: scans 193–222 / printed 176–205
 - no page status changed from `source-checked`, no Tamil archival record changed, and no external/published/web English terminology was imported.
 
 **Part 002 glossary reconciliation is COMPLETE — 111/111 scans.**
+
+## Thirukkural chapter labels first encountered in Part 003 through GR1
+
+| Tamil | Default English | Editorial note |
+|---|---|---|
+| பேதைமை | Folly | Chapter 84 label on scan 224. |
+| பொறையுடைமை | Forbearance | Chapter 16 label on scan 228. |
+| வரைவின் மகளிர் | Women of Mercenary Love | Chapter 92 label on scan 232. |
+| விருந்தோம்பல் | Hospitality | Chapter 9 label on scan 236. |
+| கள்ளுண்ணாமை | Abstaining from Liquor | Chapter 93 label on scan 240. |
+| உழவு | Agriculture | Chapter 104 label on scans 244 and 253. |
+
+The Chapter 112 source variant `நலம்புனைந்துரைத்தல்` on scan **238** is mapped to the existing controlled **Praising Her Beauty** label rather than creating a duplicate English chapter title. Existing controls reused unchanged in GR1 include **Lamenting the Absent Lover**, **Subtleties of Lovers' Quarrel**, **Loss of Restraint**, **Refraining from Slander**, **Speaking with the Heart**, **Reproaching the Eyes**, **Suffering from Pallor**, **The Blessing of Children**, **Lovers' Sulking**, **False Conduct**, and **Yearning for Union**.
+
+## Part 003 GR1 reconciliation record — scans 223–255
+
+GR1 processed **33 consecutive pages: scans 223–255 / printed 206–238**.
+
+- scans **223–255** — glossary / recurring-terminology reconciliation **PASS, 33/33**;
+- all **20** Chapter/Kural metadata lines in the range were checked against their audited Tamil counterparts with **0 chapter-number, Kural-number, or controlled-label mismatches**;
+- source-evidenced chapter controls added in this gate: **Folly**, **Forbearance**, **Women of Mercenary Love**, **Hospitality**, **Abstaining from Liquor**, and **Agriculture**;
+- the closed source variant `நலம்புனைந்துரைத்தல்` is now explicitly mapped to **Praising Her Beauty**;
+- `ஊடல்` is retained contextually as **lovers' quarrel / sulking**, with scan **253** establishing the latter sense in the wife/field analogy rather than forcing one English wording mechanically;
+- contextual review confirmed that scan **223** `செங்கோல்` is naturally **royal sceptre** in the madman's self-styled-king speech, scan **235** `கல்வி` is ordinary study/education rather than a Chapter-40 label, scan **243** `வீரன்` is the common noun **warrior**, and scan **247** `விளக்கம்` is naturally expressed by **explained**; no page wording change was required for those contexts;
+- English page wording corrections required solely for GR1 terminology consistency: **none**;
+- all 33 English pages remain `source-checked`; this gate makes **no status promotion**;
+- no Tamil archival record changed and no external/published/web English terminology was imported.
 
 ## Review rule
 

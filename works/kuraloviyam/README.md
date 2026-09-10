@@ -168,6 +168,14 @@ Durable final-status record: `PART_003_FINAL_STATUS_SYNC.md`.
 
 Durable documentation-sync record: `PART_003_DOCUMENTATION_SYNC.md`.
 
+## Current durable state
+
+- Part 003 Tamil: **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**;
+- Part 003 English drafting: **111/111 COMPLETE / CLOSED**;
+- Part 003 English source-check: **111/111 COMPLETE / CLOSED**;
+- Part 003 English glossary reconciliation: **IN PROGRESS — GR1 COMPLETE 33/111**;
+- all 111 English pages remain `source-checked`; editorial review has not started.
+
 ## Current frontier
 
-**Next activity: Part 003 Tamil archival-ready checkpoint.** Follow `PART_002_TAMIL_ARCHIVAL_READY.md` as precedent, confirm the complete closed evidence chain and final **111 textual verified + 111 visual verified / 0 exceptions** distribution, create `PART_003_TAMIL_ARCHIVAL_READY.md`, and do not alter Tamil wording, Kural text, page structure or page metadata. English remains blocked until that Tamil checkpoint closes. External **333→334** remains deferred until Part 004 source intake.
+**Next activity: Part 003 English glossary reconciliation GR2 — scans 256–288 / printed 239–271, 33 pages.** Reconcile recurring terminology, names, chapter labels and citation metadata against `translations/en/GLOSSARY.md` and the audited Tamil context. The glossary gate does not promote English page statuses. Do not alter closed Tamil records or begin editorial review. External **333→334** remains deferred until Part 004 source intake.

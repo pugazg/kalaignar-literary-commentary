@@ -64,7 +64,7 @@ Incoming **222→223 is CLEAN**. Internal **332→333** is a genuine continuatio
 - post-drafting state: **111 `draft` / 0 source-limited / 0 blocked**;
 - source-check: **111/111 COMPLETE / CLOSED**;
 - current English state: **111 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**;
-- glossary reconciliation: **NEXT / not-started**;
+- glossary reconciliation: **IN PROGRESS — GR1 COMPLETE 33/111**;
 - editorial review / Part review / release: **not-started**.
 
 All 111 English pages preserve page alignment, visual/non-body descriptions, Kural block separation and source-supported cross-page continuities. The known **332→333** continuation is preserved and closed within Part 003. No Tamil archival record changed.
@@ -82,12 +82,20 @@ SC4 source-fidelity reconciliation corrected the Monday-market sense on scan **3
 
 SC4 page commit: `e07a6775513bcf1619e5d1bcb6e8222f7004f0a8`.
 
+## Part 003 English glossary reconciliation — IN PROGRESS
+
+- GR1 **223–255 / 206–238 — COMPLETE / PASS 33/33**;
+- cumulative glossary reconciliation: **33/111**;
+- English pages remain **111 `source-checked`**; GR1 made **0 page wording changes and 0 status changes**.
+
+GR1 added the Part-003-first chapter controls **Folly**, **Forbearance**, **Women of Mercenary Love**, **Hospitality**, **Abstaining from Liquor**, and **Agriculture**; mapped source variant `நலம்புனைந்துரைத்தல்` to existing **Praising Her Beauty**; and refined `ஊடல்` contextually as **lovers' quarrel / sulking**. No Tamil archival record changed.
+
 ## Current frontier
 
-Exact next activity: **Part 003 English glossary reconciliation GR1 — scans 223–255 / printed 206–238, 33 pages**.
+Exact next activity: **Part 003 English glossary reconciliation GR2 — scans 256–288 / printed 239–271, 33 pages**.
 
 Use `GLOSSARY.md` and audited Tamil context to reconcile recurring names, literary/structural terms, publication names, chapter labels, citation metadata and repeated English renderings. Add glossary entries only when evidenced in the active source. This gate does **not** promote pages to `editorial-reviewed`; pages remain `source-checked` until editorial review.
 
-After GR1, continue with GR2 under the current 33-page cadence. Part 004 remains blocked until the maintained Part-003 English workflow and final Part closure checkpoint are complete.
+If GR2 passes, cumulative glossary reconciliation becomes **66/111**. Part 004 remains blocked until the maintained Part-003 English workflow and final Part closure checkpoint are complete.
 
 See `TRANSLATION_STATUS.md` for the authoritative detailed frontier.

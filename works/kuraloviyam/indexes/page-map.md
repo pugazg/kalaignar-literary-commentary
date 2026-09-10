@@ -195,7 +195,7 @@ Part 003 Pass 1 capture:
 - P3-10: **322–332 / printed 305–315 — COMPLETE**;
 - final remainder: **333 / printed 316 — COMPLETE**.
 
-Current Part 003 Pass-1 inventory: **111 / 111 records captured — scans 223–333 / printed 206–316**. All remain `needs-review` / `visual_fidelity: needs-review` pending final metadata/status synchronization.
+Current Part 003 archival inventory: **111 / 111 records — scans 223–333 / printed 206–316**. Final metadata/status synchronization set all records to `status: "verified"` / `visual_fidelity: "verified"`; Tamil is **ARCHIVAL-READY / CLOSED** with 0 exceptions.
 
 Final Pass-1 source unit:
 
