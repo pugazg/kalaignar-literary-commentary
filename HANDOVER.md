@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 003 TAMIL + ENGLISH CLOSED — final checkpoint PASS / CLOSED; Part 004 source intake next when supplied**: **2026-09-10**.
+Last refreshed for Kuraloviyam **Part 004 SOURCE INTAKE PASS / COMPLETE — P4-01 scans 334–344 next**: **2026-09-10**.
 
 ## Repository
 
@@ -177,138 +177,31 @@ Do not restart Pass 1. Do not resume scan-led lexical Pass 2 at scan 14.
 
 # Active source-ready work — குறளோவியம்
 
-## Mandatory startup — குறளோவியம்
+## LIVE MAIN IS AUTHORITATIVE
 
-Before Kuraloviyam repository changes, read completely:
+Fetch live `main` first. Parts **001–003 are CLOSED** and must not be reopened from stale prompts unless a genuinely new source/provenance/fidelity issue appears.
 
-1. `LITERARY_COMMENTARY_PROCESSING_GUIDE.md`
-2. `KURALOVIYAM_ARCHIVAL_GUIDELINES.md`
-3. root `HANDOVER.md`
-4. `NEXT_CHAT_PROMPT_KURALOVIYAM.md`
-5. `works/kuraloviyam/HANDOVER.md`
-6. `works/kuraloviyam/README.md`
-7. `works/kuraloviyam/metadata/source.md`
-8. `works/kuraloviyam/metadata/transcription-policy.md`
-9. `works/kuraloviyam/indexes/page-map.md`
-10. `works/kuraloviyam/SOURCE_INTAKE_PART_003.md`
-11. `works/kuraloviyam/PART_003_PASS1_PROGRESS.md`
-12. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md`
-13. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md`
-14. `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`
-15. `works/kuraloviyam/PART_003_AUDIT.md`
-16. `works/kuraloviyam/PART_003_FINAL_STATUS_SYNC.md`
-17. `works/kuraloviyam/PART_003_DOCUMENTATION_SYNC.md`
-18. `works/kuraloviyam/PART_002_FINAL_STATUS_SYNC.md` as metadata-sync precedent
-19. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md` as archival-ready precedent
-20. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
-21. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
+## Current Part 004 source
 
-## Kuraloviyam source family
+Controlling split: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf`
 
-- source family: `TVA_BOK_0065733`
-- title: **குறளோவியம்**
-- author: **கலைஞர் மு. கருணாநிதி**
-- complete source extent reported by user: **666 physical PDF pages**
-- split plan: **6 parts × 111 pages**
-- repository `scan_page` always uses overall 1–666 numbering.
-
-## Closed state
-
-- Part 001 Tamil: **CLOSED / archival-ready**.
-- Part 001 English: **CLOSED — 107 release-ready + 4 source-limited**.
-- Part 002 Tamil: **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified**.
-- Part 002 English: **RELEASE COMPLETE / CLOSED — 111/111 release-ready**.
-
-Do not reopen Part 001 or Part 002 from stale prompts unless a genuinely new source/provenance/fidelity problem appears.
-
-## Part 003 — active source
-
-Controlling source:
-
-`TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf`
-
-Confirmed identity:
-
+- source family: `TVA_BOK_0065733`;
 - local pages: **111**;
-- overall scans: **223–333**;
-- printed pages: **206–316**;
-- file size: **93,488,924 bytes**;
-- SHA-256: `f07e7cdb3a6e786b0378e00bbe699a241be41c9e099c004a4faa90fa82b4239f`;
-- no usable parsed text layer; rendered scans controlled the completed source-verification passes.
+- overall scans: **334–444**;
+- visible printed pages: **317–427**;
+- file size: **91,513,473 bytes**;
+- SHA-256: `5b7fcc65f19dc3d2a57bebb13cdfb02d0c83f70a5ccc9e537886790908674581`;
+- parsed text layer: **none usable**; rendered scans control transcription.
 
-Source intake: **PASS / COMPLETE**.
+Part 004 source intake is **PASS / COMPLETE**. Durable records:
 
-## Part 003 Pass 1 — COMPLETE
+- `works/kuraloviyam/SOURCE_INTAKE_PART_004.md`;
+- `works/kuraloviyam/PART_004_PASS1_PROGRESS.md`.
 
-**111 / 111 scans captured — overall scans 223–333 / printed 206–316.**
+The previously deferred **333→334** boundary is now **CLEAN / source-resolved**: scan 333 closes the Part-003 Chapter 57 / Kural 567 vignette; scan 334 begins a new illustrated lovers/eye-blame vignette, which closes on scan 335 with Chapter 118 / Kural 1174.
 
-Final boundary state: **332→333 genuine continuation**. Scan 333 closes the severe-rule / famine unit with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567. External **333→334 remains deferred** until Part 004 intake.
+External **444→445 remains deferred** until Part 005 is supplied.
 
-## Part 003 Pass 2A — COMPLETE
+## Exact next activity — குறளோவியம்
 
-**111 / 111 scans directly textually verified against rendered source scans — overall scans 223–333 / printed 206–316.**
-
-Durable log: `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md`.
-
-## Part 003 Pass 2B — COMPLETE
-
-**111 / 111 scans independently lexical-fidelity re-read against freshly rendered source scans — overall scans 223–333 / printed 206–316.**
-
-Late Pass-2B corrections:
-
-- Batch 10: scans **314, 316, 320, 322**;
-- Batch 11: scan **326**;
-- final scan **333**: `இறுதியான` → `இறுதி யான`; `தலைமை ஏற்று` → `தலைமைபெற்று`.
-
-Durable log: `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md`.
-
-## Part 003 Pass 3 — COMPLETE
-
-**111 / 111 scans through scan 333 / printed 316.** Pass 3 made **0 lexical body-text changes / 0 status promotions**.
-
-Structural/visual corrections occurred on scans **223, 260, 267, 274, 277, 292, 302, 303, 311, 330, 332, 333**. The final scan preserves highlighted Kural 567 as a distinct two-line set-out block and records side vertical title/footer furniture separately.
-
-Durable log: `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`.
-
-## Part 003 audit — PASS
-
-**PASS — all 111 page records / scans 223–333 / printed 206–316.**
-
-The audit confirms complete physical coverage and mapping, closed source intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 gates, coherent internal continuation, preserved Kural/visual structure, correct non-body separation and **0 carried partial / blocked / source-limited Tamil exceptions**. It made **0 Tamil body-text changes** and **0 page-status promotions**.
-
-Durable audit: `works/kuraloviyam/PART_003_AUDIT.md`.
-
-## Part 003 final metadata/status synchronization — PASS / CLOSED
-
-All **111** Part-003 page records are now `status: "verified"` / `visual_fidelity: "verified"`, with **0 partial, 0 source-limited, 0 needs-review and 0 unresolved status exceptions**. The clean metadata-only comparison changed exactly 111 Part-003 page files, each only in the two status fields; Tamil wording and structure were untouched.
-
-Durable status-sync record: `works/kuraloviyam/PART_003_FINAL_STATUS_SYNC.md`.
-
-## Part 003 documentation synchronization — COMPLETE
-
-Part 003 live control documents now agree with the durable audit and final-status records: **111 textual verified + 111 visual verified / 0 partial / 0 source-limited / 0 needs-review / 0 unresolved status exceptions**. Durable record: `works/kuraloviyam/PART_003_DOCUMENTATION_SYNC.md`.
-
-# Part 003 maintained English state — குறளோவியம்
-
-- Tamil: **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**;
-- English first-pass drafting: **111/111 COMPLETE / CLOSED**;
-- English source-check: **111/111 COMPLETE / CLOSED**;
-- English glossary reconciliation: **COMPLETE / CLOSED — 111/111**;
-- all 111 English pages remain `source-checked`; editorial review is not started;
-- GR1+GR2 changed no English page wording; GR3 changed only `Kaarmegam` → `Karmegam` on English scans 313–314; no status or Tamil record changed.
-
-# Exact next activity — குறளோவியம்
-
-Perform **Part 003 English Editorial Review ER1 — scans 223–255 / printed 206–238, 33 pages**.
-
-1. fetch live `main`;
-2. read the Kuraloviyam mandatory controls, English `TRANSLATION_GUIDE.md`, `TRANSLATION_STATUS.md`, and `GLOSSARY.md`;
-3. confirm Tamil remains closed, source-check remains 111/111 closed, and glossary reconciliation is **111/111 COMPLETE / CLOSED**;
-4. reconcile recurring names, structural/literary terms, chapter labels, citation metadata and repeated renderings against the audited Tamil context;
-5. update the glossary only for source-evidenced terms;
-6. do not import external/published/web terminology or remembered Kural wording;
-7. review source-faithful readability and consistency; passing pages may move to `editorial-reviewed`; do not begin Part-level review during ER1;
-8. do not alter Tamil records;
-9. audit the exact changed-file set before advancing.
-
-If ER1 passes, continue with **English Editorial Review ER2 — scans 256–288 / printed 239–271, 33 pages**. Part 004 remains blocked until the maintained Part-003 English workflow and final Part closure checkpoint are complete. External **333→334** remains deferred until Part 004 source intake.
+Process **Part 004 Pass 1 P4-01 — scans 334–344 / printed 317–327, 11 physical scans**. Use the supplied Part 004 PDF as controlling source, create one Tamil page record per physical scan with `status: "needs-review"` and `visual_fidelity: "needs-review"`, preserve source-visible Kural/page structure and illustrations, and inspect scan 345 only as a boundary witness if needed.

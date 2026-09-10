@@ -46,7 +46,7 @@ Archive transcription, metadata, indexes, verification/audit records and project
 
 ## 4. Image-only / no-text-layer handling
 
-Parts 001–003 expose no usable parsed text layer in the supplied file environment.
+Parts 001–004 expose no usable parsed text layer in the supplied file environment.
 
 - inspect rendered page images directly;
 - OCR may be a disposable aid only, never authority;
@@ -116,7 +116,7 @@ The cross-Part boundary itself is checked only when the adjacent Part source bec
 
 ## 9. Batch discipline
 
-Default source-dependent work may use smaller batches when no user override exists. **Current user directive for Part 003 Pass 1 and Pass 2A page-batched work: 11 physical scans per normal iteration**, with a shorter final remainder when necessary.
+Default source-dependent work may use smaller batches when no user override exists. **Current established Tamil cadence for Part 004 Pass 1 and Pass 2A page-batched work: 11 physical scans per normal iteration**, with a shorter final remainder when necessary.
 
 For every source-dependent batch:
 
@@ -168,16 +168,24 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 - Tamil source intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 / audit / final metadata-status sync / documentation sync: **COMPLETE / PASS**;
 - Tamil archival-ready checkpoint: **PASS / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**;
-- incoming **222→223: CLEAN**; internal **332→333** genuine continuation closes within the Part; external **333→334** remains deferred until Part 004 intake;
+- incoming **222→223: CLEAN**; internal **332→333** genuine continuation closes within the Part; adjacent **333→334: CLEAN / source-resolved at Part 004 intake**;
 - project-created English drafting: **111/111 COMPLETE / CLOSED**;
 - English source-check: **111/111 COMPLETE / CLOSED**;
 - English glossary reconciliation: **COMPLETE / CLOSED — 111/111**;
 - English editorial review: **COMPLETE / CLOSED — 111/111**; Part-level English review: **PASS / CLOSED**; English release: **APPROVED / CLOSED — 111/111 release-ready**; final Part checkpoint: **PASS / CLOSED**.
 
+### Part 004 — overall scans 334–444
+
+Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf`.
+
+- source intake: **PASS / COMPLETE**;
+- local pages: **111**; visible printed span: **317–427**;
+- SHA-256: `5b7fcc65f19dc3d2a57bebb13cdfb02d0c83f70a5ccc9e537886790908674581`;
+- no usable parsed text layer; rendered scans control;
+- incoming **333→334: CLEAN / source-resolved**;
+- Tamil Pass 1: **0/111 — not started**;
+- outgoing **444→445: deferred until Part 005 intake**.
+
 ### Exact next content stage
 
-**Part 003 is fully CLOSED — Tamil + maintained English.** Durable final checkpoint: `works/kuraloviyam/PART_003_FINAL_CLOSURE.md`.
-
-The next content stage is **Part 004 source intake, only when its controlling source is supplied/onboarded**. At intake, establish the exact Part 004 source identity and local page count, continue repository `scan_page` at overall scan **334**, and resolve the deferred **333→334** split boundary from the actual adjacent source before transcription.
-
-Do not infer Part 004 filename, printed-page boundary, body text, illustration state or continuity before that source is supplied.
+Perform **Part 004 Pass 1 P4-01 — scans 334–344 / printed 317–327, 11 scans**. Page records remain `needs-review` / `visual_fidelity: needs-review` after Pass 1. Do not begin Part 005 or resolve **444→445** without its actual controlling source.

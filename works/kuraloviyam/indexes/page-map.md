@@ -9,7 +9,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
 | 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
 | 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **Tamil + English CLOSED — final checkpoint PASS / CLOSED; 111/111 English release-ready** |
-| 004 | 334–444 | 1–111 | not yet inspected | not-started |
+| 004 | 334–444 | 1–111 | scan 334 / printed 317 through scan 444 / printed 427 | **source intake PASS / COMPLETE; Pass 1 0/111; P4-01 next** |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
 | 006 | 556–666 | 1–111 | not yet inspected | not-started |
 
@@ -337,46 +337,37 @@ Durable Part 002 Tamil archival-ready declaration: `../PART_002_TAMIL_ARCHIVAL_R
 Durable Part 002 English review: `../translations/en/reviews/PART_002_ENGLISH_REVIEW.md`.
 Durable Part 002 English release report: `../translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`.
 
+## Part 004 boundary resolution and intake map
+
+Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf`.
+
+- local pages: **111**;
+- overall scans: **334–444**;
+- visible printed pages: **317–427**;
+- file size: **91,513,473 bytes**;
+- SHA-256: `5b7fcc65f19dc3d2a57bebb13cdfb02d0c83f70a5ccc9e537886790908674581`;
+- source text layer: **no usable parsed text**;
+- **333→334 CLEAN / source-resolved**;
+- scan 334 begins a new illustrated eye/blame lovers vignette; scan 335 closes it with Chapter 118 / Kural 1174;
+- scan 444 begins a new illustrated royal/court narrative and ends within it; **444→445 remains deferred** until Part 005 intake.
+
+Durable intake: `../SOURCE_INTAKE_PART_004.md`.  
+Pass-1 tracker: `../PART_004_PASS1_PROGRESS.md`.
+
 ## Verification gates
 
-Part 001: source intake, Pass 1, Pass 2A, Pass 2B, Pass 3, audit, final sync, Tamil closure and English closure — **COMPLETE**.
+Part 001: **Tamil + English CLOSED**.
 
-Part 002:
+Part 002: **Tamil + English CLOSED; final checkpoint PASS / CLOSED**.
 
-- source intake — **COMPLETE**;
-- Pass 1 — **COMPLETE, 111/111**;
-- Pass 2A — **COMPLETE, 111/111**;
-- Pass 2B — **COMPLETE, 111/111**;
-- Pass 3 — **COMPLETE, 111/111**;
-- Part audit — **PASS**;
-- final metadata/status synchronization — **PASS / CLOSED, 111 textual verified + 111 visual verified**;
-- documentation synchronization — **COMPLETE**;
-- Tamil archival-ready checkpoint — **PASS / CLOSED**;
-- maintained English workflow — **RELEASE COMPLETE / CLOSED, 111/111 release-ready**;
-- final Part 002 checkpoint — **PASS / CLOSED**.
+Part 003: **Tamil + English CLOSED; final checkpoint PASS / CLOSED; 111/111 English release-ready**.
 
-Part 003:
+Part 004:
 
 - source intake — **PASS / COMPLETE**;
-- Pass 1 — **COMPLETE, 111/111 captured through scan 333 / printed 316**;
-- Pass 2A — **COMPLETE, 111/111 verified through scan 333 / printed 316**;
-- Pass 2B — **COMPLETE, 111/111 independently re-read through scan 333 / printed 316**;
-- Pass 3 — **COMPLETE, 111/111 through scan 333 / printed 316**;
-- Part audit — **PASS**;
-- final metadata/status synchronization — **PASS / CLOSED, 111 textual verified + 111 visual verified / 0 exceptions**;
-- documentation synchronization — **COMPLETE**;
-- Tamil archival-ready — **PASS / CLOSED**;
-- English drafting — **111/111 COMPLETE / CLOSED**;
-- English source-check — **111/111 COMPLETE / CLOSED**;
-- English glossary reconciliation — **IN PROGRESS: GR1 + GR2 + GR3 COMPLETE / PASS, 99/111**;
-- English editorial review / Part review / release — **not-started**.
+- Pass 1 — **0/111, P4-01 next**;
+- Pass 2A / Pass 2B / Pass 3 / audit / final sync / Tamil archival-ready / English / final Part closure — **not started**.
 
 ## Current frontier
 
-**Part 001: CLOSED.**
-
-**Part 002: Tamil + English CLOSED.**
-
-**Part 003: TAMIL ARCHIVAL-READY / CLOSED; ENGLISH DRAFTING + SOURCE-CHECK COMPLETE / CLOSED; GLOSSARY RECONCILIATION IN PROGRESS — GR1 + GR2 + GR3 COMPLETE / PASS, 99/111.**
-
-Exact next activity: **Part 003 English glossary reconciliation GR4 — scans 322–333 / printed 305–316, final 12 pages**. If GR4 passes, glossary reconciliation becomes **111/111 COMPLETE / CLOSED** and the next gate is **English Editorial Review ER1 — scans 223–255 / printed 206–238, 33 pages**. External **333→334** remains deferred until Part 004 source intake.
+**Part 004 Pass 1 P4-01 — scans 334–344 / printed 317–327, 11 scans.** Incoming **333→334 is CLEAN**. External **444→445 remains deferred** until Part 005 source intake.

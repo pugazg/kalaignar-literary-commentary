@@ -11,7 +11,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
 | 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
 | 003 | 223–333 | **Tamil + English CLOSED — final Part checkpoint PASS / CLOSED; 111/111 English release-ready** |
-| 004 | 334–444 | not-started |
+| 004 | 334–444 | **source intake PASS / COMPLETE; Pass 1 next — P4-01 scans 334–344** |
 | 005 | 445–555 | not-started |
 | 006 | 556–666 | not-started |
 
@@ -50,7 +50,7 @@ Confirmed intake identity:
 
 Durable intake record: `SOURCE_INTAKE_PART_003.md`.
 
-The **222→223** boundary is resolved as **clean**. The external **333→334** boundary remains deferred until Part 004 is supplied.
+The **222→223** boundary is resolved as **clean**. The adjacent **333→334** boundary is now also **CLEAN / source-resolved** from the supplied Part 004 source.
 
 ### Part 003 Pass 1 state
 
@@ -168,19 +168,23 @@ Durable final-status record: `PART_003_FINAL_STATUS_SYNC.md`.
 
 Durable documentation-sync record: `PART_003_DOCUMENTATION_SYNC.md`.
 
-## Current durable state
+## Part 004 — SOURCE INTAKE PASS / COMPLETE
 
-Part 003 final closure record: `PART_003_FINAL_CLOSURE.md` — **PASS / CLOSED**.
+Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf`.
 
-- Tamil: **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**;
-- English drafting: **111/111 COMPLETE / CLOSED**;
-- source-check: **111/111 COMPLETE / CLOSED**;
-- glossary reconciliation: **111/111 COMPLETE / CLOSED**;
-- editorial review: **111/111 COMPLETE / CLOSED**;
-- Part-level English review: **PASS / CLOSED**;
-- English release: **APPROVED / CLOSED — 111/111 release-ready**;
-- final Part checkpoint: **PASS / CLOSED**.
+- local pages: **111**;
+- overall scans: **334–444**;
+- visible printed pages: **317–427**;
+- file size: **91,513,473 bytes**;
+- SHA-256: `5b7fcc65f19dc3d2a57bebb13cdfb02d0c83f70a5ccc9e537886790908674581`;
+- parsed text: **none usable**;
+- incoming **333→334: CLEAN / source-resolved**;
+- Pass 1 page records: **0/111**;
+- outgoing **444→445: deferred until Part 005 source intake**.
+
+Durable intake: `SOURCE_INTAKE_PART_004.md`.  
+Pass-1 tracker: `PART_004_PASS1_PROGRESS.md`.
 
 ## Current frontier
 
-**Next activity: Part 004 source intake when the controlling source is supplied.** Do not infer the Part 004 filename or content beforehand. At intake, continue overall scan numbering at **334** and resolve the deferred **333→334** boundary against the actual adjacent source.
+**Next activity: Part 004 Pass 1 P4-01 — scans 334–344 / printed 317–327, 11 physical scans.** Parts 001–003 remain closed. Do not infer or begin Part 005.

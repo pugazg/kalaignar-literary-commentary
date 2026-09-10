@@ -26,7 +26,9 @@ Read before changing anything:
 12. `works/kuraloviyam/translations/en/TRANSLATION_GUIDE.md`
 13. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
 14. `works/kuraloviyam/translations/en/GLOSSARY.md`
-15. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
+15. `works/kuraloviyam/PART_003_FINAL_CLOSURE.md`
+16. `works/kuraloviyam/SOURCE_INTAKE_PART_004.md`
+17. `works/kuraloviyam/PART_004_PASS1_PROGRESS.md`
 
 ## Durable closed state
 
@@ -154,15 +156,29 @@ Durable final checkpoint: `works/kuraloviyam/PART_003_FINAL_CLOSURE.md`.
 
 Part 003 Tamil and maintained English are now fully closed. English is **111/111 `release-ready`**; the Part-level review is PASS; the release report is APPROVED / CLOSED; no Tamil or English page record changed during the final checkpoint.
 
-## Exact next activity — Part 004 source intake
+## Part 004 source intake — PASS / COMPLETE
 
-Part 004 is **not started**. Begin it only when the controlling Part 004 source is supplied/onboarded.
+Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf`.
 
-At intake:
+- 111 local pages / overall scans **334–444** / visible printed **317–427**;
+- 91,513,473 bytes;
+- SHA-256 `5b7fcc65f19dc3d2a57bebb13cdfb02d0c83f70a5ccc9e537886790908674581`;
+- no usable parsed text layer;
+- incoming **333→334 CLEAN / source-resolved**;
+- Part 004 Pass 1: **0/111**;
+- external **444→445 deferred** until Part 005 intake.
 
-1. fetch live `main` and preserve this Part 003 closure;
-2. establish the exact supplied Part 004 filename, local page count, byte size and SHA-256;
-3. map it to overall scans beginning at **334** without restarting `scan_page`;
-4. compare the actual first Part 004 scan with closed scan 333 and resolve **333→334**;
-5. only then begin Part 004 Tamil source intake / archival workflow;
-6. do not reopen Parts 001–003 unless a genuinely new source/provenance/fidelity issue appears.
+Durable intake: `works/kuraloviyam/SOURCE_INTAKE_PART_004.md`.  
+Pass-1 tracker: `works/kuraloviyam/PART_004_PASS1_PROGRESS.md`.
+
+## Exact next activity — Part 004 Pass 1 P4-01
+
+Process **scans 334–344 / printed 317–327 — 11 page-aligned Tamil records**.
+
+1. fetch live `main` and preserve Parts 001–003 closure plus this intake;
+2. resolve the supplied Part 004 PDF and render scans directly;
+3. create exactly one record for each scan 334–344 with correct `part: 4`, `part_page: 1–11`, printed page, source filename, `status: "needs-review"`, and `visual_fidelity: "needs-review"`;
+4. preserve source wording, paragraph boundaries, Kural blocks, visual/page-furniture relationships and cross-page continuities;
+5. inspect scan **345 / printed 328** only as a boundary witness if required;
+6. update `PART_004_PASS1_PROGRESS.md` and live frontier controls, then audit the changed-file set;
+7. do not start Pass 2A until all 111 Part-004 Pass-1 pages are captured; do not begin Part 005.

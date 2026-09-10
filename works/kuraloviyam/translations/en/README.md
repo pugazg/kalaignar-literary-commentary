@@ -131,4 +131,6 @@ Part 003 maintained English is **RELEASE COMPLETE / CLOSED — 111/111 `release-
 
 ## Current frontier
 
-Part 004 English work is blocked until Part 004 completes its Tamil archival workflow. The immediate next activity for the work is **Part 004 source intake when the controlling source is supplied**. External **333→334** remains deferred until that intake.
+Part 004 source intake is **PASS / COMPLETE**, and the incoming **333→334** boundary is now **CLEAN / source-resolved**. Part 004 English work remains blocked until the Part 004 Tamil archival workflow reaches ARCHIVAL-READY / CLOSED.
+
+Immediate work-level next activity: **Part 004 Tamil Pass 1 P4-01 — scans 334–344 / printed 317–327**. Do not begin Part 004 English drafting early.

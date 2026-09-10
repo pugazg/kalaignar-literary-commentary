@@ -269,6 +269,8 @@ Final Part 003 English state remains:
 
 No English page record or Tamil record changed during the final closure checkpoint. The Part-level review and release report remain **PASS / APPROVED / CLOSED**.
 
-## Current frontier — Part 004 source intake
+## Current frontier — Part 004 Tamil archival workflow
 
-Part 004 has not started. Its English layer remains blocked until the Part 004 controlling source is supplied, source intake is completed, and the Tamil archival layer reaches its required checkpoint. External **333→334** remains deferred until the actual Part 004 intake.
+Part 004 source intake is **PASS / COMPLETE**. Incoming **333→334 is CLEAN / source-resolved**. Part 004 English work remains **blocked by workflow order** until Part 004 Tamil reaches ARCHIVAL-READY / CLOSED.
+
+The immediate work-level next activity is **Part 004 Tamil Pass 1 P4-01 — scans 334–344 / printed 317–327**. External **444→445** remains deferred until Part 005 source intake.
