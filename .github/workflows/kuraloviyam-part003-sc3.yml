@@ -1,0 +1,132 @@
+name: Kuraloviyam Part 003 English SC3
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/kuraloviyam-part003-sc3.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  source-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Source-check scans 289-321
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          python3 - <<'PY'
+          from pathlib import Path
+          import subprocess
+
+          en_root = Path('works/kuraloviyam/translations/en/pages')
+          ta_root = Path('works/kuraloviyam/pages')
+          expected = set()
+
+          for scan in range(289, 322):
+              printed = scan - 17
+              en = en_root / f'{scan:04d}-kuraloviyam-{printed}.md'
+              ta = ta_root / f'{scan:04d}-kuraloviyam-{printed}.md'
+              if not en.exists() or not ta.exists():
+                  raise SystemExit(f'missing page pair for scan {scan}')
+              et = en.read_text(encoding='utf-8')
+              tt = ta.read_text(encoding='utf-8')
+              if f'source_scan_page: {scan}' not in et or f'scan_page: {scan}' not in tt:
+                  raise SystemExit(f'scan mismatch {scan}')
+              if f'printed_page: "{printed}"' not in et or f'printed_page: "{printed}"' not in tt:
+                  raise SystemExit(f'printed-page mismatch {scan}')
+              if 'source_tamil_status: "verified"' not in et or 'status: "verified"' not in tt:
+                  raise SystemExit(f'Tamil verification precondition failed {scan}')
+              if 'status: "draft"' not in et:
+                  raise SystemExit(f'English page not draft at SC3 start {scan}')
+              expected.add(str(en))
+
+          def replace_once(path, old, new):
+              text = path.read_text(encoding='utf-8')
+              if text.count(old) != 1:
+                  raise SystemExit(f'replacement precondition failed for {path}: {old!r}')
+              path.write_text(text.replace(old, new, 1), encoding='utf-8')
+
+          # scan 295: preserve the source's singular branch image in Kural 1264.
+          replace_once(
+              en_root / '0295-kuraloviyam-278.md',
+              'my heart climbs branch after branch.',
+              'my heart climbs a branch.'
+          )
+
+          # scan 299: source says the tears sweetened without stinging; do not infer saltiness.
+          replace_once(
+              en_root / '0299-kuraloviyam-282.md',
+              'To him those tears tasted sweet, not salty.',
+              'To him those tears tasted sweet, without any sting.'
+          )
+
+          # scan 302: restore source-visible decorative pavilion/monument as non-body visual material.
+          p = en_root / '0302-kuraloviyam-285.md'
+          text = p.read_text(encoding='utf-8')
+          if '## Visual material' in text:
+              raise SystemExit('scan 302 already has visual material block unexpectedly')
+          marker = '---\n\n'
+          pos = text.find(marker, text.find('---') + 3)
+          if pos < 0:
+              raise SystemExit('scan 302 front matter close not found')
+          pos += len(marker)
+          visual = '## Visual material\n\nLarge red decorative pavilion/monument below the Chapter/Kural metadata in the source page; treated as source page furniture, not body prose.\n\n'
+          p.write_text(text[:pos] + visual + text[pos:], encoding='utf-8')
+
+          # scans 309→310: repair page alignment at the genuine physical-page continuation.
+          replace_once(
+              en_root / '0309-kuraloviyam-292.md',
+              'A government official, a man of moral conduct, had been murdered by some cruel people belonging to the ruling side, who then fabricated a story that he was a thief. The judge too finally declared that he was not a thief, and that those who had branded him one were themselves the people who had killed him. Yet—',
+              'A government official, a man of moral conduct, had been murdered by some cruel people belonging to the ruling side, who then fabricated a story that he was a thief—'
+          )
+          replace_once(
+              en_root / '0310-kuraloviyam-293.md',
+              '—even beyond that decision, those in government bent justice.',
+              '—and the judge too gave his decision that he was not a thief, and that the very people who had called him a thief were the ones who killed him. Even beyond that decision, those in government bent justice.'
+          )
+
+          # scan 320: நாக்கு நிறப் = tongue-coloured, not tongue-shaped.
+          replace_once(
+              en_root / '0320-kuraloviyam-303.md',
+              'the soles of her tongue-shaped feet had reddened like hibiscus flowers.',
+              'her tongue-coloured feet had reddened like hibiscus flowers.'
+          )
+
+          # Promote only after the complete SC3 comparison has passed.
+          for scan in range(289, 322):
+              printed = scan - 17
+              p = en_root / f'{scan:04d}-kuraloviyam-{printed}.md'
+              text = p.read_text(encoding='utf-8')
+              if text.count('status: "draft"') != 1:
+                  raise SystemExit(f'draft status count invalid {p}')
+              text = text.replace('status: "draft"', 'status: "source-checked"', 1)
+              p.write_text(text, encoding='utf-8')
+
+          changed = set(subprocess.check_output(['git', 'diff', '--name-only'], text=True).splitlines())
+          if changed != expected:
+              raise SystemExit(f'changed-file audit failed: unexpected delta {sorted(changed ^ expected)}')
+
+          for scan in range(289, 322):
+              printed = scan - 17
+              p = en_root / f'{scan:04d}-kuraloviyam-{printed}.md'
+              text = p.read_text(encoding='utf-8')
+              if text.count('status: "source-checked"') != 1 or 'status: "draft"' in text:
+                  raise SystemExit(f'final status validation failed {p}')
+              if text.count('source_tamil_status: "verified"') != 1:
+                  raise SystemExit(f'Tamil status altered {p}')
+          PY
+
+          git add works/kuraloviyam/translations/en/pages/02*.md works/kuraloviyam/translations/en/pages/03*.md
+          git commit -m 'kuraloviyam: Source-check Part 003 English scans 289-321'
+          git push origin main
