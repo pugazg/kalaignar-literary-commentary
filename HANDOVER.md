@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 003 Pass 3 ACTIVE — 110/111 through scan 332 / printed 315; final one-scan remainder next**: **2026-09-10**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
+Last refreshed for Kuraloviyam **Part 003 Pass 3 COMPLETE — 111/111 through scan 333 / printed 316; Part audit next**: **2026-09-10**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
 
 ## Repository
 
@@ -280,97 +280,27 @@ The final scan independently reconfirmed Kural 567 wording/lineation, Chapter 57
 
 Durable log: `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md`.
 
-All records remain `needs-review` / `visual_fidelity: needs-review` pending Pass 3, Part audit and final synchronization.
+All records remain `needs-review` / `visual_fidelity: needs-review` pending Part audit and final synchronization.
 
-## Part 003 Pass 3 — ACTIVE
+## Part 003 Pass 3 — COMPLETE
 
-**110 / 111 scans complete through scan 332 / printed 315.** User-directed cadence is **11 physical scans per iteration**.
+**111 / 111 scans complete through scan 333 / printed 316.** Pass 3 remained a meaningful visual-text gate and made **0 lexical body-text changes / 0 status promotions**.
 
-Pass 3 is meaningful visual-text verification and follows `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md` as precedent. It verifies heading hierarchy, Kural/quotation lineation and block placement, prose/quotation relationships, page furniture, source/non-source visual separation, illustration/text order and relationship, physical-page continuation and source-size legibility. It is not another lexical reread.
+Completed Pass-3 corrections:
 
-Batch 1 — **scans 223–233 / printed 206–216 — COMPLETE 11/11**:
+- Batch 1 — scan **223**;
+- Batch 2 — **0**;
+- Batch 3 — **0**;
+- Batch 4 — scan **260**;
+- Batch 5 — scans **267, 274, 277**;
+- Batch 6 — **0**;
+- Batch 7 — scan **292**;
+- Batch 8 — scans **302, 303**;
+- Batch 9 — scan **311**;
+- Batch 10 — scans **330, 332**;
+- final remainder — scan **333**, preserving the highlighted Kural 567 as a distinct two-line set-out block and recording side vertical title/footer furniture separately.
 
-- scan **223** received the only structural correction: the incorrect snake-scene visual description was replaced with a source-faithful description of the upper illustration showing a foreground man gesturing toward a younger man with an onlooking crowd behind;
-- scans **224–233** required no structural correction;
-- lexical body-text changes: **0**;
-- all records remain `needs-review` / `visual_fidelity: needs-review`;
-- scan **234 / printed 217** witness reconfirms **233→234 genuine continuation**.
-
-Batch 2 — **scans 234–244 / printed 217–227 — COMPLETE 11/11**:
-
-- structural/visual-description corrections: **0**;
-- scans **234–244** required no structural correction;
-- lexical body-text changes: **0**;
-- all records remain `needs-review` / `visual_fidelity: needs-review`;
-- scan **245 / printed 228** witness reconfirms **244→245 CLEAN**.
-
-Batch 3 — **scans 245–255 / printed 228–238 — COMPLETE 11/11**:
-
-- structural/visual-description corrections: **0**;
-- scans **245–255** required no structural correction;
-- lexical body-text changes: **0**;
-- all records remain `needs-review` / `visual_fidelity: needs-review`;
-- scan **256 / printed 239** witness reconfirms **255→256 CLEAN**.
-
-Batch 4 — **scans 256–266 / printed 239–249 — COMPLETE 11/11**:
-
-- scan **260** received the only structural correction: its `visual_notes` now identify the upper illustration as the later reunion, with adult Alagan embracing his ill uncle while the aunt stands beside them, while the prose below begins with Alagan's childhood/orphanhood;
-- scans **256–259, 261–266** required no structural correction;
-- lexical body-text changes: **0**;
-- all records remain `needs-review` / `visual_fidelity: needs-review`;
-- scan **267 / printed 250** witness reconfirms **266→267 genuine continuation**.
-
-Batch 5 — **scans 267–277 / printed 250–260 — COMPLETE 11/11**:
-
-- scan **267**: `visual_notes` now records the small red decorative monument below the Kural/Chapter metadata as source page furniture;
-- scan **274**: upper illustration corrected to a woman facing an oval mirror in which the returning prince is pictured/reflected; the prior note incorrectly described a companion speaking in the illustration;
-- scan **277**: `visual_notes` now records the small red decorative monument below the Chapter metadata as source page furniture;
-- scans **268–273, 275–276** required no structural correction;
-- lexical body-text changes: **0**;
-- all records remain `needs-review` / `visual_fidelity: needs-review`;
-- scan **278 / printed 261** witness reconfirms **277→278 CLEAN**.
-
-Batch 6 — **scans 278–288 / printed 261–271 — COMPLETE 11/11**:
-
-- structural/visual-description corrections: **0**;
-- scans **278–288** required no structural correction;
-- lexical body-text changes: **0**;
-- all records remain `needs-review` / `visual_fidelity: needs-review`;
-- scan **289 / printed 272** witness reconfirms **288→289 genuine continuation**.
-
-Batch 7 — **scans 289–299 / printed 272–282 — COMPLETE 11/11**:
-
-- scan **292** received the only structural correction: the source-displayed altered three-line Kural is now represented as a distinct set-out block and its `visual_notes` record that structure;
-- scans **289–291, 293–299** required no structural correction;
-- lexical body-text changes: **0**;
-- all records remain `needs-review` / `visual_fidelity: needs-review`;
-- scan **300 / printed 283** witness reconfirms **299→300 CLEAN**.
-
-Batch 8 — **scans 300–310 / printed 283–293 — COMPLETE 11/11**:
-
-- scan **302**: `visual_notes` now records the large red decorative pavilion/monument below Chapter 62 / Kural 617 instead of describing the page as text-only;
-- scan **303**: upper illustration corrected to an embracing couple in an intimate indoor setting by an open/moonlit window; the prior note incorrectly described two women;
-- scans **300–301, 304–310** required no structural correction;
-- lexical body-text changes: **0**;
-- all records remain `needs-review` / `visual_fidelity: needs-review`;
-- scan **311 / printed 294** witness reconfirms **310→311 CLEAN**.
-
-Batch 9 — **scans 311–321 / printed 294–304 — COMPLETE 11/11**:
-
-- scan **311** received the only structural correction: the upper illustration is now described as a composite separation/intimacy image with an embracing couple above and the woman reclining alone below;
-- scans **312–321** required no structural correction;
-- lexical body-text changes: **0**;
-- all records remain `needs-review` / `visual_fidelity: needs-review`;
-- scan **322 / printed 305** witness reconfirms **321→322 CLEAN**.
-
-Batch 10 — **scans 322–332 / printed 305–315 — COMPLETE 11/11**:
-
-- scan **330** received a structural/visual-description correction: the upper illustration shows a bare-chested man walking away in the foreground while an elder speaks to a child behind him; no literal carried burden is depicted;
-- scan **332** received a structural/visual-description correction: the upper palace illustration shows a ruler receiving a tied money bag from a woman while a laborer with a hoe stands at left;
-- scans **322–329, 331** required no structural correction;
-- lexical body-text changes: **0**;
-- all records remain `needs-review` / `visual_fidelity: needs-review`;
-- scan **333 / printed 316** witness reconfirms **332→333 genuine continuation** and was not counted in Batch 10.
+The internal **332→333 genuine continuation** is closed. External **333→334** remains deferred until Part 004 source intake. All Part-003 page records remain `needs-review` / `visual_fidelity: needs-review` until the audit and later final metadata/status synchronization.
 
 Durable log: `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`. Supplemental Batch-9 record: `works/kuraloviyam/PASS3_BATCH_009.md`.
 
@@ -378,12 +308,12 @@ Durable log: `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`. Sup
 
 1. fetch live `main`;
 2. complete the Kuraloviyam mandatory startup reading above;
-3. resolve the supplied Part 003 PDF;
-4. process **Part 003 Pass 3 / final remainder — scan 333 / printed 316, 1 physical scan**;
-5. fetch current page record `0333-kuraloviyam-316.md` before comparison;
-6. verify meaningful visual-text fidelity directly from a freshly rendered scan, including the direct **332→333 genuine continuation**, text/Kural/Chapter metadata organization, page furniture and source/non-body separation;
-7. make only source-supported structural corrections; do not repeat settled lexical verification;
-8. keep the record at `needs-review` / `visual_fidelity: needs-review`;
-9. update `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md` and synchronize README, work/root handovers, page-map and prompt;
+3. follow the closed Part-002 audit precedent and audit **all 111 Part-003 page records / scans 223–333 / printed 206–316**;
+4. reconcile source identity and complete inventory;
+5. reconcile Pass 1 / Pass 2A / Pass 2B / Pass 3 coverage and their durable correction claims;
+6. reconcile internal boundary/continuation state through the closed **332→333 genuine continuation** while leaving external **333→334** deferred;
+7. check unresolved exception/hold counts and page-record metadata/status consistency;
+8. keep every Part-003 record at `needs-review` / `visual_fidelity: needs-review` during the audit;
+9. create/update the durable Part-003 audit record and synchronize README, work/root handovers, page-map and prompt;
 10. audit the exact changed-file set before advancing;
-11. only after scan 333 closes under Pass 3 may the Part 003 audit begin; external **333→334 remains deferred** until Part 004 source intake; English remains blocked until Tamil closure.
+11. only after an audit PASS may the separate final metadata/status synchronization promote eligible records; English remains blocked until Tamil closure.
