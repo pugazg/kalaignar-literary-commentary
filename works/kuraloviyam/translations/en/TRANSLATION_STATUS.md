@@ -143,6 +143,8 @@ The D3 page-only audit from `68f24f5fb90e6f55c45a65c428703d0d2672ee93` to `f0dc8
 
 D3 was translated from the audited Tamil archival records, preserving page alignment, source-supported Kural blocks, visual-material descriptions and cross-page continuities. No standard/published/web English Kural wording was imported.
 
+Post-batch draft-fidelity correction: **scan 302 / printed 285 / Kural 617** — the second English Kural line was reconciled from `in the effort of the man without sloth` to the source-faithful `at the feet of the man without sloth`. The page remains `draft`; no Tamil record or metadata changed.
+
 The genuine incoming **288→289** continuation was preserved and closed on scan 289. The D3 endpoint **321→322 is CLEAN**: scan 321 closes the interpreting-signs vignette and scan 322 begins a new illustrated classroom vignette.
 
 ## Current frontier — Part 003 English Draft Batch D4 / final remainder
