@@ -127,22 +127,29 @@ Incoming **222→223 is CLEAN**. Internal **332→333** is a genuine continuatio
 ## Part 003 English first-pass drafting
 
 - **Batch D1: scans 223–255 / printed 206–238 — COMPLETE 33/33**;
-- cumulative drafting: **33/111**;
-- English state in completed range: **33 `draft` / 0 source-limited / 0 blocked**;
-- remaining undrafted Part-003 pages: **78**;
+- **Batch D2: scans 256–288 / printed 239–271 — COMPLETE 33/33**;
+- cumulative drafting: **66/111**;
+- English state in completed range: **66 `draft` / 0 source-limited / 0 blocked**;
+- remaining undrafted Part-003 pages: **45**;
 - source-check: **not-started**;
 - glossary reconciliation: **not-started**;
 - editorial review: **not-started**;
 - Part-level review / release: **not-started**.
 
-Batch D1 was translated from the audited Tamil archival records, preserving page alignment, source-supported Kural blocks, visual-material descriptions and cross-page continuities. No Tamil archival record changed and no standard/published/web English Kural wording was imported.
+Batch D2 page commit: `c4bf5093a9249ebc7c2004ce380307d908e77fbe` — `kuraloviyam: Draft Part 003 English scans 256-288`.
 
-The batch endpoint **255→256 is CLEAN**; scan 256 begins a new illustrated vignette.
+The D2 page-only audit from `9216bd60f86198d4e07ab774063468829d9ff1fe` to `c4bf5093a9249ebc7c2004ce380307d908e77fbe` is **ahead / non-divergent** and contains exactly **33 added English page records**, scans **256–288**, with no Tamil page or Tamil metadata change.
 
-## Current frontier — Part 003 English Draft Batch D2
+D2 was translated from the audited Tamil archival records, preserving page alignment, source-supported Kural blocks, visual-material descriptions and cross-page continuities. No standard/published/web English Kural wording was imported.
 
-Exact next activity: **first-pass drafting scans 256–288 / printed 239–271 — 33 page-aligned records**.
+The D2 endpoint **288→289 is a genuine continuation**: scan 288 begins the Valluvar/renunciation vignette and scan 289 continues and closes it. Therefore Draft Batch D3 must begin at scan **289** without treating the batch boundary as a narrative boundary.
 
-Keep all newly drafted pages at `status: "draft"`, preserve `source_tamil_status: "verified"`, use the audited Tamil records as the normal translation authority, and do not begin source-check until first-pass drafting for all 111 Part-003 pages is complete.
+## Current frontier — Part 003 English Draft Batch D3
+
+Exact next activity: **first-pass drafting scans 289–321 / printed 272–304 — 33 page-aligned records**.
+
+Keep all newly drafted pages at `status: "draft"`, preserve `source_tamil_status: "verified"`, use the audited Tamil records as the normal translation authority, and preserve the genuine incoming **288→289** continuation. Do not begin source-check until first-pass drafting for all **111** Part-003 pages is complete.
+
+If D3 closes successfully, cumulative drafting will become **99/111** and the final drafting remainder will be **D4 scans 322–333 / printed 305–316 — 12 pages**.
 
 Part 004 remains blocked until Part 003 completes its maintained English workflow and final Part closure checkpoint.
