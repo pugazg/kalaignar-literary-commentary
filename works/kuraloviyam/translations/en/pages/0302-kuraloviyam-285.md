@@ -30,7 +30,7 @@ Then I recited the Kural.
 It is this:
 
 > They say great Moodevi dwells in the sluggard;  
-> the lotus-dame dwells in the effort of the man without sloth.
+> the lotus-dame dwells at the feet of the man without sloth.
 
 Chapter 62 — Diligent Effort; Kural 617
 
