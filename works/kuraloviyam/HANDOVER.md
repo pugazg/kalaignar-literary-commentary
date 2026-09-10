@@ -75,7 +75,8 @@ For normal English translation/review work, the audited Tamil page records under
 - **233→234 — genuine continuation**;
 - **244→245 — CLEAN**;
 - Draft D1 endpoint **255→256 — CLEAN**;
-- Draft D2 endpoint **288→289 — genuine continuation**; scan 288 begins the Valluvar/renunciation vignette and scan 289 continues and closes it;
+- Draft D2 endpoint **288→289 — genuine continuation**, closed by D3 scan 289;
+- Draft D3 endpoint **321→322 — CLEAN**; scan 321 closes the interpreting-signs vignette and scan 322 begins a new illustrated classroom vignette;
 - other closed Part-003 internal relationships remain recorded in the page map and Tamil audit;
 - final **332→333 — genuine continuation / closed**;
 - external **333→334 — deferred until Part 004 source intake**.
@@ -94,35 +95,36 @@ Current user-directed page-batch cadence: **33 physical scans**.
 
 - D1 scans **223–255 / printed 206–238 — COMPLETE 33/33**;
 - D2 scans **256–288 / printed 239–271 — COMPLETE 33/33**;
-- cumulative first-pass drafting: **66/111**;
-- completed-range state: **66 `draft` / 0 source-limited / 0 blocked**;
-- remaining undrafted: **45**;
+- D3 scans **289–321 / printed 272–304 — COMPLETE 33/33**;
+- cumulative first-pass drafting: **99/111**;
+- completed-range state: **99 `draft` / 0 source-limited / 0 blocked**;
+- remaining undrafted: **12**;
 - source-check: **not-started**;
 - glossary reconciliation: **not-started**;
 - editorial review: **not-started**;
 - Part review / release: **not-started**.
 
-D1 English records cover `0223-kuraloviyam-206.md` through `0255-kuraloviyam-238.md`. D2 English records cover `0256-kuraloviyam-239.md` through `0288-kuraloviyam-271.md`.
+D1 English records cover `0223-kuraloviyam-206.md` through `0255-kuraloviyam-238.md`. D2 covers `0256-kuraloviyam-239.md` through `0288-kuraloviyam-271.md`. D3 covers `0289-kuraloviyam-272.md` through `0321-kuraloviyam-304.md`.
 
-D2 page commit: `c4bf5093a9249ebc7c2004ce380307d908e77fbe` — `kuraloviyam: Draft Part 003 English scans 256-288`.
+D3 page commit: `f0dc8aeb8608aea9bb99083e2c366fb41f9f9216` — `kuraloviyam: Draft Part 003 English scans 289-321`.
 
-The D2 page-only comparison from `9216bd60f86198d4e07ab774063468829d9ff1fe` to that commit contains exactly **33 new English page records and no Tamil changes**. The batch was translated directly from the audited Tamil records, preserving page alignment, visual-material descriptions, Kural blocks and source-supported continuities. No standard/published/web English Kural wording was imported.
+The D3 page-only comparison from `68f24f5fb90e6f55c45a65c428703d0d2672ee93` to that commit contains exactly **33 new English page records and no Tamil changes**. The batch was translated directly from the audited Tamil records, preserving page alignment, visual-material descriptions, Kural blocks and source-supported continuities. No standard/published/web English Kural wording was imported.
 
-## Exact next activity — English Draft Batch D3
+## Exact next activity — English Draft Batch D4 / final remainder
 
-Process **scans 289–321 / printed 272–304 — 33 page-aligned records**.
+Process **scans 322–333 / printed 305–316 — 12 page-aligned records**.
 
 1. fetch live `main` first;
 2. confirm `PART_003_TAMIL_ARCHIVAL_READY.md` remains **PASS / CLOSED**;
-3. confirm `translations/en/TRANSLATION_STATUS.md` records D1 and D2 **COMPLETE — 66/111 cumulative**;
-4. read audited Tamil records **0289–0321** completely;
-5. begin by preserving the genuine incoming **288→289** continuation rather than treating scan 289 as a fresh unit;
-6. translate exactly those 33 page-aligned records;
-7. use the established English page front matter and keep every new record `status: "draft"` / `source_tamil_status: "verified"`;
-8. preserve source-supported Kural lineation, page function, visual/non-body descriptions and continuities;
-9. do not alter Tamil files or start source-check/glossary/editorial promotion;
+3. confirm `translations/en/TRANSLATION_STATUS.md` records D1–D3 **COMPLETE — 99/111 cumulative**;
+4. read audited Tamil records **0322–0333** completely;
+5. translate exactly those 12 page-aligned records;
+6. use the established English page front matter and keep every new record `status: "draft"` / `source_tamil_status: "verified"`;
+7. preserve source-supported Kural lineation, page function, visual/non-body descriptions and continuities, especially the genuine **332→333** continuation;
+8. keep external **333→334** deferred until Part 004 source intake;
+9. do not alter Tamil files or start source-check/glossary/editorial promotion during this drafting gate;
 10. update `translations/en/TRANSLATION_STATUS.md` and audit the exact changed-file set.
 
-If D3 closes successfully, cumulative drafting becomes **99/111** and the final first-pass remainder is **D4 scans 322–333 / printed 305–316 — 12 pages**.
+If D4 closes successfully, first-pass drafting becomes **111/111 COMPLETE**. The next gate is **Part 003 English source-check SC1 — scans 223–255 / printed 206–238 — 33 pages**.
 
 Part 004 remains blocked until Part 003 completes its maintained English workflow and final Part closure checkpoint.
