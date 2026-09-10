@@ -10,7 +10,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
 | 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | **source intake + Pass 1 + Pass 2A + Pass 2B + Pass 3 COMPLETE — 111/111; Part audit NEXT** |
+| 003 | 223–333 | **source intake + Pass 1 + Pass 2A + Pass 2B + Pass 3 COMPLETE — 111/111; Part audit PASS; final metadata/status sync NEXT** |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
 | 006 | 556–666 | not-started |
@@ -33,7 +33,7 @@ Tamil is **ARCHIVAL-READY / CLOSED** at **111 textual verified + 111 visual veri
 
 Maintained English is **RELEASE COMPLETE / CLOSED — 111/111 `release-ready`**. Durable review and release records are under `translations/en/reviews/`.
 
-## Part 003 — SOURCE INTAKE + PASS 1 + PASS 2A + PASS 2B + PASS 3 COMPLETE / AUDIT NEXT
+## Part 003 — SOURCE INTAKE + PASS 1 + PASS 2A + PASS 2B + PASS 3 COMPLETE / AUDIT PASS / FINAL STATUS SYNC NEXT
 
 Controlling source:
 
@@ -122,7 +122,7 @@ Durable Pass-2A record: `PASS2_TEXTUAL_VERIFICATION_PART_003.md`.
 
 Internal **332→333 genuine continuation is closed**. External **333→334 remains deferred** until Part 004 intake.
 
-All records intentionally remain `needs-review` / `visual_fidelity: needs-review`; Pass 3, audit and final synchronization are still required before textual/visual `verified` status.
+All records intentionally remain `needs-review` / `visual_fidelity: needs-review`; Pass 3 and the Part audit are now complete, but final metadata/status synchronization is still required before textual/visual `verified` status.
 
 Durable Pass-2B record: `PASS2B_LEXICAL_FIDELITY_PART_003.md`. Supplemental late-batch record: `PASS2B_BATCH_010_011_CLOSURE.md`.
 
@@ -143,10 +143,17 @@ Durable Pass-2B record: `PASS2B_LEXICAL_FIDELITY_PART_003.md`. Supplemental late
 - **Final remainder: scan 333 / printed 316 — COMPLETE 1/1**; structural correction preserves highlighted Kural 567 as a distinct two-line set-out block and records side vertical title/footer furniture separately; lexical wording unchanged.
 - Lexical body-text changes during Pass 3: **0**.
 - Status promotions during Pass 3: **0**.
-- All records remain `needs-review` / `visual_fidelity: needs-review` pending the Part audit and final metadata/status synchronization.
 
 Durable Pass-3 record: `PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`. Supplemental Batch-9 record: `PASS3_BATCH_009.md`.
 
+### Part 003 audit state
+
+**PASS — all 111 records / scans 223–333 / printed 206–316.**
+
+The audit confirms complete physical coverage and mapping, closed source intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 gates, coherent internal continuations, preserved Kural/visual structure, correct non-body separation and **0 carried partial / blocked / source-limited Tamil exceptions**. No page record or Tamil body wording was changed during the audit, and no status was promoted.
+
+Durable audit record: `PART_003_AUDIT.md`.
+
 ## Current frontier
 
-**Next activity: Part 003 audit — scans 223–333 / printed 206–316, all 111 page records.** Reconcile inventory, source identity, Pass 1 / Pass 2A / Pass 2B / Pass 3 coverage, internal boundaries, unresolved exceptions, page-record metadata/status consistency and changed-file expectations against the Part-002 audit precedent. Do not promote page records until the audit passes and the later final metadata/status synchronization is explicitly performed. English remains blocked until Tamil archival closure. External **333→334** remains deferred until Part 004 intake.
+**Next activity: Part 003 final metadata/status synchronization — all 111 records / scans 223–333 / printed 206–316.** This is a metadata-only gate. Promote eligible records from `status: "needs-review"` to `status: "verified"` and from `visual_fidelity: "needs-review"` to `visual_fidelity: "verified"`, without changing Tamil body wording, Kural text, page structure, visual notes, source comments or mapping. Audit the exact metadata-only changed-file set before the later documentation synchronization and Tamil archival-ready checkpoint. English remains blocked until Tamil closure. External **333→334** remains deferred until Part 004 intake.
