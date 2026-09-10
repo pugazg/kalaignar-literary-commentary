@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 Large upper illustration of two male friends conversing.
 
-I have a friend. He is extremely mischievous. It is natural for pleasure and suffering to come alternately in human life. I am not one who fails to understand that the beauty of a steadfast mind lies in accepting suffering with the same cheerfulness with which we accept pleasure.
+I have a friend. He is extremely mischievous. It is natural for pleasure and suffering to come alternately in human life. I understand that the beauty of a steadfast mind lies in accepting suffering with the same cheerfulness with which we accept pleasure.
 
 My friend knows me well in precisely that way. He was with me when troubles came; he is with me still. Yet, as I said, he is a prankster. One day he came and sat beside me, humming a Kural.
 

@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -21,7 +21,7 @@ The colour of pallor that had waited restlessly for the moment he would leave so
 
 Can that colour be cast off like a garment on fire? Only when her companion returns to loosen the suffering called pallor that has seized her can he loosen her garment too, upon the bed scented with akil.
 
-Her sighs are blazing fire; the flow of blood is a burning pipe; her gaze is empty and without light. Her grandmother is an old fruit with age. She knows that her granddaughter is now enduring some of the very torments she herself endured in her youth. She approached Seyizhai to offer comfort.
+Her sighs are blazing fire; the flow of blood is a burning pipe; her gaze is empty and without light. Her grandmother is an old woman ripened by age. She knows that her granddaughter is now enduring some of the very torments she herself endured in her youth. She approached Seyizhai to offer comfort.
 
 “What is this, my dear? Why such suffering? Will the one who left never return? Tch, tch! What a foolish girl you are! Is this how you let pallor spread over you merely by thinking of separation?”
 

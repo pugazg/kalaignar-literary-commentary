@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,7 +19,7 @@ Karmegam sat at the edge of the field with a headcloth tied around his head. He 
 
 An elder from the village saw Karmegam sitting alone and came to him. Mud from his fieldwork was spread over his body like sandal paste. The elder asked Karmegam, “What is it, younger brother? You look troubled. I heard there was to be a marriage for you. When is it?”
 
-Karmegam replied irritably, “Marriage or nonsense! Don't such things require money for the expenses? What do I have?”
+Karmegam replied irritably, “Marriage or nonsense! Doesn't all that require money for expenses? What do I have?”
 
 Hearing this reply—
 

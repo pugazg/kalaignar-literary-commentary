@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -28,7 +28,7 @@ On hearing the Kural, the visitor bowed to the great Valluvar.
 
 “Cling!”
 
-That was the word. Startled, he turned back. “Only now he told me to let go of attachment; already he says ‘cling.’ What contradiction is this?” he wondered.
+That was the word. Startled, he turned back. “He only just told me to let go of attachment, and already he says ‘cling.’ What contradiction is this?” he wondered.
 
 “To cast away attachments, one must cling to one attachment. That is the discipline of renunciation.”
 

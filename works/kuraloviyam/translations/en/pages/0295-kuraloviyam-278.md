@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -23,7 +23,7 @@ That night came to her like another daytime. Even then she sat beneath the tree.
 
 She became motionless. Without realizing it, she leaned against the trunk. Her eyes remained fixed. Time passed like this.
 
-After a long while he returned. Instead of coming from the front, he came from behind, rested his head on her shoulder and caught her neck with his lips. Startled, she sprang up.
+After a long while he returned. Instead of coming from the front, he came from behind, rested his head on her shoulder and pressed his lips to her neck. Startled, she sprang up.
 
 “For all these naazhigai, where had you surrendered your heart? To the beauty of the moon?” he asked.
 

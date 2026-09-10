@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -23,7 +23,7 @@ Still laughing, he asked, “Is Moodevi the elder sister of Thirumagal, or the y
 
 I said, “Don't you know even that? She is the elder sister!”
 
-My friend laughed aloud and said, “My argument is that neither Moodevi nor Thirumagal exists. But my friends said, ‘Both of them exist. The only point open to argument is which one is the elder sister and which the younger.’ I could not contain the laughter that argument produced, so I came to you. But now you say Thirumagal is the younger and Moodevi the elder, throwing a challenge at my very rationalism!”
+My friend laughed aloud and said, “My argument is that neither Moodevi nor Thirumagal exists. But my friends said, ‘Both of them exist. The only point open to argument is which one is the elder sister and which the younger.’ I could not contain the laughter that argument produced, so I came to you. But now you say Thirumagal is the younger and Moodevi the elder, challenging my very rationalism!”
 
 I patted my friend on the back and said, “Come with me. I will show you what Thirumagal and Moodevi are like, and where they live.”
 

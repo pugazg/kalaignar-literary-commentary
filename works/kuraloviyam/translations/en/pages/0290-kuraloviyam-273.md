@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,6 +15,6 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 Large upper illustration of two women conversing, with a male portrait above.
 
-Ponni stood looking at the sky and sighing deeply. “What is it? Have you become lost in wonder at the procession of clouds?” asked Thamarai as she came near her. Ponni, with great effort, gathered a smile upon her face, but it vanished at once like a flash of lightning. Thamarai looked at her and asked:
+Ponni stood looking at the sky and sighing deeply. “What is it? Have you become lost in wonder at the procession of clouds?” asked Thamarai as she came near her. With great effort, Ponni managed to summon a smile, but it vanished at once like a flash of lightning. Thamarai looked at her and asked:
 
 <!-- Source scan page: 290; printed page: 273; Ponni / Thamarai waiting-for-lover vignette begins; genuine continuation to scan 291 -->

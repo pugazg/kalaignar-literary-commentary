@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -21,7 +21,7 @@ The waves of the sea struck the shore without clamour. The rising sun came up sp
 
 “Only if Mullai-kodi lets him go can he come,” came the reply amid teasing laughter.
 
-Not even two months had passed since their marriage. Those young hearts longed to spend every hour as food for one another. But only if work continued could the household go on.
+Not even two months had passed since their marriage. Those young hearts longed to spend every moment as each other's feast. But only if work continued could the household go on.
 
 “Let me go. I will fly back before dawn tomorrow,” Mukilan pleaded with Mullai-kodi, who clung to him and wept.
 

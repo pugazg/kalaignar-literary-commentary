@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -17,7 +17,7 @@ Would she fail to come?
 
 She cursed the darkness for taking so long to arrive.
 
-As though frightened of her, darkness rushed in. Kaali slipped out like a thieving cat—between the heap of harvested paddy and the stack of straw left after threshing. The one who came as a cat stood there transformed into a flower.
+As though frightened of her, darkness rushed in. Like a thieving cat, Kaali slipped stealthily between the heap of harvested paddy and the stack of straw left after threshing. She had come like a cat; there she stood transformed into a flower.
 
 Kadamban became a bee and drank honey. Neither the dust of the threshing ground nor the itch caused by their bodies pressing into straw seemed an obstacle to their revelry of pleasure. They were no longer in this world at all. He in her lap; she upon his shoulder; the sweet sound of kisses.
 

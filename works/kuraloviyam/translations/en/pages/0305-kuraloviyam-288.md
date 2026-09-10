@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,7 +19,7 @@ He was a poet gifted with imagination, one who composed verse. His name was Ezhi
 
 The king of Kolli Nadu, determined somehow to suppress Valanadu's uprising, won over one of Valanadu's army commanders with a huge bribe.
 
-Ezhini, who had composed songs of awakening, also became the intermediary in that act and went on betraying the Valanadu that had sustained him.
+Ezhini, who had composed songs of awakening, became the intermediary in that bribery and went on betraying the Valanadu that had sustained him.
 
 When the truth spread through Valanadu, Ezhini took his family and went over to Kolli Nadu itself.
 

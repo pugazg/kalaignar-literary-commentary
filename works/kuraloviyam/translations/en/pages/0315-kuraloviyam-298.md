@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -17,6 +17,6 @@ Large upper illustration of an elderly woman speaking with a young woman sufferi
 
 Literature describes the change of colour that arises in the body from inability to bear separation as “the spreading of pallor.” When the heart withers, the body grows thin. If the body wastes until the bangles slip and fall, even mango-coloured skin will lose its colour.
 
-Seyizhai owns lips that shine with smiles. Between white eyes like rounded jasmine blossoms, dark pupils like bees dance—
+Seyizhai has lips lit by smiles. Within eyes white as rounded jasmine blossoms, dark pupils like bees dance—
 
 <!-- Source scan page: 315; printed page: 298; pallor / separation vignette begins; genuine continuation to scan 316 -->

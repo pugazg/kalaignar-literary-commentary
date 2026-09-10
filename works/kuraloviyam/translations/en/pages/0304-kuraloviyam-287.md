@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -26,7 +26,7 @@ Thingal and Sevvai parted. The round moon rose in the sky.
 
 The withered Thingal stood at the doorway, eyes fixed upon the road, waiting.
 
-After a long time he too came flying back. With desire he lifted the green-parrot maiden. He himself bolted the door. Holding her over his shoulder, he loosened her garment. “Is there one law for each person?” she asked. “You yourself may condemn that injustice and take action,” he said. Milk stripped of its covering and cow's milk waited beside the bed. Male and female blossomed together as one flower upon the bed.
+After a long time he too came flying back. With desire he lifted the green-parrot maiden. He himself bolted the door. Holding her over his shoulder, he loosened her garment. “Is there one law for each person?” she asked. “You yourself may condemn that injustice and take action,” he said. An uncovered breast and cow's milk waited beside the bed. Male and female blossomed together as one flower upon the bed.
 
 His fingers played the veena over the softness of her body. The strings trembled. Four lips produced four thousand kinds of sound. She dissolved into him. The lovers' quarrel Sevvai had instructed her to conduct did not even raise its head to prevent his embrace.
 

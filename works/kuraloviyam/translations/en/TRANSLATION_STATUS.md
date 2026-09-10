@@ -135,7 +135,7 @@ Incoming **222→223 is CLEAN**. Internal **332→333** is a genuine continuatio
 - remaining undrafted Part-003 pages: **0**;
 - source-check: **111/111 COMPLETE / CLOSED**;
 - glossary reconciliation: **111/111 COMPLETE / CLOSED**;
-- editorial review: **IN PROGRESS — ER1 + ER2 COMPLETE / PASS 66/111**;
+- editorial review: **IN PROGRESS — ER1 + ER2 + ER3 COMPLETE / PASS 99/111**;
 - Part-level review / release: **not-started**.
 
 Batch D3 page commit: `f0dc8aeb8608aea9bb99083e2c366fb41f9f9216` — `kuraloviyam: Draft Part 003 English scans 289-321`.
@@ -197,23 +197,25 @@ GR4 checked all **6** Chapter/Kural metadata records in scans **322–333**. All
 
 - **ER1: scans 223–255 / printed 206–238 — COMPLETE / PASS 33/33**;
 - **ER2: scans 256–288 / printed 239–271 — COMPLETE / PASS 33/33**;
-- cumulative editorial review: **66/111**;
-- remaining editorial-review pages: **45**;
-- current Part-003 English state: **66 `editorial-reviewed` + 45 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**;
+- **ER3: scans 289–321 / printed 272–304 — COMPLETE / PASS 33/33**;
+- cumulative editorial review: **99/111**;
+- remaining editorial-review pages: **12**;
+- current Part-003 English state: **99 `editorial-reviewed` + 12 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**;
 - ER1 English wording changes: **3 page files — scans 246, 251, 255**;
 - ER2 English wording changes: **15 page files — scans 256, 258, 259, 260, 263, 264, 265, 269, 270, 273, 275, 279, 281, 285, 287**;
-- ER2 status-only promotions: **18 page files**;
-- Tamil page / metadata changes during ER1 + ER2: **0**;
+- ER3 English wording changes: **14 page files — scans 289, 290, 292, 295, 298, 300, 304, 305, 308, 310, 313, 315, 316, 320**;
+- ER3 status-only promotions: **19 page files**;
+- Tamil page / metadata changes during ER1 + ER2 + ER3: **0**;
 - no standard/published/web English Kural wording, external terminology or remembered rendering was imported.
 
-ER2 editorial changes were source-faithful readability/continuity improvements only. In particular, the exact Tamil page split across **258→259** (`...காதலனை இன்னும் காணவில்லையே என்ற / ஏக்கத்தைத் தவிர...`) is now mirrored without duplicated English wording; the exact **264→265** split (`மரத்தின் / உச்சியிலிருந்த வல்லான்...`) is likewise preserved. The clean **277→278** boundary remains intact, and the genuine outgoing **288→289** continuation remains open into ER3. Kural blocks, Chapter/Kural metadata, visual/non-body page functions and controlled names/terms remain unchanged except for prose-level editorial smoothing supported by the audited Tamil records.
+ER3 was a source-faithful readability and continuity pass. The genuine **288→289** continuation remains intact and closes on scan 289; the clean **321→322** boundary remains clean. Kural blocks, Chapter/Kural metadata, visual/non-body page functions and controlled names/terms were preserved. Meaning-sensitive changes were checked against the audited Tamil, including the neck-embrace wording on **295**, the mutual-feast metaphor on **298**, the `பால்` wordplay on **304**, Ezhini's intermediary role on **305**, the cat/flower sequence on **308**, the judge-ruling continuation on **310**, Karmegam's expense sentence on **313**, the Seyizhai description across **315→316**, and the terrace sentence on **320**.
 
-## Current frontier — Part 003 English Editorial Review ER3
+## Current frontier — Part 003 English Editorial Review ER4
 
-Exact next activity: **editorial review scans 289–321 / printed 272–304 — 33 page-aligned records**.
+Exact next activity: **editorial review scans 322–333 / printed 305–316 — final 12 page-aligned records**.
 
 Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity. Consult the matching audited Tamil whenever an editorial change could affect meaning. Make only source-faithful editorial improvements. Passing pages may move from `source-checked` to `editorial-reviewed`.
 
-Do not begin Part-level review or release work during ER3. If ER3 passes, cumulative editorial review becomes **99/111** and the final batch is **ER4 scans 322–333 / printed 305–316, 12 pages**.
+Do not begin Part-level review or release work during ER4. If ER4 passes, editorial review becomes **111/111 COMPLETE / CLOSED** and the next gate is **whole-Part Part-level English review** for scans 223–333.
 
-Part 004 remains blocked until Part 003 completes editorial review, Part review, release report/release-ready synchronization and the final Part closure checkpoint.
+Part 004 remains blocked until Part 003 completes Part review, release report/release-ready synchronization and the final Part closure checkpoint.
