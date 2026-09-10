@@ -54,26 +54,24 @@ Durable Tamil closure: `../../PART_003_TAMIL_ARCHIVAL_READY.md`.
 
 Incoming **222→223 is CLEAN**. Internal **332→333** is a genuine continuation closed within Part 003. External **333→334** remains deferred until Part 004 source intake.
 
-## Part 003 English — FIRST-PASS DRAFTING ACTIVE
+## Part 003 English — FIRST-PASS DRAFTING COMPLETE
 
 - Draft Batch D1: **scans 223–255 / printed 206–238 — COMPLETE 33/33**;
 - Draft Batch D2: **scans 256–288 / printed 239–271 — COMPLETE 33/33**;
 - Draft Batch D3: **scans 289–321 / printed 272–304 — COMPLETE 33/33**;
-- cumulative English drafting: **99/111**;
-- completed-range state: **99 `draft` / 0 source-limited / 0 blocked**;
-- remaining undrafted pages: **12**;
+- Draft Batch D4: **scans 322–333 / printed 305–316 — COMPLETE 12/12 / FINAL REMAINDER**;
+- cumulative English drafting: **111/111 COMPLETE**;
+- current English state: **111 `draft` / 0 source-limited / 0 blocked**;
 - source-check / glossary reconciliation / editorial review / Part review / release: **not-started**.
 
-D1–D3 preserve page alignment, visual-material descriptions, Kural block separation and source-supported cross-page continuities. No Tamil archival record changed. D3 preserved the genuine incoming **288→289** continuation and closes at a **CLEAN 321→322** boundary.
+All 111 English pages preserve page alignment, visual/non-body descriptions, Kural block separation and source-supported cross-page continuities. The known **332→333** continuation is preserved and closed within Part 003. No Tamil archival record changed.
 
 ## Current frontier
 
-Exact next activity: **Part 003 English first-pass Draft Batch D4 / final remainder — scans 322–333 / printed 305–316, 12 pages**.
+Exact next activity: **Part 003 English source-check SC1 — scans 223–255 / printed 206–238, 33 pages**.
 
-Keep each newly created record at `status: "draft"` with `source_tamil_status: "verified"`. Preserve the genuine **332→333** continuation. Do not infer external **333→334**; that remains deferred until Part 004 source intake.
+Compare every English record against its audited Tamil counterpart paragraph-by-paragraph / block-by-block. Check omissions, additions, meaning drift, names, quotations, Kural blocks, visual-page function and cross-page continuity. Only passing pages may move from `draft` to `source-checked`.
 
-If D4 closes, first-pass drafting becomes **111/111 COMPLETE** and the next gate is **Part 003 English source-check**, starting with scans **223–255 / printed 206–238** at the current 33-page cadence.
-
-Part 004 remains blocked until the Part-003 maintained English workflow and final Part closure checkpoint are complete.
+Do not begin glossary reconciliation until all Part-003 source-check batches are complete. Part 004 remains blocked until the Part-003 maintained English workflow and final Part closure checkpoint are complete.
 
 See `TRANSLATION_STATUS.md` for the authoritative detailed frontier.
