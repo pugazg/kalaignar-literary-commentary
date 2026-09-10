@@ -24,7 +24,7 @@ jobs:
           set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          python3 .github/scripts/kuraloviyam-part003-gr3-complete.py
+          python3 .github/scripts/kuraloviyam-part003-gr3-complete-wrapper.py
           git add HANDOVER.md KURALOVIYAM_ARCHIVAL_GUIDELINES.md NEXT_CHAT_PROMPT_KURALOVIYAM.md \
             works/kuraloviyam/HANDOVER.md works/kuraloviyam/README.md \
             works/kuraloviyam/indexes/page-map.md works/kuraloviyam/metadata/source.md \
