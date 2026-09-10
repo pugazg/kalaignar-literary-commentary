@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-—foot ran across the entire field, scars of drought. While hundreds of lamps burned brightly all around, why did that one field alone lie dark like a lamp that had never known oil?
+—the field was cracked all across, scars of drought. While hundreds of lamps burned brightly all around, why did that one field alone lie dark like a lamp that had never known oil?
 
 The owner of that land was the adopted child of laziness. Rather than labouring and rejoicing in work, he delighted in sleep. Wherever he found a veranda, he shut his eyes. After sowing a crop in name alone and coming away, he never turned to look toward the field again.
 

@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -21,6 +21,6 @@ As though a gold mine had spread across the earth, wherever one looked the red p
 
 On the threshing floor, a strong young man lifted armful after armful of paddy stalks and swung them down like a striped-tiger warrior whirling and bringing down a sword. There the mound of grain rose tall like a mound of gold.
 
-While everyone's fields shone so splendidly like treasuries of gold, in one plot alone the crops lay withered, their plumes stricken with sickness. Their roots must have gone a very long time without seeing water. Even at a glance it was clear that no manure had been applied and no weeds had been removed. Cracks like the fissures of a fevered—
+While everyone's fields shone so splendidly like treasuries of gold, in one plot alone the crops lay withered, their plumes stricken with sickness. Their roots must have gone a very long time without seeing water. Even at a glance it was clear that no manure had been applied and no weeds had been removed. Like a foot scarred by deep fissures—
 
 <!-- Source scan page: 252; printed page: 235; harvest/neglected-field vignette begins; continues directly to scan 253 -->

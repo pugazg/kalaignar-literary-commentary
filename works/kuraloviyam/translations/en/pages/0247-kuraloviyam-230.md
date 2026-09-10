@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-—he wrote that lovers' quarrelling itself gives pleasure to love. That quarrelling is also called `pulavi` and `thuni`. You seem to be living your married life like a machine without leaving any room at all for lovers' quarrel!
+—he wrote that lovers' quarrelling itself gives pleasure to love. That quarrelling is also called `pulavi` and `pinakku`. You seem to be living your married life like a machine without leaving any room at all for lovers' quarrel!
 
 > If there are neither deep estrangement nor lovers' sulking,  
 > love is like fruit overripe or still unripe.
