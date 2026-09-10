@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-Through two lovers who spent the entire night embraced without even an embrace's breadth of space between them, reaching the peak of pleasure and returning, Valluvar also makes them tell us how lovers' quarrel itself ran away.
+Valluvar also has two lovers—who spent the entire night embraced without even the slightest space between them, reaching the peak of pleasure and returning—tell us how lovers' quarrel itself ran away.
 
 Morning blossoms; the bedchamber gives a deep sigh. The lovers, who from crown to sole had competed in exchanging kisses with the sound “ich,” come out of the room. They bathe in water and adorn themselves with golden ornaments and garments.
 

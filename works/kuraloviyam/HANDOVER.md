@@ -85,9 +85,9 @@ Current user-directed page-batch cadence: **33 physical scans**.
 - cumulative first-pass drafting: **111/111 COMPLETE**;
 - post-drafting state: **111 `draft` / 0 source-limited / 0 blocked**;
 - source-check: **COMPLETE / CLOSED — 111/111**;
-- current English state: **111 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**;
-- glossary reconciliation: **IN PROGRESS — GR1 + GR2 + GR3 COMPLETE / PASS, 99/111**;
-- editorial review: **not-started**;
+- current English state: **33 `editorial-reviewed` + 78 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**;
+- glossary reconciliation: **COMPLETE / CLOSED — 111/111**;
+- editorial review: **IN PROGRESS — ER1 COMPLETE / PASS 33/111**;
 - Part review / release: **not-started**.
 
 D4 page commit: `f43d41d57622abdda7a9de63effe39697362629e` — `kuraloviyam: Draft Part 003 English scans 322-333`. Its 12 page records were reconciled into live main together with the completed-drafting controls. No Tamil file changed.
@@ -119,18 +119,27 @@ SC4 page commit: `e07a6775513bcf1619e5d1bcb6e8222f7004f0a8`. Incoming **321→32
 - recurring GR2 narrative/literary names were recorded;
 - no Tamil file or metadata changed.
 
-## Exact next activity — English Editorial Review ER1
+## Editorial review progress — ER1 COMPLETE / PASS 33/111
 
-Process **scans 223–255 / printed 206–238 — 33 PAGE-ALIGNED RECORDS**.
+- ER1 **223–255 / printed 206–238 — COMPLETE / PASS 33/33**;
+- English state: **33 editorial-reviewed + 78 source-checked**;
+- wording changes limited to scans **246, 251, 255**;
+- Tamil changes: **0**;
+- source-supported Kural blocks and range continuities preserved.
+
+## Exact next activity — English Editorial Review ER2
+
+Process **scans 256–288 / printed 239–271 — 33 PAGE-ALIGNED RECORDS**.
 
 1. fetch live `main` first;
-2. confirm Part 003 Tamil remains **ARCHIVAL-READY / CLOSED** and English drafting, source-check and glossary reconciliation are each **111/111 COMPLETE / CLOSED**;
-3. read `translations/en/TRANSLATION_GUIDE.md`, `TRANSLATION_STATUS.md`, `GLOSSARY.md`, and English records **0223–0255**, consulting matching audited Tamil wherever an editorial choice could affect meaning;
-4. review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity;
-5. make only source-faithful editorial improvements; do not import standard/published/web English wording or terminology from memory;
-6. passing pages may move from `source-checked` to `editorial-reviewed`;
-7. do not alter Tamil files;
-8. do not begin Part-level review or release work during ER1;
-9. update `TRANSLATION_STATUS.md` and audit the exact changed-file set.
+2. confirm Part 003 Tamil remains **ARCHIVAL-READY / CLOSED** and English drafting, source-check and glossary reconciliation remain **111/111 COMPLETE / CLOSED**;
+3. confirm editorial review is **33/111** with scans **223–255** `editorial-reviewed`;
+4. read `translations/en/TRANSLATION_GUIDE.md`, `TRANSLATION_STATUS.md`, `GLOSSARY.md`, and English records **0256–0288**, consulting matching audited Tamil wherever an editorial choice could affect meaning;
+5. review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity;
+6. make only source-faithful editorial improvements; do not import standard/published/web English wording or terminology from memory;
+7. passing pages may move from `source-checked` to `editorial-reviewed`;
+8. do not alter Tamil files;
+9. do not begin Part-level review or release work during ER2;
+10. update `TRANSLATION_STATUS.md` and audit the exact changed-file set.
 
-If ER1 passes, the next activity is **Editorial Review ER2 — scans 256–288 / printed 239–271, 33 pages**. External **333→334** remains deferred until Part 004 source intake. Part 004 remains blocked until the maintained English workflow and final Part closure checkpoint are complete.
+If ER2 passes, cumulative editorial review becomes **66/111** and the next activity is **Editorial Review ER3 — scans 289–321 / printed 272–304, 33 pages**. External **333→334** remains deferred until Part 004 source intake. Part 004 remains blocked until the maintained English workflow and final Part closure checkpoint are complete.

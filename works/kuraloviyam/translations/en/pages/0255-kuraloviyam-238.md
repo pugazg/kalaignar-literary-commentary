@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -17,7 +17,7 @@ There was no movement in the door. Sighing that it was merely the result of her 
 
 Suddenly there came a great crash! The door shattered and broke apart. The axe that had broken the door flew inside and fell near her bed. Screaming, she rose and tried to run out through the broken doorway. But what a wonder! When she reached the door, it was still closed with the bolt in place. Her body trembling as though she had bathed beneath a waterfall in winter, she sank to the floor. Her heart spoke to her.
 
-“Woman! Unmarried maiden! Even if you protect the door called restraint by placing me upon it as the bolt called modesty, one day the axe called desire will break that door open.”
+“Woman! Unmarried maiden! Even if you guard the door called chastity by using me as the bolt called modesty, one day the axe called desire will break that door open.”
 
 Hearing the voice of her heart, the event of that evening cast its shadow across her memory.
 

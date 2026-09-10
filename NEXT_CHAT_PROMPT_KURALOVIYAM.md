@@ -42,10 +42,10 @@ Read completely before changing anything:
 - Part 003 English source-check SC3: **COMPLETE 33/33 — scans 289–321 / printed 272–304**.
 - Part 003 English source-check SC4: **COMPLETE 12/12 — scans 322–333 / printed 305–316 / FINAL REMAINDER**.
 - cumulative source-check: **111/111 COMPLETE / CLOSED**.
-- current Part-003 English state: **111 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**.
+- current Part-003 English state: **33 `editorial-reviewed` + 78 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**.
 - remaining undrafted pages: **0**.
-- glossary reconciliation: **IN PROGRESS — GR1 + GR2 + GR3 COMPLETE / PASS, 99/111**.
-- editorial review / Part review / release: **not-started**.
+- glossary reconciliation: **111/111 COMPLETE / CLOSED**.
+- editorial review: **IN PROGRESS — ER1 COMPLETE / PASS 33/111**; Part review / release: **not-started**.
 
 D4 page commit: `f43d41d57622abdda7a9de63effe39697362629e`; its 12 page records were reconciled into live main with the drafting-completion controls. No Tamil files changed.
 
@@ -120,21 +120,29 @@ SC4 page commit: `e07a6775513bcf1619e5d1bcb6e8222f7004f0a8`.
 
 GR2 verified all 16 Chapter/Kural metadata records in its range with 0 numeric or controlled-label mismatch. It added six Part-003-first chapter controls, mapped the GR2 source-form variants to established labels, refined contextual handling of `பாவம்`, `தேன்மொழி`, and descriptive `புணர்ச்சி மகிழ்தல்`, and recorded the recurring GR2 narrative/literary names.
 
-## Exact next activity — Part 003 English Editorial Review ER1
+## Editorial review progress
 
-Process **scans 223–255 / printed 206–238 — 33 page-aligned records**.
+- ER1 **scans 223–255 / printed 206–238 — COMPLETE / PASS 33/33**;
+- cumulative editorial review **33/111**;
+- current page state **33 editorial-reviewed + 78 source-checked**;
+- ER1 wording changes were limited to scans **246, 251 and 255**;
+- no Tamil record changed.
+
+## Exact next activity — Part 003 English Editorial Review ER2
+
+Process **scans 256–288 / printed 239–271 — 33 page-aligned records**.
 
 Requirements:
 
 1. fetch live `main` first and preserve newer durable work;
 2. confirm `PART_003_TAMIL_ARCHIVAL_READY.md` remains **PASS / CLOSED**;
-3. confirm English drafting, source-check and glossary reconciliation are each **111/111 COMPLETE / CLOSED**;
-4. read `translations/en/TRANSLATION_GUIDE.md`, `GLOSSARY.md`, and English records **0223–0255** with their matching audited Tamil records where meaning-sensitive editorial decisions arise;
+3. confirm English drafting, source-check and glossary reconciliation are each **111/111 COMPLETE / CLOSED**, and editorial review is **33/111**;
+4. read `translations/en/TRANSLATION_GUIDE.md`, `GLOSSARY.md`, and English records **0256–0288** with matching audited Tamil wherever meaning-sensitive editorial decisions arise;
 5. review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity;
 6. make only source-faithful editorial improvements; do not import standard/published/web English Kural wording, another edition's terminology, or memory;
 7. passing pages may move from `source-checked` to `editorial-reviewed`;
 8. do not alter any Tamil page record or Tamil metadata;
-9. do not begin Part-level review or release work during ER1;
+9. do not begin Part-level review or release work during ER2;
 10. update `TRANSLATION_STATUS.md` and audit the exact changed-file set before advancing.
 
-If ER1 passes, the next activity is **Editorial Review ER2 — scans 256–288 / printed 239–271, 33 pages**. Part 004 remains blocked until Part 003 completes editorial review, Part review, release report/release-ready synchronization and final Part closure. External **333→334** remains deferred until Part 004 source intake.
+If ER2 passes, cumulative editorial review becomes **66/111** and the next activity is **Editorial Review ER3 — scans 289–321 / printed 272–304, 33 pages**. Part 004 remains blocked until Part 003 completes editorial review, Part review, release report/release-ready synchronization and final Part closure. External **333→334** remains deferred until Part 004 source intake.

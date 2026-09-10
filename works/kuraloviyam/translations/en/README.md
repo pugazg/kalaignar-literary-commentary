@@ -93,12 +93,19 @@ SC4 page commit: `e07a6775513bcf1619e5d1bcb6e8222f7004f0a8`.
 
 GR2 added the Part-003-first chapter controls **Poverty**, **Self-Control**, **Renouncing Modesty**, **Good Conduct**, **Knowing One's Strength**, and **Seeking the Support of the Great**; mapped three source-form variants to existing chapter controls; refined context for `பாவம்`, `தேன்மொழி`, and descriptive `புணர்ச்சி மகிழ்தல்`; and recorded recurring GR2 narrative/literary names. No Tamil archival record changed.
 
+## Part 003 English editorial review — IN PROGRESS
+
+- ER1 **223–255 / 206–238 — COMPLETE / PASS 33/33**;
+- cumulative editorial review: **33/111**;
+- current English state: **33 `editorial-reviewed` + 78 `source-checked`**;
+- ER1 wording changes: **scans 246, 251, 255 only**; no Tamil record changed.
+
 ## Current frontier
 
-Exact next activity: **Part 003 English Editorial Review ER1 — scans 223–255 / printed 206–238, 33 pages**.
+Exact next activity: **Part 003 English Editorial Review ER2 — scans 256–288 / printed 239–271, 33 pages**.
 
 Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity. Consult audited Tamil whenever an editorial change could affect meaning. Passing pages may move from `source-checked` to `editorial-reviewed`.
 
-If ER1 passes, the next editorial batch is **ER2 — scans 256–288 / printed 239–271, 33 pages**. Part 004 remains blocked until the maintained Part-003 English workflow and final Part closure checkpoint are complete.
+If ER2 passes, cumulative editorial review becomes **66/111** and the next editorial batch is **ER3 — scans 289–321 / printed 272–304, 33 pages**. Part 004 remains blocked until the maintained Part-003 English workflow and final Part closure checkpoint are complete.
 
 See `TRANSLATION_STATUS.md` for the authoritative detailed frontier.

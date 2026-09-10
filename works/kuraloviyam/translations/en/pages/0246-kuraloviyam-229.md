@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -27,7 +27,7 @@ After some days Maangani and her husband came back to her village. Her husband d
 
 “How is married life?” Poonguzhali asked Maangani. The two spoke about how each night seemed to fly past.
 
-With a deep sigh Maangani said, “Poonguzhali! What is there to hide from you? In bodily union my husband carries me into a very realm of pleasure. Yet for some reason my heart does not become fulfilled along with that fullness of feeling. I expect something more from him than bodily pleasure alone, and in that I am disappointed. You must show me a way for my life and the pleasure I receive to become complete.”
+With a deep sigh Maangani said, “Poonguzhali! What is there to hide from you? In bodily union my husband carries me into the very realm of pleasure. Yet for some reason my heart does not become fulfilled along with that fullness of feeling. I expect something more from him than bodily pleasure alone, and in that I am disappointed. You must show me a way for my life and the pleasure I receive to become complete.”
 
 Hearing this, Poonguzhali smiled. Laughing, she offered a way.
 

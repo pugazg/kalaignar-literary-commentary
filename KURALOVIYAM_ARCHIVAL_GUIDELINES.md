@@ -172,10 +172,10 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 - project-created English drafting: **111/111 COMPLETE / CLOSED**;
 - English source-check: **111/111 COMPLETE / CLOSED**;
 - English glossary reconciliation: **COMPLETE / CLOSED — 111/111**;
-- all English pages remain `source-checked`; editorial review / Part review / release are not started.
+- English editorial review: **IN PROGRESS — ER1 COMPLETE / PASS 33/111**; current page state **33 editorial-reviewed + 78 source-checked**; Part review / release are not started.
 
 ### Exact next content stage
 
-Perform **Part 003 English Editorial Review ER1 — scans 223–255 / printed 206–238, 33 page-aligned records**. Review readability and consistency against the controlled glossary and audited Tamil context; consult Tamil whenever a change could affect meaning; passing pages may move from `source-checked` to `editorial-reviewed`; do not begin Part-level review or release work during ER1; do not alter closed Tamil records.
+Perform **Part 003 English Editorial Review ER2 — scans 256–288 / printed 239–271, 33 page-aligned records**. Review readability and consistency against the controlled glossary and audited Tamil context; consult Tamil whenever a change could affect meaning; passing pages may move from `source-checked` to `editorial-reviewed`; do not begin Part-level review or release work during ER1; do not alter closed Tamil records.
 
 If ER1 passes, continue with **English Editorial Review ER2 — scans 256–288 / printed 239–271, 33 pages**. Part 004 remains blocked until the maintained Part-003 English workflow and final Part closure checkpoint are complete.

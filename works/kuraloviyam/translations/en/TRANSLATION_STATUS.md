@@ -135,7 +135,7 @@ Incoming **222→223 is CLEAN**. Internal **332→333** is a genuine continuatio
 - remaining undrafted Part-003 pages: **0**;
 - source-check: **111/111 COMPLETE / CLOSED**;
 - glossary reconciliation: **111/111 COMPLETE / CLOSED**;
-- editorial review: **not-started**;
+- editorial review: **IN PROGRESS — ER1 COMPLETE / PASS 33/111**;
 - Part-level review / release: **not-started**.
 
 Batch D3 page commit: `f0dc8aeb8608aea9bb99083e2c366fb41f9f9216` — `kuraloviyam: Draft Part 003 English scans 289-321`.
@@ -193,12 +193,27 @@ GR4 checked all **6** Chapter/Kural metadata records in scans **322–333**. All
 
 **Part 003 English glossary reconciliation is now COMPLETE / CLOSED — 111/111.**
 
-## Current frontier — Part 003 English Editorial Review ER1
+## Part 003 English editorial review — IN PROGRESS
 
-Exact next activity: **editorial review scans 223–255 / printed 206–238 — 33 page-aligned records**.
+- **ER1: scans 223–255 / printed 206–238 — COMPLETE / PASS 33/33**;
+- cumulative editorial review: **33/111**;
+- remaining editorial-review pages: **78**;
+- current Part-003 English state: **33 `editorial-reviewed` + 78 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**;
+- ER1 English wording changes: **3 page files — scans 246, 251, 255**;
+- scan **246**: grammatical smoothing only, `a very realm of pleasure` → `the very realm of pleasure`;
+- scan **251**: restructured the opening sentence for readable English while preserving the all-night embrace / peak-of-pleasure / quarrel-running-away sense;
+- scan **255**: reconciled the heart's source wording `கற்பு எனப்படும் கதவு` to **the door called chastity** and smoothed the bolt metaphor; the later Kural-level `நிறை` → **restraint** distinction remains intact;
+- Tamil page / metadata changes during ER1: **0**;
+- no standard/published/web English Kural wording, external terminology or remembered rendering was imported.
+
+The ER1 range preserves all source-supported Kural blocks, page functions and continuities, including genuine **233→234** and clean **244→245** / **255→256** boundaries.
+
+## Current frontier — Part 003 English Editorial Review ER2
+
+Exact next activity: **editorial review scans 256–288 / printed 239–271 — 33 page-aligned records**.
 
 Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity. Consult the matching audited Tamil whenever an editorial change could affect meaning. Make only source-faithful editorial improvements. Passing pages may move from `source-checked` to `editorial-reviewed`.
 
-Do not begin Part-level review or release work during ER1. After ER1 passes, the next editorial batch is **ER2 scans 256–288 / printed 239–271, 33 pages**.
+Do not begin Part-level review or release work during ER2. If ER2 passes, cumulative editorial review becomes **66/111** and the next batch is **ER3 scans 289–321 / printed 272–304, 33 pages**.
 
 Part 004 remains blocked until Part 003 completes glossary reconciliation, editorial review, Part review, release report/release-ready synchronization and the final Part closure checkpoint.
