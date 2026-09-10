@@ -37,9 +37,11 @@ Read completely before changing anything:
 - Draft Batch D2: **scans 256–288 / printed 239–271 — COMPLETE 33/33**.
 - Draft Batch D3: **scans 289–321 / printed 272–304 — COMPLETE 33/33**.
 - Draft Batch D4: **scans 322–333 / printed 305–316 — COMPLETE 12/12 / FINAL REMAINDER**.
-- current Part-003 English state: **111 `draft` / 0 source-limited / 0 blocked**.
+- Part 003 English source-check SC1: **COMPLETE 33/33 — scans 223–255 / printed 206–238**.
+- cumulative source-check: **33/111**.
+- current Part-003 English state: **33 `source-checked` + 78 `draft` / 0 source-limited / 0 blocked**.
 - remaining undrafted pages: **0**.
-- Part 003 English source-check / glossary reconciliation / editorial review / Part review / release: **not-started**.
+- glossary reconciliation / editorial review / Part review / release: **not-started**.
 
 D4 page commit: `f43d41d57622abdda7a9de63effe39697362629e`; its 12 page records were reconciled into live main with the drafting-completion controls. No Tamil files changed.
 
@@ -89,24 +91,29 @@ For source-check:
 - do not import standard/published/web English Kural wording;
 - do not use source-check for stylistic rewriting unrelated to fidelity.
 
-## Exact next activity — Part 003 English Source-check SC1
+## SC1 result — COMPLETE / PASS
 
-Process **scans 223–255 / printed 206–238 — 33 page-aligned records**.
+SC1 **scans 223–255 / printed 206–238 — 33/33 source-checked**. The source-fidelity pass made only three correction loci: scan 232 visual-material restoration; scan 247 `pulavi` / `pinakku` terminology; and the scans 252→253 split foot-fissure / drought-field simile. No Tamil record changed. Page commit: `0811c0ab6e59e863e92a6708b6352226e780cdfb`. The **255→256 boundary is CLEAN**.
+
+## Exact next activity — Part 003 English Source-check SC2
+
+Process **scans 256–288 / printed 239–271 — 33 page-aligned records**.
 
 Requirements:
 
 1. fetch live `main` first and preserve newer durable work;
 2. confirm `PART_003_TAMIL_ARCHIVAL_READY.md` remains **PASS / CLOSED**;
-3. confirm `translations/en/TRANSLATION_STATUS.md` records Part-003 first-pass drafting **111/111 COMPLETE**;
-4. read English records **0223–0255** and the matching audited Tamil records completely;
-5. compare each page paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural wording/lineation, visual-page function and cross-page continuity;
+3. confirm `translations/en/TRANSLATION_STATUS.md` records SC1 **COMPLETE — 33/111 cumulative**;
+4. read English records **0256–0288** and the matching audited Tamil records completely;
+5. compare each page paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural wording/lineation, visual/non-body page function and cross-page continuity;
 6. correct only source-fidelity issues supported by the audited Tamil records;
 7. keep `source_tamil_status: "verified"` and promote only passing pages from `draft` to `source-checked`;
-8. do not alter any Tamil page record or Tamil metadata;
-9. do not begin glossary reconciliation or editorial review during SC1;
-10. update `translations/en/TRANSLATION_STATUS.md` after the batch;
-11. audit the exact changed-file set before advancing.
+8. preserve incoming **255→256 CLEAN** and the genuine outgoing **288→289** continuation;
+9. do not alter any Tamil page record or Tamil metadata;
+10. do not begin glossary reconciliation or editorial review during SC2;
+11. update `translations/en/TRANSLATION_STATUS.md` after the batch;
+12. audit the exact changed-file set before advancing.
 
-If SC1 passes, Part-003 English source-check becomes **33/111**. The next batch will be **SC2: scans 256–288 / printed 239–271 — 33 pages**.
+If SC2 passes, Part-003 English source-check becomes **66/111**. The next batch will be **SC3: scans 289–321 / printed 272–304 — 33 pages**.
 
 Part 004 remains blocked until Part 003 completes the maintained English workflow and final Part closure checkpoint.

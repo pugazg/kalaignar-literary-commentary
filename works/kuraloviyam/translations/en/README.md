@@ -61,17 +61,23 @@ Incoming **222→223 is CLEAN**. Internal **332→333** is a genuine continuatio
 - Draft Batch D3: **scans 289–321 / printed 272–304 — COMPLETE 33/33**;
 - Draft Batch D4: **scans 322–333 / printed 305–316 — COMPLETE 12/12 / FINAL REMAINDER**;
 - cumulative English drafting: **111/111 COMPLETE**;
-- current English state: **111 `draft` / 0 source-limited / 0 blocked**;
-- source-check / glossary reconciliation / editorial review / Part review / release: **not-started**.
+- post-drafting state: **111 `draft` / 0 source-limited / 0 blocked**;
+- source-check: **IN PROGRESS — SC1 COMPLETE 33/111**;
+- current English state: **33 `source-checked` + 78 `draft` / 0 source-limited / 0 blocked**;
+- glossary reconciliation / editorial review / Part review / release: **not-started**.
 
 All 111 English pages preserve page alignment, visual/non-body descriptions, Kural block separation and source-supported cross-page continuities. The known **332→333** continuation is preserved and closed within Part 003. No Tamil archival record changed.
 
+## Part 003 English source-check
+
+SC1 **scans 223–255 / printed 206–238 — COMPLETE 33/33**. The batch passed with **33 `source-checked`**, leaving **78 `draft`** pages. Source-fidelity reconciliation restored scan 232's small statue page function, corrected scan 247's explicit `pulavi` / `pinakku` wording, and repaired the split foot-fissure / drought-field simile across scans 252→253. No Tamil archival record changed.
+
 ## Current frontier
 
-Exact next activity: **Part 003 English source-check SC1 — scans 223–255 / printed 206–238, 33 pages**.
+Exact next activity: **Part 003 English source-check SC2 — scans 256–288 / printed 239–271, 33 pages**.
 
-Compare every English record against its audited Tamil counterpart paragraph-by-paragraph / block-by-block. Check omissions, additions, meaning drift, names, quotations, Kural blocks, visual-page function and cross-page continuity. Only passing pages may move from `draft` to `source-checked`.
+Compare every English record against its audited Tamil counterpart paragraph-by-paragraph / block-by-block. Check omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual/non-body page function and cross-page continuity. Only passing pages may move from `draft` to `source-checked`.
 
-Do not begin glossary reconciliation until all Part-003 source-check batches are complete. Part 004 remains blocked until the Part-003 maintained English workflow and final Part closure checkpoint are complete.
+If SC2 passes, cumulative source-check becomes **66/111** and SC3 will cover **289–321 / printed 272–304**. Do not begin glossary reconciliation until all Part-003 source-check batches are complete. Part 004 remains blocked until the Part-003 maintained English workflow and final Part closure checkpoint are complete.
 
 See `TRANSLATION_STATUS.md` for the authoritative detailed frontier.
