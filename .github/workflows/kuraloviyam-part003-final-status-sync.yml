@@ -1,0 +1,125 @@
+name: Kuraloviyam Part 003 final status sync
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/kuraloviyam-part003-final-status-sync.yml
+
+permissions:
+  contents: write
+
+jobs:
+  sync-status:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Promote Part 003 page statuses only
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git clone --branch main --single-branch "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" repo
+          cd repo
+
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          root = Path("works/kuraloviyam/pages")
+          expected_paths = []
+
+          for scan in range(223, 334):
+              printed = scan - 17
+              part_page = scan - 222
+              path = root / f"{scan:04d}-kuraloviyam-{printed}.md"
+              expected_paths.append(path.as_posix())
+              if not path.is_file():
+                  raise SystemExit(f"missing expected page record: {path}")
+
+              old = path.read_text(encoding="utf-8")
+              lines = old.splitlines(keepends=True)
+
+              required = {
+                  f"scan_page: {scan}": 1,
+                  "part: 3": 1,
+                  f"part_page: {part_page}": 1,
+                  f'printed_page: "{printed}"': 1,
+                  'status: "needs-review"': 1,
+                  'visual_fidelity: "needs-review"': 1,
+                  'source_filename: "TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf"': 1,
+              }
+              for needle, count in required.items():
+                  actual = old.count(needle)
+                  if actual != count:
+                      raise SystemExit(f"{path}: expected {count} occurrence(s) of {needle!r}, found {actual}")
+
+              if 'status: "verified"' in old or 'visual_fidelity: "verified"' in old:
+                  raise SystemExit(f"{path}: premature verified status found")
+
+              new = old.replace('status: "needs-review"', 'status: "verified"', 1)
+              new = new.replace('visual_fidelity: "needs-review"', 'visual_fidelity: "verified"', 1)
+
+              old_lines = old.splitlines()
+              new_lines = new.splitlines()
+              changed = [(i, a, b) for i, (a, b) in enumerate(zip(old_lines, new_lines), start=1) if a != b]
+              if len(changed) != 2:
+                  raise SystemExit(f"{path}: expected exactly 2 changed lines, got {changed}")
+              expected_pairs = {
+                  ('status: "needs-review"', 'status: "verified"'),
+                  ('visual_fidelity: "needs-review"', 'visual_fidelity: "verified"'),
+              }
+              if {(a, b) for _, a, b in changed} != expected_pairs:
+                  raise SystemExit(f"{path}: unexpected line changes: {changed}")
+
+              path.write_text(new, encoding="utf-8")
+
+          changed_paths = []
+          for p in root.glob("*.md"):
+              # no-op: exact Git diff validation follows in shell
+              pass
+
+          print(f"Prepared {len(expected_paths)} Part 003 page records for metadata-only promotion.")
+          PY
+
+          mapfile -t changed < <(git diff --name-only -- works/kuraloviyam/pages)
+          if [ "${#changed[@]}" -ne 111 ]; then
+            printf 'Expected 111 changed page records, got %s\n' "${#changed[@]}"
+            printf '%s\n' "${changed[@]}"
+            exit 1
+          fi
+
+          python - <<'PY'
+          import subprocess
+          from pathlib import Path
+
+          expected = {
+              f"works/kuraloviyam/pages/{scan:04d}-kuraloviyam-{scan-17}.md"
+              for scan in range(223, 334)
+          }
+          changed = set(subprocess.check_output(
+              ["git", "diff", "--name-only", "--", "works/kuraloviyam/pages"],
+              text=True,
+          ).splitlines())
+          if changed != expected:
+              raise SystemExit(f"changed-file mismatch; missing={sorted(expected-changed)} extra={sorted(changed-expected)}")
+
+          numstat = subprocess.check_output(
+              ["git", "diff", "--numstat", "--", "works/kuraloviyam/pages"],
+              text=True,
+          ).splitlines()
+          if len(numstat) != 111:
+              raise SystemExit(f"expected 111 numstat rows, got {len(numstat)}")
+          for row in numstat:
+              add, delete, path = row.split("\t", 2)
+              if (add, delete) != ("2", "2"):
+                  raise SystemExit(f"non-metadata-only diff detected: {row}")
+          print("Validated exact 111-file metadata-only diff: 2 additions / 2 deletions per page record.")
+          PY
+
+          git config user.name "pugazg"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add works/kuraloviyam/pages
+          git diff --cached --check
+          git commit -m "kuraloviyam: Finalize Part 003 page statuses"
+          git push origin HEAD:main
