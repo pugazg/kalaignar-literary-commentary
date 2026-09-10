@@ -178,11 +178,13 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 - Pass 2B: **COMPLETE — 111/111**;
 - Pass 3: **COMPLETE — 111/111**;
 - Part audit: **PASS** — durable record `works/kuraloviyam/PART_003_AUDIT.md`;
-- all Part-003 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"` until the next metadata-only gate;
+- final metadata/status synchronization: **PASS / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions** — durable record `works/kuraloviyam/PART_003_FINAL_STATUS_SYNC.md`;
+- documentation synchronization: **NEXT / not-started**;
+- Tamil archival-ready checkpoint: **not-started**;
 - internal **332→333 genuine continuation is closed**;
 - external **333→334** remains deferred until Part 004 intake;
 - English remains blocked until Tamil archival closure.
 
 ### Exact next content stage
 
-Perform **Part 003 final metadata/status synchronization across all 111 records, scans 223–333 / printed 206–316**. This is a metadata-only gate: promote eligible Part-003 records from `status: "needs-review"` to `status: "verified"` and from `visual_fidelity: "needs-review"` to `visual_fidelity: "verified"`, without changing Tamil body wording, Kural text, page structure, visual notes, source comments or scan/local/printed-page mapping. Then audit the exact metadata-only changed-file set before documentation synchronization and the separate Tamil archival-ready checkpoint.
+Perform **Part 003 documentation synchronization**. Reconcile the live Part-003 overview, handovers, page map, workflow guide, prompt and relevant metadata/control files against the closed audit and final-status records. Preserve historical gate statements, remove stale live-frontier claims that records remain `needs-review` or that status sync is pending, confirm **111 textual verified + 111 visual verified / 0 exceptions**, and audit the documentation-only changed-file set. After documentation synchronization passes, the separate **Tamil archival-ready checkpoint** is next. English remains blocked until Tamil archival closure; external **333→334** remains deferred until Part 004 source intake.

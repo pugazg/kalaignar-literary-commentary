@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 003 audit PASS — 111/111; final metadata/status synchronization next**: **2026-09-10**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
+Last refreshed for Kuraloviyam **Part 003 final metadata/status synchronization PASS / CLOSED — 111/111 textual + visual verified; documentation synchronization next**: **2026-09-10**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
 
 ## Repository
 
@@ -196,10 +196,11 @@ Before Kuraloviyam repository changes, read completely:
 13. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md`
 14. `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`
 15. `works/kuraloviyam/PART_003_AUDIT.md`
-16. `works/kuraloviyam/PART_002_FINAL_STATUS_SYNC.md` as metadata-sync precedent
-17. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`
-18. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
-19. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
+16. `works/kuraloviyam/PART_003_FINAL_STATUS_SYNC.md`
+17. `works/kuraloviyam/PART_002_FINAL_STATUS_SYNC.md` as metadata-sync precedent
+18. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`
+19. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
+20. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
 
 ## Kuraloviyam source family
 
@@ -276,19 +277,22 @@ The audit confirms complete physical coverage and mapping, closed source intake 
 
 Durable audit: `works/kuraloviyam/PART_003_AUDIT.md`.
 
-All **111** Part-003 page records still intentionally remain `status: "needs-review"` / `visual_fidelity: "needs-review"` pending the metadata-only next gate.
+## Part 003 final metadata/status synchronization — PASS / CLOSED
+
+All **111** Part-003 page records are now `status: "verified"` / `visual_fidelity: "verified"`, with **0 partial, 0 source-limited, 0 needs-review and 0 unresolved status exceptions**. The clean metadata-only comparison changed exactly 111 Part-003 page files, each only in the two status fields; Tamil wording and structure were untouched.
+
+Durable status-sync record: `works/kuraloviyam/PART_003_FINAL_STATUS_SYNC.md`.
 
 # Exact next activity — குறளோவியம்
 
-Perform **Part 003 final metadata/status synchronization across all 111 records / scans 223–333 / printed 206–316**, following `works/kuraloviyam/PART_002_FINAL_STATUS_SYNC.md` as precedent.
+Perform **Part 003 documentation synchronization**.
 
 1. fetch live `main`;
-2. confirm `PART_003_AUDIT.md` remains **PASS**;
-3. fetch the full Part-003 page-record inventory before writing;
-4. change only `status: "needs-review"` → `status: "verified"` and `visual_fidelity: "needs-review"` → `visual_fidelity: "verified"` on eligible Part-003 page records;
-5. do not change Tamil body wording, quoted Kural wording/lineation, paragraph/dialogue structure, `page_type`, `visual_notes`, source comments, source-furniture treatment or scan/local/printed mapping;
-6. process all **111** records;
-7. before documentation writes, compare the starting checkpoint to the page-status endpoint and confirm exactly **111 Part-003 page files** changed, no non-page file changed, and every page diff is limited to the two status transitions;
-8. create `works/kuraloviyam/PART_003_FINAL_STATUS_SYNC.md` with starting/end checkpoints and final status distribution;
-9. after the metadata-only gate passes, make documentation synchronization the next separate gate;
-10. English remains blocked until Tamil archival closure; external **333→334** remains deferred until Part 004 source intake.
+2. confirm the Part-003 audit is **PASS** and final metadata/status synchronization is **PASS / CLOSED — 111/111 textual + visual verified**;
+3. reconcile all Part-003 control documents and relevant metadata files to that durable state;
+4. preserve historical phase statements while removing stale live-frontier claims that records remain `needs-review` or that status sync is pending;
+5. verify the final distribution **111 textual verified + 111 visual verified / 0 exceptions** and the deferred external **333→334** boundary;
+6. audit the documentation-only changed-file set;
+7. after documentation synchronization passes, make the separate **Tamil archival-ready checkpoint** the next gate.
+
+English remains blocked until Tamil archival closure.
