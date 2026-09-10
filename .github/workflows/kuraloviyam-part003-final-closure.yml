@@ -1,0 +1,66 @@
+name: Kuraloviyam Part 003 final closure
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/kuraloviyam-part003-final-closure.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  closure:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Run Part 003 final closure checkpoint
+        run: python .github/scripts/kuraloviyam-part003-final-closure.py
+
+      - name: Commit durable final closure
+        shell: bash
+        run: |
+          set -euo pipefail
+          mapfile -t changed < <(git status --short | sed 's/^...//')
+          if [[ ${#changed[@]} -ne 11 ]]; then
+            echo "Expected 11 durable changed files, found ${#changed[@]}"
+            printf '%s\n' "${changed[@]}"
+            exit 1
+          fi
+          if printf '%s\n' "${changed[@]}" | grep -Eq '^works/kuraloviyam/(pages|translations/en/pages)/'; then
+            echo 'Page-layer change detected in final closure'
+            exit 1
+          fi
+          if printf '%s\n' "${changed[@]}" | grep -q '^\.github/'; then
+            echo 'Unexpected temporary execution-file working-tree change detected'
+            exit 1
+          fi
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add \
+            HANDOVER.md \
+            KURALOVIYAM_ARCHIVAL_GUIDELINES.md \
+            NEXT_CHAT_PROMPT_KURALOVIYAM.md \
+            works/kuraloviyam/HANDOVER.md \
+            works/kuraloviyam/README.md \
+            works/kuraloviyam/PART_003_FINAL_CLOSURE.md \
+            works/kuraloviyam/indexes/page-map.md \
+            works/kuraloviyam/metadata/source.md \
+            works/kuraloviyam/translations/en/README.md \
+            works/kuraloviyam/translations/en/TRANSLATION_GUIDE.md \
+            works/kuraloviyam/translations/en/TRANSLATION_STATUS.md
+
+          staged=$(git diff --cached --name-only | wc -l | tr -d ' ')
+          if [[ "$staged" != '11' ]]; then
+            echo "Expected 11 staged files, found $staged"
+            git diff --cached --name-only
+            exit 1
+          fi
+
+          git commit -m 'kuraloviyam: Close Part 003 final checkpoint'
+          git push origin HEAD:main
