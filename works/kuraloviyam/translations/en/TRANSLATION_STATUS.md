@@ -88,7 +88,7 @@ Whole-Part checks passed for:
 - visual/non-body page functions, including illustration-only scan **203** and library-stamp separation on **217–218**;
 - accumulated continuities and clean boundaries through final **221→222**.
 
-The internal Part ending at scan **222** is closed. The external **222→223** split-boundary check remains explicitly deferred until Part 003 source intake; Part 003 has not been supplied/onboarded and no boundary is inferred.
+The internal Part ending at scan **222** is closed. The external **222→223** split-boundary check was subsequently resolved as **CLEAN** during Part 003 source intake.
 
 The Part-level review changed no English page wording, no page statuses and no Tamil records.
 
@@ -114,12 +114,35 @@ Final release gate result:
 
 The release audit confirms that every Part 002 English page changed only by the single status-token replacement from `editorial-reviewed` to `release-ready`; no approved English wording changed.
 
-The internal Part ending at scan **222 / printed 205** is closed. The external **222→223** split-boundary check remains deferred until Part 003 intake.
-
 Final Part 002 checkpoint: **PASS / CLOSED**.
 
-## Current frontier — Part 003 source intake
+## Part 003 Tamil readiness — ARCHIVAL-READY / CLOSED
 
-Part 001 and Part 002 are both closed. **Part 003 has not yet been supplied/onboarded.**
+Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf` — scans **223–333 / printed 206–316**, 111 physical pages, SHA-256 `f07e7cdb3a6e786b0378e00bbe699a241be41c9e099c004a4faa90fa82b4239f`.
 
-Do not infer the **222→223** boundary. When the Part 003 controlling source is supplied, first verify its source identity and the real 222→223 split boundary, then continue the overall physical scan sequence at **223**.
+Tamil source intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 / audit / final status sync / documentation sync / archival-ready checkpoint are **CLOSED**. Final Tamil state: **111 textual verified + 111 visual verified / 0 exceptions**. Durable closure: `works/kuraloviyam/PART_003_TAMIL_ARCHIVAL_READY.md`.
+
+Incoming **222→223 is CLEAN**. Internal **332→333** is a genuine continuation closed within Part 003. External **333→334** remains deferred until Part 004 source intake.
+
+## Part 003 English first-pass drafting
+
+- **Batch D1: scans 223–255 / printed 206–238 — COMPLETE 33/33**;
+- cumulative drafting: **33/111**;
+- English state in completed range: **33 `draft` / 0 source-limited / 0 blocked**;
+- remaining undrafted Part-003 pages: **78**;
+- source-check: **not-started**;
+- glossary reconciliation: **not-started**;
+- editorial review: **not-started**;
+- Part-level review / release: **not-started**.
+
+Batch D1 was translated from the audited Tamil archival records, preserving page alignment, source-supported Kural blocks, visual-material descriptions and cross-page continuities. No Tamil archival record changed and no standard/published/web English Kural wording was imported.
+
+The batch endpoint **255→256 is CLEAN**; scan 256 begins a new illustrated vignette.
+
+## Current frontier — Part 003 English Draft Batch D2
+
+Exact next activity: **first-pass drafting scans 256–288 / printed 239–271 — 33 page-aligned records**.
+
+Keep all newly drafted pages at `status: "draft"`, preserve `source_tamil_status: "verified"`, use the audited Tamil records as the normal translation authority, and do not begin source-check until first-pass drafting for all 111 Part-003 pages is complete.
+
+Part 004 remains blocked until Part 003 completes its maintained English workflow and final Part closure checkpoint.
