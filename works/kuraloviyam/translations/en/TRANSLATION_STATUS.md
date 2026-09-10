@@ -128,28 +128,29 @@ Incoming **222→223 is CLEAN**. Internal **332→333** is a genuine continuatio
 
 - **Batch D1: scans 223–255 / printed 206–238 — COMPLETE 33/33**;
 - **Batch D2: scans 256–288 / printed 239–271 — COMPLETE 33/33**;
-- cumulative drafting: **66/111**;
-- English state in completed range: **66 `draft` / 0 source-limited / 0 blocked**;
-- remaining undrafted Part-003 pages: **45**;
+- **Batch D3: scans 289–321 / printed 272–304 — COMPLETE 33/33**;
+- cumulative drafting: **99/111**;
+- English state in completed range: **99 `draft` / 0 source-limited / 0 blocked**;
+- remaining undrafted Part-003 pages: **12**;
 - source-check: **not-started**;
 - glossary reconciliation: **not-started**;
 - editorial review: **not-started**;
 - Part-level review / release: **not-started**.
 
-Batch D2 page commit: `c4bf5093a9249ebc7c2004ce380307d908e77fbe` — `kuraloviyam: Draft Part 003 English scans 256-288`.
+Batch D3 page commit: `f0dc8aeb8608aea9bb99083e2c366fb41f9f9216` — `kuraloviyam: Draft Part 003 English scans 289-321`.
 
-The D2 page-only audit from `9216bd60f86198d4e07ab774063468829d9ff1fe` to `c4bf5093a9249ebc7c2004ce380307d908e77fbe` is **ahead / non-divergent** and contains exactly **33 added English page records**, scans **256–288**, with no Tamil page or Tamil metadata change.
+The D3 page-only audit from `68f24f5fb90e6f55c45a65c428703d0d2672ee93` to `f0dc8aeb8608aea9bb99083e2c366fb41f9f9216` is **ahead / non-divergent** and contains exactly **33 added English page records**, scans **289–321**, with no Tamil page or Tamil metadata change.
 
-D2 was translated from the audited Tamil archival records, preserving page alignment, source-supported Kural blocks, visual-material descriptions and cross-page continuities. No standard/published/web English Kural wording was imported.
+D3 was translated from the audited Tamil archival records, preserving page alignment, source-supported Kural blocks, visual-material descriptions and cross-page continuities. No standard/published/web English Kural wording was imported.
 
-The D2 endpoint **288→289 is a genuine continuation**: scan 288 begins the Valluvar/renunciation vignette and scan 289 continues and closes it. Therefore Draft Batch D3 must begin at scan **289** without treating the batch boundary as a narrative boundary.
+The genuine incoming **288→289** continuation was preserved and closed on scan 289. The D3 endpoint **321→322 is CLEAN**: scan 321 closes the interpreting-signs vignette and scan 322 begins a new illustrated classroom vignette.
 
-## Current frontier — Part 003 English Draft Batch D3
+## Current frontier — Part 003 English Draft Batch D4 / final remainder
 
-Exact next activity: **first-pass drafting scans 289–321 / printed 272–304 — 33 page-aligned records**.
+Exact next activity: **first-pass drafting scans 322–333 / printed 305–316 — final 12 page-aligned records**.
 
-Keep all newly drafted pages at `status: "draft"`, preserve `source_tamil_status: "verified"`, use the audited Tamil records as the normal translation authority, and preserve the genuine incoming **288→289** continuation. Do not begin source-check until first-pass drafting for all **111** Part-003 pages is complete.
+Keep all newly drafted pages at `status: "draft"`, preserve `source_tamil_status: "verified"`, and use the audited Tamil records as the normal translation authority. Preserve the known genuine internal **332→333** continuation and keep external **333→334** deferred until Part 004 source intake.
 
-If D3 closes successfully, cumulative drafting will become **99/111** and the final drafting remainder will be **D4 scans 322–333 / printed 305–316 — 12 pages**.
+If D4 closes successfully, Part 003 first-pass English drafting becomes **111/111 COMPLETE**. The next gate will then be **Part 003 English source-check**, beginning with scans **223–255 / printed 206–238** at the current 33-page cadence.
 
 Part 004 remains blocked until Part 003 completes its maintained English workflow and final Part closure checkpoint.
