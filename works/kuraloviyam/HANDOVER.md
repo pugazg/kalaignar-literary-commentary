@@ -245,22 +245,32 @@ Exact font, colour and artwork recreation are not required. Rewrite a page recor
 - status promotions: **0**;
 - outgoing scan **322 / printed 305** witness reconfirms **321→322 CLEAN**.
 
+### Pass 3 Batch 10 — COMPLETE
+
+**Scans 322–332 / printed 305–315 — 11/11.**
+
+- scan **330**: structural/visual-description correction only — the upper illustration shows a bare-chested man walking away in the foreground while an elder speaks to a child behind him; no literal carried burden is depicted, so `visual_notes` now avoids presenting the metaphorical burden as a visible object;
+- scan **332**: structural/visual-description correction only — the upper palace illustration shows a ruler receiving a tied money bag from a woman while a laborer with a hoe stands at left;
+- scans **322–329, 331**: no structural correction required;
+- lexical body-text changes: **0**;
+- status promotions: **0**;
+- outgoing scan **333 / printed 316** witness reconfirms **332→333 genuine continuation** and was not counted in Batch 10.
+
 Durable Pass-3 record: `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`. Supplemental Batch-9 record: `works/kuraloviyam/PASS3_BATCH_009.md`.
 
-Current Pass-3 frontier: **99 / 111 through scan 321 / printed 304**.
+Current Pass-3 frontier: **110 / 111 through scan 332 / printed 315**.
 
-## Exact next activity — Part 003 Pass 3 / Batch 10
+## Exact next activity — Part 003 Pass 3 / final remainder
 
-Process **overall scans 322–332 / printed 305–315 — 11 scans**, beginning after the confirmed CLEAN **321→322** boundary.
+Process **overall scan 333 / printed 316 — 1 scan** under the same meaningful visual-text gate.
 
 1. fetch live `main` first;
-2. use the supplied Part 003 controlling PDF and freshly rendered scans directly;
-3. fetch current page records **0322–0332** before comparison;
-4. verify meaningful visual-text fidelity using the Pass-3 rules above;
-5. make only source-supported **structural** corrections; do not repeat or alter settled lexical wording unless a genuinely new direct-source issue is discovered and explicitly logged;
-6. inspect scan **333 / printed 316** only as the outgoing continuity/boundary witness when needed;
-7. update the Part-003 Pass-3 durable log;
-8. keep textual and visual statuses at `needs-review`;
-9. audit the exact changed-file set before advancing.
+2. use the supplied Part 003 controlling PDF and freshly render/inspect scan **333** directly;
+3. fetch current page record `0333-kuraloviyam-316.md` before comparison;
+4. reconfirm the genuine **332→333** continuation, text/Kural/Chapter metadata organization, page furniture and source/non-body separation;
+5. make only source-supported **structural** corrections; do not repeat or alter settled lexical wording;
+6. keep textual and visual statuses at `needs-review`;
+7. update the Part-003 Pass-3 durable log and synchronize README, work/root handovers, page-map and prompt;
+8. audit the exact changed-file set before advancing.
 
-After Batch 10, process the final one-scan remainder **333 / printed 316** under Pass 3 before beginning the Part audit. English remains blocked until Tamil archival closure.
+Only after this one-scan remainder is complete may the Part 003 audit begin. External **333→334 remains deferred** until Part 004 source intake. English remains blocked until Tamil archival closure.
