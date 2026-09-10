@@ -1,0 +1,66 @@
+name: Kuraloviyam Part 003 English release
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/kuraloviyam-part003-release.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Run Part 003 English release gate
+        run: python .github/scripts/kuraloviyam-part003-release.py
+
+      - name: Verify and commit durable release state
+        shell: bash
+        run: |
+          set -euo pipefail
+          mapfile -t changed < <(git status --short | sed 's/^...//')
+          if [[ ${#changed[@]} -ne 121 ]]; then
+            echo "Expected 121 durable changed files, found ${#changed[@]}"
+            printf '%s\n' "${changed[@]}"
+            exit 1
+          fi
+          if printf '%s\n' "${changed[@]}" | grep -q '^works/kuraloviyam/pages/'; then
+            echo 'Tamil page change detected'
+            exit 1
+          fi
+          if printf '%s\n' "${changed[@]}" | grep -q '^\.github/'; then
+            echo 'Unexpected temporary execution-file working-tree change detected'
+            exit 1
+          fi
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add HANDOVER.md KURALOVIYAM_ARCHIVAL_GUIDELINES.md NEXT_CHAT_PROMPT_KURALOVIYAM.md \
+            works/kuraloviyam/HANDOVER.md works/kuraloviyam/README.md \
+            works/kuraloviyam/indexes/page-map.md works/kuraloviyam/metadata/source.md \
+            works/kuraloviyam/translations/en/README.md works/kuraloviyam/translations/en/TRANSLATION_STATUS.md \
+            works/kuraloviyam/translations/en/reviews/PART_003_ENGLISH_RELEASE_REPORT.md \
+            works/kuraloviyam/translations/en/pages/*.md
+
+          staged=$(git diff --cached --name-only | wc -l | tr -d ' ')
+          if [[ "$staged" != '121' ]]; then
+            echo "Expected 121 staged durable files, found $staged"
+            git diff --cached --name-only
+            exit 1
+          fi
+
+          page_count=$(git diff --cached --name-only | grep '^works/kuraloviyam/translations/en/pages/0\(22[3-9]\|2[3-9][0-9]\|3[0-2][0-9]\|33[0-3]\)-kuraloviyam-' | wc -l | tr -d ' ')
+          if [[ "$page_count" != '111' ]]; then
+            echo "Expected 111 Part 003 English page changes, found $page_count"
+            exit 1
+          fi
+
+          git commit -m 'kuraloviyam: Release Part 003 English translation'
+          git push origin HEAD:main
