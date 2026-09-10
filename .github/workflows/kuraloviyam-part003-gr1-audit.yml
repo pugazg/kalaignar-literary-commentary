@@ -26,5 +26,5 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           python3 .github/scripts/kuraloviyam-part003-gr1-audit.py
           git add .github/tmp/kuraloviyam-part003-gr1-audit.txt .github/tmp/kuraloviyam-part003-gr1-findings.txt
-          git commit -m 'chore: refresh temporary Kuraloviyam GR1 audit report'
+          git commit -m 'chore: refresh tightened Kuraloviyam GR1 audit report'
           git push origin main
