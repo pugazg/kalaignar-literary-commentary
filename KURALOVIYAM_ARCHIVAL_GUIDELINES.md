@@ -166,33 +166,23 @@ English final state: **107 `release-ready` + 4 `source-limited`**.
 
 Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf`.
 
-Source intake: **PASS / COMPLETE**.
-
+- source intake: **PASS / COMPLETE**;
 - local pages: **111**;
 - printed pages: **206–316**;
 - file size: **93,488,924 bytes**;
 - SHA-256: `f07e7cdb3a6e786b0378e00bbe699a241be41c9e099c004a4faa90fa82b4239f`;
 - source text layer: no usable parsed text;
-- **222→223: clean boundary** — Part 003 begins a new `பேதைமை` vignette;
-- Pass 1: **COMPLETE — 111/111 captured, scans 223–333 / printed 206–316**;
-- Pass 2A Batch 1: **COMPLETE — scans 223–233 / printed 206–216**;
-- Pass 2A Batch 2: **COMPLETE — scans 234–244 / printed 217–227**;
-- Pass 2A Batch 3: **COMPLETE — scans 245–255 / printed 228–238**;
-- Pass 2A Batch 4: **COMPLETE — scans 256–266 / printed 239–249**;
-- Pass 2A Batch 5: **COMPLETE — scans 267–277 / printed 250–260**;
-- Pass 2A Batch 6: **COMPLETE — scans 278–288 / printed 261–271**;
-- Pass 2A Batch 7: **COMPLETE — scans 289–299 / printed 272–282**;
-- current Pass-2A frontier: **77/111 through scan 299 / printed 282**;
-- **233→234 genuine continuation** reconfirmed during Pass 2A;
-- **244→245 clean** reconfirmed from scan 245 boundary witness;
-- **255→256 clean** reconfirmed from scan 256 boundary witness;
-- **266→267 genuine continuation** reconfirmed from scan 267 boundary witness;
-- **277→278 clean** reconfirmed from scan 278 boundary witness;
-- **288→289 genuine continuation** reconfirmed from scan 289 boundary witness;
-- **299→300 clean** reconfirmed from scan 300 boundary witness;
-- scan 333 closes the final visible Part 003 unit with Chapter 57 / Kural 567;
-- external **333→334** is deferred until Part 004 intake.
+- **222→223: CLEAN** — Part 003 begins a new `பேதைமை` vignette;
+- Pass 1: **COMPLETE — 111/111**;
+- Pass 2A: **COMPLETE — 111/111**;
+- Pass 2B: **COMPLETE — 111/111**;
+- Pass 3: **COMPLETE — 111/111**;
+- Part audit: **PASS** — durable record `works/kuraloviyam/PART_003_AUDIT.md`;
+- all Part-003 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"` until the next metadata-only gate;
+- internal **332→333 genuine continuation is closed**;
+- external **333→334** remains deferred until Part 004 intake;
+- English remains blocked until Tamil archival closure.
 
 ### Exact next content stage
 
-Continue **Part 003 Pass 2A / Batch 8 — scans 300–310 / printed 283–293, 11 physical scans**. Begin after the confirmed clean **299→300** boundary, inspect scan **311 / printed 294** only as a boundary witness when necessary, preserve the known **310→311 CLEAN** boundary, correct only direct source-supported differences, preserve `needs-review` statuses, update the Pass-2A log, and audit the exact changed-file set before advancing.
+Perform **Part 003 final metadata/status synchronization across all 111 records, scans 223–333 / printed 206–316**. This is a metadata-only gate: promote eligible Part-003 records from `status: "needs-review"` to `status: "verified"` and from `visual_fidelity: "needs-review"` to `visual_fidelity: "verified"`, without changing Tamil body wording, Kural text, page structure, visual notes, source comments or scan/local/printed-page mapping. Then audit the exact metadata-only changed-file set before documentation synchronization and the separate Tamil archival-ready checkpoint.
