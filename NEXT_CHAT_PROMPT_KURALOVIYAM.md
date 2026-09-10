@@ -38,8 +38,9 @@ Read completely before changing anything:
 - Draft Batch D3: **scans 289–321 / printed 272–304 — COMPLETE 33/33**.
 - Draft Batch D4: **scans 322–333 / printed 305–316 — COMPLETE 12/12 / FINAL REMAINDER**.
 - Part 003 English source-check SC1: **COMPLETE 33/33 — scans 223–255 / printed 206–238**.
-- cumulative source-check: **33/111**.
-- current Part-003 English state: **33 `source-checked` + 78 `draft` / 0 source-limited / 0 blocked**.
+- Part 003 English source-check SC2: **COMPLETE 33/33 — scans 256–288 / printed 239–271**.
+- cumulative source-check: **66/111**.
+- current Part-003 English state: **66 `source-checked` + 45 `draft` / 0 source-limited / 0 blocked**.
 - remaining undrafted pages: **0**.
 - glossary reconciliation / editorial review / Part review / release: **not-started**.
 
@@ -91,29 +92,34 @@ For source-check:
 - do not import standard/published/web English Kural wording;
 - do not use source-check for stylistic rewriting unrelated to fidelity.
 
-## SC1 result — COMPLETE / PASS
+## Source-check results through SC2 — COMPLETE / PASS
 
-SC1 **scans 223–255 / printed 206–238 — 33/33 source-checked**. The source-fidelity pass made only three correction loci: scan 232 visual-material restoration; scan 247 `pulavi` / `pinakku` terminology; and the scans 252→253 split foot-fissure / drought-field simile. No Tamil record changed. Page commit: `0811c0ab6e59e863e92a6708b6352226e780cdfb`. The **255→256 boundary is CLEAN**.
+- SC1 **223–255 / 206–238 — 33/33 source-checked**;
+- SC2 **256–288 / 239–271 — 33/33 source-checked**;
+- cumulative source-check **66/111**;
+- current English state **66 source-checked + 45 draft / 0 source-limited / 0 blocked**.
 
-## Exact next activity — Part 003 English Source-check SC2
+SC2 source-fidelity corrections were limited to scans **257, 267, 277** (small red decorative monument visual metadata) and **274** (return-from-enemy-stronghold sentence). No Tamil record changed. **255→256 is CLEAN**. **288→289 is a genuine continuation** and must remain continuous into SC3.
 
-Process **scans 256–288 / printed 239–271 — 33 page-aligned records**.
+## Exact next activity — Part 003 English Source-check SC3
+
+Process **scans 289–321 / printed 272–304 — 33 page-aligned records**.
 
 Requirements:
 
 1. fetch live `main` first and preserve newer durable work;
 2. confirm `PART_003_TAMIL_ARCHIVAL_READY.md` remains **PASS / CLOSED**;
-3. confirm `translations/en/TRANSLATION_STATUS.md` records SC1 **COMPLETE — 33/111 cumulative**;
-4. read English records **0256–0288** and the matching audited Tamil records completely;
+3. confirm `translations/en/TRANSLATION_STATUS.md` records source-check **66/111 cumulative**;
+4. read English records **0289–0321** and the matching audited Tamil records completely;
 5. compare each page paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural wording/lineation, visual/non-body page function and cross-page continuity;
 6. correct only source-fidelity issues supported by the audited Tamil records;
 7. keep `source_tamil_status: "verified"` and promote only passing pages from `draft` to `source-checked`;
-8. preserve incoming **255→256 CLEAN** and the genuine outgoing **288→289** continuation;
+8. preserve incoming **288→289 genuine continuation** and outgoing **321→322 CLEAN**;
 9. do not alter any Tamil page record or Tamil metadata;
-10. do not begin glossary reconciliation or editorial review during SC2;
+10. do not begin glossary reconciliation or editorial review during SC3;
 11. update `translations/en/TRANSLATION_STATUS.md` after the batch;
 12. audit the exact changed-file set before advancing.
 
-If SC2 passes, Part-003 English source-check becomes **66/111**. The next batch will be **SC3: scans 289–321 / printed 272–304 — 33 pages**.
+If SC3 passes, Part-003 English source-check becomes **99/111**. The next batch will be **SC4: scans 322–333 / printed 305–316 — final 12 pages**.
 
 Part 004 remains blocked until Part 003 completes the maintained English workflow and final Part closure checkpoint.
