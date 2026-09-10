@@ -5,10 +5,10 @@ Expected page status: source-checked
 CHAPTER / KURAL METADATA IN RANGE
 224: TA அதிகாரம் - 84     -     பேதைமை;     பாடல்கள் - 838, 839
      EN Chapter 84 — Folly; Kurals 838, 839
-226: TA அதிகாரம் - 126     -     நிறையழிதல்;     பாடல் - 1253
-     EN Chapter 126 — Loss of Restraint; Kural 1253
-228: TA அதிகாரம் - 19     -     புறங்கூறாமை;     பாடல் - 189
-     EN Chapter 19 — Refraining from Slander; Kural 189
+226: TA அதிகாரம் - 121     -     நினைந்தவர் புலம்பல்;     பாடல் - 1203
+     EN Chapter 121 — Lamenting the Absent Lover; Kural 1203
+228: TA அதிகாரம் - 16     -     பொறையுடைமை;     பாடல் - 151
+     EN Chapter 16 — Forbearance; Kural 151
 230: TA அதிகாரம் - 125     -     நெஞ்சொடு கிளத்தல்;     பாடல் - 1241
      EN Chapter 125 — Speaking with the Heart; Kural 1241
 232: TA அதிகாரம் - 92     -     வரைவின் மகளிர்;     பாடல் - 913
@@ -23,8 +23,8 @@ CHAPTER / KURAL METADATA IN RANGE
      EN Chapter 93 — Abstaining from Liquor; Kural 929
 242: TA அதிகாரம் - 119     -     பசப்புறுபருவரல்;     பாடல் - 1186
      EN Chapter 119 — Suffering from Pallor; Kural 1186
-244: TA அதிகாரம் - 7     -     மக்கட்பேறு;     பாடல் - 64
-     EN Chapter 7 — The Blessing of Children; Kural 64
+244: TA அதிகாரம் - 104     -     உழவு;     பாடல் - 1031
+     EN Chapter 104 — Agriculture; Kural 1031
 247: TA அதிகாரம் - 131     -     புலவி;     பாடல்கள் - 1306, 1309
      EN Chapter 131 — Lovers' Sulking; Kurals 1306, 1309
 249: TA அதிகாரம் - 28     -     கூடாவொழுக்கம்;     பாடல் - 273
