@@ -1,0 +1,94 @@
+name: Kuraloviyam Part 003 English SC1
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/kuraloviyam-part003-sc1.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  source-check-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Apply source-check results
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          from pathlib import Path
+
+          base = Path('works/kuraloviyam/translations/en/pages')
+          expected = []
+
+          for scan in range(223, 256):
+              printed = scan - 17
+              path = base / f'{scan:04d}-kuraloviyam-{printed}.md'
+              expected.append(str(path))
+              text = path.read_text(encoding='utf-8')
+              if text.count('status: "draft"') != 1:
+                  raise SystemExit(f'expected exactly one draft status in {path}')
+              if text.count('source_tamil_status: "verified"') != 1:
+                  raise SystemExit(f'expected verified Tamil source status in {path}')
+
+              if scan == 232:
+                  needle = '---\n\n—she is ready for anything'
+                  replacement = ('---\n\n## Visual material\n\n'
+                                 'Small statue illustration below the chapter/Kural metadata in the source page.\n\n'
+                                 '—she is ready for anything')
+                  if needle not in text:
+                      raise SystemExit('scan 232 visual-material insertion point not found')
+                  text = text.replace(needle, replacement, 1)
+
+              if scan == 247:
+                  old = 'That quarrelling is also called `pulavi` and `thuni`.'
+                  new = 'That quarrelling is also called `pulavi` and `pinakku`.'
+                  if old not in text:
+                      raise SystemExit('scan 247 terminology correction target not found')
+                  text = text.replace(old, new, 1)
+
+              if scan == 252:
+                  old = 'Cracks like the fissures of a fevered—'
+                  new = 'Like a foot scarred by deep fissures—'
+                  if old not in text:
+                      raise SystemExit('scan 252 split-sentence correction target not found')
+                  text = text.replace(old, new, 1)
+
+              if scan == 253:
+                  old = '—foot ran across the entire field, scars of drought.'
+                  new = '—the field was cracked all across, scars of drought.'
+                  if old not in text:
+                      raise SystemExit('scan 253 split-sentence correction target not found')
+                  text = text.replace(old, new, 1)
+
+              text = text.replace('status: "draft"', 'status: "source-checked"', 1)
+              path.write_text(text, encoding='utf-8')
+
+          changed = sorted(
+              line.strip() for line in __import__('subprocess').check_output(
+                  ['git', 'diff', '--name-only'], text=True
+              ).splitlines() if line.strip()
+          )
+          if changed != sorted(expected):
+              raise SystemExit(f'unexpected changed-file set: {changed}')
+
+          for path_s in expected:
+              text = Path(path_s).read_text(encoding='utf-8')
+              if 'status: "source-checked"' not in text or 'status: "draft"' in text:
+                  raise SystemExit(f'status promotion failed for {path_s}')
+          PY
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add works/kuraloviyam/translations/en/pages/02{23..55}-kuraloviyam-*.md
+          test "$(git diff --cached --name-only | wc -l | tr -d ' ')" = "33"
+          git commit -m "kuraloviyam: Source-check Part 003 English scans 223-255"
+          git push origin HEAD:main
