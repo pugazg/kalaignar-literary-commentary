@@ -1,0 +1,66 @@
+name: Kuraloviyam Part 004 source intake
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/kuraloviyam-part004-intake.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  intake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Run Part 004 source intake
+        run: python .github/scripts/kuraloviyam-part004-intake.py
+
+      - name: Verify and commit durable intake state
+        shell: bash
+        run: |
+          set -euo pipefail
+          mapfile -t changed < <(git status --short | sed 's/^...//')
+          if [[ ${#changed[@]} -ne 11 ]]; then
+            echo "Expected 11 durable changed files, found ${#changed[@]}"
+            printf '%s\n' "${changed[@]}"
+            exit 1
+          fi
+          if printf '%s\n' "${changed[@]}" | grep -Eq '^works/kuraloviyam/pages/'; then
+            echo 'Unexpected Part 004 page-layer creation during source intake'
+            exit 1
+          fi
+          if printf '%s\n' "${changed[@]}" | grep -q '^\.github/'; then
+            echo 'Unexpected temporary execution-file working-tree change'
+            exit 1
+          fi
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add \
+            HANDOVER.md \
+            KURALOVIYAM_ARCHIVAL_GUIDELINES.md \
+            NEXT_CHAT_PROMPT_KURALOVIYAM.md \
+            works/kuraloviyam/HANDOVER.md \
+            works/kuraloviyam/README.md \
+            works/kuraloviyam/SOURCE_INTAKE_PART_004.md \
+            works/kuraloviyam/PART_004_PASS1_PROGRESS.md \
+            works/kuraloviyam/indexes/page-map.md \
+            works/kuraloviyam/metadata/source.md \
+            works/kuraloviyam/translations/en/README.md \
+            works/kuraloviyam/translations/en/TRANSLATION_STATUS.md
+
+          staged=$(git diff --cached --name-only | wc -l | tr -d ' ')
+          if [[ "$staged" != '11' ]]; then
+            echo "Expected 11 staged files, found $staged"
+            git diff --cached --name-only
+            exit 1
+          fi
+
+          git commit -m 'kuraloviyam: Intake Part 004 source'
+          git push origin HEAD:main
