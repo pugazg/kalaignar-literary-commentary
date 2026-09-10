@@ -1,0 +1,37 @@
+name: Kuraloviyam Part 003 English GR4 completion
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/kuraloviyam-part003-gr4-complete.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  complete-gr4:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Complete GR4 and advance to ER1
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          python3 .github/scripts/kuraloviyam-part003-gr4-complete.py
+          git add HANDOVER.md KURALOVIYAM_ARCHIVAL_GUIDELINES.md NEXT_CHAT_PROMPT_KURALOVIYAM.md \
+            works/kuraloviyam/HANDOVER.md works/kuraloviyam/README.md \
+            works/kuraloviyam/indexes/page-map.md works/kuraloviyam/metadata/source.md \
+            works/kuraloviyam/translations/en/GLOSSARY.md \
+            works/kuraloviyam/translations/en/README.md \
+            works/kuraloviyam/translations/en/TRANSLATION_STATUS.md \
+            works/kuraloviyam/translations/en/pages/0327-kuraloviyam-310.md \
+            works/kuraloviyam/translations/en/pages/0331-kuraloviyam-314.md
+          git commit -m 'kuraloviyam: Complete Part 003 English glossary reconciliation GR4'
+          git push origin main
