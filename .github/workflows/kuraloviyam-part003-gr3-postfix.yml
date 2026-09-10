@@ -1,0 +1,30 @@
+name: Kuraloviyam Part 003 GR3 control postfix
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/kuraloviyam-part003-gr3-postfix.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  postfix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Synchronize GR3 control details
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          python3 .github/scripts/kuraloviyam-part003-gr3-postfix.py
+          git add HANDOVER.md NEXT_CHAT_PROMPT_KURALOVIYAM.md works/kuraloviyam/HANDOVER.md works/kuraloviyam/translations/en/TRANSLATION_STATUS.md
+          git commit -m 'kuraloviyam: Synchronize Part 003 English GR3 controls'
+          git push origin main
