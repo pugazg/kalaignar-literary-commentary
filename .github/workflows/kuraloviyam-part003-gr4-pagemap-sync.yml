@@ -1,0 +1,30 @@
+name: Kuraloviyam Part 003 GR4 page-map sync
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/kuraloviyam-part003-gr4-pagemap-sync.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Sync page-map
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          python3 .github/scripts/kuraloviyam-part003-gr4-pagemap-sync.py
+          git add works/kuraloviyam/indexes/page-map.md
+          git commit -m 'kuraloviyam: Synchronize GR4 page-map frontier'
+          git push origin main
