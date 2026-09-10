@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -38,4 +38,4 @@ Here is the Kural:
 
 Chapter 57 — Avoiding Tyrannical Severity; Kural 567
 
-<!-- Source scan page: 333; printed page: 316; direct continuation from scan 332; closes severe-rule / famine vignette with Chapter 57 / Kural 567; external 333→334 boundary deferred until Part 004 intake -->
+<!-- Source scan page: 333; printed page: 316; direct continuation from scan 332; closes severe-rule / famine vignette with Chapter 57 / Kural 567; side vertical title/footer furniture excluded from body text; external 333→334 boundary deferred until Part 004 intake -->

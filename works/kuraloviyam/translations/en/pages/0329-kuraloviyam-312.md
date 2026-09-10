@@ -6,10 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
+
+—and carry away some delight in our hearts?” There were many young men in that town who yearned for this.
 
 When she went to the pond to bathe, even women of her own age would look upon her beauty in wonder. The whole town yearned to know whom she loved, to whom she had given herself, and who the fortunate man was who had received such a blessing.
 

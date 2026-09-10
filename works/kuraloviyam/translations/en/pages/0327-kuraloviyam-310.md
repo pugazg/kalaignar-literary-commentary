@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -25,7 +25,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 “Oh! So eye-spears struck you, and you have run back wounded? It seems the noose to seize your very life has already been cast through those eyes. No doubt—you truly met Yama!”
 
-“Iniya! I must see that Yama again! Why should the market meet only once a month? What is wrong with having it every day?”
+“Iniya! I must see that Yama again! Why should the market meet only every Monday? Why not have it every day?”
 
 Iniyan embraced Ezhini and laughed aloud. “Do not worry! I too have already met one such Yama. Everything is settled, and I am now running a household with two children. At next Monday's market, I will make the Yama you saw yours.”
 
