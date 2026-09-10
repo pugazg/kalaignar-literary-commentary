@@ -1,0 +1,382 @@
+name: Kuraloviyam Part 003 documentation sync
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/kuraloviyam-part003-documentation-sync.yml
+
+permissions:
+  contents: write
+
+jobs:
+  sync-docs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Synchronize Part 003 control documents
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git clone --branch main --single-branch "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" repo
+          cd repo
+          START_HEAD=$(git rev-parse HEAD)
+
+          python - <<'PY'
+          from pathlib import Path
+
+          expected_source = 'source_filename: "TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf"'
+          root = Path('works/kuraloviyam/pages')
+          for scan in range(223, 334):
+              printed = scan - 17
+              path = root / f'{scan:04d}-kuraloviyam-{printed}.md'
+              if not path.is_file():
+                  raise SystemExit(f'missing Part 003 page record: {path}')
+              text = path.read_text(encoding='utf-8')
+              required = [
+                  f'scan_page: {scan}',
+                  'part: 3',
+                  f'part_page: {scan-222}',
+                  f'printed_page: "{printed}"',
+                  'status: "verified"',
+                  'visual_fidelity: "verified"',
+                  expected_source,
+              ]
+              for needle in required:
+                  if text.count(needle) != 1:
+                      raise SystemExit(f'{path}: expected exactly one {needle!r}')
+              if 'status: "needs-review"' in text or 'visual_fidelity: "needs-review"' in text:
+                  raise SystemExit(f'{path}: stale status found before documentation sync')
+
+          audit = Path('works/kuraloviyam/PART_003_AUDIT.md').read_text(encoding='utf-8')
+          sync = Path('works/kuraloviyam/PART_003_FINAL_STATUS_SYNC.md').read_text(encoding='utf-8')
+          if 'Status: **PASS**' not in audit:
+              raise SystemExit('Part 003 audit is not PASS')
+          if '**FINAL METADATA / STATUS SYNCHRONIZATION — PASS / CLOSED**' not in sync:
+              raise SystemExit('Part 003 final status sync is not PASS / CLOSED')
+
+          def replace_once(path, old, new):
+              p = Path(path)
+              text = p.read_text(encoding='utf-8')
+              count = text.count(old)
+              if count != 1:
+                  raise SystemExit(f'{path}: expected one replacement target, found {count}: {old[:100]!r}')
+              p.write_text(text.replace(old, new, 1), encoding='utf-8')
+
+          def replace_tail(path, marker, new_tail):
+              p = Path(path)
+              text = p.read_text(encoding='utf-8')
+              count = text.count(marker)
+              if count != 1:
+                  raise SystemExit(f'{path}: expected one tail marker, found {count}: {marker!r}')
+              idx = text.index(marker)
+              p.write_text(text[:idx] + new_tail.rstrip() + '\n', encoding='utf-8')
+
+          startup_old_meta = '''16. `works/kuraloviyam/PART_003_FINAL_STATUS_SYNC.md`
+17. `works/kuraloviyam/PART_002_FINAL_STATUS_SYNC.md` as metadata-sync precedent
+18. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`
+19. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
+20. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`'''
+          startup_new_meta = '''16. `works/kuraloviyam/PART_003_FINAL_STATUS_SYNC.md`
+17. `works/kuraloviyam/PART_003_DOCUMENTATION_SYNC.md`
+18. `works/kuraloviyam/PART_002_FINAL_STATUS_SYNC.md` as metadata-sync precedent
+19. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md` as archival-ready precedent
+20. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
+21. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`'''
+
+          startup_old_final = '''16. `works/kuraloviyam/PART_003_FINAL_STATUS_SYNC.md`
+17. `works/kuraloviyam/PART_002_FINAL_STATUS_SYNC.md` as final-status precedent
+18. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`
+19. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
+20. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`'''
+          startup_new_final = '''16. `works/kuraloviyam/PART_003_FINAL_STATUS_SYNC.md`
+17. `works/kuraloviyam/PART_003_DOCUMENTATION_SYNC.md`
+18. `works/kuraloviyam/PART_002_FINAL_STATUS_SYNC.md` as final-status precedent
+19. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md` as archival-ready precedent
+20. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
+21. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`'''
+
+          # README
+          replace_once(
+              'works/kuraloviyam/README.md',
+              '| 003 | 223–333 | **source intake + Pass 1 + Pass 2A + Pass 2B + Pass 3 COMPLETE — 111/111; Part audit PASS; final metadata/status sync PASS / CLOSED — 111/111 textual + visual verified; documentation sync NEXT** |',
+              '| 003 | 223–333 | **source intake + Pass 1 + Pass 2A + Pass 2B + Pass 3 COMPLETE — 111/111; Part audit PASS; final metadata/status sync PASS / CLOSED — 111/111 textual + visual verified; documentation sync COMPLETE; Tamil archival-ready NEXT** |'
+          )
+          replace_once(
+              'works/kuraloviyam/README.md',
+              '## Part 003 — SOURCE INTAKE + PASS 1 + PASS 2A + PASS 2B + PASS 3 COMPLETE / AUDIT PASS / FINAL STATUS SYNC PASS / DOCUMENTATION SYNC NEXT',
+              '## Part 003 — SOURCE INTAKE + PASS 1 + PASS 2A + PASS 2B + PASS 3 COMPLETE / AUDIT PASS / FINAL STATUS SYNC PASS / DOCUMENTATION SYNC COMPLETE / TAMIL ARCHIVAL-READY NEXT'
+          )
+          replace_tail(
+              'works/kuraloviyam/README.md',
+              '## Current frontier',
+              '''### Part 003 documentation synchronization
+
+**COMPLETE.** The live overview, handovers, page map, archival guideline, next-chat prompt, source metadata and transcription policy are synchronized to the closed Part-003 audit and final-status state. Historical phase statements are retained as history; the live state is **111 textual verified + 111 visual verified / 0 partial / 0 source-limited / 0 needs-review / 0 unresolved status exceptions**.
+
+Durable documentation-sync record: `PART_003_DOCUMENTATION_SYNC.md`.
+
+## Current frontier
+
+**Next activity: Part 003 Tamil archival-ready checkpoint.** Follow `PART_002_TAMIL_ARCHIVAL_READY.md` as precedent, confirm the complete closed evidence chain and final **111 textual verified + 111 visual verified / 0 exceptions** distribution, create `PART_003_TAMIL_ARCHIVAL_READY.md`, and do not alter Tamil wording, Kural text, page structure or page metadata. English remains blocked until that Tamil checkpoint closes. External **333→334** remains deferred until Part 004 source intake.'''
+          )
+
+          # Work handover
+          replace_once('works/kuraloviyam/HANDOVER.md', startup_old_final, startup_new_final)
+          replace_tail(
+              'works/kuraloviyam/HANDOVER.md',
+              '## Exact next activity — Part 003 documentation synchronization',
+              '''## Part 003 documentation synchronization — COMPLETE
+
+The live Part-003 control layer is synchronized to the closed audit and final-status state. Current distribution: **111 textual verified + 111 visual verified / 0 partial / 0 source-limited / 0 needs-review / 0 unresolved status exceptions**. Historical phase-specific `needs-review` statements remain only where they describe the state at an earlier gate.
+
+Durable record: `works/kuraloviyam/PART_003_DOCUMENTATION_SYNC.md`.
+
+## Exact next activity — Part 003 Tamil archival-ready checkpoint
+
+1. fetch live `main` first;
+2. confirm `PART_003_AUDIT.md` is **PASS**, `PART_003_FINAL_STATUS_SYNC.md` is **PASS / CLOSED**, and `PART_003_DOCUMENTATION_SYNC.md` is **COMPLETE**;
+3. follow `PART_002_TAMIL_ARCHIVAL_READY.md` as the closure precedent;
+4. confirm the source identity, full 111-record coverage and final distribution **111 textual verified + 111 visual verified / 0 exceptions**;
+5. preserve the closed internal **332→333 genuine continuation** and keep external **333→334** deferred until Part 004 source intake;
+6. create `works/kuraloviyam/PART_003_TAMIL_ARCHIVAL_READY.md` without changing Tamil body wording, Kural wording/lineation, structure, visual notes or page metadata;
+7. synchronize the live frontier to Tamil archival closure only after that checkpoint passes;
+8. English remains blocked until the Tamil archival-ready checkpoint closes.'''
+          )
+
+          # Root handover
+          replace_once(
+              'HANDOVER.md',
+              'Last refreshed for Kuraloviyam **Part 003 final metadata/status synchronization PASS / CLOSED — 111/111 textual + visual verified; documentation synchronization next**: **2026-09-10**.',
+              'Last refreshed for Kuraloviyam **Part 003 documentation synchronization COMPLETE — 111/111 textual + visual verified; Tamil archival-ready checkpoint next**: **2026-09-10**.'
+          )
+          replace_once('HANDOVER.md', startup_old_meta, startup_new_meta)
+          replace_tail(
+              'HANDOVER.md',
+              '# Exact next activity — குறளோவியம்',
+              '''## Part 003 documentation synchronization — COMPLETE
+
+Part 003 live control documents now agree with the durable audit and final-status records: **111 textual verified + 111 visual verified / 0 partial / 0 source-limited / 0 needs-review / 0 unresolved status exceptions**. Durable record: `works/kuraloviyam/PART_003_DOCUMENTATION_SYNC.md`.
+
+# Exact next activity — குறளோவியம்
+
+Perform the separate **Part 003 Tamil archival-ready checkpoint**.
+
+1. fetch live `main`;
+2. confirm the Part-003 audit is **PASS**, final metadata/status synchronization is **PASS / CLOSED**, and documentation synchronization is **COMPLETE**;
+3. follow `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md` as precedent;
+4. verify the final distribution **111 textual verified + 111 visual verified / 0 exceptions** and the closed internal **332→333** continuation;
+5. create `works/kuraloviyam/PART_003_TAMIL_ARCHIVAL_READY.md` without changing Tamil text or page records;
+6. keep external **333→334** deferred until Part 004 source intake;
+7. only after Tamil archival closure may the maintained Part-003 English workflow begin.'''
+          )
+
+          # Page map
+          replace_once(
+              'works/kuraloviyam/indexes/page-map.md',
+              '| 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **SOURCE INTAKE + Pass 1 + Pass 2A + Pass 2B + Pass 3 COMPLETE — 111/111; Part audit PASS; final metadata/status sync PASS / CLOSED — 111 textual + 111 visual verified; documentation sync NEXT** |',
+              '| 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **SOURCE INTAKE + Pass 1 + Pass 2A + Pass 2B + Pass 3 COMPLETE — 111/111; Part audit PASS; final metadata/status sync PASS / CLOSED — 111 textual + 111 visual verified; documentation sync COMPLETE; Tamil archival-ready NEXT** |'
+          )
+          replace_once(
+              'works/kuraloviyam/indexes/page-map.md',
+              '- all Part 003 records remain `needs-review` / `visual_fidelity: needs-review` pending final metadata/status synchronization.',
+              '- at audit close, all Part 003 records still remained `needs-review` / `visual_fidelity: needs-review`; the subsequent final metadata/status synchronization promoted all 111 records to textual and visual `verified` without changing Tamil wording or structure.'
+          )
+          replace_once(
+              'works/kuraloviyam/indexes/page-map.md',
+              '- documentation synchronization — **NEXT / not-started**;\n- Tamil archival-ready — not-started;',
+              '- documentation synchronization — **COMPLETE**;\n- Tamil archival-ready — **NEXT / not-started**;'
+          )
+          replace_tail(
+              'works/kuraloviyam/indexes/page-map.md',
+              '## Current frontier',
+              '''## Current frontier
+
+**Part 001: CLOSED.**
+
+**Part 002: Tamil + English CLOSED.**
+
+**Part 003: SOURCE INTAKE + PASS 1 + PASS 2A + PASS 2B + PASS 3 COMPLETE — 111/111; PART AUDIT PASS; FINAL METADATA/STATUS SYNC PASS / CLOSED — 111 TEXTUAL + 111 VISUAL VERIFIED; DOCUMENTATION SYNC COMPLETE; TAMIL ARCHIVAL-READY NEXT.**
+
+Exact next activity: **Part 003 Tamil archival-ready checkpoint**. Confirm the closed evidence chain and final **111 textual verified + 111 visual verified / 0 exceptions** distribution, follow `../PART_002_TAMIL_ARCHIVAL_READY.md` as precedent, and create `../PART_003_TAMIL_ARCHIVAL_READY.md` without changing page records. External **333→334** remains deferred until Part 004 source intake; English remains blocked until Tamil archival closure.'''
+          )
+
+          # Archival guideline
+          replace_once(
+              'KURALOVIYAM_ARCHIVAL_GUIDELINES.md',
+              '- documentation synchronization: **NEXT / not-started**;\n- Tamil archival-ready checkpoint: **not-started**;',
+              '- documentation synchronization: **COMPLETE** — durable record `works/kuraloviyam/PART_003_DOCUMENTATION_SYNC.md`;\n- Tamil archival-ready checkpoint: **NEXT / not-started**;'
+          )
+          replace_tail(
+              'KURALOVIYAM_ARCHIVAL_GUIDELINES.md',
+              '### Exact next content stage',
+              '''### Exact next content stage
+
+Perform the separate **Part 003 Tamil archival-ready checkpoint**. Confirm the closed audit, final-status and documentation-sync records; verify **111 textual verified + 111 visual verified / 0 exceptions**; follow `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md` as precedent; and create `works/kuraloviyam/PART_003_TAMIL_ARCHIVAL_READY.md` without reopening or changing the Tamil page layer. English remains blocked until Tamil archival closure; external **333→334** remains deferred until Part 004 source intake.'''
+          )
+
+          # Next-chat prompt
+          replace_once('NEXT_CHAT_PROMPT_KURALOVIYAM.md', startup_old_meta, startup_new_meta)
+          replace_once(
+              'NEXT_CHAT_PROMPT_KURALOVIYAM.md',
+              '- Part 003 documentation synchronization: **NEXT / not-started**.\n- Part 003 Tamil archival-ready: **not-started**.',
+              '- Part 003 documentation synchronization: **COMPLETE**.\n- Part 003 Tamil archival-ready: **NEXT / not-started**.'
+          )
+          replace_tail(
+              'NEXT_CHAT_PROMPT_KURALOVIYAM.md',
+              '## Exact next activity — Part 003 documentation synchronization',
+              '''## Documentation synchronization closure
+
+Part 003 documentation synchronization is **COMPLETE**. Durable record: `works/kuraloviyam/PART_003_DOCUMENTATION_SYNC.md`.
+
+The live control layer now consistently records **111 textual verified + 111 visual verified / 0 partial / 0 source-limited / 0 needs-review / 0 unresolved status exceptions**. Historical phase-state statements remain only as historical evidence.
+
+## Exact next activity — Part 003 Tamil archival-ready checkpoint
+
+Perform the separate **Tamil archival-ready checkpoint** for Part 003, following `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md` as precedent.
+
+Requirements:
+
+1. fetch live `main` first and preserve newer durable state;
+2. confirm `works/kuraloviyam/PART_003_AUDIT.md` remains **PASS**;
+3. confirm `works/kuraloviyam/PART_003_FINAL_STATUS_SYNC.md` remains **PASS / CLOSED**;
+4. confirm `works/kuraloviyam/PART_003_DOCUMENTATION_SYNC.md` remains **COMPLETE**;
+5. confirm the final Part-003 distribution is **111 textual verified + 111 visual verified / 0 partial / 0 source-limited / 0 needs-review / 0 unresolved status exceptions**;
+6. confirm source identity and full coverage remain **111 records / scans 223–333 / printed 206–316**;
+7. preserve the closed internal **332→333 genuine continuation** and keep external **333→334 deferred** until Part 004 source intake;
+8. create `works/kuraloviyam/PART_003_TAMIL_ARCHIVAL_READY.md` with the closed evidence chain and final disposition;
+9. do **not** alter Tamil body wording, quoted Kural wording/lineation, page structure, visual notes, source comments, or any page-record metadata in this checkpoint;
+10. audit the checkpoint-only changed-file set;
+11. only after the Tamil archival-ready checkpoint passes may the maintained Part-003 English translation/review workflow begin.'''
+          )
+
+          # Source metadata
+          replace_once(
+              'works/kuraloviyam/metadata/source.md',
+              '| 003 | 223–333 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf` | **supplied; source intake PASS / COMPLETE; Pass 1 ACTIVE — 11/111** |',
+              '| 003 | 223–333 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf` | **supplied; source intake + Pass 1 + Pass 2A + Pass 2B + Pass 3 COMPLETE; audit PASS; final status sync PASS / CLOSED; documentation sync COMPLETE; Tamil archival-ready NEXT** |'
+          )
+          replace_once(
+              'works/kuraloviyam/metadata/source.md',
+              'Current user-directed Part 003 Pass 1 cadence is **11 physical scans per normal iteration**. P3-01 scans **223–233 / printed 206–216** are complete; **233→234 is a genuine continuation**. The exact next batch is **234–244 / printed 217–227**. Remaining normal 11-scan batches continue through 322–332, with scan 333 as the final one-page remainder. These are workflow boundaries only.',
+              'Historical Part-003 Pass-1 cadence was **11 physical scans per normal iteration**, followed by a one-page final remainder at scan 333. Pass 1, Pass 2A, Pass 2B and Pass 3 are now complete; the Part audit passed; final metadata/status synchronization closed all 111 records as textual and visual `verified`; documentation synchronization is complete. The next gate is the separate Tamil archival-ready checkpoint.'
+          )
+
+          # Transcription policy
+          replace_once(
+              'works/kuraloviyam/metadata/transcription-policy.md',
+              'Part 001 has no usable parsed text layer. Do not treat OCR, inferred text or model memory as source text.',
+              'Parts 001–003 have no usable parsed text layer. Do not treat OCR, inferred text or model memory as source text.'
+          )
+          replace_once(
+              'works/kuraloviyam/metadata/transcription-policy.md',
+              '`verified` is unavailable until both textual and meaningful visual-text verification have passed against the rendered source.\n\nA 111-page part becomes archival-ready only after its explicit part audit passes.',
+              '`verified` is unavailable until textual verification, independent lexical-fidelity verification, meaningful visual-text verification and the Part audit have closed, followed by the dedicated final metadata/status synchronization.\n\nA 111-page Part becomes archival-ready only after its audit, final metadata/status synchronization and documentation synchronization have all closed and the separate Tamil archival-ready checkpoint passes.'
+          )
+
+          # Durable documentation-sync record
+          record = '''# Part 003 — Documentation Synchronization
+
+Work: `குறளோவியம்`  
+Repository: `pugazg/kalaignar-literary-commentary`  
+Branch: `main`
+
+## Result
+
+**DOCUMENTATION SYNCHRONIZATION — COMPLETE**
+
+This gate reconciles the live Part-003 control layer after `PART_003_AUDIT.md` passed and `PART_003_FINAL_STATUS_SYNC.md` closed all 111 page records as textual and visual `verified`.
+
+## Starting checkpoint
+
+`a30dfd7997e067db9b5cec0a02f32834ab6e043b` — final metadata/status synchronization already closed; live frontier was documentation synchronization.
+
+## Reconciled durable state
+
+- source intake — **PASS / COMPLETE**;
+- Pass 1 — **COMPLETE, 111/111**;
+- Pass 2A — **COMPLETE, 111/111**;
+- Pass 2B — **COMPLETE, 111/111**;
+- Pass 3 — **COMPLETE, 111/111**;
+- Part audit — **PASS**;
+- final metadata/status synchronization — **PASS / CLOSED**;
+- final Tamil textual distribution — **111 verified / 0 partial / 0 source-limited / 0 needs-review**;
+- final visual-fidelity distribution — **111 verified / 0 needs-review**;
+- unresolved status exceptions — **0**;
+- internal **332→333** — **genuine continuation / closed**;
+- external **333→334** — **deferred until Part 004 source intake**.
+
+## Documentation-only scope
+
+This gate synchronizes only control/documentation files. It does **not** modify any file under `works/kuraloviyam/pages/` and does not reopen source comparison.
+
+Synchronized files:
+
+1. `works/kuraloviyam/README.md`;
+2. `works/kuraloviyam/HANDOVER.md`;
+3. root `HANDOVER.md`;
+4. `works/kuraloviyam/indexes/page-map.md`;
+5. `KURALOVIYAM_ARCHIVAL_GUIDELINES.md`;
+6. `NEXT_CHAT_PROMPT_KURALOVIYAM.md`;
+7. `works/kuraloviyam/metadata/source.md`;
+8. `works/kuraloviyam/metadata/transcription-policy.md`;
+9. this durable record.
+
+Historical phase statements are preserved where they describe the state at the close of an earlier gate. Stale **live-frontier** claims were advanced to the actual current state.
+
+## Fidelity safeguards
+
+Documentation synchronization changes no:
+
+- Tamil body wording;
+- Kural wording or lineation;
+- paragraph/dialogue structure;
+- page type;
+- visual notes;
+- source comments;
+- source-furniture treatment;
+- scan/local/printed-page mapping;
+- page-record status metadata.
+
+## Next gate
+
+The exact next activity is the separate **Part 003 Tamil archival-ready checkpoint**, following `PART_002_TAMIL_ARCHIVAL_READY.md` as precedent. English remains blocked until that checkpoint closes. Part 004 remains blocked until the Part-003 closure requirements are met and its controlling source is supplied.
+'''
+          out = Path('works/kuraloviyam/PART_003_DOCUMENTATION_SYNC.md')
+          if out.exists():
+              raise SystemExit(f'{out} unexpectedly already exists')
+          out.write_text(record, encoding='utf-8')
+          PY
+
+          expected=(
+            HANDOVER.md
+            KURALOVIYAM_ARCHIVAL_GUIDELINES.md
+            NEXT_CHAT_PROMPT_KURALOVIYAM.md
+            works/kuraloviyam/HANDOVER.md
+            works/kuraloviyam/PART_003_DOCUMENTATION_SYNC.md
+            works/kuraloviyam/README.md
+            works/kuraloviyam/indexes/page-map.md
+            works/kuraloviyam/metadata/source.md
+            works/kuraloviyam/metadata/transcription-policy.md
+          )
+
+          mapfile -t changed < <(git diff --name-only | sort)
+          mapfile -t wanted < <(printf '%s\n' "${expected[@]}" | sort)
+          if [ "${changed[*]}" != "${wanted[*]}" ]; then
+            printf 'Documentation changed-file mismatch.\nExpected:\n%s\nActual:\n%s\n' "$(printf '%s\n' "${wanted[@]}")" "$(printf '%s\n' "${changed[@]}")"
+            exit 1
+          fi
+
+          if git diff --name-only | grep -q '^works/kuraloviyam/pages/'; then
+            echo 'Page record changed during documentation sync'
+            exit 1
+          fi
+
+          git diff --check
+          git config user.name "pugazg"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "${expected[@]}"
+          git diff --cached --check
+          git commit -m "kuraloviyam: Complete Part 003 documentation sync"
+          git push origin HEAD:main
