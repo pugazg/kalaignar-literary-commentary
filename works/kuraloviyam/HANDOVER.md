@@ -136,141 +136,44 @@ Durable Pass-2B record: `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md`.
 
 All Part-003 records intentionally remain `status: "needs-review"` / `visual_fidelity: "needs-review"`. Pass 2B completion does **not** promote them.
 
-## Part 003 Pass 3 — ACTIVE
+## Part 003 Pass 3 — COMPLETE
 
-Pass 3 is **meaningful visual-text verification**, following `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md` as precedent. User-directed cadence is **11 physical scans per iteration**.
+Pass 3 is **meaningful visual-text verification**, following `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md` as precedent. It completed **111 / 111 scans through scan 333 / printed 316** with no status promotion.
 
-Pass 3 checks source-supported visual organization rather than repeating lexical verification. Verify:
+Pass 3 checks source-supported visual organization rather than repeating lexical verification. Verified dimensions included heading hierarchy, Kural/quotation lineation and block placement, prose/quotation relationships, page furniture and source/non-source separation, illustration/text physical order and relationship, physical-page continuation and source-size legibility.
 
-- heading hierarchy;
-- Kural/quotation lineation and block placement;
-- prose/quotation relationships;
-- page furniture and source/non-source visual separation;
-- illustration/text physical order and relationship;
-- physical-page continuation;
-- source-size legibility.
+Completed Pass-3 cadence:
 
-Exact font, colour and artwork recreation are not required. Rewrite a page record only when a direct source-supported structural correction is necessary. Keep `status: "needs-review"` / `visual_fidelity: "needs-review"` until the later Part audit and final metadata/status synchronization.
+- Batch 1 — **223–233 / printed 206–216 — 11/11**; correction on **223**;
+- Batch 2 — **234–244 / printed 217–227 — 11/11**; **0 corrections**;
+- Batch 3 — **245–255 / printed 228–238 — 11/11**; **0 corrections**;
+- Batch 4 — **256–266 / printed 239–249 — 11/11**; correction on **260**;
+- Batch 5 — **267–277 / printed 250–260 — 11/11**; corrections on **267, 274, 277**;
+- Batch 6 — **278–288 / printed 261–271 — 11/11**; **0 corrections**;
+- Batch 7 — **289–299 / printed 272–282 — 11/11**; correction on **292**;
+- Batch 8 — **300–310 / printed 283–293 — 11/11**; corrections on **302, 303**;
+- Batch 9 — **311–321 / printed 294–304 — 11/11**; correction on **311**;
+- Batch 10 — **322–332 / printed 305–315 — 11/11**; corrections on **330, 332**;
+- final remainder — **333 / printed 316 — 1/1**; structural correction preserves highlighted Kural 567 as a distinct two-line set-out block and records the side vertical title/footer as source page furniture.
 
-### Pass 3 Batch 1 — COMPLETE
-
-**Scans 223–233 / printed 206–216 — 11/11.**
-
-- scan **223**: structural/visual-description correction only — removed the incorrect snake-scene description and replaced it with a source-faithful description of the large upper illustration showing a foreground man gesturing toward a younger man with an onlooking crowd behind; prose remains below;
-- scans **224–233**: no structural correction required;
-- lexical body-text changes: **0**;
-- status promotions: **0**;
-- outgoing scan **234 / printed 217** witness reconfirms **233→234 genuine continuation**.
-
-### Pass 3 Batch 2 — COMPLETE
-
-**Scans 234–244 / printed 217–227 — 11/11.**
-
-- structural/visual-description corrections: **0**;
-- scans **234–244**: all source-supported visual organization already adequately represented;
-- lexical body-text changes: **0**;
-- status promotions: **0**;
-- outgoing scan **245 / printed 228** witness reconfirms **244→245 CLEAN**.
-
-### Pass 3 Batch 3 — COMPLETE
-
-**Scans 245–255 / printed 228–238 — 11/11.**
-
-- structural/visual-description corrections: **0**;
-- scans **245–255**: all source-supported visual organization already adequately represented;
-- lexical body-text changes: **0**;
-- status promotions: **0**;
-- outgoing scan **256 / printed 239** witness reconfirms **255→256 CLEAN**.
-
-### Pass 3 Batch 4 — COMPLETE
-
-**Scans 256–266 / printed 239–249 — 11/11.**
-
-- scan **260**: structural/visual-description correction only — the upper illustration was clarified as the later reunion, with adult Alagan embracing his ill uncle while the aunt stands beside them; the note now explicitly distinguishes that later illustrated moment from the childhood prose opening below;
-- scans **256–259, 261–266**: no structural correction required;
-- lexical body-text changes: **0**;
-- status promotions: **0**;
-- outgoing scan **267 / printed 250** witness reconfirms **266→267 genuine continuation**.
-
-### Pass 3 Batch 5 — COMPLETE
-
-**Scans 267–277 / printed 250–260 — 11/11.**
-
-- scan **267**: structural/page-furniture clarification only — `visual_notes` now records the small red decorative monument below the Kural/Chapter metadata;
-- scan **274**: structural/visual-description correction only — the upper illustration is a woman facing an oval mirror in which the returning prince is pictured/reflected; the prior note incorrectly described a companion speaking in the illustration;
-- scan **277**: structural/page-furniture clarification only — `visual_notes` now records the small red decorative monument below the Chapter metadata;
-- scans **268–273, 275–276**: no structural correction required;
-- lexical body-text changes: **0**;
-- status promotions: **0**;
-- outgoing scan **278 / printed 261** witness reconfirms **277→278 CLEAN**.
-
-### Pass 3 Batch 6 — COMPLETE
-
-**Scans 278–288 / printed 261–271 — 11/11.**
-
-- structural/visual-description corrections: **0**;
-- scans **278–288**: all source-supported visual organization already adequately represented;
-- lexical body-text changes: **0**;
-- status promotions: **0**;
-- outgoing scan **289 / printed 272** witness reconfirms **288→289 genuine continuation**.
-
-### Pass 3 Batch 7 — COMPLETE
-
-**Scans 289–299 / printed 272–282 — 11/11.**
-
-- scan **292**: structural correction only — the altered three-line Kural displayed separately in the source is now preserved as a distinct Markdown set-out block; `visual_notes` updated accordingly;
-- scans **289–291, 293–299**: no structural correction required;
-- lexical body-text changes: **0**;
-- status promotions: **0**;
-- outgoing scan **300 / printed 283** witness reconfirms **299→300 CLEAN**.
-
-### Pass 3 Batch 8 — COMPLETE
-
-**Scans 300–310 / printed 283–293 — 11/11.**
-
-- scan **302**: structural/page-furniture clarification only — the large red decorative pavilion/monument below Chapter 62 / Kural 617 is now recorded in `visual_notes` instead of describing the page as text-only;
-- scan **303**: structural/visual-description correction only — the upper illustration is an embracing couple in an intimate indoor setting by an open/moonlit window; the prior note incorrectly described two women;
-- scans **300–301, 304–310**: no structural correction required;
-- lexical body-text changes: **0**;
-- status promotions: **0**;
-- outgoing scan **311 / printed 294** witness reconfirms **310→311 CLEAN**.
-
-### Pass 3 Batch 9 — COMPLETE
-
-**Scans 311–321 / printed 294–304 — 11/11.**
-
-- scan **311**: structural/visual-description correction only — the upper illustration is a composite separation/intimacy image, with an embracing couple above and the woman reclining alone below; the prior note was too generic;
-- scans **312–321**: no structural correction required;
-- lexical body-text changes: **0**;
-- status promotions: **0**;
-- outgoing scan **322 / printed 305** witness reconfirms **321→322 CLEAN**.
-
-### Pass 3 Batch 10 — COMPLETE
-
-**Scans 322–332 / printed 305–315 — 11/11.**
-
-- scan **330**: structural/visual-description correction only — the upper illustration shows a bare-chested man walking away in the foreground while an elder speaks to a child behind him; no literal carried burden is depicted, so `visual_notes` now avoids presenting the metaphorical burden as a visible object;
-- scan **332**: structural/visual-description correction only — the upper palace illustration shows a ruler receiving a tied money bag from a woman while a laborer with a hoe stands at left;
-- scans **322–329, 331**: no structural correction required;
-- lexical body-text changes: **0**;
-- status promotions: **0**;
-- outgoing scan **333 / printed 316** witness reconfirms **332→333 genuine continuation** and was not counted in Batch 10.
+Pass-3 lexical body-text changes: **0**. Status promotions: **0**. Internal **332→333 genuine continuation** is closed. External **333→334** remains deferred until Part 004 source intake.
 
 Durable Pass-3 record: `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`. Supplemental Batch-9 record: `works/kuraloviyam/PASS3_BATCH_009.md`.
 
-Current Pass-3 frontier: **110 / 111 through scan 332 / printed 315**.
+All Part-003 records still remain `status: "needs-review"` / `visual_fidelity: "needs-review"`; the audit and later final metadata/status synchronization control promotion.
 
-## Exact next activity — Part 003 Pass 3 / final remainder
+## Exact next activity — Part 003 audit
 
-Process **overall scan 333 / printed 316 — 1 scan** under the same meaningful visual-text gate.
+Audit **all 111 Part-003 page records / scans 223–333 / printed 206–316** against the completed durable gates.
 
 1. fetch live `main` first;
-2. use the supplied Part 003 controlling PDF and freshly render/inspect scan **333** directly;
-3. fetch current page record `0333-kuraloviyam-316.md` before comparison;
-4. reconfirm the genuine **332→333** continuation, text/Kural/Chapter metadata organization, page furniture and source/non-body separation;
-5. make only source-supported **structural** corrections; do not repeat or alter settled lexical wording;
-6. keep textual and visual statuses at `needs-review`;
-7. update the Part-003 Pass-3 durable log and synchronize README, work/root handovers, page-map and prompt;
-8. audit the exact changed-file set before advancing.
+2. read the mandatory startup set above and the closed Part-002 audit precedent;
+3. reconcile the complete **111/111 inventory** and exact source identity;
+4. reconcile Pass 1, Pass 2A, Pass 2B and Pass 3 coverage and their recorded correction/frontier claims;
+5. reconcile internal continuation/boundary state through the closed **332→333 genuine continuation** while leaving external **333→334** deferred;
+6. check unresolved exception/hold counts and page-record metadata/status consistency;
+7. confirm every Part-003 record remains `needs-review` / `visual_fidelity: needs-review` before final status synchronization;
+8. create/update the durable Part-003 audit record and synchronize control documents to the audit result;
+9. audit the exact changed-file set before advancing.
 
-Only after this one-scan remainder is complete may the Part 003 audit begin. External **333→334 remains deferred** until Part 004 source intake. English remains blocked until Tamil archival closure.
+Do **not** promote page records during the audit itself. Only after a PASS audit may the separate final metadata/status synchronization promote eligible records. English remains blocked until Tamil archival closure.
