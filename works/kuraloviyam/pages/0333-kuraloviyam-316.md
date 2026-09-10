@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Text-only continuation page; side vertical title and footer furniture excluded from body text; closes the severe-rule / famine vignette and Part 003 with Chapter 57 / Kural 567; external 333→334 boundary deferred until Part 004 intake"
+visual_notes: "Text-only continuation/close; highlighted Kural 567 is a distinct two-line set-out block above Chapter 57 metadata; side vertical title and footer furniture excluded from body text; closes the severe-rule / famine vignette and Part 003; external 333→334 boundary deferred until Part 004 intake"
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -36,8 +36,8 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 அதற்கு இதோ குறள்:-
 
-“கடுமொழியும் கையிகந்த தண்டமும் வேந்தன்
-அடுமுரண் தேய்க்கும் அரம்”
+> “கடுமொழியும் கையிகந்த தண்டமும் வேந்தன்  
+> அடுமுரண் தேய்க்கும் அரம்”
 
 அதிகாரம் - 57     - வெருவந்த செய்யாமை;     பாடல் - 567
 
