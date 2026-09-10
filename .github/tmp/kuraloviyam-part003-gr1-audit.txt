@@ -1,0 +1,209 @@
+KURALOVIYAM PART 003 ENGLISH GR1 AUDIT
+Range: scans 223-255 / printed 206-238
+Expected page status: source-checked
+
+CHAPTER / KURAL METADATA IN RANGE
+224: TA அதிகாரம் - 84     -     பேதைமை;     பாடல்கள் - 838, 839
+     EN Chapter 84 — Folly; Kurals 838, 839
+226: TA அதிகாரம் - 126     -     நிறையழிதல்;     பாடல் - 1253
+     EN Chapter 126 — Loss of Restraint; Kural 1253
+228: TA அதிகாரம் - 19     -     புறங்கூறாமை;     பாடல் - 189
+     EN Chapter 19 — Refraining from Slander; Kural 189
+230: TA அதிகாரம் - 125     -     நெஞ்சொடு கிளத்தல்;     பாடல் - 1241
+     EN Chapter 125 — Speaking with the Heart; Kural 1241
+232: TA அதிகாரம் - 92     -     வரைவின் மகளிர்;     பாடல் - 913
+     EN Chapter 92 — Women of Mercenary Love; Kural 913
+234: TA அதிகாரம் - 118     -     கண்விதுப்பழிதல்;     பாடல் - 1171
+     EN Chapter 118 — Reproaching the Eyes; Kural 1171
+236: TA அதிகாரம் - 9     -     விருந்தோம்பல்;     பாடல் - 90
+     EN Chapter 9 — Hospitality; Kural 90
+238: TA அதிகாரம் - 112     -     நலம்புனைந்துரைத்தல்;     பாடல் - 1117, 1118
+     EN Chapter 112 — Praising Her Beauty; Kurals 1117, 1118
+240: TA அதிகாரம் - 93     -     கள்ளுண்ணாமை;     பாடல் - 929
+     EN Chapter 93 — Abstaining from Liquor; Kural 929
+242: TA அதிகாரம் - 119     -     பசப்புறுபருவரல்;     பாடல் - 1186
+     EN Chapter 119 — Suffering from Pallor; Kural 1186
+244: TA அதிகாரம் - 7     -     மக்கட்பேறு;     பாடல் - 64
+     EN Chapter 7 — The Blessing of Children; Kural 64
+247: TA அதிகாரம் - 131     -     புலவி;     பாடல்கள் - 1306, 1309
+     EN Chapter 131 — Lovers' Sulking; Kurals 1306, 1309
+249: TA அதிகாரம் - 28     -     கூடாவொழுக்கம்;     பாடல் - 273
+     EN Chapter 28 — False Conduct; Kural 273
+251: TA அதிகாரம் - 129     -     புணர்ச்சி விதும்பல்;     பாடல்கள் - 1282, 1284, 1290
+     EN Chapter 129 — Yearning for Union; Kurals 1282, 1284, 1290
+253: TA அதிகாரம் - 104     -     உழவு;     பாடல் - 1039
+     EN Chapter 104 — Agriculture; Kural 1039
+255: TA அதிகாரம் - 126     -     நிறையழிதல்;     பாடல் - 1251
+     EN Chapter 126 — Loss of Restraint; Kural 1251
+
+GLOSSARY TERMS EVIDENCED IN RANGE
+223: குறளோவியம் => Kuraloviyam
+223: வள்ளுவர் => Valluvar / Thiruvalluvar
+223: செங்கோல் => just sceptre / sceptre of righteous rule
+223: கலை => Kala
+224: குறளோவியம் => Kuraloviyam
+224: குறள் => Kural
+224: வள்ளுவர் => Valluvar / Thiruvalluvar
+224: அதிகாரம் => Chapter / Kural
+224: குறளார் => Kuralar
+224: கலை => Kala
+225: குறளோவியம் => Kuraloviyam
+225: வள்ளுவர் => Valluvar / Thiruvalluvar
+225: அக்கா => akka / elder sister
+225: கலை => Kala
+226: குறளோவியம் => Kuraloviyam
+226: குறள் => Kural
+226: ஊடல் => lovers' quarrel
+226: அதிகாரம் => Chapter / Kural
+226: நிறையழிதல் => Loss of Restraint
+226: புலவி நுணுக்கம் => Subtleties of Lovers' Quarrel
+226: நினைந்தவர் புலம்பல் => Lamenting the Absent Lover
+226: புலவி => Lovers' Sulking
+226: கலை => Kala
+227: குறளோவியம் => Kuraloviyam
+227: வள்ளுவர் => Valluvar / Thiruvalluvar
+227: கலை => Kala
+228: குறளோவியம் => Kuraloviyam
+228: குறள் => Kural
+228: வள்ளுவர் => Valluvar / Thiruvalluvar
+228: உரை => commentary / interpretation / speech or address
+228: அறம் => virtue / virtuous conduct
+228: அதிகாரம் => Chapter / Kural
+228: கேள்வி => Listening
+228: புறங்கூறாமை => Refraining from Slander
+228: கலை => Kala
+229: குறளோவியம் => Kuraloviyam
+229: கலை => Kala
+230: குறளோவியம் => Kuraloviyam
+230: குறள் => Kural
+230: அதிகாரம் => Chapter / Kural
+230: நெஞ்சொடு கிளத்தல் => Speaking with the Heart
+230: கலை => Kala
+231: குறளோவியம் => Kuraloviyam
+231: அசை => asai / seer / thalai
+231: கலை => Kala
+232: குறளோவியம் => Kuraloviyam
+232: வள்ளுவர் => Valluvar / Thiruvalluvar
+232: கூடல் => lovers' union
+232: அதிகாரம் => Chapter / Kural
+232: கலை => Kala
+232: ஏந்திழை => Enthizhai
+233: குறளோவியம் => Kuraloviyam
+233: கலை => Kala
+234: குறளோவியம் => Kuraloviyam
+234: அதிகாரம் => Chapter / Kural
+234: கண்விதுப்பழிதல் => Reproaching the Eyes
+234: கண்ணகி => Kannagi
+234: கலை => Kala
+235: குறளோவியம் => Kuraloviyam
+235: கல்வி => Education
+235: கலை => Kala
+236: குறளோவியம் => Kuraloviyam
+236: குறள் => Kural
+236: அதிகாரம் => Chapter / Kural
+236: கலை => Kala
+237: குறளோவியம் => Kuraloviyam
+237: கலை => Kala
+238: குறளோவியம் => Kuraloviyam
+238: வள்ளுவர் => Valluvar / Thiruvalluvar
+238: அதிகாரம் => Chapter / Kural
+238: கலை => Kala
+239: குறளோவியம் => Kuraloviyam
+239: கலை => Kala
+240: குறளோவியம் => Kuraloviyam
+240: வள்ளுவர் => Valluvar / Thiruvalluvar
+240: அதிகாரம் => Chapter / Kural
+240: கலை => Kala
+241: குறளோவியம் => Kuraloviyam
+241: வள்ளுவர் => Valluvar / Thiruvalluvar
+241: கலை => Kala
+242: குறளோவியம் => Kuraloviyam
+242: குறள் => Kural
+242: வள்ளுவர் => Valluvar / Thiruvalluvar
+242: அதிகாரம் => Chapter / Kural
+242: பசப்புறுபருவரல் => Suffering from Pallor
+242: பைங்கிளி => Paingili / green-parrot maiden
+242: கலை => Kala
+243: குறளோவியம் => Kuraloviyam
+243: கலை => Kala
+243: வீரன் => Veeran
+244: குறளோவியம் => Kuraloviyam
+244: குறள் => Kural
+244: வள்ளுவர் => Valluvar / Thiruvalluvar
+244: அதிகாரம் => Chapter / Kural
+244: மக்கட்பேறு => The Blessing of Children
+244: கலை => Kala
+245: குறளோவியம் => Kuraloviyam
+245: மாங்கனி => Maangani
+245: கலை => Kala
+245: பூங்குழலி => Poonguzhali
+246: குறளோவியம் => Kuraloviyam
+246: வள்ளுவர் => Valluvar / Thiruvalluvar
+246: ஊடல் => lovers' quarrel
+246: மாங்கனி => Maangani
+246: கலை => Kala
+246: பூங்குழலி => Poonguzhali
+247: குறளோவியம் => Kuraloviyam
+247: குறள் => Kural
+247: விளக்கம் => explanation
+247: ஊடல் => lovers' quarrel
+247: அதிகாரம் => Chapter / Kural
+247: புலவி => Lovers' Sulking
+247: மாங்கனி => Maangani
+247: கலை => Kala
+247: பூங்குழலி => Poonguzhali
+248: குறளோவியம் => Kuraloviyam
+248: உரை => commentary / interpretation / speech or address
+248: கலை => Kala
+249: குறளோவியம் => Kuraloviyam
+249: குறள் => Kural
+249: அதிகாரம் => Chapter / Kural
+249: கூடாவொழுக்கம் => False Conduct
+249: கலை => Kala
+250: குறளோவியம் => Kuraloviyam
+250: வள்ளுவர் => Valluvar / Thiruvalluvar
+250: ஊடல் => lovers' quarrel
+250: கலை => Kala
+251: குறளோவியம் => Kuraloviyam
+251: வள்ளுவர் => Valluvar / Thiruvalluvar
+251: ஊடல் => lovers' quarrel
+251: அதிகாரம் => Chapter / Kural
+251: புணர்ச்சி விதும்பல் => Yearning for Union
+251: கேள்வி => Listening
+251: கலை => Kala
+252: குறளோவியம் => Kuraloviyam
+252: பகுத்தறிவு => rationalism
+252: கேள்வி => Listening
+252: கலை => Kala
+252: தோகை => Thogai
+253: குறளோவியம் => Kuraloviyam
+253: வள்ளுவர் => Valluvar / Thiruvalluvar
+253: ஊடல் => lovers' quarrel
+253: அதிகாரம் => Chapter / Kural
+253: அத்தான் => Atthaan / husband / brother-in-law / beloved / my dear
+253: கலை => Kala
+254: குறளோவியம் => Kuraloviyam
+254: கலை => Kala
+255: குறளோவியம் => Kuraloviyam
+255: அதிகாரம் => Chapter / Kural
+255: கல்வி => Education
+255: நிறையழிதல் => Loss of Restraint
+255: கலை => Kala
+
+POSSIBLE CONTEXT/DEFAULT MISMATCHES FOR MANUAL REVIEW
+223: செங்கோல் => expected/context default just sceptre / sceptre of righteous rule
+225: அக்கா => expected/context default akka / elder sister
+226: புலவி => expected/context default Lovers' Sulking
+228: உரை => expected/context default commentary / interpretation / speech or address
+228: கேள்வி => expected/context default Listening
+231: அசை => expected/context default asai / seer / thalai
+232: ஏந்திழை => expected/context default Enthizhai
+235: கல்வி => expected/context default Education
+243: வீரன் => expected/context default Veeran
+247: விளக்கம் => expected/context default explanation
+248: உரை => expected/context default commentary / interpretation / speech or address
+251: கேள்வி => expected/context default Listening
+252: கேள்வி => expected/context default Listening
+252: தோகை => expected/context default Thogai
+253: ஊடல் => expected/context default lovers' quarrel
+255: கல்வி => expected/context default Education
