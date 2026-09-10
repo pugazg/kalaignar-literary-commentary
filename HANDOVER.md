@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 003 Tamil ARCHIVAL-READY / CLOSED; English drafting + source-check + glossary CLOSED; editorial review ER1 + ER2 + ER3 COMPLETE / PASS 99/111, ER4 next**: **2026-09-10**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
+Last refreshed for Kuraloviyam **Part 003 Tamil ARCHIVAL-READY / CLOSED; English drafting + source-check + glossary + editorial review COMPLETE / CLOSED 111/111; Part-level English review next**: **2026-09-10**.
 
 ## Repository
 

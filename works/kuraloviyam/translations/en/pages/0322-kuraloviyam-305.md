@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 Large classroom illustration above the prose.
 
-One day, a teacher was explaining to his students the Kurals in the chapter called “Knowing One's Strength,” which appears under the subject of politics in the Kural. Among his students was one with only half-baked understanding. The teacher explained that many scholars had interpreted the Kurals from different angles according to the learning they possessed and that, in keeping with Valluvar's own clear instruction—“Whatever a thing may be, and of whatever nature, wisdom is to discern its true substance”—one must acquire the intelligence to examine those interpretations and accept what is sound. Then he called the half-baked student and asked, “Brother! The chapter is titled ‘Knowing One's Strength.’ What does that mean?”
+One day, a teacher was explaining to his students the Kurals in the chapter “Knowing One's Strength,” under the Kural's heading of politics. Among his students was one with only half-baked understanding. The teacher explained that many scholars had interpreted the Kurals from different angles according to their learning and that, in keeping with Valluvar's own clear instruction—“Whatever a thing may be, and of whatever nature, wisdom is to discern its true substance”—one must develop the discernment to examine those interpretations and accept what is sound. Then he called the half-baked student and asked, “Brother! The chapter is titled ‘Knowing One's Strength.’ What does that mean?”
 
 As usual, the boy simply stood staring. “Nothing ever gets into your head!” said the teacher angrily and gave him a hard knock on the head.
 

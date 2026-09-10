@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -21,7 +21,7 @@ Days passed. Years rolled on. Before a wedding celebration ever came, the age fo
 
 Valluvar tells the story of such a woman movingly in a single line.
 
-“A woman of surpassing beauty lived alone and grew old.” That is the story of a woman told by Valluvar. Do you know why he tells it? It is not merely a story. It is an incomparable simile.
+“A woman of surpassing beauty lived alone and grew old.” That is the story of a woman as Valluvar tells it. Do you know why he tells it? It is not merely a story. It is an incomparable simile.
 
 “The wealth of one who does not give even one thing to help the destitute is like a beautiful woman living alone and growing old.”
 

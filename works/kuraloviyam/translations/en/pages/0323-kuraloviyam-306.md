@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -20,7 +20,7 @@ What could be done? He was the son of a wealthy and powerful notable in that tow
 
 “The meaning is that, when one acts without knowing the measure of the resources actually available, a country may appear to possess many forms of wealth and yet end by having nothing. This is how Tamil scholar Mu. Varadarasanar has explained it. This Kural too belongs to the chapter ‘Knowing One's Strength.’
 
-“An administration must frame its programmes only after calculating whether the resources it already has, the resources it can create, and those it can earn in future will remain sufficient in the treasury to accomplish what it proposes. Otherwise, for the sake of attractive publicity and without considering the strength of the treasury, many have launched schemes with enthusiasm and drive, only to fail later because they had no means to complete them. Valluvar states this counsel firmly in the same chapter:
+“An administration must frame its programmes only after calculating whether the resources it has, can create, and can earn in future will leave the treasury strong enough to accomplish what it proposes. Otherwise, for the sake of attractive publicity and without considering the strength of the treasury, many have launched schemes with enthusiasm and drive, only to fail later for lack of means to complete them. Valluvar states this counsel firmly in the same chapter:
 
 > Many, not knowing the strength they possess,  
 > have pressed forward in zeal and broken down midway.

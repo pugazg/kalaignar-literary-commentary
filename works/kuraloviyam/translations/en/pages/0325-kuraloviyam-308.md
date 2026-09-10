@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -23,9 +23,9 @@ Some feeling took possession of him.
 
 Thinking she was only a tender flowering creeper who would yield if touched, he placed his hand on Amudham's shoulder.
 
-She continued walking without saying anything in objection. He followed beside her.
+She kept walking without voicing any objection. He followed beside her.
 
-Beside a boat, darkness was slowly spreading its rule.
+Near a boat, darkness was slowly spreading its rule.
 
 “Shall we sit down?” asked Iraaman.
 

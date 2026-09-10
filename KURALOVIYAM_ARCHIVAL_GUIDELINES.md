@@ -172,10 +172,10 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 - project-created English drafting: **111/111 COMPLETE / CLOSED**;
 - English source-check: **111/111 COMPLETE / CLOSED**;
 - English glossary reconciliation: **COMPLETE / CLOSED — 111/111**;
-- English editorial review: **IN PROGRESS — ER1 + ER2 + ER3 COMPLETE / PASS 99/111**; current page state **99 editorial-reviewed + 12 source-checked**; Part review / release are not started.
+- English editorial review: **COMPLETE / CLOSED — 111/111**; current page state **111 editorial-reviewed + 0 source-checked**; Part review / release are not started.
 
 ### Exact next content stage
 
-Perform **Part 003 English Editorial Review ER4 — scans 322–333 / printed 305–316, final 12 page-aligned records**. Review readability and consistency against the controlled glossary and audited Tamil context; consult Tamil whenever a change could affect meaning; passing pages may move from `source-checked` to `editorial-reviewed`; do not begin Part-level review or release work during ER4; do not alter closed Tamil records.
+Perform the **Part 003 whole-Part English review — scans 223–333 / printed 206–316, 111 page-aligned records**. Verify inventory/alignment, final statuses, controlled terminology/names, Chapter/Kural metadata, Kural-block separation, visual/non-body page functions and accumulated continuities. Create the durable review record under `translations/en/reviews/`. Do **not** promote pages to `release-ready` during Part-level review and do not alter closed Tamil records.
 
-If ER4 passes, editorial review becomes **111/111 COMPLETE / CLOSED** and the next formal gate is the **whole-Part Part-level English review**. Part 004 remains blocked until the maintained Part-003 English workflow and final Part closure checkpoint are complete.
+If Part-level review passes, proceed next to the **Part 003 English release report**. Part 004 remains blocked until release-ready synchronization and the final Part closure checkpoint are complete.

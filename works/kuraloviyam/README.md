@@ -10,7 +10,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
 | 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | **Tamil ARCHIVAL-READY / CLOSED; English drafting + source-check + glossary COMPLETE / CLOSED; editorial review IN PROGRESS — ER1 + ER2 + ER3 COMPLETE / PASS 99/111; ER4 next** |
+| 003 | 223–333 | **Tamil ARCHIVAL-READY / CLOSED; English drafting + source-check + glossary + editorial review COMPLETE / CLOSED — 111/111; Part-level English review next** |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
 | 006 | 556–666 | not-started |
@@ -33,7 +33,7 @@ Tamil is **ARCHIVAL-READY / CLOSED** at **111 textual verified + 111 visual veri
 
 Maintained English is **RELEASE COMPLETE / CLOSED — 111/111 `release-ready`**. Durable review and release records are under `translations/en/reviews/`.
 
-## Part 003 — TAMIL ARCHIVAL-READY / CLOSED; ENGLISH DRAFTING + SOURCE-CHECK + GLOSSARY CLOSED; EDITORIAL REVIEW IN PROGRESS — ER1 + ER2 + ER3 99/111
+## Part 003 — TAMIL ARCHIVAL-READY / CLOSED; ENGLISH DRAFTING + SOURCE-CHECK + GLOSSARY + EDITORIAL REVIEW COMPLETE / CLOSED — 111/111
 
 Controlling source:
 
@@ -174,12 +174,12 @@ Durable documentation-sync record: `PART_003_DOCUMENTATION_SYNC.md`.
 - Part 003 English drafting: **111/111 COMPLETE / CLOSED**;
 - Part 003 English source-check: **111/111 COMPLETE / CLOSED**;
 - Part 003 English glossary reconciliation: **111/111 COMPLETE / CLOSED**;
-- Part 003 English editorial review: **IN PROGRESS — ER1 + ER2 + ER3 COMPLETE / PASS 99/111**;
-- current Part-003 English state: **99 `editorial-reviewed` + 12 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**;
+- Part 003 English editorial review: **111/111 COMPLETE / CLOSED**;
+- current Part-003 English state: **111 `editorial-reviewed` + 0 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**;
 - Part-level review / release: **not-started**.
 
 ## Current frontier
 
-**Next activity: Part 003 English Editorial Review ER4 — scans 322–333 / printed 305–316, final 12 pages.** Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity against the controlled glossary and audited Tamil context. Passing pages may move from `source-checked` to `editorial-reviewed`. Do not alter closed Tamil records or begin Part-level review/release work during ER4.
+**Next activity: Part 003 whole-Part English review — scans 223–333 / printed 206–316, 111 pages.** Verify exact Tamil/English page inventory and alignment, final English statuses, controlled terminology and names, Chapter/Kural metadata, Kural-block separation, visual/non-body page functions, and all accumulated cross-page continuities. Create the durable review record under `works/kuraloviyam/translations/en/reviews/`. Do **not** promote pages to `release-ready` during Part-level review.
 
-If ER4 passes, editorial review becomes **111/111 COMPLETE / CLOSED** and the next formal gate is the **whole-Part Part-level English review** for scans 223–333. External **333→334** remains deferred until Part 004 source intake. Part 004 remains blocked until the maintained Part-003 English workflow and final Part closure checkpoint are complete.
+External **333→334** remains deferred until Part 004 source intake. Part 004 remains blocked until Part 003 completes Part-level review, release report/release-ready synchronization and the final Part closure checkpoint.

@@ -85,9 +85,9 @@ Current user-directed page-batch cadence: **33 physical scans**.
 - cumulative first-pass drafting: **111/111 COMPLETE**;
 - post-drafting state: **111 `draft` / 0 source-limited / 0 blocked**;
 - source-check: **COMPLETE / CLOSED — 111/111**;
-- current English state: **99 `editorial-reviewed` + 12 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**;
+- current English state: **111 `editorial-reviewed` + 0 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**;
 - glossary reconciliation: **COMPLETE / CLOSED — 111/111**;
-- editorial review: **IN PROGRESS — ER1 + ER2 + ER3 COMPLETE / PASS 99/111**;
+- editorial review: **111/111 COMPLETE / CLOSED**;
 - Part review / release: **not-started**.
 
 D4 page commit: `f43d41d57622abdda7a9de63effe39697362629e` — `kuraloviyam: Draft Part 003 English scans 322-333`. Its 12 page records were reconciled into live main together with the completed-drafting controls. No Tamil file changed.
@@ -119,32 +119,27 @@ SC4 page commit: `e07a6775513bcf1619e5d1bcb6e8222f7004f0a8`. Incoming **321→32
 - recurring GR2 narrative/literary names were recorded;
 - no Tamil file or metadata changed.
 
-## Editorial review progress — ER1 + ER2 + ER3 COMPLETE / PASS 99/111
+## Editorial review progress — COMPLETE / CLOSED 111/111
 
 - ER1 **223–255 / printed 206–238 — COMPLETE / PASS 33/33**;
 - ER2 **256–288 / printed 239–271 — COMPLETE / PASS 33/33**;
 - ER3 **289–321 / printed 272–304 — COMPLETE / PASS 33/33**;
-- English state: **99 editorial-reviewed + 12 source-checked**;
-- ER1 wording changes limited to scans **246, 251, 255**;
-- ER2 wording changes limited to scans **256, 258, 259, 260, 263, 264, 265, 269, 270, 273, 275, 279, 281, 285, 287**;
-- ER3 wording changes limited to scans **289, 290, 292, 295, 298, 300, 304, 305, 308, 310, 313, 315, 316, 320**;
-- the other **19 ER3 pages** changed only by status promotion;
+- ER4 **322–333 / printed 305–316 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
+- English state: **111 editorial-reviewed + 0 source-checked**;
+- ER4 wording changes limited to scans **322, 323, 325, 327, 329, 331, 333**; the other five ER4 pages were status-only promotions;
 - Tamil changes: **0**;
-- source-supported Kural blocks, page functions and range continuities preserved, including genuine incoming **288→289** and clean outgoing **321→322**.
+- clean/genuine page relationships through final **332→333** preserved; external **333→334** remains deferred.
 
-## Exact next activity — English Editorial Review ER4
+## Exact next activity — Part 003 whole-Part English review
 
-Process **scans 322–333 / printed 305–316 — FINAL 12 PAGE-ALIGNED RECORDS**.
+Review **scans 223–333 / printed 206–316 — all 111 page-aligned records as one Part**.
 
 1. fetch live `main` first;
-2. confirm Part 003 Tamil remains **ARCHIVAL-READY / CLOSED** and English drafting, source-check and glossary reconciliation remain **111/111 COMPLETE / CLOSED**;
-3. confirm editorial review is **99/111** with scans **223–321** `editorial-reviewed`;
-4. read `translations/en/TRANSLATION_GUIDE.md`, `TRANSLATION_STATUS.md`, `GLOSSARY.md`, and English records **0322–0333**, consulting matching audited Tamil wherever an editorial choice could affect meaning;
-5. review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity;
-6. make only source-faithful editorial improvements; do not import standard/published/web English wording or terminology from memory;
-7. passing pages may move from `source-checked` to `editorial-reviewed`;
-8. do not alter Tamil files;
-9. do not begin Part-level review or release work during ER4;
-10. update `TRANSLATION_STATUS.md` and audit the exact changed-file set.
+2. confirm Part 003 Tamil remains **ARCHIVAL-READY / CLOSED** and English drafting, source-check, glossary reconciliation and editorial review are each **111/111 COMPLETE / CLOSED**;
+3. confirm all 111 English pages are `editorial-reviewed`, with 0 source-checked/draft/source-limited/blocked/release-ready;
+4. verify exact Tamil/English inventory and filename alignment, controlled terminology/names, Chapter/Kural numbering and labels, Kural-block separation, visual/non-body page functions and accumulated continuities;
+5. create `translations/en/reviews/PART_003_ENGLISH_REVIEW.md` as the durable review record;
+6. do **not** change page status to `release-ready` and do not begin Part 004;
+7. update controls and audit the exact changed-file set.
 
-If ER4 passes, editorial review becomes **111/111 COMPLETE / CLOSED** and the next activity is the **whole-Part Part-level English review — scans 223–333 / printed 206–316**. External **333→334** remains deferred until Part 004 source intake. Part 004 remains blocked until the maintained English workflow and final Part closure checkpoint are complete.
+If Part-level review passes, the next gate is the **Part 003 English release report**. External **333→334** remains deferred until Part 004 source intake.

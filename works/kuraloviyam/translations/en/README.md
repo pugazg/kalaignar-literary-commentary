@@ -63,9 +63,9 @@ Incoming **222→223 is CLEAN**. Internal **332→333** is a genuine continuatio
 - cumulative English drafting: **111/111 COMPLETE**;
 - post-drafting state: **111 `draft` / 0 source-limited / 0 blocked**;
 - source-check: **111/111 COMPLETE / CLOSED**;
-- current English state: **99 `editorial-reviewed` + 12 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**;
+- current English state: **111 `editorial-reviewed` + 0 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**;
 - glossary reconciliation: **111/111 COMPLETE / CLOSED**;
-- editorial review: **IN PROGRESS — ER1 + ER2 + ER3 COMPLETE / PASS 99/111**;
+- editorial review: **111/111 COMPLETE / CLOSED**;
 - Part review / release: **not-started**.
 
 All 111 English pages preserve page alignment, visual/non-body descriptions, Kural block separation and source-supported cross-page continuities. The known **332→333** continuation is preserved and closed within Part 003. No Tamil archival record changed.
@@ -94,25 +94,23 @@ SC4 page commit: `e07a6775513bcf1619e5d1bcb6e8222f7004f0a8`.
 
 GR2 added the Part-003-first chapter controls **Poverty**, **Self-Control**, **Renouncing Modesty**, **Good Conduct**, **Knowing One's Strength**, and **Seeking the Support of the Great**; mapped three source-form variants to existing chapter controls; refined context for `பாவம்`, `தேன்மொழி`, and descriptive `புணர்ச்சி மகிழ்தல்`; and recorded recurring GR2 narrative/literary names. No Tamil archival record changed.
 
-## Part 003 English editorial review — IN PROGRESS
+## Part 003 English editorial review — COMPLETE / CLOSED
 
 - ER1 **223–255 / 206–238 — COMPLETE / PASS 33/33**;
 - ER2 **256–288 / 239–271 — COMPLETE / PASS 33/33**;
 - ER3 **289–321 / 272–304 — COMPLETE / PASS 33/33**;
-- cumulative editorial review: **99/111**;
-- remaining editorial-review pages: **12**;
-- current English state: **99 `editorial-reviewed` + 12 `source-checked`**;
-- ER1 wording changes: **scans 246, 251, 255 only**;
-- ER2 wording changes: **15 page files — scans 256, 258, 259, 260, 263, 264, 265, 269, 270, 273, 275, 279, 281, 285, 287**;
-- ER3 wording changes: **14 page files — scans 289, 290, 292, 295, 298, 300, 304, 305, 308, 310, 313, 315, 316, 320**; the other **19 ER3 pages** changed only by status promotion;
-- no Tamil archival record changed in ER1, ER2 or ER3.
+- ER4 **322–333 / 305–316 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
+- cumulative editorial review: **111/111 COMPLETE / CLOSED**;
+- current English state: **111 `editorial-reviewed` + 0 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**;
+- ER4 wording changes: **7 page files — scans 322, 323, 325, 327, 329, 331, 333**; the other 5 ER4 pages changed only by status promotion;
+- no Tamil archival record changed in ER4.
 
-ER3 preserved the genuine incoming **288→289** continuation and closed it on scan 289, preserved all Kural blocks and Chapter/Kural metadata, and left the clean outgoing **321→322** boundary intact. Meaning-sensitive smoothing on scans **295, 298, 304, 305, 308, 310, 313, 315–316** was checked against the audited Tamil records. No standard/published/web English wording was imported.
+ER4 preserved the clean incoming **321→322** boundary, the genuine **322→323** and **332→333** continuities, and the closed Part endpoint at scan **333 / printed 316**. External **333→334** remains deferred. No standard/published/web English wording was imported.
 
 ## Current frontier
 
-Exact next activity: **Part 003 English Editorial Review ER4 — scans 322–333 / printed 305–316, final 12 pages**.
+Exact next activity: **Part 003 whole-Part English review — scans 223–333 / printed 206–316, 111 pages**.
 
-Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity. Consult audited Tamil whenever an editorial change could affect meaning. Passing pages may move from `source-checked` to `editorial-reviewed`.
+Verify page inventory/alignment, exact final statuses, controlled terminology and names, Chapter/Kural numbering and labels, Kural-block separation, visual/non-body page functions, and accumulated continuities. Create `reviews/PART_003_ENGLISH_REVIEW.md` as the durable whole-Part review record. Do **not** promote pages to `release-ready` during this gate.
 
-If ER4 passes, editorial review becomes **111/111 COMPLETE / CLOSED** and the next formal gate is the **whole-Part Part-level English review**. Part 004 remains blocked until the maintained Part-003 English workflow and final Part closure checkpoint are complete.
+Part 004 remains blocked until Part 003 completes Part-level review, release report/release-ready synchronization and final Part closure.

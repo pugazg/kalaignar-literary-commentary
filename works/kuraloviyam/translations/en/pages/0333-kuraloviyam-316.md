@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -27,7 +27,7 @@ All six were sentenced to death. The news spread like wildfire.
 
 The condemned men were taken to the gallows. A sea of people surged up. The prison fortress wall was smashed. The six were freed.
 
-The next target of that tiger-like crowd, enraged after marching on the prison, was the palace itself. The flood of people entered there too. The king was not there; he had fled somewhere. The people's drum of victory split the sky.
+The next target of that tiger-like crowd, now enraged after storming the prison, was the palace itself. The flood of people entered there too. The king was not there; he had fled somewhere. The people's drum of victory split the sky.
 
 Valluvar warns that the strength of a ruler who makes harsh speech and excessive punishment his policy will be worn away, just as even iron is worn down by a file.
 

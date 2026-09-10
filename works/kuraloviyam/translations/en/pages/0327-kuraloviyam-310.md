@@ -6,14 +6,14 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
 “Is that so? No wonder you are frightened! What did Yama look like? Did he come toward you riding a buffalo? Did he hold in his hand the noose that snatches away lives? What was that rope like? Did it look like a hangman's rope? Was he black like new-moon darkness? Were his eyes like fire? Did he have moustaches like two axes fastened to his face? They say when he laughs it sounds like thunder in summer! Ezhini, why do you keep provoking my curiosity? Tell me what Yama looked like!”
 
-“Iniyan, my friend! Until now, you and I have only heard what is said about Yama. Yama does not come riding a buffalo. He does not have a terrifying form. Nor does he carry a life-snatching noose in his hand.”
+“Iniyan, my friend! Until now, you and I have only heard people speak of Yama. Yama does not come riding a buffalo. He does not have a terrifying form. Nor does he carry a life-snatching noose in his hand.”
 
 “Then what, Ezhini? Did you see me?”
 
