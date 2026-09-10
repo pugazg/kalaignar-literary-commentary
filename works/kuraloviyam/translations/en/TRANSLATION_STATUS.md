@@ -133,7 +133,7 @@ Incoming **222→223 is CLEAN**. Internal **332→333** is a genuine continuatio
 - cumulative drafting: **111/111 COMPLETE**;
 - English state after drafting: **111 `draft` / 0 source-limited / 0 blocked**;
 - remaining undrafted Part-003 pages: **0**;
-- source-check: **IN PROGRESS — 66/111 COMPLETE**;
+- source-check: **IN PROGRESS — 99/111 COMPLETE**;
 - glossary reconciliation: **not-started**;
 - editorial review: **not-started**;
 - Part-level review / release: **not-started**.
@@ -154,27 +154,35 @@ The D4 range preserves the clean incoming **321→322** boundary, the genuine in
 
 - **SC1: scans 223–255 / printed 206–238 — COMPLETE 33/33**;
 - **SC2: scans 256–288 / printed 239–271 — COMPLETE 33/33**;
-- cumulative source-check: **66/111**;
-- current Part-003 English state: **66 `source-checked` + 45 `draft` / 0 source-limited / 0 blocked**;
-- remaining source-check pages: **45**.
+- **SC3: scans 289–321 / printed 272–304 — COMPLETE 33/33**;
+- cumulative source-check: **99/111**;
+- current Part-003 English state: **99 `source-checked` + 12 `draft` / 0 source-limited / 0 blocked**;
+- remaining source-check pages: **12**.
 
-SC1 passed all 33 pages after its recorded source-fidelity reconciliation.
+SC1 and SC2 remain closed at their previously recorded checkpoints.
 
-SC2 compared every page paragraph-by-paragraph / block-by-block against the audited Tamil records. All **33/33** pages passed after source-fidelity reconciliation. Corrections were limited to:
+SC3 compared every English record against the audited Tamil counterpart paragraph-by-paragraph / block-by-block. All **33/33** pages passed after source-fidelity reconciliation. Corrections were limited to:
 
-- scans **257, 267 and 277** — restored the source pages' small red decorative monument as factual visual-material metadata;
-- scan **274 / printed 257** — repaired the split return-from-enemy-stronghold sentence so the English preserves the source sense that the prince entered the enemy stronghold stealthily in darkness and is now returning victorious.
+- scan **295 / printed 278 / Kural 1264** — restored the source's singular branch image, replacing the unsupported `branch after branch` expansion with `a branch`;
+- scan **299 / printed 282** — replaced the unsupported saltiness inference with the source-faithful sense that her tears tasted sweet to him **without any sting**;
+- scan **302 / printed 285** — restored the large red decorative pavilion/monument below the Chapter/Kural metadata as factual source page furniture, separate from body prose;
+- scans **309→310 / printed 292→293** — repaired the physical-page continuation so the judge's decision begins on scan 310 where the audited Tamil record begins it, instead of being pulled backward onto scan 309;
+- scan **320 / printed 303** — corrected `tongue-shaped feet` to the source-faithful `tongue-coloured feet`.
 
-SC2 page commit: `4438c820a0ea018acfb7b4b8d7bf03d1b2428120` — `kuraloviyam: Source-check Part 003 English scans 256-288`.
+SC3 page commit: `1cc8d67b390345aee74ab4683f469c01f4dc4874` — `kuraloviyam: Source-check Part 003 English scans 289-321`.
 
-The SC2 page gate changes exactly **33 English page records**, scans **256–288**, and no Tamil page or Tamil metadata. The incoming **255→256 boundary is CLEAN**. The outgoing **288→289** relationship is a genuine continuation and remains preserved; scan 289 closes the renunciation vignette.
+The SC3 page-only comparison from `c7690b5e1cd3d68cae9e95c36de21a902184e2a2` to `1cc8d67b390345aee74ab4683f469c01f4dc4874` is **ahead / non-divergent** and contains exactly **33 modified English page records**, scans **289–321**, with no Tamil page or Tamil metadata change. Twenty-seven pages changed only by status promotion; six page files also contain the source-fidelity corrections above.
 
-## Current frontier — Part 003 English Source-check SC3
+The incoming **288→289** relationship is a genuine continuation and remains preserved; scan 289 closes it. The outgoing **321→322 boundary is CLEAN**.
 
-Exact next activity: **source-check scans 289–321 / printed 272–304 — 33 page-aligned records**.
+## Current frontier — Part 003 English Source-check SC4
+
+Exact next activity: **source-check scans 322–333 / printed 305–316 — FINAL 12-PAGE REMAINDER**.
 
 Compare each English page against its audited Tamil counterpart paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual/non-body page function and cross-page continuity. Only passing pages may move from `draft` to `source-checked`.
 
-Do not perform glossary reconciliation or editorial review during SC3. Do not alter Tamil archival records. Preserve the genuine incoming **288→289** continuation and the CLEAN outgoing **321→322** boundary. If SC3 passes, cumulative source-check becomes **99/111** and SC4 will be the final **scans 322–333 / printed 305–316 — 12-page remainder**.
+Do not perform glossary reconciliation or editorial review during SC4. Do not alter Tamil archival records. Preserve the CLEAN incoming **321→322** boundary, the genuine internal **332→333** continuation, and the Part ending at scan **333**. External **333→334** remains deferred until Part 004 source intake.
+
+If SC4 passes, Part-003 English source-check becomes **111/111 COMPLETE / CLOSED** and the next gate is **glossary / recurring-terminology reconciliation**, using the current 33-page cadence.
 
 Part 004 remains blocked until Part 003 completes its maintained English workflow and final Part closure checkpoint.

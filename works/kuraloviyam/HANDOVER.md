@@ -84,8 +84,8 @@ Current user-directed page-batch cadence: **33 physical scans**.
 - D4 scans **322–333 / printed 305–316 — COMPLETE 12/12 / FINAL REMAINDER**;
 - cumulative first-pass drafting: **111/111 COMPLETE**;
 - post-drafting state: **111 `draft` / 0 source-limited / 0 blocked**;
-- source-check: **IN PROGRESS — SC1 + SC2 COMPLETE 66/111**;
-- current English state: **66 `source-checked` + 45 `draft` / 0 source-limited / 0 blocked**;
+- source-check: **IN PROGRESS — SC1 + SC2 + SC3 COMPLETE 99/111**;
+- current English state: **99 `source-checked` + 12 `draft` / 0 source-limited / 0 blocked**;
 - glossary reconciliation: **not-started**;
 - editorial review: **not-started**;
 - Part review / release: **not-started**.
@@ -94,31 +94,33 @@ D4 page commit: `f43d41d57622abdda7a9de63effe39697362629e` — `kuraloviyam: Dra
 
 All Part-003 first-pass English pages mirror the audited Tamil records and preserve page alignment, visual/non-body functions, Kural blocks and source-supported continuities. No standard/published/web English Kural wording was imported.
 
-## Source-check progress — SC1 + SC2 COMPLETE 66/111
+## Source-check progress — SC1 + SC2 + SC3 COMPLETE 99/111
 
-SC1 covers **223–255 / printed 206–238 — COMPLETE 33/33**.
+- SC1 **223–255 / printed 206–238 — COMPLETE 33/33**;
+- SC2 **256–288 / printed 239–271 — COMPLETE 33/33**;
+- SC3 **289–321 / printed 272–304 — COMPLETE 33/33**.
 
-SC2 covers **256–288 / printed 239–271 — COMPLETE 33/33**. All SC2 records now carry `status: "source-checked"`. Source-fidelity corrections were limited to visual-material restoration on scans **257, 267, 277** and the return-from-enemy-stronghold sentence on **274**. No Tamil file or metadata changed.
+All SC3 records now carry `status: "source-checked"`. Source-fidelity corrections were limited to scans **295, 299, 302, 309→310 and 320**. No Tamil file or metadata changed.
 
-SC2 page commit: `4438c820a0ea018acfb7b4b8d7bf03d1b2428120`. Incoming **255→256 is CLEAN**. Outgoing **288→289 is a genuine continuation**; scan 289 closes that renunciation vignette.
+SC3 page commit: `1cc8d67b390345aee74ab4683f469c01f4dc4874`. The incoming **288→289** continuation remains genuine and closes on scan 289. Outgoing **321→322 is CLEAN**.
 
-## Exact next activity — English Source-check SC3
+## Exact next activity — English Source-check SC4
 
-Process **scans 289–321 / printed 272–304 — 33 page-aligned records**.
+Process **scans 322–333 / printed 305–316 — FINAL 12 PAGE-ALIGNED RECORDS**.
 
 1. fetch live `main` first;
 2. confirm `PART_003_TAMIL_ARCHIVAL_READY.md` remains **PASS / CLOSED**;
-3. confirm `translations/en/TRANSLATION_STATUS.md` records source-check **66/111 cumulative**;
-4. read English records **0289–0321** and matching audited Tamil records completely;
+3. confirm `translations/en/TRANSLATION_STATUS.md` records source-check **99/111 cumulative**;
+4. read English records **0322–0333** and matching audited Tamil records completely;
 5. compare paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual/non-body page function and cross-page continuity;
 6. preserve the audited Tamil wording as source authority; do not import standard/published/web English Kural text;
 7. make only source-fidelity corrections needed to pass source-check;
 8. only passing pages may move from `status: "draft"` to `status: "source-checked"`;
-9. preserve the genuine incoming **288→289** continuation and CLEAN outgoing **321→322** boundary;
+9. preserve incoming **321→322 CLEAN**, genuine internal **332→333** continuation, and the Part ending at scan **333**;
 10. do not alter Tamil files;
-11. do not begin glossary reconciliation or editorial review during SC3;
+11. do not begin glossary reconciliation or editorial review during SC4;
 12. update `translations/en/TRANSLATION_STATUS.md` and audit the exact changed-file set.
 
-If SC3 passes, source-check becomes **99/111** and SC4 will be the final **scans 322–333 / printed 305–316 — 12 pages**.
+If SC4 passes, source-check becomes **111/111 COMPLETE / CLOSED**. The next gate is **glossary / recurring-terminology reconciliation**, beginning at scans **223–255 / printed 206–238** under the current 33-page cadence.
 
-Part 004 remains blocked until Part 003 completes its maintained English workflow and final Part closure checkpoint.
+External **333→334** remains deferred until Part 004 source intake. Part 004 remains blocked until Part 003 completes its maintained English workflow and final Part closure checkpoint.

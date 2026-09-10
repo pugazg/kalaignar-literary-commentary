@@ -62,8 +62,8 @@ Incoming **222→223 is CLEAN**. Internal **332→333** is a genuine continuatio
 - Draft Batch D4: **scans 322–333 / printed 305–316 — COMPLETE 12/12 / FINAL REMAINDER**;
 - cumulative English drafting: **111/111 COMPLETE**;
 - post-drafting state: **111 `draft` / 0 source-limited / 0 blocked**;
-- source-check: **IN PROGRESS — SC1 + SC2 COMPLETE 66/111**;
-- current English state: **66 `source-checked` + 45 `draft` / 0 source-limited / 0 blocked**;
+- source-check: **IN PROGRESS — SC1 + SC2 + SC3 COMPLETE 99/111**;
+- current English state: **99 `source-checked` + 12 `draft` / 0 source-limited / 0 blocked**;
 - glossary reconciliation / editorial review / Part review / release: **not-started**.
 
 All 111 English pages preserve page alignment, visual/non-body descriptions, Kural block separation and source-supported cross-page continuities. The known **332→333** continuation is preserved and closed within Part 003. No Tamil archival record changed.
@@ -72,17 +72,18 @@ All 111 English pages preserve page alignment, visual/non-body descriptions, Kur
 
 - SC1 **223–255 / 206–238 — COMPLETE 33/33**;
 - SC2 **256–288 / 239–271 — COMPLETE 33/33**;
-- cumulative source-check: **66/111**;
-- current English state: **66 `source-checked` + 45 `draft` / 0 source-limited / 0 blocked**.
+- SC3 **289–321 / 272–304 — COMPLETE 33/33**;
+- cumulative source-check: **99/111**;
+- current English state: **99 `source-checked` + 12 `draft` / 0 source-limited / 0 blocked**.
 
-SC2 source-fidelity reconciliation restored the small red decorative monument metadata on scans **257, 267 and 277** and repaired scan **274**'s return-from-enemy-stronghold sentence. No Tamil archival record changed. Incoming **255→256** is CLEAN; outgoing **288→289** is a genuine continuation preserved into SC3.
+SC3 source-fidelity reconciliation corrected the singular branch image on scan **295**, the tears/sting wording on **299**, source page-furniture metadata on **302**, the physical continuation across **309→310**, and `tongue-coloured feet` on **320**. No Tamil archival record changed. Incoming **288→289** remains the genuine continuation closed by scan 289; outgoing **321→322 is CLEAN**.
 
 ## Current frontier
 
-Exact next activity: **Part 003 English source-check SC3 — scans 289–321 / printed 272–304, 33 pages**.
+Exact next activity: **Part 003 English source-check SC4 — scans 322–333 / printed 305–316, final 12 pages**.
 
 Compare every English record against its audited Tamil counterpart paragraph-by-paragraph / block-by-block. Check omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual/non-body page function and cross-page continuity. Only passing pages may move from `draft` to `source-checked`.
 
-If SC3 passes, cumulative source-check becomes **99/111** and SC4 will be **322–333 / printed 305–316 — final 12 pages**. Do not begin glossary reconciliation until all Part-003 source-check batches are complete. Part 004 remains blocked until the Part-003 maintained English workflow and final Part closure checkpoint are complete.
+If SC4 passes, source-check becomes **111/111 COMPLETE / CLOSED** and the next gate is **glossary / recurring-terminology reconciliation**. Preserve the genuine **332→333** continuation and keep external **333→334** deferred until Part 004 intake. Part 004 remains blocked until the maintained English workflow and final Part closure checkpoint are complete.
 
 See `TRANSLATION_STATUS.md` for the authoritative detailed frontier.
