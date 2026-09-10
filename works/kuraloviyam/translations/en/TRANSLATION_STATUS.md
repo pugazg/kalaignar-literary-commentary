@@ -136,7 +136,7 @@ Incoming **222→223 is CLEAN**. Internal **332→333** is a genuine continuatio
 - source-check: **111/111 COMPLETE / CLOSED**;
 - glossary reconciliation: **111/111 COMPLETE / CLOSED**;
 - editorial review: **111/111 COMPLETE / CLOSED**;
-- Part-level review / release: **not-started**.
+- Part-level review: **PASS / CLOSED**; release report / release-ready: **not-started**.
 
 Batch D3 page commit: `f0dc8aeb8608aea9bb99083e2c366fb41f9f9216` — `kuraloviyam: Draft Part 003 English scans 289-321`.
 
@@ -212,10 +212,30 @@ GR4 checked all **6** Chapter/Kural metadata records in scans **322–333**. All
 
 ER4 was a source-faithful readability pass against the audited Tamil final range. It preserved the clean **321→322** boundary; genuine **322→323** continuation; clean **323→324, 325→326, 327→328, 329→330, 331→332** boundaries; genuine **324→325, 326→327, 328→329, 330→331, 332→333** continuities; and the Part close at scan **333**. The final **332→333** severe-rule/famine vignette remains intact. External **333→334** remains deferred until Part 004 source intake.
 
-## Current frontier — Part 003 whole-Part English review
+## Part 003 Part-level English review — PASS / CLOSED
 
-Exact next activity: **review scans 223–333 / printed 206–316 as one whole Part**.
+Durable record: `works/kuraloviyam/translations/en/reviews/PART_003_ENGLISH_REVIEW.md`.
 
-Verify the exact 111-page Tamil/English inventory and filename alignment, final status distribution, controlled terminology and names, Chapter/Kural metadata, Kural-block separation, visual/non-body page functions, and all accumulated continuities. Create a durable review record at `works/kuraloviyam/translations/en/reviews/PART_003_ENGLISH_REVIEW.md`. Do **not** promote any page to `release-ready` during Part-level review.
+Review base: `ccb0124e5e66defbcb34bfad854d5f213210cc19`.
 
-If the whole-Part review passes, the next gate is the Part 003 English release report. Part 004 remains blocked until release-ready synchronization and the final Part closure checkpoint are complete.
+Whole-Part result:
+
+- Tamil page inventory/alignment: **111/111 PASS**;
+- English page inventory/alignment: **111/111 PASS**;
+- pre-release English status state: **111 `editorial-reviewed` / 0 release-ready / 0 source-checked / 0 draft / 0 source-limited / 0 blocked**;
+- Chapter/Kural metadata alignment: **59 record(s) across 54 page(s), PASS**;
+- controlled Chapter-label consistency: **PASS across 45 distinct Chapter number(s)**;
+- Kural-block separation: **PASS**;
+- visual/non-body page functions: **PASS**;
+- accumulated continuity and Part ending through scan 333: **PASS**;
+- English page wording changes during Part review: **0**;
+- English page status changes during Part review: **0**;
+- Tamil changes during Part review: **0**.
+
+External **333→334** remains deferred until Part 004 source intake.
+
+## Current frontier — Part 003 English release report
+
+Exact next activity: run the whole-Part release gate for **111 English records, scans 223–333 / printed 206–316**. Read the passing `PART_003_ENGLISH_REVIEW.md`, confirm all pages remain eligible and `editorial-reviewed`, decide release approval, and if approved promote only the page `status` token to `release-ready`. Create `PART_003_ENGLISH_RELEASE_REPORT.md` and verify the page-layer diff contains **111 status-only English page changes, 0 approved-body changes and 0 Tamil changes**.
+
+Do not begin Part 004 during the release gate. Part 004 remains blocked until Part 003 final release-ready synchronization and closure are complete.

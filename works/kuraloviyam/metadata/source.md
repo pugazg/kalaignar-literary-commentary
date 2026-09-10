@@ -17,7 +17,7 @@ The original source PDF is reported as **666 physical PDF pages**. Because the o
 |---|---:|---:|---|---|
 | 001 | 1–111 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | supplied; Tamil/English closed |
 | 002 | 112–222 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | supplied; Tamil/English closed |
-| 003 | 223–333 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf` | **supplied; Tamil ARCHIVAL-READY / CLOSED; English drafting + source-check + glossary reconciliation + editorial review COMPLETE / CLOSED — 111/111; Part-level English review next** |
+| 003 | 223–333 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf` | **supplied; Tamil ARCHIVAL-READY / CLOSED; English drafting + source-check + glossary + editorial review COMPLETE / CLOSED — 111/111; Part-level English review PASS / CLOSED; release report next** |
 | 004 | 334–444 | 111 | not yet supplied / exact filename not yet established | not-started |
 | 005 | 445–555 | 111 | not yet supplied / exact filename not yet established | not-started |
 | 006 | 556–666 | 111 | not yet supplied / exact filename not yet established | not-started |
@@ -102,7 +102,7 @@ Detailed Part 003 intake record:
 
 `works/kuraloviyam/SOURCE_INTAKE_PART_003.md`
 
-Historical Part-003 Pass-1 cadence was **11 physical scans per normal iteration**, followed by a one-page final remainder at scan 333. Pass 1, Pass 2A, Pass 2B and Pass 3 are complete; the Part audit passed; final metadata/status synchronization closed all 111 records as textual and visual `verified`; documentation synchronization and the separate Tamil archival-ready checkpoint are closed. The maintained English layer has completed first-pass drafting **111/111**, source-check **111/111**, glossary reconciliation **111/111**, and editorial review **111/111 COMPLETE / CLOSED**. The exact next gate is the **whole-Part English review for scans 223–333 / printed 206–316**. Release report/release-ready promotion remains not-started. External **333→334** remains deferred until Part 004 source intake.
+Historical Part-003 Pass-1 cadence was **11 physical scans per normal iteration**, followed by a one-page final remainder at scan 333. Tamil source intake through archival-ready are closed. The maintained English layer has completed first-pass drafting **111/111**, source-check **111/111**, glossary reconciliation **111/111**, editorial review **111/111**, and the whole-Part English review is **PASS / CLOSED**. The exact next gate is the **Part 003 English release report**; pre-release state remains **111 editorial-reviewed / 0 release-ready**. External **333→334** remains deferred until Part 004 source intake.
 
 ## Front-matter observations
 

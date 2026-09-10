@@ -66,7 +66,7 @@ Incoming **222→223 is CLEAN**. Internal **332→333** is a genuine continuatio
 - current English state: **111 `editorial-reviewed` + 0 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**;
 - glossary reconciliation: **111/111 COMPLETE / CLOSED**;
 - editorial review: **111/111 COMPLETE / CLOSED**;
-- Part review / release: **not-started**.
+- Part-level review: **PASS / CLOSED**; release report / release-ready: **not-started**.
 
 All 111 English pages preserve page alignment, visual/non-body descriptions, Kural block separation and source-supported cross-page continuities. The known **332→333** continuation is preserved and closed within Part 003. No Tamil archival record changed.
 
@@ -107,10 +107,16 @@ GR2 added the Part-003-first chapter controls **Poverty**, **Self-Control**, **R
 
 ER4 preserved the clean incoming **321→322** boundary, the genuine **322→323** and **332→333** continuities, and the closed Part endpoint at scan **333 / printed 316**. External **333→334** remains deferred. No standard/published/web English wording was imported.
 
+## Part 003 Part-level English review — PASS / CLOSED
+
+Durable record: `reviews/PART_003_ENGLISH_REVIEW.md`.
+
+The whole-Part gate passed with **111/111** Tamil/English page inventory and filename alignment, exactly **111 `editorial-reviewed`** pre-release pages, controlled Chapter/Kural metadata and labels, Kural-block separation, visual/non-body page-function checks and accumulated continuity checks. The Part-level review changed no English page wording/status and no Tamil record.
+
 ## Current frontier
 
-Exact next activity: **Part 003 whole-Part English review — scans 223–333 / printed 206–316, 111 pages**.
+Exact next activity: **Part 003 English release report**.
 
-Verify page inventory/alignment, exact final statuses, controlled terminology and names, Chapter/Kural numbering and labels, Kural-block separation, visual/non-body page functions, and accumulated continuities. Create `reviews/PART_003_ENGLISH_REVIEW.md` as the durable whole-Part review record. Do **not** promote pages to `release-ready` during this gate.
+Use the passing Part-level review as the authoritative prior gate. If release is approved, promote exactly the 111 eligible English page statuses from `editorial-reviewed` to `release-ready` with no approved wording or Tamil changes, create `reviews/PART_003_ENGLISH_RELEASE_REPORT.md`, and audit the page diff as status-token-only.
 
-Part 004 remains blocked until Part 003 completes Part-level review, release report/release-ready synchronization and final Part closure.
+Part 004 remains blocked until Part 003 release-ready synchronization and final Part closure. External **333→334** remains deferred until Part 004 source intake.

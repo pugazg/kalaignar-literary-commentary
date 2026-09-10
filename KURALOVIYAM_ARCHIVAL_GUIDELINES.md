@@ -172,10 +172,10 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 - project-created English drafting: **111/111 COMPLETE / CLOSED**;
 - English source-check: **111/111 COMPLETE / CLOSED**;
 - English glossary reconciliation: **COMPLETE / CLOSED — 111/111**;
-- English editorial review: **COMPLETE / CLOSED — 111/111**; current page state **111 editorial-reviewed + 0 source-checked**; Part review / release are not started.
+- English editorial review: **COMPLETE / CLOSED — 111/111**; current page state **111 editorial-reviewed + 0 source-checked**; Part-level English review: **PASS / CLOSED**; release report: **next**.
 
 ### Exact next content stage
 
-Perform the **Part 003 whole-Part English review — scans 223–333 / printed 206–316, 111 page-aligned records**. Verify inventory/alignment, final statuses, controlled terminology/names, Chapter/Kural metadata, Kural-block separation, visual/non-body page functions and accumulated continuities. Create the durable review record under `translations/en/reviews/`. Do **not** promote pages to `release-ready` during Part-level review and do not alter closed Tamil records.
+Perform the **Part 003 English release report** gate. Use `translations/en/reviews/PART_003_ENGLISH_REVIEW.md` as the authoritative prior gate (**PASS / CLOSED**), confirm all **111** English pages remain `editorial-reviewed`, decide release approval, and if approved promote only the eligible Part-003 English page statuses to `release-ready` without changing approved body wording.
 
-If Part-level review passes, proceed next to the **Part 003 English release report**. Part 004 remains blocked until release-ready synchronization and the final Part closure checkpoint are complete.
+Create `translations/en/reviews/PART_003_ENGLISH_RELEASE_REPORT.md`, audit that page-layer changes are status-token-only, and synchronize final Part-003 English closure controls. External **333→334** remains deferred until Part 004 source intake. Do not begin Part 004 until Part 003 release-ready synchronization and the final Part closure checkpoint are complete.

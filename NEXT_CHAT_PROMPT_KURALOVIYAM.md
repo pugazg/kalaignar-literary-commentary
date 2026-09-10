@@ -45,7 +45,7 @@ Read completely before changing anything:
 - current Part-003 English state: **111 `editorial-reviewed` + 0 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**.
 - remaining undrafted pages: **0**.
 - glossary reconciliation: **111/111 COMPLETE / CLOSED**.
-- editorial review: **111/111 COMPLETE / CLOSED**; Part review / release: **not-started**.
+- editorial review: **111/111 COMPLETE / CLOSED**; Part-level English review: **PASS / CLOSED**; release report / release-ready: **not-started**.
 
 D4 page commit: `f43d41d57622abdda7a9de63effe39697362629e`; its 12 page records were reconciled into live main with the drafting-completion controls. No Tamil files changed.
 
@@ -132,20 +132,20 @@ GR2 verified all 16 Chapter/Kural metadata records in its range with 0 numeric o
 - no Tamil record changed;
 - final-range continuities and clean boundaries are preserved through genuine **332→333**; external **333→334** remains deferred.
 
-## Exact next activity — Part 003 whole-Part English review
+## Exact next activity — Part 003 English release report
 
-Review **scans 223–333 / printed 206–316 — 111 page-aligned records as one Part**.
+Run the **whole-Part release gate for scans 223–333 / printed 206–316 — 111 English records**.
 
 Requirements:
 
 1. fetch live `main` first and preserve newer durable work;
-2. confirm `PART_003_TAMIL_ARCHIVAL_READY.md` remains **PASS / CLOSED**;
-3. confirm English drafting, source-check, glossary reconciliation and editorial review are each **111/111 COMPLETE / CLOSED**;
-4. confirm exactly **111 `editorial-reviewed`** pages and zero `source-checked`, `draft`, source-limited, blocked or release-ready pages;
-5. verify inventory/alignment, controlled terminology and names, Chapter/Kural metadata and labels, Kural-block separation, visual/non-body page functions and all accumulated continuities across the Part;
-6. create durable review record `works/kuraloviyam/translations/en/reviews/PART_003_ENGLISH_REVIEW.md`;
-7. do not promote pages to `release-ready` during Part-level review;
-8. do not begin Part 004; external **333→334** remains deferred;
-9. update `TRANSLATION_STATUS.md` and related live controls and audit the exact changed-file set.
+2. read `translations/en/reviews/PART_003_ENGLISH_REVIEW.md` completely and confirm it remains **PASS / CLOSED**;
+3. confirm exactly **111 `editorial-reviewed`** pages and zero `source-checked`, `draft`, source-limited, blocked or release-ready pages before promotion;
+4. confirm Tamil Part 003 remains **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**;
+5. decide release approval from the maintained project workflow only; do not import external/published/web English wording;
+6. if approved, promote all 111 eligible English pages from `status: "editorial-reviewed"` to `status: "release-ready"` with **no body-text, Kural, visual-description, metadata-other-than-status, filename or Tamil changes**;
+7. create `works/kuraloviyam/translations/en/reviews/PART_003_ENGLISH_RELEASE_REPORT.md`;
+8. audit the exact page-layer diff and synchronize final Part-003 English closure controls;
+9. do not begin Part 004 during the release gate; external **333→334** remains deferred until Part 004 source intake.
 
-If the Part-level review passes, the next gate is the **Part 003 English release report**. Part 004 remains blocked until release-ready synchronization and final Part closure.
+If the release gate passes, Part 003 English becomes **111/111 release-ready / RELEASE COMPLETE / CLOSED** and the final Part-003 checkpoint may be synchronized. Only after that closure may Part 004 source intake begin when its controlling source is supplied.
