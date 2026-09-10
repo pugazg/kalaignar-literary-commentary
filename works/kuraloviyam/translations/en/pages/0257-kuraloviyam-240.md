@@ -6,10 +6,14 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
+
+## Visual material
+
+Small red decorative monument below the Chapter/Kural metadata in the source page.
 
 The flames had completely engulfed the choultry. The people of the village struggled, unable to put out the fire. Just then a little girl arrived carrying a begging bowl. Without even worrying that the bowl had fallen from her hand and the rice in it had scattered on the ground, she ran toward the choultry crying, “Alas! Save my father! Save him!”
 

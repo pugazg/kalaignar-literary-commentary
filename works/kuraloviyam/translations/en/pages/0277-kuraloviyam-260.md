@@ -6,10 +6,14 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
+
+## Visual material
+
+Small red decorative monument below the Chapter/Kural metadata in the source page.
 
 The man moved little by little all the way toward the very top of the tree, continuing to snap off branches and throw them down. We were delighted. We had obtained the foliage needed to decorate the festival pavilion properly, and our excitement knew no bounds. Then the man called out from the top of the tree. Startled, we turned our eyes upward. He said:
 

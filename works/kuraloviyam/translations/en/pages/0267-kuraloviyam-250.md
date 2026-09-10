@@ -6,10 +6,14 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
+
+## Visual material
+
+Small red decorative monument below the Chapter/Kural metadata in the source page.
 
 —and go away?” she asks, sending arrows of questions while standing before the mirror. The image that appears in that glass makes her seem still more beautiful, for it is her form covered in pallor. She sees it. Pearls of tears roll down. The pearls between her lips seem to hide somewhere. Grieving over the separation and angry with her lover, she lies down on the bed—or rather, falls upon it, dropping her body with a thud. Sleep struggles to touch her, but at last it wins. She sleeps.
 
