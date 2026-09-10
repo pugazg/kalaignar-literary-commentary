@@ -1,3 +1,4 @@
+# temporary release gate runner — retry after durable-control reconciliation
 name: Kuraloviyam Part 003 English release
 
 on:
