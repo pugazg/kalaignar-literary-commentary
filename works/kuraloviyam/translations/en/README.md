@@ -85,17 +85,18 @@ SC4 page commit: `e07a6775513bcf1619e5d1bcb6e8222f7004f0a8`.
 ## Part 003 English glossary reconciliation — IN PROGRESS
 
 - GR1 **223–255 / 206–238 — COMPLETE / PASS 33/33**;
-- cumulative glossary reconciliation: **33/111**;
-- English pages remain **111 `source-checked`**; GR1 made **0 page wording changes and 0 status changes**.
+- GR2 **256–288 / 239–271 — COMPLETE / PASS 33/33**;
+- cumulative glossary reconciliation: **66/111**;
+- English pages remain **111 `source-checked`**; GR1+GR2 made **0 page wording changes and 0 status changes**.
 
-GR1 added the Part-003-first chapter controls **Folly**, **Forbearance**, **Women of Mercenary Love**, **Hospitality**, **Abstaining from Liquor**, and **Agriculture**; mapped source variant `நலம்புனைந்துரைத்தல்` to existing **Praising Her Beauty**; and refined `ஊடல்` contextually as **lovers' quarrel / sulking**. No Tamil archival record changed.
+GR2 added the Part-003-first chapter controls **Poverty**, **Self-Control**, **Renouncing Modesty**, **Good Conduct**, **Knowing One's Strength**, and **Seeking the Support of the Great**; mapped three source-form variants to existing chapter controls; refined context for `பாவம்`, `தேன்மொழி`, and descriptive `புணர்ச்சி மகிழ்தல்`; and recorded recurring GR2 narrative/literary names. No Tamil archival record changed.
 
 ## Current frontier
 
-Exact next activity: **Part 003 English glossary reconciliation GR2 — scans 256–288 / printed 239–271, 33 pages**.
+Exact next activity: **Part 003 English glossary reconciliation GR3 — scans 289–321 / printed 272–304, 33 pages**.
 
 Use `GLOSSARY.md` and audited Tamil context to reconcile recurring names, literary/structural terms, publication names, chapter labels, citation metadata and repeated English renderings. Add glossary entries only when evidenced in the active source. This gate does **not** promote pages to `editorial-reviewed`; pages remain `source-checked` until editorial review.
 
-If GR2 passes, cumulative glossary reconciliation becomes **66/111**. Part 004 remains blocked until the maintained Part-003 English workflow and final Part closure checkpoint are complete.
+If GR3 passes, cumulative glossary reconciliation becomes **99/111** and the final GR4 remainder is **scans 322–333 / printed 305–316, 12 pages**. Part 004 remains blocked until the maintained Part-003 English workflow and final Part closure checkpoint are complete.
 
 See `TRANSLATION_STATUS.md` for the authoritative detailed frontier.

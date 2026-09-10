@@ -293,23 +293,22 @@ Part 003 live control documents now agree with the durable audit and final-statu
 - Tamil: **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**;
 - English first-pass drafting: **111/111 COMPLETE / CLOSED**;
 - English source-check: **111/111 COMPLETE / CLOSED**;
-- English glossary reconciliation: **IN PROGRESS — GR1 scans 223–255 / printed 206–238 COMPLETE / PASS 33/33**;
-- cumulative glossary reconciliation: **33/111**;
+- English glossary reconciliation: **IN PROGRESS — GR1 + GR2 COMPLETE / PASS, 66/111**;
 - all 111 English pages remain `source-checked`; editorial review is not started;
-- GR1 changed no English page wording or status and no Tamil record.
+- GR1+GR2 changed no English page wording or status and no Tamil record.
 
 # Exact next activity — குறளோவியம்
 
-Perform **Part 003 English Glossary Reconciliation GR2 — scans 256–288 / printed 239–271, 33 pages**.
+Perform **Part 003 English Glossary Reconciliation GR3 — scans 289–321 / printed 272–304, 33 pages**.
 
 1. fetch live `main`;
 2. read the Kuraloviyam mandatory controls, English `TRANSLATION_GUIDE.md`, `TRANSLATION_STATUS.md`, and `GLOSSARY.md`;
-3. confirm Tamil remains closed, source-check remains 111/111 closed, and GR1 remains 33/111 complete;
+3. confirm Tamil remains closed, source-check remains 111/111 closed, and glossary reconciliation remains 66/111 complete;
 4. reconcile recurring names, structural/literary terms, chapter labels, citation metadata and repeated renderings against the audited Tamil context;
 5. update the glossary only for source-evidenced terms;
 6. do not import external/published/web terminology or remembered Kural wording;
-7. do not promote page statuses or begin editorial review during GR2;
+7. do not promote page statuses or begin editorial review during GR3;
 8. do not alter Tamil records;
 9. audit the exact changed-file set before advancing.
 
-If GR2 passes, cumulative glossary reconciliation becomes **66/111**. Part 004 remains blocked until the maintained Part-003 English workflow and final Part closure checkpoint are complete. External **333→334** remains deferred until Part 004 source intake.
+If GR3 passes, cumulative glossary reconciliation becomes **99/111**; GR4 is the final **12-page remainder scans 322–333 / printed 305–316**. Part 004 remains blocked until the maintained Part-003 English workflow and final Part closure checkpoint are complete. External **333→334** remains deferred until Part 004 source intake.

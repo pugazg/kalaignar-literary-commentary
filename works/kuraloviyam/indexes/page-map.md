@@ -365,8 +365,11 @@ Part 003:
 - Part audit — **PASS**;
 - final metadata/status synchronization — **PASS / CLOSED, 111 textual verified + 111 visual verified / 0 exceptions**;
 - documentation synchronization — **COMPLETE**;
-- Tamil archival-ready — **NEXT / not-started**;
-- English — blocked until Tamil closure.
+- Tamil archival-ready — **PASS / CLOSED**;
+- English drafting — **111/111 COMPLETE / CLOSED**;
+- English source-check — **111/111 COMPLETE / CLOSED**;
+- English glossary reconciliation — **IN PROGRESS: GR1 + GR2 COMPLETE / PASS, 66/111**;
+- English editorial review / Part review / release — **not-started**.
 
 ## Current frontier
 
@@ -374,6 +377,6 @@ Part 003:
 
 **Part 002: Tamil + English CLOSED.**
 
-**Part 003: SOURCE INTAKE + PASS 1 + PASS 2A + PASS 2B + PASS 3 COMPLETE — 111/111; PART AUDIT PASS; FINAL METADATA/STATUS SYNC PASS / CLOSED — 111 TEXTUAL + 111 VISUAL VERIFIED; DOCUMENTATION SYNC COMPLETE; TAMIL ARCHIVAL-READY NEXT.**
+**Part 003: TAMIL ARCHIVAL-READY / CLOSED; ENGLISH DRAFTING + SOURCE-CHECK COMPLETE / CLOSED; GLOSSARY RECONCILIATION IN PROGRESS — GR1 + GR2 COMPLETE / PASS, 66/111.**
 
-Exact next activity: **Part 003 Tamil archival-ready checkpoint**. Confirm the closed evidence chain and final **111 textual verified + 111 visual verified / 0 exceptions** distribution, follow `../PART_002_TAMIL_ARCHIVAL_READY.md` as precedent, and create `../PART_003_TAMIL_ARCHIVAL_READY.md` without changing page records. External **333→334** remains deferred until Part 004 source intake; English remains blocked until Tamil archival closure.
+Exact next activity: **Part 003 English glossary reconciliation GR3 — scans 289–321 / printed 272–304, 33 pages**. If GR3 passes, cumulative glossary reconciliation becomes **99/111** and GR4 is the final **12-page remainder scans 322–333 / printed 305–316**. External **333→334** remains deferred until Part 004 source intake.

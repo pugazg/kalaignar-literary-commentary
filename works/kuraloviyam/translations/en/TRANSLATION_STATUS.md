@@ -175,20 +175,22 @@ The incoming **321→322 boundary is CLEAN**. The internal **332→333** relatio
 ## Part 003 English glossary reconciliation — IN PROGRESS
 
 - **GR1: scans 223–255 / printed 206–238 — COMPLETE / PASS 33/33**;
-- cumulative glossary reconciliation: **33/111**;
+- **GR2: scans 256–288 / printed 239–271 — COMPLETE / PASS 33/33**;
+- cumulative glossary reconciliation: **66/111**;
+- remaining glossary-reconciliation pages: **45**;
 - English page state remains **111 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**;
-- page wording changes during GR1: **0**;
-- page status changes during GR1: **0**;
-- Tamil page / metadata changes during GR1: **0**.
+- English page wording changes during GR1+GR2: **0**;
+- page status changes during GR1+GR2: **0**;
+- Tamil page / metadata changes during GR1+GR2: **0**.
 
-GR1 checked recurring names, structural/literary terms, chapter labels and Kural citation metadata against `GLOSSARY.md` and the audited Tamil context. All **20** Chapter/Kural metadata lines in scans **223–255** reconcile without numeric or controlled-label mismatch. Six Part-003-first chapter labels were added to the glossary: **Folly**, **Forbearance**, **Women of Mercenary Love**, **Hospitality**, **Abstaining from Liquor**, and **Agriculture**. The scan-238 closed source form `நலம்புனைந்துரைத்தல்` is mapped to the existing **Praising Her Beauty** control, and `ஊடல்` is now explicitly context-aware as **lovers' quarrel / sulking**.
+GR2 checked all **16** Chapter/Kural metadata records in scans **256–288** with **0 numeric or controlled-label mismatches**. Six Part-003-first chapter controls were added: **Poverty**, **Self-Control**, **Renouncing Modesty**, **Good Conduct**, **Knowing One's Strength**, and **Seeking the Support of the Great**. Existing controls were extended to the source forms `காதற்சிறப்புரைத்தல்`, `கனவுநிலை உரைத்தல்`, and `அவர்வயின்விதும்பல்`. Contextual controls were refined for `பாவம்`, `தேன்மொழி`, and descriptive `புணர்ச்சி மகிழ்தல்`, and recurring GR2 narrative/literary names were recorded. No English page wording required correction.
 
-## Current frontier — Part 003 English glossary reconciliation GR2
+## Current frontier — Part 003 English glossary reconciliation GR3
 
-Exact next activity: **glossary / recurring-terminology reconciliation scans 256–288 / printed 239–271 — 33 page-aligned records**.
+Exact next activity: **glossary / recurring-terminology reconciliation scans 289–321 / printed 272–304 — 33 page-aligned records**.
 
 Compare recurring names, work/section names, controlled literary terms, publication names, chapter labels, citation metadata and repeated English renderings against `GLOSSARY.md` and audited Tamil context. Update `GLOSSARY.md` only for terms actually evidenced in the active source. Do not mechanically force one English word where context requires a different rendering, and do not import terminology from external editions, web sources or memory.
 
-This gate does **not** promote `source-checked` pages to `editorial-reviewed`; passing pages remain `source-checked` until the later editorial-review gate. If GR2 passes, cumulative glossary reconciliation becomes **66/111**. Do not begin editorial review during GR2.
+This gate does **not** promote `source-checked` pages to `editorial-reviewed`; passing pages remain `source-checked` until the later editorial-review gate. If GR3 passes, cumulative glossary reconciliation becomes **99/111**, leaving the final **12-page GR4 remainder scans 322–333 / printed 305–316**. Do not begin editorial review during GR3.
 
 Part 004 remains blocked until Part 003 completes glossary reconciliation, editorial review, Part review, release report/release-ready synchronization and the final Part closure checkpoint.

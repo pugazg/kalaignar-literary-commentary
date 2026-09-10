@@ -108,32 +108,33 @@ SC4 source-fidelity corrections were limited to scan **327** (Monday-market sens
 
 SC4 page commit: `e07a6775513bcf1619e5d1bcb6e8222f7004f0a8`.
 
-## Glossary reconciliation results through GR1 — COMPLETE / PASS
+## Glossary reconciliation results through GR2 — COMPLETE / PASS
 
 - GR1 **223–255 / printed 206–238 — 33/33 PASS**;
-- cumulative glossary reconciliation **33/111**;
+- GR2 **256–288 / printed 239–271 — 33/33 PASS**;
+- cumulative glossary reconciliation **66/111**;
 - current English page state remains **111 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- GR1 page wording changes **0**; page status changes **0**; Tamil changes **0**.
+- GR1+GR2 page wording changes **0**; page status changes **0**; Tamil changes **0**.
 
-GR1 verified all 20 Chapter/Kural metadata lines in its range and added six Part-003-first chapter controls: **Folly**, **Forbearance**, **Women of Mercenary Love**, **Hospitality**, **Abstaining from Liquor**, and **Agriculture**. It also maps source variant `நலம்புனைந்துரைத்தல்` to **Praising Her Beauty** and records `ஊடல்` contextually as **lovers' quarrel / sulking**.
+GR2 verified all 16 Chapter/Kural metadata records in its range with 0 numeric or controlled-label mismatch. It added six Part-003-first chapter controls, mapped the GR2 source-form variants to established labels, refined contextual handling of `பாவம்`, `தேன்மொழி`, and descriptive `புணர்ச்சி மகிழ்தல்`, and recorded the recurring GR2 narrative/literary names.
 
-## Exact next activity — Part 003 English Glossary Reconciliation GR2
+## Exact next activity — Part 003 English Glossary Reconciliation GR3
 
-Process **scans 256–288 / printed 239–271 — 33 page-aligned records**.
+Process **scans 289–321 / printed 272–304 — 33 page-aligned records**.
 
 Requirements:
 
 1. fetch live `main` first and preserve newer durable work;
 2. confirm `PART_003_TAMIL_ARCHIVAL_READY.md` remains **PASS / CLOSED**;
-3. confirm `translations/en/TRANSLATION_STATUS.md` records source-check **111/111 COMPLETE / CLOSED** and glossary reconciliation **33/111**;
-4. read `translations/en/GLOSSARY.md` and English records **0256–0288** with their matching audited Tamil records;
+3. confirm `translations/en/TRANSLATION_STATUS.md` records source-check **111/111 COMPLETE / CLOSED** and glossary reconciliation **66/111**;
+4. read `translations/en/GLOSSARY.md` and English records **0289–0321** with their matching audited Tamil records;
 5. reconcile recurring names, work/section names, controlled literary terms, publication names, chapter labels, citation metadata and repeated English renderings against the glossary and audited Tamil context;
 6. update `GLOSSARY.md` only for terms actually evidenced in Part 003;
 7. do not mechanically force one English rendering where context requires a different one;
 8. do not import standard/published/web English Kural wording, another edition's terminology, or memory;
 9. this gate does **not** promote `source-checked` pages to `editorial-reviewed`;
 10. do not alter any Tamil page record or Tamil metadata;
-11. do not begin editorial review during GR2;
+11. do not begin editorial review during GR3;
 12. update `translations/en/TRANSLATION_STATUS.md` and audit the exact changed-file set before advancing.
 
-If GR2 passes, cumulative glossary reconciliation becomes **66/111**. Part 004 remains blocked until Part 003 completes glossary reconciliation, editorial review, Part review, release report/release-ready synchronization and final Part closure. External **333→334** remains deferred until Part 004 source intake.
+If GR3 passes, cumulative glossary reconciliation becomes **99/111**. GR4 is then the final **12-page remainder scans 322–333 / printed 305–316**. Part 004 remains blocked until Part 003 completes glossary reconciliation, editorial review, Part review, release report/release-ready synchronization and final Part closure. External **333→334** remains deferred until Part 004 source intake.

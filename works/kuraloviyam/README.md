@@ -10,7 +10,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
 | 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | **source intake + Pass 1 + Pass 2A + Pass 2B + Pass 3 COMPLETE — 111/111; Part audit PASS; final metadata/status sync PASS / CLOSED — 111/111 textual + visual verified; documentation sync COMPLETE; Tamil archival-ready NEXT** |
+| 003 | 223–333 | **Tamil ARCHIVAL-READY / CLOSED; English drafting + source-check COMPLETE / CLOSED; glossary reconciliation IN PROGRESS — GR1 + GR2 COMPLETE / PASS, 66/111; GR3 next** |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
 | 006 | 556–666 | not-started |
@@ -33,7 +33,7 @@ Tamil is **ARCHIVAL-READY / CLOSED** at **111 textual verified + 111 visual veri
 
 Maintained English is **RELEASE COMPLETE / CLOSED — 111/111 `release-ready`**. Durable review and release records are under `translations/en/reviews/`.
 
-## Part 003 — SOURCE INTAKE + PASS 1 + PASS 2A + PASS 2B + PASS 3 COMPLETE / AUDIT PASS / FINAL STATUS SYNC PASS / DOCUMENTATION SYNC COMPLETE / TAMIL ARCHIVAL-READY NEXT
+## Part 003 — TAMIL ARCHIVAL-READY / CLOSED; ENGLISH DRAFTING + SOURCE-CHECK CLOSED; GLOSSARY RECONCILIATION IN PROGRESS
 
 Controlling source:
 
@@ -178,4 +178,4 @@ Durable documentation-sync record: `PART_003_DOCUMENTATION_SYNC.md`.
 
 ## Current frontier
 
-**Next activity: Part 003 English glossary reconciliation GR2 — scans 256–288 / printed 239–271, 33 pages.** Reconcile recurring terminology, names, chapter labels and citation metadata against `translations/en/GLOSSARY.md` and the audited Tamil context. The glossary gate does not promote English page statuses. Do not alter closed Tamil records or begin editorial review. External **333→334** remains deferred until Part 004 source intake.
+**Next activity: Part 003 English glossary reconciliation GR3 — scans 289–321 / printed 272–304, 33 pages.** Reconcile recurring terminology, names, chapter labels and citation metadata against `translations/en/GLOSSARY.md` and the audited Tamil context. The glossary gate does not promote English page statuses. Do not alter closed Tamil records or begin editorial review. If GR3 passes, cumulative glossary reconciliation reaches **99/111** and the final GR4 remainder is **scans 322–333 / printed 305–316, 12 pages**. External **333→334** remains deferred until Part 004 source intake.

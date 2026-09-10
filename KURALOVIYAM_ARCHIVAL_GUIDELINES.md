@@ -166,25 +166,16 @@ English final state: **107 `release-ready` + 4 `source-limited`**.
 
 Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf`.
 
-- source intake: **PASS / COMPLETE**;
-- local pages: **111**;
-- printed pages: **206–316**;
-- file size: **93,488,924 bytes**;
-- SHA-256: `f07e7cdb3a6e786b0378e00bbe699a241be41c9e099c004a4faa90fa82b4239f`;
-- source text layer: no usable parsed text;
-- **222→223: CLEAN** — Part 003 begins a new `பேதைமை` vignette;
-- Pass 1: **COMPLETE — 111/111**;
-- Pass 2A: **COMPLETE — 111/111**;
-- Pass 2B: **COMPLETE — 111/111**;
-- Pass 3: **COMPLETE — 111/111**;
-- Part audit: **PASS** — durable record `works/kuraloviyam/PART_003_AUDIT.md`;
-- final metadata/status synchronization: **PASS / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions** — durable record `works/kuraloviyam/PART_003_FINAL_STATUS_SYNC.md`;
-- documentation synchronization: **COMPLETE** — durable record `works/kuraloviyam/PART_003_DOCUMENTATION_SYNC.md`;
-- Tamil archival-ready checkpoint: **NEXT / not-started**;
-- internal **332→333 genuine continuation is closed**;
-- external **333→334** remains deferred until Part 004 intake;
-- English remains blocked until Tamil archival closure.
+- Tamil source intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 / audit / final metadata-status sync / documentation sync: **COMPLETE / PASS**;
+- Tamil archival-ready checkpoint: **PASS / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**;
+- incoming **222→223: CLEAN**; internal **332→333** genuine continuation closes within the Part; external **333→334** remains deferred until Part 004 intake;
+- project-created English drafting: **111/111 COMPLETE / CLOSED**;
+- English source-check: **111/111 COMPLETE / CLOSED**;
+- English glossary reconciliation: **IN PROGRESS — GR1 + GR2 COMPLETE / PASS, 66/111**;
+- all English pages remain `source-checked`; editorial review / Part review / release are not started.
 
 ### Exact next content stage
 
-Perform the separate **Part 003 Tamil archival-ready checkpoint**. Confirm the closed audit, final-status and documentation-sync records; verify **111 textual verified + 111 visual verified / 0 exceptions**; follow `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md` as precedent; and create `works/kuraloviyam/PART_003_TAMIL_ARCHIVAL_READY.md` without reopening or changing the Tamil page layer. English remains blocked until Tamil archival closure; external **333→334** remains deferred until Part 004 source intake.
+Perform **Part 003 English glossary reconciliation GR3 — scans 289–321 / printed 272–304, 33 page-aligned records**. Use the audited Tamil records and `GLOSSARY.md`; add or refine only source-evidenced terminology; do not import external/published/web wording; do not promote English statuses or begin editorial review; do not alter closed Tamil records.
+
+If GR3 passes, cumulative glossary reconciliation becomes **99/111** and the final GR4 remainder is **scans 322–333 / printed 305–316, 12 pages**. Part 004 remains blocked until the maintained Part-003 English workflow and final Part closure checkpoint are complete.

@@ -36,7 +36,8 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | அகம் / அகத்திணை | akam / akam tradition / inner landscape | Keep `akam` when the source is discussing the classical literary category; a contextual gloss such as `inner landscape` may accompany it. |
 | அகப்பொருள் | inner landscape / akam subject matter | Context-aware literary term; do not flatten it to ordinary `interior` language. |
 | அறம் | virtue / virtuous conduct | Context-aware conceptual noun. Keep distinct from the structural title `அறத்துப்பால்` → `Book of Aram`. |
-| பாவம் / புண்ணியம் | sin / merit | Preserve the contrast when the source discusses the palanquin interpretation on scans 50–51; do not infer doctrine beyond the audited passage. |
+| பாவம் | sin / poor thing / alas | Context-aware. Use **sin** in the conceptual/ethical sense; Part 003 GR2 scans 267, 275 and 279 use the exclamatory/pity sense naturally rendered **poor thing** or **alas**. |
+| புண்ணியம் | merit | Preserve the ethical contrast with `பாவம்` where the source explicitly pairs the concepts, as in scans 50–51. |
 | பல்லக்கு / சிவிகை | palanquin | `பல்லக்கு` is used in the narrative and `சிவிகை` in the quoted Kural on scans 50–51; use the same object term in English. |
 | செங்கோல் | just sceptre / sceptre of righteous rule | Context-aware political image on scans 76 and 84. Preserve the sceptre metaphor when the source contrasts righteous governance with oppressive or military power. |
 | ஊடல் | lovers' quarrel / sulking | Context-aware. Use **lovers' quarrel** for reciprocal love-poetics contexts; Part 003 scan 253 uses **sulking** for the state of offended withdrawal in the wife/field analogy. |
@@ -72,17 +73,17 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | தனிப்படர் மிகுதி / தனிப்படர்மிகுதி | The Agony of Solitary Love | Chapter 120 label on scan 49; Part 002 scan 165 uses the closed source variant `தனிப்படர்மிகுதி` with the same controlled English label. |
 | அறன் வலியுறுத்தல் | The Insistence on Virtue | Chapter 4 label on scan 51. |
 | நலம் புனைந்துரைத்தல் / நலம்புனைந்துரைத்தல் | Praising Her Beauty | Chapter 112 label on scans 55 and 71; Part 003 scan 238 uses the closed source form `நலம்புனைந்துரைத்தல்`. |
-| புணர்ச்சி மகிழ்தல் | The Joy of Union | Chapter 111 label on scan 55. |
+| புணர்ச்சி மகிழ்தல் | The Joy of Union / joy of union | **The Joy of Union** is the controlled Chapter 111 title (scan 55; reused later). Part 003 scan 282 uses the same words descriptively in prose, where lowercase **joy of union** is natural. |
 | உட்பகை | Internal Enmity | Chapter 89 label on scan 57. |
 | வான்சிறப்பு | The Excellence of Rain | Chapter 2 label on scan 59. |
 | வாழ்க்கைத் துணை நலம் | The Worth of a Life-Partner | Chapter 6 label on scan 59. |
 | படைமாட்சி | Excellence of the Army | Chapter 77 label on scan 61. |
 | உறுப்பு நலனழிதல் | Wasting Away of Bodily Beauty | Chapter 124 label on scans 63 and 98. Part 001 GR7 reconciled scan 98 to this controlled label. |
-| கனவு நிலையுரைத்தல் / கனவுநிலையுரைத்தல் | Speaking of the Dream State | Chapter 122; source spacing variants occur on scans 63 and 86. Part 001 GR6 reconciled scan 86 to this controlled English label. |
+| கனவு நிலையுரைத்தல் / கனவுநிலையுரைத்தல் / கனவுநிலை உரைத்தல் | Speaking of the Dream State | Chapter 122; source spacing variants occur on scans 63 and 86, and Part 003 scan 267 carries `கனவுநிலை உரைத்தல்`. All map to the same controlled label. |
 | கொடுங்கோன்மை | Tyrannical Rule | Chapter 56 label on scans 65 and 77. |
 | பயனில சொல்லாமை | Refraining from Useless Speech | Chapter 20 label on scan 67. |
 | அமைச்சு | The Minister | Chapter 64 label on scan 69. |
-| காதற் சிறப்புரைத்தல் | Declaring Love's Excellence | Chapter 113 label on scan 71. |
+| காதற் சிறப்புரைத்தல் / காதற்சிறப்புரைத்தல் | Declaring Love's Excellence | Chapter 113; scan 71 uses the spaced form and Part 003 scan 259 uses the closed source form `காதற்சிறப்புரைத்தல்`. |
 | அவை அறிதல் | Knowing the Assembly | Chapter 72 label on scan 73. |
 | ஈகை | Giving | Chapter 23 label on scan 75. |
 | கண்விதுப்பழிதல் / கண் விதுப்பழிதல் | Reproaching the Eyes | Chapter 118; closed form appears on scan 78 and spaced form on scan 94. |
@@ -96,7 +97,7 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | நிறையழிதல் | Loss of Restraint | Chapter 126 label on scan 103. |
 | தீ நட்பு | Evil Friendship | Chapter 82 label on scan 105. |
 | வெகுளாமை | Freedom from Anger | Chapter 31 label on scan 107. |
-| அவர்வயின் விதும்பல் | Longing for His Return | Chapter 127 label on scan 108. |
+| அவர்வயின் விதும்பல் / அவர்வயின்விதும்பல் | Longing for His Return | Chapter 127; scan 108 uses the spaced form and Part 003 scan 275 carries the closed source form `அவர்வயின்விதும்பல்`. |
 | சொல்வன்மை | Power of Speech | Chapter 65 label on scan 111. |
 
 ## Edition-preface / publication-note labels encountered in Part 001
@@ -178,7 +179,7 @@ Defaults are context-aware. If a later passage requires a different rendering to
 | கார்மேகம் | Karmegam | Farmer/field-owner name recurring on scans 66–67. |
 | பூவழகி | Poovazhagi | Woman's name recurring on scans 66–67. |
 | கண்ணாயிரம் | Kannayiram | Karmegam's son-in-law in scan 67. |
-| தேன்மொழி | Thenmozhi | Married woman named in the scan 92 vignette. |
+| தேன்மொழி | Thenmozhi / honey-voiced | Context-aware. `தேன்மொழி` is the married woman's name in scan 92; Part 003 scan 275 uses it descriptively in `தேன்மொழி பொருத்தி`, rendered naturally as **honey-voiced woman** rather than forcing the personal-name form. |
 | பைங்கிளி | Paingili / green-parrot maiden | Scan 94 uses `Paingili` as direct address/name and also uses the source epithet descriptively; preserve the context rather than forcing one form. |
 | கயல்விழி | Kayalvizhi | Prospective bride named across scans 95–96. |
 | ஊர்க்காவலன் | Urkkavalan / village guardian | Scan 99 explicitly says this is both the character's name and his role. Use `Urkkavalan` as the personal name and translate the role descriptively where needed. |
@@ -377,7 +378,7 @@ GR4 processed the **final 30-page remainder: scans 193–222 / printed 176–205
 
 **Part 002 glossary reconciliation is COMPLETE — 111/111 scans.**
 
-## Thirukkural chapter labels first encountered in Part 003 through GR1
+## Thirukkural chapter labels first encountered in Part 003 through GR2
 
 | Tamil | Default English | Editorial note |
 |---|---|---|
@@ -387,6 +388,12 @@ GR4 processed the **final 30-page remainder: scans 193–222 / printed 176–205
 | விருந்தோம்பல் | Hospitality | Chapter 9 label on scan 236. |
 | கள்ளுண்ணாமை | Abstaining from Liquor | Chapter 93 label on scan 240. |
 | உழவு | Agriculture | Chapter 104 label on scans 244 and 253. |
+| நல்குரவு | Poverty | Chapter 105 label on scan 257. |
+| அடக்கமுடைமை | Self-Control | Chapter 13 label on scan 261. |
+| நாணுத் துறவுரைத்தல் | Renouncing Modesty | Chapter 114 label on scan 263. |
+| ஒழுக்கமுடைமை | Good Conduct | Chapter 14 label on scan 273. |
+| வலியறிதல் | Knowing One's Strength | Chapter 48 label on scan 277. |
+| பெரியாரைத் துணைக்கோடல் | Seeking the Support of the Great | Chapter 45 label on scan 285. |
 
 The Chapter 112 source variant `நலம்புனைந்துரைத்தல்` on scan **238** is mapped to the existing controlled **Praising Her Beauty** label rather than creating a duplicate English chapter title. Existing controls reused unchanged in GR1 include **Lamenting the Absent Lover**, **Subtleties of Lovers' Quarrel**, **Loss of Restraint**, **Refraining from Slander**, **Speaking with the Heart**, **Reproaching the Eyes**, **Suffering from Pallor**, **The Blessing of Children**, **Lovers' Sulking**, **False Conduct**, and **Yearning for Union**.
 
@@ -401,6 +408,38 @@ GR1 processed **33 consecutive pages: scans 223–255 / printed 206–238**.
 - `ஊடல்` is retained contextually as **lovers' quarrel / sulking**, with scan **253** establishing the latter sense in the wife/field analogy rather than forcing one English wording mechanically;
 - contextual review confirmed that scan **223** `செங்கோல்` is naturally **royal sceptre** in the madman's self-styled-king speech, scan **235** `கல்வி` is ordinary study/education rather than a Chapter-40 label, scan **243** `வீரன்` is the common noun **warrior**, and scan **247** `விளக்கம்` is naturally expressed by **explained**; no page wording change was required for those contexts;
 - English page wording corrections required solely for GR1 terminology consistency: **none**;
+- all 33 English pages remain `source-checked`; this gate makes **no status promotion**;
+- no Tamil archival record changed and no external/published/web English terminology was imported.
+
+## People / role / literary references first encountered in Part 003 through GR2
+
+| Tamil | Default English form | Editorial note |
+|---|---|---|
+| அழகன் | Alagan | Orphan/warrior character across scans 260–261. |
+| நல்லான் | Nallaan | Traveller/friend in the bear vignette across scans 264–265. |
+| வல்லான் | Vallaan | Nallaan's companion in the bear vignette across scans 264–265. |
+| இளமதி | Ilamathi | Young goldsmith in the lovers' quarrel vignette across scans 270–271. |
+| திருமதி | Thirumathi | Ilamathi's wife and named character across scans 270–271; do not mechanically treat the same Tamil form as a generic honorific outside this vignette. |
+| பாகவதர் | Bhagavathar | Ramayana kathakalakshepam performer/role across scans 272–273; retain the source-checked transliteration in this narrative context. |
+| இராமன் | Rama | Ramayana figure named in scan 272. |
+| சீதை | Sita | Ramayana figure named in scans 272–273. |
+| இலக்குவன் | Lakshmana | Ramayana figure named in scan 272. |
+| இராவணன் | Ravana | Ramayana figure named in scan 272. |
+| கிள்ளி | Killi | Friend/husband character across scans 278–279. |
+| நல்லி | Nalli | Killi's friend across scans 278–279. |
+
+## Part 003 GR2 reconciliation record — scans 256–288
+
+GR2 processed **33 consecutive pages: scans 256–288 / printed 239–271**.
+
+- scans **256–288** — glossary / recurring-terminology reconciliation **PASS, 33/33**;
+- all **16** Chapter/Kural metadata records in the range were checked against their audited Tamil counterparts with **0 chapter-number, Kural-number, or controlled-label mismatches**;
+- source-evidenced Part-003-first chapter controls added in this gate: **Poverty**, **Self-Control**, **Renouncing Modesty**, **Good Conduct**, **Knowing One's Strength**, and **Seeking the Support of the Great**;
+- source variants `காதற்சிறப்புரைத்தல்`, `கனவுநிலை உரைத்தல்`, and `அவர்வயின்விதும்பல்` are mapped to the established controls **Declaring Love's Excellence**, **Speaking of the Dream State**, and **Longing for His Return** rather than creating duplicate English chapter titles;
+- recurring narrative/literary forms established in this range include **Alagan**, **Nallaan**, **Vallaan**, **Ilamathi**, **Thirumathi**, **Bhagavathar**, **Rama**, **Sita**, **Lakshmana**, **Ravana**, **Killi**, and **Nalli**;
+- `பாவம்` is now explicitly context-aware: ethical **sin** versus the GR2 narrative exclamation **poor thing / alas**; `தேன்மொழி` remains **Thenmozhi** when it is the scan-92 personal name but is descriptive **honey-voiced** on scan 275;
+- scan **282** uses `புணர்ச்சி மகிழ்தல்` descriptively as **joy of union**, while the controlled Chapter 111 title remains **The Joy of Union**;
+- English page wording corrections required solely for GR2 terminology consistency: **none**;
 - all 33 English pages remain `source-checked`; this gate makes **no status promotion**;
 - no Tamil archival record changed and no external/published/web English terminology was imported.
 
