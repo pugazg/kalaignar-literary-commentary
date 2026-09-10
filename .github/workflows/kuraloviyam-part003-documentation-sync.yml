@@ -23,6 +23,7 @@ jobs:
           git clone --branch main --single-branch "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" repo
           cd repo
           python .github/scripts/kuraloviyam_part003_documentation_sync.py
+          sed -i 's/[[:space:]]\+$//' works/kuraloviyam/PART_003_DOCUMENTATION_SYNC.md
           git config user.name "pugazg"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add HANDOVER.md KURALOVIYAM_ARCHIVAL_GUIDELINES.md NEXT_CHAT_PROMPT_KURALOVIYAM.md works/kuraloviyam/HANDOVER.md works/kuraloviyam/PART_003_DOCUMENTATION_SYNC.md works/kuraloviyam/README.md works/kuraloviyam/indexes/page-map.md works/kuraloviyam/metadata/source.md works/kuraloviyam/metadata/transcription-policy.md
