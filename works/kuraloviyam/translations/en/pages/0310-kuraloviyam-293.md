@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-—even beyond that decision, those in government bent justice. The long march that began from Madurai—the city once ruled by Nedunchezhiyan Pandiyan, who ended his own life on seeing the sceptre of justice bend and fell with it upright again—made the people's voice echo before those who ruled the land.
+—and the judge too gave his decision that he was not a thief, and that the very people who had called him a thief were the ones who killed him. Even beyond that decision, those in government bent justice. The long march that began from Madurai—the city once ruled by Nedunchezhiyan Pandiyan, who ended his own life on seeing the sceptre of justice bend and fell with it upright again—made the people's voice echo before those who ruled the land.
 
 Doubt, fear, wonder over whether it could be done—amid all of these, Valluvar's Kural lines rose proudly in the hearts of those who took part in the long march.
 

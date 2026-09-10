@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-—the soles of her tongue-shaped feet had reddened like hibiscus flowers. She stood with her waist resting against the parapet of the outer terrace adjoining the bedchamber, her red-lily fingers weary as they propped up her moon-face, staring into the sky and asking angrily with her eyes, “O cool moon that burns, why do you scorch only me?”
+—her tongue-coloured feet had reddened like hibiscus flowers. She stood with her waist resting against the parapet of the outer terrace adjoining the bedchamber, her red-lily fingers weary as they propped up her moon-face, staring into the sky and asking angrily with her eyes, “O cool moon that burns, why do you scorch only me?”
 
 Then a sound rose near the outer terrace and stopped.
 

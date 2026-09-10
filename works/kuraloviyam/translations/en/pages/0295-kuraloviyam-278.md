@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -32,7 +32,7 @@ After a long while he returned. Instead of coming from the front, he came from b
 Saying this, she embraced him and wept.
 
 > Thinking of the return of the lover from whom I parted after union,  
-> my heart climbs branch after branch.
+> my heart climbs a branch.
 
 Chapter 127 — Longing for His Return; Kural 1264
 

@@ -6,14 +6,14 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
 Mullai-kodi sobbed that the cruel one called dawn had come and ruined the night in which they had caressed and rejoiced.
 
-Even in those sobs she possessed a beauty of her own, a beauty that drew him still more strongly. Seeing it, Mukilan sighed and embraced her. With his lips he stamped a seal upon hers, a shell that kept pearls hidden within. The tears flowing from her eyes wet his lips. To him those tears tasted sweet, not salty.
+Even in those sobs she possessed a beauty of her own, a beauty that drew him still more strongly. Seeing it, Mukilan sighed and embraced her. With his lips he stamped a seal upon hers, a shell that kept pearls hidden within. The tears flowing from her eyes wet his lips. To him those tears tasted sweet, without any sting.
 
 Mukilan suffered greatly before he could use all his strength to separate her body, which clung to his, and step outside.
 
