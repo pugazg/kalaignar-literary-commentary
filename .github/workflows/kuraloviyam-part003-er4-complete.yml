@@ -1,0 +1,66 @@
+name: Kuraloviyam Part 003 English ER4 completion
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/kuraloviyam-part003-er4-complete.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  complete-er4:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Complete ER4 and advance to Part-level review
+        run: python .github/scripts/kuraloviyam-part003-er4-complete.py
+
+      - name: Verify and commit durable ER4 changes
+        shell: bash
+        run: |
+          set -euo pipefail
+          mapfile -t changed < <(git diff --name-only)
+          if [[ ${#changed[@]} -ne 21 ]]; then
+            printf 'Expected 21 changed durable files, found %s\n' "${#changed[@]}"
+            printf '%s\n' "${changed[@]}"
+            exit 1
+          fi
+          if printf '%s\n' "${changed[@]}" | grep -q '^works/kuraloviyam/pages/'; then
+            echo 'Tamil page change detected'
+            exit 1
+          fi
+          if printf '%s\n' "${changed[@]}" | grep -q '^\.github/'; then
+            echo 'Unexpected temporary-file working-tree change detected'
+            exit 1
+          fi
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+          git add \
+            HANDOVER.md \
+            KURALOVIYAM_ARCHIVAL_GUIDELINES.md \
+            NEXT_CHAT_PROMPT_KURALOVIYAM.md \
+            works/kuraloviyam/HANDOVER.md \
+            works/kuraloviyam/README.md \
+            works/kuraloviyam/indexes/page-map.md \
+            works/kuraloviyam/metadata/source.md \
+            works/kuraloviyam/translations/en/README.md \
+            works/kuraloviyam/translations/en/TRANSLATION_STATUS.md \
+            works/kuraloviyam/translations/en/pages/
+
+          staged_count=$(git diff --cached --name-only | wc -l | tr -d ' ')
+          if [[ "$staged_count" != '21' ]]; then
+            echo "Expected 21 staged files, found $staged_count"
+            git diff --cached --name-only
+            exit 1
+          fi
+
+          git commit -m 'kuraloviyam: Complete Part 003 English editorial review ER4'
+          git push origin HEAD:main
