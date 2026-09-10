@@ -8,7 +8,7 @@
 - Physical scans: **111**
 - Gate: **Pass 3 — meaningful visual/text fidelity verification**
 - User-directed cadence: **11 physical scans per iteration**
-- Status: **ACTIVE**
+- Status: **COMPLETE**
 
 ## Method
 
@@ -328,12 +328,32 @@ This is not another lexical reread. Settled wording is not normalized or rewritt
 - Lexical body-text changes: **0**.
 - Status promotion: **0**.
 
-## Current Pass-3 frontier
+## Final remainder — scan 333 / printed 316
 
-**110 / 111 complete through scan 332 / printed 315.**
+**Result: COMPLETE — 1 / 1.**
 
-All Part-003 records remain `needs-review` / `visual_fidelity: needs-review`.
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 333 | 316 | **CORRECTED** — direct continuation from scan 332 and close of the severe-rule / famine vignette. The source-displayed highlighted Kural 567 is now preserved as a distinct two-line Markdown set-out block above Chapter 57 metadata; `visual_notes` also records the side vertical title and footer as source page furniture excluded from body text. Lexical wording and review flags unchanged. |
 
-## Exact next activity — final one-scan remainder
+### Boundary / continuity result
 
-Process **scan 333 / printed 316 — 1 physical scan** under the same meaningful visual-text verification gate. Reconfirm the direct **332→333 genuine continuation**, the page's text/Kural/Chapter metadata organization and source/non-body furniture separation. Keep the page record at `needs-review` / `visual_fidelity: needs-review`. Do **not** begin the Part audit until this final remainder is complete; external **333→334** remains deferred until Part 004 source intake.
+- **332→333 genuine continuation** is reconfirmed and closed internally.
+- Scan 333 closes Part 003 with Chapter 57 — `வெருவந்த செய்யாமை` / Kural 567.
+- External **333→334 remains deferred** until Part 004 source intake.
+
+### Final remainder correction summary
+
+- Structural/visual-description corrections: **1 page — scan 333**.
+- Lexical body-text changes: **0**.
+- Status promotion: **0**.
+
+## Pass-3 closure
+
+**111 / 111 complete through scan 333 / printed 316 — PASS 3 COMPLETE.**
+
+All Part-003 records intentionally remain `needs-review` / `visual_fidelity: needs-review`; Pass 3 completion does not promote them. Internal Part 003 physical continuity through **332→333** is closed. External **333→334** remains deferred until Part 004 source intake.
+
+## Exact next activity — Part 003 audit
+
+Begin the **Part 003 audit** across all **111 page records / scans 223–333 / printed 206–316**, following the closed Part-002 audit precedent. Reconcile inventory, source identity, Pass 1 / Pass 2A / Pass 2B / Pass 3 coverage, internal boundaries, unresolved exceptions, page-record metadata/status consistency, and exact changed-file expectations. Do not promote page records until the audit passes and the later final metadata/status synchronization is explicitly performed. English remains blocked until Tamil archival closure.
