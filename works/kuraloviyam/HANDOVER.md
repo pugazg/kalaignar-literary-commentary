@@ -26,10 +26,11 @@ Read before changing anything:
 12. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md`
 13. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md`
 14. `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`
-15. `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md` as Pass-3 precedent
-16. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`
-17. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
-18. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
+15. `works/kuraloviyam/PART_003_AUDIT.md`
+16. `works/kuraloviyam/PART_002_FINAL_STATUS_SYNC.md` as final-status precedent
+17. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md`
+18. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
+19. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
 
 ## Durable closed state
 
@@ -95,7 +96,7 @@ Outgoing **333→334 remains deferred** until Part 004 is supplied.
 
 ## Part 003 Pass 1 — COMPLETE
 
-**111 / 111 scans captured — scans 223–333 / printed 206–316.** All page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"` pending later gates.
+**111 / 111 scans captured — scans 223–333 / printed 206–316.**
 
 Durable record: `works/kuraloviyam/PART_003_PASS1_PROGRESS.md`.
 
@@ -109,21 +110,6 @@ Durable record: `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md`.
 
 **111 / 111 scans independently lexical-fidelity re-read against freshly rendered source scans — scans 223–333 / printed 206–316.**
 
-Completed cadence:
-
-- Batch 1 — **223–232 — 10/10**;
-- Batch 2 — **233–242 — 10/10**;
-- Batch 3 — **243–252 — 10/10**;
-- Batch 4 — **253–262 — 10/10**;
-- Batch 5 — **263–272 — 10/10**;
-- Batch 6 — **273–282 — 10/10**;
-- Batch 7 — **283–292 — 10/10**;
-- Batch 8 — **293–302 — 10/10**;
-- Batch 9 — **303–312 — 10/10**;
-- Batch 10 — **313–322 — 10/10**;
-- Batch 11 — **323–332 — 10/10**;
-- final remainder — **333 — 1/1**.
-
 Late Pass-2B corrections:
 
 - Batch 10: scans **314, 316, 320, 322**;
@@ -134,46 +120,49 @@ The final scan independently reconfirmed the quoted Kural 567 wording/lineation,
 
 Durable Pass-2B record: `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md`. Supplemental late-batch closure: `works/kuraloviyam/PASS2B_BATCH_010_011_CLOSURE.md`.
 
-All Part-003 records intentionally remain `status: "needs-review"` / `visual_fidelity: "needs-review"`. Pass 2B completion does **not** promote them.
-
 ## Part 003 Pass 3 — COMPLETE
 
-Pass 3 is **meaningful visual-text verification**, following `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_002.md` as precedent. It completed **111 / 111 scans through scan 333 / printed 316** with no status promotion.
+**111 / 111 scans through scan 333 / printed 316.** Pass 3 made **0 lexical body-text changes** and **0 status promotions**.
 
-Pass 3 checks source-supported visual organization rather than repeating lexical verification. Verified dimensions included heading hierarchy, Kural/quotation lineation and block placement, prose/quotation relationships, page furniture and source/non-source separation, illustration/text physical order and relationship, physical-page continuation and source-size legibility.
+Structural/visual corrections recorded during Pass 3 occurred on scans **223, 260, 267, 274, 277, 292, 302, 303, 311, 330, 332, 333**. The final scan preserves highlighted Kural 567 as a distinct two-line set-out block and records the side vertical title/footer as source page furniture.
 
-Completed Pass-3 cadence:
+Durable Pass-3 record: `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`.
 
-- Batch 1 — **223–233 / printed 206–216 — 11/11**; correction on **223**;
-- Batch 2 — **234–244 / printed 217–227 — 11/11**; **0 corrections**;
-- Batch 3 — **245–255 / printed 228–238 — 11/11**; **0 corrections**;
-- Batch 4 — **256–266 / printed 239–249 — 11/11**; correction on **260**;
-- Batch 5 — **267–277 / printed 250–260 — 11/11**; corrections on **267, 274, 277**;
-- Batch 6 — **278–288 / printed 261–271 — 11/11**; **0 corrections**;
-- Batch 7 — **289–299 / printed 272–282 — 11/11**; correction on **292**;
-- Batch 8 — **300–310 / printed 283–293 — 11/11**; corrections on **302, 303**;
-- Batch 9 — **311–321 / printed 294–304 — 11/11**; correction on **311**;
-- Batch 10 — **322–332 / printed 305–315 — 11/11**; corrections on **330, 332**;
-- final remainder — **333 / printed 316 — 1/1**; structural correction preserves highlighted Kural 567 as a distinct two-line set-out block and records the side vertical title/footer as source page furniture.
+## Part 003 audit — PASS
 
-Pass-3 lexical body-text changes: **0**. Status promotions: **0**. Internal **332→333 genuine continuation** is closed. External **333→334** remains deferred until Part 004 source intake.
+**PASS — all 111 page records / scans 223–333 / printed 206–316.**
 
-Durable Pass-3 record: `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`. Supplemental Batch-9 record: `works/kuraloviyam/PASS3_BATCH_009.md`.
+Audit findings:
 
-All Part-003 records still remain `status: "needs-review"` / `visual_fidelity: "needs-review"`; the audit and later final metadata/status synchronization control promotion.
+- physical coverage and scan/local/printed-page mapping: **PASS**;
+- source identity and split boundaries: **PASS**;
+- Pass 1 / Pass 2A / Pass 2B / Pass 3 coverage: **111/111 each — COMPLETE**;
+- internal continuation and structural edge cases: **PASS**;
+- non-body source material / page-furniture separation: **PASS**;
+- carried `partial`, `blocked` or source-limited Tamil exceptions: **0**;
+- premature status promotion: **0**;
+- Tamil body-text changes during audit: **0**.
 
-## Exact next activity — Part 003 audit
+Internal **332→333 genuine continuation** is closed. External **333→334 remains deferred** until Part 004 source intake and is not a Part-003 defect.
 
-Audit **all 111 Part-003 page records / scans 223–333 / printed 206–316** against the completed durable gates.
+Durable audit record: `works/kuraloviyam/PART_003_AUDIT.md`.
+
+All **111** Part-003 records still intentionally remain:
+
+- `status: "needs-review"`;
+- `visual_fidelity: "needs-review"`.
+
+## Exact next activity — Part 003 final metadata/status synchronization
+
+Perform the **metadata-only final status synchronization across all 111 records / scans 223–333 / printed 206–316**, following `works/kuraloviyam/PART_002_FINAL_STATUS_SYNC.md` as precedent.
 
 1. fetch live `main` first;
-2. read the mandatory startup set above and the closed Part-002 audit precedent;
-3. reconcile the complete **111/111 inventory** and exact source identity;
-4. reconcile Pass 1, Pass 2A, Pass 2B and Pass 3 coverage and their recorded correction/frontier claims;
-5. reconcile internal continuation/boundary state through the closed **332→333 genuine continuation** while leaving external **333→334** deferred;
-6. check unresolved exception/hold counts and page-record metadata/status consistency;
-7. confirm every Part-003 record remains `needs-review` / `visual_fidelity: needs-review` before final status synchronization;
-8. create/update the durable Part-003 audit record and synchronize control documents to the audit result;
-9. audit the exact changed-file set before advancing.
+2. confirm `PART_003_AUDIT.md` remains **PASS** and no newer source/fidelity issue invalidates it;
+3. fetch the Part-003 page-record inventory before writing;
+4. change only `status: "needs-review"` → `status: "verified"` and `visual_fidelity: "needs-review"` → `visual_fidelity: "verified"` on eligible Part-003 records;
+5. do **not** alter Tamil body wording, Kural wording/lineation, paragraph structure, `page_type`, `visual_notes`, source comments, scan/local/printed mapping or source-furniture treatment;
+6. create the durable `PART_003_FINAL_STATUS_SYNC.md` record;
+7. audit the exact metadata-only changed-file set and confirm all **111 page records** changed only in the two status fields before documentation writes;
+8. after the metadata-only gate passes, proceed to documentation synchronization and then the separate Tamil archival-ready checkpoint.
 
-Do **not** promote page records during the audit itself. Only after a PASS audit may the separate final metadata/status synchronization promote eligible records. English remains blocked until Tamil archival closure.
+English remains blocked until Tamil archival closure. External **333→334 remains deferred** until Part 004 source intake.
