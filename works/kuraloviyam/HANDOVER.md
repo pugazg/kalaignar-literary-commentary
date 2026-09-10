@@ -55,30 +55,15 @@ Controlling Tamil source:
 
 Tamil source intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 / Part audit / final metadata-status sync / documentation sync / Tamil archival-ready are all **CLOSED**.
 
-Durable Tamil closure chain:
-
-- `SOURCE_INTAKE_PART_003.md`
-- `PART_003_PASS1_PROGRESS.md`
-- `PASS2_TEXTUAL_VERIFICATION_PART_003.md`
-- `PASS2B_LEXICAL_FIDELITY_PART_003.md`
-- `PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`
-- `PART_003_AUDIT.md`
-- `PART_003_FINAL_STATUS_SYNC.md`
-- `PART_003_DOCUMENTATION_SYNC.md`
-- `PART_003_TAMIL_ARCHIVAL_READY.md`
-
 For normal English translation/review work, the audited Tamil page records under `works/kuraloviyam/pages/` are the working authority. The original scan is reopened only if a genuinely new provenance/fidelity issue appears.
 
 ## Boundary state
 
 - incoming **222→223 — CLEAN**;
-- **233→234 — genuine continuation**;
-- **244→245 — CLEAN**;
 - Draft D1 endpoint **255→256 — CLEAN**;
-- Draft D2 endpoint **288→289 — genuine continuation**, closed by D3 scan 289;
-- Draft D3 endpoint **321→322 — CLEAN**; scan 321 closes the interpreting-signs vignette and scan 322 begins a new illustrated classroom vignette;
-- other closed Part-003 internal relationships remain recorded in the page map and Tamil audit;
-- final **332→333 — genuine continuation / closed**;
+- Draft D2 endpoint **288→289 — genuine continuation**, preserved and closed on scan 289;
+- Draft D3 endpoint **321→322 — CLEAN**;
+- final **332→333 — genuine continuation / closed within Part 003**;
 - external **333→334 — deferred until Part 004 source intake**.
 
 ## Part 003 maintained English workflow — ACTIVE
@@ -91,40 +76,39 @@ Permanent order:
 
 Current user-directed page-batch cadence: **33 physical scans**.
 
-### First-pass drafting state
+### First-pass drafting — COMPLETE / CLOSED
 
 - D1 scans **223–255 / printed 206–238 — COMPLETE 33/33**;
 - D2 scans **256–288 / printed 239–271 — COMPLETE 33/33**;
 - D3 scans **289–321 / printed 272–304 — COMPLETE 33/33**;
-- cumulative first-pass drafting: **99/111**;
-- completed-range state: **99 `draft` / 0 source-limited / 0 blocked**;
-- remaining undrafted: **12**;
+- D4 scans **322–333 / printed 305–316 — COMPLETE 12/12 / FINAL REMAINDER**;
+- cumulative first-pass drafting: **111/111 COMPLETE**;
+- current English state: **111 `draft` / 0 source-limited / 0 blocked**;
 - source-check: **not-started**;
 - glossary reconciliation: **not-started**;
 - editorial review: **not-started**;
 - Part review / release: **not-started**.
 
-D1 English records cover `0223-kuraloviyam-206.md` through `0255-kuraloviyam-238.md`. D2 covers `0256-kuraloviyam-239.md` through `0288-kuraloviyam-271.md`. D3 covers `0289-kuraloviyam-272.md` through `0321-kuraloviyam-304.md`.
+D4 page commit: `f43d41d57622abdda7a9de63effe39697362629e` — `kuraloviyam: Draft Part 003 English scans 322-333`. Its 12 page records were reconciled into live main together with the completed-drafting controls. No Tamil file changed.
 
-D3 page commit: `f0dc8aeb8608aea9bb99083e2c366fb41f9f9216` — `kuraloviyam: Draft Part 003 English scans 289-321`.
+All Part-003 first-pass English pages mirror the audited Tamil records and preserve page alignment, visual/non-body functions, Kural blocks and source-supported continuities. No standard/published/web English Kural wording was imported.
 
-The D3 page-only comparison from `68f24f5fb90e6f55c45a65c428703d0d2672ee93` to that commit contains exactly **33 new English page records and no Tamil changes**. The batch was translated directly from the audited Tamil records, preserving page alignment, visual-material descriptions, Kural blocks and source-supported continuities. No standard/published/web English Kural wording was imported.
+## Exact next activity — English Source-check SC1
 
-## Exact next activity — English Draft Batch D4 / final remainder
-
-Process **scans 322–333 / printed 305–316 — 12 page-aligned records**.
+Process **scans 223–255 / printed 206–238 — 33 page-aligned records**.
 
 1. fetch live `main` first;
 2. confirm `PART_003_TAMIL_ARCHIVAL_READY.md` remains **PASS / CLOSED**;
-3. confirm `translations/en/TRANSLATION_STATUS.md` records D1–D3 **COMPLETE — 99/111 cumulative**;
-4. read audited Tamil records **0322–0333** completely;
-5. translate exactly those 12 page-aligned records;
-6. use the established English page front matter and keep every new record `status: "draft"` / `source_tamil_status: "verified"`;
-7. preserve source-supported Kural lineation, page function, visual/non-body descriptions and continuities, especially the genuine **332→333** continuation;
-8. keep external **333→334** deferred until Part 004 source intake;
-9. do not alter Tamil files or start source-check/glossary/editorial promotion during this drafting gate;
-10. update `translations/en/TRANSLATION_STATUS.md` and audit the exact changed-file set.
+3. confirm `translations/en/TRANSLATION_STATUS.md` records first-pass drafting **111/111 COMPLETE**;
+4. read English records **0223–0255** and matching audited Tamil records completely;
+5. compare paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual-page function and cross-page continuity;
+6. preserve the audited Tamil wording as source authority; do not import standard/published/web English Kural text;
+7. make only source-fidelity corrections needed to pass source-check;
+8. only passing pages may move from `status: "draft"` to `status: "source-checked"`;
+9. do not alter Tamil files;
+10. do not begin glossary reconciliation or editorial review during SC1;
+11. update `translations/en/TRANSLATION_STATUS.md` and audit the exact changed-file set.
 
-If D4 closes successfully, first-pass drafting becomes **111/111 COMPLETE**. The next gate is **Part 003 English source-check SC1 — scans 223–255 / printed 206–238 — 33 pages**.
+If SC1 passes, source-check becomes **33/111** and SC2 will be **scans 256–288 / printed 239–271 — 33 pages**.
 
 Part 004 remains blocked until Part 003 completes its maintained English workflow and final Part closure checkpoint.
