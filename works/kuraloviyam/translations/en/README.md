@@ -58,20 +58,21 @@ Incoming **222→223 is CLEAN**. Internal **332→333** is a genuine continuatio
 
 - Draft Batch D1: **scans 223–255 / printed 206–238 — COMPLETE 33/33**;
 - Draft Batch D2: **scans 256–288 / printed 239–271 — COMPLETE 33/33**;
-- cumulative English drafting: **66/111**;
-- completed-range state: **66 `draft` / 0 source-limited / 0 blocked**;
-- remaining undrafted pages: **45**;
+- Draft Batch D3: **scans 289–321 / printed 272–304 — COMPLETE 33/33**;
+- cumulative English drafting: **99/111**;
+- completed-range state: **99 `draft` / 0 source-limited / 0 blocked**;
+- remaining undrafted pages: **12**;
 - source-check / glossary reconciliation / editorial review / Part review / release: **not-started**.
 
-D1 and D2 preserve page alignment, visual-material descriptions, Kural block separation and source-supported cross-page continuities. No Tamil archival record changed. The D2 endpoint **288→289 is a genuine continuation**, so the next batch must begin by continuing the Valluvar/renunciation vignette on scan 289.
+D1–D3 preserve page alignment, visual-material descriptions, Kural block separation and source-supported cross-page continuities. No Tamil archival record changed. D3 preserved the genuine incoming **288→289** continuation and closes at a **CLEAN 321→322** boundary.
 
 ## Current frontier
 
-Exact next activity: **Part 003 English first-pass Draft Batch D3 — scans 289–321 / printed 272–304, 33 pages**.
+Exact next activity: **Part 003 English first-pass Draft Batch D4 / final remainder — scans 322–333 / printed 305–316, 12 pages**.
 
-Keep each newly created record at `status: "draft"` with `source_tamil_status: "verified"`. Preserve the genuine incoming **288→289** continuation. Do not begin source-check until all **111** Part-003 English first-pass pages have been drafted.
+Keep each newly created record at `status: "draft"` with `source_tamil_status: "verified"`. Preserve the genuine **332→333** continuation. Do not infer external **333→334**; that remains deferred until Part 004 source intake.
 
-If D3 closes, cumulative drafting becomes **99/111** and the final drafting remainder is **D4 scans 322–333 / printed 305–316 — 12 pages**.
+If D4 closes, first-pass drafting becomes **111/111 COMPLETE** and the next gate is **Part 003 English source-check**, starting with scans **223–255 / printed 206–238** at the current 33-page cadence.
 
 Part 004 remains blocked until the Part-003 maintained English workflow and final Part closure checkpoint are complete.
 
