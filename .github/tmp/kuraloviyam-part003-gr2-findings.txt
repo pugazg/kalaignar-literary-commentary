@@ -1,0 +1,89 @@
+KURALOVIYAM PART 003 ENGLISH GR2 — COMPACT AUDIT FINDINGS
+Range: scans 256-288 / printed 239-271
+Pages audited: 33
+Expected page status: source-checked
+
+CHAPTER / KURAL METADATA
+257: அதிகாரம் - 105     -     நல்குரவு;     பாடல் - 1049 || Chapter 105 — Poverty; Kural 1049
+259: அதிகாரம் - 113     -     காதற்சிறப்புரைத்தல்;     பாடல் - 1126, 1125 || Chapter 113 — Declaring Love's Excellence; Kurals 1126, 1125
+261: அதிகாரம் - 13     -     அடக்கமுடைமை;     பாடல் - 129 || Chapter 13 — Self-Control; Kural 129
+263: அதிகாரம் - 114     -     நாணுத் துறவுரைத்தல்;     பாடல் - 1140 || Chapter 114 — Renouncing Modesty; Kural 1140
+265: அதிகாரம் - 80     -     நட்பாராய்தல்;     பாடல் - 796 || Chapter 80 — Examining Friendship; Kural 796
+267: அதிகாரம் - 122     -     கனவுநிலை உரைத்தல்;     பாடல் - 1220 || Chapter 122 — Speaking of the Dream State; Kural 1220
+269: அதிகாரம் - 16     -     பொறையுடைமை;     பாடல் - 155 || Chapter 16 — Forbearance; Kural 155
+271: அதிகாரம் - 133     -     ஊடலுவகை;     பாடல் - 1327 || Chapter 133 — Joy of Lovers' Quarrel; Kural 1327
+273: அதிகாரம் - 14     -     ஒழுக்கமுடைமை;     பாடல் - 133 || Chapter 14 — Good Conduct; Kural 133
+275: அதிகாரம் - 127     -     அவர்வயின்விதும்பல்;     பாடல் - 1267 || Chapter 127 — Longing for His Return; Kural 1267
+277: அதிகாரம் - 48     -     வலியறிதல்;     பாடல் - 476 || Chapter 48 — Knowing One's Strength; Kural 476
+279: அதிகாரம் - 129     -     புணர்ச்சி விதும்பல்;     பாடல் - 1287 || Chapter 129 — Yearning for Union; Kural 1287
+281: அதிகாரம் - 84     -     பேதைமை;     பாடல் - 840 || Chapter 84 — Folly; Kural 840
+283: அதிகாரம் - 111     -     புணர்ச்சி மகிழ்தல்;     பாடல் - 1107 || Chapter 111 — The Joy of Union; Kural 1107
+285: அதிகாரம் - 45     -     பெரியாரைத் துணைக்கோடல்;     பாடல் - 448 || Chapter 45 — Seeking the Support of the Great; Kural 448
+287: அதிகாரம் - 120     -     தனிப்படர் மிகுதி;     பாடல் - 1199 || Chapter 120 — The Agony of Solitary Love; Kural 1199
+
+CHAPTER / CONTROL FLAGS: 0
+[none]
+
+CHAPTER LABELS EVIDENCED BUT NOT YET IN GLOSSARY: 9
+257: நல்குரவு => Poverty
+259: காதற்சிறப்புரைத்தல் => Declaring Love's Excellence
+261: அடக்கமுடைமை => Self-Control
+263: நாணுத் துறவுரைத்தல் => Renouncing Modesty
+267: கனவுநிலை உரைத்தல் => Speaking of the Dream State
+273: ஒழுக்கமுடைமை => Good Conduct
+275: அவர்வயின்விதும்பல் => Longing for His Return
+277: வலியறிதல் => Knowing One's Strength
+285: பெரியாரைத் துணைக்கோடல் => Seeking the Support of the Great
+
+GLOSSARY TERM HITS: 92
+POSSIBLE CONTEXT/DEFAULT FLAGS: 6
+267: பாவம் => sin / merit
+    TA context: எல்லாம் கனவு. கலக்கத்தோடு வாயிற்புறத்தே வந்து நிற்கிறாள். அவளைக் கண்ட ஊர் மக்கள், “அய்யோ பாவம்! காதலன் பிரிந்து விட்டான். அதனால் கலங்கி நிற்கிறாள் இந்தப் பாவை!” என்று பேசிக்கொண்டு போகி
+275: பாவம் => sin / merit
+    TA context: கும்போது மட்டும் தெரியக்கூடிய உன் கொடி இடையைத் தாங்கிடக் கொழுகொம்பாக வருகின்றார் இளவரசர். பாவம், பவளங்களும் முத்துக்களும் பதித்த இந்தக் கட்டிலைப் பார்த்தால் எனக்குப் பரிதாபமாக இருக்கிறத
+275: ஊடல் => lovers' quarrel / sulking
+    TA context: ுநேரத்தில் இங்கு வந்து விடுவார். அவர் வந்ததும், ஏன் என்னைப் பிரிந்து வாடவிட்டார்கள் என்று ஊடல் புரிவதா? அல்லது அவரைத் தழுவிக் கொள்வதா? அல்லது அவருடன் கூடிக்கலிப்பதா?” இப்படித் திண்டாட
+275: தேன்மொழி => Thenmozhi
+    TA context: ைக்கிறது! ஊடுவதா? தழுவுவதா? கூடுவதா? இந்த மூன்று கேள்விக்கு விடைகாண முடியாமல் திணறும் தேன்மொழி பொருத்தியின் நிலையை விளக்குகிறது இந்தக் குறள்: > “புலப்பேன்கொல் புல்லுவேன் கொல்லோ கலப்பே
+279: பாவம் => sin / merit
+    TA context: ாக ஆகிவிட்டான்! வெள்ளத்தின் வேகம் தெரிந்திருந்தும் நீச்சலடிக்கச் சென்று சிக்கிக்கொண்டானே; பாவம்!” என்றான் கிள்ளி! “நீ ஊடல் நடத்திய கதைதான் இதுவும்! நண்பா! ஆற்று வெள்ளம் அடித்துச் செல்ல
+282: புணர்ச்சி மகிழ்தல் => The Joy of Union
+    TA context: காளையொருவன். இல்வாழ்வின் இன்ப ஊற்று - உழைத்தலுக்குக் களைப்பினைப் போக்கும் கொம்புத்தேன் - ‘புணர்ச்சி மகிழ்தல்’ எனும் கட்டமன்றோ! இரண்டு உள்ளங்கள் பாலும் கற்கண்டுமாகி, ஈருடல்கள் பின்னலிட்டக் கூந்தல் போ
+
+REPEATED CAPITALIZED ENGLISH TOKENS ABSENT FROM GLOSSARY TEXT (manual name/title review)
+Poor: scans 261,267,275,279,283
+Alas: scans 256,257,279,285
+Did: scans 263,268,274,278
+Hey: scans 264,265,277,279
+Only: scans 260,263,285,288
+Seeing: scans 263,267,273,279
+Both: scans 264,266,284
+Has: scans 271,279,283
+Have: scans 263,279,285
+Hearing: scans 265,269,281
+Shall: scans 271,273,275
+Suddenly: scans 256,264,267
+Thinking: scans 269,270,275
+Would: scans 260,268,273
+Alagan's: scans 260,261
+Bhagavathar: scans 272,273
+Can: scans 257,283
+Having: scans 259,274
+Holding: scans 269,283
+Ilamathi: scans 270,271
+Instead: scans 268,269
+Keep: scans 270,279
+Killi: scans 278,279
+Like: scans 274,279
+Looking: scans 259,273
+Meanwhile: scans 264,265
+Nallaan: scans 264,265
+Nalli: scans 278,279
+Please: scans 269,277
+Poverty: scans 257,285
+Sita: scans 272,273
+Thirumathi: scans 270,271
+Vallaan: scans 264,265
+
+SOURCE-PRINTED LEXICAL/GLOSS LINES CONTAINING = OR “means” CUES
+275: கொண்டிருக்கிறார். இந்த நற்செய்தி கூறத்தான் ஓடிவந்தேன். இனி நீ அவரை வரவேற்கத் தயாராகலாம். பன்னீர் கலக்கிய தண்ணீரில் குளித்து புத்தாடை உடுத்து! அவர் பிரிவை எண்ணியெண்ணி வளைகள் கழன்றுவிழும் அளவுக்கு மெலிந்துபோன உன் கரங்கள், புதிய வளையல்பெறும் என்று எனக்குத் தெரியும். நெளிந்து நடக்கும்போது மட்டும் தெரியக்கூடிய உன் கொடி இடையைத் தாங்கிடக் கொழுகொம்பாக வருகின்றார் இளவரசர். பாவம், பவளங்களும் முத்துக்களும் பதித்த இந்தக் கட்டிலைப் பார்த்தால் எனக்குப் பரிதாபமாக இருக்கிறது. வாயில்லாப் பொருள்! இன்றிரவு என்ன பாடுபடப் போகிறதோ?”
