@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-“—he is on his way. I came running only to bring you this good news. Now you can prepare to welcome him. Bathe in rose-scented water and put on new clothes! I know that your arms, which grew so thin from thinking of his absence that the bangles slipped off, will receive new bangles. The prince is coming as the supporting branch for that vine-like waist of yours which can be seen only when you walk swaying. Poor thing, I feel pity for this bed inlaid with coral and pearls. A voiceless object! What ordeal will it have to endure tonight?”
+“—he is on his way. I came running only to bring you this good news. Now you can prepare to welcome him. Bathe in rose-scented water and put on new clothes! I know that your arms, which grew so thin from thinking of his absence that the bangles slipped off, will receive new bangles. The prince is coming like a supporting branch to hold up that vine-like waist of yours, visible only when you walk with a sway. Poor thing, I feel pity for this bed inlaid with coral and pearls. A voiceless object! What ordeal will it have to endure tonight?”
 
 Saying this with a mischievous laugh, her friend ran downstairs.
 

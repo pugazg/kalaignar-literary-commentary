@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -17,11 +17,11 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 “Rain falls in season. Poverty itself is poor in our land! The country stands high in language and art. Agriculture and trade flourish. What is the condition of your country?”
 
-“Exactly the opposite of what you have described. The people of our land wander like walking corpses. Only today, after many days, have I seen your country and found a little consolation in happiness.”
+“Exactly the opposite of what you have described. The people of our land wander like walking corpses. Only today, after many long days, have I seen your country and found a little solace in the joy it gives me.”
 
 “What is your king like?”
 
-“Our king? No one can shake him. He is immensely powerful. No one has the courage to stand across his path.”
+“Our king? No one can shake him. He is immensely powerful. No one has the courage to stand in his way.”
 
 “Is that so! Our king listens even to the opinion of an ordinary citizen. Your king seems entirely different!”
 

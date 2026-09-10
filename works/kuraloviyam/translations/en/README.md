@@ -63,9 +63,10 @@ Incoming **222→223 is CLEAN**. Internal **332→333** is a genuine continuatio
 - cumulative English drafting: **111/111 COMPLETE**;
 - post-drafting state: **111 `draft` / 0 source-limited / 0 blocked**;
 - source-check: **111/111 COMPLETE / CLOSED**;
-- current English state: **111 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**;
-- glossary reconciliation: **IN PROGRESS — GR1 + GR2 + GR3 COMPLETE / PASS, 99/111**;
-- editorial review / Part review / release: **not-started**.
+- current English state: **66 `editorial-reviewed` + 45 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**;
+- glossary reconciliation: **111/111 COMPLETE / CLOSED**;
+- editorial review: **IN PROGRESS — ER1 + ER2 COMPLETE / PASS 66/111**;
+- Part review / release: **not-started**.
 
 All 111 English pages preserve page alignment, visual/non-body descriptions, Kural block separation and source-supported cross-page continuities. The known **332→333** continuation is preserved and closed within Part 003. No Tamil archival record changed.
 
@@ -96,16 +97,20 @@ GR2 added the Part-003-first chapter controls **Poverty**, **Self-Control**, **R
 ## Part 003 English editorial review — IN PROGRESS
 
 - ER1 **223–255 / 206–238 — COMPLETE / PASS 33/33**;
-- cumulative editorial review: **33/111**;
-- current English state: **33 `editorial-reviewed` + 78 `source-checked`**;
-- ER1 wording changes: **scans 246, 251, 255 only**; no Tamil record changed.
+- ER2 **256–288 / 239–271 — COMPLETE / PASS 33/33**;
+- cumulative editorial review: **66/111**;
+- remaining editorial-review pages: **45**;
+- current English state: **66 `editorial-reviewed` + 45 `source-checked`**;
+- ER1 wording changes: **scans 246, 251, 255 only**;
+- ER2 wording changes: **15 page files — scans 256, 258, 259, 260, 263, 264, 265, 269, 270, 273, 275, 279, 281, 285, 287**; the other 18 ER2 pages changed only by status promotion;
+- no Tamil archival record changed in ER1 or ER2.
+
+ER2 preserved the clean incoming **255→256** boundary, repaired the exact source-supported physical continuations **258→259** and **264→265**, preserved the clean **277→278** boundary, and retained genuine **288→289** for the next batch. No standard/published/web English wording was imported.
 
 ## Current frontier
 
-Exact next activity: **Part 003 English Editorial Review ER2 — scans 256–288 / printed 239–271, 33 pages**.
+Exact next activity: **Part 003 English Editorial Review ER3 — scans 289–321 / printed 272–304, 33 pages**.
 
 Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity. Consult audited Tamil whenever an editorial change could affect meaning. Passing pages may move from `source-checked` to `editorial-reviewed`.
 
-If ER2 passes, cumulative editorial review becomes **66/111** and the next editorial batch is **ER3 — scans 289–321 / printed 272–304, 33 pages**. Part 004 remains blocked until the maintained Part-003 English workflow and final Part closure checkpoint are complete.
-
-See `TRANSLATION_STATUS.md` for the authoritative detailed frontier.
+If ER3 passes, cumulative editorial review becomes **99/111** and the final editorial batch is **ER4 — scans 322–333 / printed 305–316, 12 pages**. Part 004 remains blocked until the maintained Part-003 English workflow and final Part closure checkpoint are complete.

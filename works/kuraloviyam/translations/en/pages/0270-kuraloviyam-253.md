@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -17,7 +17,7 @@ Large upper illustration of the young goldsmith Ilamathi with his wife Thirumath
 
 Ilamathi was a young goldsmith. Thirumathi was the beautiful maiden who had married him. He sat at his workplace polishing gold bangles.
 
-Thinking that he should work carefully without feeling fatigue, Thirumathi brought him a cup of buttermilk and stood beside him. As he took the cup, he pressed her fingers with his own, held a smile on his lips and looked at her. She answered with a sidelong glance and sat nearby.
+Wanting him to do his careful work without tiring, Thirumathi brought him a cup of buttermilk and stood beside him. As he took the cup, he pressed her fingers with his own, held a smile on his lips and looked at her. She answered with a sidelong glance and sat nearby.
 
 “Keep your attention on the work and finish the ornaments properly. It seems your attention is somewhere else,” she teased.
 

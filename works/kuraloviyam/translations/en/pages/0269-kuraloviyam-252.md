@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,7 +19,7 @@ All the women who had come to the water tank pleaded with them to leave the elde
 
 After a little while, some government policemen happened to arrive there. The moment they saw the officers' headgear, the youths began trembling. They clearly understood that they had been trapped and could not escape.
 
-The elder could have taken revenge. But his heart, full of complete refinement, had not decayed to that level. Instead, he made this appeal to the police:
+The elder could have taken revenge. But his heart, rich in the fullness of refinement, had not fallen to that level. Instead, he made this appeal to the police:
 
 “They are all my dear grandchildren. Playing with me in this familiar way is always a source of fun for them. It was wrong of them to behave like this in the middle of the street. I ask forgiveness on their behalf. Please let them go!”
 

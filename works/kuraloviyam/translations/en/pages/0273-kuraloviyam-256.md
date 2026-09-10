@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -25,7 +25,7 @@ The mistress of the house—the wealthy man's wife—came upstairs carrying milk
 
 “Fatigue from giving the discourse. My body aches, that is all,” said the Bhagavathar.
 
-“Shall I massage your body?” asked the lady. Would the Bhagavathar refuse? The woman who began to massage him was caught in his embrace. What she desired took place.
+“Shall I massage your body?” asked the lady. Would the Bhagavathar refuse? The woman who began to massage him was caught in his embrace. What she desired came to pass.
 
 What the woman branded as “lower caste” would not accept, the woman branded as “upper caste” willingly accepted. High birth and low birth do not arise from caste systems that human beings have constructed.
 

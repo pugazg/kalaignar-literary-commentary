@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -27,7 +27,7 @@ Nalli laughed aloud. Killi's face showed his embarrassment. They walked talking 
 
 “What is this? Has he become such a fool? Even knowing the speed of the flood, he jumped in to swim and got caught in it. Poor man!” said Killi.
 
-“This is the same as your story of conducting a lovers' quarrel, friend! Have you not read the Kural in which Valluvar says that the condition of a man who tries to quarrel even though he knows the quarrel will not work is like that of someone who leaps into a river knowing the flood will sweep him away?” asked Nalli.
+“This is just like your lovers'-quarrel story, friend! Have you not read the Kural in which Valluvar says that the condition of a man who tries to quarrel even though he knows the quarrel will not work is like that of someone who leaps into a river knowing the flood will sweep him away?” asked Nalli.
 
 > Like one who leaps into a flood knowing it will sweep him away,  
 > why do I quarrel, knowing the quarrel will fail?

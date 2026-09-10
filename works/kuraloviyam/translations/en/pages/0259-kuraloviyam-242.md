@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-What else could it be but longing? The friend from the neighbouring house comes to tease her.
+—what else could it be? The friend from the neighbouring house comes to tease her.
 
 “What is this, girl? You keep closing and opening your eyes. You will say that your lover is right inside your eyes—but if you close them and blink like this, will the lover inside not suffer?”
 

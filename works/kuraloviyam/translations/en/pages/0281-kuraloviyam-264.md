@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-Cleanliness and he had no fellowship. Yet when it came to talking about the faults of others, he had an incurable appetite for it. It was his recreation.
+He and cleanliness had nothing in common. Yet when it came to talking about the faults of others, he had an incurable appetite for it. It was his recreation.
 
 Carrying a mountain of dirt on his own clothes and body, he habitually took a mustard-seed-sized dark spot on another person and enlarged it to the size of the sea.
 
@@ -25,7 +25,7 @@ But the bed, which had been as clean as a spread of jasmine flowers, now lay mar
 
 The mother lamented and scolded him.
 
-“What does it matter how much you advise him or beat him? He keeps going his own way! But Valluvar did not fail to speak even about a person with this nature. Do you know what it is like when someone comes after stepping in mud outside and, without washing his feet, steps upon a bed and stains it? It is like an ignorant man entering an assembly of learned people as though he knows everything! The Kural says there is no greater folly. Let us see whether at least now our son frees himself from that folly.”
+“What does it matter how much you advise him or beat him? He keeps going his own way! But Valluvar did not fail to speak even about a person with this nature. Do you know what it is like when someone comes after stepping in mud outside and, without washing his feet, steps upon a bed and stains it? It is like an ignorant man entering an assembly of learned people as though he knew everything! The Kural says there is no greater folly. Let us see whether at least now our son frees himself from that folly.”
 
 Her husband entered as he said this.
 

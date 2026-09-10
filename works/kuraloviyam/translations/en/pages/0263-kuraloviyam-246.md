@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -21,7 +21,7 @@ It is wrong even to compare her with you! Her face possesses a radiance beyond y
 
 If I try to console myself by looking at you in her place, even that gives me no relief—you pour the fire of love upon me in abundance! You shower me with delightful memories of that colourful parrot-maiden!
 
-Who is standing together on the bank and laughing? Ah, the young men of the village? Seeing me suffer from separation in love and speak to you without knowing myself, they stand on the bank clapping and laughing. Do you see?
+Who are those standing together on the bank and laughing? Ah, the young men of the village? Seeing me suffer the anguish of separation in love and speak to you beside myself, they stand on the bank clapping and laughing. Do you see?
 
 Let them laugh. They may even laugh thinking me mad!
 

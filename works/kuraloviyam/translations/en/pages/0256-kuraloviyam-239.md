@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 Large upper illustration of people rescuing a destitute man near a burning choultry.
 
-Rather than calling the suffering of poverty merely suffering, Valluvar speaks movingly of the “fire of poverty.” The fire of poverty kindles the fire of hunger in the belly, and there are many histories in the world in which that has turned into a fire of revolution. Though it is called a fire, Valluvar has pictured for us how it is crueller even than fire itself.
+Rather than calling the suffering of poverty simply “suffering,” Valluvar movingly calls it the “fire of poverty.” The fire of poverty kindles the fire of hunger in the belly, and world history offers many instances of that fire turning into a fire of revolution. Though poverty is called a fire, Valluvar depicts it as crueller even than fire itself.
 
 Ah! A great choultry—but one that has fallen into ruin. Perhaps once it flourished through the generosity of a benefactor who fed travellers. Today it serves as a resting place for travellers and for those who have no way to earn a living through labour. Goats and cattle wander there. Monkeys move about.
 

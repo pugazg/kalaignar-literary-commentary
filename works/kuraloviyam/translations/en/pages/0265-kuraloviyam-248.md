@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-Vallaan, from the top of the tree, called to Nallaan: “Hey, run off somewhere and disappear. Otherwise the bear will finish you and then find me too.”
+—top, Vallaan called to Nallaan: “Hey, run off somewhere and disappear. Otherwise the bear will finish you and then find me too.”
 
 “Wherever I go, the bear will not leave me. I am staying right here,” said Nallaan.
 

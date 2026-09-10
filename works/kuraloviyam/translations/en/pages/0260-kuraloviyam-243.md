@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 Large upper illustration anticipating the later reunion: the adult Alagan embraces his ill uncle while the aunt stands beside them.
 
-He was a five-year-old child. His name was Alagan. At that tender age itself he had lost both mother and father. He grew up in his maternal uncle's house. Though his uncle showered affection upon Alagan, to his aunt the sight of him was as bitter as neem fruit.
+He was a five-year-old child. His name was Alagan. At that tender age he had lost both mother and father. He grew up in his maternal uncle's house. Though his uncle showered affection upon Alagan, to his aunt the sight of him was as bitter as neem fruit.
 
 Her heart had no room to raise Alagan as an equal to the three children she had borne. Only after serving food to her own children would she call Alagan into the kitchen.
 

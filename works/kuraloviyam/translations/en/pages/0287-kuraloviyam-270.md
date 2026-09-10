@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-—he stood in the front ranks. The struggle I had expected to end within a countable time has continued for years.
+—he stood in the front ranks. The struggle I had expected to end within a finite time has gone on for years.
 
 I did not even receive news of which battlefield my beloved was on. One or two letters came from him; after that there was no contact. Some soldiers who returned wounded from the front told me that he was continuing to advance, breaking the enemy before him.
 
@@ -21,7 +21,7 @@ Another report followed: it was true that a spear had struck his chest and he ha
 
 I heard that he had declared to the enemy: “I will die in prison! Or if you cut off my head, I will accept it with a smile! The words kneeling and apology have no place in my life.” Thus, they said, the man who had captured my heart had raised a warrior's cry.
 
-Even if he shows me no compassion sufficient to return alive out of love for me, when the village and the world praise him for refusing to surrender to his enemies, I forget even that he is separated from me and delight rises in my ears.
+Even if his love for me does not move him to return alive, when the village and the world praise him for refusing to surrender to his enemies, I forget even that he is separated from me, and delight rises in my ears.
 
 Even if the lover I desire will not return and show me love, it is sweet to my ears to hear him praised.
 
