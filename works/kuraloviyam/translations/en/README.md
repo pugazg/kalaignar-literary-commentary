@@ -26,13 +26,12 @@ The user-directed normal iteration size is **33 physical scan pages** for page-b
 
 Part 001 English is closed at **107 `release-ready` + 4 `source-limited`**; source-limited scans are **13, 14, 15, 19**.
 
-## Part 002 Tamil — ARCHIVAL-READY / CLOSED
+## Part 002 — TAMIL + ENGLISH CLOSED
 
-Part 002 covers scans **112–222 / printed 95–205**, 111 physical pages, and is closed at **111 textual verified + 111 visual verified / 0 exceptions**.
+Part 002 covers scans **112–222 / printed 95–205**, 111 physical pages.
 
-## Part 002 English — CLOSED
-
-- first-pass drafting: **111/111 COMPLETE**;
+- Tamil: **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**;
+- English first-pass drafting: **111/111 COMPLETE**;
 - source-check: **111/111 COMPLETE / CLOSED**;
 - glossary reconciliation: **111/111 COMPLETE / CLOSED**;
 - editorial review: **111/111 COMPLETE / CLOSED**;
@@ -40,26 +39,37 @@ Part 002 covers scans **112–222 / printed 95–205**, 111 physical pages, and 
 - release report: **APPROVED / CLOSED**;
 - release-ready: **111/111 COMPLETE / CLOSED**.
 
-Part-level review record:
+Durable Part-level records:
 
-`reviews/PART_002_ENGLISH_REVIEW.md`
+- `reviews/PART_002_ENGLISH_REVIEW.md`
+- `reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
 
-The whole-Part review passed inventory/alignment, exact pre-release status state, controlled terminology and names, chapter/Kural metadata, page functions/non-body material and accumulated continuities. The subsequent release report approved all **111** pages, which are now `release-ready`; their approved English wording did not change during release.
+No Tamil archival record changed and no publisher/standard/web English wording was imported. The previously deferred **222→223** boundary was subsequently resolved as **CLEAN** during Part 003 source intake.
 
-The internal Part ending at scan **222 / printed 205** is closed. The external **222→223** split-boundary check remains deferred until Part 003 intake because Part 003 has not yet been supplied/onboarded.
+## Part 003 Tamil — ARCHIVAL-READY / CLOSED
 
-No Tamil archival record changed and no publisher/standard/web English wording was imported.
+Part 003 covers scans **223–333 / printed 206–316**, 111 physical pages. Tamil is closed at **111 textual verified + 111 visual verified / 0 exceptions**.
 
-## Release closure
+Durable Tamil closure: `../../PART_003_TAMIL_ARCHIVAL_READY.md`.
 
-Durable release report: `reviews/PART_002_ENGLISH_RELEASE_REPORT.md`.
+Incoming **222→223 is CLEAN**. Internal **332→333** is a genuine continuation closed within Part 003. External **333→334** remains deferred until Part 004 source intake.
 
-**PART 002 ENGLISH RELEASE: APPROVED / CLOSED — 111/111 `release-ready`.**
+## Part 003 English — FIRST-PASS DRAFTING ACTIVE
 
-No Tamil archival record changed and no publisher/standard/web English wording was imported during the release gate. The final Part 002 checkpoint is **PASS / CLOSED**.
+- Draft Batch D1: **scans 223–255 / printed 206–238 — COMPLETE 33/33**;
+- cumulative English drafting: **33/111**;
+- completed-range state: **33 `draft` / 0 source-limited / 0 blocked**;
+- remaining undrafted pages: **78**;
+- source-check / glossary reconciliation / editorial review / Part review / release: **not-started**.
+
+Batch D1 preserves page alignment, visual-material descriptions, Kural block separation and source-supported cross-page continuities. No Tamil archival record changed.
 
 ## Current frontier
 
-Part 003 may begin only when its controlling source is supplied/onboarded. At intake, first verify the deferred **222→223** boundary from the actual Part 003 source and continue the overall scan sequence at **223**.
+Exact next activity: **Part 003 English first-pass Draft Batch D2 — scans 256–288 / printed 239–271, 33 pages**.
+
+Keep each newly created record at `status: "draft"` with `source_tamil_status: "verified"`. Do not begin source-check until all **111** Part-003 English first-pass pages have been drafted.
+
+Part 004 remains blocked until the Part-003 maintained English workflow and final Part closure checkpoint are complete.
 
 See `TRANSLATION_STATUS.md` for the authoritative detailed frontier.
