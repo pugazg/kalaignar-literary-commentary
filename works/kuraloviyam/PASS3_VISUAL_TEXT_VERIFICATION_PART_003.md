@@ -295,12 +295,45 @@ This is not another lexical reread. Settled wording is not normalized or rewritt
 - Lexical body-text changes: **0**.
 - Status promotion: **0**.
 
+## Batch 10 — scans 322–332 / printed 305–315
+
+**Result: COMPLETE — 11 / 11.**
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 322 | 305 | **NO STRUCTURAL CHANGE** — large upper classroom illustration remains above the prose; the classroom / `வலியறிதல்` vignette begins after the clean 321→322 boundary and continues directly to scan 323. |
+| 323 | 306 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the classroom / `வலியறிதல்` vignette; the two highlighted Kural blocks remain distinct above Chapter 48 / Kurals 479, 473 metadata. |
+| 324 | 307 | **NO STRUCTURAL CHANGE** — large upper Iraaman / Annam illustration remains above the prose; the chastity vignette begins and continues directly to scan 325. |
+| 325 | 308 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Iraaman / chastity vignette; Kural 57 remains a distinct set-out block above Chapter 6 metadata. |
+| 326 | 309 | **NO STRUCTURAL CHANGE** — large upper market illustration with the basket-bearing woman and young man remains above the prose; the Ezhini / Iniyan `Yama` vignette begins and continues directly to scan 327. |
+| 327 | 310 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Ezhini / Iniyan `Yama` vignette; Kural 1083 remains a distinct set-out block above Chapter 109 metadata. |
+| 328 | 311 | **NO STRUCTURAL CHANGE** — large upper richly adorned woman/sunset illustration and the six short descriptive lines remain in correct physical order before the prose; the solitary-beauty / unused-wealth analogy continues directly to scan 329. |
+| 329 | 312 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the solitary-beauty / unused-wealth analogy; Kural 1007 remains a distinct set-out block above Chapter 101 metadata. |
+| 330 | 313 | **CORRECTED** — upper illustration independently re-read: a bare-chested man walks away in the foreground while an elder speaks to a child behind him; no literal carried burden is depicted. `visual_notes` corrected only so the unseen/metaphorical burden is not presented as a visible object; body wording and review flags unchanged. |
+| 331 | 314 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the burden / moral-faults vignette; Kural 35 remains a distinct set-out block above Chapter 4 metadata. |
+| 332 | 315 | **CORRECTED** — upper palace illustration independently re-read: a ruler receives a tied money bag from a woman while a laborer with a hoe stands at left. `visual_notes` corrected only; prose below begins the severe-rule / famine vignette and continues directly to scan 333. Body wording and review flags unchanged. |
+
+### Boundary / continuity result
+
+- Incoming **321→322 remains CLEAN**.
+- Internal boundaries **322→323 genuine**, **323→324 CLEAN**, **325→326 CLEAN**, **327→328 CLEAN**, **329→330 CLEAN**, **331→332 CLEAN** remain source-supported.
+- **332→333 is a genuine continuation**, reconfirmed from scan 333 / printed 316 as the outgoing witness; scan 333 directly continues and closes the severe-rule / famine vignette.
+- Scan 333 was used only as the outgoing witness and is **not** counted in Batch 10.
+- External **333→334 remains deferred** until Part 004 source intake.
+
+### Batch 10 correction summary
+
+- Structural/visual-description corrections: **2 pages — scans 330, 332**.
+- No-change scans: **322–329, 331 — 9 pages**.
+- Lexical body-text changes: **0**.
+- Status promotion: **0**.
+
 ## Current Pass-3 frontier
 
-**99 / 111 complete through scan 321 / printed 304.**
+**110 / 111 complete through scan 332 / printed 315.**
 
 All Part-003 records remain `needs-review` / `visual_fidelity: needs-review`.
 
-## Exact next activity — Batch 10
+## Exact next activity — final one-scan remainder
 
-Process **scans 322–332 / printed 305–315 — 11 physical scans**, beginning after the confirmed CLEAN **321→322** boundary. Inspect **scan 333 / printed 316** only as the outgoing boundary/continuity witness when needed. Keep the same visual-text-only gate; do not start the Part audit until the final one-scan remainder is also complete.
+Process **scan 333 / printed 316 — 1 physical scan** under the same meaningful visual-text verification gate. Reconfirm the direct **332→333 genuine continuation**, the page's text/Kural/Chapter metadata organization and source/non-body furniture separation. Keep the page record at `needs-review` / `visual_fidelity: needs-review`. Do **not** begin the Part audit until this final remainder is complete; external **333→334** remains deferred until Part 004 source intake.
