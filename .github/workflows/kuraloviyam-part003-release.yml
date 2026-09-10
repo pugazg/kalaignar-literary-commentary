@@ -19,7 +19,7 @@ jobs:
           fetch-depth: 0
 
       - name: Run Part 003 English release gate
-        run: python .github/scripts/kuraloviyam-part003-release.py
+        run: python .github/scripts/kuraloviyam-part003-release-runner.py
 
       - name: Verify and commit durable release state
         shell: bash
