@@ -1,40 +1,33 @@
 KURALOVIYAM PART 003 ENGLISH GR1 — COMPACT FINDINGS
-chapter/Kural metadata records: 16
-glossary term hits: 152
-possible context/default flags: 16
+pages audited: 33
+chapter/Kural metadata lines: 20
+chapter/control flags: 17
+glossary term hits: 104
+possible context/default flags: 6
 
-CHAPTER / KURAL METADATA:
-224: அதிகாரம் - 84     -     பேதைமை;     பாடல்கள் - 838, 839 || Chapter 84 — Folly; Kurals 838, 839
-226: அதிகாரம் - 121     -     நினைந்தவர் புலம்பல்;     பாடல் - 1203 || Chapter 121 — Lamenting the Absent Lover; Kural 1203
-228: அதிகாரம் - 16     -     பொறையுடைமை;     பாடல் - 151 || Chapter 16 — Forbearance; Kural 151
-230: அதிகாரம் - 125     -     நெஞ்சொடு கிளத்தல்;     பாடல் - 1241 || Chapter 125 — Speaking with the Heart; Kural 1241
-232: அதிகாரம் - 92     -     வரைவின் மகளிர்;     பாடல் - 913 || Chapter 92 — Women of Mercenary Love; Kural 913
-234: அதிகாரம் - 118     -     கண்விதுப்பழிதல்;     பாடல் - 1171 || Chapter 118 — Reproaching the Eyes; Kural 1171
-236: அதிகாரம் - 9     -     விருந்தோம்பல்;     பாடல் - 90 || Chapter 9 — Hospitality; Kural 90
-238: அதிகாரம் - 112     -     நலம்புனைந்துரைத்தல்;     பாடல் - 1117, 1118 || Chapter 112 — Praising Her Beauty; Kurals 1117, 1118
-240: அதிகாரம் - 93     -     கள்ளுண்ணாமை;     பாடல் - 929 || Chapter 93 — Abstaining from Liquor; Kural 929
-242: அதிகாரம் - 119     -     பசப்புறுபருவரல்;     பாடல் - 1186 || Chapter 119 — Suffering from Pallor; Kural 1186
-244: அதிகாரம் - 104     -     உழவு;     பாடல் - 1031 || Chapter 104 — Agriculture; Kural 1031
-247: அதிகாரம் - 131     -     புலவி;     பாடல்கள் - 1306, 1309 || Chapter 131 — Lovers' Sulking; Kurals 1306, 1309
-249: அதிகாரம் - 28     -     கூடாவொழுக்கம்;     பாடல் - 273 || Chapter 28 — False Conduct; Kural 273
-251: அதிகாரம் - 129     -     புணர்ச்சி விதும்பல்;     பாடல்கள் - 1282, 1284, 1290 || Chapter 129 — Yearning for Union; Kurals 1282, 1284, 1290
-253: அதிகாரம் - 104     -     உழவு;     பாடல் - 1039 || Chapter 104 — Agriculture; Kural 1039
-255: அதிகாரம் - 126     -     நிறையழிதல்;     பாடல் - 1251 || Chapter 126 — Loss of Restraint; Kural 1251
+CHAPTER FLAGS:
+226: could not parse pair 1: அதிகாரம் - 121     -     நினைந்தவர் புலம்பல்;     பாடல் - 1203 || Chapter 121 — Lamenting the Absent Lover; Kural 1203
+226: could not parse pair 2: அதிகாரம் - 132     -     புலவி நுணுக்கம்;     பாடல் - 1318 || Chapter 132 — Subtleties of Lovers' Quarrel; Kural 1318
+226: could not parse pair 3: அதிகாரம் - 126     -     நிறையழிதல்;     பாடல் - 1253 || Chapter 126 — Loss of Restraint; Kural 1253
+228: could not parse pair 1: அதிகாரம் - 16     -     பொறையுடைமை;     பாடல் - 151 || Chapter 16 — Forbearance; Kural 151
+228: could not parse pair 2: அதிகாரம் - 19     -     புறங்கூறாமை;     பாடல் - 189 || Chapter 19 — Refraining from Slander; Kural 189
+230: could not parse pair 1: அதிகாரம் - 125     -     நெஞ்சொடு கிளத்தல்;     பாடல் - 1241 || Chapter 125 — Speaking with the Heart; Kural 1241
+232: could not parse pair 1: அதிகாரம் - 92     -     வரைவின் மகளிர்;     பாடல் - 913 || Chapter 92 — Women of Mercenary Love; Kural 913
+234: could not parse pair 1: அதிகாரம் - 118     -     கண்விதுப்பழிதல்;     பாடல் - 1171 || Chapter 118 — Reproaching the Eyes; Kural 1171
+236: could not parse pair 1: அதிகாரம் - 9     -     விருந்தோம்பல்;     பாடல் - 90 || Chapter 9 — Hospitality; Kural 90
+238: could not parse pair 1: அதிகாரம் - 112     -     நலம்புனைந்துரைத்தல்;     பாடல் - 1117, 1118 || Chapter 112 — Praising Her Beauty; Kurals 1117, 1118
+240: could not parse pair 1: அதிகாரம் - 93     -     கள்ளுண்ணாமை;     பாடல் - 929 || Chapter 93 — Abstaining from Liquor; Kural 929
+242: could not parse pair 1: அதிகாரம் - 119     -     பசப்புறுபருவரல்;     பாடல் - 1186 || Chapter 119 — Suffering from Pallor; Kural 1186
+244: could not parse pair 1: அதிகாரம் - 104     -     உழவு;     பாடல் - 1031 || Chapter 104 — Agriculture; Kural 1031
+244: could not parse pair 2: அதிகாரம் - 7     -     மக்கட்பேறு;     பாடல் - 64 || Chapter 7 — The Blessing of Children; Kural 64
+249: could not parse pair 1: அதிகாரம் - 28     -     கூடாவொழுக்கம்;     பாடல் - 273 || Chapter 28 — False Conduct; Kural 273
+253: could not parse pair 1: அதிகாரம் - 104     -     உழவு;     பாடல் - 1039 || Chapter 104 — Agriculture; Kural 1039
+255: could not parse pair 1: அதிகாரம் - 126     -     நிறையழிதல்;     பாடல் - 1251 || Chapter 126 — Loss of Restraint; Kural 1251
 
-FLAGS:
+TERM FLAGS:
 223: செங்கோல் => just sceptre / sceptre of righteous rule
-225: அக்கா => akka / elder sister
 226: புலவி => Lovers' Sulking
-228: உரை => commentary / interpretation / speech or address
-228: கேள்வி => Listening
-231: அசை => asai / seer / thalai
-232: ஏந்திழை => Enthizhai
 235: கல்வி => Education
 243: வீரன் => Veeran
 247: விளக்கம் => explanation
-248: உரை => commentary / interpretation / speech or address
-251: கேள்வி => Listening
-252: கேள்வி => Listening
-252: தோகை => Thogai
 253: ஊடல் => lovers' quarrel
-255: கல்வி => Education
