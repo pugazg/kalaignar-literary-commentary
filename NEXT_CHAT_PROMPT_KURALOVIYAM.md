@@ -32,15 +32,16 @@ Read completely before changing anything:
 - Part 002 Tamil: **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified**.
 - Part 002 English: **RELEASE COMPLETE / CLOSED — 111/111 release-ready**.
 - Part 003 Tamil: **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**.
-- Part 003 English first-pass drafting: **99/111 COMPLETE**.
+- Part 003 English first-pass drafting: **111/111 COMPLETE / CLOSED**.
 - Draft Batch D1: **scans 223–255 / printed 206–238 — COMPLETE 33/33**.
 - Draft Batch D2: **scans 256–288 / printed 239–271 — COMPLETE 33/33**.
 - Draft Batch D3: **scans 289–321 / printed 272–304 — COMPLETE 33/33**.
-- completed Part-003 English range: **99 `draft` / 0 source-limited / 0 blocked**.
-- remaining undrafted Part-003 English pages: **12**.
+- Draft Batch D4: **scans 322–333 / printed 305–316 — COMPLETE 12/12 / FINAL REMAINDER**.
+- current Part-003 English state: **111 `draft` / 0 source-limited / 0 blocked**.
+- remaining undrafted pages: **0**.
 - Part 003 English source-check / glossary reconciliation / editorial review / Part review / release: **not-started**.
 
-D3 page commit: `f0dc8aeb8608aea9bb99083e2c366fb41f9f9216`. Its page-only audit from the D3 starting head `68f24f5fb90e6f55c45a65c428703d0d2672ee93` contains exactly **33 new English page records and no Tamil changes**.
+D4 page commit: `f43d41d57622abdda7a9de63effe39697362629e`; its 12 page records were reconciled into live main with the drafting-completion controls. No Tamil files changed.
 
 ## Part 003 Tamil authority
 
@@ -57,7 +58,7 @@ Confirmed identity:
 - SHA-256: `f07e7cdb3a6e786b0378e00bbe699a241be41c9e099c004a4faa90fa82b4239f`;
 - no usable parsed text layer.
 
-The Tamil archive is already closed. For normal English work, the **audited Tamil page records under `works/kuraloviyam/pages/` are the working authority**. Reopen the scan only if a genuinely new provenance/fidelity issue appears.
+The Tamil archive is closed. For normal English work, the **audited Tamil page records under `works/kuraloviyam/pages/` are the working authority**. Reopen the scan only if a genuinely new provenance/fidelity issue appears.
 
 Do not import a standard Thirukkural text, a published English Kural translation, another commentator's wording, web text, or remembered Kural wording.
 
@@ -65,8 +66,8 @@ Do not import a standard Thirukkural text, a published English Kural translation
 
 - incoming **222→223 — CLEAN**;
 - D1 endpoint **255→256 — CLEAN**;
-- D2 endpoint **288→289 — genuine continuation**, preserved and closed by scan 289 in D3;
-- D3 endpoint **321→322 — CLEAN**: scan 321 closes the interpreting-signs vignette; scan 322 begins a new illustrated classroom vignette;
+- D2 endpoint **288→289 — genuine continuation**, preserved and closed on scan 289;
+- D3 endpoint **321→322 — CLEAN**;
 - internal **332→333 — genuine continuation / closed within Part 003**;
 - external **333→334 — deferred until Part 004 source intake**.
 
@@ -78,36 +79,34 @@ Permanent order:
 
 Current user-directed normal page-batch size: **33 physical scans**; a final remainder may be shorter.
 
-Every new first-pass English page must:
+For source-check:
 
-- mirror the Tamil filename under `works/kuraloviyam/translations/en/pages/`;
-- carry `translation_type: "project_translation"`;
-- carry `status: "draft"`;
-- carry `source_tamil_status: "verified"`;
-- use `translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"`;
-- preserve page alignment, meaningful paragraph/dialogue order, Kural block separation, visual/non-body descriptions, and source-supported cross-page continuity;
-- translate the exact Kural wording preserved in the audited Tamil record rather than substituting a familiar published rendering.
+- compare every English page against the audited Tamil record paragraph-by-paragraph / block-by-block;
+- check omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual/non-body page function and cross-page continuities;
+- make only source-fidelity corrections needed for a passing source-check;
+- only a passing page may move from `status: "draft"` to `status: "source-checked"`;
+- preserve `source_tamil_status: "verified"`;
+- do not import standard/published/web English Kural wording;
+- do not use source-check for stylistic rewriting unrelated to fidelity.
 
-## Exact next activity — Part 003 English Draft Batch D4 / final remainder
+## Exact next activity — Part 003 English Source-check SC1
 
-Process **scans 322–333 / printed 305–316 — 12 page-aligned records** as the final English first-pass drafting remainder.
+Process **scans 223–255 / printed 206–238 — 33 page-aligned records**.
 
 Requirements:
 
 1. fetch live `main` first and preserve newer durable work;
 2. confirm `PART_003_TAMIL_ARCHIVAL_READY.md` remains **PASS / CLOSED**;
-3. confirm `translations/en/TRANSLATION_STATUS.md` records D1 + D2 + D3 as **COMPLETE — 99/111 cumulative through scan 321 / printed 304**;
-4. read audited Tamil records **0322–0333** completely and translate only from those records;
-5. create English counterparts for exactly **12 scans, 322–333 / printed 305–316**;
-6. keep every page at `status: "draft"` and `source_tamil_status: "verified"`;
-7. preserve illustrations/non-body page function and every source-supported continuation across the final remainder;
-8. preserve the genuine **332→333** continuation; scan 333 closes the severe-rule / famine vignette;
-9. keep external **333→334** deferred until Part 004 source intake and do not infer unsupplied source content;
-10. do not alter any Tamil page record or Tamil metadata;
-11. do not perform source-check, glossary reconciliation or editorial promotion during this drafting gate;
-12. update `translations/en/TRANSLATION_STATUS.md` after the batch;
-13. audit the exact changed-file set before advancing.
+3. confirm `translations/en/TRANSLATION_STATUS.md` records Part-003 first-pass drafting **111/111 COMPLETE**;
+4. read English records **0223–0255** and the matching audited Tamil records completely;
+5. compare each page paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, titles, quotations, Kural wording/lineation, visual-page function and cross-page continuity;
+6. correct only source-fidelity issues supported by the audited Tamil records;
+7. keep `source_tamil_status: "verified"` and promote only passing pages from `draft` to `source-checked`;
+8. do not alter any Tamil page record or Tamil metadata;
+9. do not begin glossary reconciliation or editorial review during SC1;
+10. update `translations/en/TRANSLATION_STATUS.md` after the batch;
+11. audit the exact changed-file set before advancing.
 
-If D4 passes, Part 003 English first-pass drafting becomes **111/111 COMPLETE**. The exact next gate will be **Part 003 English source-check SC1 — scans 223–255 / printed 206–238 — 33 pages**, following the permanent English workflow.
+If SC1 passes, Part-003 English source-check becomes **33/111**. The next batch will be **SC2: scans 256–288 / printed 239–271 — 33 pages**.
 
 Part 004 remains blocked until Part 003 completes the maintained English workflow and final Part closure checkpoint.
