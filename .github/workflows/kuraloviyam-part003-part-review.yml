@@ -19,30 +19,13 @@ jobs:
           fetch-depth: 0
 
       - name: Run Part 003 whole-Part English review
-        run: python .github/scripts/kuraloviyam-part003-part-review.py
+        run: python .github/scripts/kuraloviyam-part003-part-review-runner.py
 
-      - name: Verify and commit durable Part-review record and controls
+      - name: Restore temporary script and commit durable Part-review record
         shell: bash
         run: |
           set -euo pipefail
-          mapfile -t changed < <(git diff --name-only)
-          if [[ ${#changed[@]} -ne 10 ]]; then
-            printf 'Expected 10 durable changed files, found %s\n' "${#changed[@]}"
-            printf '%s\n' "${changed[@]}"
-            exit 1
-          fi
-          if printf '%s\n' "${changed[@]}" | grep -q '^works/kuraloviyam/pages/'; then
-            echo 'Tamil page change detected'
-            exit 1
-          fi
-          if printf '%s\n' "${changed[@]}" | grep -q '^works/kuraloviyam/translations/en/pages/'; then
-            echo 'English page change detected during Part-level review'
-            exit 1
-          fi
-          if printf '%s\n' "${changed[@]}" | grep -q '^\.github/'; then
-            echo 'Unexpected temporary-file working-tree change detected'
-            exit 1
-          fi
+          git checkout -- .github/scripts/kuraloviyam-part003-part-review.py
 
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -62,6 +45,14 @@ jobs:
           if [[ "$staged_count" != '10' ]]; then
             echo "Expected 10 staged files, found $staged_count"
             git diff --cached --name-only
+            exit 1
+          fi
+          if git diff --cached --name-only | grep -q '^works/kuraloviyam/pages/'; then
+            echo 'Tamil page change detected'
+            exit 1
+          fi
+          if git diff --cached --name-only | grep -q '^works/kuraloviyam/translations/en/pages/'; then
+            echo 'English page change detected during Part-level review'
             exit 1
           fi
 
