@@ -4,7 +4,7 @@ Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, acti
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Do not reopen closed Part 001 or Part 002 unless a genuinely new source/provenance/fidelity issue appears.
+Fetch live `main` first and preserve newer durable work. Do not reopen closed Part 001, Part 002, or the closed Part 003 Tamil layer unless a genuinely new source/provenance/fidelity issue appears.
 
 ## Mandatory startup
 
@@ -16,39 +16,31 @@ Read completely before changing anything:
 4. this prompt
 5. `works/kuraloviyam/HANDOVER.md`
 6. `works/kuraloviyam/README.md`
-7. `works/kuraloviyam/metadata/source.md`
-8. `works/kuraloviyam/metadata/transcription-policy.md`
-9. `works/kuraloviyam/indexes/page-map.md`
-10. `works/kuraloviyam/SOURCE_INTAKE_PART_003.md`
-11. `works/kuraloviyam/PART_003_PASS1_PROGRESS.md`
-12. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_003.md`
-13. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_003.md`
-14. `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`
-15. `works/kuraloviyam/PART_003_AUDIT.md`
-16. `works/kuraloviyam/PART_003_FINAL_STATUS_SYNC.md`
-17. `works/kuraloviyam/PART_003_DOCUMENTATION_SYNC.md`
-18. `works/kuraloviyam/PART_002_FINAL_STATUS_SYNC.md` as metadata-sync precedent
-19. `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md` as archival-ready precedent
-20. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
-21. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`
+7. `works/kuraloviyam/PART_003_AUDIT.md`
+8. `works/kuraloviyam/PART_003_FINAL_STATUS_SYNC.md`
+9. `works/kuraloviyam/PART_003_DOCUMENTATION_SYNC.md`
+10. `works/kuraloviyam/PART_003_TAMIL_ARCHIVAL_READY.md`
+11. `works/kuraloviyam/translations/en/README.md`
+12. `works/kuraloviyam/translations/en/TRANSLATION_GUIDE.md`
+13. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
+14. `works/kuraloviyam/translations/en/GLOSSARY.md`
+15. `works/kuraloviyam/translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md` as the preceding closed English-Part precedent
 
 ## Durable state
 
-- Part 001: **CLOSED**.
+- Part 001: **CLOSED** — Tamil archival-ready; English **107 release-ready + 4 source-limited**.
 - Part 002 Tamil: **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified**.
 - Part 002 English: **RELEASE COMPLETE / CLOSED — 111/111 release-ready**.
-- Part 003 source intake: **PASS / COMPLETE**.
-- Part 003 Pass 1: **COMPLETE — 111/111, scans 223–333 / printed 206–316**.
-- Part 003 Pass 2A: **COMPLETE — 111/111, scans 223–333 / printed 206–316**.
-- Part 003 Pass 2B: **COMPLETE — 111/111 independently re-read through scan 333 / printed 316**.
-- Part 003 Pass 3: **COMPLETE — 111/111 through scan 333 / printed 316**.
-- Part 003 audit: **PASS — 111/111**.
-- Part 003 final metadata/status synchronization: **PASS / CLOSED — 111/111 textual + visual verified / 0 exceptions**.
-- Part 003 documentation synchronization: **COMPLETE**.
-- Part 003 Tamil archival-ready: **NEXT / not-started**.
-- English remains **blocked until Tamil closure**.
+- Part 003 Tamil: **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**.
+- Part 003 English first-pass drafting: **33/111 COMPLETE**.
+- Part 003 English Draft Batch D1: **scans 223–255 / printed 206–238 — COMPLETE 33/33**.
+- completed Part-003 English range: **33 `draft` / 0 source-limited / 0 blocked**.
+- remaining undrafted Part-003 English pages: **78**.
+- Part 003 English source-check / glossary reconciliation / editorial review / Part review / release: **not-started**.
 
-## Part 003 controlling source
+## Part 003 Tamil authority
+
+Controlling Tamil source:
 
 `TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf`
 
@@ -59,49 +51,55 @@ Confirmed identity:
 - printed pages: **206–316**;
 - file size: **93,488,924 bytes**;
 - SHA-256: `f07e7cdb3a6e786b0378e00bbe699a241be41c9e099c004a4faa90fa82b4239f`;
-- no usable parsed text layer; rendered source scans controlled the completed verification passes.
+- no usable parsed text layer.
 
-## Part 003 audit closure
+The Tamil archive is already closed. For normal English work, the **audited Tamil page records under `works/kuraloviyam/pages/` are the working authority**. Reopen the scan only if a genuinely new provenance/fidelity issue appears.
 
-Durable audit record: `works/kuraloviyam/PART_003_AUDIT.md`.
+Do not import a standard Thirukkural text, a published English Kural translation, another commentator's wording, web text, or remembered Kural wording.
 
-Audit result: **PASS**.
+## Boundary state relevant to the English layer
 
-The audit confirms:
+- incoming **222→223 — CLEAN**;
+- Draft Batch D1 endpoint **255→256 — CLEAN**; scan 256 begins a new illustrated vignette;
+- internal **332→333 — genuine continuation / closed within Part 003**;
+- external **333→334 — deferred until Part 004 source intake**.
 
-- physical coverage: **111/111**, scans **223–333 / printed 206–316**;
-- scan/local/printed-page mapping: **PASS**;
-- source intake / Pass 1 / Pass 2A / Pass 2B / Pass 3: **COMPLETE — 111/111 each**;
-- internal continuation and structural edge cases: **PASS**;
-- non-body source material / page-furniture separation: **PASS**;
-- carried `partial`, `blocked` or source-limited Tamil exceptions: **0**;
-- premature Part-003 `verified` promotion: **0**;
-- Tamil body-text changes during audit: **0**.
+## English workflow
 
-Internal **332→333 genuine continuation is closed**. External **333→334 remains deferred until Part 004 source intake** and is not a Part-003 defect.
+Permanent order:
 
-The audit itself did not promote page records. The subsequent final metadata/status synchronization is now **PASS / CLOSED**: all **111** Part-003 page records are `status: "verified"` and `visual_fidelity: "verified"`, with **0 exceptions**. Durable record: `works/kuraloviyam/PART_003_FINAL_STATUS_SYNC.md`.
+**draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**.
 
-## Documentation synchronization closure
+Current user-directed normal page-batch size: **33 physical scans**.
 
-Part 003 documentation synchronization is **COMPLETE**. Durable record: `works/kuraloviyam/PART_003_DOCUMENTATION_SYNC.md`.
+Every new first-pass English page must:
 
-The live control layer now consistently records **111 textual verified + 111 visual verified / 0 partial / 0 source-limited / 0 needs-review / 0 unresolved status exceptions**. Historical phase-state statements remain only as historical evidence.
+- mirror the Tamil filename under `works/kuraloviyam/translations/en/pages/`;
+- carry `translation_type: "project_translation"`;
+- carry `status: "draft"`;
+- carry `source_tamil_status: "verified"`;
+- use `translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"`;
+- preserve page alignment, meaningful paragraph/dialogue order, Kural block separation, visual/non-body descriptions, and source-supported cross-page continuity;
+- translate the exact Kural wording preserved in the audited Tamil record rather than substituting a familiar published rendering.
 
-## Exact next activity — Part 003 Tamil archival-ready checkpoint
+## Exact next activity — Part 003 English Draft Batch D2
 
-Perform the separate **Tamil archival-ready checkpoint** for Part 003, following `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md` as precedent.
+Process **scans 256–288 / printed 239–271 — 33 page-aligned records** as the second English first-pass drafting batch.
 
 Requirements:
 
-1. fetch live `main` first and preserve newer durable state;
-2. confirm `works/kuraloviyam/PART_003_AUDIT.md` remains **PASS**;
-3. confirm `works/kuraloviyam/PART_003_FINAL_STATUS_SYNC.md` remains **PASS / CLOSED**;
-4. confirm `works/kuraloviyam/PART_003_DOCUMENTATION_SYNC.md` remains **COMPLETE**;
-5. confirm the final Part-003 distribution is **111 textual verified + 111 visual verified / 0 partial / 0 source-limited / 0 needs-review / 0 unresolved status exceptions**;
-6. confirm source identity and full coverage remain **111 records / scans 223–333 / printed 206–316**;
-7. preserve the closed internal **332→333 genuine continuation** and keep external **333→334 deferred** until Part 004 source intake;
-8. create `works/kuraloviyam/PART_003_TAMIL_ARCHIVAL_READY.md` with the closed evidence chain and final disposition;
-9. do **not** alter Tamil body wording, quoted Kural wording/lineation, page structure, visual notes, source comments, or any page-record metadata in this checkpoint;
-10. audit the checkpoint-only changed-file set;
-11. only after the Tamil archival-ready checkpoint passes may the maintained Part-003 English translation/review workflow begin.
+1. fetch live `main` first and preserve newer durable work;
+2. confirm `PART_003_TAMIL_ARCHIVAL_READY.md` remains **PASS / CLOSED**;
+3. confirm `translations/en/TRANSLATION_STATUS.md` records Draft Batch D1 as **COMPLETE 33/33 through scan 255 / printed 238**;
+4. read audited Tamil records **0256–0288** completely and translate only from those records;
+5. create English counterparts for exactly **33 scans, 256–288 / printed 239–271**;
+6. keep every page at `status: "draft"` and `source_tamil_status: "verified"`;
+7. preserve illustrations/non-body page function and every source-supported continuation across the batch;
+8. do not alter any Tamil page record or Tamil metadata;
+9. do not perform source-check, glossary reconciliation or editorial promotion during this drafting gate;
+10. update `translations/en/TRANSLATION_STATUS.md` after the batch;
+11. audit the exact changed-file set before advancing.
+
+If D2 passes, cumulative first-pass drafting becomes **66/111**. The next drafting batch will be **D3: scans 289–321 / printed 272–304 — 33 pages**.
+
+Part 004 remains blocked until Part 003 completes the maintained English workflow and final Part closure checkpoint.
