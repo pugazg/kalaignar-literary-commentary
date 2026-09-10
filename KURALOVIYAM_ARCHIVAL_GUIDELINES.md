@@ -172,10 +172,10 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 - project-created English drafting: **111/111 COMPLETE / CLOSED**;
 - English source-check: **111/111 COMPLETE / CLOSED**;
 - English glossary reconciliation: **COMPLETE / CLOSED — 111/111**;
-- English editorial review: **COMPLETE / CLOSED — 111/111**; current page state **111 editorial-reviewed + 0 source-checked**; Part-level English review: **PASS / CLOSED**; release report: **next**.
+- English editorial review: **COMPLETE / CLOSED — 111/111**; Part-level English review: **PASS / CLOSED**; English release: **APPROVED / CLOSED — 111/111 release-ready**; final Part 003 closure checkpoint next.
 
 ### Exact next content stage
 
-Perform the **Part 003 English release report** gate. Use `translations/en/reviews/PART_003_ENGLISH_REVIEW.md` as the authoritative prior gate (**PASS / CLOSED**), confirm all **111** English pages remain `editorial-reviewed`, decide release approval, and if approved promote only the eligible Part-003 English page statuses to `release-ready` without changing approved body wording.
+Perform the **final Part 003 closure checkpoint/documentation confirmation**. Confirm Tamil remains ARCHIVAL-READY / CLOSED, the maintained English workflow is RELEASE COMPLETE / CLOSED at **111/111 `release-ready`**, the Part-level review and release report both pass, live controls agree, and there are no residual temporary execution files or open Part-003 gates.
 
-Create `translations/en/reviews/PART_003_ENGLISH_RELEASE_REPORT.md`, audit that page-layer changes are status-token-only, and synchronize final Part-003 English closure controls. External **333→334** remains deferred until Part 004 source intake. Do not begin Part 004 until Part 003 release-ready synchronization and the final Part closure checkpoint are complete.
+Do not begin Part 004 inside this checkpoint. External **333→334** remains deferred until Part 004 source intake. After the final Part 003 checkpoint closes, Part 004 may begin only when its controlling source is supplied.

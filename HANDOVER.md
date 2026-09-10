@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 003 Tamil ARCHIVAL-READY / CLOSED; English drafting + source-check + glossary + editorial review COMPLETE / CLOSED 111/111; Part-level English review PASS / CLOSED; release report next**: **2026-09-10**.
+Last refreshed for Kuraloviyam **Part 003 Tamil ARCHIVAL-READY / CLOSED; English workflow RELEASE COMPLETE / CLOSED — 111/111 release-ready; final Part 003 closure checkpoint next**: **2026-09-10**.
 
 ## Repository
 

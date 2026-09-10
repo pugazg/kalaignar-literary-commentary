@@ -234,8 +234,26 @@ Whole-Part result:
 
 External **333→334** remains deferred until Part 004 source intake.
 
-## Current frontier — Part 003 English release report
+## Part 003 English release — APPROVED / CLOSED
 
-Exact next activity: run the whole-Part release gate for **111 English records, scans 223–333 / printed 206–316**. Read the passing `PART_003_ENGLISH_REVIEW.md`, confirm all pages remain eligible and `editorial-reviewed`, decide release approval, and if approved promote only the page `status` token to `release-ready`. Create `PART_003_ENGLISH_RELEASE_REPORT.md` and verify the page-layer diff contains **111 status-only English page changes, 0 approved-body changes and 0 Tamil changes**.
+Durable report: `works/kuraloviyam/translations/en/reviews/PART_003_ENGLISH_RELEASE_REPORT.md`.
 
-Do not begin Part 004 during the release gate. Part 004 remains blocked until Part 003 final release-ready synchronization and closure are complete.
+Release base / clean prior-gate HEAD: `933ae23e405f13f014cd9c1fa93b575699c0c9d2`.
+
+Final result:
+
+- eligible pages: **111/111**;
+- `release-ready`: **111/111**;
+- `editorial-reviewed`: **0**;
+- `source-checked`: **0**;
+- `draft`: **0**;
+- `source-limited`: **0**;
+- `blocked`: **0**;
+- body-text changes during release: **0**;
+- Tamil page changes during release: **0**.
+
+All 111 page-layer modifications are status-token-only promotions from `editorial-reviewed` to `release-ready`. The Part 003 internal ending at scan 333 remains closed; external **333→334** remains deferred until Part 004 source intake.
+
+## Current frontier — final Part 003 closure checkpoint
+
+Confirm all Tamil and maintained-English gates are closed, the review and release reports are present, all 111 English pages are release-ready, live documentation is synchronized, and no temporary execution files remain. Do not begin Part 004 inside this checkpoint.

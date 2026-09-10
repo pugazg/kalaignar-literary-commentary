@@ -10,7 +10,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
 | 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | **Tamil ARCHIVAL-READY / CLOSED; English drafting + source-check + glossary + editorial review COMPLETE / CLOSED — 111/111; Part-level English review PASS / CLOSED; release report next** |
+| 003 | 223–333 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready; final Part 003 closure checkpoint next** |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
 | 006 | 556–666 | not-started |
@@ -33,7 +33,7 @@ Tamil is **ARCHIVAL-READY / CLOSED** at **111 textual verified + 111 visual veri
 
 Maintained English is **RELEASE COMPLETE / CLOSED — 111/111 `release-ready`**. Durable review and release records are under `translations/en/reviews/`.
 
-## Part 003 — TAMIL ARCHIVAL-READY / CLOSED; ENGLISH PRE-RELEASE REVIEW PASS / RELEASE REPORT NEXT
+## Part 003 — TAMIL ARCHIVAL-READY / CLOSED; ENGLISH RELEASE COMPLETE / CLOSED — 111/111
 
 Controlling source:
 
@@ -172,15 +172,15 @@ Durable documentation-sync record: `PART_003_DOCUMENTATION_SYNC.md`.
 
 - Part 003 Tamil: **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**;
 - Part 003 English drafting: **111/111 COMPLETE / CLOSED**;
-- Part 003 English source-check: **111/111 COMPLETE / CLOSED**;
-- Part 003 English glossary reconciliation: **111/111 COMPLETE / CLOSED**;
-- Part 003 English editorial review: **111/111 COMPLETE / CLOSED**;
-- Part 003 English Part-level review: **PASS / CLOSED**;
-- current Part-003 English state: **111 `editorial-reviewed` / 0 `release-ready` / 0 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- release report / final release-ready synchronization: **not-started**.
+- source-check: **111/111 COMPLETE / CLOSED**;
+- glossary reconciliation: **111/111 COMPLETE / CLOSED**;
+- editorial review: **111/111 COMPLETE / CLOSED**;
+- Part-level English review: **PASS / CLOSED**;
+- release report: **APPROVED / CLOSED**;
+- current English state: **111 `release-ready` / 0 editorial-reviewed / 0 source-checked / 0 draft / 0 source-limited / 0 blocked**.
 
 ## Current frontier
 
-**Next activity: Part 003 English release report.** Use `translations/en/reviews/PART_003_ENGLISH_REVIEW.md` as the passing prior gate. If release is approved, promote the 111 eligible English pages from `editorial-reviewed` to `release-ready` with status-token-only page changes, create `PART_003_ENGLISH_RELEASE_REPORT.md`, and synchronize final Part closure controls.
+**Next activity: final Part 003 closure checkpoint/documentation confirmation.** Confirm every Part-003 Tamil and English gate is durably closed, the release report is present, all 111 English pages are release-ready, controls are synchronized, and temporary execution files are absent.
 
-External **333→334** remains deferred until Part 004 source intake. Do not begin Part 004 during the release gate.
+External **333→334** remains deferred until Part 004 source intake. Do not begin Part 004 until this final checkpoint closes and the Part 004 source is supplied.
