@@ -124,14 +124,15 @@ Tamil source intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 / audit / final status
 
 Incoming **222→223 is CLEAN**. Internal **332→333** is a genuine continuation closed within Part 003. External **333→334** remains deferred until Part 004 source intake.
 
-## Part 003 English first-pass drafting
+## Part 003 English first-pass drafting — COMPLETE / CLOSED
 
 - **Batch D1: scans 223–255 / printed 206–238 — COMPLETE 33/33**;
 - **Batch D2: scans 256–288 / printed 239–271 — COMPLETE 33/33**;
 - **Batch D3: scans 289–321 / printed 272–304 — COMPLETE 33/33**;
-- cumulative drafting: **99/111**;
-- English state in completed range: **99 `draft` / 0 source-limited / 0 blocked**;
-- remaining undrafted Part-003 pages: **12**;
+- **Batch D4: scans 322–333 / printed 305–316 — COMPLETE 12/12 / FINAL REMAINDER**;
+- cumulative drafting: **111/111 COMPLETE**;
+- English state after drafting: **111 `draft` / 0 source-limited / 0 blocked**;
+- remaining undrafted Part-003 pages: **0**;
 - source-check: **not-started**;
 - glossary reconciliation: **not-started**;
 - editorial review: **not-started**;
@@ -141,18 +142,18 @@ Batch D3 page commit: `f0dc8aeb8608aea9bb99083e2c366fb41f9f9216` — `kuraloviya
 
 The D3 page-only audit from `68f24f5fb90e6f55c45a65c428703d0d2672ee93` to `f0dc8aeb8608aea9bb99083e2c366fb41f9f9216` is **ahead / non-divergent** and contains exactly **33 added English page records**, scans **289–321**, with no Tamil page or Tamil metadata change.
 
-D3 was translated from the audited Tamil archival records, preserving page alignment, source-supported Kural blocks, visual-material descriptions and cross-page continuities. No standard/published/web English Kural wording was imported.
-
 Post-batch draft-fidelity correction: **scan 302 / printed 285 / Kural 617** — the second English Kural line was reconciled from `in the effort of the man without sloth` to the source-faithful `at the feet of the man without sloth`. The page remains `draft`; no Tamil record or metadata changed.
 
-The genuine incoming **288→289** continuation was preserved and closed on scan 289. The D3 endpoint **321→322 is CLEAN**: scan 321 closes the interpreting-signs vignette and scan 322 begins a new illustrated classroom vignette.
+Batch D4 page commit: `f43d41d57622abdda7a9de63effe39697362629e` — `kuraloviyam: Draft Part 003 English scans 322-333`.
 
-## Current frontier — Part 003 English Draft Batch D4 / final remainder
+The D4 page-only audit from `5657db1486729c0216467dfca1e6103ea666b9a3` to `f43d41d57622abdda7a9de63effe39697362629e` contains exactly **12 added English page records**, scans **322–333**, with no Tamil page or Tamil metadata change.
 
-Exact next activity: **first-pass drafting scans 322–333 / printed 305–316 — final 12 page-aligned records**.
+The D4 range preserves the clean incoming **321→322** boundary, the genuine internal **332→333** continuation, and the Part ending at scan **333**. External **333→334** remains deferred until Part 004 source intake.
 
-Keep all newly drafted pages at `status: "draft"`, preserve `source_tamil_status: "verified"`, and use the audited Tamil records as the normal translation authority. Preserve the known genuine internal **332→333** continuation and keep external **333→334** deferred until Part 004 source intake.
+## Current frontier — Part 003 English Source-check SC1
 
-If D4 closes successfully, Part 003 first-pass English drafting becomes **111/111 COMPLETE**. The next gate will then be **Part 003 English source-check**, beginning with scans **223–255 / printed 206–238** at the current 33-page cadence.
+Exact next activity: **source-check scans 223–255 / printed 206–238 — 33 page-aligned records**.
 
-Part 004 remains blocked until Part 003 completes its maintained English workflow and final Part closure checkpoint.
+Compare each English page against its audited Tamil counterpart paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, quotations, Kural blocks, visual-page function and cross-page continuity. Only passing pages may move from `draft` to `source-checked`.
+
+Do not perform glossary reconciliation or editorial review during SC1. Do not alter Tamil archival records. Part 004 remains blocked until Part 003 completes its maintained English workflow and final Part closure checkpoint.
