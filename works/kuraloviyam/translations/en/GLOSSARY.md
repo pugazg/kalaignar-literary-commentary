@@ -378,7 +378,7 @@ GR4 processed the **final 30-page remainder: scans 193–222 / printed 176–205
 
 **Part 002 glossary reconciliation is COMPLETE — 111/111 scans.**
 
-## Thirukkural chapter labels first encountered in Part 003 through GR3
+## Thirukkural chapter labels first encountered in Part 003 through GR4
 
 | Tamil | Default English | Editorial note |
 |---|---|---|
@@ -399,6 +399,8 @@ GR4 processed the **final 30-page remainder: scans 193–222 / printed 176–205
 | அவர் வயின் விதும்பல் | Longing for His Return | Chapter 127 source-form variant on scans 291 and 295; maps to the established controlled label. |
 | கனவு நிலை உரைத்தல் | Speaking of the Dream State | Chapter 122 source-form variant on scan 299; maps to the established controlled label. |
 | ஆள்வினை உடைமை | Diligent Effort | Chapter 62 source-form variant on scan 302; maps to the established controlled label. |
+| நன்றியில் செல்வம் | Wealth Without Beneficence | Chapter 101 label on scan 329. |
+| வெருவந்த செய்யாமை | Avoiding Tyrannical Severity | Chapter 57 label on scan 333. |
 
 The Chapter 112 source variant `நலம்புனைந்துரைத்தல்` on scan **238** is mapped to the existing controlled **Praising Her Beauty** label rather than creating a duplicate English chapter title. Existing controls reused unchanged in GR1 include **Lamenting the Absent Lover**, **Subtleties of Lovers' Quarrel**, **Loss of Restraint**, **Refraining from Slander**, **Speaking with the Heart**, **Reproaching the Eyes**, **Suffering from Pallor**, **The Blessing of Children**, **Lovers' Sulking**, **False Conduct**, and **Yearning for Union**.
 
@@ -501,6 +503,39 @@ GR3 processed **33 consecutive pages: scans 289–321 / printed 272–304**.
 - English page wording changes during GR3: **2 files — scans 313 and 314, proper-name transliteration only**;
 - page status changes during GR3: **0**; all 33 pages remain `source-checked`;
 - Tamil page / metadata changes during GR3: **0**;
+- no external/published/web English terminology or remembered Kural wording was imported.
+
+## Part 003 GR4 additional narrative/name and context controls
+
+| Tamil | Default English form | Editorial note |
+|---|---|---|
+| தமிழறிஞர் மு. வரதராசனார் | Tamil scholar Mu. Varadarasanar | Named commentator cited in the classroom / `வலியறிதல்` discussion on scan 323. |
+| இராமன் | Iraaman | Modern household character across scans 324–325. Keep distinct from the Ramayana figure `இராமன்` → **Rama** established on scan 272. |
+| அன்னம் | Annam | Iraaman's wife in the chastity vignette across scans 324–325. |
+| அமுதம் | Amudham | Iraaman's office colleague in the chastity vignette across scans 324–325. |
+| கண்ணன் | Kannan | Neighbour named in the note on scan 325. |
+| கற்பு | chastity | Ethical/social noun central to scans 324–325; do not force this rendering onto unrelated senses of `நிறை`. |
+| இனியன் | Iniyan | Ezhini's friend in the market / Yama vignette across scans 326–327. |
+| எமன் | Yama / Death | Context-aware. Use **Yama** for the named mythic personification in the narrative; the quoted Kural's compressed death-image may naturally use **Death**. |
+| திங்கள் சந்தை | Monday market | Scans 326–327. `திங்கள்` here is the weekday Monday, not a monthly-frequency expression. |
+| அழுக்காறு | envy | Scan 331 explicitly explains the ethical term as jealousy at another person's prosperity, praise, intelligence, courage or firmness; the narrative also exploits the sound as a figurative river-name. |
+
+## Part 003 GR4 reconciliation record — scans 322–333
+
+GR4 processed the **final 12 consecutive pages: scans 322–333 / printed 305–316**.
+
+- scans **322–333** — glossary / recurring-terminology reconciliation **PASS, 12/12 / FINAL REMAINDER**;
+- all **6** Chapter/Kural metadata records in the range were checked against their audited Tamil counterparts; chapter/Kural numbers were correct in all six;
+- two pre-existing controlled chapter labels required English reconciliation: scan **327** Chapter 109 `தகையணங்குறுத்தல்` **Bewilderment at Her Beauty → The Bewildering Power of Beauty**, and scan **331** Chapter 4 `அறன் வலியுறுத்தல்` **Affirming Virtue → The Insistence on Virtue**;
+- Part-003-first chapter controls added in this final gate: **Wealth Without Beneficence** (`நன்றியில் செல்வம்`, Chapter 101, scan 329) and **Avoiding Tyrannical Severity** (`வெருவந்த செய்யாமை`, Chapter 57, scan 333);
+- existing controls reused unchanged include **Knowing One's Strength** (Chapter 48) and **The Worth of a Life-Partner** (Chapter 6);
+- context controls recorded for **Mu. Varadarasanar, Iraaman, Annam, Amudham, Kannan, Iniyan, Yama/Death, Monday market, chastity,** and **envy**;
+- the distinct modern character `இராமன்` → **Iraaman** is intentionally kept separate from the earlier Ramayana figure `இராமன்` → **Rama**;
+- the already source-checked Monday-market sense on scans **326–327** is retained and now made explicit in the glossary;
+- English page wording changes during GR4: **2 files — scans 327 and 331, controlled chapter-label reconciliation only**;
+- page status changes during GR4: **0**; all 12 pages remain `source-checked`;
+- Tamil page / metadata changes during GR4: **0**;
+- internal **332→333** genuine continuation remains preserved and closes within Part 003; external **333→334** remains deferred until Part 004 intake;
 - no external/published/web English terminology or remembered Kural wording was imported.
 
 ## Review rule

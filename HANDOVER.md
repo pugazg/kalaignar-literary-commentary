@@ -293,22 +293,22 @@ Part 003 live control documents now agree with the durable audit and final-statu
 - Tamil: **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**;
 - English first-pass drafting: **111/111 COMPLETE / CLOSED**;
 - English source-check: **111/111 COMPLETE / CLOSED**;
-- English glossary reconciliation: **IN PROGRESS — GR1 + GR2 + GR3 COMPLETE / PASS, 99/111**;
+- English glossary reconciliation: **COMPLETE / CLOSED — 111/111**;
 - all 111 English pages remain `source-checked`; editorial review is not started;
 - GR1+GR2 changed no English page wording; GR3 changed only `Kaarmegam` → `Karmegam` on English scans 313–314; no status or Tamil record changed.
 
 # Exact next activity — குறளோவியம்
 
-Perform **Part 003 English Glossary Reconciliation GR4 — scans 322–333 / printed 305–316, final 12 pages**.
+Perform **Part 003 English Editorial Review ER1 — scans 223–255 / printed 206–238, 33 pages**.
 
 1. fetch live `main`;
 2. read the Kuraloviyam mandatory controls, English `TRANSLATION_GUIDE.md`, `TRANSLATION_STATUS.md`, and `GLOSSARY.md`;
-3. confirm Tamil remains closed, source-check remains 111/111 closed, and glossary reconciliation remains **99/111 complete**;
+3. confirm Tamil remains closed, source-check remains 111/111 closed, and glossary reconciliation is **111/111 COMPLETE / CLOSED**;
 4. reconcile recurring names, structural/literary terms, chapter labels, citation metadata and repeated renderings against the audited Tamil context;
 5. update the glossary only for source-evidenced terms;
 6. do not import external/published/web terminology or remembered Kural wording;
-7. do not promote page statuses or begin editorial review during GR4;
+7. review source-faithful readability and consistency; passing pages may move to `editorial-reviewed`; do not begin Part-level review during ER1;
 8. do not alter Tamil records;
 9. audit the exact changed-file set before advancing.
 
-If GR4 passes, glossary reconciliation becomes **111/111 COMPLETE / CLOSED**; the next gate is **English Editorial Review ER1 — scans 223–255 / printed 206–238, 33 pages**. Part 004 remains blocked until the maintained Part-003 English workflow and final Part closure checkpoint are complete. External **333→334** remains deferred until Part 004 source intake.
+If ER1 passes, continue with **English Editorial Review ER2 — scans 256–288 / printed 239–271, 33 pages**. Part 004 remains blocked until the maintained Part-003 English workflow and final Part closure checkpoint are complete. External **333→334** remains deferred until Part 004 source intake.

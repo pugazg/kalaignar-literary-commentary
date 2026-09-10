@@ -17,7 +17,7 @@ The original source PDF is reported as **666 physical PDF pages**. Because the o
 |---|---:|---:|---|---|
 | 001 | 1–111 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | supplied; Tamil/English closed |
 | 002 | 112–222 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | supplied; Tamil/English closed |
-| 003 | 223–333 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf` | **supplied; Tamil ARCHIVAL-READY / CLOSED; English drafting + source-check COMPLETE / CLOSED; glossary reconciliation IN PROGRESS — GR1 + GR2 + GR3 COMPLETE / PASS, 99/111; GR4 next** |
+| 003 | 223–333 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf` | **supplied; Tamil ARCHIVAL-READY / CLOSED; English drafting + source-check COMPLETE / CLOSED; glossary reconciliation COMPLETE / CLOSED — 111/111; editorial review ER1 next** |
 | 004 | 334–444 | 111 | not yet supplied / exact filename not yet established | not-started |
 | 005 | 445–555 | 111 | not yet supplied / exact filename not yet established | not-started |
 | 006 | 556–666 | 111 | not yet supplied / exact filename not yet established | not-started |

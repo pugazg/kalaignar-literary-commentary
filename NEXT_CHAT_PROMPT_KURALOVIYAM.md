@@ -108,34 +108,33 @@ SC4 source-fidelity corrections were limited to scan **327** (Monday-market sens
 
 SC4 page commit: `e07a6775513bcf1619e5d1bcb6e8222f7004f0a8`.
 
-## Glossary reconciliation results through GR3 — COMPLETE / PASS
+## Glossary reconciliation — COMPLETE / CLOSED
 
 - GR1 **223–255 / printed 206–238 — 33/33 PASS**;
 - GR2 **256–288 / printed 239–271 — 33/33 PASS**;
 - GR3 **289–321 / printed 272–304 — 33/33 PASS**;
-- cumulative glossary reconciliation **99/111**;
+- GR4 **322–333 / printed 305–316 — 12/12 PASS / FINAL REMAINDER**;
+- cumulative glossary reconciliation **111/111 COMPLETE / CLOSED**;
 - current English page state remains **111 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- GR1+GR2 page wording changes **0**; GR3 wording changes **2 English files (scans 313–314), `Kaarmegam` → `Karmegam` only**; page status changes **0**; Tamil changes **0**.
+- GR1+GR2 page wording changes **0**; GR3 wording changes **2 English files (scans 313–314), `Kaarmegam` → `Karmegam` only**; GR4 wording changes **2 English files (scans 327 and 331), controlled chapter-label reconciliation only**; page status changes **0**; Tamil changes **0**.
 
 GR2 verified all 16 Chapter/Kural metadata records in its range with 0 numeric or controlled-label mismatch. It added six Part-003-first chapter controls, mapped the GR2 source-form variants to established labels, refined contextual handling of `பாவம்`, `தேன்மொழி`, and descriptive `புணர்ச்சி மகிழ்தல்`, and recorded the recurring GR2 narrative/literary names.
 
-## Exact next activity — Part 003 English Glossary Reconciliation GR4
+## Exact next activity — Part 003 English Editorial Review ER1
 
-Process **scans 322–333 / printed 305–316 — final 12 page-aligned records**.
+Process **scans 223–255 / printed 206–238 — 33 page-aligned records**.
 
 Requirements:
 
 1. fetch live `main` first and preserve newer durable work;
 2. confirm `PART_003_TAMIL_ARCHIVAL_READY.md` remains **PASS / CLOSED**;
-3. confirm `translations/en/TRANSLATION_STATUS.md` records source-check **111/111 COMPLETE / CLOSED** and glossary reconciliation **99/111**;
-4. read `translations/en/GLOSSARY.md` and English records **0322–0333** with their matching audited Tamil records;
-5. reconcile recurring names, work/section names, controlled literary terms, publication names, chapter labels, citation metadata and repeated English renderings against the glossary and audited Tamil context;
-6. update `GLOSSARY.md` only for terms actually evidenced in Part 003;
-7. do not mechanically force one English rendering where context requires a different one;
-8. do not import standard/published/web English Kural wording, another edition's terminology, or memory;
-9. this gate does **not** promote `source-checked` pages to `editorial-reviewed`;
-10. do not alter any Tamil page record or Tamil metadata;
-11. do not begin editorial review during GR4;
-12. update `translations/en/TRANSLATION_STATUS.md` and audit the exact changed-file set before advancing.
+3. confirm English drafting, source-check and glossary reconciliation are each **111/111 COMPLETE / CLOSED**;
+4. read `translations/en/TRANSLATION_GUIDE.md`, `GLOSSARY.md`, and English records **0223–0255** with their matching audited Tamil records where meaning-sensitive editorial decisions arise;
+5. review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity;
+6. make only source-faithful editorial improvements; do not import standard/published/web English Kural wording, another edition's terminology, or memory;
+7. passing pages may move from `source-checked` to `editorial-reviewed`;
+8. do not alter any Tamil page record or Tamil metadata;
+9. do not begin Part-level review or release work during ER1;
+10. update `TRANSLATION_STATUS.md` and audit the exact changed-file set before advancing.
 
-If GR4 passes, glossary reconciliation becomes **111/111 COMPLETE / CLOSED**. The next gate is **English Editorial Review ER1 — scans 223–255 / printed 206–238, 33 pages**. Part 004 remains blocked until Part 003 completes glossary reconciliation, editorial review, Part review, release report/release-ready synchronization and final Part closure. External **333→334** remains deferred until Part 004 source intake.
+If ER1 passes, the next activity is **Editorial Review ER2 — scans 256–288 / printed 239–271, 33 pages**. Part 004 remains blocked until Part 003 completes editorial review, Part review, release report/release-ready synchronization and final Part closure. External **333→334** remains deferred until Part 004 source intake.

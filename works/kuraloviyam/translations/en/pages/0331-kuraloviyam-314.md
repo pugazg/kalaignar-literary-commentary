@@ -28,6 +28,6 @@ The grandson's eyes shone after hearing his grandfather's explanation.
 > Envy, greed, anger and hurtful speech—these four  
 > avoided without straying: that is virtue.
 
-Chapter 4 — Affirming Virtue; Kural 35
+Chapter 4 — The Insistence on Virtue; Kural 35
 
 <!-- Source scan page: 331; printed page: 314; closes burden / moral-faults vignette; Chapter 4 / Kural 35; 331→332 clean -->

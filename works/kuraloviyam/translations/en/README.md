@@ -82,22 +82,23 @@ SC4 source-fidelity reconciliation corrected the Monday-market sense on scan **3
 
 SC4 page commit: `e07a6775513bcf1619e5d1bcb6e8222f7004f0a8`.
 
-## Part 003 English glossary reconciliation — IN PROGRESS
+## Part 003 English glossary reconciliation — COMPLETE / CLOSED
 
 - GR1 **223–255 / 206–238 — COMPLETE / PASS 33/33**;
 - GR2 **256–288 / 239–271 — COMPLETE / PASS 33/33**;
 - GR3 **289–321 / 272–304 — COMPLETE / PASS 33/33**;
-- cumulative glossary reconciliation: **99/111**;
-- English pages remain **111 `source-checked`**; GR1+GR2 made **0 page wording changes**; GR3 changed only **`Kaarmegam` → `Karmegam` on scans 313–314**; status changes remain **0**.
+- GR4 **322–333 / 305–316 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
+- cumulative glossary reconciliation: **111/111 COMPLETE / CLOSED**;
+- English pages remain **111 `source-checked`**; GR1+GR2 made **0 page wording changes**; GR3 changed only **`Kaarmegam` → `Karmegam` on scans 313–314**; GR4 changed only the controlled Chapter 109 and Chapter 4 labels on scans **327** and **331**; status changes remain **0**.
 
 GR2 added the Part-003-first chapter controls **Poverty**, **Self-Control**, **Renouncing Modesty**, **Good Conduct**, **Knowing One's Strength**, and **Seeking the Support of the Great**; mapped three source-form variants to existing chapter controls; refined context for `பாவம்`, `தேன்மொழி`, and descriptive `புணர்ச்சி மகிழ்தல்`; and recorded recurring GR2 narrative/literary names. No Tamil archival record changed.
 
 ## Current frontier
 
-Exact next activity: **Part 003 English glossary reconciliation GR4 — scans 322–333 / printed 305–316, final 12 pages**.
+Exact next activity: **Part 003 English Editorial Review ER1 — scans 223–255 / printed 206–238, 33 pages**.
 
-Use `GLOSSARY.md` and audited Tamil context to reconcile recurring names, literary/structural terms, publication names, chapter labels, citation metadata and repeated English renderings. Add glossary entries only when evidenced in the active source. This gate does **not** promote pages to `editorial-reviewed`; pages remain `source-checked` until editorial review.
+Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity. Consult audited Tamil whenever an editorial change could affect meaning. Passing pages may move from `source-checked` to `editorial-reviewed`.
 
-If GR4 passes, glossary reconciliation becomes **111/111 COMPLETE / CLOSED** and the next gate is **English Editorial Review ER1 — scans 223–255 / printed 206–238, 33 pages**. Part 004 remains blocked until the maintained Part-003 English workflow and final Part closure checkpoint are complete.
+If ER1 passes, the next editorial batch is **ER2 — scans 256–288 / printed 239–271, 33 pages**. Part 004 remains blocked until the maintained Part-003 English workflow and final Part closure checkpoint are complete.
 
 See `TRANSLATION_STATUS.md` for the authoritative detailed frontier.

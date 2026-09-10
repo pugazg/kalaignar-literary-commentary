@@ -172,28 +172,33 @@ The SC4 page-only comparison from `dee2c0f50ed3017f9ab07e462caaba15cafd0a2f` to 
 
 The incoming **321→322 boundary is CLEAN**. The internal **332→333** relationship remains a genuine continuation closed on scan 333. Part 003 ends at scan **333 / printed 316**; external **333→334** remains deferred until Part 004 source intake.
 
-## Part 003 English glossary reconciliation — IN PROGRESS
+## Part 003 English glossary reconciliation — COMPLETE / CLOSED
 
 - **GR1: scans 223–255 / printed 206–238 — COMPLETE / PASS 33/33**;
 - **GR2: scans 256–288 / printed 239–271 — COMPLETE / PASS 33/33**;
 - **GR3: scans 289–321 / printed 272–304 — COMPLETE / PASS 33/33**;
-- cumulative glossary reconciliation: **99/111**;
-- remaining glossary-reconciliation pages: **12**;
+- **GR4: scans 322–333 / printed 305–316 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
+- cumulative glossary reconciliation: **111/111 COMPLETE / CLOSED**;
+- remaining glossary-reconciliation pages: **0**;
 - English page state remains **111 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**;
-- English page wording changes during GR1+GR2: **0**; GR3: **2 page files (scans 313–314), `Kaarmegam` → `Karmegam` only**;
-- page status changes during GR1+GR2+GR3: **0**;
-- Tamil page / metadata changes during GR1+GR2+GR3: **0**.
+- English page wording changes during GR1+GR2: **0**; GR3: **2 page files (scans 313–314), `Kaarmegam` → `Karmegam` only**; GR4: **2 page files (scans 327 and 331), controlled chapter-label reconciliation only**;
+- page status changes during GR1+GR2+GR3+GR4: **0**;
+- Tamil page / metadata changes during GR1+GR2+GR3+GR4: **0**.
 
 GR2 checked all **16** Chapter/Kural metadata records in scans **256–288** with **0 numeric or controlled-label mismatches**. Six Part-003-first chapter controls were added: **Poverty**, **Self-Control**, **Renouncing Modesty**, **Good Conduct**, **Knowing One's Strength**, and **Seeking the Support of the Great**. Existing controls were extended to the source forms `காதற்சிறப்புரைத்தல்`, `கனவுநிலை உரைத்தல்`, and `அவர்வயின்விதும்பல்`. Contextual controls were refined for `பாவம்`, `தேன்மொழி`, and descriptive `புணர்ச்சி மகிழ்தல்`, and recurring GR2 narrative/literary names were recorded. No English page wording required correction.
 
 GR3 checked all **17** Chapter/Kural metadata records in scans **289–321** with **0 numeric or controlled-label mismatches**. It added **Renunciation** and **Cherishing Kindred**, mapped three source-form variants to established chapter controls, recorded recurring GR3 names and the source-printed lexical glosses on scans **293, 310, and 321**, and reconciled `கார்மேகம்` to the existing **Karmegam** spelling on English scans **313–314**. No page status or Tamil record changed.
 
-## Current frontier — Part 003 English glossary reconciliation GR4
+GR4 checked all **6** Chapter/Kural metadata records in scans **322–333**. All chapter/Kural numbers matched the audited Tamil records. Two controlled-label inconsistencies were reconciled: scan **327** Chapter 109 to **The Bewildering Power of Beauty**, and scan **331** Chapter 4 to **The Insistence on Virtue**. It added the Part-003-first chapter controls **Wealth Without Beneficence** and **Avoiding Tyrannical Severity**, recorded final-range source-evidenced names/context controls, and made no page-status or Tamil-record change.
 
-Exact next activity: **glossary / recurring-terminology reconciliation scans 322–333 / printed 305–316 — final 12 page-aligned records**.
+**Part 003 English glossary reconciliation is now COMPLETE / CLOSED — 111/111.**
 
-Compare recurring names, work/section names, controlled literary terms, publication names, chapter labels, citation metadata and repeated English renderings against `GLOSSARY.md` and audited Tamil context. Update `GLOSSARY.md` only for terms actually evidenced in the active source. Do not mechanically force one English word where context requires a different rendering, and do not import terminology from external editions, web sources or memory.
+## Current frontier — Part 003 English Editorial Review ER1
 
-This gate does **not** promote `source-checked` pages to `editorial-reviewed`; passing pages remain `source-checked` until the later editorial-review gate. If GR4 passes, glossary reconciliation becomes **111/111 COMPLETE / CLOSED** and the exact next gate is **Part 003 English Editorial Review ER1 — scans 223–255 / printed 206–238, 33 pages**. Do not begin editorial review during GR4.
+Exact next activity: **editorial review scans 223–255 / printed 206–238 — 33 page-aligned records**.
+
+Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity. Consult the matching audited Tamil whenever an editorial change could affect meaning. Make only source-faithful editorial improvements. Passing pages may move from `source-checked` to `editorial-reviewed`.
+
+Do not begin Part-level review or release work during ER1. After ER1 passes, the next editorial batch is **ER2 scans 256–288 / printed 239–271, 33 pages**.
 
 Part 004 remains blocked until Part 003 completes glossary reconciliation, editorial review, Part review, release report/release-ready synchronization and the final Part closure checkpoint.

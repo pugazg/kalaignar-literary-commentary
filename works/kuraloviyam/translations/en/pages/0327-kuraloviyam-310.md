@@ -32,6 +32,6 @@ Iniyan embraced Ezhini and laughed aloud. “Do not worry! I too have already me
 > Until now I knew not what Death was; now I know—  
 > it is the great battle in the eyes of a womanly beauty.
 
-Chapter 109 — Bewilderment at Her Beauty; Kural 1083
+Chapter 109 — The Bewildering Power of Beauty; Kural 1083
 
 <!-- Source scan page: 327; printed page: 310; closes Ezhini / Iniyan 'Yama' love vignette; Chapter 109 / Kural 1083; 327→328 clean -->
