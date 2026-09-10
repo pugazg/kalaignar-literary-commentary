@@ -172,10 +172,12 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 - project-created English drafting: **111/111 COMPLETE / CLOSED**;
 - English source-check: **111/111 COMPLETE / CLOSED**;
 - English glossary reconciliation: **COMPLETE / CLOSED — 111/111**;
-- English editorial review: **COMPLETE / CLOSED — 111/111**; Part-level English review: **PASS / CLOSED**; English release: **APPROVED / CLOSED — 111/111 release-ready**; final Part 003 closure checkpoint next.
+- English editorial review: **COMPLETE / CLOSED — 111/111**; Part-level English review: **PASS / CLOSED**; English release: **APPROVED / CLOSED — 111/111 release-ready**; final Part checkpoint: **PASS / CLOSED**.
 
 ### Exact next content stage
 
-Perform the **final Part 003 closure checkpoint/documentation confirmation**. Confirm Tamil remains ARCHIVAL-READY / CLOSED, the maintained English workflow is RELEASE COMPLETE / CLOSED at **111/111 `release-ready`**, the Part-level review and release report both pass, live controls agree, and there are no residual temporary execution files or open Part-003 gates.
+**Part 003 is fully CLOSED — Tamil + maintained English.** Durable final checkpoint: `works/kuraloviyam/PART_003_FINAL_CLOSURE.md`.
 
-Do not begin Part 004 inside this checkpoint. External **333→334** remains deferred until Part 004 source intake. After the final Part 003 checkpoint closes, Part 004 may begin only when its controlling source is supplied.
+The next content stage is **Part 004 source intake, only when its controlling source is supplied/onboarded**. At intake, establish the exact Part 004 source identity and local page count, continue repository `scan_page` at overall scan **334**, and resolve the deferred **333→334** split boundary from the actual adjacent source before transcription.
+
+Do not infer Part 004 filename, printed-page boundary, body text, illustration state or continuity before that source is supplied.

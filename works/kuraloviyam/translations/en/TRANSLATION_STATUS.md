@@ -254,6 +254,21 @@ Final result:
 
 All 111 page-layer modifications are status-token-only promotions from `editorial-reviewed` to `release-ready`. The Part 003 internal ending at scan 333 remains closed; external **333→334** remains deferred until Part 004 source intake.
 
-## Current frontier — final Part 003 closure checkpoint
+## Part 003 final closure — PASS / CLOSED
 
-Confirm all Tamil and maintained-English gates are closed, the review and release reports are present, all 111 English pages are release-ready, live documentation is synchronized, and no temporary execution files remain. Do not begin Part 004 inside this checkpoint.
+Durable final checkpoint: `works/kuraloviyam/PART_003_FINAL_CLOSURE.md`.
+
+Final Part 003 English state remains:
+
+- `release-ready`: **111/111**;
+- `editorial-reviewed`: **0**;
+- `source-checked`: **0**;
+- `draft`: **0**;
+- `source-limited`: **0**;
+- `blocked`: **0**.
+
+No English page record or Tamil record changed during the final closure checkpoint. The Part-level review and release report remain **PASS / APPROVED / CLOSED**.
+
+## Current frontier — Part 004 source intake
+
+Part 004 has not started. Its English layer remains blocked until the Part 004 controlling source is supplied, source intake is completed, and the Tamil archival layer reaches its required checkpoint. External **333→334** remains deferred until the actual Part 004 intake.

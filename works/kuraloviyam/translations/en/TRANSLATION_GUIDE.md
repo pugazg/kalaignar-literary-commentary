@@ -243,3 +243,27 @@ Durable release report: `reviews/PART_002_ENGLISH_RELEASE_REPORT.md` — **APPRO
 The internal Part ending at scan **222** is closed. The external **222→223** split boundary remains deferred until Part 003 intake.
 
 Final Part 002 checkpoint: **PASS / CLOSED**. The next activity is **Part 003 source intake when the controlling source is supplied**, beginning with source identity and the real 222→223 boundary before continuing at overall scan **223**.
+
+## 15. Part 003 closed English record
+
+Part 003 covers scans **223–333 / printed 206–316**.
+
+- Tamil: **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified / 0 exceptions**;
+- first-pass drafting: **COMPLETE / CLOSED 111/111**;
+- source-check: **COMPLETE / CLOSED 111/111**;
+- glossary reconciliation: **COMPLETE / CLOSED 111/111**;
+- editorial review: **COMPLETE / CLOSED 111/111**;
+- Part-level review: **PASS / CLOSED**;
+- release report: **APPROVED / CLOSED**;
+- release-ready: **111/111 COMPLETE / CLOSED**;
+- final Part checkpoint: **PASS / CLOSED**.
+
+Durable records:
+
+- `reviews/PART_003_ENGLISH_REVIEW.md`;
+- `reviews/PART_003_ENGLISH_RELEASE_REPORT.md`;
+- `../../PART_003_FINAL_CLOSURE.md`.
+
+All release page changes were status-token-only; approved English wording and Tamil archival records were unchanged. The internal Part ending at scan **333** is closed. External **333→334** remains deferred until Part 004 source intake.
+
+The next content stage is **Part 004 source intake when the controlling source is supplied**, after which the same permanent Tamil→English gate order applies.

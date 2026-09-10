@@ -42,7 +42,7 @@ Read completely before changing anything:
 - Part 003 English source-check SC3: **COMPLETE 33/33 — scans 289–321 / printed 272–304**.
 - Part 003 English source-check SC4: **COMPLETE 12/12 — scans 322–333 / printed 305–316 / FINAL REMAINDER**.
 - cumulative source-check: **111/111 COMPLETE / CLOSED**.
-- current Part-003 English state: **111 `release-ready` / 0 `editorial-reviewed` / 0 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**.
+- current Part-003 English state: **111 `release-ready` / 0 `editorial-reviewed` / 0 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**; final Part checkpoint **PASS / CLOSED**.
 - remaining undrafted pages: **0**.
 - glossary reconciliation: **111/111 COMPLETE / CLOSED**.
 - editorial review: **111/111 COMPLETE / CLOSED**; Part-level review: **PASS / CLOSED**; English release: **APPROVED / CLOSED — 111/111 release-ready**.
@@ -138,15 +138,21 @@ GR2 verified all 16 Chapter/Kural metadata records in its range with 0 numeric o
 - release report: **APPROVED / CLOSED**; durable record `works/kuraloviyam/translations/en/reviews/PART_003_ENGLISH_RELEASE_REPORT.md`.
 - final English state: **111/111 `release-ready`**; release body-text changes **0**; Tamil changes **0**.
 
-## Exact next activity — final Part 003 closure checkpoint
+## Part 003 final closure — PASS / CLOSED
 
-1. fetch live `main` first and preserve newer durable work;
-2. confirm Part 003 Tamil remains ARCHIVAL-READY / CLOSED at 111 textual + 111 visual verified / 0 exceptions;
-3. confirm English drafting, source-check, glossary reconciliation and editorial review are each 111/111 COMPLETE / CLOSED;
-4. confirm `PART_003_ENGLISH_REVIEW.md` is PASS and `PART_003_ENGLISH_RELEASE_REPORT.md` is APPROVED / CLOSED;
-5. confirm exactly 111 English pages are `release-ready`, with zero pages in every earlier status;
-6. confirm all live controls agree and temporary execution files are absent;
-7. record the final Part 003 closure checkpoint without changing Tamil or approved English wording;
-8. do not begin Part 004 in the same gate; external **333→334** remains deferred until Part 004 source intake.
+Durable record: `works/kuraloviyam/PART_003_FINAL_CLOSURE.md`.
 
-After the checkpoint closes, Part 004 may begin only when its controlling source is supplied/onboarded.
+Part 003 Tamil + maintained English are fully closed. English final state is **111/111 `release-ready`**. No Tamil or English page record changed during final closure.
+
+## Exact next activity — Part 004 source intake, when supplied
+
+Do **not** invent the Part 004 filename or begin source-dependent work until its controlling source is supplied/onboarded.
+
+When it is supplied:
+
+1. fetch live `main` first and preserve the Part 003 final closure;
+2. establish exact filename, page count, byte size and SHA-256;
+3. confirm repository scan numbering continues at overall scan **334**;
+4. inspect the actual first Part 004 scan against closed scan 333 and resolve **333→334**;
+5. then begin Part 004 Tamil source intake and continue the permanent archival workflow;
+6. keep Parts 001–003 closed unless a genuinely new provenance/fidelity issue appears.

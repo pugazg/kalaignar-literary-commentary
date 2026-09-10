@@ -123,6 +123,12 @@ Durable release report: `reviews/PART_003_ENGLISH_RELEASE_REPORT.md`.
 
 All **111/111** eligible Part-003 English pages are now `release-ready`. The release changed only the page status token; approved wording and all Tamil records remain unchanged.
 
+## Part 003 final closure — PASS / CLOSED
+
+Durable final checkpoint: `../../PART_003_FINAL_CLOSURE.md`.
+
+Part 003 maintained English is **RELEASE COMPLETE / CLOSED — 111/111 `release-ready`**. The final checkpoint changed no English page wording/status and no Tamil record.
+
 ## Current frontier
 
-Exact next activity: **final Part 003 closure checkpoint/documentation confirmation**. Verify all gates and controls agree on the closed state and no temporary execution files remain. Do not begin Part 004 in this gate; external **333→334** remains deferred until Part 004 intake.
+Part 004 English work is blocked until Part 004 completes its Tamil archival workflow. The immediate next activity for the work is **Part 004 source intake when the controlling source is supplied**. External **333→334** remains deferred until that intake.

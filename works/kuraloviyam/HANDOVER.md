@@ -148,8 +148,21 @@ Durable report: `works/kuraloviyam/translations/en/reviews/PART_003_ENGLISH_RELE
 
 All **111** eligible English pages were promoted from `editorial-reviewed` to `release-ready` with status-token-only changes. Approved body wording changed on **0** pages; Tamil changes: **0**.
 
-## Exact next activity — final Part 003 closure checkpoint
+## Part 003 final closure — PASS / CLOSED
 
-Confirm the full Part 003 workflow is durably closed: Tamil archival-ready, English drafting/source-check/glossary/editorial review complete, Part-level review PASS, release APPROVED, exactly **111 `release-ready`** English pages, synchronized controls, and no temporary execution files.
+Durable final checkpoint: `works/kuraloviyam/PART_003_FINAL_CLOSURE.md`.
 
-Do not begin Part 004 during this checkpoint. External **333→334** remains deferred until Part 004 source intake. After closure, Part 004 may begin only when its controlling source is supplied.
+Part 003 Tamil and maintained English are now fully closed. English is **111/111 `release-ready`**; the Part-level review is PASS; the release report is APPROVED / CLOSED; no Tamil or English page record changed during the final checkpoint.
+
+## Exact next activity — Part 004 source intake
+
+Part 004 is **not started**. Begin it only when the controlling Part 004 source is supplied/onboarded.
+
+At intake:
+
+1. fetch live `main` and preserve this Part 003 closure;
+2. establish the exact supplied Part 004 filename, local page count, byte size and SHA-256;
+3. map it to overall scans beginning at **334** without restarting `scan_page`;
+4. compare the actual first Part 004 scan with closed scan 333 and resolve **333→334**;
+5. only then begin Part 004 Tamil source intake / archival workflow;
+6. do not reopen Parts 001–003 unless a genuinely new source/provenance/fidelity issue appears.

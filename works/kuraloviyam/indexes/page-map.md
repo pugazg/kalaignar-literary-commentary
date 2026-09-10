@@ -8,7 +8,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
 | 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready; final Part 003 closure checkpoint next** |
+| 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **Tamil + English CLOSED — final checkpoint PASS / CLOSED; 111/111 English release-ready** |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
 | 006 | 556–666 | 1–111 | not yet inspected | not-started |
