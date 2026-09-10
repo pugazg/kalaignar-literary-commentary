@@ -34,15 +34,37 @@ Durable page commits, in order:
 
 The scan 344 record explicitly preserves the genuine continuation to scan 345 / printed 328; scan 345 was inspected only as the outgoing boundary witness and no scan-345 page record was created in P4-01.
 
+## P4-02 state
+
+**11 / 11 page records captured — COMPLETE.**
+
+P4-02 scans **345–355 / printed 328–338** are now captured as one page-aligned Tamil Pass-1 record per physical scan. The records carry `part: 4`, `part_page: 12–22`, source-visible printed pages, `status: "needs-review"`, and `visual_fidelity: "needs-review"`.
+
+Durable page commits, in order:
+
+- scan 345 — `e9105856b1564f8c868d43b799dd462bfc80c1b8`;
+- scan 346 — `8d51b43b053ddd8783b11883e1178f4105fd2206`;
+- scan 347 — `05e4fbcdb7152542bce936e177b81a67795655cd`;
+- scan 348 — `7e42aca4cbf5ef411f92ae7e5d103ab9df8eeb26`;
+- scan 349 — `381f283f0dfbfc8d7b83dd28434d85d8aa72d84d`;
+- scan 350 — `9ede08bba91ca3bcff2117896b223bf7cea8af95`;
+- scan 351 — `7c3e5e3e8e3f040eb986ecfc2b46bc05bf8020af`;
+- scan 352 — `b1f4b3c2660c5ff477af02698d7100ad62fdde64`;
+- scan 353 — `e6c61a3687c60c62bcc4089ad8f1290c16c2cfd4`;
+- scan 354 — `f16d6ca6a4dac2ad06a4f4288491e17928157882`;
+- scan 355 — `bb77275555990e9cd089d06c56dca9d97644afc5`.
+
+Outgoing boundary witness: scan **356 / printed 339** was inspected directly and starts a new large illustrated forest-lovers vignette. Therefore **355→356 is CLEAN**; scan 356 was not created during P4-02.
+
 ## Pass 1 state
 
-**11 / 111 page records captured.** P4-01 is complete; do not recapture or overwrite these 11 durable records merely because an older handover or prompt still says 0/111.
+**22 / 111 page records captured.** P4-01 and P4-02 are complete; do not recapture or overwrite these 22 durable records merely because an older handover or prompt reports an earlier frontier.
 
 Planned batches:
 
 - P4-01: **334–344 / printed 317–327 — COMPLETE 11/11**;
-- P4-02: **345–355 / printed 328–338 — NEXT**;
-- P4-03: **356–366 / printed 339–349**;
+- P4-02: **345–355 / printed 328–338 — COMPLETE 11/11**;
+- P4-03: **356–366 / printed 339–349 — NEXT**;
 - P4-04: **367–377 / printed 350–360**;
 - P4-05: **378–388 / printed 361–371**;
 - P4-06: **389–399 / printed 372–382**;
@@ -56,4 +78,4 @@ At the supplied Part endpoint, scan 444 begins a new illustrated royal/court nar
 
 ## Exact next activity
 
-Process **P4-02 — scans 345–355 / printed 328–338** as 11 page-aligned Tamil Pass-1 records. Inspect each rendered source page directly, preserve source wording/paragraphs/Kural blocks/visual relationships, use `needs-review` for both textual and visual status, and inspect scan 356 only if required to settle the outgoing batch boundary.
+Process **P4-03 — scans 356–366 / printed 339–349** as 11 page-aligned Tamil Pass-1 records. Inspect each rendered source page directly, preserve source wording/paragraphs/Kural blocks/visual relationships, use `needs-review` for both textual and visual status, and inspect scan 367 only if required to settle the outgoing batch boundary.
