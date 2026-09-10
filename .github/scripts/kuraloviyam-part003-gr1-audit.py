@@ -7,7 +7,6 @@ TA = ROOT / 'pages'
 GLOSSARY = ROOT / 'translations/en/GLOSSARY.md'
 OUT = Path('.github/tmp/kuraloviyam-part003-gr1-audit.txt')
 FINDINGS = Path('.github/tmp/kuraloviyam-part003-gr1-findings.txt')
-
 TAMIL_RANGE = r'\u0B80-\u0BFF'
 
 
@@ -48,10 +47,15 @@ def default_candidates(cell: str):
 
 
 def parse_ta_chapter(line: str):
-    m = re.search(r'அதிகாரம்\s*-\s*(\d+)\s*-\s*([^;]+);\s*பாடல்கள்?\s*-\s*(.+)$', line)
-    if not m:
+    try:
+        left, right = line.split(';', 1)
+        lm = re.search(r'அதிகாரம்\s*-\s*(\d+)\s*-\s*(.+)$', left.strip())
+        if not lm or '-' not in right:
+            return None
+        nums = right.split('-', 1)[1].strip()
+        return lm.group(1), lm.group(2).strip(), nums
+    except ValueError:
         return None
-    return m.group(1), m.group(2).strip(), m.group(3).strip()
 
 
 def parse_en_chapter(line: str):
@@ -69,6 +73,7 @@ for ta_cell, en_cell in glossary:
 
 chapter_findings = []
 chapter_flags = []
+missing_chapter_labels = []
 term_hits = []
 possible_misses = []
 
@@ -106,6 +111,8 @@ for scan in range(223, 256):
             candidates = default_candidates(default)
             if candidates and not any(elabel.lower() == c.lower() for c in candidates):
                 chapter_flags.append((scan, f'chapter label {tlabel} => {elabel}; glossary default {default}'))
+        else:
+            missing_chapter_labels.append((scan, tlabel, elabel))
 
     for ta_cell, en_cell in glossary:
         hit_variant = next((v for v in variants(ta_cell) if v and occurs_as_term(ta, v)), None)
@@ -134,6 +141,15 @@ if chapter_flags:
         lines.append(f'{scan}: {msg}')
 else:
     lines.append('[none]')
+lines.extend(['', 'CHAPTER LABELS EVIDENCED BUT NOT YET IN GLOSSARY'])
+if missing_chapter_labels:
+    seen = set()
+    for item in missing_chapter_labels:
+        if item not in seen:
+            seen.add(item)
+            lines.append(f'{item[0]}: {item[1]} => {item[2]}')
+else:
+    lines.append('[none]')
 lines.extend(['', 'GLOSSARY TERMS EVIDENCED IN RANGE'])
 seen = set()
 for item in term_hits:
@@ -148,15 +164,15 @@ for item in possible_misses:
         lines.append(f'{item[0]}: {item[1]} => expected/context default {item[2]}')
 if not possible_misses:
     lines.append('[none]')
-
 OUT.parent.mkdir(parents=True, exist_ok=True)
 OUT.write_text('\n'.join(lines) + '\n', encoding='utf-8')
 
 f = [
     'KURALOVIYAM PART 003 ENGLISH GR1 — COMPACT FINDINGS',
-    f'pages audited: 33',
+    'pages audited: 33',
     f'chapter/Kural metadata lines: {sum(len(t) for _, t, _ in chapter_findings)}',
     f'chapter/control flags: {len(chapter_flags)}',
+    f'missing chapter labels: {len(set((t, e) for _, t, e in missing_chapter_labels))}',
     f'glossary term hits: {len(term_hits)}',
     f'possible context/default flags: {len(possible_misses)}',
     '',
@@ -166,6 +182,15 @@ if chapter_flags:
     for scan, msg in chapter_flags:
         f.append(f'{scan}: {msg}')
 else:
+    f.append('[none]')
+f.extend(['', 'MISSING CHAPTER LABELS:'])
+seen = set()
+for _, tlabel, elabel in missing_chapter_labels:
+    pair = (tlabel, elabel)
+    if pair not in seen:
+        seen.add(pair)
+        f.append(f'{tlabel} => {elabel}')
+if not seen:
     f.append('[none]')
 f.extend(['', 'TERM FLAGS:'])
 seen = set()
