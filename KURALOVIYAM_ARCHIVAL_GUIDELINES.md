@@ -179,12 +179,12 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 - Pass 3: **COMPLETE — 111/111**;
 - Part audit: **PASS** — durable record `works/kuraloviyam/PART_003_AUDIT.md`;
 - final metadata/status synchronization: **PASS / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions** — durable record `works/kuraloviyam/PART_003_FINAL_STATUS_SYNC.md`;
-- documentation synchronization: **NEXT / not-started**;
-- Tamil archival-ready checkpoint: **not-started**;
+- documentation synchronization: **COMPLETE** — durable record `works/kuraloviyam/PART_003_DOCUMENTATION_SYNC.md`;
+- Tamil archival-ready checkpoint: **NEXT / not-started**;
 - internal **332→333 genuine continuation is closed**;
 - external **333→334** remains deferred until Part 004 intake;
 - English remains blocked until Tamil archival closure.
 
 ### Exact next content stage
 
-Perform **Part 003 documentation synchronization**. Reconcile the live Part-003 overview, handovers, page map, workflow guide, prompt and relevant metadata/control files against the closed audit and final-status records. Preserve historical gate statements, remove stale live-frontier claims that records remain `needs-review` or that status sync is pending, confirm **111 textual verified + 111 visual verified / 0 exceptions**, and audit the documentation-only changed-file set. After documentation synchronization passes, the separate **Tamil archival-ready checkpoint** is next. English remains blocked until Tamil archival closure; external **333→334** remains deferred until Part 004 source intake.
+Perform the separate **Part 003 Tamil archival-ready checkpoint**. Confirm the closed audit, final-status and documentation-sync records; verify **111 textual verified + 111 visual verified / 0 exceptions**; follow `works/kuraloviyam/PART_002_TAMIL_ARCHIVAL_READY.md` as precedent; and create `works/kuraloviyam/PART_003_TAMIL_ARCHIVAL_READY.md` without reopening or changing the Tamil page layer. English remains blocked until Tamil archival closure; external **333→334** remains deferred until Part 004 source intake.

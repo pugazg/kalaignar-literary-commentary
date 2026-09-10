@@ -4,7 +4,7 @@
 
 The rendered scan is the lexical, structural and physical-page authority.
 
-Part 001 has no usable parsed text layer. Do not treat OCR, inferred text or model memory as source text.
+Parts 001–003 have no usable parsed text layer. Do not treat OCR, inferred text or model memory as source text.
 
 ## Pass 1
 
@@ -47,6 +47,6 @@ Handwriting/signatures/library marks are separate from printed text. If handwrit
 
 ## Later gates
 
-`verified` is unavailable until both textual and meaningful visual-text verification have passed against the rendered source.
+`verified` is unavailable until textual verification, independent lexical-fidelity verification, meaningful visual-text verification and the Part audit have closed, followed by the dedicated final metadata/status synchronization.
 
-A 111-page part becomes archival-ready only after its explicit part audit passes.
+A 111-page Part becomes archival-ready only after its audit, final metadata/status synchronization and documentation synchronization have all closed and the separate Tamil archival-ready checkpoint passes.

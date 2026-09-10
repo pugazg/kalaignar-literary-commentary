@@ -10,7 +10,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
 | 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | **source intake + Pass 1 + Pass 2A + Pass 2B + Pass 3 COMPLETE — 111/111; Part audit PASS; final metadata/status sync PASS / CLOSED — 111/111 textual + visual verified; documentation sync NEXT** |
+| 003 | 223–333 | **source intake + Pass 1 + Pass 2A + Pass 2B + Pass 3 COMPLETE — 111/111; Part audit PASS; final metadata/status sync PASS / CLOSED — 111/111 textual + visual verified; documentation sync COMPLETE; Tamil archival-ready NEXT** |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
 | 006 | 556–666 | not-started |
@@ -33,7 +33,7 @@ Tamil is **ARCHIVAL-READY / CLOSED** at **111 textual verified + 111 visual veri
 
 Maintained English is **RELEASE COMPLETE / CLOSED — 111/111 `release-ready`**. Durable review and release records are under `translations/en/reviews/`.
 
-## Part 003 — SOURCE INTAKE + PASS 1 + PASS 2A + PASS 2B + PASS 3 COMPLETE / AUDIT PASS / FINAL STATUS SYNC PASS / DOCUMENTATION SYNC NEXT
+## Part 003 — SOURCE INTAKE + PASS 1 + PASS 2A + PASS 2B + PASS 3 COMPLETE / AUDIT PASS / FINAL STATUS SYNC PASS / DOCUMENTATION SYNC COMPLETE / TAMIL ARCHIVAL-READY NEXT
 
 Controlling source:
 
@@ -162,6 +162,12 @@ The metadata-only change set was audited from `56cbca5a1eaf85f37d764969f36fb3b85
 
 Durable final-status record: `PART_003_FINAL_STATUS_SYNC.md`.
 
+### Part 003 documentation synchronization
+
+**COMPLETE.** The live overview, handovers, page map, archival guideline, next-chat prompt, source metadata and transcription policy are synchronized to the closed Part-003 audit and final-status state. Historical phase statements are retained as history; the live state is **111 textual verified + 111 visual verified / 0 partial / 0 source-limited / 0 needs-review / 0 unresolved status exceptions**.
+
+Durable documentation-sync record: `PART_003_DOCUMENTATION_SYNC.md`.
+
 ## Current frontier
 
-**Next activity: Part 003 documentation synchronization.** Reconcile all live Part-003 control documents against the closed audit and final-status record; eliminate stale `needs-review` / “final sync next” frontier claims while preserving phase-history statements; confirm the final distribution **111 textual verified + 111 visual verified / 0 exceptions**; then make the separate Tamil archival-ready checkpoint the next gate. English remains blocked until Tamil closure. External **333→334** remains deferred until Part 004 intake.
+**Next activity: Part 003 Tamil archival-ready checkpoint.** Follow `PART_002_TAMIL_ARCHIVAL_READY.md` as precedent, confirm the complete closed evidence chain and final **111 textual verified + 111 visual verified / 0 exceptions** distribution, create `PART_003_TAMIL_ARCHIVAL_READY.md`, and do not alter Tamil wording, Kural text, page structure or page metadata. English remains blocked until that Tamil checkpoint closes. External **333→334** remains deferred until Part 004 source intake.

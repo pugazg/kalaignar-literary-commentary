@@ -17,7 +17,7 @@ The original source PDF is reported as **666 physical PDF pages**. Because the o
 |---|---:|---:|---|---|
 | 001 | 1–111 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | supplied; Tamil/English closed |
 | 002 | 112–222 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | supplied; Tamil/English closed |
-| 003 | 223–333 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf` | **supplied; source intake PASS / COMPLETE; Pass 1 ACTIVE — 11/111** |
+| 003 | 223–333 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf` | **supplied; source intake + Pass 1 + Pass 2A + Pass 2B + Pass 3 COMPLETE; audit PASS; final status sync PASS / CLOSED; documentation sync COMPLETE; Tamil archival-ready NEXT** |
 | 004 | 334–444 | 111 | not yet supplied / exact filename not yet established | not-started |
 | 005 | 445–555 | 111 | not yet supplied / exact filename not yet established | not-started |
 | 006 | 556–666 | 111 | not yet supplied / exact filename not yet established | not-started |
@@ -102,7 +102,7 @@ Detailed Part 003 intake record:
 
 `works/kuraloviyam/SOURCE_INTAKE_PART_003.md`
 
-Current user-directed Part 003 Pass 1 cadence is **11 physical scans per normal iteration**. P3-01 scans **223–233 / printed 206–216** are complete; **233→234 is a genuine continuation**. The exact next batch is **234–244 / printed 217–227**. Remaining normal 11-scan batches continue through 322–332, with scan 333 as the final one-page remainder. These are workflow boundaries only.
+Historical Part-003 Pass-1 cadence was **11 physical scans per normal iteration**, followed by a one-page final remainder at scan 333. Pass 1, Pass 2A, Pass 2B and Pass 3 are now complete; the Part audit passed; final metadata/status synchronization closed all 111 records as textual and visual `verified`; documentation synchronization is complete. The next gate is the separate Tamil archival-ready checkpoint.
 
 ## Front-matter observations
 

@@ -8,7 +8,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
 | 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **SOURCE INTAKE + Pass 1 + Pass 2A + Pass 2B + Pass 3 COMPLETE — 111/111; Part audit PASS; final metadata/status sync PASS / CLOSED — 111 textual + 111 visual verified; documentation sync NEXT** |
+| 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **SOURCE INTAKE + Pass 1 + Pass 2A + Pass 2B + Pass 3 COMPLETE — 111/111; Part audit PASS; final metadata/status sync PASS / CLOSED — 111 textual + 111 visual verified; documentation sync COMPLETE; Tamil archival-ready NEXT** |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
 | 006 | 556–666 | 1–111 | not yet inspected | not-started |
@@ -268,7 +268,7 @@ Part 003 audit:
 - carried `partial`, `blocked` or source-limited Tamil exceptions: **0**;
 - premature status promotion: **0**;
 - Tamil body-text changes during audit: **0**;
-- all Part 003 records remain `needs-review` / `visual_fidelity: needs-review` pending final metadata/status synchronization.
+- at audit close, all Part 003 records still remained `needs-review` / `visual_fidelity: needs-review`; the subsequent final metadata/status synchronization promoted all 111 records to textual and visual `verified` without changing Tamil wording or structure.
 
 ## Additional physical notes
 
@@ -364,8 +364,8 @@ Part 003:
 - Pass 3 — **COMPLETE, 111/111 through scan 333 / printed 316**;
 - Part audit — **PASS**;
 - final metadata/status synchronization — **PASS / CLOSED, 111 textual verified + 111 visual verified / 0 exceptions**;
-- documentation synchronization — **NEXT / not-started**;
-- Tamil archival-ready — not-started;
+- documentation synchronization — **COMPLETE**;
+- Tamil archival-ready — **NEXT / not-started**;
 - English — blocked until Tamil closure.
 
 ## Current frontier
@@ -374,6 +374,6 @@ Part 003:
 
 **Part 002: Tamil + English CLOSED.**
 
-**Part 003: SOURCE INTAKE + PASS 1 + PASS 2A + PASS 2B + PASS 3 COMPLETE — 111/111; PART AUDIT PASS; FINAL METADATA/STATUS SYNC PASS / CLOSED — 111 TEXTUAL + 111 VISUAL VERIFIED; DOCUMENTATION SYNC NEXT.**
+**Part 003: SOURCE INTAKE + PASS 1 + PASS 2A + PASS 2B + PASS 3 COMPLETE — 111/111; PART AUDIT PASS; FINAL METADATA/STATUS SYNC PASS / CLOSED — 111 TEXTUAL + 111 VISUAL VERIFIED; DOCUMENTATION SYNC COMPLETE; TAMIL ARCHIVAL-READY NEXT.**
 
-Exact next activity: **Part 003 documentation synchronization**. Reconcile live control documents and relevant metadata/control files against `PART_003_AUDIT.md` and `PART_003_FINAL_STATUS_SYNC.md`, preserve historical phase statements, remove stale live-frontier `needs-review` / “status sync next” claims, confirm the final **111 textual verified + 111 visual verified / 0 exceptions** distribution, and audit the documentation-only changed-file set. External **333→334** remains deferred until Part 004 source intake; English remains blocked until Tamil archival closure. After documentation synchronization passes, the separate Tamil archival-ready checkpoint is next.
+Exact next activity: **Part 003 Tamil archival-ready checkpoint**. Confirm the closed evidence chain and final **111 textual verified + 111 visual verified / 0 exceptions** distribution, follow `../PART_002_TAMIL_ARCHIVAL_READY.md` as precedent, and create `../PART_003_TAMIL_ARCHIVAL_READY.md` without changing page records. External **333→334** remains deferred until Part 004 source intake; English remains blocked until Tamil archival closure.
