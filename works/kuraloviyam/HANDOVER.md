@@ -109,6 +109,7 @@ SC4 page commit: `e07a6775513bcf1619e5d1bcb6e8222f7004f0a8`. Incoming **321→32
 
 - GR1 **223–255 / printed 206–238 — COMPLETE / PASS 33/33**;
 - GR2 **256–288 / printed 239–271 — COMPLETE / PASS 33/33**;
+- GR3 **289–321 / printed 272–304 — COMPLETE / PASS 33/33**;
 - cumulative glossary reconciliation: **99/111**;
 - all English pages remain `source-checked`; GR1+GR2 made **0 English page wording changes**; GR3 changed only **`Kaarmegam` → `Karmegam` on scans 313–314**; status changes remain **0**;
 - GR2 checked all **16** Chapter/Kural metadata records with **0 numeric or controlled-label mismatches**;
@@ -123,7 +124,7 @@ Process **scans 322–333 / printed 305–316 — final 12 PAGE-ALIGNED RECORDS*
 
 1. fetch live `main` first;
 2. confirm Part 003 Tamil remains **ARCHIVAL-READY / CLOSED**, English source-check remains **111/111 COMPLETE / CLOSED**, and glossary reconciliation remains **99/111 COMPLETE**;
-3. read `translations/en/GLOSSARY.md` and the matching English/Tamil records **0289–0321**;
+3. read `translations/en/GLOSSARY.md` and the matching English/Tamil records **0322–0333**;
 4. compare recurring names, work/section names, controlled literary terms, publication names, chapter labels, citation metadata and repeated English renderings against the glossary and audited Tamil context;
 5. update `GLOSSARY.md` only for terms actually evidenced in Part 003;
 6. do not mechanically force one English word where context requires another rendering;

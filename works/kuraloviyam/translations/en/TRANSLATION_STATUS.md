@@ -176,6 +176,7 @@ The incoming **321→322 boundary is CLEAN**. The internal **332→333** relatio
 
 - **GR1: scans 223–255 / printed 206–238 — COMPLETE / PASS 33/33**;
 - **GR2: scans 256–288 / printed 239–271 — COMPLETE / PASS 33/33**;
+- **GR3: scans 289–321 / printed 272–304 — COMPLETE / PASS 33/33**;
 - cumulative glossary reconciliation: **99/111**;
 - remaining glossary-reconciliation pages: **12**;
 - English page state remains **111 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**;

@@ -112,6 +112,7 @@ SC4 page commit: `e07a6775513bcf1619e5d1bcb6e8222f7004f0a8`.
 
 - GR1 **223–255 / printed 206–238 — 33/33 PASS**;
 - GR2 **256–288 / printed 239–271 — 33/33 PASS**;
+- GR3 **289–321 / printed 272–304 — 33/33 PASS**;
 - cumulative glossary reconciliation **99/111**;
 - current English page state remains **111 source-checked / 0 draft / 0 source-limited / 0 blocked**;
 - GR1+GR2 page wording changes **0**; GR3 wording changes **2 English files (scans 313–314), `Kaarmegam` → `Karmegam` only**; page status changes **0**; Tamil changes **0**.

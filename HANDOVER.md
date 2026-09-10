@@ -303,12 +303,12 @@ Perform **Part 003 English Glossary Reconciliation GR4 — scans 322–333 / pri
 
 1. fetch live `main`;
 2. read the Kuraloviyam mandatory controls, English `TRANSLATION_GUIDE.md`, `TRANSLATION_STATUS.md`, and `GLOSSARY.md`;
-3. confirm Tamil remains closed, source-check remains 111/111 closed, and glossary reconciliation remains 66/111 complete;
+3. confirm Tamil remains closed, source-check remains 111/111 closed, and glossary reconciliation remains **99/111 complete**;
 4. reconcile recurring names, structural/literary terms, chapter labels, citation metadata and repeated renderings against the audited Tamil context;
 5. update the glossary only for source-evidenced terms;
 6. do not import external/published/web terminology or remembered Kural wording;
-7. do not promote page statuses or begin editorial review during GR3;
+7. do not promote page statuses or begin editorial review during GR4;
 8. do not alter Tamil records;
 9. audit the exact changed-file set before advancing.
 
-If GR3 passes, cumulative glossary reconciliation becomes **99/111**; GR4 is the final **12-page remainder scans 322–333 / printed 305–316**. Part 004 remains blocked until the maintained Part-003 English workflow and final Part closure checkpoint are complete. External **333→334** remains deferred until Part 004 source intake.
+If GR4 passes, glossary reconciliation becomes **111/111 COMPLETE / CLOSED**; the next gate is **English Editorial Review ER1 — scans 223–255 / printed 206–238, 33 pages**. Part 004 remains blocked until the maintained Part-003 English workflow and final Part closure checkpoint are complete. External **333→334** remains deferred until Part 004 source intake.
