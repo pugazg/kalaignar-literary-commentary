@@ -10,7 +10,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 |---|---:|---|
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
 | 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | **source intake + Pass 1 + Pass 2A + Pass 2B COMPLETE — 111/111; Pass 3 ACTIVE — 110/111 through scan 332 / printed 315** |
+| 003 | 223–333 | **source intake + Pass 1 + Pass 2A + Pass 2B + Pass 3 COMPLETE — 111/111; Part audit NEXT** |
 | 004 | 334–444 | not-started |
 | 005 | 445–555 | not-started |
 | 006 | 556–666 | not-started |
@@ -33,7 +33,7 @@ Tamil is **ARCHIVAL-READY / CLOSED** at **111 textual verified + 111 visual veri
 
 Maintained English is **RELEASE COMPLETE / CLOSED — 111/111 `release-ready`**. Durable review and release records are under `translations/en/reviews/`.
 
-## Part 003 — SOURCE INTAKE + PASS 1 + PASS 2A + PASS 2B COMPLETE / PASS 3 ACTIVE
+## Part 003 — SOURCE INTAKE + PASS 1 + PASS 2A + PASS 2B + PASS 3 COMPLETE / AUDIT NEXT
 
 Controlling source:
 
@@ -128,7 +128,7 @@ Durable Pass-2B record: `PASS2B_LEXICAL_FIDELITY_PART_003.md`. Supplemental late
 
 ### Part 003 Pass 3 state
 
-**ACTIVE — 110 / 111 meaningful visual-text verification scans complete through scan 332 / printed 315.** User-directed cadence is **11 physical scans per iteration**.
+**COMPLETE — 111 / 111 meaningful visual-text verification scans through scan 333 / printed 316.** User-directed cadence was **11 physical scans per normal iteration**, with a one-scan final remainder.
 
 - **Batch 1: scans 223–233 / printed 206–216 — COMPLETE 11/11**; structural/visual-description correction on **scan 223 only**; scans **224–233** no structural change; **233→234 genuine continuation** reconfirmed from scan 234 witness.
 - **Batch 2: scans 234–244 / printed 217–227 — COMPLETE 11/11**; **no structural corrections**; scans **234–244** all no-change; **244→245 CLEAN** reconfirmed from scan 245 witness.
@@ -140,11 +140,13 @@ Durable Pass-2B record: `PASS2B_LEXICAL_FIDELITY_PART_003.md`. Supplemental late
 - **Batch 8: scans 300–310 / printed 283–293 — COMPLETE 11/11**; structural/visual-description corrections on **scans 302, 303**; scans **300–301, 304–310** no structural change; **310→311 CLEAN** reconfirmed from scan 311 witness.
 - **Batch 9: scans 311–321 / printed 294–304 — COMPLETE 11/11**; structural/visual-description correction on **scan 311 only**; scans **312–321** no structural change; **321→322 CLEAN** reconfirmed from scan 322 witness.
 - **Batch 10: scans 322–332 / printed 305–315 — COMPLETE 11/11**; structural/visual-description corrections on **scans 330 and 332**; scans **322–329, 331** no structural change; **332→333 genuine continuation** reconfirmed from scan 333 witness.
-- Lexical body-text changes during Pass 3 through Batch 10: **0**.
-- All records remain `needs-review` / `visual_fidelity: needs-review`.
+- **Final remainder: scan 333 / printed 316 — COMPLETE 1/1**; structural correction preserves highlighted Kural 567 as a distinct two-line set-out block and records side vertical title/footer furniture separately; lexical wording unchanged.
+- Lexical body-text changes during Pass 3: **0**.
+- Status promotions during Pass 3: **0**.
+- All records remain `needs-review` / `visual_fidelity: needs-review` pending the Part audit and final metadata/status synchronization.
 
 Durable Pass-3 record: `PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`. Supplemental Batch-9 record: `PASS3_BATCH_009.md`.
 
 ## Current frontier
 
-**Next activity: Part 003 Pass 3 / final remainder — scan 333 / printed 316, 1 scan.** Reconfirm the direct **332→333 genuine continuation**, page-level text/Kural/Chapter metadata organization and source/non-body furniture separation under the same meaningful visual-text gate. Keep `needs-review` / `visual_fidelity: needs-review`. Do not begin the Part audit until scan 333 is complete. External **333→334** remains deferred until Part 004 intake.
+**Next activity: Part 003 audit — scans 223–333 / printed 206–316, all 111 page records.** Reconcile inventory, source identity, Pass 1 / Pass 2A / Pass 2B / Pass 3 coverage, internal boundaries, unresolved exceptions, page-record metadata/status consistency and changed-file expectations against the Part-002 audit precedent. Do not promote page records until the audit passes and the later final metadata/status synchronization is explicitly performed. English remains blocked until Tamil archival closure. External **333→334** remains deferred until Part 004 intake.
