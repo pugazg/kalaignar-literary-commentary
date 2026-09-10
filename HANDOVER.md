@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 003 Tamil ARCHIVAL-READY / CLOSED; English drafting + source-check CLOSED; glossary GR1 COMPLETE 33/111, GR2 next**: **2026-09-10**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
+Last refreshed for Kuraloviyam **Part 003 Tamil ARCHIVAL-READY / CLOSED; English drafting + source-check CLOSED; glossary GR1–GR3 COMPLETE / PASS 99/111, GR4 next**: **2026-09-10**. Sangath Tamil workflow state below is retained from its latest dedicated handover and live `main` remains authoritative.
 
 ## Repository
 
@@ -293,13 +293,13 @@ Part 003 live control documents now agree with the durable audit and final-statu
 - Tamil: **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**;
 - English first-pass drafting: **111/111 COMPLETE / CLOSED**;
 - English source-check: **111/111 COMPLETE / CLOSED**;
-- English glossary reconciliation: **IN PROGRESS — GR1 + GR2 COMPLETE / PASS, 66/111**;
+- English glossary reconciliation: **IN PROGRESS — GR1 + GR2 + GR3 COMPLETE / PASS, 99/111**;
 - all 111 English pages remain `source-checked`; editorial review is not started;
-- GR1+GR2 changed no English page wording or status and no Tamil record.
+- GR1+GR2 changed no English page wording; GR3 changed only `Kaarmegam` → `Karmegam` on English scans 313–314; no status or Tamil record changed.
 
 # Exact next activity — குறளோவியம்
 
-Perform **Part 003 English Glossary Reconciliation GR3 — scans 289–321 / printed 272–304, 33 pages**.
+Perform **Part 003 English Glossary Reconciliation GR4 — scans 322–333 / printed 305–316, final 12 pages**.
 
 1. fetch live `main`;
 2. read the Kuraloviyam mandatory controls, English `TRANSLATION_GUIDE.md`, `TRANSLATION_STATUS.md`, and `GLOSSARY.md`;

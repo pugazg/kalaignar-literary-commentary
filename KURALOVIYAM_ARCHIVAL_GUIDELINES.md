@@ -171,11 +171,11 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 - incoming **222→223: CLEAN**; internal **332→333** genuine continuation closes within the Part; external **333→334** remains deferred until Part 004 intake;
 - project-created English drafting: **111/111 COMPLETE / CLOSED**;
 - English source-check: **111/111 COMPLETE / CLOSED**;
-- English glossary reconciliation: **IN PROGRESS — GR1 + GR2 COMPLETE / PASS, 66/111**;
+- English glossary reconciliation: **IN PROGRESS — GR1 + GR2 + GR3 COMPLETE / PASS, 99/111**;
 - all English pages remain `source-checked`; editorial review / Part review / release are not started.
 
 ### Exact next content stage
 
-Perform **Part 003 English glossary reconciliation GR3 — scans 289–321 / printed 272–304, 33 page-aligned records**. Use the audited Tamil records and `GLOSSARY.md`; add or refine only source-evidenced terminology; do not import external/published/web wording; do not promote English statuses or begin editorial review; do not alter closed Tamil records.
+Perform **Part 003 English glossary reconciliation GR4 — scans 322–333 / printed 305–316, final 12 page-aligned records**. Use the audited Tamil records and `GLOSSARY.md`; add or refine only source-evidenced terminology; do not import external/published/web wording; do not promote English statuses or begin editorial review; do not alter closed Tamil records.
 
-If GR3 passes, cumulative glossary reconciliation becomes **99/111** and the final GR4 remainder is **scans 322–333 / printed 305–316, 12 pages**. Part 004 remains blocked until the maintained Part-003 English workflow and final Part closure checkpoint are complete.
+If GR4 passes, glossary reconciliation becomes **111/111 COMPLETE / CLOSED**; the next gate is **English Editorial Review ER1 — scans 223–255 / printed 206–238, 33 pages**. Part 004 remains blocked until the maintained Part-003 English workflow and final Part closure checkpoint are complete.

@@ -86,7 +86,7 @@ Current user-directed page-batch cadence: **33 physical scans**.
 - post-drafting state: **111 `draft` / 0 source-limited / 0 blocked**;
 - source-check: **COMPLETE / CLOSED — 111/111**;
 - current English state: **111 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**;
-- glossary reconciliation: **NEXT / not-started**;
+- glossary reconciliation: **IN PROGRESS — GR1 + GR2 + GR3 COMPLETE / PASS, 99/111**;
 - editorial review: **not-started**;
 - Part review / release: **not-started**.
 
@@ -105,24 +105,24 @@ All Part-003 English records now carry `status: "source-checked"`. SC4 source-fi
 
 SC4 page commit: `e07a6775513bcf1619e5d1bcb6e8222f7004f0a8`. Incoming **321→322 is CLEAN**. Internal **332→333** remains a genuine continuation and closes on scan 333. External **333→334** remains deferred until Part 004 source intake.
 
-## Glossary reconciliation progress — GR2 COMPLETE / PASS 66/111
+## Glossary reconciliation progress — GR3 COMPLETE / PASS 99/111
 
 - GR1 **223–255 / printed 206–238 — COMPLETE / PASS 33/33**;
 - GR2 **256–288 / printed 239–271 — COMPLETE / PASS 33/33**;
-- cumulative glossary reconciliation: **66/111**;
-- all English pages remain `source-checked`; GR1+GR2 made **0 English page wording changes / 0 status changes**;
+- cumulative glossary reconciliation: **99/111**;
+- all English pages remain `source-checked`; GR1+GR2 made **0 English page wording changes**; GR3 changed only **`Kaarmegam` → `Karmegam` on scans 313–314**; status changes remain **0**;
 - GR2 checked all **16** Chapter/Kural metadata records with **0 numeric or controlled-label mismatches**;
 - six Part-003-first chapter controls were added in GR2: **Poverty**, **Self-Control**, **Renouncing Modesty**, **Good Conduct**, **Knowing One's Strength**, **Seeking the Support of the Great**;
 - source-form variants and contextual controls for `பாவம்`, `தேன்மொழி`, and descriptive `புணர்ச்சி மகிழ்தல்` were reconciled without changing page wording;
 - recurring GR2 narrative/literary names were recorded;
 - no Tamil file or metadata changed.
 
-## Exact next activity — English Glossary Reconciliation GR3
+## Exact next activity — English Glossary Reconciliation GR4
 
-Process **scans 289–321 / printed 272–304 — 33 PAGE-ALIGNED RECORDS**.
+Process **scans 322–333 / printed 305–316 — final 12 PAGE-ALIGNED RECORDS**.
 
 1. fetch live `main` first;
-2. confirm Part 003 Tamil remains **ARCHIVAL-READY / CLOSED**, English source-check remains **111/111 COMPLETE / CLOSED**, and glossary reconciliation remains **66/111 COMPLETE**;
+2. confirm Part 003 Tamil remains **ARCHIVAL-READY / CLOSED**, English source-check remains **111/111 COMPLETE / CLOSED**, and glossary reconciliation remains **99/111 COMPLETE**;
 3. read `translations/en/GLOSSARY.md` and the matching English/Tamil records **0289–0321**;
 4. compare recurring names, work/section names, controlled literary terms, publication names, chapter labels, citation metadata and repeated English renderings against the glossary and audited Tamil context;
 5. update `GLOSSARY.md` only for terms actually evidenced in Part 003;
@@ -130,7 +130,7 @@ Process **scans 289–321 / printed 272–304 — 33 PAGE-ALIGNED RECORDS**.
 7. do not import standard/published/web English wording or terminology from memory;
 8. this gate does **not** promote `source-checked` pages to `editorial-reviewed`;
 9. do not alter Tamil files;
-10. do not begin editorial review during GR3;
+10. do not begin editorial review during GR4;
 11. update `TRANSLATION_STATUS.md` and audit the exact changed-file set.
 
-If GR3 passes, cumulative glossary reconciliation becomes **99/111** and GR4 is the final **12-page remainder scans 322–333 / printed 305–316**. External **333→334** remains deferred until Part 004 source intake. Part 004 remains blocked until the maintained English workflow and final Part closure checkpoint are complete.
+If GR4 passes, glossary reconciliation becomes **111/111 COMPLETE / CLOSED** and the next gate is **English Editorial Review ER1 — scans 223–255 / printed 206–238, 33 pages**. External **333→334** remains deferred until Part 004 source intake. Part 004 remains blocked until the maintained English workflow and final Part closure checkpoint are complete.

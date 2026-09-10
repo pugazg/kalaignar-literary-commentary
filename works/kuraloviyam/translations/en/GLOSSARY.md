@@ -378,7 +378,7 @@ GR4 processed the **final 30-page remainder: scans 193–222 / printed 176–205
 
 **Part 002 glossary reconciliation is COMPLETE — 111/111 scans.**
 
-## Thirukkural chapter labels first encountered in Part 003 through GR2
+## Thirukkural chapter labels first encountered in Part 003 through GR3
 
 | Tamil | Default English | Editorial note |
 |---|---|---|
@@ -394,6 +394,11 @@ GR4 processed the **final 30-page remainder: scans 193–222 / printed 176–205
 | ஒழுக்கமுடைமை | Good Conduct | Chapter 14 label on scan 273. |
 | வலியறிதல் | Knowing One's Strength | Chapter 48 label on scan 277. |
 | பெரியாரைத் துணைக்கோடல் | Seeking the Support of the Great | Chapter 45 label on scan 285. |
+| துறவு | Renunciation | Chapter 35 label on scan 289. |
+| சுற்றந் தழால் | Cherishing Kindred | Chapter 53 label on scan 293. |
+| அவர் வயின் விதும்பல் | Longing for His Return | Chapter 127 source-form variant on scans 291 and 295; maps to the established controlled label. |
+| கனவு நிலை உரைத்தல் | Speaking of the Dream State | Chapter 122 source-form variant on scan 299; maps to the established controlled label. |
+| ஆள்வினை உடைமை | Diligent Effort | Chapter 62 source-form variant on scan 302; maps to the established controlled label. |
 
 The Chapter 112 source variant `நலம்புனைந்துரைத்தல்` on scan **238** is mapped to the existing controlled **Praising Her Beauty** label rather than creating a duplicate English chapter title. Existing controls reused unchanged in GR1 include **Lamenting the Absent Lover**, **Subtleties of Lovers' Quarrel**, **Loss of Restraint**, **Refraining from Slander**, **Speaking with the Heart**, **Reproaching the Eyes**, **Suffering from Pallor**, **The Blessing of Children**, **Lovers' Sulking**, **False Conduct**, and **Yearning for Union**.
 
@@ -442,6 +447,61 @@ GR2 processed **33 consecutive pages: scans 256–288 / printed 239–271**.
 - English page wording corrections required solely for GR2 terminology consistency: **none**;
 - all 33 English pages remain `source-checked`; this gate makes **no status promotion**;
 - no Tamil archival record changed and no external/published/web English terminology was imported.
+
+## Part 003 GR3 additional narrative/name controls
+
+| Tamil | Default English form | Editorial note |
+|---|---|---|
+| பொன்னி | Ponni | Waiting-for-lover vignette across scans 290–291. |
+| தாமரை | Thamarai | Ponni's companion across scans 290–291. |
+| முகிலன் | Mukilan | Fisher/lover across scans 298–299. |
+| முல்லைக்கொடி | Mullai-kodi | Mukilan's wife/lover across scans 298–299. |
+| திருமகள் | Thirumagal | Named divinity/figure in the labour-and-idleness discussion across scans 300–302. |
+| மூதேவி | Moodevi | Named counterpart to Thirumagal across scans 300–302. |
+| திங்கள் | Thingal | Woman's personal name in scans 303–304; keep distinct from ordinary moon/day senses. |
+| செவ்வாய் | Sevvai | Woman's personal name in scans 303–304; keep distinct from ordinary weekday/planet senses. |
+| எழினி | Ezhini | Poet/character across scans 305–306. |
+| கொல்லி நாடு | Kolli | Country/place reference in the Ezhini betrayal vignette across scans 305–306. |
+| வஞ்சிக்கொடி | Vanchikkodi | Named woman at the opening of the harvest-field vignette across scans 307–308. |
+| காளி | Kaali | Woman named in the harvest-field vignette across scans 307–308. |
+| கடம்பன் | Kadamban | Kaali's lover across scans 307–308. |
+| சேயிழை | Seyizhai | Woman in the pallor/separation vignette across scans 315–316. |
+
+The already controlled `கார்மேகம்` → **Karmegam** form is reused for the distinct field/idleness character on scans **313–314**. GR3 reconciles the two English page files from **Kaarmegam** to **Karmegam**; this is a terminology/transliteration consistency correction only and does not alter Tamil or page status.
+
+## Part 003 GR3 source-printed lexical glosses
+
+These are page-specific source glosses and should not be generalized beyond their audited contexts without new evidence.
+
+| Tamil source expression | Source-supported English | Evidence |
+|---|---|---|
+| பற்றற்ற கண்ணும் | even when one has fallen low | Scan 293 altered-Kural explanation. |
+| பகைமை பாராட்டுதல் | cherishing enmity / acting with hostile feeling | Scan 293 altered-Kural explanation. |
+| சுற்றத்தார் கண்ணேயுள | is found among one's kindred | Scan 293 altered-Kural explanation. |
+| அதர்வினாய் | asking the way | Scan 310 printed gloss `வழிகேட்டு`. |
+| உழை | place | Scan 310 printed gloss `இடம்`. |
+| பகடு | ox | Scan 310 printed gloss `எருது`. |
+| மடுத்தவாய் | obstructed place | Scan 310 printed gloss `தடைப்பட்ட இடம்`. |
+| செறாது | not joined with hostility | Scan 321 printed gloss `பகையோடு பொருந்தாத`. |
+| செற்றார் | enemy | Scan 321 printed gloss `பகைவர்`. |
+| உறாஅர் | outsider | Scan 321 printed gloss `அயலார்`. |
+
+## Part 003 GR3 reconciliation record — scans 289–321
+
+GR3 processed **33 consecutive pages: scans 289–321 / printed 272–304**.
+
+- scans **289–321** — glossary / recurring-terminology reconciliation **PASS, 33/33**;
+- all **17** Chapter/Kural metadata records in the range were checked against their audited Tamil counterparts with **0 chapter-number, Kural-number, or controlled-label mismatches**;
+- Part-003-first chapter controls added in this gate: **Renunciation** (`துறவு`) and **Cherishing Kindred** (`சுற்றந் தழால்`);
+- source-form variants `அவர் வயின் விதும்பல்`, `கனவு நிலை உரைத்தல்`, and `ஆள்வினை உடைமை` are mapped to the established controls **Longing for His Return**, **Speaking of the Dream State**, and **Diligent Effort** rather than creating duplicate English chapter titles;
+- recurring narrative/name controls were recorded for **Ponni, Thamarai, Mukilan, Mullai-kodi, Thirumagal, Moodevi, Thingal, Sevvai, Ezhini, Kolli, Vanchikkodi, Kaali, Kadamban,** and **Seyizhai**;
+- the existing `கார்மேகம்` → **Karmegam** control required one terminology correction locus across English scans **313–314**: **Kaarmegam → Karmegam**; both pages remain `source-checked`;
+- context review confirmed scan **298** `கேள்வி` is the common noun **question**, not Chapter 42 **Listening**; scan **303** `மாங்கனி` is the descriptive **mango**, not the personal name Maangani; scan **310** `செங்கோல்` is naturally the sceptre/justice image; scan **312** `ஏந்திழை` is descriptive **slender maiden**, not a forced proper name; and scan **318** `உரை` / `வீரன்` are ordinary **speech** / **warrior** uses;
+- source-printed lexical glosses on scans **293, 310, and 321** are recorded above without importing external meanings;
+- English page wording changes during GR3: **2 files — scans 313 and 314, proper-name transliteration only**;
+- page status changes during GR3: **0**; all 33 pages remain `source-checked`;
+- Tamil page / metadata changes during GR3: **0**;
+- no external/published/web English terminology or remembered Kural wording was imported.
 
 ## Review rule
 
