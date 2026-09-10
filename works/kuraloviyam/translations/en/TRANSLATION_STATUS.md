@@ -134,7 +134,7 @@ Incoming **222→223 is CLEAN**. Internal **332→333** is a genuine continuatio
 - English state after drafting: **111 `draft` / 0 source-limited / 0 blocked**;
 - remaining undrafted Part-003 pages: **0**;
 - source-check: **111/111 COMPLETE / CLOSED**;
-- glossary reconciliation: **IN PROGRESS — GR1 + GR2 + GR3 COMPLETE / PASS, 99/111**;
+- glossary reconciliation: **111/111 COMPLETE / CLOSED**;
 - editorial review: **not-started**;
 - Part-level review / release: **not-started**.
 
