@@ -33,3 +33,4 @@ jobs:
             works/kuraloviyam/translations/en/TRANSLATION_STATUS.md
           git commit -m 'kuraloviyam: Complete Part 003 English glossary reconciliation GR1'
           git push origin main
+          echo 'GR1 completion pushed'
