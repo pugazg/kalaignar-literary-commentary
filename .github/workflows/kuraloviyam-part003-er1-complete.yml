@@ -1,0 +1,67 @@
+name: Kuraloviyam Part 003 English ER1 completion
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/kuraloviyam-part003-er1-complete.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  complete-er1:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Complete ER1 and advance to ER2
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          python3 .github/scripts/kuraloviyam-part003-er1-complete.py
+          git add HANDOVER.md KURALOVIYAM_ARCHIVAL_GUIDELINES.md NEXT_CHAT_PROMPT_KURALOVIYAM.md \
+            works/kuraloviyam/HANDOVER.md works/kuraloviyam/README.md \
+            works/kuraloviyam/indexes/page-map.md works/kuraloviyam/metadata/source.md \
+            works/kuraloviyam/translations/en/README.md \
+            works/kuraloviyam/translations/en/TRANSLATION_STATUS.md \
+            works/kuraloviyam/translations/en/pages/0223-kuraloviyam-206.md \
+            works/kuraloviyam/translations/en/pages/0224-kuraloviyam-207.md \
+            works/kuraloviyam/translations/en/pages/0225-kuraloviyam-208.md \
+            works/kuraloviyam/translations/en/pages/0226-kuraloviyam-209.md \
+            works/kuraloviyam/translations/en/pages/0227-kuraloviyam-210.md \
+            works/kuraloviyam/translations/en/pages/0228-kuraloviyam-211.md \
+            works/kuraloviyam/translations/en/pages/0229-kuraloviyam-212.md \
+            works/kuraloviyam/translations/en/pages/0230-kuraloviyam-213.md \
+            works/kuraloviyam/translations/en/pages/0231-kuraloviyam-214.md \
+            works/kuraloviyam/translations/en/pages/0232-kuraloviyam-215.md \
+            works/kuraloviyam/translations/en/pages/0233-kuraloviyam-216.md \
+            works/kuraloviyam/translations/en/pages/0234-kuraloviyam-217.md \
+            works/kuraloviyam/translations/en/pages/0235-kuraloviyam-218.md \
+            works/kuraloviyam/translations/en/pages/0236-kuraloviyam-219.md \
+            works/kuraloviyam/translations/en/pages/0237-kuraloviyam-220.md \
+            works/kuraloviyam/translations/en/pages/0238-kuraloviyam-221.md \
+            works/kuraloviyam/translations/en/pages/0239-kuraloviyam-222.md \
+            works/kuraloviyam/translations/en/pages/0240-kuraloviyam-223.md \
+            works/kuraloviyam/translations/en/pages/0241-kuraloviyam-224.md \
+            works/kuraloviyam/translations/en/pages/0242-kuraloviyam-225.md \
+            works/kuraloviyam/translations/en/pages/0243-kuraloviyam-226.md \
+            works/kuraloviyam/translations/en/pages/0244-kuraloviyam-227.md \
+            works/kuraloviyam/translations/en/pages/0245-kuraloviyam-228.md \
+            works/kuraloviyam/translations/en/pages/0246-kuraloviyam-229.md \
+            works/kuraloviyam/translations/en/pages/0247-kuraloviyam-230.md \
+            works/kuraloviyam/translations/en/pages/0248-kuraloviyam-231.md \
+            works/kuraloviyam/translations/en/pages/0249-kuraloviyam-232.md \
+            works/kuraloviyam/translations/en/pages/0250-kuraloviyam-233.md \
+            works/kuraloviyam/translations/en/pages/0251-kuraloviyam-234.md \
+            works/kuraloviyam/translations/en/pages/0252-kuraloviyam-235.md \
+            works/kuraloviyam/translations/en/pages/0253-kuraloviyam-236.md \
+            works/kuraloviyam/translations/en/pages/0254-kuraloviyam-237.md \
+            works/kuraloviyam/translations/en/pages/0255-kuraloviyam-238.md
+          git commit -m 'kuraloviyam: Complete Part 003 English editorial review ER1'
+          git push origin main
