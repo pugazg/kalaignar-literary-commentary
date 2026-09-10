@@ -8,7 +8,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 |---|---:|---:|---|---|
 | 001 | 1–111 | 1–111 | front matter; main body begins scan 18 / printed 1; scan 111 / printed 94 | **Tamil + English CLOSED** |
 | 002 | 112–222 | 1–111 | scan 112 / printed 95 through scan 222 / printed 205 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
-| 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **SOURCE INTAKE + Pass 1 + Pass 2A + Pass 2B + Pass 3 COMPLETE — 111/111; Part audit NEXT** |
+| 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **SOURCE INTAKE + Pass 1 + Pass 2A + Pass 2B + Pass 3 COMPLETE — 111/111; Part audit PASS; final metadata/status sync NEXT** |
 | 004 | 334–444 | 1–111 | not yet inspected | not-started |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
 | 006 | 556–666 | 1–111 | not yet inspected | not-started |
@@ -55,7 +55,7 @@ Final Part 001 status: **107/111 verified + 4 partial** (13, 14, 15, 19); visual
 Part 002 contains **111 page-aligned records**, scans **112–222 / printed 95–205**. Source intake, Pass 1, Pass 2A, Pass 2B and Pass 3 each closed 111/111; the Part audit passed; final metadata/status synchronization promoted all **111/111** records to textual and visual `verified`; documentation synchronization and the dedicated Tamil archival-ready checkpoint are closed.
 
 | Overall scans | Printed pages | Source role / observed boundary | Final page-record state |
-|---:|---:|---|---|
+|---:|---|---|---|
 | 112–113 | 95–96 | love / `ஊடல்`; Chapter 133 / Kural 1330 | verified |
 | 114–115 | 97–98 | sculptor/painter; Chapter 41 / Kural 407 | verified |
 | 116 | 99 | lemon/liquor/love comparison; Chapter 129 / Kural 1281 | verified |
@@ -195,7 +195,7 @@ Part 003 Pass 1 capture:
 - P3-10: **322–332 / printed 305–315 — COMPLETE**;
 - final remainder: **333 / printed 316 — COMPLETE**.
 
-Current Part 003 Pass-1 inventory: **111 / 111 records captured — scans 223–333 / printed 206–316**. All remain `needs-review` / `visual_fidelity: needs-review` pending later verification gates.
+Current Part 003 Pass-1 inventory: **111 / 111 records captured — scans 223–333 / printed 206–316**. All remain `needs-review` / `visual_fidelity: needs-review` pending final metadata/status synchronization.
 
 Final Pass-1 source unit:
 
@@ -206,7 +206,8 @@ Durable intake: `../SOURCE_INTAKE_PART_003.md`.
 Durable Pass 1 progress: `../PART_003_PASS1_PROGRESS.md`.  
 Durable Part 003 Pass 2A record: `../PASS2_TEXTUAL_VERIFICATION_PART_003.md`.  
 Durable Part 003 Pass 2B record: `../PASS2B_LEXICAL_FIDELITY_PART_003.md`.  
-Durable Part 003 Pass 3 record: `../PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`.
+Durable Part 003 Pass 3 record: `../PASS3_VISUAL_TEXT_VERIFICATION_PART_003.md`.  
+Durable Part 003 audit: `../PART_003_AUDIT.md`.
 
 Part 003 Pass 2A verified frontier:
 
@@ -221,8 +222,7 @@ Part 003 Pass 2A verified frontier:
 - Batch 9: **311–321 / printed 294–304 — COMPLETE 11/11**; **321→322 clean** reconfirmed from scan 322 witness;
 - Batch 10: **322–332 / printed 305–315 — COMPLETE 11/11**; genuine **332→333 continuation** reconfirmed from scan 333 witness;
 - final remainder: **333 / printed 316 — COMPLETE 1/1**; Chapter 57 / Kural 567 and Part closure directly confirmed;
-- cumulative Pass-2A coverage: **111/111 through scan 333 / printed 316 — COMPLETE**;
-- all Part 003 records remain `needs-review` / `visual_fidelity: needs-review` until later gates close.
+- cumulative Pass-2A coverage: **111/111 through scan 333 / printed 316 — COMPLETE**.
 
 Part 003 Pass 2B verified frontier:
 
@@ -238,8 +238,7 @@ Part 003 Pass 2B verified frontier:
 - Batch 10: **313–322 / printed 296–305 — COMPLETE 10/10**; corrections on **314, 316, 320, 322**; **322→323 genuine continuation** reconfirmed;
 - Batch 11: **323–332 / printed 306–315 — COMPLETE 10/10**; correction on **326**; **332→333 genuine continuation** reconfirmed from scan 333 witness;
 - final remainder: **333 / printed 316 — COMPLETE 1/1**; corrected `இறுதியான` → `இறுதி யான` and `தலைமை ஏற்று` → `தலைமைபெற்று`; Kural 567 and Chapter 57 metadata independently reconfirmed;
-- cumulative Pass-2B coverage: **111/111 through scan 333 / printed 316 — COMPLETE**;
-- all Part 003 records remain `needs-review` / `visual_fidelity: needs-review` until later gates close.
+- cumulative Pass-2B coverage: **111/111 through scan 333 / printed 316 — COMPLETE**.
 
 Part 003 Pass 3 verified frontier:
 
@@ -256,8 +255,20 @@ Part 003 Pass 3 verified frontier:
 - final remainder: **333 / printed 316 — COMPLETE 1/1**; structural correction preserves highlighted Kural 567 as a distinct two-line set-out block and records side vertical title/footer furniture separately;
 - cumulative Pass-3 coverage: **111/111 through scan 333 / printed 316 — COMPLETE**;
 - lexical body-text changes during Pass 3: **0**;
-- status promotions during Pass 3: **0**;
-- all Part 003 records remain `needs-review` / `visual_fidelity: needs-review` pending the Part audit and final status synchronization.
+- status promotions during Pass 3: **0**.
+
+Part 003 audit:
+
+- result: **PASS**;
+- physical coverage and mapping: **111/111 — PASS**;
+- source identity / provenance: **PASS**;
+- Pass 1 / Pass 2A / Pass 2B / Pass 3 closure: **PASS**;
+- internal continuation / structural edge cases: **PASS**;
+- non-body material / page-furniture separation: **PASS**;
+- carried `partial`, `blocked` or source-limited Tamil exceptions: **0**;
+- premature status promotion: **0**;
+- Tamil body-text changes during audit: **0**;
+- all Part 003 records remain `needs-review` / `visual_fidelity: needs-review` pending final metadata/status synchronization.
 
 ## Additional physical notes
 
@@ -351,8 +362,9 @@ Part 003:
 - Pass 2A — **COMPLETE, 111/111 verified through scan 333 / printed 316**;
 - Pass 2B — **COMPLETE, 111/111 independently re-read through scan 333 / printed 316**;
 - Pass 3 — **COMPLETE, 111/111 through scan 333 / printed 316**;
-- Part audit — **NEXT / not-started**;
-- final metadata/status synchronization — not-started;
+- Part audit — **PASS**;
+- final metadata/status synchronization — **NEXT / not-started**;
+- documentation synchronization — not-started;
 - Tamil archival-ready — not-started;
 - English — blocked until Tamil closure.
 
@@ -362,6 +374,6 @@ Part 003:
 
 **Part 002: Tamil + English CLOSED.**
 
-**Part 003: SOURCE INTAKE + PASS 1 + PASS 2A + PASS 2B + PASS 3 COMPLETE — 111/111; PART AUDIT NEXT.**
+**Part 003: SOURCE INTAKE + PASS 1 + PASS 2A + PASS 2B + PASS 3 COMPLETE — 111/111; PART AUDIT PASS; FINAL METADATA/STATUS SYNC NEXT.**
 
-Exact next activity: **Part 003 audit — all 111 page records / scans 223–333 / printed 206–316**. Reconcile inventory, source identity, Pass 1 / Pass 2A / Pass 2B / Pass 3 coverage, internal boundaries, unresolved exceptions, page-record metadata/status consistency and changed-file expectations against the closed Part-002 audit precedent. Keep every Part-003 page record at `needs-review` / `visual_fidelity: needs-review` during the audit. Only after a PASS audit may the separate final metadata/status synchronization promote eligible records. External **333→334** remains deferred until Part 004 source intake; English remains blocked until Tamil archival closure.
+Exact next activity: **Part 003 final metadata/status synchronization — all 111 page records / scans 223–333 / printed 206–316**. Change only `status: "needs-review"` → `status: "verified"` and `visual_fidelity: "needs-review"` → `visual_fidelity: "verified"` on eligible records, audit the exact metadata-only changed-file set before documentation writes, and do not alter Tamil body wording, Kural text, structure, visual notes, source comments or mapping. External **333→334** remains deferred until Part 004 source intake; English remains blocked until Tamil archival closure.
