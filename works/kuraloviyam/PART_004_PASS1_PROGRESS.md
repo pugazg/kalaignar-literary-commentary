@@ -260,6 +260,17 @@ Planned batches:
 
 At the supplied Part endpoint, scan 444 begins a new illustrated royal/court narrative and visibly remains open. **444→445 stays deferred until Part 005 source intake.**
 
+## Post-Pass-1 / Pass 2A frontier
+
+Pass 1 remains **COMPLETE — 111/111**. Pass 2A has now begun.
+
+- Pass 2A Batch 1 — scans **334–344 / printed 317–327 — COMPLETE 11/11**;
+- 6 page records corrected directly from source; 5 required no textual change;
+- outgoing **344→345 genuine continuation** reconfirmed from scan 345 witness;
+- durable Pass-2A log: `PASS2_TEXTUAL_VERIFICATION_PART_004.md`;
+- current Pass 2A coverage: **11/111**;
+- Pass 2B remains blocked until Pass 2A reaches 111/111.
+
 ## Exact next activity
 
-Part 004 Pass 1 is closed at **111/111**. Proceed next to **Part 004 Pass 2A — direct textual verification**, beginning with **scans 334–344 / printed 317–327 (11 scans)**. Re-render and compare each page record directly against the controlling scan, correct only source-supported wording/punctuation/paragraph/Kural/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"` until the later required gates, inspect scan 345 only as a boundary witness if needed, and record the exact Pass-2A frontier. Do not begin Pass 2B until Pass 2A covers all 111 Part-004 scans, and do not begin Part 005 or infer **444→445** without the actual Part 005 source.
+Proceed with **Part 004 Pass 2A Batch 2 — scans 345–355 / printed 328–338 (11 scans)**. Compare each page record directly against the rendered controlling scan, correct only source-supported textual/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, inspect scan 356 only as an outgoing boundary witness if required, and update `PASS2_TEXTUAL_VERIFICATION_PART_004.md` with the exact next frontier. Do not start Pass 2B or Part 005.
