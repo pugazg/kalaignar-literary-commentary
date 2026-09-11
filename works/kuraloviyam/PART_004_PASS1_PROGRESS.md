@@ -262,7 +262,7 @@ At the supplied Part endpoint, scan 444 begins a new illustrated royal/court nar
 
 ## Post-Pass-1 / Pass 2A frontier
 
-Pass 1 remains **COMPLETE — 111/111**. Pass 2A has now begun.
+Pass 1 remains **COMPLETE — 111/111**. Pass 2A is now **COMPLETE / PASS — 111/111**.
 
 - Pass 2A Batch 1 — scans **334–344 / printed 317–327 — COMPLETE 11/11**;
 - Pass 2A Batch 2 — scans **345–355 / printed 328–338 — COMPLETE 11/11**;
@@ -273,14 +273,19 @@ Pass 1 remains **COMPLETE — 111/111**. Pass 2A has now begun.
 - Pass 2A Batch 7 — scans **400–410 / printed 383–393 — COMPLETE 11/11**;
 - Pass 2A Batch 8 — scans **411–421 / printed 394–404 — COMPLETE 11/11**;
 - Pass 2A Batch 9 — scans **422–432 / printed 405–415 — COMPLETE 11/11**;
-- Batch 9: 8 page records corrected directly from source; 3 required no textual change;
-- live Batch-9 work that advanced during verification was preserved and reconciled against the controlling source pixels before closure;
-- incoming **421→422 genuine continuation** preserved and closed on scan 422 with Chapter 112 / Kurals 1111 and 1113;
-- outgoing **432→433 CLEAN** confirmed from scan 433 witness; scan 433 starts a new Nallithayan/Porko wealth-and-character vignette;
+- Pass 2A Batch 10 — scans **433–443 / printed 416–426 — COMPLETE 11/11**;
+- Pass 2A final remainder — scan **444 / printed 427 — COMPLETE 1/1**;
+- Batch 10: **4 page records corrected; 7 required no textual change**;
+- final remainder: **scan 444 corrected directly from source**;
+- incoming **432→433 CLEAN** preserved;
+- outgoing **443→444 CLEAN** directly confirmed;
+- scan 444 begins a new royal/court famine-granary narrative and remains open at the supplied Part endpoint;
+- **444→445 remains DEFERRED / UNRESOLVED until Part 005 source intake**;
 - durable Pass-2A log: `PASS2_TEXTUAL_VERIFICATION_PART_004.md`;
-- current Pass 2A coverage: **99/111**;
-- Pass 2B remains blocked until Pass 2A reaches 111/111.
+- current Pass 2A coverage: **111/111 COMPLETE / PASS**;
+- page records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`;
+- Pass 2B is now **NEXT / UNBLOCKED**; Pass 3 remains blocked until Pass 2B completes.
 
 ## Exact next activity
 
-Proceed with **Part 004 Pass 2A Batch 10 — scans 433–443 / printed 416–426 (11 scans)**. Preserve the incoming **432→433 CLEAN** boundary; compare each page record directly against the rendered controlling scan, correct only source-supported textual/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, inspect scan 444 only as an outgoing boundary witness if required, and update `PASS2_TEXTUAL_VERIFICATION_PART_004.md` with the exact next frontier. Do not start Pass 2B or Part 005.
+Begin **Part 004 Pass 2B — independent lexical-fidelity re-read**. Follow the established 10-scan cadence: process **Batch 1 scans 334–343 / printed 317–326**, independently re-reading every source-visible printed word from freshly rendered source pages, and inspect scan **344 / printed 327** only as the outgoing boundary witness if required. Do not normalize source wording, do not start Pass 3, and do not begin Part 005.
