@@ -213,15 +213,48 @@ Durable correction commits:
 - scan 395 — `7efd6ff4ad559e1d00069f8b2d2749fefb5a3927`;
 - scan 398 — `ecdddae4d7939da7cf8aabcbc400f2fbcfd5e8e9`.
 
+## Batch 7 — overall scans 400–410 / printed pages 383–393
+
+**Status: COMPLETE — 11 / 11 scans directly compared against rendered source.**
+
+Incoming **399→400 CLEAN** boundary was preserved. Scan **411 / printed 394** was inspected only as the outgoing witness and reconfirms **410→411 as a genuine continuation** of the lovers vignette opened on scan 410; that unit closes on scan 411 with Chapter 126 / Kural 1258.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 400 | 383 | direct textual comparison complete; no correction required; speculative visitors vignette begins and continues into 401 |
+| 401 | 384 | restored source-visible `நேரத்திற் கெல்லாம்`, `புவியிலுள்ள`, `புவியில்`, and the missing rain-water sentence `அந்த மழை நீரையே குடித்துக் கொள்கிறார்கள்!`; Chapter 2 / Kural 12 and glosses confirmed |
+| 402 | 385 | corrected `குறிஞ்சி கொப்பளிக்கும்` → `குருதி கொப்பளிக்கும்`; `காமத்தியாக` → `காமத்தீயாக`; two-boats/love vignette continues through illustration scan 403 |
+| 403 | 386 | full-page illustration; no body-text correction required; physical continuity 402→403→404 confirmed |
+| 404 | 387 | direct textual comparison complete; no correction required; Chapter 114 / Kural 1134 and `புணை - தோணி` confirmed |
+| 405 | 388 | restored `தேவர் உலகத்து ரம்பை`, `தூண்டில்முள்`, and `துளைக்கும் மத யானைகளின்`; dialogue continues into 406 |
+| 406 | 389 | restored source opening hyphen for the narrative turn; corrected `கண்மலை வீச்` → `கண்வலை வீச`; corrected `கத்திக்குப் பயந்தோடி` → `கத்திக்குப் போய் ஓடி`; vignette continues into 407 |
+| 407 | 390 | restored source clause `பயன் கருதித் தோழமைகொண்டு கிடைக்கும் பயனை அளந்து பார்க்கும்`; Chapter 82 / Kural 813 and glosses confirmed |
+| 408 | 391 | corrected `போய்ப்பிள்ளைகளைப்` → `பேரப்பிள்ளைகளைப்`; `தேரு` → `தேர்`; Sevval/cattle-cruelty vignette continues into 409 |
+| 409 | 392 | restored `அவற்றின் முதுகில் குருதி கொப்பளிக்கும். அதைச் சுவைக்க ஈக்கள் மொய்க்கும்.`; corrected `தூங்கும்போது` → `தூங்கிடும்போது`; Chapter 32 / Kural 318 confirmed |
+| 410 | 393 | restored source readings including `வேற்கணை`, `அவனது நெஞ்சுறுதியெனும்`, `வேலைப்போல்`, the `வீதிகள் நான்கும் மோதி, ஏற்கனவே காயமுற்றிருந்தன` passage, `பறப்பதுபோல்`, and `நடையோ`; **410→411 genuine continuation** confirmed |
+
+Batch 7 correction summary: **8 records corrected; 3 records required no textual change**.
+
+Durable correction commits:
+
+- scan 401 — `7cb50e22762e8b5f8efa112df31c558c2ccdbb0c`;
+- scan 402 — `3ea34c39fc35ebcde1bd73467f2196814d456977`;
+- scan 405 — `cb3d581a06669a66cab27cd6441f47f7f45584e5`;
+- scan 406 — `c80d43f7839773eaa74cb3448b17742b912b9a4c`;
+- scan 407 — `79d4568d4e2227009e94d5068c8733d67f10d663`;
+- scan 408 — `7bcaf12aa716aa9ec09c59296da6f4748fc11c47`;
+- scan 409 — `d747e760ad96f50e446cb38c8cbb650570078026`;
+- scan 410 — `4df886fb5ffe0f6f15ac6131ca7e92d9cf89dc5f`.
+
 ## Current Pass 2A coverage
 
-- complete: **66 / 111 scans**;
-- verified range: **334–399 / printed 317–382**;
-- remaining Pass 2A: **45 scans**;
+- complete: **77 / 111 scans**;
+- verified range: **334–410 / printed 317–393**;
+- remaining Pass 2A: **34 scans**;
 - page statuses remain **needs-review / needs-review**;
 - Pass 2B: **BLOCKED until Pass 2A reaches 111/111**;
 - Part 005: **BLOCKED**; **444→445 remains deferred until Part 005 source intake**.
 
 ## Exact next activity
 
-Process **Pass 2A Batch 7 — scans 400–410 / printed 383–393 (11 scans)**. Re-render and compare every record directly against the controlling source, preserve the **399→400 CLEAN** boundary, correct only source-supported wording/punctuation/paragraph/Kural/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **411 / printed 394** only as the outgoing boundary witness if needed.
+Process **Pass 2A Batch 8 — scans 411–421 / printed 394–404 (11 scans)**. Re-render and compare every record directly against the controlling source, preserve the incoming **410→411 genuine continuation** and its closure on scan 411, correct only source-supported wording/punctuation/paragraph/Kural/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **422 / printed 405** only as the outgoing boundary witness if needed.
