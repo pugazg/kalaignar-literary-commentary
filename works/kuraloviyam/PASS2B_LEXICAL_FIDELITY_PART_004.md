@@ -17,7 +17,7 @@ Pass 2B independently re-reads every source-visible printed word against freshly
 
 All Part 004 page records remain `status: "needs-review"` and `visual_fidelity: "needs-review"` during Pass 2B. Pass 3 is still required.
 
-Pass-2B cadence follows the established precedent: **10 physical scans per normal batch**, with the final remainder adjusted as necessary. Workflow batch boundaries do not create textual boundaries.
+Pass-2B began with **10 physical scans per batch** for Batches 1–2. From Batch 3 onward, the user-directed cadence is **15 physical scans per normal iteration**, with the final remainder adjusted as necessary. Workflow batch boundaries do not create textual boundaries.
 
 ## Batch 1 — overall scans 334–343 / printed pages 317–326
 
@@ -72,11 +72,42 @@ Durable correction commits:
 - scan 350 — `5dfc6cec19376351d7a00e84b9fae5b072f9af02`;
 - scan 353 — `2fe334a9099222b8875cbf8c976dcabdfb8841c3`.
 
+## Batch 3 — overall scans 354–368 / printed pages 337–351
+
+**Status: COMPLETE — 15 / 15 scans independently re-read against freshly rendered source pages for Pass 2B.**
+
+This is the first batch under the user-directed **15-page Pass-2B cadence**. Incoming **353→354 CLEAN** remains preserved. Scan **369 / printed 352** was inspected only as the outgoing boundary witness and confirms **368→369 is a genuine continuation**: scan 368 opens the Kovalan/Madhavi/Kannagi reflection, and scan 369 continues and closes it with Chapter 113 / Kural 1130.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 354 | 337 | independent word-level re-read complete across the Kaarmegam jealousy opening and continuation into 355; no new correction required |
+| 355 | 338 | independently confirmed the Kaarmegam jealousy conclusion, Kural 165, lineation, Chapter 17 metadata and source glosses; no new correction required |
+| 356 | 339 | independent word-level re-read complete across the Paavai/Poonkundran forest-lovers opening and continuation into 357; no new correction required |
+| 357 | 340 | independently confirmed the forest-lovers conclusion, Kural 1121, lineation, Chapter 113 metadata and source glosses; no new correction required |
+| 358 | 341 | independent word-level re-read complete across the political punishment/weeding comparison, Kural 550 and continuation into 359; no new correction required |
+| 359 | 342 | independently confirmed the political punishment/tyranny conclusion, Idi Amin example, Kural 551 and Chapter 55/56 metadata; no new correction required |
+| 360 | 343 | independent word-level re-read complete across the hypocritical-ascetic opening and continuation into 361; no new correction required |
+| 361 | 344 | independently confirmed the hypocritical-ascetic conclusion, lyrical address, Kural 276, lineation, Chapter 28 metadata and source gloss; no new correction required |
+| 362 | 345 | corrected source-visible `புவிநிகர்த்த வீரமன்னர்கள்` → `புலிநிகர்த்த வீரமன்னர்கள்`; remaining Rome/pleasure opening and continuation into 363 independently confirmed |
+| 363 | 346 | independently confirmed the Rome/pleasure conclusion, explanatory paraphrase, Kural 917, lineation and Chapter 92 metadata; no new correction required |
+| 364 | 347 | independent word-level re-read complete across the Seeralan taxation/tyranny opening and continuation into 365; no new correction required |
+| 365 | 348 | independently confirmed the Seeralan taxation/tyranny conclusion, Kural 250, lineation and Chapter 26 metadata; no new correction required |
+| 366 | 349 | independent word-level re-read complete across the Bhagat Singh/Rajaguru/Sukhdev/Jeyagopal opening and continuation into 367; no new correction required |
+| 367 | 350 | independently confirmed the revolutionary narrative conclusion, Kural 806, lineation, Chapter 81 metadata and source glosses; no new correction required |
+| 368 | 351 | independently confirmed the illustrated Kovalan/Madhavi/Kannagi opening and its genuine continuation into 369; no new correction required; scan 369 witness confirms **368→369 genuine continuation** |
+
+Batch 3 correction summary: **1 record corrected; 14 records required no new Pass-2B correction**.
+
+Durable correction commit:
+
+- scan 362 — `8daaca2e831bdc4e07aa0210f2ff26732c634caf`.
+
 ## Current Pass 2B coverage
 
-- complete: **20 / 111 scans**;
-- independently re-read range: **334–353 / printed 317–336**;
-- remaining Pass 2B: **91 scans**;
+- complete: **35 / 111 scans**;
+- independently re-read range: **334–368 / printed 317–351**;
+- remaining Pass 2B: **76 scans**;
+- current normal iteration size: **15 scans**;
 - textual page status remains `needs-review`;
 - visual fidelity remains `needs-review`;
 - Pass 3 remains **BLOCKED until Pass 2B reaches 111/111**;
@@ -84,4 +115,4 @@ Durable correction commits:
 
 ## Exact next activity
 
-Process **Part 004 Pass 2B Batch 3 — scans 354–363 / printed 337–346 (10 scans)** against freshly rendered source pages. Re-read every source-visible printed word independently, correct only source-supported lexical/punctuation/joining/spacing/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **364 / printed 347** only as the outgoing boundary witness if needed. Do not start Pass 3 or Part 005.
+Process **Part 004 Pass 2B Batch 4 — scans 369–383 / printed 352–366 (15 scans)** against freshly rendered source pages. Re-read every source-visible printed word independently, correct only source-supported lexical/punctuation/joining/spacing/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **384 / printed 367** only as the outgoing boundary witness if needed. Do not start Pass 3 or Part 005.
