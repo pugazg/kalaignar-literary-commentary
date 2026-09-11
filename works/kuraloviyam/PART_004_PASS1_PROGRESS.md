@@ -267,12 +267,13 @@ Pass 1 remains **COMPLETE — 111/111**. Pass 2A has now begun.
 - Pass 2A Batch 1 — scans **334–344 / printed 317–327 — COMPLETE 11/11**;
 - Pass 2A Batch 2 — scans **345–355 / printed 328–338 — COMPLETE 11/11**;
 - Pass 2A Batch 3 — scans **356–366 / printed 339–349 — COMPLETE 11/11**;
-- Batch 3: 6 page records corrected directly from source; 5 required no textual change;
-- outgoing **366→367 genuine continuation** reconfirmed from scan 367 witness;
+- Pass 2A Batch 4 — scans **367–377 / printed 350–360 — COMPLETE 11/11**;
+- Batch 4: 9 page records corrected directly from source; 2 required no textual change;
+- outgoing **377→378 CLEAN** boundary reconfirmed from scan 378 witness;
 - durable Pass-2A log: `PASS2_TEXTUAL_VERIFICATION_PART_004.md`;
-- current Pass 2A coverage: **33/111**;
+- current Pass 2A coverage: **44/111**;
 - Pass 2B remains blocked until Pass 2A reaches 111/111.
 
 ## Exact next activity
 
-Proceed with **Part 004 Pass 2A Batch 4 — scans 367–377 / printed 350–360 (11 scans)**. Continue the Bhagat Singh / Rajaguru / Sukhdev / Jeyagopal narrative into scan 367 without inventing a boundary; compare each page record directly against the rendered controlling scan, correct only source-supported textual/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, inspect scan 378 only as an outgoing boundary witness if required, and update `PASS2_TEXTUAL_VERIFICATION_PART_004.md` with the exact next frontier. Do not start Pass 2B or Part 005.
+Proceed with **Part 004 Pass 2A Batch 5 — scans 378–388 / printed 361–371 (11 scans)**. Compare each page record directly against the rendered controlling scan, correct only source-supported textual/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, inspect scan 389 only as an outgoing boundary witness if required, and update `PASS2_TEXTUAL_VERIFICATION_PART_004.md` with the exact next frontier. Do not start Pass 2B or Part 005.
