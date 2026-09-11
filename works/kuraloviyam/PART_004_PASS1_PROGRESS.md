@@ -271,13 +271,14 @@ Pass 1 remains **COMPLETE — 111/111**. Pass 2A has now begun.
 - Pass 2A Batch 5 — scans **378–388 / printed 361–371 — COMPLETE 11/11**;
 - Pass 2A Batch 6 — scans **389–399 / printed 372–382 — COMPLETE 11/11**;
 - Pass 2A Batch 7 — scans **400–410 / printed 383–393 — COMPLETE 11/11**;
-- Batch 7: 10 page records corrected directly from source; 1 required no textual change;
-- incoming **399→400 CLEAN** preserved;
-- outgoing **410→411 genuine continuation** reconfirmed from scan 411 witness; the lovers vignette closes on scan 411 with Chapter 126 / Kural 1258;
+- Pass 2A Batch 8 — scans **411–421 / printed 394–404 — COMPLETE 11/11**;
+- Batch 8: 3 page records corrected directly from source; 8 required no textual change;
+- incoming **410→411 genuine continuation** preserved and closed on scan 411 with Chapter 126 / Kural 1258;
+- outgoing **421→422 genuine continuation** confirmed from scan 422 witness; the Pugazhenthi/Ottakoothar discussion closes on scan 422 with Chapter 112 / Kurals 1111 and 1113;
 - durable Pass-2A log: `PASS2_TEXTUAL_VERIFICATION_PART_004.md`;
-- current Pass 2A coverage: **77/111**;
+- current Pass 2A coverage: **88/111**;
 - Pass 2B remains blocked until Pass 2A reaches 111/111.
 
 ## Exact next activity
 
-Proceed with **Part 004 Pass 2A Batch 8 — scans 411–421 / printed 394–404 (11 scans)**. Preserve the incoming **410→411 genuine continuation** and its closure on scan 411; compare each page record directly against the rendered controlling scan, correct only source-supported textual/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, inspect scan 422 only as an outgoing boundary witness if required, and update `PASS2_TEXTUAL_VERIFICATION_PART_004.md` with the exact next frontier. Do not start Pass 2B or Part 005.
+Proceed with **Part 004 Pass 2A Batch 9 — scans 422–432 / printed 405–415 (11 scans)**. Preserve the incoming **421→422 genuine continuation** and its closure on scan 422; compare each page record directly against the rendered controlling scan, correct only source-supported textual/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, inspect scan 433 only as an outgoing boundary witness if required, and update `PASS2_TEXTUAL_VERIFICATION_PART_004.md` with the exact next frontier. Do not start Pass 2B or Part 005.
