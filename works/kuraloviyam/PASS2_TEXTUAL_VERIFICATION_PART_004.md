@@ -84,15 +84,46 @@ Durable correction commit:
 
 - scan 355 — `a6da7c63bb279e307bc3f33b20eeb36a07dcac21`.
 
+## Batch 3 — overall scans 356–366 / printed pages 339–349
+
+**Status: COMPLETE — 11 / 11 scans directly compared against rendered source.**
+
+Incoming **355→356 CLEAN** boundary was preserved. Scan **367 / printed 350** was inspected only as the outgoing witness and reconfirms **366→367 as a genuine continuation** of the Bhagat Singh / Rajaguru / Sukhdev / Jeyagopal narrative.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 356 | 339 | direct textual comparison complete; no correction required; Paavai/Poonkundran forest-lovers vignette continues into 357 |
+| 357 | 340 | corrected `நானிதழின்` → source-visible `நான்கிதழின்`; Chapter 113 / Kural 1121 and source glosses confirmed |
+| 358 | 341 | direct textual comparison complete; no correction required; political punishment/weeding comparison and Kural 550 confirmed; continuation into 359 |
+| 359 | 342 | restored source readings `கொலைகாரனைவிடத்`, `களையைவிட இடர்மிகுந்த`, `திறமைவாய்ந்த அதிபராக`, `காட்டிய காட்சியை`, `கொடியோன்`, and `ஏன் ஆட்சிக் கொடி?`; Chapter 55 / Kural 550 and Chapter 56 / Kural 551 confirmed |
+| 360 | 343 | corrected `மனைவிகளாக` → source-visible `மனைகளாக`; restored `என் மானங்காக்கும் ஆடையாக`; continuation into 361 confirmed |
+| 361 | 344 | corrected `அருளிப் பெருக்கினை` → source-visible `அருவிப் பெருக்கனைய`; Chapter 28 / Kural 276 and source gloss confirmed |
+| 362 | 345 | direct textual comparison complete; no correction required; Rome/pleasure vignette continues into 363 |
+| 363 | 346 | direct textual comparison complete; no correction required; Chapter 92 / Kural 917 confirmed |
+| 364 | 347 | direct textual comparison complete; no correction required; Seeralan taxation/tyranny vignette continues into 365 |
+| 365 | 348 | corrected `மலைநாட்டு மக்கள் மீது அதிகம் செலுத்தி` → source-visible `மலைநாட்டு மக்கள் மீது அதிகம் வரிசுமத்தி`; Chapter 26 / Kural 250 confirmed |
+| 366 | 349 | corrected `வெற்றியினை விரைவில் தராது` → source-visible `வெற்றியினை விரைவில் தாராது`; Bhagat Singh / Rajaguru / Sukhdev / Jeyagopal narrative continues into 367 |
+
+Batch 3 correction summary: **6 records corrected; 5 records required no textual change**.
+
+Durable correction commits:
+
+- scan 357 — `8a2b8240115191c3525e7a19c70480145cc5739d`;
+- scan 359 — `46db8979c92609732048fb3464178e222e7923bb`;
+- scan 360 — `150021817d54ac0d68d08b90db2971a410545d14`;
+- scan 361 — `08ee47db09a572c13a95dfee922109309735d005`;
+- scan 365 — `3a5d8003b0a1f4b0e801d36f90f5df693dd66ed7`;
+- scan 366 — `c44a068a6b528c770b8e58be1b997f9ad5d8a57b`.
+
 ## Current Pass 2A coverage
 
-- complete: **22 / 111 scans**;
-- verified range: **334–355 / printed 317–338**;
-- remaining Pass 2A: **89 scans**;
+- complete: **33 / 111 scans**;
+- verified range: **334–366 / printed 317–349**;
+- remaining Pass 2A: **78 scans**;
 - page statuses remain **needs-review / needs-review**;
 - Pass 2B: **BLOCKED until Pass 2A reaches 111/111**;
 - Part 005: **BLOCKED**; **444→445 remains deferred until Part 005 source intake**.
 
 ## Exact next activity
 
-Process **Pass 2A Batch 3 — scans 356–366 / printed 339–349 (11 scans)**. Re-render and compare every record directly against the controlling source, correct only source-supported wording/punctuation/paragraph/Kural/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **367 / printed 350** only as the outgoing boundary witness if needed.
+Process **Pass 2A Batch 4 — scans 367–377 / printed 350–360 (11 scans)**. Re-render and compare every record directly against the controlling source, preserve the incoming Bhagat Singh / Rajaguru / Sukhdev / Jeyagopal continuation into scan 367, correct only source-supported wording/punctuation/paragraph/Kural/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **378 / printed 361** only as the outgoing boundary witness if needed.
