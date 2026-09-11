@@ -286,6 +286,22 @@ Pass 1 remains **COMPLETE — 111/111**. Pass 2A is now **COMPLETE / PASS — 11
 - page records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`;
 - Pass 2B is now **NEXT / UNBLOCKED**; Pass 3 remains blocked until Pass 2B completes.
 
+## Pass 2B frontier
+
+Part 004 Pass 2B has begun after Pass 2A closed at **111/111 COMPLETE / PASS**.
+
+- Pass 2B Batch 1 — scans **334–343 / printed 317–326 — COMPLETE 10/10**;
+- Batch 1 corrections: scans **335 and 343**;
+- Batch 1 no-change: scans **334, 336, 337, 338, 339, 340, 341, 342**;
+- incoming **333→334 CLEAN** preserved;
+- outgoing **343→344 CLEAN** reconfirmed from scan 344 witness;
+- dedicated Pass-2B log: `PASS2B_LEXICAL_FIDELITY_PART_004.md`;
+- current Pass 2B coverage: **10/111**;
+- remaining Pass 2B: **101**;
+- all page records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`;
+- Pass 3 remains blocked until Pass 2B reaches **111/111**;
+- **444→445 remains DEFERRED / UNRESOLVED** until Part 005 source intake.
+
 ## Exact next activity
 
-Begin **Part 004 Pass 2B — independent lexical-fidelity re-read**. Follow the established 10-scan cadence: process **Batch 1 scans 334–343 / printed 317–326**, independently re-reading every source-visible printed word from freshly rendered source pages, and inspect scan **344 / printed 327** only as the outgoing boundary witness if required. Do not normalize source wording, do not start Pass 3, and do not begin Part 005.
+Proceed with **Part 004 Pass 2B Batch 2 — scans 344–353 / printed 327–336 (10 scans)**. Independently re-read every source-visible printed word against freshly rendered source pages, correct only source-supported lexical/punctuation/joining/spacing/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, inspect scan **354 / printed 337** only as the outgoing boundary witness if required, and update `PASS2B_LEXICAL_FIDELITY_PART_004.md`. Do not start Pass 3 or Part 005.
