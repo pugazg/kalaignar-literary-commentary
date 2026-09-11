@@ -58,15 +58,41 @@ Durable correction commits:
 - scan 343 — `87f720251f1e3327882ce6f92f271825c428401d`;
 - scan 344 — `1cc76ba02e5f7a8108d4ecd570efd2a76693fefa`.
 
+## Batch 2 — overall scans 345–355 / printed pages 328–338
+
+**Status: COMPLETE — 11 / 11 scans directly compared against rendered source.**
+
+Incoming **344→345 genuine continuation** was preserved. Scan **356 / printed 339** was inspected only as the outgoing witness and reconfirms **355→356 CLEAN**: scan 355 closes the Kaarmegam jealousy vignette with Chapter 17 / Kural 165, while scan 356 starts a new illustrated forest-lovers vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 345 | 328 | direct textual comparison complete; no correction required; closes the Aththi lost-trading-ship vignette with Chapter 34 / Kural 332 |
+| 346 | 329 | direct textual comparison complete; no correction required; lovers/separation vignette continues into 347 |
+| 347 | 330 | direct textual comparison complete; no correction required; Chapter 116 / Kural 1156 and source glosses confirmed |
+| 348 | 331 | direct textual comparison complete; no correction required; day-as-sword vignette continues into 349 |
+| 349 | 332 | direct textual comparison complete; no correction required; Chapter 34 / Kural 334 confirmed |
+| 350 | 333 | direct textual comparison complete; no correction required; illness-and-love vignette continues mid-phrase into 351 |
+| 351 | 334 | direct textual comparison complete; no correction required; Chapter 111 / Kural 1102 and source glosses confirmed |
+| 352 | 335 | direct textual comparison complete; no correction required; Manonmaniyam/Kudilan vignette continues into 353 |
+| 353 | 336 | direct textual comparison complete; no correction required; Chapter 80 / Kural 798 confirmed |
+| 354 | 337 | direct textual comparison complete; no correction required; Kaarmegam jealousy vignette continues into 355 |
+| 355 | 338 | corrected `பொறாமைதான்` → source-visible `பொறாமைத்தீ`; Chapter 17 / Kural 165 and source glosses confirmed; **355→356 CLEAN** |
+
+Batch 2 correction summary: **1 record corrected; 10 records required no textual change**.
+
+Durable correction commit:
+
+- scan 355 — `a6da7c63bb279e307bc3f33b20eeb36a07dcac21`.
+
 ## Current Pass 2A coverage
 
-- complete: **11 / 111 scans**;
-- verified range: **334–344 / printed 317–327**;
-- remaining Pass 2A: **100 scans**;
+- complete: **22 / 111 scans**;
+- verified range: **334–355 / printed 317–338**;
+- remaining Pass 2A: **89 scans**;
 - page statuses remain **needs-review / needs-review**;
 - Pass 2B: **BLOCKED until Pass 2A reaches 111/111**;
 - Part 005: **BLOCKED**; **444→445 remains deferred until Part 005 source intake**.
 
 ## Exact next activity
 
-Process **Pass 2A Batch 2 — scans 345–355 / printed 328–338 (11 scans)**. Re-render and compare every record directly against the controlling source, correct only source-supported wording/punctuation/paragraph/Kural/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **356 / printed 339** only as the outgoing boundary witness if needed.
+Process **Pass 2A Batch 3 — scans 356–366 / printed 339–349 (11 scans)**. Re-render and compare every record directly against the controlling source, correct only source-supported wording/punctuation/paragraph/Kural/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **367 / printed 350** only as the outgoing boundary witness if needed.
