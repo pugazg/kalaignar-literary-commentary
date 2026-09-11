@@ -149,15 +149,50 @@ Durable correction commits:
 - scan 376 — `1ea9ca78e0d42c3b32abeb31ba750e008174f482`;
 - scan 377 — `ad7f1d0cdfe8cb1af0ab41c1bacf2c82fa8aa89b`.
 
+## Batch 5 — overall scans 378–388 / printed pages 361–371
+
+**Status: COMPLETE — 11 / 11 scans directly compared against rendered source.**
+
+Incoming **377→378 CLEAN** boundary was preserved. Scan **389 / printed 372** was inspected only as the outgoing witness and reconfirms **388→389 as a genuine continuation** of the ascetic-greatness reflection.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 378 | 361 | corrected `அவன்முகம்` → source-visible `அவனிழுக்க`; domestic lovers vignette continues into 379 |
+| 379 | 362 | corrected `பார்த்துக்கொண்டிருக்கப்` → source-visible `பார்த்துக்களித்துப்`; corrected `உணவுக்குக்` → `உண்பதற்குக்`; Chapter 123 / Kural 1225 confirmed |
+| 380 | 363 | corrected `சொல்லன்மையின்` → source-visible `சொல்வன்மையின்`; Kalaivaanar rationalist-humour discussion continues into 381 |
+| 381 | 364 | corrected `இழிச்சியையோ` → source-visible `இகழ்ச்சியையோ`; restored source gloss punctuation `இசை - புகழ்`, `வசை - பழி`; Chapter 24 / Kural 238 confirmed |
+| 382 | 365 | direct textual comparison complete; no correction required; self-praise/smallness vignette continues into 383 |
+| 383 | 366 | corrected `மெய்க்காப்பாளன்` → source-visible `மெய்க்காப்பாளனோ`; corrected `அதன் விளைவும்` → `அதன் விளைவையும்`; Chapter 98 / Kural 978 confirmed |
+| 384 | 367 | corrected `அடுக்களைக்குச் செல்லதும்` → source-visible `அடுக்களைக்குச் செல்வதும்`; corrected `ஊர்ப்பூ பொங்க` → `பூரிப்பு பொங்க`; lovers' quarrel vignette continues into 385 |
+| 385 | 368 | corrected `கிண்ணத்துப்பால் ஆடை படரும்` → source-visible `கிண்ணத்துப்பாலில் ஆடை படரும்`; Chapter 131 / Kural 1304 confirmed |
+| 386 | 369 | corrected `எழுதியுப் பேசி` → source-visible `எழுதிப் பேசி`; Periyar/Rajaji friendship reflection continues into 387 |
+| 387 | 370 | corrected `நீர்காமல்` → source-visible `நிற்காமல்`; corrected `பூவென` → `புயலென`; restored source gloss punctuation `நீர - தன்மையுடையது`, `நீரவர் - அறிவுடையார்`; Chapter 79 / Kural 782 confirmed |
+| 388 | 371 | corrected `அந்தப் போர்களும் நோக்கிப்` → source-visible `அந்தப் போர்க்களம் நோக்கிப்`; ascetic-greatness reflection continues into 389 |
+
+Batch 5 correction summary: **10 records corrected; 1 record required no textual change**.
+
+Durable correction commits:
+
+- scan 378 — `b070ef57eff3ccf15f3cdd6ca2bc79b402c073d3`;
+- scan 379 — `018a2a2ac504ca5032802c0abcf767df16dd6918`;
+- scan 380 — `9b34fcafec44b336a8136f527ec3c491285c4157`;
+- scan 381 — `ed569f4b1f12392f2434f5bd4a259da94654ea7e`;
+- scan 383 — `c7f428a81fa00b2eb13a0c0f36c01bc0253b68e8`;
+- scan 384 — `e229ed3b4d8fdfb79d442080be001b6d76b00688`;
+- scan 385 — `ac99ba38d3bf4530076b1b9c26f0d74a617be788`;
+- scan 386 — `139037d49b6af7042d00c1dab0cada28157079c3`;
+- scan 387 — `4f5ba25ae917f861c77e13b875e104eed71b68c5`;
+- scan 388 — `ca4fcf9b9e23454236d17c7c8e0df08eb5037918`.
+
 ## Current Pass 2A coverage
 
-- complete: **44 / 111 scans**;
-- verified range: **334–377 / printed 317–360**;
-- remaining Pass 2A: **67 scans**;
+- complete: **55 / 111 scans**;
+- verified range: **334–388 / printed 317–371**;
+- remaining Pass 2A: **56 scans**;
 - page statuses remain **needs-review / needs-review**;
 - Pass 2B: **BLOCKED until Pass 2A reaches 111/111**;
 - Part 005: **BLOCKED**; **444→445 remains deferred until Part 005 source intake**.
 
 ## Exact next activity
 
-Process **Pass 2A Batch 5 — scans 378–388 / printed 361–371 (11 scans)**. Re-render and compare every record directly against the controlling source, correct only source-supported wording/punctuation/paragraph/Kural/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **389 / printed 372** only as the outgoing boundary witness if needed.
+Process **Pass 2A Batch 6 — scans 389–399 / printed 372–382 (11 scans)**. Re-render and compare every record directly against the controlling source, preserve the incoming ascetic-greatness continuation into scan 389, correct only source-supported wording/punctuation/paragraph/Kural/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **400 / printed 383** only as the outgoing boundary witness if needed.
