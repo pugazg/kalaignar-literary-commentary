@@ -311,15 +311,57 @@ Durable final-state correction commits:
 - scan 428 — `698136d747ff39818bf6dcf5c37458fc97682956`;
 - scan 432 — `f7da8d770021541e5ccc2d8f16eab0e79d0db28e`.
 
+## Batch 10 — overall scans 433–443 / printed pages 416–426
+
+**Status: COMPLETE — 11 / 11 scans directly compared against rendered source.**
+
+Incoming **432→433 CLEAN** was preserved. Scan **444 / printed 427** was inspected as the outgoing witness and confirms **443→444 CLEAN**: scan 443 closes the Nagan/Nallaan friendship-benefit vignette with Chapter 82 / Kural 812, while scan 444 starts a new illustrated royal/court famine-granary narrative.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 433 | 416 | direct textual comparison complete; no correction required; Nallithayan/Porko wealth-and-character vignette begins and continues into 434 |
+| 434 | 417 | direct textual comparison complete; no correction required; Nallithayan/Porko vignette continues into 435; Kural 995 confirmed |
+| 435 | 418 | corrected `களிம்பு எறிய` → source-visible `களிம்பு ஏறிய` and `அந்தப் பால்` → `அந்தப்பால்`; Chapter 100 / Kurals 995 and 1000 confirmed |
+| 436 | 419 | direct textual comparison complete; no correction required; Selkendai/Kayalvizhi fishermen vignette begins and continues into 437 |
+| 437 | 420 | corrected `வாழ்த்திக் தழுவி` → source-visible `வாழ்த்தித் தழுவி`; Chapter 127 / Kural 1266 and source glosses confirmed |
+| 438 | 421 | corrected `வழக்கிவுமில்லாத` → `வழக்கிலுமில்லாத`, `மானமென்றே` → `மானமொன்றே`, and malformed `அந்த வீரநெஞ்சனை இடம்நிறுத்தத்தான்` → source-visible `அந்த வீரநெஞ்சனை இகழ்ந்துரைத்ததுதான்`; chief-minister/young-king vignette continues into 439 |
+| 439 | 422 | direct textual comparison complete; no correction required; Chapter 49 / Kural 490 confirmed |
+| 440 | 423 | direct textual comparison complete; no correction required; lovers-separation vignette begins and continues mid-sentence into 441 |
+| 441 | 424 | direct textual comparison complete; no correction required; source-visible `ஒருநாள் ஒன்று சேர்வோம்` preserved; Chapter 116 / Kural 1160 confirmed |
+| 442 | 425 | direct textual comparison complete; no correction required; Nagan/Nallaan friendship-benefit vignette begins and continues into 443 |
+| 443 | 426 | corrected `மனத்திருப்தியை` → `மனத்தெம்பினை`, `பகிர்ந்து கொள்ளத்` → `பங்கிட்டுக் கொள்ளத்`, `அந்த ஊரின் ... இருக்கிறான்` → `அந்த ஊரில் ... இருக்கின்றான்`, `குறித்து கவலைப்பட்டதைவிட` → `குறித்துக் கவலைப்பட்டதைவிட`, and `நட்பைப் பெற்றால்` → source-visible `நட்பைப்பெற்றால்`; Chapter 82 / Kural 812 and source glosses confirmed; **443→444 CLEAN** |
+
+Batch 10 correction summary: **4 records corrected; 7 records required no textual change**.
+
+Durable correction commits:
+
+- scan 435 — `f1bf9e5f78d6a037a6758d4a5917d36ecfa61bee`;
+- scan 437 — `e83ede75ba8657bacc476b4db1b2c917970d5296`;
+- scan 438 — `fa9bf504b78129872ec15a21edd9fa0c4c2e2a0d`;
+- scan 443 — `4a1847bba6ce2c86f15912ec795078893551bd66`.
+
+## Final remainder — overall scan 444 / printed page 427
+
+**Status: COMPLETE — 1 / 1 scan directly compared against rendered source.**
+
+Scan 444 begins the illustrated royal/court famine-granary narrative and visibly remains open at the supplied Part-004 endpoint. Source-backed repairs were made for `கொலுமண்டபத்தில்`, `புடை சூழ இருந்த`, `உடைவாளை உருவியவாறு`, `கொலு மண்டபத்தில்`, `வாளை உருவிய வேந்தன்`, `கொள்ளையடித்துச் சூறையாடிக் கொண்டு`, and `சொந்த நாட்டுக்காரர்களைப் பட்டினி போட்டுக் கொல்கிறாய்`. No continuation beyond the supplied source was inferred.
+
+Durable correction commit:
+
+- scan 444 — `4def2638a4c67067d7ada226e2227ed27bd7b7a3`.
+
+**444→445 remains DEFERRED / UNRESOLVED until the actual Part 005 controlling source is supplied.**
+
 ## Current Pass 2A coverage
 
-- complete: **99 / 111 scans**;
-- verified range: **334–432 / printed 317–415**;
-- remaining Pass 2A: **12 scans**;
-- page statuses remain **needs-review / needs-review**;
-- Pass 2B: **BLOCKED until Pass 2A reaches 111/111**;
+- **COMPLETE / PASS — 111 / 111 scans**;
+- verified range: **334–444 / printed 317–427**;
+- remaining Pass 2A: **0**;
+- page statuses remain **needs-review / needs-review** because Pass 2B and Pass 3 are still required before final verification metadata;
+- Pass 2B: **NEXT / UNBLOCKED**;
+- Pass 3: **BLOCKED until Pass 2B completes**;
 - Part 005: **BLOCKED**; **444→445 remains deferred until Part 005 source intake**.
 
 ## Exact next activity
 
-Process **Pass 2A Batch 10 — scans 433–443 / printed 416–426 (11 scans)**. Re-render and compare every record directly against the controlling source, preserve the incoming **432→433 CLEAN** boundary, correct only source-supported wording/punctuation/paragraph/Kural/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **444 / printed 427** only as the outgoing boundary witness if needed.
+Begin **Part 004 Pass 2B — independent lexical-fidelity re-read**, following the established 10-scan cadence. Process **Batch 1: scans 334–343 / printed 317–326 (10 scans)** against freshly rendered source pages; inspect scan **344 / printed 327** only as the outgoing boundary witness if needed. Create/update the dedicated Part-004 Pass-2B lexical-fidelity log. Do not start Pass 3 or Part 005.
