@@ -188,9 +188,31 @@ Durable page commits, in order:
 
 Outgoing boundary witness: scan **422 / printed 405** was inspected directly. It continues the Pugazhenthi/Ottakoothar literary-imagination discussion opened on scan 421 and closes that discussion with Chapter 112 / Kurals 1111 and 1113. Therefore **421→422 is a genuine continuation**; scan 422 was not created during P4-08.
 
+## P4-09 state
+
+**11 / 11 page records captured — COMPLETE.**
+
+P4-09 scans **422–432 / printed 405–415** are captured as one page-aligned Tamil Pass-1 record per physical scan. The records carry `part: 4`, `part_page: 89–99`, source-visible printed pages, `status: "needs-review"`, and `visual_fidelity: "needs-review"`.
+
+Durable page commits, in order:
+
+- scan 422 — `0c1e8a67b8795ad2680eaec612878e91ae45039f`;
+- scan 423 — `f84bb15d5b7ad01189d0b96a636f0e3a4fa2cd22`;
+- scan 424 — `7bbd1feee9f8c8552d4e89473e53208dfb21e22b`;
+- scan 425 — `d5a2395a598d9d1657db9ca7832320ed0992056c`;
+- scan 426 — `dea18a78004332d757157848586ef75a71e02229`;
+- scan 427 — `06c25780b82eb35c70df3fb6d576e61ef5940cb2`;
+- scan 428 — `d69044364a867ff6f4d250a4718bd3d392fc981e`;
+- scan 429 — `c99240af7e12525dd9bc4c80f49e1803f9a0ea3e`;
+- scan 430 — `c3308ac11e5b8589f5737d308cb31a3b11ed2ebb`;
+- scan 431 — `1e797ab5612e7fae6c97e4a7f583be13a6f016c7`;
+- scan 432 — `b6af353658b63baa2c249031ed45c7db304b6fed`.
+
+Outgoing boundary witness: scan **433 / printed 416** was inspected directly and begins a new illustrated narrative. Scan 432 closes its compassion/inner-love vignette with Chapter 8 / Kural 79. Therefore **432→433 is CLEAN**; scan 433 was not created during P4-09.
+
 ## Pass 1 state
 
-**88 / 111 page records captured.** P4-01 through P4-08 are complete; do not recapture or overwrite these 88 durable records merely because an older handover or prompt reports an earlier frontier.
+**99 / 111 page records captured.** P4-01 through P4-09 are complete; do not recapture or overwrite these 99 durable records merely because an older handover or prompt reports an earlier frontier.
 
 Planned batches:
 
@@ -202,12 +224,12 @@ Planned batches:
 - P4-06: **389–399 / printed 372–382 — COMPLETE 11/11**;
 - P4-07: **400–410 / printed 383–393 — COMPLETE 11/11**;
 - P4-08: **411–421 / printed 394–404 — COMPLETE 11/11**;
-- P4-09: **422–432 / printed 405–415 — NEXT**;
-- P4-10: **433–443 / printed 416–426**;
+- P4-09: **422–432 / printed 405–415 — COMPLETE 11/11**;
+- P4-10: **433–443 / printed 416–426 — NEXT**;
 - final remainder: **444 / printed 427**.
 
 At the supplied Part endpoint, scan 444 begins a new illustrated royal/court narrative and visibly remains open. **444→445 stays deferred until Part 005 source intake.**
 
 ## Exact next activity
 
-Process **P4-09 — scans 422–432 / printed 405–415** as 11 page-aligned Tamil Pass-1 records. Continue the Pugazhenthi/Ottakoothar literary-imagination discussion from scan 421 into scan 422 without inventing a boundary; inspect each rendered source page directly, preserve source wording/paragraphs/Kural blocks/visual relationships, use `needs-review` for both textual and visual status, and inspect scan 433 only if required to settle the outgoing batch boundary.
+Process **P4-10 — scans 433–443 / printed 416–426** as 11 page-aligned Tamil Pass-1 records. Start with the new illustrated narrative on scan 433, inspect each rendered source page directly, preserve source wording/paragraphs/Kural blocks/visual relationships, use `needs-review` for both textual and visual status, and inspect scan 444 only if required to settle the outgoing batch boundary. Do not proceed beyond Part 004: scan 444 / printed 427 remains the separately planned final remainder, and its continuation to Part 005 is deferred until Part 005 source intake.
