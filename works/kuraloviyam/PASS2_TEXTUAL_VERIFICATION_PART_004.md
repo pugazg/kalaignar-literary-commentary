@@ -217,34 +217,36 @@ Durable correction commits:
 
 **Status: COMPLETE — 11 / 11 scans directly compared against rendered source.**
 
-Incoming **399→400 CLEAN** boundary was preserved. Scan **411 / printed 394** was inspected only as the outgoing witness and reconfirms **410→411 as a genuine continuation** of the lovers vignette opened on scan 410; that unit closes on scan 411 with Chapter 126 / Kural 1258.
+Incoming **399→400 CLEAN** boundary was preserved. Scan **411 / printed 394** was inspected only as the outgoing witness and confirms **410→411 as a genuine continuation**: scan 410 opens the lovers vignette and scan 411 directly continues and closes it with Chapter 126 / Kural 1258.
 
 | Scan | Printed page | Result |
 |---:|---:|---|
-| 400 | 383 | direct textual comparison complete; no correction required; speculative visitors vignette begins and continues into 401 |
-| 401 | 384 | restored source-visible `நேரத்திற் கெல்லாம்`, `புவியிலுள்ள`, `புவியில்`, and the missing rain-water sentence `அந்த மழை நீரையே குடித்துக் கொள்கிறார்கள்!`; Chapter 2 / Kural 12 and glosses confirmed |
-| 402 | 385 | corrected `குறிஞ்சி கொப்பளிக்கும்` → `குருதி கொப்பளிக்கும்`; `காமத்தியாக` → `காமத்தீயாக`; two-boats/love vignette continues through illustration scan 403 |
-| 403 | 386 | full-page illustration; no body-text correction required; physical continuity 402→403→404 confirmed |
-| 404 | 387 | direct textual comparison complete; no correction required; Chapter 114 / Kural 1134 and `புணை - தோணி` confirmed |
-| 405 | 388 | restored `தேவர் உலகத்து ரம்பை`, `தூண்டில்முள்`, and `துளைக்கும் மத யானைகளின்`; dialogue continues into 406 |
-| 406 | 389 | restored source opening hyphen for the narrative turn; corrected `கண்மலை வீச்` → `கண்வலை வீச`; corrected `கத்திக்குப் பயந்தோடி` → `கத்திக்குப் போய் ஓடி`; vignette continues into 407 |
-| 407 | 390 | restored source clause `பயன் கருதித் தோழமைகொண்டு கிடைக்கும் பயனை அளந்து பார்க்கும்`; Chapter 82 / Kural 813 and glosses confirmed |
-| 408 | 391 | corrected `போய்ப்பிள்ளைகளைப்` → `பேரப்பிள்ளைகளைப்`; `தேரு` → `தேர்`; Sevval/cattle-cruelty vignette continues into 409 |
-| 409 | 392 | restored `அவற்றின் முதுகில் குருதி கொப்பளிக்கும். அதைச் சுவைக்க ஈக்கள் மொய்க்கும்.`; corrected `தூங்கும்போது` → `தூங்கிடும்போது`; Chapter 32 / Kural 318 confirmed |
-| 410 | 393 | restored source readings including `வேற்கணை`, `அவனது நெஞ்சுறுதியெனும்`, `வேலைப்போல்`, the `வீதிகள் நான்கும் மோதி, ஏற்கனவே காயமுற்றிருந்தன` passage, `பறப்பதுபோல்`, and `நடையோ`; **410→411 genuine continuation** confirmed |
+| 400 | 383 | corrected `கொஞ்சி நிற்பதைக்` → source-visible `கொஞ்சிட நிற்பதைக்`; speculative visitors vignette continues into 401 |
+| 401 | 384 | restored source readings `சிறிது நேரத்திற் கெல்லாம்`, `புவியிலுள்ள`, `புவியில் கண்ட`, `அந்த மழை நீரையே குடித்துக் கொள்கிறார்கள்!`, and later `புவியில் உள்ளோர்`; Chapter 2 / Kural 12 and glosses confirmed |
+| 402 | 385 | corrected `அரும்பனை` → `அரும்பனைய`, `குறிஞ்சி கொப்பளிக்கும்` → `குருதி கொப்பளிக்கும்`, `புகழ்பாடும்` → `புகழைப்பாடும்`, `கிட்டென` → `சிட்டென`, and `காமத்தியாக` → `காமத்தீயாக`; vignette continues across illustration-only scan 403 |
+| 403 | 386 | direct comparison complete; full-page illustration with no body prose; no textual change required |
+| 404 | 387 | corrected `சுற்றிச் சூழன்று` → source-visible `சுற்றிச் சுழன்று`; Chapter 114 / Kural 1134 and gloss confirmed |
+| 405 | 388 | restored `தேவர் உலகத்து ரம்பை`, `தூண்டில்முள்`, and `நெஞ்சத்தைத் துளைக்கும் மத யானைகளின்`; deceptive-flattery/friendship vignette continues into 406 |
+| 406 | 389 | preserved source opening hyphen and restored `கவலையேதுங் கொள்ளாமல், கண்வலை வீச` plus `கள்வர் இருவரும் கதிகலங்கிப் போய் ஓடி மறைந்தனர்`; vignette continues into 407 |
+| 407 | 390 | corrected `எதிர்பார்த்துத்தான்` → source-visible `எதிர்பார்த்துக்குத்தான்`; restored `பயன் கருதித் தோழமைகொண்டு கிடைக்கும் பயனை அளந்து பார்க்கும்`; Chapter 82 / Kural 813 and glosses confirmed |
+| 408 | 391 | restored source readings including `வனால்`, `எட்டு வயது`, `செய்யு மிடத்தில்`, `பேரப்பிள்ளைகளைப்`, `தேர்`, `நடைபெற்றாலும்`, `வண்டியிலிருப்போரின்`, and `விலாப்புறத்திலும் செந்நிறம் காட்டிக் கொண்டிருக்கும்`; Sevval/cattle-cruelty vignette continues into 409 |
+| 409 | 392 | corrected `அதைச் சவுக்குச் சங்குகள்` → `அதைச் சுவைக்க ஈக்கள்`; restored source comma after `கொப்பளிக்கும்`, `தூங்கிடும்போது`, and `மொய்த்துக்கொண்டிருந்த`; Chapter 32 / Kural 318 confirmed |
+| 410 | 393 | restored source readings including `வேற்கணை`, `தொளை`, `அவனது நெஞ்சுறுதியெனும்`, `கொலைபுரியும் வேலைப்போல்`, `அந்தக் கிள்ளை`, `விழிகள் நான்கும் மோதி, ஏற்கனவே காயமுற்றிருந்தன`, `வாய்ப்பளவில்லை`, the missing `அவனும் விடுவதாக இல்லை!`, `பறப்பதுபோல்`, and `நடையோ`; **410→411 genuine continuation** confirmed |
 
-Batch 7 correction summary: **8 records corrected; 3 records required no textual change**.
+Batch 7 correction summary: **10 records corrected; 1 record required no textual change**.
 
-Durable correction commits:
+Durable final-state correction commits:
 
+- scan 400 — `c8ca5cf39d56139c282c578febbacec20c2a3f5e`;
 - scan 401 — `7cb50e22762e8b5f8efa112df31c558c2ccdbb0c`;
-- scan 402 — `3ea34c39fc35ebcde1bd73467f2196814d456977`;
+- scan 402 — `16780d8073480a7b6f6b84d2c21bfc834a13d3a2`;
+- scan 404 — `ec279cbbedb4020a3d2015e7ec7fcb67dfea2faa`;
 - scan 405 — `cb3d581a06669a66cab27cd6441f47f7f45584e5`;
-- scan 406 — `c80d43f7839773eaa74cb3448b17742b912b9a4c`;
-- scan 407 — `79d4568d4e2227009e94d5068c8733d67f10d663`;
-- scan 408 — `7bcaf12aa716aa9ec09c59296da6f4748fc11c47`;
-- scan 409 — `d747e760ad96f50e446cb38c8cbb650570078026`;
-- scan 410 — `4df886fb5ffe0f6f15ac6131ca7e92d9cf89dc5f`.
+- scan 406 — `1e43575a605eecef54e2d5e086c58ef732544953`;
+- scan 407 — `842532e6e3e00a771980de677ca1c6919c1c477f`;
+- scan 408 — `617e7b7da1bf9ae802c1e82694da33dc8e313608`;
+- scan 409 — `7b1957e30a67db25eaa6deebdb519d29d794d45e`;
+- scan 410 — `0ce4c8bd39d8b0583089a468c269ccfb4b999c1f`.
 
 ## Current Pass 2A coverage
 
