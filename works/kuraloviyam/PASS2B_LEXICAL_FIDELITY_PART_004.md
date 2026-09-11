@@ -102,11 +102,41 @@ Durable correction commit:
 
 - scan 362 — `8daaca2e831bdc4e07aa0210f2ff26732c634caf`.
 
+## Batch 4 — overall scans 369–383 / printed pages 352–366
+
+**Status: COMPLETE — 15 / 15 scans independently re-read against freshly rendered source pages for Pass 2B.**
+
+Incoming **368→369 genuine continuation** was preserved and closes on scan 369 with Chapter 113 / Kural 1130. Scan **384 / printed 367** was inspected only as the outgoing boundary witness and confirms **383→384 CLEAN**: scan 383 closes the self-praise/smallness vignette with Chapter 98 / Kural 978, while scan 384 begins a new illustrated lovers' quarrel / ஊடல் vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 369 | 352 | independently confirmed the Kovalan/Madhavi/Kannagi continuation and closure, Kural 1130, lineation and Chapter 113 metadata; no new correction required |
+| 370 | 353 | independent word-level re-read complete across the தூது discussion opening and continuation into 371; no new correction required |
+| 371 | 354 | independently confirmed the தூது discussion conclusion, Kurals 685 and 690, lineation and Chapter 69 metadata; no new correction required |
+| 372 | 355 | independent word-level re-read complete across the Maangili/Poonkodi seashore dialogue opening and continuation into 373; no new correction required |
+| 373 | 356 | independently confirmed the Maangili/Poonkodi conclusion, Kural 1295, lineation and Chapter 130 metadata; no new correction required |
+| 374 | 357 | independent word-level re-read complete across the memorials/historic-sites opening and continuation into 375; no new correction required |
+| 375 | 358 | independently confirmed the memorials/Anna reflection, paraphrase, Kural 28, lineation and Chapter 3 metadata; no new correction required |
+| 376 | 359 | independent word-level re-read complete across the matathipathi/palanquin opening and continuation into 377; no new correction required |
+| 377 | 360 | corrected source-visible `பொற்சிலை களைக்` → `பொற்சிலைகளைக்`; remaining matathipathi/palanquin conclusion, Kural 973, lineation and Chapter 98 metadata independently confirmed |
+| 378 | 361 | independent word-level re-read complete across the domestic lovers vignette opening and continuation into 379; no new correction required |
+| 379 | 362 | independently confirmed the domestic lovers conclusion, Kural 1225, lineation and Chapter 123 metadata; no new correction required |
+| 380 | 363 | independent word-level re-read complete across the Kalaivaanar rationalist-humour opening and continuation into 381; no new correction required |
+| 381 | 364 | independently confirmed the Kalaivaanar heaven/hell anecdote conclusion, Kural 238, lineation, Chapter 24 metadata and source glosses; no new correction required |
+| 382 | 365 | independent word-level re-read complete across the self-praise/smallness opening and continuation into 383; no new correction required |
+| 383 | 366 | independently confirmed the self-praise/smallness conclusion, Kural 978, lineation and Chapter 98 metadata; no new correction required; scan 384 witness confirms **383→384 CLEAN** |
+
+Batch 4 correction summary: **1 record corrected; 14 records required no new Pass-2B correction**.
+
+Durable correction commit:
+
+- scan 377 — `9ceb2c87349767e7f816554d5705c509b89fdf47`.
+
 ## Current Pass 2B coverage
 
-- complete: **35 / 111 scans**;
-- independently re-read range: **334–368 / printed 317–351**;
-- remaining Pass 2B: **76 scans**;
+- complete: **50 / 111 scans**;
+- independently re-read range: **334–383 / printed 317–366**;
+- remaining Pass 2B: **61 scans**;
 - current normal iteration size: **15 scans**;
 - textual page status remains `needs-review`;
 - visual fidelity remains `needs-review`;
@@ -115,4 +145,4 @@ Durable correction commit:
 
 ## Exact next activity
 
-Process **Part 004 Pass 2B Batch 4 — scans 369–383 / printed 352–366 (15 scans)** against freshly rendered source pages. Re-read every source-visible printed word independently, correct only source-supported lexical/punctuation/joining/spacing/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **384 / printed 367** only as the outgoing boundary witness if needed. Do not start Pass 3 or Part 005.
+Process **Part 004 Pass 2B Batch 5 — scans 384–398 / printed 367–381 (15 scans)** against freshly rendered source pages. Re-read every source-visible printed word independently, correct only source-supported lexical/punctuation/joining/spacing/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **399 / printed 382** only as the outgoing boundary witness if needed. Do not start Pass 3 or Part 005.
