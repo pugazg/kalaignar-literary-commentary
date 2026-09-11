@@ -282,30 +282,34 @@ Durable correction commits:
 
 Incoming **421→422 genuine continuation** was preserved and closes on scan 422 with Chapter 112 / Kurals 1111 and 1113. Scan **433 / printed 416** was inspected only as the outgoing witness and confirms **432→433 CLEAN**: scan 432 closes the compassion/inner-love vignette with Chapter 8 / Kural 79, while scan 433 starts a new illustrated Nallithayan/Porko wealth-and-character vignette.
 
+The live branch advanced during this batch. Newer durable Batch-9 work was preserved, then reconciled against the controlling source pixels before closure.
+
 | Scan | Printed page | Result |
 |---:|---:|---|
 | 422 | 405 | corrected `நனைத்தவளை நினைத்து மகிழ்பவன்` → source-visible `நனைத்தவளை நினைந்து மகிழ்பவன்`; incoming Pugazhenthi/Ottakoothar discussion closes here with Chapter 112 / Kurals 1111 and 1113 |
-| 423 | 406 | corrected `மலைக்கோட்டை யொன்றில்` → source-visible `மலைக்கோட்டையொன்றில்`; four-strengths/war-strategy vignette begins and continues into 424 |
-| 424 | 407 | corrected `போர்களத்தில்` → source-visible `போர்க்களத்தில்`; Chapter 48 / Kural 471 confirmed |
-| 425 | 408 | direct textual comparison complete; no correction required; Mugilan/Nallammai vignette begins and continues mid-sentence into 426 |
-| 426 | 409 | corrected `கோபிக்கப்பட்டவர்களால் கணநேரம்கூடத் தாங்கிக் கொள்ள முடியாது` → source-visible `கோபிக்கப்பட்டவர்களால் கணநேரங்கூடத் தாங்கிக் கொள்ள முடியாது`; Chapter 3 / Kural 29 confirmed |
-| 427 | 410 | corrected `அனுப்பொழுதில்` → source-visible `அணைப்பொழுதில்`; lovers-after-war / ஊடல் vignette begins and continues into 428 |
-| 428 | 411 | corrected `தன்னேரிப் பாய்கின்ற` → `தன்மேறிப் பாய்கின்ற`, `மீண்டும் தழுவல்! நடுவல்!` → `மீண்டும் தழுவல்! தழுவல்!`, and `எல்லையிலாத் தித்திப்பு உணரும்` → `எல்லையிலாத் தித்திப்பும் உணரும்`; Chapter 133 / Kurals 1324 and 1329 confirmed |
+| 423 | 406 | restored source-visible `புதியவனின் போலித்தனத்தைப்` and `தெளிவற்ற மக்கள் பகுதியினரையும்`; preserved source spacing `மலைக்கோட்டை யொன்றில்`; four-strengths/war-strategy vignette continues into 424 |
+| 424 | 407 | corrected `போர்களத்தில்` → `போர்க்களத்தில்`, `அதற்கு இடையே` → `அதற்கிடையே`, and `குருதி வெள்ளம் இரண்டோடும்` → `குருதி வெள்ளம் திரண்டோடும்`; Chapter 48 / Kural 471 confirmed |
+| 425 | 408 | corrected `திரிந்துதின்றான்` → source-visible `திரிந்திடுகின்றான்`; Mugilan/Nallammai vignette continues mid-sentence into 426 |
+| 426 | 409 | corrected `காவலிடம்` → source-visible `காவலரிடம்`; corrected `கணநேரம்கூடத்` → `கணநேரங்கூடத்`; Chapter 3 / Kural 29 confirmed |
+| 427 | 410 | corrected `மனைகாத்து` → source-visible `மனைக்காத்து`; corrected `அனுப்பொழுதில்` → source-visible `அணுப்பொழுதில்`; lovers-after-war / ஊடல் vignette continues into 428 |
+| 428 | 411 | corrected `தன்னேரிப் பாய்கின்ற` → `தன்மேறிப் பாய்கின்ற`, `அதனால் அவன் ஊடல்` → `அதனால் அவள் ஊடல்`, `மீண்டும் தழுவல்! நடுவல்!` → `மீண்டும் தழுவல்! தழுவல்!`, and `எல்லையிலாத் தித்திப்பு உணரும்` → `எல்லையிலாத் தித்திப்பும் உணரும்`; Chapter 133 / Kurals 1324 and 1329 confirmed |
 | 429 | 412 | direct textual comparison complete; no correction required; Arima/Parithi restraint-before-battle vignette begins and continues into 430 |
 | 430 | 413 | direct textual comparison complete; no correction required; Chapter 49 / Kural 486 and source glosses confirmed |
 | 431 | 414 | direct textual comparison complete; no correction required; compassion/inner-love vignette begins and continues mid-sentence into 432 |
-| 432 | 415 | direct textual comparison complete; no correction required; Chapter 8 / Kural 79 confirmed; **432→433 CLEAN** |
+| 432 | 415 | corrected `என்பதோல் போர்த்த உடல் அழகுக்கு` → source-visible `என்புதோல் போர்த்த உடல் அழகுக்கு`; Chapter 8 / Kural 79 confirmed; **432→433 CLEAN** |
 
-Batch 9 correction summary: **6 records corrected; 5 records required no textual change**.
+Batch 9 correction summary: **8 records corrected; 3 records required no textual change**.
 
-Durable correction commits:
+Durable final-state correction commits:
 
 - scan 422 — `b5eac2ac0bffce476b6c5db6de6d12afc8883aba`;
-- scan 423 — `28f9c9ca58f76bfbb6e90a02aac1aba7db075898`;
-- scan 424 — `4b642191d1ebecd803947e2178714f8159575426`;
-- scan 426 — `be051be83fce07431f4e2bb64429d09773ad8485`;
-- scan 427 — `12f0ca48e1d44286c1bc37798204e572ae3b02a1`;
-- scan 428 — `d498906504468df0c93fe12450783035fef09545`.
+- scan 423 — `03f4dba3f21f26acb011e78ba755e4d5651847c5`;
+- scan 424 — `59572cf9a0847d54833ad8fc0266dcc3a740af60`;
+- scan 425 — `d6a69923881d990b299f5e069773d5850197ef1b`;
+- scan 426 — `92f131f72e748d93d21e0662ce033eec65124d0c`;
+- scan 427 — `2fbd49771dc01d8c2a7b228254ca2d8f9be14cac`;
+- scan 428 — `698136d747ff39818bf6dcf5c37458fc97682956`;
+- scan 432 — `f7da8d770021541e5ccc2d8f16eab0e79d0db28e`.
 
 ## Current Pass 2A coverage
 
