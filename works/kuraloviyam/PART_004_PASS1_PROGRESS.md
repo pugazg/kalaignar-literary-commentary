@@ -210,9 +210,39 @@ Durable page commits, in order:
 
 Outgoing boundary witness: scan **433 / printed 416** was inspected directly and begins a new illustrated narrative. Scan 432 closes its compassion/inner-love vignette with Chapter 8 / Kural 79. Therefore **432→433 is CLEAN**; scan 433 was not created during P4-09.
 
+## P4-10 state
+
+**11 / 11 page records captured — COMPLETE.**
+
+P4-10 scans **433–443 / printed 416–426** are captured as one page-aligned Tamil Pass-1 record per physical scan. The records carry `part: 4`, `part_page: 100–110`, source-visible printed pages, `status: "needs-review"`, and `visual_fidelity: "needs-review"`.
+
+Durable page commits, in order:
+
+- scan 433 — `9604c634556f894706bb756b141ce766c97f0531`;
+- scan 434 — `0cad023940f0542afbc732d8d4b4493299416ede`;
+- scan 435 — `4b21b6e07852f959dea94695e856d052039afd68`;
+- scan 436 — `2c1c0b56998286d8b6d490d2e23dd0661a29dff7`;
+- scan 437 — `b764c4e093774157f3c0521f457fca699589f833`;
+- scan 438 — `b67b449aa5ee5406cee1cc57c298f80fd54057ea`;
+- scan 439 — `b8e7c53693b71111cd9445cfbbb81de4f38d6b5a`;
+- scan 440 — `46726f4332d6d04bc60c9d029ef5d9889b47e474`;
+- scan 441 — `afced213521fc2388f5eea0b14c75e6a4e0c7d14`;
+- scan 442 — `69be703dc767575cc43982b39b7bcc7ad0500d51`;
+- scan 443 — `49681edc49f74dec8480f59fae9d17a93326ea1a`.
+
+**443→444 is CLEAN.** Scan 443 closes the Nagan/Nallaan vignette with Chapter 82 / Kural 812. Scan 444 starts a new illustrated royal/court famine-granary narrative.
+
+## Final remainder state
+
+**1 / 1 page record captured — COMPLETE.**
+
+- scan **444 / printed 427 / part_page 111** — `0756cf119fd0c92ca2a9667b0ec7244466fe835e`.
+
+Scan 444 begins a new royal/court narrative and visibly remains open at the supplied Part endpoint. **444→445 remains DEFERRED / UNRESOLVED until the actual Part 005 controlling source is supplied.** No continuation text has been inferred.
+
 ## Pass 1 state
 
-**99 / 111 page records captured.** P4-01 through P4-09 are complete; do not recapture or overwrite these 99 durable records merely because an older handover or prompt reports an earlier frontier.
+**111 / 111 page records captured — PASS 1 COMPLETE.** P4-01 through P4-10 plus the one-scan final remainder are complete. All Part-004 physical scans 334–444 / printed 317–427 now have exactly one page-aligned Tamil Pass-1 record. Do not recapture or overwrite these durable records merely because an older handover or prompt reports an earlier frontier.
 
 Planned batches:
 
@@ -225,11 +255,11 @@ Planned batches:
 - P4-07: **400–410 / printed 383–393 — COMPLETE 11/11**;
 - P4-08: **411–421 / printed 394–404 — COMPLETE 11/11**;
 - P4-09: **422–432 / printed 405–415 — COMPLETE 11/11**;
-- P4-10: **433–443 / printed 416–426 — NEXT**;
-- final remainder: **444 / printed 427**.
+- P4-10: **433–443 / printed 416–426 — COMPLETE 11/11**;
+- final remainder: **444 / printed 427 — COMPLETE 1/1**.
 
 At the supplied Part endpoint, scan 444 begins a new illustrated royal/court narrative and visibly remains open. **444→445 stays deferred until Part 005 source intake.**
 
 ## Exact next activity
 
-Process **P4-10 — scans 433–443 / printed 416–426** as 11 page-aligned Tamil Pass-1 records. Start with the new illustrated narrative on scan 433, inspect each rendered source page directly, preserve source wording/paragraphs/Kural blocks/visual relationships, use `needs-review` for both textual and visual status, and inspect scan 444 only if required to settle the outgoing batch boundary. Do not proceed beyond Part 004: scan 444 / printed 427 remains the separately planned final remainder, and its continuation to Part 005 is deferred until Part 005 source intake.
+Part 004 Pass 1 is closed at **111/111**. Proceed next to **Part 004 Pass 2A — direct textual verification**, beginning with **scans 334–344 / printed 317–327 (11 scans)**. Re-render and compare each page record directly against the controlling scan, correct only source-supported wording/punctuation/paragraph/Kural/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"` until the later required gates, inspect scan 345 only as a boundary witness if needed, and record the exact Pass-2A frontier. Do not begin Pass 2B until Pass 2A covers all 111 Part-004 scans, and do not begin Part 005 or infer **444→445** without the actual Part 005 source.
