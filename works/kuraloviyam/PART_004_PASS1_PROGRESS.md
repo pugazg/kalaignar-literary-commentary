@@ -273,7 +273,8 @@ Pass 1 remains **COMPLETE — 111/111**. Pass 2A has now begun.
 - Pass 2A Batch 7 — scans **400–410 / printed 383–393 — COMPLETE 11/11**;
 - Pass 2A Batch 8 — scans **411–421 / printed 394–404 — COMPLETE 11/11**;
 - Pass 2A Batch 9 — scans **422–432 / printed 405–415 — COMPLETE 11/11**;
-- Batch 9: 6 page records corrected directly from source; 5 required no textual change;
+- Batch 9: 8 page records corrected directly from source; 3 required no textual change;
+- live Batch-9 work that advanced during verification was preserved and reconciled against the controlling source pixels before closure;
 - incoming **421→422 genuine continuation** preserved and closed on scan 422 with Chapter 112 / Kurals 1111 and 1113;
 - outgoing **432→433 CLEAN** confirmed from scan 433 witness; scan 433 starts a new Nallithayan/Porko wealth-and-character vignette;
 - durable Pass-2A log: `PASS2_TEXTUAL_VERIFICATION_PART_004.md`;
