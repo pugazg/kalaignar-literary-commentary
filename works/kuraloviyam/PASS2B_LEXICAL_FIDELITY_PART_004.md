@@ -45,11 +45,38 @@ Durable correction commits:
 - scan 335 — `f9e6356c5a4a0432e9873ab23e639510f5118365`;
 - scan 343 — `5574565b7b5875bebd538aeb0b6013a90b16663a`.
 
+## Batch 2 — overall scans 344–353 / printed pages 327–336
+
+**Status: COMPLETE — 10 / 10 scans independently re-read against freshly rendered source pages for Pass 2B.**
+
+Incoming **343→344 CLEAN** remains preserved. Scan **354 / printed 337** was inspected only as the outgoing boundary witness and confirms **353→354 CLEAN**: scan 353 closes the Manonmaniyam/Kudilan vignette with Chapter 80 / Kural 798, while scan 354 begins the new illustrated Kaarmegam jealousy vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 344 | 327 | independent word-level re-read complete across the Aththi/Valluvar lost-trading-ship opening and continuation into 345; no new correction required |
+| 345 | 328 | corrected source-visible `அட்டா! என்ன உவமை!` → `அடடா! என்ன உவமை!`; remaining prose, Kural 332, lineation and Chapter 34 metadata independently confirmed |
+| 346 | 329 | independent word-level re-read complete across the lovers/separation opening and continuation into 347; no new correction required |
+| 347 | 330 | independently confirmed the lovers/separation conclusion, Kural 1156, lineation, Chapter 116 metadata and source glosses; no new correction required |
+| 348 | 331 | independent word-level re-read complete across the day-as-sword opening and continuation into 349; no new correction required |
+| 349 | 332 | independently confirmed the day-as-sword conclusion, Kural 334, lineation and Chapter 34 metadata; no new correction required |
+| 350 | 333 | corrected source-visible `இளம் களிர்களின் அறிவுப்பசி` → `இளம் தளிர்களின் அறிவுப்பசி`; remaining Anbanandan/Azhagarasi opening and continuation into 351 independently confirmed |
+| 351 | 334 | independently confirmed the Anbanandan/Azhagarasi conclusion, Kural 1102, lineation, Chapter 111 metadata and source glosses; no new correction required |
+| 352 | 335 | independent word-level re-read complete across the Manonmaniyam/Kudilan opening and continuation into 353; no new correction required |
+| 353 | 336 | corrected source-visible joining/spacing `சேர பாண்டியர்களிடையே நட்பு` → `சேர பாண்டியர் களிடையே நட்பு`; remaining prose, Kural 798, lineation and Chapter 80 metadata independently confirmed; scan 354 witness confirms **353→354 CLEAN** |
+
+Batch 2 corrections were therefore required on scans **345, 350 and 353**. Scans **344, 346, 347, 348, 349, 351 and 352** required no new Pass-2B correction.
+
+Durable correction commits:
+
+- scan 345 — `e36b14b8b3778e5a54265a27faea394bcb20296d`;
+- scan 350 — `5dfc6cec19376351d7a00e84b9fae5b072f9af02`;
+- scan 353 — `2fe334a9099222b8875cbf8c976dcabdfb8841c3`.
+
 ## Current Pass 2B coverage
 
-- complete: **10 / 111 scans**;
-- independently re-read range: **334–343 / printed 317–326**;
-- remaining Pass 2B: **101 scans**;
+- complete: **20 / 111 scans**;
+- independently re-read range: **334–353 / printed 317–336**;
+- remaining Pass 2B: **91 scans**;
 - textual page status remains `needs-review`;
 - visual fidelity remains `needs-review`;
 - Pass 3 remains **BLOCKED until Pass 2B reaches 111/111**;
@@ -57,4 +84,4 @@ Durable correction commits:
 
 ## Exact next activity
 
-Process **Part 004 Pass 2B Batch 2 — scans 344–353 / printed 327–336 (10 scans)** against freshly rendered source pages. Re-read every source-visible printed word independently, correct only source-supported lexical/punctuation/joining/spacing/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **354 / printed 337** only as the outgoing boundary witness if needed. Do not start Pass 3 or Part 005.
+Process **Part 004 Pass 2B Batch 3 — scans 354–363 / printed 337–346 (10 scans)** against freshly rendered source pages. Re-read every source-visible printed word independently, correct only source-supported lexical/punctuation/joining/spacing/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **364 / printed 347** only as the outgoing boundary witness if needed. Do not start Pass 3 or Part 005.
