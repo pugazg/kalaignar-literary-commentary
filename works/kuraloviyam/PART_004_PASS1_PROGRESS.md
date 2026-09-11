@@ -122,9 +122,31 @@ Durable page commits, in order:
 
 Outgoing boundary witness: scan **389 / printed 372** was inspected directly. It continues the ascetic-greatness reflection opened on scan 388. Therefore **388→389 is a genuine continuation**; scan 389 was not created during P4-05.
 
+## P4-06 state
+
+**11 / 11 page records captured — COMPLETE.**
+
+P4-06 scans **389–399 / printed 372–382** are captured as one page-aligned Tamil Pass-1 record per physical scan. The records carry `part: 4`, `part_page: 56–66`, source-visible printed pages, `status: "needs-review"`, and `visual_fidelity: "needs-review"`.
+
+Durable page commits, in order:
+
+- scan 389 — `536e42094e73ba4d6facdef24360e9d2a6f34b92`;
+- scan 390 — `ffc0c8f6e1e043adf3aea3327457019b42d33633`;
+- scan 391 — `c1ab638fd3bbdeb62bd9c424924d7bcdc7adf51f`;
+- scan 392 — `6391b4964a3e7a74e9cd9793f17ececba19d2b1d`;
+- scan 393 — `52d0cf2a0c7a196d8a1e36d60f06f363eef52b9c`;
+- scan 394 — `2a28d9ee0324b0cade3b05277d5ef72416ac9554`;
+- scan 395 — `cb28014717f377cf0b4857b9aaf84c2b4b48fa1c`;
+- scan 396 — `d647ab77671a3bb61c9a9b747e1a46f69a97dae9`;
+- scan 397 — `bf401592e31a82a4dac4a891014797ec5ae74e9d`;
+- scan 398 — `aa594234130cf643de03c6fb35703851660d5ff6`;
+- scan 399 — `63d8078ee6efd938db1847e6fb6c28e65666fbd8`.
+
+Outgoing boundary witness: scan **400 / printed 383** was inspected directly and starts a new illustrated speculative visitors vignette. Therefore **399→400 is CLEAN**; scan 400 was not created during P4-06.
+
 ## Pass 1 state
 
-**55 / 111 page records captured.** P4-01 through P4-05 are complete; do not recapture or overwrite these 55 durable records merely because an older handover or prompt reports an earlier frontier.
+**66 / 111 page records captured.** P4-01 through P4-06 are complete; do not recapture or overwrite these 66 durable records merely because an older handover or prompt reports an earlier frontier.
 
 Planned batches:
 
@@ -133,8 +155,8 @@ Planned batches:
 - P4-03: **356–366 / printed 339–349 — COMPLETE 11/11**;
 - P4-04: **367–377 / printed 350–360 — COMPLETE 11/11**;
 - P4-05: **378–388 / printed 361–371 — COMPLETE 11/11**;
-- P4-06: **389–399 / printed 372–382 — NEXT**;
-- P4-07: **400–410 / printed 383–393**;
+- P4-06: **389–399 / printed 372–382 — COMPLETE 11/11**;
+- P4-07: **400–410 / printed 383–393 — NEXT**;
 - P4-08: **411–421 / printed 394–404**;
 - P4-09: **422–432 / printed 405–415**;
 - P4-10: **433–443 / printed 416–426**;
@@ -144,4 +166,4 @@ At the supplied Part endpoint, scan 444 begins a new illustrated royal/court nar
 
 ## Exact next activity
 
-Process **P4-06 — scans 389–399 / printed 372–382** as 11 page-aligned Tamil Pass-1 records. Continue the ascetic-greatness reflection from scan 388 into scan 389 without inventing a boundary; inspect each rendered source page directly, preserve source wording/paragraphs/Kural blocks/visual relationships, use `needs-review` for both textual and visual status, and inspect scan 400 only if required to settle the outgoing batch boundary.
+Process **P4-07 — scans 400–410 / printed 383–393** as 11 page-aligned Tamil Pass-1 records. Start with the new illustrated speculative visitors vignette on scan 400, inspect each rendered source page directly, preserve source wording/paragraphs/Kural blocks/visual relationships, use `needs-review` for both textual and visual status, and inspect scan 411 only if required to settle the outgoing batch boundary.
