@@ -271,7 +271,7 @@ Pass 1 remains **COMPLETE — 111/111**. Pass 2A has now begun.
 - Pass 2A Batch 5 — scans **378–388 / printed 361–371 — COMPLETE 11/11**;
 - Pass 2A Batch 6 — scans **389–399 / printed 372–382 — COMPLETE 11/11**;
 - Pass 2A Batch 7 — scans **400–410 / printed 383–393 — COMPLETE 11/11**;
-- Batch 7: 8 page records corrected directly from source; 3 required no textual change;
+- Batch 7: 10 page records corrected directly from source; 1 required no textual change;
 - incoming **399→400 CLEAN** preserved;
 - outgoing **410→411 genuine continuation** reconfirmed from scan 411 witness; the lovers vignette closes on scan 411 with Chapter 126 / Kural 1258;
 - durable Pass-2A log: `PASS2_TEXTUAL_VERIFICATION_PART_004.md`;
