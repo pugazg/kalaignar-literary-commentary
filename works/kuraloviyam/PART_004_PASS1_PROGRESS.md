@@ -144,9 +144,31 @@ Durable page commits, in order:
 
 Outgoing boundary witness: scan **400 / printed 383** was inspected directly and starts a new illustrated speculative visitors vignette. Therefore **399→400 is CLEAN**; scan 400 was not created during P4-06.
 
+## P4-07 state
+
+**11 / 11 page records captured — COMPLETE.**
+
+P4-07 scans **400–410 / printed 383–393** are captured as one page-aligned Tamil Pass-1 record per physical scan. The records carry `part: 4`, `part_page: 67–77`, source-visible printed pages, `status: "needs-review"`, and `visual_fidelity: "needs-review"`.
+
+Durable page commits, in order:
+
+- scan 400 — `74e7e4ded0fac1e95c174e043a3a93dfb4bcf24f`;
+- scan 401 — `914348910b322a0bb85b0b44da0b2963a763ad9a`;
+- scan 402 — `3bdf0f654d8c10c124b4d26e5f1e70bc56e8ed86`;
+- scan 403 — `125777c179f1a8577f09c70fae381708eab3a96e`;
+- scan 404 — `c18ec29433e93a97bf092aec14510527e49d3bd6`;
+- scan 405 — `1d35d593adfcceaf86f510578b45647a67bd65dd`;
+- scan 406 — `4e90e81ddbb50d1ae4fba2625429af085828fb71`;
+- scan 407 — `e08435efb37209cf4236257f4490b37d84ab37d0`;
+- scan 408 — `21a4cb2199e72724fa0629e53180b2a722fd8b33`;
+- scan 409 — `898fecf0b3c2182469c72c1a6d4c0196f0d66f76`;
+- scan 410 — `3b7e0a332cc42d2c6da9fc06fb3b6f518639142c`.
+
+Scan **411 / printed 394** was inspected directly as the outgoing boundary witness. It continues and closes the lovers vignette opened on scan 410 with Chapter 126 / Kural 1258. Therefore **410→411 is a genuine continuation**; scan 411 was not created during P4-07.
+
 ## Pass 1 state
 
-**66 / 111 page records captured.** P4-01 through P4-06 are complete; do not recapture or overwrite these 66 durable records merely because an older handover or prompt reports an earlier frontier.
+**77 / 111 page records captured.** P4-01 through P4-07 are complete; do not recapture or overwrite these 77 durable records merely because an older handover or prompt reports an earlier frontier.
 
 Planned batches:
 
@@ -156,8 +178,8 @@ Planned batches:
 - P4-04: **367–377 / printed 350–360 — COMPLETE 11/11**;
 - P4-05: **378–388 / printed 361–371 — COMPLETE 11/11**;
 - P4-06: **389–399 / printed 372–382 — COMPLETE 11/11**;
-- P4-07: **400–410 / printed 383–393 — NEXT**;
-- P4-08: **411–421 / printed 394–404**;
+- P4-07: **400–410 / printed 383–393 — COMPLETE 11/11**;
+- P4-08: **411–421 / printed 394–404 — NEXT**;
 - P4-09: **422–432 / printed 405–415**;
 - P4-10: **433–443 / printed 416–426**;
 - final remainder: **444 / printed 427**.
@@ -166,4 +188,4 @@ At the supplied Part endpoint, scan 444 begins a new illustrated royal/court nar
 
 ## Exact next activity
 
-Process **P4-07 — scans 400–410 / printed 383–393** as 11 page-aligned Tamil Pass-1 records. Start with the new illustrated speculative visitors vignette on scan 400, inspect each rendered source page directly, preserve source wording/paragraphs/Kural blocks/visual relationships, use `needs-review` for both textual and visual status, and inspect scan 411 only if required to settle the outgoing batch boundary.
+Process **P4-08 — scans 411–421 / printed 394–404** as 11 page-aligned Tamil Pass-1 records. Continue the lovers vignette from scan 410 into scan 411 without inventing a boundary; inspect each rendered source page directly, preserve source wording/paragraphs/Kural blocks/visual relationships, use `needs-review` for both textual and visual status, and inspect scan 422 only if required to settle the outgoing batch boundary.
