@@ -115,15 +115,49 @@ Durable correction commits:
 - scan 365 — `3a5d8003b0a1f4b0e801d36f90f5df693dd66ed7`;
 - scan 366 — `c44a068a6b528c770b8e58be1b997f9ad5d8a57b`.
 
+## Batch 4 — overall scans 367–377 / printed pages 350–360
+
+**Status: COMPLETE — 11 / 11 scans directly compared against rendered source.**
+
+Incoming **366→367 genuine continuation** was preserved. Scan **378 / printed 361** was inspected only as the outgoing witness and reconfirms **377→378 CLEAN**: scan 377 closes the matathipathi/palanquin vignette with Chapter 98 / Kural 973, while scan 378 starts a new illustrated lovers vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 367 | 350 | corrected `நாடுமீட்கும்` → source-visible `நாட்டுமீட்கும்`; Chapter 81 / Kural 806 and source glosses confirmed |
+| 368 | 351 | direct textual comparison complete; no correction required; Kovalan/Madhavi/Kannagi reflection continues into 369 |
+| 369 | 352 | direct textual comparison complete; no correction required; Chapter 113 / Kural 1130 confirmed |
+| 370 | 353 | corrected `குறிப்புகளும்` → source-visible `குறிப்புக்களும்`; தூது discussion continues into 371 |
+| 371 | 354 | corrected `விண் பகைகொண்டு` → source-visible `வீண் பகைகொண்டு`; corrected `சொல்லன்மை` → `சொல்லவன்மை`; Chapter 69 / Kurals 685 and 690 confirmed |
+| 372 | 355 | corrected `ஆடைகளைத் தொட்டிமுத்துக் கடற்காற்று` → source-visible `ஆடைகளைத் தொட்டிழுத்துக் கடற்காற்று`; Maangili/Poonkodi dialogue continues into 373 |
+| 373 | 356 | corrected `என்னைக்காவது` → source-visible `என்றைக்காவது`; Chapter 130 / Kural 1295 confirmed |
+| 374 | 357 | corrected `திகழ்கின்ற` → source-visible `திகழுகின்ற`; restored source punctuation `ஏன்! எப்படி?`; memorials/historic-sites passage continues into 375 |
+| 375 | 358 | corrected `ஏறிக்கொண்டிருந்த` → source-visible `எரிந்துகொண்டிருந்த`; Chapter 3 / Kural 28 confirmed |
+| 376 | 359 | restored source-visible `தென்னந் தோப்புகள்`; matathipathi/palanquin vignette continues into 377 |
+| 377 | 360 | corrected `கொண்டு ருந்தது` → `கொண்டிருந்தது`, `தடை போட்டவில்லை` → `தடை போடவில்லை`, and `பார்க்காமல்` → source-visible `பார்க்காமலே`; Chapter 98 / Kural 973 confirmed; **377→378 CLEAN** |
+
+Batch 4 correction summary: **9 records corrected; 2 records required no textual change**.
+
+Durable correction commits:
+
+- scan 367 — `ab79c3415430df504676c2cbec0b121f26af8d8b`;
+- scan 370 — `7655fa484cb893f5b574242a64db4bc7b343f719`;
+- scan 371 — `f65dff017f8a04ba5492a588a696efe3dcb7f256`;
+- scan 372 — `4c9a323654a20678b6a1cd05afbc0a980f6558ec`;
+- scan 373 — `de800e88991ff39ce714821a6d71e25a1621016f`;
+- scan 374 — `d41d6901d95d8c29f468fddd44dbf57cc3094623`;
+- scan 375 — `0624916537735d0d8a223b85cbf010506d7f7862`;
+- scan 376 — `1ea9ca78e0d42c3b32abeb31ba750e008174f482`;
+- scan 377 — `ad7f1d0cdfe8cb1af0ab41c1bacf2c82fa8aa89b`.
+
 ## Current Pass 2A coverage
 
-- complete: **33 / 111 scans**;
-- verified range: **334–366 / printed 317–349**;
-- remaining Pass 2A: **78 scans**;
+- complete: **44 / 111 scans**;
+- verified range: **334–377 / printed 317–360**;
+- remaining Pass 2A: **67 scans**;
 - page statuses remain **needs-review / needs-review**;
 - Pass 2B: **BLOCKED until Pass 2A reaches 111/111**;
 - Part 005: **BLOCKED**; **444→445 remains deferred until Part 005 source intake**.
 
 ## Exact next activity
 
-Process **Pass 2A Batch 4 — scans 367–377 / printed 350–360 (11 scans)**. Re-render and compare every record directly against the controlling source, preserve the incoming Bhagat Singh / Rajaguru / Sukhdev / Jeyagopal continuation into scan 367, correct only source-supported wording/punctuation/paragraph/Kural/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **378 / printed 361** only as the outgoing boundary witness if needed.
+Process **Pass 2A Batch 5 — scans 378–388 / printed 361–371 (11 scans)**. Re-render and compare every record directly against the controlling source, correct only source-supported wording/punctuation/paragraph/Kural/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **389 / printed 372** only as the outgoing boundary witness if needed.
