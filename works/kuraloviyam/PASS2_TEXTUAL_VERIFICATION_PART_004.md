@@ -184,15 +184,44 @@ Durable correction commits:
 - scan 387 — `4f5ba25ae917f861c77e13b875e104eed71b68c5`;
 - scan 388 — `ca4fcf9b9e23454236d17c7c8e0df08eb5037918`.
 
+## Batch 6 — overall scans 389–399 / printed pages 372–382
+
+**Status: COMPLETE — 11 / 11 scans directly compared against rendered source.**
+
+Incoming **388→389 genuine continuation** was preserved and closes on scan 389 with Chapter 3 / Kural 22. Scan **400 / printed 383** was inspected only as the outgoing witness and confirms **399→400 CLEAN**: scan 399 closes the cruel-rule / `வெருவந்த செய்யாமை` vignette with Chapter 57 / Kural 570, while scan 400 starts a new illustrated speculative visitors vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 389 | 372 | corrected `என்பதைத் குறளார்` → source-visible `என்பதைக் குறளார்`; Chapter 3 / Kural 22 and source gloss confirmed; incoming ascetic-greatness continuation closes here |
+| 390 | 373 | direct textual comparison complete; no correction required; country/teacher-student discussion and Kural 737 confirmed; continues into 391 |
+| 391 | 374 | corrected `அறிவியிட்டுக் கூறியிருக்கிறார்` → source-visible `அறுதியிட்டுக் கூறியிருக்கிறார்`; Chapter 74 / songs 737, 734, 740 confirmed; country discussion closes here |
+| 392 | 375 | direct textual comparison complete; no correction required; evening/lovers vignette begins and continues into 393 |
+| 393 | 376 | direct textual comparison complete; no correction required; Chapter 127 / Kural 1268 and source gloss confirmed |
+| 394 | 377 | direct textual comparison complete; no correction required; Karl Marx / Jenny family-life reflection begins and continues into 395 |
+| 395 | 378 | corrected `மனக்குறையேயின்றி` → source-visible `மனக்குறையேதுமின்றி`; Chapter 6 / Kural 51 and explanatory gloss confirmed |
+| 396 | 379 | direct textual comparison complete; no correction required; Malarkkodi separation/paleness vignette begins and continues into 397 |
+| 397 | 380 | direct textual comparison complete; no correction required; Chapter 119 / Kural 1183 confirmed |
+| 398 | 381 | corrected `அளவிட முடியாத` → source-visible `அளவிடமுடியாத`; cruel-rule vignette continues into 399 |
+| 399 | 382 | direct textual comparison complete; no correction required; Chapter 57 / Kural 570 confirmed; **399→400 CLEAN** |
+
+Batch 6 correction summary: **4 records corrected; 7 records required no textual change**.
+
+Durable correction commits:
+
+- scan 389 — `2be0af4581102bd09f57d2e2bbac76976c0b6c45`;
+- scan 391 — `79906e5003cfef6a26486162369b1f68b0122c5e`;
+- scan 395 — `7efd6ff4ad559e1d00069f8b2d2749fefb5a3927`;
+- scan 398 — `ecdddae4d7939da7cf8aabcbc400f2fbcfd5e8e9`.
+
 ## Current Pass 2A coverage
 
-- complete: **55 / 111 scans**;
-- verified range: **334–388 / printed 317–371**;
-- remaining Pass 2A: **56 scans**;
+- complete: **66 / 111 scans**;
+- verified range: **334–399 / printed 317–382**;
+- remaining Pass 2A: **45 scans**;
 - page statuses remain **needs-review / needs-review**;
 - Pass 2B: **BLOCKED until Pass 2A reaches 111/111**;
 - Part 005: **BLOCKED**; **444→445 remains deferred until Part 005 source intake**.
 
 ## Exact next activity
 
-Process **Pass 2A Batch 6 — scans 389–399 / printed 372–382 (11 scans)**. Re-render and compare every record directly against the controlling source, preserve the incoming ascetic-greatness continuation into scan 389, correct only source-supported wording/punctuation/paragraph/Kural/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **400 / printed 383** only as the outgoing boundary witness if needed.
+Process **Pass 2A Batch 7 — scans 400–410 / printed 383–393 (11 scans)**. Re-render and compare every record directly against the controlling source, preserve the **399→400 CLEAN** boundary, correct only source-supported wording/punctuation/paragraph/Kural/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **411 / printed 394** only as the outgoing boundary witness if needed.
