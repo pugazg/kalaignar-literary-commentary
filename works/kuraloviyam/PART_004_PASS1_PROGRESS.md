@@ -78,17 +78,39 @@ Durable page commits, in order:
 
 Outgoing boundary witness: scan **367 / printed 350** was inspected directly. It continues the Bhagat Singh / Rajaguru / Sukhdev / Jeyagopal revolutionary narrative opened on scan 366. Therefore **366→367 is a genuine continuation**; scan 367 was not created during P4-03.
 
+## P4-04 state
+
+**11 / 11 page records captured — COMPLETE.**
+
+P4-04 scans **367–377 / printed 350–360** are captured as one page-aligned Tamil Pass-1 record per physical scan. The records carry `part: 4`, `part_page: 34–44`, source-visible printed pages, `status: "needs-review"`, and `visual_fidelity: "needs-review"`.
+
+Durable page commits, in order:
+
+- scan 367 — `f36446c855149e78a7b8f095493aec79260500b9`;
+- scan 368 — `30b69aeed4284e7a3c0578b03c6de4aa7f824152`;
+- scan 369 — `9fc198007d6c97c49309b069c681654ce5401abb`;
+- scan 370 — `e3498e92c4b0e7cbed14e077a8fe79756e8fd9fe`;
+- scan 371 — `e4f5c8d10332700c6be4494094369b6af85c44fa`;
+- scan 372 — `873e8f524c907d13d499f063d4f94666e7bb80a3`;
+- scan 373 — `cef1f600ee13faf43bd449c7af1b7282c6a7c79f`;
+- scan 374 — `c7fdd3595f4e1cadfd2e21a98c31df495b60fa4e`;
+- scan 375 — `6bdc0184f26c4a9471bc9f30fe3c5d438b5eac17`;
+- scan 376 — `8b98505e284d7be981d72f2fd3a3cdb3ed653fea`;
+- scan 377 — `1e4d3d480ee0b609e45dc4fc94a9e224a939b037`.
+
+Outgoing boundary witness: scan **378 / printed 361** was inspected directly and begins a new illustrated lovers vignette. Therefore **377→378 is CLEAN**; scan 378 was not created during P4-04.
+
 ## Pass 1 state
 
-**33 / 111 page records captured.** P4-01 through P4-03 are complete; do not recapture or overwrite these 33 durable records merely because an older handover or prompt reports an earlier frontier.
+**44 / 111 page records captured.** P4-01 through P4-04 are complete; do not recapture or overwrite these 44 durable records merely because an older handover or prompt reports an earlier frontier.
 
 Planned batches:
 
 - P4-01: **334–344 / printed 317–327 — COMPLETE 11/11**;
 - P4-02: **345–355 / printed 328–338 — COMPLETE 11/11**;
 - P4-03: **356–366 / printed 339–349 — COMPLETE 11/11**;
-- P4-04: **367–377 / printed 350–360 — NEXT**;
-- P4-05: **378–388 / printed 361–371**;
+- P4-04: **367–377 / printed 350–360 — COMPLETE 11/11**;
+- P4-05: **378–388 / printed 361–371 — NEXT**;
 - P4-06: **389–399 / printed 372–382**;
 - P4-07: **400–410 / printed 383–393**;
 - P4-08: **411–421 / printed 394–404**;
@@ -100,4 +122,4 @@ At the supplied Part endpoint, scan 444 begins a new illustrated royal/court nar
 
 ## Exact next activity
 
-Process **P4-04 — scans 367–377 / printed 350–360** as 11 page-aligned Tamil Pass-1 records. Continue the Bhagat Singh / Rajaguru / Sukhdev / Jeyagopal narrative from scan 366 into scan 367 without inventing a boundary; inspect each rendered source page directly, preserve source wording/paragraphs/Kural blocks/visual relationships, use `needs-review` for both textual and visual status, and inspect scan 378 only if required to settle the outgoing batch boundary.
+Process **P4-05 — scans 378–388 / printed 361–371** as 11 page-aligned Tamil Pass-1 records. Start with the new illustrated lovers vignette on scan 378, inspect each rendered source page directly, preserve source wording/paragraphs/Kural blocks/visual relationships, use `needs-review` for both textual and visual status, and inspect scan 389 only if required to settle the outgoing batch boundary.
