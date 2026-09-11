@@ -248,15 +248,43 @@ Durable final-state correction commits:
 - scan 409 — `7b1957e30a67db25eaa6deebdb519d29d794d45e`;
 - scan 410 — `0ce4c8bd39d8b0583089a468c269ccfb4b999c1f`.
 
+## Batch 8 — overall scans 411–421 / printed pages 394–404
+
+**Status: COMPLETE — 11 / 11 scans directly compared against rendered source.**
+
+Incoming **410→411 genuine continuation** was preserved; the lovers vignette closes on scan 411 with Chapter 126 / Kural 1258. Scan **422 / printed 405** was inspected only as the outgoing boundary witness and confirms **421→422 as a genuine continuation** of the Pugazhenthi/Ottakoothar literary-imagination discussion; that unit closes on scan 422 with Chapter 112 / Kurals 1111 and 1113.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 411 | 394 | direct textual comparison complete; no correction required; incoming 410→411 lovers-vignette continuation closes here with Chapter 126 / Kural 1258 |
+| 412 | 395 | corrected `மாலன்கோவும்` → source-visible `மாலங்கோவும்`; corrected `மேற்கொள்ளப்பட்ட செய்திகள் வருவதுண்டு` → `மேற்கூறப்பட்ட செய்திகள் வருவதுண்டு`; Stalin/Khrushchev anecdote continues into 413 |
+| 413 | 396 | direct textual comparison complete; no correction required; Chapter 50 / Kural 495 and source glosses confirmed |
+| 414 | 397 | direct textual comparison complete; no correction required; justice/impartiality dialogue begins and continues into 415 |
+| 415 | 398 | corrected `வியப்புக் தோன்ற` → source-visible `வியப்புத் தோன்ற`; Chapter 12 / Kural 116 and source glosses confirmed |
+| 416 | 399 | direct textual comparison complete; no correction required; Vaigai/Vadivazhagan street-cleaning lovers vignette begins and continues into 417 |
+| 417 | 400 | corrected `பெற்றோருக்கு அடங்காத` → source-visible `பெற்றோர்க்கு அடங்காத`; corrected `தனிர்மேனி` → `தளிர்மேனி`; Chapter 116 / Kural 1152 and source glosses confirmed |
+| 418 | 401 | direct textual comparison complete; no correction required; Ilango dream vignette begins and continues mid-sentence into 419 |
+| 419 | 402 | direct textual comparison complete; no correction required; Ilango dream continues into 420 |
+| 420 | 403 | direct textual comparison complete; no correction required; Chapter 108 / Kurals 1080 and 1071 confirmed |
+| 421 | 404 | direct textual comparison complete; no correction required; Pugazhenthi/Ottakoothar literary-imagination discussion begins and **421→422 genuine continuation** confirmed from witness |
+
+Batch 8 correction summary: **3 records corrected; 8 records required no textual change**.
+
+Durable correction commits:
+
+- scan 412 — `572c133e19e77d489a58c1e46773a8277898f3df`;
+- scan 415 — `84cc91ba3092f08459c1dd9d8a93e282cfd04303`;
+- scan 417 — `352c3fe6f5a6516bf97cc9f0fad50e5f4fee2883`.
+
 ## Current Pass 2A coverage
 
-- complete: **77 / 111 scans**;
-- verified range: **334–410 / printed 317–393**;
-- remaining Pass 2A: **34 scans**;
+- complete: **88 / 111 scans**;
+- verified range: **334–421 / printed 317–404**;
+- remaining Pass 2A: **23 scans**;
 - page statuses remain **needs-review / needs-review**;
 - Pass 2B: **BLOCKED until Pass 2A reaches 111/111**;
 - Part 005: **BLOCKED**; **444→445 remains deferred until Part 005 source intake**.
 
 ## Exact next activity
 
-Process **Pass 2A Batch 8 — scans 411–421 / printed 394–404 (11 scans)**. Re-render and compare every record directly against the controlling source, preserve the incoming **410→411 genuine continuation** and its closure on scan 411, correct only source-supported wording/punctuation/paragraph/Kural/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **422 / printed 405** only as the outgoing boundary witness if needed.
+Process **Pass 2A Batch 9 — scans 422–432 / printed 405–415 (11 scans)**. Re-render and compare every record directly against the controlling source, preserve the incoming **421→422 genuine continuation** and its closure on scan 422, correct only source-supported wording/punctuation/paragraph/Kural/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **433 / printed 416** only as the outgoing boundary witness if needed.
