@@ -166,9 +166,31 @@ Durable page commits, in order:
 
 Scan **411 / printed 394** was inspected directly as the outgoing boundary witness. It continues and closes the lovers vignette opened on scan 410 with Chapter 126 / Kural 1258. Therefore **410→411 is a genuine continuation**; scan 411 was not created during P4-07.
 
+## P4-08 state
+
+**11 / 11 page records captured — COMPLETE.**
+
+P4-08 scans **411–421 / printed 394–404** are captured as one page-aligned Tamil Pass-1 record per physical scan. The records carry `part: 4`, `part_page: 78–88`, source-visible printed pages, `status: "needs-review"`, and `visual_fidelity: "needs-review"`.
+
+Durable page commits, in order:
+
+- scan 411 — `b46d95fa4a25cfcf0830c6a04af909cd0c3a92c6`;
+- scan 412 — `413eca19487538979c06734be70b494148364497`;
+- scan 413 — `e2b9fb34369b5eb2655000ddd7a50775d3c8dbba`;
+- scan 414 — `f9df81d4746e72fe0dd720a28d9121e3be746604`;
+- scan 415 — `2239d87810226fffc6d8ac86fabc4db363889b51`;
+- scan 416 — `3fabd987cccfd5f65cdbcf3d647878eb8ed7b4f0`;
+- scan 417 — `483db28e841c8c30caddd935fce49f076e51b8fe`;
+- scan 418 — `4c364dda5c1f83c89a6519a07acd00b67fcbddaf`;
+- scan 419 — `6f58756fb4c13310f990e97380bffb183875772d`;
+- scan 420 — `105435e7087597e35d6b9f8323a475b018d77813`;
+- scan 421 — `b2ae97dfac2271136545bded75c4c867ef39477e`.
+
+Outgoing boundary witness: scan **422 / printed 405** was inspected directly. It continues the Pugazhenthi/Ottakoothar literary-imagination discussion opened on scan 421 and closes that discussion with Chapter 112 / Kurals 1111 and 1113. Therefore **421→422 is a genuine continuation**; scan 422 was not created during P4-08.
+
 ## Pass 1 state
 
-**77 / 111 page records captured.** P4-01 through P4-07 are complete; do not recapture or overwrite these 77 durable records merely because an older handover or prompt reports an earlier frontier.
+**88 / 111 page records captured.** P4-01 through P4-08 are complete; do not recapture or overwrite these 88 durable records merely because an older handover or prompt reports an earlier frontier.
 
 Planned batches:
 
@@ -179,8 +201,8 @@ Planned batches:
 - P4-05: **378–388 / printed 361–371 — COMPLETE 11/11**;
 - P4-06: **389–399 / printed 372–382 — COMPLETE 11/11**;
 - P4-07: **400–410 / printed 383–393 — COMPLETE 11/11**;
-- P4-08: **411–421 / printed 394–404 — NEXT**;
-- P4-09: **422–432 / printed 405–415**;
+- P4-08: **411–421 / printed 394–404 — COMPLETE 11/11**;
+- P4-09: **422–432 / printed 405–415 — NEXT**;
 - P4-10: **433–443 / printed 416–426**;
 - final remainder: **444 / printed 427**.
 
@@ -188,4 +210,4 @@ At the supplied Part endpoint, scan 444 begins a new illustrated royal/court nar
 
 ## Exact next activity
 
-Process **P4-08 — scans 411–421 / printed 394–404** as 11 page-aligned Tamil Pass-1 records. Continue the lovers vignette from scan 410 into scan 411 without inventing a boundary; inspect each rendered source page directly, preserve source wording/paragraphs/Kural blocks/visual relationships, use `needs-review` for both textual and visual status, and inspect scan 422 only if required to settle the outgoing batch boundary.
+Process **P4-09 — scans 422–432 / printed 405–415** as 11 page-aligned Tamil Pass-1 records. Continue the Pugazhenthi/Ottakoothar literary-imagination discussion from scan 421 into scan 422 without inventing a boundary; inspect each rendered source page directly, preserve source wording/paragraphs/Kural blocks/visual relationships, use `needs-review` for both textual and visual status, and inspect scan 433 only if required to settle the outgoing batch boundary.
