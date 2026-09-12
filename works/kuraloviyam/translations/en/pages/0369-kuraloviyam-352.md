@@ -11,7 +11,7 @@ source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-“O flawless gold! O right-spiralled pearl! O stainless fragrance! O sugarcane! O honey! Shall I call you a gem not born in the mountain? Shall I call you music not born in the yazh?”
+“O flawless gold! O right-spiralled pearl! O stainless fragrance! O sugarcane! O honey! Shall I call you a gem not born in the mountain? Shall I call you music not born in the yaazh?”
 
 So he poured out affection and embraced Kannagi in delight. Readers of the *Silappathikaram* may well ask how he could ever forget such embraces.
 

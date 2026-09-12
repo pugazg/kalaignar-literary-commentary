@@ -15,7 +15,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 Large upper illustration of a seated ancient Tamil messenger/official.
 
-Tamil has produced countless poems such as *The Swan as Messenger*, *The Parrot as Messenger* and *The Heron as Messenger*. Histories, puranas and epics too contain accounts of envoys and the rare and great deeds they performed. In the section on polity in the *Porutpaal*, Valluvar explains with great beauty in the Chapter called “The Envoy” what abilities a messenger must possess and how wholehearted his devotion to his leader must be.
+Tamil has produced countless poems such as *The Swan as Messenger*, *The Parrot as Messenger* and *The Heron as Messenger*. Histories, puranas and epics too contain accounts of envoys and the rare and great deeds they performed. In the section on polity in the Book of Porul, Valluvar explains with great beauty in the Chapter called “The Envoy” what abilities a messenger must possess and how wholehearted his devotion to his leader must be.
 
 This is an age in which some people merely go to the place they are told to go, perform the job they are told to perform, remain no more than errand hands, yet advertise themselves as envoys and seek political advantage.
 

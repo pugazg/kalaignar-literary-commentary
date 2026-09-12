@@ -21,7 +21,7 @@ A student asked his teacher whom one should approach to learn the qualities that
 
 “Where is he now?” the student asked with longing.
 
-“The Kural itself is Valluvar in book form. In the *Porutpaal* there is a section called Fortification. It contains ten verses concerning the country. Every one of them is a pearl.”
+“The Kural itself is Valluvar in book form. In the Book of Porul there is a section called Fortification. It contains ten verses concerning the country. Every one of them is a pearl.”
 
 The teacher's face shone as he spoke of the greatness of those Kurals.
 

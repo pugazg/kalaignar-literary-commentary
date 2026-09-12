@@ -600,3 +600,71 @@ GR1 processed **33 consecutive pages: scans 334–366 / printed 317–349**.
 - all 33 English pages remain `source-checked`; this gate makes **no status promotion**;
 - the genuine **366→367** continuation is preserved;
 - no Tamil archival record changed and no external/published/web English terminology was imported.
+
+
+## Part 004 GR2 controls — scans 367–399
+
+### Chapter labels first evidenced in Part 004 GR2
+
+| Tamil | Default English | Editorial note |
+|---|---|---|
+| பழைமை | Old Friendship | Chapter 81 label on scan 367 / printed 350. |
+| தூது | The Envoy | Chapter 69 label on scan 371 / printed 354. |
+| நீத்தார் பெருமை | The Greatness of Renunciates | Chapter 3 label on scans 375 and 389 / printed 358 and 372. |
+| பெருமை | Greatness | Chapter 98 label on scans 377 and 383 / printed 360 and 366. |
+| புகழ் | Fame | Chapter 24 label on scan 381 / printed 364. |
+| நட்பு | Friendship | Chapter 79 label on scan 387 / printed 370. |
+| அரணியல் | Fortification | Source-printed Chapter 74 label on scan 391 / printed 374; preserve the source-specific label for this audited record. |
+
+Existing controlled labels reused unchanged in GR2 include **Declaring Love's Excellence**, **Chiding the Heart**, **Lamenting at the Sight of Evening**, **Lovers' Sulking**, **Longing for His Return**, **The Worth of a Life-Partner**, **Suffering from Pallor**, and **Avoiding Tyrannical Severity**.
+
+### Narrative, literary, historical and place controls first evidenced in Part 004 GR2
+
+| Tamil | Default English form | Editorial note |
+|---|---|---|
+| கோவலன் | Kovalan | Silappathikaram character in scans 368–369. |
+| மாதவி | Madhavi | Silappathikaram character in scans 368–369. |
+| மாசாத்துவான் | Masattuvan | Kovalan's father-name reference on scan 368. |
+| மணிமேகலை | Manimekalai | Child/character reference in scan 369. |
+| தேவந்தி | Devanthi | Kannagi's companion reference in scan 369. |
+| பூம்புகார் | Poompuhar | Place reference in the Kovalan/Kannagi reflection, scan 369. |
+| மாங்களி | Maangili | Woman in the seashore dialogue across scans 372–373. |
+| பூங்கொடி | Poonkodi | Maangili's companion across scans 372–373. |
+| நேரு | Nehru | Historical figure in the memorials passage, scan 374. |
+| காமராஜர் | Kamaraj | Historical figure in the memorials passage, scan 374. |
+| தேவர் திருமகன் | Devar Thirumagan | Source-bounded honorific/name form in the memorials passage, scan 374. |
+| அம்பேத்கார் | Ambedkar | Historical figure in the memorials passage, scan 374. |
+| காயிதே மில்லத் | Quaid-e-Millath | Historical honorific/name form across scans 374–375. |
+| அண்ணாதுரை | Annadurai | Birth-name form in the Anna memorial explanation, scan 375. |
+| கலைவாணர் | Kalaivaanar | Rationalist-humour figure in scans 380–381. |
+| மலர்க்கொடி | Malarkkodi | Woman in the separation/pallor vignette across scans 396–397. |
+| எங்கெல்ஸ் | Engels | Karl Marx's close friend in scan 394. |
+
+Existing controls reused unchanged in GR2 include **Kannagi**, **Silappathikaram**, **Anna**, **Periyar**, **Rajaji**, **Karl Marx**, **Jenny**, **Gandhi**, and **Alagan**.
+
+### Recurring controlled structural / literary terms confirmed in Part 004 GR2
+
+- `பொருட்பால்` uses the established **Book of Porul** structural rendering; scans **370** and **390** were reconciled from transliterated `Porutpaal`.
+- `யாழ்` uses the established **yaazh** instrument form; scans **369** and **392** were reconciled from `yazh`.
+- `காந்தியடிகள்` uses the established **Gandhi** source-honorific rendering; scan **374** was reconciled from `Gandhiji`.
+- `அழகன்` uses the established personal-name form **Alagan**; scan **396** was reconciled from `Azhagan`.
+
+## Part 004 GR2 reconciliation record — scans 367–399
+
+GR2 processed **33 consecutive pages: scans 367–399 / printed 350–382**.
+
+- scans **367–399** — glossary / recurring-terminology reconciliation **PASS, 33/33**;
+- all **17** Chapter/Kural metadata records in the range were checked against their audited Tamil counterparts with **0 chapter-number or Kural-number mismatches**;
+- source-evidenced chapter controls added in this gate: **Old Friendship**, **The Envoy**, **The Greatness of Renunciates**, **Greatness**, **Fame**, **Friendship**, and source-specific **Fortification**;
+- existing controlled labels were reused for Chapter 113 **Declaring Love's Excellence**, Chapter 130 **Chiding the Heart**, Chapter 123 **Lamenting at the Sight of Evening**, Chapter 131 **Lovers' Sulking**, Chapter 127 **Longing for His Return**, Chapter 6 **The Worth of a Life-Partner**, Chapter 119 **Suffering from Pallor**, and Chapter 57 **Avoiding Tyrannical Severity**;
+- terminology consistency corrections were required on **6 English page files**:
+  - scan **369** — `yazh` → **yaazh**;
+  - scan **370** — `Porutpaal` → **Book of Porul**;
+  - scan **374** — `Gandhiji` → **Gandhi**;
+  - scan **390** — `Porutpaal` → **Book of Porul**;
+  - scan **392** — `yazh` → **yaazh**;
+  - scan **396** — `Azhagan` → **Alagan**;
+- recurring narrative/literary/historical/place controls actually evidenced in this range were recorded above;
+- all 33 English pages remain `source-checked`; this gate makes **no status promotion**;
+- incoming **366→367 genuine continuation** and outgoing **399→400 CLEAN** were preserved;
+- no Tamil archival record changed and no external/published/web English terminology was imported.
