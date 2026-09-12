@@ -381,18 +381,26 @@ First-pass drafting is **COMPLETE / CLOSED — 111/111**.
 
 English source-check is **COMPLETE / CLOSED — 111/111**.
 
-English glossary reconciliation is **IN PROGRESS — 99/111**.
+English glossary reconciliation is **COMPLETE / CLOSED — 111/111**.
 
 - GR1 **334–366 — COMPLETE / PASS 33/33**;
 - GR2 **367–399 — COMPLETE / PASS 33/33**;
 - GR3 **400–432 — COMPLETE / PASS 33/33**;
+- GR4 **433–444 / printed 416–427 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
 - current English state — **111 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- GR3 metadata audit — **15 Chapter/Kural records / 0 numeric mismatches**;
-- GR3 terminology corrections — **3 pages: 425, 426, 429**;
-- GR3 page-status changes — **0**;
-- GR3 Tamil changes — **0**;
-- outgoing **432→433 CLEAN** preserved.
+- GR4 metadata audit — **5 Chapter/Kural records / 0 numeric mismatches**;
+- GR4 English page wording corrections — **0 pages**;
+- GR4 exact change set — **`translations/en/GLOSSARY.md` only**;
+- GR4 page-status changes — **0**;
+- GR4 Tamil changes — **0**;
+- incoming **432→433 CLEAN** and internal **443→444 CLEAN** preserved;
+- scan **444 / printed 427 remains source-open**;
+- external **444→445 DEFERRED / UNRESOLVED** preserved.
+
+GR4 commit: `0266f1cca87df46ad9614bb34299218e22df6ad9`.
+
+Part 004 English editorial review is **NOT STARTED / UNBLOCKED**.
 
 ## Exact next activity
 
-Process **Part 004 English glossary reconciliation GR4 final remainder — scans 433–444 / printed 416–427, 12 pages**. Keep page statuses `source-checked`, preserve scan 444 as source-open, do not alter Tamil records, and do not begin Part 005.
+Process **Part 004 English editorial review ER1 — scans 334–366 / printed 317–349, 33 pages**. Use audited Tamil and `GLOSSARY.md`, make only source-faithful editorial improvements, promote only passing pages to `editorial-reviewed`, do not alter Tamil records, and do not begin Part 005.
