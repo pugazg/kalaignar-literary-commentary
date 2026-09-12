@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -18,7 +18,7 @@ Valluvar explains just rule as the act of removing the cruel man like a weed and
 
 Does not Valluvar thereby indicate that such a government, more harmful than the weed itself, must be removed?
 
-There was once a ruler drunk on power in a country called Uganda, who took pleasure in destroying the crops just as weeds destroy them.
+There was once in Uganda a ruler drunk on power who took pleasure in destroying the very crop of citizens, as weeds destroy a field.
 
 His name was Idi Amin.
 

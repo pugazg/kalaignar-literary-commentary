@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-—they floated in the lamps! Those beauties, believing their intoxicated eyes to be magical weapons made expressly to bring men down, placed kings in their laps and held governments in their grip.
+—they floated amid the lamps! Those beauties, believing their intoxicated eyes to be magical weapons made expressly to bring men down, placed kings in their laps and held governments in their grip.
 
 Kings no longer needed ministers to advise them. If only the grace of wine-cups moistened by a beauty's lips continued, they said, that was equal to wondrous counsel delivered by God himself in person—while stroking the woman's waist. Crowds of subjects would come saying, “Resolve our grievances, O king!” Rolling on the bed and pressing her flower-like feet to his cheeks, the king would ask, “What is your grievance? Tell me, graceful one!” The man responsible for government, with no trace of where his clothes and ornaments had gone on the luxurious bed, would chant the mantra that she alone was the world. She would embrace him, cook him in the fire of passion until he collapsed in exhaustion, and let him fall asleep. Then the sceptre of rule was in her hand. The state treasury opened at her command.
 
