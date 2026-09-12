@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,7 +19,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 “And what of me? Is my heart stone? Just watch how quickly I return, clasp you in my arms and lie beside you without knowing the passage of time!”
 
-“Why these deceiving words? Once you have become hard-hearted enough to speak of parting, the hope that you will return and drown me in affection is, for me, useless. I cannot believe it!”
+“Why these deceiving words? Once you have become hard-hearted enough to speak of parting, the hope that you will return and that we will revel in love is, for me, useless. I cannot believe it!”
 
 Weeping and sobbing, the two embraced and fell upon the bed. The seagoing vessel, loaded with peacocks, pepper and pearls for the Yavana land, waited in the sea for his arrival.
 

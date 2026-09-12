@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 Large upper illustration of the distressed merchant Aththi seated with Valluvar.
 
-A merchant named Aththi came to see Valluvar with both mind and face withered in distress. “What has caused sorrow to take possession of a face that normally blooms with laughter?” Kuralar asked with feeling.
+A merchant named Aththi came to see Valluvar with both heart and face withered in distress. “What has caused sorrow to take possession of a face that normally blooms with laughter?” Kuralar asked with feeling.
 
 Aththi's eyes became clouds shedding raindrops. In a trembling voice he spoke:
 
