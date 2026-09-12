@@ -201,16 +201,21 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 - Tamil: **ARCHIVAL-READY / CLOSED**;
 - English drafting: **COMPLETE / CLOSED 111/111**;
 - English source-check: **COMPLETE / CLOSED 111/111**;
-- English glossary reconciliation: **IN PROGRESS 99/111**;
+- English glossary reconciliation: **COMPLETE / CLOSED 111/111**;
 - GR1 **334–366 — COMPLETE / PASS 33/33**;
 - GR2 **367–399 — COMPLETE / PASS 33/33**;
 - GR3 **400–432 — COMPLETE / PASS 33/33**;
+- GR4 **433–444 / printed 416–427 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
 - current English state: **111 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- GR3 terminology corrections: **3 page files**;
-- page-status changes: **0**;
-- next glossary batch: **GR4 final remainder scans 433–444 / printed 416–427**;
-- external **444→445 DEFERRED / UNRESOLVED**.
+- GR4 Chapter/Kural metadata: **5 records / 0 numeric mismatches**;
+- GR4 English page wording corrections: **0 page files**;
+- GR4 page-status changes: **0**;
+- GR4 Tamil changes: **0**;
+- **432→433 CLEAN** and **443→444 CLEAN**;
+- scan **444 / printed 427 remains source-open**;
+- external **444→445 DEFERRED / UNRESOLVED**;
+- editorial review: **NOT STARTED / UNBLOCKED**.
 
 ### Exact next content stage
 
-Process **Part 004 English glossary reconciliation GR4 final remainder — scans 433–444 / printed 416–427, 12 pages**. Do not change page statuses or begin Part 005.
+Process **Part 004 English editorial review ER1 — scans 334–366 / printed 317–349, 33 pages**. Follow the maintained editorial-review rules: source-faithful readability/consistency review only, promote only passing pages to `editorial-reviewed`, do not alter Tamil records, and do not begin Part 005.
