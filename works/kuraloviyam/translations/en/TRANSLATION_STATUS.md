@@ -366,24 +366,25 @@ ER4 made only source-faithful readability improvements. In particular, scan **44
 
 Durable record: `reviews/PART_004_ENGLISH_REVIEW.md`.
 
-Whole-Part audit result:
+Whole-Part audit passed exact **111/111** inventory/alignment, all **111 `editorial-reviewed`** statuses, **54 Chapter/Kural metadata records across 54 pages / 42 distinct Chapters**, controlled labels, Kural blocks, **54 visual-material records**, page functions and continuity controls.
 
-- Tamil inventory/alignment — **111/111 PASS**;
-- English inventory/alignment — **111/111 PASS**;
-- all English statuses — **111/111 `editorial-reviewed`**;
-- exact `source_tamil_file` links — **111/111 PASS**;
-- Chapter/Kural metadata — **54 records / 54 pages / 42 distinct Chapter numbers / 0 numeric mismatches**;
-- controlled Chapter labels — **PASS / 0 unresolved conflicts**;
-- Kural block separation — **PASS**;
-- English visual-material records — **54**;
-- page-function audit — **PASS**;
-- English page wording/status changes during this review — **0**;
-- Tamil changes during this review — **0**;
-- incoming **333→334 CLEAN** preserved;
-- **366→367 genuine continuation**, **399→400 CLEAN**, **432→433 CLEAN**, and **443→444 CLEAN** preserved;
+## Part 004 English release — APPROVED / CLOSED
+
+Durable report: `reviews/PART_004_ENGLISH_RELEASE_REPORT.md`.
+
+- release approval — **APPROVED / CLOSED**;
+- eligible pages — **111/111**;
+- promoted to `release-ready` — **111/111**;
+- page promotion base — `b4c248ba1edd4f8eeb16cfd296fd51489ad8fca5`;
+- page promotion endpoint — `091d855a1fbe7f4588680e380ee33bea3824d036`;
+- exact changed files — **111 English page records only**;
+- every changed page — **+1 / -1**, status token only;
+- English wording changes — **0**;
+- Tamil changes — **0**;
+- glossary changes — **0**;
 - scan **444 / printed 427 remains source-open**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
 ## Exact next English activity
 
-Create the **Part 004 English release report**. Decide release approval from the closed Part-level review. Do not promote any page to `release-ready` unless the release report is approved; if approved, promotion must be status-token-only across all eligible pages. Preserve scan 444 as source-open and external 444→445 as deferred. Do not begin Part 005.
+Create the **final Part 004 closure checkpoint/documentation confirmation**. Confirm Tamil remains archival-ready, English remains **111/111 `release-ready`**, Part-level review remains PASS, release report remains APPROVED / CLOSED, and no page-layer change is required. Preserve the source-open endpoint and do not begin Part 005.

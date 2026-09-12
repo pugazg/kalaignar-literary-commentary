@@ -57,10 +57,35 @@ External **444→445** remains **DEFERRED / UNRESOLVED until Part 005 controllin
 
 Part 004 Tamil remains **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**.
 
+## Promotion audit — PASS
+
+Promotion base: `b4c248ba1edd4f8eeb16cfd296fd51489ad8fca5`  
+Promotion endpoint: `091d855a1fbe7f4588680e380ee33bea3824d036`
+
+Exact compare result:
+
+- changed files — **111**;
+- all changed files — Part 004 English page records only, scans **334–444**;
+- per-file diff shape — **+1 / -1** for every page;
+- change type — status token only: `editorial-reviewed` → `release-ready`;
+- approved English wording changes — **0**;
+- Tamil changes — **0**;
+- glossary changes — **0**;
+- control-document changes during page promotion — **0**.
+
 ## Release decision
 
-**PART 004 ENGLISH RELEASE: APPROVED.**
+**PART 004 ENGLISH RELEASE: APPROVED / CLOSED — 111/111 `release-ready`.**
 
-After the exact 111-page status-token-only promotion is audited and controls are synchronized, this release gate may be recorded as **APPROVED / CLOSED — 111/111 `release-ready`**.
+Final English status distribution:
 
-The next gate after release synchronization is the **final Part 004 closure checkpoint/documentation confirmation**. Do not begin Part 005.
+- `release-ready`: **111**;
+- `editorial-reviewed`: **0**;
+- `source-checked`: **0**;
+- `draft`: **0**;
+- `source-limited`: **0**;
+- `blocked`: **0**.
+
+Scan **444 / printed 427** remains source-open. External **444→445** remains **DEFERRED / UNRESOLVED**.
+
+The exact next gate is the **final Part 004 closure checkpoint/documentation confirmation**. Do not begin Part 005.

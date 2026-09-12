@@ -422,10 +422,24 @@ ER4 page endpoint: `a2cc56a39d4e0271038e90cdc633056706e1f7ff`.
 
 Durable record: `translations/en/reviews/PART_004_ENGLISH_REVIEW.md`.
 
-The whole-Part review passed exact **111/111 Tamil/English inventory and filename alignment**, all **111 pre-release English statuses**, **54 Chapter/Kural metadata records across 54 pages / 42 distinct Chapter numbers**, controlled labels, Kural block separation, **54 visual-material English records**, page functions and accumulated continuities.
+The whole-Part review passed inventory/alignment, all **111 editorial-reviewed** statuses, terminology, Chapter/Kural metadata, Kural blocks, visual/page functions and continuity controls.
 
-No English page wording/status or Tamil record changed during this Part-level review. Scan 444 remains source-open; external **444→445 remains DEFERRED / UNRESOLVED**.
+## Part 004 English release — APPROVED / CLOSED
+
+Durable report: `translations/en/reviews/PART_004_ENGLISH_RELEASE_REPORT.md`.
+
+- `release-ready` — **111/111**;
+- `editorial-reviewed` — **0**;
+- exact promotion change set — **111 English page records only**;
+- every promotion diff — **+1/-1**, status-token-only;
+- English wording changes — **0**;
+- Tamil changes — **0**;
+- scan **444 / printed 427 remains source-open**;
+- external **444→445 DEFERRED / UNRESOLVED**.
+
+Promotion base: `b4c248ba1edd4f8eeb16cfd296fd51489ad8fca5`.  
+Promotion endpoint: `091d855a1fbe7f4588680e380ee33bea3824d036`.
 
 ## Exact next activity
 
-Create the **Part 004 English release report**. Do not promote pages before approval. If approved, promotion must be status-token-only across eligible pages. Do not begin Part 005.
+Create the **final Part 004 closure checkpoint/documentation confirmation**. Do not change English page wording/status or Tamil records unless a genuine contradiction is found. Preserve the source-open endpoint and do not begin Part 005.

@@ -184,19 +184,23 @@ ER4 page endpoint: `a2cc56a39d4e0271038e90cdc633056706e1f7ff`.
 
 Durable record: `works/kuraloviyam/translations/en/reviews/PART_004_ENGLISH_REVIEW.md`.
 
-The audit passed:
+## Part 004 English release — APPROVED / CLOSED
 
-- exact Tamil/English inventory and alignment **111/111**;
-- all **111 `editorial-reviewed`** statuses;
-- exact source links and verified Tamil basis;
-- **54 Chapter/Kural metadata records across 54 pages / 42 distinct Chapters** with no numeric or controlled-label mismatch;
-- Kural block separation;
-- **54** English visual-material records and page functions;
-- accumulated continuity decisions;
-- source-open scan **444** with **444→445 DEFERRED / UNRESOLVED**.
+Durable report: `works/kuraloviyam/translations/en/reviews/PART_004_ENGLISH_RELEASE_REPORT.md`.
 
-No English page wording/status and no Tamil record changed during the Part-level review.
+All **111** eligible Part 004 English pages are now `release-ready`.
 
-## Exact next activity — Part 004 English release report
+Release promotion audit:
 
-Create `works/kuraloviyam/translations/en/reviews/PART_004_ENGLISH_RELEASE_REPORT.md` and decide release approval. Do not promote pages to `release-ready` before approval. If approved, promotion must be status-token-only. Preserve the source-open endpoint and do not begin Part 005.
+- base — `b4c248ba1edd4f8eeb16cfd296fd51489ad8fca5`;
+- endpoint — `091d855a1fbe7f4588680e380ee33bea3824d036`;
+- changed files — **111 English page records only**;
+- each file — **+1/-1**, status-token-only;
+- English wording changes — **0**;
+- Tamil changes — **0**;
+- scan **444 / printed 427 remains source-open**;
+- external **444→445 DEFERRED / UNRESOLVED**.
+
+## Exact next activity — final Part 004 closure checkpoint
+
+Create the durable final Part 004 closure checkpoint/documentation confirmation. Confirm Tamil archival closure, English **111/111 release-ready**, Part-level review PASS and release report APPROVED / CLOSED. The checkpoint must not alter page wording/status or Tamil records. Do not begin Part 005.

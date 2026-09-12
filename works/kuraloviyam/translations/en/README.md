@@ -161,28 +161,24 @@ GR4 commit: `0266f1cca87df46ad9614bb34299218e22df6ad9`.
 
 ## Part 004 English editorial review — COMPLETE / CLOSED
 
-- ER1 **334–366 / printed 317–349 — COMPLETE / PASS 33/33**;
-- ER2 **367–399 / printed 350–382 — COMPLETE / PASS 33/33**;
-- ER3 **400–432 / printed 383–415 — COMPLETE / PASS 33/33**;
-- ER4 **433–444 / printed 416–427 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
-- cumulative editorial review — **111/111 COMPLETE / CLOSED**;
-- current page status — **111 `editorial-reviewed` / 0 `source-checked`**;
-- ER4 wording-improvement pages — **11**: 433, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444;
-- ER4 status-only promotion — **1**: 434;
-- Chapter/Kural / Kural-block changes — **0**;
-- Tamil changes — **0**;
-- **432→433 CLEAN** and **443→444 CLEAN** preserved;
-- scan **444 / printed 427 remains source-open**;
-- external **444→445 DEFERRED / UNRESOLVED**.
+Editorial review finished **111/111**.
 
 ## Part 004 Part-level English review — PASS / CLOSED
 
 Durable record: `reviews/PART_004_ENGLISH_REVIEW.md`.
 
-Whole-Part inventory/alignment, statuses, controlled terminology and names, Chapter/Kural metadata, Kural-block separation, visual/page functions and accumulated continuity all passed. No page wording/status or Tamil record changed during the review.
+## Part 004 English release — APPROVED / CLOSED
 
-Current page status remains **111 `editorial-reviewed` / 0 `release-ready`**.
+Durable report: `reviews/PART_004_ENGLISH_RELEASE_REPORT.md`.
+
+- current page status — **111/111 `release-ready`**;
+- exact release change set — **111 English page records only**;
+- status-token-only promotion — **PASS**;
+- English wording changes — **0**;
+- Tamil changes — **0**;
+- scan **444 / printed 427 remains source-open**;
+- external **444→445 DEFERRED / UNRESOLVED**.
 
 ## Current frontier
 
-**Part 004 English release report — NEXT / NOT STARTED.**
+**Final Part 004 closure checkpoint/documentation confirmation — NEXT.**

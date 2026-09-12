@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 004 English release report
+# NEXT CHAT PROMPT — குறளோவியம் / Part 004 final closure checkpoint
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`.
 
@@ -6,33 +6,36 @@ Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, acti
 
 Fetch live `main` first and preserve newer durable work.
 
-Part 004 Tamil is **ARCHIVAL-READY / CLOSED**.
+## Durable Part 004 state
 
-## Durable English state
-
-- drafting — **COMPLETE / CLOSED 111/111**;
+- Tamil — **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified / 0 exceptions**;
+- English drafting — **COMPLETE / CLOSED 111/111**;
 - source-check — **COMPLETE / CLOSED 111/111**;
 - glossary reconciliation — **COMPLETE / CLOSED 111/111**;
 - editorial review — **COMPLETE / CLOSED 111/111**;
 - Part-level English review — **PASS / CLOSED**;
-- durable review — `works/kuraloviyam/translations/en/reviews/PART_004_ENGLISH_REVIEW.md`;
-- current page status — **111 `editorial-reviewed` / 0 `release-ready`**;
-- whole-Part inventory/alignment — **111/111 PASS**;
-- Chapter/Kural metadata — **54 records / 54 pages / 42 distinct Chapters / 0 numeric mismatches**;
-- controlled labels and Kural block separation — **PASS**;
-- English visual-material records — **54 / page-function audit PASS**;
-- no page wording/status changed during Part-level review;
-- no Tamil record changed;
-- **333→334 CLEAN**, **366→367 genuine continuation**, **399→400 CLEAN**, **432→433 CLEAN**, **443→444 CLEAN** preserved;
+- English release report — **APPROVED / CLOSED**;
+- current English page status — **111/111 `release-ready`**;
+- release promotion base — `b4c248ba1edd4f8eeb16cfd296fd51489ad8fca5`;
+- release promotion endpoint — `091d855a1fbe7f4588680e380ee33bea3824d036`;
+- exact release change set — **111 English page records only**, each **+1/-1**, status-token-only;
+- English wording changes during release — **0**;
+- Tamil changes during release — **0**;
 - scan **444 / printed 427 remains source-open**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
-## Exact next activity — Part 004 English release report
+## Exact next activity — final Part 004 closure checkpoint
 
-Create `works/kuraloviyam/translations/en/reviews/PART_004_ENGLISH_RELEASE_REPORT.md`.
+Create the durable final Part 004 closure record, following the Part 003 final-closure precedent.
 
-Evaluate release eligibility from the closed Part-level review. Do not import external/published English wording and do not reopen Tamil.
+Confirm:
 
-If the release report is **APPROVED**, promote all eligible Part 004 English pages from `editorial-reviewed` to `release-ready` using **status-token-only** changes; approved wording must remain untouched. Audit the exact 111-page status change set before synchronizing controls.
+1. Tamil remains archival-ready / closed;
+2. English remains **111/111 `release-ready`**;
+3. Part-level English review remains **PASS / CLOSED**;
+4. English release remains **APPROVED / CLOSED**;
+5. no English page wording/status change is required;
+6. no Tamil record change is required;
+7. scan 444 remains source-open and **444→445 remains DEFERRED / UNRESOLVED**.
 
-Preserve scan **444** as source-open and external **444→445 DEFERRED / UNRESOLVED**. Do not begin Part 005.
+After the checkpoint, synchronize controls to mark Part 004 fully closed. Do not begin Part 005 unless its controlling source is explicitly supplied.
