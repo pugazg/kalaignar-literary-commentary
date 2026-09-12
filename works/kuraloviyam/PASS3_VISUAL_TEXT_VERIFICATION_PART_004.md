@@ -7,7 +7,7 @@
 - Printed pages: **317–427**
 - Physical scans: **111**
 - Gate: **Pass 3 — meaningful visual/text fidelity verification**
-- Normal cadence: **11 physical scans per iteration**, following the established Part-003 Pass-3 precedent and Part-004 page-batch discipline
+- Cadence history: **Batches 1–6 used 11 physical scans per iteration**; from Batch 7 onward the user-directed cadence is **30 physical scans per normal iteration**, with a shorter final remainder when fewer than 30 scans remain
 - Status: **IN PROGRESS**
 
 ## Method
@@ -208,10 +208,63 @@ This is not another lexical reread. Settled wording is not normalized or rewritt
 - Status promotion: **0**.
 - All Part-004 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
 
+## Batch 7 — scans 400–429 / printed 383–412
+
+**Result: COMPLETE — 30 / 30.**
+
+User-directed cadence change applied here: **30 physical scans per normal Pass-3 iteration**.
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 400 | 383 | **NO STRUCTURAL CHANGE** — large upper illustration of the Earth woman with two speculative visitor/robot-like figures remains above the prose; the visitors-from-another-world vignette begins below and continues directly to scan 401. |
+| 401 | 384 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the speculative visitors vignette; Kural 12, Chapter 2 metadata and source glosses remain correctly separated near the bottom. |
+| 402 | 385 | **NO STRUCTURAL CHANGE** — text-only opening of the two-boats/love vignette; prose continues through the full-page illustration on scan 403 and closes on scan 404. |
+| 403 | 386 | **NO STRUCTURAL CHANGE** — full-page illustration remains the sole main content, showing the young man in the foreground with the young woman behind; no main printed prose is present on this scan. |
+| 404 | 387 | **NO STRUCTURAL CHANGE** — textual closure of the two-boats/love vignette; Kural 1134 and Chapter 114 metadata remain correctly separated above the small monument page furniture. |
+| 405 | 388 | **NO STRUCTURAL CHANGE** — large upper illustration of the young man speaking with the richly adorned woman remains above the dialogue; the deceptive-flattery/friendship vignette begins below and continues directly to scan 406. |
+| 406 | 389 | **NO STRUCTURAL CHANGE** — text-only continuation of the courtesan/thieves/self-interested-friend sequence; prose continues directly to scan 407. |
+| 407 | 390 | **NO STRUCTURAL CHANGE** — textual continuation/close; Kural 813, Chapter 82 metadata and source glosses remain correctly separated above the small monument illustration. |
+| 408 | 391 | **NO STRUCTURAL CHANGE** — large upper illustration of Sevval pulling the cart with the family riding in it remains above the prose; the cattle-cruelty vignette begins below and continues directly to scan 409. |
+| 409 | 392 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Sevval/cattle-cruelty vignette; Kural 318 and Chapter 32 metadata remain correctly separated near the bottom. |
+| 410 | 393 | **NO STRUCTURAL CHANGE** — large upper embracing-couple illustration remains above the quoted verse and prose; the lovers vignette begins and continues directly to scan 411. |
+| 411 | 394 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the lovers vignette; the source Kavadi Sindhu quotation and Kural 1258 / Chapter 126 metadata remain structurally distinct. |
+| 412 | 395 | **NO STRUCTURAL CHANGE** — large upper political illustration with Lenin, Stalin and Soviet figures remains above the prose; the Stalin/Khrushchev historical anecdote begins below and continues directly to scan 413. |
+| 413 | 396 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Stalin/Khrushchev anecdote; Kural 495, Chapter 50 metadata and source glosses remain correctly separated. |
+| 414 | 397 | **NO STRUCTURAL CHANGE** — large upper illustration accompanying the justice/impartiality dialogue remains above the prose; the dialogue begins below and continues directly to scan 415. The existing context-based visual note remains source-supported and was not rewritten. |
+| 415 | 398 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the justice/impartiality dialogue; Kural 116, Chapter 12 metadata and two source glosses remain correctly separated. |
+| 416 | 399 | **CORRECTED** — direct source inspection shows the **turbaned young man**, not the young woman, carrying the basket overhead. `visual_notes` corrected only; body wording and review flags unchanged. |
+| 417 | 400 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Vaigai/Vadivazhagan vignette; Kural 1152, Chapter 116 metadata and source glosses remain correctly separated. |
+| 418 | 401 | **NO STRUCTURAL CHANGE** — large upper illustration associated with Ilango's home/dream sequence remains above the prose; the dream vignette begins below and continues directly to scan 419. |
+| 419 | 402 | **NO STRUCTURAL CHANGE** — text-only continuation of Ilango's dream with Thiruvalluvar; the defeated-commander episode continues directly to scan 420. |
+| 420 | 403 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the கயமை dream sequence; the two printed Kural blocks 1080 and 1071 of Chapter 108 remain distinct above the small monument page furniture. |
+| 421 | 404 | **NO STRUCTURAL CHANGE** — large upper embracing-couple illustration remains above the prose; the Pugazhenthi/Ottakoothar literary-imagination discussion begins below and continues directly to scan 422. |
+| 422 | 405 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the literary-imagination discussion; Kurals 1111 and 1113 / Chapter 112 metadata remain correctly separated above the small Thiruvalluvar statue illustration. |
+| 423 | 406 | **NO STRUCTURAL CHANGE** — large upper illustration of the displaced king with military companions remains above the prose; the four-strengths/war-strategy vignette begins below and continues directly to scan 424. |
+| 424 | 407 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the war-strategy vignette; Kural 471 and Chapter 48 metadata remain correctly separated at the bottom. |
+| 425 | 408 | **NO STRUCTURAL CHANGE** — large upper illustration accompanying the Mugilan/Nallammai vignette remains above the prose; the existing elder/woman description is consistent with the page's explicit Mugilan/Nallammai context and was retained. The vignette continues mid-sentence to scan 426. |
+| 426 | 409 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Mugilan/Nallammai vignette; Kural 29 and Chapter 3 metadata remain correctly separated at the bottom. |
+| 427 | 410 | **NO STRUCTURAL CHANGE** — large upper embracing-couple illustration remains above the prose; the lovers-after-war / ஊடல் vignette begins below and continues directly to scan 428. |
+| 428 | 411 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the lovers-after-war / ஊடல் vignette; Kurals 1324 and 1329 / Chapter 133 metadata remain correctly separated on the page. |
+| 429 | 412 | **NO STRUCTURAL CHANGE** — large upper illustration of Arima seated with a long weapon while two women stand behind remains above the prose; the Arima/Parithi restraint-before-battle dialogue begins below and continues directly to scan 430. |
+
+### Boundary / continuity result
+
+- Incoming **399→400 CLEAN** remains confirmed.
+- **429→430 is a genuine continuation**, reconfirmed from scan **430 / printed 413**: scan 429 opens the Arima/Parithi restraint-before-battle dialogue, and scan 430 continues and closes it with Chapter 49 / Kural 486.
+- Scan 430 was used only as the outgoing witness and is **not** counted in Batch 7.
+
+### Batch 7 correction summary
+
+- Structural/visual-description corrections: **1 page — scan 416**.
+- No-change scans: **400–415, 417–429 — 29 pages**.
+- Lexical body-text changes: **0**.
+- Status promotion: **0**.
+- All Part-004 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+
 ## Resulting Pass-3 frontier
 
-**66 / 111 complete through scan 399 / printed 382.**
+**96 / 111 complete through scan 429 / printed 412.**
 
 ## Exact next activity
 
-Process **Part 004 Pass 3 / Batch 7 — scans 400–410 / printed 383–393, 11 physical scans**. Begin with scan 400 now receiving full Pass-3 review after serving only as the Batch-6 outgoing witness. Inspect **scan 411 / printed 394** only as the outgoing boundary witness. Keep the visual-text-only gate and do not start the Part audit until Pass 3 reaches 111/111.
+Process the **final Part 004 Pass 3 remainder — scans 430–444 / printed 413–427, 15 physical scans**. Scan 430 now receives full Pass-3 review after serving only as the Batch-7 outgoing witness. Because this is the supplied Part endpoint, there is **no outgoing scan-445 witness**; keep **444→445 DEFERRED / UNRESOLVED** until Part 005 is actually supplied. Do not start the Part audit in the same iteration unless separately instructed.
