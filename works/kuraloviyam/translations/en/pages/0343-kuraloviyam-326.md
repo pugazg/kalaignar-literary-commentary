@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -21,7 +21,7 @@ The cruelty inflicted on Bhutto in prison, and the indignities committed wheneve
 
 One morning the news came that made people throughout the world shed tears: Bhutto had been put to death in the prison. Zia had given Bhutto the final gift he had prepared for the man who had trusted him.
 
-Bhutto's heart must surely have wept: “Because I failed to examine a man many times before choosing him as a friend, I am now going to die through that deceiver called my friend.” Without displaying it outwardly, that brave man accepted death with courage.
+Bhutto's heart must surely have wept: “Because I failed to examine a man many times before choosing him as a friend, I am now going to die through that deceiver called my friend.” Without displaying it outwardly, that brave man accepted death with joy.
 
 “Friendship with one accepted without repeated examination will in the end create the very sorrow that brings about one's death.”
 
