@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 004 audit PASS / COMPLETE; final metadata-status synchronization next**: **2026-09-12**.
+Last refreshed for Kuraloviyam **Part 004 final metadata/status synchronization PASS / CLOSED; documentation synchronization next**: **2026-09-12**.
 
 ## Repository
 
@@ -177,20 +177,6 @@ Do not restart Pass 1. Do not resume scan-led lexical Pass 2 at scan 14.
 
 # Active source-ready work — குறளோவியம்
 
-## LIVE MAIN IS AUTHORITATIVE
-
-Fetch live `main` first. Parts **001–003 are CLOSED** and must not be reopened from stale prompts unless genuinely new source/provenance/fidelity evidence appears.
-
-## Current Part 004 source
-
-Controlling split: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf`
-
-- local pages: **111**;
-- overall scans: **334–444**;
-- printed pages: **317–427**;
-- SHA-256: `5b7fcc65f19dc3d2a57bebb13cdfb02d0c83f70a5ccc9e537886790908674581`;
-- rendered scans are controlling.
-
 ## Durable Part 004 state
 
 - source intake: **PASS / COMPLETE**;
@@ -199,16 +185,16 @@ Controlling split: `TVA_BOK_0065733_குறளோவியம்_part_004_p
 - Pass 2B: **COMPLETE / PASS — 111/111**;
 - Pass 3: **COMPLETE / PASS — 111/111**;
 - Part audit: **PASS / COMPLETE**;
-- physical/header inventory: **111/111, no gaps/duplicates**;
-- carried `partial` / `blocked` / source-limited Tamil exceptions: **0**;
-- current page statuses: **111 `needs-review` / 111 `visual_fidelity: needs-review`**;
-- final metadata/status synchronization: **NEXT / UNBLOCKED**;
+- final metadata/status synchronization: **PASS / CLOSED**;
+- Tamil textual status: **111/111 verified**;
+- visual fidelity: **111/111 verified**;
+- exceptions: **0**;
+- documentation synchronization: **NEXT / UNBLOCKED**;
+- Tamil archival-ready checkpoint: **BLOCKED until documentation sync closes**;
 - external **444→445 DEFERRED / UNRESOLVED** until Part 005 source intake.
 
-Durable audit: `works/kuraloviyam/PART_004_AUDIT.md`.
+Durable final-status record: `works/kuraloviyam/PART_004_FINAL_STATUS_SYNC.md`.
 
 ## Exact next activity — குறளோவியம்
 
-Perform **Part 004 final metadata/status synchronization across all 111 records, scans 334–444 / printed 317–427**.
-
-This is metadata-only. Promote eligible textual and visual statuses from `needs-review` to `verified` without changing Tamil wording, Kural text, structure, visual notes, comments or mapping. Preserve **444→445 DEFERRED / UNRESOLVED**. Do not begin Part 005.
+Perform **Part 004 documentation synchronization**. Reconcile all Part-004 overview and frontier documents to the final status state **111 textual verified + 111 visual verified / 0 exceptions**, while preserving **444→445 DEFERRED / UNRESOLVED**. Do not begin Part 005.

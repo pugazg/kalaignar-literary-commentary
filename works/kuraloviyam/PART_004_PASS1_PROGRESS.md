@@ -338,24 +338,25 @@ Part 004 Pass 3 meaningful visual/text verification is **COMPLETE / PASS — 111
 
 Durable record: `PART_004_AUDIT.md`.
 
-Audit results:
+- exact physical inventory: **111/111**;
+- Pass 1 / Pass 2A / Pass 2B / Pass 3: **COMPLETE / PASS**;
+- carried internal Tamil exceptions: **0**;
+- audit status distribution: **111 needs-review / 111 visual needs-review**;
+- external **444→445 DEFERRED / UNRESOLVED** preserved.
 
-- exact physical inventory: **111/111**, scans **334–444**;
-- header mapping: `part_page` **1–111**, printed pages **317–427**, no gaps/duplicates;
-- source intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 closure: **PASS**;
-- carried `partial` / `blocked` / source-limited Tamil exceptions: **0**;
-- pre-final status consistency: **111 `needs-review` + 111 `visual_fidelity: needs-review`**;
-- audit Tamil/body-text changes: **0**;
-- audit page-status promotions: **0**;
+## Final metadata/status synchronization
+
+**PASS / CLOSED.**
+
+Durable record: `PART_004_FINAL_STATUS_SYNC.md`.
+
+- final textual status: **111/111 verified**;
+- final visual status: **111/111 verified**;
+- partial / blocked / source-limited / needs-review: **0**;
+- page-content changes in this gate: **0**;
+- only `status` and `visual_fidelity` changed;
 - external **444→445 DEFERRED / UNRESOLVED** preserved.
 
 ## Exact next activity
 
-Perform **Part 004 final metadata/status synchronization** across all **111 page records, scans 334–444 / printed 317–427**.
-
-This is a metadata-only gate. If the audit evidence remains unchanged, promote:
-
-- `status: "needs-review"` → `status: "verified"`;
-- `visual_fidelity: "needs-review"` → `visual_fidelity: "verified"`.
-
-Do not change Tamil body wording, Kural text, structure, `visual_notes`, comments, source identity or page mapping. Do not begin Part 005.
+Perform **Part 004 documentation synchronization**. Reconcile README, page map, handover, next-chat prompt, archival guide and closure records to the now-final Tamil metadata state. After documentation synchronization passes, the next separate gate is the **Tamil archival-ready checkpoint**. Do not begin Part 005.

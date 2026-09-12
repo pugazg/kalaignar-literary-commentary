@@ -168,7 +168,7 @@ Durable final-status record: `PART_003_FINAL_STATUS_SYNC.md`.
 
 Durable documentation-sync record: `PART_003_DOCUMENTATION_SYNC.md`.
 
-## Part 004 — AUDIT PASS / FINAL STATUS SYNC NEXT
+## Part 004 — FINAL STATUS SYNC CLOSED / DOCUMENTATION SYNC NEXT
 
 Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf`.
 
@@ -179,13 +179,15 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_
 - Pass 2B: **COMPLETE / PASS 111/111**;
 - Pass 3: **COMPLETE / PASS 111/111**;
 - Part audit: **PASS / COMPLETE**;
-- audit inventory: **111/111, no gaps/duplicates**;
-- current statuses: **111 `needs-review` / 111 `visual_fidelity: needs-review`**;
-- audit exceptions: **0**;
+- final metadata/status synchronization: **PASS / CLOSED**;
+- Tamil textual status: **111/111 verified**;
+- visual fidelity: **111/111 verified**;
+- status exceptions: **0**;
+- documentation synchronization: **NEXT / UNBLOCKED**;
 - outgoing **444→445: DEFERRED / UNRESOLVED** until Part 005 intake.
 
-Durable audit: `PART_004_AUDIT.md`.
+Durable records: `PART_004_AUDIT.md`, `PART_004_FINAL_STATUS_SYNC.md`.
 
 ## Current frontier
 
-**Next activity: Part 004 final metadata/status synchronization across all 111 records.** This gate is metadata-only. Do not begin Part 005.
+**Next activity: Part 004 documentation synchronization.** After that passes, proceed separately to the Tamil archival-ready checkpoint. Do not begin Part 005.

@@ -341,21 +341,12 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf`.
 
-- exact canonical inventory: **111 records**;
-- overall scans: **334–444**, continuous;
-- local pages: **1–111**, continuous;
-- printed pages: **317–427**, continuous;
-- **333→334 CLEAN / source-resolved**;
-- scan 444 begins a new famine-granary court narrative;
-- **444→445 DEFERRED / UNRESOLVED** until Part 005 intake.
+- canonical inventory: **111 records**;
+- scans **334–444** / local pages **1–111** / printed **317–427**;
+- incoming **333→334 CLEAN / source-resolved**;
+- external **444→445 DEFERRED / UNRESOLVED** until Part 005 intake.
 
 ## Verification gates
-
-Part 001: **Tamil + English CLOSED**.
-
-Part 002: **Tamil + English CLOSED; final checkpoint PASS / CLOSED**.
-
-Part 003: **Tamil + English CLOSED; final checkpoint PASS / CLOSED; 111/111 English release-ready**.
 
 Part 004:
 
@@ -365,14 +356,14 @@ Part 004:
 - Pass 2B — **COMPLETE / PASS 111/111**;
 - Pass 3 — **COMPLETE / PASS 111/111**;
 - Part audit — **PASS / COMPLETE**;
-- carried Tamil exceptions — **0**;
-- current status distribution — **111 `needs-review`, 0 partial, 0 blocked, 0 verified**;
-- current visual distribution — **111 `needs-review`, 0 verified**;
-- final metadata/status synchronization — **NEXT / UNBLOCKED**;
+- final metadata/status synchronization — **PASS / CLOSED**;
+- textual status distribution — **111 verified / 0 partial / 0 blocked / 0 needs-review**;
+- visual status distribution — **111 verified / 0 needs-review**;
+- documentation synchronization — **NEXT / UNBLOCKED**;
 - Tamil archival-ready / English / final Part closure — **not started**.
 
-Durable audit: `../PART_004_AUDIT.md`.
+Durable final-status record: `../PART_004_FINAL_STATUS_SYNC.md`.
 
 ## Current frontier
 
-**Part 004 final metadata/status synchronization — scans 334–444 / printed 317–427, all 111 records.** Preserve external **444→445 DEFERRED / UNRESOLVED**.
+**Part 004 documentation synchronization.** Preserve external **444→445 DEFERRED / UNRESOLVED**.

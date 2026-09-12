@@ -201,19 +201,20 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf`.
 
 - source intake: **PASS / COMPLETE**;
-- Tamil Pass 1: **COMPLETE — 111/111**;
+- Pass 1: **COMPLETE — 111/111**;
 - Pass 2A: **COMPLETE / PASS — 111/111**;
 - Pass 2B: **COMPLETE / PASS — 111/111**;
 - Pass 3: **COMPLETE / PASS — 111/111**;
 - Part audit: **PASS / COMPLETE**;
-- exact physical/header inventory: **111/111; no gaps/duplicates**;
-- carried internal Tamil exceptions: **0**;
-- current records remain **111 `needs-review` / 111 `visual_fidelity: needs-review`** pending final synchronization;
-- final metadata/status synchronization: **NEXT / UNBLOCKED**;
+- final metadata/status synchronization: **PASS / CLOSED**;
+- Tamil textual status: **111/111 verified**;
+- visual fidelity: **111/111 verified**;
+- status exceptions: **0**;
+- documentation synchronization: **NEXT / UNBLOCKED**;
 - outgoing **444→445: DEFERRED / UNRESOLVED** until Part 005 intake.
 
-Durable audit: `works/kuraloviyam/PART_004_AUDIT.md`.
+Durable final-status record: `works/kuraloviyam/PART_004_FINAL_STATUS_SYNC.md`.
 
 ### Exact next content stage
 
-Perform **Part 004 final metadata/status synchronization across scans 334–444 / printed 317–427**. This gate is metadata-only. Promote eligible textual and visual status fields from `needs-review` to `verified` without changing source text, Kural structure, visual notes, comments or mapping. Do not begin Part 005.
+Perform **Part 004 documentation synchronization** and reconcile every live overview/frontier control to the final Tamil status state. After documentation synchronization passes, proceed separately to the Tamil archival-ready checkpoint. Do not begin Part 005.

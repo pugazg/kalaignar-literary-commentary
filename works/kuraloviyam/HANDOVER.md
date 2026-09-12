@@ -156,52 +156,42 @@ Durable final checkpoint: `works/kuraloviyam/PART_003_FINAL_CLOSURE.md`.
 
 Part 003 Tamil and maintained English are now fully closed. English is **111/111 `release-ready`**; the Part-level review is PASS; the release report is APPROVED / CLOSED; no Tamil or English page record changed during the final checkpoint.
 
-## Part 004 — ACTIVE / final metadata-status synchronization next
+## Part 004 — ACTIVE / documentation synchronization next
 
 Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf`.
-
-- 111 local pages / overall scans **334–444** / visible printed **317–427**;
-- 91,513,473 bytes;
-- SHA-256 `5b7fcc65f19dc3d2a57bebb13cdfb02d0c83f70a5ccc9e537886790908674581`;
-- no usable parsed text layer; rendered source scans control;
-- incoming **333→334 CLEAN / source-resolved**;
-- external **444→445 DEFERRED / UNRESOLVED** until Part 005 intake.
 
 ### Durable gate state
 
 - source intake — **PASS / COMPLETE**;
-- Pass 1 physical capture — **COMPLETE 111/111**;
-- Pass 2A direct textual verification — **COMPLETE / PASS 111/111**;
-- Pass 2B independent lexical-fidelity re-read — **COMPLETE / PASS 111/111**;
-- Pass 3 meaningful visual/text verification — **COMPLETE / PASS 111/111**;
+- Pass 1 — **COMPLETE 111/111**;
+- Pass 2A — **COMPLETE / PASS 111/111**;
+- Pass 2B — **COMPLETE / PASS 111/111**;
+- Pass 3 — **COMPLETE / PASS 111/111**;
 - Part audit — **PASS / COMPLETE**;
-- audit inventory/mapping — **111/111; no gaps/duplicates**;
-- audit carried Tamil exceptions — **0**;
-- current statuses — **111 `needs-review` / 111 `visual_fidelity: needs-review`**;
-- final metadata/status synchronization — **NEXT / UNBLOCKED**;
-- Tamil archival-ready checkpoint — **BLOCKED until final sync and documentation sync close**.
+- final metadata/status synchronization — **PASS / CLOSED**;
+- final Tamil textual distribution — **111 verified / 0 partial / 0 blocked / 0 needs-review**;
+- final visual distribution — **111 verified / 0 needs-review**;
+- documentation synchronization — **NEXT / UNBLOCKED**;
+- Tamil archival-ready checkpoint — **BLOCKED until documentation synchronization closes**;
+- external **444→445 DEFERRED / UNRESOLVED** until Part 005 intake.
 
-Durable records now include:
+Durable Part-004 closure records now include:
 
-- `works/kuraloviyam/SOURCE_INTAKE_PART_004.md`;
-- `works/kuraloviyam/PART_004_PASS1_PROGRESS.md`;
-- `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_004.md`;
-- `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_004.md`;
-- `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_004.md`;
-- `works/kuraloviyam/PART_004_AUDIT.md`.
+- `works/kuraloviyam/PART_004_AUDIT.md`;
+- `works/kuraloviyam/PART_004_FINAL_STATUS_SYNC.md`.
 
-## Exact next activity — final metadata/status synchronization
+## Exact next activity — Part 004 documentation synchronization
 
-Process **all 111 Part-004 page records, scans 334–444 / printed 317–427** as a metadata-only gate.
+Reconcile all live Part-004 overview/control documents to the final Tamil metadata state:
 
-If live evidence remains unchanged:
+1. README;
+2. page map/current frontier;
+3. work handover;
+4. root handover;
+5. archival guide;
+6. next-chat prompt;
+7. any Part-004 closure/status summary that would otherwise remain stale.
 
-1. promote every eligible `status: "needs-review"` to `status: "verified"`;
-2. promote every eligible `visual_fidelity: "needs-review"` to `visual_fidelity: "verified"`;
-3. change **only those two status fields** in page records;
-4. do not alter Tamil body text, Kural wording, paragraph/dialogue structure, `page_type`, `visual_notes`, continuation comments, source metadata or page mapping;
-5. preserve external **444→445 DEFERRED / UNRESOLVED**;
-6. write the durable Part-004 final-status-sync record and audit the exact page-only change set;
-7. then synchronize frontier controls to the subsequent documentation-sync gate.
+Confirm all agree on **111/111 textual verified + 111/111 visual verified**, with **444→445 DEFERRED / UNRESOLVED** preserved.
 
-Do **not** begin Part 005.
+Do not begin the Tamil archival-ready checkpoint in the same iteration unless separately instructed. Do not begin Part 005.
