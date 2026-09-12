@@ -266,4 +266,20 @@ Durable records:
 
 All release page changes were status-token-only; approved English wording and Tamil archival records were unchanged. The internal Part ending at scan **333** is closed. External **333→334** remains deferred until Part 004 source intake.
 
-The next content stage is **Part 004 source intake when the controlling source is supplied**, after which the same permanent Tamil→English gate order applies.
+Part 004 has now completed source intake and the full Tamil archival workflow.
+
+## 16. Part 004 active English record
+
+Part 004 covers scans **334–444 / printed 317–427**.
+
+- Tamil: **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified / 0 exceptions**;
+- durable Tamil closure: `../../PART_004_TAMIL_ARCHIVAL_READY.md`;
+- English first-pass drafting: **NEXT / NOT STARTED**;
+- current normal English batch size: **33 physical scans**;
+- first drafting batch: **D1 scans 334–366 / printed 317–349 — 33 records**;
+- incoming **333→334 CLEAN / source-resolved**;
+- external **444→445 DEFERRED / UNRESOLVED** until Part 005 source intake.
+
+Normal Part-004 English work now uses the audited Tamil page records as authority. The original Tamil scan is not routinely reopened. Do not import published/standard/web English Kural wording or alter the Tamil archive.
+
+Part 005 remains blocked until the Part-004 English workflow and final Part checkpoint are closed and the Part 005 controlling source is supplied.

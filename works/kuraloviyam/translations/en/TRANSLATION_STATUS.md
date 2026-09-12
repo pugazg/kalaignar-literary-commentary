@@ -269,8 +269,26 @@ Final Part 003 English state remains:
 
 No English page record or Tamil record changed during the final closure checkpoint. The Part-level review and release report remain **PASS / APPROVED / CLOSED**.
 
-## Current frontier — Part 004 Tamil archival workflow
+## Part 004 Tamil readiness — ARCHIVAL-READY / CLOSED
 
-Part 004 source intake is **PASS / COMPLETE**. Incoming **333→334 is CLEAN / source-resolved**. Part 004 English work remains **blocked by workflow order** until Part 004 Tamil reaches ARCHIVAL-READY / CLOSED.
+Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf` — scans **334–444 / printed 317–427**, 111 physical pages, SHA-256 `5b7fcc65f19dc3d2a57bebb13cdfb02d0c83f70a5ccc9e537886790908674581`.
 
-The immediate work-level next activity is **Part 004 Tamil Pass 1 P4-01 — scans 334–344 / printed 317–327**. External **444→445** remains deferred until Part 005 source intake.
+Tamil source intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 / audit / final status sync / documentation sync / archival-ready checkpoint are **CLOSED**. Final Tamil state: **111 textual verified + 111 visual verified / 0 exceptions**.
+
+Durable closure: `works/kuraloviyam/PART_004_TAMIL_ARCHIVAL_READY.md`.
+
+Incoming **333→334 is CLEAN / source-resolved**. External **444→445 remains DEFERRED / UNRESOLVED** until Part 005 source intake.
+
+## Part 004 English first-pass drafting — NEXT / NOT STARTED
+
+Part 004 has **0 English page records** at this checkpoint; scan **334 / printed 317** does not yet exist under the English page layer.
+
+Current normal drafting cadence: **33 physical scans per iteration**.
+
+Exact next batch:
+
+**Draft D1 — scans 334–366 / printed 317–349 — 33 page-aligned records.**
+
+Use the audited Tamil page records as the normal authority. Do not routinely reopen the Tamil PDF, do not import published/standard/web English Kural wording, and do not change Tamil records.
+
+Part 005 remains blocked until the Part-004 maintained English workflow and final Part closure are complete and its controlling source is supplied.
