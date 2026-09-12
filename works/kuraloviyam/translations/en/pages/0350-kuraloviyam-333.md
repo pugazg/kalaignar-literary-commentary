@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -21,7 +21,7 @@ Suddenly a heavy rain began. Thunder and lightning! Being young, Anbanandan was 
 
 There was another reason he had been so eager to get home even through that rain. Azhagarasi from the neighbouring house was supposed to have returned from her village that day; he wanted to see her. They were two love-doves not yet joined in marriage.
 
-Azhagarasi had gone to inquire after her aunt's health. News reached Anbanandan that, because his aunt's weakness had not quickly passed, she would return only after another four or five days. Disappointment. All that remained was the fact that he had run home through the rain.
+Azhagarasi had gone to inquire after her aunt's health. News reached Anbanandan that, because her aunt had not recovered quickly, she would return only after another four or five days. Disappointment. All that remained was the fact that he had run home through the rain.
 
 The result of defying the rain was that a severe fever struck him that night. He could not go to school. He took to his bed. The physician prescribed Siddha—
 

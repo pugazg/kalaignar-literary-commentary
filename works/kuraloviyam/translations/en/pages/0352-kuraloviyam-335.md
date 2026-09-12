@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 Large upper illustration of a crowned Pandya king, minister and armed attendants.
 
-In the work *Manonmaniyam* we meet several characters. Jeevakan, king of the Pandya country, has the habit of trusting everyone easily. He has a minister named Kudilan—a man with the nature to ruin a household. The Pandya king places great trust in him and follows whatever he says.
+In the work *Manonmaniyam* we meet several characters. Jeevakan, king of the Pandya country, has the habit of trusting everyone easily. He has a minister named Kudilan—a man of ruinous character. The Pandya king places great trust in him and follows whatever he says.
 
 As a result, war breaks out between the Pandya and Chera countries. The Chera king sets out with his army to conquer the Pandya land and camps on the way.
 

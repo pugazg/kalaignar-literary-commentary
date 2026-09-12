@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 Four days flew by. Though the illness that had come to his body was gone, the love-sickness glowing in his heart showed no sign of ending. Thinking of Azhagarasi, he brushed his teeth and walked toward the pond. There, unexpectedly, Azhagarasi was bathing.
 
-Their eyes competed with each other to devour the other.
+Their eyes competed to devour one another.
 
 “When did you come, my delight!” the young man asked, overflowing with love.
 

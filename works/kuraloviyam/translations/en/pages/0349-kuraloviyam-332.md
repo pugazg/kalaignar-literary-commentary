@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -17,7 +17,7 @@ Aravaazhi laughed. “Veera! The sword in your hand has the power to take the li
 
 Veeran stared, unable to answer Aravaazhi's question. “An invisible sword? What new marvel is this?”
 
-“Yes, Veera! Only the understanding of those who examine and comprehend life can see that sword!”
+“Yes, Veera! Only those who examine and understand life can perceive that sword!”
 
 “Then explain it a little more clearly.” Veeran looked steadily at Aravaazhi, his eyes filled with eagerness.
 
@@ -27,7 +27,7 @@ Veeran stared, unable to answer Aravaazhi's question. “An invisible sword? Wha
 
 “Veera! We usually think of a day only as a measure of time, do we not?”
 
-“Yes, Aravaazhi! What doubt is there? A day is a measure of time! With this seventh day of Thai I complete twenty-eight years of age. So days are instruments that show the measure of time, are they not?”
+“Yes, Aravaazhi! What doubt is there? A day is a measure of time! On this seventh day of Thai, I complete twenty-eight years of age. So days are instruments that show the measure of time, are they not?”
 
 “That is exactly what I came to say! A day is not merely a measure of time. It is like the sword you are holding in your hand. That is, as each day moves on, that day acts like a sword separating life from the body and cuts away a little of us. The sword in your hand may separate an enemy's life from his body in a single stroke. But a day is a sword that does the work of separating your life, my life, and the lives of many like us from our bodies—slowly, and sometimes swiftly!”
 
