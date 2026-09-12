@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 004 Pass 3 Batch 7
+# NEXT CHAT PROMPT — குறளோவியம் / Part 004 Pass 3 final remainder
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`.
 
@@ -8,7 +8,7 @@ Fetch live `main` first and preserve any newer durable work. Do not roll back or
 
 Operational checkpoint immediately before this prompt synchronization:
 
-`53ca2ea132e301951164ee29a539114b5bd99a8b` — `kuraloviyam: Sync handover after Pass 3 batch 6`
+`d93172c7c04a1068f7ae6e704e6ef056dff11f3d` — `kuraloviyam: Sync handover after 30-scan Pass 3 batch`
 
 Parts **001–003 are fully CLOSED**. Do not reopen them unless genuinely new source/provenance/fidelity evidence appears.
 
@@ -55,8 +55,9 @@ Read completely before changing source-dependent records:
 - Pass 1 physical capture — **COMPLETE 111/111**;
 - Pass 2A direct textual verification — **COMPLETE / PASS 111/111**;
 - Pass 2B independent lexical-fidelity re-read — **COMPLETE / PASS 111/111**;
-- Pass 3 meaningful visual/text verification — **IN PROGRESS 66/111** through scan **399 / printed 382**;
-- remaining Pass 3 — **45 scans**;
+- Pass 3 meaningful visual/text verification — **IN PROGRESS 96/111** through scan **429 / printed 412**;
+- remaining Pass 3 — **15 scans**;
+- active user-directed Pass-3 cadence — **30 physical scans per normal iteration**; because fewer than 30 remain, this next iteration is the **15-scan final remainder**;
 - all Part-004 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`;
 - Part audit remains **BLOCKED** until Pass 3 reaches **111/111**;
 - external **444→445 remains DEFERRED / UNRESOLVED** until actual Part 005 source intake.
@@ -65,30 +66,30 @@ Do not recapture Pass 1 or repeat Pass 2A/2B.
 
 ## Completed Pass 3 batches
 
-- Batch 1 — **334–344 / printed 317–327 — COMPLETE 11/11**; visual-description corrections on scans **336 and 342**;
-- Batch 2 — **345–355 / printed 328–338 — COMPLETE 11/11**; visual-description correction on scan **348**;
-- Batch 3 — **356–366 / printed 339–349 — COMPLETE 11/11**; **0** structural corrections;
-- Batch 4 — **367–377 / printed 350–360 — COMPLETE 11/11**; **0** structural corrections;
-- Batch 5 — **378–388 / printed 361–371 — COMPLETE 11/11**; visual-description correction on scan **388**;
-- Batch 6 — **389–399 / printed 372–382 — COMPLETE 11/11**; visual-description correction on scan **398**;
-- lexical body-text changes during Pass 3 Batches 1–6 — **0**;
-- status promotions during Pass 3 Batches 1–6 — **0**.
+- Batch 1 — **334–344 / printed 317–327 — COMPLETE 11/11**; corrections **336, 342**;
+- Batch 2 — **345–355 / printed 328–338 — COMPLETE 11/11**; correction **348**;
+- Batch 3 — **356–366 / printed 339–349 — COMPLETE 11/11**; **0** corrections;
+- Batch 4 — **367–377 / printed 350–360 — COMPLETE 11/11**; **0** corrections;
+- Batch 5 — **378–388 / printed 361–371 — COMPLETE 11/11**; correction **388**;
+- Batch 6 — **389–399 / printed 372–382 — COMPLETE 11/11**; correction **398**;
+- Batch 7 — **400–429 / printed 383–412 — COMPLETE 30/30**; correction **416**;
+- lexical body-text changes during Pass 3 — **0**;
+- status promotions during Pass 3 — **0**.
 
-Batch-6 correction:
+Batch-7 correction:
 
-- scan **398 / printed 381**: direct source inspection shows the ruler holding a **large curved bow**, not a sword. Only `visual_notes` changed; Tamil body wording and review flags were unchanged.
+- scan **416 / printed 399**: direct source inspection shows the **turbaned young man**, not the young woman, carrying the basket overhead. Only `visual_notes` changed; Tamil body wording and review flags were unchanged.
 
 Boundary state:
 
-- incoming **388→389 genuine continuation** closes on scan 389 with Chapter 3 / Kural 22;
-- outgoing **399→400 is CLEAN**;
-- scan 400 begins a new illustrated speculative visitors-from-another-world vignette;
-- inspect scan **411 / printed 394** only as the outgoing Batch-7 witness;
-- do not infer scan 445.
+- incoming **399→400 CLEAN** remains confirmed;
+- outgoing **429→430 is a genuine continuation**;
+- scan 430 continues and closes the Arima/Parithi restraint-before-battle vignette with Chapter 49 / Kural 486;
+- **444→445 remains DEFERRED / UNRESOLVED** because Part 005 is not supplied.
 
 ## Pass 3 rules
 
-For each scan in the active batch:
+For each scan in the active remainder:
 
 - render and inspect the controlling source directly;
 - compare against the current canonical page record;
@@ -100,32 +101,32 @@ For each scan in the active batch:
 - keep `status` and `visual_fidelity` at `needs-review` during Pass 3;
 - exact artwork/font/colour recreation is outside this gate.
 
-## Exact next activity — Pass 3 Batch 7
+## Exact next activity — final Pass 3 remainder
 
-Process **scans 400–410 / printed 383–393 — 11 physical scans**.
+Process **scans 430–444 / printed 413–427 — 15 physical scans**.
 
-Start with scan **400 / printed 383**, which now receives full Pass-3 verification after serving only as the Batch-6 outgoing boundary witness.
+Start with scan **430 / printed 413**, which now receives full Pass-3 verification after serving only as the Batch-7 outgoing boundary witness.
 
-For all 11 scans:
+For all 15 scans:
 
 1. fetch the current page record from live `main`;
 2. directly compare it against the rendered controlling scan;
 3. correct only source-supported structural/visual-description discrepancies;
 4. records requiring no change still count as directly Pass-3 verified;
-5. inspect scan **411 / printed 394** only as needed to settle the outgoing boundary;
-6. do not promote statuses or start the Part audit.
+5. do **not** invent or inspect scan 445 — the supplied Part 004 source ends at scan 444;
+6. preserve **444→445 DEFERRED / UNRESOLVED**;
+7. do not promote statuses during Pass 3.
 
-## Mandatory post-batch synchronization
+## Mandatory post-remainder / phase-transition synchronization
 
-Before stopping after Batch 7:
+After all 15 scans:
 
-1. update `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_004.md`;
-2. update `works/kuraloviyam/PART_004_PASS1_PROGRESS.md` to the new Pass-3 frontier;
-3. update `works/kuraloviyam/HANDOVER.md` to the same frontier and exact next batch;
-4. update this `NEXT_CHAT_PROMPT_KURALOVIYAM.md` to the same frontier and exact next batch;
-5. audit the exact changed-file/commit set;
-6. fetch final live `main` and confirm all frontier controls agree.
+1. update `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_004.md` to **111/111 COMPLETE / PASS** if the remainder closes cleanly;
+2. update `works/kuraloviyam/PART_004_PASS1_PROGRESS.md`;
+3. update `works/kuraloviyam/HANDOVER.md`;
+4. update this `NEXT_CHAT_PROMPT_KURALOVIYAM.md` so the next activity is the **Part 004 Part audit**;
+5. because this closes Pass 3 and creates a phase transition, also refresh root `HANDOVER.md`, and update the work README/page-map where their status overview changes;
+6. audit the exact changed-file/commit set;
+7. fetch final live `main` and confirm all frontier controls agree.
 
-At a **phase transition**, also refresh root `HANDOVER.md`, and update the work README/page-map where the status overview changes.
-
-Then stop. Do **not** start Batch 8 in the same iteration unless separately instructed. Do **not** start the Part audit or Part 005.
+Then stop. Do **not** begin the Part audit in the same iteration unless separately instructed. Do **not** begin Part 005.
