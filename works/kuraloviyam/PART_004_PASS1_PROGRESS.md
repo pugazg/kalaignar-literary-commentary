@@ -303,16 +303,18 @@ Part 004 Pass 2B is in progress after Pass 2A closed at **111/111 COMPLETE / PAS
 - Batch 5 corrections: scans **389, 397 and 398**;
 - Pass 2B Batch 6 — scans **399–413 / printed 382–396 — COMPLETE 15/15**;
 - Batch 6 corrections: scans **412 and 413**;
-- Batch 6 no-change: scans **399–411**;
-- incoming **398→399 genuine continuation** preserved and closed on scan 399 with Chapter 57 / Kural 570;
-- outgoing **413→414 CLEAN** confirmed from scan 414 witness; scan 414 begins a new justice/impartiality dialogue;
+- Pass 2B Batch 7 — scans **414–428 / printed 397–411 — COMPLETE 15/15**;
+- Batch 7 corrections: **none**;
+- Batch 7 no-change: scans **414–428**;
+- incoming **413→414 CLEAN** preserved;
+- outgoing **428→429 CLEAN** confirmed from scan 429 witness; scan 429 begins a new Arima/Parithi restraint-before-battle vignette;
 - dedicated Pass-2B log: `PASS2B_LEXICAL_FIDELITY_PART_004.md`;
-- current Pass 2B coverage: **80/111**;
-- remaining Pass 2B: **31**;
+- current Pass 2B coverage: **95/111**;
+- remaining Pass 2B: **16**;
 - all page records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`;
 - Pass 3 remains blocked until Pass 2B reaches **111/111**;
 - **444→445 remains DEFERRED / UNRESOLVED** until Part 005 source intake.
 
 ## Exact next activity
 
-Proceed with **Part 004 Pass 2B Batch 7 — scans 414–428 / printed 397–411 (15 scans)**. Independently re-read every source-visible printed word against freshly rendered source pages, correct only source-supported lexical/punctuation/joining/spacing/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, inspect scan **429 / printed 412** only as the outgoing boundary witness if required, and update `PASS2B_LEXICAL_FIDELITY_PART_004.md`. Do not start Pass 3 or Part 005.
+Proceed with **Part 004 Pass 2B Batch 8 — scans 429–443 / printed 412–426 (15 scans)**. Independently re-read every source-visible printed word against freshly rendered source pages, correct only source-supported lexical/punctuation/joining/spacing/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, inspect scan **444 / printed 427** only as the outgoing boundary witness if required, and update `PASS2B_LEXICAL_FIDELITY_PART_004.md`. Do not start Pass 3 or Part 005.
