@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 004 English source-check SC4 final remainder
+# NEXT CHAT PROMPT — குறளோவியம் / Part 004 English glossary reconciliation GR1
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`.
 
@@ -11,45 +11,41 @@ Part 004 Tamil is **ARCHIVAL-READY / CLOSED**.
 ## Durable English state
 
 - first-pass drafting — **COMPLETE / CLOSED 111/111**;
-- source-check — **IN PROGRESS 99/111**;
-- SC1 **334–366 — COMPLETE 33/33**;
-- SC2 **367–399 — COMPLETE 33/33**;
-- SC3 **400–432 — COMPLETE 33/33**;
-- current state — **99 `source-checked` + 12 `draft` / 0 source-limited / 0 blocked**;
-- SC3 commits:
-  - `4f28d0ffa5332da3f64ac40f6a3a1375ce013381` — 400–410;
-  - `ac109e6c0cf05faffae0c575bb9f6a6af2b2f37b` — 411–421;
-  - `940f30de6b6d4c88b698bfebfbc3664e0ec68fa6` — 422–432;
-- SC3 audit — **exactly 33 expected English files / 0 missing / 0 unexpected / 0 Tamil changes**;
-- SC3 fidelity corrections:
-  - scan **410** — “her firmness” → “his firmness”, preserving audited Tamil `அவனது`;
-  - scan **426** — “sickle” → “curved blade” in both occurrences for `கொடுவாள்`;
-- all other SC3 pages — status-only;
-- **432→433 CLEAN**;
-- scan **444 / printed 427** remains an open royal/court famine-granary narrative;
+- source-check — **COMPLETE / CLOSED 111/111**;
+- final source-check state — **111 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**;
+- SC4 **433–444 / printed 416–427 — COMPLETE 12/12 / FINAL REMAINDER**;
+- SC4 page commit — `d11b2b77f34ebff1423e7070a43f71dd897619de`;
+- SC4 page-only audit from `ddc8e86636b53c7badf6123948974c012a6e91dc` to that commit — **exactly 12 expected English files / 0 missing / 0 unexpected / 0 Tamil changes**;
+- SC4 fidelity corrections:
+  - scan **434** — “come with sacred wealth” → “come with prosperity” for the source `திரு/திருவோடு` wordplay;
+  - scan **437** — “cursed the sea” → “shed tears enough to outdo the sea” for `கண்ணீர் வடித்துக் கடலை வென்றனர்`;
+- total source-check correction pages across SC1–SC4 — **7**: **343, 374, 381, 410, 426, 434, 437**;
+- scan **444 / printed 427** remains source-open;
 - external **444→445 DEFERRED / UNRESOLVED** until Part 005 source intake.
 
-## Exact next activity — source-check SC4
+## Permanent English gate order
+
+**draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**
+
+Current glossary-reconciliation cadence: **33 physical scans per normal iteration**, with a shorter final remainder.
+
+## Exact next activity — glossary reconciliation GR1
 
 Process:
 
-**scans 433–444 / printed 416–427 — final 12 English/Tamil page pairs.**
+**scans 334–366 / printed 317–349 — 33 English pages.**
 
 For each page:
 
-1. compare English to audited Tamil paragraph-by-paragraph / block-by-block;
-2. verify dialogue attribution, Kural blocks, chapter/Kural metadata, source glosses, visual/non-body material and physical-page continuity;
-3. correct only source-fidelity defects;
-4. do not perform glossary normalization or general stylistic polishing;
-5. promote a passing page from `draft` to `source-checked`;
-6. preserve scan 444 exactly as source-open and do not infer scan 445;
-7. do not alter Tamil records or import external English Kural wording.
+1. compare recurring names, controlled literary terms, chapter labels, Kural/citation metadata and repeated English renderings against `GLOSSARY.md`;
+2. use audited Tamil context as the controlling project evidence;
+3. update English page wording only when a terminology inconsistency is source-supported;
+4. update `GLOSSARY.md` only for terms actually evidenced in this active source;
+5. do not import terminology from external editions, web sources or memory;
+6. do not perform general stylistic rewriting;
+7. **do not change page status** — all pages remain `source-checked`;
+8. do not alter Tamil records.
 
-After SC4:
+After GR1, synchronize the frontier to **GR2 scans 367–399 / printed 350–382** unless a genuine blocker appears.
 
-1. audit exactly 12 expected English page files;
-2. close source-check at **111/111 COMPLETE / CLOSED**;
-3. synchronize controls;
-4. open the next maintained gate: **Part 004 English glossary / recurring-terminology reconciliation**, beginning with scans **334–366** under the current 33-page cadence.
-
-Do not begin glossary reconciliation in the same iteration unless separately instructed. Do not begin Part 005.
+Do not start GR2 in the same iteration unless separately instructed. Do not begin Part 005.

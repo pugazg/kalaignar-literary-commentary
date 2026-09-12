@@ -274,13 +274,18 @@ Part 004 covers scans **334–444 / printed 317–427**.
 
 - Tamil — **ARCHIVAL-READY / CLOSED**;
 - English drafting — **COMPLETE / CLOSED 111/111**;
-- source-check — **IN PROGRESS 99/111**;
-- SC1 **334–366 — COMPLETE 33/33**;
-- SC2 **367–399 — COMPLETE 33/33**;
-- SC3 **400–432 — COMPLETE 33/33**;
-- current English state — **99 source-checked + 12 draft / 0 source-limited / 0 blocked**;
-- SC3 fidelity corrections — **2 pages**, scans **410, 426**;
-- exact next batch — **SC4 final remainder scans 433–444 / printed 416–427 — 12 records**;
+- source-check — **COMPLETE / CLOSED 111/111**;
+- final source-check state — **111 source-checked / 0 draft / 0 source-limited / 0 blocked**;
+- source-check corrections — **7 page files total**: scans **343, 374, 381, 410, 426, 434, 437**;
+- glossary reconciliation — **NEXT / NOT STARTED**;
+- exact next batch — **GR1 scans 334–366 / printed 317–349 — 33 pages**;
+- scan 444 remains source-open;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
-Source-check remains a fidelity gate, not stylistic polishing. Correct only mismatches against audited Tamil, then promote passing pages to `source-checked`. After SC4 closes source-check at 111/111, the next maintained gate is **glossary / recurring-terminology reconciliation**.
+### Part 004 glossary-reconciliation rule
+
+Use `GLOSSARY.md` and audited Tamil context to reconcile recurring names, controlled literary terms, publication/work labels, chapter labels, citation metadata and repeated English renderings.
+
+This gate does **not** change `source-checked` status. Make only terminology corrections actually supported by the audited project source; do not import terms from external editions, web sources or memory, and do not use this gate for general stylistic polishing.
+
+After GR1, continue to GR2 under the current 33-page cadence unless a genuine blocker appears.

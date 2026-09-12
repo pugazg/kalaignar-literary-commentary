@@ -342,20 +342,21 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - canonical Tamil inventory: **111 records**;
 - Tamil: **ARCHIVAL-READY / CLOSED**;
 - English inventory: **111/111 drafted and aligned**;
+- source-check: **111/111 COMPLETE / CLOSED**;
+- final English page status — **111 source-checked / 0 draft / 0 source-limited / 0 blocked**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
 Part 004 English:
 
-- drafting — **111/111 COMPLETE / CLOSED**;
 - SC1 **334–366 — COMPLETE 33/33**;
 - SC2 **367–399 — COMPLETE 33/33**;
 - SC3 **400–432 — COMPLETE 33/33**;
-- source-check cumulative — **99/111**;
-- current status — **99 source-checked + 12 draft / 0 source-limited / 0 blocked**;
-- SC3 corrections — scans **410, 426**;
-- **432→433 CLEAN**;
-- next — **SC4 final remainder 433–444 / printed 416–427**.
+- SC4 **433–444 — COMPLETE 12/12**;
+- source-check corrections — **7 page files total**;
+- glossary reconciliation — **NEXT**;
+- GR1 — **334–366 / printed 317–349 — 33 pages**;
+- scan 444 remains source-open.
 
 ## Current frontier
 
-**Part 004 English source-check SC4 final remainder.**
+**Part 004 English glossary reconciliation GR1.**

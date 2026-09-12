@@ -379,18 +379,22 @@ Part 004 Tamil is closed at **111/111 textual verified + 111/111 visual verified
 
 First-pass drafting is **COMPLETE / CLOSED — 111/111**.
 
-English source-check is **IN PROGRESS — 99/111**.
+English source-check is **COMPLETE / CLOSED — 111/111**.
 
 - SC1 **334–366 — COMPLETE 33/33**;
 - SC2 **367–399 — COMPLETE 33/33**;
 - SC3 **400–432 — COMPLETE 33/33**;
-- current English state — **99 source-checked + 12 draft / 0 source-limited / 0 blocked**;
-- SC3 page audit — **exactly 33 expected files / 0 missing / 0 unexpected**;
-- SC3 fidelity corrections — **2 pages**, scans **410 and 426**;
-- other **31 SC3 pages** — status-only;
+- SC4 **433–444 — COMPLETE 12/12**;
+- final English state — **111 source-checked / 0 draft / 0 source-limited / 0 blocked**;
+- SC4 page audit — **exactly 12 expected files / 0 missing / 0 unexpected**;
+- SC4 fidelity corrections — **2 pages**, scans **434 and 437**;
+- total source-check correction pages — **7**;
 - Tamil changes — **0**;
-- outgoing **432→433 CLEAN** preserved.
+- scan 444 remains source-open;
+- external **444→445 DEFERRED / UNRESOLVED**.
+
+Glossary reconciliation is **NEXT / UNBLOCKED**.
 
 ## Exact next activity
 
-Process **Part 004 English source-check SC4 final remainder — scans 433–444 / printed 416–427, 12 page pairs**. Preserve scan 444 as source-open and do not begin Part 005.
+Process **Part 004 English glossary reconciliation GR1 — scans 334–366 / printed 317–349, 33 pages**. Do not change page statuses or begin Part 005.

@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 004 English source-check 99/111; final SC4 scans 433–444 next**: **2026-09-12**.
+Last refreshed for Kuraloviyam **Part 004 English source-check COMPLETE 111/111; glossary GR1 scans 334–366 next**: **2026-09-12**.
 
 ## Repository
 
@@ -181,12 +181,13 @@ Do not restart Pass 1. Do not resume scan-led lexical Pass 2 at scan 14.
 
 - Tamil: **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified / 0 exceptions**;
 - English drafting: **COMPLETE / CLOSED — 111/111**;
-- English source-check: **IN PROGRESS — 99/111**;
-- English state: **99 source-checked + 12 draft / 0 source-limited / 0 blocked**;
-- SC3 corrections: **scans 410 and 426**;
-- **432→433 CLEAN** preserved;
+- English source-check: **COMPLETE / CLOSED — 111/111**;
+- English state: **111 source-checked / 0 draft / 0 source-limited / 0 blocked**;
+- source-check correction pages: **343, 374, 381, 410, 426, 434, 437**;
+- glossary reconciliation: **NEXT / UNBLOCKED**;
+- scan 444 remains source-open;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
 ## Exact next activity — குறளோவியம்
 
-Process **Part 004 English source-check SC4 final remainder — scans 433–444 / printed 416–427, 12 page pairs**. Preserve the source-open ending at scan 444. Do not alter Tamil records or begin Part 005.
+Process **Part 004 English glossary reconciliation GR1 — scans 334–366 / printed 317–349, 33 pages**. Do not change page statuses, alter Tamil records, or begin Part 005.
