@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 004 Part-level English review
+# NEXT CHAT PROMPT — குறளோவியம் / Part 004 English release report
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve any newer durable work.
+Fetch live `main` first and preserve newer durable work.
 
 Part 004 Tamil is **ARCHIVAL-READY / CLOSED**.
 
@@ -14,34 +14,25 @@ Part 004 Tamil is **ARCHIVAL-READY / CLOSED**.
 - source-check — **COMPLETE / CLOSED 111/111**;
 - glossary reconciliation — **COMPLETE / CLOSED 111/111**;
 - editorial review — **COMPLETE / CLOSED 111/111**;
-- ER1 **334–366 / printed 317–349 — COMPLETE / PASS 33/33**;
-- ER2 **367–399 / printed 350–382 — COMPLETE / PASS 33/33**;
-- ER3 **400–432 / printed 383–415 — COMPLETE / PASS 33/33**;
-- ER4 **433–444 / printed 416–427 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
-- current page status — **111 `editorial-reviewed` / 0 `source-checked` / 0 draft / 0 source-limited / 0 blocked**;
-- ER4 review base — `2fb96a8988a8356b1691d044dfab5a223cbd873d`;
-- ER4 page endpoint — `a2cc56a39d4e0271038e90cdc633056706e1f7ff`;
-- ER4 exact page change set — **12 English page files only**;
-- wording-improvement pages — **11**: 433, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444;
-- status-only promotion — **1**: 434;
-- Chapter/Kural / Kural-block changes — **0**;
-- Tamil changes — **0**;
-- **432→433 CLEAN** and **443→444 CLEAN** preserved;
+- Part-level English review — **PASS / CLOSED**;
+- durable review — `works/kuraloviyam/translations/en/reviews/PART_004_ENGLISH_REVIEW.md`;
+- current page status — **111 `editorial-reviewed` / 0 `release-ready`**;
+- whole-Part inventory/alignment — **111/111 PASS**;
+- Chapter/Kural metadata — **54 records / 54 pages / 42 distinct Chapters / 0 numeric mismatches**;
+- controlled labels and Kural block separation — **PASS**;
+- English visual-material records — **54 / page-function audit PASS**;
+- no page wording/status changed during Part-level review;
+- no Tamil record changed;
+- **333→334 CLEAN**, **366→367 genuine continuation**, **399→400 CLEAN**, **432→433 CLEAN**, **443→444 CLEAN** preserved;
 - scan **444 / printed 427 remains source-open**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
-## Exact next activity — Part 004 Part-level English review
+## Exact next activity — Part 004 English release report
 
-Review all **111 English pages / scans 334–444** as one Part.
+Create `works/kuraloviyam/translations/en/reviews/PART_004_ENGLISH_RELEASE_REPORT.md`.
 
-Audit:
-- exact Tamil/English inventory and filename alignment;
-- all **111 `editorial-reviewed`** statuses;
-- controlled terminology and recurring names against `GLOSSARY.md`;
-- Chapter/Kural numbers and controlled chapter labels;
-- Kural block separation and source gloss handling;
-- visual/non-body page functions;
-- accumulated cross-page continuities and CLEAN boundaries;
-- the Part endpoint, preserving scan **444** as source-open and external **444→445 DEFERRED / UNRESOLVED**.
+Evaluate release eligibility from the closed Part-level review. Do not import external/published English wording and do not reopen Tamil.
 
-Create/update the durable Part-level review record only from this audit. Do **not** promote pages to `release-ready` during the Part-level review. Do not begin Part 005.
+If the release report is **APPROVED**, promote all eligible Part 004 English pages from `editorial-reviewed` to `release-ready` using **status-token-only** changes; approved wording must remain untouched. Audit the exact 111-page status change set before synchronizing controls.
+
+Preserve scan **444** as source-open and external **444→445 DEFERRED / UNRESOLVED**. Do not begin Part 005.

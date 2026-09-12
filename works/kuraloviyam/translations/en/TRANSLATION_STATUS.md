@@ -362,8 +362,28 @@ GR4 exact change set from `5bacced06a66d99fc0b24abcdbcd8355fca0afa5`: **1 file**
 
 ER4 made only source-faithful readability improvements. In particular, scan **440** removes the unsupported extra action `and sent it off` from the mother's handling of the cart, while scan **439** renders the idiomatic `ஒற்றைக் காலில் நின்றான்` as **stood his ground stubbornly** rather than literally standing on one leg.
 
+## Part 004 Part-level English review — PASS / CLOSED
+
+Durable record: `reviews/PART_004_ENGLISH_REVIEW.md`.
+
+Whole-Part audit result:
+
+- Tamil inventory/alignment — **111/111 PASS**;
+- English inventory/alignment — **111/111 PASS**;
+- all English statuses — **111/111 `editorial-reviewed`**;
+- exact `source_tamil_file` links — **111/111 PASS**;
+- Chapter/Kural metadata — **54 records / 54 pages / 42 distinct Chapter numbers / 0 numeric mismatches**;
+- controlled Chapter labels — **PASS / 0 unresolved conflicts**;
+- Kural block separation — **PASS**;
+- English visual-material records — **54**;
+- page-function audit — **PASS**;
+- English page wording/status changes during this review — **0**;
+- Tamil changes during this review — **0**;
+- incoming **333→334 CLEAN** preserved;
+- **366→367 genuine continuation**, **399→400 CLEAN**, **432→433 CLEAN**, and **443→444 CLEAN** preserved;
+- scan **444 / printed 427 remains source-open**;
+- external **444→445 DEFERRED / UNRESOLVED**.
+
 ## Exact next English activity
 
-Begin the **Part 004 Part-level English review** over all **111 English pages / scans 334–444**.
-
-Audit exact Tamil/English inventory and filename alignment, all 111 `editorial-reviewed` statuses, controlled terminology and names, Chapter/Kural metadata and labels, Kural-block separation, visual/non-body page functions, all accumulated internal continuities, and the source-open Part endpoint. Preserve external **444→445 as DEFERRED / UNRESOLVED**. Do not promote pages to `release-ready` during the Part-level review. Do not begin Part 005.
+Create the **Part 004 English release report**. Decide release approval from the closed Part-level review. Do not promote any page to `release-ready` unless the release report is approved; if approved, promotion must be status-token-only across all eligible pages. Preserve scan 444 as source-open and external 444→445 as deferred. Do not begin Part 005.

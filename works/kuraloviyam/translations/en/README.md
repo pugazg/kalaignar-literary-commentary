@@ -175,6 +175,14 @@ GR4 commit: `0266f1cca87df46ad9614bb34299218e22df6ad9`.
 - scan **444 / printed 427 remains source-open**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
+## Part 004 Part-level English review — PASS / CLOSED
+
+Durable record: `reviews/PART_004_ENGLISH_REVIEW.md`.
+
+Whole-Part inventory/alignment, statuses, controlled terminology and names, Chapter/Kural metadata, Kural-block separation, visual/page functions and accumulated continuity all passed. No page wording/status or Tamil record changed during the review.
+
+Current page status remains **111 `editorial-reviewed` / 0 `release-ready`**.
+
 ## Current frontier
 
-**Part 004 Part-level English review — NEXT / NOT STARTED.**
+**Part 004 English release report — NEXT / NOT STARTED.**

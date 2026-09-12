@@ -418,6 +418,14 @@ Part 004 English editorial review is **COMPLETE / CLOSED — 111/111**.
 ER4 base: `2fb96a8988a8356b1691d044dfab5a223cbd873d`.  
 ER4 page endpoint: `a2cc56a39d4e0271038e90cdc633056706e1f7ff`.
 
+## Part 004 Part-level English review — PASS / CLOSED
+
+Durable record: `translations/en/reviews/PART_004_ENGLISH_REVIEW.md`.
+
+The whole-Part review passed exact **111/111 Tamil/English inventory and filename alignment**, all **111 pre-release English statuses**, **54 Chapter/Kural metadata records across 54 pages / 42 distinct Chapter numbers**, controlled labels, Kural block separation, **54 visual-material English records**, page functions and accumulated continuities.
+
+No English page wording/status or Tamil record changed during this Part-level review. Scan 444 remains source-open; external **444→445 remains DEFERRED / UNRESOLVED**.
+
 ## Exact next activity
 
-Begin the **Part 004 Part-level English review** across **111/111 English pages**. Audit whole-Part inventory/alignment, all `editorial-reviewed` statuses, controlled terminology/names, Chapter/Kural metadata, Kural-block separation, visual/non-body functions, and accumulated continuities. Preserve scan 444 as source-open and external 444→445 as deferred. Do not promote to `release-ready` yet and do not begin Part 005.
+Create the **Part 004 English release report**. Do not promote pages before approval. If approved, promotion must be status-token-only across eligible pages. Do not begin Part 005.

@@ -180,6 +180,23 @@ Part 003 Tamil and maintained English are now fully closed. English is **111/111
 ER4 review base: `2fb96a8988a8356b1691d044dfab5a223cbd873d`.  
 ER4 page endpoint: `a2cc56a39d4e0271038e90cdc633056706e1f7ff`.
 
-## Exact next activity — Part 004 Part-level English review
+## Part 004 Part-level English review — PASS / CLOSED
 
-Review the complete **111-page English Part 004 inventory / scans 334–444**. Check inventory and filename alignment, `editorial-reviewed` statuses, terminology/names, Chapter/Kural metadata and controlled labels, Kural block separation, page functions, and all accumulated continuity decisions. Preserve scan 444 as source-open and external 444→445 as deferred. Do not promote pages to `release-ready` during this gate. Do not begin Part 005.
+Durable record: `works/kuraloviyam/translations/en/reviews/PART_004_ENGLISH_REVIEW.md`.
+
+The audit passed:
+
+- exact Tamil/English inventory and alignment **111/111**;
+- all **111 `editorial-reviewed`** statuses;
+- exact source links and verified Tamil basis;
+- **54 Chapter/Kural metadata records across 54 pages / 42 distinct Chapters** with no numeric or controlled-label mismatch;
+- Kural block separation;
+- **54** English visual-material records and page functions;
+- accumulated continuity decisions;
+- source-open scan **444** with **444→445 DEFERRED / UNRESOLVED**.
+
+No English page wording/status and no Tamil record changed during the Part-level review.
+
+## Exact next activity — Part 004 English release report
+
+Create `works/kuraloviyam/translations/en/reviews/PART_004_ENGLISH_RELEASE_REPORT.md` and decide release approval. Do not promote pages to `release-ready` before approval. If approved, promotion must be status-token-only. Preserve the source-open endpoint and do not begin Part 005.

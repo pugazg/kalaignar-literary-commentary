@@ -194,6 +194,12 @@ Do not restart Pass 1. Do not resume scan-led lexical Pass 2 at scan 14.
 - scan **444 / printed 427 remains source-open**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
+## Part 004 Part-level English review — PASS / CLOSED
+
+Durable record: `works/kuraloviyam/translations/en/reviews/PART_004_ENGLISH_REVIEW.md`.
+
+Part 004 maintained English remains **111/111 `editorial-reviewed`** and is now eligible for the release-report gate. The Part-level review changed no English page wording/status and no Tamil record. Scan 444 remains source-open; **444→445 remains DEFERRED / UNRESOLVED**.
+
 ## Exact next activity — குறளோவியம்
 
-Begin the **Part 004 Part-level English review** over all **111 pages / scans 334–444**. Audit inventory/alignment, statuses, controlled terminology/names, Chapter/Kural metadata, Kural blocks, page functions, and continuities. Preserve the source-open endpoint and do not promote to release-ready during this gate. Do not begin Part 005.
+Create the **Part 004 English release report**. Only an approved report may authorize status-token-only promotion to `release-ready`. Do not begin Part 005.
