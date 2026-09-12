@@ -274,17 +274,18 @@ Part 004 has now completed source intake and the full Tamil archival workflow.
 - English drafting — **COMPLETE / CLOSED 111/111**;
 - source-check — **COMPLETE / CLOSED 111/111**;
 - glossary reconciliation — **COMPLETE / CLOSED 111/111**;
-- editorial review — **IN PROGRESS 66/111**;
+- editorial review — **IN PROGRESS 99/111**;
 - ER1 **334–366 / printed 317–349 — COMPLETE / PASS 33/33**;
 - ER2 **367–399 / printed 350–382 — COMPLETE / PASS 33/33**;
-- current page state — **66 editorial-reviewed + 45 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- ER2 wording-improvement pages — **24**;
-- ER2 status-only promotions — **9**;
+- ER3 **400–432 / printed 383–415 — COMPLETE / PASS 33/33**;
+- current page state — **99 editorial-reviewed + 12 source-checked / 0 draft / 0 source-limited / 0 blocked**;
+- ER3 wording-improvement pages — **21**;
+- ER3 status-only promotions — **12**;
 - Chapter/Kural / Kural-block changes — **0**;
 - Tamil changes — **0**;
-- **399→400 CLEAN** rechecked and preserved;
+- **432→433 CLEAN** rechecked and preserved;
 - scan **444 / printed 427 remains source-open**;
 - external **444→445 DEFERRED / UNRESOLVED**;
-- exact next batch — **ER3 scans 400–432 / printed 383–415 — 33 pages**.
+- exact next batch — **ER4 scans 433–444 / printed 416–427 — final 12 pages**.
 
-Editorial review continues under the maintained 33-page cadence. Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and continuity; consult audited Tamil whenever a change may affect meaning; make only source-faithful improvements; promote only passing pages from `source-checked` to `editorial-reviewed`.
+Editorial review continues under the maintained cadence. Make only source-faithful improvements; promote only passing pages from `source-checked` to `editorial-reviewed`; preserve scan 444 as source-open and do not infer scan 445.
