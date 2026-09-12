@@ -151,7 +151,7 @@ Boundary **555→556** is **CLEAN**: scan 555 closes Chapter 89 / Kural 881; sca
 
 Detailed intake: `works/kuraloviyam/SOURCE_INTAKE_PART_005.md`.
 
-Part 005 Pass 1 is **ACTIVE**. P5-01 through P5-03 are complete: scans **445–477 / printed 428–460**, **33/111** records captured, all as `status: "needs-review"` / `visual_fidelity: "needs-review"`. P5-03 includes a source-fidelity correction on scan 475 to `புகழ்பாடி விருந்த பொருளீட்டிக்கொண்ட`. Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`. The outgoing **477→478** boundary is **CLEAN**, checked from scan 478 / printed 461. Next is **P5-04 / scans 478–488 / printed 461–471**.
+Part 005 Pass 1 is **ACTIVE**. P5-01 through P5-04 are complete: scans **445–488 / printed 428–471**, **44/111** records captured, all as `status: "needs-review"` / `visual_fidelity: "needs-review"`. Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`. The outgoing **488→489** boundary is **CLEAN**, checked from scan 489 / printed 472, which begins a new `நெறி தவறாதவன் - நேர்மையானவன் - நீதியின் உருவம்` vignette. Next is **P5-05 / scans 489–499 / printed 472–482**.
 
 ## Part 006 source identity and provenance
 

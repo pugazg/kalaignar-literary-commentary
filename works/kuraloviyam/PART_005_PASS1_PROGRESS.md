@@ -146,8 +146,51 @@ Exact compare from pre-batch `887783c4006478068a3cfe9f63f766be1c166553` to corre
 - Parts 001–004 remain untouched;
 - Part 006 remains transcription-inactive.
 
+## P5-04 state
+
+**11 / 11 page records captured — COMPLETE.**
+
+P5-04 scans **478–488 / printed 461–471** are captured as one page-aligned Tamil Pass-1 record per physical scan. All 11 records carry:
+
+- `part: 5`;
+- `part_page: 34–44`;
+- exact scan/printed-page mappings;
+- `status: "needs-review"`;
+- `visual_fidelity: "needs-review"`;
+- the exact Part 005 source filename.
+
+Batch page-layer commit:
+
+`2bcd8622490b72ccc8f3a853aca2b935015493e9` — `kuraloviyam: Capture Part 005 Pass 1 scans 478-488`
+
+Exact page-only compare from pre-batch `6fcc924f830ee6d7258f94d5417400fad5a73aa7` to the page endpoint changes exactly **11 files**, all and only scans **478–488**.
+
+## P5-04 continuity map
+
+- **477→478 — CLEAN**; scan 478 is a one-page Chapter 109 / Kural 1086 vignette;
+- **478→479 — CLEAN**; scan 479 begins the Veerasingam/Anbaananthan adornment contest;
+- **479→480 — GENUINE CONTINUATION**; scan 480 closes Chapter 10 / Kural 95;
+- **480→481 — CLEAN**; scan 481 begins the degraded-company / little-minded-group analogy;
+- **481→482 — GENUINE CONTINUATION**; scan 482 closes Chapter 46 / Kural 452;
+- **482→483 — CLEAN**; scan 483 begins the learned-reader / lovers'-union analogy;
+- **483→484 — GENUINE CONTINUATION**; scan 484 closes Chapter 111 / Kural 1110;
+- **484→485 — CLEAN**; scan 485 begins the Tamil-language pride / unsuitable-audience vignette;
+- **485→486 — GENUINE CONTINUATION**; scan 486 closes Chapter 72 / Kural 720;
+- **486→487 — CLEAN**; scan 487 begins the Ahalikai/Indran self-control vignette;
+- **487→488 — GENUINE CONTINUATION**; scan 488 closes Chapter 3 / Kural 25;
+- **488→489 — CLEAN**, directly checked from scan 489 / printed 472; scan 489 begins a new illustrated `நெறி தவறாதவன் - நேர்மையானவன் - நீதியின் உருவம்` vignette and was not created in P5-04.
+
+## P5-04 structural notes
+
+- all 11 new records remain `needs-review` / visual `needs-review`;
+- Kural blocks and source glosses remain structurally separate from body prose;
+- illustration content is recorded only in `visual_notes`;
+- no page outside scans 478–488 changed;
+- Parts 001–004 remain untouched;
+- Part 006 remains transcription-inactive.
+
 ## Current gate
 
-Part 005 Pass 1: **33/111 captured**.
+Part 005 Pass 1: **44/111 captured**.
 
-Next: **P5-04 / scans 478–488 / printed 461–471**, using scan **489 / printed 472** only as a boundary witness when required.
+Next: **P5-05 / scans 489–499 / printed 472–482**, using scan **500 / printed 483** only as a boundary witness when required.
