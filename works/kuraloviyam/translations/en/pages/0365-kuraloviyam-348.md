@@ -6,18 +6,18 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-—and all the floods of their blood were squeezed out as tax, and those farming citizens stood with eyes whose water had dried after endless weeping.
+—and floods of their blood were all wrung from them as tax. Those farming citizens stood with eyes whose water had dried after endless weeping.
 
 Seeralan went one step further. He stopped paying government employees their salaries properly and took that money for his own pleasures and amusements.
 
 The employees raised the flag of opposition against the small ruler Seeralan. He used soldiers to suppress them. The employees' cries and rage did not subside. Though the outward rebellion stopped, the anger in their hearts remained like fire hidden beneath ash.
 
-The small ruler went one step higher still and laid his hand on the soldiers' pay. Like putting one's hand into a honeycomb, the soldiers beat the war drum against Seeralan.
+The small ruler went a step further still and laid his hand on the soldiers' pay. Like putting one's hand into a honeycomb, the soldiers beat the war drum against Seeralan.
 
 Commanders were set upon them to suppress and crush them.
 
@@ -27,7 +27,7 @@ Government employees were suppressed and thrown into prison.
 
 Soldiers too were subjected to vengeance and suffered.
 
-Seeralan laughed a harsh laugh. “Those who opposed me have never lived,” he mocked. He declared arrogantly that whoever it was, he would crush them.
+Seeralan laughed cruelly. “Those who opposed me have never lived,” he mocked. He declared arrogantly that whoever it was, he would crush them.
 
 Meanwhile, news of Seeralan's lawless rule in the hill country reached the empire. Emperor Pemman ordered Seeralan to appear before him at once.
 
