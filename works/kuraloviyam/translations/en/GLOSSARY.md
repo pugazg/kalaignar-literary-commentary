@@ -755,3 +755,58 @@ GR3 processed **33 consecutive pages: scans 400–432 / printed 383–415**.
 - all 33 English pages remain `source-checked`; this gate makes **no status promotion**;
 - incoming **399→400 CLEAN** and outgoing **432→433 CLEAN** were preserved;
 - no Tamil archival record changed and no external/published/web English terminology was imported.
+
+## Part 004 GR4 controls — scans 433–444
+
+### Chapter labels first evidenced or reused in Part 004 GR4
+
+| Tamil | Default English | Editorial note |
+|---|---|---|
+| பண்புடைமை | Good Character | Chapter 100 label on scan 435 / printed 418; first controlled occurrence recorded in this project glossary. |
+
+Existing controlled labels reused unchanged in GR4 are **Longing for His Return** for Chapter 127 `அவர்வயின் விதும்பல்`, **Knowing the Proper Time** for Chapter 49 `காலம் அறிதல்`, **Inability to Bear Separation** for Chapter 116 `பிரிவாற்றாமை`, and **Evil Friendship** for Chapter 82 `தீ நட்பு`.
+
+### Narrative-name controls first evidenced or reused in Part 004 GR4
+
+| Tamil | Default English form | Editorial note |
+|---|---|---|
+| நல்லிதயன் | Nallithayan | Wealthy childhood friend of Porko across scans 433–435. |
+| பொற்கோ | Porko | Nallithayan's impoverished childhood friend across scans 433–435. |
+| சேல்கெண்டை | Selkendai | Mischievous young fisherman across scans 436–437. |
+| கயல்விழி | Kayalvizhi | Married fisherwoman across scans 436–437; reuse the established spelling only, without implying identity with the earlier character of the same name. |
+| அயிரை | Ayirai | Kayalvizhi's neighbour/friend named on scan 437. |
+| அழகம்மை | Azhagammai | Young woman in the lovers-separation vignette across scans 440–441. |
+| அன்புமதி | Anbumathi | Azhagammai's lover across scans 440–441. |
+| நாகன் | Nagan | Friend who abandons Nallaan after the flood loss across scans 442–443. |
+| நல்லான் | Nallaan | Landowner in the friendship-benefit vignette across scans 442–443; reuse the established spelling only, without implying identity with the earlier character of the same name. |
+| வல்லான் | Vallaan | Second landowner named on scan 443; reuse the established spelling only, without implying identity with the earlier character of the same name. |
+
+### Source-printed lexical glosses confirmed in Part 004 GR4
+
+| Tamil | Default English | Evidence |
+|---|---|---|
+| கொண்கன் | husband | Source-printed gloss on scan 437. |
+| பைதல் | suffering | Source-printed gloss on scan 437. |
+| பருகுவன் | I shall drink in / enjoy | Source-printed gloss on scan 437; preserve the source-bounded love-poetics sense rather than forcing a single mechanical equivalent. |
+| உறின் | when useful | Source-printed gloss on scan 443. |
+| அறின் | when not useful | Source-printed gloss on scan 443. |
+| ஒரூஉம் | withdraws / leaves | Source-printed gloss on scan 443. |
+
+## Part 004 GR4 reconciliation record — scans 433–444
+
+GR4 processed the final **12 consecutive pages: scans 433–444 / printed 416–427**.
+
+- scans **433–444** — glossary / recurring-terminology reconciliation **PASS, 12/12 / FINAL REMAINDER**;
+- cumulative Part 004 glossary reconciliation — **111/111 COMPLETE / CLOSED**;
+- all **5** Chapter/Kural metadata records in the range were checked against their audited Tamil counterparts with **0 chapter-number or Kural-number mismatches**;
+- Chapter 100 **Good Character** is recorded as the one Part-004-GR4-first chapter control;
+- existing Chapter controls **Longing for His Return**, **Knowing the Proper Time**, **Inability to Bear Separation**, and **Evil Friendship** were reused unchanged;
+- recurring narrative-name controls actually evidenced in the range were recorded above, while established spellings **Kayalvizhi**, **Nallaan**, and **Vallaan** were reused without implying character identity;
+- source-printed lexical glosses from scans **437** and **443** were recorded above;
+- English page wording corrections required in GR4 — **0 page files**;
+- page-status changes — **0**; all 12 pages remain `source-checked`;
+- Tamil archival changes — **0**;
+- incoming **432→433 CLEAN** and internal **443→444 CLEAN** were preserved;
+- scan **444 / printed 427** remains deliberately source-open; external **444→445 DEFERRED / UNRESOLVED**;
+- no external/published/web terminology was imported.
+
