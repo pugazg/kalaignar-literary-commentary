@@ -176,10 +176,42 @@ This is not another lexical reread. Settled wording is not normalized or rewritt
 - Status promotion: **0**.
 - All Part-004 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
 
+## Batch 6 — scans 389–399 / printed 372–382
+
+**Result: COMPLETE — 11 / 11.**
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 389 | 372 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the ascetic-greatness reflection opened on scan 388; Kural 22, Chapter 3 metadata and one source gloss remain correctly separated near the bottom. |
+| 390 | 373 | **NO STRUCTURAL CHANGE** — large upper illustration of a teacher-like elder speaking with a young boy, with a large bearded portrait behind, remains above the prose; the teacher-student discussion of the qualities of a country begins below, includes the set-out Kural 737 block, and continues directly to scan 391. |
+| 391 | 374 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the teacher-student country discussion; the additional printed Kural blocks 734 and 740, chapter/song metadata and the small Thiruvalluvar monument page furniture remain correctly separated. |
+| 392 | 375 | **NO STRUCTURAL CHANGE** — large upper illustration of an embracing young couple with a large male portrait behind remains above the prose; the evening/lovers vignette begins below and continues directly to scan 393. |
+| 393 | 376 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the evening/lovers vignette; Kural 1268, Chapter 127 metadata and the source gloss remain correctly separated near the bottom. |
+| 394 | 377 | **NO STRUCTURAL CHANGE** — large upper illustration of a young writer beside a large bearded Karl Marx portrait remains above the prose; the Marx/Jenny family-life reflection begins below and continues directly to scan 395. |
+| 395 | 378 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Marx/Jenny family-life reflection; Kural 51, Chapter 6 metadata and explanatory prose remain structurally distinct near the bottom. |
+| 396 | 379 | **NO STRUCTURAL CHANGE** — large upper illustration of three young women amid foliage remains above the prose; the Malarkkodi separation/paleness vignette begins below and continues directly to scan 397. |
+| 397 | 380 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Malarkkodi separation/paleness vignette; Kural 1183 and Chapter 119 metadata remain correctly separated above the small monument page furniture. |
+| 398 | 381 | **CORRECTED** — direct source inspection shows the ruler holding a **large curved bow**, not a sword. `visual_notes` corrected only; attendants, illustration-above-prose order, body wording and review flags remain unchanged. |
+| 399 | 382 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the cruel-rule / kodungol vignette; Kural 570 and Chapter 57 metadata remain correctly separated above the small Thiruvalluvar monument page furniture. |
+
+### Boundary / continuity result
+
+- Incoming **388→389 genuine continuation** remains confirmed and closes on scan 389 with Chapter 3 / Kural 22.
+- **399→400 is CLEAN**, reconfirmed from scan **400 / printed 383**: scan 399 closes the cruel-rule vignette, while scan 400 begins a new illustrated speculative visitors-from-another-world vignette.
+- Scan 400 was used only as the outgoing witness and is **not** counted in Batch 6.
+
+### Batch 6 correction summary
+
+- Structural/visual-description corrections: **1 page — scan 398**.
+- No-change scans: **389–397, 399 — 10 pages**.
+- Lexical body-text changes: **0**.
+- Status promotion: **0**.
+- All Part-004 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+
 ## Resulting Pass-3 frontier
 
-**55 / 111 complete through scan 388 / printed 371.**
+**66 / 111 complete through scan 399 / printed 382.**
 
 ## Exact next activity
 
-Process **Part 004 Pass 3 / Batch 6 — scans 389–399 / printed 372–382, 11 physical scans**. Begin with scan 389 now receiving full Pass-3 review after serving only as the Batch-5 outgoing witness. Inspect **scan 400 / printed 383** only as the outgoing boundary witness. Keep the visual-text-only gate and do not start the Part audit until Pass 3 reaches 111/111.
+Process **Part 004 Pass 3 / Batch 7 — scans 400–410 / printed 383–393, 11 physical scans**. Begin with scan 400 now receiving full Pass-3 review after serving only as the Batch-6 outgoing witness. Inspect **scan 411 / printed 394** only as the outgoing boundary witness. Keep the visual-text-only gate and do not start the Part audit until Pass 3 reaches 111/111.
