@@ -331,8 +331,51 @@ Exact compare from pre-batch `655a04f0fb44c37ef9e1cb2127e50aec40f55778` to corre
 - Parts 001–004 remain untouched;
 - Part 006 remains transcription-inactive.
 
+## P5-08 state
+
+**11 / 11 page records captured — COMPLETE.**
+
+P5-08 scans **522–532 / printed 505–515** are captured as one page-aligned Tamil Pass-1 record per physical scan. All 11 records carry:
+
+- `part: 5`;
+- `part_page: 78–88`;
+- exact scan/printed-page mappings;
+- `status: "needs-review"`;
+- `visual_fidelity: "needs-review"`;
+- the exact Part 005 source filename.
+
+Batch page-layer commit:
+
+`ffc9e8654f1c0f9b3a9e9cd3dfff6aa49ca94291` — `kuraloviyam: Capture Part 005 Pass 1 scans 522-532`
+
+Exact page-only compare from pre-batch `8da4a740fea28c19e8ce5e582da3c11e8be663ab` to page endpoint `ffc9e8654f1c0f9b3a9e9cd3dfff6aa49ca94291` is **ahead by 1 commit** and changes exactly **11 files**, all and only scans **522–532**.
+
+## P5-08 continuity map
+
+- **521→522 — CLEAN**; scan 522 begins the false-praise / dependent-puppet vignette;
+- **522→523 — GENUINE CONTINUATION**; scan 523 closes Chapter 102 / Kural 1020;
+- **523→524 — CLEAN**; scan 524 begins the Arulalan gratitude-and-betrayal vignette;
+- **524→525 — GENUINE CONTINUATION**;
+- **525→526 — GENUINE CONTINUATION**; scan 526 closes Chapter 11 / Kural 110;
+- **526→527 — CLEAN**; scan 527 begins the militaristic-king / just-rule vignette;
+- **527→528 — GENUINE CONTINUATION**; scan 528 closes Chapter 39 / Kural 389;
+- **528→529 — CLEAN**; scan 529 begins the five-senses / lovers' union vignette;
+- **529→530 — GENUINE CONTINUATION**; scan 530 closes Chapter 111 / Kural 1101;
+- **530→531 — CLEAN**; scan 531 begins the duty / child-rescue vignette;
+- **531→532 — GENUINE CONTINUATION**; scan 532 closes Chapter 103 / Kural 1021;
+- **532→533 — CLEAN**, directly checked from scan 533 / printed 516; scan 533 begins a new illustrated vignette and was not created in P5-08.
+
+## P5-08 structural notes
+
+- all 11 page records remain `needs-review` / visual `needs-review`;
+- Kural blocks and source glosses remain distinct from surrounding prose;
+- illustrations remain represented in `visual_notes`;
+- no page outside scans 522–532 changed;
+- Parts 001–004 remain untouched;
+- Part 006 remains transcription-inactive.
+
 ## Current gate
 
-Part 005 Pass 1: **77/111 captured**.
+Part 005 Pass 1: **88/111 captured**.
 
-Next: **P5-08 / scans 522–532 / printed 505–515**, using scan **533 / printed 516** only as a boundary witness when required.
+Next: **P5-09 / scans 533–543 / printed 516–526**, using scan **544 / printed 527** only as a boundary witness when required.

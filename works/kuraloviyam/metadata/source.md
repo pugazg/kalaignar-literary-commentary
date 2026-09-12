@@ -151,7 +151,7 @@ Boundary **555→556** is **CLEAN**: scan 555 closes Chapter 89 / Kural 881; sca
 
 Detailed intake: `works/kuraloviyam/SOURCE_INTAKE_PART_005.md`.
 
-Part 005 Pass 1 is **ACTIVE**. P5-01 through P5-07 are complete: scans **445–521 / printed 428–504**, **77/111** records captured, all as `status: "needs-review"` / `visual_fidelity: "needs-review"`. Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`. P5-07 exact compare changes **11 page files only**. The outgoing **521→522** boundary is **CLEAN**, checked from scan 522 / printed 505, which begins a new illustrated false-praise / dependent-puppet vignette. Next is **P5-08 / scans 522–532 / printed 505–515**.
+Part 005 Pass 1 is **ACTIVE**. P5-01 through P5-08 are complete: scans **445–532 / printed 428–515**, **88/111** records captured, all as `status: "needs-review"` / `visual_fidelity: "needs-review"`. Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`. P5-08 exact compare changes **11 page files only**. The outgoing **532→533** boundary is **CLEAN**, checked from scan 533 / printed 516. Next is **P5-09 / scans 533–543 / printed 516–526**.
 
 ## Part 006 source identity and provenance
 

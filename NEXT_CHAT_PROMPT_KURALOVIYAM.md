@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 005 P5-08
+# NEXT CHAT PROMPT — குறளோவியம் / Part 005 P5-09
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`.
 
@@ -23,19 +23,18 @@ Source intake is **PASS / COMPLETE**. Rendered scans are controlling; no usable 
 - P5-05 **489–499 / printed 472–482 — COMPLETE 11/11**;
 - P5-06 **500–510 / printed 483–493 — COMPLETE 11/11**;
 - P5-07 **511–521 / printed 494–504 — COMPLETE 11/11**;
-- cumulative capture — **77/111**;
-- all 77 current records — `needs-review` / visual `needs-review`;
-- P5-07 page capture commit — `7db00451252a8a5be1f586547fde7b7e103e9996`;
-- P5-07 source-reading reconciliation — `43c7fc708d6d4346d327251bf86769cce10fa5e4`;
-- exact P5-07 compare from `655a04f0fb44c37ef9e1cb2127e50aec40f55778` to `43c7fc708d6d4346d327251bf86769cce10fa5e4` — **11 files only / scans 511–521**;
-- **521→522 — CLEAN**, checked directly from scan 522 / printed 505;
-- scan 522 begins a new illustrated false-praise / dependent-puppet vignette;
+- P5-08 **522–532 / printed 505–515 — COMPLETE 11/11**;
+- cumulative capture — **88/111**;
+- all 88 current records — `needs-review` / visual `needs-review`;
+- P5-08 page-layer commit — `ffc9e8654f1c0f9b3a9e9cd3dfff6aa49ca94291`;
+- exact P5-08 compare from `8da4a740fea28c19e8ce5e582da3c11e8be663ab` to `ffc9e8654f1c0f9b3a9e9cd3dfff6aa49ca94291` — **11 files only / scans 522–532**;
+- **532→533 — CLEAN**, checked directly from scan 533 / printed 516;
 - durable progress — `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 Part 006 is source-intake complete but remains transcription-inactive.
 
-## Exact next activity — P5-08
+## Exact next activity — P5-09
 
-Process scans **522–532 / printed 505–515** as one page-aligned Tamil Pass-1 record per physical scan.
+Process scans **533–543 / printed 516–526** as one page-aligned Tamil Pass-1 record per physical scan.
 
-Use `part: 5`, `part_page: 78–88`, exact mappings and the Part 005 source filename. New records remain `needs-review` / visual `needs-review`. Preserve the clean incoming **521→522** boundary. Inspect scan **533 / printed 516** only as the outgoing boundary witness when required. Do not begin Part 006 transcription.
+Use `part: 5`, `part_page: 89–99`, exact mappings and the Part 005 source filename. New records remain `needs-review` / visual `needs-review`. Preserve the clean incoming **532→533** boundary. Inspect scan **544 / printed 527** only as the outgoing boundary witness when required. Do not begin Part 006 transcription.
