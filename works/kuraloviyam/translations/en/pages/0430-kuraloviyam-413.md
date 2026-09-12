@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -21,7 +21,7 @@ Do you not know that, though my son has seen many battlefields, he has faultless
 
 “Mother! Is Arima not the warrior who once threw the spear in his hand at an elephant, then, when he searched for another spear to attack the enemy, rejoiced on seeing one embedded in his own body, pulled it out and fought with it? Is that man now waiting because he has read the chapter on knowing the proper time?”
 
-“Yes! Even if he forgets, I am the mother who bore him and can remind him. The restraint of an energetic warrior is like a fighting ram drawing its legs backward before attacking the enemy. The farther it steps back, the more fiercely it springs forward. My son is like that ram. Do not mistake his seeming restraint for cowardice.”
+“Yes! Even if he forgets, I am the mother who bore him and can remind him. The restraint of an energetic warrior is like a fighting ram drawing its legs backward before attacking the enemy. The farther it draws back, the more fiercely it springs forward. My son is like that ram. Do not mistake his seeming restraint for cowardice.”
 
 Hearing the mother's explanation, Parithi swelled with joy.
 

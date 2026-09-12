@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -23,7 +23,7 @@ Even so, she immediately lifted it out and saved it from the mouth of death.
 
 Her whole body trembling, she kissed the child and embraced it.
 
-“My life! You survived!”
+“My life! You are safe!”
 
 Then she poured her anger upon the beautiful woman:
 
