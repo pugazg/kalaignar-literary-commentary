@@ -174,26 +174,23 @@ Durable documentation-sync record: `PART_003_DOCUMENTATION_SYNC.md`.
 
 Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained English is **111/111 release-ready**.
 
-## Part 005 — SOURCE-READY / ACTIVE
+## Part 005 — PASS 1 ACTIVE
 
 - source intake — **PASS / COMPLETE**;
-- scans — **445–555**;
-- printed span — **428–538**;
-- durable intake — `SOURCE_INTAKE_PART_005.md`;
-- **444→445 genuine continuation**;
-- **555→556 CLEAN**;
-- Pass 1 — **NEXT**.
+- scans — **445–555 / printed 428–538**;
+- P5-01 — **445–455 / printed 428–438 — COMPLETE 11/11**;
+- cumulative Pass 1 — **11/111**;
+- current captured records — **11 needs-review / visual needs-review**;
+- durable progress — `PART_005_PASS1_PROGRESS.md`;
+- **455→456 genuine continuation**.
 
 ## Part 006 — SOURCE-READY / WAITING
 
 - source intake — **PASS / COMPLETE**;
 - scans — **556–666**;
-- numbered printed span — **539–648**;
-- scan 666 — **unnumbered back cover**;
-- durable intake — `SOURCE_INTAKE_PART_006.md`;
 - source family physically complete — **YES**;
 - Pass 1 — **NOT STARTED / waiting behind Part 005**.
 
 ## Current frontier
 
-**Part 005 P5-01 — scans 445–455 / printed 428–438.**
+**Part 005 P5-02 — scans 456–466 / printed 439–449.**

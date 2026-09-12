@@ -162,31 +162,26 @@ Durable final record: `works/kuraloviyam/PART_004_FINAL_CLOSURE.md`.
 
 Tamil is **111/111 textual + visual verified** and English is **111/111 release-ready**.
 
-## Part 005 — SOURCE INTAKE COMPLETE / ACTIVE
+## Part 005 — PASS 1 ACTIVE
 
-Durable intake: `works/kuraloviyam/SOURCE_INTAKE_PART_005.md`.
+Durable intake: `works/kuraloviyam/SOURCE_INTAKE_PART_005.md`.  
+Durable Pass-1 progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
-- scans — **445–555**;
-- printed pages — **428–538**;
-- local pages — **111**;
-- source — `TVA_BOK_0065733_குறளோவியம்_part_005_pages_445-555.pdf`;
-- source identity — **PASS**;
+- scans — **445–555 / printed 428–538**;
+- P5-01 — **445–455 / printed 428–438 — COMPLETE 11/11**;
+- cumulative Pass 1 — **11/111**;
+- page-layer commit — `9e56343a073848c1cc932c1fcc95b0b9acb4ff06`;
+- current captured statuses — **11 needs-review / 11 visual needs-review**;
 - **444→445 genuine continuation**;
-- **555→556 CLEAN**;
-- Pass 1 — **NOT STARTED**.
+- **455→456 genuine continuation**;
+- next batch — **P5-02 / scans 456–466 / printed 439–449**.
 
 ## Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
-Durable intake: `works/kuraloviyam/SOURCE_INTAKE_PART_006.md`.
-
 - scans — **556–666**;
-- numbered printed span — **539–648**;
-- scan 666 — **unnumbered back cover**;
-- source — `TVA_BOK_0065733_குறளோவியம்_part_006_pages_556-666.pdf`;
-- source identity — **PASS**;
-- physical source endpoint — **scan 666**;
+- source endpoint — **scan 666**;
 - Pass 1 — **NOT STARTED / waiting behind Part 005**.
 
 ## Exact next activity
 
-Proceed with **P5-01 / scans 445–455 / printed 428–438**. Preserve the incoming 444→445 continuation and do not start Part 006 transcription.
+Proceed with **P5-02 / scans 456–466 / printed 439–449**. Use scan 467 only as a boundary witness if needed and do not start Part 006 transcription.

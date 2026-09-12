@@ -345,26 +345,34 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - **443→444 CLEAN** preserved;
 - scan **444 / printed 427** ends in an open royal/court famine-granary unit.
 
-## Part 005 intake boundary map
+## Part 005 Pass-1 boundary map
 
-- Part 005 source intake — **PASS / COMPLETE**;
+- source intake — **PASS / COMPLETE**;
 - scans **445–555 / printed 428–538**;
-- **444→445 — GENUINE CONTINUATION**;
-- scan 445 continues the king's speech from scan 444 and closes the unit with Chapter **4 / Kural 34**;
-- scan 555 closes its unit with Chapter **89 / Kural 881**;
-- **555→556 — CLEAN**;
-- Pass 1 — **NOT STARTED**.
+- P5-01 **445–455 — COMPLETE 11/11**;
+- **444→445 GENUINE CONTINUATION**;
+- **445→446 CLEAN**;
+- **446→447 genuine continuation**;
+- **447→448 CLEAN**;
+- **448→449 genuine continuation**, including source-visible `தனிகைமலை` + `யுடன்`;
+- **449→450 CLEAN**;
+- **450→451 genuine continuation**;
+- **451→452 genuine continuation**;
+- **452→453 CLEAN**;
+- **453→454 genuine continuation**;
+- **454→455 CLEAN**;
+- **455→456 genuine continuation**, checked from scan 456 witness;
+- cumulative Pass 1 — **11/111**.
 
 ## Part 006 intake boundary map
 
-- Part 006 source intake — **PASS / COMPLETE**;
+- source intake — **PASS / COMPLETE**;
 - scans **556–666**;
-- numbered printed span **539–648**;
-- scan 556 begins a new illustrated ascetic/moral vignette;
-- scans 664–665 are contents/index backmatter pages;
-- scan 666 is an unnumbered pictorial back cover;
-- there is **no external continuation beyond scan 666**.
+- **555→556 CLEAN**;
+- scans 664–665 are contents/index backmatter;
+- scan 666 is the unnumbered pictorial back cover;
+- no external continuation beyond scan 666.
 
 ## Current frontier
 
-**Part 005 Pass 1 P5-01 — scans 445–455 / printed 428–438.**
+**Part 005 Pass 1 P5-02 — scans 456–466 / printed 439–449.**

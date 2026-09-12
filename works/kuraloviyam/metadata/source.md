@@ -145,11 +145,13 @@ Controlling split:
 - local page 1 / overall scan **445** = printed **428**;
 - local page 111 / overall scan **555** = printed **538**.
 
-Boundary **444→445** is **GENUINE CONTINUATION**: scan 444 ends `அத்துடன் நிறுத்தவில்லை -`, and scan 445 directly continues the king's speech before closing that unit with Chapter 4 / Kural 34.
+Boundary **444→445** is **GENUINE CONTINUATION**: scan 444 ends `அத்துடன் நிறுத்தவில்லை -`, and scan 445 directly continues the king's speech with `தளபதிகளே! இந்தத் தலைக்கனம் கொண்டவனைச் சிறையில் அடைப்பீர்!` before closing that unit with Chapter 4 / Kural 34.
 
 Boundary **555→556** is **CLEAN**: scan 555 closes Chapter 89 / Kural 881; scan 556 begins a new illustrated ascetic/moral vignette.
 
 Detailed intake: `works/kuraloviyam/SOURCE_INTAKE_PART_005.md`.
+
+Part 005 Pass 1 is **ACTIVE**. P5-01 scans **445–455 / printed 428–438** are captured **11/11**, all as `status: "needs-review"` / `visual_fidelity: "needs-review"`. Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`. The outgoing **455→456** boundary is a **GENUINE CONTINUATION** checked from scan 456 / printed 439. Next is **P5-02 / scans 456–466 / printed 439–449**.
 
 ## Part 006 source identity and provenance
 

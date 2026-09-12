@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 005 P5-01
+# NEXT CHAT PROMPT — குறளோவியம் / Part 005 P5-02
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`.
 
@@ -6,60 +6,57 @@ Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, acti
 
 Fetch live `main` first and preserve newer durable work.
 
-## Closed earlier state
+Parts **001–004 remain closed**. Do not reopen them.
 
-Parts **001–004** remain closed. Do not reopen them.
-
-Part 004 final state:
-
-- Tamil — **111/111 textual + visual verified / 0 exceptions**;
-- English — **111/111 `release-ready`**;
-- final checkpoint — **PASS / CLOSED**.
-
-## Part 005 controlling source — SUPPLIED / INTAKE PASS
+## Part 005 controlling source
 
 `TVA_BOK_0065733_குறளோவியம்_part_005_pages_445-555.pdf`
 
+- source intake — **PASS / COMPLETE**;
 - local pages — **111**;
 - overall scans — **445–555**;
 - printed span — **428–538**;
-- bytes — **117,049,042**;
 - SHA-256 — `082d46dc437851b37bea24c3152c2ea41b39c425628ddaa66461866a3177c235`;
-- no usable parsed text layer;
-- rendered scans are controlling;
-- durable intake — `works/kuraloviyam/SOURCE_INTAKE_PART_005.md`.
+- no usable parsed text layer; rendered scans are controlling.
 
-### Boundary controls
+## Durable Pass-1 state
 
-- **444→445 — GENUINE CONTINUATION**. Scan 444 ends `அத்துடன் நிறுத்தவில்லை -`; scan 445 immediately continues the king's speech and closes the unit with Chapter 4 / Kural 34.
-- **555→556 — CLEAN**, already resolved from supplied Part 006.
+P5-01 scans **445–455 / printed 428–438 — COMPLETE 11/11**.
 
-## Part 006 controlling source — SUPPLIED / INTAKE PASS
+- cumulative capture — **11/111**;
+- status on all 11 — `needs-review`;
+- visual fidelity on all 11 — `needs-review`;
+- page-layer commit — `9e56343a073848c1cc932c1fcc95b0b9acb4ff06`;
+- durable progress — `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
-`TVA_BOK_0065733_குறளோவியம்_part_006_pages_556-666.pdf`
+Boundary controls:
 
-- local pages — **111**;
-- overall scans — **556–666**;
-- visible numbered printed span — **539–648**;
-- scan 666 — **unnumbered back cover**;
-- bytes — **118,543,819**;
-- SHA-256 — `76f5f3d9f926c148c30ae9f8b1917f4cf423134a6bc09a16ad9eea4bb766c804`;
-- durable intake — `works/kuraloviyam/SOURCE_INTAKE_PART_006.md`;
-- source family is physically complete through scan **666**.
+- **444→445 — GENUINE CONTINUATION**;
+- **445→446 CLEAN**;
+- **446→447 genuine**;
+- **447→448 CLEAN**;
+- **448→449 genuine**, preserving `தனிகைமலை` + `யுடன்`;
+- **449→450 CLEAN**;
+- **450→451 genuine**;
+- **451→452 genuine**;
+- **452→453 CLEAN**;
+- **453→454 genuine**;
+- **454→455 CLEAN**;
+- **455→456 — GENUINE CONTINUATION**, directly checked from scan 456 / printed 439.
 
-Do not begin Part 006 transcription yet.
+Part 006 is already source-intake complete but must remain transcription-inactive.
 
-## Exact next activity — Part 005 Pass 1 P5-01
+## Exact next activity — P5-02
 
-Process scans **445–455 / printed 428–438** as one page-aligned Tamil Pass-1 record per physical scan.
+Process scans **456–466 / printed 439–449** as one page-aligned Tamil Pass-1 record per physical scan.
 
 Rules:
 
 1. source pixels are authoritative; no OCR guesswork or silent normalization;
-2. preserve the incoming **444→445 genuine continuation**;
-3. create `part: 5`, `part_page: 1–11`, exact scan/printed mappings and source filename;
-4. new Pass-1 records begin `status: "needs-review"` and `visual_fidelity: "needs-review"`;
+2. preserve incoming **455→456 genuine continuation**;
+3. use `part: 5`, `part_page: 12–22`, exact scan/printed mappings and source filename;
+4. new records begin `status: "needs-review"` and `visual_fidelity: "needs-review"`;
 5. keep illustrations, Kural blocks, source glosses, page furniture and stamps structurally separate;
-6. use scan **456 / printed 439** only as the outgoing boundary witness when needed;
+6. inspect scan **467 / printed 450** only as the outgoing boundary witness when required;
 7. do not alter Parts 001–004;
-8. do not begin Part 006 transcription in this activity.
+8. do not begin Part 006 transcription.

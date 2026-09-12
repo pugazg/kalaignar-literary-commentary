@@ -30,7 +30,7 @@ Source: `TVA_BOK_0065733_குறளோவியம்_part_005_pages_445-55
 The formerly deferred split boundary is now source-resolved as a **genuine continuation**.
 
 - closed Part 004 scan **444 / printed 427** ends the royal/court famine-granary accusation with the explicit open phrase `அத்துடன் நிறுத்தவில்லை -`;
-- Part 005 scan **445 / printed 428** immediately continues the king's speech, opening with `தளபதிகளே! இந்தக் களஞ்சியம் கொண்டவனைச் சிறையில் அடையுங்கள்!`;
+- Part 005 scan **445 / printed 428** immediately continues the king's speech, opening with `தளபதிகளே! இந்தத் தலைக்கனம் கொண்டவனைச் சிறையில் அடைப்பீர்!`;
 - scan 445 then closes that unit with Chapter **4 — அறன்வலியுறுத்தல்** / Kural **34**;
 - therefore **444→445 is a genuine textual/narrative continuation**, not a clean split.
 
@@ -75,4 +75,11 @@ Workflow batch edges must never create artificial textual boundaries. Inspect th
 
 **Part 005 source intake: COMPLETE / PASS.**
 
-Next: **P5-01 / Part 005 Pass 1 — scans 445–455 / printed 428–438**, using scan **456 / printed 439** only as a boundary witness when required.
+Pass 1 has begun.
+
+- P5-01 / scans **445–455 / printed 428–438** — **COMPLETE 11/11**;
+- cumulative Pass-1 capture — **11/111**;
+- durable progress — `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`;
+- outgoing **455→456 — GENUINE CONTINUATION**, checked from scan 456 witness.
+
+Next: **P5-02 / scans 456–466 / printed 439–449**, using scan **467 / printed 450** only as a boundary witness when required.
