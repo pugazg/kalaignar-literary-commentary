@@ -130,6 +130,28 @@ For every source-dependent batch:
 8. inspect the changed-file set;
 9. record the exact next frontier.
 
+### Mandatory frontier-control synchronization
+
+A completed batch is not operationally closed until the live frontier controls agree.
+
+Before stopping after **every completed Kuraloviyam batch**:
+
+1. update the relevant Pass/gate log;
+2. update the current Part progress/frontier tracker (for Part 004, `works/kuraloviyam/PART_004_PASS1_PROGRESS.md`);
+3. update `works/kuraloviyam/HANDOVER.md` to the same durable phase, coverage and exact next activity;
+4. update `NEXT_CHAT_PROMPT_KURALOVIYAM.md` to the same durable phase, coverage and exact next activity;
+5. fetch live `main` again and verify that the tracker, work handover and next-chat prompt all point to the same next frontier.
+
+Do not leave the handover or next-chat prompt at an older batch merely because the detailed Pass log is current.
+
+At every **phase transition** (for example Pass 1 → Pass 2A, Pass 2A → Pass 2B, Pass 2B → Pass 3, Pass 3 → Part audit, audit → final synchronization), also update:
+
+- root `HANDOVER.md`;
+- `works/kuraloviyam/README.md` when the overview/status changes;
+- `works/kuraloviyam/indexes/page-map.md` when the mapped/status frontier changes.
+
+The end-of-Part documentation-synchronization gate remains a final consistency/closure audit. It is **not** the first time handover and next-chat controls are refreshed.
+
 A workflow batch boundary never implies a narrative, quotation or Kural boundary. Inspect the first scan of the following batch only as a boundary witness when needed.
 
 Pass 2B is performed only after Pass 2A reaches the end of the supplied Part so it functions as an independent second read.
@@ -183,9 +205,25 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_
 - SHA-256: `5b7fcc65f19dc3d2a57bebb13cdfb02d0c83f70a5ccc9e537886790908674581`;
 - no usable parsed text layer; rendered scans control;
 - incoming **333→334: CLEAN / source-resolved**;
-- Tamil Pass 1: **0/111 — not started**;
+- Tamil Pass 1: **COMPLETE — 111/111**;
+- Pass 2A direct textual verification: **COMPLETE / PASS — 111/111**;
+- Pass 2B independent lexical-fidelity re-read: **COMPLETE / PASS — 111/111**;
+- Pass 3 meaningful visual/text verification: **IN PROGRESS — 44/111 complete through scan 377 / printed 360**;
+- Pass 3 corrections so far: scans **336, 342 and 348**; Batches 3–4 required no structural changes;
+- lexical body-text changes during Pass 3: **0**;
+- all Part-004 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"` until the later Part audit and final metadata/status synchronization;
+- Part audit: **BLOCKED until Pass 3 reaches 111/111**;
 - outgoing **444→445: deferred until Part 005 intake**.
+
+Durable operational controls:
+
+- `works/kuraloviyam/PART_004_PASS1_PROGRESS.md`;
+- `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_004.md`;
+- `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_004.md`;
+- `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_004.md`;
+- `works/kuraloviyam/HANDOVER.md`;
+- `NEXT_CHAT_PROMPT_KURALOVIYAM.md`.
 
 ### Exact next content stage
 
-Perform **Part 004 Pass 1 P4-01 — scans 334–344 / printed 317–327, 11 scans**. Page records remain `needs-review` / `visual_fidelity: needs-review` after Pass 1. Do not begin Part 005 or resolve **444→445** without its actual controlling source.
+Perform **Part 004 Pass 3 Batch 5 — scans 378–388 / printed 361–371, 11 scans**. Scan 378 receives full Pass-3 review after serving only as the Batch-4 outgoing witness. Inspect scan **389 / printed 372** only as the outgoing boundary witness. Do not promote page statuses, start the Part audit, begin Part 005, or resolve **444→445** without its actual controlling source.
