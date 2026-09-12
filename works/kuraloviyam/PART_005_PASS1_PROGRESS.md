@@ -281,8 +281,58 @@ Exact page-only compare from pre-batch `32a0ce4e3d38579a56b4e22c72e123a34a331f80
 - Parts 001–004 remain untouched;
 - Part 006 remains transcription-inactive.
 
+## P5-07 state
+
+**11 / 11 page records captured — COMPLETE.**
+
+P5-07 scans **511–521 / printed 494–504** are captured as one page-aligned Tamil Pass-1 record per physical scan. All 11 records carry:
+
+- `part: 5`;
+- `part_page: 67–77`;
+- exact scan/printed-page mappings;
+- `status: "needs-review"`;
+- `visual_fidelity: "needs-review"`;
+- the exact Part 005 source filename.
+
+Batch page-layer commit:
+
+`7db00451252a8a5be1f586547fde7b7e103e9996` — `kuraloviyam: Capture Part 005 Pass 1 scans 511-521`
+
+Source-reading reconciliation commit:
+
+`43c7fc708d6d4346d327251bf86769cce10fa5e4` — `kuraloviyam: Reconcile Part 005 P5-07 source readings`
+
+The reconciliation corrects source-visible readings on scans **516** and **517** without changing the 11-page batch boundary.
+
+Exact compare from pre-batch `655a04f0fb44c37ef9e1cb2127e50aec40f55778` to corrected page endpoint `43c7fc708d6d4346d327251bf86769cce10fa5e4` is **ahead by 2 commits** and changes exactly **11 files**, all and only scans **511–521**.
+
+## P5-07 continuity map
+
+- **510→511 — CLEAN**; scan 511 begins the எந்திழை / absent-lover vignette;
+- **511→512 — GENUINE CONTINUATION**; scan 512 closes Chapter 125 / Kural 1249;
+- **512→513 — CLEAN**; scan 513 begins the arduous-journey verse vignette;
+- **513→514 — GENUINE CONTINUATION**;
+- **514→515 — GENUINE CONTINUATION**; scan 515 closes Chapter 67 / Kural 669;
+- **515→516 — CLEAN**; scan 516 begins the Vinoba / death-and-firmness vignette;
+- **516→517 — GENUINE CONTINUATION**; scan 517 closes Chapter 27 / Kural 269;
+- **517→518 — CLEAN**; scan 518 begins the tyrannical-rule / popular-revolt vignette;
+- **518→519 — GENUINE CONTINUATION**; scan 519 closes Chapter 57 / Kural 563;
+- **519→520 — CLEAN**; scan 520 begins the reunited-lovers / intoxicating-embrace vignette;
+- **520→521 — GENUINE CONTINUATION**; scan 521 closes Chapter 129 / Kural 1288;
+- **521→522 — CLEAN**, directly checked from scan 522 / printed 505; scan 522 begins a new illustrated false-praise / dependent-puppet vignette and was not created in P5-07.
+
+## P5-07 structural notes
+
+- all 11 page records remain `needs-review` / visual `needs-review`;
+- the scans 513–515 verse sequence preserves source lineation;
+- Kural blocks and source glosses remain distinct from surrounding prose;
+- illustrations remain represented in `visual_notes`;
+- no page outside scans 511–521 changed;
+- Parts 001–004 remain untouched;
+- Part 006 remains transcription-inactive.
+
 ## Current gate
 
-Part 005 Pass 1: **66/111 captured**.
+Part 005 Pass 1: **77/111 captured**.
 
-Next: **P5-07 / scans 511–521 / printed 494–504**, using scan **522 / printed 505** only as a boundary witness when required.
+Next: **P5-08 / scans 522–532 / printed 505–515**, using scan **533 / printed 516** only as a boundary witness when required.
