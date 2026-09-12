@@ -156,26 +156,32 @@ Durable final checkpoint: `works/kuraloviyam/PART_003_FINAL_CLOSURE.md`.
 
 Part 003 Tamil and maintained English are now fully closed. English is **111/111 `release-ready`**; the Part-level review is PASS; the release report is APPROVED / CLOSED; no Tamil or English page record changed during the final checkpoint.
 
-## Part 004 — TAMIL CLOSED / ENGLISH GLOSSARY GR4 FINAL REMAINDER NEXT
+## Part 004 — TAMIL CLOSED / ENGLISH GLOSSARY CLOSED / EDITORIAL REVIEW ER1 NEXT
 
 ### Durable English state
 
 - drafting — **COMPLETE / CLOSED 111/111**;
 - source-check — **COMPLETE / CLOSED 111/111**;
-- glossary reconciliation — **IN PROGRESS 99/111**;
+- glossary reconciliation — **COMPLETE / CLOSED 111/111**;
 - GR1 **334–366 — COMPLETE / PASS 33/33**;
 - GR2 **367–399 — COMPLETE / PASS 33/33**;
 - GR3 **400–432 — COMPLETE / PASS 33/33**;
+- GR4 **433–444 / printed 416–427 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
 - current page state — **111 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- GR3 corrections — scans **425, 426, 429**;
-- GR3 page-status changes — **0**;
-- GR3 Tamil changes — **0**;
-- **432→433 CLEAN** preserved;
-- editorial review and later gates — **BLOCKED until glossary reconciliation closes**;
+- GR4 Chapter/Kural metadata audit — **5 records / 0 numeric mismatches**;
+- GR4 English page wording corrections — **0 page files**;
+- GR4 exact change set — **`GLOSSARY.md` only**;
+- GR4 page-status changes — **0**;
+- GR4 Tamil changes — **0**;
+- **432→433 CLEAN** and **443→444 CLEAN** preserved;
+- scan **444 / printed 427 remains source-open**;
+- editorial review — **NOT STARTED / UNBLOCKED**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
-## Exact next activity — Part 004 English glossary GR4
+GR4 commit: `0266f1cca87df46ad9614bb34299218e22df6ad9`.
 
-Process the final **scans 433–444 / printed 416–427 — 12 pages**.
+## Exact next activity — Part 004 English editorial review ER1
 
-Reconcile terminology against `GLOSSARY.md` and audited Tamil. Keep all pages `source-checked`, preserve the source-open scan-444 ending, do not alter Tamil records, and do not begin Part 005.
+Process **scans 334–366 / printed 317–349 — 33 English pages**.
+
+Use audited Tamil plus `GLOSSARY.md`; review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and continuity. Make only source-faithful editorial improvements, and promote only passing pages from `source-checked` to `editorial-reviewed`. Do not alter Tamil records or begin Part 005.
