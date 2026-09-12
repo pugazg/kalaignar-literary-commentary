@@ -156,7 +156,7 @@ Durable final checkpoint: `works/kuraloviyam/PART_003_FINAL_CLOSURE.md`.
 
 Part 003 Tamil and maintained English are now fully closed. English is **111/111 `release-ready`**; the Part-level review is PASS; the release report is APPROVED / CLOSED; no Tamil or English page record changed during the final checkpoint.
 
-## Part 004 — ACTIVE / Part audit next
+## Part 004 — ACTIVE / final metadata-status synchronization next
 
 Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf`.
 
@@ -174,44 +174,34 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_
 - Pass 2A direct textual verification — **COMPLETE / PASS 111/111**;
 - Pass 2B independent lexical-fidelity re-read — **COMPLETE / PASS 111/111**;
 - Pass 3 meaningful visual/text verification — **COMPLETE / PASS 111/111**;
-- Pass-3 visual-note corrections — **6 pages: 336, 342, 348, 388, 398, 416**;
-- Pass-3 lexical body-text changes — **0**;
-- Pass-3 status promotions — **0**;
-- Part audit — **NEXT / UNBLOCKED**;
-- final metadata/status synchronization — **BLOCKED until audit closes**;
-- Tamil archival-ready checkpoint — **BLOCKED**;
-- all Part-004 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+- Part audit — **PASS / COMPLETE**;
+- audit inventory/mapping — **111/111; no gaps/duplicates**;
+- audit carried Tamil exceptions — **0**;
+- current statuses — **111 `needs-review` / 111 `visual_fidelity: needs-review`**;
+- final metadata/status synchronization — **NEXT / UNBLOCKED**;
+- Tamil archival-ready checkpoint — **BLOCKED until final sync and documentation sync close**.
 
-Durable records:
+Durable records now include:
 
 - `works/kuraloviyam/SOURCE_INTAKE_PART_004.md`;
 - `works/kuraloviyam/PART_004_PASS1_PROGRESS.md`;
 - `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_004.md`;
 - `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_004.md`;
-- `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_004.md`.
+- `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_004.md`;
+- `works/kuraloviyam/PART_004_AUDIT.md`.
 
-## Permanent batch-frontier synchronization rule
+## Exact next activity — final metadata/status synchronization
 
-After **every completed Kuraloviyam batch**, do not stop until all of these are synchronized to the same next frontier:
+Process **all 111 Part-004 page records, scans 334–444 / printed 317–427** as a metadata-only gate.
 
-1. the relevant Pass/gate log;
-2. the current Part progress/frontier tracker;
-3. this `works/kuraloviyam/HANDOVER.md`;
-4. root `NEXT_CHAT_PROMPT_KURALOVIYAM.md`.
+If live evidence remains unchanged:
 
-At a **phase transition**, also refresh root `HANDOVER.md`, and update the work README/page-map where the phase/status overview changes.
+1. promote every eligible `status: "needs-review"` to `status: "verified"`;
+2. promote every eligible `visual_fidelity: "needs-review"` to `visual_fidelity: "verified"`;
+3. change **only those two status fields** in page records;
+4. do not alter Tamil body text, Kural wording, paragraph/dialogue structure, `page_type`, `visual_notes`, continuation comments, source metadata or page mapping;
+5. preserve external **444→445 DEFERRED / UNRESOLVED**;
+6. write the durable Part-004 final-status-sync record and audit the exact page-only change set;
+7. then synchronize frontier controls to the subsequent documentation-sync gate.
 
-## Exact next activity — Part 004 Part audit
-
-Audit **scans 334–444 / printed 317–427** as one complete Part:
-
-1. verify exact physical inventory / one-record-per-scan coverage;
-2. verify Pass 1 / Pass 2A / Pass 2B / Pass 3 closure evidence;
-3. audit internal continuation and clean-boundary records;
-4. audit Kural / Chapter metadata coverage and source/non-source separation;
-5. confirm no carried `partial`, `blocked` or unresolved internal readings remain;
-6. confirm all 111 records still remain at pre-final `needs-review` / `visual_fidelity: needs-review`;
-7. preserve external **444→445 DEFERRED / UNRESOLVED**;
-8. write the durable Part-004 audit record and synchronize frontier controls.
-
-Do **not** perform final metadata/status promotion or begin Part 005 in the same iteration unless separately instructed.
+Do **not** begin Part 005.
