@@ -399,8 +399,21 @@ English glossary reconciliation is **COMPLETE / CLOSED — 111/111**.
 
 GR4 commit: `0266f1cca87df46ad9614bb34299218e22df6ad9`.
 
-Part 004 English editorial review is **NOT STARTED / UNBLOCKED**.
+Part 004 English editorial review is **IN PROGRESS — 33/111**.
+
+- ER1 **334–366 / printed 317–349 — COMPLETE / PASS 33/33**;
+- wording-improvement pages — **23**: 335, 336, 337, 338, 339, 340, 341, 342, 344, 346, 347, 349, 350, 351, 352, 354, 355, 356, 359, 362, 363, 365, 366;
+- status-only promotions — **10**: 334, 343, 345, 348, 353, 357, 358, 360, 361, 364;
+- current English state — **33 editorial-reviewed + 78 source-checked / 0 draft / 0 source-limited / 0 blocked**;
+- Chapter/Kural / Kural-block changes — **0**;
+- Tamil changes — **0**;
+- **333→334 CLEAN** preserved;
+- **366→367 genuine continuation** rechecked with scan 367 boundary witness and preserved;
+- external **444→445 DEFERRED / UNRESOLVED**.
+
+ER1 base: `db96854a2c75f480684442bae95247042f059fe0`.  
+ER1 page endpoint: `b764547c41b47b3c9cc2c73a43b44b1d089aec09`.
 
 ## Exact next activity
 
-Process **Part 004 English editorial review ER1 — scans 334–366 / printed 317–349, 33 pages**. Use audited Tamil and `GLOSSARY.md`, make only source-faithful editorial improvements, promote only passing pages to `editorial-reviewed`, do not alter Tamil records, and do not begin Part 005.
+Process **Part 004 English editorial review ER2 — scans 367–399 / printed 350–382, 33 pages**. Use audited Tamil and `GLOSSARY.md`, make only source-faithful editorial improvements, promote only passing pages to `editorial-reviewed`, do not alter Tamil records, and do not begin Part 005.

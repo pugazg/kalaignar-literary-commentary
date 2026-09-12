@@ -159,8 +159,18 @@ Part 003 maintained English is **RELEASE COMPLETE / CLOSED — 111/111 `release-
 
 GR4 commit: `0266f1cca87df46ad9614bb34299218e22df6ad9`.
 
-## Part 004 English editorial review — NOT STARTED / UNBLOCKED
+## Part 004 English editorial review — IN PROGRESS
+
+- ER1 **334–366 / printed 317–349 — COMPLETE / PASS 33/33**;
+- cumulative editorial review — **33/111**;
+- current page status — **33 `editorial-reviewed` + 78 `source-checked`**;
+- wording-improvement pages — **23**: 335, 336, 337, 338, 339, 340, 341, 342, 344, 346, 347, 349, 350, 351, 352, 354, 355, 356, 359, 362, 363, 365, 366;
+- status-only promotions — **10**: 334, 343, 345, 348, 353, 357, 358, 360, 361, 364;
+- Chapter/Kural / Kural-block changes — **0**;
+- Tamil changes — **0**;
+- **366→367 genuine continuation** rechecked and preserved;
+- external **444→445 DEFERRED / UNRESOLVED**.
 
 ## Current frontier
 
-**ER1 — scans 334–366 / printed 317–349 — 33 pages.**
+**ER2 — scans 367–399 / printed 350–382 — 33 pages.**

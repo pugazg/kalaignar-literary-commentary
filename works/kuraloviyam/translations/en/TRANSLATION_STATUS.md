@@ -331,12 +331,29 @@ GR4 commit:
 
 GR4 exact change set from `5bacced06a66d99fc0b24abcdbcd8355fca0afa5`: **1 file** — `GLOSSARY.md` only; **0 English page files**.
 
-## Part 004 English editorial review — NOT STARTED / UNBLOCKED
+## Part 004 English editorial review — IN PROGRESS
 
-Current pre-editorial state remains **111 `source-checked` / 0 `editorial-reviewed` / 0 draft / 0 source-limited / 0 blocked**.
+### ER1 — COMPLETE / PASS 33/33
+- scans **334–366 / printed 317–349**;
+- review base — `db96854a2c75f480684442bae95247042f059fe0`;
+- page endpoint — `b764547c41b47b3c9cc2c73a43b44b1d089aec09`;
+- exact page change set — **33 English page files only**;
+- wording-improvement pages — **23**: 335, 336, 337, 338, 339, 340, 341, 342, 344, 346, 347, 349, 350, 351, 352, 354, 355, 356, 359, 362, 363, 365, 366;
+- status-only promotions — **10**: 334, 343, 345, 348, 353, 357, 358, 360, 361, 364;
+- final ER1 status state — **33 `editorial-reviewed` + 78 `source-checked` / 0 draft / 0 source-limited / 0 blocked**;
+- Chapter/Kural numbers and controlled labels changed — **0**;
+- Kural block wording changed — **0**;
+- Tamil page / metadata changes — **0**;
+- visual/page-function changes — **0**;
+- incoming **333→334 CLEAN** preserved;
+- outgoing **366→367 genuine continuation** directly rechecked against scan 367 as a boundary witness and preserved;
+- external **444→445 DEFERRED / UNRESOLVED**;
+- external/published/web English wording imported — **0**.
+
+ER1 made only source-faithful readability and clarity improvements against the audited Tamil records. The most material correction was scan **350**, where `his aunt's weakness` was corrected to **her aunt had not recovered quickly**, matching the audited Tamil reference to Azhagarasi's aunt. The scan **362→363** sentence was also smoothed across the genuine page continuation without changing meaning.
 
 ## Exact next English activity
 
-Process **ER1 — scans 334–366 / printed 317–349 — 33 English pages**.
+Process **ER2 — scans 367–399 / printed 350–382 — 33 English pages**.
 
 Use audited Tamil and `GLOSSARY.md`. Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity. Make only source-faithful editorial improvements; passing pages may move from `source-checked` to `editorial-reviewed`. Do not alter Tamil records and do not begin Part 005.
