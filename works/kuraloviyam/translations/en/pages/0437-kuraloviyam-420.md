@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -17,7 +17,7 @@ The people of the settlement panicked. Men and women cried and writhed in distre
 
 “O God! Is this too a kind of livelihood you chose and gave us?”
 
-They shed tears and cursed the sea.
+They shed tears enough to outdo the sea.
 
 Five days later those who had gone out returned, looking like mere skeletons tied to pieces of timber after days without food or sleep.
 

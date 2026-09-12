@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -25,7 +25,7 @@ He waited at the entrance of the mansion from morning until evening. At last he 
 
 In the beautiful courtyard of the mansion, Nallithayan reclined upon a golden swing, his head resting in the lap of a woman with kovai-fruit lips, his hand upon her breast. He looked mockingly at Porko, who stood before him.
 
-“Come, Porko! Come! What is this? I expected you to come with sacred wealth. Instead you have come looking like a man carrying a beggar's bowl!”
+“Come, Porko! Come! What is this? I expected you to come with prosperity. Instead you have come looking like a man carrying a beggar's bowl!”
 
 He released a mischievous laugh, and with it a bud of arrogance opened. The question burned Porko's heart like a fiery arrow.
 
