@@ -342,7 +342,7 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - canonical Tamil inventory: **111 records**;
 - Tamil: **ARCHIVAL-READY / CLOSED**;
 - English inventory: **111/111 drafted, source-checked or editorial-reviewed, and aligned**;
-- current page status — **33 editorial-reviewed + 78 source-checked / 0 draft / 0 source-limited / 0 blocked**;
+- current page status — **66 editorial-reviewed + 45 source-checked / 0 draft / 0 source-limited / 0 blocked**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
 Part 004 English:
@@ -351,16 +351,17 @@ Part 004 English:
 - source-check — **111/111 COMPLETE / CLOSED**;
 - glossary reconciliation — **111/111 COMPLETE / CLOSED**;
 - ER1 **334–366 / printed 317–349 — COMPLETE / PASS 33/33**;
-- editorial review cumulative — **33/111**;
-- ER1 wording-improvement pages — **23**;
-- ER1 status-only promotions — **10**;
+- ER2 **367–399 / printed 350–382 — COMPLETE / PASS 33/33**;
+- editorial review cumulative — **66/111**;
+- ER2 wording-improvement pages — **24**;
+- ER2 status-only promotions — **9**;
 - Chapter/Kural / Kural-block changes — **0**;
 - Tamil changes — **0**;
-- **333→334 CLEAN**;
-- **366→367 genuine continuation** rechecked with scan 367 witness and preserved;
+- **366→367 genuine continuation** preserved;
+- **399→400 CLEAN** rechecked with scan 400 witness and preserved;
 - scan **444 / printed 427 remains source-open**;
-- next — **ER2 scans 367–399 / printed 350–382 — 33 pages**.
+- next — **ER3 scans 400–432 / printed 383–415 — 33 pages**.
 
 ## Current frontier
 
-**Part 004 English editorial review ER2.**
+**Part 004 English editorial review ER3.**

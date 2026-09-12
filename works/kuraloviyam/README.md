@@ -11,7 +11,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
 | 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
 | 003 | 223–333 | **Tamil + English CLOSED — final Part checkpoint PASS / CLOSED; 111/111 English release-ready** |
-| 004 | 334–444 | **Tamil ARCHIVAL-READY / CLOSED; English glossary reconciliation CLOSED 111/111; editorial review IN PROGRESS 33/111 — ER2 next** |
+| 004 | 334–444 | **Tamil ARCHIVAL-READY / CLOSED; English glossary reconciliation CLOSED 111/111; editorial review IN PROGRESS 66/111 — ER3 next** |
 | 005 | 445–555 | not-started |
 | 006 | 556–666 | not-started |
 
@@ -168,23 +168,24 @@ Durable final-status record: `PART_003_FINAL_STATUS_SYNC.md`.
 
 Durable documentation-sync record: `PART_003_DOCUMENTATION_SYNC.md`.
 
-## Part 004 — TAMIL CLOSED / ENGLISH EDITORIAL REVIEW 33/111
+## Part 004 — TAMIL CLOSED / ENGLISH EDITORIAL REVIEW 66/111
 
 - drafting — **COMPLETE / CLOSED 111/111**;
 - source-check — **COMPLETE / CLOSED 111/111**;
 - glossary reconciliation — **COMPLETE / CLOSED 111/111**;
-- editorial review — **IN PROGRESS 33/111**;
+- editorial review — **IN PROGRESS 66/111**;
 - ER1 **334–366 / printed 317–349 — COMPLETE / PASS 33/33**;
-- current page status — **33 editorial-reviewed + 78 source-checked**;
-- ER1 wording-improvement pages — **23**: 335, 336, 337, 338, 339, 340, 341, 342, 344, 346, 347, 349, 350, 351, 352, 354, 355, 356, 359, 362, 363, 365, 366;
-- ER1 status-only promotions — **10**;
+- ER2 **367–399 / printed 350–382 — COMPLETE / PASS 33/33**;
+- current page status — **66 editorial-reviewed + 45 source-checked**;
+- ER2 wording-improvement pages — **24**: 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 380, 381, 382, 383, 384, 385, 387, 391, 392, 394, 395, 398, 399;
+- ER2 status-only promotions — **9**;
 - Chapter/Kural / Kural-block changes — **0**;
 - Tamil changes — **0**;
-- **333→334 CLEAN**;
-- **366→367 genuine continuation** rechecked and preserved;
+- **366→367 genuine continuation** preserved;
+- **399→400 CLEAN** rechecked and preserved;
 - scan **444 / printed 427 remains source-open**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
 ## Current frontier
 
-**Part 004 English editorial review ER2 — scans 367–399 / printed 350–382.**
+**Part 004 English editorial review ER3 — scans 400–432 / printed 383–415.**
