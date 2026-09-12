@@ -48,10 +48,42 @@ This is not another lexical reread. Settled wording is not normalized or rewritt
 - Status promotion: **0**.
 - All Part-004 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
 
+## Batch 2 — scans 345–355 / printed 328–338
+
+**Result: COMPLETE — 11 / 11.**
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 345 | 328 | **NO STRUCTURAL CHANGE** — text-heavy continuation/close of Aththi's lost-trading-ship vignette; the highlighted Kural 332 block and Chapter 34 metadata remain correctly separated near the bottom. |
+| 346 | 329 | **NO STRUCTURAL CHANGE** — large upper lovers illustration remains above the prose; the lovers/separation vignette begins below and continues directly to scan 347. |
+| 347 | 330 | **NO STRUCTURAL CHANGE** — text-only continuation/close; Kural 1156, Chapter 116 metadata and source glosses remain correctly separated, with the small red decorative monument below as page furniture. |
+| 348 | 331 | **CORRECTED** — the upper illustration was independently re-read. The prior note said Veeran was "sharpening/holding" the sword; the source-visible image shows him holding and examining the sword with Aravaazhi behind him. `visual_notes` corrected only; body wording and review flags unchanged. |
+| 349 | 332 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the day-as-sword vignette; highlighted Kural 334 and Chapter 34 metadata remain distinct and correctly ordered. |
+| 350 | 333 | **NO STRUCTURAL CHANGE** — large upper illustration of the young man and woman standing in water near a tree remains above the prose; the Anbanandan/Azhagarasi vignette begins below and continues directly to scan 351. |
+| 351 | 334 | **NO STRUCTURAL CHANGE** — text-only continuation/close; Kural 1102, Chapter 111 metadata and two source glosses remain structurally distinct. |
+| 352 | 335 | **NO STRUCTURAL CHANGE** — large upper illustration of the crowned Pandya ruler with Kudilan and armed attendants remains above the prose; the Manonmaniyam/Kudilan vignette begins below and continues directly to scan 353. |
+| 353 | 336 | **NO STRUCTURAL CHANGE** — text-only continuation/close; highlighted Kural 798 and Chapter 80 metadata remain correctly separated, with the small red seated-statue illustration below as page furniture. |
+| 354 | 337 | **NO STRUCTURAL CHANGE** — large upper illustration of Kaarmegam in the foreground with another man and a large house behind remains above the prose; the jealousy vignette begins below and continues directly to scan 355. |
+| 355 | 338 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Kaarmegam jealousy vignette; Kural 165, Chapter 17 metadata and source glosses remain correctly ordered. |
+
+### Boundary / continuity result
+
+- Incoming **344→345 genuine continuation** remains confirmed.
+- **355→356 is CLEAN**, reconfirmed from scan **356 / printed 339**: scan 355 closes the Kaarmegam jealousy vignette, while scan 356 begins a new illustrated Paavai/Poonkundran forest-lovers vignette.
+- Scan 356 was used only as the outgoing witness and is **not** counted in Batch 2.
+
+### Batch 2 correction summary
+
+- Structural/visual-description corrections: **1 page — scan 348**.
+- No-change scans: **345–347, 349–355 — 10 pages**.
+- Lexical body-text changes: **0**.
+- Status promotion: **0**.
+- All Part-004 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+
 ## Resulting Pass-3 frontier
 
-**11 / 111 complete through scan 344 / printed 327.**
+**22 / 111 complete through scan 355 / printed 338.**
 
 ## Exact next activity
 
-Process **Part 004 Pass 3 / Batch 2 — scans 345–355 / printed 328–338, 11 physical scans**. Begin from the confirmed genuine **344→345** continuation. Inspect **scan 356 / printed 339** only as the outgoing witness. Keep the visual-text-only gate and do not start the Part audit until Pass 3 reaches 111/111.
+Process **Part 004 Pass 3 / Batch 3 — scans 356–366 / printed 339–349, 11 physical scans**. Begin after the confirmed clean **355→356** boundary. Inspect **scan 367 / printed 350** only as the outgoing witness. Keep the visual-text-only gate and do not start the Part audit until Pass 3 reaches 111/111.
