@@ -112,10 +112,42 @@ This is not another lexical reread. Settled wording is not normalized or rewritt
 - Status promotion: **0**.
 - All Part-004 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
 
+## Batch 4 — scans 367–377 / printed 350–360
+
+**Result: COMPLETE — 11 / 11.**
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 367 | 350 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Bhagat Singh/Rajaguru/Sukhdev/Jeyagopal narrative; Kural 806, Chapter 81 metadata and source glosses remain correctly separated above the small Thiruvalluvar statue page furniture. |
+| 368 | 351 | **NO STRUCTURAL CHANGE** — large upper illustration with the Kovalan/Madhavi/child grouping against a port-city backdrop remains above the two short prose paragraphs; the Kovalan/Madhavi/Kannagi reflection begins below and continues directly to scan 369. |
+| 369 | 352 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Kovalan/Madhavi/Kannagi reflection; Kural 1130 and Chapter 113 metadata remain correctly set out near the bottom. |
+| 370 | 353 | **NO STRUCTURAL CHANGE** — large upper illustration of a seated ancient Tamil messenger/official figure remains above the prose; the தூது discussion begins below and continues directly to scan 371. |
+| 371 | 354 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the தூது discussion; Kurals 685 and 690, Chapter 69 metadata and their block relationships remain correctly preserved. |
+| 372 | 355 | **NO STRUCTURAL CHANGE** — large upper moonlit-seashore illustration of the two young women remains above the dialogue prose; the Maangili/Poonkodi vignette begins below and continues directly to scan 373. |
+| 373 | 356 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Maangili/Poonkodi dialogue; Kural 1295 and Chapter 130 metadata remain correctly separated near the bottom. |
+| 374 | 357 | **NO STRUCTURAL CHANGE** — large upper illustration combining the prominent memorial portrait with two foreign tourists remains above the prose; the memorials/historic-sites reflection begins below and continues directly to scan 375. |
+| 375 | 358 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the memorials/historic-sites reflection; the Anna-watchwords discussion, Kural 28 and Chapter 3 metadata remain in the correct prose/block order. |
+| 376 | 359 | **NO STRUCTURAL CHANGE** — large upper illustration of two women at the waterfall with the watching man at right remains above the prose; the matathipathi/palanquin vignette begins below and continues directly to scan 377. |
+| 377 | 360 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the matathipathi/palanquin vignette; Kural 973 and Chapter 98 metadata remain correctly separated near the bottom. |
+
+### Boundary / continuity result
+
+- Incoming **366→367 genuine continuation** remains confirmed and closes on scan 367 with Chapter 81 / Kural 806.
+- **377→378 is CLEAN**, reconfirmed from scan **378 / printed 361**: scan 377 closes the matathipathi/palanquin vignette, while scan 378 begins a new illustrated domestic-lovers vignette.
+- Scan 378 was used only as the outgoing witness and is **not** counted in Batch 4.
+
+### Batch 4 correction summary
+
+- Structural/visual-description corrections: **0**.
+- No-change scans: **367–377 — 11 pages**.
+- Lexical body-text changes: **0**.
+- Status promotion: **0**.
+- All Part-004 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+
 ## Resulting Pass-3 frontier
 
-**33 / 111 complete through scan 366 / printed 349.**
+**44 / 111 complete through scan 377 / printed 360.**
 
 ## Exact next activity
 
-Process **Part 004 Pass 3 / Batch 4 — scans 367–377 / printed 350–360, 11 physical scans**. Begin with scan 367 now receiving full Pass-3 review after serving only as the Batch-3 witness. Inspect **scan 378 / printed 361** only as the outgoing boundary witness. Keep the visual-text-only gate and do not start the Part audit until Pass 3 reaches 111/111.
+Process **Part 004 Pass 3 / Batch 5 — scans 378–388 / printed 361–371, 11 physical scans**. Begin with scan 378 now receiving full Pass-3 review after serving only as the Batch-4 witness. Inspect **scan 389 / printed 372** only as the outgoing boundary witness. Keep the visual-text-only gate and do not start the Part audit until Pass 3 reaches 111/111.
