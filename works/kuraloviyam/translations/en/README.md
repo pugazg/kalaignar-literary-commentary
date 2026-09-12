@@ -140,17 +140,27 @@ Part 003 maintained English is **RELEASE COMPLETE / CLOSED — 111/111 `release-
 - source-check — **111/111 COMPLETE / CLOSED**;
 - current page status — **111 `source-checked`**.
 
-## Part 004 English glossary reconciliation — IN PROGRESS
+## Part 004 English glossary reconciliation — COMPLETE / CLOSED
 
 - GR1 **334–366 — COMPLETE / PASS 33/33**;
 - GR2 **367–399 — COMPLETE / PASS 33/33**;
 - GR3 **400–432 — COMPLETE / PASS 33/33**;
-- cumulative — **99/111**;
-- GR3 terminology corrections — **3 page files: 425, 426, 429**;
+- GR4 **433–444 / printed 416–427 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
+- cumulative — **111/111 COMPLETE / CLOSED**;
+- current page status — **111 `source-checked`**;
+- GR4 Chapter/Kural metadata — **5 records / 0 numeric mismatches**;
+- GR4 English page wording corrections — **0 page files**;
+- GR4 exact change set — **`GLOSSARY.md` only**;
 - page-status changes — **0**;
 - Tamil changes — **0**;
-- **432→433 CLEAN** preserved.
+- **432→433 CLEAN** and **443→444 CLEAN** preserved;
+- scan **444 / printed 427 remains source-open**;
+- external **444→445 DEFERRED / UNRESOLVED**.
+
+GR4 commit: `0266f1cca87df46ad9614bb34299218e22df6ad9`.
+
+## Part 004 English editorial review — NOT STARTED / UNBLOCKED
 
 ## Current frontier
 
-**GR4 final remainder — scans 433–444 / printed 416–427 — 12 pages.**
+**ER1 — scans 334–366 / printed 317–349 — 33 pages.**
