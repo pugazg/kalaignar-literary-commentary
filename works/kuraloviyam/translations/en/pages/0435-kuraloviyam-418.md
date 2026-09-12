@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -25,7 +25,7 @@ Porko's eyes filled with tears. Wiping them, his wife said:
 
 “Yes, my dear,” said Porko.
 
-The beautiful Kural containing the comparison she had expressed came to his mind:
+The beautiful Kural embodying the comparison she had expressed came to his mind:
 
 > Great wealth gained by a man without character  
 > is like good milk spoiled by the impurity of its vessel.

@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 Large upper illustration of an affluent man reclining with a woman while another woman sits apart.
 
-The top of that mansion rose high enough to touch the clusters of white clouds. From the summit, as far as his sharp eyes could reach, forests and cultivated lands belonged to him.
+The mansion rose so high that its summit seemed to touch the clusters of white clouds. From the summit, as far as his sharp eyes could reach, forests and cultivated lands belonged to him.
 
 Each year he converted his income into gold coins. Unable even to count and arrange them, he poured them in heaps into the treasury room. The whole country knew that he lived submerged in such abundance.
 

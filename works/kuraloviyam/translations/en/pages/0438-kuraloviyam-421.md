@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 Large upper illustration of an elderly chief minister with a younger ruler near a waterside landscape.
 
-“Ah! We must not let him go unpunished. My shoulders are throbbing. The sword has already left its sheath. He has hurled at me words of contempt unknown even among the lowest men. I will go at once and teach him a lesson, proving that mine is the Tamil tradition that holds honour itself to be the good life.
+“Ah! We must not let him go unpunished. My shoulders are throbbing. The sword has already left its sheath. He has hurled at me insults not heard even among the lowliest people. I will go at once and teach him a lesson, proving that mine is the Tamil tradition that holds honour itself to be the good life.
 
 “He may possess a great army. Compared with his, mine is smaller in number. But in strength it is greater. Warriors of firm heart, brave men who consider life itself insignificant, stand arrayed behind me. Around the man who insulted me there is only an army that fights for its meal.
 

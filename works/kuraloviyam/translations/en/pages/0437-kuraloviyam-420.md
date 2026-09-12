@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -21,7 +21,7 @@ They shed tears enough to outdo the sea.
 
 Five days later those who had gone out returned, looking like mere skeletons tied to pieces of timber after days without food or sleep.
 
-The settlement erupted in celebration. Hearts cooled in relief. Families embraced the men, blessed them, and led them home.
+The settlement erupted in celebration. Hearts found relief. Families embraced the men, blessed them, and led them home.
 
 Only Selkendai stood by himself.
 
