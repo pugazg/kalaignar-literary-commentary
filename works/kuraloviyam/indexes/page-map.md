@@ -342,28 +342,19 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - canonical Tamil inventory: **111 records**;
 - Tamil: **ARCHIVAL-READY / CLOSED**;
 - English inventory: **111/111 aligned**;
-- current page status — **111 editorial-reviewed / 0 release-ready / 0 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- external **444→445 DEFERRED / UNRESOLVED**.
-
-Part 004 English:
-
-- drafting — **111/111 COMPLETE / CLOSED**;
-- source-check — **111/111 COMPLETE / CLOSED**;
-- glossary reconciliation — **111/111 COMPLETE / CLOSED**;
-- editorial review — **111/111 COMPLETE / CLOSED**;
+- current page status — **111 release-ready / 0 editorial-reviewed / 0 source-checked / 0 draft / 0 source-limited / 0 blocked**;
 - Part-level English review — **PASS / CLOSED**;
-- durable review — `../translations/en/reviews/PART_004_ENGLISH_REVIEW.md`;
-- Chapter/Kural metadata — **54 records / 54 pages / 42 distinct Chapters / 0 mismatches**;
-- controlled labels and Kural block separation — **PASS**;
-- English visual-material records — **54 / page-function audit PASS**;
+- English release — **APPROVED / CLOSED**;
+- release change set — **111 English page records only; status-token-only**;
 - **333→334 CLEAN**;
 - **366→367 genuine continuation**;
 - **399→400 CLEAN**;
 - **432→433 CLEAN**;
 - **443→444 CLEAN**;
 - scan **444 / printed 427 remains source-open**;
-- next — **Part 004 English release report**.
+- external **444→445 DEFERRED / UNRESOLVED**;
+- next — **final Part 004 closure checkpoint/documentation confirmation**.
 
 ## Current frontier
 
-**Part 004 English release report — NEXT / NOT STARTED.**
+**Final Part 004 closure checkpoint — NEXT.**

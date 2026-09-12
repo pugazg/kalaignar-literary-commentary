@@ -275,16 +275,15 @@ Part 004 has now completed source intake and the full Tamil archival workflow.
 - source-check — **COMPLETE / CLOSED 111/111**;
 - glossary reconciliation — **COMPLETE / CLOSED 111/111**;
 - editorial review — **COMPLETE / CLOSED 111/111**;
-- Part-level English review — **PASS / CLOSED**;
-- durable review — `reviews/PART_004_ENGLISH_REVIEW.md`;
-- current page state — **111 editorial-reviewed / 0 release-ready / 0 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- whole-Part inventory/alignment — **111/111 PASS**;
-- Chapter/Kural metadata — **54 records / 54 pages / 42 distinct Chapter numbers / 0 numeric mismatches**;
-- controlled labels, names, Kural blocks and page functions — **PASS**;
-- English visual-material records — **54**;
-- no English page wording/status changes during Part-level review;
-- no Tamil changes during Part-level review;
+- Part-level review — **PASS / CLOSED**;
+- release report — **APPROVED / CLOSED**;
+- current page state — **111 release-ready / 0 editorial-reviewed / 0 source-checked / 0 draft / 0 source-limited / 0 blocked**;
+- release promotion base — `b4c248ba1edd4f8eeb16cfd296fd51489ad8fca5`;
+- release promotion endpoint — `091d855a1fbe7f4588680e380ee33bea3824d036`;
+- exact release change set — **111 English page records only**, each **+1/-1**, status-token-only;
+- approved English wording changes — **0**;
+- Tamil changes — **0**;
 - scan **444 / printed 427 remains source-open**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
-The next gate is the **Part 004 English release report**. Release approval must be recorded before any page is promoted to `release-ready`. If approved, page promotion must be status-token-only and followed by an exact 111-page change-set audit.
+The next gate is the **final Part 004 closure checkpoint/documentation confirmation**. It must confirm the durable closed state without altering English page wording/status or Tamil records.

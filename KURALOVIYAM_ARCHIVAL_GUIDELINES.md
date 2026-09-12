@@ -204,18 +204,14 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 - English glossary reconciliation: **COMPLETE / CLOSED 111/111**;
 - English editorial review: **COMPLETE / CLOSED 111/111**;
 - Part-level English review: **PASS / CLOSED**;
-- durable review: `works/kuraloviyam/translations/en/reviews/PART_004_ENGLISH_REVIEW.md`;
-- current English state: **111 editorial-reviewed / 0 release-ready**;
-- whole-Part inventory/alignment: **111/111 PASS**;
-- Chapter/Kural metadata: **54 records / 54 pages / 42 distinct Chapters / 0 numeric mismatches**;
-- controlled terminology/names, Kural blocks and page functions: **PASS**;
-- English visual-material records: **54**;
-- no English page wording/status changes during Part-level review;
-- no Tamil changes during Part-level review;
+- English release: **APPROVED / CLOSED — 111/111 release-ready**;
+- exact release change set: **111 English page records only / status-token-only**;
+- English wording changes during release: **0**;
+- Tamil changes during release: **0**;
 - **333→334 CLEAN**, **366→367 genuine continuation**, **399→400 CLEAN**, **432→433 CLEAN**, **443→444 CLEAN** preserved;
 - scan **444 / printed 427 remains source-open**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
 ### Exact next content stage
 
-Create the **Part 004 English release report**. Do not promote any page before release approval. If approved, promotion must be status-token-only. Preserve the source-open endpoint and do not begin Part 005.
+Create the **final Part 004 closure checkpoint/documentation confirmation**. Do not alter page layers and do not begin Part 005.

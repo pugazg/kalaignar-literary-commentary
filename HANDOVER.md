@@ -184,22 +184,16 @@ Do not restart Pass 1. Do not resume scan-led lexical Pass 2 at scan 14.
 - English source-check: **COMPLETE / CLOSED — 111/111**;
 - English glossary reconciliation: **COMPLETE / CLOSED — 111/111**;
 - English editorial review: **COMPLETE / CLOSED — 111/111**;
-- current English state: **111 editorial-reviewed / 0 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- ER4 **433–444 / printed 416–427 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
-- ER4 wording-improvement pages: **11**;
-- ER4 status-only promotion: **1**;
-- Chapter/Kural / Kural-block changes: **0**;
-- Tamil changes: **0**;
-- **432→433 CLEAN** and **443→444 CLEAN** preserved;
+- Part-level English review: **PASS / CLOSED**;
+- English release: **APPROVED / CLOSED — 111/111 `release-ready`**;
+- release promotion base: `b4c248ba1edd4f8eeb16cfd296fd51489ad8fca5`;
+- release promotion endpoint: `091d855a1fbe7f4588680e380ee33bea3824d036`;
+- exact release change set: **111 English page records only**, each **+1/-1**, status-token-only;
+- English wording changes during release: **0**;
+- Tamil changes during release: **0**;
 - scan **444 / printed 427 remains source-open**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
-## Part 004 Part-level English review — PASS / CLOSED
-
-Durable record: `works/kuraloviyam/translations/en/reviews/PART_004_ENGLISH_REVIEW.md`.
-
-Part 004 maintained English remains **111/111 `editorial-reviewed`** and is now eligible for the release-report gate. The Part-level review changed no English page wording/status and no Tamil record. Scan 444 remains source-open; **444→445 remains DEFERRED / UNRESOLVED**.
-
 ## Exact next activity — குறளோவியம்
 
-Create the **Part 004 English release report**. Only an approved report may authorize status-token-only promotion to `release-ready`. Do not begin Part 005.
+Create the **final Part 004 closure checkpoint/documentation confirmation**. Confirm the closed Tamil state, **111/111 release-ready** English state, Part-level review PASS and release APPROVED / CLOSED without changing page layers. Preserve scan 444 as source-open and do not begin Part 005.
