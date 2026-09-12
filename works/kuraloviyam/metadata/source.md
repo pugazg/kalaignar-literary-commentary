@@ -127,7 +127,7 @@ Detailed Part 004 intake record:
 
 `works/kuraloviyam/SOURCE_INTAKE_PART_004.md`
 
-Part 004 Tamil verification through documentation synchronization is **COMPLETE**, and the Tamil archival-ready checkpoint is now **PASS / CLOSED**. Final status distribution is **111/111 textual verified + 111/111 visual verified / 0 exceptions**. The maintained project-created English workflow is now **IN PROGRESS at 66/111**: Draft Batches D1 (334–366) and D2 (367–399) are complete; **Draft Batch D3 — scans 400–432 / printed 383–415, 33 records — is next**.
+Part 004 Tamil verification through documentation synchronization is **COMPLETE**, and the Tamil archival-ready checkpoint is now **PASS / CLOSED**. Final status distribution is **111/111 textual verified + 111/111 visual verified / 0 exceptions**. The maintained project-created English workflow is now **IN PROGRESS at 99/111**: Draft Batches D1 (334–366), D2 (367–399), and D3 (400–432) are complete; **final Draft Batch D4 — scans 433–444 / printed 416–427, 12 records — is next**.
 
 ## Front-matter observations
 
