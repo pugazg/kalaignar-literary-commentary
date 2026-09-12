@@ -198,20 +198,21 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 ### Part 004 — overall scans 334–444
 
-- Tamil: **ARCHIVAL-READY / CLOSED**;
+**Tamil + maintained English: CLOSED.**
+
+- Tamil: **111/111 textual verified + 111/111 visual verified / 0 exceptions**;
 - English drafting: **COMPLETE / CLOSED 111/111**;
-- English source-check: **COMPLETE / CLOSED 111/111**;
-- English glossary reconciliation: **COMPLETE / CLOSED 111/111**;
-- English editorial review: **COMPLETE / CLOSED 111/111**;
+- source-check: **COMPLETE / CLOSED 111/111**;
+- glossary reconciliation: **COMPLETE / CLOSED 111/111**;
+- editorial review: **COMPLETE / CLOSED 111/111**;
 - Part-level English review: **PASS / CLOSED**;
 - English release: **APPROVED / CLOSED — 111/111 release-ready**;
-- exact release change set: **111 English page records only / status-token-only**;
-- English wording changes during release: **0**;
-- Tamil changes during release: **0**;
-- **333→334 CLEAN**, **366→367 genuine continuation**, **399→400 CLEAN**, **432→433 CLEAN**, **443→444 CLEAN** preserved;
+- final Part checkpoint: **PASS / CLOSED**;
+- durable final checkpoint: `works/kuraloviyam/PART_004_FINAL_CLOSURE.md`;
+- final checkpoint page changes: **0**;
 - scan **444 / printed 427 remains source-open**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
 ### Exact next content stage
 
-Create the **final Part 004 closure checkpoint/documentation confirmation**. Do not alter page layers and do not begin Part 005.
+Wait for the **Part 005 controlling source**. Only then begin Part 005 source intake, establish exact source identity and resolve **444→445** from the actual adjacent source. Do not invent a split filename or continuation.

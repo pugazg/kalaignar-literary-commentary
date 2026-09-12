@@ -179,21 +179,22 @@ Do not restart Pass 1. Do not resume scan-led lexical Pass 2 at scan 14.
 
 ## Durable Part 004 state
 
-- Tamil: **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified / 0 exceptions**;
-- English drafting: **COMPLETE / CLOSED — 111/111**;
-- English source-check: **COMPLETE / CLOSED — 111/111**;
-- English glossary reconciliation: **COMPLETE / CLOSED — 111/111**;
-- English editorial review: **COMPLETE / CLOSED — 111/111**;
-- Part-level English review: **PASS / CLOSED**;
-- English release: **APPROVED / CLOSED — 111/111 `release-ready`**;
-- release promotion base: `b4c248ba1edd4f8eeb16cfd296fd51489ad8fca5`;
-- release promotion endpoint: `091d855a1fbe7f4588680e380ee33bea3824d036`;
-- exact release change set: **111 English page records only**, each **+1/-1**, status-token-only;
-- English wording changes during release: **0**;
-- Tamil changes during release: **0**;
+**PART 004 FINAL CHECKPOINT — PASS / CLOSED.**
+
+Durable final checkpoint: `works/kuraloviyam/PART_004_FINAL_CLOSURE.md`.
+
+- Tamil — **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified / 0 exceptions**;
+- English drafting — **COMPLETE / CLOSED 111/111**;
+- source-check — **COMPLETE / CLOSED 111/111**;
+- glossary reconciliation — **COMPLETE / CLOSED 111/111**;
+- editorial review — **COMPLETE / CLOSED 111/111**;
+- Part-level English review — **PASS / CLOSED**;
+- English release report — **APPROVED / CLOSED**;
+- final English state — **111/111 `release-ready`**;
+- final checkpoint page changes — **0 English / 0 Tamil**;
 - scan **444 / printed 427 remains source-open**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
 ## Exact next activity — குறளோவியம்
 
-Create the **final Part 004 closure checkpoint/documentation confirmation**. Confirm the closed Tamil state, **111/111 release-ready** English state, Part-level review PASS and release APPROVED / CLOSED without changing page layers. Preserve scan 444 as source-open and do not begin Part 005.
+Part 004 is fully closed. The next content activity is **Part 005 source intake only when the Part 005 controlling source is supplied**. At that time, fetch live `main`, establish exact source identity, continue overall scan numbering at **445**, and resolve **444→445** from the actual adjacent source before transcription. Do not invent the Part 005 filename or continuation.

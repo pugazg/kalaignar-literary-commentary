@@ -156,51 +156,26 @@ Durable final checkpoint: `works/kuraloviyam/PART_003_FINAL_CLOSURE.md`.
 
 Part 003 Tamil and maintained English are now fully closed. English is **111/111 `release-ready`**; the Part-level review is PASS; the release report is APPROVED / CLOSED; no Tamil or English page record changed during the final checkpoint.
 
-## Part 004 — TAMIL CLOSED / ENGLISH EDITORIAL REVIEW CLOSED / PART-LEVEL REVIEW NEXT
+## Part 004 — FINAL CHECKPOINT PASS / FULLY CLOSED
 
-### Durable English state
+Durable records:
 
-- drafting — **COMPLETE / CLOSED 111/111**;
-- source-check — **COMPLETE / CLOSED 111/111**;
-- glossary reconciliation — **COMPLETE / CLOSED 111/111**;
-- editorial review — **COMPLETE / CLOSED 111/111**;
-- ER1 **334–366 / printed 317–349 — COMPLETE / PASS 33/33**;
-- ER2 **367–399 / printed 350–382 — COMPLETE / PASS 33/33**;
-- ER3 **400–432 / printed 383–415 — COMPLETE / PASS 33/33**;
-- ER4 **433–444 / printed 416–427 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
-- current page state — **111 editorial-reviewed / 0 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- ER4 wording-improvement pages — **11**: 433, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444;
-- ER4 status-only promotion — **1**: 434;
-- Chapter/Kural / Kural-block changes — **0**;
-- ER4 Tamil changes — **0**;
-- **432→433 CLEAN** and **443→444 CLEAN** preserved;
+- Tamil archival-ready — `works/kuraloviyam/PART_004_TAMIL_ARCHIVAL_READY.md`;
+- Part-level English review — `works/kuraloviyam/translations/en/reviews/PART_004_ENGLISH_REVIEW.md`;
+- English release report — `works/kuraloviyam/translations/en/reviews/PART_004_ENGLISH_RELEASE_REPORT.md`;
+- final closure — `works/kuraloviyam/PART_004_FINAL_CLOSURE.md`.
+
+Final state:
+
+- Tamil — **111/111 textual verified + 111/111 visual verified / 0 exceptions**;
+- English — **111/111 `release-ready`**;
+- Part-level review — **PASS / CLOSED**;
+- release report — **APPROVED / CLOSED**;
+- final checkpoint — **PASS / CLOSED**;
+- final checkpoint page changes — **0 English / 0 Tamil**;
 - scan **444 / printed 427 remains source-open**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
-ER4 review base: `2fb96a8988a8356b1691d044dfab5a223cbd873d`.  
-ER4 page endpoint: `a2cc56a39d4e0271038e90cdc633056706e1f7ff`.
+## Exact next activity
 
-## Part 004 Part-level English review — PASS / CLOSED
-
-Durable record: `works/kuraloviyam/translations/en/reviews/PART_004_ENGLISH_REVIEW.md`.
-
-## Part 004 English release — APPROVED / CLOSED
-
-Durable report: `works/kuraloviyam/translations/en/reviews/PART_004_ENGLISH_RELEASE_REPORT.md`.
-
-All **111** eligible Part 004 English pages are now `release-ready`.
-
-Release promotion audit:
-
-- base — `b4c248ba1edd4f8eeb16cfd296fd51489ad8fca5`;
-- endpoint — `091d855a1fbe7f4588680e380ee33bea3824d036`;
-- changed files — **111 English page records only**;
-- each file — **+1/-1**, status-token-only;
-- English wording changes — **0**;
-- Tamil changes — **0**;
-- scan **444 / printed 427 remains source-open**;
-- external **444→445 DEFERRED / UNRESOLVED**.
-
-## Exact next activity — final Part 004 closure checkpoint
-
-Create the durable final Part 004 closure checkpoint/documentation confirmation. Confirm Tamil archival closure, English **111/111 release-ready**, Part-level review PASS and release report APPROVED / CLOSED. The checkpoint must not alter page wording/status or Tamil records. Do not begin Part 005.
+Wait for the **Part 005 controlling source**. When supplied, begin Part 005 source intake at overall scan **445**, establish exact source identity and resolve **444→445** from the actual adjacent source. Do not begin transcription before intake and do not invent the Part 005 filename.

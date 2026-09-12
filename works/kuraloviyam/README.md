@@ -168,24 +168,22 @@ Durable final-status record: `PART_003_FINAL_STATUS_SYNC.md`.
 
 Durable documentation-sync record: `PART_003_DOCUMENTATION_SYNC.md`.
 
-## Part 004 — TAMIL CLOSED / ENGLISH RELEASE APPROVED
+## Part 004 — FULLY CLOSED
 
-- drafting — **COMPLETE / CLOSED 111/111**;
-- source-check — **COMPLETE / CLOSED 111/111**;
-- glossary reconciliation — **COMPLETE / CLOSED 111/111**;
-- editorial review — **COMPLETE / CLOSED 111/111**;
+**FINAL CHECKPOINT: PASS / CLOSED.**
+
+Durable final record: `PART_004_FINAL_CLOSURE.md`.
+
+- Tamil — **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified / 0 exceptions**;
+- English drafting/source-check/glossary/editorial review — **COMPLETE / CLOSED 111/111**;
 - Part-level English review — **PASS / CLOSED**;
 - English release — **APPROVED / CLOSED**;
-- durable review — `translations/en/reviews/PART_004_ENGLISH_REVIEW.md`;
-- durable release report — `translations/en/reviews/PART_004_ENGLISH_RELEASE_REPORT.md`;
-- current page status — **111 release-ready / 0 editorial-reviewed**;
-- release promotion change set — **111 English page files only, +1/-1 each, status-token-only**;
-- English wording changes — **0**;
-- Tamil changes — **0**;
+- current English state — **111/111 `release-ready`**;
+- final checkpoint page changes — **0 English / 0 Tamil**;
 - **333→334 CLEAN**, **366→367 genuine continuation**, **399→400 CLEAN**, **432→433 CLEAN**, **443→444 CLEAN** preserved;
 - scan **444 / printed 427 remains source-open**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
 ## Current frontier
 
-**Final Part 004 closure checkpoint/documentation confirmation — NEXT.**
+**Part 005 source intake — BLOCKED UNTIL THE CONTROLLING SOURCE IS SUPPLIED.**

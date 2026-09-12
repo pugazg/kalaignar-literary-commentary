@@ -420,26 +420,32 @@ ER4 page endpoint: `a2cc56a39d4e0271038e90cdc633056706e1f7ff`.
 
 ## Part 004 Part-level English review — PASS / CLOSED
 
-Durable record: `translations/en/reviews/PART_004_ENGLISH_REVIEW.md`.
-
-The whole-Part review passed inventory/alignment, all **111 editorial-reviewed** statuses, terminology, Chapter/Kural metadata, Kural blocks, visual/page functions and continuity controls.
+Durable review: `translations/en/reviews/PART_004_ENGLISH_REVIEW.md`.
 
 ## Part 004 English release — APPROVED / CLOSED
 
 Durable report: `translations/en/reviews/PART_004_ENGLISH_RELEASE_REPORT.md`.
 
 - `release-ready` — **111/111**;
-- `editorial-reviewed` — **0**;
-- exact promotion change set — **111 English page records only**;
-- every promotion diff — **+1/-1**, status-token-only;
-- English wording changes — **0**;
-- Tamil changes — **0**;
+- exact release promotion — **111 English page records only / status-token-only**;
+- English wording changes during release — **0**;
+- Tamil changes during release — **0**.
+
+## Part 004 final closure — PASS / CLOSED
+
+Durable record: `PART_004_FINAL_CLOSURE.md`.
+
+The final checkpoint confirms:
+
+- Tamil — **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified / 0 exceptions**;
+- maintained English — **RELEASE COMPLETE / CLOSED — 111/111 `release-ready`**;
+- Part-level English review — **PASS / CLOSED**;
+- English release — **APPROVED / CLOSED**;
+- final-checkpoint English page changes — **0**;
+- final-checkpoint Tamil page changes — **0**;
 - scan **444 / printed 427 remains source-open**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
-Promotion base: `b4c248ba1edd4f8eeb16cfd296fd51489ad8fca5`.  
-Promotion endpoint: `091d855a1fbe7f4588680e380ee33bea3824d036`.
-
 ## Exact next activity
 
-Create the **final Part 004 closure checkpoint/documentation confirmation**. Do not change English page wording/status or Tamil records unless a genuine contradiction is found. Preserve the source-open endpoint and do not begin Part 005.
+Part 004 has no remaining activity. Begin **Part 005 source intake only when its controlling source is supplied**.
