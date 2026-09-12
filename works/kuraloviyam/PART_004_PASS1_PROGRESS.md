@@ -323,30 +323,27 @@ Part 004 Pass 2B is now **COMPLETE / PASS — 111/111** after Pass 2A closed at 
 
 Part 004 Pass 3 meaningful visual/text verification is now **IN PROGRESS** after Pass 2B closed at **111/111 COMPLETE / PASS**.
 
-- Pass 3 Batch 1 — scans **334–344 / printed 317–327 — COMPLETE 11/11**;
-- Batch 1 structural/visual-description corrections: scans **336 and 342**;
-- Pass 3 Batch 2 — scans **345–355 / printed 328–338 — COMPLETE 11/11**;
-- Batch 2 structural/visual-description correction: scan **348**;
-- Pass 3 Batch 3 — scans **356–366 / printed 339–349 — COMPLETE 11/11**;
-- Batch 3 structural/visual-description corrections: **none**;
-- Pass 3 Batch 4 — scans **367–377 / printed 350–360 — COMPLETE 11/11**;
-- Batch 4 structural/visual-description corrections: **none**;
-- Pass 3 Batch 5 — scans **378–388 / printed 361–371 — COMPLETE 11/11**;
-- Batch 5 structural/visual-description correction: scan **388**;
-- Pass 3 Batch 6 — scans **389–399 / printed 372–382 — COMPLETE 11/11**;
-- Batch 6 structural/visual-description correction: scan **398**;
-- Batch 6 no-change: scans **389–397, 399**;
-- lexical body-text changes in Pass 3 Batches 1–6: **0**;
-- status promotions in Pass 3 Batches 1–6: **0**;
-- incoming **388→389 genuine continuation** preserved and closed on scan 389 with Chapter 3 / Kural 22;
-- outgoing **399→400 CLEAN** reconfirmed from scan 400 witness; scan 400 begins a new illustrated speculative visitors-from-another-world vignette;
+- Pass 3 Batches 1–6 used the earlier **11-scan** cadence;
+- user-directed cadence from Batch 7 onward: **30 physical scans per normal iteration**, with a shorter final remainder when fewer than 30 remain;
+- Pass 3 Batch 1 — scans **334–344 / printed 317–327 — COMPLETE 11/11**; corrections **336, 342**;
+- Pass 3 Batch 2 — scans **345–355 / printed 328–338 — COMPLETE 11/11**; correction **348**;
+- Pass 3 Batch 3 — scans **356–366 / printed 339–349 — COMPLETE 11/11**; corrections **none**;
+- Pass 3 Batch 4 — scans **367–377 / printed 350–360 — COMPLETE 11/11**; corrections **none**;
+- Pass 3 Batch 5 — scans **378–388 / printed 361–371 — COMPLETE 11/11**; correction **388**;
+- Pass 3 Batch 6 — scans **389–399 / printed 372–382 — COMPLETE 11/11**; correction **398**;
+- Pass 3 Batch 7 — scans **400–429 / printed 383–412 — COMPLETE 30/30**; correction **416**;
+- Batch 7 no-change: scans **400–415, 417–429**;
+- lexical body-text changes in Pass 3 Batches 1–7: **0**;
+- status promotions in Pass 3 Batches 1–7: **0**;
+- incoming **399→400 CLEAN** preserved;
+- outgoing **429→430 genuine continuation** reconfirmed from scan 430 witness; scan 430 continues and closes the Arima/Parithi restraint-before-battle vignette with Chapter 49 / Kural 486;
 - dedicated Pass-3 log: `PASS3_VISUAL_TEXT_VERIFICATION_PART_004.md`;
-- current Pass 3 coverage: **66/111**;
-- remaining Pass 3: **45**;
+- current Pass 3 coverage: **96/111**;
+- remaining Pass 3: **15**;
 - all page records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`;
 - Part audit remains blocked until Pass 3 reaches **111/111**;
 - **444→445 remains DEFERRED / UNRESOLVED** until Part 005 source intake.
 
 ## Exact next activity
 
-Proceed with **Part 004 Pass 3 Batch 7 — scans 400–410 / printed 383–393 (11 scans)**. Scan 400 now receives full Pass-3 verification after serving only as the Batch-6 outgoing witness. Verify illustration/text order and relationship, Kural/quotation block placement and lineation, page furniture versus body text, source/non-source separation, and physical continuation directly against freshly rendered source pages. Inspect scan **411 / printed 394** only as the outgoing boundary witness. Do not promote page statuses, start the Part audit, or begin Part 005.
+Proceed with the **final Part 004 Pass 3 remainder — scans 430–444 / printed 413–427 (15 scans)**. Scan 430 now receives full Pass-3 verification after serving only as the Batch-7 outgoing witness. Verify meaningful visual/text organization directly against freshly rendered source pages. There is no outgoing scan-445 witness in the supplied source; preserve **444→445 DEFERRED / UNRESOLVED**. Do not start the Part audit in the same iteration unless separately instructed.
