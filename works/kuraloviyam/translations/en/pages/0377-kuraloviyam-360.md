@@ -6,14 +6,14 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
 —was tasting their swelling, flourishing limbs. The clothes that remained clung close to their bodies, fully revealing nature's creation.
 
-The monastic head's eyes sprang toward the waterfall. He did not lower and close his eyelids to bar their way. He let his eyes fly freely. More powerful than they, his heart fitted itself with strong wings and flew toward the waterfall. The rudraksha beads in his hand stopped rolling. His fingers became still. His lips no longer uttered the name of God.
+The monastic head's eyes sprang toward the waterfall. He did not lower and close his eyelids to bar their way. He let his eyes fly freely. His heart, with wings stronger than his eyes, flew toward the waterfall. The rudraksha beads in his hand stopped rolling. His fingers became still. His lips no longer uttered the name of God.
 
 “Hey! Stop the palanquin! We must rest a while. Sleep is embracing my eyes,” he ordered the bearers. The bearers stopped. They too looked toward the waterfall. They understood the monastic head's state of mind. They lowered the palanquin. He kept staring at the waterfall. One of the bearers ground his teeth, but could not show his anger openly.
 

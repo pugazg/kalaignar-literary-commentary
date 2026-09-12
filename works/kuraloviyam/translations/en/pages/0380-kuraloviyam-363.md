@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,7 +19,7 @@ Kalaivaanar shone in the artistic world of Tamil Nadu in this century as a man o
 
 His life was founded on the path of rationalism. His great desire was to clear away superstitions and set people walking along the road of progress.
 
-Like a medical method that mixes medicine with honey, he planted bitter truths in people's minds through the sweetness of his power of speech.
+Like medicine mixed with honey, he planted bitter truths in people's minds through the sweetness of his speech.
 
 He cared deeply about cultivating people without wounding anyone's heart.
 

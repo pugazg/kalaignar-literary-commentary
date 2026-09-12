@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-The body of a man who had died was being carried to the burial ground. A great crowd followed. An old man, weakened in body and sitting on the veranda, called his grandson and said, “Hey! Run and find out where that dead man is going!” The boy ran off and soon returned.
+A dead man's body was being carried to the burial ground. A great crowd followed. An old man, weakened in body and sitting on the veranda, called his grandson and said, “Hey! Run and find out where that dead man is going!” The boy ran off and soon returned.
 
 “Grandfather! He is going to hell,” he said.
 
@@ -27,7 +27,7 @@ The old woman sitting nearby pounding betel and areca nut—the old man's wife�
 
 After saying this, the grandson looked at his grandmother. Her face blossomed. The old man told the old woman:
 
-“There are no separate places called heaven and hell. It depends upon the praise or blame a person leaves behind after life.”
+“There are no separate places called heaven and hell. It depends upon the praise or blame a person leaves behind after death.”
 
 The grandson also explained to his grandmother the Thirukkural interpretation his grandfather had taught him, and won her praise.
 
