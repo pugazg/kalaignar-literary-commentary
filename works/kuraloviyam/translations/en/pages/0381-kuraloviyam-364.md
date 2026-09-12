@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-The body of a man who had died was being carried to the cremation ground. A great crowd followed. An old man, weakened in body and sitting on the veranda, called his grandson and said, “Hey! Run and find out where that dead man is going!” The boy ran off and soon returned.
+The body of a man who had died was being carried to the burial ground. A great crowd followed. An old man, weakened in body and sitting on the veranda, called his grandson and said, “Hey! Run and find out where that dead man is going!” The boy ran off and soon returned.
 
 “Grandfather! He is going to hell,” he said.
 
