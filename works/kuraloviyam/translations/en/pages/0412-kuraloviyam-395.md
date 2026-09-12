@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -25,6 +25,6 @@ Khrushchev reportedly looked angrily at the man who asked. The questioner fell s
 
 Then Khrushchev calmly replied, “That is exactly what I too was doing.”
 
-Such reports used to come during the Khrushchev period.
+Reports like this circulated during the Khrushchev period.
 
 <!-- Source scan page: 412; printed page: 395; Stalin/Khrushchev anecdote begins; genuine continuation to scan 413 -->

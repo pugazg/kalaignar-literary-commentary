@@ -6,14 +6,14 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
 In Moscow's Red Square, Lenin's body and, nearby, Stalin's body had been preserved and displayed. Because of Khrushchev's hostility toward Stalin, he ordered that Stalin's preserved body be removed. The order was carried out immediately.
 
-Stalin's names, symbols and statues were for the most part erased or removed.
+Stalin's name, symbols and statues were for the most part erased or removed.
 
 Khrushchev, who had done all this, was himself removed from office by members of his own party within a year or two.
 

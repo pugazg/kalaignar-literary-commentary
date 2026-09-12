@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -26,7 +26,7 @@ She did not move. She controlled herself, neither approaching him nor allowing h
 
 That young woman taught Tamil lessons to schoolchildren. He was the accountant in the landlord's household of that village. By the roadside, beside the river, near the temple wall—their four eyes had already collided and been wounded. Even so, she gave him no easy opportunity. He too refused to give up.
 
-Her own heart would sometimes look toward the sky with a sigh: “Will he not come? Will he not come and give the boon I want?” Yet when he came near, she became like burning fire.
+At times she would look skyward and sigh: “Will he not come? Will he not come and give the boon I want?” Yet when he came near, she became like burning fire.
 
 That day school ended. The children ran home like sparrows and doves flying away. The teachers too walked toward their houses. She went along the street. His work in the landlord's house finished, he followed behind her.
 
