@@ -168,7 +168,7 @@ Durable final-status record: `PART_003_FINAL_STATUS_SYNC.md`.
 
 Durable documentation-sync record: `PART_003_DOCUMENTATION_SYNC.md`.
 
-## Part 004 — SOURCE INTAKE PASS / COMPLETE
+## Part 004 — PASS 3 COMPLETE / PART AUDIT NEXT
 
 Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf`.
 
@@ -179,12 +179,19 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_
 - SHA-256: `5b7fcc65f19dc3d2a57bebb13cdfb02d0c83f70a5ccc9e537886790908674581`;
 - parsed text: **none usable**;
 - incoming **333→334: CLEAN / source-resolved**;
-- Pass 1 page records: **0/111**;
-- outgoing **444→445: deferred until Part 005 source intake**.
+- Pass 1: **COMPLETE 111/111**;
+- Pass 2A: **COMPLETE / PASS 111/111**;
+- Pass 2B: **COMPLETE / PASS 111/111**;
+- Pass 3: **COMPLETE / PASS 111/111**;
+- Pass-3 visual-note corrections: **336, 342, 348, 388, 398, 416**;
+- Part audit: **NEXT / UNBLOCKED**;
+- all 111 records remain pre-final `needs-review` / `visual_fidelity: needs-review`;
+- outgoing **444→445: DEFERRED / UNRESOLVED** until Part 005 source intake.
 
 Durable intake: `SOURCE_INTAKE_PART_004.md`.  
-Pass-1 tracker: `PART_004_PASS1_PROGRESS.md`.
+Progress tracker: `PART_004_PASS1_PROGRESS.md`.  
+Pass-3 record: `PASS3_VISUAL_TEXT_VERIFICATION_PART_004.md`.
 
 ## Current frontier
 
-**Next activity: Part 004 Pass 1 P4-01 — scans 334–344 / printed 317–327, 11 physical scans.** Parts 001–003 remain closed. Do not infer or begin Part 005.
+**Next activity: Part 004 Part audit — scans 334–444 / printed 317–427.** Parts 001–003 remain closed. Do not perform final status promotion or begin Part 005 until the audit is separately completed.
