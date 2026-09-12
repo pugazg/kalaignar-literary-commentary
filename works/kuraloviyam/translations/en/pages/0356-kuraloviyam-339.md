@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,8 +19,8 @@ A natural forest spilling beauty everywhere! Herds of deer bounding about! Peaco
 
 One of the rocks there gave Paavai shelter from anyone's eyes. Yes—Paavai was her name! Hidden behind the rock, whom was she searching for; whom else would she search for?
 
-The young poet Poonkundran was to come at the appointed time. It was because he had not arrived that she was suffering. This was their accustomed field of love.
+The young poet Poonkundran was to come at the appointed time. It was because he had not arrived that she was suffering. This was their customary meeting place for love.
 
-If the trees, plants and creepers there, the mountain rocks, the falling waterfall, the squirrel, parrot, dove, cuckoo and peacock had been blessed with the gift of writing, they would have created epics of love surpassing even Kamban and Ilango.
+If the trees, plants and creepers there, the mountain rocks, the cascading waterfall, the squirrel, parrot, dove, cuckoo and peacock had been blessed with the gift of writing, they would have created epics of love surpassing even Kamban and Ilango.
 
 <!-- Source scan page: 356; printed page: 339; Paavai/Poonkundran forest-lovers vignette begins; genuine continuation to scan 357 -->

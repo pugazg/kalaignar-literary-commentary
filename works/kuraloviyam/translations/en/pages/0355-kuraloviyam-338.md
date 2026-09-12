@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -21,9 +21,9 @@ Before he could finish, the elder of the village began to speak with a hearty la
 
 “You all know that a young man named Oliyazhagan is a son of our village, do you not? He has travelled the seas in trade, amassed great wealth and become a prosperous merchant. Oliyazhagan is even related to our Karmegam! He does not come looking for any quarrel with Karmegam. He is building a large house in the neighbouring village, spending a great sum on it.
 
-Karmegam cannot bear the jealousy of seeing a young man who once moved about poor before his very eyes now flourishing as a great merchant. Without realizing it, he opened his burning heart to me. The fire of envy is scorching his chest.
+Karmegam cannot bear seeing a young man who once lived in poverty before his very eyes now flourishing as a great merchant. Without realizing it, he opened his burning heart to me. The fire of envy is scorching his chest.
 
-If it were some stranger, there might not be such jealousy! When a relative himself has surpassed him in wealth and lives with many distinctions, men of mustard-seed hearts like Karmegam cannot bear it.
+If it were some stranger, there might not be such jealousy! When a relative himself has surpassed him in wealth and lives with many distinctions, men with hearts as small as mustard seeds, like Karmegam, cannot bear it.
 
 That is why he is withering and wasting away. No enemies are trying to harm him! The envy within him is itself his enemy. He needs no other enemy to bring him ruin.”
 
