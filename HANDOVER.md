@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 004 English glossary reconciliation 99/111; final GR4 scans 433–444 next**: **2026-09-12**.
+Last refreshed for Kuraloviyam **Part 004 English glossary reconciliation COMPLETE / CLOSED 111/111; editorial review ER1 scans 334–366 next**: **2026-09-12**.
 
 ## Repository
 
@@ -182,13 +182,22 @@ Do not restart Pass 1. Do not resume scan-led lexical Pass 2 at scan 14.
 - Tamil: **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified / 0 exceptions**;
 - English drafting: **COMPLETE / CLOSED — 111/111**;
 - English source-check: **COMPLETE / CLOSED — 111/111**;
-- English glossary reconciliation: **IN PROGRESS — 99/111**;
+- English glossary reconciliation: **COMPLETE / CLOSED — 111/111**;
+- GR1 **334–366 — COMPLETE / PASS 33/33**;
+- GR2 **367–399 — COMPLETE / PASS 33/33**;
+- GR3 **400–432 — COMPLETE / PASS 33/33**;
+- GR4 **433–444 / printed 416–427 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
 - current English state: **111 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- GR3 terminology corrections: **scans 425, 426, 429**;
-- page-status changes during GR3: **0**;
-- **432→433 CLEAN** preserved;
-- external **444→445 DEFERRED / UNRESOLVED**.
+- GR4 Chapter/Kural audit: **5 records / 0 numeric mismatches**;
+- GR4 English page wording corrections: **0 page files**;
+- GR4 exact change set: **1 file — `works/kuraloviyam/translations/en/GLOSSARY.md` only**;
+- GR4 page-status changes: **0**;
+- GR4 Tamil changes: **0**;
+- **432→433 CLEAN** and **443→444 CLEAN** preserved;
+- scan **444 / printed 427 remains source-open**;
+- external **444→445 DEFERRED / UNRESOLVED**;
+- Part 004 English editorial review: **NOT STARTED / UNBLOCKED**.
 
 ## Exact next activity — குறளோவியம்
 
-Process **Part 004 English glossary reconciliation GR4 final remainder — scans 433–444 / printed 416–427, 12 pages**. Keep page statuses unchanged, preserve scan 444 as source-open, do not alter Tamil records, and do not begin Part 005.
+Process **Part 004 English editorial review ER1 — scans 334–366 / printed 317–349, 33 pages**. Use audited Tamil plus `GLOSSARY.md`; make only source-faithful editorial improvements and promote only passing pages from `source-checked` to `editorial-reviewed`. Do not alter Tamil records and do not begin Part 005.
