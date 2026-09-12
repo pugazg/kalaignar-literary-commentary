@@ -325,18 +325,20 @@ Part 004 Pass 3 meaningful visual/text verification is now **IN PROGRESS** after
 
 - Pass 3 Batch 1 — scans **334–344 / printed 317–327 — COMPLETE 11/11**;
 - Batch 1 structural/visual-description corrections: scans **336 and 342**;
-- Batch 1 no-change: scans **334–335, 337–341, 343–344**;
-- lexical body-text changes in Pass 3 Batch 1: **0**;
-- status promotions in Pass 3 Batch 1: **0**;
-- incoming **333→334 CLEAN** preserved;
-- outgoing **344→345 genuine continuation** reconfirmed from scan 345 witness;
+- Pass 3 Batch 2 — scans **345–355 / printed 328–338 — COMPLETE 11/11**;
+- Batch 2 structural/visual-description correction: scan **348**;
+- Batch 2 no-change: scans **345–347, 349–355**;
+- lexical body-text changes in Pass 3 Batches 1–2: **0**;
+- status promotions in Pass 3 Batches 1–2: **0**;
+- incoming **344→345 genuine continuation** preserved;
+- outgoing **355→356 CLEAN** reconfirmed from scan 356 witness; scan 356 begins a new illustrated Paavai/Poonkundran forest-lovers vignette;
 - dedicated Pass-3 log: `PASS3_VISUAL_TEXT_VERIFICATION_PART_004.md`;
-- current Pass 3 coverage: **11/111**;
-- remaining Pass 3: **100**;
+- current Pass 3 coverage: **22/111**;
+- remaining Pass 3: **89**;
 - all page records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`;
 - Part audit remains blocked until Pass 3 reaches **111/111**;
 - **444→445 remains DEFERRED / UNRESOLVED** until Part 005 source intake.
 
 ## Exact next activity
 
-Proceed with **Part 004 Pass 3 Batch 2 — scans 345–355 / printed 328–338 (11 scans)**. Verify illustration/text order and relationship, Kural/quotation block placement and lineation, page furniture versus body text, source/non-source separation, and physical continuation directly against freshly rendered source pages. Inspect scan **356 / printed 339** only as the outgoing boundary witness. Do not promote page statuses, start the Part audit, or begin Part 005.
+Proceed with **Part 004 Pass 3 Batch 3 — scans 356–366 / printed 339–349 (11 scans)**. Verify illustration/text order and relationship, Kural/quotation block placement and lineation, page furniture versus body text, source/non-source separation, and physical continuation directly against freshly rendered source pages. Inspect scan **367 / printed 350** only as the outgoing boundary witness. Do not promote page statuses, start the Part audit, or begin Part 005.
