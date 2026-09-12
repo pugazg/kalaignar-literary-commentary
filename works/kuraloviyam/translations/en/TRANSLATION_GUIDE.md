@@ -273,13 +273,18 @@ Part 004 has now completed source intake and the full Tamil archival workflow.
 - Tamil — **ARCHIVAL-READY / CLOSED**;
 - English drafting — **COMPLETE / CLOSED 111/111**;
 - source-check — **COMPLETE / CLOSED 111/111**;
-- glossary reconciliation — **IN PROGRESS 99/111**;
+- glossary reconciliation — **COMPLETE / CLOSED 111/111**;
 - GR1 **334–366 — COMPLETE / PASS 33/33**;
 - GR2 **367–399 — COMPLETE / PASS 33/33**;
 - GR3 **400–432 — COMPLETE / PASS 33/33**;
+- GR4 **433–444 / printed 416–427 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
 - current page state — **111 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- GR3 terminology corrections — **3 page files**;
-- exact next batch — **GR4 final remainder scans 433–444 / printed 416–427 — 12 pages**;
-- external **444→445 DEFERRED / UNRESOLVED**.
+- GR4 English page wording corrections — **0 page files**;
+- GR4 page-status changes — **0**;
+- GR4 Tamil changes — **0**;
+- scan **444 / printed 427 remains source-open**;
+- external **444→445 DEFERRED / UNRESOLVED**;
+- editorial review — **NOT STARTED / UNBLOCKED**;
+- exact next batch — **ER1 scans 334–366 / printed 317–349 — 33 pages**.
 
-Glossary reconciliation remains terminology-only: use audited Tamil + `GLOSSARY.md`, make only source-supported corrections, preserve page status, and do not perform general stylistic rewriting.
+Glossary reconciliation is closed. The next maintained gate is editorial review: review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and continuity; consult audited Tamil whenever a change may affect meaning; make only source-faithful improvements; promote only passing pages from `source-checked` to `editorial-reviewed`.
