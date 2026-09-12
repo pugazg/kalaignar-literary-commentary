@@ -156,29 +156,70 @@ Durable final checkpoint: `works/kuraloviyam/PART_003_FINAL_CLOSURE.md`.
 
 Part 003 Tamil and maintained English are now fully closed. English is **111/111 `release-ready`**; the Part-level review is PASS; the release report is APPROVED / CLOSED; no Tamil or English page record changed during the final checkpoint.
 
-## Part 004 source intake — PASS / COMPLETE
+## Part 004 — ACTIVE / Pass 3 in progress
 
 Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf`.
 
 - 111 local pages / overall scans **334–444** / visible printed **317–427**;
 - 91,513,473 bytes;
 - SHA-256 `5b7fcc65f19dc3d2a57bebb13cdfb02d0c83f70a5ccc9e537886790908674581`;
-- no usable parsed text layer;
+- no usable parsed text layer; rendered source scans control;
 - incoming **333→334 CLEAN / source-resolved**;
-- Part 004 Pass 1: **0/111**;
-- external **444→445 deferred** until Part 005 intake.
+- external **444→445 DEFERRED / UNRESOLVED** until Part 005 intake.
 
-Durable intake: `works/kuraloviyam/SOURCE_INTAKE_PART_004.md`.  
-Pass-1 tracker: `works/kuraloviyam/PART_004_PASS1_PROGRESS.md`.
+### Durable gate state
 
-## Exact next activity — Part 004 Pass 1 P4-01
+- source intake — **PASS / COMPLETE**;
+- Pass 1 physical capture — **COMPLETE 111/111**;
+- Pass 2A direct textual verification — **COMPLETE / PASS 111/111**;
+- Pass 2B independent lexical-fidelity re-read — **COMPLETE / PASS 111/111**;
+- Pass 3 meaningful visual/text verification — **IN PROGRESS 44/111** through scan **377 / printed 360**;
+- remaining Pass 3 — **67 scans**;
+- Part audit — **BLOCKED** until Pass 3 reaches **111/111**;
+- final metadata/status synchronization — **BLOCKED**;
+- Tamil archival-ready checkpoint — **BLOCKED**;
+- all Part-004 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
 
-Process **scans 334–344 / printed 317–327 — 11 page-aligned Tamil records**.
+### Pass 3 completed batches
 
-1. fetch live `main` and preserve Parts 001–003 closure plus this intake;
-2. resolve the supplied Part 004 PDF and render scans directly;
-3. create exactly one record for each scan 334–344 with correct `part: 4`, `part_page: 1–11`, printed page, source filename, `status: "needs-review"`, and `visual_fidelity: "needs-review"`;
-4. preserve source wording, paragraph boundaries, Kural blocks, visual/page-furniture relationships and cross-page continuities;
-5. inspect scan **345 / printed 328** only as a boundary witness if required;
-6. update `PART_004_PASS1_PROGRESS.md` and live frontier controls, then audit the changed-file set;
-7. do not start Pass 2A until all 111 Part-004 Pass-1 pages are captured; do not begin Part 005.
+- Batch 1 — **334–344 / printed 317–327 — COMPLETE 11/11**; structural/visual-note corrections on scans **336, 342**;
+- Batch 2 — **345–355 / printed 328–338 — COMPLETE 11/11**; structural/visual-note correction on scan **348**;
+- Batch 3 — **356–366 / printed 339–349 — COMPLETE 11/11**; **0** structural corrections;
+- Batch 4 — **367–377 / printed 350–360 — COMPLETE 11/11**; **0** structural corrections;
+- lexical body-text changes in Pass 3 Batches 1–4 — **0**;
+- status promotions in Pass 3 Batches 1–4 — **0**;
+- outgoing **377→378 CLEAN**; scan 378 begins a new illustrated domestic-lovers vignette.
+
+Durable records:
+
+- `works/kuraloviyam/SOURCE_INTAKE_PART_004.md`;
+- `works/kuraloviyam/PART_004_PASS1_PROGRESS.md`;
+- `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_004.md`;
+- `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_004.md`;
+- `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_004.md`.
+
+## Permanent batch-frontier synchronization rule
+
+After **every completed Kuraloviyam batch**, do not stop until all of these are synchronized to the same next frontier:
+
+1. the relevant Pass/gate log;
+2. the current Part progress/frontier tracker;
+3. this `works/kuraloviyam/HANDOVER.md`;
+4. root `NEXT_CHAT_PROMPT_KURALOVIYAM.md`.
+
+At a **phase transition**, also refresh root `HANDOVER.md`, and update the work README/page-map where the phase/status overview changes. The final documentation-sync gate is a closure audit, not a reason to leave the live handover stale during active work.
+
+## Exact next activity — Part 004 Pass 3 Batch 5
+
+Process **scans 378–388 / printed 361–371 — 11 physical scans**.
+
+1. fetch live `main` and preserve any newer durable Kuraloviyam work;
+2. use the exact Part 004 controlling PDF and inspect the rendered source directly;
+3. perform Pass-3 meaningful visual/text verification only — illustration/text order and relationship, heading hierarchy, Kural/quotation block placement and lineation, page furniture versus body text, source/non-source separation and physical continuation;
+4. do not normalize settled wording or perform another lexical reread unless a genuinely new direct-source issue is independently established;
+5. inspect scan **389 / printed 372** only as the outgoing boundary witness;
+6. keep page statuses at `needs-review` / `visual_fidelity: needs-review`;
+7. update the Pass-3 log, Part-004 tracker, this handover and `NEXT_CHAT_PROMPT_KURALOVIYAM.md` before stopping;
+8. audit the exact changed-file set and fetch final live `main`.
+
+Do **not** start the Part audit until Pass 3 reaches **111/111**. Do **not** begin Part 005 or infer **444→445**.
