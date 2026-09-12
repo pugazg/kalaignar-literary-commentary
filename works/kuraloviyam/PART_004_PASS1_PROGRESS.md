@@ -379,15 +379,16 @@ Part 004 Tamil is closed at **111/111 textual verified + 111/111 visual verified
 
 First-pass drafting is **COMPLETE / CLOSED — 111/111**.
 
-- D1 **334–366 — 33/33**;
-- D2 **367–399 — 33/33**;
-- D3 **400–432 — 33/33**;
-- D4 **433–444 — 12/12 FINAL REMAINDER**;
-- current English state — **111 draft / 0 source-checked / 0 source-limited / 0 blocked**;
-- D4 page-only audit — exactly **12 English page records added / 0 Tamil changes**;
-- scan 444 remains source-open;
-- external **444→445 DEFERRED / UNRESOLVED**.
+English source-check is **IN PROGRESS — 33/111**.
+
+- SC1 **334–366 / printed 317–349 — COMPLETE 33/33**;
+- current English state — **33 source-checked + 78 draft / 0 source-limited / 0 blocked**;
+- SC1 page audit — **exactly 33 expected files / 0 missing / 0 unexpected**;
+- fidelity wording corrections — **1**, scan **343**;
+- all other SC1 pages — status-only;
+- Tamil changes — **0**;
+- outgoing **366→367 genuine continuation** preserved.
 
 ## Exact next activity
 
-Process **Part 004 English source-check SC1 — scans 334–366 / printed 317–349, 33 page pairs**. Correct only source-fidelity defects and promote passing English pages to `source-checked`. Do not begin Part 005.
+Process **Part 004 English source-check SC2 — scans 367–399 / printed 350–382, 33 page pairs**. Do not begin Part 005.

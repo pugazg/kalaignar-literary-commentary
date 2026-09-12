@@ -156,24 +156,22 @@ Durable final checkpoint: `works/kuraloviyam/PART_003_FINAL_CLOSURE.md`.
 
 Part 003 Tamil and maintained English are now fully closed. English is **111/111 `release-ready`**; the Part-level review is PASS; the release report is APPROVED / CLOSED; no Tamil or English page record changed during the final checkpoint.
 
-## Part 004 — TAMIL CLOSED / ENGLISH SOURCE-CHECK SC1 NEXT
+## Part 004 — TAMIL CLOSED / ENGLISH SOURCE-CHECK SC2 NEXT
 
 ### Durable English state
 
 - first-pass drafting — **COMPLETE / CLOSED 111/111**;
-- D1 **334–366 — 33/33**;
-- D2 **367–399 — 33/33**;
-- D3 **400–432 — 33/33**;
-- D4 **433–444 — 12/12 FINAL REMAINDER**;
-- current English status — **111 draft / 0 source-checked / 0 source-limited / 0 blocked**;
-- D4 page-only audit — **exactly 12 added English page records / 0 Tamil changes**;
-- source-check — **NEXT / UNBLOCKED**;
+- source-check — **IN PROGRESS 33/111**;
+- SC1 **334–366 / printed 317–349 — COMPLETE 33/33**;
+- current English state — **33 source-checked + 78 draft / 0 source-limited / 0 blocked**;
+- SC1 fidelity correction — **1**, scan **343**;
+- SC1 Tamil changes — **0**;
+- **366→367 genuine continuation** preserved;
 - glossary reconciliation and later gates — **BLOCKED until source-check closes**;
-- scan 444 remains source-open;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
-## Exact next activity — Part 004 English source-check SC1
+## Exact next activity — Part 004 English source-check SC2
 
-Process **scans 334–366 / printed 317–349 — 33 page pairs**.
+Process **scans 367–399 / printed 350–382 — 33 page pairs**.
 
-Compare English against audited Tamil paragraph-by-paragraph / block-by-block. Correct only source-fidelity defects, preserve page boundaries and visual/Kural functions, and promote each passing English page to `source-checked`. Do not alter Tamil records or begin Part 005.
+Compare English against audited Tamil, correct only fidelity defects, promote passing pages to `source-checked`, preserve cross-page continuity and do not alter Tamil records or begin Part 005.

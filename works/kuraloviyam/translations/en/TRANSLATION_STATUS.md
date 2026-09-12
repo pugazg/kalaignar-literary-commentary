@@ -279,33 +279,40 @@ Incoming **333→334 CLEAN / source-resolved**. External **444→445 DEFERRED / 
 
 ## Part 004 English first-pass drafting — COMPLETE / CLOSED
 
-Draft cadence was **33 physical scans per normal iteration**, with a **12-page final remainder**.
+- D1 **334–366 — 33/33**;
+- D2 **367–399 — 33/33**;
+- D3 **400–432 — 33/33**;
+- D4 **433–444 — 12/12 final remainder**;
+- cumulative drafting — **111/111 COMPLETE**.
 
-- D1 **334–366 / printed 317–349 — COMPLETE 33/33**;
-- D2 **367–399 / printed 350–382 — COMPLETE 33/33**;
-- D3 **400–432 / printed 383–415 — COMPLETE 33/33**;
-- D4 **433–444 / printed 416–427 — COMPLETE 12/12 / FINAL REMAINDER**;
-- cumulative drafting — **111/111 COMPLETE**;
-- current English state — **111 `draft` / 0 source-checked / 0 source-limited / 0 blocked**;
-- Tamil archival page changes during drafting — **0**;
-- published/standard/web English Kural wording imported — **0**.
+## Part 004 English source-check — IN PROGRESS
 
-D4 page commit:
+### SC1 — COMPLETE 33/33
 
-- `b077e0f5c50cbdd46a562a60af87b7a07964ee83` — scans **433–444**.
+- scans **334–366 / printed 317–349**;
+- cumulative source-check — **33/111**;
+- current English state — **33 `source-checked` + 78 `draft` / 0 source-limited / 0 blocked**;
+- remaining source-check pages — **78**;
+- Tamil archival page changes — **0**;
+- external/published/standard English Kural wording imported — **0**;
+- outgoing **366→367 genuine continuation** preserved.
 
-D4 page-only audit from `ac13f0356657985422d8deac527d3e27675a1f92` to `b077e0f5c50cbdd46a562a60af87b7a07964ee83` contains exactly **12 added English page records**, scans **433–444**, with **0 unexpected files and 0 missing expected files**. No Tamil page or Tamil metadata file changed.
+Source-check commits:
 
-The final range preserves **432→433 CLEAN** and **443→444 CLEAN**. Scan **444 / printed 427** begins a royal/court famine-granary narrative and visibly remains open at the supplied Part endpoint. External **444→445 remains DEFERRED / UNRESOLVED**; no continuation was inferred.
+- `228978c756c26b3485c71e20a5dd9d5bf8bdbb9f` — scans **334–344**;
+- `c9833a4789d3c2bc7f1a5236ab4810d27f239173` — scans **345–355**;
+- `69ba2fa78996cc1b7833de7f7357d94103c9c51e` — scans **356–366**.
 
-## Part 004 English source-check — NEXT / NOT STARTED
+SC1 audit from `faae39910db9b97f77154944aac2f28352411dcc` to `69ba2fa78996cc1b7833de7f7357d94103c9c51e` contains exactly **33 expected English page files**, scans **334–366**, with **0 missing and 0 unexpected files**.
 
-Source-check cadence: **33 physical scans per normal iteration**, with the same final 12-page remainder pattern if the gate proceeds without blockers.
+SC1 made exactly **one source-fidelity wording correction**:
 
-Exact next batch:
+- scan **343 / printed 326** — the audited Tamil says `மகிழ்ச்சியோடு ஏற்றுக்கொண்டான்`; English changed **“accepted death with courage” → “accepted death with joy”**.
 
-**SC1 — scans 334–366 / printed 317–349 — 33 English/Tamil page pairs.**
+The other **32 pages were status-only promotions** from `draft` to `source-checked`.
 
-For each page, compare the project English record against its audited Tamil counterpart paragraph-by-paragraph / block-by-block, correct only source-fidelity defects, preserve page alignment/visual/non-body functions/Kural blocks, then promote `status: "draft"` → `status: "source-checked"` only after the page passes.
+## Exact next English activity
 
-Do not reopen Tamil archival text routinely, do not import external English Kural wording, and do not begin Part 005.
+Process **SC2 — scans 367–399 / printed 350–382 — 33 English/Tamil page pairs**.
+
+Compare page-by-page against audited Tamil, correct only fidelity defects, promote each passing English page to `source-checked`, and preserve all established continuities. Do not alter Tamil records or begin Part 005.

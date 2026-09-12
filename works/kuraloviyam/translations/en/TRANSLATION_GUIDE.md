@@ -272,22 +272,14 @@ Part 004 has now completed source intake and the full Tamil archival workflow.
 
 Part 004 covers scans **334–444 / printed 317–427**.
 
-- Tamil: **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified / 0 exceptions**;
-- English first-pass drafting: **COMPLETE / CLOSED — 111/111**;
-- D1 **334–366 — 33/33**;
-- D2 **367–399 — 33/33**;
-- D3 **400–432 — 33/33**;
-- D4 **433–444 — 12/12 final remainder**;
-- current English state: **111 draft / 0 source-checked / 0 source-limited / 0 blocked**;
-- source-check: **NEXT / NOT STARTED**;
-- first source-check batch: **SC1 scans 334–366 / printed 317–349 — 33 records**;
-- scan 444 remains source-open;
+- Tamil — **ARCHIVAL-READY / CLOSED**;
+- English drafting — **COMPLETE / CLOSED 111/111**;
+- source-check — **IN PROGRESS 33/111**;
+- SC1 **334–366 — COMPLETE 33/33**;
+- current English state — **33 source-checked + 78 draft / 0 source-limited / 0 blocked**;
+- SC1 fidelity corrections — **1**, on scan **343**;
+- current normal source-check batch size — **33 physical scans**;
+- exact next batch — **SC2 scans 367–399 / printed 350–382**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
-### Part 004 source-check rule
-
-Compare each English page directly with its audited Tamil page counterpart. Check sentence/paragraph coverage, dialogue attribution, Kural block separation, chapter/Kural metadata, visual/non-body material, cross-page continuation and exact physical-page placement.
-
-Correct only fidelity defects supported by the audited Tamil record. Do not turn source-check into stylistic polishing or glossary normalization; those belong to later gates. After a page passes source-check, promote only its English status from `draft` to `source-checked`.
-
-Do not import published/standard/web English Kural wording. Do not alter Tamil archival records. Do not infer continuation beyond scan 444.
+Source-check remains a fidelity gate, not stylistic polishing. Correct only mismatches against audited Tamil, then promote passing pages to `source-checked`. Glossary normalization remains a later gate.

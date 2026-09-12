@@ -138,17 +138,18 @@ Part 004 covers scans **334–444 / printed 317–427**, 111 physical pages.
 
 ## Part 004 English — FIRST-PASS DRAFTING COMPLETE / CLOSED
 
-- D1 **334–366 — COMPLETE 33/33**;
-- D2 **367–399 — COMPLETE 33/33**;
-- D3 **400–432 — COMPLETE 33/33**;
-- D4 **433–444 — COMPLETE 12/12 / FINAL REMAINDER**;
-- cumulative drafting — **111/111 COMPLETE**;
-- current state — **111 `draft` / 0 source-checked / 0 source-limited / 0 blocked**;
-- D4 page-only audit — **exactly 12 expected English files / 0 Tamil changes**;
-- scan 444 remains source-open; **444→445 DEFERRED / UNRESOLVED**.
+- drafting — **111/111 COMPLETE**.
 
-## Current frontier — English source-check
+## Part 004 English source-check — IN PROGRESS
 
-**SC1 — scans 334–366 / printed 317–349 — 33 page pairs.**
+- SC1 **334–366 / printed 317–349 — COMPLETE 33/33**;
+- cumulative source-check — **33/111**;
+- current state — **33 `source-checked` + 78 `draft` / 0 source-limited / 0 blocked**;
+- one fidelity wording correction — scan **343**, “accepted death with courage” → “accepted death with joy”;
+- other **32 SC1 pages status-only**;
+- Tamil changes — **0**;
+- **366→367 genuine continuation** preserved.
 
-Source-check the maintained English against audited Tamil page-by-page. Correct only fidelity defects and promote passing pages from `draft` to `source-checked`. Do not import external English wording or alter Tamil archival records.
+## Current frontier
+
+**SC2 — scans 367–399 / printed 350–382 — 33 page pairs.**

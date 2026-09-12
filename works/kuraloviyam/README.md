@@ -11,7 +11,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
 | 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
 | 003 | 223–333 | **Tamil + English CLOSED — final Part checkpoint PASS / CLOSED; 111/111 English release-ready** |
-| 004 | 334–444 | **Tamil ARCHIVAL-READY / CLOSED; English drafting COMPLETE 111/111; source-check SC1 next** |
+| 004 | 334–444 | **Tamil ARCHIVAL-READY / CLOSED; English source-check 33/111 — SC1 complete, SC2 next** |
 | 005 | 445–555 | not-started |
 | 006 | 556–666 | not-started |
 
@@ -168,19 +168,16 @@ Durable final-status record: `PART_003_FINAL_STATUS_SYNC.md`.
 
 Durable documentation-sync record: `PART_003_DOCUMENTATION_SYNC.md`.
 
-## Part 004 — TAMIL CLOSED / ENGLISH DRAFTING COMPLETE 111/111
+## Part 004 — TAMIL CLOSED / ENGLISH SOURCE-CHECK 33/111
 
-- Tamil: **ARCHIVAL-READY / CLOSED — 111 textual + 111 visual verified / 0 exceptions**;
-- English first-pass drafting — **COMPLETE / CLOSED 111/111**;
-- D1 **334–366 — 33/33**;
-- D2 **367–399 — 33/33**;
-- D3 **400–432 — 33/33**;
-- D4 **433–444 — 12/12 final remainder**;
-- English state — **111 draft / 0 source-checked / 0 source-limited / 0 blocked**;
-- source-check — **NEXT / UNBLOCKED**;
-- scan 444 remains source-open;
+- English drafting — **COMPLETE / CLOSED 111/111**;
+- SC1 **334–366 — COMPLETE 33/33**;
+- source-check cumulative — **33/111**;
+- current state — **33 source-checked + 78 draft / 0 source-limited / 0 blocked**;
+- SC1 fidelity correction — **scan 343 only**;
+- **366→367 genuine continuation**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
 ## Current frontier
 
-**Part 004 English source-check SC1 — scans 334–366 / printed 317–349, 33 page pairs.**
+**Part 004 English source-check SC2 — scans 367–399 / printed 350–382.**
