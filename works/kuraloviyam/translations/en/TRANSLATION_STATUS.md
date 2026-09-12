@@ -331,7 +331,7 @@ GR4 commit:
 
 GR4 exact change set from `5bacced06a66d99fc0b24abcdbcd8355fca0afa5`: **1 file** — `GLOSSARY.md` only; **0 English page files**.
 
-## Part 004 English editorial review — IN PROGRESS
+## Part 004 English editorial review — COMPLETE / CLOSED 111/111
 
 ### ER1 — COMPLETE / PASS 33/33
 - scans **334–366 / printed 317–349**.
@@ -340,27 +340,30 @@ GR4 exact change set from `5bacced06a66d99fc0b24abcdbcd8355fca0afa5`: **1 file**
 - scans **367–399 / printed 350–382**.
 
 ### ER3 — COMPLETE / PASS 33/33
-- scans **400–432 / printed 383–415**;
-- review base — `4a2de94edbd5d9f70fb5211aca13a60018ff336d`;
-- page endpoint — `72c3d6a41249d36a1470b24a7f687d12eedfcdf7`;
-- exact page change set — **33 English page files only**;
-- wording-improvement pages — **21**: 400, 401, 402, 406, 408, 410, 412, 413, 415, 416, 417, 418, 420, 421, 422, 423, 425, 426, 429, 430, 432;
-- status-only promotions — **12**: 403, 404, 405, 407, 409, 411, 414, 419, 424, 427, 428, 431;
-- cumulative editorial-review state — **99 `editorial-reviewed` + 12 `source-checked` / 0 draft / 0 source-limited / 0 blocked**;
+- scans **400–432 / printed 383–415**.
+
+### ER4 — COMPLETE / PASS 12/12 / FINAL REMAINDER
+- scans **433–444 / printed 416–427**;
+- review base — `2fb96a8988a8356b1691d044dfab5a223cbd873d`;
+- page endpoint — `a2cc56a39d4e0271038e90cdc633056706e1f7ff`;
+- exact page change set — **12 English page files only**;
+- wording-improvement pages — **11**: 433, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444;
+- status-only promotion — **1**: 434;
+- cumulative editorial-review state — **111 `editorial-reviewed` / 0 `source-checked` / 0 draft / 0 source-limited / 0 blocked**;
 - Chapter/Kural numbers and controlled labels changed — **0**;
 - Kural block wording changed — **0**;
 - Tamil page / metadata changes — **0**;
 - visual/page-function changes — **0**;
-- incoming **399→400 CLEAN** preserved;
-- outgoing **432→433 CLEAN** directly rechecked against scan 433;
+- incoming **432→433 CLEAN** preserved;
+- internal **443→444 CLEAN** preserved;
 - scan **444 / printed 427 remains source-open**;
 - external **444→445 DEFERRED / UNRESOLVED**;
 - external/published/web English wording imported — **0**.
 
-ER3 made only source-faithful readability and clarity improvements against the audited Tamil records. Representative fixes include scan **410**, where the awkward personification was clarified to **she would look skyward and sigh**, and scan **422**, where `மை உண்ட அந்தக் கண்` was rendered more precisely as **kohl-darkened eyes**.
+ER4 made only source-faithful readability improvements. In particular, scan **440** removes the unsupported extra action `and sent it off` from the mother's handling of the cart, while scan **439** renders the idiomatic `ஒற்றைக் காலில் நின்றான்` as **stood his ground stubbornly** rather than literally standing on one leg.
 
 ## Exact next English activity
 
-Process **ER4 — scans 433–444 / printed 416–427 — final 12 English pages**.
+Begin the **Part 004 Part-level English review** over all **111 English pages / scans 334–444**.
 
-Use audited Tamil and `GLOSSARY.md`. Make only source-faithful editorial improvements and promote only passing pages to `editorial-reviewed`. Preserve scan **444** as source-open and do not infer scan **445**. Do not alter Tamil records and do not begin Part 005.
+Audit exact Tamil/English inventory and filename alignment, all 111 `editorial-reviewed` statuses, controlled terminology and names, Chapter/Kural metadata and labels, Kural-block separation, visual/non-body page functions, all accumulated internal continuities, and the source-open Part endpoint. Preserve external **444→445 as DEFERRED / UNRESOLVED**. Do not promote pages to `release-ready` during the Part-level review. Do not begin Part 005.

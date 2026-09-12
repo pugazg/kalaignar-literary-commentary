@@ -159,20 +159,22 @@ Part 003 maintained English is **RELEASE COMPLETE / CLOSED — 111/111 `release-
 
 GR4 commit: `0266f1cca87df46ad9614bb34299218e22df6ad9`.
 
-## Part 004 English editorial review — IN PROGRESS
+## Part 004 English editorial review — COMPLETE / CLOSED
 
 - ER1 **334–366 / printed 317–349 — COMPLETE / PASS 33/33**;
 - ER2 **367–399 / printed 350–382 — COMPLETE / PASS 33/33**;
 - ER3 **400–432 / printed 383–415 — COMPLETE / PASS 33/33**;
-- cumulative editorial review — **99/111**;
-- current page status — **99 `editorial-reviewed` + 12 `source-checked`**;
-- ER3 wording-improvement pages — **21**: 400, 401, 402, 406, 408, 410, 412, 413, 415, 416, 417, 418, 420, 421, 422, 423, 425, 426, 429, 430, 432;
-- ER3 status-only promotions — **12**: 403, 404, 405, 407, 409, 411, 414, 419, 424, 427, 428, 431;
+- ER4 **433–444 / printed 416–427 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
+- cumulative editorial review — **111/111 COMPLETE / CLOSED**;
+- current page status — **111 `editorial-reviewed` / 0 `source-checked`**;
+- ER4 wording-improvement pages — **11**: 433, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444;
+- ER4 status-only promotion — **1**: 434;
 - Chapter/Kural / Kural-block changes — **0**;
 - Tamil changes — **0**;
-- **432→433 CLEAN** rechecked and preserved;
+- **432→433 CLEAN** and **443→444 CLEAN** preserved;
+- scan **444 / printed 427 remains source-open**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
 ## Current frontier
 
-**ER4 — scans 433–444 / printed 416–427 — final 12 pages.**
+**Part 004 Part-level English review — NEXT / NOT STARTED.**

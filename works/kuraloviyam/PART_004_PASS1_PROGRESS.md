@@ -399,24 +399,25 @@ English glossary reconciliation is **COMPLETE / CLOSED — 111/111**.
 
 GR4 commit: `0266f1cca87df46ad9614bb34299218e22df6ad9`.
 
-Part 004 English editorial review is **IN PROGRESS — 99/111**.
+Part 004 English editorial review is **COMPLETE / CLOSED — 111/111**.
 
 - ER1 **334–366 / printed 317–349 — COMPLETE / PASS 33/33**;
 - ER2 **367–399 / printed 350–382 — COMPLETE / PASS 33/33**;
 - ER3 **400–432 / printed 383–415 — COMPLETE / PASS 33/33**;
-- ER3 wording-improvement pages — **21**: 400, 401, 402, 406, 408, 410, 412, 413, 415, 416, 417, 418, 420, 421, 422, 423, 425, 426, 429, 430, 432;
-- ER3 status-only promotions — **12**: 403, 404, 405, 407, 409, 411, 414, 419, 424, 427, 428, 431;
-- current English state — **99 editorial-reviewed + 12 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- Chapter/Kural / Kural-block changes in ER3 — **0**;
-- Tamil changes in ER3 — **0**;
-- **399→400 CLEAN** preserved;
-- **432→433 CLEAN** rechecked with scan 433 boundary witness;
+- ER4 **433–444 / printed 416–427 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
+- ER4 wording-improvement pages — **11**: 433, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444;
+- ER4 status-only promotion — **1**: 434;
+- current English state — **111 editorial-reviewed / 0 source-checked / 0 draft / 0 source-limited / 0 blocked**;
+- Chapter/Kural / Kural-block changes in ER4 — **0**;
+- Tamil changes in ER4 — **0**;
+- **432→433 CLEAN** preserved;
+- **443→444 CLEAN** preserved;
 - scan **444 / printed 427 remains source-open**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
-ER3 base: `4a2de94edbd5d9f70fb5211aca13a60018ff336d`.  
-ER3 page endpoint: `72c3d6a41249d36a1470b24a7f687d12eedfcdf7`.
+ER4 base: `2fb96a8988a8356b1691d044dfab5a223cbd873d`.  
+ER4 page endpoint: `a2cc56a39d4e0271038e90cdc633056706e1f7ff`.
 
 ## Exact next activity
 
-Process **Part 004 English editorial review ER4 — scans 433–444 / printed 416–427, final 12 pages**. Preserve scan 444 as source-open, do not infer scan 445, do not alter Tamil records, and do not begin Part 005.
+Begin the **Part 004 Part-level English review** across **111/111 English pages**. Audit whole-Part inventory/alignment, all `editorial-reviewed` statuses, controlled terminology/names, Chapter/Kural metadata, Kural-block separation, visual/non-body functions, and accumulated continuities. Preserve scan 444 as source-open and external 444→445 as deferred. Do not promote to `release-ready` yet and do not begin Part 005.
