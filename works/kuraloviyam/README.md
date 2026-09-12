@@ -11,7 +11,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
 | 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
 | 003 | 223–333 | **Tamil + English CLOSED — final Part checkpoint PASS / CLOSED; 111/111 English release-ready** |
-| 004 | 334–444 | **Tamil ARCHIVAL-READY / CLOSED; English drafting 66/111 — D1+D2 complete, D3 next** |
+| 004 | 334–444 | **Tamil ARCHIVAL-READY / CLOSED; English drafting 99/111 — D1–D3 complete, final D4 next** |
 | 005 | 445–555 | not-started |
 | 006 | 556–666 | not-started |
 
@@ -168,17 +168,18 @@ Durable final-status record: `PART_003_FINAL_STATUS_SYNC.md`.
 
 Durable documentation-sync record: `PART_003_DOCUMENTATION_SYNC.md`.
 
-## Part 004 — TAMIL CLOSED / ENGLISH DRAFTING 66/111
+## Part 004 — TAMIL CLOSED / ENGLISH DRAFTING 99/111
 
-- Tamil: **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**;
-- English D1: **334–366 / printed 317–349 — COMPLETE 33/33**;
-- English D2: **367–399 / printed 350–382 — COMPLETE 33/33**;
-- cumulative English drafting: **66/111**;
-- English state: **66 draft / 0 source-limited / 0 blocked**;
-- remaining undrafted: **45**;
-- D2 outgoing **399→400 CLEAN**;
-- external **444→445 DEFERRED / UNRESOLVED** until Part 005 intake.
+- Tamil: **ARCHIVAL-READY / CLOSED — 111 textual + 111 visual verified / 0 exceptions**;
+- English D1 **334–366 — COMPLETE 33/33**;
+- English D2 **367–399 — COMPLETE 33/33**;
+- English D3 **400–432 — COMPLETE 33/33**;
+- cumulative drafting: **99/111**;
+- English state: **99 draft / 0 source-limited / 0 blocked**;
+- remaining undrafted: **12**;
+- **432→433 CLEAN**;
+- external **444→445 DEFERRED / UNRESOLVED**.
 
 ## Current frontier
 
-**Next activity: Part 004 English Draft D3 — scans 400–432 / printed 383–415, 33 records.** Do not begin Part 005.
+**Final Part 004 English Draft D4 — scans 433–444 / printed 416–427, 12 records.**

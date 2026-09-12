@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 004 English Draft Batch D3
+# NEXT CHAT PROMPT — குறளோவியம் / Part 004 English Draft Batch D4 final remainder
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`.
 
@@ -6,50 +6,49 @@ Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, acti
 
 Fetch live `main` first and preserve any newer durable work.
 
-Parts **001–003 are fully CLOSED**. Part 004 Tamil is **ARCHIVAL-READY / CLOSED**.
+Part 004 Tamil is **ARCHIVAL-READY / CLOSED**.
 
-## Durable Part 004 state
+## Durable Part 004 English state
 
-- Tamil: **111/111 textual verified + 111/111 visual verified / 0 exceptions**;
-- English first-pass drafting: **IN PROGRESS — 66/111**;
-- D1: **334–366 / printed 317–349 — COMPLETE 33/33**;
-- D2: **367–399 / printed 350–382 — COMPLETE 33/33**;
-- current English state: **66 `draft` / 0 source-limited / 0 blocked**;
-- remaining undrafted: **45**;
-- D2 page commits:
-  - `8254e403db0f5b95f94c69987752841c06f2b5d0` — 367–377;
-  - `b8c40afb2d0ca68fcf89613ea870c7ddc6b2f2d4` — 378–388;
-  - `fca3bc207e635473db9f3a35edb5fcd3abacebc8` — 389–399;
-- page-only D2 audit: **exactly 33 added English page files, no Tamil changes**;
-- **399→400 is CLEAN**;
+- first-pass drafting: **IN PROGRESS — 99/111**;
+- D1 **334–366 / printed 317–349 — COMPLETE 33/33**;
+- D2 **367–399 / printed 350–382 — COMPLETE 33/33**;
+- D3 **400–432 / printed 383–415 — COMPLETE 33/33**;
+- current state: **99 `draft` / 0 source-limited / 0 blocked**;
+- remaining undrafted: **12**;
+- D3 commits:
+  - `523fd7dd14300d5b786f4afe5dc93fed9a0d7f3c` — 400–410;
+  - `b30e3c5a9df4c0dd28a9bd8ee23b10d372c1b0fd` — 411–421;
+  - `740b115ad55f99b9ca12514d2d40aa593199b1cf` — 422–432;
+- page-only D3 audit: **exactly 33 added English page files / 0 Tamil changes**;
+- **432→433 CLEAN**;
+- scan **444 / printed 427** begins a royal/court famine-granary narrative and visibly remains open;
 - external **444→445 DEFERRED / UNRESOLVED** until Part 005 source intake.
 
-## English workflow rules
+## Exact next activity — English Draft D4
 
-Permanent order:
+Create project-created English records for:
 
-**draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**
+**scans 433–444 / printed 416–427 — final 12 records.**
 
-Normal page-batch cadence: **33 physical scans**.
+Use audited Tamil records as the normal authority.
 
-Use audited Tamil records as the normal authority. Do not routinely reopen the PDF. Do not import standard/published/web English Kural wording. Do not alter Tamil archival records.
+Strictly:
 
-## Exact next activity — English Draft D3
-
-Create project-created English page records for:
-
-**scans 400–432 / printed 383–415 — 33 consecutive page-aligned records.**
-
-For each record:
-
-- mirror the Tamil filename under `works/kuraloviyam/translations/en/pages/`;
+- preserve each physical page boundary;
+- mirror Tamil filenames;
 - use `translation_type: "project_translation"`;
-- set English status to `draft` after a complete safe first rendering;
-- preserve page alignment, paragraph/dialogue structure, Kural block separation, visual/non-body functions and cross-page continuities;
-- translate the exact audited Tamil Kural wording rather than importing external English wording;
-- use `GLOSSARY.md` as a context-aware control;
-- do not change Tamil archival records.
+- set status to `draft`;
+- preserve visual/non-body functions, Kural blocks and continuities;
+- do not import external English Kural wording;
+- do not infer or complete text beyond scan 444;
+- do not alter Tamil records.
 
-After D3, synchronize the English frontier to the final D4 remainder and audit the exact changed-file set.
+After D4:
 
-Do **not** start D4 in the same iteration unless separately instructed. Do **not** begin Part 005.
+1. audit exactly 12 added English page records;
+2. mark Part-004 first-pass drafting **111/111 COMPLETE / CLOSED**;
+3. synchronize English controls;
+4. open the next maintained gate: **English source-check**, using the current user-directed 33-page cadence unless the workflow says otherwise.
+
+Do not begin source-check in the same iteration unless separately instructed. Do not begin Part 005.

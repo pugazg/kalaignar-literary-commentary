@@ -156,29 +156,23 @@ Durable final checkpoint: `works/kuraloviyam/PART_003_FINAL_CLOSURE.md`.
 
 Part 003 Tamil and maintained English are now fully closed. English is **111/111 `release-ready`**; the Part-level review is PASS; the release report is APPROVED / CLOSED; no Tamil or English page record changed during the final checkpoint.
 
-## Part 004 — TAMIL CLOSED / ENGLISH D3 NEXT
-
-### Durable Tamil state
-
-- Tamil archival-ready checkpoint — **PASS / CLOSED**;
-- Tamil textual distribution — **111 verified / 0 partial / 0 blocked / 0 source-limited / 0 needs-review**;
-- visual distribution — **111 verified / 0 needs-review**;
-- external **444→445 DEFERRED / UNRESOLVED** until Part 005 intake.
+## Part 004 — TAMIL CLOSED / ENGLISH D4 FINAL REMAINDER NEXT
 
 ### English workflow state
 
-- normal page-batch cadence — **33 physical scans**;
-- first-pass drafting — **IN PROGRESS 66/111**;
-- D1 **334–366 / printed 317–349 — COMPLETE 33/33**;
-- D2 **367–399 / printed 350–382 — COMPLETE 33/33**;
-- current English state — **66 draft / 0 source-limited / 0 blocked**;
-- remaining undrafted — **45**;
-- D2 page-only audit — **exactly 33 added English page records / 0 Tamil changes**;
-- incoming to next batch **399→400 CLEAN**;
-- source-check and later English gates — **BLOCKED until drafting completes**.
+- first-pass drafting — **IN PROGRESS 99/111**;
+- D1 **334–366 — COMPLETE 33/33**;
+- D2 **367–399 — COMPLETE 33/33**;
+- D3 **400–432 — COMPLETE 33/33**;
+- current English state — **99 draft / 0 source-limited / 0 blocked**;
+- remaining undrafted — **12**;
+- D3 page-only audit — **exactly 33 added English page records / 0 Tamil changes**;
+- **432→433 CLEAN**;
+- source-check and later English gates — **BLOCKED until D4 completes drafting**;
+- external **444→445 DEFERRED / UNRESOLVED**.
 
-## Exact next activity — Part 004 English Draft D3
+## Exact next activity — Part 004 English Draft D4
 
-Create page-aligned project translations for **scans 400–432 / printed 383–415 — 33 records**.
+Create the final **12** page-aligned draft translations for **scans 433–444 / printed 416–427**.
 
-Use audited Tamil records under `works/kuraloviyam/pages/`, follow the English guide/glossary, preserve page alignment and Kural structure, and do not alter Tamil records or begin Part 005.
+Do not infer any continuation beyond scan 444. After D4 completes, synchronize first-pass drafting to **111/111 COMPLETE** and open the first source-check batch. Do not begin Part 005.

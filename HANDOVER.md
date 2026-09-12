@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 004 English first-pass drafting 66/111; Draft D3 scans 400–432 next**: **2026-09-12**.
+Last refreshed for Kuraloviyam **Part 004 English first-pass drafting 99/111; final Draft D4 scans 433–444 next**: **2026-09-12**.
 
 ## Repository
 
@@ -180,15 +180,16 @@ Do not restart Pass 1. Do not resume scan-led lexical Pass 2 at scan 14.
 ## Durable Part 004 state
 
 - Tamil: **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified / 0 exceptions**;
-- English first-pass drafting: **IN PROGRESS — 66/111**;
-- D1: **334–366 / printed 317–349 — COMPLETE 33/33**;
-- D2: **367–399 / printed 350–382 — COMPLETE 33/33**;
-- English state: **66 draft / 0 source-limited / 0 blocked**;
-- remaining undrafted: **45**;
-- English normal cadence: **33 physical scans**;
-- **399→400 CLEAN** preserved;
+- English first-pass drafting: **IN PROGRESS — 99/111**;
+- D1 **334–366 — COMPLETE**;
+- D2 **367–399 — COMPLETE**;
+- D3 **400–432 — COMPLETE**;
+- English state: **99 draft / 0 source-limited / 0 blocked**;
+- remaining undrafted: **12**;
+- **432→433 CLEAN**;
+- scan 444 remains source-open;
 - external **444→445 DEFERRED / UNRESOLVED** until Part 005 source intake.
 
 ## Exact next activity — குறளோவியம்
 
-Process **Part 004 English Draft Batch D3 — scans 400–432 / printed 383–415, 33 records** from the audited Tamil page layer. Do not alter Tamil records or begin Part 005.
+Process final **Part 004 English Draft Batch D4 — scans 433–444 / printed 416–427, 12 records**. Do not infer beyond scan 444, alter Tamil records, or begin Part 005.

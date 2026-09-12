@@ -141,14 +141,15 @@ Part 004 covers scans **334–444 / printed 317–427**, 111 physical pages.
 
 - D1: **334–366 / printed 317–349 — COMPLETE 33/33**;
 - D2: **367–399 / printed 350–382 — COMPLETE 33/33**;
-- cumulative drafting: **66/111**;
-- current state: **66 `draft` / 0 source-limited / 0 blocked**;
-- remaining undrafted: **45**;
-- D2 changed no Tamil archival record;
-- outgoing **399→400 CLEAN** is preserved.
+- D3: **400–432 / printed 383–415 — COMPLETE 33/33**;
+- cumulative drafting: **99/111**;
+- current state: **99 `draft` / 0 source-limited / 0 blocked**;
+- remaining undrafted: **12**;
+- D3 changed no Tamil archival record;
+- outgoing **432→433 CLEAN** is preserved.
 
 ## Current frontier
 
-**Draft Batch D3 — scans 400–432 / printed 383–415 — 33 page-aligned records.**
+**Final Draft Batch D4 — scans 433–444 / printed 416–427 — 12 page-aligned records.**
 
-Use the audited Tamil records under `../../pages/` as the working authority. Follow `TRANSLATION_GUIDE.md` and `GLOSSARY.md`. Do not import publisher/standard/web English wording and do not alter Tamil archival records.
+Scan 444 ends the supplied Part with an open royal/court narrative; external **444→445 remains DEFERRED / UNRESOLVED**. Do not infer missing continuation.

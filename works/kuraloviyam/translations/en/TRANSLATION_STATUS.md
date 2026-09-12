@@ -281,38 +281,34 @@ Incoming **333→334 is CLEAN / source-resolved**. External **444→445 remains 
 
 ## Part 004 English first-pass drafting — IN PROGRESS
 
-Current normal drafting cadence: **33 physical scans per iteration**.
+Current normal drafting cadence: **33 physical scans per normal iteration**; final remainder may be shorter.
 
 ### Draft Batch D1 — COMPLETE 33/33
-
-- scans **334–366 / printed 317–349**;
-- cumulative after D1: **33/111**;
-- page commits:
-  - `883414f24224e4dc8c25b71b31eb084da2a61930` — 334–344;
-  - `726d2c1b1ea85b6322567ba53eb774d0ee3cae53` — 345–355;
-  - `f188c3a89eb4970b017b92cb2cc06a6964bca0e1` — 356–366;
-- outgoing **366→367 genuine continuation**.
+- scans **334–366 / printed 317–349**.
 
 ### Draft Batch D2 — COMPLETE 33/33
+- scans **367–399 / printed 350–382**.
 
-- scans **367–399 / printed 350–382**;
-- cumulative Part-004 English drafting: **66/111**;
-- current English state: **66 `draft` / 0 source-limited / 0 blocked**;
-- remaining undrafted Part-004 pages: **45**;
-- Tamil archival page changes during D2: **0**;
+### Draft Batch D3 — COMPLETE 33/33
+- scans **400–432 / printed 383–415**;
+- cumulative Part-004 English drafting: **99/111**;
+- current English state: **99 `draft` / 0 source-limited / 0 blocked**;
+- remaining undrafted Part-004 pages: **12**;
+- Tamil archival page changes during D3: **0**;
 - published/standard/web English Kural wording imported: **0**;
-- outgoing **399→400 is CLEAN**; scan 400 begins a new illustrated speculative-visitors vignette.
+- incoming **399→400 CLEAN** preserved;
+- outgoing **432→433 CLEAN**; scan 433 begins the Nallithayan/Porko wealth-and-character narrative.
 
-D2 page commits:
+D3 page commits:
 
-- `8254e403db0f5b95f94c69987752841c06f2b5d0` — scans **367–377**;
-- `b8c40afb2d0ca68fcf89613ea870c7ddc6b2f2d4` — scans **378–388**;
-- `fca3bc207e635473db9f3a35edb5fcd3abacebc8` — scans **389–399**.
+- `523fd7dd14300d5b786f4afe5dc93fed9a0d7f3c` — scans **400–410**;
+- `b30e3c5a9df4c0dd28a9bd8ee23b10d372c1b0fd` — scans **411–421**;
+- `740b115ad55f99b9ca12514d2d40aa593199b1cf` — scans **422–432**.
 
-Page-only audit from `982d87d73652a9a711de73550b42a86914bb6f56` to `fca3bc207e635473db9f3a35edb5fcd3abacebc8` is **ahead / non-divergent** and contains exactly **33 added English page records**, scans **367–399**, with **0 unexpected files and 0 missing expected files**. No Tamil page or Tamil metadata file changed in the D2 page commits.
+Page-only audit from `f4f62ffbaf748d97eccc50ac062514c4203ceebd` to `740b115ad55f99b9ca12514d2d40aa593199b1cf` is **ahead / non-divergent** and contains exactly **33 added English page records**, scans **400–432**, with **0 unexpected files and 0 missing expected files**. No Tamil page or Tamil metadata file changed in the D3 page commits.
 
 ## Exact next English activity
 
-Process **Draft Batch D3 — scans 400–432 / printed 383–415 — 33 page-aligned records**.
+Process the **final Draft Batch D4 — scans 433–444 / printed 416–427 — 12 page-aligned records**.
 
-The incoming **399→400 boundary is CLEAN**. Use audited Tamil records as the normal authority; preserve page alignment, Kural blocks, visual/non-body functions and cross-page continuities. Do not change Tamil records and do not begin Part 005.
+Preserve **432→433 CLEAN**. Scan 444 visibly opens a royal/court famine-granary narrative that remains incomplete at the supplied Part endpoint; external **444→445 remains DEFERRED / UNRESOLVED** until Part 005 source intake. Do not infer continuation text. Do not change Tamil records and do not begin Part 005.

@@ -373,21 +373,20 @@ Durable record: `PART_004_DOCUMENTATION_SYNC.md`.
 
 **PASS / CLOSED.**
 
-Durable record: `PART_004_TAMIL_ARCHIVAL_READY.md`.
-
-Part 004 Tamil is closed at **111/111 textual verified + 111/111 visual verified / 0 exceptions**. External **444→445 DEFERRED / UNRESOLVED** remains a cross-Part source limit.
+Part 004 Tamil is closed at **111/111 textual verified + 111/111 visual verified / 0 exceptions**.
 
 ## Maintained English workflow
 
-First-pass drafting is now **IN PROGRESS — 66/111**.
+First-pass drafting is now **IN PROGRESS — 99/111**.
 
-- D1 **334–366 / printed 317–349 — COMPLETE 33/33**;
-- D2 **367–399 / printed 350–382 — COMPLETE 33/33**;
-- current English state — **66 draft / 0 source-limited / 0 blocked**;
-- remaining undrafted — **45**;
-- D2 page-only audit — exactly **33 English page records added / 0 Tamil changes**;
-- outgoing **399→400 CLEAN** preserved.
+- D1 **334–366 — COMPLETE 33/33**;
+- D2 **367–399 — COMPLETE 33/33**;
+- D3 **400–432 — COMPLETE 33/33**;
+- current English state — **99 draft / 0 source-limited / 0 blocked**;
+- remaining undrafted — **12**;
+- D3 page-only audit — exactly **33 English page records added / 0 Tamil changes**;
+- outgoing **432→433 CLEAN** preserved.
 
 ## Exact next activity
 
-Process **Part 004 English Draft Batch D3 — scans 400–432 / printed 383–415, 33 page-aligned records** from the audited Tamil records. Do not begin Part 005.
+Process final **Part 004 English Draft D4 — scans 433–444 / printed 416–427, 12 records**. Preserve scan 444 as source-open and **444→445 DEFERRED / UNRESOLVED**.

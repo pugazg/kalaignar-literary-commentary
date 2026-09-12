@@ -339,24 +339,21 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 ## Part 004 boundary resolution and verification map
 
-Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf`.
-
 - canonical Tamil inventory: **111 records**;
-- scans **334–444** / printed **317–427**;
-- Tamil: **ARCHIVAL-READY / CLOSED — 111 textual + 111 visual verified / 0 exceptions**;
-- external **444→445 DEFERRED / UNRESOLVED** until Part 005 intake.
+- Tamil: **ARCHIVAL-READY / CLOSED**;
+- external **444→445 DEFERRED / UNRESOLVED**.
 
 Part 004 English:
 
-- D1 **334–366 / printed 317–349 — COMPLETE 33/33**;
-- D2 **367–399 / printed 350–382 — COMPLETE 33/33**;
-- cumulative drafting — **66/111**;
-- current status — **66 draft / 0 source-limited / 0 blocked**;
-- remaining undrafted — **45**;
-- **399→400 CLEAN** preserved;
-- exact next batch — **D3 400–432 / printed 383–415 — 33 records**;
-- source-check / glossary / editorial / review / release — **blocked until drafting completes**.
+- D1 **334–366 — COMPLETE 33/33**;
+- D2 **367–399 — COMPLETE 33/33**;
+- D3 **400–432 — COMPLETE 33/33**;
+- cumulative drafting — **99/111**;
+- current status — **99 draft / 0 source-limited / 0 blocked**;
+- remaining undrafted — **12**;
+- **432→433 CLEAN**;
+- next batch — **D4 433–444 / printed 416–427 — final 12 records**.
 
 ## Current frontier
 
-**Part 004 English Draft D3 — scans 400–432 / printed 383–415.** Preserve external **444→445 DEFERRED / UNRESOLVED**.
+**Part 004 English Draft D4 final remainder.** Scan 444 is source-open; preserve **444→445 DEFERRED / UNRESOLVED**.

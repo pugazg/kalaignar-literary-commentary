@@ -273,16 +273,16 @@ Part 004 has now completed source intake and the full Tamil archival workflow.
 Part 004 covers scans **334–444 / printed 317–427**.
 
 - Tamil: **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified / 0 exceptions**;
-- durable Tamil closure: `../../PART_004_TAMIL_ARCHIVAL_READY.md`;
-- English first-pass drafting: **IN PROGRESS — 66/111**;
-- D1: **334–366 / printed 317–349 — COMPLETE 33/33**;
-- D2: **367–399 / printed 350–382 — COMPLETE 33/33**;
-- current English state: **66 draft / 0 source-limited / 0 blocked**;
-- current normal English batch size: **33 physical scans**;
-- exact next batch: **D3 scans 400–432 / printed 383–415 — 33 records**;
-- **399→400 CLEAN**;
+- English first-pass drafting: **IN PROGRESS — 99/111**;
+- D1: **334–366 — COMPLETE 33/33**;
+- D2: **367–399 — COMPLETE 33/33**;
+- D3: **400–432 — COMPLETE 33/33**;
+- current English state: **99 draft / 0 source-limited / 0 blocked**;
+- final drafting remainder: **D4 scans 433–444 / printed 416–427 — 12 records**;
+- **432→433 CLEAN**;
+- scan 444 remains source-open;
 - external **444→445 DEFERRED / UNRESOLVED** until Part 005 source intake.
 
-Normal Part-004 English work uses the audited Tamil page records as authority. The original Tamil scan is not routinely reopened. Do not import published/standard/web English Kural wording or alter the Tamil archive.
+Normal Part-004 English work uses audited Tamil page records as authority. Do not import published/standard/web English Kural wording or alter the Tamil archive. Never invent continuation beyond scan 444.
 
-Part 005 remains blocked until the Part-004 English workflow and final Part checkpoint are closed and the Part 005 controlling source is supplied.
+After D4, first-pass drafting will be complete and the next maintained English gate is **source-check**.
