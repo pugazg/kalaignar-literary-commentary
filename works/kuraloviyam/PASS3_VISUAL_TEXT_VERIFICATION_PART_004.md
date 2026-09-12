@@ -144,10 +144,42 @@ This is not another lexical reread. Settled wording is not normalized or rewritt
 - Status promotion: **0**.
 - All Part-004 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
 
+## Batch 5 — scans 378–388 / printed 361–371
+
+**Result: COMPLETE — 11 / 11.**
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 378 | 361 | **NO STRUCTURAL CHANGE** — large upper domestic-couple illustration remains above the prose; the lovers' morning/domestic vignette begins below after the clean incoming boundary and continues directly to scan 379. |
+| 379 | 362 | **NO STRUCTURAL CHANGE** — text-only continuation/close; Kural 1225 and Chapter 123 metadata remain correctly separated near the bottom above the small red decorative monument. |
+| 380 | 363 | **NO STRUCTURAL CHANGE** — large upper illustration of the elderly man with a child on his back speaking to an elderly woman remains above the prose; the Kalaivaanar rationalist-humour discussion begins below and continues directly to scan 381. |
+| 381 | 364 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the heaven/hell anecdote; the explanatory blocks, Kural 238, Chapter 24 metadata and two source glosses remain structurally distinct. |
+| 382 | 365 | **NO STRUCTURAL CHANGE** — large upper illustration of the seated man with people around him, including a woman bent low near him, remains above the prose; the self-praise/smallness vignette begins below and continues directly to scan 383. |
+| 383 | 366 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the self-praise/smallness vignette; Kural 978 and Chapter 98 metadata remain correctly separated near the bottom. |
+| 384 | 367 | **NO STRUCTURAL CHANGE** — large upper illustration of a man asleep on a cot while a woman lies awake on the floor remains above the prose; the lovers' quarrel / ஊடல் vignette begins below and continues directly to scan 385. |
+| 385 | 368 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the lovers' quarrel vignette; Kural 1304, Chapter 131 metadata and two source glosses remain correctly separated. |
+| 386 | 369 | **NO STRUCTURAL CHANGE** — large upper Periyar/Rajaji illustration remains above the prose; the reflection on their enduring friendship despite ideological conflict begins below and continues directly to scan 387. |
+| 387 | 370 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Periyar/Rajaji friendship reflection; Kural 782, Chapter 79 metadata and two source glosses remain correctly separated above the small red Thiruvalluvar page-furniture illustration. |
+| 388 | 371 | **CORRECTED** — the upper illustration was independently re-read. The prior note described ambiguous "ascetic/lovers" silhouettes behind the central figure; the source visibly shows a bearded ascetic/sage in front with a silhouetted woman offering a cup to a silhouetted man behind. `visual_notes` corrected only; body wording and review flags unchanged. |
+
+### Boundary / continuity result
+
+- Incoming **377→378 CLEAN** remains confirmed.
+- **388→389 is a genuine continuation**, reconfirmed from scan **389 / printed 372**: scan 388 opens the ascetic-greatness reflection, and scan 389 continues and closes it with Chapter 3 / Kural 22.
+- Scan 389 was used only as the outgoing witness and is **not** counted in Batch 5.
+
+### Batch 5 correction summary
+
+- Structural/visual-description corrections: **1 page — scan 388**.
+- No-change scans: **378–387 — 10 pages**.
+- Lexical body-text changes: **0**.
+- Status promotion: **0**.
+- All Part-004 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+
 ## Resulting Pass-3 frontier
 
-**44 / 111 complete through scan 377 / printed 360.**
+**55 / 111 complete through scan 388 / printed 371.**
 
 ## Exact next activity
 
-Process **Part 004 Pass 3 / Batch 5 — scans 378–388 / printed 361–371, 11 physical scans**. Begin with scan 378 now receiving full Pass-3 review after serving only as the Batch-4 witness. Inspect **scan 389 / printed 372** only as the outgoing boundary witness. Keep the visual-text-only gate and do not start the Part audit until Pass 3 reaches 111/111.
+Process **Part 004 Pass 3 / Batch 6 — scans 389–399 / printed 372–382, 11 physical scans**. Begin with scan 389 now receiving full Pass-3 review after serving only as the Batch-5 outgoing witness. Inspect **scan 400 / printed 383** only as the outgoing boundary witness. Keep the visual-text-only gate and do not start the Part audit until Pass 3 reaches 111/111.
