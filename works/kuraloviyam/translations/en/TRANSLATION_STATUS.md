@@ -273,22 +273,36 @@ No English page record or Tamil record changed during the final closure checkpoi
 
 Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf` — scans **334–444 / printed 317–427**, 111 physical pages, SHA-256 `5b7fcc65f19dc3d2a57bebb13cdfb02d0c83f70a5ccc9e537886790908674581`.
 
-Tamil source intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 / audit / final status sync / documentation sync / archival-ready checkpoint are **CLOSED**. Final Tamil state: **111 textual verified + 111 visual verified / 0 exceptions**.
+Tamil source intake through archival-ready are **CLOSED**. Final Tamil state: **111 textual verified + 111 visual verified / 0 exceptions**.
 
 Durable closure: `works/kuraloviyam/PART_004_TAMIL_ARCHIVAL_READY.md`.
 
 Incoming **333→334 is CLEAN / source-resolved**. External **444→445 remains DEFERRED / UNRESOLVED** until Part 005 source intake.
 
-## Part 004 English first-pass drafting — NEXT / NOT STARTED
-
-Part 004 has **0 English page records** at this checkpoint; scan **334 / printed 317** does not yet exist under the English page layer.
+## Part 004 English first-pass drafting — IN PROGRESS
 
 Current normal drafting cadence: **33 physical scans per iteration**.
 
-Exact next batch:
+### Draft Batch D1 — COMPLETE 33/33
 
-**Draft D1 — scans 334–366 / printed 317–349 — 33 page-aligned records.**
+- scans **334–366 / printed 317–349**;
+- cumulative Part-004 English drafting: **33/111**;
+- current English state: **33 `draft` / 0 source-limited / 0 blocked**;
+- remaining undrafted Part-004 pages: **78**;
+- Tamil archival page changes during D1: **0**;
+- published/standard/web English Kural wording imported: **0**;
+- outgoing **366→367 is a genuine continuation**; scan 367 continues and closes the Bhagat Singh / Rajaguru / Sukhdev / Jeyagopal narrative.
 
-Use the audited Tamil page records as the normal authority. Do not routinely reopen the Tamil PDF, do not import published/standard/web English Kural wording, and do not change Tamil records.
+D1 page commits:
 
-Part 005 remains blocked until the Part-004 maintained English workflow and final Part closure are complete and its controlling source is supplied.
+- `883414f24224e4dc8c25b71b31eb084da2a61930` — scans **334–344**;
+- `726d2c1b1ea85b6322567ba53eb774d0ee3cae53` — scans **345–355**;
+- `f188c3a89eb4970b017b92cb2cc06a6964bca0e1` — scans **356–366**.
+
+Page-only audit from `1a699532ff602b8b6f68ab6a91d06654db003657` to `f188c3a89eb4970b017b92cb2cc06a6964bca0e1` is **ahead / non-divergent** and contains exactly **33 added English page records**, scans **334–366**, with **0 unexpected files and 0 missing expected files**. No Tamil page or Tamil metadata file changed in the D1 page commits.
+
+## Exact next English activity
+
+Process **Draft Batch D2 — scans 367–399 / printed 350–382 — 33 page-aligned records**.
+
+Begin by continuing the genuine **366→367** revolutionary narrative. Use audited Tamil records as the normal authority; preserve page alignment, Kural blocks, visual/non-body functions and cross-page continuities. Do not change Tamil records and do not begin Part 005.

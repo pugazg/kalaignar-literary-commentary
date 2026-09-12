@@ -138,12 +138,17 @@ Part 004 covers scans **334–444 / printed 317–427**, 111 physical pages.
 - incoming **333→334 CLEAN / source-resolved**;
 - external **444→445 DEFERRED / UNRESOLVED** until Part 005 source intake.
 
-No Part-004 English page record exists yet at scan 334.
+## Part 004 English — FIRST-PASS DRAFTING IN PROGRESS
 
-## Current frontier — Part 004 English drafting
+- D1: **scans 334–366 / printed 317–349 — COMPLETE 33/33**;
+- cumulative drafting: **33/111**;
+- current state: **33 `draft` / 0 source-limited / 0 blocked**;
+- remaining undrafted: **78**;
+- D1 changed no Tamil archival record;
+- outgoing **366→367 genuine continuation** is preserved.
 
-Immediate next activity:
+## Current frontier
 
-**Draft Batch D1 — scans 334–366 / printed 317–349 — 33 page-aligned records.**
+**Draft Batch D2 — scans 367–399 / printed 350–382 — 33 page-aligned records.**
 
 Use the audited Tamil records under `../../pages/` as the working authority. Follow `TRANSLATION_GUIDE.md` and `GLOSSARY.md`. Do not import publisher/standard/web English wording and do not alter Tamil archival records.

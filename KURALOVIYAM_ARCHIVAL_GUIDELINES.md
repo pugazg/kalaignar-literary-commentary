@@ -198,19 +198,14 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 ### Part 004 — overall scans 334–444
 
-Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf`.
-
-- Tamil source intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 / Part audit / final metadata-status sync / documentation sync: **COMPLETE / PASS / CLOSED as applicable**;
-- Tamil archival-ready checkpoint: **PASS / CLOSED**;
-- Tamil textual status: **111/111 verified**;
-- visual fidelity: **111/111 verified**;
-- Tamil status exceptions: **0**;
-- English first-pass drafting: **NEXT / NOT STARTED**;
+- Tamil: **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified / 0 exceptions**;
+- English first-pass drafting: **IN PROGRESS — 33/111**;
+- D1: **334–366 / printed 317–349 — COMPLETE 33/33**;
+- English state: **33 draft / 0 source-limited / 0 blocked**;
 - current English page-batch cadence: **33 physical scans**;
-- outgoing **444→445: DEFERRED / UNRESOLVED** until Part 005 intake.
-
-Durable Tamil closure: `works/kuraloviyam/PART_004_TAMIL_ARCHIVAL_READY.md`.
+- D1 outgoing **366→367 genuine continuation**;
+- outgoing Part boundary **444→445 DEFERRED / UNRESOLVED** until Part 005 intake.
 
 ### Exact next content stage
 
-Begin **Part 004 project-created English Draft Batch D1 — scans 334–366 / printed 317–349, 33 records** from the audited Tamil layer. Follow the permanent English gate order. Do not begin Part 005.
+Process **Part 004 English Draft Batch D2 — scans 367–399 / printed 350–382, 33 records**. Do not begin Part 005.

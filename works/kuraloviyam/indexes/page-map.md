@@ -342,34 +342,21 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf`.
 
 - canonical Tamil inventory: **111 records**;
-- scans **334–444** / local pages **1–111** / printed **317–427**;
+- scans **334–444** / printed **317–427**;
+- Tamil: **ARCHIVAL-READY / CLOSED — 111 textual + 111 visual verified / 0 exceptions**;
 - incoming **333→334 CLEAN / source-resolved**;
 - external **444→445 DEFERRED / UNRESOLVED** until Part 005 intake.
 
-## Verification gates
-
-Part 004 Tamil:
-
-- source intake — **PASS / COMPLETE**;
-- Pass 1 — **COMPLETE 111/111**;
-- Pass 2A — **COMPLETE / PASS 111/111**;
-- Pass 2B — **COMPLETE / PASS 111/111**;
-- Pass 3 — **COMPLETE / PASS 111/111**;
-- Part audit — **PASS / COMPLETE**;
-- final metadata/status synchronization — **PASS / CLOSED**;
-- documentation synchronization — **COMPLETE / PASS**;
-- Tamil archival-ready checkpoint — **PASS / CLOSED**;
-- textual distribution — **111 verified / 0 partial / 0 blocked / 0 source-limited / 0 needs-review**;
-- visual distribution — **111 verified / 0 needs-review**.
-
 Part 004 English:
 
-- first-pass drafting — **NEXT / NOT STARTED**;
-- first normal batch — **334–366 / printed 317–349 — 33 records**;
-- source-check / glossary / editorial / review / release — **BLOCKED until prior English gates close**.
-
-Durable Tamil archival-ready declaration: `../PART_004_TAMIL_ARCHIVAL_READY.md`.
+- D1 **334–366 / printed 317–349 — COMPLETE 33/33**;
+- cumulative drafting — **33/111**;
+- current status — **33 draft / 0 source-limited / 0 blocked**;
+- remaining undrafted — **78**;
+- **366→367 genuine continuation** preserved;
+- exact next batch — **D2 367–399 / printed 350–382 — 33 records**;
+- source-check / glossary / editorial / review / release — **blocked until drafting completes**.
 
 ## Current frontier
 
-**Part 004 English Draft Batch D1 — scans 334–366 / printed 317–349.** Preserve external **444→445 DEFERRED / UNRESOLVED**.
+**Part 004 English Draft D2 — scans 367–399 / printed 350–382.** Preserve external **444→445 DEFERRED / UNRESOLVED**.

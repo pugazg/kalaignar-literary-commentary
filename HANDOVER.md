@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 004 Tamil ARCHIVAL-READY / CLOSED; English Draft D1 scans 334–366 next**: **2026-09-12**.
+Last refreshed for Kuraloviyam **Part 004 English first-pass drafting 33/111; Draft D2 scans 367–399 next**: **2026-09-12**.
 
 ## Repository
 
@@ -179,17 +179,15 @@ Do not restart Pass 1. Do not resume scan-led lexical Pass 2 at scan 14.
 
 ## Durable Part 004 state
 
-- Tamil source intake through documentation synchronization: **COMPLETE / PASS / CLOSED as applicable**;
-- Tamil archival-ready checkpoint: **PASS / CLOSED**;
-- Tamil textual status: **111/111 verified**;
-- visual fidelity: **111/111 verified**;
-- Tamil exceptions: **0**;
-- English first-pass drafting: **NEXT / NOT STARTED**;
+- Tamil: **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified / 0 exceptions**;
+- English first-pass drafting: **IN PROGRESS — 33/111**;
+- D1: **scans 334–366 / printed 317–349 — COMPLETE 33/33**;
+- English state: **33 draft / 0 source-limited / 0 blocked**;
+- remaining undrafted: **78**;
 - English normal cadence: **33 physical scans**;
+- **366→367 genuine continuation** preserved;
 - external **444→445 DEFERRED / UNRESOLVED** until Part 005 source intake.
-
-Durable Tamil closure: `works/kuraloviyam/PART_004_TAMIL_ARCHIVAL_READY.md`.
 
 ## Exact next activity — குறளோவியம்
 
-Begin **Part 004 project-created English Draft Batch D1 — scans 334–366 / printed 317–349, 33 records** from the audited Tamil page layer. Do not reopen Tamil source routinely, do not import external English Kural wording, and do not begin Part 005.
+Process **Part 004 English Draft Batch D2 — scans 367–399 / printed 350–382, 33 records** from the audited Tamil page layer. Do not alter Tamil records or begin Part 005.

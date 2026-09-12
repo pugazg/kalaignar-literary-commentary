@@ -11,7 +11,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
 | 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
 | 003 | 223–333 | **Tamil + English CLOSED — final Part checkpoint PASS / CLOSED; 111/111 English release-ready** |
-| 004 | 334–444 | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified; English Draft D1 next** |
+| 004 | 334–444 | **Tamil ARCHIVAL-READY / CLOSED; English drafting 33/111 — D1 complete, D2 next** |
 | 005 | 445–555 | not-started |
 | 006 | 556–666 | not-started |
 
@@ -168,22 +168,16 @@ Durable final-status record: `PART_003_FINAL_STATUS_SYNC.md`.
 
 Durable documentation-sync record: `PART_003_DOCUMENTATION_SYNC.md`.
 
-## Part 004 — TAMIL ARCHIVAL-READY / ENGLISH DRAFT NEXT
+## Part 004 — TAMIL CLOSED / ENGLISH DRAFTING 33/111
 
-Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf`.
-
-- overall scans **334–444** / local pages **1–111** / printed **317–427**;
-- Tamil source intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 / audit / final status sync / documentation sync — **COMPLETE / PASS / CLOSED as applicable**;
-- Tamil archival-ready checkpoint — **PASS / CLOSED**;
-- Tamil textual status — **111/111 verified**;
-- visual fidelity — **111/111 verified**;
-- Tamil status exceptions — **0**;
-- English first-pass drafting — **NEXT / NOT STARTED**;
-- English normal page-batch cadence — **33 physical scans**;
-- outgoing **444→445: DEFERRED / UNRESOLVED** until Part 005 intake.
-
-Durable Tamil closure: `PART_004_TAMIL_ARCHIVAL_READY.md`.
+- Tamil: **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**;
+- English D1: **334–366 / printed 317–349 — COMPLETE 33/33**;
+- cumulative English drafting: **33/111**;
+- English state: **33 draft / 0 source-limited / 0 blocked**;
+- remaining undrafted: **78**;
+- D1 outgoing **366→367 genuine continuation**;
+- external **444→445 DEFERRED / UNRESOLVED** until Part 005 intake.
 
 ## Current frontier
 
-**Next activity: Part 004 English Draft Batch D1 — scans 334–366 / printed 317–349, 33 page-aligned records.** Do not begin Part 005.
+**Next activity: Part 004 English Draft D2 — scans 367–399 / printed 350–382, 33 records.** Do not begin Part 005.
