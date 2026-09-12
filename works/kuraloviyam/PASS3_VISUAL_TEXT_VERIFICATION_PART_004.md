@@ -8,7 +8,7 @@
 - Physical scans: **111**
 - Gate: **Pass 3 — meaningful visual/text fidelity verification**
 - Cadence history: **Batches 1–6 used 11 physical scans per iteration**; from Batch 7 onward the user-directed cadence is **30 physical scans per normal iteration**, with a shorter final remainder when fewer than 30 scans remain
-- Status: **IN PROGRESS**
+- Status: **COMPLETE / PASS — 111/111**
 
 ## Method
 
@@ -261,10 +261,60 @@ User-directed cadence change applied here: **30 physical scans per normal Pass-3
 - Status promotion: **0**.
 - All Part-004 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
 
-## Resulting Pass-3 frontier
+## Final remainder — scans 430–444 / printed 413–427
 
-**96 / 111 complete through scan 429 / printed 412.**
+**Result: COMPLETE — 15 / 15.**
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 430 | 413 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Arima/Parithi restraint-before-battle vignette; Kural 486, Chapter 49 metadata and source glosses remain correctly separated near the bottom. |
+| 431 | 414 | **NO STRUCTURAL CHANGE** — large upper bathing/compassion illustration remains above the prose; the compassion/inner-love vignette begins below and continues mid-sentence to scan 432. |
+| 432 | 415 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the compassion/inner-love vignette; Kural 79 and Chapter 8 metadata remain correctly separated above the small standing Thiruvalluvar illustration. |
+| 433 | 416 | **NO STRUCTURAL CHANGE** — large upper illustration of the affluent man reclining with a woman while another woman sits apart remains above the prose; the Nallithayan/Porko wealth-and-character vignette begins below and continues to scan 434. |
+| 434 | 417 | **NO STRUCTURAL CHANGE** — text-only continuation of the Nallithayan/Porko vignette; Kural 995 / Chapter 100 is a distinct mid-page block and the prose continues directly to scan 435. |
+| 435 | 418 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Nallithayan/Porko vignette; Kural 1000 / Chapter 100 and the page's 995/1000 references remain correctly separated above the small monument page furniture. |
+| 436 | 419 | **NO STRUCTURAL CHANGE** — large upper Kayalvizhi/shore illustration remains above the prose; the Selkendai/Kayalvizhi fishermen vignette begins below and continues directly to scan 437. |
+| 437 | 420 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Selkendai/Kayalvizhi vignette; Kural 1266, Chapter 127 metadata and source glosses remain correctly separated. |
+| 438 | 421 | **NO STRUCTURAL CHANGE** — large upper illustration of the elderly chief minister with the younger ruler near the waterside remains above the prose; the right-time vignette begins below and continues directly to scan 439. |
+| 439 | 422 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the chief-minister/young-king right-time vignette; Kural 490 and Chapter 49 metadata remain correctly separated near the bottom. |
+| 440 | 423 | **NO STRUCTURAL CHANGE** — large upper lovers illustration with a nearby woman calling remains above the prose; the lovers-separation vignette begins below and continues mid-sentence to scan 441. |
+| 441 | 424 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the lovers-separation vignette; Kural 1160 and Chapter 116 metadata remain correctly separated above the small monument illustration. |
+| 442 | 425 | **NO STRUCTURAL CHANGE** — large upper Nagan/Nallaan illustration remains above the prose; the friendship-benefit vignette begins below and continues directly to scan 443. |
+| 443 | 426 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Nagan/Nallaan vignette; Kural 812, Chapter 82 metadata and source glosses remain correctly separated. |
+| 444 | 427 | **NO STRUCTURAL CHANGE** — large upper royal/court illustration remains above the prose; a new famine/granary accusation narrative begins below and remains open at the Part 004 endpoint. No scan-445 source was inferred. |
+
+### Boundary / continuity result
+
+- Incoming **429→430 genuine continuation** is confirmed and closes on scan 430 with Chapter 49 / Kural 486.
+- **430→431 CLEAN**.
+- **432→433 CLEAN**.
+- **435→436 CLEAN**.
+- **437→438 CLEAN**.
+- **439→440 CLEAN**.
+- **441→442 CLEAN**.
+- **443→444 CLEAN**.
+- **444→445 remains DEFERRED / UNRESOLVED** because Part 005 is not supplied.
+
+### Final-remainder correction summary
+
+- Structural/visual-description corrections: **0**.
+- No-change scans: **430–444 — 15 pages**.
+- Lexical body-text changes: **0**.
+- Status promotion: **0**.
+- All Part-004 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"` pending the Part audit and final status synchronization.
+
+## Pass 3 final result
+
+**COMPLETE / PASS — 111 / 111 physical scans verified.**
+
+Cumulative source-supported Pass-3 visual-note corrections: **6 pages — scans 336, 342, 348, 388, 398 and 416**.
+
+Cumulative lexical/body-text changes during Pass 3: **0**.
+
+Cumulative status promotions during Pass 3: **0**.
+
+External Part boundary: **444→445 DEFERRED / UNRESOLVED** until actual Part 005 source intake.
 
 ## Exact next activity
 
-Process the **final Part 004 Pass 3 remainder — scans 430–444 / printed 413–427, 15 physical scans**. Scan 430 now receives full Pass-3 review after serving only as the Batch-7 outgoing witness. Because this is the supplied Part endpoint, there is **no outgoing scan-445 witness**; keep **444→445 DEFERRED / UNRESOLVED** until Part 005 is actually supplied. Do not start the Part audit in the same iteration unless separately instructed.
+Perform the **Part 004 Part audit** across scans **334–444 / printed 317–427**. Audit complete physical coverage, internal continuity, source limits, Pass-2A/Pass-2B/Pass-3 closure, page-status consistency, and the unresolved external **444→445** boundary. Do not perform final metadata/status promotion or begin Part 005 during the audit unless separately instructed.
