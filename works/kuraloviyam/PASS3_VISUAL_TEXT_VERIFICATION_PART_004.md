@@ -80,10 +80,42 @@ This is not another lexical reread. Settled wording is not normalized or rewritt
 - Status promotion: **0**.
 - All Part-004 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
 
+## Batch 3 — scans 356–366 / printed 339–349
+
+**Result: COMPLETE — 11 / 11.**
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 356 | 339 | **NO STRUCTURAL CHANGE** — large upper forest-lovers illustration with the embracing couple beside a deer remains above the prose; the Paavai/Poonkundran vignette begins below and continues directly to scan 357. |
+| 357 | 340 | **NO STRUCTURAL CHANGE** — text-only continuation/close; the set-out Kural 1121 block, Chapter 113 metadata and three source glosses remain correctly separated from the prose. |
+| 358 | 341 | **NO STRUCTURAL CHANGE** — large upper illustration pairing a uniformed man with a field worker carrying a bundle remains above the prose; Kural 550 is a distinct set-out block within the political punishment/weeding discussion, which continues to scan 359. |
+| 359 | 342 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the political punishment/tyranny comparison; Kural 551 remains a distinct top block and the Chapter 55/Kural 550 plus Chapter 56/Kural 551 references remain correctly placed at the bottom. |
+| 360 | 343 | **NO STRUCTURAL CHANGE** — large upper illustration of a woman embracing and kissing an ascetic-like man inside the hut, with another man walking away outside, remains above the prose; the hypocritical-ascetic vignette begins below and continues directly to scan 361. |
+| 361 | 344 | **NO STRUCTURAL CHANGE** — text-only continuation/close; the five-line lyrical address and the later Kural 276 / Chapter 28 metadata with source gloss remain structurally distinct and correctly ordered. |
+| 362 | 345 | **NO STRUCTURAL CHANGE** — large upper illustration of a Roman ruler seated between two women remains above the prose; the Rome/pleasure vignette begins below and continues directly to scan 363. |
+| 363 | 346 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Rome/pleasure vignette; explanatory prose, four-line paraphrase, Kural 917 and Chapter 92 metadata remain correctly separated. |
+| 364 | 347 | **NO STRUCTURAL CHANGE** — large upper court illustration shows Seeralan kneeling before the sovereign, with an armed attendant behind; prose below opens the taxation/tyranny vignette and continues directly to scan 365. |
+| 365 | 348 | **NO STRUCTURAL CHANGE** — text-only continuation/close of the Seeralan vignette; set-out Kural 250 and Chapter 26 metadata remain correctly positioned near the bottom. |
+| 366 | 349 | **NO STRUCTURAL CHANGE** — large upper revolutionary illustration with the hatted young man, firing revolver and noose remains above the prose; the Bhagat Singh/Rajaguru/Sukhdev/Jeyagopal narrative begins below and continues directly to scan 367. |
+
+### Boundary / continuity result
+
+- Incoming **355→356 CLEAN** remains confirmed.
+- **366→367 is a genuine continuation**, reconfirmed from scan **367 / printed 350**: scan 366 opens the Bhagat Singh/Rajaguru/Sukhdev/Jeyagopal narrative, and scan 367 continues and closes it with Chapter 81 / Kural 806.
+- Scan 367 was used only as the outgoing witness and is **not** counted in Batch 3.
+
+### Batch 3 correction summary
+
+- Structural/visual-description corrections: **0**.
+- No-change scans: **356–366 — 11 pages**.
+- Lexical body-text changes: **0**.
+- Status promotion: **0**.
+- All Part-004 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+
 ## Resulting Pass-3 frontier
 
-**22 / 111 complete through scan 355 / printed 338.**
+**33 / 111 complete through scan 366 / printed 349.**
 
 ## Exact next activity
 
-Process **Part 004 Pass 3 / Batch 3 — scans 356–366 / printed 339–349, 11 physical scans**. Begin after the confirmed clean **355→356** boundary. Inspect **scan 367 / printed 350** only as the outgoing witness. Keep the visual-text-only gate and do not start the Part audit until Pass 3 reaches 111/111.
+Process **Part 004 Pass 3 / Batch 4 — scans 367–377 / printed 350–360, 11 physical scans**. Begin with scan 367 now receiving full Pass-3 review after serving only as the Batch-3 witness. Inspect **scan 378 / printed 361** only as the outgoing boundary witness. Keep the visual-text-only gate and do not start the Part audit until Pass 3 reaches 111/111.
