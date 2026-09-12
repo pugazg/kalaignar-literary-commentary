@@ -164,11 +164,42 @@ Durable correction commits:
 - scan 397 — `1535fc2ed64364e0a168f48318e388b0b3c6c3a1`;
 - scan 398 — `c248891fba2646052bc811bd15f73457448ed756`.
 
+## Batch 6 — overall scans 399–413 / printed pages 382–396
+
+**Status: COMPLETE — 15 / 15 scans independently re-read against freshly rendered source pages for Pass 2B.**
+
+Incoming **398→399 genuine continuation** was preserved and closes on scan 399 with Chapter 57 / Kural 570. Scan **414 / printed 397** was inspected only as the outgoing boundary witness and confirms **413→414 CLEAN**: scan 413 closes the Stalin/Khrushchev historical anecdote with Chapter 50 / Kural 495, while scan 414 begins a new illustrated justice/impartiality dialogue.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 399 | 382 | independently confirmed the cruel-rule / கொடுங்கோல் continuation and closure, Kural 570, lineation and Chapter 57 metadata; no new correction required |
+| 400 | 383 | independent word-level re-read complete across the speculative visitors-from-another-world vignette opening and continuation into 401; no new correction required |
+| 401 | 384 | independently confirmed the speculative-visitors conclusion, Kural 12, lineation, Chapter 2 metadata and source glosses; no new correction required |
+| 402 | 385 | independent word-level re-read complete across the two-boats/love vignette opening and continuation through illustration scan 403 to scan 404; no new correction required |
+| 403 | 386 | full-page illustration within the two-boats/love vignette; no main printed prose on this physical scan and no Pass-2B textual correction required |
+| 404 | 387 | independently confirmed the two-boats/love conclusion, Kural 1134, lineation, Chapter 114 metadata and source gloss; no new correction required |
+| 405 | 388 | independent word-level re-read complete across the deceptive-flattery/friendship vignette opening and continuation into 406; no new correction required |
+| 406 | 389 | independently re-read the courtesan, thieves and self-interested-friend continuation into 407; no new correction required |
+| 407 | 390 | independently confirmed the vignette conclusion, Kural 813, lineation, Chapter 82 metadata and source glosses; no new correction required |
+| 408 | 391 | independent word-level re-read complete across the Sevval/cattle-cruelty vignette opening and continuation into 409; no new correction required |
+| 409 | 392 | independently confirmed the Sevval/cattle-cruelty conclusion, Kural 318, lineation and Chapter 32 metadata; no new correction required |
+| 410 | 393 | independent word-level re-read complete across the lovers vignette opening, source Kavadi Sindhu quotation and continuation into 411; no new correction required |
+| 411 | 394 | independently confirmed the lovers vignette conclusion, Kural 1258, lineation and Chapter 126 metadata; no new correction required |
+| 412 | 395 | corrected source-visible `நடைபெற்ற கூட்டத்தில்` → `நடைபெற்றக் கூட்டத்தில்`; remaining Stalin/Khrushchev opening and continuation into 413 independently confirmed |
+| 413 | 396 | corrected source-visible `கண்டுகொள்ளவில்லை என்றும்` → `கண்டுகொள்ளவில்லை யென்றும்`; remaining Stalin/Khrushchev conclusion, Kural 495, lineation, Chapter 50 metadata and source glosses independently confirmed; scan 414 witness confirms **413→414 CLEAN** |
+
+Batch 6 correction summary: **2 records corrected; 13 records required no new Pass-2B correction**.
+
+Durable correction commits:
+
+- scan 412 — `a1016d73998da0054e0c008cf42eb7afb38244cf`;
+- scan 413 — `372b1ff1588d15dda832da333789c20a860fbd74`.
+
 ## Current Pass 2B coverage
 
-- complete: **65 / 111 scans**;
-- independently re-read range: **334–398 / printed 317–381**;
-- remaining Pass 2B: **46 scans**;
+- complete: **80 / 111 scans**;
+- independently re-read range: **334–413 / printed 317–396**;
+- remaining Pass 2B: **31 scans**;
 - current normal iteration size: **15 scans**;
 - textual page status remains `needs-review`;
 - visual fidelity remains `needs-review`;
@@ -177,4 +208,4 @@ Durable correction commits:
 
 ## Exact next activity
 
-Process **Part 004 Pass 2B Batch 6 — scans 399–413 / printed 382–396 (15 scans)** against freshly rendered source pages. Re-read every source-visible printed word independently, correct only source-supported lexical/punctuation/joining/spacing/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **414 / printed 397** only as the outgoing boundary witness if needed. Do not start Pass 3 or Part 005.
+Process **Part 004 Pass 2B Batch 7 — scans 414–428 / printed 397–411 (15 scans)** against freshly rendered source pages. Re-read every source-visible printed word independently, correct only source-supported lexical/punctuation/joining/spacing/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **429 / printed 412** only as the outgoing boundary witness if needed. Do not start Pass 3 or Part 005.
