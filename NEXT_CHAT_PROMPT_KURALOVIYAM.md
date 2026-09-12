@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 005 P5-02
+# NEXT CHAT PROMPT — குறளோவியம் / Part 005 P5-03
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`.
 
@@ -12,51 +12,36 @@ Parts **001–004 remain closed**. Do not reopen them.
 
 `TVA_BOK_0065733_குறளோவியம்_part_005_pages_445-555.pdf`
 
-- source intake — **PASS / COMPLETE**;
-- local pages — **111**;
-- overall scans — **445–555**;
-- printed span — **428–538**;
-- SHA-256 — `082d46dc437851b37bea24c3152c2ea41b39c425628ddaa66461866a3177c235`;
-- no usable parsed text layer; rendered scans are controlling.
+Source intake is **PASS / COMPLETE**. Rendered scans are controlling; no usable parsed text layer exists.
 
 ## Durable Pass-1 state
 
-P5-01 scans **445–455 / printed 428–438 — COMPLETE 11/11**.
-
-- cumulative capture — **11/111**;
-- status on all 11 — `needs-review`;
-- visual fidelity on all 11 — `needs-review`;
-- page-layer commit — `9e56343a073848c1cc932c1fcc95b0b9acb4ff06`;
+- P5-01 **445–455 / printed 428–438 — COMPLETE 11/11**;
+- P5-02 **456–466 / printed 439–449 — COMPLETE 11/11**;
+- cumulative capture — **22/111**;
+- all 22 current records — `needs-review` / visual `needs-review`;
+- P5-02 page-layer commit — `5185e993810420b5e5474d01001f87c5da7cbc47`;
 - durable progress — `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
-Boundary controls:
+Recent boundary controls:
 
-- **444→445 — GENUINE CONTINUATION**;
-- **445→446 CLEAN**;
-- **446→447 genuine**;
-- **447→448 CLEAN**;
-- **448→449 genuine**, preserving `தனிகைமலை` + `யுடன்`;
-- **449→450 CLEAN**;
-- **450→451 genuine**;
-- **451→452 genuine**;
-- **452→453 CLEAN**;
-- **453→454 genuine**;
-- **454→455 CLEAN**;
-- **455→456 — GENUINE CONTINUATION**, directly checked from scan 456 / printed 439.
+- **455→456 genuine continuation**;
+- **456→457 CLEAN**;
+- **457→458 genuine**;
+- **458→459 CLEAN**;
+- **459→460 genuine**;
+- **460→461 genuine**;
+- **461→462 CLEAN**;
+- **462→463 genuine**;
+- **463→464 CLEAN**;
+- **464→465 genuine**;
+- **465→466 CLEAN**;
+- **466→467 GENUINE CONTINUATION**; scan 467 / printed 450 continues the festival-separation letter and closes it with Chapter 128 / Kural 1272.
 
-Part 006 is already source-intake complete but must remain transcription-inactive.
+Part 006 is source-intake complete but remains transcription-inactive.
 
-## Exact next activity — P5-02
+## Exact next activity — P5-03
 
-Process scans **456–466 / printed 439–449** as one page-aligned Tamil Pass-1 record per physical scan.
+Process scans **467–477 / printed 450–460** as one page-aligned Tamil Pass-1 record per physical scan.
 
-Rules:
-
-1. source pixels are authoritative; no OCR guesswork or silent normalization;
-2. preserve incoming **455→456 genuine continuation**;
-3. use `part: 5`, `part_page: 12–22`, exact scan/printed mappings and source filename;
-4. new records begin `status: "needs-review"` and `visual_fidelity: "needs-review"`;
-5. keep illustrations, Kural blocks, source glosses, page furniture and stamps structurally separate;
-6. inspect scan **467 / printed 450** only as the outgoing boundary witness when required;
-7. do not alter Parts 001–004;
-8. do not begin Part 006 transcription.
+Use `part: 5`, `part_page: 23–33`, exact mappings and the Part 005 source filename. New records remain `needs-review` / visual `needs-review`. Preserve the incoming 466→467 continuation. Inspect scan **478 / printed 461** only as the outgoing boundary witness when required. Do not begin Part 006 transcription.

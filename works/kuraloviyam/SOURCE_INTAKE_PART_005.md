@@ -75,11 +75,12 @@ Workflow batch edges must never create artificial textual boundaries. Inspect th
 
 **Part 005 source intake: COMPLETE / PASS.**
 
-Pass 1 has begun.
+Pass 1 is active.
 
 - P5-01 / scans **445–455 / printed 428–438** — **COMPLETE 11/11**;
-- cumulative Pass-1 capture — **11/111**;
+- P5-02 / scans **456–466 / printed 439–449** — **COMPLETE 11/11**;
+- cumulative Pass-1 capture — **22/111**;
 - durable progress — `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`;
-- outgoing **455→456 — GENUINE CONTINUATION**, checked from scan 456 witness.
+- outgoing **466→467 — GENUINE CONTINUATION**, checked from scan 467 / printed 450.
 
-Next: **P5-02 / scans 456–466 / printed 439–449**, using scan **467 / printed 450** only as a boundary witness when required.
+Next: **P5-03 / scans 467–477 / printed 450–460**, using scan **478 / printed 461** only as a boundary witness when required.

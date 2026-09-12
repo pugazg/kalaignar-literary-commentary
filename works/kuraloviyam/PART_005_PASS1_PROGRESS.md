@@ -55,8 +55,50 @@ Exact page-only compare from pre-batch `72410da00662d09d9ba57dc5c235a858af8247bd
 - no Part 001–004 record changed;
 - no Part 006 page record was created.
 
+## P5-02 state
+
+**11 / 11 page records captured — COMPLETE.**
+
+P5-02 scans **456–466 / printed 439–449** are captured as one page-aligned Tamil Pass-1 record per physical scan. All 11 records carry:
+
+- `part: 5`;
+- `part_page: 12–22`;
+- exact scan/printed-page mappings;
+- `status: "needs-review"`;
+- `visual_fidelity: "needs-review"`;
+- the exact Part 005 source filename.
+
+Batch page-layer commit:
+
+`5185e993810420b5e5474d01001f87c5da7cbc47` — `kuraloviyam: Capture Part 005 Pass 1 scans 456-466`
+
+Exact page-only compare from pre-batch `9963a0fb5615a8c83a1e2c6d7f2d380b7ed79bc2` to the page endpoint changed **11 files**, all and only scans 456–466.
+
+## P5-02 continuity map
+
+- **455→456 — GENUINE CONTINUATION**; scan 456 closes the court-jester unit with Chapter 97 / Kural 969;
+- **456→457 — CLEAN**; scan 457 begins the river-rescue / selfless-help vignette;
+- **457→458 — GENUINE CONTINUATION**;
+- **458→459 — CLEAN**; scan 458 closes Chapter 11 / Kural 103 and scan 459 begins the Mankadu arrogant-doctor vignette;
+- **459→460 — GENUINE CONTINUATION**;
+- **460→461 — GENUINE CONTINUATION**;
+- **461→462 — CLEAN**; scan 461 closes Chapter 88 / Kural 873 and scan 462 begins the lovers/pallor vignette;
+- **462→463 — GENUINE CONTINUATION**;
+- **463→464 — CLEAN**; scan 463 closes Chapter 124 / Kural 1238 and scan 464 begins the Athanar/Koothan prohibition-policy vignette;
+- **464→465 — GENUINE CONTINUATION**;
+- **465→466 — CLEAN**; scan 465 closes Chapter 64 / Kural 637 and scan 466 begins the festival-separation letter vignette;
+- **466→467 — GENUINE CONTINUATION**, directly checked from scan 467 / printed 450. Scan 467 continues the letter and closes that unit with Chapter 128 / Kural 1272; scan 467 was not created in P5-02.
+
+## P5-02 structural notes
+
+- Kural blocks and source glosses remain distinct from prose;
+- illustrated openings remain represented in `visual_notes`;
+- no page record outside scans 456–466 changed;
+- Parts 001–004 remain untouched;
+- Part 006 remains transcription-inactive.
+
 ## Current gate
 
-Part 005 Pass 1: **11/111 captured**.
+Part 005 Pass 1: **22/111 captured**.
 
-Next: **P5-02 / scans 456–466 / printed 439–449**, using scan **467 / printed 450** only as a boundary witness when required.
+Next: **P5-03 / scans 467–477 / printed 450–460**, using scan **478 / printed 461** only as a boundary witness when required.

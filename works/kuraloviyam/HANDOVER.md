@@ -165,16 +165,15 @@ Tamil is **111/111 textual + visual verified** and English is **111/111 release-
 ## Part 005 — PASS 1 ACTIVE
 
 Durable intake: `works/kuraloviyam/SOURCE_INTAKE_PART_005.md`.  
-Durable Pass-1 progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
+Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
-- scans — **445–555 / printed 428–538**;
 - P5-01 — **445–455 / printed 428–438 — COMPLETE 11/11**;
-- cumulative Pass 1 — **11/111**;
-- page-layer commit — `9e56343a073848c1cc932c1fcc95b0b9acb4ff06`;
-- current captured statuses — **11 needs-review / 11 visual needs-review**;
-- **444→445 genuine continuation**;
-- **455→456 genuine continuation**;
-- next batch — **P5-02 / scans 456–466 / printed 439–449**.
+- P5-02 — **456–466 / printed 439–449 — COMPLETE 11/11**;
+- cumulative Pass 1 — **22/111**;
+- P5-02 page-layer commit — `5185e993810420b5e5474d01001f87c5da7cbc47`;
+- current statuses — **22 needs-review / 22 visual needs-review**;
+- **466→467 genuine continuation**;
+- next batch — **P5-03 / scans 467–477 / printed 450–460**.
 
 ## Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -184,4 +183,4 @@ Durable Pass-1 progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ## Exact next activity
 
-Proceed with **P5-02 / scans 456–466 / printed 439–449**. Use scan 467 only as a boundary witness if needed and do not start Part 006 transcription.
+Proceed with **P5-03 / scans 467–477 / printed 450–460**. Use scan 478 only as a boundary witness if needed and do not start Part 006 transcription.

@@ -151,7 +151,7 @@ Boundary **555→556** is **CLEAN**: scan 555 closes Chapter 89 / Kural 881; sca
 
 Detailed intake: `works/kuraloviyam/SOURCE_INTAKE_PART_005.md`.
 
-Part 005 Pass 1 is **ACTIVE**. P5-01 scans **445–455 / printed 428–438** are captured **11/11**, all as `status: "needs-review"` / `visual_fidelity: "needs-review"`. Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`. The outgoing **455→456** boundary is a **GENUINE CONTINUATION** checked from scan 456 / printed 439. Next is **P5-02 / scans 456–466 / printed 439–449**.
+Part 005 Pass 1 is **ACTIVE**. P5-01 and P5-02 are complete: scans **445–466 / printed 428–449**, **22/111** records captured, all as `status: "needs-review"` / `visual_fidelity: "needs-review"`. Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`. The outgoing **466→467** boundary is a **GENUINE CONTINUATION** checked from scan 467 / printed 450. Next is **P5-03 / scans 467–477 / printed 450–460**.
 
 ## Part 006 source identity and provenance
 
