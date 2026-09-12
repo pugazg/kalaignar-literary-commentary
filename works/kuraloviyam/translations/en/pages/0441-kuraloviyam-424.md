@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 But at every such meeting, that harsh cry—“Hey, Azhagammai!”—never failed to rise like a wall between them.
 
-Even so, there are many people in the world who consent to an unavoidable separation, cease tormenting themselves over the pain it brings, endure the separation, remain alive afterward, and live on, are there not?
+Even so, there are many people in the world who submit to an unavoidable separation, endure the pain it brings, remain alive afterward, and live on, are there not?
 
 The two lovers resolved that they too would live like such people, certain that one day they would finally join.
 

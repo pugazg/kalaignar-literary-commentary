@@ -6,14 +6,14 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
 But in his calculation, if armies were to clash, they must return carrying the enemy's head—not shaken by the sight of defeat.
 
-The young king stood stubbornly on one leg, insisting that he must leave immediately.
+The young king stood his ground stubbornly, insisting that he must leave immediately.
 
 The minister spoke gently:
 

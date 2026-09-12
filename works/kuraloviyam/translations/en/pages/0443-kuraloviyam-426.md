@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -37,7 +37,7 @@ Vallaan's lands lay on higher ground and had not been badly damaged. He had not 
 
 For Nagan, bending his tongue to praise and bless Vallaan was easy.
 
-Nallaan worried less about his fields being buried than about what sort of friendship Nagan's had been.
+Nallaan worried less about his fields being buried than about what kind of friendship Nagan had offered him.
 
 His heart groaned with the words of the Kural:
 

@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -25,7 +25,7 @@ Azhagammai and Anbumathi, embracing with their hearts already bound together, se
 
 “The cart is ready in the street to leave for our town. Your father is waiting. I am wandering everywhere looking for you. Come here!”
 
-The mother dragged her away in haste, seated her in the cart, and sent it off.
+The mother dragged her away in haste and seated her in the cart.
 
 Anbumathi stood on the veranda of his house, watching the moving cart that carried Azhagammai away.
 

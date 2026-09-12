@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 Large upper illustration of Nagan and Nallaan.
 
-A day might fail to arrive on time, but Nagan never failed to meet Nallaan.
+Even a day might fail to keep its appointment, but Nagan never failed to meet Nallaan.
 
 Nallaan was one of the great landowners of that village. His fields stretched as far as the eye could see. They were river-irrigated lands lying beside the riverbed—rich soil capable of producing three harvests a year.
 

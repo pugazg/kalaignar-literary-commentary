@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,7 +19,7 @@ Large upper illustration of two royal or court figures arguing before food store
 
 The voice rang out in the royal audience hall.
 
-Ministers, commanders and spear-bearing warriors stood all around as he raised his voice like a warrior.
+Ministers, commanders and spear-bearing warriors stood all around as he thundered defiantly.
 
 The king seated beneath the royal parasol sprang up, drawing his sword.
 
