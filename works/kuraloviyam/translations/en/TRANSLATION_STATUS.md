@@ -288,39 +288,41 @@ Incoming **333→334 CLEAN / source-resolved**. External **444→445 DEFERRED / 
 ## Part 004 English source-check — IN PROGRESS
 
 ### SC1 — COMPLETE 33/33
-
 - scans **334–366 / printed 317–349**;
-- cumulative after SC1 — **33/111**;
 - fidelity corrections — **1**, scan **343**.
 
 ### SC2 — COMPLETE 33/33
-
 - scans **367–399 / printed 350–382**;
-- cumulative source-check — **66/111**;
-- current English state — **66 `source-checked` + 45 `draft` / 0 source-limited / 0 blocked**;
-- remaining source-check pages — **45**;
+- fidelity corrections — **2**, scans **374, 381**.
+
+### SC3 — COMPLETE 33/33
+
+- scans **400–432 / printed 383–415**;
+- cumulative source-check — **99/111**;
+- current English state — **99 `source-checked` + 12 `draft` / 0 source-limited / 0 blocked**;
+- remaining source-check pages — **12**;
 - Tamil archival page changes — **0**;
 - external/published/standard English Kural wording imported — **0**;
-- incoming **366→367 genuine continuation** preserved;
-- outgoing **399→400 CLEAN**.
+- incoming **399→400 CLEAN** preserved;
+- outgoing **432→433 CLEAN**.
 
-SC2 source-check commits:
+SC3 source-check commits:
 
-- `a64aca13f7b628b04f16faa3be156526f0e42582` — scans **367–377**;
-- `62f6d9b68c7995fc212952a7632eb46daf55f1fa` — scans **378–388**;
-- `354160f672ee31aeff4715e5ccc9294f5f1f2257` — scans **389–399**.
+- `4f28d0ffa5332da3f64ac40f6a3a1375ce013381` — scans **400–410**;
+- `ac109e6c0cf05faffae0c575bb9f6a6af2b2f37b` — scans **411–421**;
+- `940f30de6b6d4c88b698bfebfbc3664e0ec68fa6` — scans **422–432**.
 
-SC2 audit from `95fa0a5565a9707c0a5cf78d2af9906e5e0549d4` to `354160f672ee31aeff4715e5ccc9294f5f1f2257` contains exactly **33 expected English page files**, scans **367–399**, with **0 missing and 0 unexpected files**.
+SC3 audit from `a11cf94ea179921c7d27f2ac649944bb2bab1188` to `940f30de6b6d4c88b698bfebfbc3664e0ec68fa6` contains exactly **33 expected English page files**, scans **400–432**, with **0 missing and 0 unexpected files**.
 
-SC2 made exactly **two source-fidelity wording corrections**:
+SC3 made exactly **two source-fidelity page corrections**:
 
-- scan **374 / printed 357** — removed the external proper-name expansion **“Pasumpon Muthuramalinga Thevar”** and restored source-bounded **“Devar Thirumagan”**, matching `தேவர் திருமகன்`;
-- scan **381 / printed 364** — changed **“cremation ground” → “burial ground”** to match `இடுகாடு` without narrowing the source.
+- scan **410 / printed 393** — restored the audited Tamil pronoun in `அவனது நெஞ்சுறுதியெனும் முற்றுகை`: **“her firmness” → “his firmness”**;
+- scan **426 / printed 409** — restored the source weapon term `கொடுவாள்`: **“sickle” → “curved blade”** in both occurrences on the page.
 
 The other **31 pages were status-only promotions** from `draft` to `source-checked`.
 
 ## Exact next English activity
 
-Process **SC3 — scans 400–432 / printed 383–415 — 33 English/Tamil page pairs**.
+Process the **final source-check remainder SC4 — scans 433–444 / printed 416–427 — 12 English/Tamil page pairs**.
 
-Compare page-by-page against audited Tamil, correct only fidelity defects, promote each passing English page to `source-checked`, and preserve established continuities. Do not alter Tamil records or begin Part 005.
+Preserve **432→433 CLEAN**. Scan **444 / printed 427** remains source-open and external **444→445 DEFERRED / UNRESOLVED** until Part 005 source intake. Do not infer continuation text, alter Tamil records, or begin Part 005.

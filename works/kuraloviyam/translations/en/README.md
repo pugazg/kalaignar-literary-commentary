@@ -142,15 +142,16 @@ Part 004 covers scans **334–444 / printed 317–427**, 111 physical pages.
 
 ## Part 004 English source-check — IN PROGRESS
 
-- SC1 **334–366 / printed 317–349 — COMPLETE 33/33**;
-- SC2 **367–399 / printed 350–382 — COMPLETE 33/33**;
-- cumulative source-check — **66/111**;
-- current state — **66 `source-checked` + 45 `draft` / 0 source-limited / 0 blocked**;
-- SC2 fidelity corrections — **2**, scans **374, 381**;
-- other **31 SC2 pages status-only**;
+- SC1 **334–366 — COMPLETE 33/33**;
+- SC2 **367–399 — COMPLETE 33/33**;
+- SC3 **400–432 — COMPLETE 33/33**;
+- cumulative source-check — **99/111**;
+- current state — **99 `source-checked` + 12 `draft` / 0 source-limited / 0 blocked**;
+- SC3 fidelity corrections — **2 pages**, scans **410, 426**;
+- other **31 SC3 pages status-only**;
 - Tamil changes — **0**;
-- **399→400 CLEAN** preserved.
+- **432→433 CLEAN** preserved.
 
 ## Current frontier
 
-**SC3 — scans 400–432 / printed 383–415 — 33 page pairs.**
+**Final SC4 remainder — scans 433–444 / printed 416–427 — 12 page pairs.**

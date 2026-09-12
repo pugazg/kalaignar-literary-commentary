@@ -156,23 +156,24 @@ Durable final checkpoint: `works/kuraloviyam/PART_003_FINAL_CLOSURE.md`.
 
 Part 003 Tamil and maintained English are now fully closed. English is **111/111 `release-ready`**; the Part-level review is PASS; the release report is APPROVED / CLOSED; no Tamil or English page record changed during the final checkpoint.
 
-## Part 004 — TAMIL CLOSED / ENGLISH SOURCE-CHECK SC3 NEXT
+## Part 004 — TAMIL CLOSED / ENGLISH SOURCE-CHECK SC4 FINAL REMAINDER NEXT
 
 ### Durable English state
 
 - first-pass drafting — **COMPLETE / CLOSED 111/111**;
-- source-check — **IN PROGRESS 66/111**;
+- source-check — **IN PROGRESS 99/111**;
 - SC1 **334–366 — COMPLETE 33/33**;
 - SC2 **367–399 — COMPLETE 33/33**;
-- current English state — **66 source-checked + 45 draft / 0 source-limited / 0 blocked**;
-- SC2 fidelity corrections — **2**, scans **374, 381**;
-- SC2 Tamil changes — **0**;
-- **399→400 CLEAN** preserved;
+- SC3 **400–432 — COMPLETE 33/33**;
+- current English state — **99 source-checked + 12 draft / 0 source-limited / 0 blocked**;
+- SC3 fidelity corrections — **2 pages**, scans **410, 426**;
+- SC3 Tamil changes — **0**;
+- **432→433 CLEAN** preserved;
 - glossary reconciliation and later gates — **BLOCKED until source-check closes**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
-## Exact next activity — Part 004 English source-check SC3
+## Exact next activity — Part 004 English source-check SC4
 
-Process **scans 400–432 / printed 383–415 — 33 page pairs**.
+Process the final **scans 433–444 / printed 416–427 — 12 page pairs**.
 
-Compare English against audited Tamil, correct only fidelity defects, promote passing pages to `source-checked`, preserve cross-page continuity and do not alter Tamil records or begin Part 005.
+Compare English against audited Tamil, correct only fidelity defects, promote passing pages to `source-checked`, preserve the open scan-444 ending, and do not alter Tamil records or begin Part 005.
