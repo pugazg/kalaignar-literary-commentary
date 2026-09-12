@@ -331,18 +331,20 @@ Part 004 Pass 3 meaningful visual/text verification is now **IN PROGRESS** after
 - Batch 3 structural/visual-description corrections: **none**;
 - Pass 3 Batch 4 — scans **367–377 / printed 350–360 — COMPLETE 11/11**;
 - Batch 4 structural/visual-description corrections: **none**;
-- Batch 4 no-change: scans **367–377**;
-- lexical body-text changes in Pass 3 Batches 1–4: **0**;
-- status promotions in Pass 3 Batches 1–4: **0**;
-- incoming **366→367 genuine continuation** preserved and closed on scan 367 with Chapter 81 / Kural 806;
-- outgoing **377→378 CLEAN** reconfirmed from scan 378 witness; scan 378 begins a new illustrated domestic-lovers vignette;
+- Pass 3 Batch 5 — scans **378–388 / printed 361–371 — COMPLETE 11/11**;
+- Batch 5 structural/visual-description correction: scan **388**;
+- Batch 5 no-change: scans **378–387**;
+- lexical body-text changes in Pass 3 Batches 1–5: **0**;
+- status promotions in Pass 3 Batches 1–5: **0**;
+- incoming **377→378 CLEAN** preserved;
+- outgoing **388→389 genuine continuation** reconfirmed from scan 389 witness; scan 389 continues and closes the ascetic-greatness reflection with Chapter 3 / Kural 22;
 - dedicated Pass-3 log: `PASS3_VISUAL_TEXT_VERIFICATION_PART_004.md`;
-- current Pass 3 coverage: **44/111**;
-- remaining Pass 3: **67**;
+- current Pass 3 coverage: **55/111**;
+- remaining Pass 3: **56**;
 - all page records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`;
 - Part audit remains blocked until Pass 3 reaches **111/111**;
 - **444→445 remains DEFERRED / UNRESOLVED** until Part 005 source intake.
 
 ## Exact next activity
 
-Proceed with **Part 004 Pass 3 Batch 5 — scans 378–388 / printed 361–371 (11 scans)**. Scan 378 now receives full Pass-3 verification after serving only as the Batch-4 outgoing witness. Verify illustration/text order and relationship, Kural/quotation block placement and lineation, page furniture versus body text, source/non-source separation, and physical continuation directly against freshly rendered source pages. Inspect scan **389 / printed 372** only as the outgoing boundary witness. Do not promote page statuses, start the Part audit, or begin Part 005.
+Proceed with **Part 004 Pass 3 Batch 6 — scans 389–399 / printed 372–382 (11 scans)**. Scan 389 now receives full Pass-3 verification after serving only as the Batch-5 outgoing witness. Verify illustration/text order and relationship, Kural/quotation block placement and lineation, page furniture versus body text, source/non-source separation, and physical continuation directly against freshly rendered source pages. Inspect scan **400 / printed 383** only as the outgoing boundary witness. Do not promote page statuses, start the Part audit, or begin Part 005.
