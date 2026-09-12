@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 004 final metadata/status synchronization PASS / CLOSED; documentation synchronization next**: **2026-09-12**.
+Last refreshed for Kuraloviyam **Part 004 documentation synchronization COMPLETE / PASS; Tamil archival-ready checkpoint next**: **2026-09-12**.
 
 ## Repository
 
@@ -186,15 +186,15 @@ Do not restart Pass 1. Do not resume scan-led lexical Pass 2 at scan 14.
 - Pass 3: **COMPLETE / PASS — 111/111**;
 - Part audit: **PASS / COMPLETE**;
 - final metadata/status synchronization: **PASS / CLOSED**;
+- documentation synchronization: **COMPLETE / PASS**;
 - Tamil textual status: **111/111 verified**;
 - visual fidelity: **111/111 verified**;
 - exceptions: **0**;
-- documentation synchronization: **NEXT / UNBLOCKED**;
-- Tamil archival-ready checkpoint: **BLOCKED until documentation sync closes**;
+- Tamil archival-ready checkpoint: **NEXT / UNBLOCKED**;
 - external **444→445 DEFERRED / UNRESOLVED** until Part 005 source intake.
 
-Durable final-status record: `works/kuraloviyam/PART_004_FINAL_STATUS_SYNC.md`.
+Durable documentation-sync record: `works/kuraloviyam/PART_004_DOCUMENTATION_SYNC.md`.
 
 ## Exact next activity — குறளோவியம்
 
-Perform **Part 004 documentation synchronization**. Reconcile all Part-004 overview and frontier documents to the final status state **111 textual verified + 111 visual verified / 0 exceptions**, while preserving **444→445 DEFERRED / UNRESOLVED**. Do not begin Part 005.
+Perform the separate **Part 004 Tamil archival-ready checkpoint**. Confirm the complete closed Tamil evidence chain and final **111 textual verified + 111 visual verified / 0 exceptions** state while preserving **444→445 DEFERRED / UNRESOLVED**. Do not begin Part 005.

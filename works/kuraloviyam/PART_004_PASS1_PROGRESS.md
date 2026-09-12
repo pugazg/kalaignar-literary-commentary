@@ -357,6 +357,21 @@ Durable record: `PART_004_FINAL_STATUS_SYNC.md`.
 - only `status` and `visual_fidelity` changed;
 - external **444→445 DEFERRED / UNRESOLVED** preserved.
 
+## Documentation synchronization
+
+**COMPLETE / PASS.**
+
+Durable record: `PART_004_DOCUMENTATION_SYNC.md`.
+
+Documentation synchronization reconciled the live Part-004 control layer to the final Tamil metadata state:
+
+- textual status — **111/111 verified**;
+- visual fidelity — **111/111 verified**;
+- partial / blocked / source-limited / needs-review exceptions — **0**;
+- source intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 / audit / final metadata-status sync — **COMPLETE / PASS / CLOSED as applicable**;
+- external **444→445 DEFERRED / UNRESOLVED** preserved;
+- page-record changes during documentation synchronization — **0**.
+
 ## Exact next activity
 
-Perform **Part 004 documentation synchronization**. Reconcile README, page map, handover, next-chat prompt, archival guide and closure records to the now-final Tamil metadata state. After documentation synchronization passes, the next separate gate is the **Tamil archival-ready checkpoint**. Do not begin Part 005.
+Perform the separate **Part 004 Tamil archival-ready checkpoint**. Confirm the complete evidence chain, final 111/111 textual + visual verified disposition, zero unresolved internal archival exceptions, and preservation of **444→445 DEFERRED / UNRESOLVED**. Do not begin Part 005.

@@ -357,13 +357,14 @@ Part 004:
 - Pass 3 — **COMPLETE / PASS 111/111**;
 - Part audit — **PASS / COMPLETE**;
 - final metadata/status synchronization — **PASS / CLOSED**;
+- documentation synchronization — **COMPLETE / PASS**;
 - textual status distribution — **111 verified / 0 partial / 0 blocked / 0 needs-review**;
 - visual status distribution — **111 verified / 0 needs-review**;
-- documentation synchronization — **NEXT / UNBLOCKED**;
-- Tamil archival-ready / English / final Part closure — **not started**.
+- Tamil archival-ready checkpoint — **NEXT / UNBLOCKED**;
+- English / final Part closure — **not started**.
 
-Durable final-status record: `../PART_004_FINAL_STATUS_SYNC.md`.
+Durable documentation-sync record: `../PART_004_DOCUMENTATION_SYNC.md`.
 
 ## Current frontier
 
-**Part 004 documentation synchronization.** Preserve external **444→445 DEFERRED / UNRESOLVED**.
+**Part 004 Tamil archival-ready checkpoint.** Preserve external **444→445 DEFERRED / UNRESOLVED**.

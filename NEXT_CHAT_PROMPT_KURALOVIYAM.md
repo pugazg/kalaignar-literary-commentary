@@ -1,10 +1,12 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 004 documentation synchronization
+# NEXT CHAT PROMPT — குறளோவியம் / Part 004 Tamil archival-ready checkpoint
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
 Fetch live `main` first and preserve any newer durable work.
+
+Parts **001–003 are fully CLOSED**. Do not reopen them unless genuinely new source/provenance/fidelity evidence appears.
 
 ## Durable Part 004 state
 
@@ -15,49 +17,41 @@ Fetch live `main` first and preserve any newer durable work.
 - Pass 3 — **COMPLETE / PASS 111/111**;
 - Part audit — **PASS / COMPLETE**;
 - final metadata/status synchronization — **PASS / CLOSED**;
+- documentation synchronization — **COMPLETE / PASS**;
 - Tamil textual status — **111/111 verified**;
 - visual fidelity — **111/111 verified**;
 - partial / blocked / source-limited / needs-review exceptions — **0**;
-- documentation synchronization — **NEXT / UNBLOCKED**;
-- Tamil archival-ready checkpoint — **BLOCKED until documentation synchronization closes**;
+- Tamil archival-ready checkpoint — **NEXT / UNBLOCKED**;
 - external **444→445 DEFERRED / UNRESOLVED** until actual Part 005 source intake.
 
-## Durable status-sync evidence
+## Durable evidence chain
 
-Starting pre-sync checkpoint:
+Read before closing the checkpoint:
 
-`544fd5545b7d1c1776045c1c9f9608d98f68595d`
+1. `works/kuraloviyam/SOURCE_INTAKE_PART_004.md`
+2. `works/kuraloviyam/PART_004_PASS1_PROGRESS.md`
+3. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_004.md`
+4. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_004.md`
+5. `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_004.md`
+6. `works/kuraloviyam/PART_004_AUDIT.md`
+7. `works/kuraloviyam/PART_004_FINAL_STATUS_SYNC.md`
+8. `works/kuraloviyam/PART_004_DOCUMENTATION_SYNC.md`
 
-Clean status-sync endpoint:
+## Exact next activity — Tamil archival-ready checkpoint
 
-`bbbfdba26c5aae81f21d0e1b0bc5a69e1bf27400`
+Perform the **Part 004 Tamil archival-ready checkpoint** as a closure declaration, not a new transcription or verification pass.
 
-Direct compare confirms exactly **111 Part-004 page files changed**, every file with **2 additions / 2 deletions / 4 changed lines**, corresponding only to:
+Confirm:
 
-- `status: "needs-review"` → `status: "verified"`;
-- `visual_fidelity: "needs-review"` → `visual_fidelity: "verified"`.
+1. the complete eight-stage Tamil evidence chain above is closed;
+2. the canonical Part inventory remains **111 records, scans 334–444 / printed 317–427**;
+3. all **111/111** page records remain `status: "verified"`;
+4. all **111/111** remain `visual_fidelity: "verified"`;
+5. partial / blocked / source-limited / needs-review exceptions remain **0**;
+6. incoming **333→334 CLEAN / source-resolved** remains preserved;
+7. external **444→445 DEFERRED / UNRESOLVED** remains preserved;
+8. no Tamil body text, Kural wording, page structure, visual notes, comments or page mapping are changed by the checkpoint.
 
-Durable record: `works/kuraloviyam/PART_004_FINAL_STATUS_SYNC.md`.
+Create `works/kuraloviyam/PART_004_TAMIL_ARCHIVAL_READY.md` using the Part-003 archival-ready record as precedent.
 
-## Exact next activity — documentation synchronization
-
-Reconcile all live Part-004 documentation/control surfaces so they agree on the final Tamil state:
-
-1. `works/kuraloviyam/README.md`;
-2. `works/kuraloviyam/indexes/page-map.md`;
-3. `works/kuraloviyam/HANDOVER.md`;
-4. root `HANDOVER.md`;
-5. `KURALOVIYAM_ARCHIVAL_GUIDELINES.md`;
-6. this `NEXT_CHAT_PROMPT_KURALOVIYAM.md`;
-7. any Part-004 closure/status summary still reporting an older frontier.
-
-Required final documentation state:
-
-- Part 004 source intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 / Part audit / final metadata-status sync — **COMPLETE / PASS / CLOSED as applicable**;
-- Tamil page statuses — **111/111 verified**;
-- visual fidelity — **111/111 verified**;
-- exceptions — **0**;
-- external **444→445 DEFERRED / UNRESOLVED** preserved;
-- exact next gate after documentation sync — **Tamil archival-ready checkpoint**.
-
-Do **not** perform the Tamil archival-ready checkpoint in the same iteration unless separately instructed. Do **not** begin Part 005.
+After closing Tamil archival-ready, determine the next permitted stage from the repository workflow. Do **not** begin Part 005 unless its controlling source is actually supplied and the workflow permits it.

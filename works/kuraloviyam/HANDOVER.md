@@ -156,7 +156,7 @@ Durable final checkpoint: `works/kuraloviyam/PART_003_FINAL_CLOSURE.md`.
 
 Part 003 Tamil and maintained English are now fully closed. English is **111/111 `release-ready`**; the Part-level review is PASS; the release report is APPROVED / CLOSED; no Tamil or English page record changed during the final checkpoint.
 
-## Part 004 — ACTIVE / documentation synchronization next
+## Part 004 — ACTIVE / Tamil archival-ready checkpoint next
 
 Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf`.
 
@@ -169,29 +169,26 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_
 - Pass 3 — **COMPLETE / PASS 111/111**;
 - Part audit — **PASS / COMPLETE**;
 - final metadata/status synchronization — **PASS / CLOSED**;
+- documentation synchronization — **COMPLETE / PASS**;
 - final Tamil textual distribution — **111 verified / 0 partial / 0 blocked / 0 needs-review**;
 - final visual distribution — **111 verified / 0 needs-review**;
-- documentation synchronization — **NEXT / UNBLOCKED**;
-- Tamil archival-ready checkpoint — **BLOCKED until documentation synchronization closes**;
+- Tamil archival-ready checkpoint — **NEXT / UNBLOCKED**;
 - external **444→445 DEFERRED / UNRESOLVED** until Part 005 intake.
 
-Durable Part-004 closure records now include:
+Durable Part-004 closure records:
 
 - `works/kuraloviyam/PART_004_AUDIT.md`;
-- `works/kuraloviyam/PART_004_FINAL_STATUS_SYNC.md`.
+- `works/kuraloviyam/PART_004_FINAL_STATUS_SYNC.md`;
+- `works/kuraloviyam/PART_004_DOCUMENTATION_SYNC.md`.
 
-## Exact next activity — Part 004 documentation synchronization
+## Exact next activity — Part 004 Tamil archival-ready checkpoint
 
-Reconcile all live Part-004 overview/control documents to the final Tamil metadata state:
+Declare Part 004 Tamil archival-ready only after reconfirming:
 
-1. README;
-2. page map/current frontier;
-3. work handover;
-4. root handover;
-5. archival guide;
-6. next-chat prompt;
-7. any Part-004 closure/status summary that would otherwise remain stale.
+1. source intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 / Part audit / final status sync / documentation sync are all closed;
+2. all **111/111** Tamil records are `verified`;
+3. all **111/111** visual-fidelity records are `verified`;
+4. carried partial / blocked / source-limited / needs-review exceptions are **0**;
+5. external **444→445 DEFERRED / UNRESOLVED** remains preserved.
 
-Confirm all agree on **111/111 textual verified + 111/111 visual verified**, with **444→445 DEFERRED / UNRESOLVED** preserved.
-
-Do not begin the Tamil archival-ready checkpoint in the same iteration unless separately instructed. Do not begin Part 005.
+Do **not** begin Part 005.

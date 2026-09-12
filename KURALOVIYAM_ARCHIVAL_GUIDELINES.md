@@ -207,14 +207,15 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_
 - Pass 3: **COMPLETE / PASS — 111/111**;
 - Part audit: **PASS / COMPLETE**;
 - final metadata/status synchronization: **PASS / CLOSED**;
+- documentation synchronization: **COMPLETE / PASS**;
 - Tamil textual status: **111/111 verified**;
 - visual fidelity: **111/111 verified**;
 - status exceptions: **0**;
-- documentation synchronization: **NEXT / UNBLOCKED**;
+- Tamil archival-ready checkpoint: **NEXT / UNBLOCKED**;
 - outgoing **444→445: DEFERRED / UNRESOLVED** until Part 005 intake.
 
-Durable final-status record: `works/kuraloviyam/PART_004_FINAL_STATUS_SYNC.md`.
+Durable documentation-sync record: `works/kuraloviyam/PART_004_DOCUMENTATION_SYNC.md`.
 
 ### Exact next content stage
 
-Perform **Part 004 documentation synchronization** and reconcile every live overview/frontier control to the final Tamil status state. After documentation synchronization passes, proceed separately to the Tamil archival-ready checkpoint. Do not begin Part 005.
+Perform the separate **Part 004 Tamil archival-ready checkpoint**. Do not begin Part 005.
