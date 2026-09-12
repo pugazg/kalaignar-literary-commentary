@@ -131,26 +131,25 @@ Part 003 maintained English is **RELEASE COMPLETE / CLOSED — 111/111 `release-
 
 ## Part 004 Tamil — ARCHIVAL-READY / CLOSED
 
-Part 004 covers scans **334–444 / printed 317–427**, 111 physical pages.
+- Tamil — **111 textual verified + 111 visual verified / 0 exceptions**;
+- external **444→445 DEFERRED / UNRESOLVED**.
 
-- Tamil: **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**;
-- external **444→445 DEFERRED / UNRESOLVED** until Part 005 source intake.
+## Part 004 English drafting + source-check — CLOSED
 
-## Part 004 English — DRAFTING + SOURCE-CHECK CLOSED
-
-- drafting — **111/111 COMPLETE / CLOSED**;
+- drafting — **111/111 COMPLETE**;
 - source-check — **111/111 COMPLETE / CLOSED**;
 - current page status — **111 `source-checked`**.
 
 ## Part 004 English glossary reconciliation — IN PROGRESS
 
-- GR1 **334–366 / printed 317–349 — COMPLETE / PASS 33/33**;
-- cumulative glossary reconciliation — **33/111**;
-- GR1 page wording changes — **scan 366 only: `Gandhiji` → `Gandhi`**;
-- page status changes — **0**;
+- GR1 **334–366 — COMPLETE / PASS 33/33**;
+- GR2 **367–399 — COMPLETE / PASS 33/33**;
+- cumulative — **66/111**;
+- GR2 terminology corrections — **6 page files: 369, 370, 374, 390, 392, 396**;
+- page-status changes — **0**;
 - Tamil changes — **0**;
-- **366→367 genuine continuation** preserved.
+- **399→400 CLEAN** preserved.
 
 ## Current frontier
 
-**GR2 — scans 367–399 / printed 350–382 — 33 pages.**
+**GR3 — scans 400–432 / printed 383–415 — 33 pages.**

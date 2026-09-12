@@ -271,49 +271,50 @@ No English page record or Tamil record changed during the final closure checkpoi
 
 ## Part 004 Tamil readiness — ARCHIVAL-READY / CLOSED
 
-Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf` — scans **334–444 / printed 317–427**, 111 physical pages, SHA-256 `5b7fcc65f19dc3d2a57bebb13cdfb02d0c83f70a5ccc9e537886790908674581`.
+Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf` — scans **334–444 / printed 317–427**, 111 physical pages.
 
-Tamil source intake through archival-ready are **CLOSED**. Final Tamil state: **111 textual verified + 111 visual verified / 0 exceptions**.
+Tamil remains **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**.
 
-Incoming **333→334 CLEAN / source-resolved**. External **444→445 DEFERRED / UNRESOLVED** until Part 005 source intake.
+## Part 004 English drafting + source-check — COMPLETE / CLOSED
 
-## Part 004 English first-pass drafting — COMPLETE / CLOSED
-
-- cumulative drafting — **111/111 COMPLETE**.
-
-## Part 004 English source-check — COMPLETE / CLOSED
-
-- cumulative source-check — **111/111 COMPLETE / CLOSED**;
-- final English state after source-check — **111 `source-checked` / 0 draft / 0 source-limited / 0 blocked**;
-- source-check correction pages — **343, 374, 381, 410, 426, 434, 437**;
-- Tamil archival changes — **0**.
+- drafting — **111/111 COMPLETE**;
+- source-check — **111/111 COMPLETE / CLOSED**;
+- current page state — **111 `source-checked` / 0 draft / 0 source-limited / 0 blocked**.
 
 ## Part 004 English glossary reconciliation — IN PROGRESS
 
 ### GR1 — COMPLETE / PASS 33/33
-
 - scans **334–366 / printed 317–349**;
-- cumulative glossary reconciliation — **33/111**;
-- current English state — **111 `source-checked` / 0 draft / 0 source-limited / 0 blocked**;
+- wording correction pages — **1**, scan **366**;
+- page-status changes — **0**;
+- Tamil changes — **0**.
+
+### GR2 — COMPLETE / PASS 33/33
+- scans **367–399 / printed 350–382**;
+- cumulative glossary reconciliation — **66/111**;
+- current page state — **111 `source-checked` / 0 draft / 0 source-limited / 0 blocked**;
+- all **17** Chapter/Kural metadata records checked with **0 chapter-number or Kural-number mismatches**;
+- English terminology corrections — **6 page files**:
+  - scan **369** — `yazh` → **yaazh**;
+  - scan **370** — `Porutpaal` → **Book of Porul**;
+  - scan **374** — `Gandhiji` → **Gandhi**;
+  - scan **390** — `Porutpaal` → **Book of Porul**;
+  - scan **392** — `yazh` → **yaazh**;
+  - scan **396** — `Azhagan` → **Alagan**;
 - page-status changes — **0**;
 - Tamil archival changes — **0**;
-- English page wording changes — **1 page file, scan 366 only**;
-- scan **366 / printed 349** — existing controlled source-honorific mapping `காந்தியடிகள் → Gandhi` reconciled **“Gandhiji” → “Gandhi”**;
-- all **17** Chapter/Kural metadata records across **16** pages checked with **0 chapter-number or Kural-number mismatches**;
-- new Part-004 chapter controls added: **The Might of Enmity**, **Refraining from Causing Pain**, **Impermanence**, **Freedom from Envy**, **Possession of Compassion**;
-- source variant `கூடா ஒழுக்கம்` mapped to existing **False Conduct**;
-- Part-004-first narrative/literary/historical controls recorded in `GLOSSARY.md`, including **Arimaanenjan**, **Narithalaivan**, **Aththi**, **Anbanandan**, **Azhagarasi**, **Manonmaniyam**, **Jeevakan**, **Kudilan**, **Purudothaman**, **Oliyazhagan**, **Paavai**, **Poonkundran**, **Seeralan**, **Pemman**, **Muhammad Ali Jinnah**, **Yahya Khan**, **Zia**, **Bhagat Singh**, **Rajaguru**, **Sukhdev**, **Jeyagopal**, and **Yavana / Yavana land**;
-- genuine **366→367 continuation** preserved;
+- incoming **366→367 genuine continuation** preserved;
+- outgoing **399→400 CLEAN** preserved;
 - external/published/web terminology imported — **0**.
 
-GR1 commit:
+GR2 commit:
 
-- `bc9a043ee5e936ee6a26e053c7678951bb463352` — glossary controls + scan 366 terminology correction.
+- `b52086dfe39ac887cf708712656d5f3772f4dc74`.
 
-GR1 change audit from `7e77a33d8d16e1300ed6382da00116222184be03` to `bc9a043ee5e936ee6a26e053c7678951bb463352`: exactly **2 changed files** — `GLOSSARY.md` and English scan **366**. No page status or Tamil record changed.
+GR2 exact change set from `466a98050b69bdb9b4ae653f150bc99056f57a6f`: **7 files** — `GLOSSARY.md` plus English scans **369, 370, 374, 390, 392, 396**.
 
 ## Exact next English activity
 
-Process **GR2 — scans 367–399 / printed 350–382 — 33 English pages**.
+Process **GR3 — scans 400–432 / printed 383–415 — 33 English pages**.
 
-Reconcile recurring names, controlled literary terms, chapter labels, citation metadata and repeated English renderings against `GLOSSARY.md` and audited Tamil context. Make only source-evidenced terminology corrections. Keep every page status `source-checked`; do not alter Tamil records or begin Part 005.
+Use `GLOSSARY.md` and audited Tamil context. Reconcile only source-supported recurring names, controlled terms, chapter labels, citation metadata and repeated English renderings. Keep all page statuses `source-checked`; do not alter Tamil records or begin Part 005.

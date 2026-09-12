@@ -156,24 +156,25 @@ Durable final checkpoint: `works/kuraloviyam/PART_003_FINAL_CLOSURE.md`.
 
 Part 003 Tamil and maintained English are now fully closed. English is **111/111 `release-ready`**; the Part-level review is PASS; the release report is APPROVED / CLOSED; no Tamil or English page record changed during the final checkpoint.
 
-## Part 004 — TAMIL CLOSED / ENGLISH GLOSSARY GR2 NEXT
+## Part 004 — TAMIL CLOSED / ENGLISH GLOSSARY GR3 NEXT
 
 ### Durable English state
 
-- first-pass drafting — **COMPLETE / CLOSED 111/111**;
+- drafting — **COMPLETE / CLOSED 111/111**;
 - source-check — **COMPLETE / CLOSED 111/111**;
-- glossary reconciliation — **IN PROGRESS 33/111**;
-- GR1 **334–366 / printed 317–349 — COMPLETE / PASS 33/33**;
-- English state — **111 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- GR1 page wording corrections — **1 page: scan 366, `Gandhiji` → `Gandhi`**;
-- glossary gate status changes — **0**;
-- GR1 Tamil changes — **0**;
-- **366→367 genuine continuation** preserved;
+- glossary reconciliation — **IN PROGRESS 66/111**;
+- GR1 **334–366 — COMPLETE / PASS 33/33**;
+- GR2 **367–399 — COMPLETE / PASS 33/33**;
+- current page state — **111 source-checked / 0 draft / 0 source-limited / 0 blocked**;
+- GR2 corrections — scans **369, 370, 374, 390, 392, 396**;
+- GR2 page-status changes — **0**;
+- GR2 Tamil changes — **0**;
+- **399→400 CLEAN** preserved;
 - editorial review and later gates — **BLOCKED until glossary reconciliation closes**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
-## Exact next activity — Part 004 English glossary GR2
+## Exact next activity — Part 004 English glossary GR3
 
-Process **scans 367–399 / printed 350–382 — 33 pages**.
+Process **scans 400–432 / printed 383–415 — 33 pages**.
 
-Reconcile recurring names, controlled terms, chapter/Kural metadata and repeated English renderings against `GLOSSARY.md` and audited Tamil context. Make only source-supported terminology corrections; keep page statuses `source-checked`, do not alter Tamil records and do not begin Part 005.
+Reconcile terminology against `GLOSSARY.md` and audited Tamil. Keep all pages `source-checked`; do not alter Tamil records or begin Part 005.
