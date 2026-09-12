@@ -6,14 +6,14 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
 —and kept his memory from fading.
 
-Having rejoiced in seeing all the places worth visiting from northern India to southern India, could the eyes of those foreign travellers fail to fall upon Chennai's long seashore?
+Having rejoiced in seeing all the places worth visiting from northern India to southern India, could those foreign travellers fail to turn their eyes toward Chennai's long seashore?
 
 There, between coconut groves on the shore, their eyes turned toward a tomb made of black stone.
 

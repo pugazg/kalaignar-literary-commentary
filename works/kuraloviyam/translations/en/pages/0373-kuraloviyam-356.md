@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -25,7 +25,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 “You do not understand me fully, Poonkodi! When he has not come to me, I suffer because he has not yet come. And if he does come, then too my mind suffers! He will scoop me up, I will leap; he will embrace me, wet my lips. Even then I suffer! You will ask, ‘What suffering could there be even then?’ My heart will cry thinking that the one who gives me so much delight will again leave me and go away. So when I do not have him, I fear because I cannot obtain him; when I have obtained him, I fear the separation that is to come. In every way my heart experiences only pain.”
 
-Hearing from Maangili's own mouth both her painful pain and her pleasurable pain, Poonkodi gave a little laugh.
+Hearing from Maangili's own mouth both her painful pain and her pleasurable pain, Poonkodi giggled.
 
 > When I have him not, I fear I shall not gain him; when I gain him, I fear separation.  
 > My heart is thus never free of suffering.

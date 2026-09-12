@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,6 +19,6 @@ The head of a monastery was travelling in a palanquin. The men carrying it could
 
 That monastery possessed abundant property and comfort: paddy fields as far as the eye could see, coconut groves, sugarcane fields, and bamboo forests belonging to the institution along the riverbeds. He had not come to the monastery as a student expecting one day to become master of all of it. Somehow he had arrived, put on the saffron robe, learned stories of gods under names such as Kakuthan, Kailainathan and Kaarmegavannan, and won the great affection of the senior monastic head. When the elder reached the end of his time, he made this man head of the monastery and closed his eyes. How could he fail to rejoice in the exalted life that had thus come to him?
 
-The palanquin went on. As it passed near a waterfall, a sight appeared before the monastic head's sacred eyes. Two young women were bathing in the waterfall. They delighted in the pleasure of cool water embracing them from head to foot. Amid the rapidly falling water they looked like kayal fish seen through a glass case. The waterfall pushed down their upper garments and—
+The palanquin went on. As it passed near a waterfall, a sight met the monastic head's sacred gaze. Two young women were bathing in the waterfall. They delighted in the pleasure of cool water embracing them from head to foot. Amid the rapidly falling water they looked like kayal fish seen through a glass case. The waterfall pushed down their upper garments and—
 
 <!-- Source scan page: 376; printed page: 359; monastic-head/palanquin vignette begins; genuine continuation to scan 377 -->
