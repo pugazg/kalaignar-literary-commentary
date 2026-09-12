@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -17,7 +17,7 @@ Everything would be delight! Only afterward would they drink the milk. That was 
 
 She expected her husband to come near. He would say, “My love! Are you angry?” He would gather her up in his arms. “From now on, the moment work ends I will run to see you,” he would say. His lips would press and play from the crown of her head over her whole body with the sound of kisses. Then they would throw away their quarrel and their bodies would entwine.
 
-Painting such an imagined epic, she rolled on the mat with eyes half closed, half open. He, meanwhile, drank the milk, followed it with a belch, and yawned on the cot without caring about the woman lying below in longing.
+Painting such an imagined epic, she rolled on the mat with eyes half closed, half open. He, meanwhile, drank the milk, followed it with a belch, and yawned on the cot without caring about her, lying below and yearning.
 
 “What is this great anger? Are you going to come and lie down properly or not?”
 

@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 Large upper illustration of a seated public figure with attendants and a woman bowing near his feet.
 
-“Virtue guides me! Justice and honesty alone stand beside me! To put it briefly, my life is spotless! It is a life that even those who composed the four Vedas could honour and praise! The reason I keep finding fault with others is not because I wish to place blame on anyone. By criticizing others and speaking of them contemptuously, my own greatness becomes known to the people. I am a man of sacrifice who has renounced everything like the Buddha. Like the Prophet, I accept opposition with a smile. Like Jesus, I care nothing for whatever loss may come in the struggle for victory of an ideal.”
+“Virtue guides me! Justice and honesty alone stand beside me! To put it briefly, my life is spotless! It is a life that even those who composed the four Vedas could honour and praise! The reason I keep finding fault with others is not because I wish to place blame on anyone. By criticizing others and speaking of them contemptuously, my own greatness becomes known to the people. I am a man of sacrifice who has renounced everything like the Buddha. Like the Prophet, I accept opposition with a smile. Like Jesus, I care nothing for whatever loss may come in the struggle for the victory of an ideal.”
 
 A schoolteacher's son stood there listening in astonishment as a man spoke like this before the people.
 

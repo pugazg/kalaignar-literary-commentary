@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -25,7 +25,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 “Then why is my prestige fading day by day?”
 
-“People have begun not merely to believe what you say, but also to watch what you actually do.”
+“People have begun to look not only at what you say, but also at what you actually do.”
 
 “Fool! It seems you yourself are becoming my enemy! Go! Go! Do not stand before me! I will continue speaking about my greatness and my righteous life. If people will not fall into my net, I will not hesitate even to buy them with money.”
 
