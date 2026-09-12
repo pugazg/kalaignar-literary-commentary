@@ -189,8 +189,57 @@ Exact page-only compare from pre-batch `6fcc924f830ee6d7258f94d5417400fad5a73aa7
 - Parts 001–004 remain untouched;
 - Part 006 remains transcription-inactive.
 
+## P5-05 state
+
+**11 / 11 page records captured — COMPLETE.**
+
+P5-05 scans **489–499 / printed 472–482** are captured as one page-aligned Tamil Pass-1 record per physical scan. All 11 records carry:
+
+- `part: 5`;
+- `part_page: 45–55`;
+- exact scan/printed-page mappings;
+- `status: "needs-review"`;
+- `visual_fidelity: "needs-review"`;
+- the exact Part 005 source filename.
+
+Batch page-layer commit:
+
+`a76772193a35a83aca682214724ed0e775cd46b9` — `kuraloviyam: Capture Part 005 Pass 1 scans 489-499`
+
+Source-reading reconciliation commit:
+
+`f73a779411598a9ca303a3ec3d6d351d082761fb` — `kuraloviyam: Reconcile Part 005 P5-05 source readings`
+
+The reconciliation corrects source-visible readings on scans 494, 495, 496, 498 and 499 without changing the 11-page batch boundary.
+
+Exact compare from pre-batch `35038f4fd2114fe8234b24e7262ca9dfd80ce263` to corrected page endpoint `f73a779411598a9ca303a3ec3d6d351d082761fb` is **ahead by 2 commits** and changes exactly **11 files**, all and only scans **489–499**.
+
+## P5-05 continuity map
+
+- **488→489 — CLEAN**; scan 489 begins the ill-gotten-wealth vignette;
+- **489→490 — GENUINE CONTINUATION**; scan 490 closes Chapter 66 / Kural 660;
+- **490→491 — CLEAN**; scan 491 begins the lovers/eyes-and-heart vignette;
+- **491→492 — GENUINE CONTINUATION**; scan 492 closes Chapter 117 / Kural 1166;
+- **492→493 — CLEAN**; scan 493 begins the Valluvar/ignorant-pretender vignette;
+- **493→494 — GENUINE CONTINUATION**; scan 494 closes Chapter 41 / Kural 402;
+- **494→495 — CLEAN**; scan 495 begins the mother-son reconciliation vignette;
+- **495→496 — GENUINE CONTINUATION**; scan 496 closes Chapter 8 / Kural 71;
+- **496→497 — CLEAN**; scan 497 begins the elephant-trap analogy;
+- **497→498 — GENUINE CONTINUATION**; scan 498 closes Chapter 68 / Kural 678;
+- **498→499 — CLEAN**; scan 499 begins the public-gaze / concealed-love vignette;
+- **499→500 — GENUINE CONTINUATION**, directly checked from scan 500 / printed 483. Scan 500 continues the lovers' exchange and closes the unit with Chapter **114 — நாணுத்துறவுரைத்தல் / Kural 1138**; scan 500 was not created in P5-05.
+
+## P5-05 structural notes
+
+- all 11 page records remain `needs-review` / visual `needs-review`;
+- source-visible Kural blocks and glosses remain distinct from prose;
+- illustrations remain represented in `visual_notes`;
+- the source-reading reconciliation changes only P5-05 page files;
+- Parts 001–004 remain untouched;
+- Part 006 remains transcription-inactive.
+
 ## Current gate
 
-Part 005 Pass 1: **44/111 captured**.
+Part 005 Pass 1: **55/111 captured**.
 
-Next: **P5-05 / scans 489–499 / printed 472–482**, using scan **500 / printed 483** only as a boundary witness when required.
+Next: **P5-06 / scans 500–510 / printed 483–493**, using scan **511 / printed 494** only as a boundary witness when required.

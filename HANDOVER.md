@@ -195,9 +195,12 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - P5-02 — **456–466 / printed 439–449 — COMPLETE 11/11**;
 - P5-03 — **467–477 / printed 450–460 — COMPLETE 11/11**;
 - P5-04 — **478–488 / printed 461–471 — COMPLETE 11/11**;
-- cumulative Pass 1 — **44/111 captured**;
-- current 44 records — `needs-review` / visual `needs-review`;
-- **488→489 — CLEAN**, checked from scan 489 witness;
+- P5-05 — **489–499 / printed 472–482 — COMPLETE 11/11**;
+- cumulative Pass 1 — **55/111 captured**;
+- current 55 records — `needs-review` / visual `needs-review`;
+- P5-05 page endpoint — `f73a779411598a9ca303a3ec3d6d351d082761fb`;
+- exact P5-05 compare — **11 files only / scans 489–499**;
+- **499→500 — GENUINE CONTINUATION**, checked from scan 500 witness;
 - durable progress — `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ### Part 006 — SOURCE INTAKE COMPLETE / WAITING
@@ -209,4 +212,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Execute **Part 005 Pass 1 / P5-05 — scans 489–499 / printed 472–482**. Preserve **488→489 CLEAN** and use scan **500 / printed 483** only as an outgoing boundary witness when required. Do not begin Part 006 transcription yet.
+Execute **Part 005 Pass 1 / P5-06 — scans 500–510 / printed 483–493**. Preserve the incoming **499→500 genuine continuation**. Use scan **511 / printed 494** only as an outgoing boundary witness when required. Do not begin Part 006 transcription yet.

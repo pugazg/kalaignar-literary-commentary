@@ -181,10 +181,11 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - P5-02 — **456–466 / printed 439–449 — COMPLETE 11/11**;
 - P5-03 — **467–477 / printed 450–460 — COMPLETE 11/11**;
 - P5-04 — **478–488 / printed 461–471 — COMPLETE 11/11**;
-- cumulative Pass 1 — **44/111**;
-- current captured records — **44 needs-review / visual needs-review**;
+- P5-05 — **489–499 / printed 472–482 — COMPLETE 11/11**;
+- cumulative Pass 1 — **55/111**;
+- current captured records — **55 needs-review / visual needs-review**;
 - durable progress — `PART_005_PASS1_PROGRESS.md`;
-- **488→489 CLEAN**.
+- **499→500 genuine continuation**.
 
 ## Part 006 — SOURCE-READY / WAITING
 
@@ -195,4 +196,4 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 
 ## Current frontier
 
-**Part 005 P5-05 — scans 489–499 / printed 472–482.**
+**Part 005 P5-06 — scans 500–510 / printed 483–493.**
