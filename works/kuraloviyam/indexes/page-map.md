@@ -339,22 +339,22 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 ## Part 004 boundary resolution and verification map
 
-- canonical Tamil inventory: **111 records**;
-- Tamil: **ARCHIVAL-READY / CLOSED**;
-- English inventory: **111/111 aligned**;
-- current page status — **111 release-ready / 0 editorial-reviewed / 0 source-checked / 0 draft / 0 source-limited / 0 blocked**;
+- canonical Tamil inventory — **111 records**;
+- Tamil — **ARCHIVAL-READY / CLOSED**;
+- English inventory — **111/111 aligned**;
+- English final page state — **111/111 `release-ready`**;
 - Part-level English review — **PASS / CLOSED**;
 - English release — **APPROVED / CLOSED**;
-- release change set — **111 English page records only; status-token-only**;
+- final Part checkpoint — **PASS / CLOSED**;
+- durable final record — `../PART_004_FINAL_CLOSURE.md`;
 - **333→334 CLEAN**;
 - **366→367 genuine continuation**;
 - **399→400 CLEAN**;
 - **432→433 CLEAN**;
 - **443→444 CLEAN**;
 - scan **444 / printed 427 remains source-open**;
-- external **444→445 DEFERRED / UNRESOLVED**;
-- next — **final Part 004 closure checkpoint/documentation confirmation**.
+- external **444→445 DEFERRED / UNRESOLVED**.
 
 ## Current frontier
 
-**Final Part 004 closure checkpoint — NEXT.**
+**Part 005 source intake only when the controlling source is supplied.**

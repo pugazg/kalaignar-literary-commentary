@@ -268,22 +268,26 @@ All release page changes were status-token-only; approved English wording and Ta
 
 Part 004 has now completed source intake and the full Tamil archival workflow.
 
-## 16. Part 004 active English record
+## 16. Part 004 closed English record
 
-- Tamil — **ARCHIVAL-READY / CLOSED**;
+Part 004 covers scans **334–444 / printed 317–427**.
+
+- Tamil — **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified / 0 exceptions**;
 - English drafting — **COMPLETE / CLOSED 111/111**;
 - source-check — **COMPLETE / CLOSED 111/111**;
 - glossary reconciliation — **COMPLETE / CLOSED 111/111**;
 - editorial review — **COMPLETE / CLOSED 111/111**;
 - Part-level review — **PASS / CLOSED**;
 - release report — **APPROVED / CLOSED**;
-- current page state — **111 release-ready / 0 editorial-reviewed / 0 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- release promotion base — `b4c248ba1edd4f8eeb16cfd296fd51489ad8fca5`;
-- release promotion endpoint — `091d855a1fbe7f4588680e380ee33bea3824d036`;
-- exact release change set — **111 English page records only**, each **+1/-1**, status-token-only;
-- approved English wording changes — **0**;
-- Tamil changes — **0**;
-- scan **444 / printed 427 remains source-open**;
-- external **444→445 DEFERRED / UNRESOLVED**.
+- release-ready — **111/111 COMPLETE / CLOSED**;
+- final Part checkpoint — **PASS / CLOSED**.
 
-The next gate is the **final Part 004 closure checkpoint/documentation confirmation**. It must confirm the durable closed state without altering English page wording/status or Tamil records.
+Durable records:
+
+- `reviews/PART_004_ENGLISH_REVIEW.md`;
+- `reviews/PART_004_ENGLISH_RELEASE_REPORT.md`;
+- `../../PART_004_FINAL_CLOSURE.md`.
+
+All release page changes were status-token-only. Approved English wording and Tamil archival records were unchanged by release/final closure. Scan **444 / printed 427** remains source-open and external **444→445** remains deferred until the actual Part 005 controlling source is supplied.
+
+Part 005 English work must not begin before Part 005 source intake and Tamil archival processing establish the controlling source and adjacent boundary.

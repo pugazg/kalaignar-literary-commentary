@@ -18,7 +18,7 @@ The original source PDF is reported as **666 physical PDF pages**. Because the o
 | 001 | 1–111 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_001_pages_1-111.pdf` | supplied; Tamil/English closed |
 | 002 | 112–222 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | supplied; Tamil/English closed |
 | 003 | 223–333 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf` | **supplied; Tamil + English CLOSED — final checkpoint PASS / CLOSED; 111/111 English release-ready** |
-| 004 | 334–444 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf` | **Tamil ARCHIVAL-READY / CLOSED; English release APPROVED / CLOSED — 111/111 release-ready; final Part closure next** |
+| 004 | 334–444 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf` | **Tamil + maintained English CLOSED — final checkpoint PASS / CLOSED; 111/111 English release-ready** |
 | 005 | 445–555 | 111 | not yet supplied / exact filename not yet established | not-started |
 | 006 | 556–666 | 111 | not yet supplied / exact filename not yet established | not-started |
 
@@ -127,7 +127,7 @@ Detailed Part 004 intake record:
 
 `works/kuraloviyam/SOURCE_INTAKE_PART_004.md`
 
-Part 004 Tamil verification through documentation synchronization is **COMPLETE**, and the Tamil archival-ready checkpoint is **PASS / CLOSED** at **111/111 textual verified + 111/111 visual verified / 0 exceptions**. The maintained English workflow has completed drafting, source-check, glossary reconciliation and editorial review at **111/111**. The Part-level English review is **PASS / CLOSED**. The English release report is **APPROVED / CLOSED**, and all **111/111 Part 004 English pages are now `release-ready`**. Release promotion from `b4c248ba1edd4f8eeb16cfd296fd51489ad8fca5` to `091d855a1fbe7f4588680e380ee33bea3824d036` changed exactly **111 English page records**, each **+1/-1** and status-token-only; approved English wording changes were **0**, Tamil changes **0**, and glossary changes **0**. Scan **444 / printed 427 remains source-open** and external **444→445 remains DEFERRED / UNRESOLVED**. The exact next gate is the **final Part 004 closure checkpoint/documentation confirmation**.
+Part 004 Tamil verification through documentation synchronization is **COMPLETE**, and the complete maintained Part 004 workflow is now **PASS / CLOSED**. Tamil is **111/111 textual verified + 111/111 visual verified / 0 exceptions**. English drafting, source-check, glossary reconciliation and editorial review are **111/111 COMPLETE / CLOSED**; the Part-level English review is **PASS / CLOSED**; the English release report is **APPROVED / CLOSED**; and all **111/111 English pages are `release-ready`**. Durable final checkpoint: `works/kuraloviyam/PART_004_FINAL_CLOSURE.md`. The final checkpoint changes **0 English page records and 0 Tamil page records**. Scan **444 / printed 427 remains source-open** and external **444→445 remains DEFERRED / UNRESOLVED until Part 005 controlling source intake**. Part 005 has not begun.
 
 ## Front-matter observations
 

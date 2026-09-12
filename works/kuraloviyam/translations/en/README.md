@@ -171,14 +171,17 @@ Durable record: `reviews/PART_004_ENGLISH_REVIEW.md`.
 
 Durable report: `reviews/PART_004_ENGLISH_RELEASE_REPORT.md`.
 
-- current page status — **111/111 `release-ready`**;
-- exact release change set — **111 English page records only**;
-- status-token-only promotion — **PASS**;
-- English wording changes — **0**;
-- Tamil changes — **0**;
-- scan **444 / printed 427 remains source-open**;
-- external **444→445 DEFERRED / UNRESOLVED**.
+- final English state — **111/111 `release-ready`**;
+- release promotion — **111 English page records only / status-token-only**;
+- approved wording changes during release — **0**;
+- Tamil changes during release — **0**.
+
+## Part 004 final closure — PASS / CLOSED
+
+Durable record: `../../PART_004_FINAL_CLOSURE.md`.
+
+The final checkpoint changed **0 English page records** and **0 Tamil records**. Scan **444 / printed 427** remains source-open; external **444→445 remains DEFERRED / UNRESOLVED**.
 
 ## Current frontier
 
-**Final Part 004 closure checkpoint/documentation confirmation — NEXT.**
+**No remaining Part 004 English activity. Part 005 source intake awaits the controlling source.**

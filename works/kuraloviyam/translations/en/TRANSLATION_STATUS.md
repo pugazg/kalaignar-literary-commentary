@@ -366,25 +366,32 @@ ER4 made only source-faithful readability improvements. In particular, scan **44
 
 Durable record: `reviews/PART_004_ENGLISH_REVIEW.md`.
 
-Whole-Part audit passed exact **111/111** inventory/alignment, all **111 `editorial-reviewed`** statuses, **54 Chapter/Kural metadata records across 54 pages / 42 distinct Chapters**, controlled labels, Kural blocks, **54 visual-material records**, page functions and continuity controls.
-
 ## Part 004 English release — APPROVED / CLOSED
 
 Durable report: `reviews/PART_004_ENGLISH_RELEASE_REPORT.md`.
 
-- release approval — **APPROVED / CLOSED**;
-- eligible pages — **111/111**;
-- promoted to `release-ready` — **111/111**;
-- page promotion base — `b4c248ba1edd4f8eeb16cfd296fd51489ad8fca5`;
-- page promotion endpoint — `091d855a1fbe7f4588680e380ee33bea3824d036`;
-- exact changed files — **111 English page records only**;
-- every changed page — **+1 / -1**, status token only;
-- English wording changes — **0**;
-- Tamil changes — **0**;
-- glossary changes — **0**;
+- `release-ready` — **111/111**;
+- `editorial-reviewed` — **0**;
+- `source-checked` — **0**;
+- `draft` — **0**;
+- `source-limited` — **0**;
+- `blocked` — **0**;
+- release promotion — **111 English page records only / +1,-1 each / status-token-only**;
+- approved English wording changes — **0**;
+- Tamil changes — **0**.
+
+## Part 004 final closure — PASS / CLOSED
+
+Durable record: `../../PART_004_FINAL_CLOSURE.md`.
+
+Final checkpoint confirms:
+
+- maintained English — **111/111 `release-ready`**;
+- English page changes during final checkpoint — **0**;
+- Tamil page changes during final checkpoint — **0**;
 - scan **444 / printed 427 remains source-open**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
 ## Exact next English activity
 
-Create the **final Part 004 closure checkpoint/documentation confirmation**. Confirm Tamil remains archival-ready, English remains **111/111 `release-ready`**, Part-level review remains PASS, release report remains APPROVED / CLOSED, and no page-layer change is required. Preserve the source-open endpoint and do not begin Part 005.
+None for Part 004. Part 005 work is blocked until its controlling source is supplied and source intake establishes the adjacent boundary.
