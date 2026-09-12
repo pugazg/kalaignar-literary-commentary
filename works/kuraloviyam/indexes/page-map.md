@@ -341,14 +341,14 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf`.
 
-- canonical inventory: **111 records**;
+- canonical Tamil inventory: **111 records**;
 - scans **334–444** / local pages **1–111** / printed **317–427**;
 - incoming **333→334 CLEAN / source-resolved**;
 - external **444→445 DEFERRED / UNRESOLVED** until Part 005 intake.
 
 ## Verification gates
 
-Part 004:
+Part 004 Tamil:
 
 - source intake — **PASS / COMPLETE**;
 - Pass 1 — **COMPLETE 111/111**;
@@ -358,13 +358,18 @@ Part 004:
 - Part audit — **PASS / COMPLETE**;
 - final metadata/status synchronization — **PASS / CLOSED**;
 - documentation synchronization — **COMPLETE / PASS**;
-- textual status distribution — **111 verified / 0 partial / 0 blocked / 0 needs-review**;
-- visual status distribution — **111 verified / 0 needs-review**;
-- Tamil archival-ready checkpoint — **NEXT / UNBLOCKED**;
-- English / final Part closure — **not started**.
+- Tamil archival-ready checkpoint — **PASS / CLOSED**;
+- textual distribution — **111 verified / 0 partial / 0 blocked / 0 source-limited / 0 needs-review**;
+- visual distribution — **111 verified / 0 needs-review**.
 
-Durable documentation-sync record: `../PART_004_DOCUMENTATION_SYNC.md`.
+Part 004 English:
+
+- first-pass drafting — **NEXT / NOT STARTED**;
+- first normal batch — **334–366 / printed 317–349 — 33 records**;
+- source-check / glossary / editorial / review / release — **BLOCKED until prior English gates close**.
+
+Durable Tamil archival-ready declaration: `../PART_004_TAMIL_ARCHIVAL_READY.md`.
 
 ## Current frontier
 
-**Part 004 Tamil archival-ready checkpoint.** Preserve external **444→445 DEFERRED / UNRESOLVED**.
+**Part 004 English Draft Batch D1 — scans 334–366 / printed 317–349.** Preserve external **444→445 DEFERRED / UNRESOLVED**.

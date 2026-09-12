@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 004 Tamil archival-ready checkpoint
+# NEXT CHAT PROMPT — குறளோவியம் / Part 004 English Draft Batch D1
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`.
 
@@ -6,52 +6,56 @@ Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, acti
 
 Fetch live `main` first and preserve any newer durable work.
 
-Parts **001–003 are fully CLOSED**. Do not reopen them unless genuinely new source/provenance/fidelity evidence appears.
+Parts **001–003 are fully CLOSED**. Part 004 Tamil is now **ARCHIVAL-READY / CLOSED**.
 
-## Durable Part 004 state
+## Durable Part 004 Tamil state
 
-- source intake — **PASS / COMPLETE**;
-- Pass 1 — **COMPLETE 111/111**;
-- Pass 2A — **COMPLETE / PASS 111/111**;
-- Pass 2B — **COMPLETE / PASS 111/111**;
-- Pass 3 — **COMPLETE / PASS 111/111**;
-- Part audit — **PASS / COMPLETE**;
-- final metadata/status synchronization — **PASS / CLOSED**;
-- documentation synchronization — **COMPLETE / PASS**;
+- scans **334–444 / printed 317–427**, 111 physical pages;
+- source intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 / Part audit / final status sync / documentation sync — **COMPLETE / PASS / CLOSED as applicable**;
+- Tamil archival-ready checkpoint — **PASS / CLOSED**;
 - Tamil textual status — **111/111 verified**;
 - visual fidelity — **111/111 verified**;
 - partial / blocked / source-limited / needs-review exceptions — **0**;
-- Tamil archival-ready checkpoint — **NEXT / UNBLOCKED**;
-- external **444→445 DEFERRED / UNRESOLVED** until actual Part 005 source intake.
+- durable closure — `works/kuraloviyam/PART_004_TAMIL_ARCHIVAL_READY.md`;
+- external **444→445 DEFERRED / UNRESOLVED** until Part 005 source intake.
 
-## Durable evidence chain
+Do not routinely reopen the Part-004 PDF for English drafting. The audited Tamil page records are the normal working authority; the source scan is reopened only for a genuinely new provenance/fidelity problem.
 
-Read before closing the checkpoint:
+## English workflow
 
-1. `works/kuraloviyam/SOURCE_INTAKE_PART_004.md`
-2. `works/kuraloviyam/PART_004_PASS1_PROGRESS.md`
-3. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_004.md`
-4. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_004.md`
-5. `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_004.md`
-6. `works/kuraloviyam/PART_004_AUDIT.md`
-7. `works/kuraloviyam/PART_004_FINAL_STATUS_SYNC.md`
-8. `works/kuraloviyam/PART_004_DOCUMENTATION_SYNC.md`
+Permanent order:
 
-## Exact next activity — Tamil archival-ready checkpoint
+**draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**
 
-Perform the **Part 004 Tamil archival-ready checkpoint** as a closure declaration, not a new transcription or verification pass.
+Current normal page-batch cadence: **33 physical scans**.
 
-Confirm:
+No Part-004 English page record exists yet at scan **334 / printed 317**, so drafting starts at the Part beginning.
 
-1. the complete eight-stage Tamil evidence chain above is closed;
-2. the canonical Part inventory remains **111 records, scans 334–444 / printed 317–427**;
-3. all **111/111** page records remain `status: "verified"`;
-4. all **111/111** remain `visual_fidelity: "verified"`;
-5. partial / blocked / source-limited / needs-review exceptions remain **0**;
-6. incoming **333→334 CLEAN / source-resolved** remains preserved;
-7. external **444→445 DEFERRED / UNRESOLVED** remains preserved;
-8. no Tamil body text, Kural wording, page structure, visual notes, comments or page mapping are changed by the checkpoint.
+## Mandatory startup reading
 
-Create `works/kuraloviyam/PART_004_TAMIL_ARCHIVAL_READY.md` using the Part-003 archival-ready record as precedent.
+1. `works/kuraloviyam/PART_004_TAMIL_ARCHIVAL_READY.md`
+2. `works/kuraloviyam/translations/en/TRANSLATION_GUIDE.md`
+3. `works/kuraloviyam/translations/en/GLOSSARY.md`
+4. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
+5. `works/kuraloviyam/translations/en/README.md`
+6. matching audited Tamil records under `works/kuraloviyam/pages/`
 
-After closing Tamil archival-ready, determine the next permitted stage from the repository workflow. Do **not** begin Part 005 unless its controlling source is actually supplied and the workflow permits it.
+## Exact next activity — English Draft D1
+
+Create project-created English page records for:
+
+**scans 334–366 / printed 317–349 — 33 consecutive page-aligned records.**
+
+For each record:
+
+- mirror the Tamil filename under `works/kuraloviyam/translations/en/pages/`;
+- use `translation_type: "project_translation"`;
+- set English status to `draft` after a complete safe first rendering;
+- preserve page alignment, paragraph/dialogue structure, Kural block separation, visual/non-body functions and cross-page continuities;
+- translate the exact audited Tamil Kural wording rather than importing standard/published/web English wording;
+- use `GLOSSARY.md` as a context-aware control, not mechanical substitution;
+- do not change any Tamil archival record.
+
+After D1, update `TRANSLATION_STATUS.md`, English README, work/root handovers and next-chat prompt to the exact next English frontier, and audit the exact changed-file set.
+
+Do **not** start D2 in the same iteration unless separately instructed. Do **not** begin Part 005.

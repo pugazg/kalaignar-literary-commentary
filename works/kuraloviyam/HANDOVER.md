@@ -156,11 +156,11 @@ Durable final checkpoint: `works/kuraloviyam/PART_003_FINAL_CLOSURE.md`.
 
 Part 003 Tamil and maintained English are now fully closed. English is **111/111 `release-ready`**; the Part-level review is PASS; the release report is APPROVED / CLOSED; no Tamil or English page record changed during the final checkpoint.
 
-## Part 004 — ACTIVE / Tamil archival-ready checkpoint next
+## Part 004 — TAMIL ARCHIVAL-READY / ENGLISH D1 NEXT
 
 Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf`.
 
-### Durable gate state
+### Durable Tamil state
 
 - source intake — **PASS / COMPLETE**;
 - Pass 1 — **COMPLETE 111/111**;
@@ -170,25 +170,29 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_
 - Part audit — **PASS / COMPLETE**;
 - final metadata/status synchronization — **PASS / CLOSED**;
 - documentation synchronization — **COMPLETE / PASS**;
-- final Tamil textual distribution — **111 verified / 0 partial / 0 blocked / 0 needs-review**;
-- final visual distribution — **111 verified / 0 needs-review**;
-- Tamil archival-ready checkpoint — **NEXT / UNBLOCKED**;
+- Tamil archival-ready checkpoint — **PASS / CLOSED**;
+- Tamil textual distribution — **111 verified / 0 partial / 0 blocked / 0 source-limited / 0 needs-review**;
+- visual distribution — **111 verified / 0 needs-review**;
 - external **444→445 DEFERRED / UNRESOLVED** until Part 005 intake.
 
-Durable Part-004 closure records:
+Durable Tamil closure: `works/kuraloviyam/PART_004_TAMIL_ARCHIVAL_READY.md`.
 
-- `works/kuraloviyam/PART_004_AUDIT.md`;
-- `works/kuraloviyam/PART_004_FINAL_STATUS_SYNC.md`;
-- `works/kuraloviyam/PART_004_DOCUMENTATION_SYNC.md`.
+### English workflow state
 
-## Exact next activity — Part 004 Tamil archival-ready checkpoint
+- Part 004 English records — **NOT STARTED**;
+- verified absence at scan **334 / printed 317** before this checkpoint;
+- normal English page-batch cadence — **33 physical scans**;
+- first-pass drafting — **NEXT / UNBLOCKED**;
+- source-check and later English gates — **BLOCKED until drafting progresses**.
 
-Declare Part 004 Tamil archival-ready only after reconfirming:
+## Exact next activity — Part 004 English Draft D1
 
-1. source intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 / Part audit / final status sync / documentation sync are all closed;
-2. all **111/111** Tamil records are `verified`;
-3. all **111/111** visual-fidelity records are `verified`;
-4. carried partial / blocked / source-limited / needs-review exceptions are **0**;
-5. external **444→445 DEFERRED / UNRESOLVED** remains preserved.
+Create the page-aligned project translation for **scans 334–366 / printed 317–349 — 33 records**.
 
-Do **not** begin Part 005.
+Use the audited Tamil records under `works/kuraloviyam/pages/` as the normal authority. Follow:
+
+- `works/kuraloviyam/translations/en/TRANSLATION_GUIDE.md`;
+- `works/kuraloviyam/translations/en/GLOSSARY.md`;
+- `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`.
+
+Do not import published/standard/web English Kural wording. Do not alter Tamil records. Do not begin Part 005.

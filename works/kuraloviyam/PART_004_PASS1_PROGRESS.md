@@ -363,15 +363,25 @@ Durable record: `PART_004_FINAL_STATUS_SYNC.md`.
 
 Durable record: `PART_004_DOCUMENTATION_SYNC.md`.
 
-Documentation synchronization reconciled the live Part-004 control layer to the final Tamil metadata state:
+- final textual status — **111/111 verified**;
+- final visual status — **111/111 verified**;
+- exceptions — **0**;
+- page-record changes during documentation synchronization — **0**;
+- external **444→445 DEFERRED / UNRESOLVED** preserved.
 
-- textual status — **111/111 verified**;
+## Tamil archival-ready checkpoint
+
+**PASS / CLOSED.**
+
+Durable record: `PART_004_TAMIL_ARCHIVAL_READY.md`.
+
+Part 004 Tamil is now closed for normal workflow purposes:
+
+- Tamil textual status — **111/111 verified**;
 - visual fidelity — **111/111 verified**;
-- partial / blocked / source-limited / needs-review exceptions — **0**;
-- source intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 / audit / final metadata-status sync — **COMPLETE / PASS / CLOSED as applicable**;
-- external **444→445 DEFERRED / UNRESOLVED** preserved;
-- page-record changes during documentation synchronization — **0**.
+- unresolved internal archival exceptions — **0**;
+- external **444→445 DEFERRED / UNRESOLVED** remains a cross-Part source limit, not a Part-004 archival defect.
 
 ## Exact next activity
 
-Perform the separate **Part 004 Tamil archival-ready checkpoint**. Confirm the complete evidence chain, final 111/111 textual + visual verified disposition, zero unresolved internal archival exceptions, and preservation of **444→445 DEFERRED / UNRESOLVED**. Do not begin Part 005.
+Begin **Part 004 English first-pass Draft Batch D1 — scans 334–366 / printed 317–349, 33 page-aligned records** from the audited Tamil records. Follow the maintained English workflow and `translations/en/TRANSLATION_GUIDE.md`. Do not reopen the Tamil source routinely and do not begin Part 005.

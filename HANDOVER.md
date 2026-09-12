@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 004 documentation synchronization COMPLETE / PASS; Tamil archival-ready checkpoint next**: **2026-09-12**.
+Last refreshed for Kuraloviyam **Part 004 Tamil ARCHIVAL-READY / CLOSED; English Draft D1 scans 334–366 next**: **2026-09-12**.
 
 ## Repository
 
@@ -179,22 +179,17 @@ Do not restart Pass 1. Do not resume scan-led lexical Pass 2 at scan 14.
 
 ## Durable Part 004 state
 
-- source intake: **PASS / COMPLETE**;
-- Pass 1: **COMPLETE — 111/111**;
-- Pass 2A: **COMPLETE / PASS — 111/111**;
-- Pass 2B: **COMPLETE / PASS — 111/111**;
-- Pass 3: **COMPLETE / PASS — 111/111**;
-- Part audit: **PASS / COMPLETE**;
-- final metadata/status synchronization: **PASS / CLOSED**;
-- documentation synchronization: **COMPLETE / PASS**;
+- Tamil source intake through documentation synchronization: **COMPLETE / PASS / CLOSED as applicable**;
+- Tamil archival-ready checkpoint: **PASS / CLOSED**;
 - Tamil textual status: **111/111 verified**;
 - visual fidelity: **111/111 verified**;
-- exceptions: **0**;
-- Tamil archival-ready checkpoint: **NEXT / UNBLOCKED**;
+- Tamil exceptions: **0**;
+- English first-pass drafting: **NEXT / NOT STARTED**;
+- English normal cadence: **33 physical scans**;
 - external **444→445 DEFERRED / UNRESOLVED** until Part 005 source intake.
 
-Durable documentation-sync record: `works/kuraloviyam/PART_004_DOCUMENTATION_SYNC.md`.
+Durable Tamil closure: `works/kuraloviyam/PART_004_TAMIL_ARCHIVAL_READY.md`.
 
 ## Exact next activity — குறளோவியம்
 
-Perform the separate **Part 004 Tamil archival-ready checkpoint**. Confirm the complete closed Tamil evidence chain and final **111 textual verified + 111 visual verified / 0 exceptions** state while preserving **444→445 DEFERRED / UNRESOLVED**. Do not begin Part 005.
+Begin **Part 004 project-created English Draft Batch D1 — scans 334–366 / printed 317–349, 33 records** from the audited Tamil page layer. Do not reopen Tamil source routinely, do not import external English Kural wording, and do not begin Part 005.
