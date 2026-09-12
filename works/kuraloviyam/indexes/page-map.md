@@ -339,22 +339,32 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 ## Part 004 boundary resolution and verification map
 
-- canonical Tamil inventory — **111 records**;
-- Tamil — **ARCHIVAL-READY / CLOSED**;
-- English inventory — **111/111 aligned**;
-- English final page state — **111/111 `release-ready`**;
-- Part-level English review — **PASS / CLOSED**;
-- English release — **APPROVED / CLOSED**;
-- final Part checkpoint — **PASS / CLOSED**;
-- durable final record — `../PART_004_FINAL_CLOSURE.md`;
-- **333→334 CLEAN**;
-- **366→367 genuine continuation**;
-- **399→400 CLEAN**;
-- **432→433 CLEAN**;
-- **443→444 CLEAN**;
-- scan **444 / printed 427 remains source-open**;
-- external **444→445 DEFERRED / UNRESOLVED**.
+- Part 004 — **FULLY CLOSED**;
+- final Tamil — **111/111 textual + visual verified**;
+- final English — **111/111 release-ready**;
+- **443→444 CLEAN** preserved;
+- scan **444 / printed 427** ends in an open royal/court famine-granary unit.
+
+## Part 005 intake boundary map
+
+- Part 005 source intake — **PASS / COMPLETE**;
+- scans **445–555 / printed 428–538**;
+- **444→445 — GENUINE CONTINUATION**;
+- scan 445 continues the king's speech from scan 444 and closes the unit with Chapter **4 / Kural 34**;
+- scan 555 closes its unit with Chapter **89 / Kural 881**;
+- **555→556 — CLEAN**;
+- Pass 1 — **NOT STARTED**.
+
+## Part 006 intake boundary map
+
+- Part 006 source intake — **PASS / COMPLETE**;
+- scans **556–666**;
+- numbered printed span **539–648**;
+- scan 556 begins a new illustrated ascetic/moral vignette;
+- scans 664–665 are contents/index backmatter pages;
+- scan 666 is an unnumbered pictorial back cover;
+- there is **no external continuation beyond scan 666**.
 
 ## Current frontier
 
-**Part 005 source intake only when the controlling source is supplied.**
+**Part 005 Pass 1 P5-01 — scans 445–455 / printed 428–438.**

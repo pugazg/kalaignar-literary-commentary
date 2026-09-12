@@ -158,24 +158,35 @@ Part 003 Tamil and maintained English are now fully closed. English is **111/111
 
 ## Part 004 — FINAL CHECKPOINT PASS / FULLY CLOSED
 
-Durable records:
+Durable final record: `works/kuraloviyam/PART_004_FINAL_CLOSURE.md`.
 
-- Tamil archival-ready — `works/kuraloviyam/PART_004_TAMIL_ARCHIVAL_READY.md`;
-- Part-level English review — `works/kuraloviyam/translations/en/reviews/PART_004_ENGLISH_REVIEW.md`;
-- English release report — `works/kuraloviyam/translations/en/reviews/PART_004_ENGLISH_RELEASE_REPORT.md`;
-- final closure — `works/kuraloviyam/PART_004_FINAL_CLOSURE.md`.
+Tamil is **111/111 textual + visual verified** and English is **111/111 release-ready**.
 
-Final state:
+## Part 005 — SOURCE INTAKE COMPLETE / ACTIVE
 
-- Tamil — **111/111 textual verified + 111/111 visual verified / 0 exceptions**;
-- English — **111/111 `release-ready`**;
-- Part-level review — **PASS / CLOSED**;
-- release report — **APPROVED / CLOSED**;
-- final checkpoint — **PASS / CLOSED**;
-- final checkpoint page changes — **0 English / 0 Tamil**;
-- scan **444 / printed 427 remains source-open**;
-- external **444→445 DEFERRED / UNRESOLVED**.
+Durable intake: `works/kuraloviyam/SOURCE_INTAKE_PART_005.md`.
+
+- scans — **445–555**;
+- printed pages — **428–538**;
+- local pages — **111**;
+- source — `TVA_BOK_0065733_குறளோவியம்_part_005_pages_445-555.pdf`;
+- source identity — **PASS**;
+- **444→445 genuine continuation**;
+- **555→556 CLEAN**;
+- Pass 1 — **NOT STARTED**.
+
+## Part 006 — SOURCE INTAKE COMPLETE / WAITING
+
+Durable intake: `works/kuraloviyam/SOURCE_INTAKE_PART_006.md`.
+
+- scans — **556–666**;
+- numbered printed span — **539–648**;
+- scan 666 — **unnumbered back cover**;
+- source — `TVA_BOK_0065733_குறளோவியம்_part_006_pages_556-666.pdf`;
+- source identity — **PASS**;
+- physical source endpoint — **scan 666**;
+- Pass 1 — **NOT STARTED / waiting behind Part 005**.
 
 ## Exact next activity
 
-Wait for the **Part 005 controlling source**. When supplied, begin Part 005 source intake at overall scan **445**, establish exact source identity and resolve **444→445** from the actual adjacent source. Do not begin transcription before intake and do not invent the Part 005 filename.
+Proceed with **P5-01 / scans 445–455 / printed 428–438**. Preserve the incoming 444→445 continuation and do not start Part 006 transcription.

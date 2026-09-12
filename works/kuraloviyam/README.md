@@ -172,18 +172,28 @@ Durable documentation-sync record: `PART_003_DOCUMENTATION_SYNC.md`.
 
 **FINAL CHECKPOINT: PASS / CLOSED.**
 
-Durable final record: `PART_004_FINAL_CLOSURE.md`.
+Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained English is **111/111 release-ready**.
 
-- Tamil — **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified / 0 exceptions**;
-- English drafting/source-check/glossary/editorial review — **COMPLETE / CLOSED 111/111**;
-- Part-level English review — **PASS / CLOSED**;
-- English release — **APPROVED / CLOSED**;
-- current English state — **111/111 `release-ready`**;
-- final checkpoint page changes — **0 English / 0 Tamil**;
-- **333→334 CLEAN**, **366→367 genuine continuation**, **399→400 CLEAN**, **432→433 CLEAN**, **443→444 CLEAN** preserved;
-- scan **444 / printed 427 remains source-open**;
-- external **444→445 DEFERRED / UNRESOLVED**.
+## Part 005 — SOURCE-READY / ACTIVE
+
+- source intake — **PASS / COMPLETE**;
+- scans — **445–555**;
+- printed span — **428–538**;
+- durable intake — `SOURCE_INTAKE_PART_005.md`;
+- **444→445 genuine continuation**;
+- **555→556 CLEAN**;
+- Pass 1 — **NEXT**.
+
+## Part 006 — SOURCE-READY / WAITING
+
+- source intake — **PASS / COMPLETE**;
+- scans — **556–666**;
+- numbered printed span — **539–648**;
+- scan 666 — **unnumbered back cover**;
+- durable intake — `SOURCE_INTAKE_PART_006.md`;
+- source family physically complete — **YES**;
+- Pass 1 — **NOT STARTED / waiting behind Part 005**.
 
 ## Current frontier
 
-**Part 005 source intake — BLOCKED UNTIL THE CONTROLLING SOURCE IS SUPPLIED.**
+**Part 005 P5-01 — scans 445–455 / printed 428–438.**

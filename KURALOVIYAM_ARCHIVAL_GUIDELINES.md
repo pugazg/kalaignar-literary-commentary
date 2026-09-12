@@ -200,19 +200,33 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 **Tamil + maintained English: CLOSED.**
 
-- Tamil: **111/111 textual verified + 111/111 visual verified / 0 exceptions**;
-- English drafting: **COMPLETE / CLOSED 111/111**;
-- source-check: **COMPLETE / CLOSED 111/111**;
-- glossary reconciliation: **COMPLETE / CLOSED 111/111**;
-- editorial review: **COMPLETE / CLOSED 111/111**;
-- Part-level English review: **PASS / CLOSED**;
-- English release: **APPROVED / CLOSED — 111/111 release-ready**;
-- final Part checkpoint: **PASS / CLOSED**;
-- durable final checkpoint: `works/kuraloviyam/PART_004_FINAL_CLOSURE.md`;
-- final checkpoint page changes: **0**;
-- scan **444 / printed 427 remains source-open**;
-- external **444→445 DEFERRED / UNRESOLVED**.
+- Tamil — **111/111 textual verified + 111/111 visual verified / 0 exceptions**;
+- English — **111/111 release-ready**;
+- final Part checkpoint — **PASS / CLOSED**;
+- durable final checkpoint — `works/kuraloviyam/PART_004_FINAL_CLOSURE.md`.
+
+### Part 005 — overall scans 445–555
+
+**SOURCE INTAKE: PASS / COMPLETE.**
+
+- controlling source — `TVA_BOK_0065733_குறளோவியம்_part_005_pages_445-555.pdf`;
+- printed span — **428–538**;
+- **444→445 genuine continuation**;
+- **555→556 CLEAN**;
+- Tamil capture — **NOT STARTED**;
+- durable intake — `works/kuraloviyam/SOURCE_INTAKE_PART_005.md`.
+
+### Part 006 — overall scans 556–666
+
+**SOURCE INTAKE: PASS / COMPLETE.**
+
+- controlling source — `TVA_BOK_0065733_குறளோவியம்_part_006_pages_556-666.pdf`;
+- numbered printed span — **539–648**;
+- scan **666** — unnumbered back cover;
+- source endpoint — **physical source complete at scan 666**;
+- Tamil capture — **NOT STARTED / waiting behind Part 005**;
+- durable intake — `works/kuraloviyam/SOURCE_INTAKE_PART_006.md`.
 
 ### Exact next content stage
 
-Wait for the **Part 005 controlling source**. Only then begin Part 005 source intake, establish exact source identity and resolve **444→445** from the actual adjacent source. Do not invent a split filename or continuation.
+Start **Part 005 Pass 1 / P5-01 — scans 445–455 / printed 428–438**. Rendered source pixels remain controlling. Do not begin Part 006 transcription until Part 005 reaches its proper workflow frontier or the user explicitly redirects the order.

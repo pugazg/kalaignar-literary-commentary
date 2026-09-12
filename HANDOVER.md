@@ -177,24 +177,44 @@ Do not restart Pass 1. Do not resume scan-led lexical Pass 2 at scan 14.
 
 # Active source-ready work — குறளோவியம்
 
-## Durable Part 004 state
+## Durable Kuraloviyam state
 
-**PART 004 FINAL CHECKPOINT — PASS / CLOSED.**
+### Part 004 — FULLY CLOSED
 
-Durable final checkpoint: `works/kuraloviyam/PART_004_FINAL_CLOSURE.md`.
+- final checkpoint — **PASS / CLOSED**;
+- Tamil — **111/111 textual + visual verified / 0 exceptions**;
+- English — **111/111 `release-ready`**;
+- durable final record — `works/kuraloviyam/PART_004_FINAL_CLOSURE.md`.
 
-- Tamil — **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified / 0 exceptions**;
-- English drafting — **COMPLETE / CLOSED 111/111**;
-- source-check — **COMPLETE / CLOSED 111/111**;
-- glossary reconciliation — **COMPLETE / CLOSED 111/111**;
-- editorial review — **COMPLETE / CLOSED 111/111**;
-- Part-level English review — **PASS / CLOSED**;
-- English release report — **APPROVED / CLOSED**;
-- final English state — **111/111 `release-ready`**;
-- final checkpoint page changes — **0 English / 0 Tamil**;
-- scan **444 / printed 427 remains source-open**;
-- external **444→445 DEFERRED / UNRESOLVED**.
+### Part 005 — SOURCE INTAKE COMPLETE / ACTIVE
+
+Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_pages_445-555.pdf`.
+
+- source intake — **PASS / COMPLETE**;
+- local pages — **111**;
+- overall scans — **445–555**;
+- printed pages — **428–538**;
+- bytes — **117,049,042**;
+- SHA-256 — `082d46dc437851b37bea24c3152c2ea41b39c425628ddaa66461866a3177c235`;
+- **444→445 — genuine continuation**, now source-resolved;
+- **555→556 — CLEAN**, source-resolved from supplied Part 006;
+- Tamil Pass 1 — **NOT STARTED**.
+
+### Part 006 — SOURCE INTAKE COMPLETE / WAITING
+
+Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_006_pages_556-666.pdf`.
+
+- source intake — **PASS / COMPLETE**;
+- local pages — **111**;
+- overall scans — **556–666**;
+- visible numbered printed span — **539–648**;
+- scan **666** — **unnumbered back cover**;
+- bytes — **118,543,819**;
+- SHA-256 — `76f5f3d9f926c148c30ae9f8b1917f4cf423134a6bc09a16ad9eea4bb766c804`;
+- **555→556 — CLEAN**;
+- source family reaches its physical endpoint at scan **666**;
+- Tamil Pass 1 — **NOT STARTED / waiting behind Part 005**.
 
 ## Exact next activity — குறளோவியம்
 
-Part 004 is fully closed. The next content activity is **Part 005 source intake only when the Part 005 controlling source is supplied**. At that time, fetch live `main`, establish exact source identity, continue overall scan numbering at **445**, and resolve **444→445** from the actual adjacent source before transcription. Do not invent the Part 005 filename or continuation.
+Execute **Part 005 Pass 1 / P5-01 — scans 445–455 / printed 428–438**. Preserve the genuine incoming **444→445** continuation. Use scan **456 / printed 439** only as a boundary witness when required. Do not begin Part 006 transcription yet.

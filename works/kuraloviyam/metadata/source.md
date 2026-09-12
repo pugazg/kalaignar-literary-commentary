@@ -19,10 +19,10 @@ The original source PDF is reported as **666 physical PDF pages**. Because the o
 | 002 | 112–222 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | supplied; Tamil/English closed |
 | 003 | 223–333 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf` | **supplied; Tamil + English CLOSED — final checkpoint PASS / CLOSED; 111/111 English release-ready** |
 | 004 | 334–444 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf` | **Tamil + maintained English CLOSED — final checkpoint PASS / CLOSED; 111/111 English release-ready** |
-| 005 | 445–555 | 111 | not yet supplied / exact filename not yet established | not-started |
-| 006 | 556–666 | 111 | not yet supplied / exact filename not yet established | not-started |
+| 005 | 445–555 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_005_pages_445-555.pdf` | **supplied; source intake PASS / COMPLETE; Tamil Pass 1 next** |
+| 006 | 556–666 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_006_pages_556-666.pdf` | **supplied; source intake PASS / COMPLETE; waiting behind Part 005** |
 
-Do not invent later split filenames before those files are supplied.
+All six split files are now supplied. Preserve these exact source filenames; do not invent alternate split identities.
 
 ## Publication details visible in Part 001
 
@@ -121,13 +121,57 @@ Controlling split:
 
 The previously deferred **333→334** boundary is source-resolved as **CLEAN**: scan 333 closes the severe-rule/famine Chapter 57 / Kural 567 unit, while scan 334 begins a new illustrated eye/blame lovers vignette; scan 335 closes that new unit with Chapter 118 / Kural 1174.
 
-At the outgoing edge, scan 444 begins a new illustrated royal/court narrative and ends within it. The exact **444→445** relationship remains deferred until Part 005 is supplied.
+At the outgoing edge, scan 444 begins a royal/court famine-granary narrative and ends with `அத்துடன் நிறுத்தவில்லை -`. Supplied Part 005 scan 445 immediately continues the king's speech, so **444→445 is now source-resolved as a genuine continuation**.
 
 Detailed Part 004 intake record:
 
 `works/kuraloviyam/SOURCE_INTAKE_PART_004.md`
 
-Part 004 Tamil verification through documentation synchronization is **COMPLETE**, and the complete maintained Part 004 workflow is now **PASS / CLOSED**. Tamil is **111/111 textual verified + 111/111 visual verified / 0 exceptions**. English drafting, source-check, glossary reconciliation and editorial review are **111/111 COMPLETE / CLOSED**; the Part-level English review is **PASS / CLOSED**; the English release report is **APPROVED / CLOSED**; and all **111/111 English pages are `release-ready`**. Durable final checkpoint: `works/kuraloviyam/PART_004_FINAL_CLOSURE.md`. The final checkpoint changes **0 English page records and 0 Tamil page records**. Scan **444 / printed 427 remains source-open** and external **444→445 remains DEFERRED / UNRESOLVED until Part 005 controlling source intake**. Part 005 has not begun.
+Part 004 is **FULLY CLOSED**. Part 005 and Part 006 controlling splits are now both supplied and source-intake complete. The formerly deferred **444→445** boundary is **GENUINE CONTINUATION**; **555→556 is CLEAN**. Part 005 is the active Tamil frontier; Part 006 is source-ready but waits behind Part 005.
+
+
+## Part 005 source identity and provenance
+
+Controlling split:
+
+`TVA_BOK_0065733_குறளோவியம்_part_005_pages_445-555.pdf`
+
+- local page count: **111**;
+- overall scans: **445–555**;
+- visible printed span: **428–538**;
+- file size: **117,049,042 bytes**;
+- SHA-256: `082d46dc437851b37bea24c3152c2ea41b39c425628ddaa66461866a3177c235`;
+- no usable parsed text layer is exposed; rendered scans remain controlling;
+- local page 1 / overall scan **445** = printed **428**;
+- local page 111 / overall scan **555** = printed **538**.
+
+Boundary **444→445** is **GENUINE CONTINUATION**: scan 444 ends `அத்துடன் நிறுத்தவில்லை -`, and scan 445 directly continues the king's speech before closing that unit with Chapter 4 / Kural 34.
+
+Boundary **555→556** is **CLEAN**: scan 555 closes Chapter 89 / Kural 881; scan 556 begins a new illustrated ascetic/moral vignette.
+
+Detailed intake: `works/kuraloviyam/SOURCE_INTAKE_PART_005.md`.
+
+## Part 006 source identity and provenance
+
+Controlling split:
+
+`TVA_BOK_0065733_குறளோவியம்_part_006_pages_556-666.pdf`
+
+- local page count: **111**;
+- overall scans: **556–666**;
+- visible numbered printed span: **539–648**;
+- final scan **666**: **unnumbered back cover**;
+- file size: **118,543,819 bytes**;
+- SHA-256: `76f5f3d9f926c148c30ae9f8b1917f4cf423134a6bc09a16ad9eea4bb766c804`;
+- no usable parsed text layer is exposed; rendered scans remain controlling;
+- local page 1 / overall scan **556** = printed **539**;
+- local page 109 / scan **664** = printed **647**;
+- local page 110 / scan **665** = printed **648**;
+- local page 111 / scan **666** = unnumbered pictorial back cover.
+
+Scans 664–665 are contents/index backmatter. Scan 666 is the physical endpoint of the six-part source family; there is **no deferred external source boundary beyond 666**.
+
+Detailed intake: `works/kuraloviyam/SOURCE_INTAKE_PART_006.md`.
 
 ## Front-matter observations
 
@@ -140,13 +184,13 @@ Visible source structure in Part 001 includes:
 - a photograph page immediately before the final front-matter publisher note;
 - main-body transition at scan 18.
 
-Parts 002–004 continue the main `கலைஞரின் குறளோவியம்` illustrated/body sequence.
+Parts 002–006 continue the later `கலைஞரின் குறளோவியம்` sequence; Part 006 ends with contents/index backmatter and the unnumbered back cover.
 
 Do not treat handwriting, signatures, library marks or accession annotations as ordinary printed body prose.
 
 ## Text-layer limitation
 
-The supplied Part 001, Part 002, Part 003 and Part 004 splits expose **no usable parsed text layer** in the file environment. Rendered scan images are therefore mandatory for transcription and verification.
+The supplied Parts 001–006 expose **no usable parsed text layer** in the file environment. Rendered scan images are therefore mandatory for transcription and verification.
 
 OCR or model-generated readings may not override the scan.
 
