@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-He wanted a group beside him to justify the wrongs he committed. He asked some people to praise the jungle-rule he conducted as good government. He planned that those who had not studied books of justice—or who, even if they had studied them, did not live by them—should remain near him and sing his praise.
+He wanted a group beside him to justify the wrongs he committed. He sought people who would praise his jungle rule as good government. He planned that those who had not studied books of justice—or who, even if they had studied them, did not live by them—should remain near him and sing his praise.
 
 A person who studies a book of justice but does not live according to it belongs in the list of the “unlearned,” does he not? It was therefore easy for that king to obtain the support of such a group.
 
