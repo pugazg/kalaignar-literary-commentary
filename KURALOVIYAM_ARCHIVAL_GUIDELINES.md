@@ -201,29 +201,19 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf`.
 
 - source intake: **PASS / COMPLETE**;
-- local pages: **111**; visible printed span: **317–427**;
-- SHA-256: `5b7fcc65f19dc3d2a57bebb13cdfb02d0c83f70a5ccc9e537886790908674581`;
-- no usable parsed text layer; rendered scans control;
-- incoming **333→334: CLEAN / source-resolved**;
 - Tamil Pass 1: **COMPLETE — 111/111**;
-- Pass 2A direct textual verification: **COMPLETE / PASS — 111/111**;
-- Pass 2B independent lexical-fidelity re-read: **COMPLETE / PASS — 111/111**;
-- Pass 3 meaningful visual/text verification: **COMPLETE / PASS — 111/111**;
-- Pass-3 visual-note corrections: scans **336, 342, 348, 388, 398, 416**;
-- lexical body-text changes during Pass 3: **0**;
-- all Part-004 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"` pending the Part audit and final metadata/status synchronization;
-- Part audit: **NEXT / UNBLOCKED**;
+- Pass 2A: **COMPLETE / PASS — 111/111**;
+- Pass 2B: **COMPLETE / PASS — 111/111**;
+- Pass 3: **COMPLETE / PASS — 111/111**;
+- Part audit: **PASS / COMPLETE**;
+- exact physical/header inventory: **111/111; no gaps/duplicates**;
+- carried internal Tamil exceptions: **0**;
+- current records remain **111 `needs-review` / 111 `visual_fidelity: needs-review`** pending final synchronization;
+- final metadata/status synchronization: **NEXT / UNBLOCKED**;
 - outgoing **444→445: DEFERRED / UNRESOLVED** until Part 005 intake.
 
-Durable operational controls:
-
-- `works/kuraloviyam/PART_004_PASS1_PROGRESS.md`;
-- `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_004.md`;
-- `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_004.md`;
-- `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_004.md`;
-- `works/kuraloviyam/HANDOVER.md`;
-- `NEXT_CHAT_PROMPT_KURALOVIYAM.md`.
+Durable audit: `works/kuraloviyam/PART_004_AUDIT.md`.
 
 ### Exact next content stage
 
-Perform the **Part 004 Part audit — scans 334–444 / printed 317–427**. Verify complete physical coverage, internal continuity, source limits and completed Pass-2A/Pass-2B/Pass-3 evidence. Preserve **444→445 DEFERRED / UNRESOLVED**. Do not perform final metadata/status promotion or begin Part 005 in the audit unless separately instructed.
+Perform **Part 004 final metadata/status synchronization across scans 334–444 / printed 317–427**. This gate is metadata-only. Promote eligible textual and visual status fields from `needs-review` to `verified` without changing source text, Kural structure, visual notes, comments or mapping. Do not begin Part 005.
