@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,7 +19,7 @@ Large upper illustration of the warrior Arima seated with weapons while women st
 
 Yet today he appears calm. His enemies are trying to drag him forcibly into war, but he stands like an ocean of patience.
 
-Mother, what has happened to him? Tell me! When his moustache trembles, lightning flashes in his eyes, and he raises the sword shouting like a drum, ‘The battlefield feast has arrived!’—why has he still not tied his war-cloth, donned armour, taken up shield, and instead lets his thoughts wander somewhere else?
+Mother, what has happened to him? Tell me! When his moustache trembles, lightning flashes in his eyes, and he raises the sword shouting like a drum, ‘The battlefield feast has arrived!’—why has he still not tied his war-cloth, donned armour, or taken up his shield, and why is he instead letting his thoughts wander elsewhere?
 
 You know your son's nature. That is why I ask. Tell me!”
 

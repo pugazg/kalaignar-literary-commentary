@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -21,9 +21,9 @@ Whatever joyful or sorrowful event occurred in any house, Mukilan and Nallammai 
 
 Yet the son born to those two good people wandered about as a wicked man who disgraced the honour of his parents. He himself changed the name his parents had given him—Nallaan, “the good one”—and called himself Vallaan, “the mighty one.”
 
-Mukilan and Nallammai struggled greatly to reform the child who had fallen to their lot. Unable to do so, they finally let him live as he wished.
+Mukilan and Nallammai worked hard to reform the son fate had given them. Unable to do so, they finally let him live as he wished.
 
-Though the villagers knew Vallaan's violent deeds and moral failures, they did not make much of them; they continued to show special respect toward his father Mukilan.
+Though the villagers knew Vallaan's violent deeds and moral failures, they did not let those faults diminish the special respect they showed his father Mukilan.
 
 One day, while Mukilan was working in his garden, a bull from the neighbouring house charged at him and knocked him down. Blood poured from his ribs. People in the street began attacking the animal.
 

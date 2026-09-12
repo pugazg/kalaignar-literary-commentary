@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -47,7 +47,7 @@ One man who heard her asked:
 
 Nallammai answered:
 
-“No. One of the qualities belonging to great people is that anger, when it arises in them, disappears without remaining even for a moment. There—look! Unable to preserve the anger he had taken upon himself, my husband is already returning.”
+“No. One of the qualities belonging to great people is that anger, when it arises in them, disappears without remaining even for a moment. There—look! Unable to hold on to the anger that had seized him, my husband is already returning.”
 
 Mukilan came back.
 
