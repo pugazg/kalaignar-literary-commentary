@@ -132,11 +132,43 @@ Durable correction commit:
 
 - scan 377 — `9ceb2c87349767e7f816554d5705c509b89fdf47`.
 
+## Batch 5 — overall scans 384–398 / printed pages 367–381
+
+**Status: COMPLETE — 15 / 15 scans independently re-read against freshly rendered source pages for Pass 2B.**
+
+Incoming **383→384 CLEAN** remains preserved. Scan **399 / printed 382** was inspected only as the outgoing boundary witness and confirms **398→399 is a genuine continuation**: scan 398 opens the cruel-rule / கொடுங்கோல் vignette, while scan 399 continues and closes it with Chapter 57 / Kural 570.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 384 | 367 | independent word-level re-read complete across the lovers' quarrel / ஊடல் opening and continuation into 385; no new correction required |
+| 385 | 368 | independently confirmed the lovers' quarrel conclusion, Kural 1304, lineation, Chapter 131 metadata and source glosses; no new correction required |
+| 386 | 369 | independent word-level re-read complete across the Periyar/Rajaji friendship reflection opening and continuation into 387; no new correction required |
+| 387 | 370 | independently confirmed the Periyar/Rajaji friendship conclusion, Kural 782, lineation, Chapter 79 metadata and source glosses; no new correction required |
+| 388 | 371 | independent word-level re-read complete across the ascetic-greatness reflection opening and genuine continuation into 389; no new correction required |
+| 389 | 372 | corrected source-visible `அமுதமொழியாள் கயல்வேந்தியிருக்கும்` → `அமுதமொழியாள் கையிலேந்தியிருக்கும்`; remaining ascetic-greatness conclusion, Kural 22, lineation, Chapter 3 metadata and source gloss independently confirmed |
+| 390 | 373 | independently re-read the teacher-student country discussion opening and Kural 737; no new correction required |
+| 391 | 374 | independently confirmed the country discussion conclusion, Kurals 734 and 740, lineation and printed Chapter 74 / `அரணியல்` metadata; no new correction required |
+| 392 | 375 | independent word-level re-read complete across the evening/lovers vignette opening and continuation into 393; no new correction required |
+| 393 | 376 | independently confirmed the evening/lovers conclusion, Kural 1268, lineation, Chapter 127 metadata and source gloss; no new correction required |
+| 394 | 377 | independent word-level re-read complete across the Karl Marx/Jenny family-life reflection opening and continuation into 395; no new correction required |
+| 395 | 378 | independently confirmed the Karl Marx/Jenny conclusion, Kural 51, lineation, Chapter 6 metadata and explanatory prose gloss; no new correction required |
+| 396 | 379 | independent word-level re-read complete across the Malarkkodi separation/paleness opening and continuation into 397; no new correction required |
+| 397 | 380 | corrected malformed `இவ்வாறு அழகிருந்தவரும் மலர்மொழிய,` → source-visible `இவ்வாறு அழகிழந்துவரும் மலர்க்கொடியை,`; remaining prose, Kural 1183, lineation and Chapter 119 metadata independently confirmed |
+| 398 | 381 | corrected source-visible `கடுகையை குற்றத்துக்கும்` → `கடுகளவு குற்றத்துக்கும்`; remaining cruel-rule opening independently confirmed; scan 399 witness confirms **398→399 genuine continuation** |
+
+Batch 5 correction summary: **3 records corrected; 12 records required no new Pass-2B correction**.
+
+Durable correction commits:
+
+- scan 389 — `adeee9ee6b6880309796cb7a47341a9d5db84028`;
+- scan 397 — `1535fc2ed64364e0a168f48318e388b0b3c6c3a1`;
+- scan 398 — `c248891fba2646052bc811bd15f73457448ed756`.
+
 ## Current Pass 2B coverage
 
-- complete: **50 / 111 scans**;
-- independently re-read range: **334–383 / printed 317–366**;
-- remaining Pass 2B: **61 scans**;
+- complete: **65 / 111 scans**;
+- independently re-read range: **334–398 / printed 317–381**;
+- remaining Pass 2B: **46 scans**;
 - current normal iteration size: **15 scans**;
 - textual page status remains `needs-review`;
 - visual fidelity remains `needs-review`;
@@ -145,4 +177,4 @@ Durable correction commit:
 
 ## Exact next activity
 
-Process **Part 004 Pass 2B Batch 5 — scans 384–398 / printed 367–381 (15 scans)** against freshly rendered source pages. Re-read every source-visible printed word independently, correct only source-supported lexical/punctuation/joining/spacing/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **399 / printed 382** only as the outgoing boundary witness if needed. Do not start Pass 3 or Part 005.
+Process **Part 004 Pass 2B Batch 6 — scans 399–413 / printed 382–396 (15 scans)** against freshly rendered source pages. Re-read every source-visible printed word independently, correct only source-supported lexical/punctuation/joining/spacing/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **414 / printed 397** only as the outgoing boundary witness if needed. Do not start Pass 3 or Part 005.
