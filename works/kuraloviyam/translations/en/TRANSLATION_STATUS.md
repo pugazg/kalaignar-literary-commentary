@@ -281,7 +281,7 @@ Tamil remains **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual ve
 - source-check — **111/111 COMPLETE / CLOSED**;
 - current page state — **111 `source-checked` / 0 draft / 0 source-limited / 0 blocked**.
 
-## Part 004 English glossary reconciliation — IN PROGRESS
+## Part 004 English glossary reconciliation — COMPLETE / CLOSED
 
 ### GR1 — COMPLETE / PASS 33/33
 - scans **334–366 / printed 317–349**;
@@ -297,8 +297,6 @@ Tamil remains **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual ve
 
 ### GR3 — COMPLETE / PASS 33/33
 - scans **400–432 / printed 383–415**;
-- cumulative glossary reconciliation — **99/111**;
-- current page state — **111 `source-checked` / 0 draft / 0 source-limited / 0 blocked**;
 - all **15** Chapter/Kural metadata records checked with **0 chapter-number or Kural-number mismatches**;
 - English terminology corrections — **3 page files**:
   - scan **425** — `Mugilan` → **Mukilan** throughout;
@@ -306,18 +304,39 @@ Tamil remains **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual ve
   - scan **429** — `curved sword` → **curved blade** for `கொடுவாள்`;
 - page-status changes — **0**;
 - Tamil archival changes — **0**;
-- incoming **399→400 CLEAN** preserved;
-- outgoing **432→433 CLEAN** preserved;
+- incoming **399→400 CLEAN** and outgoing **432→433 CLEAN** preserved;
 - external/published/web terminology imported — **0**.
 
-GR3 commit:
+GR3 commit: `9c97e62d866538e7d04f40b8726b4f90fa5a1e17`.
 
-- `9c97e62d866538e7d04f40b8726b4f90fa5a1e17`.
+### GR4 — COMPLETE / PASS 12/12 / FINAL REMAINDER
+- scans **433–444 / printed 416–427**;
+- cumulative glossary reconciliation — **111/111 COMPLETE / CLOSED**;
+- current page state — **111 `source-checked` / 0 draft / 0 source-limited / 0 blocked**;
+- all **5** Chapter/Kural metadata records checked with **0 chapter-number or Kural-number mismatches**;
+- Chapter 100 **Good Character** recorded as the GR4-first chapter control;
+- existing chapter controls **Longing for His Return**, **Knowing the Proper Time**, **Inability to Bear Separation**, and **Evil Friendship** reused unchanged;
+- source-evidenced recurring names and source-printed glosses from scans **437** and **443** recorded in `GLOSSARY.md`;
+- English page wording corrections — **0 page files**;
+- page-status changes — **0**;
+- Tamil archival changes — **0**;
+- incoming **432→433 CLEAN** and internal **443→444 CLEAN** preserved;
+- scan **444 / printed 427 remains source-open**;
+- external **444→445 DEFERRED / UNRESOLVED**;
+- external/published/web terminology imported — **0**.
 
-GR3 exact change set from `d408f1bb689e0e880a4a576710eea5a3d5bf06dd`: **4 files** — `GLOSSARY.md` plus English scans **425, 426, 429**.
+GR4 commit:
+
+- `0266f1cca87df46ad9614bb34299218e22df6ad9`.
+
+GR4 exact change set from `5bacced06a66d99fc0b24abcdbcd8355fca0afa5`: **1 file** — `GLOSSARY.md` only; **0 English page files**.
+
+## Part 004 English editorial review — NOT STARTED / UNBLOCKED
+
+Current pre-editorial state remains **111 `source-checked` / 0 `editorial-reviewed` / 0 draft / 0 source-limited / 0 blocked**.
 
 ## Exact next English activity
 
-Process the **final glossary reconciliation remainder GR4 — scans 433–444 / printed 416–427 — 12 English pages**.
+Process **ER1 — scans 334–366 / printed 317–349 — 33 English pages**.
 
-Use `GLOSSARY.md` and audited Tamil context. Reconcile only source-supported recurring names, controlled terms, chapter labels, citation metadata and repeated English renderings. Keep all page statuses `source-checked`; preserve scan 444 as source-open and external **444→445 DEFERRED / UNRESOLVED**. Do not alter Tamil records or begin Part 005.
+Use audited Tamil and `GLOSSARY.md`. Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity. Make only source-faithful editorial improvements; passing pages may move from `source-checked` to `editorial-reviewed`. Do not alter Tamil records and do not begin Part 005.
