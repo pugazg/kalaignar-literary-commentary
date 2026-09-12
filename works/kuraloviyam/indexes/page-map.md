@@ -344,19 +344,19 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_
 - canonical Tamil inventory: **111 records**;
 - scans **334–444** / printed **317–427**;
 - Tamil: **ARCHIVAL-READY / CLOSED — 111 textual + 111 visual verified / 0 exceptions**;
-- incoming **333→334 CLEAN / source-resolved**;
 - external **444→445 DEFERRED / UNRESOLVED** until Part 005 intake.
 
 Part 004 English:
 
 - D1 **334–366 / printed 317–349 — COMPLETE 33/33**;
-- cumulative drafting — **33/111**;
-- current status — **33 draft / 0 source-limited / 0 blocked**;
-- remaining undrafted — **78**;
-- **366→367 genuine continuation** preserved;
-- exact next batch — **D2 367–399 / printed 350–382 — 33 records**;
+- D2 **367–399 / printed 350–382 — COMPLETE 33/33**;
+- cumulative drafting — **66/111**;
+- current status — **66 draft / 0 source-limited / 0 blocked**;
+- remaining undrafted — **45**;
+- **399→400 CLEAN** preserved;
+- exact next batch — **D3 400–432 / printed 383–415 — 33 records**;
 - source-check / glossary / editorial / review / release — **blocked until drafting completes**.
 
 ## Current frontier
 
-**Part 004 English Draft D2 — scans 367–399 / printed 350–382.** Preserve external **444→445 DEFERRED / UNRESOLVED**.
+**Part 004 English Draft D3 — scans 400–432 / printed 383–415.** Preserve external **444→445 DEFERRED / UNRESOLVED**.

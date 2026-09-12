@@ -379,14 +379,15 @@ Part 004 Tamil is closed at **111/111 textual verified + 111/111 visual verified
 
 ## Maintained English workflow
 
-First-pass drafting is now **IN PROGRESS — 33/111**.
+First-pass drafting is now **IN PROGRESS — 66/111**.
 
-- D1 scans **334–366 / printed 317–349 — COMPLETE 33/33**;
-- current English state — **33 draft / 0 source-limited / 0 blocked**;
-- remaining undrafted — **78**;
-- D1 page-only audit — exactly **33 English page records added / 0 Tamil changes**;
-- outgoing **366→367 genuine continuation** preserved.
+- D1 **334–366 / printed 317–349 — COMPLETE 33/33**;
+- D2 **367–399 / printed 350–382 — COMPLETE 33/33**;
+- current English state — **66 draft / 0 source-limited / 0 blocked**;
+- remaining undrafted — **45**;
+- D2 page-only audit — exactly **33 English page records added / 0 Tamil changes**;
+- outgoing **399→400 CLEAN** preserved.
 
 ## Exact next activity
 
-Process **Part 004 English Draft Batch D2 — scans 367–399 / printed 350–382, 33 page-aligned records** from the audited Tamil records. Do not begin Part 005.
+Process **Part 004 English Draft Batch D3 — scans 400–432 / printed 383–415, 33 page-aligned records** from the audited Tamil records. Do not begin Part 005.

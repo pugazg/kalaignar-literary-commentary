@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 004 English Draft Batch D2
+# NEXT CHAT PROMPT — குறளோவியம் / Part 004 English Draft Batch D3
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`.
 
@@ -11,16 +11,17 @@ Parts **001–003 are fully CLOSED**. Part 004 Tamil is **ARCHIVAL-READY / CLOSE
 ## Durable Part 004 state
 
 - Tamil: **111/111 textual verified + 111/111 visual verified / 0 exceptions**;
-- English first-pass drafting: **IN PROGRESS — 33/111**;
-- D1: **scans 334–366 / printed 317–349 — COMPLETE 33/33**;
-- current English state: **33 `draft` / 0 source-limited / 0 blocked**;
-- remaining undrafted: **78**;
-- D1 page commits:
-  - `883414f24224e4dc8c25b71b31eb084da2a61930` — 334–344;
-  - `726d2c1b1ea85b6322567ba53eb774d0ee3cae53` — 345–355;
-  - `f188c3a89eb4970b017b92cb2cc06a6964bca0e1` — 356–366;
-- page-only D1 audit: **exactly 33 added English page files, no Tamil changes**;
-- **366→367 is a genuine continuation**;
+- English first-pass drafting: **IN PROGRESS — 66/111**;
+- D1: **334–366 / printed 317–349 — COMPLETE 33/33**;
+- D2: **367–399 / printed 350–382 — COMPLETE 33/33**;
+- current English state: **66 `draft` / 0 source-limited / 0 blocked**;
+- remaining undrafted: **45**;
+- D2 page commits:
+  - `8254e403db0f5b95f94c69987752841c06f2b5d0` — 367–377;
+  - `b8c40afb2d0ca68fcf89613ea870c7ddc6b2f2d4` — 378–388;
+  - `fca3bc207e635473db9f3a35edb5fcd3abacebc8` — 389–399;
+- page-only D2 audit: **exactly 33 added English page files, no Tamil changes**;
+- **399→400 is CLEAN**;
 - external **444→445 DEFERRED / UNRESOLVED** until Part 005 source intake.
 
 ## English workflow rules
@@ -33,22 +34,11 @@ Normal page-batch cadence: **33 physical scans**.
 
 Use audited Tamil records as the normal authority. Do not routinely reopen the PDF. Do not import standard/published/web English Kural wording. Do not alter Tamil archival records.
 
-## Mandatory startup reading
-
-1. `works/kuraloviyam/PART_004_TAMIL_ARCHIVAL_READY.md`
-2. `works/kuraloviyam/translations/en/TRANSLATION_GUIDE.md`
-3. `works/kuraloviyam/translations/en/GLOSSARY.md`
-4. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
-5. `works/kuraloviyam/translations/en/README.md`
-6. matching audited Tamil records under `works/kuraloviyam/pages/`
-
-## Exact next activity — English Draft D2
+## Exact next activity — English Draft D3
 
 Create project-created English page records for:
 
-**scans 367–399 / printed 350–382 — 33 consecutive page-aligned records.**
-
-Start scan 367 as the continuation of the Bhagat Singh / Rajaguru / Sukhdev / Jeyagopal narrative opened on scan 366.
+**scans 400–432 / printed 383–415 — 33 consecutive page-aligned records.**
 
 For each record:
 
@@ -60,6 +50,6 @@ For each record:
 - use `GLOSSARY.md` as a context-aware control;
 - do not change Tamil archival records.
 
-After D2, synchronize the English frontier to D3 and audit the exact changed-file set.
+After D3, synchronize the English frontier to the final D4 remainder and audit the exact changed-file set.
 
-Do **not** start D3 in the same iteration unless separately instructed. Do **not** begin Part 005.
+Do **not** start D4 in the same iteration unless separately instructed. Do **not** begin Part 005.

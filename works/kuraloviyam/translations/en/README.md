@@ -135,20 +135,20 @@ Part 004 covers scans **334–444 / printed 317–427**, 111 physical pages.
 
 - Tamil: **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**;
 - durable closure: `../../PART_004_TAMIL_ARCHIVAL_READY.md`;
-- incoming **333→334 CLEAN / source-resolved**;
 - external **444→445 DEFERRED / UNRESOLVED** until Part 005 source intake.
 
 ## Part 004 English — FIRST-PASS DRAFTING IN PROGRESS
 
-- D1: **scans 334–366 / printed 317–349 — COMPLETE 33/33**;
-- cumulative drafting: **33/111**;
-- current state: **33 `draft` / 0 source-limited / 0 blocked**;
-- remaining undrafted: **78**;
-- D1 changed no Tamil archival record;
-- outgoing **366→367 genuine continuation** is preserved.
+- D1: **334–366 / printed 317–349 — COMPLETE 33/33**;
+- D2: **367–399 / printed 350–382 — COMPLETE 33/33**;
+- cumulative drafting: **66/111**;
+- current state: **66 `draft` / 0 source-limited / 0 blocked**;
+- remaining undrafted: **45**;
+- D2 changed no Tamil archival record;
+- outgoing **399→400 CLEAN** is preserved.
 
 ## Current frontier
 
-**Draft Batch D2 — scans 367–399 / printed 350–382 — 33 page-aligned records.**
+**Draft Batch D3 — scans 400–432 / printed 383–415 — 33 page-aligned records.**
 
 Use the audited Tamil records under `../../pages/` as the working authority. Follow `TRANSLATION_GUIDE.md` and `GLOSSARY.md`. Do not import publisher/standard/web English wording and do not alter Tamil archival records.

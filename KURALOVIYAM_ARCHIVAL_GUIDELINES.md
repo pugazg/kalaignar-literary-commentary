@@ -199,13 +199,14 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 ### Part 004 — overall scans 334–444
 
 - Tamil: **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified / 0 exceptions**;
-- English first-pass drafting: **IN PROGRESS — 33/111**;
+- English first-pass drafting: **IN PROGRESS — 66/111**;
 - D1: **334–366 / printed 317–349 — COMPLETE 33/33**;
-- English state: **33 draft / 0 source-limited / 0 blocked**;
+- D2: **367–399 / printed 350–382 — COMPLETE 33/33**;
+- English state: **66 draft / 0 source-limited / 0 blocked**;
 - current English page-batch cadence: **33 physical scans**;
-- D1 outgoing **366→367 genuine continuation**;
+- **399→400 CLEAN**;
 - outgoing Part boundary **444→445 DEFERRED / UNRESOLVED** until Part 005 intake.
 
 ### Exact next content stage
 
-Process **Part 004 English Draft Batch D2 — scans 367–399 / printed 350–382, 33 records**. Do not begin Part 005.
+Process **Part 004 English Draft Batch D3 — scans 400–432 / printed 383–415, 33 records**. Do not begin Part 005.

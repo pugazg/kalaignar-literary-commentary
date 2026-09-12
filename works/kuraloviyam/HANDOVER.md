@@ -156,7 +156,7 @@ Durable final checkpoint: `works/kuraloviyam/PART_003_FINAL_CLOSURE.md`.
 
 Part 003 Tamil and maintained English are now fully closed. English is **111/111 `release-ready`**; the Part-level review is PASS; the release report is APPROVED / CLOSED; no Tamil or English page record changed during the final checkpoint.
 
-## Part 004 — TAMIL CLOSED / ENGLISH D2 NEXT
+## Part 004 — TAMIL CLOSED / ENGLISH D3 NEXT
 
 ### Durable Tamil state
 
@@ -165,20 +165,20 @@ Part 003 Tamil and maintained English are now fully closed. English is **111/111
 - visual distribution — **111 verified / 0 needs-review**;
 - external **444→445 DEFERRED / UNRESOLVED** until Part 005 intake.
 
-Durable Tamil closure: `works/kuraloviyam/PART_004_TAMIL_ARCHIVAL_READY.md`.
-
 ### English workflow state
 
 - normal page-batch cadence — **33 physical scans**;
-- first-pass drafting — **IN PROGRESS 33/111**;
-- D1 scans **334–366 / printed 317–349 — COMPLETE 33/33**;
-- current English state — **33 draft / 0 source-limited / 0 blocked**;
-- remaining undrafted — **78**;
-- D1 page-only audit — **exactly 33 added English page records / 0 Tamil changes**;
+- first-pass drafting — **IN PROGRESS 66/111**;
+- D1 **334–366 / printed 317–349 — COMPLETE 33/33**;
+- D2 **367–399 / printed 350–382 — COMPLETE 33/33**;
+- current English state — **66 draft / 0 source-limited / 0 blocked**;
+- remaining undrafted — **45**;
+- D2 page-only audit — **exactly 33 added English page records / 0 Tamil changes**;
+- incoming to next batch **399→400 CLEAN**;
 - source-check and later English gates — **BLOCKED until drafting completes**.
 
-## Exact next activity — Part 004 English Draft D2
+## Exact next activity — Part 004 English Draft D3
 
-Create page-aligned project translations for **scans 367–399 / printed 350–382 — 33 records**.
+Create page-aligned project translations for **scans 400–432 / printed 383–415 — 33 records**.
 
-Start with scan 367 as the direct continuation of the revolutionary narrative opened on scan 366. Use audited Tamil records under `works/kuraloviyam/pages/`, follow the English guide/glossary, preserve page alignment and Kural structure, and do not alter Tamil records or begin Part 005.
+Use audited Tamil records under `works/kuraloviyam/pages/`, follow the English guide/glossary, preserve page alignment and Kural structure, and do not alter Tamil records or begin Part 005.

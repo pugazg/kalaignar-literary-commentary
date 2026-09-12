@@ -286,23 +286,33 @@ Current normal drafting cadence: **33 physical scans per iteration**.
 ### Draft Batch D1 — COMPLETE 33/33
 
 - scans **334–366 / printed 317–349**;
-- cumulative Part-004 English drafting: **33/111**;
-- current English state: **33 `draft` / 0 source-limited / 0 blocked**;
-- remaining undrafted Part-004 pages: **78**;
-- Tamil archival page changes during D1: **0**;
+- cumulative after D1: **33/111**;
+- page commits:
+  - `883414f24224e4dc8c25b71b31eb084da2a61930` — 334–344;
+  - `726d2c1b1ea85b6322567ba53eb774d0ee3cae53` — 345–355;
+  - `f188c3a89eb4970b017b92cb2cc06a6964bca0e1` — 356–366;
+- outgoing **366→367 genuine continuation**.
+
+### Draft Batch D2 — COMPLETE 33/33
+
+- scans **367–399 / printed 350–382**;
+- cumulative Part-004 English drafting: **66/111**;
+- current English state: **66 `draft` / 0 source-limited / 0 blocked**;
+- remaining undrafted Part-004 pages: **45**;
+- Tamil archival page changes during D2: **0**;
 - published/standard/web English Kural wording imported: **0**;
-- outgoing **366→367 is a genuine continuation**; scan 367 continues and closes the Bhagat Singh / Rajaguru / Sukhdev / Jeyagopal narrative.
+- outgoing **399→400 is CLEAN**; scan 400 begins a new illustrated speculative-visitors vignette.
 
-D1 page commits:
+D2 page commits:
 
-- `883414f24224e4dc8c25b71b31eb084da2a61930` — scans **334–344**;
-- `726d2c1b1ea85b6322567ba53eb774d0ee3cae53` — scans **345–355**;
-- `f188c3a89eb4970b017b92cb2cc06a6964bca0e1` — scans **356–366**.
+- `8254e403db0f5b95f94c69987752841c06f2b5d0` — scans **367–377**;
+- `b8c40afb2d0ca68fcf89613ea870c7ddc6b2f2d4` — scans **378–388**;
+- `fca3bc207e635473db9f3a35edb5fcd3abacebc8` — scans **389–399**.
 
-Page-only audit from `1a699532ff602b8b6f68ab6a91d06654db003657` to `f188c3a89eb4970b017b92cb2cc06a6964bca0e1` is **ahead / non-divergent** and contains exactly **33 added English page records**, scans **334–366**, with **0 unexpected files and 0 missing expected files**. No Tamil page or Tamil metadata file changed in the D1 page commits.
+Page-only audit from `982d87d73652a9a711de73550b42a86914bb6f56` to `fca3bc207e635473db9f3a35edb5fcd3abacebc8` is **ahead / non-divergent** and contains exactly **33 added English page records**, scans **367–399**, with **0 unexpected files and 0 missing expected files**. No Tamil page or Tamil metadata file changed in the D2 page commits.
 
 ## Exact next English activity
 
-Process **Draft Batch D2 — scans 367–399 / printed 350–382 — 33 page-aligned records**.
+Process **Draft Batch D3 — scans 400–432 / printed 383–415 — 33 page-aligned records**.
 
-Begin by continuing the genuine **366→367** revolutionary narrative. Use audited Tamil records as the normal authority; preserve page alignment, Kural blocks, visual/non-body functions and cross-page continuities. Do not change Tamil records and do not begin Part 005.
+The incoming **399→400 boundary is CLEAN**. Use audited Tamil records as the normal authority; preserve page alignment, Kural blocks, visual/non-body functions and cross-page continuities. Do not change Tamil records and do not begin Part 005.
