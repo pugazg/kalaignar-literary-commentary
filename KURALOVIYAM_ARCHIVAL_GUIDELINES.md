@@ -116,7 +116,7 @@ The cross-Part boundary itself is checked only when the adjacent Part source bec
 
 ## 9. Batch discipline
 
-Default source-dependent work may use smaller batches when no user override exists. **Current established Tamil cadence for Part 004 Pass 1 and Pass 2A page-batched work: 11 physical scans per normal iteration**, with a shorter final remainder when necessary.
+Default source-dependent work may use smaller batches when no user override exists. **Part 004 Pass 1 and Pass 2A used 11 physical scans per normal iteration. For the active Part 004 Pass 3, the user-directed cadence from Batch 7 onward is 30 physical scans per normal iteration**, with a shorter final remainder when fewer than 30 scans remain.
 
 For every source-dependent batch:
 
@@ -208,12 +208,13 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_
 - Tamil Pass 1: **COMPLETE — 111/111**;
 - Pass 2A direct textual verification: **COMPLETE / PASS — 111/111**;
 - Pass 2B independent lexical-fidelity re-read: **COMPLETE / PASS — 111/111**;
-- Pass 3 meaningful visual/text verification: **IN PROGRESS — 44/111 complete through scan 377 / printed 360**;
-- Pass 3 corrections so far: scans **336, 342 and 348**; Batches 3–4 required no structural changes;
+- Pass 3 meaningful visual/text verification: **IN PROGRESS — 96/111 complete through scan 429 / printed 412**;
+- active Pass-3 cadence: **30 physical scans per normal iteration from Batch 7 onward**; final remainder is **15 scans**;
+- Pass 3 visual-note corrections so far: scans **336, 342, 348, 388, 398 and 416**;
 - lexical body-text changes during Pass 3: **0**;
 - all Part-004 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"` until the later Part audit and final metadata/status synchronization;
 - Part audit: **BLOCKED until Pass 3 reaches 111/111**;
-- outgoing **444→445: deferred until Part 005 intake**.
+- outgoing **444→445: DEFERRED / UNRESOLVED** until Part 005 intake.
 
 Durable operational controls:
 
@@ -226,4 +227,4 @@ Durable operational controls:
 
 ### Exact next content stage
 
-Perform **Part 004 Pass 3 Batch 5 — scans 378–388 / printed 361–371, 11 scans**. Scan 378 receives full Pass-3 review after serving only as the Batch-4 outgoing witness. Inspect scan **389 / printed 372** only as the outgoing boundary witness. Do not promote page statuses, start the Part audit, begin Part 005, or resolve **444→445** without its actual controlling source.
+Perform the **final Part 004 Pass 3 remainder — scans 430–444 / printed 413–427, 15 scans**. Scan 430 receives full Pass-3 review after serving only as the Batch-7 outgoing witness. There is no scan-445 witness in the supplied Part 004 source; preserve **444→445 DEFERRED / UNRESOLVED** until Part 005 is supplied. Do not begin the Part audit in the same iteration unless separately instructed.
