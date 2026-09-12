@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 005 P5-06
+# NEXT CHAT PROMPT — குறளோவியம் / Part 005 P5-07
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`.
 
@@ -21,19 +21,18 @@ Source intake is **PASS / COMPLETE**. Rendered scans are controlling; no usable 
 - P5-03 **467–477 / printed 450–460 — COMPLETE 11/11**;
 - P5-04 **478–488 / printed 461–471 — COMPLETE 11/11**;
 - P5-05 **489–499 / printed 472–482 — COMPLETE 11/11**;
-- cumulative capture — **55/111**;
-- all 55 current records — `needs-review` / visual `needs-review`;
-- P5-05 page capture commit — `a76772193a35a83aca682214724ed0e775cd46b9`;
-- P5-05 source-reading reconciliation — `f73a779411598a9ca303a3ec3d6d351d082761fb`;
-- exact P5-05 compare from `35038f4fd2114fe8234b24e7262ca9dfd80ce263` to `f73a779411598a9ca303a3ec3d6d351d082761fb` — **11 files only / scans 489–499**;
-- **499→500 — GENUINE CONTINUATION**;
-- scan 500 / printed 483 continues the public-gaze / concealed-love vignette and closes it with Chapter **114 / Kural 1138**;
+- P5-06 **500–510 / printed 483–493 — COMPLETE 11/11**;
+- cumulative capture — **66/111**;
+- all 66 current records — `needs-review` / visual `needs-review`;
+- P5-06 page-layer commit — `5c6d8d573dfd08e879e0e784190d12e9c4dd154b`;
+- exact P5-06 compare from `32a0ce4e3d38579a56b4e22c72e123a34a331f80` to `5c6d8d573dfd08e879e0e784190d12e9c4dd154b` — **11 files only / scans 500–510**;
+- **510→511 — CLEAN**, checked directly from scan 511 / printed 494;
 - durable progress — `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 Part 006 is source-intake complete but remains transcription-inactive.
 
-## Exact next activity — P5-06
+## Exact next activity — P5-07
 
-Process scans **500–510 / printed 483–493** as one page-aligned Tamil Pass-1 record per physical scan.
+Process scans **511–521 / printed 494–504** as one page-aligned Tamil Pass-1 record per physical scan.
 
-Use `part: 5`, `part_page: 56–66`, exact mappings and the Part 005 source filename. New records remain `needs-review` / visual `needs-review`. Preserve the incoming **499→500 genuine continuation**. Inspect scan **511 / printed 494** only as the outgoing boundary witness when required. Do not begin Part 006 transcription.
+Use `part: 5`, `part_page: 67–77`, exact mappings and the Part 005 source filename. New records remain `needs-review` / visual `needs-review`. Preserve the clean incoming **510→511** boundary. Inspect scan **522 / printed 505** only as the outgoing boundary witness when required. Do not begin Part 006 transcription.

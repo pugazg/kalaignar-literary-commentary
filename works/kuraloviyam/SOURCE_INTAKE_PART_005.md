@@ -82,9 +82,10 @@ Pass 1 is active.
 - P5-03 / scans **467–477 / printed 450–460** — **COMPLETE 11/11**;
 - P5-04 / scans **478–488 / printed 461–471** — **COMPLETE 11/11**;
 - P5-05 / scans **489–499 / printed 472–482** — **COMPLETE 11/11**;
-- cumulative Pass-1 capture — **55/111**;
-- exact P5-05 changed-file set — **11 page files only**;
-- outgoing **499→500 — GENUINE CONTINUATION**, checked from scan 500 / printed 483;
+- P5-06 / scans **500–510 / printed 483–493** — **COMPLETE 11/11**;
+- cumulative Pass-1 capture — **66/111**;
+- exact P5-06 changed-file set — **11 page files only**;
+- outgoing **510→511 — CLEAN**, checked from scan 511 / printed 494;
 - durable progress — `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
-Next: **P5-06 / scans 500–510 / printed 483–493**, using scan **511 / printed 494** only as a boundary witness when required.
+Next: **P5-07 / scans 511–521 / printed 494–504**, using scan **522 / printed 505** only as a boundary witness when required.

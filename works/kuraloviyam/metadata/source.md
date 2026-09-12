@@ -151,7 +151,7 @@ Boundary **555→556** is **CLEAN**: scan 555 closes Chapter 89 / Kural 881; sca
 
 Detailed intake: `works/kuraloviyam/SOURCE_INTAKE_PART_005.md`.
 
-Part 005 Pass 1 is **ACTIVE**. P5-01 through P5-05 are complete: scans **445–499 / printed 428–482**, **55/111** records captured, all as `status: "needs-review"` / `visual_fidelity: "needs-review"`. Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`. P5-05 exact compare changes **11 page files only**. The outgoing **499→500** boundary is a **GENUINE CONTINUATION**, checked from scan 500 / printed 483; scan 500 closes the continued lovers' unit with Chapter 114 / Kural 1138. Next is **P5-06 / scans 500–510 / printed 483–493**.
+Part 005 Pass 1 is **ACTIVE**. P5-01 through P5-06 are complete: scans **445–510 / printed 428–493**, **66/111** records captured, all as `status: "needs-review"` / `visual_fidelity: "needs-review"`. Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`. P5-06 exact compare changes **11 page files only**. The outgoing **510→511** boundary is **CLEAN**, checked from scan 511 / printed 494. Next is **P5-07 / scans 511–521 / printed 494–504**.
 
 ## Part 006 source identity and provenance
 
