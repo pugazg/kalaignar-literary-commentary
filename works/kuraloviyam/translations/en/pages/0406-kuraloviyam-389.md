@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -27,7 +27,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 “How much wealth will you give me to stay with you tonight? It is not enough merely to promise. You must give it first before touching me.”
 
-“Shame! Are you a courtesan? Good thing! Though I fell into the sweep of your eyes, I have escaped before falling into the next disaster.”
+“Shame! Are you a courtesan? Good thing! Though I fell into the sweep of your eyes, I have escaped before stumbling into the next disaster.”
 
 Saying this, he hurried away. Without the least concern, she turned elsewhere to cast her net of glances.
 
