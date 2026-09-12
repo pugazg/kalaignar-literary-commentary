@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -21,6 +21,6 @@ In the mango grove, in the fragrant flower garden, on the broad sandy shore, in 
 
 Using the evening hour, men and women partake of an incomparable feast and satisfy both the hunger of the heart and the hunger of the body.
 
-But here is one man who, instead of thinking greatly of the feast he himself is going to enjoy, generously thinks that he ought to provide a feast for the evening itself.
+But here is one man who, instead of dwelling on the feast he himself is about to enjoy, generously thinks that he ought to provide a feast for the evening itself.
 
 <!-- Source scan page: 392; printed page: 375; evening/lovers vignette begins; genuine continuation to scan 393 -->

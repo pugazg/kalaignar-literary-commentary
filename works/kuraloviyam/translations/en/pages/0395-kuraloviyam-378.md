@@ -6,14 +6,14 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
 In a letter Jenny wrote to a family friend, she records the following:
 
-“I have unbearable pain in my chest! Pain in my back! We do not even have enough money to arrange for another woman to nurse the baby. Bearing the pain in my chest, I myself fed the child. The child suffered convulsions and bit my breast so badly that it became wounded and began to bleed. Milk and blood mixed together, and the child had to drink it in that condition. Then creditors entered our house and took away our clothes, the children's cradle and their toys to sell them at auction. After struggling with death for three days, the child died. We closed its body in the back room, while the rest of us and the other children lay all night on the floor in the front room. We did not even have the means to prepare a coffin for the child if it died.
+“I have unbearable pain in my chest! Pain in my back! We do not even have enough money to arrange for another woman to nurse the baby. Bearing the pain in my chest, I myself fed the child. The child suffered convulsions and bit my breast so badly that it became wounded and began to bleed. Milk and blood mixed together, and the child had to drink it in that condition. Then creditors entered our house and took away our clothes, the children's cradle and their toys to sell them at auction. After struggling with death for three days, the child died. We closed its body in the back room, while the rest of us and the other children lay all night on the floor in the front room. We did not even have the means to prepare a coffin for that child.
 
 I am not alone in enduring these sufferings. In one sense I am fortunate. My husband is everything to me. The fact that he is beside me is itself a comfort. I consider standing with him as his companion to be the remedy for all my sufferings. Yet only one or two among the many who have benefited in different ways from my husband come forward to help. When I think of that, my heart burns like fire. Is it not a joy to me simply to stand beside him as his companion while he continues to perform his duty even in helpless circumstances?”
 

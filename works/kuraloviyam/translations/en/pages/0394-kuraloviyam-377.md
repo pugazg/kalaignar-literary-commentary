@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 Large upper illustration of a child writing beside a portrait of Karl Marx.
 
-We have learned about the doctrines of Karl Marx, the sculptor of egalitarian thought, who was born one hundred and sixty-five years ago and, a hundred years ago, ceased his sky-high thinking and became a grave beneath the earth. Even now, in many countries of the world, working people continue to raise the flag of struggle with the hope that the goal of putting his ideas of common ownership into practice will one day triumph.
+We have learned about the doctrines of Karl Marx, the sculptor of egalitarian thought, who was born one hundred and sixty-five years ago and, a hundred years ago, saw his soaring thought come to an end and became a grave beneath the earth. Even now, in many countries of the world, working people continue to raise the flag of struggle with the hope that the goal of putting his ideas of common ownership into practice will one day triumph.
 
 That great man was born into an ordinary family, lived a very simple life, repeatedly fell into the cruel grip of poverty, and carried out his duty without rest until he closed his eyes at the age of sixty-five. Though he had a close friend like Engels, many do not know the greatness of the lamp of his household—Jenny, the noble woman who remained beside him and conducted family life with him until the end.
 
