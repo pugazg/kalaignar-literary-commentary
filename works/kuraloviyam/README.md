@@ -11,7 +11,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
 | 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
 | 003 | 223–333 | **Tamil + English CLOSED — final Part checkpoint PASS / CLOSED; 111/111 English release-ready** |
-| 004 | 334–444 | **Tamil ARCHIVAL-READY / CLOSED; English source-check COMPLETE 111/111; glossary GR1 next** |
+| 004 | 334–444 | **Tamil ARCHIVAL-READY / CLOSED; English glossary reconciliation 33/111 — GR1 complete, GR2 next** |
 | 005 | 445–555 | not-started |
 | 006 | 556–666 | not-started |
 
@@ -168,18 +168,18 @@ Durable final-status record: `PART_003_FINAL_STATUS_SYNC.md`.
 
 Durable documentation-sync record: `PART_003_DOCUMENTATION_SYNC.md`.
 
-## Part 004 — TAMIL CLOSED / ENGLISH SOURCE-CHECK COMPLETE 111/111
+## Part 004 — TAMIL CLOSED / ENGLISH GLOSSARY 33/111
 
 - English drafting — **COMPLETE / CLOSED 111/111**;
 - source-check — **COMPLETE / CLOSED 111/111**;
-- final state — **111 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- SC4 **433–444 — COMPLETE 12/12**;
-- SC4 corrections — **scans 434 and 437**;
-- total source-check correction pages — **7**;
-- glossary reconciliation — **NEXT / UNBLOCKED**;
-- scan 444 remains source-open;
+- glossary reconciliation — **IN PROGRESS 33/111**;
+- GR1 **334–366 — COMPLETE / PASS 33/33**;
+- current page status — **111 source-checked**;
+- GR1 wording correction — **scan 366 only: Gandhiji → Gandhi**;
+- page-status changes — **0**;
+- **366→367 genuine continuation**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
 ## Current frontier
 
-**Part 004 English glossary reconciliation GR1 — scans 334–366 / printed 317–349.**
+**Part 004 English glossary reconciliation GR2 — scans 367–399 / printed 350–382.**

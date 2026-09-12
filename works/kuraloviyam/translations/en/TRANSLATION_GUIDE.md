@@ -275,17 +275,12 @@ Part 004 covers scans **334–444 / printed 317–427**.
 - Tamil — **ARCHIVAL-READY / CLOSED**;
 - English drafting — **COMPLETE / CLOSED 111/111**;
 - source-check — **COMPLETE / CLOSED 111/111**;
-- final source-check state — **111 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- source-check corrections — **7 page files total**: scans **343, 374, 381, 410, 426, 434, 437**;
-- glossary reconciliation — **NEXT / NOT STARTED**;
-- exact next batch — **GR1 scans 334–366 / printed 317–349 — 33 pages**;
-- scan 444 remains source-open;
+- current English state — **111 source-checked / 0 draft / 0 source-limited / 0 blocked**;
+- glossary reconciliation — **IN PROGRESS 33/111**;
+- GR1 **334–366 / printed 317–349 — COMPLETE / PASS 33/33**;
+- GR1 page wording corrections — **1 page, scan 366**;
+- page-status changes during glossary gate — **0**;
+- exact next batch — **GR2 scans 367–399 / printed 350–382 — 33 pages**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
-### Part 004 glossary-reconciliation rule
-
-Use `GLOSSARY.md` and audited Tamil context to reconcile recurring names, controlled literary terms, publication/work labels, chapter labels, citation metadata and repeated English renderings.
-
-This gate does **not** change `source-checked` status. Make only terminology corrections actually supported by the audited project source; do not import terms from external editions, web sources or memory, and do not use this gate for general stylistic polishing.
-
-After GR1, continue to GR2 under the current 33-page cadence unless a genuine blocker appears.
+Glossary reconciliation remains a terminology-control gate. Use `GLOSSARY.md` and audited Tamil context; make only source-supported terminology/name/label corrections. Do not perform general stylistic polishing and do not change page status.

@@ -136,25 +136,21 @@ Part 004 covers scans **334–444 / printed 317–427**, 111 physical pages.
 - Tamil: **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**;
 - external **444→445 DEFERRED / UNRESOLVED** until Part 005 source intake.
 
-## Part 004 English — FIRST-PASS DRAFTING COMPLETE / CLOSED
+## Part 004 English — DRAFTING + SOURCE-CHECK CLOSED
 
-- drafting — **111/111 COMPLETE**.
+- drafting — **111/111 COMPLETE / CLOSED**;
+- source-check — **111/111 COMPLETE / CLOSED**;
+- current page status — **111 `source-checked`**.
 
-## Part 004 English source-check — COMPLETE / CLOSED
+## Part 004 English glossary reconciliation — IN PROGRESS
 
-- SC1 **334–366 — COMPLETE 33/33**;
-- SC2 **367–399 — COMPLETE 33/33**;
-- SC3 **400–432 — COMPLETE 33/33**;
-- SC4 **433–444 — COMPLETE 12/12 / FINAL REMAINDER**;
-- cumulative source-check — **111/111 COMPLETE / CLOSED**;
-- final state — **111 `source-checked` / 0 draft / 0 source-limited / 0 blocked**;
-- SC4 fidelity corrections — scans **434, 437**;
-- total source-check correction pages — **7**;
+- GR1 **334–366 / printed 317–349 — COMPLETE / PASS 33/33**;
+- cumulative glossary reconciliation — **33/111**;
+- GR1 page wording changes — **scan 366 only: `Gandhiji` → `Gandhi`**;
+- page status changes — **0**;
 - Tamil changes — **0**;
-- scan 444 remains source-open; **444→445 DEFERRED / UNRESOLVED**.
+- **366→367 genuine continuation** preserved.
 
-## Current frontier — glossary reconciliation
+## Current frontier
 
-**GR1 — scans 334–366 / printed 317–349 — 33 pages.**
-
-Use `GLOSSARY.md` plus audited Tamil context. Reconcile only source-evidenced terminology/names/labels. Page statuses remain `source-checked` during this gate.
+**GR2 — scans 367–399 / printed 350–382 — 33 pages.**

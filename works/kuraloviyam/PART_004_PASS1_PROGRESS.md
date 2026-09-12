@@ -381,20 +381,17 @@ First-pass drafting is **COMPLETE / CLOSED — 111/111**.
 
 English source-check is **COMPLETE / CLOSED — 111/111**.
 
-- SC1 **334–366 — COMPLETE 33/33**;
-- SC2 **367–399 — COMPLETE 33/33**;
-- SC3 **400–432 — COMPLETE 33/33**;
-- SC4 **433–444 — COMPLETE 12/12**;
-- final English state — **111 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- SC4 page audit — **exactly 12 expected files / 0 missing / 0 unexpected**;
-- SC4 fidelity corrections — **2 pages**, scans **434 and 437**;
-- total source-check correction pages — **7**;
-- Tamil changes — **0**;
-- scan 444 remains source-open;
-- external **444→445 DEFERRED / UNRESOLVED**.
+English glossary reconciliation is **IN PROGRESS — 33/111**.
 
-Glossary reconciliation is **NEXT / UNBLOCKED**.
+- GR1 **334–366 / printed 317–349 — COMPLETE / PASS 33/33**;
+- current English state — **111 source-checked / 0 draft / 0 source-limited / 0 blocked**;
+- GR1 metadata audit — **17 Chapter/Kural records / 0 numeric mismatches**;
+- GR1 English wording corrections — **1 page, scan 366: Gandhiji → Gandhi**;
+- GR1 page-status changes — **0**;
+- GR1 Tamil changes — **0**;
+- outgoing **366→367 genuine continuation** preserved;
+- external **444→445 DEFERRED / UNRESOLVED**.
 
 ## Exact next activity
 
-Process **Part 004 English glossary reconciliation GR1 — scans 334–366 / printed 317–349, 33 pages**. Do not change page statuses or begin Part 005.
+Process **Part 004 English glossary reconciliation GR2 — scans 367–399 / printed 350–382, 33 pages**. Keep page statuses `source-checked`; do not alter Tamil records or begin Part 005.

@@ -279,46 +279,41 @@ Incoming **333→334 CLEAN / source-resolved**. External **444→445 DEFERRED / 
 
 ## Part 004 English first-pass drafting — COMPLETE / CLOSED
 
-- D1 **334–366 — 33/33**;
-- D2 **367–399 — 33/33**;
-- D3 **400–432 — 33/33**;
-- D4 **433–444 — 12/12 final remainder**;
 - cumulative drafting — **111/111 COMPLETE**.
 
 ## Part 004 English source-check — COMPLETE / CLOSED
 
-- SC1 **334–366 / printed 317–349 — COMPLETE 33/33**;
-- SC2 **367–399 / printed 350–382 — COMPLETE 33/33**;
-- SC3 **400–432 / printed 383–415 — COMPLETE 33/33**;
-- SC4 **433–444 / printed 416–427 — COMPLETE 12/12 / FINAL REMAINDER**;
 - cumulative source-check — **111/111 COMPLETE / CLOSED**;
-- final English state after source-check — **111 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**;
-- Tamil archival page changes during source-check — **0**;
-- external/published/standard English Kural wording imported — **0**.
+- final English state after source-check — **111 `source-checked` / 0 draft / 0 source-limited / 0 blocked**;
+- source-check correction pages — **343, 374, 381, 410, 426, 434, 437**;
+- Tamil archival changes — **0**.
 
-SC4 page commit:
+## Part 004 English glossary reconciliation — IN PROGRESS
 
-- `d11b2b77f34ebff1423e7070a43f71dd897619de` — scans **433–444**.
+### GR1 — COMPLETE / PASS 33/33
 
-SC4 audit from `ddc8e86636b53c7badf6123948974c012a6e91dc` to `d11b2b77f34ebff1423e7070a43f71dd897619de` contains exactly **12 expected English page files**, scans **433–444**, with **0 missing and 0 unexpected files**.
+- scans **334–366 / printed 317–349**;
+- cumulative glossary reconciliation — **33/111**;
+- current English state — **111 `source-checked` / 0 draft / 0 source-limited / 0 blocked**;
+- page-status changes — **0**;
+- Tamil archival changes — **0**;
+- English page wording changes — **1 page file, scan 366 only**;
+- scan **366 / printed 349** — existing controlled source-honorific mapping `காந்தியடிகள் → Gandhi` reconciled **“Gandhiji” → “Gandhi”**;
+- all **17** Chapter/Kural metadata records across **16** pages checked with **0 chapter-number or Kural-number mismatches**;
+- new Part-004 chapter controls added: **The Might of Enmity**, **Refraining from Causing Pain**, **Impermanence**, **Freedom from Envy**, **Possession of Compassion**;
+- source variant `கூடா ஒழுக்கம்` mapped to existing **False Conduct**;
+- Part-004-first narrative/literary/historical controls recorded in `GLOSSARY.md`, including **Arimaanenjan**, **Narithalaivan**, **Aththi**, **Anbanandan**, **Azhagarasi**, **Manonmaniyam**, **Jeevakan**, **Kudilan**, **Purudothaman**, **Oliyazhagan**, **Paavai**, **Poonkundran**, **Seeralan**, **Pemman**, **Muhammad Ali Jinnah**, **Yahya Khan**, **Zia**, **Bhagat Singh**, **Rajaguru**, **Sukhdev**, **Jeyagopal**, and **Yavana / Yavana land**;
+- genuine **366→367 continuation** preserved;
+- external/published/web terminology imported — **0**.
 
-SC4 made exactly **two source-fidelity page corrections**:
+GR1 commit:
 
-- scan **434 / printed 417** — corrected the first half of the source wordplay `திருவோடு வருவாய் ... திருவோடு ஏந்துபவனைப் போல`: **“come with sacred wealth” → “come with prosperity”**, while preserving the second half as the source’s beggar's-bowl comparison;
-- scan **437 / printed 420** — restored `கண்ணீர் வடித்துக் கடலை வென்றனர்`: **“They shed tears and cursed the sea” → “They shed tears enough to outdo the sea.”**
+- `bc9a043ee5e936ee6a26e053c7678951bb463352` — glossary controls + scan 366 terminology correction.
 
-The other **10 SC4 pages were status-only promotions** from `draft` to `source-checked`.
+GR1 change audit from `7e77a33d8d16e1300ed6382da00116222184be03` to `bc9a043ee5e936ee6a26e053c7678951bb463352`: exactly **2 changed files** — `GLOSSARY.md` and English scan **366**. No page status or Tamil record changed.
 
-Across SC1–SC4, source-check corrections affected **7 page files total**: scans **343, 374, 381, 410, 426, 434, 437**.
+## Exact next English activity
 
-Scan **444 / printed 427** remains source-open exactly as supplied. External **444→445 remains DEFERRED / UNRESOLVED**; no continuation was inferred.
+Process **GR2 — scans 367–399 / printed 350–382 — 33 English pages**.
 
-## Part 004 English glossary reconciliation — NEXT / NOT STARTED
-
-Current glossary-reconciliation cadence: **33 physical scans per normal iteration**, with a shorter final remainder.
-
-Exact next batch:
-
-**GR1 — scans 334–366 / printed 317–349 — 33 English pages.**
-
-Compare recurring names, controlled literary terms, chapter labels, citation metadata and repeated English renderings against `GLOSSARY.md` and audited Tamil context. Make only source-evidenced terminology corrections. Do **not** change page status at this gate, do not import terminology from external editions/web sources, do not alter Tamil records, and do not begin Part 005.
+Reconcile recurring names, controlled literary terms, chapter labels, citation metadata and repeated English renderings against `GLOSSARY.md` and audited Tamil context. Make only source-evidenced terminology corrections. Keep every page status `source-checked`; do not alter Tamil records or begin Part 005.

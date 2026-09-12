@@ -201,12 +201,14 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 - Tamil: **ARCHIVAL-READY / CLOSED**;
 - English drafting: **COMPLETE / CLOSED 111/111**;
 - English source-check: **COMPLETE / CLOSED 111/111**;
-- final English state: **111 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- source-check corrections: **7 page files total**;
-- glossary reconciliation: **NEXT / UNBLOCKED**;
-- next glossary batch: **GR1 scans 334–366 / printed 317–349 — 33 pages**;
+- English glossary reconciliation: **IN PROGRESS 33/111**;
+- GR1 **334–366 — COMPLETE / PASS 33/33**;
+- current English state: **111 source-checked / 0 draft / 0 source-limited / 0 blocked**;
+- GR1 wording correction: **scan 366 only — Gandhiji → Gandhi**;
+- page-status changes: **0**;
+- next glossary batch: **GR2 scans 367–399 / printed 350–382**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
 ### Exact next content stage
 
-Process **Part 004 English glossary reconciliation GR1 — scans 334–366 / printed 317–349, 33 pages**. Do not change page statuses or begin Part 005.
+Process **Part 004 English glossary reconciliation GR2 — scans 367–399 / printed 350–382, 33 pages**. Do not change page statuses or begin Part 005.
