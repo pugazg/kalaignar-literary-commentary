@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 004 Pass 3 — 44/111 complete; Batch 5 scans 378–388 next**: **2026-09-12**.
+Last refreshed for Kuraloviyam **Part 004 Pass 3 COMPLETE / PASS — 111/111; Part audit next**: **2026-09-12**.
 
 ## Repository
 
@@ -181,7 +181,7 @@ Do not restart Pass 1. Do not resume scan-led lexical Pass 2 at scan 14.
 
 Fetch live `main` first. Parts **001–003 are CLOSED** and must not be reopened from stale prompts unless genuinely new source/provenance/fidelity evidence appears.
 
-Kuraloviyam now has a mandatory batch-frontier synchronization rule: after every completed batch, the relevant Pass log, current Part tracker, `works/kuraloviyam/HANDOVER.md`, and `NEXT_CHAT_PROMPT_KURALOVIYAM.md` must agree on the same durable frontier. Root `HANDOVER.md` is additionally refreshed at phase transitions.
+Kuraloviyam has a mandatory frontier synchronization rule. Batch controls are synchronized after every batch; root `HANDOVER.md` is refreshed at phase transitions.
 
 ## Current Part 004 source
 
@@ -201,13 +201,13 @@ Controlling split: `TVA_BOK_0065733_குறளோவியம்_part_004_p
 - Pass 1 physical capture: **COMPLETE — 111/111**;
 - Pass 2A direct textual verification: **COMPLETE / PASS — 111/111**;
 - Pass 2B independent lexical-fidelity re-read: **COMPLETE / PASS — 111/111**;
-- Pass 3 meaningful visual/text verification: **IN PROGRESS — 44/111 complete through scan 377 / printed 360**;
-- Pass 3 Batch 1 corrections: scans **336 and 342**;
-- Pass 3 Batch 2 correction: scan **348**;
-- Pass 3 Batches 3–4: **0 structural corrections**;
+- Pass 3 meaningful visual/text verification: **COMPLETE / PASS — 111/111**;
+- cumulative Pass-3 visual-note corrections: **336, 342, 348, 388, 398, 416**;
 - lexical body-text changes during Pass 3: **0**;
+- status promotions during Pass 3: **0**;
 - all Part-004 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`;
-- Part audit remains **BLOCKED** until Pass 3 reaches **111/111**;
+- Part audit: **NEXT / UNBLOCKED**;
+- final metadata/status synchronization: **BLOCKED until audit closes**;
 - incoming **333→334 CLEAN / source-resolved**;
 - external **444→445 DEFERRED / UNRESOLVED** until Part 005 source intake.
 
@@ -220,4 +220,4 @@ Durable current controls:
 
 ## Exact next activity — குறளோவியம்
 
-Process **Part 004 Pass 3 Batch 5 — scans 378–388 / printed 361–371, 11 physical scans**. Begin with scan 378 now receiving full Pass-3 review after serving only as the Batch-4 outgoing witness. Inspect scan **389 / printed 372** only as the outgoing boundary witness. Do not promote statuses, start the Part audit, begin Part 005, or infer scan 445.
+Perform the **Part 004 Part audit — scans 334–444 / printed 317–427**. Verify complete physical coverage, internal continuities/boundaries, source limits, all completed verification gates and pre-final status consistency. Preserve **444→445 DEFERRED / UNRESOLVED**. Do not promote final statuses or begin Part 005 during the audit unless separately instructed.
