@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -20,7 +20,7 @@ Large upper illustration of a young man and woman embracing at a doorway.
 > Seeing all this, what more have I done—  
 > what old offence have I committed?”
 
-Using a *Kavadi Sindhu* song by Annamalai Reddiar, he tried to break through the siege of her firmness and win. Manmatha's arrow, he said, struck and pierced his chest like a killing spear. Had her heart no pity on seeing it?
+Using a *Kavadi Sindhu* song by Annamalai Reddiar, he tried to break through the siege of his firmness and win. Manmatha's arrow, he said, struck and pierced his chest like a killing spear. Had her heart no pity on seeing it?
 
 She did not move. She controlled herself, neither approaching him nor allowing him to approach.
 
