@@ -337,7 +337,7 @@ Durable Part 002 Tamil archival-ready declaration: `../PART_002_TAMIL_ARCHIVAL_R
 Durable Part 002 English review: `../translations/en/reviews/PART_002_ENGLISH_REVIEW.md`.
 Durable Part 002 English release report: `../translations/en/reviews/PART_002_ENGLISH_RELEASE_REPORT.md`.
 
-## Part 004 boundary resolution and intake map
+## Part 004 boundary resolution and verification map
 
 Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf`.
 
@@ -349,10 +349,12 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_
 - source text layer: **no usable parsed text**;
 - **333→334 CLEAN / source-resolved**;
 - scan 334 begins a new illustrated eye/blame lovers vignette; scan 335 closes it with Chapter 118 / Kural 1174;
-- scan 444 begins a new illustrated royal/court narrative and ends within it; **444→445 remains deferred** until Part 005 intake.
+- scan 444 begins a new illustrated royal/court famine-granary narrative and ends within it;
+- **444→445 remains DEFERRED / UNRESOLVED** until Part 005 intake.
 
 Durable intake: `../SOURCE_INTAKE_PART_004.md`.  
-Pass-1 tracker: `../PART_004_PASS1_PROGRESS.md`.
+Progress tracker: `../PART_004_PASS1_PROGRESS.md`.  
+Pass-3 record: `../PASS3_VISUAL_TEXT_VERIFICATION_PART_004.md`.
 
 ## Verification gates
 
@@ -365,9 +367,15 @@ Part 003: **Tamil + English CLOSED; final checkpoint PASS / CLOSED; 111/111 Engl
 Part 004:
 
 - source intake — **PASS / COMPLETE**;
-- Pass 1 — **0/111, P4-01 next**;
-- Pass 2A / Pass 2B / Pass 3 / audit / final sync / Tamil archival-ready / English / final Part closure — **not started**.
+- Pass 1 — **COMPLETE 111/111**;
+- Pass 2A — **COMPLETE / PASS 111/111**;
+- Pass 2B — **COMPLETE / PASS 111/111**;
+- Pass 3 — **COMPLETE / PASS 111/111**;
+- Part audit — **NEXT / UNBLOCKED**;
+- final metadata/status synchronization — **BLOCKED until audit closes**;
+- Tamil archival-ready / English / final Part closure — **not started**;
+- current page statuses — **111 `needs-review` / 111 `visual_fidelity: needs-review`**.
 
 ## Current frontier
 
-**Part 004 Pass 1 P4-01 — scans 334–344 / printed 317–327, 11 scans.** Incoming **333→334 is CLEAN**. External **444→445 remains deferred** until Part 005 source intake.
+**Part 004 Part audit — scans 334–444 / printed 317–427.** Preserve external **444→445 DEFERRED / UNRESOLVED** until Part 005 source intake.
