@@ -326,22 +326,36 @@ Part 004 Pass 3 meaningful visual/text verification is **COMPLETE / PASS — 111
 - Batches 1–6 used the earlier **11-scan** cadence;
 - Batch 7 used the user-directed **30-scan** cadence;
 - final remainder used the remaining **15 scans**;
-- Batch 1 — **334–344 / printed 317–327 — COMPLETE 11/11**; corrections **336, 342**;
-- Batch 2 — **345–355 / printed 328–338 — COMPLETE 11/11**; correction **348**;
-- Batch 3 — **356–366 / printed 339–349 — COMPLETE 11/11**; corrections **none**;
-- Batch 4 — **367–377 / printed 350–360 — COMPLETE 11/11**; corrections **none**;
-- Batch 5 — **378–388 / printed 361–371 — COMPLETE 11/11**; correction **388**;
-- Batch 6 — **389–399 / printed 372–382 — COMPLETE 11/11**; correction **398**;
-- Batch 7 — **400–429 / printed 383–412 — COMPLETE 30/30**; correction **416**;
-- final remainder — **430–444 / printed 413–427 — COMPLETE 15/15**; corrections **none**;
 - cumulative Pass-3 visual-note corrections: **336, 342, 348, 388, 398, 416**;
 - lexical body-text changes in Pass 3: **0**;
 - status promotions in Pass 3: **0**;
 - final Pass 3 coverage: **111/111**;
-- all page records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`;
-- Part audit is now **NEXT / UNBLOCKED**;
 - **444→445 remains DEFERRED / UNRESOLVED** until Part 005 source intake.
+
+## Part 004 Part audit
+
+**PASS / COMPLETE.**
+
+Durable record: `PART_004_AUDIT.md`.
+
+Audit results:
+
+- exact physical inventory: **111/111**, scans **334–444**;
+- header mapping: `part_page` **1–111**, printed pages **317–427**, no gaps/duplicates;
+- source intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 closure: **PASS**;
+- carried `partial` / `blocked` / source-limited Tamil exceptions: **0**;
+- pre-final status consistency: **111 `needs-review` + 111 `visual_fidelity: needs-review`**;
+- audit Tamil/body-text changes: **0**;
+- audit page-status promotions: **0**;
+- external **444→445 DEFERRED / UNRESOLVED** preserved.
 
 ## Exact next activity
 
-Perform the **Part 004 Part audit** across **scans 334–444 / printed 317–427**. Verify complete physical coverage, internal continuity, source limits, Pass-2A/Pass-2B/Pass-3 closure and status consistency. Preserve **444→445 DEFERRED / UNRESOLVED**. Do not perform final metadata/status synchronization or begin Part 005 during the audit unless separately instructed.
+Perform **Part 004 final metadata/status synchronization** across all **111 page records, scans 334–444 / printed 317–427**.
+
+This is a metadata-only gate. If the audit evidence remains unchanged, promote:
+
+- `status: "needs-review"` → `status: "verified"`;
+- `visual_fidelity: "needs-review"` → `visual_fidelity: "verified"`.
+
+Do not change Tamil body wording, Kural text, structure, `visual_notes`, comments, source identity or page mapping. Do not begin Part 005.
