@@ -11,7 +11,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
 | 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
 | 003 | 223–333 | **Tamil + English CLOSED — final Part checkpoint PASS / CLOSED; 111/111 English release-ready** |
-| 004 | 334–444 | **source intake PASS / COMPLETE; Pass 1 next — P4-01 scans 334–344** |
+| 004 | 334–444 | **Tamil verification + documentation sync COMPLETE; 111/111 textual + visual verified; Tamil archival-ready checkpoint next** |
 | 005 | 445–555 | not-started |
 | 006 | 556–666 | not-started |
 
