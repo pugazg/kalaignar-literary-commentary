@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 004 Pass 3 COMPLETE / PASS — 111/111; Part audit next**: **2026-09-12**.
+Last refreshed for Kuraloviyam **Part 004 audit PASS / COMPLETE; final metadata-status synchronization next**: **2026-09-12**.
 
 ## Repository
 
@@ -181,43 +181,34 @@ Do not restart Pass 1. Do not resume scan-led lexical Pass 2 at scan 14.
 
 Fetch live `main` first. Parts **001–003 are CLOSED** and must not be reopened from stale prompts unless genuinely new source/provenance/fidelity evidence appears.
 
-Kuraloviyam has a mandatory frontier synchronization rule. Batch controls are synchronized after every batch; root `HANDOVER.md` is refreshed at phase transitions.
-
 ## Current Part 004 source
 
 Controlling split: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf`
 
-- source family: `TVA_BOK_0065733`;
 - local pages: **111**;
 - overall scans: **334–444**;
-- visible printed pages: **317–427**;
-- file size: **91,513,473 bytes**;
+- printed pages: **317–427**;
 - SHA-256: `5b7fcc65f19dc3d2a57bebb13cdfb02d0c83f70a5ccc9e537886790908674581`;
-- parsed text layer: **none usable**; rendered scans are controlling.
+- rendered scans are controlling.
 
 ## Durable Part 004 state
 
 - source intake: **PASS / COMPLETE**;
-- Pass 1 physical capture: **COMPLETE — 111/111**;
-- Pass 2A direct textual verification: **COMPLETE / PASS — 111/111**;
-- Pass 2B independent lexical-fidelity re-read: **COMPLETE / PASS — 111/111**;
-- Pass 3 meaningful visual/text verification: **COMPLETE / PASS — 111/111**;
-- cumulative Pass-3 visual-note corrections: **336, 342, 348, 388, 398, 416**;
-- lexical body-text changes during Pass 3: **0**;
-- status promotions during Pass 3: **0**;
-- all Part-004 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`;
-- Part audit: **NEXT / UNBLOCKED**;
-- final metadata/status synchronization: **BLOCKED until audit closes**;
-- incoming **333→334 CLEAN / source-resolved**;
+- Pass 1: **COMPLETE — 111/111**;
+- Pass 2A: **COMPLETE / PASS — 111/111**;
+- Pass 2B: **COMPLETE / PASS — 111/111**;
+- Pass 3: **COMPLETE / PASS — 111/111**;
+- Part audit: **PASS / COMPLETE**;
+- physical/header inventory: **111/111, no gaps/duplicates**;
+- carried `partial` / `blocked` / source-limited Tamil exceptions: **0**;
+- current page statuses: **111 `needs-review` / 111 `visual_fidelity: needs-review`**;
+- final metadata/status synchronization: **NEXT / UNBLOCKED**;
 - external **444→445 DEFERRED / UNRESOLVED** until Part 005 source intake.
 
-Durable current controls:
-
-- `works/kuraloviyam/PART_004_PASS1_PROGRESS.md`;
-- `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_004.md`;
-- `works/kuraloviyam/HANDOVER.md`;
-- `NEXT_CHAT_PROMPT_KURALOVIYAM.md`.
+Durable audit: `works/kuraloviyam/PART_004_AUDIT.md`.
 
 ## Exact next activity — குறளோவியம்
 
-Perform the **Part 004 Part audit — scans 334–444 / printed 317–427**. Verify complete physical coverage, internal continuities/boundaries, source limits, all completed verification gates and pre-final status consistency. Preserve **444→445 DEFERRED / UNRESOLVED**. Do not promote final statuses or begin Part 005 during the audit unless separately instructed.
+Perform **Part 004 final metadata/status synchronization across all 111 records, scans 334–444 / printed 317–427**.
+
+This is metadata-only. Promote eligible textual and visual statuses from `needs-review` to `verified` without changing Tamil wording, Kural text, structure, visual notes, comments or mapping. Preserve **444→445 DEFERRED / UNRESOLVED**. Do not begin Part 005.
