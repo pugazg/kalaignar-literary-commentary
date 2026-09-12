@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,7 +19,7 @@ He lifted the basket and placed it upon her head. He received the privilege of s
 
 She moved away with the basket. He thought her sidelong glance had commanded him to follow. Like a prisoner dragged in chains who cannot escape, Vadivazhagan, caught in her eyes, followed behind her.
 
-She emptied the rubbish into a large pit and turned. Vadivazhagan's gaze was still gathering over her. Within herself she marvelled at the pleasure that gaze gave.
+She emptied the rubbish into a large pit and turned. Vadivazhagan's gaze still clung to her. Within herself she marvelled at the pleasure that gaze gave.
 
 He took her fingers in his own. Now she followed him. Beside the rubbish pit was a thick bush.
 

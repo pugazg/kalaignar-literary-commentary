@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,7 +19,7 @@ It was a beautiful street lined with mansions. From morning through half the nig
 
 In the evening, people drove oxen home from the fields; dung lay here and there. Herdsmen brought cattle from the grazing grounds, and because the animals went on without looking back at the grass that fell from their mouths, green patches appeared along the road.
 
-When morning bloomed, Vaigai came as usual with a long broomstick in her hand to perform the duty of beautifying the street. Vadivazhagan had waited until she came; the moment she arrived, he too came to sweep the street.
+When morning bloomed, Vaigai came as usual with a long broom in her hand to perform the duty of beautifying the street. Vadivazhagan had waited until she came; the moment she arrived, he too came to sweep the street.
 
 From one end Vaigai began cleaning, scooping the rubbish into a basket.
 

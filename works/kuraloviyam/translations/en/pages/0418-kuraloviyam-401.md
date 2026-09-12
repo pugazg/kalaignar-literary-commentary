@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -21,7 +21,7 @@ His mother called him affectionately and served him food. The young child lay cl
 
 Thiruvalluvar stood before him. Ilango could not contain his joy.
 
-A broad forehead. A flood of light in the eyes. Hair gathered and tied in a large knot. A beautiful beard growing down to the broad chest. A palm-leaf manuscript resting in the long fingers of his hand. A smile full of kindness.
+A broad forehead. A flood of light in the eyes. Hair gathered and tied in a large knot. A beautiful beard growing down to the broad chest. A palm-leaf manuscript resting in his palm between long fingers. A smile full of kindness.
 
 Ilango ran and fell at the foot of that mountain of Tamil in worship.
 

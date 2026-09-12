@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -27,7 +27,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 Hearing Maraimudhalvan's words, Nalangilli stood with head bowed. Maraimudhalvan continued:
 
-“As your friend I still tell you this: if a man wishes to know beforehand that ruin is approaching him, it is enough for him to recognize that his own heart has abandoned impartiality and is thinking of doing wrong. That is a wise saying that defeats the words of fortune-tellers—a still higher saying—the word granted by Valluvar long ago.”
+“As your friend I still tell you this: if a man wishes to know beforehand that ruin is approaching him, it is enough for him to recognize that his own heart has abandoned impartiality and is thinking of doing wrong. It is a wise saying that surpasses the fortune-teller's pronouncement—indeed a higher saying still: the word Valluvar gave long ago.”
 
 After giving this warning, his friend went away in anger. Nalangilli's heart trembled, knowing ruin was coming.
 
