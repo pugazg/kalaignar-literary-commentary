@@ -191,11 +191,13 @@ Do not restart Pass 1. Do not resume scan-led lexical Pass 2 at scan 14.
 Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_pages_445-555.pdf`.
 
 - source intake — **PASS / COMPLETE**;
-- P5-01 scans **445–455 / printed 428–438 — COMPLETE 11/11**;
-- P5-02 scans **456–466 / printed 439–449 — COMPLETE 11/11**;
-- cumulative Pass 1 — **22/111 captured**;
-- current 22 records — `needs-review` / visual `needs-review`;
-- **466→467 — GENUINE CONTINUATION**, checked from scan 467 witness;
+- P5-01 — **445–455 / printed 428–438 — COMPLETE 11/11**;
+- P5-02 — **456–466 / printed 439–449 — COMPLETE 11/11**;
+- P5-03 — **467–477 / printed 450–460 — COMPLETE 11/11**;
+- cumulative Pass 1 — **33/111 captured**;
+- current 33 records — `needs-review` / visual `needs-review`;
+- scan 475 correction preserves source reading `புகழ்பாடி விருந்த பொருளீட்டிக்கொண்ட`;
+- **477→478 — CLEAN**, checked from scan 478 witness;
 - durable progress — `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ### Part 006 — SOURCE INTAKE COMPLETE / WAITING
@@ -207,4 +209,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Execute **Part 005 Pass 1 / P5-03 — scans 467–477 / printed 450–460**. Preserve the incoming **466→467 genuine continuation**. Use scan **478 / printed 461** only as an outgoing boundary witness when required. Do not begin Part 006 transcription yet.
+Execute **Part 005 Pass 1 / P5-04 — scans 478–488 / printed 461–471**. Preserve **477→478 CLEAN** and use scan **489 / printed 472** only as an outgoing boundary witness when required. Do not begin Part 006 transcription yet.

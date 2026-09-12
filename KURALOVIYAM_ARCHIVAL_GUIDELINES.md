@@ -211,9 +211,11 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 - P5-01 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - P5-02 — **456–466 / printed 439–449 — COMPLETE 11/11**;
-- cumulative Tamil Pass-1 capture — **22/111**;
-- current captured records — **22 `needs-review` / visual `needs-review`**;
-- **466→467 genuine continuation**;
+- P5-03 — **467–477 / printed 450–460 — COMPLETE 11/11**;
+- cumulative Tamil Pass-1 capture — **33/111**;
+- current captured records — **33 `needs-review` / visual `needs-review`**;
+- scan 475 source-fidelity correction — **COMPLETE**;
+- **477→478 CLEAN**;
 - durable progress — `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ### Part 006 — overall scans 556–666
@@ -225,4 +227,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 ### Exact next content stage
 
-Continue **Part 005 P5-03 — scans 467–477 / printed 450–460**. Rendered source pixels remain controlling. Do not begin Part 006 transcription yet.
+Continue **Part 005 P5-04 — scans 478–488 / printed 461–471**. Rendered source pixels remain controlling. Do not begin Part 006 transcription yet.

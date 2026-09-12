@@ -97,8 +97,57 @@ Exact page-only compare from pre-batch `9963a0fb5615a8c83a1e2c6d7f2d380b7ed79bc2
 - Parts 001–004 remain untouched;
 - Part 006 remains transcription-inactive.
 
+## P5-03 state
+
+**11 / 11 page records captured — COMPLETE.**
+
+P5-03 scans **467–477 / printed 450–460** are captured as one page-aligned Tamil Pass-1 record per physical scan. All 11 records carry:
+
+- `part: 5`;
+- `part_page: 23–33`;
+- exact scan/printed-page mappings;
+- `status: "needs-review"`;
+- `visual_fidelity: "needs-review"`;
+- the exact Part 005 source filename.
+
+Batch page-layer commit:
+
+`6c5b5c03ebdf36fb1fb6f83338e1768def7056e2` — `kuraloviyam: Capture Part 005 Pass 1 scans 467-477`
+
+Source-fidelity correction:
+
+`d552b4b9251747f63cbcade031b7940020d3c350` — `kuraloviyam: Correct Part 005 scan 475 source reading`
+
+The scan-475 / printed-458 reading was corrected from `புகழ்பாடி விருந்து பொருளிட்டிக்கொண்ட` to the visible source reading `புகழ்பாடி விருந்த பொருளீட்டிக்கொண்ட`.
+
+Exact compare from pre-batch `887783c4006478068a3cfe9f63f766be1c166553` to corrected page endpoint `d552b4b9251747f63cbcade031b7940020d3c350` is **ahead by 2 commits** and changes exactly **11 files**, all and only scans **467–477**.
+
+## P5-03 continuity map
+
+- **466→467 — GENUINE CONTINUATION**; scan 467 closes Chapter 128 / Kural 1272;
+- **467→468 — CLEAN**; scan 468 begins the Vidiyan/Peraalan backbiting vignette;
+- **468→469 — GENUINE CONTINUATION**;
+- **469→470 — CLEAN**; scan 469 closes Chapter 19 / Kural 183 and scan 470 begins the poet/lover beauty-description vignette;
+- **470→471 — GENUINE CONTINUATION**;
+- **471→472 — CLEAN**; scan 471 closes Chapter 109 / Kural 1081 and scan 472 begins the sword/learned-man vignette;
+- **472→473 — GENUINE CONTINUATION**;
+- **473→474 — CLEAN**; scan 473 closes Chapter 73 / Kural 727 and scan 474 begins the Veerarakkiyar vignette;
+- **474→475 — GENUINE CONTINUATION**;
+- **475→476 — CLEAN**; scan 475 closes Chapter 24 / Kural 239 and scan 476 begins the poor-poet's-son love vignette;
+- **476→477 — GENUINE CONTINUATION**;
+- **477→478 — CLEAN**, directly checked from scan 478 / printed 461; scan 478 begins a new illustrated woman-and-lover vignette and was not created in P5-03.
+
+## P5-03 structural notes
+
+- all 11 page records remain `needs-review` / visual `needs-review`;
+- source-visible Kural blocks and glosses remain structurally separate;
+- illustrations remain in `visual_notes`;
+- no page outside scans 467–477 changed;
+- Parts 001–004 remain untouched;
+- Part 006 remains transcription-inactive.
+
 ## Current gate
 
-Part 005 Pass 1: **22/111 captured**.
+Part 005 Pass 1: **33/111 captured**.
 
-Next: **P5-03 / scans 467–477 / printed 450–460**, using scan **478 / printed 461** only as a boundary witness when required.
+Next: **P5-04 / scans 478–488 / printed 461–471**, using scan **489 / printed 472** only as a boundary witness when required.

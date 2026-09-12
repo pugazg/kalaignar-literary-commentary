@@ -350,19 +350,20 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - source intake — **PASS / COMPLETE**;
 - P5-01 **445–455 — COMPLETE 11/11**;
 - P5-02 **456–466 — COMPLETE 11/11**;
-- cumulative Pass 1 — **22/111**;
-- **455→456 genuine continuation**;
-- **456→457 CLEAN**;
-- **457→458 genuine continuation**;
-- **458→459 CLEAN**;
-- **459→460 genuine continuation**;
-- **460→461 genuine continuation**;
-- **461→462 CLEAN**;
-- **462→463 genuine continuation**;
-- **463→464 CLEAN**;
-- **464→465 genuine continuation**;
-- **465→466 CLEAN**;
-- **466→467 genuine continuation**, checked from scan 467 / printed 450; scan 467 closes Chapter 128 / Kural 1272.
+- P5-03 **467–477 — COMPLETE 11/11**;
+- cumulative Pass 1 — **33/111**;
+- **466→467 genuine continuation**;
+- **467→468 CLEAN**;
+- **468→469 genuine continuation**;
+- **469→470 CLEAN**;
+- **470→471 genuine continuation**;
+- **471→472 CLEAN**;
+- **472→473 genuine continuation**;
+- **473→474 CLEAN**;
+- **474→475 genuine continuation**;
+- **475→476 CLEAN**;
+- **476→477 genuine continuation**;
+- **477→478 CLEAN**, checked from scan 478 / printed 461.
 
 ## Part 006 intake boundary map
 
@@ -373,4 +374,4 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 ## Current frontier
 
-**Part 005 Pass 1 P5-03 — scans 467–477 / printed 450–460.**
+**Part 005 Pass 1 P5-04 — scans 478–488 / printed 461–471.**

@@ -169,11 +169,13 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 - P5-01 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - P5-02 — **456–466 / printed 439–449 — COMPLETE 11/11**;
-- cumulative Pass 1 — **22/111**;
-- P5-02 page-layer commit — `5185e993810420b5e5474d01001f87c5da7cbc47`;
-- current statuses — **22 needs-review / 22 visual needs-review**;
-- **466→467 genuine continuation**;
-- next batch — **P5-03 / scans 467–477 / printed 450–460**.
+- P5-03 — **467–477 / printed 450–460 — COMPLETE 11/11**;
+- cumulative Pass 1 — **33/111**;
+- P5-03 page-layer commit — `6c5b5c03ebdf36fb1fb6f83338e1768def7056e2`;
+- scan-475 correction commit — `d552b4b9251747f63cbcade031b7940020d3c350`;
+- current statuses — **33 needs-review / 33 visual needs-review**;
+- **477→478 CLEAN**;
+- next batch — **P5-04 / scans 478–488 / printed 461–471**.
 
 ## Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -183,4 +185,4 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ## Exact next activity
 
-Proceed with **P5-03 / scans 467–477 / printed 450–460**. Use scan 478 only as a boundary witness if needed and do not start Part 006 transcription.
+Proceed with **P5-04 / scans 478–488 / printed 461–471**. Use scan 489 only as a boundary witness if needed and do not start Part 006 transcription.
