@@ -221,17 +221,52 @@ Incoming **413→414 CLEAN** remains preserved. Scan **429 / printed 412** was i
 
 Batch 7 correction summary: **0 records corrected; all 15 records required no new Pass-2B correction**.
 
+## Batch 8 — overall scans 429–443 / printed pages 412–426
+
+**Status: COMPLETE — 15 / 15 scans independently re-read against freshly rendered source pages for Pass 2B.**
+
+Incoming **428→429 CLEAN** remains preserved. Scan **444 / printed 427** was first inspected as the outgoing boundary witness for Batch 8 and confirms **443→444 CLEAN**: scan 443 closes the Nagan/Nallaan friendship-benefit vignette with Chapter 82 / Kural 812, while scan 444 begins a new illustrated royal/court famine-granary narrative.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 429 | 412 | independent word-level re-read complete across the Arima/Parithi restraint-before-battle opening and continuation into 430; no new correction required |
+| 430 | 413 | independently confirmed the Arima/Parithi conclusion, Kural 486, lineation, Chapter 49 metadata and source glosses; no new correction required |
+| 431 | 414 | independent word-level re-read complete across the compassion/inner-love vignette opening and mid-sentence continuation into 432; no new correction required |
+| 432 | 415 | independently confirmed the compassion/inner-love conclusion, Kural 79, lineation and Chapter 8 metadata; no new correction required |
+| 433 | 416 | independent word-level re-read complete across the Nallithayan/Porko wealth-and-character vignette opening and continuation into 434; no new correction required |
+| 434 | 417 | independently re-read the Nallithayan/Porko continuation, Kural 995, dialogue and source-visible joining/spacing; no new correction required |
+| 435 | 418 | independently confirmed the Nallithayan/Porko conclusion, Kural 1000, lineation and Chapter 100 metadata listing songs 995 and 1000; no new correction required |
+| 436 | 419 | independent word-level re-read complete across the Selkendai/Kayalvizhi fishermen vignette opening and continuation into 437; no new correction required |
+| 437 | 420 | independently confirmed the Selkendai/Kayalvizhi conclusion, Kural 1266, lineation, Chapter 127 metadata and source glosses; no new correction required |
+| 438 | 421 | independent word-level re-read complete across the chief-minister/young-king right-time vignette opening and continuation into 439; no new correction required |
+| 439 | 422 | independently confirmed the chief-minister/young-king conclusion, Kural 490, lineation and Chapter 49 metadata; no new correction required |
+| 440 | 423 | independent word-level re-read complete across the lovers-separation vignette opening and mid-sentence continuation into 441; no new correction required |
+| 441 | 424 | independently confirmed the lovers-separation conclusion, Kural 1160, lineation and Chapter 116 metadata; no new correction required |
+| 442 | 425 | independent word-level re-read complete across the Nagan/Nallaan friendship-benefit opening and continuation into 443; no new correction required |
+| 443 | 426 | independently confirmed the Nagan/Nallaan conclusion, Kural 812, lineation, Chapter 82 metadata and source glosses; no new correction required; scan 444 witness confirms **443→444 CLEAN** |
+
+Batch 8 correction summary: **0 records corrected; all 15 records required no new Pass-2B correction**.
+
+## Final remainder — overall scan 444 / printed page 427
+
+**Status: COMPLETE — 1 / 1 scan independently re-read against the freshly rendered source page for Pass 2B.**
+
+Scan **444 / printed 427** was fully re-read word by word after serving as the Batch-8 boundary witness. The royal/court famine-granary accusation narrative, punctuation, joining/spacing and visible page structure match the repository record; **no Pass-2B correction is required**.
+
+The narrative visibly remains open at the supplied Part 004 endpoint. **444→445 remains DEFERRED / UNRESOLVED until the actual Part 005 controlling source is supplied.** No continuation has been inferred.
+
 ## Current Pass 2B coverage
 
-- complete: **95 / 111 scans**;
-- independently re-read range: **334–428 / printed 317–411**;
-- remaining Pass 2B: **16 scans**;
-- current normal iteration size: **15 scans**;
+- complete: **111 / 111 scans — COMPLETE / PASS**;
+- independently re-read range: **334–444 / printed 317–427**;
+- remaining Pass 2B: **0 scans**;
+- Batch 8 corrections: **none**;
+- final remainder correction: **none**;
 - textual page status remains `needs-review`;
 - visual fidelity remains `needs-review`;
-- Pass 3 remains **BLOCKED until Pass 2B reaches 111/111**;
+- Pass 3 is now **NEXT / UNBLOCKED**;
 - Part 005 remains **BLOCKED**; **444→445 remains deferred until Part 005 source intake**.
 
 ## Exact next activity
 
-Process **Part 004 Pass 2B Batch 8 — scans 429–443 / printed 412–426 (15 scans)** against freshly rendered source pages. Re-read every source-visible printed word independently, correct only source-supported lexical/punctuation/joining/spacing/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **444 / printed 427** only as the outgoing boundary witness if needed. Do not start Pass 3 or Part 005.
+Begin **Part 004 Pass 3 — meaningful visual-text verification** across the Part 004 source, following the archival guideline and preserving source-visible illustration/page relationships, captions/furniture distinctions, visual notes, page structure and all already source-verified Tamil text. Do not change textual content unless a genuinely new source-visible fidelity issue is discovered. Do not start Part 005.
