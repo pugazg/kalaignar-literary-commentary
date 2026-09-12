@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -22,7 +22,7 @@ The teacher's explanations plunged the student into an ocean of happiness.
 
 Patting the student, the teacher answered:
 
-“Dear boy! The Kural tells us that too. Listen! Even if every excellence, wealth and strength are present together, if there is no government to protect them and administer them properly, the people will gain no benefit from the country's greatness. Kuralar states this firmly as his concluding point.”
+“Dear boy! The Kural tells us that too. Listen! Even if every excellence, wealth and strength are present together, if there is no government to protect them and administer them properly, the people will gain no benefit from the country's greatness. Valluvar drives this point home firmly as his conclusion.”
 
 > Even when all such excellences are attained, there is no benefit  
 > in a country that lacks proper rule.

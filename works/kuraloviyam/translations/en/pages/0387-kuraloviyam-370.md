@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-—at any time. Rajaji was the elder who could say with sweetness in his heart, “Periyar and I are affectionate opponents.” Father Periyar too never freed himself from that friendship overflowing with affection.
+—at any time. Rajaji was the elder who could say with sweetness in his heart, “Periyar and I are affectionate opponents.” Father Periyar too never departed from that friendship overflowing with affection.
 
 Rajaji entered nature's lap in eternal sleep before Periyar. Seeing his lifeless body, Periyar trembled and shed tears. He joined his dear friend's final journey and followed it all the way to the place of cremation. Though he had reached a condition in which four people had to support him while walking, he went close to the cremation ground and sat upon the earth. At last, when tongues of fire began to circle the body of his dear friend, tears poured without stopping like a waterfall from Periyar's bright eyes, melting the hearts of the thousands gathered nearby.
 
