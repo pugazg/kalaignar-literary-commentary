@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-When he lay sprawled there, I saw his broad chest. If I could rest my face upon it, even if the whole world burst apart I would never know. His shoulders are two hills. If I could clasp them tight and gently brush his slightly thick lips with my soft ones, what in this world could equal that pleasure! True to his name Oliyan, he has two full, shining eyes! I feel as though I could lie beside him while stroking the lashes of those eyes with my fingers, soft as kantal petals! Both our families have decided that he and I are to marry. Only that wretched almanac, it seems, has poured out a verdict that the wedding must be postponed for a whole year! Is it possible for me to wait that long? Very well; such is my fate; I wait. But meanwhile why did my eyes arrange such a meeting with him! Do you know what he did after he got up from his fall?
+When he lay sprawled there, I saw his broad chest. If I could rest my face upon it, even if the whole world burst apart I would never know. His shoulders are two hills. If I could clasp them tight and gently brush his slightly thick lips with my soft ones, what in this world could equal that pleasure! True to his name Oliyan, he has two full, shining eyes! I feel as though I could lie beside him while stroking the lashes of those eyes with my fingers, soft as kantal petals! Both our families have decided that he and I are to marry. Only that wretched almanac, it seems, has decreed that the wedding must be postponed for a whole year! Is it possible for me to wait that long? Very well; such is my fate; I wait. But meanwhile why did my eyes arrange such a meeting with him! Do you know what he did after he got up from his fall?
 
 He gave me one pat, one pinch, scattered a smile and went away! The pinch was on my cheek! Do not ask where the pat landed! I am ashamed to say it! But the sensation caused by that touch is doing something strange to me! An incurable sickness of love has seized me like fire!
 

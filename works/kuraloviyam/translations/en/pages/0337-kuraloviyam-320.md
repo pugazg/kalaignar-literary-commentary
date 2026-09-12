@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -17,7 +17,7 @@ Arimaanenjan's eyes clouded. Consoling him, the poet offered advice:
 
 “What can be done! It is your nature to trust people too easily. You gave him an esteem he could never have gained from anyone else. As the saying goes, you scratched your head with a burning brand—you gave Narithalaivan first place among your friends. Today you say you are ready to pay any price to make him your enemy. This is exactly what Valluvar has written so beautifully: that the enmity of one who remains close while acting in ways opposed to you is worth buying even at a price. I am delighted that, at least now, the words of the Kural have opened your eyes.”
 
-The small ruler embraced the classical-Tamil poet and said, “Where is it? Poet, recite once from your own mouth the Kural that corrected me!” The poet sang the Kural melodiously.
+The small ruler embraced the classical-Tamil poet and said, “Which one is it? Poet, recite for me once the Kural that corrected me!” The poet sang the Kural melodiously.
 
 Here is that Kural:
 
