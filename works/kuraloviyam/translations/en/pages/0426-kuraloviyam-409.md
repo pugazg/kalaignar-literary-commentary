@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -27,7 +27,7 @@ The face of Mugilan, whose face had never reddened with anger, became redder tha
 
 “I will kill the idol-thief and return!”
 
-He roared like a tiger and set out holding a sickle.
+He roared like a tiger and set out holding a curved blade.
 
 People of the street surrounded Nallammai.
 
@@ -53,7 +53,7 @@ Mugilan came back.
 
 “He has fallen into the hands of the guards. The court will give him whatever punishment he deserves. I have returned.”
 
-Saying this, Mugilan threw down the sickle in his hand.
+Saying this, Mugilan threw down the curved blade in his hand.
 
 The villagers dispersed with a great sigh of relief.
 
