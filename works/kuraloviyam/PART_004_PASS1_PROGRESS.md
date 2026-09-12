@@ -327,18 +327,20 @@ Part 004 Pass 3 meaningful visual/text verification is now **IN PROGRESS** after
 - Batch 1 structural/visual-description corrections: scans **336 and 342**;
 - Pass 3 Batch 2 — scans **345–355 / printed 328–338 — COMPLETE 11/11**;
 - Batch 2 structural/visual-description correction: scan **348**;
-- Batch 2 no-change: scans **345–347, 349–355**;
-- lexical body-text changes in Pass 3 Batches 1–2: **0**;
-- status promotions in Pass 3 Batches 1–2: **0**;
-- incoming **344→345 genuine continuation** preserved;
-- outgoing **355→356 CLEAN** reconfirmed from scan 356 witness; scan 356 begins a new illustrated Paavai/Poonkundran forest-lovers vignette;
+- Pass 3 Batch 3 — scans **356–366 / printed 339–349 — COMPLETE 11/11**;
+- Batch 3 structural/visual-description corrections: **none**;
+- Batch 3 no-change: scans **356–366**;
+- lexical body-text changes in Pass 3 Batches 1–3: **0**;
+- status promotions in Pass 3 Batches 1–3: **0**;
+- incoming **355→356 CLEAN** preserved;
+- outgoing **366→367 genuine continuation** reconfirmed from scan 367 witness; scan 367 continues and closes the Bhagat Singh/Rajaguru/Sukhdev/Jeyagopal narrative with Chapter 81 / Kural 806;
 - dedicated Pass-3 log: `PASS3_VISUAL_TEXT_VERIFICATION_PART_004.md`;
-- current Pass 3 coverage: **22/111**;
-- remaining Pass 3: **89**;
+- current Pass 3 coverage: **33/111**;
+- remaining Pass 3: **78**;
 - all page records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`;
 - Part audit remains blocked until Pass 3 reaches **111/111**;
 - **444→445 remains DEFERRED / UNRESOLVED** until Part 005 source intake.
 
 ## Exact next activity
 
-Proceed with **Part 004 Pass 3 Batch 3 — scans 356–366 / printed 339–349 (11 scans)**. Verify illustration/text order and relationship, Kural/quotation block placement and lineation, page furniture versus body text, source/non-source separation, and physical continuation directly against freshly rendered source pages. Inspect scan **367 / printed 350** only as the outgoing boundary witness. Do not promote page statuses, start the Part audit, or begin Part 005.
+Proceed with **Part 004 Pass 3 Batch 4 — scans 367–377 / printed 350–360 (11 scans)**. Scan 367 now receives full Pass-3 verification after serving only as the Batch-3 outgoing witness. Verify illustration/text order and relationship, Kural/quotation block placement and lineation, page furniture versus body text, source/non-source separation, and physical continuation directly against freshly rendered source pages. Inspect scan **378 / printed 361** only as the outgoing boundary witness. Do not promote page statuses, start the Part audit, or begin Part 005.
