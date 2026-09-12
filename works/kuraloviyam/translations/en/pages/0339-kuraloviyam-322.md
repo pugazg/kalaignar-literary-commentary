@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 Two years of the seven-year sentence passed in this way. Meanwhile, the appeal he had filed was heard; he was declared innocent and released. After two years as a prison bird, the young man set out toward the little town of his birth to see his parents.
 
-On the road he was startled to see that prison officer lying fallen in his path. He went closer and looked. Blood was flowing from several parts of the officer's body. Lifting him into his lap, he cried, “Sir! Sir!”
+On the road he was startled to see that prison officer lying on the road. He went closer and looked. Blood was flowing from several parts of the officer's body. Lifting him into his lap, he cried, “Sir! Sir!”
 
 The officer opened his eyes and groaned, “Water! Water!” The young man went to the pond nearby, scooped up water in his hands and poured it into the officer's mouth.
 

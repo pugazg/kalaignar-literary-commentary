@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -23,7 +23,7 @@ So one woman grieves.
 
 So another woman grieves.
 
-Both complain that their lovers do not think of them. How can anyone know whether their lovers thought of them or not! It is an accusation born of the yearning that the man who has gone away should fly back and let them float in delight.
+Both complain that their lovers do not think of them. How are they to know whether their lovers have thought of them or not? It is an accusation born of the yearning that the man who has gone away should fly back and let them float in delight.
 
 A woman suffering the pain called separation feels like speaking slightingly of her lover. How beautifully Valluvar's Kural explains the cry of a woman who says, “I keep thinking of him; he does not think of me at all!”
 

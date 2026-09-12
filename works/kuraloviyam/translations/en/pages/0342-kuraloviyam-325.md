@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -17,9 +17,9 @@ Large upper illustration of a military officer in peaked cap and glasses beside 
 
 In the year 1947 CE, India gained freedom from British domination. Saying, “We cannot remain joined with India,” Muslims created a separate country for themselves. India's territorial extent was thereby reduced.
 
-That separate country was named Pakistan. Muhammad Ali Jinnah, the leader who created the country, fell ill and died. Pakistan's government proceeded amid many confusions, and under the rule of the dictator Yahya Khan the country lost a portion of its territory.
+That separate country was named Pakistan. Muhammad Ali Jinnah, the leader who created the country, fell ill and died. Pakistan was governed amid many upheavals, and under the rule of the dictator Yahya Khan the country lost a portion of its territory.
 
-That region emerged as the new Bangladesh. Rallying popular power against dictatorship, a leader named Bhutto removed Yahya Khan and assumed charge as president of the Pakistan that remained.
+That region emerged as the new Bangladesh. Rallying popular power against dictatorship, a leader named Bhutto removed Yahya Khan and assumed charge as president of what remained of Pakistan.
 
 Then arose the question of whom to appoint as commander of the armed forces—indeed, as commander-in-chief. On the basis of qualification and seniority, seven or eight men were fit for the post.
 

@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ It is as though the woman went to take up residence in the palace that is her lo
 
 At the same time, that lover keeps entering without cease into the palace that is her own heart! She complains: has he no shame in entering so often and without pause?
 
-Does not this Kural explain from a new angle both the fact that the woman lives entirely in remembrance of her lover and her accusation that her lover carries no remembrance of her?
+Does not this Kural explain from a new angle both the fact that the woman is wholly absorbed in thoughts of her lover and her accusation that her lover does not think of her?
 
 The lover who guarded his own heart and barred us from entering it—will he not be ashamed that he himself comes ceaselessly into ours?
 
