@@ -351,12 +351,13 @@ Part 004 English:
 - source-check — **111/111 COMPLETE / CLOSED**;
 - GR1 **334–366 — COMPLETE / PASS 33/33**;
 - GR2 **367–399 — COMPLETE / PASS 33/33**;
-- glossary reconciliation cumulative — **66/111**;
-- GR2 corrections — scans **369, 370, 374, 390, 392, 396**;
+- GR3 **400–432 — COMPLETE / PASS 33/33**;
+- glossary reconciliation cumulative — **99/111**;
+- GR3 corrections — scans **425, 426, 429**;
 - page-status changes — **0**;
-- **399→400 CLEAN**;
-- next — **GR3 400–432 / printed 383–415**.
+- **432→433 CLEAN**;
+- next — **GR4 final remainder 433–444 / printed 416–427**.
 
 ## Current frontier
 
-**Part 004 English glossary reconciliation GR3.**
+**Part 004 English glossary reconciliation GR4 final remainder.**

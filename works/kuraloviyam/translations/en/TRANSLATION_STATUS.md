@@ -291,30 +291,33 @@ Tamil remains **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual ve
 
 ### GR2 — COMPLETE / PASS 33/33
 - scans **367–399 / printed 350–382**;
-- cumulative glossary reconciliation — **66/111**;
+- wording correction pages — **6**, scans **369, 370, 374, 390, 392, 396**;
+- page-status changes — **0**;
+- Tamil changes — **0**.
+
+### GR3 — COMPLETE / PASS 33/33
+- scans **400–432 / printed 383–415**;
+- cumulative glossary reconciliation — **99/111**;
 - current page state — **111 `source-checked` / 0 draft / 0 source-limited / 0 blocked**;
-- all **17** Chapter/Kural metadata records checked with **0 chapter-number or Kural-number mismatches**;
-- English terminology corrections — **6 page files**:
-  - scan **369** — `yazh` → **yaazh**;
-  - scan **370** — `Porutpaal` → **Book of Porul**;
-  - scan **374** — `Gandhiji` → **Gandhi**;
-  - scan **390** — `Porutpaal` → **Book of Porul**;
-  - scan **392** — `yazh` → **yaazh**;
-  - scan **396** — `Azhagan` → **Alagan**;
+- all **15** Chapter/Kural metadata records checked with **0 chapter-number or Kural-number mismatches**;
+- English terminology corrections — **3 page files**:
+  - scan **425** — `Mugilan` → **Mukilan** throughout;
+  - scan **426** — `Mugilan` → **Mukilan** throughout;
+  - scan **429** — `curved sword` → **curved blade** for `கொடுவாள்`;
 - page-status changes — **0**;
 - Tamil archival changes — **0**;
-- incoming **366→367 genuine continuation** preserved;
-- outgoing **399→400 CLEAN** preserved;
+- incoming **399→400 CLEAN** preserved;
+- outgoing **432→433 CLEAN** preserved;
 - external/published/web terminology imported — **0**.
 
-GR2 commit:
+GR3 commit:
 
-- `b52086dfe39ac887cf708712656d5f3772f4dc74`.
+- `9c97e62d866538e7d04f40b8726b4f90fa5a1e17`.
 
-GR2 exact change set from `466a98050b69bdb9b4ae653f150bc99056f57a6f`: **7 files** — `GLOSSARY.md` plus English scans **369, 370, 374, 390, 392, 396**.
+GR3 exact change set from `d408f1bb689e0e880a4a576710eea5a3d5bf06dd`: **4 files** — `GLOSSARY.md` plus English scans **425, 426, 429**.
 
 ## Exact next English activity
 
-Process **GR3 — scans 400–432 / printed 383–415 — 33 English pages**.
+Process the **final glossary reconciliation remainder GR4 — scans 433–444 / printed 416–427 — 12 English pages**.
 
-Use `GLOSSARY.md` and audited Tamil context. Reconcile only source-supported recurring names, controlled terms, chapter labels, citation metadata and repeated English renderings. Keep all page statuses `source-checked`; do not alter Tamil records or begin Part 005.
+Use `GLOSSARY.md` and audited Tamil context. Reconcile only source-supported recurring names, controlled terms, chapter labels, citation metadata and repeated English renderings. Keep all page statuses `source-checked`; preserve scan 444 as source-open and external **444→445 DEFERRED / UNRESOLVED**. Do not alter Tamil records or begin Part 005.

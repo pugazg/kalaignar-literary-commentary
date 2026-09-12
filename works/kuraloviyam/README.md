@@ -11,7 +11,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
 | 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
 | 003 | 223–333 | **Tamil + English CLOSED — final Part checkpoint PASS / CLOSED; 111/111 English release-ready** |
-| 004 | 334–444 | **Tamil ARCHIVAL-READY / CLOSED; English glossary reconciliation 66/111 — GR1+GR2 complete, GR3 next** |
+| 004 | 334–444 | **Tamil ARCHIVAL-READY / CLOSED; English glossary reconciliation 99/111 — GR1–GR3 complete, final GR4 next** |
 | 005 | 445–555 | not-started |
 | 006 | 556–666 | not-started |
 
@@ -168,19 +168,20 @@ Durable final-status record: `PART_003_FINAL_STATUS_SYNC.md`.
 
 Durable documentation-sync record: `PART_003_DOCUMENTATION_SYNC.md`.
 
-## Part 004 — TAMIL CLOSED / ENGLISH GLOSSARY 66/111
+## Part 004 — TAMIL CLOSED / ENGLISH GLOSSARY 99/111
 
 - drafting — **COMPLETE / CLOSED 111/111**;
 - source-check — **COMPLETE / CLOSED 111/111**;
-- glossary reconciliation — **IN PROGRESS 66/111**;
+- glossary reconciliation — **IN PROGRESS 99/111**;
 - GR1 **334–366 — COMPLETE / PASS 33/33**;
 - GR2 **367–399 — COMPLETE / PASS 33/33**;
+- GR3 **400–432 — COMPLETE / PASS 33/33**;
 - current page status — **111 source-checked**;
-- GR2 corrections — **369, 370, 374, 390, 392, 396**;
+- GR3 corrections — **425, 426, 429**;
 - page-status changes — **0**;
-- **399→400 CLEAN**;
+- **432→433 CLEAN**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
 ## Current frontier
 
-**Part 004 English glossary reconciliation GR3 — scans 400–432 / printed 383–415.**
+**Part 004 English glossary reconciliation GR4 final remainder — scans 433–444 / printed 416–427.**

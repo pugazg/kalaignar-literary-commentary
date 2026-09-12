@@ -273,12 +273,13 @@ Part 004 has now completed source intake and the full Tamil archival workflow.
 - Tamil — **ARCHIVAL-READY / CLOSED**;
 - English drafting — **COMPLETE / CLOSED 111/111**;
 - source-check — **COMPLETE / CLOSED 111/111**;
-- glossary reconciliation — **IN PROGRESS 66/111**;
+- glossary reconciliation — **IN PROGRESS 99/111**;
 - GR1 **334–366 — COMPLETE / PASS 33/33**;
 - GR2 **367–399 — COMPLETE / PASS 33/33**;
+- GR3 **400–432 — COMPLETE / PASS 33/33**;
 - current page state — **111 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- GR2 terminology corrections — **6 page files**;
-- exact next batch — **GR3 scans 400–432 / printed 383–415 — 33 pages**;
+- GR3 terminology corrections — **3 page files**;
+- exact next batch — **GR4 final remainder scans 433–444 / printed 416–427 — 12 pages**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
 Glossary reconciliation remains terminology-only: use audited Tamil + `GLOSSARY.md`, make only source-supported corrections, preserve page status, and do not perform general stylistic rewriting.

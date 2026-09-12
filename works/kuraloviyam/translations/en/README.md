@@ -144,12 +144,13 @@ Part 003 maintained English is **RELEASE COMPLETE / CLOSED — 111/111 `release-
 
 - GR1 **334–366 — COMPLETE / PASS 33/33**;
 - GR2 **367–399 — COMPLETE / PASS 33/33**;
-- cumulative — **66/111**;
-- GR2 terminology corrections — **6 page files: 369, 370, 374, 390, 392, 396**;
+- GR3 **400–432 — COMPLETE / PASS 33/33**;
+- cumulative — **99/111**;
+- GR3 terminology corrections — **3 page files: 425, 426, 429**;
 - page-status changes — **0**;
 - Tamil changes — **0**;
-- **399→400 CLEAN** preserved.
+- **432→433 CLEAN** preserved.
 
 ## Current frontier
 
-**GR3 — scans 400–432 / printed 383–415 — 33 pages.**
+**GR4 final remainder — scans 433–444 / printed 416–427 — 12 pages.**

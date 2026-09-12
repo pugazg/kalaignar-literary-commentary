@@ -156,25 +156,26 @@ Durable final checkpoint: `works/kuraloviyam/PART_003_FINAL_CLOSURE.md`.
 
 Part 003 Tamil and maintained English are now fully closed. English is **111/111 `release-ready`**; the Part-level review is PASS; the release report is APPROVED / CLOSED; no Tamil or English page record changed during the final checkpoint.
 
-## Part 004 — TAMIL CLOSED / ENGLISH GLOSSARY GR3 NEXT
+## Part 004 — TAMIL CLOSED / ENGLISH GLOSSARY GR4 FINAL REMAINDER NEXT
 
 ### Durable English state
 
 - drafting — **COMPLETE / CLOSED 111/111**;
 - source-check — **COMPLETE / CLOSED 111/111**;
-- glossary reconciliation — **IN PROGRESS 66/111**;
+- glossary reconciliation — **IN PROGRESS 99/111**;
 - GR1 **334–366 — COMPLETE / PASS 33/33**;
 - GR2 **367–399 — COMPLETE / PASS 33/33**;
+- GR3 **400–432 — COMPLETE / PASS 33/33**;
 - current page state — **111 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- GR2 corrections — scans **369, 370, 374, 390, 392, 396**;
-- GR2 page-status changes — **0**;
-- GR2 Tamil changes — **0**;
-- **399→400 CLEAN** preserved;
+- GR3 corrections — scans **425, 426, 429**;
+- GR3 page-status changes — **0**;
+- GR3 Tamil changes — **0**;
+- **432→433 CLEAN** preserved;
 - editorial review and later gates — **BLOCKED until glossary reconciliation closes**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
-## Exact next activity — Part 004 English glossary GR3
+## Exact next activity — Part 004 English glossary GR4
 
-Process **scans 400–432 / printed 383–415 — 33 pages**.
+Process the final **scans 433–444 / printed 416–427 — 12 pages**.
 
-Reconcile terminology against `GLOSSARY.md` and audited Tamil. Keep all pages `source-checked`; do not alter Tamil records or begin Part 005.
+Reconcile terminology against `GLOSSARY.md` and audited Tamil. Keep all pages `source-checked`, preserve the source-open scan-444 ending, do not alter Tamil records, and do not begin Part 005.

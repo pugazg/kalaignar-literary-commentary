@@ -381,17 +381,18 @@ First-pass drafting is **COMPLETE / CLOSED — 111/111**.
 
 English source-check is **COMPLETE / CLOSED — 111/111**.
 
-English glossary reconciliation is **IN PROGRESS — 66/111**.
+English glossary reconciliation is **IN PROGRESS — 99/111**.
 
 - GR1 **334–366 — COMPLETE / PASS 33/33**;
 - GR2 **367–399 — COMPLETE / PASS 33/33**;
+- GR3 **400–432 — COMPLETE / PASS 33/33**;
 - current English state — **111 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- GR2 metadata audit — **17 Chapter/Kural records / 0 numeric mismatches**;
-- GR2 terminology corrections — **6 pages: 369, 370, 374, 390, 392, 396**;
-- GR2 page-status changes — **0**;
-- GR2 Tamil changes — **0**;
-- outgoing **399→400 CLEAN** preserved.
+- GR3 metadata audit — **15 Chapter/Kural records / 0 numeric mismatches**;
+- GR3 terminology corrections — **3 pages: 425, 426, 429**;
+- GR3 page-status changes — **0**;
+- GR3 Tamil changes — **0**;
+- outgoing **432→433 CLEAN** preserved.
 
 ## Exact next activity
 
-Process **Part 004 English glossary reconciliation GR3 — scans 400–432 / printed 383–415, 33 pages**. Keep page statuses `source-checked`; do not alter Tamil records or begin Part 005.
+Process **Part 004 English glossary reconciliation GR4 final remainder — scans 433–444 / printed 416–427, 12 pages**. Keep page statuses `source-checked`, preserve scan 444 as source-open, do not alter Tamil records, and do not begin Part 005.
