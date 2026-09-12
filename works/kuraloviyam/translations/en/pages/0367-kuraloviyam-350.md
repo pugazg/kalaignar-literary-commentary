@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -17,11 +17,11 @@ The death sentence for Bhagat Singh! He did not tremble. He welcomed it with joy
 
 Even today the people of the country kiss those lines of history and press them to their eyes.
 
-Only those who do not understand the greatness of friendship run away from a friend when hardship arrives. Example: the contemptible Jeyagopal.
+Only those who do not understand the greatness of friendship run away from a friend when hardship arrives. The contemptible Jeyagopal is an example.
 
 Those who understand the excellence of friendship and live by it will not cut off their bond with a friend even when that friendship itself brings destruction.
 
-It is this feeling that the following Kural plants:
+The following Kural plants this feeling:
 
 > Those who have stood with us from long ago do not abandon that bond  
 > even when ruin itself arrives.

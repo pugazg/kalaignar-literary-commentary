@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -17,7 +17,7 @@ So he poured out affection and embraced Kannagi in delight. Readers of the *Sila
 
 Was there not a time when their relatives in Poompuhar marvelled at the beauty of those two young doves born in the merchant clan, flying together through the sky called life?
 
-Yet he left that sacred embodiment of chastity, Kannagi, entered the very sanctum of the temple of art, and even fathered the child Manimekalai. What a cruel heart that Kovalan had! What harsh thought! Thus the city of Puhar raised its complaint. Madhavi may indeed have been a mango fruit—but was it right, for that reason, to forget the chaste wife who was like a sweet jackfruit segment? The town asked; the relatives asked.
+Yet he left that sacred embodiment of chastity, Kannagi, entered the very sanctum of the temple of art, and even fathered the child Manimekalai. What a cruel heart Kovalan had! What harsh thoughts he harboured! Thus the city of Puhar raised its complaint. Madhavi may indeed have been a mango fruit—but was it right, for that reason, to forget the chaste wife who was like a sweet jackfruit segment? The town asked; the relatives asked.
 
 Loveless Kovalan—Kovalan without good character—if he truly possessed love and virtue, would he have lived separated from Kannagi?
 

@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,7 +19,7 @@ There is also the envoy who goes to a hostile king who bears needless hatred tow
 
 A messenger who seeks to reduce hostility between two sides and avoid conflict must be able, on behalf of those who sent him, to gather together many arguments and events and present them well. At the same time, Valluvar says, he must possess the discernment to omit useless things that need not be said.
 
-Love, intelligence and the power to speak after careful thought are necessary to one who carries a message. He must learn what is to be learned, not fear the hostile gaze of others, and speak so that his words enter the hearts of those who listen. He must possess pure conduct, support and courage. Even if destruction comes to him, he must not fear it but carry out his duty in a way that brings benefit to his leader. Such a person, Valluvar says, is a good envoy.
+Love, intelligence and the power to speak after careful thought are necessary to one who carries a message. He must master what needs to be learned, not fear the hostile gaze of others, and speak so that his words enter the hearts of those who listen. He must possess pure conduct, support and courage. Even if destruction comes to him, he must not fear it but carry out his duty in a way that brings benefit to his leader. Such a person, Valluvar says, is a good envoy.
 
 The one who removes what is useless, gathers many points together, speaks them pleasingly and brings benefit to his leader is the envoy. One who instead betrays his leader to the enemy in order to save himself and his own circle is not an envoy—he is a traitor.
 
