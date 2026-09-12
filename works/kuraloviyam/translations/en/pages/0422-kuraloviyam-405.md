@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -20,7 +20,7 @@ The young man, drenched in the waterfall of pleasure and delighting in the memor
 
 As he speaks thus to the anicham flower, his beloved comes before him. Her eyes leap upon him. She gives a slight smile and draws near. He takes her by the shoulder and embraces her.
 
-As he embraces her, he says her body is a tender shoot. Holding her shoulder, he describes her as possessing the beauty of young bamboo. Seeing her smile, he swells with delight and says her teeth are pearls. As their nearness deepens, he praises her as a jewel-bearing woman who gives off a sweet fragrance. He marvels that the darkened eye which draws him in is like a spear.
+As he embraces her, he says her body is a tender shoot. Holding her shoulder, he describes her as possessing the beauty of young bamboo. Seeing her smile, he swells with delight and says her teeth are pearls. As their nearness deepens, he praises her as a jewel-bearing woman who gives off a sweet fragrance. He marvels that her kohl-darkened eyes, which draw him in, are like spears.
 
 What a wonder that the beloved whom he had praised as softer than the anicham flower now appears in his imagination as a woman whose eyes bear spears!
 

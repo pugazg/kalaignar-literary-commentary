@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -31,6 +31,6 @@ Pugazhenthi instantly replied:
 
 The gathered poets are said to have rejoiced at Pugazhenthi's answer.
 
-If the bee becomes so confused after drinking flower-honey, what will happen to men who have drunk the honey of love? How will they speak front-to-back and back-to-front in intoxication? Valluvar shows this through several Kurals.
+If the bee becomes so confused after drinking flower-honey, what will happen to men who have drunk the honey of love? How will they speak all topsy-turvy in their intoxication? Valluvar shows this through several Kurals.
 
 <!-- Source scan page: 421; printed page: 404; Pugazhenthi/Ottakoothar literary-imagination discussion begins; genuine continuation to scan 422 -->

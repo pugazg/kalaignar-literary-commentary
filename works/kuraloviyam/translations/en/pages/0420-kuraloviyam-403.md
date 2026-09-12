@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-“Child, do you know what the base are fit for? When hardship comes, they are fit to hurry and sell themselves to others. This man is one of them. Did you see him clearly?”
+“Child, do you know what base men are fit for? When hardship comes, they are fit to hurry and sell themselves to others. This man is one of them. Did you see him clearly?”
 
 Valluvar also recited this Kural:
 
@@ -22,7 +22,7 @@ Ilango's curiosity was not satisfied.
 
 “But the base man looks just like a human being,” he asked in amazement.
 
-“Yes, child. The base do look like people. In no other two kinds of things can we find such similarity of outward form as between human beings and the base. Here—he has the form of a man, but a base heart. There is a Kural about this too. Listen:
+“Yes, child. Base men do look like ordinary people. In no other two kinds of things can we find such similarity of outward form as between human beings and the base. Here—he has the form of a man, but a base heart. There is a Kural about this too. Listen:
 
 > The base resemble ordinary people; nowhere else  
 > have we seen two unlike things so alike in form.

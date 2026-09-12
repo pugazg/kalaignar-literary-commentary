@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -23,7 +23,7 @@ The enemy, meanwhile, showed no concern for devising plans that would benefit th
 
 The people trembled as they realized the new king's rule was jungle-rule. The atrocities committed day after day by his commanders knew no limit. Except for the few who clung to him, everyone with clear understanding recognized his falsehood.
 
-Using the confused section of the people and those who lived by bowing before him, the new king spent the treasury's wealth on increasing weapons and soldiers.
+Using the confused among the people and those who lived by bowing before him, the new king went on spending the treasury's wealth on increasing weapons and soldiers.
 
 The commanders and warriors surrounding the king in the mountain fort appealed to him:
 
