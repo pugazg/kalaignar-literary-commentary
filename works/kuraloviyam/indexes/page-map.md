@@ -342,7 +342,7 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - canonical Tamil inventory: **111 records**;
 - Tamil: **ARCHIVAL-READY / CLOSED**;
 - English inventory: **111/111 aligned**;
-- current page status — **99 editorial-reviewed + 12 source-checked / 0 draft / 0 source-limited / 0 blocked**;
+- current page status — **111 editorial-reviewed / 0 source-checked / 0 draft / 0 source-limited / 0 blocked**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
 Part 004 English:
@@ -350,19 +350,20 @@ Part 004 English:
 - drafting — **111/111 COMPLETE / CLOSED**;
 - source-check — **111/111 COMPLETE / CLOSED**;
 - glossary reconciliation — **111/111 COMPLETE / CLOSED**;
+- editorial review — **111/111 COMPLETE / CLOSED**;
 - ER1 **334–366 / printed 317–349 — COMPLETE / PASS 33/33**;
 - ER2 **367–399 / printed 350–382 — COMPLETE / PASS 33/33**;
 - ER3 **400–432 / printed 383–415 — COMPLETE / PASS 33/33**;
-- editorial review cumulative — **99/111**;
-- ER3 wording-improvement pages — **21**;
-- ER3 status-only promotions — **12**;
+- ER4 **433–444 / printed 416–427 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
+- ER4 wording-improvement pages — **11**;
+- ER4 status-only promotion — **1**;
 - Chapter/Kural / Kural-block changes — **0**;
 - Tamil changes — **0**;
-- **399→400 CLEAN** preserved;
-- **432→433 CLEAN** rechecked with scan 433 and preserved;
+- **432→433 CLEAN** preserved;
+- **443→444 CLEAN** preserved;
 - scan **444 / printed 427 remains source-open**;
-- next — **ER4 scans 433–444 / printed 416–427 — final 12 pages**.
+- next — **Part 004 Part-level English review over all 111 pages**.
 
 ## Current frontier
 
-**Part 004 English editorial review ER4.**
+**Part 004 Part-level English review — NEXT / NOT STARTED.**

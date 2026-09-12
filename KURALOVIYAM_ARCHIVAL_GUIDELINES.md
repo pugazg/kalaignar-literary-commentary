@@ -202,19 +202,20 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 - English drafting: **COMPLETE / CLOSED 111/111**;
 - English source-check: **COMPLETE / CLOSED 111/111**;
 - English glossary reconciliation: **COMPLETE / CLOSED 111/111**;
-- English editorial review: **IN PROGRESS 99/111**;
+- English editorial review: **COMPLETE / CLOSED 111/111**;
 - ER1 **334–366 / printed 317–349 — COMPLETE / PASS 33/33**;
 - ER2 **367–399 / printed 350–382 — COMPLETE / PASS 33/33**;
 - ER3 **400–432 / printed 383–415 — COMPLETE / PASS 33/33**;
-- current English state: **99 editorial-reviewed + 12 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- ER3 wording-improvement pages: **21**;
-- ER3 status-only promotions: **12**;
+- ER4 **433–444 / printed 416–427 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
+- current English state: **111 editorial-reviewed / 0 source-checked / 0 draft / 0 source-limited / 0 blocked**;
+- ER4 wording-improvement pages: **11**;
+- ER4 status-only promotion: **1**;
 - Chapter/Kural / Kural-block changes: **0**;
 - Tamil changes: **0**;
-- **399→400 CLEAN** and **432→433 CLEAN** preserved;
+- **432→433 CLEAN** and **443→444 CLEAN** preserved;
 - scan **444 / printed 427 remains source-open**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
 ### Exact next content stage
 
-Process **Part 004 English editorial review ER4 — scans 433–444 / printed 416–427, final 12 pages**. Preserve scan 444 as source-open, do not infer scan 445, do not alter Tamil records, and do not begin Part 005.
+Begin the **Part 004 Part-level English review** across all **111 English pages / scans 334–444**. Preserve the source-open endpoint and do not promote to release-ready during this gate. Do not begin Part 005.

@@ -11,7 +11,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
 | 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
 | 003 | 223–333 | **Tamil + English CLOSED — final Part checkpoint PASS / CLOSED; 111/111 English release-ready** |
-| 004 | 334–444 | **Tamil ARCHIVAL-READY / CLOSED; English glossary reconciliation CLOSED 111/111; editorial review IN PROGRESS 99/111 — ER4 next** |
+| 004 | 334–444 | **Tamil ARCHIVAL-READY / CLOSED; English editorial review COMPLETE / CLOSED 111/111; Part-level English review next** |
 | 005 | 445–555 | not-started |
 | 006 | 556–666 | not-started |
 
@@ -168,25 +168,25 @@ Durable final-status record: `PART_003_FINAL_STATUS_SYNC.md`.
 
 Durable documentation-sync record: `PART_003_DOCUMENTATION_SYNC.md`.
 
-## Part 004 — TAMIL CLOSED / ENGLISH EDITORIAL REVIEW 99/111
+## Part 004 — TAMIL CLOSED / ENGLISH EDITORIAL REVIEW COMPLETE 111/111
 
 - drafting — **COMPLETE / CLOSED 111/111**;
 - source-check — **COMPLETE / CLOSED 111/111**;
 - glossary reconciliation — **COMPLETE / CLOSED 111/111**;
-- editorial review — **IN PROGRESS 99/111**;
+- editorial review — **COMPLETE / CLOSED 111/111**;
 - ER1 **334–366 / printed 317–349 — COMPLETE / PASS 33/33**;
 - ER2 **367–399 / printed 350–382 — COMPLETE / PASS 33/33**;
 - ER3 **400–432 / printed 383–415 — COMPLETE / PASS 33/33**;
-- current page status — **99 editorial-reviewed + 12 source-checked**;
-- ER3 wording-improvement pages — **21**: 400, 401, 402, 406, 408, 410, 412, 413, 415, 416, 417, 418, 420, 421, 422, 423, 425, 426, 429, 430, 432;
-- ER3 status-only promotions — **12**;
+- ER4 **433–444 / printed 416–427 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
+- current page status — **111 editorial-reviewed / 0 source-checked**;
+- ER4 wording-improvement pages — **11**: 433, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444;
+- ER4 status-only promotion — **1**;
 - Chapter/Kural / Kural-block changes — **0**;
 - Tamil changes — **0**;
-- **399→400 CLEAN** preserved;
-- **432→433 CLEAN** rechecked and preserved;
+- **432→433 CLEAN** and **443→444 CLEAN** preserved;
 - scan **444 / printed 427 remains source-open**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
 ## Current frontier
 
-**Part 004 English editorial review ER4 — scans 433–444 / printed 416–427 — final 12 pages.**
+**Part 004 Part-level English review — NEXT / NOT STARTED.**
