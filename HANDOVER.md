@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 004 SOURCE INTAKE PASS / COMPLETE — P4-01 scans 334–344 next**: **2026-09-10**.
+Last refreshed for Kuraloviyam **Part 004 Pass 3 — 44/111 complete; Batch 5 scans 378–388 next**: **2026-09-12**.
 
 ## Repository
 
@@ -179,7 +179,9 @@ Do not restart Pass 1. Do not resume scan-led lexical Pass 2 at scan 14.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Parts **001–003 are CLOSED** and must not be reopened from stale prompts unless a genuinely new source/provenance/fidelity issue appears.
+Fetch live `main` first. Parts **001–003 are CLOSED** and must not be reopened from stale prompts unless genuinely new source/provenance/fidelity evidence appears.
+
+Kuraloviyam now has a mandatory batch-frontier synchronization rule: after every completed batch, the relevant Pass log, current Part tracker, `works/kuraloviyam/HANDOVER.md`, and `NEXT_CHAT_PROMPT_KURALOVIYAM.md` must agree on the same durable frontier. Root `HANDOVER.md` is additionally refreshed at phase transitions.
 
 ## Current Part 004 source
 
@@ -191,17 +193,31 @@ Controlling split: `TVA_BOK_0065733_குறளோவியம்_part_004_p
 - visible printed pages: **317–427**;
 - file size: **91,513,473 bytes**;
 - SHA-256: `5b7fcc65f19dc3d2a57bebb13cdfb02d0c83f70a5ccc9e537886790908674581`;
-- parsed text layer: **none usable**; rendered scans control transcription.
+- parsed text layer: **none usable**; rendered scans are controlling.
 
-Part 004 source intake is **PASS / COMPLETE**. Durable records:
+## Durable Part 004 state
 
-- `works/kuraloviyam/SOURCE_INTAKE_PART_004.md`;
-- `works/kuraloviyam/PART_004_PASS1_PROGRESS.md`.
+- source intake: **PASS / COMPLETE**;
+- Pass 1 physical capture: **COMPLETE — 111/111**;
+- Pass 2A direct textual verification: **COMPLETE / PASS — 111/111**;
+- Pass 2B independent lexical-fidelity re-read: **COMPLETE / PASS — 111/111**;
+- Pass 3 meaningful visual/text verification: **IN PROGRESS — 44/111 complete through scan 377 / printed 360**;
+- Pass 3 Batch 1 corrections: scans **336 and 342**;
+- Pass 3 Batch 2 correction: scan **348**;
+- Pass 3 Batches 3–4: **0 structural corrections**;
+- lexical body-text changes during Pass 3: **0**;
+- all Part-004 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`;
+- Part audit remains **BLOCKED** until Pass 3 reaches **111/111**;
+- incoming **333→334 CLEAN / source-resolved**;
+- external **444→445 DEFERRED / UNRESOLVED** until Part 005 source intake.
 
-The previously deferred **333→334** boundary is now **CLEAN / source-resolved**: scan 333 closes the Part-003 Chapter 57 / Kural 567 vignette; scan 334 begins a new illustrated lovers/eye-blame vignette, which closes on scan 335 with Chapter 118 / Kural 1174.
+Durable current controls:
 
-External **444→445 remains deferred** until Part 005 is supplied.
+- `works/kuraloviyam/PART_004_PASS1_PROGRESS.md`;
+- `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_004.md`;
+- `works/kuraloviyam/HANDOVER.md`;
+- `NEXT_CHAT_PROMPT_KURALOVIYAM.md`.
 
 ## Exact next activity — குறளோவியம்
 
-Process **Part 004 Pass 1 P4-01 — scans 334–344 / printed 317–327, 11 physical scans**. Use the supplied Part 004 PDF as controlling source, create one Tamil page record per physical scan with `status: "needs-review"` and `visual_fidelity: "needs-review"`, preserve source-visible Kural/page structure and illustrations, and inspect scan 345 only as a boundary witness if needed.
+Process **Part 004 Pass 3 Batch 5 — scans 378–388 / printed 361–371, 11 physical scans**. Begin with scan 378 now receiving full Pass-3 review after serving only as the Batch-4 outgoing witness. Inspect scan **389 / printed 372** only as the outgoing boundary witness. Do not promote statuses, start the Part audit, begin Part 005, or infer scan 445.
