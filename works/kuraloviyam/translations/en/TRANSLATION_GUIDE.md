@@ -274,17 +274,16 @@ Part 004 has now completed source intake and the full Tamil archival workflow.
 - English drafting — **COMPLETE / CLOSED 111/111**;
 - source-check — **COMPLETE / CLOSED 111/111**;
 - glossary reconciliation — **COMPLETE / CLOSED 111/111**;
-- GR1 **334–366 — COMPLETE / PASS 33/33**;
-- GR2 **367–399 — COMPLETE / PASS 33/33**;
-- GR3 **400–432 — COMPLETE / PASS 33/33**;
-- GR4 **433–444 / printed 416–427 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
-- current page state — **111 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- GR4 English page wording corrections — **0 page files**;
-- GR4 page-status changes — **0**;
-- GR4 Tamil changes — **0**;
+- editorial review — **IN PROGRESS 33/111**;
+- ER1 **334–366 / printed 317–349 — COMPLETE / PASS 33/33**;
+- current page state — **33 editorial-reviewed + 78 source-checked / 0 draft / 0 source-limited / 0 blocked**;
+- ER1 wording-improvement pages — **23**;
+- ER1 status-only promotions — **10**;
+- Chapter/Kural / Kural-block changes — **0**;
+- Tamil changes — **0**;
+- **366→367 genuine continuation** rechecked and preserved;
 - scan **444 / printed 427 remains source-open**;
 - external **444→445 DEFERRED / UNRESOLVED**;
-- editorial review — **NOT STARTED / UNBLOCKED**;
-- exact next batch — **ER1 scans 334–366 / printed 317–349 — 33 pages**.
+- exact next batch — **ER2 scans 367–399 / printed 350–382 — 33 pages**.
 
-Glossary reconciliation is closed. The next maintained gate is editorial review: review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and continuity; consult audited Tamil whenever a change may affect meaning; make only source-faithful improvements; promote only passing pages from `source-checked` to `editorial-reviewed`.
+Editorial review continues under the maintained 33-page cadence. Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and continuity; consult audited Tamil whenever a change may affect meaning; make only source-faithful improvements; promote only passing pages from `source-checked` to `editorial-reviewed`.

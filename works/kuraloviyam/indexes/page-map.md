@@ -341,29 +341,26 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 - canonical Tamil inventory: **111 records**;
 - Tamil: **ARCHIVAL-READY / CLOSED**;
-- English inventory: **111/111 drafted, source-checked and aligned**;
-- page status — **111 source-checked / 0 draft / 0 source-limited / 0 blocked**;
+- English inventory: **111/111 drafted, source-checked or editorial-reviewed, and aligned**;
+- current page status — **33 editorial-reviewed + 78 source-checked / 0 draft / 0 source-limited / 0 blocked**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
 Part 004 English:
 
 - drafting — **111/111 COMPLETE / CLOSED**;
 - source-check — **111/111 COMPLETE / CLOSED**;
-- GR1 **334–366 — COMPLETE / PASS 33/33**;
-- GR2 **367–399 — COMPLETE / PASS 33/33**;
-- GR3 **400–432 — COMPLETE / PASS 33/33**;
-- GR4 **433–444 / printed 416–427 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
-- glossary reconciliation cumulative — **111/111 COMPLETE / CLOSED**;
-- GR4 Chapter/Kural audit — **5 records / 0 numeric mismatches**;
-- GR4 English-page wording corrections — **0**;
-- GR4 exact change set — **`../translations/en/GLOSSARY.md` only**;
-- page-status changes — **0**;
+- glossary reconciliation — **111/111 COMPLETE / CLOSED**;
+- ER1 **334–366 / printed 317–349 — COMPLETE / PASS 33/33**;
+- editorial review cumulative — **33/111**;
+- ER1 wording-improvement pages — **23**;
+- ER1 status-only promotions — **10**;
+- Chapter/Kural / Kural-block changes — **0**;
 - Tamil changes — **0**;
-- **432→433 CLEAN** and **443→444 CLEAN**;
+- **333→334 CLEAN**;
+- **366→367 genuine continuation** rechecked with scan 367 witness and preserved;
 - scan **444 / printed 427 remains source-open**;
-- editorial review — **NOT STARTED / UNBLOCKED**;
-- next — **ER1 scans 334–366 / printed 317–349 — 33 pages**.
+- next — **ER2 scans 367–399 / printed 350–382 — 33 pages**.
 
 ## Current frontier
 
-**Part 004 English editorial review ER1.**
+**Part 004 English editorial review ER2.**

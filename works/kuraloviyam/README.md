@@ -11,7 +11,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
 | 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
 | 003 | 223–333 | **Tamil + English CLOSED — final Part checkpoint PASS / CLOSED; 111/111 English release-ready** |
-| 004 | 334–444 | **Tamil ARCHIVAL-READY / CLOSED; English glossary reconciliation COMPLETE / CLOSED 111/111; editorial review ER1 next** |
+| 004 | 334–444 | **Tamil ARCHIVAL-READY / CLOSED; English glossary reconciliation CLOSED 111/111; editorial review IN PROGRESS 33/111 — ER2 next** |
 | 005 | 445–555 | not-started |
 | 006 | 556–666 | not-started |
 
@@ -168,26 +168,23 @@ Durable final-status record: `PART_003_FINAL_STATUS_SYNC.md`.
 
 Durable documentation-sync record: `PART_003_DOCUMENTATION_SYNC.md`.
 
-## Part 004 — TAMIL CLOSED / ENGLISH GLOSSARY CLOSED / EDITORIAL REVIEW NEXT
+## Part 004 — TAMIL CLOSED / ENGLISH EDITORIAL REVIEW 33/111
 
 - drafting — **COMPLETE / CLOSED 111/111**;
 - source-check — **COMPLETE / CLOSED 111/111**;
 - glossary reconciliation — **COMPLETE / CLOSED 111/111**;
-- GR1 **334–366 — COMPLETE / PASS 33/33**;
-- GR2 **367–399 — COMPLETE / PASS 33/33**;
-- GR3 **400–432 — COMPLETE / PASS 33/33**;
-- GR4 **433–444 / printed 416–427 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
-- current page status — **111 source-checked**;
-- GR4 Chapter/Kural audit — **5 records / 0 numeric mismatches**;
-- GR4 English page wording corrections — **0 page files**;
-- GR4 exact change set — **`translations/en/GLOSSARY.md` only**;
-- page-status changes — **0**;
+- editorial review — **IN PROGRESS 33/111**;
+- ER1 **334–366 / printed 317–349 — COMPLETE / PASS 33/33**;
+- current page status — **33 editorial-reviewed + 78 source-checked**;
+- ER1 wording-improvement pages — **23**: 335, 336, 337, 338, 339, 340, 341, 342, 344, 346, 347, 349, 350, 351, 352, 354, 355, 356, 359, 362, 363, 365, 366;
+- ER1 status-only promotions — **10**;
+- Chapter/Kural / Kural-block changes — **0**;
 - Tamil changes — **0**;
-- **432→433 CLEAN** and **443→444 CLEAN**;
+- **333→334 CLEAN**;
+- **366→367 genuine continuation** rechecked and preserved;
 - scan **444 / printed 427 remains source-open**;
-- external **444→445 DEFERRED / UNRESOLVED**;
-- editorial review — **NOT STARTED / UNBLOCKED**.
+- external **444→445 DEFERRED / UNRESOLVED**.
 
 ## Current frontier
 
-**Part 004 English editorial review ER1 — scans 334–366 / printed 317–349, 33 pages.**
+**Part 004 English editorial review ER2 — scans 367–399 / printed 350–382.**
