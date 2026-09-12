@@ -342,7 +342,7 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - canonical Tamil inventory: **111 records**;
 - Tamil: **ARCHIVAL-READY / CLOSED**;
 - English inventory: **111/111 aligned**;
-- current page status — **111 editorial-reviewed / 0 source-checked / 0 draft / 0 source-limited / 0 blocked**;
+- current page status — **111 editorial-reviewed / 0 release-ready / 0 source-checked / 0 draft / 0 source-limited / 0 blocked**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
 Part 004 English:
@@ -351,19 +351,19 @@ Part 004 English:
 - source-check — **111/111 COMPLETE / CLOSED**;
 - glossary reconciliation — **111/111 COMPLETE / CLOSED**;
 - editorial review — **111/111 COMPLETE / CLOSED**;
-- ER1 **334–366 / printed 317–349 — COMPLETE / PASS 33/33**;
-- ER2 **367–399 / printed 350–382 — COMPLETE / PASS 33/33**;
-- ER3 **400–432 / printed 383–415 — COMPLETE / PASS 33/33**;
-- ER4 **433–444 / printed 416–427 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
-- ER4 wording-improvement pages — **11**;
-- ER4 status-only promotion — **1**;
-- Chapter/Kural / Kural-block changes — **0**;
-- Tamil changes — **0**;
-- **432→433 CLEAN** preserved;
-- **443→444 CLEAN** preserved;
+- Part-level English review — **PASS / CLOSED**;
+- durable review — `../translations/en/reviews/PART_004_ENGLISH_REVIEW.md`;
+- Chapter/Kural metadata — **54 records / 54 pages / 42 distinct Chapters / 0 mismatches**;
+- controlled labels and Kural block separation — **PASS**;
+- English visual-material records — **54 / page-function audit PASS**;
+- **333→334 CLEAN**;
+- **366→367 genuine continuation**;
+- **399→400 CLEAN**;
+- **432→433 CLEAN**;
+- **443→444 CLEAN**;
 - scan **444 / printed 427 remains source-open**;
-- next — **Part 004 Part-level English review over all 111 pages**.
+- next — **Part 004 English release report**.
 
 ## Current frontier
 
-**Part 004 Part-level English review — NEXT / NOT STARTED.**
+**Part 004 English release report — NEXT / NOT STARTED.**

@@ -275,17 +275,16 @@ Part 004 has now completed source intake and the full Tamil archival workflow.
 - source-check — **COMPLETE / CLOSED 111/111**;
 - glossary reconciliation — **COMPLETE / CLOSED 111/111**;
 - editorial review — **COMPLETE / CLOSED 111/111**;
-- ER1 **334–366 / printed 317–349 — COMPLETE / PASS 33/33**;
-- ER2 **367–399 / printed 350–382 — COMPLETE / PASS 33/33**;
-- ER3 **400–432 / printed 383–415 — COMPLETE / PASS 33/33**;
-- ER4 **433–444 / printed 416–427 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
-- current page state — **111 editorial-reviewed / 0 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- ER4 wording-improvement pages — **11**;
-- ER4 status-only promotion — **1**;
-- Chapter/Kural / Kural-block changes — **0**;
-- Tamil changes — **0**;
-- **432→433 CLEAN** and **443→444 CLEAN** preserved;
+- Part-level English review — **PASS / CLOSED**;
+- durable review — `reviews/PART_004_ENGLISH_REVIEW.md`;
+- current page state — **111 editorial-reviewed / 0 release-ready / 0 source-checked / 0 draft / 0 source-limited / 0 blocked**;
+- whole-Part inventory/alignment — **111/111 PASS**;
+- Chapter/Kural metadata — **54 records / 54 pages / 42 distinct Chapter numbers / 0 numeric mismatches**;
+- controlled labels, names, Kural blocks and page functions — **PASS**;
+- English visual-material records — **54**;
+- no English page wording/status changes during Part-level review;
+- no Tamil changes during Part-level review;
 - scan **444 / printed 427 remains source-open**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
-The next gate is the **Part 004 Part-level English review**. Audit all 111 English pages as a single Part for inventory/alignment, status closure, terminology/names, Chapter/Kural metadata and controlled labels, Kural blocks, visual/non-body page functions, and accumulated continuities. Do not promote pages to `release-ready` during that review.
+The next gate is the **Part 004 English release report**. Release approval must be recorded before any page is promoted to `release-ready`. If approved, page promotion must be status-token-only and followed by an exact 111-page change-set audit.
