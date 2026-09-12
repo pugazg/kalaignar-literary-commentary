@@ -352,12 +352,18 @@ Part 004 English:
 - GR1 **334–366 — COMPLETE / PASS 33/33**;
 - GR2 **367–399 — COMPLETE / PASS 33/33**;
 - GR3 **400–432 — COMPLETE / PASS 33/33**;
-- glossary reconciliation cumulative — **99/111**;
-- GR3 corrections — scans **425, 426, 429**;
+- GR4 **433–444 / printed 416–427 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
+- glossary reconciliation cumulative — **111/111 COMPLETE / CLOSED**;
+- GR4 Chapter/Kural audit — **5 records / 0 numeric mismatches**;
+- GR4 English-page wording corrections — **0**;
+- GR4 exact change set — **`../translations/en/GLOSSARY.md` only**;
 - page-status changes — **0**;
-- **432→433 CLEAN**;
-- next — **GR4 final remainder 433–444 / printed 416–427**.
+- Tamil changes — **0**;
+- **432→433 CLEAN** and **443→444 CLEAN**;
+- scan **444 / printed 427 remains source-open**;
+- editorial review — **NOT STARTED / UNBLOCKED**;
+- next — **ER1 scans 334–366 / printed 317–349 — 33 pages**.
 
 ## Current frontier
 
-**Part 004 English glossary reconciliation GR4 final remainder.**
+**Part 004 English editorial review ER1.**
