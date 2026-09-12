@@ -208,12 +208,11 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_
 - Tamil Pass 1: **COMPLETE — 111/111**;
 - Pass 2A direct textual verification: **COMPLETE / PASS — 111/111**;
 - Pass 2B independent lexical-fidelity re-read: **COMPLETE / PASS — 111/111**;
-- Pass 3 meaningful visual/text verification: **IN PROGRESS — 96/111 complete through scan 429 / printed 412**;
-- active Pass-3 cadence: **30 physical scans per normal iteration from Batch 7 onward**; final remainder is **15 scans**;
-- Pass 3 visual-note corrections so far: scans **336, 342, 348, 388, 398 and 416**;
+- Pass 3 meaningful visual/text verification: **COMPLETE / PASS — 111/111**;
+- Pass-3 visual-note corrections: scans **336, 342, 348, 388, 398, 416**;
 - lexical body-text changes during Pass 3: **0**;
-- all Part-004 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"` until the later Part audit and final metadata/status synchronization;
-- Part audit: **BLOCKED until Pass 3 reaches 111/111**;
+- all Part-004 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"` pending the Part audit and final metadata/status synchronization;
+- Part audit: **NEXT / UNBLOCKED**;
 - outgoing **444→445: DEFERRED / UNRESOLVED** until Part 005 intake.
 
 Durable operational controls:
@@ -227,4 +226,4 @@ Durable operational controls:
 
 ### Exact next content stage
 
-Perform the **final Part 004 Pass 3 remainder — scans 430–444 / printed 413–427, 15 scans**. Scan 430 receives full Pass-3 review after serving only as the Batch-7 outgoing witness. There is no scan-445 witness in the supplied Part 004 source; preserve **444→445 DEFERRED / UNRESOLVED** until Part 005 is supplied. Do not begin the Part audit in the same iteration unless separately instructed.
+Perform the **Part 004 Part audit — scans 334–444 / printed 317–427**. Verify complete physical coverage, internal continuity, source limits and completed Pass-2A/Pass-2B/Pass-3 evidence. Preserve **444→445 DEFERRED / UNRESOLVED**. Do not perform final metadata/status promotion or begin Part 005 in the audit unless separately instructed.
