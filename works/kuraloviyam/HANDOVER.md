@@ -156,7 +156,7 @@ Durable final checkpoint: `works/kuraloviyam/PART_003_FINAL_CLOSURE.md`.
 
 Part 003 Tamil and maintained English are now fully closed. English is **111/111 `release-ready`**; the Part-level review is PASS; the release report is APPROVED / CLOSED; no Tamil or English page record changed during the final checkpoint.
 
-## Part 004 — ACTIVE / Pass 3 in progress
+## Part 004 — ACTIVE / Part audit next
 
 Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf`.
 
@@ -173,27 +173,14 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_
 - Pass 1 physical capture — **COMPLETE 111/111**;
 - Pass 2A direct textual verification — **COMPLETE / PASS 111/111**;
 - Pass 2B independent lexical-fidelity re-read — **COMPLETE / PASS 111/111**;
-- Pass 3 meaningful visual/text verification — **IN PROGRESS 96/111** through scan **429 / printed 412**;
-- remaining Pass 3 — **15 scans**;
-- current user-directed Pass-3 cadence — **30 physical scans per normal iteration**, with the final remainder shorter when necessary;
-- Part audit — **BLOCKED** until Pass 3 reaches **111/111**;
-- final metadata/status synchronization — **BLOCKED**;
+- Pass 3 meaningful visual/text verification — **COMPLETE / PASS 111/111**;
+- Pass-3 visual-note corrections — **6 pages: 336, 342, 348, 388, 398, 416**;
+- Pass-3 lexical body-text changes — **0**;
+- Pass-3 status promotions — **0**;
+- Part audit — **NEXT / UNBLOCKED**;
+- final metadata/status synchronization — **BLOCKED until audit closes**;
 - Tamil archival-ready checkpoint — **BLOCKED**;
 - all Part-004 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
-
-### Pass 3 completed batches
-
-- Batch 1 — **334–344 / printed 317–327 — COMPLETE 11/11**; corrections **336, 342**;
-- Batch 2 — **345–355 / printed 328–338 — COMPLETE 11/11**; correction **348**;
-- Batch 3 — **356–366 / printed 339–349 — COMPLETE 11/11**; **0** corrections;
-- Batch 4 — **367–377 / printed 350–360 — COMPLETE 11/11**; **0** corrections;
-- Batch 5 — **378–388 / printed 361–371 — COMPLETE 11/11**; correction **388**;
-- Batch 6 — **389–399 / printed 372–382 — COMPLETE 11/11**; correction **398**;
-- Batch 7 — **400–429 / printed 383–412 — COMPLETE 30/30**; correction **416**;
-- Batch 7 no-change — **29 pages: 400–415, 417–429**;
-- lexical body-text changes in Pass 3 — **0**;
-- status promotions in Pass 3 — **0**;
-- outgoing **429→430 genuine continuation**; scan 430 continues and closes the Arima/Parithi restraint-before-battle vignette with Chapter 49 / Kural 486.
 
 Durable records:
 
@@ -212,19 +199,19 @@ After **every completed Kuraloviyam batch**, do not stop until all of these are 
 3. this `works/kuraloviyam/HANDOVER.md`;
 4. root `NEXT_CHAT_PROMPT_KURALOVIYAM.md`.
 
-At a **phase transition**, also refresh root `HANDOVER.md`, and update the work README/page-map where the phase/status overview changes. The final documentation-sync gate is a closure audit, not a reason to leave the live handover stale during active work.
+At a **phase transition**, also refresh root `HANDOVER.md`, and update the work README/page-map where the phase/status overview changes.
 
-## Exact next activity — final Part 004 Pass 3 remainder
+## Exact next activity — Part 004 Part audit
 
-Process **scans 430–444 / printed 413–427 — 15 physical scans**.
+Audit **scans 334–444 / printed 317–427** as one complete Part:
 
-1. fetch live `main` and preserve any newer durable Kuraloviyam work;
-2. use the exact Part 004 controlling PDF and inspect the rendered source directly;
-3. perform Pass-3 meaningful visual/text verification only;
-4. begin with scan 430 now receiving full review after serving only as the Batch-7 witness;
-5. there is **no outgoing scan-445 witness** in the supplied Part 004 source; preserve **444→445 DEFERRED / UNRESOLVED**;
-6. keep page statuses at `needs-review` / `visual_fidelity: needs-review`;
-7. after all 15 scans, update the Pass-3 log, Part tracker, this handover and next-chat prompt; because Pass 3 will then close, also perform the required phase-transition documentation refresh before stopping;
-8. audit the exact changed-file set and fetch final live `main`.
+1. verify exact physical inventory / one-record-per-scan coverage;
+2. verify Pass 1 / Pass 2A / Pass 2B / Pass 3 closure evidence;
+3. audit internal continuation and clean-boundary records;
+4. audit Kural / Chapter metadata coverage and source/non-source separation;
+5. confirm no carried `partial`, `blocked` or unresolved internal readings remain;
+6. confirm all 111 records still remain at pre-final `needs-review` / `visual_fidelity: needs-review`;
+7. preserve external **444→445 DEFERRED / UNRESOLVED**;
+8. write the durable Part-004 audit record and synchronize frontier controls.
 
-Do **not** begin the Part audit in the same iteration unless separately instructed.
+Do **not** perform final metadata/status promotion or begin Part 005 in the same iteration unless separately instructed.
