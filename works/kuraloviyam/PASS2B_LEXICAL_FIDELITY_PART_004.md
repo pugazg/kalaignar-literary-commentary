@@ -195,11 +195,37 @@ Durable correction commits:
 - scan 412 — `a1016d73998da0054e0c008cf42eb7afb38244cf`;
 - scan 413 — `372b1ff1588d15dda832da333789c20a860fbd74`.
 
+## Batch 7 — overall scans 414–428 / printed pages 397–411
+
+**Status: COMPLETE — 15 / 15 scans independently re-read against freshly rendered source pages for Pass 2B.**
+
+Incoming **413→414 CLEAN** remains preserved. Scan **429 / printed 412** was inspected only as the outgoing boundary witness and confirms **428→429 CLEAN**: scan 428 closes the lovers-after-war / ஊடல் vignette with Chapter 133 / Kurals 1324 and 1329, while scan 429 begins a new illustrated Arima/Parithi restraint-before-battle vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 414 | 397 | independent word-level re-read complete across the justice/impartiality dialogue opening and continuation into 415; no new correction required |
+| 415 | 398 | independently confirmed the justice/impartiality conclusion, Kural 116, lineation, Chapter 12 metadata and source glosses; no new correction required |
+| 416 | 399 | independent word-level re-read complete across the Vaigai/Vadivazhagan street-cleaning lovers vignette opening and continuation into 417; no new correction required |
+| 417 | 400 | independently confirmed the Vaigai/Vadivazhagan conclusion, Kural 1152, lineation, Chapter 116 metadata and source glosses; no new correction required |
+| 418 | 401 | independent word-level re-read complete across Ilango's dream opening and mid-sentence continuation into 419; no new correction required |
+| 419 | 402 | independently re-read the Ilango/Thiruvalluvar dream continuation and defeated-commander episode into 420; no new correction required |
+| 420 | 403 | independently confirmed the Ilango dream conclusion, Kurals 1080 and 1071, lineation and Chapter 108 metadata; no new correction required |
+| 421 | 404 | independent word-level re-read complete across the Pugazhenthi/Ottakoothar literary-imagination discussion opening and continuation into 422; no new correction required |
+| 422 | 405 | independently confirmed the literary-imagination conclusion, Kurals 1111 and 1113, lineation, Chapter 112 metadata and source glosses; no new correction required |
+| 423 | 406 | independent word-level re-read complete across the four-strengths/war-strategy vignette opening and continuation into 424; source-visible joining/spacing preserved; no new correction required |
+| 424 | 407 | independently confirmed the four-strengths conclusion, Kural 471, lineation and Chapter 48 metadata; no new correction required |
+| 425 | 408 | independent word-level re-read complete across the Mugilan/Nallammai virtue-and-anger vignette opening and mid-sentence continuation into 426; no new correction required |
+| 426 | 409 | independently confirmed the Mugilan/Nallammai conclusion, Kural 29, lineation and Chapter 3 metadata; no new correction required |
+| 427 | 410 | independent word-level re-read complete across the lovers-after-war / ஊடல் vignette opening and continuation into 428; no new correction required |
+| 428 | 411 | independently confirmed the lovers-after-war / ஊடல் conclusion, Kurals 1324 and 1329, lineation and Chapter 133 metadata; no new correction required; scan 429 witness confirms **428→429 CLEAN** |
+
+Batch 7 correction summary: **0 records corrected; all 15 records required no new Pass-2B correction**.
+
 ## Current Pass 2B coverage
 
-- complete: **80 / 111 scans**;
-- independently re-read range: **334–413 / printed 317–396**;
-- remaining Pass 2B: **31 scans**;
+- complete: **95 / 111 scans**;
+- independently re-read range: **334–428 / printed 317–411**;
+- remaining Pass 2B: **16 scans**;
 - current normal iteration size: **15 scans**;
 - textual page status remains `needs-review`;
 - visual fidelity remains `needs-review`;
@@ -208,4 +234,4 @@ Durable correction commits:
 
 ## Exact next activity
 
-Process **Part 004 Pass 2B Batch 7 — scans 414–428 / printed 397–411 (15 scans)** against freshly rendered source pages. Re-read every source-visible printed word independently, correct only source-supported lexical/punctuation/joining/spacing/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **429 / printed 412** only as the outgoing boundary witness if needed. Do not start Pass 3 or Part 005.
+Process **Part 004 Pass 2B Batch 8 — scans 429–443 / printed 412–426 (15 scans)** against freshly rendered source pages. Re-read every source-visible printed word independently, correct only source-supported lexical/punctuation/joining/spacing/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, and inspect scan **444 / printed 427** only as the outgoing boundary witness if needed. Do not start Pass 3 or Part 005.
