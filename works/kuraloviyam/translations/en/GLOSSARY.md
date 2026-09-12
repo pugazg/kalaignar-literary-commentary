@@ -541,3 +541,62 @@ GR4 processed the **final 12 consecutive pages: scans 322–333 / printed 305–
 ## Review rule
 
 New recurring terms should be added only when actually encountered in audited Tamil records. Do not pre-populate the glossary from external editions or general Thirukkural terminology.
+
+## Part 004 GR1 controls — scans 334–366
+
+### Chapter labels first evidenced in Part 004 GR1
+
+| Tamil | Default English | Editorial note |
+|---|---|---|
+| பகைமாட்சி | The Might of Enmity | Chapter 87 label on scan 337 / printed 320. |
+| இன்னா செய்யாமை | Refraining from Causing Pain | Chapter 32 label on scan 339 / printed 322. |
+| நிலையாமை | Impermanence | Chapter 34 label on scans 345 and 349 / printed 328 and 332. |
+| அழுக்காறாமை | Freedom from Envy | Chapter 17 label on scan 355 / printed 338. |
+| அருளுடைமை | Possession of Compassion | Chapter 26 label on scan 365 / printed 348. |
+| கூடா ஒழுக்கம் | False Conduct | Source-form variant on scan 361 / printed 344; map to the existing Chapter 28 control `கூடாவொழுக்கம்` → **False Conduct** rather than creating a duplicate English title. |
+
+Existing controlled labels reused unchanged in GR1 include **Reproaching the Eyes**, **Lamenting the Absent Lover**, **Examining Friendship**, **Inability to Bear Separation**, **The Joy of Union**, **Declaring Love's Excellence**, **Just Rule**, **Tyrannical Rule**, **False Conduct**, and **Women of Mercenary Love**.
+
+### Narrative, literary and historical names first evidenced in Part 004 GR1
+
+| Tamil | Default English form | Editorial note |
+|---|---|---|
+| அரிமாநெஞ்சன் | Arimaanenjan | Small ruler in the Kayal Nadu friendship/enmity vignette across scans 336–337. |
+| நரித்தலைவன் / நரித்தலையன் | Narithalaivan | Arimaanenjan's scheming friend in scans 336–337; retain one English name form across the source variant. |
+| அத்தி | Aththi | Merchant in the lost-trading-ship vignette across scans 344–345. |
+| அன்பானந்தன் | Anbanandan | Teacher/lover in scans 350–351. |
+| அழகரசி | Azhagarasi | Anbanandan's beloved in scans 350–351. |
+| மனோன்மணியம் | Manonmaniyam | Literary work named in scans 352–353; retain the source-checked project transliteration. |
+| ஜீவகன் | Jeevakan | Pandya ruler in the Manonmaniyam vignette, scan 352. |
+| குடிலன் | Kudilan | Minister/traitor in the Manonmaniyam vignette, scans 352–353. |
+| புருடோத்தமன் | Purudothaman | Chera king in the Manonmaniyam vignette, scans 352–353. |
+| ஒளியழகன் | Oliyazhagan | Prosperous merchant/relative in the Karmegam envy vignette, scan 355. |
+| பாவை | Paavai | Woman in the forest-lovers vignette, scans 356–357. |
+| பூங்குன்றன் | Poonkundran | Young poet/lover in scans 356–357. |
+| சீராளன் | Seeralan | Hill-country ruler in the taxation/compassion vignette, scans 364–365. |
+| பெம்மான் | Pemman | Emperor in the Seeralan vignette, scans 364–365. |
+| முகமது அலி ஜின்னா | Muhammad Ali Jinnah | Historical name in the Pakistan/Bhutto/Zia vignette, scan 342. |
+| யாகியாகான் | Yahya Khan | Historical name in the Pakistan/Bhutto/Zia vignette, scan 342. |
+| ஜியா | Zia | Historical name in the Pakistan/Bhutto/Zia vignette, scans 342–343. |
+| பகத்சிங் | Bhagat Singh | Revolutionary named at the opening of the scan 366→367 continuation. |
+| இராஜகுரு | Rajaguru | Revolutionary named at the opening of the scan 366→367 continuation. |
+| சுகதேவ் | Sukhdev | Revolutionary named at the opening of the scan 366→367 continuation. |
+| ஜெயகோபால் | Jeyagopal | Associate named at the opening of the scan 366→367 continuation. |
+| யவனம் / யவன நாடு | Yavana / Yavana land | Historical-geographical source term in the trade/separation material on scans 344 and 347; retain the audited project form rather than importing another scholarly label. |
+
+Existing controls reused unchanged in GR1 include **Karmegam** for `கார்மேகம்`, **Bhutto** for `பூட்டோ`, and **Gandhi** for source honorific `காந்தியடிகள்`.
+
+## Part 004 GR1 reconciliation record — scans 334–366
+
+GR1 processed **33 consecutive pages: scans 334–366 / printed 317–349**.
+
+- scans **334–366** — glossary / recurring-terminology reconciliation **PASS, 33/33**;
+- all **17** Chapter/Kural metadata records across **16** pages were checked against their audited Tamil counterparts with **0 chapter-number or Kural-number mismatches**;
+- new source-evidenced chapter controls added in this gate: **The Might of Enmity**, **Refraining from Causing Pain**, **Impermanence**, **Freedom from Envy**, and **Possession of Compassion**;
+- source variant `கூடா ஒழுக்கம்` on scan **361** is mapped to the established **False Conduct** label;
+- recurring narrative/literary/historical forms established in this range include **Arimaanenjan**, **Narithalaivan**, **Aththi**, **Anbanandan**, **Azhagarasi**, **Manonmaniyam**, **Jeevakan**, **Kudilan**, **Purudothaman**, **Oliyazhagan**, **Paavai**, **Poonkundran**, **Seeralan**, **Pemman**, **Muhammad Ali Jinnah**, **Yahya Khan**, **Zia**, **Bhagat Singh**, **Rajaguru**, **Sukhdev**, **Jeyagopal**, and **Yavana / Yavana land**;
+- **scan 366 / printed 349** — source honorific `காந்தியடிகள்` reconciled from **Gandhiji** to the established project control **Gandhi**;
+- English page wording changes required solely for GR1 terminology consistency: **1 page file — scan 366**;
+- all 33 English pages remain `source-checked`; this gate makes **no status promotion**;
+- the genuine **366→367** continuation is preserved;
+- no Tamil archival record changed and no external/published/web English terminology was imported.
