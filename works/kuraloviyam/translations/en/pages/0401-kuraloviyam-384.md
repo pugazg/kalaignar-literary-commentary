@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,7 +19,7 @@ The time comes for them to return to their own planet. They board the scientific
 
 Scientists of their world wait eagerly to welcome them.
 
-“Listen—we will tell you the marvel we saw on Earth,” they begin joyfully. Everyone there watches their mouths.
+“Listen—we will tell you the marvel we saw on Earth,” they begin joyfully. Everyone there watches their lips expectantly.
 
 “There is something on Earth called rain. It is a wondrous thing! The foods suitable for the people there will not grow without it. And the people who live by eating the foods brought forth by rain also drink that very rainwater! The people of Earth do not even seem to think, ‘What! We live by drinking the very rain that gives us our food!’”
 
