@@ -341,20 +341,13 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf`.
 
-- local pages: **111**;
-- overall scans: **334–444**;
-- visible printed pages: **317–427**;
-- file size: **91,513,473 bytes**;
-- SHA-256: `5b7fcc65f19dc3d2a57bebb13cdfb02d0c83f70a5ccc9e537886790908674581`;
-- source text layer: **no usable parsed text**;
+- exact canonical inventory: **111 records**;
+- overall scans: **334–444**, continuous;
+- local pages: **1–111**, continuous;
+- printed pages: **317–427**, continuous;
 - **333→334 CLEAN / source-resolved**;
-- scan 334 begins a new illustrated eye/blame lovers vignette; scan 335 closes it with Chapter 118 / Kural 1174;
-- scan 444 begins a new illustrated royal/court famine-granary narrative and ends within it;
-- **444→445 remains DEFERRED / UNRESOLVED** until Part 005 intake.
-
-Durable intake: `../SOURCE_INTAKE_PART_004.md`.  
-Progress tracker: `../PART_004_PASS1_PROGRESS.md`.  
-Pass-3 record: `../PASS3_VISUAL_TEXT_VERIFICATION_PART_004.md`.
+- scan 444 begins a new famine-granary court narrative;
+- **444→445 DEFERRED / UNRESOLVED** until Part 005 intake.
 
 ## Verification gates
 
@@ -371,11 +364,15 @@ Part 004:
 - Pass 2A — **COMPLETE / PASS 111/111**;
 - Pass 2B — **COMPLETE / PASS 111/111**;
 - Pass 3 — **COMPLETE / PASS 111/111**;
-- Part audit — **NEXT / UNBLOCKED**;
-- final metadata/status synchronization — **BLOCKED until audit closes**;
-- Tamil archival-ready / English / final Part closure — **not started**;
-- current page statuses — **111 `needs-review` / 111 `visual_fidelity: needs-review`**.
+- Part audit — **PASS / COMPLETE**;
+- carried Tamil exceptions — **0**;
+- current status distribution — **111 `needs-review`, 0 partial, 0 blocked, 0 verified**;
+- current visual distribution — **111 `needs-review`, 0 verified**;
+- final metadata/status synchronization — **NEXT / UNBLOCKED**;
+- Tamil archival-ready / English / final Part closure — **not started**.
+
+Durable audit: `../PART_004_AUDIT.md`.
 
 ## Current frontier
 
-**Part 004 Part audit — scans 334–444 / printed 317–427.** Preserve external **444→445 DEFERRED / UNRESOLVED** until Part 005 source intake.
+**Part 004 final metadata/status synchronization — scans 334–444 / printed 317–427, all 111 records.** Preserve external **444→445 DEFERRED / UNRESOLVED**.
