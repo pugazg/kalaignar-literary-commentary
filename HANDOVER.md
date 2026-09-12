@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 004 English first-pass drafting 99/111; final Draft D4 scans 433–444 next**: **2026-09-12**.
+Last refreshed for Kuraloviyam **Part 004 English first-pass drafting COMPLETE 111/111; source-check SC1 scans 334–366 next**: **2026-09-12**.
 
 ## Repository
 
@@ -180,16 +180,13 @@ Do not restart Pass 1. Do not resume scan-led lexical Pass 2 at scan 14.
 ## Durable Part 004 state
 
 - Tamil: **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified / 0 exceptions**;
-- English first-pass drafting: **IN PROGRESS — 99/111**;
-- D1 **334–366 — COMPLETE**;
-- D2 **367–399 — COMPLETE**;
-- D3 **400–432 — COMPLETE**;
-- English state: **99 draft / 0 source-limited / 0 blocked**;
-- remaining undrafted: **12**;
-- **432→433 CLEAN**;
+- English first-pass drafting: **COMPLETE / CLOSED — 111/111**;
+- English state: **111 draft / 0 source-checked / 0 source-limited / 0 blocked**;
+- D4 final remainder **433–444 — COMPLETE 12/12**;
+- source-check: **NEXT / UNBLOCKED**;
 - scan 444 remains source-open;
 - external **444→445 DEFERRED / UNRESOLVED** until Part 005 source intake.
 
 ## Exact next activity — குறளோவியம்
 
-Process final **Part 004 English Draft Batch D4 — scans 433–444 / printed 416–427, 12 records**. Do not infer beyond scan 444, alter Tamil records, or begin Part 005.
+Process **Part 004 English source-check SC1 — scans 334–366 / printed 317–349, 33 page pairs**. Correct only source-fidelity defects and promote passing pages to `source-checked`. Do not alter Tamil records or begin Part 005.

@@ -273,16 +273,21 @@ Part 004 has now completed source intake and the full Tamil archival workflow.
 Part 004 covers scans **334–444 / printed 317–427**.
 
 - Tamil: **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified / 0 exceptions**;
-- English first-pass drafting: **IN PROGRESS — 99/111**;
-- D1: **334–366 — COMPLETE 33/33**;
-- D2: **367–399 — COMPLETE 33/33**;
-- D3: **400–432 — COMPLETE 33/33**;
-- current English state: **99 draft / 0 source-limited / 0 blocked**;
-- final drafting remainder: **D4 scans 433–444 / printed 416–427 — 12 records**;
-- **432→433 CLEAN**;
+- English first-pass drafting: **COMPLETE / CLOSED — 111/111**;
+- D1 **334–366 — 33/33**;
+- D2 **367–399 — 33/33**;
+- D3 **400–432 — 33/33**;
+- D4 **433–444 — 12/12 final remainder**;
+- current English state: **111 draft / 0 source-checked / 0 source-limited / 0 blocked**;
+- source-check: **NEXT / NOT STARTED**;
+- first source-check batch: **SC1 scans 334–366 / printed 317–349 — 33 records**;
 - scan 444 remains source-open;
-- external **444→445 DEFERRED / UNRESOLVED** until Part 005 source intake.
+- external **444→445 DEFERRED / UNRESOLVED**.
 
-Normal Part-004 English work uses audited Tamil page records as authority. Do not import published/standard/web English Kural wording or alter the Tamil archive. Never invent continuation beyond scan 444.
+### Part 004 source-check rule
 
-After D4, first-pass drafting will be complete and the next maintained English gate is **source-check**.
+Compare each English page directly with its audited Tamil page counterpart. Check sentence/paragraph coverage, dialogue attribution, Kural block separation, chapter/Kural metadata, visual/non-body material, cross-page continuation and exact physical-page placement.
+
+Correct only fidelity defects supported by the audited Tamil record. Do not turn source-check into stylistic polishing or glossary normalization; those belong to later gates. After a page passes source-check, promote only its English status from `draft` to `source-checked`.
+
+Do not import published/standard/web English Kural wording. Do not alter Tamil archival records. Do not infer continuation beyond scan 444.

@@ -275,40 +275,37 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_004_
 
 Tamil source intake through archival-ready are **CLOSED**. Final Tamil state: **111 textual verified + 111 visual verified / 0 exceptions**.
 
-Durable closure: `works/kuraloviyam/PART_004_TAMIL_ARCHIVAL_READY.md`.
+Incoming **333→334 CLEAN / source-resolved**. External **444→445 DEFERRED / UNRESOLVED** until Part 005 source intake.
 
-Incoming **333→334 is CLEAN / source-resolved**. External **444→445 remains DEFERRED / UNRESOLVED** until Part 005 source intake.
+## Part 004 English first-pass drafting — COMPLETE / CLOSED
 
-## Part 004 English first-pass drafting — IN PROGRESS
+Draft cadence was **33 physical scans per normal iteration**, with a **12-page final remainder**.
 
-Current normal drafting cadence: **33 physical scans per normal iteration**; final remainder may be shorter.
+- D1 **334–366 / printed 317–349 — COMPLETE 33/33**;
+- D2 **367–399 / printed 350–382 — COMPLETE 33/33**;
+- D3 **400–432 / printed 383–415 — COMPLETE 33/33**;
+- D4 **433–444 / printed 416–427 — COMPLETE 12/12 / FINAL REMAINDER**;
+- cumulative drafting — **111/111 COMPLETE**;
+- current English state — **111 `draft` / 0 source-checked / 0 source-limited / 0 blocked**;
+- Tamil archival page changes during drafting — **0**;
+- published/standard/web English Kural wording imported — **0**.
 
-### Draft Batch D1 — COMPLETE 33/33
-- scans **334–366 / printed 317–349**.
+D4 page commit:
 
-### Draft Batch D2 — COMPLETE 33/33
-- scans **367–399 / printed 350–382**.
+- `b077e0f5c50cbdd46a562a60af87b7a07964ee83` — scans **433–444**.
 
-### Draft Batch D3 — COMPLETE 33/33
-- scans **400–432 / printed 383–415**;
-- cumulative Part-004 English drafting: **99/111**;
-- current English state: **99 `draft` / 0 source-limited / 0 blocked**;
-- remaining undrafted Part-004 pages: **12**;
-- Tamil archival page changes during D3: **0**;
-- published/standard/web English Kural wording imported: **0**;
-- incoming **399→400 CLEAN** preserved;
-- outgoing **432→433 CLEAN**; scan 433 begins the Nallithayan/Porko wealth-and-character narrative.
+D4 page-only audit from `ac13f0356657985422d8deac527d3e27675a1f92` to `b077e0f5c50cbdd46a562a60af87b7a07964ee83` contains exactly **12 added English page records**, scans **433–444**, with **0 unexpected files and 0 missing expected files**. No Tamil page or Tamil metadata file changed.
 
-D3 page commits:
+The final range preserves **432→433 CLEAN** and **443→444 CLEAN**. Scan **444 / printed 427** begins a royal/court famine-granary narrative and visibly remains open at the supplied Part endpoint. External **444→445 remains DEFERRED / UNRESOLVED**; no continuation was inferred.
 
-- `523fd7dd14300d5b786f4afe5dc93fed9a0d7f3c` — scans **400–410**;
-- `b30e3c5a9df4c0dd28a9bd8ee23b10d372c1b0fd` — scans **411–421**;
-- `740b115ad55f99b9ca12514d2d40aa593199b1cf` — scans **422–432**.
+## Part 004 English source-check — NEXT / NOT STARTED
 
-Page-only audit from `f4f62ffbaf748d97eccc50ac062514c4203ceebd` to `740b115ad55f99b9ca12514d2d40aa593199b1cf` is **ahead / non-divergent** and contains exactly **33 added English page records**, scans **400–432**, with **0 unexpected files and 0 missing expected files**. No Tamil page or Tamil metadata file changed in the D3 page commits.
+Source-check cadence: **33 physical scans per normal iteration**, with the same final 12-page remainder pattern if the gate proceeds without blockers.
 
-## Exact next English activity
+Exact next batch:
 
-Process the **final Draft Batch D4 — scans 433–444 / printed 416–427 — 12 page-aligned records**.
+**SC1 — scans 334–366 / printed 317–349 — 33 English/Tamil page pairs.**
 
-Preserve **432→433 CLEAN**. Scan 444 visibly opens a royal/court famine-granary narrative that remains incomplete at the supplied Part endpoint; external **444→445 remains DEFERRED / UNRESOLVED** until Part 005 source intake. Do not infer continuation text. Do not change Tamil records and do not begin Part 005.
+For each page, compare the project English record against its audited Tamil counterpart paragraph-by-paragraph / block-by-block, correct only source-fidelity defects, preserve page alignment/visual/non-body functions/Kural blocks, then promote `status: "draft"` → `status: "source-checked"` only after the page passes.
+
+Do not reopen Tamil archival text routinely, do not import external English Kural wording, and do not begin Part 005.

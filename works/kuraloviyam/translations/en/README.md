@@ -134,22 +134,21 @@ Part 003 maintained English is **RELEASE COMPLETE / CLOSED — 111/111 `release-
 Part 004 covers scans **334–444 / printed 317–427**, 111 physical pages.
 
 - Tamil: **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**;
-- durable closure: `../../PART_004_TAMIL_ARCHIVAL_READY.md`;
 - external **444→445 DEFERRED / UNRESOLVED** until Part 005 source intake.
 
-## Part 004 English — FIRST-PASS DRAFTING IN PROGRESS
+## Part 004 English — FIRST-PASS DRAFTING COMPLETE / CLOSED
 
-- D1: **334–366 / printed 317–349 — COMPLETE 33/33**;
-- D2: **367–399 / printed 350–382 — COMPLETE 33/33**;
-- D3: **400–432 / printed 383–415 — COMPLETE 33/33**;
-- cumulative drafting: **99/111**;
-- current state: **99 `draft` / 0 source-limited / 0 blocked**;
-- remaining undrafted: **12**;
-- D3 changed no Tamil archival record;
-- outgoing **432→433 CLEAN** is preserved.
+- D1 **334–366 — COMPLETE 33/33**;
+- D2 **367–399 — COMPLETE 33/33**;
+- D3 **400–432 — COMPLETE 33/33**;
+- D4 **433–444 — COMPLETE 12/12 / FINAL REMAINDER**;
+- cumulative drafting — **111/111 COMPLETE**;
+- current state — **111 `draft` / 0 source-checked / 0 source-limited / 0 blocked**;
+- D4 page-only audit — **exactly 12 expected English files / 0 Tamil changes**;
+- scan 444 remains source-open; **444→445 DEFERRED / UNRESOLVED**.
 
-## Current frontier
+## Current frontier — English source-check
 
-**Final Draft Batch D4 — scans 433–444 / printed 416–427 — 12 page-aligned records.**
+**SC1 — scans 334–366 / printed 317–349 — 33 page pairs.**
 
-Scan 444 ends the supplied Part with an open royal/court narrative; external **444→445 remains DEFERRED / UNRESOLVED**. Do not infer missing continuation.
+Source-check the maintained English against audited Tamil page-by-page. Correct only fidelity defects and promote passing pages from `draft` to `source-checked`. Do not import external English wording or alter Tamil archival records.

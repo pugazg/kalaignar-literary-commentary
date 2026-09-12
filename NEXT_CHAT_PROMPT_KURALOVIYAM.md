@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 004 English Draft Batch D4 final remainder
+# NEXT CHAT PROMPT — குறளோவியம் / Part 004 English source-check SC1
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`.
 
@@ -10,45 +10,42 @@ Part 004 Tamil is **ARCHIVAL-READY / CLOSED**.
 
 ## Durable Part 004 English state
 
-- first-pass drafting: **IN PROGRESS — 99/111**;
-- D1 **334–366 / printed 317–349 — COMPLETE 33/33**;
-- D2 **367–399 / printed 350–382 — COMPLETE 33/33**;
-- D3 **400–432 / printed 383–415 — COMPLETE 33/33**;
-- current state: **99 `draft` / 0 source-limited / 0 blocked**;
-- remaining undrafted: **12**;
-- D3 commits:
-  - `523fd7dd14300d5b786f4afe5dc93fed9a0d7f3c` — 400–410;
-  - `b30e3c5a9df4c0dd28a9bd8ee23b10d372c1b0fd` — 411–421;
-  - `740b115ad55f99b9ca12514d2d40aa593199b1cf` — 422–432;
-- page-only D3 audit: **exactly 33 added English page files / 0 Tamil changes**;
+- first-pass drafting — **COMPLETE / CLOSED 111/111**;
+- D1 **334–366 — COMPLETE 33/33**;
+- D2 **367–399 — COMPLETE 33/33**;
+- D3 **400–432 — COMPLETE 33/33**;
+- D4 **433–444 — COMPLETE 12/12 / FINAL REMAINDER**;
+- current English status — **111 `draft` / 0 `source-checked` / 0 source-limited / 0 blocked**;
+- D4 commit — `b077e0f5c50cbdd46a562a60af87b7a07964ee83`;
+- D4 page-only audit from `ac13f0356657985422d8deac527d3e27675a1f92` to that commit — **exactly 12 added English files / 0 missing / 0 unexpected / 0 Tamil changes**;
 - **432→433 CLEAN**;
-- scan **444 / printed 427** begins a royal/court famine-granary narrative and visibly remains open;
+- **443→444 CLEAN**;
+- scan **444 / printed 427** begins a royal/court famine-granary narrative and remains open;
 - external **444→445 DEFERRED / UNRESOLVED** until Part 005 source intake.
 
-## Exact next activity — English Draft D4
+## Permanent English gate order
 
-Create project-created English records for:
+**draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**
 
-**scans 433–444 / printed 416–427 — final 12 records.**
+Current source-check cadence: **33 physical scans per normal iteration**, with a shorter final remainder.
 
-Use audited Tamil records as the normal authority.
+## Exact next activity — source-check SC1
 
-Strictly:
+Process:
 
-- preserve each physical page boundary;
-- mirror Tamil filenames;
-- use `translation_type: "project_translation"`;
-- set status to `draft`;
-- preserve visual/non-body functions, Kural blocks and continuities;
-- do not import external English Kural wording;
-- do not infer or complete text beyond scan 444;
-- do not alter Tamil records.
+**scans 334–366 / printed 317–349 — 33 English/Tamil page pairs.**
 
-After D4:
+For each page:
 
-1. audit exactly 12 added English page records;
-2. mark Part-004 first-pass drafting **111/111 COMPLETE / CLOSED**;
-3. synchronize English controls;
-4. open the next maintained gate: **English source-check**, using the current user-directed 33-page cadence unless the workflow says otherwise.
+1. compare the project English record to the audited Tamil record paragraph-by-paragraph / block-by-block;
+2. verify that no Tamil sentence, dialogue turn, Kural block, source gloss, visual/non-body function or physical-page continuation was omitted, shifted or added;
+3. correct only source-fidelity defects supported by the audited Tamil page;
+4. preserve exact physical page alignment;
+5. do not perform glossary normalization or stylistic polishing beyond what fidelity requires;
+6. do not import standard/published/web English Kural wording;
+7. after the page passes, promote `status: "draft"` → `status: "source-checked"`;
+8. do not change any Tamil archival record.
 
-Do not begin source-check in the same iteration unless separately instructed. Do not begin Part 005.
+After SC1, synchronize the source-check frontier to **SC2 scans 367–399 / printed 350–382**, unless a genuine blocker is found.
+
+Do **not** start SC2 in the same iteration unless separately instructed. Do **not** begin Part 005.

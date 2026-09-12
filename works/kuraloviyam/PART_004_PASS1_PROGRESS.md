@@ -377,16 +377,17 @@ Part 004 Tamil is closed at **111/111 textual verified + 111/111 visual verified
 
 ## Maintained English workflow
 
-First-pass drafting is now **IN PROGRESS — 99/111**.
+First-pass drafting is **COMPLETE / CLOSED — 111/111**.
 
-- D1 **334–366 — COMPLETE 33/33**;
-- D2 **367–399 — COMPLETE 33/33**;
-- D3 **400–432 — COMPLETE 33/33**;
-- current English state — **99 draft / 0 source-limited / 0 blocked**;
-- remaining undrafted — **12**;
-- D3 page-only audit — exactly **33 English page records added / 0 Tamil changes**;
-- outgoing **432→433 CLEAN** preserved.
+- D1 **334–366 — 33/33**;
+- D2 **367–399 — 33/33**;
+- D3 **400–432 — 33/33**;
+- D4 **433–444 — 12/12 FINAL REMAINDER**;
+- current English state — **111 draft / 0 source-checked / 0 source-limited / 0 blocked**;
+- D4 page-only audit — exactly **12 English page records added / 0 Tamil changes**;
+- scan 444 remains source-open;
+- external **444→445 DEFERRED / UNRESOLVED**.
 
 ## Exact next activity
 
-Process final **Part 004 English Draft D4 — scans 433–444 / printed 416–427, 12 records**. Preserve scan 444 as source-open and **444→445 DEFERRED / UNRESOLVED**.
+Process **Part 004 English source-check SC1 — scans 334–366 / printed 317–349, 33 page pairs**. Correct only source-fidelity defects and promote passing English pages to `source-checked`. Do not begin Part 005.

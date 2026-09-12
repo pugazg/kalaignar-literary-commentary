@@ -341,6 +341,7 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 - canonical Tamil inventory: **111 records**;
 - Tamil: **ARCHIVAL-READY / CLOSED**;
+- English page inventory: **111/111 drafted and aligned**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
 Part 004 English:
@@ -348,12 +349,13 @@ Part 004 English:
 - D1 **334–366 — COMPLETE 33/33**;
 - D2 **367–399 — COMPLETE 33/33**;
 - D3 **400–432 — COMPLETE 33/33**;
-- cumulative drafting — **99/111**;
-- current status — **99 draft / 0 source-limited / 0 blocked**;
-- remaining undrafted — **12**;
-- **432→433 CLEAN**;
-- next batch — **D4 433–444 / printed 416–427 — final 12 records**.
+- D4 **433–444 — COMPLETE 12/12 / FINAL REMAINDER**;
+- first-pass drafting — **111/111 COMPLETE / CLOSED**;
+- current status — **111 draft / 0 source-checked / 0 source-limited / 0 blocked**;
+- source-check — **NEXT**;
+- SC1 — **334–366 / printed 317–349 — 33 page pairs**;
+- scan 444 remains source-open.
 
 ## Current frontier
 
-**Part 004 English Draft D4 final remainder.** Scan 444 is source-open; preserve **444→445 DEFERRED / UNRESOLVED**.
+**Part 004 English source-check SC1.** Preserve external **444→445 DEFERRED / UNRESOLVED**.
