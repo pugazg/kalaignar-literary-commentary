@@ -288,13 +288,13 @@ Pass 1 remains **COMPLETE — 111/111**. Pass 2A is now **COMPLETE / PASS — 11
 
 ## Pass 2B frontier
 
-Part 004 Pass 2B is in progress after Pass 2A closed at **111/111 COMPLETE / PASS**.
+Part 004 Pass 2B is now **COMPLETE / PASS — 111/111** after Pass 2A closed at **111/111 COMPLETE / PASS**.
 
 - Pass 2B Batch 1 — scans **334–343 / printed 317–326 — COMPLETE 10/10**;
 - Batch 1 corrections: scans **335 and 343**;
 - Pass 2B Batch 2 — scans **344–353 / printed 327–336 — COMPLETE 10/10**;
 - Batch 2 corrections: scans **345, 350 and 353**;
-- from Batch 3 onward, user-directed Pass-2B cadence is **15 physical scans per normal iteration**;
+- from Batch 3 onward, user-directed Pass-2B cadence was **15 physical scans per normal iteration**;
 - Pass 2B Batch 3 — scans **354–368 / printed 337–351 — COMPLETE 15/15**;
 - Batch 3 correction: scan **362**;
 - Pass 2B Batch 4 — scans **369–383 / printed 352–366 — COMPLETE 15/15**;
@@ -305,16 +305,20 @@ Part 004 Pass 2B is in progress after Pass 2A closed at **111/111 COMPLETE / PAS
 - Batch 6 corrections: scans **412 and 413**;
 - Pass 2B Batch 7 — scans **414–428 / printed 397–411 — COMPLETE 15/15**;
 - Batch 7 corrections: **none**;
-- Batch 7 no-change: scans **414–428**;
-- incoming **413→414 CLEAN** preserved;
-- outgoing **428→429 CLEAN** confirmed from scan 429 witness; scan 429 begins a new Arima/Parithi restraint-before-battle vignette;
+- Pass 2B Batch 8 — scans **429–443 / printed 412–426 — COMPLETE 15/15**;
+- Batch 8 corrections: **none**;
+- final Pass-2B remainder — scan **444 / printed 427 — COMPLETE 1/1**;
+- final remainder correction: **none**;
+- incoming **428→429 CLEAN** preserved;
+- **443→444 CLEAN** directly confirmed;
+- scan 444 begins a new royal/court famine-granary narrative and remains open at the supplied Part endpoint;
+- **444→445 remains DEFERRED / UNRESOLVED** until Part 005 source intake;
 - dedicated Pass-2B log: `PASS2B_LEXICAL_FIDELITY_PART_004.md`;
-- current Pass 2B coverage: **95/111**;
-- remaining Pass 2B: **16**;
+- current Pass 2B coverage: **111/111 COMPLETE / PASS**;
+- remaining Pass 2B: **0**;
 - all page records remain `status: "needs-review"` and `visual_fidelity: "needs-review"`;
-- Pass 3 remains blocked until Pass 2B reaches **111/111**;
-- **444→445 remains DEFERRED / UNRESOLVED** until Part 005 source intake.
+- Pass 3 is now **NEXT / UNBLOCKED**.
 
 ## Exact next activity
 
-Proceed with **Part 004 Pass 2B Batch 8 — scans 429–443 / printed 412–426 (15 scans)**. Independently re-read every source-visible printed word against freshly rendered source pages, correct only source-supported lexical/punctuation/joining/spacing/metadata discrepancies, preserve `status: "needs-review"` and `visual_fidelity: "needs-review"`, inspect scan **444 / printed 427** only as the outgoing boundary witness if required, and update `PASS2B_LEXICAL_FIDELITY_PART_004.md`. Do not start Pass 3 or Part 005.
+Proceed with **Part 004 Pass 3 — meaningful visual-text verification** across the Part 004 source according to the archival guidelines. Preserve source-visible illustration/page relationships, captions/furniture distinctions, visual notes and page structure; do not alter already source-verified Tamil unless genuinely new source evidence requires it. Do not start Part 005.
