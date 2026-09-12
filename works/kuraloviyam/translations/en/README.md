@@ -163,15 +163,16 @@ GR4 commit: `0266f1cca87df46ad9614bb34299218e22df6ad9`.
 
 - ER1 **334–366 / printed 317–349 — COMPLETE / PASS 33/33**;
 - ER2 **367–399 / printed 350–382 — COMPLETE / PASS 33/33**;
-- cumulative editorial review — **66/111**;
-- current page status — **66 `editorial-reviewed` + 45 `source-checked`**;
-- ER2 wording-improvement pages — **24**: 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 380, 381, 382, 383, 384, 385, 387, 391, 392, 394, 395, 398, 399;
-- ER2 status-only promotions — **9**: 378, 379, 386, 388, 389, 390, 393, 396, 397;
+- ER3 **400–432 / printed 383–415 — COMPLETE / PASS 33/33**;
+- cumulative editorial review — **99/111**;
+- current page status — **99 `editorial-reviewed` + 12 `source-checked`**;
+- ER3 wording-improvement pages — **21**: 400, 401, 402, 406, 408, 410, 412, 413, 415, 416, 417, 418, 420, 421, 422, 423, 425, 426, 429, 430, 432;
+- ER3 status-only promotions — **12**: 403, 404, 405, 407, 409, 411, 414, 419, 424, 427, 428, 431;
 - Chapter/Kural / Kural-block changes — **0**;
 - Tamil changes — **0**;
-- **399→400 CLEAN** rechecked and preserved;
+- **432→433 CLEAN** rechecked and preserved;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
 ## Current frontier
 
-**ER3 — scans 400–432 / printed 383–415 — 33 pages.**
+**ER4 — scans 433–444 / printed 416–427 — final 12 pages.**

@@ -156,31 +156,30 @@ Durable final checkpoint: `works/kuraloviyam/PART_003_FINAL_CLOSURE.md`.
 
 Part 003 Tamil and maintained English are now fully closed. English is **111/111 `release-ready`**; the Part-level review is PASS; the release report is APPROVED / CLOSED; no Tamil or English page record changed during the final checkpoint.
 
-## Part 004 — TAMIL CLOSED / ENGLISH EDITORIAL REVIEW ER3 NEXT
+## Part 004 — TAMIL CLOSED / ENGLISH EDITORIAL REVIEW ER4 NEXT
 
 ### Durable English state
 
 - drafting — **COMPLETE / CLOSED 111/111**;
 - source-check — **COMPLETE / CLOSED 111/111**;
 - glossary reconciliation — **COMPLETE / CLOSED 111/111**;
-- editorial review — **IN PROGRESS 66/111**;
+- editorial review — **IN PROGRESS 99/111**;
 - ER1 **334–366 / printed 317–349 — COMPLETE / PASS 33/33**;
 - ER2 **367–399 / printed 350–382 — COMPLETE / PASS 33/33**;
-- current page state — **66 editorial-reviewed + 45 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- ER2 wording-improvement pages — **24**: 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 380, 381, 382, 383, 384, 385, 387, 391, 392, 394, 395, 398, 399;
-- ER2 status-only promotions — **9**: 378, 379, 386, 388, 389, 390, 393, 396, 397;
+- ER3 **400–432 / printed 383–415 — COMPLETE / PASS 33/33**;
+- current page state — **99 editorial-reviewed + 12 source-checked / 0 draft / 0 source-limited / 0 blocked**;
+- ER3 wording-improvement pages — **21**: 400, 401, 402, 406, 408, 410, 412, 413, 415, 416, 417, 418, 420, 421, 422, 423, 425, 426, 429, 430, 432;
+- ER3 status-only promotions — **12**: 403, 404, 405, 407, 409, 411, 414, 419, 424, 427, 428, 431;
 - Chapter/Kural / Kural-block changes — **0**;
-- ER2 Tamil changes — **0**;
-- **366→367 genuine continuation** preserved;
-- **399→400 CLEAN** rechecked and preserved;
+- ER3 Tamil changes — **0**;
+- **399→400 CLEAN** preserved;
+- **432→433 CLEAN** rechecked and preserved;
 - scan **444 / printed 427 remains source-open**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
-ER2 review base: `7ce0e9d0f0c0dda376706a2c00b7baee28817063`.  
-ER2 page endpoint: `260b3b33d813f3911e5b75e7e3e3d99cd32a35e0`.
+ER3 review base: `4a2de94edbd5d9f70fb5211aca13a60018ff336d`.  
+ER3 page endpoint: `72c3d6a41249d36a1470b24a7f687d12eedfcdf7`.
 
-## Exact next activity — Part 004 English editorial review ER3
+## Exact next activity — Part 004 English editorial review ER4
 
-Process **scans 400–432 / printed 383–415 — 33 English pages**.
-
-Use audited Tamil plus `GLOSSARY.md`; review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and continuity. Make only source-faithful editorial improvements, and promote only passing pages from `source-checked` to `editorial-reviewed`. Do not alter Tamil records or begin Part 005.
+Process **scans 433–444 / printed 416–427 — final 12 English pages**. Use audited Tamil plus `GLOSSARY.md`; make only source-faithful editorial improvements and promote only passing pages to `editorial-reviewed`. Preserve scan 444 as source-open; do not infer scan 445. Do not alter Tamil records or begin Part 005.

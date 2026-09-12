@@ -183,19 +183,20 @@ Do not restart Pass 1. Do not resume scan-led lexical Pass 2 at scan 14.
 - English drafting: **COMPLETE / CLOSED — 111/111**;
 - English source-check: **COMPLETE / CLOSED — 111/111**;
 - English glossary reconciliation: **COMPLETE / CLOSED — 111/111**;
-- English editorial review: **IN PROGRESS — 66/111**;
+- English editorial review: **IN PROGRESS — 99/111**;
 - ER1 **334–366 / printed 317–349 — COMPLETE / PASS 33/33**;
 - ER2 **367–399 / printed 350–382 — COMPLETE / PASS 33/33**;
-- current English state: **66 editorial-reviewed + 45 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- ER2 wording-improvement pages: **24**;
-- ER2 status-only promotions: **9**;
+- ER3 **400–432 / printed 383–415 — COMPLETE / PASS 33/33**;
+- current English state: **99 editorial-reviewed + 12 source-checked / 0 draft / 0 source-limited / 0 blocked**;
+- ER3 wording-improvement pages: **21**;
+- ER3 status-only promotions: **12**;
 - Chapter/Kural / Kural-block changes: **0**;
 - Tamil changes: **0**;
-- **366→367 genuine continuation** preserved;
-- **399→400 CLEAN** rechecked and preserved;
+- **399→400 CLEAN** preserved;
+- **432→433 CLEAN** rechecked and preserved;
 - scan **444 / printed 427 remains source-open**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
 ## Exact next activity — குறளோவியம்
 
-Process **Part 004 English editorial review ER3 — scans 400–432 / printed 383–415, 33 pages**. Use audited Tamil plus `GLOSSARY.md`; make only source-faithful editorial improvements and promote only passing pages from `source-checked` to `editorial-reviewed`. Do not alter Tamil records and do not begin Part 005.
+Process **Part 004 English editorial review ER4 — scans 433–444 / printed 416–427, final 12 pages**. Preserve scan 444 as source-open, do not infer scan 445, do not alter Tamil records, and do not begin Part 005.

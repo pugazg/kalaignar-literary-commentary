@@ -399,22 +399,24 @@ English glossary reconciliation is **COMPLETE / CLOSED — 111/111**.
 
 GR4 commit: `0266f1cca87df46ad9614bb34299218e22df6ad9`.
 
-Part 004 English editorial review is **IN PROGRESS — 66/111**.
+Part 004 English editorial review is **IN PROGRESS — 99/111**.
 
 - ER1 **334–366 / printed 317–349 — COMPLETE / PASS 33/33**;
 - ER2 **367–399 / printed 350–382 — COMPLETE / PASS 33/33**;
-- ER2 wording-improvement pages — **24**: 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 380, 381, 382, 383, 384, 385, 387, 391, 392, 394, 395, 398, 399;
-- ER2 status-only promotions — **9**: 378, 379, 386, 388, 389, 390, 393, 396, 397;
-- current English state — **66 editorial-reviewed + 45 source-checked / 0 draft / 0 source-limited / 0 blocked**;
-- Chapter/Kural / Kural-block changes in ER2 — **0**;
-- Tamil changes in ER2 — **0**;
-- **366→367 genuine continuation** preserved;
-- **399→400 CLEAN** rechecked with scan 400 boundary witness;
+- ER3 **400–432 / printed 383–415 — COMPLETE / PASS 33/33**;
+- ER3 wording-improvement pages — **21**: 400, 401, 402, 406, 408, 410, 412, 413, 415, 416, 417, 418, 420, 421, 422, 423, 425, 426, 429, 430, 432;
+- ER3 status-only promotions — **12**: 403, 404, 405, 407, 409, 411, 414, 419, 424, 427, 428, 431;
+- current English state — **99 editorial-reviewed + 12 source-checked / 0 draft / 0 source-limited / 0 blocked**;
+- Chapter/Kural / Kural-block changes in ER3 — **0**;
+- Tamil changes in ER3 — **0**;
+- **399→400 CLEAN** preserved;
+- **432→433 CLEAN** rechecked with scan 433 boundary witness;
+- scan **444 / printed 427 remains source-open**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
-ER2 base: `7ce0e9d0f0c0dda376706a2c00b7baee28817063`.  
-ER2 page endpoint: `260b3b33d813f3911e5b75e7e3e3d99cd32a35e0`.
+ER3 base: `4a2de94edbd5d9f70fb5211aca13a60018ff336d`.  
+ER3 page endpoint: `72c3d6a41249d36a1470b24a7f687d12eedfcdf7`.
 
 ## Exact next activity
 
-Process **Part 004 English editorial review ER3 — scans 400–432 / printed 383–415, 33 pages**. Use audited Tamil and `GLOSSARY.md`, make only source-faithful editorial improvements, promote only passing pages to `editorial-reviewed`, do not alter Tamil records, and do not begin Part 005.
+Process **Part 004 English editorial review ER4 — scans 433–444 / printed 416–427, final 12 pages**. Preserve scan 444 as source-open, do not infer scan 445, do not alter Tamil records, and do not begin Part 005.

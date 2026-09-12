@@ -334,32 +334,33 @@ GR4 exact change set from `5bacced06a66d99fc0b24abcdbcd8355fca0afa5`: **1 file**
 ## Part 004 English editorial review — IN PROGRESS
 
 ### ER1 — COMPLETE / PASS 33/33
-- scans **334–366 / printed 317–349**;
-- review base — `db96854a2c75f480684442bae95247042f059fe0`;
-- page endpoint — `b764547c41b47b3c9cc2c73a43b44b1d089aec09`;
-- current contribution — **33 `editorial-reviewed` pages**.
+- scans **334–366 / printed 317–349**.
 
 ### ER2 — COMPLETE / PASS 33/33
-- scans **367–399 / printed 350–382**;
-- review base — `7ce0e9d0f0c0dda376706a2c00b7baee28817063`;
-- page endpoint — `260b3b33d813f3911e5b75e7e3e3d99cd32a35e0`;
+- scans **367–399 / printed 350–382**.
+
+### ER3 — COMPLETE / PASS 33/33
+- scans **400–432 / printed 383–415**;
+- review base — `4a2de94edbd5d9f70fb5211aca13a60018ff336d`;
+- page endpoint — `72c3d6a41249d36a1470b24a7f687d12eedfcdf7`;
 - exact page change set — **33 English page files only**;
-- wording-improvement pages — **24**: 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 380, 381, 382, 383, 384, 385, 387, 391, 392, 394, 395, 398, 399;
-- status-only promotions — **9**: 378, 379, 386, 388, 389, 390, 393, 396, 397;
-- cumulative editorial-review state — **66 `editorial-reviewed` + 45 `source-checked` / 0 draft / 0 source-limited / 0 blocked**;
+- wording-improvement pages — **21**: 400, 401, 402, 406, 408, 410, 412, 413, 415, 416, 417, 418, 420, 421, 422, 423, 425, 426, 429, 430, 432;
+- status-only promotions — **12**: 403, 404, 405, 407, 409, 411, 414, 419, 424, 427, 428, 431;
+- cumulative editorial-review state — **99 `editorial-reviewed` + 12 `source-checked` / 0 draft / 0 source-limited / 0 blocked**;
 - Chapter/Kural numbers and controlled labels changed — **0**;
 - Kural block wording changed — **0**;
 - Tamil page / metadata changes — **0**;
 - visual/page-function changes — **0**;
-- incoming **366→367 genuine continuation** preserved;
-- outgoing **399→400 CLEAN** directly rechecked against scan 400 as the boundary witness;
+- incoming **399→400 CLEAN** preserved;
+- outgoing **432→433 CLEAN** directly rechecked against scan 433;
+- scan **444 / printed 427 remains source-open**;
 - external **444→445 DEFERRED / UNRESOLVED**;
 - external/published/web English wording imported — **0**.
 
-ER2 made only source-faithful readability and clarity improvements against the audited Tamil records. Notable corrections include scan **395**, where the internally inconsistent `if it died` wording in Jenny's already-dead-child passage was reduced to the source-faithful **for that child**, and scan **383**, where the bodyguard's observation was clarified to distinguish what people say from what they actually do.
+ER3 made only source-faithful readability and clarity improvements against the audited Tamil records. Representative fixes include scan **410**, where the awkward personification was clarified to **she would look skyward and sigh**, and scan **422**, where `மை உண்ட அந்தக் கண்` was rendered more precisely as **kohl-darkened eyes**.
 
 ## Exact next English activity
 
-Process **ER3 — scans 400–432 / printed 383–415 — 33 English pages**.
+Process **ER4 — scans 433–444 / printed 416–427 — final 12 English pages**.
 
-Use audited Tamil and `GLOSSARY.md`. Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity. Make only source-faithful editorial improvements; passing pages may move from `source-checked` to `editorial-reviewed`. Do not alter Tamil records and do not begin Part 005.
+Use audited Tamil and `GLOSSARY.md`. Make only source-faithful editorial improvements and promote only passing pages to `editorial-reviewed`. Preserve scan **444** as source-open and do not infer scan **445**. Do not alter Tamil records and do not begin Part 005.
