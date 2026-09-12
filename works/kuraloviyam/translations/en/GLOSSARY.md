@@ -668,3 +668,90 @@ GR2 processed **33 consecutive pages: scans 367–399 / printed 350–382**.
 - all 33 English pages remain `source-checked`; this gate makes **no status promotion**;
 - incoming **366→367 genuine continuation** and outgoing **399→400 CLEAN** were preserved;
 - no Tamil archival record changed and no external/published/web English terminology was imported.
+
+
+## Part 004 GR3 controls — scans 400–432
+
+### Chapter labels first evidenced or source-varied in Part 004 GR3
+
+| Tamil | Default English | Editorial note |
+|---|---|---|
+| இடம் அறிதல் | Knowing the Place | Source-form variant on scan 413 / printed 396; map to the established Chapter 50 control `இடனறிதல்` → **Knowing the Place** rather than creating a duplicate title. |
+| நடுவுநிலைமை | Impartiality | Chapter 12 label on scan 415 / printed 398. |
+| கயமை | Baseness | Chapter 108 label on scan 420 / printed 403. |
+| அன்புடைமை | Possession of Love | Chapter 8 label on scan 432 / printed 415. |
+
+Existing controlled labels reused unchanged in GR3 include **The Excellence of Rain**, **Renouncing Modesty**, **Evil Friendship**, **Refraining from Causing Pain**, **Loss of Restraint**, **Inability to Bear Separation**, **Praising Her Beauty**, **Knowing One's Strength**, **The Greatness of Renunciates**, **Joy of Lovers' Quarrel**, and **Knowing the Proper Time**.
+
+### Narrative, literary, historical and mythological controls first evidenced in Part 004 GR3
+
+| Tamil | Default English form | Editorial note |
+|---|---|---|
+| ரம்பை | Rambha | Mythological celestial woman named on scans 405 and 431. |
+| ஊர்வசி | Urvashi | Mythological celestial woman named on scans 405 and 431. |
+| திலோத்தமை | Tilottama | Mythological celestial woman named on scans 405 and 431. |
+| இரதிதேவி | Rathi | Mythological comparison in scan 406. |
+| மன்மதன் | Manmatha | Mythological comparison in scan 406; retain source-checked project form. |
+| சுபத்திரை | Subhadra | Mythological/literary comparison in scan 406. |
+| அர்ச்சுனன் | Arjuna | Mythological/literary comparison in scan 406. |
+| சேவல் | Sevval | Household servant/cart-driver in scans 408–409. |
+| அண்ணாமலை ரெட்டியார் | Annamalai Reddiar | Poet named with the `காவடிச்சிந்து` quotation on scan 410. |
+| காவடிச்சிந்து | Kavadi Sindhu | Literary/song-form name on scans 410–411; retain the source-checked transliteration. |
+| லெனின் | Lenin | Historical figure in scans 412–413. |
+| ஸ்டாலின் | Stalin | Historical figure in scans 412–413. |
+| மாலங்கோ | Malenkov | Historical figure in scan 412; retain the audited project form supported by this source record. |
+| குருஷேவ் | Khrushchev | Historical figure in scans 412–413. |
+| இட்லர் | Hitler | Historical figure in scan 412. |
+| மறைமுதல்வன் | Maraimudhalvan | Speaker in the justice/impartiality dialogue across scans 414–415. |
+| நலங்கிள்ளி | Nalangilli | Village headman in the justice/impartiality dialogue across scans 414–415. |
+| வைகை | Vaigai | Street-sweeper in scans 416–417; personal name in this context. |
+| வடிவழகன் | Vadivazhagan | Vaigai's lover/co-worker in scans 416–417. |
+| புகழேந்தி | Pugazhenthi | Poet in the jasmine/bee literary-imagination discussion across scans 421–422. |
+| ஒட்டக்கூத்தர் | Ottakoothar | Poet in the jasmine/bee literary-imagination discussion across scans 421–422. |
+| நல்லம்மை | Nallammai | Mugilan/Mukilan's wife in scans 425–426. |
+| அரிமா | Arima | Warrior in scans 429–430; keep distinct from Part-004 GR1 `அரிமாநெஞ்சன்` → **Arimaanenjan**. |
+| பரிதி | Parithi | Arima's interlocutor in scans 429–430; keep distinct from commentator `பரிதியார்` → **Parithiyar**. |
+
+Existing controls reused unchanged in GR3 include **Ilango** for `இளங்கோ`, **Purananuru** for `புறநானூறு`, **Mukilan** for `முகிலன்`, **Nallaan** for `நல்லான்`, and **Vallaan** for `வல்லான்`.
+
+### Recurring lexical controls confirmed in Part 004 GR3
+
+| Tamil | Default English | Evidence |
+|---|---|---|
+| கொடுவாள் | curved blade | Source-check established this source-bounded rendering on scan 426; scan 429 is reconciled from **curved sword** to the same controlled term. |
+| புணை | boat / raft | Source-printed gloss on scan 404. |
+| புனல் | water | Source-printed gloss on scan 413. |
+| அடும் | conquers / defeats | Source-printed gloss on scan 413. |
+| நடுஒரீஇ | departing from impartiality | Source-printed gloss on scan 415. |
+| அல்ல செயின் | if one does wrong | Source-printed gloss on scan 415. |
+| புன்கண் | pain | Source-printed gloss on scan 417. |
+| இன்கண் | delight | Source-printed gloss on scan 417. |
+| பார்வல் | gaze | Source-printed gloss on scan 417. |
+| முறி | tender shoot | Source-printed gloss on scan 422. |
+| முறுவல் | teeth | Source-printed gloss on scan 422. |
+| முத்தம் | pearl | Source-printed gloss on scan 422. |
+| வெறிநாற்றம் | pleasant fragrance | Source-printed gloss on scan 422. |
+| வேய் | bamboo | Source-printed gloss on scan 422. |
+| ஊக்கம் | spirited energy | Source-printed gloss on scan 430. |
+| தகர் | ram | Source-printed gloss on scan 430. |
+| பேரு | drawing the legs backward | Source-printed gloss on scan 430. |
+
+The already established `முகிலன்` → **Mukilan** form applies to the distinct elder character on scans **425–426** as a transliteration control. It does not imply narrative identity with the earlier Part-003 character of the same Tamil name.
+
+## Part 004 GR3 reconciliation record — scans 400–432
+
+GR3 processed **33 consecutive pages: scans 400–432 / printed 383–415**.
+
+- scans **400–432** — glossary / recurring-terminology reconciliation **PASS, 33/33**;
+- all **15** Chapter/Kural metadata records in the range were checked against their audited Tamil counterparts with **0 chapter-number or Kural-number mismatches**;
+- Part-004-first chapter controls added in this gate: **Impartiality**, **Baseness**, and **Possession of Love**;
+- source form `இடம் அறிதல்` on scan **413** is mapped to the existing Chapter 50 control **Knowing the Place**;
+- terminology consistency corrections were required on **3 English page files**:
+  - scan **425** — `Mugilan` → **Mukilan** throughout;
+  - scan **426** — `Mugilan` → **Mukilan** throughout;
+  - scan **429** — `curved sword` → **curved blade** for `கொடுவாள்`;
+- recurring narrative/literary/historical/mythological controls actually evidenced in this range were recorded above;
+- source-printed lexical glosses from scans **404, 413, 415, 417, 422, and 430** are recorded above without importing external meanings;
+- all 33 English pages remain `source-checked`; this gate makes **no status promotion**;
+- incoming **399→400 CLEAN** and outgoing **432→433 CLEAN** were preserved;
+- no Tamil archival record changed and no external/published/web English terminology was imported.

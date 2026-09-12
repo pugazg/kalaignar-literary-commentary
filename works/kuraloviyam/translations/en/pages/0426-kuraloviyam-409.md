@@ -21,9 +21,9 @@ A few people in the village who were jealous of him would say in the public hall
 
 Even when those words reached his ears, that mountain of good qualities grieved only over his own condition; he did not become angry with those who spoke.
 
-Then one day news came: Mugilan's rough son had stolen an idol from the village temple and been caught by the guards.
+Then one day news came: Mukilan's rough son had stolen an idol from the village temple and been caught by the guards.
 
-The face of Mugilan, whose face had never reddened with anger, became redder than burning coal.
+The face of Mukilan, whose face had never reddened with anger, became redder than burning coal.
 
 “I will kill the idol-thief and return!”
 
@@ -49,11 +49,11 @@ Nallammai answered:
 
 “No. One of the qualities belonging to great people is that anger, when it arises in them, disappears without remaining even for a moment. There—look! Unable to preserve the anger he had taken upon himself, my husband is already returning.”
 
-Mugilan came back.
+Mukilan came back.
 
 “He has fallen into the hands of the guards. The court will give him whatever punishment he deserves. I have returned.”
 
-Saying this, Mugilan threw down the curved blade in his hand.
+Saying this, Mukilan threw down the curved blade in his hand.
 
 The villagers dispersed with a great sigh of relief.
 
@@ -62,4 +62,4 @@ The villagers dispersed with a great sigh of relief.
 
 Chapter 3 — The Greatness of Renunciates; Kural 29
 
-<!-- Source scan page: 426; printed page: 409; Mugilan/Nallammai vignette closes with Kural 29 -->
+<!-- Source scan page: 426; printed page: 409; Mukilan/Nallammai vignette closes with Kural 29 -->
