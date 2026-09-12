@@ -143,13 +143,14 @@ Part 004 covers scans **334–444 / printed 317–427**, 111 physical pages.
 ## Part 004 English source-check — IN PROGRESS
 
 - SC1 **334–366 / printed 317–349 — COMPLETE 33/33**;
-- cumulative source-check — **33/111**;
-- current state — **33 `source-checked` + 78 `draft` / 0 source-limited / 0 blocked**;
-- one fidelity wording correction — scan **343**, “accepted death with courage” → “accepted death with joy”;
-- other **32 SC1 pages status-only**;
+- SC2 **367–399 / printed 350–382 — COMPLETE 33/33**;
+- cumulative source-check — **66/111**;
+- current state — **66 `source-checked` + 45 `draft` / 0 source-limited / 0 blocked**;
+- SC2 fidelity corrections — **2**, scans **374, 381**;
+- other **31 SC2 pages status-only**;
 - Tamil changes — **0**;
-- **366→367 genuine continuation** preserved.
+- **399→400 CLEAN** preserved.
 
 ## Current frontier
 
-**SC2 — scans 367–399 / printed 350–382 — 33 page pairs.**
+**SC3 — scans 400–432 / printed 383–415 — 33 page pairs.**

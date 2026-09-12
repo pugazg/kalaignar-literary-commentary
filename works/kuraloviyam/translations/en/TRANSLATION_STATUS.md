@@ -290,29 +290,37 @@ Incoming **333→334 CLEAN / source-resolved**. External **444→445 DEFERRED / 
 ### SC1 — COMPLETE 33/33
 
 - scans **334–366 / printed 317–349**;
-- cumulative source-check — **33/111**;
-- current English state — **33 `source-checked` + 78 `draft` / 0 source-limited / 0 blocked**;
-- remaining source-check pages — **78**;
+- cumulative after SC1 — **33/111**;
+- fidelity corrections — **1**, scan **343**.
+
+### SC2 — COMPLETE 33/33
+
+- scans **367–399 / printed 350–382**;
+- cumulative source-check — **66/111**;
+- current English state — **66 `source-checked` + 45 `draft` / 0 source-limited / 0 blocked**;
+- remaining source-check pages — **45**;
 - Tamil archival page changes — **0**;
 - external/published/standard English Kural wording imported — **0**;
-- outgoing **366→367 genuine continuation** preserved.
+- incoming **366→367 genuine continuation** preserved;
+- outgoing **399→400 CLEAN**.
 
-Source-check commits:
+SC2 source-check commits:
 
-- `228978c756c26b3485c71e20a5dd9d5bf8bdbb9f` — scans **334–344**;
-- `c9833a4789d3c2bc7f1a5236ab4810d27f239173` — scans **345–355**;
-- `69ba2fa78996cc1b7833de7f7357d94103c9c51e` — scans **356–366**.
+- `a64aca13f7b628b04f16faa3be156526f0e42582` — scans **367–377**;
+- `62f6d9b68c7995fc212952a7632eb46daf55f1fa` — scans **378–388**;
+- `354160f672ee31aeff4715e5ccc9294f5f1f2257` — scans **389–399**.
 
-SC1 audit from `faae39910db9b97f77154944aac2f28352411dcc` to `69ba2fa78996cc1b7833de7f7357d94103c9c51e` contains exactly **33 expected English page files**, scans **334–366**, with **0 missing and 0 unexpected files**.
+SC2 audit from `95fa0a5565a9707c0a5cf78d2af9906e5e0549d4` to `354160f672ee31aeff4715e5ccc9294f5f1f2257` contains exactly **33 expected English page files**, scans **367–399**, with **0 missing and 0 unexpected files**.
 
-SC1 made exactly **one source-fidelity wording correction**:
+SC2 made exactly **two source-fidelity wording corrections**:
 
-- scan **343 / printed 326** — the audited Tamil says `மகிழ்ச்சியோடு ஏற்றுக்கொண்டான்`; English changed **“accepted death with courage” → “accepted death with joy”**.
+- scan **374 / printed 357** — removed the external proper-name expansion **“Pasumpon Muthuramalinga Thevar”** and restored source-bounded **“Devar Thirumagan”**, matching `தேவர் திருமகன்`;
+- scan **381 / printed 364** — changed **“cremation ground” → “burial ground”** to match `இடுகாடு` without narrowing the source.
 
-The other **32 pages were status-only promotions** from `draft` to `source-checked`.
+The other **31 pages were status-only promotions** from `draft` to `source-checked`.
 
 ## Exact next English activity
 
-Process **SC2 — scans 367–399 / printed 350–382 — 33 English/Tamil page pairs**.
+Process **SC3 — scans 400–432 / printed 383–415 — 33 English/Tamil page pairs**.
 
-Compare page-by-page against audited Tamil, correct only fidelity defects, promote each passing English page to `source-checked`, and preserve all established continuities. Do not alter Tamil records or begin Part 005.
+Compare page-by-page against audited Tamil, correct only fidelity defects, promote each passing English page to `source-checked`, and preserve established continuities. Do not alter Tamil records or begin Part 005.

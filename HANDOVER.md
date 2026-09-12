@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 004 English source-check 33/111; SC2 scans 367–399 next**: **2026-09-12**.
+Last refreshed for Kuraloviyam **Part 004 English source-check 66/111; SC3 scans 400–432 next**: **2026-09-12**.
 
 ## Repository
 
@@ -181,12 +181,12 @@ Do not restart Pass 1. Do not resume scan-led lexical Pass 2 at scan 14.
 
 - Tamil: **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified / 0 exceptions**;
 - English drafting: **COMPLETE / CLOSED — 111/111**;
-- English source-check: **IN PROGRESS — 33/111**;
-- English state: **33 source-checked + 78 draft / 0 source-limited / 0 blocked**;
-- SC1 correction: **scan 343 only**;
-- **366→367 genuine continuation** preserved;
+- English source-check: **IN PROGRESS — 66/111**;
+- English state: **66 source-checked + 45 draft / 0 source-limited / 0 blocked**;
+- SC2 corrections: **scans 374 and 381**;
+- **399→400 CLEAN** preserved;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
 ## Exact next activity — குறளோவியம்
 
-Process **Part 004 English source-check SC2 — scans 367–399 / printed 350–382, 33 page pairs**. Do not alter Tamil records or begin Part 005.
+Process **Part 004 English source-check SC3 — scans 400–432 / printed 383–415, 33 page pairs**. Do not alter Tamil records or begin Part 005.

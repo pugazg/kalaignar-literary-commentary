@@ -348,12 +348,13 @@ Part 004 English:
 
 - drafting — **111/111 COMPLETE / CLOSED**;
 - SC1 **334–366 — COMPLETE 33/33**;
-- source-check cumulative — **33/111**;
-- current status — **33 source-checked + 78 draft / 0 source-limited / 0 blocked**;
-- one SC1 wording correction — scan **343**;
-- **366→367 genuine continuation**;
-- next — **SC2 367–399 / printed 350–382**.
+- SC2 **367–399 — COMPLETE 33/33**;
+- source-check cumulative — **66/111**;
+- current status — **66 source-checked + 45 draft / 0 source-limited / 0 blocked**;
+- SC2 corrections — scans **374, 381**;
+- **399→400 CLEAN**;
+- next — **SC3 400–432 / printed 383–415**.
 
 ## Current frontier
 
-**Part 004 English source-check SC2.**
+**Part 004 English source-check SC3.**

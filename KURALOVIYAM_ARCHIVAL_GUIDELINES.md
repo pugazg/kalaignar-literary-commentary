@@ -200,13 +200,14 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 - Tamil: **ARCHIVAL-READY / CLOSED**;
 - English drafting: **COMPLETE / CLOSED 111/111**;
-- English source-check: **IN PROGRESS 33/111**;
+- English source-check: **IN PROGRESS 66/111**;
 - SC1 **334–366 — COMPLETE 33/33**;
-- current English state: **33 source-checked + 78 draft / 0 source-limited / 0 blocked**;
-- SC1 correction: **scan 343 only**;
-- next source-check batch: **SC2 scans 367–399 / printed 350–382**;
+- SC2 **367–399 — COMPLETE 33/33**;
+- current English state: **66 source-checked + 45 draft / 0 source-limited / 0 blocked**;
+- SC2 corrections: **scans 374, 381**;
+- next source-check batch: **SC3 scans 400–432 / printed 383–415**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
 ### Exact next content stage
 
-Process **Part 004 English source-check SC2 — scans 367–399 / printed 350–382, 33 page pairs**. Do not begin Part 005.
+Process **Part 004 English source-check SC3 — scans 400–432 / printed 383–415, 33 page pairs**. Do not begin Part 005.

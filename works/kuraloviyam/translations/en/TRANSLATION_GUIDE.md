@@ -274,12 +274,12 @@ Part 004 covers scans **334–444 / printed 317–427**.
 
 - Tamil — **ARCHIVAL-READY / CLOSED**;
 - English drafting — **COMPLETE / CLOSED 111/111**;
-- source-check — **IN PROGRESS 33/111**;
+- source-check — **IN PROGRESS 66/111**;
 - SC1 **334–366 — COMPLETE 33/33**;
-- current English state — **33 source-checked + 78 draft / 0 source-limited / 0 blocked**;
-- SC1 fidelity corrections — **1**, on scan **343**;
-- current normal source-check batch size — **33 physical scans**;
-- exact next batch — **SC2 scans 367–399 / printed 350–382**;
+- SC2 **367–399 — COMPLETE 33/33**;
+- current English state — **66 source-checked + 45 draft / 0 source-limited / 0 blocked**;
+- SC2 fidelity corrections — **2**, scans **374, 381**;
+- exact next batch — **SC3 scans 400–432 / printed 383–415**;
 - external **444→445 DEFERRED / UNRESOLVED**.
 
 Source-check remains a fidelity gate, not stylistic polishing. Correct only mismatches against audited Tamil, then promote passing pages to `source-checked`. Glossary normalization remains a later gate.
