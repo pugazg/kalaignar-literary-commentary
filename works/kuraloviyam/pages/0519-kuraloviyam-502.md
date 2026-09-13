@@ -31,6 +31,6 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 அதிகாரம் - 57 - வெருவந்தசெய்யாமை; பாடல் - 563
 
-வெருவந்த = அஞ்சத்தக்கது ஒருவந்தம் = உறுதியாக ஒல்லை = விரைவில்
+வெருவந்த = அஞ்சிட தக்கது ஒருவந்தம் = உறுதியாக ஒல்லை = விரைவில்
 
 <!-- மூல ஸ்கேன் பக்கம்: 519; பகுதி 005 உள்ளூர் பக்கம்: 75; அச்சுப் பக்கம்: 502; genuine continuation from scan 518 closes here with Chapter 57 / Kural 563 -->
