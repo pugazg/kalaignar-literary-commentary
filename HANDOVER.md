@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 005 Part-level English review PASS / CLOSED; English release report next**: **2026-09-13**.
+Last refreshed for Kuraloviyam **Part 005 English release APPROVED / CLOSED 111/111; final Part closure next**: **2026-09-13**.
 
 ## Repository
 
@@ -410,8 +410,13 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - direct Part inventory/frontmatter audit — **111/111 English present and aligned / 111 editorial-reviewed / 111 source_tamil_status verified / 111 project_translation / 0 page-layer changes**;
 - Chapter/Kural audit — **54 metadata pages / 55 Kural citations / 0 Chapter-Kural mismatches**;
 - visual-material audit — **53 English visual sections / PASS**;
-- current Part-005 English state — **0 source-checked / 0 draft / 111 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
-- next maintained English gate — **English release report / release approval**.
+- Part-005 English release report — **APPROVED / CLOSED**;
+- release report — `works/kuraloviyam/translations/en/reviews/PART_005_ENGLISH_RELEASE_REPORT.md`;
+- release promotion base — `af50dbf8b6ab54e456d87b10cfdcd094e6d3a516`;
+- release promotion endpoint — `3d35d4c67f17f77b8ff5de036a8a3989ec088a78`;
+- exact promotion audit — **19 commits ahead / exactly 111 English page files / +1,-1 each / 0 non-page files / status-token-only**;
+- current Part-005 English state — **0 source-checked / 0 draft / 0 editorial-reviewed / 111 release-ready / 0 source-limited / 0 blocked**;
+- next maintained English gate — **final Part 005 closure checkpoint / documentation confirmation**.
 
 ### Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -422,4 +427,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Proceed with **Part 005 English release report / release approval**. Use `works/kuraloviyam/translations/en/reviews/PART_005_ENGLISH_REVIEW.md` as the authoritative prior gate. Confirm all **111/111** English pages remain `editorial-reviewed`, source-limited/blocked counts remain 0, and approve only a **status-token-only** promotion to `release-ready` if the release gate passes. Make no English wording, Tamil, glossary, metadata, visual or boundary changes. Preserve incoming **444→445 GENUINE CONTINUATION / source-resolved** and outgoing **555→556 CLEAN / source-resolved**. Part 006 remains blocked until Part 005 final closure.
+Proceed with the **final Part 005 closure checkpoint / documentation confirmation**. Use `works/kuraloviyam/translations/en/reviews/PART_005_ENGLISH_RELEASE_REPORT.md` as the authoritative release gate. Confirm Tamil remains **ARCHIVAL-READY / CLOSED 111/111**, English remains **111/111 release-ready**, all earlier drafting/source-check/glossary/editorial/Part-review/release gates are durably closed, and **444→445 GENUINE CONTINUATION / source-resolved** plus **555→556 CLEAN / source-resolved** remain intact. Make no page wording/status or Tamil changes. If the checkpoint passes, create the durable Part 005 final-closure record and only then unblock Part 006.

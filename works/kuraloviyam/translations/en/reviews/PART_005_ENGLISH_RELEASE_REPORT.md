@@ -83,18 +83,40 @@ No boundary decision may change during release promotion.
 
 Part 005 Tamil remains **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**.
 
-## Promotion audit
+## Promotion audit — PASS
 
-**PENDING** until the approved status-token-only promotion is committed and exact-compared.
+Promotion base: `af50dbf8b6ab54e456d87b10cfdcd094e6d3a516`  
+Promotion endpoint: `3d35d4c67f17f77b8ff5de036a8a3989ec088a78`
 
-The audit must prove:
+Exact compare result:
 
-- exactly **111 changed files**;
-- every changed file is a Part 005 English page record, scans **445–555**;
-- per-file diff shape is status token only: `editorial-reviewed → release-ready`;
+- compare status — **ahead / non-divergent**;
+- promotion commits — **19**;
+- changed files — **111**;
+- all changed files — Part 005 English page records only, scans **445–555**;
+- non-page/control files changed during promotion — **0**;
+- per-file diff shape — **+1 / -1** for every page;
+- promotion operation — the only written page-field change was `status: "editorial-reviewed"` → `status: "release-ready"`;
+- every batch validated exactly one pre-existing `status: "editorial-reviewed"` token before replacement;
 - approved English wording changes — **0**;
 - Tamil changes — **0**;
 - glossary changes — **0**;
-- control-document changes during the page-promotion layer — **0**.
+- metadata changes — **0**;
+- visual-section changes — **0**.
 
-After the promotion audit passes, update this report with the promotion base/endpoint and final status distribution. The exact next gate after release closure is the **final Part 005 closure checkpoint/documentation confirmation**.
+## Release decision
+
+**PART 005 ENGLISH RELEASE: APPROVED / CLOSED — 111/111 `release-ready`.**
+
+Final English status distribution:
+
+- `release-ready` — **111**;
+- `editorial-reviewed` — **0**;
+- `source-checked` — **0**;
+- `draft` — **0**;
+- `source-limited` — **0**;
+- `blocked` — **0**.
+
+Incoming **444→445 GENUINE CONTINUATION / source-resolved** and outgoing **555→556 CLEAN / source-resolved** remain unchanged.
+
+The exact next gate is the **final Part 005 closure checkpoint/documentation confirmation**. Do not begin Part 006 before that checkpoint passes.

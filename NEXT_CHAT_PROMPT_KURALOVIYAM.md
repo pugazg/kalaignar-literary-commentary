@@ -1,22 +1,16 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 005 English Release Report
+# NEXT CHAT PROMPT — குறளோவியம் / Part 005 Final Closure
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
 Parts **001–004 remain fully closed**. Do not reopen them.
 
-## Part 005 Tamil authority
-
-Part 005 Tamil is:
+## Part 005 Tamil
 
 **ARCHIVAL-READY / CLOSED — 111/111 textual verified + 111/111 visual verified / 0 exceptions.**
 
-## English workflow
+## Part 005 English workflow
 
 Translation identity: **project-created English translation**.
-
-Permanent gate order:
-
-**draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**
 
 Completed gates:
 
@@ -24,67 +18,70 @@ Completed gates:
 - source-check — **COMPLETE / CLOSED 111/111**;
 - glossary reconciliation — **COMPLETE / CLOSED 111/111**;
 - editorial review — **COMPLETE / CLOSED 111/111**;
-- Part-level English review — **PASS / CLOSED**.
+- Part-level English review — **PASS / CLOSED**;
+- English release report — **APPROVED / CLOSED**;
+- release-ready promotion — **COMPLETE / PASS 111/111**.
 
-Authoritative Part-review record:
+Authoritative records:
 
-`works/kuraloviyam/translations/en/reviews/PART_005_ENGLISH_REVIEW.md`
+- Part review — `works/kuraloviyam/translations/en/reviews/PART_005_ENGLISH_REVIEW.md`;
+- release report — `works/kuraloviyam/translations/en/reviews/PART_005_ENGLISH_RELEASE_REPORT.md`.
 
-Review base:
+## Release audit
 
-`fdd71835084121e9f80cf812e5dd29dac7dd148d`
+Promotion base:
 
-## Part-level review result
+`af50dbf8b6ab54e456d87b10cfdcd094e6d3a516`
 
-Direct whole-Part audit confirms:
+Promotion endpoint:
 
-- Tamil records — **111/111 present**;
-- English records — **111/111 present**;
-- scans — **445–555 complete**;
-- printed pages — **428–538 complete**;
-- filename/source-link/scan/printed-page alignment — **111/111 exact**;
-- `editorial-reviewed` — **111**;
+`3d35d4c67f17f77b8ff5de036a8a3989ec088a78`
+
+Exact compare:
+
+- **19 commits ahead / non-divergent**;
+- exactly **111 changed files**;
+- all **111** are Part 005 English page records, scans **445–555**;
+- every file is **+1 / -1**;
+- non-page/control files changed during promotion — **0**;
+- promotion mutation — `status: "editorial-reviewed"` → `status: "release-ready"` only;
+- approved English wording changes — **0**;
+- Tamil changes — **0**;
+- glossary/metadata/visual changes — **0**.
+
+Current Part-005 English state:
+
+- `release-ready` — **111**;
+- `editorial-reviewed` — **0**;
 - `source-checked` — **0**;
 - `draft` — **0**;
-- `release-ready` — **0**;
 - `source-limited` — **0**;
-- `blocked` — **0**;
-- `source_tamil_status: "verified"` — **111/111**;
-- `translation_type: "project_translation"` — **111/111**;
-- Chapter/Kural metadata pages — **54**;
-- Kural citations — **55**;
-- Chapter/Kural-number mismatches — **0**;
-- English pages with explicit `## Visual material` — **53**;
-- English wording changes during Part review — **0**;
-- page-status changes during Part review — **0**;
-- Tamil changes during Part review — **0**.
+- `blocked` — **0**.
 
 Boundary discipline:
 
 - incoming **444→445 — GENUINE CONTINUATION / source-resolved**;
 - outgoing **555→556 — CLEAN / source-resolved**.
 
-No publisher, standard, web or remembered English Kural wording or terminology was imported.
+## Exact next activity — Final Part 005 Closure
 
-## Exact next activity — English Release Report
+Perform a no-page-change final checkpoint.
 
-Create:
+Confirm:
 
-`works/kuraloviyam/translations/en/reviews/PART_005_ENGLISH_RELEASE_REPORT.md`
+- Tamil remains **ARCHIVAL-READY / CLOSED 111/111**;
+- English remains **111/111 release-ready**;
+- drafting/source-check/glossary/editorial/Part-review/release gates are all durably closed;
+- release report is APPROVED / CLOSED;
+- source-limited and blocked counts are 0;
+- no page wording or status drift has occurred after release promotion;
+- incoming and outgoing Part boundaries remain source-resolved as recorded.
 
-Use the Part-level review as the authoritative prior gate.
+If PASS:
 
-Release decision requirements:
+- create `works/kuraloviyam/PART_005_FINAL_CLOSURE.md`;
+- synchronize root/work handovers, README, page-map, source metadata, translation status, guidelines and next-chat prompt;
+- mark Part 005 **FULLY CLOSED**;
+- only then advance Part 006 from waiting to the next active Tamil intake/transcription gate.
 
-- confirm all **111/111** pages remain eligible and `editorial-reviewed`;
-- confirm source-limited = **0** and blocked = **0**;
-- confirm no unresolved terminology, Chapter/Kural, visual, page-alignment or boundary issue remains;
-- if approved, authorize promotion of all **111** English page records from:
-  - `status: "editorial-reviewed"`
-  - to `status: "release-ready"`;
-- promotion must be **status-token-only**;
-- approved English wording must remain unchanged;
-- Tamil pages, glossary, metadata, visual sections and boundary decisions must remain unchanged;
-- after promotion, perform an exact compare audit proving exactly **111 English page files**, each status-only, with **0 Tamil/control-file changes**.
-
-Do not start Part 006 transcription until the Part 005 release report, release-ready promotion and final Part closure are complete.
+Do not modify Part 005 page records during this checkpoint.

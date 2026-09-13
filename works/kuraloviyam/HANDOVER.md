@@ -355,8 +355,13 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - direct inventory/frontmatter audit — **111/111 exact alignment / 111 editorial-reviewed / 111 verified Tamil links / 111 project translations**;
 - Chapter/Kural audit — **54 metadata pages / 55 Kural citations / 0 mismatches**;
 - visual-material audit — **53 pages / PASS**;
-- current English status — **0 source-checked / 0 draft / 111 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
-- next gate — **English release report / release approval**.
+- English release report — **APPROVED / CLOSED**;
+- release report — `translations/en/reviews/PART_005_ENGLISH_RELEASE_REPORT.md`;
+- release promotion base — `af50dbf8b6ab54e456d87b10cfdcd094e6d3a516`;
+- release promotion endpoint — `3d35d4c67f17f77b8ff5de036a8a3989ec088a78`;
+- exact promotion audit — **19 commits ahead / exactly 111 English page files / +1,-1 each / 0 non-page files / status-token-only**;
+- current English status — **0 source-checked / 0 draft / 0 editorial-reviewed / 111 release-ready / 0 source-limited / 0 blocked**;
+- next gate — **final Part 005 closure checkpoint / documentation confirmation**.
 
 ## Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -366,4 +371,4 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ## Exact next activity
 
-Proceed with **Part 005 English release report / release approval**. Use `translations/en/reviews/PART_005_ENGLISH_REVIEW.md` as the authoritative prior gate. Confirm **111/111** English pages remain `editorial-reviewed`, source-limited/blocked are 0, and approve only a **status-token-only** promotion to `release-ready` if the release gate passes. Preserve all wording, Tamil records, glossary controls, metadata, visual sections and the **444→445 GENUINE CONTINUATION** / **555→556 CLEAN** boundaries. Do not start Part 006 transcription.
+Proceed with the **final Part 005 closure checkpoint / documentation confirmation**. Use `translations/en/reviews/PART_005_ENGLISH_RELEASE_REPORT.md` as the authoritative release gate. Confirm Tamil remains **111/111 textual+visual verified**, English remains **111/111 release-ready**, all prior gates are closed, and **444→445 GENUINE CONTINUATION / source-resolved** plus **555→556 CLEAN / source-resolved** remain intact. Make no Part 005 page changes. If PASS, create the final-closure record and only then activate Part 006.
