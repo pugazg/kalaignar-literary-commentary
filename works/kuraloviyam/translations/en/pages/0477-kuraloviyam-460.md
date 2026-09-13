@@ -6,10 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
+
+—is over, I can persuade my family. Come—first let us go to your father and get his consent!”
 
 He listened to her without moving.
 
@@ -70,4 +72,4 @@ Chapter 105 — Poverty; Kural 1044
 
 இன்மை = poverty
 
-<!-- Source scan page: 477; printed page: 460; genuine continuation from scan 476 closes here with Chapter 105 / Kural 1044; scan 478 / printed 461 begins a new illustrated vignette, so 477→478 is CLEAN -->
+<!-- Source scan page: 477; printed page: 460; opens by completing the physically split quoted sentence from scan 476, then the vignette closes with Chapter 105 / Kural 1044; scan 478 / printed 461 begins a new illustrated vignette, so 477→478 is CLEAN -->

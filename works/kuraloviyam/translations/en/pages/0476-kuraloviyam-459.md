@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -47,6 +47,6 @@ She wept.
 
 He sat speechless.
 
-“I have not told my mother and father that I love the son of a poor man. That is true. But you must stand with me and say ‘yes’ too! Once we are married, I can persuade my family. Come—first let us go to your father and get his consent!”
+“I have not told my mother and father that I love the son of a poor man. That is true. But you must stand with me and say ‘yes’ too! Once the marriage—
 
-<!-- Source scan page: 476; printed page: 459; poor-poet's-son love vignette begins and continues directly to scan 477 / printed 460 -->
+<!-- Source scan page: 476; printed page: 459; poor-poet's-son love vignette begins; final quoted sentence is physically split after Tamil “மணம்” and continues directly to scan 477 / printed 460 -->
