@@ -1060,3 +1060,66 @@ GR3 processed **33 consecutive pages: scans 511–543 / printed 494–526**.
 - Tamil archival changes — **0**;
 - no external/published/web terminology or standard English Kural wording was imported.
 
+## Part 005 GR4 controls — scans 544–555
+
+### Chapter-label controls confirmed in the final Part 005 range
+
+No new Chapter label is first evidenced in GR4. Existing controls are reused unchanged:
+
+- Chapter 118 `கண்விதுப்பழிதல்` → **Reproaching the Eyes**;
+- Chapter 103 `குடி செயல் வகை` → **The Work of Sustaining One's House and Line**;
+- Chapter 9 `விருந்தோம்பல்` → **Hospitality**;
+- Chapter 60 `ஊக்கம் உடைமை` → **Possession of Resolve**;
+- Chapter 115 `அலர் அறிவுறுத்தல்` → **Awareness of Gossip**;
+- Chapter 89 `உட்பகை` → **Internal Enmity**.
+
+### Narrative, historical and literary controls first evidenced or reused in Part 005 GR4
+
+| Tamil | Default English form | Editorial note |
+|---|---|---|
+| அதியமான் நெடுமானஞ்சி | Athiyaman Neduman Anji | Ruler of Tagadur in scans 547–548; preserve the source name form. |
+| தகடூர் | Tagadur | Athiyaman's polity/place in scans 547–548. |
+| ஒளவை | Avvai | Poet in scans 547–548; preserve the source form without external expansion. |
+| மலர்விழி | Malarvizhi | Dancer in scans 552–553. |
+| இளநாகர் | Ilanagar | Prince named in scan 550. |
+| பூங்குன்றன் | Poonkundran | Wealthy man in scans 554–555; reuse the established project spelling **Poonkundran** without implying identity with the earlier Part-004 character of the same Tamil name. |
+
+Existing controls reused unchanged in this range include **Arima**, **Paavendhar Bharathidasan**, **Bharathidasan**, and **Purananuru**.
+
+### Source-printed lexical glosses confirmed in Part 005 GR4
+
+| Tamil | Default English | Evidence |
+|---|---|---|
+| உழந்துழந்து | grieving again and again | Source gloss `வருந்தி வருந்தி`, scan 544. |
+| மடி | laziness | Source gloss `சோம்பல்`, scan 546. |
+| அலர் | becoming known to many | Source gloss `பலர் அறிதல்`, scan 553; retain this printed gloss while the broader established lexical control still permits natural **gossip** in explanatory rendering. |
+| தமர்நீரும் | the nature of one's own circle and relatives | Source gloss `சுற்றத்தார் தன்மையும்`, scan 555. |
+
+## Part 005 GR4 reconciliation record — scans 544–555
+
+GR4 processed the **final 12 pages: scans 544–555 / printed 527–538**.
+
+- scans **544–555** — glossary / recurring-terminology reconciliation **PASS, 12/12**;
+- all **6 Chapter/Kural metadata records** in the range were checked against their audited Tamil counterparts with **0 chapter-number or Kural-number mismatches**;
+- no new Chapter-label control was required; all six metadata pages map to existing project controls;
+- controlled terminology corrections were required on **4 English page files**:
+  - scan **551** — Chapter 60 **Possession of Inner Drive → Possession of Resolve**;
+  - scan **553** — Chapter 115 **The Spreading of Rumour → Awareness of Gossip**;
+  - scans **554–555** — `Poongunran` → established project spelling **Poonkundran**;
+  - scan **555** — Chapter 89 **Inner Enmity → Internal Enmity**;
+- all **12/12** pages remain `status: "source-checked"`; this gate makes **0 status changes**;
+- incoming **543→544 GENUINE CONTINUATION** and outgoing **555→556 CLEAN / source-resolved** were preserved;
+- Tamil archival changes — **0**;
+- no external/published/web terminology or standard English Kural wording was imported.
+
+## Part 005 glossary reconciliation closure
+
+Part 005 glossary reconciliation is now **COMPLETE / CLOSED — 111/111**:
+
+- GR1 — scans **445–477 / printed 428–460 — COMPLETE / PASS 33/33**;
+- GR2 — scans **478–510 / printed 461–493 — COMPLETE / PASS 33/33**;
+- GR3 — scans **511–543 / printed 494–526 — COMPLETE / PASS 33/33**;
+- GR4 — scans **544–555 / printed 527–538 — COMPLETE / PASS 12/12 / FINAL REMAINDER**.
+
+All **111/111** English pages remain `source-checked` at glossary closure. Tamil archival records remain unchanged. The next maintained English gate is **editorial review**.
+
