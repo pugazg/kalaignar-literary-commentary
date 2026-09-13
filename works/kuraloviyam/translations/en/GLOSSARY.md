@@ -985,3 +985,78 @@ GR2 processed **33 consecutive pages: scans 478–510 / printed 461–493**.
 - Tamil archival changes — **0**;
 - no external/published/web terminology or standard English Kural wording was imported.
 
+## Part 005 GR3 controls — scans 511–543
+
+### Chapter labels first evidenced in Part 005 GR3
+
+| Tamil | Default English | Editorial note |
+|---|---|---|
+| தவம் | Austerity | Chapter 27 label on scan 517 / printed 500. |
+| நாணுடைமை | Possession of Shame | Chapter 102 label on scan 523 / printed 506. |
+| இறைமாட்சி | The Majesty of Kingship | Chapter 39 label on scan 528 / printed 511. |
+| குடி செயல்வகை / குடிசெயல்வகை / குடி செயல் வகை | The Work of Sustaining One's House and Line | Chapter 103 label on scan 532 / printed 515; the source uses spacing variants later in Part 005. |
+| கொல்லாமை | Non-Killing | Chapter 33 label on scan 536 / printed 519. |
+
+Existing controlled labels reused unchanged in GR3 are **Speaking with the Heart**, **Firmness in Action**, **Avoiding Tyrannical Severity**, **Yearning for Union**, **Gratitude**, **The Joy of Union**, **Possession of Resolve**, **Knowing the Assembly**, **Forbearance**, and **Gracious Regard**. The source-closed form `வெருவந்தசெய்யாமை` on scan 519 maps to the established Chapter 57 control **Avoiding Tyrannical Severity**.
+
+### Narrative, historical and literary controls first evidenced or reused in Part 005 GR3
+
+| Tamil | Default English form | Editorial note |
+|---|---|---|
+| எந்திழை | Enthizhai | Woman in the absent-lover vignette, scans 511–512; reuse the established English spelling without implying identity with earlier `ஏந்திழை`. |
+| ஆடற்கோ | Aadarko | Enthizhai's lover named on scan 511. |
+| வினோபா | Vinoba | Historical figure in the death-and-firmness vignette, scans 516–517; preserve the source form only. |
+| அருளாளன் | Arulalan | Pallava commander in scans 524–526. |
+| நந்திவர்மன் | Nandivarman | Pallava ruler referenced on scan 524. |
+| பரணி | Parani | Military camp name on scan 525. |
+| வழித்துணையான் | Vazhithunaiyan | Public-serving young man in scans 539–540. |
+| வயலூரான் | Vayalooran | Publicity-seeking philanthropist in scans 541–542. |
+| செம்மல் | Semmal | Young man who confronts Vayalooran in scan 542. |
+
+Existing spellings reused without implying narrative identity include **Kannan** for `கண்ணன்`. Source references to Vasudevan and Devaki in scan 532 remain source-bounded and are not expanded with external mythology.
+
+### Source-printed lexical glosses confirmed in Part 005 GR3
+
+| Tamil | Default English | Evidence |
+|---|---|---|
+| உழை | place | Source gloss `இடம்`, scan 512; reuse the existing control. |
+| சேறி | you go | Source gloss `செல்கின்றாய்`, scan 512. |
+| கூற்றம் | death | Source gloss `சாவு`, scan 517. |
+| குதித்தல் | overcoming | Source gloss `வெல்லுதல்`, scan 517. |
+| வெருவந்த | something that causes fear | Source gloss `அஞ்சிட தக்கது`, scan 519. |
+| ஒருவந்தம் | certainly | Source gloss `உறுதியாக`, scan 519. |
+| ஒல்லை | quickly | Source gloss `விரைவில்`, scan 519; reuse the existing Part-005 control. |
+| கவிகை | umbrella | Source gloss `குடை`, scan 528. |
+| கைப்ப | bitter / hateful to hear | Source gloss `வெறுக்குமாறு`, scan 528. |
+| கைதூவேன் | I will not grow weary | Source gloss `சோர்வடைய மாட்டேன்`, scan 532. |
+| உள்ளவெறுக்கை | inner rising / abundance of resolve | Source gloss `மன எழுச்சி அல்லது ஊக்க மிகுதி`, scan 534. |
+| செயிர் | disease | Source gloss `நோய்`, scan 536. |
+| செல்லா | worn down by poverty | Source gloss `வறுமையால் நலிவுற்ற`, scan 536. |
+| வான் | whiteness | Source gloss `வெண்மை`, scan 538. |
+| சுதை | lime | Source gloss `சுண்ணாம்பு`, scan 538. |
+| ஒளியார் / ஒள்ளியார் | people of knowledge | Source gloss `அறிவுடையார்`, scan 538. |
+| வெளியார் | the ignorant | Source gloss `அறிவில்லாதவர்`, scan 538. |
+| மிகுதி | arrogance | Source gloss `செருக்கு`, scan 540. |
+| மிக்கவை | evil deeds | Source gloss `தீயவை`, scan 540. |
+| தகுதியால் | by the quality of patience | Source gloss `பொறுமைப் பண்பினால்`, scan 540. |
+| கண்ணோட்டம் | grace, pity, compassion | Source gloss `அருள், இரக்கம், கருணை`, scan 542; keep distinct from the controlled Chapter 58 title **Gracious Regard**. |
+
+## Part 005 GR3 reconciliation record — scans 511–543
+
+GR3 processed **33 consecutive pages: scans 511–543 / printed 494–526**.
+
+- scans **511–543** — glossary / recurring-terminology reconciliation **PASS, 33/33**;
+- all **15 Chapter/Kural metadata records** in the range were checked against their audited Tamil counterparts with **0 chapter-number or Kural-number mismatches**;
+- five Part-005-first Chapter controls were added in this gate: **Austerity**, **Possession of Shame**, **The Majesty of Kingship**, **The Work of Sustaining One's House and Line**, and **Non-Killing**;
+- controlled terminology corrections were required on **6 English page files**:
+  - scan **519** — Chapter 57 **Avoiding Rule that Inspires Fear → Avoiding Tyrannical Severity**;
+  - scan **521** — Chapter 129 **Longing for Union → Yearning for Union**;
+  - scan **532** — source gloss `கைதூவேன் = சோர்வடைய மாட்டேன்` tightened from **I will not grow weary and withdraw → I will not grow weary**;
+  - scan **534** — Chapter 60 **Possession of Inner Drive → Possession of Resolve**;
+  - scan **540** — Chapter 16 **Possession of Forbearance → Forbearance**;
+  - scan **542** — Chapter 58 **Compassionate Regard → Gracious Regard**;
+- all **33/33** pages remain `status: "source-checked"`; this gate makes **0 status changes**;
+- incoming **510→511 CLEAN** and outgoing **543→544 GENUINE CONTINUATION** were preserved;
+- Tamil archival changes — **0**;
+- no external/published/web terminology or standard English Kural wording was imported.
+
