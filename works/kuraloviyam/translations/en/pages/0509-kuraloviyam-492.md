@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 Large upper illustration of a man against a fiery, catastrophic background.
 
-Have the blue sky and the long-waved sea mixed so completely that they have become one?
+Have the blue sky and the sea with its long waves mixed so completely that they have become one?
 
 What terrible darkness—sky-colour and sea-colour together forming a blackness that defeats night itself!
 
@@ -45,7 +45,7 @@ The whole world trembles in that writhing.
 
 That is the earthquake.
 
-The earthquake roars as volcanoes born to digest what it has swallowed.
+The earthquake roars through volcanoes, as though they had arisen to digest what it swallowed.
 
 The volcanoes pour out rivers of fire saying, “I will burn!”
 
