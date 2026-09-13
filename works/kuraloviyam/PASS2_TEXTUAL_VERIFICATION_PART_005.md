@@ -140,8 +140,36 @@ Durable correction commit:
 
 Exact compare from pre-batch `ed848ceffe2cd62549f82dece5903d1c4696572e` to correction endpoint `4902fd9fef350947103be839135a1c7d3a7c4d6e` is **ahead by 1 commit** and changes exactly **6 page files**, scans **480, 481, 482, 486, 487, 488** only.
 
+## Batch 5 — overall scans 489–499 / printed pages 472–482
+
+**Status: COMPLETE — 11 / 11 scans directly compared against rendered source.**
+
+Incoming **488→489 CLEAN** was preserved. Scan **500 / printed 483** was inspected only as the outgoing witness and confirms **499→500 GENUINE CONTINUATION**: scan 499 opens the public-gaze / concealed-love exchange and scan 500 directly continues that exchange before closing Chapter 114 / Kural 1138.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 489 | 472 | direct textual comparison complete; no correction required; ill-gotten-wealth vignette continues into 490 |
+| 490 | 473 | corrected Kural wording `பொருள்செய்து ஏமார்த்தல்` → source-visible `பொருள்செய்தே மார்த்தல்`; Chapter 66 / Kural 660 and all three source glosses confirmed |
+| 491 | 474 | direct textual comparison complete; no correction required; lovers/eyes-and-heart vignette continues into 492 |
+| 492 | 475 | corrected `எப்போது பாயுமோ என்பதென்று எதிர்பார்த்து` → source-visible `எப்போது பாயுமோ என்பது என்று எதிர்பார்த்து`; Chapter 117 / Kural 1166 and source gloss confirmed |
+| 493 | 476 | corrected `இப்படியொரு திடுக்கத்தை` → source-visible `இப்படியொரு திடீர்க்கதையை`; Valluvar/ignorant-pretender vignette continues into 494 |
+| 494 | 477 | direct textual comparison complete; no correction required; Chapter 41 / Kural 402 confirmed |
+| 495 | 478 | direct textual comparison complete; no correction required; mother-son reconciliation vignette continues into 496 |
+| 496 | 479 | direct textual comparison complete; no correction required; Chapter 8 / Kural 71 and source gloss confirmed |
+| 497 | 480 | direct textual comparison complete; no correction required; elephant-trap analogy continues into 498 |
+| 498 | 481 | direct textual comparison complete; no correction required; Chapter 68 / Kural 678 confirmed |
+| 499 | 482 | direct textual comparison complete; no correction required; scan 500 witness confirms genuine continuation |
+
+Batch 5 correction summary: **3 records corrected; 8 records required no textual change; 4 source-supported readings corrected in total**.
+
+Durable correction commit:
+
+`5d9478576f4296e34338447145c518686cd925af` — `kuraloviyam: Pass 2A verify Part 005 scans 489-499`
+
+Exact compare from pre-batch `3a1091cbe8998652a58c97f7d4d6556e4ffb617b` to correction endpoint `5d9478576f4296e34338447145c518686cd925af` is **ahead by 1 commit** and changes exactly **3 page files**, scans **490, 492, 493** only.
+
 ## Current gate
 
-Part 005 Pass 2A: **44/111 complete**.
+Part 005 Pass 2A: **55/111 complete**.
 
-Next: **Batch 5 / scans 489–499 / printed 472–482**, preserving incoming **488→489 CLEAN** and inspecting scan **500 / printed 483** only as the outgoing witness when required.
+Next: **Batch 6 / scans 500–510 / printed 483–493**, preserving incoming **499→500 GENUINE CONTINUATION** and inspecting scan **511 / printed 494** only as the outgoing witness when required.

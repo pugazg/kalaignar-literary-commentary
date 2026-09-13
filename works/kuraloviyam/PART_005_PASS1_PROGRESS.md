@@ -465,4 +465,4 @@ Exact page-only compare from pre-batch `ede8f2e8f950359abe2da5d3c9db116c0d04f71a
 
 Part 005 Pass 1: **COMPLETE — 111/111 captured**.
 
-Downstream Pass 2A Batches 1–4 are now **COMPLETE — 44/111 verified**. Durable Pass-2A record: `PASS2_TEXTUAL_VERIFICATION_PART_005.md`. Current next frontier: **Pass 2A Batch 5 / scans 489–499 / printed 472–482**. Do not promote final textual/visual status during Pass 2A.
+Downstream Pass 2A Batches 1–5 are now **COMPLETE — 55/111 verified**. Durable Pass-2A record: `PASS2_TEXTUAL_VERIFICATION_PART_005.md`. Current next frontier: **Pass 2A Batch 6 / scans 500–510 / printed 483–493**. Do not promote final textual/visual status during Pass 2A.
