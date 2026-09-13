@@ -962,8 +962,36 @@ Whole-Part audit:
 
 A stale duplicated pre-editorial state block was removed from this control document during post-gate synchronization; the page layer itself required no remediation.
 
+## Part 005 English release — APPROVED / CLOSED
+
+Durable report: `reviews/PART_005_ENGLISH_RELEASE_REPORT.md`.
+
+Release promotion:
+
+- base — `af50dbf8b6ab54e456d87b10cfdcd094e6d3a516`;
+- endpoint — `3d35d4c67f17f77b8ff5de036a8a3989ec088a78`;
+- exact compare — **19 commits ahead / non-divergent**;
+- changed files — **111**;
+- all changed files — Part 005 English page records only, scans **445–555**;
+- non-page/control files changed during promotion — **0**;
+- per-file diff shape — **+1 / -1**;
+- page mutation — `status: "editorial-reviewed"` → `status: "release-ready"` only;
+- approved English wording changes — **0**;
+- Tamil / glossary / metadata / visual changes — **0**.
+
+Final Part-005 English state:
+
+- `release-ready` — **111**;
+- `editorial-reviewed` — **0**;
+- `source-checked` — **0**;
+- `draft` — **0**;
+- `source-limited` — **0**;
+- `blocked` — **0**.
+
+Incoming **444→445 GENUINE CONTINUATION / source-resolved** and outgoing **555→556 CLEAN / source-resolved** remain preserved.
+
 ## Exact next English activity
 
-**Part 005 English release report / release approval.**
+**Part 005 final closure checkpoint / documentation confirmation.**
 
-Create `reviews/PART_005_ENGLISH_RELEASE_REPORT.md` using `reviews/PART_005_ENGLISH_REVIEW.md` as the authoritative prior gate. If release is approved, promote all **111/111** eligible English records from `editorial-reviewed` to `release-ready` by **status-token-only** changes, then perform an exact compare proving exactly **111 English page files** changed and **0 Tamil/control files** changed during promotion.
+Perform a no-page-change checkpoint. Confirm Tamil remains **ARCHIVAL-READY / CLOSED 111/111**, English remains **111/111 release-ready**, all maintained English gates are durably closed, the release report remains approved, and no wording/status drift occurred after promotion. If PASS, create the durable Part-005 final-closure record and only then activate Part 006.

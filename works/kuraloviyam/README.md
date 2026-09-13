@@ -326,7 +326,12 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - Part-level English review — **PASS / CLOSED**;
 - review record — `translations/en/reviews/PART_005_ENGLISH_REVIEW.md`;
 - review audit — **111/111 aligned English pages / 111 editorial-reviewed / 54 metadata pages / 55 Kural citations / 53 visual-material pages / 0 page-layer changes**;
-- current English state — **0 source-checked / 0 draft / 111 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
+- English release — **APPROVED / CLOSED — 111/111 release-ready**;
+- release report — `translations/en/reviews/PART_005_ENGLISH_RELEASE_REPORT.md`;
+- release promotion base — `af50dbf8b6ab54e456d87b10cfdcd094e6d3a516`;
+- release promotion endpoint — `3d35d4c67f17f77b8ff5de036a8a3989ec088a78`;
+- release promotion audit — **19 commits / exactly 111 English page files / +1,-1 each / 0 non-page files / status-token-only**;
+- current English state — **0 source-checked / 0 draft / 0 editorial-reviewed / 111 release-ready / 0 source-limited / 0 blocked**;
 - SC4 source-fidelity corrections — **4 pages / scans 549, 550, 553, 555**;
 - SC4 page-layer audit — **12 modified English page records / 0 Tamil changes / 0 control-file changes**;
 - **555→556 CLEAN**.
@@ -340,4 +345,4 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 
 ## Current frontier
 
-**Part 005 English release report / release approval.**
+**Part 005 final closure checkpoint / documentation confirmation.**

@@ -628,6 +628,21 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - Tamil changes during Part review — **0**;
 - incoming **444→445 GENUINE CONTINUATION / source-resolved** preserved;
 - outgoing **555→556 CLEAN / source-resolved** preserved.
+
+## Part 005 English release
+
+- release decision — **APPROVED / CLOSED**;
+- release report — `translations/en/reviews/PART_005_ENGLISH_RELEASE_REPORT.md`;
+- promotion base — `af50dbf8b6ab54e456d87b10cfdcd094e6d3a516`;
+- promotion endpoint — `3d35d4c67f17f77b8ff5de036a8a3989ec088a78`;
+- exact promotion compare — **19 commits ahead / non-divergent / exactly 111 English page files / 0 non-page files**;
+- per-file diff shape — **+1 / -1 each**;
+- release mutation — **editorial-reviewed → release-ready status token only**;
+- approved English wording changes — **0**;
+- Tamil / glossary / metadata / visual changes — **0**;
+- final English state — **111 release-ready / 0 editorial-reviewed / 0 source-checked / 0 draft / 0 source-limited / 0 blocked**;
+- incoming **444→445 GENUINE CONTINUATION / source-resolved** preserved;
+- outgoing **555→556 CLEAN / source-resolved** preserved.
 - SC4 endpoint — `113846a357544a33b73d727d20115471f2f3411f`;
 - SC4 exact page-layer compare — **12 modified English page files only**;
 - fidelity corrections — **4 page files / scans 549, 550, 553, 555**;
@@ -636,4 +651,4 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 ## Current frontier
 
-**Part 005 English release report / release approval.**
+**Part 005 final closure checkpoint / documentation confirmation.**
