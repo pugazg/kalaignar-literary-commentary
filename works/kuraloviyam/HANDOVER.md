@@ -175,11 +175,12 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - P5-06 — **500–510 / printed 483–493 — COMPLETE 11/11**;
 - P5-07 — **511–521 / printed 494–504 — COMPLETE 11/11**;
 - P5-08 — **522–532 / printed 505–515 — COMPLETE 11/11**;
-- cumulative Pass 1 — **88/111**;
-- P5-08 page endpoint — `ffc9e8654f1c0f9b3a9e9cd3dfff6aa49ca94291`;
-- current statuses — **88 needs-review / 88 visual needs-review**;
-- **532→533 CLEAN**;
-- next batch — **P5-09 / scans 533–543 / printed 516–526**.
+- P5-09 — **533–543 / printed 516–526 — COMPLETE 11/11**;
+- cumulative Pass 1 — **99/111**;
+- P5-09 page endpoint — `15166ed1fd6d0a8997daff2da1e32faf2ab28a05`;
+- current statuses — **99 needs-review / 99 visual needs-review**;
+- **543→544 GENUINE CONTINUATION**;
+- next batch — **P5-10 / scans 544–554 / printed 527–537**.
 
 ## Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -189,4 +190,4 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ## Exact next activity
 
-Proceed with **P5-09 / scans 533–543 / printed 516–526**. Use scan 544 only as a boundary witness if needed and do not start Part 006 transcription.
+Proceed with **P5-10 / scans 544–554 / printed 527–537**. Preserve the incoming **543→544 GENUINE CONTINUATION** boundary, use scan 555 only as a boundary witness if needed, and do not start Part 006 transcription.

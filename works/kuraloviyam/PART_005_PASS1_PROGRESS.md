@@ -374,8 +374,51 @@ Exact page-only compare from pre-batch `8da4a740fea28c19e8ce5e582da3c11e8be663ab
 - Parts 001–004 remain untouched;
 - Part 006 remains transcription-inactive.
 
+## P5-09 state
+
+**11 / 11 page records captured — COMPLETE.**
+
+P5-09 scans **533–543 / printed 516–526** are captured as one page-aligned Tamil Pass-1 record per physical scan. All 11 records carry:
+
+- `part: 5`;
+- `part_page: 89–99`;
+- exact scan/printed-page mappings;
+- `status: "needs-review"`;
+- `visual_fidelity: "needs-review"`;
+- the exact Part 005 source filename.
+
+Batch page-layer commit:
+
+`15166ed1fd6d0a8997daff2da1e32faf2ab28a05` — `kuraloviyam: Capture Part 005 Pass 1 scans 533-543`
+
+Exact page-only compare from pre-batch `60555516a53d739876ceefa8fe7d76d98b676373` to page endpoint `15166ed1fd6d0a8997daff2da1e32faf2ab28a05` is **ahead by 1 commit** and changes exactly **11 files**, all and only scans **533–543**.
+
+## P5-09 continuity map
+
+- **532→533 — CLEAN**; preserved from the prior outgoing witness; scan 533 begins the opulence / `ஊக்கம் உடைமை` vignette;
+- **533→534 — GENUINE CONTINUATION**; scan 534 closes Chapter 60 / Kural 600;
+- **534→535 — CLEAN**; scan 535 begins the death-penalty / non-killing vignette;
+- **535→536 — GENUINE CONTINUATION**; scan 536 closes Chapter 33 / Kural 330;
+- **536→537 — CLEAN**; scan 537 begins the milk / lime analogy;
+- **537→538 — GENUINE CONTINUATION**; scan 538 closes Chapter 72 / Kural 714;
+- **538→539 — CLEAN**; scan 539 begins the `வழித்துணையான்` / `வழிப்பறியான்` vignette;
+- **539→540 — GENUINE CONTINUATION**; scan 540 closes Chapter 16 / Kural 158;
+- **540→541 — CLEAN**; scan 541 begins the `வயலூரான்` / compassion-and-sight vignette;
+- **541→542 — GENUINE CONTINUATION**; scan 542 closes Chapter 58 / Kural 573;
+- **542→543 — CLEAN**; scan 543 begins the lovers' eye/self-reproach vignette;
+- **543→544 — GENUINE CONTINUATION**, directly checked from scan 544 / printed 527. Scan 544 continues and closes the unit with Chapter 118 / Kural 1177; scan 544 was not created in P5-09.
+
+## P5-09 structural notes
+
+- all 11 page records remain `needs-review` / visual `needs-review`;
+- Kural blocks and source glosses remain distinct from surrounding prose;
+- illustrations remain represented in `visual_notes`;
+- no page record outside scans 533–543 changed in the page-layer commit;
+- Parts 001–004 remain untouched;
+- Part 006 remains transcription-inactive.
+
 ## Current gate
 
-Part 005 Pass 1: **88/111 captured**.
+Part 005 Pass 1: **99/111 captured**.
 
-Next: **P5-09 / scans 533–543 / printed 516–526**, using scan **544 / printed 527** only as a boundary witness when required.
+Next: **P5-10 / scans 544–554 / printed 527–537**, preserving the incoming **543→544 GENUINE CONTINUATION** and using scan **555 / printed 538** only as a boundary witness when required.
