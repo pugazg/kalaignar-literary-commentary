@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -39,7 +39,7 @@ their lips danced softly.
 
 Even in that journey through the city of delight, they worried that the city of sorrow called separation might cross their path.
 
-> Pleasure is an ocean; but when love is restrained,  
+> Pleasure is an ocean; but when love causes suffering,  
 > its sorrow grows greater than that sea.
 
 Chapter 117 — Lamenting in Wasting Longing; Kural 1166
