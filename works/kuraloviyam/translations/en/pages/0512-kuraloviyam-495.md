@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-“—little goat is nowhere to be found! I am suffering from searching. Have you seen it?”
+“—little goat is nowhere to be found! I have been searching everywhere in distress. Have you seen it?”
 
 Even in her sorrow Enthizhai could not suppress a laugh.
 

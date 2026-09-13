@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -29,8 +29,8 @@ would die of fear.
 
 But he—
 
-while steeped in military training itself  
-had cast away the thing called fear.
+through military training itself  
+had cast away fear.
 
 So he walked—walked—  
 kept on walking!
@@ -40,7 +40,7 @@ A snake wound itself around his leg.
 He lifted it away  
 as though it were a tender creeper,  
 kept his eyes upon the path,  
-and travelled through the ruined forest.
+and travelled through the desolate forest.
 
 The sky began to spit rain.
 

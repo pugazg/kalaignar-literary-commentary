@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 Large upper illustration of an elderly ill man in bed refusing medicine offered by an attendant.
 
-There can be no two opinions that Vinoba was an heir to the Gandhian path in this century.
+There can be no doubt that Vinoba was an heir to the Gandhian path in this century.
 
 Many may have differed from his ideas, but all of them respected the firmness of his mind.
 
@@ -31,7 +31,7 @@ His devoted students, relatives, and even those who governed the country pleaded
 
 “Take the finest medicines. Accept treatment from the great masters of medicine.”
 
-But he said he would instead give place to death, which was slowly swallowing his life.
+But he said he would instead make way for death, which was slowly swallowing his life.
 
 Like a mountain python that has taken a milk-giving cow into its mouth and swallows it little by little, death began to swallow that firm-hearted—
 
