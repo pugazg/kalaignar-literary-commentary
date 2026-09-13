@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 005 English editorial review 66/111; ER3 scans 511–543 next**: **2026-09-13**.
+Last refreshed for Kuraloviyam **Part 005 English editorial review COMPLETE / CLOSED 111/111; Part-level English review next**: **2026-09-13**.
 
 ## Repository
 
@@ -395,8 +395,17 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - ER2 endpoint — `ffd62952cf06cf2581768603e720c836996f6d5d`;
 - exact ER2 compare from `a82aeaf53eeea125d2c60ba8b7a51e8dc486e9c8` to `ffd62952cf06cf2581768603e720c836996f6d5d` — **6 commits ahead / exactly 33 modified English page files / 0 Tamil changes / 33 status promotions**;
 - ER2 source-faithful readability refinements — **12 page files / scans 478, 484, 490, 491, 493, 495, 496, 501, 503, 506, 507, 509**;
-- current Part-005 English state — **45 source-checked / 0 draft / 66 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
-- next maintained English gate — **Editorial review ER3 / scans 511–543 / printed 494–526 — 33 pages**.
+- English editorial review ER3 — **511–543 / printed 494–526 — COMPLETE / PASS 33/33**;
+- ER3 endpoint — `048ceaad4cf6efc8dd7a4b293f4f63bfc3bf548d`;
+- exact ER3 compare from `04a1ed0e556a4fed60795bc31216dd4c5c6d2b62` — **6 commits ahead / exactly 33 modified English page files / 0 Tamil changes / 33 status promotions**;
+- ER3 source-faithful readability refinements — **19 page files / scans 512, 514, 516, 519, 522, 523, 525, 526, 528, 530, 531, 532, 534, 535, 536, 539, 540, 541, 542**;
+- English editorial review ER4 final remainder — **544–555 / printed 527–538 — COMPLETE / PASS 12/12**;
+- ER4 endpoint — `cde07e0d6a633cb66b7f42039cf9bdb82e2af12d`;
+- exact ER4 compare from `048ceaad4cf6efc8dd7a4b293f4f63bfc3bf548d` — **2 commits ahead / exactly 12 modified English page files / 0 Tamil changes / 12 status promotions**;
+- ER4 source-faithful readability refinements — **6 page files / scans 547, 550, 551, 552, 553, 554**;
+- Part-005 English editorial review — **COMPLETE / CLOSED 111/111**;
+- current Part-005 English state — **0 source-checked / 0 draft / 111 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
+- next maintained English gate — **Part-level English review / scans 445–555 / printed 428–538 — 111 pages**.
 
 ### Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -407,4 +416,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Continue **Part 005 English editorial review ER3 — scans 511–543 / printed 494–526 — 33 pages**. Perform a source-faithful English readability/editorial pass against the audited Tamil records while preserving project-created translation identity, page alignment, Kural quotation blocks, controlled glossary terminology, Chapter/Kural metadata, visual material and established continuities. Make only source-supported readability/style refinements; do not import published/web/standard English Kural wording or terminology. Passing pages move from `source-checked` to `editorial-reviewed`. Preserve incoming **510→511 CLEAN** and outgoing **543→544 GENUINE CONTINUATION**. Part 006 remains blocked.
+Proceed with **Part 005 Part-level English review — scans 445–555 / printed 428–538 — 111 pages**. Audit the completed project-created English as one Part against the audited Tamil authority and maintained glossary: whole-Part consistency, names and controlled terminology, Chapter/Kural metadata, Kural blocks, source glosses, visual/page alignment, and all established cross-page continuities. Do not import published/web/standard English Kural wording or terminology. Do not promote page statuses during Part review; passing pages remain `editorial-reviewed` until the release-report / release-ready gate. Preserve incoming **444→445 GENUINE CONTINUATION / source-resolved** and outgoing **555→556 CLEAN / source-resolved**. Part 006 remains blocked.

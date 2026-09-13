@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 005 English Editorial Review ER3
+# NEXT CHAT PROMPT — குறளோவியம் / Part 005 Part-level English Review
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -10,7 +10,7 @@ Part 005 Tamil is:
 
 **ARCHIVAL-READY / CLOSED — 111/111 textual verified + 111/111 visual verified / 0 exceptions.**
 
-Use the audited Tamil page records under `works/kuraloviyam/pages/` as the authority for editorial review. Reopen the original scan only if a genuinely new provenance/fidelity issue arises.
+Use the audited Tamil page records under `works/kuraloviyam/pages/` as the authority. Reopen the original scan only if a genuinely new provenance/fidelity issue arises.
 
 ## English workflow
 
@@ -20,71 +20,76 @@ Permanent gate order:
 
 **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**
 
-Normal page-batched cadence: **33 physical scan pages**; final remainders may be shorter.
+## Completed English gates
 
-## English drafting — COMPLETE / CLOSED 111/111
+- drafting — **COMPLETE / CLOSED 111/111**;
+- source-check — **COMPLETE / CLOSED 111/111**;
+- glossary reconciliation — **COMPLETE / CLOSED 111/111**;
+- editorial review — **COMPLETE / CLOSED 111/111**.
 
-## English source-check — COMPLETE / CLOSED 111/111
+### Editorial Review ER1
+- scans **445–477 / printed 428–460 — COMPLETE / PASS 33/33**.
 
-## English glossary reconciliation — COMPLETE / CLOSED 111/111
+### Editorial Review ER2
+- scans **478–510 / printed 461–493 — COMPLETE / PASS 33/33**.
 
-## English editorial review — IN PROGRESS 66/111
+### Editorial Review ER3
+- scans **511–543 / printed 494–526 — COMPLETE / PASS 33/33**;
+- pre-ER3 checkpoint — `04a1ed0e556a4fed60795bc31216dd4c5c6d2b62`;
+- ER3 endpoint — `048ceaad4cf6efc8dd7a4b293f4f63bfc3bf548d`;
+- exact compare — **6 commits ahead / non-divergent / exactly 33 modified English page files / 0 Tamil changes**;
+- all **33/33** pages promoted `source-checked → editorial-reviewed`;
+- source-faithful readability refinements on **19 page files**:
+  **512, 514, 516, 519, 522, 523, 525, 526, 528, 530, 531, 532, 534, 535, 536, 539, 540, 541, 542**;
+- incoming **510→511 CLEAN** and outgoing **543→544 GENUINE CONTINUATION** preserved.
 
-### ER1 — COMPLETE / PASS 33/33
+### Editorial Review ER4 — final remainder
+- scans **544–555 / printed 527–538 — COMPLETE / PASS 12/12**;
+- pre-ER4 checkpoint — `048ceaad4cf6efc8dd7a4b293f4f63bfc3bf548d`;
+- ER4 endpoint — `cde07e0d6a633cb66b7f42039cf9bdb82e2af12d`;
+- exact compare — **2 commits ahead / non-divergent / exactly 12 modified English page files / 0 Tamil changes**;
+- all **12/12** pages promoted `source-checked → editorial-reviewed`;
+- source-faithful readability refinements on **6 page files**:
+  **547, 550, 551, 552, 553, 554**;
+- incoming **543→544 GENUINE CONTINUATION** and outgoing **555→556 CLEAN / source-resolved** preserved.
 
-- scans **445–477 / printed 428–460**;
-- endpoint — `7e9c90a4109cd8a627d3d31bde74d226100c9aba`;
-- exactly **33 English page files** changed;
-- **33/33** status promotions to `editorial-reviewed`;
-- source-faithful readability refinements on **9 page files**;
-- Tamil changes — **0**.
-
-### ER2 — COMPLETE / PASS 33/33
-
-- scans **478–510 / printed 461–493**;
-- pre-ER2 checkpoint — `a82aeaf53eeea125d2c60ba8b7a51e8dc486e9c8`;
-- ER2 endpoint — `ffd62952cf06cf2581768603e720c836996f6d5d`;
-- exact compare:
-  - **6 commits ahead / non-divergent**;
-  - exactly **33 modified English page files**;
-  - Tamil changes — **0**;
-  - all **33/33** pages promoted `source-checked → editorial-reviewed`;
-- source-faithful readability refinements on **12 page files**:
-  - **478, 484, 490, 491, 493, 495, 496, 501, 503, 506, 507, 509**;
-- Kural blocks, Chapter/Kural metadata, controlled glossary terms, source-printed glosses, visuals and page boundaries preserved;
-- incoming **477→478 CLEAN** preserved;
-- outgoing **510→511 CLEAN** preserved;
-- no published/web/standard English Kural wording or terminology imported.
+No published, standard, web or remembered English Kural wording or terminology was imported during editorial review.
 
 Current Part-005 English page state:
 
-- `editorial-reviewed` — **66**;
-- `source-checked` — **45**;
+- `editorial-reviewed` — **111**;
+- `source-checked` — **0**;
 - `draft` — **0**;
 - `release-ready` — **0**;
 - `source-limited` — **0**;
 - `blocked` — **0**.
 
-## Exact next activity — Editorial Review ER3
+## Exact next activity — Part-level English Review
 
-Review:
+Review the completed Part as a whole:
 
-**scans 511–543 / printed 494–526 — 33 pages**.
+**scans 445–555 / printed 428–538 — 111 pages**.
 
-For each English record:
+Audit:
 
-- compare the English directly against the audited Tamil page record;
-- improve awkward, overly literal or unclear English only where the Tamil supports the refinement;
-- preserve project-created translation identity;
-- preserve all controlled terms in `translations/en/GLOSSARY.md`;
-- preserve Kural quotation blocks, Chapter/Kural numbers, source-printed glosses, scan/printed-page alignment, visuals and physical-page boundaries;
-- preserve established cross-page continuities;
+- whole-Part consistency against the audited Tamil records;
+- controlled terminology and names against `works/kuraloviyam/translations/en/GLOSSARY.md`;
+- Chapter/Kural numbers and controlled Chapter labels;
+- Kural quotation blocks and source-printed glosses;
+- scan / printed-page alignment and visual material;
+- all cross-page continuities and clean boundaries;
+- project-created translation identity and internal English consistency.
+
+Rules:
+
 - do not import publisher, standard, web or remembered English Kural wording or terminology;
-- passing records move from `status: "source-checked"` to `status: "editorial-reviewed"`.
+- do not reopen Tamil archival records unless a genuinely new source-fidelity issue is found;
+- do not promote page statuses during Part review; passing pages remain `editorial-reviewed`;
+- if Part review passes, create the durable Part-005 English review record and advance to the release-report gate.
 
 Boundary discipline:
 
-- incoming **510→511 — CLEAN**;
-- outgoing **543→544 — GENUINE CONTINUATION**.
+- incoming **444→445 — GENUINE CONTINUATION / source-resolved**;
+- outgoing **555→556 — CLEAN / source-resolved**.
 
-Part 006 remains transcription-inactive until Part 005 completes editorial review, Part review, release report, release-ready promotion and final Part closure.
+Part 006 remains transcription-inactive until Part 005 completes Part review, release report, release-ready promotion and final Part closure.
