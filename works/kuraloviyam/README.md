@@ -296,9 +296,10 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - durable Tamil archival-ready record — `PART_005_TAMIL_ARCHIVAL_READY.md`;
 - English Draft D1 — **445–477 / printed 428–460 — COMPLETE 33/33**;
 - English Draft D2 — **478–510 / printed 461–493 — COMPLETE 33/33**;
-- Part-005 English drafting — **66/111 complete / 45 remaining**;
-- current English state — **66 draft / 0 source-checked / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
-- D2 page-only audit — **exactly 33 added English page records / 0 Tamil changes**;
+- English Draft D3 — **511–543 / printed 494–526 — COMPLETE 33/33**;
+- Part-005 English drafting — **99/111 complete / 12 remaining**;
+- current English state — **99 draft / 0 source-checked / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
+- D3 page-only audit — **exactly 33 added English page records / 0 Tamil changes**;
 - **555→556 CLEAN**.
 
 ## Part 006 — SOURCE-READY / WAITING
@@ -310,4 +311,4 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 
 ## Current frontier
 
-**Part 005 English Draft D3 — scans 511–543 / printed 494–526 — 33 pages.**
+**Part 005 English Draft D4 final remainder — scans 544–555 / printed 527–538 — 12 pages.**

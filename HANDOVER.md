@@ -328,8 +328,12 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - cumulative Part-005 English drafting — **66/111 draft records created; 45 remaining**;
 - D2 page commits — `fb636ec87218a80927b8a8ca652ea252ab4ddc67`, `969dfd9139045b1e6d21cd8adce29dcb94360fc0`, `944813bb74d3fc344757a7eedf5f18d9d427c8fe`;
 - exact D2 compare from `9ce71687265347c7646e9d605760e6b74202dae6` to `944813bb74d3fc344757a7eedf5f18d9d427c8fe` — **3 commits ahead / exactly 33 added English page files / 0 Tamil or control-file changes**;
-- current Part-005 English state — **66 draft / 0 source-checked / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
-- next maintained content stage — **Part 005 English Draft Batch D3 / scans 511–543 / printed 494–526 — 33 pages**.
+- English Draft D3 — **511–543 / printed 494–526 — COMPLETE 33/33**;
+- cumulative Part-005 English drafting — **99/111 draft records created; 12 remaining**;
+- D3 page commits — `331d6e41e8155457f8bcea18e101eb5f1fe13e6f`, `6d5388ec95a14e552c348cecfb73fab440f8f135`, `eb8d8695df77bfc82bace2de775431ed9dd6b5e3`;
+- exact D3 compare from `f5adde228fbc2a3af2123016f75e0aab8ba9f120` to `eb8d8695df77bfc82bace2de775431ed9dd6b5e3` — **3 commits ahead / exactly 33 added English page files / 0 Tamil or control-file changes**;
+- current Part-005 English state — **99 draft / 0 source-checked / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
+- next maintained content stage — **Part 005 English Draft Batch D4 final remainder / scans 544–555 / printed 527–538 — 12 pages**.
 
 ### Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -340,4 +344,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Continue the maintained **Part 005 English first-pass drafting** with **Draft Batch D3 — scans 511–543 / printed 494–526 — 33 page-aligned records**. Preserve incoming **510→511 CLEAN**. Use the archival-ready Tamil records as the normal working authority; do not reopen the PDF unless a genuinely new provenance/fidelity issue requires it. Keep new records at `draft`; preserve Kural block separation, Chapter/Kural metadata, visual/non-body material and continuations. Do not import published/web/standard English wording. Part 006 remains blocked.
+Complete the maintained **Part 005 English first-pass drafting** with **Draft Batch D4 final remainder — scans 544–555 / printed 527–538 — 12 page-aligned records**. Preserve incoming **543→544 GENUINE CONTINUATION** and outgoing Part boundary **555→556 CLEAN / source-resolved**. Use the archival-ready Tamil records as normal authority; keep new records at `draft`, preserve Kural blocks, metadata, visual/non-body material and continuations, and do not import external English wording. Part 006 remains blocked.
