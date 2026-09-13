@@ -75,7 +75,7 @@ Workflow batch edges must never create artificial textual boundaries. Inspect th
 
 **Part 005 source intake: COMPLETE / PASS.**
 
-Pass 1 is **COMPLETE**; Pass 2A is **COMPLETE / PASS**; Pass 2B is **COMPLETE / PASS — 111/111**; Pass 3 is **COMPLETE / PASS — 111/111**; Part audit is **PASS / COMPLETE**; final metadata/status synchronization is **PASS / CLOSED — 111/111 textual verified and 111/111 visual verified**; documentation synchronization is **NEXT**.
+Pass 1 is **COMPLETE**; Pass 2A is **COMPLETE / PASS**; Pass 2B is **COMPLETE / PASS — 111/111**; Pass 3 is **COMPLETE / PASS — 111/111**; Part audit is **PASS / COMPLETE**; final metadata/status synchronization is **PASS / CLOSED — 111/111 textual verified and 111/111 visual verified**; documentation synchronization is **COMPLETE / PASS**; Tamil archival-ready checkpoint is **NEXT**.
 
 - P5-01 / scans **445–455 / printed 428–438** — **COMPLETE 11/11**;
 - P5-02 / scans **456–466 / printed 439–449** — **COMPLETE 11/11**;
@@ -185,4 +185,4 @@ Pass 1 is **COMPLETE**; Pass 2A is **COMPLETE / PASS**; Pass 2B is **COMPLETE / 
 - Pass 3 — **COMPLETE / PASS 111/111**;
 - Pass 3 log — `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_005.md`.
 
-Audit result: **PASS / COMPLETE**. Final metadata/status synchronization is **PASS / CLOSED**: all 111 records are now textual `verified` and visual `verified`; the metadata-only promotion changed exactly 111 expected page files, each +2/-2, and 0 non-page files. Next: **Part 005 documentation synchronization**, with no page-record changes.
+Audit result: **PASS / COMPLETE**. Final metadata/status synchronization is **PASS / CLOSED**: all 111 records are textual `verified` and visual `verified`. Documentation synchronization is **COMPLETE / PASS** and changed **0 page records**. Next: the separate **Part 005 Tamil archival-ready checkpoint**.

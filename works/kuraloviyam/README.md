@@ -288,6 +288,9 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - final visual fidelity — **111/111 verified**;
 - final status exceptions — **0**;
 - metadata-only promotion diff — **111 page files only / each +2,-2 / 0 non-page files**;
+- documentation synchronization — **COMPLETE / PASS**;
+- documentation-only sync page-record changes — **0**;
+- durable documentation-sync record — `PART_005_DOCUMENTATION_SYNC.md`;
 - **555→556 CLEAN**.
 
 ## Part 006 — SOURCE-READY / WAITING
@@ -299,4 +302,4 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 
 ## Current frontier
 
-**Part 005 documentation synchronization.**
+**Part 005 Tamil archival-ready checkpoint.**

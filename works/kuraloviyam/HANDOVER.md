@@ -285,7 +285,10 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - status-sync compare — **111 page files only, each +2/-2; 0 non-page files**;
 - durable audit — `works/kuraloviyam/PART_005_AUDIT.md`;
 - durable final-status record — `works/kuraloviyam/PART_005_FINAL_STATUS_SYNC.md`;
-- next gate — **Part 005 documentation synchronization**.
+- documentation synchronization — **COMPLETE / PASS**;
+- documentation-only sync changed **0 page records**;
+- durable documentation-sync record — `works/kuraloviyam/PART_005_DOCUMENTATION_SYNC.md`;
+- next gate — **Part 005 Tamil archival-ready checkpoint**.
 
 ## Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -295,4 +298,4 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ## Exact next activity
 
-Proceed with **Part 005 documentation synchronization**. Reconcile live control files to final **111/111 textual verified / 111/111 visual verified**, with all Tamil verification gates through final status sync closed. Documentation-only; modify no page record. Then move to the separate Tamil archival-ready checkpoint. Do not start Part 006 transcription.
+Proceed with the **Part 005 Tamil archival-ready checkpoint**. Confirm the closed evidence chain through documentation synchronization, final **111/111 textual verified / 111/111 visual verified**, and **0 status exceptions**. This checkpoint must modify no page record. Do not start Part 006 transcription.

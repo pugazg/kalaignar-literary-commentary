@@ -313,7 +313,11 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - final visual fidelity — **111 verified / 0 needs-review**;
 - metadata-only promotion changed exactly **111 Part-005 page files**, each **+2/-2**, and no non-page file;
 - durable audit — `works/kuraloviyam/PART_005_AUDIT.md`;
-- durable final-status record — `works/kuraloviyam/PART_005_FINAL_STATUS_SYNC.md`.
+- durable final-status record — `works/kuraloviyam/PART_005_FINAL_STATUS_SYNC.md`;
+- documentation synchronization — **COMPLETE / PASS**;
+- documentation-only sync changed **0 page records**;
+- durable documentation-sync record — `works/kuraloviyam/PART_005_DOCUMENTATION_SYNC.md`;
+- next Tamil gate — **Part 005 Tamil archival-ready checkpoint**.
 
 ### Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -324,4 +328,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Proceed with **Part 005 documentation synchronization**. Reconcile all live Part-005 control documents to the now-closed Tamil verification/status state: Source Intake + Pass 1 + Pass 2A + Pass 2B + Pass 3 + Part audit + final status sync all closed; textual status **111/111 verified** and visual fidelity **111/111 verified**. Documentation-only: change no page record. Then move to the separate Tamil archival-ready checkpoint. Do not begin Part 006 transcription.
+Proceed with the **Part 005 Tamil archival-ready checkpoint**. Confirm the closed evidence chain through documentation synchronization, final **111/111 textual verified / 111/111 visual verified**, **0 status exceptions**, source-resolved **444→445 GENUINE CONTINUATION** and **555→556 CLEAN**, and that documentation synchronization changed **0 page records**. This checkpoint must not alter page records. Do not begin Part 006 transcription until the Part-005 workflow permits it.

@@ -1,64 +1,60 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 005 Documentation Synchronization
+# NEXT CHAT PROMPT — குறளோவியம் / Part 005 Tamil Archival-Ready Checkpoint
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
 Parts **001–004 remain closed**. Do not reopen them.
 
-## Part 005 closed Tamil verification state
-
-Controlling source:
+## Part 005 controlling source
 
 `TVA_BOK_0065733_குறளோவியம்_part_005_pages_445-555.pdf`
 
-- physical scans — **445–555 / 111 pages**;
+- overall scans — **445–555**;
 - local Part pages — **1–111**;
 - printed pages — **428–538**;
-- Source Intake — **PASS / COMPLETE**;
-- Pass 1 — **COMPLETE 111/111**;
-- Pass 2A — **COMPLETE / PASS 111/111**;
-- Pass 2B — **COMPLETE / PASS 111/111**;
-- Pass 3 — **COMPLETE / PASS 111/111**;
+- physical pages — **111**.
+
+## Closed Tamil evidence chain
+
+- source intake — **PASS / COMPLETE**;
+- Pass 1 physical capture — **COMPLETE 111/111**;
+- Pass 2A direct textual verification — **COMPLETE / PASS 111/111**;
+- Pass 2B independent lexical-fidelity reread — **COMPLETE / PASS 111/111**;
+- Pass 3 meaningful visual-text verification — **COMPLETE / PASS 111/111**;
 - Part audit — **PASS / COMPLETE**;
-- final metadata/status synchronization — **PASS / CLOSED**.
+- final metadata/status synchronization — **PASS / CLOSED**;
+- documentation synchronization — **COMPLETE / PASS**.
 
-Final status distribution:
+Final Part-005 Tamil state:
 
-- Tamil textual status — **111 verified / 0 needs-review / 0 partial / 0 blocked / 0 source-limited**;
+- textual status — **111 verified / 0 needs-review / 0 partial / 0 blocked / 0 source-limited**;
 - visual fidelity — **111 verified / 0 needs-review**;
-- unresolved internal Tamil exceptions — **0**.
+- unresolved internal Tamil exceptions — **0**;
+- incoming **444→445 — GENUINE CONTINUATION / source-resolved**;
+- outgoing **555→556 — CLEAN / source-resolved**;
+- Pass-3 source-supported visual-note corrections retained on scans **472, 474, 481, 501, 531, 537**;
+- documentation synchronization changed **0 page records**.
 
-Metadata-only promotion execution:
+Durable control records:
 
-- starting checkpoint — `978421f53e3606ba2a6ccadcc2f018fbe81efe4d`;
-- endpoint — `3e9fbf9b2421847b5b3c9fe45ed3b42b2c839355`;
-- exact compare — **8 commits ahead / 111 changed files**;
-- every changed file is exactly one expected Part-005 page record;
-- every changed file is exactly **+2 / -2**, corresponding only to `status` and `visual_fidelity`;
-- non-page files changed during the promotion — **0**;
-- direct post-sync checks on scans **445, 500 and 555** confirm both fields are `verified`.
+- `works/kuraloviyam/PART_005_AUDIT.md`;
+- `works/kuraloviyam/PART_005_FINAL_STATUS_SYNC.md`;
+- `works/kuraloviyam/PART_005_DOCUMENTATION_SYNC.md`.
 
-Durable final-status record:
+Part 006 source intake is complete, but transcription remains inactive until Part 005 completes its maintained workflow.
 
-`works/kuraloviyam/PART_005_FINAL_STATUS_SYNC.md`
+## Exact next activity — Tamil archival-ready checkpoint
 
-Both cross-Part boundaries remain source-resolved:
+Create the separate **Part 005 Tamil archival-ready checkpoint**, following `PART_004_TAMIL_ARCHIVAL_READY.md` as precedent.
 
-- **444→445 — GENUINE CONTINUATION**;
-- **555→556 — CLEAN**.
+Confirm:
 
-Part 006 remains transcription-inactive until Part 005 completes its full maintained workflow.
+- the entire Tamil evidence chain above is closed;
+- all **111/111** Part-005 records remain textual `verified`;
+- all **111/111** remain visual `verified`;
+- partial / blocked / source-limited / needs-review / unresolved internal exceptions remain **0**;
+- both cross-Part boundaries remain source-resolved;
+- documentation synchronization changed **0 page records**.
 
-## Exact next activity — Documentation Synchronization
+This checkpoint must not change any page record, Tamil/Kural wording, visual notes, comments, mapping or status metadata.
 
-Perform **Part 005 documentation synchronization** following the Part-004 precedent.
-
-Reconcile current live control documents so they agree on:
-
-- all Tamil verification gates through final status sync are closed;
-- final textual distribution is **111/111 verified**;
-- final visual distribution is **111/111 verified**;
-- status exceptions are **0**;
-- documentation synchronization becomes **COMPLETE / PASS**;
-- the next gate becomes the separate **Part 005 Tamil archival-ready checkpoint**.
-
-This is documentation-only. Do **not** modify any file under `works/kuraloviyam/pages/`. Do not reopen source comparison or alter Tamil/Kural wording, structure, visual notes, comments, mapping or status metadata. Do not begin Part 006.
+After this checkpoint, the next maintained content stage should be the **Part 005 English translation/review workflow**, following the repository's established English cadence. Do not begin Part 006 transcription.

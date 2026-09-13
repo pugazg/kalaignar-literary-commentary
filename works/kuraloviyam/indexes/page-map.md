@@ -494,7 +494,7 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - **501→502 genuine continuation** preserved;
 - **526→527 CLEAN** preserved;
 - outgoing Part boundary **555→556 CLEAN / source-resolved** preserved;
-- current page statuses — **111 needs-review / 111 visual needs-review**.
+- Pass-3 close-time page statuses — **111 needs-review / 111 visual needs-review**; final status promotion occurred later and is recorded below.
 
 ## Part 005 audit result
 
@@ -524,6 +524,15 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - direct spot checks — scans **445, 500, 555** all `verified` / `verified`;
 - durable record — `works/kuraloviyam/PART_005_FINAL_STATUS_SYNC.md`.
 
+## Part 005 documentation synchronization
+
+- result — **COMPLETE / PASS**;
+- final textual status retained — **111/111 verified**;
+- final visual fidelity retained — **111/111 verified**;
+- status exceptions — **0**;
+- page-record changes during documentation sync — **0**;
+- durable record — `works/kuraloviyam/PART_005_DOCUMENTATION_SYNC.md`.
+
 ## Current frontier
 
-**Part 005 documentation synchronization.**
+**Part 005 Tamil archival-ready checkpoint.**

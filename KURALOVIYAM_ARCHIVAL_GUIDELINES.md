@@ -207,7 +207,7 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 ### Part 005 — overall scans 445–555
 
-**SOURCE INTAKE: PASS / COMPLETE. PASS 1: COMPLETE 111/111. PASS 2A: COMPLETE / PASS 111/111. PASS 2B: COMPLETE / PASS 111/111. PASS 3: COMPLETE / PASS 111/111. PART AUDIT: PASS / COMPLETE. FINAL STATUS SYNC: PASS / CLOSED. DOCUMENTATION SYNC: NEXT.**
+**SOURCE INTAKE: PASS / COMPLETE. PASS 1: COMPLETE 111/111. PASS 2A: COMPLETE / PASS 111/111. PASS 2B: COMPLETE / PASS 111/111. PASS 3: COMPLETE / PASS 111/111. PART AUDIT: PASS / COMPLETE. FINAL STATUS SYNC: PASS / CLOSED. DOCUMENTATION SYNC: COMPLETE / PASS. TAMIL ARCHIVAL-READY CHECKPOINT: NEXT.**
 
 - P5-01 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - P5-02 — **456–466 / printed 439–449 — COMPLETE 11/11**;
@@ -329,4 +329,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 ### Exact next content stage
 
-Proceed with **Part 005 documentation synchronization**. Reconcile live control documents to the closed final-status state: **111/111 textual verified** and **111/111 visual verified**, with **0 status exceptions**. Documentation-only; do not modify any Part-005 page record. After documentation synchronization, perform the separate Tamil archival-ready checkpoint. Do not begin Part 006 transcription.
+Proceed with the **Part 005 Tamil archival-ready checkpoint**. Confirm the closed Tamil evidence chain, final **111/111 textual verified / 111/111 visual verified**, **0 status exceptions**, and documentation synchronization **COMPLETE / PASS** with **0 page-record changes**. This checkpoint is declarative/control-only and must not alter page records. Do not begin Part 006 transcription until the maintained Part-005 workflow permits it.
