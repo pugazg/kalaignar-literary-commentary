@@ -611,6 +611,23 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - ER4 wording refinements — **6 page files: 547, 550, 551, 552, 553, 554**;
 - status promotions — **111/111 source-checked → editorial-reviewed**;
 - incoming **444→445 GENUINE CONTINUATION / source-resolved**, internal **477→478 CLEAN**, **510→511 CLEAN**, **543→544 GENUINE CONTINUATION**, and outgoing **555→556 CLEAN / source-resolved** preserved;
+
+## Part 005 Part-level English review
+
+- gate result — **PASS / CLOSED**;
+- review record — `translations/en/reviews/PART_005_ENGLISH_REVIEW.md`;
+- review base — `fdd71835084121e9f80cf812e5dd29dac7dd148d`;
+- Tamil records — **111/111 present**;
+- English records — **111/111 present**;
+- scan / printed / source-link alignment — **111/111 exact**;
+- pre-release status — **111 editorial-reviewed / 0 source-checked / 0 draft / 0 release-ready / 0 source-limited / 0 blocked**;
+- Chapter/Kural audit — **54 metadata pages / 55 Kural citations / 0 number mismatches**;
+- explicit English visual-material sections — **53**;
+- English wording changes during Part review — **0**;
+- page-status changes during Part review — **0**;
+- Tamil changes during Part review — **0**;
+- incoming **444→445 GENUINE CONTINUATION / source-resolved** preserved;
+- outgoing **555→556 CLEAN / source-resolved** preserved.
 - SC4 endpoint — `113846a357544a33b73d727d20115471f2f3411f`;
 - SC4 exact page-layer compare — **12 modified English page files only**;
 - fidelity corrections — **4 page files / scans 549, 550, 553, 555**;
@@ -619,4 +636,4 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 ## Current frontier
 
-**Part 005 Part-level English review — scans 445–555 / printed 428–538 — 111 pages.**
+**Part 005 English release report / release approval.**

@@ -928,19 +928,42 @@ Current Part-005 English state after editorial-review closure:
 
 No external/published/web English Kural wording or terminology was imported during editorial review.
 
-Current Part-005 English state:
+## Part 005 Part-level English review — PASS / CLOSED
 
-- `source-checked` — **111**;
+Durable record: `reviews/PART_005_ENGLISH_REVIEW.md`.
+
+Review base: `fdd71835084121e9f80cf812e5dd29dac7dd148d`.
+
+Whole-Part audit:
+
+- Tamil page records — **111/111 present**;
+- English page records — **111/111 present**;
+- scan sequence — **445–555 complete**;
+- printed-page sequence — **428–538 complete**;
+- source-link / scan / printed-page alignment — **111/111 exact**;
+- `editorial-reviewed` — **111**;
+- `source-checked` — **0**;
 - `draft` — **0**;
-- `editorial-reviewed` — **0**;
 - `release-ready` — **0**;
 - `source-limited` — **0**;
-- `blocked` — **0**.
+- `blocked` — **0**;
+- `source_tamil_status: "verified"` — **111/111**;
+- `translation_type: "project_translation"` — **111/111**;
+- Chapter/Kural metadata pages — **54**;
+- Kural citations — **55**;
+- Chapter/Kural-number mismatches — **0**;
+- explicit English `## Visual material` sections — **53**;
+- English page wording changes during Part review — **0**;
+- English page status changes during Part review — **0**;
+- Tamil page changes during Part review — **0**;
+- glossary changes during Part review — **0**;
+- incoming **444→445 GENUINE CONTINUATION / source-resolved** — preserved;
+- outgoing **555→556 CLEAN / source-resolved** — preserved.
+
+A stale duplicated pre-editorial state block was removed from this control document during post-gate synchronization; the page layer itself required no remediation.
 
 ## Exact next English activity
 
-**Part 005 Part-level English Review — scans 445–555 / printed 428–538 — 111 pages.**
+**Part 005 English release report / release approval.**
 
-Audit the complete Part against audited Tamil and the maintained glossary for whole-Part consistency, names and controlled terminology, Chapter/Kural metadata, Kural blocks, source glosses, visual/page alignment and all established continuities. Passing pages remain `editorial-reviewed`; Part review makes no status promotions. Boundary discipline: incoming **444→445 GENUINE CONTINUATION / source-resolved**; outgoing **555→556 CLEAN / source-resolved**.
-
-Boundary discipline: incoming **510→511 CLEAN**; outgoing **543→544 GENUINE CONTINUATION**.
+Create `reviews/PART_005_ENGLISH_RELEASE_REPORT.md` using `reviews/PART_005_ENGLISH_REVIEW.md` as the authoritative prior gate. If release is approved, promote all **111/111** eligible English records from `editorial-reviewed` to `release-ready` by **status-token-only** changes, then perform an exact compare proving exactly **111 English page files** changed and **0 Tamil/control files** changed during promotion.

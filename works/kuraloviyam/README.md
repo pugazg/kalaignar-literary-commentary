@@ -323,6 +323,9 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - English editorial review ER4 — **544–555 / printed 527–538 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
 - ER4 exact change set — **12 English page files / 12 status promotions / 6 wording-refinement pages / 0 Tamil changes**;
 - English editorial review — **COMPLETE / CLOSED 111/111**;
+- Part-level English review — **PASS / CLOSED**;
+- review record — `translations/en/reviews/PART_005_ENGLISH_REVIEW.md`;
+- review audit — **111/111 aligned English pages / 111 editorial-reviewed / 54 metadata pages / 55 Kural citations / 53 visual-material pages / 0 page-layer changes**;
 - current English state — **0 source-checked / 0 draft / 111 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
 - SC4 source-fidelity corrections — **4 pages / scans 549, 550, 553, 555**;
 - SC4 page-layer audit — **12 modified English page records / 0 Tamil changes / 0 control-file changes**;
@@ -337,4 +340,4 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 
 ## Current frontier
 
-**Part 005 Part-level English review — scans 445–555 / printed 428–538 — 111 pages.**
+**Part 005 English release report / release approval.**
