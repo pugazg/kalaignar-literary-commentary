@@ -196,8 +196,36 @@ Durable correction commit:
 
 Exact compare from pre-batch `f2c96965d127eff88e71f047c3a985bb1a880a27` to correction endpoint `fe14f3a9e284bd91b03ddaa927eb4d4595e86d30` is **ahead by 1 commit** and changes exactly **2 page files**, scans **500, 510** only.
 
+## Batch 7 — overall scans 511–521 / printed pages 494–504
+
+**Status: COMPLETE — 11 / 11 scans directly compared against rendered source.**
+
+Incoming **510→511 CLEAN** was preserved. Scan **522 / printed 505** was inspected only as the outgoing witness and confirms **521→522 CLEAN**: scan 521 closes the reunited-lovers / intoxicating-embrace vignette with Chapter 129 / Kural 1288, while scan 522 begins a new illustrated false-praise / puppet-like-dependence vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 511 | 494 | direct textual comparison complete; no correction required; எந்திழை / absent-lover vignette continues into 512 |
+| 512 | 495 | direct textual comparison complete; no correction required; Chapter 125 / Kural 1249 and both source glosses confirmed |
+| 513 | 496 | direct textual comparison complete; no correction required; verse-form arduous-journey vignette continues into 514 |
+| 514 | 497 | direct textual comparison complete; no correction required; source verse lineation and continuation into 515 confirmed |
+| 515 | 498 | direct textual comparison complete; no correction required; Chapter 67 / Kural 669 confirmed |
+| 516 | 499 | direct textual comparison complete; no correction required; Vinoba / death-and-firmness vignette continues into 517 |
+| 517 | 500 | direct textual comparison complete; no correction required; Chapter 27 / Kural 269 and both source glosses confirmed |
+| 518 | 501 | corrected `அந்திக்குக் கோபுரம்` → source-visible `அநீதிக்குக் கோபுரம்`; corrected `எச்சத்துக்கும்` → source-visible `எச்சக்கும்`; tyrannical-rule vignette continues into 519 |
+| 519 | 502 | corrected `ஆதிக்க வெங்கைகள்` → source-visible `ஆதிக்க வேங்கைகள்`; Chapter 57 / Kural 563 and source glosses confirmed |
+| 520 | 503 | direct textual comparison complete; no correction required; reunited-lovers vignette continues into 521 |
+| 521 | 504 | direct textual comparison complete; no correction required; Chapter 129 / Kural 1288 confirmed; scan 522 witness confirms CLEAN boundary |
+
+Batch 7 correction summary: **2 records corrected; 9 records required no textual change; 3 source-supported readings corrected in total**.
+
+Durable correction commit:
+
+`7c87cc0b41de0141062d1847fae8e8fc73fc40b1` — `kuraloviyam: Pass 2A verify Part 005 scans 511-521`
+
+Exact compare from pre-batch `a44a08e1307e01b0c87916d3f91060be30e97c38` to correction endpoint `7c87cc0b41de0141062d1847fae8e8fc73fc40b1` is **ahead by 1 commit** and changes exactly **2 page files**, scans **518, 519** only.
+
 ## Current gate
 
-Part 005 Pass 2A: **66/111 complete**.
+Part 005 Pass 2A: **77/111 complete**.
 
-Next: **Batch 7 / scans 511–521 / printed 494–504**, preserving incoming **510→511 CLEAN** and inspecting scan **522 / printed 505** only as the outgoing witness when required.
+Next: **Batch 8 / scans 522–532 / printed 505–515**, preserving incoming **521→522 CLEAN** and inspecting scan **533 / printed 516** only as the outgoing witness when required.

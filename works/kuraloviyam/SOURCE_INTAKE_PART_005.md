@@ -97,7 +97,8 @@ Pass 1 is **COMPLETE**; Pass 2A is **ACTIVE**.
 - Pass 2A Batch 4 / scans **478–488 / printed 461–471** — **COMPLETE 11/11**;
 - Pass 2A Batch 5 / scans **489–499 / printed 472–482** — **COMPLETE 11/11**;
 - Pass 2A Batch 6 / scans **500–510 / printed 483–493** — **COMPLETE 11/11**;
-- cumulative Pass 2A — **66/111**;
+- Pass 2A Batch 7 / scans **511–521 / printed 494–504** — **COMPLETE 11/11**;
+- cumulative Pass 2A — **77/111**;
 - Batch-3 corrections — **7 records / 10 readings**;
 - Batch-3 correction commit — `b6ce17d55759f05f80af760ac9d3d2cd0ec96bac`;
 - Batch-4 corrections — **6 records / 8 readings**;
@@ -106,7 +107,9 @@ Pass 1 is **COMPLETE**; Pass 2A is **ACTIVE**.
 - Batch-5 correction commit — `5d9478576f4296e34338447145c518686cd925af`;
 - Batch-6 corrections — **2 records / 2 readings**;
 - Batch-6 correction commit — `fe14f3a9e284bd91b03ddaa927eb4d4595e86d30`;
-- outgoing **510→511 — CLEAN**, checked from scan 511 / printed 494;
+- Batch-7 corrections — **2 records / 3 readings**;
+- Batch-7 correction commit — `7c87cc0b41de0141062d1847fae8e8fc73fc40b1`;
+- outgoing **521→522 — CLEAN**, checked from scan 522 / printed 505;
 - durable Pass-2A log — `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_005.md`.
 
-Next: **Part 005 Pass 2A Batch 7 / scans 511–521 / printed 494–504**. Use rendered source pixels as controlling authority and keep statuses `needs-review` / visual `needs-review` through Pass 2A.
+Next: **Part 005 Pass 2A Batch 8 / scans 522–532 / printed 505–515**. Use rendered source pixels as controlling authority and keep statuses `needs-review` / visual `needs-review` through Pass 2A.
