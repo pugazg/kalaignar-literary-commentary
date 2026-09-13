@@ -751,7 +751,7 @@ Final Part-005 source-check state:
 
 No published, standard or web English Kural wording was imported. No Tamil archival record changed.
 
-## Part 005 English glossary reconciliation — IN PROGRESS 33/111
+## Part 005 English glossary reconciliation — IN PROGRESS 66/111
 
 Normal glossary-reconciliation cadence: **33 physical scans per iteration**, with a shorter final remainder if required. Pages remain `source-checked` during this gate.
 
@@ -784,8 +784,38 @@ Current Part-005 English state remains:
 - `source-limited` — **0**;
 - `blocked` — **0**.
 
+### Glossary Reconciliation GR2 — COMPLETE / PASS 33/33
+
+- scans **478–510 / printed 461–493**;
+- cumulative glossary reconciliation — **66/111**;
+- endpoint commit — `3aa3b525e4c8f2335227e36a91aed43ed117d471`;
+- exact compare from pre-GR2 checkpoint `2861c0b6058fed0c42f96b18c66114414911f5e5` to GR2 endpoint `3aa3b525e4c8f2335227e36a91aed43ed117d471`:
+  - **1 commit ahead / non-divergent**;
+  - exactly **5 modified files** — `GLOSSARY.md` plus English scans **479, 480, 494, 510**;
+  - Tamil changes — **0**;
+  - page-status changes — **0**;
+- all **17 Chapter/Kural metadata records** checked with **0 Chapter/Kural-number mismatches**;
+- Part-005-first Chapter controls added: **Avoiding Mean Company**, **Purity in Action**, **The Method of Action**, **Noble Character**;
+- English page wording corrections required on **4 page files**:
+  - scans **479–480** — `Anbaananthan` → **Anbanandan**;
+  - scan **494** — Chapter 41 **Ignorance → Lack of Learning**;
+  - scan **510** — **cosmic age → *oozhi*** and source-gloss restoration for `சான்றாண்மை`;
+- source-specific scan-508 `செற்றார்` meaning retained as **one who has rejected / turned away**, distinct from the earlier **enemy** context;
+- all **33/33** pages remain `status: "source-checked"`;
+- incoming **477→478 CLEAN** and outgoing **510→511 CLEAN** preserved;
+- no external/published/web terminology or standard English Kural wording imported.
+
+Current Part-005 English state remains:
+
+- `source-checked` — **111**;
+- `draft` — **0**;
+- `editorial-reviewed` — **0**;
+- `release-ready` — **0**;
+- `source-limited` — **0**;
+- `blocked` — **0**.
+
 ## Exact next English activity
 
-**Part 005 Glossary Reconciliation GR2 — scans 478–510 / printed 461–493 — 33 pages.**
+**Part 005 Glossary Reconciliation GR3 — scans 511–543 / printed 494–526 — 33 pages.**
 
-Boundary discipline: incoming **477→478 CLEAN**; outgoing **510→511 CLEAN**.
+Boundary discipline: incoming **510→511 CLEAN**; outgoing **543→544 GENUINE CONTINUATION**.
