@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -41,6 +41,6 @@ One day, without any change in his usual appearance, he came to the steps of the
 
 It was the public tank of the village.
 
-Another young man was bathing in the water—
+Another young man was bathing in the tank—
 
-<!-- Source scan page: 501; printed page: 484; public-tank vignette begins and continues directly to scan 502 / printed 485 -->
+<!-- Source scan page: 501; printed page: 484; public-tank vignette begins; final sentence is physically split and continues directly to scan 502 / printed 485 -->

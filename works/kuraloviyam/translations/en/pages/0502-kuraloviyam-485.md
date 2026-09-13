@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-The other young man bathing in the tank looked at the rich youth in astonishment.
+—and looked at the rich youth in astonishment.
 
 “Ponnaiya! What is this? Why are you standing there holding a rat?”
 
@@ -56,4 +56,4 @@ Smiling, Chinnappa climbed out of the tank.
 
 Chapter 19 — Refraining from Slander; Kural 190
 
-<!-- Source scan page: 502; printed page: 485; genuine continuation from scan 501 closes here with Chapter 19 / Kural 190 -->
+<!-- Source scan page: 502; printed page: 485; opens by completing the physically split sentence from scan 501, then the vignette closes here with Chapter 19 / Kural 190 -->
