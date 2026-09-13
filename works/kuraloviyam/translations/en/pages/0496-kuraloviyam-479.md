@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ Nor would the young man abandon in midstream the woman who had trusted him.
 
 Unable to prevail against his parents, he fled to another town with that shining golden statue of a woman.
 
-His father, raging that family honour had been lost, broke his heart and died.
+His father, raging that family honour had been lost, died of a broken heart.
 
 Hearing the news from afar, the son was shattered.
 
@@ -27,7 +27,7 @@ Several years rolled by.
 
 He and the woman became father and mother themselves. They had a child like a little parrot.
 
-One night—at midnight—they gathered their courage and returned to the village with his wife and their flower-like child.
+One night—at midnight—the couple steeled themselves and returned to the village with their flower-like child.
 
 Hearing a knock at the door, the mother rose, removed the bar and opened it.
 
@@ -47,7 +47,7 @@ When love bursts forth, that bar opens by itself, and the flood of love appears 
 
 “Mother!”
 
-The moment she heard that sound, the son's fault disappeared and love revealed itself.
+The moment she heard that sound, her son's wrongdoing vanished from her mind and love revealed itself.
 
 This Kural paints that moving scene:
 

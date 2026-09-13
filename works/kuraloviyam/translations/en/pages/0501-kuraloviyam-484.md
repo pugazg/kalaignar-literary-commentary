@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -25,7 +25,7 @@ White dirt peeped from the corners of his eyes.
 
 A silk shirt and silk veshti, stained in many places, clung to his body.
 
-He was the son of a wealthy household. Yet not even the point of a sesame seed's worth of space in him was given to civility or cleanliness.
+He was the son of a wealthy household. Yet he had not even a sesame seed's worth of room for civility or cleanliness.
 
 He would sit on the stone-paved front platform of his house.
 
