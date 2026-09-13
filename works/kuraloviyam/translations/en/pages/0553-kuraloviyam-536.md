@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -33,7 +33,7 @@ Do you know what answer I gave Malarvizhi when she said this?
 
 “‘I became a slave only to your art of dance.
 
-“‘But once the stories this town tied around the two of us had spread in every direction like horses struck into a gallop, I too decided there was nothing left to fear.
+“‘But once the stories this town tied around the two of us had spread in every direction like horses whipped into a gallop, I too decided there was nothing left to fear.
 
 “‘Let us bless these townspeople who, without even knowing it themselves, helped us and brought us together.’”
 

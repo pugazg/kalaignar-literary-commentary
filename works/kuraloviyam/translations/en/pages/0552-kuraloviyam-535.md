@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -33,7 +33,7 @@ Large upper illustration of an embracing couple.
 
 “In the changing expressions of her face, a smile flashed and seemed to rest upon me for a few moments as though delivering some message of appreciation.
 
-“From the feet whose anklets sounded without missing the rhythm—not wavering even by the point of a sesame seed—to the changing radiance upon her milk-moon face, everything kept pulling me toward her.
+“From the feet whose anklets sounded without missing the rhythm—not wavering by even a sesame-seed's breadth—to the changing radiance upon her milk-moon face, everything kept pulling me toward her.
 
 “With love of art and purity of heart, I lost myself in the wonder of that beautiful dancer's performance.
 

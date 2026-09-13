@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -27,7 +27,7 @@ He possessed such immense wealth that chests filled with gold coins could be sta
 
 He accepted their opinions as though they were golden sayings uttered by wise elders.
 
-Those surrounding him praised and celebrated his every movement, continually cooling and pleasing his heart.
+Those surrounding him praised and celebrated his every movement, continually keeping his heart pleased.
 
 Years rolled on like this.
 

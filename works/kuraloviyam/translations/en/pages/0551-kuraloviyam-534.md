@@ -6,14 +6,14 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
 “What are you saying, daughter?
 
-“How many men are performing penance for the chance to possess you, the very form of beauty!
+“How many men are performing penance for the chance to win you, the very form of beauty!
 
 “If you reject all of them, whom do you want to marry?”
 
@@ -31,7 +31,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 “That one-armed prison bird?
 
-“Is this the beauty you have thought of as the very highest?
+“Is this what you have chosen as the very highest?
 
 “Your wish can never be fulfilled. It will not be fulfilled!”
 
