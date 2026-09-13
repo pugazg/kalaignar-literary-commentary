@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 1 P6-04
+# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 1 P6-05
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -36,51 +36,52 @@ Source identity:
 
 - P6-01 — **556–566 / printed 539–549 — COMPLETE 11/11**;
 - P6-02 — **567–577 / printed 550–560 — COMPLETE 11/11**;
-- P6-03 — **578–588 / printed 561–571 — COMPLETE 11/11**.
+- P6-03 — **578–588 / printed 561–571 — COMPLETE 11/11**;
+- P6-04 — **589–599 / printed 572–582 — COMPLETE 11/11**.
 
-P6-03 page-layer commits:
+P6-04 page-layer commits:
 
-- `383685014dde494ef1d6881080088ce5cd622116` — scans 578–583;
-- `0523ff4f5755a851087d160320770831352bd189` — scans 584–588 / P6-03 endpoint.
+- `a8c120775b330f711b631fba27f2a47a8e4ecc99` — scans 589–594;
+- `96c4903b29552da0f1e894e1ff48a54435aa2c89` — scans 595–599 / P6-04 endpoint.
 
-Exact compare from pre-P6-03 `1f0460164c9468c9062ab2b5b8bd904513d9a187` to endpoint `0523ff4f5755a851087d160320770831352bd189`:
+Exact compare from pre-P6-04 `01c201c5e44648013fed95202df6e71b8069e79d` to endpoint `96c4903b29552da0f1e894e1ff48a54435aa2c89`:
 
 - **2 commits ahead / non-divergent**;
 - exactly **11 changed files**;
-- all are newly added Part 006 Tamil records, scans **578–588**;
+- all are newly added Part 006 Tamil records, scans **589–599**;
 - non-page changes — **0**.
 
-Cumulative Pass 1: **33/111 captured**.
+Cumulative Pass 1: **44/111 captured**.
 
-All 33 records remain:
+All 44 records remain:
 
 - `status: "needs-review"`;
 - `visual_fidelity: "needs-review"`.
 
-P6-03 continuity:
+P6-04 continuity:
 
-- **577→578 GENUINE CONTINUATION**;
-- **578→579 CLEAN**;
-- **579→580 GENUINE CONTINUATION**;
-- **580→581 CLEAN**;
-- **581→582 GENUINE CONTINUATION**;
-- **582→583 CLEAN**;
-- **583→584 GENUINE CONTINUATION**;
-- **584→585 CLEAN**;
-- **585→586 GENUINE CONTINUATION**;
-- **586→587 CLEAN**;
-- **587→588 GENUINE CONTINUATION**;
-- **588→589 CLEAN**, directly checked from scan 589 / printed 572.
+- **588→589 CLEAN**;
+- **589→590 GENUINE CONTINUATION**;
+- **590→591 CLEAN**;
+- **591→592 GENUINE CONTINUATION**;
+- **592→593 CLEAN**;
+- **593→594 GENUINE CONTINUATION**;
+- **594→595 CLEAN**;
+- **595→596 GENUINE CONTINUATION**;
+- **596→597 CLEAN**;
+- **597→598 GENUINE CONTINUATION**;
+- **598→599 CLEAN**;
+- **599→600 GENUINE CONTINUATION**, directly checked from scan 600 / printed 583.
 
-Scan 589 was inspected only as an outgoing witness and was **not created** in P6-03.
+Scan 600 was inspected only as an outgoing witness and was **not created** in P6-04. It continues and closes the grandson / life-goal / Aruvur teacher vignette with Chapter 29 / Kural 281.
 
 ## Part 006 Pass 1 cadence
 
 - P6-01 — **556–566 / printed 539–549 — COMPLETE**;
 - P6-02 — **567–577 / printed 550–560 — COMPLETE**;
 - P6-03 — **578–588 / printed 561–571 — COMPLETE**;
-- P6-04 — **589–599 / printed 572–582 — NEXT**;
-- P6-05 — **600–610 / printed 583–593**;
+- P6-04 — **589–599 / printed 572–582 — COMPLETE**;
+- P6-05 — **600–610 / printed 583–593 — NEXT**;
 - P6-06 — **611–621 / printed 594–604**;
 - P6-07 — **622–632 / printed 605–615**;
 - P6-08 — **633–643 / printed 616–626**;
@@ -88,11 +89,11 @@ Scan 589 was inspected only as an outgoing witness and was **not created** in P6
 - P6-10 — **655–665 / printed 638–648**;
 - final remainder — **666 / unnumbered back cover**.
 
-## Exact next activity — P6-04
+## Exact next activity — P6-05
 
 Process:
 
-**scans 589–599 / printed 572–582 — 11 physical scans**.
+**scans 600–610 / printed 583–593 — 11 physical scans**.
 
 For each scan:
 
@@ -104,8 +105,8 @@ For each scan:
 - use `status: "needs-review"` and `visual_fidelity: "needs-review"` for Pass 1;
 - preserve Kural blocks and source glosses as distinct structures;
 - do not import canonical/web Kural wording, remembered wording or external commentary;
-- preserve incoming **588→589 CLEAN**.
+- preserve incoming **599→600 GENUINE CONTINUATION**.
 
-Do not create scan 600 in P6-04. It may be inspected only as an outgoing continuity witness if needed.
+Do not create scan 611 in P6-05. It may be inspected only as an outgoing continuity witness if needed.
 
 After the page layer, compare batch base → endpoint and confirm exactly the intended **11 Part 006 Tamil page records** changed before advancing.

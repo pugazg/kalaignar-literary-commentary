@@ -159,14 +159,62 @@ Exact compare from pre-batch `1f0460164c9468c9062ab2b5b8bd904513d9a187` to page 
 - scan 589 was inspected only as an outgoing continuity witness and remains outside P6-03;
 - no Part 001–005 Tamil or English page record changed.
 
+## P6-04 state
+
+**11 / 11 page records captured — COMPLETE.**
+
+P6-04 scans **589–599 / printed 572–582** are captured as one page-aligned Tamil Pass-1 record per physical scan. All 11 records carry:
+
+- `part: 6`;
+- `part_page: 34–44`;
+- exact scan/printed-page mappings;
+- `status: "needs-review"`;
+- `visual_fidelity: "needs-review"`;
+- the exact Part 006 source filename.
+
+Page-layer commits:
+
+- `a8c120775b330f711b631fba27f2a47a8e4ecc99` — `kuraloviyam: Part 006 Pass 1 scans 589-594`;
+- `96c4903b29552da0f1e894e1ff48a54435aa2c89` — `kuraloviyam: Part 006 Pass 1 scans 595-599`.
+
+Exact compare from pre-batch `01c201c5e44648013fed95202df6e71b8069e79d` to page endpoint `96c4903b29552da0f1e894e1ff48a54435aa2c89`:
+
+- **2 commits ahead / non-divergent**;
+- exactly **11 changed files**;
+- all **11** are newly added Part 006 Tamil page records, scans **589–599**;
+- non-page/control files changed — **0**.
+
+## P6-04 continuity map
+
+- **588→589 — CLEAN**;
+- **589→590 — GENUINE CONTINUATION**; scan 590 closes the horse-rearing expert / public-honour vignette with Chapter 85 / Kural 845;
+- **590→591 — CLEAN**;
+- **591→592 — GENUINE CONTINUATION**; scan 592 closes the pet-snake / incompatible-companionship vignette with Chapter 89 / Kural 890;
+- **592→593 — CLEAN**;
+- **593→594 — GENUINE CONTINUATION**; scan 594 closes the king / self-respecting poet vignette with Chapter 5 / Kural 44;
+- **594→595 — CLEAN**;
+- **595→596 — GENUINE CONTINUATION**; scan 596 closes the அழகர்குடி / செவத்தான் vignette with Chapter 47 / Kural 466;
+- **596→597 — CLEAN**;
+- **597→598 — GENUINE CONTINUATION**, including the source-visible physical word split `நேரப் போகி` + `றது`;
+- **598→599 — CLEAN**;
+- **599→600 — GENUINE CONTINUATION**, directly checked from scan 600 / printed 583 as an outgoing witness. Scan 600 continues and closes the grandson / life-goal / Aruvur teacher vignette with Chapter 29 / Kural 281; scan 600 was **not** created in P6-04.
+
+## P6-04 structural notes
+
+- illustrations remain described in `visual_notes`, not transcribed as prose;
+- Kural blocks and source glosses remain structurally distinct;
+- exact physical-page splits are preserved;
+- scan 600 was inspected only as an outgoing continuity witness and remains outside P6-04;
+- no Part 001–005 Tamil or English page record changed.
+
 ## Current gate
 
-Part 006 Pass 1 cumulative state: **33/111 captured**.
+Part 006 Pass 1 cumulative state: **44/111 captured**.
 
-P6-01 through P6-03 are **COMPLETE / 33 pages captured**.
+P6-01 through P6-04 are **COMPLETE / 44 pages captured**.
 
 Exact next batch:
 
-**P6-04 — scans 589–599 / printed 572–582 — 11 physical scans.**
+**P6-05 — scans 600–610 / printed 583–593 — 11 physical scans.**
 
-Preserve incoming **588→589 CLEAN**.
+Preserve incoming **599→600 GENUINE CONTINUATION**.
