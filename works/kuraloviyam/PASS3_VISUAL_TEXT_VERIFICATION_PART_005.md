@@ -7,8 +7,8 @@
 - Printed pages: **428–538**
 - Physical scans: **111**
 - Gate: **Pass 3 — meaningful visual/text fidelity verification**
-- Cadence: **Batches 1–3 used 11 physical scans; from Batch 4 onward the user-directed cadence is 12 physical scans per normal iteration**, with a shorter final remainder when fewer than 12 scans remain
-- Status: **ACTIVE — 57/111 complete; next Batch 6 / scans 502–513**
+- Cadence: **Batches 1–3 used 11 physical scans, Batches 4–5 used 12 scans, and from Batch 6 onward the user-directed cadence is 25 physical scans per normal iteration**, with a shorter final remainder when fewer than 25 scans remain
+- Status: **ACTIVE — 82/111 complete; next Batch 7 / scans 527–551**
 
 ## Preconditions
 
@@ -205,25 +205,76 @@ User-directed cadence change applied here: **12 physical scans per normal Pass-3
 - Page correction commit: `a464662c50bcb9d06c3130e491e3f8563732a7e2` — exact compare from `5537eb5775e64c271388cdb9d1c3b3f6d8938eec` changes exactly **1 page file**, scan **501** only.
 - All Part-005 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
 
+## Batch 6 — scans 502–526 / printed 485–509
+
+**Result: COMPLETE — 25 / 25.**
+
+User-directed cadence change applied here: **25 physical scans per normal Pass-3 iteration** from Batch 6 onward.
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 502 | 485 | **NO STRUCTURAL CHANGE** — text-only continuation/closure of the public-tank vignette; Chapter 19 / Kural 190 remains correctly placed near the foot of the page. |
+| 503 | 486 | **NO STRUCTURAL CHANGE** — large upper illustration of two women in conversation remains above the prose; the Thogai/Thumbai love-and-denial vignette begins below and continues to scan 504. |
+| 504 | 487 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 1096, Chapter 110 metadata and three source glosses remain correctly grouped above the small monument page furniture. |
+| 505 | 488 | **NO STRUCTURAL CHANGE** — large upper illustration of soldiers carrying a stone with a mounted figure nearby remains above the prose; the Senguttuvan / Kanaka-Vijaya vignette begins below and continues to scan 506. |
+| 506 | 489 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 642 and Chapter 65 metadata remain correctly separated above the small monument page furniture. |
+| 507 | 490 | **NO STRUCTURAL CHANGE** — large upper illustration of a woman moving away while a man watches remains above the prose; the separated-lovers / pride vignette begins below and continues to scan 508. |
+| 508 | 491 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 1255, Chapter 126 metadata and source gloss remain correctly grouped above the small monument image. |
+| 509 | 492 | **NO STRUCTURAL CHANGE** — large upper portrait-style illustration of a man against a fiery/cataclysmic background remains above the prose; the steadfastness analogy begins below and continues to scan 510. |
+| 510 | 493 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 989, Chapter 99 metadata and source glosses remain correctly separated; 510→511 is CLEAN. |
+| 511 | 494 | **NO STRUCTURAL CHANGE** — large upper illustration of two women beside a tree remains above the prose; the எந்திழை / absent-lover vignette begins below and continues to scan 512. |
+| 512 | 495 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 1249, Chapter 125 metadata and source glosses remain correctly grouped. |
+| 513 | 496 | **NO STRUCTURAL CHANGE** — large upper illustration of a woman at a doorway watching a man run toward her remains above a verse-form arduous-journey vignette, which continues to scan 514. |
+| 514 | 497 | **NO STRUCTURAL CHANGE** — text-only verse continuation; the poem remains correctly lineated and continues directly to scan 515. |
+| 515 | 498 | **NO STRUCTURAL CHANGE** — verse conclusion and Kural 669 / Chapter 67 closure remain correctly ordered above the chariot monument page furniture. |
+| 516 | 499 | **NO STRUCTURAL CHANGE** — large upper illustration of the elderly ill man in bed refusing medicine offered by an attendant remains above the prose; the Vinoba / death-and-firmness vignette begins below and continues to scan 517. |
+| 517 | 500 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 269, Chapter 27 metadata and source glosses remain correctly separated above the standing-statue image. |
+| 518 | 501 | **NO STRUCTURAL CHANGE** — large upper illustration of an armed crowd in uprising remains above the prose; the tyrannical-rule / popular-revolt vignette begins below and continues to scan 519. |
+| 519 | 502 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 563, Chapter 57 metadata and source glosses remain correctly grouped above the seated-statue image. |
+| 520 | 503 | **NO STRUCTURAL CHANGE** — large upper embracing-couple illustration remains above the prose; the reunited-lovers vignette begins below and continues to scan 521. |
+| 521 | 504 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 1288 and Chapter 129 metadata remain correctly separated above the chariot monument; 521→522 is CLEAN. |
+| 522 | 505 | **NO STRUCTURAL CHANGE** — large upper puppet/dependence illustration remains above the prose; the false-praise / dependent-puppet vignette begins below and continues to scan 523. |
+| 523 | 506 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 1020 and Chapter 102 metadata remain correctly placed near the foot of the page. |
+| 524 | 507 | **NO STRUCTURAL CHANGE** — large upper court illustration with the ruler and two male figures remains above the prose; the Arulalan gratitude/betrayal vignette begins below and continues to scan 525. |
+| 525 | 508 | **NO STRUCTURAL CHANGE** — text-only continuation of the Arulalan vignette; the promoted soldier's later false-witness episode continues directly to scan 526. |
+| 526 | 509 | **NO STRUCTURAL CHANGE** — text-only continuation/closure of the Arulalan vignette; Kural 110 and Chapter 11 metadata remain correctly separated near the foot of the page. |
+
+### Boundary / continuity result
+
+- Incoming **501→502 GENUINE CONTINUATION** remains confirmed and closes on scan 502 with Chapter 19 / Kural 190.
+- **526→527 is CLEAN**, reconfirmed from scan **527 / printed 510**: scan 526 closes the Arulalan vignette with Chapter 11 / Kural 110, while scan 527 begins a new illustrated militaristic-king / just-rule vignette.
+- Scan 527 was used only as the outgoing witness and is **not** counted in Batch 6.
+
+### Batch 6 correction summary
+
+- Structural/visual-description corrections: **0**.
+- No-change scans: **502–526 — 25 pages**.
+- Lexical/body-text changes: **0**.
+- Status promotion: **0**.
+- Page correction commit: **none required**.
+- All Part-005 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+
 ## Current Pass 3 coverage
 
-- complete — **57/111 scans**;
-- remaining — **54 scans**;
+- complete — **82/111 scans**;
+- remaining — **29 scans**;
 - Batch 1 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - Batch 2 — **456–466 / printed 439–449 — COMPLETE 11/11**;
 - Batch 3 — **467–477 / printed 450–460 — COMPLETE 11/11**;
 - Batch 4 — **478–489 / printed 461–472 — COMPLETE 12/12**;
 - Batch 5 — **490–501 / printed 473–484 — COMPLETE 12/12**;
+- Batch 6 — **502–526 / printed 485–509 — COMPLETE 25/25**;
 - incoming Part boundary **444→445 — GENUINE CONTINUATION / source-resolved**;
 - **455→456 — GENUINE CONTINUATION** preserved;
 - **466→467 — GENUINE CONTINUATION** preserved;
 - **477→478 — CLEAN** preserved;
 - **489→490 — GENUINE CONTINUATION** preserved;
-- outgoing Batch-5 boundary **501→502 — GENUINE CONTINUATION**;
+- **501→502 — GENUINE CONTINUATION** preserved;
+- outgoing Batch-6 boundary **526→527 — CLEAN**;
 - current page statuses — **111 needs-review / 111 visual needs-review**.
 
-## Exact next activity — Batch 6
+## Exact next activity — Batch 7
 
-Process **12 pages**: scans **502–513 / printed 485–496**.
+Process **25 pages**: scans **527–551 / printed 510–534**.
 
-Preserve incoming **501→502 GENUINE CONTINUATION**. Inspect scan **514 / printed 497** only as the outgoing boundary witness when required. Record per-page Pass-3 structural/visual results, commit only source-required record changes, compare the batch base→head changed-file set, and keep all review flags unchanged.
+Preserve incoming **526→527 CLEAN**. Inspect scan **552 / printed 535** only as the outgoing boundary witness when required. Record per-page Pass-3 structural/visual results, commit only source-required record changes, compare the batch base→head changed-file set, and keep all review flags unchanged.

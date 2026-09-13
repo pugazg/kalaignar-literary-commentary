@@ -261,19 +261,20 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - Pass 3 Batch 3 — **467–477 / printed 450–460 — COMPLETE 11/11**;
 - Pass 3 Batch 4 — **478–489 / printed 461–472 — COMPLETE 12/12**;
 - Pass 3 Batch 5 — **490–501 / printed 473–484 — COMPLETE 12/12**;
-- user-directed Pass-3 cadence from Batch 4 onward — **12 physical scans per normal iteration**;
-- Pass-3 structural/visual corrections through Batch 5 — **4 pages / scans 472, 474, 481, 501**;
-- Pass-3 lexical/body-text changes through Batch 5 — **0**;
-- Batch-5 Pass-3 visual-note correction — **scan 501**;
-- Batch-5 Pass-3 page correction commit — `a464662c50bcb9d06c3130e491e3f8563732a7e2` — exact compare **1 page file only / scan 501**;
+- Pass 3 Batch 6 — **502–526 / printed 485–509 — COMPLETE 25/25**;
+- user-directed Pass-3 cadence from Batch 6 onward — **25 physical scans per normal iteration**;
+- Pass-3 structural/visual corrections through Batch 6 — **4 pages / scans 472, 474, 481, 501**;
+- Pass-3 Batch-6 structural/visual corrections — **0**;
+- Pass-3 lexical/body-text changes through Batch 6 — **0**;
 - **455→456 GENUINE CONTINUATION** preserved;
 - **466→467 GENUINE CONTINUATION** preserved;
 - **477→478 CLEAN** preserved;
 - **489→490 GENUINE CONTINUATION** preserved;
-- **501→502 GENUINE CONTINUATION** reconfirmed from scan 502 / printed 485 witness;
-- cumulative Pass 3 — **57/111**;
+- **501→502 GENUINE CONTINUATION** preserved;
+- **526→527 CLEAN** reconfirmed from scan 527 / printed 510 witness;
+- cumulative Pass 3 — **82/111**;
 - Pass 3 log — `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_005.md`;
-- next gate — **Pass 3 Batch 6 / scans 502–513 / printed 485–496 — 12 pages**.
+- next gate — **Pass 3 Batch 7 / scans 527–551 / printed 510–534 — 25 pages**.
 
 ## Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -283,4 +284,4 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ## Exact next activity
 
-Proceed with **Part 005 Pass 3 Batch 6 / scans 502–513 / printed 485–496 — 12 pages** as meaningful visual/text fidelity verification. Preserve **501→502 GENUINE CONTINUATION**, use scan 514 only as the outgoing witness when required, do not perform another lexical reread, keep statuses `needs-review` / visual `needs-review`, and do not start Part 006 transcription.
+Proceed with **Part 005 Pass 3 Batch 7 / scans 527–551 / printed 510–534 — 25 pages** as meaningful visual/text fidelity verification. Preserve **526→527 CLEAN**, use scan 552 only as the outgoing witness when required, do not perform another lexical reread, keep statuses `needs-review` / visual `needs-review`, and do not start Part 006 transcription.

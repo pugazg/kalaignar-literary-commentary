@@ -289,17 +289,18 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - Pass 3 Batch 3 — **467–477 / printed 450–460 — COMPLETE 11/11**;
 - Pass 3 Batch 4 — **478–489 / printed 461–472 — COMPLETE 12/12**;
 - Pass 3 Batch 5 — **490–501 / printed 473–484 — COMPLETE 12/12**;
-- user-directed Pass-3 cadence from Batch 4 onward — **12 physical scans per normal iteration**, with a shorter final remainder if needed;
-- Pass-3 structural/visual corrections through Batch 5 — **4 pages / scans 472, 474, 481, 501**;
-- Pass-3 lexical/body-text changes through Batch 5 — **0**;
-- Batch-5 Pass-3 visual-note correction — **scan 501**: source shows **one young man in the water and another young man standing on the bank/steps**, not a child with an unspecified adult;
-- Batch-5 Pass-3 page correction commit — `a464662c50bcb9d06c3130e491e3f8563732a7e2` — exact compare **1 page file only / scan 501**;
+- Pass 3 Batch 6 — **502–526 / printed 485–509 — COMPLETE 25/25**;
+- user-directed Pass-3 cadence from Batch 6 onward — **25 physical scans per normal iteration**, with a shorter final remainder if needed;
+- Pass-3 structural/visual corrections through Batch 6 — **4 pages / scans 472, 474, 481, 501**;
+- Pass-3 Batch-6 structural/visual corrections — **0**;
+- Pass-3 lexical/body-text changes through Batch 6 — **0**;
 - **455→456 — GENUINE CONTINUATION**, preserved;
 - **466→467 — GENUINE CONTINUATION**, preserved;
 - **477→478 — CLEAN**, preserved;
 - **489→490 — GENUINE CONTINUATION**, preserved;
-- **501→502 — GENUINE CONTINUATION**, reconfirmed from scan 502 / printed 485 witness;
-- cumulative Pass 3 — **57/111**;
+- **501→502 — GENUINE CONTINUATION**, preserved;
+- **526→527 — CLEAN**, reconfirmed from scan 527 / printed 510 witness;
+- cumulative Pass 3 — **82/111**;
 - durable Pass-3 log — `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_005.md`.
 
 ### Part 006 — SOURCE INTAKE COMPLETE / WAITING
@@ -311,4 +312,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Continue **Part 005 Pass 3 / Batch 6 — scans 502–513 / printed 485–496** using the user-directed **12-page cadence**. Preserve incoming **501→502 GENUINE CONTINUATION** and inspect scan **514 / printed 497** only as the outgoing witness when required. Do not perform another lexical reread; keep page statuses `needs-review` / visual `needs-review`. Do not begin Part 006 transcription.
+Continue **Part 005 Pass 3 / Batch 7 — scans 527–551 / printed 510–534** using the user-directed **25-page cadence**. Preserve incoming **526→527 CLEAN** and inspect scan **552 / printed 535** only as the outgoing witness when required. Do not perform another lexical reread; keep page statuses `needs-review` / visual `needs-review`. Do not begin Part 006 transcription.

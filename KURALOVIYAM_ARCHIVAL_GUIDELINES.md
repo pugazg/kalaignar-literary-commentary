@@ -116,7 +116,7 @@ The cross-Part boundary itself is checked only when the adjacent Part source bec
 
 ## 9. Batch discipline
 
-Default source-dependent work may use smaller batches when no user override exists. **Part 004 Pass 1 and Pass 2A used 11 physical scans per normal iteration. For Part 004 Pass 3, the user-directed cadence from Batch 7 onward was 30 physical scans per normal iteration. For active Part 005 Pass 3, Batches 1–3 used 11 scans and the user-directed cadence from Batch 4 onward is 12 physical scans per normal iteration**, with a shorter final remainder when fewer than 12 scans remain.
+Default source-dependent work may use smaller batches when no user override exists. **Part 004 Pass 1 and Pass 2A used 11 physical scans per normal iteration. For Part 004 Pass 3, the user-directed cadence from Batch 7 onward was 30 physical scans per normal iteration. For active Part 005 Pass 3, Batches 1–3 used 11 scans, Batches 4–5 used 12 scans, and the user-directed cadence from Batch 6 onward is 25 physical scans per normal iteration**, with a shorter final remainder when fewer than 25 scans remain.
 
 For every source-dependent batch:
 
@@ -207,7 +207,7 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 ### Part 005 — overall scans 445–555
 
-**SOURCE INTAKE: PASS / COMPLETE. PASS 1: COMPLETE 111/111. PASS 2A: COMPLETE / PASS 111/111. PASS 2B: COMPLETE / PASS 111/111. PASS 3: ACTIVE 57/111.**
+**SOURCE INTAKE: PASS / COMPLETE. PASS 1: COMPLETE 111/111. PASS 2A: COMPLETE / PASS 111/111. PASS 2B: COMPLETE / PASS 111/111. PASS 3: ACTIVE 82/111.**
 
 - P5-01 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - P5-02 — **456–466 / printed 439–449 — COMPLETE 11/11**;
@@ -302,17 +302,18 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 - Pass 3 Batch 3 — **467–477 / printed 450–460 — COMPLETE 11/11**;
 - Pass 3 Batch 4 — **478–489 / printed 461–472 — COMPLETE 12/12**;
 - Pass 3 Batch 5 — **490–501 / printed 473–484 — COMPLETE 12/12**;
-- user-directed Pass-3 cadence from Batch 4 onward — **12 physical scans per normal iteration**;
-- Pass-3 structural/visual corrections through Batch 5 — **4 pages / scans 472, 474, 481, 501**;
-- Pass-3 lexical/body-text changes through Batch 5 — **0**;
-- Batch-5 Pass-3 visual-note correction — **scan 501**;
-- Batch-5 Pass-3 page correction commit — `a464662c50bcb9d06c3130e491e3f8563732a7e2` — **1 page file only / scan 501**;
+- Pass 3 Batch 6 — **502–526 / printed 485–509 — COMPLETE 25/25**;
+- user-directed Pass-3 cadence from Batch 6 onward — **25 physical scans per normal iteration**;
+- Pass-3 structural/visual corrections through Batch 6 — **4 pages / scans 472, 474, 481, 501**;
+- Pass-3 Batch-6 structural/visual corrections — **0**;
+- Pass-3 lexical/body-text changes through Batch 6 — **0**;
 - **455→456 GENUINE CONTINUATION** preserved;
 - **466→467 GENUINE CONTINUATION** preserved;
 - **477→478 CLEAN** preserved;
 - **489→490 GENUINE CONTINUATION** preserved;
-- **501→502 GENUINE CONTINUATION** reconfirmed from scan 502 / printed 485 witness;
-- cumulative Pass 3 — **57/111**;
+- **501→502 GENUINE CONTINUATION** preserved;
+- **526→527 CLEAN** reconfirmed from scan 527 / printed 510 witness;
+- cumulative Pass 3 — **82/111**;
 - Pass 3 log — `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_005.md`;
 - durable Pass-1 progress — `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`;
 - durable Pass-2A log — `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_005.md`.
@@ -326,4 +327,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 ### Exact next content stage
 
-Continue **Part 005 Pass 3 Batch 6 — scans 502–513 / printed 485–496** using the user-directed **12-page cadence**. Preserve incoming **501→502 GENUINE CONTINUATION** and inspect scan **514 / printed 497** only as the outgoing witness when required. Do not perform another lexical reread; keep page statuses `needs-review` / visual `needs-review`. Do not begin Part 006 transcription.
+Continue **Part 005 Pass 3 Batch 7 — scans 527–551 / printed 510–534** using the user-directed **25-page cadence**. Preserve incoming **526→527 CLEAN** and inspect scan **552 / printed 535** only as the outgoing witness when required. Do not perform another lexical reread; keep page statuses `needs-review` / visual `needs-review`. Do not begin Part 006 transcription.
