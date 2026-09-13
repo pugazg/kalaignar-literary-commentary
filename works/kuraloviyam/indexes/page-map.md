@@ -593,12 +593,16 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 ## Part 005 English editorial review map
 
 - ER1 — **445–477 / printed 428–460 — COMPLETE / PASS 33/33**;
-- cumulative editorial review — **33/111**;
+- ER2 — **478–510 / printed 461–493 — COMPLETE / PASS 33/33**;
+- cumulative editorial review — **66/111**;
 - ER1 endpoint — `7e9c90a4109cd8a627d3d31bde74d226100c9aba`;
+- ER2 endpoint — `ffd62952cf06cf2581768603e720c836996f6d5d`;
 - exact ER1 compare from `8fd0069f235b69e31fb8c7cd4a6e80582e0cb305` — **6 commits ahead / exactly 33 modified English page files / 0 Tamil changes**;
-- wording refinements — **9 page files: 448, 457, 461, 465, 466, 468, 469, 472, 476**;
-- status promotions — **33/33 source-checked → editorial-reviewed**;
-- incoming **444→445 GENUINE CONTINUATION / source-resolved** and outgoing **477→478 CLEAN** preserved;
+- exact ER2 compare from `a82aeaf53eeea125d2c60ba8b7a51e8dc486e9c8` — **6 commits ahead / exactly 33 modified English page files / 0 Tamil changes**;
+- ER1 wording refinements — **9 page files: 448, 457, 461, 465, 466, 468, 469, 472, 476**;
+- ER2 wording refinements — **12 page files: 478, 484, 490, 491, 493, 495, 496, 501, 503, 506, 507, 509**;
+- status promotions — **66/66 source-checked → editorial-reviewed**;
+- incoming **444→445 GENUINE CONTINUATION / source-resolved**, internal **477→478 CLEAN**, and outgoing **510→511 CLEAN** preserved;
 - SC4 endpoint — `113846a357544a33b73d727d20115471f2f3411f`;
 - SC4 exact page-layer compare — **12 modified English page files only**;
 - fidelity corrections — **4 page files / scans 549, 550, 553, 555**;
@@ -607,4 +611,4 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 ## Current frontier
 
-**Part 005 English editorial review ER2 — scans 478–510 / printed 461–493 — 33 pages.**
+**Part 005 English editorial review ER3 — scans 511–543 / printed 494–526 — 33 pages.**

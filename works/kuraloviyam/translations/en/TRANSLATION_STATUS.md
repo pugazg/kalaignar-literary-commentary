@@ -843,7 +843,7 @@ Current Part-005 English state remains:
 
 **Part 005 English glossary reconciliation is COMPLETE / CLOSED — 111/111.**
 
-## Part 005 English editorial review — IN PROGRESS 33/111
+## Part 005 English editorial review — IN PROGRESS 66/111
 
 ### Editorial Review ER1 — COMPLETE / PASS 33/33
 
@@ -868,6 +868,29 @@ Current Part-005 English state after ER1:
 - `source-limited` — **0**;
 - `blocked` — **0**.
 
+### Editorial Review ER2 — COMPLETE / PASS 33/33
+
+- scans **478–510 / printed 461–493**;
+- endpoint commit — `ffd62952cf06cf2581768603e720c836996f6d5d`;
+- exact compare from pre-ER2 checkpoint `a82aeaf53eeea125d2c60ba8b7a51e8dc486e9c8`:
+  - **6 commits ahead / non-divergent**;
+  - exactly **33 modified English page files**;
+  - Tamil changes — **0**;
+  - **33/33** status promotions from `source-checked` to `editorial-reviewed`;
+- source-faithful readability refinements on **12 page files** — scans **478, 484, 490, 491, 493, 495, 496, 501, 503, 506, 507, 509**;
+- Kural blocks, Chapter/Kural metadata, source glosses, glossary controls, visuals and page boundaries preserved;
+- incoming **477→478 CLEAN** and outgoing **510→511 CLEAN** preserved;
+- no external/published/web English Kural wording or terminology imported.
+
+Current Part-005 English state after ER2:
+
+- `editorial-reviewed` — **66**;
+- `source-checked` — **45**;
+- `draft` — **0**;
+- `release-ready` — **0**;
+- `source-limited` — **0**;
+- `blocked` — **0**.
+
 Current Part-005 English state:
 
 - `source-checked` — **111**;
@@ -879,8 +902,8 @@ Current Part-005 English state:
 
 ## Exact next English activity
 
-**Part 005 Editorial Review ER2 — scans 478–510 / printed 461–493 — 33 pages.**
+**Part 005 Editorial Review ER3 — scans 511–543 / printed 494–526 — 33 pages.**
 
-Passing records move from `source-checked` to `editorial-reviewed`. Boundary discipline: incoming **477→478 CLEAN**; outgoing **510→511 CLEAN**.
+Passing records move from `source-checked` to `editorial-reviewed`. Boundary discipline: incoming **510→511 CLEAN**; outgoing **543→544 GENUINE CONTINUATION**.
 
 Boundary discipline: incoming **510→511 CLEAN**; outgoing **543→544 GENUINE CONTINUATION**.
