@@ -36,6 +36,6 @@ The question fell upon the king's head like a hammer blow. Unable to bear it, he
 
 Chapter 4 — The Insistence on Virtue; Kural 34
 
-ஆகுல நீர = clamorous display
+ஆகுல நீர = clamorous nature
 
 <!-- Source scan page: 445; printed page: 428; genuine continuation from scan 444 closes here with Chapter 4 / Kural 34 -->

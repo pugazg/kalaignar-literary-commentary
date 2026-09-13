@@ -810,3 +810,90 @@ GR4 processed the final **12 consecutive pages: scans 433–444 / printed 416–
 - scan **444 / printed 427** remains deliberately source-open; external **444→445 DEFERRED / UNRESOLVED**;
 - no external/published/web terminology was imported.
 
+## Part 005 GR1 controls — scans 445–477
+
+### Chapter labels first evidenced or source-varied in Part 005 GR1
+
+| Tamil | Default English | Editorial note |
+|---|---|---|
+| மானம் | Honour | Chapter 97 label on scan 456 / printed 439. |
+| செய்ந்நன்றி யறிதல் | Gratitude | Chapter 11 label on scan 458 / printed 441; preserve the source spacing/form in the audited Tamil record. |
+| பகைத்திறம் தெரிதல் | Knowing the Nature of Enmity | Chapter 88 label on scan 461 / printed 444. |
+| அவை அஞ்சாமை | Fearlessness in the Assembly | Chapter 73 label on scan 473 / printed 456. |
+| அறன்வலியுறுத்தல் | The Insistence on Virtue | Source-closed variant on scan 445 / printed 428; maps to the established Chapter 4 control `அறன் வலியுறுத்தல்`. |
+| உறுப்புநலன் அழிதல் | Wasting Away of Bodily Beauty | Source-spacing/form variant on scan 463 / printed 446; maps to the established Chapter 124 control `உறுப்பு நலனழிதல்`. |
+
+Existing controlled labels reused unchanged in GR1 are **Reproaching the Eyes**, **Tyrannical Rule**, **The Blessing of Children**, **Declaring Love's Excellence**, **The Minister**, **Making the Sign Understood**, **Refraining from Slander**, **The Bewildering Power of Beauty**, **Fame**, and **Poverty**.
+
+### Narrative, place and literary controls first evidenced or reused in Part 005 GR1
+
+| Tamil | Default English form | Editorial note |
+|---|---|---|
+| தனிகைமலை | Tanikaimalai | Arulappar's returned friend in scans 448–449. |
+| அருளப்பர் | Arulappar | Tanikaimalai's close friend in scans 448–449. |
+| நல்லம்மாள் | Nallamma | Bereaved mother in scans 450–452; keep distinct from Part-004 `நல்லம்மை` → **Nallammai**. |
+| உலகநாதன் | Ulakanathan | Village elder in scans 450–452. |
+| மாங்காடு | Mankadu | Village setting of the arrogant-doctor vignette, scans 459–461. |
+| காவிரி / காவிரியாறு | Kaveri / Kaveri river | River reference in the rescue vignette, scan 457; use the natural river form contextually. |
+| ஆதனார் | Athanar | Source name/form in the prohibition-policy vignette, scans 464–465; preserve the source-checked project form without importing an external identification. |
+| கூத்தன் | Koothan | Minister in the prohibition-policy vignette, scans 464–465. |
+| விடியான் | Vidiyan | Self-seeking flatterer/backbiter in scans 468–469. |
+| பேராளன் | Peraalan | Prosperous man befriended by Vidiyan in scans 468–469. |
+| இளவேனில் | Ilavenil | Peraalan's loyal friend in scan 469. |
+| மேனகை | Menaka | Celestial woman named with Urvashi, Rambha and Tilottama on scan 470. |
+| வீரராகியர் | Veerarakkiyar | Former commander and later office-holder in scans 474–475. |
+| செந்தமிழ்வேள் / வேள் | Senthamizhvel / Vel | Younger king and shortened reference in scan 475. |
+
+Existing controls reused unchanged in this range include **Bharathidasan**, **Urvashi**, **Rambha**, and **Tilottama**.
+
+### Recurring literary / lexical controls confirmed in Part 005 GR1
+
+| Tamil | Default English | Evidence |
+|---|---|---|
+| கவரிமா / கவரிமான் | kavari deer | Honour vignette, scan 456; retain the source-checked project animal-name form. |
+| அணங்கு | celestial maiden | Beauty-description vignette, scans 470–471; source-bounded mythic/literary sense. |
+| புறம் | puram | Classical literary category paired with `அகம்` on scan 472; retain in transliteration. |
+| ஐம்பெருங் காப்பியம் | Five Great Epics | Literary corpus reference on scan 472. |
+
+### Source-printed lexical glosses confirmed in Part 005 GR1
+
+| Tamil | Default English | Evidence |
+|---|---|---|
+| ஆகுல நீர | clamorous nature | Source gloss `ஆரவாரத் தன்மை`, scan 445. |
+| கதுமென | swiftly | Source gloss `விரைவாக`, scan 447. |
+| கலுழும் | weep | Source gloss `அழும்`, scan 447. |
+| கரப்பாக்கு | hiding | Source gloss `மறைத்தல்`, scan 454. |
+| ஏதிலர் | one without love | Source gloss `அன்பில்லாதவர்`, scan 454. |
+| ஏமுற்றவர் | a madman | Source gloss `பித்துப்பிடித்தவர்`, scan 461. |
+| ஏழை | an ignorant person | Source gloss `அறிவற்றவன்`, scan 461. |
+| தமியன் | one who stands alone | Source gloss `தனித்தவன்`, scan 461. |
+| முயங்கிய | embraced | Source gloss `தழுவிய`, scan 463. |
+| ஊக்க | loosened | Source gloss `தளர்த்திட`, scan 463. |
+| செயற்கை | methods of doing things learned through books | Parenthetical source gloss `நூலறிவால் செயலைச் செய்யும் வகைகளை`, scan 465. |
+| காம்பு | bamboo | Source gloss `மூங்கில்`, scan 467. |
+| நீர்மை | nature | Source gloss `இயல்பு`, scan 467. |
+| மாலும் | becomes bewildered | Source gloss `மயங்கிடும்`, scan 471. |
+| வசை | blame | Source gloss `பழிப்பு`, scan 475. |
+| வண்பயன் | abundant yield | Source gloss `வளமான பயன்`, scan 475. |
+| இசை | fame | Source gloss `புகழ்`, scan 475. |
+| இற்பிறந்தார் | those born to a good family | Source gloss `நல்ல குடிப்பிறந்தவர்`, scan 477. |
+| இளி | degradation | Source gloss `இழிவு`, scan 477. |
+| இன்மை | poverty | Source gloss `வறுமை`, scan 477. |
+
+## Part 005 GR1 reconciliation record — scans 445–477
+
+GR1 processed **33 consecutive pages: scans 445–477 / printed 428–460**.
+
+- scans **445–477** — glossary / recurring-terminology reconciliation **PASS, 33/33**;
+- all **17 Kural citations across 16 metadata pages** were checked against their audited Tamil counterparts with **0 chapter-number or Kural-number mismatches**;
+- Part-005-first chapter controls added in this gate: **Honour**, **Gratitude**, **Knowing the Nature of Enmity**, and **Fearlessness in the Assembly**;
+- source variants `அறன்வலியுறுத்தல்` and `உறுப்புநலன் அழிதல்` are mapped to established controls **The Insistence on Virtue** and **Wasting Away of Bodily Beauty**;
+- recurring narrative/place/literary controls actually evidenced in the range were recorded above;
+- source-printed lexical glosses from scans **445, 447, 454, 461, 463, 465, 467, 471, 475, and 477** were recorded above without importing external meanings;
+- terminology consistency correction required on **1 English page file**:
+  - scan **445** — source gloss `ஆகுல நீர = ஆரவாரத் தன்மை` reconciled from **clamorous display** to **clamorous nature**;
+- all 33 English pages remain `source-checked`; this gate makes **no status promotion**;
+- incoming **444→445 GENUINE CONTINUATION / source-resolved** and outgoing **477→478 CLEAN** were preserved;
+- Tamil archival changes — **0**;
+- no external/published/web terminology or standard English Kural wording was imported.
+
