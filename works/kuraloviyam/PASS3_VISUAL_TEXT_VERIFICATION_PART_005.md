@@ -7,8 +7,8 @@
 - Printed pages: **428–538**
 - Physical scans: **111**
 - Gate: **Pass 3 — meaningful visual/text fidelity verification**
-- Initial cadence: **11 physical scans per normal iteration unless the user changes the cadence**
-- Status: **ACTIVE — 33/111 complete; next Batch 4 / scans 478–488**
+- Cadence: **Batches 1–3 used 11 physical scans; from Batch 4 onward the user-directed cadence is 12 physical scans per normal iteration**, with a shorter final remainder when fewer than 12 scans remain
+- Status: **ACTIVE — 45/111 complete; next Batch 5 / scans 490–501**
 
 ## Preconditions
 
@@ -135,21 +135,59 @@ No final status promotion occurs during Pass 3. All Part-005 page records remain
 - Page correction commit: `75d23a0350b3bfbdcd2404cd00eceafcbd0a70ea` — exact compare from `7297492059382ef09d8f676cdf3f446b10615349` changes exactly **2 page files**, scans **472 and 474** only.
 - All Part-005 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
 
+## Batch 4 — scans 478–489 / printed 461–472
+
+**Result: COMPLETE — 12 / 12.**
+
+User-directed cadence change applied here: **12 physical scans per normal Pass-3 iteration** from Batch 4 onward.
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 478 | 461 | **NO STRUCTURAL CHANGE** — one-page eye/brow beauty vignette; the large upper woman-and-young-man illustration, Kural 1086, Chapter 109 metadata and source gloss remain in the correct visual/text order. |
+| 479 | 462 | **NO STRUCTURAL CHANGE** — large upper adornment-contest illustration remains above the prose, with the judge holding the garland and the two contestants before him; the Veerasingam/Anbaananthan vignette continues to scan 480. |
+| 480 | 463 | **NO STRUCTURAL CHANGE** — text-only continuation/closure of the adornment contest; Kural 95 and Chapter 10 metadata remain correctly separated near the foot of the page. |
+| 481 | 464 | **CORRECTED** — direct source inspection shows **two women bathing beneath a waterfall, one crouched in the foreground and one standing behind**. The previous note described only a bathing woman with an unspecified figure behind. `visual_notes` corrected only; body wording and review flags unchanged. |
+| 482 | 465 | **NO STRUCTURAL CHANGE** — text-only continuation/closure of the degraded-company analogy; Kural 452 and Chapter 46 metadata remain correctly separated above the small chariot/Valluvar Kottam page furniture. |
+| 483 | 466 | **NO STRUCTURAL CHANGE** — large upper lovers illustration beside a lamp remains above the prose; the learned-reader / lovers'-union analogy begins below and continues to scan 484. |
+| 484 | 467 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 1110, Chapter 111 metadata and the source gloss remain correctly separated above the small monument page furniture. |
+| 485 | 468 | **NO STRUCTURAL CHANGE** — large upper modern two-men handshake illustration remains above the prose, with a microphone and seating behind; the Tamil-language pride / unsuitable-audience vignette begins below and continues to scan 486. |
+| 486 | 469 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 720, Chapter 72 metadata and the two source glosses remain correctly grouped. |
+| 487 | 470 | **NO STRUCTURAL CHANGE** — large upper hermitage illustration remains above the prose, with the sage beside the reclining Ahalikai; the Ahalikai/Indran self-control vignette begins below and continues to scan 488. |
+| 488 | 471 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 25, Chapter 3 metadata and the two source glosses remain correctly separated above the small standing-statue page furniture. |
+| 489 | 472 | **NO STRUCTURAL CHANGE** — large upper illustration of a man bending before a richly dressed woman remains above the prose; the corrupt-hypocrite / ill-gotten-wealth vignette begins below and continues directly to scan 490. |
+
+### Boundary / continuity result
+
+- Incoming **477→478 CLEAN** remains confirmed.
+- **489→490 is a GENUINE CONTINUATION**, reconfirmed from scan **490 / printed 473**: scan 489 opens the corrupt-hypocrite / ill-gotten-wealth vignette and scan 490 continues and closes it with Chapter 66 / Kural 660.
+- Scan 490 was used only as the outgoing witness and is **not** counted in Batch 4.
+
+### Batch 4 correction summary
+
+- Structural/visual-description corrections: **1 page — scan 481**.
+- No-change scans: **478–480, 482–489 — 11 pages**.
+- Lexical/body-text changes: **0**.
+- Status promotion: **0**.
+- Page correction commit: `8147f80ba2124e8947834c9e688db2fa177df794` — exact compare from `fbb3e60ac5c6656f7224566ba6dea28a0531c4b9` changes exactly **1 page file**, scan **481** only.
+- All Part-005 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+
 ## Current Pass 3 coverage
 
-- complete — **33/111 scans**;
-- remaining — **78 scans**;
+- complete — **45/111 scans**;
+- remaining — **66 scans**;
 - Batch 1 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - Batch 2 — **456–466 / printed 439–449 — COMPLETE 11/11**;
 - Batch 3 — **467–477 / printed 450–460 — COMPLETE 11/11**;
+- Batch 4 — **478–489 / printed 461–472 — COMPLETE 12/12**;
 - incoming Part boundary **444→445 — GENUINE CONTINUATION / source-resolved**;
 - **455→456 — GENUINE CONTINUATION** preserved;
 - **466→467 — GENUINE CONTINUATION** preserved;
-- outgoing Batch-3 boundary **477→478 — CLEAN**;
+- **477→478 — CLEAN** preserved;
+- outgoing Batch-4 boundary **489→490 — GENUINE CONTINUATION**;
 - current page statuses — **111 needs-review / 111 visual needs-review**.
 
-## Exact next activity — Batch 4
+## Exact next activity — Batch 5
 
-Process scans **478–488 / printed 461–471**.
+Process **12 pages**: scans **490–501 / printed 473–484**.
 
-Preserve incoming **477→478 CLEAN**. Inspect scan **489 / printed 472** only as the outgoing boundary witness when required. Record per-page Pass-3 structural/visual results, commit only source-required record changes, compare the batch base→head changed-file set, and keep all review flags unchanged.
+Preserve incoming **489→490 GENUINE CONTINUATION**. Inspect scan **502 / printed 485** only as the outgoing boundary witness when required. Record per-page Pass-3 structural/visual results, commit only source-required record changes, compare the batch base→head changed-file set, and keep all review flags unchanged.

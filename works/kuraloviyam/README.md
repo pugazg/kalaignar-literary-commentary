@@ -265,13 +265,16 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - Pass 3 Batch 1 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - Pass 3 Batch 2 — **456–466 / printed 439–449 — COMPLETE 11/11**;
 - Pass 3 Batch 3 — **467–477 / printed 450–460 — COMPLETE 11/11**;
-- Pass-3 structural/visual corrections through Batch 3 — **2 pages / scans 472, 474**;
-- Pass-3 lexical/body-text changes through Batch 3 — **0**;
-- Batch-3 Pass-3 page correction commit — `75d23a0350b3bfbdcd2404cd00eceafcbd0a70ea`;
+- Pass 3 Batch 4 — **478–489 / printed 461–472 — COMPLETE 12/12**;
+- user-directed Pass-3 cadence from Batch 4 onward — **12 physical scans per normal iteration**;
+- Pass-3 structural/visual corrections through Batch 4 — **3 pages / scans 472, 474, 481**;
+- Pass-3 lexical/body-text changes through Batch 4 — **0**;
+- Batch-4 Pass-3 page correction commit — `8147f80ba2124e8947834c9e688db2fa177df794`;
 - **455→456 GENUINE CONTINUATION** preserved;
 - **466→467 GENUINE CONTINUATION** preserved;
-- **477→478 CLEAN** reconfirmed;
-- cumulative Pass 3 — **33/111**;
+- **477→478 CLEAN** preserved;
+- **489→490 GENUINE CONTINUATION** reconfirmed;
+- cumulative Pass 3 — **45/111**;
 - **555→556 CLEAN**.
 
 ## Part 006 — SOURCE-READY / WAITING
@@ -283,4 +286,4 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 
 ## Current frontier
 
-**Part 005 Pass 3 Batch 4 — scans 478–488 / printed 461–471.**
+**Part 005 Pass 3 Batch 5 — scans 490–501 / printed 473–484 — 12 pages.**
