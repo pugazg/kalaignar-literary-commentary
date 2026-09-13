@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,7 +19,7 @@ Good heavens! What a sharp sword!
 
 Its gleam steals the eye like lightning flashing through pitch darkness amid crashing thunder. What skill the smith who forged such a sword must possess!
 
-An army equipped with weapons like that sword could never even be touched by defeat. If that blade merely whirled on the battlefield, the enemy would tremble. A mighty sword capable of tossing two or three severed heads into the air with a single sweep—there it is, raised in one hand, its beam of light tearing lines across the sky.
+Defeat could not even touch an army equipped with weapons like that sword. If that blade merely whirled on the battlefield, the enemy would tremble. A mighty sword capable of tossing two or three severed heads into the air with a single sweep—there it is, raised in one hand, its beam of light tearing lines across the sky.
 
 Palm-leaf manuscripts lie scattered in heaps.
 

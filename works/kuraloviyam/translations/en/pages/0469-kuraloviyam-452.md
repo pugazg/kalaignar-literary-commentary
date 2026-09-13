@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 Peraalan had many friends. Those friends loved him sincerely. Vidiyan joined them and pretended that he too was taking care of all Peraalan's affairs.
 
-Whenever those friends were absent, Vidiyan would pour some piece of slander into Peraalan's ear about them. He shaped circumstances so that he alone would possess special influence with Peraalan above everyone else.
+Whenever those friends were absent, Vidiyan would whisper some slander into Peraalan's ear about them. He shaped circumstances so that he alone would possess special influence with Peraalan above everyone else.
 
 Deceived by his plot, Peraalan drove away his dearest friends one by one.
 
