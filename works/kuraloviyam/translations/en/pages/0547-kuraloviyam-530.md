@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -25,7 +25,7 @@ Spears and arrows were the toys of his childhood.
 
 He was a lord of valour who regarded battle wounds upon his chest as strings of pearls.
 
-He was a victorious lamp of the Tamil people celebrated by the literature of the Purananuru, a people who considered showing one's back to the enemy a disgrace.
+He was a victorious lamp of the Tamil people celebrated in the Purananuru—a people who regarded turning one's back on the enemy as a disgrace.
 
 That Tamil hero, filled with zeal for war, also possessed a vast love for the language that had raised him.
 
