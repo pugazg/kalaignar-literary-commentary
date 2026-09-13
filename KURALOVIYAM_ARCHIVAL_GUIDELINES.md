@@ -207,7 +207,7 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 ### Part 005 — overall scans 445–555
 
-**SOURCE INTAKE: PASS / COMPLETE. PASS 1: COMPLETE 111/111. PASS 2A: COMPLETE / PASS 111/111. PASS 2B: COMPLETE / PASS 111/111. PASS 3: COMPLETE / PASS 111/111. PART AUDIT: PASS / COMPLETE. FINAL STATUS SYNC: PASS / CLOSED. DOCUMENTATION SYNC: COMPLETE / PASS. TAMIL ARCHIVAL-READY: PASS / CLOSED. ENGLISH DRAFTING: COMPLETE / CLOSED 111/111. ENGLISH SOURCE-CHECK: COMPLETE / CLOSED 111/111. ENGLISH GLOSSARY RECONCILIATION: NOT STARTED.**
+**SOURCE INTAKE: PASS / COMPLETE. PASS 1: COMPLETE 111/111. PASS 2A: COMPLETE / PASS 111/111. PASS 2B: COMPLETE / PASS 111/111. PASS 3: COMPLETE / PASS 111/111. PART AUDIT: PASS / COMPLETE. FINAL STATUS SYNC: PASS / CLOSED. DOCUMENTATION SYNC: COMPLETE / PASS. TAMIL ARCHIVAL-READY: PASS / CLOSED. ENGLISH DRAFTING: COMPLETE / CLOSED 111/111. ENGLISH SOURCE-CHECK: COMPLETE / CLOSED 111/111. ENGLISH GLOSSARY RECONCILIATION: IN PROGRESS 33/111.**
 
 - P5-01 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - P5-02 — **456–466 / printed 439–449 — COMPLETE 11/11**;
@@ -329,4 +329,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 ### Exact next content stage
 
-Continue **Part 005 English glossary reconciliation GR1 — scans 445–477 / printed 428–460 — 33 pages**. English source-check is now **COMPLETE / CLOSED 111/111** with **111 source-checked / 0 draft**. SC4 corrected **4 page files / scans 549, 550, 553, 555** and changed the other 8 final pages by status only; no Tamil archival record changed. Reconcile source-evidenced terminology only against audited Tamil records and project `GLOSSARY.md`; preserve page statuses, project-created wording identity, Kural blocks, metadata and continuities. Do not import published/web terminology or standard English Kural wording. Part 006 remains blocked until Part 005 English and final closure are complete.
+Continue **Part 005 English glossary reconciliation GR2 — scans 478–510 / printed 461–493 — 33 pages**. GR1 / scans **445–477 / printed 428–460** is **COMPLETE / PASS 33/33**, cumulative glossary reconciliation **33/111**. GR1 changed one English page wording: scan **445** source gloss `ஆகுல நீர = ஆரவாரத் தன்மை` from **clamorous display** to **clamorous nature**; all page statuses remain `source-checked`, and no Tamil archival record changed. Reconcile source-evidenced terminology only against audited Tamil records and project `GLOSSARY.md`; preserve incoming **477→478 CLEAN**, outgoing **510→511 CLEAN**, page statuses, project-created wording identity, Kural blocks, metadata and continuities. Do not import published/web terminology or standard English Kural wording. Part 006 remains blocked until Part 005 English and final closure are complete.

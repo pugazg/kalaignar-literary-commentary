@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 005 English Glossary Reconciliation GR1
+# NEXT CHAT PROMPT — குறளோவியம் / Part 005 English Glossary Reconciliation GR2
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -28,38 +28,7 @@ All scans **445–555 / printed 428–538** have page-aligned English records.
 
 ## English source-check — COMPLETE / CLOSED 111/111
 
-### SC1 — COMPLETE / PASS 33/33
-- scans **445–477 / printed 428–460**;
-- correction pages — **476–477**.
-
-### SC2 — COMPLETE / PASS 33/33
-- scans **478–510 / printed 461–493**;
-- correction pages — **492, 501, 502**.
-
-### SC3 — COMPLETE / PASS 33/33
-- scans **511–543 / printed 494–526**;
-- correction pages — **511, 512, 518, 519, 525, 533, 534, 537**.
-
-### SC4 final remainder — COMPLETE / PASS 12/12
-- scans **544–555 / printed 527–538**;
-- page commits:
-  - `6a275273a2eb05ddedbf637e95fff9c03e8254a5` — scans 544–548;
-  - `1f14dec997d70c3ee13fe16f1560c1c58dd0c185` — scans 549–550;
-  - `113846a357544a33b73d727d20115471f2f3411f` — scans 551–555;
-- exact compare from pre-SC4 control checkpoint `c67e24794f25899f2a38c99dc1fc03af562240b3` to SC4 endpoint `113846a357544a33b73d727d20115471f2f3411f`:
-  - **3 commits ahead / non-divergent**;
-  - exactly **12 modified English page files**;
-  - Tamil page changes — **0**;
-  - control-document changes during the page layer — **0**;
-- source-fidelity correction pages — **4 / scans 549, 550, 553, 555**;
-- scans **549–550** restored the audited physical-page split in the education / daughter vignette;
-- scan **553** restored source gloss `அலர் = பலர் அறிதல்` as **becoming known to many** without the added “gossip” gloss;
-- scan **555** restored source-named **narambu-silandhi disease** and the explicit “kill little by little” force;
-- other **8/12** pages required status promotion only;
-- incoming **543→544 GENUINE CONTINUATION** preserved;
-- outgoing **555→556 CLEAN / source-resolved** preserved.
-
-Current Part-005 English state:
+SC1–SC4 are complete. Current Part-005 English page state remains:
 
 - `source-checked` — **111**;
 - `draft` — **0**;
@@ -68,13 +37,34 @@ Current Part-005 English state:
 - `source-limited` — **0**;
 - `blocked` — **0**.
 
-No published, standard or web English Kural wording was imported. No Tamil archival record changed.
+## English glossary reconciliation — IN PROGRESS 33/111
 
-## Exact next activity — Glossary Reconciliation GR1
+### GR1 — COMPLETE / PASS 33/33
+
+- scans **445–477 / printed 428–460**;
+- commit — `fcbea72faefca6e521f1334e10363a7f0d13894b`;
+- exact compare from pre-GR1 checkpoint `2294dbd8fb1c6b0f3ef49c09dee984e949bdfc3a` to GR1 endpoint `fcbea72faefca6e521f1334e10363a7f0d13894b`:
+  - **1 commit ahead / non-divergent**;
+  - exactly **2 modified files** — `GLOSSARY.md` and English scan **445**;
+  - Tamil page changes — **0**;
+  - page-status changes — **0**;
+- all **17 Kural citations across 16 metadata pages** checked with **0 Chapter/Kural-number mismatches**;
+- Part-005-first chapter controls added: **Honour**, **Gratitude**, **Knowing the Nature of Enmity**, **Fearlessness in the Assembly**;
+- source variants `அறன்வலியுறுத்தல்` and `உறுப்புநலன் அழிதல்` mapped to existing controls **The Insistence on Virtue** and **Wasting Away of Bodily Beauty**;
+- source-evidenced narrative/place/literary and source-gloss controls recorded in `GLOSSARY.md`;
+- one English page terminology correction:
+  - scan **445** — `ஆகுல நீர = ஆரவாரத் தன்மை`: **clamorous display → clamorous nature**;
+- incoming **444→445 GENUINE CONTINUATION / source-resolved** preserved;
+- outgoing **477→478 CLEAN** preserved;
+- no external/published/web terminology or standard English Kural wording imported.
+
+Cumulative glossary reconciliation: **33/111**.
+
+## Exact next activity — Glossary Reconciliation GR2
 
 Reconcile:
 
-**scans 445–477 / printed 428–460 — 33 pages**.
+**scans 478–510 / printed 461–493 — 33 pages**.
 
 For each English record:
 
@@ -89,7 +79,7 @@ For each English record:
 
 Boundary discipline:
 
-- incoming **444→445 — GENUINE CONTINUATION / source-resolved**;
-- outgoing **477→478 — CLEAN**.
+- incoming **477→478 — CLEAN**;
+- outgoing **510→511 — CLEAN**.
 
 Part 006 remains transcription-inactive until Part 005 completes the maintained English workflow and final Part closure.
