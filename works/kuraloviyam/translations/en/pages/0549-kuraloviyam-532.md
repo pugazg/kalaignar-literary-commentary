@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -35,14 +35,4 @@ Her lips became red fruit.
 
 Her body was like a statue dipped in molten gold.
 
-Men who saw her refused to close their eyelids again.
-
-Mouths opened to praise her remained open.
-
-Her eyes were a silver stage upon which black bees circled and danced.
-
-One day the mother who had given birth to that lotus called her golden daughter close and seated her beside her.
-
-She was about to conduct a selection for the daughter's future life.
-
-<!-- Source scan page: 549; printed page: 532; education / daughter / உயர்வு vignette begins and continues directly to scan 550 / printed 533 -->
+<!-- Source scan page: 549; printed page: 532; education / daughter / உயர்வு vignette begins and continues directly to scan 550 / printed 533; English split restored to the audited physical page boundary -->

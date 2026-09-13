@@ -6,10 +6,20 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
+
+Men who saw her refused to close their eyelids again.
+
+Mouths opened to praise her remained open.
+
+Her eyes were a silver stage upon which black bees circled and danced.
+
+One day the mother who had given birth to that lotus called her golden daughter close and seated her beside her.
+
+She was about to conduct a selection for the daughter's future life.
 
 “My dear daughter! Your father and I have decided that it is time to arrange your marriage.
 
