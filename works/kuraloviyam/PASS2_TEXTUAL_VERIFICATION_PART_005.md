@@ -168,8 +168,36 @@ Durable correction commit:
 
 Exact compare from pre-batch `3a1091cbe8998652a58c97f7d4d6556e4ffb617b` to correction endpoint `5d9478576f4296e34338447145c518686cd925af` is **ahead by 1 commit** and changes exactly **3 page files**, scans **490, 492, 493** only.
 
+## Batch 6 — overall scans 500–510 / printed pages 483–493
+
+**Status: COMPLETE — 11 / 11 scans directly compared against rendered source.**
+
+Incoming **499→500 GENUINE CONTINUATION** was preserved. Scan **511 / printed 494** was inspected only as the outgoing witness and confirms **510→511 CLEAN**: scan 510 closes the natural-cataclysm / steadfastness vignette with Chapter 99 / Kural 989, while scan 511 starts a new illustrated absent-lover vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 500 | 483 | corrected `சுகத்தில் கூடிக்கிளித்ததை` → source-visible `சுகத்தில் கூடிக் களித்ததை`; Chapter 114 / Kural 1138 and both source glosses confirmed |
+| 501 | 484 | direct textual comparison complete; no correction required; public-tank vignette continues into 502 |
+| 502 | 485 | direct textual comparison complete; no correction required; Chapter 19 / Kural 190 confirmed |
+| 503 | 486 | direct textual comparison complete; no correction required; Thogai/Thumbai vignette continues into 504 |
+| 504 | 487 | direct textual comparison complete; no correction required; Chapter 110 / Kural 1096 and three source glosses confirmed |
+| 505 | 488 | direct textual comparison complete; no correction required; Senguttuvan / Kanaka-Vijaya vignette continues into 506 |
+| 506 | 489 | direct textual comparison complete; no correction required; Chapter 65 / Kural 642 confirmed |
+| 507 | 490 | direct textual comparison complete; no correction required; separated-lovers / pride vignette continues into 508 |
+| 508 | 491 | direct textual comparison complete; no correction required; source-visible repeated `அவனாலும்` retained; Chapter 126 / Kural 1255 and source gloss confirmed |
+| 509 | 492 | direct textual comparison complete; no correction required; natural-cataclysm / steadfastness vignette continues into 510 |
+| 510 | 493 | corrected `எப்பொழுதாவது நடைபெற்றதான் செய்கிறது` → source-visible `எப்பொழுதாவது நடைபெற்றுத்தான் செய்கிறது`; Chapter 99 / Kural 989 and both source glosses confirmed; scan 511 witness confirms CLEAN boundary |
+
+Batch 6 correction summary: **2 records corrected; 9 records required no textual change; 2 source-supported readings corrected in total**.
+
+Durable correction commit:
+
+`fe14f3a9e284bd91b03ddaa927eb4d4595e86d30` — `kuraloviyam: Pass 2A verify Part 005 scans 500-510`
+
+Exact compare from pre-batch `f2c96965d127eff88e71f047c3a985bb1a880a27` to correction endpoint `fe14f3a9e284bd91b03ddaa927eb4d4595e86d30` is **ahead by 1 commit** and changes exactly **2 page files**, scans **500, 510** only.
+
 ## Current gate
 
-Part 005 Pass 2A: **55/111 complete**.
+Part 005 Pass 2A: **66/111 complete**.
 
-Next: **Batch 6 / scans 500–510 / printed 483–493**, preserving incoming **499→500 GENUINE CONTINUATION** and inspecting scan **511 / printed 494** only as the outgoing witness when required.
+Next: **Batch 7 / scans 511–521 / printed 494–504**, preserving incoming **510→511 CLEAN** and inspecting scan **522 / printed 505** only as the outgoing witness when required.

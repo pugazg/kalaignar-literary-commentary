@@ -409,19 +409,22 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - Batch 3 **467–477 / printed 450–460 — COMPLETE 11/11**;
 - Batch 4 **478–488 / printed 461–471 — COMPLETE 11/11**;
 - Batch 5 **489–499 / printed 472–482 — COMPLETE 11/11**;
-- cumulative Pass 2A — **55/111**;
+- Batch 6 **500–510 / printed 483–493 — COMPLETE 11/11**;
+- cumulative Pass 2A — **66/111**;
 - corrected Batch-1 scans — **447, 451**;
 - corrected Batch-2 scans — **457, 462, 463, 464, 465**;
 - corrected Batch-3 scans — **467, 468, 469, 471, 473, 476, 477**;
 - corrected Batch-4 scans — **480, 481, 482, 486, 487, 488**;
 - corrected Batch-5 scans — **490, 492, 493**;
+- corrected Batch-6 scans — **500, 510**;
 - **444→445 genuine continuation** preserved from source intake / closed Part 004;
 - **455→456 genuine continuation** preserved;
 - **466→467 genuine continuation** preserved;
 - **477→478 CLEAN** preserved;
 - **488→489 CLEAN** preserved;
-- **499→500 genuine continuation**, reconfirmed from scan 500 / printed 483 witness.
+- **499→500 genuine continuation** preserved;
+- **510→511 CLEAN**, reconfirmed from scan 511 / printed 494 witness.
 
 ## Current frontier
 
-**Part 005 Pass 2A Batch 6 — scans 500–510 / printed 483–493.**
+**Part 005 Pass 2A Batch 7 — scans 511–521 / printed 494–504.**
