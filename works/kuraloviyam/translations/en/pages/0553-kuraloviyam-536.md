@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -46,6 +46,6 @@ The birds in the branches of the punnai tree blessed us too.
 
 Chapter 115 — The Spreading of Rumour; Kural 1142
 
-அலர் = becoming known publicly; gossip
+அலர் = becoming known to many
 
 <!-- Source scan page: 553; printed page: 536; genuine continuation from scan 552 closes here with Chapter 115 / Kural 1142; 553→554 is CLEAN -->

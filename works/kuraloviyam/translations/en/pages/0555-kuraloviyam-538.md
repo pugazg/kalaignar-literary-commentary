@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -53,7 +53,7 @@ The ascetic laughed after hearing Poongunran's explanation.
 
 “If you lie and rest beneath a tamarind tree merely because it gives pleasant shade, the body may heat up and become ill.
 
-“If, thinking only that water is cool, you draw and drink from a poisoned well, disease may take hold and slowly destroy you.
+“If, thinking only that water is cool, you draw and drink from a poisoned well, narambu-silandhi disease may take hold and kill you little by little.
 
 “The relatives and friends who surrounded you were like the shade of the tamarind tree and the cool water of the poisoned well.
 
