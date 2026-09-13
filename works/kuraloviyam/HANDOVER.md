@@ -293,11 +293,13 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - durable Tamil archival-ready record — `works/kuraloviyam/PART_005_TAMIL_ARCHIVAL_READY.md`;
 - English Draft D1 — **445–477 / printed 428–460 — COMPLETE 33/33**;
 - cumulative English drafting — **33/111**;
-- current English status — **33 draft / 0 source-checked / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
-- remaining undrafted — **78**;
-- D1 endpoint — `47ab95e0005abdb59ff7b49920ede25399cc08ce`;
-- D1 page-only audit — **33 added English page files only / 0 Tamil changes / 0 control-file changes**;
-- next gate — **English Draft D2 / scans 478–510 / printed 461–493 — 33 pages**.
+- English Draft D2 — **478–510 / printed 461–493 — COMPLETE 33/33**;
+- cumulative English drafting — **66/111**;
+- current English status — **66 draft / 0 source-checked / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
+- remaining undrafted — **45**;
+- D2 endpoint — `944813bb74d3fc344757a7eedf5f18d9d427c8fe`;
+- D2 page-only audit — **33 added English page files only / 0 Tamil changes / 0 control-file changes**;
+- next gate — **English Draft D3 / scans 511–543 / printed 494–526 — 33 pages**.
 
 ## Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -307,4 +309,4 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ## Exact next activity
 
-Proceed with **Part 005 English Draft D2 / scans 478–510 / printed 461–493 — 33 pages**. Preserve **477→478 CLEAN**, use the archival-ready Tamil records as normal authority, keep new English records at `draft`, preserve metadata/visual/continuation structure, and do not import external English wording. Do not start Part 006 transcription.
+Proceed with **Part 005 English Draft D3 / scans 511–543 / printed 494–526 — 33 pages**. Preserve **510→511 CLEAN**, use the archival-ready Tamil records as normal authority, keep new English records at `draft`, preserve metadata/visual/continuation structure, and do not import external English wording. Do not start Part 006 transcription.
