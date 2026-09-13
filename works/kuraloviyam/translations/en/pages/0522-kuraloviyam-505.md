@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -35,7 +35,7 @@ He was educated.
 
 He possessed talent.
 
-He had the ability to use his intelligence and perform difficult deeds.
+He had the ability to use his intelligence and accomplish remarkable deeds.
 
 Yet in a war he had commanded as general, circumstances brought him to defeat by the enemy.
 

@@ -6,14 +6,14 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
 —the occupants of the throne devised plans to make that person a victim of their swollen power.
 
-But for how many days can people remain subdued like tortoises and silent like the mute?
+But for how many days can people remain withdrawn like tortoises and mute as the speechless?
 
 When the storm of revolution rises, do not even worms become tigers?
 
