@@ -224,8 +224,36 @@ Durable correction commit:
 
 Exact compare from pre-batch `a44a08e1307e01b0c87916d3f91060be30e97c38` to correction endpoint `7c87cc0b41de0141062d1847fae8e8fc73fc40b1` is **ahead by 1 commit** and changes exactly **2 page files**, scans **518, 519** only.
 
+## Batch 8 — overall scans 522–532 / printed pages 505–515
+
+**Status: COMPLETE — 11 / 11 scans directly compared against rendered source.**
+
+Incoming **521→522 CLEAN** was preserved. Scan **533 / printed 516** was inspected only as the outgoing witness and confirms **532→533 CLEAN**: scan 532 closes the duty / child-rescue vignette with Chapter 103 / Kural 1021, while scan 533 begins a new illustrated `உடையரென்பது ஊக்கம்` vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 522 | 505 | direct textual comparison complete; no correction required; false-praise / dependent-puppet vignette continues into 523 |
+| 523 | 506 | direct textual comparison complete; no correction required; Chapter 102 / Kural 1020 confirmed |
+| 524 | 507 | corrected `தமிழின்பால் தனியாத வேட்கை` → source-visible `தமிழின்பால் தணியாத வேட்கை`; Arulalan vignette continues into 525 |
+| 525 | 508 | corrected `துணைத்தளபதிப் பெறப்பென்றால்` → `துணைத்தளபதிப் பொறுப்பென்றால்`; corrected `சொந்தப் பொருப்பில்` → `சொந்தப் பொறுப்பில்`; continuation into 526 confirmed |
+| 526 | 509 | corrected `குழ்ச்சிக்காரர்கள்` → `சூழ்ச்சிக்காரர்கள்`; corrected Kural `செய்த்நன்றி` → source-visible `செய்ந்நன்றி`; Chapter 11 / Kural 110 confirmed |
+| 527 | 510 | corrected `அனுவளவுக் கவலையும்` → source-visible `அணுவளவுக் கவலையும்`; militaristic-king vignette continues into 528 |
+| 528 | 511 | corrected `அந்தச் சொற்களில் நயமாக அறிவுறுத்தியிருப்பது` → `அந்தச் சொற்களின் வாயிலாக அறிவுறுத்தியிருப்பது`; `தடுப்பதுப்` → `தடுத்துப்`; `குறள் மட்டுமல்ல` → `குரல் மட்டுமல்ல`; Chapter 39 / Kural 389 and source glosses confirmed |
+| 529 | 512 | corrected `வாத்துக்களிடையே` → `வாத்துக்களினிடையே`; `மெல்லத்தில்` → `வெல்லத்தில்`; five-senses vignette continues into 530 |
+| 530 | 513 | corrected `ஒடிவந்து` → `ஓடிவந்து`; `அளவளாவு` → `அணுவளவு`; Chapter 111 / Kural 1101 confirmed |
+| 531 | 514 | corrected `புவிகள் ஆயிரம்` → source-visible `புலிகள் ஆயிரம்`; duty / child-rescue vignette continues into 532 |
+| 532 | 515 | corrected `வசதேவன்` → `வசுதேவன்`; corrected `வேதனையில்` → `வேதனையைவிட`, `இருட்டும்போது` → `இருக்கும்போது`, and `இரித்துக்` → `இனித்துக்`; Chapter 103 / Kural 1021 and source gloss confirmed; scan 533 witness confirms CLEAN boundary |
+
+Batch 8 correction summary: **9 records corrected; 2 records required no textual change; 18 source-supported readings corrected in total**.
+
+Durable correction commit:
+
+`ba6e0ba0b7b438476bbafb846212e05c080f6028` — `kuraloviyam: Pass 2A verify Part 005 scans 522-532`
+
+Exact compare from pre-batch `d76f9d6f0ec9393717b8d7341052073dcaca5b00` to correction endpoint `ba6e0ba0b7b438476bbafb846212e05c080f6028` is **ahead by 1 commit** and changes exactly **9 page files**, scans **524–532** only.
+
 ## Current gate
 
-Part 005 Pass 2A: **77/111 complete**.
+Part 005 Pass 2A: **88/111 complete**.
 
-Next: **Batch 8 / scans 522–532 / printed 505–515**, preserving incoming **521→522 CLEAN** and inspecting scan **533 / printed 516** only as the outgoing witness when required.
+Next: **Batch 9 / scans 533–543 / printed 516–526**, preserving incoming **532→533 CLEAN** and inspecting scan **544 / printed 527** only as the outgoing witness when required.

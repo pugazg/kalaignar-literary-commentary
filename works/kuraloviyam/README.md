@@ -197,7 +197,8 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - Pass 2A Batch 5 — **489–499 / printed 472–482 — COMPLETE 11/11**;
 - Pass 2A Batch 6 — **500–510 / printed 483–493 — COMPLETE 11/11**;
 - Pass 2A Batch 7 — **511–521 / printed 494–504 — COMPLETE 11/11**;
-- cumulative Pass 2A — **77/111**;
+- Pass 2A Batch 8 — **522–532 / printed 505–515 — COMPLETE 11/11**;
+- cumulative Pass 2A — **88/111**;
 - Batch-3 corrections — **7 page records / 10 source-supported readings**;
 - Batch-3 correction commit — `b6ce17d55759f05f80af760ac9d3d2cd0ec96bac`;
 - Batch-4 corrections — **6 page records / 8 source-supported readings**;
@@ -209,7 +210,9 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - Batch-6 correction commit — `fe14f3a9e284bd91b03ddaa927eb4d4595e86d30`;
 - Batch-7 corrections — **2 page records / 3 source-supported readings**;
 - Batch-7 correction commit — `7c87cc0b41de0141062d1847fae8e8fc73fc40b1`;
-- **521→522 CLEAN**;
+- Batch-8 corrections — **9 page records / 18 source-supported readings**;
+- Batch-8 correction commit — `ba6e0ba0b7b438476bbafb846212e05c080f6028`;
+- **532→533 CLEAN**;
 - **555→556 CLEAN**.
 
 ## Part 006 — SOURCE-READY / WAITING
@@ -221,4 +224,4 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 
 ## Current frontier
 
-**Part 005 Pass 2A Batch 8 — scans 522–532 / printed 505–515.**
+**Part 005 Pass 2A Batch 9 — scans 533–543 / printed 516–526.**

@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 005 Pass 2A Batch 8
+# NEXT CHAT PROMPT — குறளோவியம் / Part 005 Pass 2A Batch 9
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,20 +8,26 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 Durable state:
 - Pass 1 — **COMPLETE 111/111**;
-- Pass 2A Batches 1–7 — **COMPLETE 77/111**;
-- Batch 7 — **511–521 / printed 494–504 — COMPLETE 11/11**;
-- Batch-7 corrections — **2 records / 3 readings**:
-  - scan 518 — `அந்திக்குக் கோபுரம்` → source-visible `அநீதிக்குக் கோபுரம்`;
-  - scan 518 — `எச்சத்துக்கும்` → source-visible `எச்சக்கும்`;
-  - scan 519 — `ஆதிக்க வெங்கைகள்` → source-visible `ஆதிக்க வேங்கைகள்`;
-- correction commit — `7c87cc0b41de0141062d1847fae8e8fc73fc40b1`;
-- exact compare — **2 page files only / scans 518, 519**;
-- incoming **510→511 CLEAN** preserved;
-- outgoing **521→522 CLEAN**, checked from scan 522 / printed 505;
+- Pass 2A Batches 1–8 — **COMPLETE 88/111**;
+- Batch 8 — **522–532 / printed 505–515 — COMPLETE 11/11**;
+- Batch-8 corrections — **9 records / 18 readings**:
+  - scan 524 — `தனியாத` → `தணியாத`;
+  - scan 525 — `பெறப்பென்றால்` → `பொறுப்பென்றால்`; `பொருப்பில்` → `பொறுப்பில்`;
+  - scan 526 — `குழ்ச்சிக்காரர்கள்` → `சூழ்ச்சிக்காரர்கள்`; Kural `செய்த்நன்றி` → `செய்ந்நன்றி`;
+  - scan 527 — `அனுவளவுக்` → `அணுவளவுக்`;
+  - scan 528 — `அந்தச் சொற்களில் நயமாக` → `அந்தச் சொற்களின் வாயிலாக`; `தடுப்பதுப்` → `தடுத்துப்`; `குறள் மட்டுமல்ல` → `குரல் மட்டுமல்ல`;
+  - scan 529 — `வாத்துக்களிடையே` → `வாத்துக்களினிடையே`; `மெல்லத்தில்` → `வெல்லத்தில்`;
+  - scan 530 — `ஒடிவந்து` → `ஓடிவந்து`; `அளவளாவு` → `அணுவளவு`;
+  - scan 531 — `புவிகள்` → `புலிகள்`;
+  - scan 532 — `வசதேவன்` → `வசுதேவன்`; `வேதனையில்` → `வேதனையைவிட`; `இருட்டும்போது` → `இருக்கும்போது`; `இரித்துக்` → `இனித்துக்`;
+- correction commit — `ba6e0ba0b7b438476bbafb846212e05c080f6028`;
+- exact compare — **9 page files only / scans 524–532**;
+- incoming **521→522 CLEAN** preserved;
+- outgoing **532→533 CLEAN**, checked from scan 533 / printed 516;
 - all 111 records remain `needs-review` / visual `needs-review`.
 
 ## Exact next activity
 
-Process Pass 2A Batch 8 — **scans 522–532 / printed 505–515**.
+Process Pass 2A Batch 9 — **scans 533–543 / printed 516–526**.
 
-Preserve **521→522 CLEAN**. Inspect scan **533 / printed 516** only as the outgoing witness when required. Compare wording, punctuation, paragraph boundaries, Kural text/lineation, printed metadata, glosses, mapping, continuity and non-body separation directly against rendered scans. Apply only source-supported corrections. Do not promote final status during Pass 2A. Do not begin Part 006 transcription.
+Preserve **532→533 CLEAN**. Inspect scan **544 / printed 527** only as the outgoing witness when required. Compare wording, punctuation, paragraph boundaries, Kural text/lineation, printed metadata, glosses, mapping, continuity and non-body separation directly against rendered scans. Apply only source-supported corrections. Do not promote final status during Pass 2A. Do not begin Part 006 transcription.
