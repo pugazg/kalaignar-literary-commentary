@@ -6,16 +6,16 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-The king who had once had him as commander was shocked.
+The king whom he had once served as commander was shocked.
 
 Yet because that king still possessed commanders and soldiers rich in firmness, gratitude and patriotism, he continued the war.
 
-Meanwhile, the surrendered commander who had been lying at the feet of the enemy king without receiving a post at last happened to obtain a small position.
+Meanwhile, the surrendered commander, who had lain at the enemy king's feet without receiving a post, at last obtained a small position.
 
 Praise! Salutations! Speeches of admiration in colourful Tamil!
 

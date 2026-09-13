@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -52,7 +52,7 @@ said the court poet.
 
 The king stared in astonishment.
 
-“Yes. ‘Kannaa’ means Karna, who was born through the cheek of Queen Kunti. ‘Pinnaa’ means the righteous Dharman, younger-born after that Karna. Then ‘Mannaa’ means O king! ‘Thennaa’ means ruler of the southern land!”
+“Yes. ‘Kannaa’ means Karna, who was born through the cheek of Queen Kunti. ‘Pinnaa’ means the righteous Dharman, born after Karna. Then ‘Mannaa’ means O king! ‘Thennaa’ means ruler of the southern land!”
 
 Hearing this explanation, the gullible king embraced the disguised poet, placed a pearl garland around his neck, gave him a purse of gold and sent him away in delight.
 

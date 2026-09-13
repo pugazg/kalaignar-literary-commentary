@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -23,7 +23,7 @@ He clung to him firmly.
 
 Although several men in the Parani camp possessed both the ability and qualifications required for such responsibility, Arulalan gave this soldier his promise and returned.
 
-A deputy-command post carried greater rank and higher pay.
+A deputy-command post brought greater status and higher pay.
 
 Five or six deputy commanders were selected.
 
@@ -43,7 +43,7 @@ Arulalan confidently assured him that he would.
 
 Days passed.
 
-Unable to win his struggle against bodily weakness, the Pallava king died a natural death.
+Overcome by bodily weakness, the Pallava king died a natural death.
 
 Some in the palace invented a story that he had been murdered, intending to take revenge upon a person they disliked.
 

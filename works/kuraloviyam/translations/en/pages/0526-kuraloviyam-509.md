@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-The hard-hearted prosecutor answered like that.
+The hard-hearted man arguing the case answered in this way.
 
 “But there is no wound on the king's body.”
 
@@ -43,7 +43,7 @@ Only outwardly.
 
 Inside, his heart had collapsed.
 
-“Arulalan! If your stomach burns with rage, will he ever prosper?”
+“Arulalan! If you burn with anger at him, how can he ever prosper?”
 
 an elder asked angrily.
 
