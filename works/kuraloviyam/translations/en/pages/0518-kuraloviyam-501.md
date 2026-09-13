@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -43,6 +43,6 @@ Those who advised them, “Can this injustice continue?” were thrown into pits
 
 There was no longer any limit to vulgarity or degrading speech.
 
-Whoever came forward to raise a powerful voice for the people crying in deprivation, the occupants of the throne devised plans to make that person—
+Whoever came forward to raise a powerful voice for the people crying in deprivation—
 
 <!-- Source scan page: 518; printed page: 501; tyrannical-rule / popular-revolt vignette begins and continues directly to scan 519 / printed 502 -->

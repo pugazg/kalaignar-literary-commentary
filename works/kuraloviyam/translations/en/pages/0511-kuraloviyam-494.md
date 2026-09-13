@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -43,6 +43,6 @@ At that moment a young cowherd came running here and there in agitation with a l
 
 The moment he saw her he called:
 
-“Sister! Sister! I have been wandering everywhere. I cannot find my—
+“Sister! Sister! I have been wandering everywhere. My—
 
 <!-- Source scan page: 511; printed page: 494; clean incoming boundary from scan 510; Enthizhai / absent-lover vignette begins and continues directly to scan 512 / printed 495 -->

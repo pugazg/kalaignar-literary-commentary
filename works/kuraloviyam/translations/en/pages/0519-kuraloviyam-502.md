@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-—a victim of their swollen power.
+—the occupants of the throne devised plans to make that person a victim of their swollen power.
 
 But for how many days can people remain subdued like tortoises and silent like the mute?
 
@@ -21,7 +21,7 @@ At last that is what happened in that country.
 
 “Instead of dying every day, let us die once and for all!”
 
-The starving people turned their arms into battle-swords and their chests into shields and marched upon the palace of the power-mad rulers.
+The starving people, throbbing with a drive for revenge, turned their arms into battle-swords and their chests into shields and marched upon the palace of the power-mad rulers.
 
 The goddess of victory placed her garland upon the necks of those “unarmed” people.
 
