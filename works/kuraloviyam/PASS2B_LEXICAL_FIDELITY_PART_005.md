@@ -271,10 +271,39 @@ Durable correction commit:
 
 Exact compare from pre-batch `7dce7f0ce6bb9fe2bfe4306c1ed1e4b93aabbffc` to correction endpoint `909260dc502bb4ddeaa0defd5cb25692adf38653` is **ahead by 1 commit** and changes exactly **3 page files**, scans **534, 538, 541** only.
 
+## Batch 10 / final remainder — overall scans 544–555 / printed pages 527–538
+
+**Status: COMPLETE — 12 / 12 scans independently re-read against freshly rendered source.**
+
+Incoming **543→544 GENUINE CONTINUATION** was preserved. The outgoing Part boundary **555→556 CLEAN** remains source-resolved from the supplied Part 005/006 intake.
+
+| Scan | Printed page | Pass 2B result |
+|---:|---:|---|
+| 544 | 527 | corrected `வீட்டு வாயில்` → source-visible `வீட்டு வாயிலில்`; genuine incoming continuation from 543 closes here with Chapter 118 / Kural 1177 |
+| 545 | 528 | corrected `உயிர் நீப்பார் மானம்` → source-visible `உயிர் நீப்பர் மானம்`; குடி / மானம் / இன உயர்வு vignette begins and continues into 546 |
+| 546 | 529 | independent lexical re-read complete; no correction required; Chapter 103 / Kural 1028 and source gloss confirmed |
+| 547 | 530 | independent lexical re-read complete; no correction required; Athiyaman / Avvai vignette begins and continues into 548 |
+| 548 | 531 | independent lexical re-read complete; no correction required; Chapter 9 / Kural 82 confirmed |
+| 549 | 532 | corrected punctuation `சென்றாள். ஊக்கமுடன்` → source-visible `சென்றாள், ஊக்கமுடன்`; education / daughter / உயர்வு vignette continues into 550 |
+| 550 | 533 | independent lexical re-read complete; no correction required; education / daughter / உயர்வு vignette continues into 551 |
+| 551 | 534 | independent lexical re-read complete; no correction required; Chapter 60 / Kural 596 confirmed |
+| 552 | 535 | independent lexical re-read complete; no correction required; மலர்விழி / gossip-created-love vignette begins and continues into 553 |
+| 553 | 536 | independent lexical re-read complete; no correction required; Chapter 115 / Kural 1142 and source gloss confirmed |
+| 554 | 537 | independent lexical re-read complete; no correction required; பூங்குன்றன் / destructive-friendship / உட்பகை vignette begins and continues into 555 |
+| 555 | 538 | independent lexical re-read complete; no correction required; Chapter 89 / Kural 881 and source gloss confirmed; final Part 005 scan; 555→556 remains CLEAN / source-resolved |
+
+Batch 10 correction summary: **3 records corrected; 9 records required no lexical or punctuation change; 3 source-supported lexical-or-punctuation readings corrected in total**.
+
+Durable correction commit:
+
+`892d3273ddf04f6b1a0364d0b77e9e4eb58d0c93` — `kuraloviyam: Pass 2B verify Part 005 scans 544-555`
+
+Exact compare from pre-batch `f76c4d4381583c15fdcaba68c4570e3b9a0c25ce` to correction endpoint `892d3273ddf04f6b1a0364d0b77e9e4eb58d0c93` is **ahead by 1 commit** and changes exactly **3 page files**, scans **544, 545, 549** only.
+
 ## Current Pass 2B coverage
 
-- complete — **99/111 scans**;
-- remaining — **12 scans**;
+- complete — **111/111 scans — COMPLETE / PASS**;
+- remaining — **0 scans**;
 - Batch 1 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - Batch 2 — **456–466 / printed 439–449 — COMPLETE 11/11**;
 - Batch 3 — **467–477 / printed 450–460 — COMPLETE 11/11**;
@@ -284,6 +313,7 @@ Exact compare from pre-batch `7dce7f0ce6bb9fe2bfe4306c1ed1e4b93aabbffc` to corre
 - Batch 7 — **511–521 / printed 494–504 — COMPLETE 11/11**;
 - Batch 8 — **522–532 / printed 505–515 — COMPLETE 11/11**;
 - Batch 9 — **533–543 / printed 516–526 — COMPLETE 11/11**;
+- Batch 10 / final remainder — **544–555 / printed 527–538 — COMPLETE 12/12**;
 - corrected Batch-1 scans — **453**;
 - corrected Batch-2 scans — **457, 463, 465**;
 - corrected Batch-3 scans — **469, 477**;
@@ -293,6 +323,7 @@ Exact compare from pre-batch `7dce7f0ce6bb9fe2bfe4306c1ed1e4b93aabbffc` to corre
 - corrected Batch-7 scans — **511, 512, 519**;
 - corrected Batch-8 scans — **522, 523, 527, 528, 529, 530, 532**;
 - corrected Batch-9 scans — **534, 538, 541**;
+- corrected Batch-10 scans — **544, 545, 549**;
 - incoming Part boundary **444→445 — GENUINE CONTINUATION / source-resolved**;
 - **455→456 — GENUINE CONTINUATION** preserved;
 - **466→467 — GENUINE CONTINUATION** preserved;
@@ -302,10 +333,23 @@ Exact compare from pre-batch `7dce7f0ce6bb9fe2bfe4306c1ed1e4b93aabbffc` to corre
 - **510→511 — CLEAN** preserved;
 - **521→522 — CLEAN** preserved;
 - **532→533 — CLEAN** preserved;
-- outgoing Batch-9 boundary **543→544 — GENUINE CONTINUATION**;
+- **543→544 — GENUINE CONTINUATION** preserved;
+- outgoing Part boundary **555→556 — CLEAN / source-resolved**;
 - outgoing Part boundary **555→556 — CLEAN / source-resolved**;
 - current page statuses — **111 needs-review / 111 visual needs-review**.
 
+## Pass 2B final result
+
+**COMPLETE / PASS — 111 / 111 physical scans independently re-read.**
+
+Cumulative source-supported Pass-2B corrections: **34 page records / 56 lexical-or-spacing/punctuation readings**.
+
+Cumulative status promotions during Pass 2B: **0**.
+
+All Part-005 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass 3, Part audit and final status synchronization.
+
+Outgoing Part boundary **555→556 remains CLEAN / source-resolved**.
+
 ## Exact next activity
 
-Continue **Batch 10 final remainder — scans 544–555 / printed 527–538**. Preserve incoming **543→544 GENUINE CONTINUATION**. The outgoing **555→556 CLEAN** Part boundary is already source-resolved. Apply only source-supported lexical or punctuation corrections. Do not promote final status and do not begin Part 006.
+Begin **Part 005 Pass 3 Batch 1 — scans 445–455 / printed 428–438**. Preserve incoming **444→445 GENUINE CONTINUATION / source-resolved** and inspect scan **456 / printed 439** only as the outgoing witness when required. Pass 3 is meaningful visual/text verification, not another lexical reread. Do not promote final status and do not begin Part 006.

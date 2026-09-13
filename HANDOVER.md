@@ -249,7 +249,8 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - Pass 2B Batch 7 — **511–521 / printed 494–504 — COMPLETE 11/11**;
 - Pass 2B Batch 8 — **522–532 / printed 505–515 — COMPLETE 11/11**;
 - Pass 2B Batch 9 — **533–543 / printed 516–526 — COMPLETE 11/11**;
-- cumulative Pass 2B — **99/111**;
+- Pass 2B Batch 10 / final remainder — **544–555 / printed 527–538 — COMPLETE 12/12**;
+- cumulative Pass 2B — **111/111 COMPLETE / PASS**;
 - Batch-1 Pass-2B correction — **1 record / 1 lexical reading**: scan 453 `முத்தனியின்` → source-visible `முக்கனியின்`;
 - Batch-1 Pass-2B correction commit — `8391075c43b72ec3e5973db080ba742e5e899c4b` — exact compare **1 page file only / scan 453**;
 - **455→456 — GENUINE CONTINUATION**, confirmed from scan 456 / printed 439 witness;
@@ -277,6 +278,11 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - Batch-9 Pass-2B corrections — **3 records / 3 lexical-or-spacing readings**: scan 534 `அதைத் தவிர மற்ற அனைத்தையும்` → source-visible `அனைத்தையும்`; scan 538 `ஊற்றப்பட்ட` → source-visible `ஊற்றப் பட்ட`; scan 541 `இப்படிப்பார்க்கிறது` → source-visible `இப்பப்பார்க்கிறது`;
 - Batch-9 Pass-2B correction commit — `909260dc502bb4ddeaa0defd5cb25692adf38653` — exact compare **3 page files only / scans 534, 538, 541**;
 - **543→544 — GENUINE CONTINUATION**, confirmed from scan 544 / printed 527 witness;
+- Batch-10 Pass-2B corrections — **3 records / 3 lexical-or-punctuation readings**: scan 544 `வீட்டு வாயில்` → `வீட்டு வாயிலில்`; scan 545 `உயிர் நீப்பார் மானம்` → `உயிர் நீப்பர் மானம்`; scan 549 `சென்றாள். ஊக்கமுடன்` → `சென்றாள், ஊக்கமுடன்`;
+- Batch-10 Pass-2B correction commit — `892d3273ddf04f6b1a0364d0b77e9e4eb58d0c93` — exact compare **3 page files only / scans 544, 545, 549**;
+- Pass 2B — **COMPLETE / PASS 111/111**;
+- cumulative Pass-2B corrections — **34 page records / 56 source-supported readings**;
+- **555→556 — CLEAN / source-resolved**;
 - durable Pass-2B log — `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_005.md`.
 
 ### Part 006 — SOURCE INTAKE COMPLETE / WAITING
@@ -288,4 +294,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Continue **Part 005 Pass 2B / Batch 10 final remainder — scans 544–555 / printed 527–538** as an independent lexical-fidelity re-read. Preserve incoming **543→544 GENUINE CONTINUATION**. The outgoing **555→556 CLEAN** Part boundary is already source-resolved from Part 005/006 intake. Keep page statuses `needs-review` / visual `needs-review`; Pass 3 remains mandatory. Do not begin Part 006 transcription.
+Begin **Part 005 Pass 3 / Batch 1 — scans 445–455 / printed 428–438** as meaningful visual/text fidelity verification. Preserve incoming **444→445 GENUINE CONTINUATION / source-resolved** and inspect scan **456 / printed 439** only as the outgoing witness when required. Do not perform another lexical reread; keep page statuses `needs-review` / visual `needs-review`. Do not begin Part 006 transcription.
