@@ -207,14 +207,62 @@ Exact compare from pre-batch `01c201c5e44648013fed95202df6e71b8069e79d` to page 
 - scan 600 was inspected only as an outgoing continuity witness and remains outside P6-04;
 - no Part 001–005 Tamil or English page record changed.
 
+## P6-05 state
+
+**11 / 11 page records captured — COMPLETE.**
+
+P6-05 scans **600–610 / printed 583–593** are captured as one page-aligned Tamil Pass-1 record per physical scan. All 11 records carry:
+
+- `part: 6`;
+- `part_page: 45–55`;
+- exact scan/printed-page mappings;
+- `status: "needs-review"`;
+- `visual_fidelity: "needs-review"`;
+- the exact Part 006 source filename.
+
+Page-layer commits:
+
+- `ef2787630e8c13821099fff3274335c740983cf2` — `kuraloviyam: Part 006 Pass 1 scans 600-605`;
+- `4a354302c2e3bd3be5a997e65632ab61674edc82` — `kuraloviyam: Part 006 Pass 1 scans 606-610`.
+
+Exact compare from pre-batch `2d8353d246467bedabcc9dfc6e0e0287e61bdc66` to page endpoint `4a354302c2e3bd3be5a997e65632ab61674edc82`:
+
+- **2 commits ahead / non-divergent**;
+- exactly **11 changed files**;
+- all **11** are newly added Part 006 Tamil page records, scans **600–610**;
+- non-page/control files changed — **0**.
+
+## P6-05 continuity map
+
+- **599→600 — GENUINE CONTINUATION**; scan 600 closes the grandson / life-goal / Aruvur teacher vignette with Chapter 29 / Kural 281;
+- **600→601 — CLEAN**;
+- **601→602 — GENUINE CONTINUATION**; scan 602 closes the lidded-vessel / family-internal-enmity vignette with Chapter 89 / Kural 887;
+- **602→603 — CLEAN**;
+- **603→604 — GENUINE CONTINUATION**; scan 604 closes the love/gossip vignette with Chapter 115 / Kural 1147;
+- **604→605 — CLEAN**;
+- **605→606 — GENUINE CONTINUATION**;
+- **606→607 — GENUINE CONTINUATION**; scan 607 closes the Valluvar / அழகியான் / wealthy-rival vignette with Chapter 97 / Kural 967;
+- **607→608 — CLEAN**;
+- **608→609 — GENUINE CONTINUATION**; scan 609 closes the வேழமுகன் / வேங்கைமார்பன் vignette with Chapter 13 / Kural 124;
+- **609→610 — CLEAN**;
+- **610→611 — GENUINE CONTINUATION**, directly checked from scan 611 / printed 594 as an outgoing witness. Scan 611 continues the pseudo-scholar / ministerial-misreading vignette and was **not** created in P6-05.
+
+## P6-05 structural notes
+
+- illustrations remain described in `visual_notes`, not transcribed as prose;
+- Kural blocks and source glosses remain structurally distinct;
+- exact physical-page splits are preserved;
+- scan 611 was inspected only as an outgoing continuity witness and remains outside P6-05;
+- no Part 001–005 Tamil or English page record changed.
+
 ## Current gate
 
-Part 006 Pass 1 cumulative state: **44/111 captured**.
+Part 006 Pass 1 cumulative state: **55/111 captured**.
 
-P6-01 through P6-04 are **COMPLETE / 44 pages captured**.
+P6-01 through P6-05 are **COMPLETE / 55 pages captured**.
 
 Exact next batch:
 
-**P6-05 — scans 600–610 / printed 583–593 — 11 physical scans.**
+**P6-06 — scans 611–621 / printed 594–604 — 11 physical scans.**
 
-Preserve incoming **599→600 GENUINE CONTINUATION**.
+Preserve incoming **610→611 GENUINE CONTINUATION**.
