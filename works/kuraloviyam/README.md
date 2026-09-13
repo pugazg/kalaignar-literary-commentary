@@ -291,6 +291,10 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - documentation synchronization — **COMPLETE / PASS**;
 - documentation-only sync page-record changes — **0**;
 - durable documentation-sync record — `PART_005_DOCUMENTATION_SYNC.md`;
+- Tamil archival-ready checkpoint — **PASS / CLOSED**;
+- Tamil final state — **111/111 textual verified + 111/111 visual verified / 0 exceptions**;
+- durable Tamil archival-ready record — `PART_005_TAMIL_ARCHIVAL_READY.md`;
+- Part-005 English page records before drafting — **0/111**;
 - **555→556 CLEAN**.
 
 ## Part 006 — SOURCE-READY / WAITING
@@ -302,4 +306,4 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 
 ## Current frontier
 
-**Part 005 Tamil archival-ready checkpoint.**
+**Part 005 English Draft D1 — scans 445–477 / printed 428–460 — 33 pages.**

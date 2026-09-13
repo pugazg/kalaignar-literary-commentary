@@ -394,4 +394,41 @@ Final checkpoint confirms:
 
 ## Exact next English activity
 
-None for Part 004. Part 005 work is blocked until its controlling source is supplied and source intake establishes the adjacent boundary.
+None for Part 004. Part 004 remains fully closed.
+
+## Part 005 Tamil readiness — ARCHIVAL-READY / CLOSED
+
+Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_pages_445-555.pdf` — scans **445–555 / printed 428–538**, 111 physical pages, SHA-256 `082d46dc437851b37bea24c3152c2ea41b39c425628ddaa66461866a3177c235`.
+
+Tamil Source Intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 / Part audit / final status sync / documentation sync / archival-ready checkpoint are **CLOSED**.
+
+Final Tamil state:
+
+- textual verified — **111/111**;
+- visual verified — **111/111**;
+- partial / blocked / source-limited / needs-review / unresolved internal exceptions — **0**.
+
+Durable closure: `works/kuraloviyam/PART_005_TAMIL_ARCHIVAL_READY.md`.
+
+Boundaries:
+
+- incoming **444→445 — GENUINE CONTINUATION / source-resolved**;
+- outgoing **555→556 — CLEAN / source-resolved**.
+
+## Part 005 English first-pass drafting — NOT STARTED
+
+Current Part-005 English page inventory: **0/111**.
+
+Normal page-batched cadence remains **33 physical scans**.
+
+Exact first drafting batch:
+
+**D1 — scans 445–477 / printed 428–460 — 33 page-aligned English records.**
+
+Use the archival-ready Tamil records as the normal working authority. Do not reopen the PDF merely because drafting begins. Translation type remains project-created; no published, standard or web English Kural wording may be imported.
+
+Part 006 remains blocked until Part 005 completes its maintained English workflow and final Part closure.
+
+## Exact next English activity
+
+**Part 005 Draft Batch D1 — scans 445–477 / printed 428–460 — 33 pages.**

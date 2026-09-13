@@ -288,7 +288,11 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - documentation synchronization — **COMPLETE / PASS**;
 - documentation-only sync changed **0 page records**;
 - durable documentation-sync record — `works/kuraloviyam/PART_005_DOCUMENTATION_SYNC.md`;
-- next gate — **Part 005 Tamil archival-ready checkpoint**.
+- Tamil archival-ready checkpoint — **PASS / CLOSED**;
+- Part 005 Tamil — **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**;
+- durable Tamil archival-ready record — `works/kuraloviyam/PART_005_TAMIL_ARCHIVAL_READY.md`;
+- Part 005 English page inventory before drafting — **0/111**;
+- next gate — **English Draft D1 / scans 445–477 / printed 428–460 — 33 pages**.
 
 ## Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -298,4 +302,4 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ## Exact next activity
 
-Proceed with the **Part 005 Tamil archival-ready checkpoint**. Confirm the closed evidence chain through documentation synchronization, final **111/111 textual verified / 111/111 visual verified**, and **0 status exceptions**. This checkpoint must modify no page record. Do not start Part 006 transcription.
+Proceed with **Part 005 English Draft D1 / scans 445–477 / printed 428–460 — 33 pages**. Use the archival-ready Tamil records as normal authority, create page-aligned project English records at `draft` status, preserve metadata/visual/continuation structure, and do not import external English wording. Do not start Part 006 transcription.

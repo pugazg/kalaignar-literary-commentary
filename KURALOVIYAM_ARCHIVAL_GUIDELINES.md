@@ -207,7 +207,7 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 ### Part 005 — overall scans 445–555
 
-**SOURCE INTAKE: PASS / COMPLETE. PASS 1: COMPLETE 111/111. PASS 2A: COMPLETE / PASS 111/111. PASS 2B: COMPLETE / PASS 111/111. PASS 3: COMPLETE / PASS 111/111. PART AUDIT: PASS / COMPLETE. FINAL STATUS SYNC: PASS / CLOSED. DOCUMENTATION SYNC: COMPLETE / PASS. TAMIL ARCHIVAL-READY CHECKPOINT: NEXT.**
+**SOURCE INTAKE: PASS / COMPLETE. PASS 1: COMPLETE 111/111. PASS 2A: COMPLETE / PASS 111/111. PASS 2B: COMPLETE / PASS 111/111. PASS 3: COMPLETE / PASS 111/111. PART AUDIT: PASS / COMPLETE. FINAL STATUS SYNC: PASS / CLOSED. DOCUMENTATION SYNC: COMPLETE / PASS. TAMIL ARCHIVAL-READY: PASS / CLOSED. ENGLISH DRAFTING: NEXT.**
 
 - P5-01 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - P5-02 — **456–466 / printed 439–449 — COMPLETE 11/11**;
@@ -329,4 +329,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 ### Exact next content stage
 
-Proceed with the **Part 005 Tamil archival-ready checkpoint**. Confirm the closed Tamil evidence chain, final **111/111 textual verified / 111/111 visual verified**, **0 status exceptions**, and documentation synchronization **COMPLETE / PASS** with **0 page-record changes**. This checkpoint is declarative/control-only and must not alter page records. Do not begin Part 006 transcription until the maintained Part-005 workflow permits it.
+Begin **Part 005 maintained English Draft Batch D1 — scans 445–477 / printed 428–460 — 33 pages**. Use audited Tamil records as the normal working authority. Preserve project-created translation identity, page alignment, Kural block separation, Chapter/Kural metadata, visual/non-body distinctions and continuity. Do not import published/web English wording. Part 006 remains blocked until Part 005 English and final closure are complete.

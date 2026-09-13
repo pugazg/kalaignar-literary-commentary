@@ -317,7 +317,11 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - documentation synchronization — **COMPLETE / PASS**;
 - documentation-only sync changed **0 page records**;
 - durable documentation-sync record — `works/kuraloviyam/PART_005_DOCUMENTATION_SYNC.md`;
-- next Tamil gate — **Part 005 Tamil archival-ready checkpoint**.
+- Tamil archival-ready checkpoint — **PASS / CLOSED**;
+- Part 005 Tamil — **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**;
+- durable Tamil archival-ready record — `works/kuraloviyam/PART_005_TAMIL_ARCHIVAL_READY.md`;
+- Part 005 English page inventory before drafting — **0/111 existing**;
+- next maintained content stage — **Part 005 English Draft Batch D1 / scans 445–477 / printed 428–460 — 33 pages**.
 
 ### Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -328,4 +332,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Proceed with the **Part 005 Tamil archival-ready checkpoint**. Confirm the closed evidence chain through documentation synchronization, final **111/111 textual verified / 111/111 visual verified**, **0 status exceptions**, source-resolved **444→445 GENUINE CONTINUATION** and **555→556 CLEAN**, and that documentation synchronization changed **0 page records**. This checkpoint must not alter page records. Do not begin Part 006 transcription until the Part-005 workflow permits it.
+Begin the maintained **Part 005 English translation/review workflow** with **Draft Batch D1 — scans 445–477 / printed 428–460 — 33 page-aligned English records**. Use the archived Tamil records as the normal working authority; do not reopen the PDF unless a genuinely new provenance/fidelity issue requires it. Translation identity is project-created; do not import published/web/standard English Kural wording. Part 006 remains blocked until Part 005 completes its maintained English workflow and final Part closure.

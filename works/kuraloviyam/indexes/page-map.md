@@ -533,6 +533,17 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - page-record changes during documentation sync — **0**;
 - durable record — `works/kuraloviyam/PART_005_DOCUMENTATION_SYNC.md`.
 
+## Part 005 Tamil archival-ready checkpoint
+
+- result — **PASS / CLOSED**;
+- textual status — **111/111 verified**;
+- visual fidelity — **111/111 verified**;
+- partial / blocked / source-limited / needs-review / unresolved internal exceptions — **0**;
+- documentation-sync page changes — **0**;
+- incoming **444→445 — GENUINE CONTINUATION / source-resolved**;
+- outgoing **555→556 — CLEAN / source-resolved**;
+- durable record — `works/kuraloviyam/PART_005_TAMIL_ARCHIVAL_READY.md`.
+
 ## Current frontier
 
-**Part 005 Tamil archival-ready checkpoint.**
+**Part 005 English Draft D1 — scans 445–477 / printed 428–460 — 33 pages.**
