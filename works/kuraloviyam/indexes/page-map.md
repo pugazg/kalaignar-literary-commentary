@@ -563,14 +563,15 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - SC1 — **445–477 / printed 428–460 — COMPLETE / PASS 33/33**;
 - SC2 — **478–510 / printed 461–493 — COMPLETE / PASS 33/33**;
 - SC3 — **511–543 / printed 494–526 — COMPLETE / PASS 33/33**;
-- cumulative source-check — **99/111**;
-- current status distribution — **99 source-checked / 12 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
-- SC3 endpoint — `fa2ca8b07844e56be4d3a3dfc926a7874b136ca1`;
-- SC3 exact page-layer compare — **33 modified English page files only**;
-- fidelity corrections — **8 page files / scans 511, 512, 518, 519, 525, 533, 534, 537**;
-- incoming **510→511 CLEAN** preserved;
-- outgoing **543→544 GENUINE CONTINUATION** preserved.
+- SC4 final remainder — **544–555 / printed 527–538 — COMPLETE / PASS 12/12**;
+- cumulative source-check — **111/111 COMPLETE / CLOSED**;
+- current status distribution — **111 source-checked / 0 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
+- SC4 endpoint — `113846a357544a33b73d727d20115471f2f3411f`;
+- SC4 exact page-layer compare — **12 modified English page files only**;
+- fidelity corrections — **4 page files / scans 549, 550, 553, 555**;
+- incoming **543→544 GENUINE CONTINUATION** preserved;
+- outgoing **555→556 CLEAN / source-resolved** preserved.
 
 ## Current frontier
 
-**Part 005 English source-check SC4 final remainder — scans 544–555 / printed 527–538 — 12 pages.**
+**Part 005 English glossary reconciliation GR1 — scans 445–477 / printed 428–460 — 33 pages.**

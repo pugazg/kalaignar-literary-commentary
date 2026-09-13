@@ -585,7 +585,7 @@ Final post-drafting state:
 
 No published, standard or web English Kural wording was imported. No Tamil archival record changed.
 
-## Part 005 English source-check — IN PROGRESS 99/111
+## Part 005 English source-check — COMPLETE / CLOSED 111/111
 
 Normal source-check cadence: **33 physical scans per iteration**, with a shorter final remainder if required.
 
@@ -711,6 +711,50 @@ Cumulative Part-005 English state after SC3:
 
 No published, standard or web English Kural wording was imported. No Tamil archival record changed.
 
+### Source-Check SC4 final remainder — COMPLETE / PASS 12/12
+
+- scans **544–555 / printed 527–538**;
+- source-checked — **12/12**;
+- source-limited — **0**;
+- blocked — **0**;
+- source Tamil linkage — **12/12 exact / verified**;
+- project-translation identity retained — **12/12**;
+- incoming **543→544 GENUINE CONTINUATION** preserved;
+- outgoing **555→556 CLEAN / source-resolved** preserved.
+
+SC4 page commits:
+
+- `6a275273a2eb05ddedbf637e95fff9c03e8254a5` — scans 544–548;
+- `1f14dec997d70c3ee13fe16f1560c1c58dd0c185` — scans 549–550;
+- `113846a357544a33b73d727d20115471f2f3411f` — scans 551–555.
+
+Exact SC4 audit from pre-SC4 control checkpoint `c67e24794f25899f2a38c99dc1fc03af562240b3` to SC4 endpoint `113846a357544a33b73d727d20115471f2f3411f`:
+
+- **3 commits ahead / non-divergent**;
+- exactly **12 modified English page files**;
+- Tamil page changes — **0**;
+- control-document changes during the page layer — **0**;
+- **8 pages** changed only by `draft` → `source-checked`;
+- **4 pages** received source-fidelity corrections:
+  - scans **549–550** — restored the audited physical-page split in the education / daughter vignette;
+  - scan **553** — reconciled printed source gloss `அலர் = பலர் அறிதல்` to **becoming known to many**, removing the added “gossip” gloss;
+  - scan **555** — restored source-named **narambu-silandhi disease** and the explicit “kill little by little” force.
+
+Final Part-005 source-check state:
+
+- `source-checked` — **111**;
+- `draft` — **0**;
+- `editorial-reviewed` — **0**;
+- `release-ready` — **0**;
+- `source-limited` — **0**;
+- `blocked` — **0**.
+
+No published, standard or web English Kural wording was imported. No Tamil archival record changed.
+
+## Part 005 English glossary reconciliation — NOT STARTED
+
+Normal glossary-reconciliation cadence: **33 physical scans per iteration**, with a shorter final remainder if required. Pages remain `source-checked` during this gate.
+
 ## Exact next English activity
 
-**Part 005 Source-Check SC4 final remainder — scans 544–555 / printed 527–538 — 12 pages.**
+**Part 005 Glossary Reconciliation GR1 — scans 445–477 / printed 428–460 — 33 pages.**

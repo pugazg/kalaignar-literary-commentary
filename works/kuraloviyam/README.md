@@ -303,9 +303,11 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - English source-check SC1 — **445–477 / printed 428–460 — COMPLETE / PASS 33/33**;
 - English source-check SC2 — **478–510 / printed 461–493 — COMPLETE / PASS 33/33**;
 - English source-check SC3 — **511–543 / printed 494–526 — COMPLETE / PASS 33/33**;
-- current English state — **99 source-checked / 12 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
-- SC3 source-fidelity corrections — **8 pages / scans 511, 512, 518, 519, 525, 533, 534, 537**;
-- SC3 page-layer audit — **33 modified English page records / 0 Tamil changes / 0 control-file changes**;
+- English source-check SC4 final remainder — **544–555 / printed 527–538 — COMPLETE / PASS 12/12**;
+- English source-check — **COMPLETE / CLOSED 111/111**;
+- current English state — **111 source-checked / 0 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
+- SC4 source-fidelity corrections — **4 pages / scans 549, 550, 553, 555**;
+- SC4 page-layer audit — **12 modified English page records / 0 Tamil changes / 0 control-file changes**;
 - **555→556 CLEAN**.
 
 ## Part 006 — SOURCE-READY / WAITING
@@ -317,4 +319,4 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 
 ## Current frontier
 
-**Part 005 English source-check SC4 final remainder — scans 544–555 / printed 527–538 — 12 pages.**
+**Part 005 English glossary reconciliation GR1 — scans 445–477 / printed 428–460 — 33 pages.**
