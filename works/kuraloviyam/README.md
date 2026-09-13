@@ -301,9 +301,10 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - Part-005 English first-pass drafting — **COMPLETE / CLOSED 111/111**;
 - English drafting — **COMPLETE / CLOSED 111/111**;
 - English source-check SC1 — **445–477 / printed 428–460 — COMPLETE / PASS 33/33**;
-- current English state — **33 source-checked / 78 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
-- SC1 source-fidelity correction — **2 pages / scans 476–477**, physical-page split only;
-- SC1 page-layer audit — **33 modified English page records / 0 Tamil changes**;
+- English source-check SC2 — **478–510 / printed 461–493 — COMPLETE / PASS 33/33**;
+- current English state — **66 source-checked / 45 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
+- SC2 source-fidelity corrections — **3 pages / scans 492, 501, 502**;
+- SC2 page-layer audit — **33 modified English page records / 0 Tamil changes**;
 - **555→556 CLEAN**.
 
 ## Part 006 — SOURCE-READY / WAITING
@@ -315,4 +316,4 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 
 ## Current frontier
 
-**Part 005 English source-check SC2 — scans 478–510 / printed 461–493 — 33 pages.**
+**Part 005 English source-check SC3 — scans 511–543 / printed 494–526 — 33 pages.**

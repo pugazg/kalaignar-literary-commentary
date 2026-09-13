@@ -342,8 +342,15 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - SC1 page commits — `21e43aa606bca9101d681bd55157dd1db42f2af8`, `902d567aaf24e6018200a6a88755230a44713f67`, `d62e97d1f67ed999fb6f4a0db435cedccdbc4c2d`;
 - exact SC1 compare from `9bed25feeab25329fb1b2cf10c41f9fddbfc5290` to `d62e97d1f67ed999fb6f4a0db435cedccdbc4c2d` — **3 commits ahead / exactly 33 modified English page files / 0 Tamil or control-file changes**;
 - SC1 source-fidelity correction — **2 page files / scans 476–477**, restoring the audited Tamil physical-page split after `மணம்`; remaining **31 pages status-only**;
-- current Part-005 English state — **33 source-checked / 78 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
-- next maintained English gate — **Source-check SC2 / scans 478–510 / printed 461–493 — 33 pages**.
+- English source-check SC2 — **478–510 / printed 461–493 — COMPLETE / PASS 33/33**;
+- SC2 page commits — `9abb1163eea2313136bd8440ff34cd1e76a13db3`, `45ea10e2d0d908324331cad34f09ff5368b60eca`, `74f41ce00e29bd8ba448c790bfb6bfc46d9d1b72`;
+- exact SC2 compare from `65f823bea48d4e5c1b52832877aa49349dfc7347` to `74f41ce00e29bd8ba448c790bfb6bfc46d9d1b72` — **3 commits ahead / exactly 33 modified English page files / 0 Tamil or control-file changes**;
+- SC2 source-fidelity corrections — **3 page files / scans 492, 501, 502**:
+  - scan 492 Kural line changed from “when love is restrained” to **“when love causes suffering”**, matching the audited Tamil source gloss `அடுங்கால் = வருத்தும்போது`;
+  - scans 501–502 restored the audited physical-page sentence split and removed duplicated continuation wording;
+- remaining **30 SC2 pages status-only**;
+- current Part-005 English state — **66 source-checked / 45 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
+- next maintained English gate — **Source-check SC3 / scans 511–543 / printed 494–526 — 33 pages**.
 
 ### Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -354,4 +361,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Continue **Part 005 English source-check SC2 — scans 478–510 / printed 461–493 — 33 pages**. Compare each project English record directly against its audited Tamil archival record paragraph-by-paragraph / block-by-block. Correct only source-fidelity issues supported by the Tamil record; preserve incoming **477→478 CLEAN**, outgoing **510→511 CLEAN**, page alignment, visual/non-body distinctions, Kural blocks, Chapter/Kural metadata and continuity. Promote each passing page from `draft` to `source-checked`. Do not import published/web/standard English wording. Part 006 remains blocked.
+Continue **Part 005 English source-check SC3 — scans 511–543 / printed 494–526 — 33 pages**. Compare each project English record directly against its audited Tamil archival record paragraph-by-paragraph / block-by-block. Correct only source-fidelity issues supported by the Tamil record; preserve incoming **510→511 CLEAN**, outgoing **543→544 GENUINE CONTINUATION**, page alignment, visual/non-body distinctions, Kural blocks, Chapter/Kural metadata and continuity. Promote each passing page from `draft` to `source-checked`. Do not import published/web/standard English wording. Part 006 remains blocked.

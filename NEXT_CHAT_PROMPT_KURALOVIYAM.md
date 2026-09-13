@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 005 English Source-Check SC2
+# NEXT CHAT PROMPT — குறளோவியம் / Part 005 English Source-Check SC3
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -24,32 +24,39 @@ Normal page-batched cadence: **33 physical scan pages**; final remainders may be
 
 ## English drafting — COMPLETE / CLOSED 111/111
 
-All scans **445–555 / printed 428–538** have page-aligned English draft records.
+All scans **445–555 / printed 428–538** have page-aligned English records.
 
 ## English source-check durable state
 
 ### SC1 — COMPLETE / PASS 33/33
 
 - scans **445–477 / printed 428–460**;
+- source-fidelity correction pages — **476–477** only, restoring the audited Tamil physical-page split;
+- endpoint — `d62e97d1f67ed999fb6f4a0db435cedccdbc4c2d`.
+
+### SC2 — COMPLETE / PASS 33/33
+
+- scans **478–510 / printed 461–493**;
 - page commits:
-  - `21e43aa606bca9101d681bd55157dd1db42f2af8` — scans 445–455;
-  - `902d567aaf24e6018200a6a88755230a44713f67` — scans 456–466;
-  - `d62e97d1f67ed999fb6f4a0db435cedccdbc4c2d` — scans 467–477;
-- exact compare from pre-SC1 control checkpoint `9bed25feeab25329fb1b2cf10c41f9fddbfc5290` to SC1 endpoint `d62e97d1f67ed999fb6f4a0db435cedccdbc4c2d`:
+  - `9abb1163eea2313136bd8440ff34cd1e76a13db3` — scans 478–488;
+  - `45ea10e2d0d908324331cad34f09ff5368b60eca` — scans 489–499;
+  - `74f41ce00e29bd8ba448c790bfb6bfc46d9d1b72` — scans 500–510;
+- exact compare from pre-SC2 control checkpoint `65f823bea48d4e5c1b52832877aa49349dfc7347` to SC2 endpoint `74f41ce00e29bd8ba448c790bfb6bfc46d9d1b72`:
   - **3 commits ahead / non-divergent**;
   - exactly **33 modified English page files**;
   - Tamil page changes — **0**;
   - control-document changes during the page layer — **0**;
-- source-fidelity correction pages — **2**, scans **476–477**;
-- correction: restored the audited Tamil physical-page split in the young-poet dialogue: scan 476 now ends after Tamil `மணம்` / English “Once the marriage—”, and scan 477 resumes “—is over…” before continuing the vignette;
-- the other **31/33** SC1 pages required status promotion only;
-- incoming **444→445 GENUINE CONTINUATION / source-resolved** preserved;
-- outgoing **477→478 CLEAN** preserved.
+- source-fidelity correction pages — **3 / scans 492, 501, 502**;
+- scan **492**: Kural line corrected from “when love is restrained” to **“when love causes suffering”**, matching audited source gloss `அடுங்கால் = வருத்தும்போது`;
+- scans **501–502**: restored the audited physical-page split in the public-tank sentence; scan 501 now ends “Another young man was bathing in the tank—” and scan 502 resumes “—and looked at the rich youth in astonishment,” removing duplicated continuation wording;
+- other **30/33** SC2 pages required status promotion only;
+- incoming **477→478 CLEAN** preserved;
+- outgoing **510→511 CLEAN** preserved.
 
 Current Part-005 English state:
 
-- `source-checked` — **33**;
-- `draft` — **78**;
+- `source-checked` — **66**;
+- `draft` — **45**;
 - `editorial-reviewed` — **0**;
 - `release-ready` — **0**;
 - `source-limited` — **0**;
@@ -57,11 +64,11 @@ Current Part-005 English state:
 
 No published, standard or web English Kural wording was imported. No Tamil archival record changed.
 
-## Exact next activity — Source-Check SC2
+## Exact next activity — Source-Check SC3
 
 Source-check:
 
-**scans 478–510 / printed 461–493 — 33 pages**.
+**scans 511–543 / printed 494–526 — 33 pages**.
 
 For each English record:
 
@@ -79,7 +86,7 @@ For each English record:
 
 Boundary discipline:
 
-- incoming **477→478 — CLEAN**;
-- outgoing **510→511 — CLEAN**.
+- incoming **510→511 — CLEAN**;
+- outgoing **543→544 — GENUINE CONTINUATION**.
 
 Part 006 remains transcription-inactive until Part 005 completes the maintained English workflow and final Part closure.

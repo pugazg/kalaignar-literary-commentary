@@ -304,8 +304,12 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - SC1 page-layer endpoint — `d62e97d1f67ed999fb6f4a0db435cedccdbc4c2d`;
 - SC1 page-only audit — **33 modified English page files / 0 Tamil changes / 0 control-file changes**;
 - SC1 source-fidelity correction — **scans 476–477 only**, restoring the physical-page split after `மணம்`;
-- current English status — **33 source-checked / 78 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
-- next gate — **English source-check SC2 / scans 478–510 / printed 461–493 — 33 pages**.
+- English source-check SC2 — **478–510 / printed 461–493 — COMPLETE / PASS 33/33**;
+- SC2 page-layer endpoint — `74f41ce00e29bd8ba448c790bfb6bfc46d9d1b72`;
+- SC2 page-only audit — **33 modified English page files / 0 Tamil changes / 0 control-file changes**;
+- SC2 source-fidelity corrections — **3 pages / scans 492, 501, 502**;
+- current English status — **66 source-checked / 45 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
+- next gate — **English source-check SC3 / scans 511–543 / printed 494–526 — 33 pages**.
 
 ## Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -315,4 +319,4 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ## Exact next activity
 
-Proceed with **Part 005 English source-check SC2 / scans 478–510 / printed 461–493 — 33 pages**. Compare English directly against the audited Tamil records, correct only source-fidelity issues, promote passing pages to `source-checked`, preserve **477→478 CLEAN** and **510→511 CLEAN**, and do not import external English wording. Do not start Part 006 transcription.
+Proceed with **Part 005 English source-check SC3 / scans 511–543 / printed 494–526 — 33 pages**. Compare English directly against the audited Tamil records, correct only source-fidelity issues, promote passing pages to `source-checked`, preserve **510→511 CLEAN** and **543→544 GENUINE CONTINUATION**, and do not import external English wording. Do not start Part 006 transcription.
