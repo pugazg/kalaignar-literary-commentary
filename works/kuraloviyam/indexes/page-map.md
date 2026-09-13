@@ -566,6 +566,16 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - SC4 final remainder — **544–555 / printed 527–538 — COMPLETE / PASS 12/12**;
 - cumulative source-check — **111/111 COMPLETE / CLOSED**;
 - current status distribution — **111 source-checked / 0 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
+
+## Part 005 English glossary reconciliation map
+
+- GR1 — **445–477 / printed 428–460 — COMPLETE / PASS 33/33**;
+- cumulative glossary reconciliation — **33/111**;
+- GR1 endpoint — `fcbea72faefca6e521f1334e10363a7f0d13894b`;
+- exact GR1 compare from `2294dbd8fb1c6b0f3ef49c09dee984e949bdfc3a` — **1 commit ahead / exactly 2 modified files: GLOSSARY.md + English scan 445 / 0 Tamil changes / 0 status changes**;
+- terminology correction — **scan 445 only**, source gloss `ஆகுல நீர = ஆரவாரத் தன்மை` reconciled to **clamorous nature**;
+- incoming **444→445 GENUINE CONTINUATION / source-resolved** preserved;
+- outgoing **477→478 CLEAN** preserved;
 - SC4 endpoint — `113846a357544a33b73d727d20115471f2f3411f`;
 - SC4 exact page-layer compare — **12 modified English page files only**;
 - fidelity corrections — **4 page files / scans 549, 550, 553, 555**;
@@ -574,4 +584,4 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 ## Current frontier
 
-**Part 005 English glossary reconciliation GR1 — scans 445–477 / printed 428–460 — 33 pages.**
+**Part 005 English glossary reconciliation GR2 — scans 478–510 / printed 461–493 — 33 pages.**

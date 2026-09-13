@@ -305,6 +305,9 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - English source-check SC3 — **511–543 / printed 494–526 — COMPLETE / PASS 33/33**;
 - English source-check SC4 final remainder — **544–555 / printed 527–538 — COMPLETE / PASS 12/12**;
 - English source-check — **COMPLETE / CLOSED 111/111**;
+- English glossary reconciliation GR1 — **445–477 / printed 428–460 — COMPLETE / PASS 33/33**;
+- cumulative glossary reconciliation — **33/111**;
+- GR1 exact change set — **GLOSSARY.md + English scan 445 only / 0 Tamil changes / 0 status changes**;
 - current English state — **111 source-checked / 0 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
 - SC4 source-fidelity corrections — **4 pages / scans 549, 550, 553, 555**;
 - SC4 page-layer audit — **12 modified English page records / 0 Tamil changes / 0 control-file changes**;
@@ -319,4 +322,4 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 
 ## Current frontier
 
-**Part 005 English glossary reconciliation GR1 — scans 445–477 / printed 428–460 — 33 pages.**
+**Part 005 English glossary reconciliation GR2 — scans 478–510 / printed 461–493 — 33 pages.**

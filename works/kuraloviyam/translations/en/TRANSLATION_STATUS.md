@@ -751,10 +751,41 @@ Final Part-005 source-check state:
 
 No published, standard or web English Kural wording was imported. No Tamil archival record changed.
 
-## Part 005 English glossary reconciliation — NOT STARTED
+## Part 005 English glossary reconciliation — IN PROGRESS 33/111
 
 Normal glossary-reconciliation cadence: **33 physical scans per iteration**, with a shorter final remainder if required. Pages remain `source-checked` during this gate.
 
+### Glossary Reconciliation GR1 — COMPLETE / PASS 33/33
+
+- scans **445–477 / printed 428–460**;
+- cumulative glossary reconciliation — **33/111**;
+- endpoint commit — `fcbea72faefca6e521f1334e10363a7f0d13894b`;
+- exact compare from pre-GR1 checkpoint `2294dbd8fb1c6b0f3ef49c09dee984e949bdfc3a` to GR1 endpoint `fcbea72faefca6e521f1334e10363a7f0d13894b`:
+  - **1 commit ahead / non-divergent**;
+  - exactly **2 modified files** — `GLOSSARY.md` and English scan **445**;
+  - Tamil changes — **0**;
+  - page-status changes — **0**;
+- all **17 Kural citations across 16 metadata pages** checked with **0 Chapter/Kural-number mismatches**;
+- Part-005-first Chapter controls added: **Honour**, **Gratitude**, **Knowing the Nature of Enmity**, **Fearlessness in the Assembly**;
+- source variants `அறன்வலியுறுத்தல்` and `உறுப்புநலன் அழிதல்` mapped to established controls **The Insistence on Virtue** and **Wasting Away of Bodily Beauty**;
+- source-evidenced narrative/place/literary controls and printed lexical glosses recorded in `GLOSSARY.md`;
+- English page wording correction required on **1 page file**:
+  - scan **445** — `ஆகுல நீர = ஆரவாரத் தன்மை`: **clamorous display → clamorous nature**;
+- all **33/33** pages remain `status: "source-checked"`;
+- incoming **444→445 GENUINE CONTINUATION / source-resolved** and outgoing **477→478 CLEAN** preserved;
+- no external/published/web terminology or standard English Kural wording imported.
+
+Current Part-005 English state remains:
+
+- `source-checked` — **111**;
+- `draft` — **0**;
+- `editorial-reviewed` — **0**;
+- `release-ready` — **0**;
+- `source-limited` — **0**;
+- `blocked` — **0**.
+
 ## Exact next English activity
 
-**Part 005 Glossary Reconciliation GR1 — scans 445–477 / printed 428–460 — 33 pages.**
+**Part 005 Glossary Reconciliation GR2 — scans 478–510 / printed 461–493 — 33 pages.**
+
+Boundary discipline: incoming **477→478 CLEAN**; outgoing **510→511 CLEAN**.
