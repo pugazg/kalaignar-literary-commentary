@@ -75,7 +75,7 @@ Workflow batch edges must never create artificial textual boundaries. Inspect th
 
 **Part 005 source intake: COMPLETE / PASS.**
 
-Pass 1 is **COMPLETE**; Pass 2A is **COMPLETE / PASS**; Pass 2B is **READY / 0/111**.
+Pass 1 is **COMPLETE**; Pass 2A is **COMPLETE / PASS**; Pass 2B is **ACTIVE / 11/111**.
 
 - P5-01 / scans **445–455 / printed 428–438** — **COMPLETE 11/11**;
 - P5-02 / scans **456–466 / printed 439–449** — **COMPLETE 11/11**;
@@ -119,7 +119,12 @@ Pass 1 is **COMPLETE**; Pass 2A is **COMPLETE / PASS**; Pass 2B is **READY / 0/1
 - Batch-10 corrections — **6 records / 15 textual-or-punctuation readings**;
 - Batch-10 correction commit — `5be125724c549d4b1c82020ab5fb5bf0e01fc4b8`;
 - outgoing **555→556 — CLEAN**, source-resolved from Part 006 intake;
-- Pass 2B log — `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_005.md` — **READY / 0/111**;
+- Pass 2B Batch 1 / scans **445–455 / printed 428–438** — **COMPLETE 11/11**;
+- cumulative Pass 2B — **11/111**;
+- Batch-1 Pass-2B correction — **1 record / 1 lexical reading**;
+- Batch-1 Pass-2B correction commit — `8391075c43b72ec3e5973db080ba742e5e899c4b`;
+- outgoing **455→456 — GENUINE CONTINUATION**, checked from scan 456 / printed 439;
+- Pass 2B log — `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_005.md`;
 - durable Pass-2A log — `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_005.md`.
 
-Next: **Part 005 Pass 2B Batch 1 / scans 445–455 / printed 428–438**. Use freshly rendered source scans as lexical authority and keep statuses `needs-review` / visual `needs-review` through Pass 2B.
+Next: **Part 005 Pass 2B Batch 2 / scans 456–466 / printed 439–449**. Use freshly rendered source scans as lexical authority and keep statuses `needs-review` / visual `needs-review` through Pass 2B.

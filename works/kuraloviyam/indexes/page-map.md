@@ -439,11 +439,13 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 ## Part 005 Pass-2B verification map
 
-- Pass 2B — **READY / 0/111**;
-- next Batch 1 — **445–455 / printed 428–438**;
+- Batch 1 **445–455 / printed 428–438 — COMPLETE 11/11**;
+- cumulative Pass 2B — **11/111**;
+- corrected Batch-1 scans — **453**;
 - incoming **444→445 genuine continuation** source-resolved;
+- **455→456 genuine continuation** confirmed from scan 456 / printed 439 witness;
 - outgoing Part boundary **555→556 CLEAN** source-resolved.
 
 ## Current frontier
 
-**Part 005 Pass 2B Batch 1 — scans 445–455 / printed 428–438.**
+**Part 005 Pass 2B Batch 2 — scans 456–466 / printed 439–449.**
