@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -21,7 +21,7 @@ The lover who has returned home cannot sleep. His heart surges with memories of 
 
 To ease the pressure upon his mind, he writes her a letter.
 
-When the heart carries a burden, one must speak to someone to unload it—or at least write about the burdening event. In that spirit, this is the letter he writes to her:
+When the heart carries a burden, one must speak to someone to lighten it—or at least write about what weighs on the mind. In that spirit, this is the letter he writes to her:
 
 “My honeyed Tamil! The festival crowd! In the light of the torches, your red-lotus face shone as though polished with gold. I stood tasting that sight with my heart.
 

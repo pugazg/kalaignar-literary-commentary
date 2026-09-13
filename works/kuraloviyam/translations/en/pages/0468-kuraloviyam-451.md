@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 Large upper illustration of a turbaned patron and another man speaking before an attendant.
 
-The villagers had named him “Vidiyan,” and not as a joke. No place touched by his feet ever seemed to dawn into prosperity. Nothing he touched shone—and there was nothing he would not touch.
+The villagers had named him “Vidiyan,” and not as a joke. No place his feet touched ever seemed to see a dawn of prosperity. Nothing he touched shone—and there was nothing he would not touch.
 
 With his own welfare as his sole aim, he would attach himself to anyone and cling on. Once attached, he would not allow anyone else to come near that place.
 

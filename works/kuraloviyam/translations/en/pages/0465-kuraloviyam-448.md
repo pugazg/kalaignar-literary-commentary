@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-The details of the order were announced throughout Athanar.
+The details of the order were announced throughout Athanar's realm.
 
 Many elders of the town approached Minister Koothan with an appeal:
 
@@ -29,11 +29,11 @@ The elders stood silent.
 
 Koothan shouted this and issued the order accordingly.
 
-Those who drank in violation of the order were banished. The force of the decree did not subside. Very soon three-fourths of Athanar's population had disappeared. Only one-fourth remained.
+Those who drank in violation of the order were banished. The force of the decree did not subside. Very soon three-fourths of the population of Athanar's realm had disappeared. Only one-fourth remained.
 
-Most people left for neighbouring countries, saying that the banishment order was actually an order that benefited them. At Athanar's own government expense they were transported across the border. In those countries there were efforts to reform people who drank liquor, but there were no laws exiling them.
+Most people left for neighbouring countries, saying that the banishment order was actually an order that benefited them. At the government's own expense they were transported across the border. In those countries there were efforts to reform people who drank liquor, but there were no laws exiling them.
 
-In Athanar there were no longer enough people to carry out farming, improve the towns, or complete any work at all. Athanar lost its prosperity and sank into poverty.
+In Athanar's realm there were no longer enough people to carry out farming, improve the towns, or complete any work at all. The realm lost its prosperity and sank into poverty.
 
 Koothan finally understood the cause and announced that he was withdrawing his own order. Not only that—he had the drums beaten to proclaim that a liquor shop would be opened inside the palace itself for all the people of Athanar.
 
