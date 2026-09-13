@@ -252,8 +252,36 @@ Durable correction commit:
 
 Exact compare from pre-batch `d76f9d6f0ec9393717b8d7341052073dcaca5b00` to correction endpoint `ba6e0ba0b7b438476bbafb846212e05c080f6028` is **ahead by 1 commit** and changes exactly **9 page files**, scans **524–532** only.
 
+## Batch 9 — overall scans 533–543 / printed pages 516–526
+
+**Status: COMPLETE — 11 / 11 scans directly compared against rendered source.**
+
+Incoming **532→533 CLEAN** was preserved. Scan **544 / printed 527** was inspected only as the outgoing witness and confirms **543→544 GENUINE CONTINUATION**: scan 543 ends mid-vignette after the leaping fish fall onto the bank; scan 544 directly continues and closes the lovers' eye/self-reproach unit with Chapter 118 / Kural 1177.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 533 | 516 | direct textual comparison complete; no correction required; opulence / ஊக்கம் vignette continues into 534 |
+| 534 | 517 | corrected `அனைத்தவிர மற்ற அனைத்தையும்` → source-visible `அதைத் தவிர மற்ற அனைத்தையும்`; Chapter 60 / Kural 600 and source gloss confirmed |
+| 535 | 518 | direct textual comparison complete; no correction required; death-penalty / non-killing vignette continues into 536 |
+| 536 | 519 | direct textual comparison complete; no correction required; Chapter 33 / Kural 330 and both source glosses confirmed |
+| 537 | 520 | direct textual comparison complete; no correction required; milk / lime analogy continues into 538 |
+| 538 | 521 | direct textual comparison complete; no correction required; Chapter 72 / Kural 714 and printed glosses confirmed |
+| 539 | 522 | direct textual comparison complete; no correction required; வழித்துணையான் / வழிப்பறியான் vignette continues into 540 |
+| 540 | 523 | direct textual comparison complete; no correction required; Chapter 16 / Kural 158 and source glosses confirmed |
+| 541 | 524 | direct textual comparison complete; no correction required; வயலூரான் / compassion-and-sight vignette continues into 542 |
+| 542 | 525 | direct textual comparison complete; no correction required; Chapter 58 / Kural 573 and source gloss confirmed |
+| 543 | 526 | direct textual comparison complete; no correction required; scan 544 witness confirms genuine continuation into Chapter 118 / Kural 1177 closure |
+
+Batch 9 correction summary: **1 record corrected; 10 records required no textual change; 1 source-supported reading corrected in total**.
+
+Durable correction commit:
+
+`b3216bbb18464744a06e79232d973f46575c1145` — `kuraloviyam: Pass 2A verify Part 005 scans 533-543`
+
+Exact compare from pre-batch `b7b9374ad660d0fca05cf542dbc9c5ee5187defe` to correction endpoint `b3216bbb18464744a06e79232d973f46575c1145` is **ahead by 1 commit** and changes exactly **1 page file**, scan **534** only.
+
 ## Current gate
 
-Part 005 Pass 2A: **88/111 complete**.
+Part 005 Pass 2A: **99/111 complete**.
 
-Next: **Batch 9 / scans 533–543 / printed 516–526**, preserving incoming **532→533 CLEAN** and inspecting scan **544 / printed 527** only as the outgoing witness when required.
+Next: **Batch 10 final remainder / scans 544–555 / printed 527–538**, preserving incoming **543→544 GENUINE CONTINUATION**. The outgoing **555→556 CLEAN** boundary is already source-resolved.

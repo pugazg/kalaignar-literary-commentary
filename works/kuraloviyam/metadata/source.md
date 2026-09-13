@@ -151,7 +151,7 @@ Boundary **555→556** is **CLEAN**: scan 555 closes Chapter 89 / Kural 881; sca
 
 Detailed intake: `works/kuraloviyam/SOURCE_INTAKE_PART_005.md`.
 
-Part 005 Pass 1 is **COMPLETE**: scans **445–555 / printed 428–538**, **111/111** records captured, all as `status: "needs-review"` / `visual_fidelity: "needs-review"`. Durable Pass-1 progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`. The final Pass-1 page commit is `e636f7d4c6bd02fb9db244a8989e22a04b6c0cb6`; its exact compare changes **12 page files only / scans 544–555**. Pass 2A is **ACTIVE**: Batches 1–8 / scans **445–532 / printed 428–515** are **COMPLETE 88/111**. Batch 8 required source-supported corrections on scans **524–532**; correction commit `ba6e0ba0b7b438476bbafb846212e05c080f6028`. The outgoing **532→533** boundary is **CLEAN**, checked from scan 533 / printed 516. Next is **Part 005 Pass 2A Batch 9 / scans 533–543 / printed 516–526**.
+Part 005 Pass 1 is **COMPLETE**: scans **445–555 / printed 428–538**, **111/111** records captured, all as `status: "needs-review"` / `visual_fidelity: "needs-review"`. Durable Pass-1 progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`. The final Pass-1 page commit is `e636f7d4c6bd02fb9db244a8989e22a04b6c0cb6`; its exact compare changes **12 page files only / scans 544–555**. Pass 2A is **ACTIVE**: Batches 1–9 / scans **445–543 / printed 428–526** are **COMPLETE 99/111**. Batch 9 required one source-supported correction on scan **534**; correction commit `b3216bbb18464744a06e79232d973f46575c1145`. The outgoing **543→544** boundary is **GENUINE CONTINUATION**, checked from scan 544 / printed 527. Next is **Part 005 Pass 2A Batch 10 final remainder / scans 544–555 / printed 527–538**.
 
 ## Part 006 source identity and provenance
 
