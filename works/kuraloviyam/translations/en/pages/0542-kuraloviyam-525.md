@@ -6,14 +6,14 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
 Hearing that voice, Vayalooran turned.
 
-A man without both legs, sitting in the neighbouring hut, was giving him this explanation.
+A man with no legs, sitting in the neighbouring hut, was giving him this explanation.
 
 Anger rose in the philanthropist.
 
@@ -25,7 +25,7 @@ A young man came to the man in the hut and asked:
 
 The young man's name was Semmal.
 
-“What can we do, son? This is the age of publicity philanthropists!
+“What can we do, son? This is the age of publicity-seeking philanthropists!
 
 “If a hundred people had been gathered here, that man would immediately have lifted and embraced this orphaned child and personally conducted the funeral rites of the dead woman.”
 

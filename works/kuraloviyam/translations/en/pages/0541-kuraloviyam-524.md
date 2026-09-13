@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -33,9 +33,9 @@ A child rolls beside her, trying first one breast and then the other, crying sha
 
 Yes—unable to bear the cruelty of poverty, the woman died at dawn.
 
-The green infant, knowing nothing of life or death, sucks at its dead mother's dried breasts and cries in disappointment and hunger.
+The little infant, knowing nothing of life or death, sucks at its dead mother's dried breasts and cries in disappointment and hunger.
 
-At that moment the scene does not escape the eyes of the philanthropist Vayalooran, who happens to pass that way.
+At that moment the scene does not escape the notice of the philanthropist Vayalooran, who happens to pass that way.
 
 He stops and looks carefully.
 
