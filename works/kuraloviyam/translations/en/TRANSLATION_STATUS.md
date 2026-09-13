@@ -415,20 +415,51 @@ Boundaries:
 - incoming **444→445 — GENUINE CONTINUATION / source-resolved**;
 - outgoing **555→556 — CLEAN / source-resolved**.
 
-## Part 005 English first-pass drafting — NOT STARTED
+## Part 005 English first-pass drafting — IN PROGRESS 33/111
 
-Current Part-005 English page inventory: **0/111**.
+### Draft Batch D1 — COMPLETE 33/33
 
-Normal page-batched cadence remains **33 physical scans**.
+- scans **445–477 / printed 428–460**;
+- English records created — **33/33**;
+- status — **33 `draft`**;
+- source-limited — **0**;
+- blocked — **0**;
+- source Tamil linkage — **33/33 exact / `verified`**;
+- translation type — **33/33 `project_translation`**;
+- visual/non-body sections retained where required by the audited Tamil records;
+- incoming **444→445 GENUINE CONTINUATION** respected;
+- outgoing D1 boundary **477→478 CLEAN** preserved.
 
-Exact first drafting batch:
+D1 page commits:
 
-**D1 — scans 445–477 / printed 428–460 — 33 page-aligned English records.**
+- `5fc371a40987a0d837c42add97eba4297ca390e7` — scans 445–455;
+- `247e027157f9f2a2772ba3e024facfd8b1b13532` — scans 456–466;
+- `47ab95e0005abdb59ff7b49920ede25399cc08ce` — scans 467–477.
 
-Use the archival-ready Tamil records as the normal working authority. Do not reopen the PDF merely because drafting begins. Translation type remains project-created; no published, standard or web English Kural wording may be imported.
+Exact D1 audit from Tamil archival-ready checkpoint `6277f88bfb7eabf1ed541fbe6b8b48cf55c34622` to D1 endpoint `47ab95e0005abdb59ff7b49920ede25399cc08ce`:
+
+- **3 commits ahead / non-divergent**;
+- exactly **33 changed files**;
+- all 33 are newly added Part-005 English page records, scans **445–477**;
+- Tamil page changes — **0**;
+- control-document changes during the page layer — **0**.
+
+Direct post-batch checks on scans **445, 461 and 477** confirm `status: "draft"`, `source_tamil_status: "verified"`, and `translation_type: "project_translation"`.
+
+Cumulative Part-005 English state after D1:
+
+- `draft` — **33**;
+- `source-checked` — **0**;
+- `editorial-reviewed` — **0**;
+- `release-ready` — **0**;
+- `source-limited` — **0**;
+- `blocked` — **0**;
+- undrafted physical pages — **78**.
+
+No published, standard or web English Kural wording was imported. No Tamil archival record changed.
 
 Part 006 remains blocked until Part 005 completes its maintained English workflow and final Part closure.
 
 ## Exact next English activity
 
-**Part 005 Draft Batch D1 — scans 445–477 / printed 428–460 — 33 pages.**
+**Part 005 Draft Batch D2 — scans 478–510 / printed 461–493 — 33 pages.**
