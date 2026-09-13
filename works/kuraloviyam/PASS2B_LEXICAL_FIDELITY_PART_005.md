@@ -215,10 +215,38 @@ Durable correction commit:
 
 Exact compare from pre-batch `3bc450eb54dfd63568155d0348f0f64163984453` to correction endpoint `ff38ae5c02ec44026482f8db9702d76e8eb424b1` is **ahead by 1 commit** and changes exactly **3 page files**, scans **511, 512, 519** only.
 
+## Batch 8 — overall scans 522–532 / printed pages 505–515
+
+**Status: COMPLETE — 11 / 11 scans independently re-read against freshly rendered source.**
+
+Incoming **521→522 CLEAN** was preserved. Scan **533 / printed 516** was inspected only as the outgoing witness and confirms **532→533 CLEAN**: scan 532 closes Chapter 103 / Kural 1021, while scan 533 begins a new illustrated opulence / ஊக்கம் vignette.
+
+| Scan | Printed page | Pass 2B result |
+|---:|---:|---|
+| 522 | 505 | corrected `ஒருவனைத்` → source-visible `ஒருவனைக்`; false-praise / dependent-puppet vignette continues into 523 |
+| 523 | 506 | corrected `போரைக் தொடர்ந்து` → source-visible `போரைத் தொடர்ந்து`; Chapter 102 / Kural 1020 confirmed |
+| 524 | 507 | independent lexical re-read complete; no correction required; Arulalan gratitude/betrayal vignette begins and continues into 525 |
+| 525 | 508 | independent lexical re-read complete; no correction required; Arulalan vignette continues into 526 |
+| 526 | 509 | independent lexical re-read complete; no correction required; Chapter 11 / Kural 110 confirmed |
+| 527 | 510 | corrected `எழுதிய தந்ததை` → source-visible `எழுதித் தந்ததை`; militaristic-king / just-rule vignette continues into 528 |
+| 528 | 511 | restored source-visible queen-speech clause: `பயன்படுத்தினால்கூட, அந்தச் சொற்கள் காதைக் குடையும் நிலையிலே பாய்ந்தால் கூட அதைப் பொறுத்துக்கொள்கிற`; Chapter 39 / Kural 389 and source glosses confirmed |
+| 529 | 512 | corrected `ஆயிரம்` → source-visible `ஆயன்`; five-senses / lovers' union vignette continues into 530 |
+| 530 | 513 | corrected `எங்கிடும்` → `ஏங்கிடும்`; `நங்கினாலும்` → `நீங்கினாலும்`; Chapter 111 / Kural 1101 confirmed |
+| 531 | 514 | independent lexical re-read complete; no correction required; duty / child-rescue vignette begins and continues into 532 |
+| 532 | 515 | restored source punctuation at `புயல்காற்று - இவற்றினைக்` and `அதற்கு இது குறள்:-`; Chapter 103 / Kural 1021 and source gloss confirmed; scan 533 witness confirms CLEAN boundary |
+
+Batch 8 correction summary: **7 records corrected; 4 records required no lexical or punctuation change; 12 source-supported lexical-or-spacing/punctuation readings corrected in total**.
+
+Durable correction commit:
+
+`4af1b155dad0a81c5bd7fe68cd64569801a3718f` — `kuraloviyam: Pass 2B verify Part 005 scans 522-532`
+
+Exact compare from pre-batch `0480e96301304a9e21f02d69cabe29c8233aa2e3` to correction endpoint `4af1b155dad0a81c5bd7fe68cd64569801a3718f` is **ahead by 1 commit** and changes exactly **7 page files**, scans **522, 523, 527, 528, 529, 530, 532** only.
+
 ## Current Pass 2B coverage
 
-- complete — **77/111 scans**;
-- remaining — **34 scans**;
+- complete — **88/111 scans**;
+- remaining — **23 scans**;
 - Batch 1 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - Batch 2 — **456–466 / printed 439–449 — COMPLETE 11/11**;
 - Batch 3 — **467–477 / printed 450–460 — COMPLETE 11/11**;
@@ -226,6 +254,7 @@ Exact compare from pre-batch `3bc450eb54dfd63568155d0348f0f64163984453` to corre
 - Batch 5 — **489–499 / printed 472–482 — COMPLETE 11/11**;
 - Batch 6 — **500–510 / printed 483–493 — COMPLETE 11/11**;
 - Batch 7 — **511–521 / printed 494–504 — COMPLETE 11/11**;
+- Batch 8 — **522–532 / printed 505–515 — COMPLETE 11/11**;
 - corrected Batch-1 scans — **453**;
 - corrected Batch-2 scans — **457, 463, 465**;
 - corrected Batch-3 scans — **469, 477**;
@@ -233,6 +262,7 @@ Exact compare from pre-batch `3bc450eb54dfd63568155d0348f0f64163984453` to corre
 - corrected Batch-5 scans — **490, 492, 494, 496, 497**;
 - corrected Batch-6 scans — **500, 506, 510**;
 - corrected Batch-7 scans — **511, 512, 519**;
+- corrected Batch-8 scans — **522, 523, 527, 528, 529, 530, 532**;
 - incoming Part boundary **444→445 — GENUINE CONTINUATION / source-resolved**;
 - **455→456 — GENUINE CONTINUATION** preserved;
 - **466→467 — GENUINE CONTINUATION** preserved;
@@ -240,10 +270,11 @@ Exact compare from pre-batch `3bc450eb54dfd63568155d0348f0f64163984453` to corre
 - **488→489 — CLEAN** preserved;
 - **499→500 — GENUINE CONTINUATION** preserved;
 - **510→511 — CLEAN** preserved;
-- outgoing Batch-7 boundary **521→522 — CLEAN**;
+- **521→522 — CLEAN** preserved;
+- outgoing Batch-8 boundary **532→533 — CLEAN**;
 - outgoing Part boundary **555→556 — CLEAN / source-resolved**;
 - current page statuses — **111 needs-review / 111 visual needs-review**.
 
 ## Exact next activity
 
-Continue **Batch 8 — scans 522–532 / printed 505–515**. Preserve incoming **521→522 CLEAN**. Inspect scan **533 / printed 516** only as the outgoing boundary witness when required. Apply only source-supported lexical or punctuation corrections. Do not promote final status and do not begin Part 006.
+Continue **Batch 9 — scans 533–543 / printed 516–526**. Preserve incoming **532→533 CLEAN**. Inspect scan **544 / printed 527** only as the outgoing boundary witness when required. Apply only source-supported lexical or punctuation corrections. Do not promote final status and do not begin Part 006.
