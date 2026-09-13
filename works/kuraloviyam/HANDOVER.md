@@ -291,8 +291,13 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - Tamil archival-ready checkpoint — **PASS / CLOSED**;
 - Part 005 Tamil — **ARCHIVAL-READY / CLOSED — 111 textual verified + 111 visual verified / 0 exceptions**;
 - durable Tamil archival-ready record — `works/kuraloviyam/PART_005_TAMIL_ARCHIVAL_READY.md`;
-- Part 005 English page inventory before drafting — **0/111**;
-- next gate — **English Draft D1 / scans 445–477 / printed 428–460 — 33 pages**.
+- English Draft D1 — **445–477 / printed 428–460 — COMPLETE 33/33**;
+- cumulative English drafting — **33/111**;
+- current English status — **33 draft / 0 source-checked / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
+- remaining undrafted — **78**;
+- D1 endpoint — `47ab95e0005abdb59ff7b49920ede25399cc08ce`;
+- D1 page-only audit — **33 added English page files only / 0 Tamil changes / 0 control-file changes**;
+- next gate — **English Draft D2 / scans 478–510 / printed 461–493 — 33 pages**.
 
 ## Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -302,4 +307,4 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ## Exact next activity
 
-Proceed with **Part 005 English Draft D1 / scans 445–477 / printed 428–460 — 33 pages**. Use the archival-ready Tamil records as normal authority, create page-aligned project English records at `draft` status, preserve metadata/visual/continuation structure, and do not import external English wording. Do not start Part 006 transcription.
+Proceed with **Part 005 English Draft D2 / scans 478–510 / printed 461–493 — 33 pages**. Preserve **477→478 CLEAN**, use the archival-ready Tamil records as normal authority, keep new English records at `draft`, preserve metadata/visual/continuation structure, and do not import external English wording. Do not start Part 006 transcription.
