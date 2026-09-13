@@ -186,7 +186,7 @@ Do not restart Pass 1. Do not resume scan-led lexical Pass 2 at scan 14.
 - English — **111/111 `release-ready`**;
 - durable final record — `works/kuraloviyam/PART_004_FINAL_CLOSURE.md`.
 
-### Part 005 — PASS 1 ACTIVE
+### Part 005 — PASS 1 COMPLETE / PASS 2A NEXT
 
 Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_pages_445-555.pdf`.
 
@@ -200,11 +200,12 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - P5-07 — **511–521 / printed 494–504 — COMPLETE 11/11**;
 - P5-08 — **522–532 / printed 505–515 — COMPLETE 11/11**;
 - P5-09 — **533–543 / printed 516–526 — COMPLETE 11/11**;
-- cumulative Pass 1 — **99/111 captured**;
-- current 99 records — `needs-review` / visual `needs-review`;
-- P5-09 page endpoint — `15166ed1fd6d0a8997daff2da1e32faf2ab28a05`;
-- exact P5-09 compare — **11 files only / scans 533–543**;
-- **543→544 — GENUINE CONTINUATION**, checked from scan 544 / printed 527 witness;
+- P5-10 / final remainder — **544–555 / printed 527–538 — COMPLETE 12/12**;
+- cumulative Pass 1 — **111/111 COMPLETE**;
+- all 111 records — `needs-review` / visual `needs-review`;
+- final Pass-1 page endpoint — `e636f7d4c6bd02fb9db244a8989e22a04b6c0cb6`;
+- exact final Pass-1 compare from `ede8f2e8f950359abe2da5d3c9db116c0d04f71a` to `e636f7d4c6bd02fb9db244a8989e22a04b6c0cb6` — **12 files only / scans 544–555**;
+- **555→556 — CLEAN**, preserved from the source-gated Part 006 boundary;
 - durable progress — `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ### Part 006 — SOURCE INTAKE COMPLETE / WAITING
@@ -216,4 +217,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Execute **Part 005 Pass 1 / P5-10 — scans 544–554 / printed 527–537**. Preserve the incoming **543→544 GENUINE CONTINUATION** boundary. Use scan **555 / printed 538** only as an outgoing boundary witness when required. Do not begin Part 006 transcription yet.
+Begin **Part 005 Pass 2A / Batch 1 — scans 445–455 / printed 428–438**. Directly compare wording, punctuation, paragraph boundaries, Kural text/metadata and source-visible structure against the rendered scans. Keep all pages `needs-review` until the later required Pass 2B / Pass 3 / audit gates close. Do not begin Part 006 transcription yet.

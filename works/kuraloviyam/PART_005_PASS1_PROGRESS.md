@@ -417,8 +417,52 @@ Exact page-only compare from pre-batch `60555516a53d739876ceefa8fe7d76d98b676373
 - Parts 001–004 remain untouched;
 - Part 006 remains transcription-inactive.
 
+## P5-10 / final remainder state
+
+**12 / 12 page records captured — COMPLETE.**
+
+At the user's instruction to process all remaining Part 005 pages in one iteration, scans **544–555 / printed 527–538** were captured together as the final Pass-1 remainder. All 12 records carry:
+
+- `part: 5`;
+- `part_page: 100–111`;
+- exact scan/printed-page mappings;
+- `status: "needs-review"`;
+- `visual_fidelity: "needs-review"`;
+- the exact Part 005 source filename.
+
+Final Pass-1 page-layer commit:
+
+`e636f7d4c6bd02fb9db244a8989e22a04b6c0cb6` — `kuraloviyam: Complete Part 005 Pass 1 scans 544-555`
+
+Exact page-only compare from pre-batch `ede8f2e8f950359abe2da5d3c9db116c0d04f71a` to `e636f7d4c6bd02fb9db244a8989e22a04b6c0cb6` is **ahead by 1 commit** and changes exactly **12 files**, all and only scans **544–555**.
+
+## P5-10 / final remainder continuity map
+
+- **543→544 — GENUINE CONTINUATION**; scan 544 closes Chapter 118 / Kural 1177;
+- **544→545 — CLEAN**; scan 545 begins the `குடி` / `மானம்` / இன உயர்வு vignette;
+- **545→546 — GENUINE CONTINUATION**; scan 546 closes Chapter 103 / Kural 1028;
+- **546→547 — CLEAN**; scan 547 begins the Athiyaman / Avvai vignette;
+- **547→548 — GENUINE CONTINUATION**; scan 548 closes Chapter 9 / Kural 82;
+- **548→549 — CLEAN**; scan 549 begins the education / daughter / உயர்வு vignette;
+- **549→550 — GENUINE CONTINUATION**;
+- **550→551 — GENUINE CONTINUATION**; scan 551 closes Chapter 60 / Kural 596;
+- **551→552 — CLEAN**; scan 552 begins the மலர்விழி / gossip-created-love vignette;
+- **552→553 — GENUINE CONTINUATION**; scan 553 closes Chapter 115 / Kural 1142;
+- **553→554 — CLEAN**; scan 554 begins the பூங்குன்றன் / உட்பகை vignette;
+- **554→555 — GENUINE CONTINUATION**; scan 555 closes Chapter 89 / Kural 881;
+- **555→556 — CLEAN**, already source-resolved during Part 005/006 intake.
+
+## Final Pass-1 structural notes
+
+- complete physical coverage now exists for **445–555 / printed 428–538 — 111/111**;
+- all 111 records remain `needs-review` / visual `needs-review`;
+- Kural blocks and source glosses remain distinct from surrounding prose;
+- illustrations remain represented in `visual_notes`;
+- no Part 001–004 record changed;
+- Part 006 remains transcription-inactive.
+
 ## Current gate
 
-Part 005 Pass 1: **99/111 captured**.
+Part 005 Pass 1: **COMPLETE — 111/111 captured**.
 
-Next: **P5-10 / scans 544–554 / printed 527–537**, preserving the incoming **543→544 GENUINE CONTINUATION** and using scan **555 / printed 538** only as a boundary witness when required.
+Next: **Pass 2A Batch 1 / scans 445–455 / printed 428–438**. Directly verify current repository text against rendered source pixels. Do not promote final textual/visual status during Pass 2A.

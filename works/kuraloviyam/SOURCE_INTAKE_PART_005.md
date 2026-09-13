@@ -75,7 +75,7 @@ Workflow batch edges must never create artificial textual boundaries. Inspect th
 
 **Part 005 source intake: COMPLETE / PASS.**
 
-Pass 1 is active.
+Pass 1 is **COMPLETE**; Pass 2A is next.
 
 - P5-01 / scans **445–455 / printed 428–438** — **COMPLETE 11/11**;
 - P5-02 / scans **456–466 / printed 439–449** — **COMPLETE 11/11**;
@@ -86,9 +86,10 @@ Pass 1 is active.
 - P5-07 / scans **511–521 / printed 494–504** — **COMPLETE 11/11**;
 - P5-08 / scans **522–532 / printed 505–515** — **COMPLETE 11/11**;
 - P5-09 / scans **533–543 / printed 516–526** — **COMPLETE 11/11**;
-- cumulative Pass-1 capture — **99/111**;
-- exact P5-09 changed-file set — **11 page files only**;
-- outgoing **543→544 — GENUINE CONTINUATION**, checked from scan 544 / printed 527;
+- P5-10 / final remainder / scans **544–555 / printed 527–538** — **COMPLETE 12/12**;
+- cumulative Pass-1 capture — **111/111 COMPLETE**;
+- exact final Pass-1 changed-file set — **12 page files only / scans 544–555**;
+- outgoing **555→556 — CLEAN**, already source-resolved;
 - durable progress — `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
-Next: **P5-10 / scans 544–554 / printed 527–537**, preserving the incoming **543→544 GENUINE CONTINUATION** and using scan **555 / printed 538** only as a boundary witness when required.
+Next: **Part 005 Pass 2A Batch 1 / scans 445–455 / printed 428–438**. Use rendered source pixels as controlling authority and keep statuses `needs-review` / visual `needs-review` through Pass 2A.

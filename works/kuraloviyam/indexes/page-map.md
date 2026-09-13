@@ -357,7 +357,8 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - P5-07 **511–521 — COMPLETE 11/11**;
 - P5-08 **522–532 — COMPLETE 11/11**;
 - P5-09 **533–543 — COMPLETE 11/11**;
-- cumulative Pass 1 — **99/111**;
+- P5-10 / final remainder **544–555 — COMPLETE 12/12**;
+- cumulative Pass 1 — **111/111 COMPLETE**;
 - **521→522 CLEAN**;
 - **522→523 genuine continuation**;
 - **523→524 CLEAN**;
@@ -380,7 +381,19 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - **540→541 CLEAN**;
 - **541→542 genuine continuation**;
 - **542→543 CLEAN**;
-- **543→544 genuine continuation**, checked from scan 544 / printed 527.
+- **543→544 genuine continuation**;
+- **544→545 CLEAN**;
+- **545→546 genuine continuation**;
+- **546→547 CLEAN**;
+- **547→548 genuine continuation**;
+- **548→549 CLEAN**;
+- **549→550 genuine continuation**;
+- **550→551 genuine continuation**;
+- **551→552 CLEAN**;
+- **552→553 genuine continuation**;
+- **553→554 CLEAN**;
+- **554→555 genuine continuation**;
+- **555→556 CLEAN**, source-resolved at intake.
 
 ## Part 006 intake boundary map
 
@@ -391,4 +404,4 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 ## Current frontier
 
-**Part 005 Pass 1 P5-10 — scans 544–554 / printed 527–537.**
+**Part 005 Pass 2A Batch 1 — scans 445–455 / printed 428–438.**

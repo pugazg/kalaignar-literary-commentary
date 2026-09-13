@@ -207,7 +207,7 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 ### Part 005 — overall scans 445–555
 
-**SOURCE INTAKE: PASS / COMPLETE. PASS 1: ACTIVE.**
+**SOURCE INTAKE: PASS / COMPLETE. PASS 1: COMPLETE 111/111. PASS 2A: NEXT.**
 
 - P5-01 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - P5-02 — **456–466 / printed 439–449 — COMPLETE 11/11**;
@@ -218,10 +218,11 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 - P5-07 — **511–521 / printed 494–504 — COMPLETE 11/11**;
 - P5-08 — **522–532 / printed 505–515 — COMPLETE 11/11**;
 - P5-09 — **533–543 / printed 516–526 — COMPLETE 11/11**;
-- cumulative Tamil Pass-1 capture — **99/111**;
-- current captured records — **99 `needs-review` / visual `needs-review`**;
-- P5-09 exact compare — **11 page files only**;
-- **543→544 GENUINE CONTINUATION**;
+- P5-10 / final remainder — **544–555 / printed 527–538 — COMPLETE 12/12**;
+- cumulative Tamil Pass-1 capture — **111/111 COMPLETE**;
+- current captured records — **111 `needs-review` / visual `needs-review`**;
+- final Pass-1 exact compare — **12 page files only / scans 544–555**;
+- **555→556 CLEAN**;
 - durable progress — `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ### Part 006 — overall scans 556–666
@@ -233,4 +234,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 ### Exact next content stage
 
-Continue **Part 005 P5-10 — scans 544–554 / printed 527–537**. Preserve the incoming **543→544 GENUINE CONTINUATION** boundary; use scan **555 / printed 538** only as the outgoing witness when required. Rendered source pixels remain controlling. Do not begin Part 006 transcription yet.
+Begin **Part 005 Pass 2A Batch 1 — scans 445–455 / printed 428–438**. Directly verify wording, punctuation, paragraph boundaries, Kural blocks/metadata, page mapping and source-visible structure against rendered scans. Do not promote final textual/visual status during Pass 2A; Pass 2B and Pass 3 still remain mandatory. Do not begin Part 006 transcription yet.

@@ -174,7 +174,7 @@ Durable documentation-sync record: `PART_003_DOCUMENTATION_SYNC.md`.
 
 Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained English is **111/111 release-ready**.
 
-## Part 005 — PASS 1 ACTIVE
+## Part 005 — PASS 1 COMPLETE / PASS 2A NEXT
 
 - source intake — **PASS / COMPLETE**;
 - P5-01 — **445–455 / printed 428–438 — COMPLETE 11/11**;
@@ -186,10 +186,11 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - P5-07 — **511–521 / printed 494–504 — COMPLETE 11/11**;
 - P5-08 — **522–532 / printed 505–515 — COMPLETE 11/11**;
 - P5-09 — **533–543 / printed 516–526 — COMPLETE 11/11**;
-- cumulative Pass 1 — **99/111**;
-- current captured records — **99 needs-review / visual needs-review**;
+- P5-10 / final remainder — **544–555 / printed 527–538 — COMPLETE 12/12**;
+- cumulative Pass 1 — **111/111 COMPLETE**;
+- current captured records — **111 needs-review / visual needs-review**;
 - durable progress — `PART_005_PASS1_PROGRESS.md`;
-- **543→544 GENUINE CONTINUATION**.
+- **555→556 CLEAN**.
 
 ## Part 006 — SOURCE-READY / WAITING
 
@@ -200,4 +201,4 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 
 ## Current frontier
 
-**Part 005 P5-10 — scans 544–554 / printed 527–537.**
+**Part 005 Pass 2A Batch 1 — scans 445–455 / printed 428–438.**
