@@ -47,17 +47,48 @@ Durable correction commit:
 
 Exact compare from pre-batch `064ae422a122cd011735f75d6a5312bf5e10e098` to correction endpoint `8391075c43b72ec3e5973db080ba742e5e899c4b` is **ahead by 1 commit** and changes exactly **1 page file**, scan **453** only.
 
+## Batch 2 — overall scans 456–466 / printed pages 439–449
+
+**Status: COMPLETE — 11 / 11 scans independently re-read against freshly rendered source.**
+
+Incoming **455→456 GENUINE CONTINUATION** was preserved. Scan **467 / printed 450** was inspected only as the outgoing witness and confirms **466→467 GENUINE CONTINUATION**.
+
+| Scan | Printed page | Pass 2B result |
+|---:|---:|---|
+| 456 | 439 | independent lexical re-read complete; no correction required; Chapter 97 / Kural 969 confirmed |
+| 457 | 440 | corrected source-visible joining `இளங்கவிஞன்` → `இளங் கவிஞன்`; river-rescue vignette continues into 458 |
+| 458 | 441 | independent lexical re-read complete; no correction required; Chapter 11 / Kural 103 confirmed |
+| 459 | 442 | independent lexical re-read complete; no correction required; Mankadu doctor vignette continues into 460 |
+| 460 | 443 | independent lexical re-read complete; no correction required; doctor vignette continues into 461 |
+| 461 | 444 | independent lexical re-read complete; no correction required; Chapter 88 / Kural 873 and source glosses confirmed |
+| 462 | 445 | independent lexical re-read complete; no correction required; lovers/pallor vignette continues into 463 |
+| 463 | 446 | corrected source-visible joining `காட்டிக்கொண்டிருக்கிறோம்` → `காட்டிக் கொண்டிருக்கிறோம்`; Chapter 124 / Kural 1238 and source glosses confirmed |
+| 464 | 447 | independent lexical re-read complete; no correction required; Koothan prohibition-policy vignette continues into 465 |
+| 465 | 448 | corrected `கடுமையானச்` → source-visible `கடுமையாகச்`; corrected source-visible joining `முயற்சிகளுண்டே` → `முயற்சிகள் உண்டே`; Chapter 64 / Kural 637 and source gloss confirmed |
+| 466 | 449 | independent lexical re-read complete; no correction required; scan 467 witness confirms genuine continuation |
+
+Batch 2 correction summary: **3 records corrected; 8 records required no lexical or punctuation change; 4 source-supported lexical-or-spacing readings corrected in total**.
+
+Durable correction commit:
+
+`665a2691e0e1cdfcff740adb48a65783976b8adf` — `kuraloviyam: Pass 2B verify Part 005 scans 456-466`
+
+Exact compare from pre-batch `072456efa8cd32baeee629d4d791be9e591a7124` to correction endpoint `665a2691e0e1cdfcff740adb48a65783976b8adf` is **ahead by 1 commit** and changes exactly **3 page files**, scans **457, 463, 465** only.
+
 ## Current Pass 2B coverage
 
-- complete — **11/111 scans**;
-- remaining — **100 scans**;
+- complete — **22/111 scans**;
+- remaining — **89 scans**;
 - Batch 1 — **445–455 / printed 428–438 — COMPLETE 11/11**;
+- Batch 2 — **456–466 / printed 439–449 — COMPLETE 11/11**;
 - corrected Batch-1 scans — **453**;
+- corrected Batch-2 scans — **457, 463, 465**;
 - incoming Part boundary **444→445 — GENUINE CONTINUATION / source-resolved**;
-- outgoing Batch-1 boundary **455→456 — GENUINE CONTINUATION**;
+- **455→456 — GENUINE CONTINUATION** preserved;
+- outgoing Batch-2 boundary **466→467 — GENUINE CONTINUATION**;
 - outgoing Part boundary **555→556 — CLEAN / source-resolved**;
 - current page statuses — **111 needs-review / 111 visual needs-review**.
 
 ## Exact next activity
 
-Continue **Batch 2 — scans 456–466 / printed 439–449**. Preserve incoming **455→456 GENUINE CONTINUATION**. Inspect scan **467 / printed 450** only as the outgoing boundary witness when required. Apply only source-supported lexical or punctuation corrections. Do not promote final status and do not begin Part 006.
+Continue **Batch 3 — scans 467–477 / printed 450–460**. Preserve incoming **466→467 GENUINE CONTINUATION**. Inspect scan **478 / printed 461** only as the outgoing boundary witness when required. Apply only source-supported lexical or punctuation corrections. Do not promote final status and do not begin Part 006.

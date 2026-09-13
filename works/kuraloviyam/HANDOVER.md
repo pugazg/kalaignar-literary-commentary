@@ -212,13 +212,17 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - Batch-10 correction commit — `5be125724c549d4b1c82020ab5fb5bf0e01fc4b8` — exact compare **6 page files only / scans 544, 545, 546, 549, 551, 552**;
 - **555→556 CLEAN** remains source-resolved;
 - Pass 2B Batch 1 — **445–455 / printed 428–438 — COMPLETE 11/11**;
-- cumulative Pass 2B — **11/111**;
+- Pass 2B Batch 2 — **456–466 / printed 439–449 — COMPLETE 11/11**;
+- cumulative Pass 2B — **22/111**;
 - Batch-1 Pass-2B correction — **1 record / 1 lexical reading**;
 - Batch-1 Pass-2B correction commit — `8391075c43b72ec3e5973db080ba742e5e899c4b` — exact compare **1 page file only / scan 453**;
 - **455→456 GENUINE CONTINUATION**;
+- Batch-2 Pass-2B corrections — **3 records / 4 lexical-or-spacing readings**;
+- Batch-2 Pass-2B correction commit — `665a2691e0e1cdfcff740adb48a65783976b8adf` — exact compare **3 page files only / scans 457, 463, 465**;
+- **466→467 GENUINE CONTINUATION**;
 - Pass 2B log — `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_005.md`;
 - durable Pass-2A log — `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_005.md`;
-- next gate — **Pass 2B Batch 2 / scans 456–466 / printed 439–449**.
+- next gate — **Pass 2B Batch 3 / scans 467–477 / printed 450–460**.
 
 ## Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -228,4 +232,4 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ## Exact next activity
 
-Proceed with **Part 005 Pass 2B Batch 2 / scans 456–466 / printed 439–449** as an independent lexical-fidelity re-read. Preserve **455→456 GENUINE CONTINUATION**, use scan 467 only as the outgoing witness when required, apply only source-supported corrections, keep statuses `needs-review` / visual `needs-review`, and do not start Part 006 transcription.
+Proceed with **Part 005 Pass 2B Batch 3 / scans 467–477 / printed 450–460** as an independent lexical-fidelity re-read. Preserve **466→467 GENUINE CONTINUATION**, use scan 478 only as the outgoing witness when required, apply only source-supported corrections, keep statuses `needs-review` / visual `needs-review`, and do not start Part 006 transcription.
