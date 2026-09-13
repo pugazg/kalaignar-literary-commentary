@@ -111,14 +111,62 @@ Exact compare from pre-batch `c11f4cd3964f083eba76e5ed14b1803d869463ff` to page 
 - scan 578 was inspected only as an outgoing continuity witness and remains outside P6-02;
 - no Part 001–005 Tamil or English page record changed.
 
+## P6-03 state
+
+**11 / 11 page records captured — COMPLETE.**
+
+P6-03 scans **578–588 / printed 561–571** are captured as one page-aligned Tamil Pass-1 record per physical scan. All 11 records carry:
+
+- `part: 6`;
+- `part_page: 23–33`;
+- exact scan/printed-page mappings;
+- `status: "needs-review"`;
+- `visual_fidelity: "needs-review"`;
+- the exact Part 006 source filename.
+
+Page-layer commits:
+
+- `383685014dde494ef1d6881080088ce5cd622116` — `kuraloviyam: Part 006 Pass 1 scans 578-583`;
+- `0523ff4f5755a851087d160320770831352bd189` — `kuraloviyam: Part 006 Pass 1 scans 584-588`.
+
+Exact compare from pre-batch `1f0460164c9468c9062ab2b5b8bd904513d9a187` to page endpoint `0523ff4f5755a851087d160320770831352bd189`:
+
+- **2 commits ahead / non-divergent**;
+- exactly **11 changed files**;
+- all **11** are newly added Part 006 Tamil page records, scans **578–588**;
+- non-page/control files changed — **0**.
+
+## P6-03 continuity map
+
+- **577→578 — GENUINE CONTINUATION**; scan 578 closes the political/ethical leadership vignette with Chapter 90 / Kural 899;
+- **578→579 — CLEAN**;
+- **579→580 — GENUINE CONTINUATION**; scan 580 closes the Jayaprakash Narayan / Prabhavati vignette with Chapter 6 / Kural 56;
+- **580→581 — CLEAN**;
+- **581→582 — GENUINE CONTINUATION**; scan 582 closes the birth/caste/occupation vignette with Chapter 98 / Kural 972;
+- **582→583 — CLEAN**;
+- **583→584 — GENUINE CONTINUATION**; scan 584 closes the love/pulavi vignette with Chapter 132 / Kural 1315;
+- **584→585 — CLEAN**;
+- **585→586 — GENUINE CONTINUATION**; scan 586 closes the soil/produce/lineage vignette with Chapter 96 / Kural 959;
+- **586→587 — CLEAN**;
+- **587→588 — GENUINE CONTINUATION**; scan 588 closes the fallen-emperor / people's-leader vignette with Chapter 12 / Kural 119;
+- **588→589 — CLEAN**, directly checked from scan 589 / printed 572 as an outgoing witness. Scan 589 begins a new horse-rearing/business vignette and was **not** created in P6-03.
+
+## P6-03 structural notes
+
+- illustrations remain described in `visual_notes`, not transcribed as prose;
+- Kural blocks and source glosses remain structurally distinct;
+- exact physical-page splits are preserved;
+- scan 589 was inspected only as an outgoing continuity witness and remains outside P6-03;
+- no Part 001–005 Tamil or English page record changed.
+
 ## Current gate
 
-Part 006 Pass 1 cumulative state: **22/111 captured**.
+Part 006 Pass 1 cumulative state: **33/111 captured**.
 
-P6-01 and P6-02 are **COMPLETE / 22 pages captured**.
+P6-01 through P6-03 are **COMPLETE / 33 pages captured**.
 
 Exact next batch:
 
-**P6-03 — scans 578–588 / printed 561–571 — 11 physical scans.**
+**P6-04 — scans 589–599 / printed 572–582 — 11 physical scans.**
 
-Preserve incoming **577→578 GENUINE CONTINUATION**.
+Preserve incoming **588→589 CLEAN**.
