@@ -276,7 +276,12 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - **555→556 CLEAN / source-resolved** preserved;
 - Pass 3 — **COMPLETE / PASS 111/111**;
 - Pass 3 log — `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_005.md`;
-- next gate — **Part 005 Part audit / scans 445–555 / printed 428–538**.
+- Part 005 audit — **PASS / COMPLETE**;
+- physical/mapping audit — **111/111 canonical records; 0 gaps / 0 duplicates / 0 mapping anomalies**;
+- source-filename audit — **111/111 exact source filename**;
+- pre-final status distribution — **111 needs-review / 111 visual needs-review; 0 partial / 0 blocked / 0 source-limited / 0 premature verified**;
+- durable audit — `works/kuraloviyam/PART_005_AUDIT.md`;
+- next gate — **Part 005 final metadata/status synchronization / scans 445–555 / printed 428–538**.
 
 ## Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -286,4 +291,4 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ## Exact next activity
 
-Proceed with the **Part 005 Part audit / scans 445–555 / printed 428–538**. Audit repository/control records after the now-closed direct-source verification chain; reopen source only for a concrete discrepancy. Keep statuses `needs-review` / visual `needs-review` and do not start Part 006 transcription.
+Proceed with **Part 005 final metadata/status synchronization / scans 445–555 / printed 428–538**. This is metadata-only: promote both final status fields to `verified` on all eligible records, and verify the exact changed-file set. Do not change Tamil wording, Kural text, structure, visual notes, comments, source identifiers or mapping. Do not start Part 006 transcription.

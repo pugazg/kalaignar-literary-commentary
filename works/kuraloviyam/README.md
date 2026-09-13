@@ -281,6 +281,9 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - **501→502 GENUINE CONTINUATION** preserved;
 - **526→527 CLEAN** preserved;
 - **555→556 CLEAN / source-resolved** preserved;
+- Part 005 audit — **PASS / COMPLETE**;
+- audit coverage/mapping — **111/111 canonical records; 0 gaps / 0 duplicates / 0 anomalies**;
+- audit status discipline — **111 needs-review / 111 visual needs-review; 0 partial / blocked / source-limited / premature verified**;
 - **555→556 CLEAN**.
 
 ## Part 006 — SOURCE-READY / WAITING
@@ -292,4 +295,4 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 
 ## Current frontier
 
-**Part 005 Part audit — scans 445–555 / printed 428–538.**
+**Part 005 final metadata/status synchronization — scans 445–555 / printed 428–538.**

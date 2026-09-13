@@ -496,6 +496,21 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - outgoing Part boundary **555→556 CLEAN / source-resolved** preserved;
 - current page statuses — **111 needs-review / 111 visual needs-review**.
 
+## Part 005 audit result
+
+- **PASS / COMPLETE**;
+- canonical page files — **111/111**;
+- scan mapping — **445–555 continuous**;
+- local Part mapping — **1–111 continuous**;
+- printed mapping — **428–538 continuous**;
+- gaps / duplicates / mapping anomalies — **0 / 0 / 0**;
+- exact controlling source filename — **111/111**;
+- textual status before final sync — **111 needs-review / 0 verified / 0 partial / 0 blocked / 0 source-limited**;
+- visual status before final sync — **111 needs-review / 0 verified**;
+- incoming **444→445 genuine continuation / source-resolved**;
+- outgoing **555→556 CLEAN / source-resolved**;
+- audit record — `works/kuraloviyam/PART_005_AUDIT.md`.
+
 ## Current frontier
 
-**Part 005 Part audit — scans 445–555 / printed 428–538.**
+**Part 005 final metadata/status synchronization — scans 445–555 / printed 428–538.**

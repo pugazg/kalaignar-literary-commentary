@@ -207,7 +207,7 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 ### Part 005 — overall scans 445–555
 
-**SOURCE INTAKE: PASS / COMPLETE. PASS 1: COMPLETE 111/111. PASS 2A: COMPLETE / PASS 111/111. PASS 2B: COMPLETE / PASS 111/111. PASS 3: COMPLETE / PASS 111/111. PART AUDIT: NEXT.**
+**SOURCE INTAKE: PASS / COMPLETE. PASS 1: COMPLETE 111/111. PASS 2A: COMPLETE / PASS 111/111. PASS 2B: COMPLETE / PASS 111/111. PASS 3: COMPLETE / PASS 111/111. PART AUDIT: PASS / COMPLETE. FINAL STATUS SYNC: NEXT.**
 
 - P5-01 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - P5-02 — **456–466 / printed 439–449 — COMPLETE 11/11**;
@@ -329,4 +329,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 ### Exact next content stage
 
-Proceed with **Part 005 Part audit — scans 445–555 / printed 428–538**. Audit coverage, mapping, closed verification gates, continuity, Kural/metadata structure, source-visible non-body material, source limits and pre-final status discipline. Reopen source only for a concrete discrepancy. Keep all page statuses `needs-review` / visual `needs-review` during the audit. Do not begin Part 006 transcription.
+Proceed with **Part 005 final metadata/status synchronization — scans 445–555 / printed 428–538**. Because the Part audit is **PASS / COMPLETE** and carries **0 blocked / 0 partial / 0 source-limited / 0 unresolved internal exceptions**, promote eligible records metadata-only from `needs-review` to `verified` for both textual status and visual fidelity. Do not alter body text, Kural wording, page structure, visual notes, source comments or mapping. Do not begin Part 006 transcription.

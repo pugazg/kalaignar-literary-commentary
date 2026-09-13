@@ -304,7 +304,12 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - **526→527 — CLEAN**, preserved;
 - **555→556 — CLEAN / source-resolved**, preserved;
 - Pass 3 — **COMPLETE / PASS 111/111**;
-- durable Pass-3 log — `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_005.md`.
+- durable Pass-3 log — `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_005.md`;
+- Part 005 audit — **PASS / COMPLETE**;
+- direct header inventory — **111/111 canonical records present**, scan 445–555 / local 1–111 / printed 428–538, with **0 gaps / 0 duplicates / 0 mapping anomalies**;
+- source filename discipline — **111/111 exact controlling source filename**;
+- status discipline — **111/111 `needs-review` / 111/111 visual `needs-review`**, with **0 premature promotions / 0 partial / 0 blocked / 0 source-limited internal exceptions**;
+- durable audit — `works/kuraloviyam/PART_005_AUDIT.md`.
 
 ### Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -315,4 +320,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Proceed with **Part 005 Part audit — scans 445–555 / printed 428–538**. Audit repository/control records for physical coverage, scan/local/printed-page mapping, closure of Source Intake + Pass 1 + Pass 2A + Pass 2B + Pass 3, continuity decisions, Kural/metadata structure, page furniture, source limits and status discipline. Reopen rendered source only if a concrete audit discrepancy requires it. Keep all page statuses `needs-review` / visual `needs-review` during the audit. Do not begin Part 006 transcription.
+Proceed with **Part 005 final metadata/status synchronization — scans 445–555 / printed 428–538**. This is a metadata-only gate: promote eligible records from `needs-review` to `verified` for both `status` and `visual_fidelity`, without changing Tamil wording, Kural text/lineation, page structure, `visual_notes`, source comments, mapping or source filenames. Audit evidence is PASS / COMPLETE. Do not begin Part 006 transcription.
