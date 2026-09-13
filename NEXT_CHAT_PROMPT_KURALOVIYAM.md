@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 005 English Glossary Reconciliation GR3
+# NEXT CHAT PROMPT — குறளோவியம் / Part 005 English Editorial Review ER1
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -10,7 +10,7 @@ Part 005 Tamil is:
 
 **ARCHIVAL-READY / CLOSED — 111/111 textual verified + 111/111 visual verified / 0 exceptions.**
 
-Use the audited Tamil page records under `works/kuraloviyam/pages/` as the source authority for terminology and metadata. The original scan remains ultimate source authority only if a genuinely new provenance/fidelity issue requires reopening it.
+Use the audited Tamil page records under `works/kuraloviyam/pages/` as the authority for editorial review. Reopen the original scan only if a genuinely new provenance/fidelity issue arises.
 
 ## English workflow
 
@@ -24,11 +24,28 @@ Normal page-batched cadence: **33 physical scan pages**; final remainders may be
 
 ## English drafting — COMPLETE / CLOSED 111/111
 
-All scans **445–555 / printed 428–538** have page-aligned English records.
-
 ## English source-check — COMPLETE / CLOSED 111/111
 
-Current Part-005 English page state remains:
+## English glossary reconciliation — COMPLETE / CLOSED 111/111
+
+- GR1 — scans **445–477 / printed 428–460 — COMPLETE / PASS 33/33**;
+- GR2 — scans **478–510 / printed 461–493 — COMPLETE / PASS 33/33**;
+- GR3 — scans **511–543 / printed 494–526 — COMPLETE / PASS 33/33**;
+- GR4 — scans **544–555 / printed 527–538 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
+- final glossary endpoint — `a0eb5f0858f003106678b4f1a6ca4bb9ba6b0a05`;
+- all **111/111** English pages remain `source-checked`;
+- Tamil changes during glossary reconciliation — **0**;
+- page-status changes during glossary reconciliation — **0**.
+
+GR3 exact compare from `3f1b63262d0bb56359856f2d39e7d9b6904ce80d` to `736f1f14d167497798a6dba51a2fa44f0c8bd952`:
+- **2 commits ahead / non-divergent**;
+- exactly **7 modified files** — `GLOSSARY.md` plus English scans **519, 521, 532, 534, 540, 542**.
+
+GR4 exact compare from `736f1f14d167497798a6dba51a2fa44f0c8bd952` to `a0eb5f0858f003106678b4f1a6ca4bb9ba6b0a05`:
+- **2 commits ahead / non-divergent**;
+- exactly **5 modified files** — `GLOSSARY.md` plus English scans **551, 553, 554, 555**.
+
+Current Part-005 English page state:
 
 - `source-checked` — **111**;
 - `draft` — **0**;
@@ -37,58 +54,26 @@ Current Part-005 English page state remains:
 - `source-limited` — **0**;
 - `blocked` — **0**.
 
-## English glossary reconciliation — IN PROGRESS 66/111
+## Exact next activity — Editorial Review ER1
 
-### GR1 — COMPLETE / PASS 33/33
+Review:
 
-- scans **445–477 / printed 428–460**;
-- endpoint — `fcbea72faefca6e521f1334e10363a7f0d13894b`;
-- one English terminology correction on scan **445**;
-- page-status changes — **0**;
-- Tamil changes — **0**.
-
-### GR2 — COMPLETE / PASS 33/33
-
-- scans **478–510 / printed 461–493**;
-- endpoint — `3aa3b525e4c8f2335227e36a91aed43ed117d471`;
-- exact compare from pre-GR2 checkpoint `2861c0b6058fed0c42f96b18c66114414911f5e5` to GR2 endpoint `3aa3b525e4c8f2335227e36a91aed43ed117d471`:
-  - **1 commit ahead / non-divergent**;
-  - exactly **5 modified files** — `GLOSSARY.md` plus English scans **479, 480, 494, 510**;
-  - Tamil page changes — **0**;
-  - page-status changes — **0**;
-- all **17 Chapter/Kural metadata records** checked with **0 Chapter/Kural-number mismatches**;
-- Part-005-first Chapter controls added: **Avoiding Mean Company**, **Purity in Action**, **The Method of Action**, **Noble Character**;
-- terminology consistency corrections:
-  - scans **479–480** — `Anbaananthan` → **Anbanandan**;
-  - scan **494** — Chapter 41 **Ignorance → Lack of Learning**;
-  - scan **510** — **cosmic age → *oozhi*** in the Kural term to follow the source's own explanation, and `சான்றாண்மை = சால்பு எனும் தன்மை` restored without the added **noble excellence** interpretation;
-- source-specific scan-508 gloss `செற்றார் = வெறுத்துவிட்டவர்` retained as **one who has rejected / turned away**, distinct from the earlier **enemy** context;
-- incoming **477→478 CLEAN** preserved;
-- outgoing **510→511 CLEAN** preserved;
-- no external/published/web terminology or standard English Kural wording imported.
-
-Cumulative glossary reconciliation: **66/111**.
-
-## Exact next activity — Glossary Reconciliation GR3
-
-Reconcile:
-
-**scans 511–543 / printed 494–526 — 33 pages**.
+**scans 445–477 / printed 428–460 — 33 pages**.
 
 For each English record:
 
-- compare source-evidenced names, recurring lexical terms, Chapter labels, Kural numbers/metadata and printed source glosses against the corresponding audited Tamil record;
-- use the maintained project `works/kuraloviyam/translations/en/GLOSSARY.md` as the controlled-term register;
-- add or refine glossary entries only when supported by the audited Part-005 Tamil source;
-- correct English wording only when needed for controlled-term consistency or an obvious source-evidenced terminology mismatch;
+- compare the English directly against the audited Tamil page record;
+- improve awkward, overly literal or unclear English only where the Tamil supports the refinement;
 - preserve project-created translation identity;
-- preserve Kural quotation blocks, Chapter / Kural numbers, scan / printed-page alignment, visuals and cross-page continuities;
-- **do not change page status** during glossary reconciliation; passing pages remain `status: "source-checked"`;
-- do not import publisher, standard, web or remembered English Kural wording or terminology.
+- preserve all controlled terms in `translations/en/GLOSSARY.md`;
+- preserve Kural quotation blocks, Chapter/Kural numbers, source-printed glosses, scan/printed-page alignment, visuals and physical-page boundaries;
+- preserve established cross-page continuities;
+- do not import publisher, standard, web or remembered English Kural wording or terminology;
+- passing records move from `status: "source-checked"` to `status: "editorial-reviewed"`.
 
 Boundary discipline:
 
-- incoming **510→511 — CLEAN**;
-- outgoing **543→544 — GENUINE CONTINUATION**.
+- incoming **444→445 — GENUINE CONTINUATION / source-resolved**;
+- outgoing **477→478 — CLEAN**.
 
-Part 006 remains transcription-inactive until Part 005 completes the maintained English workflow and final Part closure.
+Part 006 remains transcription-inactive until Part 005 completes editorial review, Part review, release report, release-ready promotion and final Part closure.

@@ -325,9 +325,16 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - GR2 commit — `3aa3b525e4c8f2335227e36a91aed43ed117d471`;
 - GR2 exact change set — **5 files / GLOSSARY.md + English scans 479, 480, 494, 510 / 0 Tamil changes / 0 status changes**;
 - GR2 terminology corrections — **4 page files / scans 479, 480, 494, 510**;
-- cumulative glossary reconciliation — **66/111**;
+- English glossary reconciliation GR3 — **511–543 / printed 494–526 — COMPLETE / PASS 33/33**;
+- GR3 page-correction commit — `538f8d1f948d95bd3d4618b70a8b061abd14e7bd`; GR3 endpoint — `736f1f14d167497798a6dba51a2fa44f0c8bd952`;
+- GR3 exact change set — **7 files / GLOSSARY.md + English scans 519, 521, 532, 534, 540, 542 / 0 Tamil changes / 0 status changes**;
+- English glossary reconciliation GR4 final remainder — **544–555 / printed 527–538 — COMPLETE / PASS 12/12**;
+- GR4 page-correction commit — `e08fc18fca5da8cebe2cc1106a40147fa7797f60`; GR4 endpoint — `a0eb5f0858f003106678b4f1a6ca4bb9ba6b0a05`;
+- GR4 exact change set — **5 files / GLOSSARY.md + English scans 551, 553, 554, 555 / 0 Tamil changes / 0 status changes**;
+- English glossary reconciliation — **COMPLETE / CLOSED 111/111**;
+- cumulative glossary reconciliation — **111/111 COMPLETE / CLOSED**;
 - current English status — **111 source-checked / 0 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
-- next gate — **English glossary reconciliation GR3 / scans 511–543 / printed 494–526 — 33 pages**.
+- next gate — **English editorial review ER1 / scans 445–477 / printed 428–460 — 33 pages**.
 
 ## Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -337,4 +344,4 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ## Exact next activity
 
-Proceed with **Part 005 English glossary reconciliation GR3 / scans 511–543 / printed 494–526 — 33 pages**. Reconcile source-evidenced controlled terminology against the audited Tamil records and `translations/en/GLOSSARY.md`, make only necessary terminology/label consistency corrections, preserve all page statuses as `source-checked`, preserve **510→511 CLEAN** and **543→544 GENUINE CONTINUATION**, and do not import external or standard English wording. Do not start Part 006 transcription.
+Proceed with **Part 005 English editorial review ER1 / scans 445–477 / printed 428–460 — 33 pages**. Perform a source-faithful readability/editorial pass against the audited Tamil records; preserve controlled glossary terminology, project-created wording identity, Kural blocks, metadata, visual notes and physical-page continuity. Make only justified English readability/style refinements, promote passing pages from `source-checked` to `editorial-reviewed`, preserve **444→445 GENUINE CONTINUATION / source-resolved** and **477→478 CLEAN**, and do not import external or standard English wording. Do not start Part 006 transcription.
