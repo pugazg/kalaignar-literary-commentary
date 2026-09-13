@@ -46,6 +46,6 @@ My friend calmly explained.
 > The unlearned man's desire to speak  
 > is like a breastless woman's desire for womanhood.
 
-Chapter 41 — Ignorance; Kural 402
+Chapter 41 — Lack of Learning; Kural 402
 
 <!-- Source scan page: 494; printed page: 477; genuine continuation from scan 493 closes here with Chapter 41 / Kural 402 -->

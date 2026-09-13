@@ -11,7 +11,7 @@ source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-The time came for Veerasingam and Anbaananthan to appear on the contest stage. The assembled crowd opened their eyes wide and stared at the platform.
+The time came for Veerasingam and Anbanandan to appear on the contest stage. The assembled crowd opened their eyes wide and stared at the platform.
 
 Veerasingam came first.
 
@@ -19,15 +19,15 @@ Earrings set with diamonds bright enough to rival the sun's rays hung from his e
 
 Gem-studded armlets shone on his hands.
 
-Those who had come to watch stood with mouths open at the sight of Veerasingam's ornaments. They decided that Anbaananthan could not possibly defeat him.
+Those who had come to watch stood with mouths open at the sight of Veerasingam's ornaments. They decided that Anbanandan could not possibly defeat him.
 
-Then Anbaananthan entered the stage.
+Then Anbanandan entered the stage.
 
 The crowd was plunged into astonishment.
 
 Why?
 
-There was no ornament at all on Anbaananthan's ears, neck or hands.
+There was no ornament at all on Anbanandan's ears, neck or hands.
 
 Veerasingam burst out laughing when he saw him. He raised his chest in pride and swept his eyes across the crowd in the fullness of victory.
 
@@ -35,7 +35,7 @@ Veerasingam burst out laughing when he saw him. He raised his chest in pride and
 
 “Mr. Veerasingam, let us say that you have indeed won. But the contest is not between the two of us alone. You have forgotten one thing. Together we are testing the intelligence of this elder. Let him give the judgement!”
 
-Anbaananthan said this.
+Anbanandan said this.
 
 Veerasingam laughed mockingly.
 
@@ -43,13 +43,13 @@ Veerasingam laughed mockingly.
 
 he shouted.
 
-Anbaananthan looked at him and said:
+Anbanandan looked at him and said:
 
 “Victorious hero! May you live long!”
 
 At that moment the elder intervened.
 
-“The winner between these two is Anbaananthan—not Veerasingam!”
+“The winner between these two is Anbanandan—not Veerasingam!”
 
 The crowd was stunned by the judgement.
 
@@ -59,7 +59,7 @@ The elder explained:
 
 Hearing the explanation, Veerasingam bowed his head.
 
-The victory garland was placed around Anbaananthan's neck.
+The victory garland was placed around Anbanandan's neck.
 
 > Humility and sweet speech are a person's true ornaments;  
 > all other things are no ornaments at all.

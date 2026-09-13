@@ -897,3 +897,91 @@ GR1 processed **33 consecutive pages: scans 445–477 / printed 428–460**.
 - Tamil archival changes — **0**;
 - no external/published/web terminology or standard English Kural wording was imported.
 
+## Part 005 GR2 controls — scans 478–510
+
+### Chapter labels first evidenced in Part 005 GR2
+
+| Tamil | Default English | Editorial note |
+|---|---|---|
+| சிற்றினம் சேராமை | Avoiding Mean Company | Chapter 46 label on scan 482 / printed 465. |
+| வினைத்தூய்மை | Purity in Action | Chapter 66 label on scan 490 / printed 473. |
+| வினைசெயல்வகை | The Method of Action | Chapter 68 label on scan 498 / printed 481. |
+| சான்றாண்மை | Noble Character | Chapter 99 label on scan 510 / printed 493; keep distinct from Chapter 100 `பண்புடைமை` → **Good Character**. |
+
+Existing controlled labels reused unchanged in GR2 are **The Bewildering Power of Beauty**, **Speaking Pleasant Words**, **The Joy of Union**, **Knowing the Assembly**, **The Greatness of Renunciates**, **Lamenting in Wasting Longing**, **Lack of Learning**, **Possession of Love**, **Renouncing Modesty**, **Refraining from Slander**, **Reading the Sign**, **Power of Speech**, and **Loss of Restraint**.
+
+### Narrative, historical, literary and place controls first evidenced or reused in Part 005 GR2
+
+| Tamil | Default English form | Editorial note |
+|---|---|---|
+| வீரசிங்கம் | Veerasingam | Wealthy contestant in the ornament/humility vignette, scans 479–480. |
+| அன்பானந்தன் | Anbanandan | Wealthy contestant in scans 479–480; reuse the established spelling from Part 004 without implying identity with the earlier character. GR2 reconciles **Anbaananthan → Anbanandan** on both English pages. |
+| அதங்கோட்டு ஆசான் | Athankottu Asan | Teacher named in the Tamil-language-pride vignette, scan 486. |
+| தொல்காப்பியர் | Tolkappiyar | Grammarian named on scan 486. |
+| அகலிகை | Ahalikai | Woman in the self-control vignette, scans 487–488. |
+| இந்திரன் | Indran | Ruler of the heavens in the self-control vignette, scans 487–488. |
+| பொன்னையா | Ponnaiya | Wealthy, unclean youth in the public-tank vignette, scans 501–502. |
+| சின்னப்பா | Chinnappa | Poor young man at the public tank, scan 502. |
+| தும்பை | Thumbai | Thogai's friend in the love-and-denial vignette, scans 503–504. |
+| தோகை | Thogai | Reuse the established spelling on scans 503–504 without inferring identity with the earlier Part-002 character of the same name. |
+| கனகன் / கனக | Kanakan / Kanaka | Northern ruler named in scans 505–506; use **Kanakan** for the nominative name and **Kanaka** where the Tamil stem is used in the paired/plural form. |
+| விஜயன் / விஜய | Vijayan / Vijaya | Northern ruler named in scans 505–506; use **Vijayan** for the nominative name and **Vijaya** where the Tamil stem is used in the paired/plural form. |
+| அழும்பில் வேள் | Azhumbil Vel | Minister beside Senguttuvan in scan 506. |
+| வில்லவன் கோதை | Villavan Kothai | Commander leading Senguttuvan's army in scan 506; keep distinct from the earlier standalone **Villavan** character-control. |
+| வேண்மாள் | Venmaal | Senguttuvan's companion in scan 506. |
+| குயிலாலுவம் | Kuyilaluvam | Northern place where Senguttuvan confronts Kanakan and Vijayan, scan 506. |
+
+Existing controls reused unchanged in this range include **Bharathidasan**, **Ilango Adigal**, **Silappathikaram**, **Kannagi**, and **Senguttuvan**.
+
+### Recurring lexical / source-explanation controls confirmed in Part 005 GR2
+
+| Tamil | Default English | Evidence |
+|---|---|---|
+| ஊழி | oozhi / world-ending catastrophe | Scans 509–510 explicitly describe `ஊழி` as catastrophic world-destruction; retain the source-bounded project transliteration rather than importing an external “cosmic age” label. |
+| செற்றார் | one who has rejected / turned away | Scan 508 source gloss `வெறுத்துவிட்டவர்`; this source-specific love-poetics sense overrides the earlier scan-321 gloss **enemy** in this context. |
+
+### Source-printed lexical glosses confirmed in Part 005 GR2
+
+| Tamil | Default English | Evidence |
+|---|---|---|
+| நடுங்கு அஞர் செய்யல | would not cause the suffering that makes one tremble | Source gloss on scan 478. |
+| செறிதோறும் | each time one joins and becomes one | Source gloss `சேர்ந்து பொருந்தும்போதெல்லாம்`, scan 484. |
+| அங்கணம் | courtyard | Source gloss `முற்றம்`, scan 486. |
+| கணத்தர் | those of one's group | Source gloss `இனத்தவர்`, scan 486. |
+| அகல் விசும்புளார் கோமான் | king of those who dwell in the vast sky | Source gloss on scan 488. |
+| சாலுங் கரி | sufficient proof | Source gloss `போதுமான சான்று`, scan 488. |
+| சலம் | deceit | Source gloss `வஞ்சனை`, scan 490. |
+| ஏமார்த்தல் | safeguarding | Source gloss `பாதுகாப்புச் செய்தல்`, scan 490. |
+| பசுமட்கலம் | unbaked clay vessel | Source gloss `பச்சை மண்பாண்டம்`, scan 490. |
+| அடுங்கால் | when it causes suffering | Source gloss `வருத்தும்போது`, scan 492. |
+| பூசல் தரும் | will reveal | Source gloss `வெளிப்படுத்தும்`, scan 496. |
+| நிறையரியர் | those without restraint | Source gloss `நிறையில்லாதவர்`, scan 500. |
+| அளியர் | those deserving pity | Source gloss `இரங்கத்தக்கவர்`, scan 500. |
+| உறாஅதவர் | one who is like a stranger | Source gloss `அயலார்`, scan 504. |
+| செறாஅர் | one who is not angry | Source gloss `சினமடையாதவர்`, scan 504. |
+| ஒல்லை | quickly | Source gloss `விரைவில்`, scan 504. |
+| செற்றார் | one who has rejected or turned away | Source gloss `வெறுத்துவிட்டவர்`, scan 508. |
+| சான்றாண்மை | the quality called சால்பு (character) | Source gloss `சால்பு எனும் தன்மை`, scan 510. |
+| சால்பு | character | Source gloss `பண்பு`, scan 510. |
+
+## Part 005 GR2 reconciliation record — scans 478–510
+
+GR2 processed **33 consecutive pages: scans 478–510 / printed 461–493**.
+
+- scans **478–510** — glossary / recurring-terminology reconciliation **PASS, 33/33**;
+- all **17 Chapter/Kural metadata records** in the range were checked against their audited Tamil counterparts with **0 chapter-number or Kural-number mismatches**;
+- Part-005-first Chapter controls added in this gate: **Avoiding Mean Company**, **Purity in Action**, **The Method of Action**, and **Noble Character**;
+- existing controlled Chapter labels were reused unchanged across the other 13 citation pages;
+- terminology consistency corrections were required on **4 English page files**:
+  - scan **479** — `Anbaananthan` → **Anbanandan** throughout;
+  - scan **480** — `Anbaananthan` → **Anbanandan** throughout;
+  - scan **494** — Chapter 41 **Ignorance → Lack of Learning**;
+  - scan **510** — Kural-term **cosmic age → *oozhi*** to follow the source's own explanation, and source gloss `சான்றாண்மை = சால்பு எனும் தன்மை` restored without the added **noble excellence** interpretation;
+- source-specific scan-508 gloss `செற்றார் = வெறுத்துவிட்டவர்` is retained as **one who has rejected / turned away**, distinct from the earlier context where `செற்றார்` was glossed **enemy**;
+- recurring narrative/historical/literary/place controls actually evidenced in the range were recorded above;
+- source-printed lexical glosses from scans **478, 484, 486, 488, 490, 492, 496, 500, 504, 508, and 510** were recorded above without importing external meanings;
+- all 33 English pages remain `source-checked`; this gate makes **0 status changes**;
+- incoming **477→478 CLEAN** and outgoing **510→511 CLEAN** were preserved;
+- Tamil archival changes — **0**;
+- no external/published/web terminology or standard English Kural wording was imported.
+

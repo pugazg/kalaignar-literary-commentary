@@ -41,12 +41,12 @@ An ocean of character.
 
 That is the thought contained in this Kural:
 
-> Even if the cosmic age itself shifts, they do not shift;  
+> Even if the *oozhi* itself shifts, they do not shift;  
 > they are called the ocean of noble character.
 
 Chapter 99 — Noble Character; Kural 989
 
-சான்றாண்மை = the quality called noble excellence
+சான்றாண்மை = the quality called சால்பு (character)
 
 சால்பு = character
 

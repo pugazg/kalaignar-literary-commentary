@@ -27,10 +27,10 @@ The wealthiest man in that town was Veerasingam. No one in the surrounding regio
 
 “I too will enter the contest,” another man announced.
 
-His name was Anbaananthan. He was the next wealthiest man after Veerasingam.
+His name was Anbanandan. He was the next wealthiest man after Veerasingam.
 
-People around Veerasingam advised him that Anbaananthan was extremely eager to win and might spend a large portion of his wealth to appear in unmatched ornaments. Therefore, they said, Veerasingam must be cautious.
+People around Veerasingam advised him that Anbanandan was extremely eager to win and might spend a large portion of his wealth to appear in unmatched ornaments. Therefore, they said, Veerasingam must be cautious.
 
 With victory as his only aim, Veerasingam gave goldsmiths the money to prepare ornaments of priceless value.
 
-<!-- Source scan page: 479; printed page: 462; Veerasingam/Anbaananthan contest vignette begins and continues directly to scan 480 / printed 463 -->
+<!-- Source scan page: 479; printed page: 462; Veerasingam/Anbanandan contest vignette begins and continues directly to scan 480 / printed 463 -->
