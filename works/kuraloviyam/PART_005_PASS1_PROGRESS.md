@@ -465,4 +465,4 @@ Exact page-only compare from pre-batch `ede8f2e8f950359abe2da5d3c9db116c0d04f71a
 
 Part 005 Pass 1: **COMPLETE — 111/111 captured**.
 
-Downstream Pass 2A is now **COMPLETE / PASS — 111/111 verified**. Durable Pass-2A record: `PASS2_TEXTUAL_VERIFICATION_PART_005.md`. Pass 2B is **ACTIVE — 22/111** in `PASS2B_LEXICAL_FIDELITY_PART_005.md`. Batch 2 / scans **456–466 / printed 439–449** is complete with four source-supported lexical-or-spacing corrections across scans **457, 463, 465**. Current next frontier: **Pass 2B Batch 3 / scans 467–477 / printed 450–460**. Do not promote final textual/visual status during Pass 2B.
+Downstream Pass 2A is now **COMPLETE / PASS — 111/111 verified**. Durable Pass-2A record: `PASS2_TEXTUAL_VERIFICATION_PART_005.md`. Pass 2B is **ACTIVE — 33/111** in `PASS2B_LEXICAL_FIDELITY_PART_005.md`. Batch 3 / scans **467–477 / printed 450–460** is complete with two source-visible joining corrections on scans **469, 477**. Current next frontier: **Pass 2B Batch 4 / scans 478–488 / printed 461–471**. Do not promote final textual/visual status during Pass 2B.

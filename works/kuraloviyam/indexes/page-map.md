@@ -441,14 +441,17 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 - Batch 1 **445–455 / printed 428–438 — COMPLETE 11/11**;
 - Batch 2 **456–466 / printed 439–449 — COMPLETE 11/11**;
-- cumulative Pass 2B — **22/111**;
+- Batch 3 **467–477 / printed 450–460 — COMPLETE 11/11**;
+- cumulative Pass 2B — **33/111**;
 - corrected Batch-1 scans — **453**;
 - corrected Batch-2 scans — **457, 463, 465**;
+- corrected Batch-3 scans — **469, 477**;
 - incoming **444→445 genuine continuation** source-resolved;
 - **455→456 genuine continuation** preserved;
-- **466→467 genuine continuation** confirmed from scan 467 / printed 450 witness;
+- **466→467 genuine continuation** preserved;
+- **477→478 CLEAN** confirmed from scan 478 / printed 461 witness;
 - outgoing Part boundary **555→556 CLEAN** source-resolved.
 
 ## Current frontier
 
-**Part 005 Pass 2B Batch 3 — scans 467–477 / printed 450–460.**
+**Part 005 Pass 2B Batch 4 — scans 478–488 / printed 461–471.**
