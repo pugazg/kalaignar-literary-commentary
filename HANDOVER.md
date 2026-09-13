@@ -286,11 +286,14 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - durable Pass-2B log — `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_005.md`;
 - Pass 3 Batch 1 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - Pass 3 Batch 2 — **456–466 / printed 439–449 — COMPLETE 11/11**;
-- Pass-3 Batches 1–2 structural/visual corrections — **0**;
-- Pass-3 Batches 1–2 lexical/body-text changes — **0**;
+- Pass 3 Batch 3 — **467–477 / printed 450–460 — COMPLETE 11/11**;
+- Pass-3 structural/visual corrections through Batch 3 — **2 pages / scans 472 and 474**;
+- Pass-3 lexical/body-text changes through Batch 3 — **0**;
+- Batch-3 Pass-3 page correction commit — `75d23a0350b3bfbdcd2404cd00eceafcbd0a70ea` — exact compare **2 page files only / scans 472, 474**;
 - **455→456 — GENUINE CONTINUATION**, preserved;
-- **466→467 — GENUINE CONTINUATION**, reconfirmed from scan 467 / printed 450 witness;
-- cumulative Pass 3 — **22/111**;
+- **466→467 — GENUINE CONTINUATION**, preserved;
+- **477→478 — CLEAN**, reconfirmed from scan 478 / printed 461 witness;
+- cumulative Pass 3 — **33/111**;
 - durable Pass-3 log — `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_005.md`.
 
 ### Part 006 — SOURCE INTAKE COMPLETE / WAITING
@@ -302,4 +305,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Continue **Part 005 Pass 3 / Batch 3 — scans 467–477 / printed 450–460** as meaningful visual/text fidelity verification. Preserve incoming **466→467 GENUINE CONTINUATION** and inspect scan **478 / printed 461** only as the outgoing witness when required. Do not perform another lexical reread; keep page statuses `needs-review` / visual `needs-review`. Do not begin Part 006 transcription.
+Continue **Part 005 Pass 3 / Batch 4 — scans 478–488 / printed 461–471** as meaningful visual/text fidelity verification. Preserve incoming **477→478 CLEAN** and inspect scan **489 / printed 472** only as the outgoing witness when required. Do not perform another lexical reread; keep page statuses `needs-review` / visual `needs-review`. Do not begin Part 006 transcription.

@@ -258,13 +258,16 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - durable Pass-2A log — `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_005.md`;
 - Pass 3 Batch 1 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - Pass 3 Batch 2 — **456–466 / printed 439–449 — COMPLETE 11/11**;
-- Pass-3 Batches 1–2 structural/visual corrections — **0**;
-- Pass-3 Batches 1–2 lexical/body-text changes — **0**;
+- Pass 3 Batch 3 — **467–477 / printed 450–460 — COMPLETE 11/11**;
+- Pass-3 structural/visual corrections through Batch 3 — **2 pages / scans 472, 474**;
+- Pass-3 lexical/body-text changes through Batch 3 — **0**;
+- Batch-3 Pass-3 page correction commit — `75d23a0350b3bfbdcd2404cd00eceafcbd0a70ea` — exact compare **2 page files only / scans 472, 474**;
 - **455→456 GENUINE CONTINUATION** preserved;
-- **466→467 GENUINE CONTINUATION** reconfirmed from scan 467 / printed 450 witness;
-- cumulative Pass 3 — **22/111**;
+- **466→467 GENUINE CONTINUATION** preserved;
+- **477→478 CLEAN** reconfirmed from scan 478 / printed 461 witness;
+- cumulative Pass 3 — **33/111**;
 - Pass 3 log — `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_005.md`;
-- next gate — **Pass 3 Batch 3 / scans 467–477 / printed 450–460**.
+- next gate — **Pass 3 Batch 4 / scans 478–488 / printed 461–471**.
 
 ## Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -274,4 +277,4 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ## Exact next activity
 
-Proceed with **Part 005 Pass 3 Batch 3 / scans 467–477 / printed 450–460** as meaningful visual/text fidelity verification. Preserve **466→467 GENUINE CONTINUATION**, use scan 478 only as the outgoing witness when required, do not perform another lexical reread, keep statuses `needs-review` / visual `needs-review`, and do not start Part 006 transcription.
+Proceed with **Part 005 Pass 3 Batch 4 / scans 478–488 / printed 461–471** as meaningful visual/text fidelity verification. Preserve **477→478 CLEAN**, use scan 489 only as the outgoing witness when required, do not perform another lexical reread, keep statuses `needs-review` / visual `needs-review`, and do not start Part 006 transcription.

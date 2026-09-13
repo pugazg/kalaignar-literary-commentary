@@ -8,7 +8,7 @@
 - Physical scans: **111**
 - Gate: **Pass 3 — meaningful visual/text fidelity verification**
 - Initial cadence: **11 physical scans per normal iteration unless the user changes the cadence**
-- Status: **ACTIVE — 22/111 complete; next Batch 3 / scans 467–477**
+- Status: **ACTIVE — 33/111 complete; next Batch 4 / scans 478–488**
 
 ## Preconditions
 
@@ -102,19 +102,54 @@ No final status promotion occurs during Pass 3. All Part-005 page records remain
 - Status promotion: **0**.
 - All Part-005 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
 
+## Batch 3 — scans 467–477 / printed 450–460
+
+**Result: COMPLETE — 11 / 11.**
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 467 | 450 | **NO STRUCTURAL CHANGE** — text-only genuine continuation/closure of the festival-separation letter vignette; Kural 1272, Chapter 128 metadata, two source glosses and the small monument page furniture remain correctly separated. |
+| 468 | 451 | **NO STRUCTURAL CHANGE** — large upper illustration of a turbaned man at left with another man speaking/pointing and a dark attendant silhouette behind remains above the prose; the Vidiyan/Peraalan vignette begins below and continues to scan 469. |
+| 469 | 452 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 183 and Chapter 19 metadata remain correctly set out near the foot of the page. |
+| 470 | 453 | **NO STRUCTURAL CHANGE** — large upper illustration of a woman turning away while a smiling man watches remains above the prose; the poet/lover beauty-description vignette begins below and continues to scan 471. |
+| 471 | 454 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 1081, Chapter 109 metadata and the source gloss remain correctly grouped above the small monument page furniture. |
+| 472 | 455 | **CORRECTED** — direct source inspection shows the upper illustration is a man handling bundles of palm-leaf manuscripts while several men observe, not a man handling a gleaming sword. `visual_notes` corrected only; body wording and review flags unchanged. |
+| 473 | 456 | **NO STRUCTURAL CHANGE** — text-only continuation/closure of the sword-and-assembly-fear discussion; Kural 727 and Chapter 73 metadata remain correctly separated near the foot of the page. |
+| 474 | 457 | **CORRECTED** — direct source inspection shows a bearded older man standing beside a seated turbaned ruler, not an older former commander seated beside another man. `visual_notes` corrected only; body wording and review flags unchanged. |
+| 475 | 458 | **NO STRUCTURAL CHANGE** — text-only continuation/closure of the Veerarakkiyar vignette; Kural 239, Chapter 24 metadata and the source glosses for வசை, வண்பயன் and இசை remain correctly separated. |
+| 476 | 459 | **NO STRUCTURAL CHANGE** — large upper illustration of the young man and woman facing one another remains above the prose; the poor-poet's-son / wealthy-young-woman vignette begins below and continues to scan 477. |
+| 477 | 460 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 1044, Chapter 105 metadata and the three source glosses remain correctly separated. |
+
+### Boundary / continuity result
+
+- Incoming **466→467 GENUINE CONTINUATION** remains confirmed and closes on scan 467 with Chapter 128 / Kural 1272.
+- **477→478 is CLEAN**, reconfirmed from scan **478 / printed 461**: scan 477 closes Chapter 105 / Kural 1044, while scan 478 begins and closes a new illustrated one-page eye/brow beauty vignette with Chapter 109 / Kural 1086.
+- Scan 478 was used only as the outgoing witness and is **not** counted in Batch 3.
+
+### Batch 3 correction summary
+
+- Structural/visual-description corrections: **2 pages — scans 472 and 474**.
+- No-change scans: **467–471, 473, 475–477 — 9 pages**.
+- Lexical/body-text changes: **0**.
+- Status promotion: **0**.
+- Page correction commit: `75d23a0350b3bfbdcd2404cd00eceafcbd0a70ea` — exact compare from `7297492059382ef09d8f676cdf3f446b10615349` changes exactly **2 page files**, scans **472 and 474** only.
+- All Part-005 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+
 ## Current Pass 3 coverage
 
-- complete — **22/111 scans**;
-- remaining — **89 scans**;
+- complete — **33/111 scans**;
+- remaining — **78 scans**;
 - Batch 1 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - Batch 2 — **456–466 / printed 439–449 — COMPLETE 11/11**;
+- Batch 3 — **467–477 / printed 450–460 — COMPLETE 11/11**;
 - incoming Part boundary **444→445 — GENUINE CONTINUATION / source-resolved**;
 - **455→456 — GENUINE CONTINUATION** preserved;
-- outgoing Batch-2 boundary **466→467 — GENUINE CONTINUATION**;
+- **466→467 — GENUINE CONTINUATION** preserved;
+- outgoing Batch-3 boundary **477→478 — CLEAN**;
 - current page statuses — **111 needs-review / 111 visual needs-review**.
 
-## Exact next activity — Batch 3
+## Exact next activity — Batch 4
 
-Process scans **467–477 / printed 450–460**.
+Process scans **478–488 / printed 461–471**.
 
-Preserve incoming **466→467 GENUINE CONTINUATION**. Inspect scan **478 / printed 461** only as the outgoing boundary witness when required. Record per-page Pass-3 structural/visual results, commit only source-required record changes, compare the batch base→head changed-file set, and keep all review flags unchanged.
+Preserve incoming **477→478 CLEAN**. Inspect scan **489 / printed 472** only as the outgoing boundary witness when required. Record per-page Pass-3 structural/visual results, commit only source-required record changes, compare the batch base→head changed-file set, and keep all review flags unchanged.

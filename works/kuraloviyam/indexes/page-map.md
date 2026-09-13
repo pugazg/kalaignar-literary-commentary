@@ -477,14 +477,17 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 - Batch 1 **445–455 / printed 428–438 — COMPLETE 11/11**;
 - Batch 2 **456–466 / printed 439–449 — COMPLETE 11/11**;
-- cumulative Pass 3 — **22/111**;
-- structural/visual corrections through Batch 2 — **0**;
-- lexical/body-text changes through Batch 2 — **0**;
+- Batch 3 **467–477 / printed 450–460 — COMPLETE 11/11**;
+- cumulative Pass 3 — **33/111**;
+- structural/visual corrections through Batch 3 — **2 pages / scans 472, 474**;
+- lexical/body-text changes through Batch 3 — **0**;
+- Batch-3 page correction commit — `75d23a0350b3bfbdcd2404cd00eceafcbd0a70ea`;
 - incoming **444→445 genuine continuation / source-resolved**;
 - **455→456 genuine continuation** preserved;
-- **466→467 genuine continuation** reconfirmed from scan 467 / printed 450 witness;
+- **466→467 genuine continuation** preserved;
+- **477→478 CLEAN** reconfirmed from scan 478 / printed 461 witness;
 - current page statuses — **111 needs-review / 111 visual needs-review**.
 
 ## Current frontier
 
-**Part 005 Pass 3 Batch 3 — scans 467–477 / printed 450–460.**
+**Part 005 Pass 3 Batch 4 — scans 478–488 / printed 461–471.**
