@@ -425,9 +425,13 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - source intake — **PASS / COMPLETE**;
 - scans — **556–666**;
 - physical source endpoint — **scan 666**;
-- Tamil Pass 1 — **NOT STARTED / ACTIVE FRONTIER**;
-- exact next batch — **P6-01 / scans 556–566 / printed 539–549 — 11 scans**.
+- Tamil Pass 1 — **IN PROGRESS 11/111**;
+- P6-01 — **556–566 / printed 539–549 — COMPLETE 11/11**;
+- P6-01 page endpoint — `952363e891c08a58ca78d85de95307810aafeaa6`;
+- exact P6-01 compare from `3e152243b89d68a01229d4e648875f3e6df9510c` — **2 commits / exactly 11 added Part 006 Tamil page files / 0 non-page changes**;
+- outgoing **566→567 — GENUINE CONTINUATION**, directly source-checked;
+- exact next batch — **P6-02 / scans 567–577 / printed 550–560 — 11 scans**.
 
 ## Exact next activity — குறளோவியம்
 
-Proceed with **Part 006 Pass 1 P6-01 — scans 556–566 / printed 539–549 — 11 scans**. Part 005 is fully closed at `works/kuraloviyam/PART_005_FINAL_CLOSURE.md`; do not reopen it. Use only the Part 006 controlling source / rendered scans. Create the first Tamil archival records with exact scan/printed-page alignment, body/visual/page-function fidelity, and no imported web/canonical Kural wording or external commentary. Preserve incoming **555→556 CLEAN / source-resolved**.
+Proceed with **Part 006 Pass 1 P6-02 — scans 567–577 / printed 550–560 — 11 scans**. P6-01 is complete at `952363e891c08a58ca78d85de95307810aafeaa6`; preserve its 11 `needs-review` / visual `needs-review` records. Use only the Part 006 controlling source / rendered scans. Preserve incoming **566→567 GENUINE CONTINUATION** and create exactly scans 567–577 with exact page/visual/source fidelity. Do not import web/canonical Kural wording or external commentary.

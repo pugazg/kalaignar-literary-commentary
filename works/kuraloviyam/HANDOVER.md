@@ -369,9 +369,13 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 - scans — **556–666**;
 - source endpoint — **scan 666**;
-- Pass 1 — **NOT STARTED / ACTIVE FRONTIER**;
-- exact next batch — **P6-01 / scans 556–566 / printed 539–549 — 11 scans**.
+- Pass 1 — **IN PROGRESS 11/111**;
+- P6-01 — **556–566 / printed 539–549 — COMPLETE 11/11**;
+- P6-01 endpoint — `952363e891c08a58ca78d85de95307810aafeaa6`;
+- exact page-layer compare — **2 commits / exactly 11 newly added Part 006 page files / 0 non-page changes**;
+- outgoing **566→567 GENUINE CONTINUATION** directly checked;
+- exact next batch — **P6-02 / scans 567–577 / printed 550–560 — 11 scans**.
 
 ## Exact next activity
 
-Proceed with **Part 006 Pass 1 P6-01 / scans 556–566 / printed 539–549 — 11 scans**. Part 005 is fully closed; do not reopen it. Use the Part 006 rendered source scans as controlling authority, create the first 11 Tamil page records with exact physical-page/visual fidelity, preserve **555→556 CLEAN / source-resolved**, and do not import web/canonical Kural wording or external commentary.
+Proceed with **Part 006 Pass 1 P6-02 / scans 567–577 / printed 550–560 — 11 scans**. P6-01 is complete and remains `needs-review` / visual `needs-review`. Use rendered Part 006 scans as controlling authority, preserve incoming **566→567 GENUINE CONTINUATION**, create exactly scans 567–577, and do not import web/canonical Kural wording or external commentary.
