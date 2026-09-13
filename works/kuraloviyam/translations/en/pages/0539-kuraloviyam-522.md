@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -33,7 +33,7 @@ with the support of friends, his good work continued in this way.
 
 Opposite his simple house, foundations were laid for a seven-storey mansion.
 
-A few poisonous-minded people loudly spread the claim throughout the village that Vazhithunaiyan himself was building it.
+A few malicious people loudly spread the claim throughout the village that Vazhithunaiyan himself was building it.
 
 At first some villagers believed them; others doubted and wondered.
 

@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-Even so, a few people, attracted by the grandeur of the seven-storey mansion, left Vazhithunaiyan and surrendered themselves to the robber.
+Even so, a few people, attracted by the grandeur of the seven-storey mansion, left Vazhithunaiyan and placed themselves in the robber's hands.
 
 The robber already carried the arrogance that naturally rises from enormous wealth and a seven-storey palace.
 

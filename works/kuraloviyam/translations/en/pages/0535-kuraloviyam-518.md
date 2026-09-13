@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -35,7 +35,7 @@ Just as weeds are removed to protect a crop, Valluvar says in the Book of Wealth
 
 But Valluvar, who presents capital punishment as one of the state's duties in the Book of Wealth, also strongly insists in the Book of Virtue, under renunciation, that no one should engage in killing.
 
-How does he frighten people away from killing?
+How does he warn people away from killing?
 
 That is worth looking at closely.
 

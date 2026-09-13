@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -33,7 +33,7 @@ He lies like a worm writhing in an evil life.
 
 Valluvar sees him.
 
-He seems to think:
+He thinks:
 
 “By showing this man to the world, perhaps I can stop people from ever entering the trade of killing.”
 
