@@ -308,8 +308,12 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - SC2 page-layer endpoint — `74f41ce00e29bd8ba448c790bfb6bfc46d9d1b72`;
 - SC2 page-only audit — **33 modified English page files / 0 Tamil changes / 0 control-file changes**;
 - SC2 source-fidelity corrections — **3 pages / scans 492, 501, 502**;
-- current English status — **66 source-checked / 45 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
-- next gate — **English source-check SC3 / scans 511–543 / printed 494–526 — 33 pages**.
+- English source-check SC3 — **511–543 / printed 494–526 — COMPLETE / PASS 33/33**;
+- SC3 page-layer endpoint — `fa2ca8b07844e56be4d3a3dfc926a7874b136ca1`;
+- SC3 page-only audit — **33 modified English page files / 0 Tamil changes / 0 control-file changes**;
+- SC3 source-fidelity corrections — **8 pages / scans 511, 512, 518, 519, 525, 533, 534, 537**;
+- current English status — **99 source-checked / 12 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
+- next gate — **English source-check SC4 final remainder / scans 544–555 / printed 527–538 — 12 pages**.
 
 ## Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -319,4 +323,4 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ## Exact next activity
 
-Proceed with **Part 005 English source-check SC3 / scans 511–543 / printed 494–526 — 33 pages**. Compare English directly against the audited Tamil records, correct only source-fidelity issues, promote passing pages to `source-checked`, preserve **510→511 CLEAN** and **543→544 GENUINE CONTINUATION**, and do not import external English wording. Do not start Part 006 transcription.
+Proceed with **Part 005 English source-check SC4 final remainder / scans 544–555 / printed 527–538 — 12 pages**. Compare English directly against the audited Tamil records, correct only source-fidelity issues, promote passing pages to `source-checked`, preserve **543→544 GENUINE CONTINUATION** and **555→556 CLEAN / source-resolved**, and do not import external English wording. Do not start Part 006 transcription.

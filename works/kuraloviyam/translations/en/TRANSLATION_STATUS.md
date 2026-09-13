@@ -585,7 +585,7 @@ Final post-drafting state:
 
 No published, standard or web English Kural wording was imported. No Tamil archival record changed.
 
-## Part 005 English source-check — IN PROGRESS 66/111
+## Part 005 English source-check — IN PROGRESS 99/111
 
 Normal source-check cadence: **33 physical scans per iteration**, with a shorter final remainder if required.
 
@@ -668,6 +668,49 @@ Cumulative Part-005 English state after SC2:
 
 No published, standard or web English Kural wording was imported. No Tamil archival record changed.
 
+### Source-Check SC3 — COMPLETE / PASS 33/33
+
+- scans **511–543 / printed 494–526**;
+- source-checked — **33/33**;
+- source-limited — **0**;
+- blocked — **0**;
+- source Tamil linkage — **33/33 exact / verified**;
+- project-translation identity retained — **33/33**;
+- incoming **510→511 CLEAN** preserved;
+- outgoing **543→544 GENUINE CONTINUATION** preserved.
+
+SC3 page commits:
+
+- `9a4ae8f6605abbeb717295d992121da65ad30055` — scans 511–521;
+- `aadd749072ae55fe6107ff59e7a51657d903b868` — scans 522–532;
+- `fa2ca8b07844e56be4d3a3dfc926a7874b136ca1` — scans 533–543.
+
+Exact SC3 audit from pre-SC3 control checkpoint `8a5f217bdad19321ce4bf51e0589ef2ec1277ea6` to SC3 endpoint `fa2ca8b07844e56be4d3a3dfc926a7874b136ca1`:
+
+- **3 commits ahead / non-divergent**;
+- exactly **33 modified English page files**;
+- Tamil page changes — **0**;
+- control-document changes during the page layer — **0**;
+- **25 pages** changed only by `draft` → `source-checked`;
+- **8 pages** received source-fidelity corrections:
+  - scans **511–512** — restored the audited physical-page split in the missing-goat dialogue;
+  - scans **518–519** — restored the audited physical-page split in the revolt vignette and restored the omitted revenge-drive qualifier on scan 519;
+  - scan **525** — removed duplicated narration that belongs to scan 526;
+  - scan **533** — restored the source fragrance sequence as **sandalwood, javvadu perfume, civet**;
+  - scan **534** — removed an unsupported hedge and restored the source's direct assertion that a man without such inner rising is not human at all;
+  - scan **537** — preserved the audited source referent **Kannan** instead of inferring the generic relation “her husband”.
+
+Cumulative Part-005 English state after SC3:
+
+- `source-checked` — **99**;
+- `draft` — **12**;
+- `editorial-reviewed` — **0**;
+- `release-ready` — **0**;
+- `source-limited` — **0**;
+- `blocked` — **0**.
+
+No published, standard or web English Kural wording was imported. No Tamil archival record changed.
+
 ## Exact next English activity
 
-**Part 005 Source-Check SC3 — scans 511–543 / printed 494–526 — 33 pages.**
+**Part 005 Source-Check SC4 final remainder — scans 544–555 / printed 527–538 — 12 pages.**

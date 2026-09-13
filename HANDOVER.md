@@ -349,8 +349,19 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
   - scan 492 Kural line changed from “when love is restrained” to **“when love causes suffering”**, matching the audited Tamil source gloss `அடுங்கால் = வருத்தும்போது`;
   - scans 501–502 restored the audited physical-page sentence split and removed duplicated continuation wording;
 - remaining **30 SC2 pages status-only**;
-- current Part-005 English state — **66 source-checked / 45 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
-- next maintained English gate — **Source-check SC3 / scans 511–543 / printed 494–526 — 33 pages**.
+- English source-check SC3 — **511–543 / printed 494–526 — COMPLETE / PASS 33/33**;
+- SC3 page commits — `9a4ae8f6605abbeb717295d992121da65ad30055`, `aadd749072ae55fe6107ff59e7a51657d903b868`, `fa2ca8b07844e56be4d3a3dfc926a7874b136ca1`;
+- exact SC3 compare from `8a5f217bdad19321ce4bf51e0589ef2ec1277ea6` to `fa2ca8b07844e56be4d3a3dfc926a7874b136ca1` — **3 commits ahead / exactly 33 modified English page files / 0 Tamil or control-file changes**;
+- SC3 source-fidelity corrections — **8 page files / scans 511, 512, 518, 519, 525, 533, 534, 537**:
+  - scans 511–512 restore the audited physical-page split in the missing-goat dialogue;
+  - scans 518–519 restore the audited physical-page split and the omitted revenge-drive qualifier;
+  - scan 525 removes narration that belonged to scan 526;
+  - scan 533 restores the source fragrance list **sandalwood / javvadu perfume / civet**;
+  - scan 534 removes an unsupported hedge and restores the source's direct assertion;
+  - scan 537 restores source referent **Kannan** instead of the inferred generic “her husband”;
+- remaining **25 SC3 pages status-only**;
+- current Part-005 English state — **99 source-checked / 12 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
+- next maintained English gate — **Source-check SC4 final remainder / scans 544–555 / printed 527–538 — 12 pages**.
 
 ### Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -361,4 +372,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Continue **Part 005 English source-check SC3 — scans 511–543 / printed 494–526 — 33 pages**. Compare each project English record directly against its audited Tamil archival record paragraph-by-paragraph / block-by-block. Correct only source-fidelity issues supported by the Tamil record; preserve incoming **510→511 CLEAN**, outgoing **543→544 GENUINE CONTINUATION**, page alignment, visual/non-body distinctions, Kural blocks, Chapter/Kural metadata and continuity. Promote each passing page from `draft` to `source-checked`. Do not import published/web/standard English wording. Part 006 remains blocked.
+Continue **Part 005 English source-check SC4 final remainder — scans 544–555 / printed 527–538 — 12 pages**. Compare each project English record directly against its audited Tamil archival record paragraph-by-paragraph / block-by-block. Correct only source-fidelity issues supported by the Tamil record; preserve incoming **543→544 GENUINE CONTINUATION**, outgoing **555→556 CLEAN / source-resolved**, page alignment, visual/non-body distinctions, Kural blocks, Chapter/Kural metadata and continuity. Promote each passing page from `draft` to `source-checked`. Do not import published/web/standard English wording. Part 006 remains blocked.

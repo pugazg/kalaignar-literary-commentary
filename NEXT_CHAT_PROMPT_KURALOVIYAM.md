@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 005 English Source-Check SC3
+# NEXT CHAT PROMPT — குறளோவியம் / Part 005 English Source-Check SC4 final remainder
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -47,16 +47,36 @@ All scans **445–555 / printed 428–538** have page-aligned English records.
   - Tamil page changes — **0**;
   - control-document changes during the page layer — **0**;
 - source-fidelity correction pages — **3 / scans 492, 501, 502**;
-- scan **492**: Kural line corrected from “when love is restrained” to **“when love causes suffering”**, matching audited source gloss `அடுங்கால் = வருத்தும்போது`;
-- scans **501–502**: restored the audited physical-page split in the public-tank sentence; scan 501 now ends “Another young man was bathing in the tank—” and scan 502 resumes “—and looked at the rich youth in astonishment,” removing duplicated continuation wording;
-- other **30/33** SC2 pages required status promotion only;
 - incoming **477→478 CLEAN** preserved;
 - outgoing **510→511 CLEAN** preserved.
 
+### SC3 — COMPLETE / PASS 33/33
+
+- scans **511–543 / printed 494–526**;
+- page commits:
+  - `9a4ae8f6605abbeb717295d992121da65ad30055` — scans 511–521;
+  - `aadd749072ae55fe6107ff59e7a51657d903b868` — scans 522–532;
+  - `fa2ca8b07844e56be4d3a3dfc926a7874b136ca1` — scans 533–543;
+- exact compare from pre-SC3 control checkpoint `8a5f217bdad19321ce4bf51e0589ef2ec1277ea6` to SC3 endpoint `fa2ca8b07844e56be4d3a3dfc926a7874b136ca1`:
+  - **3 commits ahead / non-divergent**;
+  - exactly **33 modified English page files**;
+  - Tamil page changes — **0**;
+  - control-document changes during the page layer — **0**;
+- source-fidelity correction pages — **8 / scans 511, 512, 518, 519, 525, 533, 534, 537**;
+- scans **511–512**: restored the audited physical-page split in the missing-goat dialogue;
+- scans **518–519**: restored the audited physical-page split and the omitted revenge-drive qualifier;
+- scan **525**: removed duplicated narration belonging to scan 526;
+- scan **533**: restored source fragrance wording **sandalwood / javvadu perfume / civet**;
+- scan **534**: removed an unsupported hedge and restored the source's direct assertion;
+- scan **537**: preserved source referent **Kannan** instead of inferring “her husband”;
+- other **25/33** SC3 pages required status promotion only;
+- incoming **510→511 CLEAN** preserved;
+- outgoing **543→544 GENUINE CONTINUATION** preserved.
+
 Current Part-005 English state:
 
-- `source-checked` — **66**;
-- `draft` — **45**;
+- `source-checked` — **99**;
+- `draft` — **12**;
 - `editorial-reviewed` — **0**;
 - `release-ready` — **0**;
 - `source-limited` — **0**;
@@ -64,11 +84,11 @@ Current Part-005 English state:
 
 No published, standard or web English Kural wording was imported. No Tamil archival record changed.
 
-## Exact next activity — Source-Check SC3
+## Exact next activity — Source-Check SC4 final remainder
 
 Source-check:
 
-**scans 511–543 / printed 494–526 — 33 pages**.
+**scans 544–555 / printed 527–538 — 12 pages**.
 
 For each English record:
 
@@ -86,7 +106,7 @@ For each English record:
 
 Boundary discipline:
 
-- incoming **510→511 — CLEAN**;
-- outgoing **543→544 — GENUINE CONTINUATION**.
+- incoming **543→544 — GENUINE CONTINUATION**;
+- outgoing **555→556 — CLEAN / source-resolved**.
 
 Part 006 remains transcription-inactive until Part 005 completes the maintained English workflow and final Part closure.
