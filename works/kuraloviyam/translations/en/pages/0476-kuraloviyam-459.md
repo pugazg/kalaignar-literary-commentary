@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -21,7 +21,7 @@ The wealth of imagination overflowed in him, but at home they had to wander abou
 
 The young man was handsome too.
 
-Does the wild river called love first measure the lines of poverty and abundance before it swells and rushes forward?
+Does the wild river called love pause to measure the boundary between poverty and prosperity before it swells and rushes forward?
 
 The young poet was caught in that flood.
 
