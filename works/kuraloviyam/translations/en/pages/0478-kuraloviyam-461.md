@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 Large upper illustration of a richly adorned woman with a young man behind her.
 
-A young man whose heart has grown heavy and full under the burden of youth sees a woman carrying beauty itself.
+A young man, his heart swollen under the weight of youth, sees a woman carrying beauty itself.
 
 Having seen her, should he not simply go on his way? It seems he will not sleep unless he first finds some fault with that beautiful woman. Human nature has become like that.
 
@@ -31,7 +31,7 @@ His youthful heart, it seems, is struck and scattered by her gaze. In that sweet
 
 That is the thought behind his plea: “Could not her brows have stood like a wall and blocked those beautiful eyes?”
 
-Read it in Valluvar's own movement:
+Read it in Valluvar's own style:
 
 > If her cruel brows would not bend but hide them,  
 > her eyes would not inflict this trembling pain on me.
