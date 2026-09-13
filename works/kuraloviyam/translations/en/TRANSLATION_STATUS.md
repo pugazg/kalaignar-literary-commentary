@@ -415,7 +415,7 @@ Boundaries:
 - incoming **444→445 — GENUINE CONTINUATION / source-resolved**;
 - outgoing **555→556 — CLEAN / source-resolved**.
 
-## Part 005 English first-pass drafting — IN PROGRESS 33/111
+## Part 005 English first-pass drafting — IN PROGRESS 66/111
 
 ### Draft Batch D1 — COMPLETE 33/33
 
@@ -460,6 +460,48 @@ No published, standard or web English Kural wording was imported. No Tamil archi
 
 Part 006 remains blocked until Part 005 completes its maintained English workflow and final Part closure.
 
+### Draft Batch D2 — COMPLETE 33/33
+
+- scans **478–510 / printed 461–493**;
+- English records created — **33/33**;
+- status — **33 `draft`**;
+- source-limited — **0**;
+- blocked — **0**;
+- source Tamil linkage — **33/33 exact / `verified`**;
+- translation type — **33/33 `project_translation`**;
+- incoming **477→478 CLEAN** preserved;
+- outgoing D2 boundary **510→511 CLEAN** preserved.
+
+D2 page commits:
+
+- `fb636ec87218a80927b8a8ca652ea252ab4ddc67` — scans 478–488;
+- `969dfd9139045b1e6d21cd8adce29dcb94360fc0` — scans 489–499;
+- `944813bb74d3fc344757a7eedf5f18d9d427c8fe` — scans 500–510.
+
+Exact D2 audit from D1 control checkpoint `9ce71687265347c7646e9d605760e6b74202dae6` to D2 endpoint `944813bb74d3fc344757a7eedf5f18d9d427c8fe`:
+
+- **3 commits ahead / non-divergent**;
+- exactly **33 changed files**;
+- all 33 are newly added Part-005 English page records, scans **478–510**;
+- Tamil page changes — **0**;
+- control-document changes during the page layer — **0**.
+
+Direct post-batch checks on scans **478, 494 and 510** confirm `status: "draft"`, `source_tamil_status: "verified"`, and `translation_type: "project_translation"`.
+
+Cumulative Part-005 English state after D2:
+
+- `draft` — **66**;
+- `source-checked` — **0**;
+- `editorial-reviewed` — **0**;
+- `release-ready` — **0**;
+- `source-limited` — **0**;
+- `blocked` — **0**;
+- undrafted physical pages — **45**.
+
+No published, standard or web English Kural wording was imported. No Tamil archival record changed.
+
+Part 006 remains blocked until Part 005 completes its maintained English workflow and final Part closure.
+
 ## Exact next English activity
 
-**Part 005 Draft Batch D2 — scans 478–510 / printed 461–493 — 33 pages.**
+**Part 005 Draft Batch D3 — scans 511–543 / printed 494–526 — 33 pages.**
