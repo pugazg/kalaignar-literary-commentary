@@ -207,7 +207,7 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 ### Part 005 — overall scans 445–555
 
-**SOURCE INTAKE: PASS / COMPLETE. PASS 1: COMPLETE 111/111. PASS 2A: COMPLETE / PASS 111/111. PASS 2B: COMPLETE / PASS 111/111. PASS 3: COMPLETE / PASS 111/111. PART AUDIT: PASS / COMPLETE. FINAL STATUS SYNC: PASS / CLOSED. DOCUMENTATION SYNC: COMPLETE / PASS. TAMIL ARCHIVAL-READY: PASS / CLOSED. ENGLISH DRAFTING: COMPLETE / CLOSED 111/111. ENGLISH SOURCE-CHECK: NEXT.**
+**SOURCE INTAKE: PASS / COMPLETE. PASS 1: COMPLETE 111/111. PASS 2A: COMPLETE / PASS 111/111. PASS 2B: COMPLETE / PASS 111/111. PASS 3: COMPLETE / PASS 111/111. PART AUDIT: PASS / COMPLETE. FINAL STATUS SYNC: PASS / CLOSED. DOCUMENTATION SYNC: COMPLETE / PASS. TAMIL ARCHIVAL-READY: PASS / CLOSED. ENGLISH DRAFTING: COMPLETE / CLOSED 111/111. ENGLISH SOURCE-CHECK: IN PROGRESS 33/111.**
 
 - P5-01 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - P5-02 — **456–466 / printed 439–449 — COMPLETE 11/11**;
@@ -329,4 +329,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 ### Exact next content stage
 
-Begin **Part 005 English source-check SC1 — scans 445–477 / printed 428–460 — 33 pages**. First-pass drafting is **COMPLETE / CLOSED 111/111**, leaving **111 draft / 0 source-checked**. Compare against audited Tamil archival records, correct only source-supported fidelity issues, and promote passing records to `source-checked`. Preserve the incoming **444→445 GENUINE CONTINUATION** and outgoing **477→478 CLEAN** boundary. Do not import published/web English wording. Part 006 remains blocked until Part 005 English and final closure are complete.
+Continue **Part 005 English source-check SC2 — scans 478–510 / printed 461–493 — 33 pages**. SC1 is **COMPLETE / PASS 33/33**, leaving **33 source-checked / 78 draft**. SC1 corrected only the physical-page split across scans **476→477**; no Tamil archival record changed. Preserve incoming **477→478 CLEAN** and outgoing **510→511 CLEAN**. Compare against audited Tamil records, correct only source-supported fidelity issues, and promote passing records to `source-checked`. Do not import published/web English wording. Part 006 remains blocked until Part 005 English and final closure are complete.

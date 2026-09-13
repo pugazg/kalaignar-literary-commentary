@@ -338,7 +338,12 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - exact D4 compare from `e077442534771d61efcc5ed31f7875b73ea65783` to `4d8a8d1b8e81c3827498e31a00b055b660b143d8` — **1 commit ahead / exactly 12 added English page files / 0 Tamil or control-file changes**;
 - final drafting state — **111 draft / 0 source-checked / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
 - Part-005 English inventory — **111/111 present / 0 undrafted**;
-- next maintained English gate — **Source-check SC1 / scans 445–477 / printed 428–460 — 33 pages**.
+- English source-check SC1 — **445–477 / printed 428–460 — COMPLETE / PASS 33/33**;
+- SC1 page commits — `21e43aa606bca9101d681bd55157dd1db42f2af8`, `902d567aaf24e6018200a6a88755230a44713f67`, `d62e97d1f67ed999fb6f4a0db435cedccdbc4c2d`;
+- exact SC1 compare from `9bed25feeab25329fb1b2cf10c41f9fddbfc5290` to `d62e97d1f67ed999fb6f4a0db435cedccdbc4c2d` — **3 commits ahead / exactly 33 modified English page files / 0 Tamil or control-file changes**;
+- SC1 source-fidelity correction — **2 page files / scans 476–477**, restoring the audited Tamil physical-page split after `மணம்`; remaining **31 pages status-only**;
+- current Part-005 English state — **33 source-checked / 78 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
+- next maintained English gate — **Source-check SC2 / scans 478–510 / printed 461–493 — 33 pages**.
 
 ### Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -349,4 +354,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Begin **Part 005 English source-check SC1 — scans 445–477 / printed 428–460 — 33 pages**. Compare each project English draft directly against its audited Tamil archival record paragraph-by-paragraph / block-by-block. Correct only source-fidelity issues supported by the Tamil record; preserve page alignment, visual/non-body distinctions, Kural blocks, Chapter/Kural metadata and cross-page continuity. Promote each passing page from `draft` to `source-checked`. Do not import published/web/standard English wording. Part 006 remains blocked.
+Continue **Part 005 English source-check SC2 — scans 478–510 / printed 461–493 — 33 pages**. Compare each project English record directly against its audited Tamil archival record paragraph-by-paragraph / block-by-block. Correct only source-fidelity issues supported by the Tamil record; preserve incoming **477→478 CLEAN**, outgoing **510→511 CLEAN**, page alignment, visual/non-body distinctions, Kural blocks, Chapter/Kural metadata and continuity. Promote each passing page from `draft` to `source-checked`. Do not import published/web/standard English wording. Part 006 remains blocked.

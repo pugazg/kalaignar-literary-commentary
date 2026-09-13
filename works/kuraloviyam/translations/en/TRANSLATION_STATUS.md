@@ -585,12 +585,49 @@ Final post-drafting state:
 
 No published, standard or web English Kural wording was imported. No Tamil archival record changed.
 
-## Part 005 English source-check — NOT STARTED
+## Part 005 English source-check — IN PROGRESS 33/111
 
 Normal source-check cadence: **33 physical scans per iteration**, with a shorter final remainder if required.
 
 The source-check compares each project English record directly against its audited Tamil archival counterpart, paragraph-by-paragraph / block-by-block. Source-fidelity corrections are allowed when required by the audited Tamil record. Passing records are promoted from `draft` to `source-checked`. Glossary normalization beyond obvious fidelity requirements belongs to the later glossary-reconciliation gate.
 
+### Source-Check SC1 — COMPLETE / PASS 33/33
+
+- scans **445–477 / printed 428–460**;
+- source-checked — **33/33**;
+- source-limited — **0**;
+- blocked — **0**;
+- source Tamil linkage — **33/33 exact / verified**;
+- project-translation identity retained — **33/33**;
+- incoming **444→445 GENUINE CONTINUATION / source-resolved** preserved;
+- outgoing **477→478 CLEAN** preserved.
+
+SC1 page commits:
+
+- `21e43aa606bca9101d681bd55157dd1db42f2af8` — scans 445–455;
+- `902d567aaf24e6018200a6a88755230a44713f67` — scans 456–466;
+- `d62e97d1f67ed999fb6f4a0db435cedccdbc4c2d` — scans 467–477.
+
+Exact SC1 audit from pre-source-check checkpoint `9bed25feeab25329fb1b2cf10c41f9fddbfc5290` to SC1 endpoint `d62e97d1f67ed999fb6f4a0db435cedccdbc4c2d`:
+
+- **3 commits ahead / non-divergent**;
+- exactly **33 modified English page files**;
+- Tamil page changes — **0**;
+- control-document changes during the page layer — **0**;
+- **31 pages** changed only by `draft` → `source-checked`;
+- **2 pages**, scans **476–477**, also received one source-fidelity repair: the physically split Tamil sentence ending scan 476 at `மணம்` is now mirrored by English scan 476 ending “Once the marriage—” and scan 477 resuming “—is over…”.
+
+Cumulative Part-005 English state after SC1:
+
+- `source-checked` — **33**;
+- `draft` — **78**;
+- `editorial-reviewed` — **0**;
+- `release-ready` — **0**;
+- `source-limited` — **0**;
+- `blocked` — **0**.
+
+No published, standard or web English Kural wording was imported. No Tamil archival record changed.
+
 ## Exact next English activity
 
-**Part 005 Source-Check SC1 — scans 445–477 / printed 428–460 — 33 pages.**
+**Part 005 Source-Check SC2 — scans 478–510 / printed 461–493 — 33 pages.**

@@ -558,6 +558,17 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - incoming **543→544 GENUINE CONTINUATION** preserved;
 - outgoing **555→556 CLEAN / source-resolved** preserved.
 
+## Part 005 English source-check map
+
+- SC1 — **445–477 / printed 428–460 — COMPLETE / PASS 33/33**;
+- cumulative source-check — **33/111**;
+- current status distribution — **33 source-checked / 78 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
+- SC1 endpoint — `d62e97d1f67ed999fb6f4a0db435cedccdbc4c2d`;
+- SC1 exact page-layer compare — **33 modified English page files only**;
+- fidelity correction — **scans 476–477**, restoring the source physical-page split;
+- incoming **444→445 GENUINE CONTINUATION / source-resolved** preserved;
+- outgoing **477→478 CLEAN** preserved.
+
 ## Current frontier
 
-**Part 005 English source-check SC1 — scans 445–477 / printed 428–460 — 33 pages.**
+**Part 005 English source-check SC2 — scans 478–510 / printed 461–493 — 33 pages.**
