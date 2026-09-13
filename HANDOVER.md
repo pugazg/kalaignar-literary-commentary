@@ -248,7 +248,8 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - Pass 2B Batch 6 — **500–510 / printed 483–493 — COMPLETE 11/11**;
 - Pass 2B Batch 7 — **511–521 / printed 494–504 — COMPLETE 11/11**;
 - Pass 2B Batch 8 — **522–532 / printed 505–515 — COMPLETE 11/11**;
-- cumulative Pass 2B — **88/111**;
+- Pass 2B Batch 9 — **533–543 / printed 516–526 — COMPLETE 11/11**;
+- cumulative Pass 2B — **99/111**;
 - Batch-1 Pass-2B correction — **1 record / 1 lexical reading**: scan 453 `முத்தனியின்` → source-visible `முக்கனியின்`;
 - Batch-1 Pass-2B correction commit — `8391075c43b72ec3e5973db080ba742e5e899c4b` — exact compare **1 page file only / scan 453**;
 - **455→456 — GENUINE CONTINUATION**, confirmed from scan 456 / printed 439 witness;
@@ -273,6 +274,9 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - Batch-8 Pass-2B corrections — **7 records / 12 lexical-or-spacing/punctuation readings**: scan 522 `ஒருவனைத்` → source-visible `ஒருவனைக்`; scan 523 `போரைக் தொடர்ந்து` → `போரைத் தொடர்ந்து`; scan 527 `எழுதிய தந்ததை` → `எழுதித் தந்ததை`; scan 528 queen-speech clause restored to source-visible `பயன்படுத்தினால்கூட, அந்தச் சொற்கள் காதைக் குடையும் நிலையிலே பாய்ந்தால் கூட அதைப் பொறுத்துக்கொள்கிற`; scan 529 `ஆயிரம்` → `ஆயன்`; scan 530 `எங்கிடும்` → `ஏங்கிடும்`, `நங்கினாலும்` → `நீங்கினாலும்`; scan 532 source punctuation restored at `புயல்காற்று - இவற்றினைக்` and `அதற்கு இது குறள்:-`;
 - Batch-8 Pass-2B correction commit — `4af1b155dad0a81c5bd7fe68cd64569801a3718f` — exact compare **7 page files only / scans 522, 523, 527, 528, 529, 530, 532**;
 - **532→533 — CLEAN**, confirmed from scan 533 / printed 516 witness;
+- Batch-9 Pass-2B corrections — **3 records / 3 lexical-or-spacing readings**: scan 534 `அதைத் தவிர மற்ற அனைத்தையும்` → source-visible `அனைத்தையும்`; scan 538 `ஊற்றப்பட்ட` → source-visible `ஊற்றப் பட்ட`; scan 541 `இப்படிப்பார்க்கிறது` → source-visible `இப்பப்பார்க்கிறது`;
+- Batch-9 Pass-2B correction commit — `909260dc502bb4ddeaa0defd5cb25692adf38653` — exact compare **3 page files only / scans 534, 538, 541**;
+- **543→544 — GENUINE CONTINUATION**, confirmed from scan 544 / printed 527 witness;
 - durable Pass-2B log — `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_005.md`.
 
 ### Part 006 — SOURCE INTAKE COMPLETE / WAITING
@@ -284,4 +288,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Continue **Part 005 Pass 2B / Batch 9 — scans 533–543 / printed 516–526** as an independent lexical-fidelity re-read. Preserve incoming **532→533 CLEAN** and inspect scan **544 / printed 527** only as the outgoing witness when required. Keep page statuses `needs-review` / visual `needs-review`; Pass 3 remains mandatory. Do not begin Part 006 transcription.
+Continue **Part 005 Pass 2B / Batch 10 final remainder — scans 544–555 / printed 527–538** as an independent lexical-fidelity re-read. Preserve incoming **543→544 GENUINE CONTINUATION**. The outgoing **555→556 CLEAN** Part boundary is already source-resolved from Part 005/006 intake. Keep page statuses `needs-review` / visual `needs-review`; Pass 3 remains mandatory. Do not begin Part 006 transcription.

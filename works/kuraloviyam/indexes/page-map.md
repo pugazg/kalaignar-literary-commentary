@@ -447,7 +447,8 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - Batch 6 **500–510 / printed 483–493 — COMPLETE 11/11**;
 - Batch 7 **511–521 / printed 494–504 — COMPLETE 11/11**;
 - Batch 8 **522–532 / printed 505–515 — COMPLETE 11/11**;
-- cumulative Pass 2B — **88/111**;
+- Batch 9 **533–543 / printed 516–526 — COMPLETE 11/11**;
+- cumulative Pass 2B — **99/111**;
 - corrected Batch-1 scans — **453**;
 - corrected Batch-2 scans — **457, 463, 465**;
 - corrected Batch-3 scans — **469, 477**;
@@ -456,6 +457,7 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - corrected Batch-6 scans — **500, 506, 510**;
 - corrected Batch-7 scans — **511, 512, 519**;
 - corrected Batch-8 scans — **522, 523, 527, 528, 529, 530, 532**;
+- corrected Batch-9 scans — **534, 538, 541**;
 - incoming **444→445 genuine continuation** source-resolved;
 - **455→456 genuine continuation** preserved;
 - **466→467 genuine continuation** preserved;
@@ -464,9 +466,10 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - **499→500 GENUINE CONTINUATION** preserved;
 - **510→511 CLEAN** preserved;
 - **521→522 CLEAN** preserved;
-- **532→533 CLEAN** confirmed from scan 533 / printed 516 witness;
+- **532→533 CLEAN** preserved;
+- **543→544 GENUINE CONTINUATION** confirmed from scan 544 / printed 527 witness;
 - outgoing Part boundary **555→556 CLEAN** source-resolved.
 
 ## Current frontier
 
-**Part 005 Pass 2B Batch 9 — scans 533–543 / printed 516–526.**
+**Part 005 Pass 2B Batch 10 final remainder — scans 544–555 / printed 527–538.**

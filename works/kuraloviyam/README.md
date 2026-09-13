@@ -226,7 +226,8 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - Pass 2B Batch 6 — **500–510 / printed 483–493 — COMPLETE 11/11**;
 - Pass 2B Batch 7 — **511–521 / printed 494–504 — COMPLETE 11/11**;
 - Pass 2B Batch 8 — **522–532 / printed 505–515 — COMPLETE 11/11**;
-- cumulative Pass 2B — **88/111**;
+- Pass 2B Batch 9 — **533–543 / printed 516–526 — COMPLETE 11/11**;
+- cumulative Pass 2B — **99/111**;
 - Batch-1 Pass-2B correction — **1 page record / 1 lexical reading**;
 - Batch-1 Pass-2B correction commit — `8391075c43b72ec3e5973db080ba742e5e899c4b`;
 - Pass 2B log — `PASS2B_LEXICAL_FIDELITY_PART_005.md`;
@@ -252,6 +253,9 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - Batch-8 Pass-2B corrections — **7 page records / 12 lexical-or-spacing/punctuation readings**;
 - Batch-8 Pass-2B correction commit — `4af1b155dad0a81c5bd7fe68cd64569801a3718f`;
 - **532→533 CLEAN**;
+- Batch-9 Pass-2B corrections — **3 page records / 3 lexical-or-spacing readings**;
+- Batch-9 Pass-2B correction commit — `909260dc502bb4ddeaa0defd5cb25692adf38653`;
+- **543→544 GENUINE CONTINUATION**;
 - **555→556 CLEAN** remains source-resolved;
 - **555→556 CLEAN**.
 
@@ -264,4 +268,4 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 
 ## Current frontier
 
-**Part 005 Pass 2B Batch 9 — scans 533–543 / printed 516–526.**
+**Part 005 Pass 2B Batch 10 final remainder — scans 544–555 / printed 527–538.**

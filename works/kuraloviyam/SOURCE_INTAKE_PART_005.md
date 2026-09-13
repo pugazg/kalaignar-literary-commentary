@@ -75,7 +75,7 @@ Workflow batch edges must never create artificial textual boundaries. Inspect th
 
 **Part 005 source intake: COMPLETE / PASS.**
 
-Pass 1 is **COMPLETE**; Pass 2A is **COMPLETE / PASS**; Pass 2B is **ACTIVE / 88/111**.
+Pass 1 is **COMPLETE**; Pass 2A is **COMPLETE / PASS**; Pass 2B is **ACTIVE / 99/111**.
 
 - P5-01 / scans **445–455 / printed 428–438** — **COMPLETE 11/11**;
 - P5-02 / scans **456–466 / printed 439–449** — **COMPLETE 11/11**;
@@ -127,7 +127,8 @@ Pass 1 is **COMPLETE**; Pass 2A is **COMPLETE / PASS**; Pass 2B is **ACTIVE / 88
 - Pass 2B Batch 6 / scans **500–510 / printed 483–493** — **COMPLETE 11/11**;
 - Pass 2B Batch 7 / scans **511–521 / printed 494–504** — **COMPLETE 11/11**;
 - Pass 2B Batch 8 / scans **522–532 / printed 505–515** — **COMPLETE 11/11**;
-- cumulative Pass 2B — **88/111**;
+- Pass 2B Batch 9 / scans **533–543 / printed 516–526** — **COMPLETE 11/11**;
+- cumulative Pass 2B — **99/111**;
 - Batch-1 Pass-2B correction — **1 record / 1 lexical reading**;
 - Batch-1 Pass-2B correction commit — `8391075c43b72ec3e5973db080ba742e5e899c4b`;
 - outgoing **455→456 — GENUINE CONTINUATION**, checked from scan 456 / printed 439;
@@ -152,7 +153,10 @@ Pass 1 is **COMPLETE**; Pass 2A is **COMPLETE / PASS**; Pass 2B is **ACTIVE / 88
 - Batch-8 Pass-2B corrections — **7 records / 12 lexical-or-spacing/punctuation readings**;
 - Batch-8 Pass-2B correction commit — `4af1b155dad0a81c5bd7fe68cd64569801a3718f`;
 - outgoing **532→533 — CLEAN**, checked from scan 533 / printed 516;
+- Batch-9 Pass-2B corrections — **3 records / 3 lexical-or-spacing readings**;
+- Batch-9 Pass-2B correction commit — `909260dc502bb4ddeaa0defd5cb25692adf38653`;
+- outgoing **543→544 — GENUINE CONTINUATION**, checked from scan 544 / printed 527;
 - Pass 2B log — `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_005.md`;
 - durable Pass-2A log — `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_005.md`.
 
-Next: **Part 005 Pass 2B Batch 9 / scans 533–543 / printed 516–526**. Use freshly rendered source scans as lexical authority and keep statuses `needs-review` / visual `needs-review` through Pass 2B.
+Next: **Part 005 Pass 2B Batch 10 final remainder / scans 544–555 / printed 527–538**. Use freshly rendered source scans as lexical authority and keep statuses `needs-review` / visual `needs-review` through Pass 2B.
