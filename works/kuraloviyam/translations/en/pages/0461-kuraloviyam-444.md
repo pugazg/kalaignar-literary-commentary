@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -15,7 +15,7 @@ A frightened bull charged at him, trying to gore him and throw him down. At that
 
 The doctor who had mocked their courage now fell at their feet and begged for refuge.
 
-The young men subdued the raging bull and saved the doctor, but they mocked him in proportion to his arrogance before sending him on his way.
+The young men subdued the raging bull and saved the doctor, but before sending him on his way they mocked him as much as his arrogance deserved.
 
 The doctor had become like a madman. Staggering, he made his way toward his house. Guards stood around it.
 

@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -33,7 +33,7 @@ No second cry followed.
 
 The poet sprang up in alarm. It was clearly visible in the moonlight: the boat had overturned.
 
-The young poet jumped into the river and swam swiftly toward the capsized boat. He reached the beauty, lifted her, carried her to the opposite bank and laid her down. Without hesitation he gave her the treatment she needed and stood there rejoicing: “She has survived.”
+The young poet jumped into the river and swam swiftly toward the capsized boat. He reached the beauty, lifted her, carried her to the opposite bank and laid her down. Without hesitation he gave her the necessary treatment and stood there rejoicing: “She has survived.”
 
 She lay there exhausted—
 
