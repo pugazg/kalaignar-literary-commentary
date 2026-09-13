@@ -207,7 +207,7 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 ### Part 005 — overall scans 445–555
 
-**SOURCE INTAKE: PASS / COMPLETE. PASS 1: COMPLETE 111/111. PASS 2A: COMPLETE / PASS 111/111. PASS 2B: COMPLETE / PASS 111/111. PASS 3: COMPLETE / PASS 111/111. PART AUDIT: PASS / COMPLETE. FINAL STATUS SYNC: PASS / CLOSED. DOCUMENTATION SYNC: COMPLETE / PASS. TAMIL ARCHIVAL-READY: PASS / CLOSED. ENGLISH DRAFTING: COMPLETE / CLOSED 111/111. ENGLISH SOURCE-CHECK: IN PROGRESS 99/111.**
+**SOURCE INTAKE: PASS / COMPLETE. PASS 1: COMPLETE 111/111. PASS 2A: COMPLETE / PASS 111/111. PASS 2B: COMPLETE / PASS 111/111. PASS 3: COMPLETE / PASS 111/111. PART AUDIT: PASS / COMPLETE. FINAL STATUS SYNC: PASS / CLOSED. DOCUMENTATION SYNC: COMPLETE / PASS. TAMIL ARCHIVAL-READY: PASS / CLOSED. ENGLISH DRAFTING: COMPLETE / CLOSED 111/111. ENGLISH SOURCE-CHECK: COMPLETE / CLOSED 111/111. ENGLISH GLOSSARY RECONCILIATION: NOT STARTED.**
 
 - P5-01 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - P5-02 — **456–466 / printed 439–449 — COMPLETE 11/11**;
@@ -329,4 +329,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 ### Exact next content stage
 
-Continue **Part 005 English source-check SC4 final remainder — scans 544–555 / printed 527–538 — 12 pages**. SC1–SC3 are **COMPLETE / PASS 99/99**, leaving **99 source-checked / 12 draft**. SC3 corrected **8 page files / scans 511, 512, 518, 519, 525, 533, 534, 537** for source-supported physical-page alignment, one omitted qualifier, one duplicated cross-page narration, and three direct lexical/semantic fidelity repairs; no Tamil archival record changed. Preserve incoming **543→544 GENUINE CONTINUATION** and outgoing **555→556 CLEAN / source-resolved**. Compare against audited Tamil records, correct only source-supported fidelity issues, and promote passing records to `source-checked`. Do not import published/web English wording. Part 006 remains blocked until Part 005 English and final closure are complete.
+Continue **Part 005 English glossary reconciliation GR1 — scans 445–477 / printed 428–460 — 33 pages**. English source-check is now **COMPLETE / CLOSED 111/111** with **111 source-checked / 0 draft**. SC4 corrected **4 page files / scans 549, 550, 553, 555** and changed the other 8 final pages by status only; no Tamil archival record changed. Reconcile source-evidenced terminology only against audited Tamil records and project `GLOSSARY.md`; preserve page statuses, project-created wording identity, Kural blocks, metadata and continuities. Do not import published/web terminology or standard English Kural wording. Part 006 remains blocked until Part 005 English and final closure are complete.

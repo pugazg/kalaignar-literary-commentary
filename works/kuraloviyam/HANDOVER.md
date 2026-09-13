@@ -312,8 +312,13 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - SC3 page-layer endpoint — `fa2ca8b07844e56be4d3a3dfc926a7874b136ca1`;
 - SC3 page-only audit — **33 modified English page files / 0 Tamil changes / 0 control-file changes**;
 - SC3 source-fidelity corrections — **8 pages / scans 511, 512, 518, 519, 525, 533, 534, 537**;
-- current English status — **99 source-checked / 12 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
-- next gate — **English source-check SC4 final remainder / scans 544–555 / printed 527–538 — 12 pages**.
+- English source-check SC4 final remainder — **544–555 / printed 527–538 — COMPLETE / PASS 12/12**;
+- SC4 page-layer endpoint — `113846a357544a33b73d727d20115471f2f3411f`;
+- SC4 page-only audit — **12 modified English page files / 0 Tamil changes / 0 control-file changes**;
+- SC4 source-fidelity corrections — **4 pages / scans 549, 550, 553, 555**;
+- English source-check — **COMPLETE / CLOSED 111/111**;
+- current English status — **111 source-checked / 0 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
+- next gate — **English glossary reconciliation GR1 / scans 445–477 / printed 428–460 — 33 pages**.
 
 ## Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -323,4 +328,4 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ## Exact next activity
 
-Proceed with **Part 005 English source-check SC4 final remainder / scans 544–555 / printed 527–538 — 12 pages**. Compare English directly against the audited Tamil records, correct only source-fidelity issues, promote passing pages to `source-checked`, preserve **543→544 GENUINE CONTINUATION** and **555→556 CLEAN / source-resolved**, and do not import external English wording. Do not start Part 006 transcription.
+Proceed with **Part 005 English glossary reconciliation GR1 / scans 445–477 / printed 428–460 — 33 pages**. Reconcile source-evidenced controlled terminology against the audited Tamil records and `translations/en/GLOSSARY.md`, make only necessary terminology/label consistency corrections, preserve all page statuses as `source-checked`, and do not import external or standard English wording. Do not start Part 006 transcription.

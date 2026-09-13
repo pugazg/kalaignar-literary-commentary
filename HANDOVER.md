@@ -360,8 +360,17 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
   - scan 534 removes an unsupported hedge and restores the source's direct assertion;
   - scan 537 restores source referent **Kannan** instead of the inferred generic “her husband”;
 - remaining **25 SC3 pages status-only**;
-- current Part-005 English state — **99 source-checked / 12 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
-- next maintained English gate — **Source-check SC4 final remainder / scans 544–555 / printed 527–538 — 12 pages**.
+- English source-check SC4 final remainder — **544–555 / printed 527–538 — COMPLETE / PASS 12/12**;
+- SC4 page commits — `6a275273a2eb05ddedbf637e95fff9c03e8254a5`, `1f14dec997d70c3ee13fe16f1560c1c58dd0c185`, `113846a357544a33b73d727d20115471f2f3411f`;
+- exact SC4 compare from `c67e24794f25899f2a38c99dc1fc03af562240b3` to `113846a357544a33b73d727d20115471f2f3411f` — **3 commits ahead / exactly 12 modified English page files / 0 Tamil or control-file changes**;
+- SC4 source-fidelity corrections — **4 page files / scans 549, 550, 553, 555**:
+  - scans 549–550 restored the audited physical-page split in the education / daughter vignette;
+  - scan 553 narrowed the source gloss `அலர் = பலர் அறிதல்` to **becoming known to many**, removing the added “gossip” gloss;
+  - scan 555 restored the source-named **narambu-silandhi disease** and the explicit “kill little by little” force;
+- remaining **8 SC4 pages status-only**;
+- Part-005 English source-check — **COMPLETE / CLOSED 111/111**;
+- current Part-005 English state — **111 source-checked / 0 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
+- next maintained English gate — **Glossary reconciliation GR1 / scans 445–477 / printed 428–460 — 33 pages**.
 
 ### Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -372,4 +381,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Continue **Part 005 English source-check SC4 final remainder — scans 544–555 / printed 527–538 — 12 pages**. Compare each project English record directly against its audited Tamil archival record paragraph-by-paragraph / block-by-block. Correct only source-fidelity issues supported by the Tamil record; preserve incoming **543→544 GENUINE CONTINUATION**, outgoing **555→556 CLEAN / source-resolved**, page alignment, visual/non-body distinctions, Kural blocks, Chapter/Kural metadata and continuity. Promote each passing page from `draft` to `source-checked`. Do not import published/web/standard English wording. Part 006 remains blocked.
+Continue **Part 005 English glossary reconciliation GR1 — scans 445–477 / printed 428–460 — 33 pages**. Reconcile only source-evidenced names, recurring terms, Chapter labels, Kural metadata, source glosses and controlled terminology against the audited Tamil records and project `GLOSSARY.md`. Preserve project-created translation identity, page alignment, Kural blocks and established continuities. Do not change page status during glossary reconciliation; Part-005 pages remain `source-checked`. Do not import published/web/standard English terminology or Kural wording. Part 006 remains blocked.
