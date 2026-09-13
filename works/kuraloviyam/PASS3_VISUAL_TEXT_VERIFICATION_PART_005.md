@@ -8,7 +8,7 @@
 - Physical scans: **111**
 - Gate: **Pass 3 — meaningful visual/text fidelity verification**
 - Cadence: **Batches 1–3 used 11 physical scans, Batches 4–5 used 12 scans, and from Batch 6 onward the user-directed cadence is 25 physical scans per normal iteration**, with a shorter final remainder when fewer than 25 scans remain
-- Status: **ACTIVE — 82/111 complete; next Batch 7 / scans 527–551**
+- Status: **COMPLETE / PASS — 111/111**
 
 ## Preconditions
 
@@ -254,27 +254,93 @@ User-directed cadence change applied here: **25 physical scans per normal Pass-3
 - Page correction commit: **none required**.
 - All Part-005 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
 
+## Batch 7 / final remainder — scans 527–555 / printed 510–538
+
+**Result: COMPLETE — 29 / 29.**
+
+At the user's explicit request, the final iteration processed **all 29 remaining Part-005 scans in one go**, overriding the normal 25-page cadence for this final remainder.
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 527 | 510 | **NO STRUCTURAL CHANGE** — large upper ruler-and-seated-woman illustration remains above the prose; the militaristic-king / just-rule vignette begins below and continues to 528. |
+| 528 | 511 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 389, Chapter 39 metadata and source glosses remain correctly separated. |
+| 529 | 512 | **NO STRUCTURAL CHANGE** — large upper embracing-couple illustration remains above the prose; the five-senses / lovers' union vignette begins below and continues to 530. |
+| 530 | 513 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 1101 and Chapter 111 metadata remain correctly placed above the standing-statue page furniture. |
+| 531 | 514 | **CORRECTED** — source shows **a man shielding a child beneath a cloth in heavy rain, with several figures crossing the embankment behind**. The previous note described an adult carrying/protecting a child. `visual_notes` corrected only. |
+| 532 | 515 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 1021, Chapter 103 metadata and source gloss remain correctly separated; 532→533 is CLEAN. |
+| 533 | 516 | **NO STRUCTURAL CHANGE** — large upper woman-and-seated/reclining-man illustration remains above the prose; the opulence / ஊக்கம் vignette begins below and continues to 534. |
+| 534 | 517 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 600, Chapter 60 metadata, source gloss and lower Valluvar emblem remain correctly separated; 534→535 is CLEAN. |
+| 535 | 518 | **NO STRUCTURAL CHANGE** — large upper knife/background-scene illustration remains above the prose; the death-penalty / non-killing vignette begins below and continues to 536. |
+| 536 | 519 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 330, Chapter 33 metadata and source glosses remain correctly grouped; 536→537 is CLEAN. |
+| 537 | 520 | **CORRECTED** — source shows **one woman pouring from a small vessel into a pot while another woman walks away**. The previous note generically described two women handling pots. `visual_notes` corrected only. |
+| 538 | 521 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 714, Chapter 72 metadata and printed source glosses remain correctly separated; 538→539 is CLEAN. |
+| 539 | 522 | **NO STRUCTURAL CHANGE** — large upper running-village-man illustration remains above the prose; the வழித்துணையான் / வழிப்பறியான் vignette begins below and continues to 540. |
+| 540 | 523 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 158, Chapter 16 metadata and source glosses remain correctly grouped; 540→541 is CLEAN. |
+| 541 | 524 | **NO STRUCTURAL CHANGE** — large upper man-holding-child / wealthy-older-man illustration remains above the prose; the compassion-and-sight vignette begins below and continues to 542. |
+| 542 | 525 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 573, Chapter 58 metadata and source gloss remain correctly separated; 542→543 is CLEAN. |
+| 543 | 526 | **NO STRUCTURAL CHANGE** — large upper lovers illustration remains above the prose; the eye/self-reproach vignette begins below and continues to 544. |
+| 544 | 527 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 1177, Chapter 118 metadata and source gloss remain correctly separated; 544→545 is CLEAN. |
+| 545 | 528 | **NO STRUCTURAL CHANGE** — large upper three-men illustration remains above the prose; the குடி / மானம் / இன உயர்வு vignette begins below and continues to 546. |
+| 546 | 529 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 1028, Chapter 103 metadata and lower chariot emblem remain correctly separated; 546→547 is CLEAN. |
+| 547 | 530 | **NO STRUCTURAL CHANGE** — large upper Athiyaman/Avvai illustration remains above the prose; the hospitality vignette and Avvai quotation begin below and continue to 548. |
+| 548 | 531 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 82, Chapter 9 metadata and lower Valluvar emblem remain correctly separated; 548→549 is CLEAN. |
+| 549 | 532 | **NO STRUCTURAL CHANGE** — large upper mother-and-young-woman illustration remains above the prose; the education/daughter/உயர்வு vignette begins below and continues across 550 to 551. |
+| 550 | 533 | **NO STRUCTURAL CHANGE** — text-only middle continuation of the education/daughter/உயர்வு vignette; no false batch boundary introduced. |
+| 551 | 534 | **NO STRUCTURAL CHANGE** — text-only closure of the three-page education/daughter/உயர்வு vignette; Kural 596, Chapter 60 metadata and lower Valluvar emblem remain correctly separated; 551→552 is CLEAN. |
+| 552 | 535 | **NO STRUCTURAL CHANGE** — large upper embracing-couple illustration remains above the prose; the மலர்விழி / gossip-created-love vignette begins below and continues to 553. |
+| 553 | 536 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 1142, Chapter 115 metadata, source gloss and lower Valluvar emblem remain correctly separated; 553→554 is CLEAN. |
+| 554 | 537 | **NO STRUCTURAL CHANGE** — large upper wealthy-man / ascetic illustration remains above the prose; the பூங்குன்றன் / destructive-friendship / உட்பகை vignette begins below and continues to 555. |
+| 555 | 538 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 881, Chapter 89 metadata and source gloss remain correctly separated. Final Part-005 scan. |
+
+### Boundary / continuity result
+
+- Incoming **526→527 CLEAN** remains confirmed.
+- Internal final-remainder boundaries remain coherent, including the three-page **549→550→551** continuation.
+- Outgoing Part boundary **555→556 is CLEAN / source-resolved**, preserved from the supplied Part-005/006 intake.
+- No Part-006 page was processed as Batch-7 content.
+
+### Batch 7 correction summary
+
+- Structural/visual-description corrections: **2 pages — scans 531 and 537**.
+- No-change scans: **527–530, 532–536, 538–555 — 27 pages**.
+- Lexical/body-text changes: **0**.
+- Status promotion: **0**.
+- Page correction commit: `558256c0624f32b3aee9479aebb70a734eab3118` — exact compare from `b12351a0fdf0d89f26a714834e02e7155b24b7fd` changes exactly **2 page files**, scans **531 and 537** only.
+- All Part-005 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+
 ## Current Pass 3 coverage
 
-- complete — **82/111 scans**;
-- remaining — **29 scans**;
+- complete — **111/111 scans — COMPLETE / PASS**;
+- remaining — **0 scans**;
 - Batch 1 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - Batch 2 — **456–466 / printed 439–449 — COMPLETE 11/11**;
 - Batch 3 — **467–477 / printed 450–460 — COMPLETE 11/11**;
 - Batch 4 — **478–489 / printed 461–472 — COMPLETE 12/12**;
 - Batch 5 — **490–501 / printed 473–484 — COMPLETE 12/12**;
 - Batch 6 — **502–526 / printed 485–509 — COMPLETE 25/25**;
+- Batch 7 / final remainder — **527–555 / printed 510–538 — COMPLETE 29/29**;
 - incoming Part boundary **444→445 — GENUINE CONTINUATION / source-resolved**;
 - **455→456 — GENUINE CONTINUATION** preserved;
 - **466→467 — GENUINE CONTINUATION** preserved;
 - **477→478 — CLEAN** preserved;
 - **489→490 — GENUINE CONTINUATION** preserved;
 - **501→502 — GENUINE CONTINUATION** preserved;
-- outgoing Batch-6 boundary **526→527 — CLEAN**;
+- **526→527 — CLEAN** preserved;
+- outgoing Part boundary **555→556 — CLEAN / source-resolved**;
 - current page statuses — **111 needs-review / 111 visual needs-review**.
 
-## Exact next activity — Batch 7
+## Pass 3 final result
 
-Process **25 pages**: scans **527–551 / printed 510–534**.
+**COMPLETE / PASS — 111/111 physical scans.**
 
-Preserve incoming **526→527 CLEAN**. Inspect scan **552 / printed 535** only as the outgoing boundary witness when required. Record per-page Pass-3 structural/visual results, commit only source-required record changes, compare the batch base→head changed-file set, and keep all review flags unchanged.
+Cumulative Pass-3 structural/visual-description corrections: **6 pages — scans 472, 474, 481, 501, 531 and 537**.
+
+Cumulative Pass-3 lexical/body-text changes: **0**.
+
+Cumulative status promotions during Pass 3: **0**.
+
+All 111 Part-005 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"` pending the Part audit and separate final metadata/status synchronization gate.
+
+## Exact next activity — Part 005 Audit
+
+Perform the repository/control-record audit across **all 111 Part-005 records, scans 445–555 / printed 428–538**. Follow the closed Part-004 audit precedent: verify coverage, mapping, closed verification gates, continuity, Kural/metadata structure, page furniture, source limits and pre-final status discipline. Reopen the source only if a concrete discrepancy requires it. Do not change Tamil body wording and do not promote statuses during the audit.

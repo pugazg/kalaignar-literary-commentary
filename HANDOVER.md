@@ -290,17 +290,20 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - Pass 3 Batch 4 — **478–489 / printed 461–472 — COMPLETE 12/12**;
 - Pass 3 Batch 5 — **490–501 / printed 473–484 — COMPLETE 12/12**;
 - Pass 3 Batch 6 — **502–526 / printed 485–509 — COMPLETE 25/25**;
-- user-directed Pass-3 cadence from Batch 6 onward — **25 physical scans per normal iteration**, with a shorter final remainder if needed;
-- Pass-3 structural/visual corrections through Batch 6 — **4 pages / scans 472, 474, 481, 501**;
-- Pass-3 Batch-6 structural/visual corrections — **0**;
-- Pass-3 lexical/body-text changes through Batch 6 — **0**;
+- Pass 3 Batch 7 / final remainder — **527–555 / printed 510–538 — COMPLETE 29/29**;
+- user-directed final-iteration override — **process all remaining 29 pages in one iteration**;
+- Pass-3 structural/visual corrections — **6 pages / scans 472, 474, 481, 501, 531, 537**;
+- Pass-3 Batch-7 corrections — **2 visual-note-only pages / scans 531, 537**;
+- Pass-3 lexical/body-text changes — **0**;
+- Batch-7 Pass-3 page correction commit — `558256c0624f32b3aee9479aebb70a734eab3118` — exact compare **2 page files only / scans 531, 537**;
 - **455→456 — GENUINE CONTINUATION**, preserved;
 - **466→467 — GENUINE CONTINUATION**, preserved;
 - **477→478 — CLEAN**, preserved;
 - **489→490 — GENUINE CONTINUATION**, preserved;
 - **501→502 — GENUINE CONTINUATION**, preserved;
-- **526→527 — CLEAN**, reconfirmed from scan 527 / printed 510 witness;
-- cumulative Pass 3 — **82/111**;
+- **526→527 — CLEAN**, preserved;
+- **555→556 — CLEAN / source-resolved**, preserved;
+- Pass 3 — **COMPLETE / PASS 111/111**;
 - durable Pass-3 log — `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_005.md`.
 
 ### Part 006 — SOURCE INTAKE COMPLETE / WAITING
@@ -312,4 +315,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Continue **Part 005 Pass 3 / Batch 7 — scans 527–551 / printed 510–534** using the user-directed **25-page cadence**. Preserve incoming **526→527 CLEAN** and inspect scan **552 / printed 535** only as the outgoing witness when required. Do not perform another lexical reread; keep page statuses `needs-review` / visual `needs-review`. Do not begin Part 006 transcription.
+Proceed with **Part 005 Part audit — scans 445–555 / printed 428–538**. Audit repository/control records for physical coverage, scan/local/printed-page mapping, closure of Source Intake + Pass 1 + Pass 2A + Pass 2B + Pass 3, continuity decisions, Kural/metadata structure, page furniture, source limits and status discipline. Reopen rendered source only if a concrete audit discrepancy requires it. Keep all page statuses `needs-review` / visual `needs-review` during the audit. Do not begin Part 006 transcription.

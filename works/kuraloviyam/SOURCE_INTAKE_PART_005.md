@@ -75,7 +75,7 @@ Workflow batch edges must never create artificial textual boundaries. Inspect th
 
 **Part 005 source intake: COMPLETE / PASS.**
 
-Pass 1 is **COMPLETE**; Pass 2A is **COMPLETE / PASS**; Pass 2B is **COMPLETE / PASS — 111/111**; Pass 3 is **ACTIVE — 82/111**.
+Pass 1 is **COMPLETE**; Pass 2A is **COMPLETE / PASS**; Pass 2B is **COMPLETE / PASS — 111/111**; Pass 3 is **COMPLETE / PASS — 111/111**; Part audit is **NEXT**.
 
 - P5-01 / scans **445–455 / printed 428–438** — **COMPLETE 11/11**;
 - P5-02 / scans **456–466 / printed 439–449** — **COMPLETE 11/11**;
@@ -170,17 +170,19 @@ Pass 1 is **COMPLETE**; Pass 2A is **COMPLETE / PASS**; Pass 2B is **COMPLETE / 
 - Pass 3 Batch 4 / scans **478–489 / printed 461–472** — **COMPLETE 12/12**;
 - Pass 3 Batch 5 / scans **490–501 / printed 473–484** — **COMPLETE 12/12**;
 - Pass 3 Batch 6 / scans **502–526 / printed 485–509** — **COMPLETE 25/25**;
-- user-directed Pass-3 cadence from Batch 6 onward — **25 physical scans per normal iteration**;
-- Pass-3 structural/visual corrections through Batch 6 — **4 pages / scans 472, 474, 481, 501**;
-- Pass-3 Batch-6 structural/visual corrections — **0**;
-- Pass-3 lexical/body-text changes through Batch 6 — **0**;
+- Pass 3 Batch 7 / final remainder / scans **527–555 / printed 510–538** — **COMPLETE 29/29**;
+- final-iteration user override — **all remaining 29 pages processed in one iteration**;
+- Pass-3 structural/visual corrections — **6 pages / scans 472, 474, 481, 501, 531, 537**;
+- Pass-3 lexical/body-text changes — **0**;
+- Batch-7 Pass-3 page correction commit — `558256c0624f32b3aee9479aebb70a734eab3118`;
 - **455→456 — GENUINE CONTINUATION** preserved;
 - **466→467 — GENUINE CONTINUATION** preserved;
 - **477→478 — CLEAN** preserved;
 - **489→490 — GENUINE CONTINUATION** preserved;
 - **501→502 — GENUINE CONTINUATION** preserved;
-- outgoing **526→527 — CLEAN**, reconfirmed from scan 527 / printed 510;
-- cumulative Pass 3 — **82/111**;
+- **526→527 — CLEAN** preserved;
+- outgoing Part boundary **555→556 — CLEAN / source-resolved**;
+- Pass 3 — **COMPLETE / PASS 111/111**;
 - Pass 3 log — `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_005.md`.
 
-Next: **Part 005 Pass 3 Batch 7 / scans 527–551 / printed 510–534 — 25 pages**. Verify meaningful visual/text fidelity against rendered source scans; this is not another lexical reread. Keep statuses `needs-review` / visual `needs-review` through Pass 3.
+Next: **Part 005 Part audit / scans 445–555 / printed 428–538**. Audit repository/control records after the closed source-verification chain. Keep statuses `needs-review` / visual `needs-review`; status promotion belongs only to the later final metadata/status synchronization gate.

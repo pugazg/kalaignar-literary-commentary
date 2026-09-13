@@ -481,19 +481,21 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - Batch 4 **478–489 / printed 461–472 — COMPLETE 12/12**;
 - Batch 5 **490–501 / printed 473–484 — COMPLETE 12/12**;
 - Batch 6 **502–526 / printed 485–509 — COMPLETE 25/25**;
-- user-directed Pass-3 cadence from Batch 6 onward — **25 physical scans per normal iteration**;
-- cumulative Pass 3 — **82/111**;
-- structural/visual corrections through Batch 6 — **4 pages / scans 472, 474, 481, 501**;
-- lexical/body-text changes through Batch 6 — **0**;
+- Batch 7 / final remainder **527–555 / printed 510–538 — COMPLETE 29/29**;
+- cumulative Pass 3 — **111/111 COMPLETE / PASS**;
+- structural/visual corrections — **6 pages / scans 472, 474, 481, 501, 531, 537**;
+- lexical/body-text changes — **0**;
+- Batch-7 page correction commit — `558256c0624f32b3aee9479aebb70a734eab3118`;
 - incoming **444→445 genuine continuation / source-resolved**;
 - **455→456 genuine continuation** preserved;
 - **466→467 genuine continuation** preserved;
 - **477→478 CLEAN** preserved;
 - **489→490 genuine continuation** preserved;
 - **501→502 genuine continuation** preserved;
-- **526→527 CLEAN** reconfirmed from scan 527 / printed 510 witness;
+- **526→527 CLEAN** preserved;
+- outgoing Part boundary **555→556 CLEAN / source-resolved** preserved;
 - current page statuses — **111 needs-review / 111 visual needs-review**.
 
 ## Current frontier
 
-**Part 005 Pass 3 Batch 7 — scans 527–551 / printed 510–534 — 25 pages.**
+**Part 005 Part audit — scans 445–555 / printed 428–538.**
