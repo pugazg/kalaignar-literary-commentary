@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 005 English Draft D4 Final Remainder
+# NEXT CHAT PROMPT — குறளோவியம் / Part 005 English Source-Check SC1
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -10,7 +10,7 @@ Part 005 Tamil is:
 
 **ARCHIVAL-READY / CLOSED — 111/111 textual verified + 111/111 visual verified / 0 exceptions.**
 
-Use the audited Tamil records under `works/kuraloviyam/pages/` as the normal translation authority. Do not reopen the PDF merely because English drafting continues.
+Use the audited Tamil page records under `works/kuraloviyam/pages/` as the normal source-check authority. The original scan remains ultimate source authority only if a genuinely new provenance/fidelity issue requires reopening it.
 
 ## English workflow
 
@@ -20,63 +20,74 @@ Permanent gate order:
 
 **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**
 
-Normal page-batched cadence: **33 physical scan pages**; final drafting remainder may be shorter.
+Normal page-batched cadence: **33 physical scan pages**; final remainders may be shorter.
 
-## Durable English drafting state
+## English first-pass drafting — COMPLETE / CLOSED 111/111
 
 - D1 — scans **445–477 / printed 428–460 — COMPLETE 33/33**;
 - D2 — scans **478–510 / printed 461–493 — COMPLETE 33/33**;
-- D3 — scans **511–543 / printed 494–526 — COMPLETE 33/33**.
+- D3 — scans **511–543 / printed 494–526 — COMPLETE 33/33**;
+- D4 final remainder — scans **544–555 / printed 527–538 — COMPLETE 12/12**.
 
-D3 page commits:
+D4 page commit:
 
-- `331d6e41e8155457f8bcea18e101eb5f1fe13e6f` — scans 511–521;
-- `6d5388ec95a14e552c348cecfb73fab440f8f135` — scans 522–532;
-- `eb8d8695df77bfc82bace2de775431ed9dd6b5e3` — scans 533–543.
+`4d8a8d1b8e81c3827498e31a00b055b660b143d8` — `kuraloviyam: Complete Part 005 English draft`.
 
-Exact D3 audit from `f5adde228fbc2a3af2123016f75e0aab8ba9f120` to `eb8d8695df77bfc82bace2de775431ed9dd6b5e3`:
+Exact D4 audit from `e077442534771d61efcc5ed31f7875b73ea65783` to `4d8a8d1b8e81c3827498e31a00b055b660b143d8`:
 
-- **3 commits ahead / non-divergent**;
-- exactly **33 changed files**;
-- all 33 are newly added Part-005 English page records, scans **511–543**;
+- **1 commit ahead / non-divergent**;
+- exactly **12 changed files**;
+- all 12 are newly added Part-005 English page records, scans **544–555**;
 - Tamil page changes — **0**;
-- control-document changes during the page layer — **0**.
+- control-document changes during the D4 page layer — **0**.
 
-Direct post-batch checks on scans **511, 527, 543** confirm `status: "draft"`, `source_tamil_status: "verified"`, and `translation_type: "project_translation"`.
+Direct post-batch checks on scans **544, 550 and 555** confirm:
 
-Cumulative Part-005 English state:
+- `status: "draft"`;
+- `source_tamil_status: "verified"`;
+- `translation_type: "project_translation"`.
 
-- English draft records — **99/111**;
-- `draft` — **99**;
+Drafting preserved:
+
+- incoming D4 **543→544 — GENUINE CONTINUATION**;
+- outgoing Part boundary **555→556 — CLEAN / source-resolved**.
+
+Final drafting state:
+
+- English page inventory — **111/111 present**;
+- `draft` — **111**;
 - `source-checked` — **0**;
 - `editorial-reviewed` — **0**;
 - `release-ready` — **0**;
 - `source-limited` — **0**;
 - `blocked` — **0**;
-- undrafted physical pages — **12**.
+- undrafted — **0**.
 
-D3 outgoing boundary **543→544 is GENUINE CONTINUATION**. Scan 543 begins the lovers' eye/self-reproach vignette and scan 544 continues it.
+No published, standard or web English Kural wording was imported. No Tamil archival record changed.
 
-## Exact next activity — Draft Batch D4 Final Remainder
+## Exact next activity — Source-Check SC1
 
-Create the final **12 page-aligned English draft records** for:
+Source-check:
 
-**scans 544–555 / printed 527–538**.
+**scans 445–477 / printed 428–460 — 33 pages**.
 
-Requirements:
+For each English record:
 
-- preserve incoming **543→544 GENUINE CONTINUATION**;
-- preserve outgoing Part boundary **555→556 CLEAN / source-resolved**;
-- use only the archival-ready Tamil records as the normal drafting authority;
-- preserve scan / printed-page alignment;
-- preserve paragraph, dialogue, quotation and cross-page continuation structure;
-- preserve Kural quotations as distinct blockquote material;
-- preserve Chapter/Kural numbers and controlled labels where available;
-- carry factual `## Visual material` sections where the Tamil record has meaningful visual evidence;
-- set each new English record to `status: "draft"`;
-- retain `translation_type: "project_translation"`, `source_tamil_status: "verified"`, and exact `source_tamil_file` linkage;
-- do not import published, standard, web, or remembered English Kural wording.
+- compare it directly with the corresponding audited Tamil record paragraph-by-paragraph / block-by-block;
+- verify that no Tamil proposition, relationship, speaker, qualifier, image, narrative turn, Kural meaning, source gloss, page furniture distinction or cross-page continuation was omitted, added, reversed or materially distorted;
+- correct English wording only when the audited Tamil record requires it;
+- preserve project-created translation identity;
+- preserve scan / printed-page alignment and physical-page splits;
+- preserve `## Visual material` where the Tamil record carries meaningful visual evidence;
+- preserve Kural quotation blocks and Chapter / Kural numbers;
+- do not perform glossary normalization beyond obvious source-fidelity needs; controlled-term reconciliation is the later glossary gate;
+- promote each passing record from `status: "draft"` to `status: "source-checked"`;
+- retain `source_tamil_status: "verified"` and exact `source_tamil_file` linkage;
+- do not use published, standard, web or remembered English Kural wording.
 
-After D4, English first-pass drafting will be **COMPLETE 111/111**. The next gate will be the maintained **English source-check** workflow, not Part 006.
+Boundary discipline:
+
+- incoming **444→445 — GENUINE CONTINUATION / source-resolved**;
+- outgoing SC1 boundary **477→478 — CLEAN**.
 
 Part 006 remains transcription-inactive until Part 005 completes the maintained English workflow and final Part closure.

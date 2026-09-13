@@ -297,11 +297,13 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - cumulative English drafting — **66/111**;
 - English Draft D3 — **511–543 / printed 494–526 — COMPLETE 33/33**;
 - cumulative English drafting — **99/111**;
-- current English status — **99 draft / 0 source-checked / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
-- remaining undrafted — **12**;
-- D3 endpoint — `eb8d8695df77bfc82bace2de775431ed9dd6b5e3`;
-- D3 page-only audit — **33 added English page files only / 0 Tamil changes / 0 control-file changes**;
-- next gate — **English Draft D4 final remainder / scans 544–555 / printed 527–538 — 12 pages**.
+- English Draft D4 final remainder — **544–555 / printed 527–538 — COMPLETE 12/12**;
+- English first-pass drafting — **COMPLETE / CLOSED 111/111**;
+- current English status — **111 draft / 0 source-checked / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
+- remaining undrafted — **0**;
+- D4 endpoint — `4d8a8d1b8e81c3827498e31a00b055b660b143d8`;
+- D4 page-only audit — **12 added English page files only / 0 Tamil changes / 0 control-file changes**;
+- next gate — **English source-check SC1 / scans 445–477 / printed 428–460 — 33 pages**.
 
 ## Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -311,4 +313,4 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ## Exact next activity
 
-Proceed with **Part 005 English Draft D4 final remainder / scans 544–555 / printed 527–538 — 12 pages**. Preserve **543→544 GENUINE CONTINUATION** and **555→556 CLEAN / source-resolved**, use the archival-ready Tamil records as normal authority, keep new records at `draft`, and do not import external English wording. Do not start Part 006 transcription.
+Proceed with **Part 005 English source-check SC1 / scans 445–477 / printed 428–460 — 33 pages**. Compare English directly against the audited Tamil records, correct only source-fidelity issues, promote passing pages to `source-checked`, preserve **444→445 GENUINE CONTINUATION** and **477→478 CLEAN**, and do not import external English wording. Do not start Part 006 transcription.

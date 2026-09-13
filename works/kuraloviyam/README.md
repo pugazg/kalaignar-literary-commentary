@@ -297,9 +297,11 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - English Draft D1 — **445–477 / printed 428–460 — COMPLETE 33/33**;
 - English Draft D2 — **478–510 / printed 461–493 — COMPLETE 33/33**;
 - English Draft D3 — **511–543 / printed 494–526 — COMPLETE 33/33**;
-- Part-005 English drafting — **99/111 complete / 12 remaining**;
-- current English state — **99 draft / 0 source-checked / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
-- D3 page-only audit — **exactly 33 added English page records / 0 Tamil changes**;
+- English Draft D4 final remainder — **544–555 / printed 527–538 — COMPLETE 12/12**;
+- Part-005 English first-pass drafting — **COMPLETE / CLOSED 111/111**;
+- current English state — **111 draft / 0 source-checked / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
+- remaining undrafted — **0**;
+- D4 page-only audit — **exactly 12 added English page records / 0 Tamil changes**;
 - **555→556 CLEAN**.
 
 ## Part 006 — SOURCE-READY / WAITING
@@ -311,4 +313,4 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 
 ## Current frontier
 
-**Part 005 English Draft D4 final remainder — scans 544–555 / printed 527–538 — 12 pages.**
+**Part 005 English source-check SC1 — scans 445–477 / printed 428–460 — 33 pages.**

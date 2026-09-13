@@ -415,7 +415,7 @@ Boundaries:
 - incoming **444→445 — GENUINE CONTINUATION / source-resolved**;
 - outgoing **555→556 — CLEAN / source-resolved**.
 
-## Part 005 English first-pass drafting — IN PROGRESS 99/111
+## Part 005 English first-pass drafting — COMPLETE / CLOSED 111/111
 
 ### Draft Batch D1 — COMPLETE 33/33
 
@@ -544,6 +544,53 @@ No published, standard or web English Kural wording was imported. No Tamil archi
 
 Part 006 remains blocked until Part 005 completes its maintained English workflow and final Part closure.
 
+### Draft Batch D4 — COMPLETE 12/12 / FINAL REMAINDER
+
+- scans **544–555 / printed 527–538**;
+- English records created — **12/12**;
+- status — **12 `draft`**;
+- source-limited — **0**;
+- blocked — **0**;
+- source Tamil linkage — **12/12 exact / `verified`**;
+- translation type — **12/12 `project_translation`**;
+- incoming **543→544 GENUINE CONTINUATION** preserved;
+- outgoing Part boundary **555→556 CLEAN / source-resolved** preserved.
+
+D4 page commit:
+
+- `4d8a8d1b8e81c3827498e31a00b055b660b143d8` — scans 544–555.
+
+Exact D4 audit from D3 control checkpoint `e077442534771d61efcc5ed31f7875b73ea65783` to D4 endpoint `4d8a8d1b8e81c3827498e31a00b055b660b143d8`:
+
+- **1 commit ahead / non-divergent**;
+- exactly **12 changed files**;
+- all 12 are newly added Part-005 English page records, scans **544–555**;
+- Tamil page changes — **0**;
+- control-document changes during the page layer — **0**.
+
+Direct post-batch checks on scans **544, 550 and 555** confirm `status: "draft"`, `source_tamil_status: "verified"`, and `translation_type: "project_translation"`.
+
+Part-005 English first-pass drafting is now **COMPLETE / CLOSED 111/111**.
+
+Final post-drafting state:
+
+- English page inventory — **111/111 present**;
+- `draft` — **111**;
+- `source-checked` — **0**;
+- `editorial-reviewed` — **0**;
+- `release-ready` — **0**;
+- `source-limited` — **0**;
+- `blocked` — **0**;
+- undrafted — **0**.
+
+No published, standard or web English Kural wording was imported. No Tamil archival record changed.
+
+## Part 005 English source-check — NOT STARTED
+
+Normal source-check cadence: **33 physical scans per iteration**, with a shorter final remainder if required.
+
+The source-check compares each project English record directly against its audited Tamil archival counterpart, paragraph-by-paragraph / block-by-block. Source-fidelity corrections are allowed when required by the audited Tamil record. Passing records are promoted from `draft` to `source-checked`. Glossary normalization beyond obvious fidelity requirements belongs to the later glossary-reconciliation gate.
+
 ## Exact next English activity
 
-**Part 005 Draft Batch D4 final remainder — scans 544–555 / printed 527–538 — 12 pages.**
+**Part 005 Source-Check SC1 — scans 445–477 / printed 428–460 — 33 pages.**

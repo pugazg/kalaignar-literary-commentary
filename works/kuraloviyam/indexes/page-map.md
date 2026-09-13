@@ -549,14 +549,15 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - D1 — **445–477 / printed 428–460 — COMPLETE 33/33**;
 - D2 — **478–510 / printed 461–493 — COMPLETE 33/33**;
 - D3 — **511–543 / printed 494–526 — COMPLETE 33/33**;
-- cumulative English draft records — **99/111**;
-- remaining undrafted — **12**;
-- current status distribution — **99 draft / 0 source-checked / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
-- D3 endpoint — `eb8d8695df77bfc82bace2de775431ed9dd6b5e3`;
-- D3 exact page-layer compare — **33 added English page files only**;
-- incoming **510→511 CLEAN** preserved;
-- **543→544 GENUINE CONTINUATION** preserved as the next-batch boundary.
+- D4 final remainder — **544–555 / printed 527–538 — COMPLETE 12/12**;
+- cumulative English draft records — **111/111 COMPLETE / CLOSED**;
+- remaining undrafted — **0**;
+- current status distribution — **111 draft / 0 source-checked / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
+- D4 endpoint — `4d8a8d1b8e81c3827498e31a00b055b660b143d8`;
+- D4 exact page-layer compare — **12 added English page files only**;
+- incoming **543→544 GENUINE CONTINUATION** preserved;
+- outgoing **555→556 CLEAN / source-resolved** preserved.
 
 ## Current frontier
 
-**Part 005 English Draft D4 final remainder — scans 544–555 / printed 527–538 — 12 pages.**
+**Part 005 English source-check SC1 — scans 445–477 / printed 428–460 — 33 pages.**
