@@ -387,8 +387,12 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - exact GR4 compare from `736f1f14d167497798a6dba51a2fa44f0c8bd952` to `a0eb5f0858f003106678b4f1a6ca4bb9ba6b0a05` — **2 commits ahead / 5 modified files: GLOSSARY.md + English scans 551, 553, 554, 555 / 0 Tamil changes / 0 status changes**;
 - Part-005 English glossary reconciliation — **COMPLETE / CLOSED 111/111**;
 - cumulative glossary reconciliation — **111/111 COMPLETE / CLOSED**;
-- current Part-005 English state — **111 source-checked / 0 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
-- next maintained English gate — **Editorial review ER1 / scans 445–477 / printed 428–460 — 33 pages**.
+- English editorial review ER1 — **445–477 / printed 428–460 — COMPLETE / PASS 33/33**;
+- ER1 endpoint — `7e9c90a4109cd8a627d3d31bde74d226100c9aba`;
+- exact ER1 compare from `8fd0069f235b69e31fb8c7cd4a6e80582e0cb305` to `7e9c90a4109cd8a627d3d31bde74d226100c9aba` — **6 commits ahead / exactly 33 modified English page files / 0 Tamil changes / 33 status promotions**;
+- ER1 source-faithful readability refinements — **9 page files / scans 448, 457, 461, 465, 466, 468, 469, 472, 476**;
+- current Part-005 English state — **78 source-checked / 0 draft / 33 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
+- next maintained English gate — **Editorial review ER2 / scans 478–510 / printed 461–493 — 33 pages**.
 
 ### Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -399,4 +403,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Continue **Part 005 English editorial review ER1 — scans 445–477 / printed 428–460 — 33 pages**. Perform a source-faithful English readability/editorial pass against the audited Tamil records while preserving project-created translation identity, page alignment, Kural quotation blocks, controlled glossary terminology, Chapter/Kural metadata, visual material and established continuities. Make only source-supported readability/style refinements; do not import published/web/standard English Kural wording or terminology. Passing pages move from `source-checked` to `editorial-reviewed`. Preserve incoming **444→445 GENUINE CONTINUATION / source-resolved** and outgoing **477→478 CLEAN**. Part 006 remains blocked.
+Continue **Part 005 English editorial review ER2 — scans 478–510 / printed 461–493 — 33 pages**. Perform a source-faithful English readability/editorial pass against the audited Tamil records while preserving project-created translation identity, page alignment, Kural quotation blocks, controlled glossary terminology, Chapter/Kural metadata, visual material and established continuities. Make only source-supported readability/style refinements; do not import published/web/standard English Kural wording or terminology. Passing pages move from `source-checked` to `editorial-reviewed`. Preserve incoming **477→478 CLEAN** and outgoing **510→511 CLEAN**. Part 006 remains blocked.

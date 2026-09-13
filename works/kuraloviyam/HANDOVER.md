@@ -333,8 +333,12 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - GR4 exact change set — **5 files / GLOSSARY.md + English scans 551, 553, 554, 555 / 0 Tamil changes / 0 status changes**;
 - English glossary reconciliation — **COMPLETE / CLOSED 111/111**;
 - cumulative glossary reconciliation — **111/111 COMPLETE / CLOSED**;
-- current English status — **111 source-checked / 0 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
-- next gate — **English editorial review ER1 / scans 445–477 / printed 428–460 — 33 pages**.
+- English editorial review ER1 — **445–477 / printed 428–460 — COMPLETE / PASS 33/33**;
+- ER1 endpoint — `7e9c90a4109cd8a627d3d31bde74d226100c9aba`;
+- ER1 exact change set — **33 English page files / 33 status promotions / 9 page wording refinements / 0 Tamil changes**;
+- ER1 wording-refinement pages — **448, 457, 461, 465, 466, 468, 469, 472, 476**;
+- current English status — **78 source-checked / 0 draft / 33 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
+- next gate — **English editorial review ER2 / scans 478–510 / printed 461–493 — 33 pages**.
 
 ## Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -344,4 +348,4 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ## Exact next activity
 
-Proceed with **Part 005 English editorial review ER1 / scans 445–477 / printed 428–460 — 33 pages**. Perform a source-faithful readability/editorial pass against the audited Tamil records; preserve controlled glossary terminology, project-created wording identity, Kural blocks, metadata, visual notes and physical-page continuity. Make only justified English readability/style refinements, promote passing pages from `source-checked` to `editorial-reviewed`, preserve **444→445 GENUINE CONTINUATION / source-resolved** and **477→478 CLEAN**, and do not import external or standard English wording. Do not start Part 006 transcription.
+Proceed with **Part 005 English editorial review ER2 / scans 478–510 / printed 461–493 — 33 pages**. Perform a source-faithful readability/editorial pass against the audited Tamil records; preserve controlled glossary terminology, project-created wording identity, Kural blocks, metadata, visual notes and physical-page continuity. Make only justified English readability/style refinements, promote passing pages from `source-checked` to `editorial-reviewed`, preserve **477→478 CLEAN** and **510→511 CLEAN**, and do not import external or standard English wording. Do not start Part 006 transcription.
