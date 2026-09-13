@@ -68,7 +68,7 @@ Vayalooran stood stunned.
 > What use is melody if it does not accord with song?  
 > What use are eyes that possess no compassionate regard?
 
-Chapter 58 — Compassionate Regard; Kural 573
+Chapter 58 — Gracious Regard; Kural 573
 
 கண்ணோட்டம் = grace, pity, compassion
 

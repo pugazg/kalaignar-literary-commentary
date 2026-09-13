@@ -44,7 +44,7 @@ Here is the Kural:
 > A person's strength is the inner surge of resolve;  
 > those without it differ from trees only in human form.
 
-Chapter 60 — Possession of Inner Drive; Kural 600
+Chapter 60 — Possession of Resolve; Kural 600
 
 உள்ளவெறுக்கை = inner rising, abundance of resolve
 

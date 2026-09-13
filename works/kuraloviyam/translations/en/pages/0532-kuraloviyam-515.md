@@ -46,6 +46,6 @@ Here is the Kural:
 
 Chapter 103 — The Work of Sustaining One's House and Line; Kural 1021
 
-கைதூவேன் = I will not grow weary and withdraw
+கைதூவேன் = I will not grow weary
 
 <!-- Source scan page: 532; printed page: 515; genuine continuation from scan 531 closes here with Chapter 103 / Kural 1021; scan 533 / printed 516 begins a new illustrated vignette, so 532→533 is CLEAN -->

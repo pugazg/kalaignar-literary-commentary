@@ -68,7 +68,7 @@ Here is the Kural:
 > Those who do excessive evil through arrogance  
 > may be conquered by one's own quality of patience.
 
-Chapter 16 — Possession of Forbearance; Kural 158
+Chapter 16 — Forbearance; Kural 158
 
 மிகுதி = arrogance
 

@@ -38,6 +38,6 @@ After that explanation there was no room left for speech.
 > Even if it causes shameful suffering, the drunkard desires liquor again;  
 > so, thief, is your chest to me.
 
-Chapter 129 — Longing for Union; Kural 1288
+Chapter 129 — Yearning for Union; Kural 1288
 
 <!-- Source scan page: 521; printed page: 504; genuine continuation from scan 520 closes here with Chapter 129 / Kural 1288; scan 522 / printed 505 begins a new illustrated false-praise / puppet-like-dependence vignette, so 521→522 is CLEAN -->

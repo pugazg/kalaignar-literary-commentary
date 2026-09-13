@@ -40,7 +40,7 @@ And Valluvar wrote two thousand years ago that such a thing could happen.
 > If a cruel sceptre rules by deeds that create terror,  
 > its certain end will come quickly.
 
-Chapter 57 — Avoiding Rule that Inspires Fear; Kural 563
+Chapter 57 — Avoiding Tyrannical Severity; Kural 563
 
 வெருவந்த = something that causes fear
 
