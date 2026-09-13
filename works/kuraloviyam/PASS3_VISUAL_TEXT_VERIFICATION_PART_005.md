@@ -8,7 +8,7 @@
 - Physical scans: **111**
 - Gate: **Pass 3 — meaningful visual/text fidelity verification**
 - Initial cadence: **11 physical scans per normal iteration unless the user changes the cadence**
-- Status: **ACTIVE — 11/111 complete; next Batch 2 / scans 456–466**
+- Status: **ACTIVE — 22/111 complete; next Batch 3 / scans 467–477**
 
 ## Preconditions
 
@@ -70,21 +70,51 @@ No final status promotion occurs during Pass 3. All Part-005 page records remain
 - Status promotion: **0**.
 - All Part-005 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
 
+## Batch 2 — scans 456–466 / printed 439–449
+
+**Result: COMPLETE — 11 / 11.**
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 456 | 439 | **NO STRUCTURAL CHANGE** — text-only genuine continuation/closure of the court-jester challenge; the original Kural, the jester's altered-word joke, and the final Kural 969 / Chapter 97 block remain in the correct prose/quotation order. |
+| 457 | 440 | **NO STRUCTURAL CHANGE** — large upper moonlit river-rescue illustration remains above the prose, showing the young man supporting the rescued woman; the rescue vignette begins below and continues to scan 458. |
+| 458 | 441 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 103 and Chapter 11 metadata remain correctly separated above the small monument page furniture. |
+| 459 | 442 | **NO STRUCTURAL CHANGE** — large upper composite illustration remains above the prose and is consistent with the Mankadu arrogant-doctor narrative; the vignette begins below and continues to scan 460. |
+| 460 | 443 | **NO STRUCTURAL CHANGE** — text-only continuation of the Mankadu doctor vignette; the sequence of insult/alienation episodes remains continuous and continues directly to scan 461. |
+| 461 | 444 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 873, Chapter 88 metadata and three source glosses remain correctly grouped above the red chariot/Valluvar Kottam page furniture. |
+| 462 | 445 | **NO STRUCTURAL CHANGE** — large upper illustration of embracing lovers with a torch-bearing silhouette behind remains above the prose; the lovers/pallor vignette begins below and continues to scan 463. |
+| 463 | 446 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 1238, Chapter 124 metadata and the two source glosses remain correctly separated. |
+| 464 | 447 | **NO STRUCTURAL CHANGE** — large upper illustration of Athanar reclining with a woman while holding a document and goblet remains above the prose; the Koothan prohibition-policy vignette begins below and continues to scan 465. |
+| 465 | 448 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 637, Chapter 64 metadata and the parenthetical source gloss remain correctly ordered. |
+| 466 | 449 | **NO STRUCTURAL CHANGE** — large upper embracing-lovers illustration beside an oil lamp remains above the prose; the festival-separation letter vignette begins below and continues directly to scan 467. |
+
+### Boundary / continuity result
+
+- Incoming **455→456 GENUINE CONTINUATION** remains confirmed and closes on scan 456 with Chapter 97 / Kural 969.
+- **466→467 is a GENUINE CONTINUATION**, reconfirmed from scan **467 / printed 450**: scan 466 opens the festival-separation letter and scan 467 continues and closes it with Chapter 128 / Kural 1272.
+- Scan 467 was used only as the outgoing witness and is **not** counted in Batch 2.
+
+### Batch 2 correction summary
+
+- Structural/visual-description corrections: **0**.
+- No-change scans: **456–466 — 11 pages**.
+- Lexical/body-text changes: **0**.
+- Status promotion: **0**.
+- All Part-005 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+
 ## Current Pass 3 coverage
 
-- complete — **11/111 scans**;
-- remaining — **100 scans**;
+- complete — **22/111 scans**;
+- remaining — **89 scans**;
 - Batch 1 — **445–455 / printed 428–438 — COMPLETE 11/11**;
+- Batch 2 — **456–466 / printed 439–449 — COMPLETE 11/11**;
 - incoming Part boundary **444→445 — GENUINE CONTINUATION / source-resolved**;
-- outgoing Batch-1 boundary **455→456 — GENUINE CONTINUATION**;
+- **455→456 — GENUINE CONTINUATION** preserved;
+- outgoing Batch-2 boundary **466→467 — GENUINE CONTINUATION**;
 - current page statuses — **111 needs-review / 111 visual needs-review**.
 
-## Exact next activity — Batch 2
+## Exact next activity — Batch 3
 
-Process scans **456–466 / printed 439–449**.
+Process scans **467–477 / printed 450–460**.
 
-Preserve incoming **455→456 GENUINE CONTINUATION**. Inspect scan **467 / printed 450** only as the outgoing boundary witness when required. Record per-page Pass-3 structural/visual results, commit only source-required record changes, compare the batch base→head changed-file set, and keep all review flags unchanged.
-
-Process scans **445–455 / printed 428–438**.
-
-Preserve incoming **444→445 GENUINE CONTINUATION / source-resolved**. Inspect scan **456 / printed 439** only as the outgoing boundary witness when required. Record per-page Pass-3 structural/visual results, commit only source-required record changes, compare the batch base→head changed-file set, and keep all review flags unchanged.
+Preserve incoming **466→467 GENUINE CONTINUATION**. Inspect scan **478 / printed 461** only as the outgoing boundary witness when required. Record per-page Pass-3 structural/visual results, commit only source-required record changes, compare the batch base→head changed-file set, and keep all review flags unchanged.

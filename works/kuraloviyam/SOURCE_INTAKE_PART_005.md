@@ -75,7 +75,7 @@ Workflow batch edges must never create artificial textual boundaries. Inspect th
 
 **Part 005 source intake: COMPLETE / PASS.**
 
-Pass 1 is **COMPLETE**; Pass 2A is **COMPLETE / PASS**; Pass 2B is **COMPLETE / PASS — 111/111**; Pass 3 is **ACTIVE — 11/111**.
+Pass 1 is **COMPLETE**; Pass 2A is **COMPLETE / PASS**; Pass 2B is **COMPLETE / PASS — 111/111**; Pass 3 is **ACTIVE — 22/111**.
 
 - P5-01 / scans **445–455 / printed 428–438** — **COMPLETE 11/11**;
 - P5-02 / scans **456–466 / printed 439–449** — **COMPLETE 11/11**;
@@ -165,10 +165,12 @@ Pass 1 is **COMPLETE**; Pass 2A is **COMPLETE / PASS**; Pass 2B is **COMPLETE / 
 - Pass 2B log — `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_005.md`;
 - durable Pass-2A log — `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_005.md`;
 - Pass 3 Batch 1 / scans **445–455 / printed 428–438** — **COMPLETE 11/11**;
-- Batch-1 Pass-3 structural/visual corrections — **0**;
-- Batch-1 Pass-3 lexical/body-text changes — **0**;
-- outgoing **455→456 — GENUINE CONTINUATION**, reconfirmed from scan 456 / printed 439;
-- cumulative Pass 3 — **11/111**;
+- Pass 3 Batch 2 / scans **456–466 / printed 439–449** — **COMPLETE 11/11**;
+- Pass-3 Batches 1–2 structural/visual corrections — **0**;
+- Pass-3 Batches 1–2 lexical/body-text changes — **0**;
+- **455→456 — GENUINE CONTINUATION** preserved;
+- outgoing **466→467 — GENUINE CONTINUATION**, reconfirmed from scan 467 / printed 450;
+- cumulative Pass 3 — **22/111**;
 - Pass 3 log — `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_005.md`.
 
-Next: **Part 005 Pass 3 Batch 2 / scans 456–466 / printed 439–449**. Verify meaningful visual/text fidelity against rendered source scans; this is not another lexical reread. Keep statuses `needs-review` / visual `needs-review` through Pass 3.
+Next: **Part 005 Pass 3 Batch 3 / scans 467–477 / printed 450–460**. Verify meaningful visual/text fidelity against rendered source scans; this is not another lexical reread. Keep statuses `needs-review` / visual `needs-review` through Pass 3.

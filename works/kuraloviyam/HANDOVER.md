@@ -257,12 +257,14 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - Pass 2B log — `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_005.md`;
 - durable Pass-2A log — `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_005.md`;
 - Pass 3 Batch 1 — **445–455 / printed 428–438 — COMPLETE 11/11**;
-- Pass-3 Batch-1 structural/visual corrections — **0**;
-- Pass-3 Batch-1 lexical/body-text changes — **0**;
-- **455→456 GENUINE CONTINUATION** reconfirmed from scan 456 / printed 439 witness;
-- cumulative Pass 3 — **11/111**;
+- Pass 3 Batch 2 — **456–466 / printed 439–449 — COMPLETE 11/11**;
+- Pass-3 Batches 1–2 structural/visual corrections — **0**;
+- Pass-3 Batches 1–2 lexical/body-text changes — **0**;
+- **455→456 GENUINE CONTINUATION** preserved;
+- **466→467 GENUINE CONTINUATION** reconfirmed from scan 467 / printed 450 witness;
+- cumulative Pass 3 — **22/111**;
 - Pass 3 log — `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_005.md`;
-- next gate — **Pass 3 Batch 2 / scans 456–466 / printed 439–449**.
+- next gate — **Pass 3 Batch 3 / scans 467–477 / printed 450–460**.
 
 ## Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -272,4 +274,4 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ## Exact next activity
 
-Proceed with **Part 005 Pass 3 Batch 2 / scans 456–466 / printed 439–449** as meaningful visual/text fidelity verification. Preserve **455→456 GENUINE CONTINUATION**, use scan 467 only as the outgoing witness when required, do not perform another lexical reread, keep statuses `needs-review` / visual `needs-review`, and do not start Part 006 transcription.
+Proceed with **Part 005 Pass 3 Batch 3 / scans 467–477 / printed 450–460** as meaningful visual/text fidelity verification. Preserve **466→467 GENUINE CONTINUATION**, use scan 478 only as the outgoing witness when required, do not perform another lexical reread, keep statuses `needs-review` / visual `needs-review`, and do not start Part 006 transcription.

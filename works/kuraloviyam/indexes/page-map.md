@@ -476,13 +476,15 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 ## Part 005 Pass-3 verification map
 
 - Batch 1 **445–455 / printed 428–438 — COMPLETE 11/11**;
-- cumulative Pass 3 — **11/111**;
-- structural/visual corrections Batch 1 — **0**;
-- lexical/body-text changes Batch 1 — **0**;
+- Batch 2 **456–466 / printed 439–449 — COMPLETE 11/11**;
+- cumulative Pass 3 — **22/111**;
+- structural/visual corrections through Batch 2 — **0**;
+- lexical/body-text changes through Batch 2 — **0**;
 - incoming **444→445 genuine continuation / source-resolved**;
-- **455→456 genuine continuation** reconfirmed from scan 456 / printed 439 witness;
+- **455→456 genuine continuation** preserved;
+- **466→467 genuine continuation** reconfirmed from scan 467 / printed 450 witness;
 - current page statuses — **111 needs-review / 111 visual needs-review**.
 
 ## Current frontier
 
-**Part 005 Pass 3 Batch 2 — scans 456–466 / printed 439–449.**
+**Part 005 Pass 3 Batch 3 — scans 467–477 / printed 450–460.**
