@@ -207,7 +207,7 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 ### Part 005 — overall scans 445–555
 
-**SOURCE INTAKE: PASS / COMPLETE. PASS 1: COMPLETE 111/111. PASS 2A: NEXT.**
+**SOURCE INTAKE: PASS / COMPLETE. PASS 1: COMPLETE 111/111. PASS 2A: ACTIVE 11/111.**
 
 - P5-01 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - P5-02 — **456–466 / printed 439–449 — COMPLETE 11/11**;
@@ -223,7 +223,13 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 - current captured records — **111 `needs-review` / visual `needs-review`**;
 - final Pass-1 exact compare — **12 page files only / scans 544–555**;
 - **555→556 CLEAN**;
-- durable progress — `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
+- Pass 2A Batch 1 — **445–455 / printed 428–438 — COMPLETE 11/11**;
+- cumulative Pass 2A — **11/111**;
+- Batch-1 corrections — **2 page records / 3 source-supported readings**;
+- Batch-1 correction commit — `ac7659d900b260f0211eae9ebacf5b14d1d01528` — **2 page files only**;
+- **455→456 GENUINE CONTINUATION**;
+- durable Pass-1 progress — `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`;
+- durable Pass-2A log — `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_005.md`.
 
 ### Part 006 — overall scans 556–666
 
@@ -234,4 +240,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 ### Exact next content stage
 
-Begin **Part 005 Pass 2A Batch 1 — scans 445–455 / printed 428–438**. Directly verify wording, punctuation, paragraph boundaries, Kural blocks/metadata, page mapping and source-visible structure against rendered scans. Do not promote final textual/visual status during Pass 2A; Pass 2B and Pass 3 still remain mandatory. Do not begin Part 006 transcription yet.
+Continue **Part 005 Pass 2A Batch 2 — scans 456–466 / printed 439–449**. Preserve the incoming **455→456 GENUINE CONTINUATION** and inspect scan **467 / printed 450** only as the outgoing witness when required. Do not promote final textual/visual status during Pass 2A; Pass 2B and Pass 3 still remain mandatory. Do not begin Part 006 transcription yet.

@@ -174,7 +174,7 @@ Durable documentation-sync record: `PART_003_DOCUMENTATION_SYNC.md`.
 
 Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained English is **111/111 release-ready**.
 
-## Part 005 — PASS 1 COMPLETE / PASS 2A NEXT
+## Part 005 — PASS 1 COMPLETE / PASS 2A ACTIVE
 
 - source intake — **PASS / COMPLETE**;
 - P5-01 — **445–455 / printed 428–438 — COMPLETE 11/11**;
@@ -189,7 +189,13 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - P5-10 / final remainder — **544–555 / printed 527–538 — COMPLETE 12/12**;
 - cumulative Pass 1 — **111/111 COMPLETE**;
 - current captured records — **111 needs-review / visual needs-review**;
-- durable progress — `PART_005_PASS1_PROGRESS.md`;
+- durable Pass-1 progress — `PART_005_PASS1_PROGRESS.md`;
+- Pass 2A Batch 1 — **445–455 / printed 428–438 — COMPLETE 11/11**;
+- cumulative Pass 2A — **11/111**;
+- corrections — **2 page records / 3 source-supported readings**;
+- correction commit — `ac7659d900b260f0211eae9ebacf5b14d1d01528`;
+- durable Pass-2A log — `PASS2_TEXTUAL_VERIFICATION_PART_005.md`;
+- **455→456 GENUINE CONTINUATION**;
 - **555→556 CLEAN**.
 
 ## Part 006 — SOURCE-READY / WAITING
@@ -201,4 +207,4 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 
 ## Current frontier
 
-**Part 005 Pass 2A Batch 1 — scans 445–455 / printed 428–438.**
+**Part 005 Pass 2A Batch 2 — scans 456–466 / printed 439–449.**

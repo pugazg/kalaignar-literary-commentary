@@ -402,6 +402,14 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - **555→556 CLEAN**;
 - scan 666 is the physical source endpoint.
 
+## Part 005 Pass-2A verification map
+
+- Batch 1 **445–455 / printed 428–438 — COMPLETE 11/11**;
+- cumulative Pass 2A — **11/111**;
+- corrected scans — **447, 451**;
+- **444→445 genuine continuation** preserved from source intake / closed Part 004;
+- **455→456 genuine continuation**, reconfirmed from scan 456 / printed 439 witness.
+
 ## Current frontier
 
-**Part 005 Pass 2A Batch 1 — scans 445–455 / printed 428–438.**
+**Part 005 Pass 2A Batch 2 — scans 456–466 / printed 439–449.**

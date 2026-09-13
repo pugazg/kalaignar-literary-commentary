@@ -151,7 +151,7 @@ Boundary **555→556** is **CLEAN**: scan 555 closes Chapter 89 / Kural 881; sca
 
 Detailed intake: `works/kuraloviyam/SOURCE_INTAKE_PART_005.md`.
 
-Part 005 Pass 1 is **COMPLETE**: scans **445–555 / printed 428–538**, **111/111** records captured, all as `status: "needs-review"` / `visual_fidelity: "needs-review"`. Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`. The final Pass-1 page commit is `e636f7d4c6bd02fb9db244a8989e22a04b6c0cb6`; its exact compare changes **12 page files only / scans 544–555**. The Part boundary **555→556** remains **CLEAN**. Next is **Part 005 Pass 2A Batch 1 / scans 445–455 / printed 428–438**.
+Part 005 Pass 1 is **COMPLETE**: scans **445–555 / printed 428–538**, **111/111** records captured, all as `status: "needs-review"` / `visual_fidelity: "needs-review"`. Durable Pass-1 progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`. The final Pass-1 page commit is `e636f7d4c6bd02fb9db244a8989e22a04b6c0cb6`; its exact compare changes **12 page files only / scans 544–555**. Pass 2A is **ACTIVE**: Batch 1 / scans **445–455 / printed 428–438** is **COMPLETE 11/11**, with source-supported corrections on scans **447** and **451** only; correction commit `ac7659d900b260f0211eae9ebacf5b14d1d01528`. The outgoing **455→456** boundary is **GENUINE CONTINUATION**. Next is **Part 005 Pass 2A Batch 2 / scans 456–466 / printed 439–449**.
 
 ## Part 006 source identity and provenance
 

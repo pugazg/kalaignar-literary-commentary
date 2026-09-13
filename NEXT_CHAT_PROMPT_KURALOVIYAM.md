@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 005 Pass 2A Batch 1
+# NEXT CHAT PROMPT — குறளோவியம் / Part 005 Pass 2A Batch 2
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`.
 
@@ -12,36 +12,33 @@ Parts **001–004 remain closed**. Do not reopen them.
 
 `TVA_BOK_0065733_குறளோவியம்_part_005_pages_445-555.pdf`
 
-Source intake is **PASS / COMPLETE**. Rendered scans are controlling; no usable parsed text layer exists.
+Rendered scans are controlling; no usable parsed text layer exists.
 
 ## Durable Tamil state
 
+- source intake — **PASS / COMPLETE**;
 - Pass 1 — **COMPLETE 111/111**;
-- P5-01 through P5-09 — **COMPLETE**;
-- P5-10 / final remainder — **544–555 / printed 527–538 — COMPLETE 12/12**;
-- all **111/111** page records exist;
-- all 111 remain `status: "needs-review"` / `visual_fidelity: "needs-review"`;
-- final Pass-1 page-layer commit — `e636f7d4c6bd02fb9db244a8989e22a04b6c0cb6`;
-- exact final Pass-1 compare from `ede8f2e8f950359abe2da5d3c9db116c0d04f71a` to `e636f7d4c6bd02fb9db244a8989e22a04b6c0cb6` — **12 files only / scans 544–555**;
-- **543→544 GENUINE CONTINUATION**;
-- **555→556 CLEAN**;
-- durable Pass-1 progress — `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
+- all 111 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`;
+- Pass 2A Batch 1 — **445–455 / printed 428–438 — COMPLETE 11/11**;
+- cumulative Pass 2A — **11/111**;
+- corrections in Batch 1 — **2 records / 3 readings**:
+  - scan 447 — `கேவிக்` → source-visible `கேலிக்`;
+  - scan 451 — `விளக்குகள்` → `விலங்கினங்கள்`;
+  - scan 451 — `குறையாடிவிட்டு` → `சூறையாடிவிட்டு`;
+- correction commit — `ac7659d900b260f0211eae9ebacf5b14d1d01528`;
+- exact compare from pre-batch `06352ed4a732fb6f1fc566ec1b0826e0ae3a0168` to correction endpoint `ac7659d900b260f0211eae9ebacf5b14d1d01528` — **2 page files only / scans 447 and 451**;
+- incoming **444→445 GENUINE CONTINUATION** preserved without reopening closed Part 004;
+- outgoing **455→456 GENUINE CONTINUATION**, checked from scan 456 / printed 439 witness;
+- durable Pass-2A log — `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_005.md`.
 
-Part 006 is source-intake complete but remains transcription-inactive until the entire Part 005 workflow closes.
+Part 006 remains transcription-inactive until the entire Part 005 workflow closes.
 
-## Exact next activity — Pass 2A Batch 1
+## Exact next activity — Pass 2A Batch 2
 
-Process scans **445–455 / printed 428–438**.
+Process scans **456–466 / printed 439–449**.
 
-For each page, directly compare the current repository record against the rendered scan for:
+Directly compare each current page record against the rendered scan for lexical wording, punctuation/quotation structure, paragraph boundaries, Kural wording/lineation, printed chapter/Kural metadata, glosses, mapping, continuation structure and non-body separation.
 
-- lexical wording;
-- punctuation and quotation structure;
-- paragraph boundaries;
-- Kural wording and lineation;
-- `அதிகாரம்` / chapter and `பாடல்` / Kural metadata;
-- source glosses;
-- page mapping and continuation structure;
-- non-body/illustration separation.
+Preserve the incoming **455→456 GENUINE CONTINUATION**. Inspect scan **467 / printed 450** only as the outgoing boundary witness when required.
 
-Apply only source-supported corrections. Keep page status `needs-review` / visual `needs-review`; do not promote final verification during Pass 2A. Record the batch in a durable Part 005 Pass-2A log and synchronize the live frontier. Do not begin Part 006 transcription.
+Apply only source-supported corrections. Keep page status `needs-review` / visual `needs-review`; do not promote final verification during Pass 2A. Do not begin Part 006 transcription.

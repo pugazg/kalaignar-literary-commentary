@@ -162,7 +162,7 @@ Durable final record: `works/kuraloviyam/PART_004_FINAL_CLOSURE.md`.
 
 Tamil is **111/111 textual + visual verified** and English is **111/111 release-ready**.
 
-## Part 005 — PASS 1 COMPLETE / PASS 2A NEXT
+## Part 005 — PASS 1 COMPLETE / PASS 2A ACTIVE
 
 Durable intake: `works/kuraloviyam/SOURCE_INTAKE_PART_005.md`.  
 Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
@@ -181,7 +181,13 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - final Pass-1 page endpoint — `e636f7d4c6bd02fb9db244a8989e22a04b6c0cb6`;
 - current statuses — **111 needs-review / 111 visual needs-review**;
 - **555→556 CLEAN**;
-- next gate — **Pass 2A Batch 1 / scans 445–455 / printed 428–438**.
+- Pass 2A Batch 1 — **445–455 / printed 428–438 — COMPLETE 11/11**;
+- cumulative Pass 2A — **11/111**;
+- corrections — **2 records / 3 readings**;
+- correction commit — `ac7659d900b260f0211eae9ebacf5b14d1d01528` — exact compare **2 page files only**;
+- **455→456 GENUINE CONTINUATION**;
+- durable Pass-2A log — `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_005.md`;
+- next gate — **Pass 2A Batch 2 / scans 456–466 / printed 439–449**.
 
 ## Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -191,4 +197,4 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ## Exact next activity
 
-Proceed with **Part 005 Pass 2A Batch 1 / scans 445–455 / printed 428–438**. Verify directly against rendered scans, apply only source-supported corrections, keep statuses `needs-review` / visual `needs-review`, and do not start Part 006 transcription.
+Proceed with **Part 005 Pass 2A Batch 2 / scans 456–466 / printed 439–449**. Preserve **455→456 GENUINE CONTINUATION**, use scan 467 only as an outgoing boundary witness when required, apply only source-supported corrections, keep statuses `needs-review` / visual `needs-review`, and do not start Part 006 transcription.
