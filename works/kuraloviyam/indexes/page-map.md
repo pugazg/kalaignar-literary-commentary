@@ -473,6 +473,16 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - outgoing Part boundary **555→556 CLEAN** source-resolved.
 - Pass 2B — **COMPLETE / PASS 111/111**; cumulative corrections **34 page records / 56 readings**.
 
+## Part 005 Pass-3 verification map
+
+- Batch 1 **445–455 / printed 428–438 — COMPLETE 11/11**;
+- cumulative Pass 3 — **11/111**;
+- structural/visual corrections Batch 1 — **0**;
+- lexical/body-text changes Batch 1 — **0**;
+- incoming **444→445 genuine continuation / source-resolved**;
+- **455→456 genuine continuation** reconfirmed from scan 456 / printed 439 witness;
+- current page statuses — **111 needs-review / 111 visual needs-review**.
+
 ## Current frontier
 
-**Part 005 Pass 3 Batch 1 — scans 445–455 / printed 428–438.**
+**Part 005 Pass 3 Batch 2 — scans 456–466 / printed 439–449.**

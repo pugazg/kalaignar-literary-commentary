@@ -262,6 +262,11 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - Pass 2B — **COMPLETE / PASS 111/111**;
 - cumulative Pass-2B corrections — **34 page records / 56 source-supported readings**;
 - **555→556 CLEAN** remains source-resolved;
+- Pass 3 Batch 1 — **445–455 / printed 428–438 — COMPLETE 11/11**;
+- Pass-3 Batch-1 structural/visual corrections — **0**;
+- Pass-3 Batch-1 lexical/body-text changes — **0**;
+- **455→456 GENUINE CONTINUATION** reconfirmed;
+- cumulative Pass 3 — **11/111**;
 - **555→556 CLEAN**.
 
 ## Part 006 — SOURCE-READY / WAITING
@@ -273,4 +278,4 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 
 ## Current frontier
 
-**Part 005 Pass 3 Batch 1 — scans 445–455 / printed 428–438.**
+**Part 005 Pass 3 Batch 2 — scans 456–466 / printed 439–449.**

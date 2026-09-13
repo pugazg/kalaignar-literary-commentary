@@ -283,7 +283,13 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - Pass 2B — **COMPLETE / PASS 111/111**;
 - cumulative Pass-2B corrections — **34 page records / 56 source-supported readings**;
 - **555→556 — CLEAN / source-resolved**;
-- durable Pass-2B log — `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_005.md`.
+- durable Pass-2B log — `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_005.md`;
+- Pass 3 Batch 1 — **445–455 / printed 428–438 — COMPLETE 11/11**;
+- Pass-3 Batch-1 structural/visual corrections — **0**;
+- Pass-3 Batch-1 lexical/body-text changes — **0**;
+- **455→456 — GENUINE CONTINUATION**, reconfirmed from scan 456 / printed 439 witness;
+- cumulative Pass 3 — **11/111**;
+- durable Pass-3 log — `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_005.md`.
 
 ### Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -294,4 +300,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Begin **Part 005 Pass 3 / Batch 1 — scans 445–455 / printed 428–438** as meaningful visual/text fidelity verification. Preserve incoming **444→445 GENUINE CONTINUATION / source-resolved** and inspect scan **456 / printed 439** only as the outgoing witness when required. Do not perform another lexical reread; keep page statuses `needs-review` / visual `needs-review`. Do not begin Part 006 transcription.
+Continue **Part 005 Pass 3 / Batch 2 — scans 456–466 / printed 439–449** as meaningful visual/text fidelity verification. Preserve incoming **455→456 GENUINE CONTINUATION** and inspect scan **467 / printed 450** only as the outgoing witness when required. Do not perform another lexical reread; keep page statuses `needs-review` / visual `needs-review`. Do not begin Part 006 transcription.
