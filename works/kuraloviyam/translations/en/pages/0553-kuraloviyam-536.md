@@ -44,7 +44,7 @@ The birds in the branches of the punnai tree blessed us too.
 > Not knowing the worth of the flower-eyed woman,  
 > this town's public gossip gave her to me.
 
-Chapter 115 — The Spreading of Rumour; Kural 1142
+Chapter 115 — Awareness of Gossip; Kural 1142
 
 அலர் = becoming known to many
 

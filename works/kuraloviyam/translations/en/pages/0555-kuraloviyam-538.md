@@ -11,13 +11,13 @@ source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-The ascetic was astonished when Poongunran entered.
+The ascetic was astonished when Poonkundran entered.
 
-“Is this really the same Poongunran who once lived in a house crowned with a golden finial?”
+“Is this really the same Poonkundran who once lived in a house crowned with a golden finial?”
 
 he asked in shock.
 
-Poongunran had fallen into such poverty.
+Poonkundran had fallen into such poverty.
 
 “Do you see my condition?”
 
@@ -39,9 +39,9 @@ The ascetic answered calmly.
 
 “You cannot say they carried poisonous thoughts.”
 
-The ascetic laughed after hearing Poongunran's explanation.
+The ascetic laughed after hearing Poonkundran's explanation.
 
-“Poongunran, it appears you still have not changed.
+“Poonkundran, it appears you still have not changed.
 
 “The people around you did not look like enemies to your eyes.
 
@@ -67,14 +67,14 @@ The ascetic laughed after hearing Poongunran's explanation.
 
 “In the same way, the qualities of relatives too are evil if they cause suffering.”
 
-Hearing the meaning of that Kural, Poongunran—who had lost his wealth—fell at the ascetic's feet and cried aloud:
+Hearing the meaning of that Kural, Poonkundran—who had lost his wealth—fell at the ascetic's feet and cried aloud:
 
 “True! True!”
 
 > Shade and water are evil when they bring pain;  
 > so too are the ways of one's own people when they cause harm.
 
-Chapter 89 — Inner Enmity; Kural 881
+Chapter 89 — Internal Enmity; Kural 881
 
 தமர்நீரும் = the nature of one's own circle and relatives
 

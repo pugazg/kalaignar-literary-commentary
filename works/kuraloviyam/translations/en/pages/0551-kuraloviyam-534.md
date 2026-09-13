@@ -48,6 +48,6 @@ The young woman rose, went to the window and stood looking out into the vast sky
 > Let every thought be of what is high;  
 > even if it is pushed away, do not push that thought away.
 
-Chapter 60 — Possession of Inner Drive; Kural 596
+Chapter 60 — Possession of Resolve; Kural 596
 
 <!-- Source scan page: 551; printed page: 534; genuine continuation from scans 549–550 closes here with Chapter 60 / Kural 596; 551→552 is CLEAN -->
