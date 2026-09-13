@@ -344,16 +344,17 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - source intake — **PASS / COMPLETE**;
 - scans — **556–666**;
 - source family physically complete — **YES**;
-- Pass 1 — **IN PROGRESS 44/111**;
+- Pass 1 — **IN PROGRESS 55/111**;
 - P6-01 — **556–566 / printed 539–549 — COMPLETE 11/11**;
 - P6-02 — **567–577 / printed 550–560 — COMPLETE 11/11**;
 - P6-03 — **578–588 / printed 561–571 — COMPLETE 11/11**;
 - P6-04 — **589–599 / printed 572–582 — COMPLETE 11/11**;
-- P6-04 endpoint — `96c4903b29552da0f1e894e1ff48a54435aa2c89`;
-- exact P6-04 page-layer compare from `01c201c5e44648013fed95202df6e71b8069e79d` — **2 commits / exactly 11 newly added Part 006 Tamil page files / 0 non-page changes**;
-- outgoing **599→600 — GENUINE CONTINUATION**, directly source-checked;
-- exact next batch — **P6-05 / scans 600–610 / printed 583–593 — 11 scans**.
+- P6-05 — **600–610 / printed 583–593 — COMPLETE 11/11**;
+- P6-05 endpoint — `4a354302c2e3bd3be5a997e65632ab61674edc82`;
+- exact P6-05 page-layer compare from `2d8353d246467bedabcc9dfc6e0e0287e61bdc66` — **2 commits / exactly 11 newly added Part 006 Tamil page files / 0 non-page changes**;
+- outgoing **610→611 — GENUINE CONTINUATION**, directly source-checked;
+- exact next batch — **P6-06 / scans 611–621 / printed 594–604 — 11 scans**.
 
 ## Current frontier
 
-**Part 006 Pass 1 P6-05 — scans 600–610 / printed 583–593 — 11 scans.**
+**Part 006 Pass 1 P6-06 — scans 611–621 / printed 594–604 — 11 scans.**
