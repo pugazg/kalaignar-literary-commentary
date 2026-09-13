@@ -77,18 +77,20 @@ These are workflow boundaries only and must not create artificial textual bounda
 
 Part 005 is now **FULLY CLOSED** at `works/kuraloviyam/PART_005_FINAL_CLOSURE.md`. The workflow-order block is removed.
 
-Part 006 Tamil Pass 1 is **IN PROGRESS — 11/111 captured**.
+Part 006 Tamil Pass 1 is **IN PROGRESS — 22/111 captured**.
 
 P6-01 — **scans 556–566 / printed 539–549 — COMPLETE 11/11**.
 
-- page-layer commits — `17636b3b601c89a3c075f3ed3e956a5824f4be3e`, `952363e891c08a58ca78d85de95307810aafeaa6`;
-- exact compare from `3e152243b89d68a01229d4e648875f3e6df9510c` — **2 commits / exactly 11 added Part 006 Tamil page files / 0 non-page changes**;
-- all 11 records — `needs-review` / visual `needs-review`;
-- incoming **555→556 CLEAN / source-resolved** preserved;
-- outgoing **566→567 GENUINE CONTINUATION** directly checked from scan 567 / printed 550.
+P6-02 — **scans 567–577 / printed 550–560 — COMPLETE 11/11**.
+
+- P6-02 page-layer commits — `c75b8a6c7e931f9700b134c4017a959157d4c9e9`, `3d7b742c14fc8075d61eed3d47d5b6e4e2a0ef2d`;
+- exact P6-02 compare from `c11f4cd3964f083eba76e5ed14b1803d869463ff` — **2 commits / exactly 11 added Part 006 Tamil page files / 0 non-page changes**;
+- all 22 cumulative records — `needs-review` / visual `needs-review`;
+- incoming **566→567 GENUINE CONTINUATION** preserved;
+- outgoing **577→578 GENUINE CONTINUATION** directly checked from scan 578 / printed 561.
 
 Immediate next activity:
 
-**P6-02 — scans 567–577 / printed 550–560 — 11 physical scans.**
+**P6-03 — scans 578–588 / printed 561–571 — 11 physical scans.**
 
-Preserve incoming **566→567 GENUINE CONTINUATION** and use rendered scan images as the controlling source.
+Preserve incoming **577→578 GENUINE CONTINUATION** and use rendered scan images as the controlling source.

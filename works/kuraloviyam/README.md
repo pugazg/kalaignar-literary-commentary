@@ -344,13 +344,14 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - source intake — **PASS / COMPLETE**;
 - scans — **556–666**;
 - source family physically complete — **YES**;
-- Pass 1 — **IN PROGRESS 11/111**;
+- Pass 1 — **IN PROGRESS 22/111**;
 - P6-01 — **556–566 / printed 539–549 — COMPLETE 11/11**;
-- P6-01 endpoint — `952363e891c08a58ca78d85de95307810aafeaa6`;
-- exact P6-01 page-layer compare — **2 commits / exactly 11 newly added Part 006 Tamil page files / 0 non-page changes**;
-- outgoing **566→567 — GENUINE CONTINUATION**, directly source-checked;
-- exact next batch — **P6-02 / scans 567–577 / printed 550–560 — 11 scans**.
+- P6-02 — **567–577 / printed 550–560 — COMPLETE 11/11**;
+- P6-02 endpoint — `3d7b742c14fc8075d61eed3d47d5b6e4e2a0ef2d`;
+- exact P6-02 page-layer compare from `c11f4cd3964f083eba76e5ed14b1803d869463ff` — **2 commits / exactly 11 newly added Part 006 Tamil page files / 0 non-page changes**;
+- outgoing **577→578 — GENUINE CONTINUATION**, directly source-checked;
+- exact next batch — **P6-03 / scans 578–588 / printed 561–571 — 11 scans**.
 
 ## Current frontier
 
-**Part 006 Pass 1 P6-02 — scans 567–577 / printed 550–560 — 11 scans.**
+**Part 006 Pass 1 P6-03 — scans 578–588 / printed 561–571 — 11 scans.**

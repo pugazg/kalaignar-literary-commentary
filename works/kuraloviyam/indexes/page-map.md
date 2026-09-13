@@ -658,7 +658,12 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - exact P6-01 compare from `3e152243b89d68a01229d4e648875f3e6df9510c` — **2 commits / 11 added Part 006 Tamil page files / 0 non-page changes**;
 - P6-01 status — **11 needs-review / 11 visual needs-review**;
 - P6-01 continuity — **555→556 CLEAN**, **556→557 GENUINE**, **557→558 GENUINE**, **558→559 CLEAN**, **559→560 GENUINE**, **560→561 CLEAN**, **561→562 GENUINE**, **562→563 GENUINE**, **563→564 CLEAN**, **564→565 GENUINE**, **565→566 CLEAN**, **566→567 GENUINE**;
-- next batch — **P6-02 / scans 567–577 / printed 550–560 — 11 scans**.
+- P6-02 — **567–577 / printed 550–560 — COMPLETE 11/11**;
+- P6-02 endpoint — `3d7b742c14fc8075d61eed3d47d5b6e4e2a0ef2d`;
+- exact P6-02 compare from `c11f4cd3964f083eba76e5ed14b1803d869463ff` — **2 commits / exactly 11 added Part 006 Tamil page files / 0 non-page changes**;
+- P6-02 status — **11 needs-review / 11 visual needs-review**;
+- P6-02 continuity — **566→567 GENUINE**, **567→568 CLEAN**, **568→569 GENUINE**, **569→570 CLEAN**, **570→571 GENUINE**, **571→572 CLEAN**, **572→573 GENUINE**, **573→574 CLEAN**, **574→575 GENUINE**, **575→576 GENUINE**, **576→577 CLEAN**, **577→578 GENUINE**;
+- next batch — **P6-03 / scans 578–588 / printed 561–571 — 11 scans**.
 - SC4 endpoint — `113846a357544a33b73d727d20115471f2f3411f`;
 - SC4 exact page-layer compare — **12 modified English page files only**;
 - fidelity corrections — **4 page files / scans 549, 550, 553, 555**;
@@ -667,4 +672,4 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 ## Current frontier
 
-**Part 006 Pass 1 P6-02 — scans 567–577 / printed 550–560 — 11 scans.**
+**Part 006 Pass 1 P6-03 — scans 578–588 / printed 561–571 — 11 scans.**
