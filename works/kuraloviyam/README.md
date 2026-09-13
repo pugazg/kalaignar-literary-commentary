@@ -332,17 +332,21 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - release promotion endpoint — `3d35d4c67f17f77b8ff5de036a8a3989ec088a78`;
 - release promotion audit — **19 commits / exactly 111 English page files / +1,-1 each / 0 non-page files / status-token-only**;
 - current English state — **0 source-checked / 0 draft / 0 editorial-reviewed / 111 release-ready / 0 source-limited / 0 blocked**;
+- final Part-005 checkpoint — **PASS / CLOSED**;
+- durable final closure — `PART_005_FINAL_CLOSURE.md`;
+- Part 005 — **TAMIL + MAINTAINED ENGLISH FULLY CLOSED**.
 - SC4 source-fidelity corrections — **4 pages / scans 549, 550, 553, 555**;
 - SC4 page-layer audit — **12 modified English page records / 0 Tamil changes / 0 control-file changes**;
 - **555→556 CLEAN**.
 
-## Part 006 — SOURCE-READY / WAITING
+## Part 006 — SOURCE-READY / ACTIVE
 
 - source intake — **PASS / COMPLETE**;
 - scans — **556–666**;
 - source family physically complete — **YES**;
-- Pass 1 — **NOT STARTED / waiting behind Part 005**.
+- Pass 1 — **NOT STARTED / ACTIVE FRONTIER**;
+- exact next batch — **P6-01 / scans 556–566 / printed 539–549 — 11 scans**.
 
 ## Current frontier
 
-**Part 005 final closure checkpoint / documentation confirmation.**
+**Part 006 Pass 1 P6-01 — scans 556–566 / printed 539–549 — 11 scans.**

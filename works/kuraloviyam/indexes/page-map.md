@@ -643,6 +643,17 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - final English state — **111 release-ready / 0 editorial-reviewed / 0 source-checked / 0 draft / 0 source-limited / 0 blocked**;
 - incoming **444→445 GENUINE CONTINUATION / source-resolved** preserved;
 - outgoing **555→556 CLEAN / source-resolved** preserved.
+
+## Part 005 final closure
+
+- final checkpoint — **PASS / CLOSED**;
+- durable record — `PART_005_FINAL_CLOSURE.md`;
+- Tamil — **111/111 textual verified + 111/111 visual verified / 0 exceptions**;
+- English — **111/111 release-ready**;
+- post-release drift check from `3d35d4c67f17f77b8ff5de036a8a3989ec088a78` to `16f5609dee1b58b99c15d3f7d08cd82baae37157` — **2 commits / 9 control-doc files / 0 Tamil page files / 0 English page files**;
+- Part 005 — **FULLY CLOSED**;
+- Part 006 — **ACTIVE NEXT**;
+- next batch — **P6-01 / scans 556–566 / printed 539–549 — 11 scans**.
 - SC4 endpoint — `113846a357544a33b73d727d20115471f2f3411f`;
 - SC4 exact page-layer compare — **12 modified English page files only**;
 - fidelity corrections — **4 page files / scans 549, 550, 553, 555**;
@@ -651,4 +662,4 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 ## Current frontier
 
-**Part 005 final closure checkpoint / documentation confirmation.**
+**Part 006 Pass 1 P6-01 — scans 556–566 / printed 539–549 — 11 scans.**

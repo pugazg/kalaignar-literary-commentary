@@ -990,8 +990,27 @@ Final Part-005 English state:
 
 Incoming **444→445 GENUINE CONTINUATION / source-resolved** and outgoing **555→556 CLEAN / source-resolved** remain preserved.
 
-## Exact next English activity
+## Part 005 final closure — PASS / CLOSED
 
-**Part 005 final closure checkpoint / documentation confirmation.**
+Durable record: `../../PART_005_FINAL_CLOSURE.md`.
 
-Perform a no-page-change checkpoint. Confirm Tamil remains **ARCHIVAL-READY / CLOSED 111/111**, English remains **111/111 release-ready**, all maintained English gates are durably closed, the release report remains approved, and no wording/status drift occurred after promotion. If PASS, create the durable Part-005 final-closure record and only then activate Part 006.
+Final state:
+
+- Tamil — **111/111 textual verified + 111/111 visual verified / 0 exceptions**;
+- English — **111/111 release-ready**;
+- drafting — **COMPLETE / CLOSED**;
+- source-check — **COMPLETE / CLOSED**;
+- glossary reconciliation — **COMPLETE / CLOSED**;
+- editorial review — **COMPLETE / CLOSED**;
+- Part-level review — **PASS / CLOSED**;
+- release report — **APPROVED / CLOSED**;
+- post-release drift — **0 English page files / 0 Tamil page files changed**;
+- Part 005 — **FULLY CLOSED**.
+
+The active Kuraloviyam frontier is no longer an English gate. Part 006 Tamil Pass 1 is now active.
+
+## Exact next activity
+
+**Part 006 Pass 1 P6-01 — scans 556–566 / printed 539–549 — 11 physical scans.**
+
+Do not reopen Part 005.

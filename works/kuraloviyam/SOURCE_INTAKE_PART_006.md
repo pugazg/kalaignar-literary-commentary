@@ -69,10 +69,18 @@ These are workflow boundaries only and must not create artificial textual bounda
 2. No canonical/web Kural wording or external commentary may replace this edition's visible content.
 3. Contents/index material, stamps and the back cover remain non-body archival material.
 4. Source intake creates no Tamil page records and promotes no status.
-5. Part 006 is **source-ready but not the active transcription frontier** while Part 005 remains pending.
+5. Part 006 is now the **active transcription frontier** because Part 005 has reached final closure.
 
 ## Current gate
 
 **Part 006 source intake: COMPLETE / PASS.**
 
-Part 006 transcription is **BLOCKED BY WORKFLOW ORDER** while Part 005 remains active. The immediate next activity remains **P5-01 / scans 445–455 / printed 428–438**.
+Part 005 is now **FULLY CLOSED** at `works/kuraloviyam/PART_005_FINAL_CLOSURE.md`. The workflow-order block is removed.
+
+Part 006 Tamil Pass 1 is **ACTIVE / NOT STARTED**.
+
+Immediate next activity:
+
+**P6-01 — scans 556–566 / printed 539–549 — 11 physical scans.**
+
+Preserve incoming **555→556 CLEAN / source-resolved** and use rendered scan images as the controlling source.
