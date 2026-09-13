@@ -209,11 +209,13 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - durable Pass-1 progress — `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`;
 - Pass 2A Batch 1 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - Pass 2A Batch 2 — **456–466 / printed 439–449 — COMPLETE 11/11**;
-- cumulative Pass 2A — **22/111**;
+- Pass 2A Batch 3 — **467–477 / printed 450–460 — COMPLETE 11/11**;
+- cumulative Pass 2A — **33/111**;
 - Batch-1 corrections — **2 records / 3 readings**;
-- Batch-2 source-supported corrections — **5 records / 6 readings**: scan 457 `திருக்கிட்டு` → `திடுக்கிட்டு`; scan 462 `கூட அருகாத` → `சூடு ஆறாத`; scan 463 `வழியாகலாவது` → `வழியாகவாவது`; scan 464 `உழியாக` → `உறுதியாக`; scan 465 `சிற்றத்துடன்` → `சீற்றத்துடன்`, `கொளு` → `கொடிது`;
-- Batch-2 correction commit — `0729f7d301a73ebb3b38bd26d1446a39b2a97d07` — exact compare **5 page files only / scans 457, 462–465**;
-- **466→467 — GENUINE CONTINUATION**, checked from scan 467 / printed 450 witness;
+- Batch-2 corrections — **5 records / 6 readings**;
+- Batch-3 source-supported corrections — **7 records / 10 readings**: scan 467 `திருக்கிட்டு` → `திடுக்கிட்டு`; scan 468 `புகழிப் பித்தர்களென்பான்` → `பதவிப் பித்தர்களென்பான்`; scan 469 `தாய்மையாக` → `தூய்மையாக`, `இணையில்லாமல்` → `இணைபிரியாமல்`, `முட்டா` → `மூடா`; scan 471 `எழுதுகோவியமாக்கலாமா` → `எழுத்தோவியமாக்கலாமா`; scan 473 `அவைக்கனத்தில்` → `அவைக்களத்தில்`, `அவையவிட்டு` → `அவையைவிட்டு`; scan 476 `முத்தமிட்டீர்க ளே` → `முத்தமிட்டீர்களே`; scan 477 `தனியர் இதழ்கள்` → `தளிர் இதழ்கள்`;
+- Batch-3 correction commit — `b6ce17d55759f05f80af760ac9d3d2cd0ec96bac` — exact compare **7 page files only / scans 467, 468, 469, 471, 473, 476, 477**;
+- **477→478 — CLEAN**, checked from scan 478 / printed 461 witness;
 - all 111 records remain `needs-review` / visual `needs-review`;
 - durable Pass-2A log — `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_005.md`.
 
@@ -226,4 +228,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Continue **Part 005 Pass 2A / Batch 3 — scans 467–477 / printed 450–460**. Preserve the incoming **466→467 GENUINE CONTINUATION**. Inspect scan **478 / printed 461** only as the outgoing witness when required. Keep all pages `needs-review` until the later required Pass 2B / Pass 3 / audit gates close. Do not begin Part 006 transcription yet.
+Continue **Part 005 Pass 2A / Batch 4 — scans 478–488 / printed 461–471**. Preserve the incoming **477→478 CLEAN** boundary. Inspect scan **489 / printed 472** only as the outgoing witness when required. Keep all pages `needs-review` until the later required Pass 2B / Pass 3 / audit gates close. Do not begin Part 006 transcription yet.

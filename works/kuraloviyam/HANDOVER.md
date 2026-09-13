@@ -183,13 +183,15 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - **555→556 CLEAN**;
 - Pass 2A Batch 1 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - Pass 2A Batch 2 — **456–466 / printed 439–449 — COMPLETE 11/11**;
-- cumulative Pass 2A — **22/111**;
+- Pass 2A Batch 3 — **467–477 / printed 450–460 — COMPLETE 11/11**;
+- cumulative Pass 2A — **33/111**;
 - Batch-1 corrections — **2 records / 3 readings**;
 - Batch-2 corrections — **5 records / 6 readings**;
-- Batch-2 correction commit — `0729f7d301a73ebb3b38bd26d1446a39b2a97d07` — exact compare **5 page files only**;
-- **466→467 GENUINE CONTINUATION**;
+- Batch-3 corrections — **7 records / 10 readings**;
+- Batch-3 correction commit — `b6ce17d55759f05f80af760ac9d3d2cd0ec96bac` — exact compare **7 page files only**;
+- **477→478 CLEAN**;
 - durable Pass-2A log — `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_005.md`;
-- next gate — **Pass 2A Batch 3 / scans 467–477 / printed 450–460**.
+- next gate — **Pass 2A Batch 4 / scans 478–488 / printed 461–471**.
 
 ## Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -199,4 +201,4 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ## Exact next activity
 
-Proceed with **Part 005 Pass 2A Batch 3 / scans 467–477 / printed 450–460**. Preserve **466→467 GENUINE CONTINUATION**, use scan 478 only as an outgoing boundary witness when required, apply only source-supported corrections, keep statuses `needs-review` / visual `needs-review`, and do not start Part 006 transcription.
+Proceed with **Part 005 Pass 2A Batch 4 / scans 478–488 / printed 461–471**. Preserve **477→478 CLEAN**, use scan 489 only as an outgoing boundary witness when required, apply only source-supported corrections, keep statuses `needs-review` / visual `needs-review`, and do not start Part 006 transcription.

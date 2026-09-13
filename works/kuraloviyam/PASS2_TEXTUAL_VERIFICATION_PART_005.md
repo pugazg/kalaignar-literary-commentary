@@ -84,8 +84,36 @@ Durable correction commit:
 
 Exact compare from pre-batch `e9de946e51b2a94cb68dab235d4aa4518d43c258` to correction endpoint `0729f7d301a73ebb3b38bd26d1446a39b2a97d07` is **ahead by 1 commit** and changes exactly **5 page files**, scans **457, 462, 463, 464, 465** only.
 
+## Batch 3 — overall scans 467–477 / printed pages 450–460
+
+**Status: COMPLETE — 11 / 11 scans directly compared against rendered source.**
+
+Incoming **466→467 GENUINE CONTINUATION** was preserved. Scan **478 / printed 461** was inspected only as the outgoing witness and confirms **477→478 CLEAN**: scan 477 closes the poor-poet's-son / wealthy-young-woman vignette with Chapter 105 / Kural 1044, while scan 478 starts a new illustrated beauty / glance vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 467 | 450 | corrected `திருக்கிட்டு விழித்துக்கொண்டேன்` → source-visible `திடுக்கிட்டு விழித்துக்கொண்டேன்`; Chapter 128 / Kural 1272 and both source glosses confirmed |
+| 468 | 451 | corrected `புகழிப் பித்தர்களென்பான்` → source-visible `பதவிப் பித்தர்களென்பான்`; Vidiyan/Peraalan vignette continues into 469 |
+| 469 | 452 | corrected `தாய்மையாக` → `தூய்மையாக`; `இணையில்லாமல்` → `இணைபிரியாமல்`; `அடே! முட்டா!` → `அடே! மூடா!`; Chapter 19 / Kural 183 confirmed |
+| 470 | 453 | direct textual comparison complete; no correction required; poet/lover beauty-description vignette continues into 471 |
+| 471 | 454 | corrected `எழுதுகோவியமாக்கலாமா` → source-visible `எழுத்தோவியமாக்கலாமா`; Chapter 109 / Kural 1081 and source gloss confirmed |
+| 472 | 455 | direct textual comparison complete; no correction required; sword / learned-man vignette continues into 473 |
+| 473 | 456 | corrected `அவைக்கனத்தில்` → source-visible `அவைக்களத்தில்`; corrected `அவையவிட்டு` → `அவையைவிட்டு`; Chapter 73 / Kural 727 confirmed |
+| 474 | 457 | direct textual comparison complete; no correction required; Veerarakkiyar office-and-fame vignette continues into 475 |
+| 475 | 458 | direct textual comparison complete; no correction required; Chapter 24 / Kural 239 and three source glosses confirmed |
+| 476 | 459 | corrected spurious split `முத்தமிட்டீர்க ளே` → source-visible `முத்தமிட்டீர்களே`; continuation into 477 confirmed |
+| 477 | 460 | corrected `தனியர் இதழ்கள்` → source-visible `தளிர் இதழ்கள்`; Chapter 105 / Kural 1044 and all three source glosses confirmed; scan 478 witness confirms CLEAN boundary |
+
+Batch 3 correction summary: **7 records corrected; 4 records required no textual change; 10 source-supported readings corrected in total**.
+
+Durable correction commit:
+
+`b6ce17d55759f05f80af760ac9d3d2cd0ec96bac` — `kuraloviyam: Pass 2A verify Part 005 scans 467-477`
+
+Exact compare from pre-batch `7667d4c63f50cb8cb008c342bc509b053e2812c9` to correction endpoint `b6ce17d55759f05f80af760ac9d3d2cd0ec96bac` is **ahead by 1 commit** and changes exactly **7 page files**, scans **467, 468, 469, 471, 473, 476, 477** only.
+
 ## Current gate
 
-Part 005 Pass 2A: **22/111 complete**.
+Part 005 Pass 2A: **33/111 complete**.
 
-Next: **Batch 3 / scans 467–477 / printed 450–460**, preserving incoming **466→467 GENUINE CONTINUATION** and inspecting scan **478 / printed 461** only as the outgoing witness when required.
+Next: **Batch 4 / scans 478–488 / printed 461–471**, preserving incoming **477→478 CLEAN** and inspecting scan **489 / printed 472** only as the outgoing witness when required.

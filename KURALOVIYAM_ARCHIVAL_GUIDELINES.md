@@ -207,7 +207,7 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 ### Part 005 — overall scans 445–555
 
-**SOURCE INTAKE: PASS / COMPLETE. PASS 1: COMPLETE 111/111. PASS 2A: ACTIVE 22/111.**
+**SOURCE INTAKE: PASS / COMPLETE. PASS 1: COMPLETE 111/111. PASS 2A: ACTIVE 33/111.**
 
 - P5-01 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - P5-02 — **456–466 / printed 439–449 — COMPLETE 11/11**;
@@ -225,11 +225,13 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 - **555→556 CLEAN**;
 - Pass 2A Batch 1 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - Pass 2A Batch 2 — **456–466 / printed 439–449 — COMPLETE 11/11**;
-- cumulative Pass 2A — **22/111**;
+- Pass 2A Batch 3 — **467–477 / printed 450–460 — COMPLETE 11/11**;
+- cumulative Pass 2A — **33/111**;
 - Batch-1 corrections — **2 page records / 3 source-supported readings**;
 - Batch-2 corrections — **5 page records / 6 source-supported readings**;
-- Batch-2 correction commit — `0729f7d301a73ebb3b38bd26d1446a39b2a97d07` — **5 page files only**;
-- **466→467 GENUINE CONTINUATION**;
+- Batch-3 corrections — **7 page records / 10 source-supported readings**;
+- Batch-3 correction commit — `b6ce17d55759f05f80af760ac9d3d2cd0ec96bac` — **7 page files only**;
+- **477→478 CLEAN**;
 - durable Pass-1 progress — `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`;
 - durable Pass-2A log — `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_005.md`.
 
@@ -242,4 +244,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 ### Exact next content stage
 
-Continue **Part 005 Pass 2A Batch 3 — scans 467–477 / printed 450–460**. Preserve the incoming **466→467 GENUINE CONTINUATION** and inspect scan **478 / printed 461** only as the outgoing witness when required. Do not promote final textual/visual status during Pass 2A; Pass 2B and Pass 3 still remain mandatory. Do not begin Part 006 transcription yet.
+Continue **Part 005 Pass 2A Batch 4 — scans 478–488 / printed 461–471**. Preserve the incoming **477→478 CLEAN** boundary and inspect scan **489 / printed 472** only as the outgoing witness when required. Do not promote final textual/visual status during Pass 2A; Pass 2B and Pass 3 still remain mandatory. Do not begin Part 006 transcription yet.
