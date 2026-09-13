@@ -405,11 +405,14 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 ## Part 005 Pass-2A verification map
 
 - Batch 1 **445–455 / printed 428–438 — COMPLETE 11/11**;
-- cumulative Pass 2A — **11/111**;
-- corrected scans — **447, 451**;
+- Batch 2 **456–466 / printed 439–449 — COMPLETE 11/11**;
+- cumulative Pass 2A — **22/111**;
+- corrected Batch-1 scans — **447, 451**;
+- corrected Batch-2 scans — **457, 462, 463, 464, 465**;
 - **444→445 genuine continuation** preserved from source intake / closed Part 004;
-- **455→456 genuine continuation**, reconfirmed from scan 456 / printed 439 witness.
+- **455→456 genuine continuation** preserved;
+- **466→467 genuine continuation**, reconfirmed from scan 467 / printed 450 witness.
 
 ## Current frontier
 
-**Part 005 Pass 2A Batch 2 — scans 456–466 / printed 439–449.**
+**Part 005 Pass 2A Batch 3 — scans 467–477 / printed 450–460.**

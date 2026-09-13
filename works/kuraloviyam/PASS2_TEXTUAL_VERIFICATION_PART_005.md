@@ -56,8 +56,36 @@ Durable correction commit:
 
 Exact compare from pre-batch `06352ed4a732fb6f1fc566ec1b0826e0ae3a0168` to correction endpoint `ac7659d900b260f0211eae9ebacf5b14d1d01528` is **ahead by 1 commit** and changes exactly **2 page files**, scans **447** and **451** only.
 
+## Batch 2 — overall scans 456–466 / printed pages 439–449
+
+**Status: COMPLETE — 11 / 11 scans directly compared against rendered source.**
+
+Incoming **455→456 GENUINE CONTINUATION** was preserved. Scan **467 / printed 450** was inspected only as the outgoing witness and reconfirms **466→467 as a genuine continuation** of the festival-separation letter vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 456 | 439 | direct textual comparison complete; no correction required; Chapter 97 / Kural 969 confirmed |
+| 457 | 440 | corrected `கவிஞன் திருக்கிட்டு எழுந்தான்` → source-visible `கவிஞன் திடுக்கிட்டு எழுந்தான்`; continuation into 458 confirmed |
+| 458 | 441 | direct textual comparison complete; no correction required; Chapter 11 / Kural 103 confirmed |
+| 459 | 442 | direct textual comparison complete; no correction required; Mankadu doctor vignette continues into 460 |
+| 460 | 443 | direct textual comparison complete; no correction required; doctor vignette continues into 461 |
+| 461 | 444 | direct textual comparison complete; no correction required; Chapter 88 / Kural 873 and three source glosses confirmed |
+| 462 | 445 | corrected `கூட அருகாத பாத்திரத்தில்` → source-visible `சூடு ஆறாத பாத்திரத்தில்`; lovers/pallor vignette continues into 463 |
+| 463 | 446 | corrected `எந்த வழியாகலாவது` → source-visible `எந்த வழியாகவாவது`; Chapter 124 / Kural 1238 and both source glosses confirmed |
+| 464 | 447 | corrected `அரசன் உழியாக நம்பி` → source-visible `அரசன் உறுதியாக நம்பி`; Koothan prohibition-policy vignette continues into 465 |
+| 465 | 448 | corrected `சிற்றத்துடன்` → source-visible `சீற்றத்துடன்`; corrected `இந்தச் சட்டத்தைக் கொளு என்று` → `இந்தச் சட்டத்தைக் கொடிது என்று`; Chapter 64 / Kural 637 and parenthetical source gloss confirmed |
+| 466 | 449 | direct textual comparison complete; no correction required; scan 467 witness reconfirms genuine continuation |
+
+Batch 2 correction summary: **5 records corrected; 6 records required no textual change; 6 source-supported readings corrected in total**.
+
+Durable correction commit:
+
+`0729f7d301a73ebb3b38bd26d1446a39b2a97d07` — `kuraloviyam: Pass 2A verify Part 005 scans 456-466`
+
+Exact compare from pre-batch `e9de946e51b2a94cb68dab235d4aa4518d43c258` to correction endpoint `0729f7d301a73ebb3b38bd26d1446a39b2a97d07` is **ahead by 1 commit** and changes exactly **5 page files**, scans **457, 462, 463, 464, 465** only.
+
 ## Current gate
 
-Part 005 Pass 2A: **11/111 complete**.
+Part 005 Pass 2A: **22/111 complete**.
 
-Next: **Batch 2 / scans 456–466 / printed 439–449**, preserving incoming **455→456 GENUINE CONTINUATION** and inspecting scan **467 / printed 450** only as the outgoing witness when required.
+Next: **Batch 3 / scans 467–477 / printed 450–460**, preserving incoming **466→467 GENUINE CONTINUATION** and inspecting scan **478 / printed 461** only as the outgoing witness when required.

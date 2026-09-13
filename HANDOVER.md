@@ -208,10 +208,12 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - **555→556 — CLEAN**, preserved from the source-gated Part 006 boundary;
 - durable Pass-1 progress — `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`;
 - Pass 2A Batch 1 — **445–455 / printed 428–438 — COMPLETE 11/11**;
-- cumulative Pass 2A — **11/111**;
-- source-supported corrections — **2 records / 3 readings**: scan 447 `கேவிக்` → `கேலிக்`; scan 451 `விளக்குகள்` → `விலங்கினங்கள்`, `குறையாடிவிட்டு` → `சூறையாடிவிட்டு`;
-- Pass-2A Batch-1 correction commit — `ac7659d900b260f0211eae9ebacf5b14d1d01528` — exact compare **2 page files only**;
-- **455→456 — GENUINE CONTINUATION**, checked from scan 456 witness;
+- Pass 2A Batch 2 — **456–466 / printed 439–449 — COMPLETE 11/11**;
+- cumulative Pass 2A — **22/111**;
+- Batch-1 corrections — **2 records / 3 readings**;
+- Batch-2 source-supported corrections — **5 records / 6 readings**: scan 457 `திருக்கிட்டு` → `திடுக்கிட்டு`; scan 462 `கூட அருகாத` → `சூடு ஆறாத`; scan 463 `வழியாகலாவது` → `வழியாகவாவது`; scan 464 `உழியாக` → `உறுதியாக`; scan 465 `சிற்றத்துடன்` → `சீற்றத்துடன்`, `கொளு` → `கொடிது`;
+- Batch-2 correction commit — `0729f7d301a73ebb3b38bd26d1446a39b2a97d07` — exact compare **5 page files only / scans 457, 462–465**;
+- **466→467 — GENUINE CONTINUATION**, checked from scan 467 / printed 450 witness;
 - all 111 records remain `needs-review` / visual `needs-review`;
 - durable Pass-2A log — `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_005.md`.
 
@@ -224,4 +226,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Continue **Part 005 Pass 2A / Batch 2 — scans 456–466 / printed 439–449**. Preserve the incoming **455→456 GENUINE CONTINUATION**. Inspect scan **467 / printed 450** only as the outgoing witness when required. Keep all pages `needs-review` until the later required Pass 2B / Pass 3 / audit gates close. Do not begin Part 006 transcription yet.
+Continue **Part 005 Pass 2A / Batch 3 — scans 467–477 / printed 450–460**. Preserve the incoming **466→467 GENUINE CONTINUATION**. Inspect scan **478 / printed 461** only as the outgoing witness when required. Keep all pages `needs-review` until the later required Pass 2B / Pass 3 / audit gates close. Do not begin Part 006 transcription yet.
