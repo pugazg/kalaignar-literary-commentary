@@ -318,7 +318,12 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - ER1 exact change set — **33 English page files / 33 status promotions / 9 wording-refinement pages / 0 Tamil changes**;
 - English editorial review ER2 — **478–510 / printed 461–493 — COMPLETE / PASS 33/33**;
 - ER2 exact change set — **33 English page files / 33 status promotions / 12 wording-refinement pages / 0 Tamil changes**;
-- current English state — **45 source-checked / 0 draft / 66 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
+- English editorial review ER3 — **511–543 / printed 494–526 — COMPLETE / PASS 33/33**;
+- ER3 exact change set — **33 English page files / 33 status promotions / 19 wording-refinement pages / 0 Tamil changes**;
+- English editorial review ER4 — **544–555 / printed 527–538 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
+- ER4 exact change set — **12 English page files / 12 status promotions / 6 wording-refinement pages / 0 Tamil changes**;
+- English editorial review — **COMPLETE / CLOSED 111/111**;
+- current English state — **0 source-checked / 0 draft / 111 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
 - SC4 source-fidelity corrections — **4 pages / scans 549, 550, 553, 555**;
 - SC4 page-layer audit — **12 modified English page records / 0 Tamil changes / 0 control-file changes**;
 - **555→556 CLEAN**.
@@ -332,4 +337,4 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 
 ## Current frontier
 
-**Part 005 English editorial review ER3 — scans 511–543 / printed 494–526 — 33 pages.**
+**Part 005 Part-level English review — scans 445–555 / printed 428–538 — 111 pages.**
