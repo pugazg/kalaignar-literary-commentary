@@ -207,7 +207,7 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 ### Part 005 — overall scans 445–555
 
-**SOURCE INTAKE: PASS / COMPLETE. PASS 1: COMPLETE 111/111. PASS 2A: COMPLETE / PASS 111/111. PASS 2B: COMPLETE / PASS 111/111. PASS 3: COMPLETE / PASS 111/111. PART AUDIT: PASS / COMPLETE. FINAL STATUS SYNC: PASS / CLOSED. DOCUMENTATION SYNC: COMPLETE / PASS. TAMIL ARCHIVAL-READY: PASS / CLOSED. ENGLISH DRAFTING: IN PROGRESS 33/111.**
+**SOURCE INTAKE: PASS / COMPLETE. PASS 1: COMPLETE 111/111. PASS 2A: COMPLETE / PASS 111/111. PASS 2B: COMPLETE / PASS 111/111. PASS 3: COMPLETE / PASS 111/111. PART AUDIT: PASS / COMPLETE. FINAL STATUS SYNC: PASS / CLOSED. DOCUMENTATION SYNC: COMPLETE / PASS. TAMIL ARCHIVAL-READY: PASS / CLOSED. ENGLISH DRAFTING: IN PROGRESS 66/111.**
 
 - P5-01 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - P5-02 — **456–466 / printed 439–449 — COMPLETE 11/11**;
@@ -329,4 +329,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_003_
 
 ### Exact next content stage
 
-Continue **Part 005 English Draft Batch D2 — scans 478–510 / printed 461–493 — 33 pages**. D1 is **COMPLETE 33/33** and the Part-005 English state is **33 draft / 78 not yet drafted**. Preserve incoming **477→478 CLEAN**, page alignment, project-translation identity, Kural block separation, Chapter/Kural metadata, visual/non-body distinctions and continuity. Do not import published/web English wording. Part 006 remains blocked until Part 005 English and final closure are complete.
+Continue **Part 005 English Draft Batch D3 — scans 511–543 / printed 494–526 — 33 pages**. D1 and D2 are **COMPLETE 66/66** and the Part-005 English state is **66 draft / 45 not yet drafted**. Preserve incoming **510→511 CLEAN**, page alignment, project-translation identity, Kural block separation, Chapter/Kural metadata, visual/non-body distinctions and continuity. Do not import published/web English wording. Part 006 remains blocked until Part 005 English and final closure are complete.

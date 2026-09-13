@@ -547,14 +547,15 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 ## Part 005 English drafting map
 
 - D1 — **445–477 / printed 428–460 — COMPLETE 33/33**;
-- cumulative English draft records — **33/111**;
-- remaining undrafted — **78**;
-- current status distribution — **33 draft / 0 source-checked / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
-- D1 endpoint — `47ab95e0005abdb59ff7b49920ede25399cc08ce`;
-- D1 exact page-layer compare — **33 added English page files only**;
-- incoming **444→445 GENUINE CONTINUATION** respected;
-- **477→478 CLEAN** preserved as the next-batch boundary.
+- D2 — **478–510 / printed 461–493 — COMPLETE 33/33**;
+- cumulative English draft records — **66/111**;
+- remaining undrafted — **45**;
+- current status distribution — **66 draft / 0 source-checked / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
+- D2 endpoint — `944813bb74d3fc344757a7eedf5f18d9d427c8fe`;
+- D2 exact page-layer compare — **33 added English page files only**;
+- incoming **477→478 CLEAN** preserved;
+- **510→511 CLEAN** preserved as the next-batch boundary.
 
 ## Current frontier
 
-**Part 005 English Draft D2 — scans 478–510 / printed 461–493 — 33 pages.**
+**Part 005 English Draft D3 — scans 511–543 / printed 494–526 — 33 pages.**
