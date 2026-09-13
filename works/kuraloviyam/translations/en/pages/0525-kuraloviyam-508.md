@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -56,7 +56,5 @@ The whole Pallava land was shaken to see Arulalan drawn into a fabricated murder
 “What proof is there that it was murder?” the court asked.
 
 “Here is the evidence. It was found beside the dead king!”
-
-answered the hard-hearted accuser.
 
 <!-- Source scan page: 525; printed page: 508; Arulalan vignette continues directly to scan 526 / printed 509 -->
