@@ -6,16 +6,16 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-But the heart's pouch expands the more intellectual food it receives. It keeps digesting what it has eaten and keeps searching for new nourishment.
+But the heart expands as it receives more intellectual nourishment. It keeps digesting what it has taken in and keeps searching for more.
 
 A man who seeks books, obtains them and clearly learns their meaning finds that, with every new thing he comes to know, he marvels at the ignorance he possessed before.
 
-Today, when he understands the meaning of a book and immerses himself in the stream of knowledge, he decides that the stream in which he bathed yesterday was poorer than this one.
+Today, when he understands the meaning of a book and immerses himself in the stream of knowledge, he decides that the stream in which he bathed yesterday was less rich than this one.
 
 As he keeps learning fresh meanings from books, he wonders what can be compared with the pleasure he feels.
 
@@ -31,7 +31,7 @@ Each time the lovers are lost in pleasure like this, they feel as though they ha
 
 So it is with the person who reads each new book and understands its meaning.
 
-As earlier ignorance becomes visible with every new act of knowing, perhaps the flavours of union never learned before become visible in fresh ways each time lovers join and rejoice.
+Just as each new discovery reveals how much he did not know before, perhaps each fresh union reveals pleasures the lovers had never known.
 
 Thiruvalluvar says:
 
