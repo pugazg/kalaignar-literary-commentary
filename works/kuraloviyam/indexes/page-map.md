@@ -511,6 +511,19 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - outgoing **555→556 CLEAN / source-resolved**;
 - audit record — `works/kuraloviyam/PART_005_AUDIT.md`.
 
+## Part 005 final status synchronization
+
+- result — **PASS / CLOSED**;
+- textual status — **111 verified / 0 needs-review / 0 partial / 0 blocked / 0 source-limited**;
+- visual fidelity — **111 verified / 0 needs-review**;
+- starting checkpoint — `978421f53e3606ba2a6ccadcc2f018fbe81efe4d`;
+- status endpoint — `3e9fbf9b2421847b5b3c9fe45ed3b42b2c839355`;
+- exact compare — **111 expected Part-005 page files only**;
+- per-file diff — **2 additions / 2 deletions**;
+- non-page files changed during status promotion — **0**;
+- direct spot checks — scans **445, 500, 555** all `verified` / `verified`;
+- durable record — `works/kuraloviyam/PART_005_FINAL_STATUS_SYNC.md`.
+
 ## Current frontier
 
-**Part 005 final metadata/status synchronization — scans 445–555 / printed 428–538.**
+**Part 005 documentation synchronization.**

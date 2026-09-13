@@ -283,7 +283,11 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - **555→556 CLEAN / source-resolved** preserved;
 - Part 005 audit — **PASS / COMPLETE**;
 - audit coverage/mapping — **111/111 canonical records; 0 gaps / 0 duplicates / 0 anomalies**;
-- audit status discipline — **111 needs-review / 111 visual needs-review; 0 partial / blocked / source-limited / premature verified**;
+- final metadata/status synchronization — **PASS / CLOSED**;
+- final textual status — **111/111 verified**;
+- final visual fidelity — **111/111 verified**;
+- final status exceptions — **0**;
+- metadata-only promotion diff — **111 page files only / each +2,-2 / 0 non-page files**;
 - **555→556 CLEAN**.
 
 ## Part 006 — SOURCE-READY / WAITING
@@ -295,4 +299,4 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 
 ## Current frontier
 
-**Part 005 final metadata/status synchronization — scans 445–555 / printed 428–538.**
+**Part 005 documentation synchronization.**

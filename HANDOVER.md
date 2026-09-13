@@ -308,8 +308,12 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - Part 005 audit — **PASS / COMPLETE**;
 - direct header inventory — **111/111 canonical records present**, scan 445–555 / local 1–111 / printed 428–538, with **0 gaps / 0 duplicates / 0 mapping anomalies**;
 - source filename discipline — **111/111 exact controlling source filename**;
-- status discipline — **111/111 `needs-review` / 111/111 visual `needs-review`**, with **0 premature promotions / 0 partial / 0 blocked / 0 source-limited internal exceptions**;
-- durable audit — `works/kuraloviyam/PART_005_AUDIT.md`.
+- final metadata/status synchronization — **PASS / CLOSED**;
+- final Tamil textual status — **111 verified / 0 needs-review / 0 partial / 0 blocked / 0 source-limited**;
+- final visual fidelity — **111 verified / 0 needs-review**;
+- metadata-only promotion changed exactly **111 Part-005 page files**, each **+2/-2**, and no non-page file;
+- durable audit — `works/kuraloviyam/PART_005_AUDIT.md`;
+- durable final-status record — `works/kuraloviyam/PART_005_FINAL_STATUS_SYNC.md`.
 
 ### Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -320,4 +324,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Proceed with **Part 005 final metadata/status synchronization — scans 445–555 / printed 428–538**. This is a metadata-only gate: promote eligible records from `needs-review` to `verified` for both `status` and `visual_fidelity`, without changing Tamil wording, Kural text/lineation, page structure, `visual_notes`, source comments, mapping or source filenames. Audit evidence is PASS / COMPLETE. Do not begin Part 006 transcription.
+Proceed with **Part 005 documentation synchronization**. Reconcile all live Part-005 control documents to the now-closed Tamil verification/status state: Source Intake + Pass 1 + Pass 2A + Pass 2B + Pass 3 + Part audit + final status sync all closed; textual status **111/111 verified** and visual fidelity **111/111 verified**. Documentation-only: change no page record. Then move to the separate Tamil archival-ready checkpoint. Do not begin Part 006 transcription.

@@ -279,9 +279,13 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - Part 005 audit — **PASS / COMPLETE**;
 - physical/mapping audit — **111/111 canonical records; 0 gaps / 0 duplicates / 0 mapping anomalies**;
 - source-filename audit — **111/111 exact source filename**;
-- pre-final status distribution — **111 needs-review / 111 visual needs-review; 0 partial / 0 blocked / 0 source-limited / 0 premature verified**;
+- final metadata/status synchronization — **PASS / CLOSED**;
+- final textual distribution — **111 verified / 0 needs-review / 0 partial / 0 blocked / 0 source-limited**;
+- final visual distribution — **111 verified / 0 needs-review**;
+- status-sync compare — **111 page files only, each +2/-2; 0 non-page files**;
 - durable audit — `works/kuraloviyam/PART_005_AUDIT.md`;
-- next gate — **Part 005 final metadata/status synchronization / scans 445–555 / printed 428–538**.
+- durable final-status record — `works/kuraloviyam/PART_005_FINAL_STATUS_SYNC.md`;
+- next gate — **Part 005 documentation synchronization**.
 
 ## Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -291,4 +295,4 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ## Exact next activity
 
-Proceed with **Part 005 final metadata/status synchronization / scans 445–555 / printed 428–538**. This is metadata-only: promote both final status fields to `verified` on all eligible records, and verify the exact changed-file set. Do not change Tamil wording, Kural text, structure, visual notes, comments, source identifiers or mapping. Do not start Part 006 transcription.
+Proceed with **Part 005 documentation synchronization**. Reconcile live control files to final **111/111 textual verified / 111/111 visual verified**, with all Tamil verification gates through final status sync closed. Documentation-only; modify no page record. Then move to the separate Tamil archival-ready checkpoint. Do not start Part 006 transcription.
