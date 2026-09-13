@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -37,7 +37,7 @@ Senguttuvan ordered.
 
 And so the stone was placed upon the heads of Kanakan and Vijayan.
 
-Those beings whose mouths had known no restraint walked with aching legs carrying it.
+Those creatures with no restraint on their tongues trudged on with aching legs under the stone.
 
 At that moment Minister Azhumbil Vel said:
 

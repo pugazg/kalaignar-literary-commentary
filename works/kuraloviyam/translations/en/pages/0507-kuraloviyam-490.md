@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -21,7 +21,7 @@ Indeed, one may even give up life in order to protect honour.
 
 But what a fate befalls that incomparable and exalted thing called honour when it gets caught among lovers!
 
-Whether man or woman, once they fall under the common name “lover,” and reach the point where each can no longer bear separation from the other, the state into which they fall is rendered by the Kural with extraordinary flavour.
+Whether man or woman, once they fall under the common name “lover” and reach the point where each can no longer bear separation from the other, the Kural captures their state with striking vividness.
 
 Eye with eye. Cheek against cheek. Sugarcane-sweet lip against lip. Pomegranate breast against chest.
 

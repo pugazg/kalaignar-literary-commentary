@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -17,7 +17,7 @@ Large upper illustration of two women in conversation.
 
 “She came like lightning tearing the sky! She gave me red lips overflowing with honey! She raised crescent-curved brows and set two fish leaping beneath them! That doe rolled upon my lap—why did she vanish like magic?”
 
-“My jewel! The man waiting for you showed me eyes turned into pools as he spoke like this. Yet you make a habit of finding fault with him. What a strange performance!”
+“My jewel! The man waiting for you showed me eyes turned into pools as he spoke like this. Yet you make a habit of finding fault with him. What a strange thing!”
 
 Thumbai asked this while shaking her friend Thogai by the shoulders.
 
@@ -25,7 +25,7 @@ She was pure as the thumbai flower. That was why she longed to relieve Thogai's 
 
 She tried to prove that Thogai's lover had no fault at all.
 
-Thogai slapped Thumbai's hands aside.
+Thogai brushed Thumbai's hands aside.
 
 “Oh, go away! Have you come to argue his case? However much you praise him and tell stories that he has boundless love for me, I am not such a fool that I will believe it!”
 
