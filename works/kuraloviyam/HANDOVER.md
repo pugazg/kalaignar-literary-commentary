@@ -215,7 +215,8 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - Pass 2B Batch 2 — **456–466 / printed 439–449 — COMPLETE 11/11**;
 - Pass 2B Batch 3 — **467–477 / printed 450–460 — COMPLETE 11/11**;
 - Pass 2B Batch 4 — **478–488 / printed 461–471 — COMPLETE 11/11**;
-- cumulative Pass 2B — **44/111**;
+- Pass 2B Batch 5 — **489–499 / printed 472–482 — COMPLETE 11/11**;
+- cumulative Pass 2B — **55/111**;
 - Batch-1 Pass-2B correction — **1 record / 1 lexical reading**;
 - Batch-1 Pass-2B correction commit — `8391075c43b72ec3e5973db080ba742e5e899c4b` — exact compare **1 page file only / scan 453**;
 - **455→456 GENUINE CONTINUATION**;
@@ -228,9 +229,12 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - Batch-4 Pass-2B corrections — **4 records / 9 lexical-or-spacing/punctuation readings**;
 - Batch-4 Pass-2B correction commit — `81456d09f7745a0834c3edc2170281945b91f478` — exact compare **4 page files only / scans 482, 485, 486, 488**;
 - **488→489 CLEAN**;
+- Batch-5 Pass-2B corrections — **5 records / 9 lexical-or-spacing/punctuation readings**;
+- Batch-5 Pass-2B correction commit — `2c0b3b4ddff95c18c9312dbdffbc4ef2d41c2767` — exact compare **5 page files only / scans 490, 492, 494, 496, 497**;
+- **499→500 GENUINE CONTINUATION**;
 - Pass 2B log — `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_005.md`;
 - durable Pass-2A log — `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_005.md`;
-- next gate — **Pass 2B Batch 5 / scans 489–499 / printed 472–482**.
+- next gate — **Pass 2B Batch 6 / scans 500–510 / printed 483–493**.
 
 ## Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -240,4 +244,4 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ## Exact next activity
 
-Proceed with **Part 005 Pass 2B Batch 5 / scans 489–499 / printed 472–482** as an independent lexical-fidelity re-read. Preserve **488→489 CLEAN**, use scan 500 only as the outgoing witness when required, apply only source-supported corrections, keep statuses `needs-review` / visual `needs-review`, and do not start Part 006 transcription.
+Proceed with **Part 005 Pass 2B Batch 6 / scans 500–510 / printed 483–493** as an independent lexical-fidelity re-read. Preserve **499→500 GENUINE CONTINUATION**, use scan 511 only as the outgoing witness when required, apply only source-supported corrections, keep statuses `needs-review` / visual `needs-review`, and do not start Part 006 transcription.

@@ -131,26 +131,57 @@ Durable correction commit:
 
 Exact compare from pre-batch `7f1bc20da5d3c7c70fc1033041dcbe2821c06470` to correction endpoint `81456d09f7745a0834c3edc2170281945b91f478` is **ahead by 1 commit** and changes exactly **4 page files**, scans **482, 485, 486, 488** only.
 
+## Batch 5 — overall scans 489–499 / printed pages 472–482
+
+**Status: COMPLETE — 11 / 11 scans independently re-read against freshly rendered source.**
+
+Incoming **488→489 CLEAN** was preserved. Scan **500 / printed 483** was inspected only as the outgoing witness and confirms **499→500 GENUINE CONTINUATION**: scan 499 opens a public-gaze / concealed-love dialogue whose quoted exchange continues directly at the top of scan 500.
+
+| Scan | Printed page | Pass 2B result |
+|---:|---:|---|
+| 489 | 472 | independent lexical re-read complete; no correction required; corrupt-hypocrite / ill-gotten-wealth vignette begins and continues into 490 |
+| 490 | 473 | corrected source-visible spacing `பொருள்களுடன்` → `பொருள் களுடன்`; corrected `திமிரென` → `திடீரென`; Chapter 66 / Kural 660 and source glosses confirmed |
+| 491 | 474 | independent lexical re-read complete; no correction required; lovers/eyes-and-heart vignette continues into 492 |
+| 492 | 475 | corrected `மடியில்` → `மடியினில்`; quote-final `புரியவில்லை?”` → `புரியவில்லை!”`; `பிரிவெண்ணும்` → `பிரிவென்னும்`; Chapter 117 / Kural 1166 and source gloss confirmed |
+| 493 | 476 | independent lexical re-read complete; no correction required; Valluvar/ignorant-pretender vignette continues into 494 |
+| 494 | 477 | corrected `முனைந்து` → `முயன்றது`; source-visible spacing `பெருங்கோபத்தை` → `பெருங் கோபத்தை`; Chapter 41 / Kural 402 confirmed |
+| 495 | 478 | independent lexical re-read complete; no correction required; mother-son reconciliation vignette continues into 496 |
+| 496 | 479 | corrected source-visible spacing `உடன்படவில்லை` → `உடன் படவில்லை`; Chapter 8 / Kural 71 and source gloss confirmed |
+| 497 | 480 | corrected source-visible spacing `பெருங்கயிறுகளாலும்` → `பெருங் கயிறுகளாலும்`; elephant-trap analogy continues into 498 |
+| 498 | 481 | independent lexical re-read complete; no correction required; Chapter 68 / Kural 678 confirmed |
+| 499 | 482 | independent lexical re-read complete; no correction required; public-gaze / concealed-love vignette continues directly into scan 500; outgoing witness confirms GENUINE CONTINUATION |
+
+Batch 5 correction summary: **5 records corrected; 6 records required no lexical or punctuation change; 9 source-supported lexical-or-spacing/punctuation readings corrected in total**.
+
+Durable correction commit:
+
+`2c0b3b4ddff95c18c9312dbdffbc4ef2d41c2767` — `kuraloviyam: Pass 2B verify Part 005 scans 489-499`
+
+Exact compare from pre-batch `9b46e0bfc348eabdea7a4dcc892f40dd5a3fe4ce` to correction endpoint `2c0b3b4ddff95c18c9312dbdffbc4ef2d41c2767` is **ahead by 1 commit** and changes exactly **5 page files**, scans **490, 492, 494, 496, 497** only.
+
 ## Current Pass 2B coverage
 
-- complete — **44/111 scans**;
-- remaining — **67 scans**;
+- complete — **55/111 scans**;
+- remaining — **56 scans**;
 - Batch 1 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - Batch 2 — **456–466 / printed 439–449 — COMPLETE 11/11**;
 - Batch 3 — **467–477 / printed 450–460 — COMPLETE 11/11**;
 - Batch 4 — **478–488 / printed 461–471 — COMPLETE 11/11**;
+- Batch 5 — **489–499 / printed 472–482 — COMPLETE 11/11**;
 - corrected Batch-1 scans — **453**;
 - corrected Batch-2 scans — **457, 463, 465**;
 - corrected Batch-3 scans — **469, 477**;
 - corrected Batch-4 scans — **482, 485, 486, 488**;
+- corrected Batch-5 scans — **490, 492, 494, 496, 497**;
 - incoming Part boundary **444→445 — GENUINE CONTINUATION / source-resolved**;
 - **455→456 — GENUINE CONTINUATION** preserved;
 - **466→467 — GENUINE CONTINUATION** preserved;
 - **477→478 — CLEAN** preserved;
-- outgoing Batch-4 boundary **488→489 — CLEAN**;
+- **488→489 — CLEAN** preserved;
+- outgoing Batch-5 boundary **499→500 — GENUINE CONTINUATION**;
 - outgoing Part boundary **555→556 — CLEAN / source-resolved**;
 - current page statuses — **111 needs-review / 111 visual needs-review**.
 
 ## Exact next activity
 
-Continue **Batch 5 — scans 489–499 / printed 472–482**. Preserve incoming **488→489 CLEAN**. Inspect scan **500 / printed 483** only as the outgoing boundary witness when required. Apply only source-supported lexical or punctuation corrections. Do not promote final status and do not begin Part 006.
+Continue **Batch 6 — scans 500–510 / printed 483–493**. Preserve incoming **499→500 GENUINE CONTINUATION**. Inspect scan **511 / printed 494** only as the outgoing boundary witness when required. Apply only source-supported lexical or punctuation corrections. Do not promote final status and do not begin Part 006.

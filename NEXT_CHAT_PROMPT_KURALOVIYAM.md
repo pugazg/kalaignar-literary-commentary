@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 005 Pass 2B Batch 5
+# NEXT CHAT PROMPT — குறளோவியம் / Part 005 Pass 2B Batch 6
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -17,29 +17,30 @@ Parts **001–004 remain closed**. Do not reopen them.
 - source intake — **PASS / COMPLETE**;
 - Pass 1 — **COMPLETE 111/111**;
 - Pass 2A — **COMPLETE / PASS 111/111**;
-- Pass 2B Batches 1–4 — **COMPLETE 44/111**;
-- Batch 4 — **478–488 / printed 461–471 — COMPLETE 11/11**;
-- Batch-4 Pass-2B corrections — **4 records / 9 lexical-or-spacing/punctuation readings**:
-  - scan 482 — `களிச் நிலத்தின்` → source-visible `கரிசல் நிலத்தின்`;
-  - scan 485 — `பரணியாக்கு!` → source-visible `பரணியாக்குக!`;
-  - scan 486 — `நானாயிரம்` → `நாலாயிரம்` twice;
-  - scan 486 — `ஆண்டுக்கு` → `ஆண்டுகட்கு`;
-  - scan 486 — `செம்மொழி - தமிழ்மொழி` → `செம்மொழி-தமிழ்மொழி`;
-  - scan 486 — source quote closure restored as `தமிழ்க் குடி’யன்றோ!` and the spurious end-of-paragraph quote removed;
-  - scan 486 — `உடனடைப் பதுக்கியவாறும்` → `உதட்டைப் பிதுக்கியவாறும்`;
-  - scan 488 — `தாபத்தைக்` → `தாபத்தைத்`;
-- correction commit — `81456d09f7745a0834c3edc2170281945b91f478`;
-- exact compare — **4 page files only / scans 482, 485, 486, 488**;
-- incoming **477→478 CLEAN** preserved;
-- outgoing **488→489 CLEAN**, confirmed from scan 489 / printed 472 witness;
+- Pass 2B Batches 1–5 — **COMPLETE 55/111**;
+- Batch 5 — **489–499 / printed 472–482 — COMPLETE 11/11**;
+- Batch-5 Pass-2B corrections — **5 records / 9 lexical-or-spacing/punctuation readings**:
+  - scan 490 — `பொருள்களுடன்` → source-visible `பொருள் களுடன்`;
+  - scan 490 — `திமிரென` → source-visible `திடீரென`;
+  - scan 492 — `மடியில்` → source-visible `மடியினில்`;
+  - scan 492 — `புரியவில்லை?”` → source-visible `புரியவில்லை!”`;
+  - scan 492 — `பிரிவெண்ணும்` → source-visible `பிரிவென்னும்`;
+  - scan 494 — `முனைந்து` → source-visible `முயன்றது`;
+  - scan 494 — `பெருங்கோபத்தை` → source-visible `பெருங் கோபத்தை`;
+  - scan 496 — `உடன்படவில்லை` → source-visible `உடன் படவில்லை`;
+  - scan 497 — `பெருங்கயிறுகளாலும்` → source-visible `பெருங் கயிறுகளாலும்`;
+- correction commit — `2c0b3b4ddff95c18c9312dbdffbc4ef2d41c2767`;
+- exact compare from pre-batch `9b46e0bfc348eabdea7a4dcc892f40dd5a3fe4ce` — **ahead by 1 commit / 5 page files only / scans 490, 492, 494, 496, 497**;
+- incoming **488→489 CLEAN** preserved;
+- outgoing **499→500 GENUINE CONTINUATION**, confirmed from scan 500 / printed 483 witness;
 - all 111 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
 
 Part 006 remains transcription-inactive until the entire Part 005 workflow closes.
 
-## Exact next activity — Pass 2B Batch 5
+## Exact next activity — Pass 2B Batch 6
 
-Process scans **489–499 / printed 472–482** as an **independent lexical-fidelity re-read** against freshly rendered source scans.
+Process scans **500–510 / printed 483–493** as an **independent lexical-fidelity re-read** against freshly rendered source scans.
 
 Re-read every source-visible printed word independently, with special attention to `ர/ற`, `ன/ண`, `ல/ள/ழ`, vowel signs, compound letters, source-visible joining/spacing, old or uncommon forms, names, quotations, Kural text, paragraph/quotation boundaries, punctuation and printed `அதிகாரம்` / பாடல் metadata.
 
-Preserve incoming **488→489 CLEAN**. Inspect scan **500 / printed 483** only as the outgoing boundary witness when required. Apply only source-supported corrections. Keep page status `needs-review` / visual `needs-review`; Pass 3 remains mandatory. Do not begin Part 006 transcription.
+Preserve incoming **499→500 GENUINE CONTINUATION**. Inspect scan **511 / printed 494** only as the outgoing boundary witness when required. Apply only source-supported corrections. Keep page status `needs-review` / visual `needs-review`; Pass 3 remains mandatory. Do not begin Part 006 transcription.

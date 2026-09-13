@@ -244,7 +244,8 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - Pass 2B Batch 2 — **456–466 / printed 439–449 — COMPLETE 11/11**;
 - Pass 2B Batch 3 — **467–477 / printed 450–460 — COMPLETE 11/11**;
 - Pass 2B Batch 4 — **478–488 / printed 461–471 — COMPLETE 11/11**;
-- cumulative Pass 2B — **44/111**;
+- Pass 2B Batch 5 — **489–499 / printed 472–482 — COMPLETE 11/11**;
+- cumulative Pass 2B — **55/111**;
 - Batch-1 Pass-2B correction — **1 record / 1 lexical reading**: scan 453 `முத்தனியின்` → source-visible `முக்கனியின்`;
 - Batch-1 Pass-2B correction commit — `8391075c43b72ec3e5973db080ba742e5e899c4b` — exact compare **1 page file only / scan 453**;
 - **455→456 — GENUINE CONTINUATION**, confirmed from scan 456 / printed 439 witness;
@@ -257,6 +258,9 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - Batch-4 Pass-2B corrections — **4 records / 9 lexical-or-spacing/punctuation readings**: scan 482 `களிச் நிலத்தின்` → `கரிசல் நிலத்தின்`; scan 485 `பரணியாக்கு` → `பரணியாக்குக`; scan 486 `நானாயிரம்` → `நாலாயிரம்` twice, `ஆண்டுக்கு` → `ஆண்டுகட்கு`, `செம்மொழி - தமிழ்மொழி` → `செம்மொழி-தமிழ்மொழி`, quote closure corrected at `தமிழ்க் குடி’யன்றோ!`, and `உடனடைப் பதுக்கியவாறும்` → `உதட்டைப் பிதுக்கியவாறும்`; scan 488 `தாபத்தைக்` → `தாபத்தைத்`;
 - Batch-4 Pass-2B correction commit — `81456d09f7745a0834c3edc2170281945b91f478` — exact compare **4 page files only / scans 482, 485, 486, 488**;
 - **488→489 — CLEAN**, confirmed from scan 489 / printed 472 witness;
+- Batch-5 Pass-2B corrections — **5 records / 9 lexical-or-spacing/punctuation readings**: scan 490 `பொருள்களுடன்` → `பொருள் களுடன்`, `திமிரென` → `திடீரென`; scan 492 `மடியில்` → `மடியினில்`, `புரியவில்லை?”` → `புரியவில்லை!”`, `பிரிவெண்ணும்` → `பிரிவென்னும்`; scan 494 `முனைந்து` → `முயன்றது`, `பெருங்கோபத்தை` → `பெருங் கோபத்தை`; scan 496 `உடன்படவில்லை` → `உடன் படவில்லை`; scan 497 `பெருங்கயிறுகளாலும்` → `பெருங் கயிறுகளாலும்`;
+- Batch-5 Pass-2B correction commit — `2c0b3b4ddff95c18c9312dbdffbc4ef2d41c2767` — exact compare **5 page files only / scans 490, 492, 494, 496, 497**;
+- **499→500 — GENUINE CONTINUATION**, confirmed from scan 500 / printed 483 witness;
 - durable Pass-2B log — `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_005.md`.
 
 ### Part 006 — SOURCE INTAKE COMPLETE / WAITING
@@ -268,4 +272,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Continue **Part 005 Pass 2B / Batch 5 — scans 489–499 / printed 472–482** as an independent lexical-fidelity re-read. Preserve incoming **488→489 CLEAN** and inspect scan **500 / printed 483** only as the outgoing witness when required. Keep page statuses `needs-review` / visual `needs-review`; Pass 3 remains mandatory. Do not begin Part 006 transcription.
+Continue **Part 005 Pass 2B / Batch 6 — scans 500–510 / printed 483–493** as an independent lexical-fidelity re-read. Preserve incoming **499→500 GENUINE CONTINUATION** and inspect scan **511 / printed 494** only as the outgoing witness when required. Keep page statuses `needs-review` / visual `needs-review`; Pass 3 remains mandatory. Do not begin Part 006 transcription.
