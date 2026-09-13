@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 005 English release APPROVED / CLOSED 111/111; final Part closure next**: **2026-09-13**.
+Last refreshed for Kuraloviyam **Part 005 FULLY CLOSED; Part 006 P6-01 scans 556–566 next**: **2026-09-13**.
 
 ## Repository
 
@@ -416,15 +416,18 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - release promotion endpoint — `3d35d4c67f17f77b8ff5de036a8a3989ec088a78`;
 - exact promotion audit — **19 commits ahead / exactly 111 English page files / +1,-1 each / 0 non-page files / status-token-only**;
 - current Part-005 English state — **0 source-checked / 0 draft / 0 editorial-reviewed / 111 release-ready / 0 source-limited / 0 blocked**;
-- next maintained English gate — **final Part 005 closure checkpoint / documentation confirmation**.
+- final Part-005 checkpoint — **PASS / CLOSED**;
+- durable final closure — `works/kuraloviyam/PART_005_FINAL_CLOSURE.md`;
+- Part 005 — **TAMIL + MAINTAINED ENGLISH FULLY CLOSED**.
 
-### Part 006 — SOURCE INTAKE COMPLETE / WAITING
+### Part 006 — SOURCE INTAKE COMPLETE / ACTIVE
 
 - source intake — **PASS / COMPLETE**;
 - scans — **556–666**;
 - physical source endpoint — **scan 666**;
-- Tamil Pass 1 — **NOT STARTED / waiting behind Part 005**.
+- Tamil Pass 1 — **NOT STARTED / ACTIVE FRONTIER**;
+- exact next batch — **P6-01 / scans 556–566 / printed 539–549 — 11 scans**.
 
 ## Exact next activity — குறளோவியம்
 
-Proceed with the **final Part 005 closure checkpoint / documentation confirmation**. Use `works/kuraloviyam/translations/en/reviews/PART_005_ENGLISH_RELEASE_REPORT.md` as the authoritative release gate. Confirm Tamil remains **ARCHIVAL-READY / CLOSED 111/111**, English remains **111/111 release-ready**, all earlier drafting/source-check/glossary/editorial/Part-review/release gates are durably closed, and **444→445 GENUINE CONTINUATION / source-resolved** plus **555→556 CLEAN / source-resolved** remain intact. Make no page wording/status or Tamil changes. If the checkpoint passes, create the durable Part 005 final-closure record and only then unblock Part 006.
+Proceed with **Part 006 Pass 1 P6-01 — scans 556–566 / printed 539–549 — 11 scans**. Part 005 is fully closed at `works/kuraloviyam/PART_005_FINAL_CLOSURE.md`; do not reopen it. Use only the Part 006 controlling source / rendered scans. Create the first Tamil archival records with exact scan/printed-page alignment, body/visual/page-function fidelity, and no imported web/canonical Kural wording or external commentary. Preserve incoming **555→556 CLEAN / source-resolved**.

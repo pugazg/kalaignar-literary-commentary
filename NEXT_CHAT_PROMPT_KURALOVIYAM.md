@@ -1,87 +1,77 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 005 Final Closure
+# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 1 P6-01
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
-Parts **001–004 remain fully closed**. Do not reopen them.
+## Closed Parts
 
-## Part 005 Tamil
+Parts **001–005 are fully closed**. Do not reopen them.
 
-**ARCHIVAL-READY / CLOSED — 111/111 textual verified + 111/111 visual verified / 0 exceptions.**
+Part 005 durable closure:
 
-## Part 005 English workflow
+`works/kuraloviyam/PART_005_FINAL_CLOSURE.md`
 
-Translation identity: **project-created English translation**.
+Part 005 final state:
 
-Completed gates:
+- Tamil — **111/111 textual verified + 111/111 visual verified / 0 exceptions**;
+- English — **111/111 release-ready**;
+- Part-level review — **PASS / CLOSED**;
+- English release — **APPROVED / CLOSED**;
+- final checkpoint — **PASS / CLOSED**;
+- incoming **444→445 GENUINE CONTINUATION / source-resolved**;
+- outgoing **555→556 CLEAN / source-resolved**.
 
-- drafting — **COMPLETE / CLOSED 111/111**;
-- source-check — **COMPLETE / CLOSED 111/111**;
-- glossary reconciliation — **COMPLETE / CLOSED 111/111**;
-- editorial review — **COMPLETE / CLOSED 111/111**;
-- Part-level English review — **PASS / CLOSED**;
-- English release report — **APPROVED / CLOSED**;
-- release-ready promotion — **COMPLETE / PASS 111/111**.
+## Part 006 controlling source
 
-Authoritative records:
+`TVA_BOK_0065733_குறளோவியம்_part_006_pages_556-666.pdf`
 
-- Part review — `works/kuraloviyam/translations/en/reviews/PART_005_ENGLISH_REVIEW.md`;
-- release report — `works/kuraloviyam/translations/en/reviews/PART_005_ENGLISH_RELEASE_REPORT.md`.
+Source intake:
 
-## Release audit
+`works/kuraloviyam/SOURCE_INTAKE_PART_006.md`
 
-Promotion base:
+Identity:
 
-`af50dbf8b6ab54e456d87b10cfdcd094e6d3a516`
+- source family — `TVA_BOK_0065733`;
+- overall scans — **556–666**;
+- local pages — **111**;
+- visible printed pages — **539–648**;
+- scan **666** — unnumbered pictorial back cover;
+- rendered scans are controlling; no usable parsed text layer;
+- **555→556 — CLEAN / source-resolved**;
+- no deferred external continuation beyond scan 666.
 
-Promotion endpoint:
+## Part 006 Pass 1 cadence
 
-`3d35d4c67f17f77b8ff5de036a8a3989ec088a78`
+- P6-01 — **556–566 / printed 539–549**;
+- P6-02 — **567–577 / printed 550–560**;
+- P6-03 — **578–588 / printed 561–571**;
+- P6-04 — **589–599 / printed 572–582**;
+- P6-05 — **600–610 / printed 583–593**;
+- P6-06 — **611–621 / printed 594–604**;
+- P6-07 — **622–632 / printed 605–615**;
+- P6-08 — **633–643 / printed 616–626**;
+- P6-09 — **644–654 / printed 627–637**;
+- P6-10 — **655–665 / printed 638–648**;
+- final remainder — **666 / unnumbered back cover**.
 
-Exact compare:
+Workflow boundaries must not create artificial textual boundaries.
 
-- **19 commits ahead / non-divergent**;
-- exactly **111 changed files**;
-- all **111** are Part 005 English page records, scans **445–555**;
-- every file is **+1 / -1**;
-- non-page/control files changed during promotion — **0**;
-- promotion mutation — `status: "editorial-reviewed"` → `status: "release-ready"` only;
-- approved English wording changes — **0**;
-- Tamil changes — **0**;
-- glossary/metadata/visual changes — **0**.
+## Exact next activity — P6-01
 
-Current Part-005 English state:
+Process:
 
-- `release-ready` — **111**;
-- `editorial-reviewed` — **0**;
-- `source-checked` — **0**;
-- `draft` — **0**;
-- `source-limited` — **0**;
-- `blocked` — **0**.
+**scans 556–566 / printed 539–549 — 11 physical scans**.
 
-Boundary discipline:
+For each scan:
 
-- incoming **444→445 — GENUINE CONTINUATION / source-resolved**;
-- outgoing **555→556 — CLEAN / source-resolved**.
+- inspect the rendered source pixels directly;
+- create the canonical Tamil page record under `works/kuraloviyam/pages/`;
+- preserve exact visible lexical wording, punctuation, paragraph order and physical-page split;
+- record exact overall scan number and printed page;
+- capture illustrations / non-body / page-function evidence in `visual_notes` and archival structure;
+- retain contents/index/stamp/backmatter as non-body material where applicable;
+- set initial Tamil workflow status according to the established Part-005 Pass-1 convention;
+- do not import canonical/web Kural wording or external commentary;
+- do not infer text hidden or absent from the supplied scan;
+- preserve incoming **555→556 CLEAN / source-resolved**.
 
-## Exact next activity — Final Part 005 Closure
-
-Perform a no-page-change final checkpoint.
-
-Confirm:
-
-- Tamil remains **ARCHIVAL-READY / CLOSED 111/111**;
-- English remains **111/111 release-ready**;
-- drafting/source-check/glossary/editorial/Part-review/release gates are all durably closed;
-- release report is APPROVED / CLOSED;
-- source-limited and blocked counts are 0;
-- no page wording or status drift has occurred after release promotion;
-- incoming and outgoing Part boundaries remain source-resolved as recorded.
-
-If PASS:
-
-- create `works/kuraloviyam/PART_005_FINAL_CLOSURE.md`;
-- synchronize root/work handovers, README, page-map, source metadata, translation status, guidelines and next-chat prompt;
-- mark Part 005 **FULLY CLOSED**;
-- only then advance Part 006 from waiting to the next active Tamil intake/transcription gate.
-
-Do not modify Part 005 page records during this checkpoint.
+After P6-01, compare the batch base → endpoint and confirm exactly the intended **11 Part 006 page records** were added/changed before advancing.

@@ -361,14 +361,17 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - release promotion endpoint — `3d35d4c67f17f77b8ff5de036a8a3989ec088a78`;
 - exact promotion audit — **19 commits ahead / exactly 111 English page files / +1,-1 each / 0 non-page files / status-token-only**;
 - current English status — **0 source-checked / 0 draft / 0 editorial-reviewed / 111 release-ready / 0 source-limited / 0 blocked**;
-- next gate — **final Part 005 closure checkpoint / documentation confirmation**.
+- final Part-005 checkpoint — **PASS / CLOSED**;
+- durable final closure — `PART_005_FINAL_CLOSURE.md`;
+- Part 005 — **FULLY CLOSED**.
 
-## Part 006 — SOURCE INTAKE COMPLETE / WAITING
+## Part 006 — SOURCE INTAKE COMPLETE / ACTIVE
 
 - scans — **556–666**;
 - source endpoint — **scan 666**;
-- Pass 1 — **NOT STARTED / waiting behind Part 005**.
+- Pass 1 — **NOT STARTED / ACTIVE FRONTIER**;
+- exact next batch — **P6-01 / scans 556–566 / printed 539–549 — 11 scans**.
 
 ## Exact next activity
 
-Proceed with the **final Part 005 closure checkpoint / documentation confirmation**. Use `translations/en/reviews/PART_005_ENGLISH_RELEASE_REPORT.md` as the authoritative release gate. Confirm Tamil remains **111/111 textual+visual verified**, English remains **111/111 release-ready**, all prior gates are closed, and **444→445 GENUINE CONTINUATION / source-resolved** plus **555→556 CLEAN / source-resolved** remain intact. Make no Part 005 page changes. If PASS, create the final-closure record and only then activate Part 006.
+Proceed with **Part 006 Pass 1 P6-01 / scans 556–566 / printed 539–549 — 11 scans**. Part 005 is fully closed; do not reopen it. Use the Part 006 rendered source scans as controlling authority, create the first 11 Tamil page records with exact physical-page/visual fidelity, preserve **555→556 CLEAN / source-resolved**, and do not import web/canonical Kural wording or external commentary.
