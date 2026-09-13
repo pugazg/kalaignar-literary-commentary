@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -21,7 +21,7 @@ When the first tender shoots of moustache appeared and the townspeople and relat
 
 He surrendered his mind to that picture-perfect young woman of refined Tamil beauty.
 
-Even then, not the smallest particle was lost from the love he bore his mother and father.
+Even then, his love for his mother and father did not diminish in the slightest.
 
 But his father was not willing to accept as a daughter-in-law a worthy young woman who had not been born into a household rich enough to match their status.
 

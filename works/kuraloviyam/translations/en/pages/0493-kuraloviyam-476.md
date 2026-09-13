@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -17,11 +17,11 @@ Large upper illustration of Valluvar angrily pointing at another man.
 
 “Did you know that even Valluvar, who gave us the Kural saying one should not use hurtful words when pleasant words are available, once failed to restrain his anger and struck at a man with harsh language?”
 
-My friend suddenly threw this story before me.
+My friend suddenly tossed this startling claim at me.
 
 “My friend, what nonsense are you talking? You lie without shame as though you lived in the house next door to Valluvar. Have you forgotten that Valluvar lived two thousand years ago?”
 
-I tried to corner him.
+I countered him.
 
 My friend had no intention of withdrawing what he had said. He was interested only in drawing me over to his side.
 

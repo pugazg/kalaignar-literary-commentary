@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -17,13 +17,13 @@ Large upper illustration of reclining lovers beside the river.
 
 “My heart! When you run after him, chasing him wherever he goes, take my eyes with you too. Otherwise, in their longing to see him, they will peck at me and eat me alive!”
 
-The beloved had written this Kural-language at the end of a letter to her lover.
+The beloved had written this Kural line at the end of a letter to her lover.
 
 Would she not know that the same condition afflicted his eyes, his heart—and even him?
 
 He had already written her a love-letter, taking himself as the example for that very Kural.
 
-When their letter-messengers had finally done their work, the doe and the stag lay upon a sandy rise beside the river, where the breeze swung among flowered creepers. Each seemed to compete with the other in drinking in the other's beauty.
+Once their exchange of letters had done its work, the doe and the stag lay upon a sandy rise beside the river, where the breeze swung among flowered creepers. Each seemed to compete with the other in drinking in the other's beauty.
 
 “What is it, my beauty? Why do you keep looking only at me? What extraordinary beauty have you discovered in me that you stare and wonder so?”
 

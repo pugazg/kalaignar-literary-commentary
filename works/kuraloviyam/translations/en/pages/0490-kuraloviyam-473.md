@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-All the jewels entrusted to him for safekeeping were never returned to those who had handed them over.
+None of the jewels entrusted to him for safekeeping was ever returned to its owner.
 
 With a few seasoned rogues in his service, he became skilled even in smuggling costly goods such as gold and diamonds.
 
@@ -19,7 +19,7 @@ All these evil deeds remained hidden from the town.
 
 Then one day a shocking piece of news awaited him.
 
-A terrifying robber chief, together with his plundering band, was said to be moving from one wealthy household to another in the town—and his house would be the first.
+A terrifying robber chief, together with his plundering band, was said to be coming to raid the wealthy houses of the town—and his house would be the first.
 
 The news came like a spark of fire. He was stunned.
 
@@ -41,7 +41,7 @@ She said:
 
 “Sir, I am an ignorant woman. There is no clean drinking water in this area. So I walked two miles, brought drinking water, and stored it safely in a pot. But the pot was made of unbaked clay. It could not hold the water I had saved.
 
-“Just as wealth earned by evil means can suddenly perish, the water stored in that green-clay vessel could not be held by the pot; it broke and the water ran away.”
+“Just as wealth earned by evil means can suddenly perish, the water stored in that unbaked clay vessel could not be held; the pot broke and the water ran away.”
 
 The young woman gave this answer and looked at him with pity.
 
