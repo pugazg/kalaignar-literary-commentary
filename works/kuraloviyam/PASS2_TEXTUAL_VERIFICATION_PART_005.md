@@ -112,8 +112,36 @@ Durable correction commit:
 
 Exact compare from pre-batch `7667d4c63f50cb8cb008c342bc509b053e2812c9` to correction endpoint `b6ce17d55759f05f80af760ac9d3d2cd0ec96bac` is **ahead by 1 commit** and changes exactly **7 page files**, scans **467, 468, 469, 471, 473, 476, 477** only.
 
+## Batch 4 — overall scans 478–488 / printed pages 461–471
+
+**Status: COMPLETE — 11 / 11 scans directly compared against rendered source.**
+
+Incoming **477→478 CLEAN** was preserved. Scan **489 / printed 472** was inspected only as the outgoing witness and confirms **488→489 CLEAN**: scan 488 closes the Ahalikai / Indran self-control vignette with Chapter 3 / Kural 25, while scan 489 starts a new illustrated `நெறி தவறாதவன் - நேர்மையானவன் - நீதியின் உருவம்` vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 478 | 461 | direct textual comparison complete; no correction required; one-page Chapter 109 / Kural 1086 vignette and source gloss confirmed |
+| 479 | 462 | direct textual comparison complete; no correction required; Veerasingam / Anbaananthan adornment contest continues into 480 |
+| 480 | 463 | corrected spurious split `முத்துக் களால்` → source-visible `முத்துக்களால்`; Chapter 10 / Kural 95 confirmed |
+| 481 | 464 | corrected `அவற்றம் எழுத்துக்கள்` → source-visible `அவர்தம் எழுத்துக்கள்`; degraded-company analogy continues into 482 |
+| 482 | 465 | corrected `அக் தண்ணீர்` → source-visible `அத் தண்ணீர்`; Chapter 46 / Kural 452 confirmed |
+| 483 | 466 | direct textual comparison complete; no correction required; learned-reader / lovers'-union analogy continues into 484 |
+| 484 | 467 | direct textual comparison complete; no correction required; Chapter 111 / Kural 1110 and source gloss confirmed |
+| 485 | 468 | direct textual comparison complete; no correction required; Tamil-language pride / unsuitable-audience vignette continues into 486 |
+| 486 | 469 | corrected both occurrences of `நாளாயிரம்` → source-visible `நானாயிரம்`; Chapter 72 / Kural 720 and both source glosses confirmed |
+| 487 | 470 | corrected `அங்கேதான்` → source-visible `அங்குதான்`; Ahalikai / Indran self-control vignette continues into 488 |
+| 488 | 471 | corrected `கனவனில்லையெனக்` → source-visible `கணவனில்லையெனக்`; corrected `கலங்கியமுதான்` → `கலங்கியழுதான்`; Chapter 3 / Kural 25 and both source glosses confirmed; scan 489 witness confirms CLEAN boundary |
+
+Batch 4 correction summary: **6 records corrected; 5 records required no textual change; 8 source-supported readings corrected in total**.
+
+Durable correction commit:
+
+`4902fd9fef350947103be839135a1c7d3a7c4d6e` — `kuraloviyam: Pass 2A verify Part 005 scans 478-488`
+
+Exact compare from pre-batch `ed848ceffe2cd62549f82dece5903d1c4696572e` to correction endpoint `4902fd9fef350947103be839135a1c7d3a7c4d6e` is **ahead by 1 commit** and changes exactly **6 page files**, scans **480, 481, 482, 486, 487, 488** only.
+
 ## Current gate
 
-Part 005 Pass 2A: **33/111 complete**.
+Part 005 Pass 2A: **44/111 complete**.
 
-Next: **Batch 4 / scans 478–488 / printed 461–471**, preserving incoming **477→478 CLEAN** and inspecting scan **489 / printed 472** only as the outgoing witness when required.
+Next: **Batch 5 / scans 489–499 / printed 472–482**, preserving incoming **488→489 CLEAN** and inspecting scan **500 / printed 483** only as the outgoing witness when required.

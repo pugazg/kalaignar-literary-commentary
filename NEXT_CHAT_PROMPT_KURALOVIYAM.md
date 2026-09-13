@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 005 Pass 2A Batch 4
+# NEXT CHAT PROMPT — குறளோவியம் / Part 005 Pass 2A Batch 5
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`.
 
@@ -22,32 +22,30 @@ Rendered scans are controlling; no usable parsed text layer exists.
 - Pass 2A Batch 1 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - Pass 2A Batch 2 — **456–466 / printed 439–449 — COMPLETE 11/11**;
 - Pass 2A Batch 3 — **467–477 / printed 450–460 — COMPLETE 11/11**;
-- cumulative Pass 2A — **33/111**;
-- Batch 3 corrections — **7 records / 10 readings**:
-  - scan 467 — `திருக்கிட்டு` → source-visible `திடுக்கிட்டு`;
-  - scan 468 — `புகழிப் பித்தர்களென்பான்` → `பதவிப் பித்தர்களென்பான்`;
-  - scan 469 — `தாய்மையாக` → `தூய்மையாக`;
-  - scan 469 — `இணையில்லாமல்` → `இணைபிரியாமல்`;
-  - scan 469 — `முட்டா` → `மூடா`;
-  - scan 471 — `எழுதுகோவியமாக்கலாமா` → `எழுத்தோவியமாக்கலாமா`;
-  - scan 473 — `அவைக்கனத்தில்` → `அவைக்களத்தில்`;
-  - scan 473 — `அவையவிட்டு` → `அவையைவிட்டு`;
-  - scan 476 — `முத்தமிட்டீர்க ளே` → `முத்தமிட்டீர்களே`;
-  - scan 477 — `தனியர் இதழ்கள்` → `தளிர் இதழ்கள்`;
-- Batch-3 correction commit — `b6ce17d55759f05f80af760ac9d3d2cd0ec96bac`;
-- exact compare from pre-batch `7667d4c63f50cb8cb008c342bc509b053e2812c9` to `b6ce17d55759f05f80af760ac9d3d2cd0ec96bac` — **7 page files only / scans 467, 468, 469, 471, 473, 476, 477**;
-- incoming **466→467 GENUINE CONTINUATION** preserved;
-- outgoing **477→478 CLEAN**, checked from scan 478 / printed 461 witness;
+- Pass 2A Batch 4 — **478–488 / printed 461–471 — COMPLETE 11/11**;
+- cumulative Pass 2A — **44/111**;
+- Batch 4 corrections — **6 records / 8 readings**:
+  - scan 480 — `முத்துக் களால்` → source-visible `முத்துக்களால்`;
+  - scan 481 — `அவற்றம் எழுத்துக்கள்` → `அவர்தம் எழுத்துக்கள்`;
+  - scan 482 — `அக் தண்ணீர்` → `அத் தண்ணீர்`;
+  - scan 486 — `நாளாயிரம்` → `நானாயிரம்` in both occurrences;
+  - scan 487 — `அங்கேதான்` → `அங்குதான்`;
+  - scan 488 — `கனவனில்லையெனக்` → `கணவனில்லையெனக்`;
+  - scan 488 — `கலங்கியமுதான்` → `கலங்கியழுதான்`;
+- Batch-4 correction commit — `4902fd9fef350947103be839135a1c7d3a7c4d6e`;
+- exact compare from pre-batch `ed848ceffe2cd62549f82dece5903d1c4696572e` to `4902fd9fef350947103be839135a1c7d3a7c4d6e` — **6 page files only / scans 480, 481, 482, 486, 487, 488**;
+- incoming **477→478 CLEAN** preserved;
+- outgoing **488→489 CLEAN**, checked from scan 489 / printed 472 witness;
 - durable Pass-2A log — `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_005.md`.
 
 Part 006 remains transcription-inactive until the entire Part 005 workflow closes.
 
-## Exact next activity — Pass 2A Batch 4
+## Exact next activity — Pass 2A Batch 5
 
-Process scans **478–488 / printed 461–471**.
+Process scans **489–499 / printed 472–482**.
 
 Directly compare each current page record against the rendered scan for lexical wording, punctuation/quotation structure, paragraph boundaries, Kural wording/lineation, printed chapter/Kural metadata, glosses, mapping, continuation structure and non-body separation.
 
-Preserve the incoming **477→478 CLEAN** boundary. Inspect scan **489 / printed 472** only as the outgoing boundary witness when required.
+Preserve the incoming **488→489 CLEAN** boundary. Inspect scan **500 / printed 483** only as the outgoing boundary witness when required.
 
 Apply only source-supported corrections. Keep page status `needs-review` / visual `needs-review`; do not promote final verification during Pass 2A. Do not begin Part 006 transcription.

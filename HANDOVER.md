@@ -210,12 +210,15 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - Pass 2A Batch 1 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - Pass 2A Batch 2 — **456–466 / printed 439–449 — COMPLETE 11/11**;
 - Pass 2A Batch 3 — **467–477 / printed 450–460 — COMPLETE 11/11**;
-- cumulative Pass 2A — **33/111**;
+- Pass 2A Batch 4 — **478–488 / printed 461–471 — COMPLETE 11/11**;
+- cumulative Pass 2A — **44/111**;
 - Batch-1 corrections — **2 records / 3 readings**;
 - Batch-2 corrections — **5 records / 6 readings**;
 - Batch-3 source-supported corrections — **7 records / 10 readings**: scan 467 `திருக்கிட்டு` → `திடுக்கிட்டு`; scan 468 `புகழிப் பித்தர்களென்பான்` → `பதவிப் பித்தர்களென்பான்`; scan 469 `தாய்மையாக` → `தூய்மையாக`, `இணையில்லாமல்` → `இணைபிரியாமல்`, `முட்டா` → `மூடா`; scan 471 `எழுதுகோவியமாக்கலாமா` → `எழுத்தோவியமாக்கலாமா`; scan 473 `அவைக்கனத்தில்` → `அவைக்களத்தில்`, `அவையவிட்டு` → `அவையைவிட்டு`; scan 476 `முத்தமிட்டீர்க ளே` → `முத்தமிட்டீர்களே`; scan 477 `தனியர் இதழ்கள்` → `தளிர் இதழ்கள்`;
 - Batch-3 correction commit — `b6ce17d55759f05f80af760ac9d3d2cd0ec96bac` — exact compare **7 page files only / scans 467, 468, 469, 471, 473, 476, 477**;
-- **477→478 — CLEAN**, checked from scan 478 / printed 461 witness;
+- Batch-4 source-supported corrections — **6 records / 8 readings**: scan 480 `முத்துக் களால்` → `முத்துக்களால்`; scan 481 `அவற்றம் எழுத்துக்கள்` → `அவர்தம் எழுத்துக்கள்`; scan 482 `அக் தண்ணீர்` → `அத் தண்ணீர்`; scan 486 `நாளாயிரம்` → `நானாயிரம்` twice; scan 487 `அங்கேதான்` → `அங்குதான்`; scan 488 `கனவனில்லையெனக்` → `கணவனில்லையெனக்`, `கலங்கியமுதான்` → `கலங்கியழுதான்`;
+- Batch-4 correction commit — `4902fd9fef350947103be839135a1c7d3a7c4d6e` — exact compare **6 page files only / scans 480, 481, 482, 486, 487, 488**;
+- **488→489 — CLEAN**, checked from scan 489 / printed 472 witness;
 - all 111 records remain `needs-review` / visual `needs-review`;
 - durable Pass-2A log — `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_005.md`.
 
@@ -228,4 +231,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Continue **Part 005 Pass 2A / Batch 4 — scans 478–488 / printed 461–471**. Preserve the incoming **477→478 CLEAN** boundary. Inspect scan **489 / printed 472** only as the outgoing witness when required. Keep all pages `needs-review` until the later required Pass 2B / Pass 3 / audit gates close. Do not begin Part 006 transcription yet.
+Continue **Part 005 Pass 2A / Batch 5 — scans 489–499 / printed 472–482**. Preserve the incoming **488→489 CLEAN** boundary. Inspect scan **500 / printed 483** only as the outgoing witness when required. Keep all pages `needs-review` until the later required Pass 2B / Pass 3 / audit gates close. Do not begin Part 006 transcription yet.
