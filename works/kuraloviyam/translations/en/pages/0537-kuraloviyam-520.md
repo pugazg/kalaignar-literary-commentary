@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,7 +19,7 @@ Milk has been placed in one vessel.
 
 Beside it, milk is brought and placed in another.
 
-The woman must combine the milk from both vessels into one larger pot, set it on the stove, boil it, take it down, add powdered rock sugar, cool it, and serve it to her husband, her two precious children, her mother-in-law and father-in-law.
+The woman must combine the milk from both vessels into one larger pot, set it on the stove, boil it, take it down, add powdered rock sugar, cool it, and serve it to Kannan, her two precious children, her mother-in-law and father-in-law.
 
 She brings a large vessel so that the milk from the two smaller ones can be poured together and heated.
 

@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -21,7 +21,7 @@ Only a person with inner drive can rightly be praised as possessing something.
 
 Having everything else is of no use.
 
-Valluvar becomes almost angry enough to say that a man without such inner rising is not truly human.
+Valluvar says angrily that a man without such inner rising is not human at all.
 
 Life is never springtime forever.
 

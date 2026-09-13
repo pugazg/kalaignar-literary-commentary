@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -27,7 +27,7 @@ heaps of gold coins in the granary instead of grains of paddy—
 
 diamonds, pearls and other gems winking in many colours from walls fitted with sheets of gold—
 
-a breeze entering through windows barred with silver rods, carrying sandalwood, civet, musk and other fragrances—
+a breeze entering through windows barred with silver rods, carrying sandalwood, javvadu perfume, civet and other fragrances—
 
 the upper garment of a beautiful woman dancing again and again in the mischief of that breeze—
 
