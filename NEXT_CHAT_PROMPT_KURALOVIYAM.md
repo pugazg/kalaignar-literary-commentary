@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 005 English Glossary Reconciliation GR2
+# NEXT CHAT PROMPT — குறளோவியம் / Part 005 English Glossary Reconciliation GR3
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -28,7 +28,7 @@ All scans **445–555 / printed 428–538** have page-aligned English records.
 
 ## English source-check — COMPLETE / CLOSED 111/111
 
-SC1–SC4 are complete. Current Part-005 English page state remains:
+Current Part-005 English page state remains:
 
 - `source-checked` — **111**;
 - `draft` — **0**;
@@ -37,34 +37,43 @@ SC1–SC4 are complete. Current Part-005 English page state remains:
 - `source-limited` — **0**;
 - `blocked` — **0**.
 
-## English glossary reconciliation — IN PROGRESS 33/111
+## English glossary reconciliation — IN PROGRESS 66/111
 
 ### GR1 — COMPLETE / PASS 33/33
 
 - scans **445–477 / printed 428–460**;
-- commit — `fcbea72faefca6e521f1334e10363a7f0d13894b`;
-- exact compare from pre-GR1 checkpoint `2294dbd8fb1c6b0f3ef49c09dee984e949bdfc3a` to GR1 endpoint `fcbea72faefca6e521f1334e10363a7f0d13894b`:
+- endpoint — `fcbea72faefca6e521f1334e10363a7f0d13894b`;
+- one English terminology correction on scan **445**;
+- page-status changes — **0**;
+- Tamil changes — **0**.
+
+### GR2 — COMPLETE / PASS 33/33
+
+- scans **478–510 / printed 461–493**;
+- endpoint — `3aa3b525e4c8f2335227e36a91aed43ed117d471`;
+- exact compare from pre-GR2 checkpoint `2861c0b6058fed0c42f96b18c66114414911f5e5` to GR2 endpoint `3aa3b525e4c8f2335227e36a91aed43ed117d471`:
   - **1 commit ahead / non-divergent**;
-  - exactly **2 modified files** — `GLOSSARY.md` and English scan **445**;
+  - exactly **5 modified files** — `GLOSSARY.md` plus English scans **479, 480, 494, 510**;
   - Tamil page changes — **0**;
   - page-status changes — **0**;
-- all **17 Kural citations across 16 metadata pages** checked with **0 Chapter/Kural-number mismatches**;
-- Part-005-first chapter controls added: **Honour**, **Gratitude**, **Knowing the Nature of Enmity**, **Fearlessness in the Assembly**;
-- source variants `அறன்வலியுறுத்தல்` and `உறுப்புநலன் அழிதல்` mapped to existing controls **The Insistence on Virtue** and **Wasting Away of Bodily Beauty**;
-- source-evidenced narrative/place/literary and source-gloss controls recorded in `GLOSSARY.md`;
-- one English page terminology correction:
-  - scan **445** — `ஆகுல நீர = ஆரவாரத் தன்மை`: **clamorous display → clamorous nature**;
-- incoming **444→445 GENUINE CONTINUATION / source-resolved** preserved;
-- outgoing **477→478 CLEAN** preserved;
+- all **17 Chapter/Kural metadata records** checked with **0 Chapter/Kural-number mismatches**;
+- Part-005-first Chapter controls added: **Avoiding Mean Company**, **Purity in Action**, **The Method of Action**, **Noble Character**;
+- terminology consistency corrections:
+  - scans **479–480** — `Anbaananthan` → **Anbanandan**;
+  - scan **494** — Chapter 41 **Ignorance → Lack of Learning**;
+  - scan **510** — **cosmic age → *oozhi*** in the Kural term to follow the source's own explanation, and `சான்றாண்மை = சால்பு எனும் தன்மை` restored without the added **noble excellence** interpretation;
+- source-specific scan-508 gloss `செற்றார் = வெறுத்துவிட்டவர்` retained as **one who has rejected / turned away**, distinct from the earlier **enemy** context;
+- incoming **477→478 CLEAN** preserved;
+- outgoing **510→511 CLEAN** preserved;
 - no external/published/web terminology or standard English Kural wording imported.
 
-Cumulative glossary reconciliation: **33/111**.
+Cumulative glossary reconciliation: **66/111**.
 
-## Exact next activity — Glossary Reconciliation GR2
+## Exact next activity — Glossary Reconciliation GR3
 
 Reconcile:
 
-**scans 478–510 / printed 461–493 — 33 pages**.
+**scans 511–543 / printed 494–526 — 33 pages**.
 
 For each English record:
 
@@ -79,7 +88,7 @@ For each English record:
 
 Boundary discipline:
 
-- incoming **477→478 — CLEAN**;
-- outgoing **510→511 — CLEAN**.
+- incoming **510→511 — CLEAN**;
+- outgoing **543→544 — GENUINE CONTINUATION**.
 
 Part 006 remains transcription-inactive until Part 005 completes the maintained English workflow and final Part closure.

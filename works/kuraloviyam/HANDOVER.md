@@ -321,9 +321,13 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - GR1 commit — `fcbea72faefca6e521f1334e10363a7f0d13894b`;
 - GR1 exact change set — **2 files / GLOSSARY.md + English scan 445 / 0 Tamil changes / 0 status changes**;
 - GR1 terminology correction — **scan 445 only**, `ஆகுல நீர` → **clamorous nature** from source gloss `ஆரவாரத் தன்மை`;
-- cumulative glossary reconciliation — **33/111**;
+- English glossary reconciliation GR2 — **478–510 / printed 461–493 — COMPLETE / PASS 33/33**;
+- GR2 commit — `3aa3b525e4c8f2335227e36a91aed43ed117d471`;
+- GR2 exact change set — **5 files / GLOSSARY.md + English scans 479, 480, 494, 510 / 0 Tamil changes / 0 status changes**;
+- GR2 terminology corrections — **4 page files / scans 479, 480, 494, 510**;
+- cumulative glossary reconciliation — **66/111**;
 - current English status — **111 source-checked / 0 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
-- next gate — **English glossary reconciliation GR2 / scans 478–510 / printed 461–493 — 33 pages**.
+- next gate — **English glossary reconciliation GR3 / scans 511–543 / printed 494–526 — 33 pages**.
 
 ## Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -333,4 +337,4 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ## Exact next activity
 
-Proceed with **Part 005 English glossary reconciliation GR2 / scans 478–510 / printed 461–493 — 33 pages**. Reconcile source-evidenced controlled terminology against the audited Tamil records and `translations/en/GLOSSARY.md`, make only necessary terminology/label consistency corrections, preserve all page statuses as `source-checked`, preserve **477→478 CLEAN** and **510→511 CLEAN**, and do not import external or standard English wording. Do not start Part 006 transcription.
+Proceed with **Part 005 English glossary reconciliation GR3 / scans 511–543 / printed 494–526 — 33 pages**. Reconcile source-evidenced controlled terminology against the audited Tamil records and `translations/en/GLOSSARY.md`, make only necessary terminology/label consistency corrections, preserve all page statuses as `source-checked`, preserve **510→511 CLEAN** and **543→544 GENUINE CONTINUATION**, and do not import external or standard English wording. Do not start Part 006 transcription.

@@ -373,9 +373,13 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - GR1 commit — `fcbea72faefca6e521f1334e10363a7f0d13894b`;
 - exact GR1 compare from `2294dbd8fb1c6b0f3ef49c09dee984e949bdfc3a` to `fcbea72faefca6e521f1334e10363a7f0d13894b` — **1 commit ahead / 2 modified files: GLOSSARY.md + English scan 445 / 0 Tamil changes / 0 status changes**;
 - GR1 terminology correction — **scan 445 only**, source gloss `ஆகுல நீர = ஆரவாரத் தன்மை` reconciled from **clamorous display** to **clamorous nature**;
-- cumulative glossary reconciliation — **33/111**;
+- English glossary reconciliation GR2 — **478–510 / printed 461–493 — COMPLETE / PASS 33/33**;
+- GR2 commit — `3aa3b525e4c8f2335227e36a91aed43ed117d471`;
+- exact GR2 compare from `2861c0b6058fed0c42f96b18c66114414911f5e5` to `3aa3b525e4c8f2335227e36a91aed43ed117d471` — **1 commit ahead / 5 modified files: GLOSSARY.md + English scans 479, 480, 494, 510 / 0 Tamil changes / 0 status changes**;
+- GR2 terminology corrections — **4 page files / scans 479, 480, 494, 510**: `Anbaananthan` → **Anbanandan** on 479–480; Chapter 41 **Ignorance → Lack of Learning** on 494; scan 510 **cosmic age → oozhi** plus source-gloss restoration for `சான்றாண்மை`;
+- cumulative glossary reconciliation — **66/111**;
 - current Part-005 English state — **111 source-checked / 0 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
-- next maintained English gate — **Glossary reconciliation GR2 / scans 478–510 / printed 461–493 — 33 pages**.
+- next maintained English gate — **Glossary reconciliation GR3 / scans 511–543 / printed 494–526 — 33 pages**.
 
 ### Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -386,4 +390,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Continue **Part 005 English glossary reconciliation GR2 — scans 478–510 / printed 461–493 — 33 pages**. Reconcile only source-evidenced names, recurring terms, Chapter labels, Kural metadata, source glosses and controlled terminology against the audited Tamil records and project `GLOSSARY.md`. Preserve project-created translation identity, page alignment, Kural blocks and established continuities. Do not change page status during glossary reconciliation; Part-005 pages remain `source-checked`. Preserve incoming **477→478 CLEAN** and outgoing **510→511 CLEAN**. Do not import published/web/standard English terminology or Kural wording. Part 006 remains blocked.
+Continue **Part 005 English glossary reconciliation GR3 — scans 511–543 / printed 494–526 — 33 pages**. Reconcile only source-evidenced names, recurring terms, Chapter labels, Kural metadata, source glosses and controlled terminology against the audited Tamil records and project `GLOSSARY.md`. Preserve project-created translation identity, page alignment, Kural blocks and established continuities. Do not change page status during glossary reconciliation; Part-005 pages remain `source-checked`. Preserve incoming **510→511 CLEAN** and outgoing **543→544 GENUINE CONTINUATION**. Do not import published/web/standard English terminology or Kural wording. Part 006 remains blocked.
