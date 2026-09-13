@@ -350,8 +350,13 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - ER4 exact change set — **12 English page files / 12 status promotions / 6 page wording refinements / 0 Tamil changes**;
 - ER4 wording-refinement pages — **547, 550, 551, 552, 553, 554**;
 - English editorial review — **COMPLETE / CLOSED 111/111**;
+- Part-level English review — **PASS / CLOSED**;
+- review record — `translations/en/reviews/PART_005_ENGLISH_REVIEW.md`;
+- direct inventory/frontmatter audit — **111/111 exact alignment / 111 editorial-reviewed / 111 verified Tamil links / 111 project translations**;
+- Chapter/Kural audit — **54 metadata pages / 55 Kural citations / 0 mismatches**;
+- visual-material audit — **53 pages / PASS**;
 - current English status — **0 source-checked / 0 draft / 111 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
-- next gate — **Part-level English review / scans 445–555 / printed 428–538 — 111 pages**.
+- next gate — **English release report / release approval**.
 
 ## Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -361,4 +366,4 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 ## Exact next activity
 
-Proceed with **Part 005 Part-level English review / scans 445–555 / printed 428–538 — 111 pages**. Audit the entire English Part against audited Tamil and the maintained glossary for whole-Part consistency, controlled names/terms, Chapter/Kural metadata, Kural blocks, source glosses, visual/page alignment and all continuities. Make no page-status promotions during Part review; passing pages remain `editorial-reviewed`. Preserve **444→445 GENUINE CONTINUATION / source-resolved** and **555→556 CLEAN / source-resolved**. Do not import external or standard English wording. Do not start Part 006 transcription.
+Proceed with **Part 005 English release report / release approval**. Use `translations/en/reviews/PART_005_ENGLISH_REVIEW.md` as the authoritative prior gate. Confirm **111/111** English pages remain `editorial-reviewed`, source-limited/blocked are 0, and approve only a **status-token-only** promotion to `release-ready` if the release gate passes. Preserve all wording, Tamil records, glossary controls, metadata, visual sections and the **444→445 GENUINE CONTINUATION** / **555→556 CLEAN** boundaries. Do not start Part 006 transcription.

@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 005 English editorial review COMPLETE / CLOSED 111/111; Part-level English review next**: **2026-09-13**.
+Last refreshed for Kuraloviyam **Part 005 Part-level English review PASS / CLOSED; English release report next**: **2026-09-13**.
 
 ## Repository
 
@@ -404,8 +404,14 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - exact ER4 compare from `048ceaad4cf6efc8dd7a4b293f4f63bfc3bf548d` — **2 commits ahead / exactly 12 modified English page files / 0 Tamil changes / 12 status promotions**;
 - ER4 source-faithful readability refinements — **6 page files / scans 547, 550, 551, 552, 553, 554**;
 - Part-005 English editorial review — **COMPLETE / CLOSED 111/111**;
+- Part-005 Part-level English review — **PASS / CLOSED**;
+- review record — `works/kuraloviyam/translations/en/reviews/PART_005_ENGLISH_REVIEW.md`;
+- review base — `fdd71835084121e9f80cf812e5dd29dac7dd148d`;
+- direct Part inventory/frontmatter audit — **111/111 English present and aligned / 111 editorial-reviewed / 111 source_tamil_status verified / 111 project_translation / 0 page-layer changes**;
+- Chapter/Kural audit — **54 metadata pages / 55 Kural citations / 0 Chapter-Kural mismatches**;
+- visual-material audit — **53 English visual sections / PASS**;
 - current Part-005 English state — **0 source-checked / 0 draft / 111 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
-- next maintained English gate — **Part-level English review / scans 445–555 / printed 428–538 — 111 pages**.
+- next maintained English gate — **English release report / release approval**.
 
 ### Part 006 — SOURCE INTAKE COMPLETE / WAITING
 
@@ -416,4 +422,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Proceed with **Part 005 Part-level English review — scans 445–555 / printed 428–538 — 111 pages**. Audit the completed project-created English as one Part against the audited Tamil authority and maintained glossary: whole-Part consistency, names and controlled terminology, Chapter/Kural metadata, Kural blocks, source glosses, visual/page alignment, and all established cross-page continuities. Do not import published/web/standard English Kural wording or terminology. Do not promote page statuses during Part review; passing pages remain `editorial-reviewed` until the release-report / release-ready gate. Preserve incoming **444→445 GENUINE CONTINUATION / source-resolved** and outgoing **555→556 CLEAN / source-resolved**. Part 006 remains blocked.
+Proceed with **Part 005 English release report / release approval**. Use `works/kuraloviyam/translations/en/reviews/PART_005_ENGLISH_REVIEW.md` as the authoritative prior gate. Confirm all **111/111** English pages remain `editorial-reviewed`, source-limited/blocked counts remain 0, and approve only a **status-token-only** promotion to `release-ready` if the release gate passes. Make no English wording, Tamil, glossary, metadata, visual or boundary changes. Preserve incoming **444→445 GENUINE CONTINUATION / source-resolved** and outgoing **555→556 CLEAN / source-resolved**. Part 006 remains blocked until Part 005 final closure.
