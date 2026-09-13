@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,7 +19,7 @@ The sea roars in fury, its waves raised by storm winds, like a thousand tigers r
 
 The spinning cyclone uproots trees and playfully plants them upside down.
 
-Lightning slices across the face like many-edged swords being hurled straight at it.
+Lightning slashes before the face like many-edged swords hurled straight at one.
 
 Thunder crashes as though the roof of the sky has collapsed and shattered in every direction.
 

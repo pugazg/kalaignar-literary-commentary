@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -37,12 +37,12 @@ At last he succeeded.
 
 Looking at this hero of duty, Valluvar praises him in this way:
 
-“There is no greatness higher than the greatness of one who undertakes a rightful duty without saying, ‘I will grow weary and withdraw my hand.’”
+“There is no greatness higher than that of one who undertakes a rightful duty without growing weary.”
 
 Here is the Kural:
 
 > No greatness stands above the greatness of one  
-> who says, “I will not withdraw my hand from doing my duty.”
+> who says, “I will not grow weary in doing my duty.”
 
 Chapter 103 — The Work of Sustaining One's House and Line; Kural 1021
 

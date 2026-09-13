@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -35,7 +35,7 @@ Life itself may become the task of swimming against the current.
 
 At such times a person's strength is the abundance of inner drive within him.
 
-Valluvar says that one without such drive may be called a tree, and mocks him beautifully:
+Valluvar says that one without such drive may be called a tree, and mocks him sharply:
 
 “The only difference is that these trees without inner drive happen to look like human beings.”
 

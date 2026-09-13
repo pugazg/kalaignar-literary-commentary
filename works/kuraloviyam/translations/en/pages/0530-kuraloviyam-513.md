@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -29,7 +29,7 @@ lying with our two bodies woven together as one—
 
 how can I describe the pleasure the five senses experience all at once?
 
-There is not even the smallest doubt in Valluvar's statement that all five kinds of delight are found in the radiant, bangled woman.
+There is not the slightest doubt in Valluvar's statement that all five kinds of delight are found in the radiant, bangled woman.
 
 > Sight, sound, taste, scent and touch—  
 > all five senses find their delight in the bright-bangled woman.
