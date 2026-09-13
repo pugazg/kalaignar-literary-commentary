@@ -75,7 +75,7 @@ Workflow batch edges must never create artificial textual boundaries. Inspect th
 
 **Part 005 source intake: COMPLETE / PASS.**
 
-Pass 1 is **COMPLETE**; Pass 2A is **COMPLETE / PASS**; Pass 2B is **COMPLETE / PASS — 111/111**; Pass 3 is **ACTIVE — 45/111**.
+Pass 1 is **COMPLETE**; Pass 2A is **COMPLETE / PASS**; Pass 2B is **COMPLETE / PASS — 111/111**; Pass 3 is **ACTIVE — 57/111**.
 
 - P5-01 / scans **445–455 / printed 428–438** — **COMPLETE 11/11**;
 - P5-02 / scans **456–466 / printed 439–449** — **COMPLETE 11/11**;
@@ -168,15 +168,17 @@ Pass 1 is **COMPLETE**; Pass 2A is **COMPLETE / PASS**; Pass 2B is **COMPLETE / 
 - Pass 3 Batch 2 / scans **456–466 / printed 439–449** — **COMPLETE 11/11**;
 - Pass 3 Batch 3 / scans **467–477 / printed 450–460** — **COMPLETE 11/11**;
 - Pass 3 Batch 4 / scans **478–489 / printed 461–472** — **COMPLETE 12/12**;
+- Pass 3 Batch 5 / scans **490–501 / printed 473–484** — **COMPLETE 12/12**;
 - user-directed Pass-3 cadence from Batch 4 onward — **12 physical scans per normal iteration**;
-- Pass-3 structural/visual corrections through Batch 4 — **3 pages / scans 472, 474, 481**;
-- Pass-3 lexical/body-text changes through Batch 4 — **0**;
-- Batch-4 Pass-3 page correction commit — `8147f80ba2124e8947834c9e688db2fa177df794`;
+- Pass-3 structural/visual corrections through Batch 5 — **4 pages / scans 472, 474, 481, 501**;
+- Pass-3 lexical/body-text changes through Batch 5 — **0**;
+- Batch-5 Pass-3 page correction commit — `a464662c50bcb9d06c3130e491e3f8563732a7e2`;
 - **455→456 — GENUINE CONTINUATION** preserved;
 - **466→467 — GENUINE CONTINUATION** preserved;
 - **477→478 — CLEAN** preserved;
-- outgoing **489→490 — GENUINE CONTINUATION**, reconfirmed from scan 490 / printed 473;
-- cumulative Pass 3 — **45/111**;
+- **489→490 — GENUINE CONTINUATION** preserved;
+- outgoing **501→502 — GENUINE CONTINUATION**, reconfirmed from scan 502 / printed 485;
+- cumulative Pass 3 — **57/111**;
 - Pass 3 log — `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_005.md`.
 
-Next: **Part 005 Pass 3 Batch 5 / scans 490–501 / printed 473–484 — 12 pages**. Verify meaningful visual/text fidelity against rendered source scans; this is not another lexical reread. Keep statuses `needs-review` / visual `needs-review` through Pass 3.
+Next: **Part 005 Pass 3 Batch 6 / scans 502–513 / printed 485–496 — 12 pages**. Verify meaningful visual/text fidelity against rendered source scans; this is not another lexical reread. Keep statuses `needs-review` / visual `needs-review` through Pass 3.

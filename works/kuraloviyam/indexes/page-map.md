@@ -479,18 +479,20 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - Batch 2 **456–466 / printed 439–449 — COMPLETE 11/11**;
 - Batch 3 **467–477 / printed 450–460 — COMPLETE 11/11**;
 - Batch 4 **478–489 / printed 461–472 — COMPLETE 12/12**;
+- Batch 5 **490–501 / printed 473–484 — COMPLETE 12/12**;
 - user-directed Pass-3 cadence from Batch 4 onward — **12 physical scans per normal iteration**;
-- cumulative Pass 3 — **45/111**;
-- structural/visual corrections through Batch 4 — **3 pages / scans 472, 474, 481**;
-- lexical/body-text changes through Batch 4 — **0**;
-- Batch-4 page correction commit — `8147f80ba2124e8947834c9e688db2fa177df794`;
+- cumulative Pass 3 — **57/111**;
+- structural/visual corrections through Batch 5 — **4 pages / scans 472, 474, 481, 501**;
+- lexical/body-text changes through Batch 5 — **0**;
+- Batch-5 page correction commit — `a464662c50bcb9d06c3130e491e3f8563732a7e2`;
 - incoming **444→445 genuine continuation / source-resolved**;
 - **455→456 genuine continuation** preserved;
 - **466→467 genuine continuation** preserved;
 - **477→478 CLEAN** preserved;
-- **489→490 genuine continuation** reconfirmed from scan 490 / printed 473 witness;
+- **489→490 genuine continuation** preserved;
+- **501→502 genuine continuation** reconfirmed from scan 502 / printed 485 witness;
 - current page statuses — **111 needs-review / 111 visual needs-review**.
 
 ## Current frontier
 
-**Part 005 Pass 3 Batch 5 — scans 490–501 / printed 473–484 — 12 pages.**
+**Part 005 Pass 3 Batch 6 — scans 502–513 / printed 485–496 — 12 pages.**

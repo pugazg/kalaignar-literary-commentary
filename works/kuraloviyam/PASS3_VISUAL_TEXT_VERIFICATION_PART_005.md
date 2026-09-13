@@ -8,7 +8,7 @@
 - Physical scans: **111**
 - Gate: **Pass 3 — meaningful visual/text fidelity verification**
 - Cadence: **Batches 1–3 used 11 physical scans; from Batch 4 onward the user-directed cadence is 12 physical scans per normal iteration**, with a shorter final remainder when fewer than 12 scans remain
-- Status: **ACTIVE — 45/111 complete; next Batch 5 / scans 490–501**
+- Status: **ACTIVE — 57/111 complete; next Batch 6 / scans 502–513**
 
 ## Preconditions
 
@@ -171,23 +171,59 @@ User-directed cadence change applied here: **12 physical scans per normal Pass-3
 - Page correction commit: `8147f80ba2124e8947834c9e688db2fa177df794` — exact compare from `fbb3e60ac5c6656f7224566ba6dea28a0531c4b9` changes exactly **1 page file**, scan **481** only.
 - All Part-005 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
 
+## Batch 5 — scans 490–501 / printed 473–484
+
+**Result: COMPLETE — 12 / 12.**
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 490 | 473 | **NO STRUCTURAL CHANGE** — text-only continuation/closure of the corrupt-hypocrite / ill-gotten-wealth vignette; Kural 660, Chapter 66 metadata and the three source glosses remain correctly separated. |
+| 491 | 474 | **NO STRUCTURAL CHANGE** — large upper riverside lovers illustration remains above the prose; the lovers/eyes-and-heart vignette begins below and continues to scan 492. |
+| 492 | 475 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 1166, Chapter 117 metadata and the source gloss remain correctly separated above the small monument page furniture. |
+| 493 | 476 | **NO STRUCTURAL CHANGE** — large upper illustration of the bearded Valluvar figure pointing toward the richly dressed interlocutor remains above the prose; the Valluvar/ignorant-pretender discussion begins below and continues to scan 494. |
+| 494 | 477 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 402 and Chapter 41 metadata remain correctly separated near the foot of the page. |
+| 495 | 478 | **NO STRUCTURAL CHANGE** — large upper doorway illustration remains above the prose, with the mother holding a lamp and the adult son, wife and child outside; the reconciliation vignette begins below and continues to scan 496. |
+| 496 | 479 | **NO STRUCTURAL CHANGE** — text-only continuation/closure of the mother-son reconciliation vignette; Kural 71, Chapter 8 metadata and source gloss remain correctly grouped. |
+| 497 | 480 | **NO STRUCTURAL CHANGE** — large upper illustration of the wild and trained elephants remains above the prose and directly supports the elephant-trap analogy; the vignette continues to scan 498. |
+| 498 | 481 | **NO STRUCTURAL CHANGE** — text-only continuation/closure of the elephant-trap / one-action-enables-another analogy; Kural 678 and Chapter 68 metadata remain correctly separated above the small chariot/Valluvar Kottam page furniture. |
+| 499 | 482 | **NO STRUCTURAL CHANGE** — large upper lovers-beneath-a-tree illustration remains above the prose; the public-gaze / concealed-love vignette begins below and continues to scan 500. |
+| 500 | 483 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 1138, Chapter 114 metadata and the source glosses remain correctly separated above the small standing-monument page furniture. |
+| 501 | 484 | **CORRECTED** — direct source inspection shows **one young man in the water and another young man standing on the bank/steps** at the public tank. The previous note described a child in the water with an unspecified adult. `visual_notes` corrected only; body wording and review flags unchanged. |
+
+### Boundary / continuity result
+
+- Incoming **489→490 GENUINE CONTINUATION** remains confirmed and closes on scan 490 with Chapter 66 / Kural 660.
+- **501→502 is a GENUINE CONTINUATION**, reconfirmed from scan **502 / printed 485**: scan 501 opens the public-tank vignette and scan 502 continues and closes it with Chapter 19 / Kural 190.
+- Scan 502 was used only as the outgoing witness and is **not** counted in Batch 5.
+
+### Batch 5 correction summary
+
+- Structural/visual-description corrections: **1 page — scan 501**.
+- No-change scans: **490–500 — 11 pages**.
+- Lexical/body-text changes: **0**.
+- Status promotion: **0**.
+- Page correction commit: `a464662c50bcb9d06c3130e491e3f8563732a7e2` — exact compare from `5537eb5775e64c271388cdb9d1c3b3f6d8938eec` changes exactly **1 page file**, scan **501** only.
+- All Part-005 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+
 ## Current Pass 3 coverage
 
-- complete — **45/111 scans**;
-- remaining — **66 scans**;
+- complete — **57/111 scans**;
+- remaining — **54 scans**;
 - Batch 1 — **445–455 / printed 428–438 — COMPLETE 11/11**;
 - Batch 2 — **456–466 / printed 439–449 — COMPLETE 11/11**;
 - Batch 3 — **467–477 / printed 450–460 — COMPLETE 11/11**;
 - Batch 4 — **478–489 / printed 461–472 — COMPLETE 12/12**;
+- Batch 5 — **490–501 / printed 473–484 — COMPLETE 12/12**;
 - incoming Part boundary **444→445 — GENUINE CONTINUATION / source-resolved**;
 - **455→456 — GENUINE CONTINUATION** preserved;
 - **466→467 — GENUINE CONTINUATION** preserved;
 - **477→478 — CLEAN** preserved;
-- outgoing Batch-4 boundary **489→490 — GENUINE CONTINUATION**;
+- **489→490 — GENUINE CONTINUATION** preserved;
+- outgoing Batch-5 boundary **501→502 — GENUINE CONTINUATION**;
 - current page statuses — **111 needs-review / 111 visual needs-review**.
 
-## Exact next activity — Batch 5
+## Exact next activity — Batch 6
 
-Process **12 pages**: scans **490–501 / printed 473–484**.
+Process **12 pages**: scans **502–513 / printed 485–496**.
 
-Preserve incoming **489→490 GENUINE CONTINUATION**. Inspect scan **502 / printed 485** only as the outgoing boundary witness when required. Record per-page Pass-3 structural/visual results, commit only source-required record changes, compare the batch base→head changed-file set, and keep all review flags unchanged.
+Preserve incoming **501→502 GENUINE CONTINUATION**. Inspect scan **514 / printed 497** only as the outgoing boundary witness when required. Record per-page Pass-3 structural/visual results, commit only source-required record changes, compare the batch base→head changed-file set, and keep all review flags unchanged.
