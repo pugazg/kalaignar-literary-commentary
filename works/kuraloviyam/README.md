@@ -307,9 +307,13 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - English source-check — **COMPLETE / CLOSED 111/111**;
 - English glossary reconciliation GR1 — **445–477 / printed 428–460 — COMPLETE / PASS 33/33**;
 - English glossary reconciliation GR2 — **478–510 / printed 461–493 — COMPLETE / PASS 33/33**;
-- cumulative glossary reconciliation — **66/111**;
+- English glossary reconciliation GR3 — **511–543 / printed 494–526 — COMPLETE / PASS 33/33**;
+- English glossary reconciliation GR4 final remainder — **544–555 / printed 527–538 — COMPLETE / PASS 12/12**;
+- cumulative glossary reconciliation — **111/111 COMPLETE / CLOSED**;
 - GR1 exact change set — **GLOSSARY.md + English scan 445 only / 0 Tamil changes / 0 status changes**;
 - GR2 exact change set — **GLOSSARY.md + English scans 479, 480, 494, 510 / 0 Tamil changes / 0 status changes**;
+- GR3 exact change set — **GLOSSARY.md + English scans 519, 521, 532, 534, 540, 542 / 0 Tamil changes / 0 status changes**;
+- GR4 exact change set — **GLOSSARY.md + English scans 551, 553, 554, 555 / 0 Tamil changes / 0 status changes**;
 - current English state — **111 source-checked / 0 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
 - SC4 source-fidelity corrections — **4 pages / scans 549, 550, 553, 555**;
 - SC4 page-layer audit — **12 modified English page records / 0 Tamil changes / 0 control-file changes**;
@@ -324,4 +328,4 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 
 ## Current frontier
 
-**Part 005 English glossary reconciliation GR3 — scans 511–543 / printed 494–526 — 33 pages.**
+**Part 005 English editorial review ER1 — scans 445–477 / printed 428–460 — 33 pages.**

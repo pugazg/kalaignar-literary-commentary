@@ -571,13 +571,21 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 - GR1 — **445–477 / printed 428–460 — COMPLETE / PASS 33/33**;
 - GR2 — **478–510 / printed 461–493 — COMPLETE / PASS 33/33**;
-- cumulative glossary reconciliation — **66/111**;
+- GR3 — **511–543 / printed 494–526 — COMPLETE / PASS 33/33**;
+- GR4 — **544–555 / printed 527–538 — COMPLETE / PASS 12/12 / FINAL REMAINDER**;
+- cumulative glossary reconciliation — **111/111 COMPLETE / CLOSED**;
 - GR1 endpoint — `fcbea72faefca6e521f1334e10363a7f0d13894b`;
 - GR2 endpoint — `3aa3b525e4c8f2335227e36a91aed43ed117d471`;
+- GR3 endpoint — `736f1f14d167497798a6dba51a2fa44f0c8bd952`;
+- GR4 endpoint — `a0eb5f0858f003106678b4f1a6ca4bb9ba6b0a05`;
 - exact GR1 compare from `2294dbd8fb1c6b0f3ef49c09dee984e949bdfc3a` — **1 commit ahead / exactly 2 modified files: GLOSSARY.md + English scan 445 / 0 Tamil changes / 0 status changes**;
 - exact GR2 compare from `2861c0b6058fed0c42f96b18c66114414911f5e5` — **1 commit ahead / exactly 5 modified files: GLOSSARY.md + English scans 479, 480, 494, 510 / 0 Tamil changes / 0 status changes**;
+- exact GR3 compare from `3f1b63262d0bb56359856f2d39e7d9b6904ce80d` — **2 commits ahead / exactly 7 modified files: GLOSSARY.md + English scans 519, 521, 532, 534, 540, 542 / 0 Tamil changes / 0 status changes**;
+- exact GR4 compare from `736f1f14d167497798a6dba51a2fa44f0c8bd952` — **2 commits ahead / exactly 5 modified files: GLOSSARY.md + English scans 551, 553, 554, 555 / 0 Tamil changes / 0 status changes**;
 - GR1 terminology correction — **scan 445 only**, source gloss `ஆகுல நீர = ஆரவாரத் தன்மை` reconciled to **clamorous nature**;
 - GR2 terminology corrections — **scans 479, 480, 494, 510**;
+- GR3 terminology corrections — **scans 519, 521, 532, 534, 540, 542**;
+- GR4 terminology corrections — **scans 551, 553, 554, 555**;
 - incoming **444→445 GENUINE CONTINUATION / source-resolved** preserved;
 - internal **477→478 CLEAN** preserved;
 - outgoing **510→511 CLEAN** preserved;
@@ -589,4 +597,4 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 ## Current frontier
 
-**Part 005 English glossary reconciliation GR3 — scans 511–543 / printed 494–526 — 33 pages.**
+**Part 005 English editorial review ER1 — scans 445–477 / printed 428–460 — 33 pages.**

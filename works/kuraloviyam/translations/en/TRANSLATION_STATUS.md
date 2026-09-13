@@ -751,7 +751,7 @@ Final Part-005 source-check state:
 
 No published, standard or web English Kural wording was imported. No Tamil archival record changed.
 
-## Part 005 English glossary reconciliation — IN PROGRESS 66/111
+## Part 005 English glossary reconciliation — COMPLETE / CLOSED 111/111
 
 Normal glossary-reconciliation cadence: **33 physical scans per iteration**, with a shorter final remainder if required. Pages remain `source-checked` during this gate.
 
@@ -814,8 +814,48 @@ Current Part-005 English state remains:
 - `source-limited` — **0**;
 - `blocked` — **0**.
 
+### Glossary Reconciliation GR3 — COMPLETE / PASS 33/33
+
+- scans **511–543 / printed 494–526**;
+- cumulative glossary reconciliation after GR3 — **99/111**;
+- endpoint commit — `736f1f14d167497798a6dba51a2fa44f0c8bd952`;
+- exact compare from pre-GR3 checkpoint `3f1b63262d0bb56359856f2d39e7d9b6904ce80d`:
+  - **2 commits ahead / non-divergent**;
+  - exactly **7 modified files** — `GLOSSARY.md` plus English scans **519, 521, 532, 534, 540, 542**;
+  - Tamil changes — **0**;
+  - page-status changes — **0**;
+- all **15 Chapter/Kural metadata records** checked with **0 Chapter/Kural-number mismatches**;
+- English terminology/source-gloss corrections on **6 page files** only.
+
+### Glossary Reconciliation GR4 — COMPLETE / PASS 12/12 / FINAL REMAINDER
+
+- scans **544–555 / printed 527–538**;
+- cumulative glossary reconciliation — **111/111 COMPLETE / CLOSED**;
+- endpoint commit — `a0eb5f0858f003106678b4f1a6ca4bb9ba6b0a05`;
+- exact compare from GR3 endpoint `736f1f14d167497798a6dba51a2fa44f0c8bd952`:
+  - **2 commits ahead / non-divergent**;
+  - exactly **5 modified files** — `GLOSSARY.md` plus English scans **551, 553, 554, 555**;
+  - Tamil changes — **0**;
+  - page-status changes — **0**;
+- all **6 Chapter/Kural metadata records** checked with **0 Chapter/Kural-number mismatches**;
+- English terminology corrections on **4 page files** only;
+- incoming **543→544 GENUINE CONTINUATION** and outgoing **555→556 CLEAN / source-resolved** preserved.
+
+**Part 005 English glossary reconciliation is COMPLETE / CLOSED — 111/111.**
+
+Current Part-005 English state:
+
+- `source-checked` — **111**;
+- `draft` — **0**;
+- `editorial-reviewed` — **0**;
+- `release-ready` — **0**;
+- `source-limited` — **0**;
+- `blocked` — **0**.
+
 ## Exact next English activity
 
-**Part 005 Glossary Reconciliation GR3 — scans 511–543 / printed 494–526 — 33 pages.**
+**Part 005 Editorial Review ER1 — scans 445–477 / printed 428–460 — 33 pages.**
+
+Passing records move from `source-checked` to `editorial-reviewed`. Boundary discipline: incoming **444→445 GENUINE CONTINUATION / source-resolved**; outgoing **477→478 CLEAN**.
 
 Boundary discipline: incoming **510→511 CLEAN**; outgoing **543→544 GENUINE CONTINUATION**.
