@@ -843,6 +843,31 @@ Current Part-005 English state remains:
 
 **Part 005 English glossary reconciliation is COMPLETE / CLOSED — 111/111.**
 
+## Part 005 English editorial review — IN PROGRESS 33/111
+
+### Editorial Review ER1 — COMPLETE / PASS 33/33
+
+- scans **445–477 / printed 428–460**;
+- endpoint commit — `7e9c90a4109cd8a627d3d31bde74d226100c9aba`;
+- exact compare from pre-ER1 checkpoint `8fd0069f235b69e31fb8c7cd4a6e80582e0cb305`:
+  - **6 commits ahead / non-divergent**;
+  - exactly **33 modified English page files**;
+  - Tamil changes — **0**;
+  - **33/33** status promotions from `source-checked` to `editorial-reviewed`;
+- source-faithful readability refinements on **9 page files** — scans **448, 457, 461, 465, 466, 468, 469, 472, 476**;
+- Kural blocks, Chapter/Kural metadata, source glosses, glossary controls, visuals and page boundaries preserved;
+- incoming **444→445 GENUINE CONTINUATION / source-resolved** and outgoing **477→478 CLEAN** preserved;
+- no external/published/web English Kural wording or terminology imported.
+
+Current Part-005 English state after ER1:
+
+- `editorial-reviewed` — **33**;
+- `source-checked` — **78**;
+- `draft` — **0**;
+- `release-ready` — **0**;
+- `source-limited` — **0**;
+- `blocked` — **0**.
+
 Current Part-005 English state:
 
 - `source-checked` — **111**;
@@ -854,8 +879,8 @@ Current Part-005 English state:
 
 ## Exact next English activity
 
-**Part 005 Editorial Review ER1 — scans 445–477 / printed 428–460 — 33 pages.**
+**Part 005 Editorial Review ER2 — scans 478–510 / printed 461–493 — 33 pages.**
 
-Passing records move from `source-checked` to `editorial-reviewed`. Boundary discipline: incoming **444→445 GENUINE CONTINUATION / source-resolved**; outgoing **477→478 CLEAN**.
+Passing records move from `source-checked` to `editorial-reviewed`. Boundary discipline: incoming **477→478 CLEAN**; outgoing **510→511 CLEAN**.
 
 Boundary discipline: incoming **510→511 CLEAN**; outgoing **543→544 GENUINE CONTINUATION**.
