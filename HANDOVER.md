@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 004 English editorial review 66/111; ER3 scans 400–432 next**: **2026-09-12**.
+Last refreshed for Kuraloviyam **Part 005 English editorial review 33/111; ER2 scans 478–510 next**: **2026-09-13**.
 
 ## Repository
 
