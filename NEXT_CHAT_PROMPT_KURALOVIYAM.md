@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 005 English Editorial Review ER2
+# NEXT CHAT PROMPT — குறளோவியம் / Part 005 English Editorial Review ER3
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -28,47 +28,48 @@ Normal page-batched cadence: **33 physical scan pages**; final remainders may be
 
 ## English glossary reconciliation — COMPLETE / CLOSED 111/111
 
-## English editorial review — IN PROGRESS 33/111
+## English editorial review — IN PROGRESS 66/111
 
 ### ER1 — COMPLETE / PASS 33/33
 
 - scans **445–477 / printed 428–460**;
-- pre-ER1 checkpoint — `8fd0069f235b69e31fb8c7cd4a6e80582e0cb305`;
-- ER1 endpoint — `7e9c90a4109cd8a627d3d31bde74d226100c9aba`;
+- endpoint — `7e9c90a4109cd8a627d3d31bde74d226100c9aba`;
+- exactly **33 English page files** changed;
+- **33/33** status promotions to `editorial-reviewed`;
+- source-faithful readability refinements on **9 page files**;
+- Tamil changes — **0**.
+
+### ER2 — COMPLETE / PASS 33/33
+
+- scans **478–510 / printed 461–493**;
+- pre-ER2 checkpoint — `a82aeaf53eeea125d2c60ba8b7a51e8dc486e9c8`;
+- ER2 endpoint — `ffd62952cf06cf2581768603e720c836996f6d5d`;
 - exact compare:
   - **6 commits ahead / non-divergent**;
   - exactly **33 modified English page files**;
   - Tamil changes — **0**;
   - all **33/33** pages promoted `source-checked → editorial-reviewed`;
-- source-faithful readability refinements on **9 page files only**:
-  - **448** — smoothed `அளவோடு` rendering to **just the right number**;
-  - **457** — tightened the rescue-treatment sentence;
-  - **461** — made the arrogance/mocking sentence idiomatic;
-  - **465** — clarified repeated references to **Athanar's realm**;
-  - **466** — removed the awkward **burdening event** construction;
-  - **468** — clarified the Vidiyan/dawn wordplay without changing its meaning;
-  - **469** — smoothed the backbiting sentence;
-  - **472** — made the defeat/sword image idiomatic;
-  - **476** — clarified the poverty/prosperity boundary metaphor;
+- source-faithful readability refinements on **12 page files**:
+  - **478, 484, 490, 491, 493, 495, 496, 501, 503, 506, 507, 509**;
 - Kural blocks, Chapter/Kural metadata, controlled glossary terms, source-printed glosses, visuals and page boundaries preserved;
-- incoming **444→445 GENUINE CONTINUATION / source-resolved** preserved;
-- outgoing **477→478 CLEAN** preserved;
+- incoming **477→478 CLEAN** preserved;
+- outgoing **510→511 CLEAN** preserved;
 - no published/web/standard English Kural wording or terminology imported.
 
 Current Part-005 English page state:
 
-- `editorial-reviewed` — **33**;
-- `source-checked` — **78**;
+- `editorial-reviewed` — **66**;
+- `source-checked` — **45**;
 - `draft` — **0**;
 - `release-ready` — **0**;
 - `source-limited` — **0**;
 - `blocked` — **0**.
 
-## Exact next activity — Editorial Review ER2
+## Exact next activity — Editorial Review ER3
 
 Review:
 
-**scans 478–510 / printed 461–493 — 33 pages**.
+**scans 511–543 / printed 494–526 — 33 pages**.
 
 For each English record:
 
@@ -83,7 +84,7 @@ For each English record:
 
 Boundary discipline:
 
-- incoming **477→478 — CLEAN**;
-- outgoing **510→511 — CLEAN**.
+- incoming **510→511 — CLEAN**;
+- outgoing **543→544 — GENUINE CONTINUATION**.
 
 Part 006 remains transcription-inactive until Part 005 completes editorial review, Part review, release report, release-ready promotion and final Part closure.
