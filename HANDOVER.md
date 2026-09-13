@@ -216,7 +216,8 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - Pass 2A Batch 7 — **511–521 / printed 494–504 — COMPLETE 11/11**;
 - Pass 2A Batch 8 — **522–532 / printed 505–515 — COMPLETE 11/11**;
 - Pass 2A Batch 9 — **533–543 / printed 516–526 — COMPLETE 11/11**;
-- cumulative Pass 2A — **99/111**;
+- Pass 2A Batch 10 / final remainder — **544–555 / printed 527–538 — COMPLETE 12/12**;
+- cumulative Pass 2A — **111/111 COMPLETE / PASS**;
 - Batch-1 corrections — **2 records / 3 readings**;
 - Batch-2 corrections — **5 records / 6 readings**;
 - Batch-3 source-supported corrections — **7 records / 10 readings**: scan 467 `திருக்கிட்டு` → `திடுக்கிட்டு`; scan 468 `புகழிப் பித்தர்களென்பான்` → `பதவிப் பித்தர்களென்பான்`; scan 469 `தாய்மையாக` → `தூய்மையாக`, `இணையில்லாமல்` → `இணைபிரியாமல்`, `முட்டா` → `மூடா`; scan 471 `எழுதுகோவியமாக்கலாமா` → `எழுத்தோவியமாக்கலாமா`; scan 473 `அவைக்கனத்தில்` → `அவைக்களத்தில்`, `அவையவிட்டு` → `அவையைவிட்டு`; scan 476 `முத்தமிட்டீர்க ளே` → `முத்தமிட்டீர்களே`; scan 477 `தனியர் இதழ்கள்` → `தளிர் இதழ்கள்`;
@@ -233,7 +234,10 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - exact Batch-8 compare — **9 page files only / scans 524–532**;
 - Batch-9 source-supported corrections — **1 record / 1 reading**: scan 534 `அனைத்தவிர மற்ற அனைத்தையும்` → source-visible `அதைத் தவிர மற்ற அனைத்தையும்`;
 - Batch-9 correction commit — `b3216bbb18464744a06e79232d973f46575c1145` — exact compare **1 page file only / scan 534**;
-- **543→544 — GENUINE CONTINUATION**, checked from scan 544 / printed 527 witness;
+- Batch-10 source-supported corrections — **6 records / 15 textual-or-punctuation readings**: scans **544, 545, 546, 549, 551, 552**;
+- Batch-10 correction commit — `5be125724c549d4b1c82020ab5fb5bf0e01fc4b8` — exact compare **6 page files only / scans 544, 545, 546, 549, 551, 552**;
+- Pass 2A — **COMPLETE / PASS 111/111**;
+- **555→556 — CLEAN**, source-resolved from Part 005/006 intake;
 - all 111 records remain `needs-review` / visual `needs-review`;
 - durable Pass-2A log — `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_005.md`.
 
@@ -246,4 +250,4 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 
 ## Exact next activity — குறளோவியம்
 
-Continue **Part 005 Pass 2A / Batch 10 final remainder — scans 544–555 / printed 527–538**. Preserve the incoming **543→544 GENUINE CONTINUATION**. The outgoing **555→556 CLEAN** boundary is already source-resolved; do not begin Part 006 transcription. Keep all pages `needs-review` until the later required Pass 2B / Pass 3 / audit gates close. Do not begin Part 006 transcription yet.
+Begin **Part 005 Pass 2B / Batch 1 — scans 445–455 / printed 428–438** as an independent lexical-fidelity re-read. Preserve incoming **444→445 GENUINE CONTINUATION** and inspect scan **456 / printed 439** only as the outgoing witness when required. Keep page statuses `needs-review` / visual `needs-review`; Pass 3 remains mandatory. Do not begin Part 006 transcription.

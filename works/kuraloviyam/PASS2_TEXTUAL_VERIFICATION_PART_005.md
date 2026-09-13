@@ -280,8 +280,43 @@ Durable correction commit:
 
 Exact compare from pre-batch `b7b9374ad660d0fca05cf542dbc9c5ee5187defe` to correction endpoint `b3216bbb18464744a06e79232d973f46575c1145` is **ahead by 1 commit** and changes exactly **1 page file**, scan **534** only.
 
+## Batch 10 / final remainder — overall scans 544–555 / printed pages 527–538
+
+**Status: COMPLETE — 12 / 12 scans directly compared against rendered source. PASS 2A COMPLETE / PASS — 111/111.**
+
+Incoming **543→544 GENUINE CONTINUATION** was preserved. The already source-resolved outgoing **555→556 CLEAN** boundary remains unchanged.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 544 | 527 | corrected `தாண்டல்காரச் சிறுவன்` → source-visible `தூண்டில்காரச் சிறுவன்`; corrected `மல்லிகைக்குடிய` → `மல்லிகைசூடிய`; Chapter 118 / Kural 1177 and source gloss confirmed |
+| 545 | 528 | corrected `மனம்` → `மானம்`; `உயிர் நீக்கப்பட்ட கவிமான்` → `மயிர் நீக்கப்பட்ட கவரிமான்`; `தவிர்மான்` → `கவரிமான்`; `குடியில்` → source-visible `‘குடியியல்’`; `செல்வக் குடையில்` → `செல்வக் குட்டையில்` |
+| 546 | 529 | corrected `உலகத்தார் இழச்சிக்கும்` → `உலகத்தார் இகழ்ச்சிக்கும்`; corrected `மானமின்று` → `மானமிழந்து`; Chapter 103 / Kural 1028 and source gloss confirmed |
+| 547 | 530 | direct textual comparison complete; no correction required; Athiyaman / Avvai vignette continues into 548 |
+| 548 | 531 | direct textual comparison complete; no correction required; Chapter 9 / Kural 82 confirmed |
+| 549 | 532 | corrected `திருச்சுவைக்` → source-visible `தீஞ்சுவைக்`; `பாட சாலைக்குப்` → `பாடசாலைக்குப்`; restored source period after `சென்றாள்`; education / daughter vignette continues into 550 |
+| 550 | 533 | direct textual comparison complete; no correction required; education / daughter vignette continues into 551 |
+| 551 | 534 | corrected `மறந்துவிட்டாமா?` → source-visible `மறந்துவிடலாமா?`; Chapter 60 / Kural 596 confirmed |
+| 552 | 535 | corrected `அவள் ஆட்டத்திற்கு குழல் இசைப்போன்` → source-visible `அவள் ஆட்டத்திற்குக் குழல் இசைப்போன்`; மலர்விழி vignette continues into 553 |
+| 553 | 536 | direct textual comparison complete; no correction required; Chapter 115 / Kural 1142 and source gloss confirmed |
+| 554 | 537 | direct textual comparison complete; no correction required; பூங்குன்றன் / உட்பகை vignette continues into 555 |
+| 555 | 538 | direct textual comparison complete; no correction required; Chapter 89 / Kural 881 and source gloss confirmed; final Part 005 scan; **555→556 CLEAN** preserved |
+
+Batch 10 correction summary: **6 records corrected; 6 records required no textual change; 15 source-supported textual-or-punctuation readings corrected in total**.
+
+Durable correction commit:
+
+`5be125724c549d4b1c82020ab5fb5bf0e01fc4b8` — `kuraloviyam: Pass 2A verify Part 005 scans 544-555`
+
+Exact compare from pre-batch `4e54c5e4532d6f7f980cfcf3c793f6628f10e678` to correction endpoint `5be125724c549d4b1c82020ab5fb5bf0e01fc4b8` is **ahead by 1 commit** and changes exactly **6 page files**, scans **544, 545, 546, 549, 551, 552** only.
+
+## Pass 2A closure
+
+Part 005 Pass 2A is **COMPLETE / PASS — 111/111**. Every Part 005 page has now received direct textual verification against rendered source scans. All 111 records intentionally remain `status: "needs-review"` / `visual_fidelity: "needs-review"` because Pass 2B, Pass 3, Part audit and final status synchronization remain mandatory.
+
+The next phase is the independent **Pass 2B lexical-fidelity re-read** recorded in `PASS2B_LEXICAL_FIDELITY_PART_005.md`.
+
 ## Current gate
 
-Part 005 Pass 2A: **99/111 complete**.
+Part 005 Pass 2A: **COMPLETE / PASS — 111/111**.
 
-Next: **Batch 10 final remainder / scans 544–555 / printed 527–538**, preserving incoming **543→544 GENUINE CONTINUATION**. The outgoing **555→556 CLEAN** boundary is already source-resolved.
+Next: **Pass 2B Batch 1 / scans 445–455 / printed 428–438**, preserving incoming **444→445 GENUINE CONTINUATION** and inspecting scan **456 / printed 439** only as the outgoing witness when required.

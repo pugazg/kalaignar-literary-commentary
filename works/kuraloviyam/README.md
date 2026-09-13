@@ -174,7 +174,7 @@ Durable documentation-sync record: `PART_003_DOCUMENTATION_SYNC.md`.
 
 Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained English is **111/111 release-ready**.
 
-## Part 005 — PASS 1 COMPLETE / PASS 2A ACTIVE
+## Part 005 — PASS 1 COMPLETE / PASS 2A COMPLETE / PASS 2B READY
 
 - source intake — **PASS / COMPLETE**;
 - P5-01 — **445–455 / printed 428–438 — COMPLETE 11/11**;
@@ -199,7 +199,8 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - Pass 2A Batch 7 — **511–521 / printed 494–504 — COMPLETE 11/11**;
 - Pass 2A Batch 8 — **522–532 / printed 505–515 — COMPLETE 11/11**;
 - Pass 2A Batch 9 — **533–543 / printed 516–526 — COMPLETE 11/11**;
-- cumulative Pass 2A — **99/111**;
+- Pass 2A Batch 10 / final remainder — **544–555 / printed 527–538 — COMPLETE 12/12**;
+- cumulative Pass 2A — **111/111 COMPLETE / PASS**;
 - Batch-3 corrections — **7 page records / 10 source-supported readings**;
 - Batch-3 correction commit — `b6ce17d55759f05f80af760ac9d3d2cd0ec96bac`;
 - Batch-4 corrections — **6 page records / 8 source-supported readings**;
@@ -215,7 +216,10 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - Batch-8 correction commit — `ba6e0ba0b7b438476bbafb846212e05c080f6028`;
 - Batch-9 corrections — **1 page record / 1 source-supported reading**;
 - Batch-9 correction commit — `b3216bbb18464744a06e79232d973f46575c1145`;
-- **543→544 GENUINE CONTINUATION**;
+- Batch-10 corrections — **6 page records / 15 textual-or-punctuation readings**;
+- Batch-10 correction commit — `5be125724c549d4b1c82020ab5fb5bf0e01fc4b8`;
+- Pass 2B log — `PASS2B_LEXICAL_FIDELITY_PART_005.md` — **READY / 0/111**;
+- **555→556 CLEAN** remains source-resolved;
 - **555→556 CLEAN**.
 
 ## Part 006 — SOURCE-READY / WAITING
@@ -227,4 +231,4 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 
 ## Current frontier
 
-**Part 005 Pass 2A Batch 10 final remainder — scans 544–555 / printed 527–538.**
+**Part 005 Pass 2B Batch 1 — scans 445–455 / printed 428–438.**
