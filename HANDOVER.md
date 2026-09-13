@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 005 FULLY CLOSED; Part 006 P6-01 scans 556–566 next**: **2026-09-13**.
+Last refreshed for Kuraloviyam **Part 005 FULLY CLOSED; Part 006 Pass 1 22/111; P6-03 scans 578–588 next**: **2026-09-13**.
 
 ## Repository
 
@@ -425,13 +425,14 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - source intake — **PASS / COMPLETE**;
 - scans — **556–666**;
 - physical source endpoint — **scan 666**;
-- Tamil Pass 1 — **IN PROGRESS 11/111**;
+- Tamil Pass 1 — **IN PROGRESS 22/111**;
 - P6-01 — **556–566 / printed 539–549 — COMPLETE 11/11**;
-- P6-01 page endpoint — `952363e891c08a58ca78d85de95307810aafeaa6`;
-- exact P6-01 compare from `3e152243b89d68a01229d4e648875f3e6df9510c` — **2 commits / exactly 11 added Part 006 Tamil page files / 0 non-page changes**;
-- outgoing **566→567 — GENUINE CONTINUATION**, directly source-checked;
-- exact next batch — **P6-02 / scans 567–577 / printed 550–560 — 11 scans**.
+- P6-02 — **567–577 / printed 550–560 — COMPLETE 11/11**;
+- P6-02 page endpoint — `3d7b742c14fc8075d61eed3d47d5b6e4e2a0ef2d`;
+- exact P6-02 compare from `c11f4cd3964f083eba76e5ed14b1803d869463ff` — **2 commits / exactly 11 added Part 006 Tamil page files / 0 non-page changes**;
+- outgoing **577→578 — GENUINE CONTINUATION**, directly source-checked;
+- exact next batch — **P6-03 / scans 578–588 / printed 561–571 — 11 scans**.
 
 ## Exact next activity — குறளோவியம்
 
-Proceed with **Part 006 Pass 1 P6-02 — scans 567–577 / printed 550–560 — 11 scans**. P6-01 is complete at `952363e891c08a58ca78d85de95307810aafeaa6`; preserve its 11 `needs-review` / visual `needs-review` records. Use only the Part 006 controlling source / rendered scans. Preserve incoming **566→567 GENUINE CONTINUATION** and create exactly scans 567–577 with exact page/visual/source fidelity. Do not import web/canonical Kural wording or external commentary.
+Proceed with **Part 006 Pass 1 P6-03 — scans 578–588 / printed 561–571 — 11 scans**. P6-01 and P6-02 are complete; preserve all **22** existing `needs-review` / visual `needs-review` records. Use only the Part 006 controlling source / rendered scans. Preserve incoming **577→578 GENUINE CONTINUATION** and create exactly scans 578–588 with exact page/visual/source fidelity. Do not import web/canonical Kural wording or external commentary.

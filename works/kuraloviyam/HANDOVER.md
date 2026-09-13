@@ -369,13 +369,14 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 - scans — **556–666**;
 - source endpoint — **scan 666**;
-- Pass 1 — **IN PROGRESS 11/111**;
+- Pass 1 — **IN PROGRESS 22/111**;
 - P6-01 — **556–566 / printed 539–549 — COMPLETE 11/11**;
-- P6-01 endpoint — `952363e891c08a58ca78d85de95307810aafeaa6`;
-- exact page-layer compare — **2 commits / exactly 11 newly added Part 006 page files / 0 non-page changes**;
-- outgoing **566→567 GENUINE CONTINUATION** directly checked;
-- exact next batch — **P6-02 / scans 567–577 / printed 550–560 — 11 scans**.
+- P6-02 — **567–577 / printed 550–560 — COMPLETE 11/11**;
+- P6-02 endpoint — `3d7b742c14fc8075d61eed3d47d5b6e4e2a0ef2d`;
+- exact P6-02 compare — **2 commits / exactly 11 newly added Part 006 page files / 0 non-page changes**;
+- outgoing **577→578 GENUINE CONTINUATION** directly checked;
+- exact next batch — **P6-03 / scans 578–588 / printed 561–571 — 11 scans**.
 
 ## Exact next activity
 
-Proceed with **Part 006 Pass 1 P6-02 / scans 567–577 / printed 550–560 — 11 scans**. P6-01 is complete and remains `needs-review` / visual `needs-review`. Use rendered Part 006 scans as controlling authority, preserve incoming **566→567 GENUINE CONTINUATION**, create exactly scans 567–577, and do not import web/canonical Kural wording or external commentary.
+Proceed with **Part 006 Pass 1 P6-03 / scans 578–588 / printed 561–571 — 11 scans**. P6-01 and P6-02 are complete; preserve all **22** existing `needs-review` / visual `needs-review` records. Use rendered Part 006 scans as controlling authority, preserve incoming **577→578 GENUINE CONTINUATION**, create exactly scans 578–588, and do not import web/canonical Kural wording or external commentary.

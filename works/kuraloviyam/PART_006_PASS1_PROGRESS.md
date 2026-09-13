@@ -63,14 +63,62 @@ Exact compare from pre-batch `3e152243b89d68a01229d4e648875f3e6df9510c` to page 
 - scan 567 was inspected only as an outgoing continuity witness and remains outside this batch;
 - no Part 001–005 Tamil or English page record changed.
 
+## P6-02 state
+
+**11 / 11 page records captured — COMPLETE.**
+
+P6-02 scans **567–577 / printed 550–560** are captured as one page-aligned Tamil Pass-1 record per physical scan. All 11 records carry:
+
+- `part: 6`;
+- `part_page: 12–22`;
+- exact scan/printed-page mappings;
+- `status: "needs-review"`;
+- `visual_fidelity: "needs-review"`;
+- the exact Part 006 source filename.
+
+Page-layer commits:
+
+- `c75b8a6c7e931f9700b134c4017a959157d4c9e9` — `kuraloviyam: Part 006 Pass 1 scans 567-572`;
+- `3d7b742c14fc8075d61eed3d47d5b6e4e2a0ef2d` — `kuraloviyam: Part 006 Pass 1 scans 573-577`.
+
+Exact compare from pre-batch `c11f4cd3964f083eba76e5ed14b1803d869463ff` to page endpoint `3d7b742c14fc8075d61eed3d47d5b6e4e2a0ef2d`:
+
+- **2 commits ahead / non-divergent**;
+- exactly **11 changed files**;
+- all **11** are newly added Part 006 Tamil page records, scans **567–577**;
+- non-page/control files changed — **0**.
+
+## P6-02 continuity map
+
+- **566→567 — GENUINE CONTINUATION**; scan 567 closes the narrow-street / poverty-family vignette with Chapter 7 / Kural 65;
+- **567→568 — CLEAN**;
+- **568→569 — GENUINE CONTINUATION**; scan 569 closes the medical-method vignette with Chapter 95 / Kurals 950, 942, 948;
+- **569→570 — CLEAN**;
+- **570→571 — GENUINE CONTINUATION**; scan 571 closes the separated-wife / evening vignette with Chapter 123 / Kural 1221;
+- **571→572 — CLEAN**;
+- **572→573 — GENUINE CONTINUATION**; scan 573 closes the உதியன் / நன்னன் false-friendship vignette with Chapter 80 / Kural 800;
+- **573→574 — CLEAN**;
+- **574→575 — GENUINE CONTINUATION**;
+- **575→576 — GENUINE CONTINUATION**, including the source-visible physical split `வாய்ச்` + `சொற்களின்றியே`;
+- **576→577 — CLEAN**;
+- **577→578 — GENUINE CONTINUATION**, directly checked from scan 578 / printed 561 as an outgoing witness. Scan 578 continues and closes the political/ethical leadership vignette with Chapter 90 / Kural 899; scan 578 was **not** created in P6-02.
+
+## P6-02 structural notes
+
+- illustrations remain described in `visual_notes`, not transcribed as prose;
+- Kural blocks and source glosses remain structurally distinct;
+- exact physical-page splits are preserved;
+- scan 578 was inspected only as an outgoing continuity witness and remains outside P6-02;
+- no Part 001–005 Tamil or English page record changed.
+
 ## Current gate
 
-Part 006 Pass 1 cumulative state: **11/111 captured**.
+Part 006 Pass 1 cumulative state: **22/111 captured**.
 
-P6-01 is **COMPLETE / PASS-1 CAPTURE COMPLETE 11/11**.
+P6-01 and P6-02 are **COMPLETE / 22 pages captured**.
 
 Exact next batch:
 
-**P6-02 — scans 567–577 / printed 550–560 — 11 physical scans.**
+**P6-03 — scans 578–588 / printed 561–571 — 11 physical scans.**
 
-Preserve incoming **566→567 GENUINE CONTINUATION**.
+Preserve incoming **577→578 GENUINE CONTINUATION**.
