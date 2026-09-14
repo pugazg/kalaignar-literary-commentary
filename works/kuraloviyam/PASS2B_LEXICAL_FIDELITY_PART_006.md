@@ -312,12 +312,52 @@ Because Batch 10 required no textual correction, the correction endpoint is the 
 
 Exact compare `d5c1adceda92c0e4dcd888b555bcef2dc3ae9180` → `d5c1adceda92c0e4dcd888b555bcef2dc3ae9180` is **identical / 0 commits ahead / 0 behind / 0 changed files**.
 
-## Current gate
+## Final remainder — overall scan 666 / unnumbered pictorial back cover
 
-Part 006 Pass 2B cumulative coverage: **110/111**.
+**Status: COMPLETE — 1 / 1 physical scan independently re-inspected against the rendered source.**
 
-Exact next activity:
+Scan **666** is confirmed as an **unnumbered pictorial back cover**. The rendered page contains a full-page portrait/seascape composition with the Valluvar monument at lower left and **no visible printed body text**. The existing canonical record therefore requires **no textual, structural, page-function or visual-note correction**.
 
-**Final Pass 2B remainder — scan 666 / unnumbered pictorial back cover — 1 physical scan.**
+The incoming boundary **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT** is confirmed. There is no external continuation beyond scan 666.
 
-Re-inspect the final physical page directly from rendered source pixels, confirm its page function and that no printed body text is present, preserve the **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT** classification, keep status fields unchanged, and then close Pass 2B at **111/111** if supported.
+Final-remainder correction summary: **0 records corrected; 1 record required no change; 0 page-layer corrections**.
+
+Because the final remainder required no page-layer correction, its correction endpoint is the pre-remainder checkpoint itself: `9ad10d1f342e3313ce308bafe578d76a4ba06a54`.
+
+Exact compare `9ad10d1f342e3313ce308bafe578d76a4ba06a54` → `9ad10d1f342e3313ce308bafe578d76a4ba06a54` is **identical / 0 commits ahead / 0 behind / 0 changed files**.
+
+## Current Pass 2B coverage
+
+- complete — **111/111 scans — COMPLETE / PASS**;
+- remaining — **0 scans**;
+- Batch 1 — **556–566 / printed 539–549 — COMPLETE 11/11**;
+- Batch 2 — **567–577 / printed 550–560 — COMPLETE 11/11**;
+- Batch 3 — **578–588 / printed 561–571 — COMPLETE 11/11**;
+- Batch 4 — **589–599 / printed 572–582 — COMPLETE 11/11**;
+- Batch 5 — **600–610 / printed 583–593 — COMPLETE 11/11**;
+- Batch 6 — **611–621 / printed 594–604 — COMPLETE 11/11**;
+- Batch 7 — **622–632 / printed 605–615 — COMPLETE 11/11**;
+- Batch 8 — **633–643 / printed 616–626 — COMPLETE 11/11**;
+- Batch 9 — **644–654 / printed 627–637 — COMPLETE 11/11**;
+- Batch 10 — **655–665 / printed 638–648 — COMPLETE 11/11**;
+- final remainder — **666 / unnumbered pictorial back cover — COMPLETE 1/1**;
+- corrected page records during Pass 2B — **23**: scans **559, 566, 570, 576, 580, 582, 583, 584, 588, 598, 608, 614, 615, 619, 620, 628, 629, 636, 637, 638, 639, 646, 648**;
+- final Batch-10 and scan-666 remainder page-layer corrections — **0**;
+- outgoing source boundary **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT** confirmed;
+- current page statuses — **111 needs-review / 111 visual needs-review**.
+
+## Pass 2B final result
+
+**COMPLETE / PASS — 111 / 111 physical scans independently re-read.**
+
+Cumulative status promotions during Pass 2B: **0**.
+
+All Part-006 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"` pending Pass 3, Part audit and final status synchronization.
+
+The physical source endpoint at scan **666** is closed and source-resolved.
+
+## Exact next activity
+
+Begin **Part 006 Pass 3 Batch 1 — scans 556–566 / printed 539–549 — 11 physical scans**.
+
+Pass 3 is **meaningful visual/text fidelity verification**, not another lexical reread. Verify illustration/text order, heading hierarchy, Kural/quotation block placement, prose/quotation relationships, page furniture versus body text, source/non-source separation, physical-page continuation and source-size legibility. Do not promote final status during Pass 3.
