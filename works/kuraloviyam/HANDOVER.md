@@ -383,11 +383,12 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - Pass 2A Batch 4 — **589–599 / printed 572–582 — COMPLETE 11/11**;
 - Pass 2A Batch 5 — **600–610 / printed 583–593 — COMPLETE 11/11**;
 - Pass 2A Batch 6 — **611–621 / printed 594–604 — COMPLETE 11/11**;
-- Batch 6 correction commit — `97de20acdabe512f52e05aa2437689411500f57f`;
-- exact Batch 6 compare from `9286709f390be957f81c5948661d9b99536913d6` — **1 commit / exactly 8 page files / scans 611–617, 620 / 0 non-page changes**;
-- cumulative Pass 2A — **66/111**;
-- exact next stage — **Pass 2A Batch 7 / scans 622–632 / printed 605–615 — 11 scans**.
+- Pass 2A Batch 7 — **622–632 / printed 605–615 — COMPLETE 11/11**;
+- Batch 7 correction commit — `54dd2781658025df576d489eb63b3c2c830e1141`;
+- exact Batch 7 compare from `11de2342a2e9dd62d45f218fa02ed146aaf2b72f` — **1 commit / exactly 6 page files / scans 622, 623, 627, 628, 629, 632 / 0 non-page changes**;
+- cumulative Pass 2A — **77/111**;
+- exact next stage — **Pass 2A Batch 8 / scans 633–643 / printed 616–626 — 11 scans**.
 
 ## Exact next activity
 
-Proceed with **Part 006 Pass 2A Batch 7 / scans 622–632 / printed 605–615 — 11 scans**. Batches 1–6 are complete and cumulative Pass 2A is 66/111. Preserve incoming **621→622 GENUINE CONTINUATION**. Compare the existing records directly against rendered scans, apply only source-supported textual corrections, and keep all statuses unchanged.
+Proceed with **Part 006 Pass 2A Batch 8 / scans 633–643 / printed 616–626 — 11 scans**. Batches 1–7 are complete and cumulative Pass 2A is 77/111. Preserve incoming **632→633 CLEAN**. Compare the existing records directly against rendered scans, apply only source-supported textual corrections, and keep all statuses unchanged.
