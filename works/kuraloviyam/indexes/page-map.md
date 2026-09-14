@@ -720,7 +720,12 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - exact Batch 10 compare from `84de610b844dd594c1b8c0d4a75737e7f472e6f4` — **7 commits / exactly 7 modified Part 006 page files / scans 656, 657, 658, 659, 660, 661, 665 / 0 non-page changes**;
 - Pass 2A — **COMPLETE / PASS 111/111**;
 - outgoing **665→666 CLEAN / source endpoint** reconfirmed;
-- next stage — **Part 006 Pass 2B Batch 1 / scans 556–566 / printed 539–549 — 11 scans**.
+- Pass 2B Batch 1 — **556–566 / printed 539–549 — COMPLETE 11/11**;
+- Batch 1 correction endpoint — `742a19e72937f243db891575b45bb96964e81215`;
+- exact Batch 1 compare from `bb71d16b95c57b91441b773fe62664b3e81a1697` — **2 commits / exactly 2 modified Part 006 page files / scans 559, 566 / 0 non-page changes**;
+- cumulative Pass 2B — **11/111**;
+- outgoing **566→567 GENUINE CONTINUATION** confirmed;
+- next stage — **Part 006 Pass 2B Batch 2 / scans 567–577 / printed 550–560 — 11 scans**.
 - SC4 endpoint — `113846a357544a33b73d727d20115471f2f3411f`;
 - SC4 exact page-layer compare — **12 modified English page files only**;
 - fidelity corrections — **4 page files / scans 549, 550, 553, 555**;
@@ -729,4 +734,4 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 ## Current frontier
 
-**Part 006 Pass 2B Batch 1 — scans 556–566 / printed 539–549 — 11 scans.**
+**Part 006 Pass 2B Batch 2 — scans 567–577 / printed 550–560 — 11 scans.**
