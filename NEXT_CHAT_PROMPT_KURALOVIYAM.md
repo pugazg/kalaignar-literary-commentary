@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 2B Batch 4
+# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 2B Batch 5
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -25,46 +25,40 @@ Pass-2B progress:
 - Pass 2B Batch 1 — **556–566 / printed 539–549 — COMPLETE 11/11**;
 - Pass 2B Batch 2 — **567–577 / printed 550–560 — COMPLETE 11/11**;
 - Pass 2B Batch 3 — **578–588 / printed 561–571 — COMPLETE 11/11**;
-- cumulative Pass 2B — **33/111**;
+- Pass 2B Batch 4 — **589–599 / printed 572–582 — COMPLETE 11/11**;
+- cumulative Pass 2B — **44/111**;
 - all 111 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
 
-Batch-3 source-supported repairs include:
+Batch-4 source-supported repairs:
 
-- scan **580 / printed 563** — `ஜெயப்பிரகாஷ்`, `தனக்கு வாய்த்த உறுதிநிறைந்த`, `அப்படியொரு`, `எண்ணும்போதெல்லாம்`, and source spacing `இளைய தலைமுறை யினர்`;
-- scan **582 / printed 565** — `சொற்போரை நிறுத்திடுக`;
-- scan **583 / printed 566** — `நிலவுத் தேரினை`, `எழுதிக் காட்டி`, `எங்களைவிட`;
-- scan **584 / printed 567** — `அப்படியொன்றில்லையேல்`, `பிரியவே மாட்டோம்`;
-- scan **588 / printed 571** — `அரசைப்பெற்று`, `நட்பைப்போற்றி`, `வலியவந்து வலிமை சேர்த்துக் கொடுத்தானே`, and `மதிக்க மறந்துவிட்டான்`.
+- scan **598 / printed 581** — `தமிழகத்திலேயே` → source-visible `தமிழினத்திலேயே`;
+- scan **598 / printed 581** — restored source-visible spacing `மீள முடியாத`.
 
-Batch-3 page-correction commits:
+Batch-4 page-correction commit:
 
-- `aec2499fdb9b3dc487b11685043ba92efa2ee9a8` — scan 580;
-- `3c8d412a1514a8d18137fc8695a63e548869e5e8` — scan 582;
-- `0ab5f178e7d56fb8dd8ddc632b16b8bc6e95d87e` — scan 583;
-- `a7e77e12acf180088480e9fcf46603dbe1ca0817` — scan 584;
-- `cc8cd04b40be7037dfafa234bed0364bf46c48b5` — scan 588 / correction endpoint.
+- `6ae5eb87bc1a77e021a3114368484e52f65d5d75` — scan 598 / correction endpoint.
 
-Exact Batch-3 compare from pre-batch `9ad873d2b09927603ae029f44dfa9e2071327f09` to `cc8cd04b40be7037dfafa234bed0364bf46c48b5`:
+Exact Batch-4 compare from pre-batch `1695340957368313627315636547895ae0892e36` to `6ae5eb87bc1a77e021a3114368484e52f65d5d75`:
 
-- **5 commits ahead / non-divergent**;
-- exactly **5 changed Part 006 Tamil page files** — scans **580, 582, 583, 584, 588**;
-- scans **578, 579, 581, 585, 586, 587** required no lexical or punctuation change;
+- **1 commit ahead / non-divergent**;
+- exactly **1 changed Part 006 Tamil page file** — scan **598**;
+- scans **589, 590, 591, 592, 593, 594, 595, 596, 597, 599** required no lexical or punctuation change;
 - non-page changes — **0**.
 
 Continuity:
 
-- incoming **577→578 GENUINE CONTINUATION** preserved;
-- scan **589 / printed 572** was inspected only as the outgoing witness and confirms **588→589 CLEAN**.
+- incoming **588→589 CLEAN** preserved;
+- scan **600 / printed 583** was inspected only as the outgoing witness and confirms **599→600 GENUINE CONTINUATION**.
 
-## Exact next activity — Part 006 Pass 2B Batch 4
+## Exact next activity — Part 006 Pass 2B Batch 5
 
 Independently re-read:
 
-**scans 589–599 / printed 572–582 — 11 physical scans**.
+**scans 600–610 / printed 583–593 — 11 physical scans**.
 
-Preserve incoming **588→589 CLEAN**.
+Preserve incoming **599→600 GENUINE CONTINUATION**.
 
-Scan **600 / printed 583** may be inspected only as an outgoing continuity witness if required; do not include it in Batch 4.
+Scan **611 / printed 594** may be inspected only as an outgoing continuity witness if required; do not include it in Batch 5.
 
 Pass 2B remains an **independent lexical-fidelity re-read**. Re-read every source-visible printed word against freshly rendered scans, with special attention to:
 
