@@ -303,14 +303,62 @@ Exact compare from pre-batch `5566759d2578df9376839df237a08eafe6d04bb5` to page 
 - scan 622 was inspected only as an outgoing continuity witness and remains outside P6-06;
 - no Part 001–005 Tamil or English page record changed.
 
+## P6-07 state
+
+**11 / 11 page records captured — COMPLETE.**
+
+P6-07 scans **622–632 / printed 605–615** are captured as one page-aligned Tamil Pass-1 record per physical scan. All 11 records carry:
+
+- `part: 6`;
+- `part_page: 67–77`;
+- exact scan/printed-page mappings;
+- `status: "needs-review"`;
+- `visual_fidelity: "needs-review"`;
+- the exact Part 006 source filename.
+
+Page-layer commits:
+
+- `77d6f36f7788e7a464bec456f42b5b48d162491e` — `kuraloviyam: Part 006 Pass 1 scans 622-627`;
+- `d7741ce093708664a5e57bb66669c943afad980c` — `kuraloviyam: Part 006 Pass 1 scans 628-632`.
+
+Exact compare from pre-batch `d3e06794622fb4dacfbca608e7baeab4f4f6443c` to page endpoint `d7741ce093708664a5e57bb66669c943afad980c`:
+
+- **2 commits ahead / non-divergent**;
+- exactly **11 changed files**;
+- all **11** are newly added Part 006 Tamil page records, scans **622–632**;
+- non-page/control files changed — **0**.
+
+## P6-07 continuity map
+
+- **621→622 — GENUINE CONTINUATION**; scan 622 closes the waterfall / love-sign vignette with Chapter 128 / Kural 1274;
+- **622→623 — CLEAN**;
+- **623→624 — GENUINE CONTINUATION**; scan 624 closes the குடிசெயல்வகை battlefield-leadership vignette with Chapter 103 / Kural 1027;
+- **624→625 — CLEAN**;
+- **625→626 — GENUINE CONTINUATION**; scan 626 closes the கணியன் / குன்றன் / பச்சை / பச்சையான் vignette with Chapter 7 / Kural 61;
+- **626→627 — CLEAN**;
+- **627→628 — GENUINE CONTINUATION**; scan 628 closes the Roman-imperial-rise-and-decline vignette with Chapter 54 / Kural 539;
+- **628→629 — CLEAN**;
+- **629→630 — GENUINE CONTINUATION**; scan 630 closes the காதற் சிறப்புரைத்தல் vignette with Chapter 113 / Kural 1128;
+- **630→631 — CLEAN**;
+- **631→632 — GENUINE CONTINUATION**; scan 632 closes the அன்புக்கடல் / miserly-giving vignette with Chapter 108 / Kural 1077;
+- **632→633 — CLEAN**, directly checked from scan 633 / printed 616 as an outgoing witness. Scan 633 begins a new ascetic-travel vignette and was **not** created in P6-07.
+
+## P6-07 structural notes
+
+- illustrations remain described in `visual_notes`, not transcribed as prose;
+- Kural blocks and source glosses remain structurally distinct;
+- exact physical-page splits are preserved;
+- scan 633 was inspected only as an outgoing continuity witness and remains outside P6-07;
+- no Part 001–005 Tamil or English page record changed.
+
 ## Current gate
 
-Part 006 Pass 1 cumulative state: **66/111 captured**.
+Part 006 Pass 1 cumulative state: **77/111 captured**.
 
-P6-01 through P6-06 are **COMPLETE / 66 pages captured**.
+P6-01 through P6-07 are **COMPLETE / 77 pages captured**.
 
 Exact next batch:
 
-**P6-07 — scans 622–632 / printed 605–615 — 11 physical scans.**
+**P6-08 — scans 633–643 / printed 616–626 — 11 physical scans.**
 
-Preserve incoming **621→622 GENUINE CONTINUATION**.
+Preserve incoming **632→633 CLEAN**.

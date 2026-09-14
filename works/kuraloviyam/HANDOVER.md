@@ -369,18 +369,19 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 - scans — **556–666**;
 - source endpoint — **scan 666**;
-- Pass 1 — **IN PROGRESS 66/111**;
+- Pass 1 — **IN PROGRESS 77/111**;
 - P6-01 — **556–566 / printed 539–549 — COMPLETE 11/11**;
 - P6-02 — **567–577 / printed 550–560 — COMPLETE 11/11**;
 - P6-03 — **578–588 / printed 561–571 — COMPLETE 11/11**;
 - P6-04 — **589–599 / printed 572–582 — COMPLETE 11/11**;
 - P6-05 — **600–610 / printed 583–593 — COMPLETE 11/11**;
 - P6-06 — **611–621 / printed 594–604 — COMPLETE 11/11**;
-- P6-06 endpoint — `b05d0389346f42db21e7b2e1a93b7a088b535682`;
-- exact P6-06 compare from `5566759d2578df9376839df237a08eafe6d04bb5` — **2 commits / exactly 11 newly added Part 006 page files / 0 non-page changes**;
-- outgoing **621→622 GENUINE CONTINUATION** directly checked;
-- exact next batch — **P6-07 / scans 622–632 / printed 605–615 — 11 scans**.
+- P6-07 — **622–632 / printed 605–615 — COMPLETE 11/11**;
+- P6-07 endpoint — `d7741ce093708664a5e57bb66669c943afad980c`;
+- exact P6-07 compare from `d3e06794622fb4dacfbca608e7baeab4f4f6443c` — **2 commits / exactly 11 newly added Part 006 page files / 0 non-page changes**;
+- outgoing **632→633 CLEAN** directly checked;
+- exact next batch — **P6-08 / scans 633–643 / printed 616–626 — 11 scans**.
 
 ## Exact next activity
 
-Proceed with **Part 006 Pass 1 P6-07 / scans 622–632 / printed 605–615 — 11 scans**. P6-01 through P6-06 are complete; preserve all **66** existing `needs-review` / visual `needs-review` records. Use rendered Part 006 scans as controlling authority, preserve incoming **621→622 GENUINE CONTINUATION**, create exactly scans 622–632, and do not import web/canonical Kural wording or external commentary.
+Proceed with **Part 006 Pass 1 P6-08 / scans 633–643 / printed 616–626 — 11 scans**. P6-01 through P6-07 are complete; preserve all **77** existing `needs-review` / visual `needs-review` records. Use rendered Part 006 scans as controlling authority, preserve incoming **632→633 CLEAN**, create exactly scans 633–643, and do not import web/canonical Kural wording or external commentary.
