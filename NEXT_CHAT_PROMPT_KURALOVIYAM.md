@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 2A Batch 7
+# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 2A Batch 8
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -18,45 +18,43 @@ Pass-2A progress:
 
 - Pass 1 — **COMPLETE 111/111**;
 - all 111 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`;
-- Pass 2A Batches 1–6 — **COMPLETE 66/111**;
-- Batch 6 — **611–621 / printed 594–604 — COMPLETE 11/11**.
+- Pass 2A Batches 1–7 — **COMPLETE 77/111**;
+- Batch 7 — **622–632 / printed 605–615 — COMPLETE 11/11**.
 
-Batch 6 correction commit:
+Batch 7 correction commit:
 
-`97de20acdabe512f52e05aa2437689411500f57f` — `kuraloviyam: Pass 2A verify Part 006 scans 611-621`
+`54dd2781658025df576d489eb63b3c2c830e1141` — `kuraloviyam: Pass 2A verify Part 006 scans 622-632`
 
-Exact compare from pre-batch `9286709f390be957f81c5948661d9b99536913d6` to endpoint `97de20acdabe512f52e05aa2437689411500f57f`:
+Exact compare from pre-batch `11de2342a2e9dd62d45f218fa02ed146aaf2b72f` to endpoint `54dd2781658025df576d489eb63b3c2c830e1141`:
 
 - **1 commit ahead / non-divergent**;
-- exactly **8 changed Part 006 Tamil page files** — scans **611, 612, 613, 614, 615, 616, 617, 620**;
-- scans **618, 619, 621** required no textual change;
+- exactly **6 changed Part 006 Tamil page files** — scans **622, 623, 627, 628, 629, 632**;
+- scans **624, 625, 626, 630, 631** required no textual change;
 - non-page changes — **0**.
 
-Batch 6 source-supported repairs include:
+Batch 7 source-supported repairs include:
 
-- scan **611 / printed 594** — restored source-visible `நெடுநேரங்`, `காலந்தாழ்த்து வருகின்றீர்`, `வினை செய்வதை பற்றி`, plural `செயல்களுக்காகத்`, `மன்னர்க்கும்`, `நிமிர்த்துக்கொண்டு`, `அய்யா`, joined `எனக்கேட்டான்`, and source-print `காலந்தாழ்த்துப்`;
-- scan **612 / printed 595** — `ஊரை விட்டுத் துரத்துகிறேன்`;
-- scan **613 / printed 596** — source-visible `இரவியில்`;
-- scan **614 / printed 597** — restored `விரும்புகின்ற`, `நேரிட்டாலும்கூட`, and `நினைத்துக்கொண்டே இருப்பதால்`;
-- scan **615 / printed 598** — `கலந்து பேசினர்`;
-- scan **616 / printed 599** — `கண்கலக்கமுற்றார்`;
-- scan **617 / printed 600** — `இருபாலாரும்` and source `அய்யா`;
-- scan **620 / printed 603** — restored `பறித் தோடிச்`, `அதே பாடு! அதே பாடு!`, `ஒன்றோ டொன்று`, and punctuation `இது, அவனது...`.
+- scan **622 / printed 605** — `மலராக` → source-visible `மலராத`; restored source quotation around `அவன் மீது அவளுக்கும் அளவற்ற காதல் உண்டு`;
+- scan **623 / printed 606** — `அப்படிப்பொருவன்` → source-visible `அப்படியொருவன்`;
+- scan **627 / printed 610** — restored `கரங்களில்` and singular `அவருக்கு`;
+- scan **628 / printed 611** — restored `மென்மைமிகு` and source dash in `அரசினர் - எல்லாம்`;
+- scan **629 / printed 612** — restored `கோதையினைத் தொட்டுச்`, `முனகலிட`, `தொழுதறியாள்`, `சென்றிட்டான்`, and `வரப் புறப்பட்டாள்`;
+- scan **632 / printed 615** — `தருவதிலே` → source-visible `தருவதைவிட`.
 
 Outgoing witness:
 
-- scan **622 / printed 605** was inspected only to verify **621→622 GENUINE CONTINUATION**;
-- scan 622 was not modified in Batch 6.
+- scan **633 / printed 616** was inspected only to verify **632→633 CLEAN**;
+- scan 633 begins a new ascetic-travel vignette and was not modified in Batch 7.
 
-## Exact next activity — Part 006 Pass 2A Batch 7
+## Exact next activity — Part 006 Pass 2A Batch 8
 
 Process:
 
-**scans 622–632 / printed 605–615 — 11 physical scans**.
+**scans 633–643 / printed 616–626 — 11 physical scans**.
 
-Preserve incoming **621→622 GENUINE CONTINUATION**.
+Preserve incoming **632→633 CLEAN**.
 
-Scan **633 / printed 616** may be inspected only as an outgoing continuity witness if required; do not include it in Batch 7.
+Scan **644 / printed 627** may be inspected only as an outgoing continuity witness if required; do not include it in Batch 8.
 
 Directly compare every page record against the rendered source scan. Apply only source-supported corrections. Do **not** normalize, modernize, import standard/web Kural wording, use another edition, or fill readings from memory.
 
