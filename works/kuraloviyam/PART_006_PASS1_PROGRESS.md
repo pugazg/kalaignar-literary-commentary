@@ -351,14 +351,62 @@ Exact compare from pre-batch `d3e06794622fb4dacfbca608e7baeab4f4f6443c` to page 
 - scan 633 was inspected only as an outgoing continuity witness and remains outside P6-07;
 - no Part 001–005 Tamil or English page record changed.
 
+## P6-08 state
+
+**11 / 11 page records captured — COMPLETE.**
+
+P6-08 scans **633–643 / printed 616–626** are captured as one page-aligned Tamil Pass-1 record per physical scan. All 11 records carry:
+
+- `part: 6`;
+- `part_page: 78–88`;
+- exact scan/printed-page mappings;
+- `status: "needs-review"`;
+- `visual_fidelity: "needs-review"`;
+- the exact Part 006 source filename.
+
+Page-layer commits:
+
+- `cebf7c964828a1198f92f5bd09846781e9c9d3de` — `kuraloviyam: Part 006 Pass 1 scans 633-638`;
+- `efc48a519ffcd522387fa70f1e1d9593dcf6c8a1` — `kuraloviyam: Part 006 Pass 1 scans 639-643`.
+
+Exact compare from pre-batch `aff88e39dbc4035954213168935f44f71ac6dbd7` to page endpoint `efc48a519ffcd522387fa70f1e1d9593dcf6c8a1`:
+
+- **2 commits ahead / non-divergent**;
+- exactly **11 changed files**;
+- all **11** are newly added Part 006 Tamil page records, scans **633–643**;
+- non-page/control files changed — **0**.
+
+## P6-08 continuity map
+
+- **632→633 — CLEAN**;
+- **633→634 — GENUINE CONTINUATION**; scan 634 closes the அறவாழி / ஏனாதி renunciation vignette with Chapter 37 / Kural 366;
+- **634→635 — CLEAN**;
+- **635→636 — GENUINE CONTINUATION**; scan 636 closes the வளநாடு / மலைநாடு royal-ethics vignette with Chapter 39 / Kural 384;
+- **636→637 — CLEAN**;
+- **637→638 — GENUINE CONTINUATION**; scan 638 closes the lovers/heart vignette with Chapter 125 / Kural 1248;
+- **638→639 — CLEAN**;
+- **639→640 — GENUINE CONTINUATION**; scan 640 closes the அரண் discussion with Chapter 75 / Kural 750;
+- **640→641 — CLEAN**;
+- **641→642 — GENUINE CONTINUATION**; scan 642 closes the புலால் மறுத்தல் reflection with Chapter 26 / Kurals 260 and 259;
+- **642→643 — CLEAN**;
+- **643→644 — GENUINE CONTINUATION**, directly checked from scan 644 / printed 627 as an outgoing witness. Scan 644 continues and closes the cow/calf/pig vignette with Chapter 46 / Kural 451; scan 644 was **not** created in P6-08.
+
+## P6-08 structural notes
+
+- illustrations remain described in `visual_notes`, not transcribed as prose;
+- Kural blocks and source glosses remain structurally distinct;
+- exact physical-page splits are preserved;
+- scan 644 was inspected only as an outgoing continuity witness and remains outside P6-08;
+- no Part 001–005 Tamil or English page record changed.
+
 ## Current gate
 
-Part 006 Pass 1 cumulative state: **77/111 captured**.
+Part 006 Pass 1 cumulative state: **88/111 captured**.
 
-P6-01 through P6-07 are **COMPLETE / 77 pages captured**.
+P6-01 through P6-08 are **COMPLETE / 88 pages captured**.
 
 Exact next batch:
 
-**P6-08 — scans 633–643 / printed 616–626 — 11 physical scans.**
+**P6-09 — scans 644–654 / printed 627–637 — 11 physical scans.**
 
-Preserve incoming **632→633 CLEAN**.
+Preserve incoming **643→644 GENUINE CONTINUATION**.
