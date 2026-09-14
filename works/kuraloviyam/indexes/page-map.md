@@ -729,11 +729,12 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - Pass 2B Batch 7 — **622–632 / printed 605–615 — COMPLETE 11/11**;
 - Pass 2B Batch 8 — **633–643 / printed 616–626 — COMPLETE 11/11**;
 - Pass 2B Batch 9 — **644–654 / printed 627–637 — COMPLETE 11/11**;
-- Batch 9 correction endpoint — `88ed6de7619947e777ae083436e09a44ed6f4df7`;
-- exact Batch 9 compare from `d06c6b966b0604a80fcfcc5f24568d2734a6fff6` — **2 commits / exactly 2 modified Part 006 page files / scans 646, 648 / 0 non-page changes**;
-- cumulative Pass 2B — **99/111**;
-- outgoing **654→655 GENUINE CONTINUATION** confirmed;
-- next stage — **Part 006 Pass 2B Batch 10 / scans 655–665 / printed 638–648 — 11 scans**.
+- Pass 2B Batch 10 — **655–665 / printed 638–648 — COMPLETE 11/11**;
+- Batch 10 correction endpoint — `d5c1adceda92c0e4dcd888b555bcef2dc3ae9180` (**same as pre-batch; no page correction**);
+- exact Batch 10 compare — **identical / 0 commits / 0 changed files**;
+- cumulative Pass 2B — **110/111**;
+- outgoing **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT** confirmed;
+- next stage — **Part 006 Pass 2B final remainder / scan 666 / unnumbered pictorial back cover — 1 scan**.
 - SC4 endpoint — `113846a357544a33b73d727d20115471f2f3411f`;
 - SC4 exact page-layer compare — **12 modified English page files only**;
 - fidelity corrections — **4 page files / scans 549, 550, 553, 555**;
@@ -742,4 +743,4 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 ## Current frontier
 
-**Part 006 Pass 2B Batch 10 — scans 655–665 / printed 638–648 — 11 scans.**
+**Part 006 Pass 2B final remainder — scan 666 / unnumbered pictorial back cover — 1 scan.**
