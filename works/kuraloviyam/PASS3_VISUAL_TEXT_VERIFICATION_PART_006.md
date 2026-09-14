@@ -8,7 +8,7 @@
 - Final physical scan: **666 / unnumbered pictorial back cover**
 - Physical scans: **111**
 - Gate: **Pass 3 — meaningful visual/text fidelity verification**
-- Status: **IN PROGRESS — 11/111**
+- Status: **IN PROGRESS — 22/111**
 
 ## Preconditions
 
@@ -77,14 +77,52 @@ Because Batch 1 required no page-layer correction, the Pass-3 Batch-1 page-layer
 
 Exact compare `6416c58b83d96af2dfd4683685d1672eafebc199` → `6416c58b83d96af2dfd4683685d1672eafebc199` is **identical / 0 commits ahead / 0 behind / 0 changed files**.
 
+## Batch 2 — scans 567–577 / printed 550–560
+
+**Result: COMPLETE — 11 / 11.**
+
+Freshly rendered source scans were compared directly with the current canonical records for meaningful visual/text organization. **No structural or visual-description correction was required.** No lexical/body-text change was made.
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 567 | 550 | **NO STRUCTURAL CHANGE** — text-only genuine continuation/closure of the narrow-street / poverty-family vignette; Kural 65 and Chapter 7 metadata remain correctly grouped at the foot of the page. |
+| 568 | 551 | **NO STRUCTURAL CHANGE** — large upper hospital illustration shows a doctor with stethoscope, nurse and patient in bed; the modern-medical-method / Thirukkural-medicine vignette begins below and continues to scan 569. |
+| 569 | 552 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; the three quoted Kurals from Chapter 95 / மருந்து remain correctly ordered with their source-visible metadata. |
+| 570 | 553 | **NO STRUCTURAL CHANGE** — large upper illustration of the waiting woman beneath a tree remains above the prose; the separated-wife / evening vignette begins below and continues to scan 571. |
+| 571 | 554 | **NO STRUCTURAL CHANGE** — text-led closure; Kural 1221 and Chapter 123 metadata remain correctly separated above the small lower seated-statue page furniture. |
+| 572 | 555 | **NO STRUCTURAL CHANGE** — large upper illustration of the seated wealthy man holding a scroll/document remains above the prose; the உதியன் / நன்னன் false-friendship vignette begins below and continues to scan 573. |
+| 573 | 556 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 800, Chapter 80 metadata and source glosses remain correctly grouped at the foot of the page. |
+| 574 | 557 | **NO STRUCTURAL CHANGE** — large upper illustration of the man and woman conversing beneath trees remains above the dialogue-only opening of the காவிரி / கரிகாலன் love vignette. |
+| 575 | 558 | **NO STRUCTURAL CHANGE** — text-only dialogue/prose continuation; the eye-language discussion remains physically open at the source-visible split `வாய்ச்` and continues into scan 576. |
+| 576 | 559 | **NO STRUCTURAL CHANGE** — text-led closure; Kural 1100 and Chapter 110 metadata remain correctly separated above the small lower pavilion/chariot-style page furniture. |
+| 577 | 560 | **NO STRUCTURAL CHANGE** — large upper illustration of the distressed adorned man holding his face with a dark silhouetted figure behind remains above the political/ethical leadership vignette, which continues directly to scan 578. |
+
+### Boundary / continuity result
+
+- Incoming **566→567 GENUINE CONTINUATION** remains confirmed.
+- **577→578 is a GENUINE CONTINUATION**, reconfirmed from scan **578 / printed 561**: scan 577 opens the political/ethical leadership vignette and scan 578 continues and closes it with Chapter 90 / Kural 899.
+- Scan 578 was used only as the outgoing witness and is **not** counted in Batch 2.
+
+### Batch 2 correction summary
+
+- Structural/visual-description corrections: **0**.
+- Lexical/body-text changes: **0**.
+- No-change scans: **567–577 — 11 pages**.
+- Status promotions: **0**.
+- All Part-006 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+
+Because Batch 2 required no page-layer correction, the Pass-3 Batch-2 page-layer endpoint is the pre-batch checkpoint itself: `b2c8d842938a7e56f17c9010b2cd01b2f4025e94`.
+
+Exact compare `b2c8d842938a7e56f17c9010b2cd01b2f4025e94` → `b2c8d842938a7e56f17c9010b2cd01b2f4025e94` is **identical / 0 commits ahead / 0 behind / 0 changed files**.
+
 ## Current gate
 
-Part 006 Pass 3 cumulative coverage: **11/111**.
+Part 006 Pass 3 cumulative coverage: **22/111**.
 
 Exact next batch:
 
-**Batch 2 — scans 567–577 / printed 550–560 — 11 physical scans.**
+**Batch 3 — scans 578–588 / printed 561–571 — 11 physical scans.**
 
-Preserve incoming **566→567 GENUINE CONTINUATION**. Inspect scan **578 / printed 561** only as the outgoing continuity witness if required.
+Preserve incoming **577→578 GENUINE CONTINUATION**. Inspect scan **589 / printed 572** only as the outgoing continuity witness if required.
 
 Pass 3 remains meaningful visual/text fidelity verification, not another lexical reread. Do not promote final status.
