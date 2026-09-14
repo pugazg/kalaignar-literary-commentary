@@ -706,11 +706,13 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - final continuity — **654→655 GENUINE**, **655→656 CLEAN**, **656→657 GENUINE**, **657→658 CLEAN**, **658→659 GENUINE**, **659→660 GENUINE**, **660→661 GENUINE**, **661→662 GENUINE**, **662→663 GENUINE**, **663→664 GENUINE**, **664→665 GENUINE**, **665→666 CLEAN**;
 - scans **658–665** — `பொருளடக்கம்`; scan **666** — physical source endpoint;
 - Pass 2A Batch 1 — **556–566 / printed 539–549 — COMPLETE 11/11**;
-- correction endpoint — `39a88bcbf4047df1d755bd49b7ed18efe98aeaf2`;
-- exact Batch 1 compare from `82a19097e23c6f2021cd780da05ae01e3c32a6c8` — **1 commit / exactly 5 modified Part 006 page files / scans 556, 560, 562, 564, 565 / 0 non-page changes**;
-- cumulative Pass 2A — **11/111**;
-- outgoing **566→567 GENUINE CONTINUATION** reconfirmed;
-- next stage — **Part 006 Pass 2A Batch 2 / scans 567–577 / printed 550–560 — 11 scans**.
+- Batch 1 correction endpoint — `39a88bcbf4047df1d755bd49b7ed18efe98aeaf2`;
+- Pass 2A Batch 2 — **567–577 / printed 550–560 — COMPLETE 11/11**;
+- Batch 2 correction endpoint — `7d54c4c367305393429fbfad87c4ae7eef6cffec`;
+- exact Batch 2 compare from `a7733f4f16cc3d7f8195bfc6333ad75c53573511` — **1 commit / exactly 5 modified Part 006 page files / scans 568, 570, 571, 572, 575 / 0 non-page changes**;
+- cumulative Pass 2A — **22/111**;
+- outgoing **577→578 GENUINE CONTINUATION** reconfirmed;
+- next stage — **Part 006 Pass 2A Batch 3 / scans 578–588 / printed 561–571 — 11 scans**.
 - SC4 endpoint — `113846a357544a33b73d727d20115471f2f3411f`;
 - SC4 exact page-layer compare — **12 modified English page files only**;
 - fidelity corrections — **4 page files / scans 549, 550, 553, 555**;
@@ -719,4 +721,4 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 ## Current frontier
 
-**Part 006 Pass 2A Batch 2 — scans 567–577 / printed 550–560 — 11 scans.**
+**Part 006 Pass 2A Batch 3 — scans 578–588 / printed 561–571 — 11 scans.**
