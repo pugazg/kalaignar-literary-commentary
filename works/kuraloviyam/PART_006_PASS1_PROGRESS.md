@@ -447,14 +447,60 @@ Exact compare from pre-batch `33be5c86c92af017f404d504c9bf94a05b758654` to page 
 - scan 655 was inspected only as an outgoing continuity witness and remains outside P6-09;
 - no Part 001–005 Tamil or English page record changed.
 
+## P6-10 state
+
+**11 / 11 page records captured — COMPLETE.**
+
+P6-10 scans **655–665 / printed 638–648** are captured as one page-aligned Tamil Pass-1 record per physical scan. Final scan **666** is captured separately as the one-page unnumbered pictorial back-cover remainder.
+
+Final Pass-1 page-layer commits:
+
+- `8b6a5838b0fb02b3c5a8a64e9e5cc36a532c69c6` — `kuraloviyam: Part 006 Pass 1 scans 655-660`;
+- `6f58cc1c4a12bcf06776507a42a47225d782cc2b` — `kuraloviyam: Complete Part 006 Pass 1 scans 661-666`.
+
+Exact compare from pre-batch `0935e9380db4aa406793db9a5f261354831466c7` to final page endpoint `6f58cc1c4a12bcf06776507a42a47225d782cc2b`:
+
+- **2 commits ahead / non-divergent**;
+- exactly **12 changed files**;
+- all **12** are newly added Part 006 Tamil page records, scans **655–666**;
+- non-page/control files changed — **0**.
+
+## P6-10 / final-remainder continuity map
+
+- **654→655 — GENUINE CONTINUATION**; scan 655 closes the reconciliation / ஊடல்-to-கூடல் vignette with Chapter 128 / Kural 1276;
+- **655→656 — CLEAN**; scan 656 begins the நிலமகள் / உலகத்தின் பெருமை dialogue;
+- **656→657 — GENUINE CONTINUATION**; scan 657 closes that dialogue with Chapter 34 / Kural 336;
+- **657→658 — CLEAN**; scan 658 begins `பொருளடக்கம்`;
+- **658→659 — GENUINE CONTENTS CONTINUATION**;
+- **659→660 — GENUINE CONTENTS CONTINUATION**;
+- **660→661 — GENUINE CONTENTS CONTINUATION**;
+- **661→662 — GENUINE CONTENTS CONTINUATION**;
+- **662→663 — GENUINE CONTENTS CONTINUATION**;
+- **663→664 — GENUINE CONTENTS CONTINUATION**;
+- **664→665 — GENUINE CONTENTS CONTINUATION**;
+- **665→666 — CLEAN**; scan 666 is the unnumbered pictorial back cover;
+- **666 — PHYSICAL SOURCE ENDPOINT / NO EXTERNAL CONTINUATION**.
+
+## P6-10 / final structural notes
+
+- scans **658–665** are the complete `பொருளடக்கம்` backmatter run;
+- scan **665** includes a printed note explaining that this fourth-edition contents uses reformed orthography; the blue Raj Bhavan Library / Madras stamp is recorded as non-source annotation;
+- scan **666** contains no visible printed body text and is represented as a pictorial back-cover record;
+- illustrations remain described in `visual_notes`, not transcribed as prose;
+- Kural blocks and source glosses remain structurally distinct;
+- exact physical-page splits are preserved;
+- no Part 001–005 Tamil or English page record changed.
+
 ## Current gate
 
-Part 006 Pass 1 cumulative state: **99/111 captured**.
+Part 006 Pass 1 cumulative state: **111/111 captured — COMPLETE**.
 
-P6-01 through P6-09 are **COMPLETE / 99 pages captured**.
+P6-01 through P6-10 plus final scan 666 are **COMPLETE / all 111 physical scans captured**.
 
-Exact next batch:
+Pass 1 is now **CLOSED / COMPLETE**. All 111 records remain `needs-review` / visual `needs-review`.
 
-**P6-10 — scans 655–665 / printed 638–648 — 11 physical scans.**
+Exact next stage:
 
-Preserve incoming **654→655 GENUINE CONTINUATION**.
+**Part 006 Pass 2A Batch 1 — scans 556–566 / printed 539–549 — 11 physical scans.**
+
+Use rendered source pixels as controlling authority and perform direct textual verification only; do not change record status during Pass 2A.
