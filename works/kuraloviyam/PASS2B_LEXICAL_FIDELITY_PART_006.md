@@ -197,12 +197,41 @@ Page-correction commits:
 
 Exact compare from pre-batch `009054ef9f31c000ce239d904e27f97f7bf4ce16` to correction endpoint `5487cd351f03e09fbb2739061309bc4a008864c8` is **ahead by 4 commits / non-divergent** and changes exactly **4 Part 006 page files**, scans **614, 615, 619 and 620**, with **0 non-page changes**.
 
+## Batch 7 — overall scans 622–632 / printed pages 605–615
+
+**Status: COMPLETE — 11 / 11 scans independently re-read against freshly rendered source.**
+
+Incoming **621→622 GENUINE CONTINUATION** was preserved. Scan **633 / printed 616** was inspected only as the outgoing witness and confirms **632→633 CLEAN**: scan 632 closes Chapter 108 / Kural 1077, while scan 633 begins a new அறவாழி / ஏனாதி ascetic-travel vignette.
+
+| Scan | Printed page | Pass 2B result |
+|---:|---:|---|
+| 622 | 605 | independent lexical re-read complete; no correction required; incoming waterfall / love-sign vignette closes with Chapter 128 / Kural 1274 and source gloss |
+| 623 | 606 | independent lexical re-read complete; no correction required; குடிசெயல்வகை / battlefield-leadership vignette begins |
+| 624 | 607 | independent lexical re-read complete; no correction required; Chapter 103 / Kural 1027 and source glosses confirmed |
+| 625 | 608 | independent lexical re-read complete; no correction required; கணியன் / குன்றன் / பச்சை / பச்சையான் vignette begins |
+| 626 | 609 | independent lexical re-read complete; no correction required; Chapter 7 / Kural 61 confirmed |
+| 627 | 610 | independent lexical re-read complete; no correction required; Roman-imperial-rise-and-decline vignette begins |
+| 628 | 611 | restored source-visible spacing `மது பானம்`; Chapter 54 / Kural 539 and source gloss confirmed |
+| 629 | 612 | corrected `பொழுதோ போகவில்லை` → source-visible `பொழுதேதோ போகவில்லை`; காதற் சிறப்புரைத்தல் vignette begins |
+| 630 | 613 | independent lexical re-read complete; no correction required; Chapter 113 / Kural 1128 confirmed |
+| 631 | 614 | independent lexical re-read complete; no correction required; அன்புக்கடல் / miserly-giving vignette begins |
+| 632 | 615 | independent lexical re-read complete; no correction required; Kural 1077, source prose gloss, Bharathidasan verse, Chapter 108 metadata and glosses confirmed; scan 633 witness confirms CLEAN boundary |
+
+Batch 7 correction summary: **2 records corrected; 9 records required no lexical or punctuation change; 2 source-supported lexical/spacing readings corrected in total**.
+
+Page-correction commits:
+
+- `86cc4068fb8f54438aa876d68fc2f61a77316439` — scan 628;
+- `c387d03e97542aef082121b3435930481cabef2c` — scan 629 / Batch-7 correction endpoint.
+
+Exact compare from pre-batch `5a4ee430753ac437dee6ca1be7c233c215070f8e` to correction endpoint `c387d03e97542aef082121b3435930481cabef2c` is **ahead by 2 commits / non-divergent** and changes exactly **2 Part 006 page files**, scans **628 and 629**, with **0 non-page changes**.
+
 ## Current gate
 
-Part 006 Pass 2B cumulative coverage: **66/111**.
+Part 006 Pass 2B cumulative coverage: **77/111**.
 
 Exact next batch:
 
-**Batch 7 — scans 622–632 / printed 605–615 — 11 physical scans.**
+**Batch 8 — scans 633–643 / printed 616–626 — 11 physical scans.**
 
-Preserve incoming **621→622 GENUINE CONTINUATION**. Scan **633 / printed 616** may be inspected only as the outgoing witness if required.
+Preserve incoming **632→633 CLEAN**. Scan **644 / printed 627** may be inspected only as the outgoing witness if required.
