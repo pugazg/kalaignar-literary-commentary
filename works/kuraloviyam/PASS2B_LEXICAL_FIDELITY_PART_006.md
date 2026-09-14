@@ -49,12 +49,41 @@ Page-correction commits:
 
 Exact compare from pre-batch `bb71d16b95c57b91441b773fe62664b3e81a1697` to correction endpoint `742a19e72937f243db891575b45bb96964e81215` is **ahead by 2 commits / non-divergent** and changes exactly **2 Part 006 page files**, scans **559 and 566**, with **0 non-page changes**.
 
+## Batch 2 — overall scans 567–577 / printed pages 550–560
+
+**Status: COMPLETE — 11 / 11 scans independently re-read against freshly rendered source.**
+
+Incoming **566→567 GENUINE CONTINUATION** was preserved. Scan **578 / printed 561** was inspected only as the outgoing witness and confirms **577→578 GENUINE CONTINUATION** into the same political/ethical leadership vignette.
+
+| Scan | Printed page | Pass 2B result |
+|---:|---:|---|
+| 567 | 550 | independent lexical re-read complete; no correction required; incoming continuation closes with Chapter 7 / Kural 65 |
+| 568 | 551 | independent lexical re-read complete; no correction required; medical-method vignette begins and continues |
+| 569 | 552 | independent lexical re-read complete; no correction required; Chapter 95 / Kurals 950, 942, 948 and source glosses confirmed |
+| 570 | 553 | corrected `வண்ணத்தமிழ் ஒலியும்` → source-visible `வண்ணத்தமிழ் ஓவியம்`; separated-wife/evening vignette continues |
+| 571 | 554 | independent lexical re-read complete; no correction required; Chapter 123 / Kural 1221 confirmed |
+| 572 | 555 | independent lexical re-read complete; no correction required; உதியன் / நன்னன் false-friendship vignette continues |
+| 573 | 556 | independent lexical re-read complete; no correction required; Chapter 80 / Kural 800 and source glosses confirmed |
+| 574 | 557 | independent lexical re-read complete; no correction required; காவிரி / கரிகாலன் dialogue begins |
+| 575 | 558 | independent lexical re-read complete; no correction required; source-visible terminal split `வாய்ச்` preserved into scan 576 |
+| 576 | 559 | corrected Kural reading `கண்ணினை` → source-visible `கண்ணிணை`; Chapter 110 / Kural 1100 confirmed |
+| 577 | 560 | independent lexical re-read complete; no correction required; scan 578 witness confirms genuine continuation |
+
+Batch 2 correction summary: **2 records corrected; 9 records required no lexical or punctuation change; 2 source-supported readings corrected in total**.
+
+Page-correction commits:
+
+- `6a2bf57f06cb42e2aefd62e72b36b0c08365c622` — scan 570;
+- `8037c41cdfd4e06cffc12b43764f26e2de793929` — scan 576 / Batch-2 correction endpoint.
+
+Exact compare from pre-batch `ecc3369787c6488417f1b3d5524862f99fbf2d77` to correction endpoint `8037c41cdfd4e06cffc12b43764f26e2de793929` is **ahead by 2 commits / non-divergent** and changes exactly **2 Part 006 page files**, scans **570 and 576**, with **0 non-page changes**.
+
 ## Current gate
 
-Part 006 Pass 2B cumulative coverage: **11/111**.
+Part 006 Pass 2B cumulative coverage: **22/111**.
 
 Exact next batch:
 
-**Batch 2 — scans 567–577 / printed 550–560 — 11 physical scans.**
+**Batch 3 — scans 578–588 / printed 561–571 — 11 physical scans.**
 
-Preserve incoming **566→567 GENUINE CONTINUATION**. Scan **578 / printed 561** may be inspected only as the outgoing witness if required.
+Preserve incoming **577→578 GENUINE CONTINUATION**. Scan **589 / printed 572** may be inspected only as the outgoing witness if required.
