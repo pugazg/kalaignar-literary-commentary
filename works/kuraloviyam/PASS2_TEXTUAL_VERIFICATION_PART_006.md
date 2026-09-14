@@ -224,12 +224,36 @@ Durable correction commit:
 
 Exact compare from pre-batch `11de2342a2e9dd62d45f218fa02ed146aaf2b72f` to correction endpoint `54dd2781658025df576d489eb63b3c2c830e1141` is **ahead by 1 commit / non-divergent** and changes exactly **6 Part 006 page files**, scans **622, 623, 627, 628, 629, 632**, with **0 non-page changes**.
 
+## Batch 8 — overall scans 633–643 / printed pages 616–626
+
+**Status: COMPLETE — 11 / 11 scans directly compared against rendered source.**
+
+Incoming **632→633 CLEAN** is preserved. Scan **644 / printed 627** was inspected only as the outgoing witness and reconfirms **643→644 as a GENUINE CONTINUATION** of the cow/calf/pig vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 633 | 616 | direct textual comparison complete; no correction required |
+| 634 | 617 | restored `தரையில்`, `சில நாட்களுக்குப்பிறகு கால்களை பிடித்திட`, and `ஓர் இரவில்` |
+| 635 | 618 | restored `எதிர்க்க வொண்ணாது` |
+| 636 | 619 | restored `செயல்படுத்துகின்றீர்கள்` and `அரவணைத்துக் கொள்கின்றீர்` |
+| 637 | 620 | restored `அழகே!`, source-print `கெளவிச்`, and `ஏறிற்று உணர்ச்சி!` |
+| 638 | 621 | restored `எனப் புகழ்ந்து` |
+| 639 | 622 | restored `வலிமை யுடைய` and `போர்க்கலன்களையும்` |
+| 640 | 623 | direct textual comparison complete; no correction required |
+| 641 | 624 | direct textual comparison complete; no correction required |
+| 642 | 625 | restored `நிறைவுசெய்து`, `புலால் உண்ணுவதைப்`, and `வகையினுள்` |
+| 643 | 626 | direct textual comparison complete; no correction required; scan 644 witness reconfirms continuation |
+
+Batch 8 correction summary: **7 records corrected; 4 records required no textual change; 15 source-supported correction events in total**.
+
+Exact compare from pre-batch `0eda5245a9caf5832d7bd3b85bbfb16bff91fde3` to correction endpoint `d377e43ee74c10c72d146ab478ae84a0234e96db` is **ahead by 7 commits / non-divergent** and changes exactly **7 Part 006 page files**, scans **634, 635, 636, 637, 638, 639, 642**, with **0 non-page changes**.
+
 ## Current gate
 
-Part 006 Pass 2A cumulative coverage: **77/111**.
+Part 006 Pass 2A cumulative coverage: **88/111**.
 
 Exact next batch:
 
-**Batch 8 — scans 633–643 / printed 616–626 — 11 physical scans.**
+**Batch 9 — scans 644–654 / printed 627–637 — 11 physical scans.**
 
-Preserve incoming **632→633 CLEAN**. Scan **644 / printed 627** may be inspected only as the outgoing witness if needed.
+Preserve incoming **643→644 GENUINE CONTINUATION**. Scan **655 / printed 638** may be inspected only as the outgoing witness if needed.
