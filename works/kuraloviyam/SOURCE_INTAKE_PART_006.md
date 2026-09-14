@@ -146,10 +146,19 @@ Pass 2B final remainder — **666 / unnumbered pictorial back cover — COMPLETE
 - statuses remain unchanged — all 111 records `needs-review` / visual `needs-review`;
 - scan 666 confirmed as `back-cover` with no visible printed body text;
 - **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT** confirmed;
-- Pass 3 — **NOT STARTED — 0/111**.
+Pass 3 Batch 1 — **556–566 / printed 539–549 — COMPLETE 11/11**.
+
+- structural/visual-description corrections — **0**;
+- lexical/body-text changes — **0**;
+- page-layer checkpoint / endpoint — `6416c58b83d96af2dfd4683685d1672eafebc199`;
+- exact page-layer compare — **identical / 0 commits / 0 changed files**;
+- cumulative Pass 3 — **11/111**;
+- incoming **555→556 CLEAN / source-resolved** preserved;
+- outgoing witness confirms **566→567 GENUINE CONTINUATION**;
+- statuses remain unchanged — all 111 records `needs-review` / visual `needs-review`.
 
 Immediate next activity:
 
-**Part 006 Pass 3 Batch 1 — scans 556–566 / printed 539–549 — 11 physical scans.**
+**Part 006 Pass 3 Batch 2 — scans 567–577 / printed 550–560 — 11 physical scans.**
 
-Use freshly rendered source images as the controlling authority for meaningful visual/text verification. Pass 3 is not another lexical reread and does not promote final status.
+Preserve incoming **566→567 GENUINE CONTINUATION**. Use freshly rendered source images for meaningful visual/text verification; do not perform another lexical reread or promote final status.
