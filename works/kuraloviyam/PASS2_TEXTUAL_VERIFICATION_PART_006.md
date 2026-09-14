@@ -196,12 +196,40 @@ Durable correction commit:
 
 Exact compare from pre-batch `9286709f390be957f81c5948661d9b99536913d6` to correction endpoint `97de20acdabe512f52e05aa2437689411500f57f` is **ahead by 1 commit / non-divergent** and changes exactly **8 Part 006 page files**, scans **611, 612, 613, 614, 615, 616, 617, 620**, with **0 non-page changes**.
 
+## Batch 7 — overall scans 622–632 / printed pages 605–615
+
+**Status: COMPLETE — 11 / 11 scans directly compared against rendered source.**
+
+Incoming **621→622 GENUINE CONTINUATION** is preserved. Scan **633 / printed 616** was inspected only as the outgoing witness and confirms **632→633 CLEAN**; scan 633 begins a new ascetic-travel vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 622 | 605 | corrected `மலராக` → source-visible `மலராத`; restored source quotation around `அவன் மீது அவளுக்கும் அளவற்ற காதல் உண்டு` |
+| 623 | 606 | corrected `அப்படிப்பொருவன்` → source-visible `அப்படியொருவன்` |
+| 624 | 607 | direct textual comparison complete; no correction required |
+| 625 | 608 | direct textual comparison complete; no correction required |
+| 626 | 609 | direct textual comparison complete; no correction required |
+| 627 | 610 | restored source-visible `கரங்களில்` and singular `அவருக்கு` |
+| 628 | 611 | restored source-visible `மென்மைமிகு` and source dash in `அரசினர் - எல்லாம்` |
+| 629 | 612 | restored `கோதையினைத் தொட்டுச்`, `முனகலிட`, `தொழுதறியாள்`, `சென்றிட்டான்`, and `வரப் புறப்பட்டாள்` |
+| 630 | 613 | direct textual comparison complete; no correction required |
+| 631 | 614 | direct textual comparison complete; no correction required |
+| 632 | 615 | corrected `தருவதிலே` → source-visible `தருவதைவிட`; scan 633 witness confirms CLEAN boundary |
+
+Batch 7 correction summary: **6 records corrected; 5 records required no textual change; 13 source-supported correction events in total**.
+
+Durable correction commit:
+
+`54dd2781658025df576d489eb63b3c2c830e1141` — `kuraloviyam: Pass 2A verify Part 006 scans 622-632`
+
+Exact compare from pre-batch `11de2342a2e9dd62d45f218fa02ed146aaf2b72f` to correction endpoint `54dd2781658025df576d489eb63b3c2c830e1141` is **ahead by 1 commit / non-divergent** and changes exactly **6 Part 006 page files**, scans **622, 623, 627, 628, 629, 632**, with **0 non-page changes**.
+
 ## Current gate
 
-Part 006 Pass 2A cumulative coverage: **66/111**.
+Part 006 Pass 2A cumulative coverage: **77/111**.
 
 Exact next batch:
 
-**Batch 7 — scans 622–632 / printed 605–615 — 11 physical scans.**
+**Batch 8 — scans 633–643 / printed 616–626 — 11 physical scans.**
 
-Preserve incoming **621→622 GENUINE CONTINUATION**. Scan **633 / printed 616** may be inspected only as the outgoing witness if needed.
+Preserve incoming **632→633 CLEAN**. Scan **644 / printed 627** may be inspected only as the outgoing witness if needed.
