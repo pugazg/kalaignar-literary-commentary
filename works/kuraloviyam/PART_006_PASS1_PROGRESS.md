@@ -255,14 +255,62 @@ Exact compare from pre-batch `2d8353d246467bedabcc9dfc6e0e0287e61bdc66` to page 
 - scan 611 was inspected only as an outgoing continuity witness and remains outside P6-05;
 - no Part 001–005 Tamil or English page record changed.
 
+## P6-06 state
+
+**11 / 11 page records captured — COMPLETE.**
+
+P6-06 scans **611–621 / printed 594–604** are captured as one page-aligned Tamil Pass-1 record per physical scan. All 11 records carry:
+
+- `part: 6`;
+- `part_page: 56–66`;
+- exact scan/printed-page mappings;
+- `status: "needs-review"`;
+- `visual_fidelity: "needs-review"`;
+- the exact Part 006 source filename.
+
+Page-layer commits:
+
+- `81471a82f45e35958c966aef6243fd6983c619a6` — `kuraloviyam: Part 006 Pass 1 scans 611-616`;
+- `b05d0389346f42db21e7b2e1a93b7a088b535682` — `kuraloviyam: Part 006 Pass 1 scans 617-621`.
+
+Exact compare from pre-batch `5566759d2578df9376839df237a08eafe6d04bb5` to page endpoint `b05d0389346f42db21e7b2e1a93b7a088b535682`:
+
+- **2 commits ahead / non-divergent**;
+- exactly **11 changed files**;
+- all **11** are newly added Part 006 Tamil page records, scans **611–621**;
+- non-page/control files changed — **0**.
+
+## P6-06 continuity map
+
+- **610→611 — GENUINE CONTINUATION**; scan 611 continues the pseudo-scholar / ministerial-misreading vignette;
+- **611→612 — GENUINE CONTINUATION**; scan 612 closes the vignette with Chapter 68 / Kural 672;
+- **612→613 — CLEAN**;
+- **613→614 — GENUINE CONTINUATION**; scan 614 closes the தேன்மொழி / கதிரோன் separation vignette with Chapter 121 / Kural 1202;
+- **614→615 — CLEAN**;
+- **615→616 — GENUINE CONTINUATION**; scan 616 closes the governance / ministerial-competence vignette with Chapter 64 / Kural 640;
+- **616→617 — CLEAN**;
+- **617→618 — GENUINE CONTINUATION**; scan 618 closes the குன்றன் / ஆசிரியர் vignette with Chapter 14 / Kural 140;
+- **618→619 — CLEAN**;
+- **619→620 — GENUINE CONTINUATION**; scan 620 closes the reflective grief / face-and-eyes vignette with Chapter 71 / Kurals 706 and 710;
+- **620→621 — CLEAN**;
+- **621→622 — GENUINE CONTINUATION**, directly checked from scan 622 / printed 605 as an outgoing witness. Scan 622 continues the waterfall vignette and was **not** created in P6-06.
+
+## P6-06 structural notes
+
+- illustrations remain described in `visual_notes`, not transcribed as prose;
+- Kural blocks and source glosses remain structurally distinct;
+- exact physical-page splits are preserved;
+- scan 622 was inspected only as an outgoing continuity witness and remains outside P6-06;
+- no Part 001–005 Tamil or English page record changed.
+
 ## Current gate
 
-Part 006 Pass 1 cumulative state: **55/111 captured**.
+Part 006 Pass 1 cumulative state: **66/111 captured**.
 
-P6-01 through P6-05 are **COMPLETE / 55 pages captured**.
+P6-01 through P6-06 are **COMPLETE / 66 pages captured**.
 
 Exact next batch:
 
-**P6-06 — scans 611–621 / printed 594–604 — 11 physical scans.**
+**P6-07 — scans 622–632 / printed 605–615 — 11 physical scans.**
 
-Preserve incoming **610→611 GENUINE CONTINUATION**.
+Preserve incoming **621→622 GENUINE CONTINUATION**.
