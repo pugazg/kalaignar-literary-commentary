@@ -354,13 +354,13 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - scan **666** — physical source endpoint / no external continuation;
 - all **111** records remain `needs-review` / visual `needs-review`;
 - Pass 2A Batch 1 — **556–566 / printed 539–549 — COMPLETE 11/11**;
-- Batch 1 correction commit — `39a88bcbf4047df1d755bd49b7ed18efe98aeaf2`;
 - Pass 2A Batch 2 — **567–577 / printed 550–560 — COMPLETE 11/11**;
-- Batch 2 correction commit — `7d54c4c367305393429fbfad87c4ae7eef6cffec`;
-- exact Batch 2 compare from `a7733f4f16cc3d7f8195bfc6333ad75c53573511` — **exactly 5 page files / scans 568, 570, 571, 572, 575 / 0 non-page changes**;
-- cumulative Pass 2A — **22/111**;
-- exact next stage — **Part 006 Pass 2A Batch 3 / scans 578–588 / printed 561–571 — 11 scans**.
+- Pass 2A Batch 3 — **578–588 / printed 561–571 — COMPLETE 11/11**;
+- Batch 3 correction commit — `b7e40436f7459425e4d9ef6e52e296df23e6e776`;
+- exact Batch 3 compare from `03f71d7e6c252fdfc728baa603ed27c40fe8af07` — **exactly 5 page files / scans 579, 580, 584, 585, 588 / 0 non-page changes**;
+- cumulative Pass 2A — **33/111**;
+- exact next stage — **Part 006 Pass 2A Batch 4 / scans 589–599 / printed 572–582 — 11 scans**.
 
 ## Current frontier
 
-**Part 006 Pass 2A Batch 3 — scans 578–588 / printed 561–571 — 11 scans.**
+**Part 006 Pass 2A Batch 4 — scans 589–599 / printed 572–582 — 11 scans.**

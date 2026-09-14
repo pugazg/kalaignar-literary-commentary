@@ -94,14 +94,16 @@ Part 006 Pass 2A Batch 1 — **556–566 / printed 539–549 — COMPLETE 11/11*
 
 Part 006 Pass 2A Batch 2 — **567–577 / printed 550–560 — COMPLETE 11/11**.
 
-- Batch 2 correction commit — `7d54c4c367305393429fbfad87c4ae7eef6cffec`;
-- exact Batch 2 compare from `a7733f4f16cc3d7f8195bfc6333ad75c53573511` — **1 commit / exactly 5 modified Part 006 page files / scans 568, 570, 571, 572, 575 / 0 non-page changes**;
-- cumulative Pass 2A — **22/111**;
+Part 006 Pass 2A Batch 3 — **578–588 / printed 561–571 — COMPLETE 11/11**.
+
+- Batch 3 correction commit — `b7e40436f7459425e4d9ef6e52e296df23e6e776`;
+- exact Batch 3 compare from `03f71d7e6c252fdfc728baa603ed27c40fe8af07` — **1 commit / exactly 5 modified Part 006 page files / scans 579, 580, 584, 585, 588 / 0 non-page changes**;
+- cumulative Pass 2A — **33/111**;
 - statuses remain unchanged — all 111 records `needs-review` / visual `needs-review`;
-- outgoing **577→578 GENUINE CONTINUATION** directly reconfirmed from scan 578 / printed 561.
+- outgoing **588→589 CLEAN** directly reconfirmed from scan 589 / printed 572.
 
 Immediate next activity:
 
-**Part 006 Pass 2A Batch 3 — scans 578–588 / printed 561–571 — 11 physical scans.**
+**Part 006 Pass 2A Batch 4 — scans 589–599 / printed 572–582 — 11 physical scans.**
 
-Preserve incoming **577→578 GENUINE CONTINUATION**. Use rendered scan images as the controlling source and apply only source-supported textual corrections; do not change record status during Pass 2A.
+Preserve incoming **588→589 CLEAN**. Use rendered scan images as the controlling source and apply only source-supported textual corrections; do not change record status during Pass 2A.
