@@ -226,12 +226,43 @@ Page-correction commits:
 
 Exact compare from pre-batch `5a4ee430753ac437dee6ca1be7c233c215070f8e` to correction endpoint `c387d03e97542aef082121b3435930481cabef2c` is **ahead by 2 commits / non-divergent** and changes exactly **2 Part 006 page files**, scans **628 and 629**, with **0 non-page changes**.
 
+## Batch 8 — overall scans 633–643 / printed pages 616–626
+
+**Status: COMPLETE — 11 / 11 scans independently re-read against freshly rendered source.**
+
+Incoming **632→633 CLEAN** was preserved. Scan **644 / printed 627** was inspected only as the outgoing witness and confirms **643→644 GENUINE CONTINUATION** into the same cow / calf / pig vignette.
+
+| Scan | Printed page | Pass 2B result |
+|---:|---:|---|
+| 633 | 616 | independent lexical re-read complete; no correction required; அறவாழி / ஏனாதி ascetic-travel vignette begins |
+| 634 | 617 | independent lexical re-read complete; no correction required; Chapter 37 / Kural 366 confirmed |
+| 635 | 618 | independent lexical re-read complete; no correction required; வளநாடு / நிலா நாடு / மலைநாடு royal-ethics vignette begins |
+| 636 | 619 | corrected `வீழ்ந்திருக்கும் அவனுக்கும் தொடுப்பில்லை` → source-visible `வீரத்திற்கும் அவனுக்கும் தொடர்பில்லை`; Chapter 39 / Kural 384 confirmed |
+| 637 | 620 | restored source punctuation in `அந்த மாந்தோப்பின் நிழலுக்கிடையே - அடடா!`; lovers / heart vignette begins |
+| 638 | 621 | corrected `நீ பொறு பேதை!` → source-visible `நீ பெரு பேதை!`; Chapter 125 / Kural 1248 and source gloss confirmed |
+| 639 | 622 | corrected `அகற்கேற்ற அகலம்` → source-visible `அதற்கேற்ற அகலம்`; அரண் bullet discussion begins |
+| 640 | 623 | independent lexical re-read complete; no correction required; Chapter 75 / Kural 750 confirmed |
+| 641 | 624 | independent lexical re-read complete; no correction required; புலால் மறுத்தல் reflection begins |
+| 642 | 625 | independent lexical re-read complete; no correction required; Chapter 26 / Kurals 260 and 259 confirmed |
+| 643 | 626 | independent lexical re-read complete; no correction required; cow / calf / pig vignette begins; scan 644 witness confirms genuine continuation |
+
+Batch 8 correction summary: **4 records corrected; 7 records required no lexical or punctuation change; 4 source-supported lexical/punctuation readings corrected in total**.
+
+Page-correction commits:
+
+- `8707f18b42659100033148cee17ca04fe7c58dba` — scan 636;
+- `b777798669308e32a1ecdec95842896bf93e9ae9` — scan 637;
+- `6a3389315bbd08d521afa31c4d439e3cf0d4f504` — scan 638;
+- `2c9083549d7f5cb88d4029590a93fe87532a54c1` — scan 639 / Batch-8 correction endpoint.
+
+Exact compare from pre-batch `0387f24eff065c17c45999077592179a7bdbdd24` to correction endpoint `2c9083549d7f5cb88d4029590a93fe87532a54c1` is **ahead by 4 commits / non-divergent** and changes exactly **4 Part 006 page files**, scans **636, 637, 638 and 639**, with **0 non-page changes**.
+
 ## Current gate
 
-Part 006 Pass 2B cumulative coverage: **77/111**.
+Part 006 Pass 2B cumulative coverage: **88/111**.
 
 Exact next batch:
 
-**Batch 8 — scans 633–643 / printed 616–626 — 11 physical scans.**
+**Batch 9 — scans 644–654 / printed 627–637 — 11 physical scans.**
 
-Preserve incoming **632→633 CLEAN**. Scan **644 / printed 627** may be inspected only as the outgoing witness if required.
+Preserve incoming **643→644 GENUINE CONTINUATION**. Scan **655 / printed 638** may be inspected only as the outgoing witness if required.
