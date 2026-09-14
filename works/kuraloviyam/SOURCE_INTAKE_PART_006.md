@@ -128,15 +128,17 @@ Pass 2B Batch 4 — **589–599 / printed 572–582 — COMPLETE 11/11**.
 
 Pass 2B Batch 5 — **600–610 / printed 583–593 — COMPLETE 11/11**.
 
-- Batch 5 correction endpoint — `c3aa962722aac34bb21c581014dfc259fbf7d129`;
-- exact Batch 5 compare from `ee9e3ec3783597fba25eaaa34a5f940a316f7163` — **1 commit / exactly 1 modified Part 006 page file / scan 608 / 0 non-page changes**;
-- source-supported repair — source spacing `கட்டுக் கோப்பான`;
-- cumulative Pass 2B — **55/111**;
+Pass 2B Batch 6 — **611–621 / printed 594–604 — COMPLETE 11/11**.
+
+- Batch 6 correction endpoint — `5487cd351f03e09fbb2739061309bc4a008864c8`;
+- exact Batch 6 compare from `009054ef9f31c000ce239d904e27f97f7bf4ce16` — **4 commits / exactly 4 modified Part 006 page files / scans 614, 615, 619, 620 / 0 non-page changes**;
+- source-supported repairs include `நினைத்துக்கொண்டேயிருப்பதால்`, `உற்ற துணையாக ஆக்கிப் பணிகளை`, `வீசப் படாமலே`, `பாடு கிறாள்`, `செழித்துக்கொண்டிருந்த`, and `இது அவனது`;
+- cumulative Pass 2B — **66/111**;
 - statuses remain unchanged — all 111 records `needs-review` / visual `needs-review`;
-- outgoing **610→611 GENUINE CONTINUATION** confirmed from scan 611 / printed 594.
+- outgoing **621→622 GENUINE CONTINUATION** confirmed from scan 622 / printed 605.
 
 Immediate next activity:
 
-**Part 006 Pass 2B Batch 6 — scans 611–621 / printed 594–604 — 11 physical scans.**
+**Part 006 Pass 2B Batch 7 — scans 622–632 / printed 605–615 — 11 physical scans.**
 
-Preserve incoming **610→611 GENUINE CONTINUATION**. Use freshly rendered scan images as the controlling source for the independent lexical-fidelity re-read; do not change record status during Pass 2B.
+Preserve incoming **621→622 GENUINE CONTINUATION**. Use freshly rendered scan images as the controlling source for the independent lexical-fidelity re-read; do not change record status during Pass 2B.
