@@ -138,12 +138,40 @@ Page-correction commit:
 
 Exact compare from pre-batch `1695340957368313627315636547895ae0892e36` to correction endpoint `6ae5eb87bc1a77e021a3114368484e52f65d5d75` is **ahead by 1 commit / non-divergent** and changes exactly **1 Part 006 page file**, scan **598**, with **0 non-page changes**.
 
+## Batch 5 — overall scans 600–610 / printed pages 583–593
+
+**Status: COMPLETE — 11 / 11 scans independently re-read against freshly rendered source.**
+
+Incoming **599→600 GENUINE CONTINUATION** was preserved. Scan **611 / printed 594** was inspected only as the outgoing witness and confirms **610→611 GENUINE CONTINUATION** into the same pseudo-scholar / ministerial-misreading vignette.
+
+| Scan | Printed page | Pass 2B result |
+|---:|---:|---|
+| 600 | 583 | independent lexical re-read complete; no correction required; incoming continuation closes with Chapter 29 / Kural 281 and source glosses |
+| 601 | 584 | independent lexical re-read complete; no correction required; lidded-vessel / family-internal-enmity vignette begins |
+| 602 | 585 | independent lexical re-read complete; no correction required; Chapter 89 / Kural 887 and source glosses confirmed |
+| 603 | 586 | independent lexical re-read complete; no correction required; love / gossip / marriage vignette begins |
+| 604 | 587 | independent lexical re-read complete; no correction required; Chapter 115 / Kural 1147 and source gloss confirmed |
+| 605 | 588 | independent lexical re-read complete; no correction required; Valluvar / அழகியான் / wealthy-rival vignette begins |
+| 606 | 589 | independent lexical re-read complete; no correction required; Valluvar / அழகியான் vignette continues |
+| 607 | 590 | independent lexical re-read complete; no correction required; Chapter 97 / Kural 967 confirmed |
+| 608 | 591 | restored source-visible spacing `கட்டுக் கோப்பான`; வேழமுகன் / வேங்கைமார்பன் vignette begins |
+| 609 | 592 | independent lexical re-read complete; no correction required; Chapter 13 / Kural 124 confirmed |
+| 610 | 593 | independent lexical re-read complete; no correction required; pseudo-scholar / minister vignette begins; scan 611 witness confirms genuine continuation |
+
+Batch 5 correction summary: **1 record corrected; 10 records required no lexical or punctuation change; 1 source-supported spacing correction in total**.
+
+Page-correction commit:
+
+- `c3aa962722aac34bb21c581014dfc259fbf7d129` — scan 608 / Batch-5 correction endpoint.
+
+Exact compare from pre-batch `ee9e3ec3783597fba25eaaa34a5f940a316f7163` to correction endpoint `c3aa962722aac34bb21c581014dfc259fbf7d129` is **ahead by 1 commit / non-divergent** and changes exactly **1 Part 006 page file**, scan **608**, with **0 non-page changes**.
+
 ## Current gate
 
-Part 006 Pass 2B cumulative coverage: **44/111**.
+Part 006 Pass 2B cumulative coverage: **55/111**.
 
 Exact next batch:
 
-**Batch 5 — scans 600–610 / printed 583–593 — 11 physical scans.**
+**Batch 6 — scans 611–621 / printed 594–604 — 11 physical scans.**
 
-Preserve incoming **599→600 GENUINE CONTINUATION**. Scan **611 / printed 594** may be inspected only as the outgoing witness if required.
+Preserve incoming **610→611 GENUINE CONTINUATION**. Scan **622 / printed 605** may be inspected only as the outgoing witness if required.
