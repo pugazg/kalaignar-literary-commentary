@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 2A Batch 6
+# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 2A Batch 7
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,21 +6,9 @@ Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, acti
 
 Parts **001–005 are fully closed**. Do not reopen them.
 
-Part 005 durable closure:
-
-`works/kuraloviyam/PART_005_FINAL_CLOSURE.md`
-
 ## Part 006 controlling source
 
 `TVA_BOK_0065733_குறளோவியம்_part_006_pages_556-666.pdf`
-
-Source intake:
-
-`works/kuraloviyam/SOURCE_INTAKE_PART_006.md`
-
-Pass-1 progress:
-
-`works/kuraloviyam/PART_006_PASS1_PROGRESS.md`
 
 Pass-2A progress:
 
@@ -30,53 +18,45 @@ Pass-2A progress:
 
 - Pass 1 — **COMPLETE 111/111**;
 - all 111 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`;
-- Pass 2A Batch 1 — **556–566 / printed 539–549 — COMPLETE 11/11**;
-- Batch 2 — **567–577 / printed 550–560 — COMPLETE 11/11**;
-- Batch 3 — **578–588 / printed 561–571 — COMPLETE 11/11**;
-- Batch 4 — **589–599 / printed 572–582 — COMPLETE 11/11**;
-- Batch 5 — **600–610 / printed 583–593 — COMPLETE 11/11**;
-- cumulative Pass 2A — **55/111**.
+- Pass 2A Batches 1–6 — **COMPLETE 66/111**;
+- Batch 6 — **611–621 / printed 594–604 — COMPLETE 11/11**.
 
-Batch 5 page-correction commits:
+Batch 6 correction commit:
 
-- `1dd72f0d670fcbfb75dffdb17609ebc18457d562` — scans **600–604**;
-- `8f540105fa3f4aadd941335ff2e3f54e30b58352` — scans **605–610** / Batch-5 endpoint.
+`97de20acdabe512f52e05aa2437689411500f57f` — `kuraloviyam: Pass 2A verify Part 006 scans 611-621`
 
-Exact compare from pre-batch `996a054925d67eb3aca4e0e32e001582749b3389` to endpoint `8f540105fa3f4aadd941335ff2e3f54e30b58352`:
+Exact compare from pre-batch `9286709f390be957f81c5948661d9b99536913d6` to endpoint `97de20acdabe512f52e05aa2437689411500f57f`:
 
-- **2 commits ahead / non-divergent**;
-- exactly **10 changed files**;
-- all are Part 006 Tamil page records — scans **600, 601, 602, 604, 605, 606, 607, 608, 609, 610**;
-- scan **603** required no textual change;
+- **1 commit ahead / non-divergent**;
+- exactly **8 changed Part 006 Tamil page files** — scans **611, 612, 613, 614, 615, 616, 617, 620**;
+- scans **618, 619, 621** required no textual change;
 - non-page changes — **0**.
 
-Batch 5 source-supported repairs include:
+Batch 6 source-supported repairs include:
 
-- scan **600 / printed 583** — restored source wording throughout the opening, teaching-test, attempted-theft and moral-explanation passages, including `என்றுரைத்த`, `விபரமறிந்து`, `முன்பு வழக்கமாக`, `கேட்டு தெளியலாம்`, `சுவடிக்கட்டில் தலைவைத்துப்`, `பூனைபோல்`, the source anti-theft sentence, and the closing `விழிநீர் வழிய நின்றான்` / `பெற முனைதல்` wording;
-- scan **601 / printed 584** — restored the source's `அடுக்கலை...` forms;
-- scan **602 / printed 585** — restored `இருப்பவற்றைப் பிறர் எடுத்துக்கொள்கின்றனர்` and `அடுக்கலையை விட்டுப்`;
-- scan **604 / printed 587** — restored `புருவவில்லை வளைக்கின்றாய்`, the source `ஊரார் பேச்சு எருவாகவும், அன்னையின் எதிர்ப்பு நீராகவும் அமைந்து` wording, and `மடிவிட்டெழுந்து ஊடியவாறு`;
-- scan **605 / printed 588** — restored `பழந்தமிழூர் ஒன்று` and `அடுக்கலையில்`;
-- scan **606 / printed 589** — restored `இத்தகு வளத்திற்கு`, `கூறலுற்றான்`, source-print `குற்றத்துக் காட்டினீர்`, and `முடிக்கலாம் அல்லவா`;
-- scan **607 / printed 590** — restored source punctuation after `உதவியுள்ளது`;
-- scan **608 / printed 591** — restored `இயன்றவரையில்` and `அப்படியென்ன`;
-- scan **609 / printed 592** — restored `இருத்தல் கூடாதா` and `பெருமை யுடையதாகும்`;
-- scan **610 / printed 593** — restored `பலரிடம்` and `புலவன் போலக்`.
+- scan **611 / printed 594** — restored source-visible `நெடுநேரங்`, `காலந்தாழ்த்து வருகின்றீர்`, `வினை செய்வதை பற்றி`, plural `செயல்களுக்காகத்`, `மன்னர்க்கும்`, `நிமிர்த்துக்கொண்டு`, `அய்யா`, joined `எனக்கேட்டான்`, and source-print `காலந்தாழ்த்துப்`;
+- scan **612 / printed 595** — `ஊரை விட்டுத் துரத்துகிறேன்`;
+- scan **613 / printed 596** — source-visible `இரவியில்`;
+- scan **614 / printed 597** — restored `விரும்புகின்ற`, `நேரிட்டாலும்கூட`, and `நினைத்துக்கொண்டே இருப்பதால்`;
+- scan **615 / printed 598** — `கலந்து பேசினர்`;
+- scan **616 / printed 599** — `கண்கலக்கமுற்றார்`;
+- scan **617 / printed 600** — `இருபாலாரும்` and source `அய்யா`;
+- scan **620 / printed 603** — restored `பறித் தோடிச்`, `அதே பாடு! அதே பாடு!`, `ஒன்றோ டொன்று`, and punctuation `இது, அவனது...`.
 
 Outgoing witness:
 
-- scan **611 / printed 594** was inspected only to verify **610→611 GENUINE CONTINUATION**;
-- scan 611 was not modified in Batch 5.
+- scan **622 / printed 605** was inspected only to verify **621→622 GENUINE CONTINUATION**;
+- scan 622 was not modified in Batch 6.
 
-## Exact next activity — Part 006 Pass 2A Batch 6
+## Exact next activity — Part 006 Pass 2A Batch 7
 
 Process:
 
-**scans 611–621 / printed 594–604 — 11 physical scans**.
+**scans 622–632 / printed 605–615 — 11 physical scans**.
 
-Preserve incoming **610→611 GENUINE CONTINUATION**.
+Preserve incoming **621→622 GENUINE CONTINUATION**.
 
-Scan **622 / printed 605** may be inspected only as an outgoing continuity witness if required; do not include it in Batch 6.
+Scan **633 / printed 616** may be inspected only as an outgoing continuity witness if required; do not include it in Batch 7.
 
 Directly compare every page record against the rendered source scan. Apply only source-supported corrections. Do **not** normalize, modernize, import standard/web Kural wording, use another edition, or fill readings from memory.
 
