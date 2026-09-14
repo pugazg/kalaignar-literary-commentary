@@ -377,8 +377,12 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - exact final Pass-1 compare from `0935e9380db4aa406793db9a5f261354831466c7` — **2 commits / exactly 12 newly added Part 006 page files / 0 non-page changes**;
 - scans **658–665** are `பொருளடக்கம்`; scan **666** is the physical source endpoint;
 - all **111** records remain `needs-review` / visual `needs-review`;
-- exact next stage — **Pass 2A Batch 1 / scans 556–566 / printed 539–549 — 11 scans**.
+- Pass 2A Batch 1 — **556–566 / printed 539–549 — COMPLETE 11/11**;
+- Batch 1 correction commit — `39a88bcbf4047df1d755bd49b7ed18efe98aeaf2`;
+- exact Batch 1 compare from `82a19097e23c6f2021cd780da05ae01e3c32a6c8` — **1 commit / exactly 5 page files / scans 556, 560, 562, 564, 565 / 0 non-page changes**;
+- cumulative Pass 2A — **11/111**;
+- exact next stage — **Pass 2A Batch 2 / scans 567–577 / printed 550–560 — 11 scans**.
 
 ## Exact next activity
 
-Proceed with **Part 006 Pass 2A Batch 1 / scans 556–566 / printed 539–549 — 11 scans**. Pass 1 is complete 111/111. Compare the existing records directly against rendered scans, apply only source-supported textual corrections, and keep all statuses unchanged.
+Proceed with **Part 006 Pass 2A Batch 2 / scans 567–577 / printed 550–560 — 11 scans**. Batch 1 is complete 11/11 and cumulative Pass 2A is 11/111. Preserve incoming **566→567 GENUINE CONTINUATION**. Compare the existing records directly against rendered scans, apply only source-supported textual corrections, and keep all statuses unchanged.

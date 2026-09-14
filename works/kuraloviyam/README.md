@@ -353,8 +353,12 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - scans **658–665** — complete `பொருளடக்கம்` backmatter run;
 - scan **666** — physical source endpoint / no external continuation;
 - all **111** records remain `needs-review` / visual `needs-review`;
-- exact next stage — **Part 006 Pass 2A Batch 1 / scans 556–566 / printed 539–549 — 11 scans**.
+- Pass 2A Batch 1 — **556–566 / printed 539–549 — COMPLETE 11/11**;
+- correction commit — `39a88bcbf4047df1d755bd49b7ed18efe98aeaf2`;
+- exact compare from `82a19097e23c6f2021cd780da05ae01e3c32a6c8` — **exactly 5 page files / scans 556, 560, 562, 564, 565 / 0 non-page changes**;
+- cumulative Pass 2A — **11/111**;
+- exact next stage — **Part 006 Pass 2A Batch 2 / scans 567–577 / printed 550–560 — 11 scans**.
 
 ## Current frontier
 
-**Part 006 Pass 2A Batch 1 — scans 556–566 / printed 539–549 — 11 scans.**
+**Part 006 Pass 2A Batch 2 — scans 567–577 / printed 550–560 — 11 scans.**

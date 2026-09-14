@@ -90,6 +90,15 @@ Part 006 Tamil Pass 1 is **COMPLETE — 111/111 captured**.
 
 Immediate next activity:
 
-**Part 006 Pass 2A Batch 1 — scans 556–566 / printed 539–549 — 11 physical scans.**
+Part 006 Pass 2A Batch 1 — **556–566 / printed 539–549 — COMPLETE 11/11**.
 
-Use rendered scan images as the controlling source and apply only source-supported textual corrections; do not change record status during Pass 2A.
+- correction commit — `39a88bcbf4047df1d755bd49b7ed18efe98aeaf2`;
+- exact compare from `82a19097e23c6f2021cd780da05ae01e3c32a6c8` — **1 commit / exactly 5 modified Part 006 page files / scans 556, 560, 562, 564, 565 / 0 non-page changes**;
+- cumulative Pass 2A — **11/111**;
+- statuses remain unchanged — all 111 records `needs-review` / visual `needs-review`.
+
+Immediate next activity:
+
+**Part 006 Pass 2A Batch 2 — scans 567–577 / printed 550–560 — 11 physical scans.**
+
+Preserve incoming **566→567 GENUINE CONTINUATION**. Use rendered scan images as the controlling source and apply only source-supported textual corrections; do not change record status during Pass 2A.

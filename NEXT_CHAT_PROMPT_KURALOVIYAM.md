@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 2A Batch 1
+# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 2A Batch 2
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -22,6 +22,10 @@ Pass-1 progress:
 
 `works/kuraloviyam/PART_006_PASS1_PROGRESS.md`
 
+Pass-2A progress:
+
+`works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_006.md`
+
 Source identity:
 
 - overall scans — **556–666**;
@@ -33,54 +37,44 @@ Source identity:
 - incoming source boundary **555→556 — CLEAN / source-resolved**;
 - no external continuation beyond scan 666.
 
-## Durable Pass-1 state
+## Durable Part 006 state
 
-Part 006 Tamil Pass 1 is **COMPLETE — 111/111 physical scans captured**.
+- Pass 1 — **COMPLETE 111/111**;
+- all 111 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`;
+- Pass 2A Batch 1 — **556–566 / printed 539–549 — COMPLETE 11/11**;
+- cumulative Pass 2A — **11/111**.
 
-- P6-01 — **556–566 / printed 539–549 — COMPLETE 11/11**;
-- P6-02 — **567–577 / printed 550–560 — COMPLETE 11/11**;
-- P6-03 — **578–588 / printed 561–571 — COMPLETE 11/11**;
-- P6-04 — **589–599 / printed 572–582 — COMPLETE 11/11**;
-- P6-05 — **600–610 / printed 583–593 — COMPLETE 11/11**;
-- P6-06 — **611–621 / printed 594–604 — COMPLETE 11/11**;
-- P6-07 — **622–632 / printed 605–615 — COMPLETE 11/11**;
-- P6-08 — **633–643 / printed 616–626 — COMPLETE 11/11**;
-- P6-09 — **644–654 / printed 627–637 — COMPLETE 11/11**;
-- P6-10 — **655–665 / printed 638–648 — COMPLETE 11/11**;
-- final remainder — **666 / unnumbered pictorial back cover — COMPLETE 1/1**.
+Batch 1 correction commit:
 
-Final Pass-1 page-layer commits:
+`39a88bcbf4047df1d755bd49b7ed18efe98aeaf2` — `kuraloviyam: Pass 2A verify Part 006 scans 556-566`
 
-- `8b6a5838b0fb02b3c5a8a64e9e5cc36a532c69c6` — scans **655–660**;
-- `6f58cc1c4a12bcf06776507a42a47225d782cc2b` — scans **661–666 / physical source endpoint**.
+Exact compare from pre-batch `82a19097e23c6f2021cd780da05ae01e3c32a6c8` to endpoint `39a88bcbf4047df1d755bd49b7ed18efe98aeaf2`:
 
-Exact compare from pre-P6-10 `0935e9380db4aa406793db9a5f261354831466c7` to endpoint `6f58cc1c4a12bcf06776507a42a47225d782cc2b`:
-
-- **2 commits ahead / non-divergent**;
-- exactly **12 changed files**;
-- all are newly added Part 006 Tamil page records, scans **655–666**;
+- **1 commit ahead / non-divergent**;
+- exactly **5 changed files**;
+- all five are Part 006 Tamil page records — scans **556, 560, 562, 564, 565**;
 - non-page changes — **0**.
 
-All **111/111** Part-006 records remain:
+Batch 1 corrections:
 
-- `status: "needs-review"`;
-- `visual_fidelity: "needs-review"`.
+- scan **556 / printed 539** — restored source-visible `எடுத்துக்காட்டி யிருக்கும்`;
+- scan **560 / printed 543** — restored separate source glosses `அன்ன = போன்ற` and `நீரார் = இயல்புடையவர்`;
+- scan **562 / printed 545** — `மலர்ந்த தலையணை` → source-visible `மலர்த் தலையணை`;
+- scan **564 / printed 547** — `வேலை தோல்வியில்` → source-visible `விளைவு தோல்வியில்`;
+- scan **565 / printed 548** — `வளமுறும்` → source-visible `வளமும்`.
 
-Final continuity / structure:
+Scans **557, 558, 559, 561, 563, 566** required no textual change.
 
-- **654→655 GENUINE CONTINUATION**;
-- **655→656 CLEAN**;
-- **656→657 GENUINE CONTINUATION**;
-- **657→658 CLEAN** — body ends; `பொருளடக்கம்` begins;
-- **658→659→660→661→662→663→664→665** — continuous contents backmatter;
-- **665→666 CLEAN** — final contents page to pictorial back cover;
-- scan **666** is the physical endpoint; there is **no external continuation**.
+Outgoing witness:
 
-## Exact next activity — Part 006 Pass 2A Batch 1
+- scan **567 / printed 550** was inspected only to verify **566→567 GENUINE CONTINUATION**;
+- scan 567 was not modified in Batch 1.
+
+## Exact next activity — Part 006 Pass 2A Batch 2
 
 Process:
 
-**scans 556–566 / printed 539–549 — 11 physical scans**.
+**scans 567–577 / printed 550–560 — 11 physical scans**.
 
 Directly compare every page record against the rendered source scan for:
 
@@ -91,6 +85,10 @@ Directly compare every page record against the rendered source scan for:
 - source glosses;
 - physical-page continuation boundaries;
 - separation of body text from illustrations, page furniture, stamps and other non-body material.
+
+Preserve incoming **566→567 GENUINE CONTINUATION**.
+
+Scan **578 / printed 561** may be inspected only as an outgoing continuity witness if required; do not include it in Batch 2.
 
 Apply only source-supported corrections. Do **not** normalize, modernize, import standard/web Kural wording, use another edition, or fill readings from memory.
 
