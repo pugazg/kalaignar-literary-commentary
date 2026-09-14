@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 2A Batch 2
+# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 2A Batch 3
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -42,39 +42,40 @@ Source identity:
 - Pass 1 — **COMPLETE 111/111**;
 - all 111 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`;
 - Pass 2A Batch 1 — **556–566 / printed 539–549 — COMPLETE 11/11**;
-- cumulative Pass 2A — **11/111**.
+- Pass 2A Batch 2 — **567–577 / printed 550–560 — COMPLETE 11/11**;
+- cumulative Pass 2A — **22/111**.
 
-Batch 1 correction commit:
+Batch 2 correction commit:
 
-`39a88bcbf4047df1d755bd49b7ed18efe98aeaf2` — `kuraloviyam: Pass 2A verify Part 006 scans 556-566`
+`7d54c4c367305393429fbfad87c4ae7eef6cffec` — `kuraloviyam: Pass 2A verify Part 006 scans 567-577`
 
-Exact compare from pre-batch `82a19097e23c6f2021cd780da05ae01e3c32a6c8` to endpoint `39a88bcbf4047df1d755bd49b7ed18efe98aeaf2`:
+Exact compare from pre-batch `a7733f4f16cc3d7f8195bfc6333ad75c53573511` to endpoint `7d54c4c367305393429fbfad87c4ae7eef6cffec`:
 
 - **1 commit ahead / non-divergent**;
 - exactly **5 changed files**;
-- all five are Part 006 Tamil page records — scans **556, 560, 562, 564, 565**;
+- all five are Part 006 Tamil page records — scans **568, 570, 571, 572, 575**;
 - non-page changes — **0**.
 
-Batch 1 corrections:
+Batch 2 corrections:
 
-- scan **556 / printed 539** — restored source-visible `எடுத்துக்காட்டி யிருக்கும்`;
-- scan **560 / printed 543** — restored separate source glosses `அன்ன = போன்ற` and `நீரார் = இயல்புடையவர்`;
-- scan **562 / printed 545** — `மலர்ந்த தலையணை` → source-visible `மலர்த் தலையணை`;
-- scan **564 / printed 547** — `வேலை தோல்வியில்` → source-visible `விளைவு தோல்வியில்`;
-- scan **565 / printed 548** — `வளமுறும்` → source-visible `வளமும்`.
+- scan **568 / printed 551** — removed unsupported editorial quotation marks around the sentence beginning `மக்கள் வாழ்வுடன் ஒன்றியிருக்கும்...`;
+- scan **570 / printed 553** — `மாலைபேனும்` → source-visible `மாலையெனும்`;
+- scan **571 / printed 554** — restored `கீழ்உதட்டை`, `இதயமார`, and `மணந்தவரைப் பிரிந்து வாழும் நிலை`;
+- scan **572 / printed 555** — restored source sentence `நன்னன், அவனை உடனே மருத்துவர் வீட்டுக்கு எடுத்துச் செல்லுமாறு அங்கு வந்த ஊழியனிடம் கூறினான்.`;
+- scan **575 / printed 558** — restored source punctuation `எங்கே....எங்கே....!`.
 
-Scans **557, 558, 559, 561, 563, 566** required no textual change.
+Scans **567, 569, 573, 574, 576, 577** required no textual change.
 
 Outgoing witness:
 
-- scan **567 / printed 550** was inspected only to verify **566→567 GENUINE CONTINUATION**;
-- scan 567 was not modified in Batch 1.
+- scan **578 / printed 561** was inspected only to verify **577→578 GENUINE CONTINUATION**;
+- scan 578 was not modified in Batch 2.
 
-## Exact next activity — Part 006 Pass 2A Batch 2
+## Exact next activity — Part 006 Pass 2A Batch 3
 
 Process:
 
-**scans 567–577 / printed 550–560 — 11 physical scans**.
+**scans 578–588 / printed 561–571 — 11 physical scans**.
 
 Directly compare every page record against the rendered source scan for:
 
@@ -86,9 +87,9 @@ Directly compare every page record against the rendered source scan for:
 - physical-page continuation boundaries;
 - separation of body text from illustrations, page furniture, stamps and other non-body material.
 
-Preserve incoming **566→567 GENUINE CONTINUATION**.
+Preserve incoming **577→578 GENUINE CONTINUATION**.
 
-Scan **578 / printed 561** may be inspected only as an outgoing continuity witness if required; do not include it in Batch 2.
+Scan **589 / printed 572** may be inspected only as an outgoing continuity witness if required; do not include it in Batch 3.
 
 Apply only source-supported corrections. Do **not** normalize, modernize, import standard/web Kural wording, use another edition, or fill readings from memory.
 

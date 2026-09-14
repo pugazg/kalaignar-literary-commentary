@@ -57,12 +57,40 @@ Durable correction commit:
 
 Exact compare from pre-batch `82a19097e23c6f2021cd780da05ae01e3c32a6c8` to correction endpoint `39a88bcbf4047df1d755bd49b7ed18efe98aeaf2` is **ahead by 1 commit** and changes exactly **5 page files**, scans **556, 560, 562, 564, 565** only.
 
+## Batch 2 — overall scans 567–577 / printed pages 550–560
+
+**Status: COMPLETE — 11 / 11 scans directly compared against rendered source.**
+
+Incoming **566→567 GENUINE CONTINUATION** is preserved. Scan **578 / printed 561** was inspected only as the outgoing witness and reconfirms **577→578 as a GENUINE CONTINUATION** of the political/ethical leadership vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 567 | 550 | direct textual comparison complete; no correction required; closes Chapter 7 / Kural 65 vignette |
+| 568 | 551 | removed unsupported editorial quotation marks around the source sentence beginning `மக்கள் வாழ்வுடன் ஒன்றியிருக்கும்...` |
+| 569 | 552 | direct textual comparison complete; no correction required; Chapter 95 / Kurals 950, 942, 948 confirmed |
+| 570 | 553 | corrected `மாலைபேனும்` → source-visible `மாலையெனும்` |
+| 571 | 554 | restored source-visible `கீழ்உதட்டை`, `இதயமார`, and `மணந்தவரைப் பிரிந்து வாழும் நிலை`; Chapter 123 / Kural 1221 confirmed |
+| 572 | 555 | restored source sentence `நன்னன், அவனை உடனே மருத்துவர் வீட்டுக்கு எடுத்துச் செல்லுமாறு அங்கு வந்த ஊழியனிடம் கூறினான்.` |
+| 573 | 556 | direct textual comparison complete; no correction required; Chapter 80 / Kural 800 and glosses confirmed |
+| 574 | 557 | direct textual comparison complete; no correction required; காவிரி / கரிகாலன் dialogue continues |
+| 575 | 558 | restored source punctuation `எங்கே....எங்கே....!`; physical `வாய்ச்` continuation into scan 576 retained |
+| 576 | 559 | direct textual comparison complete; no correction required; Chapter 110 / Kural 1100 confirmed |
+| 577 | 560 | direct textual comparison complete; no correction required; scan 578 witness reconfirms GENUINE CONTINUATION |
+
+Batch 2 correction summary: **5 records corrected; 6 records required no textual change; 7 source-supported correction events in total**.
+
+Durable correction commit:
+
+`7d54c4c367305393429fbfad87c4ae7eef6cffec` — `kuraloviyam: Pass 2A verify Part 006 scans 567-577`
+
+Exact compare from pre-batch `a7733f4f16cc3d7f8195bfc6333ad75c53573511` to correction endpoint `7d54c4c367305393429fbfad87c4ae7eef6cffec` is **ahead by 1 commit** and changes exactly **5 page files**, scans **568, 570, 571, 572, 575** only.
+
 ## Current gate
 
-Part 006 Pass 2A cumulative coverage: **11/111**.
+Part 006 Pass 2A cumulative coverage: **22/111**.
 
 Exact next batch:
 
-**Batch 2 — scans 567–577 / printed 550–560 — 11 physical scans.**
+**Batch 3 — scans 578–588 / printed 561–571 — 11 physical scans.**
 
-Preserve incoming **566→567 GENUINE CONTINUATION**. Scan **578 / printed 561** may be inspected only as the outgoing witness if needed.
+Preserve incoming **577→578 GENUINE CONTINUATION**. Scan **589 / printed 572** may be inspected only as the outgoing witness if needed.
