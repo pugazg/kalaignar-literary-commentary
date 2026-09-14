@@ -40,8 +40,8 @@ The split boundary is source-resolved as **CLEAN**.
 
 The source family now reaches its physical endpoint.
 
-- scan **664 / printed 647** is a contents/index listing page;
-- scan **665 / printed 648** continues the contents/index listing and carries a library stamp;
+- scans **658–665 / printed 641–648** are the complete `பொருளடக்கம்` / contents backmatter run;
+- scan **665 / printed 648** carries the printed fourth-edition orthography note and a non-source library stamp;
 - scan **666** is an unnumbered pictorial back cover;
 - therefore there is **no deferred external continuation beyond scan 666**.
 
@@ -69,42 +69,27 @@ These are workflow boundaries only and must not create artificial textual bounda
 2. No canonical/web Kural wording or external commentary may replace this edition's visible content.
 3. Contents/index material, stamps and the back cover remain non-body archival material.
 4. Source intake creates no Tamil page records and promotes no status.
-5. Part 006 is now the **active transcription frontier** because Part 005 has reached final closure.
+5. Part 006 Pass 1 is now **complete 111/111**; the next active stage is direct textual verification (Pass 2A).
 
 ## Current gate
 
 **Part 006 source intake: COMPLETE / PASS.**
 
-Part 005 is now **FULLY CLOSED** at `works/kuraloviyam/PART_005_FINAL_CLOSURE.md`. The workflow-order block is removed.
+Part 005 remains **FULLY CLOSED** at `works/kuraloviyam/PART_005_FINAL_CLOSURE.md`.
 
-Part 006 Tamil Pass 1 is **IN PROGRESS — 99/111 captured**.
+Part 006 Tamil Pass 1 is **COMPLETE — 111/111 captured**.
 
-P6-01 — **scans 556–566 / printed 539–549 — COMPLETE 11/11**.
-
-P6-02 — **scans 567–577 / printed 550–560 — COMPLETE 11/11**.
-
-P6-03 — **scans 578–588 / printed 561–571 — COMPLETE 11/11**.
-
-P6-04 — **scans 589–599 / printed 572–582 — COMPLETE 11/11**.
-
-P6-05 — **scans 600–610 / printed 583–593 — COMPLETE 11/11**.
-
-P6-06 — **scans 611–621 / printed 594–604 — COMPLETE 11/11**.
-
-P6-07 — **scans 622–632 / printed 605–615 — COMPLETE 11/11**.
-
-P6-08 — **scans 633–643 / printed 616–626 — COMPLETE 11/11**.
-
-P6-09 — **scans 644–654 / printed 627–637 — COMPLETE 11/11**.
-
-- P6-09 page-layer commits — `c32af87849e74c89f1dcb876a1a7ead978810bd4`, `826528524dbfc615ac8a79c19737f40e0264b651`;
-- exact P6-09 compare from `33be5c86c92af017f404d504c9bf94a05b758654` — **2 commits / exactly 11 added Part 006 Tamil page files / 0 non-page changes**;
-- all 99 cumulative records — `needs-review` / visual `needs-review`;
-- incoming **643→644 GENUINE CONTINUATION** preserved;
-- outgoing **654→655 GENUINE CONTINUATION** directly checked from scan 655 / printed 638.
+- P6-01 through P6-09 — **556–654 / printed 539–637 — COMPLETE**;
+- P6-10 — **655–665 / printed 638–648 — COMPLETE 11/11**;
+- final remainder — **666 / unnumbered pictorial back cover — COMPLETE 1/1**;
+- final page-layer commits — `8b6a5838b0fb02b3c5a8a64e9e5cc36a532c69c6`, `6f58cc1c4a12bcf06776507a42a47225d782cc2b`;
+- exact final compare from `0935e9380db4aa406793db9a5f261354831466c7` — **2 commits / exactly 12 added Part 006 Tamil page files / 0 non-page changes**;
+- all **111** records — `needs-review` / visual `needs-review`;
+- scans **658–665** — complete contents backmatter run;
+- scan **666** — physical source endpoint / no external continuation.
 
 Immediate next activity:
 
-**P6-10 — scans 655–665 / printed 638–648 — 11 physical scans.**
+**Part 006 Pass 2A Batch 1 — scans 556–566 / printed 539–549 — 11 physical scans.**
 
-Preserve incoming **654→655 GENUINE CONTINUATION** and use rendered scan images as the controlling source.
+Use rendered scan images as the controlling source and apply only source-supported textual corrections; do not change record status during Pass 2A.
