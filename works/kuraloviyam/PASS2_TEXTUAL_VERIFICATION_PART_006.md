@@ -141,12 +141,39 @@ Durable correction commit:
 
 Exact compare from pre-batch `168194fba6e6a7b6d404bfc63059b4f8839b3984` to correction endpoint `e8126d62ba9863cca5af2fde19fe271677b81e20` is **ahead by 1 commit** and changes exactly **5 page files**, scans **590, 594, 596, 598, 599** only.
 
+## Batch 5 — overall scans 600–610 / printed pages 583–593
+
+**Status: COMPLETE — 11 / 11 scans directly compared against rendered source.**
+
+Incoming **599→600 GENUINE CONTINUATION** is preserved. Scan **611 / printed 594** was inspected only as the outgoing witness and reconfirms **610→611 as a GENUINE CONTINUATION** of the pseudo-scholar / minister vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 600 | 583 | source wording restored across opening, teaching-test, attempted-theft and moral-explanation passages |
+| 601 | 584 | restored source `அடுக்கலை...` forms |
+| 602 | 585 | restored `இருப்பவற்றைப் பிறர் எடுத்துக்கொள்கின்றனர்` and `அடுக்கலையை விட்டுப்` |
+| 603 | 586 | direct textual comparison complete; no correction required |
+| 604 | 587 | restored `புருவவில்லை வளைக்கின்றாய்`, source gossip/manure-water wording, and `மடிவிட்டெழுந்து ஊடியவாறு` |
+| 605 | 588 | restored `பழந்தமிழூர் ஒன்று` and `அடுக்கலையில்` |
+| 606 | 589 | restored `இத்தகு வளத்திற்கு`, `கூறலுற்றான்`, source-print `குற்றத்துக் காட்டினீர்`, and `முடிக்கலாம் அல்லவா` |
+| 607 | 590 | source punctuation restored after `உதவியுள்ளது` |
+| 608 | 591 | restored `இயன்றவரையில்` and `அப்படியென்ன` |
+| 609 | 592 | restored `இருத்தல் கூடாதா` and `பெருமை யுடையதாகும்` |
+| 610 | 593 | restored `பலரிடம்` and `புலவன் போலக்`; scan 611 witness reconfirms continuation |
+
+Durable page-correction commits:
+
+- `1dd72f0d670fcbfb75dffdb17609ebc18457d562` — scans 600–604;
+- `8f540105fa3f4aadd941335ff2e3f54e30b58352` — scans 605–610 / endpoint.
+
+Exact compare from pre-batch `996a054925d67eb3aca4e0e32e001582749b3389` to endpoint `8f540105fa3f4aadd941335ff2e3f54e30b58352` is **2 commits ahead / non-divergent** and changes exactly **10 Part 006 page files**, scans **600, 601, 602, 604, 605, 606, 607, 608, 609, 610**, with **0 non-page changes**.
+
 ## Current gate
 
-Part 006 Pass 2A cumulative coverage: **44/111**.
+Part 006 Pass 2A cumulative coverage: **55/111**.
 
 Exact next batch:
 
-**Batch 5 — scans 600–610 / printed 583–593 — 11 physical scans.**
+**Batch 6 — scans 611–621 / printed 594–604 — 11 physical scans.**
 
-Preserve incoming **599→600 GENUINE CONTINUATION**. Scan **611 / printed 594** may be inspected only as the outgoing witness if needed.
+Preserve incoming **610→611 GENUINE CONTINUATION**. Scan **622 / printed 605** may be inspected only as the outgoing witness if needed.

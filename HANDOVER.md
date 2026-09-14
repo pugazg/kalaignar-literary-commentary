@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 005 FULLY CLOSED; Part 006 Pass 1 COMPLETE 111/111; Pass 2A 44/111; Batch 5 scans 600–610 next**: **2026-09-14**.
+Last refreshed for Kuraloviyam **Part 005 FULLY CLOSED; Part 006 Pass 1 COMPLETE 111/111; Pass 2A 55/111; Batch 6 scans 611–621 next**: **2026-09-14**.
 
 ## Repository
 
@@ -438,11 +438,12 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - Pass 2A Batch 2 — **567–577 / printed 550–560 — COMPLETE 11/11**;
 - Pass 2A Batch 3 — **578–588 / printed 561–571 — COMPLETE 11/11**;
 - Pass 2A Batch 4 — **589–599 / printed 572–582 — COMPLETE 11/11**;
-- Batch 4 correction commit — `e8126d62ba9863cca5af2fde19fe271677b81e20`;
-- exact Batch 4 compare from `168194fba6e6a7b6d404bfc63059b4f8839b3984` — **1 commit / exactly 5 modified Part 006 page files / scans 590, 594, 596, 598, 599 / 0 non-page changes**;
-- cumulative Pass 2A — **44/111**;
-- exact next stage — **Part 006 Pass 2A Batch 5 / scans 600–610 / printed 583–593 — 11 scans**.
+- Pass 2A Batch 5 — **600–610 / printed 583–593 — COMPLETE 11/11**;
+- Batch 5 correction commits — `1dd72f0d670fcbfb75dffdb17609ebc18457d562`, `8f540105fa3f4aadd941335ff2e3f54e30b58352`;
+- exact Batch 5 compare from `996a054925d67eb3aca4e0e32e001582749b3389` — **2 commits / exactly 10 modified Part 006 page files / scans 600, 601, 602, 604–610 / 0 non-page changes**;
+- cumulative Pass 2A — **55/111**;
+- exact next stage — **Part 006 Pass 2A Batch 6 / scans 611–621 / printed 594–604 — 11 scans**.
 
 ## Exact next activity — குறளோவியம்
 
-Proceed with **Part 006 Pass 2A Batch 5 — scans 600–610 / printed 583–593 — 11 scans**. Pass 2A Batches 1–4 are complete **44/111**. Preserve incoming **599→600 GENUINE CONTINUATION**. Directly compare the existing Part-006 records against rendered source pixels and apply only source-supported textual corrections. Keep all records `needs-review` / visual `needs-review`; do not import web/canonical Kural wording or external commentary.
+Proceed with **Part 006 Pass 2A Batch 6 — scans 611–621 / printed 594–604 — 11 scans**. Pass 2A Batches 1–5 are complete **55/111**. Preserve incoming **610→611 GENUINE CONTINUATION**. Directly compare the existing Part-006 records against rendered source pixels and apply only source-supported textual corrections. Keep all records `needs-review` / visual `needs-review`; do not import web/canonical Kural wording or external commentary.
