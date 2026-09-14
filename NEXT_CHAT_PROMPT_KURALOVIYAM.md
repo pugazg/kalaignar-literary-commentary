@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 2B Batch 7
+# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 2B Batch 8
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -28,46 +28,41 @@ Pass-2B progress:
 - Pass 2B Batch 4 — **589–599 / printed 572–582 — COMPLETE 11/11**;
 - Pass 2B Batch 5 — **600–610 / printed 583–593 — COMPLETE 11/11**;
 - Pass 2B Batch 6 — **611–621 / printed 594–604 — COMPLETE 11/11**;
-- cumulative Pass 2B — **66/111**;
+- Pass 2B Batch 7 — **622–632 / printed 605–615 — COMPLETE 11/11**;
+- cumulative Pass 2B — **77/111**;
 - all 111 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
 
-Batch-6 source-supported repairs:
+Batch-7 source-supported repairs:
 
-- scan **614 / printed 597** — `நினைத்துக்கொண்டே இருப்பதால்` → source-visible `நினைத்துக்கொண்டேயிருப்பதால்`;
-- scan **615 / printed 598** — `உற்ற துணையாக ஆகிப் பணிகளை` → source-visible `உற்ற துணையாக ஆக்கிப் பணிகளை`;
-- scan **619 / printed 602** — `வீசப்படாமலே` → source-visible `வீசப் படாமலே`;
-- scan **620 / printed 603** — `பாடுகிறாள்` → source-visible `பாடு கிறாள்`;
-- scan **620 / printed 603** — `செலுத்திக்கொண்டிருந்த` → source-visible `செழித்துக்கொண்டிருந்த`;
-- scan **620 / printed 603** — removed the non-source comma in `இது, அவனது` → `இது அவனது`.
+- scan **628 / printed 611** — `மதுபானம்` → source-visible `மது பானம்`;
+- scan **629 / printed 612** — `பொழுதோ போகவில்லை` → source-visible `பொழுதேதோ போகவில்லை`.
 
-Batch-6 page-correction commits:
+Batch-7 page-correction commits:
 
-- `311ffadc5ce25f56abc4b9b04023b516a1fddc04` — scan 614;
-- `641b58787e3508385e7a2f4491eb5c8d31e95920` — scan 615;
-- `38b7d3546235fc8d735896eb7634903ebc3a375a` — scan 619;
-- `5487cd351f03e09fbb2739061309bc4a008864c8` — scan 620 / correction endpoint.
+- `86cc4068fb8f54438aa876d68fc2f61a77316439` — scan 628;
+- `c387d03e97542aef082121b3435930481cabef2c` — scan 629 / correction endpoint.
 
-Exact Batch-6 compare from pre-batch `009054ef9f31c000ce239d904e27f97f7bf4ce16` to `5487cd351f03e09fbb2739061309bc4a008864c8`:
+Exact Batch-7 compare from pre-batch `5a4ee430753ac437dee6ca1be7c233c215070f8e` to `c387d03e97542aef082121b3435930481cabef2c`:
 
-- **4 commits ahead / non-divergent**;
-- exactly **4 changed Part 006 Tamil page files** — scans **614, 615, 619, 620**;
-- scans **611, 612, 613, 616, 617, 618, 621** required no lexical or punctuation change;
+- **2 commits ahead / non-divergent**;
+- exactly **2 changed Part 006 Tamil page files** — scans **628 and 629**;
+- scans **622, 623, 624, 625, 626, 627, 630, 631, 632** required no lexical or punctuation change;
 - non-page changes — **0**.
 
 Continuity:
 
-- incoming **610→611 GENUINE CONTINUATION** preserved;
-- scan **622 / printed 605** was inspected only as the outgoing witness and confirms **621→622 GENUINE CONTINUATION**.
+- incoming **621→622 GENUINE CONTINUATION** preserved;
+- scan **633 / printed 616** was inspected only as the outgoing witness and confirms **632→633 CLEAN**.
 
-## Exact next activity — Part 006 Pass 2B Batch 7
+## Exact next activity — Part 006 Pass 2B Batch 8
 
 Independently re-read:
 
-**scans 622–632 / printed 605–615 — 11 physical scans**.
+**scans 633–643 / printed 616–626 — 11 physical scans**.
 
-Preserve incoming **621→622 GENUINE CONTINUATION**.
+Preserve incoming **632→633 CLEAN**.
 
-Scan **633 / printed 616** may be inspected only as an outgoing continuity witness if required; do not include it in Batch 7.
+Scan **644 / printed 627** may be inspected only as an outgoing continuity witness if required; do not include it in Batch 8.
 
 Pass 2B remains an **independent lexical-fidelity re-read**. Re-read every source-visible printed word against freshly rendered scans, with special attention to:
 
