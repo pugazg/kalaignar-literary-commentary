@@ -50,6 +50,6 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 அதிகாரம் - 53      -      சுற்றந்தழால்;          பாடல் - 527
 
-ஆக்கம் = உயர்வு     அன்ன நீரார் = இயல்புடையவர்
+ஆக்கம் = உயர்வு     அன்ன = போன்ற     நீரார் = இயல்புடையவர்
 
 <!-- மூல ஸ்கேன் பக்கம்: 560; பகுதி 006 உள்ளூர் பக்கம்: 5; அச்சுப் பக்கம்: 543; closes the vignette with Chapter 53 / Kural 527; 560→561 CLEAN -->
