@@ -698,7 +698,14 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - exact P6-09 compare from `33be5c86c92af017f404d504c9bf94a05b758654` — **2 commits / exactly 11 added Part 006 Tamil page files / 0 non-page changes**;
 - P6-09 status — **11 needs-review / 11 visual needs-review**;
 - P6-09 continuity — **643→644 GENUINE**, **644→645 CLEAN**, **645→646 GENUINE**, **646→647 GENUINE**, **647→648 CLEAN**, **648→649 GENUINE**, **649→650 CLEAN**, **650→651 GENUINE**, **651→652 CLEAN**, **652→653 GENUINE**, **653→654 CLEAN**, **654→655 GENUINE**;
-- next batch — **P6-10 / scans 655–665 / printed 638–648 — 11 scans**.
+- P6-10 — **655–665 / printed 638–648 — COMPLETE 11/11**;
+- final remainder — **666 / unnumbered pictorial back cover — COMPLETE 1/1**;
+- final Pass-1 endpoint — `6f58cc1c4a12bcf06776507a42a47225d782cc2b`;
+- exact final Pass-1 compare from `0935e9380db4aa406793db9a5f261354831466c7` — **2 commits / exactly 12 added Part 006 Tamil page files / 0 non-page changes**;
+- P6-10/final status — **12 needs-review / 12 visual needs-review**;
+- final continuity — **654→655 GENUINE**, **655→656 CLEAN**, **656→657 GENUINE**, **657→658 CLEAN**, **658→659 GENUINE**, **659→660 GENUINE**, **660→661 GENUINE**, **661→662 GENUINE**, **662→663 GENUINE**, **663→664 GENUINE**, **664→665 GENUINE**, **665→666 CLEAN**;
+- scans **658–665** — `பொருளடக்கம்`; scan **666** — physical source endpoint;
+- next stage — **Part 006 Pass 2A Batch 1 / scans 556–566 / printed 539–549 — 11 scans**.
 - SC4 endpoint — `113846a357544a33b73d727d20115471f2f3411f`;
 - SC4 exact page-layer compare — **12 modified English page files only**;
 - fidelity corrections — **4 page files / scans 549, 550, 553, 555**;
@@ -707,4 +714,4 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 ## Current frontier
 
-**Part 006 Pass 1 P6-10 — scans 655–665 / printed 638–648 — 11 scans.**
+**Part 006 Pass 2A Batch 1 — scans 556–566 / printed 539–549 — 11 scans.**
