@@ -369,7 +369,7 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 
 - scans — **556–666**;
 - source endpoint — **scan 666**;
-- Pass 1 — **IN PROGRESS 77/111**;
+- Pass 1 — **IN PROGRESS 88/111**;
 - P6-01 — **556–566 / printed 539–549 — COMPLETE 11/11**;
 - P6-02 — **567–577 / printed 550–560 — COMPLETE 11/11**;
 - P6-03 — **578–588 / printed 561–571 — COMPLETE 11/11**;
@@ -377,11 +377,12 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - P6-05 — **600–610 / printed 583–593 — COMPLETE 11/11**;
 - P6-06 — **611–621 / printed 594–604 — COMPLETE 11/11**;
 - P6-07 — **622–632 / printed 605–615 — COMPLETE 11/11**;
-- P6-07 endpoint — `d7741ce093708664a5e57bb66669c943afad980c`;
-- exact P6-07 compare from `d3e06794622fb4dacfbca608e7baeab4f4f6443c` — **2 commits / exactly 11 newly added Part 006 page files / 0 non-page changes**;
-- outgoing **632→633 CLEAN** directly checked;
-- exact next batch — **P6-08 / scans 633–643 / printed 616–626 — 11 scans**.
+- P6-08 — **633–643 / printed 616–626 — COMPLETE 11/11**;
+- P6-08 endpoint — `efc48a519ffcd522387fa70f1e1d9593dcf6c8a1`;
+- exact P6-08 compare from `aff88e39dbc4035954213168935f44f71ac6dbd7` — **2 commits / exactly 11 newly added Part 006 page files / 0 non-page changes**;
+- outgoing **643→644 GENUINE CONTINUATION** directly checked;
+- exact next batch — **P6-09 / scans 644–654 / printed 627–637 — 11 scans**.
 
 ## Exact next activity
 
-Proceed with **Part 006 Pass 1 P6-08 / scans 633–643 / printed 616–626 — 11 scans**. P6-01 through P6-07 are complete; preserve all **77** existing `needs-review` / visual `needs-review` records. Use rendered Part 006 scans as controlling authority, preserve incoming **632→633 CLEAN**, create exactly scans 633–643, and do not import web/canonical Kural wording or external commentary.
+Proceed with **Part 006 Pass 1 P6-09 / scans 644–654 / printed 627–637 — 11 scans**. P6-01 through P6-08 are complete; preserve all **88** existing `needs-review` / visual `needs-review` records. Use rendered Part 006 scans as controlling authority, preserve incoming **643→644 GENUINE CONTINUATION**, create exactly scans 644–654, and do not import web/canonical Kural wording or external commentary.
