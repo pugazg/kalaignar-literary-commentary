@@ -122,15 +122,17 @@ Pass 2B Batch 1 — **556–566 / printed 539–549 — COMPLETE 11/11**.
 
 Pass 2B Batch 2 — **567–577 / printed 550–560 — COMPLETE 11/11**.
 
-- Batch 2 correction endpoint — `8037c41cdfd4e06cffc12b43764f26e2de793929`;
-- exact Batch 2 compare from `ecc3369787c6488417f1b3d5524862f99fbf2d77` — **2 commits / exactly 2 modified Part 006 page files / scans 570, 576 / 0 non-page changes**;
-- source-supported repairs — `வண்ணத்தமிழ் ஓவியம்`, `கண்ணிணை`;
-- cumulative Pass 2B — **22/111**;
+Pass 2B Batch 3 — **578–588 / printed 561–571 — COMPLETE 11/11**.
+
+- Batch 3 correction endpoint — `cc8cd04b40be7037dfafa234bed0364bf46c48b5`;
+- exact Batch 3 compare from `9ad873d2b09927603ae029f44dfa9e2071327f09` — **5 commits / exactly 5 modified Part 006 page files / scans 580, 582, 583, 584, 588 / 0 non-page changes**;
+- source-supported repairs include `ஜெயப்பிரகாஷ்`, `தனக்கு வாய்த்த உறுதிநிறைந்த`, `நிலவுத் தேரினை`, `எழுதிக் காட்டி`, `பிரியவே மாட்டோம்`, `வலியவந்து வலிமை சேர்த்துக் கொடுத்தானே`, and `மதிக்க மறந்துவிட்டான்`;
+- cumulative Pass 2B — **33/111**;
 - statuses remain unchanged — all 111 records `needs-review` / visual `needs-review`;
-- outgoing **577→578 GENUINE CONTINUATION** confirmed from scan 578 / printed 561.
+- outgoing **588→589 CLEAN** confirmed from scan 589 / printed 572.
 
 Immediate next activity:
 
-**Part 006 Pass 2B Batch 3 — scans 578–588 / printed 561–571 — 11 physical scans.**
+**Part 006 Pass 2B Batch 4 — scans 589–599 / printed 572–582 — 11 physical scans.**
 
-Preserve incoming **577→578 GENUINE CONTINUATION**. Use freshly rendered scan images as the controlling source for the independent lexical-fidelity re-read; do not change record status during Pass 2B.
+Preserve incoming **588→589 CLEAN**. Use freshly rendered scan images as the controlling source for the independent lexical-fidelity re-read; do not change record status during Pass 2B.
