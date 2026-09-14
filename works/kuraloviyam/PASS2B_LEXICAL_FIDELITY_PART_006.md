@@ -78,12 +78,44 @@ Page-correction commits:
 
 Exact compare from pre-batch `ecc3369787c6488417f1b3d5524862f99fbf2d77` to correction endpoint `8037c41cdfd4e06cffc12b43764f26e2de793929` is **ahead by 2 commits / non-divergent** and changes exactly **2 Part 006 page files**, scans **570 and 576**, with **0 non-page changes**.
 
+## Batch 3 — overall scans 578–588 / printed pages 561–571
+
+**Status: COMPLETE — 11 / 11 scans independently re-read against freshly rendered source.**
+
+Incoming **577→578 GENUINE CONTINUATION** was preserved. Scan **589 / printed 572** was inspected only as the outgoing witness and confirms **588→589 CLEAN**: scan 588 closes Chapter 12 / Kural 119, while scan 589 begins a new horse-rearing / public-honour vignette.
+
+| Scan | Printed page | Pass 2B result |
+|---:|---:|---|
+| 578 | 561 | independent lexical re-read complete; no correction required; incoming political/ethical leadership vignette closes with Chapter 90 / Kural 899 |
+| 579 | 562 | independent lexical re-read complete; no correction required; Jayaprakash Narayan / Prabhavati vignette begins |
+| 580 | 563 | restored source-visible `ஜெயப்பிரகாஷ்`; `தனக்கு வாய்த்த உறுதிநிறைந்த`; joined `அப்படியொரு`; restored `எண்ணும்போதெல்லாம்` and source spacing `இளைய தலைமுறை யினர்`; Chapter 6 / Kural 56 confirmed |
+| 581 | 564 | independent lexical re-read complete; no correction required; birth/caste/occupation vignette begins |
+| 582 | 565 | corrected `சொற்போரை நிறுத்துக` → source-visible `சொற்போரை நிறுத்திடுக`; Chapter 98 / Kural 972 confirmed |
+| 583 | 566 | corrected `நிலவுத் தோகினை` → `நிலவுத் தேரினை`; `எழுத்துக் காட்டி` → `எழுதிக் காட்டி`; `எங்கணவிட` → `எங்களைவிட`; love/pulavi vignette continues |
+| 584 | 567 | joined source-visible `அப்படியொன்றில்லையேல்`; corrected `பிரிவே மாட்டோம்` → `பிரியவே மாட்டோம்`; Chapter 132 / Kural 1315 confirmed |
+| 585 | 568 | independent lexical re-read complete; no correction required; soil/produce/lineage vignette begins |
+| 586 | 569 | independent lexical re-read complete; no correction required; Chapter 96 / Kural 959 and source gloss confirmed |
+| 587 | 570 | independent lexical re-read complete; no correction required; fallen-emperor / people's-leader vignette begins |
+| 588 | 571 | restored source joining `அரசைப்பெற்று` and `நட்பைப்போற்றி`; corrected `வலிமையற்று வல்லமை சேர்த்துக்கொடுத்தானே` → `வலியவந்து வலிமை சேர்த்துக் கொடுத்தானே`; corrected `மிகக் மறந்துவிட்டான்` → `மதிக்க மறந்துவிட்டான்`; Chapter 12 / Kural 119 and glosses confirmed; scan 589 witness confirms CLEAN boundary |
+
+Batch 3 correction summary: **5 records corrected; 6 records required no lexical or punctuation change; 18 source-supported lexical/spacing readings corrected in total**.
+
+Page-correction commits:
+
+- `aec2499fdb9b3dc487b11685043ba92efa2ee9a8` — scan 580;
+- `3c8d412a1514a8d18137fc8695a63e548869e5e8` — scan 582;
+- `0ab5f178e7d56fb8dd8ddc632b16b8bc6e95d87e` — scan 583;
+- `a7e77e12acf180088480e9fcf46603dbe1ca0817` — scan 584;
+- `cc8cd04b40be7037dfafa234bed0364bf46c48b5` — scan 588 / Batch-3 correction endpoint.
+
+Exact compare from pre-batch `9ad873d2b09927603ae029f44dfa9e2071327f09` to correction endpoint `cc8cd04b40be7037dfafa234bed0364bf46c48b5` is **ahead by 5 commits / non-divergent** and changes exactly **5 Part 006 page files**, scans **580, 582, 583, 584 and 588**, with **0 non-page changes**.
+
 ## Current gate
 
-Part 006 Pass 2B cumulative coverage: **22/111**.
+Part 006 Pass 2B cumulative coverage: **33/111**.
 
 Exact next batch:
 
-**Batch 3 — scans 578–588 / printed 561–571 — 11 physical scans.**
+**Batch 4 — scans 589–599 / printed 572–582 — 11 physical scans.**
 
-Preserve incoming **577→578 GENUINE CONTINUATION**. Scan **589 / printed 572** may be inspected only as the outgoing witness if required.
+Preserve incoming **588→589 CLEAN**. Scan **600 / printed 583** may be inspected only as the outgoing witness if required.
