@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 2B Batch 5
+# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 2B Batch 6
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -26,39 +26,39 @@ Pass-2B progress:
 - Pass 2B Batch 2 — **567–577 / printed 550–560 — COMPLETE 11/11**;
 - Pass 2B Batch 3 — **578–588 / printed 561–571 — COMPLETE 11/11**;
 - Pass 2B Batch 4 — **589–599 / printed 572–582 — COMPLETE 11/11**;
-- cumulative Pass 2B — **44/111**;
+- Pass 2B Batch 5 — **600–610 / printed 583–593 — COMPLETE 11/11**;
+- cumulative Pass 2B — **55/111**;
 - all 111 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
 
-Batch-4 source-supported repairs:
+Batch-5 source-supported repair:
 
-- scan **598 / printed 581** — `தமிழகத்திலேயே` → source-visible `தமிழினத்திலேயே`;
-- scan **598 / printed 581** — restored source-visible spacing `மீள முடியாத`.
+- scan **608 / printed 591** — `கட்டுக்கோப்பான` → source-visible `கட்டுக் கோப்பான`.
 
-Batch-4 page-correction commit:
+Batch-5 page-correction commit:
 
-- `6ae5eb87bc1a77e021a3114368484e52f65d5d75` — scan 598 / correction endpoint.
+- `c3aa962722aac34bb21c581014dfc259fbf7d129` — scan 608 / correction endpoint.
 
-Exact Batch-4 compare from pre-batch `1695340957368313627315636547895ae0892e36` to `6ae5eb87bc1a77e021a3114368484e52f65d5d75`:
+Exact Batch-5 compare from pre-batch `ee9e3ec3783597fba25eaaa34a5f940a316f7163` to `c3aa962722aac34bb21c581014dfc259fbf7d129`:
 
 - **1 commit ahead / non-divergent**;
-- exactly **1 changed Part 006 Tamil page file** — scan **598**;
-- scans **589, 590, 591, 592, 593, 594, 595, 596, 597, 599** required no lexical or punctuation change;
+- exactly **1 changed Part 006 Tamil page file** — scan **608**;
+- scans **600, 601, 602, 603, 604, 605, 606, 607, 609, 610** required no lexical or punctuation change;
 - non-page changes — **0**.
 
 Continuity:
 
-- incoming **588→589 CLEAN** preserved;
-- scan **600 / printed 583** was inspected only as the outgoing witness and confirms **599→600 GENUINE CONTINUATION**.
+- incoming **599→600 GENUINE CONTINUATION** preserved;
+- scan **611 / printed 594** was inspected only as the outgoing witness and confirms **610→611 GENUINE CONTINUATION**.
 
-## Exact next activity — Part 006 Pass 2B Batch 5
+## Exact next activity — Part 006 Pass 2B Batch 6
 
 Independently re-read:
 
-**scans 600–610 / printed 583–593 — 11 physical scans**.
+**scans 611–621 / printed 594–604 — 11 physical scans**.
 
-Preserve incoming **599→600 GENUINE CONTINUATION**.
+Preserve incoming **610→611 GENUINE CONTINUATION**.
 
-Scan **611 / printed 594** may be inspected only as an outgoing continuity witness if required; do not include it in Batch 5.
+Scan **622 / printed 605** may be inspected only as an outgoing continuity witness if required; do not include it in Batch 6.
 
 Pass 2B remains an **independent lexical-fidelity re-read**. Re-read every source-visible printed word against freshly rendered scans, with special attention to:
 
