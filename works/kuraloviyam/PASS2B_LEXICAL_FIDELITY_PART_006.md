@@ -286,12 +286,38 @@ Page-correction commits:
 
 Exact compare from pre-batch `d06c6b966b0604a80fcfcc5f24568d2734a6fff6` to correction endpoint `88ed6de7619947e777ae083436e09a44ed6f4df7` is **ahead by 2 commits / non-divergent** and changes exactly **2 Part 006 page files**, scans **646 and 648**, with **0 non-page changes**.
 
+## Batch 10 — overall scans 655–665 / printed pages 638–648
+
+**Status: COMPLETE — 11 / 11 scans independently re-read against freshly rendered source.**
+
+Incoming **654→655 GENUINE CONTINUATION** was preserved. Scan **666 / unnumbered pictorial back cover** was inspected only as the outgoing/source-end witness and confirms **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**.
+
+| Scan | Printed page | Pass 2B result |
+|---:|---:|---|
+| 655 | 638 | independent lexical re-read complete; no correction required; incoming reconciliation / ஊடல்-to-கூடல் vignette closes with Chapter 128 / Kural 1276 and source glosses |
+| 656 | 639 | independent lexical re-read complete; no correction required; நிலமகள் / உலகத்தின் பெருமை dialogue begins |
+| 657 | 640 | independent lexical re-read complete; no correction required; Chapter 34 / Kural 336 confirmed; transition to contents follows |
+| 658 | 641 | independent lexical re-read complete; no correction required; contents entries 1–29 and locators confirmed |
+| 659 | 642 | independent lexical re-read complete; no correction required; contents entries 30–67 and locators confirmed |
+| 660 | 643 | independent lexical re-read complete; no correction required; contents entries 68–101 and locators confirmed |
+| 661 | 644 | independent lexical re-read complete; no correction required; contents entries 102–137 and locators confirmed |
+| 662 | 645 | independent lexical re-read complete; no correction required; contents entries 138–178 and locators confirmed |
+| 663 | 646 | independent lexical re-read complete; no correction required; contents entries 179–219 and locators confirmed |
+| 664 | 647 | independent lexical re-read complete; no correction required; contents entries 220–262 and locators confirmed |
+| 665 | 648 | independent lexical re-read complete; no correction required; contents entries 263–300, source orthography note, and non-source library stamp treatment confirmed; scan 666 witness confirms CLEAN source-end boundary |
+
+Batch 10 correction summary: **0 records corrected; 11 records required no lexical or punctuation change; 0 page-layer corrections**.
+
+Because Batch 10 required no textual correction, the correction endpoint is the pre-batch checkpoint itself: `d5c1adceda92c0e4dcd888b555bcef2dc3ae9180`.
+
+Exact compare `d5c1adceda92c0e4dcd888b555bcef2dc3ae9180` → `d5c1adceda92c0e4dcd888b555bcef2dc3ae9180` is **identical / 0 commits ahead / 0 behind / 0 changed files**.
+
 ## Current gate
 
-Part 006 Pass 2B cumulative coverage: **99/111**.
+Part 006 Pass 2B cumulative coverage: **110/111**.
 
-Exact next batch:
+Exact next activity:
 
-**Batch 10 — scans 655–665 / printed 638–648 — 11 physical scans.**
+**Final Pass 2B remainder — scan 666 / unnumbered pictorial back cover — 1 physical scan.**
 
-Preserve incoming **654→655 GENUINE CONTINUATION**. Scan **666 / unnumbered pictorial back cover** may be inspected only as the outgoing/source-end witness; do not include it in Batch 10.
+Re-inspect the final physical page directly from rendered source pixels, confirm its page function and that no printed body text is present, preserve the **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT** classification, keep status fields unchanged, and then close Pass 2B at **111/111** if supported.
