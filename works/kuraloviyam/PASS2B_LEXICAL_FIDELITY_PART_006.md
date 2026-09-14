@@ -110,12 +110,40 @@ Page-correction commits:
 
 Exact compare from pre-batch `9ad873d2b09927603ae029f44dfa9e2071327f09` to correction endpoint `cc8cd04b40be7037dfafa234bed0364bf46c48b5` is **ahead by 5 commits / non-divergent** and changes exactly **5 Part 006 page files**, scans **580, 582, 583, 584 and 588**, with **0 non-page changes**.
 
+## Batch 4 — overall scans 589–599 / printed pages 572–582
+
+**Status: COMPLETE — 11 / 11 scans independently re-read against freshly rendered source.**
+
+Incoming **588→589 CLEAN** was preserved. Scan **600 / printed 583** was inspected only as the outgoing witness and confirms **599→600 GENUINE CONTINUATION** into the same grandson / life-goal / Aruvur-teacher vignette.
+
+| Scan | Printed page | Pass 2B result |
+|---:|---:|---|
+| 589 | 572 | independent lexical re-read complete; no correction required; horse-rearing expert / public-honour vignette begins |
+| 590 | 573 | independent lexical re-read complete; no correction required; Chapter 85 / Kural 845 confirmed |
+| 591 | 574 | independent lexical re-read complete; no correction required; pet-snake / incompatible-companionship vignette begins |
+| 592 | 575 | independent lexical re-read complete; no correction required; Chapter 89 / Kural 890 and source glosses confirmed |
+| 593 | 576 | independent lexical re-read complete; no correction required; king / self-respecting-poet vignette begins |
+| 594 | 577 | independent lexical re-read complete; no correction required; Chapter 5 / Kural 44 and source gloss confirmed |
+| 595 | 578 | independent lexical re-read complete; no correction required; அழகர்குடி / செவத்தான் tyranny vignette begins |
+| 596 | 579 | independent lexical re-read complete; no correction required; Chapter 47 / Kural 466 confirmed |
+| 597 | 580 | independent lexical re-read complete; no correction required; Maruthu Pandiyar / Karuthaan betrayal vignette begins; source-visible split into scan 598 preserved |
+| 598 | 581 | corrected `தமிழகத்திலேயே` → source-visible `தமிழினத்திலேயே`; restored source spacing `மீள முடியாத`; Chapter 66 / Kural 654 and source glosses confirmed |
+| 599 | 582 | independent lexical re-read complete; no correction required; scan 600 witness confirms genuine continuation |
+
+Batch 4 correction summary: **1 record corrected; 10 records required no lexical or punctuation change; 2 source-supported lexical/spacing readings corrected in total**.
+
+Page-correction commit:
+
+- `6ae5eb87bc1a77e021a3114368484e52f65d5d75` — scan 598 / Batch-4 correction endpoint.
+
+Exact compare from pre-batch `1695340957368313627315636547895ae0892e36` to correction endpoint `6ae5eb87bc1a77e021a3114368484e52f65d5d75` is **ahead by 1 commit / non-divergent** and changes exactly **1 Part 006 page file**, scan **598**, with **0 non-page changes**.
+
 ## Current gate
 
-Part 006 Pass 2B cumulative coverage: **33/111**.
+Part 006 Pass 2B cumulative coverage: **44/111**.
 
 Exact next batch:
 
-**Batch 4 — scans 589–599 / printed 572–582 — 11 physical scans.**
+**Batch 5 — scans 600–610 / printed 583–593 — 11 physical scans.**
 
-Preserve incoming **588→589 CLEAN**. Scan **600 / printed 583** may be inspected only as the outgoing witness if required.
+Preserve incoming **599→600 GENUINE CONTINUATION**. Scan **611 / printed 594** may be inspected only as the outgoing witness if required.
