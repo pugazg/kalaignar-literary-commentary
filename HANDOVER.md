@@ -455,11 +455,12 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - Pass 2B Batch 5 — **600–610 / printed 583–593 — COMPLETE 11/11**;
 - Pass 2B Batch 6 — **611–621 / printed 594–604 — COMPLETE 11/11**;
 - Pass 2B Batch 7 — **622–632 / printed 605–615 — COMPLETE 11/11**;
-- Batch 7 correction endpoint — `c387d03e97542aef082121b3435930481cabef2c`;
-- exact Batch 7 compare from `5a4ee430753ac437dee6ca1be7c233c215070f8e` — **2 commits / exactly 2 modified Part 006 page files / scans 628, 629 / 0 non-page changes**;
-- cumulative Pass 2B — **77/111**;
-- exact next stage — **Part 006 Pass 2B Batch 8 / scans 633–643 / printed 616–626 — 11 scans**.
+- Pass 2B Batch 8 — **633–643 / printed 616–626 — COMPLETE 11/11**;
+- Batch 8 correction endpoint — `2c9083549d7f5cb88d4029590a93fe87532a54c1`;
+- exact Batch 8 compare from `0387f24eff065c17c45999077592179a7bdbdd24` — **4 commits / exactly 4 modified Part 006 page files / scans 636, 637, 638, 639 / 0 non-page changes**;
+- cumulative Pass 2B — **88/111**;
+- exact next stage — **Part 006 Pass 2B Batch 9 / scans 644–654 / printed 627–637 — 11 scans**.
 
 ## Exact next activity — குறளோவியம்
 
-Proceed with **Part 006 Pass 2B Batch 8 — scans 633–643 / printed 616–626 — 11 scans**. Batches 1–7 are **COMPLETE 77/111**. Preserve incoming **632→633 CLEAN**. Perform the same independent lexical-fidelity re-read from freshly rendered source pixels; keep all records `needs-review` / visual `needs-review`; do not import web/canonical Kural wording or external commentary.
+Proceed with **Part 006 Pass 2B Batch 9 — scans 644–654 / printed 627–637 — 11 scans**. Batches 1–8 are **COMPLETE 88/111**. Preserve incoming **643→644 GENUINE CONTINUATION**. Perform the same independent lexical-fidelity re-read from freshly rendered source pixels; keep all records `needs-review` / visual `needs-review`; do not import web/canonical Kural wording or external commentary.
