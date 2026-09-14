@@ -168,12 +168,40 @@ Durable page-correction commits:
 
 Exact compare from pre-batch `996a054925d67eb3aca4e0e32e001582749b3389` to endpoint `8f540105fa3f4aadd941335ff2e3f54e30b58352` is **2 commits ahead / non-divergent** and changes exactly **10 Part 006 page files**, scans **600, 601, 602, 604, 605, 606, 607, 608, 609, 610**, with **0 non-page changes**.
 
+## Batch 6 — overall scans 611–621 / printed pages 594–604
+
+**Status: COMPLETE — 11 / 11 scans directly compared against rendered source.**
+
+Incoming **610→611 GENUINE CONTINUATION** is preserved. Scan **622 / printed 605** was inspected only as the outgoing witness and reconfirms **621→622 as a GENUINE CONTINUATION** of the waterfall vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 611 | 594 | restored source-visible `நெடுநேரங்`, `காலந்தாழ்த்து வருகின்றீர்`, `வினை செய்வதை பற்றி`, plural `செயல்களுக்காகத்`, `மன்னர்க்கும்`, `நிமிர்த்துக்கொண்டு`, `அய்யா`, joined `எனக்கேட்டான்`, and `காலந்தாழ்த்துப்` |
+| 612 | 595 | restored `ஊரை விட்டுத் துரத்துகிறேன்` |
+| 613 | 596 | corrected `இரவினில்` → source-visible `இரவியில்` |
+| 614 | 597 | restored `விரும்புகின்ற`, `நேரிட்டாலும்கூட`, and `நினைத்துக்கொண்டே இருப்பதால்` |
+| 615 | 598 | corrected `கலந்து பேசினார்` → `கலந்து பேசினர்` |
+| 616 | 599 | corrected `கண்கலங்குற்றார்` → `கண்கலக்கமுற்றார்` |
+| 617 | 600 | corrected `இருப்பாலாரும்` → `இருபாலாரும்`; restored source `அய்யா` |
+| 618 | 601 | direct textual comparison complete; no correction required |
+| 619 | 602 | direct textual comparison complete; no correction required |
+| 620 | 603 | restored `பறித் தோடிச்`, `அதே பாடு! அதே பாடு!`, `ஒன்றோ டொன்று`, and punctuation `இது, அவனது...` |
+| 621 | 604 | direct textual comparison complete; no correction required; scan 622 witness reconfirms continuation |
+
+Batch 6 correction summary: **8 records corrected; 3 records required no textual change; 22 source-supported correction events in total**.
+
+Durable correction commit:
+
+`97de20acdabe512f52e05aa2437689411500f57f` — `kuraloviyam: Pass 2A verify Part 006 scans 611-621`
+
+Exact compare from pre-batch `9286709f390be957f81c5948661d9b99536913d6` to correction endpoint `97de20acdabe512f52e05aa2437689411500f57f` is **ahead by 1 commit / non-divergent** and changes exactly **8 Part 006 page files**, scans **611, 612, 613, 614, 615, 616, 617, 620**, with **0 non-page changes**.
+
 ## Current gate
 
-Part 006 Pass 2A cumulative coverage: **55/111**.
+Part 006 Pass 2A cumulative coverage: **66/111**.
 
 Exact next batch:
 
-**Batch 6 — scans 611–621 / printed 594–604 — 11 physical scans.**
+**Batch 7 — scans 622–632 / printed 605–615 — 11 physical scans.**
 
-Preserve incoming **610→611 GENUINE CONTINUATION**. Scan **622 / printed 605** may be inspected only as the outgoing witness if needed.
+Preserve incoming **621→622 GENUINE CONTINUATION**. Scan **633 / printed 616** may be inspected only as the outgoing witness if needed.
