@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 2B Batch 10
+# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 2B Final Remainder
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -31,57 +31,37 @@ Pass-2B progress:
 - Pass 2B Batch 7 — **622–632 / printed 605–615 — COMPLETE 11/11**;
 - Pass 2B Batch 8 — **633–643 / printed 616–626 — COMPLETE 11/11**;
 - Pass 2B Batch 9 — **644–654 / printed 627–637 — COMPLETE 11/11**;
-- cumulative Pass 2B — **99/111**;
+- Pass 2B Batch 10 — **655–665 / printed 638–648 — COMPLETE 11/11**;
+- cumulative Pass 2B — **110/111**;
 - all 111 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
 
-Batch-9 source-supported repairs:
+Batch 10 required **no page-layer correction**.
 
-- scan **646 / printed 629** — `தானுருகுவது போல்` → source-visible `தூங்குவதுபோல்`;
-- scan **648 / printed 631** — `தொடுவன்` → source-visible `தொடேன்`.
+Exact Batch-10 compare:
 
-Batch-9 page-correction commits:
-
-- `ae74b7020e521e4be7950a6236d89183501c3de5` — scan 646;
-- `88ed6de7619947e777ae083436e09a44ed6f4df7` — scan 648 / correction endpoint.
-
-Exact Batch-9 compare from pre-batch `d06c6b966b0604a80fcfcc5f24568d2734a6fff6` to `88ed6de7619947e777ae083436e09a44ed6f4df7`:
-
-- **2 commits ahead / non-divergent**;
-- exactly **2 changed Part 006 Tamil page files** — scans **646 and 648**;
-- scans **644, 645, 647, 649, 650, 651, 652, 653, 654** required no lexical or punctuation change;
-- non-page changes — **0**.
+- pre-batch checkpoint — `d5c1adceda92c0e4dcd888b555bcef2dc3ae9180`;
+- correction endpoint — same commit `d5c1adceda92c0e4dcd888b555bcef2dc3ae9180`;
+- **identical / 0 commits ahead / 0 behind / 0 changed files**;
+- scans **655–665** required no lexical or punctuation change.
 
 Continuity:
 
-- incoming **643→644 GENUINE CONTINUATION** preserved;
-- scan **655 / printed 638** was inspected only as the outgoing witness and confirms **654→655 GENUINE CONTINUATION**.
+- incoming **654→655 GENUINE CONTINUATION** preserved;
+- scan **666 / unnumbered pictorial back cover** was inspected only as the Batch-10 source-end witness and confirms **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**.
 
-## Exact next activity — Part 006 Pass 2B Batch 10
+## Exact next activity — Final Pass 2B remainder
 
-Independently re-read:
+Re-inspect only:
 
-**scans 655–665 / printed 638–648 — 11 physical scans**.
+**scan 666 / unnumbered pictorial back cover — 1 physical scan.**
 
-Preserve incoming **654→655 GENUINE CONTINUATION**.
+Requirements:
 
-Scan **666 / unnumbered pictorial back cover** may be inspected only as the outgoing/source-end witness; do not include it in Batch 10.
-
-Pass 2B remains an **independent lexical-fidelity re-read**. Re-read every source-visible printed word against freshly rendered scans, with special attention to:
-
-- `ர/ற`, `ன/ண`, `ல/ள/ழ`;
-- vowel signs and compound letters;
-- source-visible joining and spacing;
-- old/uncommon forms;
-- names, quotations and Kural wording;
-- paragraph/quotation boundaries and punctuation;
-- printed `அதிகாரம்` / பாடல் metadata;
-- contents/backmatter entries on scans 658–665.
-
-Rendered source pixels remain authoritative. Do **not** use OCR guesses, normalization, web/canonical Kural wording, another edition, context reconstruction or memory to replace source readings.
-
-Keep all records at:
-
-- `status: "needs-review"`;
-- `visual_fidelity: "needs-review"`.
-
-After the batch, compare the pre-batch checkpoint → endpoint and record exactly which Part-006 page files changed. The final Pass-2B remainder after Batch 10 is **scan 666 / unnumbered pictorial back cover — 1 physical scan**.
+- rendered source pixels remain authoritative;
+- confirm page function is `back-cover`;
+- confirm no visible printed body text is present;
+- confirm the page is the physical endpoint of Part 006 and the six-part source family;
+- preserve **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**;
+- do not invent transcription from the portrait/image;
+- keep `status: "needs-review"` / `visual_fidelity: "needs-review"` unchanged during Pass 2B;
+- if confirmed with no correction, close Pass 2B at **111/111** and advance to the next defined Part-006 gate.
