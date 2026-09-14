@@ -166,12 +166,43 @@ Page-correction commit:
 
 Exact compare from pre-batch `ee9e3ec3783597fba25eaaa34a5f940a316f7163` to correction endpoint `c3aa962722aac34bb21c581014dfc259fbf7d129` is **ahead by 1 commit / non-divergent** and changes exactly **1 Part 006 page file**, scan **608**, with **0 non-page changes**.
 
+## Batch 6 — overall scans 611–621 / printed pages 594–604
+
+**Status: COMPLETE — 11 / 11 scans independently re-read against freshly rendered source.**
+
+Incoming **610→611 GENUINE CONTINUATION** was preserved. Scan **622 / printed 605** was inspected only as the outgoing witness and confirms **621→622 GENUINE CONTINUATION** into the same waterfall / love-sign vignette.
+
+| Scan | Printed page | Pass 2B result |
+|---:|---:|---|
+| 611 | 594 | independent lexical re-read complete; no correction required; incoming pseudo-scholar / ministerial-misreading vignette continues |
+| 612 | 595 | independent lexical re-read complete; no correction required; Chapter 68 / Kural 672 confirmed |
+| 613 | 596 | independent lexical re-read complete; no correction required; தேன்மொழி / கதிரோன் separation vignette begins |
+| 614 | 597 | restored source-visible joining `நினைத்துக்கொண்டேயிருப்பதால்`; Chapter 121 / Kural 1202 and source glosses confirmed |
+| 615 | 598 | corrected `உற்ற துணையாக ஆகிப் பணிகளை` → source-visible `உற்ற துணையாக ஆக்கிப் பணிகளை`; governance / ministerial-competence vignette begins |
+| 616 | 599 | independent lexical re-read complete; no correction required; Chapter 64 / Kural 640 confirmed |
+| 617 | 600 | independent lexical re-read complete; no correction required; குன்றன் / ஆசிரியர் vignette begins |
+| 618 | 601 | independent lexical re-read complete; no correction required; Chapter 14 / Kural 140 confirmed |
+| 619 | 602 | restored source-visible spacing `வீசப் படாமலே`; reflective grief / recollection vignette begins |
+| 620 | 603 | restored source spacing `பாடு கிறாள்`; corrected `செலுத்திக்கொண்டிருந்த` → `செழித்துக்கொண்டிருந்த`; removed non-source comma in `இது அவனது`; Chapter 71 / Kurals 706 and 710 plus source glosses confirmed |
+| 621 | 604 | independent lexical re-read complete; no correction required; waterfall vignette begins; scan 622 witness confirms genuine continuation |
+
+Batch 6 correction summary: **4 records corrected; 7 records required no lexical or punctuation change; 6 source-supported lexical/spacing/punctuation readings corrected in total**.
+
+Page-correction commits:
+
+- `311ffadc5ce25f56abc4b9b04023b516a1fddc04` — scan 614;
+- `641b58787e3508385e7a2f4491eb5c8d31e95920` — scan 615;
+- `38b7d3546235fc8d735896eb7634903ebc3a375a` — scan 619;
+- `5487cd351f03e09fbb2739061309bc4a008864c8` — scan 620 / Batch-6 correction endpoint.
+
+Exact compare from pre-batch `009054ef9f31c000ce239d904e27f97f7bf4ce16` to correction endpoint `5487cd351f03e09fbb2739061309bc4a008864c8` is **ahead by 4 commits / non-divergent** and changes exactly **4 Part 006 page files**, scans **614, 615, 619 and 620**, with **0 non-page changes**.
+
 ## Current gate
 
-Part 006 Pass 2B cumulative coverage: **55/111**.
+Part 006 Pass 2B cumulative coverage: **66/111**.
 
 Exact next batch:
 
-**Batch 6 — scans 611–621 / printed 594–604 — 11 physical scans.**
+**Batch 7 — scans 622–632 / printed 605–615 — 11 physical scans.**
 
-Preserve incoming **610→611 GENUINE CONTINUATION**. Scan **622 / printed 605** may be inspected only as the outgoing witness if required.
+Preserve incoming **621→622 GENUINE CONTINUATION**. Scan **633 / printed 616** may be inspected only as the outgoing witness if required.
