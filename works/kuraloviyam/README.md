@@ -369,11 +369,12 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - Pass 2A — **COMPLETE / PASS 111/111**;
 - Pass 2B Batch 1 — **556–566 / printed 539–549 — COMPLETE 11/11**;
 - Pass 2B Batch 2 — **567–577 / printed 550–560 — COMPLETE 11/11**;
-- Batch 2 correction endpoint — `8037c41cdfd4e06cffc12b43764f26e2de793929`;
-- exact Batch 2 compare from `ecc3369787c6488417f1b3d5524862f99fbf2d77` — **exactly 2 page files / scans 570, 576 / 0 non-page changes**;
-- cumulative Pass 2B — **22/111**;
-- exact next stage — **Part 006 Pass 2B Batch 3 / scans 578–588 / printed 561–571 — 11 scans**.
+- Pass 2B Batch 3 — **578–588 / printed 561–571 — COMPLETE 11/11**;
+- Batch 3 correction endpoint — `cc8cd04b40be7037dfafa234bed0364bf46c48b5`;
+- exact Batch 3 compare from `9ad873d2b09927603ae029f44dfa9e2071327f09` — **exactly 5 page files / scans 580, 582, 583, 584, 588 / 0 non-page changes**;
+- cumulative Pass 2B — **33/111**;
+- exact next stage — **Part 006 Pass 2B Batch 4 / scans 589–599 / printed 572–582 — 11 scans**.
 
 ## Current frontier
 
-**Part 006 Pass 2B Batch 3 — scans 578–588 / printed 561–571 — 11 scans.**
+**Part 006 Pass 2B Batch 4 — scans 589–599 / printed 572–582 — 11 scans.**
