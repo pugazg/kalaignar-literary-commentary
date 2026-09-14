@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 1 P6-08
+# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 1 P6-09
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -40,43 +40,44 @@ Source identity:
 - P6-04 — **589–599 / printed 572–582 — COMPLETE 11/11**;
 - P6-05 — **600–610 / printed 583–593 — COMPLETE 11/11**;
 - P6-06 — **611–621 / printed 594–604 — COMPLETE 11/11**;
-- P6-07 — **622–632 / printed 605–615 — COMPLETE 11/11**.
+- P6-07 — **622–632 / printed 605–615 — COMPLETE 11/11**;
+- P6-08 — **633–643 / printed 616–626 — COMPLETE 11/11**.
 
-P6-07 page-layer commits:
+P6-08 page-layer commits:
 
-- `77d6f36f7788e7a464bec456f42b5b48d162491e` — scans 622–627;
-- `d7741ce093708664a5e57bb66669c943afad980c` — scans 628–632 / P6-07 endpoint.
+- `cebf7c964828a1198f92f5bd09846781e9c9d3de` — scans 633–638;
+- `efc48a519ffcd522387fa70f1e1d9593dcf6c8a1` — scans 639–643 / P6-08 endpoint.
 
-Exact compare from pre-P6-07 `d3e06794622fb4dacfbca608e7baeab4f4f6443c` to endpoint `d7741ce093708664a5e57bb66669c943afad980c`:
+Exact compare from pre-P6-08 `aff88e39dbc4035954213168935f44f71ac6dbd7` to endpoint `efc48a519ffcd522387fa70f1e1d9593dcf6c8a1`:
 
 - **2 commits ahead / non-divergent**;
 - exactly **11 changed files**;
-- all are newly added Part 006 Tamil records, scans **622–632**;
+- all are newly added Part 006 Tamil records, scans **633–643**;
 - non-page changes — **0**.
 
-Cumulative Pass 1: **77/111 captured**.
+Cumulative Pass 1: **88/111 captured**.
 
-All 77 records remain:
+All 88 records remain:
 
 - `status: "needs-review"`;
 - `visual_fidelity: "needs-review"`.
 
-P6-07 continuity:
+P6-08 continuity:
 
-- **621→622 GENUINE CONTINUATION**;
-- **622→623 CLEAN**;
-- **623→624 GENUINE CONTINUATION**;
-- **624→625 CLEAN**;
-- **625→626 GENUINE CONTINUATION**;
-- **626→627 CLEAN**;
-- **627→628 GENUINE CONTINUATION**;
-- **628→629 CLEAN**;
-- **629→630 GENUINE CONTINUATION**;
-- **630→631 CLEAN**;
-- **631→632 GENUINE CONTINUATION**;
-- **632→633 CLEAN**, directly checked from scan 633 / printed 616.
+- **632→633 CLEAN**;
+- **633→634 GENUINE CONTINUATION**;
+- **634→635 CLEAN**;
+- **635→636 GENUINE CONTINUATION**;
+- **636→637 CLEAN**;
+- **637→638 GENUINE CONTINUATION**;
+- **638→639 CLEAN**;
+- **639→640 GENUINE CONTINUATION**;
+- **640→641 CLEAN**;
+- **641→642 GENUINE CONTINUATION**;
+- **642→643 CLEAN**;
+- **643→644 GENUINE CONTINUATION**, directly checked from scan 644 / printed 627.
 
-Scan 633 was inspected only as an outgoing witness and was **not created** in P6-07.
+Scan 644 was inspected only as an outgoing witness and was **not created** in P6-08.
 
 ## Part 006 Pass 1 cadence
 
@@ -87,16 +88,16 @@ Scan 633 was inspected only as an outgoing witness and was **not created** in P6
 - P6-05 — **600–610 / printed 583–593 — COMPLETE**;
 - P6-06 — **611–621 / printed 594–604 — COMPLETE**;
 - P6-07 — **622–632 / printed 605–615 — COMPLETE**;
-- P6-08 — **633–643 / printed 616–626 — NEXT**;
-- P6-09 — **644–654 / printed 627–637**;
+- P6-08 — **633–643 / printed 616–626 — COMPLETE**;
+- P6-09 — **644–654 / printed 627–637 — NEXT**;
 - P6-10 — **655–665 / printed 638–648**;
 - final remainder — **666 / unnumbered back cover**.
 
-## Exact next activity — P6-08
+## Exact next activity — P6-09
 
 Process:
 
-**scans 633–643 / printed 616–626 — 11 physical scans**.
+**scans 644–654 / printed 627–637 — 11 physical scans**.
 
 For each scan:
 
@@ -108,8 +109,8 @@ For each scan:
 - use `status: "needs-review"` and `visual_fidelity: "needs-review"` for Pass 1;
 - preserve Kural blocks and source glosses as distinct structures;
 - do not import canonical/web Kural wording, remembered wording or external commentary;
-- preserve incoming **632→633 CLEAN**.
+- preserve incoming **643→644 GENUINE CONTINUATION**.
 
-Do not create scan 644 in P6-08. It may be inspected only as an outgoing continuity witness if needed.
+Do not create scan 655 in P6-09. It may be inspected only as an outgoing continuity witness if needed.
 
 After the page layer, compare batch base → endpoint and confirm exactly the intended **11 Part 006 Tamil page records** changed before advancing.
