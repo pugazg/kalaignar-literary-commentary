@@ -257,12 +257,41 @@ Page-correction commits:
 
 Exact compare from pre-batch `0387f24eff065c17c45999077592179a7bdbdd24` to correction endpoint `2c9083549d7f5cb88d4029590a93fe87532a54c1` is **ahead by 4 commits / non-divergent** and changes exactly **4 Part 006 page files**, scans **636, 637, 638 and 639**, with **0 non-page changes**.
 
+## Batch 9 — overall scans 644–654 / printed pages 627–637
+
+**Status: COMPLETE — 11 / 11 scans independently re-read against freshly rendered source.**
+
+Incoming **643→644 GENUINE CONTINUATION** was preserved. Scan **655 / printed 638** was inspected only as the outgoing witness and confirms **654→655 GENUINE CONTINUATION** into the same reconciliation / ஊடல்-to-கூடல் lover vignette.
+
+| Scan | Printed page | Pass 2B result |
+|---:|---:|---|
+| 644 | 627 | independent lexical re-read complete; no correction required; incoming cow / calf / pig vignette closes with Chapter 46 / Kural 451 |
+| 645 | 628 | independent lexical re-read complete; no correction required; மாமல்லபுரம் sculptor கதிரொளி / கண்மணியாள் vignette begins |
+| 646 | 629 | corrected `தானுருகுவது போல்` → source-visible `தூங்குவதுபோல்`; sculptor-love vignette continues through the storm-night meeting |
+| 647 | 630 | independent lexical re-read complete; no correction required; Chapter 113 / Kural 1124 confirmed |
+| 648 | 631 | corrected `தொடுவன்` → source-visible `தொடேன்` in the king's confidence statement; commander / defection-honour vignette begins |
+| 649 | 632 | independent lexical re-read complete; no correction required; Chapter 97 / Kural 965 confirmed |
+| 650 | 633 | independent lexical re-read complete; no correction required; separated-lover / dream-messenger vignette begins |
+| 651 | 634 | independent lexical re-read complete; no correction required; Chapter 122 / Kural 1211 confirmed |
+| 652 | 635 | independent lexical re-read complete; no correction required; ஊர்ப் பொது மன்றம் / குடவோலை vignette begins |
+| 653 | 636 | independent lexical re-read complete; no correction required; Chapter 6 / Kural 59 confirmed |
+| 654 | 637 | independent lexical re-read complete; no correction required; reconciliation / ஊடல்-to-கூடல் vignette begins; scan 655 witness confirms genuine continuation |
+
+Batch 9 correction summary: **2 records corrected; 9 records required no lexical or punctuation change; 2 source-supported lexical readings corrected in total**.
+
+Page-correction commits:
+
+- `ae74b7020e521e4be7950a6236d89183501c3de5` — scan 646;
+- `88ed6de7619947e777ae083436e09a44ed6f4df7` — scan 648 / Batch-9 correction endpoint.
+
+Exact compare from pre-batch `d06c6b966b0604a80fcfcc5f24568d2734a6fff6` to correction endpoint `88ed6de7619947e777ae083436e09a44ed6f4df7` is **ahead by 2 commits / non-divergent** and changes exactly **2 Part 006 page files**, scans **646 and 648**, with **0 non-page changes**.
+
 ## Current gate
 
-Part 006 Pass 2B cumulative coverage: **88/111**.
+Part 006 Pass 2B cumulative coverage: **99/111**.
 
 Exact next batch:
 
-**Batch 9 — scans 644–654 / printed 627–637 — 11 physical scans.**
+**Batch 10 — scans 655–665 / printed 638–648 — 11 physical scans.**
 
-Preserve incoming **643→644 GENUINE CONTINUATION**. Scan **655 / printed 638** may be inspected only as the outgoing witness if required.
+Preserve incoming **654→655 GENUINE CONTINUATION**. Scan **666 / unnumbered pictorial back cover** may be inspected only as the outgoing/source-end witness; do not include it in Batch 10.
