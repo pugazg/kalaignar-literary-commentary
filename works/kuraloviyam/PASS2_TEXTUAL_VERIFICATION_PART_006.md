@@ -85,12 +85,40 @@ Durable correction commit:
 
 Exact compare from pre-batch `a7733f4f16cc3d7f8195bfc6333ad75c53573511` to correction endpoint `7d54c4c367305393429fbfad87c4ae7eef6cffec` is **ahead by 1 commit** and changes exactly **5 page files**, scans **568, 570, 571, 572, 575** only.
 
+## Batch 3 — overall scans 578–588 / printed pages 561–571
+
+**Status: COMPLETE — 11 / 11 scans directly compared against rendered source.**
+
+Incoming **577→578 GENUINE CONTINUATION** is preserved. Scan **589 / printed 572** was inspected only as the outgoing witness and confirms **588→589 CLEAN**; scan 589 begins a new horse-rearing / business vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 578 | 561 | direct textual comparison complete; no correction required; closes Chapter 90 / Kural 899 vignette |
+| 579 | 562 | corrected `ஜெயப்பிரகாஷ் நாராயண்` → source-visible `ஜெயபிரகாஷ் நாராயண்` |
+| 580 | 563 | corrected `ஜெயப்பிரகாஷ்` → source-visible `ஜெயபிரகாஷ்`; Chapter 6 / Kural 56 confirmed |
+| 581 | 564 | direct textual comparison complete; no correction required; birth/caste/occupation vignette begins |
+| 582 | 565 | direct textual comparison complete; no correction required; Chapter 98 / Kural 972 confirmed |
+| 583 | 566 | direct textual comparison complete; no correction required; love/pulavi vignette begins |
+| 584 | 567 | restored source-visible `தந்தத்தால்`, `மாங்கனிகள்`, `சோலையெனலாம்`, and semicolon after `கேட்டான்`; Chapter 132 / Kural 1315 confirmed |
+| 585 | 568 | corrected `இளநாயிறு` → source-visible `இளஞாயிறு` |
+| 586 | 569 | direct textual comparison complete; no correction required; Chapter 96 / Kural 959 and gloss confirmed |
+| 587 | 570 | direct textual comparison complete; no correction required; fallen-emperor / people's-leader vignette begins |
+| 588 | 571 | corrected `வலிமையற்ற வல்லமை` → source-visible `வலிமையற்று வல்லமை`; Chapter 12 / Kural 119 and glosses confirmed |
+
+Batch 3 correction summary: **5 records corrected; 6 records required no textual change; 8 source-supported correction events in total**.
+
+Durable correction commit:
+
+`b7e40436f7459425e4d9ef6e52e296df23e6e776` — `kuraloviyam: Pass 2A verify Part 006 scans 578-588`
+
+Exact compare from pre-batch `03f71d7e6c252fdfc728baa603ed27c40fe8af07` to correction endpoint `b7e40436f7459425e4d9ef6e52e296df23e6e776` is **ahead by 1 commit** and changes exactly **5 page files**, scans **579, 580, 584, 585, 588** only.
+
 ## Current gate
 
-Part 006 Pass 2A cumulative coverage: **22/111**.
+Part 006 Pass 2A cumulative coverage: **33/111**.
 
 Exact next batch:
 
-**Batch 3 — scans 578–588 / printed 561–571 — 11 physical scans.**
+**Batch 4 — scans 589–599 / printed 572–582 — 11 physical scans.**
 
-Preserve incoming **577→578 GENUINE CONTINUATION**. Scan **589 / printed 572** may be inspected only as the outgoing witness if needed.
+Preserve incoming **588→589 CLEAN**. Scan **600 / printed 583** may be inspected only as the outgoing witness if needed.
