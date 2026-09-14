@@ -405,9 +405,12 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - final-remainder exact compare — `9ad10d1f342e3313ce308bafe578d76a4ba06a54` → same commit — **identical / 0 commits / 0 page files / 0 non-page changes**;
 - Pass 2B — **COMPLETE / PASS 111/111**;
 - source endpoint — **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**;
-- Pass 3 — **NOT STARTED — 0/111**;
-- exact next stage — **Pass 3 Batch 1 / scans 556–566 / printed 539–549 — 11 scans**.
+- Pass 3 Batch 1 — **556–566 / printed 539–549 — COMPLETE 11/11**;
+- Batch-1 structural/visual corrections — **0**;
+- Batch-1 page-layer compare — `6416c58b83d96af2dfd4683685d1672eafebc199` → same commit — **identical / 0 changed files**;
+- cumulative Pass 3 — **11/111**;
+- exact next stage — **Pass 3 Batch 2 / scans 567–577 / printed 550–560 — 11 scans**.
 
 ## Exact next activity
 
-Proceed with **Part 006 Pass 3 Batch 1 / scans 556–566 / printed 539–549 — 11 scans**. Pass 2B is **COMPLETE / PASS 111/111**. Verify meaningful visual/text organization directly against rendered source pixels; do not perform another lexical reread or promote status.
+Proceed with **Part 006 Pass 3 Batch 2 / scans 567–577 / printed 550–560 — 11 scans**. Batch 1 is **COMPLETE 11/11 / 0 structural corrections**. Preserve incoming **566→567 GENUINE CONTINUATION** and keep statuses unchanged.
