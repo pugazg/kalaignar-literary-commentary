@@ -401,11 +401,13 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - Pass 2B Batch 8 — **633–643 / printed 616–626 — COMPLETE 11/11**;
 - Pass 2B Batch 9 — **644–654 / printed 627–637 — COMPLETE 11/11**;
 - Pass 2B Batch 10 — **655–665 / printed 638–648 — COMPLETE 11/11**;
-- Batch 10 correction endpoint — `d5c1adceda92c0e4dcd888b555bcef2dc3ae9180` (**same as pre-batch; no page correction**);
-- exact Batch 10 compare — **identical / 0 commits / 0 page files / 0 non-page changes**;
-- cumulative Pass 2B — **110/111**;
-- exact next stage — **Pass 2B final remainder / scan 666 / unnumbered pictorial back cover — 1 scan**.
+- Pass 2B final remainder — **666 / unnumbered pictorial back cover — COMPLETE 1/1 / no correction**;
+- final-remainder exact compare — `9ad10d1f342e3313ce308bafe578d76a4ba06a54` → same commit — **identical / 0 commits / 0 page files / 0 non-page changes**;
+- Pass 2B — **COMPLETE / PASS 111/111**;
+- source endpoint — **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**;
+- Pass 3 — **NOT STARTED — 0/111**;
+- exact next stage — **Pass 3 Batch 1 / scans 556–566 / printed 539–549 — 11 scans**.
 
 ## Exact next activity
 
-Proceed with **Part 006 Pass 2B final remainder / scan 666 / unnumbered pictorial back cover — 1 scan**. Batch 10 is **COMPLETE 11/11 with no correction** and cumulative Pass 2B is **110/111**. Re-inspect the final page, preserve **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**, and keep all statuses unchanged.
+Proceed with **Part 006 Pass 3 Batch 1 / scans 556–566 / printed 539–549 — 11 scans**. Pass 2B is **COMPLETE / PASS 111/111**. Verify meaningful visual/text organization directly against rendered source pixels; do not perform another lexical reread or promote status.
