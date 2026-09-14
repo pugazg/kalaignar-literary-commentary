@@ -399,14 +399,62 @@ Exact compare from pre-batch `aff88e39dbc4035954213168935f44f71ac6dbd7` to page 
 - scan 644 was inspected only as an outgoing continuity witness and remains outside P6-08;
 - no Part 001–005 Tamil or English page record changed.
 
+## P6-09 state
+
+**11 / 11 page records captured — COMPLETE.**
+
+P6-09 scans **644–654 / printed 627–637** are captured as one page-aligned Tamil Pass-1 record per physical scan. All 11 records carry:
+
+- `part: 6`;
+- `part_page: 89–99`;
+- exact scan/printed-page mappings;
+- `status: "needs-review"`;
+- `visual_fidelity: "needs-review"`;
+- the exact Part 006 source filename.
+
+Page-layer commits:
+
+- `c32af87849e74c89f1dcb876a1a7ead978810bd4` — `kuraloviyam: Part 006 Pass 1 scans 644-649`;
+- `826528524dbfc615ac8a79c19737f40e0264b651` — `kuraloviyam: Part 006 Pass 1 scans 650-654`.
+
+Exact compare from pre-batch `33be5c86c92af017f404d504c9bf94a05b758654` to page endpoint `826528524dbfc615ac8a79c19737f40e0264b651`:
+
+- **2 commits ahead / non-divergent**;
+- exactly **11 changed files**;
+- all **11** are newly added Part 006 Tamil page records, scans **644–654**;
+- non-page/control files changed — **0**.
+
+## P6-09 continuity map
+
+- **643→644 — GENUINE CONTINUATION**; scan 644 closes the cow/calf/pig vignette with Chapter 46 / Kural 451;
+- **644→645 — CLEAN**;
+- **645→646 — GENUINE CONTINUATION**;
+- **646→647 — GENUINE CONTINUATION**; scan 647 closes the கதிரொளி / கண்மணியாள் vignette with Chapter 113 / Kural 1124;
+- **647→648 — CLEAN**;
+- **648→649 — GENUINE CONTINUATION**; scan 649 closes the commander/defection honour vignette with Chapter 97 / Kural 965;
+- **649→650 — CLEAN**;
+- **650→651 — GENUINE CONTINUATION**; scan 651 closes the separated-lover / dream-messenger vignette with Chapter 122 / Kural 1211;
+- **651→652 — CLEAN**;
+- **652→653 — GENUINE CONTINUATION**; scan 653 closes the public-assembly / downcast-warrior vignette with Chapter 6 / Kural 59;
+- **653→654 — CLEAN**;
+- **654→655 — GENUINE CONTINUATION**, directly checked from scan 655 / printed 638 as an outgoing witness. Scan 655 continues the reconciliation / ஊடல்-to-கூடல் lover dialogue and was **not** created in P6-09.
+
+## P6-09 structural notes
+
+- illustrations remain described in `visual_notes`, not transcribed as prose;
+- Kural blocks and source glosses remain structurally distinct;
+- exact physical-page splits are preserved;
+- scan 655 was inspected only as an outgoing continuity witness and remains outside P6-09;
+- no Part 001–005 Tamil or English page record changed.
+
 ## Current gate
 
-Part 006 Pass 1 cumulative state: **88/111 captured**.
+Part 006 Pass 1 cumulative state: **99/111 captured**.
 
-P6-01 through P6-08 are **COMPLETE / 88 pages captured**.
+P6-01 through P6-09 are **COMPLETE / 99 pages captured**.
 
 Exact next batch:
 
-**P6-09 — scans 644–654 / printed 627–637 — 11 physical scans.**
+**P6-10 — scans 655–665 / printed 638–648 — 11 physical scans.**
 
-Preserve incoming **643→644 GENUINE CONTINUATION**.
+Preserve incoming **654→655 GENUINE CONTINUATION**.
