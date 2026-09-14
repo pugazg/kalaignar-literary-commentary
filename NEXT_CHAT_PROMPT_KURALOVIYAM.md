@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 2A Batch 8
+# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 2A Batch 9
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -18,43 +18,50 @@ Pass-2A progress:
 
 - Pass 1 — **COMPLETE 111/111**;
 - all 111 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`;
-- Pass 2A Batches 1–7 — **COMPLETE 77/111**;
-- Batch 7 — **622–632 / printed 605–615 — COMPLETE 11/11**.
+- Pass 2A Batches 1–8 — **COMPLETE 88/111**;
+- Batch 8 — **633–643 / printed 616–626 — COMPLETE 11/11**.
 
-Batch 7 correction commit:
+Batch 8 page-correction commits:
 
-`54dd2781658025df576d489eb63b3c2c830e1141` — `kuraloviyam: Pass 2A verify Part 006 scans 622-632`
+- `0cfca12a6b09f48173dc4ad2f579d449ac96ac0c` — scan 634;
+- `c3bc50950497183d760f8d96b81424410367f95a` — scan 635;
+- `b1612feae5139b7474cc2abc0d28d10322b2b714` — scan 636;
+- `caec29563d0616ecf3ee44a3aaa2f26ae06f8419` — scan 637;
+- `777a370dd83ed10e3e8f56c791c2a30be472d932` — scan 638;
+- `74df157ec3d0f9dc6f0cc256b0495e0e4ce9f21f` — scan 639;
+- `d377e43ee74c10c72d146ab478ae84a0234e96db` — scan 642 / Batch-8 endpoint.
 
-Exact compare from pre-batch `11de2342a2e9dd62d45f218fa02ed146aaf2b72f` to endpoint `54dd2781658025df576d489eb63b3c2c830e1141`:
+Exact compare from pre-batch `0eda5245a9caf5832d7bd3b85bbfb16bff91fde3` to endpoint `d377e43ee74c10c72d146ab478ae84a0234e96db`:
 
-- **1 commit ahead / non-divergent**;
-- exactly **6 changed Part 006 Tamil page files** — scans **622, 623, 627, 628, 629, 632**;
-- scans **624, 625, 626, 630, 631** required no textual change;
+- **7 commits ahead / non-divergent**;
+- exactly **7 changed Part 006 Tamil page files** — scans **634, 635, 636, 637, 638, 639, 642**;
+- scans **633, 640, 641, 643** required no textual change;
 - non-page changes — **0**.
 
-Batch 7 source-supported repairs include:
+Batch 8 source-supported repairs include:
 
-- scan **622 / printed 605** — `மலராக` → source-visible `மலராத`; restored source quotation around `அவன் மீது அவளுக்கும் அளவற்ற காதல் உண்டு`;
-- scan **623 / printed 606** — `அப்படிப்பொருவன்` → source-visible `அப்படியொருவன்`;
-- scan **627 / printed 610** — restored `கரங்களில்` and singular `அவருக்கு`;
-- scan **628 / printed 611** — restored `மென்மைமிகு` and source dash in `அரசினர் - எல்லாம்`;
-- scan **629 / printed 612** — restored `கோதையினைத் தொட்டுச்`, `முனகலிட`, `தொழுதறியாள்`, `சென்றிட்டான்`, and `வரப் புறப்பட்டாள்`;
-- scan **632 / printed 615** — `தருவதிலே` → source-visible `தருவதைவிட`.
+- scan **634 / printed 617** — restored `தரையில்`, `சில நாட்களுக்குப்பிறகு கால்களை பிடித்திட`, and `ஓர் இரவில்`;
+- scan **635 / printed 618** — restored `எதிர்க்க வொண்ணாது`;
+- scan **636 / printed 619** — restored `செயல்படுத்துகின்றீர்கள்` and `அரவணைத்துக் கொள்கின்றீர்`;
+- scan **637 / printed 620** — restored `அழகே!`, source-print `கெளவிச்`, and `ஏறிற்று உணர்ச்சி!`;
+- scan **638 / printed 621** — `எனப் புகழ்ந்து`;
+- scan **639 / printed 622** — restored `வலிமை யுடைய` and `போர்க்கலன்களையும்`;
+- scan **642 / printed 625** — restored `நிறைவுசெய்து`, `புலால் உண்ணுவதைப்`, and `வகையினுள்`.
 
 Outgoing witness:
 
-- scan **633 / printed 616** was inspected only to verify **632→633 CLEAN**;
-- scan 633 begins a new ascetic-travel vignette and was not modified in Batch 7.
+- scan **644 / printed 627** was inspected only to verify **643→644 GENUINE CONTINUATION**;
+- scan 644 was not modified in Batch 8.
 
-## Exact next activity — Part 006 Pass 2A Batch 8
+## Exact next activity — Part 006 Pass 2A Batch 9
 
 Process:
 
-**scans 633–643 / printed 616–626 — 11 physical scans**.
+**scans 644–654 / printed 627–637 — 11 physical scans**.
 
-Preserve incoming **632→633 CLEAN**.
+Preserve incoming **643→644 GENUINE CONTINUATION**.
 
-Scan **644 / printed 627** may be inspected only as an outgoing continuity witness if required; do not include it in Batch 8.
+Scan **655 / printed 638** may be inspected only as an outgoing continuity witness if required; do not include it in Batch 9.
 
 Directly compare every page record against the rendered source scan. Apply only source-supported corrections. Do **not** normalize, modernize, import standard/web Kural wording, use another edition, or fill readings from memory.
 
