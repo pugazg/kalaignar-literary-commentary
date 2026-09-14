@@ -113,12 +113,40 @@ Durable correction commit:
 
 Exact compare from pre-batch `03f71d7e6c252fdfc728baa603ed27c40fe8af07` to correction endpoint `b7e40436f7459425e4d9ef6e52e296df23e6e776` is **ahead by 1 commit** and changes exactly **5 page files**, scans **579, 580, 584, 585, 588** only.
 
+## Batch 4 — overall scans 589–599 / printed pages 572–582
+
+**Status: COMPLETE — 11 / 11 scans directly compared against rendered source.**
+
+Incoming **588→589 CLEAN** is preserved. Scan **600 / printed 583** was inspected only as the outgoing witness and reconfirms **599→600 as a GENUINE CONTINUATION** of the grandson / life-goal / Aruloor teacher vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 589 | 572 | direct textual comparison complete; no correction required; horse-rearing expert / public-honour vignette begins |
+| 590 | 573 | restored source-visible `இலங்கைக்குத் போர் தொடுத்து`, `பல்லாயிரம் கைதிகளை கொண்டு வந்து`, and `பயன்படுத்தப்பட்டது`; Chapter 85 / Kural 845 confirmed |
+| 591 | 574 | direct textual comparison complete; no correction required; pet-snake vignette begins |
+| 592 | 575 | direct textual comparison complete; no correction required; Chapter 89 / Kural 890 and glosses confirmed |
+| 593 | 576 | direct textual comparison complete; no correction required; king / self-respecting poet vignette begins |
+| 594 | 577 | restored source-visible `இந்நாட்டை`, `நாட்டமின்றி`, and `கரைபடிந்த`; Chapter 5 / Kural 44 and gloss confirmed |
+| 595 | 578 | direct textual comparison complete; no correction required; அழகர்குடி / செவத்தான் vignette begins |
+| 596 | 579 | restored source-visible `இளந் துறவியொருவர்`; Chapter 47 / Kural 466 confirmed |
+| 597 | 580 | direct textual comparison complete; no correction required; Maruthu Pandiyar / Karuthaan betrayal vignette begins |
+| 598 | 581 | restored source-visible `மீளமுடியாத`; Chapter 66 / Kural 654 and glosses confirmed |
+| 599 | 582 | restored source-visible `உன்வாழ்க்கையின்`; scan 600 witness reconfirms GENUINE CONTINUATION |
+
+Batch 4 correction summary: **5 records corrected; 6 records required no textual change; 9 source-supported correction events in total**.
+
+Durable correction commit:
+
+`e8126d62ba9863cca5af2fde19fe271677b81e20` — `kuraloviyam: Pass 2A verify Part 006 scans 589-599`
+
+Exact compare from pre-batch `168194fba6e6a7b6d404bfc63059b4f8839b3984` to correction endpoint `e8126d62ba9863cca5af2fde19fe271677b81e20` is **ahead by 1 commit** and changes exactly **5 page files**, scans **590, 594, 596, 598, 599** only.
+
 ## Current gate
 
-Part 006 Pass 2A cumulative coverage: **33/111**.
+Part 006 Pass 2A cumulative coverage: **44/111**.
 
 Exact next batch:
 
-**Batch 4 — scans 589–599 / printed 572–582 — 11 physical scans.**
+**Batch 5 — scans 600–610 / printed 583–593 — 11 physical scans.**
 
-Preserve incoming **588→589 CLEAN**. Scan **600 / printed 583** may be inspected only as the outgoing witness if needed.
+Preserve incoming **599→600 GENUINE CONTINUATION**. Scan **611 / printed 594** may be inspected only as the outgoing witness if needed.
