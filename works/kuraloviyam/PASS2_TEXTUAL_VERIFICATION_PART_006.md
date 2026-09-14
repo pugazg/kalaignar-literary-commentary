@@ -272,12 +272,54 @@ Batch 9 correction summary: **5 records corrected; 6 records required no textual
 
 Exact compare from pre-batch `7bc5fa1941b4f8f05af3663f6320f505130afe6a` to correction endpoint `eecb22e76e33400c9e65fad45326ff222a3ec468` is **ahead by 5 commits / non-divergent** and changes exactly **5 Part 006 page files**, scans **645, 646, 649, 650, 653**, with **0 non-page changes**.
 
+## Batch 10 — overall scans 655–665 / printed pages 638–648
+
+**Status: COMPLETE — 11 / 11 scans directly compared against rendered source.**
+
+Incoming **654→655 GENUINE CONTINUATION** is preserved. Scan **666 / unnumbered pictorial back cover** was inspected only as the outgoing witness and confirms **665→666 CLEAN**; scan 666 contains no printed body text.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 655 | 638 | direct textual comparison complete; no correction required; incoming continuation closes with Chapter 128 / Kural 1276 |
+| 656 | 639 | corrected `அருங்குறள் - காவியம்` → source-visible `அருங்குறட் காவியம்` |
+| 657 | 640 | corrected `பொருந்தாத் தெரியவில்லை` → source-visible `பொருத்தமாகத் தெரியவில்லை`; Chapter 34 / Kural 336 confirmed |
+| 658 | 641 | restored contents readings `வையத்துள் வாழ்வாங்கு`, `குழலினிது யாழினிது`, `ஒருமைக்கண் தான்கற்ற`, and `ஓர்த்துள்ளம் உள்ளது` |
+| 659 | 642 | restored contents readings `கண்ணுடையர் என்பவர்`, `செல்விடத்துக் காப்பான்`, `இணரூழ்த்தும் நாறா`, and `தேரான் தெளிவும்` |
+| 660 | 643 | restored contents readings `கடாஅக் களிற்றின்மேல்`, `கைவேல் களிற்றொடு`, `நெய்யால் எரிநுதுப்போம்`, `பெரிதினிது பேதையார்`, `தும்முச் செறுப்ப`, `மறைப்பேன்மன் யான்`, and `அறன்நோக்கி ஆற்றும்கொல்` |
+| 661 | 644 | corrected `சென்றவர் பின்சேறல்` → source-visible `செற்றவர் பின்சேறல்` |
+| 662 | 645 | direct textual comparison complete; no correction required |
+| 663 | 646 | direct textual comparison complete; no correction required |
+| 664 | 647 | direct textual comparison complete; no correction required |
+| 665 | 648 | restored source note `இந்நூலின்`, `சீர்திருத்த எழுத்துகள்`, and `சீர்திருத்த எழுத்துகளில்`; library stamp remains excluded as non-source annotation |
+
+Batch 10 correction summary: **7 records corrected; 4 records required no textual change; 19 source-supported textual/spacing/index-note corrections in total**.
+
+Batch-10 page-correction commits:
+
+- `7614b292f9c1a70edc6d46368d2b47624be46bcb` — scan 656;
+- `465207cf05850e5c742c926bfd06f584871554c9` — scan 657;
+- `5eadbb19be8a68aeb81ad29b2578242cddcf3c11` — scan 658;
+- `ca8285efe51bfce4f88b29eb7d6c7fa846e059ec` — scan 659;
+- `dffe1e01422810fd0cddc0427c87d0a2e2b4d55d` — scan 660;
+- `63d190dfe3cf1559fcddbeedd8c5cdf67283b831` — scan 661;
+- `a88d9e186f5956b0fa24abc49c7b7f7a50ca46b5` — scan 665 / Batch-10 correction endpoint.
+
+Exact compare from pre-batch `84de610b844dd594c1b8c0d4a75737e7f472e6f4` to correction endpoint `a88d9e186f5956b0fa24abc49c7b7f7a50ca46b5` is **ahead by 7 commits / non-divergent** and changes exactly **7 Part 006 page files**, scans **656, 657, 658, 659, 660, 661, 665**, with **0 non-page changes**.
+
+## Final remainder — overall scan 666 / unnumbered back cover
+
+**Status: COMPLETE — 1 / 1 scan directly inspected.**
+
+Scan **666** is a full-page pictorial back cover with no visible printed body text. Its existing record requires **no textual correction**. It is the physical source endpoint; there is no external continuation beyond scan 666.
+
+## Pass 2A closure
+
+Part 006 Pass 2A is **COMPLETE / PASS — 111/111**. Every Part 006 page has now received direct textual verification against rendered source scans. All 111 records intentionally remain `status: "needs-review"` / `visual_fidelity: "needs-review"` because Pass 2B, Pass 3, the Part audit and final status synchronization remain mandatory.
+
+The next phase is the independent **Pass 2B lexical-fidelity re-read**. Use **11 physical scans per normal batch**, matching the established Part-005 cadence.
+
 ## Current gate
 
-Part 006 Pass 2A cumulative coverage: **99/111**.
+Part 006 Pass 2A: **COMPLETE / PASS — 111/111**.
 
-Exact next batch:
-
-**Batch 10 — scans 655–665 / printed 638–648 — 11 physical scans.**
-
-Preserve incoming **654→655 GENUINE CONTINUATION**. Scan **666 / unnumbered pictorial back cover** may be inspected only as the outgoing witness if needed.
+Next: **Pass 2B Batch 1 / scans 556–566 / printed 539–549**, preserving incoming **555→556 CLEAN / source-resolved** and inspecting scan **567 / printed 550** only as the outgoing witness when required.
