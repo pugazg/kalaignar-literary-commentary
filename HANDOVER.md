@@ -463,9 +463,12 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - Pass 2B — **COMPLETE / PASS 111/111**;
 - corrected Pass-2B page records — **23**;
 - source endpoint — **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**;
-- Pass 3 — **NOT STARTED — 0/111**;
-- exact next stage — **Part 006 Pass 3 Batch 1 / scans 556–566 / printed 539–549 — 11 scans**.
+- Pass 3 Batch 1 — **556–566 / printed 539–549 — COMPLETE 11/11**;
+- Batch-1 structural/visual corrections — **0**;
+- Batch-1 page-layer compare — `6416c58b83d96af2dfd4683685d1672eafebc199` → same commit — **identical / 0 changed files**;
+- cumulative Pass 3 — **11/111**;
+- exact next stage — **Part 006 Pass 3 Batch 2 / scans 567–577 / printed 550–560 — 11 scans**.
 
 ## Exact next activity — குறளோவியம்
 
-Proceed with **Part 006 Pass 3 Batch 1 — scans 556–566 / printed 539–549 — 11 scans**. Pass 2B is **COMPLETE / PASS 111/111**. Pass 3 is meaningful visual/text verification, not another lexical reread. Keep all records `needs-review` / visual `needs-review` and inspect scan 567 only as an outgoing witness if required.
+Proceed with **Part 006 Pass 3 Batch 2 — scans 567–577 / printed 550–560 — 11 scans**. Batch 1 is **COMPLETE 11/11 with 0 structural/visual corrections**. Preserve incoming **566→567 GENUINE CONTINUATION**; inspect scan 578 only as the outgoing witness if required. Keep all records `needs-review` / visual `needs-review`.
