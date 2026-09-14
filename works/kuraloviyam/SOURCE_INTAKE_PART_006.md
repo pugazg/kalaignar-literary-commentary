@@ -120,15 +120,17 @@ Final Pass-2A remainder — **666 / unnumbered pictorial back cover — COMPLETE
 
 Pass 2B Batch 1 — **556–566 / printed 539–549 — COMPLETE 11/11**.
 
-- Batch 1 correction endpoint — `742a19e72937f243db891575b45bb96964e81215`;
-- exact Batch 1 compare from `bb71d16b95c57b91441b773fe62664b3e81a1697` — **2 commits / exactly 2 modified Part 006 page files / scans 559, 566 / 0 non-page changes**;
-- source-supported repairs — `தேங்காய்கூடக்`, `பெட்டும்`, `முப்பதைத்`;
-- cumulative Pass 2B — **11/111**;
+Pass 2B Batch 2 — **567–577 / printed 550–560 — COMPLETE 11/11**.
+
+- Batch 2 correction endpoint — `8037c41cdfd4e06cffc12b43764f26e2de793929`;
+- exact Batch 2 compare from `ecc3369787c6488417f1b3d5524862f99fbf2d77` — **2 commits / exactly 2 modified Part 006 page files / scans 570, 576 / 0 non-page changes**;
+- source-supported repairs — `வண்ணத்தமிழ் ஓவியம்`, `கண்ணிணை`;
+- cumulative Pass 2B — **22/111**;
 - statuses remain unchanged — all 111 records `needs-review` / visual `needs-review`;
-- outgoing **566→567 GENUINE CONTINUATION** confirmed from scan 567 / printed 550.
+- outgoing **577→578 GENUINE CONTINUATION** confirmed from scan 578 / printed 561.
 
 Immediate next activity:
 
-**Part 006 Pass 2B Batch 2 — scans 567–577 / printed 550–560 — 11 physical scans.**
+**Part 006 Pass 2B Batch 3 — scans 578–588 / printed 561–571 — 11 physical scans.**
 
-Preserve incoming **566→567 GENUINE CONTINUATION**. Use freshly rendered scan images as the controlling source for the independent lexical-fidelity re-read; do not change record status during Pass 2B.
+Preserve incoming **577→578 GENUINE CONTINUATION**. Use freshly rendered scan images as the controlling source for the independent lexical-fidelity re-read; do not change record status during Pass 2B.
