@@ -710,11 +710,12 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - Pass 2A Batch 3 — **578–588 / printed 561–571 — COMPLETE 11/11**;
 - Pass 2A Batch 4 — **589–599 / printed 572–582 — COMPLETE 11/11**;
 - Pass 2A Batch 5 — **600–610 / printed 583–593 — COMPLETE 11/11**;
-- Batch 5 correction endpoints — `1dd72f0d670fcbfb75dffdb17609ebc18457d562`, `8f540105fa3f4aadd941335ff2e3f54e30b58352`;
-- exact Batch 5 compare from `996a054925d67eb3aca4e0e32e001582749b3389` — **2 commits / exactly 10 modified Part 006 page files / scans 600, 601, 602, 604–610 / 0 non-page changes**;
-- cumulative Pass 2A — **55/111**;
-- outgoing **610→611 GENUINE CONTINUATION** reconfirmed;
-- next stage — **Part 006 Pass 2A Batch 6 / scans 611–621 / printed 594–604 — 11 scans**.
+- Pass 2A Batch 6 — **611–621 / printed 594–604 — COMPLETE 11/11**;
+- Batch 6 correction endpoint — `97de20acdabe512f52e05aa2437689411500f57f`;
+- exact Batch 6 compare from `9286709f390be957f81c5948661d9b99536913d6` — **1 commit / exactly 8 modified Part 006 page files / scans 611–617, 620 / 0 non-page changes**;
+- cumulative Pass 2A — **66/111**;
+- outgoing **621→622 GENUINE CONTINUATION** reconfirmed;
+- next stage — **Part 006 Pass 2A Batch 7 / scans 622–632 / printed 605–615 — 11 scans**.
 - SC4 endpoint — `113846a357544a33b73d727d20115471f2f3411f`;
 - SC4 exact page-layer compare — **12 modified English page files only**;
 - fidelity corrections — **4 page files / scans 549, 550, 553, 555**;
@@ -723,4 +724,4 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 ## Current frontier
 
-**Part 006 Pass 2A Batch 6 — scans 611–621 / printed 594–604 — 11 scans.**
+**Part 006 Pass 2A Batch 7 — scans 622–632 / printed 605–615 — 11 scans.**
