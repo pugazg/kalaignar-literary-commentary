@@ -248,12 +248,36 @@ Batch 8 correction summary: **7 records corrected; 4 records required no textual
 
 Exact compare from pre-batch `0eda5245a9caf5832d7bd3b85bbfb16bff91fde3` to correction endpoint `d377e43ee74c10c72d146ab478ae84a0234e96db` is **ahead by 7 commits / non-divergent** and changes exactly **7 Part 006 page files**, scans **634, 635, 636, 637, 638, 639, 642**, with **0 non-page changes**.
 
+## Batch 9 — overall scans 644–654 / printed pages 627–637
+
+**Status: COMPLETE — 11 / 11 scans directly compared against rendered source.**
+
+Incoming **643→644 GENUINE CONTINUATION** is preserved. Scan **655 / printed 638** was inspected only as the outgoing witness and reconfirms **654→655 as a GENUINE CONTINUATION** of the reconciliation / ஊடல்-to-கூடல் lover vignette.
+
+| Scan | Printed page | Result |
+|---:|---:|---|
+| 644 | 627 | direct textual comparison complete; no correction required; incoming continuation preserved; Chapter 46 / Kural 451 closure confirmed |
+| 645 | 628 | corrected `இன்னும் என்றும்` → source-visible `இன்றும் என்றும்` |
+| 646 | 629 | restored source spacing/readings `ஆகிவிட வேண்டும் என்று`, `தாளிடப் படாமலேயிருக்கும்`, `தானுருகுவது போல்`, `விழப் போவதில்லை`, and `ஆரத் தழுவிக்கொண்டான்` |
+| 647 | 630 | direct textual comparison complete; no correction required; Chapter 113 / Kural 1124 confirmed |
+| 648 | 631 | direct textual comparison complete; no correction required; commander/defection vignette continues into scan 649 |
+| 649 | 632 | corrected `மெனனத்தைக்` → source-print `மெளனத்தைக்`; Chapter 97 / Kural 965 confirmed |
+| 650 | 633 | corrected `கிள்ளைகளைக் தூதாக` → source-visible `கிள்ளைகளைத் தூதாக` |
+| 651 | 634 | direct textual comparison complete; no correction required; Chapter 122 / Kural 1211 confirmed |
+| 652 | 635 | direct textual comparison complete; no correction required; ஊர்ப் பொது மன்றம் / குடவோலை vignette continues into scan 653 |
+| 653 | 636 | restored `இகழ்ந்து பேசுவது`, `கிடைத்தது வெற்றியென`, `இகழ்ந்து பேசுவதையே தொழிலாக்கிக் கொண்ட`, `இகழ்ச் சொல்லாளர்களும்`, and `இருந்தும்கூட`; Chapter 6 / Kural 59 confirmed |
+| 654 | 637 | direct textual comparison complete; no correction required; scan 655 witness reconfirms continuation |
+
+Batch 9 correction summary: **5 records corrected; 6 records required no textual change; 13 source-supported correction events in total**.
+
+Exact compare from pre-batch `7bc5fa1941b4f8f05af3663f6320f505130afe6a` to correction endpoint `eecb22e76e33400c9e65fad45326ff222a3ec468` is **ahead by 5 commits / non-divergent** and changes exactly **5 Part 006 page files**, scans **645, 646, 649, 650, 653**, with **0 non-page changes**.
+
 ## Current gate
 
-Part 006 Pass 2A cumulative coverage: **88/111**.
+Part 006 Pass 2A cumulative coverage: **99/111**.
 
 Exact next batch:
 
-**Batch 9 — scans 644–654 / printed 627–637 — 11 physical scans.**
+**Batch 10 — scans 655–665 / printed 638–648 — 11 physical scans.**
 
-Preserve incoming **643→644 GENUINE CONTINUATION**. Scan **655 / printed 638** may be inspected only as the outgoing witness if needed.
+Preserve incoming **654→655 GENUINE CONTINUATION**. Scan **666 / unnumbered pictorial back cover** may be inspected only as the outgoing witness if needed.
