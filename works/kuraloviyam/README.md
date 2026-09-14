@@ -344,21 +344,17 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - source intake — **PASS / COMPLETE**;
 - scans — **556–666**;
 - source family physically complete — **YES**;
-- Pass 1 — **IN PROGRESS 99/111**;
-- P6-01 — **556–566 / printed 539–549 — COMPLETE 11/11**;
-- P6-02 — **567–577 / printed 550–560 — COMPLETE 11/11**;
-- P6-03 — **578–588 / printed 561–571 — COMPLETE 11/11**;
-- P6-04 — **589–599 / printed 572–582 — COMPLETE 11/11**;
-- P6-05 — **600–610 / printed 583–593 — COMPLETE 11/11**;
-- P6-06 — **611–621 / printed 594–604 — COMPLETE 11/11**;
-- P6-07 — **622–632 / printed 605–615 — COMPLETE 11/11**;
-- P6-08 — **633–643 / printed 616–626 — COMPLETE 11/11**;
-- P6-09 — **644–654 / printed 627–637 — COMPLETE 11/11**;
-- P6-09 endpoint — `826528524dbfc615ac8a79c19737f40e0264b651`;
-- exact P6-09 page-layer compare from `33be5c86c92af017f404d504c9bf94a05b758654` — **2 commits / exactly 11 newly added Part 006 Tamil page files / 0 non-page changes**;
-- outgoing **654→655 — GENUINE CONTINUATION**, directly source-checked;
-- exact next batch — **P6-10 / scans 655–665 / printed 638–648 — 11 scans**.
+- Pass 1 — **COMPLETE 111/111**;
+- P6-01 through P6-09 — **556–654 / printed 539–637 — COMPLETE**;
+- P6-10 — **655–665 / printed 638–648 — COMPLETE 11/11**;
+- final remainder — **666 / unnumbered pictorial back cover — COMPLETE 1/1**;
+- final page endpoint — `6f58cc1c4a12bcf06776507a42a47225d782cc2b`;
+- exact final Pass-1 compare from `0935e9380db4aa406793db9a5f261354831466c7` — **2 commits / exactly 12 newly added Part 006 Tamil page files / 0 non-page changes**;
+- scans **658–665** — complete `பொருளடக்கம்` backmatter run;
+- scan **666** — physical source endpoint / no external continuation;
+- all **111** records remain `needs-review` / visual `needs-review`;
+- exact next stage — **Part 006 Pass 2A Batch 1 / scans 556–566 / printed 539–549 — 11 scans**.
 
 ## Current frontier
 
-**Part 006 Pass 1 P6-10 — scans 655–665 / printed 638–648 — 11 scans.**
+**Part 006 Pass 2A Batch 1 — scans 556–566 / printed 539–549 — 11 scans.**
