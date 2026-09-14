@@ -134,15 +134,17 @@ Pass 2B Batch 7 — **622–632 / printed 605–615 — COMPLETE 11/11**.
 
 Pass 2B Batch 8 — **633–643 / printed 616–626 — COMPLETE 11/11**.
 
-- Batch 8 correction endpoint — `2c9083549d7f5cb88d4029590a93fe87532a54c1`;
-- exact Batch 8 compare from `0387f24eff065c17c45999077592179a7bdbdd24` — **4 commits / exactly 4 modified Part 006 page files / scans 636, 637, 638, 639 / 0 non-page changes**;
-- source-supported repairs include `வீரத்திற்கும் அவனுக்கும் தொடர்பில்லை`, source punctuation `நிழலுக்கிடையே - அடடா!`, `நீ பெரு பேதை!`, and `அதற்கேற்ற அகலம்`;
-- cumulative Pass 2B — **88/111**;
+Pass 2B Batch 9 — **644–654 / printed 627–637 — COMPLETE 11/11**.
+
+- Batch 9 correction endpoint — `88ed6de7619947e777ae083436e09a44ed6f4df7`;
+- exact Batch 9 compare from `d06c6b966b0604a80fcfcc5f24568d2734a6fff6` — **2 commits / exactly 2 modified Part 006 page files / scans 646, 648 / 0 non-page changes**;
+- source-supported repairs — `தூங்குவதுபோல்` and `தொடேன்`;
+- cumulative Pass 2B — **99/111**;
 - statuses remain unchanged — all 111 records `needs-review` / visual `needs-review`;
-- outgoing **643→644 GENUINE CONTINUATION** confirmed from scan 644 / printed 627.
+- outgoing **654→655 GENUINE CONTINUATION** confirmed from scan 655 / printed 638.
 
 Immediate next activity:
 
-**Part 006 Pass 2B Batch 9 — scans 644–654 / printed 627–637 — 11 physical scans.**
+**Part 006 Pass 2B Batch 10 — scans 655–665 / printed 638–648 — 11 physical scans.**
 
-Preserve incoming **643→644 GENUINE CONTINUATION**. Use freshly rendered scan images as the controlling source for the independent lexical-fidelity re-read; do not change record status during Pass 2B.
+Preserve incoming **654→655 GENUINE CONTINUATION**. Use freshly rendered scan images as the controlling source for the independent lexical-fidelity re-read, including contents/backmatter entries; do not change record status during Pass 2B. Scan **666** remains the final Pass-2B remainder after Batch 10.
