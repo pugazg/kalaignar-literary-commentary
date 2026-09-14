@@ -136,15 +136,17 @@ Pass 2B Batch 8 — **633–643 / printed 616–626 — COMPLETE 11/11**.
 
 Pass 2B Batch 9 — **644–654 / printed 627–637 — COMPLETE 11/11**.
 
-- Batch 9 correction endpoint — `88ed6de7619947e777ae083436e09a44ed6f4df7`;
-- exact Batch 9 compare from `d06c6b966b0604a80fcfcc5f24568d2734a6fff6` — **2 commits / exactly 2 modified Part 006 page files / scans 646, 648 / 0 non-page changes**;
-- source-supported repairs — `தூங்குவதுபோல்` and `தொடேன்`;
-- cumulative Pass 2B — **99/111**;
+Pass 2B Batch 10 — **655–665 / printed 638–648 — COMPLETE 11/11**.
+
+- Batch 10 correction endpoint — `d5c1adceda92c0e4dcd888b555bcef2dc3ae9180` (**same as pre-batch; no page correction**);
+- exact Batch 10 compare — **identical / 0 commits / 0 changed files**;
+- cumulative Pass 2B — **110/111**;
 - statuses remain unchanged — all 111 records `needs-review` / visual `needs-review`;
-- outgoing **654→655 GENUINE CONTINUATION** confirmed from scan 655 / printed 638.
+- incoming **654→655 GENUINE CONTINUATION** preserved;
+- outgoing/source-end witness **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT** confirmed.
 
 Immediate next activity:
 
-**Part 006 Pass 2B Batch 10 — scans 655–665 / printed 638–648 — 11 physical scans.**
+**Part 006 Pass 2B final remainder — scan 666 / unnumbered pictorial back cover — 1 physical scan.**
 
-Preserve incoming **654→655 GENUINE CONTINUATION**. Use freshly rendered scan images as the controlling source for the independent lexical-fidelity re-read, including contents/backmatter entries; do not change record status during Pass 2B. Scan **666** remains the final Pass-2B remainder after Batch 10.
+Re-inspect the final page directly from rendered source pixels, confirm its back-cover page function and absence of visible printed body text, preserve the source-end classification, and keep record status unchanged during Pass 2B.
