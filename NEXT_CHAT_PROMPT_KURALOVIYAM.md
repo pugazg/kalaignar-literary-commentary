@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 3 Batch 7
+# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 3 Batch 8
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -33,28 +33,29 @@ Pass-3 progress:
 - Pass 3 Batch 4 — **589–599 / printed 572–582 — COMPLETE 11/11**;
 - Pass 3 Batch 5 — **600–610 / printed 583–593 — COMPLETE 11/11**;
 - Pass 3 Batch 6 — **611–621 / printed 594–604 — COMPLETE 11/11**;
-- Batch-6 structural/visual corrections — **1 page / scan 611**;
-- Batch-6 lexical/body-text changes — **0**;
-- scan-611 correction — prior visual note incorrectly described **611→612** as a physical-sentence continuation; source shows the sentence closes on scan 611 and only the vignette/exchange continues to scan 612;
-- Batch-6 page-layer compare — `f4f5ec2fc37b5641db5803b10f017d4d0ff85ef3` → `aff3b500eb1fd8c11e4d3adfd72c0048cf687585` — **1 commit ahead / exactly 1 changed Part-006 page file / scan 611 only / +2 -2 / 0 other files**;
-- cumulative Pass 3 — **66/111**;
+- Pass 3 Batch 7 — **622–632 / printed 605–615 — COMPLETE 11/11**;
+- Batch-7 structural/visual corrections — **1 page / scan 631**;
+- Batch-7 lexical/body-text changes — **0**;
+- scan-631 correction — the source illustration shows the stern traveler in the foreground, an emaciated man near the tree, and birds feeding nearby; the prior visual note incorrectly said the traveler was **beside a horse**. The prose legitimately mentions the horse, so Tamil body text was not changed;
+- Batch-7 page-layer compare — `29c69e398e6f849d0475d765a9792187022d274a` → `ed0bf49fb32504469e9640824ef62b3f8293568f` — **1 commit ahead / exactly 1 changed Part-006 page file / scan 631 only / +1 -1 / 0 other files**;
+- cumulative Pass 3 — **77/111**;
 - all 111 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
 
 Continuity:
 
-- incoming **610→611 GENUINE CONTINUATION** preserved;
-- **611→612 GENUINE VIGNETTE CONTINUATION / not a physical-sentence continuation**;
-- scan **622 / printed 605** was inspected only as Batch-6 outgoing witness and confirms **621→622 GENUINE CONTINUATION**.
+- incoming **621→622 GENUINE CONTINUATION** preserved;
+- **622→623 CLEAN**;
+- scan **633 / printed 616** was inspected only as Batch-7 outgoing witness and confirms **632→633 CLEAN**.
 
-## Exact next activity — Part 006 Pass 3 Batch 7
+## Exact next activity — Part 006 Pass 3 Batch 8
 
 Inspect:
 
-**scans 622–632 / printed 605–615 — 11 physical scans**.
+**scans 633–643 / printed 616–626 — 11 physical scans**.
 
-Preserve incoming **621→622 GENUINE CONTINUATION**.
+Preserve incoming **632→633 CLEAN**.
 
-Scan **633 / printed 616** may be inspected only as the outgoing continuity witness if required; do not include it in Batch 7.
+Scan **644 / printed 627** may be inspected only as the outgoing continuity witness if required; do not include it in Batch 8.
 
 Pass 3 is **meaningful visual/text fidelity verification**, not another lexical reread. Compare canonical records directly with freshly rendered source scans and verify:
 
