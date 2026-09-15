@@ -1140,16 +1140,125 @@ Exact page-file set:
 
 This progress-record update is the sole intended non-page change after the Batch B11 page-layer endpoint.
 
+## Batch B12 — scans 276–300
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-15**
+- scans reviewed: **276–300 / 25**
+- controlling source: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_006_pages_251-300.pdf`
+- lexical lock used: `File6.md` — Phase 15 / Book Pages 264–288
+- batch base: `3d974197a36b2def8304538ae44bad9d9f970dba`
+- page-layer endpoint: `523a93ab64fd4dc44846d02540ba0cd8b8a72b3e`
+- structurally changed page records: **8**
+- reviewed with no page-record change: **17** — scans **277, 279, 280, 283, 284, 285, 286, 287, 289, 290, 291, 293, 294, 295, 297, 298, 299**
+- scan-led lexical corrections / modernizations: **0**
+- unresolved structural placement issues: **0**
+
+### Gate-B reconciliation performed
+
+1. **scan 276 — closure of `அன்றைக்கே ஒரு கண்ணகி!`**
+   - restores the File6-locked reading `பெருங்குன்றூர் கிழார்`;
+   - preserves the PDF-controlled numbered quotation/note structure and closes the section without source-led lexical correction.
+
+2. **scans 277–280 — `எமக்குத் தென்றல்; எதிரிக்கோ புயல்!`**
+   - scan 277 was already structurally aligned and required no repository change;
+   - scan 278 restores locked `தமிழ்க்கனிகளைக்` and returns displaced File6 tokens `தேனில்`, `தனது`, `அவர்கள்`, `நீயும்`, `கிளம்புதல் போல்`, `புயற்`, and `அழகு!` to their PDF-supported positions;
+   - scan 279 remains a full-page illustration and required no change;
+   - scan 280 already had the correct quotation continuation → separator → provenance → `பொருள் விளக்கம்` structure and required no change.
+
+3. **scans 281–284 — `கிலு கிலுப்பை வழங்கும் கிறுகிறுப்பு!`**
+   - the source-visible section identity remains in metadata;
+   - File6 omits `கிலு கிலுப்பை` and locks the decorative body heading as `வழங்கும் / கிறுகிறப்பு!`; Gate B therefore does not source-recover the omitted words into body text;
+   - stray File6 numeric `2` is excluded;
+   - scan 281 restores the File6-locked `மன்னவனாம்`;
+   - scan 282 restores locked carryover `இன்பக்` before `மகிழ்வோம்!`;
+   - scan 283 remains a full-page illustration and scan 284 already had the PDF-supported glossary placement; both required no change.
+
+4. **scans 285–287 — `'இனம்' காட்டும் இயற்கைக் காட்சி!`**
+   - scan 285 was already aligned to the locked wording and source page structure;
+   - scan 286 remains a full-page illustration;
+   - scan 287 already preserved the PDF-controlled narrative → separator → Natrinai quotation → provenance → `பொருள் விளக்கம்` structure;
+   - File6's duplicated separator/extraction artefact around `ஏனோ கலங்கினவே!` remains excluded; no repository changes were necessary in this section.
+
+5. **scans 288–291 — `வெறியாடும் வேலன் எதற்காக?`**
+   - metadata preserves the source-visible section identity;
+   - File6 locks the decorative body heading as `இவறியாடும் / வேலன் / எதற்காக?`; Gate B preserves that body reading rather than source-correcting it;
+   - scan 288 restores locked carryover `அவர்`; stray File6 numeric `66` remains excluded;
+   - scan 289 remains a full-page illustration;
+   - scans 290–291 were already structurally aligned, including the closing Ainkurunuru quotation, provenance, and glossary.
+
+6. **scans 292–295 — `ஒல்லையூரில் முல்லையோ?`**
+   - metadata preserves the source-visible section identity while File6-locked body heading `ஒல்லையூபில் / முல்லையோ?` is retained;
+   - scan 292 restores locked readings `திருமகனாம்`, `வல்லவனை`, `வள்ளல்தனை`, `கொடியிற்`, and `பரவிற்றாங்கே!`;
+   - scan 293 remains a full-page illustration;
+   - scans 294–295 already preserved the PDF-controlled elegy/quotation continuation, provenance, and glossary and required no change.
+
+7. **scans 296–298 — `மறு பிறப்பு உண்டென்றால் மறக்க நேரிடுமோ?`**
+   - File6's decorative-heading extraction is malformed as `மறு பிறப்பு / உண்டென்றால் / மறக்க ரூ / நேபிடுமோ?`;
+   - Gate B therefore removes the source-recovered body heading and retains the source-visible section identity only in metadata, deferring lexical heading resolution;
+   - scan 297 remains a full-page illustration;
+   - scan 298 was already structurally aligned through the Natrinai quotation, provenance, and glossary.
+
+8. **scans 299–300 — `உண்பது நாழி; உடுப்பவை இரண்டே!`**
+   - scan 299 was already aligned to File6 wording and PDF structure;
+   - scan 300 preserves the PDF-supported prose order where File6 extraction displaces `பயனாகும்!`, and keeps the source-lineated quotation while excluding the extraction bullet / merged printed-page furniture;
+   - the quotation remains open beyond this split and scan 300 is durably marked `continues_to_scan: 301`.
+
+### Illustration handling confirmed
+
+- scans **279, 283, 286, 289, 293, 297** are full-page colour illustrations;
+- no source-visible literary text or printed page number is present on those scans;
+- all six were reviewed and required **no repository change**.
+
+### Locked omissions / extraction exceptions carried forward
+
+- scan **278** — File6's post-illustration extraction displaced locked `அழகு!`; PDF authority returns it to scan 278 before illustration scan 279.
+- scan **281** — File6 omits source-visible `கிலு கிலுப்பை`, locks `கிறுகிறப்பு!`, and adds stray numeric `2`; omitted source words are not recovered into body text and numeric debris is excluded.
+- scan **287** — duplicated File6 separator/extraction artefact around `ஏனோ கலங்கினவே!` excluded.
+- scan **288** — source title begins `வெறியாடும்`; File6 locks `இவறியாடும்`. Metadata/body authority split preserved. Stray numeric `66` excluded.
+- scan **291** — stray File6 numeric `66` excluded.
+- scan **292** — source title is `ஒல்லையூரில் முல்லையோ?`; File6 locks `ஒல்லையூபில் / முல்லையோ?`. Metadata/body authority split preserved.
+- scan **296** — malformed File6 heading fragments are excluded from body text rather than source-recovered; source section identity retained in metadata only.
+- scan **300** — File6 ends mid-quotation with extraction marker and merged printed page number `288`; both are excluded, and continuation to scan 301 is recorded.
+
+## Exact changed-file audit — Batch B12
+
+Page-layer compare:
+
+`3d974197a36b2def8304538ae44bad9d9f970dba` → `523a93ab64fd4dc44846d02540ba0cd8b8a72b3e`
+
+Result:
+
+- **1 commit ahead**
+- **exactly 8 modified page files**
+- **0 other page files**
+- **0 non-page files at the page-layer endpoint**
+- scans **277, 279, 280, 283, 284, 285, 286, 287, 289, 290, 291, 293, 294, 295, 297, 298, 299** reviewed with no change
+
+Exact page-file set:
+
+- `works/sangatamil/pages/0276-andraikke-oru-kannagi-04.md`
+- `works/sangatamil/pages/0278-emakkuth-thendral-ethirikko-puyal-02.md`
+- `works/sangatamil/pages/0281-kilu-kiluppai-vazhangum-kirukiruppu-01.md`
+- `works/sangatamil/pages/0282-kilu-kiluppai-vazhangum-kirukiruppu-02.md`
+- `works/sangatamil/pages/0288-veriyaadum-velan-etharkaaga-01.md`
+- `works/sangatamil/pages/0292-ollaiyooril-mullaiyo-01.md`
+- `works/sangatamil/pages/0296-maru-pirappu-undendraal-marakkap-neridumo-01.md`
+- `works/sangatamil/pages/0300-unbathu-naazhi-uduppavai-irande-02.md`
+
+This progress-record update is the sole intended non-page change after the Batch B12 page-layer endpoint.
+
 ## Gate B cumulative state
 
-- structurally reviewed: **275/497**
-- structurally remaining: **222**
-- current frontier: **scan 276**
+- structurally reviewed: **300/497**
+- structurally remaining: **197**
+- current frontier: **scan 301**
 - Gate C: **NOT STARTED**
 
 ## Exact next activity
 
-Process **Gate B scans 276–300** against `TVA_BOK_0042551_சங்கத்_தமிழ்_part_006_pages_251-300.pdf` + `File6.md` — Phase 15 / Book Pages 264–288.
+Process **Gate B scans 301–325** against the next controlling split covering physical scans **301–350** and the corresponding Gemini lexical lock **File7.md**.
 
 Preserve the Gemini lexical lock and continue structural correction only. Do **not** start Gate C.
 
