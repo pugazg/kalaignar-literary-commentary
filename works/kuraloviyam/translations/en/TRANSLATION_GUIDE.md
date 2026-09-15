@@ -157,7 +157,7 @@ Do not begin a later Part until the active Part's required English review/releas
 
 **Current normal iteration size: 37 physical scan pages.**
 
-User directive updated on 2026-09-15 from 33 to **37** physical scans per normal future iteration. Historical completed batches retain the sizes at which they were actually processed. This user-directed cadence applies to active Kuraloviyam English page-batched workflow iterations. Historical completed batches retain the sizes at which they were actually processed. A final Part remainder may be shorter than 33 pages. Part-level review and release report are whole-Part gates.
+User directive updated on 2026-09-15 from 33 to **37** physical scans per normal future iteration. Historical completed batches retain the sizes at which they were actually processed. This user-directed cadence applies to active Kuraloviyam English page-batched workflow iterations. Historical completed batches retain the sizes at which they were actually processed. A final Part remainder may be shorter than 37 pages. Part-level review and release report are whole-Part gates.
 
 For first-pass drafting:
 
@@ -219,7 +219,7 @@ Part 001 covers overall scans 1–111.
 - Part-level review: **PASS**;
 - release: **CLOSED — 107 release-ready + 4 source-limited**.
 
-Historical Part 001 batch sizes are retained in the durable status/review records and are not retroactively changed by the current 33-page directive.
+Historical Part 001 batch sizes are retained in the durable status/review records and are not retroactively changed by the current 37-page directive.
 
 ## 14. Part 002 current English record
 
