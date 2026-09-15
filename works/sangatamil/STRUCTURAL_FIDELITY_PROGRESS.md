@@ -255,16 +255,111 @@ Exact page-file set:
 
 This progress-record update is the sole intended non-page change after the Batch B03 page-layer endpoint.
 
+## Batch B04 — scans 76–100
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-15**
+- scans reviewed: **76–100 / 25**
+- controlling source: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_002_pages_51-100.pdf`
+- lexical lock used: `File2.md`
+- batch base: `dc4ef67600a4c1660008c064b9a9e78f5cb18f57`
+- page-layer endpoint: `477c1ea96edc999ca9026d2c69f4c393c4b04d96`
+- structurally changed page records: **21**
+- reviewed with no page-record change: **4**
+- scan-led lexical corrections / modernizations: **0**
+- unresolved structural placement issues: **0**
+
+### Gate-B reconciliation performed
+
+This batch contained a substantial set of earlier source-led/provisional readings. They were returned to the **File2 lexical lock** while the PDF remained authoritative for physical placement and structure.
+
+Key structural findings and corrections:
+
+1. **File2 page-marker drift**
+   - File2 extraction boundaries do not always equal physical scan boundaries.
+   - In particular, File2 material labelled around pages 86–87 belongs together on physical **scan 87** after the scan-86 illustration.
+   - The repository now follows the physical PDF page sequence without changing the locked words.
+
+2. **Locked-word placement**
+   - locked words displaced by extraction were restored to scan-supported positions, including:
+     - scan 89 — `எனது`, `பதியில்`;
+     - scan 93 — right-offset `என்றும்`;
+     - scan 94 — `தேன்`;
+     - scan 97 — right-offset `நான்!` and `- அதனை`;
+     - scan 99 — `அவ்வானில்`, `ஆயினும்`.
+   - these are placement corrections only, not lexical substitutions.
+
+3. **Quotation / separator fidelity**
+   - literal source asterisks were protected from Markdown list interpretation where required;
+   - quotation, provenance and glossary blocks were kept in source order.
+
+4. **Illustration handling**
+   - scans **76, 82, 86, 92, 98** are full-page illustrations;
+   - no literary text or printed pagination is inferred where none is source-visible;
+   - scan 98 metadata was reconciled with the active section identity.
+
+5. **Non-source extraction debris removed / excluded**
+   - stray numeric OCR such as `66`;
+   - duplicated `குக்`;
+   - stray `அவர்கள்` and `அவள்` tokens unsupported by the scan;
+   - Gemini conversational phase narration.
+   These are not treated as locked literary wording because the PDF does not support them as source text.
+
+### Locked-source discrepancies carried forward
+
+- **scan 83** — source-visible introductory prose before the `அன்னச்சேவலே!` passage is absent from File2. It is not silently recovered into the Gate-B body; the discrepancy is documented.
+- **scan 96** — the source decorative heading is `உலைக் களத்து இரும்பும் ஒரு துளிநீரும்!`, while File2 locks a malformed extracted form `லேக் களத்து ளில் இரும்பும் ஒரு துளிநீரும்!`. The repository records the source section identity in metadata but preserves the File2 wording in the body heading. Resolution belongs to Gate C, not Gate B.
+
+## Exact changed-file audit — Batch B04
+
+Page-layer compare:
+
+`dc4ef67600a4c1660008c064b9a9e78f5cb18f57` → `477c1ea96edc999ca9026d2c69f4c393c4b04d96`
+
+Result:
+
+- **25 commits ahead**
+- **exactly 21 modified page files**
+- **0 other page files**
+- **0 non-page files at the page-layer endpoint**
+
+Exact page-file set:
+
+- `works/sangatamil/pages/0077-pisiranthaiyar-1-02.md`
+- `works/sangatamil/pages/0078-pisiranthaiyar-1-03.md`
+- `works/sangatamil/pages/0079-pisiranthaiyar-1-04.md`
+- `works/sangatamil/pages/0080-pisiranthaiyar-1-05.md`
+- `works/sangatamil/pages/0081-pisiranthaiyar-2-01.md`
+- `works/sangatamil/pages/0083-pisiranthaiyar-2-02.md`
+- `works/sangatamil/pages/0084-pisirandhaiyar-2-03.md`
+- `works/sangatamil/pages/0085-pisirandhaiyar-3-01.md`
+- `works/sangatamil/pages/0087-pisirandhaiyar-3-02.md`
+- `works/sangatamil/pages/0088-pisirandhaiyar-3-03.md`
+- `works/sangatamil/pages/0089-pisirandhaiyar-3-04.md`
+- `works/sangatamil/pages/0090-pisirandhaiyar-3-05.md`
+- `works/sangatamil/pages/0091-pisirandhaiyar-4-01.md`
+- `works/sangatamil/pages/0093-pisirandhaiyar-4-02.md`
+- `works/sangatamil/pages/0094-pisirandhaiyar-4-03.md`
+- `works/sangatamil/pages/0095-pisirandhaiyar-4-04.md`
+- `works/sangatamil/pages/0096-ulaik-kaathu-irumbum-oru-thaniveeran-01.md`
+- `works/sangatamil/pages/0097-ulaik-kaathu-irumbum-oru-thaniveeran-02.md`
+- `works/sangatamil/pages/0098-ulaik-kaathu-irumbum-oru-thaniveeran-illustration.md`
+- `works/sangatamil/pages/0099-ulaik-kaathu-irumbum-oru-thaniveeran-04.md`
+- `works/sangatamil/pages/0100-ulaik-kaathu-irumbum-oru-thaniveeran-05.md`
+
+This progress-record update is the sole intended non-page change after the Batch B04 page-layer endpoint.
+
 
 ## Gate B cumulative state
 
-- structurally reviewed: **75/497**
-- structurally remaining: **422**
-- current frontier: **scan 76**
+- structurally reviewed: **100/497**
+- structurally remaining: **397**
+- current frontier: **scan 101**
 - Gate C: **NOT STARTED**
 
 ## Exact next activity
 
-Process **Gate B scans 76–100** against `TVA_BOK_0042551_சங்கத்_தமிழ்_part_002_pages_51-100.pdf` + `File2.md`.
+Process **Gate B scans 101–125** against `TVA_BOK_0042551_சங்கத்_தமிழ்_part_003_pages_101-150.pdf` + `File3.md`.
 
 Preserve the Gemini lexical lock and continue structural correction only. Do **not** start Gate C.
