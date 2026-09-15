@@ -489,8 +489,25 @@ Whole six-Part maintained corpus:
 
 The four durable source limitations are Part 001 scans **13, 14, 15, 19**.
 
+## Derived section layer
+
+A non-destructive navigation layer now exists at:
+
+`sections/`
+
+S1 is **COMPLETE / PASS**:
+
+- **156** derived files;
+- front matter split into **7** source-derived sections;
+- Book/Iyal scaffold — **4 Aram + 7 Porul + 2 Inbam Iyal**;
+- **120** source-evidenced Adhikaram files;
+- exact source contents entries **1–300** preserved in **8** index files;
+- audited Tamil/English page files changed — **0**.
+
+Durable status: `sections/SECTIONS_BUILD_STATUS.md`.
+
 ## Current frontier
 
-**None — Kuraloviyam is fully closed across the supplied six-Part source family.**
+**Derived Sections S2 — entry-to-Adhikaram crosswalk for contents entries 1–300.**
 
-Reopen only for a genuinely new source/provenance/fidelity issue or an explicitly requested new derivative/output.
+The maintained archival/release workflow remains fully closed. S2 is downstream metadata only and must use audited page spans and closing Chapter/Kural metadata without external-edition inference.
