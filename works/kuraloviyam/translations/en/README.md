@@ -506,8 +506,27 @@ Release result:
 
 Part 006 Tamil remains **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified / 0 exceptions**.
 
+## Part 006 final closure — PASS / CLOSED
+
+Durable final record: `../../PART_006_FINAL_CLOSURE.md`.
+
+Part 006 closes at:
+
+- **111/111 English records release-ready**;
+- **0 editorial-reviewed / source-checked / draft / source-limited / blocked**;
+- Tamil **111/111 textual + visual verified**;
+- scan **666** as the unnumbered pictorial back cover and physical source endpoint;
+- **no external continuation**.
+
+Whole maintained English corpus:
+
+- **662 release-ready**;
+- **4 source-limited** — Part 001 scans **13, 14, 15, 19**;
+- **0 blocked**;
+- Parts **001–006** closed.
+
 ## Current frontier
 
-**Part 006 final closure checkpoint / documentation confirmation.**
+**None — the maintained Kuraloviyam English workflow is complete across all six Parts.**
 
-Create the final durable Part-006 closure record and synchronize the remaining whole-work control documents to the final Tamil + English closed state. This checkpoint should mark the six-part `குறளோவியம்` source family complete without changing approved page-layer content.
+Do not reopen a closed page or Part unless a genuinely new source/provenance/fidelity issue is discovered or the user explicitly requests a new derivative/output.
