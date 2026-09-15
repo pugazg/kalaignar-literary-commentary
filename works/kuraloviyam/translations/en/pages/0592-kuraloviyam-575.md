@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-"...and taking away its poison sac, then shutting it inside that box—and that only to make a living with the snake! But I have formed a friendship with mine. I live with it affectionately. We lie down and sleep together."
+"...remove its poisonous fangs, remove its poison sac, and only then raise it—shut inside that box! And that too only to make a living with the snake! But I have formed a friendship with mine. I live with it affectionately. We lie down and sleep together."
 
 It was his habit to boast like this.
 

@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-The old man, wrinkled like a dried mango, sat on a platform at the edge of the village. A few children with faces like the young sun stood around him, smiling brightly. In their hands were a sheaf of paddy, a mango, a bunch of flowers, and several other things.
+The old man, wrinkled like a mango with shrivelled skin, sat on a platform at the edge of the village. A few children with faces like the young sun stood around him, smiling brightly. In their hands were a sheaf of paddy, a mango, a bunch of flowers, and several other things.
 
 "Grandfather! Tell us what kind of soil this paddy crop grew in!" asked one boy.
 

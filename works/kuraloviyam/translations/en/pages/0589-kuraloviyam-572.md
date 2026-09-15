@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -23,6 +23,6 @@ Wanting the event to be distinguished in every way, they invited eminent leaders
 
 At the function, he was awarded the title "Patron of Steeds." The distinguished guests praised and congratulated him.
 
-Finally, the "Patron of Steeds" rose to offer thanks. A sudden desire seized him to show that he knew not merely horse-rearing but everything else as well...
+Finally, the "Patron of Steeds" rose to offer thanks. Not merely horse-rearing, but that he knew everything—
 
 <!-- Source scan page: 589; printed page: 572; 588→589 CLEAN; new horse-rearing expert / public-honour vignette begins and sentence continues directly to scan 590 -->

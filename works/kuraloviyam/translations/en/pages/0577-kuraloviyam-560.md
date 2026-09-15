@@ -13,7 +13,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 He was a man who upheld principles—yes! He worked to explain lofty ideals to the people of the world and to plant those ideals in their hearts.
 
-You too are a human being among humans—not earth beneath another's feet! A land without human equality is worse than a forest inhabited by beasts. One human exploiting another, one human deceiving another, looking at everything with a hostile heart, wandering with the urge for revenge—these are not qualities of human civilization.
+You too are a human being among humans—not mere earth! A land without human equality is worse than a forest inhabited by beasts. One human exploiting another, one human deceiving another, looking at everything with a hostile heart, wandering with the urge for revenge—these are not qualities of human civilization.
 
 To throw the lamp of reason into the mire and stumble in the darkness of superstition is madness. A steadfast heart is needed—one that does not value itself even by a sesame-point, yet cherishes self-respect as life itself.
 

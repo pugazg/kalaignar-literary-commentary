@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-...before that gathering. He began to speak. His address went like this:
+—a sudden desire arose in him to display this before that gathering. He began to speak. His address went like this:
 
 "Horses—not merely today or yesterday—have created a heroic tradition in our country from the age of history itself!
 

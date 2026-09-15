@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -29,6 +29,6 @@ But the hut was where it rested. His own bed was where it slept, coiled beside h
 
 "People raise deer; they raise pigeons in lofts; they raise little parrots and pet birds; they raise dogs and cats. But no one raises a snake the way I do!
 
-"Even if they do, they keep it inside a box after removing its poisonous fangs...
+"Even if they do, they make a box for it...
 
 <!-- Source scan page: 591; printed page: 574; new pet-snake / incompatible-companionship vignette begins and source-visible sentence continues directly to scan 592 -->
