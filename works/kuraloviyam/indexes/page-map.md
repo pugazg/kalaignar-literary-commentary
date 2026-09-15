@@ -771,4 +771,4 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 ## Current frontier
 
-**Part 006 documentation synchronization.**
+**Part 006 Tamil archival-ready checkpoint.**
