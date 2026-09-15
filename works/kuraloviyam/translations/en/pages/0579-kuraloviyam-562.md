@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -17,7 +17,7 @@ In the radiant season of youth he entered many fields of struggle for the freedo
 
 Jayaprakash Narayan was the name of that celebrated hero.
 
-Gandhiji himself pressed him to marry. He first refused, then finally agreed to marriage on one condition: until the country won freedom, husband and wife would live without physical relations.
+Gandhiji himself pressed for that courageous young man to be married. The one who first refused finally stated a condition and agreed to the marriage: until the country won freedom, husband and wife would live without physical relations.
 
 Accepting that condition, a woman named Prabhavati married him.
 

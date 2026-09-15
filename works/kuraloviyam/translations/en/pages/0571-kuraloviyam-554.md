@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-Today she will not bless it. She murmurs, as though in blessing, "Live long, O hour!" But it is no blessing. If it were a blessing, why would that lotus-face of words be wilted? Why would the upper lip press down upon the lower? Why would those pearl-like teeth bite the lower lip? Why would those eyes—which widen, fly far into the distance, and return clinging to the shoulders of her man—remain hidden behind the doors of their lids?
+Today she will not bless it. She murmurs, as though in blessing, "Live long, O hour!" But it is no blessing. If it were a blessing, why would that lotus face lie wilted? Why would the upper lip press down upon the lower? Why would those pearl-like teeth bite the lower lip? Why would those eyes—which widen, fly far into the distance, and return clinging to the shoulders of her man—remain hidden behind the doors of their lids?
 
 This evening is not one she can greet with joy. The reason: he is not in town. She cannot welcome an evening that does not let her see the beauty of his return, nor a night whose delight she cannot enjoy. She cannot bless them from the heart.
 

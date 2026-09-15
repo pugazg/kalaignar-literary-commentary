@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -21,6 +21,6 @@ This is Tamil Nadu, which created the image of a woman who, as dusk approaches, 
 
 That golden statue of Tamil womanhood blesses the whole span of time that gives her the hour called evening. Even in that colourful Tamil painting's blessing, "Live long, O hour!" there are two opposing emotions.
 
-Day after day she had blessed evening because it gave advance notice that dark night was coming—a night to be turned into a sweet night by drinking the juice of love. But...
+Day after day she had blessed evening because it gave advance notice that dark night was coming—a night to be turned into a sweet night by drinking fruit-juice—the juice of love. But...
 
 <!-- Source scan page: 570; printed page: 553; new separated-wife / evening vignette begins and continues directly to scan 571 -->

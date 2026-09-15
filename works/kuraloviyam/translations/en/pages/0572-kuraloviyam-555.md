@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,8 +19,8 @@ One day, while Uthiyan sat on the seashore in pleasant conversation with his fri
 
 Because the sea had turned violent and a great cyclone had arisen, all his ships had sunk. Those ships, carrying pepper, pearls, peacock feathers, rice and other goods for overseas trade, had shattered to pieces in mid-ocean.
 
-Hearing the news, Uthiyan clutched at his chest in pain and collapsed upon the sand.
+Hearing the news, Uthiyan writhed with chest pain and collapsed upon the sand.
 
-Nannan told the servant who had brought the message to take Uthiyan immediately to the physician's house. The servant said that the physician was walking somewhere along the shore and ran off to fetch him...
+Nannan told the servant who had brought the message to take Uthiyan immediately to the physician's house. The servant said that the physician was walking somewhere along the shore and that he would bring him. The servant...
 
 <!-- Source scan page: 572; printed page: 555; new Uthiyan / Nannan false-friendship vignette begins; physical sentence continues directly to scan 573 -->

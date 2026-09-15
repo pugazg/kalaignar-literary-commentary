@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-Nannan looked closely at Uthiyan, who lay unconscious. He knew that the green-stoned ring and the red-stoned ring glittering on Uthiyan's fingers were costly. Before the servant returned, Nannan dared to try removing them. He began to pull at them. Uthiyan groaned. Nannan immediately became the picture of a good man.
+...ran off. Nannan looked closely at Uthiyan, who lay unconscious. He knew that the green-stoned ring and the red-stoned ring glittering on Uthiyan's fingers were costly. Before the servant returned, Nannan dared to try removing them. He began to pull at them. Uthiyan groaned. Nannan immediately became the picture of a good man.
 
 By then the servant arrived with the physician. They carried Uthiyan to the physician's house. After a short treatment, Uthiyan opened his eyes. The physician happily announced that his life had been saved.
 
