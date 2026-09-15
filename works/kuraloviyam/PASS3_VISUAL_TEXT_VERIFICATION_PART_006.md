@@ -8,7 +8,7 @@
 - Final physical scan: **666 / unnumbered pictorial back cover**
 - Physical scans: **111**
 - Gate: **Pass 3 — meaningful visual/text fidelity verification**
-- Status: **IN PROGRESS — 22/111**
+- Status: **IN PROGRESS — 33/111**
 
 ## Preconditions
 
@@ -115,14 +115,52 @@ Because Batch 2 required no page-layer correction, the Pass-3 Batch-2 page-layer
 
 Exact compare `b2c8d842938a7e56f17c9010b2cd01b2f4025e94` → `b2c8d842938a7e56f17c9010b2cd01b2f4025e94` is **identical / 0 commits ahead / 0 behind / 0 changed files**.
 
+## Batch 3 — scans 578–588 / printed 561–571
+
+**Result: COMPLETE — 11 / 11.**
+
+Freshly rendered source scans were compared directly with the current canonical records for meaningful visual/text organization. **No structural or visual-description correction was required.** No lexical/body-text change was made.
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 578 | 561 | **NO STRUCTURAL CHANGE** — text-only genuine continuation/closure of the political/ethical leadership vignette; Chapter 90 / Kural 899 remains correctly grouped at the foot of the page. |
+| 579 | 562 | **NO STRUCTURAL CHANGE** — large upper illustration of Jayaprakash Narayan holding the tricolour beside Prabhavati remains above the prose; the vignette begins below and continues to scan 580. |
+| 580 | 563 | **NO STRUCTURAL CHANGE** — text-led continuation/closure; Chapter 6 / Kural 56 remains correctly separated above the small lower seated-statue page furniture. |
+| 581 | 564 | **NO STRUCTURAL CHANGE** — large upper illustration of the seated harmonium player arguing with another man remains above the prose; the birth/caste/occupation vignette begins below and continues to scan 582. |
+| 582 | 565 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Chapter 98 / Kural 972 remains correctly grouped at the foot of the page. |
+| 583 | 566 | **NO STRUCTURAL CHANGE** — large upper romantic illustration of the embracing couple beneath trees with a bird on a branch remains above the prose; the love/pulavi vignette begins below and continues to scan 584. |
+| 584 | 567 | **NO STRUCTURAL CHANGE** — text-led continuation/closure; Chapter 132 / Kural 1315 remains correctly separated above the small lower statue page furniture. |
+| 585 | 568 | **NO STRUCTURAL CHANGE** — large upper family-group illustration with the elderly man seated among children/adults remains above the prose; the soil/produce/lineage vignette begins below and continues to scan 586. |
+| 586 | 569 | **NO STRUCTURAL CHANGE** — text-led continuation/closure; Chapter 96 / Kural 959 and source gloss remain correctly grouped above the small lower decorative tower/chariot page furniture. |
+| 587 | 570 | **NO STRUCTURAL CHANGE** — large upper illustration of the displaced king in a cave speaking with supporters remains above the prose; the fallen-emperor / people's-leader vignette begins below and continues to scan 588. |
+| 588 | 571 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Chapter 12 / Kural 119 and source glosses remain correctly grouped at the foot of the page. |
+
+### Boundary / continuity result
+
+- Incoming **577→578 GENUINE CONTINUATION** remains confirmed.
+- **588→589 is CLEAN**, reconfirmed from scan **589 / printed 572**: scan 588 closes the fallen-emperor / people's-leader vignette, while scan 589 begins a new horse-rearing expert / public-honour vignette.
+- Scan 589 was used only as the outgoing witness and is **not** counted in Batch 3.
+
+### Batch 3 correction summary
+
+- Structural/visual-description corrections: **0**.
+- Lexical/body-text changes: **0**.
+- No-change scans: **578–588 — 11 pages**.
+- Status promotions: **0**.
+- All Part-006 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+
+Because Batch 3 required no page-layer correction, the Pass-3 Batch-3 page-layer endpoint is the pre-batch checkpoint itself: `51642b8e999a501029832cb95e0d238fd11d131f`.
+
+Exact compare `51642b8e999a501029832cb95e0d238fd11d131f` → `51642b8e999a501029832cb95e0d238fd11d131f` is **identical / 0 commits ahead / 0 behind / 0 changed files**.
+
 ## Current gate
 
-Part 006 Pass 3 cumulative coverage: **22/111**.
+Part 006 Pass 3 cumulative coverage: **33/111**.
 
 Exact next batch:
 
-**Batch 3 — scans 578–588 / printed 561–571 — 11 physical scans.**
+**Batch 4 — scans 589–599 / printed 572–582 — 11 physical scans.**
 
-Preserve incoming **577→578 GENUINE CONTINUATION**. Inspect scan **589 / printed 572** only as the outgoing continuity witness if required.
+Preserve incoming **588→589 CLEAN**. Inspect scan **600 / printed 583** only as the outgoing continuity witness if required.
 
 Pass 3 remains meaningful visual/text fidelity verification, not another lexical reread. Do not promote final status.
