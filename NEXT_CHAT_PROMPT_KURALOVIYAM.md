@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 006 English Source-Check SC1
+# NEXT CHAT PROMPT — குறளோவியம் / Part 006 English Source-Check SC2
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -43,55 +43,66 @@ Current user-directed normal batch size:
 
 Draft D1:
 
-- scans **556–592 / printed 539–575**;
-- **37/37 COMPLETE / PASS**;
-- page-layer endpoint — `8ca4baeb33a8a45d13df372dc97acc705c1398e3`.
+- scans **556–592 / printed 539–575** — **COMPLETE / PASS 37/37**.
 
 Draft D2:
 
-- scans **593–629 / printed 576–612**;
-- **37/37 COMPLETE / PASS**;
-- page-layer endpoint — `9c09dfe256eb72e75beccc4ff6ba0d8c87e922da`.
+- scans **593–629 / printed 576–612** — **COMPLETE / PASS 37/37**.
 
 Draft D3:
 
-- scans **630–666**;
-- printed **613–648** plus scan **666 / unnumbered pictorial back cover**;
-- **37/37 COMPLETE / PASS**;
-- page-layer base — `f88a79c563871669c96533c07d5d50f0f87d1e17`;
-- page-layer endpoint — `8a87fbe5cf0ee36858111f693805eb4ab64ad8b0`;
-- exact compare — **5 commits / exactly 37 new English page files / 0 non-page changes / 0 Tamil changes**;
-- `translation_type: "project_translation"` — **37/37**;
-- `status: "draft"` — **37/37**;
-- `source_tamil_status: "verified"` — **37/37**;
-- scans **630–666** represented exactly once;
+- scans **630–666 / printed 613–648 + unnumbered back cover** — **COMPLETE / PASS 37/37**.
+
+## Part 006 Source-Check SC1 — COMPLETE / PASS 37/37
+
+SC1 range:
+
+**scans 556–592 / printed 539–575**
+
+SC1 page-layer base:
+
+`0b3d8a701d5db04164f969b15d1d0090622cc664`
+
+SC1 page-layer endpoint:
+
+`8baca75a8efd00db5a05de425305f244c1c19120`
+
+Exact SC1 compare:
+
+- **3 commits ahead / non-divergent**;
+- exactly **37 modified English page files**;
+- scans **556–592** represented exactly once;
 - missing scans — **0**;
-- duplicate scans — **0**.
+- duplicate scans — **0**;
+- Tamil page changes — **0**;
+- non-English-page/control-file changes during the SC1 page layer — **0**;
+- `source-checked` — **37/37**;
+- `source_tamil_status: "verified"` — **37/37**;
+- `translation_type: "project_translation"` — **37/37**.
 
-D3 page-function handling:
+SC1 source-fidelity repairs:
 
-- incoming **629→630 GENUINE CONTINUATION** preserved;
-- scans **658–665** preserve the complete `பொருளடக்கம்` run;
-- on scans **658–665**, Tamil Kural incipits are retained verbatim as source index keys and printed-page locators are preserved exactly;
-- scan **665** includes the translated fourth-edition orthography note and identifies the blue library stamp as non-source material;
-- scan **666** is a factual pictorial back-cover record with no invented body prose;
-- **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT** preserved;
-- **666 — NO EXTERNAL CONTINUATION** preserved.
+- **16 page files** — scans **562, 564, 565, 566, 567, 570, 571, 572, 573, 577, 579, 585, 589, 590, 591, 592**;
+- **21 page files** changed only by `draft` → `source-checked`;
+- audited physical-page continuities were restored at **564→565**, **566→567**, **572→573**, **589→590**, and **591→592**;
+- incoming **555→556 CLEAN / source-resolved** preserved;
+- outgoing **592→593 CLEAN** preserved;
+- no published, standard, web, or remembered English Kural wording was imported.
 
-Current Part-006 English inventory:
+Current Part-006 English state:
 
-- `draft` — **111**;
-- `source-checked` — **0**;
+- `source-checked` — **37**;
+- `draft` — **74**;
 - `editorial-reviewed` — **0**;
 - `release-ready` — **0**;
 - `source-limited` — **0**;
 - `blocked` — **0**.
 
-## Exact next activity — Source-Check SC1
+## Exact next activity — Source-Check SC2
 
 Process exactly:
 
-**scans 556–592 / printed 539–575 — 37 English page records.**
+**scans 593–629 / printed 576–612 — 37 English page records.**
 
 For every page, compare the English record directly against its audited Tamil counterpart:
 
@@ -99,7 +110,7 @@ For every page, compare the English record directly against its audited Tamil co
 - dialogue turn by dialogue turn;
 - Kural block by Kural block;
 - metadata and glosses;
-- factual visual/non-body material;
+- factual visual/non-body material where relevant;
 - source/page-function notes where relevant;
 - cross-page continuations.
 
@@ -128,31 +139,38 @@ Source-check is not a stylistic rewrite gate. Make only corrections required for
 
 Do not import published, standard, web, or remembered English Kural wording.
 
-## SC1 boundaries
+## SC2 boundaries
 
 Incoming:
 
-- **555→556 CLEAN / source-resolved**.
+- **592→593 CLEAN**.
 
 Outgoing:
 
-- **592→593 CLEAN**.
+- **629→630 GENUINE CONTINUATION**;
+- scan 629 begins the `காதற் சிறப்புரைத்தல்` / lover-in-the-heart vignette;
+- scan 630 continues that same vignette and remains outside SC2.
 
-Do not create a narrative continuation across either clean boundary.
+Do not force narrative closure at the SC2 batch boundary.
 
-## Required SC1 completion audit
+## Required SC2 completion audit
 
-After SC1:
+After SC2:
 
-- confirm **37/37** pages scans **556–592** have been directly source-checked;
+- confirm **37/37** pages scans **593–629** have been directly source-checked;
 - confirm each passing page is `status: "source-checked"`;
-- confirm scans **593–666** remain `draft`;
+- confirm scans **630–666** remain `draft`;
 - record all wording corrections by scan;
-- compare the pre-SC1 page-layer base to the SC1 endpoint;
+- compare the pre-SC2 page-layer base to the SC2 endpoint;
 - require changes only inside `works/kuraloviyam/translations/en/pages/`;
 - confirm **0 Tamil page changes**;
 - update `TRANSLATION_STATUS.md` and relevant control docs.
 
-After SC1, the next source-check batch under the 37-page cadence is:
+After SC2, current Part-006 English state should be:
 
-**SC2 — scans 593–629 / printed 576–612 — 37 pages.**
+- `source-checked` — **74**;
+- `draft` — **37**.
+
+The next source-check batch under the 37-page cadence will be:
+
+**SC3 — scans 630–666 — 37 physical scans**, covering printed **613–648** plus scan **666 / unnumbered pictorial back cover**.
