@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "decorative multicolour section heading; body text; printed page number 311"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; section heading and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -30,12 +30,16 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 போற்றத்தகும் பரிசில்பெற்று இன்பம்பெறலாம் என்றுரைத்து;
 ஊற்றுப்பெருக்கனைய உலகூட்டும் நல்லோரை வல்லோரை - அவர்
 வீற்றிருந்து வாழ்கின்ற ஆள்கின்ற நிலப்பகுதிப் பெருவளத்தை;
+<div align="right">- கனிச்</div>
 சாற்றுத் தமிழ்க் கவியாலே பாடிக் காணிக்கையாக்குதலே
 ஆற்றுப்படை என ஆகுமென்பார் ஆன்றோர், சான்றோர்!
 
-கடியலூர் உருத்திரங் கண்ணனாரின் பெரும்பாணாற்றுப்படையோ
+கடியலூர் உருத்திரங் கண்ணனாரின் பெரும்பாணாற்றுப்
+<div align="right">படையோ</div>
 காஞ்சிநகராண்ட கலைக்காவலன் தொண்டைமானின் ஊர்ச்சிறப்பும்,
 மிடியிலார் ஆடவர்; மெல்லியலாரும் அவ்வாறே எனும்
 பெருஞ் சிறப்பும்,
 குடிப்பெருமை கூறுகின்ற தமிழ்க்குலச்சிறப்பும் கொண்டதோர்
 புதையலாகும்!
+
+<!-- Gate B restores File7-locked `கனிச்` to its PDF-supported right-edge position before `சாற்றுத் தமிழ்க் கவியாலே`, and restores locked `படையோ` as the right-edge continuation of `பெரும்பாணாற்றுப்`. -->

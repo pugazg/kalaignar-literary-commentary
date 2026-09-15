@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; narrative continuation; printed page number 298"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 309
 ---
@@ -30,7 +30,6 @@ continues_from_scan: 309
 வேந்தர்கள் வெகுண்டெழுந்து தலைதனையே
 வெட்டி வீழ்த்தும் காலம் அது!
 
-அந்தப்
 நீராட்டி எடுத்து வர வீரர் சிலர் - அந்தப்
 போராட்டக் கள முரசை அகற்றியதால்
 விபரம் தெரியா வித்தகப்புலவர் - அதில்
@@ -55,3 +54,5 @@ continues_from_scan: 309
 கண்டிப்பு ஆணையென இருப்பதாலே
 மண்டியிட்ட வீரன், மன்னனது கண்ணசைவை
 மரியாதையுடனே எதிர்நோக்கிக் கொண்டிருந்தான்!
+
+<!-- Gate B moves the single File7-locked `அந்தப்` to the PDF-supported end of `நீராட்டி எடுத்து வர வீரர் சிலர் - அந்தப்`, removing the duplicate structural placement. -->

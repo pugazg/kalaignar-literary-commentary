@@ -6,9 +6,9 @@ section: "பரிபாடல்- பன்மலர்ப் பூங்க�
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "running author header; narrative continuation and opening of Paripadal quotation; printed page number 295; source-visible 'நீர்வாணக்' and 'பிளிறிற்றங்கே' retained against Gemini corruption"
+visual_notes: "running author header; narrative continuation and opening of Paripadal quotation; printed page number 295; File7 lexical lock preserved while obvious mixed-script extraction debris is excluded"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; ambiguous/corrupted words and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 306
 ---
@@ -23,14 +23,14 @@ continues_from_scan: 306
 உயிர் குடிக்கப் போகுதென்று அஞ்சியோடி
 நீராடிக் கொண்டிருந்த பெண்களையும் கலங்கச் செய்து,
 அவர்கள்
-நீர்வாணக் கோலத்தில் நீருக்குள்ளிருந்து துள்ளி
+நிர்வாணக் கோலத்தில் நீருக்குள்ளிருந்து துள்ளி
 நிலைகுலைய எழுந்தோட முயன்று பின்னர் நிலையறிந்து
 நாணமுற்று நீருக்குள் சிதறலானார்!
 
 காதலி யானைக்கு விளைந்த துன்பம் யாதோ என்று
 களிற்று யானை முழக்கம் செய்து துதிக்கை தூக்கி
 போருக்கு வாள் தூக்கிப் புறப்பட்ட தளபதி போல்
-யாருக்கும் அடங்காமல் பிளிறிற்றங்கே!
+யாருக்கும் அடங்காமல்
 பெரும்பாடுபட்டுப் பாகன் அங்குசத்தால் அடக்கப்
 பார்த்து - அது
 வெறும் பாடாய்ப் போனதினால் வேறு வழியின்றி
@@ -56,3 +56,5 @@ continues_from_scan: 306
 > நடத்த நடவாது நிற்ப; மடப்பிடி
 > அன்னம் அனையாரோ டாயா நடைக்கரிமேல்
 > செல்மனம் மாலுறுப்பச் சென்றெழின் மாடத்துக்
+
+<!-- Gate B restores File7-locked `நிர்வாணக்`; File7 token `பிOPற்றங்கே!` is obvious mixed-script extraction debris, so it is excluded rather than source-recovered as `பிளிறிற்றங்கே!`. -->

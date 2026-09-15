@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running author header; source quotation continuation and closure; provenance; பொருள் விளக்கம்; final ornament; printed page number 301"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; quotation/provenance/gloss structure and visible wording checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 312
 ---
@@ -30,7 +30,7 @@ continues_from_scan: 312
 
 ## பொருள் விளக்கம் :
 
-விசித்த = வலித்துப்பிணைத்த. வார்புஉறுவள்பின் = வாரப்பட்ட
+விசித்த = வலித்துப்பிணைத்த. வார்புறுவள்பின் = வாரப்பட்ட
 வாரையுடைய. மைபடுமருங்குல் = கருமரத்தால் செய்த உறுதி
 வாய்ந்த முரசின் பகுதி. மஞ்ஞை = மயில். மண்ணி வாரா
 அளவை = நீராடி வருவதன் முன்னே. மென்பூஞ்சேக்கை =
@@ -38,3 +38,5 @@ continues_from_scan: 312
 இருபாற்படுக்கும் = இரு கூறாகப் பிளக்கும். மதனுடை =
 வலிமை வாய்ந்த. தண்ணென வீசியோய் = சாமரங்கொண்டு
 குளிர வீசினாய். வலம்படு குருசில் = வெற்றியுடைய தலைவனே.
+
+<!-- Gate B preserves File7-locked glossary reading `வார்புறுவள்பின்`; quotation lineation and provenance/gloss placement remain controlled by the PDF. -->

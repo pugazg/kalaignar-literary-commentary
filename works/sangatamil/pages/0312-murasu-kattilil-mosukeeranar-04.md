@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; narrative continuation; source quotation begins in lower half and continues to next scan; printed page number 300"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; dialogue, quotation start, and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 311
 ---
@@ -34,14 +34,14 @@ continues_from_scan: 311
 ஆவி போக்கிடும் தண்டனையிருந்தும் — எனைக்
 கூவியெழுப்பிக் கொல்லுதல் விடுத்து
 கொற்றவனே தன் கையால் எனக்குக்
-குளிர் சாமரம் வீசுகின்ற காட்சி என்னே?” என்றுயர்ந்தார்
+குளிர் சாமரம் வீசுகின்ற காட்சி என்னே?” என்றர்ந்தார்
 புலவர்!
 
 “தமிழுக்குத் தொண்டு செய்தால் - அந்தத்
 தமிழ் உள்ளளவும் வாழ்வோம் என்ற
 தன்னலத்தால்; தமிழேவடிவாக
 என்னகத்தே வந்துள்ள தங்களுக்கு
-நான் செய்த தொண்டு இஃதே” என்றான் சேரன்!
+நான் செய்த தொண்டு இஃதெ” என்றான் சேரன்!
 தேன் பெய்த பழச்சாறாய்ப் பாட்டொன்றைப் பரிசாய்த்தந்தார்
 புலவர்!
 
@@ -55,3 +55,5 @@ continues_from_scan: 311
 > மண்ணி வாரா அளவை, எண்ணெய்
 > நுரைமுகந் தன்ன மென்பூஞ் சேக்கை
 > அறியாது ஏறிய என்னைத், தெறுவர,
+
+<!-- Gate B preserves File7-locked readings `என்றர்ந்தார்` and `இஃதெ` while keeping displaced `புலவர்!`, `எனைக்`, and `இந்தச்` in their PDF-supported structural positions; stray File7 numeric `66` remains excluded. -->
