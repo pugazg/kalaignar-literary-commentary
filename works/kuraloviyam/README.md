@@ -416,9 +416,15 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - archival-ready record — `PART_006_TAMIL_ARCHIVAL_READY.md`;
 - Part 006 Tamil — **ARCHIVAL-READY / CLOSED — 111/111 textual verified + 111/111 visual verified / 0 exceptions**;
 - Part-006 English inventory at Tamil closure — **0/111 page records**;
-- current English batch cadence — **33 physical scans**;
-- exact next stage — **Part 006 English Draft D1 / scans 556–588 / printed 539–571 — 33 pages**.
+- current English batch cadence — **37 physical scans**;
+- English Draft D1 — **COMPLETE / PASS 37/37**;
+- D1 range — **scans 556–592 / printed 539–575**;
+- D1 page-layer base — `411fc0fdad71c2b94ef5c17f68dece42e744089d`;
+- D1 page-layer endpoint — `8ca4baeb33a8a45d13df372dc97acc705c1398e3`;
+- D1 exact compare — **6 commits / exactly 37 new English page files / 0 non-page changes / 0 Tamil changes**;
+- current English status — **37 draft / 74 not yet drafted / 0 source-checked / 0 blocked**;
+- exact next stage — **Part 006 English Draft D2 / scans 593–629 / printed 576–612 — 37 pages**.
 
 ## Current frontier
 
-**Part 006 English Draft D1 — scans 556–588 / printed 539–571 — 33 pages.**
+**Part 006 English Draft D2 — scans 593–629 / printed 576–612 — 37 pages.**
