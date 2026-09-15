@@ -199,3 +199,28 @@ OCR or model-generated readings may not override the scan.
 ## Authority rule
 
 The supplied scan is the controlling source for this edition. No web transcription, remembered Thirukkural wording, later edition or external commentary may silently replace what is printed here.
+
+
+## Final maintained source-family closure
+
+The complete supplied `குறளோவியம்` source family is now closed across Parts **001–006 / scans 1–666**.
+
+Final source endpoint:
+
+- scan **665 / printed 648** — final contents page;
+- scan **666** — unnumbered pictorial back cover;
+- **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**;
+- **666 NO EXTERNAL CONTINUATION**.
+
+Final archival/release disposition:
+
+- Tamil textual — **662 verified + 4 partial/source-limited**;
+- Tamil visual fidelity — **666/666 verified**;
+- maintained English — **662 release-ready + 4 source-limited**;
+- blocked — **0**.
+
+The four source-limited records are Part 001 scans **13, 14, 15, 19** and remain intentionally unreconstructed.
+
+Part 006 durable closure: `works/kuraloviyam/PART_006_FINAL_CLOSURE.md`.
+
+There is no active later Part or deferred source boundary after scan 666.
