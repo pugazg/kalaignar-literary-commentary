@@ -339,7 +339,7 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - SC4 page-layer audit — **12 modified English page records / 0 Tamil changes / 0 control-file changes**;
 - **555→556 CLEAN**.
 
-## Part 006 — AUDIT PASS / FINAL STATUS SYNC NEXT
+## Part 006 — FINAL STATUS SYNC CLOSED / DOCUMENTATION SYNC NEXT
 
 - source intake — **PASS / COMPLETE**;
 - scans — **556–666**;
