@@ -250,15 +250,29 @@ SC1:
 - incoming **555→556 CLEAN / source-resolved** preserved;
 - outgoing **592→593 CLEAN** preserved.
 
+## Part 006 English source-check — SC2 COMPLETE / PASS 37/37
+
+SC2:
+
+- scans **593–629 / printed 576–612**;
+- **37/37 source-checked**;
+- page-layer base — `ce140cb9a2b23b860772ee649de473ffde8fc9dc`;
+- page-layer endpoint — `0c2d08993de3ba3d8b4df9c8bd5fe12b58ed22c0`;
+- exact compare — **3 commits / exactly 37 modified English page files / 0 non-page changes / 0 Tamil changes**;
+- source-fidelity repairs — **8 page files / scans 603, 604, 608, 609, 610, 611, 615, 620**;
+- status-only promotions — **29 page files**;
+- incoming **592→593 CLEAN** preserved;
+- outgoing **629→630 GENUINE CONTINUATION** preserved.
+
 Current Part-006 English inventory:
 
-- `source-checked` — **37**;
-- `draft` — **74**;
+- `source-checked` — **74**;
+- `draft` — **37**;
 - not yet drafted — **0**;
 - editorial-reviewed / release-ready / source-limited / blocked — **0**.
 
 ## Current frontier
 
-**Part 006 English Source-Check SC2 — scans 593–629 / printed 576–612 — 37 pages.**
+**Part 006 English Source-Check SC3 — scans 630–666 — 37 physical scans**, covering printed **613–648** plus scan **666 / unnumbered pictorial back cover**.
 
-Compare each English page against the audited Tamil record paragraph-by-paragraph / block-by-block. Only a passing page may move from `draft` to `source-checked`.
+Preserve the complete contents run on scans **658–665**, the pictorial back cover on scan **666**, and the final physical source endpoint exactly. Only a passing page may move from `draft` to `source-checked`.
