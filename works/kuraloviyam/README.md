@@ -506,8 +506,29 @@ S1 is **COMPLETE / PASS**:
 
 Durable status: `sections/SECTIONS_BUILD_STATUS.md`.
 
+## Derived sections S2 — COMPLETE / PASS
+
+The section hierarchy is now fully populated as:
+
+**Book → Iyal → Adhikaram → Kuraloviyam contents entry**
+
+S2 final state:
+
+- contents entries processed — **300/300**;
+- fully resolved — **298**;
+- partial source metadata — **2**: entries **46, 104**;
+- unresolved — **0**;
+- source-evidenced Chapter numbers — **121/133**;
+- Chapter numbers not evidenced by the 300 entry closures — **1, 18, 22, 25, 44, 52, 70, 76, 86, 91, 106, 107**;
+- Tamil page-layer mutations — **0**;
+- English page-layer mutations — **0**.
+
+Entry **202** is preserved as a source-proven shared-page overlap through printed page 435 / scan 452.
+
+Durable status: `sections/SECTIONS_BUILD_STATUS.md`.
+
 ## Current frontier
 
-**Derived Sections S2 — entry-to-Adhikaram crosswalk for contents entries 1–300.**
+**No required section activity remains.**
 
-The maintained archival/release workflow remains fully closed. S2 is downstream metadata only and must use audited page spans and closing Chapter/Kural metadata without external-edition inference.
+Optional next downstream step: **S3 — individual entry leaf records / web-ready navigation index**.
