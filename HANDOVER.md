@@ -494,8 +494,13 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - documentation synchronization — **COMPLETE / PASS**;
 - documentation-sync record — `works/kuraloviyam/PART_006_DOCUMENTATION_SYNC.md`;
 - documentation-only page-layer changes — **0**;
-- exact next stage — **Part 006 Tamil archival-ready checkpoint**.
+- Tamil archival-ready checkpoint — **PASS / CLOSED**;
+- archival-ready record — `works/kuraloviyam/PART_006_TAMIL_ARCHIVAL_READY.md`;
+- Part 006 Tamil — **ARCHIVAL-READY / CLOSED — 111/111 textual verified + 111/111 visual verified / 0 exceptions**;
+- Part-006 English inventory at Tamil closure — **0/111 page records**;
+- current normal English batch size — **33 physical scans**;
+- exact next stage — **Part 006 English Draft D1 / scans 556–588 / printed 539–571 — 33 pages**.
 
 ## Exact next activity — குறளோவியம்
 
-Perform the separate **Part 006 Tamil archival-ready checkpoint** using the closed Part-005 precedent. Confirm the full evidence chain and 111/111 textual + visual verified state with 0 exceptions. Do not modify page-layer Tamil content or statuses. Do not start English translation until this checkpoint closes.
+Proceed with **Part 006 English Draft D1 — scans 556–588 / printed 539–571 — 33 page-aligned records**. Use audited Tamil page records as the normal authority. Follow the project-created English translation guide and do not import published/web/standard English Kural wording.
