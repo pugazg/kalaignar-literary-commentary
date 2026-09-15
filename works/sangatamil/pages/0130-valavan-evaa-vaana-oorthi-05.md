@@ -7,14 +7,18 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "fast direct transcription from source scan; verification intentionally deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
-(புறநானூறு : பாடல் : 27  
-பாடியவர் : உறையூர் முதுகண்ணன் சாத்தனார்)
+## பொருள் விளக்கம் :
 
-பொருள் விளக்கம் :
+<div align="right">
+
+(புறநானூறு : பாடல் : 27  
+பாடியவர் : உறையூர் முதுக்கண்ணன் சாத்தனார்)
+
+</div>
 
 பயந்த = பூத்த. ஒண்கேழ் = ஒளிபொருந்திய நிறம்.  
 விழுத்திணை = உயர்குடி. மரையிலை = தாமரையிலை.  
@@ -24,6 +28,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 
 <div align="center">*</div>
 
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
-<!-- One-pass readings remain provisional for Pass 2. -->
+<!-- Gate B restores File3 glossary/provenance wording and scan-supported ordering; File3's stray numeric `6` in `வலவன் =6` is excluded as non-source OCR debris. -->
 <!-- மூல ஸ்கேன் பக்கம்: 130; அச்சுப் பக்கம்: 115 -->
