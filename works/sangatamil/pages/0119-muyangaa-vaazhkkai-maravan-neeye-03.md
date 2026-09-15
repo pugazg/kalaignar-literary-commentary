@@ -2,16 +2,16 @@
 scan_page: 119
 printed_page: "104"
 work: "sangatamil"
-section: "முயங்கா வாழ்க்கை மறவன் நீயே!"
+section: "மயங்கா மார்புடை மறவன் நீயே!"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "fast direct transcription from source scan; verification intentionally deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
-நீதியும் நெறியும் சாயா நேர்மையே உன்னுட்சியென  
+நீதியும் நெறியும் சாயா நேர்மையே உன்னாட்சியென  
 வீதியில் முரசம் விதிமுறைப்படி ஒலிக்குமே!
 
 பிழையினை உணர்ந்தோர் திருந்திப்பணிந்திடின் - அன்பு  
@@ -21,7 +21,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 வாழ்த்தினைப் பெற்றிடும் பொற்புடை அரசியின்
 
 மாங்கனி மேனி, பட்டால் மட்டுமே மயங்குமேயன்றி;  
-மாற்றார் கண்கள் ஆயிரம் வரினும் மயங்கா மார்புடை மறவன்  
+மாற்றார் கணைகள் ஆயிரம் வரினும் மயங்கா மார்புடை மறவன்  
 நீயே!”
 
 இவ்வாறு  
@@ -33,7 +33,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 
 <div align="center">*</div>
 
-> * “தென்பரதவர் மிடல் சாய  
+> \* “தென்பரதவர் மிடல் சாய  
 > வடவடுகர் வாள் ஓட்டிய  
 > ... ... ... ... ... ...  
 > ... ... ... ... ... ...  
@@ -45,9 +45,9 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 > அரைக்கமை மரபின மிடற்றியாக் குநரும்,  
 > மிடற்றமை மரபின அரைக்குயாக் குநரும்,  
 > கடுந்தெறல் இராமன் உடன்புணர் சீதையை  
-> வலித்தொகை ‘அரக்கன்’ வெளவிய ஞான்றை  
-> நிலஞ்சேர் மதரணி கண்ட குரங்கின்  
-> செம்முகப் பெருங்கிளை இழைப்பொலிந்தாங்கு  
+> வலித்தொகை ‘அரக்கன்’ வௌவிய ஞான்றை  
+> நிலஞ்சேர் மதர்அணி கண்ட குரங்கின்  
+> செம்முகப் பெருங்கிளை இழைப்பொலிந்தா அங்கு  
 > அறாஅ அருநகை இனிதுபெற் றிகுமே  
 > இருங்கிளைத் தலைமை எய்தி  
 > அரும்படர் எவ்வம் உழந்ததன் தலையே”
@@ -58,6 +58,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 
 </div>
 
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
-<!-- A few readings remain provisional for Pass 2. -->
+<!-- Gate B restores File3 wording. The scan-supported placement of `மறவன் நீயே!` is retained before the explanatory prose despite File3 extraction drift; the quotation asterisk is preserved literally. -->
 <!-- மூல ஸ்கேன் பக்கம்: 119; அச்சுப் பக்கம்: 104 -->
