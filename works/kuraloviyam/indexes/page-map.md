@@ -762,7 +762,11 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - documentation synchronization — **COMPLETE / PASS**;
 - documentation-sync record — `../PART_006_DOCUMENTATION_SYNC.md`;
 - documentation-only page-layer changes — **0**;
-- next stage — **Part 006 Tamil archival-ready checkpoint**.
+- Tamil archival-ready checkpoint — **PASS / CLOSED**;
+- archival-ready record — `../PART_006_TAMIL_ARCHIVAL_READY.md`;
+- Part 006 Tamil — **ARCHIVAL-READY / CLOSED — 111/111 textual verified + 111/111 visual verified / 0 exceptions**;
+- Part-006 English inventory — **0/111** at Tamil closure;
+- next stage — **Part 006 English Draft D1 / scans 556–588 / printed 539–571 — 33 pages**.
 - SC4 endpoint — `113846a357544a33b73d727d20115471f2f3411f`;
 - SC4 exact page-layer compare — **12 modified English page files only**;
 - fidelity corrections — **4 page files / scans 549, 550, 553, 555**;
