@@ -25,7 +25,6 @@ continues_to_scan: 223
 கன்றாய் வளர்ந்து இள மரமாய்ச் செழித்தது!  
 நெய்யும் பாலும் அப்புன்னையின் வேரில்  
 பெய்து வளர்த்தாள் பேரழகுப் பதுமை!  
-அது  
 அன்னை வளர்த்ததோ, அழகு மகளை! மகளோ ;  
 புன்னை வளர்த்துப் பூரிப்பு கொண்டாள்.  
 ஒரு நாள் அன்னை; ஓவிய மகளை அன்புடன் நோக்கி;  
@@ -47,5 +46,5 @@ continues_to_scan: 223
 குலக்கொடி இமைகளை மூடித் தழுவினான் என்று, அந்த  
 விளக்கொளி விழியாள் ஒரு விநாடியில் உணர்ந்தாள்!  
 
-<!-- Gate B restores File5 wording and source-supported placement of அது and என்; stray File5 numeric 66 is excluded. -->
+<!-- Gate B restores File5 wording and source-supported placement of the displaced அது and என் carryovers; the duplicate extraction placement of அது is not retained. Stray File5 numeric 66 is excluded. -->
 <!-- மூல ஸ்கேன் பக்கம்: 222; அச்சுப் பக்கம்: 209 -->
