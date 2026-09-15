@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed 2026-09-15: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gate B B01–B15 is COMPLETE through scan 375 with frontier scan 376.
+Last refreshed 2026-09-15: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gate B B01–B16 is COMPLETE through scan 400 with frontier scan 401.
 
 ## Repository
 
@@ -43,9 +43,9 @@ Gate A: **COMPLETE / PASS**.
 
 Current gate: **Gate B — Gemini-locked structural fidelity**.
 
-Durable Gate-B state: **375/497 structurally reviewed / 122 remaining / frontier scan 376 / Gate C NOT STARTED**.
+Durable Gate-B state: **400/497 structurally reviewed / 97 remaining / frontier scan 401 / Gate C NOT STARTED**.
 
-Exact next activity: **B16 scans 376–400** using the remainder of TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf for structure/presentation and File8.md for locked lexical wording.
+Exact next activity: **B17 scans 401–425** using `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf` for structure/presentation and `File9.md` for locked lexical wording.
 
 ## Mandatory startup — active சங்கத் தமிழ் work
 
@@ -172,6 +172,8 @@ For every batch:
 11. fetch live `main` again and record the next frontier.
 
 When the user says **“proceed with next activity”**, execute the recorded next batch directly. Do not merely explain the plan, ask for files already supplied, or stop because the controlling source has been split.
+
+Durable B15 correction: scan 359 is mixed text/illustration, not illustration-only; File8 page 348 is physically redistributed across scans 358–360.
 
 # Exact next activity — சங்கத் தமிழ்
 

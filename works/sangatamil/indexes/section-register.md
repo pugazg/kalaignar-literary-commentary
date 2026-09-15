@@ -4,7 +4,7 @@ The source does not use the numbered `மலர்` scheme seen in *தொல்
 
 ## Workflow note
 
-The canonical execution plan is [`../MULTI_PASS_WORKFLOW.md`](../MULTI_PASS_WORKFLOW.md), refined by [`../GEMINI_RECONCILIATION_PLAN.md`](../GEMINI_RECONCILIATION_PLAN.md).
+The canonical execution plan is `../PRODUCTIVE_COMPLETION_PLAN.md`; the lexical override is `../GEMINI_TEXT_LOCK.md`; live progress is `../STRUCTURAL_FIDELITY_PROGRESS.md`.
 
 For the current Gate-B workflow, Gemini wording is lexically locked while the scan controls decorative-heading placement and structural section evidence. A source-visible heading may be recorded in metadata even when the locked Gemini body heading differs; full canonical section reconstruction remains Gate E.
 
@@ -35,4 +35,4 @@ The source PDF is complete through scan **497**, which is the back cover. The re
 
 ## Current execution boundary
 
-Physical records exist for **all scans 1–497**. Gate B has structurally reviewed **375/497** scans; frontier **376**. Canonical section completion remains deferred to **Gate E**.
+Physical records exist for **all scans 1–497**. Gate B has structurally reviewed **400/497** scans; frontier **401**. Canonical section completion remains deferred to **Gate E**.

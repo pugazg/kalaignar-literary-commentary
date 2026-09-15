@@ -95,3 +95,5 @@ Section/provenance derived indexes designated later gates-ல் canonical compl
 - frontier — scan 376
 - next — B16 scans 376–400 with the remainder of part_008_pages_351-400.pdf + File8.md
 - Gate C — NOT STARTED
+
+Durable B15 correction: scan **359** is mixed text/illustration, not illustration-only.

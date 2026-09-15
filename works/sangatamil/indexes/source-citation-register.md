@@ -6,7 +6,7 @@ Only source-supported citations are entered. External editions must not silently
 
 ## Workflow note
 
-The canonical execution plan is [`../MULTI_PASS_WORKFLOW.md`](../MULTI_PASS_WORKFLOW.md), refined by [`../GEMINI_RECONCILIATION_PLAN.md`](../GEMINI_RECONCILIATION_PLAN.md).
+The canonical execution plan is `../PRODUCTIVE_COMPLETION_PLAN.md`; lexical policy is `../GEMINI_TEXT_LOCK.md`; live progress is `../STRUCTURAL_FIDELITY_PROGRESS.md`.
 
 During the current Gate-B workflow, legitimate Gemini wording remains lexically locked while the scan controls physical/structural placement of quotation, provenance and பொருள் விளக்கம் blocks. This register is not a license to source-correct page lexical wording during Gate B.
 
@@ -37,4 +37,4 @@ The systematic whole-volume provenance activity is **Gate F — Sangam provenanc
 
 ## Current execution boundary
 
-Physical page capture is complete for **497/497 scans** and Gate A hygiene is closed. Gate B has structurally reviewed **375/497** scans with frontier **376**; citation-register completion remains deferred to **Gate F**.
+Physical page capture is complete for **497/497 scans** and Gate A hygiene is closed. Gate B has structurally reviewed **400/497** scans with frontier **401**; citation-register completion remains deferred to **Gate F**.
