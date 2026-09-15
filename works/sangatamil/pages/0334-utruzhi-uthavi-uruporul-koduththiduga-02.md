@@ -28,7 +28,7 @@ continues_from_scan: 333
 “உற்றுழி உதவுதல் எனில் என்னவாம்; மன்னவா?” இது
 முதல் கேள்வி!
 “ஊறுபாடு ஒன்று ஆசிரியர்க்கு நேருமெனில்
-உடன் சென்று துணை நிற்க வேணடு” மென்றான்
+உடன் சென்று துணை நிற்க வேண்டு” மென்றான்
 நெடுஞ்செழியன்!
 
 “உறுபொருள் கொடுத்தல் எனில் யாது பொருளோ?” எனக்
@@ -55,4 +55,4 @@ continues_from_scan: 333
 கல்வி கற்ற பிள்ளை - கல்லாப் பிள்ளை இவையிரண்டும்
 அவளுக்கு
 
-<!-- Gate B preserves File7's locked `வேணடு` reading (the scan visibly has a fuller form, but Gate B does not recover omitted lexical material), and restores PDF-supported spacing in `எய்திட்ட போதுகூட`; stray File7 numeric `66` tokens remain excluded. -->
+<!-- Gate B preserves File7's locked `வேண்டு` reading (the scan visibly has a fuller form, but Gate B does not recover omitted lexical material), and restores PDF-supported spacing in `எய்திட்ட போதுகூட`; stray File7 numeric `66` tokens remain excluded. -->
