@@ -8,7 +8,7 @@
 - Final physical scan: **666 / unnumbered pictorial back cover**
 - Physical scans: **111**
 - Gate: **Pass 3 — meaningful visual/text fidelity verification**
-- Status: **IN PROGRESS — 66/111**
+- Status: **IN PROGRESS — 77/111**
 
 ## Preconditions
 
@@ -270,14 +270,55 @@ Page-layer endpoint: `aff3b500eb1fd8c11e4d3adfd72c0048cf687585`.
 
 Exact compare `f4f5ec2fc37b5641db5803b10f017d4d0ff85ef3` → `aff3b500eb1fd8c11e4d3adfd72c0048cf687585` is **1 commit ahead / exactly 1 changed Part-006 page file / scan 611 only / +2 -2 / 0 other files**.
 
+## Batch 7 — scans 622–632 / printed 605–615
+
+**Result: COMPLETE — 11 / 11.**
+
+Fresh source images rendered directly from the supplied PDF were compared with the current canonical page records for meaningful visual/text organization. One **visual-description correction** was required on scan 631; no Tamil body wording was changed.
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 622 | 605 | **NO STRUCTURAL CHANGE** — text-only genuine continuation/closure of the waterfall / love-sign vignette; Kural 1274, Chapter 128 metadata and source gloss remain correctly grouped above the small lower Valluvar statue. |
+| 623 | 606 | **NO STRUCTURAL CHANGE** — large upper battlefield illustration centered on the sword-bearing warrior with fighting figures behind remains above the prose; the குடிசெயல்வகை / leadership vignette begins below and continues to scan 624. |
+| 624 | 607 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 1027, Chapter 103 metadata and source glosses remain correctly grouped above the small lower standing-statue page furniture. |
+| 625 | 608 | **NO STRUCTURAL CHANGE** — large upper illustration of the older seated man speaking with the visibly wounded young man remains above the prose; the கணியன் / குன்றன் / பச்சை / பச்சையான் vignette begins below and continues to scan 626. |
+| 626 | 609 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 61 and Chapter 7 metadata remain correctly separated above the small lower tower/pavilion ornament. |
+| 627 | 610 | **NO STRUCTURAL CHANGE** — large upper Roman ruler / woman illustration remains above the prose; the Roman-imperial-rise-and-decline vignette begins below and continues to scan 628. |
+| 628 | 611 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 539, Chapter 54 metadata and the source gloss remain correctly grouped near the foot of the page. |
+| 629 | 612 | **NO STRUCTURAL CHANGE** — large upper illustration of two women, one holding the cup, remains above the prose; the காதற் சிறப்புரைத்தல் / lover-in-the-heart vignette begins below and continues to scan 630. |
+| 630 | 613 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 1128 and Chapter 113 metadata remain correctly grouped above the small lower Valluvar statue. |
+| 631 | 614 | **VISUAL-NOTE CORRECTION** — the source illustration shows the stern traveler in the foreground with one hand to his forehead, an emaciated man lying near the tree, and birds feeding nearby. The prior visual note incorrectly said the traveler was **beside a horse**; no horse is visible in the illustration. The prose below still legitimately mentions the horse, so Tamil body text remains unchanged. |
+| 632 | 615 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 1077, its source prose gloss, the Bharathidasan verse block, Chapter 108 metadata and source glosses remain in the correct order and relationship. |
+
+### Boundary / continuity result
+
+- Incoming **621→622 GENUINE CONTINUATION** remains confirmed.
+- **622→623 is CLEAN**: scan 622 closes the waterfall / love-sign vignette; scan 623 begins the battlefield / குடிசெயல்வகை vignette.
+- **632→633 is CLEAN**, reconfirmed from scan **633 / printed 616**: scan 632 closes the அன்புக்கடல் / miserly-giving vignette with Chapter 108 / Kural 1077, while scan 633 begins a new அறவாழி / ஏனாதி ascetic-travel vignette.
+- Scan 633 was used only as the outgoing witness and is **not** counted in Batch 7.
+
+### Batch 7 correction summary
+
+- Structural/visual-description corrections: **1 page / scan 631**.
+- Lexical/body-text changes: **0**.
+- Corrected Part-006 page file: `works/kuraloviyam/pages/0631-kuraloviyam-614.md`.
+- Status promotions: **0**.
+- All Part-006 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+
+Pass-3 Batch-7 page-layer pre-batch checkpoint: `29c69e398e6f849d0475d765a9792187022d274a`.
+
+Page-layer endpoint: `ed0bf49fb32504469e9640824ef62b3f8293568f`.
+
+Exact compare `29c69e398e6f849d0475d765a9792187022d274a` → `ed0bf49fb32504469e9640824ef62b3f8293568f` is **1 commit ahead / exactly 1 changed Part-006 page file / scan 631 only / +1 -1 / 0 other files**.
+
 ## Current gate
 
-Part 006 Pass 3 cumulative coverage: **66/111**.
+Part 006 Pass 3 cumulative coverage: **77/111**.
 
 Exact next batch:
 
-**Batch 7 — scans 622–632 / printed 605–615 — 11 physical scans.**
+**Batch 8 — scans 633–643 / printed 616–626 — 11 physical scans.**
 
-Preserve incoming **621→622 GENUINE CONTINUATION**. Inspect scan **633 / printed 616** only as the outgoing continuity witness if required.
+Preserve incoming **632→633 CLEAN**. Inspect scan **644 / printed 627** only as the outgoing continuity witness if required.
 
 Pass 3 remains meaningful visual/text fidelity verification, not another lexical reread. Do not promote final status.
