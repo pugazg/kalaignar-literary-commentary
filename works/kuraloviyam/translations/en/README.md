@@ -20,7 +20,7 @@ Do not import standard Thirukkural wording, a published English Kural translatio
 
 **Tamil archival-ready → English draft → English source-check → glossary reconciliation → editorial review → Part-level review → release report → release-ready.**
 
-The user-directed normal iteration size is **33 physical scan pages** for page-batched work. Historical completed batches retain their recorded sizes; a final remainder may be shorter. Part-level review and release report are whole-Part gates.
+The user-directed normal iteration size is **37 physical scan pages** for page-batched work. Historical completed batches retain their recorded sizes; a final remainder may be shorter. Part-level review and release report are whole-Part gates.
 
 ## Part 001 — CLOSED
 
@@ -309,8 +309,37 @@ Current Part-006 English inventory remains:
 - `draft` — **0**;
 - editorial-reviewed / release-ready / source-limited / blocked — **0**.
 
+## Part 006 English glossary reconciliation — GR2 COMPLETE / PASS 37/37
+
+GR2:
+
+- scans **593–629 / printed 576–612**;
+- pre-GR2 live-main control checkpoint — `e19633915184f8b3168178d916c6536b9bd168d6`;
+- English page-layer base / endpoint — `42d9df79adc7d4e2cf7f1ef42bbf3fa272fe60a4` / `42d9df79adc7d4e2cf7f1ef42bbf3fa272fe60a4`;
+- exact page-layer compare — **0 commits / 0 modified English page files / 0 Tamil changes / 0 status changes**;
+- Chapter/Kural metadata checked — **18 records / 0 number mismatches**;
+- Chapter controls added/source-varied — **Domestic Life** for source form `இல்வாழ்வியல்`, **Non-Stealing**, **Freedom from Negligence**;
+- source-printed lexical glosses recorded — **18**;
+- English page wording corrections — **0 page files**;
+- glossary record commit — `32cc73d1890b1ab023388352bcdc48c7d3bff87f`;
+- all **37/37** pages remain `source-checked`;
+- incoming **592→593 CLEAN** preserved;
+- outgoing **629→630 GENUINE CONTINUATION** preserved without forced closure.
+
+Part-006 glossary reconciliation is now **74/111 COMPLETE**:
+
+- GR1 — **556–592 / 37/37 COMPLETE / PASS**;
+- GR2 — **593–629 / 37/37 COMPLETE / PASS**;
+- GR3 — **630–666 / 37 pages PENDING**.
+
+Current Part-006 English inventory remains:
+
+- `source-checked` — **111**;
+- `draft` — **0**;
+- editorial-reviewed / release-ready / source-limited / blocked — **0**.
+
 ## Current frontier
 
-**Part 006 English Glossary Reconciliation GR2 — scans 593–629 / printed 576–612 — 37 pages.**
+**Part 006 English Glossary Reconciliation GR3 — scans 630–666 — 37 physical scans**, covering printed **613–648** plus scan **666 / unnumbered pictorial back cover**.
 
-Reconcile only source-evidenced recurring names, controlled literary terms, Chapter labels, citation metadata, source glosses and repeated English forms. No page-status promotion occurs at this gate.
+Reconcile only source-evidenced recurring names, controlled literary terms, Chapter labels, citation metadata, source glosses and repeated English forms. Preserve incoming **629→630 GENUINE CONTINUATION** and make no page-status promotion at this gate.
