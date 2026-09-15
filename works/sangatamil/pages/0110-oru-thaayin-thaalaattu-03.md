@@ -7,7 +7,7 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "fast direct transcription from source scan; verification intentionally deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -21,12 +21,12 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 நெற்றியிலே முத்தமிட்டு, “என் நித்திலமே!  
 போர்முனையில் உயிர்விட்டு மானம் காத்த தந்தைக்கு  
 நேர்வழித் தோன்றலாய் வந்துதித்தாய் வாழ்க!” என்றேன்!  
-“ஊருருவியிருக்கின்றதே மார்பில் அம்பு — வலி  
+“ஊடுருவியிருக்கின்றதே மார்பில் அம்பு — வலி  
 உனக்குத் தாங்காதே மகனே!” என்றேன்; அழுதுவிட்டேன்!  
-“உண்மையா அம்மா? உன் கண்ணில் கண்டு நீ எனக்கு;  
+“உண்மையா அம்மா? உன் கண்ணால் கண்டு நீ எனக்கு;  
 உரைக்கும் வரை நான் உணரவில்லையம்மா!” என்றான்!  
 உயிர்விட்டான் மடிமீது! போய்விட்டான்;  
-உயிரோடு ஏனமட்டும் விட்டுவிட்டு!  
+உயிரோடு எனைமட்டும் விட்டுவிட்டு!  
 ஊர்ப்பிள்ளைகளுடன் விளையாடிக்கொண்டு  
 உண்பதற்குப் பிடிவாதம் பிடித்தபோது — நான்  
 ஓங்கிய கோல் கண்டு ஓடிய என் மகன்; மார்பில்  
@@ -36,12 +36,12 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 
 <div align="center">*</div>
 
-> * “பால்கொண்டு மடுப்பவும் உண்ணான் ஆகலின்  
+> \* “பால்கொண்டு மடுப்பவும் உண்ணான் ஆகலின்  
 > செறாஅது ஓச்சிய சிறுகோல் அஞ்சி,  
 > உயவொடு வருந்தும்மனனே! இனியே  
-> புகர்நிறங் கொண்ட களிறட்டு ஆணன்,  
+> புகர்நிறங் கொண்ட களிறட்டு ஆனான்,  
 > முன்நாள் வீழ்ந்த உரவோர் மகனே!  
-> உன்னிலன் என்னும் புண்ணொன்று அம்பு  
+> உன்னிலன் என்னும் புண்ஒன்று அம்பு  
 > மான் உளை அன்ன குடுமித்  
 > தோல் மிசைக் கிடந்த புல் அண லோனே.”
 
@@ -54,5 +54,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 
 </div>
 
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
+<!-- Gate B restores File3 wording and preserves the source-visible quotation asterisk as literal punctuation; provenance remains scan-positioned. -->
 <!-- மூல ஸ்கேன் பக்கம்: 110; அச்சுப் பக்கம்: 95 -->
