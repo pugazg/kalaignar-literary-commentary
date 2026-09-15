@@ -6,10 +6,11 @@ section: "சான்று கூறும் சரித்திர வர�
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "decorative multicolour section heading; introductory text above and beside a colour illustration of men using ballot-like pots; no printed page number visible"
+visual_notes: "decorative multicolour section heading; six locked introductory lines above a colour illustration of men using ballot-like pots; no printed page number visible; File8 page-348 extraction is physically redistributed across scans 358–360"
 language: "ta"
-transcription_method: "direct visual pass against controlling source scan; Gemini page segmentation omitted this physical page; final textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
+continues_to_scan: 359
 ---
 
 # சான்று கூறும் சரித்திர வரிகள்!
@@ -20,3 +21,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 வாக்களித்துத் தேர்ந்தெடுத்தார்.
 முடியாட்சிக் கொடிகட்டிப் பறந்தபோதும்
 குடியாட்சி; சிற்றூர் பேரூர்களில்
+
+<!-- B15 correction: File8's page-348 extraction contains these six locked introductory lines but assigns them to a later extraction block; the PDF places them on physical scan 358. Continuation is explicitly linked to scan 359. -->
