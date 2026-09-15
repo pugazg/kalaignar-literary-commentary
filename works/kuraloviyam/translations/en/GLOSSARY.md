@@ -1123,3 +1123,97 @@ Part 005 glossary reconciliation is now **COMPLETE / CLOSED — 111/111**:
 
 All **111/111** English pages remain `source-checked` at glossary closure. Tamil archival records remain unchanged. The next maintained English gate is **editorial review**.
 
+
+
+## Part 006 GR1 controls — scans 556–592
+
+### Chapter labels first evidenced in Part 006 GR1
+
+| Tamil | Default English | Editorial note |
+|---|---|---|
+| சுற்றந்தழால் | Cherishing Kindred | Chapter 53 label on scan 560 / printed 543. |
+| மருந்து | Medicine | Chapter 95 label on scan 569 / printed 552. Keep the Chapter title distinct from ordinary prose uses of “medicine.” |
+| வாழ்க்கைத் துணைநலம் | The Worth of a Life-Partner | Chapter 6 label on scan 580 / printed 563. |
+| குடிமை | Nobility of Birth | Chapter 96 label on scan 586 / printed 569. This is the controlled Chapter title; do not mechanically extend the English phrase to every prose use of lineage/birth. |
+| நடுவு நிலைமை | Impartiality | Chapter 12 label on scan 588 / printed 571. |
+| புல்லறிவாண்மை | Petty Knowledge | Chapter 85 label on scan 590 / printed 573. |
+
+Existing controls reused unchanged in GR1 include **The Majesty of Kingship**, **Non-Killing**, **Making the Sign Understood**, **Knowing One's Strength**, **The Blessing of Children**, **Lamenting at the Sight of Evening**, **Examining Friendship**, **Reading the Sign**, **Not Offending the Great**, **Greatness**, **Subtleties of Lovers' Quarrel**, and **Internal Enmity**.
+
+### Narrative, historical, literary and place controls evidenced in Part 006 GR1
+
+| Tamil | Default English form | Editorial note |
+|---|---|---|
+| அழகன் | Alagan | Bead-seller in scans 561–563. Reuse the already-established **Alagan** spelling; GR1 reconciled the new pages from **Azhagan**. |
+| அழகி | Alagi | Woman paired with Alagan in scans 561–563. Use **Alagi** to follow the established project spelling of the shared `அழக-` name stem. |
+| திங்களூர் | Thingalur | Town in the Alagan / Alagi vignette, scans 561–562. |
+| பகலவன் | Pagalavan | Husband in the poverty-family / two-children vignette, scans 566–567. |
+| பாவை | Paavai | Wife in scans 566–567; reuse the existing project spelling without implying identity with the earlier character of the same name. |
+| உதியன் | Uthiyan | Merchant in the false-friendship vignette, scans 572–573. |
+| நன்னன் | Nannan | Uthiyan's friend in scans 572–573. Keep distinct from the separately controlled modern speaker-name form **Dr. Ma. Nannan**. |
+| காவிரி | Kaveri | Woman's name in scans 574–576. Reuse the established **Kaveri** spelling; do not infer identity with the river when the narrative uses it as a personal name. |
+| கரிகாலன் | Karikalan | Man paired with Kaveri in scans 575–576; the same form also occurs inside the deliberately confused historical speech on scan 590. |
+| பூம்புகார் | Poompuhar | Place reference in scan 575; reuse the established project spelling. |
+| ஜெயபிரகாஷ் நாராயண் | Jayaprakash Narayan | Historical figure in scans 579–580; preserve the source-bounded name form without importing external biography. |
+| பிரபாவதி / பிரபாவதி அம்மையார் / பிரபாவதி தேவியார் | Prabhavati / Prabhavati Ammaiyar / Prabhavati Devi | Preserve the source's changing honorific forms across scans 579–580. |
+| பண்டித நேரு | Pandit Nehru | Historical-name form printed on scan 579. |
+| நேதாஜி சுபாஷ் சந்திர போஸ் | Netaji Subhas Chandra Bose | Historical-name form printed on scan 579. |
+| காந்தியடிகள் | Gandhi | Reuse the established project control for this Tamil honorific. GR1 reconciled scan 579 from **Gandhiji** to **Gandhi**. |
+| கனக / விஜய | Kanaka / Vijaya | Paired ruler-name stems in scan 590; reuse the established controls. |
+| விந்திய மலை | Vindhya mountains | Place-name phrase inside the intentionally confused speech on scan 590. |
+| மதுரை | Madurai | Place name inside the intentionally confused speech on scan 590. |
+| மாதவி | Madhavi | Literary name in scan 590; reuse the established project spelling. |
+| இலங்கை | Lanka | Place name inside the intentionally confused speech on scan 590. |
+| கல்லணை | Kallanai | Structure-name form printed in scan 590. Preserve the source speech as printed; do not fact-correct or normalize its deliberately confused historical claims from outside knowledge. |
+| வைகை நதி | Vaigai river | River reference on scan 590. Keep distinct contextually from the earlier personal name **Vaigai** on scans 416–417. |
+
+The historical speech on scan **590** is itself presented by the source as a confused display of half-learning. Preserve its names, places and claims as source content; glossary reconciliation must not silently repair that speech with external historical knowledge.
+
+### Source-printed lexical glosses confirmed in Part 006 GR1
+
+| Tamil | Default English | Evidence |
+|---|---|---|
+| ஆக்கம் | prosperity / advancement | Source gloss `உயர்வு`, scan 560. |
+| அன்ன | like that | Source gloss `போன்ற`, scan 560. |
+| நீரார் | people of such a nature | Source gloss `இயல்புடையவர்`, scan 560. |
+| ஆகாறு | the channel of income | Source gloss `வருவாய்க்கான வழி`, scan 565. |
+| அளவு இட்டது | small in measure | Source gloss `அளவில் சிறிது`, scan 565. |
+| போகாறு | the channel of expenditure | Source gloss `செலவிடும் வழி`, scan 565. |
+| மருவுக | associate / cultivate friendship | Source gloss `பழகுக`, scan 573. |
+| ஒருவுக | give up / leave | Source gloss `விட்டுவிடுக`, scan 573. |
+| ஈத்தும் | even by giving | Source gloss `கொடுத்தும்`, scan 573. |
+| கால் | the sprouting of a crop | Source gloss `பயிரின் முளைப்பு`, scan 586. |
+| செப்பம் | impartiality | Source gloss `நடுவுநிலைமை`, scan 588. |
+| கோட்டம் | crookedness / deviation | Source gloss `கோணுதல்`, scan 588. |
+| ஒருதலையா | firmly / decisively | Source gloss `உறுதியாக`, scan 588. |
+| உடம்பாடு | harmony of mind | Source gloss `மனப் பொருத்தம்`, scan 592. |
+| குடங்கர் | hut | Source gloss `குடிசை`, scan 592. |
+
+## Part 006 GR1 reconciliation record — scans 556–592
+
+GR1 processed **37 consecutive pages: scans 556–592 / printed 539–575**.
+
+- scans **556–592** — glossary / recurring-terminology reconciliation **PASS, 37/37**;
+- all **18 Chapter/Kural metadata records** in the range were checked against their audited Tamil counterparts with **0 chapter-number or Kural-number mismatches**;
+- six Part-006-first Chapter controls were added in this gate: **Cherishing Kindred**, **Medicine**, **The Worth of a Life-Partner**, **Nobility of Birth**, **Impartiality**, and **Petty Knowledge**;
+- controlled terminology corrections were required on **4 English page files**:
+  - scans **561–563** — `Azhagan` → established project spelling **Alagan**, and paired `Azhagi` → **Alagi**;
+  - scan **579** — source honorific `காந்தியடிகள்` reconciled from **Gandhiji** to established project form **Gandhi**;
+- all **15 source-printed lexical glosses** listed above were checked against the audited Tamil records and recorded without external expansion;
+- recurring names/places actually evidenced in the range were recorded above, including the source-bounded historical/literary forms on scan 590;
+- all **37/37** English pages remain `status: "source-checked"`; this gate makes **0 status changes**;
+- incoming **555→556 CLEAN / source-resolved** and outgoing **592→593 CLEAN** were preserved;
+- Tamil archival changes — **0**;
+- no external/published/web terminology or standard English Kural wording was imported.
+
+Exact GR1 English page-layer compare:
+
+- base — `a230f74a9d027435a009cd3569dec70f5f907b9b`;
+- endpoint — `42d9df79adc7d4e2cf7f1ef42bbf3fa272fe60a4`;
+- exactly **4 modified English page files**;
+- **0** Tamil page files;
+- **0** page-status changes.
+
+Exact next glossary-reconciliation batch:
+
+**Part 006 GR2 — scans 593–629 / printed 576–612 — 37 pages.**
