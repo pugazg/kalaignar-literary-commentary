@@ -927,16 +927,127 @@ Exact page-file set:
 
 This progress-record update is the sole intended non-page change after the Batch B09 page-layer endpoint.
 
+## Batch B10 — scans 226–250
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-15**
+- scans reviewed: **226–250 / 25**
+- controlling source: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_005_pages_201-250.pdf`
+- lexical lock used: `File5.md` — Phase 13 / Book Pages 213–237
+- batch base: `7f31f1e3db6376bc6fb69517ad6281cff370ea33`
+- page-layer endpoint: `9f2515e8d6d720d2e19d059a3820604c297ce6cc`
+- structurally changed page records: **19**
+- reviewed with no page-record change: **6** — scans **228, 232, 238, 242, 246, 250**
+- scan-led lexical corrections / modernizations: **0**
+- unresolved structural placement issues: **0**
+
+### Gate-B reconciliation performed
+
+1. **scans 226–229 — `பாரி மகளிர் பாடிய செய்யுள்`**
+   - scan 226 records the source-visible section identity in metadata while preserving File5's locked decorative heading `பாபி மகளிர் / பாடிய செய்யுள்` in the body;
+   - displaced locked `நெஞ்சில்!` and `வரலாற்றில்!` are restored to their source-supported opening lines;
+   - scan 227 returns locked `சுவைத்துவிட்டுத்`, `ஒரு`, and page-end `போல்` to source-supported positions;
+   - scan 228 remains a full-page illustration and required no repository change;
+   - scan 229 restores closing narrative → separator → Purananuru verse → separator → provenance → `பொருள் விளக்கம்` order.
+
+2. **scans 230–235 — `தாமரைப் பொய்கையில் (?) தவழ்ந்தது நிலவு!`**
+   - scan 230 restores File5 wording and displaced carryovers `விழுப்` and `கொடி`;
+   - scan 231 restores the source-supported placement of locked `அவர்பால்`, `கண்ணா என`, `பின்`, `பிறர்`, `அத்தான்`, `இந்த`, and `என்`;
+   - scan 232 remains a full-page illustration and required no repository change;
+   - scan 233 restores locked carryovers `நடு`, `நாட்டை`, and page-end `நான்`;
+   - scan 234 removes File5 extraction bullet markers and reconstructs the two source-visible Purananuru quotation units with source-supported omission punctuation and provenance placement;
+   - scan 235 restores provenance → `பொருள் விளக்கம்` → closing separator order.
+
+3. **scans 236–240 — `காட்டில் பிறந்த கவிதை!`**
+   - scans 236–237 restore File5 wording, decorative-heading structure, and the physical continuation across illustration scan 238;
+   - scan 238 remains a full-page illustration and required no repository change;
+   - scan 239 expands File5's single flattened narrative extraction into source-visible paragraph/line structure while excluding the extraction marker and merged printed-page furniture;
+   - scan 240 excludes stray File5 numeric / quote-marker debris and restores verse → provenance → `பொருள் விளக்கம்` → source-note order.
+
+4. **scans 241–244 — `வாடைக் காற்றில் வாடிய காதலி!`**
+   - scan 241 excludes stray File5 numeric `66`, preserves locked `அகல் விளக்கே!`, and returns page-end `என` to its source-supported position;
+   - scan 242 remains a full-page illustration and required no repository change;
+   - scan 243 excludes stray numeric / quote-marker debris, restores locked `அது`, and re-lineates the Kurunthokai quotation according to the scan;
+   - scan 244 excludes stray numeric `66` and restores locked `அருகிருந்தால்!` / `அவ்வாறு` before the glossary.
+
+5. **scans 245–248 — `வாளிங்கே-அவன் நாக்கெங்கே?`**
+   - scan 245 restores File5 wording, source-supported decorative-heading structure, and page-end continuation before illustration scan 246;
+   - scan 246 remains a full-page illustration and required no repository change;
+   - scan 247 restores File5 wording and source-supported poem-like narrative lineation;
+   - scan 248 expands File5's flattened Purananuru quotation into source-visible lineation and restores verse → provenance → `பொருள் விளக்கம்` order.
+
+6. **scans 249–250 — `குறளனுக்கோர் கூனியுண்டு!`**
+   - scan 249 excludes stray File5 decorative-heading fragment `இ`, preserves the remaining locked body wording, and records continuation to scan 251;
+   - scan 250 remains a full-page illustration and required no repository change;
+   - literary continuation remains open at **scan 251**.
+
+### Illustration handling confirmed
+
+- scans **228, 232, 238, 242, 246, 250** are full-page illustrations;
+- no source-visible literary text or printed page number is inferred;
+- their existing section metadata was already structurally correct;
+- all six were reviewed and required **no repository change**.
+
+### Locked omissions / extraction exceptions carried forward
+
+- scan **226** — source-visible title is `பாரி மகளிர் பாடிய செய்யுள்`; File5 locks decorative body heading `பாபி மகளிர் / பாடிய செய்யுள்`. Gate B preserves this metadata/body authority split.
+- scan **234** — File5 extraction bullet markers excluded; source-visible omission punctuation retained structurally.
+- scan **239** — flattened extraction marker / merged printed-page furniture excluded while preserving File5 lexical wording in the reconstructed body.
+- scan **240** — stray File5 numeric / quote-marker debris excluded.
+- scan **241** — stray File5 numeric `66` excluded.
+- scan **243** — stray File5 numeric `66` and quote-marker debris excluded.
+- scan **244** — stray File5 numeric `66` excluded.
+- scan **249** — stray File5 heading fragment `இ` excluded.
+
+## Exact changed-file audit — Batch B10
+
+Page-layer compare:
+
+`7f31f1e3db6376bc6fb69517ad6281cff370ea33` → `9f2515e8d6d720d2e19d059a3820604c297ce6cc`
+
+Result:
+
+- **1 commit ahead**
+- **exactly 19 modified page files**
+- **0 other page files**
+- **0 non-page files at the page-layer endpoint**
+- scans **228, 232, 238, 242, 246, 250** reviewed with no change
+
+Exact page-file set:
+
+- `works/sangatamil/pages/0226-paari-magalir-paadiya-seyyul-01.md`
+- `works/sangatamil/pages/0227-paari-magalir-paadiya-seyyul-02.md`
+- `works/sangatamil/pages/0229-paari-magalir-paadiya-seyyul-04.md`
+- `works/sangatamil/pages/0230-thaamaraip-poigaiyil-thavazhnthathu-nilavu-01.md`
+- `works/sangatamil/pages/0231-thaamaraip-poigaiyil-thavazhnthathu-nilavu-02.md`
+- `works/sangatamil/pages/0233-thaamaraip-poigaiyil-thavazhnthathu-nilavu-04.md`
+- `works/sangatamil/pages/0234-thaamaraip-poigaiyil-thavazhnthathu-nilavu-05.md`
+- `works/sangatamil/pages/0235-thaamaraip-poigaiyil-thavazhnthathu-nilavu-06.md`
+- `works/sangatamil/pages/0236-kaattil-pirantha-kavithai-01.md`
+- `works/sangatamil/pages/0237-kaattil-pirantha-kavithai-02.md`
+- `works/sangatamil/pages/0239-kaattil-pirantha-kavithai-04.md`
+- `works/sangatamil/pages/0240-kaattil-pirantha-kavithai-05.md`
+- `works/sangatamil/pages/0241-vaadai-kaatril-vaadiya-kaathali-01.md`
+- `works/sangatamil/pages/0243-vaadai-kaatril-vaadiya-kaathali-03.md`
+- `works/sangatamil/pages/0244-vaadai-kaatril-vaadiya-kaathali-04.md`
+- `works/sangatamil/pages/0245-vaalinge-avan-naakkenge-01.md`
+- `works/sangatamil/pages/0247-vaalinge-avan-naakkenge-03.md`
+- `works/sangatamil/pages/0248-vaalinge-avan-naakkenge-04.md`
+- `works/sangatamil/pages/0249-kuralanukkor-kooniyundu-01.md`
+
+This progress-record update is the sole intended non-page change after the Batch B10 page-layer endpoint.
+
 ## Gate B cumulative state
 
-- structurally reviewed: **225/497**
-- structurally remaining: **272**
-- current frontier: **scan 226**
+- structurally reviewed: **250/497**
+- structurally remaining: **247**
+- current frontier: **scan 251**
 - Gate C: **NOT STARTED**
 
 ## Exact next activity
 
-Process **Gate B scans 226–250** against `TVA_BOK_0042551_சங்கத்_தமிழ்_part_005_pages_201-250.pdf` + `File5.md` (Phase 13 / Book Pages 213–237).
+Process **Gate B scans 251–275** against the split PDF covering physical scans **251–300** and the corresponding Gemini lexical lock **File6.md**.
 
 Preserve the Gemini lexical lock and continue structural correction only. Do **not** start Gate C.
 
