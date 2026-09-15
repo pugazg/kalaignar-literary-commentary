@@ -114,3 +114,19 @@ Translation identity remains **project-created**. Do not import published, stand
 Exact next content activity:
 
 **Part 006 English Draft Batch D1 — scans 556–588 / printed 539–571 — 33 pages.**
+
+
+## Post-checkpoint English cadence update
+
+This Tamil archival-ready checkpoint remains historically correct and closed. After the checkpoint, the user changed the normal Kuraloviyam English batch cadence on **2026-09-15** from **33** to **37 physical scans per iteration**.
+
+That later directive supersedes only the forward English batching instruction above; it does **not** alter the Tamil closure declaration or any Tamil evidence.
+
+Under the new cadence:
+
+- English Draft D1 actually covers **scans 556–592 / printed 539–575 — 37 pages**;
+- D1 page-layer endpoint — `8ca4baeb33a8a45d13df372dc97acc705c1398e3`;
+- D1 is **COMPLETE / PASS 37/37**;
+- exact next English activity — **Draft D2 / scans 593–629 / printed 576–612 — 37 pages**.
+
+Use the live `translations/en/TRANSLATION_GUIDE.md`, `TRANSLATION_STATUS.md`, and root/work handovers for the current English frontier.
