@@ -7,7 +7,7 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 281
 ---
@@ -32,7 +32,9 @@ continues_from_scan: 281
 கிளிஞ்சல்களில் முத்துக்களை இட்டுக் குலுக்கி மந்திகளுடன்;
 கிலுகிலுப்பை ஆட்டுவதாய்க்கூறிக் கவி இதயக் கற்பனைக்கேயொரு
 விறுவிறுப்பை உண்டாக்கி; இலக்கியம் சுவைப்போரை எல்லாம்
-கிறுகிறுப்பில் ஆழ்த்திவிட்ட நத்தத்தனார் திறம்போற்றி மகிழ்வோம்!
+கிறுகிறுப்பில் ஆழ்த்திவிட்ட நத்தத்தனார் திறம்போற்றி
+<div align="right">இன்பக்</div>
+மகிழ்வோம்!
 
 *
 
@@ -49,5 +51,5 @@ continues_from_scan: 281
 (சிறுபாணாற்றுப்படை : 55 முதல் 61 முடிய
 பாடியவர் : நல்லூர் நத்தத்தனார்)
 
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
+<!-- Gate B restores the File6-locked carryover `இன்பக்` to its PDF-supported position before `மகிழ்வோம்!`; the source-visible verse lineation and provenance remain unchanged. -->
 <!-- மூல ஸ்கேன் பக்கம்: 282; அச்சுப் பக்கம்: 270 -->

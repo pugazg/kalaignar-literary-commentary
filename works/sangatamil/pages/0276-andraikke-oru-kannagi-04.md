@@ -7,7 +7,7 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 275
 ---
@@ -19,7 +19,7 @@ continues_from_scan: 275
 > தண் கமழ் கோதை புனைய
 > வண்பரி நெடுந்தேர் பூண்க நின் மாவே”
 
-அரிசில் கிழாரை அடுத்து பெருங்குன்றூர்க் கிழார் எனும்
+அரிசில் கிழாரை அடுத்து பெருங்குன்றூர் கிழார் எனும்
 அன்னைத் தமிழ் ஈன்ற அரும்புலவர் ஒருவர்;
 “ஆவியர் கோவே! உன் ஆருயிர்க் கண்ணகியின்
 அல்லல்போக்கி அகமலர முகமலர அவளை அழைத்து;
@@ -43,5 +43,5 @@ continues_from_scan: 275
 
 *
 
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
+<!-- Gate B restores the File6-locked `பெருங்குன்றூர் கிழார்` reading while preserving the PDF-controlled quotation, note, and closing-section structure. -->
 <!-- மூல ஸ்கேன் பக்கம்: 276; அச்சுப் பக்கம்: 264 -->

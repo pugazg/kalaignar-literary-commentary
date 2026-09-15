@@ -8,9 +8,10 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; body text leading into Sangam quotation; printed page number 288"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; visible line order and quotation opening checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 299
+continues_to_scan: 301
 ---
 
 கண்ணுறக்கமின்றிப் பகலிரவு பாராமல் அலைகின்ற
@@ -49,3 +50,5 @@ continues_from_scan: 299
 > கடுமாப் பார்க்கும் கல்லா ஒருவற்கும்
 > உண்பது நாழி; உடுப்பவை இரண்டே;
 > பிறவும் எல்லாம் ஓரொக் கும்மே;
+
+<!-- Gate B confirms File6 wording and PDF-controlled prose/quotation placement through scan 300; the Purananuru quotation remains open and is durably marked to continue on scan 301. -->

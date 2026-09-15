@@ -8,11 +8,13 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "decorative multicolour section heading; body text; printed page number 276"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; section heading checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
-# வெறியாடும் வேலன் எதற்காக?
+# இவறியாடும்
+# வேலன்
+# எதற்காக?
 
 “பித்துப் பிடித்தவள் போல் இருக்கின்றாள் - நான்
 பெற்றெடுத்த பொற்கொடியாள் - ஊன்றிவிட்ட
@@ -26,6 +28,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 வேலர் என்போர் அந்நாளில் வெறியாடிக் குறிசொல்வோர்;
 விரட்டிடுவார் மருள் நோயை என்று தாய்மார்கள் செல்வர்!
 காலமிக வேகமாக ஒளிபெற்றும் கருத்தை மட்டும்
+<div align="right">அவர்</div>
 இருட்டாக்கும்
 கண்மூடி வழக்கமின்னும் நம் தாயகத்தில் மறையவில்லை.
 
@@ -41,3 +44,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 பாவைக்கு வந்த துயர் எனக்கொன்றும் புரியவில்லை!
 நள்ளிரவில் நான் விழித்துப் பார்க்கும் போதும்
 புள்ளிமயில் புரளுகின்றாள் உறக்கமின்றி!
+
+<!-- Gate B records source section identity `வெறியாடும் வேலன் எதற்காக?` in metadata while preserving File6-locked body heading `இவறியாடும் / வேலன் / எதற்காக?`; locked `அவர்` is restored to its source-supported carryover position and stray numeric `66` remains excluded. -->

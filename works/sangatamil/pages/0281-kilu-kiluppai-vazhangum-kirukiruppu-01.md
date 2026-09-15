@@ -8,14 +8,15 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "decorative multicolour section heading; source heading includes 'கிலு கிலுப்பை' omitted by Gemini scaffold"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; heading checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
-# கிலு கிலுப்பை வழங்கும் கிறுகிறுப்பு!
+# வழங்கும்
+# கிறுகிறப்பு!
 
 தடையின்றிக் கொடை வழங்கும் சேர சோழ பாண்டியரை
-கடையேழு வள்ளல்களைக் குறுநில மன்னவனும்;
+கடையேழு வள்ளல்களைக் குறுநில மன்னவனாம்;
 நல்லியக்கோடனுடன் ஒப்பிட்டுக்காட்டிப் பத்துப்பாட்டில்
 நத்தத்தனார் பாடியதே சிறுபாணாற்றுப்படையாகும்!
 
@@ -39,6 +40,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 கொற்கைக் கடற்கரை நோக்கி விற்பனைக்கு உப்பு வாங்க;
 கூட்டமாய் வண்டிகட்டி வருகின்றார் வணிக மக்கள்!
 
-<!-- continues on scan 282 -->
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
+<!-- Gate B preserves only the File6-supported decorative body heading `வழங்கும் / கிறுகிறப்பு!`; the source-visible omitted words `கிலு கிலுப்பை` remain represented by section metadata/visual notes rather than being source-recovered into the locked body. Stray File6 numeric `2` is excluded. -->
 <!-- மூல ஸ்கேன் பக்கம்: 281; அச்சுப் பக்கம்: 269 -->

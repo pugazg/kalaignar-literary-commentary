@@ -8,24 +8,26 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "decorative multicolour section heading; body text; printed page number 280"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; section heading and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
-# ஒல்லையூரில் முல்லையோ?
+# ஒல்லையூபில்
+# முல்லையோ?
 
 முல்லைக்கூட்டம் பந்தலிட்டு மணக்கும் மூதூராம்
 ஒல்லையூர் என்னும் புதுக்கோட்டை ஒலியமங்கலம்
-கிழார் என்ற பெருமகனுக்குப் பிறந்த திருமகனும்
+கிழார் என்ற பெருமகனுக்குப் பிறந்த திருமகனாம்
 கீர்த்திமிகு “பெருஞ்சாத்தன்” பெயருடைய மாவீரன்;
 
 பாண்டியர்க்கும் சோழர்க்கும் நடக்கின்ற போரில் எல்லாம்
 படைதிரட்டிப் பாண்டியர்க்கே வெற்றிகளைக் குவித்திடுவான்!
 குன்றெடுக்கும் நெடுந்தோளும் கொடை பொழியும் கையும்
-கொண்டுலவும் வல்லவனே - நல்ல வள்ளல்தனே;
+கொண்டுலவும் வல்லவனை
+நல்ல வள்ளல்தனை;
 செந்தமிழால் மாலைகட்டிப் புகழ்ந்துரைத்தார்;
 நந்தமிழ்நாட்டுச் சான்றோரும், ஆன்றோரும்!
-கொடியில் புலி அசையும் சோழனது, குடவாயிற் பிறந்த
+கொடியிற் புலி அசையும் சோழனது, குடவாயிற் பிறந்த
 கீரத்தனார்,
 தொடித்தலை விழுத்தண்டினார்; இவ்விரு புலவர்கள்!
 
@@ -40,4 +42,6 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 மாவீரன் பெருஞ்சாத்தன் நோய்வாய்ப்பட்டொரு நாள்
 மரணத்தின் மடிதனிலே துயில்கொள்ளப் போனான் என்று
 மலைபிளந்து வருகின்ற வேல் போல ஒரு செய்தி
-மாத்தமிழர் நாடெங்கும் பரவிற்றங்கே!
+மாத்தமிழர் நாடெங்கும் பரவிற்றாங்கே!
+
+<!-- Gate B keeps the source-visible section identity `ஒல்லையூரில் முல்லையோ?` in metadata while preserving File6-locked body heading `ஒல்லையூபில் / முல்லையோ?` and locked readings `திருமகனாம்`, `வல்லவனை`, `வள்ளல்தனை`, `கொடியிற்`, and `பரவிற்றாங்கே!`. -->

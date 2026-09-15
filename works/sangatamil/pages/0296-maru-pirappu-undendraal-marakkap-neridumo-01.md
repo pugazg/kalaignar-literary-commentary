@@ -8,11 +8,9 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "decorative multicolour section heading; body text; printed page number 284"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; section heading and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
-
-# மறு பிறப்பு உண்டென்றால் மறக்க நேரிடுமோ?
 
 மறுபிறப்பு மாந்தர்க்கு உண்டென நம்பிய
 மங்கையொருத்தியின் காதல் நினைவினை;
@@ -42,3 +40,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 வீணைக்கென்று வேறொரு வழிதான் இனி ஏது?
 இழுத்து, விட இருக்கின்ற மூச்சுப்பைகள் இரண்டில் ஒன்றை
 இழந்தாலோ கவலையில்லை!”
+
+<!-- Gate B does not source-recover the decorative heading into body text because File6's locked heading extraction is malformed (`மறு பிறப்பு / உண்டென்றால் / மறக்க ரூ / நேபிடுமோ?`). The source-visible section identity remains in metadata and lexical heading resolution is deferred. -->
