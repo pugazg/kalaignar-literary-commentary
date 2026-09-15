@@ -4,7 +4,7 @@ Closing-page source audit. Entries marked NEEDS-SPAN-AUDIT require earlier pages
 
 | Entry | Contents key | Printed span | Scan span | Expected Kural count | Closing-page Chapter / Kural evidence | Status |
 |---:|---|---:|---:|---:|---|---|
-| 46 | அ. என்பி லதனை / ஆ. தொழுத கையுள்ளும் | 109–110 | 126–127 | 2 | Ch 83 கூடா நட்பு / Kural 828 | NEEDS-SPAN-AUDIT |
+| 46 | அ. என்பி லதனை / ஆ. தொழுத கையுள்ளும் | 109–110 | 126–127 | 2 | scan 127 quotes `என்பு இலதனை வெயில்போலக் காயுமே...` with **no explicit Chapter/Kural metadata in the audited page record**; same scan closes `தொழுத கையுள்ளும்...` with Ch 83 கூடா நட்பு / Kural 828 | PARTIAL-SOURCE-METADATA |
 | 47 | அ. வழுத்தினாள் தும்மினேன் / ஆ. ஊடி யிருந்தேமா | 111–112 | 128–129 | 2 | Ch 132 புலவி நுணுக்கம் / Kurals 1317, 1312 | RESOLVED |
 | 48 | இனிய உளவாக | 113–114 | 130–131 | 1 | Ch 10 இனியவை கூறல் / Kural 100 | RESOLVED |
 | 49 | அ. கோட்டுப்பூச் சூடினும் / ஆ. நினைத்திருந்து நோக்கினும் | 115–116 | 132–133 | 2 | Ch 132 புலவி நுணுக்கம் / Kurals 1313, 1320 | RESOLVED |
@@ -20,4 +20,4 @@ Closing-page source audit. Entries marked NEEDS-SPAN-AUDIT require earlier pages
 | 59 | கலந்துணர்த்தும் காதலர் | 136–136 | 153–153 | 1 | Ch 125 நெஞ்சொடு கிளத்தல் / Kural 1246 | RESOLVED |
 | 60 | உணலினும் உண்டது | 137–138 | 154–155 | 1 | Ch 133 ஊடலுவகை / Kural 1326 | RESOLVED |
 
-Exceptions needing full-span audit: **46**.
+Full-span audit complete. Entry **46** retains a source-metadata limitation for its first quoted Kural; no number/title is inferred.
