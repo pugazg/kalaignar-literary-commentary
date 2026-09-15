@@ -2,11 +2,11 @@
 scan_page: 70
 printed_page: "55"
 work: "sangatamil"
-section: "பொது மகளின் புலம்பல்!"
+section: "ஒரு பொது மகளின் புலம்பல்!"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "large decorative section heading; text arranged in printed verse-like blocks; printed page number 55 visible; narrative continues to scan 71"
+visual_notes: "large decorative source heading includes a leading `ஒரு`; File2 locks the body heading as `பொது மகளின் புலம்பல்!`, so the missing lexical word is documented in metadata but not silently added to body text; printed page number 55 visible; narrative continues to scan 71"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
