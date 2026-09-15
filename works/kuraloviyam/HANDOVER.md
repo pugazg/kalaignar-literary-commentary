@@ -6,7 +6,7 @@ Active work: `works/kuraloviyam/`
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable Kuraloviyam work. Parts **001–005 are closed**; do not reopen them unless a genuinely new source/provenance/fidelity issue appears. Part 006 has Source Intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 / Part audit / final metadata-status synchronization / documentation synchronization complete; the exact live frontier is the Tamil archival-ready checkpoint.
+Fetch live `main` first and preserve newer durable Kuraloviyam work. Parts **001–005 are closed**; do not reopen them unless a genuinely new source/provenance/fidelity issue appears. Part 006 Tamil is now **ARCHIVAL-READY / CLOSED — 111/111 textual verified + 111/111 visual verified / 0 exceptions**. The exact live frontier is the maintained Part-006 English translation workflow, beginning with Draft D1.
 
 ## Mandatory startup
 
