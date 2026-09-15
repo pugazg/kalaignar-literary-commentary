@@ -436,8 +436,13 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - documentation synchronization — **COMPLETE / PASS**;
 - documentation-sync record — `works/kuraloviyam/PART_006_DOCUMENTATION_SYNC.md`;
 - documentation-only page-layer changes — **0**;
-- exact next stage — **Part 006 Tamil archival-ready checkpoint**.
+- Tamil archival-ready checkpoint — **PASS / CLOSED**;
+- archival-ready record — `works/kuraloviyam/PART_006_TAMIL_ARCHIVAL_READY.md`;
+- Part 006 Tamil — **ARCHIVAL-READY / CLOSED — 111/111 textual verified + 111/111 visual verified / 0 exceptions**;
+- Part-006 English inventory at Tamil closure — **0/111 page records**;
+- current normal English batch size — **33 physical scans**;
+- exact next stage — **Part 006 English Draft D1 / scans 556–588 / printed 539–571 — 33 pages**.
 
 ## Exact next activity
 
-Perform the separate **Part 006 Tamil archival-ready checkpoint**. Follow `works/kuraloviyam/PART_005_TAMIL_ARCHIVAL_READY.md` as precedent. Confirm the closed evidence chain, final 111/111 textual verified + 111/111 visual verified state, 0 exceptions, source identity, `பொருளடக்கம்` scans 658–665, and scan 666 physical endpoint. Do not change page-layer Tamil content or statuses. Do not start English translation until the Tamil archival-ready checkpoint closes.
+Proceed with **Part 006 English Draft D1 — scans 556–588 / printed 539–571 — 33 page-aligned records**. Use the audited Tamil records as the normal authority and follow `translations/en/TRANSLATION_GUIDE.md`. Translation identity is project-created. Do not import published, standard, web, or remembered English Kural wording.
