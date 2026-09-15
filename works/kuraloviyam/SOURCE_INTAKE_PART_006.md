@@ -165,8 +165,15 @@ Pass 3 Batch 5 — **600–610 / printed 583–593 — COMPLETE 11/11**.
 - outgoing witness confirms **610→611 GENUINE CONTINUATION**;
 - statuses remain unchanged — all 111 records `needs-review` / visual `needs-review`.
 
-Immediate next activity:
+## Current durable frontier
 
-**Part 006 Pass 3 Batch 6 — scans 611–621 / printed 594–604 — 11 physical scans.**
+The historical Pass-3 batch notes above record the state at their time of execution. The complete downstream chain is now closed through:
 
-Preserve incoming **610→611 GENUINE CONTINUATION**. Use freshly rendered source images for meaningful visual/text verification; do not perform another lexical reread or promote final status.
+- Pass 3 — **COMPLETE / PASS 111/111**;
+- Part 006 audit — **PASS / COMPLETE**;
+- final metadata/status synchronization — **PASS / CLOSED**;
+- documentation synchronization — **COMPLETE / PASS**.
+
+Current final Tamil distribution: **111 textual verified / 111 visual verified / 0 exceptions**.
+
+The exact next gate is the separate **Part 006 Tamil archival-ready checkpoint**. No page-layer Tamil or status change is required for that checkpoint.
