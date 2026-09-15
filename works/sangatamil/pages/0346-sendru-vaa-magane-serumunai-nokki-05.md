@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; narrative closure; Purananuru quotation, provenance and பொருள் விளக்கம்; printed page number 334"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; quotation/provenance/gloss and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 345
 ---
@@ -36,7 +36,7 @@ continues_from_scan: 345
 > “கெடுக சிந்தை கடிதிவள் துணிவே
 > முதின் மகளிர் ஆதல் தகுமே
 > மேனாள் உற்ற செருவிற்கு இவள் தன்ஐ
-> யானை எறிந்து களத்தொழிந் தனனே
+> யானை யெறிந்து களத்தொழிந் தனனே
 > நெருநல் உற்ற செருவிற்கு இவள்கொழுநன்
 > பெருநிரை விலங்கி ஆண்டுப்பட் டனனே
 > இன்றும், செருப்பறை கேட்டு விருப்புற்று மயங்கி
@@ -50,8 +50,10 @@ continues_from_scan: 345
 
 ## பொருள் விளக்கம் :
 
-தன்ஐ = தந்தை. நெருநல் உற்ற செரு = நேற்று நடந்த போர்.
+தன்ஐ = தந்தை. நெல் உற்ற செரு = நேற்று நடந்த போர்.
 வெளிதுவிரித்து = வெள்ளாடை அணிவித்து.
 பாறுமயிர் = பரட்டை முடி.
 
 *
+
+<!-- Gate B restores File7-locked historical forms `யெறிந்து` and glossary `நெல் உற்ற செரு`; the extraction bullet marker is excluded and provenance/gloss order remains controlled by the scan. -->

@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; narrative continuation; section-closing Sangam quotation begins; printed page number 324"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; visible line order and quotation opening checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 335
 ---
@@ -31,8 +31,9 @@ continues_from_scan: 335
 இளையாதவனாய்த் திகழ்பவனையே அரசும் அழைத்துப் பேசும்!
 நாலுவகை மனிதர்களும் வாழுகின்ற நமது நாட்டில்
 மேல்நிலை வாழ்வோரெல்லாம் மேலோர் அல்லர் - அன்றிக்
-கீழ்நிலை வாழ்வோர் கீழோருமல்லர்!
-ஒரு சூழ்நிலையாலே வந்தது இந்தத் தீவினையெனினும்,
+கீழ்நிலை வாழ்வோர் கீழோருமல்லர்! -
+<div align="right">ஒரு</div>
+சூழ்நிலையாலே வந்தது இந்தத் தீவினையெனினும்,
 கீழிருப்போன் கல்வி கேள்வியிற் சிறந்தோனாயின்
 மேலிருப்போன், அவன்கீழ் இருப்பவனே ஆவான்!”
 
@@ -54,3 +55,5 @@ continues_from_scan: 335
 > ஒருகுடிப் பிறந்த பல்லோருள்ளும்,
 > ‘மூத்தோன் வருக’ என்னாது, அவருள்
 > அறிவுடையோன் ஆறு அரசும் செல்லும்;
+
+<!-- Gate B restores locked `ஒரு` to its source-supported right-edge carryover position after `கீழோருமல்லர்! -`; lexical wording is otherwise unchanged. -->

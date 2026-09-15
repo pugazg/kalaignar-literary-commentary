@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; explanatory dialogue between Nedunchezhiyan and the queen; printed page number 322"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; visible dialogue order and page ending checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 333
 ---
@@ -28,7 +28,7 @@ continues_from_scan: 333
 “உற்றுழி உதவுதல் எனில் என்னவாம்; மன்னவா?” இது
 முதல் கேள்வி!
 “ஊறுபாடு ஒன்று ஆசிரியர்க்கு நேருமெனில்
-உடன் சென்று துணை நிற்க வேண்டும்” மென்றான்
+உடன் சென்று துணை நிற்க வேணடு” மென்றான்
 நெடுஞ்செழியன்!
 
 “உறுபொருள் கொடுத்தல் எனில் யாது பொருளோ?” எனக்
@@ -43,7 +43,7 @@ continues_from_scan: 333
 
 “வண்ணமயிலே! பிற்றை நிலை எனில் பிற்பட்ட நிலையென்றும்
 வழிபாட்டு நிலையென்றும் பொருள்கள் உண்டெனினும்;
-பெருந்துயரமெனும் பிற்பட்ட நிலை எய்திட்டபோதுகூட
+பெருந்துயரமெனும் பிற்பட்ட நிலை எய்திட்ட போதுகூட
 திருமுகம் சிறிதும் சுளிக்காமல் கற்றல் நன்றென்பதாலேதான்
 இனிதான அறிவுதனைப் பெற விழைவோர்
 முனியாது கற்க வேண்டுமென எழுதியுள்ளேன்” என்றான்.
@@ -54,3 +54,5 @@ continues_from_scan: 333
 அன்னையொருத்திக்குப் பிறந்த பிள்ளைகளில்,
 கல்வி கற்ற பிள்ளை - கல்லாப் பிள்ளை இவையிரண்டும்
 அவளுக்கு
+
+<!-- Gate B preserves File7's locked `வேணடு` reading (the scan visibly has a fuller form, but Gate B does not recover omitted lexical material), and restores PDF-supported spacing in `எய்திட்ட போதுகூட`; stray File7 numeric `66` tokens remain excluded. -->

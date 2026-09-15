@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; narrative continuation following illustration; dialogue begins near lower half; printed page number 318"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; visible line order and dialogue punctuation checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 329
 ---
@@ -16,7 +16,7 @@ continues_from_scan: 329
 அரிசில்கிழார், மோசுகீரனார்,
 இளவெயினி, பொன்முடியார் என
 அவனைப் பாடியோர் பட்டியல் நீளும் எனினும்
-அவனே ஓர் இலக்கியப் புலவனும் எழுந்து நின்றான்!
+அவனே ஓர் இலக்கியப் புலவனாய் எழுந்து நின்றான்!
 
 கடத்தற்கரிய காவல் அரண் பல கடந்தும்
 களிற்றுயானைப் படைகளை அழித்தும்
@@ -55,3 +55,5 @@ continues_from_scan: 329
 என்று,
 இருவிழியும் ஊற்றெடுக்கச் சேர மன்னன் சேதி சொல்லி
 நரைமுதிர்ப் பெரியவரின் முகம்பார்க்க நடுங்கி நின்றான்!
+
+<!-- Gate B restores File7-locked `புலவனாய்`; the surrounding narrative order remains aligned to the controlling scan after illustration scan 329. -->

@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; narrative continuation; printed page number 336"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 347
 ---
@@ -48,8 +48,10 @@ continues_from_scan: 347
 வறுமை நிலை வெறுத்துவிட்டுப் பெண் வேண்டாமென மணமகனைப்
 பெற்றவர்கள் திருமணத்தை நிறுத்திவிட்டார் என்பதாலே;
 குற்றமிலாக் குலவிளக்கு, கொடுஞ்சாவின் மடிதனிலே வீழ்ந்து
-விட்டாள்!
+<div align="right">விட்டாள்!</div>
 பூக்காட்டுப் பைங்கிளியின் வீட்டோரம்; புலவர்பிரான்
 சாக்காட்டுப் பறைகேட்டுப் புலம்பிவிட்டார்; அந்தப்
 புலம்பல்தான் புரட்சிக் கருத்தாக வெளிப்பட்டு
 புறநானூற்றுப் பாடலாக புத்தொளி காட்டுதிங்கே!
+
+<!-- Gate B returns File7-locked `விட்டாள்!` from its displaced post-page-number extraction position to the source-supported right-edge completion of `...மடிதனிலே வீழ்ந்து`. -->

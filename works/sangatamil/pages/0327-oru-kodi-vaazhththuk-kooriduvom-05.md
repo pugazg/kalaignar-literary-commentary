@@ -8,14 +8,14 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running author header; quotation continuation and closure; provenance; பொருள் விளக்கம்; final ornament; printed page number 315"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; quotation/provenance/gloss checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 326
 ---
 
 > சிறுகுழை துயல் வரும் காதிற் பணைத்தோட்
 > குறுநெறிக்கொண்ட கூந்தலாய் மகள்
-> அளைவிலை உணவிற் கிளையுடன் அருத்தி
+> அளைவிலை உணவிற் கிளையுட னருத்தி
 > நெய்விலைக் கட்டிப் பசும்பொன் கொள்ளாள்
 > எருமை நல்லான் கருநாகு பெறூஉம்
 > மடிவாய்க் கோவலர் குடிவயிற் சேப்பின்
@@ -39,3 +39,5 @@ continues_from_scan: 326
 மூரல் = சோறு.
 
 *
+
+<!-- Gate B preserves File7-locked `கிளையுட னருத்தி` exactly as the controlling scan presents the sandhi/spacing; quotation → provenance → glossary structure remains PDF-controlled. -->

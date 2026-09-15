@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; narrative continuation; printed page number 328"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 339
 ---
@@ -35,15 +35,13 @@ continues_from_scan: 339
 பெரும்புலவர் மாங்குடி மருதனார் என்பவரோ;
 கடும் போரிட்டுக் களவாகை சூடி வரும்
 காளையாம் பாண்டியனின் திறம் வியந்து
-களிப்புற்றார் எனினும்
-அவன்
+களிப்புற்றார் எனினும் - அவன்
 களம் காணும் ஆசையிலே சுழல்வது கண்டு
 சலிப்புற்றார்!
 மாவீரன் பாண்டியனின்
 போர்த்தாகம் குறைக்க
 “மதுரைக் காஞ்சி” யெனும் நூல் செய்தார் - அந்த
 மாங்குடி மருதனார் பாடிய புறப்பாட்டில்;
-போரில்
 “கடலைக் கிழித்துச் செல்லும் மரக்கலம் போல்
 களத்தில் ஊடுருவும் யானைப்படையின் பின்னே
 வேல்கொண்ட வீரர் அறுத்தெடுத்த
@@ -54,6 +52,7 @@ continues_from_scan: 339
 வேள்வி நடத்துகின்ற பாண்டியனே!” என்று,
 பலபடப் பாராட்டிவிட்டு - அவனது
 பகைவரையும் புகழ்கின்றார்!
-மாற்றார் எனும் பெயர் பெற்று
+மாற்றார் எனும் பெயர் பெற்று - உன்னிடம்
 தோற்றார் எனினும்,
-உன்னிடம்
+
+<!-- Gate B uses the PDF as structural authority: locked `அவன்` and `உன்னிடம்` are returned to their physical positions, while File7-only `போரில்` and trailing wrapper fragment `கள` are excluded as unsupported extraction debris. -->

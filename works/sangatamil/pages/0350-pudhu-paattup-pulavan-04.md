@@ -8,13 +8,15 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running author header; narrative closure; Purananuru quotation, provenance, பொருள் விளக்கம் and note opening; printed page number 338"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; quotation/provenance/gloss and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 349
+continues_to_scan: 351
 ---
 
 மலரணி பூண்டு மகிழ்ந்து புணர்ந்திடும் காதலர் ஒருபுறம்;
-மலைவீழ் அருவிக்கண்ணீர் உகுத்து மாண்டு மடிந்திடும் மகளிர் ஒருபுறம் -
+மலைவீழ் அருவிக்கண்ணீர் உகுத்து மாண்டு மடிந்திடும் மகளிர்
+<div align="right">ஒருபுறம் -</div>
 இன்ப வாழ்வனைத்தும் ஒரு சாரார்க்கென்றும்
 துன்பம் ஒரு பிரிவினர்க்குத் தொடர் நிழல் என்றும் - மனிதப்
 பண்பிலாதவர்கள் படைத்த இலக்கணம்; இந்த
@@ -57,3 +59,5 @@ continues_from_scan: 349
 இப்புறநானூறுப் பாடலுக்கு விளக்கவுரை எழுதிய
 அறிஞர் பெருமகனார் ஒளவை துரைசாமிப்பிள்ளை அவர்கள் பின்
 வருமாறு குறிப்பிடுகிறார்:
+
+<!-- Gate B restores locked `ஒருபுறம் -` to its source-supported right-edge position, excludes File7 wrapper `Po` and stray numeric `66`, and records continuation of the source-note block to scan 351. -->

@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running author header; narrative continuation; Sangam quotation begins near foot of page; printed page number 319"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; visible dialogue and quotation start checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 330
 ---
@@ -28,7 +28,7 @@ continues_from_scan: 330
 எண்ணற்ற கணைகள் மொய்த்த உடலுடன் வீழ்ந்தபிறகும்
 முன்னும் பின்னும் சூழ்ந்த பகைவர் - என்
 கன்னல் நிகர்த்தானின் உயிரைப் போக்கினர்!
-படைக்கலன் தடுக்கும் அவன் கேடயத்தினையும்
+படைக்கலன் தடுக்கும் அவன் கேடயம்தனையும்
 உடைத்த பகைவர்; பஞ்சு பஞ்சாய் - அவன்
 தசைகளைச் சிதைத்துப் போர்க்களத்
 திசையெலாம் பரப்பினர்!
@@ -52,3 +52,5 @@ continues_from_scan: 330
 > அருங்கடன் இறுமார் வயவர் எறிய,
 > உடம்பும் தோன்றோ உயிர்கெட் டன்றே,
 > மலையுநர் மடங்கி மாறுஎதிர் கழியத்
+
+<!-- Gate B preserves File7-locked `கேடயம்தனையும்` even though the visible scan differs; this lexical discrepancy is recorded rather than source-corrected at Gate B. Stray File7 numeric `66` remains excluded. -->
