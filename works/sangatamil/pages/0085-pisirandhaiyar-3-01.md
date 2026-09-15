@@ -7,7 +7,7 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "fast direct transcription from source scan; verification intentionally deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -16,12 +16,12 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ஆந்தையார் சொற்கேட்டு அன்னச் சேவலார் - சோழ  
 வேந்தனிருக்குமிடம் சென்றாரோ இல்லையோ;
 
-ஆயிர் நண்பன் சிறப்பைச் செதுக்கிய மனநிறைவுடன்  
-அன்பு மனைவியிடம் புலவர் அகமின் பாடிக்காட்டி மகிழ்ந்தார்!
+ஆருயிர் நண்பன் சிறப்பைச் செதுக்கிய மனநிறைவுடன்  
+அன்பு மனைவியிடம் புலவர் அதனைப் பாடிக்காட்டி மகிழ்ந்தார்!
 
 “அன்னச் சேவல் கற்பனை மிக அருமை” என்றுரைத்தவாறு  
 அன்னம் படைத்திட்டாள் துணைவி; அவருக்கும்  
-பேரக்குழந்தைக்கும்!
+பேரக்குழந்தைகட்கும்!
 
 “முல்லை வரிசை இரண்டிங்கே சிரிக்கின்ற காட்சி பாராய்”  
 என்றார்!
@@ -29,7 +29,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 வில்லையொத்த புருவம் விரித்து “எங்கே?” எனக் கேட்டாள்  
 துணைவி!
 
-“பாவையுந்தன் பற்கள் சிரிப்போடு - இதோ  
+“பாவையுந்தன் பாளைச் சிரிப்போடு - இதோ  
 பச்சரிசிச் சோற்றின் சிரிப்பையுந்தான் முல்லையென்றேன்”  
 என்றார்!
 
@@ -39,18 +39,17 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 வார்த்தெடுத்த வைரச்சிலைகளுக்கு இம்மொழி புரிய வயது  
 போதாது!
 
-வளர்ந்த மகன், மனைவியுடன் வயலுக்குச் சென்றுள்ளான்  
-- அவர்கள் வருவதற்கு நேரமாகும்; அஞ்சாதே!” என்றார்.
+வளர்ந்த மகன், மனைவியுடன் வயலுக்குச் சென்றுளான்  
+வருவதற்கு நேரமாகும்; அஞ்சாதே!” என்றார்.
 
 “வந்துவிடுவார் இப்போது கொஞ்சாதீர்” என எச்சரித்தாள்!  
-- உடன் வாய் மூடிக்கொண்டார் புலவர்; அவள் வடித்திட்ட சோற்றிலே - அது
+- உடன் வாய் மூடிக்கொண்டார் புலவர்; அவள் வடித்திட்ட சோற்றாலே! - அது
 
 போய்த் தொண்டையிலே அடைத்ததாலே  
-புரை ஏறிப் புலவர் தவித்தார்!
+புரையேறிப் புலவர் தவித்தார்!
 
 தையலோ தாவிப்பாய்ந்து கணவன் தலையிலே ஒரு  
 தட்டுத்தட்டிக்
 
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
-<!-- A few readings on this dense page remain provisional for Pass 2. -->
+<!-- Gate B restores File2 lexical wording. File2's stray `அவர்கள்` / `66` sequence is treated as non-source OCR noise because the controlling scan does not support it; scan structure controls page placement and lineation. -->
 <!-- மூல ஸ்கேன் பக்கம்: 85; அச்சுப் பக்கம்: 70 -->
