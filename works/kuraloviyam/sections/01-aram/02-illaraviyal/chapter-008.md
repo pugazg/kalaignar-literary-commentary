@@ -2,15 +2,21 @@
 
 - Book: **அறத்துப்பால் / Book of Aram**
 - Iyal: **இல்லறவியல்** — derived navigation placement
-- controlled English label: **Possession of Love**
 - source Tamil form: **அன்புடைமை**
+- maintained English label: **Possession of Love**
+- Kuraloviyam contents entries linked here: **2**
 
-## Maintained control evidence
+## Maintained label/control evidence
 
-| Tamil source form | Controlled English | Evidence note |
+| Tamil form | English label | Evidence note |
 |---|---|---|
 | அன்புடைமை | Possession of Love | Chapter 8 label on scan 432 / printed 415. |
 
-## Entry crosswalk
+## Kuraloviyam contents entries
 
-The exact source contents entries are preserved under `../../../04-contents/`. Entry-to-Adhikaram links are intentionally deferred until each entry span is checked against its audited closing Chapter/Kural metadata; no external-edition inference is used here.
+| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+|---:|---|---:|---:|---|---|
+| 193 | புறத்துறுப் பெல்லாம் | 414–415 | 431–432 | 79 | RESOLVED |
+| 224 | அன்பிற்கும் உண்டோ | 478–479 | 495–496 | 71 | RESOLVED |
+
+Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.

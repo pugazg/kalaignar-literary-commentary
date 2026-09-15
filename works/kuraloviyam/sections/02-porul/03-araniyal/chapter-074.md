@@ -2,15 +2,20 @@
 
 - Book: **பொருட்பால் / Book of Porul**
 - Iyal: **அரணியல்** — derived navigation placement
-- controlled English label: **Fortification**
 - source Tamil form: **அரணியல்**
+- maintained English label: **Fortification**
+- Kuraloviyam contents entries linked here: **1**
 
-## Maintained control evidence
+## Maintained label/control evidence
 
-| Tamil source form | Controlled English | Evidence note |
+| Tamil form | English label | Evidence note |
 |---|---|---|
 | அரணியல் | Fortification | Source-printed Chapter 74 label on scan 391 / printed 374; preserve the source-specific label for this audited record. |
 
-## Entry crosswalk
+## Kuraloviyam contents entries
 
-The exact source contents entries are preserved under `../../../04-contents/`. Entry-to-Adhikaram links are intentionally deferred until each entry span is checked against its audited closing Chapter/Kural metadata; no external-edition inference is used here.
+| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+|---:|---|---:|---:|---|---|
+| 174 | அ. இருபுனலும் வாய்ந்த / ஆ. உறுபசியும் ஓவா / இ. ஆங்கமை வெய்திய | 373–374 | 390–391 | 737, 734, 740 | RESOLVED |
+
+Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.

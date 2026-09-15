@@ -2,15 +2,21 @@
 
 - Book: **அறத்துப்பால் / Book of Aram**
 - Iyal: **இல்லறவியல்** — derived navigation placement
-- controlled English label: **Self-Control**
 - source Tamil form: **அடக்கமுடைமை**
+- maintained English label: **Self-Control**
+- Kuraloviyam contents entries linked here: **2**
 
-## Maintained control evidence
+## Maintained label/control evidence
 
-| Tamil source form | Controlled English | Evidence note |
+| Tamil form | English label | Evidence note |
 |---|---|---|
 | அடக்கமுடைமை | Self-Control | Chapter 13 label on scan 261. |
 
-## Entry crosswalk
+## Kuraloviyam contents entries
 
-The exact source contents entries are preserved under `../../../04-contents/`. Entry-to-Adhikaram links are intentionally deferred until each entry span is checked against its audited closing Chapter/Kural metadata; no external-edition inference is used here.
+| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+|---:|---|---:|---:|---|---|
+| 110 | தீயினாற் சுட்டபுண் | 243–244 | 260–261 | 129 | RESOLVED |
+| 277 | நிலையில் திரியாது | 591–592 | 608–609 | 124 | RESOLVED |
+
+Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.

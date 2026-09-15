@@ -2,15 +2,20 @@
 
 - Book: **பொருட்பால் / Book of Porul**
 - Iyal: **அரசியல்** — derived navigation placement
-- controlled English label: **Seeking the Support of the Great**
 - source Tamil form: **பெரியாரைத் துணைக்கோடல்**
+- maintained English label: **Seeking the Support of the Great**
+- Kuraloviyam contents entries linked here: **1**
 
-## Maintained control evidence
+## Maintained label/control evidence
 
-| Tamil source form | Controlled English | Evidence note |
+| Tamil form | English label | Evidence note |
 |---|---|---|
 | பெரியாரைத் துணைக்கோடல் | Seeking the Support of the Great | Chapter 45 label on scan 285. |
 
-## Entry crosswalk
+## Kuraloviyam contents entries
 
-The exact source contents entries are preserved under `../../../04-contents/`. Entry-to-Adhikaram links are intentionally deferred until each entry span is checked against its audited closing Chapter/Kural metadata; no external-edition inference is used here.
+| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+|---:|---|---:|---:|---|---|
+| 122 | இடிப்பாரை இல்லாத | 267–268 | 284–285 | 448 | RESOLVED |
+
+Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.

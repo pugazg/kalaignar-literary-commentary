@@ -2,15 +2,21 @@
 
 - Book: **பொருட்பால் / Book of Porul**
 - Iyal: **குடியியல்** — derived navigation placement
-- controlled English label: **Poverty**
 - source Tamil form: **நல்குரவு**
+- maintained English label: **Poverty**
+- Kuraloviyam contents entries linked here: **2**
 
-## Maintained control evidence
+## Maintained label/control evidence
 
-| Tamil source form | Controlled English | Evidence note |
+| Tamil form | English label | Evidence note |
 |---|---|---|
 | நல்குரவு | Poverty | Chapter 105 label on scan 257. |
 
-## Entry crosswalk
+## Kuraloviyam contents entries
 
-The exact source contents entries are preserved under `../../../04-contents/`. Entry-to-Adhikaram links are intentionally deferred until each entry span is checked against its audited closing Chapter/Kural metadata; no external-edition inference is used here.
+| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+|---:|---|---:|---:|---|---|
+| 108 | நெருப்பினுள் துஞ்சலும் | 239–240 | 256–257 | 1049 | RESOLVED |
+| 214 | இற்றிறந்தார் கண்ணேயும் | 459–460 | 476–477 | 1044 | RESOLVED |
+
+Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.

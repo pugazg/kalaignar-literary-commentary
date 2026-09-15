@@ -2,15 +2,22 @@
 
 - Book: **பொருட்பால் / Book of Porul**
 - Iyal: **அரசியல்** — derived navigation placement
-- controlled English label: **Knowing the Proper Time**
 - source Tamil form: **காலம் அறிதல்**
+- maintained English label: **Knowing the Proper Time**
+- Kuraloviyam contents entries linked here: **3**
 
-## Maintained control evidence
+## Maintained label/control evidence
 
-| Tamil source form | Controlled English | Evidence note |
+| Tamil form | English label | Evidence note |
 |---|---|---|
 | காலம் அறிதல் | Knowing the Proper Time | Chapter 49 label on scan 139. |
 
-## Entry crosswalk
+## Kuraloviyam contents entries
 
-The exact source contents entries are preserved under `../../../04-contents/`. Entry-to-Adhikaram links are intentionally deferred until each entry span is checked against its audited closing Chapter/Kural metadata; no external-edition inference is used here.
+| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+|---:|---|---:|---:|---|---|
+| 52 | பகல்வெல்லும் கூகையை | 121–122 | 138–139 | 481 | RESOLVED |
+| 192 | ஊக்கம் உடையான் | 412–413 | 429–430 | 486 | RESOLVED |
+| 196 | கொக்கொக்கக் கூம்பும் | 421–422 | 438–439 | 490 | RESOLVED |
+
+Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.

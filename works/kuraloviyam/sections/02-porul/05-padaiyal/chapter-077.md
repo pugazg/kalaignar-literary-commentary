@@ -2,15 +2,21 @@
 
 - Book: **பொருட்பால் / Book of Porul**
 - Iyal: **படையியல்** — derived navigation placement
-- controlled English label: **Excellence of the Army**
 - source Tamil form: **படைமாட்சி**
+- maintained English label: **Excellence of the Army**
+- Kuraloviyam contents entries linked here: **2**
 
-## Maintained control evidence
+## Maintained label/control evidence
 
-| Tamil source form | Controlled English | Evidence note |
+| Tamil form | English label | Evidence note |
 |---|---|---|
 | படைமாட்சி | Excellence of the Army | Chapter 77 label on scan 61. |
 
-## Entry crosswalk
+## Kuraloviyam contents entries
 
-The exact source contents entries are preserved under `../../../04-contents/`. Entry-to-Adhikaram links are intentionally deferred until each entry span is checked against its audited closing Chapter/Kural metadata; no external-edition inference is used here.
+| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+|---:|---|---:|---:|---|---|
+| 13 | மறமானம் மாண்ட | 43–44 | 60–61 | 766 | RESOLVED |
+| 128 | உலைவிடத்து ஊறஞ்சா | 279–280 | 296–297 | 762 | RESOLVED |
+
+Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.

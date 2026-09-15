@@ -2,15 +2,20 @@
 
 - Book: **பொருட்பால் / Book of Porul**
 - Iyal: **அரசியல்** — derived navigation placement
-- controlled English label: **Freedom from Negligence**
 - source Tamil form: **பொச்சாவாமை**
+- maintained English label: **Freedom from Negligence**
+- Kuraloviyam contents entries linked here: **1**
 
-## Maintained control evidence
+## Maintained label/control evidence
 
-| Tamil source form | Controlled English | Evidence note |
+| Tamil form | English label | Evidence note |
 |---|---|---|
 | பொச்சாவாமை | Freedom from Negligence | Chapter 54 label on scan 628 / printed 611. |
 
-## Entry crosswalk
+## Kuraloviyam contents entries
 
-The exact source contents entries are preserved under `../../../04-contents/`. Entry-to-Adhikaram links are intentionally deferred until each entry span is checked against its audited closing Chapter/Kural metadata; no external-edition inference is used here.
+| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+|---:|---|---:|---:|---|---|
+| 286 | இகழ்ச்சியின் கெட்டாரை | 610–611 | 627–628 | 539 | RESOLVED |
+
+Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.

@@ -2,15 +2,20 @@
 
 - Book: **பொருட்பால் / Book of Porul**
 - Iyal: **நட்பியல்** — derived navigation placement
-- controlled English label: **Petty Knowledge**
 - source Tamil form: **புல்லறிவாண்மை**
+- maintained English label: **Petty Knowledge**
+- Kuraloviyam contents entries linked here: **1**
 
-## Maintained control evidence
+## Maintained label/control evidence
 
-| Tamil source form | Controlled English | Evidence note |
+| Tamil form | English label | Evidence note |
 |---|---|---|
 | புல்லறிவாண்மை | Petty Knowledge | Chapter 85 label on scan 590 / printed 573. |
 
-## Entry crosswalk
+## Kuraloviyam contents entries
 
-The exact source contents entries are preserved under `../../../04-contents/`. Entry-to-Adhikaram links are intentionally deferred until each entry span is checked against its audited closing Chapter/Kural metadata; no external-edition inference is used here.
+| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+|---:|---|---:|---:|---|---|
+| 268 | கல்லாத மேற்கொண்டு | 572–573 | 589–590 | 845 | RESOLVED |
+
+Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.

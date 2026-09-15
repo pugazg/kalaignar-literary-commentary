@@ -2,15 +2,21 @@
 
 - Book: **அறத்துப்பால் / Book of Aram**
 - Iyal: **இல்லறவியல்** — derived navigation placement
-- controlled English label: **Speaking Pleasant Words**
 - source Tamil form: **இனியவை கூறல்**
+- maintained English label: **Speaking Pleasant Words**
+- Kuraloviyam contents entries linked here: **2**
 
-## Maintained control evidence
+## Maintained label/control evidence
 
-| Tamil source form | Controlled English | Evidence note |
+| Tamil form | English label | Evidence note |
 |---|---|---|
 | இனியவை கூறல் | Speaking Pleasant Words | Chapter 10 label on scan 131. |
 
-## Entry crosswalk
+## Kuraloviyam contents entries
 
-The exact source contents entries are preserved under `../../../04-contents/`. Entry-to-Adhikaram links are intentionally deferred until each entry span is checked against its audited closing Chapter/Kural metadata; no external-edition inference is used here.
+| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+|---:|---|---:|---:|---|---|
+| 48 | இனிய உளவாக | 113–114 | 130–131 | 100 | RESOLVED |
+| 216 | பணிவுடையன் இன்சொல்லன் | 462–463 | 479–480 | 95 | RESOLVED |
+
+Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.

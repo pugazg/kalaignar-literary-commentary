@@ -2,15 +2,22 @@
 
 - Book: **பொருட்பால் / Book of Porul**
 - Iyal: **அமைச்சியல்** — derived navigation placement
-- controlled English label: **The Minister**
 - source Tamil form: **அமைச்சு**
+- maintained English label: **The Minister**
+- Kuraloviyam contents entries linked here: **3**
 
-## Maintained control evidence
+## Maintained label/control evidence
 
-| Tamil source form | Controlled English | Evidence note |
+| Tamil form | English label | Evidence note |
 |---|---|---|
 | அமைச்சு | The Minister | Chapter 64 label on scan 69. |
 
-## Entry crosswalk
+## Kuraloviyam contents entries
 
-The exact source contents entries are preserved under `../../../04-contents/`. Entry-to-Adhikaram links are intentionally deferred until each entry span is checked against its audited closing Chapter/Kural metadata; no external-edition inference is used here.
+| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+|---:|---|---:|---:|---|---|
+| 17 | பழுதெண்ணும் மந்திரியின் | 51–52 | 68–69 | 639 | RESOLVED |
+| 208 | செயற்கை அறிந்த | 447–448 | 464–465 | 637 | RESOLVED |
+| 280 | முறைப்படச் சூழ்ந்தும் | 598–599 | 615–616 | 640 | RESOLVED |
+
+Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.

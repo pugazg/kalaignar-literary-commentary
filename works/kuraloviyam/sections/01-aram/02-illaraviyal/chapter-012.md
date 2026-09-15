@@ -2,16 +2,22 @@
 
 - Book: **அறத்துப்பால் / Book of Aram**
 - Iyal: **இல்லறவியல்** — derived navigation placement
-- controlled English label: **Impartiality**
 - source Tamil forms: **நடுவுநிலைமை / நடுவு நிலைமை**
+- maintained English label: **Impartiality**
+- Kuraloviyam contents entries linked here: **2**
 
-## Maintained control evidence
+## Maintained label/control evidence
 
-| Tamil source form | Controlled English | Evidence note |
+| Tamil form | English label | Evidence note |
 |---|---|---|
 | நடுவுநிலைமை | Impartiality | Chapter 12 label on scan 415 / printed 398. |
 | நடுவு நிலைமை | Impartiality | Chapter 12 label on scan 588 / printed 571. |
 
-## Entry crosswalk
+## Kuraloviyam contents entries
 
-The exact source contents entries are preserved under `../../../04-contents/`. Entry-to-Adhikaram links are intentionally deferred until each entry span is checked against its audited closing Chapter/Kural metadata; no external-edition inference is used here.
+| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+|---:|---|---:|---:|---|---|
+| 185 | கெடுவல்யான் என்பது | 397–398 | 414–415 | 116 | RESOLVED |
+| 267 | சொற்கோட்டம் இல்லது | 570–571 | 587–588 | 119 | RESOLVED |
+
+Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.

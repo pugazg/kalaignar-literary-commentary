@@ -3,7 +3,7 @@
 - Book: **அறத்துப்பால் / Book of Aram**
 - navigation range: **Chapters 25–37**
 - classification: **derived navigation scaffold**, not a transcribed Kuraloviyam contents heading
-- source-evidenced Chapter numbers in this range: **12/13**
+- source-evidenced Chapter numbers after S2: **12/13**
 
 ## Source-evidenced Adhikaram files
 
@@ -20,6 +20,6 @@
 - [Chapter 36](./chapter-036.md) — மெய்யுணர்தல் — Realization of Truth
 - [Chapter 37](./chapter-037.md) — அவா அறுத்தல் — Renouncing Desire
 
-## Not evidenced by maintained Chapter-label controls
+## Not evidenced by maintained entry-closure metadata
 
 25

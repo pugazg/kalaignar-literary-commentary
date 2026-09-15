@@ -2,15 +2,20 @@
 
 - Book: **அறத்துப்பால் / Book of Aram**
 - Iyal: **துறவறவியல்** — derived navigation placement
-- controlled English label: **Realization of Truth**
 - source Tamil form: **மெய்யுணர்தல்**
+- maintained English label: **Realization of Truth**
+- Kuraloviyam contents entries linked here: **1**
 
-## Maintained control evidence
+## Maintained label/control evidence
 
-| Tamil source form | Controlled English | Evidence note |
+| Tamil form | English label | Evidence note |
 |---|---|---|
 | மெய்யுணர்தல் | Realization of Truth | Chapter 36 label on scan 42. |
 
-## Entry crosswalk
+## Kuraloviyam contents entries
 
-The exact source contents entries are preserved under `../../../04-contents/`. Entry-to-Adhikaram links are intentionally deferred until each entry span is checked against its audited closing Chapter/Kural metadata; no external-edition inference is used here.
+| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+|---:|---|---:|---:|---|---|
+| 4 | அ. ஒருமைக்கண் தான்கற்ற / ஆ. ஓர்த்துள்ளம் உள்ளது | 24–25 | 41–42 | 357 | RESOLVED |
+
+Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.

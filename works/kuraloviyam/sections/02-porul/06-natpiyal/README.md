@@ -3,7 +3,7 @@
 - Book: **பொருட்பால் / Book of Porul**
 - navigation range: **Chapters 79–95**
 - classification: **derived navigation scaffold**, not a transcribed Kuraloviyam contents heading
-- source-evidenced Chapter numbers in this range: **15/17**
+- source-evidenced Chapter numbers after S2: **15/17**
 
 ## Source-evidenced Adhikaram files
 
@@ -23,6 +23,6 @@
 - [Chapter 94](./chapter-094.md) — சூது — Gambling
 - [Chapter 95](./chapter-095.md) — மருந்து — Medicine
 
-## Not evidenced by maintained Chapter-label controls
+## Not evidenced by maintained entry-closure metadata
 
 86, 91

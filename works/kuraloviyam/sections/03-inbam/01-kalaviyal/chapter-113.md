@@ -2,15 +2,26 @@
 
 - Book: **இன்பத்துப்பால் / Book of Inbam**
 - Iyal: **களவியல்** — derived navigation placement
-- controlled English label: **Declaring Love's Excellence**
-- source Tamil form: **காதற் சிறப்புரைத்தல் / காதற்சிறப்புரைத்தல்**
+- source Tamil forms: **காதற் சிறப்புரைத்தல் / காதற்சிறப்புரைத்தல்**
+- maintained English label: **Declaring Love's Excellence**
+- Kuraloviyam contents entries linked here: **7**
 
-## Maintained control evidence
+## Maintained label/control evidence
 
-| Tamil source form | Controlled English | Evidence note |
+| Tamil form | English label | Evidence note |
 |---|---|---|
 | காதற் சிறப்புரைத்தல் / காதற்சிறப்புரைத்தல் | Declaring Love's Excellence | Chapter 113; scan 71 uses the spaced form and Part 003 scan 259 uses the closed source form `காதற்சிறப்புரைத்தல்`. |
 
-## Entry crosswalk
+## Kuraloviyam contents entries
 
-The exact source contents entries are preserved under `../../../04-contents/`. Entry-to-Adhikaram links are intentionally deferred until each entry span is checked against its audited closing Chapter/Kural metadata; no external-edition inference is used here.
+| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+|---:|---|---:|---:|---|---|
+| 18 | அ. காணிற் குவளை / ஆ. அனிச்சமும் அன்னத்தின் / இ. கருமணியிற் பாவாய்நீ | 53–54 | 70–71 | 1123 | RESOLVED |
+| 109 | அ. கண்ணுள்ளின் போகார் / ஆ. உள்ளுவன் மன்னான் | 241–242 | 258–259 | 1126, 1125 | RESOLVED |
+| 157 | பாலொடு தேன்கலந்து | 339–340 | 356–357 | 1121 | RESOLVED |
+| 163 | உவந்துறைவர் உள்ளத்துள் | 351–352 | 368–369 | 1130 | RESOLVED |
+| 203 | அ. கண்ணுள்ளார் காத / ஆ. இமைப்பின் கரப்பாக்கு | 435–437 | 452–454 | 1127, 1129 | RESOLVED |
+| 287 | நெஞ்சத்தார் காதல் | 612–613 | 629–630 | 1128 | RESOLVED |
+| 295 | வாழ்தல் உயிர்க்கன்னள் | 628–630 | 645–647 | 1124 | RESOLVED |
+
+Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.

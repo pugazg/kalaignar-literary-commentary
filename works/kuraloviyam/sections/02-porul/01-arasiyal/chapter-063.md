@@ -2,15 +2,24 @@
 
 - Book: **பொருட்பால் / Book of Porul**
 - Iyal: **அரசியல்** — derived navigation placement
-- controlled English label: **Not Succumbing to Adversity**
 - source Tamil form: **இடுக்கண் அழியாமை**
+- maintained English label: **Not Succumbing to Adversity**
+- Kuraloviyam contents entries linked here: **5**
 
-## Maintained control evidence
+## Maintained label/control evidence
 
-| Tamil source form | Controlled English | Evidence note |
+| Tamil form | English label | Evidence note |
 |---|---|---|
 | இடுக்கண் அழியாமை | Not Succumbing to Adversity | Chapter 63 label on scans 180, 190 and 199. |
 
-## Entry crosswalk
+## Kuraloviyam contents entries
 
-The exact source contents entries are preserved under `../../../04-contents/`. Entry-to-Adhikaram links are intentionally deferred until each entry span is checked against its audited closing Chapter/Kural metadata; no external-edition inference is used here.
+| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+|---:|---|---:|---:|---|---|
+| 9 | அற்றேமென்று அல்லல் | 35–36 | 52–53 | 626 | RESOLVED |
+| 72 | அ. இடுக்கண் வருங்கால் / ஆ. ஒன்றொன்றித் தந்த | 162–163 | 179–180 | 621 | RESOLVED |
+| 76 | வெள்ளத் தனைய | 172–173 | 189–190 | 622 | RESOLVED |
+| 80 | இன்பத்துள் இன்பம் | 180–182 | 197–199 | 629 | RESOLVED |
+| 134 | அ. ஆக்கம் அதர்வினாய் / ஆ. மடுத்தவா யெல்லாம் | 292–293 | 309–310 | 624 | RESOLVED |
+
+Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.

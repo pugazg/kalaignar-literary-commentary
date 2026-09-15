@@ -3,7 +3,7 @@
 - Book: **பொருட்பால் / Book of Porul**
 - navigation range: **Chapters 74–75**
 - classification: **derived navigation scaffold**, not a transcribed Kuraloviyam contents heading
-- source-evidenced Chapter numbers in this range: **2/2**
+- source-evidenced Chapter numbers after S2: **2/2**
 
 ## Source-evidenced Adhikaram files
 

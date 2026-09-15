@@ -2,15 +2,22 @@
 
 - Book: **பொருட்பால் / Book of Porul**
 - Iyal: **குடியியல்** — derived navigation placement
-- controlled English label: **Greatness**
 - source Tamil form: **பெருமை**
+- maintained English label: **Greatness**
+- Kuraloviyam contents entries linked here: **3**
 
-## Maintained control evidence
+## Maintained label/control evidence
 
-| Tamil source form | Controlled English | Evidence note |
+| Tamil form | English label | Evidence note |
 |---|---|---|
 | பெருமை | Greatness | Chapter 98 label on scans 377 and 383 / printed 360 and 366. |
 
-## Entry crosswalk
+## Kuraloviyam contents entries
 
-The exact source contents entries are preserved under `../../../04-contents/`. Entry-to-Adhikaram links are intentionally deferred until each entry span is checked against its audited closing Chapter/Kural metadata; no external-edition inference is used here.
+| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+|---:|---|---:|---:|---|---|
+| 167 | மேவிருந்தும் மேலல்லார் | 359–360 | 376–377 | 973 | RESOLVED |
+| 170 | பணியுமாம் என்றும் | 365–366 | 382–383 | 978 | RESOLVED |
+| 264 | பிறப்பொக்கும் எல்லா | 564–565 | 581–582 | 972 | RESOLVED |
+
+Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.

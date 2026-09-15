@@ -2,15 +2,22 @@
 
 - Book: **அறத்துப்பால் / Book of Aram**
 - Iyal: **துறவறவியல்** — derived navigation placement
-- controlled English label: **Impermanence**
 - source Tamil form: **நிலையாமை**
+- maintained English label: **Impermanence**
+- Kuraloviyam contents entries linked here: **3**
 
-## Maintained control evidence
+## Maintained label/control evidence
 
-| Tamil source form | Controlled English | Evidence note |
+| Tamil form | English label | Evidence note |
 |---|---|---|
 | நிலையாமை | Impermanence | Chapter 34 label on scans 345 and 349 / printed 328 and 332. |
 
-## Entry crosswalk
+## Kuraloviyam contents entries
 
-The exact source contents entries are preserved under `../../../04-contents/`. Entry-to-Adhikaram links are intentionally deferred until each entry span is checked against its audited closing Chapter/Kural metadata; no external-edition inference is used here.
+| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+|---:|---|---:|---:|---|---|
+| 151 | கூத்தாட்டு அவைக் குழாத்து | 327–328 | 344–345 | 332 | RESOLVED |
+| 153 | நாளென ஒன்று போல் | 331–332 | 348–349 | 334 | RESOLVED |
+| 300 | நெருநல் உளனொருவன் | 639–640 | 656–657 | 336 | RESOLVED |
+
+Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.

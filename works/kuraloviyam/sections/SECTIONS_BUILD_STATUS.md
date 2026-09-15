@@ -2,53 +2,54 @@
 
 ## S1 — Structural scaffold COMPLETE / PASS
 
-Base maintained-work closure:
+- base maintained-work closure — `2069436456f9501cc5ade59fade19c4df51aaf14`;
+- S1 section-layer commit — `b29cb2e5d25904250ca69ad2c0bc085666685b01`;
+- derived files created — **156**;
+- audited Tamil page changes — **0**;
+- maintained English page changes — **0**.
 
-`2069436456f9501cc5ade59fade19c4df51aaf14`
+## S2 — Entry-to-Adhikaram crosswalk COMPLETE / PASS WITH TWO SOURCE-METADATA LIMITATIONS
 
-S1 section-layer commit:
+S2 processed the exact source contents entries **1–300**.
 
-`b29cb2e5d25904250ca69ad2c0bc085666685b01`
+Final disposition:
 
-S1 created **156 derived files** under `works/kuraloviyam/sections/` and changed **0 audited Tamil page files** and **0 maintained English page files**.
+- entries processed — **300/300**;
+- fully resolved — **298**;
+- partial source metadata — **2**: entries **46, 104**;
+- unresolved — **0**;
+- source-evidenced Chapter numbers — **121/133**;
+- Chapter numbers not evidenced by the 300 entry closures — **1, 18, 22, 25, 44, 52, 70, 76, 86, 91, 106, 107**.
 
-Created structure:
+### Source-metadata limitations
 
-- front matter — **7 source-derived sub-sections + README**;
-- Book/Iyal scaffold:
-  - அறத்துப்பால் — **4 Iyal**;
-  - பொருட்பால் — **7 Iyal**;
-  - இன்பத்துப்பால் — **2 Iyal**;
-- source-evidenced Adhikaram files — **120 distinct Chapter numbers**;
-- exact source contents — **8 files covering entries 1–300**;
-- structure policy / Adhikaram coverage controls.
+- entry **46**: the first quoted Kural `என்பு இலதனை...` is present, but its Chapter/Kural number is not explicitly supplied in the audited page record; the second quotation closes with Chapter 83 / Kural 828.
+- entry **104**: the first quoted Kural `உழுதுண்டு வாழ்வாரே...` is present, but its Chapter/Kural number is not explicitly supplied in the audited page record; the second quotation closes with Chapter 28 / Kural 273.
 
-Source-evidenced Chapter numbers absent from the maintained Chapter-label controls:
+No external numbering was inferred.
 
-**1, 18, 22, 25, 44, 52, 70, 71, 76, 86, 91, 106, 107**
+### Shared-page correction
 
-No labels were imported for those numbers from another edition.
+Entry **202** continues through printed page **435 / scan 452**, which is also the locator page for entry 203. S2 therefore preserves an overlapping entry span where the audited source proves it.
 
-The source-number conflict at Chapter **26** is preserved without correction:
+### Durable outputs
 
-- அருளுடைமை — Possession of Compassion;
-- புலால் மறுத்தல் — Abstaining from Flesh.
+- `crosswalk/S2_MASTER_CROSSWALK.tsv`;
+- `crosswalk/S2_EXCEPTION_AUDIT.md`;
+- 121 source-evidenced Adhikaram files populated with linked contents entries;
+- refreshed Iyal indexes;
+- `ADHIKARAM_COVERAGE.md`.
 
-## S2 — Entry-to-Adhikaram crosswalk NEXT
+## Result
 
-Next derived task:
+The requested hierarchy is now operational:
 
-For contents entries **1–300**, use each source entry's printed-page span and the audited closing page's Chapter/Kural metadata to attach the entry to its source-evidenced Adhikaram file.
+**Book → Iyal → Adhikaram → Kuraloviyam contents entry**
 
-Rules:
+with **0 mutations** to the closed Tamil or English page layers.
 
-- use only audited page records;
-- do not infer from an external Thirukkural edition;
-- preserve source Chapter/Kural numbering even when it conflicts with conventional numbering;
-- preserve multi-Kural entries;
-- do not modify `works/kuraloviyam/pages/` or `translations/en/pages/`;
-- record entries that cannot be securely crosswalked as unresolved rather than guessing.
+## Next optional downstream activity
 
-Target end-state:
+**S3 — individual entry leaf records / web-ready navigation index**, if required.
 
-**Book → Iyal → Adhikaram → Kuraloviyam contents entry**, with direct source scan / printed-page / Kural metadata links.
+S3 is optional; S2 already completes the requested section hierarchy.

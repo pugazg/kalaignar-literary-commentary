@@ -2,15 +2,20 @@
 
 - Book: **அறத்துப்பால் / Book of Aram**
 - Iyal: **இல்லறவியல்** — derived navigation placement
-- controlled English label: **Freedom from Envy**
 - source Tamil form: **அழுக்காறாமை**
+- maintained English label: **Freedom from Envy**
+- Kuraloviyam contents entries linked here: **1**
 
-## Maintained control evidence
+## Maintained label/control evidence
 
-| Tamil source form | Controlled English | Evidence note |
+| Tamil form | English label | Evidence note |
 |---|---|---|
 | அழுக்காறாமை | Freedom from Envy | Chapter 17 label on scan 355 / printed 338. |
 
-## Entry crosswalk
+## Kuraloviyam contents entries
 
-The exact source contents entries are preserved under `../../../04-contents/`. Entry-to-Adhikaram links are intentionally deferred until each entry span is checked against its audited closing Chapter/Kural metadata; no external-edition inference is used here.
+| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+|---:|---|---:|---:|---|---|
+| 156 | அழுக்காறு உடையார்க்கு | 337–338 | 354–355 | 165 | RESOLVED |
+
+Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.

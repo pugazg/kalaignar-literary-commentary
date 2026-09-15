@@ -3,7 +3,7 @@
 - Book: **பொருட்பால் / Book of Porul**
 - navigation range: **Chapters 39–63**
 - classification: **derived navigation scaffold**, not a transcribed Kuraloviyam contents heading
-- source-evidenced Chapter numbers in this range: **23/25**
+- source-evidenced Chapter numbers after S2: **23/25**
 
 ## Source-evidenced Adhikaram files
 
@@ -23,7 +23,7 @@
 - [Chapter 54](./chapter-054.md) — பொச்சாவாமை — Freedom from Negligence
 - [Chapter 55](./chapter-055.md) — செங்கோன்மை — Just Rule
 - [Chapter 56](./chapter-056.md) — கொடுங்கோன்மை — Tyrannical Rule
-- [Chapter 57](./chapter-057.md) — வெருவந்த செய்யாமை — Avoiding Tyrannical Severity
+- [Chapter 57](./chapter-057.md) — வெருவந்த செய்யாமை / வெருவந்தசெய்யாமை — Avoiding Tyrannical Severity
 - [Chapter 58](./chapter-058.md) — கண்ணோட்டம் — Gracious Regard
 - [Chapter 59](./chapter-059.md) — ஒற்றாடல் — Espionage
 - [Chapter 60](./chapter-060.md) — ஊக்கம் உடைமை — Possession of Resolve
@@ -31,6 +31,6 @@
 - [Chapter 62](./chapter-062.md) — ஆள்வினையுடைமை / ஆள்வினை உடைமை — Diligent Effort
 - [Chapter 63](./chapter-063.md) — இடுக்கண் அழியாமை — Not Succumbing to Adversity
 
-## Not evidenced by maintained Chapter-label controls
+## Not evidenced by maintained entry-closure metadata
 
 44, 52

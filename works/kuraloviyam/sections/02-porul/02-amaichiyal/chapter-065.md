@@ -2,15 +2,21 @@
 
 - Book: **பொருட்பால் / Book of Porul**
 - Iyal: **அமைச்சியல்** — derived navigation placement
-- controlled English label: **Power of Speech**
-- source Tamil form: **சொல்வன்மை**
+- source Tamil forms: **சொல்வன்மை / சொல் வன்மை**
+- maintained English label: **Power of Speech**
+- Kuraloviyam contents entries linked here: **2**
 
-## Maintained control evidence
+## Maintained label/control evidence
 
-| Tamil source form | Controlled English | Evidence note |
+| Tamil form | English label | Evidence note |
 |---|---|---|
 | சொல்வன்மை | Power of Speech | Chapter 65 label on scan 111. |
 
-## Entry crosswalk
+## Kuraloviyam contents entries
 
-The exact source contents entries are preserved under `../../../04-contents/`. Entry-to-Adhikaram links are intentionally deferred until each entry span is checked against its audited closing Chapter/Kural metadata; no external-edition inference is used here.
+| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+|---:|---|---:|---:|---|---|
+| 38 | அ. விரைந்து தொழில்கேட்கும் / ஆ. இணரூழ்த்தும் நாறா | 92–94 | 109–111 | 648, 650 | RESOLVED |
+| 229 | ஆக்கமுங் கேடும் | 488–489 | 505–506 | 642 | RESOLVED |
+
+Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.

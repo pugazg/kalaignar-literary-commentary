@@ -2,15 +2,21 @@
 
 - Book: **பொருட்பால் / Book of Porul**
 - Iyal: **நட்பியல்** — derived navigation placement
-- controlled English label: **Not Offending the Great**
 - source Tamil form: **பெரியாரைப் பிழையாமை**
+- maintained English label: **Not Offending the Great**
+- Kuraloviyam contents entries linked here: **2**
 
-## Maintained control evidence
+## Maintained label/control evidence
 
-| Tamil source form | Controlled English | Evidence note |
+| Tamil form | English label | Evidence note |
 |---|---|---|
 | பெரியாரைப் பிழையாமை | Not Offending the Great | Chapter 90 label on scan 88; `பெரியார்` is generic here, not the personal-name reference to Periyar. |
 
-## Entry crosswalk
+## Kuraloviyam contents entries
 
-The exact source contents entries are preserved under `../../../04-contents/`. Entry-to-Adhikaram links are intentionally deferred until each entry span is checked against its audited closing Chapter/Kural metadata; no external-edition inference is used here.
+| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+|---:|---|---:|---:|---|---|
+| 27 | இறந்தமைந்த சார்புடைய | 70–71 | 87–88 | 900 | RESOLVED |
+| 262 | ஏந்திய கொள்கையார் | 560–561 | 577–578 | 899 | RESOLVED |
+
+Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.

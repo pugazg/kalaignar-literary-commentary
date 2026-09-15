@@ -2,15 +2,23 @@
 
 - Book: **இன்பத்துப்பால் / Book of Inbam**
 - Iyal: **கற்பியல்** — derived navigation placement
-- controlled English label: **Lamenting in Wasting Longing**
 - source Tamil form: **படர்மெலிந்திரங்கல்**
+- maintained English label: **Lamenting in Wasting Longing**
+- Kuraloviyam contents entries linked here: **4**
 
-## Maintained control evidence
+## Maintained label/control evidence
 
-| Tamil source form | Controlled English | Evidence note |
+| Tamil form | English label | Evidence note |
 |---|---|---|
 | படர்மெலிந்திரங்கல் | Lamenting in Wasting Longing | Chapter 117 label on scan 90; preserve this project rendering unless later Part evidence supports a deliberate refinement. |
 
-## Entry crosswalk
+## Kuraloviyam contents entries
 
-The exact source contents entries are preserved under `../../../04-contents/`. Entry-to-Adhikaram links are intentionally deferred until each entry span is checked against its audited closing Chapter/Kural metadata; no external-edition inference is used here.
+| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+|---:|---|---:|---:|---|---|
+| 28 | அ. காமமும் நாணும் / ஆ. கரத்தலும் ஆற்றேன் இந் / இ. புல்லிக் கிடந்தேன் | 72–73 | 89–90 | 1163, 1162 | RESOLVED |
+| 71 | அ. கொடியார் கொடுமையின் / ஆ. மன்னுயிர் எல்லாம் | 159–161 | 176–178 | 1168, 1169 | RESOLVED |
+| 85 | உளம்போன்று உள்வழி | 192–193 | 209–210 | 1170 | RESOLVED |
+| 222 | இன்பம் கடல்மற்று | 474–475 | 491–492 | 1166 | RESOLVED |
+
+Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.

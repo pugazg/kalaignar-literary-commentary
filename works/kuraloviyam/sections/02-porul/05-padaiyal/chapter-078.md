@@ -2,15 +2,22 @@
 
 - Book: **பொருட்பால் / Book of Porul**
 - Iyal: **படையியல்** — derived navigation placement
-- controlled English label: **Martial Pride**
-- source Tamil form: **படைச்செருக்கு / படைச் செருக்கு**
+- source Tamil forms: **படைச்செருக்கு / படைச் செருக்கு**
+- maintained English label: **Martial Pride**
+- Kuraloviyam contents entries linked here: **3**
 
-## Maintained control evidence
+## Maintained label/control evidence
 
-| Tamil source form | Controlled English | Evidence note |
+| Tamil form | English label | Evidence note |
 |---|---|---|
 | படைச்செருக்கு / படைச் செருக்கு | Martial Pride | Chapter 78 label on scans 204, 208 and 216; scan 216 carries the spaced source variant. |
 
-## Entry crosswalk
+## Kuraloviyam contents entries
 
-The exact source contents entries are preserved under `../../../04-contents/`. Entry-to-Adhikaram links are intentionally deferred until each entry span is checked against its audited closing Chapter/Kural metadata; no external-edition inference is used here.
+| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+|---:|---|---:|---:|---|---|
+| 82 | கைவேல் களிற்றொடு | 185–187 | 202–204 | 774 | RESOLVED |
+| 84 | அ. விழுப்புண் படாத / ஆ. விழித்தகண் வேல்கொண்டு | 190–191 | 207–208 | 776, 775 | RESOLVED |
+| 88 | புறந்தார்கண் நீர்மல்க | 198–199 | 215–216 | 780 | RESOLVED |
+
+Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.

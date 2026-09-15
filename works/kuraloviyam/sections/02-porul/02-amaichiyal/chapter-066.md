@@ -2,15 +2,21 @@
 
 - Book: **பொருட்பால் / Book of Porul**
 - Iyal: **அமைச்சியல்** — derived navigation placement
-- controlled English label: **Purity in Action**
 - source Tamil form: **வினைத்தூய்மை**
+- maintained English label: **Purity in Action**
+- Kuraloviyam contents entries linked here: **2**
 
-## Maintained control evidence
+## Maintained label/control evidence
 
-| Tamil source form | Controlled English | Evidence note |
+| Tamil form | English label | Evidence note |
 |---|---|---|
 | வினைத்தூய்மை | Purity in Action | Chapter 66 label on scan 490 / printed 473. |
 
-## Entry crosswalk
+## Kuraloviyam contents entries
 
-The exact source contents entries are preserved under `../../../04-contents/`. Entry-to-Adhikaram links are intentionally deferred until each entry span is checked against its audited closing Chapter/Kural metadata; no external-edition inference is used here.
+| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+|---:|---|---:|---:|---|---|
+| 221 | சலத்தால் பொருள் செய்து | 472–473 | 489–490 | 660 | RESOLVED |
+| 272 | இடுக்கட் படினும் | 580–581 | 597–598 | 654 | RESOLVED |
+
+Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.

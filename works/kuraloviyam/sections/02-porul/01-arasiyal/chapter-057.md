@@ -2,15 +2,22 @@
 
 - Book: **பொருட்பால் / Book of Porul**
 - Iyal: **அரசியல்** — derived navigation placement
-- controlled English label: **Avoiding Tyrannical Severity**
-- source Tamil form: **வெருவந்த செய்யாமை**
+- source Tamil forms: **வெருவந்த செய்யாமை / வெருவந்தசெய்யாமை**
+- maintained English label: **Avoiding Tyrannical Severity**
+- Kuraloviyam contents entries linked here: **3**
 
-## Maintained control evidence
+## Maintained label/control evidence
 
-| Tamil source form | Controlled English | Evidence note |
+| Tamil form | English label | Evidence note |
 |---|---|---|
 | வெருவந்த செய்யாமை | Avoiding Tyrannical Severity | Chapter 57 label on scan 333. |
 
-## Entry crosswalk
+## Kuraloviyam contents entries
 
-The exact source contents entries are preserved under `../../../04-contents/`. Entry-to-Adhikaram links are intentionally deferred until each entry span is checked against its audited closing Chapter/Kural metadata; no external-edition inference is used here.
+| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+|---:|---|---:|---:|---|---|
+| 145 | கடுமொழியும் கையிகந்த | 315–316 | 332–333 | 567 | RESOLVED |
+| 178 | கல்லார்ப் பிணிக்கும் | 381–382 | 398–399 | 570 | RESOLVED |
+| 235 | வெருவந்த செய் தொழுகும் | 501–502 | 518–519 | 563 | RESOLVED |
+
+Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.
