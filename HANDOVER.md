@@ -561,8 +561,21 @@ S1 — **COMPLETE / PASS**:
 - exact contents entries **1–300** preserved;
 - **0** Tamil/English page-layer changes.
 
+## Kuraloviyam derived sections S2 — COMPLETE
+
+The downstream section hierarchy is now:
+
+**Book → Iyal → Adhikaram → Kuraloviyam contents entry**
+
+S2 processed **300/300** source contents entries:
+- **298 resolved**;
+- **2 partial source metadata** — entries **46, 104**;
+- **0 unresolved**;
+- **121/133** source-evidenced Chapter numbers;
+- **0** closed Tamil/English page-layer mutations.
+
 ## Exact next activity — குறளோவியம்
 
-**Derived Sections S2 — source-derived entry-to-Adhikaram crosswalk for contents entries 1–300.**
+**None required.**
 
-Do not reopen or alter closed archival/release records. Use audited page spans and closing Chapter/Kural metadata only.
+Optional downstream work: **S3 — individual entry leaf records / web-ready navigation index**.
