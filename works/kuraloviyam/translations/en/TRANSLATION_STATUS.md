@@ -1634,8 +1634,86 @@ Boundary discipline:
 
 No Tamil archival record changed. No external edition, web source, standard English Kural wording or remembered translation was imported.
 
+## Part 006 English editorial review — ER3 COMPLETE / PASS 37/37
+
+ER3 covers:
+
+**scans 630–666 / printed 613–648 + scan 666 unnumbered pictorial back cover — 37 pages.**
+
+Pre-ER3 live-main checkpoint:
+
+`a57deadc493dfca7578514137d6fdc77baadf11f`
+
+ER3 English page-layer endpoint:
+
+`535b72dba6031f5511539ef7438a5a632ce5d720`
+
+Exact page-layer compare:
+
+- **4 commits ahead / non-divergent**;
+- exactly **37 modified English page files**;
+- exactly **8 page files** contain source-faithful wording repairs plus status promotion;
+- exactly **29 page files** are status-only promotions;
+- Tamil page changes — **0**;
+- non-page/control-file changes during the page-layer pass — **0**.
+
+Editorial wording repairs:
+
+- scan **630** — smoothed the literal `lives filling my heart, heart joined to heart` into **dwells within me, his heart joined to mine** while preserving the lover-in-the-heart image;
+- scan **631** — clarified the emaciated poor man's near-death description without changing the source sense;
+- scan **632** — replaced the awkward `collapsed before it was fully dead` with a natural rendering that preserves the source's dying-body image;
+- scan **634** — `rested their eyes for a while` → **dozed for a while** for `கண்ணயர்ந்தனர்`;
+- scan **645** — smoothed Kathiroli's introduction while retaining the jasmine-bud metaphor for his sculptural artistry;
+- scan **646** — clarified the source's figurative **brown leaf** as the old woman while preserving the metaphor and the 645→646 continuation;
+- scan **655** — `bent his heart` → **humbled himself** in the lover's plea;
+- scan **657** — smoothed the flag-like thought image while retaining the source metaphor.
+
+Contents / endpoint discipline:
+
+- scans **658–665** remain source-keyed contents/index pages; Tamil Kural incipits and printed-page locators were **not translated, normalized, or mechanically altered**;
+- scan **665** retains the source note that only the added fourth-edition contents used reformed Tamil orthography;
+- the blue Raj Bhavan Library / Madras stamp remains identified as non-source visual material;
+- scan **666** remains the pictorial back cover with **no visible printed body text**.
+
+Status discipline:
+
+- all **37/37** ER3 pages moved from `source-checked` to `editorial-reviewed`;
+- Part-006 English inventory is now:
+  - `editorial-reviewed` — **111**;
+  - `source-checked` — **0**;
+  - `draft` — **0**;
+  - `release-ready` — **0**;
+  - `source-limited` — **0**;
+  - `blocked` — **0**.
+
+Boundary / endpoint discipline:
+
+- incoming **629→630 GENUINE CONTINUATION** preserved and closes naturally on scan 630;
+- **657→658 CLEAN / transition to contents** preserved;
+- **658→665 contents continuation** preserved;
+- **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT** preserved;
+- **666 NO EXTERNAL CONTINUATION** preserved.
+
+No Tamil archival record changed. No external edition, web source, standard English Kural wording or remembered translation was imported. No glossary/control-term change was required at ER3.
+
+## Part 006 English editorial review — COMPLETE / CLOSED 111/111
+
+- ER1 — **556–592 / 37/37 COMPLETE / PASS**;
+- ER2 — **593–629 / 37/37 COMPLETE / PASS**;
+- ER3 — **630–666 / 37/37 COMPLETE / PASS**;
+- cumulative editorial review — **111/111 COMPLETE / CLOSED**.
+
+Current Part-006 English inventory:
+
+- `editorial-reviewed` — **111**;
+- `source-checked` — **0**;
+- `draft` — **0**;
+- `release-ready` — **0**;
+- `source-limited` — **0**;
+- `blocked` — **0**.
+
 ## Exact next activity
 
-**Part 006 English Editorial Review ER3 — scans 630–666 / printed 613–648 + scan 666 unnumbered pictorial back cover — 37 pages.**
+**Part 006 English Part-level Review — whole Part 006 / scans 556–666.**
 
-Continue the same editorial gate: review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, contents/index page function and cross-page continuity. Consult the audited Tamil whenever an editorial change could affect meaning. Passing pages may move from `source-checked` to `editorial-reviewed`. Preserve **629→630 GENUINE CONTINUATION**, **657→658 CLEAN / transition to contents**, **658→665 contents continuation**, **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**, and **666 NO EXTERNAL CONTINUATION**.
+Review the completed Part as a whole rather than reopening page-level editorial batches. Verify the **111-page inventory/alignment**, all final `editorial-reviewed` statuses, terminology and names, Kural/Chapter metadata, page functions, contents/index integrity, accumulated cross-page continuities, and the physical source endpoint. Create the durable Part-level review record under `works/kuraloviyam/translations/en/reviews/`. Do **not** promote pages to `release-ready` at this gate.
