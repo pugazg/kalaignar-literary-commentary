@@ -12,7 +12,7 @@ transcription_method: "Gemini-locked lexical wording aligned to controlling sour
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
-> * “நகைநீ கேளாய் - தோழி! அல்கல்  
+> \* “நகைநீ கேளாய் - தோழி! அல்கல்  
 > வயநாய் எறிந்து, வன்பறழ் தழீஇ  
 > இளையர் எய்துதல் மடக்கிக் கிளையொடு  
 > நான்முலைப் பிணவல் சொலியக் கான்ஒழிந்து  
