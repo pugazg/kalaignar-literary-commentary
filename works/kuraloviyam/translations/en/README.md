@@ -326,11 +326,11 @@ GR2:
 - incoming **592→593 CLEAN** preserved;
 - outgoing **629→630 GENUINE CONTINUATION** preserved without forced closure.
 
-Part-006 glossary reconciliation is now **74/111 COMPLETE**:
+Historical checkpoint after GR2: Part-006 glossary reconciliation stood at **74/111**:
 
 - GR1 — **556–592 / 37/37 COMPLETE / PASS**;
 - GR2 — **593–629 / 37/37 COMPLETE / PASS**;
-- GR3 — **630–666 / 37 pages PENDING**.
+- GR3 — **630–666 / then pending**.
 
 Current Part-006 English inventory remains:
 
