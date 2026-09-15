@@ -1439,8 +1439,86 @@ Part-006 glossary-reconciliation progress is now **74/111**:
 - GR2 — **593–629 / 37/37 COMPLETE / PASS**;
 - GR3 — **630–666 / 37 pages PENDING**.
 
+## Part 006 English glossary reconciliation — GR3 COMPLETE / PASS 37/37
+
+GR3 covers:
+
+**scans 630–666 — 37 physical scans**, comprising printed **613–648** plus scan **666 / unnumbered pictorial back cover**.
+
+Pre-GR3 page-layer checkpoint:
+
+`36cd00b4448722eec1d8c08d93771de5696a387a`
+
+GR3 English page-layer endpoint:
+
+`be2065b817e9c9d4bf8f644a0fc3ee8824e7e3e0`
+
+Exact page-layer compare:
+
+- **3 commits ahead / non-divergent**;
+- exactly **3 modified English page files** — scans **632, 635, 654**;
+- Tamil page changes — **0**;
+- page-status changes — **0**.
+
+Controlled terminology corrections:
+
+- scan **632** — `Paavendar Bharathidasan` → established **Paavendhar Bharathidasan**;
+- scan **635** — `Valanaadu` → established **Valanadu** throughout the page;
+- scan **654** — `Paavendar's` → established **Paavendhar's**.
+
+GR3 terminology / metadata audit:
+
+- **37/37** scans **630–666** checked against the current `GLOSSARY.md` and audited Tamil page context;
+- all **14 Chapter/Kural metadata records** checked with **0 chapter-number or Kural-number mismatches**;
+- Part-006-first Chapter controls added:
+  - `அவா அறுத்தல்` → **Renouncing Desire**;
+  - `அரண்` → **The Fort**;
+  - `புலால் மறுத்தல்` → **Abstaining from Flesh**;
+- existing Chapter controls reused include **Declaring Love's Excellence**, **Baseness**, **The Majesty of Kingship**, **Speaking with the Heart**, **Avoiding Mean Company**, **Honour**, **Speaking of the Dream State**, **The Worth of a Life-Partner**, **Making the Sign Understood**, and **Impermanence**;
+- all **7 source-printed lexical glosses** in the range were recorded from the audited Tamil;
+- source-evidenced narrative/place/literary/process controls recorded include **Anbukkadal**, **Aravaazhi / Enaathi**, **Valanadu / Nilaa Naadu / Malainaadu**, **Mamallapuram / Kathiroli / Ponniyammai / Kanmaniyaal**, **Paavendhar**, the scan-650 source-bounded literary/puranic forms, **kudavolai**, and **Nilamagal / Lady Earth**;
+- scans **658–665** remain index-key pages with all Tamil Kural incipits and printed-page locators preserved verbatim;
+- scan **665** retains the fourth-edition orthography note and keeps the blue library stamp separate as non-source visual material;
+- scan **666** remains the pictorial back-cover / physical source endpoint with no invented body prose.
+
+Glossary record commit:
+
+`e3d8f24b33d5a59a64523256dd5dd9a37f2e0f85`
+
+Status discipline:
+
+- all **37/37** GR3 pages remain `status: "source-checked"`;
+- Part-006 English state remains **111 source-checked / 0 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**;
+- no status promotion occurred.
+
+Boundary / endpoint discipline:
+
+- incoming **629→630 GENUINE CONTINUATION** preserved and closed naturally on scan 630;
+- **657→658 CLEAN / transition to contents** preserved;
+- **658→665** contents continuation preserved;
+- **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT** preserved;
+- **666 — NO EXTERNAL CONTINUATION** preserved.
+
+No Tamil archival record changed. No published, standard, web, or remembered English Kural wording was imported.
+
+## Part 006 English glossary reconciliation — COMPLETE / CLOSED 111/111
+
+- GR1 — **556–592 / 37/37 COMPLETE / PASS**;
+- GR2 — **593–629 / 37/37 COMPLETE / PASS**;
+- GR3 — **630–666 / 37/37 COMPLETE / PASS**;
+- cumulative glossary reconciliation — **111/111 COMPLETE / CLOSED**.
+
+Current Part-006 English inventory remains:
+
+- `source-checked` — **111**;
+- `draft` — **0**;
+- `editorial-reviewed` — **0**;
+- `release-ready` — **0**;
+- `source-limited` — **0**;
+- `blocked` — **0**.
+
 ## Exact next activity
 
-**Part 006 English Glossary Reconciliation GR3 — scans 630–666 — 37 physical scans**, covering printed **613–648** plus scan **666 / unnumbered pictorial back cover**.
+**Part 006 English Editorial Review ER1 — scans 556–592 / printed 539–575 — 37 pages.**
 
-Use the current `GLOSSARY.md` as control vocabulary. Preserve incoming **629→630 GENUINE CONTINUATION**, retain all passing pages as `source-checked`, and make no status promotion at this gate.
+Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity. Consult the audited Tamil when an editorial change could affect meaning. Passing pages may move from `source-checked` to `editorial-reviewed`.
