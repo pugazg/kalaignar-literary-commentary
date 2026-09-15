@@ -398,9 +398,14 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - Pass 3 structural/visual corrections overall — **2 page records / scans 611 and 631**;
 - Pass 3 lexical/body-text changes overall — **0**;
 - Pass 3 — **COMPLETE / PASS 111/111**;
-- all 111 records remain `needs-review` / visual `needs-review`;
-- exact next stage — **Part 006 audit**.
+- Part 006 audit — **PASS / COMPLETE**;
+- audit record — `PART_006_AUDIT.md`;
+- direct header audit — **111/111 canonical records / 0 gaps / 0 duplicates / 0 mapping anomalies**;
+- page functions — **102 body-prose / 8 contents-index / 1 back-cover**;
+- unresolved Tamil exceptions — **0**;
+- all 111 records remain `needs-review` / visual `needs-review` pending the dedicated final metadata/status synchronization;
+- exact next stage — **Part 006 final metadata/status synchronization**.
 
 ## Current frontier
 
-**Part 006 audit.**
+**Part 006 final metadata/status synchronization.**
