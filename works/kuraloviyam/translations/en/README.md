@@ -264,15 +264,32 @@ SC2:
 - incoming **592→593 CLEAN** preserved;
 - outgoing **629→630 GENUINE CONTINUATION** preserved.
 
+## Part 006 English source-check — SC3 COMPLETE / PASS 37/37
+
+SC3:
+
+- scans **630–666 / printed 613–648 + unnumbered back cover**;
+- **37/37 source-checked**;
+- page-layer base — `ba1391558c55e0a2917af872b6fbc42c0af8f064`;
+- page-layer endpoint — `35f666f3ab3e904565c5c24deecbffc034133a39`;
+- exact compare — **3 commits / exactly 37 modified English page files / 0 non-page changes / 0 Tamil changes**;
+- source-fidelity/page-function repairs — **19 page files**;
+- status-only promotions — **18 page files**;
+- contents pages **658–665** preserve all numbered/sub-lettered Tamil index entries exactly;
+- **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT** preserved;
+- **666 NO EXTERNAL CONTINUATION** preserved.
+
+Part 006 English source-check is now **COMPLETE / CLOSED 111/111**.
+
 Current Part-006 English inventory:
 
-- `source-checked` — **74**;
-- `draft` — **37**;
+- `source-checked` — **111**;
+- `draft` — **0**;
 - not yet drafted — **0**;
 - editorial-reviewed / release-ready / source-limited / blocked — **0**.
 
 ## Current frontier
 
-**Part 006 English Source-Check SC3 — scans 630–666 — 37 physical scans**, covering printed **613–648** plus scan **666 / unnumbered pictorial back cover**.
+**Part 006 English Glossary Reconciliation GR1 — scans 556–592 / printed 539–575 — 37 pages.**
 
-Preserve the complete contents run on scans **658–665**, the pictorial back cover on scan **666**, and the final physical source endpoint exactly. Only a passing page may move from `draft` to `source-checked`.
+Reconcile recurring names, controlled literary terms, Chapter labels, source glosses, citation metadata and repeated English forms against `GLOSSARY.md` and the audited Tamil context. This gate makes no page-status promotion; passing pages remain `source-checked`.
