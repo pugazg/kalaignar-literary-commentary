@@ -219,14 +219,31 @@ Draft D2:
 - incoming **592→593 CLEAN**;
 - outgoing **629→630 GENUINE CONTINUATION**.
 
+Draft D3:
+
+- scans **630–666 — 37/37 physical scans**;
+- printed **613–648** plus scan **666 / unnumbered pictorial back cover**;
+- all **37** carry `translation_type: "project_translation"`;
+- all **37** carry `status: "draft"`;
+- all **37** carry `source_tamil_status: "verified"`;
+- page-layer base — `f88a79c563871669c96533c07d5d50f0f87d1e17`;
+- page-layer endpoint — `8a87fbe5cf0ee36858111f693805eb4ab64ad8b0`;
+- exact compare — **5 commits / exactly 37 new English page files / 0 non-page changes / 0 Tamil changes**;
+- incoming **629→630 GENUINE CONTINUATION** preserved;
+- scans **658–665** preserve the complete contents run with Tamil Kural incipits retained verbatim as source index keys;
+- scan **666** is the pictorial back cover / physical source endpoint;
+- **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT** and **666 NO EXTERNAL CONTINUATION** preserved.
+
+Part 006 English drafting is now **COMPLETE / CLOSED 111/111**.
+
 Current Part-006 English inventory:
 
-- `draft` — **74**;
-- not yet drafted — **37**;
+- `draft` — **111**;
+- not yet drafted — **0**;
 - source-checked / editorial-reviewed / release-ready / source-limited / blocked — **0**.
 
 ## Current frontier
 
-**Part 006 English Draft D3 — scans 630–666 — 37 physical scans**, covering printed **613–648** plus scan **666 / unnumbered pictorial back cover**.
+**Part 006 English Source-Check SC1 — scans 556–592 / printed 539–575 — 37 pages.**
 
-Preserve incoming **629→630 GENUINE CONTINUATION**. Use the audited Tamil page records as the normal translation authority. Translation identity is project-created. Do not import published, standard, web or remembered English Kural wording.
+Compare each English page against the audited Tamil record paragraph-by-paragraph / block-by-block. Only a passing page may move from `draft` to `source-checked`.
