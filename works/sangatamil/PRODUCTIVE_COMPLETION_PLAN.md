@@ -241,15 +241,24 @@ Final declaration must distinguish one of two outcomes:
 
 ## Current active gate
 
-**Gate B — Gemini-locked structural fidelity.**
+Gate B — Gemini-locked structural fidelity.
 
-Known live-main inventory at plan creation:
+Current durable state — 2026-09-15:
 
-- physical source boundary — **497 scans**;
-- page files under `pages/` — **511**;
-- unique scan prefixes — **497**;
-- missing scan prefixes — **0**;
-- duplicate scan aliases — **14**, affecting scans **61–74**;
-- existing section README files — **9** (front matter + sections 001–008), far short of whole-volume section coverage.
+- Gate A — COMPLETE / PASS
+- canonical page records — 497/497
+- duplicate aliases — 0
+- missing scans — 0
+- Gate B batches B01–B14 — COMPLETE / PASS
+- structurally reviewed — 350/497
+- remaining — 147
+- frontier — scan 351
+- Gate C — NOT STARTED
+- latest B14 page-layer endpoint — c227e5f2d95b6ad464fdf6e730639827c7c92941
+- latest durable progress/live-main checkpoint — dfc23c0f9366248c7a2fa301dc4fb215cf374bf0
 
-Gate A is now closed: **497/497 canonical page records / 0 duplicates / 0 missing**. Exact next activity: **Gate B scans 1–25**.
+Exact next activity:
+
+Gate B B15 — scans 351–375, using TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf + File8.md.
+
+Operational frontier is tracked in STRUCTURAL_FIDELITY_PROGRESS.md and NEXT_CHAT_PROMPT_SANGATH_TAMIL.md. Historical inventory numbers from plan creation are not current execution state.

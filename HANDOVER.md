@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Parts 001–006 CLOSED; maintained English CLOSED; derived sections S1–S3 COMPLETE; 666/666 physical scans accounted for**: **2026-09-15**.
+Last refreshed 2026-09-15: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gate B B01–B14 is COMPLETE through scan 350 with frontier scan 351.
 
 ## Repository
 
@@ -19,9 +19,11 @@ Completed benchmark retained: `works/thirukkural/`
 
 **Fetch live `main` first and treat it as authoritative.**
 
-The latest durable Sangath Tamil policy checkpoint recorded in this handover is:
+The latest durable Sangath Tamil progress checkpoint recorded in this handover is:
 
-`a4d13ade0b0c8ecccbe4609a438457d871163fdb` — `sangatamil: Lock Gemini lexical transcription policy`
+dfc23c0f9366248c7a2fa301dc4fb215cf374bf0 — sangatamil: Record Gate B batch B14
+
+B14 page-layer endpoint: c227e5f2d95b6ad464fdf6e730639827c7c92941.
 
 Later commits may advance `main`. Preserve any newer durable state. Do not reset, overwrite, repeat, or reopen later completed work merely because this handover records an older SHA.
 
@@ -41,25 +43,29 @@ Gate A: **COMPLETE / PASS**.
 
 Current gate: **Gate B — Gemini-locked structural fidelity**.
 
-Exact next activity: **scans 1–25** using the PDF for structure/presentation and `File1.md` for locked lexical wording.
+Durable Gate-B state: **350/497 structurally reviewed / 147 remaining / frontier scan 351 / Gate C NOT STARTED**.
+
+Exact next activity: **B15 scans 351–375** using TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf for structure/presentation and File8.md for locked lexical wording.
 
 ## Mandatory startup — active சங்கத் தமிழ் work
 
 Before making any repository change, read completely:
 
-1. `LITERARY_COMMENTARY_PROCESSING_GUIDE.md`
-2. `SANGATH_TAMIL_ARCHIVAL_GUIDELINES.md`
-3. root `HANDOVER.md`
-4. `NEXT_CHAT_PROMPT_SANGATH_TAMIL.md`
-5. `works/sangatamil/GEMINI_TEXT_LOCK.md` **— current user-approved lexical override**
-6. `works/sangatamil/README.md`
-7. `works/sangatamil/MULTI_PASS_WORKFLOW.md`
-8. `works/sangatamil/GEMINI_RECONCILIATION_PLAN.md`
-9. `works/sangatamil/metadata/source.md`
-10. `works/sangatamil/metadata/transcription-policy.md`
-11. `works/sangatamil/indexes/page-map.md`
-12. `works/sangatamil/indexes/section-register.md`
-13. `works/sangatamil/indexes/source-citation-register.md`
+1. works/sangatamil/PRODUCTIVE_COMPLETION_PLAN.md
+2. works/sangatamil/GEMINI_TEXT_LOCK.md — current user-approved lexical override
+3. works/sangatamil/STRUCTURAL_FIDELITY_PROGRESS.md
+4. works/sangatamil/GATE_A_HYGIENE_REPORT.md
+5. SANGATH_TAMIL_ARCHIVAL_GUIDELINES.md
+6. root HANDOVER.md
+7. NEXT_CHAT_PROMPT_SANGATH_TAMIL.md
+8. works/sangatamil/README.md
+9. works/sangatamil/metadata/source.md
+10. works/sangatamil/metadata/transcription-policy.md
+11. works/sangatamil/indexes/page-map.md
+12. works/sangatamil/indexes/section-register.md
+13. works/sangatamil/indexes/source-citation-register.md
+
+Historical/superseded background only: works/sangatamil/MULTI_PASS_WORKFLOW.md and works/sangatamil/GEMINI_RECONCILIATION_PLAN.md.
 
 If older workflow documents conflict with `GEMINI_TEXT_LOCK.md` or the refreshed Sangath Tamil guidelines, **the current user-approved Gemini text lock controls this correction workflow**.
 
@@ -95,17 +101,14 @@ Pass-1 physical capture is complete through **scan 497**.
 
 ## Split-PDF source workflow
 
-For page-level work in a fresh chat, resolve the relevant split PDF and matching Gemini file. Immediate available/current starting pair:
+For page-level work in a fresh chat, resolve the split PDF and Gemini file required by the live frontier.
 
-- `TVA_BOK_0042551_சங்கத்_தமிழ்_part_001_pages_1-50.pdf`
-- `File1.md`
+Current pair after B14:
 
-The next pair is:
+- TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf
+- File8.md
 
-- `TVA_BOK_0042551_சங்கத்_தமிழ்_part_002_pages_51-100.pdf`
-- `File2.md`
-
-Later work should use the corresponding later split PDF + `FileN.md` pair supplied by the user.
+Current B15 target: physical scans 351–375.
 
 Gemini page comments are navigation aids only; they do not establish physical scan numbering. The scan does.
 
@@ -152,7 +155,7 @@ For scans **1–13**, earlier source-based lexical edits may exist. When the new
 
 ## Batch discipline
 
-Normal batch: **about 10 physical scans**, adjusted to a nearby natural boundary when useful.
+Normal Gate-B batch: **25 physical scans**, reduced only for unusually dense/damaged material.
 
 For every batch:
 
@@ -174,14 +177,18 @@ When the user says **“proceed with next activity”**, execute the recorded ne
 
 In a fresh Sangath Tamil chat:
 
-1. fetch live `main`;
-2. complete mandatory startup reading above;
-3. resolve the current split PDF + Gemini file required by live state;
-4. continue the **Gemini-locked structural correction pass** from the actual live frontier;
-5. preserve Gemini words, correct only source-supported structure/punctuation/spacing, and remove non-source material;
-6. audit the changed-file set before advancing.
+1. fetch live main
+2. read the active controls listed above
+3. confirm STRUCTURAL_FIDELITY_PROGRESS.md still shows frontier 351
+4. resolve TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf + File8.md
+5. process Gate B B15 scans 351–375 under the Gemini-lock/PDF-structure authority split
+6. audit batch base → page-layer endpoint
+7. update the progress record separately
+8. synchronize the operational current-state docs so no obsolete frontier remains
 
-Do not restart Pass 1. Do not resume scan-led lexical Pass 2 at scan 14.
+Expected next frontier after B15: scan 376.
+
+Do not restart Pass 1. Do not resume the discontinued scan-led lexical Pass 2. Do not start Gate C early.
 
 # Completed Thirukkural baseline — DO NOT RESTART
 

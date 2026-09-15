@@ -2,7 +2,7 @@
 
 கலைஞர் மு. கருணாநிதியின் இலக்கிய உரை / விளக்க நூல்களை மூல ஸ்கேன்களின் பக்க வரிசையைக் காக்கும் வகையில் Markdown வடிவில் பாதுகாக்கும் களஞ்சியம்.
 
-Last synchronized with live `main`: **2026-08-23**.
+Last synchronized with live main: **2026-09-15**.
 
 ## திட்டமிட்ட / உள்ள நூல்கள்
 
@@ -11,7 +11,7 @@ Last synchronized with live `main`: **2026-08-23**.
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–015 **ARCHIVAL-READY through scan 323**; commentary through printed page 270 / Kural 1330 |
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–015 **RELEASED through the end of the supplied volume** |
 | Thirukkural semantic structure | பால் → இயல் → அதிகாரம் | **COMPLETE — 3 பால் / 13 இயல் / 133 அதிகாரம் / 1,330 குறள் mapped** |
-| சங்கத் தமிழ் | தமிழ் | **ACTIVE — Gate A CLOSED; 497/497 canonical physical records; Gate B structural fidelity begins at scans 1–25** |
+| சங்கத் தமிழ் | தமிழ் | **ACTIVE — Gate A CLOSED; Gate B B01–B14 COMPLETE; 350/497 structurally reviewed; frontier scan 351** |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த source-controlled edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Kuraloviyam | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
@@ -38,105 +38,53 @@ Do not restart completed Thirukkural batches unless a new source or explicit cor
 
 # Canonical active state — சங்கத் தமிழ்
 
-Active path: [`works/sangatamil/`](works/sangatamil/)
+Active path: works/sangatamil/
 
-Controlling source: `TVA_BOK_0042551_சங்கத்_தமிழ்.pdf`
+Controlling source: TVA_BOK_0042551_சங்கத்_தமிழ்.pdf
 
-The actual PDF has been independently confirmed as **497 scans**; scan **497 is the back cover**. The earlier 150-page preview figure is retired.
+Canonical physical range: 1–497; scan 497 is the back cover.
 
-Canonical source range: **1–497**.
+## Active workflow
 
-## Canonical workflow
+Authoritative plan: works/sangatamil/PRODUCTIVE_COMPLETION_PLAN.md
+Current lexical rule: works/sangatamil/GEMINI_TEXT_LOCK.md
+Live progress: works/sangatamil/STRUCTURAL_FIDELITY_PROGRESS.md
 
-Sangath Tamil now uses a **whole-volume multi-pass workflow** so that transcription and later archival checks are separated instead of being mixed in every page iteration.
+Authority split:
+- Gemini File1–File10 — locked lexical wording
+- PDF scan — physical/structural authority
+- repository — preservation layer
 
-Canonical plan: [`works/sangatamil/MULTI_PASS_WORKFLOW.md`](works/sangatamil/MULTI_PASS_WORKFLOW.md).
+## Current progress
 
-Pass order:
+Gate A — COMPLETE / PASS: 497/497 canonical records; 0 duplicates; 0 missing.
 
-1. **Pass 1 — transcription / physical capture only, through scan 497**;
-2. **Pass 2 — textual verification, scan 1 → 497**;
-3. **Pass 3 — visual-text fidelity verification, scan 1 → 497**;
-4. **Pass 4 — physical-page and continuity audit, scan 1 → 497**;
-5. **Pass 5 — section-structure audit, scan 1 → 497**;
-6. **Pass 6 — Sangam source / provenance audit, scan 1 → 497**;
-7. **Pass 7 — metadata / status consistency audit, scan 1 → 497**;
-8. **Pass 8 — whole-volume synchronization and final audit**.
+Gate B — IN PROGRESS:
+- B01–B14 complete
+- 350/497 structurally reviewed
+- 147 remaining
+- frontier — scan 351
+- Gate C — NOT STARTED
 
-Only **Pass 1** is active now.
+Latest B14 page-layer endpoint: c227e5f2d95b6ad464fdf6e730639827c7c92941
+Latest durable progress/live-main checkpoint: dfc23c0f9366248c7a2fa301dc4fb215cf374bf0
 
-## Current physical progress
+## Current controls
 
-Physical Markdown coverage is now **497/497 canonical scans** with **0 duplicates / 0 missing**.
+- SANGATH_TAMIL_ARCHIVAL_GUIDELINES.md
+- NEXT_CHAT_PROMPT_SANGATH_TAMIL.md
+- works/sangatamil/README.md
+- works/sangatamil/PRODUCTIVE_COMPLETION_PLAN.md
+- works/sangatamil/GEMINI_TEXT_LOCK.md
+- works/sangatamil/STRUCTURAL_FIDELITY_PROGRESS.md
+- works/sangatamil/indexes/page-map.md
+- works/sangatamil/indexes/section-register.md
+- works/sangatamil/indexes/source-citation-register.md
 
-Current immediate sequence:
-
-- scan 50 / printed 35 — `மாதரின் கண்ட மலர்கள்` opening, completed under the earlier verified-page cadence;
-- scan 51 / printed 36 — transcription-only, `needs-review`;
-- scan 52 — illustration capture, `needs-review`;
-- scan 53 / printed 38 — fast transcription-only, `needs-review`;
-- **scan 54 — next Pass-1 capture**.
-
-Earlier completed/verified material remains preserved:
-
-- scans **9–14 / printed IV–IX** — front-matter text gate;
-- `மலர்மாரி பொழிகின்றேன்!` — scans **17–19**;
-- `யாதும் ஊரே; யாவரும் கேளிர்!` — scans **20–24**;
-- `மானங்காத்த மறவன்!` — scans **25–30**;
-- `துணை நின்றார் தோழி!` — scans **31–36**;
-- `சுமந்தவன் சுமந்த சோகம்!` — scans **37–41**;
-- `பாவை புகழ்ந்த பன்றி` — scans **42–46**;
-- `காக்கைக்கு நன்றி காட்ட...` — scans **47–49**.
-
-Existing verified pages are not downgraded by the workflow change. The later systematic passes still sweep scan 1 through scan 497 so the final volume state is uniform and auditable.
-
-## Current Pass-1 discipline
-
-Routine page capture now means only:
-
-- one source reading;
-- create the physical page record;
-- transcribe visible text;
-- preserve obvious line/paragraph breaks and immediately visible headings;
-- factual capture for illustration/blank/non-text pages;
-- printed page number only when visible;
-- normally leave new records `needs-review`;
-- commit and move forward.
-
-Do not mix routine second-pass verification, provenance review, section-end investigation, continuity audit, metadata audit or documentation synchronization into Pass 1.
-
-## Verified printed Sangam provenance already preserved
-
-- scan 19 — `பத்துப்பாட்டு (குறிஞ்சிப்பாட்டு)` / `61 முதல் 95 முடிய` / `கபிலர்`;
-- scan 24 — `புறநானூறு - பாடல் : 192` / `கணியன் பூங்குன்றன்`;
-- scan 30 — `புறநானூறு : பாடல்: 74` / `சேரமான் கணைக்கால் இரும்பொறை`;
-- scan 36 — `ஐங்குறுநூறு : பாடல் : 180` / `அம்மூவனார்`;
-- scan 41 — `புறநானூறு : பாடல் : 286` / `ஒளவையார்`;
-- scan 46 — `அகநானூறு : பாடல் : 248` / `கபிலர்`;
-- scan 49 — `குறுந்தொகை : பாடல் : 210` / `காக்கைப்பாடினியார் நச்செள்ளையார்`.
-
-New provenance encountered during Pass 1 is captured as page text if visible but is systematically verified/finalized in Pass 6.
-
-Current controls:
-
-- [`SANGATH_TAMIL_ARCHIVAL_GUIDELINES.md`](SANGATH_TAMIL_ARCHIVAL_GUIDELINES.md)
-- [`NEXT_CHAT_PROMPT_SANGATH_TAMIL.md`](NEXT_CHAT_PROMPT_SANGATH_TAMIL.md)
-- [`works/sangatamil/README.md`](works/sangatamil/README.md)
-- [`works/sangatamil/MULTI_PASS_WORKFLOW.md`](works/sangatamil/MULTI_PASS_WORKFLOW.md)
-- [`works/sangatamil/metadata/source.md`](works/sangatamil/metadata/source.md)
-- [`works/sangatamil/metadata/transcription-policy.md`](works/sangatamil/metadata/transcription-policy.md)
-- [`works/sangatamil/indexes/page-map.md`](works/sangatamil/indexes/page-map.md)
-- [`works/sangatamil/indexes/section-register.md`](works/sangatamil/indexes/section-register.md)
-- [`works/sangatamil/indexes/source-citation-register.md`](works/sangatamil/indexes/source-citation-register.md)
-
-## Repository-state discipline
-
-For active Sangath Tamil work, precedence is:
-
-**controlling scan → physical page records → completed verification/audit artefacts → canonical multi-pass workflow → source/page/section/citation indexes → work README → root HANDOVER / README → historical snapshots.**
+MULTI_PASS_WORKFLOW.md and GEMINI_RECONCILIATION_PLAN.md are retained as historical/superseded methodology records.
 
 ## அடுத்த செயல்
 
-**Gate B: process scans 1–25 for Gemini-locked structural fidelity.**
+Gate B B15 — scans 351–375, using TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf + File8.md.
 
-Current handover: [`HANDOVER.md`](HANDOVER.md).
+Current handover: HANDOVER.md.
