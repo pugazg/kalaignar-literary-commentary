@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 006 English Source-Check SC3
+# NEXT CHAT PROMPT — குறளோவியம் / Part 006 English Glossary Reconciliation GR1
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -12,7 +12,7 @@ Part 006 Tamil is:
 
 **ARCHIVAL-READY / CLOSED — 111/111 textual verified + 111/111 visual verified / 0 exceptions.**
 
-Normal English source-check authority is the audited Tamil page layer:
+Normal English work uses the audited Tamil page layer:
 
 `works/kuraloviyam/pages/`
 
@@ -41,150 +41,121 @@ Current user-directed normal batch size:
 
 ## Part 006 drafting — COMPLETE / CLOSED 111/111
 
-- D1 — scans **556–592 / printed 539–575** — **COMPLETE / PASS 37/37**;
-- D2 — scans **593–629 / printed 576–612** — **COMPLETE / PASS 37/37**;
-- D3 — scans **630–666 / printed 613–648 + unnumbered back cover** — **COMPLETE / PASS 37/37**.
+- D1 — **556–592 / 37/37 COMPLETE / PASS**;
+- D2 — **593–629 / 37/37 COMPLETE / PASS**;
+- D3 — **630–666 / 37/37 COMPLETE / PASS**.
 
-## Part 006 Source-Check SC1 — COMPLETE / PASS 37/37
+## Part 006 source-check — COMPLETE / CLOSED 111/111
+
+SC1:
 
 - scans **556–592 / printed 539–575**;
-- page-layer base — `0b3d8a701d5db04164f969b15d1d0090622cc664`;
-- endpoint — `8baca75a8efd00db5a05de425305f244c1c19120`;
+- **37/37 COMPLETE / PASS**;
+- endpoint — `8baca75a8efd00db5a05de425305f244c1c19120`.
+
+SC2:
+
+- scans **593–629 / printed 576–612**;
+- **37/37 COMPLETE / PASS**;
+- endpoint — `0c2d08993de3ba3d8b4df9c8bd5fe12b58ed22c0`.
+
+SC3:
+
+- scans **630–666 / printed 613–648 + unnumbered back cover**;
+- **37/37 COMPLETE / PASS**;
+- page-layer base — `ba1391558c55e0a2917af872b6fbc42c0af8f064`;
+- endpoint — `35f666f3ab3e904565c5c24deecbffc034133a39`;
 - exact compare — **3 commits / exactly 37 modified English page files / 0 non-page changes / 0 Tamil changes**;
-- fidelity repairs — **16 page files**;
-- status-only promotions — **21 page files**.
+- source-fidelity/page-function repairs — **19 page files**;
+- status-only promotions — **18 page files**.
 
-## Part 006 Source-Check SC2 — COMPLETE / PASS 37/37
+SC3 notable repairs:
 
-SC2 range:
+- **635–636** — restored physical sentence split at `உண்மையை / உணர்ந்து...`;
+- **641–642** — restored physical sentence/list split at `பறந்து திரியும் / புறாக்களையும்...`;
+- **645–646** — restored source image `பழுப்பு இலை` as **“the brown leaf”**;
+- **648–649** — restored physical boundary and source `கோடி` force without unsupported “mountains of reward” wording;
+- **650–651** — restored physical sentence split at `அவர் இருக்குமிடம் எனக்குத் / தெரிந்தாலாவது...`;
+- **658–665** — removed non-source project-explanatory body prose, aligned section metadata to **Contents**, and preserved source index lines exactly;
+- **665** — library stamp retained only as non-source **Visual material**;
+- **666** — section metadata aligned to **Back cover**, with factual visual description and no invented body prose.
 
-**scans 593–629 / printed 576–612**
+Contents audit:
 
-SC2 page-layer base:
-
-`ce140cb9a2b23b860772ee649de473ffde8fc9dc`
-
-SC2 page-layer endpoint:
-
-`0c2d08993de3ba3d8b4df9c8bd5fe12b58ed22c0`
-
-Exact SC2 compare:
-
-- **3 commits ahead / non-divergent**;
-- exactly **37 modified English page files**;
-- scans **593–629** represented exactly once;
-- missing scans — **0**;
-- duplicate scans — **0**;
-- Tamil page changes — **0**;
-- non-English-page/control-file changes during the SC2 page layer — **0**;
-- `source-checked` — **37/37**;
-- `source_tamil_status: "verified"` — **37/37**;
-- `translation_type: "project_translation"` — **37/37**.
-
-SC2 source-fidelity repairs:
-
-- **603–604** — restored audited physical split at `இப்போது மணவிழா / என்றைக்கென்று...`;
-- **608–609** — restored audited physical split at `ஆணவமான சொற்களைத் தங்கு தடையின்றிப் / மொழிகிறாய்!`;
-- **610–611** — restored audited physical split at `செய்தி குறுநில / மன்னன் செவிக்கு எட்டியது`;
-- **615** — restored the source's `குறை / கறை` distinction by changing the premature “hands without stain” wording to **“faultless hands”**;
-- **620** — direct rendered-source recheck confirmed `அவன் பாடியது! அவனும் இணைந்து பாடியது!`; English now follows the printed source rather than silently normalizing the apparent contextual inconsistency.
-
-SC2 correction pages:
-
-**603, 604, 608, 609, 610, 611, 615, 620**
-
-The other **29** pages changed only by `draft` → `source-checked`.
-
-SC2 boundaries:
-
-- incoming **592→593 CLEAN** preserved;
-- outgoing **629→630 GENUINE CONTINUATION** preserved.
+- scans **658–665** — **8/8** directly checked;
+- all numbered/sub-lettered index-entry lines match the audited Tamil records exactly;
+- entry-line counts by scan — **40, 46, 46, 46, 46, 46, 46, 40**;
+- fourth-edition orthography note on scan **665** preserved;
+- **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**;
+- **666 — NO EXTERNAL CONTINUATION**.
 
 Current Part-006 English state:
 
-- `source-checked` — **74**;
-- `draft` — **37**;
+- `source-checked` — **111**;
+- `draft` — **0**;
 - `editorial-reviewed` — **0**;
 - `release-ready` — **0**;
 - `source-limited` — **0**;
 - `blocked` — **0**.
 
-## Exact next activity — Source-Check SC3
+## Exact next activity — Glossary Reconciliation GR1
 
 Process exactly:
 
-**scans 630–666 — 37 physical scans**
+**scans 556–592 / printed 539–575 — 37 English page records.**
 
-Coverage:
+Use the current `GLOSSARY.md` as the control vocabulary.
 
-- scans **630–665** = printed **613–648**;
-- scan **666** = **unnumbered pictorial back cover**.
+For every page in the range, reconcile:
 
-Incoming boundary:
+- recurring personal names;
+- place names;
+- work / section names;
+- Chapter labels;
+- Kural numbers and citation metadata;
+- repeated literary/ethical terms;
+- source-printed lexical glosses;
+- recurring historical/literary references;
+- repeated English renderings already controlled elsewhere in the project.
 
-- **629→630 GENUINE CONTINUATION**;
-- scan 630 continues the lover-in-the-heart vignette begun on scan 629.
+## Glossary discipline
 
-Backmatter/source endpoint:
+- add to `GLOSSARY.md` only terms actually evidenced in scans **556–592**;
+- reuse an existing project control where the same Tamil term/name is already controlled;
+- do not mechanically force one English word where context requires a different rendering;
+- do not import terminology from external editions, the web, or memory;
+- if a page wording change is needed for controlled terminology consistency, change only that English page;
+- **do not change Tamil page records**;
+- this gate makes **no page-status promotion**;
+- all passing pages remain `status: "source-checked"`.
 
-- scans **658–665** = complete `பொருளடக்கம்` / contents-index run;
-- scan **665** contains the fourth-edition orthography note plus a non-source library stamp;
-- **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**;
-- scan **666** = unnumbered pictorial back cover;
-- **666 — NO EXTERNAL CONTINUATION**.
+## GR1 boundary discipline
 
-## Source-check discipline
+Incoming:
 
-For every page, compare the English record directly against its audited Tamil counterpart:
+- **555→556 CLEAN / source-resolved**.
 
-- paragraph-by-paragraph;
-- dialogue turn by dialogue turn;
-- Kural block by Kural block;
-- metadata and glosses;
-- factual visual/non-body material;
-- contents/index structure;
-- source/page-function notes where relevant;
-- cross-page continuations.
+Outgoing:
 
-Check specifically for:
+- **592→593 CLEAN**.
 
-- omissions;
-- unsupported additions;
-- meaning drift;
-- lost rhetorical repetition;
-- names and relationship terms;
-- chapter labels and Kural numbers;
-- quoted Kural lineation;
-- source glosses;
-- page alignment;
-- continuity across physical page boundaries;
-- index-entry completeness on scans **658–665**;
-- no invented body prose on scan **666**.
+Do not create a cross-boundary continuation where the source has none.
 
-A passing page may move only:
+## Required GR1 completion audit
 
-`status: "draft"` → `status: "source-checked"`
+After GR1:
 
-Do not promote any page with a remaining fidelity problem.
-
-Source-check is not a stylistic rewrite gate. Make only corrections required for fidelity to the audited Tamil/source structure.
-
-Do not import published, standard, web, or remembered English Kural wording.
-
-## Required SC3 completion audit
-
-After SC3:
-
-- confirm **37/37** pages scans **630–666** have been directly source-checked;
-- confirm all **111/111 Part-006 English pages** are now `source-checked`;
-- confirm `draft` becomes **0**;
-- record every wording/structure correction by scan;
-- compare the pre-SC3 page-layer base to the SC3 endpoint;
-- require changes only inside `works/kuraloviyam/translations/en/pages/`;
-- confirm **0 Tamil page changes**;
-- preserve **658–665 contents**, **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**, and **666 NO EXTERNAL CONTINUATION**;
+- confirm **37/37** scans **556–592** were checked against `GLOSSARY.md` and audited Tamil context;
+- record new/reused Chapter-label controls;
+- record narrative/place/literary controls actually evidenced;
+- record source-printed lexical glosses actually evidenced;
+- list every English page changed for terminology consistency;
+- confirm **all 37/37 remain source-checked**;
+- confirm **0 Tamil changes**;
+- compare the pre-GR1 checkpoint to the GR1 endpoint;
+- distinguish `GLOSSARY.md` changes from English page wording changes;
 - update `TRANSLATION_STATUS.md` and relevant control docs.
 
-After SC3 closes, Part-006 English source-check is **COMPLETE / CLOSED 111/111**.
+After GR1, the next glossary batch under the 37-page cadence is:
 
-The next gate is **Part 006 English glossary reconciliation**, using the same **37-page** cadence unless live repository policy says otherwise.
+**GR2 — scans 593–629 / printed 576–612 — 37 pages.**
