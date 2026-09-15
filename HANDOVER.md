@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Parts 001–005 CLOSED; Part 006 Tamil ARCHIVAL-READY / CLOSED; English drafting COMPLETE / CLOSED 111/111; Source-Check SC1 next**: **2026-09-15**.
+Last refreshed for Kuraloviyam **Parts 001–005 CLOSED; Part 006 Tamil ARCHIVAL-READY / CLOSED; English drafting COMPLETE / CLOSED 111/111; Source-Check SC1 COMPLETE / PASS 37/37; SC2 next**: **2026-09-15**.
 
 ## Repository
 
