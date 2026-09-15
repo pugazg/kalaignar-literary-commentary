@@ -17,7 +17,7 @@ Closing-page source audit. Entries marked NEEDS-SPAN-AUDIT require earlier pages
 | 101 | விளக்கற்றம் பார்க்கும் | 224–225 | 241–242 | 1 | Ch 119 பசப்புறுபருவரல் / Kural 1186 | RESOLVED |
 | 102 | அ. சுழன்றும் ஏர்ப்பின்னது / ஆ. அமிழ்தினும் ஆற்ற | 226–227 | 243–244 | 2 | Ch 104 உழவு / Kural 1031<br>Ch 7 மக்கட்பேறு / Kural 64 | RESOLVED |
 | 103 | அ. துனியும் புலவியும் / ஆ. நீரும் நிழலது | 228–230 | 245–247 | 2 | Ch 131 புலவி / Kurals 1306, 1309 | RESOLVED |
-| 104 | அ. உழுதுண்டு வாழ்வாரே / ஆ. வலியில் நிலைமையான் | 231–232 | 248–249 | 2 | Ch 28 கூடாவொழுக்கம் / Kural 273 | NEEDS-SPAN-AUDIT |
+| 104 | அ. உழுதுண்டு வாழ்வாரே / ஆ. வலியில் நிலைமையான் | 231–232 | 248–249 | 2 | scan 248 quotes `உழுதுண்டு வாழ்வாரே...` with **no explicit Chapter/Kural metadata in the audited page record**; scan 249 closes `வலியில் நிலைமையான்...` with Ch 28 கூடாவொழுக்கம் / Kural 273 | PARTIAL-SOURCE-METADATA |
 | 105 | அ. தினைத்துணையும் ஊடாமை / ஆ. ஊடற்கண் சென்றேன்மன் / இ. கண்ணின் துனித்தே | 233–234 | 250–251 | 3 | Ch 129 புணர்ச்சி விதும்பல் / Kurals 1282, 1284, 1290 | RESOLVED |
 
-Exceptions needing full-span audit: **104**.
+Full-span audit complete. Entry **104** retains a source-metadata limitation for its first quoted Kural; no number/title is inferred.
