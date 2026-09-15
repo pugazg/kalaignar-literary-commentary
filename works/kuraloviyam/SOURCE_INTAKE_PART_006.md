@@ -178,4 +178,4 @@ Current final Tamil distribution: **111 textual verified / 111 visual verified /
 
 The separate Part 006 Tamil archival-ready checkpoint is now **PASS / CLOSED**. Part 006 Tamil is **ARCHIVAL-READY / CLOSED**. No page-layer Tamil or status change occurred at that checkpoint.
 
-The maintained frontier is now **Part 006 English Draft D1 — scans 556–588 / printed 539–571 — 33 pages**, using the project-created English translation workflow.
+The maintained English cadence is now **37 physical scans per iteration**. Draft D1 is **COMPLETE / PASS 37/37** for scans **556–592 / printed 539–575** with page-layer base `411fc0fdad71c2b94ef5c17f68dece42e744089d` and endpoint `8ca4baeb33a8a45d13df372dc97acc705c1398e3`; exact compare: **6 commits / exactly 37 new English page files / 0 non-page changes / 0 Tamil changes**. The maintained frontier is now **Part 006 English Draft D2 — scans 593–629 / printed 576–612 — 37 pages**.
