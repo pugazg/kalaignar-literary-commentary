@@ -1,72 +1,72 @@
-# NEXT CHAT PROMPT — குறளோவியம் / FINAL CLOSED STATE
+# NEXT CHAT PROMPT — குறளோவியம் / Derived Sections S2
 
-Continue in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
+Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active derived work `works/kuraloviyam/sections/`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Final project state
+## Maintained corpus state
 
-The supplied six-Part `குறளோவியம்` source family is **FULLY CLOSED**.
+The six-Part archival + maintained English workflow remains **FULLY CLOSED**.
 
-Overall physical source:
+Do not modify:
 
-- scans **1–666**;
-- Parts **001–006**, each **111 physical scans**;
-- final numbered printed page — **648** on scan **665**;
-- scan **666** — **unnumbered pictorial back cover**;
-- **666 NO EXTERNAL CONTINUATION**.
+- `works/kuraloviyam/pages/`;
+- `works/kuraloviyam/translations/en/pages/`;
+- closed Part review/release/final-closure decisions.
 
-## Tamil archival state
+Whole maintained disposition:
 
-Whole-family Tamil disposition:
-
-- textual `verified` — **662**;
-- textual `partial` / source-limited — **4**: Part 001 scans **13, 14, 15, 19**;
-- visual fidelity `verified` — **666/666**;
+- Tamil — **662 verified + 4 explicit partial/source-limited; 666/666 visual verified**;
+- English — **662 release-ready + 4 source-limited**;
 - blocked — **0**.
 
-Part 006 Tamil is:
+## Derived Sections S1 — COMPLETE / PASS
 
-**ARCHIVAL-READY / CLOSED — 111/111 textual verified + 111/111 visual verified / 0 exceptions.**
+S1 commit:
 
-## Maintained English state
+`b29cb2e5d25904250ca69ad2c0bc085666685b01`
 
-Whole-family maintained English disposition:
+Created under `works/kuraloviyam/sections/`:
 
-- `release-ready` — **662**;
-- `source-limited` — **4**: Part 001 scans **13, 14, 15, 19**;
-- `editorial-reviewed` — **0**;
-- `source-checked` — **0**;
-- `draft` — **0**;
-- `blocked` — **0**.
+- front matter — 7 source-derived sub-sections;
+- Book/Iyal scaffold — 4 Aram + 7 Porul + 2 Inbam Iyal;
+- **120** source-evidenced Adhikaram files;
+- exact source contents entries **1–300** in 8 files;
+- `STRUCTURE_POLICY.md`;
+- `ADHIKARAM_COVERAGE.md`;
+- `SECTIONS_BUILD_STATUS.md`.
 
-Part 006 English is:
+No audited Tamil or maintained English page was changed.
 
-**RELEASE COMPLETE / CLOSED — 111/111 release-ready.**
+## Structural rule
 
-Durable Part 006 records:
+Hierarchy target:
 
-- `works/kuraloviyam/translations/en/reviews/PART_006_ENGLISH_REVIEW.md`;
-- `works/kuraloviyam/translations/en/reviews/PART_006_ENGLISH_RELEASE_REPORT.md`;
-- `works/kuraloviyam/PART_006_FINAL_CLOSURE.md`.
+**Book → Iyal → Adhikaram → Kuraloviyam contents entry**
 
-## Source endpoint
+Book/Iyal placement is explicitly a derived navigation scaffold. Adhikaram labels and entry assignments must remain source-evidenced.
 
-Preserve:
+## Exact next activity — S2
 
-- **657→658 CLEAN / body→contents transition**;
-- **658→665 GENUINE CONTENTS CONTINUATION**;
-- **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**;
-- **666 NO EXTERNAL CONTINUATION**.
+Crosswalk contents entries **1–300** to their source-evidenced Adhikaram.
 
-## Permanent safeguards
+Method:
 
-- audited page records are authoritative;
-- do not replace source wording with web, canonical, remembered or another-edition wording;
-- do not reconstruct the four Part 001 source-limited pages;
-- the project-created English translation remains distinct from any published translation;
-- reopen a controlling PDF only for a genuinely new source/provenance/fidelity issue.
+1. read the exact entry start printed page from `sections/04-contents/`;
+2. derive the entry page span from the next entry start;
+3. inspect the audited closing page under `works/kuraloviyam/pages/`;
+4. extract its printed Chapter / Kural metadata;
+5. append the entry to the matching source-evidenced Adhikaram file with:
+   - entry number;
+   - Tamil contents incipit;
+   - printed-page span;
+   - overall scan span;
+   - Chapter number/title exactly as maintained;
+   - Kural number(s);
+6. if metadata cannot be secured, mark the entry unresolved rather than guessing.
 
-## Exact next activity
+## Safeguards
 
-**There is no active Kuraloviyam page-batched activity.**
-
-If the user requests a new derivative, publication format, export, index, analysis or correction, start from live `main` and preserve the closed archival/release state unless new source evidence specifically requires reopening it.
+- no web/canonical/remembered Kural mapping;
+- no normalization of source Chapter numbers;
+- preserve the Chapter-26 source-number conflict;
+- multi-Kural entries remain multi-Kural;
+- **0 page-layer mutations**.
