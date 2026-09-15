@@ -11,9 +11,9 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | 001 | 1–111 | **Tamil CLOSED; English CLOSED — 107 release-ready + 4 source-limited** |
 | 002 | 112–222 | **Tamil ARCHIVAL-READY / CLOSED; English RELEASE COMPLETE / CLOSED — 111/111 release-ready** |
 | 003 | 223–333 | **Tamil + English CLOSED — final Part checkpoint PASS / CLOSED; 111/111 English release-ready** |
-| 004 | 334–444 | **Tamil ARCHIVAL-READY / CLOSED; English editorial review COMPLETE / CLOSED 111/111; Part-level English review next** |
-| 005 | 445–555 | not-started |
-| 006 | 556–666 | not-started |
+| 004 | 334–444 | **Tamil + maintained English FULLY CLOSED — 111/111 release-ready English** |
+| 005 | 445–555 | **Tamil + maintained English FULLY CLOSED — 111/111 release-ready English** |
+| 006 | 556–666 | **Tamil Pass 3 COMPLETE / PASS 111/111 — Part audit next; all records still needs-review / visual needs-review** |
 
 Permanent workflow policy: [`../../KURALOVIYAM_ARCHIVAL_GUIDELINES.md`](../../KURALOVIYAM_ARCHIVAL_GUIDELINES.md).
 
