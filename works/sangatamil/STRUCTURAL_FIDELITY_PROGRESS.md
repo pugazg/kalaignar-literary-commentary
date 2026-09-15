@@ -567,16 +567,138 @@ Exact page-file set:
 
 This progress-record update is the sole intended non-page change after the Batch B06 page-layer endpoint.
 
+## Batch B07 — scans 151–175
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-15**
+- scans reviewed: **151–175 / 25**
+- controlling source: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_004_pages_151-200.pdf`
+- lexical lock used: `File4.md`
+- batch base: `31faa0e3f7e7550d8fc39553d656206cd02dcf2c`
+- page-layer endpoint: `e0c50582b5d8a7aaa27156658d76437ca21151b4`
+- structurally changed page records: **24**
+- reviewed with no page-record change: **1** — scan **160**
+- scan-led lexical corrections / modernizations: **0**
+- unresolved structural placement issues: **0**
+
+### Gate-B reconciliation performed
+
+1. **scans 151–153 — continuation of `கவிஞர்கள் தெளித்த பன்னீரும் வடித்த கண்ணீரும்!`**
+   - reconciled the stale section identity inherited by the three continuation records;
+   - restored File4 wording and source-supported page placement;
+   - scan 151 places the displaced locked `நீ` on the opening line and excludes malformed duplicate fragment `மேருமை` while retaining File4's complete `மேருமலையை`;
+   - scan 152 expands File4's flattened extraction into the source-visible prose/verse/quotation structure and moves locked `என்றார்.` to its physical carryover position;
+   - scan 153 restores note/gloss hierarchy and source-supported punctuation.
+
+2. **scans 154–158 — `செவிலி தேடிய சித்திரப் பாவை!`**
+   - corrected stale repository section identity `பசிக்கிளி தேடிய சித்திரப் பாவை!`;
+   - restored File4 wording across narrative, dialogue, Kalithogai quotation, provenance and glossary;
+   - scan 155 excludes stray File4 numeric `64` and places locked `அது` at its source-supported carryover position;
+   - scan 156 remains a full-page illustration and required section-metadata reconciliation only;
+   - scan 157 excludes printed page number `144` from the literary quotation after File4 merged it into the quotation line;
+   - scan 158 restores quotation → separator → provenance → `பொருள் விளக்கம்` order and excludes stray File4 numeric `6` from `கொளை =6 கொள்கை`.
+
+3. **scans 159–164 — `பதிலை நெருப்பாக உமிழ்ந்த பாவாணர்!`**
+   - restored File4 wording throughout;
+   - scan 159 returns displaced locked carryovers `எனினும்`, `செருகியது போல்`, `ஒருவர்தானே!`, and `முடமோசியார்` to source-supported positions;
+   - scan 160 is a full-page illustration and was already structurally correct, so no repository change was required;
+   - scan 161 moves displaced locked `எனினும்` to the correct physical position;
+   - scans 163–164 expand flattened Purananuru extraction into source-visible quotation/provenance units and restore provenance/gloss ordering without source-led lexical replacement.
+
+4. **scans 165–170 — `காடைப் போர் கண்டுவந்த கணவன்!`**
+   - corrected stale repository section identity `காவைப்போர் கண்டுவந்த கணவன்!` to the source-visible `காடைப் போர் கண்டுவந்த கணவன்!`;
+   - scan 165 preserves the File4-locked body heading `காடைப் போர் இகண்டுவந்த கணவன்!` while recording the source section identity in metadata, and places locked `ஏகி` at its source-supported carryover position;
+   - scan 166 remains a full-page illustration with section metadata reconciled;
+   - scan 167 removes a stray terminal period after a source-supported exclamation mark as punctuation/extraction contamination;
+   - scan 168 keeps locked `கொண்டாய்;` on physical scan 168 despite File4's page marker interrupting the sentence;
+   - scan 169 restores the source-visible separator, quotation marker and dotted omission rows as structural punctuation;
+   - scan 170 restores continuation, provenance and glossary placement.
+
+5. **scans 171–174 — `தகரோன் தந்த கனி!`**
+   - corrected stale repository section identity `தகடூரான் தந்த கனி?!`;
+   - restored File4 wording and source-supported poem/prose structure;
+   - scan 172 remains a full-page illustration with section metadata reconciled;
+   - scan 174 restores provenance/gloss order and excludes stray File4 numeric `6` from the glossary while preserving the locked lexical wording.
+
+6. **scan 175 — `நீர்மகள் நீரினும் குளிர்ந்த நெஞ்சம்!`**
+   - the PDF supplies the section identity used in metadata;
+   - File4's heading extraction is malformed as `நிலமலை / லம் / நீரினும் / குளிர்ந்த / நெஞ்சம்!)`;
+   - those malformed heading fragments are excluded rather than source-recovered into body text under Gate B;
+   - Gemini phase narration/page-wrapper text is also excluded as non-source extraction wrapper material;
+   - the remaining File4 body wording is preserved and scan 175 is marked as continuing to scan 176.
+
+### Illustration handling confirmed
+
+- scans **156, 160, 166, 172** are full-page illustrations;
+- no source-visible literary text or printed page number is inferred;
+- scans **156, 166, 172** required section-metadata reconciliation;
+- scan **160** required no repository change.
+
+### Locked omissions / extraction exceptions carried forward
+
+- scan **151** — malformed duplicate File4 fragment `மேருமை` excluded; complete locked `மேருமலையை` retained.
+- scan **155** — stray File4 numeric `64` excluded.
+- scan **157** — physical page number `144` merged into File4 quotation extraction excluded as page furniture.
+- scan **158** — stray File4 numeric `6` excluded.
+- scan **165** — source section identity is `காடைப் போர் கண்டுவந்த கணவன்!`; File4 locks body heading `காடைப் போர் இகண்டுவந்த கணவன்!`. Gate B preserves this metadata/body authority split.
+- scan **167** — extra terminal period following `!` excluded as punctuation/extraction contamination.
+- scan **174** — stray File4 numeric `6` excluded.
+- scan **175** — malformed File4 decorative-heading fragments excluded; source section identity is recorded in metadata without source-recovering lexical body text.
+
+## Exact changed-file audit — Batch B07
+
+Page-layer compare:
+
+`31faa0e3f7e7550d8fc39553d656206cd02dcf2c` → `e0c50582b5d8a7aaa27156658d76437ca21151b4`
+
+Result:
+
+- **1 commit ahead**
+- **exactly 24 modified page files**
+- **0 other page files**
+- **0 non-page files at the page-layer endpoint**
+- scan **160** reviewed with no change
+
+Exact page-file set:
+
+- `works/sangatamil/pages/0151-kavignargal-ethirththa-pagaiyum-pazhiththa-kanaiyum-04.md`
+- `works/sangatamil/pages/0152-kavignargal-ethirththa-pagaiyum-pazhiththa-kanaiyum-05.md`
+- `works/sangatamil/pages/0153-kavignargal-ethirththa-pagaiyum-pazhiththa-kanaiyum-06.md`
+- `works/sangatamil/pages/0154-pasikkili-thediya-siththirap-paavai-01.md`
+- `works/sangatamil/pages/0155-pasikkili-thediya-siththirap-paavai-02.md`
+- `works/sangatamil/pages/0156-pasikkili-thediya-siththirap-paavai-illustration.md`
+- `works/sangatamil/pages/0157-pasikkili-thediya-siththirap-paavai-04.md`
+- `works/sangatamil/pages/0158-pasikkili-thediya-siththirap-paavai-05.md`
+- `works/sangatamil/pages/0159-pathilai-neruppaaga-umizhndha-paavaanar-01.md`
+- `works/sangatamil/pages/0161-pathilai-neruppaaga-umizhndha-paavaanar-03.md`
+- `works/sangatamil/pages/0162-pathilai-neruppaaga-umizhndha-paavaanar-04.md`
+- `works/sangatamil/pages/0163-pathilai-neruppaaga-umizhndha-paavaanar-05.md`
+- `works/sangatamil/pages/0164-pathilai-neruppaaga-umizhndha-paavaanar-06.md`
+- `works/sangatamil/pages/0165-kaavaippor-kanduvandha-kanavan-01.md`
+- `works/sangatamil/pages/0166-kaavaippor-kanduvandha-kanavan-illustration.md`
+- `works/sangatamil/pages/0167-kaavaippor-kanduvandha-kanavan-03.md`
+- `works/sangatamil/pages/0168-kaavaippor-kanduvandha-kanavan-04.md`
+- `works/sangatamil/pages/0169-kaavaippor-kanduvandha-kanavan-05.md`
+- `works/sangatamil/pages/0170-kaavaippor-kanduvandha-kanavan-06.md`
+- `works/sangatamil/pages/0171-thagadooraan-thandha-kani-01.md`
+- `works/sangatamil/pages/0172-thagadooraan-thandha-kani-illustration.md`
+- `works/sangatamil/pages/0173-thagadooraan-thandha-kani-03.md`
+- `works/sangatamil/pages/0174-thagadooraan-thandha-kani-04.md`
+- `works/sangatamil/pages/0175-neermagal-neerinum-kulirndha-nenjam-01.md`
+
+This progress-record update is the sole intended non-page change after the Batch B07 page-layer endpoint.
 
 ## Gate B cumulative state
 
-- structurally reviewed: **150/497**
-- structurally remaining: **347**
-- current frontier: **scan 151**
+- structurally reviewed: **175/497**
+- structurally remaining: **322**
+- current frontier: **scan 176**
 - Gate C: **NOT STARTED**
 
 ## Exact next activity
 
-Process **Gate B scans 151–175** against `TVA_BOK_0042551_சங்கத்_தமிழ்_part_004_pages_151-200.pdf` + `File4.md`.
+Process **Gate B scans 176–200** against `TVA_BOK_0042551_சங்கத்_தமிழ்_part_004_pages_151-200.pdf` + `File4.md`.
 
 Preserve the Gemini lexical lock and continue structural correction only. Do **not** start Gate C.
+
