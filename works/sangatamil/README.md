@@ -1,5 +1,13 @@
 # சங்கத் தமிழ் — கலைஞர் மு. கருணாநிதி
 
+## Gate A closure
+
+**COMPLETE / PASS — 497 page files / 497 unique scans / 0 duplicates / 0 missing.**
+
+Durable record: [`GATE_A_HYGIENE_REPORT.md`](GATE_A_HYGIENE_REPORT.md).
+
+Current gate: **Gate B — Gemini-locked structural fidelity, scans 1–25**.
+
 ## Authoritative productive completion plan
 
 Active plan: [`PRODUCTIVE_COMPLETION_PLAN.md`](PRODUCTIVE_COMPLETION_PLAN.md).

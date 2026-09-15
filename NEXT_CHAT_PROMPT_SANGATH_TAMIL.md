@@ -1,52 +1,47 @@
-# Next Chat Prompt — சங்கத் தமிழ் / Productive Completion Workflow
+# Next Chat Prompt — சங்கத் தமிழ் / Gate B Structural Fidelity
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Mandatory controls
+## Authoritative controls
 
-Read first:
+1. `works/sangatamil/PRODUCTIVE_COMPLETION_PLAN.md`;
+2. `works/sangatamil/GEMINI_TEXT_LOCK.md`;
+3. `works/sangatamil/GATE_A_HYGIENE_REPORT.md`;
+4. `SANGATH_TAMIL_ARCHIVAL_GUIDELINES.md`;
+5. root `HANDOVER.md`.
 
-1. `works/sangatamil/PRODUCTIVE_COMPLETION_PLAN.md` — authoritative active plan;
-2. `works/sangatamil/GEMINI_TEXT_LOCK.md` — user-approved lexical lock;
-3. `SANGATH_TAMIL_ARCHIVAL_GUIDELINES.md`;
-4. root `HANDOVER.md`;
-5. `works/sangatamil/README.md`.
+## Durable state
 
-Older multi-pass/reconciliation documents are historical where they conflict with the productive plan or Gemini lexical lock.
+Gate A — **COMPLETE / PASS**:
 
-## Source bundle
-
-- controlling PDF — `TVA_BOK_0042551_சங்கத்_தமிழ்.pdf`;
-- physical range — **1–497**;
-- scan 497 — back cover;
-- lexical scaffold — **File1.md … File10.md**.
-
-## Authority split
-
-- PDF scan — physical/structural authority;
-- Gemini files — locked lexical wording;
-- repository — preservation layer.
-
-Do not silently source-correct legitimate Gemini words.
+- **497/497** canonical page files;
+- duplicate aliases — **0**;
+- missing scans — **0**.
 
 ## Current gate
 
-**Gate A — Source bundle + repository hygiene.**
+**Gate B — Gemini-locked structural fidelity.**
 
-Known inventory:
+Normal batch: **25 physical scans**.
 
-- page files — **511**;
-- unique scan prefixes — **497**;
-- missing scans — **0**;
-- duplicate aliases — **14**, scans **61–74**.
+Authority split:
+
+- PDF scan — physical and structural authority;
+- Gemini File1–File10 — locked lexical wording;
+- repository — preservation layer.
+
+For Gate B:
+
+- preserve Gemini words;
+- correct page placement, headings, paragraph order, punctuation, quotation structure, speaker labels, verse lineation, spacing, separators and provenance/gloss block placement;
+- remove non-source OCR/stamp/handwriting garbage from body text;
+- preserve illustration/divider/blank pages;
+- do not silently source-correct legitimate lexical words.
 
 ## Exact next activity
 
-Resolve the duplicate aliases for scans **61–74** by preserving the newest user-policy-compliant canonical record for each scan and deleting only the stale alias. Then re-audit `pages/` and close Gate A only when:
+Process **scans 1–25** using the controlling PDF + `File1.md`.
 
-- **497 page files** remain;
-- **497 unique scan prefixes**;
-- **0 duplicate aliases**;
-- **0 missing scans**.
+Create/update the durable structural progress record and audit the exact changed-file set.
 
-After Gate A closes, begin **Gate B structural fidelity** at scans **1–25**, using the PDF for structure and File1.md for locked lexical wording.
+Do not start Gate C in the same batch.

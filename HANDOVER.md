@@ -30,17 +30,18 @@ Later commits may advance `main`. Preserve any newer durable state. Do not reset
 
 Authoritative active plan: `works/sangatamil/PRODUCTIVE_COMPLETION_PLAN.md`.
 
-Current gate: **Gate A — Source bundle + repository hygiene**.
+Gate A: **COMPLETE / PASS**.
 
-Known inventory at plan lock:
-
-- source — **497 scans**;
-- page files — **511**;
+- physical source — **497 scans**;
+- canonical page files — **497**;
 - unique scan prefixes — **497**;
+- duplicate aliases — **0**;
 - missing scans — **0**;
-- duplicate scan aliases — **14**, scans **61–74**.
+- durable Gate-A record — `works/sangatamil/GATE_A_HYGIENE_REPORT.md`.
 
-Exact next activity: resolve scans 61–74 duplicate aliases, re-audit to **497 unique canonical page files**, then start Gate B structural fidelity in **25-scan batches**.
+Current gate: **Gate B — Gemini-locked structural fidelity**.
+
+Exact next activity: **scans 1–25** using the PDF for structure/presentation and `File1.md` for locked lexical wording.
 
 ## Mandatory startup — active சங்கத் தமிழ் work
 

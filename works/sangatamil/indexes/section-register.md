@@ -10,7 +10,7 @@ Gemini is used as a lexical scaffold only; decorative headings and canonical sec
 
 A Stage-0 regression pilot demonstrated substantive errors in the previously `verified` Section 004 records. The printed heading and affected page text have been corrected and the text-page statuses reopened pending systematic Pass 2/3 review.
 
-After the regression pilot, **Pass 1 — Gemini-assisted transcription / physical capture only** resumes at scan 54. During Pass 1, immediately visible decorative headings may be captured in page records, but canonical section starts/ends, complete scan ranges, illustration placement and boundary confidence are deferred to **Pass 5**.
+Pass-1 capture is complete and Gate A hygiene is closed at **497/497 canonical scan records**. Whole-volume section reconstruction remains incomplete and is intentionally deferred to **Gate E** of the productive completion plan.
 
 | Repo sequence | Printed heading / role | Scan range | Status |
 |---:|---|---:|---|
@@ -35,4 +35,4 @@ The source PDF is complete through scan **497**, which is the back cover. The re
 
 ## Current execution boundary
 
-Physical records exist through **scan 53**. After the scans 31–36 regression synchronization, Gemini-assisted Pass 1 resumes at **scan 54** and continues through scan 497. No routine section-register synchronization is required again until a deliberate documentation checkpoint or Pass 5.
+Physical records exist for **all scans 1–497**. Current activity is **Gate B structural fidelity**. Canonical section completion occurs later in **Gate E**.

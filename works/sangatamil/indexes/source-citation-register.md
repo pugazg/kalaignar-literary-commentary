@@ -12,9 +12,9 @@ Gemini may be used as a lexical comparison aid, especially for old/uncommon Tami
 
 A Stage-0 regression pilot found substantive text errors in scan 36 despite its earlier `verified` status. The scan-36 citation remains source-located, but its status is reopened pending the systematic Pass 2 textual and Pass 6 provenance audits.
 
-During **Pass 1 — Gemini-assisted transcription / physical capture only**, do not interrupt page capture to verify newly encountered provenance or routinely update this register.
+Physical capture is complete. Do not mix whole-volume provenance completion into Gate B; systematic provenance closure is **Gate F** in the productive completion plan.
 
-The systematic whole-volume provenance activity is **Pass 6 — Sangam source / provenance audit, scan 1 → 497**.
+The systematic whole-volume provenance activity is **Gate F — Sangam provenance audit, scan 1 → 497**.
 
 | Scan | Section / context | Printed source label | Poem / range | Poet as printed | Status |
 |---:|---|---|---|---|---|
@@ -37,4 +37,4 @@ The systematic whole-volume provenance activity is **Pass 6 — Sangam source / 
 
 ## Current execution boundary
 
-Physical page capture currently exists through **scan 53**. After the scans 31–36 regression pilot, Gemini-assisted Pass 1 resumes at **scan 54**. No routine citation-register update is expected again until a deliberate checkpoint or Pass 6.
+Physical page capture is complete for **497/497 scans** and Gate A hygiene is closed. Current activity is **Gate B structural fidelity**; citation-register completion is deferred to **Gate F**.

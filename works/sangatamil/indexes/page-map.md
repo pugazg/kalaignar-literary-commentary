@@ -19,7 +19,7 @@ A complete Gemini transcription is now used as a **lexical scaffold only**. The 
 
 A Stage-0 regression pilot on scans **31–36** demonstrated that some prior `verified` records contained substantive lexical/structural errors. Those text pages have therefore been corrected and reopened to `needs-review` pending the systematic Pass 2/3 sweeps.
 
-After this pilot, **Pass 1 — Gemini-assisted transcription / physical capture only** resumes at scan 54. Broad map synchronization is not required after every new page during Pass 1.
+Pass-1 physical capture is complete. Gate A repository hygiene is also complete: **497 canonical page files / 0 duplicate aliases / 0 missing scans**. Current activity is **Gate B structural fidelity, starting scans 1–25**.
 
 ## Current map
 
@@ -48,7 +48,7 @@ After this pilot, **Pass 1 — Gemini-assisted transcription / physical capture 
 | 51 | printed 36 | continuation of `மாதரின் கண்ட மலர்கள்` | transcription-only first pass; `needs-review` |
 | 52 | — | full-page illustration | single-pass capture; `needs-review`; no visible printed page number |
 | 53 | printed 38 | continuation of `மாதரின் கண்ட மலர்கள்` | fast transcription-only first pass; `needs-review` |
-| 54–497 | later body / end matter | Gemini-assisted Pass-1 capture remaining | **active transcription/capture queue** |
+| 54–497 | later body / end matter | physical capture present | **canonical page records exist; structural fidelity pending Gate B** |
 
 ## Important controls
 
@@ -73,4 +73,4 @@ After this pilot, **Pass 1 — Gemini-assisted transcription / physical capture 
 
 ## Active gate
 
-**Finish the Stage-0 scans 31–36 documentation synchronization, then resume Gemini-assisted Pass 1 at scan 54 and continue sequentially through scan 497 before beginning the systematic Pass 2 sweep.**
+**Gate B structural fidelity — scans 1–25.**

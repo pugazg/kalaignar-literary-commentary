@@ -11,7 +11,7 @@ Last synchronized with live `main`: **2026-08-23**.
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–015 **ARCHIVAL-READY through scan 323**; commentary through printed page 270 / Kural 1330 |
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–015 **RELEASED through the end of the supplied volume** |
 | Thirukkural semantic structure | பால் → இயல் → அதிகாரம் | **COMPLETE — 3 பால் / 13 இயல் / 133 அதிகாரம் / 1,330 குறள் mapped** |
-| சங்கத் தமிழ் | தமிழ் | **ACTIVE — complete 497-scan source confirmed; physical records through scan 53; Pass 1 transcription/capture resumes at scan 54** |
+| சங்கத் தமிழ் | தமிழ் | **ACTIVE — Gate A CLOSED; 497/497 canonical physical records; Gate B structural fidelity begins at scans 1–25** |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த source-controlled edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Kuraloviyam | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
@@ -67,7 +67,7 @@ Only **Pass 1** is active now.
 
 ## Current physical progress
 
-Physical Markdown records exist through **scan 53**.
+Physical Markdown coverage is now **497/497 canonical scans** with **0 duplicates / 0 missing**.
 
 Current immediate sequence:
 
@@ -137,6 +137,6 @@ For active Sangath Tamil work, precedence is:
 
 ## அடுத்த செயல்
 
-**Pass 1 only: capture/transcribe scan 54, commit it as a first-pass page record, then continue sequentially toward scan 497.**
+**Gate B: process scans 1–25 for Gemini-locked structural fidelity.**
 
 Current handover: [`HANDOVER.md`](HANDOVER.md).

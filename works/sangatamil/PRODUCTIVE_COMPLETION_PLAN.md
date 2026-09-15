@@ -241,7 +241,7 @@ Final declaration must distinguish one of two outcomes:
 
 ## Current active gate
 
-**Gate A — Source bundle + repository hygiene.**
+**Gate B — Gemini-locked structural fidelity.**
 
 Known live-main inventory at plan creation:
 
@@ -252,4 +252,4 @@ Known live-main inventory at plan creation:
 - duplicate scan aliases — **14**, affecting scans **61–74**;
 - existing section README files — **9** (front matter + sections 001–008), far short of whole-volume section coverage.
 
-The first work item is therefore to resolve the duplicate aliases and freeze a clean 497-record baseline before starting Gate B.
+Gate A is now closed: **497/497 canonical page records / 0 duplicates / 0 missing**. Exact next activity: **Gate B scans 1–25**.
