@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 3 Batch 6
+# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 3 Batch 7
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -32,26 +32,29 @@ Pass-3 progress:
 - Pass 3 Batch 3 — **578–588 / printed 561–571 — COMPLETE 11/11**;
 - Pass 3 Batch 4 — **589–599 / printed 572–582 — COMPLETE 11/11**;
 - Pass 3 Batch 5 — **600–610 / printed 583–593 — COMPLETE 11/11**;
-- Batch-5 structural/visual corrections — **0**;
-- Batch-5 lexical/body-text changes — **0**;
-- Batch-5 page-layer compare — `5f2cb18c4accc2a36d0df1582cb64dc428b60b5f` → same commit — **identical / 0 changed files**;
-- cumulative Pass 3 — **55/111**;
+- Pass 3 Batch 6 — **611–621 / printed 594–604 — COMPLETE 11/11**;
+- Batch-6 structural/visual corrections — **1 page / scan 611**;
+- Batch-6 lexical/body-text changes — **0**;
+- scan-611 correction — prior visual note incorrectly described **611→612** as a physical-sentence continuation; source shows the sentence closes on scan 611 and only the vignette/exchange continues to scan 612;
+- Batch-6 page-layer compare — `f4f5ec2fc37b5641db5803b10f017d4d0ff85ef3` → `aff3b500eb1fd8c11e4d3adfd72c0048cf687585` — **1 commit ahead / exactly 1 changed Part-006 page file / scan 611 only / +2 -2 / 0 other files**;
+- cumulative Pass 3 — **66/111**;
 - all 111 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
 
 Continuity:
 
-- incoming **599→600 GENUINE CONTINUATION** preserved;
-- scan **611 / printed 594** was inspected only as Batch-5 outgoing witness and confirms **610→611 GENUINE CONTINUATION**.
+- incoming **610→611 GENUINE CONTINUATION** preserved;
+- **611→612 GENUINE VIGNETTE CONTINUATION / not a physical-sentence continuation**;
+- scan **622 / printed 605** was inspected only as Batch-6 outgoing witness and confirms **621→622 GENUINE CONTINUATION**.
 
-## Exact next activity — Part 006 Pass 3 Batch 6
+## Exact next activity — Part 006 Pass 3 Batch 7
 
 Inspect:
 
-**scans 611–621 / printed 594–604 — 11 physical scans**.
+**scans 622–632 / printed 605–615 — 11 physical scans**.
 
-Preserve incoming **610→611 GENUINE CONTINUATION**.
+Preserve incoming **621→622 GENUINE CONTINUATION**.
 
-Scan **622 / printed 605** may be inspected only as the outgoing continuity witness if required; do not include it in Batch 6.
+Scan **633 / printed 616** may be inspected only as the outgoing continuity witness if required; do not include it in Batch 7.
 
 Pass 3 is **meaningful visual/text fidelity verification**, not another lexical reread. Compare canonical records directly with freshly rendered source scans and verify:
 
