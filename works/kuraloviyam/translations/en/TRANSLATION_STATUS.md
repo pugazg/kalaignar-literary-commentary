@@ -1757,8 +1757,58 @@ Documentation consistency:
 
 No external edition, published/standard English Kural wording, web text or remembered conventional rendering was imported.
 
+## Part 006 English Release Report — APPROVED / CLOSED
+
+Durable release record:
+
+`works/kuraloviyam/translations/en/reviews/PART_006_ENGLISH_RELEASE_REPORT.md`
+
+Authoritative prior gate:
+
+`works/kuraloviyam/translations/en/reviews/PART_006_ENGLISH_REVIEW.md` — **PASS / CLOSED**.
+
+Release decision:
+
+**APPROVED / CLOSED — 111/111 `release-ready`.**
+
+Promotion audit:
+
+- promotion base — `50e9d9a1f281b0e33213c31a0f105d0cdc602789`;
+- promotion endpoint — `d6e36e5c1728ac29a07bed39770c34ee6439a593`;
+- compare — **8 commits ahead / non-divergent**;
+- changed files — exactly **111** Part-006 English page records;
+- non-page/control changes during promotion — **0**;
+- every page diff — **+1 / -1**;
+- only page-field mutation — `status: "editorial-reviewed"` → `status: "release-ready"`;
+- approved English wording changes — **0**;
+- Tamil changes — **0**;
+- glossary / metadata / visual / contents-index changes — **0**.
+
+Final Part-006 English inventory:
+
+- `release-ready` — **111**;
+- `editorial-reviewed` — **0**;
+- `source-checked` — **0**;
+- `draft` — **0**;
+- `source-limited` — **0**;
+- `blocked` — **0**.
+
+Source and structural controls remain unchanged:
+
+- Tamil — **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified / 0 exceptions**;
+- scans **658–665** — complete source-keyed contents run, entries **1–300**;
+- scan **666** — unnumbered pictorial back cover / physical source endpoint;
+- incoming **555→556 CLEAN / source-resolved**;
+- **629→630 GENUINE CONTINUATION**;
+- **657→658 CLEAN / body→contents transition**;
+- **658→665 GENUINE CONTENTS CONTINUATION**;
+- **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**;
+- **666 NO EXTERNAL CONTINUATION**.
+
+No published/standard/web English Kural wording or external edition prose was imported.
+
 ## Exact next activity
 
-**Part 006 English Release Report — whole Part 006 / scans 556–666.**
+**Part 006 final closure checkpoint / documentation confirmation.**
 
-Use `reviews/PART_006_ENGLISH_REVIEW.md` as the authoritative prior gate. Decide release approval explicitly. If approved, create `reviews/PART_006_ENGLISH_RELEASE_REPORT.md` and promote only eligible `editorial-reviewed` pages to `release-ready` with **status-token-only** changes. Do not alter approved English wording, Tamil records, glossary controls, metadata, visual sections, contents/index keys or boundary classifications.
+Create the durable final closure record for Part 006, reconcile the remaining whole-work control documents to the final **111/111 release-ready** English state, confirm Tamil and English closure together, and mark the six-part `குறளோவியம்` source family complete. Do not alter approved English wording, Tamil page records, glossary controls, metadata, contents/index keys, visual sections or boundary classifications.
