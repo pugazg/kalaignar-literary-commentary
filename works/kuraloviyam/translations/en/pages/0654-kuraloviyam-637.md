@@ -13,7 +13,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 "Did you suffer so much because we were apart, my dear?
 
-"Do you think only you know how to quote Paavendar's line, 'I remain alive; I have not died'?
+"Do you think only you know how to quote Paavendhar's line, 'I remain alive; I have not died'?
 
 "Did I not write back, 'What is living here at all?'
 
