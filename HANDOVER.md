@@ -574,8 +574,14 @@ S2 processed **300/300** source contents entries:
 - **121/133** source-evidenced Chapter numbers;
 - **0** closed Tamil/English page-layer mutations.
 
+## Kuraloviyam derived sections S3 — COMPLETE
+
+The downstream navigation layer now includes **300/300 individual entry leaves**, machine-readable JSON/TSV indexes, Chapter-grouped navigation, and direct Adhikaram→entry links.
+
+Closed Tamil/English page layers remain unchanged.
+
 ## Exact next activity — குறளோவியம்
 
 **None required.**
 
-Optional downstream work: **S3 — individual entry leaf records / web-ready navigation index**.
+Use `works/kuraloviyam/sections/entries/index.json` as the preferred structured input for any future website/search/API derivative.

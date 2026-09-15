@@ -10,46 +10,43 @@
 
 ## S2 — Entry-to-Adhikaram crosswalk COMPLETE / PASS WITH TWO SOURCE-METADATA LIMITATIONS
 
-S2 processed the exact source contents entries **1–300**.
-
-Final disposition:
-
 - entries processed — **300/300**;
 - fully resolved — **298**;
 - partial source metadata — **2**: entries **46, 104**;
 - unresolved — **0**;
 - source-evidenced Chapter numbers — **121/133**;
-- Chapter numbers not evidenced by the 300 entry closures — **1, 18, 22, 25, 44, 52, 70, 76, 86, 91, 106, 107**.
+- non-evidenced Chapter numbers — **1, 18, 22, 25, 44, 52, 70, 76, 86, 91, 106, 107**;
+- entry **202** retains its source-proven shared-page overlap through scan 452.
 
-### Source-metadata limitations
-
-- entry **46**: the first quoted Kural `என்பு இலதனை...` is present, but its Chapter/Kural number is not explicitly supplied in the audited page record; the second quotation closes with Chapter 83 / Kural 828.
-- entry **104**: the first quoted Kural `உழுதுண்டு வாழ்வாரே...` is present, but its Chapter/Kural number is not explicitly supplied in the audited page record; the second quotation closes with Chapter 28 / Kural 273.
-
-No external numbering was inferred.
-
-### Shared-page correction
-
-Entry **202** continues through printed page **435 / scan 452**, which is also the locator page for entry 203. S2 therefore preserves an overlapping entry span where the audited source proves it.
-
-### Durable outputs
+Durable S2 outputs:
 
 - `crosswalk/S2_MASTER_CROSSWALK.tsv`;
-- `crosswalk/S2_EXCEPTION_AUDIT.md`;
-- 121 source-evidenced Adhikaram files populated with linked contents entries;
-- refreshed Iyal indexes;
-- `ADHIKARAM_COVERAGE.md`.
+- `crosswalk/S2_EXCEPTION_AUDIT.md`.
+
+## S3 — Individual entry leaves / web-ready navigation COMPLETE / PASS
+
+- entry leaves — **300/300**;
+- `entries/README.md` — human index;
+- `entries/index.json` — structured web/API index;
+- `entries/index.tsv` — tabular index;
+- `entries/BY_CHAPTER.md` — Chapter-grouped navigation;
+- 121 Adhikaram files refreshed with direct entry-leaf links;
+- Tamil page-layer changes — **0**;
+- English page-layer changes — **0**.
+
+S3 content commits:
+
+- `a093335adaeb62fb150913f0c64906a41bb25adb` — entries 001–100;
+- `bb85f4206b6e93a426953a491b7f68f5e830695d` — entries 101–200;
+- `40a06ec079fdd2924fc96b8f3d15c21ca63ccf1b` — entries 201–300;
+- `30c700ba8a76165550b12b989b0d4aa608089065` — indexes + 121 Chapter-link refreshes.
+
+Durable S3 report: `S3_COMPLETION_REPORT.md`.
 
 ## Result
 
-The requested hierarchy is now operational:
+The navigation layer is complete as:
 
-**Book → Iyal → Adhikaram → Kuraloviyam contents entry**
+**Book → Iyal → Adhikaram → individual Kuraloviyam entry → audited Tamil/English pages**
 
-with **0 mutations** to the closed Tamil or English page layers.
-
-## Next optional downstream activity
-
-**S3 — individual entry leaf records / web-ready navigation index**, if required.
-
-S3 is optional; S2 already completes the requested section hierarchy.
+There is **no required next section activity**.

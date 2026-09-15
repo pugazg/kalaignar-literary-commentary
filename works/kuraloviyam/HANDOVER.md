@@ -538,8 +538,20 @@ Durable records:
 - `sections/crosswalk/S2_MASTER_CROSSWALK.tsv`;
 - `sections/crosswalk/S2_EXCEPTION_AUDIT.md`.
 
+## Derived sections S3 — COMPLETE / PASS
+
+S3 created:
+
+- **300/300** individual entry leaves;
+- human + JSON + TSV indexes;
+- Chapter-grouped entry navigation;
+- direct links from all **121** source-evidenced Adhikaram files to their entry leaves;
+- **0** Tamil/English page-layer mutations.
+
+Durable report: `sections/S3_COMPLETION_REPORT.md`.
+
 ## Exact next activity
 
-**No required Kuraloviyam section activity remains.**
+**None required for Kuraloviyam sections.**
 
-Optional: **S3 — individual entry leaf records / web-ready navigation index**.
+Future work may consume `sections/entries/index.json` for a website, search UI, API, thematic index or other derivative without reopening the closed source layers.

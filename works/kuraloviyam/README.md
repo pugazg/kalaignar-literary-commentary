@@ -527,8 +527,23 @@ Entry **202** is preserved as a source-proven shared-page overlap through printe
 
 Durable status: `sections/SECTIONS_BUILD_STATUS.md`.
 
+## Derived sections S3 — COMPLETE / PASS
+
+S3 adds one stable leaf for every source contents entry:
+
+- **300/300** individual entry records;
+- human index — `sections/entries/README.md`;
+- JSON index — `sections/entries/index.json`;
+- TSV index — `sections/entries/index.tsv`;
+- Chapter-grouped navigation — `sections/entries/BY_CHAPTER.md`;
+- all **121** source-evidenced Adhikaram files now link directly to their entry leaves;
+- **0** Tamil archival page changes;
+- **0** maintained English page changes.
+
+Durable report: `sections/S3_COMPLETION_REPORT.md`.
+
 ## Current frontier
 
-**No required section activity remains.**
+**No required Kuraloviyam section activity remains.**
 
-Optional next downstream step: **S3 — individual entry leaf records / web-ready navigation index**.
+Any further work is optional downstream publishing/search/analysis work and must preserve the closed archival, English and S2/S3 evidence decisions.

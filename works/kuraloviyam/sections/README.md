@@ -11,7 +11,8 @@ This directory is a **derived navigation layer** built after the six-Part archiv
 - `02-porul/` — பொருட்பால்;
 - `03-inbam/` — இன்பத்துப்பால்;
 - `04-contents/` — exact 300-entry source contents;
-- `crosswalk/` — S2 entry-to-Adhikaram evidence.
+- `crosswalk/` — S2 entry-to-Adhikaram evidence;
+- `entries/` — S3 individual entry leaves and web-ready indexes.
 
 ## S2 completion
 
@@ -22,9 +23,22 @@ This directory is a **derived navigation layer** built after the six-Part archiv
 - source-evidenced Chapter numbers — **121/133**;
 - not evidenced by entry-closure metadata — **1, 18, 22, 25, 44, 52, 70, 76, 86, 91, 106, 107**.
 
-Book/Iyal placement is an explicitly derived navigation scaffold. Adhikaram labels and entry assignments are source-evidenced from the maintained page layer.
+## S3 completion
+
+- individual leaf records — **300/300**;
+- human entry index — `entries/README.md`;
+- machine-readable JSON — `entries/index.json`;
+- machine-readable TSV — `entries/index.tsv`;
+- Chapter-grouped index — `entries/BY_CHAPTER.md`;
+- all 121 source-evidenced Adhikaram files link directly to their entry leaves;
+- Tamil archival page changes — **0**;
+- maintained English page changes — **0**.
+
+Durable S3 record: `S3_COMPLETION_REPORT.md`.
 
 ## Safeguards
+
+Book/Iyal placement is an explicitly derived navigation scaffold. Adhikaram labels and entry assignments remain source-evidenced from the maintained page layer.
 
 No missing Chapter or Kural number is filled from another edition, web text or memory. The source-number conflict at Chapter **26** remains visible.
 

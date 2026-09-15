@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Derived Sections S2 CLOSED
+# NEXT CHAT PROMPT — குறளோவியம் / Derived Sections S3 CLOSED
 
 Continue in `pugazg/kalaignar-literary-commentary`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -10,42 +10,37 @@ Do not modify closed Tamil or English page records unless genuinely new source e
 
 ## Derived Sections S1 — CLOSED
 
-Structural scaffold under `works/kuraloviyam/sections/` is complete.
+Structural Book/Iyal/Adhikaram scaffold is complete.
 
-## Derived Sections S2 — COMPLETE / PASS
+## Derived Sections S2 — CLOSED
 
-Hierarchy now operational:
-
-**Book → Iyal → Adhikaram → Kuraloviyam contents entry**
-
-Final S2 state:
-
-- exact contents entries processed — **300/300**;
+- source contents entries — **300/300 processed**;
 - fully resolved — **298**;
-- partial source metadata — **2**: entries **46, 104**;
+- partial source metadata — entries **46, 104**;
 - unresolved — **0**;
 - source-evidenced Chapter numbers — **121/133**;
-- Chapter numbers not evidenced by entry closures — **1, 18, 22, 25, 44, 52, 70, 76, 86, 91, 106, 107**;
-- Tamil page-layer changes — **0**;
-- English page-layer changes — **0**.
+- entry **202** retains its source-proven shared-page overlap.
 
-Durable outputs:
+## Derived Sections S3 — COMPLETE / PASS
 
-- `works/kuraloviyam/sections/SECTIONS_BUILD_STATUS.md`;
-- `works/kuraloviyam/sections/crosswalk/S2_MASTER_CROSSWALK.tsv`;
-- `works/kuraloviyam/sections/crosswalk/S2_EXCEPTION_AUDIT.md`;
-- 121 populated source-evidenced Adhikaram files.
+S3 outputs:
 
-Entry **202** is a source-proven shared-page overlap through scan 452.
+- `works/kuraloviyam/sections/entries/entry-001.md` through `entry-300.md`;
+- `works/kuraloviyam/sections/entries/README.md`;
+- `works/kuraloviyam/sections/entries/index.json`;
+- `works/kuraloviyam/sections/entries/index.tsv`;
+- `works/kuraloviyam/sections/entries/BY_CHAPTER.md`;
+- direct entry-leaf links in all **121** source-evidenced Adhikaram files;
+- `works/kuraloviyam/sections/S3_COMPLETION_REPORT.md`.
 
-Entries **46** and **104** retain explicit source-metadata limitations; no outside Kural numbering was inferred.
+S3 changed **0 Tamil archival pages** and **0 maintained English pages**.
+
+## Current hierarchy
+
+**Book → Iyal → Adhikaram → individual Kuraloviyam entry → audited Tamil/English pages**
 
 ## Exact next activity
 
-There is **no required next section task**.
+There is **no required Kuraloviyam section task**.
 
-If requested, proceed with optional:
-
-**S3 — individual entry leaf records / web-ready navigation index**
-
-while preserving the closed archival/release layers and all S2 source limitations.
+For any future website, search interface, API, topic index or publication derivative, use `works/kuraloviyam/sections/entries/index.json` as the preferred structured navigation source while preserving all closed source-fidelity decisions.
