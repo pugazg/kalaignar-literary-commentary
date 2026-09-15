@@ -176,4 +176,6 @@ The historical Pass-3 batch notes above record the state at their time of execut
 
 Current final Tamil distribution: **111 textual verified / 111 visual verified / 0 exceptions**.
 
-The exact next gate is the separate **Part 006 Tamil archival-ready checkpoint**. No page-layer Tamil or status change is required for that checkpoint.
+The separate Part 006 Tamil archival-ready checkpoint is now **PASS / CLOSED**. Part 006 Tamil is **ARCHIVAL-READY / CLOSED**. No page-layer Tamil or status change occurred at that checkpoint.
+
+The maintained frontier is now **Part 006 English Draft D1 — scans 556–588 / printed 539–571 — 33 pages**, using the project-created English translation workflow.
