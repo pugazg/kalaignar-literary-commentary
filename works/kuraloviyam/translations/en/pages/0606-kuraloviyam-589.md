@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -21,7 +21,7 @@ The newly rich man had once lived in deep poverty, without resources. Then one d
 
 Now prosperity smiled upon him in the form of mansions, halls and towers.
 
-"Even before he became the owner of such wealth, there had been hostility between him and me. Now in this Palur he is the man who lives with the flag of dominance raised high," Azhagiyan concluded.
+"Even before he became the owner of such wealth, there had been hostility between him and me. Now he is the dominant figure in Palur," Azhagiyan concluded.
 
 "Can his boundless increase of wealth alone defeat the wealth of knowledge you possess? Do not fear," said Valluvar.
 

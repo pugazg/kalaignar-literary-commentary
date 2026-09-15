@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -17,7 +17,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 This conversation was taking place between two young men riding side by side on horseback along a forest road.
 
-The one seeking explanation was named Vezhamugan. The one answering was Vengaimarban. The first carried a heavy body; the second had a compact, well-built frame.
+The one seeking explanation was named Vezhamugan. The one answering was Vengaimarban. The first was heavy-set; the second had a compact, well-built frame.
 
 Vezhamugan asked:
 

@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -29,7 +29,7 @@ At once the minor ruler issued his order:
 
 "But before we drive those animals away, I am driving this poet out of our town."
 
-Once the order had been given, what work remained there for the half-learned poet?
+Once the order had been given, what business did the half-learned poet have there any longer?
 
 Here is the Kural used to draw this imagined scene:
 

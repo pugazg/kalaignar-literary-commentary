@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,7 +19,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 "Vengaimarba! My path will always be a path of my own."
 
-"Talking as though you can pick up anyone and throw him down is no good path. It may be your own path—but it is a path to ruin."
+"Boasting as though you can knock anyone down is no good path. It may be your own path—but it is a path to ruin."
 
 "Shouldn't my thoughts match my status?"
 

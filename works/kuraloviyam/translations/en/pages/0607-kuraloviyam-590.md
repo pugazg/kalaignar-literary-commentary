@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -17,7 +17,7 @@ Valluvar answered Azhagiyan's question with a smile.
 
 "Though this may appear to show the rich man's broad-mindedness, what it reveals completely is your own degradation.
 
-"Azhagiyan! Your life has given me the feeling for a Kural: rather than enrich one's life by going after an enemy, it is greater that a man should be said to have perished in that very state because he refused to bow before and cling to such an enemy.
+"Azhagiyan! Your life has inspired in me the thought of a Kural: rather than enrich one's life by going after an enemy, it is greater that a man should be said to have perished in that very state because he refused to bow before and cling to such an enemy.
 
 "Thank you. I am leaving."
 
