@@ -194,8 +194,31 @@ Part 005 has completed drafting, source-check, glossary reconciliation, editoria
 - Tamil archival-ready record — `../../PART_006_TAMIL_ARCHIVAL_READY.md`;
 - Part-006 English page inventory at Tamil closure — **0/111**.
 
+## Part 006 English drafting — D1 COMPLETE / PASS
+
+User-directed normal cadence is now **37 physical scans per iteration**.
+
+Draft D1:
+
+- scans **556–592 / printed 539–575**;
+- **37/37** page-aligned English records created;
+- all **37** carry `translation_type: "project_translation"`;
+- all **37** carry `status: "draft"`;
+- all **37** carry `source_tamil_status: "verified"`;
+- page-layer base — `411fc0fdad71c2b94ef5c17f68dece42e744089d`;
+- page-layer endpoint — `8ca4baeb33a8a45d13df372dc97acc705c1398e3`;
+- exact compare — **6 commits / exactly 37 newly added English page files / 0 non-page changes / 0 Tamil changes**;
+- incoming **555→556 CLEAN / source-resolved**;
+- outgoing **592→593 CLEAN**.
+
+Current Part-006 English inventory:
+
+- `draft` — **37**;
+- not yet drafted — **74**;
+- source-checked / editorial-reviewed / release-ready / source-limited / blocked — **0**.
+
 ## Current frontier
 
-**Part 006 English Draft D1 — scans 556–588 / printed 539–571 — 33 page-aligned records.**
+**Part 006 English Draft D2 — scans 593–629 / printed 576–612 — 37 page-aligned records.**
 
 Use the audited Tamil page records as the normal translation authority. Translation identity is project-created. Do not import published, standard, web or remembered English Kural wording.
