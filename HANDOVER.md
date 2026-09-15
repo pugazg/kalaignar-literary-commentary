@@ -420,7 +420,7 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - durable final closure — `works/kuraloviyam/PART_005_FINAL_CLOSURE.md`;
 - Part 005 — **TAMIL + MAINTAINED ENGLISH FULLY CLOSED**.
 
-### Part 006 — SOURCE INTAKE COMPLETE / ACTIVE
+### Part 006 — TAMIL CLOSED / ENGLISH SOURCE-CHECK ACTIVE
 
 - source intake — **PASS / COMPLETE**;
 - scans — **556–666**;
