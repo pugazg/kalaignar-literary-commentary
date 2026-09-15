@@ -739,12 +739,19 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - Pass 3 Batch 3 — **578–588 / printed 561–571 — COMPLETE 11/11**;
 - Pass 3 Batch 4 — **589–599 / printed 572–582 — COMPLETE 11/11**;
 - Pass 3 Batch 5 — **600–610 / printed 583–593 — COMPLETE 11/11**;
-- Batch-5 structural/visual corrections — **0**;
-- Batch-5 exact page-layer compare — `5f2cb18c4accc2a36d0df1582cb64dc428b60b5f` → same commit — **identical / 0 changed files**;
-- incoming **599→600 GENUINE CONTINUATION** preserved;
-- outgoing **610→611 GENUINE CONTINUATION** confirmed;
-- cumulative Pass 3 — **55/111**;
-- next stage — **Part 006 Pass 3 Batch 6 / scans 611–621 / printed 594–604 — 11 scans**.
+- Pass 3 Batch 6 — **611–621 / printed 594–604 — COMPLETE 11/11**;
+- Pass 3 Batch 7 — **622–632 / printed 605–615 — COMPLETE 11/11**;
+- Pass 3 Batch 8 — **633–643 / printed 616–626 — COMPLETE 11/11**;
+- Pass 3 Batch 9 — **644–654 / printed 627–637 — COMPLETE 11/11**;
+- Pass 3 Batch 10 — **655–665 / printed 638–648 — COMPLETE 11/11**;
+- Pass 3 final remainder — **666 / unnumbered pictorial back cover — COMPLETE 1/1 / PASS**;
+- Pass-3 structural/visual-description corrections — **2 page records / scans 611 and 631**;
+- Pass-3 lexical/body-text changes — **0**;
+- final-remainder exact page-layer compare — `c51b18d49513a78c26be806384875b0cf7ee9245` → same commit — **identical / 0 changed files**;
+- final boundary — **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**;
+- Pass 3 — **COMPLETE / PASS 111/111**;
+- all 111 records remain **needs-review / visual needs-review** pending Part audit and final status synchronization;
+- next stage — **Part 006 audit**.
 - SC4 endpoint — `113846a357544a33b73d727d20115471f2f3411f`;
 - SC4 exact page-layer compare — **12 modified English page files only**;
 - fidelity corrections — **4 page files / scans 549, 550, 553, 555**;
