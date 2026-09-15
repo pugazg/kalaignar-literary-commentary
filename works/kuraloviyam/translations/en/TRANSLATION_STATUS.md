@@ -1327,8 +1327,61 @@ Source-check batches:
 
 No published, standard, web, or remembered English Kural wording was imported.
 
+## Part 006 English glossary reconciliation — GR1 COMPLETE / PASS 37/37
+
+GR1 covers:
+
+**scans 556–592 / printed 539–575 — 37 pages.**
+
+English page-layer base:
+
+`a230f74a9d027435a009cd3569dec70f5f907b9b`
+
+English page-layer endpoint:
+
+`42d9df79adc7d4e2cf7f1ef42bbf3fa272fe60a4`
+
+Exact page-layer compare:
+
+- **1 commit ahead / non-divergent**;
+- exactly **4 modified English page files**;
+- Tamil page changes — **0**;
+- non-English-page changes — **0**;
+- page-status changes — **0**.
+
+Controlled terminology corrections:
+
+- scans **561–563** — `Azhagan` → established project spelling **Alagan**;
+- scans **561–563** — paired `Azhagi` → **Alagi**, following the established project spelling of the shared `அழக-` name stem;
+- scan **579** — source honorific `காந்தியடிகள்` reconciled from **Gandhiji** to established project form **Gandhi**.
+
+Glossary additions / confirmations:
+
+- six Part-006-first Chapter controls — **Cherishing Kindred**, **Medicine**, **The Worth of a Life-Partner**, **Nobility of Birth**, **Impartiality**, **Petty Knowledge**;
+- all **18 Chapter/Kural metadata records** in the range checked with **0 number mismatches**;
+- all **15 source-printed lexical glosses** in the range recorded from the audited Tamil;
+- recurring narrative/historical/place controls recorded only where actually evidenced;
+- scan **590** remains source-bounded as an intentionally confused historical speech and was **not** fact-corrected from outside knowledge.
+
+Glossary record commit:
+
+`9cfe182dc5629ae11d34dc2462a1ce6879e9c8ae`
+
+Status discipline:
+
+- all **37/37** pages remain `status: "source-checked"`;
+- Part-006 English state remains **111 source-checked / 0 draft**;
+- no status promotion occurred.
+
+Boundary discipline:
+
+- incoming **555→556 CLEAN / source-resolved** preserved;
+- outgoing **592→593 CLEAN** preserved.
+
+No published, standard, web, or remembered English Kural wording was imported.
+
 ## Exact next activity
 
-**Part 006 English Glossary Reconciliation GR1 — scans 556–592 / printed 539–575 — 37 pages.**
+**Part 006 English Glossary Reconciliation GR2 — scans 593–629 / printed 576–612 — 37 pages.**
 
-Compare recurring names, work/section names, controlled literary terms, Chapter labels, citation metadata, source-printed glosses and repeated English renderings against `GLOSSARY.md` and the audited Tamil context. Update the glossary only for terms actually evidenced in this range. This gate makes **no page-status promotion**; passing pages remain `source-checked`.
+Reconcile recurring names, controlled literary terms, Chapter labels, citation metadata, source-printed glosses and repeated English forms against `GLOSSARY.md` and the audited Tamil context. Update only source-evidenced controls. This gate makes **no page-status promotion**.
