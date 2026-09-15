@@ -766,7 +766,12 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - archival-ready record — `../PART_006_TAMIL_ARCHIVAL_READY.md`;
 - Part 006 Tamil — **ARCHIVAL-READY / CLOSED — 111/111 textual verified + 111/111 visual verified / 0 exceptions**;
 - Part-006 English inventory — **0/111** at Tamil closure;
-- next stage — **Part 006 English Draft D1 / scans 556–588 / printed 539–571 — 33 pages**.
+- current English cadence — **37 physical scans**;
+- Draft D1 — **COMPLETE / PASS 37/37**;
+- D1 range — **556–592 / printed 539–575**;
+- D1 base → endpoint — `411fc0fdad71c2b94ef5c17f68dece42e744089d` → `8ca4baeb33a8a45d13df372dc97acc705c1398e3`;
+- D1 exact compare — **6 commits / exactly 37 new English page files / 0 non-page changes / 0 Tamil changes**;
+- next stage — **Part 006 English Draft D2 / scans 593–629 / printed 576–612 — 37 pages**.
 - SC4 endpoint — `113846a357544a33b73d727d20115471f2f3411f`;
 - SC4 exact page-layer compare — **12 modified English page files only**;
 - fidelity corrections — **4 page files / scans 549, 550, 553, 555**;
