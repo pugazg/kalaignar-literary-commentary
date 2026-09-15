@@ -773,8 +773,14 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - D2 range — **593–629 / printed 576–612**;
 - D2 base → endpoint — `7961c8869685814e213b0a6e891b5da878b0c126` → `9c09dfe256eb72e75beccc4ff6ba0d8c87e922da`;
 - D2 exact compare — **6 commits / exactly 37 new English page files / 0 non-page changes / 0 Tamil changes**;
-- outgoing **629→630 GENUINE CONTINUATION**;
-- next stage — **Part 006 English Draft D3 / scans 630–666 — 37 physical scans**.
+- Draft D3 — **COMPLETE / PASS 37/37**;
+- D3 range — **630–666 / printed 613–648 + unnumbered back cover**;
+- D3 base → endpoint — `f88a79c563871669c96533c07d5d50f0f87d1e17` → `8a87fbe5cf0ee36858111f693805eb4ab64ad8b0`;
+- D3 exact compare — **5 commits / exactly 37 new English page files / 0 non-page changes / 0 Tamil changes**;
+- English drafting — **COMPLETE / CLOSED 111/111**;
+- current English state — **111 draft / 0 not yet drafted**;
+- contents/back-cover handling — **658–665 contents / 666 pictorial back cover / 665→666 CLEAN / no external continuation**;
+- next stage — **Part 006 English Source-Check SC1 / scans 556–592 / printed 539–575 — 37 pages**.
 - SC4 endpoint — `113846a357544a33b73d727d20115471f2f3411f`;
 - SC4 exact page-layer compare — **12 modified English page files only**;
 - fidelity corrections — **4 page files / scans 549, 550, 553, 555**;
