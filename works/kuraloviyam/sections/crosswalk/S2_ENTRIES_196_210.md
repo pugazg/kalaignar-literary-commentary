@@ -10,7 +10,7 @@ Closing-page source audit. Entries marked NEEDS-SPAN-AUDIT require earlier pages
 | 199 | மனத்துக்கண் மாசிலன் | 427–428 | 444–445 | 1 | Ch 4 அறன்வலியுறுத்தல் / Kural 34 | RESOLVED |
 | 200 | கதுமெனத் தாம்நோக்கி | 429–430 | 446–447 | 1 | Ch 118 கண்விதுப்பழிதல் / Kural 1173 | RESOLVED |
 | 201 | இன்மையின் இன்னாது | 431–432 | 448–449 | 1 | Ch 56 கொடுங்கோன்மை / Kural 558 | RESOLVED |
-| 202 | ஈன்ற பொழுதின் | 433–434 | 450–451 | 1 | — | NEEDS-SPAN-AUDIT |
+| 202 | ஈன்ற பொழுதின் | 433–435 | 450–452 | 1 | scan 452 closes the genuine 450→451→452 continuation with Ch 7 மக்கட்பேறு / Kural 69 | RESOLVED |
 | 203 | அ. கண்ணுள்ளார் காத / ஆ. இமைப்பின் கரப்பாக்கு | 435–437 | 452–454 | 2 | Ch 113 காதற் சிறப்புரைத்தல் / Kurals 1127, 1129 | RESOLVED |
 | 204 | மயிர்நீப்பின் வாழா | 438–439 | 455–456 | 1 | Ch 97 மானம் / Kural 969 | RESOLVED |
 | 205 | பயன்தூக்கார் செய்த | 440–441 | 457–458 | 1 | Ch 11 செய்ந்நன்றி யறிதல் / Kural 103 | RESOLVED |
@@ -20,4 +20,4 @@ Closing-page source audit. Entries marked NEEDS-SPAN-AUDIT require earlier pages
 | 209 | கண்ணிறைந்த காரிகை | 449–450 | 466–467 | 1 | Ch 128 குறிப்பறிவுறுத்தல் / Kural 1272 | RESOLVED |
 | 210 | புறங்கூறிப் பொய்த்துயிர் | 451–452 | 468–469 | 1 | Ch 19 புறங்கூறாமை / Kural 183 | RESOLVED |
 
-Exceptions needing full-span audit: **202**.
+Full-span audit complete. Entry **202** overlaps the next contents locator on printed page 435; source continuity closes it on scan 452 with Ch 7 / Kural 69.
