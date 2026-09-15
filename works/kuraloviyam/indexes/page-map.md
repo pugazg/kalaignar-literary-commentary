@@ -753,8 +753,13 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - Part 006 audit — **PASS / COMPLETE**;
 - audit inventory — **111/111 canonical records / 0 gaps / 0 duplicates / 0 mapping anomalies**;
 - audit page functions — **102 body-prose / 8 contents-index / 1 back-cover**;
-- all 111 records remain **needs-review / visual needs-review** pending final status synchronization;
-- next stage — **Part 006 final metadata/status synchronization**.
+- final metadata/status synchronization — **PASS / CLOSED**;
+- status-sync base — `fec10c426518d8b5cb490db9bfab8b50f6d6a440`;
+- page-layer endpoint — `6cdb3cdd18cc1ccf1b1f2071055e9a1fd7782db0`;
+- exact status-sync compare — **11 commits / exactly 111 Part-006 page files / +2 -2 each / 0 non-page files**;
+- final page status — **111 verified / 0 needs-review / 0 exceptions**;
+- final visual fidelity — **111 verified / 0 needs-review / 0 exceptions**;
+- next stage — **Part 006 documentation synchronization**.
 - SC4 endpoint — `113846a357544a33b73d727d20115471f2f3411f`;
 - SC4 exact page-layer compare — **12 modified English page files only**;
 - fidelity corrections — **4 page files / scans 549, 550, 553, 555**;
