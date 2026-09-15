@@ -350,16 +350,127 @@ Exact page-file set:
 
 This progress-record update is the sole intended non-page change after the Batch B04 page-layer endpoint.
 
+## Batch B05 — scans 101–125
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-15**
+- scans reviewed: **101–125 / 25**
+- controlling source: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_003_pages_101-150.pdf`
+- lexical lock used: `File3.md`
+- batch base: `1bd2bccf5d839305132d3a9755a624103ee3182d`
+- page-layer endpoint: `211228b4046173e911953aa28e9e0690a1956695`
+- structurally changed page records: **21**
+- reviewed with no page-record change: **4**
+- scan-led lexical corrections / modernizations: **0**
+- unresolved structural placement issues: **0**
+
+### Gate-B reconciliation performed
+
+This batch again contained many earlier provisional/source-led readings. The page records were returned to the **File3 lexical lock** while the PDF remained authoritative for physical page boundaries, headings, alignment, quotation structure, provenance/gloss placement, and illustration handling.
+
+Key corrections:
+
+1. **scans 101–102 — closing `உலைக் களத்து இரும்பும் ஒரு துளிநீரும்!` section**
+   - restored File3 wording throughout narrative, Sangam quotation and glossary;
+   - corrected the section identity in metadata;
+   - preserved the source-visible literal quote marker and provenance on scan 101.
+
+2. **scans 103–106 — `நடுக்கத்தில் கண்ட நயம்!`**
+   - restored File3 wording across narrative, dialogue, Sangam quotation and glossary;
+   - kept source decorative heading `நடுக்கத்தில் கண்ட நயம்!`;
+   - excluded File3's stray `ரீ` as non-source OCR debris;
+   - preserved literal quotation punctuation and scan-supported provenance/gloss structure.
+
+3. **scans 107–111 — `ஒரு தாயின் தாலாட்டு!`**
+   - restored File3 words, including `பனைவைர`, `மழலைச்செல்வன்`, `தட மார்பில் வேல்தாங்கி நடுகல்லாய் நின்றுவிட்டார்`, `ஊடுருவியிருக்கின்றதே`, `என் மகனா`, and the File3 quotation/gloss forms;
+   - preserved scan-supported placement where File3 extraction displaced `எனத் / நாளை / என்பேன்!`, `விட்டான்!`, `அவனோ`, and `துடித்திட்டேன்!`;
+   - retained the source-visible literal quote marker.
+
+4. **scans 112–115 — `புரிந்துகொண்டான்; பிரிந்து சென்றாள்!`**
+   - source section identity remains in metadata;
+   - File3-locked body heading is preserved as `புரிந்துகொண்டான்; பிரிந்துசென்றார்!`;
+   - restored File3 narrative and Kalithogai continuation/gloss wording;
+   - scan 113 source visibly contains an opening quotation stanza absent from File3: it is **not** silently recovered under Gate B and is explicitly documented;
+   - File3's displaced `அக்கேள்வி!` is kept at its scan-supported position.
+
+5. **scans 116–120 — `மயங்கா மார்புடை மறவன் நீயே!`**
+   - corrected section identity across text records and the scan-118 illustration;
+   - removed the earlier provisional bracketed reading and restored locked `பாமூளூரும்`;
+   - restored File3 narrative, quotation and glossary forms;
+   - File3's malformed `மகிழ்ச்ச.ி` is treated as non-source OCR/punctuation debris and the source-supported `மகிழ்ச்சி` is retained.
+
+6. **scans 121–125 — `வண்டு வந்தது ஏனடி?`**
+   - restored File3 wording throughout;
+   - excluded the stray File3 heading token `G` because it is absent from the source;
+   - scan 123 has a source-visible opening block omitted by File3. Only the locked terminal `சென்றனள்!` is retained at its source-supported position; the omitted source words are documented rather than invented;
+   - corrected File3 page-marker drift by retaining `தாயாரும் நம்பிவிட்டாள் ... சந்தன விறகுதான் மணக்குதென்றும்` on physical scan 123, where the PDF places it;
+   - scan 124 quotation start and scan 125 continuation/provenance/gloss structure were aligned to the physical source.
+
+### Illustration handling confirmed
+
+- scans **104, 108, 114, 118, 122** are full-page illustrations;
+- no source-visible literary text or printed page number is inferred;
+- only scan **118** required a metadata update because its section identity had been stale.
+
+### Locked omissions / extraction exceptions carried forward
+
+- scan **103** — stray File3 `ரீ` excluded as non-source OCR.
+- scan **112** — source title ends `பிரிந்து சென்றாள்!`; File3 locks `பிரிந்துசென்றார்!` in the body. Both authorities are represented without lexical source-correction.
+- scan **113** — a source-visible opening Kalithogai stanza is absent from File3 and remains a documented lexical omission.
+- scan **120** — malformed File3 `மகிழ்ச்ச.ி` excluded as non-source OCR/punctuation contamination.
+- scan **121** — stray File3 heading token `G` excluded.
+- scan **123** — source-visible opening prose block is absent from File3 except locked `சென்றனள்!`; omission remains documented.
+
+## Exact changed-file audit — Batch B05
+
+Page-layer compare:
+
+`1bd2bccf5d839305132d3a9755a624103ee3182d` → `211228b4046173e911953aa28e9e0690a1956695`
+
+Result:
+
+- **23 commits ahead**
+- **exactly 21 modified page files**
+- **0 other page files**
+- **0 non-page files at the page-layer endpoint**
+
+Exact page-file set:
+
+- `works/sangatamil/pages/0101-ulaik-kaathu-irumbum-oru-thaniveeran-06.md`
+- `works/sangatamil/pages/0102-ulaik-kaathu-irumbum-oru-thaniveeran-07.md`
+- `works/sangatamil/pages/0103-nadukkaththil-kanda-nayam-01.md`
+- `works/sangatamil/pages/0105-nadukkathil-kanda-nayam-02.md`
+- `works/sangatamil/pages/0106-nadukkathil-kanda-nayam-03.md`
+- `works/sangatamil/pages/0107-oru-thaayin-thaalaattu-01.md`
+- `works/sangatamil/pages/0109-oru-thaayin-thaalaattu-02.md`
+- `works/sangatamil/pages/0110-oru-thaayin-thaalaattu-03.md`
+- `works/sangatamil/pages/0111-oru-thaayin-thaalaattu-04.md`
+- `works/sangatamil/pages/0112-purinthukondaan-pirinthu-sendraal-01.md`
+- `works/sangatamil/pages/0113-purinthukondaan-pirinthu-sendraal-02.md`
+- `works/sangatamil/pages/0115-purinthukondaan-pirinthu-sendraal-03.md`
+- `works/sangatamil/pages/0116-muyangaa-vaazhkkai-maravan-neeye-01.md`
+- `works/sangatamil/pages/0117-muyangaa-vaazhkkai-maravan-neeye-02.md`
+- `works/sangatamil/pages/0118-muyangaa-vaazhkkai-maravan-neeye-illustration.md`
+- `works/sangatamil/pages/0119-muyangaa-vaazhkkai-maravan-neeye-03.md`
+- `works/sangatamil/pages/0120-muyangaa-vaazhkkai-maravan-neeye-04.md`
+- `works/sangatamil/pages/0121-vandu-vanthathu-enadi-01.md`
+- `works/sangatamil/pages/0123-vandu-vanthathu-enadi-02.md`
+- `works/sangatamil/pages/0124-vandu-vanthathu-enadi-03.md`
+- `works/sangatamil/pages/0125-vandu-vanthathu-enadi-04.md`
+
+This progress-record update is the sole intended non-page change after the Batch B05 page-layer endpoint.
+
 
 ## Gate B cumulative state
 
-- structurally reviewed: **100/497**
-- structurally remaining: **397**
-- current frontier: **scan 101**
+- structurally reviewed: **125/497**
+- structurally remaining: **372**
+- current frontier: **scan 126**
 - Gate C: **NOT STARTED**
 
 ## Exact next activity
 
-Process **Gate B scans 101–125** against `TVA_BOK_0042551_சங்கத்_தமிழ்_part_003_pages_101-150.pdf` + `File3.md`.
+Process **Gate B scans 126–150** against `TVA_BOK_0042551_சங்கத்_தமிழ்_part_003_pages_101-150.pdf` + `File3.md`.
 
 Preserve the Gemini lexical lock and continue structural correction only. Do **not** start Gate C.
