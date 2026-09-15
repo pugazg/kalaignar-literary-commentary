@@ -502,10 +502,14 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - Draft D1 — **COMPLETE / PASS 37/37**;
 - D1 range — **556–592 / printed 539–575**;
 - D1 base → endpoint — `411fc0fdad71c2b94ef5c17f68dece42e744089d` → `8ca4baeb33a8a45d13df372dc97acc705c1398e3`;
-- D1 exact compare — **6 commits / exactly 37 new English page files / 0 non-page changes / 0 Tamil changes**;
-- current Part-006 English state — **37 draft / 74 not yet drafted**;
-- exact next stage — **Part 006 English Draft D2 / scans 593–629 / printed 576–612 — 37 pages**.
+- Draft D2 — **COMPLETE / PASS 37/37**;
+- D2 range — **593–629 / printed 576–612**;
+- D2 base → endpoint — `7961c8869685814e213b0a6e891b5da878b0c126` → `9c09dfe256eb72e75beccc4ff6ba0d8c87e922da`;
+- D2 exact compare — **6 commits / exactly 37 new English page files / 0 non-page changes / 0 Tamil changes**;
+- current Part-006 English state — **74 draft / 37 not yet drafted**;
+- outgoing **629→630 GENUINE CONTINUATION**;
+- exact next stage — **Part 006 English Draft D3 / scans 630–666 — 37 physical scans**.
 
 ## Exact next activity — குறளோவியம்
 
-Proceed with **Part 006 English Draft D2 — scans 593–629 / printed 576–612 — 37 page-aligned records**. Use audited Tamil page records as the normal authority. Follow the project-created English translation guide and do not import published/web/standard English Kural wording.
+Proceed with **Part 006 English Draft D3 — scans 630–666 — 37 physical scans**, covering printed **613–648** plus scan **666 / unnumbered pictorial back cover**. Preserve incoming **629→630 GENUINE CONTINUATION**. Use audited Tamil page records as the normal authority. Follow the project-created English translation guide and do not import published/web/standard English Kural wording.
