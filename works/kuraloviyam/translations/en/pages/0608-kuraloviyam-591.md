@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -29,6 +29,6 @@ Vengai laughed and answered:
 
 "You dislike me too? What have I done so irresponsibly? Don't talk like a fool. Measure your words!"
 
-"See! See! You turn your mouth into a sword and hurl it even at me. People like you must think about the higher position life has given them and behave accordingly. You grow angry, act in haste, and utter arrogant words without restraint..."
+"See! See! You turn your mouth into a sword and hurl it even at me. People like you must think about the higher position life has given them and behave accordingly. You grow angry, act in haste, and, with no restraint on your arrogant words...
 
 <!-- Source scan page: 608; printed page: 591; new Vezhamugan / Vengaimarban vignette begins and physical sentence continues directly to scan 609 -->

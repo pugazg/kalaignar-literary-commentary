@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-The ruler immediately convened his council of ministers to discuss action to stop the danger and protect the people.
+...ruler's ears. He immediately convened his council of ministers to discuss action to stop the danger and protect the people.
 
 Only the poet failed to appear.
 

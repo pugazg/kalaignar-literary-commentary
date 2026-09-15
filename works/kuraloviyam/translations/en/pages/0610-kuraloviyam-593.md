@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -25,6 +25,6 @@ He himself had studied good Tamil and learned literature properly. He wanted at 
 
 But the result turned out very differently.
 
-Suddenly news arrived that wild animals were entering the town at night, destroying crops and taking human lives. The report reached the ears of the minor ruler...
+Suddenly news arrived that wild animals were entering the town at night, destroying crops and taking human lives. The news reached the minor...
 
 <!-- Source scan page: 610; printed page: 593; new pseudo-scholar / minister vignette begins; 610→611 GENUINE CONTINUATION -->

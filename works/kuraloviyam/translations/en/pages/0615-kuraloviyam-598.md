@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -25,7 +25,7 @@ Even the words hunger and starvation would be given no place to exist.
 
 Government would become a close companion to the farmer and the labouring worker and carry out its duties on their behalf.
 
-The world would be shown the greatness of hands without stain and a government without deficiency.
+The world would be shown the greatness of faultless hands and a faultless government.
 
 The state would stand as a protective fortress safeguarding the dignity of women.
 

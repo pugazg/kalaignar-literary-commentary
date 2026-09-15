@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-"...You are in a position where you ought to deal gently even with younger people, yet you twist your moustache at elders themselves!"
+"...you utter them! You are in a position where you ought to deal gently even with younger people, yet you twist your moustache at elders themselves!"
 
 "That is my nature, Vengai. I cannot change it. I sit on the governing council; others are the ones who must bend before me."
 
