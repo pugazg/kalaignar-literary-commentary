@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 3 Final Remainder
+# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Audit
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -10,63 +10,83 @@ Parts **001–005 are fully closed**. Do not reopen them.
 
 `TVA_BOK_0065733_குறளோவியம்_part_006_pages_556-666.pdf`
 
-Pass-2A authority:
+Durable verification records:
 
-`works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_006.md`
-
-Pass-2B authority:
-
-`works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_006.md`
-
-Pass-3 progress:
-
-`works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_006.md`
+- `works/kuraloviyam/SOURCE_INTAKE_PART_006.md`
+- `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_006.md`
+- `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_006.md`
+- `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_006.md`
+- `works/kuraloviyam/indexes/page-map.md`
+- `works/kuraloviyam/metadata/source.md`
 
 ## Durable Part 006 state
 
+- Source intake — **PASS / COMPLETE**;
 - Pass 1 — **COMPLETE 111/111**;
 - Pass 2A — **COMPLETE / PASS 111/111**;
 - Pass 2B — **COMPLETE / PASS 111/111**;
-- Pass 3 Batches 1–7 — **556–632 / printed 539–615 — COMPLETE 77/77**;
-- user-directed 33-page iteration completed Pass 3 Batches 8–10:
-  - Batch 8 — **633–643 / printed 616–626 — COMPLETE 11/11**;
-  - Batch 9 — **644–654 / printed 627–637 — COMPLETE 11/11**;
-  - Batch 10 — **655–665 / printed 638–648 — COMPLETE 11/11**;
-- scans **633–665 structural/visual corrections — 0**;
-- scans **633–665 lexical/body-text changes — 0**;
-- scans **633–665 changed Part-006 page files — none**;
-- page-layer checkpoint / endpoint — `860a8693efd2234cea45a22ed8ab66f2fa73da8c` → same commit — **identical / 0 changed files**;
-- cumulative Pass 3 — **110/111**;
-- all 111 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+- Pass 3 — **COMPLETE / PASS 111/111**;
+- Pass-3 structural/visual-description corrections — **2 page records / scans 611 and 631**;
+- Pass-3 lexical/body-text changes — **0**;
+- Pass-3 status promotions — **0**;
+- scans **658–665** — complete `பொருளடக்கம்` run;
+- scan **666** — unnumbered pictorial back cover / physical source endpoint;
+- **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**;
+- all **111** Part-006 records remain intentionally:
+  - `status: "needs-review"`;
+  - `visual_fidelity: "needs-review"`.
 
-Continuity / structure:
+Final Pass-3 remainder:
 
-- incoming **632→633 CLEAN** preserved;
-- **643→644 GENUINE CONTINUATION** preserved;
-- **654→655 GENUINE CONTINUATION** preserved;
-- **657→658 CLEAN / body→contents transition** confirmed;
-- **658–665** is the complete `பொருளடக்கம்` run;
-- scan **666** was inspected only as the outgoing witness and reconfirms **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**.
+- scan **666** — **COMPLETE 1/1 / PASS**;
+- visual-description correction — **0**;
+- lexical/body-text changes — **0**;
+- page-layer compare — `c51b18d49513a78c26be806384875b0cf7ee9245` → same commit — **identical / 0 changed files**.
 
-## Exact next activity — Part 006 Pass 3 final remainder
+## Exact next activity — Part 006 audit
 
-Inspect only:
+Perform the repository/control-record audit for all **111 physical records**:
 
-**scan 666 / unnumbered pictorial back cover — 1 physical scan**.
+- overall scans — **556–666**;
+- local Part pages — **1–111**;
+- numbered printed span — **539–648**;
+- final page — **scan 666 / unnumbered back cover**.
 
-Verify:
+Follow the closed Part-005 precedent in `works/kuraloviyam/PART_005_AUDIT.md`.
 
-- back-cover page function;
-- portrait / Valluvar-statue / seascape relationship;
-- source/non-source separation;
-- absence or presence of printed body text;
-- physical-source endpoint.
+The audit must verify:
 
-Do not normalize or rewrite settled wording. Do not promote final status during Pass 3.
+- exactly **111 canonical Part-006 page files**;
+- continuous `scan_page` **556–666**, with 0 gaps / 0 duplicates;
+- continuous `part_page` **1–111**;
+- printed-page mapping **539–648**, plus scan 666 as `unnumbered`;
+- `part: 6` and exact controlling `source_filename` on all records;
+- Source Intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 closure;
+- continuity and clean-boundary classifications;
+- Kural / `அதிகாரம்` / பாடல் metadata structure;
+- source gloss / page-furniture / illustration / contents / back-cover separation;
+- `பொருளடக்கம்` page function for scans **658–665**;
+- back-cover page function for scan **666**;
+- source limits and unresolved conditions;
+- status distribution and pre-final status discipline.
 
-Keep the record at:
+## Audit discipline
+
+This is a **repository/control-record audit**, not another transcription pass.
+
+Do not normalize, rewrite, reinterpret or retranslate Tamil body text.
+
+Reopen rendered source pixels only if a concrete audit discrepancy requires it.
+
+Do not promote page statuses during the audit.
+
+Keep all 111 records at:
 
 - `status: "needs-review"`;
 - `visual_fidelity: "needs-review"`.
 
-After final-remainder completion, Pass 3 should reach **111/111**, then the next gate is the **Part 006 audit**.
+If the audit passes, create/update:
+
+`works/kuraloviyam/PART_006_AUDIT.md`
+
+with **PASS / COMPLETE**, then set the exact next gate to **Part 006 final metadata/status synchronization**.
