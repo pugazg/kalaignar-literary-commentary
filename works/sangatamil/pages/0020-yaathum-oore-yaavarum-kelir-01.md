@@ -6,7 +6,7 @@ section: "யாதும் ஊரே; யாவரும் கேளிர்
 page_type: "poetry"
 status: "verified"
 visual_fidelity: "verified"
-visual_notes: "large decorative section heading; verse blocks with source-supported lineation; Gemini-locked lexical wording aligned to the controlling scan; final line continues to scan 21; printed page number centered at foot"
+visual_notes: "large decorative section heading; verse blocks with source-supported lineation; Gemini word புதிய restored to its source-positioned right-aligned carryover before வெளிச்சத்தால்; final line continues to scan 21; printed page number centered at foot"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
@@ -36,11 +36,14 @@ continues_to_scan: 21
 அறைகூவல்தனை அற்றைநாளில் ஒரு தமிழன்  
 நிறைகுடமாய்த் திகழும் தன் நெஞ்சத்தைத் திறந்துகாட்டி  
 விரிகடல்சூழ் உலக முழுதும் நம் ஊரே என்றும்  
-விழியும் ஒளியும் போல் மக்கள் எலாம் நம் உறவே என்றும் -  
+விழியும் ஒளியும் போல் மக்கள் எலாம் நம் உறவே என்றும் -
+
+<div align="right">புதிய</div>
+
 வெளிச்சத்தால் பொல்லாத இருள் கிழித்து  
 வேற்றுமையின் வேரறுத்துப் புரட்சி செய்தான்!
 
-புதிய பூத்தமிழில் வண்டாகப் புணர்ந்து கலந்து—இந்தப்  
+பூத்தமிழில் வண்டாகப் புணர்ந்து கலந்து—இந்தப்  
 பூமிக்கே பொதுக்கவிதைக் கனியொன்றைத் தந்த கவிஞன்  
 பூங்குன்றந்தனில் பிறந்த புலவன் கணியன்தான் என்கின்றபோது  
 புல்லரித்துப் பூரித்துப் போகுதம்மா; நம் எண்சாண் உடம்பு!  
