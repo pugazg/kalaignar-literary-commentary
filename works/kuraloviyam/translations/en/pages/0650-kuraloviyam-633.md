@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -35,6 +35,6 @@ But those troublesome eyes knock at the doors of the lids and peer out through t
 
 "Could not my beloved, who has gone away from me, send me some messenger and wipe away even one drop of my grief?
 
-"If only I knew where he was...
+"If only his whereabouts were...
 
 <!-- Source scan page: 650; printed page: 633; new separated-lover / dream-messenger vignette begins; sentence continues directly to scan 651 -->

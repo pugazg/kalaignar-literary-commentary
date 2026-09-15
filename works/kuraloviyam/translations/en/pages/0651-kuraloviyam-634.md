@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-"If only I knew where he was, I would at least have sent some messenger to him.
+"...known to me, I would at least have sent some messenger—any messenger—to him.
 
 "How many days has it been since I slept?
 

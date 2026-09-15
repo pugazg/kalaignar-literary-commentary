@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -31,6 +31,6 @@ Her name was Kanmaniyaal.
 
 Whenever Ponniyammai took rice and curry to Kathiroli, Kanmaniyaal would go along.
 
-Sometimes, when the old woman was overcome by weariness...
+Sometimes, when overcome by great weariness...
 
 <!-- Source scan page: 645; printed page: 628; new Mamallapuram / Kathiroli / Kanmaniyaal vignette begins; sentence continues directly to scan 646 -->

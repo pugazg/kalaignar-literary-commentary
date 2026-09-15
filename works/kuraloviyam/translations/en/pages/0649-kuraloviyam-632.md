@@ -6,10 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
+
+"...faith! Likewise, in your ability and the way you command an army, I have not even the slightest doubt. May garlands of fame pile higher upon you! Live! Win! Go! Return victorious!" the king said, and sent him forth.
 
 The commander marched with a great army and laid siege to the enemy king's fortress.
 

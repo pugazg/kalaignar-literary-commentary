@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -39,18 +39,6 @@ The king embraced the commander to his chest.
 
 "The victory you will win this time will bring you even greater fame than the victory you won before.
 
-"I have unshakable faith that you are one of those with a heart of steel who would not turn even if enemies piled up mountains of reward and called you over.
-
-"And I have not the slightest doubt about your ability or the way you command an army.
-
-"May garlands of fame pile higher upon you.
-
-"Live!
-
-"Win!
-
-"Go—and return victorious!"
-
-With these words the king sent him forth.
+"Even if enemies offer crores and summon you, you are one of those with a heart of steel who would say, 'I will not touch it.' In that, I have an unshakable..."
 
 <!-- Source scan page: 648; printed page: 631; new commander/defection honour vignette begins; sentence continues directly to scan 649 -->
