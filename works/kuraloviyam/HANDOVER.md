@@ -426,9 +426,15 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - audit record — `works/kuraloviyam/PART_006_AUDIT.md`;
 - direct header audit — **111/111 canonical records / 0 gaps / 0 duplicates / 0 mapping anomalies**;
 - page functions — **102 body-prose / 8 contents-index / 1 back-cover**;
-- status distribution after audit — **111 needs-review / 111 visual needs-review / 0 premature verified / 0 partial / 0 blocked / 0 source-limited**;
-- exact next stage — **Part 006 final metadata/status synchronization**.
+- final metadata/status synchronization — **PASS / CLOSED**;
+- status-sync record — `works/kuraloviyam/PART_006_FINAL_STATUS_SYNC.md`;
+- status-sync base — `fec10c426518d8b5cb490db9bfab8b50f6d6a440`;
+- page-layer endpoint — `6cdb3cdd18cc1ccf1b1f2071055e9a1fd7782db0`;
+- exact compare — **11 commits / exactly 111 Part-006 page files / +2 -2 each / 0 non-page files**;
+- final Part-006 Tamil status — **111 verified / 0 needs-review / 0 partial / 0 blocked / 0 source-limited**;
+- final Part-006 visual fidelity — **111 verified / 0 needs-review**;
+- exact next stage — **Part 006 documentation synchronization**.
 
 ## Exact next activity
 
-Perform the **Part 006 final metadata/status synchronization** across scans **556–666**. This gate is metadata-only: promote `status: "needs-review"` → `status: "verified"` and `visual_fidelity: "needs-review"` → `visual_fidelity: "verified"` for all 111 audited records. Do not change Tamil wording, Kural text, page structure, visual notes, source comments, page types or scan/local/printed mapping. Audit the exact change set afterward.
+Perform **Part 006 documentation synchronization**. Reconcile README, root/work handovers, page map, source metadata, archival guidelines, and any Part-006 control records with the closed audit and final status-sync state. Do not change page-layer Tamil content or statuses. After documentation sync, the next gate is the separate **Part 006 Tamil archival-ready checkpoint**.
