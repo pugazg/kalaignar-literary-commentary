@@ -8,14 +8,15 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running author header; narrative closure; quoted Purananuru stanza; provenance; பொருள் விளக்கம்; printed page number 345"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; quotation/provenance/gloss checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 356
 ---
 
 அரிமாவாம் அகுதியெனும் படைத்தலைவன் போரிட்டு
 அழிந்துபட்டான்” என்ற உண்மை தெரிந்தவுடன்;
-“பொற்றிகிரி”யென்ற பொன்னாலான சக்கரப்படைக்கருவி பற்றி
+“பொற்றிகிரி”யென்ற பொன்னாலான சக்கரப்படைக்கருவி
+<div align="right">பற்றி</div>
 புனைந்திட்ட கருத்தெல்லாம் பொய்யாகப் போயிற்றென்பார்!
 அப்பொய்போல ஆகிவிடக் கூடாதோ - “எமது
 அன்புக்குரியோன் எவ்வி; புண்பட்டுப் போரில் மாண்டான்”
@@ -46,3 +47,5 @@ continues_from_scan: 356
 தலைவன். எஃகுறு = வேல் தைத்த. வைகுறு = விடியற்காலை.
 
 *
+
+<!-- Gate B preserves File8 wording and restores the PDF-supported right-edge carryover `பற்றி`; verse/provenance/gloss placement remains source-controlled. -->

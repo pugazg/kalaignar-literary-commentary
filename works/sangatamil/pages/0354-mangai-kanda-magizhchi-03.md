@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; narrative closure; Akananuru quotation, provenance and பொருள் விளக்கம்; printed page number 342"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; quotation/provenance/gloss and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 353
 ---
@@ -23,7 +23,7 @@ continues_from_scan: 353
 அத்துணை மகிழ்ச்சியுனக்கு ஏற்படப் போகுதென்றாள் தோழி!
 
 “ஏனடி?” என்று ஏந்திழை தோழியின் தவடையைத்
-தடவினாள்!
+<div align="right">தடவினாள்!</div>
 “தேனடி நான் சொல்லப்போகும் சேதி உனக்கு;
 கேளடி தலைவி; உனை மணக்கத் தலைவன்; ஏறிய
 தேரடி அதோ விரைந்து வருகின்ற” தென்றாள்!
@@ -55,3 +55,5 @@ continues_from_scan: 353
 வந்தமாறு = மணம்புரிய வருகின்றார்.
 
 *
+
+<!-- Gate B preserves File8 wording and restores source-supported right-edge placement of locked `தடவினாள்!`; quotation/provenance/gloss order remains PDF-controlled. -->

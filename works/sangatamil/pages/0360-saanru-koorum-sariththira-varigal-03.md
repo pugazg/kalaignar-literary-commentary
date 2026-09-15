@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; prose continuation; printed page number 348"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; visible page boundary and line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 359
 ---
@@ -33,7 +33,7 @@ continues_from_scan: 359
 தடையரணாய்க் கருதித் தத்தளித்துத் தயங்கிச் சோர்ந்து
 தையல்தனைப் பிரிந்து பொருளீட்டச் செல்லாமல் நின்றுவிட்ட
 தனவணிகர் குடும்பத்துச் செல்வனொருவன்;
-தான் கடந்து செலவிருந்த தடம் குறித்து
+தான் கடந்து செலஇருந்த தடங் குறித்துத்
 தனக்குள்ளே எண்ணிப் பார்த்த காட்சிதனைத்
 தமிழாளும் புலவர்ஏறு மருதன் இளநாகனார்;
 தாயகத்துப் பழைய வரலாற்றுப் பொன்னேடாய்த்
@@ -54,3 +54,5 @@ continues_from_scan: 359
 குடலை உருவியெடுத்துத் தம் குடலுக்கு இரையாக்கிக்
 கொள்கின்ற கொடுமையினைப் பார்க்கும்போழ்து
 உருவி எடுக்கின்ற வீரர் குடலுக்கு உவமையாக
+
+<!-- Gate B restores File8-locked `செலஇருந்த தடங் குறித்துத்`; File8 page 348 spans text around the intervening illustration, while the PDF remains authority for physical placement on scan 360. -->

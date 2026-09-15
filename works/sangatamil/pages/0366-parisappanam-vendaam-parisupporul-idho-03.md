@@ -8,20 +8,20 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; section closure; Sangam quotation, provenance and பொருள் விளக்கம்; printed page number 354"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; quotation/provenance/gloss and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 365
 ---
 
-“கொஞ்சி மகிழும் குமரியின் கொங்கையிலே அவள்
-காதலன்;
+“கொஞ்சி மகிழும் குமரியின் கொங்கையினை அவள்
+<div align="right">காதலன்;</div>
 வஞ்சியே என வாரித் தழுவுதல்போல் - சிறிதும்
 அஞ்சிடாமல் காளையின் கொம்பிடையே
-தாவிடுவானேல்;
+<div align="right">தாவிடுவானேல்;</div>
 அட்டியில்லை அவனுக்கு என்பெண்ணைத் தருவதற்கு!
 பரிசப்பணமென்று ஒரு காசு, தூசும் தேவையில்லை;
 பரிசாக என்மகளை அடைவதற்கு அவனேதான்
-தகுதியாவான்!”
+<div align="right">தகுதியாவான்!”</div>
 
 கொம்பிரண்டைக் கண்டு குன்றாமல் குமையாமல்; - காதலியின் இரு
 கொங்கையிடைப் பாய்கின்ற இன்ப உணர்வுடனே -
@@ -29,7 +29,8 @@ continues_from_scan: 365
 கல்லின்மேல் செதுக்கியுள்ள சான்றாக இன்றைக்கும்
 கலித்தொகையின் முல்லைக்கலிப் பாடல்;
 திகழ்கின்ற காட்சியினைக் காணுகின்றோம்! ஒரு தமிழனின்
-திண்தோள் பகைவர்முன் சற்றுச் சாய்ந்திடிலுமே - மிகமிக
+திண்தோள் பகைவர்முன் சற்றுச் சாய்ந்திடிலோ
+மிகமிக
 நாணுகின்றோம்!
 
 *
@@ -51,3 +52,5 @@ continues_from_scan: 365
 கோடு = கொம்பு.
 
 *
+
+<!-- Gate B restores File8-locked `கொங்கையினை` and `சாய்ந்திடிலோ`, while returning quotation carryovers `காதலன்;`, `தாவிடுவானேல்;`, and `தகுதியாவான்!` to their PDF-supported positions. -->

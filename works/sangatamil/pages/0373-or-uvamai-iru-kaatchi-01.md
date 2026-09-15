@@ -6,13 +6,13 @@ section: "ஓர் உவமை; இரு காட்சி!"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "decorative multicolour section heading; body text; printed page number 361"
+visual_notes: "decorative multicolour source heading `ஓர் உவமை; இரு காட்சி!`; File8 locks body heading as `ஒர் உவமை; இரு காட்சி!`; body text; printed page number 361"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; section heading and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
-# ஓர் உவமை; இரு காட்சி!
+# ஒர் உவமை; இரு காட்சி!
 
 தலையாலங்கானத்துப் பாண்டியன் நெடுஞ்செழியன்,
 தலைவணங்கான் பகைவர்க்கு; தலைதருவான் தமிழுக்கு!
@@ -40,3 +40,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 மதம் பிடித்த யானையொன்று கட்டுத்தறியொடித்துக் காலால்
 வதம் செய்தே பரிக்கோல்காரனைக் கொன்று; பாகனையும்
 வீசியெறிந்து;
+
+<!-- Gate B preserves the File8-locked body heading `ஒர் உவமை; இரு காட்சி!` while metadata retains the source-visible section identity `ஓர் உவமை; இரு காட்சி!`. -->

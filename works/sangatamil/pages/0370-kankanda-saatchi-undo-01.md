@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "decorative multicolour section heading; body text; printed page number 358"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; section heading and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -17,7 +17,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 “மணக்க மணக்க மலருது முல்லை - என்னை
 மணந்ததாகச் சொன்னவர் இன்னும் வரவில்லை!
 மணற்பரப்பில் செடிகொடி மறைவில் அவரென்மடியில்;
-கணப்பொழுதும் அகலாதிரு கண்ணே என; நானவர் பிடியில்!
+கணப்பொழுதும் அகலாதிரு கண்ணா என; நானவர் பிடியில்!
 அணைத்து மகிழ்ந்து அளவிலா அன்பினைப் பொழிந்து; ஈருடல்
 இணைத்துக் கிடந்து; இமையென அவரும் விழியென நானும்;
 விளக்கிட முடியா இன்ப விருந்தினை அருந்தி;
@@ -25,7 +25,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 வேதனைத் தீயில் எனைக் கருக்கிடும் தலைவன் - இனியும்
 சோதனை செய்தல் ஆகுமோ தோழி!
 
-ஒருயிராய் நாங்களாகி உலகத்தை மறந்ததும் பொய்யா?
+ஓருயிராய் நாங்களாகி உலகத்தை மறந்ததும் பொய்யா?
 ஆருயிரே; உனைமணந்தேன் என அவர் உறுதியளித்ததும்
 பொய்யா?
 
@@ -39,3 +39,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ஒருக்கால் அது எம்மைப் பார்த்திருந்தால் தவிர;
 களவு மணம்புரிந்த மாட்சிக்கு, இல்லையடி;
 கண்கண்ட மற்றோர் சாட்சி!”
+
+<!-- Gate B restores File8-locked `கண்ணா` and `ஓருயிராய்`; the source-visible alternatives are not silently substituted during the lexical-lock gate. Stray File8 numeric `66` remains excluded. -->

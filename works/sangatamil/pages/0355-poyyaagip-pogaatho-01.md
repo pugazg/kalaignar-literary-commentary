@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "decorative multicolour section heading; body text; printed page number 343"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; section heading and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -23,7 +23,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 கடுமை குறைந்து காலையிளம் பொழுது தொடங்குகின்ற
 வேளையிலே ஒருசெய்தி விடுபட்ட கணைபோல வந்து
 “வெள்ளெருக்கிலையார்” எனும் வித்தகப்புலவர் செவிதனில்
-புகுந்ததம்மா!
+<div align="right">புகுந்ததம்மா!</div>
 
 என்ன செய்தியது? என்ன செய்தியது? நீடூர் ஆண்ட
 மன்னவனாம் “எவ்வி” மாண்டனன் போர்முனையில் என்ற,
@@ -35,6 +35,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 களிறுகளைக் கவிஞர்கட்குப் பரிசாகத் தருகின்ற
 களமஞ்சா மாவீரன் “அகுதி” யென ஒருவனிருந்தான்.
 ஒருவருமே அவனை வெல்ல உலகில் பிறக்கவில்லையென்றும் -
+<div align="right">போர்க்</div>
 கருவியொன்று அவன் வசத்தே உண்டென்றும் - அதனைப்
 “பொன்புனைதிகிரி” யெனப் புகல்வர் என்றும்;
 பொருதிட வருவோர் எவரும் அதன்முன் புறமுதுகிடுவர்
@@ -44,3 +45,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 
 அவனைப் பகைப்பதற்குத் தயங்கிக்கொண்டு அயலார்
 அஞ்சி நடுங்கியிருந்த காலமும் மாறி; “அமர்க்களத்தில்,
+
+<!-- Gate B restores File8-locked `போர்க்` at its PDF-supported right-edge carryover position and restores the source-supported placement of `புகுந்ததம்மா!`. -->

@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running author header; prose continuation on குடவோலை-style local selection and literary analogy; printed page number 349"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 360
 ---
@@ -48,10 +48,12 @@ continues_from_scan: 360
 அகப்பட்ட செய்திதான், எத்தனை! எத்தனை!
 கயல்விழியாள் கண்ணீரை நினைத்துப் பார்த்துக் கணவன்,
 அயலூர் செல்வதையே நிறுத்திவிட்ட காதல் செய்தி!
-விரோதிகளை வீழ்த்துகின்ற சேரமானின் தளபதியாம்
+விரோதிகளை வீழ்த்துக்கின்ற சேரமானின் தளபதியாம்
 விரும்பிக் கள் பருகும் வீரனாம் “பிட்டன்” என்பானின்
 வேல்முனைபோல் என் விலா நோகச் செய்யும் - இவள்
 விழிநீர் என்று வேதனையைக் கொட்டுகின்ற
 வணிக இளைஞன் வாய்மொழி கொண்டே
 அணிகலன் தமிழர்க்கு வீரமே என விளக்கும் அடுத்தொரு
 செய்தி!
+
+<!-- Gate B preserves File8-locked `வீழ்த்துக்கின்ற` even though the visible scan differs; lexical disagreement is recorded rather than source-corrected. -->

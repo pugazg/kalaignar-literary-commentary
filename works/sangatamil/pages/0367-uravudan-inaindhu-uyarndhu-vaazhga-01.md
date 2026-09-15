@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "decorative multicolour section heading; body text; printed page number 355"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; section heading and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -23,11 +23,11 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 
 நன்செய் புன்செய் நிலம் நல்ல மழைபெய்து நிறைந்த சமயம்
 நாலைந்து ஏர்கொண்டு உழுது பயிர்நடுதற்கு இயலாமல்
-ஓரேர் மட்டுமே உடையதோர் உழவன், கைபிசைந்து
+ஒரேர் மட்டுமே உடையதோர் உழவன், கைப்பிசைந்து
 உளம் துடித்துத் துவளுதல்போல்;
 சீரார் காதலியை உடன் காண முடியாமல்
 சிந்தை கலங்கி நின்றானாம் அத்தலைவன்!
-ஓரேர் உழவனை உவமைப்பொருளாக ஆக்கியதால்,
+ஒரேர் உழவனை உவமைப்பொருளாக ஆக்கியதால்,
 “ஓரேருழவர்” என்றே இப்புலவர் பெயர் பெற்றார்!
 
 உற்றார் உறவினர் பெற்றோர் எனத் தூயதமிழ்
@@ -36,8 +36,10 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 கடுமையாய் அழுத்தியதால் கவலை கொண்டார்!
 
 “இன்பதுன்பம் மாறி மாறி வருகின்ற
-இவ்வாழ்க்கையிலே
+<div align="right">இவ்வாழ்க்கையிலே</div>
 என்ன கண்டோம்? எதற்காக இந்த வாழ்வு?
 அதோ! தோலையுரித்து மேல் கீழாய்ப் போட்டதுபோல்
 அணுவளவு மாற்றமின்றிக் காட்சிதரும் களர்நிலத்தில்
 வேடன் கை அம்புக்குச் சிக்காமல் விரைந்தோடி
+
+<!-- Gate B restores File8-locked `ஒரேர்` / `கைப்பிசைந்து` in the two narrative occurrences while retaining the separately locked poet-name forms; `இவ்வாழ்க்கையிலே` is restored to its source-supported carryover placement. -->

@@ -8,26 +8,26 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "decorative multicolour section heading; body text; printed page number 352"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; section heading and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
 # பரிசப்பணம் வேண்டாம்... பரிசுப்பொருள் இதோ!
 
-“முலை விலை” என்று சொன்னால் சற்று முகம் சுளிப்பீர்!
+“முலை விலை” என்று சொன்னால் சற்று முகம் சுளீப்பீர்!
 முத்தமிழ் அகராதியில் அதற்குப் “பரிசப்பணம்” என்று
-பொருள்!
+<div align="right">பொருள்!</div>
 முல்லை மலர்ப்பெண்ணை மருமகளாய்க் கொள்வதற்கு;
 மூத்த தமிழ்க்குடிமக்கள் தருகின்ற தொகையைத்தான் -
-பரிசப்பணம் என்பர்!
+<div align="right">பரிசப்பணம் என்பர்!</div>
 
 அக்கால வழக்கில் அதனை “முலைவிலை” எனப் புகன்றார்
-எனில்;
+<div align="right">எனில்;</div>
 இக்காலத் தமிழர்க்கு அது விரசமாய்த் தோன்றுந்தான்!
 மணப்பெண் இவள்தான் இவனுக்கென்று உறுதியாகத்
-தேர்ந்தவுடன்,
+<div align="right">தேர்ந்தவுடன்,</div>
 பணமுடிப்புடன் பரிசம் போட்டு மணமகள் வீட்டாரிடம் -
-பரிவுடன் வழங்கவேண்டும்!
+<div align="right">பரிவுடன் வழங்கவேண்டும்!</div>
 
 கலித்தொகையில் முல்லைக்கலியில் ஒரு தகப்பன்; தன்
 கட்டழகுப் பூங்கொடியைப் பரிசப் பணமின்றித் தருவதற்குத்
@@ -40,3 +40,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 கொம்புடைய காளைதனை அடக்குதற்குக் காளையவன்;
 எத்தகைய உணர்வோடு ஈடுபட வேண்டுமென
 முத்தனைய பெண்ணைப்பெற்ற அத்தந்தை கூறுகின்றான் கேளீர்!
+
+<!-- Gate B restores File8-locked `சுளீப்பீர்!` despite the visible-source difference, excludes stray numeric `66`, and restores the source-supported right-edge carryovers on the opening page. -->
