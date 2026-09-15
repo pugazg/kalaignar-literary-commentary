@@ -451,9 +451,16 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - SC3 fidelity/page-function repairs — **19 page files**;
 - contents audit — **658–665 / 8/8 exact numbered/sub-lettered index lines**;
 - Part 006 English source-check — **COMPLETE / CLOSED 111/111**;
+- Part 006 English Glossary Reconciliation GR1 — **COMPLETE / PASS 37/37**;
+- GR1 range — **556–592 / printed 539–575**;
+- GR1 page-layer base → endpoint — `a230f74a9d027435a009cd3569dec70f5f907b9b` → `42d9df79adc7d4e2cf7f1ef42bbf3fa272fe60a4`;
+- GR1 exact page compare — **1 commit / exactly 4 modified English page files / 0 non-page changes / 0 Tamil changes / 0 status changes**;
+- GR1 terminology repairs — **4 page files / scans 561, 562, 563, 579**;
+- GR1 Chapter controls added — **6**;
+- GR1 source-printed lexical glosses recorded — **15**;
 - current English status — **111 source-checked / 0 draft / 0 blocked**;
-- exact next stage — **Part 006 English Glossary Reconciliation GR1 / scans 556–592 / printed 539–575 — 37 pages**.
+- exact next stage — **Part 006 English Glossary Reconciliation GR2 / scans 593–629 / printed 576–612 — 37 pages**.
 
 ## Current frontier
 
-**Part 006 English Glossary Reconciliation GR1 — scans 556–592 / printed 539–575 — 37 pages.**
+**Part 006 English Glossary Reconciliation GR2 — scans 593–629 / printed 576–612 — 37 pages.**
