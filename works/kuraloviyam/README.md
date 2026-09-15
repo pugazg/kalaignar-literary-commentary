@@ -412,8 +412,13 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - documentation synchronization — **COMPLETE / PASS**;
 - documentation-sync record — `PART_006_DOCUMENTATION_SYNC.md`;
 - documentation-only page-layer changes — **0**;
-- exact next stage — **Part 006 Tamil archival-ready checkpoint**.
+- Tamil archival-ready checkpoint — **PASS / CLOSED**;
+- archival-ready record — `PART_006_TAMIL_ARCHIVAL_READY.md`;
+- Part 006 Tamil — **ARCHIVAL-READY / CLOSED — 111/111 textual verified + 111/111 visual verified / 0 exceptions**;
+- Part-006 English inventory at Tamil closure — **0/111 page records**;
+- current English batch cadence — **33 physical scans**;
+- exact next stage — **Part 006 English Draft D1 / scans 556–588 / printed 539–571 — 33 pages**.
 
 ## Current frontier
 
-**Part 006 Tamil archival-ready checkpoint.**
+**Part 006 English Draft D1 — scans 556–588 / printed 539–571 — 33 pages.**
