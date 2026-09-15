@@ -20,7 +20,7 @@ The original source PDF is reported as **666 physical PDF pages**. Because the o
 | 003 | 223–333 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf` | **supplied; Tamil + English CLOSED — final checkpoint PASS / CLOSED; 111/111 English release-ready** |
 | 004 | 334–444 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf` | **Tamil + maintained English CLOSED — final checkpoint PASS / CLOSED; 111/111 English release-ready** |
 | 005 | 445–555 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_005_pages_445-555.pdf` | **Tamil ARCHIVAL-READY / CLOSED; 111/111 textual verified + 111/111 visual verified / 0 exceptions; maintained English drafting next** |
-| 006 | 556–666 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_006_pages_556-666.pdf` | **Tamil ARCHIVAL-READY / CLOSED — 111/111 textual verified + 111/111 visual verified / 0 exceptions; English Draft D1 next** |
+| 006 | 556–666 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_006_pages_556-666.pdf` | **Tamil ARCHIVAL-READY / CLOSED; English Draft D1 COMPLETE / PASS 37/37 — scans 556–592; Draft D2 next** |
 
 All six split files are now supplied. Preserve these exact source filenames; do not invent alternate split identities.
 
