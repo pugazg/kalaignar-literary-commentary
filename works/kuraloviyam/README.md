@@ -339,7 +339,7 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - SC4 page-layer audit — **12 modified English page records / 0 Tamil changes / 0 control-file changes**;
 - **555→556 CLEAN**.
 
-## Part 006 — DOCUMENTATION SYNC COMPLETE / TAMIL ARCHIVAL-READY NEXT
+## Part 006 — TAMIL ARCHIVAL-READY / ENGLISH DRAFT NEXT
 
 - source intake — **PASS / COMPLETE**;
 - scans — **556–666**;
