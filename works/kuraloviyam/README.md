@@ -444,12 +444,16 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - SC1 fidelity repairs — **16 page files / scans 562, 564, 565, 566, 567, 570, 571, 572, 573, 577, 579, 585, 589, 590, 591, 592**;
 - English Source-Check SC2 — **COMPLETE / PASS 37/37**;
 - SC2 range — **593–629 / printed 576–612**;
-- SC2 page-layer base → endpoint — `ce140cb9a2b23b860772ee649de473ffde8fc9dc` → `0c2d08993de3ba3d8b4df9c8bd5fe12b58ed22c0`;
-- SC2 exact compare — **3 commits / exactly 37 modified English page files / 0 non-page changes / 0 Tamil changes**;
-- SC2 fidelity repairs — **8 page files / scans 603, 604, 608, 609, 610, 611, 615, 620**;
-- current English status — **74 source-checked / 37 draft / 0 blocked**;
-- exact next stage — **Part 006 English Source-Check SC3 / scans 630–666 — 37 physical scans**.
+- English Source-Check SC3 — **COMPLETE / PASS 37/37**;
+- SC3 range — **630–666 / printed 613–648 + unnumbered back cover**;
+- SC3 page-layer base → endpoint — `ba1391558c55e0a2917af872b6fbc42c0af8f064` → `35f666f3ab3e904565c5c24deecbffc034133a39`;
+- SC3 exact compare — **3 commits / exactly 37 modified English page files / 0 non-page changes / 0 Tamil changes**;
+- SC3 fidelity/page-function repairs — **19 page files**;
+- contents audit — **658–665 / 8/8 exact numbered/sub-lettered index lines**;
+- Part 006 English source-check — **COMPLETE / CLOSED 111/111**;
+- current English status — **111 source-checked / 0 draft / 0 blocked**;
+- exact next stage — **Part 006 English Glossary Reconciliation GR1 / scans 556–592 / printed 539–575 — 37 pages**.
 
 ## Current frontier
 
-**Part 006 English Source-Check SC3 — scans 630–666 — 37 physical scans.**
+**Part 006 English Glossary Reconciliation GR1 — scans 556–592 / printed 539–575 — 37 pages.**
