@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -31,7 +31,7 @@ The old woman opposite said this and walked away. Azhagan could no longer remain
 
 Water was sprinkled on his face. A soft hand stroked it. He opened his eyes. He felt as though his head rested on a pillow of flowers. He opened his eyes wide. He was lying with his head in Azhagi's lap. He understood nothing. She smiled.
 
-"Did we fool you thoroughly?" she asked.
+"Were you thoroughly fooled?" she asked.
 
 Another deception? Azhagan looked at Azhagi's neck. No thaali! Relief! A great sigh of "Ah!"
 

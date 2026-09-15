@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -17,6 +17,6 @@ To call them houses was itself a mistake. They were sparrows' nests—inhabited 
 
 One had to pass through that street to reach a beautiful park beside a very broad avenue in that "great" metropolis. Pagalavan, returning home after work, and his wife Paavai wanted to go to that park so they could relax, talk cheerfully and enjoy themselves. On their way stood that "splendid street."
 
-Drawing in less breath than usual and letting out rather more, the two walked down it. At the doorway of one hut stood a man about forty years old, a woman not yet thirty, and five children ranging from ten years down to two. They crowded around the couple like kittens rubbing against a cat, laughing, crying, making noise, rolling across their laps and backs...
+Drawing in less breath than usual and letting out rather more, the two walked down it. At the doorway of one hut stood a man about forty years old, a woman not yet thirty, and five children ranging from ten years down to two. They crowded around them like kittens rubbing against a cat, laughing, crying and making noise...
 
 <!-- Source scan page: 566; printed page: 549; new narrow-street / poverty-family vignette begins; outgoing 566→567 is a genuine continuation -->

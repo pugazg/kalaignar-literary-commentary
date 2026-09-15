@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-...to make wetland and dryland fields fertile? That is why I have planned to build a dam, store the water, and conserve it so that it can be supplied to the places that need it at the time they need it," said the builder of the dam.
+...all of it should be used to make wetland and dryland fields fertile, shouldn't it? That is why I have planned to build a dam, store the water, and conserve it so that it can be supplied to the places that need it at the time they need it," said the builder of the dam.
 
 The farmers rejoiced when they understood that the wild river's flood, finding its banks and its dam, could be made to bring fertility to the fields.
 

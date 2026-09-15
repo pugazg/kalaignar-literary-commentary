@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-...and a nursing infant at the woman's breast—temporarily, perhaps, the youngest child.
+...rolling over their laps and backs. A nursing infant was at the woman's breast—temporarily, perhaps, the youngest child.
 
 Paavai looked at the scene and then at Pagalavan.
 
