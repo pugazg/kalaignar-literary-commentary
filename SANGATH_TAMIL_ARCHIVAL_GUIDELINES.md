@@ -99,14 +99,14 @@ Gate A — COMPLETE / PASS: 497/497 canonical page records; 0 duplicate aliases;
 
 Gate B — IN PROGRESS:
 
-- B01–B14 complete
-- structurally reviewed — 350/497
-- remaining — 147
-- frontier — scan 351
-- latest B14 page-layer endpoint — c227e5f2d95b6ad464fdf6e730639827c7c92941
-- latest durable progress/live-main checkpoint — dfc23c0f9366248c7a2fa301dc4fb215cf374bf0
+- B01–B15 complete
+- structurally reviewed — 375/497
+- remaining — 122
+- frontier — scan 376
+- latest B15 page-layer endpoint — ca5e6c6037517d7bdb2c1d73deb87fcc0edc5b8e
+- latest durable B15 progress commit — c38b23f81d35957d560ec3b56ebfac48f8bac47f
 - Gate C — NOT STARTED
 
 ### Exact next activity
 
-Process Gate B scans 351–375 using TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf + File8.md. Stop after B15 with expected next frontier scan 376. Do not start Gate C.
+Process Gate B scans 376–400 using the remainder of TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf + File8.md. Stop after B16 with expected next frontier scan 401. Do not start Gate C.

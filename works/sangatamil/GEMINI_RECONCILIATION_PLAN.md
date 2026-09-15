@@ -15,10 +15,10 @@ Active controls:
 Current state at documentation refresh 2026-09-15:
 
 - Gate A closed
-- Gate B B01–B14 complete
-- 350/497 structurally reviewed
-- frontier scan 351
-- next B15 scans 351–375 with part_008_pages_351-400.pdf + File8.md
+- Gate B B01–B15 complete
+- 375/497 structurally reviewed
+- frontier scan 376
+- next B16 scans 376–400 with the remainder of part_008_pages_351-400.pdf + File8.md
 
 ## Historical purpose
 

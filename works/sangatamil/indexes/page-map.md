@@ -19,7 +19,7 @@ Gemini File1.md … File10.md is the **locked lexical layer** for the current Ga
 
 A Stage-0 regression pilot on scans **31–36** demonstrated that some prior `verified` records contained substantive lexical/structural errors. Those text pages have therefore been corrected and reopened to `needs-review` pending the systematic Pass 2/3 sweeps.
 
-Pass-1 physical capture is complete. Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate aliases / 0 missing scans**. Gate B has structurally reviewed **350/497** scans through B14; current frontier is **scan 351**.
+Pass-1 physical capture is complete. Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate aliases / 0 missing scans**. Gate B has structurally reviewed **375/497** scans through B15; current frontier is **scan 376**.
 
 ## Current map
 
@@ -48,8 +48,8 @@ Pass-1 physical capture is complete. Gate A repository hygiene is complete: **49
 | 51 | printed 36 | continuation of `மாதரின் கண்ட மலர்கள்` | transcription-only first pass; `needs-review` |
 | 52 | — | full-page illustration | single-pass capture; `needs-review`; no visible printed page number |
 | 53 | printed 38 | continuation of `மாதரின் கண்ட மலர்கள்` | fast transcription-only first pass; `needs-review` |
-| 54–350 | later body | physical capture present | **Gate B structurally reviewed; page status remains independently governed** |
-| 351–497 | later body / end matter | physical capture present | **Gate B structural fidelity pending from scan 351** |
+| 54–375 | later body | physical capture present | **Gate B structurally reviewed; page status remains independently governed** |
+| 376–497 | later body / end matter | physical capture present | **Gate B structural fidelity pending from scan 376** |
 
 ## Important controls
 
@@ -74,4 +74,4 @@ Pass-1 physical capture is complete. Gate A repository hygiene is complete: **49
 
 ## Active gate
 
-**Gate B structural fidelity — 350/497 reviewed; next B15 scans 351–375.**
+**Gate B structural fidelity — 375/497 reviewed; next B16 scans 376–400.**

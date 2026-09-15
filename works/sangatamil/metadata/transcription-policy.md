@@ -89,9 +89,9 @@ Section/provenance derived indexes designated later gates-ல் canonical compl
 ## தற்போதைய செயல்பாட்டு எல்லை — 2026-09-15
 
 - Gate A — COMPLETE / PASS
-- Gate B — B01–B14 complete
-- structurally reviewed — 350/497
-- remaining — 147
-- frontier — scan 351
-- next — B15 scans 351–375 with part_008_pages_351-400.pdf + File8.md
+- Gate B — B01–B15 complete
+- structurally reviewed — 375/497
+- remaining — 122
+- frontier — scan 376
+- next — B16 scans 376–400 with the remainder of part_008_pages_351-400.pdf + File8.md
 - Gate C — NOT STARTED

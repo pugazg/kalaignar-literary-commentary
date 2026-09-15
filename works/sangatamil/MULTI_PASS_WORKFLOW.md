@@ -27,10 +27,10 @@ Do not use this historical file to restart Pass 1, resume scan-led lexical corre
 ## Current state pointer — 2026-09-15
 
 - Gate A — COMPLETE / PASS
-- Gate B B01–B14 — COMPLETE / PASS
-- reviewed — 350/497
-- frontier — scan 351
-- exact next — B15 scans 351–375 with part_008_pages_351-400.pdf + File8.md
+- Gate B B01–B15 — COMPLETE / PASS
+- reviewed — 375/497
+- frontier — scan 376
+- exact next — B16 scans 376–400 with the remainder of part_008_pages_351-400.pdf + File8.md
 - Gate C — NOT STARTED
 
 For live execution use PRODUCTIVE_COMPLETION_PLAN.md, GEMINI_TEXT_LOCK.md, STRUCTURAL_FIDELITY_PROGRESS.md and NEXT_CHAT_PROMPT_SANGATH_TAMIL.md.

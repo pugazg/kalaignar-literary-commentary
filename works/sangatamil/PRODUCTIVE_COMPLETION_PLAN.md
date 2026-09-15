@@ -249,16 +249,16 @@ Current durable state — 2026-09-15:
 - canonical page records — 497/497
 - duplicate aliases — 0
 - missing scans — 0
-- Gate B batches B01–B14 — COMPLETE / PASS
-- structurally reviewed — 350/497
-- remaining — 147
-- frontier — scan 351
+- Gate B batches B01–B15 — COMPLETE / PASS
+- structurally reviewed — 375/497
+- remaining — 122
+- frontier — scan 376
 - Gate C — NOT STARTED
-- latest B14 page-layer endpoint — c227e5f2d95b6ad464fdf6e730639827c7c92941
-- latest durable progress/live-main checkpoint — dfc23c0f9366248c7a2fa301dc4fb215cf374bf0
+- latest B15 page-layer endpoint — ca5e6c6037517d7bdb2c1d73deb87fcc0edc5b8e
+- latest durable B15 progress commit — c38b23f81d35957d560ec3b56ebfac48f8bac47f
 
 Exact next activity:
 
-Gate B B15 — scans 351–375, using TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf + File8.md.
+Gate B B16 — scans 376–400, using the remainder of TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf + File8.md.
 
 Operational frontier is tracked in STRUCTURAL_FIDELITY_PROGRESS.md and NEXT_CHAT_PROMPT_SANGATH_TAMIL.md. Historical inventory numbers from plan creation are not current execution state.

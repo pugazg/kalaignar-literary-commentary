@@ -37,4 +37,4 @@ The systematic whole-volume provenance activity is **Gate F — Sangam provenanc
 
 ## Current execution boundary
 
-Physical page capture is complete for **497/497 scans** and Gate A hygiene is closed. Gate B has structurally reviewed **350/497** scans with frontier **351**; citation-register completion remains deferred to **Gate F**.
+Physical page capture is complete for **497/497 scans** and Gate A hygiene is closed. Gate B has structurally reviewed **375/497** scans with frontier **376**; citation-register completion remains deferred to **Gate F**.

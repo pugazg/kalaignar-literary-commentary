@@ -10,15 +10,15 @@ Gate A — COMPLETE / PASS:
 - missing scans — 0
 
 Gate B — IN PROGRESS:
-- completed batches — B01–B14
-- structurally reviewed — 350/497
-- remaining — 147
-- frontier — scan 351
+- completed batches — B01–B15
+- structurally reviewed — 375/497
+- remaining — 122
+- frontier — scan 376
 - Gate C — NOT STARTED
 
-Latest B14 page-layer endpoint: c227e5f2d95b6ad464fdf6e730639827c7c92941
+Latest B15 page-layer endpoint: ca5e6c6037517d7bdb2c1d73deb87fcc0edc5b8e
 
-Latest durable progress/live-main checkpoint after B14: dfc23c0f9366248c7a2fa301dc4fb215cf374bf0
+Latest durable B15 progress commit: c38b23f81d35957d560ec3b56ebfac48f8bac47f
 
 ## Active authoritative controls
 
@@ -55,6 +55,6 @@ Gate-B structural completion does not automatically promote a page to verified. 
 
 ## Exact next activity
 
-Process Gate B B15 — scans 351–375 using TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf + File8.md.
+Process Gate B B16 — scans 376–400 using the remainder of TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf + File8.md.
 
 At batch close, update STRUCTURAL_FIDELITY_PROGRESS.md and synchronize the operational current-state documents so the frontier does not become stale.

@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed 2026-09-15: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gate B B01–B14 is COMPLETE through scan 350 with frontier scan 351.
+Last refreshed 2026-09-15: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gate B B01–B15 is COMPLETE through scan 375 with frontier scan 376.
 
 ## Repository
 
@@ -21,9 +21,9 @@ Completed benchmark retained: `works/thirukkural/`
 
 The latest durable Sangath Tamil progress checkpoint recorded in this handover is:
 
-dfc23c0f9366248c7a2fa301dc4fb215cf374bf0 — sangatamil: Record Gate B batch B14
+c38b23f81d35957d560ec3b56ebfac48f8bac47f — sangatamil: Record Gate B batch B15
 
-B14 page-layer endpoint: c227e5f2d95b6ad464fdf6e730639827c7c92941.
+B15 page-layer endpoint: ca5e6c6037517d7bdb2c1d73deb87fcc0edc5b8e.
 
 Later commits may advance `main`. Preserve any newer durable state. Do not reset, overwrite, repeat, or reopen later completed work merely because this handover records an older SHA.
 
@@ -43,9 +43,9 @@ Gate A: **COMPLETE / PASS**.
 
 Current gate: **Gate B — Gemini-locked structural fidelity**.
 
-Durable Gate-B state: **350/497 structurally reviewed / 147 remaining / frontier scan 351 / Gate C NOT STARTED**.
+Durable Gate-B state: **375/497 structurally reviewed / 122 remaining / frontier scan 376 / Gate C NOT STARTED**.
 
-Exact next activity: **B15 scans 351–375** using TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf for structure/presentation and File8.md for locked lexical wording.
+Exact next activity: **B16 scans 376–400** using the remainder of TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf for structure/presentation and File8.md for locked lexical wording.
 
 ## Mandatory startup — active சங்கத் தமிழ் work
 
@@ -103,12 +103,12 @@ Pass-1 physical capture is complete through **scan 497**.
 
 For page-level work in a fresh chat, resolve the split PDF and Gemini file required by the live frontier.
 
-Current pair after B14:
+Current pair after B15:
 
 - TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf
 - File8.md
 
-Current B15 target: physical scans 351–375.
+Current B16 target: physical scans 376–400 (split-PDF pages 26–50).
 
 Gemini page comments are navigation aids only; they do not establish physical scan numbering. The scan does.
 
@@ -179,14 +179,14 @@ In a fresh Sangath Tamil chat:
 
 1. fetch live main
 2. read the active controls listed above
-3. confirm STRUCTURAL_FIDELITY_PROGRESS.md still shows frontier 351
+3. confirm STRUCTURAL_FIDELITY_PROGRESS.md still shows frontier 376
 4. resolve TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf + File8.md
-5. process Gate B B15 scans 351–375 under the Gemini-lock/PDF-structure authority split
+5. process Gate B B16 scans 376–400 under the Gemini-lock/PDF-structure authority split
 6. audit batch base → page-layer endpoint
 7. update the progress record separately
 8. synchronize the operational current-state docs so no obsolete frontier remains
 
-Expected next frontier after B15: scan 376.
+Expected next frontier after B16: scan 401.
 
 Do not restart Pass 1. Do not resume the discontinued scan-led lexical Pass 2. Do not start Gate C early.
 

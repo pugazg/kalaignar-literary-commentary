@@ -11,7 +11,7 @@ Last synchronized with live main: **2026-09-15**.
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–015 **ARCHIVAL-READY through scan 323**; commentary through printed page 270 / Kural 1330 |
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–015 **RELEASED through the end of the supplied volume** |
 | Thirukkural semantic structure | பால் → இயல் → அதிகாரம் | **COMPLETE — 3 பால் / 13 இயல் / 133 அதிகாரம் / 1,330 குறள் mapped** |
-| சங்கத் தமிழ் | தமிழ் | **ACTIVE — Gate A CLOSED; Gate B B01–B14 COMPLETE; 350/497 structurally reviewed; frontier scan 351** |
+| சங்கத் தமிழ் | தமிழ் | **ACTIVE — Gate A CLOSED; Gate B B01–B15 COMPLETE; 375/497 structurally reviewed; frontier scan 376** |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த source-controlled edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Kuraloviyam | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
@@ -60,14 +60,14 @@ Authority split:
 Gate A — COMPLETE / PASS: 497/497 canonical records; 0 duplicates; 0 missing.
 
 Gate B — IN PROGRESS:
-- B01–B14 complete
-- 350/497 structurally reviewed
-- 147 remaining
-- frontier — scan 351
+- B01–B15 complete
+- 375/497 structurally reviewed
+- 122 remaining
+- frontier — scan 376
 - Gate C — NOT STARTED
 
-Latest B14 page-layer endpoint: c227e5f2d95b6ad464fdf6e730639827c7c92941
-Latest durable progress/live-main checkpoint: dfc23c0f9366248c7a2fa301dc4fb215cf374bf0
+Latest B15 page-layer endpoint: ca5e6c6037517d7bdb2c1d73deb87fcc0edc5b8e
+Latest durable B15 progress commit: c38b23f81d35957d560ec3b56ebfac48f8bac47f
 
 ## Current controls
 
@@ -85,6 +85,6 @@ MULTI_PASS_WORKFLOW.md and GEMINI_RECONCILIATION_PLAN.md are retained as histori
 
 ## அடுத்த செயல்
 
-Gate B B15 — scans 351–375, using TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf + File8.md.
+Gate B B16 — scans 376–400, using the remainder of TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf + File8.md.
 
 Current handover: HANDOVER.md.
