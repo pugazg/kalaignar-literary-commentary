@@ -2,38 +2,38 @@
 scan_page: 116
 printed_page: "101"
 work: "sangatamil"
-section: "முயங்கா வாழ்க்கை மறவன் நீயே!"
+section: "மயங்கா மார்புடை மறவன் நீயே!"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "fast direct transcription from source scan; verification intentionally deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
-# முயங்கா வாழ்க்கை மறவன் நீயே!
+# மயங்கா மார்புடை மறவன் நீயே!
 
 தென்புலத்துக் கடலோரம் தீமை விளைவித்தோரை;  
-வென்றடக்கிய வீரவர்களுடையோன்
+வென்றடக்கிய வீரவாளுக்குடையோன்
 
-வடபுலத்து வடுகமன்னர் படையொடுங்கி  
+வடபுலத்து வடுகமன்னர் படையொடுக்கி  
 வாகை மாலைதனைத் தோளில் சுமந்தோன்
 
 இளஞ்சேட் சென்னியெனும் பெயருக்குரியோன்  
-வளமிகு சோழமன்னன் திறன்மிகு வலிமையின்
+வளமிகு சோழமன்னன் திறன்மிகு வலிமையினை
 
 ஊன்பொதிப் பசுங்குடையார் எனும் ஒரு புலவர்  
 மீன்துள்ளும் அருவிநடைத் தமிழால் தந்தார்!
 
 நெய்தலங்கானல் சோழன் எனும் பிறந்த ஊர்ப் பெருமையுடன்  
-நெடிய புகழ் செருப்பாழியும் [பாழ…?] வென்ற சோழன்  
+நெடிய புகழ் செருப்பாழியும் பாமூளூரும் வென்ற சோழன்  
 எனும் அடைமொழியும்,
 
 இரு கருத்துக்கு இடமேயின்றி; இற்றைப்புலவர்கள்  
 இளஞ்சேட் சென்னியினையே குறிக்குமென்பர்!
 
 புறப்பாடல் தமிழ்ப்புலவர் இயற்றும்போதே  
-புராணக் கதைகளும் புகழ்க்கத்தில் உண்டு போலும்!
+புராணக் காதைகளும் புழக்கத்தில் உண்டு போலும்!
 
 அதனாலே அற்புதமாய் உவமையொன்றை  
 அரும்புலவர் பசுங்குடையார் அன்றைக்கே எழுதியுள்ளார்.
@@ -49,6 +49,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 இன்னபிற நகைகளையும் இளஞ்சேட் சென்னி  
 புன்னகை மிளிரப் பொழிந்தான் புலவரிடம்!
 
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
-<!-- One unclear source reading is bracketed for Pass 2 rather than reconstructed. -->
+<!-- Gate B restores File3 lexical wording and the source-supported section identity. The prior bracketed provisional reading is removed because File3 locks `பாமூளூரும்`. -->
 <!-- மூல ஸ்கேன் பக்கம்: 116; அச்சுப் பக்கம்: 101 -->
