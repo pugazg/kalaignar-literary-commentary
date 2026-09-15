@@ -1077,20 +1077,70 @@ Boundary discipline:
 - scan 629 begins the காதற் சிறப்புரைத்தல் / lover-in-the-heart vignette;
 - scan 630 continues that same vignette and is outside D2.
 
-Current Part-006 English state:
+## Part 006 English drafting — D3 COMPLETE / PASS 37/37
 
-- `draft` — **74**;
+Draft D3 covers:
+
+**scans 630–666 — 37 physical scans**, comprising printed pages **613–648** plus scan **666 / unnumbered pictorial back cover**.
+
+D3 page-layer base:
+
+`f88a79c563871669c96533c07d5d50f0f87d1e17`
+
+D3 page-layer endpoint:
+
+`8a87fbe5cf0ee36858111f693805eb4ab64ad8b0`
+
+Exact compare:
+
+- **5 commits ahead / non-divergent**;
+- exactly **37 changed files**;
+- all **37** are newly added Part-006 English page records;
+- scans **630–666** are represented exactly once;
+- missing scans — **0**;
+- duplicate scans — **0**;
+- non-English-page changes during D3 page-layer creation — **0**;
+- Tamil page changes — **0**.
+
+D3 frontmatter audit:
+
+- `translation_type: "project_translation"` — **37/37**;
+- `status: "draft"` — **37/37**;
+- `source_tamil_status: "verified"` — **37/37**;
+- standard audited-Tamil `translation_basis` — **37/37**.
+
+D3 source-function handling:
+
+- incoming **629→630 GENUINE CONTINUATION** preserved;
+- scans **658–665** preserve the complete `பொருளடக்கம்` run;
+- on contents pages, Tamil Kural incipits are retained verbatim as source index keys and printed-page locators are preserved exactly; no external English Kural wording was imported;
+- scan **665** translates the fourth-edition orthography note and identifies the blue library stamp as non-source material;
+- scan **666** is a page-aligned pictorial back-cover record with factual visual description and **no invented body prose**;
+- **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT** preserved;
+- **666 — NO EXTERNAL CONTINUATION** preserved.
+
+## Part 006 English drafting — COMPLETE / CLOSED 111/111
+
+Cumulative Part-006 English page inventory:
+
+- `draft` — **111**;
 - `source-checked` — **0**;
 - `editorial-reviewed` — **0**;
 - `release-ready` — **0**;
 - `source-limited` — **0**;
 - `blocked` — **0**;
-- not yet drafted — **37**.
+- not yet drafted — **0**.
+
+Draft batches:
+
+- D1 — **556–592 / 37/37 COMPLETE**;
+- D2 — **593–629 / 37/37 COMPLETE**;
+- D3 — **630–666 / 37/37 COMPLETE**.
 
 Translation identity remains project-created. No published, standard, web, or remembered English Kural wording was imported as authority.
 
 ## Exact next activity
 
-**Part 006 English Draft D3 — scans 630–666 — 37 physical scans**, covering printed pages **613–648** plus scan **666 / unnumbered pictorial back cover**.
+**Part 006 English Source-Check SC1 — scans 556–592 / printed 539–575 — 37 pages.**
 
-Preserve incoming **629→630 GENUINE CONTINUATION**. Do not reopen the closed Part-006 Tamil page layer unless a genuinely new provenance/fidelity issue is discovered.
+Compare English against the audited Tamil records paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, chapter/Kural metadata, quotations, visual/page function and cross-page continuity. Only passing pages may move from `draft` to `source-checked`.
