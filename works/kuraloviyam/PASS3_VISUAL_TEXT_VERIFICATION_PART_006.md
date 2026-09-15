@@ -8,7 +8,7 @@
 - Final physical scan: **666 / unnumbered pictorial back cover**
 - Physical scans: **111**
 - Gate: **Pass 3 — meaningful visual/text fidelity verification**
-- Status: **IN PROGRESS — 33/111**
+- Status: **IN PROGRESS — 44/111**
 
 ## Preconditions
 
@@ -153,14 +153,52 @@ Because Batch 3 required no page-layer correction, the Pass-3 Batch-3 page-layer
 
 Exact compare `51642b8e999a501029832cb95e0d238fd11d131f` → `51642b8e999a501029832cb95e0d238fd11d131f` is **identical / 0 commits ahead / 0 behind / 0 changed files**.
 
+## Batch 4 — scans 589–599 / printed 572–582
+
+**Result: COMPLETE — 11 / 11.**
+
+Freshly rendered source scans were compared directly with the current canonical records for meaningful visual/text organization. **No structural or visual-description correction was required.** No lexical/body-text change was made.
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 589 | 572 | **NO STRUCTURAL CHANGE** — large upper illustration of the turbaned horse-rearing expert addressing a group remains above the prose; the public-honour vignette begins below and continues to scan 590. |
+| 590 | 573 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Chapter 85 / Kural 845 remains correctly grouped at the foot of the page. |
+| 591 | 574 | **NO STRUCTURAL CHANGE** — large upper illustration of the sleeping man beside the raised snake remains above the prose; the pet-snake / incompatible-companionship vignette begins below and continues to scan 592. |
+| 592 | 575 | **NO STRUCTURAL CHANGE** — text-led continuation/closure; Chapter 89 / Kural 890, printed glosses and small lower chariot/pavilion page furniture remain correctly separated. |
+| 593 | 576 | **NO STRUCTURAL CHANGE** — large upper throne/court illustration of the king pointing toward the standing man remains above the prose; the king / self-respecting poet vignette begins below and continues to scan 594. |
+| 594 | 577 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Chapter 5 / Kural 44 and the source gloss remain correctly grouped at the foot of the page. |
+| 595 | 578 | **NO STRUCTURAL CHANGE** — large upper illustration of the man tugging at the woman's garment remains above the prose; the அழகர்குடி / செவத்தான் tyranny vignette begins below and continues to scan 596. |
+| 596 | 579 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Chapter 47 / Kural 466 remains correctly grouped at the foot of the page. |
+| 597 | 580 | **NO STRUCTURAL CHANGE** — large upper illustration of the European officer and local man pointing at the map/table remains above the prose; the Maruthu Pandiyar / Karuthaan betrayal vignette begins below and continues across the source-visible split into scan 598. |
+| 598 | 581 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Chapter 66 / Kural 654 and source glosses remain correctly grouped at the foot of the page. |
+| 599 | 582 | **NO STRUCTURAL CHANGE** — large upper illustration of the elderly teacher reclining in a chair speaking to the young man remains above the prose; the grandson / life-goal / Aruloor teacher vignette begins below and continues directly to scan 600. |
+
+### Boundary / continuity result
+
+- Incoming **588→589 CLEAN** remains confirmed.
+- **599→600 is a GENUINE CONTINUATION**, reconfirmed from scan **600 / printed 583**: scan 599 opens the grandson / life-goal / Aruloor teacher vignette and scan 600 continues and closes it with Chapter 29 / Kural 281.
+- Scan 600 was used only as the outgoing witness and is **not** counted in Batch 4.
+
+### Batch 4 correction summary
+
+- Structural/visual-description corrections: **0**.
+- Lexical/body-text changes: **0**.
+- No-change scans: **589–599 — 11 pages**.
+- Status promotions: **0**.
+- All Part-006 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+
+Because Batch 4 required no page-layer correction, the Pass-3 Batch-4 page-layer endpoint is the pre-batch checkpoint itself: `338cf9d0a20d131acdfe3ad1d422001ce820999c`.
+
+Exact compare `338cf9d0a20d131acdfe3ad1d422001ce820999c` → `338cf9d0a20d131acdfe3ad1d422001ce820999c` is **identical / 0 commits ahead / 0 behind / 0 changed files**.
+
 ## Current gate
 
-Part 006 Pass 3 cumulative coverage: **33/111**.
+Part 006 Pass 3 cumulative coverage: **44/111**.
 
 Exact next batch:
 
-**Batch 4 — scans 589–599 / printed 572–582 — 11 physical scans.**
+**Batch 5 — scans 600–610 / printed 583–593 — 11 physical scans.**
 
-Preserve incoming **588→589 CLEAN**. Inspect scan **600 / printed 583** only as the outgoing continuity witness if required.
+Preserve incoming **599→600 GENUINE CONTINUATION**. Inspect scan **611 / printed 594** only as the outgoing continuity witness if required.
 
 Pass 3 remains meaningful visual/text fidelity verification, not another lexical reread. Do not promote final status.
