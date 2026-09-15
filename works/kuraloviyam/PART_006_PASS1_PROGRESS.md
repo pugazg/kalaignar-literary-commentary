@@ -497,10 +497,15 @@ Part 006 Pass 1 cumulative state: **111/111 captured — COMPLETE**.
 
 P6-01 through P6-10 plus final scan 666 are **COMPLETE / all 111 physical scans captured**.
 
-Pass 1 is now **CLOSED / COMPLETE**. All 111 records remain `needs-review` / visual `needs-review`.
+Pass 1 is **CLOSED / COMPLETE**. Its original `needs-review` state is retained above as historical Pass-1 evidence. Downstream gates are now also closed:
 
-Exact next stage:
+- Pass 2A — **COMPLETE / PASS 111/111**;
+- Pass 2B — **COMPLETE / PASS 111/111**;
+- Pass 3 — **COMPLETE / PASS 111/111**;
+- Part 006 audit — **PASS / COMPLETE**;
+- final metadata/status synchronization — **PASS / CLOSED**;
+- documentation synchronization — **COMPLETE / PASS**.
 
-**Part 006 Pass 2A Batch 1 — scans 556–566 / printed 539–549 — 11 physical scans.**
+Current live Part-006 page state is **111/111 `verified` textual + 111/111 `verified` visual / 0 exceptions**.
 
-Use rendered source pixels as controlling authority and perform direct textual verification only; do not change record status during Pass 2A.
+Exact next stage: **Part 006 Tamil archival-ready checkpoint**. Do not reopen Pass 1 or modify the page layer for that checkpoint.
