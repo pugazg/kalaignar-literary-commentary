@@ -1007,10 +1007,21 @@ Final state:
 - post-release drift — **0 English page files / 0 Tamil page files changed**;
 - Part 005 — **FULLY CLOSED**.
 
-The active Kuraloviyam frontier is no longer an English gate. Part 006 Tamil Pass 1 is now active.
+Part 005 remains **FULLY CLOSED**. Part 006 Tamil is now **ARCHIVAL-READY / CLOSED — 111/111 textual verified + 111/111 visual verified / 0 exceptions**.
+
+Repository inventory at the Part-006 Tamil archival-ready checkpoint confirms **0 Part-006 English page records** for scans 556–666. The live translation guide retains the current normal cadence of **33 physical scans**.
+
+## Part 006 English workflow — ACTIVE / DRAFTING NEXT
+
+- Tamil authority — **ARCHIVAL-READY / CLOSED 111/111**;
+- English page inventory — **0/111**;
+- translation identity — **project-created English translation**;
+- normal batch size — **33 physical scans**;
+- permanent gate order — **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**;
+- source basis — audited Tamil page records; controlling scan remains ultimate authority only if a genuinely new provenance/fidelity issue is discovered.
 
 ## Exact next activity
 
-**Part 006 Pass 1 P6-01 — scans 556–566 / printed 539–549 — 11 physical scans.**
+**Part 006 English Draft D1 — scans 556–588 / printed 539–571 — 33 page-aligned records.**
 
-Do not reopen Part 005.
+Do not reopen Part 005. Do not import published, standard, web or remembered English Kural wording.
