@@ -174,7 +174,7 @@ Durable documentation-sync record: `PART_003_DOCUMENTATION_SYNC.md`.
 
 Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained English is **111/111 release-ready**.
 
-## Part 005 — PASS 1 COMPLETE / PASS 2A COMPLETE / PASS 2B ACTIVE
+## Part 005 — FULLY CLOSED
 
 - source intake — **PASS / COMPLETE**;
 - P5-01 — **445–455 / printed 428–438 — COMPLETE 11/11**;
