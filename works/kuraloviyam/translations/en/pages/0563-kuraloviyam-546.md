@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -25,7 +25,7 @@ Alagan showed her the necklace and the thread running through the beads.
 
 "Alagi! This is a strong thread that will not snap! Isn't it, my delight?" he said.
 
-Before she could move first, he did, and embraced her.
+Before she could make the first move, he did, and embraced her.
 
 "This is the street-side platform!"
 

@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-Alagan made his living selling strung beads and loose beads, wandering from village to village from morning till evening. One might even say his name had become a name that suited him perfectly. A moustache like tiny fish! A body as though carved from teakwood! Broad, sharp eyes—and yet filled with cool gentleness.
+Alagan made his living selling strung beads and loose beads, wandering from village to village from morning till evening. One might even say his name had come to suit him perfectly. A moustache like tiny fish! A body as though carved from teakwood! Broad, sharp eyes—and yet filled with cool gentleness.
 
 Though he travelled from place to place conducting his bead trade, somehow he would return to the streets of Thingalur once every four days. Of everyone in that town, one woman alone waited for his arrival with the greatest eagerness. Her name too suited her well. She was Alagi.
 

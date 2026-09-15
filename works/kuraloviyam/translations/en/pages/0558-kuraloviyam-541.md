@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -26,7 +26,7 @@ What must the people who create such a government insist upon?
 
 "Countless books on virtue have gathered and offered rules of righteous conduct. But there is one principle that stands above all the virtues found in those books. It is this: change the condition in which there are those who have and those who have not; frame a policy by which what exists can be shared by all; and enable every life to live."
 
-Does not the whole heart grow sweet when we think that the owner of such a revolutionary thought, born in Tamil Nadu two thousand years ago—a guide to the ideal of common ownership—was Valluvar?
+Doesn't one's whole heart fill with sweetness when one thinks that the owner of such a revolutionary thought, born in Tamil Nadu two thousand years ago—a guide to the ideal of common ownership—was Valluvar?
 
 Chapter 39 — The Majesty of Kingship; Kural 385  
 Chapter 33 — Non-Killing; Kural 322

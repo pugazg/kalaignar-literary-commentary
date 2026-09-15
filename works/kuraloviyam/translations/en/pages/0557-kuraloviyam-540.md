@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -27,7 +27,7 @@ Perhaps this is how some new thoughts that seem suited to the Book of Porul—re
 
 In the age of monarchy, that great elder and scholar gave Valluvar's wisdom to the world.
 
-Even now, under the name of democracy, many countries are ruled by strongmen's regimes of the stick.
+Even now, under the name of democracy, many countries are ruled by the stick imposed by the powerful.
 
 Democracy is government in which citizens choose those fit to govern them.
 
