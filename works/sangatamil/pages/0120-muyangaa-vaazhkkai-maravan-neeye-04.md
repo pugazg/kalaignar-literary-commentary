@@ -2,22 +2,22 @@
 scan_page: 120
 printed_page: "105"
 work: "sangatamil"
-section: "முயங்கா வாழ்க்கை மறவன் நீயே!"
+section: "மயங்கா மார்புடை மறவன் நீயே!"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "fast direct transcription from source scan; verification intentionally deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
-> * “வழிபடுவோரை வல்லறி தீயே!  
+> \* “வழிபடுவோரை வல்லறி தீயே!  
 > பிறர்பழி கூறுவோர் மொழிதே றலையே;  
 > நீமெய் கண்ட தீமை காணின்  
 > ஒப்பநாடி அத்தக ஒறுத்தி  
-> வந்து, அடிபொருந்தி, முந்தை நிற்பின்,  
+> வந்து, அடிபொருந்தி, முந்தைநிற்பின்,  
 > தண்டமும் தணிதி, பண்டையிற் பெரிதே;  
-> அமிழ்துஅட்டு ஆனாக் கமழ்குய் அடிசில்  
+> அமிழ்து அட்டு ஆனாக் கமழ்குய் அடிசில்  
 > வருநர்க்கு வரையா வசையில் வாழ்க்கை  
 > மகளிர் மலைத்தல் அல்லது, மள்ளர்  
 > மலைத்தல் போகிய, சிலைத்தார் மார்ப!  
@@ -32,7 +32,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 
 </div>
 
-குறிப்பு : இரண்டு பாடல்களும் “ஊன்பொதிப் பசுங்குடையார்” எனும் புலவரால் பாடப் பெற்றவையாகும்.
+குறிப்பு : இரண்டு பாடல்களும் “ஊன்பொழிப் பசுங்குடையார்” எனும் புலவரால் பாடப் பெற்றவையாகும்.
 
 ## பொருள் விளக்கம் :
 
@@ -42,8 +42,8 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 செறிமரபின = அணியத்தகுந்தவற்றை.  
 தொடக்குநர் = அணிந்தனர்.  
 அரைக்கமை = இடைக்கு உரியவற்றை. மிடற்று = கழுத்தில்.  
-மதரணி = அழகியநகை. இழை = அணி.  
-அருஅ அருநகை = நீங்காத அரிய மகிழ்ச்சி.
+மதர்அணி = அழகியநகை. இழை = அணி.  
+அறாஅ அருநகை = நீங்காத அரிய மகிழ்ச்சி.
 
 ### (பாடல் 10)
 
@@ -54,6 +54,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 
 <div align="center">*</div>
 
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
-<!-- Quoted and gloss forms remain provisional for Pass 2. -->
+<!-- Gate B restores File3 quote/note/gloss wording. File3's malformed `மகிழ்ச்ச.ி` is excluded as non-source OCR/punctuation debris; source-supported `மகிழ்ச்சி` is retained. -->
 <!-- மூல ஸ்கேன் பக்கம்: 120; அச்சுப் பக்கம்: 105 -->
