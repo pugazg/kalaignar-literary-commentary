@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -49,6 +49,6 @@ It was a letter asking forgiveness:
 
 "Not stopping there, I joined Nilaa Naadu and came to oppose you in war.
 
-"Only at the final stage of the battle did I understand the truth...
+"Only at the final stage of the battle did the truth...
 
 <!-- Source scan page: 635; printed page: 618; new Valanaadu / Nilaa Naadu / Malainaadu royal-ethics vignette begins; sentence continues directly to scan 636 -->

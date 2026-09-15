@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-...for food?
+...when pigeons, sparrows, goats, cattle, deer and rabbits are killed for food? That question cannot help but arise!
 
 As the world's population grows into crores upon crores, a condition has arisen in which grain alone is not enough and meat too has become, in practice, part of the food supply.
 

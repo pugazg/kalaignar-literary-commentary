@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-"...and recognize your noble qualities. My soldiers and I left the king of Nilaa Naadu alone in the field and fled back to our Malainaadu.
+"...become clear to me; recognizing your noble qualities, my soldiers and I left the king of Nilaa Naadu alone in the field and fled back to our Malainaadu.
 
 "Forgive me. Regard my jeweled crown as lying at your feet and show me grace."
 

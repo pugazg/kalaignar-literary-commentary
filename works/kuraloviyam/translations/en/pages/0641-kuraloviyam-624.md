@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -27,6 +27,6 @@ But when we think deeply, we know that not only creatures raised by us but also 
 
 Then a question inevitably arises:
 
-Should we not show to pigeons, sparrows, goats, cattle, deer and rabbits roaming freely, the same love and compassion that we show to the lives we ourselves have raised when they are killed for food...
+Should we not show the same love and compassion that we show to the lives we ourselves have raised to the unraised creatures that fly and wander freely...
 
 <!-- Source scan page: 641; printed page: 624; new reflection on abstaining from flesh begins; sentence continues directly to scan 642 -->
