@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,7 +19,7 @@ A clash among the fish playing beneath the water creates agitation upon the clea
 
 The man's face appears peaceful.
 
-Touched by the hand of the breeze, a smile tastes that pleasure. Light seems to dance across the face filled with calm.
+Touched by the breeze's hand, his smile seems to savour that delight. Light seems to dance across the face filled with calm.
 
 His dearest friend sits beside him and, with feeling, recounts how Jain and Buddhist ascetics endured many hardships and laboured without rest to explain and spread their principles among the people of the world.
 
