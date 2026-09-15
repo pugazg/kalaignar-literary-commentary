@@ -1674,7 +1674,9 @@ Exact page-file set:
 - `works/sangatamil/pages/0395-palli-sollukkup-palan-03.md`
 - `works/sangatamil/pages/0396-paasiyum-pasalaiyum-01.md`
 
-This progress-record update is the sole intended non-page change after the Batch B16 page-layer endpoint.
+The Batch B16 page-layer audit itself remains clean: `2899f0dd65e0d83051959f8791b1217ac4e8869b` → `93e96b379921a161ab1ca393708f6f4d71408c09` contains only the nine intended B16 page records.
+
+After that endpoint, live `main` received the durable B15 repair commit `6525498cd8e14871575e9ae0203060af2fe4450a` (`sangatamil: Repair B15 mixed scans 358-359`), correcting scans 358–359 before this B16 progress record was committed. That newer repair is preserved and is not part of the B16 changed-file set.
 
 ## Gate B cumulative state
 
