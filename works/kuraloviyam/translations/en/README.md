@@ -395,8 +395,31 @@ Current Part-006 English inventory:
 - `draft` — **0**;
 - release-ready / source-limited / blocked — **0**.
 
+## Part 006 English editorial review — ER2 COMPLETE / PASS 37/37
+
+ER2:
+
+- scans **593–629 / printed 576–612**;
+- pre-ER2 live-main checkpoint — `7f0dfc8985aee0df09a5ec236a3f2988d26ecd5b`;
+- English page-layer endpoint — `8372e3c7d63a2ff12d70cb053e75e34b7f074b25`;
+- exact page-layer compare — **4 commits / exactly 37 modified English page files / 0 Tamil changes / 0 non-page changes**;
+- wording-repair pages — **13**: scans **596, 598, 599, 601, 605, 606, 607, 608, 609, 612, 619, 628, 629**;
+- status-only promotion pages — **24**;
+- all **37/37** pages moved from `source-checked` to `editorial-reviewed`;
+- incoming **592→593 CLEAN** preserved;
+- outgoing **629→630 GENUINE CONTINUATION** preserved;
+- scan **630** was checked only as a continuation witness and not modified;
+- no external edition/web/standard English Kural wording was imported.
+
+Current Part-006 English inventory:
+
+- `editorial-reviewed` — **74**;
+- `source-checked` — **37**;
+- `draft` — **0**;
+- release-ready / source-limited / blocked — **0**.
+
 ## Current frontier
 
-**Part 006 English Editorial Review ER2 — scans 593–629 / printed 576–612 — 37 pages.**
+**Part 006 English Editorial Review ER3 — scans 630–666 / printed 613–648 + unnumbered back cover — 37 pages.**
 
-Continue readability, controlled-terminology, names, quotation/Kural-block, page-function and cross-page continuity review. Passing pages may move from `source-checked` to `editorial-reviewed`. Preserve outgoing **629→630 GENUINE CONTINUATION**.
+Continue readability, controlled-terminology, names, quotation/Kural-block, contents/index page-function and cross-page continuity review. Passing pages may move from `source-checked` to `editorial-reviewed`. Preserve **629→630 GENUINE CONTINUATION**, **657→658 CLEAN / transition to contents**, **658→665 contents continuation**, **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**, and **666 NO EXTERNAL CONTINUATION**.
