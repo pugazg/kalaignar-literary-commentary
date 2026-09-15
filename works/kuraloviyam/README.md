@@ -461,6 +461,36 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - current English status — **111 source-checked / 0 draft / 0 blocked**;
 - exact next stage — **Part 006 English Glossary Reconciliation GR2 / scans 593–629 / printed 576–612 — 37 pages**.
 
+## Part 006 final closure — PASS / CLOSED
+
+Part 006 maintained state:
+
+- Tamil — **ARCHIVAL-READY / CLOSED — 111/111 textual verified + 111/111 visual verified / 0 exceptions**;
+- English drafting — **COMPLETE / CLOSED 111/111**;
+- English source-check — **COMPLETE / CLOSED 111/111**;
+- glossary reconciliation — **COMPLETE / CLOSED 111/111**;
+- editorial review — **COMPLETE / CLOSED 111/111**;
+- Part-level English review — **PASS / CLOSED**;
+- English release report — **APPROVED / CLOSED**;
+- English release-ready — **111/111**;
+- final closure record — `PART_006_FINAL_CLOSURE.md`;
+- physical endpoint — scan **666 / unnumbered pictorial back cover**;
+- **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**;
+- **666 NO EXTERNAL CONTINUATION**.
+
+Whole six-Part maintained corpus:
+
+- physical scans — **1–666 complete**;
+- Tamil textual disposition — **662 verified + 4 partial/source-limited**;
+- Tamil visual fidelity — **666/666 verified**;
+- maintained English — **662 release-ready + 4 source-limited**;
+- blocked — **0**;
+- Parts **001–006** — all closed.
+
+The four durable source limitations are Part 001 scans **13, 14, 15, 19**.
+
 ## Current frontier
 
-**Part 006 English Glossary Reconciliation GR2 — scans 593–629 / printed 576–612 — 37 pages.**
+**None — Kuraloviyam is fully closed across the supplied six-Part source family.**
+
+Reopen only for a genuinely new source/provenance/fidelity issue or an explicitly requested new derivative/output.
