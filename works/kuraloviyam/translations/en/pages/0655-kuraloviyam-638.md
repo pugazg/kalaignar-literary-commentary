@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,7 +19,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 "Open the door and give way to that joy of love!"
 
-After the lover bent his heart and pleaded with her in this way, she too closed the door of the bedchamber.
+After the lover humbled himself and pleaded with her in this way, she too closed the door of the bedchamber.
 
 Opening lips blossomed with joy, fragrant with modesty and sweet honey, she said:
 

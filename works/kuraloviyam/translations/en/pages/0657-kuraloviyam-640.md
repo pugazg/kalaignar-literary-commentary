@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -77,7 +77,7 @@ Even while Valluvar was speaking, Nilamagal disappeared.
 
 He opened his eyes.
 
-As a result of thought that had flown like a flag, he took up stylus and palm leaf.
+With his thoughts soaring like a flag, he took up his stylus and palm leaf.
 
 The Kural declaring the greatness of the world was born.
 
