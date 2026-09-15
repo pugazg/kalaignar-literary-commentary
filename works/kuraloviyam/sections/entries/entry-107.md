@@ -1,0 +1,26 @@
+# Entry 107 — காமக் கணிச்சி
+
+- source contents entry — **107**
+- printed-page span — **237–238**
+- overall scan span — **254–255**
+- expected Kural count from source contents — **1**
+- S2 crosswalk status — **RESOLVED**
+
+## Source-evidenced Adhikaram / Kural
+
+| Chapter | Tamil source title | Kural(s) | Section navigation |
+|---:|---|---|---|
+| 126 | நிறையழிதல் | 1251 | [இன்பத்துப்பால் → கற்பியல் → அதிகாரம் 126](../03-inbam/02-karpiyal/chapter-126.md) |
+
+## Audited page records
+
+| Scan | Printed page | Tamil archival record | Maintained English record |
+|---:|---:|---|---|
+| 254 | 237 | [Tamil](../../pages/0254-kuraloviyam-237.md) | [English](../../translations/en/pages/0254-kuraloviyam-237.md) |
+| 255 | 238 | [Tamil](../../pages/0255-kuraloviyam-238.md) | [English](../../translations/en/pages/0255-kuraloviyam-238.md) |
+
+## Evidence note
+
+The Chapter/Kural assignment above is derived from the audited page-span closure recorded in S2. No external-edition inference is used.
+
+Crosswalk authority: [S2 master crosswalk](../crosswalk/S2_MASTER_CROSSWALK.tsv).

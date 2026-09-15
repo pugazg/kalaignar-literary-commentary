@@ -1,0 +1,26 @@
+# Entry 118 — நுனிக்கொம்பர் ஏறினார்
+
+- source contents entry — **118**
+- printed-page span — **259–260**
+- overall scan span — **276–277**
+- expected Kural count from source contents — **1**
+- S2 crosswalk status — **RESOLVED**
+
+## Source-evidenced Adhikaram / Kural
+
+| Chapter | Tamil source title | Kural(s) | Section navigation |
+|---:|---|---|---|
+| 48 | வலியறிதல் | 476 | [பொருட்பால் → அரசியல் → அதிகாரம் 48](../02-porul/01-arasiyal/chapter-048.md) |
+
+## Audited page records
+
+| Scan | Printed page | Tamil archival record | Maintained English record |
+|---:|---:|---|---|
+| 276 | 259 | [Tamil](../../pages/0276-kuraloviyam-259.md) | [English](../../translations/en/pages/0276-kuraloviyam-259.md) |
+| 277 | 260 | [Tamil](../../pages/0277-kuraloviyam-260.md) | [English](../../translations/en/pages/0277-kuraloviyam-260.md) |
+
+## Evidence note
+
+The Chapter/Kural assignment above is derived from the audited page-span closure recorded in S2. No external-edition inference is used.
+
+Crosswalk authority: [S2 master crosswalk](../crosswalk/S2_MASTER_CROSSWALK.tsv).
