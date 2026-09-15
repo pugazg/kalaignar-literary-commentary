@@ -1567,18 +1567,127 @@ Exact page-file set:
 
 This progress-record update is the sole intended non-page change after the Batch B15 page-layer endpoint.
 
+## Batch B16 — scans 376–400
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-15**
+- scans reviewed: **376–400 / 25**
+- controlling source: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf`
+- lexical lock used: `File8.md` — Book Pages **364–388**
+- batch base: `2899f0dd65e0d83051959f8791b1217ac4e8869b`
+- page-layer endpoint: `93e96b379921a161ab1ca393708f6f4d71408c09`
+- structurally changed page records: **9**
+- reviewed with no page-record change: **16** — scans **376, 378, 381, 384, 385, 386, 388, 390, 391, 392, 393, 394, 397, 398, 399, 400**
+- scan-led lexical corrections / modernizations: **0**
+- unresolved structural placement issues: **0**
+
+### Gate-B reconciliation performed
+
+1. **scan 376 — closure of `ஓர் உவமை; இரு காட்சி!`**
+   - glossary wording and structure were already aligned to File8 + the controlling scan;
+   - no repository change required.
+
+2. **scans 377–379 — `உச்சிக்குச் சென்ற நொச்சி!`**
+   - scan 377 restores File8-locked `பருந்துக்களும்`;
+   - scan 378 remains a full-page illustration;
+   - scan 379 preserves File8-locked split `ஊன் செத்துப்` inside the Purananuru quotation while retaining the PDF-controlled omission/provenance/gloss structure.
+
+3. **scans 380–383 — `பாறையில் உருகுது பசு வெண்ணெய்!`**
+   - scan 380 restores File8-locked `என்னைத்`; stray numeric `66` remains excluded;
+   - scan 381 remains a full-page illustration;
+   - scan 382 restores File8-locked `என்னுடலை`; File8-only `நும் காதல்` is unsupported by the scan and remains excluded as extraction debris;
+   - scan 383 restores File8-locked `அறிவுரைகளை`, `நும்குறை`, and `நிறுக்கல்`, while quotation/provenance/gloss placement remains PDF-controlled.
+
+4. **scans 384–386 — `தினைக் கதிரும் துதிக்கையும்!`**
+   - scan 384 was already aligned;
+   - scan 385 remains a full-page illustration;
+   - scan 386 already preserves the File8 wording and the source-controlled Kurinjippattu quotation/provenance/gloss structure;
+   - File8 math-like extraction debris around `நெடுவெதிர்` remains excluded.
+
+5. **scans 387–389 — `நிறைவுக்கிடையே ஒரு குறையும் உளதே!`**
+   - scan 387 restores File8-locked `தொகுப்பு` labels for 1–4 and removes three duplicated `(மனதுக்கோர்)` refrain labels not present in File8 or on the scan;
+   - scan 388 remains a full-page illustration;
+   - scan 389 restores File8-locked glossary form `உடைபெரும் செல்வர்`; stray numeric `66` remains excluded.
+
+6. **scans 390–392 — `ஆடலேறு; மடலேறி வாவா?`**
+   - scan 390 was already structurally aligned; stray File8 numeric `202` remains excluded;
+   - scan 391 remains a full-page illustration;
+   - scan 392 already places displaced locked tokens `அவள்` and `அந்தச்` according to the PDF and preserves quotation/provenance/gloss order.
+
+7. **scans 393–395 — `பல்லி சொல்லுக்குப் பலன்!`**
+   - scan 393 already uses the PDF to place locked `இதைப்` and `நான்`; Arabic-script extraction debris `موود` remains excluded;
+   - scan 394 remains a full-page illustration;
+   - scan 395 preserves File8-locked split `இறந் தோரே`; unsupported File8 fragment `இரும்பாலா` remains excluded as extraction debris.
+
+8. **scans 396–398 — `பாசியும் பசலையும்!`**
+   - scan 396 restores File8-locked song metadata form `திசிரஆதி`;
+   - scan 397 remains a full-page illustration;
+   - scan 398 was already aligned, including PDF-controlled quotation → provenance → `பொருள் விளக்கம்` order.
+
+9. **scans 399–400 — `ஒருத்தி மட்டும் உறங்கவில்லை!`**
+   - scan 399 was already structurally aligned; the source-supported placement of the repeated `நான்` cue is preserved;
+   - scan 400 remains a full-page illustration;
+   - the section continues into the next batch.
+
+### Illustration handling confirmed
+
+- scans **378, 381, 385, 388, 391, 394, 397, 400** are full-page illustrations;
+- no source-visible literary body text or printed page number is present on those scans;
+- all eight were reviewed and required **no repository change**.
+
+### Locked omissions / extraction exceptions carried forward
+
+- scan **380** — stray File8 numeric `66` excluded.
+- scan **382** — File8-only `நும் காதல்` excluded because the controlling scan does not support it.
+- scan **383** — visible-source alternatives differ from File8-locked `அறிவுரைகளை`, `நும்குறை`, and `நிறுக்கல்`; lexical lock preserved.
+- scan **386** — math-like extraction debris attached to `நெடுவெதிர்` excluded.
+- scan **389** — stray File8 numeric `66` excluded.
+- scan **390** — stray File8 numeric `202` excluded.
+- scan **393** — Arabic-script File8 token `موود` excluded.
+- scan **395** — unsupported File8 fragment `இரும்பாலா` excluded; locked split `இறந் தோரே` preserved.
+- scan **399** — File8's Unicode minus in the structural label is treated as punctuation/layout rather than a lexical difference.
+
+## Exact changed-file audit — Batch B16
+
+Page-layer compare:
+
+`2899f0dd65e0d83051959f8791b1217ac4e8869b` → `93e96b379921a161ab1ca393708f6f4d71408c09`
+
+Result:
+
+- **1 commit ahead**
+- **exactly 9 modified page files**
+- **0 other page files**
+- **0 non-page files at the page-layer endpoint**
+- scans **376, 378, 381, 384, 385, 386, 388, 390, 391, 392, 393, 394, 397, 398, 399, 400** reviewed with no change
+
+Exact page-file set:
+
+- `works/sangatamil/pages/0377-uchchikkuch-sendra-nocchi-01.md`
+- `works/sangatamil/pages/0379-uchchikkuch-sendra-nocchi-03.md`
+- `works/sangatamil/pages/0380-paaraiyil-urugudhu-pasu-venney-01.md`
+- `works/sangatamil/pages/0382-paaraiyil-urugudhu-pasu-venney-03.md`
+- `works/sangatamil/pages/0383-paaraiyil-urugudhu-pasu-venney-04.md`
+- `works/sangatamil/pages/0387-niraivukkidaiye-oru-kuraiyum-uladhe-01.md`
+- `works/sangatamil/pages/0389-niraivukkidaiye-oru-kuraiyum-uladhe-03.md`
+- `works/sangatamil/pages/0395-palli-sollukkup-palan-03.md`
+- `works/sangatamil/pages/0396-paasiyum-pasalaiyum-01.md`
+
+This progress-record update is the sole intended non-page change after the Batch B16 page-layer endpoint.
+
 ## Gate B cumulative state
 
-- structurally reviewed: **375/497**
-- structurally remaining: **122**
-- current frontier: **scan 376**
+- structurally reviewed: **400/497**
+- structurally remaining: **97**
+- current frontier: **scan 401**
 - Gate C: **NOT STARTED**
 
 ## Exact next activity
 
-Process **Gate B scans 376–400** against the remainder of `TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf` + `File8.md`.
+Process **Gate B scans 401–425** against `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf` + `File9.md`.
 
-Mapping: split-PDF pages **26–50 = physical scans 376–400**.
+Mapping: split-PDF pages **1–25 = physical scans 401–425**.
 
 Preserve the Gemini lexical lock and continue structural correction only. Do **not** start Gate C.
 
