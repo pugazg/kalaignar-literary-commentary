@@ -6,7 +6,7 @@ Active work: `works/kuraloviyam/`
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable Kuraloviyam work. Parts **001–005 are closed**; do not reopen them unless a genuinely new source/provenance/fidelity issue appears. Part 006 has Source Intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 and the Part audit complete; the exact live frontier is final metadata/status synchronization.
+Fetch live `main` first and preserve newer durable Kuraloviyam work. Parts **001–005 are closed**; do not reopen them unless a genuinely new source/provenance/fidelity issue appears. Part 006 has Source Intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 / Part audit / final metadata-status synchronization complete; the exact live frontier is documentation synchronization.
 
 ## Mandatory startup
 
