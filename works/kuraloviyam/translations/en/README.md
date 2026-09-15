@@ -303,7 +303,7 @@ GR1:
 - glossary record commit — `9cfe182dc5629ae11d34dc2462a1ce6879e9c8ae`;
 - all **37/37** pages remain `source-checked`.
 
-Current Part-006 English inventory remains:
+At the glossary-reconciliation closure checkpoint, the Part-006 English inventory was:
 
 - `source-checked` — **111**;
 - `draft` — **0**;
@@ -451,8 +451,36 @@ Current Part-006 English inventory:
 - `draft` — **0**;
 - release-ready / source-limited / blocked — **0**.
 
+## Part 006 English Part-level Review — PASS / CLOSED
+
+Durable record:
+
+`reviews/PART_006_ENGLISH_REVIEW.md`
+
+Whole-Part audit:
+
+- scope — **111 English records / scans 556–666**;
+- Tamil / English records present — **111/111 / 111/111**;
+- missing / extra Part-006 records — **0 / 0**;
+- pre-release state — **111 editorial-reviewed / 0 source-checked / 0 draft / 0 source-limited / 0 blocked / 0 release-ready**;
+- Tamil archival state — **111/111 textual + visual verified / 0 exceptions**;
+- Chapter/Kural metadata records carried through GR1–GR3 — **50 / 0 number mismatches**;
+- page functions — **102 body-prose + 8 contents-index + 1 back-cover**;
+- contents scans **658–665** remain source-keyed and complete through entry **300**;
+- scan **666** remains the unnumbered pictorial back cover / physical endpoint;
+- Part-review page wording changes — **0**;
+- Part-review page-status changes — **0**;
+- Tamil / glossary changes — **0 / 0**;
+- incoming **555→556 CLEAN / source-resolved** preserved;
+- **629→630 GENUINE CONTINUATION** preserved;
+- **657→658 CLEAN / transition to contents** preserved;
+- **658→665 contents continuation** preserved;
+- **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT** and **666 NO EXTERNAL CONTINUATION** preserved.
+
+The historical glossary-closure inventory is now labelled as a checkpoint rather than a current state.
+
 ## Current frontier
 
-**Part 006 English Part-level Review — whole Part 006 / scans 556–666.**
+**Part 006 English Release Report — whole Part 006 / scans 556–666.**
 
-Review the completed Part as a whole: verify the 111-page inventory/alignment, statuses, terminology and names, Kural/Chapter metadata, page functions, contents/index integrity, accumulated continuities, and physical source endpoint. Create the durable review record under `translations/en/reviews/`. Do not promote pages to `release-ready` at this gate.
+Use `reviews/PART_006_ENGLISH_REVIEW.md` as the authoritative prior gate. Decide release approval explicitly. If approved, create `reviews/PART_006_ENGLISH_RELEASE_REPORT.md` and promote eligible pages from `editorial-reviewed` to `release-ready` with status-token-only changes. Do not alter approved wording, Tamil records, glossary controls, metadata, contents/index keys, visual sections or boundary classifications.
