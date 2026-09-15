@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running author header; song conclusion; Purananuru quotation, provenance and பொருள் விளக்கம்; printed page number 377"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; quotation/provenance/gloss and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 388
 ---
@@ -48,9 +48,11 @@ continues_from_scan: 388
 ## பொருள் விளக்கம் :
 
 படைப்பு = செல்வம். படைத்து = உருவாக்கி.
-உடைப்பெரும் செல்வர் = உடைமைமிக்க செல்வத்தையுடையவர்.
+உடைபெரும் செல்வர் = உடைமைமிக்க செல்வத்தையுடையவர்.
 இடைப்பட = அதற்கிடையே. துழந்தும் = துழாவியும்.
 அடிசில் = சோறு. விதிர்த்தல் = இறைத்தல்.
 பயக்குறை = இன்பமெனும் இன்றியமையாப் பொருள்.
 
 *
+
+<!-- Gate B restores File8-locked glossary form `உடைபெரும் செல்வர்`; stray File8 numeric `66` remains excluded. -->

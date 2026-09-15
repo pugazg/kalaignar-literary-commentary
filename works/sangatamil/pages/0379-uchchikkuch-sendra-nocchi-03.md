@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running author header; section closure; Purananuru quotation, provenance and பொருள் விளக்கம்; final ornament; printed page number 367"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; quotation/provenance/gloss and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 378
 ---
@@ -26,7 +26,7 @@ continues_from_scan: 378
 > “........................................
 > ............................ இனியே
 > வெருவரு குருதியோடு மயங்கி, உருவு கரந்து,
-> ஒறுவாய்ப் பட்ட தெரியல் ஊன்செத்துப்
+> ஒறுவாய்ப் பட்ட தெரியல் ஊன் செத்துப்
 > பருந்துகொண்டு உகப்பயாம் கண்டனம்
 > மறம்புகல் மைந்தன் மலைந்த மாறே;”
 
@@ -46,3 +46,5 @@ continues_from_scan: 378
 மலைந்தமாறு = அணிந்திருந்ததால்.
 
 *
+
+<!-- Gate B preserves File8-locked `ஊன் செத்துப்` spacing within the quotation; the visible scan differs typographically, but lexical wording/spacing is not source-corrected during Gate B. -->

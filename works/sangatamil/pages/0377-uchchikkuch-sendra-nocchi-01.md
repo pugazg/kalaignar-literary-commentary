@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "decorative multicolour section heading; body text; printed page number 365"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; section heading and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -38,8 +38,10 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 கச்சணிந்து, கவசம்பூண்டு, கட்கமேந்திச் சென்றபோது
 நொச்சிமாலைச் சின்னத்தையும் அணிந்து சென்றிருந்தான்.
 அமர்க்களத்தில் அடுக்கடுக்காய் வீழ்ந்துள்ள பிணங்கள் தின்ன,
-அகன்ற வாய்ப் பருந்துகளும் வட்டமிட்டுச் சூழ்ந்தபோது;
+அகன்ற வாய்ப் பருந்துக்களும் வட்டமிட்டுச் சூழ்ந்தபோது;
 அவன் அணிந்திருந்த நொச்சிமாலை, குருதியில் நனைந்ததாலே;
 அதனையும் குடல் என்று கருதிப் பருந்து தூக்கிக்கொண்டு;
 ஆகாயத்தில் பறந்திட்ட காட்சியினைக் கண்டபோது;
 அஞ்சாநெஞ்சுடை வீரன் அணிந்திட்ட காரணத்தால் அன்றோ
+
+<!-- Gate B restores File8-locked `பருந்துக்களும்`; the surrounding paragraph/page structure remains controlled by the PDF. -->

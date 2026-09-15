@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "decorative multicolour section heading; song metadata and lyrics; printed page number 384"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; section heading, song labels and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -16,7 +16,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 
 இசைப்பாடல் :
 இராகம் : சங்கராபரணம்
-தாளம் : திசிர ஆதி
+தாளம்: திசிரஆதி
 
 (எடுப்பு)
 
@@ -53,3 +53,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 என்றுதான் கவலை விடுமோ?
 
 (செந்தமிழே)
+
+<!-- Gate B restores File8-locked `திசிரஆதி` and PDF-supported punctuation in the song metadata. -->

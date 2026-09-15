@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running author header; section closure; Kuruntokai quotation, provenance and பொருள் விளக்கம்; printed page number 371"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; quotation/provenance/gloss and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 382
 ---
@@ -29,7 +29,7 @@ continues_from_scan: 382
 நின்று கொண்டிருக்கும் பரிதாபத்தைப் போல்
 நீயும்; காதல் பிரிவால் உருகிக் கொண்டிருக்கும்
 எனக்கு
-நீண்ட அறிவுரைகளே நீட்டி முழக்குகின்றாய்!”
+நீண்ட அறிவுரைகளை நீட்டி முழக்குகின்றாய்!”
 
 வில்லேருழவன் - வீரர் திலகம் - வணங்காமுடியோன்
 விரகதாபத்தால் வெந்திடும் இதயத்தில் இனியும்
@@ -38,8 +38,8 @@ continues_from_scan: 382
 
 *
 
-> “இடிக்கும் கேளிர்! நுங்குறை ஆகம்
-> நிறுக்கும் ஆற்றினோ நன்றுமற் றில்ல;
+> “இடிக்கும் கேளிர்! நும்குறை ஆகம்
+> நிறுக்கல் ஆற்றினோ நன்றுமற் றில்ல;
 > ஞாயிறு காயும் வெவ்வறை மருங்கில்
 > கையில் ஊமன் கண்ணிற் காக்கும்
 > வெண்ணெய் உணங்கல் போலப்
@@ -59,3 +59,5 @@ continues_from_scan: 382
 கொள்ளுதல்.
 
 *
+
+<!-- Gate B restores File8-locked `அறிவுரைகளை`, `நும்குறை`, and `நிறுக்கல்`; visible-source alternatives are not substituted during the lexical-lock gate. -->

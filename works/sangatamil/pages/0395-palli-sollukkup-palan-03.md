@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running author header; song conclusion; Kuruntokai quotation, provenance and பொருள் விளக்கம்; printed page number 383"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; quotation/provenance/gloss and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 394
 ---
@@ -34,7 +34,7 @@ continues_from_scan: 394
 > பொன்புனை பகழி செப்பம் கொண்மார்
 > உகிர்நுதி புரட்டும் ஓசை போலச்
 > செங்காற் பல்லி தன்துணை பயிரும்
-> அங்காற் கள்ளியம் காடு இறந்தோரே”
+> அங்காற் கள்ளியம் காடு இறந் தோரே”
 
 *
 
@@ -49,3 +49,5 @@ continues_from_scan: 394
 பயிர் = ஒலிக்குறிப்பு. காடு இறந்தோர் = காட்டைக் கடந்தோர்.
 
 *
+
+<!-- Gate B preserves File8-locked split `இறந் தோரே`. File8 fragment `இரும்பாலா` is unsupported by the scan and remains excluded as extraction debris. -->

@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; narrative continuation and beginning of quoted paraphrase; printed page number 370"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 381
 ---
@@ -53,6 +53,8 @@ continues_from_scan: 381
 *
 
 “அறிவுரை நல்கிடும் அன்பு நண்பனே!
-அவ்வுரை என்னுடலே உருகாமல்
+அவ்வுரை என்னுடலை உருகாமல்
 தடுத்திடும் தன்மை கொண்டதாயின்
 தயங்காமல் ஏற்றிடுவேன்!
+
+<!-- Gate B restores File8-locked `என்னுடலை`. File8-only fragment `நும் காதல்` is unsupported by the controlling scan and remains excluded as extraction debris. -->

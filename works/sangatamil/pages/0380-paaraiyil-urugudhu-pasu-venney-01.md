@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "decorative multicolour section heading; body text; printed page number 368"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; section heading and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -16,7 +16,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 
 “அன்புள்ளம் கொண்டவனே! அருமை மிகு நண்பனே!
 என்புருக வாடுகின்றேன் நான்” என்று
-புன்முறுவல் பூத்தபடி நீ என்னை
+புன்முறுவல் பூத்தபடி நீ என்னைத்
 துன்புறுத்தும் நோய்தன்னை அறியாமல்
 இடித்துரைத்து ஏகடியம் புரிகின்றாய்!
 வெடித்து மணம் கமழுகின்ற முல்லைப் பூ
@@ -49,3 +49,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 மாங்கனியைப் பறித்தான் பார்த்தேன்; என்
 கரத்தில் தந்த மாங்கனியை; தந்த மரமே
 திரும்ப எடுத்துச் சென்றது ஏனோ? ஏங்குகின்றேன்!
+
+<!-- Gate B restores File8-locked `என்னைத்`; stray File8 numeric `66` remains excluded as extraction debris. -->
