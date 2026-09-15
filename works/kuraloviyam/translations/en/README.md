@@ -479,8 +479,35 @@ Whole-Part audit:
 
 The historical glossary-closure inventory is now labelled as a checkpoint rather than a current state.
 
+## Part 006 English Release — APPROVED / CLOSED
+
+Durable release report:
+
+`reviews/PART_006_ENGLISH_RELEASE_REPORT.md`
+
+Release result:
+
+- Part scope — scans **556–666 / 111 English records**;
+- approved for release — **111/111**;
+- promotion base — `50e9d9a1f281b0e33213c31a0f105d0cdc602789`;
+- promotion endpoint — `d6e36e5c1728ac29a07bed39770c34ee6439a593`;
+- promotion compare — **8 commits / exactly 111 changed English page files / 0 non-page changes**;
+- every release-page diff — **status-token-only / +1 -1**;
+- final English state — **111 release-ready / 0 editorial-reviewed / 0 source-checked / 0 draft / 0 source-limited / 0 blocked**;
+- approved English wording changes during release — **0**;
+- Tamil / glossary / metadata / visual / contents-index changes during release — **0**;
+- scans **658–665** remain the complete source-keyed contents run;
+- scan **666** remains the unnumbered pictorial back cover / physical endpoint;
+- **555→556 CLEAN / source-resolved** preserved;
+- **629→630 GENUINE CONTINUATION** preserved;
+- **657→658 CLEAN / transition to contents** preserved;
+- **658→665 contents continuation** preserved;
+- **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT** and **666 NO EXTERNAL CONTINUATION** preserved.
+
+Part 006 Tamil remains **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified / 0 exceptions**.
+
 ## Current frontier
 
-**Part 006 English Release Report — whole Part 006 / scans 556–666.**
+**Part 006 final closure checkpoint / documentation confirmation.**
 
-Use `reviews/PART_006_ENGLISH_REVIEW.md` as the authoritative prior gate. Decide release approval explicitly. If approved, create `reviews/PART_006_ENGLISH_RELEASE_REPORT.md` and promote eligible pages from `editorial-reviewed` to `release-ready` with status-token-only changes. Do not alter approved wording, Tamil records, glossary controls, metadata, contents/index keys, visual sections or boundary classifications.
+Create the final durable Part-006 closure record and synchronize the remaining whole-work control documents to the final Tamil + English closed state. This checkpoint should mark the six-part `குறளோவியம்` source family complete without changing approved page-layer content.
