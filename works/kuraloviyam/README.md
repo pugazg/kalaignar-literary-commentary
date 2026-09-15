@@ -13,7 +13,7 @@ The complete source is reported as **666 physical PDF pages**, split into six Pa
 | 003 | 223–333 | **Tamil + English CLOSED — final Part checkpoint PASS / CLOSED; 111/111 English release-ready** |
 | 004 | 334–444 | **Tamil + maintained English FULLY CLOSED — 111/111 release-ready English** |
 | 005 | 445–555 | **Tamil + maintained English FULLY CLOSED — 111/111 release-ready English** |
-| 006 | 556–666 | **Tamil Part audit PASS / COMPLETE — 111/111 still needs-review / visual needs-review; final metadata/status synchronization next** |
+| 006 | 556–666 | **Tamil final metadata/status synchronization PASS / CLOSED — 111/111 textual verified + 111/111 visual verified; documentation synchronization next** |
 
 Permanent workflow policy: [`../../KURALOVIYAM_ARCHIVAL_GUIDELINES.md`](../../KURALOVIYAM_ARCHIVAL_GUIDELINES.md).
 
