@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -21,7 +21,7 @@ The leader said to him:
 
 The emperor, who had listened with his head bowed, took both the leader's hands and said with emotion:
 
-"My friend! I know your steadfastness. Whether in friendship or enmity, you stand firm in one position. Trust me. I regret the cruelties inflicted upon the people. If once again you stand with me on behalf of the people, I will regain the kingdom I lost, never forget my gratitude, honour your friendship forever, and protect the people."
+"My friend! I know your steadfastness. Whether in friendship or enmity, you remain steadfast in your stand. Trust me. I regret the cruelties inflicted upon the people. If once again you stand with me on behalf of the people, I will regain the kingdom I lost, never forget my gratitude, honour your friendship forever, and protect the people."
 
 The leader's heart melted. He promised to support the emperor and immediately announced that decision to the people of the country.
 

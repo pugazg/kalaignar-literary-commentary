@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -17,7 +17,7 @@ From the time they were foals, he fed horses properly, built up their strength, 
 
 He had read many books and research essays on breeds of horses. The horses he raised were sturdy, powerful animals capable of bringing victory with ease.
 
-His supporters wished to hold a celebration honouring his long years of technical skill and a fine book he had compiled from many works on horse-rearing.
+His supporters wished to hold a celebration honouring his long years of professional expertise and a fine book he had compiled from many works on horse-rearing.
 
 Wanting the event to be distinguished in every way, they invited eminent leaders and scholars from many fields.
 

@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -23,7 +23,7 @@ The man, deep in sleep, rolled over. As he turned, his hand came down hard upon 
 
 With lightning speed the "cobra friend" hissed and raised its hood. In that same flash of fury, its poisonous fangs sank deeply into the man's neck.
 
-Channels of venom rushed toward the brain and heart, both very near.
+The venom surged through its channels toward the nearby brain and heart.
 
 Friendship hoisted the flag of poison. The friend's life too flew away.
 

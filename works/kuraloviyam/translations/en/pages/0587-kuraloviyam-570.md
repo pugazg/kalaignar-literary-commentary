@@ -6,14 +6,14 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
 Many rulers from neighbouring lands joined together, declaring that this king who caused suffering should no longer remain in power. They surrounded him with a great army.
 
-Those who encircled him were rulers of small territories, men who had stood only as minor kings. Yet, as little drops make a great flood, their amassed forces struck the emperor's fortress.
+Those who encircled him were rulers of small territories, mere minor kings. Yet, as little drops make a great flood, their amassed forces struck the emperor's fortress.
 
 Thrown into disorder by the sudden attack, the emperor abandoned the fort to the enemy and escaped with a few warriors and one or two commanders.
 
