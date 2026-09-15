@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 006 English Glossary Reconciliation GR1
+# NEXT CHAT PROMPT — குறளோவியம் / Part 006 English Glossary Reconciliation GR2
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -39,57 +39,17 @@ Current user-directed normal batch size:
 
 **37 physical scans per iteration**
 
-## Part 006 drafting — COMPLETE / CLOSED 111/111
+## Durable Part 006 English state
 
-- D1 — **556–592 / 37/37 COMPLETE / PASS**;
-- D2 — **593–629 / 37/37 COMPLETE / PASS**;
-- D3 — **630–666 / 37/37 COMPLETE / PASS**.
+Drafting is **COMPLETE / CLOSED 111/111**.
 
-## Part 006 source-check — COMPLETE / CLOSED 111/111
+Source-check is **COMPLETE / CLOSED 111/111**:
 
-SC1:
+- SC1 — scans **556–592 / printed 539–575 — COMPLETE / PASS 37/37**;
+- SC2 — scans **593–629 / printed 576–612 — COMPLETE / PASS 37/37**;
+- SC3 — scans **630–666 / printed 613–648 + unnumbered back cover — COMPLETE / PASS 37/37**.
 
-- scans **556–592 / printed 539–575**;
-- **37/37 COMPLETE / PASS**;
-- endpoint — `8baca75a8efd00db5a05de425305f244c1c19120`.
-
-SC2:
-
-- scans **593–629 / printed 576–612**;
-- **37/37 COMPLETE / PASS**;
-- endpoint — `0c2d08993de3ba3d8b4df9c8bd5fe12b58ed22c0`.
-
-SC3:
-
-- scans **630–666 / printed 613–648 + unnumbered back cover**;
-- **37/37 COMPLETE / PASS**;
-- page-layer base — `ba1391558c55e0a2917af872b6fbc42c0af8f064`;
-- endpoint — `35f666f3ab3e904565c5c24deecbffc034133a39`;
-- exact compare — **3 commits / exactly 37 modified English page files / 0 non-page changes / 0 Tamil changes**;
-- source-fidelity/page-function repairs — **19 page files**;
-- status-only promotions — **18 page files**.
-
-SC3 notable repairs:
-
-- **635–636** — restored physical sentence split at `உண்மையை / உணர்ந்து...`;
-- **641–642** — restored physical sentence/list split at `பறந்து திரியும் / புறாக்களையும்...`;
-- **645–646** — restored source image `பழுப்பு இலை` as **“the brown leaf”**;
-- **648–649** — restored physical boundary and source `கோடி` force without unsupported “mountains of reward” wording;
-- **650–651** — restored physical sentence split at `அவர் இருக்குமிடம் எனக்குத் / தெரிந்தாலாவது...`;
-- **658–665** — removed non-source project-explanatory body prose, aligned section metadata to **Contents**, and preserved source index lines exactly;
-- **665** — library stamp retained only as non-source **Visual material**;
-- **666** — section metadata aligned to **Back cover**, with factual visual description and no invented body prose.
-
-Contents audit:
-
-- scans **658–665** — **8/8** directly checked;
-- all numbered/sub-lettered index-entry lines match the audited Tamil records exactly;
-- entry-line counts by scan — **40, 46, 46, 46, 46, 46, 46, 40**;
-- fourth-edition orthography note on scan **665** preserved;
-- **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**;
-- **666 — NO EXTERNAL CONTINUATION**.
-
-Current Part-006 English state:
+Current Part-006 page status:
 
 - `source-checked` — **111**;
 - `draft` — **0**;
@@ -98,11 +58,60 @@ Current Part-006 English state:
 - `source-limited` — **0**;
 - `blocked` — **0**.
 
-## Exact next activity — Glossary Reconciliation GR1
+## Part 006 Glossary Reconciliation GR1 — COMPLETE / PASS 37/37
+
+GR1 range:
+
+**scans 556–592 / printed 539–575**
+
+English page-layer base:
+
+`a230f74a9d027435a009cd3569dec70f5f907b9b`
+
+English page-layer endpoint:
+
+`42d9df79adc7d4e2cf7f1ef42bbf3fa272fe60a4`
+
+Exact page-layer compare:
+
+- **1 commit ahead / non-divergent**;
+- exactly **4 modified English page files**;
+- changed scans — **561, 562, 563, 579**;
+- Tamil page changes — **0**;
+- non-English-page changes — **0**;
+- page-status changes — **0**.
+
+GR1 terminology repairs:
+
+- scans **561–563** — `Azhagan` → established project spelling **Alagan**;
+- scans **561–563** — paired `Azhagi` → **Alagi**;
+- scan **579** — source honorific `காந்தியடிகள்` reconciled from **Gandhiji** to established project form **Gandhi**.
+
+GR1 glossary record:
+
+- commit — `9cfe182dc5629ae11d34dc2462a1ce6879e9c8ae`;
+- six Part-006-first Chapter controls added:
+  - `சுற்றந்தழால்` → **Cherishing Kindred**;
+  - `மருந்து` → **Medicine**;
+  - `வாழ்க்கைத் துணைநலம்` → **The Worth of a Life-Partner**;
+  - `குடிமை` → **Nobility of Birth**;
+  - `நடுவு நிலைமை` → **Impartiality**;
+  - `புல்லறிவாண்மை` → **Petty Knowledge**;
+- all **18 Chapter/Kural metadata records** checked with **0 number mismatches**;
+- **15 source-printed lexical glosses** recorded from the audited Tamil;
+- source-bounded names/places on scan **590** preserved without external historical correction;
+- all **37/37** GR1 pages remain `status: "source-checked"`.
+
+Boundaries:
+
+- incoming **555→556 CLEAN / source-resolved**;
+- outgoing **592→593 CLEAN**.
+
+## Exact next activity — Glossary Reconciliation GR2
 
 Process exactly:
 
-**scans 556–592 / printed 539–575 — 37 English page records.**
+**scans 593–629 / printed 576–612 — 37 English page records.**
 
 Use the current `GLOSSARY.md` as the control vocabulary.
 
@@ -120,7 +129,7 @@ For every page in the range, reconcile:
 
 ## Glossary discipline
 
-- add to `GLOSSARY.md` only terms actually evidenced in scans **556–592**;
+- add to `GLOSSARY.md` only terms actually evidenced in scans **593–629**;
 - reuse an existing project control where the same Tamil term/name is already controlled;
 - do not mechanically force one English word where context requires a different rendering;
 - do not import terminology from external editions, the web, or memory;
@@ -129,33 +138,34 @@ For every page in the range, reconcile:
 - this gate makes **no page-status promotion**;
 - all passing pages remain `status: "source-checked"`.
 
-## GR1 boundary discipline
+## GR2 boundary discipline
 
 Incoming:
 
-- **555→556 CLEAN / source-resolved**.
+- **592→593 CLEAN**.
 
 Outgoing:
 
-- **592→593 CLEAN**.
+- **629→630 GENUINE CONTINUATION**;
+- scan 629 begins the lover-in-the-heart vignette and scan 630 continues it.
 
-Do not create a cross-boundary continuation where the source has none.
+Do not force a narrative closure at the workflow batch edge.
 
-## Required GR1 completion audit
+## Required GR2 completion audit
 
-After GR1:
+After GR2:
 
-- confirm **37/37** scans **556–592** were checked against `GLOSSARY.md` and audited Tamil context;
+- confirm **37/37** scans **593–629** were checked against `GLOSSARY.md` and audited Tamil context;
 - record new/reused Chapter-label controls;
 - record narrative/place/literary controls actually evidenced;
 - record source-printed lexical glosses actually evidenced;
 - list every English page changed for terminology consistency;
 - confirm **all 37/37 remain source-checked**;
 - confirm **0 Tamil changes**;
-- compare the pre-GR1 checkpoint to the GR1 endpoint;
+- compare the pre-GR2 page-layer checkpoint to the GR2 page-layer endpoint;
 - distinguish `GLOSSARY.md` changes from English page wording changes;
 - update `TRANSLATION_STATUS.md` and relevant control docs.
 
-After GR1, the next glossary batch under the 37-page cadence is:
+After GR2, the next glossary batch under the 37-page cadence is:
 
-**GR2 — scans 593–629 / printed 576–612 — 37 pages.**
+**GR3 — scans 630–666 — 37 physical scans**, covering printed **613–648** plus scan **666 / unnumbered pictorial back cover**.
