@@ -1517,8 +1517,66 @@ Current Part-006 English inventory remains:
 - `source-limited` — **0**;
 - `blocked` — **0**.
 
+## Part 006 English editorial review — ER1 COMPLETE / PASS 37/37
+
+ER1 covers:
+
+**scans 556–592 / printed 539–575 — 37 pages.**
+
+Pre-ER1 live-main checkpoint:
+
+`9240c884195e9368f5d50442a7e843ecd6e83cbb`
+
+ER1 English page-layer endpoint:
+
+`c8f740e10758fc84d85bd9b05199d14928e69dae`
+
+Exact page-layer compare:
+
+- **4 commits ahead / non-divergent**;
+- exactly **37 modified English page files**;
+- exactly **13 page files** contain source-faithful wording repairs plus status promotion;
+- exactly **24 page files** are status-only promotions;
+- Tamil page changes — **0**;
+- non-page/control-file changes during the page-layer pass — **0**.
+
+Editorial wording repairs:
+
+- scan **557** — smoothed the awkward rendering of `வல்லார் வகுத்த தடியாட்சிகள்` while preserving the source's criticism of coercive rule;
+- scan **558** — improved the closing rhetorical sentence without changing the common-ownership / Valluvar meaning;
+- scan **561** — removed redundant wording in the sentence explaining why Alagan's name suited him;
+- scan **563** — repaired the awkward phrase `move first` → **make the first move**;
+- scan **573** — clarified Nannan's immediate pretence after Uthiyan groaned;
+- scan **577** — replaced the misleading self-devaluation wording with a source-faithful rendering of rejecting self-interest while cherishing self-respect;
+- scan **579** — clarified the Gandhi / marriage sentence and removed the ambiguous `The one who first refused` construction;
+- scan **581** — `Two thousand years ago itself` → natural English **As early as two thousand years ago**;
+- scan **585** — removed redundancy in the shrivelled-mango comparison;
+- scan **587** — smoothed the description of the minor rulers;
+- scan **588** — `stand firm in one position` → **remain steadfast in your stand**;
+- scan **589** — `long years of technical skill` → **long years of professional expertise**;
+- scan **592** — clarified the venom sentence while preserving the source image of poison surging toward the nearby brain and heart.
+
+Status discipline:
+
+- all **37/37** ER1 pages moved from `source-checked` to `editorial-reviewed`;
+- Part-006 English inventory is now:
+  - `editorial-reviewed` — **37**;
+  - `source-checked` — **74**;
+  - `draft` — **0**;
+  - `release-ready` — **0**;
+  - `source-limited` — **0**;
+  - `blocked` — **0**.
+
+Boundary discipline:
+
+- incoming **555→556 CLEAN / source-resolved** preserved;
+- outgoing **592→593 CLEAN** preserved;
+- all cross-page narrative/quotation continuities inside ER1 remain intact.
+
+No Tamil archival record changed. No external edition, web source, standard English Kural wording or remembered translation was imported.
+
 ## Exact next activity
 
-**Part 006 English Editorial Review ER1 — scans 556–592 / printed 539–575 — 37 pages.**
+**Part 006 English Editorial Review ER2 — scans 593–629 / printed 576–612 — 37 pages.**
 
-Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity. Consult the audited Tamil when an editorial change could affect meaning. Passing pages may move from `source-checked` to `editorial-reviewed`.
+Continue the same editorial gate: review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity. Consult the audited Tamil whenever an editorial change could affect meaning. Passing pages may move from `source-checked` to `editorial-reviewed`. Preserve outgoing **629→630 GENUINE CONTINUATION**.
