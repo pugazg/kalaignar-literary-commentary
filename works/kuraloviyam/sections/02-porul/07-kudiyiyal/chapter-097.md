@@ -1,0 +1,16 @@
+# அதிகாரம் 97
+
+- Book: **பொருட்பால் / Book of Porul**
+- Iyal: **குடியியல்** — derived navigation placement
+- controlled English label: **Honour**
+- source Tamil form: **மானம்**
+
+## Maintained control evidence
+
+| Tamil source form | Controlled English | Evidence note |
+|---|---|---|
+| மானம் | Honour | Chapter 97 label on scan 456 / printed 439. |
+
+## Entry crosswalk
+
+The exact source contents entries are preserved under `../../../04-contents/`. Entry-to-Adhikaram links are intentionally deferred until each entry span is checked against its audited closing Chapter/Kural metadata; no external-edition inference is used here.
