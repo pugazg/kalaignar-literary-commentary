@@ -178,16 +178,93 @@ Exact page-file set:
 
 This progress-record update is the sole intended non-page change after the Batch B02 page-layer endpoint.
 
+## Batch B03 — scans 51–75
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-15**
+- scans reviewed: **51–75 / 25**
+- controlling source: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_002_pages_51-100.pdf`
+- lexical lock used: `File2.md`
+- batch base: `c405f35dd824c98ab283718ab894719bb72bb19c`
+- page-layer endpoint: `5134f71106756497b79552b5cd27fe8985cbde5b`
+- structurally changed page records: **7**
+- reviewed with no page-record change: **18**
+- scan-led lexical corrections / modernizations: **0**
+- Gemini-lock restoration required: **scan 75**
+- unresolved structural placement issues: **0**
+
+### Structural corrections made
+
+1. **scan 53 — `0053-maatharin-kanda-malargal-04.md`**
+   - preserved the source-visible leading quotation asterisk as a literal marker rather than allowing Markdown to treat it as list syntax.
+
+2. **scan 58 — `0058-nellum-uyir-anre-neerum-uyir-anre-04.md`**
+   - preserved the source-visible leading quotation asterisk.
+
+3. **scan 63 — `0063-oorin-perumai-unarnthavar-oruthi-05.md`**
+   - preserved the source-visible leading quotation asterisk.
+
+4. **scan 69 — `0069-vaanan-manandha-vannath-thirumagal-05.md`**
+   - preserved the source-visible leading quotation asterisk;
+   - removed an extra separator that had been inserted between the Sangam quotation and its provenance block; the scan places provenance directly after the quotation, followed by the separator before `பொருள் விளக்கம்`.
+
+5. **scan 70 — `0070-oru-vaathu-magal-in-pulambal-01.md`**
+   - recorded the full source section identity `ஒரு பொது மகளின் புலம்பல்!` in metadata;
+   - kept the File2-locked body heading `பொது மகளின் புலம்பல்!` because the leading source word `ஒரு` is absent from Gemini and may not be silently added under Gate B.
+
+6. **scan 73 — `0073-oru-pothu-magalin-pulambal-04.md`**
+   - preserved the source-visible leading quotation asterisk.
+
+7. **scan 75 — `0075-pisiranthaiyar-1-01.md`**
+   - replaced earlier source-led lexical substitutions with the supplied File2 wording while preserving the scan-supported heading, lineation and printed pagination;
+   - restored locked forms including `வெற்றிகளைக்`, `வளைந்திட்ட ஆட்சிக்கோலை`, `நாட்டு நிலையை`, `அவனைச் சந்திக்கச்`, `அனிச்சமலர்`, `நாலைந்து பேர்வழிகள்`, `அரசுத்துறையோர்`, `அடுத்தடுத்துக் கெடுக்கலானார்`, `பெருக்கலானார்`, and `எனப்பயந்த`.
+
+### Special-page handling confirmed
+
+- scans **52, 56, 60, 66, 72** — full-page illustrations preserved as separate physical records with no invented printed pagination;
+- scan **60** — File2's blank-page label remains subordinate to the controlling PDF, which clearly shows an illustration;
+- running headers / author headers remain page furniture and are not merged into literary body text.
+
+### Locked lexical exception carried forward
+
+- scan **70** — source heading visibly contains leading `ஒரு`, while File2 locks the body heading without it. The discrepancy is documented; no lexical recovery was performed.
+
+## Exact changed-file audit — Batch B03
+
+Page-layer compare:
+
+`c405f35dd824c98ab283718ab894719bb72bb19c` → `5134f71106756497b79552b5cd27fe8985cbde5b`
+
+Result:
+
+- **8 commits ahead**
+- **exactly 7 modified page files**
+- **0 other page files**
+- **0 non-page files at the page-layer endpoint**
+
+Exact page-file set:
+
+- `works/sangatamil/pages/0053-maatharin-kanda-malargal-04.md`
+- `works/sangatamil/pages/0058-nellum-uyir-anre-neerum-uyir-anre-04.md`
+- `works/sangatamil/pages/0063-oorin-perumai-unarnthavar-oruthi-05.md`
+- `works/sangatamil/pages/0069-vaanan-manandha-vannath-thirumagal-05.md`
+- `works/sangatamil/pages/0070-oru-vaathu-magal-in-pulambal-01.md`
+- `works/sangatamil/pages/0073-oru-pothu-magalin-pulambal-04.md`
+- `works/sangatamil/pages/0075-pisiranthaiyar-1-01.md`
+
+This progress-record update is the sole intended non-page change after the Batch B03 page-layer endpoint.
+
 
 ## Gate B cumulative state
 
-- structurally reviewed: **50/497**
-- structurally remaining: **447**
-- current frontier: **scan 51**
+- structurally reviewed: **75/497**
+- structurally remaining: **422**
+- current frontier: **scan 76**
 - Gate C: **NOT STARTED**
 
 ## Exact next activity
 
-Process **Gate B scans 51–75** against the controlling PDF + `File2.md`.
+Process **Gate B scans 76–100** against `TVA_BOK_0042551_சங்கத்_தமிழ்_part_002_pages_51-100.pdf` + `File2.md`.
 
 Preserve the Gemini lexical lock and continue structural correction only. Do **not** start Gate C.
