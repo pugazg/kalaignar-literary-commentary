@@ -415,12 +415,16 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - Pass 3 Batch 8 — **633–643 / printed 616–626 — COMPLETE 11/11**;
 - Pass 3 Batch 9 — **644–654 / printed 627–637 — COMPLETE 11/11**;
 - Pass 3 Batch 10 — **655–665 / printed 638–648 — COMPLETE 11/11**;
-- Batches 8–10 structural/visual corrections — **0**;
-- Batches 8–10 lexical/body-text changes — **0**;
-- Batches 8–10 page-layer compare — `860a8693efd2234cea45a22ed8ab66f2fa73da8c` → same commit — **identical / 0 changed files**;
-- cumulative Pass 3 — **110/111**;
-- exact next stage — **Pass 3 final remainder / scan 666 / unnumbered pictorial back cover — 1 scan**.
+- Pass 3 final remainder — **666 / unnumbered pictorial back cover — COMPLETE 1/1 / PASS**;
+- final-remainder structural/visual corrections — **0**;
+- final-remainder lexical/body-text changes — **0**;
+- final-remainder page-layer compare — `c51b18d49513a78c26be806384875b0cf7ee9245` → same commit — **identical / 0 changed files**;
+- Pass 3 structural/visual corrections overall — **2 page records / scans 611 and 631**;
+- Pass 3 lexical/body-text changes overall — **0**;
+- Pass 3 — **COMPLETE / PASS 111/111**;
+- all 111 records remain `needs-review` / visual `needs-review`;
+- exact next stage — **Part 006 audit**.
 
 ## Exact next activity
 
-Proceed with **Part 006 Pass 3 final remainder / scan 666 — 1 scan**. Batches 1–10 are **COMPLETE 110/111**. Preserve **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT** and keep statuses unchanged.
+Proceed with the **Part 006 audit** across scans **556–666 / local pages 1–111 / printed 539–648 plus unnumbered back cover**. Verify inventory, mapping, source identity, gate closure, continuity, Kural/metadata and page-function structure, source limits and pre-final status discipline. Do not promote statuses during the audit.
