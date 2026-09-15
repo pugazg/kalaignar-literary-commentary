@@ -1249,16 +1249,116 @@ Exact page-file set:
 
 This progress-record update is the sole intended non-page change after the Batch B12 page-layer endpoint.
 
+## Batch B13 — scans 301–325
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-15**
+- scans reviewed: **301–325 / 25**
+- controlling source: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_007_pages_301-350.pdf`
+- lexical lock used: `File7.md` — Phase 16 / Book Pages 290–314 for this physical-scan batch
+- batch base: `f448df922f91c9d31bed1bfa056b98f8acf0db27`
+- page-layer endpoint: `82401ef7c9b0b1b9cec71b6b1f8ff2be50537da5`
+- structurally changed page records: **6**
+- reviewed with no page-record change: **19** — scans **301, 302, 303, 304, 305, 306, 308, 311, 314, 315, 316, 317, 318, 319, 320, 321, 322, 324, 325**
+- scan-led lexical corrections / modernizations: **0**
+- unresolved structural placement issues: **0**
+
+### Gate-B reconciliation performed
+
+1. **scans 301–302 — closure of `உண்பது நாழி; உடுப்பவை இரண்டே!`**
+   - scan 301 is a full-page colour illustration and required no repository change;
+   - scan 302 already preserved the PDF-controlled quotation continuation → separator → provenance → `பொருள் விளக்கம்` → glossary order;
+   - stray File7 numeric `6` in `தெண்கடல் வளாகம் =6` remains excluded as extraction debris.
+
+2. **scans 303–308 — `பரிபாடல்- பன்மலர்ப் பூங்கா!`**
+   - scan 303 already preserved the source-visible decorative section identity; stray File7 heading numeric `2` remains excluded;
+   - scan 304 already corrected File7's displaced `இப்படித்` to the PDF-supported position before the `திகைத்துத் தடுமாறி...` passage;
+   - scan 305 remains a full-page illustration;
+   - scan 306 already excluded File7 page-wrapper debris `ம` and the non-source checkbox-like marker while preserving the source separator and narrative structure;
+   - scan 307 restores File7-locked `நிர்வாணக்`; mixed-script File7 token `பிOPற்றங்கே!` is treated as obvious unsupported extraction debris and excluded rather than source-recovered;
+   - scan 308 already preserved quotation continuation → separator → provenance → `பொருள் விளக்கம்` structure.
+
+3. **scans 309–313 — `முரசு கட்டிலில் மோசுகீரனார்!`**
+   - scan 309 keeps the source-visible section identity in metadata but restores File7-locked decorative body heading `முரசு கட்டிலில் / மோசுகீானர்!`;
+   - scan 310 removes File7's displaced duplicate structural placement of `அந்தப்`, retaining the single locked token at the PDF-supported end of `நீராட்டி எடுத்து வர வீரர் சிலர் - அந்தப்`;
+   - scan 311 remains a full-page illustration;
+   - scan 312 preserves File7-locked `என்றர்ந்தார்` and `இஃதெ`, while displaced locked tokens `இந்தச்`, `எனைக்`, and both `புலவர்!` occurrences remain placed according to the PDF; stray numeric `66` remains excluded;
+   - scan 313 restores File7-locked glossary reading `வார்புறுவள்பின்`; quotation lineation and source order remain PDF-controlled.
+
+4. **scans 314–317 — `அடையாளம் தெரியாமல் அலையுதோ நெஞ்சம்!`**
+   - scan 314 was already structurally correct, including the PDF-supported placement of locked `உன்` before `பூவிதழை...` and page-end `என்நெஞ்சம்`;
+   - scan 315 remains a full-page illustration;
+   - scan 316 already excludes File7 page-wrapper fragment `கோன்` and stray numeric `66`, while preserving locked narrative wording in PDF order;
+   - scan 317 already preserves quotation → provenance → `பொருள் விளக்கம்`; stray File7 numeric `61` in the glossary remains excluded.
+
+5. **scans 318–322 — `கள் உண்ட கடுவன்!`**
+   - scan 318 was already structurally aligned;
+   - scan 319 remains a full-page illustration;
+   - scans 320–322 already preserve File7 lexical wording with PDF-controlled prose/quotation placement;
+   - stray File7 numeric `66` on scan 321 remains excluded;
+   - scan 322 closes the section with quotation continuation → separator → provenance → `பொருள் விளக்கம்`.
+
+6. **scans 323–325 — `ஒரு கோடி வாழ்த்துக் கூறிடுவோம்!`**
+   - scan 323 restores File7-locked `கனிச்` to its PDF-supported right-edge position before `சாற்றுத் தமிழ்க் கவியாலே`;
+   - locked `படையோ` is restored as the right-edge continuation of `பெரும்பாணாற்றுப்` rather than remaining merged into a flattened line;
+   - scan 324 was already structurally aligned with its displaced File7 carryovers returned to the source-supported prose order;
+   - scan 325 remains a full-page illustration and the section continues beyond the batch frontier.
+
+### Illustration handling confirmed
+
+- scans **301, 305, 311, 315, 319, 325** are full-page colour illustrations;
+- no source-visible literary text or printed page number is present on those scans;
+- all six were reviewed and required **no repository change**.
+
+### Locked omissions / extraction exceptions carried forward
+
+- scan **302** — stray File7 numeric `6` excluded.
+- scan **303** — stray decorative-heading numeric `2` excluded.
+- scan **306** — File7 page-wrapper fragment `ம` and checkbox-like extraction marker excluded.
+- scan **307** — mixed-script token `பிOPற்றங்கே!` excluded as obvious extraction debris; it is not source-recovered in Gate B.
+- scan **309** — source heading reads `மோசுகீரனார்!`; File7 locks decorative body heading `மோசுகீானர்!`. Metadata/body authority split preserved.
+- scan **312** — stray File7 numeric `66` excluded; File7-locked `என்றர்ந்தார்` / `இஃதெ` preserved despite visible-source differences.
+- scan **316** — page-wrapper fragment `கோன்` and stray numeric `66` excluded.
+- scan **317** — stray glossary numeric `61` excluded.
+- scan **321** — stray numeric `66` excluded.
+- scan **323** — File7 extraction displaced `கனிச்` and `படையோ`; both are retained but moved to their PDF-supported positions.
+
+## Exact changed-file audit — Batch B13
+
+Page-layer compare:
+
+`f448df922f91c9d31bed1bfa056b98f8acf0db27` → `82401ef7c9b0b1b9cec71b6b1f8ff2be50537da5`
+
+Result:
+
+- **1 commit ahead**
+- **exactly 6 modified page files**
+- **0 other page files**
+- **0 non-page files at the page-layer endpoint**
+- scans **301, 302, 303, 304, 305, 306, 308, 311, 314, 315, 316, 317, 318, 319, 320, 321, 322, 324, 325** reviewed with no change
+
+Exact page-file set:
+
+- `works/sangatamil/pages/0307-paripaadal-panmalar-poongaa-05.md`
+- `works/sangatamil/pages/0309-murasu-kattilil-mosukeeranar-01.md`
+- `works/sangatamil/pages/0310-murasu-kattilil-mosukeeranar-02.md`
+- `works/sangatamil/pages/0312-murasu-kattilil-mosukeeranar-04.md`
+- `works/sangatamil/pages/0313-murasu-kattilil-mosukeeranar-05.md`
+- `works/sangatamil/pages/0323-oru-kodi-vaazhththuk-kooriduvom-01.md`
+
+This progress-record update is the sole intended non-page change after the Batch B13 page-layer endpoint.
+
 ## Gate B cumulative state
 
-- structurally reviewed: **300/497**
-- structurally remaining: **197**
-- current frontier: **scan 301**
+- structurally reviewed: **325/497**
+- structurally remaining: **172**
+- current frontier: **scan 326**
 - Gate C: **NOT STARTED**
 
 ## Exact next activity
 
-Process **Gate B scans 301–325** against the next controlling split covering physical scans **301–350** and the corresponding Gemini lexical lock **File7.md**.
+Process **Gate B scans 326–350** against `TVA_BOK_0042551_சங்கத்_தமிழ்_part_007_pages_301-350.pdf` + `File7.md` — continuing Phase 16 through the remainder of this split.
 
 Preserve the Gemini lexical lock and continue structural correction only. Do **not** start Gate C.
 
