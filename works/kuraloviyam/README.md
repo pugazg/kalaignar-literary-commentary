@@ -387,12 +387,13 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - Pass 3 Batch 4 — **589–599 / printed 572–582 — COMPLETE 11/11**;
 - Pass 3 Batch 5 — **600–610 / printed 583–593 — COMPLETE 11/11**;
 - Pass 3 Batch 6 — **611–621 / printed 594–604 — COMPLETE 11/11**;
-- Batch-6 structural/visual corrections — **1 page / scan 611**;
-- Batch-6 lexical/body-text changes — **0**;
-- Batch-6 page-layer compare — `f4f5ec2fc37b5641db5803b10f017d4d0ff85ef3` → `aff3b500eb1fd8c11e4d3adfd72c0048cf687585` — **1 commit / exactly scan 611 page file / +2 -2 / 0 other files**;
-- cumulative Pass 3 — **66/111**;
-- exact next stage — **Part 006 Pass 3 Batch 7 / scans 622–632 / printed 605–615 — 11 scans**.
+- Pass 3 Batch 7 — **622–632 / printed 605–615 — COMPLETE 11/11**;
+- Batch-7 structural/visual corrections — **1 page / scan 631**;
+- Batch-7 lexical/body-text changes — **0**;
+- Batch-7 page-layer compare — `29c69e398e6f849d0475d765a9792187022d274a` → `ed0bf49fb32504469e9640824ef62b3f8293568f` — **1 commit / exactly scan 631 page file / +1 -1 / 0 other files**;
+- cumulative Pass 3 — **77/111**;
+- exact next stage — **Part 006 Pass 3 Batch 8 / scans 633–643 / printed 616–626 — 11 scans**.
 
 ## Current frontier
 
-**Part 006 Pass 3 Batch 7 — scans 622–632 / printed 605–615 — 11 scans.**
+**Part 006 Pass 3 Batch 8 — scans 633–643 / printed 616–626 — 11 scans.**
