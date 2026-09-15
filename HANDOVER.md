@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Part 005 FULLY CLOSED; Part 006 Pass 1 COMPLETE 111/111; Pass 2A 99/111; Batch 10 scans 655–665 next**: **2026-09-14**.
+Last refreshed for Kuraloviyam **Parts 001–005 CLOSED; Part 006 Source Intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 COMPLETE 111/111; Part 006 audit next**: **2026-09-15**.
 
 ## Repository
 
