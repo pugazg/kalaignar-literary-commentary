@@ -182,6 +182,20 @@ Durable record: `../../PART_004_FINAL_CLOSURE.md`.
 
 The final checkpoint changed **0 English page records** and **0 Tamil records**. Scan **444 / printed 427** remains source-open; external **444→445 remains DEFERRED / UNRESOLVED**.
 
+## Part 005 English — FULLY CLOSED
+
+Part 005 has completed drafting, source-check, glossary reconciliation, editorial review, Part-level review, release, and final closure. Final English state: **111/111 `release-ready`**.
+
+## Part 006 Tamil — ARCHIVAL-READY / CLOSED
+
+- Tamil textual status — **111/111 verified**;
+- visual fidelity — **111/111 verified**;
+- exceptions — **0**;
+- Tamil archival-ready record — `../../PART_006_TAMIL_ARCHIVAL_READY.md`;
+- Part-006 English page inventory at Tamil closure — **0/111**.
+
 ## Current frontier
 
-**No remaining Part 004 English activity. Part 005 source intake awaits the controlling source.**
+**Part 006 English Draft D1 — scans 556–588 / printed 539–571 — 33 page-aligned records.**
+
+Use the audited Tamil page records as the normal translation authority. Translation identity is project-created. Do not import published, standard, web or remembered English Kural wording.
