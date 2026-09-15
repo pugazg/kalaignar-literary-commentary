@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 006 English Draft D3
+# NEXT CHAT PROMPT — குறளோவியம் / Part 006 English Source-Check SC1
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -12,15 +12,15 @@ Part 006 Tamil is:
 
 **ARCHIVAL-READY / CLOSED — 111/111 textual verified + 111/111 visual verified / 0 exceptions.**
 
-Normal English translation authority is the audited Tamil page layer under:
+Normal English source-check authority is the audited Tamil page layer:
 
 `works/kuraloviyam/pages/`
 
-Reopen the controlling PDF only if a genuinely new provenance/fidelity issue appears.
+The controlling PDF is reopened only if a genuinely new provenance/fidelity issue appears.
 
 ## English workflow policy
 
-Use:
+Read and preserve:
 
 - `works/kuraloviyam/translations/en/TRANSLATION_GUIDE.md`;
 - `works/kuraloviyam/translations/en/GLOSSARY.md`;
@@ -39,113 +39,120 @@ Current user-directed normal batch size:
 
 **37 physical scans per iteration**
 
-## Durable Part 006 English state
+## Part 006 drafting — COMPLETE / CLOSED 111/111
 
-Draft D1 — **COMPLETE / PASS 37/37**
+Draft D1:
 
 - scans **556–592 / printed 539–575**;
+- **37/37 COMPLETE / PASS**;
 - page-layer endpoint — `8ca4baeb33a8a45d13df372dc97acc705c1398e3`.
 
-Draft D2 — **COMPLETE / PASS 37/37**
+Draft D2:
 
 - scans **593–629 / printed 576–612**;
-- page-layer base — `7961c8869685814e213b0a6e891b5da878b0c126`;
-- page-layer endpoint — `9c09dfe256eb72e75beccc4ff6ba0d8c87e922da`;
-- exact compare — **6 commits / exactly 37 newly added English page files / 0 non-page changes / 0 Tamil changes**;
+- **37/37 COMPLETE / PASS**;
+- page-layer endpoint — `9c09dfe256eb72e75beccc4ff6ba0d8c87e922da`.
+
+Draft D3:
+
+- scans **630–666**;
+- printed **613–648** plus scan **666 / unnumbered pictorial back cover**;
+- **37/37 COMPLETE / PASS**;
+- page-layer base — `f88a79c563871669c96533c07d5d50f0f87d1e17`;
+- page-layer endpoint — `8a87fbe5cf0ee36858111f693805eb4ab64ad8b0`;
+- exact compare — **5 commits / exactly 37 new English page files / 0 non-page changes / 0 Tamil changes**;
 - `translation_type: "project_translation"` — **37/37**;
 - `status: "draft"` — **37/37**;
 - `source_tamil_status: "verified"` — **37/37**;
-- scans **593–629** represented exactly once;
+- scans **630–666** represented exactly once;
 - missing scans — **0**;
 - duplicate scans — **0**.
 
+D3 page-function handling:
+
+- incoming **629→630 GENUINE CONTINUATION** preserved;
+- scans **658–665** preserve the complete `பொருளடக்கம்` run;
+- on scans **658–665**, Tamil Kural incipits are retained verbatim as source index keys and printed-page locators are preserved exactly;
+- scan **665** includes the translated fourth-edition orthography note and identifies the blue library stamp as non-source material;
+- scan **666** is a factual pictorial back-cover record with no invented body prose;
+- **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT** preserved;
+- **666 — NO EXTERNAL CONTINUATION** preserved.
+
 Current Part-006 English inventory:
 
-- draft — **74**;
-- not yet drafted — **37**;
-- source-checked — **0**;
-- blocked/source-limited — **0**.
+- `draft` — **111**;
+- `source-checked` — **0**;
+- `editorial-reviewed` — **0**;
+- `release-ready` — **0**;
+- `source-limited` — **0**;
+- `blocked` — **0**.
 
-## Exact next activity — Draft D3
+## Exact next activity — Source-Check SC1
 
-Create first-pass English translation records for exactly:
+Process exactly:
 
-**scans 630–666 — 37 physical scans**
+**scans 556–592 / printed 539–575 — 37 English page records.**
 
-Coverage:
+For every page, compare the English record directly against its audited Tamil counterpart:
 
-- scans **630–665** = printed **613–648**;
-- scan **666** = **unnumbered pictorial back cover**.
-
-Incoming boundary:
-
-- **629→630 GENUINE CONTINUATION**;
-- scan 630 continues and closes the `காதற் சிறப்புரைத்தல்` / lover-in-the-heart vignette begun on scan 629.
-
-Final source boundary:
-
-- scans **658–665** = complete `பொருளடக்கம்` / contents-index run;
-- **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**;
-- scan **666** = unnumbered pictorial back cover;
-- **666 — NO EXTERNAL CONTINUATION**.
-
-Do not force narrative closure at workflow boundaries; preserve exact physical-page structure.
-
-## Required frontmatter
-
-Each new English page must carry:
-
-- exact `source_scan_page`;
-- matching `source_tamil_file`;
-- exact printed page or `"unnumbered"` for scan 666;
-- `work: "kuraloviyam"`;
-- `section: "Kalaignar's Kuraloviyam"`;
-- `language: "en"`;
-- `translation_type: "project_translation"`;
-- `status: "draft"`;
-- `source_tamil_status: "verified"`;
-- `translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"`.
-
-## Drafting discipline
-
-Translate the audited Tamil page record, not memory or a standard edition.
-
-Do not import:
-
-- published English Kural translations;
-- web translations;
-- standard/canonical English Kural wording;
-- another commentator's phrasing;
-- English remembered from elsewhere.
-
-Preserve:
-
-- exact page alignment;
-- paragraph order;
-- dialogue and speaker relationships;
-- Kural block separation and lineation;
-- Chapter/Kural metadata;
-- source glosses;
-- `பொருளடக்கம்` structure;
-- visual/non-body descriptions where useful;
+- paragraph-by-paragraph;
+- dialogue turn by dialogue turn;
+- Kural block by Kural block;
+- metadata and glosses;
+- factual visual/non-body material;
+- source/page-function notes where relevant;
 - cross-page continuations.
 
-For scan **666**, create a page-aligned English back-cover record with no invented body prose.
+Check specifically for:
 
-## Required completion audit
+- omissions;
+- unsupported additions;
+- meaning drift;
+- lost rhetorical repetition;
+- names and relationship terms;
+- chapter labels and Kural numbers;
+- quoted Kural lineation;
+- source glosses;
+- page alignment;
+- continuity across physical page boundaries.
 
-After D3:
+## Status discipline
 
-- confirm **37/37** new English page records for scans **630–666**;
-- confirm total Part-006 English inventory becomes **111/111 draft**;
-- confirm filenames and `source_tamil_file` alignment are exact;
-- confirm every new page has `translation_type: "project_translation"`;
-- confirm every new page has `status: "draft"`;
-- confirm every new page has `source_tamil_status: "verified"`;
-- confirm **0 Tamil page files changed**;
-- compare the pre-D3 page-layer base to the D3 endpoint;
-- require exactly **37 new Part-006 English page files** and **0 non-page files** in the page-layer compare;
-- preserve final **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT** and **666 — NO EXTERNAL CONTINUATION**;
-- update `TRANSLATION_STATUS.md` and relevant Kuraloviyam control docs.
+A passing page may move only:
 
-After D3 closes, Part-006 English drafting is **COMPLETE 111/111**. The next gate is **English source-check**, with the exact first source-check batch to be derived from the live 37-page cadence and repository policy.
+`status: "draft"` → `status: "source-checked"`
+
+Do not promote any page with a remaining fidelity problem.
+
+Source-check is not a stylistic rewrite gate. Make only corrections required for fidelity to the audited Tamil.
+
+Do not import published, standard, web, or remembered English Kural wording.
+
+## SC1 boundaries
+
+Incoming:
+
+- **555→556 CLEAN / source-resolved**.
+
+Outgoing:
+
+- **592→593 CLEAN**.
+
+Do not create a narrative continuation across either clean boundary.
+
+## Required SC1 completion audit
+
+After SC1:
+
+- confirm **37/37** pages scans **556–592** have been directly source-checked;
+- confirm each passing page is `status: "source-checked"`;
+- confirm scans **593–666** remain `draft`;
+- record all wording corrections by scan;
+- compare the pre-SC1 page-layer base to the SC1 endpoint;
+- require changes only inside `works/kuraloviyam/translations/en/pages/`;
+- confirm **0 Tamil page changes**;
+- update `TRANSLATION_STATUS.md` and relevant control docs.
+
+After SC1, the next source-check batch under the 37-page cadence is:
+
+**SC2 — scans 593–629 / printed 576–612 — 37 pages.**
