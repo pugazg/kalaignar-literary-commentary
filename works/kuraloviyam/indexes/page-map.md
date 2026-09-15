@@ -750,8 +750,11 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - final-remainder exact page-layer compare — `c51b18d49513a78c26be806384875b0cf7ee9245` → same commit — **identical / 0 changed files**;
 - final boundary — **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**;
 - Pass 3 — **COMPLETE / PASS 111/111**;
-- all 111 records remain **needs-review / visual needs-review** pending Part audit and final status synchronization;
-- next stage — **Part 006 audit**.
+- Part 006 audit — **PASS / COMPLETE**;
+- audit inventory — **111/111 canonical records / 0 gaps / 0 duplicates / 0 mapping anomalies**;
+- audit page functions — **102 body-prose / 8 contents-index / 1 back-cover**;
+- all 111 records remain **needs-review / visual needs-review** pending final status synchronization;
+- next stage — **Part 006 final metadata/status synchronization**.
 - SC4 endpoint — `113846a357544a33b73d727d20115471f2f3411f`;
 - SC4 exact page-layer compare — **12 modified English page files only**;
 - fidelity corrections — **4 page files / scans 549, 550, 553, 555**;
