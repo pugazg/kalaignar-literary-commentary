@@ -1458,114 +1458,108 @@ This progress-record update is the sole intended non-page change after the Batch
 
 ## Batch B15 — scans 351–375
 
-**Status: COMPLETE / PASS**
+**Status: COMPLETE / PASS — post-closure correction applied**
 
 - date: **2026-09-15**
 - scans reviewed: **351–375 / 25**
 - controlling source: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf`
-- lexical lock used: `File8.md` — Phase 17 / Book Pages **339–363** for this physical-scan batch
+- lexical lock used: `File8.md` — Phase 17 / Book Pages **339–363**
 - batch base: `9a493b4f495e22857d2dda2da738ce130e883607`
-- page-layer endpoint: `ca5e6c6037517d7bdb2c1d73deb87fcc0edc5b8e`
-- structurally changed page records: **12**
-- reviewed with no page-record change: **13** — scans **351, 353, 356, 358, 359, 362, 365, 368, 369, 371, 372, 374, 375**
+- original page-layer endpoint: `ca5e6c6037517d7bdb2c1d73deb87fcc0edc5b8e`
+- post-closure correction commit: `6525498cd8e14871575e9ae0203060af2fe4450a`
+- effective structurally changed page records: **14**
+- effective reviewed/no-change scans: **11** — **351, 353, 356, 362, 365, 368, 369, 371, 372, 374, 375**
 - scan-led lexical corrections / modernizations: **0**
 - unresolved structural placement issues: **0**
 
 ### Gate-B reconciliation performed
 
 1. **scans 351–354 — closure of `புதுப் பாட்டுப் புலவன்!` and `மங்கை கண்ட மகிழ்ச்சி!`**
-   - scan 351 already correctly preserves the closing scholarly note and required no page-record change;
-   - scan 352 preserves File8's locked body heading `கண்ட மகிழ்ச்சி!`; the source-visible omitted lexical word `மங்கை` remains only in section metadata/visual notes and is not source-recovered into the locked body;
-   - stray File8 wrapper `YOM` is excluded;
-   - scan 352 restores PDF-supported right-edge carryovers `நின்றிருந்த`, `அறியாமல்;`, `ஆண்மான் என;`, `வறண்டதுபோல்;`, `வெறுந்தரையாகும்!`, and `இனிவேறிடத்தை`;
-   - scan 353 remains a full-page illustration;
-   - scan 354 restores the source-supported placement of locked `தடவினாள்!`; quotation → provenance → `பொருள் விளக்கம்` structure remains PDF-controlled.
+   - scan 351 preserves the closing scholarly note;
+   - scan 352 preserves File8-locked body heading `கண்ட மகிழ்ச்சி!`; source-visible omitted `மங்கை` remains metadata/visual-note only; wrapper `YOM` excluded;
+   - scan 352 restores PDF-supported carryovers `நின்றிருந்த`, `அறியாமல்;`, `ஆண்மான் என;`, `வறண்டதுபோல்;`, `வெறுந்தரையாகும்!`, `இனிவேறிடத்தை`;
+   - scan 353 is a full-page illustration;
+   - scan 354 restores source-supported `தடவினாள்!`; quotation → provenance → `பொருள் விளக்கம்` order remains PDF-controlled.
 
 2. **scans 355–357 — `பொய்யாகிப் போகாதோ?`**
-   - scan 355 restores File8-locked `போர்க்` to its PDF-supported right-edge carryover position before `கருவியொன்று`, and restores the source-supported placement of `புகுந்ததம்மா!`;
-   - scan 356 remains a full-page illustration;
-   - scan 357 restores locked `பற்றி` to its PDF-supported right-edge carryover; quotation/provenance/gloss structure remains intact.
+   - scan 355 restores File8-locked `போர்க்` at the PDF-supported carryover before `கருவியொன்று`, plus source-supported `புகுந்ததம்மா!`;
+   - scan 356 is a full-page illustration;
+   - scan 357 restores locked `பற்றி` to its PDF-supported carryover; quotation/provenance/gloss structure remains intact.
 
 3. **scans 358–363 — `சான்று கூறும் சரித்திர வரிகள்!`**
-   - scan 358 is a text-bearing decorative section opener with illustration; it is **not** illustration-only and was already structurally correct;
-   - scan 359 remains the separate full-page illustration;
-   - scan 360 restores File8-locked `செலஇருந்த தடங் குறித்துத்`, replacing an earlier source-led repository normalization;
+   - scan 358 is a mixed text/illustration opener and contains the first six locked introductory lines physically visible before the illustration;
+   - **post-closure correction:** scan 359 is **not** illustration-only. It contains substantial literary text in the upper half and a battlefield-vulture illustration in the lower half;
+   - File8 page-348 extraction collapses wording physically distributed across scans **358–360**; Gate B redistributes the locked wording using the PDF as physical authority;
+   - scan 358 now explicitly continues to 359; scan 359 continues from 358 to 360;
+   - scan 359 preserves File8-locked `முறையினாலே` despite the visible-source variant and restores the full locked block through `இன்னும் வரக்காணேனே என`;
+   - scan 360 preserves File8-locked `செலஇருந்த தடங் குறித்துத்`;
    - scan 361 preserves File8-locked `வீழ்த்துக்கின்ற` despite the visible scan differing;
-   - scan 362 already preserves the source-controlled quotation/provenance layout and required no change;
-   - scan 363 removes source-recovered lexical `இத்தி` after the glossary equals sign, restores File8-locked `கெடாதகள்`, and excludes stray File8 numeric `6`.
+   - scan 362 preserves the PDF-controlled quotation/provenance layout;
+   - scan 363 removes source-recovered `இத்தி` after the glossary equals sign, restores File8-locked `கெடாதகள்`, and excludes stray numeric `6`.
 
 4. **scans 364–366 — `பரிசப்பணம் வேண்டாம்... பரிசுப்பொருள் இதோ!`**
-   - scan 364 restores File8-locked `சுளீப்பீர்!` despite the visible-source difference and excludes stray numeric `66`;
-   - source-supported right-edge carryovers `பொருள்!`, `பரிசப்பணம் என்பர்!`, `எனில்;`, `தேர்ந்தவுடன்,`, and `பரிவுடன் வழங்கவேண்டும்!` are restored;
-   - scan 365 remains a full-page illustration;
-   - scan 366 restores File8-locked `கொங்கையினை` and `சாய்ந்திடிலோ` while returning locked `காதலன்;`, `தாவிடுவானேல்;`, and `தகுதியாவான்!` to their PDF-supported positions.
+   - scan 364 preserves File8-locked `சுளீப்பீர்!`; stray `66` excluded; right-edge carryovers restored;
+   - scan 365 is a full-page illustration;
+   - scan 366 preserves locked `கொங்கையினை` and `சாய்ந்திடிலோ` and restores locked carryovers `காதலன்;`, `தாவிடுவானேல்;`, `தகுதியாவான்!`.
 
 5. **scans 367–369 — `உறவுடன் இணைந்து உயர்ந்து வாழ்க!`**
-   - scan 367 restores File8-locked narrative readings `ஒரேர்` and `கைப்பிசைந்து`; separately locked poet-name forms `ஓரேர் உழவர்` / `ஓரேருழவர்` remain distinct;
-   - locked `இவ்வாழ்க்கையிலே` is restored to its source-supported carryover placement;
-   - scan 368 remains a full-page illustration;
-   - scan 369 was already structurally aligned and required no change.
+   - scan 367 preserves narrative `ஒரேர்` / `கைப்பிசைந்து`; poet-name forms remain distinct; `இவ்வாழ்க்கையிலே` restored to the source-supported carryover;
+   - scan 368 is a full-page illustration;
+   - scan 369 was already structurally aligned.
 
 6. **scans 370–372 — `கண்கண்ட சாட்சி உண்டோ?`**
-   - scan 370 restores File8-locked `கண்ணா` and `ஓருயிராய்`; the visible-source alternatives are not silently substituted during Gate B;
-   - stray File8 numeric `66` remains excluded;
-   - scan 371 remains a full-page illustration;
-   - scan 372 was already correctly structured through quotation, provenance and glossary.
+   - scan 370 preserves File8-locked `கண்ணா` and `ஓருயிராய்`; stray `66` excluded;
+   - scan 371 is a full-page illustration;
+   - scan 372 remains correctly structured through quotation, provenance and glossary.
 
 7. **scans 373–375 — `ஓர் உவமை; இரு காட்சி!`**
-   - scan 373 metadata retains source-visible section identity `ஓர் உவமை; இரு காட்சி!`, while File8-locked body heading `ஒர் உவமை; இரு காட்சி!` is preserved;
-   - scan 374 already preserves the PDF-controlled narrative → quotation → provenance order and required no change;
-   - scan 375 remains a full-page illustration; the section continues into B16.
+   - scan 373 metadata retains source-visible `ஓர் உவமை; இரு காட்சி!`, while File8-locked body heading `ஒர் உவமை; இரு காட்சி!` is preserved;
+   - scan 374 preserves the PDF-controlled narrative → quotation → provenance order;
+   - scan 375 is a full-page illustration; the section continues into B16.
 
 ### Illustration / mixed-page handling confirmed
 
-- full-page illustration scans: **353, 356, 359, 365, 368, 371, 375**;
-- all seven were reviewed and required **no repository change**;
-- scan **358** is a mixed decorative opener with printed text plus illustration and must **not** be treated as illustration-only.
+- full-page illustration scans: **353, 356, 365, 368, 371, 375**;
+- mixed text/illustration scans: **358, 359**;
+- scan **359 must never regress to illustration-only**.
 
 ### Locked omissions / extraction exceptions carried forward
 
-- scan **352** — source-visible heading includes `மங்கை`, but File8 omits it and locks `கண்ட மகிழ்ச்சி!`; `மங்கை` is not source-recovered into body text. File8 wrapper `YOM` excluded.
-- scan **355** — locked `போர்க்` restored to its physical carryover position.
-- scan **360** — File8-locked `செலஇருந்த தடங் குறித்துத்` restored despite earlier source-led repository normalization.
-- scan **361** — File8 locks `வீழ்த்துக்கின்ற`; visible-source difference recorded but not source-corrected.
-- scan **363** — source-recovered `இத்தி` after the glossary equals sign removed; File8-locked `கெடாதகள்` restored; numeric `6` excluded.
-- scan **364** — File8 locks `சுளீப்பீர்!`; visible-source difference preserved as a lock discrepancy; numeric `66` excluded.
-- scan **366** — File8 locks `கொங்கையினை` and `சாய்ந்திடிலோ`; visible-source/repository alternatives are not retained.
-- scan **367** — File8 narrative `ஒரேர்` / `கைப்பிசைந்து` restored while poet-name forms remain distinct.
-- scan **370** — File8 locks `கண்ணா` / `ஓருயிராய்`; stray numeric `66` excluded.
-- scan **373** — source title `ஓர் உவமை; இரு காட்சி!`; File8 body heading `ஒர் உவமை; இரு காட்சி!`. Metadata/body authority split preserved.
+- scan **352** — source heading includes `மங்கை`; File8 omits it and locks `கண்ட மகிழ்ச்சி!`; wrapper `YOM` excluded.
+- scan **355** — locked `போர்க்` restored to physical carryover position.
+- scans **358–360** — File8 page-348 extraction is physically redistributed across three scans; no lexical source recovery is used.
+- scan **359** — File8-locked `முறையினாலே` preserved despite the visible-source variant.
+- scan **360** — File8-locked `செலஇருந்த தடங் குறித்துத்` preserved.
+- scan **361** — File8 locks `வீழ்த்துக்கின்ற`; visible-source difference not source-corrected.
+- scan **363** — source-recovered `இத்தி` removed; locked `கெடாதகள்` restored; numeric `6` excluded.
+- scan **364** — locked `சுளீப்பீர்!` preserved; numeric `66` excluded.
+- scan **366** — locked `கொங்கையினை` / `சாய்ந்திடிலோ` preserved.
+- scan **367** — narrative `ஒரேர்` / `கைப்பிசைந்து` preserved.
+- scan **370** — locked `கண்ணா` / `ஓருயிராய்` preserved; numeric `66` excluded.
+- scan **373** — source title `ஓர் உவமை; இரு காட்சி!`; File8 body heading `ஒர் உவமை; இரு காட்சி!`. Metadata/body split preserved.
 
 ## Exact changed-file audit — Batch B15
 
-Page-layer compare:
+Original page-layer compare:
 
 `9a493b4f495e22857d2dda2da738ce130e883607` → `ca5e6c6037517d7bdb2c1d73deb87fcc0edc5b8e`
 
-Result:
+- **1 commit ahead**
+- **12 modified page files**
+- **0 non-page files**
+
+Post-closure correction audit:
+
+`93e96b379921a161ab1ca393708f6f4d71408c09` → `6525498cd8e14871575e9ae0203060af2fe4450a`
 
 - **1 commit ahead**
-- **exactly 12 modified page files**
-- **0 other page files**
-- **0 non-page files at the page-layer endpoint**
-- scans **351, 353, 356, 358, 359, 362, 365, 368, 369, 371, 372, 374, 375** reviewed with no change
+- **exactly 2 modified B15 page files**
+- **0 non-page files**
+- correction files:
+  - `works/sangatamil/pages/0358-saanru-koorum-sariththira-varigal-01.md`
+  - `works/sangatamil/pages/0359-saanru-koorum-sariththira-varigal-illustration.md`
 
-Exact page-file set:
-
-- `works/sangatamil/pages/0352-mangai-kanda-magizhchi-01.md`
-- `works/sangatamil/pages/0354-mangai-kanda-magizhchi-03.md`
-- `works/sangatamil/pages/0355-poyyaagip-pogaatho-01.md`
-- `works/sangatamil/pages/0357-poyyaagip-pogaatho-03.md`
-- `works/sangatamil/pages/0360-saanru-koorum-sariththira-varigal-03.md`
-- `works/sangatamil/pages/0361-saanru-koorum-sariththira-varigal-04.md`
-- `works/sangatamil/pages/0363-saanru-koorum-sariththira-varigal-06.md`
-- `works/sangatamil/pages/0364-parisappanam-vendaam-parisupporul-idho-01.md`
-- `works/sangatamil/pages/0366-parisappanam-vendaam-parisupporul-idho-03.md`
-- `works/sangatamil/pages/0367-uravudan-inaindhu-uyarndhu-vaazhga-01.md`
-- `works/sangatamil/pages/0370-kankanda-saatchi-undo-01.md`
-- `works/sangatamil/pages/0373-or-uvamai-iru-kaatchi-01.md`
-
-This progress-record update is the sole intended non-page change after the Batch B15 page-layer endpoint.
+Effective B15 changed-page set: **14 page records**. Effective no-change count: **11**.
 
 ## Batch B16 — scans 376–400
 
