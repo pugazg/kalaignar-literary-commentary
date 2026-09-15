@@ -737,12 +737,13 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - Pass 3 Batch 1 — **556–566 / printed 539–549 — COMPLETE 11/11**;
 - Pass 3 Batch 2 — **567–577 / printed 550–560 — COMPLETE 11/11**;
 - Pass 3 Batch 3 — **578–588 / printed 561–571 — COMPLETE 11/11**;
-- Batch-3 structural/visual corrections — **0**;
-- Batch-3 exact page-layer compare — `51642b8e999a501029832cb95e0d238fd11d131f` → same commit — **identical / 0 changed files**;
-- incoming **577→578 GENUINE CONTINUATION** preserved;
-- outgoing **588→589 CLEAN** confirmed;
-- cumulative Pass 3 — **33/111**;
-- next stage — **Part 006 Pass 3 Batch 4 / scans 589–599 / printed 572–582 — 11 scans**.
+- Pass 3 Batch 4 — **589–599 / printed 572–582 — COMPLETE 11/11**;
+- Batch-4 structural/visual corrections — **0**;
+- Batch-4 exact page-layer compare — `338cf9d0a20d131acdfe3ad1d422001ce820999c` → same commit — **identical / 0 changed files**;
+- incoming **588→589 CLEAN** preserved;
+- outgoing **599→600 GENUINE CONTINUATION** confirmed;
+- cumulative Pass 3 — **44/111**;
+- next stage — **Part 006 Pass 3 Batch 5 / scans 600–610 / printed 583–593 — 11 scans**.
 - SC4 endpoint — `113846a357544a33b73d727d20115471f2f3411f`;
 - SC4 exact page-layer compare — **12 modified English page files only**;
 - fidelity corrections — **4 page files / scans 549, 550, 553, 555**;
@@ -751,4 +752,4 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 ## Current frontier
 
-**Part 006 Pass 3 Batch 4 — scans 589–599 / printed 572–582 — 11 scans.**
+**Part 006 Pass 3 Batch 5 — scans 600–610 / printed 583–593 — 11 scans.**
