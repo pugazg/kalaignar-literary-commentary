@@ -62,12 +62,14 @@ Gate A — COMPLETE / PASS: 497/497 canonical records; 0 duplicates; 0 missing.
 Gate B — IN PROGRESS:
 - B01–B16 complete
 - 400/497 structurally reviewed
-- 122 remaining
-- frontier — scan 376
+- 97 remaining
+- frontier — scan 401
 - Gate C — NOT STARTED
 
-Latest B15 page-layer endpoint: ca5e6c6037517d7bdb2c1d73deb87fcc0edc5b8e
-Latest durable B15 progress commit: c38b23f81d35957d560ec3b56ebfac48f8bac47f
+Latest B16 page-layer endpoint: 93e96b379921a161ab1ca393708f6f4d71408c09
+Latest durable B16 progress checkpoint: 40e2c594a7a9f7f4baa88375b23e84d39c619235
+
+B15 mixed-page repair preserved: 6525498cd8e14871575e9ae0203060af2fe4450a — scans 358–359 are mixed text/illustration records.
 
 ## Current controls
 

@@ -41,10 +41,10 @@ Current state at documentation refresh 2026-09-15:
 - physical page records — 497/497
 - duplicates — 0
 - missing scans — 0
-- Gate B B01–B15 — COMPLETE / PASS
-- structurally reviewed — 375/497
-- current frontier — scan 376
-- next batch — B16 scans 376–400 with the remainder of part_008_pages_351-400.pdf + File8.md
+- Gate B B01–B16 — COMPLETE / PASS
+- structurally reviewed — 400/497
+- current frontier — scan 401
+- next batch — B17 scans 401–425 with part_009_pages_401-450.pdf + File9.md
 - Gate C — NOT STARTED
 
 Current authority split:
