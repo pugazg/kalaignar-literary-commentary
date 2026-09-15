@@ -6,13 +6,13 @@ section: "மானங்காத்த மறவன்!"
 page_type: "poetry"
 status: "verified"
 visual_fidelity: "verified"
-visual_notes: "running header; source verse blocks retained; later pencil marks/handwriting excluded from body text; obvious duplicated/garbled OCR debris not supported by the printed scan is not inserted; printed page number centered"
+visual_notes: "running header kept as page furniture and removed from body text; source verse blocks retained; source-positioned right-aligned carryovers restored; later pencil marks/handwriting excluded from body text; printed page number centered"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
-சங்கத் தமிழ் சேரமான் கணைக்கால் இரும்பொறை யென்னும்  
+சேரமான் கணைக்கால் இரும்பொறை யென்னும்  
 செந்தமிழ்ப் பெயருடன் செங்கோல் ஏந்தினான்.
 
 தொண்டித் துறைமுகம் அவன் ஆட்சித் தலைநகர் - அதனை  
@@ -22,17 +22,24 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 முகவாய் நொறுக்கிப் பற்களைப் பெயர்த்து - தனது  
 கோட்டை வாயிற் கதவின் பெரிய  
 பூட்டின் மீது பொருத்தி வைத்தான் என்று  
-“களவழி நாற்பது” பாடிய பொய்கையார் எனும்புலவர்  
-- அவனது  
+“களவழி நாற்பது” பாடிய பொய்கையார் எனும்புலவர்
+
+<div align="right">- அவனது</div>
+
 களப்புகழ் பலபடக் கூறிக் களித்திடுவாரே!
 
-தமிழரிடை ஒற்றுமை என்பது அத்திப்பூ - ஆடிப்பிறை  
-- அதனாலே  
-தமக்கிடையே போர் தொடுத்து தமிழ் இனம் பிளவுபட்ட சேதி  
-கூறும்  
+தமிழரிடை ஒற்றுமை என்பது அத்திப்பூ - ஆடிப்பிறை
+
+<div align="right">- அதனாலே</div>
+
+தமக்கிடையே போர் தொடுத்து தமிழ் இனம் பிளவுபட்ட சேதி
+
+<div align="right">கூறும்</div>
+
 வரலாற்று ஏடுகளின் வரிகளாக ஆகிவிட்டார் - தமிழர்  
-வாளாற்றல் காட்டுதற்கு வரிந்து கட்டி இனத்துக்குள்  
-இரண்டுபட்டார்!
+வாளாற்றல் காட்டுதற்கு வரிந்து கட்டி இனத்துக்குள்
+
+<div align="right">இரண்டுபட்டார்!</div>
 
 செங்கணான் எனும் சோழன்,  
 செருமுனையில் சிறுத்தை போன்றான்!  
