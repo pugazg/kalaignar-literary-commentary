@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 3 Batch 4
+# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Pass 3 Batch 5
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -30,26 +30,27 @@ Pass-3 progress:
 - Pass 3 Batch 1 — **556–566 / printed 539–549 — COMPLETE 11/11**;
 - Pass 3 Batch 2 — **567–577 / printed 550–560 — COMPLETE 11/11**;
 - Pass 3 Batch 3 — **578–588 / printed 561–571 — COMPLETE 11/11**;
-- Batch-3 structural/visual corrections — **0**;
-- Batch-3 lexical/body-text changes — **0**;
-- Batch-3 page-layer compare — `51642b8e999a501029832cb95e0d238fd11d131f` → same commit — **identical / 0 changed files**;
-- cumulative Pass 3 — **33/111**;
+- Pass 3 Batch 4 — **589–599 / printed 572–582 — COMPLETE 11/11**;
+- Batch-4 structural/visual corrections — **0**;
+- Batch-4 lexical/body-text changes — **0**;
+- Batch-4 page-layer compare — `338cf9d0a20d131acdfe3ad1d422001ce820999c` → same commit — **identical / 0 changed files**;
+- cumulative Pass 3 — **44/111**;
 - all 111 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
 
 Continuity:
 
-- incoming **577→578 GENUINE CONTINUATION** preserved;
-- scan **589 / printed 572** was inspected only as Batch-3 outgoing witness and confirms **588→589 CLEAN**.
+- incoming **588→589 CLEAN** preserved;
+- scan **600 / printed 583** was inspected only as Batch-4 outgoing witness and confirms **599→600 GENUINE CONTINUATION**.
 
-## Exact next activity — Part 006 Pass 3 Batch 4
+## Exact next activity — Part 006 Pass 3 Batch 5
 
 Inspect:
 
-**scans 589–599 / printed 572–582 — 11 physical scans**.
+**scans 600–610 / printed 583–593 — 11 physical scans**.
 
-Preserve incoming **588→589 CLEAN**.
+Preserve incoming **599→600 GENUINE CONTINUATION**.
 
-Scan **600 / printed 583** may be inspected only as the outgoing continuity witness if required; do not include it in Batch 4.
+Scan **611 / printed 594** may be inspected only as the outgoing continuity witness if required; do not include it in Batch 5.
 
 Pass 3 is **meaningful visual/text fidelity verification**, not another lexical reread. Compare canonical records directly with freshly rendered source scans and verify:
 
