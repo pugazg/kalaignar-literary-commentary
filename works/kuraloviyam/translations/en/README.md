@@ -418,8 +418,41 @@ Current Part-006 English inventory:
 - `draft` — **0**;
 - release-ready / source-limited / blocked — **0**.
 
+## Part 006 English editorial review — ER3 COMPLETE / PASS 37/37
+
+ER3:
+
+- scans **630–666 / printed 613–648 + unnumbered back cover**;
+- pre-ER3 live-main checkpoint — `a57deadc493dfca7578514137d6fdc77baadf11f`;
+- English page-layer endpoint — `535b72dba6031f5511539ef7438a5a632ce5d720`;
+- exact page-layer compare — **4 commits / exactly 37 modified English page files / 0 Tamil changes / 0 non-page changes**;
+- wording-repair pages — **8**: scans **630, 631, 632, 634, 645, 646, 655, 657**;
+- status-only promotion pages — **29**;
+- all **37/37** pages moved from `source-checked` to `editorial-reviewed`;
+- scans **658–665** remain source-keyed contents/index pages with Tamil incipits and printed-page locators unchanged;
+- scan **666** remains the pictorial back cover with no visible printed body text;
+- incoming **629→630 GENUINE CONTINUATION** preserved;
+- **657→658 CLEAN / transition to contents** preserved;
+- **658→665 contents continuation** preserved;
+- **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT** and **666 NO EXTERNAL CONTINUATION** preserved;
+- no external edition/web/standard English Kural wording was imported.
+
+## Part 006 English editorial review — COMPLETE / CLOSED 111/111
+
+- ER1 — **556–592 / 37/37 COMPLETE / PASS**;
+- ER2 — **593–629 / 37/37 COMPLETE / PASS**;
+- ER3 — **630–666 / 37/37 COMPLETE / PASS**;
+- cumulative — **111/111 COMPLETE / CLOSED**.
+
+Current Part-006 English inventory:
+
+- `editorial-reviewed` — **111**;
+- `source-checked` — **0**;
+- `draft` — **0**;
+- release-ready / source-limited / blocked — **0**.
+
 ## Current frontier
 
-**Part 006 English Editorial Review ER3 — scans 630–666 / printed 613–648 + unnumbered back cover — 37 pages.**
+**Part 006 English Part-level Review — whole Part 006 / scans 556–666.**
 
-Continue readability, controlled-terminology, names, quotation/Kural-block, contents/index page-function and cross-page continuity review. Passing pages may move from `source-checked` to `editorial-reviewed`. Preserve **629→630 GENUINE CONTINUATION**, **657→658 CLEAN / transition to contents**, **658→665 contents continuation**, **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**, and **666 NO EXTERNAL CONTINUATION**.
+Review the completed Part as a whole: verify the 111-page inventory/alignment, statuses, terminology and names, Kural/Chapter metadata, page functions, contents/index integrity, accumulated continuities, and physical source endpoint. Create the durable review record under `translations/en/reviews/`. Do not promote pages to `release-ready` at this gate.
