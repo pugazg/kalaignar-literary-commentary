@@ -17,7 +17,7 @@ In the radiant season of youth he entered many fields of struggle for the freedo
 
 Jayaprakash Narayan was the name of that celebrated hero.
 
-Gandhiji himself pressed for that courageous young man to be married. The one who first refused finally stated a condition and agreed to the marriage: until the country won freedom, husband and wife would live without physical relations.
+Gandhi himself pressed for that courageous young man to be married. The one who first refused finally stated a condition and agreed to the marriage: until the country won freedom, husband and wife would live without physical relations.
 
 Accepting that condition, a woman named Prabhavati married him.
 
