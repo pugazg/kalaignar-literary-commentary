@@ -8,7 +8,7 @@ section: "கலைஞரின் குறளோவியம்"
 page_type: "body-prose"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "Text-only continuation of the pseudo-scholar / ministerial-misreading vignette begun on scan 610; the minister misreads the Kural phrase about delay and the ruler challenges him; physical sentence continues directly to scan 612."
+visual_notes: "Text-only continuation of the pseudo-scholar / ministerial-misreading vignette begun on scan 610; the minister misreads the Kural phrase about delay and the ruler challenges him; the same exchange/vignette continues directly to scan 612."
 language: "ta"
 source_filename: "TVA_BOK_0065733_குறளோவியம்_part_006_pages_556-666.pdf"
 transcription_method: "manual visual transcription from rendered source scan; Pass 1"
@@ -38,4 +38,4 @@ transcription_method: "manual visual transcription from rendered source scan; Pa
 
 “தூங்குக தூங்கிச் செயற்பால - என்றால், ‘காலந்தாழ்த்துப் பொறுமையாகச் செய்யவேண்டிய காரியங்களைக் காலந்தாழ்த்தே செய்யவேண்டும்’ என்று தான் பொருள். அதை விடுத்துத் தூங்கிக் கொண்டிருக்க வேண்டும் என்று பொருள் கொள்வது பெரும்பிழை! அதுபோகட்டும், புலவரே! அந்த முழுக் குறளையும் ஒருமுறை சொல்லுங்கள் பார்ப்போம்.”
 
-<!-- மூல ஸ்கேன் பக்கம்: 611; பகுதி 006 உள்ளூர் பக்கம்: 56; அச்சுப் பக்கம்: 594; genuine continuation from scan 610; physical sentence/vignette continues directly to scan 612 -->
+<!-- மூல ஸ்கேன் பக்கம்: 611; பகுதி 006 உள்ளூர் பக்கம்: 56; அச்சுப் பக்கம்: 594; genuine continuation from scan 610; the same exchange/vignette continues directly to scan 612 -->
