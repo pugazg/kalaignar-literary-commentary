@@ -1508,7 +1508,7 @@ No Tamil archival record changed. No published, standard, web, or remembered Eng
 - GR3 — **630–666 / 37/37 COMPLETE / PASS**;
 - cumulative glossary reconciliation — **111/111 COMPLETE / CLOSED**.
 
-Current Part-006 English inventory remains:
+At the glossary-reconciliation closure checkpoint, the Part-006 English inventory was:
 
 - `source-checked` — **111**;
 - `draft` — **0**;
@@ -1712,8 +1712,53 @@ Current Part-006 English inventory:
 - `source-limited` — **0**;
 - `blocked` — **0**.
 
+## Part 006 English Part-level Review — PASS / CLOSED
+
+Durable review record:
+
+`works/kuraloviyam/translations/en/reviews/PART_006_ENGLISH_REVIEW.md`
+
+Review base:
+
+`1fedc41719dd604925dbf5b3f7f111f58cc89a8e`
+
+Whole-Part result:
+
+- Part scope — **111 English records / scans 556–666**;
+- Tamil records present — **111/111**;
+- English records present — **111/111**;
+- missing / extra Part-006 records — **0 / 0**;
+- final pre-release English state — **111 editorial-reviewed / 0 source-checked / 0 draft / 0 source-limited / 0 blocked / 0 release-ready**;
+- Tamil archival state — **111/111 textual verified + 111/111 visual verified / 0 exceptions**;
+- Chapter/Kural metadata records carried through GR1–GR3 — **50**;
+- Chapter-number mismatches — **0**;
+- Kural-number mismatches — **0**;
+- page functions — **102 body-prose + 8 contents-index + 1 back-cover**;
+- contents run — scans **658–665**, entries **1–300**, preserved as source-keyed Tamil incipits/page locators;
+- scan **666** — unnumbered pictorial back cover / physical endpoint / no visible printed body text;
+- English wording changes at Part review — **0**;
+- English page-status changes at Part review — **0**;
+- Tamil changes — **0**;
+- glossary changes — **0**.
+
+Boundary discipline remains:
+
+- incoming **555→556 CLEAN / source-resolved**;
+- **629→630 GENUINE CONTINUATION**;
+- **657→658 CLEAN / body→contents transition**;
+- **658→665 GENUINE CONTENTS CONTINUATION**;
+- **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**;
+- **666 NO EXTERNAL CONTINUATION**.
+
+Documentation consistency:
+
+- the historical glossary-closure distribution has been relabelled as a checkpoint rather than a current state;
+- the authoritative current pre-release state remains **111/111 editorial-reviewed**.
+
+No external edition, published/standard English Kural wording, web text or remembered conventional rendering was imported.
+
 ## Exact next activity
 
-**Part 006 English Part-level Review — whole Part 006 / scans 556–666.**
+**Part 006 English Release Report — whole Part 006 / scans 556–666.**
 
-Review the completed Part as a whole rather than reopening page-level editorial batches. Verify the **111-page inventory/alignment**, all final `editorial-reviewed` statuses, terminology and names, Kural/Chapter metadata, page functions, contents/index integrity, accumulated cross-page continuities, and the physical source endpoint. Create the durable Part-level review record under `works/kuraloviyam/translations/en/reviews/`. Do **not** promote pages to `release-ready` at this gate.
+Use `reviews/PART_006_ENGLISH_REVIEW.md` as the authoritative prior gate. Decide release approval explicitly. If approved, create `reviews/PART_006_ENGLISH_RELEASE_REPORT.md` and promote only eligible `editorial-reviewed` pages to `release-ready` with **status-token-only** changes. Do not alter approved English wording, Tamil records, glossary controls, metadata, visual sections, contents/index keys or boundary classifications.
