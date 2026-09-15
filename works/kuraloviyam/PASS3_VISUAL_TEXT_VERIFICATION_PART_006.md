@@ -8,7 +8,7 @@
 - Final physical scan: **666 / unnumbered pictorial back cover**
 - Physical scans: **111**
 - Gate: **Pass 3 — meaningful visual/text fidelity verification**
-- Status: **IN PROGRESS — 77/111**
+- Status: **IN PROGRESS — 110/111**
 
 ## Preconditions
 
@@ -311,14 +311,110 @@ Page-layer endpoint: `ed0bf49fb32504469e9640824ef62b3f8293568f`.
 
 Exact compare `29c69e398e6f849d0475d765a9792187022d274a` → `ed0bf49fb32504469e9640824ef62b3f8293568f` is **1 commit ahead / exactly 1 changed Part-006 page file / scan 631 only / +1 -1 / 0 other files**.
 
+## Batch 8 — scans 633–643 / printed 616–626
+
+**Result: COMPLETE — 11 / 11.**
+
+Fresh source images were compared directly with the canonical records for meaningful visual/text organization. **No structural or visual-description correction was required.** No Tamil body wording was changed.
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 633 | 616 | **NO STRUCTURAL CHANGE** — large upper illustration of the two ascetics resting beneath the tree remains above the prose; the அறவாழி / ஏனாதி renunciation-and-charity vignette begins below and continues to scan 634. |
+| 634 | 617 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Chapter 37 / Kural 366 remains correctly grouped at the foot. |
+| 635 | 618 | **NO STRUCTURAL CHANGE** — large upper royal-court illustration of the crowned ruler addressing the standing man remains above the prose; the வளநாடு / நிலாநாடு / மலைநாடு royal-ethics vignette continues to scan 636. |
+| 636 | 619 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Chapter 39 / Kural 384 remains correctly grouped at the foot. |
+| 637 | 620 | **NO STRUCTURAL CHANGE** — large upper embracing-couple illustration remains above the prose; the காதல் / நெஞ்சொடு கிளத்தல் reminiscence begins below and continues to scan 638. |
+| 638 | 621 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Chapter 125 / Kural 1248 and source gloss remain correctly separated above the lower tower ornament. |
+| 639 | 622 | **NO STRUCTURAL CHANGE** — large upper illustration of the mounted warrior confronting the foot soldier beside the fortification remains above the bullet-point அரண் discussion; continuation to scan 640 remains coherent. |
+| 640 | 623 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Chapter 75 / Kural 750 remains correctly grouped above the small lower Valluvar statue. |
+| 641 | 624 | **NO STRUCTURAL CHANGE** — large upper illustration of the young woman with the pigeon beside the bird enclosure remains above the புலால் மறுத்தல் reflection; the final sentence continues to scan 642. |
+| 642 | 625 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; the two Kural blocks, Chapter 26 metadata and Kurals 260 / 259 remain correctly ordered. |
+| 643 | 626 | **NO STRUCTURAL CHANGE** — large upper illustration of the cow and calf with the dark pig nearby remains above the corrupting-companionship vignette; the physical continuation into scan 644 remains genuine. |
+
+### Batch 8 boundary / correction result
+
+- Incoming **632→633 CLEAN** remains confirmed.
+- **643→644 GENUINE CONTINUATION** remains confirmed; scan 644 directly continues and closes the cow/calf/pig vignette.
+- Structural/visual-description corrections: **0**.
+- Lexical/body-text changes: **0**.
+- Status promotions: **0**.
+
+## Batch 9 — scans 644–654 / printed 627–637
+
+**Result: COMPLETE — 11 / 11.**
+
+Direct rendered-source comparison found **no structural or visual-description correction** and no Tamil body-text change.
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 644 | 627 | **NO STRUCTURAL CHANGE** — text-only continuation/closure of the cow/calf/pig vignette; Chapter 46 / Kural 451 remains above the small tower ornament. |
+| 645 | 628 | **NO STRUCTURAL CHANGE** — large upper illustration of the embracing young couple beside the open doorway with rain outside remains above the prose; the மாமல்லபுரம் / கதிரொளி / கண்மணியாள் vignette continues to scan 646. |
+| 646 | 629 | **NO STRUCTURAL CHANGE** — text-only continuation of the storm-time secret meeting; prose/dialogue relationship remains coherent and continues to scan 647. |
+| 647 | 630 | **NO STRUCTURAL CHANGE** — text-only closure; Chapter 113 / Kural 1124 remains correctly grouped above the lower Valluvar statue. |
+| 648 | 631 | **NO STRUCTURAL CHANGE** — large upper court illustration of the ruler speaking with the armed commander remains above the commander/defection-and-honour vignette; continuation to scan 649 remains genuine. |
+| 649 | 632 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Chapter 97 / Kural 965 remains correctly grouped at the foot. |
+| 650 | 633 | **NO STRUCTURAL CHANGE** — large upper illustration of the reclining woman beside the swan remains above the separated-lover / dream-messenger vignette; continuation to scan 651 remains genuine. |
+| 651 | 634 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Chapter 122 / Kural 1211 remains correctly grouped above the small seated Valluvar ornament. |
+| 652 | 635 | **NO STRUCTURAL CHANGE** — large upper public-assembly illustration with the downcast warrior in the foreground remains above the ஊர்ப் பொது மன்றம் / குடவோலை vignette; continuation to scan 653 remains coherent. |
+| 653 | 636 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Chapter 6 / Kural 59 remains correctly grouped at the foot. |
+| 654 | 637 | **NO STRUCTURAL CHANGE** — large upper embracing-couple illustration remains above the reconciliation / ஊடல்-to-கூடல் dialogue; the vignette continues directly to scan 655. |
+
+### Batch 9 boundary / correction result
+
+- Incoming **643→644 GENUINE CONTINUATION** remains confirmed.
+- **654→655 GENUINE CONTINUATION** remains confirmed; scan 655 directly continues and closes the lovers' vignette.
+- Structural/visual-description corrections: **0**.
+- Lexical/body-text changes: **0**.
+- Status promotions: **0**.
+
+## Batch 10 — scans 655–665 / printed 638–648
+
+**Result: COMPLETE — 11 / 11.**
+
+Direct rendered-source comparison found **no structural or visual-description correction** and no Tamil body-text change. This batch includes the transition from the final body-text unit into the complete eight-page `பொருளடக்கம்` run.
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 655 | 638 | **NO STRUCTURAL CHANGE** — text-only continuation/closure of the reconciliation vignette; Chapter 128 / Kural 1276 and the two source glosses remain correctly grouped above the lower Valluvar/Kanyakumari monument image. |
+| 656 | 639 | **NO STRUCTURAL CHANGE** — large upper illustration of the personified நிலமகள் addressing Valluvar remains above the prose; the நிலமகள் / உலகத்தின் பெருமை dialogue begins below and continues to scan 657. |
+| 657 | 640 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Chapter 34 / Kural 336 remains correctly grouped at the foot. The **657→658** transition to contents is clean. |
+| 658 | 641 | **NO STRUCTURAL CHANGE** — first `பொருளடக்கம்` page; decorative heading and entries **1–29** with printed-page locators remain correctly represented as contents rather than body prose. |
+| 659 | 642 | **NO STRUCTURAL CHANGE** — second contents page; entries **30–67** and locators remain correctly represented. |
+| 660 | 643 | **NO STRUCTURAL CHANGE** — third contents page; entries **68–101** and locators remain correctly represented. |
+| 661 | 644 | **NO STRUCTURAL CHANGE** — fourth contents page; entries **102–137** and locators remain correctly represented. |
+| 662 | 645 | **NO STRUCTURAL CHANGE** — fifth contents page; entries **138–178** and locators remain correctly represented. |
+| 663 | 646 | **NO STRUCTURAL CHANGE** — sixth contents page; entries **179–219** and locators remain correctly represented. |
+| 664 | 647 | **NO STRUCTURAL CHANGE** — seventh contents page; entries **220–262** and locators remain correctly represented. |
+| 665 | 648 | **NO STRUCTURAL CHANGE** — final contents page; entries **263–300**, the source note below the entries, and the blue lower-page library stamp remain correctly separated; the stamp is non-source annotation. |
+
+### Batch 10 boundary / correction result
+
+- Incoming **654→655 GENUINE CONTINUATION** remains confirmed.
+- **657→658 CLEAN / BODY→CONTENTS TRANSITION** remains confirmed.
+- **658→665** is one genuine contents run.
+- **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT** is reconfirmed from scan **666**, which is the unnumbered pictorial back cover and was inspected only as the outgoing witness in this 33-page iteration.
+- Structural/visual-description corrections: **0**.
+- Lexical/body-text changes: **0**.
+- Status promotions: **0**.
+
+## Combined 33-page iteration summary — scans 633–665
+
+- Pages inspected: **33 / 33**.
+- Pass-3 structural/visual-description corrections: **0**.
+- Lexical/body-text changes: **0**.
+- Changed Part-006 page files: **none**.
+- Status promotions: **0**.
+- All Part-006 page records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+- Pre-iteration page-layer checkpoint: `860a8693efd2234cea45a22ed8ab66f2fa73da8c`.
+- Page-layer endpoint: same commit — `860a8693efd2234cea45a22ed8ab66f2fa73da8c`.
+- Exact page-layer compare is **identical / 0 commits ahead / 0 behind / 0 changed files**.
+
 ## Current gate
 
-Part 006 Pass 3 cumulative coverage: **77/111**.
+Part 006 Pass 3 cumulative coverage: **110/111**.
 
-Exact next batch:
+Exact next activity:
 
-**Batch 8 — scans 633–643 / printed 616–626 — 11 physical scans.**
+**Final remainder — scan 666 / unnumbered pictorial back cover — 1 physical scan.**
 
-Preserve incoming **632→633 CLEAN**. Inspect scan **644 / printed 627** only as the outgoing continuity witness if required.
-
-Pass 3 remains meaningful visual/text fidelity verification, not another lexical reread. Do not promote final status.
+Preserve **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**. Perform the final Pass-3 visual verification of the back cover only. Do not promote final status during Pass 3.
