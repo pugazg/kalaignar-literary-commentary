@@ -1,3 +1,5 @@
+> **SUPERSEDED FOR ACTIVE EXECUTION:** The current authoritative Sangath Tamil completion workflow is [PRODUCTIVE_COMPLETION_PLAN.md](PRODUCTIVE_COMPLETION_PLAN.md). This file is retained as historical methodology context.
+
 # சங்கத் தமிழ் — Full-volume multi-pass workflow
 
 This document is the canonical execution plan for `works/sangatamil/`.
