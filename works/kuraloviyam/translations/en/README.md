@@ -288,8 +288,29 @@ Current Part-006 English inventory:
 - not yet drafted — **0**;
 - editorial-reviewed / release-ready / source-limited / blocked — **0**.
 
+## Part 006 English glossary reconciliation — GR1 COMPLETE / PASS 37/37
+
+GR1:
+
+- scans **556–592 / printed 539–575**;
+- English page-layer base — `a230f74a9d027435a009cd3569dec70f5f907b9b`;
+- English page-layer endpoint — `42d9df79adc7d4e2cf7f1ef42bbf3fa272fe60a4`;
+- exact page-layer compare — **1 commit / exactly 4 modified English page files / 0 non-page changes / 0 Tamil changes / 0 status changes**;
+- page corrections — scans **561–563** `Azhagan/Azhagi` → **Alagan/Alagi**; scan **579** `Gandhiji` → **Gandhi** for source honorific `காந்தியடிகள்`;
+- Chapter/Kural metadata checked — **18 records / 0 number mismatches**;
+- new Chapter controls — **6**;
+- source-printed lexical glosses recorded — **15**;
+- glossary record commit — `9cfe182dc5629ae11d34dc2462a1ce6879e9c8ae`;
+- all **37/37** pages remain `source-checked`.
+
+Current Part-006 English inventory remains:
+
+- `source-checked` — **111**;
+- `draft` — **0**;
+- editorial-reviewed / release-ready / source-limited / blocked — **0**.
+
 ## Current frontier
 
-**Part 006 English Glossary Reconciliation GR1 — scans 556–592 / printed 539–575 — 37 pages.**
+**Part 006 English Glossary Reconciliation GR2 — scans 593–629 / printed 576–612 — 37 pages.**
 
-Reconcile recurring names, controlled literary terms, Chapter labels, source glosses, citation metadata and repeated English forms against `GLOSSARY.md` and the audited Tamil context. This gate makes no page-status promotion; passing pages remain `source-checked`.
+Reconcile only source-evidenced recurring names, controlled literary terms, Chapter labels, citation metadata, source glosses and repeated English forms. No page-status promotion occurs at this gate.
