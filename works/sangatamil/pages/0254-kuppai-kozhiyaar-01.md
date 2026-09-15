@@ -7,7 +7,7 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -23,7 +23,6 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 கற்றோர் ஏத்தும் கலியும் அகமும் புறமும் பிறந்த
 கடைச் சங்க காலத்துக்கு முன்பே தொடக்கம்!
 
-அது;
 ஆதாரங்களில் ஒன்று அழகு குறுந்தொகையிலுண்டு - அது;
 அகத்துறைப் பாடலொன்றில் காணும் அடிக் கரும்பின் துண்டு!
 பாதார விந்தம் வரை பருவத்தின் எழில் கொழிக்கும் பாவை;
@@ -45,6 +44,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 யார் தந்தும் வந்ததில்லை இத்துயரம் எனக்கு - இதனை
 யார் வந்தும் தடுத்தென்னை வாழவிடப் போவதில்லை!”
 
-<!-- continues on scan 255 -->
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
+<!-- Gate B collapses File6's displaced duplicate placement of locked `அது;` to the single source-supported position at the end of the `குறுந்தொகையிலுண்டு` line. -->
 <!-- மூல ஸ்கேன் பக்கம்: 254; அச்சுப் பக்கம்: 241 -->

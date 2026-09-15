@@ -7,7 +7,7 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 267
 ---
@@ -24,10 +24,12 @@ continues_from_scan: 267
 > செருஇயல் நல்மான் திதியற்கு உரைத்து,
 > அவர் இன்உயிர் செகுப்பக் கண்டு சினம் மாறிய அன்னி மிஞிலி.”
 
-## பொருள் விளக்கம் :
+*
 
 (அகநானூறு : பாடல் : 262
 பாடியவர் : பரணர்)
+
+## பொருள் விளக்கம் :
 
 முதைபடு பசுங்காடு = பழைமையான பசுமையுள்ள காடு.
 அரில்பவர் மயக்கி = பின்னிக் கிடக்கும் கொடிகளை அழித்து.
@@ -38,5 +40,5 @@ continues_from_scan: 267
 
 *
 
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
+<!-- Gate B keeps File6 lexical wording but restores the PDF-controlled order: quotation → separator → provenance → `பொருள் விளக்கம்` → glossary. -->
 <!-- மூல ஸ்கேன் பக்கம்: 268; அச்சுப் பக்கம்: 256 -->

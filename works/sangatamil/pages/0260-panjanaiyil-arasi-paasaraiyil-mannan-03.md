@@ -7,7 +7,7 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 259
 ---
@@ -36,7 +36,7 @@ continues_from_scan: 259
 நல் வாடை” தீட்டுகின்றார் நக்கீரனார்!
 
 கொடுமுடியன்ன உயர்ந்த கோபுரம் - அதில்
-கொடிகள் வானவில்லென வண்ணங் காட்டும்!
+கொடிகளோ வானவில்லென வண்ணங் காட்டும்!
 திண்ணிய நீலமணி நிறம்படர்ந்த தூண்களிலே
 வெள்ளியைத்தான் வெண்சாந்தாய்ப் பூசினரோ?
 செம்பினால் படைத்திட்ட மதில் சுவரோ எனும் படி
@@ -54,6 +54,5 @@ continues_from_scan: 259
 கூர்த் தந்தம் இரண்டெடுத்து கோலச்
 சீர் தந்து அழகூட்டி அமைத்த கட்டில் - அதில்,
 
-<!-- continues on scan 261 -->
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
+<!-- Gate B maps the latter portion of File6's collapsed Book Page 248 block to physical scan 260 and restores locked `கொடிகளோ`; the embedded running-header extraction is excluded as page furniture. -->
 <!-- மூல ஸ்கேன் பக்கம்: 260; அச்சுப் பக்கம்: 248 -->

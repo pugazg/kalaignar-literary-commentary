@@ -7,15 +7,15 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 271
 ---
 
-## பொருள் விளக்கம் :
-
 (புறநானூறு : பாடல் : 185
 பாடியவர் : தொண்டைமான் இளந்திரையன்)
+
+## பொருள் விளக்கம் :
 
 கால்பார் = வண்டிச் சக்கரமும் பாரும்.
 சாகாடு = வண்டி. உகைப்போன் மாணின் = செலுத்துவோன்
@@ -26,5 +26,5 @@ continues_from_scan: 271
 
 *
 
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
+<!-- Gate B preserves File6 glossary wording while restoring the PDF-controlled order: provenance first, then `பொருள் விளக்கம்` and glossary. -->
 <!-- மூல ஸ்கேன் பக்கம்: 272; அச்சுப் பக்கம்: 260 -->

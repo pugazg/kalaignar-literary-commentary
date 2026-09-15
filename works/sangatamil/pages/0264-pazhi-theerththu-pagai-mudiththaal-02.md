@@ -7,7 +7,7 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 263
 ---
@@ -22,11 +22,10 @@ continues_from_scan: 263
 அடலேறுத் தமிழ் வீரர் இருவரை அறிமுகம் செய்யும்.
 இருவீரர் பெயர் இணைத்து இளையவள் ஒரு தமிழ் மகள்
 புருவத்தை விழியைப் போர்க் கருவியாக்கிக் காளையரை
-வீழ்த்துகின்ற
+<div align="right">வீழ்த்துகின்ற</div>
 பருவத்தாள் எனினும், பண்புடைய திருக்குமரி!
 
-கோசர் சிலர் அவர்
-தழுவத்தான் பலர் துடித்தார்
+தழுவத்தான் பலர் துடித்தார் - கோசர் சிலர் அவர்
 தந்தையிடம் பெண் கேட்டார். மறுத்துவிட்டார்.
 “அன்னிமிஞிலி” எனும் அழகு நங்கை
 அமர்க்களத்தில் உயிர்நீத்த அன்னி யெனும் வீரன்போல்
@@ -45,8 +44,7 @@ continues_from_scan: 263
 கையில் தரச் சம்மதியேன்! அவள்
 எண்ணமெலாம் அழுந்தூரான் மீது அறியீரோ?
 திதியன் எனும் அவ்வூர்க் காவலனே அவளுக்கும் காவலனாம்!
-அடுத்தொருமுறை வருவது கூடாது
-நான்
+அடுத்தொருமுறை வருவது கூடாது - நான்
 எடுத்துச் சொன்னதைப் புரிந்து கொண்டு நடந்திடுக உடனே
 என்றார்!
 
@@ -57,6 +55,5 @@ continues_from_scan: 263
 நியமத்தில் நிலைத்திட்ட கோசர்க்கு உரிமைச் சொத்து!
 பசுவொன்றே அன்னி மிஞிலியின் அன்பான குடும்பச் சொத்து!
 
-<!-- continues on scan 265 -->
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
+<!-- Gate B returns File6-locked `கோசர் சிலர் அவர்` and `நான்` to their PDF-supported positions; stray File6 numeric `66` remains excluded as extraction debris. -->
 <!-- மூல ஸ்கேன் பக்கம்: 264; அச்சுப் பக்கம்: 252 -->

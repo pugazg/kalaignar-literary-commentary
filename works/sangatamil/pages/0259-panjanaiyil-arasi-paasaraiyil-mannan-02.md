@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "two-page colour illustrated spread with source-visible literary text beneath the illustration; no printed page number visible on the scan"
 language: "ta"
-transcription_method: "direct visual transcription from controlling source scan; textual/visual verification deferred"
+transcription_method: "File6-locked wording from collapsed Book Page 248 extraction aligned to the controlling two-page illustrated source spread"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 258
 ---
@@ -55,6 +55,5 @@ continues_from_scan: 258
 ஆரணங்கும்; ஆரணங்கின் மேனி போர்த்தி
 ஆடவனும்; அக்குளிர் காற்றை வெல்வாரன்றோ!
 
-<!-- continues on scan 260 -->
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
+<!-- Gate B maps the first portion of File6's collapsed Book Page 248 block onto this two-page illustrated spread (printed pages 246–247); leading extraction ellipsis/page-wrapper debris is excluded, while the existing source-supported body placement is retained. -->
 <!-- மூல ஸ்கேன் பக்கம்: 259; அச்சுப் பக்க எண்: மூலத்தில் தென்படவில்லை -->

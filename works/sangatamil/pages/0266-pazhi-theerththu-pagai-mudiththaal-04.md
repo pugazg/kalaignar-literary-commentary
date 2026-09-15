@@ -7,7 +7,7 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 265
 ---
@@ -24,7 +24,7 @@ continues_from_scan: 265
 பசுவின் வயிறு!
 
 கனியில்லை என்று சொன்ன கிழவனது
-கண்ணில்லை என ஆக்கிவிட்டால்
+கண்ணில்லை என ஆக்கிவிட்டால் - பின்னர்
 துணையில்லை தோகைக்கு! எல்லோரும் அந்த
 இணையில்லாப் பேரழகைப் பகிர்ந்து கொள்வோம்
 இப்படித் திட்டமிட்ட இழி குணத்தார்;
@@ -40,11 +40,13 @@ continues_from_scan: 265
 பார் எதிர்ப்பினும் பொய் சொல்லாப் பரம்பரை நான்
 பயற்றம் பயிரை என் பசு மேய்ந்தது உண்மையே!” என்றார்.
 
-குற்றத்தை ஒத்துக் கொண்டான்
-அதனால் குத்திப் பெயர்த்திடுக அவன் கண்ணையென்று
+குற்றத்தை ஒத்துக் கொண்டான் - அதனால்
+<div align="right">குத்திப் பெயர்த்திடுக அவன் கண்ணையென்று</div>
 கோசர்களின் மன்றத்தில் தீர்ப்புச் சொன்னார்.
 அடுத்த கணம் அன்னி மிஞிலியின் தந்தையை இழுத்துச்
-பழுத்த கிழம் பாவம்; அவர் கண் இரண்டும் பெயர்த்துச்
+<div align="right">சென்றார்</div>
+பழுத்த கிழம் - பாவம்; அவர் கண் இரண்டும் பெயர்த்துச்
+<div align="right">சென்றார்;</div>
 “பார்வையினை இழந்தீரோ அப்பா நீங்கள்!
 பழிவாங்காமல் விட மாட்டேன் பாவிகளை”யென்று
 போர் முரச ஒலியெழுப்பி மகள் அழுதாள்!
@@ -53,8 +55,6 @@ continues_from_scan: 265
 கற்பெனும் வாளேந்திய என் பெண்ணை நெருங்கிட
 எவனுக்குத் துணிவுண்டு?”
 தந்தை பேசி முடிப்பதற்குள் தணலில் நின்றவள் பதில் சொன்னாள்.
-சென்றார் சென்றார்;
 
-<!-- continues on scan 267 -->
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
+<!-- Gate B restores File6-locked `பின்னர்` and the two locked `சென்றார்` tokens to their PDF-supported locations; the flattened File6 judgment passage is resegmented without lexical source correction. -->
 <!-- மூல ஸ்கேன் பக்கம்: 266; அச்சுப் பக்கம்: 254 -->

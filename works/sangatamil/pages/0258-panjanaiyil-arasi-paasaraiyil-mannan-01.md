@@ -7,7 +7,7 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -22,7 +22,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 
 அதற்குப் பற்பல எடுத்துக்காட்டுகள் உண்டெனினும்,
 ஆரம் போல் கோத்தளித்தார் நக்கீரனார்;
-பத்துப் பாட்டுள் ஒரு
+பத்துப் பாட்டுள் - ஒரு
 முத்துப் பாட்டாய்த் திகழ்கின்ற
 “நெடுநல்வாடை” எனும் தமிழ் அமுதம்! அது;
 நெடுஞ்செழிய பாண்டியனின் வீரம் சொல்லி,
@@ -42,6 +42,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 அதன் பின்னர் நெடுஞ்செழியன்
 அன்றிலென வாழ்வோமென்று
 
-<!-- continues on scan 259 -->
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
+<!-- Gate B preserves File6 wording while restoring the PDF-supported punctuation/lineation `பத்துப் பாட்டுள் - ஒரு` in the decorative opening section. -->
 <!-- மூல ஸ்கேன் பக்கம்: 258; அச்சுப் பக்கம்: 245 -->

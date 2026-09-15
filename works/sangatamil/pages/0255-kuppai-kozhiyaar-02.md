@@ -7,7 +7,7 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 254
 ---
@@ -32,8 +32,9 @@ continues_from_scan: 254
 
 அதுபோல
 “காதலால் துடித்திடுக” என்றென்னை எவருமே தூண்டவில்லை;
+<div align="right">அக்</div>
 காதற் கனலென்னைத் தகிக்கும்போதும் யாரும் வந்து
-தணிக்கவில்லை!
+<div align="right">தணிக்கவில்லை!</div>
 
 குப்பைக் கோழிகள் தமக்குள்ளே சண்டையிட்டுக்
 கொத்திக்கொண்டு தாமே அழிவது போல்
@@ -55,6 +56,5 @@ continues_from_scan: 254
 
 *
 
-<!-- continues on scan 256 -->
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
+<!-- Gate B restores File6-locked `அக்` to its PDF-supported carryover position before `காதற் கனல்...` and keeps the page's source-supported right-edge continuation structure. -->
 <!-- மூல ஸ்கேன் பக்கம்: 255; அச்சுப் பக்கம்: 242 -->

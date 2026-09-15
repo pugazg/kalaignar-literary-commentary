@@ -7,7 +7,7 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 250
 ---
@@ -31,7 +31,8 @@ continues_from_scan: 250
 
 உடலால் குள்ளமாயிருப்பதாலே - அவன்
 உள்ளமும் வெறும் பள்ளமாய் இருந்திடுமோ!
-வளைந்தவளாயிருக்கலாம் கூனி - நிறைந்தவளாயிருப்பதென்ன தீதா?
+வளைந்தவளாயிருக்கலாம் கூனி - நெஞ்சிற் காதல்,
+நிறைந்தவளாயிருப்பதென்ன தீதா?
 
 இதையெல்லாம் சிந்தித்துத்தானோ என்னவோ
 இளநாகனாராம் இனிய சங்கப்புலவர்;
@@ -54,6 +55,5 @@ continues_from_scan: 250
 ஆள் பிடித்தால் பிடி ஒன்றிருக்கும் குறளன் உனக்கு;
 அழகியென்னை நெருங்குதற்குத் தகுதியுண்டோ?
 
-<!-- continues on scan 252 -->
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
+<!-- Gate B restores File6-locked `நெஞ்சிற் காதல்,` to its source-supported position after `கூனி -`, while preserving the PDF-controlled dialogue/page structure. -->
 <!-- மூல ஸ்கேன் பக்கம்: 251; அச்சுப் பக்கம்: 238 -->

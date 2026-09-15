@@ -7,7 +7,7 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 252
 ---
@@ -42,8 +42,8 @@ continues_from_scan: 252
 கொள்ளை இன்பம் மொண்டுவிட்டார்!
 “குறளன் - கூனி” என்பதெல்லாம் உடலில்தான்!
 குலவி மகிழும் உள்ளமிரண்டுக்குள்
-கூனல் இல்லை - நல்ல உயரம்!
-குள்ளமில்லை - வானம் பார்த்த நோக்கு!
+குள்ளமில்லை - நல்ல உயரம்!
+கூனல் இல்லை - வானம் பார்த்த நோக்கு!
 
 *
 
@@ -61,6 +61,5 @@ continues_from_scan: 252
 (குறிப்பு : உரையாடல் போன்ற முழுப்பாடலும்
 43 வரிகள் கொண்டு அமைந்ததாகும்)
 
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
-<!-- This scan visibly closes the section. -->
+<!-- Gate B preserves File6 lexical wording but restores the PDF-supported order `குள்ளமில்லை - நல்ல உயரம்!` / `கூனல் இல்லை - வானம் பார்த்த நோக்கு!`; quotation/provenance/note structure remains source-controlled. -->
 <!-- மூல ஸ்கேன் பக்கம்: 253; அச்சுப் பக்கம்: 240 -->
