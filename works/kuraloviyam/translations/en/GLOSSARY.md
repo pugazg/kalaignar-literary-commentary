@@ -1214,6 +1214,111 @@ Exact GR1 English page-layer compare:
 - **0** Tamil page files;
 - **0** page-status changes.
 
+## Part 006 GR2 controls — scans 593–629
+
+### Chapter labels first evidenced or source-varied in Part 006 GR2
+
+| Tamil | Default English | Editorial note |
+|---|---|---|
+| இல்வாழ்வியல் | Domestic Life | Source-printed Chapter 5 form on scan 594 / printed 577. Reuse the established Chapter 5 English title already controlled for `இல்வாழ்க்கை`; preserve this audited Tamil source variant rather than normalizing it. |
+| கள்ளாமை | Non-Stealing | Chapter 29 label on scan 600 / printed 583. Keep the Chapter-title sense distinct from the source lexical gloss `கள்ளாமை = களவு செய்யாமை` on the same page. |
+| பொச்சாவாமை | Freedom from Negligence | Chapter 54 label on scan 628 / printed 611. |
+
+Existing Chapter controls reused unchanged in GR2 are **Acting After Due Consideration**, **Purity in Action**, **Internal Enmity**, **Awareness of Gossip**, **Honour**, **Self-Control**, **The Method of Action**, **Lamenting the Absent Lover**, **The Minister**, **Good Conduct**, **Reading the Sign**, **Making the Sign Understood**, **The Work of Sustaining One's House and Line**, and **The Blessing of Children**.
+
+Scan **629 / printed 612** begins the vignette that continues into scan 630. Its later Chapter/Kural closure lies outside GR2, so GR2 does **not** infer or manufacture closing metadata at the batch edge.
+
+### Narrative, historical, literary, work-title and place controls evidenced in Part 006 GR2
+
+| Tamil | Default English form | Editorial note |
+|---|---|---|
+| குமணன் | Kumanan | Reuse the established project spelling in the king/poet comparison on scan 593; do not infer identity with the earlier Kumanan vignette merely from the shared name. |
+| காண்டவன் | Kandavan | Source-bounded comparison-name form on scan 593; preserve the audited source form without external correction. |
+| சேரன் / சோழன் / பாண்டி மன்னன் | Chera / Chola / Pandya king | Dynastic comparison forms in scan 593; preserve the source's comparative rhetoric. |
+| அழகர்குடி | Azhagarkudi | Village in the Sevathaan vignette, scans 595–596. |
+| செவத்தான் | Sevathaan | Tyrannical village figure in scans 595–596. |
+| கலியுகக் கண்ணன் | Krishna of the Kali age | Sevathaan's self-description on scan 595. This is a contextual epithet; do not mechanically force the separately controlled personal-name form **Kannan**. |
+| சிவகங்கைச் சீமை / சிவகங்கை | Sivaganga country / Sivaganga | Historical/place reference across scans 597–598. |
+| மருது பாண்டியர் / மருது பாண்டியர்கள் | Maruthu Pandiyars | Historical collective in scans 597–598. |
+| பெரிய மருது | Periya Maruthu | Historical name in scans 597–598. |
+| சின்ன மருது | Chinna Maruthu | Historical name in scans 597–598. |
+| காளையார் கோயில் | Kalaiyar Kovil | Place/temple name in scans 597–598. |
+| கருத்தான் | Karuthaan | Companion/betrayer named across scans 597–598. |
+| வலையன் | Valaiyan | Source-given alias for Karuthaan on scan 597. |
+| ஆங்கிலேயர் | the British | Historical collective in scan 598; preserve only the source-bounded narrative claims. |
+| பாளையக்காரர் / பாளையக்காரர்கள் | palaiyakkarar / palaiyakkarars | Source political/military term on scan 598; retain transliteration rather than importing an external label. |
+| அருவூர் | Aruvur | Place in the life-goal / teacher vignette, scans 599–600. |
+| அன்பின் அடிகளார் | Anbin Adigalar | Teacher in scans 599–600. |
+| நல்வாழ்க்கை | Good Life | Manuscript/work title in scans 599–600. |
+| இரங்கை | Irangai | Householder in the lidded-vessel vignette, scans 601–602. |
+| எழிற்கோ | Ezhilko | Irangai's husband in scans 601–602. |
+| கோவேந்தகோ | Koventhako | Ezhilko's younger brother in scans 601–602. |
+| பாலூர் | Palur | Ancient Tamil town in the Valluvar / Azhagiyan vignette, scans 605–607. |
+| அழகியான் | Azhagiyan | Tamil enthusiast in scans 605–607. Keep this source-specific name spelling distinct from the separately controlled **Alagan / Alagi** names. |
+| வேழமுகன் | Vezhamugan | Young council member in scans 608–609. |
+| வேங்கை மார்பன் / வேங்கைமார்பன் | Vengaimarban | Vezhamugan's companion in scans 608–609. The short address **Vengai** reuses the established spelling without implying identity with an earlier character. |
+| கதிரோன் | Kathiron | Thenmozhi's beloved in scans 613–614. |
+| தேன்மொழி | Thenmozhi | Reuse the existing project personal-name form in scans 613–614; this passage is a personal-name use, not the descriptive “honey-voiced” use seen elsewhere. |
+| குன்றன் | Kunran | Young man in the teacher vignette, scans 617–618; the same spelling is reused in scans 625–626 without requiring identity between the two narrative appearances. |
+| கணியன் | Kaniyan | Father in the learned-child vignette, scans 625–626. |
+| பச்சை | Pachai | Elder/father in scans 625–626. |
+| பச்சையான் | Pachaiyan | Pachai's son in scans 625–626. |
+| உரோமாபுரி / உரோமாபுரிப் பேரரசு | Rome / Roman Empire | Historical setting in scans 627–628; preserve the source-bounded historical narrative without external expansion. |
+| சீசர் | Caesar | Reuse the established project form on scan 627. |
+| அண்டனி | Antony | Historical name printed on scan 627. |
+| அகஸ்டஸ் | Augustus | Historical name printed on scan 627. |
+
+### Source-printed lexical glosses confirmed in Part 006 GR2
+
+| Tamil | Default English | Evidence |
+|---|---|---|
+| பாத்தூண் | sharing and eating in due portions | Source gloss `பகுத்து உண்ணுதல்`, scan 594. |
+| இளிவந்த | degrading / base | Source gloss `இழிவான`, scan 598. |
+| காட்சி | understanding / knowledge | Source gloss `அறிவு`, scan 598. |
+| எள்ளாமை | freedom from being despised | Source gloss `இகழப்படாமை`, scan 600. |
+| கள்ளாமை | refraining from theft | Source gloss `களவு செய்யாமை`, scan 600; keep distinct from the Chapter-title control **Non-Stealing**. |
+| புணர்ச்சி | fitting together / connection / union | Source gloss `பொருந்துதல், தொடர்பு, இணைப்பு`, scan 602. This is a page-specific lexical gloss and does not replace the controlled love-poetics Chapter terms containing `புணர்ச்சி`. |
+| செப்பு | small container | Source gloss `சிமிழ்`, scan 602. |
+| கெளவை | blame / slanderous gossip | Source gloss `பழிதூற்றுதல்`, scan 604. Preserve the existing broader `kauvai` / slander control when the Tamil word itself is being discussed. |
+| எனைத்தொன்று | however much / however great | Source gloss `எவ்வளவாயினும்`, scan 614. |
+| வீழ்வார் | the beloved / one who is loved | Source gloss `விரும்பப்பட்டவர்`, scan 614. |
+| பளிங்கு | crystal / mirror-stone | Source gloss `கண்ணாடிக்கல்`, scan 620. |
+| கடுத்தது | what has grown strong / intense | Source gloss `மிகுந்துள்ளது`, scan 620. |
+| நுண்ணியம் | subtle understanding | Source gloss `நுட்பமான அறிவு`, scan 620. |
+| முகை | bud | Source gloss `அரும்பு`, scan 622. |
+| அமரகம் | battlefield | Source gloss `போர்க்களம்`, scan 624. |
+| தமரகம் | one's surrounding people / community | Source gloss `சூழ இருக்கும் இனத்தார்`, scan 624. |
+| வன்கண்ணர் | fearless warriors | Source gloss `அஞ்சாத வீரர்`, scan 624. |
+| இகழ்ச்சியின் | through neglect / forgetting duty | Source gloss `கடமையை மறந்து இருந்தமையின்`, scan 628. |
+
+## Part 006 GR2 reconciliation record — scans 593–629
+
+GR2 processed **37 consecutive pages: scans 593–629 / printed 576–612**.
+
+- scans **593–629** — glossary / recurring-terminology reconciliation **PASS, 37/37**;
+- all **18 Chapter/Kural metadata records** in the range were checked against their audited Tamil counterparts with **0 chapter-number or Kural-number mismatches**;
+- Chapter controls added or source-varied in this gate: source-form **இல்வாழ்வியல் → Domestic Life**, new **கள்ளாமை → Non-Stealing**, and new **பொச்சாவாமை → Freedom from Negligence**;
+- the established Chapter controls listed above were reused unchanged where their Tamil labels recur;
+- all **18 source-printed lexical glosses** listed above were checked against the audited Tamil records and recorded without external expansion;
+- recurring narrative, place, work-title and historical forms actually evidenced in the range were recorded above; source-bounded historical passages were not externally fact-corrected;
+- **0 English page wording changes** were required for controlled terminology consistency;
+- all **37/37** English pages remain `status: "source-checked"`; this gate makes **0 status changes**;
+- incoming **592→593 CLEAN** was preserved;
+- outgoing **629→630 GENUINE CONTINUATION** was preserved; no artificial narrative or metadata closure was introduced at scan 629;
+- Tamil archival changes — **0**;
+- no external/published/web terminology or standard English Kural wording was imported.
+
+Exact GR2 English page-layer compare:
+
+- pre-GR2 page-layer checkpoint — `42d9df79adc7d4e2cf7f1ef42bbf3fa272fe60a4`;
+- GR2 page-layer endpoint — `42d9df79adc7d4e2cf7f1ef42bbf3fa272fe60a4`;
+- **0 commits / non-divergent identical page layer**;
+- exactly **0 modified English page files**;
+- **0** Tamil page files;
+- **0** page-status changes.
+
+The live-main control checkpoint at GR2 start was `e19633915184f8b3168178d916c6536b9bd168d6`; GR2 control-document updates are recorded separately from the unchanged English page layer.
+
 Exact next glossary-reconciliation batch:
 
-**Part 006 GR2 — scans 593–629 / printed 576–612 — 37 pages.**
+**Part 006 GR3 — scans 630–666 — 37 physical scans**, covering printed **613–648** plus scan **666 / unnumbered pictorial back cover**.
