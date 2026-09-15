@@ -785,9 +785,12 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - SC3 exact compare — **3 commits / exactly 37 modified English page files / 0 non-page changes / 0 Tamil changes**;
 - SC3 fidelity/page-function repairs — **19 page files**;
 - Part 006 English source-check — **COMPLETE / CLOSED 111/111**;
+- English Glossary Reconciliation GR1 — **COMPLETE / PASS 37/37**;
+- GR1 page-layer base → endpoint — `a230f74a9d027435a009cd3569dec70f5f907b9b` → `42d9df79adc7d4e2cf7f1ef42bbf3fa272fe60a4`;
+- GR1 page corrections — **4 English page files / scans 561, 562, 563, 579 / 0 Tamil changes / 0 status changes**;
 - current English state — **111 source-checked / 0 draft**;
 - contents/back-cover handling — **658–665 contents exact / 666 pictorial back cover / 665→666 CLEAN / no external continuation**;
-- next stage — **Part 006 English Glossary Reconciliation GR1 / scans 556–592 / printed 539–575 — 37 pages**.
+- next stage — **Part 006 English Glossary Reconciliation GR2 / scans 593–629 / printed 576–612 — 37 pages**.
 - SC4 endpoint — `113846a357544a33b73d727d20115471f2f3411f`;
 - SC4 exact page-layer compare — **12 modified English page files only**;
 - fidelity corrections — **4 page files / scans 549, 550, 553, 555**;
@@ -796,4 +799,4 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 ## Current frontier
 
-**Part 006 English Glossary Reconciliation GR1 — scans 556–592 / printed 539–575 — 37 pages.**
+**Part 006 English Glossary Reconciliation GR2 — scans 593–629 / printed 576–612 — 37 pages.**
