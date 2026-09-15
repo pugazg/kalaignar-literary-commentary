@@ -1007,21 +1007,65 @@ Final state:
 - post-release drift — **0 English page files / 0 Tamil page files changed**;
 - Part 005 — **FULLY CLOSED**.
 
-Part 005 remains **FULLY CLOSED**. Part 006 Tamil is now **ARCHIVAL-READY / CLOSED — 111/111 textual verified + 111/111 visual verified / 0 exceptions**.
+Part 005 remains **FULLY CLOSED**. Part 006 Tamil is **ARCHIVAL-READY / CLOSED — 111/111 textual verified + 111/111 visual verified / 0 exceptions**.
 
-Repository inventory at the Part-006 Tamil archival-ready checkpoint confirms **0 Part-006 English page records** for scans 556–666. The live translation guide retains the current normal cadence of **33 physical scans**.
+The user updated the normal Kuraloviyam English batch cadence on **2026-09-15** from **33** to **37 physical scans per iteration**. Historical completed English batches keep their original sizes; the new cadence applies prospectively beginning with Part 006.
 
-## Part 006 English workflow — ACTIVE / DRAFTING NEXT
+## Part 006 English drafting — D1 COMPLETE / PASS 37/37
 
-- Tamil authority — **ARCHIVAL-READY / CLOSED 111/111**;
-- English page inventory — **0/111**;
-- translation identity — **project-created English translation**;
-- normal batch size — **33 physical scans**;
-- permanent gate order — **draft → source-check → glossary reconciliation → editorial review → Part review → release report → release-ready**;
-- source basis — audited Tamil page records; controlling scan remains ultimate authority only if a genuinely new provenance/fidelity issue is discovered.
+Draft D1 covers:
+
+**scans 556–592 / printed 539–575 — 37 page-aligned records.**
+
+Page-layer base:
+
+`411fc0fdad71c2b94ef5c17f68dece42e744089d`
+
+Draft D1 page-layer endpoint:
+
+`8ca4baeb33a8a45d13df372dc97acc705c1398e3`
+
+Exact compare:
+
+- **6 commits ahead / non-divergent**;
+- exactly **37 changed files**;
+- all **37** are newly added Part-006 English page records;
+- scans **556–592** are represented exactly once;
+- missing scans — **0**;
+- duplicate scans — **0**;
+- non-English-page changes during the D1 page-layer creation — **0**;
+- Tamil page changes — **0**.
+
+D1 frontmatter discipline:
+
+- `translation_type: "project_translation"` — **37/37**;
+- `status: "draft"` — **37/37**;
+- `source_tamil_status: "verified"` — **37/37**;
+- exact mirrored Tamil filenames/source links — **37/37**;
+- printed-page alignment — **539–575 continuous / 37 pages**.
+
+Boundary discipline:
+
+- incoming **555→556 — CLEAN / source-resolved**;
+- internal source continuations remain page-aligned;
+- outgoing **592→593 — CLEAN**;
+- scan 592 closes the pet-snake / incompatible-companionship vignette with Chapter 89 / Kural 890;
+- scan 593 begins a new source unit and is outside D1.
+
+Current Part-006 English state:
+
+- `draft` — **37**;
+- `source-checked` — **0**;
+- `editorial-reviewed` — **0**;
+- `release-ready` — **0**;
+- `source-limited` — **0**;
+- `blocked` — **0**;
+- not yet drafted — **74**.
+
+Translation identity remains project-created. No published, standard, web, or remembered English Kural wording was imported as authority.
 
 ## Exact next activity
 
-**Part 006 English Draft D1 — scans 556–588 / printed 539–571 — 33 page-aligned records.**
+**Part 006 English Draft D2 — scans 593–629 / printed 576–612 — 37 page-aligned records.**
 
-Do not reopen Part 005. Do not import published, standard, web or remembered English Kural wording.
+Do not reopen Part 005. Do not reopen the closed Part-006 Tamil page layer unless a genuinely new provenance/fidelity issue is discovered.
