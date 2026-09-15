@@ -194,7 +194,7 @@ Part 005 has completed drafting, source-check, glossary reconciliation, editoria
 - Tamil archival-ready record — `../../PART_006_TAMIL_ARCHIVAL_READY.md`;
 - Part-006 English page inventory at Tamil closure — **0/111**.
 
-## Part 006 English drafting — D1 + D2 COMPLETE / PASS
+## Part 006 English drafting — COMPLETE / CLOSED 111/111
 
 User-directed normal cadence is **37 physical scans per iteration**.
 
