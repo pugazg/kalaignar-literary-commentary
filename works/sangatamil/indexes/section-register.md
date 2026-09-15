@@ -35,4 +35,7 @@ The source PDF is complete through scan **497**, which is the back cover. The re
 
 ## Current execution boundary
 
-Physical records exist for **all scans 1–497**. Gate B has structurally reviewed **400/497** scans; frontier **401**. Canonical section completion remains deferred to **Gate E**.
+Physical records exist for **all scans 1–497**. Gate B has structurally reviewed **425/497** scans; frontier **426**. Canonical section completion remains deferred to **Gate E**.
+
+
+Gate-B note: physical scan **425** is the decorative divider `ஒருதலைக் காதல்`; unsupported repository heading `கைக்கிளை` was removed during B17. Full canonical section reconstruction remains Gate E.

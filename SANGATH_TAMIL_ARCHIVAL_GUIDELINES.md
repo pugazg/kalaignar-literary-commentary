@@ -98,16 +98,18 @@ Historical/superseded methodology files must be clearly labelled historical and 
 Gate A — **COMPLETE / PASS**: 497/497 canonical page records; 0 duplicate aliases; 0 missing scans.
 
 Gate B — **IN PROGRESS**:
-- B01–B16 complete
-- structurally reviewed — **400/497**
-- remaining — **97**
-- frontier — **scan 401**
-- latest B16 page-layer endpoint — `93e96b379921a161ab1ca393708f6f4d71408c09`
-- latest durable progress checkpoint — `40e2c594a7a9f7f4baa88375b23e84d39c619235`
+- B01–B17 complete
+- structurally reviewed — **425/497**
+- remaining — **72**
+- frontier — **scan 426**
+- latest B17 page-layer endpoint — `6f56beb69657525a74f55dd08f0fffa6ce85e6f5`
+- latest durable B17 progress commit — `a57048627789246b18e6bff20f5937b16b206fa0`
 - Gate C — **NOT STARTED**
 
-Durable B15 repair: scan **359** is a mixed text/illustration page, not illustration-only; File8 page-348 wording is physically redistributed across scans **358–360**.
+Durable extraction exception: File9 Book Pages **401–412** are not reliable one-to-one lexical blocks for physical scans **413–424**. Gate B must document that defect rather than fabricate lexical alignment or source-rewrite those pages.
+
+Durable mixed-page correction: scan **359** is mixed text/illustration, not illustration-only.
 
 ### Exact next activity
 
-Process Gate B scans **401–425** using `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf` + `File9.md`. Expected next frontier after B17: **scan 426**. Do not start Gate C.
+Process Gate B scans **426–450** using the remainder of `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf` + `File9.md`. Expected next frontier after B18: **scan 451**. Do not start Gate C.

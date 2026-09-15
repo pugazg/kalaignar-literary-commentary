@@ -97,3 +97,5 @@ Section/provenance derived indexes designated later gates-ல் canonical compl
 - Gate C — NOT STARTED
 
 Durable B15 correction: scans **358–359** are mixed text/illustration; scan **359** is not illustration-only and must not regress.
+
+Durable File9 exception: Book Pages **401–412** are not reliable one-to-one lexical blocks for physical scans **413–424**; document the defect rather than fabricating alignment.

@@ -11,7 +11,7 @@ Last synchronized with live main: **2026-09-15**.
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–015 **ARCHIVAL-READY through scan 323**; commentary through printed page 270 / Kural 1330 |
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–015 **RELEASED through the end of the supplied volume** |
 | Thirukkural semantic structure | பால் → இயல் → அதிகாரம் | **COMPLETE — 3 பால் / 13 இயல் / 133 அதிகாரம் / 1,330 குறள் mapped** |
-| சங்கத் தமிழ் | தமிழ் | **ACTIVE — Gate A CLOSED; Gate B B01–B16 COMPLETE; 400/497 structurally reviewed; frontier scan 401** |
+| சங்கத் தமிழ் | தமிழ் | **ACTIVE — Gate A CLOSED; Gate B B01–B17 COMPLETE; 425/497 structurally reviewed; frontier scan 426** |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த source-controlled edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Kuraloviyam | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
@@ -60,8 +60,8 @@ Authority split:
 Gate A — COMPLETE / PASS: 497/497 canonical records; 0 duplicates; 0 missing.
 
 Gate B — IN PROGRESS:
-- B01–B16 complete
-- 400/497 structurally reviewed
+- B01–B17 complete
+- 425/497 structurally reviewed
 - 97 remaining
 - frontier — scan 401
 - Gate C — NOT STARTED

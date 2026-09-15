@@ -248,14 +248,14 @@ Current durable state — **2026-09-15**:
 - canonical page records — 497/497
 - duplicate aliases — 0
 - missing scans — 0
-- Gate B B01–B16 — COMPLETE / PASS
-- structurally reviewed — **400/497**
-- remaining — **97**
-- frontier — **scan 401**
+- Gate B B01–B17 — COMPLETE / PASS
+- structurally reviewed — **425/497**
+- remaining — **72**
+- frontier — **scan 426**
 - Gate C — NOT STARTED
-- latest B16 page-layer endpoint — `93e96b379921a161ab1ca393708f6f4d71408c09`
-- latest durable progress checkpoint — `40e2c594a7a9f7f4baa88375b23e84d39c619235`
+- latest B17 page-layer endpoint — `6f56beb69657525a74f55dd08f0fffa6ce85e6f5`
+- latest durable B17 progress commit — `a57048627789246b18e6bff20f5937b16b206fa0`
 
-Durable repair note: scan **359** is mixed text/illustration; File8 page 348 is physically redistributed across scans **358–360**.
+Durable File9 exception: Book Pages 401–412 are mis-segmented/replaced for physical scans 413–424; do not fabricate lexical alignment.
 
-Exact next activity: **Gate B B17 — scans 401–425**, using `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf` + `File9.md`.
+Exact next activity: **Gate B B18 — scans 426–450**, using the remainder of `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf` + `File9.md`.

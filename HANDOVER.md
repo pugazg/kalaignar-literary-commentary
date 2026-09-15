@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed 2026-09-15: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gate B B01–B16 is COMPLETE through scan 400 with frontier scan 401.
+Last refreshed 2026-09-15: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gate B B01–B17 is COMPLETE through scan 425 with frontier scan 426.
 
 ## Repository
 
@@ -45,9 +45,9 @@ Gate A: **COMPLETE / PASS**.
 
 Current gate: **Gate B — Gemini-locked structural fidelity**.
 
-Durable Gate-B state: **400/497 structurally reviewed / 97 remaining / frontier scan 401 / Gate C NOT STARTED**.
+Durable Gate-B state: **425/497 structurally reviewed / 72 remaining / frontier scan 426 / Gate C NOT STARTED**.
 
-Exact next activity: **B17 scans 401–425** using `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf` for structure/presentation and `File9.md` for locked lexical wording.
+Exact next activity: **B18 scans 426–450** using the remainder of `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf` for structure/presentation and `File9.md` for locked lexical wording.
 
 ## Mandatory startup — active சங்கத் தமிழ் work
 
@@ -176,6 +176,8 @@ For every batch:
 When the user says **“proceed with next activity”**, execute the recorded next batch directly. Do not merely explain the plan, ask for files already supplied, or stop because the controlling source has been split.
 
 Durable B15 correction: scan 359 is mixed text/illustration, not illustration-only; File8 page 348 is physically redistributed across scans 358–360.
+
+Durable B17 exception: File9 Book Pages 401–412 are not reliable one-to-one lexical blocks for physical scans 413–424. Do not fabricate lexical alignment for them or similar broken blocks.
 
 # Exact next activity — சங்கத் தமிழ்
 

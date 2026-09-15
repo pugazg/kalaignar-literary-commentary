@@ -19,7 +19,7 @@ Gemini File1.md … File10.md is the **locked lexical layer** for the current Ga
 
 A Stage-0 regression pilot on scans **31–36** demonstrated that some prior `verified` records contained substantive lexical/structural errors. Those text pages have therefore been corrected and reopened to `needs-review` pending the systematic Pass 2/3 sweeps.
 
-Pass-1 physical capture is complete. Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate aliases / 0 missing scans**. Gate B has structurally reviewed **400/497** scans through B16; current frontier is **scan 401**.
+Pass-1 physical capture is complete. Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate aliases / 0 missing scans**. Gate B has structurally reviewed **425/497** scans through B17; current frontier is **scan 426**.
 
 ## Current map
 
@@ -48,8 +48,8 @@ Pass-1 physical capture is complete. Gate A repository hygiene is complete: **49
 | 51 | printed 36 | continuation of `மாதரின் கண்ட மலர்கள்` | transcription-only first pass; `needs-review` |
 | 52 | — | full-page illustration | single-pass capture; `needs-review`; no visible printed page number |
 | 53 | printed 38 | continuation of `மாதரின் கண்ட மலர்கள்` | fast transcription-only first pass; `needs-review` |
-| 54–400 | later body | physical capture present | **Gate B structurally reviewed; page status remains independently governed** |
-| 401–497 | later body / end matter | physical capture present | **Gate B structural fidelity pending from scan 401** |
+| 54–425 | later body | physical capture present | **Gate B structurally reviewed; page status remains independently governed** |
+| 426–497 | later body / end matter | physical capture present | **Gate B structural fidelity pending from scan 426** |
 
 ## Important controls
 
@@ -74,4 +74,7 @@ Pass-1 physical capture is complete. Gate A repository hygiene is complete: **49
 
 ## Active gate
 
-**Gate B structural fidelity — 400/497 reviewed; next B17 scans 401–425.**
+**Gate B structural fidelity — 425/497 reviewed; next B18 scans 426–450.**
+
+
+Durable extraction note: File9 Book Pages **401–412** are mis-segmented/replaced for physical scans **413–424**; this does not change the physical scan map.
