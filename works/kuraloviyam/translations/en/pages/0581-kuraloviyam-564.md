@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-Two thousand years ago itself, Valluvar had to declare with force and clarity: "Birth is equal." Why?
+As early as two thousand years ago, Valluvar had to declare with force and clarity: "Birth is equal." Why?
 
 Just as society in this twentieth century lies fragmented into hundreds and thousands of caste divisions, in Valluvar's own time too people must have cherished notions of high and low by birth. Unable to bear that pain, Valluvar composed the Kural saying that birth is equal to all living beings.
 
