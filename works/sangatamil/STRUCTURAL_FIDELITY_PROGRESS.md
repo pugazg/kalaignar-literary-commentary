@@ -1349,16 +1349,123 @@ Exact page-file set:
 
 This progress-record update is the sole intended non-page change after the Batch B13 page-layer endpoint.
 
+## Batch B14 — scans 326–350
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-15**
+- scans reviewed: **326–350 / 25**
+- controlling source: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_007_pages_301-350.pdf`
+- lexical lock used: `File7.md` — Phase 16 / Book Pages **314–338** for this physical-scan batch
+- batch base: `712e32b63552788d6ca4f4f8464aab1c2234a739`
+- page-layer endpoint: `c227e5f2d95b6ad464fdf6e730639827c7c92941`
+- structurally changed page records: **10**
+- reviewed with no page-record change: **15** — scans **326, 329, 332, 333, 335, 337, 338, 339, 341, 342, 343, 344, 345, 347, 349**
+- scan-led lexical corrections / modernizations: **0**
+- unresolved structural placement issues: **0**
+
+### Gate-B reconciliation performed
+
+1. **scans 326–327 — closure of `ஒரு கோடி வாழ்த்துக் கூறிடுவோம்!`**
+   - scan 326 was already physically aligned; File7-only `என்றார்!` is unsupported by the scan and remains excluded as extraction debris;
+   - the File7 quotation bullet/page-number merge remains excluded as non-literary extraction structure;
+   - scan 327 restores File7-locked `கிளையுட னருத்தி` exactly, preserving the source-visible sandhi/spacing within the quotation;
+   - quotation → provenance → `பொருள் விளக்கம்` structure remains PDF-controlled.
+
+2. **scans 328–332 — `வீரனைப் பாடிய சேரன்!`**
+   - scan 328 retains the source-visible section identity in metadata while preserving File7-locked decorative body heading `வானைப் பாடிய / சோன்!`;
+   - unsupported Bengali-like File7 token `৩৩৩৩৩৩৩৩ত` is excluded as extraction debris;
+   - scan 329 remains a full-page illustration;
+   - scan 330 restores File7-locked `புலவனாய்`;
+   - scan 331 preserves File7-locked `கேடயம்தனையும்` despite the visible scan differing; stray File7 numeric `66` remains excluded;
+   - scan 332 was already correctly ordered as quotation continuation → separator → provenance → `பொருள் விளக்கம்`.
+
+3. **scans 333–337 — `உற்றுழி உதவி உறுபொருள் கொடுத்திடுக!`**
+   - scan 333 was already structurally aligned;
+   - scan 334 preserves File7-locked `வேண்டு` rather than source-recovering omitted lexical material, and restores the PDF-supported spacing `எய்திட்ட போதுகூட`; stray File7 numeric `66` tokens remain excluded;
+   - scan 335 remains a full-page illustration;
+   - scan 336 restores locked `ஒரு` to the source-supported right-edge carryover after `கீழோருமல்லர்! -`;
+   - scan 337 was already aligned through quotation continuation, provenance, and glossary.
+
+4. **scans 338–341 — `தமிழ் நெஞ்சங்கள் போற்றிய தலையாலங்கானத்தான்!`**
+   - scans 338–339 were already aligned; scan 339 remains a full-page battle illustration;
+   - scan 340 uses the PDF as structural authority: locked `அவன்` and `உன்னிடம்` are returned to their physical positions;
+   - File7-only `போரில்` and trailing wrapper fragment `கள` on scan 340 are unsupported by the scan and are excluded as extraction debris;
+   - scan 341 was already structurally aligned; stray File7 numeric `66` tokens remain excluded and the source-note table remains preserved as the section-closing note block.
+
+5. **scans 342–346 — `சென்று வா மகனே; செருமுனை நோக்கி!`**
+   - scan 342 was already aligned to the source-visible decorative heading and opening narrative;
+   - scan 343 remains a full-page illustration;
+   - scan 344 already excludes File7 wrapper `吗。。` and restores displaced `உடைபட்டன!` to the PDF-supported battle-news line;
+   - scan 345 was already structurally aligned;
+   - scan 346 restores File7-locked historical `யெறிந்து` and glossary `நெல் உற்ற செரு`; the File7 quotation bullet is excluded as extraction structure and provenance/gloss order remains PDF-controlled.
+
+6. **scans 347–350 — `புதுப் பாட்டுப் புலவன்!`**
+   - scan 347 was already structurally aligned;
+   - scan 348 returns File7-locked `விட்டாள்!` from its displaced post-page-number extraction position to the source-supported right-edge completion of `...மடிதனிலே வீழ்ந்து`;
+   - scan 349 remains a full-page illustration;
+   - scan 350 restores locked `ஒருபுறம் -` to its source-supported right-edge position;
+   - File7 wrapper `Po` and stray numeric `66` remain excluded;
+   - the source-note block continues beyond this split, so scan **350** is now durably marked `continues_to_scan: 351`.
+
+### Illustration handling confirmed
+
+- scans **329, 335, 339, 343, 349** are full-page colour illustrations;
+- no source-visible literary text or printed page number is present on those scans;
+- all five were reviewed and required **no repository change**.
+
+### Locked omissions / extraction exceptions carried forward
+
+- scan **326** — unsupported File7 `என்றார்!` excluded; quotation bullet/page-number merge excluded as extraction structure.
+- scan **328** — source title is `வீரனைப் பாடிய சேரன்!`; File7 locks body heading `வானைப் பாடிய / சோன்!`. Metadata/body authority split preserved; Bengali-like debris excluded.
+- scan **331** — File7 locks `கேடயம்தனையும்` while the visible scan differs; lexical lock preserved. Stray numeric `66` excluded.
+- scan **334** — File7 locks `வேண்டு`; no source recovery of omitted lexical material is performed. Stray numeric `66` tokens excluded.
+- scan **340** — unsupported File7 `போரில்` and trailing `கள` excluded; locked `அவன்` / `உன்னிடம்` retained but structurally repositioned.
+- scan **341** — stray File7 numeric `66` tokens excluded.
+- scan **344** — File7 wrapper `吗。。` excluded; displaced `உடைபட்டன!` retained at its scan-supported position.
+- scan **346** — extraction bullet marker excluded; File7 historical `யெறிந்து` / `நெல் உற்ற செரு` preserved.
+- scan **348** — File7 displaced `விட்டாள்!` past the page marker; token retained and restored to physical scan 348.
+- scan **350** — File7 wrapper `Po` and numeric `66` excluded; source-note continuation to scan 351 recorded.
+
+## Exact changed-file audit — Batch B14
+
+Page-layer compare:
+
+`712e32b63552788d6ca4f4f8464aab1c2234a739` → `c227e5f2d95b6ad464fdf6e730639827c7c92941`
+
+Result:
+
+- **2 commits ahead** (batch page update + one immediate lexical-lock correction)
+- **exactly 10 modified page files**
+- **0 other page files**
+- **0 non-page files at the page-layer endpoint**
+- scans **326, 329, 332, 333, 335, 337, 338, 339, 341, 342, 343, 344, 345, 347, 349** reviewed with no change
+
+Exact page-file set:
+
+- `works/sangatamil/pages/0327-oru-kodi-vaazhththuk-kooriduvom-05.md`
+- `works/sangatamil/pages/0328-veeranai-paadiya-cheran-01.md`
+- `works/sangatamil/pages/0330-veeranai-paadiya-cheran-03.md`
+- `works/sangatamil/pages/0331-veeranai-paadiya-cheran-04.md`
+- `works/sangatamil/pages/0334-utruzhi-uthavi-uruporul-koduththiduga-02.md`
+- `works/sangatamil/pages/0336-utruzhi-uthavi-uruporul-koduththiduga-04.md`
+- `works/sangatamil/pages/0340-tamil-nenjangal-pootriya-thalaiyalangaanaththaan-03.md`
+- `works/sangatamil/pages/0346-sendru-vaa-magane-serumunai-nokki-05.md`
+- `works/sangatamil/pages/0348-pudhu-paattup-pulavan-02.md`
+- `works/sangatamil/pages/0350-pudhu-paattup-pulavan-04.md`
+
+This progress-record update is the sole intended non-page change after the Batch B14 page-layer endpoint.
+
 ## Gate B cumulative state
 
-- structurally reviewed: **325/497**
-- structurally remaining: **172**
-- current frontier: **scan 326**
+- structurally reviewed: **350/497**
+- structurally remaining: **147**
+- current frontier: **scan 351**
 - Gate C: **NOT STARTED**
 
 ## Exact next activity
 
-Process **Gate B scans 326–350** against `TVA_BOK_0042551_சங்கத்_தமிழ்_part_007_pages_301-350.pdf` + `File7.md` — continuing Phase 16 through the remainder of this split.
+Process **Gate B scans 351–375** against `TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf` + `File8.md`.
 
 Preserve the Gemini lexical lock and continue structural correction only. Do **not** start Gate C.
 
