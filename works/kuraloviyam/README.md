@@ -428,9 +428,18 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - D2 page-layer base — `7961c8869685814e213b0a6e891b5da878b0c126`;
 - D2 page-layer endpoint — `9c09dfe256eb72e75beccc4ff6ba0d8c87e922da`;
 - D2 exact compare — **6 commits / exactly 37 new English page files / 0 non-page changes / 0 Tamil changes**;
-- current English status — **74 draft / 37 not yet drafted / 0 source-checked / 0 blocked**;
-- exact next stage — **Part 006 English Draft D3 / scans 630–666 — 37 physical scans**.
+- current English status after D2 — **74 draft / 37 not yet drafted / 0 source-checked / 0 blocked**;
+- English Draft D3 — **COMPLETE / PASS 37/37**;
+- D3 range — **scans 630–666 / printed 613–648 + unnumbered back cover**;
+- D3 page-layer base — `f88a79c563871669c96533c07d5d50f0f87d1e17`;
+- D3 page-layer endpoint — `8a87fbe5cf0ee36858111f693805eb4ab64ad8b0`;
+- D3 exact compare — **5 commits / exactly 37 new English page files / 0 non-page changes / 0 Tamil changes**;
+- contents handling — **658–665 complete contents run; Tamil Kural incipits retained as source index keys**;
+- scan 666 — **pictorial back cover / physical endpoint / no external continuation**;
+- English drafting — **COMPLETE / CLOSED 111/111**;
+- current English status — **111 draft / 0 not yet drafted / 0 source-checked / 0 blocked**;
+- exact next stage — **Part 006 English Source-Check SC1 / scans 556–592 / printed 539–575 — 37 pages**.
 
 ## Current frontier
 
-**Part 006 English Draft D3 — scans 630–666 — 37 physical scans.**
+**Part 006 English Source-Check SC1 — scans 556–592 / printed 539–575 — 37 pages.**
