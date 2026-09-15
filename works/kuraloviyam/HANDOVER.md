@@ -365,7 +365,7 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - durable final closure — `PART_005_FINAL_CLOSURE.md`;
 - Part 005 — **FULLY CLOSED**.
 
-## Part 006 — TAMIL CLOSED / ENGLISH SOURCE-CHECK ACTIVE
+## Part 006 — TAMIL CLOSED / ENGLISH GLOSSARY RECONCILIATION ACTIVE
 
 - scans — **556–666**;
 - source endpoint — **scan 666**;
