@@ -480,9 +480,13 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - Pass 3 structural/visual corrections overall — **2 page records / scans 611 and 631**;
 - Pass 3 lexical/body-text changes overall — **0**;
 - Pass 3 — **COMPLETE / PASS 111/111**;
-- all 111 records remain `needs-review` / visual `needs-review`;
-- exact next stage — **Part 006 audit**.
+- Part 006 audit — **PASS / COMPLETE**;
+- audit record — `works/kuraloviyam/PART_006_AUDIT.md`;
+- direct header audit — **111/111 canonical records / 0 gaps / 0 duplicates / 0 mapping anomalies**;
+- page functions — **102 body-prose / 8 contents-index / 1 back-cover**;
+- status distribution after audit — **111 needs-review / 111 visual needs-review / 0 premature verified / 0 partial / 0 blocked / 0 source-limited**;
+- exact next stage — **Part 006 final metadata/status synchronization**.
 
 ## Exact next activity — குறளோவியம்
 
-Proceed with the **Part 006 audit** across scans **556–666 / local pages 1–111 / printed 539–648 plus unnumbered back cover**. Verify inventory, mapping, source identity, gate closure, continuity, Kural/metadata and page-function structure, source limits and pre-final status discipline. Do not promote statuses during the audit.
+Perform the **Part 006 final metadata/status synchronization** across scans **556–666**. Promote only the two final metadata fields from `needs-review` to `verified` for all 111 audited records. Do not change Tamil wording, Kural text, page structure, visual notes, source comments, page types or scan/local/printed mapping. Audit the exact change set afterward.
