@@ -768,4 +768,4 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 ## Current frontier
 
-**Part 006 final metadata/status synchronization — scans 556–666 / 111 audited records.**
+**Part 006 documentation synchronization.**
