@@ -1,5 +1,11 @@
 # சங்கத் தமிழ் — கலைஞர் மு. கருணாநிதி
 
+## Authoritative productive completion plan
+
+Active plan: [`PRODUCTIVE_COMPLETION_PLAN.md`](PRODUCTIVE_COMPLETION_PLAN.md).
+
+Current gate: **Gate A — Source bundle + repository hygiene**. The immediate target is **497/497 unique canonical scan records, 0 duplicate aliases, 0 missing scans**. The older eight-pass wording below is historical unless restated by the productive plan.
+
 This directory is the source-first archival workspace for **சங்கத் தமிழ்** by **கலைஞர் மு. கருணாநிதி**.
 
 The methodology follows the repository's source-first archival discipline, with a dedicated printed Sangam-provenance layer and a full-volume multi-pass execution model.
