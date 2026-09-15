@@ -1252,8 +1252,83 @@ Current Part-006 English state after SC2:
 
 No published, standard, web, or remembered English Kural wording was imported.
 
+## Part 006 English source-check — SC3 COMPLETE / PASS 37/37
+
+SC3 covers:
+
+**scans 630–666 — 37 physical scans**, comprising printed **613–648** plus scan **666 / unnumbered pictorial back cover**.
+
+SC3 page-layer base:
+
+`ba1391558c55e0a2917af872b6fbc42c0af8f064`
+
+SC3 page-layer endpoint:
+
+`35f666f3ab3e904565c5c24deecbffc034133a39`
+
+Exact compare:
+
+- **3 commits ahead / non-divergent**;
+- exactly **37 modified English page files**;
+- scans **630–666** represented exactly once;
+- missing scans — **0**;
+- duplicate scans — **0**;
+- Tamil page changes — **0**;
+- non-English-page/control-file changes during the SC3 page layer — **0**;
+- all **37/37** pages retain `translation_type: "project_translation"`;
+- all **37/37** pages retain `source_tamil_status: "verified"`;
+- all **37/37** pages are now `status: "source-checked"`.
+
+SC3 source-fidelity / page-function corrections were required on **19 page files**:
+
+- **635–636** — restored the audited physical sentence split across `உண்மையை / உணர்ந்து...`; scan 635 now ends with “the truth...” and scan 636 resumes “...become clear to me...”;
+- **641–642** — restored the physical split across `பறந்து திரியும் / புறாக்களையும்...`; the explicit list of pigeons, sparrows, goats, cattle, deer and rabbits now begins on scan 642 where the Tamil places it;
+- **645–646** — restored the source's `பழுப்பு இலை` image as **“the brown leaf”** and preserved the page split across the sentence;
+- **648–649** — restored the long royal speech to the audited physical-page boundary; the source phrase `எதிரிகள் கோடி இட்டழைத்தாலும் தொடேன்` is now rendered as enemies offering **crores** and the commander's heart of steel refusing to touch it, without the unsupported “mountains of reward” expansion;
+- **650–651** — restored the sentence split across `அவர் இருக்குமிடம் எனக்குத் / தெரிந்தாலாவது...`;
+- **658–665** — removed project-explanatory prose that was not printed on the contents pages, aligned the English `section` metadata to **Contents**, and retained the Tamil Kural incipits / printed-page locators exactly;
+- **665** — retained the library stamp only as clearly separated **Visual material**, not as source body text;
+- **666** — aligned the English `section` metadata to **Back cover** while preserving factual visual description and no invented body prose.
+
+The other **18 pages** changed only by `draft` → `source-checked`.
+
+Contents audit:
+
+- scans **658–665** — **8/8** contents pages checked;
+- all numbered and sub-lettered Tamil index-entry lines match the audited Tamil records **exactly**;
+- entry-line counts by scan — **40, 46, 46, 46, 46, 46, 46, 40**;
+- scan **665** fourth-edition orthography note preserved in English;
+- blue Raj Bhavan Library / Madras stamp remains explicitly identified as non-source material.
+
+Endpoint discipline:
+
+- incoming **629→630 GENUINE CONTINUATION** — preserved;
+- **657→658 CLEAN / transition to contents** — preserved;
+- **658→665** contents continuation — preserved;
+- **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT** — preserved;
+- **666 — NO EXTERNAL CONTINUATION** — preserved.
+
+## Part 006 English source-check — COMPLETE / CLOSED 111/111
+
+Final Part-006 English state after source-check:
+
+- `source-checked` — **111**;
+- `draft` — **0**;
+- `editorial-reviewed` — **0**;
+- `release-ready` — **0**;
+- `source-limited` — **0**;
+- `blocked` — **0**.
+
+Source-check batches:
+
+- SC1 — **556–592 / 37/37 COMPLETE / PASS**;
+- SC2 — **593–629 / 37/37 COMPLETE / PASS**;
+- SC3 — **630–666 / 37/37 COMPLETE / PASS**.
+
+No published, standard, web, or remembered English Kural wording was imported.
+
 ## Exact next activity
 
-**Part 006 English Source-Check SC3 — scans 630–666 — 37 physical scans**, covering printed **613–648** plus scan **666 / unnumbered pictorial back cover**.
+**Part 006 English Glossary Reconciliation GR1 — scans 556–592 / printed 539–575 — 37 pages.**
 
-Compare each English page directly against the audited Tamil record paragraph-by-paragraph / block-by-block. Preserve the final contents/back-cover structure and source endpoint exactly. Only passing pages may move from `draft` to `source-checked`.
+Compare recurring names, work/section names, controlled literary terms, Chapter labels, citation metadata, source-printed glosses and repeated English renderings against `GLOSSARY.md` and the audited Tamil context. Update the glossary only for terms actually evidenced in this range. This gate makes **no page-status promotion**; passing pages remain `source-checked`.
