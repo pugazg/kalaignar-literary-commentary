@@ -67,7 +67,7 @@ Those are later gates and were intentionally not mixed into Gate A.
 
 **Gate A CLOSED / PASS.**
 
-Gate A closure originally handed off to Gate B at scans 1–25. That historical handoff is now complete.
+Gate A closure is historical and must not be used as a live execution frontier.
 
 Current live Gate-B state at documentation refresh 2026-09-15: **B01–B14 complete / 350 of 497 structurally reviewed / frontier scan 351**. See `STRUCTURAL_FIDELITY_PROGRESS.md` and root `NEXT_CHAT_PROMPT_SANGATH_TAMIL.md` for the live frontier.
 
