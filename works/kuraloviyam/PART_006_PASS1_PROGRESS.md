@@ -508,4 +508,6 @@ Pass 1 is **CLOSED / COMPLETE**. Its original `needs-review` state is retained a
 
 Current live Part-006 page state is **111/111 `verified` textual + 111/111 `verified` visual / 0 exceptions**.
 
-Exact next stage: **Part 006 Tamil archival-ready checkpoint**. Do not reopen Pass 1 or modify the page layer for that checkpoint.
+The separate Tamil archival-ready checkpoint is now **PASS / CLOSED**. Part 006 Tamil is **ARCHIVAL-READY / CLOSED** and Pass 1 remains historical evidence only.
+
+Exact next stage: **Part 006 English Draft D1 — scans 556–588 / printed 539–571 — 33 pages**. Do not reopen Pass 1 for the English workflow.
