@@ -1807,8 +1807,30 @@ Source and structural controls remain unchanged:
 
 No published/standard/web English Kural wording or external edition prose was imported.
 
+## Part 006 final closure checkpoint — PASS / CLOSED
+
+Durable final closure record:
+
+`works/kuraloviyam/PART_006_FINAL_CLOSURE.md`
+
+Part 006 final maintained state:
+
+- Tamil — **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified / 0 exceptions**;
+- English — **RELEASE COMPLETE / CLOSED — 111/111 release-ready**;
+- Part-level English review — **PASS / CLOSED**;
+- English release report — **APPROVED / CLOSED**;
+- approved English wording changes during release — **0**;
+- final source endpoint — **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**;
+- scan **666 — NO EXTERNAL CONTINUATION**.
+
+Whole six-Part maintained English disposition:
+
+- Parts **002–006** — **555/555 release-ready**;
+- Part **001** — **107 release-ready + 4 source-limited**;
+- whole work — **662 release-ready + 4 source-limited / 0 blocked**.
+
 ## Exact next activity
 
-**Part 006 final closure checkpoint / documentation confirmation.**
+**No active Kuraloviyam content frontier. The six-Part source family is fully closed.**
 
-Create the durable final closure record for Part 006, reconcile the remaining whole-work control documents to the final **111/111 release-ready** English state, confirm Tamil and English closure together, and mark the six-part `குறளோவியம்` source family complete. Do not alter approved English wording, Tamil page records, glossary controls, metadata, contents/index keys, visual sections or boundary classifications.
+Future work should reopen a closed Part only for a genuinely new source/provenance/fidelity issue or an explicitly requested new derivative/output. Normal page-batched translation/review work is complete.
