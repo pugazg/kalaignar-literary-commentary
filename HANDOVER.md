@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Parts 001–005 CLOSED; Part 006 Tamil ARCHIVAL-READY / CLOSED; English source-check COMPLETE / CLOSED 111/111; Glossary GR1 next**: **2026-09-15**.
+Last refreshed for Kuraloviyam **Parts 001–005 CLOSED; Part 006 Tamil ARCHIVAL-READY / CLOSED; English source-check COMPLETE / CLOSED 111/111; Glossary GR1 COMPLETE / PASS 37/37; GR2 next**: **2026-09-15**.
 
 ## Repository
 
@@ -518,10 +518,14 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - SC3 exact compare — **3 commits / exactly 37 modified English page files / 0 non-page changes / 0 Tamil changes**;
 - SC3 source-fidelity/page-function repairs — **19 page files**;
 - Part 006 English source-check — **COMPLETE / CLOSED 111/111**;
+- English Glossary Reconciliation GR1 — **COMPLETE / PASS 37/37**;
+- GR1 page-layer base → endpoint — `a230f74a9d027435a009cd3569dec70f5f907b9b` → `42d9df79adc7d4e2cf7f1ef42bbf3fa272fe60a4`;
+- GR1 exact page compare — **1 commit / exactly 4 modified English page files / 0 non-page changes / 0 Tamil changes / 0 status changes**;
+- GR1 terminology repairs — **scans 561–563 Alagan/Alagi; scan 579 Gandhi**;
 - current Part-006 English state — **111 source-checked / 0 draft**;
 - source endpoint handling — **658–665 contents exact / 666 pictorial back cover / 665→666 CLEAN / 666 no external continuation**;
-- exact next stage — **Part 006 English Glossary Reconciliation GR1 / scans 556–592 / printed 539–575 — 37 pages**.
+- exact next stage — **Part 006 English Glossary Reconciliation GR2 / scans 593–629 / printed 576–612 — 37 pages**.
 
 ## Exact next activity — குறளோவியம்
 
-Proceed with **Part 006 English Glossary Reconciliation GR1 — scans 556–592 / printed 539–575 — 37 pages**. Compare recurring names, controlled literary terms, work/section names, Chapter labels, citation metadata, source-printed glosses and repeated English forms against `works/kuraloviyam/translations/en/GLOSSARY.md` and the audited Tamil context. Update the glossary only for terms evidenced in the active range. This gate makes **no page-status promotion**; passing pages remain `source-checked`.
+Proceed with **Part 006 English Glossary Reconciliation GR2 — scans 593–629 / printed 576–612 — 37 pages**. Compare recurring names, controlled literary terms, work/section names, Chapter labels, citation metadata, source-printed glosses and repeated English forms against `works/kuraloviyam/translations/en/GLOSSARY.md` and the audited Tamil context. Update only source-evidenced controls. This gate makes **no page-status promotion**; passing pages remain `source-checked`.
