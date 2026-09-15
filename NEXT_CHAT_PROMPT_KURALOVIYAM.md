@@ -1,72 +1,51 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Derived Sections S2
+# NEXT CHAT PROMPT — குறளோவியம் / Derived Sections S2 CLOSED
 
-Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active derived work `works/kuraloviyam/sections/`. **LIVE MAIN IS AUTHORITATIVE.**
+Continue in `pugazg/kalaignar-literary-commentary`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Maintained corpus state
 
 The six-Part archival + maintained English workflow remains **FULLY CLOSED**.
 
-Do not modify:
+Do not modify closed Tamil or English page records unless genuinely new source evidence requires reopening.
 
-- `works/kuraloviyam/pages/`;
-- `works/kuraloviyam/translations/en/pages/`;
-- closed Part review/release/final-closure decisions.
+## Derived Sections S1 — CLOSED
 
-Whole maintained disposition:
+Structural scaffold under `works/kuraloviyam/sections/` is complete.
 
-- Tamil — **662 verified + 4 explicit partial/source-limited; 666/666 visual verified**;
-- English — **662 release-ready + 4 source-limited**;
-- blocked — **0**.
+## Derived Sections S2 — COMPLETE / PASS
 
-## Derived Sections S1 — COMPLETE / PASS
-
-S1 commit:
-
-`b29cb2e5d25904250ca69ad2c0bc085666685b01`
-
-Created under `works/kuraloviyam/sections/`:
-
-- front matter — 7 source-derived sub-sections;
-- Book/Iyal scaffold — 4 Aram + 7 Porul + 2 Inbam Iyal;
-- **120** source-evidenced Adhikaram files;
-- exact source contents entries **1–300** in 8 files;
-- `STRUCTURE_POLICY.md`;
-- `ADHIKARAM_COVERAGE.md`;
-- `SECTIONS_BUILD_STATUS.md`.
-
-No audited Tamil or maintained English page was changed.
-
-## Structural rule
-
-Hierarchy target:
+Hierarchy now operational:
 
 **Book → Iyal → Adhikaram → Kuraloviyam contents entry**
 
-Book/Iyal placement is explicitly a derived navigation scaffold. Adhikaram labels and entry assignments must remain source-evidenced.
+Final S2 state:
 
-## Exact next activity — S2
+- exact contents entries processed — **300/300**;
+- fully resolved — **298**;
+- partial source metadata — **2**: entries **46, 104**;
+- unresolved — **0**;
+- source-evidenced Chapter numbers — **121/133**;
+- Chapter numbers not evidenced by entry closures — **1, 18, 22, 25, 44, 52, 70, 76, 86, 91, 106, 107**;
+- Tamil page-layer changes — **0**;
+- English page-layer changes — **0**.
 
-Crosswalk contents entries **1–300** to their source-evidenced Adhikaram.
+Durable outputs:
 
-Method:
+- `works/kuraloviyam/sections/SECTIONS_BUILD_STATUS.md`;
+- `works/kuraloviyam/sections/crosswalk/S2_MASTER_CROSSWALK.tsv`;
+- `works/kuraloviyam/sections/crosswalk/S2_EXCEPTION_AUDIT.md`;
+- 121 populated source-evidenced Adhikaram files.
 
-1. read the exact entry start printed page from `sections/04-contents/`;
-2. derive the entry page span from the next entry start;
-3. inspect the audited closing page under `works/kuraloviyam/pages/`;
-4. extract its printed Chapter / Kural metadata;
-5. append the entry to the matching source-evidenced Adhikaram file with:
-   - entry number;
-   - Tamil contents incipit;
-   - printed-page span;
-   - overall scan span;
-   - Chapter number/title exactly as maintained;
-   - Kural number(s);
-6. if metadata cannot be secured, mark the entry unresolved rather than guessing.
+Entry **202** is a source-proven shared-page overlap through scan 452.
 
-## Safeguards
+Entries **46** and **104** retain explicit source-metadata limitations; no outside Kural numbering was inferred.
 
-- no web/canonical/remembered Kural mapping;
-- no normalization of source Chapter numbers;
-- preserve the Chapter-26 source-number conflict;
-- multi-Kural entries remain multi-Kural;
-- **0 page-layer mutations**.
+## Exact next activity
+
+There is **no required next section task**.
+
+If requested, proceed with optional:
+
+**S3 — individual entry leaf records / web-ready navigation index**
+
+while preserving the closed archival/release layers and all S2 source limitations.
