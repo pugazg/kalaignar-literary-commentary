@@ -6,7 +6,7 @@ Active work: `works/kuraloviyam/`
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable Kuraloviyam work. Parts **001–005 are closed**; do not reopen them unless a genuinely new source/provenance/fidelity issue appears. Part 006 Tamil is **ARCHIVAL-READY / CLOSED — 111/111 textual verified + 111/111 visual verified / 0 exceptions**. Part 006 English Draft D1 is **COMPLETE / PASS 37/37** under the current **37-page** cadence; the exact live frontier is Draft D2.
+Fetch live `main` first and preserve newer durable Kuraloviyam work. Parts **001–005 are closed**; do not reopen them unless a genuinely new source/provenance/fidelity issue appears. Part 006 Tamil is **ARCHIVAL-READY / CLOSED — 111/111 textual verified + 111/111 visual verified / 0 exceptions**. Part 006 English Draft D1 + D2 are **COMPLETE / PASS 74/74** under the current **37-page** cadence; the exact live frontier is Draft D3.
 
 ## Mandatory startup
 
