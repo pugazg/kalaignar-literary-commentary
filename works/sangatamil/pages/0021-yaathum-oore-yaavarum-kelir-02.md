@@ -6,7 +6,7 @@ section: "யாதும் ஊரே; யாவரும் கேளிர்
 page_type: "poetry"
 status: "verified"
 visual_fidelity: "verified"
-visual_notes: "running header 'சங்கத் தமிழ்'; verse blocks with deliberately indented continuation lines; final phrase continues after the scan-22 full-page illustration onto scan 23; source-visible lexical additions absent from the Gemini lock are not inserted; printed page number centered at foot"
+visual_notes: "running header 'சங்கத் தமிழ்'; verse blocks with deliberately indented continuation lines; Gemini word அந்த restored to its source-positioned right-aligned carryover before மரத்தையே; final phrase continues after the scan-22 full-page illustration onto scan 23; printed page number centered at foot"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
@@ -45,7 +45,10 @@ continues_to_scan: 23
 
 நற்றிணையில் வருகின்ற காதல் பாட்டொன்றைக் கூடக்  
 கற்றறிவாளன் கணியன் பூங்குன்றன் எழுதுங்கால்  
-“மருந்துக்கு உதவுகின்ற மரத்தின் பட்டைகளை மட்டுமன்றி -  
+“மருந்துக்கு உதவுகின்ற மரத்தின் பட்டைகளை மட்டுமன்றி -
+
+<div align="right">அந்த</div>
+
 மரத்தையே வேரோடு பிடுங்குவதோ?” எனக்கேட்டு,  
 பயன்படுவன எதனையும் பாதுகாக்க வேண்டுமெனப்  
 பாங்காக அறிவுரையைப் பகருகின்றான் உலகிற்கு!  
@@ -53,6 +56,5 @@ continues_to_scan: 23
 “ஒரே குலம்” எனும் தத்துவத்தைப் புவியில்;  
 கல் தோன்றி மண் தோன்றாக் காலத்திற்கு
 
-<!-- source scan-இல் காணப்படும் கூடுதல் lexical words Gemini lock-இல் இல்லாததால் body-இல் சேர்க்கப்படவில்லை. -->
 <!-- scan 22 முழுப்பக்க ஓவியத்திற்குப் பிறகு உரை scan 23 / அச்சுப் பக்கம் 8-ல் தொடர்கிறது. -->
 <!-- மூல ஸ்கேன் பக்கம்: 21; அச்சுப் பக்கம்: 6 -->
