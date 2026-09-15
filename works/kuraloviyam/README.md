@@ -409,8 +409,11 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - exact status-sync compare — **11 commits / exactly 111 Part-006 page files / 2 additions + 2 deletions each / 0 non-page files**;
 - final Tamil textual status — **111 verified / 0 needs-review / 0 exceptions**;
 - final visual fidelity — **111 verified / 0 needs-review / 0 exceptions**;
-- exact next stage — **Part 006 documentation synchronization**.
+- documentation synchronization — **COMPLETE / PASS**;
+- documentation-sync record — `PART_006_DOCUMENTATION_SYNC.md`;
+- documentation-only page-layer changes — **0**;
+- exact next stage — **Part 006 Tamil archival-ready checkpoint**.
 
 ## Current frontier
 
-**Part 006 documentation synchronization.**
+**Part 006 Tamil archival-ready checkpoint.**
