@@ -810,16 +810,133 @@ Exact page-file set:
 
 This progress-record update is the sole intended non-page change after the Batch B08 page-layer endpoint.
 
+## Batch B09 — scans 201–225
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-15**
+- scans reviewed: **201–225 / 25**
+- controlling source: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_005_pages_201-250.pdf`
+- lexical lock used: `File5.md`
+- batch base: `96f9c8bfcde8733c48c824c42832634248a8f33b`
+- page-layer endpoint: `acb9bf7b789ad31aafa7c8276b7af594245781c2`
+- structurally changed page records: **20**
+- reviewed with no page-record change: **5** — scans **204, 210, 216, 220, 224**
+- scan-led lexical corrections / modernizations: **0**
+- unresolved structural placement issues: **0**
+
+### Gate-B reconciliation performed
+
+1. **scans 201–202 — closure of `பறம்புமலைப் பாவேந்தர்`**
+   - restored File5 wording and PDF-controlled page/paragraph structure;
+   - scan 201 returns displaced locked `கபிலர்` to the source-supported `ஒரு முனையில் நின்று - கபிலர்` position;
+   - the flattened Purananuru quotation was re-lineated according to the scan;
+   - scan 202 places `பாரி இருவர் நட்பு!` back in the narrative before the `பொருள் விளக்கம்` block.
+
+2. **scans 203–207 — `பிறந்த வீடும் புகுந்த வீடும்!`**
+   - scan 203 restores decorative-title structure and locked carryovers `ஒரு சிலையை`, `இனி`, and `அவனோ`;
+   - stray File5 numeric `000008` is excluded as non-source extraction debris;
+   - scan 204 remains a full-page illustration and required no repository change;
+   - scan 205 restores displaced `அன்றாடம்`, `இருக்கின்றாள்!`, `தலைவிக்கு;`, and `சொன்னாள்!`;
+   - scan 206 excludes stray numeric `66` and expands the flattened verse into source-visible lineation;
+   - scan 207 restores glossary / note / separator block order and closes the section.
+
+3. **scans 208–213 — `காவிரிநாடன் கரிகாலன்!`**
+   - the source-visible section identity is retained in metadata, while File5's locked body heading remains `காவிரிநாடன் / கபிகாலன்!`; this lexical title discrepancy is intentionally not source-corrected in Gate B;
+   - scan 209 restores the source-supported placement of `பிள்ளை`, `எண்ணியெண்ணி`, and `கருகியதாம்!`;
+   - scan 210 remains a full-page illustration and required no repository change;
+   - scan 211 returns displaced `வேண்டாம்` and `அதனாலே` to their physical positions;
+   - scan 212 restores carryovers `சிறைச்சாலையடா`, `இங்கேதான்!`, `கலைத்து!`, and `ஒரு`;
+   - scan 213 restores narrative → separator → two Pattinappaalai quotation units → provenance → `பொருள் விளக்கம்`; stray numeric `66` is excluded.
+
+4. **scans 214–217 — `இசையாகிவிட்டவள்!`**
+   - scan 214 restores exact File5 wording, including correction of earlier Latin-prefixed repository artefacts, while excluding stray File5 numeric `66`;
+   - source-supported placement of `அதற்கு` and `அவசரமாய்` is restored;
+   - scan 215 returns locked carryovers `உனைக்` and `பின்னர்` to their physical positions;
+   - scan 216 remains a full-page illustration and required no repository change;
+   - scan 217 expands File5's flattened Kurunthogai quotation into source-visible verse lineation and restores verse → separator → provenance → `பொருள் விளக்கம்` order.
+
+5. **scans 218–221 — `போர்த்திசை நோக்கிய புலிப்போத்து!`**
+   - scan 218 restores locked `அவனைக்` to its source-supported carryover position and preserves the page ending at `களத்தில் நான்,`;
+   - scan 219 restores opening carryover `மனம்`, resegments the long flattened File5 narrative according to the scan, and moves locked `தோளில்` to the source-supported sentence position;
+   - File5 extraction marker `⚬` and merged printed page number `206` are excluded;
+   - scan 220 remains a full-page illustration and required no repository change;
+   - scan 221 restores quotation continuation → separator → provenance → `பொருள் விளக்கம்` order.
+
+6. **scans 222–225 — `இங்கே வேண்டாம்... தங்கை இருக்கின்றாள்!`**
+   - scan 222 restores displaced locked `அது` and `என்`; the duplicate extraction placement of `அது` is not retained, and stray numeric `66` is excluded;
+   - scan 223 restores the two locked `என்` carryovers and `உன்`, expands the flattened Natrinai quotation into source-visible lineation, and excludes merged printed page number `210`;
+   - File5 locks `எனை` where the source scan visibly differs; the locked word is preserved and the lexical discrepancy is carried forward rather than source-corrected;
+   - scan 224 remains a full-page illustration and required no repository change;
+   - scan 225 restores quotation continuation → separator → provenance → `பொருள் விளக்கம்` order and closes the section.
+
+### Illustration handling confirmed
+
+- scans **204, 210, 216, 220, 224** are full-page illustrations;
+- no source-visible literary text or printed page number is inferred;
+- their existing section metadata was already correct;
+- all five were reviewed and required **no repository change**.
+
+### Locked omissions / extraction exceptions carried forward
+
+- scan **203** — stray File5 numeric `000008` excluded.
+- scan **206** — stray File5 numeric `66` excluded.
+- scan **208** — source title is `காவிரிநாடன் கரிகாலன்!`; File5 locks body heading `காவிரிநாடன் / கபிகாலன்!`. Gate B preserves the metadata/body authority split.
+- scan **213** — stray File5 numeric `66` excluded.
+- scan **214** — stray File5 numeric `66` excluded.
+- scan **219** — extraction marker `⚬` and merged printed page number `206` excluded; displaced locked `தோளில்` retained at its source-supported position.
+- scan **222** — stray File5 numeric `66` excluded; duplicate extraction placement of locked `அது` collapsed to its single source-supported placement.
+- scan **223** — merged printed page number `210` excluded; File5-locked `எனை` is preserved despite a differing visible source reading, pending any later lexical-authority pass.
+
+## Exact changed-file audit — Batch B09
+
+Page-layer compare:
+
+`96f9c8bfcde8733c48c824c42832634248a8f33b` → `acb9bf7b789ad31aafa7c8276b7af594245781c2`
+
+Result:
+
+- **3 commits ahead**
+- **exactly 20 modified page files**
+- **0 other page files**
+- **0 non-page files at the page-layer endpoint**
+- scans **204, 210, 216, 220, 224** reviewed with no change
+
+Exact page-file set:
+
+- `works/sangatamil/pages/0201-parambumalaip-paavendhar-04.md`
+- `works/sangatamil/pages/0202-parambumalaip-paavendhar-05.md`
+- `works/sangatamil/pages/0203-pirandha-veedum-pugundha-veedum-01.md`
+- `works/sangatamil/pages/0205-pirandha-veedum-pugundha-veedum-03.md`
+- `works/sangatamil/pages/0206-pirandha-veedum-pugundha-veedum-04.md`
+- `works/sangatamil/pages/0207-pirandha-veedum-pugundha-veedum-05.md`
+- `works/sangatamil/pages/0208-kaaviri-naadan-karikaalan-01.md`
+- `works/sangatamil/pages/0209-kaaviri-naadan-karikaalan-02.md`
+- `works/sangatamil/pages/0211-kaaviri-naadan-karikaalan-04.md`
+- `works/sangatamil/pages/0212-kaaviri-naadan-karikaalan-05.md`
+- `works/sangatamil/pages/0213-kaaviri-naadan-karikaalan-06.md`
+- `works/sangatamil/pages/0214-isaiyaagi-vittaval-01.md`
+- `works/sangatamil/pages/0215-isaiyaagi-vittaval-02.md`
+- `works/sangatamil/pages/0217-isaiyaagi-vittaval-04.md`
+- `works/sangatamil/pages/0218-porthisai-nokkiya-pulippoththu-01.md`
+- `works/sangatamil/pages/0219-porthisai-nokkiya-pulippoththu-02.md`
+- `works/sangatamil/pages/0221-porthisai-nokkiya-pulippoththu-04.md`
+- `works/sangatamil/pages/0222-ingae-vendaam-thangai-irukkindraal-01.md`
+- `works/sangatamil/pages/0223-ingae-vendaam-thangai-irukkindraal-02.md`
+- `works/sangatamil/pages/0225-ingae-vendaam-thangai-irukkindraal-04.md`
+
+This progress-record update is the sole intended non-page change after the Batch B09 page-layer endpoint.
+
 ## Gate B cumulative state
 
-- structurally reviewed: **200/497**
-- structurally remaining: **297**
-- current frontier: **scan 201**
+- structurally reviewed: **225/497**
+- structurally remaining: **272**
+- current frontier: **scan 226**
 - Gate C: **NOT STARTED**
 
 ## Exact next activity
 
-Process **Gate B scans 201–225** using the controlling split that covers physical scans **201–250** and the corresponding Gemini lexical lock **File5.md**.
+Process **Gate B scans 226–250** against `TVA_BOK_0042551_சங்கத்_தமிழ்_part_005_pages_201-250.pdf` + `File5.md` (Phase 13 / Book Pages 213–237).
 
 Preserve the Gemini lexical lock and continue structural correction only. Do **not** start Gate C.
 
