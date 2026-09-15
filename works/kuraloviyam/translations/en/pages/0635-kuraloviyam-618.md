@@ -11,23 +11,23 @@ source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-The emperor who ruled the great country called Valanaadu was defeated because he could not withstand an invasion from Nilaa Naadu.
+The emperor who ruled the great country called Valanadu was defeated because he could not withstand an invasion from Nilaa Naadu.
 
-The victorious king of Nilaa Naadu imprisoned the emperor of Valanaadu.
+The victorious king of Nilaa Naadu imprisoned the emperor of Valanadu.
 
-Even while confined in the prison fortress, the Valanaadu ruler secretly sought the support of many minor kings outside.
+Even while confined in the prison fortress, the Valanadu ruler secretly sought the support of many minor kings outside.
 
 One day he escaped from the Nilaa Naadu prison.
 
 Only one minor ruler—the king of Malainaadu—refused to support him.
 
-Not only did he refuse, he spread reports that the Valanaadu emperor was dishonest and without moral discipline.
+Not only did he refuse, he spread reports that the Valanadu emperor was dishonest and without moral discipline.
 
-He sent his own forces to help Nilaa Naadu defeat Valanaadu.
+He sent his own forces to help Nilaa Naadu defeat Valanadu.
 
-He met the other minor kings who supported Valanaadu and told them all kinds of degrading stories about the emperor.
+He met the other minor kings who supported Valanadu and told them all kinds of degrading stories about the emperor.
 
-But those rulers ignored the Malainaadu king's words and stood with Valanaadu.
+But those rulers ignored the Malainaadu king's words and stood with Valanadu.
 
 The war drum sounded.
 
@@ -35,9 +35,9 @@ Nilaa Naadu suffered a crushing defeat.
 
 Its king fought to the end and died on the battlefield.
 
-The Valanaadu empire annexed Nilaa Naadu and expanded its rule still further.
+The Valanadu empire annexed Nilaa Naadu and expanded its rule still further.
 
-All the minor kings who had supported Valanaadu congratulated the emperor.
+All the minor kings who had supported Valanadu congratulated the emperor.
 
 He thanked them and sent them on their way.
 
@@ -51,4 +51,4 @@ It was a letter asking forgiveness:
 
 "Only at the final stage of the battle did the truth...
 
-<!-- Source scan page: 635; printed page: 618; new Valanaadu / Nilaa Naadu / Malainaadu royal-ethics vignette begins; sentence continues directly to scan 636 -->
+<!-- Source scan page: 635; printed page: 618; new Valanadu / Nilaa Naadu / Malainaadu royal-ethics vignette begins; sentence continues directly to scan 636 -->
