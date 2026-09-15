@@ -461,16 +461,122 @@ Exact page-file set:
 
 This progress-record update is the sole intended non-page change after the Batch B05 page-layer endpoint.
 
+## Batch B06 — scans 126–150
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-15**
+- scans reviewed: **126–150 / 25**
+- controlling source: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_003_pages_101-150.pdf`
+- lexical lock used: `File3.md`
+- batch base: `0cfff16036b8da587d8d134dc9e97a459b6cc131`
+- page-layer endpoint: `19628594048c44b9b5edda402ce7c8dc6916220d`
+- structurally changed page records: **24**
+- reviewed with no page-record change: **1** — scan **128**
+- scan-led lexical corrections / modernizations: **0**
+- unresolved structural placement issues: **0**
+
+### Gate-B reconciliation performed
+
+1. **scans 126–130 — `வலவன் ஏவா வான ஊர்தி!`**
+   - restored File3 narrative, quotation and glossary wording;
+   - preserved the source-visible quotation marker on scan 129;
+   - scan 130 provenance/gloss order was aligned to the source;
+   - File3's stray numeric `6` in `வலவன் =6` was excluded as non-source OCR debris.
+
+2. **scans 131–136 — `தேனாகச் சொட்டும் : தேளாகக் கொட்டும்!`**
+   - corrected the stale repository section identity `தூக்கிச் சாடவும்; தூக்கிக் கொட்டவும்!`;
+   - restored File3 wording across dialogue, narrative, quotation and glossary;
+   - scan 132 remains a full-page illustration with no invented literary text or printed page number;
+   - File3's stray heading token `மு` was excluded as non-source OCR;
+   - source-supported placements were retained where File3 extraction displaced locked words.
+
+3. **scans 137–142 — `இளையோன் எதற்கும் இளையான்!`**
+   - corrected the stale section identity across text records and scan-138 illustration metadata;
+   - restored File3 narrative and Purananuru quotation/gloss wording;
+   - File3's malformed scan-137 heading extraction (`அதில்` plus stray `தி` / `வி`) was excluded as extraction debris because the locked phrase `இளையோன் எதற்கும் இளையான்` is independently present in File3 body text and supported by the source;
+   - removed non-source Markdown emphasis from the scan-141 four-point summary.
+
+4. **scans 143–147 — `குக்கூ! என்றது கோழி!`**
+   - corrected the stale `குக்கூ! என்று கேளாய்!` section identity;
+   - restored File3 wording across the two-page spread, dialogue, numbered passages, quotations and glossary;
+   - removed visible editorial subheadings such as `Left side of physical spread` / `Right side of physical spread` from literary body text;
+   - File3 stray `A...` and malformed `மேமதிலி` are excluded as non-source extraction debris;
+   - quotation/provenance/gloss placement remains source-controlled.
+
+5. **scans 148–150 — `கவிஞர்கள் தெளித்த பன்னீரும் வடித்த கண்ணீரும்!`**
+   - corrected the stale repository heading `கவிஞர்கள் எதிர்த்த பகையும் பழித்த கணையும்!`;
+   - scan 148's duplicated/corrupted opening block was replaced by the File3-locked opening and aligned to the two-page illustrated physical spread;
+   - scan 149's displaced locked `மன்னன்!` was restored to its source-supported position;
+   - scan 150 now ends at File3/source physical boundary `பட்டமும்`; the previously attached `ஈந்தான்!` is not retained on scan 150 because it belongs beyond this page boundary.
+
+### Illustration handling confirmed
+
+- scans **128, 132, 138** are full-page illustration records;
+- scan **128** required no repository change;
+- scans **132** and **138** required section-metadata reconciliation only;
+- no source-visible literary text or printed pagination was invented.
+
+### Locked / extraction exceptions carried forward
+
+- scan **130** — stray File3 numeric `6` excluded.
+- scan **131** — stray File3 heading token `மு` excluded.
+- scan **137** — malformed File3 heading extraction `அதில் ... தி ... வி` excluded; locked/source-supported section phrase retained.
+- scan **143** — stray `A...` and malformed `மேமதிலி` excluded.
+- placement-only differences retained where the controlling PDF, rather than File3 extraction order, establishes the correct physical position.
+
+## Exact changed-file audit — Batch B06
+
+Page-layer compare:
+
+`0cfff16036b8da587d8d134dc9e97a459b6cc131` → `19628594048c44b9b5edda402ce7c8dc6916220d`
+
+Result:
+
+- **30 commits ahead**
+- **exactly 24 modified page files**
+- **0 other page files**
+- **0 non-page files at the page-layer endpoint**
+
+Exact page-file set:
+
+- `works/sangatamil/pages/0126-valavan-evaa-vaana-oorthi-01.md`
+- `works/sangatamil/pages/0127-valavan-evaa-vaana-oorthi-02.md`
+- `works/sangatamil/pages/0129-valavan-evaa-vaana-oorthi-04.md`
+- `works/sangatamil/pages/0130-valavan-evaa-vaana-oorthi-05.md`
+- `works/sangatamil/pages/0131-thookkich-saadavum-thookkik-kottavum-01.md`
+- `works/sangatamil/pages/0132-thookkich-saadavum-thookkik-kottavum-illustration.md`
+- `works/sangatamil/pages/0133-thookkich-saadavum-thookkik-kottavum-03.md`
+- `works/sangatamil/pages/0134-thookkich-saadavum-thookkik-kottavum-04.md`
+- `works/sangatamil/pages/0135-thookkich-saadavum-thookkik-kottavum-05.md`
+- `works/sangatamil/pages/0136-thookkich-saadavum-thookkik-kottavum-06.md`
+- `works/sangatamil/pages/0137-ilaiyaan-erinthum-ilaiyaan-01.md`
+- `works/sangatamil/pages/0138-ilaiyaan-erinthum-ilaiyaan-illustration.md`
+- `works/sangatamil/pages/0139-ilaiyaan-erinthum-ilaiyaan-03.md`
+- `works/sangatamil/pages/0140-ilaiyaan-erinthum-ilaiyaan-04.md`
+- `works/sangatamil/pages/0141-ilaiyaan-erinthum-ilaiyaan-05.md`
+- `works/sangatamil/pages/0142-ilaiyaan-erinthum-ilaiyaan-06.md`
+- `works/sangatamil/pages/0143-kukkuu-endru-kelaai-01.md`
+- `works/sangatamil/pages/0144-kukkuu-endru-kelaai-02.md`
+- `works/sangatamil/pages/0145-kukkuu-endru-kelaai-03.md`
+- `works/sangatamil/pages/0146-kukkuu-endru-kelaai-04.md`
+- `works/sangatamil/pages/0147-kukkuu-endru-kelaai-05.md`
+- `works/sangatamil/pages/0148-kavignargal-ethirththa-pagaiyum-pazhiththa-kanaiyum-01.md`
+- `works/sangatamil/pages/0149-kavignargal-ethirththa-pagaiyum-pazhiththa-kanaiyum-02.md`
+- `works/sangatamil/pages/0150-kavignargal-ethirththa-pagaiyum-pazhiththa-kanaiyum-03.md`
+
+This progress-record update is the sole intended non-page change after the Batch B06 page-layer endpoint.
+
 
 ## Gate B cumulative state
 
-- structurally reviewed: **125/497**
-- structurally remaining: **372**
-- current frontier: **scan 126**
+- structurally reviewed: **150/497**
+- structurally remaining: **347**
+- current frontier: **scan 151**
 - Gate C: **NOT STARTED**
 
 ## Exact next activity
 
-Process **Gate B scans 126–150** against `TVA_BOK_0042551_சங்கத்_தமிழ்_part_003_pages_101-150.pdf` + `File3.md`.
+Process **Gate B scans 151–175** against `TVA_BOK_0042551_சங்கத்_தமிழ்_part_004_pages_151-200.pdf` + `File4.md`.
 
 Preserve the Gemini lexical lock and continue structural correction only. Do **not** start Gate C.
