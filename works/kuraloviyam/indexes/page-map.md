@@ -775,4 +775,4 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 ## Current frontier
 
-**Part 006 Tamil archival-ready checkpoint.**
+**Part 006 English Draft D1 — scans 556–588 / printed 539–571 — 33 pages.**
