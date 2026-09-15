@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Documentation Synchronization
+# NEXT CHAT PROMPT — குறளோவியம் / Part 006 Tamil Archival-Ready Checkpoint
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -10,95 +10,93 @@ Parts **001–005 are fully closed**. Do not reopen them.
 
 `TVA_BOK_0065733_குறளோவியம்_part_006_pages_556-666.pdf`
 
-## Durable Part 006 state
+Source identity:
 
-The Tamil verification chain through final status promotion is closed:
+- physical pages — **111**;
+- overall scans — **556–666**;
+- local Part pages — **1–111**;
+- numbered printed span — **539–648**;
+- scan **666** — unnumbered pictorial back cover;
+- bytes — **118,543,819**;
+- SHA-256 — `76f5f3d9f926c148c30ae9f8b1917f4cf423134a6bc09a16ad9eea4bb766c804`;
+- no usable parsed text layer; rendered source scans remain the ultimate authority if a genuinely new provenance/fidelity issue is discovered.
 
-- Source intake — **PASS / COMPLETE**;
-- Pass 1 — **COMPLETE 111/111**;
-- Pass 2A — **COMPLETE / PASS 111/111**;
-- Pass 2B — **COMPLETE / PASS 111/111**;
-- Pass 3 — **COMPLETE / PASS 111/111**;
-- Part 006 audit — **PASS / COMPLETE**;
-- final metadata/status synchronization — **PASS / CLOSED**.
+## Closed Tamil evidence chain
 
-Durable records:
+The complete Part-006 Tamil verification/control chain is closed:
 
-- `works/kuraloviyam/SOURCE_INTAKE_PART_006.md`
-- `works/kuraloviyam/PART_006_PASS1_PROGRESS.md`
-- `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_006.md`
-- `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_006.md`
-- `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_006.md`
-- `works/kuraloviyam/PART_006_AUDIT.md`
-- `works/kuraloviyam/PART_006_FINAL_STATUS_SYNC.md`
+1. `works/kuraloviyam/SOURCE_INTAKE_PART_006.md` — **PASS / COMPLETE**;
+2. `works/kuraloviyam/PART_006_PASS1_PROGRESS.md` — Pass 1 **COMPLETE 111/111**;
+3. `works/kuraloviyam/PASS2_TEXTUAL_VERIFICATION_PART_006.md` — **COMPLETE / PASS 111/111**;
+4. `works/kuraloviyam/PASS2B_LEXICAL_FIDELITY_PART_006.md` — **COMPLETE / PASS 111/111**;
+5. `works/kuraloviyam/PASS3_VISUAL_TEXT_VERIFICATION_PART_006.md` — **COMPLETE / PASS 111/111**;
+6. `works/kuraloviyam/PART_006_AUDIT.md` — **PASS / COMPLETE**;
+7. `works/kuraloviyam/PART_006_FINAL_STATUS_SYNC.md` — **PASS / CLOSED**;
+8. `works/kuraloviyam/PART_006_DOCUMENTATION_SYNC.md` — **COMPLETE / PASS**.
 
-Final status-sync execution:
+## Final Tamil disposition
 
-- starting checkpoint — `fec10c426518d8b5cb490db9bfab8b50f6d6a440`;
+- textual status — **111 verified / 0 needs-review / 0 partial / 0 blocked / 0 source-limited**;
+- visual fidelity — **111 verified / 0 needs-review**;
+- unresolved Tamil exceptions — **0**;
+- page inventory — **111/111 canonical records / 0 gaps / 0 duplicates / 0 mapping anomalies**;
+- page functions — **102 body-prose / 8 contents-index / 1 back-cover**;
+- scans **658–665** — complete `பொருளடக்கம்` run;
+- scan **666** — physical source endpoint;
+- incoming **555→556 — CLEAN / source-resolved**;
+- final **665→666 — CLEAN / PHYSICAL SOURCE ENDPOINT**;
+- **666 — NO EXTERNAL CONTINUATION**.
+
+Final metadata/status synchronization:
+
+- base — `fec10c426518d8b5cb490db9bfab8b50f6d6a440`;
 - page-layer endpoint — `6cdb3cdd18cc1ccf1b1f2071055e9a1fd7782db0`;
-- commits — **11**;
-- changed files — **exactly 111 Part-006 page files / scans 556–666**;
-- per-file diff — **2 additions + 2 deletions**;
-- non-page changes during page promotion — **0**;
-- final Tamil textual status — **111 verified / 0 needs-review / 0 partial / 0 blocked / 0 source-limited**;
-- final visual fidelity — **111 verified / 0 needs-review**;
-- unresolved Tamil exceptions — **0**.
+- exact compare — **11 commits / exactly 111 Part-006 page files / +2 -2 each / 0 non-page files**.
 
-Source/page structure remains:
+Documentation synchronization changed **0 page-layer records**.
 
-- scans **556–657** — **102 body-prose** records;
-- scans **658–665** — **8 contents-index** records / complete `பொருளடக்கம்`;
-- scan **666** — **1 back-cover** record / unnumbered pictorial back cover;
-- **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**.
+## Exact next activity — Tamil archival-ready checkpoint
 
-## Exact next activity — Part 006 documentation synchronization
+Follow the closed Part-005 precedent:
 
-Perform the dedicated **documentation synchronization** gate.
+`works/kuraloviyam/PART_005_TAMIL_ARCHIVAL_READY.md`
 
-Reconcile the current Part-006 state across at least:
+Perform the separate declarative/control-plane checkpoint for Part 006.
 
-- `works/kuraloviyam/README.md`;
-- `works/kuraloviyam/HANDOVER.md`;
-- root `HANDOVER.md`;
-- `works/kuraloviyam/indexes/page-map.md`;
-- `works/kuraloviyam/metadata/source.md`;
-- `KURALOVIYAM_ARCHIVAL_GUIDELINES.md`;
-- `NEXT_CHAT_PROMPT_KURALOVIYAM.md`;
-- any other Part-006 control/status file that still carries a stale live frontier.
+Confirm:
 
-Use the closed Part-005 documentation-sync precedent if present.
-
-The documentation-sync record should state that:
-
-- Source Intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 / Part audit / final status sync are all closed;
-- Part 006 is **111/111 textual verified + 111/111 visual verified / 0 exceptions**;
-- scans **658–665** are the complete `பொருளடக்கம்`;
-- scan **666** is the physical source endpoint;
-- there are **0 unresolved Tamil exceptions**;
-- no page-layer changes occur during documentation sync.
+- the complete evidence chain above is closed;
+- Part 006 remains **111/111 textual verified + 111/111 visual verified / 0 exceptions**;
+- source identity and source extent remain stable;
+- `பொருளடக்கம்` scans **658–665** remain correctly classified;
+- scan **666** remains the unnumbered pictorial back cover and physical source endpoint;
+- documentation synchronization introduced **0 page-layer changes**;
+- there are **0 unresolved internal archival exceptions**.
 
 Create:
 
-`works/kuraloviyam/PART_006_DOCUMENTATION_SYNC.md`
+`works/kuraloviyam/PART_006_TAMIL_ARCHIVAL_READY.md`
 
-with a durable inventory of the synchronized control files and the exact pre/post documentation checkpoints.
+with:
+
+**PART 006 TAMIL ARCHIVAL-READY — PASS / CLOSED.**
 
 ## Discipline
 
-This gate is documentation/control-plane only.
+This checkpoint must not reopen transcription or source comparison.
 
 Do **not** modify:
 
-- Tamil body text;
-- page frontmatter status fields;
+- Tamil body wording;
+- Kural wording/lineation;
+- page structure;
+- `page_type`;
 - `visual_notes`;
-- Kural wording;
-- page types;
 - source comments;
-- scan/local/printed mapping.
+- source filename;
+- scan/local/printed mapping;
+- the already-`verified` status fields.
 
-After documentation synchronization closes, the exact next gate is the separate:
+Only reopen the controlling PDF/page layer later if a genuinely new source/provenance/fidelity issue is discovered.
 
-**Part 006 Tamil archival-ready checkpoint**.
-
-Do not start English translation during documentation synchronization.
+After the Tamil archival-ready checkpoint closes, the next maintained stage is the **Part 006 project-created English translation/review workflow**. Determine its exact first batch from the repository's English workflow policy and current Part-006 English inventory; do not assume a batch size without checking the live repository.
