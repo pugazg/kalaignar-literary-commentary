@@ -6,7 +6,7 @@ Active work: `works/kuraloviyam/`
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable Kuraloviyam work. Do not reopen closed Part 001, Part 002, or the closed Part 003 Tamil layer unless a genuinely new source/provenance/fidelity issue appears.
+Fetch live `main` first and preserve newer durable Kuraloviyam work. Parts **001–005 are closed**; do not reopen them unless a genuinely new source/provenance/fidelity issue appears. Part 006 has Source Intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 complete and is at the Part-audit gate.
 
 ## Mandatory startup
 
