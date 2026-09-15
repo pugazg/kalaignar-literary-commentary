@@ -1319,6 +1319,101 @@ Exact GR2 English page-layer compare:
 
 The live-main control checkpoint at GR2 start was `e19633915184f8b3168178d916c6536b9bd168d6`; GR2 control-document updates are recorded separately from the unchanged English page layer.
 
-Exact next glossary-reconciliation batch:
+## Part 006 GR3 controls — scans 630–666
 
-**Part 006 GR3 — scans 630–666 — 37 physical scans**, covering printed **613–648** plus scan **666 / unnumbered pictorial back cover**.
+### Chapter labels first evidenced in Part 006 GR3
+
+| Tamil | Default English | Editorial note |
+|---|---|---|
+| அவா அறுத்தல் | Renouncing Desire | Chapter 37 label on scan 634 / printed 617. |
+| அரண் | The Fort | Chapter 75 label on scan 640 / printed 623. Keep the Chapter title distinct from ordinary prose uses of a fort/fortress. |
+| புலால் மறுத்தல் | Abstaining from Flesh | Chapter 26 label on scan 642 / printed 625. |
+
+Existing Chapter controls reused unchanged in GR3 are **Declaring Love's Excellence**, **Baseness**, **The Majesty of Kingship**, **Speaking with the Heart**, **Avoiding Mean Company**, **Honour**, **Speaking of the Dream State**, **The Worth of a Life-Partner**, **Making the Sign Understood**, and **Impermanence**.
+
+### Narrative, literary, historical, work/process and place controls evidenced in Part 006 GR3
+
+| Tamil | Default English form | Editorial note |
+|---|---|---|
+| அன்புக்கடல் | Anbukkadal | Traveller in the miserly-giving vignette, scans 631–632. The prose itself glosses the name as “Ocean of Love”; retain **Anbukkadal** as the personal-name form. |
+| பாவேந்தர் | Paavendhar | Source honorific on scan 654. Reuse the spelling stem already established in **Paavendhar Bharathidasan**. |
+| பாவேந்தர் பாரதிதாசன் | Paavendhar Bharathidasan | Reuse the established full honorific/name form on scan 632. |
+| அறவாழி | Aravaazhi | Ascetic in scans 633–634. |
+| ஏனாதி | Enaathi | Ascetic in scans 633–634. |
+| வளநாடு | Valanadu | Reuse the established fictional-country form in scans 635–636. GR3 reconciled scan 635 from **Valanaadu** to **Valanadu**. |
+| நிலா நாடு | Nilaa Naadu | Fictional/narrative country in scans 635–636. |
+| மலைநாடு | Malainaadu | Fictional/narrative country in scans 635–636. |
+| மாமல்லபுரம் | Mamallapuram | Place in the sculptor-love vignette, scans 645–647. |
+| கதிரொளி | Kathiroli | Sculptor in scans 645–647. |
+| பொன்னியம்மை | Ponniyammai | Older woman in scans 645–646. |
+| கண்மணியாள் / கண்மணி | Kanmaniyaal / Kanmani | Ponniyammai's daughter in scans 645–647; **Kanmani** is the shortened address used in the love-note on scan 646. |
+| கோபாலன் | Gopalan | Literary/puranic reference in scan 650; preserve the source-bounded form without importing external identification. |
+| கோபிகைகள் | gopis | Source literary/puranic collective in scan 650. |
+| சிவனார் | Shiva | Source literary/puranic reference in scan 650. |
+| மோகினி | Mohini | Source literary/puranic reference in scan 650. |
+| காண்டபன் | Gandhapan | Source-bounded literary/puranic name form in scan 650; keep distinct from GR2 **Kandavan** (`காண்டவன்`). |
+| அல்லி | Alli | Source literary/puranic name in scan 650. |
+| குடவோலை | kudavolai | Selection/election method described on scan 652. Retain the Tamil institutional term in transliteration. |
+| நிலமகள் | Nilamagal / Lady Earth | Personification of the world in scans 656–657. Use **Nilamagal** as the name form; **Lady Earth** may accompany the first explanatory use. |
+
+The source-bounded literary/puranic references on scan **650** are preserved as they appear in the audited Tamil narrative. GR3 does not expand, reconcile or fact-correct them from external mythology or editions.
+
+### Source-printed lexical glosses confirmed in Part 006 GR3
+
+| Tamil | Default English | Evidence |
+|---|---|---|
+| ஈர்ங்கை | damp hand | Source gloss `ஈர்க்கை`, scan 632. |
+| கொடிறு | cheek | Source gloss `கன்னம்`, scan 632. |
+| விதிரார் | will not shake | Source gloss `உதறமாட்டார்`, scan 632. |
+| கூன்கை | bent hand | Source gloss `வளைந்த கை`, scan 632. |
+| நல்கார் | will not show love | Source gloss `அன்பு செய்யார்`, scan 638. |
+| பெரிதாற்றி | showing great love | Source gloss `பெரிதும் அன்பு காட்டி`, scan 655. |
+| பெட்ப | as desired | Source gloss `விரும்பியவாறு`, scan 655. |
+
+## Part 006 GR3 reconciliation record — scans 630–666
+
+GR3 processed **37 consecutive physical scans: scans 630–666**, covering printed **613–648** plus scan **666 / unnumbered pictorial back cover**.
+
+- scans **630–666** — glossary / recurring-terminology reconciliation **PASS, 37/37**;
+- all **14 Chapter/Kural metadata records** in the body-page range were checked against their audited Tamil counterparts with **0 chapter-number or Kural-number mismatches**;
+- three Part-006-first Chapter controls were added in this gate: **Renouncing Desire**, **The Fort**, and **Abstaining from Flesh**;
+- existing Chapter controls listed above were reused unchanged where they recur;
+- all **7 source-printed lexical glosses** listed above were checked against the audited Tamil records and recorded without external expansion;
+- controlled terminology corrections were required on **3 English page files**:
+  - scan **632** — `Paavendar Bharathidasan` → established project form **Paavendhar Bharathidasan**;
+  - scan **635** — `Valanaadu` → established project form **Valanadu** throughout the page, including the page comment;
+  - scan **654** — `Paavendar's` → established honorific spelling **Paavendhar's**;
+- scans **658–665** remain source-index pages: all Tamil Kural incipits and printed-page locators stay verbatim as index keys and are **not** mechanically translated or normalized through glossary controls;
+- scan **665** retains the source note that only the added fourth-edition contents section uses reformed Tamil orthography; the overlapping blue library stamp remains identified as non-source visual material;
+- scan **666** remains a pictorial back-cover record with no visible printed body text and no invented prose;
+- all **37/37** English pages remain `status: "source-checked"`; this gate makes **0 status changes**;
+- Tamil archival changes — **0**;
+- incoming **629→630 GENUINE CONTINUATION** was preserved and closes naturally on scan 630;
+- **657→658 CLEAN / transition to contents** was preserved;
+- **658→665** contents continuation was preserved;
+- **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT** and **666 NO EXTERNAL CONTINUATION** were preserved;
+- no external/published/web terminology or standard English Kural wording was imported.
+
+Exact GR3 English page-layer compare:
+
+- pre-GR3 page-layer checkpoint — `36cd00b4448722eec1d8c08d93771de5696a387a`;
+- GR3 page-layer endpoint — `be2065b817e9c9d4bf8f644a0fc3ee8824e7e3e0`;
+- **3 commits ahead / non-divergent**;
+- exactly **3 modified English page files** — scans **632, 635, 654**;
+- **0** Tamil page files;
+- **0** page-status changes.
+
+The live-main page endpoint after GR3 wording reconciliation is `be2065b817e9c9d4bf8f644a0fc3ee8824e7e3e0`. GR3 control-document updates are recorded separately from this page-layer endpoint.
+
+## Part 006 glossary reconciliation — COMPLETE / CLOSED 111/111
+
+- GR1 — scans **556–592 / 37/37 COMPLETE / PASS**;
+- GR2 — scans **593–629 / 37/37 COMPLETE / PASS**;
+- GR3 — scans **630–666 / 37/37 COMPLETE / PASS**;
+- cumulative glossary reconciliation — **111/111 COMPLETE / CLOSED**;
+- current Part-006 page status remains **111/111 `source-checked`**;
+- Tamil changes across the glossary gate — **0**.
+
+Exact next English gate:
+
+**Part 006 Editorial Review ER1 — scans 556–592 / printed 539–575 — 37 pages.**
