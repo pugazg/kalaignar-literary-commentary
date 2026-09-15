@@ -1380,8 +1380,67 @@ Boundary discipline:
 
 No published, standard, web, or remembered English Kural wording was imported.
 
+## Part 006 English glossary reconciliation — GR2 COMPLETE / PASS 37/37
+
+GR2 covers:
+
+**scans 593–629 / printed 576–612 — 37 pages.**
+
+Pre-GR2 live-main control checkpoint:
+
+`e19633915184f8b3168178d916c6536b9bd168d6`
+
+English page-layer base:
+
+`42d9df79adc7d4e2cf7f1ef42bbf3fa272fe60a4`
+
+English page-layer endpoint:
+
+`42d9df79adc7d4e2cf7f1ef42bbf3fa272fe60a4`
+
+Exact page-layer compare:
+
+- **0 commits / identical non-divergent page layer**;
+- exactly **0 modified English page files**;
+- Tamil page changes — **0**;
+- page-status changes — **0**.
+
+GR2 terminology / metadata audit:
+
+- **37/37** scans **593–629** checked against the current `GLOSSARY.md` and audited Tamil page context;
+- all **18 Chapter/Kural metadata records** checked with **0 chapter-number or Kural-number mismatches**;
+- Chapter-label controls added or source-varied:
+  - scan **594** — source form `இல்வாழ்வியல்` → established Chapter 5 English title **Domestic Life**;
+  - scan **600** — `கள்ளாமை` → **Non-Stealing**;
+  - scan **628** — `பொச்சாவாமை` → **Freedom from Negligence**;
+- existing Chapter controls reused unchanged include **Acting After Due Consideration**, **Purity in Action**, **Internal Enmity**, **Awareness of Gossip**, **Honour**, **Self-Control**, **The Method of Action**, **Lamenting the Absent Lover**, **The Minister**, **Good Conduct**, **Reading the Sign**, **Making the Sign Understood**, **The Work of Sustaining One's House and Line**, and **The Blessing of Children**;
+- all **18 source-printed lexical glosses** in the range were recorded from the audited Tamil, including the gloss sets on scans **594, 598, 600, 602, 604, 614, 620, 622, 624, and 628**;
+- narrative/place/work-title/historical controls were recorded only where evidenced, including **Azhagarkudi / Sevathaan**, **Sivaganga / the Maruthu Pandiyars / Kalaiyar Kovil / Karuthaan**, **Aruvur / Anbin Adigalar / Good Life**, **Irangai / Ezhilko / Koventhako**, **Palur / Azhagiyan**, **Vezhamugan / Vengaimarban**, **Kathiron**, **Kunran**, **Kaniyan / Pachai / Pachaiyan**, and the source-bounded **Rome / Roman Empire / Caesar / Antony / Augustus** references;
+- established forms such as **Kumanan**, **Thenmozhi**, **Vengai**, and **Caesar** were reused without forcing identity across separate narrative contexts;
+- **0 English page wording changes** were required;
+- all **37/37** GR2 pages remain `status: "source-checked"`;
+- Part-006 English state remains **111 source-checked / 0 draft / 0 editorial-reviewed / 0 release-ready / 0 source-limited / 0 blocked**.
+
+Glossary record commit:
+
+`32cc73d1890b1ab023388352bcdc48c7d3bff87f`
+
+Boundary discipline:
+
+- incoming **592→593 CLEAN** preserved;
+- outgoing **629→630 GENUINE CONTINUATION** preserved;
+- scan **629** remains deliberately open into scan **630**; no narrative or Chapter/Kural closure was forced at the GR2 batch edge.
+
+No Tamil archival record changed. No published, standard, web, or remembered English Kural wording was imported.
+
+Part-006 glossary-reconciliation progress is now **74/111**:
+
+- GR1 — **556–592 / 37/37 COMPLETE / PASS**;
+- GR2 — **593–629 / 37/37 COMPLETE / PASS**;
+- GR3 — **630–666 / 37 pages PENDING**.
+
 ## Exact next activity
 
-**Part 006 English Glossary Reconciliation GR2 — scans 593–629 / printed 576–612 — 37 pages.**
+**Part 006 English Glossary Reconciliation GR3 — scans 630–666 — 37 physical scans**, covering printed **613–648** plus scan **666 / unnumbered pictorial back cover**.
 
-Reconcile recurring names, controlled literary terms, Chapter labels, citation metadata, source-printed glosses and repeated English forms against `GLOSSARY.md` and the audited Tamil context. Update only source-evidenced controls. This gate makes **no page-status promotion**.
+Use the current `GLOSSARY.md` as control vocabulary. Preserve incoming **629→630 GENUINE CONTINUATION**, retain all passing pages as `source-checked`, and make no status promotion at this gate.
