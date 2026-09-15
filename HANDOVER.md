@@ -498,9 +498,14 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - archival-ready record — `works/kuraloviyam/PART_006_TAMIL_ARCHIVAL_READY.md`;
 - Part 006 Tamil — **ARCHIVAL-READY / CLOSED — 111/111 textual verified + 111/111 visual verified / 0 exceptions**;
 - Part-006 English inventory at Tamil closure — **0/111 page records**;
-- current normal English batch size — **33 physical scans**;
-- exact next stage — **Part 006 English Draft D1 / scans 556–588 / printed 539–571 — 33 pages**.
+- current normal English batch size — **37 physical scans**;
+- Draft D1 — **COMPLETE / PASS 37/37**;
+- D1 range — **556–592 / printed 539–575**;
+- D1 base → endpoint — `411fc0fdad71c2b94ef5c17f68dece42e744089d` → `8ca4baeb33a8a45d13df372dc97acc705c1398e3`;
+- D1 exact compare — **6 commits / exactly 37 new English page files / 0 non-page changes / 0 Tamil changes**;
+- current Part-006 English state — **37 draft / 74 not yet drafted**;
+- exact next stage — **Part 006 English Draft D2 / scans 593–629 / printed 576–612 — 37 pages**.
 
 ## Exact next activity — குறளோவியம்
 
-Proceed with **Part 006 English Draft D1 — scans 556–588 / printed 539–571 — 33 page-aligned records**. Use audited Tamil page records as the normal authority. Follow the project-created English translation guide and do not import published/web/standard English Kural wording.
+Proceed with **Part 006 English Draft D2 — scans 593–629 / printed 576–612 — 37 page-aligned records**. Use audited Tamil page records as the normal authority. Follow the project-created English translation guide and do not import published/web/standard English Kural wording.
