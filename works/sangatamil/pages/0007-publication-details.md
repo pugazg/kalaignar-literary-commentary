@@ -1,6 +1,6 @@
 ---
 scan_page: 7
-printed_page: null
+printed_page: "II"
 work: "sangatamil"
 section: "front-matter"
 page_type: "publication-details"
@@ -8,7 +8,7 @@ status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
-visual_notes: "centered நூல் அளவை heading; two-column label/value layout; source-visible unit after the அளவு value is not present in the locked Gemini wording and has not been lexically recovered"
+visual_notes: "centered நூல் அளவை heading; two-column label/value layout; printed page number II centered at foot; source-visible unit after the அளவு value is not present in the locked Gemini wording and has not been lexically recovered"
 ---
 
 # நூல் அளவை
@@ -32,4 +32,4 @@ visual_notes: "centered நூல் அளவை heading; two-column label/valu
 | ஒளி அச்சுக் கோர்வை | : காந்தளகம் - சென்னை - 2. |
 | அச்சிட்டோர் | : சீனிவாஸ் பைன் ஆர்ட்ஸ் - சிவகாசி. |
 
-<!-- மூல ஸ்கேன் பக்கம்: 7; அச்சுப் பக்கம்: இல்லை -->
+<!-- மூல ஸ்கேன் பக்கம்: 7; அச்சுப் பக்கம்: II -->
