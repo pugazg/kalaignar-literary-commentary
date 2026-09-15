@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; song continuation and four Mullai-kali quotation excerpts; printed page number 398"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; quoted lines and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 409
 ---
@@ -60,6 +60,8 @@ continues_from_scan: 409
 (106)
 
 > “முலைவேதின் ஒற்றி முயங்கிப் பொதிவேம்
-> கொலையேறு சாடிய புண்ணை......”
+> கொலைஏறு சாடிய புண்ணை......”
 
 *
+
+<!-- Gate B restores File9-locked `கொலைஏறு`; the visible-source/repository alternative is not retained. File9's duplicated fragment `னார்` inside the preceding quotation remains excluded as extraction debris. -->

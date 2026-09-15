@@ -6,12 +6,12 @@ section: "ஒருதலைக் காதல்"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "full-page decorative divider set sideways in the source scan; large stylized கைக்கிளை / ஒருதலைக் காதல் lettering with repeated ஒருதலைக் காதல் background text and a flower motif; no printed page number visible"
+visual_notes: "full-page decorative divider set sideways in the source scan; large stylized ஒருதலைக் காதல் lettering with repeated ஒருதலைக் காதல் background text and a flower motif; no printed page number visible"
 language: "ta"
-transcription_method: "direct visual transcription from controlling source scan; decorative divider wording and orientation checked directly against scan; final visual verification deferred"
+transcription_method: "Gemini-locked divider wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
-# கைக்கிளை
+# ஒருதலைக் காதல்
 
-## ஒருதலைக் காதல்
+<!-- Gate B removes unsupported repository heading `கைக்கிளை`; the divider visibly reads `ஒருதலைக் காதல்`, which is also the usable File9 locked wording. Orientation/background repetition remain visual structure only. -->

@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "decorative multicolour section heading; இசைப்பாடல் notation and song text; printed page number 394"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; section heading and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -24,8 +24,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 மாற்றாரை விரட்டாமல் திரும்பி வர அவன் விரும்பவில்லை
 அதனால்தான் ஆயிரம் பேர் அவ்வூர் வீரர் வந்த பின்னும்
 அவர் இல்லமெல்லாம் ஆரவாரம் எழுந்த பின்னும்
-மணித்தேரில் சென்ற அவள் மகன் இன்னும் திரும்பவில்லை
-மாற்றாரை விரட்டாமல் திரும்பி வர அவன் விரும்பவில்லை.
+மணித்தேரில் சென்ற அவள் மகன் இன்னும் திரும்பவில்லை.
 
 (தொடுப்பு 1)
 
@@ -53,3 +52,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 கொண்ட கொள்கை குன்ற வைக்கும் என்பதால்
 கிடைத்தவரை வெற்றியென எண்ணி - அப்
 படைத்தலைவன் நிறைவு கொள்ளவில்லை!
+
+<!-- Gate B removes the extra repeated `மாற்றாரை...` refrain after `அவர் இல்லமெல்லாம்...`; it is absent from both File9 and the controlling scan at that position. File9's mixed-script corruption in `காயமுற்றோர்க்கு` is treated as extraction debris, so the source-supported Tamil form remains. -->

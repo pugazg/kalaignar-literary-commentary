@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; song continuation and closure; Kuruntokai quotation with provenance; printed page number 392"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; quotation/provenance and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 403
 ---
@@ -22,8 +22,8 @@ continues_from_scan: 403
 அந்தோ; வெறுங்கையைச் சுவைத்துக் கொண்டிருந்தான்!
 அவன் நிலைதான் என் நிலையோ கண்ணா?
 ‘ஆம்’ என்று நீ சொல்லிவிட்டால் பெண் நான்
-அந்த முடவன் போல செயல்படத்தான் வேண்டும்; உன்
-அருகில் வரமுடியாமல் ஏங்கத்தான் வேண்டும்!
+அந்த முடவன் போல் செயல்படத்தான் வேண்டும்; உன்
+கருகில் வரமுடியாமல் ஏங்கத்தான் வேண்டும்!
 எட்டாத பழமெனினும்
 எனக்கு நீ கிட்டிடுவாய் என்று - தவம்
 கட்டாயம் இருக்கத்தான் வேண்டும்; உன்
@@ -53,3 +53,5 @@ continues_from_scan: 403
 
 (குறுந்தொகை - பாடல் : 60
 பாடியவர் : பரணர்)
+
+<!-- Gate B restores File9-locked `போல்` and `கருகில்` despite the visible scan reading differently; physical lineation and quotation placement remain PDF-controlled. -->
