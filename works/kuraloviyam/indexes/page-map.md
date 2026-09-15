@@ -789,4 +789,4 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 ## Current frontier
 
-**Part 006 English Draft D3 — scans 630–666 — 37 physical scans.**
+**Part 006 English Source-Check SC1 — scans 556–592 / printed 539–575 — 37 pages.**
