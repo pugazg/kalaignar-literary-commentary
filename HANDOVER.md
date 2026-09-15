@@ -522,9 +522,9 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - GR1 page-layer base → endpoint — `a230f74a9d027435a009cd3569dec70f5f907b9b` → `42d9df79adc7d4e2cf7f1ef42bbf3fa272fe60a4`;
 - GR1 exact page compare — **1 commit / exactly 4 modified English page files / 0 non-page changes / 0 Tamil changes / 0 status changes**;
 - GR1 terminology repairs — **scans 561–563 Alagan/Alagi; scan 579 Gandhi**;
-- current Part-006 English state — **111 source-checked / 0 draft**;
+- historical GR1 checkpoint state — **111 source-checked / 0 draft**;
 - source endpoint handling — **658–665 contents exact / 666 pictorial back cover / 665→666 CLEAN / 666 no external continuation**;
-- exact next stage — **Part 006 English Glossary Reconciliation GR2 / scans 593–629 / printed 576–612 — 37 pages**.
+- then-next stage at that historical checkpoint — **Part 006 English Glossary Reconciliation GR2 / scans 593–629 / printed 576–612 — 37 pages**.
 
 ## Kuraloviyam — FINAL MAINTAINED CLOSURE
 

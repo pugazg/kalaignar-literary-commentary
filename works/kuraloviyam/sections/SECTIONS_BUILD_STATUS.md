@@ -50,3 +50,15 @@ The navigation layer is complete as:
 **Book → Iyal → Adhikaram → individual Kuraloviyam entry → audited Tamil/English pages**
 
 There is **no required next section activity**.
+
+
+## Physical-source accounting
+
+Physical scan accounting — **666/666**:
+
+- scans **1–33** — front matter / transition;
+- scans **34–657** — 300 entry spans;
+- scans **658–665** — exact source contents/index;
+- scan **666** — unnumbered pictorial back cover / physical endpoint.
+
+No scan is left unaccounted for.

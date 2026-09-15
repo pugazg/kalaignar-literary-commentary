@@ -465,9 +465,9 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - GR1 exact page compare — **1 commit / exactly 4 modified English page files / 0 non-page changes / 0 Tamil changes / 0 status changes**;
 - GR1 terminology repairs — **scans 561–563 Alagan/Alagi; scan 579 Gandhi**;
 - GR1 added **6 Chapter controls** and recorded **15 source-printed lexical glosses**;
-- current English state — **111 source-checked / 0 draft**;
+- historical GR1 checkpoint state — **111 source-checked / 0 draft**;
 - contents/back-cover endpoint handling — **658–665 contents exact / 666 pictorial back cover / 665→666 CLEAN / 666 no external continuation**;
-- exact next stage — **Part 006 English Glossary Reconciliation GR2 / scans 593–629 / printed 576–612 — 37 pages**.
+- then-next stage at that historical checkpoint — **Part 006 English Glossary Reconciliation GR2 / scans 593–629 / printed 576–612 — 37 pages**.
 
 ## Final maintained state — all six Parts CLOSED
 

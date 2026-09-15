@@ -804,15 +804,28 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - English Glossary Reconciliation GR1 — **COMPLETE / PASS 37/37**;
 - GR1 page-layer base → endpoint — `a230f74a9d027435a009cd3569dec70f5f907b9b` → `42d9df79adc7d4e2cf7f1ef42bbf3fa272fe60a4`;
 - GR1 page corrections — **4 English page files / scans 561, 562, 563, 579 / 0 Tamil changes / 0 status changes**;
-- current English state — **111 source-checked / 0 draft**;
+- historical GR1 checkpoint state — **111 source-checked / 0 draft**;
 - contents/back-cover handling — **658–665 contents exact / 666 pictorial back cover / 665→666 CLEAN / no external continuation**;
-- next stage — **Part 006 English Glossary Reconciliation GR2 / scans 593–629 / printed 576–612 — 37 pages**.
+- then-next stage at that historical checkpoint — **Part 006 English Glossary Reconciliation GR2 / scans 593–629 / printed 576–612 — 37 pages**.
 - SC4 endpoint — `113846a357544a33b73d727d20115471f2f3411f`;
 - SC4 exact page-layer compare — **12 modified English page files only**;
 - fidelity corrections — **4 page files / scans 549, 550, 553, 555**;
 - incoming **543→544 GENUINE CONTINUATION** preserved;
 - outgoing **555→556 CLEAN / source-resolved** preserved.
 
+## Derived section coverage — 666/666 scans accounted for
+
+| Overall scans | Section/navigation role |
+|---:|---|
+| 1–33 | `sections/00-front-matter/` |
+| 34–657 | 300 individual entry spans, exposed as `sections/entries/entry-001.md` … `entry-300.md` |
+| 658–665 | `sections/04-contents/` — complete source contents/index |
+| 666 | unnumbered pictorial back cover / physical source endpoint, retained as the final archival/end-matter record |
+
+S2 entry→Adhikaram crosswalk: **300/300 processed / 298 fully resolved / 2 partial-source-metadata / 0 unresolved**.
+
+S3 individual entry leaves: **300/300 complete**.
+
 ## Current frontier
 
-**Part 006 English Glossary Reconciliation GR2 — scans 593–629 / printed 576–612 — 37 pages.**
+**None. Tamil, maintained English, S1, S2 and S3 are all closed.**

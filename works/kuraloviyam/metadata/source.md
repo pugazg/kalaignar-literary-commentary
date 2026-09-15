@@ -19,8 +19,8 @@ The original source PDF is reported as **666 physical PDF pages**. Because the o
 | 002 | 112–222 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_002_pages_112-222.pdf` | supplied; Tamil/English closed |
 | 003 | 223–333 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_003_pages_223-333.pdf` | **supplied; Tamil + English CLOSED — final checkpoint PASS / CLOSED; 111/111 English release-ready** |
 | 004 | 334–444 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_004_pages_334-444.pdf` | **Tamil + maintained English CLOSED — final checkpoint PASS / CLOSED; 111/111 English release-ready** |
-| 005 | 445–555 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_005_pages_445-555.pdf` | **Tamil ARCHIVAL-READY / CLOSED; 111/111 textual verified + 111/111 visual verified / 0 exceptions; maintained English drafting next** |
-| 006 | 556–666 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_006_pages_556-666.pdf` | **Tamil ARCHIVAL-READY / CLOSED; English source-check COMPLETE / CLOSED 111/111; Glossary GR1 COMPLETE / PASS 37/37; GR2 next** |
+| 005 | 445–555 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_005_pages_445-555.pdf` | **Tamil + maintained English CLOSED; 111/111 English release-ready** |
+| 006 | 556–666 | 111 | `TVA_BOK_0065733_குறளோவியம்_part_006_pages_556-666.pdf` | **Tamil + maintained English CLOSED; 111/111 English release-ready; S1–S3 derived navigation complete; physical source endpoint** |
 
 All six split files are now supplied. Preserve these exact source filenames; do not invent alternate split identities.
 
@@ -102,7 +102,7 @@ Detailed Part 003 intake record:
 
 `works/kuraloviyam/SOURCE_INTAKE_PART_003.md`
 
-Historical Part-003 Pass-1 cadence was **11 physical scans per normal iteration**, followed by a one-page final remainder at scan 333. Parts **001–004 are fully closed**. Parts **005 and 006 are now both supplied and source-intake complete**. The six-part source family is therefore fully available through physical scan **666**. The formerly deferred **444→445** boundary is now source-resolved as **GENUINE CONTINUATION**, while **555→556 is CLEAN**. Part 005 is the active Tamil frontier at **P5-01 / scans 445–455 / printed 428–438**. Part 006 is source-ready and waits behind Part 005; its final scan **666** is the unnumbered back cover and there is no external source boundary beyond it.
+**Historical source-intake snapshot (superseded):** Part-003 Pass-1 cadence was **11 physical scans per normal iteration**, followed by a one-page final remainder at scan 333. Parts **001–004 are fully closed**. Parts **005 and 006 are now both supplied and source-intake complete**. The six-part source family is therefore fully available through physical scan **666**. The formerly deferred **444→445** boundary is now source-resolved as **GENUINE CONTINUATION**, while **555→556 is CLEAN**. Part 005 is the active Tamil frontier at **P5-01 / scans 445–455 / printed 428–438**. Part 006 is source-ready and waits behind Part 005; its final scan **666** is the unnumbered back cover and there is no external source boundary beyond it.
 
 ## Part 004 source identity and provenance
 
@@ -224,3 +224,21 @@ The four source-limited records are Part 001 scans **13, 14, 15, 19** and remain
 Part 006 durable closure: `works/kuraloviyam/PART_006_FINAL_CLOSURE.md`.
 
 There is no active later Part or deferred source boundary after scan 666.
+
+
+## Derived navigation / section coverage
+
+The post-closure section layer under `works/kuraloviyam/sections/` is complete through S3.
+
+Physical-source accounting:
+
+| Overall scans | Derived role |
+|---:|---|
+| 1–33 | front matter / transition structure |
+| 34–657 | 300 Kuraloviyam entry spans |
+| 658–665 | exact source contents/index pages |
+| 666 | unnumbered pictorial back cover / physical endpoint |
+
+S2 provides the source-evidenced entry→Adhikaram crosswalk; S3 provides **300/300 individual entry leaves** plus human, JSON, TSV and Chapter-grouped indexes.
+
+No S2/S3 operation changed the closed Tamil or maintained-English page layers.

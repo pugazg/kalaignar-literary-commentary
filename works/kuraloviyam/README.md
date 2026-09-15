@@ -458,8 +458,8 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - GR1 terminology repairs — **4 page files / scans 561, 562, 563, 579**;
 - GR1 Chapter controls added — **6**;
 - GR1 source-printed lexical glosses recorded — **15**;
-- current English status — **111 source-checked / 0 draft / 0 blocked**;
-- exact next stage — **Part 006 English Glossary Reconciliation GR2 / scans 593–629 / printed 576–612 — 37 pages**.
+- historical GR1 checkpoint status — **111 source-checked / 0 draft / 0 blocked**;
+- then-next stage at that historical checkpoint — **Part 006 English Glossary Reconciliation GR2 / scans 593–629 / printed 576–612 — 37 pages**.
 
 ## Part 006 final closure — PASS / CLOSED
 
@@ -541,6 +541,10 @@ S3 adds one stable leaf for every source contents entry:
 - **0** maintained English page changes.
 
 Durable report: `sections/S3_COMPLETION_REPORT.md`.
+
+## Documentation audit
+
+Current-control documentation was re-audited after S3 and synchronized in `DOCUMENTATION_AUDIT_2026-09-15.md`. Historical progress records remain preserved as historical snapshots rather than being rewritten.
 
 ## Current frontier
 

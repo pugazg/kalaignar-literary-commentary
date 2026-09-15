@@ -43,3 +43,15 @@ Book/Iyal placement is an explicitly derived navigation scaffold. Adhikaram labe
 No missing Chapter or Kural number is filled from another edition, web text or memory. The source-number conflict at Chapter **26** remains visible.
 
 The exact source contents remain unchanged under `04-contents/`.
+
+
+## Physical scan coverage
+
+All **666/666 physical scans are accounted for** in the derived navigation model:
+
+- **1–33** — front matter / transition;
+- **34–657** — 300 Kuraloviyam entry spans;
+- **658–665** — source contents/index;
+- **666** — unnumbered pictorial back cover / physical endpoint.
+
+Scan 666 is end-matter/endpoint material rather than a Kuraloviyam entry leaf.
