@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -33,10 +33,10 @@ Within her heart, she worshipped her lover.
 
 But if they lay forever in an embrace, who would provide for their expenses?
 
-So her companion too went away to pursue his work.
+So her lover too went away to attend to his work.
 
 Time would not pass for the flower-like woman.
 
-She set out to visit the friend she had known before.
+She set out to visit an old friend.
 
 <!-- Source scan page: 629; printed page: 612; new Declaring Love's Excellence vignette begins; 629→630 GENUINE CONTINUATION -->

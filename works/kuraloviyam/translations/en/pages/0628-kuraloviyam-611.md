@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -71,7 +71,7 @@ Affairs of state piled up unfinished.
 
 The rulers who should have crossed those heaps of work were instead sleeping upon beautiful women.
 
-Singing "everything is made of pleasure," and believing that everything would happen by itself, the rulers rejoiced—and finally stood having lost everything.
+Singing "everything is made of pleasure," and believing that everything would happen by itself, the rulers rejoiced—and in the end found themselves stripped of everything.
 
 This is the history of Rome rolling down from the summit of the sky to the ground.
 
