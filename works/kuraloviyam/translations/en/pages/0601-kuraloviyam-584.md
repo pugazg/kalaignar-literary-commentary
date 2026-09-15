@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,7 +19,7 @@ Before she fell asleep, one worry about her family troubled her.
 
 Irangai's husband, Ezhilko, was a man of sweet heart and compassionate nature. He did not even like speaking in a way that would hurt anyone's feelings.
 
-He had a younger brother named Koventhako. He was capable and energetic. Yet there was a condition in which he and his elder brother did not agree.
+He had a younger brother named Koventhako. He was capable and energetic. Yet he and his elder brother were not of one mind.
 
 Koventhako, who by nature did not know how to control his anger, had somehow become a man who nursed hostility toward his elder brother Ezhilko.
 

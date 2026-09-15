@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,7 +19,7 @@ It was not easy for them to defeat and enslave firm Tamil warriors who regarded 
 
 To defeat them, the British had to advance inch by inch. In many places British forces scattered and fled before the armies of the two Maruthus.
 
-Even so, equipped with newer weapons of war and aided by palaiyakkarars and minor rulers among the Tamil people who were ready to betray their own, the British were approaching the height of victory.
+Even so, equipped with newer weapons of war and aided by palaiyakkarars and minor rulers among the Tamil people who were ready to betray their own, the British were approaching the peak of victory.
 
 As a result, Periya Maruthu had to move into the forest with his forces and wage war through concealment and sudden attack.
 

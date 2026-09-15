@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -17,7 +17,7 @@ The grandfather looked at his grandson and asked:
 
 "Grandfather! I am sixteen now. Until today I have earned a good name without giving anyone cause to despise me. Through the greater part of life still ahead, I want to live without being despised by others. That is my goal. You must tell me the good path suited to it."
 
-"My child! In Aruvur, twenty stone-distance from here, there lives a great man called Anbin Adigalar. He is writing a large work explaining the duties of life. The book, based on the Thirukkural, is called Good Life. Hundreds of students gather around him, and they say Adigalar takes ideas from that very book and explains them in ripe Tamil. If you wish, it would be excellent for you to go there and learn."
+"My child! In Aruvur, twenty miles from here, there lives a great man called Anbin Adigalar. He is writing a large work explaining the duties of life. The book, based on the Thirukkural, is called Good Life. Hundreds of students gather around him, and they say Adigalar takes ideas from that very book and explains them in ripe Tamil. If you wish, it would be excellent for you to go there and learn."
 
 Listening to his grandfather, the young man hastened toward Aruvur.
 

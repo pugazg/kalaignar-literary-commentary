@@ -6,14 +6,14 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
 No one came forward to stop his outrages and raise a sense of self-respect in Azhagarkudi.
 
-Many stone-distance away, a young ascetic who lived in a cave cut into a mountain rock—a man whose heart followed the way of the Kural—heard the news and grieved deeply.
+Many miles from Azhagarkudi, a young ascetic who lived in a cave cut into a mountain rock—a man whose heart followed the way of the Kural—heard the news and grieved deeply.
 
 To some people of Azhagarkudi who came to see him, he reproached them with the words: "One also comes to ruin by failing to do what ought to be done."
 
