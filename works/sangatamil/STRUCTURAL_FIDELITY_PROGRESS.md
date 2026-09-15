@@ -1038,16 +1038,118 @@ Exact page-file set:
 
 This progress-record update is the sole intended non-page change after the Batch B10 page-layer endpoint.
 
+## Batch B11 — scans 251–275
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-15**
+- scans reviewed: **251–275 / 25**
+- controlling source: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_006_pages_251-300.pdf`
+- lexical lock used: `File6.md` — Phase 14 / Book Pages 238–262
+- batch base: `d5015c8b24d363c9433386f7ec6e932715bbf3ff`
+- page-layer endpoint: `c11d6d093e88f9645dc3db3ac2398bc58ef9ab97`
+- structurally changed page records: **12**
+- reviewed with no page-record change: **13** — scans **252, 256, 261, 262, 263, 265, 267, 269, 270, 271, 273, 274, 275**
+- scan-led lexical corrections / modernizations: **0**
+- unresolved structural placement issues: **0**
+
+### Gate-B reconciliation performed
+
+1. **scans 251–253 — continuation / closure of `குறளனுக்கோர் கூனியுண்டு!`**
+   - scan 251 restores File6-locked `நெஞ்சிற் காதல்,` to the PDF-supported position after `கூனி -`;
+   - scan 252 was already source-structured correctly and required no repository change;
+   - scan 253 preserves File6 lexical wording but restores the PDF-supported order `குள்ளமில்லை - நல்ல உயரம்!` followed by `கூனல் இல்லை - வானம் பார்த்த நோக்கு!`.
+
+2. **scans 254–257 — `குப்பைக் கோழியார்!`**
+   - scan 254 collapses File6's displaced duplicate placement of `அது;` to the single source-supported position at the end of the `குறுந்தொகையிலுண்டு` line;
+   - scan 255 restores locked `அக்` before `காதற் கனல்...` and preserves the source-visible right-edge carryover structure;
+   - scan 256 remains a full-page colour illustration and required no repository change;
+   - scan 257 keeps the File6 lexical lock `காம ஒளிஎரி`, `என்புஉற`, and glossary `காம ஒள்எரி` even though the controlling scan visibly differs; Gate B does not source-correct those locked readings.
+
+3. **scans 258–262 — `பஞ்சணையில் அரசி; பாசறையில் மன்னன்!`**
+   - scan 258 restores the PDF-supported punctuation/lineation `பத்துப் பாட்டுள் - ஒரு`;
+   - File6 collapses the illustrated two-page spread and the following page into its Book Page 248 extraction. Gate B therefore maps the first portion to physical scan 259 and the latter portion to scan 260 using the PDF as physical authority;
+   - scan 259 retains the source-supported two-page-spread placement for printed pages 246–247; unsupported leading extraction ellipsis/page-wrapper debris is excluded;
+   - scan 260 restores File6-locked `கொடிகளோ` and excludes the embedded `சங்கத் தமிழ்` running header as page furniture;
+   - scan 261 required no repository change; stray File6 numeric `66` and extraction prefix `⚬ என` remain excluded;
+   - scan 262 required no repository change; unsupported File6 fragment `பாசறையை!` remains excluded.
+
+4. **scans 263–268 — `பழி தீர்த்துப் பகை முடித்தாள்!`**
+   - scan 263 was already structurally correct and required no repository change;
+   - scan 264 returns File6-locked `கோசர் சிலர் அவர்` and `நான்` to their PDF-supported positions; stray numeric `66` remains excluded;
+   - scan 265 remains a full-page illustration and required no repository change;
+   - scan 266 restores locked `பின்னர்` and both locked `சென்றார்` tokens to their two distinct source-supported carryover positions, resegmenting the flattened File6 judgment passage;
+   - scan 267 required no repository change; stray File6 numeric `66` remains excluded;
+   - scan 268 restores source order: quotation → separator → provenance → `பொருள் விளக்கம்` → glossary.
+
+5. **scans 269–272 — `நாடு வாழவும் நலிவு தீரவும்...`**
+   - scans 269–270 were already structurally aligned and required no repository change;
+   - scan 271 remains a full-page colour illustration and required no repository change;
+   - scan 272 restores the PDF-controlled order with provenance before `பொருள் விளக்கம்` and its glossary.
+
+6. **scans 273–275 — `அன்றைக்கே ஒரு கண்ணகி!`**
+   - scans 273–274 were already structurally aligned and required no repository change;
+   - stray File6 decorative-heading prefix `வி` on scan 273 and numeric `66` on scan 274 remain excluded as extraction debris;
+   - scan 275 remains a full-page colour illustration and required no repository change;
+   - the section continues beyond the batch frontier.
+
+### Illustration / spread handling confirmed
+
+- scans **256, 265, 271, 275** are full-page colour illustrations with no source-visible literary text or printed page number; all four required **no repository change**.
+- scan **259** is not a blank illustration page: it is a two-page illustrated spread carrying source-visible literary text for printed pages **246–247**. File6 folds that text into its subsequent Book Page 248 extraction; Gate B reassigns the locked wording to the correct physical scan without treating the spread as textless.
+
+### Locked omissions / extraction exceptions carried forward
+
+- scan **257** — File6 locks `காம ஒளிஎரி` / `என்புஉற` and glossary `காம ஒள்எரி`; the visible PDF differs. Gate B preserves the Gemini lexical lock and records the discrepancy rather than source-correcting it.
+- scans **259–260** — File6 collapses printed pages **246–248** into the Book Page 248 extraction. Physical placement is recovered from the PDF; unsupported leading ellipsis and running-header/page-wrapper material are excluded.
+- scan **261** — stray File6 numeric `66` and extraction prefix `⚬ என` excluded.
+- scan **262** — unsupported File6 fragment `பாசறையை!` excluded.
+- scan **264** — stray File6 numeric `66` excluded.
+- scan **267** — stray File6 numeric `66` excluded.
+- scan **273** — stray File6 decorative-heading prefix `வி` excluded.
+- scan **274** — stray File6 numeric `66` excluded.
+
+## Exact changed-file audit — Batch B11
+
+Page-layer compare:
+
+`d5015c8b24d363c9433386f7ec6e932715bbf3ff` → `c11d6d093e88f9645dc3db3ac2398bc58ef9ab97`
+
+Result:
+
+- **1 commit ahead**
+- **exactly 12 modified page files**
+- **0 other page files**
+- **0 non-page files at the page-layer endpoint**
+- scans **252, 256, 261, 262, 263, 265, 267, 269, 270, 271, 273, 274, 275** reviewed with no change
+
+Exact page-file set:
+
+- `works/sangatamil/pages/0251-kuralanukkor-kooniyundu-03.md`
+- `works/sangatamil/pages/0253-kuralanukkor-kooniyundu-05.md`
+- `works/sangatamil/pages/0254-kuppai-kozhiyaar-01.md`
+- `works/sangatamil/pages/0255-kuppai-kozhiyaar-02.md`
+- `works/sangatamil/pages/0257-kuppai-kozhiyaar-04.md`
+- `works/sangatamil/pages/0258-panjanaiyil-arasi-paasaraiyil-mannan-01.md`
+- `works/sangatamil/pages/0259-panjanaiyil-arasi-paasaraiyil-mannan-02.md`
+- `works/sangatamil/pages/0260-panjanaiyil-arasi-paasaraiyil-mannan-03.md`
+- `works/sangatamil/pages/0264-pazhi-theerththu-pagai-mudiththaal-02.md`
+- `works/sangatamil/pages/0266-pazhi-theerththu-pagai-mudiththaal-04.md`
+- `works/sangatamil/pages/0268-pazhi-theerththu-pagai-mudiththaal-06.md`
+- `works/sangatamil/pages/0272-naadu-vaazhavum-nalivu-theeravum-04.md`
+
+This progress-record update is the sole intended non-page change after the Batch B11 page-layer endpoint.
+
 ## Gate B cumulative state
 
-- structurally reviewed: **250/497**
-- structurally remaining: **247**
-- current frontier: **scan 251**
+- structurally reviewed: **275/497**
+- structurally remaining: **222**
+- current frontier: **scan 276**
 - Gate C: **NOT STARTED**
 
 ## Exact next activity
 
-Process **Gate B scans 251–275** against the split PDF covering physical scans **251–300** and the corresponding Gemini lexical lock **File6.md**.
+Process **Gate B scans 276–300** against `TVA_BOK_0042551_சங்கத்_தமிழ்_part_006_pages_251-300.pdf` + `File6.md` — Phase 15 / Book Pages 264–288.
 
 Preserve the Gemini lexical lock and continue structural correction only. Do **not** start Gate C.
 
