@@ -437,9 +437,14 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - contents handling — **658–665 complete contents run; Tamil Kural incipits retained as source index keys**;
 - scan 666 — **pictorial back cover / physical endpoint / no external continuation**;
 - English drafting — **COMPLETE / CLOSED 111/111**;
-- current English status — **111 draft / 0 not yet drafted / 0 source-checked / 0 blocked**;
-- exact next stage — **Part 006 English Source-Check SC1 / scans 556–592 / printed 539–575 — 37 pages**.
+- English Source-Check SC1 — **COMPLETE / PASS 37/37**;
+- SC1 range — **556–592 / printed 539–575**;
+- SC1 page-layer base → endpoint — `0b3d8a701d5db04164f969b15d1d0090622cc664` → `8baca75a8efd00db5a05de425305f244c1c19120`;
+- SC1 exact compare — **3 commits / exactly 37 modified English page files / 0 non-page changes / 0 Tamil changes**;
+- SC1 fidelity repairs — **16 page files / scans 562, 564, 565, 566, 567, 570, 571, 572, 573, 577, 579, 585, 589, 590, 591, 592**;
+- current English status — **37 source-checked / 74 draft / 0 blocked**;
+- exact next stage — **Part 006 English Source-Check SC2 / scans 593–629 / printed 576–612 — 37 pages**.
 
 ## Current frontier
 
-**Part 006 English Source-Check SC1 — scans 556–592 / printed 539–575 — 37 pages.**
+**Part 006 English Source-Check SC2 — scans 593–629 / printed 576–612 — 37 pages.**
