@@ -56,7 +56,7 @@ That is the meaning of the Kural.
 > and those who run and those who strike together  
 > become equals in a single moment—understand this!
 
-So sang Paavendar Bharathidasan.
+So sang Paavendhar Bharathidasan.
 
 How beautifully, two thousand years earlier, Valluvar had given that thought within two lines!
 
