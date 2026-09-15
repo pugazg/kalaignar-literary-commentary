@@ -1687,3 +1687,109 @@ Mapping: split-PDF pages **1–25 = physical scans 401–425**.
 
 Preserve the Gemini lexical lock and continue structural correction only. Do **not** start Gate C.
 
+## Batch B17 — scans 401–425
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-15**
+- scans reviewed: **401–425 / 25**
+- controlling source: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf`
+- lexical lock used: `File9.md` — Phase 19 / Book Pages **389–413**
+- batch base: `a11f1aceb93a0d8c8b74730f2851d1d8717aa156`
+- page-layer endpoint: `6f56beb69657525a74f55dd08f0fffa6ce85e6f5`
+- structurally changed page records: **5**
+- reviewed with no page-record change: **20** — scans **401, 403, 405, 407, 408, 409, 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424**
+- scan-led lexical corrections / modernizations: **0**
+- unresolved structural placement issues: **0**
+
+### Gate-B reconciliation performed
+
+1. **scan 401 — closure of `ஒருத்தி மட்டும் உறங்கவில்லை!`**
+   - two Kuruntokai quotations, separate attributions and `பொருள் விளக்கம்` were already structurally aligned;
+   - no page-record change required.
+
+2. **scans 402–405 — `நெஞ்சம் இனிக்கிறது; தஞ்சம்புகத் துடிக்கிறது!`**
+   - scan 402 removes source-visible `உன்` after `கண்ணா!` because File9 omits that lexical token; song/refrain structure remains PDF-controlled;
+   - scan 403 remains a full-page illustration;
+   - scan 404 restores File9-locked `போல்` and `கருகில்` despite visible-source alternatives;
+   - scan 405 glossary closure was already aligned.
+
+3. **scans 406–408 — `மணித்தேரில் சென்ற மகன்!`**
+   - scan 406 removes one duplicated `மாற்றாரை விரட்டாமல்...` refrain line that is absent from both File9 and the controlling scan at that position;
+   - File9 mixed-script corruption inside `காயமுற்றோர்க்கு` is treated as extraction debris, so the usable Tamil lexical reading remains;
+   - scan 407 remains a full-page illustration;
+   - scan 408 quotation/provenance/gloss structure required no change.
+
+4. **scans 409–412 — `ஆயமகன் குழலூதினான்!`**
+   - scans 409 and 412 were already aligned;
+   - scan 410 restores File9-locked `கொலைஏறு`;
+   - duplicated File9 fragment `னார்` inside the preceding quotation is excluded as extraction debris;
+   - scan 411 remains a full-page illustration.
+
+5. **scans 413–424 — File9 segmentation/replacement anomaly**
+   - physical scans **413–424** were visually reviewed against the controlling PDF;
+   - File9 Book Pages **401–412** do not provide a reliable one-to-one lexical block for these physical scans: extraction content is mis-segmented, displaced, duplicated, or replaced by material belonging to other nearby sections;
+   - existing repository text for scans 413–424 is retained as the preservation layer because it is already source-aligned from prior direct visual capture;
+   - Gate B does **not** invent a synthetic File9 lexical mapping for these scans and does **not** silently source-rewrite their wording;
+   - structural page roles, illustration positions, quotation continuations and provenance/gloss placement were visually checked;
+   - scans **415, 419, 423** remain full-page illustrations.
+
+6. **scan 425 — `ஒருதலைக் காதல்` divider**
+   - the PDF divider visibly reads `ஒருதலைக் காதல்`;
+   - usable File9 wording also supports `ஒருதலைக் காதல்`;
+   - unsupported repository heading `கைக்கிளை` is removed;
+   - orientation and repeated decorative background wording remain visual structure only.
+
+### Illustration / divider handling confirmed
+
+- full-page illustration scans: **403, 407, 411, 415, 419, 423**;
+- scan **425** is a full-page decorative divider, not an illustration-only literary page;
+- all physical roles were checked directly against the PDF.
+
+### Locked omissions / extraction exceptions carried forward
+
+- scan **402** — source-visible `உன்` after `கண்ணா!` is absent from File9 and therefore omitted from locked body text.
+- scan **404** — File9 locks `போல்` / `கருகில்`; visible-source alternatives are not silently substituted.
+- scan **406** — duplicated refrain removed; mixed-script corruption in File9 around `காயமுற்றோர்க்கு` treated as extraction debris.
+- scan **410** — File9 locks `கொலைஏறு`; duplicated `னார்` fragment excluded as extraction debris.
+- scans **413–424** — File9 Book Pages 401–412 are not reliable one-to-one lexical blocks for the physical scans; no synthetic lexical mapping or source-led rewrite is performed in Gate B.
+- scan **425** — unsupported repository heading `கைக்கிளை` removed; divider authority is `ஒருதலைக் காதல்`.
+
+## Exact changed-file audit — Batch B17
+
+Page-layer compare:
+
+`a11f1aceb93a0d8c8b74730f2851d1d8717aa156` → `6f56beb69657525a74f55dd08f0fffa6ce85e6f5`
+
+Result:
+
+- **1 commit ahead**
+- **exactly 5 modified page files**
+- **0 other page files**
+- **0 non-page files at the page-layer endpoint**
+
+Exact page-file set:
+
+- `works/sangatamil/pages/0402-nenjam-inikkiradhu-thanjam-pugath-thudikkiradhu-01.md`
+- `works/sangatamil/pages/0404-nenjam-inikkiradhu-thanjam-pugath-thudikkiradhu-03.md`
+- `works/sangatamil/pages/0406-maniththeril-sendra-magan-01.md`
+- `works/sangatamil/pages/0410-aayamaghan-kuzhaloodhinaan-02.md`
+- `works/sangatamil/pages/0425-kaikkilai-oruthalaik-kaadhal-divider.md`
+
+This progress-record update is the sole intended non-page change after the Batch B17 page-layer endpoint.
+
+## Gate B cumulative state
+
+- structurally reviewed: **425/497**
+- structurally remaining: **72**
+- current frontier: **scan 426**
+- Gate C: **NOT STARTED**
+
+## Exact next activity
+
+Process **Gate B scans 426–450** against the remainder of `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf` + `File9.md`.
+
+Mapping: split-PDF pages **26–50 = physical scans 426–450**.
+
+Preserve the Gemini lexical lock, but treat demonstrated File9 segmentation/replacement defects as documented extraction exceptions rather than fabricating lexical alignment. Do **not** start Gate C.
+
