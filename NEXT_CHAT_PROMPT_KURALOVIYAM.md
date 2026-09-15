@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — குறளோவியம் / Part 006 English Draft D1
+# NEXT CHAT PROMPT — குறளோவியம் / Part 006 English Draft D2
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`, active work `works/kuraloviyam/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,35 +8,28 @@ Parts **001–005 are fully closed**. Do not reopen them.
 
 ## Part 006 Tamil authority
 
-Part 006 Tamil is now:
+Part 006 Tamil is:
 
 **ARCHIVAL-READY / CLOSED — 111/111 textual verified + 111/111 visual verified / 0 exceptions.**
 
-Durable closure record:
+Durable Tamil closure:
 
 `works/kuraloviyam/PART_006_TAMIL_ARCHIVAL_READY.md`
 
-Controlling source:
+Normal English translation authority is the audited Tamil page layer under:
 
-`TVA_BOK_0065733_குறளோவியம்_part_006_pages_556-666.pdf`
+`works/kuraloviyam/pages/`
 
-Source identity:
-
-- scans — **556–666**;
-- local Part pages — **1–111**;
-- printed pages — **539–648**, plus scan 666 unnumbered back cover;
-- bytes — **118,543,819**;
-- SHA-256 — `76f5f3d9f926c148c30ae9f8b1917f4cf423134a6bc09a16ad9eea4bb766c804`.
-
-Normal English translation authority is now the **audited Tamil page layer** under `works/kuraloviyam/pages/`. Reopen the PDF only if a genuinely new provenance/fidelity issue appears.
+Reopen the controlling PDF only if a genuinely new provenance/fidelity issue appears.
 
 ## English workflow policy
 
-Use:
+Read and preserve:
 
 - `works/kuraloviyam/translations/en/TRANSLATION_GUIDE.md`;
 - `works/kuraloviyam/translations/en/GLOSSARY.md`;
-- `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`.
+- `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`;
+- `works/kuraloviyam/translations/en/README.md`.
 
 Translation identity:
 
@@ -48,30 +41,55 @@ Permanent gate order:
 
 Current user-directed normal batch size:
 
-**33 physical scans**
+**37 physical scans per iteration**
 
-Repository inventory at Tamil closure:
+This supersedes the earlier 33-page cadence for future Part-006 English batches. Historical completed batches retain their actual historical sizes.
 
-- Part-006 English page records, scans 556–666 — **0/111**;
-- Part-005 English — **111/111 release-ready / fully closed**.
+## Durable Part 006 English state
 
-## Exact next activity — Draft D1
+Draft D1 is **COMPLETE / PASS 37/37**:
+
+- scans **556–592**;
+- printed pages **539–575**;
+- page-layer base — `411fc0fdad71c2b94ef5c17f68dece42e744089d`;
+- page-layer endpoint — `8ca4baeb33a8a45d13df372dc97acc705c1398e3`;
+- exact compare — **6 commits / exactly 37 newly added English page files / 0 non-page changes / 0 Tamil changes**;
+- `translation_type: "project_translation"` — **37/37**;
+- `status: "draft"` — **37/37**;
+- `source_tamil_status: "verified"` — **37/37**;
+- current Part-006 English inventory — **37 draft / 74 not yet drafted**.
+
+D1 boundary state:
+
+- incoming **555→556 — CLEAN / source-resolved**;
+- outgoing **592→593 — CLEAN**.
+
+## Exact next activity — Draft D2
 
 Create first-pass English translation records for exactly:
 
-**scans 556–588 / printed 539–571 — 33 page-aligned records.**
+**scans 593–629 / printed 576–612 — 37 page-aligned records.**
 
-Mirror Tamil filenames exactly:
-
-- `0556-kuraloviyam-539.md`
-- …
-- `0588-kuraloviyam-571.md`
-
-under:
+Mirror Tamil filenames exactly under:
 
 `works/kuraloviyam/translations/en/pages/`
 
-Each new English page must carry the standard frontmatter:
+D2 starts with:
+
+- scan **593 / printed 576** — new king / self-respecting poet vignette;
+- **592→593 CLEAN**.
+
+D2 ends with:
+
+- scan **629 / printed 612** — begins the `காதற் சிறப்புரைத்தல்` lover-in-the-heart vignette;
+- **629→630 GENUINE CONTINUATION**;
+- scan **630 / printed 613** is outside D2 and continues the same vignette.
+
+Therefore do **not** force a narrative closure at the D2 batch boundary.
+
+## Required frontmatter
+
+Each new D2 English record must carry:
 
 - exact `source_scan_page`;
 - matching `source_tamil_file`;
@@ -86,7 +104,7 @@ Each new English page must carry the standard frontmatter:
 
 ## Drafting discipline
 
-Translate the **audited Tamil record**, not memory or a standard edition.
+Translate the audited Tamil record, not memory or a standard edition.
 
 Do not import:
 
@@ -94,48 +112,36 @@ Do not import:
 - web translations;
 - standard/canonical English Kural wording;
 - another commentator's phrasing;
-- English from memory.
+- English remembered from elsewhere.
 
 Preserve:
 
-- page alignment;
+- exact page alignment;
 - paragraph order;
-- dialogue/speaker relationships;
-- Kural block separation and two-line form;
+- dialogue and speaker relationships;
+- Kural block separation and lineation;
 - Chapter / Kural metadata;
 - source glosses;
-- cross-page continuation;
-- factual visual/non-body descriptions where useful.
+- visual/non-body descriptions where useful;
+- cross-page continuations.
 
 Natural English is expected, but do not add unsupported explanation or commentary.
 
-## D1 boundaries
+## Required completion audit
 
-Incoming boundary:
+After D2 creation:
 
-- **555→556 — CLEAN / source-resolved**;
-- scan 556 begins a new அறத்துப்பால் / பொருட்பால் / கொல்லாமை discussion.
-
-Outgoing boundary:
-
-- **588→589 — CLEAN**;
-- scan 588 closes the fallen-emperor / people's-leader vignette with Chapter 12 / Kural 119;
-- scan 589 begins a new horse-rearing expert / public-honour vignette and is **outside D1**.
-
-Do not use the 33-page batch boundary as a narrative boundary where the source does not support one.
-
-## Required completion checks
-
-After creating D1:
-
-- confirm **33/33** new English page records exist for scans 556–588;
+- confirm **37/37** new English page records for scans **593–629**;
 - confirm filenames and `source_tamil_file` alignment are exact;
 - confirm every page has `translation_type: "project_translation"`;
 - confirm every page has `status: "draft"`;
 - confirm every page has `source_tamil_status: "verified"`;
 - confirm **0 Tamil page files changed**;
-- update `translations/en/TRANSLATION_STATUS.md`;
-- update relevant Kuraloviyam control docs;
-- audit the exact changed-file set before advancing.
+- compare the pre-D2 page-layer base to the D2 endpoint;
+- require exactly **37 new Part-006 English page files** and **0 non-page files** in the page-layer compare;
+- update `translations/en/TRANSLATION_STATUS.md` and relevant control docs;
+- preserve outgoing **629→630 GENUINE CONTINUATION**.
 
-The next English activity after D1 is **Draft D2 — scans 589–621 / printed 572–604 — 33 pages**, unless live main or a user directive changes the cadence.
+After D2, the final drafting batch under the 37-page cadence is:
+
+**Draft D3 — scans 630–666 — 37 physical scans**, covering printed **613–648** plus scan **666 / unnumbered pictorial back cover**.
