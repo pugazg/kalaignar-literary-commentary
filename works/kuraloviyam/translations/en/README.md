@@ -373,8 +373,30 @@ Current Part-006 English inventory remains:
 - `draft` — **0**;
 - editorial-reviewed / release-ready / source-limited / blocked — **0**.
 
+## Part 006 English editorial review — ER1 COMPLETE / PASS 37/37
+
+ER1:
+
+- scans **556–592 / printed 539–575**;
+- pre-ER1 live-main checkpoint — `9240c884195e9368f5d50442a7e843ecd6e83cbb`;
+- English page-layer endpoint — `c8f740e10758fc84d85bd9b05199d14928e69dae`;
+- exact page-layer compare — **4 commits / exactly 37 modified English page files / 0 Tamil changes / 0 non-page changes**;
+- wording-repair pages — **13**: scans **557, 558, 561, 563, 573, 577, 579, 581, 585, 587, 588, 589, 592**;
+- status-only promotion pages — **24**;
+- all **37/37** pages moved from `source-checked` to `editorial-reviewed`;
+- incoming **555→556 CLEAN / source-resolved** preserved;
+- outgoing **592→593 CLEAN** preserved;
+- no external edition/web/standard English Kural wording was imported.
+
+Current Part-006 English inventory:
+
+- `editorial-reviewed` — **37**;
+- `source-checked` — **74**;
+- `draft` — **0**;
+- release-ready / source-limited / blocked — **0**.
+
 ## Current frontier
 
-**Part 006 English Editorial Review ER1 — scans 556–592 / printed 539–575 — 37 pages.**
+**Part 006 English Editorial Review ER2 — scans 593–629 / printed 576–612 — 37 pages.**
 
-Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity. Passing pages may move from `source-checked` to `editorial-reviewed`.
+Continue readability, controlled-terminology, names, quotation/Kural-block, page-function and cross-page continuity review. Passing pages may move from `source-checked` to `editorial-reviewed`. Preserve outgoing **629→630 GENUINE CONTINUATION**.
