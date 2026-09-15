@@ -500,8 +500,23 @@ Whole corpus disposition:
 
 Part 001 source-limited scans remain **13, 14, 15, 19** and must not be reconstructed.
 
+## Derived sections S1 — COMPLETE / PASS
+
+A downstream navigation layer has been created under `works/kuraloviyam/sections/`.
+
+S1 created:
+
+- **156 derived files**;
+- **120** source-evidenced Adhikaram files;
+- Book/Iyal navigation scaffold;
+- exact source contents entries **1–300** in eight files;
+- front-matter section index;
+- **0 Tamil page changes / 0 English page changes**.
+
+Durable status: `works/kuraloviyam/sections/SECTIONS_BUILD_STATUS.md`.
+
 ## Exact next activity
 
-**No active Kuraloviyam content activity.**
+Proceed with **Derived Sections S2 — entry-to-Adhikaram crosswalk, entries 1–300**.
 
-For future maintenance, fetch live `main` first and treat the closed page records plus Part review/release/final-closure records as authoritative. Reopen source material only for a genuinely new provenance/fidelity issue or a new user-requested derivative.
+Use each source contents entry's printed-page span and the audited closing page's Chapter/Kural metadata. Do not infer from an external Thirukkural edition. Preserve source numbering anomalies and leave any unsupported assignment unresolved.
