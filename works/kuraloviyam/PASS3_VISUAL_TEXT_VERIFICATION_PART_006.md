@@ -8,7 +8,7 @@
 - Final physical scan: **666 / unnumbered pictorial back cover**
 - Physical scans: **111**
 - Gate: **Pass 3 — meaningful visual/text fidelity verification**
-- Status: **IN PROGRESS — 110/111**
+- Status: **COMPLETE / PASS — 111/111**
 
 ## Preconditions
 
@@ -409,12 +409,53 @@ Direct rendered-source comparison found **no structural or visual-description co
 - Page-layer endpoint: same commit — `860a8693efd2234cea45a22ed8ab66f2fa73da8c`.
 - Exact page-layer compare is **identical / 0 commits ahead / 0 behind / 0 changed files**.
 
-## Current gate
+## Final remainder — scan 666 / unnumbered pictorial back cover
 
-Part 006 Pass 3 cumulative coverage: **110/111**.
+**Result: COMPLETE / PASS — 1 / 1.**
 
-Exact next activity:
+The final source scan was compared directly with the canonical back-cover record.
 
-**Final remainder — scan 666 / unnumbered pictorial back cover — 1 physical scan.**
+- page function — **BACK COVER / CORRECT**;
+- full-page pictorial relationship — **CORRECT**: large smiling portrait of Kalaignar wearing dark glasses above the warm-toned seascape, with the Valluvar statue / Kanyakumari monument at lower left;
+- printed body text — **NONE VISIBLE**;
+- source/non-source separation — **PASS**;
+- physical endpoint — **CONFIRMED**;
+- external continuation — **NONE**.
 
-Preserve **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**. Perform the final Pass-3 visual verification of the back cover only. Do not promote final status during Pass 3.
+The existing canonical record already represents the page correctly. **No visual-description correction and no Tamil/body-text change were required.**
+
+### Final boundary / source-end result
+
+- **665→666 is CLEAN / PHYSICAL SOURCE ENDPOINT**.
+- Scan 665 closes the final `பொருளடக்கம்` page.
+- Scan 666 is the unnumbered pictorial back cover.
+- There is no scan beyond 666 and no deferred external continuation.
+
+### Final remainder correction summary
+
+- Structural/visual-description corrections: **0**.
+- Lexical/body-text changes: **0**.
+- Changed Part-006 page files: **none**.
+- Status promotions: **0**.
+- Scan 666 remains `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+
+Pass-3 final-remainder page-layer checkpoint: `c51b18d49513a78c26be806384875b0cf7ee9245`.
+
+Page-layer endpoint: same commit — `c51b18d49513a78c26be806384875b0cf7ee9245`.
+
+Exact page-layer compare is **identical / 0 commits ahead / 0 behind / 0 changed files**.
+
+## Pass 3 closure
+
+Part 006 Pass 3 is now **COMPLETE / PASS — 111/111**.
+
+- physical scans verified: **556–666 — 111/111**;
+- structural/visual-description corrections during Pass 3: **2 page records / scans 611 and 631**;
+- lexical/body-text changes during Pass 3: **0**;
+- status promotions during Pass 3: **0**;
+- final source endpoint: **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**;
+- all 111 records remain intentionally `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+
+Exact next gate: **Part 006 audit**.
+
+The audit is a repository/control-record audit. It should verify the 111-page inventory, scan/local/printed mapping, source identity, closure of Source Intake / Pass 1 / Pass 2A / Pass 2B / Pass 3, continuity decisions, Kural/metadata and page-function structure, source limits, unresolved conditions, and correct pre-final status discipline. Do not promote status during the audit.
