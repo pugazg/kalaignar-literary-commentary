@@ -402,10 +402,15 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - audit record — `PART_006_AUDIT.md`;
 - direct header audit — **111/111 canonical records / 0 gaps / 0 duplicates / 0 mapping anomalies**;
 - page functions — **102 body-prose / 8 contents-index / 1 back-cover**;
-- unresolved Tamil exceptions — **0**;
-- all 111 records remain `needs-review` / visual `needs-review` pending the dedicated final metadata/status synchronization;
-- exact next stage — **Part 006 final metadata/status synchronization**.
+- final metadata/status synchronization — **PASS / CLOSED**;
+- status-sync record — `PART_006_FINAL_STATUS_SYNC.md`;
+- status-sync base — `fec10c426518d8b5cb490db9bfab8b50f6d6a440`;
+- page-layer endpoint — `6cdb3cdd18cc1ccf1b1f2071055e9a1fd7782db0`;
+- exact status-sync compare — **11 commits / exactly 111 Part-006 page files / 2 additions + 2 deletions each / 0 non-page files**;
+- final Tamil textual status — **111 verified / 0 needs-review / 0 exceptions**;
+- final visual fidelity — **111 verified / 0 needs-review / 0 exceptions**;
+- exact next stage — **Part 006 documentation synchronization**.
 
 ## Current frontier
 
-**Part 006 final metadata/status synchronization.**
+**Part 006 documentation synchronization.**
