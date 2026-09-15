@@ -7,19 +7,19 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "fast direct transcription from source scan; verification intentionally deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
-> நீ நீங்கு; கன்று சேர்ந்தார்க்கண் கதற்மூச் சென்றுருங்கு,  
-> வன்கண்ணள் ஆய்வால் ஓம்பு  
-> யாம் வருக ஒன்றே; பிறர் வருக; மற்றுநின்  
-> கோ வரினும் இங்கே வருக; தலரேன் யான்,  
+> நீ நீங்கு; கன்று சேர்ந்தார்கண் கதஈற்றாச் சென்றாங்கு,  
+> வன்கண்ணள் ஆய்வரல் ஓம்பு  
+> யாய் வருக ஒன்றோ; பிறர் வருக; மற்றுநின்  
+> கோ வரினும் இங்கே வருக; தளரேன் யான்,  
 > நீ அருளி நல்கப் பெறின்.  
-> நின்னொயான் சொல்லினவும் பேணாய்; நினஇக்  
-> கனபெயல் ஏற்றின் தலிச்சாய்த்து, ஏனையூஉம்  
+> நின்னையான் சொல்லினவும் பேணாய்; நினைஇக்  
+> கனைபெயல் ஏற்றின் தலைசாய்த்து, எனையதூஉம்  
 > மாறு எதிர்கூறி, மயக்கப் படுகுவாய்!-  
-> கலத்தொடு யாஞ் செல்வழி நாடிப், புலத்தும்  
+> கலத்தொடு யாஞ் செல்வுழி நாடிப், புலத்தும்  
 > வருவையால் - நாணிலி! நீ”
 
 <div align="center">*</div>
@@ -35,14 +35,13 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ## பொருள் விளக்கம் :
 
 பாங்கு = அருகில். பாட்டங்கால் = தோட்டத்தினில்.  
-முற்றூப் = தடுத்திடாதே. தொடஇய = தொட்டிட.  
+முற்றாய் = தடுத்திடாதே. தொடீஇய = தொட்டிட.  
 துமித்து = கெடுத்து. மண்டும் = விரைந்தோடும். கடு = மிகவும்.  
 வயம் = வலிமை. நாகு = பெண் எருமை.  
-கதற்மூஆ = கோபங் கொண்ட தாய்ப்பசு.  
-கனபெயலன்று = மிகுதியான மழை பெய்யும்போதும் நிற்கும் காளை.
+கதஈற்று ஆ = கோபங் கொண்ட தாய்ப்பசு.  
+கனைபெயல்ஏறு = மிகுதியான மழை பெய்யும்போதும் நிற்கும் காளை.
 
 <div align="center">*</div>
 
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
-<!-- Quoted and gloss forms remain provisional for Pass 2. -->
+<!-- Gate B restores File3 continuation/gloss wording; the source scan controls continuation lineation, provenance, glossary placement and final ornament. -->
 <!-- மூல ஸ்கேன் பக்கம்: 115; அச்சுப் பக்கம்: 100 -->
