@@ -1575,8 +1575,67 @@ Boundary discipline:
 
 No Tamil archival record changed. No external edition, web source, standard English Kural wording or remembered translation was imported.
 
+## Part 006 English editorial review — ER2 COMPLETE / PASS 37/37
+
+ER2 covers:
+
+**scans 593–629 / printed 576–612 — 37 pages.**
+
+Pre-ER2 live-main checkpoint:
+
+`7f0dfc8985aee0df09a5ec236a3f2988d26ecd5b`
+
+ER2 English page-layer endpoint:
+
+`8372e3c7d63a2ff12d70cb053e75e34b7f074b25`
+
+Exact page-layer compare:
+
+- **4 commits ahead / non-divergent**;
+- exactly **37 modified English page files**;
+- exactly **13 page files** contain source-faithful wording repairs plus status promotion;
+- exactly **24 page files** are status-only promotions;
+- Tamil page changes — **0**;
+- non-page/control-file changes during the page-layer pass — **0**.
+
+Editorial wording repairs:
+
+- scan **596** — replaced the mechanical `stone-distance` wording with natural distance English while preserving the source's `பல கல் தொலைவில்`;
+- scan **598** — `approaching the height of victory` → **approaching the peak of victory**;
+- scan **599** — replaced `twenty stone-distance from here` with natural distance English for `இருபது கல் தொலைவில்`;
+- scan **601** — `there was a condition in which he and his elder brother did not agree` → **he and his elder brother were not of one mind**;
+- scan **605** — `whose face was filled with gathered thought` → **whose face was absorbed in thought**;
+- scan **606** — replaced the literal `lives with the flag of dominance raised high` with **he is the dominant figure in Palur**;
+- scan **607** — `Your life has given me the feeling for a Kural` → **Your life has inspired in me the thought of a Kural**;
+- scan **608** — `The first carried a heavy body` → **The first was heavy-set**;
+- scan **609** — `pick up anyone and throw him down` → **knock anyone down** in the boastful warning;
+- scan **612** — smoothed the closing rhetorical question about what business remained for the half-learned poet;
+- scan **619** — repaired the awkward breeze/smile sentence while preserving the source image of the breeze touching his face and the smile savouring that delight;
+- scan **628** — `finally stood having lost everything` → **in the end found themselves stripped of everything**;
+- scan **629** — clarified `துணைவன்` as **lover** in context and reduced the final phrase to natural **visit an old friend**, without changing the 629→630 continuation.
+
+Status discipline:
+
+- all **37/37** ER2 pages moved from `source-checked` to `editorial-reviewed`;
+- Part-006 English inventory is now:
+  - `editorial-reviewed` — **74**;
+  - `source-checked` — **37**;
+  - `draft` — **0**;
+  - `release-ready` — **0**;
+  - `source-limited` — **0**;
+  - `blocked` — **0**.
+
+Boundary discipline:
+
+- incoming **592→593 CLEAN** preserved;
+- outgoing **629→630 GENUINE CONTINUATION** preserved;
+- scan **630** was checked only as the continuation witness and was not modified in ER2;
+- all cross-page narrative/quotation continuities inside ER2 remain intact.
+
+No Tamil archival record changed. No external edition, web source, standard English Kural wording or remembered translation was imported.
+
 ## Exact next activity
 
-**Part 006 English Editorial Review ER2 — scans 593–629 / printed 576–612 — 37 pages.**
+**Part 006 English Editorial Review ER3 — scans 630–666 / printed 613–648 + scan 666 unnumbered pictorial back cover — 37 pages.**
 
-Continue the same editorial gate: review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity. Consult the audited Tamil whenever an editorial change could affect meaning. Passing pages may move from `source-checked` to `editorial-reviewed`. Preserve outgoing **629→630 GENUINE CONTINUATION**.
+Continue the same editorial gate: review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, contents/index page function and cross-page continuity. Consult the audited Tamil whenever an editorial change could affect meaning. Passing pages may move from `source-checked` to `editorial-reviewed`. Preserve **629→630 GENUINE CONTINUATION**, **657→658 CLEAN / transition to contents**, **658→665 contents continuation**, **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**, and **666 NO EXTERNAL CONTINUATION**.
