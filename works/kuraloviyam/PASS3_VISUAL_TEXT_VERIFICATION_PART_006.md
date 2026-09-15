@@ -8,7 +8,7 @@
 - Final physical scan: **666 / unnumbered pictorial back cover**
 - Physical scans: **111**
 - Gate: **Pass 3 — meaningful visual/text fidelity verification**
-- Status: **IN PROGRESS — 44/111**
+- Status: **IN PROGRESS — 55/111**
 
 ## Preconditions
 
@@ -191,14 +191,52 @@ Because Batch 4 required no page-layer correction, the Pass-3 Batch-4 page-layer
 
 Exact compare `338cf9d0a20d131acdfe3ad1d422001ce820999c` → `338cf9d0a20d131acdfe3ad1d422001ce820999c` is **identical / 0 commits ahead / 0 behind / 0 changed files**.
 
+## Batch 5 — scans 600–610 / printed 583–593
+
+**Result: COMPLETE — 11 / 11.**
+
+Freshly rendered source scans were compared directly with the current canonical records for meaningful visual/text organization. **No structural or visual-description correction was required.** No lexical/body-text change was made.
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 600 | 583 | **NO STRUCTURAL CHANGE** — text-only genuine continuation/closure of the grandson / life-goal / Aruvur-teacher vignette; Kural 281, Chapter 29 metadata and source glosses remain correctly grouped at the foot of the page. |
+| 601 | 584 | **NO STRUCTURAL CHANGE** — large upper illustration of the reclining woman beside a man, with the lidded vessel prominent, remains above the prose; the family / internal-enmity vignette begins below and continues to scan 602. |
+| 602 | 585 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 887, Chapter 89 metadata and source glosses remain correctly grouped at the foot of the page. |
+| 603 | 586 | **NO STRUCTURAL CHANGE** — large upper romantic illustration of the reclining couple beneath a tree remains above the dialogue; the love / gossip / marriage vignette begins below and continues to scan 604. |
+| 604 | 587 | **NO STRUCTURAL CHANGE** — text-led continuation/closure; Kural 1147, Chapter 115 metadata and source gloss remain correctly grouped above the small lower pavilion/tower page furniture. |
+| 605 | 588 | **NO STRUCTURAL CHANGE** — large upper illustration of the woman and man beside the covered table piled with coins remains above the prose; the Valluvar / அழகியான் / wealthy-rival vignette begins below and continues to scan 606. |
+| 606 | 589 | **NO STRUCTURAL CHANGE** — text-only continuation of the Valluvar / அழகியான் vignette; prose/dialogue ordering remains coherent and continues to scan 607. |
+| 607 | 590 | **NO STRUCTURAL CHANGE** — text-led continuation/closure; Kural 967 and Chapter 97 metadata remain correctly separated above the small lower standing-statue page furniture. |
+| 608 | 591 | **NO STRUCTURAL CHANGE** — large upper silhouette illustration of two riders on horseback at dusk remains above the dialogue; the வேழமுகன் / வேங்கைமார்பன் responsibility-and-self-restraint vignette begins below and continues to scan 609. |
+| 609 | 592 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 124 and Chapter 13 metadata remain correctly grouped near the end of the page. |
+| 610 | 593 | **NO STRUCTURAL CHANGE** — large upper court illustration of the seated ruler speaking with the standing pseudo-scholar/minister remains above the prose; the ministerial-misreading vignette begins below and continues directly to scan 611. |
+
+### Boundary / continuity result
+
+- Incoming **599→600 GENUINE CONTINUATION** remains confirmed.
+- **610→611 is a GENUINE CONTINUATION**, reconfirmed from scan **611 / printed 594**: scan 610 opens the pseudo-scholar / ministerial-misreading vignette and scan 611 continues the same exchange.
+- Scan 611 was used only as the outgoing witness and is **not** counted in Batch 5.
+
+### Batch 5 correction summary
+
+- Structural/visual-description corrections: **0**.
+- Lexical/body-text changes: **0**.
+- No-change scans: **600–610 — 11 pages**.
+- Status promotions: **0**.
+- All Part-006 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+
+Because Batch 5 required no page-layer correction, the Pass-3 Batch-5 page-layer endpoint is the pre-batch checkpoint itself: `5f2cb18c4accc2a36d0df1582cb64dc428b60b5f`.
+
+Exact compare `5f2cb18c4accc2a36d0df1582cb64dc428b60b5f` → `5f2cb18c4accc2a36d0df1582cb64dc428b60b5f` is **identical / 0 commits ahead / 0 behind / 0 changed files**.
+
 ## Current gate
 
-Part 006 Pass 3 cumulative coverage: **44/111**.
+Part 006 Pass 3 cumulative coverage: **55/111**.
 
 Exact next batch:
 
-**Batch 5 — scans 600–610 / printed 583–593 — 11 physical scans.**
+**Batch 6 — scans 611–621 / printed 594–604 — 11 physical scans.**
 
-Preserve incoming **599→600 GENUINE CONTINUATION**. Inspect scan **611 / printed 594** only as the outgoing continuity witness if required.
+Preserve incoming **610→611 GENUINE CONTINUATION**. Inspect scan **622 / printed 605** only as the outgoing continuity witness if required.
 
 Pass 3 remains meaningful visual/text fidelity verification, not another lexical reread. Do not promote final status.
