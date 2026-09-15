@@ -383,11 +383,12 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - source endpoint — **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**;
 - Pass 3 Batch 1 — **556–566 / printed 539–549 — COMPLETE 11/11**;
 - Pass 3 Batch 2 — **567–577 / printed 550–560 — COMPLETE 11/11**;
-- Batch-2 structural/visual corrections — **0**;
-- Batch-2 page-layer compare — `b2c8d842938a7e56f17c9010b2cd01b2f4025e94` → same commit — **identical / 0 changed files**;
-- cumulative Pass 3 — **22/111**;
-- exact next stage — **Part 006 Pass 3 Batch 3 / scans 578–588 / printed 561–571 — 11 scans**.
+- Pass 3 Batch 3 — **578–588 / printed 561–571 — COMPLETE 11/11**;
+- Batch-3 structural/visual corrections — **0**;
+- Batch-3 page-layer compare — `51642b8e999a501029832cb95e0d238fd11d131f` → same commit — **identical / 0 changed files**;
+- cumulative Pass 3 — **33/111**;
+- exact next stage — **Part 006 Pass 3 Batch 4 / scans 589–599 / printed 572–582 — 11 scans**.
 
 ## Current frontier
 
-**Part 006 Pass 3 Batch 3 — scans 578–588 / printed 561–571 — 11 scans.**
+**Part 006 Pass 3 Batch 4 — scans 589–599 / printed 572–582 — 11 scans.**
