@@ -526,6 +526,32 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - source endpoint handling — **658–665 contents exact / 666 pictorial back cover / 665→666 CLEAN / 666 no external continuation**;
 - exact next stage — **Part 006 English Glossary Reconciliation GR2 / scans 593–629 / printed 576–612 — 37 pages**.
 
+## Kuraloviyam — FINAL MAINTAINED CLOSURE
+
+The complete supplied `குறளோவியம்` six-Part source family is **CLOSED**.
+
+Part 006 final state:
+
+- scans **556–666**;
+- Tamil — **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified**;
+- English — **RELEASE COMPLETE / CLOSED — 111/111 release-ready**;
+- durable Part review — `works/kuraloviyam/translations/en/reviews/PART_006_ENGLISH_REVIEW.md`;
+- durable release report — `works/kuraloviyam/translations/en/reviews/PART_006_ENGLISH_RELEASE_REPORT.md`;
+- final closure — `works/kuraloviyam/PART_006_FINAL_CLOSURE.md`;
+- source endpoint — scan **666 / unnumbered pictorial back cover / no external continuation**.
+
+Whole-work maintained disposition:
+
+- physical scans — **1–666 complete**;
+- Tamil — **662 verified + 4 partial/source-limited; 666/666 visual verified**;
+- maintained English — **662 release-ready + 4 source-limited**;
+- blocked — **0**;
+- Parts **001–006** — all closed.
+
+The four durable source limitations remain Part 001 scans **13, 14, 15, 19**.
+
 ## Exact next activity — குறளோவியம்
 
-Proceed with **Part 006 English Glossary Reconciliation GR2 — scans 593–629 / printed 576–612 — 37 pages**. Compare recurring names, controlled literary terms, work/section names, Chapter labels, citation metadata, source-printed glosses and repeated English forms against `works/kuraloviyam/translations/en/GLOSSARY.md` and the audited Tamil context. Update only source-evidenced controls. This gate makes **no page-status promotion**; passing pages remain `source-checked`.
+**None. The Kuraloviyam maintained workflow is complete.**
+
+Only reopen a closed Part for a genuinely new source/provenance/fidelity issue or an explicitly requested new derivative/output.
