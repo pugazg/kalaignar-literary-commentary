@@ -4,7 +4,7 @@
 - Iyal: **அரசியல்** — derived navigation placement
 - source Tamil form: **சிற்றினம் சேராமை**
 - maintained English label: **Avoiding Mean Company**
-- Kuraloviyam contents entries linked here: **2**
+- linked Kuraloviyam entries: **2**
 
 ## Maintained label/control evidence
 
@@ -12,11 +12,11 @@
 |---|---|---|
 | சிற்றினம் சேராமை | Avoiding Mean Company | Chapter 46 label on scan 482 / printed 465. |
 
-## Kuraloviyam contents entries
+## Kuraloviyam entries
 
-| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+| Entry | Contents key | Printed span | Scan span | Kural(s) | Status |
 |---:|---|---:|---:|---|---|
-| 217 | நிலத்தியல்பால் நீர்திரிந்து | 464–465 | 481–482 | 452 | RESOLVED |
-| 294 | சிற்றினம் அஞ்சும் | 626–627 | 643–644 | 451 | RESOLVED |
+| [217](../../entries/entry-217.md) | நிலத்தியல்பால் நீர்திரிந்து | 464–465 | 481–482 | 452 | RESOLVED |
+| [294](../../entries/entry-294.md) | சிற்றினம் அஞ்சும் | 626–627 | 643–644 | 451 | RESOLVED |
 
-Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.
+Crosswalk authority: [S2 master crosswalk](../../crosswalk/S2_MASTER_CROSSWALK.tsv). Entry index: [S3 entry leaves](../../entries/README.md).

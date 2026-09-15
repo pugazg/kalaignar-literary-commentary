@@ -4,7 +4,7 @@
 - Iyal: **துறவறவியல்** — derived navigation placement
 - source Tamil form: **கள்ளாமை**
 - maintained English label: **Non-Stealing**
-- Kuraloviyam contents entries linked here: **1**
+- linked Kuraloviyam entries: **1**
 
 ## Maintained label/control evidence
 
@@ -12,10 +12,10 @@
 |---|---|---|
 | கள்ளாமை | Non-Stealing | Chapter 29 label on scan 600 / printed 583. Keep the Chapter-title sense distinct from the source lexical gloss `கள்ளாமை = களவு செய்யாமை` on the same page. |
 
-## Kuraloviyam contents entries
+## Kuraloviyam entries
 
-| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+| Entry | Contents key | Printed span | Scan span | Kural(s) | Status |
 |---:|---|---:|---:|---|---|
-| 273 | எள்ளாமை வேண்டுவான் | 582–583 | 599–600 | 281 | RESOLVED |
+| [273](../../entries/entry-273.md) | எள்ளாமை வேண்டுவான் | 582–583 | 599–600 | 281 | RESOLVED |
 
-Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.
+Crosswalk authority: [S2 master crosswalk](../../crosswalk/S2_MASTER_CROSSWALK.tsv). Entry index: [S3 entry leaves](../../entries/README.md).

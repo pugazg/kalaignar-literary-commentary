@@ -4,7 +4,7 @@
 - Iyal: **அமைச்சியல்** — derived navigation placement
 - source Tamil form: **வினைத்திட்பம்**
 - maintained English label: **Firmness in Action**
-- Kuraloviyam contents entries linked here: **2**
+- linked Kuraloviyam entries: **2**
 
 ## Maintained label/control evidence
 
@@ -12,11 +12,11 @@
 |---|---|---|
 | வினைத்திட்பம் | Firmness in Action | Chapter 67 label on scan 47. |
 
-## Kuraloviyam contents entries
+## Kuraloviyam entries
 
-| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+| Entry | Contents key | Printed span | Scan span | Kural(s) | Status |
 |---:|---|---:|---:|---|---|
-| 6 | சொல்லுதல் யார்க்கும் | 28–30 | 45–47 | 664 | RESOLVED |
-| 233 | துன்பம் உறவரினும் | 496–498 | 513–515 | 669 | RESOLVED |
+| [006](../../entries/entry-006.md) | சொல்லுதல் யார்க்கும் | 28–30 | 45–47 | 664 | RESOLVED |
+| [233](../../entries/entry-233.md) | துன்பம் உறவரினும் | 496–498 | 513–515 | 669 | RESOLVED |
 
-Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.
+Crosswalk authority: [S2 master crosswalk](../../crosswalk/S2_MASTER_CROSSWALK.tsv). Entry index: [S3 entry leaves](../../entries/README.md).

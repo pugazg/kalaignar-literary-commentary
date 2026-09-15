@@ -4,7 +4,7 @@
 - Iyal: **இல்லறவியல்** — derived navigation placement
 - source Tamil form: **புறங்கூறாமை**
 - maintained English label: **Refraining from Slander**
-- Kuraloviyam contents entries linked here: **4**
+- linked Kuraloviyam entries: **4**
 
 ## Maintained label/control evidence
 
@@ -12,13 +12,13 @@
 |---|---|---|
 | புறங்கூறாமை | Refraining from Slander | Chapter 19 label on scan 163. |
 
-## Kuraloviyam contents entries
+## Kuraloviyam entries
 
-| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+| Entry | Contents key | Printed span | Scan span | Kural(s) | Status |
 |---:|---|---:|---:|---|---|
-| 64 | துன்னியார் குற்றமும் | 145–146 | 162–163 | 188 | RESOLVED |
-| 94 | அ. அகழ்வாரைத் தாங்கும் / ஆ. அறன்நோக்கி ஆற்றும்கொல் | 210–211 | 227–228 | 189 | RESOLVED |
-| 210 | புறங்கூறிப் பொய்த்துயிர் | 451–452 | 468–469 | 183 | RESOLVED |
-| 227 | எதிரார் குற்றம் போல் | 484–485 | 501–502 | 190 | RESOLVED |
+| [064](../../entries/entry-064.md) | துன்னியார் குற்றமும் | 145–146 | 162–163 | 188 | RESOLVED |
+| [094](../../entries/entry-094.md) | அ. அகழ்வாரைத் தாங்கும் / ஆ. அறன்நோக்கி ஆற்றும்கொல் | 210–211 | 227–228 | 189 | RESOLVED |
+| [210](../../entries/entry-210.md) | புறங்கூறிப் பொய்த்துயிர் | 451–452 | 468–469 | 183 | RESOLVED |
+| [227](../../entries/entry-227.md) | எதிரார் குற்றம் போல் | 484–485 | 501–502 | 190 | RESOLVED |
 
-Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.
+Crosswalk authority: [S2 master crosswalk](../../crosswalk/S2_MASTER_CROSSWALK.tsv). Entry index: [S3 entry leaves](../../entries/README.md).

@@ -4,7 +4,7 @@
 - Iyal: **இல்லறவியல்** — derived navigation placement
 - source Tamil form: **பொறையுடைமை**
 - maintained English label: **Forbearance**
-- Kuraloviyam contents entries linked here: **3**
+- linked Kuraloviyam entries: **3**
 
 ## Maintained label/control evidence
 
@@ -12,12 +12,12 @@
 |---|---|---|
 | பொறையுடைமை | Forbearance | Chapter 16 label on scan 228. |
 
-## Kuraloviyam contents entries
+## Kuraloviyam entries
 
-| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+| Entry | Contents key | Printed span | Scan span | Kural(s) | Status |
 |---:|---|---:|---:|---|---|
-| 94 | அ. அகழ்வாரைத் தாங்கும் / ஆ. அறன்நோக்கி ஆற்றும்கொல் | 210–211 | 227–228 | 151 | RESOLVED |
-| 114 | ஒருத்தாரை ஒன்றாக | 251–252 | 268–269 | 155 | RESOLVED |
-| 245 | மிகுதியான் மிக்கவை | 522–523 | 539–540 | 158 | RESOLVED |
+| [094](../../entries/entry-094.md) | அ. அகழ்வாரைத் தாங்கும் / ஆ. அறன்நோக்கி ஆற்றும்கொல் | 210–211 | 227–228 | 151 | RESOLVED |
+| [114](../../entries/entry-114.md) | ஒருத்தாரை ஒன்றாக | 251–252 | 268–269 | 155 | RESOLVED |
+| [245](../../entries/entry-245.md) | மிகுதியான் மிக்கவை | 522–523 | 539–540 | 158 | RESOLVED |
 
-Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.
+Crosswalk authority: [S2 master crosswalk](../../crosswalk/S2_MASTER_CROSSWALK.tsv). Entry index: [S3 entry leaves](../../entries/README.md).

@@ -4,7 +4,7 @@
 - Iyal: **துறவறவியல்** — derived navigation placement
 - source Tamil form: **வாய்மை**
 - maintained English label: **Truthfulness**
-- Kuraloviyam contents entries linked here: **1**
+- linked Kuraloviyam entries: **1**
 
 ## Maintained label/control evidence
 
@@ -12,10 +12,10 @@
 |---|---|---|
 | வாய்மை | Truthfulness | Chapter 30 label on scan 118. |
 
-## Kuraloviyam contents entries
+## Kuraloviyam entries
 
-| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+| Entry | Contents key | Printed span | Scan span | Kural(s) | Status |
 |---:|---|---:|---:|---|---|
-| 42 | அ. பொய்மையும் வாய்மை / ஆ. தன்னெஞ் சறிவது | 100–101 | 117–118 | 292, 293 | RESOLVED |
+| [042](../../entries/entry-042.md) | அ. பொய்மையும் வாய்மை / ஆ. தன்னெஞ் சறிவது | 100–101 | 117–118 | 292, 293 | RESOLVED |
 
-Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.
+Crosswalk authority: [S2 master crosswalk](../../crosswalk/S2_MASTER_CROSSWALK.tsv). Entry index: [S3 entry leaves](../../entries/README.md).

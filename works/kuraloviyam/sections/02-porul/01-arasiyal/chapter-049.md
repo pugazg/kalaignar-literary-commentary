@@ -4,7 +4,7 @@
 - Iyal: **அரசியல்** — derived navigation placement
 - source Tamil form: **காலம் அறிதல்**
 - maintained English label: **Knowing the Proper Time**
-- Kuraloviyam contents entries linked here: **3**
+- linked Kuraloviyam entries: **3**
 
 ## Maintained label/control evidence
 
@@ -12,12 +12,12 @@
 |---|---|---|
 | காலம் அறிதல் | Knowing the Proper Time | Chapter 49 label on scan 139. |
 
-## Kuraloviyam contents entries
+## Kuraloviyam entries
 
-| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+| Entry | Contents key | Printed span | Scan span | Kural(s) | Status |
 |---:|---|---:|---:|---|---|
-| 52 | பகல்வெல்லும் கூகையை | 121–122 | 138–139 | 481 | RESOLVED |
-| 192 | ஊக்கம் உடையான் | 412–413 | 429–430 | 486 | RESOLVED |
-| 196 | கொக்கொக்கக் கூம்பும் | 421–422 | 438–439 | 490 | RESOLVED |
+| [052](../../entries/entry-052.md) | பகல்வெல்லும் கூகையை | 121–122 | 138–139 | 481 | RESOLVED |
+| [192](../../entries/entry-192.md) | ஊக்கம் உடையான் | 412–413 | 429–430 | 486 | RESOLVED |
+| [196](../../entries/entry-196.md) | கொக்கொக்கக் கூம்பும் | 421–422 | 438–439 | 490 | RESOLVED |
 
-Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.
+Crosswalk authority: [S2 master crosswalk](../../crosswalk/S2_MASTER_CROSSWALK.tsv). Entry index: [S3 entry leaves](../../entries/README.md).

@@ -4,7 +4,7 @@
 - Iyal: **அரசியல்** — derived navigation placement
 - source Tamil form: **தெரிந்து தெளிதல்**
 - maintained English label: **Knowing and Trusting**
-- Kuraloviyam contents entries linked here: **1**
+- linked Kuraloviyam entries: **1**
 
 ## Maintained label/control evidence
 
@@ -12,10 +12,10 @@
 |---|---|---|
 | தெரிந்து தெளிதல் | Knowing and Trusting | Chapter 51 label on scan 123. |
 
-## Kuraloviyam contents entries
+## Kuraloviyam entries
 
-| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+| Entry | Contents key | Printed span | Scan span | Kural(s) | Status |
 |---:|---|---:|---:|---|---|
-| 44 | தேரான் தெளிவும் | 104–106 | 121–123 | 510 | RESOLVED |
+| [044](../../entries/entry-044.md) | தேரான் தெளிவும் | 104–106 | 121–123 | 510 | RESOLVED |
 
-Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.
+Crosswalk authority: [S2 master crosswalk](../../crosswalk/S2_MASTER_CROSSWALK.tsv). Entry index: [S3 entry leaves](../../entries/README.md).

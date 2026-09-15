@@ -4,7 +4,7 @@
 - Iyal: **குடியியல்** — derived navigation placement
 - source Tamil form: **மானம்**
 - maintained English label: **Honour**
-- Kuraloviyam contents entries linked here: **3**
+- linked Kuraloviyam entries: **3**
 
 ## Maintained label/control evidence
 
@@ -12,12 +12,12 @@
 |---|---|---|
 | மானம் | Honour | Chapter 97 label on scan 456 / printed 439. |
 
-## Kuraloviyam contents entries
+## Kuraloviyam entries
 
-| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+| Entry | Contents key | Printed span | Scan span | Kural(s) | Status |
 |---:|---|---:|---:|---|---|
-| 204 | மயிர்நீப்பின் வாழா | 438–439 | 455–456 | 969 | RESOLVED |
-| 276 | ஒட்டார்பின் சென்றொருவன் | 588–590 | 605–607 | 967 | RESOLVED |
-| 296 | குன்றின் அனையாரும் | 631–632 | 648–649 | 965 | RESOLVED |
+| [204](../../entries/entry-204.md) | மயிர்நீப்பின் வாழா | 438–439 | 455–456 | 969 | RESOLVED |
+| [276](../../entries/entry-276.md) | ஒட்டார்பின் சென்றொருவன் | 588–590 | 605–607 | 967 | RESOLVED |
+| [296](../../entries/entry-296.md) | குன்றின் அனையாரும் | 631–632 | 648–649 | 965 | RESOLVED |
 
-Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.
+Crosswalk authority: [S2 master crosswalk](../../crosswalk/S2_MASTER_CROSSWALK.tsv). Entry index: [S3 entry leaves](../../entries/README.md).

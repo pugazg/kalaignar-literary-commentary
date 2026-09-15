@@ -4,7 +4,7 @@
 - Iyal: **துறவறவியல்** — derived navigation placement
 - source Tamil form: **அவா அறுத்தல்**
 - maintained English label: **Renouncing Desire**
-- Kuraloviyam contents entries linked here: **1**
+- linked Kuraloviyam entries: **1**
 
 ## Maintained label/control evidence
 
@@ -12,10 +12,10 @@
 |---|---|---|
 | அவா அறுத்தல் | Renouncing Desire | Chapter 37 label on scan 634 / printed 617. |
 
-## Kuraloviyam contents entries
+## Kuraloviyam entries
 
-| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+| Entry | Contents key | Printed span | Scan span | Kural(s) | Status |
 |---:|---|---:|---:|---|---|
-| 289 | அஞ்சுவ தோரும் | 616–617 | 633–634 | 366 | RESOLVED |
+| [289](../../entries/entry-289.md) | அஞ்சுவ தோரும் | 616–617 | 633–634 | 366 | RESOLVED |
 
-Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.
+Crosswalk authority: [S2 master crosswalk](../../crosswalk/S2_MASTER_CROSSWALK.tsv). Entry index: [S3 entry leaves](../../entries/README.md).

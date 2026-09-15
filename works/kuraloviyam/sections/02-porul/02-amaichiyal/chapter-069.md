@@ -4,7 +4,7 @@
 - Iyal: **அமைச்சியல்** — derived navigation placement
 - source Tamil form: **தூது**
 - maintained English label: **The Envoy**
-- Kuraloviyam contents entries linked here: **1**
+- linked Kuraloviyam entries: **1**
 
 ## Maintained label/control evidence
 
@@ -12,10 +12,10 @@
 |---|---|---|
 | தூது | The Envoy | Chapter 69 label on scan 371 / printed 354. |
 
-## Kuraloviyam contents entries
+## Kuraloviyam entries
 
-| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+| Entry | Contents key | Printed span | Scan span | Kural(s) | Status |
 |---:|---|---:|---:|---|---|
-| 164 | அ. தொகச்சொல்லித் தூவாத / ஆ. இறுதி பயப்பினும் | 353–354 | 370–371 | 685, 690 | RESOLVED |
+| [164](../../entries/entry-164.md) | அ. தொகச்சொல்லித் தூவாத / ஆ. இறுதி பயப்பினும் | 353–354 | 370–371 | 685, 690 | RESOLVED |
 
-Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.
+Crosswalk authority: [S2 master crosswalk](../../crosswalk/S2_MASTER_CROSSWALK.tsv). Entry index: [S3 entry leaves](../../entries/README.md).

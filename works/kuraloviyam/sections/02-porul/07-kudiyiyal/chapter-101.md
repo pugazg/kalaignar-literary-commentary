@@ -4,7 +4,7 @@
 - Iyal: **குடியியல்** — derived navigation placement
 - source Tamil form: **நன்றியில் செல்வம்**
 - maintained English label: **Wealth Without Beneficence**
-- Kuraloviyam contents entries linked here: **1**
+- linked Kuraloviyam entries: **1**
 
 ## Maintained label/control evidence
 
@@ -12,10 +12,10 @@
 |---|---|---|
 | நன்றியில் செல்வம் | Wealth Without Beneficence | Chapter 101 label on scan 329. |
 
-## Kuraloviyam contents entries
+## Kuraloviyam entries
 
-| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+| Entry | Contents key | Printed span | Scan span | Kural(s) | Status |
 |---:|---|---:|---:|---|---|
-| 143 | அற்றார்க்கொன்று ஆற்றாதான் | 311–312 | 328–329 | 1007 | RESOLVED |
+| [143](../../entries/entry-143.md) | அற்றார்க்கொன்று ஆற்றாதான் | 311–312 | 328–329 | 1007 | RESOLVED |
 
-Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.
+Crosswalk authority: [S2 master crosswalk](../../crosswalk/S2_MASTER_CROSSWALK.tsv). Entry index: [S3 entry leaves](../../entries/README.md).

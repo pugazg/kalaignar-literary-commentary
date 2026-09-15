@@ -4,7 +4,7 @@
 - Iyal: **அரசியல்** — derived navigation placement
 - source Tamil form: **தெரிந்து செயல்வகை**
 - maintained English label: **Acting After Due Consideration**
-- Kuraloviyam contents entries linked here: **2**
+- linked Kuraloviyam entries: **2**
 
 ## Maintained label/control evidence
 
@@ -12,11 +12,11 @@
 |---|---|---|
 | தெரிந்து செயல்வகை | Acting After Due Consideration | Chapter 47 label on scan 147. |
 
-## Kuraloviyam contents entries
+## Kuraloviyam entries
 
-| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+| Entry | Contents key | Printed span | Scan span | Kural(s) | Status |
 |---:|---|---:|---:|---|---|
-| 56 | நன்றாற்ற லுள்ளும் | 129–130 | 146–147 | 469 | RESOLVED |
-| 271 | செய்யக்க அல்ல | 578–579 | 595–596 | 466 | RESOLVED |
+| [056](../../entries/entry-056.md) | நன்றாற்ற லுள்ளும் | 129–130 | 146–147 | 469 | RESOLVED |
+| [271](../../entries/entry-271.md) | செய்யக்க அல்ல | 578–579 | 595–596 | 466 | RESOLVED |
 
-Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.
+Crosswalk authority: [S2 master crosswalk](../../crosswalk/S2_MASTER_CROSSWALK.tsv). Entry index: [S3 entry leaves](../../entries/README.md).

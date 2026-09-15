@@ -4,7 +4,7 @@
 - Iyal: **அரசியல்** — derived navigation placement
 - source Tamil form: **கேள்வி**
 - maintained English label: **Listening**
-- Kuraloviyam contents entries linked here: **1**
+- linked Kuraloviyam entries: **1**
 
 ## Maintained label/control evidence
 
@@ -12,10 +12,10 @@
 |---|---|---|
 | கேள்வி | Listening | Chapter 42 label on scan 135. |
 
-## Kuraloviyam contents entries
+## Kuraloviyam entries
 
-| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+| Entry | Contents key | Printed span | Scan span | Kural(s) | Status |
 |---:|---|---:|---:|---|---|
-| 50 | செவியிற் சுவையுணரா | 117–118 | 134–135 | 420 | RESOLVED |
+| [050](../../entries/entry-050.md) | செவியிற் சுவையுணரா | 117–118 | 134–135 | 420 | RESOLVED |
 
-Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.
+Crosswalk authority: [S2 master crosswalk](../../crosswalk/S2_MASTER_CROSSWALK.tsv). Entry index: [S3 entry leaves](../../entries/README.md).

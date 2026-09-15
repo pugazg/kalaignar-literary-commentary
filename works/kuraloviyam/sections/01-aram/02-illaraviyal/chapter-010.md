@@ -4,7 +4,7 @@
 - Iyal: **இல்லறவியல்** — derived navigation placement
 - source Tamil form: **இனியவை கூறல்**
 - maintained English label: **Speaking Pleasant Words**
-- Kuraloviyam contents entries linked here: **2**
+- linked Kuraloviyam entries: **2**
 
 ## Maintained label/control evidence
 
@@ -12,11 +12,11 @@
 |---|---|---|
 | இனியவை கூறல் | Speaking Pleasant Words | Chapter 10 label on scan 131. |
 
-## Kuraloviyam contents entries
+## Kuraloviyam entries
 
-| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+| Entry | Contents key | Printed span | Scan span | Kural(s) | Status |
 |---:|---|---:|---:|---|---|
-| 48 | இனிய உளவாக | 113–114 | 130–131 | 100 | RESOLVED |
-| 216 | பணிவுடையன் இன்சொல்லன் | 462–463 | 479–480 | 95 | RESOLVED |
+| [048](../../entries/entry-048.md) | இனிய உளவாக | 113–114 | 130–131 | 100 | RESOLVED |
+| [216](../../entries/entry-216.md) | பணிவுடையன் இன்சொல்லன் | 462–463 | 479–480 | 95 | RESOLVED |
 
-Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.
+Crosswalk authority: [S2 master crosswalk](../../crosswalk/S2_MASTER_CROSSWALK.tsv). Entry index: [S3 entry leaves](../../entries/README.md).

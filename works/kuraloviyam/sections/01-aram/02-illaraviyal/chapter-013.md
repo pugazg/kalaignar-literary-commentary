@@ -4,7 +4,7 @@
 - Iyal: **இல்லறவியல்** — derived navigation placement
 - source Tamil form: **அடக்கமுடைமை**
 - maintained English label: **Self-Control**
-- Kuraloviyam contents entries linked here: **2**
+- linked Kuraloviyam entries: **2**
 
 ## Maintained label/control evidence
 
@@ -12,11 +12,11 @@
 |---|---|---|
 | அடக்கமுடைமை | Self-Control | Chapter 13 label on scan 261. |
 
-## Kuraloviyam contents entries
+## Kuraloviyam entries
 
-| Entry | Contents key | Printed span | Scan span | Kural(s) evidenced for this Chapter | Crosswalk status |
+| Entry | Contents key | Printed span | Scan span | Kural(s) | Status |
 |---:|---|---:|---:|---|---|
-| 110 | தீயினாற் சுட்டபுண் | 243–244 | 260–261 | 129 | RESOLVED |
-| 277 | நிலையில் திரியாது | 591–592 | 608–609 | 124 | RESOLVED |
+| [110](../../entries/entry-110.md) | தீயினாற் சுட்டபுண் | 243–244 | 260–261 | 129 | RESOLVED |
+| [277](../../entries/entry-277.md) | நிலையில் திரியாது | 591–592 | 608–609 | 124 | RESOLVED |
 
-Source detail: `../../../crosswalk/S2_MASTER_CROSSWALK.tsv` and the audited range records under `../../../crosswalk/`.
+Crosswalk authority: [S2 master crosswalk](../../crosswalk/S2_MASTER_CROSSWALK.tsv). Entry index: [S3 entry leaves](../../entries/README.md).
