@@ -779,12 +779,13 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 - D3 exact compare — **5 commits / exactly 37 new English page files / 0 non-page changes / 0 Tamil changes**;
 - English drafting — **COMPLETE / CLOSED 111/111**;
 - English Source-Check SC1 — **COMPLETE / PASS 37/37**;
-- SC1 base → endpoint — `0b3d8a701d5db04164f969b15d1d0090622cc664` → `8baca75a8efd00db5a05de425305f244c1c19120`;
-- SC1 exact compare — **3 commits / exactly 37 modified English page files / 0 non-page changes / 0 Tamil changes**;
-- SC1 fidelity repairs — **16 page files**;
-- current English state — **37 source-checked / 74 draft**;
+- English Source-Check SC2 — **COMPLETE / PASS 37/37**;
+- SC2 base → endpoint — `ce140cb9a2b23b860772ee649de473ffde8fc9dc` → `0c2d08993de3ba3d8b4df9c8bd5fe12b58ed22c0`;
+- SC2 exact compare — **3 commits / exactly 37 modified English page files / 0 non-page changes / 0 Tamil changes**;
+- SC2 fidelity repairs — **8 page files / scans 603, 604, 608, 609, 610, 611, 615, 620**;
+- current English state — **74 source-checked / 37 draft**;
 - contents/back-cover handling — **658–665 contents / 666 pictorial back cover / 665→666 CLEAN / no external continuation**;
-- next stage — **Part 006 English Source-Check SC2 / scans 593–629 / printed 576–612 — 37 pages**.
+- next stage — **Part 006 English Source-Check SC3 / scans 630–666 — 37 physical scans**.
 - SC4 endpoint — `113846a357544a33b73d727d20115471f2f3411f`;
 - SC4 exact page-layer compare — **12 modified English page files only**;
 - fidelity corrections — **4 page files / scans 549, 550, 553, 555**;
