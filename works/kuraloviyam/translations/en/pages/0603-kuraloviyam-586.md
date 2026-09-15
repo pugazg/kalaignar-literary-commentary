@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -25,6 +25,6 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 "Enough of your verbal acrobatics. Tell me now! When is our wedding?"
 
-"The townspeople are spreading gossip. Your mother speaks harshly and tries to stop you. You are the one who tells me all this. Yet now, lying upon my lap, you bend the bow of your eyebrows and lock the arrows of your eyes, asking me when our wedding will be..."
+"The townspeople are spreading gossip. Your mother speaks harshly and tries to stop you. You are the one who tells me all this. And now you ask, 'The wedding...
 
 <!-- Source scan page: 603; printed page: 586; new love / gossip vignette begins and source-visible sentence continues directly to scan 604 -->

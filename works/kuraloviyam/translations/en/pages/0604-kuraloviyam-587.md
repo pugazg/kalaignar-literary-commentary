@@ -6,10 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
+
+...when will it be?' Lying upon my lap, you set the arrows of your eyes and bend the bow of your brows!"
 
 "Yes! So many people know about our love and the townspeople speak of it with contempt. My mother too tries to stop me with harsh words. But one thing, dear: don't you understand that the talk of the town becomes manure and my mother's opposition becomes water, making the crop of our love grow luxuriantly?"
 
