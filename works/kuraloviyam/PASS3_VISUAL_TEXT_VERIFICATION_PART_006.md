@@ -8,7 +8,7 @@
 - Final physical scan: **666 / unnumbered pictorial back cover**
 - Physical scans: **111**
 - Gate: **Pass 3 — meaningful visual/text fidelity verification**
-- Status: **IN PROGRESS — 55/111**
+- Status: **IN PROGRESS — 66/111**
 
 ## Preconditions
 
@@ -229,14 +229,55 @@ Because Batch 5 required no page-layer correction, the Pass-3 Batch-5 page-layer
 
 Exact compare `5f2cb18c4accc2a36d0df1582cb64dc428b60b5f` → `5f2cb18c4accc2a36d0df1582cb64dc428b60b5f` is **identical / 0 commits ahead / 0 behind / 0 changed files**.
 
+## Batch 6 — scans 611–621 / printed 594–604
+
+**Result: COMPLETE — 11 / 11.**
+
+Fresh source images extracted directly from the supplied PDF were compared with the current canonical page records for meaningful visual/text organization. One **visual-continuity description correction** was required on scan 611; no Tamil body wording was changed.
+
+| Scan | Printed | Pass-3 result |
+|---:|---:|---|
+| 611 | 594 | **VISUAL-NOTE CORRECTION** — text-only continuation of the pseudo-scholar / ministerial-misreading exchange. The page ends with the ruler's completed request for the full Kural; scan 612 continues the same vignette with a new sentence. The prior note incorrectly called 611→612 a physical-sentence continuation. Body text remains unchanged. |
+| 612 | 595 | **NO STRUCTURAL CHANGE** — text-led closure of the ministerial-misreading vignette; the red Kural block and Chapter 68 / Kural 672 metadata remain above the centered lower Valluvar statue motif. |
+| 613 | 596 | **NO STRUCTURAL CHANGE** — large upper illustration of the two women remains above the prose; the தேன்மொழி / கதிரோன் separation vignette begins below and continues to scan 614. |
+| 614 | 597 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 1202, Chapter 121 metadata and source glosses remain correctly grouped at the foot of the page. |
+| 615 | 598 | **NO STRUCTURAL CHANGE** — large upper illustration of the seated official/ruler with another man standing beside the desk/documents remains above the prose; the governance / ministerial-competence vignette continues to scan 616. |
+| 616 | 599 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 640 and Chapter 64 metadata remain correctly grouped near the foot of the page. |
+| 617 | 600 | **NO STRUCTURAL CHANGE** — large upper illustration of the ஆசிரியர் seated beneath a tree while குன்றன் approaches remains above the prose; the உலகத்தோடு ஒட்ட ஒழுகல் vignette continues to scan 618. |
+| 618 | 601 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; Kural 140 and Chapter 14 metadata remain correctly separated at the foot of the page. |
+| 619 | 602 | **NO STRUCTURAL CHANGE** — large upper illustration of the woman with a யாழ்-like instrument beside the large male portrait remains above the prose; the five-line source song block remains distinct near the foot. A faint lower-margin library stamp is correctly excluded from body text. |
+| 620 | 603 | **NO STRUCTURAL CHANGE** — text-only continuation/closure; the two Kural blocks, Chapter 71 / Kurals 706 and 710 metadata and source glosses remain correctly ordered. The blue-purple library stamp overlapping the lower-right gloss/footer region remains non-source and excluded from body text. |
+| 621 | 604 | **NO STRUCTURAL CHANGE** — large upper waterfall illustration with the woman beside the falls and the man watching from behind remains above the prose; the final physical sentence remains open and continues directly to scan 622. |
+
+### Boundary / continuity result
+
+- Incoming **610→611 GENUINE CONTINUATION** remains confirmed.
+- **611→612 is a GENUINE VIGNETTE CONTINUATION, but not a physical-sentence continuation**; the scan-611 visual note and source comment were corrected accordingly.
+- **621→622 is a GENUINE CONTINUATION**, reconfirmed from scan **622 / printed 605**: scan 621 ends mid-sentence at `இரு தந்தத்தை`, and scan 622 resumes the same sentence before closing the vignette with Chapter 128 / Kural 1274.
+- Scan 622 was used only as the outgoing witness and is **not** counted in Batch 6.
+
+### Batch 6 correction summary
+
+- Structural/visual-description corrections: **1 page / scan 611**.
+- Lexical/body-text changes: **0**.
+- Corrected Part-006 page file: `works/kuraloviyam/pages/0611-kuraloviyam-594.md`.
+- Status promotions: **0**.
+- All Part-006 records remain `status: "needs-review"` / `visual_fidelity: "needs-review"`.
+
+Pass-3 Batch-6 page-layer pre-batch checkpoint: `f4f5ec2fc37b5641db5803b10f017d4d0ff85ef3`.
+
+Page-layer endpoint: `aff3b500eb1fd8c11e4d3adfd72c0048cf687585`.
+
+Exact compare `f4f5ec2fc37b5641db5803b10f017d4d0ff85ef3` → `aff3b500eb1fd8c11e4d3adfd72c0048cf687585` is **1 commit ahead / exactly 1 changed Part-006 page file / scan 611 only / +2 -2 / 0 other files**.
+
 ## Current gate
 
-Part 006 Pass 3 cumulative coverage: **55/111**.
+Part 006 Pass 3 cumulative coverage: **66/111**.
 
 Exact next batch:
 
-**Batch 6 — scans 611–621 / printed 594–604 — 11 physical scans.**
+**Batch 7 — scans 622–632 / printed 605–615 — 11 physical scans.**
 
-Preserve incoming **610→611 GENUINE CONTINUATION**. Inspect scan **622 / printed 605** only as the outgoing continuity witness if required.
+Preserve incoming **621→622 GENUINE CONTINUATION**. Inspect scan **633 / printed 616** only as the outgoing continuity witness if required.
 
 Pass 3 remains meaningful visual/text fidelity verification, not another lexical reread. Do not promote final status.
