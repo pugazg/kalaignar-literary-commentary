@@ -448,10 +448,15 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - D2 range — **593–629 / printed 576–612**;
 - D2 base → endpoint — `7961c8869685814e213b0a6e891b5da878b0c126` → `9c09dfe256eb72e75beccc4ff6ba0d8c87e922da`;
 - D2 exact compare — **6 commits / exactly 37 new English page files / 0 non-page changes / 0 Tamil changes**;
-- current English state — **74 draft / 37 not yet drafted**;
-- outgoing **629→630 GENUINE CONTINUATION**;
-- exact next stage — **Part 006 English Draft D3 / scans 630–666 — 37 physical scans**.
+- Draft D3 — **COMPLETE / PASS 37/37**;
+- D3 range — **630–666 / printed 613–648 + unnumbered back cover**;
+- D3 base → endpoint — `f88a79c563871669c96533c07d5d50f0f87d1e17` → `8a87fbe5cf0ee36858111f693805eb4ab64ad8b0`;
+- D3 exact compare — **5 commits / exactly 37 new English page files / 0 non-page changes / 0 Tamil changes**;
+- Part 006 English drafting — **COMPLETE / CLOSED 111/111**;
+- current English state — **111 draft / 0 not yet drafted**;
+- source endpoint handling — **658–665 contents / 666 pictorial back cover / 665→666 CLEAN / 666 no external continuation**;
+- exact next stage — **Part 006 English Source-Check SC1 / scans 556–592 / printed 539–575 — 37 pages**.
 
 ## Exact next activity
 
-Proceed with **Part 006 English Draft D3 — scans 630–666 — 37 physical scans**, covering printed **613–648** plus scan **666 / unnumbered pictorial back cover**. Preserve incoming **629→630 GENUINE CONTINUATION**. Use audited Tamil records as the normal authority and do not import published, standard, web, or remembered English Kural wording.
+Proceed with **Part 006 English Source-Check SC1 — scans 556–592 / printed 539–575 — 37 pages**. Compare each English page against the audited Tamil record paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, chapter/Kural metadata, quotations, visual/page function and continuity. Only passing pages may move from `draft` to `source-checked`.
