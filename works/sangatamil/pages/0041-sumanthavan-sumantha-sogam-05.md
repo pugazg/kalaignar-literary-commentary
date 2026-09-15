@@ -2,7 +2,7 @@
 scan_page: 41
 printed_page: "26"
 work: "sangatamil"
-section: "சுமந்தவன் சுமந்த சோகம்!"
+section: "சுமந்தவள் சுமந்த சோகம்!"
 page_type: "text"
 status: "verified"
 visual_fidelity: "verified"
