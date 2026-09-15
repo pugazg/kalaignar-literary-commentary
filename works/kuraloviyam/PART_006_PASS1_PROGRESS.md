@@ -510,4 +510,4 @@ Current live Part-006 page state is **111/111 `verified` textual + 111/111 `veri
 
 The separate Tamil archival-ready checkpoint is now **PASS / CLOSED**. Part 006 Tamil is **ARCHIVAL-READY / CLOSED** and Pass 1 remains historical evidence only.
 
-Exact next stage: **Part 006 English Draft D1 — scans 556–588 / printed 539–571 — 33 pages**. Do not reopen Pass 1 for the English workflow.
+English cadence is now **37 physical scans**. Draft D1 is **COMPLETE / PASS 37/37** for scans **556–592 / printed 539–575**, with exactly **37** new English page files and **0 Tamil changes**. Exact next stage: **Part 006 English Draft D2 — scans 593–629 / printed 576–612 — 37 pages**. Do not reopen Pass 1 for the English workflow.
