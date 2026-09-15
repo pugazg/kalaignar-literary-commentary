@@ -11,7 +11,7 @@ This index tracks the physical source sequence and durable Part frontier for `wo
 | 003 | 223–333 | 1–111 | scan 223 / printed 206 through scan 333 / printed 316 | **Tamil + English CLOSED — final checkpoint PASS / CLOSED; 111/111 English release-ready** |
 | 004 | 334–444 | 1–111 | scan 334 / printed 317 through scan 444 / printed 427 | **source intake PASS / COMPLETE; Pass 1 0/111; P4-01 next** |
 | 005 | 445–555 | 1–111 | not yet inspected | not-started |
-| 006 | 556–666 | 1–111 | scan 556 / printed 539 through scan 665 / printed 648; scan 666 unnumbered back cover | **Tamil ARCHIVAL-READY / CLOSED; English Draft D1 + D2 COMPLETE / PASS 74/74 — scans 556–629; Draft D3 next** |
+| 006 | 556–666 | 1–111 | scan 556 / printed 539 through scan 665 / printed 648; scan 666 unnumbered back cover | **Tamil ARCHIVAL-READY / CLOSED; English drafting COMPLETE / CLOSED 111/111; Source-Check SC1 next** |
 
 Repository `scan_page` is always the overall 1–666 physical scan number and never restarts for a split PDF.
 
