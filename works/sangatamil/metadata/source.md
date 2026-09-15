@@ -31,20 +31,29 @@ Current canonical scan boundary:
 
 ## Active processing workflow
 
-Source identity and source boundary remain independent of processing cadence.
+Source identity and the 1–497 physical boundary are independent of processing cadence.
 
-The current canonical execution plan is [`../MULTI_PASS_WORKFLOW.md`](../MULTI_PASS_WORKFLOW.md).
+The current authoritative execution plan is `../PRODUCTIVE_COMPLETION_PLAN.md`; the user-approved lexical rule is `../GEMINI_TEXT_LOCK.md`; live structural progress is `../STRUCTURAL_FIDELITY_PROGRESS.md`.
 
-At workflow adoption:
+Current state at documentation refresh 2026-09-15:
 
-- physical page records exist through **scan 53**;
-- **Pass 1 — transcription / physical capture only** resumes at **scan 54**;
-- Pass 1 continues through scan 497 before Pass 2 begins;
-- later Passes 2–7 sweep scan 1 through scan 497 systematically;
-- Pass 8 performs final whole-volume synchronization/audit.
+- Gate A — COMPLETE / PASS
+- physical page records — 497/497
+- duplicates — 0
+- missing scans — 0
+- Gate B B01–B14 — COMPLETE / PASS
+- structurally reviewed — 350/497
+- current frontier — scan 351
+- next batch — B15 scans 351–375 with part_008_pages_351-400.pdf + File8.md
+- Gate C — NOT STARTED
+
+Current authority split:
+
+- Gemini File1.md … File10.md — locked lexical wording
+- PDF scan — physical-page and structural authority
+- repository — preservation layer
 
 No processing shortcut may change the 1–497 source boundary or justify inferred pagination/source text.
-
 ## Publication details visible in the source
 
 The publication-information page records:
@@ -92,4 +101,4 @@ The body combines:
 - explicit anthology/work names, poem numbers and poet attributions;
 - `பொருள் விளக்கம்` blocks.
 
-These source citations require a separate provenance register rather than silent normalization to an external Sangam edition. Canonical full-volume provenance verification is deferred to Pass 6.
+These source citations require a separate provenance register rather than silent normalization to an external Sangam edition. Canonical full-volume provenance verification is deferred to Gate F.
