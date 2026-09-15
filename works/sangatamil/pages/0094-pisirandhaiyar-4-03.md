@@ -7,34 +7,34 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "fast direct transcription from source scan; verification intentionally deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 93
 ---
 
 பின்னிப் பிணைந்திடும் நெருக்கம் போலவே  
-மன்னன் சோழனும் உறையூர் தனிலும்  
+மன்னன் சோழன் உறையூர் தனிலும்  
 மாகவியாம் பிசிராந்தை பாண்டிய மண்ணிலும்  
 
-பசும் பொன்னோப் போல் முத்தைப் போல்  
+பசும் பொன்னைப் போல் முத்தைப் போல்  
 பல கல் தொலைவினிலே தனித்தனி பிறந்தார் எனினும்,  
 அணியாக ஆனபின்பு அருகருகே இருக்கின்ற மணிகள் போல - என்றும்  
 அணையாத நட்புக்கோர் விளக்கொளியாய் நடு கல்லாய்  
 அமைந்துவிட்டார்!
 
 சான்றோர் என்றுமே சான்றோர் அருகிருப்பர்...  
-சான்றாண்மை இல்லாதார், வரலாற்றில் சுடராகி உதிர்ந்து  
+சான்றாண்மை இல்லாதார், வரலாற்றில் சருகாகி உதிர்ந்து  
 போவார்!”
 
-கண்ணகனார் எழுதியவைத்த கவிதை ஏடு - சோழ  
-மன்னனுக்கும் பிசிராந்தைக் கவிஞருக்கும் மட்டுமல்ல;  
+கண்ணகனார் எழுதிவைத்த கவிதை ஏடு - சோழ  
+மன்னனுக்கும் பிசிராந்தைக் கவிஞருக்கு மட்டுமல்ல;  
 எண்ணமெலாம் தூய்மையாக நட்புக்கொள்வோர் அனைவருக்கும் - தேன்  
-கிண்ணமாகும்! தெவிட்டாத தெள்ளமுதாகுமன்றோ?
+கிண்ணமாகும்! தெவிட்டாத தெள்ளமுதமாகுமன்றோ?
 
 <div align="center">*</div>
 
-> * “தென்னம் பொருப்பன் நன்னாட்டு உள்ளும்  
-> பிசிரோன் என்ப, என் உயிர்ஓம் புநன்;  
+> \* “தென்னம் பொருப்பன் நன்னாட்டு உள்ளும்  
+> பிசிரோன் என்ப, என் உயிர்ஒம் புநனே;  
 > செல்வக்காலை நிற்பினும்,  
 > அல்லற்காலை நில்லலன் மன்னே.”
 
@@ -45,10 +45,10 @@ continues_from_scan: 93
 
 </div>
 
-> * “பொன்னும், துகிரும், முத்தும், மன்னிய  
+> \* “பொன்னும், துகிரும், முத்தும், மன்னிய  
 > மாமலை பயந்த காமரு மணியும்,  
 > இடைபடச் சேய ஆயினும், தொடைபுணர்ந்து,  
-> அருவிலை நன்கலம் அமைக்குங்காலை,  
+> அருவிலை நன்கலம் அமைக்கும்காலை,  
 > ஒருவழித் தோன்றியாங்கு - என்றும் சான்றோர்  
 > சான்றோர் பாலர் ஆப;  
 > சாலார் சாலார் பாலர் ஆகுபவே.”
@@ -62,6 +62,5 @@ continues_from_scan: 93
 
 </div>
 
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
-<!-- A few readings remain provisional for Pass 2. -->
+<!-- Gate B restores File2 wording. The File2 token `தேன்` is retained at its scan-supported prose position before `கிண்ணமாகும்`, rather than at File2's later extraction position. Literal quote asterisks and source provenance layout are preserved. -->
 <!-- மூல ஸ்கேன் பக்கம்: 94; அச்சுப் பக்கம்: 79 -->
