@@ -7,28 +7,9 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "fast direct transcription from source scan; verification intentionally deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
-
-அன்னச்சேவலை மையமாய் வைத்து - அழகுறப்பாடல்  
-கன்னல் தமிழில் கற்பனையூற்றாய் எழுதியோர் புலவர்!
-
-“அன்னச் சேவலே! அன்னச் சேவலே!” என அழைத்து  
-இன்னலுற்றுள்ள தன் நெஞ்சைத் திறந்து காட்டி,
-
-மன்னவன் பெருங்கோ கிள்ளியெனும் கோப்பெருஞ்சோழன்  
-இன்னமும் காணும் வாய்ப்பினைப் பெறவில்லையே யென்ற
-
-மனப்புயல் ஒருபுறம், அடக்கிக்கொண்டு - அவன்  
-மாப்புகழ்பற்றி எடுத்துரைத்தார்!
-
-கோக்காமல் முத்துக்கள் மாலையாவதில்ல - ஆழல்  
-பார்க்காமலே சோழனும் புலவரும் நட்பின் ஆரமாய்த் திகழ
-
-தமிழே மணியாய் - தமிழ் உணர்வே இழையாய் ஆனதுவாம்!  
-தடந்தோள் சோழனின் கொடையும் அன்பும் பாட்டின் கருவாய்  
-அமைந்ததுவாம்!
 
 > “அன்னச்சேவலே! அன்னச்சேவலே! நீயோ  
 > கன்னிக் குமரியின் முனையிலேயிருந்து  
@@ -44,13 +25,12 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 > மேன்மையாய் நாட்டைக் காக்கும் மன்னவன்!  
 > வலக்கரம் வழங்குவது இடக்கரம் அறியாமல்  
 > வழங்கிடும் தென்னவன்!  
-> வழியில் நீயும் நின் பெடையுடன் சென்றுல் - சோழன்  
-> வழியில் அன்பின் ஒளியினைக் காண்பாய்!  
-> இடையில் எவரும் தடுத்து நிறுத்தினுல்  
+> வழியில் நீயும் நின் பெடையுடன் சென்றால் - சோழன்  
+> விழியில் அன்பின் ஒளியினைக் காண்பாய்!  
+> இடையில் எவரும் தடுத்து நிறுத்தினால்  
 > பெடையுடன் நீயும் திரும்பிடல் வேண்டாம்!  
-> இறைவனும் சோழன் செவியில் விழுமாறு  
-> உறையூர்க் காவல்பால் உரக்கக் கூறிடு!
+> இறைவனாம் சோழன் செவியில் விழுமாறு  
+> உறையூர்க் காவலர்பால் உரக்கக் கூறிடு!
 
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
-<!-- A few dense-line readings are provisional for Pass 2. -->
+<!-- Gate B keeps only File2-locked lexical wording. The source-visible introductory prose above the dialogue is absent from File2 and is therefore documented, not silently recovered. The scan still controls lineation, dialogue placement and page furniture. -->
 <!-- மூல ஸ்கேன் பக்கம்: 83; அச்சுப் பக்கம்: 68 -->
