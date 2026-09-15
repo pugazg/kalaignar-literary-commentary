@@ -469,6 +469,39 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - contents/back-cover endpoint handling — **658–665 contents exact / 666 pictorial back cover / 665→666 CLEAN / 666 no external continuation**;
 - exact next stage — **Part 006 English Glossary Reconciliation GR2 / scans 593–629 / printed 576–612 — 37 pages**.
 
+## Final maintained state — all six Parts CLOSED
+
+Part 006 has completed the full maintained workflow:
+
+- Tamil archival-ready — **PASS / CLOSED, 111/111 textual + visual verified**;
+- English drafting — **111/111 COMPLETE / CLOSED**;
+- English source-check — **111/111 COMPLETE / CLOSED**;
+- glossary reconciliation — **111/111 COMPLETE / CLOSED**;
+- editorial review — **111/111 COMPLETE / CLOSED**;
+- Part-level review — **PASS / CLOSED**;
+- release report — **APPROVED / CLOSED**;
+- final English state — **111/111 release-ready**;
+- final closure record — `PART_006_FINAL_CLOSURE.md`.
+
+Physical endpoint:
+
+- scan **665 / printed 648** — final contents page;
+- scan **666** — unnumbered pictorial back cover;
+- **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT**;
+- **666 NO EXTERNAL CONTINUATION**.
+
+Whole corpus disposition:
+
+- scans **1–666** complete;
+- Tamil — **662 verified + 4 partial/source-limited; 666/666 visual verified**;
+- maintained English — **662 release-ready + 4 source-limited**;
+- blocked — **0**;
+- Parts **001–006** — all closed.
+
+Part 001 source-limited scans remain **13, 14, 15, 19** and must not be reconstructed.
+
 ## Exact next activity
 
-Proceed with **Part 006 English Glossary Reconciliation GR2 — scans 593–629 / printed 576–612 — 37 pages**. Compare recurring names, controlled literary terms, work/section names, Chapter labels, citation metadata, source-printed glosses and repeated English forms against `works/kuraloviyam/translations/en/GLOSSARY.md` and the audited Tamil context. Update only terms evidenced in this range. This gate makes **no page-status promotion**; passing pages remain `source-checked`.
+**No active Kuraloviyam content activity.**
+
+For future maintenance, fetch live `main` first and treat the closed page records plus Part review/release/final-closure records as authoritative. Reopen source material only for a genuinely new provenance/fidelity issue or a new user-requested derivative.
