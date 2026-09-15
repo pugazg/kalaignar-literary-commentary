@@ -1,6 +1,6 @@
 # பக்க வரைபடம் — சங்கத் தமிழ்
 
-This is the current physical scan/status map for the supplied source.
+This is the physical scan/status map for the supplied source. The status column reflects page-record status and is separate from Gate-B structural-review coverage.
 
 ## Source boundary
 
@@ -15,11 +15,11 @@ The actual supplied PDF has been independently confirmed as **497 scans**. Scans
 
 The project uses the canonical whole-volume multi-pass plan in [`../MULTI_PASS_WORKFLOW.md`](../MULTI_PASS_WORKFLOW.md), refined by [`../GEMINI_RECONCILIATION_PLAN.md`](../GEMINI_RECONCILIATION_PLAN.md).
 
-A complete Gemini transcription is now used as a **lexical scaffold only**. The scan remains authoritative for wording decisions and for headings, punctuation, page boundaries and meaningful structure.
+Gemini File1.md … File10.md is the **locked lexical layer** for the current Gate-B workflow. The scan is authoritative for physical placement, headings, punctuation, page boundaries and meaningful structure. Legitimate lexical scan/Gemini disagreements are recorded rather than silently source-corrected during Gate B.
 
 A Stage-0 regression pilot on scans **31–36** demonstrated that some prior `verified` records contained substantive lexical/structural errors. Those text pages have therefore been corrected and reopened to `needs-review` pending the systematic Pass 2/3 sweeps.
 
-Pass-1 physical capture is complete. Gate A repository hygiene is also complete: **497 canonical page files / 0 duplicate aliases / 0 missing scans**. Current activity is **Gate B structural fidelity, starting scans 1–25**.
+Pass-1 physical capture is complete. Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate aliases / 0 missing scans**. Gate B has structurally reviewed **350/497** scans through B14; current frontier is **scan 351**.
 
 ## Current map
 
@@ -48,7 +48,8 @@ Pass-1 physical capture is complete. Gate A repository hygiene is also complete:
 | 51 | printed 36 | continuation of `மாதரின் கண்ட மலர்கள்` | transcription-only first pass; `needs-review` |
 | 52 | — | full-page illustration | single-pass capture; `needs-review`; no visible printed page number |
 | 53 | printed 38 | continuation of `மாதரின் கண்ட மலர்கள்` | fast transcription-only first pass; `needs-review` |
-| 54–497 | later body / end matter | physical capture present | **canonical page records exist; structural fidelity pending Gate B** |
+| 54–350 | later body | physical capture present | **Gate B structurally reviewed; page status remains independently governed** |
+| 351–497 | later body / end matter | physical capture present | **Gate B structural fidelity pending from scan 351** |
 
 ## Important controls
 
@@ -57,8 +58,8 @@ Pass-1 physical capture is complete. Gate A repository hygiene is also complete:
 - A previous `verified` page may be reopened when new source-supported evidence exposes substantive errors.
 - Gemini is never sufficient for a final `verified` status.
 - Printed pagination is recorded only when visible.
-- During Pass 1, an immediately visible decorative heading may be captured, but canonical section-boundary work is deferred to Pass 5.
-- Printed Sangam provenance already verified remains preserved unless a regression is demonstrated; newly encountered provenance does not need immediate register synchronization during Pass 1.
+- Gate B may reconcile source-visible structural section identity in page metadata/body structure while full canonical section reconstruction remains deferred to Gate E.
+- Printed Sangam provenance already preserved remains intact; systematic provenance-register completion is deferred to Gate F.
 
 ## Completed earlier gates / reopened regression
 
@@ -73,4 +74,4 @@ Pass-1 physical capture is complete. Gate A repository hygiene is also complete:
 
 ## Active gate
 
-**Gate B structural fidelity — scans 1–25.**
+**Gate B structural fidelity — 350/497 reviewed; next B15 scans 351–375.**

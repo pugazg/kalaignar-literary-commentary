@@ -1,5 +1,9 @@
 # NEXT CHAT PROMPT — குறளோவியம் / Derived Sections S3 CLOSED
 
+## Scope note
+
+This file intentionally tracks Kuraloviyam only. Kuraloviyam remains closed; do not repurpose this prompt as the repository-wide active-work prompt. Current Sangath Tamil continuation is maintained separately in NEXT_CHAT_PROMPT_SANGATH_TAMIL.md.
+
 Continue in `pugazg/kalaignar-literary-commentary`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Maintained corpus state

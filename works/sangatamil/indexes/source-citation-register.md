@@ -8,7 +8,7 @@ Only source-supported citations are entered. External editions must not silently
 
 The canonical execution plan is [`../MULTI_PASS_WORKFLOW.md`](../MULTI_PASS_WORKFLOW.md), refined by [`../GEMINI_RECONCILIATION_PLAN.md`](../GEMINI_RECONCILIATION_PLAN.md).
 
-Gemini may be used as a lexical comparison aid, especially for old/uncommon Tamil forms, but the scan remains authoritative for quoted wording, source labels, poem numbers, poet attributions and layout.
+During the current Gate-B workflow, legitimate Gemini wording remains lexically locked while the scan controls physical/structural placement of quotation, provenance and பொருள் விளக்கம் blocks. This register is not a license to source-correct page lexical wording during Gate B.
 
 A Stage-0 regression pilot found substantive text errors in scan 36 despite its earlier `verified` status. The scan-36 citation remains source-located, but its status is reopened pending the systematic Pass 2 textual and Pass 6 provenance audits.
 
@@ -30,11 +30,11 @@ The systematic whole-volume provenance activity is **Gate F — Sangam provenanc
 
 ## Policy
 
-- Pass 1 may transcribe source-visible provenance as part of the page text, but it does **not** promote the citation here.
-- Pass 6 performs the systematic scan-1→497 provenance audit and final register population.
-- If a printed attribution or quoted form conflicts with Gemini, the repository, or an external critical edition, the **controlling scan** decides the archival source record.
+- Gate B may structurally place source/provenance blocks but does **not** complete this register.
+- Gate F performs the systematic scan-1→497 provenance audit and final register population.
+- Any later lexical source-correction policy must respect the user-approved lock or an explicitly authorized Gate C2; external editions never silently overwrite this archive.
 - A previous `verified` provenance record may be reopened when regression evidence demonstrates substantive source mismatch.
 
 ## Current execution boundary
 
-Physical page capture is complete for **497/497 scans** and Gate A hygiene is closed. Current activity is **Gate B structural fidelity**; citation-register completion is deferred to **Gate F**.
+Physical page capture is complete for **497/497 scans** and Gate A hygiene is closed. Gate B has structurally reviewed **350/497** scans with frontier **351**; citation-register completion remains deferred to **Gate F**.
