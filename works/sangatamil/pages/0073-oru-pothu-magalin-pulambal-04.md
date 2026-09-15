@@ -56,7 +56,7 @@ continues_to_scan: 74
 
 <div align="center">*</div>
 
-> “கழனி மாஅத்து விளைந்து உகு தீம்பழம்  
+> \* “கழனி மாஅத்து விளைந்து உகு தீம்பழம்  
 > பழன வாளை கதூஉம் ஊரன்
 
 <!-- Pass 1 only. Gemini supplied the lexical scaffold; page-local structure and quotation start were aligned to scan 73. Textual and visual verification remain deferred. -->
