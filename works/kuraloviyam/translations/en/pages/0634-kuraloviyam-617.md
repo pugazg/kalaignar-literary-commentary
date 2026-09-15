@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-Putting the gold coins into their bags, the ascetics rested their eyes for a while in the cave.
+Putting the gold coins into their bags, the ascetics dozed for a while in the cave.
 
 Aravaazhi slept peacefully.
 

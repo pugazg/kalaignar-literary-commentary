@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -43,7 +43,7 @@ May you live like a great king."
 
 Anbukkadal turned at the sound.
 
-A poor man stood there—skin and bone, his face already carrying the remains of death's summons.
+A poor man stood there—nothing but skin and bone, with the look of one already summoned by death.
 
 "Chi! You beggar donkey! Get away! Go!"
 

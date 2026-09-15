@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -23,7 +23,7 @@ The lotus-eyed maiden touched the cup of milk and at once set it down.
 
 Could she know what the divine young woman was thinking?
 
-"My lover, who bathes me in caressing Tamil, lives filling my heart, heart joined to heart.
+"My lover, who bathes me in caressing Tamil, dwells within me, his heart joined to mine.
 
 "Friend, without understanding even a little, you give me boiling milk.
 

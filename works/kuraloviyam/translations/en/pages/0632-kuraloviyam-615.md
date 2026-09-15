@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,7 +19,7 @@ translation_basis: "audited Tamil archival record; controlling scan remains ulti
 
 The moment the poor man uttered that word, Anbukkadal sprang upon him.
 
-The body that was already dying collapsed before it was fully dead.
+His already dying body slumped to the ground before life had fully left it.
 
 Then something happened like lightning.
 
