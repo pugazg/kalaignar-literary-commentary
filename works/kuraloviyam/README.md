@@ -386,11 +386,13 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - Pass 3 Batch 3 — **578–588 / printed 561–571 — COMPLETE 11/11**;
 - Pass 3 Batch 4 — **589–599 / printed 572–582 — COMPLETE 11/11**;
 - Pass 3 Batch 5 — **600–610 / printed 583–593 — COMPLETE 11/11**;
-- Batch-5 structural/visual corrections — **0**;
-- Batch-5 page-layer compare — `5f2cb18c4accc2a36d0df1582cb64dc428b60b5f` → same commit — **identical / 0 changed files**;
-- cumulative Pass 3 — **55/111**;
-- exact next stage — **Part 006 Pass 3 Batch 6 / scans 611–621 / printed 594–604 — 11 scans**.
+- Pass 3 Batch 6 — **611–621 / printed 594–604 — COMPLETE 11/11**;
+- Batch-6 structural/visual corrections — **1 page / scan 611**;
+- Batch-6 lexical/body-text changes — **0**;
+- Batch-6 page-layer compare — `f4f5ec2fc37b5641db5803b10f017d4d0ff85ef3` → `aff3b500eb1fd8c11e4d3adfd72c0048cf687585` — **1 commit / exactly scan 611 page file / +2 -2 / 0 other files**;
+- cumulative Pass 3 — **66/111**;
+- exact next stage — **Part 006 Pass 3 Batch 7 / scans 622–632 / printed 605–615 — 11 scans**.
 
 ## Current frontier
 
-**Part 006 Pass 3 Batch 6 — scans 611–621 / printed 594–604 — 11 scans.**
+**Part 006 Pass 3 Batch 7 — scans 622–632 / printed 605–615 — 11 scans.**
