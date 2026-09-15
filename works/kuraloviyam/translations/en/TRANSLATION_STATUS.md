@@ -1139,8 +1139,67 @@ Draft batches:
 
 Translation identity remains project-created. No published, standard, web, or remembered English Kural wording was imported as authority.
 
+## Part 006 English source-check — SC1 COMPLETE / PASS 37/37
+
+SC1 covers:
+
+**scans 556–592 / printed 539–575 — 37 page-aligned records.**
+
+SC1 page-layer base:
+
+`0b3d8a701d5db04164f969b15d1d0090622cc664`
+
+SC1 page-layer endpoint:
+
+`8baca75a8efd00db5a05de425305f244c1c19120`
+
+Exact compare:
+
+- **3 commits ahead / non-divergent**;
+- exactly **37 modified English page files**;
+- scans **556–592** represented exactly once;
+- missing scans — **0**;
+- duplicate scans — **0**;
+- Tamil page changes — **0**;
+- non-English-page/control-file changes during the SC1 page layer — **0**;
+- all **37/37** pages retain `translation_type: "project_translation"`;
+- all **37/37** pages retain `source_tamil_status: "verified"`;
+- all **37/37** pages are now `status: "source-checked"`.
+
+SC1 source-fidelity corrections were required on **16 page files**:
+
+- **562** — replaced the agent-added “Did we fool you?” wording with the source-faithful passive question **“Were you thoroughly fooled?”**;
+- **564–565** — restored the audited physical split across `வருகிற நீர் / அனைத்தும்`; scan 564 now ends at “The water that comes...” and scan 565 resumes “...all of it should be used...”; also removed the unsupported qualifier “some” from the workers' disability sentence;
+- **566–567** — restored the audited physical split across `சப்தமிட்டுக்கொண்டும் / மடியிலும் முதுகிலும்...`; the rolling-over-laps-and-backs phrase now begins on scan 567 where it occurs in Tamil;
+- **570** — restored the explicit source pair `கனிச்சாறு - காதற்சாறு` as **“fruit-juice—the juice of love”**;
+- **571** — removed the unsupported “of words” reading from the lotus-face description;
+- **572–573** — restored the physical split across `ஊழியன் / ஓடினான்`; scan 573 now begins with the servant running off, and scan 572 now renders `நெஞ்சு வலியால் துடித்து` as **“writhed with chest pain”** rather than adding a chest-clutching action;
+- **577** — removed the unsupported added phrase “beneath another's feet” from `மண் அன்று`;
+- **579** — removed the unsupported assignment of Gandhi's urging to Jayaprakash as grammatical subject; the revised English preserves the Tamil passage's own ambiguity around the marriage proposal/condition instead of resolving it from outside knowledge;
+- **585** — restored the source image `தோல் சுருங்கிய மாம்பழம்` as a mango **with shrivelled skin**, not a dried mango;
+- **589–590** — restored the audited physical sentence split across `தனக்கு எல்லாமே தெரியும் என்பதை / அந்த அவையில்...`;
+- **591–592** — restored the audited physical sentence split across `பெட்டி / செய்து...`; the fang/poison-sac removal now appears on scan 592 where the Tamil places it.
+
+The other **21 pages** changed only by `draft` → `source-checked`.
+
+Boundary discipline:
+
+- incoming **555→556 CLEAN / source-resolved** — preserved;
+- outgoing **592→593 CLEAN** — preserved.
+
+Current Part-006 English state after SC1:
+
+- `source-checked` — **37**;
+- `draft` — **74**;
+- `editorial-reviewed` — **0**;
+- `release-ready` — **0**;
+- `source-limited` — **0**;
+- `blocked` — **0**.
+
+No published, standard, web, or remembered English Kural wording was imported.
+
 ## Exact next activity
 
-**Part 006 English Source-Check SC1 — scans 556–592 / printed 539–575 — 37 pages.**
+**Part 006 English Source-Check SC2 — scans 593–629 / printed 576–612 — 37 pages.**
 
-Compare English against the audited Tamil records paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, chapter/Kural metadata, quotations, visual/page function and cross-page continuity. Only passing pages may move from `draft` to `source-checked`.
+Compare each English page directly against the audited Tamil record paragraph-by-paragraph / block-by-block. Only passing pages may move from `draft` to `source-checked`.
