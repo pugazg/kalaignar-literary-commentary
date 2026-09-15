@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed for Kuraloviyam **Parts 001–005 CLOSED; Part 006 Source Intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 / audit / final metadata-status synchronization CLOSED; Part 006 documentation synchronization next**: **2026-09-15**.
+Last refreshed for Kuraloviyam **Parts 001–005 CLOSED; Part 006 Source Intake / Pass 1 / Pass 2A / Pass 2B / Pass 3 / audit / final metadata-status synchronization / documentation synchronization CLOSED; Part 006 Tamil archival-ready checkpoint next**: **2026-09-15**.
 
 ## Repository
 
