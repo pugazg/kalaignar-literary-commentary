@@ -25,6 +25,23 @@ The latest durable Sangath Tamil policy checkpoint recorded in this handover is:
 
 Later commits may advance `main`. Preserve any newer durable state. Do not reset, overwrite, repeat, or reopen later completed work merely because this handover records an older SHA.
 
+
+## Sangath Tamil — productive completion plan
+
+Authoritative active plan: `works/sangatamil/PRODUCTIVE_COMPLETION_PLAN.md`.
+
+Current gate: **Gate A — Source bundle + repository hygiene**.
+
+Known inventory at plan lock:
+
+- source — **497 scans**;
+- page files — **511**;
+- unique scan prefixes — **497**;
+- missing scans — **0**;
+- duplicate scan aliases — **14**, scans **61–74**.
+
+Exact next activity: resolve scans 61–74 duplicate aliases, re-audit to **497 unique canonical page files**, then start Gate B structural fidelity in **25-scan batches**.
+
 ## Mandatory startup — active சங்கத் தமிழ் work
 
 Before making any repository change, read completely:
