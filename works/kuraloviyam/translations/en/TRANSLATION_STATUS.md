@@ -1433,11 +1433,11 @@ Boundary discipline:
 
 No Tamil archival record changed. No published, standard, web, or remembered English Kural wording was imported.
 
-Part-006 glossary-reconciliation progress is now **74/111**:
+Historical checkpoint after GR2: Part-006 glossary reconciliation stood at **74/111**:
 
 - GR1 — **556–592 / 37/37 COMPLETE / PASS**;
 - GR2 — **593–629 / 37/37 COMPLETE / PASS**;
-- GR3 — **630–666 / 37 pages PENDING**.
+- GR3 — **630–666 / then pending**.
 
 ## Part 006 English glossary reconciliation — GR3 COMPLETE / PASS 37/37
 
