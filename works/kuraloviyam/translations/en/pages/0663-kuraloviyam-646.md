@@ -3,17 +3,13 @@ source_scan_page: 663
 source_tamil_file: "../../../pages/0663-kuraloviyam-646.md"
 printed_page: "646"
 work: "kuraloviyam"
-section: "Kalaignar's Kuraloviyam"
+section: "Contents"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
-
-## Contents
-
-Tamil Kural incipits are retained verbatim as source index keys.
 
 179. துப்பார்க்குத் துப்பாய — 383
 180. காமக் கடும்புனல் — 385

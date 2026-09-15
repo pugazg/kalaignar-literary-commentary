@@ -3,17 +3,13 @@ source_scan_page: 662
 source_tamil_file: "../../../pages/0662-kuraloviyam-645.md"
 printed_page: "645"
 work: "kuraloviyam"
-section: "Kalaignar's Kuraloviyam"
+section: "Contents"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
-
-## Contents
-
-Tamil Kural incipits are retained verbatim as source index keys.
 
 138. அமைந்தாங் கொழுகான் — 300
 139. செறாஅச் சிறுசொல்லும் — 302

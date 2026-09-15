@@ -3,17 +3,15 @@ source_scan_page: 658
 source_tamil_file: "../../../pages/0658-kuraloviyam-641.md"
 printed_page: "641"
 work: "kuraloviyam"
-section: "Kalaignar's Kuraloviyam"
+section: "Contents"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
 ## Contents
-
-The Tamil Kural incipits are retained verbatim as source index keys; the printed-page locators are preserved exactly.
 
 1. வையத்துள் வாழ்வாங்கு — 17
 2. அ. காலை அரும்பி  

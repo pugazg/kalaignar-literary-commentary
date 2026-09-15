@@ -3,17 +3,13 @@ source_scan_page: 661
 source_tamil_file: "../../../pages/0661-kuraloviyam-644.md"
 printed_page: "644"
 work: "kuraloviyam"
-section: "Kalaignar's Kuraloviyam"
+section: "Contents"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
-
-## Contents
-
-Tamil Kural incipits are retained verbatim as source index keys.
 
 102. அ. சுழன்றும் ஏர்ப்பின்னது  
      ஆ. அமிழ்தினும் ஆற்ற — 226

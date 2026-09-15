@@ -3,10 +3,10 @@ source_scan_page: 666
 source_tamil_file: "../../../pages/0666-kuraloviyam-back-cover.md"
 printed_page: "unnumbered"
 work: "kuraloviyam"
-section: "Kalaignar's Kuraloviyam"
+section: "Back cover"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---

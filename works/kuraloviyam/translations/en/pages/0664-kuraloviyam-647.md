@@ -3,17 +3,13 @@ source_scan_page: 664
 source_tamil_file: "../../../pages/0664-kuraloviyam-647.md"
 printed_page: "647"
 work: "kuraloviyam"
-section: "Kalaignar's Kuraloviyam"
+section: "Contents"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
-
-## Contents
-
-Tamil Kural incipits are retained verbatim as source index keys.
 
 220. ஐந்தவித்தான் ஆற்றல் — 470
 221. சலத்தால் பொருள் செய்து — 472

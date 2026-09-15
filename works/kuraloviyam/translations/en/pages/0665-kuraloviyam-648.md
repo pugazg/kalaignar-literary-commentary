@@ -3,17 +3,13 @@ source_scan_page: 665
 source_tamil_file: "../../../pages/0665-kuraloviyam-648.md"
 printed_page: "648"
 work: "kuraloviyam"
-section: "Kalaignar's Kuraloviyam"
+section: "Contents"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
-
-## Contents
-
-Tamil Kural incipits are retained verbatim as source index keys.
 
 263. தற்காத்துத் தற்கொண்டான் — 562
 264. பிறப்பொக்கும் எல்லா — 564
@@ -57,6 +53,8 @@ Tamil Kural incipits are retained verbatim as source index keys.
 300. நெருநல் உளனொருவன் — 639
 
 When the first edition of this book appeared, reformed Tamil letter forms were not used. Therefore, when this fourth edition was published, only this contents section added to it was set in reformed Tamil orthography.
+
+## Visual material
 
 The blue Raj Bhavan Library / Madras stamp overlapping the lower page is a non-source annotation.
 

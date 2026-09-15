@@ -3,17 +3,13 @@ source_scan_page: 660
 source_tamil_file: "../../../pages/0660-kuraloviyam-643.md"
 printed_page: "643"
 work: "kuraloviyam"
-section: "Kalaignar's Kuraloviyam"
+section: "Contents"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
-
-## Contents
-
-Tamil Kural incipits are retained verbatim as source index keys.
 
 68. பெயக்கண்டும் நஞ்சுண்டு — 153
 69. பெண்ணினால் பெண்மை — 155

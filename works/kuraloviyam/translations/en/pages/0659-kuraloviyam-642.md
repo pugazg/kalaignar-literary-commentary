@@ -3,17 +3,13 @@ source_scan_page: 659
 source_tamil_file: "../../../pages/0659-kuraloviyam-642.md"
 printed_page: "642"
 work: "kuraloviyam"
-section: "Kalaignar's Kuraloviyam"
+section: "Contents"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
-
-## Contents
-
-Tamil Kural incipits are retained verbatim as source index keys.
 
 30. அ. மறைப்பெறல் ஊரார்க்கு  
     ஆ. வாராக்கால் துஞ்சா — 76
