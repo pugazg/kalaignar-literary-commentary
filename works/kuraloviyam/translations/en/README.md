@@ -338,8 +338,43 @@ Current Part-006 English inventory remains:
 - `draft` — **0**;
 - editorial-reviewed / release-ready / source-limited / blocked — **0**.
 
+## Part 006 English glossary reconciliation — GR3 COMPLETE / PASS 37/37
+
+GR3:
+
+- scans **630–666 / printed 613–648 + unnumbered back cover**;
+- pre-GR3 page-layer checkpoint — `36cd00b4448722eec1d8c08d93771de5696a387a`;
+- page-layer endpoint — `be2065b817e9c9d4bf8f644a0fc3ee8824e7e3e0`;
+- exact compare — **3 commits / exactly 3 modified English page files / 0 Tamil changes / 0 status changes**;
+- page corrections:
+  - scan **632** — `Paavendar Bharathidasan` → **Paavendhar Bharathidasan**;
+  - scan **635** — `Valanaadu` → **Valanadu**;
+  - scan **654** — `Paavendar's` → **Paavendhar's**;
+- Chapter/Kural metadata checked — **14 records / 0 number mismatches**;
+- new Chapter controls — **Renouncing Desire**, **The Fort**, **Abstaining from Flesh**;
+- source-printed lexical glosses recorded — **7**;
+- glossary record commit — `e3d8f24b33d5a59a64523256dd5dd9a37f2e0f85`;
+- all **37/37** pages remain `source-checked`;
+- incoming **629→630 GENUINE CONTINUATION** preserved and closed naturally;
+- **657→658 CLEAN / transition to contents** preserved;
+- **658→665** contents continuation preserved;
+- **665→666 CLEAN / PHYSICAL SOURCE ENDPOINT** and **666 NO EXTERNAL CONTINUATION** preserved.
+
+## Part 006 English glossary reconciliation — COMPLETE / CLOSED 111/111
+
+- GR1 — **556–592 / 37/37 COMPLETE / PASS**;
+- GR2 — **593–629 / 37/37 COMPLETE / PASS**;
+- GR3 — **630–666 / 37/37 COMPLETE / PASS**;
+- cumulative — **111/111 COMPLETE / CLOSED**.
+
+Current Part-006 English inventory remains:
+
+- `source-checked` — **111**;
+- `draft` — **0**;
+- editorial-reviewed / release-ready / source-limited / blocked — **0**.
+
 ## Current frontier
 
-**Part 006 English Glossary Reconciliation GR3 — scans 630–666 — 37 physical scans**, covering printed **613–648** plus scan **666 / unnumbered pictorial back cover**.
+**Part 006 English Editorial Review ER1 — scans 556–592 / printed 539–575 — 37 pages.**
 
-Reconcile only source-evidenced recurring names, controlled literary terms, Chapter labels, citation metadata, source glosses and repeated English forms. Preserve incoming **629→630 GENUINE CONTINUATION** and make no page-status promotion at this gate.
+Review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity. Passing pages may move from `source-checked` to `editorial-reviewed`.
