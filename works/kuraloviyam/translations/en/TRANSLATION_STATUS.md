@@ -17,7 +17,7 @@ Permanent gate order:
 
 ### Current user-directed iteration cadence
 
-Process **33 physical scan pages per normal page-batched iteration**. Historical completed batches retain their recorded sizes. A final Part remainder may be shorter. Part-level review and release report are whole-Part gates.
+Process **37 physical scan pages per normal page-batched iteration**. Historical completed batches retain their recorded sizes. A final Part remainder may be shorter. Part-level review and release report are whole-Part gates.
 
 ## Part 001 — CLOSED
 
@@ -1198,8 +1198,62 @@ Current Part-006 English state after SC1:
 
 No published, standard, web, or remembered English Kural wording was imported.
 
+## Part 006 English source-check — SC2 COMPLETE / PASS 37/37
+
+SC2 covers:
+
+**scans 593–629 / printed 576–612 — 37 page-aligned records.**
+
+SC2 page-layer base:
+
+`ce140cb9a2b23b860772ee649de473ffde8fc9dc`
+
+SC2 page-layer endpoint:
+
+`0c2d08993de3ba3d8b4df9c8bd5fe12b58ed22c0`
+
+Exact compare:
+
+- **3 commits ahead / non-divergent**;
+- exactly **37 modified English page files**;
+- scans **593–629** represented exactly once;
+- missing scans — **0**;
+- duplicate scans — **0**;
+- Tamil page changes — **0**;
+- non-English-page/control-file changes during the SC2 page layer — **0**;
+- all **37/37** pages retain `translation_type: "project_translation"`;
+- all **37/37** pages retain `source_tamil_status: "verified"`;
+- all **37/37** pages are now `status: "source-checked"`.
+
+SC2 source-fidelity corrections were required on **8 page files**:
+
+- **603–604** — restored the audited physical sentence split across `இப்போது மணவிழா / என்றைக்கென்று...`; scan 603 now ends with the wedding question beginning, and scan 604 resumes it before the eyebrow-bow / eye-arrow wording;
+- **608–609** — restored the physical split across `ஆணவமான சொற்களைத் தங்கு தடையின்றிப் / மொழிகிறாய்!`; the verb now resumes on scan 609 rather than being pulled backward into scan 608;
+- **610–611** — restored the physical split across `செய்தி குறுநில / மன்னன் செவிக்கு எட்டியது`; scan 610 now ends at “the minor...” and scan 611 resumes “...ruler's ears”;
+- **615** — restored the source's `குறை / கறை` contrast by changing “hands without stain” to **“faultless hands”**; the following scan's “unstained hand” wording remains distinct;
+- **620** — direct controlling-scan recheck confirmed the audited Tamil source prints `அவன் பாடியது! அவனும் இணைந்து பாடியது!`; English was corrected from the source-inferred “He had sung it. She had sung it with him.” to the source-faithful **“He had sung it. He had joined in and sung it too.”**. No Tamil archival record required correction.
+
+The other **29 pages** changed only by `draft` → `source-checked`.
+
+Boundary discipline:
+
+- incoming **592→593 CLEAN** — preserved;
+- outgoing **629→630 GENUINE CONTINUATION** — preserved;
+- scan 629 continues naturally into scan 630; no artificial batch closure was introduced.
+
+Current Part-006 English state after SC2:
+
+- `source-checked` — **74**;
+- `draft` — **37**;
+- `editorial-reviewed` — **0**;
+- `release-ready` — **0**;
+- `source-limited` — **0**;
+- `blocked` — **0**.
+
+No published, standard, web, or remembered English Kural wording was imported.
+
 ## Exact next activity
 
-**Part 006 English Source-Check SC2 — scans 593–629 / printed 576–612 — 37 pages.**
+**Part 006 English Source-Check SC3 — scans 630–666 — 37 physical scans**, covering printed **613–648** plus scan **666 / unnumbered pictorial back cover**.
 
-Compare each English page directly against the audited Tamil record paragraph-by-paragraph / block-by-block. Only passing pages may move from `draft` to `source-checked`.
+Compare each English page directly against the audited Tamil record paragraph-by-paragraph / block-by-block. Preserve the final contents/back-cover structure and source endpoint exactly. Only passing pages may move from `draft` to `source-checked`.
