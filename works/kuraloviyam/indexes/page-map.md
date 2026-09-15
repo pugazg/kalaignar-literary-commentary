@@ -763,4 +763,4 @@ Durable Part 002 English release report: `../translations/en/reviews/PART_002_EN
 
 ## Current frontier
 
-**Part 006 Pass 3 Batch 6 — scans 611–621 / printed 594–604 — 11 scans.**
+**Part 006 final metadata/status synchronization — scans 556–666 / 111 audited records.**
