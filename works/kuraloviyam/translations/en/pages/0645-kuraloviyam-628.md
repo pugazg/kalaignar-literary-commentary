@@ -6,7 +6,7 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
@@ -19,7 +19,7 @@ The sculptural arches, the art-caves cut into hills, and the masses of figures s
 
 The sculptors who created them lived in simple huts along the shore.
 
-Among them was a handsome young man named Kathiroli, owner of a sculptor's skill like a cluster of jasmine buds just beginning to open.
+Among them was Kathiroli, a handsome young man whose sculptural artistry was like a cluster of jasmine buds just beginning to open.
 
 Women of the region helped the sculptors with small tasks and with cooking and carrying food.
 

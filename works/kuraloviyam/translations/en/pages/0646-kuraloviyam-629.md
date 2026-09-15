@@ -6,12 +6,12 @@ work: "kuraloviyam"
 section: "Kalaignar's Kuraloviyam"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 translation_basis: "audited Tamil archival record; controlling scan remains ultimate source authority"
 ---
 
-...the brown leaf would stay in the hut, and Kanmaniyaal would take over that task.
+...the old woman—the "brown leaf"—would stay in the hut, and Kanmaniyaal would take over that task.
 
 Kathiroli had carved so many statues of beautiful women, yet he had never been able to carve one like her.
 
