@@ -422,13 +422,13 @@ Tamil is **111/111 textual + visual verified / 0 exceptions**. Maintained Englis
 - D1 page-layer base — `411fc0fdad71c2b94ef5c17f68dece42e744089d`;
 - D1 page-layer endpoint — `8ca4baeb33a8a45d13df372dc97acc705c1398e3`;
 - D1 exact compare — **6 commits / exactly 37 new English page files / 0 non-page changes / 0 Tamil changes**;
-- current English status after D1 — **37 draft / 74 not yet drafted / 0 source-checked / 0 blocked**;
+- D1 checkpoint status — **37 draft / 74 not yet drafted / 0 source-checked / 0 blocked**;
 - English Draft D2 — **COMPLETE / PASS 37/37**;
 - D2 range — **scans 593–629 / printed 576–612**;
 - D2 page-layer base — `7961c8869685814e213b0a6e891b5da878b0c126`;
 - D2 page-layer endpoint — `9c09dfe256eb72e75beccc4ff6ba0d8c87e922da`;
 - D2 exact compare — **6 commits / exactly 37 new English page files / 0 non-page changes / 0 Tamil changes**;
-- current English status after D2 — **74 draft / 37 not yet drafted / 0 source-checked / 0 blocked**;
+- D2 checkpoint status — **74 draft / 37 not yet drafted / 0 source-checked / 0 blocked**;
 - English Draft D3 — **COMPLETE / PASS 37/37**;
 - D3 range — **scans 630–666 / printed 613–648 + unnumbered back cover**;
 - D3 page-layer base — `f88a79c563871669c96533c07d5d50f0f87d1e17`;

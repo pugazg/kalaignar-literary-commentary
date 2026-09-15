@@ -75,3 +75,14 @@ They are evidence of what was true at that gate; rewriting them to today's state
 - S2 — **300/300 processed / 298 resolved / 2 partial-source-metadata / 0 unresolved**;
 - S3 — **300/300 individual entry leaves + JSON/TSV/human/Chapter indexes**;
 - required next Kuraloviyam activity — **none**.
+
+
+## Second-pass cleanup
+
+A follow-up scan found and corrected three additional ambiguous current-state labels:
+
+- root `HANDOVER.md` refresh line still advertised GR2 as next;
+- the Part 003 English README source-check subsection called its historical source-check state “current”;
+- `metadata/source.md` retained a long historical Part 005/006 workflow paragraph ending in an “active frontier” statement without an explicit superseded label.
+
+These are now explicitly synchronized or marked historical.

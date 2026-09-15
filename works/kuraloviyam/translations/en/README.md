@@ -77,7 +77,7 @@ All 111 English pages preserve page alignment, visual/non-body descriptions, Kur
 - SC3 **289–321 / 272–304 — COMPLETE 33/33**;
 - SC4 **322–333 / 305–316 — COMPLETE 12/12 / FINAL REMAINDER**;
 - cumulative source-check: **111/111 COMPLETE / CLOSED**;
-- current English state: **111 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**.
+- source-check closure checkpoint state: **111 `source-checked` / 0 `draft` / 0 source-limited / 0 blocked**.
 
 SC4 source-fidelity reconciliation corrected the Monday-market sense on scan **327**, restored exact page alignment across **328→329**, and recorded scan **333** side title/footer furniture as non-body material. No Tamil archival record changed. Incoming **321→322 is CLEAN**; genuine **332→333** remains preserved and closes within Part 003.
 
