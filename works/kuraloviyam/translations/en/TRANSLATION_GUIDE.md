@@ -155,20 +155,20 @@ Do not begin a later Part until the active Part's required English review/releas
 
 ## 12. Iteration discipline — current user directive
 
-**Current normal iteration size: 33 physical scan pages.**
+**Current normal iteration size: 37 physical scan pages.**
 
-This user-directed cadence applies to active Kuraloviyam English page-batched workflow iterations. Historical completed batches retain the sizes at which they were actually processed. A final Part remainder may be shorter than 33 pages. Part-level review and release report are whole-Part gates.
+User directive updated on 2026-09-15 from 33 to **37** physical scans per normal future iteration. Historical completed batches retain the sizes at which they were actually processed. This user-directed cadence applies to active Kuraloviyam English page-batched workflow iterations. Historical completed batches retain the sizes at which they were actually processed. A final Part remainder may be shorter than 33 pages. Part-level review and release report are whole-Part gates.
 
 For first-pass drafting:
 
-- use 33 consecutive `scan_page` records per normal future iteration unless the user explicitly changes the cadence again;
+- use 37 consecutive `scan_page` records per normal future iteration unless the user explicitly changes the cadence again;
 - a batch boundary does not imply a narrative, quotation or Kural boundary;
 - preserve cross-page continuation exactly;
 - source-limited pages count toward the batch and remain `source-limited`.
 
 For source-check:
 
-- use 33 consecutive `scan_page` records per normal future iteration unless a final remainder is shorter;
+- use 37 consecutive `scan_page` records per normal future iteration unless a final remainder is shorter;
 - compare English against audited Tamil paragraph-by-paragraph / block-by-block;
 - check omissions, additions, meaning drift, names, titles, quotations, Kural blocks, visual-page function and cross-page continuations;
 - only a passing page may move from `draft` to `source-checked`;
@@ -176,7 +176,7 @@ For source-check:
 
 For glossary / recurring-terminology reconciliation:
 
-- use **33 consecutive scan pages per normal iteration**;
+- use **37 consecutive scan pages per normal iteration**;
 - compare recurring names, work/section names, controlled literary terms, publication names, chapter labels, citation metadata and repeated English renderings against `GLOSSARY.md` and audited Tamil context;
 - update `GLOSSARY.md` only for terms actually evidenced in the active source;
 - do not mechanically force one English word where context requires a different rendering;
@@ -185,7 +185,7 @@ For glossary / recurring-terminology reconciliation:
 
 For editorial review:
 
-- use the current 33-page normal cadence unless the user changes it;
+- use the current 37-page normal cadence unless the user changes it;
 - review readability, controlled terminology, names, repeated phrasing, quotations, Kural blocks, page function and cross-page continuity;
 - consult matching audited Tamil whenever an editorial change could affect meaning;
 - make only source-faithful editorial improvements;
