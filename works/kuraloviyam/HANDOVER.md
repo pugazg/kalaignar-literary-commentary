@@ -433,8 +433,11 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - exact compare — **11 commits / exactly 111 Part-006 page files / +2 -2 each / 0 non-page files**;
 - final Part-006 Tamil status — **111 verified / 0 needs-review / 0 partial / 0 blocked / 0 source-limited**;
 - final Part-006 visual fidelity — **111 verified / 0 needs-review**;
-- exact next stage — **Part 006 documentation synchronization**.
+- documentation synchronization — **COMPLETE / PASS**;
+- documentation-sync record — `works/kuraloviyam/PART_006_DOCUMENTATION_SYNC.md`;
+- documentation-only page-layer changes — **0**;
+- exact next stage — **Part 006 Tamil archival-ready checkpoint**.
 
 ## Exact next activity
 
-Perform **Part 006 documentation synchronization**. Reconcile README, root/work handovers, page map, source metadata, archival guidelines, and any Part-006 control records with the closed audit and final status-sync state. Do not change page-layer Tamil content or statuses. After documentation sync, the next gate is the separate **Part 006 Tamil archival-ready checkpoint**.
+Perform the separate **Part 006 Tamil archival-ready checkpoint**. Follow `works/kuraloviyam/PART_005_TAMIL_ARCHIVAL_READY.md` as precedent. Confirm the closed evidence chain, final 111/111 textual verified + 111/111 visual verified state, 0 exceptions, source identity, `பொருளடக்கம்` scans 658–665, and scan 666 physical endpoint. Do not change page-layer Tamil content or statuses. Do not start English translation until the Tamil archival-ready checkpoint closes.
