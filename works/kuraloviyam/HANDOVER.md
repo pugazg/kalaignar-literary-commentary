@@ -515,8 +515,31 @@ S1 created:
 
 Durable status: `works/kuraloviyam/sections/SECTIONS_BUILD_STATUS.md`.
 
+## Derived sections S2 — COMPLETE / PASS
+
+The requested hierarchy is now operational:
+
+**Book → Iyal → Adhikaram → Kuraloviyam contents entry**
+
+Final S2 disposition:
+
+- **300/300** contents entries processed;
+- **298** fully resolved;
+- **2** partial-source-metadata entries: **46, 104**;
+- **0** unresolved;
+- **121/133** source-evidenced Chapter numbers;
+- **0** Tamil page changes;
+- **0** English page changes.
+
+The two partial cases preserve missing source metadata rather than importing external Kural numbering. Entry **202** preserves its source-proven shared-page overlap through scan 452.
+
+Durable records:
+- `sections/SECTIONS_BUILD_STATUS.md`;
+- `sections/crosswalk/S2_MASTER_CROSSWALK.tsv`;
+- `sections/crosswalk/S2_EXCEPTION_AUDIT.md`.
+
 ## Exact next activity
 
-Proceed with **Derived Sections S2 — entry-to-Adhikaram crosswalk, entries 1–300**.
+**No required Kuraloviyam section activity remains.**
 
-Use each source contents entry's printed-page span and the audited closing page's Chapter/Kural metadata. Do not infer from an external Thirukkural edition. Preserve source numbering anomalies and leave any unsupported assignment unresolved.
+Optional: **S3 — individual entry leaf records / web-ready navigation index**.
