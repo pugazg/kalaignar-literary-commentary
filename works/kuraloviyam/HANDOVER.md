@@ -409,11 +409,12 @@ Durable progress: `works/kuraloviyam/PART_005_PASS1_PROGRESS.md`.
 - Pass 3 Batch 2 — **567–577 / printed 550–560 — COMPLETE 11/11**;
 - Pass 3 Batch 3 — **578–588 / printed 561–571 — COMPLETE 11/11**;
 - Pass 3 Batch 4 — **589–599 / printed 572–582 — COMPLETE 11/11**;
-- Batch-4 structural/visual corrections — **0**;
-- Batch-4 page-layer compare — `338cf9d0a20d131acdfe3ad1d422001ce820999c` → same commit — **identical / 0 changed files**;
-- cumulative Pass 3 — **44/111**;
-- exact next stage — **Pass 3 Batch 5 / scans 600–610 / printed 583–593 — 11 scans**.
+- Pass 3 Batch 5 — **600–610 / printed 583–593 — COMPLETE 11/11**;
+- Batch-5 structural/visual corrections — **0**;
+- Batch-5 page-layer compare — `5f2cb18c4accc2a36d0df1582cb64dc428b60b5f` → same commit — **identical / 0 changed files**;
+- cumulative Pass 3 — **55/111**;
+- exact next stage — **Pass 3 Batch 6 / scans 611–621 / printed 594–604 — 11 scans**.
 
 ## Exact next activity
 
-Proceed with **Part 006 Pass 3 Batch 5 / scans 600–610 / printed 583–593 — 11 scans**. Batches 1–4 are **COMPLETE 44/111**. Preserve incoming **599→600 GENUINE CONTINUATION** and keep statuses unchanged.
+Proceed with **Part 006 Pass 3 Batch 6 / scans 611–621 / printed 594–604 — 11 scans**. Batches 1–5 are **COMPLETE 55/111**. Preserve incoming **610→611 GENUINE CONTINUATION** and keep statuses unchanged.
