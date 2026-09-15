@@ -150,17 +150,19 @@ Pass 3 Batch 1 — **556–566 / printed 539–549 — COMPLETE 11/11**.
 
 Pass 3 Batch 2 — **567–577 / printed 550–560 — COMPLETE 11/11**.
 
-- Batch-2 structural/visual-description corrections — **0**;
-- Batch-2 lexical/body-text changes — **0**;
-- Batch-2 page-layer checkpoint / endpoint — `b2c8d842938a7e56f17c9010b2cd01b2f4025e94`;
-- exact Batch-2 page-layer compare — **identical / 0 commits / 0 changed files**;
-- cumulative Pass 3 — **22/111**;
-- incoming **566→567 GENUINE CONTINUATION** preserved;
-- outgoing witness confirms **577→578 GENUINE CONTINUATION**;
+Pass 3 Batch 3 — **578–588 / printed 561–571 — COMPLETE 11/11**.
+
+- Batch-3 structural/visual-description corrections — **0**;
+- Batch-3 lexical/body-text changes — **0**;
+- Batch-3 page-layer checkpoint / endpoint — `51642b8e999a501029832cb95e0d238fd11d131f`;
+- exact Batch-3 page-layer compare — **identical / 0 commits / 0 changed files**;
+- cumulative Pass 3 — **33/111**;
+- incoming **577→578 GENUINE CONTINUATION** preserved;
+- outgoing witness confirms **588→589 CLEAN**;
 - statuses remain unchanged — all 111 records `needs-review` / visual `needs-review`.
 
 Immediate next activity:
 
-**Part 006 Pass 3 Batch 3 — scans 578–588 / printed 561–571 — 11 physical scans.**
+**Part 006 Pass 3 Batch 4 — scans 589–599 / printed 572–582 — 11 physical scans.**
 
-Preserve incoming **577→578 GENUINE CONTINUATION**. Use freshly rendered source images for meaningful visual/text verification; do not perform another lexical reread or promote final status.
+Preserve incoming **588→589 CLEAN**. Use freshly rendered source images for meaningful visual/text verification; do not perform another lexical reread or promote final status.
