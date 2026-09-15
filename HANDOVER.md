@@ -550,8 +550,19 @@ Whole-work maintained disposition:
 
 The four durable source limitations remain Part 001 scans **13, 14, 15, 19**.
 
+## Kuraloviyam derived sections
+
+The maintained archival/release workflow remains **fully closed**. A downstream navigation layer is now active under `works/kuraloviyam/sections/`.
+
+S1 — **COMPLETE / PASS**:
+
+- Book → Iyal → Adhikaram scaffold created;
+- **120** source-evidenced Adhikaram files;
+- exact contents entries **1–300** preserved;
+- **0** Tamil/English page-layer changes.
+
 ## Exact next activity — குறளோவியம்
 
-**None. The Kuraloviyam maintained workflow is complete.**
+**Derived Sections S2 — source-derived entry-to-Adhikaram crosswalk for contents entries 1–300.**
 
-Only reopen a closed Part for a genuinely new source/provenance/fidelity issue or an explicitly requested new derivative/output.
+Do not reopen or alter closed archival/release records. Use audited page spans and closing Chapter/Kural metadata only.
