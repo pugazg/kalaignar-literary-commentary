@@ -291,3 +291,61 @@ Durable records:
 All release page changes were status-token-only. Approved English wording and Tamil archival records were unchanged by release/final closure. Scan **444 / printed 427** remains source-open and external **444→445** remains deferred until the actual Part 005 controlling source is supplied.
 
 Part 005 English work must not begin before Part 005 source intake and Tamil archival processing establish the controlling source and adjacent boundary.
+
+
+## 17. Part 005 closed English record
+
+Part 005 covers scans **445–555 / printed 428–538**.
+
+- Tamil — **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified / 0 exceptions**;
+- English drafting — **COMPLETE / CLOSED 111/111**;
+- source-check — **COMPLETE / CLOSED 111/111**;
+- glossary reconciliation — **COMPLETE / CLOSED 111/111**;
+- editorial review — **COMPLETE / CLOSED 111/111**;
+- Part-level review — **PASS / CLOSED**;
+- release report — **APPROVED / CLOSED**;
+- release-ready — **111/111 COMPLETE / CLOSED**;
+- final Part checkpoint — **PASS / CLOSED**.
+
+Durable records:
+
+- `reviews/PART_005_ENGLISH_REVIEW.md`;
+- `reviews/PART_005_ENGLISH_RELEASE_REPORT.md`;
+- `../../PART_005_FINAL_CLOSURE.md`.
+
+## 18. Part 006 closed English record
+
+Part 006 covers scans **556–666**, printed **539–648** plus scan **666 / unnumbered pictorial back cover**.
+
+- Tamil — **ARCHIVAL-READY / CLOSED — 111/111 textual + visual verified / 0 exceptions**;
+- English drafting — **COMPLETE / CLOSED 111/111**;
+- source-check — **COMPLETE / CLOSED 111/111**;
+- glossary reconciliation — **COMPLETE / CLOSED 111/111**;
+- editorial review — **COMPLETE / CLOSED 111/111**;
+- Part-level review — **PASS / CLOSED**;
+- release report — **APPROVED / CLOSED**;
+- release-ready — **111/111 COMPLETE / CLOSED**;
+- final Part checkpoint — **PASS / CLOSED**.
+
+Durable records:
+
+- `reviews/PART_006_ENGLISH_REVIEW.md`;
+- `reviews/PART_006_ENGLISH_RELEASE_REPORT.md`;
+- `../../PART_006_FINAL_CLOSURE.md`.
+
+Part 006 ends at **scan 666**, the unnumbered pictorial back cover. There is **no external continuation** beyond this source endpoint.
+
+## 19. Whole maintained English corpus — CLOSED
+
+The six-Part source family is complete.
+
+Final maintained English disposition:
+
+- Parts 002–006 — **555/555 release-ready**;
+- Part 001 — **107 release-ready + 4 source-limited**;
+- whole corpus — **662 release-ready + 4 source-limited**;
+- blocked — **0**.
+
+The four retained source limitations are Part 001 scans **13, 14, 15, 19** and must not be reconstructed from OCR, context, another edition, web text or memory.
+
+There is no active page-batched English frontier after Part 006 closure.
