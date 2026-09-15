@@ -36,7 +36,6 @@ continues_to_scan: 195
 <div align="right">என்</div>
 
 கொடுவாளின் முனையின் முன்னால் விளையாடல்  
-என்  
 நன்றல்ல சொல்வீர்!''
 
 இவ்வாறு
@@ -54,5 +53,5 @@ continues_to_scan: 195
 புவியிருண்ட குருடன் போல நெடுங்கிள்ளி  
 வீழ்ந்திடுவான்.
 
-<!-- Gate B restores File4 wording while repositioning displaced locked tokens `தன்`, `என்`, and `இவ்வாறு` to their source-supported locations. The source quotation separator is preserved. -->
+<!-- Gate B restores File4 wording while repositioning displaced locked tokens `தன்`, `என்`, and `இவ்வாறு` to their source-supported locations. File4's duplicate extracted `என்` is excluded because the scan supports a single carryover token. The source quotation separator is preserved. -->
 <!-- மூல ஸ்கேன் பக்கம்: 193; அச்சுப் பக்கம்: 180 -->
