@@ -491,8 +491,11 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - exact compare — **11 commits / exactly 111 Part-006 page files / +2 -2 each / 0 non-page files**;
 - final Part-006 Tamil status — **111 verified / 0 needs-review / 0 partial / 0 blocked / 0 source-limited**;
 - final Part-006 visual fidelity — **111 verified / 0 needs-review**;
-- exact next stage — **Part 006 documentation synchronization**.
+- documentation synchronization — **COMPLETE / PASS**;
+- documentation-sync record — `works/kuraloviyam/PART_006_DOCUMENTATION_SYNC.md`;
+- documentation-only page-layer changes — **0**;
+- exact next stage — **Part 006 Tamil archival-ready checkpoint**.
 
 ## Exact next activity — குறளோவியம்
 
-Perform **Part 006 documentation synchronization**. Reconcile README, root/work handovers, page map, source metadata, archival guidelines, and Part-006 control records with the closed audit/status-sync state. Do not modify page-layer Tamil content or statuses. After documentation synchronization, the next gate is the separate **Part 006 Tamil archival-ready checkpoint**.
+Perform the separate **Part 006 Tamil archival-ready checkpoint** using the closed Part-005 precedent. Confirm the full evidence chain and 111/111 textual + visual verified state with 0 exceptions. Do not modify page-layer Tamil content or statuses. Do not start English translation until this checkpoint closes.
