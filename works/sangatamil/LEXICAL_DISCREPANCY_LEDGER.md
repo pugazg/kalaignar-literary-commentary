@@ -1460,3 +1460,86 @@ At C20 close:
 3. close Gate C at **497/497 audited**;
 4. do not start Gate C2 unless explicitly authorized by the user;
 5. derive the next non-C2 activity from the productive completion plan and synchronize all operational docs.
+
+
+# C20 — scans 476–497
+
+**Status: COMPLETE / PASS — FINAL GATE-C BATCH**
+
+- date: **2026-09-16**
+- audited scans: **476–497 / 22**
+- controlling source: user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf`, split pages **26–47**
+- direct Gemini lexical witness: user-supplied `File10.md`, resolved scan-by-scan against the PDF
+- substantive discrepancy records: **6**
+- scans containing discrepancies: **5**
+- scans with no new substantive lexical discrepancy: **17**
+- canonical page files changed: **0**
+- Gate C2 corrections: **0**
+
+Clean / no-new-substantive-discrepancy scans:
+
+**476–477, 479–480, 482–491, 493, 496–497**
+
+Special handling:
+- full-page illustration scans: **477, 485, 493**;
+- scan **497** is the physical back cover; the PDF-visible imprint is `ROCKFORT Publications (P) Ltd.`; File10's trailing publisher extraction is not a separate physical-page lexical block;
+- B20 mapping was retained exactly: 476→464; 477→465 image; 478–484→466–472; 485→473 image; 486–492→474–480; 493→481 image; 494–496→482–484;
+- documented extraction defects were excluded from the discrepancy count: scan 487 `விட்டீர்கீர்களா` / stray `சிறிட`; scan 488 mixed-script `செவிலித்தாய다தானே`; scan 489 `உடலகத்து`; scan 491 `எடுத்துக்காட்டாயைச்` / `பாற்குடயங்கள்`; scan 492 duplicated `விளக்கொன்றை`; scan 496 mixed-script `ஒன்றை만을ப்`;
+- source/File10-aligned historical forms restored during B20, including scan 479 `நல்லவைகளாயிருக்கட்டு” மென்றான்` and scan 484 `வேண்டு” மென்று`, are not discrepancies;
+- punctuation-only, spacing-only, line-wrap, running-header/footer and purely structural differences were excluded unless they materially altered lexical interpretation.
+
+## C20 discrepancy records
+
+| ID | Scan | Printed page | Canonical page | Locked File10 / repository wording | Source-visible / source-aligned wording | Classification | Gate-B exception already documented? | Notes |
+|---|---:|---:|---|---|---|---|---|---|
+| C20-001 | 478 | 466 | `0478-oruthalaik-kaadhal-09-02.md` | `... புறங்கொடாத / புலிப்போத்து / பாணன் வீரத்தைக் ...` | source `... புறங்கொடாத / புலிப்போத்து / என்று / பாணன் வீரத்தைக் ...` | `likely-gemini-error` | **yes — B20** | Reliable File10 Page 466 omits source-visible lexical token `என்று`; B20 deliberately retained the lock. |
+| C20-002 | 481 | 469 | `0481-oruthalaik-kaadhal-09-05.md` | quoted Sangam block ends at `விழவு அயர்ந் தன்ன கொழும்பில் திற்றி........` | source quotation continues with `எழாஅப் பாணன்........` | `missing-whole-lexical-block` | **yes — B20** | Source-visible quoted wording is absent from the reliable File10 Page-469 block; the glossary later preserves `எழாஅப் பாணன் = புறங்கொடாத பாணன்`. |
+| C20-003 | 492 | 480 | `0492-oruthalaik-kaadhal-11-02.md` | `ஆரணங்கின் குரல் என உணர்ந்து` | source `ஆரணங்கின் குரலாய் இருப்பதை உணர்ந்து` | `likely-gemini-error` | **yes — B20** | B20 restored the File10 lock over the earlier source-aligned repository phrase. |
+| C20-004 | 494 | 482 | `0494-oruthalaik-kaadhal-11-03.md` | `எடுத்தெறிந்து பேசினாரே, நற்கிள்ளி!` | source `எடுத்தெறிந்து பேசினீரே, நற்கிள்ளி!` | `likely-gemini-error` | **yes — B20** | Direct visual source and the pre-B20 source-aligned layer read second-person honorific `பேசினீரே`. |
+| C20-005 | 494 | 482 | `0494-oruthalaik-kaadhal-11-03.md` | `எமாந்துபோனார் உன் அண்ணன்!` | source `ஏமாந்துபோனார் உன் அண்ணன்!` | `likely-gemini-error` | **yes — B20** | File10/canonical shorten the initial vowel; source-aligned pre-B20 layer retained `ஏமாந்துபோனார்`. |
+| C20-006 | 495 | 483 | `0495-oruthalaik-kaadhal-11-04.md` | `இனியவரே! இன்றென்காதல் கைகூடியது! எனை,` | source `இனியவரே! இன்றென்காதல் கைகூடியது! ஏன,` | `likely-gemini-error` | **yes — B20** | B20 restored File10 `எனை`; direct visual source and the pre-B20 source-aligned layer read `ஏன`. |
+
+## C20 closure audit
+
+C20 is an **audit-only closure**.
+
+- source scans **476–497** were visually inspected against File10 under the documented B20 mapping;
+- **6** substantive discrepancy records were entered across **5** scans;
+- **0** canonical page records were edited;
+- no Gate-B page was reopened;
+- no lexical correction was promoted;
+- Gate C2 remains **NOT STARTED / NOT AUTHORIZED**.
+
+# Gate C final closure
+
+**Gate C — COMPLETE / PASS**
+
+- completed batches: **C01–C20**
+- audited scans: **497/497**
+- cumulative substantive discrepancy records: **140**
+- remaining scans: **0**
+- canonical page wording changes during Gate C: **0**
+- wording state remains **Gemini-lexical-locked / not word-for-word scan verified**
+- Gate C2: **NOT STARTED / NOT AUTHORIZED**
+
+Gate C is now closed. The discrepancy ledger is complete for the current locked wording state.
+
+## Exact next activity
+
+Proceed to **Gate D — Physical / visual / continuity closure**.
+
+Gate D must audit all **497 physical scans** for:
+- one scan → one canonical record;
+- covers / blanks / illustrations / dividers / end matter;
+- printed pagination;
+- running headers / footers;
+- meaningful alignment;
+- continuation relationships;
+- cross-page sentence / verse continuity;
+- shared-page or boundary anomalies.
+
+Durable Gate-D output:
+
+`works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md`
+
+Do **not** start Gate C2 unless explicitly authorized.
