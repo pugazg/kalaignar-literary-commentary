@@ -208,7 +208,7 @@ In a fresh Sangath Tamil chat:
 1. fetch live main
 2. read the active controls listed above, including works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md
 3. confirm Gate E is COMPLETE / PASS at 497/497 with 104 source-order section-role entries and 0 page-wording changes
-4. confirm F01–F04 scans 1–100 are COMPLETE / PASS and process Gate G metadata/status closure using the closed physical/section layer
+4. confirm Gate F F01–F20 scans 1–497 are COMPLETE / PASS and process Gate G metadata/status closure using the closed physical/section/provenance layers
 5. verify only source-visible provenance: anthology/work name, பாடல் number/range, poet attribution, quotation boundaries, `பொருள் விளக்கம்`, and other printed source notes
 6. update `works/sangatamil/indexes/source-citation-register.md` and `works/sangatamil/PROVENANCE_AUDIT.md`
 7. do not import external-edition corrections and do not start Gate C2 unless explicitly authorized
