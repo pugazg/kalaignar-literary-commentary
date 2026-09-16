@@ -13,13 +13,13 @@ The actual supplied PDF has been independently confirmed as **497 scans**. Scans
 
 ## Workflow status
 
-The project uses the canonical whole-volume multi-pass plan in [`../MULTI_PASS_WORKFLOW.md`](../MULTI_PASS_WORKFLOW.md), refined by [`../GEMINI_RECONCILIATION_PLAN.md`](../GEMINI_RECONCILIATION_PLAN.md).
+The live workflow is controlled by [`../PRODUCTIVE_COMPLETION_PLAN.md`](../PRODUCTIVE_COMPLETION_PLAN.md). `MULTI_PASS_WORKFLOW.md` and `GEMINI_RECONCILIATION_PLAN.md` are historical methodology records.
 
 Gemini File1.md … File10.md is the **locked lexical layer** for the current Gate-B workflow. The scan is authoritative for physical placement, headings, punctuation, page boundaries and meaningful structure. Legitimate lexical scan/Gemini disagreements are recorded rather than silently source-corrected during Gate B.
 
 A Stage-0 regression pilot on scans **31–36** demonstrated that some prior `verified` records contained substantive lexical/structural errors. Those text pages have therefore been corrected and reopened to `needs-review` pending the systematic Pass 2/3 sweeps.
 
-Pass-1 physical capture is complete. Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate aliases / 0 missing scans**. Gate B is **COMPLETE / PASS — 497/497 structurally reviewed**; Gate C is **COMPLETE / PASS — 497/497 lexically audited under the lock**; Gate D is **COMPLETE / PASS — 497/497 physical/visual/continuity closed**.
+Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate aliases / 0 missing scans**. Gates B–G are now **COMPLETE / PASS**. Gate G audited all **497/497** canonical metadata/status records, repaired **11** missing `visual_fidelity` fields, and left **0** unresolved Gate-G inconsistencies.
 
 ## Current map
 
@@ -30,8 +30,8 @@ Pass-1 physical capture is complete. Gate A repository hygiene is complete: **49
 | 3 | — | later library/ownership sticker | `verified` |
 | 4–5 | — | ruled blank leaves | `verified` |
 | 6 | — | internal title page | `verified` |
-| 7 | — | publication information | `partial` |
-| 8 | III | handwritten `முன்னுரை` facsimile | `partial` |
+| 7 | II | publication information | `needs-review`; visual fidelity `needs-review` |
+| 8 | III | handwritten `முன்னுரை` facsimile | `partial`; visual fidelity `needs-review`; description-only by user direction |
 | 9 | IV | `ஈ. இராமலிங்கனர் மடல்!` | `verified`; visual fidelity `verified` |
 | 10–13 | V–VIII | `அணிந்துரை` | `verified`; visual fidelity `verified` |
 | 14 | IX | `பதிப்புரை` | `verified`; visual fidelity `verified` |
@@ -74,7 +74,7 @@ Pass-1 physical capture is complete. Gate A repository hygiene is complete: **49
 
 ## Active gate
 
-**Gate E section reconstruction — COMPLETE / PASS — 104 section-role entries / 497/497 scans assigned exactly once. Gate F provenance audit is active next.**
+**Gate G metadata/status closure — COMPLETE / PASS — 497/497 audited / 11 missing visual-fidelity fields repaired / 0 unresolved. Gate H derived navigation is active next.**
 
 
 Durable extraction note: File9 Book Pages **401–412** are mis-segmented/replaced for physical scans **413–424**; this does not change the physical scan map.
