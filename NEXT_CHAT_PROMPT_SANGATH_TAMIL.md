@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate F Sangam Provenance Audit / continue from scan 26
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate F Sangam Provenance Audit / F03 scans 51–75
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -15,11 +15,13 @@ Wording state remains **Gemini-lexical-locked — not word-for-word scan verifie
 
 ## Gate F durable state
 
-- F01 scans **1–25 — COMPLETE / PASS**.
-- formal provenance units verified in F01 — **2**.
-- citation-anchor scans — **19, 24**.
+- F01 scans **1–25 — COMPLETE / PASS** — 2 formal provenance units.
+- F02 scans **26–50 — COMPLETE / PASS** — 5 formal provenance units.
+- cumulative Gate-F coverage — **50/497 scans**.
+- cumulative formal provenance units — **7**.
+- citation-anchor scans through F02 — **19, 24, 30, 36, 41, 46, 49**.
 - canonical page-wording changes — **0**.
-- current provenance frontier — **scan 26**.
+- current provenance frontier — **scan 51**.
 - durable report — `works/sangatamil/PROVENANCE_AUDIT.md`.
 - register — `works/sangatamil/indexes/source-citation-register.md`.
 
@@ -50,16 +52,16 @@ Systematically verify **source-visible provenance only**:
 
 Do not silently replace this edition with another edition and do not use external concordances to overwrite printed labels.
 
-## Exact next activity
+## Exact next activity — F03
 
-Continue from **scan 26** using the normal 25-scan Gate-F cadence.
+Process **scans 51–75**.
 
 For each provenance-bearing scan:
 1. inspect the controlling source image;
 2. preserve the printed label exactly as this edition gives it;
 3. record section/context, source work, poem/range, poet, and note/block type;
 4. update `works/sangatamil/indexes/source-citation-register.md`;
-5. append the completed batch to `works/sangatamil/PROVENANCE_AUDIT.md`;
+5. append F03 progress to `works/sangatamil/PROVENANCE_AUDIT.md`;
 6. verify **0 canonical page-wording changes**.
 
-Do not start Gate C2.
+At F03 close, advance the provenance frontier to **scan 76**. Do not start Gate C2.
