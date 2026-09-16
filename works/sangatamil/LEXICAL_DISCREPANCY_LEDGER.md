@@ -735,3 +735,76 @@ At C11 close:
 2. verify **0 canonical page files changed**;
 3. advance the Gate-C frontier to **scan 276**;
 4. do not start Gate C2.
+
+
+# C11 — scans 251–275
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-16**
+- audited scans: **251–275 / 25**
+- controlling source: user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_006_pages_251-300.pdf`, split pages **1–25**
+- direct Gemini lexical witness: user-supplied `File6.md`, Phase 14 / Book Pages **238–262**
+- locked comparison layer: current canonical page records under `works/sangatamil/pages/`
+- substantive discrepancy records: **6**
+- scans containing discrepancies: **3**
+- scans with no new substantive lexical discrepancy: **22**
+- canonical page files changed: **0**
+- Gate C2 corrections: **0**
+
+Clean / no-new-substantive-discrepancy scans:
+
+**251–253, 255–256, 258–273, 275**
+
+Special handling:
+- scans **256, 265, 271, 275** are full-page colour illustrations and contain no source-visible literary body text;
+- scan **259** is the two-page illustrated spread carrying text for printed pages **246–247**; File6 folds that material into its Book Page 248 extraction, so the already-closed Gate-B physical mapping was preserved and not treated as a lexical discrepancy;
+- known File6 extraction debris already excluded during Gate B — scan 261 numeric `66` / extraction prefix, scan 262 unsupported `பாசறையை!`, scan 264 numeric `66`, scan 267 numeric `66`, scan 273 decorative-heading fragment `வி`, and scan 274 numeric `66` — was not re-entered as Gate-C discrepancy;
+- scan **254** contains a repository-only duplicate lexical token: File6 and the source each contain one `இந்தச்`, while the canonical page currently contains it twice;
+- scan **257** contains both scan/Gemini lexical disagreements and one repository-only divergence;
+- punctuation-only, spacing, line-wrap, running-header/footer and purely structural differences were excluded unless they changed lexical content.
+
+## C11 discrepancy records
+
+| ID | Scan | Printed page | Canonical page | Locked File6 / repository wording | Source-visible / source-aligned wording | Classification | Gate-B exception already documented? | Notes |
+|---|---:|---:|---|---|---|---|---|---|
+| C11-001 | 254 | 241 | `0254-kuppai-kozhiyaar-01.md` | canonical body contains `இந்தச்` twice: once as a standalone line and again after `சிற்றூர் முதல் பேரூர் நகரங்கள் வரை -` | File6 contains one displaced `இந்தச்`; the source contains one `இந்தச்` after `சிற்றூர் முதல் பேரூர் நகரங்கள் வரை -` | `repository-only-divergence` | no | Gate C records the duplicated lexical token only. The canonical page is not repaired in this audit-only gate. |
+| C11-002 | 257 | 244 | `0257-kuppai-kozhiyaar-04.md` | quotation `காம ஒளிஎரி` | quotation `காம ஒள்ளெரி` | `likely-gemini-error` | **yes — B11** | The source visibly preserves the classical form `ஒள்ளெரி`; File6 changes it to the segmented/altered `ஒளிஎரி`. |
+| C11-003 | 257 | 244 | `0257-kuppai-kozhiyaar-04.md` | quotation `என்புஉற நலியினும்` | quotation `என்புற நலியினும்` | `likely-gemini-error` | **yes — B11** | The source prints the compact classical form `என்புற`; File6 splits/changes the lexical form to `என்புஉற`. |
+| C11-004 | 257 | 244 | `0257-kuppai-kozhiyaar-04.md` | canonical quotation `பிரித்திடை களையார்` | File6 and source: `பிரித்துஇடை களையார்` | `repository-only-divergence` | no | File6 and the scan agree on `பிரித்துஇடை`; the canonical page drops the `உ`, materially altering the preserved lexical sequence. |
+| C11-005 | 257 | 244 | `0257-kuppai-kozhiyaar-04.md` | glossary `காம ஒள்எரி = காமமெனும் ஒளிபொருந்திய தீ.` | glossary `காம ஒள்ளெரி = காமமெனும் ஒளிபொருந்திய தீ.` | `likely-gemini-error` | **yes — B11** | This is the glossary occurrence of the same source term; File6 independently alters it to `ஒள்எரி`. |
+| C11-006 | 274 | 262 | `0274-andraikke-oru-kannagi-02.md` | `பொன்மானின் துயர்துடைக்கப் புறப்படுக மன்னா; என்றார்!` | `பொன்மானின் துயர்துடைக்கப் புறப்படுக மன்னு; என்றார்!` | `old-or-uncommon-form` | no | The scan clearly prints `மன்னு`; File6/canonical normalize or alter it to `மன்னா`. Gate C preserves the lock and records the source form only. |
+
+## C11 closure audit
+
+C11 is an **audit-only closure**.
+
+- source scans **251–275** were visually inspected against the direct File6 witness and the preserved canonical lock;
+- **6** substantive discrepancy records were entered across **3** scans;
+- **0** canonical page records were edited;
+- no Gate-B page was reopened;
+- no lexical correction was promoted;
+- wording state remains **Gemini-lexical-locked / not word-for-word scan verified**.
+
+## Gate C cumulative state after C11
+
+- completed Gate-C batches: **C01–C11**
+- audited scans: **275/497**
+- cumulative substantive discrepancy records: **61**
+- remaining scans: **222**
+- next frontier: **scan 276**
+- Gate C2: **NOT STARTED / NOT AUTHORIZED**
+
+## Exact next activity
+
+Process **Gate C C12 — scans 276–300**.
+
+Available direct source pair:
+- user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_006_pages_251-300.pdf`, split pages **26–50** / physical scans **276–300**;
+- user-supplied `File6.md`, Phase 15 / Book Pages **264–288**.
+
+At C12 close:
+1. append only substantive lexical discrepancies to this ledger;
+2. verify **0 canonical page files changed**;
+3. advance the Gate-C frontier to **scan 301**;
+4. do not start Gate C2.
