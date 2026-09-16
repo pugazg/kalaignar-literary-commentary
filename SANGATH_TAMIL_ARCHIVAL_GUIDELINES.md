@@ -148,4 +148,6 @@ Gate D — **COMPLETE / PASS**:
 
 ### Exact next activity
 
-Proceed to Gate E — **canonical section reconstruction**. Complete `works/sangatamil/indexes/section-register.md`, create/refresh source-order section READMEs, and create `works/sangatamil/SECTION_COVERAGE_AUDIT.md`. Every scan **1–497** must be assigned exactly once to front matter, a thematic section, illustration/divider role, or end matter/back cover. Do not start Gate C2 unless explicitly authorized.
+Gate E — **COMPLETE / PASS**: 104 source-order section-role entries; 497/497 scans assigned exactly once; 0 canonical page-wording changes; durable report `works/sangatamil/SECTION_COVERAGE_AUDIT.md`.
+
+Proceed to Gate F — **Sangam provenance audit**. Start at scans **1–25** and verify source-visible anthology/work name, பாடல் number/range, poet attribution, quotation boundaries, `பொருள் விளக்கம்`, and other printed source notes. Update `works/sangatamil/indexes/source-citation-register.md` and `works/sangatamil/PROVENANCE_AUDIT.md`. Do not start Gate C2 unless explicitly authorized.

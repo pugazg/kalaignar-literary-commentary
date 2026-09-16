@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed 2026-09-16: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gates A–D are COMPLETE / PASS; Gate E section reconstruction is ACTIVE NEXT.
+Last refreshed 2026-09-16: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gates A–E are COMPLETE / PASS; Gate F Sangam provenance audit is ACTIVE NEXT.
 
 ## Repository
 
@@ -45,7 +45,7 @@ Gate A: **COMPLETE / PASS**.
 
 Gate B: **COMPLETE / PASS — 497/497 structurally reviewed / 0 remaining / 0 unresolved structural placement issues**.
 
-Current gate: **Gate E — canonical section reconstruction — ACTIVE NEXT**.
+Current gate: **Gate F — Sangam provenance audit — ACTIVE NEXT**.
 
 C01–C20 scans **1–497 — COMPLETE / PASS**; **140 cumulative substantive discrepancies** recorded in `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`; Gate C closed with **0 canonical page-wording changes**.
 
@@ -53,7 +53,9 @@ Latest Gate-C ledger commit: `bf82324200e91ff05b76aed18b06c18b37883b90`.
 
 Gate D: **COMPLETE / PASS — 497/497 physical scans / 497 canonical records / 0 unresolved physical-visual-continuity issues**. Durable report: `works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md`.
 
-Exact next activity: **Gate E — canonical section reconstruction**. Complete `works/sangatamil/indexes/section-register.md`, create/refresh section READMEs, and produce `works/sangatamil/SECTION_COVERAGE_AUDIT.md` with every scan 1–497 assigned to a source-order section role. Do not start Gate C2 unless explicitly authorized.
+Gate E: **COMPLETE / PASS — 104 section-role entries / 497/497 scans assigned exactly once / 0 canonical page-wording changes**. Durable report: `works/sangatamil/SECTION_COVERAGE_AUDIT.md`.
+
+Exact next activity: **Gate F — Sangam provenance audit**. Start with scans **1–25**, verify source-visible anthology/work name, poem number/range, poet attribution, quotation block boundaries, `பொருள் விளக்கம்`, and printed source notes; update `works/sangatamil/indexes/source-citation-register.md` and `works/sangatamil/PROVENANCE_AUDIT.md`. Do not start Gate C2 unless explicitly authorized.
 
 ## Mandatory startup — active சங்கத் தமிழ் work
 
@@ -121,8 +123,10 @@ Current Gate-C source start:
 - Gate C2 — NOT STARTED / NOT AUTHORIZED
 - Gate D — COMPLETE / PASS — 497/497 physical scans closed
 - durable Gate-D report — `works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md`
-- current active target — Gate E canonical section reconstruction
-- Gate-E durable outputs — completed `indexes/section-register.md`, section READMEs, `SECTION_COVERAGE_AUDIT.md`
+- Gate E — COMPLETE / PASS — 104 section-role entries / 497/497 scans assigned exactly once
+- Gate-E durable outputs — completed `indexes/section-register.md`, 104 section READMEs, `SECTION_COVERAGE_AUDIT.md`
+- current active target — Gate F Sangam provenance audit
+- Gate-F durable outputs — completed `indexes/source-citation-register.md`, `PROVENANCE_AUDIT.md`
 
 Gemini page comments are navigation aids only; they do not establish physical scan numbering. The scan does.
 
@@ -203,12 +207,11 @@ In a fresh Sangath Tamil chat:
 
 1. fetch live main
 2. read the active controls listed above, including works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md
-3. confirm Gate D is COMPLETE / PASS at 497/497 with 0 unresolved physical / visual / continuity issues
-4. start Gate E from the stable physical layer
-5. reconstruct the exact source-order decorative/thematic sections, including front matter, illustrations/dividers, and end matter
-6. complete `works/sangatamil/indexes/section-register.md`, section READMEs, and `works/sangatamil/SECTION_COVERAGE_AUDIT.md`
-7. verify every scan 1–497 is assigned to exactly one section role
-8. do not source-correct lexical wording and do not start Gate C2 unless explicitly authorized
+3. confirm Gate E is COMPLETE / PASS at 497/497 with 104 source-order section-role entries and 0 page-wording changes
+4. start Gate F at scans 1–25 using the closed physical/section layer
+5. verify only source-visible provenance: anthology/work name, பாடல் number/range, poet attribution, quotation boundaries, `பொருள் விளக்கம்`, and other printed source notes
+6. update `works/sangatamil/indexes/source-citation-register.md` and `works/sangatamil/PROVENANCE_AUDIT.md`
+7. do not import external-edition corrections and do not start Gate C2 unless explicitly authorized
 
 Gate C remains audit-only. Do not change page wording and do not start Gate C2 without explicit user authorization.
 

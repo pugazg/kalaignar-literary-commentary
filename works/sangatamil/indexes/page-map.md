@@ -58,7 +58,7 @@ Pass-1 physical capture is complete. Gate A repository hygiene is complete: **49
 - A previous `verified` page may be reopened when new source-supported evidence exposes substantive errors.
 - Gemini is never sufficient for a final `verified` status.
 - Printed pagination is recorded only when visible.
-- Gate B may reconcile source-visible structural section identity in page metadata/body structure while full canonical section reconstruction remains deferred to Gate E.
+- Gate E has closed the canonical source-order section layer; use `section-register.md` and `SECTION_COVERAGE_AUDIT.md` as the derived section authorities.
 - Printed Sangam provenance already preserved remains intact; systematic provenance-register completion is deferred to Gate F.
 
 ## Completed earlier gates / reopened regression
@@ -74,7 +74,7 @@ Pass-1 physical capture is complete. Gate A repository hygiene is complete: **49
 
 ## Active gate
 
-**Gate D physical / visual / continuity closure — COMPLETE / PASS — 497/497. Gate E section reconstruction is active next.**
+**Gate E section reconstruction — COMPLETE / PASS — 104 section-role entries / 497/497 scans assigned exactly once. Gate F provenance audit is active next.**
 
 
 Durable extraction note: File9 Book Pages **401–412** are mis-segmented/replaced for physical scans **413–424**; this does not change the physical scan map.

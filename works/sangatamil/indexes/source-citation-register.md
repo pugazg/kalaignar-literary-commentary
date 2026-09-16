@@ -12,7 +12,7 @@ Gate B and Gate D are closed. Legitimate Gemini wording remains lexically locked
 
 A Stage-0 regression pilot found substantive text errors in scan 36 despite its earlier `verified` status. The scan-36 citation remains source-located, but its status is reopened pending the systematic Pass 2 textual and Pass 6 provenance audits.
 
-Physical capture is complete. Do not mix whole-volume provenance completion into Gate B; systematic provenance closure is **Gate F** in the productive completion plan.
+Physical capture and section reconstruction are complete. **Gate F is now ACTIVE** for systematic whole-volume provenance closure.
 
 The systematic whole-volume provenance activity is **Gate F — Sangam provenance audit, scan 1 → 497**.
 
@@ -37,7 +37,7 @@ The systematic whole-volume provenance activity is **Gate F — Sangam provenanc
 
 ## Current execution boundary
 
-Physical page capture is complete for **497/497 scans**; Gate A, Gate B and Gate D are closed. Gate E section reconstruction is active next; citation-register completion remains deferred to **Gate F**.
+Physical page capture is complete for **497/497 scans**; Gates A–E are closed. **Gate F provenance audit is ACTIVE NEXT**, beginning at scans **1–25**.
 
 
-B17 extraction note: File9 Book Pages **401–412** are not reliable one-to-one lexical blocks for physical scans **413–424**; provenance closure remains deferred to Gate F rather than inferred from the broken extraction.
+B17 extraction note: File9 Book Pages **401–412** are not reliable one-to-one lexical blocks for physical scans **413–424**; Gate F must use the physical source / canonical section layer rather than infer provenance from the broken extraction.

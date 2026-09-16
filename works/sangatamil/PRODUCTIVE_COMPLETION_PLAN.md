@@ -241,7 +241,7 @@ Final declaration must distinguish one of two outcomes:
 
 ## Current active gate
 
-**Gate E — canonical section reconstruction.**
+**Gate F — Sangam provenance audit.**
 
 Current durable state — **2026-09-16**:
 - Gate A — COMPLETE / PASS
@@ -265,18 +265,19 @@ Current durable state — **2026-09-16**:
 - Gate C2 — **NOT STARTED / NOT AUTHORIZED**
 - Gate D — **COMPLETE / PASS — 497/497 physical scans / 0 unresolved physical-visual-continuity issues**
 - Gate-D report — `PHYSICAL_CONTINUITY_AUDIT.md`
-- Gate E — **NOT STARTED — ACTIVE NEXT GATE**
+- Gate E — **COMPLETE / PASS — 104 section-role entries / 497/497 scans assigned exactly once**
+- Gate-E report — `SECTION_COVERAGE_AUDIT.md`
+- Gate F — **NOT STARTED — ACTIVE NEXT GATE**
 
 Durable Gate-B extraction/mapping exceptions remain recorded in `STRUCTURAL_FIDELITY_PROGRESS.md`; do not reopen Gate B merely to source-correct lexical wording.
 
-Exact next activity: **Gate E — canonical section reconstruction**.
+Exact next activity: **Gate F — Sangam provenance audit / F01 scans 1–25**.
 
-Build the complete source-order section layer across **all scans 1–497**. For every decorative/thematic section record exact heading, scan span, printed-page span, illustration/divider placement, boundary evidence, and direct page links. Assign every scan exactly once to front matter, thematic section, illustration/divider, or end matter/back cover.
+Verify only source-visible anthology/work name, பாடல் number/range, poet attribution, quoted Sangam verse block boundaries, `பொருள் விளக்கம்`, and other printed source notes. Preserve this edition's labels exactly; do not silently replace them with another edition.
 
 Durable outputs:
-- completed `works/sangatamil/indexes/section-register.md`;
-- section READMEs;
-- `works/sangatamil/SECTION_COVERAGE_AUDIT.md`.
+- completed `works/sangatamil/indexes/source-citation-register.md`;
+- `works/sangatamil/PROVENANCE_AUDIT.md`.
 
 Gate C is closed at **497/497** with **140** recorded substantive discrepancies and **0 canonical page-wording changes**. Gate C2 remains unauthorized.
 

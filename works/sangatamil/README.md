@@ -73,9 +73,9 @@ Clearly unsupported extraction debris is excluded. Legitimate scan/Gemini lexica
 ## Archival layers
 
 1. pages/ — canonical physical scan records
-2. sections/ — derived thematic navigation, finalized later in Gate E
+2. sections/ — canonical source-order navigation, **Gate E COMPLETE / PASS**
 3. indexes/page-map.md — physical status map
-4. indexes/section-register.md — finalized in Gate E
+4. indexes/section-register.md — **Gate E COMPLETE / PASS**
 5. indexes/source-citation-register.md — finalized in Gate F
 
 ## Status rule
@@ -89,6 +89,13 @@ Gate D — COMPLETE / PASS:
 - page changes during Gate D — 0
 - durable report — `PHYSICAL_CONTINUITY_AUDIT.md`
 
+Gate E — COMPLETE / PASS:
+- source-order section-role entries — 104
+- assigned scans — 497/497 exactly once
+- section READMEs — 104
+- canonical page-wording changes — 0
+- durable report — `SECTION_COVERAGE_AUDIT.md`
+
 ## Exact next activity
 
-Proceed to Gate E — canonical section reconstruction. Complete `indexes/section-register.md`, create/refresh source-order section READMEs, and create `SECTION_COVERAGE_AUDIT.md`. Every scan 1–497 must be assigned exactly once. Do not start Gate C2 without explicit authorization.
+Proceed to Gate F — Sangam provenance audit. Start with scans 1–25; update `indexes/source-citation-register.md` and create/update `PROVENANCE_AUDIT.md`. Do not start Gate C2 without explicit authorization.
