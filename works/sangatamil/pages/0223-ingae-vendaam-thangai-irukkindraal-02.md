@@ -7,7 +7,7 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 source placement correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 222
 continues_to_scan: 225
@@ -29,8 +29,8 @@ continues_to_scan: 225
 கன்னத்தைப் பழமாகச் சுவைப்பதற்கும் - இன்னும்  
 என்னத்தை நான் சொல்ல; அவை அனைத்துக்கும்  
 நான் வளர்த்த இத்தங்கையின் முன்னே  
-நாணம் வந்து தடுப்பதாலே,  
 <div align="right">எனை</div>
+நாணம் வந்து தடுப்பதாலே,  
 வான் பொழியும் ஒளி மழையில் - இன்பத்  
 தேன் பொழியும் திருவிழா நாம் நடத்துதற்கு  
 வேறு மரநிழலொன்றைத் தேடிச் செல்லலா"மென  
@@ -51,5 +51,5 @@ continues_to_scan: 225
 விருந்தின் பாணர் விளர்இசை கடுப்ப  
 வலம்புரி வான்கோடு நரலும் இலங்குநீர்த்  
 
-<!-- Gate B restores File5 wording and source-supported carryover positions. The locked word எனை is preserved at the source position where the scan visibly has a differing reading; lexical resolution is deferred. The flattened Natrinai quotation is lineated from the controlling scan; merged printed page number 210 is excluded. -->
+<!-- C2-09: user-authorized source-visible carryover placement applied: `எனை` is placed before `நாணம் வந்து தடுப்பதாலே`; the lexical token `எனை` itself is retained exactly as adjudicated. The Natrinai quotation remains otherwise unchanged. -->
 <!-- மூல ஸ்கேன் பக்கம்: 223; அச்சுப் பக்கம்: 210 -->

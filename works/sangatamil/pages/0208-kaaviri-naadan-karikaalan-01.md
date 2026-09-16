@@ -7,12 +7,12 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 heading correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_to_scan: 209
 ---
 # காவிரிநாடன்
-# கபிகாலன்!
+# கரிகாலன்!
 
 காவிரியாம் குமரிப் பெண்ணின் நுனிநாக்கைக்  
 கடலழகன் தன் அலைநாக்கால் தொட்டுத் தொட்டுச்  
@@ -42,5 +42,5 @@ continues_to_scan: 209
 உறையூர் அருகே சிற்றூர் ஒன்றில்; தங்களின்  
 உறுபகை வளர்வதை மோப்பம் கண்டு ஓடினார் ஆங்கே!  
 
-<!-- Gate B records the source-visible section identity காவிரிநாடன் கரிகாலன்! in metadata while preserving the File5-locked body heading காவிரிநாடன் / கபிகாலன்!. Lexical title resolution is deferred beyond Gate B. -->
+<!-- C2-09: user-authorized source heading correction applied: `கபிகாலன்!` → `கரிகாலன்!`; the decorative two-line heading layout is preserved. -->
 <!-- மூல ஸ்கேன் பக்கம்: 208; அச்சுப் பக்கம்: 195 -->

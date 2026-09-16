@@ -7,7 +7,7 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 source correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 219
 ---
@@ -16,7 +16,7 @@ continues_from_scan: 219
 அருஞ்சமம் தாங்கி முன்னின்று எறிந்த  
 ஒருகை இரும்பிணத்து எயிறு மிறையாகத்  
 திரிந்த வாய்வாள் திருத்தாத்  
-தனக்கு இரித்தானைப் பெயர்புறம் நகுமே."  
+தனக்கு இரிந்தானைப் பெயர்புறம் நகுமே."  
 
 \*
 
@@ -35,5 +35,5 @@ continues_from_scan: 219
 
 \*
 
-<!-- Gate B restores File5 wording and source order after illustration scan 220: quotation continuation → separator → provenance → பொருள் விளக்கம். -->
+<!-- C2-09: user-authorized source correction applied in Purananuru 284: `தனக்கு இரித்தானைப் பெயர்புறம் நகுமே` → `தனக்கு இரிந்தானைப் பெயர்புறம் நகுமே`; source order and gloss structure remain unchanged. -->
 <!-- மூல ஸ்கேன் பக்கம்: 221; அச்சுப் பக்கம்: 208 -->
