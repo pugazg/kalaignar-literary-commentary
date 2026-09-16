@@ -7,14 +7,14 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 heading correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_to_scan: 189
 ---
 # அவள்
 # நிலமானாள்;
 # அவன்
-# மழையானன்!
+# மழையானான்!
 
 "நட்சத்திரங்கள் முகம்பார்த்து மினுக்கிக் கொள்ள  
 நாளெல்லாம் தேடித் தொங்கவிட்ட நிலவென்னும்  
@@ -46,5 +46,5 @@ continues_to_scan: 189
 என்ன பெயராம்?" எனக்கேட்டு,  
 'பழம் புராணப் பாம்பு விழுங்கும் கதை பொய் எனினும் ;  
 
-<!-- Gate B records the source-visible section identity `அவள் நிலமானாள்; அவன் மழையானான்!` in metadata while preserving the File4-locked heading word `மழையானன்!` in the body. Stray File4 fragments `கு`, duplicated `ரத்து`, and numeric `66` are excluded as extraction debris. -->
+<!-- C2-08: user-authorized source heading correction applied: body `மழையானன்!` → `மழையானான்!`; decorative heading layout is otherwise preserved. Stray File4 extraction debris remains excluded. -->
 <!-- மூல ஸ்கேன் பக்கம்: 188; அச்சுப் பக்கம்: 175 -->

@@ -7,11 +7,11 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 source correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 198
 ---
-கிழங்களின் குறும்புதான் என்னே... உண்ணும்  
+கிழங்குகளின் குறும்புதான் என்னே... உண்ணும்  
 கிழங்கினை வள்ளியென்றே உரைத்து நமை  
 ஏய்த்தாளே பாட்டியென்று - முருகன்  
 ஏமாந்து பறந்து விட்டான்.  
@@ -51,5 +51,5 @@ continues_from_scan: 198
 சேர, சோழ, பாண்டியர்காள்!  
 முத்தமிழ் முழங்கிடும் முரசுகள் அதிர்ந்திடும்
 
-<!-- Gate B restores File4 wording and source order for the Purananuru quotation/provenance block. The locked `குதித்தோரே!` is moved before `சேர, சோழ, பாண்டியர்காள்!` to its source-supported physical position; printed page number `186` is excluded as page furniture. Literary continuation remains open beyond illustration scan 200. -->
+<!-- C2-08: user-authorized source correction applied: `கிழங்களின் குறும்புதான் என்னே...` → `கிழங்குகளின் குறும்புதான் என்னே...`. User-confirmed Gemini readings `தீஞ்சுனைப் பலவின் பழம்` and `கலைஉளமும் பெற்றதாலே கபிலர்க்கு உயிரே ஆனான்` remain protected. Existing quotation/provenance structure is unchanged. -->
 <!-- மூல ஸ்கேன் பக்கம்: 199; அச்சுப் பக்கம்: 186 -->

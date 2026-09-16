@@ -13,10 +13,11 @@ The user explicitly opened C2 in manual batches and supplied adjudications that 
 - **C2-05 — scans 101–125**
 - **C2-06 — scans 126–150** — no Gate-C discrepancy records / no page action
 - **C2-07 — scans 151–175**
+- **C2-08 — scans 176–200**
 
 The historical Gate-C ledger remains an audit record. Where the user's manual C2 adjudication disagrees with the earlier Gate-C interpretation, **the user's adjudication controls**.
 
-Scans **176–497 remain Gemini-lexical-locked** until the user supplies further instructions.
+Scans **201–497 remain Gemini-lexical-locked** until the user supplies further instructions.
 
 ## C2-01 — scans 1–25
 
@@ -122,18 +123,35 @@ Historical Gate C contains **0 substantive discrepancy records** for C06. No can
 
 C2-07 page files modified: **163, 165, 175**.
 
+
+## C2-08 — scans 176–200
+
+**Status: COMPLETE / APPLIED**
+
+| Gate-C ID | Scan | User adjudication | Repository action |
+|---|---:|---|---|
+| C08-001 | 180 | quotation `... வானி நீரினும் தீந்தன் சாயலன் ...` — Gemini is correct | no change; protected |
+| C08-002 | 188 | decorative/source heading `அவள் நிலமானாள்; அவன் மழையானான்!` — Gemini error | corrected body heading `மழையானன்!` → `மழையானான்!` |
+| C08-003 | 192 | source `அறிந்திட விரும்பாமலே அறிமுகமானோம்!` — Gemini error | corrected malformed `விருமபாமலே` → `விரும்பாமலே` |
+| C08-004 | 195 | source `முடி புனைந்த மூத்தோர் மறைந்து; அவர்` — Gemini error | corrected `முத்தோர்` → `மூத்தோர்` |
+| C08-005 | 199 | locked `கிழங்களின் குறும்புதான் என்னே...` — Gemini error | corrected to historical Gate-C source-visible `கிழங்குகளின் குறும்புதான் என்னே...` |
+| C08-006 | 199 | Purananuru 109 quotation `தீஞ்சுனைப் பலவின் பழம்` — Gemini is correct | no change; protected |
+| C08-007 | 199 | `கலைஉளமும் பெற்றதாலே கபிலர்க்கு உயிரே ஆனான்` — Gemini is correct | no change; protected |
+
+C2-08 page files modified: **188, 192, 195, 199**.
+
 ## Cumulative C2 state
 
-- C2 disposition coverage — **175/497 scans** (C06 closed with 0 discrepancy records)
-- modified canonical page files — **21**
-- literary/source corrections applied — scans **7, 21, 28, 29, 35, 47, 51, 59, 64, 70, 77, 83, 96, 113, 123, 163, 165, 175**
+- C2 disposition coverage — **200/497 scans** (C06 closed with 0 discrepancy records)
+- modified canonical page files — **25**
+- literary/source corrections applied — scans **7, 21, 28, 29, 35, 47, 51, 59, 64, 70, 77, 83, 96, 113, 123, 163, 165, 175, 188, 192, 195, 199**
 - facsimile-description policy applied — scan **8**
 - stale divergence / section-title metadata cleaned without body change — scans **40, 112**
-- protected Gemini-correct findings — scans **5, 9, 11, 13, 19, 29, 39, 40, 47, 53, 58, 64, 87, 96, 120, 174**
-- scans **176–497** — **LOCKED / C2 NOT AUTHORIZED**
+- protected Gemini-correct findings — scans **5, 9, 11, 13, 19, 29, 39, 40, 47, 53, 58, 64, 87, 96, 120, 174, 180, 199**
+- scans **201–497** — **LOCKED / C2 NOT AUTHORIZED**
 - whole-volume word-for-word verification — **NOT CLAIMED**
 - Gate G — **DEFERRED**
 
 ## Next activity
 
-Wait for the user's C2 findings/instructions for **scans 176–200**. Do not modify that batch from the historical ledger alone.
+Wait for the user's C2 findings/instructions for **scans 201–225**. Do not modify that batch from the historical ledger alone.

@@ -7,7 +7,7 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 source correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 193
 continues_to_scan: 196
@@ -45,7 +45,7 @@ continues_to_scan: 196
 ஆற்றல் கண்டு அவைச்சான்றோர் அவனைப்  
 போற்றிப் புகழ்ந்து ஏற்றி மகிழ்ந்தனர்!  
 
-\* “முடி புனைந்த முத்தோர் மறைந்து; அவர்  
+\* “முடி புனைந்த மூத்தோர் மறைந்து; அவர்  
 வழித்தோன்றல் முடியேந்தி நாடாளும் வாய்ப்புப் பெறின்  
 அவர்தம் இயல்புக்கேற்ப ஆட்சியின் தன்மை  
 அமைந்திடும் என்பேன்!  
@@ -54,5 +54,5 @@ continues_to_scan: 196
 ஊக்கமில்லாக் காரணத்தால்  
 தூக்க முடியாப் பளுவாகும் ஆட்சிப் பொறுப்பு!  
 
-<!-- Gate B restores File4 wording and source order after illustration scan 194. Displaced `அதனாலே`, `செவியேறவில்லை!`, and locked `பெறின்` are returned to their source-supported positions; printed page number `182` merged into File4 is excluded as page furniture. -->
+<!-- C2-08: user-authorized source correction applied in the quotation: `முடி புனைந்த முத்தோர் மறைந்து; அவர்` → `முடி புனைந்த மூத்தோர் மறைந்து; அவர்`. Existing source-supported placement remains unchanged. -->
 <!-- மூல ஸ்கேன் பக்கம்: 195; அச்சுப் பக்கம்: 182 -->

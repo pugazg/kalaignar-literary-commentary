@@ -7,7 +7,7 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 source correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 191
 ---
@@ -20,7 +20,7 @@ continues_from_scan: 191
 உன் தந்தைக்கும் என் தந்தைக்கும்  
 உறவுமுறை என்னவென்றோ  
 இருவர் நாம் எவ்வழியில் வந்தோர் என்றோ  
-அறிந்திட விருமபாமலே அறிமுகமானோம்!  
+அறிந்திட விரும்பாமலே அறிமுகமானோம்!  
 எங்கிருந்தோ வந்தாள் என உன்னை நானும்,  
 எங்கிருந்தோ வந்தான் என என்னை நீயும்  
 ஏற்றுக்கொண்டோம்! இதயத்தில்;  
@@ -58,5 +58,5 @@ continues_from_scan: 191
 
 \*
 
-<!-- Gate B expands File4's flattened explanatory passage into the source-visible quotation layout. The trailing File4 Markdown `**` fragment is excluded as extraction debris; no lexical source correction is made. -->
+<!-- C2-08: user-authorized source correction applied: `அறிந்திட விருமபாமலே அறிமுகமானோம்!` → `அறிந்திட விரும்பாமலே அறிமுகமானோம்!`; quotation layout is otherwise unchanged. -->
 <!-- மூல ஸ்கேன் பக்கம்: 192; அச்சுப் பக்கம்: 179 -->
