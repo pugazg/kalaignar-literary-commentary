@@ -2098,3 +2098,153 @@ Mapping: split-PDF pages **26–47 = physical scans 476–497**.
 Resolve File10's comment mapping against each physical scan before applying the lexical lock. Do not assume a one-to-one label mapping if further segmentation/replacement defects appear.
 
 Expected result after B20: **Gate B 497/497 structurally reviewed / COMPLETE**, frontier moves to **Gate C**, but **do not start Gate C in B20 unless explicitly instructed after Gate-B closure**.
+
+
+## Batch B20 — scans 476–497
+
+**Status: COMPLETE / PASS — FINAL GATE-B BATCH**
+
+- date: **2026-09-16**
+- scans reviewed: **476–497 / 22**
+- controlling source: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf`
+- lexical lock used: `File10.md`, resolved scan-by-scan against the PDF
+- batch base: `c86b9bd9548af9ff49fee892b503d80febca4501`
+- page-layer endpoint: `e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c`
+- structurally / lock-aligned changed page records: **7**
+- reviewed with no page-record change: **15** — scans **476, 477, 480, 482, 483, 485, 486, 487, 488, 489, 490, 491, 493, 496, 497**
+- unresolved structural placement issues: **0**
+- scan-led lexical correction / modernization: **0**
+
+### Final File10 mapping
+
+For the B20 remainder, File10 realigns cleanly to the printed-page comments for the physical source:
+
+- scan **476 / printed 464** → File10 Page **464**
+- scan **477** → File10 Page **465** `(Image Page)`
+- scans **478–484 / printed 466–472** → File10 Pages **466–472**
+- scan **485** → File10 Page **473** `(Image Page)`
+- scans **486–492 / printed 474–480** → File10 Pages **474–480**
+- scan **493** → File10 Page **481** `(Image Page)`
+- scans **494–496 / printed 482–484** → File10 Pages **482–484**
+- scan **497** is the physical back cover; File10 has only a trailing publisher extraction after Page 484 and no separate physical-page comment.
+
+PDF scan remains the physical/structural authority throughout.
+
+### Gate-B reconciliation performed
+
+1. **scan 476**
+   - retained the locked token `அது` but kept it in the PDF-controlled source position before `இளமையில்...`;
+   - File10 displaces the same token after `உடலில்`, so no lexical change was needed.
+
+2. **scan 478**
+   - removed source-visible `என்று` after `புலிப்போத்து` because the reliable File10 Page-466 lexical block does not lock that token;
+   - this is a durable locked omission for Gate C.
+
+3. **scan 479**
+   - restored File10/source form `நல்லவைகளாயிருக்கட்டு” மென்றான்`;
+   - the repository-normalized `நல்லவைகளாயிருக்கட்டும்” என்றான்` was not retained.
+
+4. **scan 481**
+   - removed source-visible quoted wording `எழாஅப் பாணன்` because it is absent from the reliable File10 Page-469 block;
+   - quotation structure was closed at the preceding locked wording under PDF authority;
+   - this is a durable locked omission for Gate C.
+
+5. **scan 484**
+   - restored File10/source quote-boundary wording `வேண்டு” மென்று` in place of repository-normalized `வேண்டும்” என்று`.
+
+6. **scan 492**
+   - restored File10-locked `குரல் என` in place of source-aligned repository `குரலாய் இருப்பதை`;
+   - ignored duplicated File10 `விளக்கொன்றை` as extraction duplication.
+
+7. **scan 494**
+   - restored File10-locked `பேசினாரே` and `எமாந்துபோனார்`;
+   - retained PDF-controlled placement of `உடலுக்குக் கிடைத்தது`, which File10 displaces later in the block.
+
+8. **scan 495**
+   - restored File10-locked `எனை` in place of source-aligned repository `ஏன`;
+   - retained PDF-controlled placements for `என்றழுதான்`, `உதிரும்படி`, `தடுக்கமுடியாமல்`, `மணவிழாவின்`, and `சம்மதமோ என்றாள்`, all of which exist in File10 but are displaced.
+
+### Extraction defects intentionally not promoted
+
+The following File10 forms were documented as extraction defects rather than promoted over the usable preservation layer:
+
+- scan **487** — `விட்டீர்கீர்களா` duplicated form; stray `சிறிட`;
+- scan **488** — mixed-script `செவிலித்தாய다தானே`;
+- scan **489** — malformed `உடலகத்து` instead of the usable source-aligned `உடல்தினவு`; `பொரா அது` treated as spacing/segmentation around source `பொராஅது`;
+- scan **491** — malformed in-token forms `எடுத்துக்காட்டாயைச்`, `பாற்குடயங்கள்`;
+- scan **492** — duplicated `விளக்கொன்றை`;
+- scan **496** — mixed-script `ஒன்றை만을ப்`;
+- scan **497** — trailing File10 publisher extraction `ROCK FORT Publications (1) Ltd.` does not override the PDF-visible back-cover imprint `ROCK FORT Publications (P) Ltd.`.
+
+### PDF-controlled structural placements retained
+
+- scan **482** — `நாகிள வேங்கையின்`, provenance, and `பொருள் விளக்கம்` ordering;
+- scan **483** — `மணப்` and `எனக்கு வேண்டும்` retained at their PDF positions despite File10 displacement;
+- scan **486** — `சொன்னாள்` and `சென்றுளதால்` retained at their PDF positions;
+- scan **487** — `கிடைக்காமலே போகும்` retained at its PDF position;
+- scan **488** — `என்றாள்`, `ஊரார்`, `போவதில்லை`, and `கற்பனைக்` retained at their PDF positions;
+- scans **489–490** — Akananuru quotation provenance remains on scan 489 and gloss remains on scan 490 despite File10 boundary displacement;
+- scan **494** — `உடலுக்குக் கிடைத்தது` retained at its PDF position;
+- scan **496** — `(முற்றும்)`, quotation, provenance, and `பொருள் விளக்கம்` retain the PDF-controlled order.
+
+### Illustration / cover handling confirmed
+
+- scan **477** — full-page illustration, no printed page number/body text;
+- scan **485** — full-page illustration, no printed page number/body text;
+- scan **493** — full-page illustration, no printed page number/body text;
+- scan **497** — back cover, no printed page number; publisher imprint verified visually.
+
+## Exact changed-file audit — Batch B20
+
+Page-layer compare:
+
+`c86b9bd9548af9ff49fee892b503d80febca4501` → `e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c`
+
+Result:
+
+- **1 commit ahead**
+- **exactly 7 modified page files**
+- **0 other page files**
+- **0 non-page files at the page-layer endpoint**
+
+Exact page-file set:
+
+- `works/sangatamil/pages/0478-oruthalaik-kaadhal-09-02.md`
+- `works/sangatamil/pages/0479-oruthalaik-kaadhal-09-03.md`
+- `works/sangatamil/pages/0481-oruthalaik-kaadhal-09-05.md`
+- `works/sangatamil/pages/0484-oruthalaik-kaadhal-10-02.md`
+- `works/sangatamil/pages/0492-oruthalaik-kaadhal-11-02.md`
+- `works/sangatamil/pages/0494-oruthalaik-kaadhal-11-03.md`
+- `works/sangatamil/pages/0495-oruthalaik-kaadhal-11-04.md`
+
+This B20 progress-record update is the sole intended non-page change immediately after the page-layer endpoint.
+
+# Gate B final closure
+
+**Gate B — COMPLETE / PASS**
+
+- completed batches: **B01–B20**
+- structurally reviewed: **497/497**
+- structurally remaining: **0**
+- unresolved structural placement issues: **0**
+- physical canonical coverage retained: **497/497**
+- lexical state: **Gemini-locked; not word-for-word scan verified**
+- Gate C: **NOT STARTED**
+
+Gate B is now closed and must not be reopened except for a genuinely new structural/provenance issue.
+
+## Exact next activity
+
+Start **Gate C — lexical discrepancy audit under the current lock**.
+
+Gate C is **audit-only**: compare source-visible lexical text against the locked Gemini/repository wording and record substantive discrepancies in:
+
+`works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`
+
+Do not change page wording during Gate C.
+
+Normal Gate-C batch: **25 physical scans**.
+
+Next batch: **Gate C C01 — scans 1–25**.
+
+**Do not start Gate C until the next activity is explicitly requested.**
