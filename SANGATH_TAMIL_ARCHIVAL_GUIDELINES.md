@@ -114,19 +114,20 @@ Gate C — **IN PROGRESS**:
 - C06 scans **126–150 — COMPLETE / PASS / CLEAN**
 - C07 scans **151–175 — COMPLETE / PASS**
 - C08 scans **176–200 — COMPLETE / PASS**
-- audited — **200/497**
-- remaining — **297**
-- frontier — **scan 201**
-- cumulative discrepancy records — **47**
-- latest Gate-C ledger commit — `900f657bf0ce6e59120537c386b933c1e9c07934`
+- C09 scans **201–225 — COMPLETE / PASS**
+- audited — **225/497**
+- remaining — **272**
+- frontier — **scan 226**
+- cumulative discrepancy records — **50**
+- latest Gate-C ledger commit — `7955ee08ef1e25070b7ed2c5665df077e037e838`
 - Gate C2 — **NOT STARTED / NOT AUTHORIZED**
 
 Wording state remains **Gemini-lexical-locked**, not word-for-word scan verified.
 
 Durable extraction/mapping exceptions from Gate B remain authoritative in `STRUCTURAL_FIDELITY_PROGRESS.md`.
 
-C08 execution note: the supplied PDF/File4 pair was used for scans 176–200. Seven substantive discrepancies were recorded, with no page wording changed.
+C09 execution note: the supplied PDF/File5 pair was used for scans 201–225. Three substantive discrepancies were recorded, with no page wording changed.
 
 ### Exact next activity
 
-Process Gate C C09 — **scans 201–225** using the controlling source covering that range and `File5.md` when available. Append substantive discrepancies to `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`; verify **0 page-file changes**; advance frontier to scan **226**. Do not start Gate C2.
+Process Gate C C10 — **scans 226–250** using the same supplied PDF split pages 26–50 and File5 Phase 13 / Book Pages 213–237. Append substantive discrepancies to `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`; verify **0 page-file changes**; advance frontier to scan **251**. Do not start Gate C2.

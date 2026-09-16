@@ -11,7 +11,7 @@ Last synchronized with live main: **2026-09-15**.
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–015 **ARCHIVAL-READY through scan 323**; commentary through printed page 270 / Kural 1330 |
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–015 **RELEASED through the end of the supplied volume** |
 | Thirukkural semantic structure | பால் → இயல் → அதிகாரம் | **COMPLETE — 3 பால் / 13 இயல் / 133 அதிகாரம் / 1,330 குறள் mapped** |
-| சங்கத் தமிழ் | தமிழ் | **ACTIVE — Gate A CLOSED; Gate B COMPLETE / PASS 497/497; Gate C C01–C08 COMPLETE 200/497; frontier scan 201** |
+| சங்கத் தமிழ் | தமிழ் | **ACTIVE — Gate A CLOSED; Gate B COMPLETE / PASS 497/497; Gate C C01–C09 COMPLETE 225/497; frontier scan 226** |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த source-controlled edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Kuraloviyam | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
@@ -74,10 +74,11 @@ Gate C — IN PROGRESS:
 - C06 scans 126–150 — COMPLETE / PASS / CLEAN
 - C07 scans 151–175 — COMPLETE / PASS
 - C08 scans 176–200 — COMPLETE / PASS
-- audited — 200/497
-- remaining — 297
-- frontier — scan 201
-- 47 cumulative substantive discrepancies recorded
+- C09 scans 201–225 — COMPLETE / PASS
+- audited — 225/497
+- remaining — 272
+- frontier — scan 226
+- 50 cumulative substantive discrepancies recorded
 - audit-only; canonical page wording must not change
 
 Latest B20 page-layer endpoint: e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c
@@ -102,6 +103,6 @@ MULTI_PASS_WORKFLOW.md and GEMINI_RECONCILIATION_PLAN.md are retained as histori
 
 ## அடுத்த செயல்
 
-Gate C C09 — scans 201–225 using the controlling source covering that range and `File5.md` when available. Append substantive discrepancies to `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`; do not change canonical page wording.
+Gate C C10 — scans 226–250 using the supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_005_pages_201-250.pdf` split pages 26–50 + `File5.md` Phase 13 / Book Pages 213–237. Append substantive discrepancies to `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`; do not change canonical page wording.
 
 Current handover: HANDOVER.md.
