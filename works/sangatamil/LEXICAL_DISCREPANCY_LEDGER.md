@@ -248,3 +248,73 @@ At C04 close:
 2. verify **0 canonical page files changed**;
 3. advance the Gate-C frontier to **scan 101**;
 4. do not start Gate C2.
+
+
+# C04 — scans 76–100
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-16**
+- audited scans: **76–100 / 25**
+- source: Library original `TVA_BOK_0042551_சங்கத்_தமிழ்.pdf`, physical scans **76–100**
+- locked comparison layer: current canonical page records under `works/sangatamil/pages/`
+- `File2.md` was not directly available; it was not reconstructed or inferred
+- substantive discrepancy records: **5**
+- scans containing discrepancies: **4**
+- scans with no new substantive lexical discrepancy: **21**
+- canonical page files changed: **0**
+- Gate C2 corrections: **0**
+
+Clean / no-new-substantive-discrepancy scans:
+
+**76, 78–82, 84–86, 88–95, 97–100**
+
+Special handling:
+- scans **76, 82, 86, 92, 98** are full-page illustrations and contain no literary body text;
+- punctuation-only, line-wrap, running-header/footer, quotation-layout and purely structural differences were excluded unless they materially altered lexical interpretation;
+- older pre-lock fast-transcription text was used only as a candidate witness and was accepted into the ledger only where the source-visible reading was sufficiently clear;
+- the two durable Gate-B discrepancies already carried forward at scans **83** and **96** were explicitly resolved into Gate-C ledger records, without changing the page layer.
+
+## C04 discrepancy records
+
+| ID | Scan | Printed page | Canonical page | Locked repository wording | Source-visible wording | Classification | Gate-B exception already documented? | Notes |
+|---|---:|---:|---|---|---|---|---|---|
+| C04-001 | 77 | 62 | `0077-pisiranthaiyar-1-02.md` | `பாண்டுநாட்டுச் சிற்றூரில்` | `பாண்டிநாட்டுச் சிற்றூரில்` | `likely-gemini-error` | no | The source-visible place-name form is `பாண்டிநாட்டுச்`; the locked layer substitutes `பாண்டு`. |
+| C04-002 | 83 | 68 | `0083-pisiranthaiyar-2-02.md` | locked body begins directly with `அன்னச்சேவலே! அன்னச்சேவலே!` | source contains a substantial introductory prose block before the quotation, beginning `அன்னச்சேவலை மையமாய் வைத்து...` and ending with the thought that the Chola king's generosity and affection became the song's subject | `missing-whole-lexical-block` | **yes — B04** | B04 already documented that File2 omits this source-visible prose. Gate C records the omission but does not reconstruct the missing block into the canonical page. |
+| C04-003 | 87 | 72 | `0087-pisirandhaiyar-3-02.md` | `சந்தையில் தொலைத்துவிட்ட பொருளாயிற்றே தமது மகிழ்ச்சி` | `சிந்தையில் தொலைத்துவிட்ட பொருளாயிற்றே தமது மகிழ்ச்சி` | `likely-gemini-error` | no | The source reads `சிந்தையில்`; the locked `சந்தையில்` changes “in the mind” into “in the market.” |
+| C04-004 | 96 | 81 | `0096-ulaik-kaathu-irumbum-oru-thaniveeran-01.md` | heading `லேக் களத்து ளில் இரும்பும் ஒரு துளிநீரும்!` | heading `உலைக் களத்து இரும்பும் ஒரு துளிநீரும்!` | `likely-gemini-error` | **yes — B04** | B04 already carried this malformed File2 heading forward for Gate C. The source section identity is already preserved in metadata, but the locked body heading remains unchanged. |
+| C04-005 | 96 | 81 | `0096-ulaik-kaathu-irumbum-oru-thaniveeran-01.md` | `சிவகெங்கைச் சீமை` | `சிவகங்கைச் சீமை` | `likely-gemini-error` | no | The source-visible place name is `சிவகங்கை`; the locked layer has `சிவகெங்கை`. |
+
+## C04 closure audit
+
+C04 is an **audit-only closure**.
+
+- source scans **76–100** were inspected against the preserved locked page layer;
+- **5** substantive discrepancy records were entered;
+- **0** canonical page records were edited;
+- no Gate-B page was reopened;
+- no lexical correction was promoted;
+- wording state remains **Gemini-lexical-locked / not word-for-word scan verified**.
+
+## Gate C cumulative state after C04
+
+- completed Gate-C batches: **C01–C04**
+- audited scans: **100/497**
+- cumulative substantive discrepancy records: **32**
+- remaining scans: **397**
+- next frontier: **scan 101**
+- Gate C2: **NOT STARTED / NOT AUTHORIZED**
+
+## Exact next activity
+
+Process **Gate C C05 — scans 101–125**.
+
+Controlling source:
+- Library original `TVA_BOK_0042551_சங்கத்_தமிழ்.pdf`, physical scans **101–125**;
+- matching lexical witness `File3.md` if it becomes directly available; otherwise current canonical wording remains the preserved Gemini-lock comparison layer.
+
+At C05 close:
+1. append only substantive lexical discrepancies to this ledger;
+2. verify **0 canonical page files changed**;
+3. advance the Gate-C frontier to **scan 126**;
+4. do not start Gate C2.
