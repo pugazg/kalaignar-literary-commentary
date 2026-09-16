@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; continuation of numbered historical/literary explanation about Thithan and Aiyai, including items 2 and 3; printed page number 460"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; visible wording, numbered-item structure, and line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini lexical scaffold with user-authorized C2 source correction; numbered-item structure and line order otherwise retained"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 471
 ---
@@ -16,7 +16,7 @@ continues_from_scan: 471
 விரைந்து வரும் மாலைப்பொழுதுக்குரிய
 வீரை வேண்மான் வெளியன் தித்தன் - என்று,
 முதுகூற்றனார் எனும் புலவர் - தமிழ்
-மதுவூரும் கவிமலரால் புகழ்ந்தார் தித்தனை!
+மதுவூறும் கவிமலரால் புகழ்ந்தார் தித்தனை!
 
 அம்மட்டோ?
 
@@ -56,3 +56,5 @@ continues_from_scan: 471
 நல்ல சமயம் இதுதான் என்றும் - இதனை
 நழுவ விடுதல் கூடாதென்றும்,
 பவானியாற்றுப் பகுதி ஆண்ட சேரர் தலைவன்
+
+<!-- C2-19: user-authorized source correction applied: `மதுவூரும்` → `மதுவூறும்`. -->

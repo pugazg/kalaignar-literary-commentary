@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "numbered unit 6 opening; victory procession and Narkannai watching Perunarkilli; printed page number 444"
 language: "ta"
-transcription_method: "Gemini lexical scaffold used only as aid; visible wording and line order checked directly against controlling source scan; textual/visual verification deferred"
+transcription_method: "Gemini lexical scaffold with user-authorized C2 source correction and protected Gemini reading; visible wording and line order otherwise retained"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -31,7 +31,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 கூட்டுக்குள் கிடக்குமோ நற்கண்ணைக் கிளி மட்டும்?
 
 “வெற்றி யாருக்கு?” என விரைந்தோடி வந்தவளை,
-“வேறு யாருக்குப் கிட்டும்?” எனத் தழுவிக் கொண்டு,
+“வேறு யாருக்குக் கிட்டும்?” எனத் தழுவிக் கொண்டு,
 சுற்றிச் சுழன்றாடுகின்றாள் பொற்கொடியாள்! அந்தச்
 சுந்தரியோ மகிழ்ச்சியெனும் சுமைதாங்க முடியாமல்
 தள்ளாடுகின்றாள்!
@@ -50,3 +50,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 
 ஆமூர் வீதிகளின் இருமருங்கும் வாயிலோரம்
 ஆடவர் பெண்டிர் அகலவிழித் திறந்துகொண்டு
+
+<!-- C2-19: user-authorized source correction applied: `வேறு யாருக்குப் கிட்டும்?` → `வேறு யாருக்குக் கிட்டும்?`; user-confirmed Gemini reading `முகம், மழிக்க நேரமில்லை போலும்` remains protected unchanged. -->

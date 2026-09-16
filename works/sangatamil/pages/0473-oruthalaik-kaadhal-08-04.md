@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running author header; continuation of the account of Palverkatti, Thithan and Perunarkilli, followed by Narkannai's journey to Uraiyur and numbered item 5; printed page number 461"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; visible wording, old-glyph readings, numbered-item structure, and line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini lexical scaffold with user-authorized C2 source correction; old-glyph readings, numbered-item structure, and line order otherwise retained"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 472
 ---
@@ -17,7 +17,7 @@ continues_from_scan: 472
 தித்தன் மகளாம் தித்திப்பு மாங்கனியை மணப்பதற்கு
 முத்திரை ஓலையொன்றுடன் தூதனை அனுப்பிவைத்தான்.
 
-4. ஒலையில் உள்ள குறிப்பில்; உறையூர்க்கிணையான
+4. ஓலையில் உள்ள குறிப்பில்; உறையூர்க்கிணையான
 ஒப்பிலா ஒளிபொழியும் நவமணிகள் பலவற்றை உமக்குக்
 கொடுத்தபின், கொள்கிறேன் உமது பெண்ணையென்று,
 எழுத்தின்மூலம் உரைத்தது கண்டு,
@@ -55,3 +55,5 @@ continues_from_scan: 472
 அன்னாய்! உன் மகன் எங்கே? என்றாள்!
 தமிழை மட்டுமல்ல; தன் மகனையும் காதலிக்கும்
 தங்கநிலா நற்கண்ணை என்பதறிந்த காவற்பெண்டு;
+
+<!-- C2-19: user-authorized source correction applied: `ஒலையில் உள்ள குறிப்பில்;` → `ஓலையில் உள்ள குறிப்பில்;`. -->

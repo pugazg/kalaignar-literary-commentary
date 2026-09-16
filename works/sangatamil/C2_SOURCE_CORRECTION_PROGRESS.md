@@ -24,10 +24,11 @@ The user explicitly opened C2 in manual batches and supplied adjudications that 
 - **C2-16 — scans 376–400**
 - **C2-17 — scans 401–425**
 - **C2-18 — scans 426–450**
+- **C2-19 — scans 451–475**
 
 The historical Gate-C ledger remains an audit record. Where the user's manual C2 adjudication disagrees with the earlier Gate-C interpretation, **the user's adjudication controls**.
 
-Scans **451–497 remain Gemini-lexical-locked** until the user supplies further instructions.
+Scans **476–497 remain Gemini-lexical-locked** until the user supplies further instructions.
 
 ## C2-01 — scans 1–25
 
@@ -321,18 +322,44 @@ C2-17 page files modified: **402, 404, 413, 420, 421, 422**. Scan **410** requir
 
 C2-18 page files modified: **430, 431, 435, 436, 441, 442, 448**. Scans **429** and **434** required no edits.
 
+
+## C2-19 — scans 451–475
+
+**Status: COMPLETE / APPLIED**
+
+| Gate-C ID | Scan | User adjudication | Repository action |
+|---|---:|---|---|
+| C19-001 | 451 | source `உறையூரின் சோழமகன் போர்முனைக்குச் செல்லும்போது` — Gemini error | corrected `சோழன்` → `சோழமகன்` |
+| C19-002 | 451 | source `அறிவுரை புகன்ற அன்னை, அவளை விட்டகன்றபின்னே` — Gemini error | corrected `அவனை` → `அவளை` |
+| C19-003 | 454 | source `கன்னியென்னையும் கனவொன்று மெய்மறக்கச்` — Gemini error | corrected `கின்னியென்னையும்` → `கன்னியென்னையும்` |
+| C19-004 | 455 | `காதலரிருவர் கட்டுண்டு மகிழ்ந்திருப்போம்!` — Gemini is correct | no change; protected |
+| C19-005 | 455 | `கண்கள் செய்த தவறாலே விழித்துக் கொண்டேன்;` — Gemini is correct | no change; protected |
+| C19-006 | 456 | source `“வேறு யாருக்குக் கிட்டும்?”` — Gemini error | corrected `யாருக்குப்` → `யாருக்குக்` |
+| C19-007 | 456 | `முகம், மழிக்க நேரமில்லை போலும்` — Gemini is correct | no change; protected |
+| C19-008 | 458 | `கொலைக்காடாய் ஆக்குகின்ற போர் ஒன்று தேவைதானா?` — Gemini is correct | no change; protected |
+| C19-009 | 463 | `சோகத்தின் ஆழத்திலிருந்து கண்ணோளியைப் பாயவிட்டு` — Gemini is correct | no change; protected |
+| C19-010 | 467 | `இறாமீனின் உடல்போன்றுச் சொரசொரப்புக் கொண்ட` — Gemini is correct | no change; protected |
+| C19-011 | 467 | `சுறாமீனின் முகத்தில் நீண்ட கொம்புகள் போல்` — Gemini is correct | no change; protected |
+| C19-012 | 468 | glossary `இறவு = இறாமீன்.` — Gemini is correct | no change; protected |
+| C19-013 | 468 | glossary `சுறவு = சுறாமீன்.` — Gemini is correct | no change; protected |
+| C19-014 | 470 | `கவிகற்ற உன்நெஞ்சுக் கென்நிலை புரியுமம்மா!` — Gemini is correct | no change; protected |
+| C19-015 | 472 | source `மதுவூறும் கவிமலரால் புகழ்ந்தார் தித்தனை!` — Gemini error | corrected `மதுவூரும்` → `மதுவூறும்` |
+| C19-016 | 473 | source `ஓலையில் உள்ள குறிப்பில்;` — Gemini error | corrected `ஒலையில்` → `ஓலையில்` |
+
+C2-19 page files modified: **451, 454, 456, 472, 473**.
+
 ## Cumulative C2 state
 
-- C2 disposition coverage — **450/497 scans** (C06 closed with 0 discrepancy records)
-- modified canonical page files — **67**
-- literary/source corrections applied — scans **7, 21, 28, 29, 35, 47, 51, 59, 64, 70, 77, 83, 96, 113, 123, 163, 165, 175, 188, 192, 195, 199, 208, 221, 223, 226, 230, 237, 240, 248, 254, 257, 281, 288, 292, 294, 296, 304, 307, 309, 312, 313, 326, 328, 340, 352, 361, 363, 373, 377, 383, 402, 404, 413, 420, 421, 422, 430, 431, 435, 436, 441, 442, 448**
+- C2 disposition coverage — **475/497 scans** (C06 closed with 0 discrepancy records)
+- modified canonical page files — **72**
+- literary/source corrections applied — scans **7, 21, 28, 29, 35, 47, 51, 59, 64, 70, 77, 83, 96, 113, 123, 163, 165, 175, 188, 192, 195, 199, 208, 221, 223, 226, 230, 237, 240, 248, 254, 257, 281, 288, 292, 294, 296, 304, 307, 309, 312, 313, 326, 328, 340, 352, 361, 363, 373, 377, 383, 402, 404, 413, 420, 421, 422, 430, 431, 435, 436, 441, 442, 448, 451, 454, 456, 472, 473**
 - facsimile-description policy applied — scan **8**
 - stale divergence / section-title metadata cleaned without body change — scans **40, 112**
-- protected Gemini-correct findings — scans **5, 9, 11, 13, 19, 29, 39, 40, 47, 53, 58, 64, 87, 96, 120, 174, 180, 199, 257, 274, 312, 313, 331, 359, 360, 364, 366, 370, 383, 410, 429, 434**
-- scans **451–497** — **LOCKED / C2 NOT AUTHORIZED**
+- protected Gemini-correct findings — scans **5, 9, 11, 13, 19, 29, 39, 40, 47, 53, 58, 64, 87, 96, 120, 174, 180, 199, 257, 274, 312, 313, 331, 359, 360, 364, 366, 370, 383, 410, 429, 434, 455, 456, 458, 463, 467, 468, 470**
+- scans **476–497** — **LOCKED / C2 NOT AUTHORIZED**
 - whole-volume word-for-word verification — **NOT CLAIMED**
 - Gate G — **DEFERRED**
 
 ## Next activity
 
-Wait for the user's C2 findings/instructions for **scans 451–475**. Do not modify that batch from the historical ledger alone.
+Wait for the user's C2 findings/instructions for **scans 476–497**. Do not modify that batch from the historical ledger alone.

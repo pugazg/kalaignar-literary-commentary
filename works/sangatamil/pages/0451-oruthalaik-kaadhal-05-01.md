@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "decorative numbered unit 5 opening; mother's admonition to Narkannai; printed page number 439"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; numbered-unit heading and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini lexical scaffold with user-authorized C2 source corrections; numbered-unit heading and visible line order otherwise retained"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -26,7 +26,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 உச்சிமலை மீதுள்ள குறிஞ்சி மலர் பறிப்பதற்கு
 ஊனமுற்றுக் கால்நொண்டும் பெண்ணொருத்தி முனையலாமா?
 உருள்பெருந்தேரின் கலசத்தில் ஒளிர்கின்ற கொடி அசைய,
-உறையூரின் சோழன் போர்முனைக்குச் செல்லும்போது; நீ
+உறையூரின் சோழமகன் போர்முனைக்குச் செல்லும்போது; நீ
 ஓடிச்சென்று வழிமறித்து உரையாடல் நிகழ்த்தியதை
 ஊர்கண்டால் என்ன சொல்லும்?
 பேர்கொண்ட பெருவணிகன் குடும்பத்துக்கோர் இழுக்குவரின்
@@ -40,6 +40,8 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 தூங்கித் தொலைத்திடுக; முன்போல சேல்கெண்டை ஆகிவிடும்!”
 
 ஆத்திரத்தைக் காட்டியும் அரவணைப்பைக் கொட்டியும்
-அறிவுரை புகன்ற அன்னை, அவனை விட்டகன்றபின்னே
+அறிவுரை புகன்ற அன்னை, அவளை விட்டகன்றபின்னே
 “அவளை மறப் பதெனில் என் ஆவியைத் துறக்க வேண்டும்”
 என்றலறி,
+
+<!-- C2-19: user-authorized source corrections applied: `உறையூரின் சோழன்` → `உறையூரின் சோழமகன்`, and `அவனை விட்டகன்றபின்னே` → `அவளை விட்டகன்றபின்னே`. -->

@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; continuation of the friend's counsel followed by Narkannai beginning a dream narrative; centered separators; printed page number 442"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; visible wording and line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini lexical scaffold with user-authorized C2 source correction; visible wording and line order otherwise retained"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 453
 ---
@@ -53,5 +53,7 @@ continues_from_scan: 453
 அடர்த்திமிகு காட்டகத்து நெல்லிக்கனியின்
 இளம்புளிப்புச் சுவையை நுகர்வதாக,
 இனிய கனவொன்று கண்டது போல்;
-கின்னியென்னையும் கனவொன்று மெய்மறக்கச்
+கன்னியென்னையும் கனவொன்று மெய்மறக்கச்
 செய்ததடி!
+
+<!-- C2-19: user-authorized source correction applied: `கின்னியென்னையும்` → `கன்னியென்னையும்`. -->
