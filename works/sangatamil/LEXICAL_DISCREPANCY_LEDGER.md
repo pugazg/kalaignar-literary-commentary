@@ -1363,3 +1363,100 @@ At C19 close:
 2. verify **0 canonical page files changed**;
 3. advance the Gate-C frontier to **scan 476**;
 4. do not start Gate C2.
+
+
+# C19 — scans 451–475
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-16**
+- audited scans: **451–475 / 25**
+- controlling source: user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf`, split pages **1–25**
+- direct Gemini lexical witness: user-supplied `File10.md`, only where the B19-resolved block is reliable
+- substantive discrepancy records: **16**
+- scans containing discrepancies: **11**
+- scans with no new substantive lexical discrepancy: **14**
+- canonical page files changed: **0**
+- Gate C2 corrections: **0**
+
+Clean / no-new-substantive-discrepancy scans:
+
+**452–453, 457, 459–462, 464–466, 469, 471, 474–475**
+
+Special handling:
+- full-page illustration scans: **453, 457, 465, 471**;
+- scans **451–461** were mapped against File10 comments **439–449**;
+- File10 Page **449** was used only through `இனி ஆற்றுவதுதான் எவ்வாறு தோழி?`; its replacement-material tail was not used as lexical authority;
+- scan **462 / printed 450** has no reliable File10 lexical block and was audited directly against the source/repository preservation layer;
+- scans **463–468** were mapped against File10 comments **450–455**;
+- File10 Page **456** is a phantom image marker with no corresponding physical scan and was ignored;
+- scans **469–475** were mapped against File10 comments **457–463**;
+- documented extraction defects such as scan 451 stray `ற`, scan 456 `மிகக்குடிக்குமோ`, scan 460 `புக்பாட்டு`, scan 463 stray `தன்`, and scan 469 `போட்டுடைட்டதேனோ` were not promoted into lexical discrepancy records;
+- punctuation-only, spacing-only, line-wrap, running-header/footer and purely structural differences were excluded unless they materially altered lexical interpretation.
+
+## C19 discrepancy records
+
+| ID | Scan | Printed page | Canonical page | Locked File10 / repository wording | Source-visible / source-aligned wording | Classification | Gate-B exception already documented? | Notes |
+|---|---:|---:|---|---|---|---|---|---|
+| C19-001 | 451 | 439 | `0451-oruthalaik-kaadhal-05-01.md` | `உறையூரின் சோழன் போர்முனைக்குச் செல்லும்போது` | source `உறையூரின் சோழமகன் போர்முனைக்குச் செல்லும்போது` | `likely-gemini-error` | **yes — B19** | File10/canonical omit the lexical component `மகன்` from `சோழமகன்`. |
+| C19-002 | 451 | 439 | `0451-oruthalaik-kaadhal-05-01.md` | `அறிவுரை புகன்ற அன்னை, அவனை விட்டகன்றபின்னே` | source `அறிவுரை புகன்ற அன்னை, அவளை விட்டகன்றபின்னே` | `likely-gemini-error` | **yes — B19** | Source object pronoun is feminine `அவளை`; locked layer has `அவனை`. |
+| C19-003 | 454 | 442 | `0454-oruthalaik-kaadhal-05-03.md` | `கின்னியென்னையும் கனவொன்று மெய்மறக்கச்` | source `கன்னியென்னையும் கனவொன்று மெய்மறக்கச்` | `likely-gemini-error` | **yes — B19** | Direct visual source confirms `கன்னியென்னையும்`. |
+| C19-004 | 455 | 443 | `0455-oruthalaik-kaadhal-05-04.md` | `காதலரிருவர் கட்டுண்டு மகிழ்ந்திருப்போம்!` | source `காதலிருவர் கட்டுண்டு மகிழ்ந்திருப்போம்!` | `likely-gemini-error` | **yes — B19** | Source reads `காதலிருவர்`, without the locked medial `ர்`. |
+| C19-005 | 455 | 443 | `0455-oruthalaik-kaadhal-05-04.md` | `கண்கள் செய்த தவறாலே விழித்துக் கொண்டேன்;` | source `கண்கள் செய்த தவறிலே விழித்துக் கொண்டேன்;` | `likely-gemini-error` | **yes — B19** | Source locative form is `தவறிலே`; locked layer has `தவறாலே`. |
+| C19-006 | 456 | 444 | `0456-oruthalaik-kaadhal-06-01.md` | `“வேறு யாருக்குப் கிட்டும்?”` | source `“வேறு யாருக்குக் கிட்டும்?”` | `likely-gemini-error` | **yes — B19** | Direct visual source confirms the conjunct `யாருக்குக்`. |
+| C19-007 | 456 | 444 | `0456-oruthalaik-kaadhal-06-01.md` | `முகம், மழிக்க நேரமில்லை போலும்` | source `முகம், மழிக்க நேரமில்லே போலும்` | `old-or-uncommon-form` | **yes — B19** | The source uses the colloquial/older-looking `நேரமில்லே`; File10/canonical normalize it to `நேரமில்லை`. |
+| C19-008 | 458 | 446 | `0458-oruthalaik-kaadhal-06-02.md` | `கொலைக்காடாய் ஆக்குகின்ற போர் ஒன்று தேவைதானா?` | source `கொலைக்காடாய் ஆக்குகின்ற போர் ஒன்று தேவைதானு?` | `old-or-uncommon-form` | **yes — B19** | High-resolution source recheck confirms the final `தேவைதானு?` form. |
+| C19-009 | 463 | 451 | `0463-oruthalaik-kaadhal-07-01.md` | `சோகத்தின் ஆழத்திலிருந்து கண்ணோளியைப் பாயவிட்டு` | source `சோகத்தின் ஆழத்திலிருந்து கண்ணொளியைப் பாயவிட்டு` | `likely-gemini-error` | **yes — B19** | Source reads `கண்ணொளியைப்`; locked layer has `கண்ணோளியைப்`. |
+| C19-010 | 467 | 455 | `0467-oruthalaik-kaadhal-07-04.md` | `இறாமீனின் உடல்போன்றுச் சொரசொரப்புக் கொண்ட` | source `இறுமீனின் உடல்போன்றுச் சொரசொரப்புக் கொண்ட` | `likely-gemini-error` | **yes — B19** | Direct source inspection confirms `இறுமீனின்`. |
+| C19-011 | 467 | 455 | `0467-oruthalaik-kaadhal-07-04.md` | `சுறாமீனின் முகத்தில் நீண்ட கொம்புகள் போல்` | source `சுறுமீனின் முகத்தில் நீண்ட கொம்புகள் போல்` | `likely-gemini-error` | **yes — B19** | Direct source inspection confirms `சுறுமீனின்`. |
+| C19-012 | 468 | 456 | `0468-oruthalaik-kaadhal-07-05.md` | glossary `இறவு = இறாமீன்.` | source glossary `இறவு = இறுமீன்.` | `likely-gemini-error` | **yes — B19** | Same lexical divergence is repeated in the source glossary. |
+| C19-013 | 468 | 456 | `0468-oruthalaik-kaadhal-07-05.md` | glossary `சுறவு = சுறாமீன்.` | source glossary `சுறவு = சுறுமீன்.` | `likely-gemini-error` | **yes — B19** | Same lexical divergence is repeated in the source glossary. |
+| C19-014 | 470 | 458 | `0470-oruthalaik-kaadhal-08-02.md` | `கவிகற்ற உன்நெஞ்சுக் கென்நிலை புரியுமம்மா!` | source `கவிகற்ற உன்நெஞ்சுக் கெந்நிலை புரியுமம்மா!` | `likely-gemini-error` | **yes — B19** | Source has assimilated `கெந்நிலை`; locked layer has `கென்நிலை`. |
+| C19-015 | 472 | 460 | `0472-oruthalaik-kaadhal-08-03.md` | `மதுவூரும் கவிமலரால் புகழ்ந்தார் தித்தனை!` | source `மதுவூறும் கவிமலரால் புகழ்ந்தார் தித்தனை!` | `likely-gemini-error` | **yes — B19** | Source verb is `மதுவூறும்`; locked layer changes `ற` to `ர`. |
+| C19-016 | 473 | 461 | `0473-oruthalaik-kaadhal-08-04.md` | `ஒலையில் உள்ள குறிப்பில்;` | source `ஓலையில் உள்ள குறிப்பில்;` | `likely-gemini-error` | **yes — B19** | Source noun is `ஓலை`; locked layer shortens the initial vowel. |
+
+## C19 closure audit
+
+C19 is an **audit-only closure**.
+
+- source scans **451–475** were visually inspected against File10 only where the B19-resolved lexical block is reliable;
+- missing/replaced/phantom File10 segments were not assigned synthetic mappings;
+- **16** substantive discrepancy records were entered across **11** scans;
+- **0** canonical page records were edited;
+- no Gate-B page was reopened;
+- no lexical correction was promoted;
+- wording state remains **Gemini-lexical-locked / not word-for-word scan verified**.
+
+## Gate C cumulative state after C19
+
+- completed Gate-C batches: **C01–C19**
+- audited scans: **475/497**
+- cumulative substantive discrepancy records: **134**
+- remaining scans: **22**
+- next frontier: **scan 476**
+- Gate C2: **NOT STARTED / NOT AUTHORIZED**
+
+## Exact next activity
+
+Process **Gate C C20 — final remainder scans 476–497**.
+
+Available direct source pair:
+- user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf`, split pages **26–47** / physical scans **476–497**;
+- user-supplied `File10.md`, resolved scan-by-scan against the PDF.
+
+B20 mapping:
+- scan **476 / printed 464** → File10 Page **464**;
+- scan **477** → File10 Page **465** `(Image Page)`;
+- scans **478–484 / printed 466–472** → File10 Pages **466–472**;
+- scan **485** → File10 Page **473** `(Image Page)`;
+- scans **486–492 / printed 474–480** → File10 Pages **474–480**;
+- scan **493** → File10 Page **481** `(Image Page)`;
+- scans **494–496 / printed 482–484** → File10 Pages **482–484**;
+- scan **497** is the physical back cover; File10 has only a trailing publisher extraction after Page 484 and no separate physical-page comment.
+
+At C20 close:
+1. append only substantive lexical discrepancies to this ledger;
+2. verify **0 canonical page files changed**;
+3. close Gate C at **497/497 audited**;
+4. do not start Gate C2 unless explicitly authorized by the user;
+5. derive the next non-C2 activity from the productive completion plan and synchronize all operational docs.
