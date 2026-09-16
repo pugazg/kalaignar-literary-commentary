@@ -8,12 +8,13 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "decorative multicolour section heading; source heading includes 'கிலு கிலுப்பை' omitted by Gemini scaffold"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 heading restoration"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
+# கிலு கிலுப்பை
 # வழங்கும்
-# கிறுகிறப்பு!
+# கிறுகிறுப்பு!
 
 தடையின்றிக் கொடை வழங்கும் சேர சோழ பாண்டியரை
 கடையேழு வள்ளல்களைக் குறுநில மன்னவனாம்;
@@ -40,5 +41,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 கொற்கைக் கடற்கரை நோக்கி விற்பனைக்கு உப்பு வாங்க;
 கூட்டமாய் வண்டிகட்டி வருகின்றார் வணிக மக்கள்!
 
-<!-- Gate B preserves only the File6-supported decorative body heading `வழங்கும் / கிறுகிறப்பு!`; the source-visible omitted words `கிலு கிலுப்பை` remain represented by section metadata/visual notes rather than being source-recovered into the locked body. Stray File6 numeric `2` is excluded. -->
+<!-- C2-12: user-authorized source heading restoration applied: `கிலு கிலுப்பை / வழங்கும் / கிறுகிறுப்பு!`; missing opening words restored and `கிறுகிறப்பு!` corrected to `கிறுகிறுப்பு!`. -->
 <!-- மூல ஸ்கேன் பக்கம்: 281; அச்சுப் பக்கம்: 269 -->

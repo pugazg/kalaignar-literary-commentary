@@ -8,11 +8,11 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "decorative multicolour section heading; body text; printed page number 280"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 heading correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
-# ஒல்லையூபில்
+# ஒல்லையூரில்
 # முல்லையோ?
 
 முல்லைக்கூட்டம் பந்தலிட்டு மணக்கும் மூதூராம்
@@ -44,4 +44,4 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 மலைபிளந்து வருகின்ற வேல் போல ஒரு செய்தி
 மாத்தமிழர் நாடெங்கும் பரவிற்றாங்கே!
 
-<!-- Gate B keeps the source-visible section identity `ஒல்லையூரில் முல்லையோ?` in metadata while preserving File6-locked body heading `ஒல்லையூபில் / முல்லையோ?` and locked readings `திருமகனாம்`, `வல்லவனை`, `வள்ளல்தனை`, `கொடியிற்`, and `பரவிற்றாங்கே!`. -->
+<!-- C2-12: user-authorized source heading correction applied: `ஒல்லையூபில்` → `ஒல்லையூரில்`; all other locked readings on this page remain unchanged. -->

@@ -8,11 +8,11 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "decorative multicolour section heading; body text; printed page number 276"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 heading correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
-# இவறியாடும்
+# வெறியாடும்
 # வேலன்
 # எதற்காக?
 
@@ -45,4 +45,4 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 நள்ளிரவில் நான் விழித்துப் பார்க்கும் போதும்
 புள்ளிமயில் புரளுகின்றாள் உறக்கமின்றி!
 
-<!-- Gate B records source section identity `வெறியாடும் வேலன் எதற்காக?` in metadata while preserving File6-locked body heading `இவறியாடும் / வேலன் / எதற்காக?`; locked `அவர்` is restored to its source-supported carryover position and stray numeric `66` remains excluded. -->
+<!-- C2-12: user-authorized source heading correction applied: `இவறியாடும்` → `வெறியாடும்`; decorative three-line layout and existing `அவர்` carryover placement remain unchanged. -->

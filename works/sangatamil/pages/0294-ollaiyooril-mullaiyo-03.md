@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; continuation text; section-closing quotation begins near page foot; printed page number 282"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; page structure and quotation onset checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini lexical scaffold with user-authorized C2 repository-divergence correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 293
 ---
@@ -18,7 +18,7 @@ continues_from_scan: 293
 புலவர்!
 குடவாயில் ஊர்நோக்கிச் செல்கின்ற வழியினிலே
 கொடை வீரன் பெருஞ்சாத்தன் நாட்டுக்குள் நுழைந்தார்!
-ஒல்லையூர் பகுதி எல்லையிலே கால்பட்டதுமே - அங்கு
+ஒல்லையூர்ப் பகுதி எல்லையிலே கால்பட்டதுமே - அங்கு
 முல்லை மணம் கமழ்ந்தெங்கும் படர்ந்துள்ள கொடிகள் மீது
 அவர் கண் பட்டதுவாம்!
 
@@ -50,3 +50,5 @@ continues_from_scan: 293
 > நல்யாழ் மடுப்பின் மெல்ல வாங்கிப்
 > பாணன் சூடான்; பாடினி அணியாள்!
 > ஆண்மை தோன்ற ஆடவர்க் கடந்த
+
+<!-- C2-12: user-authorized repository-divergence correction applied: `ஒல்லையூர் பகுதி எல்லையிலே` → `ஒல்லையூர்ப் பகுதி எல்லையிலே`, matching File6 and source. -->

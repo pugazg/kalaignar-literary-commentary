@@ -17,10 +17,11 @@ The user explicitly opened C2 in manual batches and supplied adjudications that 
 - **C2-09 — scans 201–225**
 - **C2-10 — scans 226–250**
 - **C2-11 — scans 251–275**
+- **C2-12 — scans 276–300**
 
 The historical Gate-C ledger remains an audit record. Where the user's manual C2 adjudication disagrees with the earlier Gate-C interpretation, **the user's adjudication controls**.
 
-Scans **276–497 remain Gemini-lexical-locked** until the user supplies further instructions.
+Scans **301–497 remain Gemini-lexical-locked** until the user supplies further instructions.
 
 ## C2-01 — scans 1–25
 
@@ -187,18 +188,34 @@ C2-10 page files modified: **226, 230, 237, 240, 248**.
 
 C2-11 page files modified: **254, 257**.
 
+
+## C2-12 — scans 276–300
+
+**Status: COMPLETE / APPLIED**
+
+| Gate-C ID | Scan | User adjudication | Repository action |
+|---|---:|---|---|
+| C12-001 | 281 | exact source decorative heading `கிலு கிலுப்பை / வழங்கும் / கிறுகிறுப்பு!` — Gemini error | restored missing `கிலு கிலுப்பை` and corrected `கிறுகிறப்பு!` → `கிறுகிறுப்பு!` |
+| C12-002 | 288 | source heading `வெறியாடும் / வேலன் / எதற்காக?` — Gemini error | corrected `இவறியாடும்` → `வெறியாடும்`; preserved three-line layout |
+| C12-003 | 290 | source/canonical `முறித்துப் போட்டதுபோல் நெளிகின்றாள், வளைகின்றாள்!` — File6/Gemini error | no canonical change; page already source-aligned |
+| C12-004 | 292 | source heading `ஒல்லையூரில் / முல்லையோ?` — Gemini error | corrected `ஒல்லையூபில்` → `ஒல்லையூரில்` |
+| C12-005 | 294 | File6/source `ஒல்லையூர்ப் பகுதி எல்லையிலே` — repository-only divergence / Gemini error | restored missing sandhi `ப்`: `ஒல்லையூர் பகுதி` → `ஒல்லையூர்ப் பகுதி` |
+| C12-006 | 296 | exact source heading `மறு பிறப்பு / உண்டென்றால் / மறக்க / நேரிடுமோ?` — Gemini error | restored the complete four-line decorative heading in canonical body |
+
+C2-12 page files modified: **281, 288, 292, 294, 296**. Scan **290** required no canonical edit because the repository already held the source-aligned wording.
+
 ## Cumulative C2 state
 
-- C2 disposition coverage — **275/497 scans** (C06 closed with 0 discrepancy records)
-- modified canonical page files — **35**
-- literary/source corrections applied — scans **7, 21, 28, 29, 35, 47, 51, 59, 64, 70, 77, 83, 96, 113, 123, 163, 165, 175, 188, 192, 195, 199, 208, 221, 223, 226, 230, 237, 240, 248, 254, 257**
+- C2 disposition coverage — **300/497 scans** (C06 closed with 0 discrepancy records)
+- modified canonical page files — **40**
+- literary/source corrections applied — scans **7, 21, 28, 29, 35, 47, 51, 59, 64, 70, 77, 83, 96, 113, 123, 163, 165, 175, 188, 192, 195, 199, 208, 221, 223, 226, 230, 237, 240, 248, 254, 257, 281, 288, 292, 294, 296**
 - facsimile-description policy applied — scan **8**
 - stale divergence / section-title metadata cleaned without body change — scans **40, 112**
 - protected Gemini-correct findings — scans **5, 9, 11, 13, 19, 29, 39, 40, 47, 53, 58, 64, 87, 96, 120, 174, 180, 199, 257, 274**
-- scans **276–497** — **LOCKED / C2 NOT AUTHORIZED**
+- scans **301–497** — **LOCKED / C2 NOT AUTHORIZED**
 - whole-volume word-for-word verification — **NOT CLAIMED**
 - Gate G — **DEFERRED**
 
 ## Next activity
 
-Wait for the user's C2 findings/instructions for **scans 276–300**. Do not modify that batch from the historical ledger alone.
+Wait for the user's C2 findings/instructions for **scans 301–325**. Do not modify that batch from the historical ledger alone.
