@@ -7,7 +7,7 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 source correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 162
 continues_to_scan: 164
@@ -37,7 +37,7 @@ continues_to_scan: 164
 நின்னும் நின் மலையும் பாடி வருநர்க்கு  
 இன்முகம் கரவாது உவந்து நீ அளித்த  
 அண்ணல் யானை எண்ணின், கொங்கர்க்  
-குடகடல் ஓடிய ஞான்றைத்  
+குடகடல் ஓட்டிய ஞான்றைத்  
 தலைப்பெயர்த் திட்ட வேலினும் பலவே!''
 
 (புறநானூறு : பாடல் : 130)
@@ -57,5 +57,5 @@ continues_to_scan: 164
 
 (புறநானூறு : பாடல் : 132)
 
-<!-- Gate B expands File4's flattened quotation extraction into the source-visible four quotation/provenance units. Dotted omission rows are preserved as source punctuation; no lexical wording is source-corrected. -->
+<!-- C2-07: user-authorized source correction applied in the பாடல் 130 quotation: `குடகடல் ஓடிய ஞான்றைத்` → `குடகடல் ஓட்டிய ஞான்றைத்`. Existing quotation/provenance structure is otherwise unchanged. -->
 <!-- மூல ஸ்கேன் பக்கம்: 163; அச்சுப் பக்கம்: 150 -->

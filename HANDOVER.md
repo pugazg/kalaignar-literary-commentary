@@ -660,12 +660,14 @@ Use `works/kuraloviyam/sections/entries/index.json` as the preferred structured 
 - C2-03 scans **51–75 — COMPLETE / APPLIED**
 - C2-04 scans **76–100 — COMPLETE / APPLIED**
 - C2-05 scans **101–125 — COMPLETE / APPLIED**
+- C2-06 scans **126–150 — COMPLETE / NO DISCREPANCY RECORDS / NO PAGE ACTION**
+- C2-07 scans **151–175 — COMPLETE / APPLIED**
 - durable record — `works/sangatamil/C2_SOURCE_CORRECTION_PROGRESS.md`
-- scan 8 handwritten முன்னுரை — description-only; no handwriting transcription required
-- user-confirmed Gemini-correct readings remain protected; C2-05 protects scan **120**
-- C2-05 exact heading adjudication at scan **112** corrected stale section metadata; body heading already matched
-- C2-05 missing source blocks restored at scans **113, 123** from the user-supplied source PDF
-- scans **126–497 — LOCKED / C2 NOT AUTHORIZED**
+- C2 disposition coverage — **175/497 scans**
+- C2-07 user-authorized corrections applied at scans **163, 165, 175**
+- C2-07 protected Gemini-correct reading — scan **174**
+- scan **175** exact heading — `நீலமலை நீரினும் குளிர்ந்த நெஞ்சம்!`; scan 176+ remains locked
+- scans **176–497 — LOCKED / C2 NOT AUTHORIZED**
 - whole-volume word-for-word verification — **NOT CLAIMED**
 - Gate G — **DEFERRED**
-- exact next activity — **wait for user's C2 findings/instructions for scans 126–150**
+- exact next activity — **wait for user's C2 findings/instructions for scans 176–200**

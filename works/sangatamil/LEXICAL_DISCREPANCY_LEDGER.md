@@ -23,7 +23,7 @@ Gate C is **audit-only**.
 
 ## Gate C2 superseding adjudication
 
-Gate C is a historical audit record. The user has now manually adjudicated **scans 1–125** under Gate C2. Those manual rulings supersede the earlier automated interpretation for correction decisions.
+Gate C is a historical audit record. C2 disposition is now complete through **scan 175**: scans 1–125 and 151–175 were manually adjudicated, while scans 126–150 contain no Gate-C discrepancy records and required no page action. Those manual rulings supersede the earlier automated interpretation for correction decisions.
 
 Durable Gate-C2 record: `C2_SOURCE_CORRECTION_PROGRESS.md`.
 
@@ -33,9 +33,11 @@ Important:
 - C2-03 scans **51–75 — COMPLETE / APPLIED**;
 - C2-04 scans **76–100 — COMPLETE / APPLIED**;
 - C2-05 scans **101–125 — COMPLETE / APPLIED**;
+- C2-06 scans **126–150 — COMPLETE / NO DISCREPANCY RECORDS / NO PAGE ACTION**;
+- C2-07 scans **151–175 — COMPLETE / APPLIED**;
 - entries the user marks **Gemini is correct** are protected and must not be source-corrected;
 - scan **8** is a handwritten letter/facsimile and is description-only by user instruction;
-- scans **126–497 remain locked** and historical Gate-C rows for those scans are **not authorization to edit**.
+- scans **176–497 remain locked** and historical Gate-C rows for those scans are **not authorization to edit**.
 
 
 ## Execution note
@@ -1565,12 +1567,15 @@ Do **not** start Gate C2 unless explicitly authorized.
 
 ## Current Gate C2 state — 2026-09-16
 
-- user-adjudicated coverage — **scans 1–125**
+- C2 disposition coverage — **scans 1–175**
 - C2-01 — **COMPLETE / APPLIED**
 - C2-02 — **COMPLETE / APPLIED**
 - C2-03 — **COMPLETE / APPLIED**
 - C2-04 — **COMPLETE / APPLIED**
 - C2-05 — **COMPLETE / APPLIED**
-- scans 126–497 — **LOCKED / NOT AUTHORIZED**
+- C2-06 — **COMPLETE / NO DISCREPANCY RECORDS / NO PAGE ACTION**
+- C2-07 — **COMPLETE / APPLIED**
+- historical discrepancy records dispositioned through C07 — **40/140**
+- scans 176–497 — **LOCKED / NOT AUTHORIZED**
 - correction authority — user's manual findings, not the historical Gate-C classification alone
 - durable correction record — `C2_SOURCE_CORRECTION_PROGRESS.md`

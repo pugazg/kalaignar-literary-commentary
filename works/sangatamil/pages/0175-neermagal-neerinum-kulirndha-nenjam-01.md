@@ -2,15 +2,18 @@
 scan_page: 175
 printed_page: "162"
 work: "sangatamil"
-section: "நீர்மகள் நீரினும் குளிர்ந்த நெஞ்சம்!"
+section: "நீலமலை நீரினும் குளிர்ந்த நெஞ்சம்!"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 heading restoration"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_to_scan: 176
 ---
+
+# நீலமலை நீரினும் குளிர்ந்த நெஞ்சம்!
+
 பத்துப் பத்தாகப் பாவாணர்கள் வடித்த  
 பாடல்களின் தொகுப்பாம்  
 'பதிற்றுப் பத்து'' எனும்  
@@ -40,5 +43,5 @@ continues_to_scan: 176
 ஒப்பற்ற நம் மண்ணின் சொத்து - அவற்றிலோர்  
 ஒளியுமிழும் முத்துத்தான் பதிற்றுப் பத்து!  
 
-<!-- Gate B records the source-visible section identity in metadata but does not source-recover the decorative heading into body text because File4's heading extraction is malformed (`நிலமலை / லம் / ... / நெஞ்சம்!)`). Those malformed fragments and Gemini phase/page-wrapper narration are excluded as extraction debris; lexical resolution is deferred to Gate C. -->
+<!-- C2-07: user adjudicated both historical heading candidates as incorrect and supplied the exact heading `நீலமலை நீரினும் குளிர்ந்த நெஞ்சம்!`; it is restored in the body and scan-175 section metadata. Later scans remain locked pending their own C2 batches. -->
 <!-- மூல ஸ்கேன் பக்கம்: 175; அச்சுப் பக்கம்: 162 -->

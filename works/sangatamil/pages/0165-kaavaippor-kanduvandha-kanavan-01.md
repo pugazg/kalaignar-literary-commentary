@@ -7,12 +7,12 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 heading correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_to_scan: 167
 ---
 # காடைப் போர்
-# இகண்டுவந்த
+# கண்டுவந்த
 # கணவன்!
 
 கல்லொன்று நெற்றிப்பொட்டில் பட்டதுபோல்  
@@ -47,5 +47,5 @@ continues_to_scan: 167
 இதழை,  
 மலரிதழ் இதுதான் என்று மாறி மாறிச் சுவைத்திருப்பான்!  
 
-<!-- Gate B records the source-visible section identity `காடைப் போர் கண்டுவந்த கணவன்!` in metadata while preserving the File4-locked body heading `காடைப் போர் இகண்டுவந்த கணவன்!`; locked `ஏகி` is placed at its source-supported carryover position. -->
+<!-- C2-07: user-authorized source heading correction applied: `இகண்டுவந்த` → `கண்டுவந்த`; the decorative three-line heading layout is preserved. Locked `ஏகி` remains at its source-supported carryover position. -->
 <!-- மூல ஸ்கேன் பக்கம்: 165; அச்சுப் பக்கம்: 152 -->
