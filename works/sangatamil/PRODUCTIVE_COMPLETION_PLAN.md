@@ -255,22 +255,22 @@ Current durable state — **2026-09-16**:
 - latest B20 page-layer endpoint — `e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c`
 - Gate-B closure / durable B20 progress commit — `90caaeb3bd92201a75d45f617727721b9c3e0df7`
 - wording state — **Gemini-lexical-locked; not word-for-word scan verified**
-- Gate C C01–C06 — **COMPLETE / PASS**
-- Gate-C audited — **150/497**
-- Gate-C remaining — **347**
-- Gate-C frontier — **scan 151**
-- latest Gate-C ledger commit — `e83d7ffebf8284a25a0b6710dcc31fc0138180f5`
-- C06 substantive discrepancy records — **0 — CLEAN BATCH**
-- cumulative Gate-C discrepancy records — **36**
+- Gate C C01–C07 — **COMPLETE / PASS**
+- Gate-C audited — **175/497**
+- Gate-C remaining — **322**
+- Gate-C frontier — **scan 176**
+- latest Gate-C ledger commit — `dce4e9826b5daf738b81c724c311a5fe2d9717c8`
+- C07 substantive discrepancy records — **4**
+- cumulative Gate-C discrepancy records — **40**
 - Gate C2 — **NOT STARTED / NOT AUTHORIZED**
 
 Durable Gate-B extraction/mapping exceptions remain recorded in `STRUCTURAL_FIDELITY_PROGRESS.md`; do not reopen Gate B merely to source-correct lexical wording.
 
-Exact next activity: **Gate C C07 — scans 151–175**.
+Exact next activity: **Gate C C08 — scans 176–200**.
 
-Required source pair:
-- controlling PDF covering physical scans **151–175**;
-- `File4.md` when directly available; otherwise use current canonical wording as the preserved Gemini-lock comparison layer.
+Available direct source pair:
+- user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_004_pages_151-200.pdf`, split pages **26–50** / physical scans **176–200**;
+- user-supplied `File4.md`, matching continuation material for scans **176–200**.
 
 Gate C remains audit-only:
 - append substantive discrepancies to `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`;

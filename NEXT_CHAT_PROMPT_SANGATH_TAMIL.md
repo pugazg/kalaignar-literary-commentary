@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate C Lexical Discrepancy Audit / C07 scans 151–175
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate C Lexical Discrepancy Audit / C08 scans 176–200
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -31,31 +31,32 @@ Gate C:
 - C04 scans **76–100 — COMPLETE / PASS**
 - C05 scans **101–125 — COMPLETE / PASS**
 - C06 scans **126–150 — COMPLETE / PASS / CLEAN**
-- audited — **150/497**
-- remaining — **347**
-- frontier — **scan 151**
-- cumulative discrepancy records — **36**
-- latest Gate-C ledger commit — `e83d7ffebf8284a25a0b6710dcc31fc0138180f5`
+- C07 scans **151–175 — COMPLETE / PASS**
+- audited — **175/497**
+- remaining — **322**
+- frontier — **scan 176**
+- cumulative discrepancy records — **40**
+- latest Gate-C ledger commit — `dce4e9826b5daf738b81c724c311a5fe2d9717c8`
 - Gate C2 — **NOT STARTED / NOT AUTHORIZED**
 
 Wording state remains **Gemini-lexical-locked — not word-for-word scan verified**.
 
-## C06 source note
+## C07 source note
 
-C06 used the exact supplied source pair:
-- `TVA_BOK_0042551_சங்கத்_தமிழ்_part_003_pages_101-150.pdf`, split pages 26–50 / physical scans 126–150;
-- `File3.md`, Pages 126–150.
+C07 used the exact supplied source pair:
+- `TVA_BOK_0042551_சங்கத்_தமிழ்_part_004_pages_151-200.pdf`, split pages 1–25 / physical scans 151–175;
+- `File4.md`, matching lexical material for scans 151–175.
 
-No substantive source/File3 lexical discrepancy met Gate-C ledger criteria in this batch. Known non-source File3 extraction debris already excluded during Gate B remained excluded. No canonical page wording changed.
+C07 recorded four substantive discrepancies at scans 163, 165, 174 and 175. No canonical page wording was changed.
 
-## Exact next activity — C07
+## Exact next activity — C08
 
-Process **Gate C scans 151–175**.
+Process **Gate C scans 176–200**.
 
 Use:
-- controlling PDF covering physical scans **151–175**;
-- direct Gemini lock witness `File4.md` when available; otherwise use the current canonical page records as the preserved lock layer;
-- canonical page records `works/sangatamil/pages/0151-*.md` through `0175-*.md`.
+- controlling PDF — the same user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_004_pages_151-200.pdf`, split pages **26–50**;
+- direct Gemini lock witness — the same user-supplied `File4.md`, matching continuation material for physical scans **176–200**;
+- canonical page records `works/sangatamil/pages/0176-*.md` through `0200-*.md`.
 
 Append only substantive lexical discrepancies to:
 
@@ -67,6 +68,6 @@ At batch close:
 1. verify **0 canonical page files changed**;
 2. commit the updated ledger;
 3. synchronize operational current-state docs;
-4. advance Gate-C frontier to **scan 176**.
+4. advance Gate-C frontier to **scan 201**.
 
 **Do not start Gate C2 and do not source-correct canonical page wording.**
