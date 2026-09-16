@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed 2026-09-16: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gate B is COMPLETE / PASS; Gate C is COMPLETE / PASS at 497/497; Gate D is ACTIVE NEXT.
+Last refreshed 2026-09-16: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gates A–D are COMPLETE / PASS; Gate E section reconstruction is ACTIVE NEXT.
 
 ## Repository
 
@@ -45,13 +45,15 @@ Gate A: **COMPLETE / PASS**.
 
 Gate B: **COMPLETE / PASS — 497/497 structurally reviewed / 0 remaining / 0 unresolved structural placement issues**.
 
-Current gate: **Gate C — lexical discrepancy audit under the current lock — IN PROGRESS**.
+Current gate: **Gate E — canonical section reconstruction — ACTIVE NEXT**.
 
 C01–C20 scans **1–497 — COMPLETE / PASS**; **140 cumulative substantive discrepancies** recorded in `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`; Gate C closed with **0 canonical page-wording changes**.
 
 Latest Gate-C ledger commit: `bf82324200e91ff05b76aed18b06c18b37883b90`.
 
-Exact next activity: **Gate D — physical / visual / continuity closure**. Audit all 497 scans and create `works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md`. Do not start Gate C2 unless explicitly authorized.
+Gate D: **COMPLETE / PASS — 497/497 physical scans / 497 canonical records / 0 unresolved physical-visual-continuity issues**. Durable report: `works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md`.
+
+Exact next activity: **Gate E — canonical section reconstruction**. Complete `works/sangatamil/indexes/section-register.md`, create/refresh section READMEs, and produce `works/sangatamil/SECTION_COVERAGE_AUDIT.md` with every scan 1–497 assigned to a source-order section role. Do not start Gate C2 unless explicitly authorized.
 
 ## Mandatory startup — active சங்கத் தமிழ் work
 
@@ -117,8 +119,10 @@ Current Gate-C source start:
 - cumulative lexical discrepancy records — 140
 - canonical page-wording changes during Gate C — 0
 - Gate C2 — NOT STARTED / NOT AUTHORIZED
-- current active target — Gate D physical / visual / continuity closure
-- durable Gate-D output — `works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md`
+- Gate D — COMPLETE / PASS — 497/497 physical scans closed
+- durable Gate-D report — `works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md`
+- current active target — Gate E canonical section reconstruction
+- Gate-E durable outputs — completed `indexes/section-register.md`, section READMEs, `SECTION_COVERAGE_AUDIT.md`
 
 Gemini page comments are navigation aids only; they do not establish physical scan numbering. The scan does.
 
@@ -199,11 +203,12 @@ In a fresh Sangath Tamil chat:
 
 1. fetch live main
 2. read the active controls listed above, including works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md
-3. confirm Gate C is COMPLETE / PASS at 497/497 with 140 discrepancies and 0 canonical page-wording changes
-4. start Gate D using the frozen Gate A/B controls and the live 497-page canonical layer
-5. audit physical coverage, visual/page-type handling, pagination, headers/footers, alignment, continuation relationships, cross-page sentence/verse continuity, and boundary anomalies
-6. write `works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md`
-7. do not source-correct lexical wording and do not start Gate C2 unless explicitly authorized
+3. confirm Gate D is COMPLETE / PASS at 497/497 with 0 unresolved physical / visual / continuity issues
+4. start Gate E from the stable physical layer
+5. reconstruct the exact source-order decorative/thematic sections, including front matter, illustrations/dividers, and end matter
+6. complete `works/sangatamil/indexes/section-register.md`, section READMEs, and `works/sangatamil/SECTION_COVERAGE_AUDIT.md`
+7. verify every scan 1–497 is assigned to exactly one section role
+8. do not source-correct lexical wording and do not start Gate C2 unless explicitly authorized
 
 Gate C remains audit-only. Do not change page wording and do not start Gate C2 without explicit user authorization.
 
