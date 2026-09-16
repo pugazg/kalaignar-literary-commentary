@@ -82,6 +82,13 @@ Clearly unsupported extraction debris is excluded. Legitimate scan/Gemini lexica
 
 Gate-B structural completion does not automatically promote a page to verified. Until an explicitly authorized lexical source-correction gate closes, whole-volume wording state remains Gemini-lexical-locked, not word-for-word scan verified.
 
+Gate D — COMPLETE / PASS:
+- physical scans — 497/497
+- canonical records — 497/497
+- unresolved physical / visual / continuity issues — 0
+- page changes during Gate D — 0
+- durable report — `PHYSICAL_CONTINUITY_AUDIT.md`
+
 ## Exact next activity
 
-Proceed to Gate D — physical / visual / continuity closure. Audit all 497 scans for one-scan/one-record coverage, covers/blanks/illustrations/dividers/end matter, printed pagination, running headers/footers, meaningful alignment, continuation relationships, cross-page sentence/verse continuity, and shared-page/boundary anomalies. Create `PHYSICAL_CONTINUITY_AUDIT.md`. Do not start Gate C2 without explicit authorization.
+Proceed to Gate E — canonical section reconstruction. Complete `indexes/section-register.md`, create/refresh source-order section READMEs, and create `SECTION_COVERAGE_AUDIT.md`. Every scan 1–497 must be assigned exactly once. Do not start Gate C2 without explicit authorization.
