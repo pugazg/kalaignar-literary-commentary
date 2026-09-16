@@ -1,70 +1,67 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / ARCHIVAL PIPELINE CLOSED
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / MAINTAINED ENGLISH D1
 
 Continue only from live `main` in `pugazg/kalaignar-literary-commentary`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Final closed state
+## Tamil archive — FROZEN
 
-- Gate A — **COMPLETE / PASS** — 497/497 canonical scan records.
-- Gate B — **COMPLETE / PASS** — 497/497 structurally reviewed.
-- Gate C — **COMPLETE / PASS** — 497/497 discrepancy audit / 140 historical records.
-- Gate C2 — **COMPLETE / APPLIED** — 140/140 recorded Gate-C discrepancies user-adjudicated.
-- Gate D — **COMPLETE / PASS** — 497/497 physical / visual / continuity.
-- Gate E — **COMPLETE / PASS** — 104 section-role entries / 497/497 scans assigned exactly once.
-- Gate F — **COMPLETE / PASS** — 115 formal provenance units + 4 source-note-only records.
-- Post-C2 reconciliation R1 — **COMPLETE / PASS**.
-- Gate G — **COMPLETE / PASS** — 497/497 metadata/status audited; 11 missing `visual_fidelity` fields repaired; 0 unresolved.
-- Gate H — **COMPLETE / PASS** — derived navigation built from 104 sections / 115 formal units / 4 note-only records / 119 provenance leaves; 0 canonical page changes.
-- Gate I — **COMPLETE / PASS** — final whole-volume synchronization / closure.
+Gates **A–I are COMPLETE / PASS**. Gate C2 is **COMPLETE / APPLIED 140/140** and post-C2 reconciliation R1 is **COMPLETE / PASS**.
 
-## Final status discipline
+Do not reopen canonical Tamil wording, structure, section ranges, provenance, metadata/status or navigation merely for English translation.
 
-Final page-level `status` distribution:
+Final Tamil page state:
 
 - `verified` — **43**
 - `needs-review` — **453**
-- `partial` — **1** (scan 8 handwritten `முன்னுரை`, description-only by explicit user direction)
+- `partial` — **1** (scan 8 handwritten `முன்னுரை`, description-only)
 
-Final `visual_fidelity` distribution:
+Whole-volume word-for-word scan verification is **NOT CLAIMED**.
 
-- `verified` — **43**
-- `needs-review` — **454**
-- missing — **0**
+## Maintained English authority
 
-Do **not** mass-promote the remaining `needs-review` records. Gate C2 resolved the recorded discrepancy ledger; it did **not** perform a fresh exhaustive token-by-token verification of every word in all 497 scans.
+Read first:
 
-Whole-volume word-for-word scan verification is therefore **NOT CLAIMED**.
+1. `works/sangatamil/translations/en/TRANSLATION_GUIDE.md`
+2. `works/sangatamil/translations/en/GLOSSARY.md`
+3. `works/sangatamil/translations/en/TRANSLATION_STATUS.md`
+4. `works/sangatamil/README.md`
+5. `works/sangatamil/GATE_I_FINAL_CLOSURE.md`
+6. `works/sangatamil/indexes/section-register.md`
+7. `works/sangatamil/indexes/source-citation-register.md`
+8. root `HANDOVER.md`
 
-## Final derived navigation
+## Translation identity
 
-Use:
+This is a **project-created maintained English translation**, not an official/publisher English edition.
 
-- `works/sangatamil/navigation/README.md`
-- `works/sangatamil/navigation/SECTIONS.md`
-- `works/sangatamil/navigation/sections.json`
-- `works/sangatamil/navigation/sections.tsv`
-- `works/sangatamil/navigation/provenance/index.json`
-- `works/sangatamil/navigation/provenance/index.tsv`
-- `works/sangatamil/navigation/provenance/BY_SECTION.md`
-- `works/sangatamil/navigation/provenance/unit-001.md` … `unit-115.md`
-- `works/sangatamil/navigation/provenance/note-001.md` … `note-004.md`
+Every English page must contain:
 
-## Durable closure records
+```yaml
+translation_type: "project_translation"
+```
 
-- `works/sangatamil/POST_C2_RECONCILIATION.md`
-- `works/sangatamil/GATE_G_METADATA_STATUS_AUDIT.md`
-- `works/sangatamil/GATE_H_DERIVED_NAVIGATION_REPORT.md`
-- `works/sangatamil/GATE_I_FINAL_CLOSURE.md`
+Do not import published Sangam translations, web text, another commentator or remembered conventional wording.
 
-## Rule for future work
+English review certifies fidelity to the **maintained canonical Tamil record**; it does not promote the underlying Tamil page status or imply exhaustive scan-level Tamil verification.
 
-There is **no pending archival gate**.
+## Workflow
 
-Do not reopen canonical wording, structure, section boundaries, provenance, metadata/status, or navigation merely for stylistic normalization.
+**draft → source-check → glossary reconciliation → editorial review → review → release report → release-ready**
 
-Future work requires one of:
+Normal page-batched cadence: **37 physical scans**.
 
-1. a new source/witness;
-2. explicit user correction with evidence;
-3. a separately scoped downstream derivative such as website/search/API integration.
+## Exact next activity
 
-For downstream products, consume the derived navigation/index layer rather than rewriting canonical page records.
+**Draft D1 — scans 1–37.**
+
+Requirements:
+
+- create matching files under `works/sangatamil/translations/en/pages/`;
+- mirror Tamil filenames exactly;
+- translate source order, prose, dialogue, quoted verse, source labels, provenance and visual descriptions faithfully;
+- preserve cross-page continuation;
+- copy factual Tamil status/visual-fidelity into `source_tamil_status` / `source_tamil_visual_fidelity`;
+- use `status: "draft"` for safely translatable pages;
+- scan **8** must be `source-limited`, translating only the secure archival description; do **not** decipher/reconstruct its handwriting;
+- update `TRANSLATION_STATUS.md` after D1;
+- audit the exact changed-file set;
+- change **0 canonical Tamil page files**.

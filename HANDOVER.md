@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed **2026-09-16**: Kuraloviyam remains closed; Sangath Tamil Gates **A–I are COMPLETE / PASS**; Gate C2 is **COMPLETE / APPLIED 140/140**; post-C2 reconciliation R1 is **COMPLETE / PASS**; the Sangath Tamil archival pipeline is **CLOSED**.
+Last refreshed **2026-09-16**: Kuraloviyam remains closed; Sangath Tamil Gates **A–I are COMPLETE / PASS** and the Tamil archival pipeline is **CLOSED**; a separately scoped **maintained English project translation is now ACTIVE**, with control layer initialized and Draft D1 scans 1–37 next.
 
 ## Repository
 
@@ -61,9 +61,13 @@ Earlier Gate-B/C/F checkpoints remain historical evidence only. Later commits ma
 
 The mixed page-level statuses are intentional. Gate C2 resolved all recorded Gate-C discrepancies but did not perform a fresh exhaustive token-by-token reread of every source word.
 
-**Exact next activity: none — Sangath Tamil archival pipeline closed.**
+**Exact Tamil archival activity: none — Sangath Tamil archival pipeline closed.**
 
-Do not reopen the canonical layer without a new source, explicit correction, or separately scoped downstream product.
+**Exact downstream activity: maintained English Draft D1 — scans 1–37.**
+
+English controls: `works/sangatamil/translations/en/README.md`, `TRANSLATION_GUIDE.md`, `TRANSLATION_STATUS.md`, and `GLOSSARY.md`.
+
+Do not reopen the canonical Tamil layer for translation work. English release state does not imply fresh whole-volume word-for-word scan verification.
 
 > Historical workflow sections later in this handover may preserve the frontier that was true when they were written. They are evidence, not the live execution frontier. The current state above controls.
 

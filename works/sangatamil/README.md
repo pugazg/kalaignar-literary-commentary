@@ -167,6 +167,18 @@ Final declaration:
 
 **ARCHIVAL STRUCTURE / PHYSICAL / SECTION / PROVENANCE / METADATA / NAVIGATION CLOSED — RECORDED C2 DISCREPANCIES ADJUDICATED — WHOLE-VOLUME WORD-FOR-WORD SCAN VERIFICATION NOT CLAIMED.**
 
+## Maintained English translation — ACTIVE
+
+A separately scoped project-created English layer is now initialized under `translations/en/`, modeled on the maintained-English Kuraloviyam workflow.
+
+Controls:
+- `translations/en/README.md`
+- `translations/en/TRANSLATION_GUIDE.md`
+- `translations/en/TRANSLATION_STATUS.md`
+- `translations/en/GLOSSARY.md`
+
+This downstream layer does **not** reopen or mass-promote the canonical Tamil records and does not change the declaration that whole-volume word-for-word scan verification is not claimed.
+
 ## Exact next activity
 
-**No pending archival gate. Reopen only for a new source, explicit correction, or a separately scoped downstream product.**
+**English Draft D1 — scans 1–37**, page-aligned to the canonical Tamil records.
