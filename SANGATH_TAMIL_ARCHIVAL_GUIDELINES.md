@@ -107,19 +107,20 @@ Gate B — **COMPLETE / PASS**:
 
 Gate C — **IN PROGRESS**:
 - C01 scans **1–25 — COMPLETE / PASS**
-- audited — **25/497**
-- remaining — **472**
-- frontier — **scan 26**
-- substantive C01 discrepancy records — **11**
-- latest Gate-C ledger commit — `0e6b7f4cf3e96cad5b7416cc51b84a287a70fc0b`
+- C02 scans **26–50 — COMPLETE / PASS**
+- audited — **50/497**
+- remaining — **447**
+- frontier — **scan 51**
+- cumulative discrepancy records — **20**
+- latest Gate-C ledger commit — `592ea96a4b558b92301601d91d479589ce82fb6b`
 - Gate C2 — **NOT STARTED / NOT AUTHORIZED**
 
 Wording state remains **Gemini-lexical-locked**, not word-for-word scan verified.
 
 Durable extraction/mapping exceptions from Gate B remain authoritative in `STRUCTURAL_FIDELITY_PROGRESS.md`.
 
-C01 execution note: the user supplied the physical source split covering scans 1–50. `File1.md` was not directly available in the active attachment set, so the current canonical page wording served as the preserved locked comparison layer. No page wording was changed.
+C01–C02 execution note: the user-supplied first-50-page source split has been fully audited through scan 50. `File1.md` was not directly available in the active attachment set, so current canonical page wording served as the preserved locked comparison layer. No page wording was changed.
 
 ### Exact next activity
 
-Process Gate C C02 — **scans 26–50** using the already supplied first-50-page PDF. Append substantive discrepancies to `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`; verify **0 page-file changes**; advance frontier to scan **51**. Do not start Gate C2.
+Process Gate C C03 — **scans 51–75** using `TVA_BOK_0042551_சங்கத்_தமிழ்_part_002_pages_51-100.pdf` and `File2.md` when available. Append substantive discrepancies to `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`; verify **0 page-file changes**; advance frontier to scan **76**. Do not start Gate C2.

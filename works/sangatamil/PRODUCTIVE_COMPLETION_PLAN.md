@@ -255,20 +255,24 @@ Current durable state — **2026-09-16**:
 - latest B20 page-layer endpoint — `e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c`
 - Gate-B closure / durable B20 progress commit — `90caaeb3bd92201a75d45f617727721b9c3e0df7`
 - wording state — **Gemini-lexical-locked; not word-for-word scan verified**
-- Gate C C01 — **COMPLETE / PASS**
-- Gate-C audited — **25/497**
-- Gate-C remaining — **472**
-- Gate-C frontier — **scan 26**
-- latest Gate-C ledger commit — `0e6b7f4cf3e96cad5b7416cc51b84a287a70fc0b`
-- substantive C01 discrepancy records — **11**
+- Gate C C01–C02 — **COMPLETE / PASS**
+- Gate-C audited — **50/497**
+- Gate-C remaining — **447**
+- Gate-C frontier — **scan 51**
+- latest Gate-C ledger commit — `592ea96a4b558b92301601d91d479589ce82fb6b`
+- C02 substantive discrepancy records — **9**
+- cumulative Gate-C discrepancy records — **20**
 - Gate C2 — **NOT STARTED / NOT AUTHORIZED**
 
 Durable Gate-B extraction/mapping exceptions remain recorded in `STRUCTURAL_FIDELITY_PROGRESS.md`; do not reopen Gate B merely to source-correct lexical wording.
 
-Exact next activity: **Gate C C02 — scans 26–50** using the already supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_001_pages_1-50.pdf`.
+Exact next activity: **Gate C C03 — scans 51–75**.
+
+Required source pair from the durable mapping:
+- `TVA_BOK_0042551_சங்கத்_தமிழ்_part_002_pages_51-100.pdf`
+- `File2.md` when directly available; otherwise use current canonical wording as the preserved Gemini-lock comparison layer.
 
 Gate C remains audit-only:
 - append substantive discrepancies to `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`;
-- use current canonical page wording as the preserved Gemini-lock layer when `File1.md` is not directly available;
 - **do not modify page wording**;
 - do not start Gate C2 unless the user explicitly authorizes source correction.
