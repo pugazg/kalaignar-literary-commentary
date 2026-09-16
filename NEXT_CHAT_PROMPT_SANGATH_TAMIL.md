@@ -38,8 +38,8 @@ Gate C:
 - audited — **250/497**
 - remaining — **247**
 - frontier — **scan 251**
-- cumulative discrepancy records — **53**
-- latest Gate-C ledger commit — `6043ae8007f56644695105bdba283c78bd6887ee`
+- cumulative discrepancy records — **55**
+- latest Gate-C ledger commit — `03fd3948c84c23e093cf6e1214202ad3b4cee4db`
 - Gate C2 — **NOT STARTED / NOT AUTHORIZED**
 
 Wording state remains **Gemini-lexical-locked — not word-for-word scan verified**.
@@ -50,7 +50,7 @@ C10 used:
 - `TVA_BOK_0042551_சங்கத்_தமிழ்_part_005_pages_201-250.pdf`, split pages 26–50 / physical scans 226–250;
 - `File5.md`, Phase 13 / Book Pages 213–237.
 
-C10 recorded three substantive discrepancies at scans 226, 230 and 237. No canonical page wording was changed.
+C10 recorded five substantive discrepancies at scans 226, 230, 237, 240 and 248. Scans 240 and 248 are repository-only lexical omissions where File5 and the source scan agree. No canonical page wording was changed.
 
 ## Exact next activity — C11
 

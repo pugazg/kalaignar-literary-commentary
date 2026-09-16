@@ -259,9 +259,9 @@ Current durable state — **2026-09-16**:
 - Gate-C audited — **250/497**
 - Gate-C remaining — **247**
 - Gate-C frontier — **scan 251**
-- latest Gate-C ledger commit — `6043ae8007f56644695105bdba283c78bd6887ee`
-- C10 substantive discrepancy records — **3**
-- cumulative Gate-C discrepancy records — **53**
+- latest Gate-C ledger commit — `03fd3948c84c23e093cf6e1214202ad3b4cee4db`
+- C10 substantive discrepancy records — **5**
+- cumulative Gate-C discrepancy records — **55**
 - Gate C2 — **NOT STARTED / NOT AUTHORIZED**
 
 Durable Gate-B extraction/mapping exceptions remain recorded in `STRUCTURAL_FIDELITY_PROGRESS.md`; do not reopen Gate B merely to source-correct lexical wording.

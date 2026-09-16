@@ -29,9 +29,9 @@ Gate C — IN PROGRESS:
 - audited — 250/497
 - remaining — 247
 - frontier — scan 251
-- cumulative discrepancy records — 53
+- cumulative discrepancy records — 55
 - mode — audit-only / no page-wording changes
-- latest ledger commit — 6043ae8007f56644695105bdba283c78bd6887ee
+- latest ledger commit — 03fd3948c84c23e093cf6e1214202ad3b4cee4db
 
 Latest B20 page-layer endpoint: e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c
 

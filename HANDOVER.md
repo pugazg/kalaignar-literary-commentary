@@ -47,9 +47,9 @@ Gate B: **COMPLETE / PASS — 497/497 structurally reviewed / 0 remaining / 0 un
 
 Current gate: **Gate C — lexical discrepancy audit under the current lock — IN PROGRESS**.
 
-C01–C10 scans **1–250 — COMPLETE / PASS**; **53 cumulative substantive discrepancies** recorded in `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`; Gate-C frontier **scan 251**.
+C01–C10 scans **1–250 — COMPLETE / PASS**; **55 cumulative substantive discrepancies** recorded in `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`; Gate-C frontier **scan 251**.
 
-Latest Gate-C ledger commit: `6043ae8007f56644695105bdba283c78bd6887ee`.
+Latest Gate-C ledger commit: `03fd3948c84c23e093cf6e1214202ad3b4cee4db`.
 
 Exact next activity: **Gate C C11 scans 251–275** using the already supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_006_pages_251-300.pdf` + `File6.md`. Audit only; do not modify page wording.
 

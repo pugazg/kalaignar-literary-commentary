@@ -79,7 +79,7 @@ Gate C — IN PROGRESS:
 - audited — 250/497
 - remaining — 247
 - frontier — scan 251
-- 53 cumulative substantive discrepancies recorded
+- 55 cumulative substantive discrepancies recorded
 - audit-only; canonical page wording must not change
 
 Latest B20 page-layer endpoint: e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c

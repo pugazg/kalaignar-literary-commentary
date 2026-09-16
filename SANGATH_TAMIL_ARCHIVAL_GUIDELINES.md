@@ -119,15 +119,15 @@ Gate C — **IN PROGRESS**:
 - audited — **250/497**
 - remaining — **247**
 - frontier — **scan 251**
-- cumulative discrepancy records — **53**
-- latest Gate-C ledger commit — `6043ae8007f56644695105bdba283c78bd6887ee`
+- cumulative discrepancy records — **55**
+- latest Gate-C ledger commit — `03fd3948c84c23e093cf6e1214202ad3b4cee4db`
 - Gate C2 — **NOT STARTED / NOT AUTHORIZED**
 
 Wording state remains **Gemini-lexical-locked**, not word-for-word scan verified.
 
 Durable extraction/mapping exceptions from Gate B remain authoritative in `STRUCTURAL_FIDELITY_PROGRESS.md`.
 
-C10 execution note: the supplied PDF/File5 pair was used for scans 226–250. Three substantive discrepancies were recorded, with no page wording changed.
+C10 execution note: the supplied PDF/File5 pair was used for scans 226–250. Five substantive discrepancies were recorded, including repository-only lexical omissions at scans 240 and 248, with no page wording changed.
 
 ### Exact next activity
 
