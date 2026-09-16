@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate C Lexical Discrepancy Audit / C20 final scans 476–497
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate D Physical / Visual / Continuity Closure
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -44,52 +44,42 @@ Gate C:
 - C17 scans **401–425 — COMPLETE / PASS**
 - C18 scans **426–450 — COMPLETE / PASS**
 - C19 scans **451–475 — COMPLETE / PASS**
-- audited — **475/497**
-- remaining — **22**
-- frontier — **scan 476**
-- cumulative discrepancy records — **134**
-- latest Gate-C ledger commit — `a300c9426ddb768f50533596cde8531aa776a249`
+- C20 scans **476–497 — COMPLETE / PASS — FINAL GATE-C BATCH**
+- audited — **497/497**
+- remaining — **0**
+- Gate C — **COMPLETE / PASS**
+- cumulative discrepancy records — **140**
+- latest Gate-C ledger commit — `bf82324200e91ff05b76aed18b06c18b37883b90`
 - Gate C2 — **NOT STARTED / NOT AUTHORIZED**
 
 Wording state remains **Gemini-lexical-locked — not word-for-word scan verified**.
 
-## C19 source note
+## C20 closure note
 
-C19 used:
-- `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf`, split pages 1–25 / physical scans 451–475;
-- `File10.md` only where the B19-resolved lexical block is reliable.
+C20 used:
+- `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf`, split pages 26–47 / physical scans 476–497;
+- `File10.md` under the documented B20 scan-by-scan mapping.
 
-C19 recorded **16 substantive discrepancies across 11 scans**. The B19 comment shift, partial Page-449 reliability, scan-462 missing lexical block, and phantom File10 Page 456 were all honored without synthetic lexical mapping. No canonical page wording was changed.
+C20 recorded **6 substantive discrepancies across 5 scans**. Gate C is now **COMPLETE / PASS — 497/497 audited**, with **140 cumulative substantive discrepancy records** and **0 canonical page-wording changes**. Gate C2 remains **NOT STARTED / NOT AUTHORIZED**.
 
-## Exact next activity — C20
+## Exact next activity — Gate D
 
-Process the **final Gate C remainder — scans 476–497 / 22 scans**.
+Start **Gate D — Physical / visual / continuity closure**.
 
-Use:
-- controlling PDF — the same user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf`, split pages **26–47**;
-- direct Gemini lock witness — user-supplied `File10.md`, resolved scan-by-scan against the PDF;
-- canonical page records `works/sangatamil/pages/0476-*.md` through `0497-*.md`.
+Audit all **497 physical scans** for:
+- one scan → one canonical record;
+- covers, blanks, illustrations, dividers, end matter;
+- printed pagination;
+- running headers / footers;
+- meaningful alignment;
+- continuation relationships;
+- cross-page sentence / verse continuity;
+- shared-page or boundary anomalies.
 
-B20 mapping:
-- scan **476 / printed 464** → File10 Page **464**;
-- scan **477** → Page **465** `(Image Page)`;
-- scans **478–484 / printed 466–472** → Pages **466–472**;
-- scan **485** → Page **473** `(Image Page)`;
-- scans **486–492 / printed 474–480** → Pages **474–480**;
-- scan **493** → Page **481** `(Image Page)`;
-- scans **494–496 / printed 482–484** → Pages **482–484**;
-- scan **497** is the physical back cover; File10 has no separate physical-page comment.
+Durable output:
 
-Append only substantive lexical discrepancies to:
+`works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md`
 
-`works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`
-
-Do not record harmless spacing, line-wrap, punctuation-only, running-header/footer placement, or purely structural differences unless they materially alter lexical interpretation.
-
-At batch close:
-1. verify **0 canonical page files changed**;
-2. commit the updated ledger;
-3. synchronize operational current-state docs;
-4. close Gate C at **497/497 audited**; do not start Gate C2 unless explicitly authorized.
+Use Gate A and Gate B as frozen structural controls. Use the completed Gate-C ledger only as a lexical-discrepancy reference; **do not source-correct canonical wording**. Do not start Gate C2 unless explicitly authorized.
 
 **Do not start Gate C2 and do not source-correct canonical page wording.**

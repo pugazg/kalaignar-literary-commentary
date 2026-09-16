@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed 2026-09-16: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gate B is COMPLETE / PASS; Gate C C01–C19 scans 1–475 are COMPLETE with frontier scan 476.
+Last refreshed 2026-09-16: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gate B is COMPLETE / PASS; Gate C is COMPLETE / PASS at 497/497; Gate D is ACTIVE NEXT.
 
 ## Repository
 
@@ -47,11 +47,11 @@ Gate B: **COMPLETE / PASS — 497/497 structurally reviewed / 0 remaining / 0 un
 
 Current gate: **Gate C — lexical discrepancy audit under the current lock — IN PROGRESS**.
 
-C01–C19 scans **1–475 — COMPLETE / PASS**; **134 cumulative substantive discrepancies** recorded in `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`; Gate-C frontier **scan 476**.
+C01–C20 scans **1–497 — COMPLETE / PASS**; **140 cumulative substantive discrepancies** recorded in `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`; Gate C closed with **0 canonical page-wording changes**.
 
-Latest Gate-C ledger commit: `a300c9426ddb768f50533596cde8531aa776a249`.
+Latest Gate-C ledger commit: `bf82324200e91ff05b76aed18b06c18b37883b90`.
 
-Exact next activity: **Gate C C20 final remainder scans 476–497** using the already supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` + `File10.md`. Audit only; use the B20 scan-by-scan mapping and close Gate C at 497/497 without starting Gate C2.
+Exact next activity: **Gate D — physical / visual / continuity closure**. Audit all 497 scans and create `works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md`. Do not start Gate C2 unless explicitly authorized.
 
 ## Mandatory startup — active சங்கத் தமிழ் work
 
@@ -113,12 +113,12 @@ Gate B source processing is closed through scan 497.
 
 Current Gate-C source start:
 
-- completed Gate-C range: scans 1–475
-- current C20 target: scans 476–497
-- controlling source supplied: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` — use split pages 26–47
-- matching lexical file supplied: `File10.md` — B20 scan-by-scan mapping
-- canonical records: `works/sangatamil/pages/0476-*.md` through `0497-*.md`
-- mapping: 476→464; 477→465 image; 478–484→466–472; 485→473 image; 486–492→474–480; 493→481 image; 494–496→482–484; 497 physical back cover / no separate File10 comment
+- Gate C — COMPLETE / PASS — scans 1–497 audited
+- cumulative lexical discrepancy records — 140
+- canonical page-wording changes during Gate C — 0
+- Gate C2 — NOT STARTED / NOT AUTHORIZED
+- current active target — Gate D physical / visual / continuity closure
+- durable Gate-D output — `works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md`
 
 Gemini page comments are navigation aids only; they do not establish physical scan numbering. The scan does.
 
@@ -199,12 +199,11 @@ In a fresh Sangath Tamil chat:
 
 1. fetch live main
 2. read the active controls listed above, including works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md
-3. confirm C01–C19 scans 1–475 are COMPLETE and Gate-C frontier is scan 476
-4. use the supplied TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf split pages 26–47 and File10.md with the documented B20 mapping
-5. append only substantive lexical discrepancies; do not source-correct page wording
-6. verify no canonical page files changed
-7. commit the ledger update
-8. synchronize operational docs and close Gate C at 497/497; do not start Gate C2 unless explicitly authorized
+3. confirm Gate C is COMPLETE / PASS at 497/497 with 140 discrepancies and 0 canonical page-wording changes
+4. start Gate D using the frozen Gate A/B controls and the live 497-page canonical layer
+5. audit physical coverage, visual/page-type handling, pagination, headers/footers, alignment, continuation relationships, cross-page sentence/verse continuity, and boundary anomalies
+6. write `works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md`
+7. do not source-correct lexical wording and do not start Gate C2 unless explicitly authorized
 
 Gate C remains audit-only. Do not change page wording and do not start Gate C2 without explicit user authorization.
 

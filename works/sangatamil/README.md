@@ -15,7 +15,7 @@ Gate B — COMPLETE / PASS:
 - remaining — 0
 - unresolved structural placement issues — 0
 
-Gate C — IN PROGRESS:
+Gate C — COMPLETE / PASS:
 - C01 scans 1–25 — COMPLETE / PASS
 - C02 scans 26–50 — COMPLETE / PASS
 - C03 scans 51–75 — COMPLETE / PASS
@@ -35,12 +35,13 @@ Gate C — IN PROGRESS:
 - C17 scans 401–425 — COMPLETE / PASS
 - C18 scans 426–450 — COMPLETE / PASS
 - C19 scans 451–475 — COMPLETE / PASS
-- audited — 475/497
-- remaining — 22
-- frontier — scan 476
-- cumulative discrepancy records — 134
+- C20 scans 476–497 — COMPLETE / PASS — FINAL
+- audited — 497/497
+- remaining — 0
+- closure — 497/497
+- cumulative discrepancy records — 140
 - mode — audit-only / no page-wording changes
-- latest ledger commit — a300c9426ddb768f50533596cde8531aa776a249
+- latest ledger commit — bf82324200e91ff05b76aed18b06c18b37883b90
 
 Latest B20 page-layer endpoint: e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c
 
@@ -83,4 +84,4 @@ Gate-B structural completion does not automatically promote a page to verified. 
 
 ## Exact next activity
 
-Process Gate C C20 — final scans 476–497 using the already supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` split pages 26–47 + `File10.md` with the B20 scan-by-scan mapping. Append substantive discrepancies only, verify 0 canonical page changes, and close Gate C at 497/497. Do not start Gate C2 without explicit authorization.
+Proceed to Gate D — physical / visual / continuity closure. Audit all 497 scans for one-scan/one-record coverage, covers/blanks/illustrations/dividers/end matter, printed pagination, running headers/footers, meaningful alignment, continuation relationships, cross-page sentence/verse continuity, and shared-page/boundary anomalies. Create `PHYSICAL_CONTINUITY_AUDIT.md`. Do not start Gate C2 without explicit authorization.

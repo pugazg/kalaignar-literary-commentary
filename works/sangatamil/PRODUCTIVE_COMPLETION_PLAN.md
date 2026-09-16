@@ -241,7 +241,7 @@ Final declaration must distinguish one of two outcomes:
 
 ## Current active gate
 
-**Gate C — lexical discrepancy audit under the current lock.**
+**Gate D — physical / visual / continuity closure.**
 
 Current durable state — **2026-09-16**:
 - Gate A — COMPLETE / PASS
@@ -255,28 +255,32 @@ Current durable state — **2026-09-16**:
 - latest B20 page-layer endpoint — `e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c`
 - Gate-B closure / durable B20 progress commit — `90caaeb3bd92201a75d45f617727721b9c3e0df7`
 - wording state — **Gemini-lexical-locked; not word-for-word scan verified**
-- Gate C C01–C19 — **COMPLETE / PASS**
-- Gate-C audited — **475/497**
-- Gate-C remaining — **22**
-- Gate-C frontier — **scan 476**
-- latest Gate-C ledger commit — `a300c9426ddb768f50533596cde8531aa776a249`
-- C19 substantive discrepancy records — **16**
-- cumulative Gate-C discrepancy records — **134**
+- Gate C C01–C20 — **COMPLETE / PASS**
+- Gate-C audited — **497/497**
+- Gate-C remaining — **0**
+- Gate-C closure — **497/497 audited**
+- latest Gate-C ledger commit — `bf82324200e91ff05b76aed18b06c18b37883b90`
+- C20 substantive discrepancy records — **6**
+- cumulative Gate-C discrepancy records — **140**
 - Gate C2 — **NOT STARTED / NOT AUTHORIZED**
+- Gate D — **NOT STARTED — ACTIVE NEXT GATE**
 
 Durable Gate-B extraction/mapping exceptions remain recorded in `STRUCTURAL_FIDELITY_PROGRESS.md`; do not reopen Gate B merely to source-correct lexical wording.
 
-Exact next activity: **Gate C C20 — final remainder scans 476–497**.
+Exact next activity: **Gate D — physical / visual / continuity closure**.
 
-Available direct source pair:
-- user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf`, split pages **26–47** / physical scans **476–497**;
-- user-supplied `File10.md`, resolved scan-by-scan against the PDF;
-- scan **476 / printed 464** → File10 Page **464**; scan **477** → Page **465** `(Image Page)`;
-- scans **478–484 / printed 466–472** → File10 Pages **466–472**; scan **485** → Page **473** `(Image Page)`;
-- scans **486–492 / printed 474–480** → File10 Pages **474–480**; scan **493** → Page **481** `(Image Page)`;
-- scans **494–496 / printed 482–484** → File10 Pages **482–484**; scan **497** is the physical back cover with no separate File10 page comment.
+Audit all **497 physical scans** for:
+- one scan → one canonical record;
+- covers / blanks / illustrations / dividers / end matter;
+- printed pagination;
+- running headers / footers;
+- meaningful alignment;
+- continuation relationships;
+- cross-page sentence / verse continuity;
+- shared-page or boundary anomalies.
 
-Gate C remains audit-only:
-- append substantive discrepancies to `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`;
-- **do not modify page wording**;
-- do not start Gate C2 unless the user explicitly authorizes source correction.
+Durable output: `works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md`.
+
+Gate C is closed at **497/497** with **140** recorded substantive discrepancies and **0 canonical page-wording changes**. Gate C2 remains unauthorized.
+
+Gate C is now historical/closed for the current locked wording state. Do not reopen it merely for further lexical correction; Gate C2 requires explicit user authorization.

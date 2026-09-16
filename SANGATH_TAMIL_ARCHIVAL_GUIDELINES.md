@@ -105,7 +105,7 @@ Gate B — **COMPLETE / PASS**:
 - latest B20 page-layer endpoint — `e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c`
 - Gate-B closure / durable B20 progress commit — `90caaeb3bd92201a75d45f617727721b9c3e0df7`
 
-Gate C — **IN PROGRESS**:
+Gate C — **COMPLETE / PASS**:
 - C01 scans **1–25 — COMPLETE / PASS**
 - C02 scans **26–50 — COMPLETE / PASS**
 - C03 scans **51–75 — COMPLETE / PASS**
@@ -125,19 +125,20 @@ Gate C — **IN PROGRESS**:
 - C17 scans **401–425 — COMPLETE / PASS**
 - C18 scans **426–450 — COMPLETE / PASS**
 - C19 scans **451–475 — COMPLETE / PASS**
-- audited — **475/497**
-- remaining — **22**
-- frontier — **scan 476**
-- cumulative discrepancy records — **134**
-- latest Gate-C ledger commit — `a300c9426ddb768f50533596cde8531aa776a249`
+- C20 scans **476–497 — COMPLETE / PASS — FINAL**
+- audited — **497/497**
+- remaining — **0**
+- closure — **497/497 audited**
+- cumulative discrepancy records — **140**
+- latest Gate-C ledger commit — `bf82324200e91ff05b76aed18b06c18b37883b90`
 - Gate C2 — **NOT STARTED / NOT AUTHORIZED**
 
 Wording state remains **Gemini-lexical-locked**, not word-for-word scan verified.
 
 Durable extraction/mapping exceptions from Gate B remain authoritative in `STRUCTURAL_FIDELITY_PROGRESS.md`.
 
-C19 execution note: the supplied Part-010 PDF/File10 pair was used for scans 451–475. Sixteen substantive discrepancies were recorded across 11 scans. The B19 shifted mapping, partial Page-449 reliability, scan-462 missing lexical block, and phantom File10 Page 456 were honored without synthetic alignment. No page wording was changed.
+C20 execution note: the supplied Part-010 PDF/File10 pair was used for scans 476–497. Six substantive discrepancies were recorded across 5 scans. Gate C closed at 497/497 with 140 cumulative discrepancy records and 0 canonical page-wording changes. Gate C2 remains unauthorized.
 
 ### Exact next activity
 
-Process Gate C C20 — **final remainder scans 476–497** using `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` split pages 26–47 and `File10.md` with the B20 scan-by-scan mapping. Append only substantive discrepancies, verify **0 page-file changes**, and close Gate C at **497/497 audited**. Do not start Gate C2 unless explicitly authorized.
+Proceed to Gate D — **physical / visual / continuity closure**. Audit all **497 scans** for one-scan/one-record coverage, covers/blanks/illustrations/dividers/end matter, printed pagination, running headers/footers, meaningful alignment, continuation relationships, cross-page sentence/verse continuity, and shared-page/boundary anomalies. Create `works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md`. Do not start Gate C2 unless explicitly authorized.
