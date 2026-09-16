@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate C Lexical Discrepancy Audit / C04 scans 76–100
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate C Lexical Discrepancy Audit / C05 scans 101–125
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -28,32 +28,34 @@ Gate C:
 - C01 scans **1–25 — COMPLETE / PASS**
 - C02 scans **26–50 — COMPLETE / PASS**
 - C03 scans **51–75 — COMPLETE / PASS**
-- audited — **75/497**
-- remaining — **422**
-- frontier — **scan 76**
+- C04 scans **76–100 — COMPLETE / PASS**
+- audited — **100/497**
+- remaining — **397**
+- frontier — **scan 101**
 - C01 discrepancy records — **11**
 - C02 discrepancy records — **9**
 - C03 discrepancy records — **7**
-- cumulative discrepancy records — **27**
-- latest Gate-C ledger commit — `e8e6566cda94dcca714c9e23410e28aeae1430b9`
+- C04 discrepancy records — **5**
+- cumulative discrepancy records — **32**
+- latest Gate-C ledger commit — `9d6dd3e1e875484ba5d1637e8c2e4a598c3287b9`
 - Gate C2 — **NOT STARTED / NOT AUTHORIZED**
 
 Wording state remains **Gemini-lexical-locked — not word-for-word scan verified**.
 
-## C03 source note
+## C04 source note
 
-The requested split `TVA_BOK_0042551_சங்கத்_தமிழ்_part_002_pages_51-100.pdf` and `File2.md` were not directly available in the active attachment/library set.
+The Library original `TVA_BOK_0042551_சங்கத்_தமிழ்.pdf` was used as the controlling source for physical scans 76–100.
 
-The Library original `TVA_BOK_0042551_சங்கத்_தமிழ்.pdf` was available and used as the controlling source for physical scans 51–75. Current canonical wording served as the preserved Gemini-lock comparison layer. No canonical page wording was changed.
+`File2.md` was not directly available, so current canonical wording served as the preserved Gemini-lock comparison layer. C04 recorded five substantive discrepancies, including the two B04 carry-forward issues at scans 83 and 96. No canonical page wording was changed.
 
-## Exact next activity — C04
+## Exact next activity — C05
 
-Process **Gate C scans 76–100**.
+Process **Gate C scans 101–125**.
 
 Use:
-- controlling PDF — Library original `TVA_BOK_0042551_சங்கத்_தமிழ்.pdf`, physical scans **76–100**;
-- locked comparison layer — current canonical page records `works/sangatamil/pages/0076-*.md` through `0100-*.md`;
-- `File2.md` only if it becomes directly available; do not reconstruct or infer it.
+- controlling PDF — Library original `TVA_BOK_0042551_சங்கத்_தமிழ்.pdf`, physical scans **101–125**;
+- locked comparison layer — current canonical page records `works/sangatamil/pages/0101-*.md` through `0125-*.md`;
+- `File3.md` only if it becomes directly available; do not reconstruct or infer it.
 
 Append only substantive lexical discrepancies to:
 
@@ -65,6 +67,6 @@ At batch close:
 1. verify **0 canonical page files changed**;
 2. commit the updated ledger;
 3. synchronize operational current-state docs;
-4. advance Gate-C frontier to **scan 101**.
+4. advance Gate-C frontier to **scan 126**.
 
 **Do not start Gate C2 and do not source-correct canonical page wording.**
