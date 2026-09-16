@@ -241,7 +241,7 @@ Final declaration must distinguish one of two outcomes:
 
 ## Current active gate
 
-**Gate D — physical / visual / continuity closure.**
+**Gate E — canonical section reconstruction.**
 
 Current durable state — **2026-09-16**:
 - Gate A — COMPLETE / PASS
@@ -263,23 +263,20 @@ Current durable state — **2026-09-16**:
 - C20 substantive discrepancy records — **6**
 - cumulative Gate-C discrepancy records — **140**
 - Gate C2 — **NOT STARTED / NOT AUTHORIZED**
-- Gate D — **NOT STARTED — ACTIVE NEXT GATE**
+- Gate D — **COMPLETE / PASS — 497/497 physical scans / 0 unresolved physical-visual-continuity issues**
+- Gate-D report — `PHYSICAL_CONTINUITY_AUDIT.md`
+- Gate E — **NOT STARTED — ACTIVE NEXT GATE**
 
 Durable Gate-B extraction/mapping exceptions remain recorded in `STRUCTURAL_FIDELITY_PROGRESS.md`; do not reopen Gate B merely to source-correct lexical wording.
 
-Exact next activity: **Gate D — physical / visual / continuity closure**.
+Exact next activity: **Gate E — canonical section reconstruction**.
 
-Audit all **497 physical scans** for:
-- one scan → one canonical record;
-- covers / blanks / illustrations / dividers / end matter;
-- printed pagination;
-- running headers / footers;
-- meaningful alignment;
-- continuation relationships;
-- cross-page sentence / verse continuity;
-- shared-page or boundary anomalies.
+Build the complete source-order section layer across **all scans 1–497**. For every decorative/thematic section record exact heading, scan span, printed-page span, illustration/divider placement, boundary evidence, and direct page links. Assign every scan exactly once to front matter, thematic section, illustration/divider, or end matter/back cover.
 
-Durable output: `works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md`.
+Durable outputs:
+- completed `works/sangatamil/indexes/section-register.md`;
+- section READMEs;
+- `works/sangatamil/SECTION_COVERAGE_AUDIT.md`.
 
 Gate C is closed at **497/497** with **140** recorded substantive discrepancies and **0 canonical page-wording changes**. Gate C2 remains unauthorized.
 
