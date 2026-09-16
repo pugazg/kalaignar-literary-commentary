@@ -104,3 +104,75 @@ At C02 close:
 2. verify **0 canonical page files changed**;
 3. advance the Gate-C frontier to **scan 51**;
 4. do not start Gate C2.
+
+
+# C02 — scans 26–50
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-16**
+- audited scans: **26–50 / 25**
+- source: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_001_pages_1-50.pdf`
+- locked comparison layer: current canonical page records under `works/sangatamil/pages/`
+- substantive discrepancy records: **9**
+- scans containing discrepancies: **6**
+- scans with no new substantive lexical discrepancy: **19**
+- canonical page files changed: **0**
+- Gate C2 corrections: **0**
+
+Clean / no-new-substantive-discrepancy scans:
+
+**26, 27, 30–34, 36–38, 41–46, 48–50**
+
+Special handling:
+- scans **26, 32, 38, 44, 48** are full-page illustrations and contain no literary body text;
+- punctuation-only, line-wrap, running-header, quotation-layout and other purely structural differences were not entered unless they materially altered lexical interpretation.
+
+## C02 discrepancy records
+
+| ID | Scan | Printed page | Canonical page | Locked repository wording | Source-visible wording | Classification | Gate-B exception already documented? | Notes |
+|---|---:|---:|---|---|---|---|---|---|
+| C02-001 | 28 | 13 | `0028-maanangkaatha-maravan-04.md` | `அட்டா; அவனைச் சோழமன்னன்` | `அடடா; அவனைச் சோழமன்னன்` | `likely-gemini-error` | no | Source interjection is visibly `அடடா`; locked wording has `அட்டா`. |
+| C02-002 | 29 | 14 | `0029-maanangkaatha-maravan-05.md` | `வந்துதித்த நானோ` | `வந்துதித்த நானே` | `likely-gemini-error` | no | Source has emphatic `நானே`; locked wording changes the vowel and sense to `நானோ`. |
+| C02-003 | 29 | 14 | `0029-maanangkaatha-maravan-05.md` | `அந்தப் மனப் பண்பாட்டு மரபு...` / next line `புண்பட்டு...` | `அந்தப் / பண்பாட்டு மரபு... நானே - மனப் / புண்பட்டு...` | `repository-only-divergence` | no | The same locked token `மனப்` is materially displaced before `பண்பாட்டு`; in the source it qualifies `புண்பட்டு`. Because the placement changes the lexical reading, it is recorded in Gate C even though ordinary placement-only differences are excluded. |
+| C02-004 | 35 | 20 | `0035-thunai-nindraar-thozhi-05.md` | `குன்றெடுக்கும் நெடுந்தோள் கொண்டவனே! வீணே பகையை` while the earlier question lacks `வீணே` | source: `தேன் குடிக்கப் போகின்ற வண்டை - வீணே / ஏன் தடுக்கின்றாய்?`; later `குன்றெடுக்கும் நெடுந்தோள் கொண்டவனே! - பகையை` | `repository-only-divergence` | no | `வீணே` exists in both layers but is attached to the wrong sentence in the locked page, materially changing the meaning of both clauses. |
+| C02-005 | 39 | 24 | `0039-sumanthavan-sumantha-sogam-03.md` | `ஔவைக்குக்` | `ஒளவைக்குக்` | `old-or-uncommon-form` | no | This edition prints the historical/name form `ஒளவை`; locked wording normalizes this occurrence to `ஔவை`. |
+| C02-006 | 40 | 25 | `0040-sumanthavan-sumantha-sogam-04.md` | `ஔவைப் பிராட்டி` | `ஒளவைப் பிராட்டி` | `old-or-uncommon-form` | no | Same edition-specific name-form divergence as scan 39. |
+| C02-007 | 40 | 25 | `0040-sumanthavan-sumantha-sogam-04.md` | `வெள்ளை வெள்யாட்டுச் செச்சை போலத்` | `வெள்ளை வெள்ளாட்டுச் செச்சை போலத்` | `likely-gemini-error` | **yes — B02** | B02 already documented this locked quote discrepancy. The source gloss on scan 41 also reads `வெள்ளாட்டுச் செச்சை`, corroborating the source form. |
+| C02-008 | 47 | 32 | `0047-kaakkaikku-nandri-kaatta-01.md` | heading `காக்கைக்கு` | heading `காக்கைக்கு நன்றி காட்ட...` | `likely-gemini-error` | **yes — B02** | File1/locked body supplies only the first heading word; the source-visible heading remainder remains unrecovered under the lock. |
+| C02-009 | 47 | 32 | `0047-kaakkaikku-nandri-kaatta-01.md` | `அப்படியொரு காகம் கரைந்திற்றாங்கே!` | `அப்படியொரு காகம் கரைந்திற்றங்கே!` | `likely-gemini-error` | no | Source lacks the additional long `ஆ` present in the locked form. |
+
+## C02 closure audit
+
+C02 is an **audit-only closure**.
+
+- source scans **26–50** were visually inspected against the preserved locked page layer;
+- **9** substantive discrepancy records were entered;
+- **0** canonical page records were edited;
+- no Gate-B page was reopened;
+- no lexical correction was promoted;
+- wording state remains **Gemini-lexical-locked / not word-for-word scan verified**.
+
+## Gate C cumulative state after C02
+
+- completed Gate-C batches: **C01–C02**
+- audited scans: **50/497**
+- cumulative substantive discrepancy records: **20**
+- remaining scans: **447**
+- next frontier: **scan 51**
+- Gate C2: **NOT STARTED / NOT AUTHORIZED**
+
+## Exact next activity
+
+Process **Gate C C03 — scans 51–75**.
+
+Required source pair from the durable Gate-B mapping:
+
+- `TVA_BOK_0042551_சங்கத்_தமிழ்_part_002_pages_51-100.pdf`
+- `File2.md` when directly available; otherwise the current canonical wording remains the preserved Gemini-lock comparison layer.
+
+At C03 close:
+1. append only substantive lexical discrepancies to this ledger;
+2. verify **0 canonical page files changed**;
+3. advance the Gate-C frontier to **scan 76**;
+4. do not start Gate C2.
