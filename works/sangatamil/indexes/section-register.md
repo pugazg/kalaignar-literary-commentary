@@ -6,7 +6,7 @@ The source does not use the numbered `மலர்` scheme seen in *தொல்
 
 The canonical execution plan is `../PRODUCTIVE_COMPLETION_PLAN.md`; the lexical override is `../GEMINI_TEXT_LOCK.md`; live progress is `../STRUCTURAL_FIDELITY_PROGRESS.md`.
 
-For the current Gate-B workflow, Gemini wording is lexically locked while the scan controls decorative-heading placement and structural section evidence. A source-visible heading may be recorded in metadata even when the locked Gemini body heading differs; full canonical section reconstruction remains Gate E.
+Gate B and Gate D are closed. Gemini wording remains lexically locked while the scan controls decorative-heading placement and structural section evidence. A source-visible heading may be recorded in metadata even when the locked Gemini body heading differs. **Gate E is now the active gate for full canonical section reconstruction.**
 
 A Stage-0 regression pilot demonstrated substantive errors in the previously `verified` Section 004 records. The printed heading and affected page text have been corrected and the text-page statuses reopened pending systematic Pass 2/3 review.
 
@@ -35,7 +35,7 @@ The source PDF is complete through scan **497**, which is the back cover. The re
 
 ## Current execution boundary
 
-Physical records exist for **all scans 1–497**. Gate B has structurally reviewed **425/497** scans; frontier **426**. Canonical section completion remains deferred to **Gate E**.
+Physical records exist for **all scans 1–497**. Gate B is **COMPLETE / PASS — 497/497**, and Gate D is **COMPLETE / PASS — 497/497 physical/visual/continuity closed**. Canonical section completion is now the **active Gate E task**.
 
 
 Gate-B note: physical scan **425** is the decorative divider `ஒருதலைக் காதல்`; unsupported repository heading `கைக்கிளை` was removed during B17. Full canonical section reconstruction remains Gate E.
