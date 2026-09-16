@@ -139,6 +139,13 @@ Durable extraction/mapping exceptions from Gate B remain authoritative in `STRUC
 
 C20 execution note: the supplied Part-010 PDF/File10 pair was used for scans 476–497. Six substantive discrepancies were recorded across 5 scans. Gate C closed at 497/497 with 140 cumulative discrepancy records and 0 canonical page-wording changes. Gate C2 remains unauthorized.
 
+Gate D — **COMPLETE / PASS**:
+- physical scans audited — **497/497**;
+- canonical records — **497/497**;
+- unresolved physical / visual / continuity issues — **0**;
+- canonical page changes during Gate D — **0**;
+- durable report — `works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md`.
+
 ### Exact next activity
 
-Proceed to Gate D — **physical / visual / continuity closure**. Audit all **497 scans** for one-scan/one-record coverage, covers/blanks/illustrations/dividers/end matter, printed pagination, running headers/footers, meaningful alignment, continuation relationships, cross-page sentence/verse continuity, and shared-page/boundary anomalies. Create `works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md`. Do not start Gate C2 unless explicitly authorized.
+Proceed to Gate E — **canonical section reconstruction**. Complete `works/sangatamil/indexes/section-register.md`, create/refresh source-order section READMEs, and create `works/sangatamil/SECTION_COVERAGE_AUDIT.md`. Every scan **1–497** must be assigned exactly once to front matter, a thematic section, illustration/divider role, or end matter/back cover. Do not start Gate C2 unless explicitly authorized.
