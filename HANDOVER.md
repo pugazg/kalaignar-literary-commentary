@@ -670,12 +670,13 @@ Use `works/kuraloviyam/sections/entries/index.json` as the preferred structured 
 - C2-13 scans **301–325 — COMPLETE / APPLIED**
 - C2-14 scans **326–350 — COMPLETE / APPLIED**
 - C2-15 scans **351–375 — COMPLETE / APPLIED**
+- C2-16 scans **376–400 — COMPLETE / APPLIED**
 - durable record — `works/sangatamil/C2_SOURCE_CORRECTION_PROGRESS.md`
-- C2 disposition coverage — **375/497 scans**
-- historical discrepancy records dispositioned through C15 — **89/140**
-- C2-15 user-authorized corrections applied at scans **352, 361, 363, 373**
-- C2-15 protected Gemini-correct readings — scans **359, 360, 364, 366, 370**
-- scans **376–497 — LOCKED / C2 NOT AUTHORIZED**
+- C2 disposition coverage — **400/497 scans**
+- historical discrepancy records dispositioned through C16 — **92/140**
+- C2-16 user-authorized corrections applied at scans **377, 383**
+- C2-16 protected Gemini-correct prose — scan **383**
+- scans **401–497 — LOCKED / C2 NOT AUTHORIZED**
 - whole-volume word-for-word verification — **NOT CLAIMED**
 - Gate G — **DEFERRED**
-- exact next activity — **wait for user's C2 findings/instructions for scans 376–400**
+- exact next activity — **wait for user's C2 findings/instructions for scans 401–425**

@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running author header; section closure; Kuruntokai quotation, provenance and பொருள் விளக்கம்; printed page number 371"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 quotation correction and protected prose"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 382
 ---
@@ -38,7 +38,7 @@ continues_from_scan: 382
 
 *
 
-> “இடிக்கும் கேளிர்! நும்குறை ஆகம்
+> “இடிக்கும் கேளிர்! நுங்குறை ஆகம்
 > நிறுக்கல் ஆற்றினோ நன்றுமற் றில்ல;
 > ஞாயிறு காயும் வெவ்வறை மருங்கில்
 > கையில் ஊமன் கண்ணிற் காக்கும்
@@ -60,4 +60,4 @@ continues_from_scan: 382
 
 *
 
-<!-- Gate B restores File8-locked `அறிவுரைகளை`, `நும்குறை`, and `நிறுக்கல்`; visible-source alternatives are not substituted during the lexical-lock gate. -->
+<!-- C2-16: user confirmed prose `நீண்ட அறிவுரைகளை நீட்டி முழக்குகின்றாய்!` as Gemini-correct and protected it; quotation `நும்குறை` is corrected to source `நுங்குறை`. Source-supported `நிறுக்கல்` remains unchanged. -->

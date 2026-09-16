@@ -21,10 +21,11 @@ The user explicitly opened C2 in manual batches and supplied adjudications that 
 - **C2-13 — scans 301–325**
 - **C2-14 — scans 326–350**
 - **C2-15 — scans 351–375**
+- **C2-16 — scans 376–400**
 
 The historical Gate-C ledger remains an audit record. Where the user's manual C2 adjudication disagrees with the earlier Gate-C interpretation, **the user's adjudication controls**.
 
-Scans **376–497 remain Gemini-lexical-locked** until the user supplies further instructions.
+Scans **401–497 remain Gemini-lexical-locked** until the user supplies further instructions.
 
 ## C2-01 — scans 1–25
 
@@ -259,18 +260,31 @@ C2-14 page files modified: **326, 328, 340**. C14-002 and C14-004 required no ca
 
 C2-15 page files modified: **352, 361, 363, 373**.
 
+
+## C2-16 — scans 376–400
+
+**Status: COMPLETE / APPLIED**
+
+| Gate-C ID | Scan | User adjudication | Repository action |
+|---|---:|---|---|
+| C16-001 | 377 | source `அகன்ற வாய்ப் பருந்துகளும் வட்டமிட்டுச் சூழ்ந்தபோது;` — Gemini error | corrected `பருந்துக்களும்` → `பருந்துகளும்` |
+| C16-002 | 383 | `நீண்ட அறிவுரைகளை நீட்டி முழக்குகின்றாய்!` — Gemini is correct | no change; protected |
+| C16-003 | 383 | source quotation `இடிக்கும் கேளிர்! நுங்குறை ஆகம் நிறுக்கல்...` — Gemini error | corrected quotation `நும்குறை` → `நுங்குறை`; retained source-supported `நிறுக்கல்` |
+
+C2-16 page files modified: **377, 383**.
+
 ## Cumulative C2 state
 
-- C2 disposition coverage — **375/497 scans** (C06 closed with 0 discrepancy records)
-- modified canonical page files — **52**
-- literary/source corrections applied — scans **7, 21, 28, 29, 35, 47, 51, 59, 64, 70, 77, 83, 96, 113, 123, 163, 165, 175, 188, 192, 195, 199, 208, 221, 223, 226, 230, 237, 240, 248, 254, 257, 281, 288, 292, 294, 296, 304, 307, 309, 312, 313, 326, 328, 340, 352, 361, 363, 373**
+- C2 disposition coverage — **400/497 scans** (C06 closed with 0 discrepancy records)
+- modified canonical page files — **54**
+- literary/source corrections applied — scans **7, 21, 28, 29, 35, 47, 51, 59, 64, 70, 77, 83, 96, 113, 123, 163, 165, 175, 188, 192, 195, 199, 208, 221, 223, 226, 230, 237, 240, 248, 254, 257, 281, 288, 292, 294, 296, 304, 307, 309, 312, 313, 326, 328, 340, 352, 361, 363, 373, 377, 383**
 - facsimile-description policy applied — scan **8**
 - stale divergence / section-title metadata cleaned without body change — scans **40, 112**
-- protected Gemini-correct findings — scans **5, 9, 11, 13, 19, 29, 39, 40, 47, 53, 58, 64, 87, 96, 120, 174, 180, 199, 257, 274, 312, 313, 331, 359, 360, 364, 366, 370**
-- scans **376–497** — **LOCKED / C2 NOT AUTHORIZED**
+- protected Gemini-correct findings — scans **5, 9, 11, 13, 19, 29, 39, 40, 47, 53, 58, 64, 87, 96, 120, 174, 180, 199, 257, 274, 312, 313, 331, 359, 360, 364, 366, 370, 383**
+- scans **401–497** — **LOCKED / C2 NOT AUTHORIZED**
 - whole-volume word-for-word verification — **NOT CLAIMED**
 - Gate G — **DEFERRED**
 
 ## Next activity
 
-Wait for the user's C2 findings/instructions for **scans 376–400**. Do not modify that batch from the historical ledger alone.
+Wait for the user's C2 findings/instructions for **scans 401–425**. Do not modify that batch from the historical ledger alone.
