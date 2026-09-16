@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; minister presses caution, cites Paanan and Katti in two numbered passages, then urges Tiththan to summon Narkilli; printed page number 466"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; visible numbering, wording, and line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini lexical scaffold with user-authorized C2 source restoration; visible numbering and line order otherwise retained"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 477
 ---
@@ -31,6 +31,7 @@ continues_from_scan: 477
 நெய் தடவிய கரிய பூண் அமைந்த நெடுவேல் கையிலேந்தி
 நேர்நின்று பகைவரை எதிர்த்து வெல்லும் புறங்கொடாத
 புலிப்போத்து
+என்று
 பாணன் வீரத்தைக் கல்லாடனார் வியந்துரைப்பார்!
 
 2. பல்வேறு வேற்படைகளைக் கொண்டு பகையெதிர்க்கும்
@@ -55,3 +56,5 @@ continues_from_scan: 477
 
 “கிள்ளிக்கா? என்மகன் கிள்ளிக்கா? என்னை
 எள்ளி நகையாடிவிட்டுப்போன நற்கிள்ளி;
+
+<!-- C2-20: user-authorized source restoration inserted standalone `என்று` between `புலிப்போத்து` and `பாணன் வீரத்தைக்...`. -->

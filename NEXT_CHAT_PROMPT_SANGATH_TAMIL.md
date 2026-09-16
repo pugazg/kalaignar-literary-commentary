@@ -1,50 +1,44 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate C2 C20 / scans 476–497
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate G Metadata + Status Closure
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Closed base gates
+## Closed archival/content gates
 
 - Gate A — **COMPLETE / PASS** — 497/497 canonical scan records.
 - Gate B — **COMPLETE / PASS** — 497/497 structurally reviewed.
 - Gate C — **COMPLETE / PASS** — 497/497 discrepancy audit / 140 historical records.
+- Gate C2 — **COMPLETE / APPLIED** — 497/497 disposition coverage; **140/140** historical Gate-C discrepancy records user-adjudicated.
 - Gate D — **COMPLETE / PASS** — 497/497 physical / visual / continuity closed.
 - Gate E — **COMPLETE / PASS** — 104 section-role entries / 497/497 scans assigned exactly once.
 - Gate F — **COMPLETE / PASS** — 115 formal provenance units + 4 source-note-only records.
 
-## Gate C2 current state
+Important C2 closure rule:
+- no scan range remains C2-locked;
+- user-confirmed Gemini-correct readings remain protected;
+- C2 closure means all **recorded Gate-C discrepancies** were dispositioned;
+- **do not claim whole-volume word-for-word scan verification**, because C2 did not re-run an exhaustive token-by-token verification of every source word.
 
-Gate C2 is user-controlled and only open where the user has supplied manual adjudication.
+## Active gate — Gate G
 
-- C2-01 scans **1–25 — COMPLETE / APPLIED**
-- C2-02 scans **26–50 — COMPLETE / APPLIED**
-- C2-03 scans **51–75 — COMPLETE / APPLIED**
-- C2-04 scans **76–100 — COMPLETE / APPLIED**
-- C2-05 scans **101–125 — COMPLETE / APPLIED**
-- C2-06 scans **126–150 — COMPLETE / NO DISCREPANCY RECORDS / NO PAGE ACTION**
-- C2-07 scans **151–175 — COMPLETE / APPLIED**
-- C2-08 scans **176–200 — COMPLETE / APPLIED**
-- C2-09 scans **201–225 — COMPLETE / APPLIED**
-- C2-10 scans **226–250 — COMPLETE / APPLIED**
-- C2-11 scans **251–275 — COMPLETE / APPLIED**
-- C2-12 scans **276–300 — COMPLETE / APPLIED**
-- C2-13 scans **301–325 — COMPLETE / APPLIED**
-- C2-14 scans **326–350 — COMPLETE / APPLIED**
-- C2-15 scans **351–375 — COMPLETE / APPLIED**
-- C2-16 scans **376–400 — COMPLETE / APPLIED**
-- C2-17 scans **401–425 — COMPLETE / APPLIED**
-- C2-18 scans **426–450 — COMPLETE / APPLIED**
-- C2-19 scans **451–475 — COMPLETE / APPLIED**
-- durable record — `works/sangatamil/C2_SOURCE_CORRECTION_PROGRESS.md`
-- scans **476–497 remain Gemini-lexical-locked**
-- Gate G — **DEFERRED**
+Audit all **497 canonical page records** for metadata/status consistency:
 
-Important manual rulings already applied:
-- user-confirmed **Gemini is correct** readings are protected from source-led replacement;
-- repository-only placement/header divergences are corrected where the user marked them correct;
-- scan **8** handwritten `முன்னுரை` is description-only; do not interpret/transcribe the handwritten letter.
+- `scan_page`;
+- `printed_page`;
+- `section`;
+- `page_type`;
+- `status`;
+- `visual_fidelity`;
+- continuation fields;
+- `source_filename`;
+- `transcription_method`;
+- filename/path consistency.
+
+Do not reopen lexical wording, Gate-B structure, section boundaries, or provenance merely for stylistic normalization.
 
 ## Exact next activity
 
-**Wait for the user's findings/instructions for scans 476–497.**
+Start **Gate G metadata/status closure** from live `main`.
 
-Do not modify scans 476+ merely from the historical Gate-C ledger. When the user supplies C2 adjudications, treat those findings as controlling evidence for that batch, apply only authorized changes.
+Create or update a durable Gate-G audit report, fix only demonstrable metadata/status inconsistencies, synchronize `PRODUCTIVE_COMPLETION_PLAN.md`, root `HANDOVER.md`, and this next-chat prompt, and report the remaining Gate-G count.
+
+After Gate G closes, proceed to **Gate H — derived navigation layer**.

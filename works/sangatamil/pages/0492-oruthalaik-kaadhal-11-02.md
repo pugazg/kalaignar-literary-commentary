@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; the cloaked figure attempts to drug and seize Aiyai, Narkilli throws his sword in darkness, and discovers Narkannai mortally wounded; printed page number 480"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; visible wording and line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini lexical scaffold with user-authorized C2 source correction; visible line order otherwise retained"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 491
 ---
@@ -40,7 +40,7 @@ continues_from_scan: 491
 காரிருள் எங்கும் கப்பிக்கொண்டதய்யோ!
 
 “ஆ!” என்று வீறிட்டு அடங்கிய அவலக்குரல் ஓர்
-ஆரணங்கின் குரல் என உணர்ந்து
+ஆரணங்கின் குரலாய் இருப்பதை உணர்ந்து
 “ஐயை! ஐயை! அன்புத் தங்கையே! - உன்
 ஆவிபோக்கிடும் எமனாக நானே வந்துவிட்டேனா?” என்றலறி,
 விளக்கொன்றை விரைவாக ஏற்றிக்கொண்டு
@@ -54,3 +54,5 @@ continues_from_scan: 491
 உயிருக்கு விடைகொடுத்துக் கொண்டிருந்தாள் - அவள்,
 உருவத்தை மறைத்திருந்த கரும்போர்வை
 ஒரு மூலையிலே ஒதுங்கிக் கிடந்ததுவே!
+
+<!-- C2-20: user-authorized source correction applied: `ஆரணங்கின் குரல் என உணர்ந்து` → `ஆரணங்கின் குரலாய் இருப்பதை உணர்ந்து`. -->

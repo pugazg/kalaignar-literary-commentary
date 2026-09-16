@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running author header; enemy demand regarding Aiyai, Kavarpencu's refusal, Katti's description of Aiyai, and beginning of numbered Sangam quotation 1; printed page number 469"
 language: "ta"
-transcription_method: "source-first transcription from controlling scan with Gemini used as lexical scaffold; visible quoted text, provenance opening, and paragraph flow checked directly against scan; textual/visual verification deferred"
+transcription_method: "source-first transcription from controlling scan with user-authorized C2 quotation restoration; provenance opening and paragraph flow otherwise retained"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 480
 ---
@@ -50,7 +50,10 @@ continues_from_scan: 480
 ஓம்பினர் உறையும் கூழ்கெழு குறும்பில்
 குவையிமில் விடைய வேற்றா ஒய்யும்
 கனையிருஞ் சுருணைக் கனிகாழ் நெடுவேல்
-விழவு அயர்ந் தன்ன கொழும்பில் திற்றி........”
+விழவு அயர்ந் தன்ன கொழும்பில் திற்றி........
+எழாஅப் பாணன்........”
 
 (அகநானூறு : பாடல் : 113
 பாடியவர் : கல்லாடனார்)
+
+<!-- C2-20: user-authorized source restoration appended missing quoted line `எழாஅப் பாணன்........` before the quotation close; later glossary evidence remains unchanged. -->

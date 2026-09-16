@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; Aiyai and the mortally wounded Narkannai explain how the sword strike fulfilled Narkannai's vow, followed by Narkilli's grief; printed page number 482"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; visible wording and line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini lexical scaffold with user-authorized C2 source correction and protected Gemini reading; visible line order otherwise retained"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 493
 ---
@@ -28,7 +28,7 @@ continues_from_scan: 493
 இதோபார்; யார் வாளால் வீழ்ந்துள்ளேன் பார்!
 இளவரசியுன்னை சிறையெடுத்துப் போவதாக
 எழுத்தைமாற்றி நான் எழுதி வீசிய ஓலையால்
-எமாந்துபோனார் உன் அண்ணன்!
+ஏமாந்துபோனார் உன் அண்ணன்!
 எதிரியெனக் கருதிக்கொண்டு
 எப்படியோ என் சபதத்தை
 அவரையறியாமல் நிறைவேற்றி வைத்துவிட்டார்!
@@ -52,3 +52,5 @@ continues_from_scan: 493
 மண்டியிட்டு அவள் தலையைத் தன் மடிமீது வைத்துக்கொண்டான்!
 கண்ணீர் வழிந்திட்ட கிள்ளியின் கன்னத்தை, தன்
 காந்தள் விரல்களாலே துடைத்திட்டாள் நற்கண்ணை!
+
+<!-- C2-20: user-authorized source correction applied: `எமாந்துபோனார்` → `ஏமாந்துபோனார்`; user-confirmed Gemini reading `எடுத்தெறிந்து பேசினாரே, நற்கிள்ளி!` remains protected unchanged. -->

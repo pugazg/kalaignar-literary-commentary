@@ -23,7 +23,7 @@ Gate C is **audit-only**.
 
 ## Gate C2 superseding adjudication
 
-Gate C is a historical audit record. C2 disposition is now complete through **scan 475**: scans 1–125 and 151–475 were manually adjudicated, while scans 126–150 contain no Gate-C discrepancy records and required no page action. Those manual rulings supersede the earlier automated interpretation for correction decisions.
+Gate C is a historical audit record. C2 disposition is now complete through **scan 497**: all 140 historical Gate-C discrepancy records have been manually adjudicated; scans 126–150 contained no discrepancy records and required no page action. Those manual rulings supersede the earlier automated interpretation for correction decisions.
 
 Durable Gate-C2 record: `C2_SOURCE_CORRECTION_PROGRESS.md`.
 
@@ -47,9 +47,10 @@ Important:
 - C2-17 scans **401–425 — COMPLETE / APPLIED**;
 - C2-18 scans **426–450 — COMPLETE / APPLIED**;
 - C2-19 scans **451–475 — COMPLETE / APPLIED**;
+- C2-20 scans **476–497 — COMPLETE / APPLIED — FINAL C2 BATCH**;
 - entries the user marks **Gemini is correct** are protected and must not be source-corrected;
 - scan **8** is a handwritten letter/facsimile and is description-only by user instruction;
-- scans **476–497 remain locked** and historical Gate-C rows for those scans are **not authorization to edit**.
+- **no scan range remains C2-locked**; all historical Gate-C discrepancy rows are dispositioned. Historical rows remain preserved as audit evidence.
 
 
 ## Execution note
@@ -1577,29 +1578,14 @@ Durable Gate-D output:
 Do **not** start Gate C2 unless explicitly authorized.
 
 
-## Current Gate C2 state — 2026-09-16
+## Final Gate C2 state — 2026-09-16
 
-- C2 disposition coverage — **scans 1–475**
-- C2-01 — **COMPLETE / APPLIED**
-- C2-02 — **COMPLETE / APPLIED**
-- C2-03 — **COMPLETE / APPLIED**
-- C2-04 — **COMPLETE / APPLIED**
-- C2-05 — **COMPLETE / APPLIED**
-- C2-06 — **COMPLETE / NO DISCREPANCY RECORDS / NO PAGE ACTION**
-- C2-07 — **COMPLETE / APPLIED**
-- C2-08 — **COMPLETE / APPLIED**
-- C2-09 — **COMPLETE / APPLIED**
-- C2-10 — **COMPLETE / APPLIED**
-- C2-11 — **COMPLETE / APPLIED**
-- C2-12 — **COMPLETE / APPLIED**
-- C2-13 — **COMPLETE / APPLIED**
-- C2-14 — **COMPLETE / APPLIED**
-- C2-15 — **COMPLETE / APPLIED**
-- C2-16 — **COMPLETE / APPLIED**
-- C2-17 — **COMPLETE / APPLIED**
-- C2-18 — **COMPLETE / APPLIED**
-- C2-19 — **COMPLETE / APPLIED**
-- historical discrepancy records dispositioned through C19 — **134/140**
-- scans 476–497 — **LOCKED / NOT AUTHORIZED**
-- correction authority — user's manual findings, not the historical Gate-C classification alone
+- C2 disposition coverage — **scans 1–497 / COMPLETE**
+- C2-01 through C2-20 — **COMPLETE / APPLIED**
+- historical discrepancy records dispositioned — **140/140**
+- historical discrepancy records remaining — **0**
+- no scan range remains C2-locked
+- correction authority — user's manual findings; historical Gate-C classifications remain audit history
 - durable correction record — `C2_SOURCE_CORRECTION_PROGRESS.md`
+- whole-volume word-for-word scan verification — **NOT CLAIMED**
+- exact next gate — **Gate G metadata/status closure**

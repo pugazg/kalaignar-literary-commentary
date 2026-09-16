@@ -25,10 +25,11 @@ The user explicitly opened C2 in manual batches and supplied adjudications that 
 - **C2-17 — scans 401–425**
 - **C2-18 — scans 426–450**
 - **C2-19 — scans 451–475**
+- **C2-20 — scans 476–497**
 
 The historical Gate-C ledger remains an audit record. Where the user's manual C2 adjudication disagrees with the earlier Gate-C interpretation, **the user's adjudication controls**.
 
-Scans **476–497 remain Gemini-lexical-locked** until the user supplies further instructions.
+**Gate C2 is complete through scan 497. No scan range remains C2-locked.**
 
 ## C2-01 — scans 1–25
 
@@ -348,18 +349,45 @@ C2-18 page files modified: **430, 431, 435, 436, 441, 442, 448**. Scans **429** 
 
 C2-19 page files modified: **451, 454, 456, 472, 473**.
 
+
+## C2-20 — scans 476–497
+
+**Status: COMPLETE / APPLIED — FINAL C2 BATCH**
+
+| Gate-C ID | Scan | User adjudication | Repository action |
+|---|---:|---|---|
+| C20-001 | 478 | source includes standalone `என்று` between `புலிப்போத்து` and `பாணன் வீரத்தைக்...` — Gemini error | restored standalone `என்று` |
+| C20-002 | 481 | source quotation continues with `எழாஅப் பாணன்........` — missing whole lexical block / Gemini error | restored the missing quoted continuation before the quotation close |
+| C20-003 | 492 | source `ஆரணங்கின் குரலாய் இருப்பதை உணர்ந்து` — Gemini error | replaced `ஆரணங்கின் குரல் என உணர்ந்து` with exact source wording |
+| C20-004 | 494 | `எடுத்தெறிந்து பேசினாரே, நற்கிள்ளி!` — Gemini is correct | no change; protected |
+| C20-005 | 494 | source `ஏமாந்துபோனார் உன் அண்ணன்!` — Gemini error | corrected `எமாந்துபோனார்` → `ஏமாந்துபோனார்` |
+| C20-006 | 495 | `இனியவரே! இன்றென்காதல் கைகூடியது! எனை,` — Gemini is correct | no change; protected |
+
+C2-20 page files modified: **478, 481, 492, 494**. Scan **495** required no edit.
+
+## Gate C2 closure
+
+- C2-01 through C2-20 — **COMPLETE / APPLIED**
+- disposition coverage — **497/497 scans**
+- historical Gate-C discrepancy records dispositioned — **140/140**
+- historical discrepancy records remaining — **0**
+- no scan range remains C2-locked
+- this closes the **user-adjudicated discrepancy correction program**
+- **whole-volume word-for-word scan verification is still NOT CLAIMED**; C2 adjudicated the 140 recorded Gate-C discrepancies rather than re-performing an exhaustive token-by-token verification of every scan
+- exact next gate — **Gate G: metadata/status closure**
+
 ## Cumulative C2 state
 
-- C2 disposition coverage — **475/497 scans** (C06 closed with 0 discrepancy records)
-- modified canonical page files — **72**
-- literary/source corrections applied — scans **7, 21, 28, 29, 35, 47, 51, 59, 64, 70, 77, 83, 96, 113, 123, 163, 165, 175, 188, 192, 195, 199, 208, 221, 223, 226, 230, 237, 240, 248, 254, 257, 281, 288, 292, 294, 296, 304, 307, 309, 312, 313, 326, 328, 340, 352, 361, 363, 373, 377, 383, 402, 404, 413, 420, 421, 422, 430, 431, 435, 436, 441, 442, 448, 451, 454, 456, 472, 473**
+- C2 disposition coverage — **497/497 scans** (C06 closed with 0 discrepancy records)
+- modified canonical page files — **76**
+- literary/source corrections applied — scans **7, 21, 28, 29, 35, 47, 51, 59, 64, 70, 77, 83, 96, 113, 123, 163, 165, 175, 188, 192, 195, 199, 208, 221, 223, 226, 230, 237, 240, 248, 254, 257, 281, 288, 292, 294, 296, 304, 307, 309, 312, 313, 326, 328, 340, 352, 361, 363, 373, 377, 383, 402, 404, 413, 420, 421, 422, 430, 431, 435, 436, 441, 442, 448, 451, 454, 456, 472, 473, 478, 481, 492, 494**
 - facsimile-description policy applied — scan **8**
 - stale divergence / section-title metadata cleaned without body change — scans **40, 112**
-- protected Gemini-correct findings — scans **5, 9, 11, 13, 19, 29, 39, 40, 47, 53, 58, 64, 87, 96, 120, 174, 180, 199, 257, 274, 312, 313, 331, 359, 360, 364, 366, 370, 383, 410, 429, 434, 455, 456, 458, 463, 467, 468, 470**
-- scans **476–497** — **LOCKED / C2 NOT AUTHORIZED**
+- protected Gemini-correct findings — scans **5, 9, 11, 13, 19, 29, 39, 40, 47, 53, 58, 64, 87, 96, 120, 174, 180, 199, 257, 274, 312, 313, 331, 359, 360, 364, 366, 370, 383, 410, 429, 434, 455, 456, 458, 463, 467, 468, 470, 494, 495**
+- scans **1–497** — **C2 DISPOSITION COMPLETE / NO LOCKED REMAINDER**
 - whole-volume word-for-word verification — **NOT CLAIMED**
 - Gate G — **DEFERRED**
 
 ## Next activity
 
-Wait for the user's C2 findings/instructions for **scans 476–497**. Do not modify that batch from the historical ledger alone.
+Proceed to **Gate G — metadata/status closure**. Audit metadata/status across all 497 canonical page records without reopening closed lexical/structural decisions unless a genuine metadata inconsistency requires it.
