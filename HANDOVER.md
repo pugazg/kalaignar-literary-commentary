@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed 2026-09-16: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gate B is COMPLETE / PASS; Gate C C01–C05 scans 1–125 are COMPLETE with frontier scan 126.
+Last refreshed 2026-09-16: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gate B is COMPLETE / PASS; Gate C C01–C06 scans 1–150 are COMPLETE with frontier scan 151.
 
 ## Repository
 
@@ -47,11 +47,11 @@ Gate B: **COMPLETE / PASS — 497/497 structurally reviewed / 0 remaining / 0 un
 
 Current gate: **Gate C — lexical discrepancy audit under the current lock — IN PROGRESS**.
 
-C01–C05 scans **1–125 — COMPLETE / PASS**; **36 cumulative substantive discrepancies** recorded in `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`; Gate-C frontier **scan 126**.
+C01–C06 scans **1–150 — COMPLETE / PASS**; **36 cumulative substantive discrepancies** recorded in `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`; C06 is a **clean batch with 0 new discrepancy records**; Gate-C frontier **scan 151**.
 
-Latest Gate-C ledger commit: `4e942af8ef1330d1e924ff2c5d720595fad1fffb`.
+Latest Gate-C ledger commit: `e83d7ffebf8284a25a0b6710dcc31fc0138180f5`.
 
-Exact next activity: **Gate C C06 scans 126–150** using the already supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_003_pages_101-150.pdf` + `File3.md`. Audit only; do not modify page wording.
+Exact next activity: **Gate C C07 scans 151–175** using the controlling source covering that range and `File4.md` when available. Audit only; do not modify page wording.
 
 ## Mandatory startup — active சங்கத் தமிழ் work
 
@@ -113,11 +113,11 @@ Gate B source processing is closed through scan 497.
 
 Current Gate-C source start:
 
-- completed Gate-C range: scans 1–125
-- current C06 target: scans 126–150
-- controlling source supplied: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_003_pages_101-150.pdf` — use split pages 26–50
-- matching lexical file supplied: `File3.md` — Pages 126–150
-- canonical records: `works/sangatamil/pages/0126-*.md` through `0150-*.md`
+- completed Gate-C range: scans 1–150
+- current C07 target: scans 151–175
+- controlling source: resolve the PDF/split covering physical scans 151–175
+- matching lexical file: `File4.md` when directly available; otherwise current canonical wording remains the preserved lock layer
+- canonical records: `works/sangatamil/pages/0151-*.md` through `0175-*.md`
 
 Gemini page comments are navigation aids only; they do not establish physical scan numbering. The scan does.
 
@@ -198,12 +198,12 @@ In a fresh Sangath Tamil chat:
 
 1. fetch live main
 2. read the active controls listed above, including works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md
-3. confirm C01–C05 scans 1–125 are COMPLETE and Gate-C frontier is scan 126
-4. use the supplied TVA_BOK_0042551_சங்கத்_தமிழ்_part_003_pages_101-150.pdf split pages 26–50 and File3.md Pages 126–150
-5. audit the direct File3 lock against the PDF source and append substantive discrepancies only
+3. confirm C01–C06 scans 1–150 are COMPLETE and Gate-C frontier is scan 151
+4. resolve the controlling source covering scans 151–175 and File4.md when available
+5. audit the locked wording against the source and append substantive discrepancies only
 6. verify no canonical page files changed
 7. commit the ledger update
-8. synchronize operational docs and advance frontier to scan 151
+8. synchronize operational docs and advance frontier to scan 176
 
 Gate C remains audit-only. Do not change page wording and do not start Gate C2 without explicit user authorization.
 

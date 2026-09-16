@@ -21,12 +21,13 @@ Gate C — IN PROGRESS:
 - C03 scans 51–75 — COMPLETE / PASS
 - C04 scans 76–100 — COMPLETE / PASS
 - C05 scans 101–125 — COMPLETE / PASS
-- audited — 125/497
-- remaining — 372
-- frontier — scan 126
+- C06 scans 126–150 — COMPLETE / PASS / CLEAN
+- audited — 150/497
+- remaining — 347
+- frontier — scan 151
 - cumulative discrepancy records — 36
 - mode — audit-only / no page-wording changes
-- latest ledger commit — 4e942af8ef1330d1e924ff2c5d720595fad1fffb
+- latest ledger commit — e83d7ffebf8284a25a0b6710dcc31fc0138180f5
 
 Latest B20 page-layer endpoint: e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c
 
@@ -69,4 +70,4 @@ Gate-B structural completion does not automatically promote a page to verified. 
 
 ## Exact next activity
 
-Process Gate C C06 — scans 126–150 using the already supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_003_pages_101-150.pdf` split pages 26–50 + `File3.md` Pages 126–150. Append substantive discrepancies to LEXICAL_DISCREPANCY_LEDGER.md, verify 0 canonical page changes, and advance frontier to scan 151. Do not start Gate C2.
+Process Gate C C07 — scans 151–175 using the controlling PDF covering that range and `File4.md` when available. Append substantive discrepancies to LEXICAL_DISCREPANCY_LEDGER.md, verify 0 canonical page changes, and advance frontier to scan 176. Do not start Gate C2.
