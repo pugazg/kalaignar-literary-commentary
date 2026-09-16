@@ -1184,3 +1184,85 @@ At C17 close:
 2. verify **0 canonical page files changed**;
 3. advance the Gate-C frontier to **scan 426**;
 4. do not start Gate C2.
+
+
+# C17 — scans 401–425
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-16**
+- audited scans: **401–425 / 25**
+- controlling source: user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf`, split pages **1–25**
+- direct Gemini lexical witness: user-supplied `File9.md`, Phase 19 / Book Pages **389–413**, only where the File9 block is demonstrably reliable
+- locked comparison layer: current canonical page records under `works/sangatamil/pages/`
+- substantive discrepancy records: **8**
+- scans containing discrepancies: **7**
+- scans with no new substantive lexical discrepancy: **18**
+- canonical page files changed: **0**
+- Gate C2 corrections: **0**
+
+Clean / no-new-substantive-discrepancy scans:
+
+**401, 403, 405–409, 411–412, 414–419, 423–425**
+
+Special handling:
+- full-page illustration scans: **403, 407, 411, 415, 419, 423**;
+- scan **425** is a decorative divider and visibly reads `ஒருதலைக் காதல்`; the canonical divider wording agrees;
+- scans **413–424** retain the durable File9 segmentation/replacement anomaly documented in B17. No synthetic one-to-one File9 mapping was created. For those scans, C17 compared the source scan directly against the preserved repository layer and recorded only demonstrable lexical divergences;
+- scan **402** source visibly contains an additional `உன்` after `கண்ணா!`; File9/canonical omit it;
+- scan **404** was rechecked at high resolution. Source `போல்` agrees with File9/canonical; the earlier B17 note suggesting a visible-source alternative for `போல்` is not promoted into Gate C. Source `அருகில்`, however, differs from locked `கருகில்` and is recorded;
+- scan **406** File9 mixed-script corruption around `காயமுற்றோர்க்கு` remains extraction debris; canonical/source usable Tamil agrees;
+- scan **410** File9 duplicated fragment `னார்` remains extraction debris and is not recorded. The substantive source/lock difference is `கொலையேறு` vs `கொலைஏறு`;
+- punctuation-only, spacing-only, line-wrap, running-header/footer and purely structural differences were excluded unless they materially altered lexical interpretation.
+
+## C17 discrepancy records
+
+| ID | Scan | Printed page | Canonical page | Locked File9 / repository wording | Source-visible / source-aligned wording | Classification | Gate-B exception already documented? | Notes |
+|---|---:|---:|---|---|---|---|---|---|
+| C17-001 | 402 | 390 | `0402-nenjam-inikkiradhu-thanjam-pugath-thudikkiradhu-01.md` | `வஞ்சமின்றி வழங்கிடுவேன் உனக்காகக் கண்ணா!` followed directly by `மஞ்சத்து மயிலாக...` | source `வஞ்சமின்றி வழங்கிடுவேன் உனக்காகக் கண்ணா! - உன் / மஞ்சத்து மயிலாக...` | `likely-gemini-error` | **yes — B17** | File9/canonical omit the lexical token `உன்`. |
+| C17-002 | 404 | 392 | `0404-nenjam-inikkiradhu-thanjam-pugath-thudikkiradhu-03.md` | `கருகில் வரமுடியாமல் ஏங்கத்தான் வேண்டும்!` | source `அருகில் வரமுடியாமல் ஏங்கத்தான் வேண்டும்!` | `likely-gemini-error` | **yes — B17** | High-resolution source recheck confirms `அருகில்`. Source `போல்` elsewhere on the same page agrees with the locked layer and is not logged. |
+| C17-003 | 410 | 398 | `0410-aayamaghan-kuzhaloodhinaan-02.md` | `முலைவேதின் ஒற்றி முயங்கிப் பொதிவேம் / கொலைஏறு சாடிய புண்ணை......` | source `முலைவேதின் ஒற்றி முயங்கிப் பொதிவேம் / கொலையேறு சாடிய புண்ணை......` | `likely-gemini-error` | **yes — B17** | This is a substantive sandhi/spelling difference, not mere whitespace. |
+| C17-004 | 413 | 401 | `0413-solven-keladi-thozhi-01.md` | `மாயமாய் வந்து அவைகளப் பறிப்பான்!` | source `மாயமாய் வந்து அவைகளைப் பறிப்பான்!` | `repository-only-divergence` | **B17 anomaly range** | File9 has no reliable one-to-one block for this physical scan; direct source/repository comparison shows the missing `ை` in the canonical wording. |
+| C17-005 | 413 | 401 | `0413-solven-keladi-thozhi-01.md` | `தாயும் ஏன அருந்துவதற்கு “மகனே” என்றாள்!` | source `தாயும் எனை அருகழைத்து “மகளே” என்றாள்!` | `repository-only-divergence` | **B17 anomaly range** | Direct visual recheck shows a materially corrupted canonical phrase across multiple lexical tokens. |
+| C17-006 | 420 | 408 | `0420-iruvizhi-mazhaiyum-idhaya-magizhvvum-04.md` | `களிமிகுந்து பந்தாடிப் பழவிகளிடப் பஞ்சராகிக்` | source `களிறுகளைப் பந்தாடிப் புரவிகளைப் பஞ்சராக்கிக்` | `repository-only-divergence` | **B17 anomaly range** | The entire lexical line is materially corrupted in the preservation layer; no repair is made at Gate C. |
+| C17-007 | 421 | 409 | `0421-inba-vilakkettra-eppodhu-varuvaaro-01.md` | `கார் காலம் திலைகாட்டத் தொடங்கு முன்னர்` | source `கார் காலம் தலைகாட்டத் தொடங்கு முன்னர்` | `repository-only-divergence` | **B17 anomaly range** | Direct source/repository comparison confirms `தலைகாட்டத்`. |
+| C17-008 | 422 | 410 | `0422-inba-vilakkettra-eppodhu-varuvaaro-02.md` | `புத்திட்ட முல்லையிலே அமர்ந்து தேன் மொண்டு,` | source `பூத்திட்ட முல்லையிலே அமர்ந்து தேன் மொண்டு,` | `repository-only-divergence` | **B17 anomaly range** | Direct source/repository comparison confirms the long-vowel form `பூத்திட்ட`. |
+
+## C17 closure audit
+
+C17 is an **audit-only closure**.
+
+- source scans **401–425** were visually inspected against File9 where reliable and against the preserved repository layer where File9 is anomalous;
+- **8** substantive discrepancy records were entered across **7** scans;
+- **0** canonical page records were edited;
+- no Gate-B page was reopened;
+- no lexical correction was promoted;
+- wording state remains **Gemini-lexical-locked / not word-for-word scan verified**.
+
+## Gate C cumulative state after C17
+
+- completed Gate-C batches: **C01–C17**
+- audited scans: **425/497**
+- cumulative substantive discrepancy records: **100**
+- remaining scans: **72**
+- next frontier: **scan 426**
+- Gate C2: **NOT STARTED / NOT AUTHORIZED**
+
+## Exact next activity
+
+Process **Gate C C18 — scans 426–450**.
+
+Available direct source pair:
+- user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf`, split pages **26–50** / physical scans **426–450**;
+- user-supplied `File9.md`, Phase 20 only where a reliable block actually exists.
+
+Important carry-forward:
+- usable File9 Page **414–425** blocks map to physical scans **426–437**;
+- File9 Phase 20 contains **no lexical blocks for physical scans 438–450 / printed pages 426–438** despite its advertised range;
+- for scans **438–450**, do not fabricate a lexical mapping. Audit the source scan directly against the preserved repository layer and record only demonstrable substantive divergences.
+
+At C18 close:
+1. append only substantive lexical discrepancies to this ledger;
+2. verify **0 canonical page files changed**;
+3. advance the Gate-C frontier to **scan 451**;
+4. do not start Gate C2.
