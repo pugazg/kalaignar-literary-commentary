@@ -1793,3 +1793,133 @@ Mapping: split-PDF pages **26–50 = physical scans 426–450**.
 
 Preserve the Gemini lexical lock, but treat demonstrated File9 segmentation/replacement defects as documented extraction exceptions rather than fabricating lexical alignment. Do **not** start Gate C.
 
+
+
+## Batch B18 — scans 426–450
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-16**
+- scans reviewed: **426–450 / 25**
+- controlling source: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf`
+- lexical lock used: `File9.md` Phase 20 where an actual reliable block exists
+- batch base: `6e999ab282061801d2be5583cc5a6279a087e862`
+- page-layer endpoint: `0b77065c14ab3495fd3282c7697db5fb86b2cbcc`
+- structurally changed page records: **9**
+- reviewed with no page-record change: **16** — scans **427, 432, 433, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 449, 450**
+- scan-led lexical corrections / modernizations: **0**
+- unresolved structural placement issues: **0**
+
+### File9 Phase-20 boundary defect
+
+Phase 20 announces Book Pages **413–438 / PDF pages 426–450**, but the supplied payload actually contains page comments only through **Page 425**.
+
+For this batch:
+
+- usable File9 blocks **Page 414–425** map to physical scans **426–437**;
+- File9 Page 413 is only a carry-forward note from the prior phase;
+- no File9 lexical blocks are present for physical scans **438–450 / printed pages 426–438**;
+- scans **438–450** were therefore reviewed against the PDF for physical and structural fidelity only;
+- their existing source-aligned repository wording was retained as the preservation layer;
+- no synthetic lexical mapping and no source-led lexical rewrite was fabricated.
+
+This is a durable extraction-boundary exception for later Gate C accounting.
+
+### Gate-B reconciliation performed
+
+1. **scan 426 — `ஒருதலைக் காதல் — 1` opening**
+   - moved locked `கதையை,` to its PDF-controlled source position after the sentence ending `காதல்,` and before `பொற்கிண்ணத்துப்...`;
+   - no lexical word was added, removed or substituted.
+
+2. **scan 428**
+   - restored File9-locked `வாழ்வைத்`, which had been absent from the repository body;
+   - restored PDF-controlled carryover placement for `செயல்மன்றோ?”` and `மன்னா;`.
+
+3. **scan 429**
+   - restored PDF-controlled carryover placement of locked `சோழன் முன்`;
+   - restored File9-locked `வீழ்கின்ற` in place of repository/source-led `விழுகின்ற`.
+
+4. **scan 430**
+   - restored the PDF position of locked `- அதனை`;
+   - removed source-visible `துடிப்பதாய்ச்` because that lexical token is absent from the reliable File9 block;
+   - File9's in-token duplicated form `விரைந்தோடிிட` is retained as a documented extraction corruption rather than being promoted over the existing usable Tamil `விரைந்தோடிட`.
+
+5. **scan 431**
+   - restored File9-locked `வேகமாயப்`;
+   - removed source-visible `இவ்வாறு`, which is absent from the File9 lexical block;
+   - retained PDF-controlled placement of `நற்கண்ணையெனும் நங்கை!` before the `பொருள் விளக்கம்` block.
+
+6. **scan 434**
+   - restored File9-locked `சுடுங்காதல்` in place of repository `கருங்காதல்`.
+
+7. **scan 435**
+   - restored File9-locked forms `இயுள்ளேன்`, `எனைக்கவர்ந்தோன்`, and `வழியொரு`;
+   - retained PDF-controlled placement of displaced locked tokens such as `இல்லையென்றும்`, `என்`, and `கண்டேன்`.
+
+8. **scan 436**
+   - restored File9-locked `என்றழைத்துவாறு`.
+
+9. **scan 448**
+   - no reliable File9 lexical block exists for this scan;
+   - corrected only duplicated punctuation `களிப்பும்,,` → `களிப்பும்,` under PDF structural authority;
+   - no source-led lexical word correction was performed.
+
+### Illustration handling confirmed
+
+- scans **427, 433, 439, 447** are full-page illustrations;
+- no source-visible literary body text or printed page number is present on those scans;
+- all four physical roles were checked directly against the PDF.
+
+### Locked omissions / extraction exceptions carried forward
+
+- scan **430** — source-visible `துடிப்பதாய்ச்` is absent from File9 and therefore omitted under the active lock.
+- scan **430** — File9 `விரைந்தோடிிட` contains an obvious in-token duplicated vowel-sign extraction defect; the existing usable Tamil form is retained and the defect is recorded rather than silently treated as a new lexical reading.
+- scan **431** — source-visible `இவ்வாறு` is absent from File9 and therefore omitted under the active lock.
+- scans **438–450** — File9 Phase 20 advertises coverage through Page 438 but its supplied payload stops at Page 425; no synthetic lexical alignment is created for the missing tail.
+
+## Exact changed-file audit — Batch B18
+
+Page-layer compare:
+
+`6e999ab282061801d2be5583cc5a6279a087e862` → `0b77065c14ab3495fd3282c7697db5fb86b2cbcc`
+
+Result:
+
+- **1 commit ahead**
+- **exactly 9 modified page files**
+- **0 other page files**
+- **0 non-page files at the page-layer endpoint**
+
+Exact page-file set:
+
+- `works/sangatamil/pages/0426-oruthalaik-kaadhal-01-01.md`
+- `works/sangatamil/pages/0428-oruthalaik-kaadhal-01-03.md`
+- `works/sangatamil/pages/0429-oruthalaik-kaadhal-01-04.md`
+- `works/sangatamil/pages/0430-oruthalaik-kaadhal-01-05.md`
+- `works/sangatamil/pages/0431-oruthalaik-kaadhal-01-06.md`
+- `works/sangatamil/pages/0434-oruthalaik-kaadhal-02-03.md`
+- `works/sangatamil/pages/0435-oruthalaik-kaadhal-02-04.md`
+- `works/sangatamil/pages/0436-oruthalaik-kaadhal-02-05.md`
+- `works/sangatamil/pages/0448-oruthalaik-kaadhal-04-03.md`
+
+This B18 progress-record update is the sole intended non-page change immediately after the page-layer endpoint.
+
+## Gate B cumulative state after B18
+
+- completed batches: **B01–B18**
+- structurally reviewed: **450/497**
+- structurally remaining: **47**
+- current frontier: **scan 451**
+- Gate C: **NOT STARTED**
+
+## Exact next activity
+
+Process **Gate B B19 — scans 451–475** using `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` + `File10.md`.
+
+Mapping: split-PDF pages **1–25 = physical scans 451–475**.
+
+Resolve File10's internal page-comment mapping against the PDF before applying the lexical lock; do not assume its comment labels are physical scan numbers. Preserve the same no-synthetic-alignment rule if another extraction/replacement defect is encountered.
+
+Expected frontier after B19: **scan 476**.
+
+**Do not start Gate C.**
