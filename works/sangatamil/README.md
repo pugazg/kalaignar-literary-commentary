@@ -54,11 +54,12 @@ B15 mixed-page repair preserved: 6525498cd8e14871575e9ae0203060af2fe4450a — sc
 1. PRODUCTIVE_COMPLETION_PLAN.md
 2. C2_SOURCE_CORRECTION_PROGRESS.md
 3. POST_C2_RECONCILIATION.md
-4. GEMINI_TEXT_LOCK.md — historical lexical-lock baseline
-5. STRUCTURAL_FIDELITY_PROGRESS.md
-6. GATE_A_HYGIENE_REPORT.md
-7. ../../SANGATH_TAMIL_ARCHIVAL_GUIDELINES.md
-8. ../../NEXT_CHAT_PROMPT_SANGATH_TAMIL.md
+4. GATE_G_METADATA_STATUS_AUDIT.md
+5. GEMINI_TEXT_LOCK.md — historical lexical-lock baseline
+6. STRUCTURAL_FIDELITY_PROGRESS.md
+7. GATE_A_HYGIENE_REPORT.md
+8. ../../SANGATH_TAMIL_ARCHIVAL_GUIDELINES.md
+9. ../../NEXT_CHAT_PROMPT_SANGATH_TAMIL.md
 
 MULTI_PASS_WORKFLOW.md and GEMINI_RECONCILIATION_PLAN.md are historical/superseded methodology records; they are not live frontier authorities.
 
@@ -130,6 +131,21 @@ Gate C2 is **COMPLETE / APPLIED**:
 
 Whole-volume wording must **not** be described as word-for-word scan verified.
 
+## Gate G closure
+
+Gate G — **COMPLETE / PASS**:
+- canonical page records audited — **497/497**
+- required metadata field presence after repair — **497/497**
+- demonstrable defects repaired — **11 missing `visual_fidelity` fields**
+- final `status` distribution — **43 verified / 453 needs-review / 1 partial**
+- final `visual_fidelity` distribution — **43 verified / 454 needs-review / 0 missing**
+- canonical wording changes — **0**
+- unresolved Gate-G inconsistencies — **0**
+- durable report — `GATE_G_METADATA_STATUS_AUDIT.md`
+- page-layer correction endpoint — `fd024e4c0b1d3f21a3849c360d509350ce808db5`
+
+The mixed page-level status distribution is intentional; C2 resolved the recorded discrepancy ledger but did not perform a fresh token-by-token reread of every source word.
+
 ## Exact next activity
 
-**Gate G — metadata/status closure across all 497 canonical page records.**
+**Gate H — derived navigation layer from the closed archival records.**
