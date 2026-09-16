@@ -1109,3 +1109,78 @@ At C16 close:
 2. verify **0 canonical page files changed**;
 3. advance the Gate-C frontier to **scan 401**;
 4. do not start Gate C2.
+
+
+# C16 — scans 376–400
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-16**
+- audited scans: **376–400 / 25**
+- controlling source: user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf`, split pages **26–50**
+- direct Gemini lexical witness: user-supplied `File8.md`, Book Pages **364–388**
+- locked comparison layer: current canonical page records under `works/sangatamil/pages/`
+- substantive discrepancy records: **3**
+- scans containing discrepancies: **2**
+- scans with no new substantive lexical discrepancy: **23**
+- canonical page files changed: **0**
+- Gate C2 corrections: **0**
+
+Clean / no-new-substantive-discrepancy scans:
+
+**376, 378–382, 384–400**
+
+Special handling:
+- full-page illustration scans: **378, 381, 385, 388, 391, 394, 397, 400**;
+- scan **382** retains the Gate-B decision that File8-only `நும் காதல்` is unsupported extraction debris; it is not entered as a source discrepancy because the canonical layer correctly excludes it;
+- scan **379** source/File8 differences around `ஊன் செத்துப்` are spacing/segmentation only and are excluded from Gate C;
+- scan **383** was rechecked at high resolution. The source narrative reads `நீண்ட அறிவுரைகளே நீட்டி முழக்குகின்றாய்!`, while File8/canonical use `அறிவுரைகளை`. In the Kuruntokai quotation the source reads `நுங்குறை ஆகம் நிறுக்கல்...`; File8/canonical quote uses `நும்குறை`, while `நிறுக்கல்` itself agrees with the source and is not a discrepancy;
+- scan **389** source glossary `உடைபெரும் செல்வர்` agrees with File8/canonical;
+- scan **395** File8 `இரும்பாலா` remains unsupported extraction debris, while source/File8 `இறந் தோரே` is not treated as substantive because the difference is only spacing/segmentation;
+- scan **396** source `திசிர ஆதி` vs locked `திசிரஆதி` is spacing only and is excluded;
+- punctuation-only, line-wrap, running-header/footer and purely structural differences were excluded unless they materially altered lexical interpretation.
+
+## C16 discrepancy records
+
+| ID | Scan | Printed page | Canonical page | Locked File8 / repository wording | Source-visible / source-aligned wording | Classification | Gate-B exception already documented? | Notes |
+|---|---:|---:|---|---|---|---|---|---|
+| C16-001 | 377 | 365 | `0377-uchchikkuch-sendra-nocchi-01.md` | `அகன்ற வாய்ப் பருந்துக்களும் வட்டமிட்டுச் சூழ்ந்தபோது;` | source `அகன்ற வாய்ப் பருந்துகளும் வட்டமிட்டுச் சூழ்ந்தபோது;` | `likely-gemini-error` | **yes — B16** | File8/canonical insert an extra `க்` in `பருந்துக்களும்`; direct visual inspection shows source `பருந்துகளும்`. |
+| C16-002 | 383 | 371 | `0383-paaraiyil-urugudhu-pasu-venney-04.md` | `நீண்ட அறிவுரைகளை நீட்டி முழக்குகின்றாய்!` | source `நீண்ட அறிவுரைகளே நீட்டி முழக்குகின்றாய்!` | `likely-gemini-error` | **yes — B16** | The source has emphatic `அறிவுரைகளே`; File8/canonical use accusative `அறிவுரைகளை`. |
+| C16-003 | 383 | 371 | `0383-paaraiyil-urugudhu-pasu-venney-04.md` | quotation `இடிக்கும் கேளிர்! நும்குறை ஆகம் நிறுக்கல்...` | source quotation `இடிக்கும் கேளிர்! நுங்குறை ஆகம் நிறுக்கல்...` | `likely-gemini-error` | **yes — B16** | Source and the page glossary support `நுங்குறை`; only the locked quotation uses `நும்குறை`. `நிறுக்கல்` is source-supported and is not separately logged. |
+
+## C16 closure audit
+
+C16 is an **audit-only closure**.
+
+- source scans **376–400** were visually inspected against the direct File8 witness and the preserved canonical layer;
+- **3** substantive discrepancy records were entered across **2** scans;
+- **0** canonical page records were edited;
+- no Gate-B page was reopened;
+- no lexical correction was promoted;
+- wording state remains **Gemini-lexical-locked / not word-for-word scan verified**.
+
+## Gate C cumulative state after C16
+
+- completed Gate-C batches: **C01–C16**
+- audited scans: **400/497**
+- cumulative substantive discrepancy records: **92**
+- remaining scans: **97**
+- next frontier: **scan 401**
+- Gate C2: **NOT STARTED / NOT AUTHORIZED**
+
+## Exact next activity
+
+Process **Gate C C17 — scans 401–425**.
+
+Available direct source pair:
+- user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf`, split pages **1–25** / physical scans **401–425**;
+- user-supplied `File9.md`, Phase 19 / Book Pages **389–413**.
+
+Important carry-forward:
+- scans **413–424** have a documented File9 segmentation/replacement anomaly; do not fabricate a one-to-one lexical mapping. Audit source-visible text against the preserved repository layer and record only demonstrable substantive discrepancies.
+
+At C17 close:
+1. append only substantive lexical discrepancies to this ledger;
+2. verify **0 canonical page files changed**;
+3. advance the Gate-C frontier to **scan 426**;
+4. do not start Gate C2.
