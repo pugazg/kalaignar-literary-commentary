@@ -8,12 +8,12 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "decorative multicolour section heading; opening narrative text; printed page number 297; metadata keeps the source-visible section identity while File7 locks the body heading as `மோசுகீானர்!`"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 heading correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
 # முரசு கட்டிலில்
-# மோசுகீானர்!
+# மோசுகீரனார்!
 
 தும்பை மலர் எடுத்துச் சரம் தொடுத்துத்
 தொங்க விட்ட நீர்வீழ்ச்சித் தாடி!
@@ -49,4 +49,4 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 அதி தொலைவு நடந்து வந்து,
 அரசனது மாளிகையை அடைந்து விட்டார்.
 
-<!-- Gate B preserves File7-locked decorative heading `முரசு கட்டிலில் / மோசுகீானர்!`; the source-visible identity `முரசு கட்டிலில் மோசுகீரனார்!` remains in metadata. -->
+<!-- C2-13: user-authorized source heading correction applied: `மோசுகீானர்!` → `மோசுகீரனார்!`; decorative two-line layout is preserved. -->

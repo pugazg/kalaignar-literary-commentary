@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate C2 C13 / scans 301–325
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate C2 C14 / scans 326–350
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -27,8 +27,9 @@ Gate C2 is user-controlled and only open where the user has supplied manual adju
 - C2-10 scans **226–250 — COMPLETE / APPLIED**
 - C2-11 scans **251–275 — COMPLETE / APPLIED**
 - C2-12 scans **276–300 — COMPLETE / APPLIED**
+- C2-13 scans **301–325 — COMPLETE / APPLIED**
 - durable record — `works/sangatamil/C2_SOURCE_CORRECTION_PROGRESS.md`
-- scans **301–497 remain Gemini-lexical-locked**
+- scans **326–497 remain Gemini-lexical-locked**
 - Gate G — **DEFERRED**
 
 Important manual rulings already applied:
@@ -38,6 +39,6 @@ Important manual rulings already applied:
 
 ## Exact next activity
 
-**Wait for the user's findings/instructions for scans 301–325.**
+**Wait for the user's findings/instructions for scans 326–350.**
 
-Do not modify scans 301+ merely from the historical Gate-C ledger. When the user supplies C2 adjudications, treat those findings as controlling evidence for that batch, apply only authorized changes, and keep all later scans locked.
+Do not modify scans 326+ merely from the historical Gate-C ledger. When the user supplies C2 adjudications, treat those findings as controlling evidence for that batch, apply only authorized changes, and keep all later scans locked.

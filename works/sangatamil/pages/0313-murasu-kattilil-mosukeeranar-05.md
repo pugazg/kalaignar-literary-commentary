@@ -8,13 +8,13 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running author header; source quotation continuation and closure; provenance; பொருள் விளக்கம்; final ornament; printed page number 301"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-confirmed C2 reading"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 312
 ---
 
 > இருபாற் படுக்குநின் வாள்வாய் ஒழித்ததை
-> அதூவும் சாலும், நற் தமிழ் முழுது அறிதல்;
+> அதூவும் சாலும், நற் றமிழ் முழுது அறிதல்;
 > அதனொடும் அமையாது, அணுக வந்து, நின்
 > மதனுடை முழுவுத்தோள் ஒச்சித், தண்ணென
 > வீசி யோயே, வியலிடம் கமழ,
@@ -39,4 +39,4 @@ continues_from_scan: 312
 வலிமை வாய்ந்த. தண்ணென வீசியோய் = சாமரங்கொண்டு
 குளிர வீசினாய். வலம்படு குருசில் = வெற்றியுடைய தலைவனே.
 
-<!-- Gate B preserves File7-locked glossary reading `வார்புறுவள்பின்`; quotation lineation and provenance/gloss placement remain controlled by the PDF. -->
+<!-- C2-13: user confirmed File7/Gemini quotation `அதூவும் சாலும், நற் றமிழ் முழுது அறிதல்;` as correct; canonical quotation is aligned to that protected reading. Existing glossary reading `வார்புறுவள்பின்` and structural placement remain unchanged. -->

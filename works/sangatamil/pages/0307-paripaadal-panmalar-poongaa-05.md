@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running author header; narrative continuation and opening of Paripadal quotation; printed page number 295; File7 lexical lock preserved while obvious mixed-script extraction debris is excluded"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 source correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 306
 ---
@@ -30,7 +30,7 @@ continues_from_scan: 306
 காதலி யானைக்கு விளைந்த துன்பம் யாதோ என்று
 களிற்று யானை முழக்கம் செய்து துதிக்கை தூக்கி
 போருக்கு வாள் தூக்கிப் புறப்பட்ட தளபதி போல்
-யாருக்கும் அடங்காமல்
+யாருக்கும் அடங்காமல் பிளிறிற்றங்கே!
 பெரும்பாடுபட்டுப் பாகன் அங்குசத்தால் அடக்கப்
 பார்த்து - அது
 வெறும் பாடாய்ப் போனதினால் வேறு வழியின்றி
@@ -57,4 +57,4 @@ continues_from_scan: 306
 > அன்னம் அனையாரோ டாயா நடைக்கரிமேல்
 > செல்மனம் மாலுறுப்பச் சென்றெழின் மாடத்துக்
 
-<!-- Gate B restores File7-locked `நிர்வாணக்`; File7 token `பிOPற்றங்கே!` is obvious mixed-script extraction debris, so it is excluded rather than source-recovered as `பிளிறிற்றங்கே!`. -->
+<!-- C2-13: user-authorized source correction restores `பிளிறிற்றங்கே!` after `யாருக்கும் அடங்காமல்`; File7's mixed-script corruption is superseded. Existing `நிர்வாணக்` remains unchanged. -->

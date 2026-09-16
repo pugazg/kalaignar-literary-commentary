@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; narrative continuation; source quotation begins in lower half and continues to next scan; printed page number 300"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 source correction and protected reading"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 311
 ---
@@ -34,7 +34,7 @@ continues_from_scan: 311
 ஆவி போக்கிடும் தண்டனையிருந்தும் — எனைக்
 கூவியெழுப்பிக் கொல்லுதல் விடுத்து
 கொற்றவனே தன் கையால் எனக்குக்
-குளிர் சாமரம் வீசுகின்ற காட்சி என்னே?” என்றர்ந்தார்
+குளிர் சாமரம் வீசுகின்ற காட்சி என்னே?” என்றயர்ந்தார்
 புலவர்!
 
 “தமிழுக்குத் தொண்டு செய்தால் - அந்தத்
@@ -56,4 +56,4 @@ continues_from_scan: 311
 > நுரைமுகந் தன்ன மென்பூஞ் சேக்கை
 > அறியாது ஏறிய என்னைத், தெறுவர,
 
-<!-- Gate B preserves File7-locked readings `என்றர்ந்தார்` and `இஃதெ` while keeping displaced `புலவர்!`, `எனைக்`, and `இந்தச்` in their PDF-supported structural positions; stray File7 numeric `66` remains excluded. -->
+<!-- C2-13: user adjudicated both historical candidates as incorrect and supplied exact `என்றயர்ந்தார்`; user-confirmed Gemini reading `நான் செய்த தொண்டு இஃதெ` remains protected. Existing structural placements remain unchanged. -->

@@ -18,10 +18,11 @@ The user explicitly opened C2 in manual batches and supplied adjudications that 
 - **C2-10 — scans 226–250**
 - **C2-11 — scans 251–275**
 - **C2-12 — scans 276–300**
+- **C2-13 — scans 301–325**
 
 The historical Gate-C ledger remains an audit record. Where the user's manual C2 adjudication disagrees with the earlier Gate-C interpretation, **the user's adjudication controls**.
 
-Scans **301–497 remain Gemini-lexical-locked** until the user supplies further instructions.
+Scans **326–497 remain Gemini-lexical-locked** until the user supplies further instructions.
 
 ## C2-01 — scans 1–25
 
@@ -204,18 +205,35 @@ C2-11 page files modified: **254, 257**.
 
 C2-12 page files modified: **281, 288, 292, 294, 296**. Scan **290** required no canonical edit because the repository already held the source-aligned wording.
 
+
+## C2-13 — scans 301–325
+
+**Status: COMPLETE / APPLIED**
+
+| Gate-C ID | Scan | User adjudication | Repository action |
+|---|---:|---|---|
+| C13-001 | 304 | File7/source continue quotation with `தாள் தாமரை தோள் தமனியக் கயமலர்` — repository-only divergence | restored the missing second quotation line after `ஆயிதழ் உண்கண் அலர் முகத் தாமரை` |
+| C13-002 | 307 | source `யாருக்கும் அடங்காமல் பிளிறிற்றங்கே!` — Gemini error | restored source-visible `பிளிறிற்றங்கே!` after `யாருக்கும் அடங்காமல்` |
+| C13-003 | 309 | source heading `முரசு கட்டிலில் / மோசுகீரனார்!` — Gemini error | corrected decorative heading `மோசுகீானர்!` → `மோசுகீரனார்!` |
+| C13-004 | 312 | both historical candidates incorrect; exact user reading `குளிர் சாமரம் வீசுகின்ற காட்சி என்னே? என்றயர்ந்தார்` | corrected `என்றர்ந்தார்` → `என்றயர்ந்தார்`, preserving surrounding quotation punctuation |
+| C13-005 | 312 | `நான் செய்த தொண்டு இஃதெ` — Gemini is correct | no lexical change; protected |
+| C13-006 | 313 | File7 quotation `அதூவும் சாலும், நற் றமிழ் முழுது அறிதல்;` — Gemini is correct | changed canonical `நற் தமிழ்` back to the user-confirmed Gemini form `நற் றமிழ்` |
+| C13-007 | 321 | source/canonical second `இவ்வாறு` before `கபிலர் மலை நாட்டுச் செழுமையினை...` — File7/Gemini error | no canonical change; repository already source-aligned |
+
+C2-13 page files modified: **304, 307, 309, 312, 313**. Scan **321** required no page edit because the canonical page already preserves the second `இவ்வாறு`.
+
 ## Cumulative C2 state
 
-- C2 disposition coverage — **300/497 scans** (C06 closed with 0 discrepancy records)
-- modified canonical page files — **40**
-- literary/source corrections applied — scans **7, 21, 28, 29, 35, 47, 51, 59, 64, 70, 77, 83, 96, 113, 123, 163, 165, 175, 188, 192, 195, 199, 208, 221, 223, 226, 230, 237, 240, 248, 254, 257, 281, 288, 292, 294, 296**
+- C2 disposition coverage — **325/497 scans** (C06 closed with 0 discrepancy records)
+- modified canonical page files — **45**
+- literary/source corrections applied — scans **7, 21, 28, 29, 35, 47, 51, 59, 64, 70, 77, 83, 96, 113, 123, 163, 165, 175, 188, 192, 195, 199, 208, 221, 223, 226, 230, 237, 240, 248, 254, 257, 281, 288, 292, 294, 296, 304, 307, 309, 312, 313**
 - facsimile-description policy applied — scan **8**
 - stale divergence / section-title metadata cleaned without body change — scans **40, 112**
-- protected Gemini-correct findings — scans **5, 9, 11, 13, 19, 29, 39, 40, 47, 53, 58, 64, 87, 96, 120, 174, 180, 199, 257, 274**
-- scans **301–497** — **LOCKED / C2 NOT AUTHORIZED**
+- protected Gemini-correct findings — scans **5, 9, 11, 13, 19, 29, 39, 40, 47, 53, 58, 64, 87, 96, 120, 174, 180, 199, 257, 274, 312, 313**
+- scans **326–497** — **LOCKED / C2 NOT AUTHORIZED**
 - whole-volume word-for-word verification — **NOT CLAIMED**
 - Gate G — **DEFERRED**
 
 ## Next activity
 
-Wait for the user's C2 findings/instructions for **scans 301–325**. Do not modify that batch from the historical ledger alone.
+Wait for the user's C2 findings/instructions for **scans 326–350**. Do not modify that batch from the historical ledger alone.

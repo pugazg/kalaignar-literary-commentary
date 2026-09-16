@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; body text and opening of a quoted Paripadal passage; printed page number 292"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; visible line order and quotation opening checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini lexical scaffold with user-authorized C2 repository-divergence restoration"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 303
 ---
@@ -56,3 +56,6 @@ continues_from_scan: 303
 துளைத்துப் போடும்!
 
 > “ஆயிதழ் உண்கண் அலர் முகத் தாமரை
+> தாள் தாமரை தோள் தமனியக் கயமலர்
+
+<!-- C2-13: user-authorized repository-divergence repair restored the File7/source quotation continuation `தாள் தாமரை தோள் தமனியக் கயமலர்` immediately after `ஆயிதழ் உண்கண் அலர் முகத் தாமரை`. -->
