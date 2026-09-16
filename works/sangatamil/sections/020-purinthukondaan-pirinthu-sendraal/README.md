@@ -1,4 +1,4 @@
-# புரிந்துகொண்டான்; பிரிந்து சென்றாள்!
+# புரிந்துகொண்டான்; பிரிந்துசென்றார்!
 
 - repository sequence: **020** — navigation only; not a printed chapter number
 - source role: **thematic section**
@@ -6,7 +6,8 @@
 - visible printed page span: **97–100**
 - illustration / divider placement: **114**
 - Gate-E boundary: **verified**
-- wording state: **Gemini-lexical-locked; not word-for-word scan verified**
+- wording state: **Gate C2 discrepancy-adjudicated; whole-volume word-for-word scan verification not claimed**
+- post-C2 reconciliation R1: **section identity synchronized; stable repository slug retained**
 
 ## Boundary evidence
 

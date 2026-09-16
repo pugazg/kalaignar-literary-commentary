@@ -11,7 +11,7 @@ Last synchronized with live main: **2026-09-16**.
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–015 **ARCHIVAL-READY through scan 323**; commentary through printed page 270 / Kural 1330 |
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–015 **RELEASED through the end of the supplied volume** |
 | Thirukkural semantic structure | பால் → இயல் → அதிகாரம் | **COMPLETE — 3 பால் / 13 இயல் / 133 அதிகாரம் / 1,330 குறள் mapped** |
-| சங்கத் தமிழ் | தமிழ் | **ACTIVE — Gates A–F COMPLETE / PASS; Gate C2 scans 1–50 user-adjudicated/applied; scans 51–497 locked; Gate G deferred** |
+| சங்கத் தமிழ் | தமிழ் | **ACTIVE — Gates A–F + Gate C2 COMPLETE; post-C2 reconciliation R1 COMPLETE / PASS; Gate G active next** |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த source-controlled edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Kuraloviyam | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
@@ -47,12 +47,14 @@ Canonical physical range: 1–497; scan 497 is the back cover.
 ## Active workflow
 
 Authoritative plan: works/sangatamil/PRODUCTIVE_COMPLETION_PLAN.md
-Current lexical rule: works/sangatamil/GEMINI_TEXT_LOCK.md
-Live progress: works/sangatamil/STRUCTURAL_FIDELITY_PROGRESS.md
+Historical lexical-lock baseline: works/sangatamil/GEMINI_TEXT_LOCK.md
+Final C2 adjudication record: works/sangatamil/C2_SOURCE_CORRECTION_PROGRESS.md
+Post-C2 reconciliation: works/sangatamil/POST_C2_RECONCILIATION.md
 
 Authority split:
-- Gemini File1–File10 — locked lexical wording
 - PDF scan — physical/structural authority
+- Gemini File1–File10 — historical lexical scaffold
+- user Gate-C2 adjudications — controlling authority for the 140 recorded Gate-C discrepancies
 - repository — preservation layer
 
 ## Current progress
@@ -90,7 +92,7 @@ Gate C — COMPLETE / PASS:
 - remaining — 0
 - closure — 497/497
 - 140 cumulative substantive discrepancies recorded
-- audit-only; canonical page wording must not change
+- Gate C itself was audit-only; subsequent user-authorized Gate C2 resolved all 140 recorded discrepancies
 
 Latest B20 page-layer endpoint: e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c
 Gate-B closure / B20 progress: 90caaeb3bd92201a75d45f617727721b9c3e0df7
@@ -123,14 +125,17 @@ Gate F — **COMPLETE / PASS — F01–F20 scans 1–497 / 115 formal citation-p
 Current handover: HANDOVER.md.
 
 
-## Gate C2 current state — சங்கத் தமிழ்
+## Gate C2 final state — சங்கத் தமிழ்
 
-- C2-01 scans **1–25 — COMPLETE / APPLIED**
-- C2-02 scans **26–50 — COMPLETE / APPLIED**
-- user-adjudicated C2 coverage — **50/497 scans**
-- scans **51–497 remain Gemini-lexical-locked**
+- C2-01 through C2-20 — **COMPLETE / APPLIED**
+- disposition coverage — **497/497 scans**
+- historical Gate-C discrepancy records adjudicated — **140/140**
+- remaining discrepancy records — **0**
+- no C2-locked scan range remains
 - scan **8** handwritten முன்னுரை — description-only; no handwriting transcription required by user direction
 - durable progress — `works/sangatamil/C2_SOURCE_CORRECTION_PROGRESS.md`
-- Gate G — **deferred until the user finishes or pauses C2**
+- post-C2 reconciliation R1 — **COMPLETE / PASS**
+- reconciliation record — `works/sangatamil/POST_C2_RECONCILIATION.md`
+- whole-volume word-for-word scan verification — **NOT CLAIMED**
 
-Exact next activity: **wait for the user's C2 findings/instructions for scans 51–75**.
+Exact next activity: **Gate G — metadata/status closure across all 497 canonical page records**.

@@ -12,7 +12,9 @@
 - citation-anchor scans: **19, 24**
 - canonical page files changed: **0**
 - canonical page-wording changes: **0**
-- Gate C2: **NOT STARTED / NOT AUTHORIZED**
+- Gate C2 at original Gate-F opening: **NOT STARTED / NOT AUTHORIZED**
+- current Gate C2 state: **COMPLETE / APPLIED — 140/140 recorded discrepancies adjudicated**
+- post-C2 reconciliation R1: **COMPLETE / PASS**
 - provenance endpoint: **scan 497 / back cover**
 
 ## Governing method
@@ -26,7 +28,7 @@ Gate F verifies **source-visible provenance only** against the supplied scan ima
 - `பொருள் விளக்கம்`;
 - other printed source notes.
 
-The supplied edition controls these labels and their placement. External editions and concordances are not used to overwrite the printed source. The Gemini lexical lock remains in force; Gate F does not source-correct canonical page wording.
+The supplied edition controls these labels and their placement. External editions and concordances are not used to overwrite the printed source. At original Gate-F closure the Gemini lexical lock was still in force; Gate C2 later applied the user's adjudications. R1 reconciles only derived provenance labels/boundary notes and does not re-open provenance verification.
 
 ## F01 findings
 
@@ -437,8 +439,25 @@ File9 Book Pages **401–412** are not reliable one-to-one lexical blocks for ph
 
 **Gate F — COMPLETE / PASS**
 
-The source-visible provenance layer is closed through **scan 497**. Wording remains **Gemini-lexical-locked; not word-for-word scan verified**.
+The source-visible provenance layer is closed through **scan 497**. After Gate C2, all 140 recorded discrepancy records are user-adjudicated; whole-volume word-for-word scan verification is still **not claimed**.
 
-## Exact next activity
+## Historical next activity at Gate-F closure
 
 Proceed to **Gate G — metadata/status closure**. Do not start Gate C2 without explicit user authorization.
+
+
+## Post-C2 reconciliation R1 — 2026-09-16
+
+**Status: COMPLETE / PASS**
+
+R1 reconciled Gate-F derived records against the final C2 canonical layer:
+
+- section/context label at citation anchor **115** → `புரிந்துகொண்டான்; பிரிந்துசென்றார்!`
+- section/context label at citation anchor **180** → `நீலமலை நீரினும் குளிர்ந்த நெஞ்சம்!`
+- section/context label at citation anchor **354** → `மாமழை கண்ட மகிழ்ச்சி!`
+- citation anchor **115** boundary note now records the restored quotation beginning on scan **113**, continuing across illustration scan **114**, and closing with provenance/gloss on scan **115**
+- citation anchor **481** note records the C2-restored final quoted line; its anchor and provenance block remain unchanged
+
+Formal provenance units remain **115**, standalone source-note-only records remain **4**, and unresolved provenance gaps remain **0**.
+
+Current next activity: **Gate G — metadata/status closure**.

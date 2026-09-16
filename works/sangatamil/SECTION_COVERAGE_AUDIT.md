@@ -11,7 +11,9 @@
 - unassigned scans: **0**
 - multiply assigned scans: **0**
 - canonical page wording changes: **0**
-- Gate C2: **NOT STARTED / NOT AUTHORIZED**
+- Gate C2 at original Gate-E closure: **NOT STARTED / NOT AUTHORIZED**
+- current Gate C2 state: **COMPLETE / APPLIED — 140/140 recorded discrepancies adjudicated**
+- post-C2 reconciliation R1: **COMPLETE / PASS**
 
 ## Method
 
@@ -68,7 +70,7 @@ Canonical files under `pages/` are unchanged.
 
 The canonical section layer is closed at **497/497 scans assigned exactly once**.
 
-## Exact next activity
+## Historical next activity at Gate-E closure
 
 Proceed to **Gate F — Sangam provenance audit**.
 
@@ -78,3 +80,18 @@ Gate F must systematically verify source-visible anthology/work name, poem numbe
 - `PROVENANCE_AUDIT.md`.
 
 Do not start Gate C2 unless explicitly authorized.
+
+
+## Post-C2 reconciliation R1 — 2026-09-16
+
+**Status: COMPLETE / PASS**
+
+C2 changed three section identities that Gate E had correctly recorded from the earlier canonical metadata. R1 synchronized the derived section layer to the final user-adjudicated canonical headings:
+
+- seq **020** / scans **112–115** — `புரிந்துகொண்டான்; பிரிந்துசென்றார்!`
+- seq **032** / scans **175–181** — `நீலமலை நீரினும் குளிர்ந்த நெஞ்சம்!`
+- seq **070** / scans **352–354** — `மாமழை கண்ட மகிழ்ச்சி!`
+
+The **104 section-role entries, all scan ranges, illustration placements, and 497/497 exactly-once coverage remain unchanged**. Existing repository slugs/paths are retained as stable identifiers rather than renamed after C2.
+
+Current next activity: **Gate G — metadata/status closure**.

@@ -12,8 +12,10 @@
 - missing scan records: **0**
 - unresolved physical / visual / continuity issues: **0**
 - canonical page files changed by Gate D: **0**
-- lexical policy: **Gemini-lexical-locked; not word-for-word scan verified**
-- Gate C2: **NOT STARTED / NOT AUTHORIZED**
+- lexical policy at original Gate-D closure: **Gemini-lexical-locked; not word-for-word scan verified**
+- Gate C2 at original Gate-D closure: **NOT STARTED / NOT AUTHORIZED**
+- current Gate C2 state: **COMPLETE / APPLIED — 140/140 recorded discrepancies adjudicated**
+- post-C2 physical/continuity reconciliation R1: **COMPLETE / PASS — NO IMPACT**
 
 ## Purpose
 
@@ -221,13 +223,9 @@ The whole-volume physical layer is closed at:
 
 **497/497 physical scans → 497/497 canonical records → 0 unresolved physical / visual / continuity issues.**
 
-This closure does **not** claim whole-volume word-for-word lexical source verification. The wording state remains:
+This original Gate-D closure did **not** claim whole-volume word-for-word lexical source verification. Gate C2 was later completed for all 140 recorded discrepancy records. That later correction work does not retroactively create a whole-volume token-by-token verification claim.
 
-**GEMINI-LEXICAL-LOCKED / NOT WORD-FOR-WORD SCAN VERIFIED**
-
-unless the user later explicitly authorizes Gate C2.
-
-## Exact next activity
+## Historical next activity at Gate-D closure
 
 Proceed to **Gate E — Section reconstruction**.
 
@@ -247,3 +245,20 @@ Every physical scan **1–497** must be assigned to one section role:
 - end matter / back cover.
 
 Do not start Gate C2 unless explicitly authorized.
+
+
+## Post-C2 reconciliation R1 — physical / continuity no-impact check
+
+**Status: COMPLETE / PASS — NO IMPACT**
+
+The C2 durable record contains **no `page_type`, `printed_page`, `continues_from_scan`, `continues_to_scan`, physical-scan, or scan-boundary mutations**. R1 therefore preserves the Gate-D invariants unchanged:
+
+- physical scans — **497**
+- canonical records — **497**
+- duplicate scan aliases — **0**
+- missing scan records — **0**
+- unresolved physical / visual / continuity issues — **0**
+
+No Gate-D range or continuation relationship was reopened.
+
+Current next activity: **Gate G — metadata/status closure**.

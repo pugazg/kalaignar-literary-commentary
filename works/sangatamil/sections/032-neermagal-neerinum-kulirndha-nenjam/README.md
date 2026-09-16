@@ -1,4 +1,4 @@
-# நீர்மகள் நீரினும் குளிர்ந்த நெஞ்சம்!
+# நீலமலை நீரினும் குளிர்ந்த நெஞ்சம்!
 
 - repository sequence: **032** — navigation only; not a printed chapter number
 - source role: **thematic section**
@@ -6,7 +6,8 @@
 - visible printed page span: **162–168**
 - illustration / divider placement: **176**
 - Gate-E boundary: **verified**
-- wording state: **Gemini-lexical-locked; not word-for-word scan verified**
+- wording state: **Gate C2 discrepancy-adjudicated; whole-volume word-for-word scan verification not claimed**
+- post-C2 reconciliation R1: **section identity synchronized; stable repository slug retained**
 
 ## Boundary evidence
 

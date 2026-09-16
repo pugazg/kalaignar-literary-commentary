@@ -52,18 +52,21 @@ B15 mixed-page repair preserved: 6525498cd8e14871575e9ae0203060af2fe4450a — sc
 ## Active authoritative controls
 
 1. PRODUCTIVE_COMPLETION_PLAN.md
-2. GEMINI_TEXT_LOCK.md
-3. STRUCTURAL_FIDELITY_PROGRESS.md
-4. GATE_A_HYGIENE_REPORT.md
-5. ../../SANGATH_TAMIL_ARCHIVAL_GUIDELINES.md
-6. ../../NEXT_CHAT_PROMPT_SANGATH_TAMIL.md
+2. C2_SOURCE_CORRECTION_PROGRESS.md
+3. POST_C2_RECONCILIATION.md
+4. GEMINI_TEXT_LOCK.md — historical lexical-lock baseline
+5. STRUCTURAL_FIDELITY_PROGRESS.md
+6. GATE_A_HYGIENE_REPORT.md
+7. ../../SANGATH_TAMIL_ARCHIVAL_GUIDELINES.md
+8. ../../NEXT_CHAT_PROMPT_SANGATH_TAMIL.md
 
 MULTI_PASS_WORKFLOW.md and GEMINI_RECONCILIATION_PLAN.md are historical/superseded methodology records; they are not live frontier authorities.
 
 ## Authority split
 
-- Gemini File1.md … File10.md — locked lexical wording
 - PDF scan — physical-page and structural authority
+- Gemini File1.md … File10.md — historical lexical scaffold
+- user Gate-C2 adjudications — controlling authority for the 140 recorded Gate-C discrepancies
 - repository — preservation layer
 
 Gate B corrects placement, headings, paragraph order, punctuation, quotation structure, verse lineation, spacing, separators, continuation order, illustration/divider/blank placement and provenance/gloss block structure while preserving legitimate Gemini lexical wording.
@@ -80,7 +83,7 @@ Clearly unsupported extraction debris is excluded. Legitimate scan/Gemini lexica
 
 ## Status rule
 
-Gate-B structural completion does not automatically promote a page to verified. Until an explicitly authorized lexical source-correction gate closes, whole-volume wording state remains Gemini-lexical-locked, not word-for-word scan verified.
+Gate-B structural completion does not automatically promote a page to verified. Gate C2 is now closed for all 140 recorded Gate-C discrepancies, but that does **not** equal a fresh token-by-token verification of every word in all 497 scans; whole-volume word-for-word scan verification is therefore still not claimed.
 
 Gate D — COMPLETE / PASS:
 - physical scans — 497/497
@@ -113,18 +116,20 @@ Durable outputs:
 
 ## Gate C2 — user-adjudicated lexical/source correction
 
-Gate C2 is now partially open and user-controlled:
+Gate C2 is **COMPLETE / APPLIED**:
 
-- **C2-01 scans 1–25 — COMPLETE / APPLIED**
-- **C2-02 scans 26–50 — COMPLETE / APPLIED**
-- user-adjudicated coverage — **50/497 scans**
-- scans **51–497 remain Gemini-lexical-locked**
+- C2-01 through C2-20 — complete
+- disposition coverage — **497/497 scans**
+- historical Gate-C discrepancies adjudicated — **140/140**
+- remaining discrepancies — **0**
+- no C2-locked scan range remains
 - durable record — `C2_SOURCE_CORRECTION_PROGRESS.md`
-- scan 8 handwritten `முன்னுரை` — description-only by explicit user direction; no handwriting transcription required
-- Gate G — **DEFERRED while C2 is active**
+- post-C2 reconciliation R1 — **COMPLETE / PASS**
+- reconciliation record — `POST_C2_RECONCILIATION.md`
+- scan 8 handwritten `முன்னுரை` remains description-only by explicit user direction
 
-Whole-volume wording must **not** yet be described as word-for-word scan verified.
+Whole-volume wording must **not** be described as word-for-word scan verified.
 
 ## Exact next activity
 
-**Wait for the user's C2 findings/instructions for scans 51–75.** Do not modify scans 51+ and do not start Gate G until instructed.
+**Gate G — metadata/status closure across all 497 canonical page records.**

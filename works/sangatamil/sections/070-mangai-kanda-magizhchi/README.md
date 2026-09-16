@@ -1,4 +1,4 @@
-# மங்கை கண்ட மகிழ்ச்சி!
+# மாமழை கண்ட மகிழ்ச்சி!
 
 - repository sequence: **070** — navigation only; not a printed chapter number
 - source role: **thematic section**
@@ -6,7 +6,8 @@
 - visible printed page span: **340–342**
 - illustration / divider placement: **353**
 - Gate-E boundary: **verified**
-- wording state: **Gemini-lexical-locked; not word-for-word scan verified**
+- wording state: **Gate C2 discrepancy-adjudicated; whole-volume word-for-word scan verification not claimed**
+- post-C2 reconciliation R1: **section identity synchronized; stable repository slug retained**
 
 ## Boundary evidence
 

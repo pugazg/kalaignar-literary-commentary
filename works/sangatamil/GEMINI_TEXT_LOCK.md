@@ -1,6 +1,8 @@
 # சங்கத் தமிழ் — Gemini lexical/text lock
 
-This file records the user-approved transcription rule for the current correction workflow.
+**Current status: HISTORICAL LEXICAL-LOCK BASELINE. Gate C2 is COMPLETE / APPLIED.**
+
+This file records the user-approved lexical-lock rule that governed Gates B/C before user-adjudicated Gate C2 corrections. It remains methodology/provenance evidence, not a live claim that any scan range is still locked.
 
 ## Controlling rule
 
@@ -44,19 +46,21 @@ Pass 1 physical coverage is complete through scan 497. The source-based lexical 
 This rule supersedes conflicting older workflow language that says the scan should overrule Gemini for lexical wording. The scan still controls physical and structural facts.
 
 
-## Gate C2 explicit exception — 2026-09-16
+## Gate C2 closure — 2026-09-16
 
-The user has explicitly opened **Gate C2 only for manually adjudicated batches**:
+The user subsequently adjudicated the complete historical Gate-C discrepancy ledger in twenty C2 batches:
 
-- C2-01 — scans **1–25**;
-- C2-02 — scans **26–50**.
+- C2-01 through C2-20 — **COMPLETE / APPLIED**;
+- disposition coverage — **497/497 scans**;
+- historical discrepancy records adjudicated — **140/140**;
+- no scan range remains C2-locked.
 
 Durable adjudication/correction record:
 
 `works/sangatamil/C2_SOURCE_CORRECTION_PROGRESS.md`
 
-For these two batches, the user's manual findings override the earlier automated Gate-C discrepancy interpretation. Apply only the corrections the user confirms, and preserve readings the user marks **Gemini is correct**.
+Where a user C2 ruling said **Gemini is correct**, the Gemini wording remains protected. Where the user authorized source/repository correction, that adjudication supersedes the historical lock for that exact discrepancy.
 
-Special rule for scan **8**: the handwritten `முன்னுரை` facsimile is **description-only**. Do not interpret or transcribe the handwritten letter; identifying it as a handwritten letter is sufficient.
+Special rule for scan **8** remains durable: the handwritten `முன்னுரை` facsimile is **description-only**. Do not interpret or transcribe the handwritten letter.
 
-The lexical lock remains fully active for scans **51–497**. Do not generalize C2 authorization beyond scan 50 without a new user instruction.
+Gate C2 closure does **not** mean that every token in every scan was freshly re-verified. Whole-volume word-for-word scan verification is therefore **not claimed**.
