@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / MAINTAINED ENGLISH D2
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / MAINTAINED ENGLISH D3
 
 Continue only from live `main` in `pugazg/kalaignar-literary-commentary`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -18,23 +18,27 @@ Read first:
 2. `works/sangatamil/translations/en/GLOSSARY.md`
 3. `works/sangatamil/translations/en/TRANSLATION_STATUS.md`
 4. `works/sangatamil/translations/en/DRAFT_D1_REPORT.md`
-5. `works/sangatamil/README.md`
-6. `works/sangatamil/GATE_I_FINAL_CLOSURE.md`
-7. `works/sangatamil/indexes/section-register.md`
-8. `works/sangatamil/indexes/source-citation-register.md`
-9. root `HANDOVER.md`
+5. `works/sangatamil/translations/en/DRAFT_D2_REPORT.md`
+6. `works/sangatamil/README.md`
+7. `works/sangatamil/GATE_I_FINAL_CLOSURE.md`
+8. `works/sangatamil/indexes/section-register.md`
+9. `works/sangatamil/indexes/source-citation-register.md`
+10. root `HANDOVER.md`
 
-## D1 closed state
+## Drafting closed state
 
-Draft D1 scans **1–37 — COMPLETE / PASS**.
+D1 scans **1–37 — COMPLETE / PASS**.  
+D2 scans **38–74 — COMPLETE / PASS**.
 
-- English page records — **37/497**
-- `draft` — **36**
-- `source-limited` — **1** (scan 8 handwritten `முன்னுரை`)
-- page-layer base — `2ffa826d436b8ac37940986a43bcf7d9f5b78bc1`
-- page-layer endpoint — `1eb0df73d39545cea4e680048a58a4bff759990d`
-- D1 changed files — **37 English page files only**
-- canonical Tamil page changes — **0**
+Cumulative English state:
+
+- page records — **74/497**
+- `draft` — **73**
+- `source-limited` — **1** (scan 8)
+- source-check — **0/497**
+- canonical Tamil page changes from English drafting — **0**
+
+D2 page-layer endpoint: `4bc4dbf888ef6227ef93779eefef7bf13b2c7ccc`.
 
 ## Translation identity
 
@@ -58,17 +62,17 @@ Normal page-batched cadence: **37 physical scans**.
 
 ## Exact next activity
 
-**Draft D2 — scans 38–74.**
+**Draft D3 — scans 75–111.**
 
 Requirements:
 
 - create matching files under `works/sangatamil/translations/en/pages/`;
 - mirror Tamil filenames exactly;
 - translate source order, prose, dialogue, quoted verse, source labels, provenance and visual descriptions faithfully;
-- preserve cross-page continuation from scan 37 into scan 38 and all D2 internal continuities;
+- preserve all cross-page continuities;
 - copy factual Tamil status/visual-fidelity into `source_tamil_status` / `source_tamil_visual_fidelity`;
 - use `status: "draft"` for safely translatable pages, preserving `source-limited` only where the Tamil record itself requires it;
-- update `TRANSLATION_STATUS.md` after D2;
+- update `TRANSLATION_STATUS.md` after D3;
 - audit the exact changed-file set;
 - change **0 canonical Tamil page files**.
 

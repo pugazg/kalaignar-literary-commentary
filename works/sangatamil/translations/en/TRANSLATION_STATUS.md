@@ -1,6 +1,6 @@
 # Sangatamil — Maintained English Translation Status
 
-**Status: ACTIVE — DRAFT D1 COMPLETE / PASS**
+**Status: ACTIVE — DRAFT D2 COMPLETE / PASS**
 
 Repository: `pugazg/kalaignar-literary-commentary`  
 Branch: `main`
@@ -29,7 +29,7 @@ English work does not alter or promote those Tamil statuses.
 | Gate | State |
 |---|---|
 | Control-layer initialization | **COMPLETE / PASS** |
-| First-pass drafting | **37/497 — D1 COMPLETE / PASS** |
+| First-pass drafting | **74/497 — D1+D2 COMPLETE / PASS** |
 | Source-check | **0/497** |
 | Glossary reconciliation | **0/497** |
 | Editorial review | **0/497** |
@@ -37,26 +37,32 @@ English work does not alter or promote those Tamil statuses.
 
 Current English page inventory:
 
-- `draft` — **36**
+- `draft` — **73**
 - `source-checked` — **0**
 - `editorial-reviewed` — **0**
 - `release-ready` — **0**
 - `source-limited` — **1** (scan 8)
 - `blocked` — **0**
-- not yet created — **460**
+- not yet created — **423**
 
-## D1 closure
+## Drafting closure
 
-Draft D1 covers scans **1–37**.
+### D1 — COMPLETE / PASS
 
-- page-aligned English records — **37/37**
-- page-layer base — `2ffa826d436b8ac37940986a43bcf7d9f5b78bc1`
+- scans **1–37**
+- English pages — **37/37**
 - page-layer endpoint — `1eb0df73d39545cea4e680048a58a4bff759990d`
-- page-layer drafting commits — **5**
-- exact changed files across those commits — **37 English page files only**
-- canonical Tamil page changes — **0**
-- scan 8 handwritten `முன்னுரை` — **source-limited / description only**
-- durable report — `DRAFT_D1_REPORT.md`
+- state — **36 draft + 1 source-limited**
+
+### D2 — COMPLETE / PASS
+
+- scans **38–74**
+- English pages — **37/37**
+- page-layer base — `675785dd90bfa4f3d93987eadf790cedfe1e40b9`
+- page-layer endpoint — `4bc4dbf888ef6227ef93779eefef7bf13b2c7ccc`
+- exact page-layer compare — **4 commits / 37 English page files only / 0 canonical Tamil page changes**
+- D2 state — **37 draft / 0 source-limited / 0 blocked**
+- durable report — `DRAFT_D2_REPORT.md`
 
 ## Release interpretation
 
@@ -70,6 +76,6 @@ Normal page-batched cadence: **37 physical scans**.
 
 ## Exact next activity
 
-**Draft D2 — scans 38–74.**
+**Draft D3 — scans 75–111.**
 
 Continue first-pass drafting before source-check. Preserve cross-page continuation and existing Tamil status/visual-fidelity metadata. Change **0 canonical Tamil page files**.
