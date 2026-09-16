@@ -7,11 +7,11 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 heading correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
-# லேக் களத்து ளில் இரும்பும் ஒரு துளிநீரும்!
+# உலைக் களத்து இரும்பும் ஒரு துளிநீரும்!
 
 சின்ன மருது, பெரிய மருது என சிவகெங்கைச் சீமை ஆண்டு;  
 சிவந்தமண்ணின் வரலாற்றில் செங்குருதி மலராய்ப் பூத்த  
@@ -47,5 +47,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 கயல்விழி மங்கையொருத்திக்கும் காதலனாம் - அந்தக்  
 காதற்கிழத்தியுடன் ஒருநாள் கட்டிலறைக் காவியம் படித்தபோது;
 
-<!-- Gate B preserves File2's locked heading/body wording, including the malformed locked heading `லேக் களத்து ளில் இரும்பும் ஒரு துளிநீரும்!`. The scan-visible decorative heading is `உலைக் களத்து இரும்பும் ஒரு துளிநீரும்!`, recorded in section metadata but not silently substituted into the locked body. -->
+<!-- C2-04: user-authorized source heading correction applied: `லேக் களத்து ளில் இரும்பும் ஒரு துளிநீரும்!` → `உலைக் களத்து இரும்பும் ஒரு துளிநீரும்!`; user-confirmed `சிவகெங்கைச் சீமை` remains protected. -->
 <!-- மூல ஸ்கேன் பக்கம்: 96; அச்சுப் பக்கம்: 81 -->

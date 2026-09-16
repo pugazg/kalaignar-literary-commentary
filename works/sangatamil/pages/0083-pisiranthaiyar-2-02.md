@@ -7,9 +7,28 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 source-block restoration"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
+
+அன்னச்சேவலை மையமாய் வைத்து - அழகுறப்பாடல்  
+கன்னல் தமிழில் கற்பனையூற்றாய் எழுதியோர் புலவர்!
+
+“அன்னச் சேவலே! அன்னச் சேவலே!” என அழைத்து  
+இன்னலுற்றுள்ள தன் நெஞ்சைத் திறந்து காட்டி,
+
+மன்னவன் பெருங்கோ கிள்ளியெனும் கோப்பெருஞ்சோழன்  
+இன்னமும் காணும் வாய்ப்பினைப் பெறவில்லையே யென்ற
+
+மனப்புயல் ஒருபுறம், அடக்கிக்கொண்டு - அவன்  
+மாப்புகழ்பற்றி எடுத்துரைத்தார்!
+
+கோக்காமல் முத்துக்கள் மாலையாவதில்ல - ஆழல்  
+பார்க்காமலே சோழனும் புலவரும் நட்பின் ஆரமாய்த் திகழ
+
+தமிழே மணியாய் - தமிழ் உணர்வே இழையாய் ஆனதுவாம்!  
+தடந்தோள் சோழனின் கொடையும் அன்பும் பாட்டின் கருவாய்  
+அமைந்ததுவாம்!
 
 > “அன்னச்சேவலே! அன்னச்சேவலே! நீயோ  
 > கன்னிக் குமரியின் முனையிலேயிருந்து  
@@ -32,5 +51,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 > இறைவனாம் சோழன் செவியில் விழுமாறு  
 > உறையூர்க் காவலர்பால் உரக்கக் கூறிடு!
 
-<!-- Gate B keeps only File2-locked lexical wording. The source-visible introductory prose above the dialogue is absent from File2 and is therefore documented, not silently recovered. The scan still controls lineation, dialogue placement and page furniture. -->
+<!-- C2-04: user confirmed the source-visible introductory prose is a true missing whole lexical block. Restored exactly from the repository's pre-lock direct-source capture at commit `9b8ce8497a374f58d4b4b4f23c293491b3c13c02`; the existing Gemini/File2-locked quotation below was not changed by this restoration. -->
 <!-- மூல ஸ்கேன் பக்கம்: 83; அச்சுப் பக்கம்: 68 -->

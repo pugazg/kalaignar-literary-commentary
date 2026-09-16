@@ -9,10 +9,11 @@ The user explicitly opened C2 in manual batches and supplied adjudications that 
 - **C2-01 — scans 1–25**
 - **C2-02 — scans 26–50**
 - **C2-03 — scans 51–75**
+- **C2-04 — scans 76–100**
 
 The historical Gate-C ledger remains an audit record. Where the user's manual C2 adjudication disagrees with the earlier Gate-C interpretation, **the user's adjudication controls**.
 
-Scans **76–497 remain Gemini-lexical-locked** until the user supplies further instructions.
+Scans **101–497 remain Gemini-lexical-locked** until the user supplies further instructions.
 
 ## C2-01 — scans 1–25
 
@@ -69,18 +70,33 @@ C2-02 page files modified: **28, 29, 35, 40, 47**. Scan 40 modification is docum
 
 C2-03 page files modified: **51, 59, 64, 70**.
 
+
+## C2-04 — scans 76–100
+
+**Status: COMPLETE / APPLIED**
+
+| Gate-C ID | Scan | User adjudication | Repository action |
+|---|---:|---|---|
+| C04-001 | 77 | source `பாண்டிநாட்டுச் சிற்றூரில்` — Gemini error | corrected `பாண்டுநாட்டுச் சிற்றூரில்` → `பாண்டிநாட்டுச் சிற்றூரில்` |
+| C04-002 | 83 | source introductory prose before the quotation is a true missing whole lexical block | restored the exact pre-quotation block from pre-lock direct-source capture commit `9b8ce8497a374f58d4b4b4f23c293491b3c13c02`; existing Gemini/File2 quotation left unchanged |
+| C04-003 | 87 | `சந்தையில் தொலைத்துவிட்ட பொருளாயிற்றே தமது மகிழ்ச்சி` — Gemini is correct | no change; protected |
+| C04-004 | 96 | heading `உலைக் களத்து இரும்பும் ஒரு துளிநீரும்!` — Gemini error | corrected malformed body heading to the user-authorized source heading |
+| C04-005 | 96 | `சிவகெங்கைச் சீமை` — Gemini is correct | no change; protected |
+
+C2-04 page files modified: **77, 83, 96**.
+
 ## Cumulative C2 state
 
-- user-adjudicated scans — **75/497**
-- modified canonical page files — **12**
-- literary/source corrections applied — scans **7, 21, 28, 29, 35, 47, 51, 59, 64, 70**
+- user-adjudicated scans — **100/497**
+- modified canonical page files — **15**
+- literary/source corrections applied — scans **7, 21, 28, 29, 35, 47, 51, 59, 64, 70, 77, 83, 96**
 - facsimile-description policy applied — scan **8**
 - stale divergence metadata cleaned without body change — scan **40**
-- protected Gemini-correct findings — scans **5, 9, 11, 13, 19, 29, 39, 40, 47, 53, 58, 64**
-- scans **76–497** — **LOCKED / C2 NOT AUTHORIZED**
+- protected Gemini-correct findings — scans **5, 9, 11, 13, 19, 29, 39, 40, 47, 53, 58, 64, 87, 96**
+- scans **101–497** — **LOCKED / C2 NOT AUTHORIZED**
 - whole-volume word-for-word verification — **NOT CLAIMED**
 - Gate G — **DEFERRED**
 
 ## Next activity
 
-Wait for the user's C2 findings/instructions for **scans 76–100**. Do not modify that batch from the historical ledger alone.
+Wait for the user's C2 findings/instructions for **scans 101–125**. Do not modify that batch from the historical ledger alone.

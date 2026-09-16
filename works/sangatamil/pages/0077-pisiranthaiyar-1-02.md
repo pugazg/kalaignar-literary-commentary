@@ -7,7 +7,7 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 source correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -15,7 +15,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 கடமையாற்ற முனைந்திடுவீர் எனக் கவிஞர் ஒருவரிடம் வேண்டி  
 நின்றார்!
 
-பிசிர் எனும் பாண்டுநாட்டுச் சிற்றூரில்  
+பிசிர் எனும் பாண்டிநாட்டுச் சிற்றூரில்  
 பிறந்திட்ட ஆந்தை எனும் பெயருடையார் அக்கவிஞர்!
 
 பிசிராந்தையார் என்று பெருமைமிகு வரலாற்றேட்டில்  
@@ -60,5 +60,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 
 எனக்கேட்டு,
 
-<!-- Gate B preserves File2 lexical wording while the controlling scan determines page structure and alignment. -->
+<!-- C2-04: user-authorized source correction applied: `பாண்டுநாட்டுச் சிற்றூரில்` → `பாண்டிநாட்டுச் சிற்றூரில்`; remaining File2/Gemini wording is preserved unless separately adjudicated. -->
 <!-- மூல ஸ்கேன் பக்கம்: 77; அச்சுப் பக்கம்: 62 -->
