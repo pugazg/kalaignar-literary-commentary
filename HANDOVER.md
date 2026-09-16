@@ -648,9 +648,9 @@ Use `works/kuraloviyam/sections/entries/index.json` as the preferred structured 
 - unresolved provenance gaps — **0**
 - canonical page-wording changes — **0**
 - wording state — **Gemini-lexical-locked; not word-for-word scan verified**
-- Gate C2 — **NOT STARTED / NOT AUTHORIZED**
+- Historical checkpoint note — C2 had not yet been opened when Gate F closed; this is superseded by the current C2 state below.
 - physical provenance endpoint — **scan 497 / back cover**
-- exact next activity — **Gate G — metadata/status closure**
+- Historical Gate-F next activity was Gate G; this is superseded by the current C2 state below.
 
 
 # Sangath Tamil Gate C2 partial state — 2026-09-16
