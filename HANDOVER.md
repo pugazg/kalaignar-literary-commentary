@@ -653,18 +653,22 @@ Use `works/kuraloviyam/sections/entries/index.json` as the preferred structured 
 - Historical Gate-F next activity was Gate G; this is superseded by the current C2 state below.
 
 
-# Sangath Tamil Gate C2 closure / Gate G handoff — 2026-09-16
+# Sangath Tamil Post-C2 reconciliation / Gate G handoff — 2026-09-16
 
-- C2-01 through C2-20 — **COMPLETE / APPLIED**
-- Gate C2 disposition coverage — **497/497 scans**
-- historical Gate-C discrepancy records dispositioned — **140/140**
-- historical discrepancy records remaining — **0**
-- C2-20 user-authorized corrections applied at scans **478, 481, 492, 494**
-- C2-20 protected Gemini-correct readings — scans **494, 495**
-- cumulative modified canonical page files under C2 — **76**
-- no scan range remains C2-locked
-- user-confirmed Gemini-correct readings remain protected
+- Gate C2 — **COMPLETE / APPLIED**
+- C2 disposition coverage — **497/497 scans**
+- historical Gate-C discrepancy records adjudicated — **140/140**
+- C2-locked remainder — **0**
 - whole-volume word-for-word scan verification — **NOT CLAIMED**
+- post-C2 reconciliation R1 — **COMPLETE / PASS**
+- R1 durable record — `works/sangatamil/POST_C2_RECONCILIATION.md`
+- R1 canonical page-file mutations — **0**
+- Gate-D physical/continuity impact — **NONE**
+- Gate-E section identities synchronized — seq **020, 032, 070**
+- Gate-E ranges / 104-entry coverage — **UNCHANGED / PASS**
+- Gate-F provenance identities/counts — **UNCHANGED / PASS**
+- Gate-F derived section labels / boundary notes — **RECONCILED**
+- unresolved reconciliation items — **0**
 - Gate G — **ACTIVE / NEXT**
-- exact next activity — **Gate G metadata/status closure across all 497 canonical page records**
+- exact next activity — **metadata/status closure across all 497 canonical page records**
 - after Gate G — **Gate H derived navigation layer**

@@ -263,6 +263,7 @@ Current durable state — **2026-09-16**:
 - C20 substantive discrepancy records — **6**
 - cumulative Gate-C discrepancy records — **140**
 - Gate C2 — **COMPLETE / APPLIED — C2-01 through C2-20; 497/497 disposition coverage; 140/140 historical discrepancy records adjudicated; no locked remainder**
+- Post-C2 reconciliation R1 — **COMPLETE / PASS — 0 canonical page mutations / 0 unresolved reconciliation items**
 - Gate D — **COMPLETE / PASS — 497/497 physical scans / 0 unresolved physical-visual-continuity issues**
 - Gate-D report — `PHYSICAL_CONTINUITY_AUDIT.md`
 - Gate E — **COMPLETE / PASS — 104 section-role entries / 497/497 scans assigned exactly once**
@@ -271,7 +272,9 @@ Current durable state — **2026-09-16**:
 
 Durable Gate-B extraction/mapping exceptions remain recorded in `STRUCTURAL_FIDELITY_PROGRESS.md`; do not reopen Gate B merely to source-correct lexical wording.
 
-Exact next activity: **Gate G metadata/status closure across all 497 canonical page records**. Do not reopen closed lexical/structural decisions merely for normalization.
+Post-C2 reconciliation record: `POST_C2_RECONCILIATION.md` — **COMPLETE / PASS**.
+
+Exact next activity: **Gate G metadata/status closure across all 497 canonical page records**. Do not reopen closed lexical/structural/provenance decisions merely for normalization.
 
 Gate F durable outputs are closed:
 - works/sangatamil/indexes/source-citation-register.md — **COMPLETE through scan 497**;
@@ -282,4 +285,4 @@ Gate F durable outputs are closed:
 
 Gate C is closed at **497/497** with **140** historical discrepancy records. Gate C2 is also closed: **140/140 historical discrepancy records user-adjudicated across scans 1–497**, with no C2-locked remainder. Durable C2 record: `C2_SOURCE_CORRECTION_PROGRESS.md`. Whole-volume word-for-word scan verification is still not claimed.
 
-Gate C remains historical/audit-only evidence. Gate C2 is complete; proceed with Gate G metadata/status closure, preserving all user-adjudicated lexical decisions.
+Gate C remains historical/audit-only evidence. Gate C2 is complete, and post-C2 reconciliation R1 has synchronized the dependent Gate-D/E/F/control layers. Proceed with Gate G metadata/status closure, preserving all user-adjudicated lexical decisions.

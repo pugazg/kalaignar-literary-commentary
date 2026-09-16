@@ -18,6 +18,15 @@ Important C2 closure rule:
 - C2 closure means all **recorded Gate-C discrepancies** were dispositioned;
 - **do not claim whole-volume word-for-word scan verification**, because C2 did not re-run an exhaustive token-by-token verification of every source word.
 
+## Post-C2 reconciliation
+
+- R1 — **COMPLETE / PASS**
+- durable record — `works/sangatamil/POST_C2_RECONCILIATION.md`
+- canonical page files changed by R1 — **0**
+- Gate-E section identities reconciled — **3**
+- Gate-F section/context and boundary notes reconciled — **PASS**
+- unresolved reconciliation items — **0**
+
 ## Active gate — Gate G
 
 Audit all **497 canonical page records** for metadata/status consistency:
@@ -37,7 +46,7 @@ Do not reopen lexical wording, Gate-B structure, section boundaries, or provenan
 
 ## Exact next activity
 
-Start **Gate G metadata/status closure** from live `main`.
+Start **Gate G metadata/status closure** from live `main`, using the completed post-C2 reconciliation state as the baseline.
 
 Create or update a durable Gate-G audit report, fix only demonstrable metadata/status inconsistencies, synchronize `PRODUCTIVE_COMPLETION_PLAN.md`, root `HANDOVER.md`, and this next-chat prompt, and report the remaining Gate-G count.
 
