@@ -7,7 +7,7 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 repository-divergence correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -17,7 +17,6 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 கழுத்துயர்த்திக் கம்பீரம் காட்டுகின்ற
 சேவலுக்குச் சினமூட்டிக் களத்திலிறக்கி - ஊரார்;
 சிரித்து மகிழ்ந்து சேவல் போர் கண்டிடுவர்.
-இந்தச்
 சிற்றூர் முதல் பேரூர் நகரங்கள் வரை - இந்தச்
 சேவற் சண்டை காணும் வழக்கம், இன்று நேற்றல்ல;
 கற்றோர் ஏத்தும் கலியும் அகமும் புறமும் பிறந்த
@@ -44,5 +43,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 யார் தந்தும் வந்ததில்லை இத்துயரம் எனக்கு - இதனை
 யார் வந்தும் தடுத்தென்னை வாழவிடப் போவதில்லை!”
 
-<!-- Gate B collapses File6's displaced duplicate placement of locked `அது;` to the single source-supported position at the end of the `குறுந்தொகையிலுண்டு` line. -->
+<!-- C2-11: user-authorized repository-divergence correction removed the duplicate standalone `இந்தச்`; the single source-supported `இந்தச்` after `சிற்றூர் முதல் பேரூர் நகரங்கள் வரை -` is retained. Existing `அது;` placement remains unchanged. -->
 <!-- மூல ஸ்கேன் பக்கம்: 254; அச்சுப் பக்கம்: 241 -->
