@@ -957,3 +957,76 @@ At C14 close:
 2. verify **0 canonical page files changed**;
 3. advance the Gate-C frontier to **scan 351**;
 4. do not start Gate C2.
+
+
+# C14 — scans 326–350
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-16**
+- audited scans: **326–350 / 25**
+- controlling source: user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_007_pages_301-350.pdf`, split pages **26–50**
+- direct Gemini lexical witness: user-supplied `File7.md`, Phase 16 / Book Pages **314–338**
+- locked comparison layer: current canonical page records under `works/sangatamil/pages/`
+- substantive discrepancy records: **5**
+- scans containing discrepancies: **4**
+- scans with no new substantive lexical discrepancy: **21**
+- canonical page files changed: **0**
+- Gate C2 corrections: **0**
+
+Clean / no-new-substantive-discrepancy scans:
+
+**327, 329–330, 332–339, 341–350**
+
+Special handling:
+- scans **329, 335, 339, 343, 349** are full-page colour illustrations and contain no source-visible literary body text;
+- File7 Phase 16 omits the illustration-only physical pages, so Book Pages **314–338** map across physical scans **326–350** with those five source illustration gaps preserved;
+- known File7 extraction debris already excluded during Gate B — scan 328 Bengali-like wrapper token, scan 331 numeric `66`, scan 334 numeric `66` tokens, scan 340 wrapper fragment `கள`, scan 341 numeric `66` tokens, scan 344 wrapper `吗。。`, scan 346 quotation bullet, and scan 350 wrapper `Po` / numeric `66` — was not entered as Gate-C discrepancy;
+- scan **326** was rechecked visually because B14 had treated File7 `என்றார்!` as unsupported extraction. The source visibly contains `என்றார்!`; therefore C14 records its canonical omission as a repository-only divergence. The same scan also confirms source/canonical `ஒலியோ - ஒரு`, where File7 omits `ஒரு`;
+- scan **334** was rechecked against the source: the source itself reads `உடன் சென்று துணை நிற்க வேண்டு`, matching File7/canonical. The prior B14 note suggesting a fuller source form is not promoted into Gate C and no discrepancy is recorded;
+- scan **340** was rechecked visually because B14 had treated File7 `போரில்` as unsupported. The source visibly contains the lexical token `போரில்` later in the same passage; File7 displaced it, while the canonical page omitted it. C14 records the canonical omission without reopening Gate B;
+- punctuation-only, spacing, line-wrap, running-header/footer and purely structural differences were excluded unless they materially altered lexical interpretation.
+
+## C14 discrepancy records
+
+| ID | Scan | Printed page | Canonical page | Locked File7 / repository wording | Source-visible / source-aligned wording | Classification | Gate-B exception already documented? | Notes |
+|---|---:|---:|---|---|---|---|---|---|
+| C14-001 | 326 | 314 | `0326-oru-kodi-vaazhththuk-kooriduvom-04.md` | File7 contains displaced `என்றார்!`; canonical page omits the token | source visibly contains `என்றார்!` immediately after the quoted `...அதனைப் பருகலாம்` passage | `repository-only-divergence` | **yes — B14, but classified there as extraction debris** | Direct visual recheck shows the token is literary source text, not debris. Gate C records the omission only; canonical wording is not repaired. |
+| C14-002 | 326 | 314 | `0326-oru-kodi-vaazhththuk-kooriduvom-04.md` | File7 `கடையும்போது கயிற்றால் எழுகின்ற ஒலியோ / காட்டில் உறுமுகின்ற புலிபோல...` | source/canonical `கடையும்போது கயிற்றால் எழுகின்ற ஒலியோ - ஒரு / காட்டில் உறுமுகின்ற புலிபோல...` | `likely-gemini-error` | no | File7 omits the lexical word `ஒரு`; the canonical page is already source-aligned. |
+| C14-003 | 328 | 316 | `0328-veeranai-paadiya-cheran-01.md` | decorative body heading `வானைப் பாடிய / சோன்!` | source decorative heading `வீரனைப் பாடிய / சேரன்!` | `missing-or-malformed-heading-lexical-block` | **yes — B14** | Both lexical components of the decorative heading are corrupted in File7. Metadata preserves the source section identity; body wording remains locked. |
+| C14-004 | 331 | 319 | `0331-veeranai-paadiya-cheran-04.md` | `படைக்கலன் தடுக்கும் அவன் கேடயம்தனையும்` | source `படைக்கலன் தடுக்கும் அவன் கேடயத்தினையும்` | `likely-gemini-error` | **yes — B14** | The scan clearly reads `கேடயத்தினையும்`; File7/canonical alter the internal morphology to `கேடயம்தனையும்`. |
+| C14-005 | 340 | 328 | `0340-tamil-nenjangal-pootriya-thalaiyalangaanaththaan-03.md` | File7 contains `போரில்` displaced before the quotation; canonical omits it | source visibly contains `போரில்` in the quotation passage after `குருதிநீர் பொங்குகின்ற உலையில் -` | `repository-only-divergence` | **yes — B14, but classified there as extraction debris** | File7 preserves the lexical token but at the wrong position. Gate C records the canonical omission only; no page repair or Gate-B reopen is performed. |
+
+## C14 closure audit
+
+C14 is an **audit-only closure**.
+
+- source scans **326–350** were visually inspected against the direct File7 witness and the preserved canonical layer;
+- **5** substantive discrepancy records were entered across **4** scans;
+- **0** canonical page records were edited;
+- no Gate-B page was reopened;
+- no lexical correction was promoted;
+- wording state remains **Gemini-lexical-locked / not word-for-word scan verified**.
+
+## Gate C cumulative state after C14
+
+- completed Gate-C batches: **C01–C14**
+- audited scans: **350/497**
+- cumulative substantive discrepancy records: **79**
+- remaining scans: **147**
+- next frontier: **scan 351**
+- Gate C2: **NOT STARTED / NOT AUTHORIZED**
+
+## Exact next activity
+
+Process **Gate C C15 — scans 351–375**.
+
+Available direct source pair:
+- user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf`, split pages **1–25** / physical scans **351–375**;
+- user-supplied `File8.md`, Phase 17 / Book Pages **339–363**.
+
+At C15 close:
+1. append only substantive lexical discrepancies to this ledger;
+2. verify **0 canonical page files changed**;
+3. advance the Gate-C frontier to **scan 376**;
+4. do not start Gate C2.
