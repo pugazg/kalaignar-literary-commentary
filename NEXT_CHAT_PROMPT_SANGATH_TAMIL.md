@@ -1,53 +1,70 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate G Metadata + Status Closure
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / ARCHIVAL PIPELINE CLOSED
 
-Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
+Continue only from live `main` in `pugazg/kalaignar-literary-commentary`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Closed archival/content gates
+## Final closed state
 
 - Gate A — **COMPLETE / PASS** — 497/497 canonical scan records.
 - Gate B — **COMPLETE / PASS** — 497/497 structurally reviewed.
 - Gate C — **COMPLETE / PASS** — 497/497 discrepancy audit / 140 historical records.
-- Gate C2 — **COMPLETE / APPLIED** — 497/497 disposition coverage; **140/140** historical Gate-C discrepancy records user-adjudicated.
-- Gate D — **COMPLETE / PASS** — 497/497 physical / visual / continuity closed.
+- Gate C2 — **COMPLETE / APPLIED** — 140/140 recorded Gate-C discrepancies user-adjudicated.
+- Gate D — **COMPLETE / PASS** — 497/497 physical / visual / continuity.
 - Gate E — **COMPLETE / PASS** — 104 section-role entries / 497/497 scans assigned exactly once.
 - Gate F — **COMPLETE / PASS** — 115 formal provenance units + 4 source-note-only records.
+- Post-C2 reconciliation R1 — **COMPLETE / PASS**.
+- Gate G — **COMPLETE / PASS** — 497/497 metadata/status audited; 11 missing `visual_fidelity` fields repaired; 0 unresolved.
+- Gate H — **COMPLETE / PASS** — derived navigation built from 104 sections / 115 formal units / 4 note-only records / 119 provenance leaves; 0 canonical page changes.
+- Gate I — **COMPLETE / PASS** — final whole-volume synchronization / closure.
 
-Important C2 closure rule:
-- no scan range remains C2-locked;
-- user-confirmed Gemini-correct readings remain protected;
-- C2 closure means all **recorded Gate-C discrepancies** were dispositioned;
-- **do not claim whole-volume word-for-word scan verification**, because C2 did not re-run an exhaustive token-by-token verification of every source word.
+## Final status discipline
 
-## Post-C2 reconciliation
+Final page-level `status` distribution:
 
-- R1 — **COMPLETE / PASS**
-- durable record — `works/sangatamil/POST_C2_RECONCILIATION.md`
-- canonical page files changed by R1 — **0**
-- Gate-E section identities reconciled — **3**
-- Gate-F section/context and boundary notes reconciled — **PASS**
-- unresolved reconciliation items — **0**
+- `verified` — **43**
+- `needs-review` — **453**
+- `partial` — **1** (scan 8 handwritten `முன்னுரை`, description-only by explicit user direction)
 
-## Active gate — Gate G
+Final `visual_fidelity` distribution:
 
-Audit all **497 canonical page records** for metadata/status consistency:
+- `verified` — **43**
+- `needs-review` — **454**
+- missing — **0**
 
-- `scan_page`;
-- `printed_page`;
-- `section`;
-- `page_type`;
-- `status`;
-- `visual_fidelity`;
-- continuation fields;
-- `source_filename`;
-- `transcription_method`;
-- filename/path consistency.
+Do **not** mass-promote the remaining `needs-review` records. Gate C2 resolved the recorded discrepancy ledger; it did **not** perform a fresh exhaustive token-by-token verification of every word in all 497 scans.
 
-Do not reopen lexical wording, Gate-B structure, section boundaries, or provenance merely for stylistic normalization.
+Whole-volume word-for-word scan verification is therefore **NOT CLAIMED**.
 
-## Exact next activity
+## Final derived navigation
 
-Start **Gate G metadata/status closure** from live `main`, using the completed post-C2 reconciliation state as the baseline.
+Use:
 
-Create or update a durable Gate-G audit report, fix only demonstrable metadata/status inconsistencies, synchronize `PRODUCTIVE_COMPLETION_PLAN.md`, root `HANDOVER.md`, and this next-chat prompt, and report the remaining Gate-G count.
+- `works/sangatamil/navigation/README.md`
+- `works/sangatamil/navigation/SECTIONS.md`
+- `works/sangatamil/navigation/sections.json`
+- `works/sangatamil/navigation/sections.tsv`
+- `works/sangatamil/navigation/provenance/index.json`
+- `works/sangatamil/navigation/provenance/index.tsv`
+- `works/sangatamil/navigation/provenance/BY_SECTION.md`
+- `works/sangatamil/navigation/provenance/unit-001.md` … `unit-115.md`
+- `works/sangatamil/navigation/provenance/note-001.md` … `note-004.md`
 
-After Gate G closes, proceed to **Gate H — derived navigation layer**.
+## Durable closure records
+
+- `works/sangatamil/POST_C2_RECONCILIATION.md`
+- `works/sangatamil/GATE_G_METADATA_STATUS_AUDIT.md`
+- `works/sangatamil/GATE_H_DERIVED_NAVIGATION_REPORT.md`
+- `works/sangatamil/GATE_I_FINAL_CLOSURE.md`
+
+## Rule for future work
+
+There is **no pending archival gate**.
+
+Do not reopen canonical wording, structure, section boundaries, provenance, metadata/status, or navigation merely for stylistic normalization.
+
+Future work requires one of:
+
+1. a new source/witness;
+2. explicit user correction with evidence;
+3. a separately scoped downstream derivative such as website/search/API integration.
+
+For downstream products, consume the derived navigation/index layer rather than rewriting canonical page records.

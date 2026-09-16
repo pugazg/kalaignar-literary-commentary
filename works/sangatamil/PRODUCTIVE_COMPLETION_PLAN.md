@@ -229,19 +229,15 @@ Synchronize:
 - source citation register;
 - all gate reports.
 
-Final declaration must distinguish one of two outcomes:
+Final declaration for this archive:
 
-### Outcome 1 — current lock retained
+**ARCHIVAL STRUCTURE / PHYSICAL / SECTION / PROVENANCE / METADATA / NAVIGATION CLOSED — RECORDED GATE-C2 DISCREPANCIES ADJUDICATED — WHOLE-VOLUME WORD-FOR-WORD SCAN VERIFICATION NOT CLAIMED.**
 
-**STRUCTURAL / PHYSICAL / SECTION / PROVENANCE CLOSED — GEMINI-LEXICAL-LOCKED**
-
-### Outcome 2 — user later authorizes Gate C2
-
-**FULL TEXTUAL + VISUAL + STRUCTURAL + PROVENANCE CLOSED**
+Gate C2 authorization resolved the **140 recorded Gate-C discrepancies**; it did not constitute a fresh exhaustive token-by-token reread of every source word.
 
 ## Current active gate
 
-**Gate H — Derived navigation layer.**
+**Gate I — COMPLETE / final whole-volume closure.**
 
 Current durable state — **2026-09-16**:
 - Gate A — COMPLETE / PASS
@@ -272,12 +268,15 @@ Current durable state — **2026-09-16**:
 - Gate G — **COMPLETE / PASS — 497/497 metadata/status audited / 11 missing `visual_fidelity` fields repaired / 0 unresolved Gate-G inconsistencies / 0 wording changes**
 - Gate-G report — `GATE_G_METADATA_STATUS_AUDIT.md`
 - Gate-G page-layer endpoint — `fd024e4c0b1d3f21a3849c360d509350ce808db5`
+- Gate H — **COMPLETE / PASS — 104 sections / 115 formal provenance units / 4 source-note-only records / 119 derived provenance leaves / 0 canonical page changes**
+- Gate-H report — `GATE_H_DERIVED_NAVIGATION_REPORT.md`
+- Gate-H commit — `c9e0b7a4a7963f3dc046e79951d718b2a3d9a41a`
 
 Durable Gate-B extraction/mapping exceptions remain recorded in `STRUCTURAL_FIDELITY_PROGRESS.md`; do not reopen Gate B merely to source-correct lexical wording.
 
 Post-C2 reconciliation record: `POST_C2_RECONCILIATION.md` — **COMPLETE / PASS**.
 
-Exact next activity: **Gate H — derived navigation layer**. Build downstream navigation/crosswalk/index artifacts from the closed archival layer without mutating canonical page wording or reopening Gates B–G.
+Gate H is **COMPLETE / PASS**. Gate I final synchronization is now **COMPLETE / PASS**. There is no pending archival gate.
 
 Gate F durable outputs are closed:
 - works/sangatamil/indexes/source-citation-register.md — **COMPLETE through scan 497**;
@@ -288,4 +287,4 @@ Gate F durable outputs are closed:
 
 Gate C is closed at **497/497** with **140** historical discrepancy records. Gate C2 is also closed: **140/140 historical discrepancy records user-adjudicated across scans 1–497**, with no C2-locked remainder. Durable C2 record: `C2_SOURCE_CORRECTION_PROGRESS.md`. Whole-volume word-for-word scan verification is still not claimed.
 
-Gate C remains historical/audit-only evidence. Gate C2 is complete, post-C2 reconciliation R1 synchronized the dependent Gate-D/E/F/control layers, and Gate G is now closed. Proceed with Gate H derived navigation, preserving all user-adjudicated lexical decisions and the closed canonical page layer.
+Gate C remains historical/audit-only evidence. Gate C2, R1, Gates D–H, and final Gate I synchronization are closed. Preserve all user-adjudicated lexical decisions and the closed canonical page layer.

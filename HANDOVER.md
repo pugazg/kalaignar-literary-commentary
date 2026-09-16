@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed **2026-09-16**: Kuraloviyam remains closed; Sangath Tamil Gates **A–G are COMPLETE / PASS**; Gate C2 is **COMPLETE / APPLIED 140/140**; post-C2 reconciliation R1 is **COMPLETE / PASS**; **Gate H derived navigation is active next**.
+Last refreshed **2026-09-16**: Kuraloviyam remains closed; Sangath Tamil Gates **A–I are COMPLETE / PASS**; Gate C2 is **COMPLETE / APPLIED 140/140**; post-C2 reconciliation R1 is **COMPLETE / PASS**; the Sangath Tamil archival pipeline is **CLOSED**.
 
 ## Repository
 
@@ -25,6 +25,9 @@ Current Sangath Tamil durable controls:
 - `works/sangatamil/C2_SOURCE_CORRECTION_PROGRESS.md`
 - `works/sangatamil/POST_C2_RECONCILIATION.md`
 - `works/sangatamil/GATE_G_METADATA_STATUS_AUDIT.md`
+- `works/sangatamil/GATE_H_DERIVED_NAVIGATION_REPORT.md`
+- `works/sangatamil/GATE_I_FINAL_CLOSURE.md`
+- `works/sangatamil/navigation/README.md`
 - `works/sangatamil/indexes/section-register.md`
 - `works/sangatamil/indexes/source-citation-register.md`
 - `NEXT_CHAT_PROMPT_SANGATH_TAMIL.md`
@@ -50,15 +53,17 @@ Earlier Gate-B/C/F checkpoints remain historical evidence only. Later commits ma
 - Gate F — **COMPLETE / PASS — 115 formal provenance units + 4 source-note-only records**
 - Post-C2 reconciliation R1 — **COMPLETE / PASS — 0 canonical page mutations / 0 unresolved**
 - Gate G — **COMPLETE / PASS — 497/497 metadata/status audited / 11 missing `visual_fidelity` fields repaired / 0 unresolved / 0 wording changes**
+- Gate H — **COMPLETE / PASS — 104 sections / 115 formal units / 4 note-only / 119 provenance leaves / 0 canonical page changes**
+- Gate I — **COMPLETE / PASS — final synchronization / closure**
 - final Gate-G page status distribution — **43 verified / 453 needs-review / 1 partial**
 - final Gate-G visual-fidelity distribution — **43 verified / 454 needs-review / 0 missing**
 - whole-volume word-for-word scan verification — **NOT CLAIMED**
 
 The mixed page-level statuses are intentional. Gate C2 resolved all recorded Gate-C discrepancies but did not perform a fresh exhaustive token-by-token reread of every source word.
 
-**Exact next activity: Gate H — derived navigation layer.**
+**Exact next activity: none — Sangath Tamil archival pipeline closed.**
 
-Gate H is downstream-only: build navigation/crosswalk/index artifacts from the closed canonical layer. Do not mutate canonical page wording or reopen Gates B–G.
+Do not reopen the canonical layer without a new source, explicit correction, or separately scoped downstream product.
 
 > Historical workflow sections later in this handover may preserve the frontier that was true when they were written. They are evidence, not the live execution frontier. The current state above controls.
 
@@ -675,6 +680,7 @@ Use `works/kuraloviyam/sections/entries/index.json` as the preferred structured 
 - Gate-G canonical wording changes — **0**
 - Gate-G durable report — `works/sangatamil/GATE_G_METADATA_STATUS_AUDIT.md`
 - Gate-G page-layer endpoint — `fd024e4c0b1d3f21a3849c360d509350ce808db5`
-- active next gate — **Gate H derived navigation layer**
-- Gate-H rule — **downstream navigation/index work only; do not mutate canonical page wording or reopen Gates B–G**
+- Gate H — **COMPLETE / PASS — derived navigation built**
+- Gate I — **COMPLETE / PASS — final closure**
+- current state — **CLOSED / no pending archival gate**
 

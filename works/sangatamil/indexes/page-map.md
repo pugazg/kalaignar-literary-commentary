@@ -74,7 +74,7 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 
 ## Active gate
 
-**Gate G metadata/status closure — COMPLETE / PASS — 497/497 audited / 11 missing visual-fidelity fields repaired / 0 unresolved. Gate H derived navigation is active next.**
+**Gate G metadata/status closure — COMPLETE / PASS — 497/497 audited / 11 missing visual-fidelity fields repaired / 0 unresolved. Gate H derived navigation and Gate I final closure are COMPLETE / PASS. No archival gate remains.**
 
 
 Durable extraction note: File9 Book Pages **401–412** are mis-segmented/replaced for physical scans **413–424**; this does not change the physical scan map.

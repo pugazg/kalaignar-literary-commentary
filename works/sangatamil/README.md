@@ -146,6 +146,27 @@ Gate G — **COMPLETE / PASS**:
 
 The mixed page-level status distribution is intentional; C2 resolved the recorded discrepancy ledger but did not perform a fresh token-by-token reread of every source word.
 
+## Gate H closure
+
+Gate H — **COMPLETE / PASS**:
+- source-order sections indexed — **104/104**
+- physical scan coverage inherited — **497/497**
+- formal provenance units indexed — **115/115**
+- source-note-only records indexed — **4/4**
+- provenance leaves — **119**
+- canonical page-wording changes — **0**
+- durable report — `GATE_H_DERIVED_NAVIGATION_REPORT.md`
+- derived navigation root — `navigation/`
+- Gate-H commit — `c9e0b7a4a7963f3dc046e79951d718b2a3d9a41a`
+
+## Final Gate I closure
+
+Gate I — **COMPLETE / PASS**. The Sangath Tamil archival pipeline is closed through derived navigation and final synchronization.
+
+Final declaration:
+
+**ARCHIVAL STRUCTURE / PHYSICAL / SECTION / PROVENANCE / METADATA / NAVIGATION CLOSED — RECORDED C2 DISCREPANCIES ADJUDICATED — WHOLE-VOLUME WORD-FOR-WORD SCAN VERIFICATION NOT CLAIMED.**
+
 ## Exact next activity
 
-**Gate H — derived navigation layer from the closed archival records.**
+**No pending archival gate. Reopen only for a new source, explicit correction, or a separately scoped downstream product.**

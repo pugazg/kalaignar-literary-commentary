@@ -8,7 +8,7 @@ Only source-supported citations are entered. External editions must not silently
 
 The canonical execution plan is `../PRODUCTIVE_COMPLETION_PLAN.md`; lexical policy is `../GEMINI_TEXT_LOCK.md`; physical/section closure is recorded in `../PHYSICAL_CONTINUITY_AUDIT.md` and `../SECTION_COVERAGE_AUDIT.md`; live Gate-F progress is recorded in `../PROVENANCE_AUDIT.md`.
 
-Gates A–G and Gate C2 are closed. Post-C2 reconciliation R1 is **COMPLETE / PASS**; Gate H derived navigation is the current downstream layer. **F01–F20 scans 1–497 are COMPLETE / PASS**.
+Gates A–I and Gate C2 are closed. Post-C2 reconciliation R1 is **COMPLETE / PASS**; Gate H derived navigation and Gate I final closure are **COMPLETE / PASS**. **F01–F20 scans 1–497 are COMPLETE / PASS**.
 
 Gate F originally verified source-visible provenance without authorizing page-wording changes. Gate C2 later adjudicated all 140 recorded lexical discrepancies. This register now reflects post-C2 section-identity and quotation-boundary synchronization, while provenance labels/counts remain source-controlled. Whole-volume word-for-word scan verification is not claimed.
 
@@ -195,6 +195,6 @@ Standalone source-note-only records occur at scans **207, 262, 276, 341** and ar
 
 Physical provenance endpoint: **scan 497 / back cover / no further source pages**.
 
-Current downstream gate: **Gate H — derived navigation layer**.
+Current state: **Gate H derived navigation COMPLETE / PASS; Gate I final closure COMPLETE / PASS; no pending archival gate**.
 
 B17 extraction note: File9 Book Pages **401–412** are not reliable one-to-one lexical blocks for physical scans **413–424**; Gate F used the physical source / canonical section layer rather than infer provenance from the broken extraction.

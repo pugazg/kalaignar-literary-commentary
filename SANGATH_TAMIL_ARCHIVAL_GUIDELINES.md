@@ -96,10 +96,13 @@ Historical Gate-B/C/D/E/F reports may retain their original gate-time methodolog
 - Post-C2 reconciliation R1 — **COMPLETE / PASS**
 - Gate G — **COMPLETE / PASS — 497/497 audited / 0 unresolved metadata-status inconsistencies**
 - Gate-G durable report — `works/sangatamil/GATE_G_METADATA_STATUS_AUDIT.md`
+- Gate H — **COMPLETE / PASS — 104 section records / 115 formal provenance units / 4 source-note-only / 119 provenance leaves / 0 canonical page changes**
+- Gate-H durable report — `works/sangatamil/GATE_H_DERIVED_NAVIGATION_REPORT.md`
+- Gate I — **COMPLETE / PASS — final whole-volume synchronization / closure**
 - no C2-locked scan range remains
 - whole-volume word-for-word scan verification — **NOT CLAIMED**
 - reconciliation record — `works/sangatamil/POST_C2_RECONCILIATION.md`
 
 ### Exact next activity
 
-Proceed to **Gate H — derived navigation layer**. Build only downstream navigation/crosswalk/index artifacts from the closed canonical layer; do not mutate page wording or reopen Gates B–G.
+**No pending archival gate.** Preserve the closed canonical layer. Any future work must be separately scoped as a new source/correction or downstream derivative.

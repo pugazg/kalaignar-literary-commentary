@@ -97,7 +97,9 @@ Section/provenance derived indexes designated later gates-ல் canonical compl
 - Gate F — **COMPLETE / PASS — 115 formal provenance units + 4 source-note-only**
 - Post-C2 reconciliation R1 — **COMPLETE / PASS**
 - Gate G — **COMPLETE / PASS — 497/497 metadata/status audited / 11 missing visual-fidelity fields repaired / 0 unresolved**
-- current next gate — **Gate H — derived navigation**
+- Gate H — **COMPLETE / PASS — derived navigation built**
+- Gate I — **COMPLETE / PASS — final synchronization / closure**
+- current next gate — **NONE / archival pipeline closed**
 - whole-volume word-for-word scan verification — **NOT CLAIMED**
 
 Durable Gate-G record: `../GATE_G_METADATA_STATUS_AUDIT.md`.

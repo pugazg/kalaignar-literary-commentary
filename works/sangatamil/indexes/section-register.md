@@ -12,6 +12,10 @@ This register is the canonical source-order section map for the supplied 497-sca
 - Gate C: **COMPLETE / PASS — 497/497 audited under the Gemini lexical lock**;
 - Gate D: **COMPLETE / PASS — 497/497 physical / visual / continuity closed**;
 - Gate E: **COMPLETE / PASS — 497/497 scans assigned exactly once**;
+- Gate F: **COMPLETE / PASS — 115 formal provenance units + 4 source-note-only**;
+- Gate G: **COMPLETE / PASS — 497/497 metadata/status audited / 0 unresolved**;
+- Gate H: **COMPLETE / PASS — derived navigation built from all 104 section-role entries**;
+- Gate I: **COMPLETE / PASS — final synchronization / closure**;
 - wording state: **Gate C2 discrepancy-adjudicated (140/140 recorded discrepancies); whole-volume word-for-word scan verification not claimed**;
 - post-C2 reconciliation R1: **COMPLETE / PASS — final section identities synchronized; scan ranges unchanged**;
 - repository sequence numbers below are **navigation identifiers only**, not printed chapter numbers.
