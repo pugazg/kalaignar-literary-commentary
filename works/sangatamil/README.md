@@ -96,6 +96,21 @@ Gate E — COMPLETE / PASS:
 - canonical page-wording changes — 0
 - durable report — `SECTION_COVERAGE_AUDIT.md`
 
+## Gate F closure
+
+Gate F — **COMPLETE / PASS**:
+- batches — **F01–F20**
+- provenance-audited scans — **497/497**
+- formal citation-provenance units — **115**
+- standalone source-note-only provenance records — **4**
+- canonical page-wording changes — **0**
+- unresolved provenance gaps — **0**
+- physical provenance endpoint — **scan 497 / back cover**
+
+Durable outputs:
+- indexes/source-citation-register.md
+- PROVENANCE_AUDIT.md
+
 ## Exact next activity
 
-Gate F — **IN PROGRESS**. F01–F04 scans **1–100 — COMPLETE / PASS** with **17 cumulative formal provenance units** verified and **0 canonical page-wording changes**. Current provenance frontier: **scan 101**. Next batch: **F05 scans 101–125**. Continue updating `indexes/source-citation-register.md` and `PROVENANCE_AUDIT.md`; do not start Gate C2 without explicit authorization.
+Proceed to **Gate G — metadata/status closure** across all 497 canonical pages. Do not start Gate C2 without explicit authorization.

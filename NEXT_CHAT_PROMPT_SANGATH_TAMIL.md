@@ -1,6 +1,6 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate F Sangam Provenance Audit / F05 scans 101–125
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate G Metadata & Status Closure
 
-Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
+Continue directly in pugazg/kalaignar-literary-commentary, branch main. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Closed gates
 
@@ -9,61 +9,49 @@ Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`. **LI
 - Gate C — **COMPLETE / PASS** — 497/497 lexical discrepancy audit / 140 records / 0 page-wording changes.
 - Gate D — **COMPLETE / PASS** — 497/497 physical / visual / continuity closed.
 - Gate E — **COMPLETE / PASS** — 104 source-order section-role entries / 497/497 scans assigned exactly once.
+- Gate F — **COMPLETE / PASS** — F01–F20 / scans 1–497 / **115 formal citation-provenance units** / **4 standalone source-note-only provenance records** / 0 canonical page-wording changes.
 - Gate C2 — **NOT STARTED / NOT AUTHORIZED**.
 
 Wording state remains **Gemini-lexical-locked — not word-for-word scan verified**.
 
-## Gate F durable state
+## Gate F durable controls
 
-- F01 scans **1–25 — COMPLETE / PASS** — 2 formal provenance units.
-- F02 scans **26–50 — COMPLETE / PASS** — 5 formal provenance units.
-- F03 scans **51–75 — COMPLETE / PASS** — 5 formal provenance units.
-- F04 scans **76–100 — COMPLETE / PASS** — 5 formal provenance units.
-- cumulative Gate-F coverage — **100/497 scans**.
-- cumulative formal provenance units — **17**.
-- citation-anchor scans through F04 — **19, 24, 30, 36, 41, 46, 49, 54, 58, 63, 69, 74, 79, 84, 90, 94 (two units)**.
-- canonical page-wording changes — **0**.
-- current provenance frontier — **scan 101**.
-- durable report — `works/sangatamil/PROVENANCE_AUDIT.md`.
-- register — `works/sangatamil/indexes/source-citation-register.md`.
+- works/sangatamil/indexes/source-citation-register.md — complete through scan 497.
+- works/sangatamil/PROVENANCE_AUDIT.md — Gate F COMPLETE / PASS.
+- physical provenance endpoint — **scan 497 / back cover**.
+- unresolved provenance gaps — **0**.
 
 ## Authoritative controls
 
 Read first:
-1. `works/sangatamil/PRODUCTIVE_COMPLETION_PLAN.md`
-2. `works/sangatamil/GEMINI_TEXT_LOCK.md`
-3. `works/sangatamil/SECTION_COVERAGE_AUDIT.md`
-4. `works/sangatamil/indexes/section-register.md`
-5. `works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md`
-6. `works/sangatamil/STRUCTURAL_FIDELITY_PROGRESS.md`
-7. `works/sangatamil/indexes/source-citation-register.md`
-8. `works/sangatamil/PROVENANCE_AUDIT.md`
-9. `SANGATH_TAMIL_ARCHIVAL_GUIDELINES.md`
-10. root `HANDOVER.md`
-11. `works/sangatamil/README.md`
+1. works/sangatamil/PRODUCTIVE_COMPLETION_PLAN.md
+2. works/sangatamil/GEMINI_TEXT_LOCK.md
+3. works/sangatamil/SECTION_COVERAGE_AUDIT.md
+4. works/sangatamil/indexes/section-register.md
+5. works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md
+6. works/sangatamil/STRUCTURAL_FIDELITY_PROGRESS.md
+7. works/sangatamil/indexes/source-citation-register.md
+8. works/sangatamil/PROVENANCE_AUDIT.md
+9. SANGATH_TAMIL_ARCHIVAL_GUIDELINES.md
+10. root HANDOVER.md
+11. works/sangatamil/README.md
 
-## Gate F objective
+## Exact next activity — Gate G
 
-Systematically verify **source-visible provenance only**:
-- anthology / source-work name;
-- பாடல் number or range;
-- poet attribution;
-- quoted Sangam verse block boundaries;
-- `பொருள் விளக்கம்`;
-- other printed source notes.
+Audit all **497 canonical page records** for metadata/status consistency:
+- scan_page
+- printed_page
+- section
+- page_type
+- status
+- visual_fidelity
+- continuation fields
+- source_filename
+- transcription_method
+- filename/path consistency
 
-Do not silently replace this edition with another edition and do not use external concordances to overwrite printed labels.
+Do not treat structural/provenance closure as word-for-word lexical verification. Under the current lock, the whole-volume wording state must remain **Gemini-lexical-locked**.
 
-## Exact next activity — F05
+Do not start Gate C2 without explicit user authorization.
 
-Process **scans 101–125**.
-
-For each provenance-bearing scan:
-1. inspect the controlling source image;
-2. preserve the printed label exactly as this edition gives it;
-3. record section/context, source work, poem/range, poet, and note/block type;
-4. update `works/sangatamil/indexes/source-citation-register.md`;
-5. append F05 progress to `works/sangatamil/PROVENANCE_AUDIT.md`;
-6. verify **0 canonical page-wording changes**.
-
-At F05 close, advance the provenance frontier to **scan 126**. Do not start Gate C2.
+Create/update a durable Gate-G audit report, synchronize operational controls at closure, and verify any Gate-G metadata changes do not silently alter literary page wording.

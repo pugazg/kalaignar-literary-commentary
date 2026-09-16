@@ -241,7 +241,7 @@ Final declaration must distinguish one of two outcomes:
 
 ## Current active gate
 
-**Gate F — Sangam provenance audit.**
+**Gate G — Metadata/status closure.**
 
 Current durable state — **2026-09-16**:
 - Gate A — COMPLETE / PASS
@@ -267,19 +267,18 @@ Current durable state — **2026-09-16**:
 - Gate-D report — `PHYSICAL_CONTINUITY_AUDIT.md`
 - Gate E — **COMPLETE / PASS — 104 section-role entries / 497/497 scans assigned exactly once**
 - Gate-E report — `SECTION_COVERAGE_AUDIT.md`
-- Gate F — **IN PROGRESS — F01–F04 scans 1–100 COMPLETE / PASS; 17 cumulative formal provenance units; provenance frontier scan 101**
+- Gate F — **COMPLETE / PASS — F01–F20 scans 1–497 / 115 formal citation-provenance units / 4 standalone source-note-only provenance records / 0 canonical page-wording changes**
 
 Durable Gate-B extraction/mapping exceptions remain recorded in `STRUCTURAL_FIDELITY_PROGRESS.md`; do not reopen Gate B merely to source-correct lexical wording.
 
-Exact next activity: **Gate F — Sangam provenance audit / F05 scans 101–125**.
+Exact next activity: **Gate G — metadata/status closure across the 497 canonical page records**.
 
-Verify only source-visible anthology/work name, பாடல் number/range, poet attribution, quoted Sangam verse block boundaries, `பொருள் விளக்கம்`, and other printed source notes. Preserve this edition's labels exactly; do not silently replace them with another edition.
-
-F01–F04 durable outputs are now live:
-- `works/sangatamil/indexes/source-citation-register.md` — provenance verified through scan 100;
-- `works/sangatamil/PROVENANCE_AUDIT.md` — F01–F04 COMPLETE / PASS.
-
-Continue Gate F with **F05 scans 101–125**.
+Gate F durable outputs are closed:
+- works/sangatamil/indexes/source-citation-register.md — **COMPLETE through scan 497**;
+- works/sangatamil/PROVENANCE_AUDIT.md — **F01–F20 COMPLETE / PASS**;
+- formal citation-provenance units — **115**;
+- standalone source-note-only provenance records — **4**;
+- Gate-F page-wording changes — **0**.
 
 Gate C is closed at **497/497** with **140** recorded substantive discrepancies and **0 canonical page-wording changes**. Gate C2 remains unauthorized.
 

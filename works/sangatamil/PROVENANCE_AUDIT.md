@@ -1,6 +1,6 @@
 # சங்கத் தமிழ் — Gate F Sangam Provenance Audit
 
-**Status: IN PROGRESS — F01–F04 COMPLETE / PASS**
+**Status: COMPLETE / PASS — F01–F20 / scans 1–497**
 
 - date: **2026-09-16**
 - repository: `pugazg/kalaignar-literary-commentary`
@@ -13,7 +13,7 @@
 - canonical page files changed: **0**
 - canonical page-wording changes: **0**
 - Gate C2: **NOT STARTED / NOT AUTHORIZED**
-- next provenance frontier: **scan 101**
+- provenance endpoint: **scan 497 / back cover**
 
 ## Governing method
 
@@ -380,6 +380,65 @@ This is the second adjacent citation unit on scan 94. The printed **`பொர�
 
 Gate F is now closed through **scan 100** with **17 cumulative formal provenance units** and **0 canonical page-wording changes**.
 
+## F05–F20 — remaining-source closure
+
+The user authorized processing the remaining pages in one run. The normal 25-scan cadence was retained as the accounting unit and execution continued through scan 497.
+
+| Batch | Scans | Inspected | Formal units | Anchor scans |
+|---|---:|---:|---:|---|
+| F05 | 101–125 | 25/25 | 7 | 101, 106, 110, 115, 119, 120, 125 |
+| F06 | 126–150 | 25/25 | 5 | 130, 136, 142, 147 (two) |
+| F07 | 151–175 | 25/25 | 9 | 152, 158, 163 (four), 164, 170, 174 |
+| F08 | 176–200 | 25/25 | 6 | 180, 186, 187, 192, 197, 199 |
+| F09 | 201–225 | 25/25 | 5 | 201, 213, 217, 221, 225 |
+| F10 | 226–250 | 25/25 | 6 | 229, 234, 235, 240, 243, 248 |
+| F11 | 251–275 | 25/25 | 4 | 253, 257, 268, 272 |
+| F12 | 276–300 | 25/25 | 6 | 280, 282, 287, 291, 295, 298 |
+| F13 | 301–325 | 25/25 | 5 | 302, 308, 313, 317, 322 |
+| F14 | 326–350 | 25/25 | 5 | 327, 332, 337, 346, 350 |
+| F15 | 351–375 | 25/25 | 7 | 354, 357, 362, 366, 369, 372, 374 |
+| F16 | 376–400 | 25/25 | 7 | 379, 383, 386, 389, 392, 395, 398 |
+| F17 | 401–425 | 25/25 | 8 | 401 (two), 404, 408, 412, 416, 420, 424 |
+| F18 | 426–450 | 25/25 | 4 | 430, 434, 443, 449 |
+| F19 | 451–475 | 25/25 | 9 | 455, 462 (two), 468, 474 (two), 475 (three) |
+| F20 | 476–497 | 22/22 | 5 | 481, 482 (two), 489, 496 |
+
+F05–F20 add **98 formal citation-provenance units**. Together with F01–F04's **17**, Gate F closes with **115 formal units**.
+
+### Standalone source-note-only provenance
+
+- **207** — omitted-from-Sangam-collections note; credits தேவநேயப்பாவாணர் and records source supplied by முனைவர் தமிழ்க்குடிமகன்.
+- **262** — section source-basis note for நக்கீரர்'s “நெடுநல்வாடை”.
+- **276** — maps excerpts 1–5 to புறநானூறு 142, 143, 144, 146, 147 and the printed poet sequence.
+- **341** — printed குறிப்பு lists அகநானூறு 36 and புறநானூறு 25, 76, 19, 24, 26 with poet attributions.
+
+These **4** note-only records are not added to the 115 formal-unit count.
+
+### Other printed source-note handling
+
+Scans **153, 181, 253, 350–351** preserve attached source notes; scan **308** preserves the printed musical attribution; scans **119–120** preserve the shared poet note. Scan **497** is the back cover and has no further provenance.
+
+### F17/F18 extraction exception
+
+File9 Book Pages **401–412** are not reliable one-to-one lexical blocks for physical scans **413–424**. F17–F18 therefore used the physical source images and the already-closed canonical physical/section layer.
+
+## Gate F mutation audit
+
+- scans provenance-audited — **497/497**
+- formal citation-provenance units — **115**
+- standalone source-note-only provenance records — **4**
+- unresolved provenance gaps — **0**
+- canonical files under works/sangatamil/pages/ changed — **0**
+- canonical page wording changes — **0**
+- Gate C2 corrections — **0**
+- external-edition substitutions — **0**
+
+## Gate F closure
+
+**Gate F — COMPLETE / PASS**
+
+The source-visible provenance layer is closed through **scan 497**. Wording remains **Gemini-lexical-locked; not word-for-word scan verified**.
+
 ## Exact next activity
 
-Continue **Gate F** with **F05 scans 101–125** using the closed physical and section layers. Preserve this edition's printed provenance labels exactly and do not start Gate C2.
+Proceed to **Gate G — metadata/status closure**. Do not start Gate C2 without explicit user authorization.

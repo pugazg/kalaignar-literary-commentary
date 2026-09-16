@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed 2026-09-16: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gates A–E are COMPLETE / PASS; Gate F Sangam provenance audit is IN PROGRESS — F01–F04 scans 1–100 COMPLETE / PASS; provenance frontier scan 101.
+Last refreshed 2026-09-16: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gates A–E are COMPLETE / PASS; Gate F — **COMPLETE / PASS — F01–F20 / scans 1–497 / 115 formal citation-provenance units / 4 standalone source-note-only records / 0 page-wording changes**
 
 ## Repository
 
@@ -45,7 +45,7 @@ Gate A: **COMPLETE / PASS**.
 
 Gate B: **COMPLETE / PASS — 497/497 structurally reviewed / 0 remaining / 0 unresolved structural placement issues**.
 
-Current gate: **Gate F — Sangam provenance audit — IN PROGRESS; F01–F04 scans 1–100 COMPLETE / PASS; 17 cumulative formal provenance units; frontier scan 101**.
+Current gate: **Gate F — **COMPLETE / PASS — F01–F20 / scans 1–497 / 115 formal citation-provenance units / 4 standalone source-note-only records / 0 page-wording changes**
 
 C01–C20 scans **1–497 — COMPLETE / PASS**; **140 cumulative substantive discrepancies** recorded in `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`; Gate C closed with **0 canonical page-wording changes**.
 
@@ -55,7 +55,7 @@ Gate D: **COMPLETE / PASS — 497/497 physical scans / 497 canonical records / 0
 
 Gate E: **COMPLETE / PASS — 104 section-role entries / 497/497 scans assigned exactly once / 0 canonical page-wording changes**. Durable report: `works/sangatamil/SECTION_COVERAGE_AUDIT.md`.
 
-Exact next activity: **Gate F — Sangam provenance audit / F05 scans 101–125**. Verify source-visible anthology/work name, poem number/range, poet attribution, quotation block boundaries, `பொருள் விளக்கம்`, and printed source notes; keep `works/sangatamil/indexes/source-citation-register.md` and `works/sangatamil/PROVENANCE_AUDIT.md` current. Do not start Gate C2 unless explicitly authorized.
+Exact next activity: **Gate G — metadata/status closure across scans 1–497**. Verify source-visible anthology/work name, poem number/range, poet attribution, quotation block boundaries, `பொருள் விளக்கம்`, and printed source notes; keep `works/sangatamil/indexes/source-citation-register.md` and `works/sangatamil/PROVENANCE_AUDIT.md` current. Do not start Gate C2 unless explicitly authorized.
 
 ## Mandatory startup — active சங்கத் தமிழ் work
 
@@ -208,7 +208,7 @@ In a fresh Sangath Tamil chat:
 1. fetch live main
 2. read the active controls listed above, including works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md
 3. confirm Gate E is COMPLETE / PASS at 497/497 with 104 source-order section-role entries and 0 page-wording changes
-4. confirm F01–F04 scans 1–100 are COMPLETE / PASS and process F05 scans 101–125 using the closed physical/section layer
+4. confirm F01–F04 scans 1–100 are COMPLETE / PASS and process Gate G metadata/status closure using the closed physical/section layer
 5. verify only source-visible provenance: anthology/work name, பாடல் number/range, poet attribution, quotation boundaries, `பொருள் விளக்கம்`, and other printed source notes
 6. update `works/sangatamil/indexes/source-citation-register.md` and `works/sangatamil/PROVENANCE_AUDIT.md`
 7. do not import external-edition corrections and do not start Gate C2 unless explicitly authorized
@@ -637,3 +637,17 @@ Closed Tamil/English page layers remain unchanged.
 **None required.**
 
 Use `works/kuraloviyam/sections/entries/index.json` as the preferred structured input for any future website/search/API derivative.
+
+
+# Sangath Tamil Gate F closure — 2026-09-16
+
+- Gate F — **COMPLETE / PASS**
+- F01–F20 — **497/497 scans**
+- formal citation-provenance units — **115**
+- standalone source-note-only provenance records — **4**
+- unresolved provenance gaps — **0**
+- canonical page-wording changes — **0**
+- wording state — **Gemini-lexical-locked; not word-for-word scan verified**
+- Gate C2 — **NOT STARTED / NOT AUTHORIZED**
+- physical provenance endpoint — **scan 497 / back cover**
+- exact next activity — **Gate G — metadata/status closure**

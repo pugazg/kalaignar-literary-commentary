@@ -2,7 +2,7 @@
 
 கலைஞர் மு. கருணாநிதியின் இலக்கிய உரை / விளக்க நூல்களை மூல ஸ்கேன்களின் பக்க வரிசையைக் காக்கும் வகையில் Markdown வடிவில் பாதுகாக்கும் களஞ்சியம்.
 
-Last synchronized with live main: **2026-09-15**.
+Last synchronized with live main: **2026-09-16**.
 
 ## திட்டமிட்ட / உள்ள நூல்கள்
 
@@ -11,7 +11,7 @@ Last synchronized with live main: **2026-09-15**.
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–015 **ARCHIVAL-READY through scan 323**; commentary through printed page 270 / Kural 1330 |
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–015 **RELEASED through the end of the supplied volume** |
 | Thirukkural semantic structure | பால் → இயல் → அதிகாரம் | **COMPLETE — 3 பால் / 13 இயல் / 133 அதிகாரம் / 1,330 குறள் mapped** |
-| சங்கத் தமிழ் | தமிழ் | **ACTIVE — Gates A–E COMPLETE / PASS; Gate F IN PROGRESS — F01–F04 scans 1–100 COMPLETE / PASS; frontier scan 101** |
+| சங்கத் தமிழ் | தமிழ் | **ACTIVE — Gates A–F COMPLETE / PASS; Gate G NEXT** |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த source-controlled edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Kuraloviyam | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
@@ -118,6 +118,6 @@ Gate D — **COMPLETE / PASS**: 497/497 physical scans closed; 497 canonical rec
 
 Gate E — **COMPLETE / PASS**: 104 source-order section-role entries; 497/497 scans assigned exactly once; 0 canonical page-wording changes; durable report `works/sangatamil/SECTION_COVERAGE_AUDIT.md`.
 
-Gate F — **IN PROGRESS**: F01–F04 scans **1–100 COMPLETE / PASS**; 17 cumulative formal provenance units verified; 0 canonical page-wording changes; current provenance frontier **scan 101**. Next batch: **F05 scans 101–125**. Continue `works/sangatamil/indexes/source-citation-register.md` + `works/sangatamil/PROVENANCE_AUDIT.md`. Gate C2 remains unauthorized.
+Gate F — **COMPLETE / PASS — F01–F20 scans 1–497 / 115 formal citation-provenance units / 4 standalone source-note-only provenance records / 0 canonical page-wording changes**
 
 Current handover: HANDOVER.md.
