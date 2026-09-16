@@ -318,3 +318,72 @@ At C05 close:
 2. verify **0 canonical page files changed**;
 3. advance the Gate-C frontier to **scan 126**;
 4. do not start Gate C2.
+
+
+# C05 — scans 101–125
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-16**
+- audited scans: **101–125 / 25**
+- controlling source: user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_003_pages_101-150.pdf`, physical scans **101–125**
+- direct Gemini lexical witness: user-supplied `File3.md`, Pages **101–125**
+- locked comparison layer: current canonical page records under `works/sangatamil/pages/`
+- substantive discrepancy records: **4**
+- scans containing discrepancies: **4**
+- scans with no new substantive lexical discrepancy: **21**
+- canonical page files changed: **0**
+- Gate C2 corrections: **0**
+
+Clean / no-new-substantive-discrepancy scans:
+
+**101–111, 114–119, 121–122, 124–125**
+
+Special handling:
+- scans **104, 108, 114, 118, 122** are full-page illustrations and contain no literary body text;
+- the direct File3 witness was used for this batch rather than relying only on the preserved repository lock;
+- known non-source extraction debris already excluded during Gate B — scan 103 stray `ரீ`, scan 120 malformed punctuation in `மகிழ்ச்ச.ி`, and scan 121 stray heading token `G` — was not re-entered as a Gate-C discrepancy because the canonical preservation layer already excludes it;
+- punctuation-only, spacing, line-wrap, running-header/footer and structural-placement differences were not ledgered unless they changed lexical content.
+
+## C05 discrepancy records
+
+| ID | Scan | Printed page | Canonical page | Locked File3 / repository wording | Source-visible wording | Classification | Gate-B exception already documented? | Notes |
+|---|---:|---:|---|---|---|---|---|---|
+| C05-001 | 112 | 97 | `0112-purinthukondaan-pirinthu-sendraal-01.md` | heading `புரிந்துகொண்டான், பிரிந்துசென்றார்!` | heading `புரிந்துகொண்டான், பிரிந்து சென்றாள்!` | `likely-gemini-error` | **yes — B05** | The source decorative title ends in singular feminine `சென்றாள்`; File3 locks plural/honorific `சென்றார்` and merges the preceding word boundary. Gate B preserved the File3 body heading while keeping the source section identity in metadata. |
+| C05-002 | 113 | 98 | `0113-purinthukondaan-pirinthu-sendraal-02.md` | File3 ends the prose with `புரிந்து கொண்டான் அவள் உள்ளம்; பின்னர் பிரிந்து சென்றார் புன்னகை புரிந்தவாறே!` and then `அக்கேள்வி!`; the source-visible first stanza of the following Kalithogai quotation is absent | source contains the opening quotation stanza after the prose, continuing across the illustration boundary to the quotation preserved on scan 115 | `missing-whole-lexical-block` | **yes — B05** | The missing block was already carried forward by Gate B. Gate C records the omission only; no reconstruction was inserted into the canonical page. |
+| C05-003 | 120 | 105 | `0120-muyangaa-vaazhkkai-maravan-neeye-04.md` | note names the poet as `ஊன்பொழிப் பசுங்குடையார்` | source note reads `ஊன்பொதிப் பசுங்குடையார்` | `likely-gemini-error` | no | The source form also matches the poet-name form used in the surrounding narrative. File3 changes `பொதிப்` to `பொழிப்`. |
+| C05-004 | 123 | 108 | `0123-vandu-vanthathu-enadi-02.md` | File3 begins the page body with the terminal `சென்றனள்!` | source contains an opening prose block before that terminal, beginning `அடுத்தநாள் காலை...` and describing the mother in the kitchen and the daughter carrying out chores before `சென்றாள்/சென்றனள்!` | `missing-whole-lexical-block` | **yes — B05** | Gate B already documented the source-visible opening block omitted by File3 and retained only the locked terminal at the source-supported position. Gate C records the omission without reconstructing the block. |
+
+## C05 closure audit
+
+C05 is an **audit-only closure**.
+
+- source scans **101–125** were inspected against both the direct File3 witness and the preserved canonical lock;
+- **4** substantive discrepancy records were entered;
+- **0** canonical page records were edited;
+- no Gate-B page was reopened;
+- no lexical correction was promoted;
+- wording state remains **Gemini-lexical-locked / not word-for-word scan verified**.
+
+## Gate C cumulative state after C05
+
+- completed Gate-C batches: **C01–C05**
+- audited scans: **125/497**
+- cumulative substantive discrepancy records: **36**
+- remaining scans: **372**
+- next frontier: **scan 126**
+- Gate C2: **NOT STARTED / NOT AUTHORIZED**
+
+## Exact next activity
+
+Process **Gate C C06 — scans 126–150**.
+
+Available direct source pair:
+- user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_003_pages_101-150.pdf`, split pages **26–50** / physical scans **126–150**;
+- user-supplied `File3.md`, Pages **126–150**.
+
+At C06 close:
+1. append only substantive lexical discrepancies to this ledger;
+2. verify **0 canonical page files changed**;
+3. advance the Gate-C frontier to **scan 151**;
+4. do not start Gate C2.
