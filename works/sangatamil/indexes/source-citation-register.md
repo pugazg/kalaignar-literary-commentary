@@ -8,7 +8,7 @@ Only source-supported citations are entered. External editions must not silently
 
 The canonical execution plan is `../PRODUCTIVE_COMPLETION_PLAN.md`; lexical policy is `../GEMINI_TEXT_LOCK.md`; physical/section closure is recorded in `../PHYSICAL_CONTINUITY_AUDIT.md` and `../SECTION_COVERAGE_AUDIT.md`; live Gate-F progress is recorded in `../PROVENANCE_AUDIT.md`.
 
-Gates A–E are closed. Gate F is active. **F01 scans 1–25 and F02 scans 26–50 are COMPLETE / PASS**. The current provenance frontier is **scan 51**.
+Gates A–E are closed. Gate F is active. **F01–F03 scans 1–75 are COMPLETE / PASS**. The current provenance frontier is **scan 76**.
 
 Gate F verifies source-visible provenance only. It does not authorize canonical page-wording changes or Gate C2. Quotation boundaries and `பொருள் விளக்கம்` placement are recorded from the supplied scan; lexical wording remains Gemini-locked.
 
@@ -23,6 +23,11 @@ Gate F verifies source-visible provenance only. It does not authorize canonical 
 | 41 | `சுமந்தவள் சுமந்த சோகம்!` | `புறநானூறு` | `பாடல் : 286` | `ஒளவையார்` | `(புறநானூறு : பாடல் : 286`<br>`பாடியவர் : ஒளவையார்)` | Sangam quotation begins near the foot of scan **40**, continues onto scan **41**, and closes there; the provenance block follows the closing separator; `பொருள் விளக்கம் :` follows with the gloss block. [page](../pages/0041-sumanthavan-sumantha-sogam-05.md) / [section](../sections/005-sumanthavan-sumantha-sogam/README.md) | **F02 verified from source image** |
 | 46 | `பாவை புகழ்ந்த பன்றி` | `அகநானூறு` | `பாடல் : 248` | `கபிலர்` | `(அகநானூறு : பாடல் : 248`<br>`பாடியவர் : கபிலர்)` | Quoted Sangam verse begins and closes on scan **46**; a separator follows; the provenance block follows; `பொருள் விளக்கம் :` follows with the printed gloss block. [page](../pages/0046-paavai-pugazhntha-panri-05.md) / [section](../sections/006-paavai-pugazhntha-panri/README.md) | **F02 verified from source image** |
 | 49 | `காக்கைக்கு நன்றி காட்ட...` | `குறுந்தொகை` | `பாடல் : 210` | `காக்கைப்பாடினியார் நச்செள்ளையார்` | `(குறுந்தொகை : பாடல் : 210`<br>`பாடியவர் : காக்கைப்பாடினியார் நச்செள்ளையார்)` | Narrative continuation from scan **47** resumes after the scan-48 illustration; the formal Sangam quotation itself begins and closes on scan **49**; the provenance block and `பொருள் விளக்கம் :` follow. [page](../pages/0049-kaakkaikku-nandri-kaatta-03.md) / [section](../sections/007-kaakkaikku-nandri-kaatta/README.md) | **F02 verified from source image** |
+| 54 | `மாவீரன் கண்ட மலர்கள்` | `அகநானூறு` | `பாடல் : 9` | `கல்லாடனார்` | `(அகநானூறு : பாடல் : 9`<br>`பாடியவர் : கல்லாடனார்)` | Sangam quotation begins on scan **53**, continues onto scan **54**, and closes there; the provenance block and `பொருள் விளக்கம் :` follow on scan 54. [page](../pages/0054-maatharin-kanda-malargal-05.md) / [section](../sections/008-maatharin-kanda-malargal/README.md) | **F03 verified from source image** |
+| 58 | `நெல்லும் உயிர் அன்றே! நீரும் உயிர் அன்றே!` | `புறநானூறு` | `பாடல் : 186` | `மோசிகீரனார்` | `(புறநானூறு : பாடல் : 186`<br>`பாடியவர் : மோசிகீரனார்)` | Quoted Sangam verse begins and closes on scan **58**; the provenance block follows the closing separator; `பொருள் விளக்கம் :` follows with the gloss block. [page](../pages/0058-nellum-uyir-anre-neerum-uyir-anre-04.md) / [section](../sections/009-nellum-uyir-anre-neerum-uyir-anre/README.md) | **F03 verified from source image** |
+| 63 | `ஊரின் பெருமை உணர்த்தினள் ஒருத்தி!` | `புறநானூறு` | `பாடல் : 320` | `வீரைவெளியனார்` | `(புறநானூறு : பாடல் : 320`<br>`பாடியவர் : வீரைவெளியனார்)` | Quoted Sangam verse begins and closes on scan **63**; the provenance block is at the foot of scan 63. Scan **64** carries `பொருள் விளக்கம் :` and the printed source note `குறிப்பு : வீரைவெளியனார் தோன்றிய வீராம்பட்டினம் புதுவைக்கு அருகே உள்ளது என புறநானூறு உரை கண்ட அறிஞர் ஔவை துரைசாமிப் பிள்ளை கூறுகிறார்.` [page](../pages/0063-oorin-perumai-unarnthavar-oruthi-05.md) / [section](../sections/010-oorin-perumai-unarnthavar-oruthi/README.md) | **F03 verified from source image** |
+| 69 | `வாணன் மணந்த வண்ணத் திருமகள்!` | `நற்றிணை` | `பாடல் : 380` | `கூடலூர்ப் பல்கண்ணனார்` | `(நற்றிணை : பாடல் : 380; பாடியவர் : கூடலூர்ப் பல்கண்ணனார்)` | Quoted Sangam verse begins and closes on scan **69**; the single-line provenance block follows; a separator and `பொருள் விளக்கம் :` follow on the same scan. [page](../pages/0069-vaanan-manandha-vannath-thirumagal-05.md) / [section](../sections/011-vaanan-manandha-vannath-thirumagal/README.md) | **F03 verified from source image** |
+| 74 | `ஒரு பொது மகளின் புலம்பல்!` | `குறுந்தொகை` | `பாடல் : 8` | `ஆலங்குடி வங்கனார்` | `(குறுந்தொகை : பாடல் : 8; பாடியவர் : ஆலங்குடி வங்கனார்)` | Sangam quotation begins on scan **73**, continues onto scan **74**, and closes there; the single-line provenance block, separator, and `பொருள் விளக்கம் :` follow on scan 74. [page](../pages/0074-oru-pothu-magalin-pulambal-05.md) / [section](../sections/012-oru-pothu-magalin-pulambal/README.md) | **F03 verified from source image** |
 | 147 | later body section | `குறுந்தொகை` | `32` | `அள்ளூர் நன்முல்லையார்` | — | Historical sampled observation only; exact source-visible block shape pending its Gate-F batch. | Gate F pending |
 | 147 | later body section | `குறுந்தொகை` | `157` | `அள்ளூர் நன்முல்லையார்` | — | Historical sampled observation only; exact source-visible block shape pending its Gate-F batch. | Gate F pending |
 
@@ -40,6 +45,15 @@ Gate F verifies source-visible provenance only. It does not authorize canonical 
 - scan **50** opens `மாவீரன் கண்ட மலர்கள்`; its formal Sangam citation lies beyond the F02 boundary and remains for the next batch;
 - no additional standalone printed provenance block was found in scans **26–50** beyond anchor scans **30, 36, 41, 46, 49**.
 
+## F03 source-context notes
+
+- scans **52, 56, 60, 66, 72** are full-page illustration / image leaves and carry no formal citation block;
+- scan **53** begins the `அகநானூறு` quotation closed and attributed on scan **54**;
+- scan **64** carries the continuation gloss plus the printed `குறிப்பு :` concerning வீரைவெளியனார் / வீராம்பட்டினம் and அறிஞர் ஔவை துரைசாமிப் பிள்ளை;
+- scan **73** begins the `குறுந்தொகை` quotation closed and attributed on scan **74**;
+- scan **75** opens `பிசிராந்தையார் 1`; its formal Sangam citation lies beyond the F03 boundary;
+- no additional standalone printed provenance block was found in scans **51–75** beyond anchor scans **54, 58, 63, 69, 74**.
+
 ## Policy
 
 - The supplied source image controls provenance labels, block boundaries and note placement.
@@ -50,8 +64,8 @@ Gate F verifies source-visible provenance only. It does not authorize canonical 
 
 ## Current execution boundary
 
-**F01–F02 — COMPLETE / PASS — scans 1–50 / 7 cumulative formal provenance units / 0 canonical page-wording changes.**
+**F01–F03 — COMPLETE / PASS — scans 1–75 / 12 cumulative formal provenance units / 0 canonical page-wording changes.**
 
-Current provenance frontier: **scan 51**.
+Current provenance frontier: **scan 76**.
 
 B17 extraction note: File9 Book Pages **401–412** are not reliable one-to-one lexical blocks for physical scans **413–424**; Gate F must use the physical source / canonical section layer rather than infer provenance from the broken extraction.

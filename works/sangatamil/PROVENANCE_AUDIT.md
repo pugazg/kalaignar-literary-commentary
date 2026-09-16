@@ -1,6 +1,6 @@
 # சங்கத் தமிழ் — Gate F Sangam Provenance Audit
 
-**Status: IN PROGRESS — F01–F02 COMPLETE / PASS**
+**Status: IN PROGRESS — F01–F03 COMPLETE / PASS**
 
 - date: **2026-09-16**
 - repository: `pugazg/kalaignar-literary-commentary`
@@ -13,7 +13,7 @@
 - canonical page files changed: **0**
 - canonical page-wording changes: **0**
 - Gate C2: **NOT STARTED / NOT AUTHORIZED**
-- next provenance frontier: **scan 51**
+- next provenance frontier: **scan 76**
 
 ## Governing method
 
@@ -189,6 +189,106 @@ Narrative text continues from scan 47 after the scan-48 illustration, but the fo
 
 Gate F is now closed through **scan 50** with **7 cumulative formal provenance units** and **0 canonical page-wording changes**.
 
+## F03 — scans 51–75
+
+**Status: COMPLETE / PASS**
+
+- F03 base: `fe38d4755b5742560c47568e79718ce5d22c8017`
+- physical scans: **51–75**
+- scans inspected: **25/25**
+- formal provenance units verified: **5**
+- citation-anchor scans: **54, 58, 63, 69, 74**
+- printed source-note continuation: **scan 64**
+- cumulative Gate-F coverage: **75/497 scans**
+- cumulative formal provenance units: **12**
+- canonical page files changed: **0**
+- canonical page-wording changes: **0**
+
+### Provenance unit 8 — scans 53–54
+
+Section: **`மாவீரன் கண்ட மலர்கள்`**
+
+Citation anchor: **scan 54**.
+
+Exact printed provenance block:
+
+> (அகநானூறு : பாடல் : 9  
+> பாடியவர் : கல்லாடனார்)
+
+The Sangam quotation begins on scan 53, continues onto scan 54, and closes there. The provenance block and **`பொருள் விளக்கம் :`** follow on scan 54.
+
+### Provenance unit 9 — scan 58
+
+Section: **`நெல்லும் உயிர் அன்றே! நீரும் உயிர் அன்றே!`**
+
+Exact printed provenance block:
+
+> (புறநானூறு : பாடல் : 186  
+> பாடியவர் : மோசிகீரனார்)
+
+The quotation begins and closes on scan 58. The provenance block precedes the printed **`பொருள் விளக்கம் :`** block.
+
+### Provenance unit 10 — scans 63–64
+
+Section: **`ஊரின் பெருமை உணர்த்தினள் ஒருத்தி!`**
+
+Citation anchor: **scan 63**.
+
+Exact printed provenance block:
+
+> (புறநானூறு : பாடல் : 320  
+> பாடியவர் : வீரைவெளியனார்)
+
+The quotation begins and closes on scan 63, with provenance at the foot of that scan. Scan 64 contains the **`பொருள் விளக்கம் :`** block and this additional printed source note:
+
+> குறிப்பு : வீரைவெளியனார் தோன்றிய வீராம்பட்டினம்  
+> புதுவைக்கு அருகே உள்ளது என புறநானூறு உரை  
+> கண்ட அறிஞர் ஔவை துரைசாமிப் பிள்ளை  
+> கூறுகிறார்.
+
+The note is preserved as this edition prints it and is not replaced by an external concordance.
+
+### Provenance unit 11 — scan 69
+
+Section: **`வாணன் மணந்த வண்ணத் திருமகள்!`**
+
+Exact printed provenance block:
+
+> (நற்றிணை : பாடல் : 380; பாடியவர் : கூடலூர்ப் பல்கண்ணனார்)
+
+The Sangam quotation begins and closes on scan 69. The single-line provenance block is followed by a separator and **`பொருள் விளக்கம் :`**.
+
+### Provenance unit 12 — scans 73–74
+
+Section: **`ஒரு பொது மகளின் புலம்பல்!`**
+
+Citation anchor: **scan 74**.
+
+Exact printed provenance block:
+
+> (குறுந்தொகை : பாடல் : 8; பாடியவர் : ஆலங்குடி வங்கனார்)
+
+The quotation begins on scan 73, continues onto scan 74, and closes there. The single-line provenance block, separator, and **`பொருள் விளக்கம் :`** follow on scan 74.
+
+### F03 non-citation/source-context review
+
+- scans **52, 56, 60, 66, 72** are full-page illustration / image leaves;
+- scan **75** opens `பிசிராந்தையார் 1`; its formal citation is beyond this batch;
+- no additional standalone printed provenance unit was identified in scans **51–75**.
+
+## F03 mutation audit
+
+- canonical files under `works/sangatamil/pages/`: **0 changed**
+- canonical page wording: **0 changed**
+- Gate C2 corrections: **0**
+- external-edition substitutions: **0**
+
+## F03 closure
+
+**F03 — COMPLETE / PASS**
+
+Gate F is now closed through **scan 75** with **12 cumulative formal provenance units** and **0 canonical page-wording changes**.
+
 ## Exact next activity
 
-Continue **Gate F** with **F03 scans 51–75** using the closed physical and section layers. Preserve this edition's printed provenance labels exactly and do not start Gate C2.
+Continue **Gate F** with **F04 scans 76–100** using the closed physical and section layers. Preserve this edition's printed provenance labels exactly and do not start Gate C2.

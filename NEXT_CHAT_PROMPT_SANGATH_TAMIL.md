@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate F Sangam Provenance Audit / F03 scans 51–75
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate F Sangam Provenance Audit / F04 scans 76–100
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -17,11 +17,12 @@ Wording state remains **Gemini-lexical-locked — not word-for-word scan verifie
 
 - F01 scans **1–25 — COMPLETE / PASS** — 2 formal provenance units.
 - F02 scans **26–50 — COMPLETE / PASS** — 5 formal provenance units.
-- cumulative Gate-F coverage — **50/497 scans**.
-- cumulative formal provenance units — **7**.
-- citation-anchor scans through F02 — **19, 24, 30, 36, 41, 46, 49**.
+- F03 scans **51–75 — COMPLETE / PASS** — 5 formal provenance units.
+- cumulative Gate-F coverage — **75/497 scans**.
+- cumulative formal provenance units — **12**.
+- citation-anchor scans through F03 — **19, 24, 30, 36, 41, 46, 49, 54, 58, 63, 69, 74**.
 - canonical page-wording changes — **0**.
-- current provenance frontier — **scan 51**.
+- current provenance frontier — **scan 76**.
 - durable report — `works/sangatamil/PROVENANCE_AUDIT.md`.
 - register — `works/sangatamil/indexes/source-citation-register.md`.
 
@@ -52,16 +53,16 @@ Systematically verify **source-visible provenance only**:
 
 Do not silently replace this edition with another edition and do not use external concordances to overwrite printed labels.
 
-## Exact next activity — F03
+## Exact next activity — F04
 
-Process **scans 51–75**.
+Process **scans 76–100**.
 
 For each provenance-bearing scan:
 1. inspect the controlling source image;
 2. preserve the printed label exactly as this edition gives it;
 3. record section/context, source work, poem/range, poet, and note/block type;
 4. update `works/sangatamil/indexes/source-citation-register.md`;
-5. append F03 progress to `works/sangatamil/PROVENANCE_AUDIT.md`;
+5. append F04 progress to `works/sangatamil/PROVENANCE_AUDIT.md`;
 6. verify **0 canonical page-wording changes**.
 
-At F03 close, advance the provenance frontier to **scan 76**. Do not start Gate C2.
+At F04 close, advance the provenance frontier to **scan 101**. Do not start Gate C2.
