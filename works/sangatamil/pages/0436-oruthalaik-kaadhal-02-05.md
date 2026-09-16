@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; continuation of Narkannai dialogue and father's feast announcement; printed page number 424"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini lexical scaffold with user-authorized C2 source correction; visible line order otherwise retained"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 435
 ---
@@ -37,7 +37,7 @@ continues_from_scan: 435
 போட்டுடைக்க நினைத்தாள் பெருங்கோழிநாய்கனிடம்!
 
 அப்போது,
-“மகளே; நற்கண்ணை!” என்றழைத்துவாறு
+“மகளே; நற்கண்ணை!” என்றழைத்தவாறு
 மாநாய்கன் மனை புகுந்தான்!
 “மகிழ்வு தரும் தகவல் ஒன்று கேளம்மா!
 மல்லனை வென்றிட்ட பெருநற்கிள்ளியினை,
@@ -52,3 +52,5 @@ continues_from_scan: 435
 மருதாணிச் சிவப்பாகக் கன்னங்கள் மாறித் தோன்ற
 மான்குட்டி தோற்கின்ற துள்ளலுடன் நற்கண்ணை;
 மயக்கம் வராமலே தோழியின் மடியில் சாய்ந்தாள்!
+
+<!-- C2-18: user-authorized source correction applied: `என்றழைத்துவாறு` → `என்றழைத்தவாறு`. -->

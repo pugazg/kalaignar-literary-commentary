@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; battle analogy; Purananuru quotation and provenance; printed page number 418"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; quotation/provenance and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini lexical scaffold with user-authorized C2 source correction; quotation/provenance and visible line order otherwise retained"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 429
 ---
@@ -57,4 +57,6 @@ continues_from_scan: 429
 விற்றுப் பிழைக்கத் திருவிழா தொடங்குமுன்
 விரைந்தோடிட வேண்டும் - அவ்வேளையில்
 கட்டிய மனையாள் பேற்று வலியால் பெரிதும்
-சேதி வந்து செவியினைத் துளைத்திட; தன்
+துடிப்பதாய்ச் சேதி வந்து செவியினைத் துளைத்திட; தன்
+
+<!-- C2-18: user-authorized source restoration inserted `துடிப்பதாய்ச்` before `சேதி வந்து...`; surrounding analogy and quotation remain unchanged. -->

@@ -8,12 +8,12 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running author header; explanation of preceding Purananuru verse and dialogue with friend; printed page number 423"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini lexical scaffold with user-authorized C2 source corrections; visible line order otherwise retained"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 434
 ---
 
-கடுந்தமிழ்ச் சொல்லாலே இப்பாடல் இயுள்ளேன்.
+கடுந்தமிழ்ச் சொல்லாலே இப்பாடல் இயற்றியுள்ளேன்.
 இனியவளே! என் தோழி பொற்கொடியே!
 இதன் கருத்தை எளிய நடையில் கூறுகின்றேன், கேள்!
 
@@ -36,7 +36,7 @@ continues_from_scan: 434
 
 இப்படிப்
 பாட்டும், பாட்டுக்குப் பொருளுமுரைத்து
-வாட்டும் காதல் நிறைவேற வழியொரு சொல்லென்று
+வாட்டும் காதல் நிறைவேற வழியொன்று சொல்லென்று
 வரம் கேட்டுத் தோழியிடம் தவமிருந்த நற்கண்ணைக்
 கரம் பிடித்துத் தோழி சொன்னாள்;
 
@@ -53,3 +53,5 @@ continues_from_scan: 434
 எச்சரிக்கை செய்து என் கையைத் தடுக்குதடி!
 வலுவில் சென்று நான்; அவன்
 வலையில் விழுந்த கதை உளறிவிட்டால்
+
+<!-- C2-18: user-authorized source corrections applied: `இயுள்ளேன்` → `இயற்றியுள்ளேன்`, and `வழியொரு சொல்லென்று` → `வழியொன்று சொல்லென்று`. -->

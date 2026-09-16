@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running author header; analogy closure, Narkannai transition and பொருள் விளக்கம்; printed page number 419"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; glossary and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini lexical scaffold with user-authorized C2 source corrections; glossary and visible line order otherwise retained"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 430
 ---
@@ -18,9 +18,10 @@ continues_from_scan: 430
 அறிகுறியும் கண்டிடவே
 கட்டில் பின்னும் அவன் கையூசி எத்தனைக்
 கடுமையாய் விரைந்து வாரைச் செலுத்துமோ - அந்த
-ஊசியினும் வேகமாயப் போரை முடித்து - எதிரியைத்
+ஊசியினும் வேகமாய்ப் போரை முடித்து - எதிரியைத்
 தூசியென வீசிவிட்டான் வீரன் கிள்ளி!
 
+இவ்வாறு
 முத்தமிழ் வித்தகரின் பாமாலைக்கும்
 முக்காவல் நாட்டுமக்கள் பூமாலைக்கும்
 தலைவணங்கி நன்றியினை; நற்கிள்ளி தெரிவித்தபோது,
@@ -40,3 +41,5 @@ continues_from_scan: 430
 வாரைக் கோக்கும் ஊசி.
 
 *
+
+<!-- C2-18: user-authorized source corrections applied: `வேகமாயப்` → `வேகமாய்ப்`, and standalone transition `இவ்வாறு` restored before `முத்தமிழ் வித்தகரின் பாமாலைக்கும்...`. -->

@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running author header; departure of the army, Narkannai and her friend seeing Narkilli and the poet, dialogue and blessing; centered separator; printed page number 436"
 language: "ta"
-transcription_method: "direct source-first transcription from controlling scan because File10.md omits this printed-page range; textual/visual verification deferred"
+transcription_method: "direct source-first transcription from controlling scan with user-authorized C2 repository correction; textual/visual verification deferred"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 447
 ---
@@ -51,9 +51,11 @@ continues_from_scan: 447
 பாட்டோலை வெற்றிக்கும் பாடுபடுவேன்”, என்றார்!
 
 கைமலரை, அவர் கால்மலரில் வைத்துத் தொழுது,
-“கருந்தைப் போர் வெல்க!” என்றாள்!
+“கரந்தைப் போர் வெல்க!” என்றாள்!
 
 அதிலென்ன ஐயமென்று சாத்தந்தை
 அப்போதே கவிதை யாத்தார்!
 
 *
+
+<!-- C2-18: user-authorized source correction applied: `கருந்தைப் போர் வெல்க!` → `கரந்தைப் போர் வெல்க!`. -->

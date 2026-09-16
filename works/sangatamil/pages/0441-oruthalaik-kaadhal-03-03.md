@@ -8,16 +8,16 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running author header; continuation of mother-daughter dialogue, hidden poem preparation, and feast preparations; centered separators; printed page number 429"
 language: "ta"
-transcription_method: "direct source-first transcription from controlling scan because File10.md omits this printed-page range; textual/visual verification deferred"
+transcription_method: "direct source-first transcription from controlling scan with user-authorized C2 repository corrections; textual/visual verification deferred"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 440
 ---
 
-“சொல்” என்று கோபம் வருவதற்குள் உண்மையைச்
-சொல்லிவிடு” என்றுரைத்தாள்!
+“சுள்” என்று கோபம் வருவதற்குள் உண்மையைச்
+சொல்லிவிடு” என்றாள்!
 
 “அன்னையே! கேள்! அரிய பாடல் ஒன்றெழுதி
-நன்னுளாம் நாளை விருந்துக்கு வருகின்ற கிள்ளியிடம்
+நன்னாளாம் நாளை விருந்துக்கு வருகின்ற கிள்ளியிடம்
 பரிசாகத் தருவதற்குத் திட்டமிட்டுப்
 பறக்கின்றேன் கற்பனை வானில் சிறகடித்து!” என்று
 பக்குவமாய்ப் பொய் கூறித் தாயை அனுப்பிவிட்டு
@@ -41,7 +41,7 @@ continues_from_scan: 440
 இரவென்னும் இமைப் பேழையினைத் திறந்துகொண்டு
 வெள்ளை விழிப்பகல்; மெல்ல எட்டிப்பார்த்தவுடன்,
 
-குறித்த நேரம் தவறுமல் ஊர்ச் சேவல் கூவியது!
+குறித்த நேரம் தவறாமல் ஊர்ச் சேவல் கூவியது!
 குணதிசையில் உதயசூரியனும் மேவியது!
 
 *
@@ -57,3 +57,5 @@ continues_from_scan: 440
 நீருடன் பாலும் சரிபாதி கலந்திடுக என்றாள் அன்னை!
 கட்டித் தயிரைக் கையிலெடுத்தால் வெண்ணெய்
 உருண்டைபோல் இருக்க வேண்டுமென்றார் தந்தை!
+
+<!-- C2-18: user-authorized source corrections applied at four repository divergences: `சுள்`, `...சொல்லிவிடு” என்றாள்!`, `நன்னாளாம் நாளை...`, and `குறித்த நேரம் தவறாமல்...`. -->

@@ -23,10 +23,11 @@ The user explicitly opened C2 in manual batches and supplied adjudications that 
 - **C2-15 — scans 351–375**
 - **C2-16 — scans 376–400**
 - **C2-17 — scans 401–425**
+- **C2-18 — scans 426–450**
 
 The historical Gate-C ledger remains an audit record. Where the user's manual C2 adjudication disagrees with the earlier Gate-C interpretation, **the user's adjudication controls**.
 
-Scans **426–497 remain Gemini-lexical-locked** until the user supplies further instructions.
+Scans **451–497 remain Gemini-lexical-locked** until the user supplies further instructions.
 
 ## C2-01 — scans 1–25
 
@@ -292,18 +293,46 @@ C2-16 page files modified: **377, 383**.
 
 C2-17 page files modified: **402, 404, 413, 420, 421, 422**. Scan **410** required no edit.
 
+
+## C2-18 — scans 426–450
+
+**Status: COMPLETE / APPLIED**
+
+| Gate-C ID | Scan | User adjudication | Repository action |
+|---|---:|---|---|
+| C18-001 | 429 | `விண்ணில் நட்சத்திரமொன்று வீழ்கின்ற வேகத்தில்` — Gemini is correct | no change; protected |
+| C18-002 | 430 | source includes `துடிப்பதாய்ச்` before `சேதி வந்து...` — Gemini error | restored `துடிப்பதாய்ச்` |
+| C18-003 | 431 | source `ஊசியினும் வேகமாய்ப் போரை முடித்து` — Gemini error | corrected `வேகமாயப்` → `வேகமாய்ப்` |
+| C18-004 | 431 | source has standalone transition `இவ்வாறு` before `முத்தமிழ் வித்தகரின் பாமாலைக்கும்...` — Gemini error | restored standalone `இவ்வாறு` |
+| C18-005 | 434 | `சுடுங்காதல் நெருப்பாலே சுவைப்பண்டம் சமைத்து` — Gemini is correct | no change; protected |
+| C18-006 | 435 | source `கடுந்தமிழ்ச் சொல்லாலே இப்பாடல் இயற்றியுள்ளேன்.` — Gemini error | corrected `இயுள்ளேன்` → `இயற்றியுள்ளேன்` |
+| C18-007 | 435 | source `வாட்டும் காதல் நிறைவேற வழியொன்று சொல்லென்று` — Gemini error | corrected `வழியொரு` → `வழியொன்று` |
+| C18-008 | 436 | source `“மகளே; நற்கண்ணை!” என்றழைத்தவாறு` — Gemini error | corrected `என்றழைத்துவாறு` → `என்றழைத்தவாறு` |
+| C18-009 | 441 | source `“சுள்” என்று கோபம் வருவதற்குள்...` — repository-only divergence / Gemini error | corrected `“சொல்”` → `“சுள்”` |
+| C18-010 | 441 | source `... உண்மையைச் சொல்லிவிடு” என்றாள்!` — repository-only divergence / Gemini error | corrected `என்றுரைத்தாள்!` → `என்றாள்!` |
+| C18-011 | 441 | source `நன்னாளாம் நாளை விருந்துக்கு வருகின்ற கிள்ளியிடம்` — repository-only divergence / Gemini error | corrected `நன்னுளாம்` → `நன்னாளாம்` |
+| C18-012 | 441 | source `குறித்த நேரம் தவறாமல் ஊர்ச் சேவல் கூவியது!` — repository-only divergence / Gemini error | corrected `தவறுமல்` → `தவறாமல்` |
+| C18-013 | 442 | source `உப்பு மட்டும் போடுதற்கு மறந்திடாதீர்!` — repository-only divergence / Gemini error | corrected `போதற்கு` → `போடுதற்கு` |
+| C18-014 | 442 | source `கரங்குவித்து ஒருவருக்கொருவர் வணக்கம் செய்து` — repository-only divergence / Gemini error | corrected `காங்குவித்து` → `கரங்குவித்து` |
+| C18-015 | 442 | source `கனிந்த அன்பைப் பரிமாறிக்கொண்டு` — repository-only divergence / Gemini error | corrected `பாரிமாறிக்கொண்டு` → `பரிமாறிக்கொண்டு` |
+| C18-016 | 442 | source `வேங்கைநிகர்க் கிள்ளியிடம் விரைந்து வந்தாள் நற்கண்ணை!` — repository-only divergence / Gemini error | corrected corrupted compound to `வேங்கைநிகர்க்` |
+| C18-017 | 442 | source `ஓய்விருக்கும்போது படித்தால் போதும்!` — repository-only divergence / Gemini error | corrected `ஒவ்வொருக்கும்போது` → `ஓய்விருக்கும்போது` |
+| C18-018 | 448 | source `“கரந்தைப் போர் வெல்க!” என்றாள்!` — repository-only divergence / Gemini error | corrected `கருந்தைப்` → `கரந்தைப்` |
+
+C2-18 page files modified: **430, 431, 435, 436, 441, 442, 448**. Scans **429** and **434** required no edits.
+
 ## Cumulative C2 state
 
-- C2 disposition coverage — **425/497 scans** (C06 closed with 0 discrepancy records)
-- modified canonical page files — **60**
-- literary/source corrections applied — scans **7, 21, 28, 29, 35, 47, 51, 59, 64, 70, 77, 83, 96, 113, 123, 163, 165, 175, 188, 192, 195, 199, 208, 221, 223, 226, 230, 237, 240, 248, 254, 257, 281, 288, 292, 294, 296, 304, 307, 309, 312, 313, 326, 328, 340, 352, 361, 363, 373, 377, 383, 402, 404, 413, 420, 421, 422**
+- C2 disposition coverage — **450/497 scans** (C06 closed with 0 discrepancy records)
+- modified canonical page files — **67**
+- literary/source corrections applied — scans **7, 21, 28, 29, 35, 47, 51, 59, 64, 70, 77, 83, 96, 113, 123, 163, 165, 175, 188, 192, 195, 199, 208, 221, 223, 226, 230, 237, 240, 248, 254, 257, 281, 288, 292, 294, 296, 304, 307, 309, 312, 313, 326, 328, 340, 352, 361, 363, 373, 377, 383, 402, 404, 413, 420, 421, 422, 430, 431, 435, 436, 441, 442, 448**
 - facsimile-description policy applied — scan **8**
 - stale divergence / section-title metadata cleaned without body change — scans **40, 112**
-- protected Gemini-correct findings — scans **5, 9, 11, 13, 19, 29, 39, 40, 47, 53, 58, 64, 87, 96, 120, 174, 180, 199, 257, 274, 312, 313, 331, 359, 360, 364, 366, 370, 383, 410**
-- scans **426–497** — **LOCKED / C2 NOT AUTHORIZED**
+- protected Gemini-correct findings — scans **5, 9, 11, 13, 19, 29, 39, 40, 47, 53, 58, 64, 87, 96, 120, 174, 180, 199, 257, 274, 312, 313, 331, 359, 360, 364, 366, 370, 383, 410, 429, 434**
+- scans **451–497** — **LOCKED / C2 NOT AUTHORIZED**
 - whole-volume word-for-word verification — **NOT CLAIMED**
 - Gate G — **DEFERRED**
 
 ## Next activity
 
-Wait for the user's C2 findings/instructions for **scans 426–450**. Do not modify that batch from the historical ledger alone.
+Wait for the user's C2 findings/instructions for **scans 451–475**. Do not modify that batch from the historical ledger alone.

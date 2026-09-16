@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; banquet preparations, guest introductions, and Narkannai offering a poem; centered separator; printed page number 430"
 language: "ta"
-transcription_method: "direct source-first transcription from controlling scan because File10.md omits this printed-page range; textual/visual verification deferred"
+transcription_method: "direct source-first transcription from controlling scan with user-authorized C2 repository corrections; textual/visual verification deferred"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 441
 ---
@@ -17,7 +17,7 @@ continues_from_scan: 441
 ஊறவைத்து உருசியினைப் பெருக்கிடுக என்றுரைத்தாள்
 நற்கண்ணை!
 
-“உப்பு மட்டும் போதற்கு மறந்திடாதீர்!
+“உப்பு மட்டும் போடுதற்கு மறந்திடாதீர்!
 உப்பில்லாப் பண்டமும் ஒருதலைக்காதலும் குப்பையிலே!”
 எனச் சொன்னாள் தோழி!
 
@@ -44,15 +44,17 @@ continues_from_scan: 441
 இளமையிலே தாயிழந்த குறைதீர்த்து - என்
 இன்னுயிர் காத்து இவ்வண்ணம் வளர்த்து விட்ட
 கன்னித் தமிழ்க் கவியரசி காவற்பெண்டு இவர்தான்” என்றான்.
-காங்குவித்து ஒருவருக்கொருவர் வணக்கம் செய்து,
-கனிந்த அன்பைப் பாரிமாறிக்கொண்டு,
+கரங்குவித்து ஒருவருக்கொருவர் வணக்கம் செய்து,
+கனிந்த அன்பைப் பரிமாறிக்கொண்டு,
 விருந்தருந்தி முடித்தவுடன் விழியிமைகள் படபடக்க;
-வேங்கைகளிற் கிள்ளியிடம் விரைந்து வந்தாள் நற்கண்ணை!
+வேங்கைநிகர்க் கிள்ளியிடம் விரைந்து வந்தாள் நற்கண்ணை!
 “இங்கு வந்து எம் இல்லமும் உள்ளமும் நீவிர்
 இன்புறச் செய்தமைக்கு இதயத்து நன்றியினை
 ஓலையில் ஒரு பாட்டாக ஆக்கியுள்ளேன்;
-ஒவ்வொருக்கும்போது படித்தால் போதும்!” என்றாள்.
+ஓய்விருக்கும்போது படித்தால் போதும்!” என்றாள்.
 
 பெற்றோர்கள், மற்றோர்கள் முன்னிலையில்
 படித்து விடுவாளோ என நடுங்கி
 முற்றுக் தீனமறந்து நற்கண்ணை நின்றபோது;
+
+<!-- C2-18: user-authorized source corrections applied at five repository divergences: `போடுதற்கு`, `கரங்குவித்து`, `பரிமாறிக்கொண்டு`, `வேங்கைநிகர்க்`, and `ஓய்விருக்கும்போது`. -->
