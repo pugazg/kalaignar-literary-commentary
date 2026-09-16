@@ -15,10 +15,14 @@ Gate B — COMPLETE / PASS:
 - remaining — 0
 - unresolved structural placement issues — 0
 
-Gate C — NOT STARTED:
-- next batch — C01
-- next range — scans 1–25
+Gate C — IN PROGRESS:
+- C01 scans 1–25 — COMPLETE / PASS
+- audited — 25/497
+- remaining — 472
+- frontier — scan 26
+- C01 discrepancy records — 11
 - mode — audit-only / no page-wording changes
+- latest ledger commit — 0e6b7f4cf3e96cad5b7416cc51b84a287a70fc0b
 
 Latest B20 page-layer endpoint: e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c
 
@@ -61,4 +65,4 @@ Gate-B structural completion does not automatically promote a page to verified. 
 
 ## Exact next activity
 
-Start Gate C C01 — scans 1–25. Use File1.md + controlling source scans 1–25 and record substantive lexical discrepancies in LEXICAL_DISCREPANCY_LEDGER.md. Gate C is audit-only: do not modify canonical page wording, and do not start Gate C2 without explicit authorization.
+Process Gate C C02 — scans 26–50 using the already supplied first-50-page PDF. Append substantive source-vs-locked discrepancies to LEXICAL_DISCREPANCY_LEDGER.md, verify 0 canonical page changes, and advance frontier to scan 51. Do not start Gate C2.

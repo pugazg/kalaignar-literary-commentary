@@ -105,14 +105,21 @@ Gate B — **COMPLETE / PASS**:
 - latest B20 page-layer endpoint — `e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c`
 - Gate-B closure / durable B20 progress commit — `90caaeb3bd92201a75d45f617727721b9c3e0df7`
 
-Gate C — **NOT STARTED**.
+Gate C — **IN PROGRESS**:
+- C01 scans **1–25 — COMPLETE / PASS**
+- audited — **25/497**
+- remaining — **472**
+- frontier — **scan 26**
+- substantive C01 discrepancy records — **11**
+- latest Gate-C ledger commit — `0e6b7f4cf3e96cad5b7416cc51b84a287a70fc0b`
+- Gate C2 — **NOT STARTED / NOT AUTHORIZED**
 
 Wording state remains **Gemini-lexical-locked**, not word-for-word scan verified.
 
-Durable extraction/mapping exceptions from Gate B remain authoritative in `STRUCTURAL_FIDELITY_PROGRESS.md`, including File9 mis-segmentation, File10 mapping shifts/phantom blocks, locked omissions, and documented malformed extraction tokens.
+Durable extraction/mapping exceptions from Gate B remain authoritative in `STRUCTURAL_FIDELITY_PROGRESS.md`.
 
-Durable mixed-page correction: scan **359** is mixed text/illustration, not illustration-only.
+C01 execution note: the user supplied the physical source split covering scans 1–50. `File1.md` was not directly available in the active attachment set, so the current canonical page wording served as the preserved locked comparison layer. No page wording was changed.
 
 ### Exact next activity
 
-Start Gate C C01 — **scans 1–25**. Gate C is audit-only: record substantive source/Gemini lexical discrepancies in `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`; **do not modify canonical page wording** and do not start Gate C2 without explicit authorization.
+Process Gate C C02 — **scans 26–50** using the already supplied first-50-page PDF. Append substantive discrepancies to `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`; verify **0 page-file changes**; advance frontier to scan **51**. Do not start Gate C2.
