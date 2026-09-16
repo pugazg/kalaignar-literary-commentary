@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate C Lexical Discrepancy Audit / C13 scans 301–325
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate C Lexical Discrepancy Audit / C14 scans 326–350
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -37,31 +37,32 @@ Gate C:
 - C10 scans **226–250 — COMPLETE / PASS**
 - C11 scans **251–275 — COMPLETE / PASS**
 - C12 scans **276–300 — COMPLETE / PASS**
-- audited — **300/497**
-- remaining — **197**
-- frontier — **scan 301**
-- cumulative discrepancy records — **67**
-- latest Gate-C ledger commit — `30291be4b11295d746f260ce67d8c63103b0e129`
+- C13 scans **301–325 — COMPLETE / PASS**
+- audited — **325/497**
+- remaining — **172**
+- frontier — **scan 326**
+- cumulative discrepancy records — **74**
+- latest Gate-C ledger commit — `706fd9a6a70bcd7db331d22293a7a2f274941cf6`
 - Gate C2 — **NOT STARTED / NOT AUTHORIZED**
 
 Wording state remains **Gemini-lexical-locked — not word-for-word scan verified**.
 
-## C12 source note
+## C13 source note
 
-C12 used:
-- `TVA_BOK_0042551_சங்கத்_தமிழ்_part_006_pages_251-300.pdf`, split pages 26–50 / physical scans 276–300;
-- `File6.md`, Phase 15 / Book Pages 264–288.
+C13 used:
+- `TVA_BOK_0042551_சங்கத்_தமிழ்_part_007_pages_301-350.pdf`, split pages 1–25 / physical scans 301–325;
+- `File7.md`, Phase 16 / Book Pages 290–314.
 
-C12 recorded six substantive discrepancies across scans 281, 288, 290, 292, 294 and 296. These include two malformed/missing decorative-heading blocks, three source/File6 lexical disagreements, and one repository-only divergence at scan 294. No canonical page wording was changed.
+C13 recorded seven substantive discrepancies across scans 304, 307, 309, 312, 313 and 321. These include one repository-only quotation-line omission at scan 304, a mixed-script corrupted lexical token at scan 307, source/File7 poet-name and verb/form disagreements at scans 309/312/313, and a File7 omission of the second source-visible `இவ்வாறு` at scan 321. No canonical page wording was changed.
 
-## Exact next activity — C13
+## Exact next activity — C14
 
-Process **Gate C scans 301–325**.
+Process **Gate C scans 326–350**.
 
 Use:
-- controlling PDF — user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_007_pages_301-350.pdf`, split pages **1–25**;
-- direct Gemini lock witness — user-supplied `File7.md`, Phase 16 / Book Pages **290–314**;
-- canonical page records `works/sangatamil/pages/0301-*.md` through `0325-*.md`.
+- controlling PDF — the same user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_007_pages_301-350.pdf`, split pages **26–50**;
+- direct Gemini lock witness — the same user-supplied `File7.md`, Phase 16 / Book Pages **314–338**;
+- canonical page records `works/sangatamil/pages/0326-*.md` through `0350-*.md`.
 
 Append only substantive lexical discrepancies to:
 
@@ -73,6 +74,6 @@ At batch close:
 1. verify **0 canonical page files changed**;
 2. commit the updated ledger;
 3. synchronize operational current-state docs;
-4. advance Gate-C frontier to **scan 326**.
+4. advance Gate-C frontier to **scan 351**.
 
 **Do not start Gate C2 and do not source-correct canonical page wording.**
