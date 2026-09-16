@@ -452,3 +452,73 @@ At C07 close:
 2. verify **0 canonical page files changed**;
 3. advance the Gate-C frontier to **scan 176**;
 4. do not start Gate C2.
+
+
+# C07 — scans 151–175
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-16**
+- audited scans: **151–175 / 25**
+- controlling source: user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_004_pages_151-200.pdf`, split pages **1–25**
+- direct Gemini lexical witness: user-supplied `File4.md`, mapped material for physical scans **151–175**
+- locked comparison layer: current canonical page records under `works/sangatamil/pages/`
+- substantive discrepancy records: **4**
+- scans containing discrepancies: **4**
+- scans with no new substantive lexical discrepancy: **21**
+- canonical page files changed: **0**
+- Gate C2 corrections: **0**
+
+Clean / no-new-substantive-discrepancy scans:
+
+**151–162, 164, 166–173**
+
+Special handling:
+- scans **156, 160, 166, 172** are full-page illustrations and contain no literary body text;
+- known File4 extraction debris already excluded during Gate B — scan 151 duplicate fragment `மேருமை`, scan 155 stray `64`, scan 157 embedded printed-page number `144`, scan 158 stray numeric `6`, scan 167 terminal punctuation contamination, and scan 174 stray numeric `6` — was not re-entered as Gate-C lexical discrepancy;
+- source-controlled placement differences, including displaced carryovers and quotation/provenance/gloss ordering, remain structural and were not ledgered;
+- scan **175** crosses File4's phase wrapper: its source page is physical scan 175 / printed page 162, while the matching lexical material begins in File4's following phase block. The malformed decorative-heading extraction was audited against the source-visible title rather than treated as a physical-page remap;
+- punctuation-only, spacing, line-wrap, running-header/footer and purely structural differences were excluded unless they changed lexical content.
+
+## C07 discrepancy records
+
+| ID | Scan | Printed page | Canonical page | Locked File4 / repository wording | Source-visible wording | Classification | Gate-B exception already documented? | Notes |
+|---|---:|---:|---|---|---|---|---|---|
+| C07-001 | 163 | 150 | `0163-pathilai-neruppaaga-umizhndha-paavaanar-05.md` | `கொங்கர்க் குடகடல் ஓடிய ஞான்றைத்` | `கொங்கர்க் குடகடல் ஓட்டிய ஞான்றைத்` | `likely-gemini-error` | no | In the Purananuru 130 quotation, File4 drops the `ட்ட` reading present in the printed source. The canonical locked quotation remains unchanged. |
+| C07-002 | 165 | 152 | `0165-kaavaippor-kanduvandha-kanavan-01.md` | body heading `காடைப் போர் இகண்டுவந்த கணவன்!` | decorative/source heading `காடைப் போர் கண்டுவந்த கணவன்!` | `likely-gemini-error` | **yes — B07** | Gate B already preserved the source section identity in metadata while retaining File4's extra initial `இ` in the body heading. Gate C records the lexical disagreement only. |
+| C07-003 | 174 | 161 | `0174-thagadooraan-thandha-kani-04.md` | `சிறுயிலை நெல்லித் தீங்கனி குறியாது` | `சிறியிலை நெல்லித் தீங்கனி குறியாது` | `likely-gemini-error` | no | The Purananuru quotation visibly reads `சிறியிலை`; File4 locks `சிறுயிலை`. No source correction is promoted under the current lock. |
+| C07-004 | 175 | 162 | `0175-neermagal-neerinum-kulirndha-nenjam-01.md` | File4 decorative-heading extraction is malformed as `நிலமலை / லம் / நீரினும் / குளிர்ந்த / நெஞ்சம்!)`; canonical body therefore contains no recovered heading | source decorative heading `நீர்மகள் நீரினும் குளிர்ந்த நெஞ்சம்!` | `missing-or-malformed-heading-lexical-block` | **yes — B07** | Gate B recorded the source section identity only in metadata and explicitly deferred lexical resolution. Gate C records the missing/malformed heading without inserting source wording into the canonical body. |
+
+## C07 closure audit
+
+C07 is an **audit-only closure**.
+
+- source scans **151–175** were inspected against the direct File4 witness and preserved canonical lock;
+- **4** substantive discrepancy records were entered;
+- **0** canonical page records were edited;
+- no Gate-B page was reopened;
+- no lexical correction was promoted;
+- wording state remains **Gemini-lexical-locked / not word-for-word scan verified**.
+
+## Gate C cumulative state after C07
+
+- completed Gate-C batches: **C01–C07**
+- audited scans: **175/497**
+- cumulative substantive discrepancy records: **40**
+- remaining scans: **322**
+- next frontier: **scan 176**
+- Gate C2: **NOT STARTED / NOT AUTHORIZED**
+
+## Exact next activity
+
+Process **Gate C C08 — scans 176–200**.
+
+Available direct source pair:
+- user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_004_pages_151-200.pdf`, split pages **26–50** / physical scans **176–200**;
+- user-supplied `File4.md`, matching continuation material for scans **176–200**.
+
+At C08 close:
+1. append only substantive lexical discrepancies to this ledger;
+2. verify **0 canonical page files changed**;
+3. advance the Gate-C frontier to **scan 201**;
+4. do not start Gate C2.
