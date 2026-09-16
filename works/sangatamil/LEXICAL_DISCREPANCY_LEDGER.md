@@ -23,16 +23,18 @@ Gate C is **audit-only**.
 
 ## Gate C2 superseding adjudication
 
-Gate C is a historical audit record. The user has now manually adjudicated **scans 1–50** under Gate C2. Those manual rulings supersede the earlier automated interpretation for correction decisions.
+Gate C is a historical audit record. The user has now manually adjudicated **scans 1–100** under Gate C2. Those manual rulings supersede the earlier automated interpretation for correction decisions.
 
 Durable Gate-C2 record: `C2_SOURCE_CORRECTION_PROGRESS.md`.
 
 Important:
 - C2-01 scans **1–25 — COMPLETE / APPLIED**;
 - C2-02 scans **26–50 — COMPLETE / APPLIED**;
+- C2-03 scans **51–75 — COMPLETE / APPLIED**;
+- C2-04 scans **76–100 — COMPLETE / APPLIED**;
 - entries the user marks **Gemini is correct** are protected and must not be source-corrected;
 - scan **8** is a handwritten letter/facsimile and is description-only by user instruction;
-- scans **51–497 remain locked** and historical Gate-C rows for those scans are **not authorization to edit**.
+- scans **101–497 remain locked** and historical Gate-C rows for those scans are **not authorization to edit**.
 
 
 ## Execution note
