@@ -10,10 +10,11 @@ The user explicitly opened C2 in manual batches and supplied adjudications that 
 - **C2-02 — scans 26–50**
 - **C2-03 — scans 51–75**
 - **C2-04 — scans 76–100**
+- **C2-05 — scans 101–125**
 
 The historical Gate-C ledger remains an audit record. Where the user's manual C2 adjudication disagrees with the earlier Gate-C interpretation, **the user's adjudication controls**.
 
-Scans **101–497 remain Gemini-lexical-locked** until the user supplies further instructions.
+Scans **126–497 remain Gemini-lexical-locked** until the user supplies further instructions.
 
 ## C2-01 — scans 1–25
 
@@ -85,18 +86,32 @@ C2-03 page files modified: **51, 59, 64, 70**.
 
 C2-04 page files modified: **77, 83, 96**.
 
+
+## C2-05 — scans 101–125
+
+**Status: COMPLETE / APPLIED**
+
+| Gate-C ID | Scan | User adjudication | Repository action |
+|---|---:|---|---|
+| C05-001 | 112 | both historical candidate headings are incorrect; exact heading is `புரிந்துகொண்டான்; பிரிந்துசென்றார்!` | body heading already matched; corrected stale `section` metadata on scan 112 to the exact user-confirmed heading |
+| C05-002 | 113 | source opening quotation stanza after the prose is a true missing whole lexical block | restored the exact source-visible Kalithogai opening stanza from the supplied scan; continuation remains across scan 114 to scan 115 |
+| C05-003 | 120 | note `ஊன்பொழிப் பசுங்குடையார்` — Gemini is correct | no change; protected |
+| C05-004 | 123 | source opening prose before terminal `சென்றனள்!` is a true missing whole lexical block | restored exact source-visible lines `அடுத்தநாள் காலை...` / `எடுத்தும் கொடுத்தும்...` before the already-correct `சென்றனள்!` |
+
+C2-05 page files modified: **112, 113, 123**.
+
 ## Cumulative C2 state
 
-- user-adjudicated scans — **100/497**
-- modified canonical page files — **15**
-- literary/source corrections applied — scans **7, 21, 28, 29, 35, 47, 51, 59, 64, 70, 77, 83, 96**
+- user-adjudicated scans — **125/497**
+- modified canonical page files — **18**
+- literary/source corrections applied — scans **7, 21, 28, 29, 35, 47, 51, 59, 64, 70, 77, 83, 96, 113, 123**
 - facsimile-description policy applied — scan **8**
-- stale divergence metadata cleaned without body change — scan **40**
-- protected Gemini-correct findings — scans **5, 9, 11, 13, 19, 29, 39, 40, 47, 53, 58, 64, 87, 96**
-- scans **101–497** — **LOCKED / C2 NOT AUTHORIZED**
+- stale divergence / section-title metadata cleaned without body change — scans **40, 112**
+- protected Gemini-correct findings — scans **5, 9, 11, 13, 19, 29, 39, 40, 47, 53, 58, 64, 87, 96, 120**
+- scans **126–497** — **LOCKED / C2 NOT AUTHORIZED**
 - whole-volume word-for-word verification — **NOT CLAIMED**
 - Gate G — **DEFERRED**
 
 ## Next activity
 
-Wait for the user's C2 findings/instructions for **scans 101–125**. Do not modify that batch from the historical ledger alone.
+Wait for the user's C2 findings/instructions for **scans 126–150**. Do not modify that batch from the historical ledger alone.

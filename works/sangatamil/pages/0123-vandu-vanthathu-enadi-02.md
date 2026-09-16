@@ -7,11 +7,13 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 source-block restoration"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_to_scan: 124
 ---
 
+அடுத்தநாள் காலை அடுக்களிப்பக்கம் அன்னையிருந்தனள்  
+எடுத்தும் கொடுத்தும் இட்டபணிகளைச் செய்ய மகளும்  
 சென்றனள்!
 
 ஆரத்தழுவி அருவியோரம் நடந்ததொரு நிகழ்ச்சியால்  
@@ -60,5 +62,5 @@ continues_to_scan: 124
 தாயாரும் நம்பிவிட்டாள்; அடுப்பின் நெருப்புத்  
 தணலாலே சந்தன விறகுதான் மணக்குதென்றும்
 
-<!-- Gate B preserves the File3-locked terminal `சென்றனள்!` at the source-supported position but does not recover the preceding source-visible block absent from File3. File3 page-marker drift is corrected structurally: the `தாயாரும் நம்பிவிட்டாள்...` continuation remains on physical scan 123 where the PDF places it. -->
+<!-- C2-05: user confirmed the source-visible opening prose is a true missing whole lexical block. Restored directly from the supplied scan 123 before the already-correct terminal `சென்றனள்!`; the later File3/Gemini body remains unchanged. -->
 <!-- மூல ஸ்கேன் பக்கம்: 123; அச்சுப் பக்கம்: 108 -->

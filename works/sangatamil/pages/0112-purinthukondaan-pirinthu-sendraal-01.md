@@ -2,12 +2,12 @@
 scan_page: 112
 printed_page: "97"
 work: "sangatamil"
-section: "புரிந்துகொண்டான்; பிரிந்து சென்றாள்!"
+section: "புரிந்துகொண்டான்; பிரிந்துசென்றார்!"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 heading adjudication"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -43,5 +43,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 “என்ன துணிவிருந்தால்; எனை வழிமடக்கி  
 இன்னல் விளைத்திடுவாய்? என் தாய்க்குச்
 
-<!-- Gate B preserves File3's locked heading word `பிரிந்துசென்றார்` while source punctuation/metadata retain the source section identity `புரிந்துகொண்டான்; பிரிந்து சென்றாள்!`. -->
+<!-- C2-05: user adjudicated the exact source heading as `புரிந்துகொண்டான்; பிரிந்துசென்றார்!`. The body heading already matched; stale section metadata was corrected to the same form. -->
 <!-- மூல ஸ்கேன் பக்கம்: 112; அச்சுப் பக்கம்: 97 -->

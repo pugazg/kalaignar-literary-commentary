@@ -7,7 +7,7 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 source-block restoration"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -40,7 +40,16 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 
 <div align="center">*</div>
 
-<!-- Source-visible opening stanza of the Kalithogai quotation is absent from File3 and is therefore not lexically recovered in Gate B. The quotation continues after the scan-114 illustration on scan 115. -->
+> \* “பாங்கு அரும் பாட்டங்கால் கன்றொடு செல்வேம் எம்  
+> தாம்பின் ஒருதலைப்பற்றினை, ஈங்கு எம்மை  
+> முன்னே நின்றங்கே விலக்கிய எல்லா! நீ  
+> என்னையே முற்றும்? விடு;  
+> விடெனன்; தொழிஇய செல்வார்த் துமித்து,  
+> எதிர்மண்டும்  
+> கடுவை நாகுபோல் நோக்கித், தொழுவையில்  
+> நீங்கிச், சினவுவாய் மற்று.”
 
-<!-- Gate B restores File3 wording and scan-supported placement of `அக்கேள்வி!`; the source-only opening quotation stanza remains a documented locked omission. -->
+<!-- C2-05: user confirmed the source-visible opening Kalithogai stanza is a true missing whole lexical block. Restored directly from the supplied scan 113; the quotation continues across the scan-114 illustration to scan 115. -->
+
+<!-- The existing File3/Gemini prose above remains unchanged except for the separately user-adjudicated source-block restoration. -->
 <!-- மூல ஸ்கேன் பக்கம்: 113; அச்சுப் பக்கம்: 98 -->
