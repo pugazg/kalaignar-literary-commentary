@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "decorative multicolour section heading; song metadata and opening lyrics; printed page number 390"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 source correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -34,7 +34,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 வஞ்சி எனக்கோர் வரம் தரவேண்டுமென
 கெஞ்சியுன்னைக் கேட்கின்றேன் - என்பால்
 எஞ்சியுள்ளது உயிர் ஒன்றுதான்; எனினும்
-வஞ்சமின்றி வழங்கிடுவேன் உனக்காகக் கண்ணா!
+வஞ்சமின்றி வழங்கிடுவேன் உனக்காகக் கண்ணா! - உன்
 மஞ்சத்து மயிலாக எனை ஆக்கிடுக மணிவண்ணா!
 அதை நினைத்தாலே - கனவில் வந்து நீ எனை
 அணைத்தாலே;
@@ -47,4 +47,4 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 மயக்குகின்ற மாலை நேரம் சென்றேன்.
 குலையாகப் பழம் தொங்குகின்ற மரத்தின்
 
-<!-- Gate B removes source-visible `உன்` after `கண்ணா!` because File9 omits that lexical token; PDF-supported song/refrain order is otherwise preserved. -->
+<!-- C2-17: user-authorized source correction restores `- உன்` after `வஞ்சமின்றி வழங்கிடுவேன் உனக்காகக் கண்ணா!`; song/refrain order is otherwise unchanged. -->

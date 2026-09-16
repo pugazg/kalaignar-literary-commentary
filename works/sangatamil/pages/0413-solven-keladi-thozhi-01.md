@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "decorative multicolour section heading; இசைப்பாடல் notation and song text; printed page number 401"
 language: "ta"
-transcription_method: "direct visual transcription from controlling source scan because Gemini scaffold misread the section heading/content; final textual/visual verification deferred"
+transcription_method: "direct visual transcription from controlling source scan with user-authorized C2 repository corrections; final textual/visual verification deferred"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -36,7 +36,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 (சொல்வேன் கேளடி தோழி...)
 
 மல்லிகை முல்லை கூந்தலில் வைப்பேன் - அவன்
-மாயமாய் வந்து அவைகளப் பறிப்பான்!
+மாயமாய் வந்து அவைகளைப் பறிப்பான்!
 பந்துகள் கொண்டு ஆடி மகிழ்வோம்; - அவன்
 வந்தது தெரியாமல் திருடியே மறைவான்!
 
@@ -44,7 +44,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 
 வாயிற் புறந்தனிலே ஒருநாள் வந்து நின்றான்
 வாய் உலர்ந்து போனதென்று “தண்ணீர்” என்றான்.
-தாயும் ஏன அருந்துவதற்கு “மகனே” என்றாள்!
+தாயும் எனை அருகழைத்து “மகளே” என்றாள்!
 தங்கக் கலம் எடுத்து தண்ணீர் மொண்டு
 தவிக்கின்ற பிள்ளையாண்டான்
 தாகவிடாய் தணியென்று ஆணையிட்டாள் தோழி!
@@ -53,3 +53,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 
 விருப்பமிருந்தபடி எனக்கும் - எனிலும்
 வெளியிற் காட்டாமல் நீர் கொண்டு சென்றேன்!
+
+<!-- C2-17: user-authorized repository-divergence repairs applied: `அவைகளப்` → `அவைகளைப்`, and corrupted `தாயும் ஏன அருந்துவதற்கு “மகனே” என்றாள்!` replaced with exact source reading `தாயும் எனை அருகழைத்து “மகளே” என்றாள்!`. -->

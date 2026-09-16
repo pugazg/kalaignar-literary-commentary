@@ -22,10 +22,11 @@ The user explicitly opened C2 in manual batches and supplied adjudications that 
 - **C2-14 — scans 326–350**
 - **C2-15 — scans 351–375**
 - **C2-16 — scans 376–400**
+- **C2-17 — scans 401–425**
 
 The historical Gate-C ledger remains an audit record. Where the user's manual C2 adjudication disagrees with the earlier Gate-C interpretation, **the user's adjudication controls**.
 
-Scans **401–497 remain Gemini-lexical-locked** until the user supplies further instructions.
+Scans **426–497 remain Gemini-lexical-locked** until the user supplies further instructions.
 
 ## C2-01 — scans 1–25
 
@@ -273,18 +274,36 @@ C2-15 page files modified: **352, 361, 363, 373**.
 
 C2-16 page files modified: **377, 383**.
 
+
+## C2-17 — scans 401–425
+
+**Status: COMPLETE / APPLIED**
+
+| Gate-C ID | Scan | User adjudication | Repository action |
+|---|---:|---|---|
+| C17-001 | 402 | source `வஞ்சமின்றி வழங்கிடுவேன் உனக்காகக் கண்ணா! - உன் / மஞ்சத்து மயிலாக...` — Gemini error | restored omitted `- உன்` after `கண்ணா!` |
+| C17-002 | 404 | source `அருகில் வரமுடியாமல் ஏங்கத்தான் வேண்டும்!` — Gemini error | corrected `கருகில்` → `அருகில்` |
+| C17-003 | 410 | `முலைவேதின் ஒற்றி முயங்கிப் பொதிவேம் / கொலைஏறு சாடிய புண்ணை......` — Gemini is correct | no change; protected |
+| C17-004 | 413 | source `மாயமாய் வந்து அவைகளைப் பறிப்பான்!` — repository-only divergence / Gemini error | corrected `அவைகளப்` → `அவைகளைப்` |
+| C17-005 | 413 | source `தாயும் எனை அருகழைத்து “மகளே” என்றாள்!` — repository-only divergence / Gemini error | replaced corrupted canonical phrase with exact user-authorized source wording |
+| C17-006 | 420 | both prior candidates incorrect; exact user reading `களிறுகளைப் பந்தாடிப் புரவிகளைப் பஞ்சாக்கிக்` | replaced corrupted canonical line with exact user ruling |
+| C17-007 | 421 | source `கார் காலம் தலைகாட்டத் தொடங்கு முன்னர்` — repository-only divergence / Gemini error | corrected `திலைகாட்டத்` → `தலைகாட்டத்` |
+| C17-008 | 422 | source `பூத்திட்ட முல்லையிலே அமர்ந்து தேன் மொண்டு,` — repository-only divergence / Gemini error | corrected `புத்திட்ட` → `பூத்திட்ட` |
+
+C2-17 page files modified: **402, 404, 413, 420, 421, 422**. Scan **410** required no edit.
+
 ## Cumulative C2 state
 
-- C2 disposition coverage — **400/497 scans** (C06 closed with 0 discrepancy records)
-- modified canonical page files — **54**
-- literary/source corrections applied — scans **7, 21, 28, 29, 35, 47, 51, 59, 64, 70, 77, 83, 96, 113, 123, 163, 165, 175, 188, 192, 195, 199, 208, 221, 223, 226, 230, 237, 240, 248, 254, 257, 281, 288, 292, 294, 296, 304, 307, 309, 312, 313, 326, 328, 340, 352, 361, 363, 373, 377, 383**
+- C2 disposition coverage — **425/497 scans** (C06 closed with 0 discrepancy records)
+- modified canonical page files — **60**
+- literary/source corrections applied — scans **7, 21, 28, 29, 35, 47, 51, 59, 64, 70, 77, 83, 96, 113, 123, 163, 165, 175, 188, 192, 195, 199, 208, 221, 223, 226, 230, 237, 240, 248, 254, 257, 281, 288, 292, 294, 296, 304, 307, 309, 312, 313, 326, 328, 340, 352, 361, 363, 373, 377, 383, 402, 404, 413, 420, 421, 422**
 - facsimile-description policy applied — scan **8**
 - stale divergence / section-title metadata cleaned without body change — scans **40, 112**
-- protected Gemini-correct findings — scans **5, 9, 11, 13, 19, 29, 39, 40, 47, 53, 58, 64, 87, 96, 120, 174, 180, 199, 257, 274, 312, 313, 331, 359, 360, 364, 366, 370, 383**
-- scans **401–497** — **LOCKED / C2 NOT AUTHORIZED**
+- protected Gemini-correct findings — scans **5, 9, 11, 13, 19, 29, 39, 40, 47, 53, 58, 64, 87, 96, 120, 174, 180, 199, 257, 274, 312, 313, 331, 359, 360, 364, 366, 370, 383, 410**
+- scans **426–497** — **LOCKED / C2 NOT AUTHORIZED**
 - whole-volume word-for-word verification — **NOT CLAIMED**
 - Gate G — **DEFERRED**
 
 ## Next activity
 
-Wait for the user's C2 findings/instructions for **scans 401–425**. Do not modify that batch from the historical ledger alone.
+Wait for the user's C2 findings/instructions for **scans 426–450**. Do not modify that batch from the historical ledger alone.

@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "decorative multicolour song heading; இசைப்பாடல் metadata and opening stanzas; printed page number 409"
 language: "ta"
-transcription_method: "direct visual transcription from controlling source scan because Gemini scaffold omits/mis-segments this page; section heading and visible line order checked directly against scan; final textual/visual verification deferred"
+transcription_method: "direct visual transcription from controlling source scan with user-authorized C2 repository correction; section heading and visible line order checked directly against scan; final textual/visual verification deferred"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -27,7 +27,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 
 (தொடுப்பு 1)
 
-கார் காலம் திலைகாட்டத் தொடங்கு முன்னர்
+கார் காலம் தலைகாட்டத் தொடங்கு முன்னர்
 நேரிழையே நான் வருவேன் என்று
 நெற்றியிலே முத்தமிட்டு நெருங்கிப் பின்னர்
 தேர் ஏறிச் சென்றவர் ஏன் இன்னும் வரவில்லை?
@@ -53,3 +53,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 அருளற்றுப் போனாரோ தோழி?
 இருள் மூடிப் போகாமல் வாழ்வில்
 இன்ப விளக்கேற்ற எப்போது வருவாரோ தோழி?
+
+<!-- C2-17: user-authorized source correction applied: `கார் காலம் திலைகாட்டத் தொடங்கு முன்னர்` → `கார் காலம் தலைகாட்டத் தொடங்கு முன்னர்`. -->

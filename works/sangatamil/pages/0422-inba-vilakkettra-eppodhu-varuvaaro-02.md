@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; song continuation and beginning of Kuruntokai quotation; printed page number 410"
 language: "ta"
-transcription_method: "direct visual transcription from controlling source scan because Gemini scaffold omits/mis-segments this page; quotation opening and visible line order checked directly against scan; final textual/visual verification deferred"
+transcription_method: "direct visual transcription from controlling source scan with user-authorized C2 repository correction; quotation opening and visible line order checked directly against scan; final textual/visual verification deferred"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 421
 ---
@@ -36,7 +36,7 @@ continues_from_scan: 421
 மானின் கூட்டம் மேய்கின்ற அழகைப் பார் தோழி; அருகில்
 பூனை சிரிப்பது போல் முல்லை அரும்பின் கூட்டம்
 பூவை ஏன மாயக்குழி அவர் வரவில்லையெனும் வாட்டம்!
-புத்திட்ட முல்லையிலே அமர்ந்து தேன் மொண்டு,
+பூத்திட்ட முல்லையிலே அமர்ந்து தேன் மொண்டு,
 சுத்திட்டுக் களிக்குது பார் அழகான வண்டு!
 காத்திருப்பாள் மகரந்தப் பூங்கொடி என்று
 கவலை தீர்க்க அவர் ஓடி வருவாரோ இன்று?
@@ -55,3 +55,5 @@ continues_from_scan: 421
 > இருவிசேர் மருங்கில் பூத்த முல்லை,
 > வெருகுசிரித் தன்ன, பசுவீ மென்பிணிக்
 > குறுமுகை அவிழ்ந்த நறுமலர்ப் புறவின்
+
+<!-- C2-17: user-authorized source correction applied: `புத்திட்ட முல்லையிலே அமர்ந்து தேன் மொண்டு,` → `பூத்திட்ட முல்லையிலே அமர்ந்து தேன் மொண்டு,`. -->

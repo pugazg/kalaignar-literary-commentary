@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; song closure; Purananuru quotation, provenance and பொருள் விளக்கம்; printed page number 408"
 language: "ta"
-transcription_method: "direct visual transcription from controlling source scan because Gemini scaffold omits/mis-segments this page; quotation/provenance/gloss checked directly against scan; final textual/visual verification deferred"
+transcription_method: "direct visual transcription from controlling source scan with user-authorized C2 lexical correction; quotation/provenance/gloss checked directly against scan; final textual/visual verification deferred"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 419
 ---
@@ -25,7 +25,7 @@ continues_from_scan: 419
 கருத்துக்கு ஏற்பதொரு கன்னியின்மான
 தனம் கொண்டு திருமணிப்புடன் மனமுடிக்கக் காத்திருந்தேன்;
 அவனே
-களிமிகுந்து பந்தாடிப் பழவிகளிடப் பஞ்சராகிக்
+களிறுகளைப் பந்தாடிப் புரவிகளைப் பஞ்சாக்கிக்
 கயவர்களின் வாள்முனையை நெஞ்சில் தாங்கிக்
 காதலியைத் தவிக்கவிட்டு
 காலத்தை நகர்த்துகின்ற இந்தக் கிழவியையும்
@@ -62,3 +62,5 @@ continues_from_scan: 419
 தூங்கிய சிதர் = தேங்கிய மழைத்துளி.
 
 *
+
+<!-- C2-17: user adjudicated both prior candidates as incorrect; exact controlling reading applied: `களிறுகளைப் பந்தாடிப் புரவிகளைப் பஞ்சாக்கிக்`. -->
