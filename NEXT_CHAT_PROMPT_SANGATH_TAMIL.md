@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate B Structural Fidelity / scans 451–475
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate B Structural Fidelity / final scans 476–497
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -13,7 +13,7 @@ Read in this order before writing:
 6. root `HANDOVER.md`
 7. `works/sangatamil/README.md`
 
-Historical/superseded methodology files may be consulted for background only:
+Historical/superseded methodology files are background only:
 - `works/sangatamil/MULTI_PASS_WORKFLOW.md`
 - `works/sangatamil/GEMINI_RECONCILIATION_PLAN.md`
 
@@ -24,60 +24,64 @@ Gate A — **COMPLETE / PASS**:
 - duplicate aliases — **0**
 - missing scans — **0**
 
-Gate B completed batches: **B01–B18 / scans 1–450**.
+Gate B completed batches: **B01–B19 / scans 1–475**.
 
 Current cumulative Gate B state:
-- structurally reviewed — **450/497**
-- structurally remaining — **47**
-- current frontier — **scan 451**
+- structurally reviewed — **475/497**
+- structurally remaining — **22**
+- current frontier — **scan 476**
 - Gate C — **NOT STARTED**
 
-Latest B18 page-layer endpoint:
-`0b77065c14ab3495fd3282c7697db5fb86b2cbcc`
+Latest B19 page-layer endpoint:
+`123bdff3d39b248639f217216f112067e8ca0782`
 
-Latest durable B18 progress commit:
-`3342dcf878f72692bfa86b19f4b73e8ea56fc434`
+Latest durable B19 progress commit:
+`a532ba40528a9228f25087e75a0644a349990b0f`
 
 ## Current gate
 
 **Gate B — Gemini-locked structural fidelity.**
-
-Normal batch: **25 physical scans**.
 
 Authority split:
 - Gemini File1–File10 — locked lexical wording
 - PDF scan — physical-page and structural authority
 - repository — preservation layer
 
-## Durable notes that must not regress
+## Durable mapping exceptions that must not regress
 
-- scans **413–424** expose a File9 segmentation/replacement anomaly: File9 Book Pages 401–412 are not reliable one-to-one lexical blocks.
-- File9 Phase 20 advertises Book Pages **413–438 / PDF 426–450**, but the supplied payload actually stops at **Page 425**.
-- usable File9 Page **414–425** blocks cover physical scans **426–437**; physical scans **438–450** have no File9 lexical block.
-- for scans **438–450**, existing source-aligned repository wording was retained and the PDF was used only for physical/structural review; no synthetic lexical mapping was created.
-- scan **430** omits source-visible `துடிப்பதாய்ச்` because File9 does not lock that token.
-- scan **431** omits source-visible `இவ்வாறு` because File9 does not lock that token.
-- scan **430** records File9 `விரைந்தோடிிட` as an obvious in-token extraction duplication and does not promote it over the existing usable Tamil form.
-- scan **448** received punctuation-only structural repair: `களிப்பும்,,` → `களிப்பும்,`.
-- scan **425** divider authority remains `ஒருதலைக் காதல்`.
-- earlier durable correction remains: scan **359** is mixed text/illustration, not illustration-only.
+- File9 scans **413–424**: demonstrated segmentation/replacement anomaly.
+- File9 B18 tail: scans **438–450** have no usable File9 lexical block.
+- File10 B19:
+  - physical scans **451–461** map to File10 comments **439–449**;
+  - File10 Page **449** is reliable only through `இனி ஆற்றுவதுதான் எவ்வாறு தோழி?`; its tail is replacement material;
+  - physical scan **462 / printed 450** has no reliable File10 lexical block;
+  - physical scans **463–468** map to File10 comments **450–455**;
+  - File10 Page **456** is a phantom `(Image Page)` with no corresponding physical scan;
+  - physical scans **469–475** realign to File10 comments **457–463**.
+- malformed extraction tokens documented in B19 must not be promoted: `மிகக்குடிக்குமோ`, `புக்பாட்டு`, `போட்டுடைட்டதேனோ`, stray `ற`, stray `தன்`.
+- earlier durable mixed-page correction remains: scan **359** is mixed text/illustration.
 
-## Exact next activity — B19
+## Exact next activity — B20 final remainder
 
-Process **Gate B scans 451–475**.
+Process **Gate B scans 476–497 / 22 scans** in one final Gate-B batch.
 
 Use:
 - controlling PDF — `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf`
 - Gemini lexical lock — `File10.md`
 
 Mapping:
-- split-PDF pages **1–25 = physical scans 451–475**
+- split-PDF pages **26–47 = physical scans 476–497**
 
 Expected canonical page range:
-`works/sangatamil/pages/0451-*.md` through `0475-*.md`.
+`works/sangatamil/pages/0476-*.md` through `0497-*.md`.
 
-Resolve File10's internal page-comment mapping against the PDF before applying lexical wording. Gemini comment labels are navigation aids, not physical scan authority. If a block is demonstrably duplicated, shifted, replaced, or missing, document the defect and retain the same no-synthetic-alignment rule rather than inventing a lexical mapping.
+For each scan, resolve File10's actual content against the physical PDF before applying locked wording. Do not assume comment labels remain reliable merely because the B19 tail realigned. If another block is missing, duplicated, replaced, shifted, or phantom, document it and preserve the no-synthetic-alignment rule.
 
-At batch close: update `STRUCTURAL_FIDELITY_PROGRESS.md`, audit page-only changes, synchronize operational docs, and stop with expected frontier **476**.
+At batch close:
+1. audit the B20 page-only change set;
+2. update `STRUCTURAL_FIDELITY_PROGRESS.md`;
+3. synchronize operational current-state docs;
+4. declare Gate B **COMPLETE / PASS — 497/497 structurally reviewed** if all 22 scans close cleanly;
+5. record Gate C as the next gate.
 
-**Do not start Gate C.**
+**Do not start Gate C in the B20 execution.**

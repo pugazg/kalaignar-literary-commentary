@@ -98,20 +98,22 @@ Historical/superseded methodology files must be clearly labelled historical and 
 Gate A — **COMPLETE / PASS**: 497/497 canonical page records; 0 duplicate aliases; 0 missing scans.
 
 Gate B — **IN PROGRESS**:
-- B01–B18 complete
-- structurally reviewed — **450/497**
-- remaining — **47**
-- frontier — **scan 451**
-- latest B18 page-layer endpoint — `0b77065c14ab3495fd3282c7697db5fb86b2cbcc`
-- latest durable B18 progress commit — `3342dcf878f72692bfa86b19f4b73e8ea56fc434`
+- B01–B19 complete
+- structurally reviewed — **475/497**
+- remaining — **22**
+- frontier — **scan 476**
+- latest B19 page-layer endpoint — `123bdff3d39b248639f217216f112067e8ca0782`
+- latest durable B19 progress commit — `a532ba40528a9228f25087e75a0644a349990b0f`
 - Gate C — **NOT STARTED**
 
-Durable extraction exceptions:
+Durable extraction/mapping exceptions:
 - File9 Book Pages **401–412** are not reliable one-to-one lexical blocks for physical scans **413–424**.
-- File9 Phase 20 advertises Book Pages **413–438**, but its supplied payload ends at **Page 425**. Usable Page 414–425 blocks cover scans **426–437**; scans **438–450** have no File9 lexical block and must not receive a synthetic mapping.
+- File9 Phase 20 stops at Page 425; scans **438–450** have no File9 lexical block.
+- File10 Page **449** becomes replacement material after its reliable prefix; scan **462 / printed 450** has no reliable File10 lexical block.
+- File10 comments **450–455** map to scans **463–468**; File10 Page **456** is a phantom image marker; mapping realigns at Page 457 / scan 469.
 
 Durable mixed-page correction: scan **359** is mixed text/illustration, not illustration-only.
 
 ### Exact next activity
 
-Process Gate B B19 scans **451–475** using `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` + `File10.md`. Resolve File10 comment mapping against the PDF before applying the lock. Expected next frontier after B19: **scan 476**. Do not start Gate C.
+Process Gate B B20 final remainder scans **476–497** using split-PDF pages **26–47** of `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` + `File10.md`. Expected result: Gate B **497/497 COMPLETE**. Do not start Gate C in the same batch.

@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed 2026-09-16: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gate B B01–B18 is COMPLETE through scan 450 with frontier scan 451.
+Last refreshed 2026-09-16: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gate B B01–B19 is COMPLETE through scan 475 with frontier scan 476.
 
 ## Repository
 
@@ -21,9 +21,9 @@ Completed benchmark retained: `works/thirukkural/`
 
 The latest durable Sangath Tamil progress checkpoint recorded in this handover is:
 
-3342dcf878f72692bfa86b19f4b73e8ea56fc434 — sangatamil: Record Gate B B18 progress
+a532ba40528a9228f25087e75a0644a349990b0f — sangatamil: Record Gate B B19 progress
 
-B18 page-layer endpoint: 0b77065c14ab3495fd3282c7697db5fb86b2cbcc.
+B19 page-layer endpoint: 123bdff3d39b248639f217216f112067e8ca0782.
 
 Durable B15 mixed-page repair commit: 6525498cd8e14871575e9ae0203060af2fe4450a — scans 358–359 are mixed text/illustration; scan 359 must not regress to illustration-only.
 
@@ -45,9 +45,9 @@ Gate A: **COMPLETE / PASS**.
 
 Current gate: **Gate B — Gemini-locked structural fidelity**.
 
-Durable Gate-B state: **450/497 structurally reviewed / 47 remaining / frontier scan 451 / Gate C NOT STARTED**.
+Durable Gate-B state: **475/497 structurally reviewed / 22 remaining / frontier scan 476 / Gate C NOT STARTED**.
 
-Exact next activity: **B19 scans 451–475** using `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` for structure/presentation and `File10.md` for locked lexical wording, after resolving its internal comment mapping against the PDF.
+Exact next activity: **B20 final remainder scans 476–497** using split-PDF pages 26–47 of `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` for structure/presentation and `File10.md` for locked lexical wording.
 
 ## Mandatory startup — active சங்கத் தமிழ் work
 
@@ -110,7 +110,7 @@ Current pair after B18:
 - TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf
 - File10.md
 
-Current B19 target: physical scans 451–475 (split-PDF pages 1–25).
+Current B20 target: physical scans 476–497 (split-PDF pages 26–47).
 
 Gemini page comments are navigation aids only; they do not establish physical scan numbering. The scan does.
 
@@ -181,20 +181,22 @@ Durable B17 exception: File9 Book Pages 401–412 are not reliable one-to-one le
 
 Durable B18 exception: File9 Phase 20 advertises Book Pages 413–438 but the supplied payload ends at Page 425. Usable Page 414–425 blocks cover scans 426–437; scans 438–450 have no File9 lexical block and were structurally reviewed without synthetic lexical alignment.
 
+Durable B19 exception: File10 Page 449 becomes replacement material after a reliable prefix; scan 462 / printed 450 has no reliable File10 block; comments 450–455 are shifted across scans 463–468; Page 456 is a phantom image marker; mapping realigns at Page 457 / scan 469.
+
 # Exact next activity — சங்கத் தமிழ்
 
 In a fresh Sangath Tamil chat:
 
 1. fetch live main
 2. read the active controls listed above
-3. confirm STRUCTURAL_FIDELITY_PROGRESS.md still shows frontier 451
+3. confirm STRUCTURAL_FIDELITY_PROGRESS.md still shows frontier 476
 4. resolve TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf + File10.md
-5. resolve File10 comment mapping against the PDF and process Gate B B19 scans 451–475 under the Gemini-lock/PDF-structure authority split
+5. process Gate B B20 final remainder scans 476–497, resolving File10 mapping scan by scan under the Gemini-lock/PDF-structure authority split
 6. audit batch base → page-layer endpoint
 7. update the progress record separately
-8. synchronize the operational current-state docs so no obsolete frontier remains
+8. synchronize operational docs and close Gate B at 497/497 if all scans pass
 
-Expected next frontier after B19: scan 476.
+Expected result after B20: Gate B COMPLETE / PASS. Do not start Gate C in the same execution.
 
 Do not restart Pass 1. Do not resume the discontinued scan-led lexical Pass 2. Do not start Gate C early.
 
