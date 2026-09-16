@@ -8,7 +8,7 @@ Only source-supported citations are entered. External editions must not silently
 
 The canonical execution plan is `../PRODUCTIVE_COMPLETION_PLAN.md`; lexical policy is `../GEMINI_TEXT_LOCK.md`; live progress is `../STRUCTURAL_FIDELITY_PROGRESS.md`.
 
-During the current Gate-B workflow, legitimate Gemini wording remains lexically locked while the scan controls physical/structural placement of quotation, provenance and பொருள் விளக்கம் blocks. This register is not a license to source-correct page lexical wording during Gate B.
+Gate B and Gate D are closed. Legitimate Gemini wording remains lexically locked while the scan-controlled physical placement of quotation, provenance and `பொருள் விளக்கம்` blocks is preserved. This register is not a license to source-correct page lexical wording.
 
 A Stage-0 regression pilot found substantive text errors in scan 36 despite its earlier `verified` status. The scan-36 citation remains source-located, but its status is reopened pending the systematic Pass 2 textual and Pass 6 provenance audits.
 
@@ -37,7 +37,7 @@ The systematic whole-volume provenance activity is **Gate F — Sangam provenanc
 
 ## Current execution boundary
 
-Physical page capture is complete for **497/497 scans** and Gate A hygiene is closed. Gate B has structurally reviewed **425/497** scans with frontier **426**; citation-register completion remains deferred to **Gate F**.
+Physical page capture is complete for **497/497 scans**; Gate A, Gate B and Gate D are closed. Gate E section reconstruction is active next; citation-register completion remains deferred to **Gate F**.
 
 
 B17 extraction note: File9 Book Pages **401–412** are not reliable one-to-one lexical blocks for physical scans **413–424**; provenance closure remains deferred to Gate F rather than inferred from the broken extraction.
