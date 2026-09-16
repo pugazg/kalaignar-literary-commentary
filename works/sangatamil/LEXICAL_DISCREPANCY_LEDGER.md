@@ -522,3 +522,75 @@ At C08 close:
 2. verify **0 canonical page files changed**;
 3. advance the Gate-C frontier to **scan 201**;
 4. do not start Gate C2.
+
+
+# C08 — scans 176–200
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-16**
+- audited scans: **176–200 / 25**
+- controlling source: user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_004_pages_151-200.pdf`, split pages **26–50**
+- direct Gemini lexical witness: user-supplied `File4.md`, matching continuation material for physical scans **176–200**
+- locked comparison layer: current canonical page records under `works/sangatamil/pages/`
+- substantive discrepancy records: **7**
+- scans containing discrepancies: **5**
+- scans with no new substantive lexical discrepancy: **20**
+- canonical page files changed: **0**
+- Gate C2 corrections: **0**
+
+Clean / no-new-substantive-discrepancy scans:
+
+**176–179, 181–187, 189–191, 193–194, 196–198, 200**
+
+Special handling:
+- scans **176, 184, 190, 194, 200** are full-page illustrations and contain no literary body text;
+- known File4 extraction debris already excluded during Gate B — scan 177 numeric `10000`, scan 178 `CC`, scan 181 numeric `6`, scan 182 numeric `66`, scan 183 bullet/page-furniture debris, scan 185 `2` / `...` / `00` / `64`, scan 188 `கு` / duplicated `ரத்து` / `66`, scan 191 duplicate `66`, scan 192 trailing Markdown `**`, scan 193 duplicate `என்`, scan 195 merged printed page number `182`, and scan 199 merged printed page number `186` — was not re-entered as Gate-C lexical discrepancy;
+- scan **197** preserves File4's spaced `என் றூழ்`; this is treated as presentation/segmentation of the source lexical sequence `என்றூழ்`, not as a substantive Gate-C discrepancy;
+- punctuation-only, spacing, line-wrap, running-header/footer and purely structural differences were excluded unless they changed lexical content.
+
+## C08 discrepancy records
+
+| ID | Scan | Printed page | Canonical page | Locked File4 / repository wording | Source-visible wording | Classification | Gate-B exception already documented? | Notes |
+|---|---:|---:|---|---|---|---|---|---|
+| C08-001 | 180 | 167 | `0180-neermagal-neerinum-kulirndha-nenjam-06.md` | quotation `... வானி நீரினும் தீந்தன் சாயலன் ...` | `... வானி நீரினும் தீந்தண் சாயலன் ...` | `likely-gemini-error` | no | File4 changes the final retroflex `ண்` of `தீந்தண்` to dental `ன்`. The immediately following source glossary also explains `தீந்தண் சாயலன்`; canonical quote remains locked. |
+| C08-002 | 188 | 175 | `0188-aval-neelamagal-avan-mazhaiyaanan-01.md` | body heading `அவள் நிலமானாள்; அவன் மழையானன்!` | decorative/source heading `அவள் நிலமானாள்; அவன் மழையானான்!` | `likely-gemini-error` | **yes — B08** | Gate B already recorded the metadata/body authority split: source section identity uses `மழையானான்!`, while File4 body locks `மழையானன்!`. |
+| C08-003 | 192 | 179 | `0192-aval-neelamagal-avan-mazhaiyaanan-05.md` | `அறிந்திட விருமபாமலே அறிமுகமானோம்!` | `அறிந்திட விரும்பாமலே அறிமுகமானோம்!` | `likely-gemini-error` | no | File4 omits the `்`/consonant sequence needed for source `விரும்பாமலே`, yielding malformed `விருமபாமலே`. |
+| C08-004 | 195 | 182 | `0195-aatchiyum-maatchiyum-03.md` | `முடி புனைந்த முத்தோர் மறைந்து; அவர்` | `முடி புனைந்த மூத்தோர் மறைந்து; அவர்` | `likely-gemini-error` | no | The source-visible prose uses `மூத்தோர்`; File4 shortens the long vowel to `முத்தோர்`. The following Sangam quotation also contains `மூத்தோர்`, but Gate C records only the source-visible disagreement on scan 195. |
+| C08-005 | 199 | 186 | `0199-parambumalaip-paavendhar-02.md` | `கிழங்களின் குறும்புதான் என்னே...` | `கிழங்குகளின் குறும்புதான் என்னே...` | `likely-gemini-error` | no | File4 drops `ங்கு` from the source-visible `கிழங்குகளின்`; the surrounding sentence continues with `கிழங்கினை வள்ளியென்றே...`. |
+| C08-006 | 199 | 186 | `0199-parambumalaip-paavendhar-02.md` | Purananuru 109 quotation `தீஞ்சுனைப் பலவின் பழம்` | `தீஞ்சுளைப் பலவின் பழம்` | `likely-gemini-error` | no | File4 reads `ன` where the printed quotation shows `ள`. No source correction is promoted. |
+| C08-007 | 199 | 186 | `0199-parambumalaip-paavendhar-02.md` | `கலைஉளமும் பெற்றதாலே கபிலர்க்கு உயிரே ஆனான்` | `கலைவளமும் பெற்றதாலே கபிலர்க்கு உயிரே ஆனான்` | `likely-gemini-error` | no | The source-visible parallel sequence is `மலைவளமும் மனவளமும் ... கலைவளமும்`; File4 drops the `வ` in the final compound. |
+
+## C08 closure audit
+
+C08 is an **audit-only closure**.
+
+- source scans **176–200** were inspected against the direct File4 witness and preserved canonical lock;
+- **7** substantive discrepancy records were entered;
+- **0** canonical page records were edited;
+- no Gate-B page was reopened;
+- no lexical correction was promoted;
+- wording state remains **Gemini-lexical-locked / not word-for-word scan verified**.
+
+## Gate C cumulative state after C08
+
+- completed Gate-C batches: **C01–C08**
+- audited scans: **200/497**
+- cumulative substantive discrepancy records: **47**
+- remaining scans: **297**
+- next frontier: **scan 201**
+- Gate C2: **NOT STARTED / NOT AUTHORIZED**
+
+## Exact next activity
+
+Process **Gate C C09 — scans 201–225**.
+
+Required source pair:
+- controlling PDF covering physical scans **201–225**;
+- matching direct Gemini lexical witness `File5.md` when available; otherwise current canonical wording remains the preserved Gemini-lock comparison layer.
+
+At C09 close:
+1. append only substantive lexical discrepancies to this ledger;
+2. verify **0 canonical page files changed**;
+3. advance the Gate-C frontier to **scan 226**;
+4. do not start Gate C2.
