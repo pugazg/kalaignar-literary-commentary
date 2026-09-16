@@ -1923,3 +1923,178 @@ Resolve File10's internal page-comment mapping against the PDF before applying t
 Expected frontier after B19: **scan 476**.
 
 **Do not start Gate C.**
+
+
+## Batch B19 — scans 451–475
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-16**
+- scans reviewed: **451–475 / 25**
+- controlling source: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf`
+- lexical lock used: `File10.md` where a reliable lexical block exists
+- batch base: `96f69900750dc7d3ba6b0248d7c8472ebad26763`
+- page-layer endpoint: `123bdff3d39b248639f217216f112067e8ca0782`
+- page-layer commits: `8b1c83c6837658de32dccf273b3544ba71fb9a99`, `123bdff3d39b248639f217216f112067e8ca0782`
+- changed page records: **16**
+- reviewed with no page-record change: **9** — scans **453, 457, 459, 462, 464, 465, 466, 471, 475**
+- File10-locked lexical readings restored: **25**
+- scan-led lexical corrections / modernizations: **0**
+- unresolved structural placement issues: **0**
+
+### File10 mapping / segmentation reconciliation
+
+The File10 comment labels cannot be treated as physical scan numbers. B19 resolved them against the PDF before applying the lexical lock.
+
+Reliable mapping used:
+
+- physical scans **451–461** map to File10 comments **439–449**;
+- File10 Page **449** is only reliable through the end of the Narkannai verse explanation (`இனி ஆற்றுவதுதான் எவ்வாறு தோழி?`); after that point the block is replaced by unrelated earlier material and is not used as a lexical authority;
+- physical scan **462 / printed 450** has **no reliable File10 lexical block** and is preserved from the source-aligned repository layer after PDF structural review;
+- physical scans **463–468** map to File10 comments **450–455** because the comment labels are shifted by one across that interval;
+- File10 Page **456** is a phantom `(Image Page)` with no corresponding physical scan between 468 and 469 and is ignored;
+- physical scans **469–475** realign to File10 comments **457–463**.
+
+No synthetic lexical alignment was created for the missing/replaced material.
+
+### Gate-B reconciliation performed
+
+1. **scan 451**
+   - restored File10-locked `சோழன்` and `அவனை`;
+   - excluded stray File10 fragment `ற` before `கொடி` as extraction debris.
+
+2. **scan 452**
+   - restored File10-locked `தடுக்கின்றோள் அன்னையென்று`;
+   - retained PDF-controlled placement of the surrounding sentence.
+
+3. **scan 454**
+   - restored File10-locked `கின்னியென்னையும்`.
+
+4. **scan 455**
+   - restored File10-locked `காதலரிருவர்`, `தவறாலே`, and `இன்பமெலாம்`.
+
+5. **scan 456**
+   - restored File10-locked `யாருக்குப்` and `நேரமில்லை`;
+   - retained source-aligned `கிடக்குமோ` because File10 `மிகக்குடிக்குமோ` is a malformed extraction compound rather than a usable locked reading.
+
+6. **scan 458**
+   - restored File10-locked `தேவைதானா` and `உருக்கிவிட்ட`;
+   - retained source/PDF placement of `என்று`, which File10 displaces later in the block.
+
+7. **scan 460**
+   - restored File10-locked `கன்னியெனைப்`;
+   - retained usable `புகழ்பாட்டு` because File10 `புக்பாட்டு` is an in-token extraction loss.
+
+8. **scan 461**
+   - restored the reliable File10-prefix reading `நோயினால்`;
+   - after `இனி ஆற்றுவதுதான் எவ்வாறு தோழி?`, the File10 Page-449 block becomes replacement material, so the remainder of the source-aligned repository page was preserved without synthetic lock mapping.
+
+9. **scan 462**
+   - visually reviewed against the PDF;
+   - no reliable File10 lexical block exists for this physical page;
+   - quotation / provenance / `பொருள் விளக்கம்` structure remains source-aligned and unchanged.
+
+10. **scan 463**
+    - using shifted File10 Page 450, restored `கண்ணோளியைப்` and `ஒடிந்து`;
+    - omitted stray File10 `தன்` before `விட்டார்` as extraction debris.
+
+11. **scans 464–466**
+    - speaker-label placement and illustration structure were checked against the PDF;
+    - File10's displaced labels, stray `66` / `நான்`, and comment-number shift were treated as extraction/structure defects rather than lexical body text;
+    - no page-record changes were required.
+
+12. **scans 467–468**
+    - restored File10-locked `இறாமீனின்` / `சுறாமீனின்` in the prose rendering and `இறாமீன்` / `சுறாமீன்` in the glossary;
+    - PDF controls quotation/provenance/gloss placement.
+
+13. **scan 469**
+    - restored File10-locked `கன்னியுன்னை`;
+    - retained usable `போட்டுடைத்ததேனோ` because File10 `போட்டுடைட்டதேனோ` is a malformed in-token extraction error.
+
+14. **scan 470**
+    - restored File10-locked `கென்நிலை`;
+    - PDF-controlled placement of the displaced `ஒரு` remains unchanged.
+
+15. **scan 472**
+    - restored File10-locked `மதுவூரும்` and `போருக்கிளையா`.
+
+16. **scan 473**
+    - restored File10-locked `ஒலையில்`.
+
+17. **scan 474**
+    - restored File10-locked `கொள்கின்றேன்`;
+    - preserved PDF-controlled ordering of the two quoted citation/provenance blocks.
+
+18. **scan 475**
+    - quoted Sangam blocks, provenance, `பொருள் விளக்கம்`, and closing separator were already structurally aligned;
+    - no page-record change required.
+
+### Illustration handling confirmed
+
+- scans **453, 457, 465, 471** are full-page illustrations;
+- no source-visible literary body text or printed page number is present on those scans;
+- File10 Page **456** is an extraction-only phantom image marker and does not create another physical illustration record.
+
+### Locked extraction exceptions carried forward
+
+- scan **451** — stray File10 `ற` excluded.
+- scan **456** — malformed File10 `மிகக்குடிக்குமோ` not promoted over usable `கிடக்குமோ`.
+- scan **460** — malformed File10 `புக்பாட்டு` not promoted over usable `புகழ்பாட்டு`.
+- scan **461** — File10 Page 449 is reliable only through the first verse-explanation block; its tail is replacement material.
+- scan **462** — no reliable File10 lexical block.
+- scan **463** — stray File10 `தன்` excluded.
+- scans **464–466** — shifted/displaced File10 speaker labels and extraction debris are structural exceptions.
+- scan **469** — malformed File10 `போட்டுடைட்டதேனோ` not promoted.
+- File10 Page **456** — phantom image marker with no corresponding physical scan.
+
+## Exact changed-file audit — Batch B19
+
+Page-layer compare:
+
+`96f69900750dc7d3ba6b0248d7c8472ebad26763` → `123bdff3d39b248639f217216f112067e8ca0782`
+
+Result:
+
+- **2 commits ahead**
+- **exactly 16 modified page files**
+- **0 other page files**
+- **0 non-page files at the page-layer endpoint**
+
+Exact page-file set:
+
+- `works/sangatamil/pages/0451-oruthalaik-kaadhal-05-01.md`
+- `works/sangatamil/pages/0452-oruthalaik-kaadhal-05-02.md`
+- `works/sangatamil/pages/0454-oruthalaik-kaadhal-05-03.md`
+- `works/sangatamil/pages/0455-oruthalaik-kaadhal-05-04.md`
+- `works/sangatamil/pages/0456-oruthalaik-kaadhal-06-01.md`
+- `works/sangatamil/pages/0458-oruthalaik-kaadhal-06-02.md`
+- `works/sangatamil/pages/0460-oruthalaik-kaadhal-06-04.md`
+- `works/sangatamil/pages/0461-oruthalaik-kaadhal-06-05.md`
+- `works/sangatamil/pages/0463-oruthalaik-kaadhal-07-01.md`
+- `works/sangatamil/pages/0467-oruthalaik-kaadhal-07-04.md`
+- `works/sangatamil/pages/0468-oruthalaik-kaadhal-07-05.md`
+- `works/sangatamil/pages/0469-oruthalaik-kaadhal-08-01.md`
+- `works/sangatamil/pages/0470-oruthalaik-kaadhal-08-02.md`
+- `works/sangatamil/pages/0472-oruthalaik-kaadhal-08-03.md`
+- `works/sangatamil/pages/0473-oruthalaik-kaadhal-08-04.md`
+- `works/sangatamil/pages/0474-oruthalaik-kaadhal-08-05.md`
+
+This B19 progress-record update is the sole intended non-page change immediately after the page-layer endpoint.
+
+## Gate B cumulative state after B19
+
+- completed batches: **B01–B19**
+- structurally reviewed: **475/497**
+- structurally remaining: **22**
+- current frontier: **scan 476**
+- Gate C: **NOT STARTED**
+
+## Exact next activity
+
+Process **Gate B B20 — final remainder scans 476–497** using `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` + `File10.md`.
+
+Mapping: split-PDF pages **26–47 = physical scans 476–497**.
+
+Resolve File10's comment mapping against each physical scan before applying the lexical lock. Do not assume a one-to-one label mapping if further segmentation/replacement defects appear.
+
+Expected result after B20: **Gate B 497/497 structurally reviewed / COMPLETE**, frontier moves to **Gate C**, but **do not start Gate C in B20 unless explicitly instructed after Gate-B closure**.
