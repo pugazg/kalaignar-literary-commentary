@@ -255,22 +255,23 @@ Current durable state — **2026-09-16**:
 - latest B20 page-layer endpoint — `e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c`
 - Gate-B closure / durable B20 progress commit — `90caaeb3bd92201a75d45f617727721b9c3e0df7`
 - wording state — **Gemini-lexical-locked; not word-for-word scan verified**
-- Gate C C01–C15 — **COMPLETE / PASS**
-- Gate-C audited — **375/497**
-- Gate-C remaining — **122**
-- Gate-C frontier — **scan 376**
-- latest Gate-C ledger commit — `05ee151d61cd8a26f28a5861e5dd9f923c9ee698`
-- C15 substantive discrepancy records — **10**
-- cumulative Gate-C discrepancy records — **89**
+- Gate C C01–C16 — **COMPLETE / PASS**
+- Gate-C audited — **400/497**
+- Gate-C remaining — **97**
+- Gate-C frontier — **scan 401**
+- latest Gate-C ledger commit — `f171f2ce69ffe21b89a3f381390753c577ee692a`
+- C16 substantive discrepancy records — **3**
+- cumulative Gate-C discrepancy records — **92**
 - Gate C2 — **NOT STARTED / NOT AUTHORIZED**
 
 Durable Gate-B extraction/mapping exceptions remain recorded in `STRUCTURAL_FIDELITY_PROGRESS.md`; do not reopen Gate B merely to source-correct lexical wording.
 
-Exact next activity: **Gate C C16 — scans 376–400**.
+Exact next activity: **Gate C C17 — scans 401–425**.
 
 Available direct source pair:
-- user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf`, split pages **26–50** / physical scans **376–400**;
-- user-supplied `File8.md`, Book Pages **364–388**.
+- user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf`, split pages **1–25** / physical scans **401–425**;
+- user-supplied `File9.md`, Phase 19 / Book Pages **389–413**.
+- scans **413–424** have a documented File9 segmentation/replacement anomaly; do not fabricate one-to-one lexical mapping.
 
 Gate C remains audit-only:
 - append substantive discrepancies to `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`;

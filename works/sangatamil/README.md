@@ -31,12 +31,13 @@ Gate C — IN PROGRESS:
 - C13 scans 301–325 — COMPLETE / PASS
 - C14 scans 326–350 — COMPLETE / PASS
 - C15 scans 351–375 — COMPLETE / PASS
-- audited — 375/497
-- remaining — 122
-- frontier — scan 376
-- cumulative discrepancy records — 89
+- C16 scans 376–400 — COMPLETE / PASS
+- audited — 400/497
+- remaining — 97
+- frontier — scan 401
+- cumulative discrepancy records — 92
 - mode — audit-only / no page-wording changes
-- latest ledger commit — 05ee151d61cd8a26f28a5861e5dd9f923c9ee698
+- latest ledger commit — f171f2ce69ffe21b89a3f381390753c577ee692a
 
 Latest B20 page-layer endpoint: e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c
 
@@ -79,4 +80,4 @@ Gate-B structural completion does not automatically promote a page to verified. 
 
 ## Exact next activity
 
-Process Gate C C16 — scans 376–400 using the already supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf` split pages 26–50 + `File8.md` Book Pages 364–388. Append substantive discrepancies to LEXICAL_DISCREPANCY_LEDGER.md, verify 0 canonical page changes, and advance frontier to scan 401. Do not start Gate C2.
+Process Gate C C17 — scans 401–425 using the already supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf` split pages 1–25 + `File9.md` Phase 19 / Book Pages 389–413. Scans 413–424 have a documented File9 segmentation/replacement anomaly; append only demonstrable substantive discrepancies, verify 0 canonical page changes, and advance frontier to scan 426. Do not start Gate C2.
