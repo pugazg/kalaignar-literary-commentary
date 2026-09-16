@@ -882,3 +882,78 @@ At C13 close:
 2. verify **0 canonical page files changed**;
 3. advance the Gate-C frontier to **scan 326**;
 4. do not start Gate C2.
+
+
+# C13 — scans 301–325
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-16**
+- audited scans: **301–325 / 25**
+- controlling source: user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_007_pages_301-350.pdf`, split pages **1–25**
+- direct Gemini lexical witness: user-supplied `File7.md`, Phase 16 / Book Pages **290–314**
+- locked comparison layer: current canonical page records under `works/sangatamil/pages/`
+- substantive discrepancy records: **7**
+- scans containing discrepancies: **6**
+- scans with no new substantive lexical discrepancy: **19**
+- canonical page files changed: **0**
+- Gate C2 corrections: **0**
+
+Clean / no-new-substantive-discrepancy scans:
+
+**301–303, 305–306, 308, 310–311, 314–320, 322–325**
+
+Special handling:
+- scans **301, 305, 311, 315, 319, 325** are full-page colour illustrations and contain no source-visible literary body text;
+- File7 Phase 16 omits the illustration-only physical pages, so Book Pages **290–314** map across physical scans **301–325** with those six source illustration gaps preserved;
+- known File7 extraction debris already excluded during Gate B — scan 302 numeric `6`, scan 303 heading numeric `2`, scan 306 page-wrapper fragment `ம` / checkbox-like marker, scan 316 page-wrapper fragment `கோன்` / numeric `66`, scan 317 glossary numeric `61`, scan 321 numeric `66`, and scan 323 displaced carryovers — was not re-entered as Gate-C discrepancy unless real lexical content was thereby lost;
+- scan **304** contains a repository-only omission: the second line of the File7/source quotation, `தாள் தாமரை தோள் தமனியக் கயமலர்`, is absent from the canonical page;
+- scan **307** contains a malformed mixed-script File7 token corresponding to a real source word; the canonical page omits the token because Gate B treated the malformed witness as extraction debris;
+- scan **321** contains a File7 omission of the second source-visible `இவ்வாறு`; the canonical page is source-aligned and retains it;
+- punctuation-only, spacing, line-wrap, running-header/footer and purely structural differences were excluded unless they materially altered lexical interpretation.
+
+## C13 discrepancy records
+
+| ID | Scan | Printed page | Canonical page | Locked File7 / repository wording | Source-visible / source-aligned wording | Classification | Gate-B exception already documented? | Notes |
+|---|---:|---:|---|---|---|---|---|---|
+| C13-001 | 304 | 292 | `0304-paripaadal-panmalar-poongaa-02.md` | canonical quotation ends this scan with `ஆயிதழ் உண்கண் அலர் முகத் தாமரை` | File7 and source continue on the same scan with `தாள் தாமரை தோள் தமனியக் கயமலர்` | `repository-only-divergence` | no | The direct witness and scan agree on the complete two-line quotation opening, but the canonical page dropped the second line. Audit-only: no page repair is made here. |
+| C13-002 | 307 | 295 | `0307-paripaadal-panmalar-poongaa-05.md` | File7 `யாருக்கும் அடங்காமல் பிOPற்றங்கே!`; canonical omits the malformed token after `யாருக்கும் அடங்காமல்` | source reads `யாருக்கும் அடங்காமல் பிளிறிற்றங்கே!` | `likely-gemini-error` | **yes — B13** | File7's mixed-script corruption replaces a real lexical word. Gate B correctly refused to invent a recovery into the canonical layer; Gate C records the source disagreement without changing the page. |
+| C13-003 | 309 | 297 | `0309-murasu-kattilil-mosukeeranar-01.md` | decorative body heading `முரசு கட்டிலில் / மோசுகீானர்!` | source heading `முரசு கட்டிலில் / மோசுகீரனார்!` | `likely-gemini-error` | **yes — B13** | The source poet-name is clear; File7 corrupts the medial letters. Metadata/body authority split remains unchanged. |
+| C13-004 | 312 | 300 | `0312-murasu-kattilil-mosukeeranar-04.md` | `குளிர் சாமரம் வீசுகின்ற காட்சி என்னே? என்றர்ந்தார்` | source `குளிர் சாமரம் வீசுகின்ற காட்சி என்னே? என்றுயர்ந்தார்` | `likely-gemini-error` | **yes — B13** | File7 drops the `உய` sequence from the source verb. Canonical remains locked to File7. |
+| C13-005 | 312 | 300 | `0312-murasu-kattilil-mosukeeranar-04.md` | `நான் செய்த தொண்டு இஃதெ` | source `நான் செய்த தொண்டு இஃதே` | `likely-gemini-error` | **yes — B13** | File7 shortens the final long-vowel form. Canonical remains unchanged in Gate C. |
+| C13-006 | 313 | 301 | `0313-murasu-kattilil-mosukeeranar-05.md` | File7 quotation `அதூவும் சாலும், நற் றமிழ் முழுது அறிதல்;` | source/canonical `அதூவும் சாலும், நற் தமிழ் முழுது அறிதல்;` | `likely-gemini-error` | no | File7 introduces an extra initial `ற` into `தமிழ்`; the canonical page is already source-aligned. No page edit is needed. |
+| C13-007 | 321 | 309 | `0321-kal-unda-kaduvan-04.md` | File7 has the first `இவ்வாறு` before the paraphrase but goes directly from the paraphrase ending to `கபிலர் மலை நாட்டுச் செழுமையினை...` | source/canonical contain a second `இவ்வாறு` immediately before `கபிலர் மலை நாட்டுச் செழுமையினை...` | `likely-gemini-error` | no | The second transition word is source-visible but omitted by File7. The canonical page already preserves the source word. |
+
+## C13 closure audit
+
+C13 is an **audit-only closure**.
+
+- source scans **301–325** were visually inspected against the direct File7 witness and the preserved canonical layer;
+- **7** substantive discrepancy records were entered across **6** scans;
+- **0** canonical page records were edited;
+- no Gate-B page was reopened;
+- no lexical correction was promoted;
+- wording state remains **Gemini-lexical-locked / not word-for-word scan verified**.
+
+## Gate C cumulative state after C13
+
+- completed Gate-C batches: **C01–C13**
+- audited scans: **325/497**
+- cumulative substantive discrepancy records: **74**
+- remaining scans: **172**
+- next frontier: **scan 326**
+- Gate C2: **NOT STARTED / NOT AUTHORIZED**
+
+## Exact next activity
+
+Process **Gate C C14 — scans 326–350**.
+
+Available direct source pair:
+- user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_007_pages_301-350.pdf`, split pages **26–50** / physical scans **326–350**;
+- user-supplied `File7.md`, Phase 16 / Book Pages **314–338**.
+
+At C14 close:
+1. append only substantive lexical discrepancies to this ledger;
+2. verify **0 canonical page files changed**;
+3. advance the Gate-C frontier to **scan 351**;
+4. do not start Gate C2.
