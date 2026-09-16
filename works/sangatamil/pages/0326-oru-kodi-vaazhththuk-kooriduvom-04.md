@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; narrative continuation; quotation begins near foot of page; printed page number 314"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; visible page structure and quotation start checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini lexical scaffold with user-authorized C2 repository-divergence restoration"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 325
 ---
@@ -31,6 +31,7 @@ continues_from_scan: 325
 தினைச்சோறு;
 நண்டுகளின் வயிற்றில் உள்ள குஞ்சுகள்போல் தோன்றும் - அவள்
 மொண்டு ஊற்றும் பாலுடனே அதனைப் பருகலாம்”
+என்றார்!
 
 ஒரு
 காளானின் குடைபோலக் குவிந்த மத்துகொண்டு
@@ -52,3 +53,5 @@ continues_from_scan: 325
 > உறையமை தீந்தயிர் கலக்கி நுரைதெரிந்து
 > புகர்வாய்க் குழிசி பூஞ்சுமட் டிரீஇ
 > நாண்மோர் மாறு நன்மா மேனிச்
+
+<!-- C2-14: user-authorized repository-divergence repair restored source-visible `என்றார்!` immediately after the quoted `...அதனைப் பருகலாம்` passage. The already source-aligned `கடையும்போது கயிற்றால் எழுகின்ற ஒலியோ - ஒரு / காட்டில் உறுமுகின்ற புலிபோல...` remains unchanged. -->

@@ -23,7 +23,7 @@ Gate C is **audit-only**.
 
 ## Gate C2 superseding adjudication
 
-Gate C is a historical audit record. C2 disposition is now complete through **scan 325**: scans 1–125 and 151–325 were manually adjudicated, while scans 126–150 contain no Gate-C discrepancy records and required no page action. Those manual rulings supersede the earlier automated interpretation for correction decisions.
+Gate C is a historical audit record. C2 disposition is now complete through **scan 350**: scans 1–125 and 151–350 were manually adjudicated, while scans 126–150 contain no Gate-C discrepancy records and required no page action. Those manual rulings supersede the earlier automated interpretation for correction decisions.
 
 Durable Gate-C2 record: `C2_SOURCE_CORRECTION_PROGRESS.md`.
 
@@ -41,9 +41,10 @@ Important:
 - C2-11 scans **251–275 — COMPLETE / APPLIED**;
 - C2-12 scans **276–300 — COMPLETE / APPLIED**;
 - C2-13 scans **301–325 — COMPLETE / APPLIED**;
+- C2-14 scans **326–350 — COMPLETE / APPLIED**;
 - entries the user marks **Gemini is correct** are protected and must not be source-corrected;
 - scan **8** is a handwritten letter/facsimile and is description-only by user instruction;
-- scans **326–497 remain locked** and historical Gate-C rows for those scans are **not authorization to edit**.
+- scans **351–497 remain locked** and historical Gate-C rows for those scans are **not authorization to edit**.
 
 
 ## Execution note
@@ -1573,7 +1574,7 @@ Do **not** start Gate C2 unless explicitly authorized.
 
 ## Current Gate C2 state — 2026-09-16
 
-- C2 disposition coverage — **scans 1–325**
+- C2 disposition coverage — **scans 1–350**
 - C2-01 — **COMPLETE / APPLIED**
 - C2-02 — **COMPLETE / APPLIED**
 - C2-03 — **COMPLETE / APPLIED**
@@ -1587,7 +1588,8 @@ Do **not** start Gate C2 unless explicitly authorized.
 - C2-11 — **COMPLETE / APPLIED**
 - C2-12 — **COMPLETE / APPLIED**
 - C2-13 — **COMPLETE / APPLIED**
-- historical discrepancy records dispositioned through C13 — **74/140**
-- scans 326–497 — **LOCKED / NOT AUTHORIZED**
+- C2-14 — **COMPLETE / APPLIED**
+- historical discrepancy records dispositioned through C14 — **79/140**
+- scans 351–497 — **LOCKED / NOT AUTHORIZED**
 - correction authority — user's manual findings, not the historical Gate-C classification alone
 - durable correction record — `C2_SOURCE_CORRECTION_PROGRESS.md`

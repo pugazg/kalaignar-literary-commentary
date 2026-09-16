@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running work header; narrative continuation; printed page number 328"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 repository-divergence restoration"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 339
 ---
@@ -46,7 +46,7 @@ continues_from_scan: 339
 களத்தில் ஊடுருவும் யானைப்படையின் பின்னே
 வேல்கொண்ட வீரர் அறுத்தெடுத்த
 கோல் கொண்ட மன்னர்தம் தலையை அடுப்பாக்கி
-குருதிநீர் பொங்குகின்ற உலையில்
+குருதிநீர் பொங்குகின்ற உலையில் - போரில்
 கொலையுண்டோர் தசையினைக் கொதிக்க வைத்து
 தோள்களாம் துடுப்பு கொண்டு துழாவிய உணவால்
 வேள்வி நடத்துகின்ற பாண்டியனே!” என்று,
@@ -55,4 +55,4 @@ continues_from_scan: 339
 மாற்றார் எனும் பெயர் பெற்று - உன்னிடம்
 தோற்றார் எனினும்,
 
-<!-- Gate B uses the PDF as structural authority: locked `அவன்` and `உன்னிடம்` are returned to their physical positions, while File7-only `போரில்` and trailing wrapper fragment `கள` are excluded as unsupported extraction debris. -->
+<!-- C2-14: user-authorized repository-divergence repair restores source-visible `போரில்` after `குருதிநீர் பொங்குகின்ற உலையில் -`; `அவன்` and `உன்னிடம்` remain in their existing source-supported positions, while trailing wrapper debris remains excluded. -->

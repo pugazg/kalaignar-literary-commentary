@@ -19,10 +19,11 @@ The user explicitly opened C2 in manual batches and supplied adjudications that 
 - **C2-11 — scans 251–275**
 - **C2-12 — scans 276–300**
 - **C2-13 — scans 301–325**
+- **C2-14 — scans 326–350**
 
 The historical Gate-C ledger remains an audit record. Where the user's manual C2 adjudication disagrees with the earlier Gate-C interpretation, **the user's adjudication controls**.
 
-Scans **326–497 remain Gemini-lexical-locked** until the user supplies further instructions.
+Scans **351–497 remain Gemini-lexical-locked** until the user supplies further instructions.
 
 ## C2-01 — scans 1–25
 
@@ -222,18 +223,33 @@ C2-12 page files modified: **281, 288, 292, 294, 296**. Scan **290** required no
 
 C2-13 page files modified: **304, 307, 309, 312, 313**. Scan **321** required no page edit because the canonical page already preserves the second `இவ்வாறு`.
 
+
+## C2-14 — scans 326–350
+
+**Status: COMPLETE / APPLIED**
+
+| Gate-C ID | Scan | User adjudication | Repository action |
+|---|---:|---|---|
+| C14-001 | 326 | source visibly contains `என்றார்!` immediately after quoted `...அதனைப் பருகலாம்` — repository-only divergence / Gemini error | restored `என்றார்!` immediately after the quoted passage |
+| C14-002 | 326 | source/canonical `கடையும்போது கயிற்றால் எழுகின்ற ஒலியோ - ஒரு / காட்டில் உறுமுகின்ற புலிபோல...` — File7/Gemini error | no canonical change; repository already source-aligned |
+| C14-003 | 328 | source decorative heading `வீரனைப் பாடிய / சேரன்!` — Gemini error | replaced malformed body heading `வானைப் பாடிய / சோன்!` with exact source heading |
+| C14-004 | 331 | `படைக்கலன் தடுக்கும் அவன் கேடயம்தனையும்` — Gemini is correct | no change; protected |
+| C14-005 | 340 | source visibly contains `போரில்` after `குருதிநீர் பொங்குகின்ற உலையில் -` — repository-only divergence / Gemini error | restored `போரில்` at the user-authorized source position |
+
+C2-14 page files modified: **326, 328, 340**. C14-002 and C14-004 required no canonical edits.
+
 ## Cumulative C2 state
 
-- C2 disposition coverage — **325/497 scans** (C06 closed with 0 discrepancy records)
-- modified canonical page files — **45**
-- literary/source corrections applied — scans **7, 21, 28, 29, 35, 47, 51, 59, 64, 70, 77, 83, 96, 113, 123, 163, 165, 175, 188, 192, 195, 199, 208, 221, 223, 226, 230, 237, 240, 248, 254, 257, 281, 288, 292, 294, 296, 304, 307, 309, 312, 313**
+- C2 disposition coverage — **350/497 scans** (C06 closed with 0 discrepancy records)
+- modified canonical page files — **48**
+- literary/source corrections applied — scans **7, 21, 28, 29, 35, 47, 51, 59, 64, 70, 77, 83, 96, 113, 123, 163, 165, 175, 188, 192, 195, 199, 208, 221, 223, 226, 230, 237, 240, 248, 254, 257, 281, 288, 292, 294, 296, 304, 307, 309, 312, 313, 326, 328, 340**
 - facsimile-description policy applied — scan **8**
 - stale divergence / section-title metadata cleaned without body change — scans **40, 112**
-- protected Gemini-correct findings — scans **5, 9, 11, 13, 19, 29, 39, 40, 47, 53, 58, 64, 87, 96, 120, 174, 180, 199, 257, 274, 312, 313**
-- scans **326–497** — **LOCKED / C2 NOT AUTHORIZED**
+- protected Gemini-correct findings — scans **5, 9, 11, 13, 19, 29, 39, 40, 47, 53, 58, 64, 87, 96, 120, 174, 180, 199, 257, 274, 312, 313, 331**
+- scans **351–497** — **LOCKED / C2 NOT AUTHORIZED**
 - whole-volume word-for-word verification — **NOT CLAIMED**
 - Gate G — **DEFERRED**
 
 ## Next activity
 
-Wait for the user's C2 findings/instructions for **scans 326–350**. Do not modify that batch from the historical ledger alone.
+Wait for the user's C2 findings/instructions for **scans 351–375**. Do not modify that batch from the historical ledger alone.

@@ -8,12 +8,12 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "decorative multicolour section heading; metadata keeps source-visible identity `வீரனைப் பாடிய சேரன்!`; File7 locks body heading as `வானைப் பாடிய / சோன்!`; Bengali-like extraction debris excluded"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 heading restoration"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
-# வானைப் பாடிய
-# சோன்!
+# வீரனைப் பாடிய
+# சேரன்!
 
 தென்பெண்ணை ஆற்றின் கரையில் ஆண்ட
 திருமுடிக்காரியெனும் திருக்கோவலூர் மலையமானை
@@ -51,4 +51,4 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 தமிழ்நிலத்தை மட்டுமல்ல; அழியாத்
 தமிழ்வளமும் சேர்த்து ஆண்டான்!
 
-<!-- Gate B preserves the File7-locked decorative body heading `வானைப் பாடிய / சோன்!` while metadata retains the source-visible section identity `வீரனைப் பாடிய சேரன்!`; unsupported Bengali-like token `৩৩৩৩৩৩৩৩ত` is excluded as extraction debris. -->
+<!-- C2-14: user-authorized source heading restoration applied exactly as `வீரனைப் பாடிய / சேரன்!`; malformed File7 heading is superseded. Unsupported extraction debris remains excluded. -->
