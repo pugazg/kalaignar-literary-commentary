@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed 2026-09-15: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gate B B01–B17 is COMPLETE through scan 425 with frontier scan 426.
+Last refreshed 2026-09-16: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gate B B01–B18 is COMPLETE through scan 450 with frontier scan 451.
 
 ## Repository
 
@@ -21,9 +21,9 @@ Completed benchmark retained: `works/thirukkural/`
 
 The latest durable Sangath Tamil progress checkpoint recorded in this handover is:
 
-40e2c594a7a9f7f4baa88375b23e84d39c619235 — sangatamil: Correct B15 mixed-page audit / durable B16 progress state
+3342dcf878f72692bfa86b19f4b73e8ea56fc434 — sangatamil: Record Gate B B18 progress
 
-B16 page-layer endpoint: 93e96b379921a161ab1ca393708f6f4d71408c09.
+B18 page-layer endpoint: 0b77065c14ab3495fd3282c7697db5fb86b2cbcc.
 
 Durable B15 mixed-page repair commit: 6525498cd8e14871575e9ae0203060af2fe4450a — scans 358–359 are mixed text/illustration; scan 359 must not regress to illustration-only.
 
@@ -45,9 +45,9 @@ Gate A: **COMPLETE / PASS**.
 
 Current gate: **Gate B — Gemini-locked structural fidelity**.
 
-Durable Gate-B state: **425/497 structurally reviewed / 72 remaining / frontier scan 426 / Gate C NOT STARTED**.
+Durable Gate-B state: **450/497 structurally reviewed / 47 remaining / frontier scan 451 / Gate C NOT STARTED**.
 
-Exact next activity: **B18 scans 426–450** using the remainder of `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf` for structure/presentation and `File9.md` for locked lexical wording.
+Exact next activity: **B19 scans 451–475** using `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` for structure/presentation and `File10.md` for locked lexical wording, after resolving its internal comment mapping against the PDF.
 
 ## Mandatory startup — active சங்கத் தமிழ் work
 
@@ -105,12 +105,12 @@ Pass-1 physical capture is complete through **scan 497**.
 
 For page-level work in a fresh chat, resolve the split PDF and Gemini file required by the live frontier.
 
-Current pair after B16:
+Current pair after B18:
 
-- TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf
-- File9.md
+- TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf
+- File10.md
 
-Current B17 target: physical scans 401–425 (split-PDF pages 1–25).
+Current B19 target: physical scans 451–475 (split-PDF pages 1–25).
 
 Gemini page comments are navigation aids only; they do not establish physical scan numbering. The scan does.
 
@@ -179,20 +179,22 @@ Durable B15 correction: scan 359 is mixed text/illustration, not illustration-on
 
 Durable B17 exception: File9 Book Pages 401–412 are not reliable one-to-one lexical blocks for physical scans 413–424. Do not fabricate lexical alignment for them or similar broken blocks.
 
+Durable B18 exception: File9 Phase 20 advertises Book Pages 413–438 but the supplied payload ends at Page 425. Usable Page 414–425 blocks cover scans 426–437; scans 438–450 have no File9 lexical block and were structurally reviewed without synthetic lexical alignment.
+
 # Exact next activity — சங்கத் தமிழ்
 
 In a fresh Sangath Tamil chat:
 
 1. fetch live main
 2. read the active controls listed above
-3. confirm STRUCTURAL_FIDELITY_PROGRESS.md still shows frontier 401
-4. resolve TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf + File9.md
-5. process Gate B B17 scans 401–425 under the Gemini-lock/PDF-structure authority split
+3. confirm STRUCTURAL_FIDELITY_PROGRESS.md still shows frontier 451
+4. resolve TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf + File10.md
+5. resolve File10 comment mapping against the PDF and process Gate B B19 scans 451–475 under the Gemini-lock/PDF-structure authority split
 6. audit batch base → page-layer endpoint
 7. update the progress record separately
 8. synchronize the operational current-state docs so no obsolete frontier remains
 
-Expected next frontier after B17: scan 426.
+Expected next frontier after B19: scan 476.
 
 Do not restart Pass 1. Do not resume the discontinued scan-led lexical Pass 2. Do not start Gate C early.
 

@@ -243,19 +243,21 @@ Final declaration must distinguish one of two outcomes:
 
 **Gate B — Gemini-locked structural fidelity.**
 
-Current durable state — **2026-09-15**:
+Current durable state — **2026-09-16**:
 - Gate A — COMPLETE / PASS
 - canonical page records — 497/497
 - duplicate aliases — 0
 - missing scans — 0
-- Gate B B01–B17 — COMPLETE / PASS
-- structurally reviewed — **425/497**
-- remaining — **72**
-- frontier — **scan 426**
+- Gate B B01–B18 — COMPLETE / PASS
+- structurally reviewed — **450/497**
+- remaining — **47**
+- frontier — **scan 451**
 - Gate C — NOT STARTED
-- latest B17 page-layer endpoint — `6f56beb69657525a74f55dd08f0fffa6ce85e6f5`
-- latest durable B17 progress commit — `a57048627789246b18e6bff20f5937b16b206fa0`
+- latest B18 page-layer endpoint — `0b77065c14ab3495fd3282c7697db5fb86b2cbcc`
+- latest durable B18 progress commit — `3342dcf878f72692bfa86b19f4b73e8ea56fc434`
 
-Durable File9 exception: Book Pages 401–412 are mis-segmented/replaced for physical scans 413–424; do not fabricate lexical alignment.
+Durable File9 exceptions:
+- Book Pages 401–412 are mis-segmented/replaced for physical scans 413–424; do not fabricate lexical alignment.
+- Phase 20 advertises Book Pages 413–438 but the supplied payload ends at Page 425; usable Page 414–425 blocks cover physical scans 426–437, while scans 438–450 have no File9 lexical block and remain preservation-layer wording with PDF structural review only.
 
-Exact next activity: **Gate B B18 — scans 426–450**, using the remainder of `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf` + `File9.md`.
+Exact next activity: **Gate B B19 — scans 451–475**, using `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` + `File10.md`. Resolve File10 comment mapping against the PDF before applying the lock; expected frontier after B19 is **scan 476**.

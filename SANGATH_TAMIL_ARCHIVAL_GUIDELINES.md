@@ -93,23 +93,25 @@ Section/provenance derived indexes and section READMEs remain deferred to their 
 
 Historical/superseded methodology files must be clearly labelled historical and must not advertise an obsolete task as current.
 
-## 9. Current durable state — refreshed 2026-09-15
+## 9. Current durable state — refreshed 2026-09-16
 
 Gate A — **COMPLETE / PASS**: 497/497 canonical page records; 0 duplicate aliases; 0 missing scans.
 
 Gate B — **IN PROGRESS**:
-- B01–B17 complete
-- structurally reviewed — **425/497**
-- remaining — **72**
-- frontier — **scan 426**
-- latest B17 page-layer endpoint — `6f56beb69657525a74f55dd08f0fffa6ce85e6f5`
-- latest durable B17 progress commit — `a57048627789246b18e6bff20f5937b16b206fa0`
+- B01–B18 complete
+- structurally reviewed — **450/497**
+- remaining — **47**
+- frontier — **scan 451**
+- latest B18 page-layer endpoint — `0b77065c14ab3495fd3282c7697db5fb86b2cbcc`
+- latest durable B18 progress commit — `3342dcf878f72692bfa86b19f4b73e8ea56fc434`
 - Gate C — **NOT STARTED**
 
-Durable extraction exception: File9 Book Pages **401–412** are not reliable one-to-one lexical blocks for physical scans **413–424**. Gate B must document that defect rather than fabricate lexical alignment or source-rewrite those pages.
+Durable extraction exceptions:
+- File9 Book Pages **401–412** are not reliable one-to-one lexical blocks for physical scans **413–424**.
+- File9 Phase 20 advertises Book Pages **413–438**, but its supplied payload ends at **Page 425**. Usable Page 414–425 blocks cover scans **426–437**; scans **438–450** have no File9 lexical block and must not receive a synthetic mapping.
 
 Durable mixed-page correction: scan **359** is mixed text/illustration, not illustration-only.
 
 ### Exact next activity
 
-Process Gate B scans **426–450** using the remainder of `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf` + `File9.md`. Expected next frontier after B18: **scan 451**. Do not start Gate C.
+Process Gate B B19 scans **451–475** using `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` + `File10.md`. Resolve File10 comment mapping against the PDF before applying the lock. Expected next frontier after B19: **scan 476**. Do not start Gate C.

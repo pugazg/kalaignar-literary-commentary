@@ -2,7 +2,7 @@
 
 Source-first archival workspace for the 497-scan volume TVA_BOK_0042551_சங்கத்_தமிழ்.pdf.
 
-## Current state — 2026-09-15
+## Current state — 2026-09-16
 
 Gate A — COMPLETE / PASS:
 - canonical page records — 497/497
@@ -10,15 +10,15 @@ Gate A — COMPLETE / PASS:
 - missing scans — 0
 
 Gate B — IN PROGRESS:
-- completed batches — B01–B16
-- structurally reviewed — 400/497
-- remaining — 97
-- frontier — scan 401
+- completed batches — B01–B18
+- structurally reviewed — 450/497
+- remaining — 47
+- frontier — scan 451
 - Gate C — NOT STARTED
 
-Latest B16 page-layer endpoint: 93e96b379921a161ab1ca393708f6f4d71408c09
+Latest B18 page-layer endpoint: 0b77065c14ab3495fd3282c7697db5fb86b2cbcc
 
-Latest durable B16 progress checkpoint: 40e2c594a7a9f7f4baa88375b23e84d39c619235
+Latest durable B18 progress checkpoint: 3342dcf878f72692bfa86b19f4b73e8ea56fc434
 
 B15 mixed-page repair preserved: 6525498cd8e14871575e9ae0203060af2fe4450a — scans 358–359 are mixed text/illustration records; scan 359 must not regress to illustration-only.
 
@@ -57,6 +57,6 @@ Gate-B structural completion does not automatically promote a page to verified. 
 
 ## Exact next activity
 
-Process Gate B B17 — scans 401–425 using TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf + File9.md.
+Process Gate B B19 — scans 451–475 using TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf + File10.md. Resolve File10 comment mapping against the PDF before applying the lexical lock.
 
 At batch close, update STRUCTURAL_FIDELITY_PROGRESS.md and synchronize the operational current-state documents so the frontier does not become stale.
