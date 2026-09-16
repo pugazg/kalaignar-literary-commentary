@@ -9,16 +9,20 @@ Gate A — COMPLETE / PASS:
 - duplicate aliases — 0
 - missing scans — 0
 
-Gate B — IN PROGRESS:
-- completed batches — B01–B19
-- structurally reviewed — 475/497
-- remaining — 22
-- frontier — scan 476
-- Gate C — NOT STARTED
+Gate B — COMPLETE / PASS:
+- completed batches — B01–B20
+- structurally reviewed — 497/497
+- remaining — 0
+- unresolved structural placement issues — 0
 
-Latest B19 page-layer endpoint: 123bdff3d39b248639f217216f112067e8ca0782
+Gate C — NOT STARTED:
+- next batch — C01
+- next range — scans 1–25
+- mode — audit-only / no page-wording changes
 
-Latest durable B19 progress checkpoint: a532ba40528a9228f25087e75a0644a349990b0f
+Latest B20 page-layer endpoint: e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c
+
+Gate-B closure / latest durable B20 progress checkpoint: 90caaeb3bd92201a75d45f617727721b9c3e0df7
 
 B15 mixed-page repair preserved: 6525498cd8e14871575e9ae0203060af2fe4450a — scans 358–359 are mixed text/illustration records; scan 359 must not regress to illustration-only.
 
@@ -57,6 +61,4 @@ Gate-B structural completion does not automatically promote a page to verified. 
 
 ## Exact next activity
 
-Process Gate B B20 — final scans 476–497 using split-PDF pages 26–47 of TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf + File10.md. Resolve File10 mapping scan by scan; close Gate B at 497/497 if all scans pass, and do not start Gate C in the same batch.
-
-At batch close, update STRUCTURAL_FIDELITY_PROGRESS.md and synchronize the operational current-state documents so the frontier does not become stale.
+Start Gate C C01 — scans 1–25. Use File1.md + controlling source scans 1–25 and record substantive lexical discrepancies in LEXICAL_DISCREPANCY_LEDGER.md. Gate C is audit-only: do not modify canonical page wording, and do not start Gate C2 without explicit authorization.

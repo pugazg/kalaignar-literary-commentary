@@ -241,26 +241,29 @@ Final declaration must distinguish one of two outcomes:
 
 ## Current active gate
 
-**Gate B — Gemini-locked structural fidelity.**
+**Gate C — lexical discrepancy audit under the current lock.**
 
 Current durable state — **2026-09-16**:
 - Gate A — COMPLETE / PASS
 - canonical page records — 497/497
 - duplicate aliases — 0
 - missing scans — 0
-- Gate B B01–B19 — COMPLETE / PASS
-- structurally reviewed — **475/497**
-- remaining — **22**
-- frontier — **scan 476**
-- Gate C — NOT STARTED
-- latest B19 page-layer endpoint — `123bdff3d39b248639f217216f112067e8ca0782`
-- latest durable B19 progress commit — `a532ba40528a9228f25087e75a0644a349990b0f`
+- Gate B B01–B20 — **COMPLETE / PASS**
+- structurally reviewed — **497/497**
+- structurally remaining — **0**
+- unresolved structural placement issues — **0**
+- latest B20 page-layer endpoint — `e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c`
+- Gate-B closure / durable B20 progress commit — `90caaeb3bd92201a75d45f617727721b9c3e0df7`
+- wording state — **Gemini-lexical-locked; not word-for-word scan verified**
+- Gate C — **NOT STARTED**
 
-Durable extraction/mapping exceptions include:
-- File9 Book Pages 401–412 are mis-segmented/replaced for physical scans 413–424.
-- File9 Phase 20 stops at Page 425 despite advertising later coverage.
-- File10 Page 449 becomes replacement material after its reliable prefix; physical scan 462 / printed 450 has no reliable File10 lexical block.
-- File10 comments 450–455 are shifted across physical scans 463–468; File10 Page 456 is a phantom image marker; mapping realigns at Page 457 / physical scan 469.
-No synthetic lexical alignment is permitted for these defects.
+Durable Gate-B extraction/mapping exceptions remain recorded in `STRUCTURAL_FIDELITY_PROGRESS.md`; do not reopen Gate B merely to source-correct lexical wording.
 
-Exact next activity: **Gate B B20 — final remainder scans 476–497**, using split-PDF pages 26–47 of `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` + `File10.md`. Expected outcome: Gate B **497/497 COMPLETE**. Do not start Gate C in the same batch.
+Exact next activity: **Gate C C01 — scans 1–25**.
+
+Gate C is audit-only:
+- compare source-visible lexical text against the locked Gemini/repository wording;
+- record only substantive discrepancies in `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`;
+- classify each discrepancy as likely Gemini error, source-damaged/unclear, old/uncommon form, missing whole lexical block, or repository-only divergence;
+- **do not modify page wording**;
+- do not start Gate C2 unless the user explicitly authorizes source correction.

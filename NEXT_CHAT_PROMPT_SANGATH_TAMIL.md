@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate B Structural Fidelity / final scans 476–497
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate C Lexical Discrepancy Audit / C01 scans 1–25
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -13,75 +13,83 @@ Read in this order before writing:
 6. root `HANDOVER.md`
 7. `works/sangatamil/README.md`
 
-Historical/superseded methodology files are background only:
+Historical/superseded methodology files remain background only:
 - `works/sangatamil/MULTI_PASS_WORKFLOW.md`
 - `works/sangatamil/GEMINI_RECONCILIATION_PLAN.md`
 
 ## Durable repository state
 
-Gate A — **COMPLETE / PASS**:
+Gate A — **COMPLETE / PASS**
 - canonical page files — **497/497**
 - duplicate aliases — **0**
 - missing scans — **0**
 
-Gate B completed batches: **B01–B19 / scans 1–475**.
+Gate B — **COMPLETE / PASS**
+- B01–B20 complete
+- structurally reviewed — **497/497**
+- remaining — **0**
+- unresolved structural placement issues — **0**
+- B20 page-layer endpoint — `e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c`
+- Gate-B closure / B20 progress — `90caaeb3bd92201a75d45f617727721b9c3e0df7`
 
-Current cumulative Gate B state:
-- structurally reviewed — **475/497**
-- structurally remaining — **22**
-- current frontier — **scan 476**
-- Gate C — **NOT STARTED**
+Wording state remains:
 
-Latest B19 page-layer endpoint:
-`123bdff3d39b248639f217216f112067e8ca0782`
-
-Latest durable B19 progress commit:
-`a532ba40528a9228f25087e75a0644a349990b0f`
+**Gemini-lexical-locked — not word-for-word scan verified.**
 
 ## Current gate
 
-**Gate B — Gemini-locked structural fidelity.**
+**Gate C — lexical discrepancy audit under the current lock.**
 
-Authority split:
-- Gemini File1–File10 — locked lexical wording
-- PDF scan — physical-page and structural authority
-- repository — preservation layer
+Gate C is **AUDIT ONLY**.
 
-## Durable mapping exceptions that must not regress
+Do not alter any canonical page wording during Gate C.
 
-- File9 scans **413–424**: demonstrated segmentation/replacement anomaly.
-- File9 B18 tail: scans **438–450** have no usable File9 lexical block.
-- File10 B19:
-  - physical scans **451–461** map to File10 comments **439–449**;
-  - File10 Page **449** is reliable only through `இனி ஆற்றுவதுதான் எவ்வாறு தோழி?`; its tail is replacement material;
-  - physical scan **462 / printed 450** has no reliable File10 lexical block;
-  - physical scans **463–468** map to File10 comments **450–455**;
-  - File10 Page **456** is a phantom `(Image Page)` with no corresponding physical scan;
-  - physical scans **469–475** realign to File10 comments **457–463**.
-- malformed extraction tokens documented in B19 must not be promoted: `மிகக்குடிக்குமோ`, `புக்பாட்டு`, `போட்டுடைட்டதேனோ`, stray `ற`, stray `தன்`.
-- earlier durable mixed-page correction remains: scan **359** is mixed text/illustration.
+For each substantive source/Gemini discrepancy record:
 
-## Exact next activity — B20 final remainder
+- physical scan;
+- printed page, if any;
+- canonical page-record path;
+- locked Gemini/repository wording;
+- source-visible wording;
+- classification:
+  - `likely-gemini-error`
+  - `source-damaged-or-unclear`
+  - `old-or-uncommon-form`
+  - `missing-whole-lexical-block`
+  - `repository-only-divergence`
+- concise evidence / notes;
+- whether the discrepancy was already documented as a Gate-B extraction exception.
 
-Process **Gate B scans 476–497 / 22 scans** in one final Gate-B batch.
+Do not record harmless spacing, line-wrap, running-header/footer, punctuation-only, or placement differences unless they materially affect lexical interpretation.
+
+## Durable Gate-B exceptions that must remain visible
+
+Gate B deliberately retained the Gemini lock through multiple extraction defects. In particular, do not mistake already-documented structural/mapping defects for new source corrections. `STRUCTURAL_FIDELITY_PROGRESS.md` is authoritative for the full B01–B20 exception history.
+
+Final B20 examples include:
+- scan 478 source-visible `என்று` omitted because File10 does not lock it;
+- scan 481 source-visible `எழாஅப் பாணன்` omitted because File10 does not lock it;
+- scan 492 File10-locked `குரல் என` retained against source-visible wording;
+- scan 494 File10-locked `பேசினாரே` / `எமாந்துபோனார்`;
+- scan 495 File10-locked `எனை`;
+- malformed mixed-script/duplication extraction debris was not promoted.
+
+These are candidates for later Gate-C ledger entries when their scan ranges are reached, not reasons to reopen Gate B.
+
+## Exact next activity — C01
+
+Process **Gate C scans 1–25**.
 
 Use:
-- controlling PDF — `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf`
-- Gemini lexical lock — `File10.md`
+- Gemini lexical lock — `File1.md`;
+- controlling PDF — source scans **1–25** of `TVA_BOK_0042551_சங்கத்_தமிழ்.pdf` (resolve the available split/attachment covering this range before audit);
+- repository canonical records — `works/sangatamil/pages/0001-*.md` through `0025-*.md`.
 
-Mapping:
-- split-PDF pages **26–47 = physical scans 476–497**
-
-Expected canonical page range:
-`works/sangatamil/pages/0476-*.md` through `0497-*.md`.
-
-For each scan, resolve File10's actual content against the physical PDF before applying locked wording. Do not assume comment labels remain reliable merely because the B19 tail realigned. If another block is missing, duplicated, replaced, shifted, or phantom, document it and preserve the no-synthetic-alignment rule.
+If `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md` does not yet exist, create it with a durable schema and a **C01 scans 1–25** section.
 
 At batch close:
-1. audit the B20 page-only change set;
-2. update `STRUCTURAL_FIDELITY_PROGRESS.md`;
-3. synchronize operational current-state docs;
-4. declare Gate B **COMPLETE / PASS — 497/497 structurally reviewed** if all 22 scans close cleanly;
-5. record Gate C as the next gate.
+1. audit that **no canonical page files changed**;
+2. commit only the discrepancy ledger and necessary operational progress docs;
+3. record C01 completion / next frontier **scan 26**.
 
-**Do not start Gate C in the B20 execution.**
+**Do not start Gate C2 and do not source-correct page wording.**

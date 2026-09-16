@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed 2026-09-16: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gate B B01–B19 is COMPLETE through scan 475 with frontier scan 476.
+Last refreshed 2026-09-16: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gate B is COMPLETE / PASS through all 497 scans; Gate C is next and NOT STARTED.
 
 ## Repository
 
@@ -21,9 +21,9 @@ Completed benchmark retained: `works/thirukkural/`
 
 The latest durable Sangath Tamil progress checkpoint recorded in this handover is:
 
-a532ba40528a9228f25087e75a0644a349990b0f — sangatamil: Record Gate B B19 progress
+90caaeb3bd92201a75d45f617727721b9c3e0df7 — sangatamil: Close Gate B at 497 scans
 
-B19 page-layer endpoint: 123bdff3d39b248639f217216f112067e8ca0782.
+B20 page-layer endpoint: e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c.
 
 Durable B15 mixed-page repair commit: 6525498cd8e14871575e9ae0203060af2fe4450a — scans 358–359 are mixed text/illustration; scan 359 must not regress to illustration-only.
 
@@ -43,11 +43,11 @@ Gate A: **COMPLETE / PASS**.
 - missing scans — **0**;
 - durable Gate-A record — `works/sangatamil/GATE_A_HYGIENE_REPORT.md`.
 
-Current gate: **Gate B — Gemini-locked structural fidelity**.
+Gate B: **COMPLETE / PASS — 497/497 structurally reviewed / 0 remaining / 0 unresolved structural placement issues**.
 
-Durable Gate-B state: **475/497 structurally reviewed / 22 remaining / frontier scan 476 / Gate C NOT STARTED**.
+Current gate: **Gate C — lexical discrepancy audit under the current lock — NOT STARTED**.
 
-Exact next activity: **B20 final remainder scans 476–497** using split-PDF pages 26–47 of `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` for structure/presentation and `File10.md` for locked lexical wording.
+Exact next activity: **Gate C C01 scans 1–25** using `File1.md`, the controlling source scans 1–25, and the canonical page records. Record discrepancies only; do not modify page wording.
 
 ## Mandatory startup — active சங்கத் தமிழ் work
 
@@ -105,12 +105,13 @@ Pass-1 physical capture is complete through **scan 497**.
 
 For page-level work in a fresh chat, resolve the split PDF and Gemini file required by the live frontier.
 
-Current pair after B18:
+Gate B source processing is closed through scan 497.
 
-- TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf
-- File10.md
+Current Gate-C source start:
 
-Current B20 target: physical scans 476–497 (split-PDF pages 26–47).
+- Gemini lexical lock: `File1.md`
+- controlling source: scans 1–25 of `TVA_BOK_0042551_சங்கத்_தமிழ்.pdf` (resolve the available split covering this range)
+- canonical records: `works/sangatamil/pages/0001-*.md` through `0025-*.md`
 
 Gemini page comments are navigation aids only; they do not establish physical scan numbering. The scan does.
 
@@ -183,22 +184,24 @@ Durable B18 exception: File9 Phase 20 advertises Book Pages 413–438 but the su
 
 Durable B19 exception: File10 Page 449 becomes replacement material after a reliable prefix; scan 462 / printed 450 has no reliable File10 block; comments 450–455 are shifted across scans 463–468; Page 456 is a phantom image marker; mapping realigns at Page 457 / scan 469.
 
+Durable B20 closure: final scans 476–497 completed with 7 page records changed, 15 reviewed unchanged, 0 unresolved structural placement issues. Gate-B lexical omissions/extraction exceptions are preserved for Gate C audit; do not reopen Gate B for source correction.
+
 # Exact next activity — சங்கத் தமிழ்
 
 In a fresh Sangath Tamil chat:
 
 1. fetch live main
 2. read the active controls listed above
-3. confirm STRUCTURAL_FIDELITY_PROGRESS.md still shows frontier 476
-4. resolve TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf + File10.md
-5. process Gate B B20 final remainder scans 476–497, resolving File10 mapping scan by scan under the Gemini-lock/PDF-structure authority split
-6. audit batch base → page-layer endpoint
-7. update the progress record separately
-8. synchronize operational docs and close Gate B at 497/497 if all scans pass
+3. confirm STRUCTURAL_FIDELITY_PROGRESS.md records Gate B COMPLETE / PASS at 497/497
+4. resolve File1.md + controlling source scans 1–25
+5. create or update works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md
+6. audit Gate C C01 scans 1–25 for substantive lexical discrepancies only
+7. verify no canonical page files changed
+8. record C01 completion and next frontier scan 26
 
-Expected result after B20: Gate B COMPLETE / PASS. Do not start Gate C in the same execution.
+Gate C is audit-only. Do not change page wording and do not start Gate C2 without explicit user authorization.
 
-Do not restart Pass 1. Do not resume the discontinued scan-led lexical Pass 2. Do not start Gate C early.
+Do not restart Pass 1. Do not resume the discontinued scan-led lexical Pass 2. Gate B is closed. Gate C must remain audit-only unless the user explicitly authorizes Gate C2.
 
 # Completed Thirukkural baseline — DO NOT RESTART
 

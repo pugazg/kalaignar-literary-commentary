@@ -11,7 +11,7 @@ Last synchronized with live main: **2026-09-15**.
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–015 **ARCHIVAL-READY through scan 323**; commentary through printed page 270 / Kural 1330 |
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–015 **RELEASED through the end of the supplied volume** |
 | Thirukkural semantic structure | பால் → இயல் → அதிகாரம் | **COMPLETE — 3 பால் / 13 இயல் / 133 அதிகாரம் / 1,330 குறள் mapped** |
-| சங்கத் தமிழ் | தமிழ் | **ACTIVE — Gate A CLOSED; Gate B B01–B19 COMPLETE; 475/497 structurally reviewed; frontier scan 476** |
+| சங்கத் தமிழ் | தமிழ் | **ACTIVE — Gate A CLOSED; Gate B COMPLETE / PASS 497/497; Gate C audit next (NOT STARTED)** |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த source-controlled edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Kuraloviyam | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
@@ -59,14 +59,18 @@ Authority split:
 
 Gate A — COMPLETE / PASS: 497/497 canonical records; 0 duplicates; 0 missing.
 
-Gate B — IN PROGRESS:
-- B01–B19 complete
-- 475/497 structurally reviewed
-- 22 remaining
-- frontier — scan 476
-- Gate C — NOT STARTED
+Gate B — COMPLETE / PASS:
+- B01–B20 complete
+- 497/497 structurally reviewed
+- 0 remaining
+- 0 unresolved structural placement issues
 
-Latest B16 page-layer endpoint: 93e96b379921a161ab1ca393708f6f4d71408c09
+Gate C — NOT STARTED:
+- next batch — C01 scans 1–25
+- audit-only; canonical page wording must not change
+
+Latest B20 page-layer endpoint: e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c
+Gate-B closure / B20 progress: 90caaeb3bd92201a75d45f617727721b9c3e0df7
 Latest durable B16 progress checkpoint: 40e2c594a7a9f7f4baa88375b23e84d39c619235
 
 B15 mixed-page repair preserved: 6525498cd8e14871575e9ae0203060af2fe4450a — scans 358–359 are mixed text/illustration records.
@@ -87,6 +91,6 @@ MULTI_PASS_WORKFLOW.md and GEMINI_RECONCILIATION_PLAN.md are retained as histori
 
 ## அடுத்த செயல்
 
-Gate B B20 — final scans 476–497, using split-PDF pages 26–47 of `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` + `File10.md`; close Gate B at 497/497 if all scans pass, without starting Gate C in the same batch.
+Gate C C01 — scans 1–25. Compare File1.md / repository locked wording against the controlling source and record substantive lexical discrepancies in `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`. Do not change canonical page wording.
 
 Current handover: HANDOVER.md.
