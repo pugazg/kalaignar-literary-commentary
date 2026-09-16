@@ -7,14 +7,14 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 source correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 236
 continues_to_scan: 239
 ---
 வண்ணக் கிளிகள் வந்தன; அவனைச் சுற்றி  
 வட்டமிட்டு வரைக பாடல் எமைப்பற்றி என்றன!  
-அன்னத்தின் கூட்டமொன்று ஓடையில படகாகி  
+அன்னத்தின் கூட்டமொன்று ஓடையில் படகாகி  
 சின்னக் கவிதை யொன்று எமைப்பற்றிப் பாடுக என  
 மிதந்ததே!  
 ஆயிரம் அழகுகளை அடுக்கிடும் இயற்கை; சிறப்புப்  
@@ -50,5 +50,5 @@ continues_to_scan: 239
 பார்த்து மகிழ்ந்திடுவோம் பாச உணர்வுதனைப்  
 பாட்டில் தீட்ட அவன் தேர்ந்தெடுத்த  
 
-<!-- Gate B restores File5 wording and preserves the physical continuation across illustration scan 238. -->
+<!-- C2-10: user-authorized source correction applied: `அன்னத்தின் கூட்டமொன்று ஓடையில படகாகி` → `அன்னத்தின் கூட்டமொன்று ஓடையில் படகாகி`; physical continuation across illustration scan 238 remains unchanged. -->
 <!-- மூல ஸ்கேன் பக்கம்: 237; அச்சுப் பக்கம்: 224 -->

@@ -7,7 +7,7 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 source correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_to_scan: 231
 ---
@@ -28,7 +28,7 @@ continues_to_scan: 231
 முல்லையாய்ப் படர்ந்து, தமிழ்க் கொல்லையே மணந்தது!  
 பொதியமலைத் திதியனையும் பொய்யாத மையலூர் மாவனையும்  
 புகழ்பூத்த ஆந்தையுடன் அந்துவன் சாத்தனையும் ஆதன்  
-இழிசையையும்  
+அழிசையையும்  
 வெகுண்டெழுந்து வீரம் விளைக்கின்ற இயக்கன் எனும்  
 வேங்கை நிகர்த்ததொரு தீரனையும்,  
 நண்பர்களாய்ப் பெற்றிருந்த பூதப் பாண்டியனின்  
@@ -45,5 +45,5 @@ continues_to_scan: 231
 பூதப்பாண்டியனின் புகழ் கேட்டுப் பொறாமை யுற்றுப்  
 போர் முரசு ஒலிக்கலானார் சேர சோழ மன்னர் இருவர்!  
 
-<!-- Gate B restores File5 wording and returns displaced locked carryovers `விழுப்` and `கொடி` to their source-supported lines. -->
+<!-- C2-10: user-authorized source correction applied: `அந்துவன் சாத்தனையும் ஆதன் இழிசையையும்` → `அந்துவன் சாத்தனையும் ஆதன் அழிசையையும்`; existing carryover placement is unchanged. -->
 <!-- மூல ஸ்கேன் பக்கம்: 230; அச்சுப் பக்கம்: 217 -->

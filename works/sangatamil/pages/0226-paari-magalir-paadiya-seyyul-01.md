@@ -7,11 +7,11 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 heading correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_to_scan: 227
 ---
-# பாபி மகளிர்  
+# பாரி மகளிர்  
 # பாடிய செய்யுள்  
   
 வாள் கொண்டான் கையில்; வள்ளல் தன்மை கொண்டான் நெஞ்சில்!  
@@ -43,5 +43,5 @@ continues_to_scan: 227
 போருக்கு அழைத்துக் கொன்ற பின்னர்; அவன்  
 புதல்வியர் இருவரைக் கவர்ந்திட எண்ணிய வேந்தர் மூவரின்  
 
-<!-- Gate B records the source-visible section identity `பாரி மகளிர் பாடிய செய்யுள்` in metadata while preserving File5-locked decorative heading `பாபி மகளிர் / பாடிய செய்யுள்`; displaced `நெஞ்சில்!` and `வரலாற்றில்!` are returned to their source-supported opening lines. -->
+<!-- C2-10: user-authorized source heading correction applied: `பாபி மகளிர்` → `பாரி மகளிர்`; the decorative two-line heading layout and existing source-supported carryovers remain unchanged. -->
 <!-- மூல ஸ்கேன் பக்கம்: 226; அச்சுப் பக்கம்: 213 -->

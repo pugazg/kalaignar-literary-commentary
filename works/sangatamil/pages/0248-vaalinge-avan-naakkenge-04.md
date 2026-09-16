@@ -7,7 +7,7 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 repository-divergence restoration"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 247
 ---
@@ -47,12 +47,14 @@ continues_from_scan: 247
 ## பொருள் விளக்கம் :  
 நரம்பு எழுந்து உலறிய =நரம்புகள் தோன்றிட வற்றிய.  
 முளரிமருங்கின் முதியோள் = தாமரைபோல் ஒட்டிய  
+வயிறுடைய கிழவி.  
 படையழிந்து மாறினன் = படைகண்டு அஞ்சிப் புறங்கொண்டு  
+மாண்டான்.  
 மண்டமர் = களப்போர்.  
 சினைஇ =சினந்து.  
 சிதைந்து வேறாகிய படுமகன் = விழுப்புண் பெற்றுக் கிடக்கும்  
   
 \*  
 
-<!-- Gate B expands File5's flattened Purananuru quotation into source-visible lineation and restores verse → provenance → `பொருள் விளக்கம்` order. -->
+<!-- C2-10: user-authorized repository-divergence repair restored the two File5/source glossary continuations omitted from the canonical page: `வயிறுடைய கிழவி.` after `தாமரைபோல் ஒட்டிய`, and `மாண்டான்.` after `படைகண்டு அஞ்சிப் புறங்கொண்டு`. Surrounding glossary wording is unchanged. -->
 <!-- மூல ஸ்கேன் பக்கம்: 248; அச்சுப் பக்கம்: 235 -->

@@ -7,7 +7,7 @@ page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 repository-divergence restoration"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 239
 ---
@@ -28,8 +28,10 @@ continues_from_scan: 239
   
 ## பொருள் விளக்கம் :  
 கருங்கண் தாக்கலை பெரும் பிறிது உற்றென = கரிய விழியும்  
+தாவும் தன்மையும் உடைய ஆண் குரங்கு மரணம் உற்றதென்று.  
 மந்தி =பெண்குரங்கு.  
 கல்லா வன்பறழ் கிளைமுதல் சேர்த்தி =வாழும் வகை  
+கற்றிடாத வலிய குட்டியை சுற்றத்திடம் சேர்த்துவிட்டு.  
 ஓங்குவரை = உயர்ந்த மலை. செகுக்கும் = போக்கிக் கொள்ளும்.  
   
 \*  
@@ -38,5 +40,5 @@ continues_from_scan: 239
 என்பதாக டாக்டர் உ.வே. சாமிநாதய்யர் அவர்களின் குறிப்பு  
 ஒன்று கூறுகிறது.  
 
-<!-- Gate B excludes stray File5 `99` / quote-marker debris and restores verse → provenance → `பொருள் விளக்கம்` → source-note order. -->
+<!-- C2-10: user-authorized repository-divergence repair restored the two File5/source glossary continuations omitted from the canonical page: `தாவும் தன்மையும் உடைய ஆண் குரங்கு மரணம் உற்றதென்று.` and `கற்றிடாத வலிய குட்டியை சுற்றத்திடம் சேர்த்துவிட்டு.` Surrounding glossary wording and source-note order are unchanged. -->
 <!-- மூல ஸ்கேன் பக்கம்: 240; அச்சுப் பக்கம்: 227 -->
