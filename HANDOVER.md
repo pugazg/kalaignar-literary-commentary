@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed 2026-09-16: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gate B is COMPLETE / PASS; Gate C C01–C17 scans 1–425 are COMPLETE with frontier scan 426.
+Last refreshed 2026-09-16: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gate B is COMPLETE / PASS; Gate C C01–C18 scans 1–450 are COMPLETE with frontier scan 451.
 
 ## Repository
 
@@ -47,11 +47,11 @@ Gate B: **COMPLETE / PASS — 497/497 structurally reviewed / 0 remaining / 0 un
 
 Current gate: **Gate C — lexical discrepancy audit under the current lock — IN PROGRESS**.
 
-C01–C17 scans **1–425 — COMPLETE / PASS**; **100 cumulative substantive discrepancies** recorded in `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`; Gate-C frontier **scan 426**.
+C01–C18 scans **1–450 — COMPLETE / PASS**; **118 cumulative substantive discrepancies** recorded in `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`; Gate-C frontier **scan 451**.
 
-Latest Gate-C ledger commit: `517cd621d898e9a818c0fd077ebb0c571783a1c1`.
+Latest Gate-C ledger commit: `d61d3a706ec1a4920e4bd238b4a93cb52aa6d78b`.
 
-Exact next activity: **Gate C C18 scans 426–450** using the already supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf` + `File9.md`. Audit only; File9 Pages 414–425 map to scans 426–437, while scans 438–450 have no File9 lexical blocks, so do not fabricate lexical alignment.
+Exact next activity: **Gate C C19 scans 451–475** using the already supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` + `File10.md`. Audit only; apply the documented B19 comment mapping, partial/replacement-block boundary, and phantom Page-456 exception without fabricating lexical alignment.
 
 ## Mandatory startup — active சங்கத் தமிழ் work
 
@@ -113,12 +113,12 @@ Gate B source processing is closed through scan 497.
 
 Current Gate-C source start:
 
-- completed Gate-C range: scans 1–425
-- current C18 target: scans 426–450
-- controlling source supplied: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf` — use split pages 26–50
-- matching lexical file supplied: `File9.md` — Phase 20 where reliable
-- canonical records: `works/sangatamil/pages/0426-*.md` through `0450-*.md`
-- File9 Pages 414–425 map to scans 426–437; scans 438–450 have no File9 lexical blocks; no synthetic lexical mapping
+- completed Gate-C range: scans 1–450
+- current C19 target: scans 451–475
+- controlling source supplied: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` — use split pages 1–25
+- matching lexical file supplied: `File10.md` — only where reliable
+- canonical records: `works/sangatamil/pages/0451-*.md` through `0475-*.md`
+- mapping: scans 451–461→File10 439–449; scan 462 no reliable block; scans 463–468→450–455; Page 456 phantom; scans 469–475→457–463
 
 Gemini page comments are navigation aids only; they do not establish physical scan numbering. The scan does.
 
@@ -199,12 +199,12 @@ In a fresh Sangath Tamil chat:
 
 1. fetch live main
 2. read the active controls listed above, including works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md
-3. confirm C01–C17 scans 1–425 are COMPLETE and Gate-C frontier is scan 426
-4. use the supplied TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf split pages 26–50 and File9.md Phase 20 where reliable
-5. audit File9 Pages 414–425 against scans 426–437; for scans 438–450 audit direct source/repository divergences only and do not fabricate a lexical mapping
+3. confirm C01–C18 scans 1–450 are COMPLETE and Gate-C frontier is scan 451
+4. use the supplied TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf split pages 1–25 and File10.md only where reliable
+5. apply the documented B19 mapping and partial/replacement/phantom exceptions; append only demonstrable substantive discrepancies without synthetic alignment
 6. verify no canonical page files changed
 7. commit the ledger update
-8. synchronize operational docs and advance frontier to scan 451
+8. synchronize operational docs and advance frontier to scan 476
 
 Gate C remains audit-only. Do not change page wording and do not start Gate C2 without explicit user authorization.
 

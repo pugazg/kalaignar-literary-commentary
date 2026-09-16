@@ -123,19 +123,20 @@ Gate C — **IN PROGRESS**:
 - C15 scans **351–375 — COMPLETE / PASS**
 - C16 scans **376–400 — COMPLETE / PASS**
 - C17 scans **401–425 — COMPLETE / PASS**
-- audited — **425/497**
-- remaining — **72**
-- frontier — **scan 426**
-- cumulative discrepancy records — **100**
-- latest Gate-C ledger commit — `517cd621d898e9a818c0fd077ebb0c571783a1c1`
+- C18 scans **426–450 — COMPLETE / PASS**
+- audited — **450/497**
+- remaining — **47**
+- frontier — **scan 451**
+- cumulative discrepancy records — **118**
+- latest Gate-C ledger commit — `d61d3a706ec1a4920e4bd238b4a93cb52aa6d78b`
 - Gate C2 — **NOT STARTED / NOT AUTHORIZED**
 
 Wording state remains **Gemini-lexical-locked**, not word-for-word scan verified.
 
 Durable extraction/mapping exceptions from Gate B remain authoritative in `STRUCTURAL_FIDELITY_PROGRESS.md`.
 
-C17 execution note: the supplied PDF/File9 pair was used for scans 401–425. Eight substantive discrepancies were recorded across scans 402, 404, 410, 413, 420, 421 and 422. The documented File9 segmentation/replacement anomaly for scans 413–424 was honored without synthetic lexical mapping. No page wording was changed.
+C18 execution note: the supplied Part-009 PDF/File9 pair was used for scans 426–450. Eighteen substantive discrepancies were recorded across 9 scans. File9 Pages 414–425 were used only for scans 426–437; scans 438–450 were audited directly against the source/repository layer because File9 supplies no lexical blocks there. No page wording was changed.
 
 ### Exact next activity
 
-Process Gate C C18 — **scans 426–450** using `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf` split pages 26–50 and `File9.md` Phase 20 only where reliable. File9 Pages **414–425** map to scans **426–437**; scans **438–450** have no File9 lexical blocks, so record only directly demonstrable source/repository discrepancies, verify **0 page-file changes**, and advance frontier to scan **451**. Do not start Gate C2.
+Process Gate C C19 — **scans 451–475** using `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` split pages 1–25 and `File10.md` only where reliable. Apply the documented B19 mapping: 451–461→439–449 (Page 449 only partly reliable), scan 462 no reliable block, 463–468→450–455, Page 456 phantom, 469–475→457–463. Record only demonstrable discrepancies, verify **0 page-file changes**, and advance frontier to scan **476**. Do not start Gate C2.

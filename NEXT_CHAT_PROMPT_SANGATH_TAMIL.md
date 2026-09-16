@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate C Lexical Discrepancy Audit / C18 scans 426–450
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate C Lexical Discrepancy Audit / C19 scans 451–475
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -42,37 +42,41 @@ Gate C:
 - C15 scans **351–375 — COMPLETE / PASS**
 - C16 scans **376–400 — COMPLETE / PASS**
 - C17 scans **401–425 — COMPLETE / PASS**
-- audited — **425/497**
-- remaining — **72**
-- frontier — **scan 426**
-- cumulative discrepancy records — **100**
-- latest Gate-C ledger commit — `517cd621d898e9a818c0fd077ebb0c571783a1c1`
+- C18 scans **426–450 — COMPLETE / PASS**
+- audited — **450/497**
+- remaining — **47**
+- frontier — **scan 451**
+- cumulative discrepancy records — **118**
+- latest Gate-C ledger commit — `d61d3a706ec1a4920e4bd238b4a93cb52aa6d78b`
 - Gate C2 — **NOT STARTED / NOT AUTHORIZED**
 
 Wording state remains **Gemini-lexical-locked — not word-for-word scan verified**.
 
-## C17 source note
+## C18 source note
 
-C17 used:
-- `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf`, split pages 1–25 / physical scans 401–425;
-- `File9.md`, Phase 19 / Book Pages 389–413, only where the File9 block is reliable.
+C18 used:
+- `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf`, split pages 26–50 / physical scans 426–450;
+- `File9.md` Phase 20 only where a reliable lexical block exists.
 
-C17 recorded eight substantive discrepancies across scans 402, 404, 410, 413, 420, 421 and 422. For scans 413–424 the documented File9 segmentation/replacement anomaly was honored: no synthetic File9 mapping was fabricated, and only directly demonstrable source/repository lexical divergences were recorded. High-resolution recheck also confirmed that scan 404 source `போல்` agrees with the locked layer; only `கருகில்` vs source `அருகில்` is a discrepancy. No canonical page wording was changed.
+C18 recorded **18 substantive discrepancies across 9 scans**. File9 Pages 414–425 were used only for scans 426–437. For scans 438–450, where File9 has no lexical blocks, the audit compared the controlling scans directly against the preserved repository layer and recorded only demonstrable lexical divergences. No canonical page wording was changed.
 
-## Exact next activity — C18
+## Exact next activity — C19
 
-Process **Gate C scans 426–450**.
+Process **Gate C scans 451–475**.
 
 Use:
-- controlling PDF — the same user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf`, split pages **26–50**;
-- direct Gemini lock witness — `File9.md` Phase 20 only where a reliable lexical block actually exists;
-- canonical page records `works/sangatamil/pages/0426-*.md` through `0450-*.md`.
+- controlling PDF — user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf`, split pages **1–25**;
+- direct Gemini lock witness — user-supplied `File10.md` only where a reliable lexical block exists;
+- canonical page records `works/sangatamil/pages/0451-*.md` through `0475-*.md`.
 
-Important File9 Phase-20 boundary defect:
-- usable File9 Page **414–425** blocks map to physical scans **426–437**;
-- File9 Page **413** is only a carry-forward note;
-- there are **no File9 lexical blocks for physical scans 438–450 / printed pages 426–438** despite the advertised Phase-20 range;
-- for scans 438–450, do not fabricate a lexical mapping; audit only directly demonstrable source/repository divergences.
+Important File10 mapping rules:
+- scans **451–461** → File10 comments **439–449**;
+- File10 Page **449** is reliable only through `இனி ஆற்றுவதுதான் எவ்வாறு தோழி?`; its tail is replacement material;
+- scan **462 / printed 450** has **no reliable File10 lexical block**;
+- scans **463–468** → File10 comments **450–455**;
+- File10 Page **456** is a phantom image marker and must be ignored;
+- scans **469–475** → File10 comments **457–463**;
+- do not fabricate lexical alignment for missing/replaced segments.
 
 Append only substantive lexical discrepancies to:
 
@@ -84,6 +88,6 @@ At batch close:
 1. verify **0 canonical page files changed**;
 2. commit the updated ledger;
 3. synchronize operational current-state docs;
-4. advance Gate-C frontier to **scan 451**.
+4. advance Gate-C frontier to **scan 476**.
 
 **Do not start Gate C2 and do not source-correct canonical page wording.**

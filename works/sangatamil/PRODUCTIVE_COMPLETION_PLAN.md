@@ -255,24 +255,26 @@ Current durable state — **2026-09-16**:
 - latest B20 page-layer endpoint — `e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c`
 - Gate-B closure / durable B20 progress commit — `90caaeb3bd92201a75d45f617727721b9c3e0df7`
 - wording state — **Gemini-lexical-locked; not word-for-word scan verified**
-- Gate C C01–C17 — **COMPLETE / PASS**
-- Gate-C audited — **425/497**
-- Gate-C remaining — **72**
-- Gate-C frontier — **scan 426**
-- latest Gate-C ledger commit — `517cd621d898e9a818c0fd077ebb0c571783a1c1`
-- C17 substantive discrepancy records — **8**
-- cumulative Gate-C discrepancy records — **100**
+- Gate C C01–C18 — **COMPLETE / PASS**
+- Gate-C audited — **450/497**
+- Gate-C remaining — **47**
+- Gate-C frontier — **scan 451**
+- latest Gate-C ledger commit — `d61d3a706ec1a4920e4bd238b4a93cb52aa6d78b`
+- C18 substantive discrepancy records — **18**
+- cumulative Gate-C discrepancy records — **118**
 - Gate C2 — **NOT STARTED / NOT AUTHORIZED**
 
 Durable Gate-B extraction/mapping exceptions remain recorded in `STRUCTURAL_FIDELITY_PROGRESS.md`; do not reopen Gate B merely to source-correct lexical wording.
 
-Exact next activity: **Gate C C18 — scans 426–450**.
+Exact next activity: **Gate C C19 — scans 451–475**.
 
 Available direct source pair:
-- user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf`, split pages **26–50** / physical scans **426–450**;
-- user-supplied `File9.md`, Phase 20 only where a reliable lexical block actually exists;
-- usable File9 Pages **414–425** map to physical scans **426–437**;
-- File9 supplies **no lexical blocks for physical scans 438–450 / printed pages 426–438**; do not fabricate one-to-one lexical mapping.
+- user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf`, split pages **1–25** / physical scans **451–475**;
+- user-supplied `File10.md` where a reliable lexical block exists;
+- scans **451–461** map to File10 comments **439–449**; Page 449 is reliable only through `இனி ஆற்றுவதுதான் எவ்வாறு தோழி?`;
+- scan **462** has no reliable File10 lexical block;
+- scans **463–468** map to comments **450–455**; File10 Page **456** is a phantom image marker;
+- scans **469–475** map to comments **457–463**; do not fabricate alignment for missing/replaced material.
 
 Gate C remains audit-only:
 - append substantive discrepancies to `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`;

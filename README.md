@@ -11,7 +11,7 @@ Last synchronized with live main: **2026-09-15**.
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–015 **ARCHIVAL-READY through scan 323**; commentary through printed page 270 / Kural 1330 |
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–015 **RELEASED through the end of the supplied volume** |
 | Thirukkural semantic structure | பால் → இயல் → அதிகாரம் | **COMPLETE — 3 பால் / 13 இயல் / 133 அதிகாரம் / 1,330 குறள் mapped** |
-| சங்கத் தமிழ் | தமிழ் | **ACTIVE — Gate A CLOSED; Gate B COMPLETE / PASS 497/497; Gate C C01–C17 COMPLETE 425/497; frontier scan 426** |
+| சங்கத் தமிழ் | தமிழ் | **ACTIVE — Gate A CLOSED; Gate B COMPLETE / PASS 497/497; Gate C C01–C18 COMPLETE 450/497; frontier scan 451** |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த source-controlled edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Kuraloviyam | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
@@ -83,10 +83,11 @@ Gate C — IN PROGRESS:
 - C15 scans 351–375 — COMPLETE / PASS
 - C16 scans 376–400 — COMPLETE / PASS
 - C17 scans 401–425 — COMPLETE / PASS
-- audited — 425/497
-- remaining — 72
-- frontier — scan 426
-- 100 cumulative substantive discrepancies recorded
+- C18 scans 426–450 — COMPLETE / PASS
+- audited — 450/497
+- remaining — 47
+- frontier — scan 451
+- 118 cumulative substantive discrepancies recorded
 - audit-only; canonical page wording must not change
 
 Latest B20 page-layer endpoint: e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c
@@ -111,6 +112,6 @@ MULTI_PASS_WORKFLOW.md and GEMINI_RECONCILIATION_PLAN.md are retained as histori
 
 ## அடுத்த செயல்
 
-Gate C C18 — scans 426–450 using the supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf` split pages 26–50 + `File9.md` Phase 20 where reliable. File9 Pages 414–425 map to scans 426–437; scans 438–450 have no File9 lexical blocks, so record only directly demonstrable source/repository discrepancies and do not change canonical page wording.
+Gate C C19 — scans 451–475 using the supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` split pages 1–25 + `File10.md` where reliable. Apply the documented B19 mapping and replacement/phantom-page exceptions; record only demonstrable discrepancies and do not change canonical page wording.
 
 Current handover: HANDOVER.md.
