@@ -49,14 +49,16 @@ Translate only the maintained Tamil archive. Preserve the work's own order, quot
 
 ## Current state
 
-- English control layer — **INITIALIZED**
-- English page records — **0/497**
-- first-pass drafting — **0/497**
+- English control layer — **INITIALIZED / PASS**
+- Draft D1 scans **1–37 — COMPLETE / PASS**
+- English page records — **37/497**
+- first-pass drafting — **37/497**
+- current English state — **36 `draft` + 1 `source-limited` (scan 8)**
 - source-check — **0/497**
 - glossary reconciliation — **0/497**
 - editorial review — **0/497**
 - release-ready — **0/497**
-- source-limited — **expected at scan 8**
 - blocked — **0**
+- durable D1 report — `DRAFT_D1_REPORT.md`
 
-Exact next activity: **Draft D1 — scans 1–37**, page-aligned to the canonical Tamil records.
+Exact next activity: **Draft D2 — scans 38–74**, page-aligned to the canonical Tamil records.
