@@ -1,6 +1,6 @@
 # சங்கத் தமிழ் — Gate F Sangam Provenance Audit
 
-**Status: IN PROGRESS — F01–F03 COMPLETE / PASS**
+**Status: IN PROGRESS — F01–F04 COMPLETE / PASS**
 
 - date: **2026-09-16**
 - repository: `pugazg/kalaignar-literary-commentary`
@@ -13,7 +13,7 @@
 - canonical page files changed: **0**
 - canonical page-wording changes: **0**
 - Gate C2: **NOT STARTED / NOT AUTHORIZED**
-- next provenance frontier: **scan 76**
+- next provenance frontier: **scan 101**
 
 ## Governing method
 
@@ -289,6 +289,97 @@ The quotation begins on scan 73, continues onto scan 74, and closes there. The s
 
 Gate F is now closed through **scan 75** with **12 cumulative formal provenance units** and **0 canonical page-wording changes**.
 
+## F04 — scans 76–100
+
+**Status: COMPLETE / PASS**
+
+- F04 base: `411aa2871836555f2ecae7788fe94b0c1131f64e`
+- physical scans: **76–100**
+- scans inspected: **25/25**
+- formal provenance units verified: **5**
+- citation-anchor scans: **79, 84, 90, 94 (two units)**
+- cumulative Gate-F coverage: **100/497 scans**
+- cumulative formal provenance units: **17**
+- canonical page files changed: **0**
+- canonical page-wording changes: **0**
+
+### Provenance unit 13 — scans 79–80
+
+Section: **`பிசிராந்தையார் 1`**
+
+Citation anchor: **scan 79**.
+
+Exact printed provenance block:
+
+> (புறநானூறு : பாடல் : 184  
+> பாடியவர் : பிசிராந்தையார்)
+
+The Sangam quotation begins and closes on scan 79. The provenance block follows the closing separator. Scan 80 carries the printed **`பொருள் விளக்கம் :`** block and its glossary.
+
+### Provenance unit 14 — scan 84
+
+Section: **`பிசிராந்தையார் 2`**
+
+Exact printed provenance block:
+
+> (புறநானூறு : பாடல் : 67  
+> பாடியவர் : பிசிராந்தையார்)
+
+The quotation begins and closes on scan 84. The provenance block and **`பொருள் விளக்கம் :`** follow on the same scan.
+
+### Provenance unit 15 — scan 90
+
+Section: **`பிசிராந்தையார் 3`**
+
+Exact printed provenance block:
+
+> (புறநானூறு : பாடல் : 191  
+> பாடியவர் : பிசிராந்தையார்)
+
+The quotation begins and closes on scan 90. The provenance block is followed by **`பொருள் விளக்கம் :`** and the gloss block on the same scan.
+
+### Provenance unit 16 — scan 94 / பாடல் 215
+
+Section: **`பிசிராந்தையார் 4`**
+
+Exact printed provenance block:
+
+> (புறநானூறு : பாடல் : 215  
+> பாடியவர் : கோப்பெருஞ்சோழன்)
+
+This is the first of two adjacent Sangam citation units printed on scan 94.
+
+### Provenance unit 17 — scan 94 / பாடல் 218
+
+Section: **`பிசிராந்தையார் 4`**
+
+Exact printed provenance block:
+
+> (புறநானூறு : பாடல் : 218  
+> பாடியவர் : கண்ணகனார்)
+
+This is the second adjacent citation unit on scan 94. The printed **`பொருள் விளக்கம் :`** on scan 95 supplies the glosses for the pair of scan-94 quotations.
+
+### F04 non-citation/source-context review
+
+- scans **76, 82, 92, 98** are full-page illustration / image leaves;
+- scans **96–100** begin `உலைக் களத்து இரும்பும் ஒரு துளிநீரும்!`;
+- narrative mentions of `அகநானூறு`, `திருக்குறள்`, and `ஐயூர் மூலங்கிழார்` in scans 96–100 are contextual prose, not standalone printed provenance blocks;
+- the next formal citation for that section lies beyond scan 100.
+
+## F04 mutation audit
+
+- canonical files under `works/sangatamil/pages/`: **0 changed**
+- canonical page wording: **0 changed**
+- Gate C2 corrections: **0**
+- external-edition substitutions: **0**
+
+## F04 closure
+
+**F04 — COMPLETE / PASS**
+
+Gate F is now closed through **scan 100** with **17 cumulative formal provenance units** and **0 canonical page-wording changes**.
+
 ## Exact next activity
 
-Continue **Gate F** with **F04 scans 76–100** using the closed physical and section layers. Preserve this edition's printed provenance labels exactly and do not start Gate C2.
+Continue **Gate F** with **F05 scans 101–125** using the closed physical and section layers. Preserve this edition's printed provenance labels exactly and do not start Gate C2.

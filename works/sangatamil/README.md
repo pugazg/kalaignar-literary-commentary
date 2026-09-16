@@ -98,4 +98,4 @@ Gate E — COMPLETE / PASS:
 
 ## Exact next activity
 
-Gate F — **IN PROGRESS**. F01–F03 scans **1–75 — COMPLETE / PASS** with **12 cumulative formal provenance units** verified and **0 canonical page-wording changes**. Current provenance frontier: **scan 76**. Next batch: **F04 scans 76–100**. Continue updating `indexes/source-citation-register.md` and `PROVENANCE_AUDIT.md`; do not start Gate C2 without explicit authorization.
+Gate F — **IN PROGRESS**. F01–F04 scans **1–100 — COMPLETE / PASS** with **17 cumulative formal provenance units** verified and **0 canonical page-wording changes**. Current provenance frontier: **scan 101**. Next batch: **F05 scans 101–125**. Continue updating `indexes/source-citation-register.md` and `PROVENANCE_AUDIT.md`; do not start Gate C2 without explicit authorization.
