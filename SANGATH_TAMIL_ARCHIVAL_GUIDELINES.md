@@ -120,19 +120,20 @@ Gate C — **IN PROGRESS**:
 - C12 scans **276–300 — COMPLETE / PASS**
 - C13 scans **301–325 — COMPLETE / PASS**
 - C14 scans **326–350 — COMPLETE / PASS**
-- audited — **350/497**
-- remaining — **147**
-- frontier — **scan 351**
-- cumulative discrepancy records — **79**
-- latest Gate-C ledger commit — `5f5bc64fdddbf4b458ca76e5d775e0a93849193f`
+- C15 scans **351–375 — COMPLETE / PASS**
+- audited — **375/497**
+- remaining — **122**
+- frontier — **scan 376**
+- cumulative discrepancy records — **89**
+- latest Gate-C ledger commit — `05ee151d61cd8a26f28a5861e5dd9f923c9ee698`
 - Gate C2 — **NOT STARTED / NOT AUTHORIZED**
 
 Wording state remains **Gemini-lexical-locked**, not word-for-word scan verified.
 
 Durable extraction/mapping exceptions from Gate B remain authoritative in `STRUCTURAL_FIDELITY_PROGRESS.md`.
 
-C14 execution note: the supplied PDF/File7 pair was used for scans 326–350. Five substantive discrepancies were recorded across scans 326, 328, 331 and 340. Direct visual recheck confirmed source-visible `என்றார்!` at scan 326 and `போரில்` at scan 340, while scan 334 source `வேண்டு` matched the locked layer. No page wording was changed.
+C15 execution note: the supplied PDF/File8 pair was used for scans 351–375. Ten substantive discrepancies were recorded across scans 352, 359, 360, 361, 363, 364, 366, 370 and 373, including an omitted heading word, a missing glossary `இத்தி`, and multiple locked/source form differences. No page wording was changed.
 
 ### Exact next activity
 
-Process Gate C C15 — **scans 351–375** using `TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf` split pages 1–25 and `File8.md` Phase 17 / Book Pages 339–363. Append substantive discrepancies to `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`; verify **0 page-file changes**; advance frontier to scan **376**. Do not start Gate C2.
+Process Gate C C16 — **scans 376–400** using `TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf` split pages 26–50 and `File8.md` Book Pages 364–388. Append substantive discrepancies to `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`; verify **0 page-file changes**; advance frontier to scan **401**. Do not start Gate C2.
