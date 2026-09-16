@@ -1,35 +1,30 @@
 # மானங்காத்த மறவன்!
 
-- repository sequence: **003** (navigation only; not a printed chapter number)
-- exact printed heading: **மானங்காத்த மறவன்!**
-- scan range: **25–30**
-- printed pages represented: **10–15**
-- scan 26: full-page illustration
-- boundary confidence: **verified** — scan 31 begins the next decorative heading `துணை நின்றார் தோழி!`
-- transcription state: **COMPLETE / verified for all six physical scans**
+- repository sequence: **003** — navigation only; not a printed chapter number
+- source role: **thematic section**
+- physical scans: **25–30**
+- visible printed page span: **10–15**
+- illustration / divider placement: **26**
+- Gate-E boundary: **verified**
+- wording state: **Gemini-lexical-locked; not word-for-word scan verified**
 
-## பக்கங்கள்
+## Boundary evidence
 
-1. [`scan 25`](../../pages/0025-maanangkaatha-maravan-01.md) — text `verified`; visual fidelity `verified`
-2. [`scan 26`](../../pages/0026-maanangkaatha-maravan-illustration.md) — illustration `verified`
-3. [`scan 27`](../../pages/0027-maanangkaatha-maravan-03.md) — text `verified`; visual fidelity `verified`
-4. [`scan 28`](../../pages/0028-maanangkaatha-maravan-04.md) — text `verified`; visual fidelity `verified`
-5. [`scan 29`](../../pages/0029-maanangkaatha-maravan-05.md) — text `verified`; visual fidelity `verified`
-6. [`scan 30`](../../pages/0030-maanangkaatha-maravan-06.md) — text / Sangam quotation / `பொருள் விளக்கம்` `verified`; visual fidelity `verified`
+Closes at scan 30; scan 31 begins `துணை நின்றாள் தோழி!`.
 
-## Visual / textual continuity
+The section identity and physical range are derived from the scan-controlled canonical page metadata closed by Gates B and D. Gate E does not source-correct lexical wording.
 
-The section begins with the decorative heading on scan 25. Scan 26 is a full-page illustration that interrupts the printed reading sequence and is preserved as its own physical record. Text resumes on scan 27 and continues through scan 30.
+## Canonical page records
 
-Later pencil ticks, arrows and handwriting visible on some text pages are documented as non-body annotations and are not merged into the printed text.
+- scan **25** — [`0025-maanangkaatha-maravan-01.md`](../../pages/0025-maanangkaatha-maravan-01.md)
+- scan **26** — [`0026-maanangkaatha-maravan-illustration.md`](../../pages/0026-maanangkaatha-maravan-illustration.md) — illustration record
+- scan **27** — [`0027-maanangkaatha-maravan-03.md`](../../pages/0027-maanangkaatha-maravan-03.md)
+- scan **28** — [`0028-maanangkaatha-maravan-04.md`](../../pages/0028-maanangkaatha-maravan-04.md)
+- scan **29** — [`0029-maanangkaatha-maravan-05.md`](../../pages/0029-maanangkaatha-maravan-05.md)
+- scan **30** — [`0030-maanangkaatha-maravan-06.md`](../../pages/0030-maanangkaatha-maravan-06.md)
 
-## Printed Sangam provenance
+## Status
 
-Scan 30 prints:
+**Gate E section coverage: COMPLETE / PASS.**
 
-- `புறநானூறு : பாடல்: 74`
-- `பாடியவர் : சேரமான் கணைக்கால் இரும்பொறை`
-
-The quotation and the following `பொருள் விளக்கம்` are preserved as distinct source blocks. The same provenance is recorded in `../../indexes/source-citation-register.md`.
-
-This section README is a navigation/provenance manifest. Complete source text remains authoritative in the physical page records.
+The canonical page records under `../../pages/` remain the archival layer; this README is derived navigation only.

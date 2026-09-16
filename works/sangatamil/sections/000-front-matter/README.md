@@ -1,28 +1,40 @@
-# முன்பக்கங்கள் — scans 1–16
+# முன்பக்கங்கள் / front matter
 
-- source role: cover / title / publication / facsimile / introductory matter
-- scan range: **1–16**
-- printed front-matter pages visible: **III–IX** on scans 8–14
-- boundary confidence: **verified** — scan 17 begins the first decorative body section
-- direct text gate: **COMPLETE for scans 9–14 / printed IV–IX**
+- repository sequence: **000** — navigation only; not a printed chapter number
+- source role: **front matter**
+- physical scans: **1–16**
+- visible printed page span: **II–IX visible; other preliminaries unnumbered**
+- illustration / divider placement: **—**
+- Gate-E boundary: **verified**
+- wording state: **Gemini-lexical-locked; not word-for-word scan verified**
 
-## பக்கங்கள்
+## Boundary evidence
 
-| Scan | Role | Status |
-|---:|---|---|
-| 1 | cover | `verified` |
-| 2 | title page | `verified` |
-| 3 | later library sticker | `verified` |
-| 4–5 | ruled blanks | `verified` |
-| 6 | internal title page | `verified` |
-| 7 | publication details | `partial` |
-| 8 | handwritten `முன்னுரை` facsimile | `partial` |
-| 9 | `ஈ. இராமலிங்கனர் மடல்!` | `verified` + visual fidelity verified |
-| 10–13 | `அணிந்துரை` | `verified` + visual fidelity verified |
-| 14 | `பதிப்புரை` | `verified` + visual fidelity verified |
-| 15 | blank | `verified` |
-| 16 | internal title leaf | `verified` |
+Closes at scan 16; scan 17 begins the first decorative body section.
 
-Scans 7–8 remain explicitly source/page-level `partial` records and are not silently promoted merely because the printed-text gate 9–14 is complete.
+The section identity and physical range are derived from the scan-controlled canonical page metadata closed by Gates B and D. Gate E does not source-correct lexical wording.
 
-The physical page records under `../../pages/` remain canonical. This README is a navigation/status manifest only.
+## Canonical page records
+
+- scan **1** — [`0001-cover.md`](../../pages/0001-cover.md)
+- scan **2** — [`0002-title-page.md`](../../pages/0002-title-page.md)
+- scan **3** — [`0003-library-sticker.md`](../../pages/0003-library-sticker.md)
+- scan **4** — [`0004-blank-ruled.md`](../../pages/0004-blank-ruled.md)
+- scan **5** — [`0005-blank-ruled.md`](../../pages/0005-blank-ruled.md)
+- scan **6** — [`0006-title-page.md`](../../pages/0006-title-page.md)
+- scan **7** — [`0007-publication-details.md`](../../pages/0007-publication-details.md)
+- scan **8** — [`0008-munnurai-handwritten-facsimile.md`](../../pages/0008-munnurai-handwritten-facsimile.md)
+- scan **9** — [`0009-e-ramalinganar-madal.md`](../../pages/0009-e-ramalinganar-madal.md)
+- scan **10** — [`0010-aninthurai-01.md`](../../pages/0010-aninthurai-01.md)
+- scan **11** — [`0011-aninthurai-02.md`](../../pages/0011-aninthurai-02.md)
+- scan **12** — [`0012-aninthurai-03.md`](../../pages/0012-aninthurai-03.md)
+- scan **13** — [`0013-aninthurai-04.md`](../../pages/0013-aninthurai-04.md)
+- scan **14** — [`0014-pathippurai.md`](../../pages/0014-pathippurai.md)
+- scan **15** — [`0015-blank.md`](../../pages/0015-blank.md)
+- scan **16** — [`0016-title-page.md`](../../pages/0016-title-page.md)
+
+## Status
+
+**Gate E section coverage: COMPLETE / PASS.**
+
+The canonical page records under `../../pages/` remain the archival layer; this README is derived navigation only.

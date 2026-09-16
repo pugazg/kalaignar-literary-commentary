@@ -1,31 +1,29 @@
-# மாதரின் கண்ட மலர்கள்
+# மாவீரன் கண்ட மலர்கள்
 
-- repository sequence: **008** (navigation only; not a printed chapter number)
-- exact decorative heading directly observed at scan 50: **மாதரின் கண்ட மலர்கள்**
-- scan start: **50**
-- printed start page: **35**
-- canonical end boundary: **pending — deliberately deferred to Pass 5**
-- current physical records in this provisional section context: **scans 50–53**
+- repository sequence: **008** — navigation only; not a printed chapter number
+- source role: **thematic section**
+- physical scans: **50–54**
+- visible printed page span: **35–39**
+- illustration / divider placement: **52**
+- Gate-E boundary: **verified**
+- wording state: **Gemini-lexical-locked; not word-for-word scan verified**
 
-## Workflow status
+## Boundary evidence
 
-The project now follows [`../../MULTI_PASS_WORKFLOW.md`](../../MULTI_PASS_WORKFLOW.md).
+Closes at scan 54; scan 55 begins `நெல்லும் உயிர் அன்றே! நீரும் உயிர் அன்றே!`.
 
-**Pass 1 — transcription / physical capture only** is active. Do not pause Pass 1 to investigate this section's final boundary or to keep this README synchronized after every new page.
+The section identity and physical range are derived from the scan-controlled canonical page metadata closed by Gates B and D. Gate E does not source-correct lexical wording.
 
-Current records:
+## Canonical page records
 
-1. scan 50 / printed 35 — decorative opening + text; completed under the earlier verified-page cadence;
-2. scan 51 / printed 36 — transcription-only; `needs-review`;
-3. scan 52 — full-page illustration capture; `needs-review`; no visible printed page number;
-4. scan 53 / printed 38 — fast transcription-only; `needs-review`.
+- scan **50** — [`0050-maatharin-kanda-malargal-01.md`](../../pages/0050-maatharin-kanda-malargal-01.md)
+- scan **51** — [`0051-maatharin-kanda-malargal-02.md`](../../pages/0051-maatharin-kanda-malargal-02.md)
+- scan **52** — [`0052-maatharin-kanda-malargal-illustration.md`](../../pages/0052-maatharin-kanda-malargal-illustration.md) — illustration record
+- scan **53** — [`0053-maatharin-kanda-malargal-04.md`](../../pages/0053-maatharin-kanda-malargal-04.md)
+- scan **54** — [`0054-maatharin-kanda-malargal-05.md`](../../pages/0054-maatharin-kanda-malargal-05.md)
 
-The section field used in Pass-1 page records is provisional structural metadata until **Pass 5 — section-structure audit, scan 1 → 497** establishes the canonical end boundary and complete section page list.
+## Status
 
-## Exact next activity
+**Gate E section coverage: COMPLETE / PASS.**
 
-**Pass 1 only: process scan 54 as fast transcription / physical capture.**
-
-Do not perform routine textual verification, visual-fidelity verification, provenance verification, section-end research, continuity audit or documentation synchronization in the same iteration.
-
-This section README remains a provisional navigation record. The physical page records remain the archival text layer.
+The canonical page records under `../../pages/` remain the archival layer; this README is derived navigation only.
