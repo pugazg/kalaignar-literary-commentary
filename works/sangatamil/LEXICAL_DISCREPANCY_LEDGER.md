@@ -808,3 +808,77 @@ At C12 close:
 2. verify **0 canonical page files changed**;
 3. advance the Gate-C frontier to **scan 301**;
 4. do not start Gate C2.
+
+
+# C12 — scans 276–300
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-16**
+- audited scans: **276–300 / 25**
+- controlling source: user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_006_pages_251-300.pdf`, split pages **26–50**
+- direct Gemini lexical witness: user-supplied `File6.md`, Phase 15 / Book Pages **264–288**
+- locked comparison layer: current canonical page records under `works/sangatamil/pages/`
+- substantive discrepancy records: **6**
+- scans containing discrepancies: **6**
+- scans with no new substantive lexical discrepancy: **19**
+- canonical page files changed: **0**
+- Gate C2 corrections: **0**
+
+Clean / no-new-substantive-discrepancy scans:
+
+**276–280, 282–287, 289, 291, 293, 295, 297–300**
+
+Special handling:
+- scans **279, 283, 286, 289, 293, 297** are full-page colour illustrations and contain no source-visible literary body text;
+- File6 Phase 15 omits the illustration-only physical pages, so Book Pages **264–288** map across physical scans **276–300** with those six source illustration gaps preserved;
+- known File6 extraction debris already excluded during Gate B — scan 281 stray numeric `2`, scan 287 duplicated separator/extraction artefact, scans 288/291 stray numeric `66`, and scan 300 extraction marker / merged printed-page furniture — was not re-entered as Gate-C discrepancy;
+- harmless segmentation/spacing differences were excluded, including scan 277 `எ மக்குத்` / `எமக்குத்`, scan 278 `கழா அலின்` / `கழாஅலின்`, scan 284 `மகா அர்அன்ன` / `மகாஅர் அன்ன` (same concatenated character sequence), scan 290 `தெய்வத்தின்சேட்டையெனச்` / `தெய்வத்தின் சேட்டையெனச்`, and scan 294 compound-spacing differences;
+- scan **294** is nevertheless substantive because the canonical page drops the lexical/sandhi character `ப்` from source/File6 `ஒல்லையூர்ப் பகுதி`;
+- scan **281** and scan **296** each contain a source-visible decorative heading whose locked File6 extraction is materially missing/malformed; each heading is recorded as one lexical-block discrepancy rather than multiple token-level rows;
+- punctuation-only, line-wrap, running-header/footer and purely structural differences were excluded unless they materially altered lexical interpretation.
+
+## C12 discrepancy records
+
+| ID | Scan | Printed page | Canonical page | Locked File6 / repository wording | Source-visible / source-aligned wording | Classification | Gate-B exception already documented? | Notes |
+|---|---:|---:|---|---|---|---|---|---|
+| C12-001 | 281 | 269 | `0281-kilu-kiluppai-vazhangum-kirukiruppu-01.md` | File6/canonical decorative body heading `வழங்கும் / கிறுகிறப்பு!`; File6 also carries stray numeric `2` | source decorative heading `கிலு கிலுப்பை / வழங்கும் / கிறுகிறுப்பு!` | `missing-or-malformed-heading-lexical-block` | **yes — B12** | File6 omits the opening `கிலு கிலுப்பை` and changes `கிறுகிறுப்பு` to `கிறுகிறப்பு`. The numeric `2` is extraction debris and is not itself a lexical record. No source heading is inserted into the canonical body in Gate C. |
+| C12-002 | 288 | 276 | `0288-veriyaadum-velan-etharkaaga-01.md` | decorative body heading `இவறியாடும் / வேலன் / எதற்காக?` | source heading `வெறியாடும் / வேலன் / எதற்காக?` | `likely-gemini-error` | **yes — B12** | Metadata already preserves the source section identity while the body retains the File6 lock. Gate C records the initial-word corruption only. |
+| C12-003 | 290 | 278 | `0290-veriyaadum-velan-etharkaaga-03.md` | File6 `முறித்துப் போட்டதுபோல் நெளிகின்றாள், வளைகிறாள்!` | source/canonical `முறித்துப் போட்டதுபோல் நெளிகின்றாள், வளைகின்றாள்!` | `likely-gemini-error` | no | File6 shortens the second verb from `வளைகின்றாள்` to `வளைகிறாள்`. The canonical record happens to remain source-aligned; Gate C makes no page edit. |
+| C12-004 | 292 | 280 | `0292-ollaiyooril-mullaiyo-01.md` | decorative body heading `ஒல்லையூபில் / முல்லையோ?` | source heading `ஒல்லையூரில் / முல்லையோ?` | `likely-gemini-error` | **yes — B12** | The source place-name contains `ரில்`; File6 corrupts it to `பில்`. Metadata/body authority split remains unchanged. |
+| C12-005 | 294 | 282 | `0294-ollaiyooril-mullaiyo-03.md` | canonical `ஒல்லையூர் பகுதி எல்லையிலே` | File6 and source `ஒல்லையூர்ப் பகுதி எல்லையிலே` | `repository-only-divergence` | no | The direct witness and scan agree; the canonical page drops the terminal sandhi `ப்`. Recorded audit-only without repairing the page record. |
+| C12-006 | 296 | 284 | `0296-maru-pirappu-undendraal-marakkap-neridumo-01.md` | File6 heading is malformed as `மறு பிறப்பு / உண்டென்றால் / மறக்க ரூ / நேபிடுமோ?`; canonical body intentionally carries no recovered heading | source decorative heading `மறு பிறப்பு / உண்டென்றால் / மறக்க / நேரிடுமோ?` | `missing-or-malformed-heading-lexical-block` | **yes — B12** | Gate B deferred lexical heading resolution rather than source-recovering it. Gate C records the malformed/missing heading block only; canonical body remains unchanged. |
+
+## C12 closure audit
+
+C12 is an **audit-only closure**.
+
+- source scans **276–300** were visually inspected against the direct File6 witness and the preserved canonical layer;
+- **6** substantive discrepancy records were entered across **6** scans;
+- **0** canonical page records were edited;
+- no Gate-B page was reopened;
+- no lexical correction was promoted;
+- wording state remains **Gemini-lexical-locked / not word-for-word scan verified**.
+
+## Gate C cumulative state after C12
+
+- completed Gate-C batches: **C01–C12**
+- audited scans: **300/497**
+- cumulative substantive discrepancy records: **67**
+- remaining scans: **197**
+- next frontier: **scan 301**
+- Gate C2: **NOT STARTED / NOT AUTHORIZED**
+
+## Exact next activity
+
+Process **Gate C C13 — scans 301–325**.
+
+Available direct source pair:
+- user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_007_pages_301-350.pdf`, split pages **1–25** / physical scans **301–325**;
+- user-supplied `File7.md`, Phase 16 / Book Pages **290–314**.
+
+At C13 close:
+1. append only substantive lexical discrepancies to this ledger;
+2. verify **0 canonical page files changed**;
+3. advance the Gate-C frontier to **scan 326**;
+4. do not start Gate C2.
