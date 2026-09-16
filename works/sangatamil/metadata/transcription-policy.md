@@ -86,16 +86,22 @@ Body text-ல் சேரக்கூடாதவை: accession/library stamps,
 
 Section/provenance derived indexes designated later gates-ல் canonical completion பெறும்.
 
-## தற்போதைய செயல்பாட்டு எல்லை — 2026-09-15
+## தற்போதைய செயல்பாட்டு எல்லை — 2026-09-16
 
-- Gate A — COMPLETE / PASS
-- Gate B — B01–B16 complete
-- structurally reviewed — 400/497
-- remaining — 97
-- frontier — scan 401
-- next — B17 scans 401–425 with part_009_pages_401-450.pdf + File9.md
-- Gate C — NOT STARTED
+- Gate A — **COMPLETE / PASS**
+- Gate B — **COMPLETE / PASS — 497/497**
+- Gate C — **COMPLETE / PASS — 497/497 / 140 historical discrepancy records**
+- Gate C2 — **COMPLETE / APPLIED — 140/140 adjudicated**
+- Gate D — **COMPLETE / PASS — 497/497 physical/visual/continuity**
+- Gate E — **COMPLETE / PASS — 104 section-role entries / 497/497 assigned**
+- Gate F — **COMPLETE / PASS — 115 formal provenance units + 4 source-note-only**
+- Post-C2 reconciliation R1 — **COMPLETE / PASS**
+- Gate G — **COMPLETE / PASS — 497/497 metadata/status audited / 11 missing visual-fidelity fields repaired / 0 unresolved**
+- current next gate — **Gate H — derived navigation**
+- whole-volume word-for-word scan verification — **NOT CLAIMED**
 
-Durable B15 correction: scans **358–359** are mixed text/illustration; scan **359** is not illustration-only and must not regress.
+Durable Gate-G record: `../GATE_G_METADATA_STATUS_AUDIT.md`.
 
-Durable File9 exception: Book Pages **401–412** are not reliable one-to-one lexical blocks for physical scans **413–424**; document the defect rather than fabricating alignment.
+Durable B15 correction remains: scans **358–359** are mixed text/illustration; scan **359** is not illustration-only.
+
+Durable File9 exception remains: Book Pages **401–412** are not reliable one-to-one lexical blocks for physical scans **413–424**; do not fabricate alignment.
