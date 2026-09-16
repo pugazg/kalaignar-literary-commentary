@@ -1030,3 +1030,82 @@ At C15 close:
 2. verify **0 canonical page files changed**;
 3. advance the Gate-C frontier to **scan 376**;
 4. do not start Gate C2.
+
+
+# C15 — scans 351–375
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-16**
+- audited scans: **351–375 / 25**
+- controlling source: user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf`, split pages **1–25**
+- direct Gemini lexical witness: user-supplied `File8.md`, Phase 17 / Book Pages **339–363**
+- locked comparison layer: current canonical page records under `works/sangatamil/pages/`
+- substantive discrepancy records: **10**
+- scans containing discrepancies: **9**
+- scans with no new substantive lexical discrepancy: **16**
+- canonical page files changed: **0**
+- Gate C2 corrections: **0**
+
+Clean / no-new-substantive-discrepancy scans:
+
+**351, 353–358, 362, 365, 367–369, 371–372, 374–375**
+
+Special handling:
+- full-page illustration scans: **353, 356, 365, 368, 371, 375**;
+- mixed text/illustration scans: **358, 359**; scan **359** remains text-bearing and must not regress to illustration-only;
+- File8 page 348 collapses wording physically distributed across scans **358–360**; C15 therefore used the PDF only to resolve physical placement while preserving File8 as the locked lexical witness;
+- scan **352** confirms the source decorative heading includes `மங்கை`, while File8/canonical body heading omits it;
+- scan **363** confirms the source glossary expands `இத்திப் புகர்படு நீழல்` as `இத்தி மரத்தின் புள்ளிகள் பொருந்திய நிழல்`; File8/canonical omit the second `இத்தி` after the equals sign;
+- harmless spacing/segmentation differences were excluded, including scan 363 source `கெடாத கள்` vs locked `கெடாதகள்`;
+- scan **366** was rechecked visually: source `சாய்ந்திடிலோ` agrees with the locked layer, so only the differing `கொங்கையிலே` / `கொங்கையினை` reading is recorded;
+- punctuation-only, line-wrap, running-header/footer and purely structural differences were excluded unless they materially altered lexical interpretation.
+
+## C15 discrepancy records
+
+| ID | Scan | Printed page | Canonical page | Locked File8 / repository wording | Source-visible / source-aligned wording | Classification | Gate-B exception already documented? | Notes |
+|---|---:|---:|---|---|---|---|---|---|
+| C15-001 | 352 | 340 | `0352-mangai-kanda-magizhchi-01.md` | File8/canonical body heading `கண்ட மகிழ்ச்சி!` | source decorative heading `மங்கை கண்ட மகிழ்ச்சி!` | `missing-or-malformed-heading-lexical-block` | **yes — B15** | File8 omits the opening lexical word `மங்கை`. Metadata preserves the source section identity; canonical body remains unchanged. |
+| C15-002 | 359 | unnumbered | `0359-saanru-koorum-sariththira-varigal-illustration.md` | `குடவோலை முறையினாலே - நன்கு` | source `குடவோலை முறையினிலே - நன்கு` | `likely-gemini-error` | **yes — B15** | The visible source has `முறையினிலே`; File8/canonical use `முறையினாலே`. |
+| C15-003 | 360 | 348 | `0360-saanru-koorum-sariththira-varigal-03.md` | `தான் கடந்து செலஇருந்த தடங் குறித்துத்` | source `தான் கடந்து செல்லிருந்த தடங் குறித்துத்` | `likely-gemini-error` | **yes — B15** | File8 splits/corrupts the verb form as `செலஇருந்த`; direct visual inspection shows `செல்லிருந்த`. |
+| C15-004 | 361 | 349 | `0361-saanru-koorum-sariththira-varigal-04.md` | `விரோதிகளை வீழ்த்துக்கின்ற சேரமானின் தளபதியாம்` | source `விரோதிகளை வீழ்த்துகின்ற சேரமானின் தளபதியாம்` | `likely-gemini-error` | **yes — B15** | File8/canonical insert `க்` into the verb form; source reads `வீழ்த்துகின்ற`. |
+| C15-005 | 363 | 351 | `0363-saanru-koorum-sariththira-varigal-06.md` | `இத்திப் புகர்படு நீழல் = மரத்தின் புள்ளிகள் பொருந்திய நிழல்` | source `இத்திப் புகர்படு நீழல் = இத்தி மரத்தின் புள்ளிகள் பொருந்திய நிழல்` | `likely-gemini-error` | **yes — B15** | File8/canonical omit the second lexical `இத்தி` in the gloss definition. Gate C records the omission only. |
+| C15-006 | 364 | 352 | `0364-parisappanam-vendaam-parisupporul-idho-01.md` | `சற்று முகம் சுளீப்பீர்!` | source `சற்று முகம் சுளிப்பீர்!` | `likely-gemini-error` | **yes — B15** | File8/canonical introduce an extra long-vowel sign in the verb. |
+| C15-007 | 366 | 354 | `0366-parisappanam-vendaam-parisupporul-idho-03.md` | `கொஞ்சி மகிழும் குமரியின் கொங்கையினை அவள் காதலன்;` | source `கொஞ்சி மகிழும் குமரியின் கொங்கையிலே அவள் காதலன்;` | `likely-gemini-error` | **yes — B15** | The source locative form is `கொங்கையிலே`; File8/canonical substitute `கொங்கையினை`. |
+| C15-008 | 370 | 358 | `0370-kankanda-saatchi-undo-01.md` | `கணப்பொழுதும் அகலாதிரு கண்ணா என;` | source `கணப்பொழுதும் அகலாதிரு கண்ணே என;` | `likely-gemini-error` | **yes — B15** | Direct source inspection confirms vocative `கண்ணே`, not locked `கண்ணா`. |
+| C15-009 | 370 | 358 | `0370-kankanda-saatchi-undo-01.md` | `ஓருயிராய் நாங்களாகி உலகத்தை மறந்ததும் பொய்யா?` | source `ஒருயிராய் நாங்களாகி உலகத்தை மறந்ததும் பொய்யா?` | `likely-gemini-error` | **yes — B15** | File8/canonical lengthen the initial vowel; source reads short-vowel `ஒருயிராய்`. |
+| C15-010 | 373 | 361 | `0373-or-uvamai-iru-kaatchi-01.md` | decorative body heading `ஒர் உவமை; இரு காட்சி!` | source decorative heading `ஓர் உவமை; இரு காட்சி!` | `likely-gemini-error` | **yes — B15** | Metadata retains the source identity while the body preserves the File8 lock. |
+
+## C15 closure audit
+
+C15 is an **audit-only closure**.
+
+- source scans **351–375** were visually inspected against the direct File8 witness and the preserved canonical layer;
+- **10** substantive discrepancy records were entered across **9** scans;
+- **0** canonical page records were edited;
+- no Gate-B page was reopened;
+- no lexical correction was promoted;
+- wording state remains **Gemini-lexical-locked / not word-for-word scan verified**.
+
+## Gate C cumulative state after C15
+
+- completed Gate-C batches: **C01–C15**
+- audited scans: **375/497**
+- cumulative substantive discrepancy records: **89**
+- remaining scans: **122**
+- next frontier: **scan 376**
+- Gate C2: **NOT STARTED / NOT AUTHORIZED**
+
+## Exact next activity
+
+Process **Gate C C16 — scans 376–400**.
+
+Available direct source pair:
+- user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf`, split pages **26–50** / physical scans **376–400**;
+- user-supplied `File8.md`, Book Pages **364–388**.
+
+At C16 close:
+1. append only substantive lexical discrepancies to this ledger;
+2. verify **0 canonical page files changed**;
+3. advance the Gate-C frontier to **scan 401**;
+4. do not start Gate C2.
