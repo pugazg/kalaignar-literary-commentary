@@ -1266,3 +1266,100 @@ At C18 close:
 2. verify **0 canonical page files changed**;
 3. advance the Gate-C frontier to **scan 451**;
 4. do not start Gate C2.
+
+
+# C18 — scans 426–450
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-16**
+- audited scans: **426–450 / 25**
+- controlling source: user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf`, split pages **26–50**
+- direct Gemini lexical witness: user-supplied `File9.md`, Phase 20 only where a reliable block actually exists
+- reliable File9 mapping: Pages **414–425 → physical scans 426–437**
+- scans **438–450**: **no File9 lexical blocks**; audited directly against the preserved repository layer
+- substantive discrepancy records: **18**
+- scans containing discrepancies: **9**
+- scans with no new substantive lexical discrepancy: **16**
+- canonical page files changed: **0**
+- Gate C2 corrections: **0**
+
+Clean / no-new-substantive-discrepancy scans:
+
+**426–428, 432–433, 437–440, 443–447, 449–450**
+
+Special handling:
+- full-page illustration scans: **427, 433, 439, 447**;
+- File9 Page **413** remains a carry-forward note only and is not mapped to scan 426;
+- usable File9 Pages **414–425** were used only for physical scans **426–437**;
+- File9 provides no lexical block for scans **438–450 / printed 426–438**; C18 therefore made no synthetic lock alignment for that tail;
+- scan **430** File9 `விரைந்தோடிிட` remains a malformed extraction token; source/canonical usable `விரைந்தோடிட` is retained and no discrepancy is recorded for that defect;
+- punctuation-only, spacing-only, line-wrap, running-header/footer and purely structural differences were excluded unless they materially altered lexical interpretation.
+
+## C18 discrepancy records
+
+| ID | Scan | Printed page | Canonical page | Locked File9 / repository wording | Source-visible / source-aligned wording | Classification | Gate-B exception already documented? | Notes |
+|---|---:|---:|---|---|---|---|---|---|
+| C18-001 | 429 | 417 | `0429-oruthalaik-kaadhal-01-04.md` | `விண்ணில் நட்சத்திரமொன்று வீழ்கின்ற வேகத்தில்` | source `விண்ணில் நட்சத்திரமொன்று விழுகின்ற வேகத்தில்` | `likely-gemini-error` | **yes — B18** | File9/canonical lengthen/alter the verb; direct visual source reads `விழுகின்ற`. |
+| C18-002 | 430 | 418 | `0430-oruthalaik-kaadhal-01-05.md` | sequence proceeds from `கட்டிய மனையாள் பேற்று வலியால் பெரிதும்` directly to `சேதி வந்து...` | source includes `துடிப்பதாய்ச்` before `சேதி வந்து...` | `likely-gemini-error` | **yes — B18** | File9/canonical omit the source-visible lexical token `துடிப்பதாய்ச்`. |
+| C18-003 | 431 | 419 | `0431-oruthalaik-kaadhal-01-06.md` | `ஊசியினும் வேகமாயப் போரை முடித்து` | source `ஊசியினும் வேகமாய்ப் போரை முடித்து` | `likely-gemini-error` | **yes — B18** | Source has the conjunct form `வேகமாய்ப்`; locked layer has `வேகமாயப்`. |
+| C18-004 | 431 | 419 | `0431-oruthalaik-kaadhal-01-06.md` | paragraph begins directly `முத்தமிழ் வித்தகரின் பாமாலைக்கும்...` | source has standalone lexical transition `இவ்வாறு` before that paragraph | `likely-gemini-error` | **yes — B18** | File9/canonical omit source-visible `இவ்வாறு`. |
+| C18-005 | 434 | 422 | `0434-oruthalaik-kaadhal-02-03.md` | `சுடுங்காதல் நெருப்பாலே சுவைப்பண்டம் சமைத்து` | source `கடுங்காதல் நெருப்பாலே சுவைப்பண்டம் சமைத்து` | `likely-gemini-error` | **yes — B18** | Direct source inspection confirms initial `கடு-`, not locked `சுடு-`. |
+| C18-006 | 435 | 423 | `0435-oruthalaik-kaadhal-02-04.md` | `கடுந்தமிழ்ச் சொல்லாலே இப்பாடல் இயுள்ளேன்.` | source `கடுந்தமிழ்ச் சொல்லாலே இப்பாடல் இயற்றியுள்ளேன்.` | `likely-gemini-error` | **yes — B18** | Locked layer drops the internal `ற்றிய` sequence. |
+| C18-007 | 435 | 423 | `0435-oruthalaik-kaadhal-02-04.md` | `வாட்டும் காதல் நிறைவேற வழியொரு சொல்லென்று` | source `வாட்டும் காதல் நிறைவேற வழியொன்று சொல்லென்று` | `likely-gemini-error` | **yes — B18** | Source reads `வழியொன்று`; File9/canonical use `வழியொரு`. |
+| C18-008 | 436 | 424 | `0436-oruthalaik-kaadhal-02-05.md` | `“மகளே; நற்கண்ணை!” என்றழைத்துவாறு` | source `“மகளே; நற்கண்ணை!” என்றழைத்தவாறு` | `likely-gemini-error` | **yes — B18** | Locked `து` differs from source `த` in the verb form. |
+| C18-009 | 441 | 429 | `0441-oruthalaik-kaadhal-03-03.md` | `“சொல்” என்று கோபம் வருவதற்குள்...` | source `“சுள்” என்று கோபம் வருவதற்குள்...` | `repository-only-divergence` | **B18 no-File9 tail** | The source uses the onomatopoeic `சுள்`; repository substitutes lexical `சொல்`. |
+| C18-010 | 441 | 429 | `0441-oruthalaik-kaadhal-03-03.md` | `... உண்மையைச் சொல்லிவிடு” என்றுரைத்தாள்!` | source `... உண்மையைச் சொல்லிவிடு” என்றாள்!` | `repository-only-divergence` | **B18 no-File9 tail** | Repository adds lexical `உரைத்த` not present in source. |
+| C18-011 | 441 | 429 | `0441-oruthalaik-kaadhal-03-03.md` | `நன்னுளாம் நாளை விருந்துக்கு வருகின்ற கிள்ளியிடம்` | source `நன்னாளாம் நாளை விருந்துக்கு வருகின்ற கிள்ளியிடம்` | `repository-only-divergence` | **B18 no-File9 tail** | Direct visual source confirms `நன்னாளாம்`. |
+| C18-012 | 441 | 429 | `0441-oruthalaik-kaadhal-03-03.md` | `குறித்த நேரம் தவறுமல் ஊர்ச் சேவல் கூவியது!` | source `குறித்த நேரம் தவறாமல் ஊர்ச் சேவல் கூவியது!` | `repository-only-divergence` | **B18 no-File9 tail** | Repository omits the long-vowel sign in `தவறாமல்`. |
+| C18-013 | 442 | 430 | `0442-oruthalaik-kaadhal-03-04.md` | `உப்பு மட்டும் போதற்கு மறந்திடாதீர்!` | source `உப்பு மட்டும் போடுதற்கு மறந்திடாதீர்!` | `repository-only-divergence` | **B18 no-File9 tail** | Source contains the full verb form `போடுதற்கு`. |
+| C18-014 | 442 | 430 | `0442-oruthalaik-kaadhal-03-04.md` | `காங்குவித்து ஒருவருக்கொருவர் வணக்கம் செய்து` | source `கரங்குவித்து ஒருவருக்கொருவர் வணக்கம் செய்து` | `repository-only-divergence` | **B18 no-File9 tail** | Direct visual source confirms `கரங்குவித்து`. |
+| C18-015 | 442 | 430 | `0442-oruthalaik-kaadhal-03-04.md` | `கனிந்த அன்பைப் பாரிமாறிக்கொண்டு` | source `கனிந்த அன்பைப் பரிமாறிக்கொண்டு` | `repository-only-divergence` | **B18 no-File9 tail** | Repository alters the initial vowel/consonant sequence of `பரிமாறிக்கொண்டு`. |
+| C18-016 | 442 | 430 | `0442-oruthalaik-kaadhal-03-04.md` | `வேங்கைகளிற் கிள்ளியிடம் விரைந்து வந்தாள் நற்கண்ணை!` | source `வேங்கைநிகர்க் கிள்ளியிடம் விரைந்து வந்தாள் நற்கண்ணை!` | `repository-only-divergence` | **B18 no-File9 tail** | The source has the compound `வேங்கைநிகர்க்`; repository text is materially corrupted. |
+| C18-017 | 442 | 430 | `0442-oruthalaik-kaadhal-03-04.md` | `ஒவ்வொருக்கும்போது படித்தால் போதும்!` | source `ஓய்விருக்கும்போது படித்தால் போதும்!` | `repository-only-divergence` | **B18 no-File9 tail** | Direct visual source confirms `ஓய்விருக்கும்போது`. |
+| C18-018 | 448 | 436 | `0448-oruthalaik-kaadhal-04-03.md` | `“கருந்தைப் போர் வெல்க!” என்றாள்!` | source `“கரந்தைப் போர் வெல்க!” என்றாள்!` | `repository-only-divergence` | **B18 no-File9 tail** | Source uses the battle-name form `கரந்தை`, consistent with the earlier section wording. |
+
+## C18 closure audit
+
+C18 is an **audit-only closure**.
+
+- source scans **426–450** were visually inspected;
+- File9 was used only for reliable mapped scans **426–437**;
+- scans **438–450** were audited directly against the source and preserved repository layer because File9 supplies no lexical blocks for that tail;
+- **18** substantive discrepancy records were entered across **9** scans;
+- **0** canonical page records were edited;
+- no Gate-B page was reopened;
+- no lexical correction was promoted;
+- wording state remains **Gemini-lexical-locked / not word-for-word scan verified**.
+
+## Gate C cumulative state after C18
+
+- completed Gate-C batches: **C01–C18**
+- audited scans: **450/497**
+- cumulative substantive discrepancy records: **118**
+- remaining scans: **47**
+- next frontier: **scan 451**
+- Gate C2: **NOT STARTED / NOT AUTHORIZED**
+
+## Exact next activity
+
+Process **Gate C C19 — scans 451–475**.
+
+Available direct source pair:
+- user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf`, split pages **1–25** / physical scans **451–475**;
+- user-supplied `File10.md` where a reliable lexical block exists.
+
+Mapping / anomaly rules from B19:
+- scans **451–461** map to File10 comments **439–449**;
+- File10 Page **449** is reliable only through `இனி ஆற்றுவதுதான் எவ்வாறு தோழி?`; its tail is replacement material;
+- scan **462 / printed 450** has **no reliable File10 lexical block**;
+- scans **463–468** map to File10 comments **450–455**;
+- File10 Page **456** is a phantom image marker and must be ignored;
+- scans **469–475** map to File10 comments **457–463**;
+- do not fabricate lexical alignment for any missing/replaced segment.
+
+At C19 close:
+1. append only substantive lexical discrepancies to this ledger;
+2. verify **0 canonical page files changed**;
+3. advance the Gate-C frontier to **scan 476**;
+4. do not start Gate C2.
