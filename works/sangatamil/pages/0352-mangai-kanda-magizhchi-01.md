@@ -2,17 +2,17 @@
 scan_page: 352
 printed_page: "340"
 work: "sangatamil"
-section: "மங்கை கண்ட மகிழ்ச்சி!"
+section: "மாமழை கண்ட மகிழ்ச்சி!"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "decorative multicolour source heading `மங்கை கண்ட மகிழ்ச்சி!`; File8 omits `மங்கை` and includes stray `YOM`; body therefore retains only locked `கண்ட மகிழ்ச்சி!`; source-supported right-edge carryovers restored; printed page number 340"
+visual_notes: "C2-15 user-adjudicated decorative heading `மாமழை கண்ட மகிழ்ச்சி!`; earlier `மங்கை கண்ட மகிழ்ச்சி!` / `கண்ட மகிழ்ச்சி!` readings superseded; source-supported right-edge carryovers retained; printed page number 340"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 heading adjudication"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
-# கண்ட மகிழ்ச்சி!
+# மாமழை கண்ட மகிழ்ச்சி!
 
 இளைப்பாறச் சிறுநிழலின்றி ஏங்கித்தவித்த தவளையொன்று
 எடுப்பாகப் படமெடுத்து வெயில் தாங்காமல் வாலூன்றி -
@@ -47,4 +47,4 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 பார் முழுதும் பஞ்சமோபஞ்சம் என்ற சொல்,
 கூர் அம்பாக நெஞ்சில் குத்துகின்ற வேளையிலே;
 
-<!-- Gate B excludes File8 extraction debris `YOM`, does not source-recover omitted lexical `மங்கை` into the body heading, and restores PDF-supported right-edge carryovers. -->
+<!-- C2-15: user adjudicated both historical heading candidates as incorrect and supplied exact `மாமழை கண்ட மகிழ்ச்சி!`; body and section metadata now use that reading. Existing PDF-supported right-edge carryovers remain unchanged. -->

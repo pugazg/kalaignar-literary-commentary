@@ -20,10 +20,11 @@ The user explicitly opened C2 in manual batches and supplied adjudications that 
 - **C2-12 — scans 276–300**
 - **C2-13 — scans 301–325**
 - **C2-14 — scans 326–350**
+- **C2-15 — scans 351–375**
 
 The historical Gate-C ledger remains an audit record. Where the user's manual C2 adjudication disagrees with the earlier Gate-C interpretation, **the user's adjudication controls**.
 
-Scans **351–497 remain Gemini-lexical-locked** until the user supplies further instructions.
+Scans **376–497 remain Gemini-lexical-locked** until the user supplies further instructions.
 
 ## C2-01 — scans 1–25
 
@@ -238,18 +239,38 @@ C2-13 page files modified: **304, 307, 309, 312, 313**. Scan **321** required no
 
 C2-14 page files modified: **326, 328, 340**. C14-002 and C14-004 required no canonical edits.
 
+
+## C2-15 — scans 351–375
+
+**Status: COMPLETE / APPLIED**
+
+| Gate-C ID | Scan | User adjudication | Repository action |
+|---|---:|---|---|
+| C15-001 | 352 | both historical heading candidates incorrect; exact heading `மாமழை கண்ட மகிழ்ச்சி!` | replaced body heading and section metadata with exact user ruling |
+| C15-002 | 359 | `குடவோலை முறையினாலே - நன்கு` — Gemini is correct | no change; protected |
+| C15-003 | 360 | `தான் கடந்து செலஇருந்த தடங் குறித்துத்` — Gemini is correct | no change; protected |
+| C15-004 | 361 | source `விரோதிகளை வீழ்த்துகின்ற சேரமானின் தளபதியாம்` — Gemini error | corrected `வீழ்த்துக்கின்ற` → `வீழ்த்துகின்ற` |
+| C15-005 | 363 | source glossary `இத்திப் புகர்படு நீழல் = இத்தி மரத்தின் புள்ளிகள் பொருந்திய நிழல்` — Gemini error | restored omitted second `இத்தி` in the glossary definition |
+| C15-006 | 364 | `சற்று முகம் சுளீப்பீர்!` — Gemini is correct | no change; protected |
+| C15-007 | 366 | `கொஞ்சி மகிழும் குமரியின் கொங்கையினை அவள் காதலன்;` — Gemini is correct | no change; protected |
+| C15-008 | 370 | `கணப்பொழுதும் அகலாதிரு கண்ணா என;` — Gemini is correct | no change; protected |
+| C15-009 | 370 | `ஓருயிராய் நாங்களாகி உலகத்தை மறந்ததும் பொய்யா?` — Gemini is correct | no change; protected |
+| C15-010 | 373 | source decorative heading `ஓர் உவமை; இரு காட்சி!` — Gemini error | corrected body heading `ஒர் உவமை; இரு காட்சி!` → `ஓர் உவமை; இரு காட்சி!` |
+
+C2-15 page files modified: **352, 361, 363, 373**.
+
 ## Cumulative C2 state
 
-- C2 disposition coverage — **350/497 scans** (C06 closed with 0 discrepancy records)
-- modified canonical page files — **48**
-- literary/source corrections applied — scans **7, 21, 28, 29, 35, 47, 51, 59, 64, 70, 77, 83, 96, 113, 123, 163, 165, 175, 188, 192, 195, 199, 208, 221, 223, 226, 230, 237, 240, 248, 254, 257, 281, 288, 292, 294, 296, 304, 307, 309, 312, 313, 326, 328, 340**
+- C2 disposition coverage — **375/497 scans** (C06 closed with 0 discrepancy records)
+- modified canonical page files — **52**
+- literary/source corrections applied — scans **7, 21, 28, 29, 35, 47, 51, 59, 64, 70, 77, 83, 96, 113, 123, 163, 165, 175, 188, 192, 195, 199, 208, 221, 223, 226, 230, 237, 240, 248, 254, 257, 281, 288, 292, 294, 296, 304, 307, 309, 312, 313, 326, 328, 340, 352, 361, 363, 373**
 - facsimile-description policy applied — scan **8**
 - stale divergence / section-title metadata cleaned without body change — scans **40, 112**
-- protected Gemini-correct findings — scans **5, 9, 11, 13, 19, 29, 39, 40, 47, 53, 58, 64, 87, 96, 120, 174, 180, 199, 257, 274, 312, 313, 331**
-- scans **351–497** — **LOCKED / C2 NOT AUTHORIZED**
+- protected Gemini-correct findings — scans **5, 9, 11, 13, 19, 29, 39, 40, 47, 53, 58, 64, 87, 96, 120, 174, 180, 199, 257, 274, 312, 313, 331, 359, 360, 364, 366, 370**
+- scans **376–497** — **LOCKED / C2 NOT AUTHORIZED**
 - whole-volume word-for-word verification — **NOT CLAIMED**
 - Gate G — **DEFERRED**
 
 ## Next activity
 
-Wait for the user's C2 findings/instructions for **scans 351–375**. Do not modify that batch from the historical ledger alone.
+Wait for the user's C2 findings/instructions for **scans 376–400**. Do not modify that batch from the historical ledger alone.

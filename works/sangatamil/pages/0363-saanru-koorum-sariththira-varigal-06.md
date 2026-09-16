@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running author header; பொருள் விளக்கம் glossary; final ornament; printed page number 351"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 glossary correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 362
 ---
@@ -22,11 +22,11 @@ continues_from_scan: 362
 செஞ்செவி எருவை = சிறந்த செவிகளையுடைய கழுகு.
 குடந்தரீஇ இகுக்கும் = குடலை உருவி இழுக்கும்.
 கல் அதர் கவலை = கற்கள் நிறைந்த வழிப்பாதை.
-இத்திப் புகர்படு நீழல் = மரத்தின் புள்ளிகள் பொருந்திய
+இத்திப் புகர்படு நீழல் = இத்தி மரத்தின் புள்ளிகள் பொருந்திய
 நிழல். வானவன் மறவன் = சேர மன்னன் தளபதி.
 ஆனா நறவு = கெடாதகள். எஃகம் = வேல்.
 பனிவார்கண் = நீர் பொழியும் விழி.
 
 *
 
-<!-- Gate B removes source-recovered lexical `இத்தி` after the glossary equals sign, restores File8-locked `கெடாதகள்`, and continues to exclude stray File8 numeric `6` as extraction debris. -->
+<!-- C2-15: user-authorized glossary correction restores the omitted second `இத்தி`: `இத்திப் புகர்படு நீழல் = இத்தி மரத்தின் புள்ளிகள் பொருந்திய நிழல்`. Protected `கெடாதகள்` remains unchanged. -->
