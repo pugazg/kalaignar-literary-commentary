@@ -150,4 +150,4 @@ Gate D — **COMPLETE / PASS**:
 
 Gate E — **COMPLETE / PASS**: 104 source-order section-role entries; 497/497 scans assigned exactly once; 0 canonical page-wording changes; durable report `works/sangatamil/SECTION_COVERAGE_AUDIT.md`.
 
-Proceed to Gate F — **Sangam provenance audit**. Start at scans **1–25** and verify source-visible anthology/work name, பாடல் number/range, poet attribution, quotation boundaries, `பொருள் விளக்கம்`, and other printed source notes. Update `works/sangatamil/indexes/source-citation-register.md` and `works/sangatamil/PROVENANCE_AUDIT.md`. Do not start Gate C2 unless explicitly authorized.
+Gate F — **IN PROGRESS**. F01 scans **1–25 — COMPLETE / PASS**: 2 formal provenance units verified; 0 canonical page-wording changes. Current provenance frontier: **scan 26**. Continue verifying only source-visible anthology/work name, பாடல் number/range, poet attribution, quotation boundaries, `பொருள் விளக்கம்`, and other printed source notes. Keep `works/sangatamil/indexes/source-citation-register.md` and `works/sangatamil/PROVENANCE_AUDIT.md` current. Do not start Gate C2 unless explicitly authorized.

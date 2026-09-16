@@ -98,4 +98,4 @@ Gate E — COMPLETE / PASS:
 
 ## Exact next activity
 
-Proceed to Gate F — Sangam provenance audit. Start with scans 1–25; update `indexes/source-citation-register.md` and create/update `PROVENANCE_AUDIT.md`. Do not start Gate C2 without explicit authorization.
+Gate F — **IN PROGRESS**. F01 scans **1–25 — COMPLETE / PASS** with **2** formal provenance units verified and **0 canonical page-wording changes**. Current provenance frontier: **scan 26**. Continue updating `indexes/source-citation-register.md` and `PROVENANCE_AUDIT.md`; do not start Gate C2 without explicit authorization.

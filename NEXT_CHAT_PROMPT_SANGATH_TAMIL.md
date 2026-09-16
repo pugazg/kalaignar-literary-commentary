@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate F Sangam Provenance Audit / F01 scans 1–25
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate F Sangam Provenance Audit / continue from scan 26
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -13,6 +13,16 @@ Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`. **LI
 
 Wording state remains **Gemini-lexical-locked — not word-for-word scan verified**.
 
+## Gate F durable state
+
+- F01 scans **1–25 — COMPLETE / PASS**.
+- formal provenance units verified in F01 — **2**.
+- citation-anchor scans — **19, 24**.
+- canonical page-wording changes — **0**.
+- current provenance frontier — **scan 26**.
+- durable report — `works/sangatamil/PROVENANCE_AUDIT.md`.
+- register — `works/sangatamil/indexes/source-citation-register.md`.
+
 ## Authoritative controls
 
 Read first:
@@ -23,9 +33,10 @@ Read first:
 5. `works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md`
 6. `works/sangatamil/STRUCTURAL_FIDELITY_PROGRESS.md`
 7. `works/sangatamil/indexes/source-citation-register.md`
-8. `SANGATH_TAMIL_ARCHIVAL_GUIDELINES.md`
-9. root `HANDOVER.md`
-10. `works/sangatamil/README.md`
+8. `works/sangatamil/PROVENANCE_AUDIT.md`
+9. `SANGATH_TAMIL_ARCHIVAL_GUIDELINES.md`
+10. root `HANDOVER.md`
+11. `works/sangatamil/README.md`
 
 ## Gate F objective
 
@@ -39,16 +50,16 @@ Systematically verify **source-visible provenance only**:
 
 Do not silently replace this edition with another edition and do not use external concordances to overwrite printed labels.
 
-## Exact next activity — F01
+## Exact next activity
 
-Process **scans 1–25**.
+Continue from **scan 26** using the normal 25-scan Gate-F cadence.
 
 For each provenance-bearing scan:
 1. inspect the controlling source image;
 2. preserve the printed label exactly as this edition gives it;
 3. record section/context, source work, poem/range, poet, and note/block type;
 4. update `works/sangatamil/indexes/source-citation-register.md`;
-5. create/update `works/sangatamil/PROVENANCE_AUDIT.md` with F01 progress;
+5. append the completed batch to `works/sangatamil/PROVENANCE_AUDIT.md`;
 6. verify **0 canonical page-wording changes**.
 
-At F01 close, advance the provenance frontier to **scan 26**. Do not start Gate C2.
+Do not start Gate C2.
