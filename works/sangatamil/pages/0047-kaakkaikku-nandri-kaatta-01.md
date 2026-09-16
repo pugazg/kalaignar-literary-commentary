@@ -6,14 +6,14 @@ section: "காக்கைக்கு நன்றி காட்ட..."
 page_type: "text"
 status: "verified"
 visual_fidelity: "verified"
-visual_notes: "large decorative two-line source heading at top; Gemini lock supplies only காக்கைக்கு, so source-visible நன்றி காட்ட... is recorded here but not silently added to the body heading; source text set in short verse/prose lines with paragraph spacing; quoted speech block mid-page; deliberately right-aligned continuation என்று; sentence continues after the intervening illustration on scan 48 to scan 49; horizontal rule above centered printed page number"
+visual_notes: "large decorative two-line source heading at top restored in Gate C2 as காக்கைக்கு நன்றி காட்ட...; source text set in short verse/prose lines with paragraph spacing; quoted speech block mid-page; deliberately right-aligned continuation என்று; sentence continues after scan 48 to scan 49"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical layer with user-authorized Gate C2 heading correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_to_scan: 49
 ---
 
-# காக்கைக்கு
+# காக்கைக்கு நன்றி காட்ட...
 
 போரில் கலந்திட பிரிந்து சென்றவன்  
 தோளில் தவழ்ந்திட வரவில்லை யென்று
@@ -52,6 +52,6 @@ continues_to_scan: 49
 வள்ளல் நள்ளியின் வளநாட்டு ஆயர்  
 அள்ளி வழங்கும் நெய்யுடன்
 
+<!-- Gate C2 / user manual review: full source heading restored; `அப்படியொரு காகம் கரைந்திற்றாங்கே!` retained as Gemini-correct. -->
 <!-- The source sentence continues after the full-page illustration on scan 48 and resumes on scan 49; no continuation text is pulled into this physical page record. -->
-<!-- Gemini-locked wording is retained while scan 47 controls punctuation, printed lineation and paragraph grouping, quotation boundaries, right alignment, decorative-heading placement and page furniture. The source-visible heading remainder `நன்றி காட்ட...` is absent from File1 and is therefore documented but not silently transcribed into the body. -->
 <!-- மூல ஸ்கேன் பக்கம்: 47; அச்சுப் பக்கம்: 32 -->

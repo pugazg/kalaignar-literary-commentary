@@ -111,6 +111,20 @@ Durable outputs:
 - indexes/source-citation-register.md
 - PROVENANCE_AUDIT.md
 
+## Gate C2 — user-adjudicated lexical/source correction
+
+Gate C2 is now partially open and user-controlled:
+
+- **C2-01 scans 1–25 — COMPLETE / APPLIED**
+- **C2-02 scans 26–50 — COMPLETE / APPLIED**
+- user-adjudicated coverage — **50/497 scans**
+- scans **51–497 remain Gemini-lexical-locked**
+- durable record — `C2_SOURCE_CORRECTION_PROGRESS.md`
+- scan 8 handwritten `முன்னுரை` — description-only by explicit user direction; no handwriting transcription required
+- Gate G — **DEFERRED while C2 is active**
+
+Whole-volume wording must **not** yet be described as word-for-word scan verified.
+
 ## Exact next activity
 
-Proceed to **Gate G — metadata/status closure** across all 497 canonical pages. Do not start Gate C2 without explicit authorization.
+**Wait for the user's C2 findings/instructions for scans 51–75.** Do not modify scans 51+ and do not start Gate G until instructed.

@@ -7,8 +7,8 @@ page_type: "publication-details"
 status: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
-visual_notes: "centered நூல் அளவை heading; two-column label/value layout; printed page number II centered at foot; source-visible unit after the அளவு value is not present in the locked Gemini wording and has not been lexically recovered"
+transcription_method: "Gemini-locked lexical layer with user-authorized Gate C2 source correction"
+visual_notes: "centered நூல் அளவை heading; two-column label/value layout; printed page number II centered at foot; Gate C2 restores the user-confirmed source-visible அளவு unit"
 ---
 
 # நூல் அளவை
@@ -22,7 +22,7 @@ visual_notes: "centered நூல் அளவை heading; two-column label/valu
 | வெளியீடு | : 4. |
 | பதிப்பு | : ஒன்று. |
 | தாள் | : மாப் லித்தோ. |
-| அளவு | : 14 x 21 1/2 |
+| அளவு | : 14 x 21½ சி.எம். |
 | படிகள் | : 3,000. |
 | காலம் | : ஆகஸ்ட் 1987. |
 | விலை | : ரூ. 125/- (ரூபாய் நூற்று இருபத்தி ஐந்து ) |
@@ -32,4 +32,5 @@ visual_notes: "centered நூல் அளவை heading; two-column label/valu
 | ஒளி அச்சுக் கோர்வை | : காந்தளகம் - சென்னை - 2. |
 | அச்சிட்டோர் | : சீனிவாஸ் பைன் ஆர்ட்ஸ் - சிவகாசி. |
 
+<!-- Gate C2 / user manual review: அளவு corrected to source-visible `14 x 21½ சி.எம்.`. -->
 <!-- மூல ஸ்கேன் பக்கம்: 7; அச்சுப் பக்கம்: II -->

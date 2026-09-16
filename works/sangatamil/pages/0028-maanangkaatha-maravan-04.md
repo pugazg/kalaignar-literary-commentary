@@ -8,7 +8,7 @@ status: "verified"
 visual_fidelity: "verified"
 visual_notes: "running author header; continuous verse blocks; a few later pencil ticks excluded from body text; printed page number centered"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical layer with user-authorized Gate C2 source correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -47,7 +47,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 
 திருப்போர்ப் புறமெனும் சமர்க் களத்தில்  
 திண்தோள் சேரன் தோற்றவுடன் -  
-அட்டா; அவனைச் சோழமன்னன்  
+அடடா; அவனைச் சோழமன்னன்  
 குடவாயிற்கோட்டச் சிறைதனில் அடைத்தான்.
 
 உறைவிட்டெழுந்த உடைவாள் பட்டு  
@@ -55,5 +55,6 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 சிறைப்பட்டு வாழும் நிலை வந்ததே என்று  
 சிந்தை அணு ஒவ்வொன்றும் நோக வாடினான் சேரன்.
 
+<!-- Gate C2 / user manual review: அட்டா → அடடா. -->
 <!-- காட்சி குறிப்பு: மூலத்தில் பின்னர் சேர்க்கப்பட்ட பென்சில் குறிகள் காணப்படுகின்றன; அச்சு உட்பொருளில் சேர்க்கப்படவில்லை. -->
 <!-- மூல ஸ்கேன் பக்கம்: 28; அச்சுப் பக்கம்: 13 -->

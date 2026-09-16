@@ -241,7 +241,7 @@ Final declaration must distinguish one of two outcomes:
 
 ## Current active gate
 
-**Gate G — Metadata/status closure.**
+**Gate C2 — User-adjudicated lexical/source correction.**
 
 Current durable state — **2026-09-16**:
 - Gate A — COMPLETE / PASS
@@ -254,7 +254,7 @@ Current durable state — **2026-09-16**:
 - unresolved structural placement issues — **0**
 - latest B20 page-layer endpoint — `e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c`
 - Gate-B closure / durable B20 progress commit — `90caaeb3bd92201a75d45f617727721b9c3e0df7`
-- wording state — **Gemini-lexical-locked; not word-for-word scan verified**
+- wording state — **scans 1–50 user-adjudicated under Gate C2; scans 51–497 Gemini-lexical-locked; whole volume not word-for-word scan verified**
 - Gate C C01–C20 — **COMPLETE / PASS**
 - Gate-C audited — **497/497**
 - Gate-C remaining — **0**
@@ -262,7 +262,7 @@ Current durable state — **2026-09-16**:
 - latest Gate-C ledger commit — `bf82324200e91ff05b76aed18b06c18b37883b90`
 - C20 substantive discrepancy records — **6**
 - cumulative Gate-C discrepancy records — **140**
-- Gate C2 — **NOT STARTED / NOT AUTHORIZED**
+- Gate C2 — **PARTIALLY AUTHORIZED — C2-01 scans 1–25 + C2-02 scans 26–50 COMPLETE / APPLIED; scans 51–497 remain locked**
 - Gate D — **COMPLETE / PASS — 497/497 physical scans / 0 unresolved physical-visual-continuity issues**
 - Gate-D report — `PHYSICAL_CONTINUITY_AUDIT.md`
 - Gate E — **COMPLETE / PASS — 104 section-role entries / 497/497 scans assigned exactly once**
@@ -271,7 +271,7 @@ Current durable state — **2026-09-16**:
 
 Durable Gate-B extraction/mapping exceptions remain recorded in `STRUCTURAL_FIDELITY_PROGRESS.md`; do not reopen Gate B merely to source-correct lexical wording.
 
-Exact next activity: **Gate G — metadata/status closure across the 497 canonical page records**.
+Exact next activity: **wait for the user's Gate C2 findings/instructions for scans 51–75**. Gate G is deferred while C2 is active.
 
 Gate F durable outputs are closed:
 - works/sangatamil/indexes/source-citation-register.md — **COMPLETE through scan 497**;
@@ -280,6 +280,6 @@ Gate F durable outputs are closed:
 - standalone source-note-only provenance records — **4**;
 - Gate-F page-wording changes — **0**.
 
-Gate C is closed at **497/497** with **140** recorded substantive discrepancies and **0 canonical page-wording changes**. Gate C2 remains unauthorized.
+Gate C is closed at **497/497** with **140** historical discrepancy records. Gate C2 is now partially authorized and user-adjudicated through scan **50**; scans **51–497** remain locked. Durable C2 record: `C2_SOURCE_CORRECTION_PROGRESS.md`.
 
-Gate C is now historical/closed for the current locked wording state. Do not reopen it merely for further lexical correction; Gate C2 requires explicit user authorization.
+Gate C remains historical/audit-only. Gate C2 corrections must follow the user's manual adjudication batch by batch; do not infer authorization for scans 51+.

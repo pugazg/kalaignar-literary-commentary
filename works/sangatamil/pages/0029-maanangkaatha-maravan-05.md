@@ -6,9 +6,9 @@ section: "மானங்காத்த மறவன்!"
 page_type: "poetry"
 status: "verified"
 visual_fidelity: "verified"
-visual_notes: "running header; continuous verse blocks; later pencil arrows/marks excluded from body text; printed page number centered"
+visual_notes: "running header; continuous verse blocks; later pencil arrows/marks excluded from body text; user C2 adjudication preserves Gemini நானோ while correcting the source-visible placement of மனப்"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini wording retained with user-authorized Gate C2 structural placement correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -37,7 +37,8 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 உடலடக்கம் செய்திடும் மானமரபே  
 அடலேறுகள் மலிந்திடும் தமிழர் மரபு!
 
-அந்தப் மனப் பண்பாட்டு மரபு வழி வந்துதித்த நானோ  
+அந்தப்  
+பண்பாட்டு மரபு வழி வந்துதித்த நானோ - மனப்  
 புண்பட்டு பகையரசின் சிறைப்பட்டு நாய்போல  
 தண்ணீர்க்கும் காத்திருக்கலானேன் - இனி  
 உண்ணீர் என்று பன்னீர் தந்து உபசரித்தபோதும் -  
@@ -49,5 +50,6 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 இப்படி ஏழடிப் புறப்பாடல் ஒன்றை எழுதிவிட்டு - சிங்க  
 ஏறுபோல் சேரமன்னன் பெயரைப் புகழில் நட்டான்!
 
+<!-- Gate C2 / user manual review: `வந்துதித்த நானோ` retained as Gemini-correct; `மனப்` moved to its source-supported position before `புண்பட்டு`. -->
 <!-- காட்சி குறிப்பு: மூலத்தில் பின்னர் சேர்க்கப்பட்ட பென்சில் அம்புகள்/குறிகள் காணப்படுகின்றன; அவை அச்சு உட்பொருளில் சேர்க்கப்படவில்லை. -->
 <!-- மூல ஸ்கேன் பக்கம்: 29; அச்சுப் பக்கம்: 14 -->

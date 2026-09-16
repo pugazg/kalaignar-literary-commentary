@@ -10,7 +10,7 @@ Gate C is **audit-only**.
 - record substantive lexical discrepancies only;
 - do **not** edit canonical page wording;
 - ignore harmless spacing, line-wrap, punctuation-only, running-header/footer placement, and purely visual differences unless they materially change the lexical reading;
-- Gate C2 source correction is forbidden unless explicitly authorized by the user.
+- Gate C2 source correction is forbidden outside the batches and individual findings explicitly adjudicated by the user.
 
 ### Classification vocabulary
 
@@ -19,6 +19,21 @@ Gate C is **audit-only**.
 - `old-or-uncommon-form`
 - `missing-whole-lexical-block`
 - `repository-only-divergence`
+
+
+## Gate C2 superseding adjudication
+
+Gate C is a historical audit record. The user has now manually adjudicated **scans 1–50** under Gate C2. Those manual rulings supersede the earlier automated interpretation for correction decisions.
+
+Durable Gate-C2 record: `C2_SOURCE_CORRECTION_PROGRESS.md`.
+
+Important:
+- C2-01 scans **1–25 — COMPLETE / APPLIED**;
+- C2-02 scans **26–50 — COMPLETE / APPLIED**;
+- entries the user marks **Gemini is correct** are protected and must not be source-corrected;
+- scan **8** is a handwritten letter/facsimile and is description-only by user instruction;
+- scans **51–497 remain locked** and historical Gate-C rows for those scans are **not authorization to edit**.
+
 
 ## Execution note
 
@@ -1543,3 +1558,13 @@ Durable Gate-D output:
 `works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md`
 
 Do **not** start Gate C2 unless explicitly authorized.
+
+
+## Current Gate C2 state — 2026-09-16
+
+- user-adjudicated coverage — **scans 1–50**
+- C2-01 — **COMPLETE / APPLIED**
+- C2-02 — **COMPLETE / APPLIED**
+- scans 51–497 — **LOCKED / NOT AUTHORIZED**
+- correction authority — user's manual findings, not the historical Gate-C classification alone
+- durable correction record — `C2_SOURCE_CORRECTION_PROGRESS.md`

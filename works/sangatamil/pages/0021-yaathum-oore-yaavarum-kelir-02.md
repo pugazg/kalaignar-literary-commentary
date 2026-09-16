@@ -6,14 +6,14 @@ section: "யாதும் ஊரே; யாவரும் கேளிர்
 page_type: "poetry"
 status: "verified"
 visual_fidelity: "verified"
-visual_notes: "running header 'சங்கத் தமிழ்'; verse blocks with deliberately indented continuation lines; Gemini word அந்த restored to its source-positioned right-aligned carryover before மரத்தையே; final phrase continues after the scan-22 full-page illustration onto scan 23; printed page number centered at foot"
+visual_notes: "running header 'சங்கத் தமிழ்' excluded from body; source-positioned right-aligned continuation lines காதலையும், ஆக்கிக்கொண்டு and அந்த; final phrase continues after the scan-22 full-page illustration onto scan 23; printed page number centered at foot"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical layer with user-authorized Gate C2 source corrections"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_to_scan: 23
 ---
 
-சங்கத் தமிழ் அரசர்களின் அவைக்களத்தில் அரிய தமிழ்க் கவிகள்பாடி  
+அரசர்களின் அவைக்களத்தில் அரிய தமிழ்க் கவிகள்பாடி  
 ஆனையென்றும் - சேனையென்றும் ஆயிரம் பொற்கிழிகள் என்றும்  
 மானியங்கள் மற்றும் பல பரிசில் என்றும் மலைமலையாய்ப்  
 பெற்றிடுவர்!
@@ -37,8 +37,14 @@ continues_to_scan: 23
 நாடுதனை மீட்பதற்கும் புதிதாகப் பறிப்பதற்கும்  
 கேடுகளைச் சுமந்து விழுப்புண்கள் ஏந்துகின்ற  
 பீடுநடை வீரர் பற்றிப் பாடுகின்றீர் - மிகவும் நன்று!  
-ஏடுகொள்ளா இலக்கியங்கள் காதலையும் களம்புகுவோர்  
-எடுத்தியம்பும் காரணத்தால் என்வழியைத் தனிவழியாய்  
+ஏடுகொள்ளா இலக்கியங்கள் காதலையும் களம்புகுவோர்
+
+<div align="right">காதலையும்</div>
+
+எடுத்தியம்பும் காரணத்தால் என்வழியைத் தனிவழியாய்
+
+<div align="right">ஆக்கிக்கொண்டு</div>
+
 எல்லா ஊரும் எமது ஊரே  
 எல்லா மனிதரும் எமது உறவே - என  
 எழுதத் தொடங்குகின்றேன்” என்றான்!
@@ -56,5 +62,6 @@ continues_to_scan: 23
 “ஒரே குலம்” எனும் தத்துவத்தைப் புவியில்;  
 கல் தோன்றி மண் தோன்றாக் காலத்திற்கு
 
+<!-- Gate C2 / user manual review: running header சங்கத் தமிழ் removed from body; missing source-visible continuation lines காதலையும் and ஆக்கிக்கொண்டு restored. -->
 <!-- scan 22 முழுப்பக்க ஓவியத்திற்குப் பிறகு உரை scan 23 / அச்சுப் பக்கம் 8-ல் தொடர்கிறது. -->
 <!-- மூல ஸ்கேன் பக்கம்: 21; அச்சுப் பக்கம்: 6 -->

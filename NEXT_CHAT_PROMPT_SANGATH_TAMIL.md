@@ -1,57 +1,33 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate G Metadata & Status Closure
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate C2 C03 / scans 51–75
 
-Continue directly in pugazg/kalaignar-literary-commentary, branch main. **LIVE MAIN IS AUTHORITATIVE.**
+Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Closed gates
+## Closed base gates
 
 - Gate A — **COMPLETE / PASS** — 497/497 canonical scan records.
 - Gate B — **COMPLETE / PASS** — 497/497 structurally reviewed.
-- Gate C — **COMPLETE / PASS** — 497/497 lexical discrepancy audit / 140 records / 0 page-wording changes.
+- Gate C — **COMPLETE / PASS** — 497/497 discrepancy audit / 140 historical records.
 - Gate D — **COMPLETE / PASS** — 497/497 physical / visual / continuity closed.
-- Gate E — **COMPLETE / PASS** — 104 source-order section-role entries / 497/497 scans assigned exactly once.
-- Gate F — **COMPLETE / PASS** — F01–F20 / scans 1–497 / **115 formal citation-provenance units** / **4 standalone source-note-only provenance records** / 0 canonical page-wording changes.
-- Gate C2 — **NOT STARTED / NOT AUTHORIZED**.
+- Gate E — **COMPLETE / PASS** — 104 section-role entries / 497/497 scans assigned exactly once.
+- Gate F — **COMPLETE / PASS** — 115 formal provenance units + 4 source-note-only records.
 
-Wording state remains **Gemini-lexical-locked — not word-for-word scan verified**.
+## Gate C2 current state
 
-## Gate F durable controls
+Gate C2 is user-controlled and only open where the user has supplied manual adjudication.
 
-- works/sangatamil/indexes/source-citation-register.md — complete through scan 497.
-- works/sangatamil/PROVENANCE_AUDIT.md — Gate F COMPLETE / PASS.
-- physical provenance endpoint — **scan 497 / back cover**.
-- unresolved provenance gaps — **0**.
+- C2-01 scans **1–25 — COMPLETE / APPLIED**
+- C2-02 scans **26–50 — COMPLETE / APPLIED**
+- durable record — `works/sangatamil/C2_SOURCE_CORRECTION_PROGRESS.md`
+- scans **51–497 remain Gemini-lexical-locked**
+- Gate G — **DEFERRED**
 
-## Authoritative controls
+Important manual rulings already applied:
+- user-confirmed **Gemini is correct** readings are protected from source-led replacement;
+- repository-only placement/header divergences are corrected where the user marked them correct;
+- scan **8** handwritten `முன்னுரை` is description-only; do not interpret/transcribe the handwritten letter.
 
-Read first:
-1. works/sangatamil/PRODUCTIVE_COMPLETION_PLAN.md
-2. works/sangatamil/GEMINI_TEXT_LOCK.md
-3. works/sangatamil/SECTION_COVERAGE_AUDIT.md
-4. works/sangatamil/indexes/section-register.md
-5. works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md
-6. works/sangatamil/STRUCTURAL_FIDELITY_PROGRESS.md
-7. works/sangatamil/indexes/source-citation-register.md
-8. works/sangatamil/PROVENANCE_AUDIT.md
-9. SANGATH_TAMIL_ARCHIVAL_GUIDELINES.md
-10. root HANDOVER.md
-11. works/sangatamil/README.md
+## Exact next activity
 
-## Exact next activity — Gate G
+**Wait for the user's findings/instructions for scans 51–75.**
 
-Audit all **497 canonical page records** for metadata/status consistency:
-- scan_page
-- printed_page
-- section
-- page_type
-- status
-- visual_fidelity
-- continuation fields
-- source_filename
-- transcription_method
-- filename/path consistency
-
-Do not treat structural/provenance closure as word-for-word lexical verification. Under the current lock, the whole-volume wording state must remain **Gemini-lexical-locked**.
-
-Do not start Gate C2 without explicit user authorization.
-
-Create/update a durable Gate-G audit report, synchronize operational controls at closure, and verify any Gate-G metadata changes do not silently alter literary page wording.
+Do not modify scans 51+ merely from the historical Gate-C ledger. When the user supplies C2 adjudications, treat those findings as controlling evidence for that batch, apply only authorized changes, and keep all later scans locked.

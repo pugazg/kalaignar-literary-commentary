@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed 2026-09-16: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gates A–E are COMPLETE / PASS; Gate F — **COMPLETE / PASS — F01–F20 / scans 1–497 / 115 formal citation-provenance units / 4 standalone source-note-only records / 0 page-wording changes**
+Last refreshed 2026-09-16: Kuraloviyam remains closed; Sangath Tamil Gates A–F are COMPLETE / PASS; Gate C2 is user-adjudicated and APPLIED through scans 1–50; scans 51–497 remain locked; Gate G is deferred.
 
 ## Repository
 
@@ -45,7 +45,7 @@ Gate A: **COMPLETE / PASS**.
 
 Gate B: **COMPLETE / PASS — 497/497 structurally reviewed / 0 remaining / 0 unresolved structural placement issues**.
 
-Current gate: **Gate F — **COMPLETE / PASS — F01–F20 / scans 1–497 / 115 formal citation-provenance units / 4 standalone source-note-only records / 0 page-wording changes**
+Current gate: **Gate C2 — C2-01 scans 1–25 + C2-02 scans 26–50 COMPLETE / APPLIED; scans 51–497 locked; Gate G deferred**.
 
 C01–C20 scans **1–497 — COMPLETE / PASS**; **140 cumulative substantive discrepancies** recorded in `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`; Gate C closed with **0 canonical page-wording changes**.
 
@@ -55,7 +55,7 @@ Gate D: **COMPLETE / PASS — 497/497 physical scans / 497 canonical records / 0
 
 Gate E: **COMPLETE / PASS — 104 section-role entries / 497/497 scans assigned exactly once / 0 canonical page-wording changes**. Durable report: `works/sangatamil/SECTION_COVERAGE_AUDIT.md`.
 
-Exact next activity: **Gate G — metadata/status closure across scans 1–497**. Verify source-visible anthology/work name, poem number/range, poet attribution, quotation block boundaries, `பொருள் விளக்கம்`, and printed source notes; keep `works/sangatamil/indexes/source-citation-register.md` and `works/sangatamil/PROVENANCE_AUDIT.md` current. Do not start Gate C2 unless explicitly authorized.
+Exact next activity: **wait for the user's Gate C2 findings/instructions for scans 51–75**. Do not modify scans 51+ from the historical Gate-C ledger alone.
 
 ## Mandatory startup — active சங்கத் தமிழ் work
 
@@ -120,7 +120,7 @@ Current Gate-C source start:
 - Gate C — COMPLETE / PASS — scans 1–497 audited
 - cumulative lexical discrepancy records — 140
 - canonical page-wording changes during Gate C — 0
-- Gate C2 — NOT STARTED / NOT AUTHORIZED
+- Gate C2 — PARTIALLY AUTHORIZED / scans 1–50 applied / scans 51–497 locked
 - Gate D — COMPLETE / PASS — 497/497 physical scans closed
 - durable Gate-D report — `works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md`
 - Gate E — COMPLETE / PASS — 104 section-role entries / 497/497 scans assigned exactly once
@@ -651,3 +651,16 @@ Use `works/kuraloviyam/sections/entries/index.json` as the preferred structured 
 - Gate C2 — **NOT STARTED / NOT AUTHORIZED**
 - physical provenance endpoint — **scan 497 / back cover**
 - exact next activity — **Gate G — metadata/status closure**
+
+
+# Sangath Tamil Gate C2 partial state — 2026-09-16
+
+- C2-01 scans **1–25 — COMPLETE / APPLIED**
+- C2-02 scans **26–50 — COMPLETE / APPLIED**
+- durable record — `works/sangatamil/C2_SOURCE_CORRECTION_PROGRESS.md`
+- scan 8 handwritten முன்னுரை — description-only; no handwriting transcription required
+- user-confirmed Gemini-correct readings remain protected
+- scans **51–497 — LOCKED / C2 NOT AUTHORIZED**
+- whole-volume word-for-word verification — **NOT CLAIMED**
+- Gate G — **DEFERRED**
+- exact next activity — **wait for user's C2 findings/instructions for scans 51–75**

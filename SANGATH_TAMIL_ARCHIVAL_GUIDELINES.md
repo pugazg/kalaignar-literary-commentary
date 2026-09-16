@@ -66,7 +66,7 @@ Illustration/divider/blank pages remain canonical physical records. For illustra
 ## 7. Later gates
 
 - Gate C — lexical discrepancy audit under the current lock
-- Gate C2 — lexical source correction only if explicitly authorized by the user
+- Gate C2 — lexical/source correction only for batches explicitly adjudicated by the user; C2-01 and C2-02 are authorized/applied, later scans remain locked
 - Gate D — physical / visual / continuity closure
 - Gate E — canonical section reconstruction
 - Gate F — Sangam provenance audit
@@ -74,7 +74,7 @@ Illustration/divider/blank pages remain canonical physical records. For illustra
 - Gate H — derived navigation
 - Gate I — final whole-volume synchronization/closure
 
-Until Gate C2 is explicitly authorized, do not claim word-for-word scan lexical verification for the whole volume.
+Gate C2 is only partially authorized. Do not claim whole-volume word-for-word verification while scans 51–497 remain locked.
 
 ## 8. Documentation synchronization discipline
 
@@ -131,13 +131,13 @@ Gate C — **COMPLETE / PASS**:
 - closure — **497/497 audited**
 - cumulative discrepancy records — **140**
 - latest Gate-C ledger commit — `bf82324200e91ff05b76aed18b06c18b37883b90`
-- Gate C2 — **NOT STARTED / NOT AUTHORIZED**
+- Gate C2 — **PARTIALLY AUTHORIZED — scans 1–50 user-adjudicated/applied; scans 51–497 locked**
 
 Wording state remains **Gemini-lexical-locked**, not word-for-word scan verified.
 
 Durable extraction/mapping exceptions from Gate B remain authoritative in `STRUCTURAL_FIDELITY_PROGRESS.md`.
 
-C20 execution note: the supplied Part-010 PDF/File10 pair was used for scans 476–497. Six substantive discrepancies were recorded across 5 scans. Gate C closed at 497/497 with 140 cumulative discrepancy records and 0 canonical page-wording changes. Gate C2 remains unauthorized.
+C20 execution note: the supplied Part-010 PDF/File10 pair was used for scans 476–497. Six substantive discrepancies were recorded across 5 scans. Gate C closed at 497/497 with 140 cumulative discrepancy records and 0 canonical page-wording changes. Gate C2 is partially authorized through scan 50 only.
 
 Gate D — **COMPLETE / PASS**:
 - physical scans audited — **497/497**;
@@ -161,5 +161,19 @@ Gate F — **COMPLETE / PASS — F01–F20 scans 1–497 / 115 formal citation-p
 - standalone source-note-only provenance records — **4**
 - unresolved provenance gaps — **0**
 - canonical page-wording changes — **0**
-- Gate C2 — **NOT STARTED / NOT AUTHORIZED**
-- next gate — **Gate G — metadata/status closure**
+- Gate C2 — **PARTIALLY AUTHORIZED — C2-01/C2-02 applied through scan 50**
+- scans 51–497 — **LOCKED**
+- Gate G — **DEFERRED**
+- next activity — **wait for user C2 findings for scans 51–75**
+
+
+## Gate C2 manual-adjudication rule
+
+The user's manual findings are the controlling evidence for Gate C2. Where a manual C2 ruling says **Gemini is correct**, preserve that wording even if the historical Gate-C ledger suggested a source divergence. Apply source wording or repository-placement repair only where the user authorizes it.
+
+Current C2 state:
+- C2-01 scans **1–25 — COMPLETE / APPLIED**
+- C2-02 scans **26–50 — COMPLETE / APPLIED**
+- scan **8** handwritten முன்னுரை — description-only; do not interpret/transcribe
+- scans **51–497 — C2 NOT AUTHORIZED / Gemini lock remains**
+- durable record — `works/sangatamil/C2_SOURCE_CORRECTION_PROGRESS.md`

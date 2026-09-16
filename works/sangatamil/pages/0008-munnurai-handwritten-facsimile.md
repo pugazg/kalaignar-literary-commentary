@@ -7,15 +7,15 @@ page_type: "facsimile"
 status: "partial"
 language: "ta"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
-transcription_method: "partial direct visual transcription from source scan"
+transcription_method: "facsimile description only; handwritten letter intentionally not transcribed per user instruction"
+visual_notes: "full-page handwritten letter under முன்னுரை; description-only treatment explicitly accepted by the user"
 ---
 
 # முன்னுரை
 
 ## காட்சிப் பதிவு
 
-`முன்னுரை` என்ற அலங்காரத் தலைப்பின் கீழ் முழுப் பக்க கையெழுத்துப் பதிவு உள்ளது. இறுதிப்பகுதியில் கையொப்பமும் 1987-ஐக் குறிக்கும் தேதியும் காணப்படுகின்றன.
+`முன்னுரை` என்ற தலைப்பின் கீழ் முழுப் பக்க கையெழுத்துக் கடிதம் உள்ளது.
 
-கையெழுத்தின் தொடர்ச்சியான உட்பகுதி இந்தத் தரத்தில் பாதுகாப்பாக எழுத்து-எழுத்தாக வாசிக்கப்படவில்லை; ஊகித்து நிரப்பப்படவில்லை.
-
+<!-- Gate C2: user explicitly directed that the handwritten facsimile need not be interpreted or transcribed; identifying it as a handwritten letter is sufficient. -->
 <!-- மூல ஸ்கேன் பக்கம்: 8; அச்சுப் பக்கம்: III -->

@@ -6,9 +6,9 @@ section: "துணை நின்றாள் தோழி!"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "running சங்கத் தமிழ் header; dialogue and narrative verse blocks; source-offset continuation around `அவன்`; analogy begins near page foot and continues directly to scan 36; printed page number centered at foot"
+visual_notes: "running சங்கத் தமிழ் header; dialogue and narrative verse blocks; source-offset continuation around அவன்; Gate C2 moves existing locked token வீணே to its user-confirmed source sentence; analogy begins near page foot and continues directly to scan 36"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; legacy verified status remains reopened pending systematic textual/visual passes"
+transcription_method: "Gemini wording retained with user-authorized Gate C2 source-placement correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 34
 continues_to_scan: 36
@@ -35,11 +35,11 @@ continues_to_scan: 36
 தோழி வந்தாள்! தொடாதே அந்தத்  
 தோகையை என்று எதிர்நின்றாள்!
 
-தேன் குடிக்கப் போகின்ற வண்டை  
+தேன் குடிக்கப் போகின்ற வண்டை - வீணே  
 ஏன் தடுக்கின்றாய்? என்று விழியாலே கேட்டான் - “இந்தப்  
 பழி மிகப் பொல்லாது” என்றான்!
 
-“குன்றெடுக்கும் நெடுந்தோள் கொண்டவனே! வீணே பகையை  
+“குன்றெடுக்கும் நெடுந்தோள் கொண்டவனே! - பகையை  
 வென்றெடுக்கும் ஆற்றல் பெற்றவனே!  
 குறையொன்றும் காணவில்லை உமது அன்பில்!  
 நிறை நெஞ்ச வாழ்த்து உண்டு ஏற்றிடுக! - எனினும்;  
@@ -59,5 +59,5 @@ continues_to_scan: 36
 பறப்பதற்குச் சிறகில் பலமில்லா கொக்கொன்று  
 பறிப்பதற்குக் காத்திருக்கும் காட்சிதனைக் கண்டிலையோ அதுபோல
 
-<!-- The earlier record incorrectly promoted `இந்தத் தொண்டித்துறையில்` to a Markdown subheading and contained multiple lexical regressions. Gemini words remain locked while page-local structure is checked against the scan. Systematic Pass 2/3 verification remains pending. -->
+<!-- Gate C2 / user manual review: existing locked token `வீணே` moved from the later clause to `தேன் குடிக்கப் போகின்ற வண்டை - வீணே / ஏன் தடுக்கின்றாய்?`; no lexical substitution introduced. -->
 <!-- மூல ஸ்கேன் பக்கம்: 35; அச்சுப் பக்கம்: 20 -->

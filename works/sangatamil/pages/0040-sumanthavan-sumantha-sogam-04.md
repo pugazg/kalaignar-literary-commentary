@@ -6,9 +6,9 @@ section: "சுமந்தவள் சுமந்த சோகம்!"
 page_type: "text"
 status: "verified"
 visual_fidelity: "verified"
-visual_notes: "running author header centered between rules; dense dialogue/narrative text preserving printed lineation and paragraph breaks; centered asterisk separator; Sangam quotation begins near foot and continues onto scan 41; Gemini-locked lexical wording retained, including a quote form that differs from the source-visible spelling; horizontal rule above centered printed page number"
+visual_notes: "running author header centered between rules; dense dialogue/narrative text preserving printed lineation and paragraph breaks; centered asterisk separator; Sangam quotation begins near foot and continues onto scan 41; user C2 manual adjudication confirms the preserved Gemini forms on this page"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini wording retained after user Gate C2 manual adjudication"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_to_scan: 41
 ---
@@ -57,6 +57,6 @@ continues_to_scan: 41
 > தன்னோர் அன்ன இளையர் இருப்பப்  
 > பலர்மீது நீட்டிய மண்டையென் சிறுவனைக்
 
-<!-- காட்சி குறிப்பு: இந்த மேற்கோளில் source scan `வெள்ளாட்டுச்` எனக் காட்டினாலும் Gemini lock `வெள்யாட்டுச்` என்பதால் locked lexical form body-இல் retained; silent source-led lexical correction செய்யப்படவில்லை. -->
+<!-- Gate C2 / user manual review: `ஔவைப் பிராட்டி` and `வெள்ளை வெள்யாட்டுச் செச்சை போலத்` are confirmed Gemini-correct; body wording is unchanged. -->
 <!-- The printed Sangam quotation begins on this page and continues directly onto scan 41; no completion has been inferred here. -->
 <!-- மூல ஸ்கேன் பக்கம்: 40; அச்சுப் பக்கம்: 25 -->

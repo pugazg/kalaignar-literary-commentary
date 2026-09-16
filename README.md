@@ -11,7 +11,7 @@ Last synchronized with live main: **2026-09-16**.
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–015 **ARCHIVAL-READY through scan 323**; commentary through printed page 270 / Kural 1330 |
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–015 **RELEASED through the end of the supplied volume** |
 | Thirukkural semantic structure | பால் → இயல் → அதிகாரம் | **COMPLETE — 3 பால் / 13 இயல் / 133 அதிகாரம் / 1,330 குறள் mapped** |
-| சங்கத் தமிழ் | தமிழ் | **ACTIVE — Gates A–F COMPLETE / PASS; Gate G NEXT** |
+| சங்கத் தமிழ் | தமிழ் | **ACTIVE — Gates A–F COMPLETE / PASS; Gate C2 scans 1–50 user-adjudicated/applied; scans 51–497 locked; Gate G deferred** |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த source-controlled edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Kuraloviyam | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
@@ -121,3 +121,16 @@ Gate E — **COMPLETE / PASS**: 104 source-order section-role entries; 497/497 s
 Gate F — **COMPLETE / PASS — F01–F20 scans 1–497 / 115 formal citation-provenance units / 4 standalone source-note-only provenance records / 0 canonical page-wording changes**
 
 Current handover: HANDOVER.md.
+
+
+## Gate C2 current state — சங்கத் தமிழ்
+
+- C2-01 scans **1–25 — COMPLETE / APPLIED**
+- C2-02 scans **26–50 — COMPLETE / APPLIED**
+- user-adjudicated C2 coverage — **50/497 scans**
+- scans **51–497 remain Gemini-lexical-locked**
+- scan **8** handwritten முன்னுரை — description-only; no handwriting transcription required by user direction
+- durable progress — `works/sangatamil/C2_SOURCE_CORRECTION_PROGRESS.md`
+- Gate G — **deferred until the user finishes or pauses C2**
+
+Exact next activity: **wait for the user's C2 findings/instructions for scans 51–75**.
