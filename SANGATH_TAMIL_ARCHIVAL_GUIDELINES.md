@@ -124,19 +124,20 @@ Gate C — **IN PROGRESS**:
 - C16 scans **376–400 — COMPLETE / PASS**
 - C17 scans **401–425 — COMPLETE / PASS**
 - C18 scans **426–450 — COMPLETE / PASS**
-- audited — **450/497**
-- remaining — **47**
-- frontier — **scan 451**
-- cumulative discrepancy records — **118**
-- latest Gate-C ledger commit — `d61d3a706ec1a4920e4bd238b4a93cb52aa6d78b`
+- C19 scans **451–475 — COMPLETE / PASS**
+- audited — **475/497**
+- remaining — **22**
+- frontier — **scan 476**
+- cumulative discrepancy records — **134**
+- latest Gate-C ledger commit — `a300c9426ddb768f50533596cde8531aa776a249`
 - Gate C2 — **NOT STARTED / NOT AUTHORIZED**
 
 Wording state remains **Gemini-lexical-locked**, not word-for-word scan verified.
 
 Durable extraction/mapping exceptions from Gate B remain authoritative in `STRUCTURAL_FIDELITY_PROGRESS.md`.
 
-C18 execution note: the supplied Part-009 PDF/File9 pair was used for scans 426–450. Eighteen substantive discrepancies were recorded across 9 scans. File9 Pages 414–425 were used only for scans 426–437; scans 438–450 were audited directly against the source/repository layer because File9 supplies no lexical blocks there. No page wording was changed.
+C19 execution note: the supplied Part-010 PDF/File10 pair was used for scans 451–475. Sixteen substantive discrepancies were recorded across 11 scans. The B19 shifted mapping, partial Page-449 reliability, scan-462 missing lexical block, and phantom File10 Page 456 were honored without synthetic alignment. No page wording was changed.
 
 ### Exact next activity
 
-Process Gate C C19 — **scans 451–475** using `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` split pages 1–25 and `File10.md` only where reliable. Apply the documented B19 mapping: 451–461→439–449 (Page 449 only partly reliable), scan 462 no reliable block, 463–468→450–455, Page 456 phantom, 469–475→457–463. Record only demonstrable discrepancies, verify **0 page-file changes**, and advance frontier to scan **476**. Do not start Gate C2.
+Process Gate C C20 — **final remainder scans 476–497** using `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` split pages 26–47 and `File10.md` with the B20 scan-by-scan mapping. Append only substantive discrepancies, verify **0 page-file changes**, and close Gate C at **497/497 audited**. Do not start Gate C2 unless explicitly authorized.

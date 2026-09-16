@@ -34,12 +34,13 @@ Gate C — IN PROGRESS:
 - C16 scans 376–400 — COMPLETE / PASS
 - C17 scans 401–425 — COMPLETE / PASS
 - C18 scans 426–450 — COMPLETE / PASS
-- audited — 450/497
-- remaining — 47
-- frontier — scan 451
-- cumulative discrepancy records — 118
+- C19 scans 451–475 — COMPLETE / PASS
+- audited — 475/497
+- remaining — 22
+- frontier — scan 476
+- cumulative discrepancy records — 134
 - mode — audit-only / no page-wording changes
-- latest ledger commit — d61d3a706ec1a4920e4bd238b4a93cb52aa6d78b
+- latest ledger commit — a300c9426ddb768f50533596cde8531aa776a249
 
 Latest B20 page-layer endpoint: e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c
 
@@ -82,4 +83,4 @@ Gate-B structural completion does not automatically promote a page to verified. 
 
 ## Exact next activity
 
-Process Gate C C19 — scans 451–475 using the already supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` split pages 1–25 + `File10.md` where reliable. Apply the documented B19 mapping/replacement exceptions, append only demonstrable substantive discrepancies, verify 0 canonical page changes, and advance frontier to scan 476. Do not start Gate C2.
+Process Gate C C20 — final scans 476–497 using the already supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` split pages 26–47 + `File10.md` with the B20 scan-by-scan mapping. Append substantive discrepancies only, verify 0 canonical page changes, and close Gate C at 497/497. Do not start Gate C2 without explicit authorization.

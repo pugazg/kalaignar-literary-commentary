@@ -255,26 +255,26 @@ Current durable state — **2026-09-16**:
 - latest B20 page-layer endpoint — `e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c`
 - Gate-B closure / durable B20 progress commit — `90caaeb3bd92201a75d45f617727721b9c3e0df7`
 - wording state — **Gemini-lexical-locked; not word-for-word scan verified**
-- Gate C C01–C18 — **COMPLETE / PASS**
-- Gate-C audited — **450/497**
-- Gate-C remaining — **47**
-- Gate-C frontier — **scan 451**
-- latest Gate-C ledger commit — `d61d3a706ec1a4920e4bd238b4a93cb52aa6d78b`
-- C18 substantive discrepancy records — **18**
-- cumulative Gate-C discrepancy records — **118**
+- Gate C C01–C19 — **COMPLETE / PASS**
+- Gate-C audited — **475/497**
+- Gate-C remaining — **22**
+- Gate-C frontier — **scan 476**
+- latest Gate-C ledger commit — `a300c9426ddb768f50533596cde8531aa776a249`
+- C19 substantive discrepancy records — **16**
+- cumulative Gate-C discrepancy records — **134**
 - Gate C2 — **NOT STARTED / NOT AUTHORIZED**
 
 Durable Gate-B extraction/mapping exceptions remain recorded in `STRUCTURAL_FIDELITY_PROGRESS.md`; do not reopen Gate B merely to source-correct lexical wording.
 
-Exact next activity: **Gate C C19 — scans 451–475**.
+Exact next activity: **Gate C C20 — final remainder scans 476–497**.
 
 Available direct source pair:
-- user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf`, split pages **1–25** / physical scans **451–475**;
-- user-supplied `File10.md` where a reliable lexical block exists;
-- scans **451–461** map to File10 comments **439–449**; Page 449 is reliable only through `இனி ஆற்றுவதுதான் எவ்வாறு தோழி?`;
-- scan **462** has no reliable File10 lexical block;
-- scans **463–468** map to comments **450–455**; File10 Page **456** is a phantom image marker;
-- scans **469–475** map to comments **457–463**; do not fabricate alignment for missing/replaced material.
+- user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf`, split pages **26–47** / physical scans **476–497**;
+- user-supplied `File10.md`, resolved scan-by-scan against the PDF;
+- scan **476 / printed 464** → File10 Page **464**; scan **477** → Page **465** `(Image Page)`;
+- scans **478–484 / printed 466–472** → File10 Pages **466–472**; scan **485** → Page **473** `(Image Page)`;
+- scans **486–492 / printed 474–480** → File10 Pages **474–480**; scan **493** → Page **481** `(Image Page)`;
+- scans **494–496 / printed 482–484** → File10 Pages **482–484**; scan **497** is the physical back cover with no separate File10 page comment.
 
 Gate C remains audit-only:
 - append substantive discrepancies to `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`;

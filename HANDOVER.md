@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed 2026-09-16: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gate B is COMPLETE / PASS; Gate C C01–C18 scans 1–450 are COMPLETE with frontier scan 451.
+Last refreshed 2026-09-16: Kuraloviyam Parts 001–006 + maintained English + derived sections S1–S3 remain CLOSED; Sangath Tamil Gate B is COMPLETE / PASS; Gate C C01–C19 scans 1–475 are COMPLETE with frontier scan 476.
 
 ## Repository
 
@@ -47,11 +47,11 @@ Gate B: **COMPLETE / PASS — 497/497 structurally reviewed / 0 remaining / 0 un
 
 Current gate: **Gate C — lexical discrepancy audit under the current lock — IN PROGRESS**.
 
-C01–C18 scans **1–450 — COMPLETE / PASS**; **118 cumulative substantive discrepancies** recorded in `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`; Gate-C frontier **scan 451**.
+C01–C19 scans **1–475 — COMPLETE / PASS**; **134 cumulative substantive discrepancies** recorded in `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`; Gate-C frontier **scan 476**.
 
-Latest Gate-C ledger commit: `d61d3a706ec1a4920e4bd238b4a93cb52aa6d78b`.
+Latest Gate-C ledger commit: `a300c9426ddb768f50533596cde8531aa776a249`.
 
-Exact next activity: **Gate C C19 scans 451–475** using the already supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` + `File10.md`. Audit only; apply the documented B19 comment mapping, partial/replacement-block boundary, and phantom Page-456 exception without fabricating lexical alignment.
+Exact next activity: **Gate C C20 final remainder scans 476–497** using the already supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` + `File10.md`. Audit only; use the B20 scan-by-scan mapping and close Gate C at 497/497 without starting Gate C2.
 
 ## Mandatory startup — active சங்கத் தமிழ் work
 
@@ -113,12 +113,12 @@ Gate B source processing is closed through scan 497.
 
 Current Gate-C source start:
 
-- completed Gate-C range: scans 1–450
-- current C19 target: scans 451–475
-- controlling source supplied: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` — use split pages 1–25
-- matching lexical file supplied: `File10.md` — only where reliable
-- canonical records: `works/sangatamil/pages/0451-*.md` through `0475-*.md`
-- mapping: scans 451–461→File10 439–449; scan 462 no reliable block; scans 463–468→450–455; Page 456 phantom; scans 469–475→457–463
+- completed Gate-C range: scans 1–475
+- current C20 target: scans 476–497
+- controlling source supplied: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf` — use split pages 26–47
+- matching lexical file supplied: `File10.md` — B20 scan-by-scan mapping
+- canonical records: `works/sangatamil/pages/0476-*.md` through `0497-*.md`
+- mapping: 476→464; 477→465 image; 478–484→466–472; 485→473 image; 486–492→474–480; 493→481 image; 494–496→482–484; 497 physical back cover / no separate File10 comment
 
 Gemini page comments are navigation aids only; they do not establish physical scan numbering. The scan does.
 
@@ -199,12 +199,12 @@ In a fresh Sangath Tamil chat:
 
 1. fetch live main
 2. read the active controls listed above, including works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md
-3. confirm C01–C18 scans 1–450 are COMPLETE and Gate-C frontier is scan 451
-4. use the supplied TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf split pages 1–25 and File10.md only where reliable
-5. apply the documented B19 mapping and partial/replacement/phantom exceptions; append only demonstrable substantive discrepancies without synthetic alignment
+3. confirm C01–C19 scans 1–475 are COMPLETE and Gate-C frontier is scan 476
+4. use the supplied TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf split pages 26–47 and File10.md with the documented B20 mapping
+5. append only substantive lexical discrepancies; do not source-correct page wording
 6. verify no canonical page files changed
 7. commit the ledger update
-8. synchronize operational docs and advance frontier to scan 476
+8. synchronize operational docs and close Gate C at 497/497; do not start Gate C2 unless explicitly authorized
 
 Gate C remains audit-only. Do not change page wording and do not start Gate C2 without explicit user authorization.
 
