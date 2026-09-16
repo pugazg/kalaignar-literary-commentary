@@ -6,14 +6,14 @@ section: "ஒரு பொது மகளின் புலம்பல்!"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "large decorative source heading includes a leading `ஒரு`; File2 locks the body heading as `பொது மகளின் புலம்பல்!`, so the missing lexical word is documented in metadata but not silently added to body text; printed page number 55 visible; narrative continues to scan 71"
+visual_notes: "large decorative source heading `ஒரு பொது மகளின் புலம்பல்!`; C2-03 user adjudication authorizes the leading `ஒரு` in the canonical body heading; printed page number 55 visible; narrative continues to scan 71"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 source correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_to_scan: 71
 ---
 
-# பொது மகளின் புலம்பல்!
+# ஒரு பொது மகளின் புலம்பல்!
 
 வயலின் ஓரம் வரப்புகள் மீது  
 வளர்ந்து நிற்கும் மாமரக் கொப்பில்
@@ -53,7 +53,7 @@ continues_to_scan: 71
 பொலிவைக் காட்டிப் பொடிபோட்டு இழுத்தேனா? ஒரு  
 புன்னகை வீசி அந்தப் “புனிதனைக்” கவிழ்த்தேனா?
 
-<!-- Gemini-locked wording is retained; scan 70 controls decorative-heading placement, printed lineation, punctuation and the continuation boundary. -->
-<!-- The legacy repository filename is left unchanged in this page-local batch; the locked/source-supported section heading above is authoritative. -->
+<!-- C2-03: user-authorized source correction applied to the heading: `பொது மகளின் புலம்பல்!` → `ஒரு பொது மகளின் புலம்பல்!`; scan 70 controls decorative-heading placement, printed lineation, punctuation and the continuation boundary. -->
+<!-- The legacy repository filename is left unchanged; the user-adjudicated canonical heading above is authoritative. -->
 <!-- Review status remains `needs-review`; final audit/status synchronization is a separate activity. -->
 <!-- மூல ஸ்கேன் பக்கம்: 70; அச்சுப் பக்கம்: 55 -->

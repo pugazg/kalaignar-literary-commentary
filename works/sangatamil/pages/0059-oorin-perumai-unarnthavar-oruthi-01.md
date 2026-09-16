@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "large decorative section heading; verse-like opening text below; continuation runs across the scan-60 illustration to scan 61; printed page number 44 visible"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_to_scan: 61
 ---
@@ -43,11 +43,11 @@ continues_to_scan: 61
 அவ்வூரின்கண் அரும்பிமலர்கின்ற  
 அழகு மகளிர் பண்பு நலமும் பாடுகின்றார், கேளீர்!
 
-முன்னைக் கொடியும் முசுண்டைக் கொடியும்  
+முசுண்டை கொடியும் முசுண்டைக் கொடியும்  
 பின்னிப் படர்ந்து விரிந்து பரந்ததால்  
 பந்தல் என ஒன்று வேண்டாம் வெயில் மறைக்க என  
 பலாக்கனிகள் தொங்குகின்ற அடர் மர நிழலின் கீழே  
 மகிழ்ந்து,
 
-<!-- Gemini wording is retained; scan 59 controls the decorative heading, lineation, punctuation, paragraph grouping and continuation across the following illustration. -->
+<!-- C2-03: user-authorized adjudication applied to the disputed first phrase: `முன்னைக் கொடியும்` → `முசுண்டை கொடியும்`; the adjacent locked wording is otherwise unchanged. Scan 59 controls the decorative heading, lineation, punctuation, paragraph grouping and continuation across the following illustration. -->
 <!-- மூல ஸ்கேன் பக்கம்: 59; அச்சுப் பக்கம்: 44 -->

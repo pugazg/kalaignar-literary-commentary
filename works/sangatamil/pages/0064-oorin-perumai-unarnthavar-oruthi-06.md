@@ -8,14 +8,14 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running கலைஞர் மு. கருணாநிதி header; பொருள் விளக்கம் block followed by centered separator and குறிப்பு block; printed page number 49 visible"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 source correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 63
 ---
 
 ## பொருள் விளக்கம் :
 
-கைம்மான் = யானை. கனைதுல் = மிக உறக்கம்.  
+கைம்மான் = யானை. கனைதுயில் = மிக உறக்கம்.  
 பார்வை மடப்பிணை = விலங்கினமான இளம் பெண்மான்.  
 கலை = ஆண்மான். இல்வழங்காமையின் = இல்லத்தை விட்டு  
 வெளியே நடமாடாமல் ஒருபுறம் ஒதுங்கி அமைதல்.  
@@ -30,6 +30,6 @@ continues_from_scan: 63
 கண்ட அறிஞர் ஔவை துரைசாமிப் பிள்ளை  
 கூறுகிறார்.
 
-<!-- Gemini-locked wording is retained; scan 64 controls gloss/note separation, lineation, ornament and page furniture. -->
+<!-- C2-03: user-authorized source correction applied: `கனைதுல்` → `கனைதுயில்`; user-confirmed `ஔவை துரைசாமிப் பிள்ளை` remains protected. Scan 64 controls gloss/note separation, lineation, ornament and page furniture. -->
 <!-- Review status remains `needs-review`; final audit/status synchronization is a separate activity. -->
 <!-- மூல ஸ்கேன் பக்கம்: 64; அச்சுப் பக்கம்: 49 -->

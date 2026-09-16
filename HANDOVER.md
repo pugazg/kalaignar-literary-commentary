@@ -657,10 +657,12 @@ Use `works/kuraloviyam/sections/entries/index.json` as the preferred structured 
 
 - C2-01 scans **1–25 — COMPLETE / APPLIED**
 - C2-02 scans **26–50 — COMPLETE / APPLIED**
+- C2-03 scans **51–75 — COMPLETE / APPLIED**
 - durable record — `works/sangatamil/C2_SOURCE_CORRECTION_PROGRESS.md`
 - scan 8 handwritten முன்னுரை — description-only; no handwriting transcription required
-- user-confirmed Gemini-correct readings remain protected
-- scans **51–497 — LOCKED / C2 NOT AUTHORIZED**
+- user-confirmed Gemini-correct readings remain protected, including scans **53, 58, 64** in C2-03
+- C2-03 authorized canonical corrections applied at scans **51, 59, 64, 70**
+- scans **76–497 — LOCKED / C2 NOT AUTHORIZED**
 - whole-volume word-for-word verification — **NOT CLAIMED**
 - Gate G — **DEFERRED**
-- exact next activity — **wait for user's C2 findings/instructions for scans 51–75**
+- exact next activity — **wait for user's C2 findings/instructions for scans 76–100**

@@ -8,7 +8,7 @@ status: "needs-review"
 visual_fidelity: "needs-review"
 visual_notes: "running சங்கத் தமிழ் header; continuation text arranged in printed verse/prose blocks; centered separator before a three-line quoted continuation; horizontal rule above centered printed page number"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 source correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 50
 continues_to_scan: 53
@@ -37,7 +37,7 @@ continues_to_scan: 53
 இயற்கையீன்ற பூக்குழந்தைகளைத்  
 தமிழ்மொழியால் கொஞ்சுகின்றார்!
 
-இதோ ஒரு வீரன் எதிரிகளைக களம் கண்டு  
+இதோ ஒரு வீரன் எதிரிகளைக் களம் கண்டு  
 இட்ட பணி முடித்து வெற்றியுடன் திரும்பி;  
 இல்லத்தில் காத்திருக்கும்  
 இனிய நறுந்தேனை  
@@ -59,6 +59,6 @@ continues_to_scan: 53
 > இலுப்பைப் பூக்கள் எதிர்வந்து;  
 > வில்லேந்தி வெற்றி விளைக்கின்ற
 
-<!-- Gemini wording is retained; scan 51 controls paragraph grouping, lineation, separator, quote placement, running furniture and the continuation boundary across the intervening illustration. -->
+<!-- C2-03: user-authorized source correction applied: `எதிரிகளைக` → `எதிரிகளைக்`; scan 51 controls paragraph grouping, lineation, separator, quote placement, running furniture and the continuation boundary across the intervening illustration. -->
 <!-- Review status remains `needs-review`; final audit/status synchronization is a separate activity. -->
 <!-- மூல ஸ்கேன் பக்கம்: 51; அச்சுப் பக்கம்: 36 -->
