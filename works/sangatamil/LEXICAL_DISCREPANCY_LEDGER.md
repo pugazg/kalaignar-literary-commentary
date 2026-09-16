@@ -594,3 +594,71 @@ At C09 close:
 2. verify **0 canonical page files changed**;
 3. advance the Gate-C frontier to **scan 226**;
 4. do not start Gate C2.
+
+
+# C09 — scans 201–225
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-16**
+- audited scans: **201–225 / 25**
+- controlling source: user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_005_pages_201-250.pdf`, split pages **1–25**
+- direct Gemini lexical witness: user-supplied `File5.md`, Book Pages **188–212**
+- locked comparison layer: current canonical page records under `works/sangatamil/pages/`
+- substantive discrepancy records: **3**
+- scans containing discrepancies: **3**
+- scans with no new substantive lexical discrepancy: **22**
+- canonical page files changed: **0**
+- Gate C2 corrections: **0**
+
+Clean / no-new-substantive-discrepancy scans:
+
+**201–207, 209–220, 222, 224–225**
+
+Special handling:
+- scans **204, 210, 216, 220, 224** are full-page illustrations and contain no literary body text;
+- known File5 extraction debris already excluded during Gate B — scan 203 numeric `000008`, scan 206 numeric `66`, scan 213 numeric `66`, scan 214 numeric `66`, scan 219 extraction marker `⚬` plus merged printed page number `206`, scan 222 numeric `66`, and scan 223 merged printed page number `210` — was not re-entered as Gate-C lexical discrepancy;
+- structural carryover placement and verse/provenance/gloss lineation remain PDF-controlled and were not treated as lexical differences;
+- punctuation-only, spacing, line-wrap, running-header/footer and purely structural differences were excluded unless they changed lexical content.
+
+## C09 discrepancy records
+
+| ID | Scan | Printed page | Canonical page | Locked File5 / repository wording | Source-visible wording | Classification | Gate-B exception already documented? | Notes |
+|---|---:|---:|---|---|---|---|---|---|
+| C09-001 | 208 | 195 | `0208-kaaviri-naadan-karikaalan-01.md` | body heading `காவிரிநாடன் / கபிகாலன்!` | decorative/source heading `காவிரிநாடன் கரிகாலன்!` | `likely-gemini-error` | **yes — B09** | Gate B already preserved the source section identity in metadata while retaining File5's `கபிகாலன்!` in the body heading. Gate C records the lexical title disagreement only. |
+| C09-002 | 221 | 208 | `0221-porthisai-nokkiya-pulippoththu-04.md` | Purananuru 284 quotation `தனக்கு இரித்தானைப் பெயர்புறம் நகுமே` | `தனக்கு இரிந்தானைப் பெயர்புறம் நகுமே` | `likely-gemini-error` | no | The source-visible quotation uses `இரிந்தானைப்`; the same printed page's glossary explains `இரிந்தான் = அஞ்சி ஓடியவன்`. File5 instead locks `இரித்தானைப்`. |
+| C09-003 | 223 | 210 | `0223-ingae-vendaam-thangai-irukkindraal-02.md` | displaced locked carryover `எனை` | source-visible carryover `ஏனோ` before `நாணம் வந்து தடுப்பதாலே` | `likely-gemini-error` | **yes — B09** | Gate B explicitly recorded that File5's `எனை` differs from the scan and preserved it under the lexical lock. Gate C resolves the visible source reading for the discrepancy ledger only; canonical wording is not changed. |
+
+## C09 closure audit
+
+C09 is an **audit-only closure**.
+
+- source scans **201–225** were inspected against the direct File5 witness and preserved canonical lock;
+- **3** substantive discrepancy records were entered;
+- **0** canonical page records were edited;
+- no Gate-B page was reopened;
+- no lexical correction was promoted;
+- wording state remains **Gemini-lexical-locked / not word-for-word scan verified**.
+
+## Gate C cumulative state after C09
+
+- completed Gate-C batches: **C01–C09**
+- audited scans: **225/497**
+- cumulative substantive discrepancy records: **50**
+- remaining scans: **272**
+- next frontier: **scan 226**
+- Gate C2: **NOT STARTED / NOT AUTHORIZED**
+
+## Exact next activity
+
+Process **Gate C C10 — scans 226–250**.
+
+Available direct source pair:
+- user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_005_pages_201-250.pdf`, split pages **26–50** / physical scans **226–250**;
+- user-supplied `File5.md`, Phase 13 / Book Pages **213–237**.
+
+At C10 close:
+1. append only substantive lexical discrepancies to this ledger;
+2. verify **0 canonical page files changed**;
+3. advance the Gate-C frontier to **scan 251**;
+4. do not start Gate C2.
