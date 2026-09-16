@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate C Lexical Discrepancy Audit / C17 scans 401–425
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / Gate C Lexical Discrepancy Audit / C18 scans 426–450
 
 Continue directly in `pugazg/kalaignar-literary-commentary`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -41,33 +41,38 @@ Gate C:
 - C14 scans **326–350 — COMPLETE / PASS**
 - C15 scans **351–375 — COMPLETE / PASS**
 - C16 scans **376–400 — COMPLETE / PASS**
-- audited — **400/497**
-- remaining — **97**
-- frontier — **scan 401**
-- cumulative discrepancy records — **92**
-- latest Gate-C ledger commit — `f171f2ce69ffe21b89a3f381390753c577ee692a`
+- C17 scans **401–425 — COMPLETE / PASS**
+- audited — **425/497**
+- remaining — **72**
+- frontier — **scan 426**
+- cumulative discrepancy records — **100**
+- latest Gate-C ledger commit — `517cd621d898e9a818c0fd077ebb0c571783a1c1`
 - Gate C2 — **NOT STARTED / NOT AUTHORIZED**
 
 Wording state remains **Gemini-lexical-locked — not word-for-word scan verified**.
 
-## C16 source note
+## C17 source note
 
-C16 used:
-- `TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf`, split pages 26–50 / physical scans 376–400;
-- `File8.md`, Book Pages 364–388.
+C17 used:
+- `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf`, split pages 1–25 / physical scans 401–425;
+- `File9.md`, Phase 19 / Book Pages 389–413, only where the File9 block is reliable.
 
-C16 recorded three substantive discrepancies across scans 377 and 383: source `பருந்துகளும்` vs locked `பருந்துக்களும்`, source `அறிவுரைகளே` vs locked `அறிவுரைகளை`, and source quotation `நுங்குறை` vs locked `நும்குறை`. High-resolution recheck confirmed `நிறுக்கல்` itself is source-supported and is not a discrepancy. No canonical page wording was changed.
+C17 recorded eight substantive discrepancies across scans 402, 404, 410, 413, 420, 421 and 422. For scans 413–424 the documented File9 segmentation/replacement anomaly was honored: no synthetic File9 mapping was fabricated, and only directly demonstrable source/repository lexical divergences were recorded. High-resolution recheck also confirmed that scan 404 source `போல்` agrees with the locked layer; only `கருகில்` vs source `அருகில்` is a discrepancy. No canonical page wording was changed.
 
-## Exact next activity — C17
+## Exact next activity — C18
 
-Process **Gate C scans 401–425**.
+Process **Gate C scans 426–450**.
 
 Use:
-- controlling PDF — user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf`, split pages **1–25**;
-- direct Gemini lock witness — user-supplied `File9.md`, Phase 19 / Book Pages **389–413**;
-- canonical page records `works/sangatamil/pages/0401-*.md` through `0425-*.md`.
+- controlling PDF — the same user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf`, split pages **26–50**;
+- direct Gemini lock witness — `File9.md` Phase 20 only where a reliable lexical block actually exists;
+- canonical page records `works/sangatamil/pages/0426-*.md` through `0450-*.md`.
 
-Important: scans **413–424** have a documented File9 segmentation/replacement anomaly. Do not fabricate a one-to-one lexical mapping; audit only demonstrable source/repository discrepancies.
+Important File9 Phase-20 boundary defect:
+- usable File9 Page **414–425** blocks map to physical scans **426–437**;
+- File9 Page **413** is only a carry-forward note;
+- there are **no File9 lexical blocks for physical scans 438–450 / printed pages 426–438** despite the advertised Phase-20 range;
+- for scans 438–450, do not fabricate a lexical mapping; audit only directly demonstrable source/repository divergences.
 
 Append only substantive lexical discrepancies to:
 
@@ -79,6 +84,6 @@ At batch close:
 1. verify **0 canonical page files changed**;
 2. commit the updated ledger;
 3. synchronize operational current-state docs;
-4. advance Gate-C frontier to **scan 426**.
+4. advance Gate-C frontier to **scan 451**.
 
 **Do not start Gate C2 and do not source-correct canonical page wording.**

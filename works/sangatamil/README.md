@@ -32,12 +32,13 @@ Gate C — IN PROGRESS:
 - C14 scans 326–350 — COMPLETE / PASS
 - C15 scans 351–375 — COMPLETE / PASS
 - C16 scans 376–400 — COMPLETE / PASS
-- audited — 400/497
-- remaining — 97
-- frontier — scan 401
-- cumulative discrepancy records — 92
+- C17 scans 401–425 — COMPLETE / PASS
+- audited — 425/497
+- remaining — 72
+- frontier — scan 426
+- cumulative discrepancy records — 100
 - mode — audit-only / no page-wording changes
-- latest ledger commit — f171f2ce69ffe21b89a3f381390753c577ee692a
+- latest ledger commit — 517cd621d898e9a818c0fd077ebb0c571783a1c1
 
 Latest B20 page-layer endpoint: e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c
 
@@ -80,4 +81,4 @@ Gate-B structural completion does not automatically promote a page to verified. 
 
 ## Exact next activity
 
-Process Gate C C17 — scans 401–425 using the already supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf` split pages 1–25 + `File9.md` Phase 19 / Book Pages 389–413. Scans 413–424 have a documented File9 segmentation/replacement anomaly; append only demonstrable substantive discrepancies, verify 0 canonical page changes, and advance frontier to scan 426. Do not start Gate C2.
+Process Gate C C18 — scans 426–450 using the already supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf` split pages 26–50 + `File9.md` Phase 20 where reliable. File9 Pages 414–425 map to scans 426–437; scans 438–450 have no File9 lexical blocks, so append only directly demonstrable source/repository discrepancies, verify 0 canonical page changes, and advance frontier to scan 451. Do not start Gate C2.

@@ -255,23 +255,24 @@ Current durable state — **2026-09-16**:
 - latest B20 page-layer endpoint — `e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c`
 - Gate-B closure / durable B20 progress commit — `90caaeb3bd92201a75d45f617727721b9c3e0df7`
 - wording state — **Gemini-lexical-locked; not word-for-word scan verified**
-- Gate C C01–C16 — **COMPLETE / PASS**
-- Gate-C audited — **400/497**
-- Gate-C remaining — **97**
-- Gate-C frontier — **scan 401**
-- latest Gate-C ledger commit — `f171f2ce69ffe21b89a3f381390753c577ee692a`
-- C16 substantive discrepancy records — **3**
-- cumulative Gate-C discrepancy records — **92**
+- Gate C C01–C17 — **COMPLETE / PASS**
+- Gate-C audited — **425/497**
+- Gate-C remaining — **72**
+- Gate-C frontier — **scan 426**
+- latest Gate-C ledger commit — `517cd621d898e9a818c0fd077ebb0c571783a1c1`
+- C17 substantive discrepancy records — **8**
+- cumulative Gate-C discrepancy records — **100**
 - Gate C2 — **NOT STARTED / NOT AUTHORIZED**
 
 Durable Gate-B extraction/mapping exceptions remain recorded in `STRUCTURAL_FIDELITY_PROGRESS.md`; do not reopen Gate B merely to source-correct lexical wording.
 
-Exact next activity: **Gate C C17 — scans 401–425**.
+Exact next activity: **Gate C C18 — scans 426–450**.
 
 Available direct source pair:
-- user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf`, split pages **1–25** / physical scans **401–425**;
-- user-supplied `File9.md`, Phase 19 / Book Pages **389–413**.
-- scans **413–424** have a documented File9 segmentation/replacement anomaly; do not fabricate one-to-one lexical mapping.
+- user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf`, split pages **26–50** / physical scans **426–450**;
+- user-supplied `File9.md`, Phase 20 only where a reliable lexical block actually exists;
+- usable File9 Pages **414–425** map to physical scans **426–437**;
+- File9 supplies **no lexical blocks for physical scans 438–450 / printed pages 426–438**; do not fabricate one-to-one lexical mapping.
 
 Gate C remains audit-only:
 - append substantive discrepancies to `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`;

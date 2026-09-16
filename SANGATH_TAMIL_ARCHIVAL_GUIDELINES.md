@@ -122,19 +122,20 @@ Gate C — **IN PROGRESS**:
 - C14 scans **326–350 — COMPLETE / PASS**
 - C15 scans **351–375 — COMPLETE / PASS**
 - C16 scans **376–400 — COMPLETE / PASS**
-- audited — **400/497**
-- remaining — **97**
-- frontier — **scan 401**
-- cumulative discrepancy records — **92**
-- latest Gate-C ledger commit — `f171f2ce69ffe21b89a3f381390753c577ee692a`
+- C17 scans **401–425 — COMPLETE / PASS**
+- audited — **425/497**
+- remaining — **72**
+- frontier — **scan 426**
+- cumulative discrepancy records — **100**
+- latest Gate-C ledger commit — `517cd621d898e9a818c0fd077ebb0c571783a1c1`
 - Gate C2 — **NOT STARTED / NOT AUTHORIZED**
 
 Wording state remains **Gemini-lexical-locked**, not word-for-word scan verified.
 
 Durable extraction/mapping exceptions from Gate B remain authoritative in `STRUCTURAL_FIDELITY_PROGRESS.md`.
 
-C16 execution note: the supplied PDF/File8 pair was used for scans 376–400. Three substantive discrepancies were recorded across scans 377 and 383: `பருந்துகளும்`/`பருந்துக்களும்`, `அறிவுரைகளே`/`அறிவுரைகளை`, and `நுங்குறை`/`நும்குறை`. No page wording was changed.
+C17 execution note: the supplied PDF/File9 pair was used for scans 401–425. Eight substantive discrepancies were recorded across scans 402, 404, 410, 413, 420, 421 and 422. The documented File9 segmentation/replacement anomaly for scans 413–424 was honored without synthetic lexical mapping. No page wording was changed.
 
 ### Exact next activity
 
-Process Gate C C17 — **scans 401–425** using `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf` split pages 1–25 and `File9.md` Phase 19 / Book Pages 389–413. Scans **413–424** have a documented File9 segmentation/replacement anomaly; record only demonstrable discrepancies, verify **0 page-file changes**, and advance frontier to scan **426**. Do not start Gate C2.
+Process Gate C C18 — **scans 426–450** using `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf` split pages 26–50 and `File9.md` Phase 20 only where reliable. File9 Pages **414–425** map to scans **426–437**; scans **438–450** have no File9 lexical blocks, so record only directly demonstrable source/repository discrepancies, verify **0 page-file changes**, and advance frontier to scan **451**. Do not start Gate C2.
