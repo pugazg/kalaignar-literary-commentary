@@ -11,7 +11,7 @@ Last synchronized with live main: **2026-09-15**.
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–015 **ARCHIVAL-READY through scan 323**; commentary through printed page 270 / Kural 1330 |
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–015 **RELEASED through the end of the supplied volume** |
 | Thirukkural semantic structure | பால் → இயல் → அதிகாரம் | **COMPLETE — 3 பால் / 13 இயல் / 133 அதிகாரம் / 1,330 குறள் mapped** |
-| சங்கத் தமிழ் | தமிழ் | **ACTIVE — Gate A CLOSED; Gate B COMPLETE / PASS 497/497; Gate C COMPLETE / PASS 497/497; Gate D ACTIVE NEXT** |
+| சங்கத் தமிழ் | தமிழ் | **ACTIVE — Gates A–D COMPLETE / PASS; Gate E SECTION RECONSTRUCTION ACTIVE NEXT** |
 | Sangatamil | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த source-controlled edition ஆக archive செய்யப்படும் |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Kuraloviyam | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
@@ -114,6 +114,8 @@ MULTI_PASS_WORKFLOW.md and GEMINI_RECONCILIATION_PLAN.md are retained as histori
 
 ## அடுத்த செயல்
 
-Gate D — physical / visual / continuity closure. Audit all 497 scans for one-scan/one-record coverage, covers/blanks/illustrations/dividers/end matter, printed pagination, running headers/footers, meaningful alignment, continuation relationships, cross-page sentence/verse continuity, and shared-page/boundary anomalies. Durable output: `works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md`. Gate C2 remains unauthorized.
+Gate D — **COMPLETE / PASS**: 497/497 physical scans closed; 497 canonical records; 0 unresolved physical / visual / continuity issues; durable report `works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md`.
+
+Gate E — **ACTIVE NEXT**: reconstruct the complete source-order section layer, finish `works/sangatamil/indexes/section-register.md`, create/refresh section READMEs, and produce `works/sangatamil/SECTION_COVERAGE_AUDIT.md` with 497/497 scans assigned exactly once. Gate C2 remains unauthorized.
 
 Current handover: HANDOVER.md.
