@@ -176,3 +176,75 @@ At C03 close:
 2. verify **0 canonical page files changed**;
 3. advance the Gate-C frontier to **scan 76**;
 4. do not start Gate C2.
+
+
+# C03 — scans 51–75
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-16**
+- audited scans: **51–75 / 25**
+- source: Library original `TVA_BOK_0042551_சங்கத்_தமிழ்.pdf`, physical scans **51–75**
+- requested split `TVA_BOK_0042551_சங்கத்_தமிழ்_part_002_pages_51-100.pdf` was not directly available in the active attachment/library set; the full original source was used instead
+- locked comparison layer: current canonical page records under `works/sangatamil/pages/`
+- `File2.md` was not directly available; it was not reconstructed or inferred
+- substantive discrepancy records: **7**
+- scans containing discrepancies: **6**
+- scans with no new substantive lexical discrepancy: **19**
+- canonical page files changed: **0**
+- Gate C2 corrections: **0**
+
+Clean / no-new-substantive-discrepancy scans:
+
+**52, 54–57, 60–63, 65–69, 71–75**
+
+Special handling:
+- scans **52, 56, 60, 66, 72** are full-page illustrations and contain no literary body text;
+- punctuation-only, line-wrap, running-header/footer, quotation-layout and purely structural differences were excluded unless they materially altered lexical interpretation;
+- older pre-lock fast-transcription variants were treated only as candidate witnesses and were not accepted where the source image did not support them confidently.
+
+## C03 discrepancy records
+
+| ID | Scan | Printed page | Canonical page | Locked repository wording | Source-visible wording | Classification | Gate-B exception already documented? | Notes |
+|---|---:|---:|---|---|---|---|---|---|
+| C03-001 | 51 | 36 | `0051-maatharin-kanda-malargal-02.md` | `எதிரிகளைக` | `எதிரிகளைக்` | `likely-gemini-error` | no | The source visibly carries the final consonant marker; the locked form drops it. |
+| C03-002 | 53 | 38 | `0053-maatharin-kanda-malargal-04.md` | `விருப்பைச்` | `இருப்பைச்` | `likely-gemini-error` | no | The source quote reads `இருப்பைச்`; the glossary on scan 54 also has `இருப்பை = இலுப்பை மரம்`, corroborating the source reading. |
+| C03-003 | 58 | 43 | `0058-nellum-uyir-anre-neerum-uyir-anre-04.md` | `வேந்தர்க்குக்` | `வேந்தற்குக்` | `likely-gemini-error` | no | The printed Sangam quotation uses `வேந்தற்குக்`; the locked repository wording inserts an additional `ர்`. |
+| C03-004 | 59 | 44 | `0059-oorin-perumai-unarnthavar-oruthi-01.md` | `முன்னைக் கொடியும்` | `முஞ்ஞைக் கொடியும்` | `likely-gemini-error` | no | The source-visible form is `முஞ்ஞைக்`; the later source quotation on scan 63 likewise has `முஞ்ஞையொடு`. |
+| C03-005 | 64 | 49 | `0064-oorin-perumai-unarnthavar-oruthi-06.md` | `கனைதுல் = மிக உறக்கம்` | `கனைதுயில் = மிக உறக்கம்` | `likely-gemini-error` | no | The gloss source visibly reads `கனைதுயில்`; the quotation on scan 63 also contains `கனைதுயில்`. |
+| C03-006 | 64 | 49 | `0064-oorin-perumai-unarnthavar-oruthi-06.md` | `ஔவை துரைசாமிப் பிள்ளை` | `ஒளவை துரைசாமிப் பிள்ளை` | `old-or-uncommon-form` | no | This edition prints the name form `ஒளவை`, consistent with the same edition-form divergence already observed in C02. |
+| C03-007 | 70 | 55 | `0070-oru-vaathu-magal-in-pulambal-01.md` | heading `பொது மகளின் புலம்பல்!` | heading `ஒரு பொது மகளின் புலம்பல்!` | `likely-gemini-error` | **yes — B03** | B03 already documented that File2/locked wording omits the leading source-visible word `ஒரு`. |
+
+## C03 closure audit
+
+C03 is an **audit-only closure**.
+
+- source scans **51–75** were inspected against the preserved locked page layer;
+- **7** substantive discrepancy records were entered;
+- **0** canonical page records were edited;
+- no Gate-B page was reopened;
+- no lexical correction was promoted;
+- wording state remains **Gemini-lexical-locked / not word-for-word scan verified**.
+
+## Gate C cumulative state after C03
+
+- completed Gate-C batches: **C01–C03**
+- audited scans: **75/497**
+- cumulative substantive discrepancy records: **27**
+- remaining scans: **422**
+- next frontier: **scan 76**
+- Gate C2: **NOT STARTED / NOT AUTHORIZED**
+
+## Exact next activity
+
+Process **Gate C C04 — scans 76–100**.
+
+Controlling source:
+- Library original `TVA_BOK_0042551_சங்கத்_தமிழ்.pdf`, physical scans **76–100**;
+- matching lexical witness `File2.md` if it becomes directly available; otherwise current canonical wording remains the preserved Gemini-lock comparison layer.
+
+At C04 close:
+1. append only substantive lexical discrepancies to this ledger;
+2. verify **0 canonical page files changed**;
+3. advance the Gate-C frontier to **scan 101**;
+4. do not start Gate C2.
