@@ -662,3 +662,73 @@ At C10 close:
 2. verify **0 canonical page files changed**;
 3. advance the Gate-C frontier to **scan 251**;
 4. do not start Gate C2.
+
+
+# C10 — scans 226–250
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-16**
+- audited scans: **226–250 / 25**
+- controlling source: user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_005_pages_201-250.pdf`, split pages **26–50**
+- direct Gemini lexical witness: user-supplied `File5.md`, Phase 13 / Book Pages **213–237**
+- locked comparison layer: current canonical page records under `works/sangatamil/pages/`
+- substantive discrepancy records: **3**
+- scans containing discrepancies: **3**
+- scans with no new substantive lexical discrepancy: **22**
+- canonical page files changed: **0**
+- Gate C2 corrections: **0**
+
+Clean / no-new-substantive-discrepancy scans:
+
+**227–229, 231–236, 238–250**
+
+Special handling:
+- scans **228, 232, 238, 242, 246, 250** are full-page illustrations and contain no literary body text;
+- File5 Phase 13 / Book Pages **213–237** map one-to-one to physical scans **226–250** in this source block;
+- known File5 extraction debris already excluded during Gate B — scan 234 extraction bullet markers, scan 239 flattened extraction marker / merged printed-page furniture, scan 240 stray numeric / quote-marker debris, scans 241/243/244 stray `66` or quote-marker debris, and scan 249 stray heading fragment `இ` — was not re-entered as Gate-C lexical discrepancy;
+- source-controlled placement and quotation/provenance/gloss structure remain structural rather than lexical;
+- scan **244** locked `அழுவதேனோ` was not ledgered: the earlier provisional source capture `அழுவதேன்` is insufficient by itself to override the direct File5 lock without a clearer visual discrepancy;
+- punctuation-only, spacing, line-wrap, running-header/footer and purely structural differences were excluded unless they changed lexical content.
+
+## C10 discrepancy records
+
+| ID | Scan | Printed page | Canonical page | Locked File5 / repository wording | Source-visible / source-aligned wording | Classification | Gate-B exception already documented? | Notes |
+|---|---:|---:|---|---|---|---|---|---|
+| C10-001 | 226 | 213 | `0226-paari-magalir-paadiya-seyyul-01.md` | decorative body heading `பாபி மகளிர் / பாடிய செய்யுள்` | source section heading `பாரி மகளிர் பாடிய செய்யுள்` | `likely-gemini-error` | **yes — B10** | Gate B already preserved the source section identity in metadata while retaining File5's `பாபி` in the locked body heading. Gate C records the lexical title disagreement only. |
+| C10-002 | 230 | 217 | `0230-thaamaraip-poigaiyil-thavazhnthathu-nilavu-01.md` | `அந்துவன் சாத்தனையும் ஆதன் இழிசையையும்` | `அந்துவன் சாத்தனையும் ஆதன் அழிசையையும்` | `likely-gemini-error` | no | The earlier source-aligned physical capture reads `ஆதன் அழிசையையும்`. File5's own later Purananuru quotation on the same section independently has the proper name `ஆதன் அழிசியும்`, supporting the source-name reading and exposing `இழிசையையும்` as the locked error. |
+| C10-003 | 237 | 224 | `0237-kaattil-pirantha-kavithai-02.md` | `அன்னத்தின் கூட்டமொன்று ஓடையில படகாகி` | `அன்னத்தின் கூட்டமொன்று ஓடையில் படகாகி` | `likely-gemini-error` | no | The earlier source-aligned physical capture preserves the locative form `ஓடையில்`; File5 drops the terminal `்` and locks `ஓடையில`. No canonical correction is made in Gate C. |
+
+## C10 closure audit
+
+C10 is an **audit-only closure**.
+
+- source scans **226–250** were inspected against the direct File5 witness and preserved canonical lock;
+- **3** substantive discrepancy records were entered;
+- **0** canonical page records were edited;
+- no Gate-B page was reopened;
+- no lexical correction was promoted;
+- wording state remains **Gemini-lexical-locked / not word-for-word scan verified**.
+
+## Gate C cumulative state after C10
+
+- completed Gate-C batches: **C01–C10**
+- audited scans: **250/497**
+- cumulative substantive discrepancy records: **53**
+- remaining scans: **247**
+- next frontier: **scan 251**
+- Gate C2: **NOT STARTED / NOT AUTHORIZED**
+
+## Exact next activity
+
+Process **Gate C C11 — scans 251–275**.
+
+Available direct source pair:
+- user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_006_pages_251-300.pdf`, split pages **1–25** / physical scans **251–275**;
+- user-supplied `File6.md`, Phase 14 / Book Pages **238–262**.
+
+At C11 close:
+1. append only substantive lexical discrepancies to this ledger;
+2. verify **0 canonical page files changed**;
+3. advance the Gate-C frontier to **scan 276**;
+4. do not start Gate C2.
