@@ -72,8 +72,8 @@ Illustration/divider/blank pages remain canonical physical records. For illustra
 - Gate D — **COMPLETE / PASS**
 - Gate E — **COMPLETE / PASS**
 - Gate F — **COMPLETE / PASS**
-- Gate G — **ACTIVE / NEXT — metadata/status closure**
-- Gate H — derived navigation
+- Gate G — **COMPLETE / PASS — 497/497 metadata/status audited / 11 missing visual-fidelity fields repaired / 0 unresolved**
+- Gate H — **ACTIVE / NEXT — derived navigation**
 - Gate I — final whole-volume synchronization/closure
 
 Do not claim whole-volume word-for-word verification merely from C2 closure; C2 resolved the recorded discrepancy ledger rather than re-running every token in the source.
@@ -94,10 +94,12 @@ Historical Gate-B/C/D/E/F reports may retain their original gate-time methodolog
 - Gate E — **COMPLETE / PASS — 104 section-role entries / 497/497 scans assigned exactly once**
 - Gate F — **COMPLETE / PASS — 115 formal provenance units + 4 source-note-only records / 0 unresolved provenance gaps**
 - Post-C2 reconciliation R1 — **COMPLETE / PASS**
+- Gate G — **COMPLETE / PASS — 497/497 audited / 0 unresolved metadata-status inconsistencies**
+- Gate-G durable report — `works/sangatamil/GATE_G_METADATA_STATUS_AUDIT.md`
 - no C2-locked scan range remains
 - whole-volume word-for-word scan verification — **NOT CLAIMED**
 - reconciliation record — `works/sangatamil/POST_C2_RECONCILIATION.md`
 
 ### Exact next activity
 
-Proceed to **Gate G — metadata/status closure across all 497 canonical page records**. Fix only demonstrable metadata/status inconsistencies; do not reopen closed lexical/structural/provenance decisions merely for stylistic normalization.
+Proceed to **Gate H — derived navigation layer**. Build only downstream navigation/crosswalk/index artifacts from the closed canonical layer; do not mutate page wording or reopen Gates B–G.
