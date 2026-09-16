@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed 2026-09-16: Kuraloviyam remains closed; Sangath Tamil Gates A–F are COMPLETE / PASS; Gate C2 is user-adjudicated and APPLIED through scans 1–50; scans 51–497 remain locked; Gate G is deferred.
+Last refreshed **2026-09-16**: Kuraloviyam remains closed; Sangath Tamil Gates **A–G are COMPLETE / PASS**; Gate C2 is **COMPLETE / APPLIED 140/140**; post-C2 reconciliation R1 is **COMPLETE / PASS**; **Gate H derived navigation is active next**.
 
 ## Repository
 
@@ -19,43 +19,48 @@ Completed benchmark retained: `works/thirukkural/`
 
 **Fetch live `main` first and treat it as authoritative.**
 
-The latest durable Sangath Tamil progress checkpoint recorded in this handover is:
+Current Sangath Tamil durable controls:
 
-90caaeb3bd92201a75d45f617727721b9c3e0df7 — sangatamil: Close Gate B at 497 scans
+- `works/sangatamil/PRODUCTIVE_COMPLETION_PLAN.md`
+- `works/sangatamil/C2_SOURCE_CORRECTION_PROGRESS.md`
+- `works/sangatamil/POST_C2_RECONCILIATION.md`
+- `works/sangatamil/GATE_G_METADATA_STATUS_AUDIT.md`
+- `works/sangatamil/indexes/section-register.md`
+- `works/sangatamil/indexes/source-citation-register.md`
+- `NEXT_CHAT_PROMPT_SANGATH_TAMIL.md`
 
-B20 page-layer endpoint: e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c.
+Latest Gate-G page-layer endpoint:
 
-Durable B15 mixed-page repair commit: 6525498cd8e14871575e9ae0203060af2fe4450a — scans 358–359 are mixed text/illustration; scan 359 must not regress to illustration-only.
+`fd024e4c0b1d3f21a3849c360d509350ce808db5`
 
-Later commits may advance `main`. Preserve any newer durable state. Do not reset, overwrite, repeat, or reopen later completed work merely because this handover records an older SHA.
+Gate-G durable report commit:
 
+`93afbcda3151abb86b7338252f8222dbf0111413`
 
-## Sangath Tamil — productive completion plan
+Earlier Gate-B/C/F checkpoints remain historical evidence only. Later commits may advance `main`; never reset newer durable state merely because an older SHA appears below.
 
-Authoritative active plan: `works/sangatamil/PRODUCTIVE_COMPLETION_PLAN.md`.
+## Sangath Tamil — current productive state
 
-Gate A: **COMPLETE / PASS**.
+- Gate A — **COMPLETE / PASS — 497/497 canonical records / 0 duplicates / 0 missing**
+- Gate B — **COMPLETE / PASS — 497/497 structurally reviewed**
+- Gate C — **COMPLETE / PASS — 497/497 audited / 140 historical discrepancy records**
+- Gate C2 — **COMPLETE / APPLIED — 140/140 user-adjudicated / 0 locked remainder**
+- Gate D — **COMPLETE / PASS — 497/497 physical / visual / continuity / 0 unresolved**
+- Gate E — **COMPLETE / PASS — 104 section-role entries / 497/497 scans assigned exactly once**
+- Gate F — **COMPLETE / PASS — 115 formal provenance units + 4 source-note-only records**
+- Post-C2 reconciliation R1 — **COMPLETE / PASS — 0 canonical page mutations / 0 unresolved**
+- Gate G — **COMPLETE / PASS — 497/497 metadata/status audited / 11 missing `visual_fidelity` fields repaired / 0 unresolved / 0 wording changes**
+- final Gate-G page status distribution — **43 verified / 453 needs-review / 1 partial**
+- final Gate-G visual-fidelity distribution — **43 verified / 454 needs-review / 0 missing**
+- whole-volume word-for-word scan verification — **NOT CLAIMED**
 
-- physical source — **497 scans**;
-- canonical page files — **497**;
-- unique scan prefixes — **497**;
-- duplicate aliases — **0**;
-- missing scans — **0**;
-- durable Gate-A record — `works/sangatamil/GATE_A_HYGIENE_REPORT.md`.
+The mixed page-level statuses are intentional. Gate C2 resolved all recorded Gate-C discrepancies but did not perform a fresh exhaustive token-by-token reread of every source word.
 
-Gate B: **COMPLETE / PASS — 497/497 structurally reviewed / 0 remaining / 0 unresolved structural placement issues**.
+**Exact next activity: Gate H — derived navigation layer.**
 
-Current gate: **Gate C2 — C2-01 scans 1–25 + C2-02 scans 26–50 COMPLETE / APPLIED; scans 51–497 locked; Gate G deferred**.
+Gate H is downstream-only: build navigation/crosswalk/index artifacts from the closed canonical layer. Do not mutate canonical page wording or reopen Gates B–G.
 
-C01–C20 scans **1–497 — COMPLETE / PASS**; **140 cumulative substantive discrepancies** recorded in `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`; Gate C closed with **0 canonical page-wording changes**.
-
-Latest Gate-C ledger commit: `bf82324200e91ff05b76aed18b06c18b37883b90`.
-
-Gate D: **COMPLETE / PASS — 497/497 physical scans / 497 canonical records / 0 unresolved physical-visual-continuity issues**. Durable report: `works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md`.
-
-Gate E: **COMPLETE / PASS — 104 section-role entries / 497/497 scans assigned exactly once / 0 canonical page-wording changes**. Durable report: `works/sangatamil/SECTION_COVERAGE_AUDIT.md`.
-
-Exact next activity: **wait for the user's Gate C2 findings/instructions for scans 51–75**. Do not modify scans 51+ from the historical Gate-C ledger alone.
+> Historical workflow sections later in this handover may preserve the frontier that was true when they were written. They are evidence, not the live execution frontier. The current state above controls.
 
 ## Mandatory startup — active சங்கத் தமிழ் work
 
@@ -63,17 +68,18 @@ Before making any repository change, read completely:
 
 1. works/sangatamil/PRODUCTIVE_COMPLETION_PLAN.md
 2. works/sangatamil/GEMINI_TEXT_LOCK.md — current user-approved lexical override
-3. works/sangatamil/STRUCTURAL_FIDELITY_PROGRESS.md
-4. works/sangatamil/GATE_A_HYGIENE_REPORT.md
-5. SANGATH_TAMIL_ARCHIVAL_GUIDELINES.md
-6. root HANDOVER.md
-7. NEXT_CHAT_PROMPT_SANGATH_TAMIL.md
-8. works/sangatamil/README.md
-9. works/sangatamil/metadata/source.md
-10. works/sangatamil/metadata/transcription-policy.md
-11. works/sangatamil/indexes/page-map.md
-12. works/sangatamil/indexes/section-register.md
-13. works/sangatamil/indexes/source-citation-register.md
+3. works/sangatamil/GATE_G_METADATA_STATUS_AUDIT.md
+4. works/sangatamil/STRUCTURAL_FIDELITY_PROGRESS.md
+5. works/sangatamil/GATE_A_HYGIENE_REPORT.md
+6. SANGATH_TAMIL_ARCHIVAL_GUIDELINES.md
+7. root HANDOVER.md
+8. NEXT_CHAT_PROMPT_SANGATH_TAMIL.md
+9. works/sangatamil/README.md
+10. works/sangatamil/metadata/source.md
+11. works/sangatamil/metadata/transcription-policy.md
+12. works/sangatamil/indexes/page-map.md
+13. works/sangatamil/indexes/section-register.md
+14. works/sangatamil/indexes/source-citation-register.md
 
 Historical/superseded background only: works/sangatamil/MULTI_PASS_WORKFLOW.md and works/sangatamil/GEMINI_RECONCILIATION_PLAN.md.
 
@@ -115,18 +121,18 @@ For page-level work in a fresh chat, resolve the split PDF and Gemini file requi
 
 Gate B source processing is closed through scan 497.
 
-Current Gate-C source start:
+Current closed-gate state:
 
 - Gate C — COMPLETE / PASS — scans 1–497 audited
 - cumulative lexical discrepancy records — 140
-- canonical page-wording changes during Gate C — 0
-- Gate C2 — PARTIALLY AUTHORIZED / scans 1–50 applied / scans 51–497 locked
+- Gate C2 — COMPLETE / APPLIED — 140/140 adjudicated
 - Gate D — COMPLETE / PASS — 497/497 physical scans closed
-- durable Gate-D report — `works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md`
-- Gate E — COMPLETE / PASS — 104 section-role entries / 497/497 scans assigned exactly once
-- Gate-E durable outputs — completed `indexes/section-register.md`, 104 section READMEs, `SECTION_COVERAGE_AUDIT.md`
-- current active target — Gate F Sangam provenance audit
-- Gate-F durable outputs — completed `indexes/source-citation-register.md`, `PROVENANCE_AUDIT.md`
+- Gate E — COMPLETE / PASS — 104 section-role entries / 497/497 assigned exactly once
+- Gate F — COMPLETE / PASS — 115 formal provenance units + 4 source-note-only records
+- post-C2 reconciliation R1 — COMPLETE / PASS
+- Gate G — COMPLETE / PASS — 497/497 metadata/status audited / 11 field-presence repairs / 0 unresolved
+- current active target — **Gate H derived navigation**
+- closed derived authorities — `indexes/section-register.md`, `indexes/source-citation-register.md`, `GATE_G_METADATA_STATUS_AUDIT.md`
 
 Gemini page comments are navigation aids only; they do not establish physical scan numbering. The scan does.
 
@@ -653,7 +659,7 @@ Use `works/kuraloviyam/sections/entries/index.json` as the preferred structured 
 - Historical Gate-F next activity was Gate G; this is superseded by the current C2 state below.
 
 
-# Sangath Tamil Post-C2 reconciliation / Gate G handoff — 2026-09-16
+# Sangath Tamil Gate G closure / Gate H handoff — 2026-09-16
 
 - Gate C2 — **COMPLETE / APPLIED**
 - C2 disposition coverage — **497/497 scans**
@@ -662,13 +668,13 @@ Use `works/kuraloviyam/sections/entries/index.json` as the preferred structured 
 - whole-volume word-for-word scan verification — **NOT CLAIMED**
 - post-C2 reconciliation R1 — **COMPLETE / PASS**
 - R1 durable record — `works/sangatamil/POST_C2_RECONCILIATION.md`
-- R1 canonical page-file mutations — **0**
-- Gate-D physical/continuity impact — **NONE**
-- Gate-E section identities synchronized — seq **020, 032, 070**
-- Gate-E ranges / 104-entry coverage — **UNCHANGED / PASS**
-- Gate-F provenance identities/counts — **UNCHANGED / PASS**
-- Gate-F derived section labels / boundary notes — **RECONCILED**
-- unresolved reconciliation items — **0**
-- Gate G — **ACTIVE / NEXT**
-- exact next activity — **metadata/status closure across all 497 canonical page records**
-- after Gate G — **Gate H derived navigation layer**
+- Gate G — **COMPLETE / PASS**
+- Gate-G canonical records audited — **497/497**
+- Gate-G missing-field repairs — **11 `visual_fidelity` fields**
+- Gate-G unresolved inconsistencies — **0**
+- Gate-G canonical wording changes — **0**
+- Gate-G durable report — `works/sangatamil/GATE_G_METADATA_STATUS_AUDIT.md`
+- Gate-G page-layer endpoint — `fd024e4c0b1d3f21a3849c360d509350ce808db5`
+- active next gate — **Gate H derived navigation layer**
+- Gate-H rule — **downstream navigation/index work only; do not mutate canonical page wording or reopen Gates B–G**
+
