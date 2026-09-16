@@ -387,3 +387,68 @@ At C06 close:
 2. verify **0 canonical page files changed**;
 3. advance the Gate-C frontier to **scan 151**;
 4. do not start Gate C2.
+
+
+# C06 — scans 126–150
+
+**Status: COMPLETE / PASS — CLEAN BATCH**
+
+- date: **2026-09-16**
+- audited scans: **126–150 / 25**
+- controlling source: user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_003_pages_101-150.pdf`, split pages **26–50**
+- direct Gemini lexical witness: user-supplied `File3.md`, Pages **126–150**
+- locked comparison layer: current canonical page records under `works/sangatamil/pages/`
+- substantive discrepancy records: **0**
+- scans containing discrepancies: **0**
+- scans with no new substantive lexical discrepancy: **25**
+- canonical page files changed: **0**
+- Gate C2 corrections: **0**
+
+Clean scans:
+
+**126–150**
+
+Special handling:
+- scans **128, 132, 138** are full-page illustrations and contain no literary body text;
+- scan **143** is a two-page physical spread preserved as one canonical physical record;
+- known File3 extraction debris already excluded during Gate B was rechecked and not promoted into Gate C:
+  - scan **130** stray numeric `6` in `வலவன் =6`;
+  - scan **131** stray title token `மு`;
+  - scan **137** malformed heading extraction `அதில் ... தி ... வி`;
+  - scan **143** stray `A...` and malformed `மேமதிலி`;
+- placement-only differences controlled by the PDF, including scan **149** `மன்னன்!` placement and scan **150** physical boundary at `பட்டமும்`, are structural rather than lexical discrepancies and were not ledgered;
+- punctuation-only, spacing, line-wrap, running-header/footer and structural-placement differences were excluded unless they changed lexical content.
+
+## C06 closure audit
+
+C06 is an **audit-only closure**.
+
+- source scans **126–150** were inspected against the direct File3 witness and preserved canonical lock;
+- **0** substantive source/File3 lexical discrepancies were found that meet Gate-C ledger criteria;
+- **0** canonical page records were edited;
+- no Gate-B page was reopened;
+- no lexical correction was promoted;
+- wording state remains **Gemini-lexical-locked / not word-for-word scan verified**.
+
+## Gate C cumulative state after C06
+
+- completed Gate-C batches: **C01–C06**
+- audited scans: **150/497**
+- cumulative substantive discrepancy records: **36**
+- remaining scans: **347**
+- next frontier: **scan 151**
+- Gate C2: **NOT STARTED / NOT AUTHORIZED**
+
+## Exact next activity
+
+Process **Gate C C07 — scans 151–175**.
+
+Required source pair:
+- controlling PDF covering physical scans **151–175**;
+- matching direct Gemini lexical witness `File4.md` when available; otherwise current canonical wording remains the preserved Gemini-lock comparison layer.
+
+At C07 close:
+1. append only substantive lexical discrepancies to this ledger;
+2. verify **0 canonical page files changed**;
+3. advance the Gate-C frontier to **scan 176**;
+4. do not start Gate C2.
