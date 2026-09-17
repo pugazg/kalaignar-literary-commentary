@@ -1,6 +1,6 @@
 # Sangatamil — Maintained English Translation Status
 
-**Status: ACTIVE — DRAFT D9 COMPLETE / PASS**
+**Status: ACTIVE — DRAFT D10 COMPLETE / PASS**
 
 Repository: `pugazg/kalaignar-literary-commentary`  
 Branch: `main`
@@ -29,7 +29,7 @@ English work does not alter or promote those Tamil statuses.
 | Gate | State |
 |---|---|
 | Control-layer initialization | **COMPLETE / PASS** |
-| First-pass drafting | **333/497 — D1+D2+D3+D4+D5+D6+D7+D8+D9 COMPLETE / PASS** |
+| First-pass drafting | **370/497 — D1+D2+D3+D4+D5+D6+D7+D8+D9+D10 COMPLETE / PASS** |
 | Source-check | **0/497** |
 | Glossary reconciliation | **0/497** |
 | Editorial review | **0/497** |
@@ -37,13 +37,13 @@ English work does not alter or promote those Tamil statuses.
 
 Current English page inventory:
 
-- `draft` — **332**
+- `draft` — **369**
 - `source-checked` — **0**
 - `editorial-reviewed` — **0**
 - `release-ready` — **0**
 - `source-limited` — **1** (scan 8)
 - `blocked` — **0**
-- not yet created — **164**
+- not yet created — **127**
 
 ## Drafting closure
 
@@ -113,6 +113,15 @@ Current English page inventory:
 - D9 state — **37 draft / 0 source-limited / 0 blocked**
 - durable report — `DRAFT_D9_REPORT.md`
 
+### D10 — COMPLETE / PASS
+- scans **334–370**
+- English pages — **37/37**
+- page-layer base — `50634f731824401541db66152d20a761d941ea9f`
+- page-layer endpoint — `1fac889a3d88a3f528a752b7e901aed4045ff482`
+- exact page-layer compare — **6 commits / 37 English page files only / 0 canonical Tamil page changes**
+- D10 state — **37 draft / 0 source-limited / 0 blocked**
+- durable report — `DRAFT_D10_REPORT.md`
+
 ## Release interpretation
 
 English review/release status is relative to the maintained canonical Tamil archive.
@@ -125,6 +134,6 @@ Normal page-batched cadence: **37 physical scans**.
 
 ## Exact next activity
 
-**Draft D10 — scans 334–370.**
+**Draft D11 — scans 371–407.**
 
-Continue first-pass drafting before source-check. Preserve the cross-page continuation from scan 333 into 334 and existing Tamil status/visual-fidelity metadata. Change **0 canonical Tamil page files**.
+Begin with scan **371**, the full-page illustration continuing `கண்கண்ட சாட்சி உண்டோ?` from scan 370. Continue first-pass drafting before source-check. Preserve page alignment, source status, section/provenance structure and cross-page continuities. Change **0 canonical Tamil page files**.
