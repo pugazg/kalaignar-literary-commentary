@@ -54,9 +54,10 @@ Translate only the maintained Tamil archive. Preserve the work's own order, quot
 - Draft D2 scans **38–74 — COMPLETE / PASS**
 - Draft D3 scans **75–111 — COMPLETE / PASS**
 - Draft D4 scans **112–148 — COMPLETE / PASS**
-- English page records — **148/497**
-- first-pass drafting — **148/497**
-- current English state — **147 `draft` + 1 `source-limited` (scan 8)**
+- Draft D5 scans **149–185 — COMPLETE / PASS**
+- English page records — **185/497**
+- first-pass drafting — **185/497**
+- current English state — **184 `draft` + 1 `source-limited` (scan 8)**
 - source-check — **0/497**
 - glossary reconciliation — **0/497**
 - editorial review — **0/497**
@@ -66,5 +67,6 @@ Translate only the maintained Tamil archive. Preserve the work's own order, quot
 - durable D2 report — `DRAFT_D2_REPORT.md`
 - durable D3 report — `DRAFT_D3_REPORT.md`
 - durable D4 report — `DRAFT_D4_REPORT.md`
+- durable D5 report — `DRAFT_D5_REPORT.md`
 
-Exact next activity: **Draft D5 — scans 149–185**, page-aligned to the canonical Tamil records.
+Exact next activity: **Draft D6 — scans 186–222**, page-aligned to the canonical Tamil records.
