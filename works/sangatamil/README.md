@@ -169,7 +169,7 @@ Final declaration:
 
 ## Maintained English translation — ACTIVE
 
-A separately scoped project-created English layer is active under `translations/en/`, modeled on the maintained-English Kuraloviyam workflow. Drafts D1–D6 scans **1–222 are COMPLETE / PASS**.
+A separately scoped project-created English layer is active under `translations/en/`, modeled on the maintained-English Kuraloviyam workflow. Drafts D1–D7 scans **1–259 are COMPLETE / PASS**.
 
 Controls:
 - `translations/en/README.md`
@@ -181,4 +181,4 @@ This downstream layer does **not** reopen or mass-promote the canonical Tamil re
 
 ## Exact next activity
 
-**English Draft D7 — scans 223–259**, continuing first-pass page-aligned drafting. D1–D6 are closed at **222/497** with **221 draft + 1 source-limited (scan 8)**.
+**English Draft D8 — scans 260–296**, continuing first-pass page-aligned drafting. D1–D7 are closed at **259/497** with **258 draft + 1 source-limited (scan 8)**.

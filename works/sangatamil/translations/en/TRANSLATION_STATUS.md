@@ -1,6 +1,6 @@
 # Sangatamil — Maintained English Translation Status
 
-**Status: ACTIVE — DRAFT D6 COMPLETE / PASS**
+**Status: ACTIVE — DRAFT D7 COMPLETE / PASS**
 
 Repository: `pugazg/kalaignar-literary-commentary`  
 Branch: `main`
@@ -29,7 +29,7 @@ English work does not alter or promote those Tamil statuses.
 | Gate | State |
 |---|---|
 | Control-layer initialization | **COMPLETE / PASS** |
-| First-pass drafting | **222/497 — D1+D2+D3+D4+D5+D6 COMPLETE / PASS** |
+| First-pass drafting | **259/497 — D1+D2+D3+D4+D5+D6+D7 COMPLETE / PASS** |
 | Source-check | **0/497** |
 | Glossary reconciliation | **0/497** |
 | Editorial review | **0/497** |
@@ -37,13 +37,13 @@ English work does not alter or promote those Tamil statuses.
 
 Current English page inventory:
 
-- `draft` — **221**
+- `draft` — **258**
 - `source-checked` — **0**
 - `editorial-reviewed` — **0**
 - `release-ready` — **0**
 - `source-limited` — **1** (scan 8)
 - `blocked` — **0**
-- not yet created — **275**
+- not yet created — **238**
 
 ## Drafting closure
 
@@ -84,11 +84,18 @@ Current English page inventory:
 ### D6 — COMPLETE / PASS
 - scans **186–222**
 - English pages — **37/37**
-- page-layer base — `4abdb6b84b44fdd4bb57ab8183702f4fbe67d907`
 - page-layer endpoint — `2b577bc40d8c88f85ffdfb72bdad26dbc55c098e`
-- exact page-layer compare — **4 commits / 37 English page files only / 0 canonical Tamil page changes**
 - D6 state — **37 draft / 0 source-limited / 0 blocked**
 - durable report — `DRAFT_D6_REPORT.md`
+
+### D7 — COMPLETE / PASS
+- scans **223–259**
+- English pages — **37/37**
+- page-layer base — `6feac751a15f21eadbc764bb65bd04b308995547`
+- page-layer endpoint — `b63efa7cef0971dee26a79544fb9975fd0429884`
+- exact page-layer compare — **4 commits / 37 English page files only / 0 canonical Tamil page changes**
+- D7 state — **37 draft / 0 source-limited / 0 blocked**
+- durable report — `DRAFT_D7_REPORT.md`
 
 ## Release interpretation
 
@@ -102,6 +109,6 @@ Normal page-batched cadence: **37 physical scans**.
 
 ## Exact next activity
 
-**Draft D7 — scans 223–259.**
+**Draft D8 — scans 260–296.**
 
-Continue first-pass drafting before source-check. Preserve the cross-page continuation from scan 222 into 223 and existing Tamil status/visual-fidelity metadata. Change **0 canonical Tamil page files**.
+Continue first-pass drafting before source-check. Preserve the cross-page continuation from scan 259 into scan 260 and existing Tamil status/visual-fidelity metadata. Change **0 canonical Tamil page files**.
