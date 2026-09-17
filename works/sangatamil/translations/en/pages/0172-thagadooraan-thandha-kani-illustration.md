@@ -1,0 +1,19 @@
+---
+source_scan_page: 172
+source_tamil_file: "../../../pages/0172-thagadooraan-thandha-kani-illustration.md"
+printed_page: null
+work: "sangatamil"
+section: "தகரோன் தந்த கனி!"
+language: "en"
+translation_type: "project_translation"
+status: "draft"
+source_tamil_status: "needs-review"
+source_tamil_visual_fidelity: "needs-review"
+translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
+---
+
+## Visual record
+
+Full-page colour illustration. No source-visible literary text or printed page number is visible on this scan.
+
+<!-- Source scan page: 172; printed page: not visible -->
