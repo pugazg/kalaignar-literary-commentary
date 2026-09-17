@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / MAINTAINED ENGLISH D3
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / MAINTAINED ENGLISH D4
 
 Continue only from live `main` in `pugazg/kalaignar-literary-commentary`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -19,26 +19,28 @@ Read first:
 3. `works/sangatamil/translations/en/TRANSLATION_STATUS.md`
 4. `works/sangatamil/translations/en/DRAFT_D1_REPORT.md`
 5. `works/sangatamil/translations/en/DRAFT_D2_REPORT.md`
-6. `works/sangatamil/README.md`
-7. `works/sangatamil/GATE_I_FINAL_CLOSURE.md`
-8. `works/sangatamil/indexes/section-register.md`
-9. `works/sangatamil/indexes/source-citation-register.md`
-10. root `HANDOVER.md`
+6. `works/sangatamil/translations/en/DRAFT_D3_REPORT.md`
+7. `works/sangatamil/README.md`
+8. `works/sangatamil/GATE_I_FINAL_CLOSURE.md`
+9. `works/sangatamil/indexes/section-register.md`
+10. `works/sangatamil/indexes/source-citation-register.md`
+11. root `HANDOVER.md`
 
 ## Drafting closed state
 
 D1 scans **1–37 — COMPLETE / PASS**.  
-D2 scans **38–74 — COMPLETE / PASS**.
+D2 scans **38–74 — COMPLETE / PASS**.  
+D3 scans **75–111 — COMPLETE / PASS**.
 
 Cumulative English state:
 
-- page records — **74/497**
-- `draft` — **73**
+- page records — **111/497**
+- `draft` — **110**
 - `source-limited` — **1** (scan 8)
 - source-check — **0/497**
 - canonical Tamil page changes from English drafting — **0**
 
-D2 page-layer endpoint: `4bc4dbf888ef6227ef93779eefef7bf13b2c7ccc`.
+D3 page-layer endpoint: `793c1cfd59621b2ee962c8e07e16307a0cdffec5`.
 
 ## Translation identity
 
@@ -62,7 +64,7 @@ Normal page-batched cadence: **37 physical scans**.
 
 ## Exact next activity
 
-**Draft D3 — scans 75–111.**
+**Draft D4 — scans 112–148.**
 
 Requirements:
 
@@ -72,7 +74,7 @@ Requirements:
 - preserve all cross-page continuities;
 - copy factual Tamil status/visual-fidelity into `source_tamil_status` / `source_tamil_visual_fidelity`;
 - use `status: "draft"` for safely translatable pages, preserving `source-limited` only where the Tamil record itself requires it;
-- update `TRANSLATION_STATUS.md` after D3;
+- update `TRANSLATION_STATUS.md` after D4;
 - audit the exact changed-file set;
 - change **0 canonical Tamil page files**.
 

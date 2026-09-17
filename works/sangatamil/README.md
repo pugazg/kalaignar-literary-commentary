@@ -2,7 +2,7 @@
 
 Source-first archival workspace for the 497-scan volume TVA_BOK_0042551_சங்கத்_தமிழ்.pdf.
 
-## Current state — 2026-09-16
+## Current state — 2026-09-17
 
 Gate A — COMPLETE / PASS:
 - canonical page records — 497/497
@@ -169,7 +169,7 @@ Final declaration:
 
 ## Maintained English translation — ACTIVE
 
-A separately scoped project-created English layer is active under `translations/en/`, modeled on the maintained-English Kuraloviyam workflow. Drafts D1–D2 scans **1–74 are COMPLETE / PASS**.
+A separately scoped project-created English layer is active under `translations/en/`, modeled on the maintained-English Kuraloviyam workflow. Drafts D1–D3 scans **1–111 are COMPLETE / PASS**.
 
 Controls:
 - `translations/en/README.md`
@@ -181,4 +181,4 @@ This downstream layer does **not** reopen or mass-promote the canonical Tamil re
 
 ## Exact next activity
 
-**English Draft D3 — scans 75–111**, continuing first-pass page-aligned drafting. D1+D2 are closed at **74/497** with **73 draft + 1 source-limited (scan 8)**.
+**English Draft D4 — scans 112–148**, continuing first-pass page-aligned drafting. D1–D3 are closed at **111/497** with **110 draft + 1 source-limited (scan 8)**.

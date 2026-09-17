@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed **2026-09-16**: Kuraloviyam remains closed; Sangath Tamil Gates **A–I are COMPLETE / PASS** and the Tamil archival pipeline is **CLOSED**; the separately scoped **maintained English project translation is ACTIVE** with Drafts D1–D2 scans **1–74 COMPLETE / PASS** and Draft D3 scans **75–111 next**.
+Last refreshed **2026-09-17**: Kuraloviyam remains closed; Sangath Tamil Gates **A–I are COMPLETE / PASS** and the Tamil archival pipeline is **CLOSED**; the separately scoped **maintained English project translation is ACTIVE** with Drafts D1–D3 scans **1–111 COMPLETE / PASS** and Draft D4 scans **112–148 next**.
 
 ## Repository
 
@@ -63,7 +63,7 @@ The mixed page-level statuses are intentional. Gate C2 resolved all recorded Gat
 
 **Exact Tamil archival activity: none — Sangath Tamil archival pipeline closed.**
 
-**Exact downstream activity: maintained English Draft D3 — scans 75–111.** D1+D2 are closed at **74/497** with **73 draft + 1 source-limited (scan 8)**.
+**Exact downstream activity: maintained English Draft D4 — scans 112–148.** D1–D3 are closed at **111/497** with **110 draft + 1 source-limited (scan 8)**.
 
 English controls: `works/sangatamil/translations/en/README.md`, `TRANSLATION_GUIDE.md`, `TRANSLATION_STATUS.md`, and `GLOSSARY.md`.
 
