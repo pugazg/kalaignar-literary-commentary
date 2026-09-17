@@ -1,6 +1,6 @@
 # Sangatamil — Maintained English Translation Status
 
-**Status: ACTIVE — DRAFT D11 COMPLETE / PASS**
+**Status: ACTIVE — DRAFT D12 COMPLETE / PASS**
 
 Repository: `pugazg/kalaignar-literary-commentary`  
 Branch: `main`
@@ -29,7 +29,7 @@ English work does not alter or promote those Tamil statuses.
 | Gate | State |
 |---|---|
 | Control-layer initialization | **COMPLETE / PASS** |
-| First-pass drafting | **407/497 — D1+D2+D3+D4+D5+D6+D7+D8+D9+D10+D11 COMPLETE / PASS** |
+| First-pass drafting | **444/497 — D1+D2+D3+D4+D5+D6+D7+D8+D9+D10+D11+D12 COMPLETE / PASS** |
 | Source-check | **0/497** |
 | Glossary reconciliation | **0/497** |
 | Editorial review | **0/497** |
@@ -37,13 +37,13 @@ English work does not alter or promote those Tamil statuses.
 
 Current English page inventory:
 
-- `draft` — **406**
+- `draft` — **443**
 - `source-checked` — **0**
 - `editorial-reviewed` — **0**
 - `release-ready` — **0**
 - `source-limited` — **1** (scan 8)
 - `blocked` — **0**
-- not yet created — **90**
+- not yet created — **53**
 
 ## Drafting closure
 
@@ -131,6 +131,15 @@ Current English page inventory:
 - D11 state — **37 draft / 0 source-limited / 0 blocked**
 - durable report — `DRAFT_D11_REPORT.md`
 
+### D12 — COMPLETE / PASS
+- scans **408–444**
+- English pages — **37/37**
+- page-layer base — `59d9fb6780c874e7fe1d57e618a38c5ca2a8a506`
+- page-layer endpoint — `148be4488de78ed90521d19c68601f10988980e1`
+- exact page-layer compare — **4 commits / 37 English page files only / 0 canonical Tamil page changes**
+- D12 state — **37 draft / 0 source-limited / 0 blocked**
+- durable report — `DRAFT_D12_REPORT.md`
+
 ## Release interpretation
 
 English review/release status is relative to the maintained canonical Tamil archive.
@@ -143,6 +152,6 @@ Normal page-batched cadence: **37 physical scans**.
 
 ## Exact next activity
 
-**Draft D12 — scans 408–444.**
+**Draft D13 — scans 445–481.**
 
-Begin with scan **408**, the text continuation of `மணித்தேரில் சென்ற மகன்!` from the illustration on scan 407. Continue first-pass drafting before source-check. Preserve page alignment, source status, section/provenance structure and cross-page continuities. Change **0 canonical Tamil page files**.
+Begin with scan **445**, numbered unit `ஒருதலைக் காதல் — 4`. Continue first-pass drafting before source-check. Preserve page alignment, source status, section/provenance structure and cross-page continuities. Change **0 canonical Tamil page files**.
