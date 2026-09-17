@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / MAINTAINED ENGLISH D9
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / MAINTAINED ENGLISH D10
 
 Continue only from live `main` in `pugazg/kalaignar-literary-commentary`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -25,11 +25,12 @@ Read first:
 9. `works/sangatamil/translations/en/DRAFT_D6_REPORT.md`
 10. `works/sangatamil/translations/en/DRAFT_D7_REPORT.md`
 11. `works/sangatamil/translations/en/DRAFT_D8_REPORT.md`
-12. `works/sangatamil/README.md`
-13. `works/sangatamil/GATE_I_FINAL_CLOSURE.md`
-14. `works/sangatamil/indexes/section-register.md`
-15. `works/sangatamil/indexes/source-citation-register.md`
-16. root `HANDOVER.md` — historical/background context; if its maintained-English frontier line lags, `TRANSLATION_STATUS.md` and this prompt control the live English frontier.
+12. `works/sangatamil/translations/en/DRAFT_D9_REPORT.md`
+13. `works/sangatamil/README.md`
+14. `works/sangatamil/GATE_I_FINAL_CLOSURE.md`
+15. `works/sangatamil/indexes/section-register.md`
+16. `works/sangatamil/indexes/source-citation-register.md`
+17. root `HANDOVER.md` — historical/background context; if its maintained-English frontier line lags, `TRANSLATION_STATUS.md` and this prompt control the live English frontier.
 
 ## Drafting closed state
 
@@ -40,17 +41,18 @@ D4 scans **112–148 — COMPLETE / PASS**.
 D5 scans **149–185 — COMPLETE / PASS**.  
 D6 scans **186–222 — COMPLETE / PASS**.  
 D7 scans **223–259 — COMPLETE / PASS**.  
-D8 scans **260–296 — COMPLETE / PASS**.
+D8 scans **260–296 — COMPLETE / PASS**.  
+D9 scans **297–333 — COMPLETE / PASS**.
 
 Cumulative English state:
 
-- page records — **296/497**
-- `draft` — **295**
+- page records — **333/497**
+- `draft` — **332**
 - `source-limited` — **1** (scan 8)
 - source-check — **0/497**
 - canonical Tamil page changes from English drafting — **0**
 
-D8 page-layer endpoint: `6af5920f630a0c70108785d22cadb7a2e8eee961`.
+D9 page-layer endpoint: `ccbf906f04d732883580883dff9bd7a9243bd364`.
 
 ## Translation identity
 
@@ -74,11 +76,11 @@ Normal page-batched cadence: **37 physical scans**.
 
 ## Exact next activity
 
-**Draft D9 — scans 297–333.**
+**Draft D10 — scans 334–370.**
 
 Requirements:
 
-- begin by preserving the continuation from scan **296** into scan **297**;
+- begin by preserving the continuation from scan **333** into scan **334**;
 - create matching files under `works/sangatamil/translations/en/pages/`;
 - mirror Tamil filenames exactly;
 - translate source order, prose, dialogue, quoted verse, source labels, provenance and visual descriptions faithfully;
@@ -86,7 +88,7 @@ Requirements:
 - copy factual Tamil status/visual-fidelity into `source_tamil_status` / `source_tamil_visual_fidelity`;
 - use `status: "draft"` for safely translatable pages, preserving `source-limited` only where the Tamil record itself requires it;
 - do not silently repair awkward or unresolved canonical Tamil wording; leave it for source-check;
-- update `TRANSLATION_STATUS.md` after D9;
+- update `TRANSLATION_STATUS.md` after D10;
 - audit the exact changed-file set;
 - change **0 canonical Tamil page files**.
 

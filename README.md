@@ -12,7 +12,7 @@ Last synchronized with live main: **2026-09-17**.
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–015 **RELEASED through the end of the supplied volume** |
 | Thirukkural semantic structure | பால் → இயல் → அதிகாரம் | **COMPLETE — 3 பால் / 13 இயல் / 133 அதிகாரம் / 1,330 குறள் mapped** |
 | சங்கத் தமிழ் | தமிழ் | **CLOSED — Gates A–I + Gate C2 COMPLETE / PASS; post-C2 reconciliation R1 COMPLETE / PASS** |
-| Sangatamil | English project translation | **ACTIVE — Drafts D1–D8 scans 1–296 COMPLETE / PASS; 296/497 drafted; D9 scans 297–333 next** |
+| Sangatamil | English project translation | **ACTIVE — Drafts D1–D9 scans 1–333 COMPLETE / PASS; 333/497 drafted; D10 scans 334–370 next** |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Kuraloviyam | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 
@@ -64,8 +64,8 @@ Gate A — COMPLETE / PASS: 497/497 canonical records; 0 duplicates; 0 missing.
 Gate B — COMPLETE / PASS:
 - B01–B20 complete
 - 497/497 structurally reviewed
-- 0 remaining
-- 0 unresolved structural placement issues
+- remaining — 0
+- unresolved structural placement issues — 0
 
 Gate C — COMPLETE / PASS:
 - C01 scans 1–25 — COMPLETE / PASS
@@ -144,4 +144,4 @@ Gate H — **COMPLETE / PASS — derived navigation built from 104 sections / 11
 
 Gate I — **COMPLETE / PASS — final synchronization / closure**.
 
-Exact Tamil archival activity: **none; Sangath Tamil archival pipeline is closed**. Separate downstream activity: **maintained English Draft D9, scans 297–333**; D1–D8 are complete at **296/497**.
+Exact Tamil archival activity: **none; Sangath Tamil archival pipeline is closed**. Separate downstream activity: **maintained English Draft D10, scans 334–370**; D1–D9 are complete at **333/497**.
