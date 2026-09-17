@@ -28,7 +28,7 @@ Read first:
 12. `works/sangatamil/GATE_I_FINAL_CLOSURE.md`
 13. `works/sangatamil/indexes/section-register.md`
 14. `works/sangatamil/indexes/source-citation-register.md`
-15. root `HANDOVER.md`
+15. root `HANDOVER.md` — historical/background context; if its maintained-English frontier line lags, `TRANSLATION_STATUS.md` and this prompt control the live English frontier.
 
 ## Drafting closed state
 
