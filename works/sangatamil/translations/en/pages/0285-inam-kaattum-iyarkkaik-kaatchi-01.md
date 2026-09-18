@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "'இனம்' காட்டும் இயற்கைக் காட்சி!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -50,7 +50,7 @@ the bee was trapped in danger.
 Seeing it panic,
 close to death,
 the gathered swarm rose into the air,
-faces fallen,
+crestfallen,
 hearts distressed,
 buzzing in turmoil.
 

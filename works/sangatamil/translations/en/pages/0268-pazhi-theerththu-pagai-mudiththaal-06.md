@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "பழி தீர்த்துப் பகை முடித்தாள்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -24,7 +24,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 >
 > Without mercy,
 > the old Kosars of the village
-gouged out the eyes
+> gouged out the eyes
 > of her truthful father
 > for the wrong they said he had done.
 >
@@ -32,14 +32,14 @@ gouged out the eyes
 > she would not eat from a vessel,
 > would not wear clean clothing,
 > and would not abandon
-the form taken by her anger.
+> the form taken by her anger.
 >
 > She told Thithiyan,
 > possessor of a valour-rich army
 > and battle-trained good horses.
 >
 > When she saw him destroy
-the sweet lives of those men,
+> the sweet lives of those men,
 > Anni Minjili's anger changed.”
 
 <div align="center">*</div>

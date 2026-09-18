@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "கிலு கிலுப்பை வழங்கும் கிறுகிறுப்பு!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -40,8 +40,8 @@ with slender waists described as
 “nalgoor nusuppu,”
 had soft shoulders and backs
 partly covered
-by hair divided and braided
-into five moving arrangements.
+by hair divided
+into five swaying braids.
 
 Their children,
 there on the shore,

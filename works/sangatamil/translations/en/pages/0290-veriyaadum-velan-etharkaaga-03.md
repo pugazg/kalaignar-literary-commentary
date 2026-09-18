@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "வெறியாடும் வேலன் எதற்காக?"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -47,7 +47,7 @@ the mischief of a deity!
 
 Like the deep soil
 turned upward by the plough,
-the truth that the world-fire called love
+the truth that the world-ending fire called love
 is scorching you
 must one day come to light.
 

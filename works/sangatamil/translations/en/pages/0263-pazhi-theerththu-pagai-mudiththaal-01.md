@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "பழி தீர்த்துப் பகை முடித்தாள்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -54,8 +54,8 @@ of the south
 was one division called the Kosars,
 filled with courage.
 
-They had the skill
-to produce valour
+They were skilled
+in deeds of valour
 and were famed
 for purity of truthful speech.
 

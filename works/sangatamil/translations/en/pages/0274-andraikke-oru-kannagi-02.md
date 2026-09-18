@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "அன்றைக்கே ஒரு கண்ணகி!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -53,7 +53,7 @@ lay without value,
 its brightness dimmed
 as she wept thinking of the king.
 
-He restrained Pegan:
+He admonished Pegan:
 leave the courtesan's embrace,
 he said,
 and hurry to Kannagi's house.

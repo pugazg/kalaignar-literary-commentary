@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "'இனம்' காட்டும் இயற்கைக் காட்சி!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -36,7 +36,7 @@ the bee that mistook the naval fruit
 for one of its own kind
 would have reached the end of its day.
 
-“Our companion of our own kind
+“Our companion—one of our own—
 has escaped the crab's grip
 and returned!”
 

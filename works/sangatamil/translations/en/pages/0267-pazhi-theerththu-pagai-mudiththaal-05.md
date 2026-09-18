@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "பழி தீர்த்துப் பகை முடித்தாள்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -14,7 +14,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 
 “Until the lives
 of those who blinded
-my life-like father
+my father, dear as life,
 are gone,
 
 I shall not eat

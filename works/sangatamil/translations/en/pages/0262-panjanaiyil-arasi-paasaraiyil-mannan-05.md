@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "பஞ்சணையில் அரசி; பாசறையில் மன்னன்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -51,7 +51,7 @@ he placed his right arm
 upon the shoulder
 of a powerful swordsman.
 
-In the rain-dropped midnight,
+In the rain-soaked midnight,
 he went through every place
 where many great warriors
 lay wounded.

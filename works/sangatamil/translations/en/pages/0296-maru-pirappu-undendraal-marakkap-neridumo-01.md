@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "மறு பிறப்பு உண்டென்றால் மறக்க நேரிடுமோ?"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -58,7 +58,7 @@ As evening approaches,
 this illness called love only grows.
 
 There is no use
-in living even an atom of time
+in living even for an instant
 without him.
 
 Can a roof without walls
