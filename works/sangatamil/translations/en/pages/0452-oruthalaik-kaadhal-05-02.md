@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 5"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -16,7 +16,7 @@ and embraced Porkodi!
 
 “Whether to forget, or to give up life—we can think about that again.
 First, let us leave aside what is wrong and think only of what is good!
-You keep thinking, every moment, of Killi battling the army of the base,
+You keep thinking, every moment, of Killi battling the army of the ignoble foes,
 and pour tears enough to plough furrows down your cheeks!
 You tremble that your mother is stopping you;
 do not think she is breaking your heart!
