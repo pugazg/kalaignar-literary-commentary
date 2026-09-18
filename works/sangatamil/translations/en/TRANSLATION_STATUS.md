@@ -1,6 +1,6 @@
 # Sangatamil — Maintained English Translation Status
 
-**Status: ACTIVE — SOURCE-CHECK SC1–SC2 COMPLETE / PASS**
+**Status: ACTIVE — SOURCE-CHECK SC1–SC3 COMPLETE / PASS**
 
 Repository: `pugazg/kalaignar-literary-commentary`  
 Branch: `main`
@@ -30,15 +30,15 @@ English work does not alter or promote those Tamil statuses.
 |---|---|
 | Control-layer initialization | **COMPLETE / PASS** |
 | First-pass drafting | **497/497 — D1+D2+D3+D4+D5+D6+D7+D8+D9+D10+D11+D12+D13+D14 COMPLETE / CLOSED** |
-| Source-check | **74/497 reviewed — SC1+SC2 COMPLETE / PASS (73 source-checked + scan 8 source-limited)** |
+| Source-check | **111/497 reviewed — SC1+SC2+SC3 COMPLETE / PASS (110 source-checked + scan 8 source-limited)** |
 | Glossary reconciliation | **0/497** |
 | Editorial review | **0/497** |
 | Release-ready | **0/497** |
 
 Current English page inventory:
 
-- `draft` — **423**
-- `source-checked` — **73**
+- `draft` — **386**
+- `source-checked` — **110**
 - `editorial-reviewed` — **0**
 - `release-ready` — **0**
 - `source-limited` — **1** (scan 8)
@@ -183,6 +183,16 @@ Current English page inventory:
 - exact page-layer compare — **13 commits / exactly 37 English page files / 0 canonical Tamil page changes / 0 non-English-page changes**
 - durable report — `SOURCE_CHECK_SC2_REPORT.md`
 
+### SC3 — COMPLETE / PASS
+- scans **75–111**
+- reviewed — **37/37**
+- promoted to `source-checked` — **37**
+- source-fidelity repairs — **3 English page files**
+- page-layer base — `83172546fbba3f6757968581e29c4a341b8d10e7`
+- page-layer endpoint — `ee99c7581a17047ddc538a22cb731f662a7b879f`
+- exact page-layer compare — **13 commits / exactly 37 English page files / 0 canonical Tamil page changes / 0 non-English-page changes**
+- durable report — `SOURCE_CHECK_SC3_REPORT.md`
+
 ## Release interpretation
 
 English review/release status is relative to the maintained canonical Tamil archive.
@@ -195,7 +205,7 @@ Normal page-batched cadence: **37 physical scans**.
 
 ## Exact next activity
 
-**English Source-Check SC3 — scans 75–111.**
+**English Source-Check SC4 — scans 112–148.**
 
 Compare each maintained-English page with its canonical Tamil page paragraph-by-paragraph / block-by-block. Check omissions, additions, meaning drift, names, titles, quotations, verse blocks, page function, provenance and cross-page continuity.
 
