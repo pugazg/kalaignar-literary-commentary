@@ -17,7 +17,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 > an ambal-flower garland,
 > fine forearms bright with gold bangles cut by the file,
 > ornamented bamboo-like shoulders—
-> Aiyai's father is Maaven Thithan,
+> Aiyai's father is Maaven Tittan,
 > who gives bounty like rain...”
 
 (Akananuru: poem 6  
@@ -26,7 +26,7 @@ Poet: Paranar)
 4.
 > “Even if he gives fine, renowned ornaments
 > like Uranthai, fenced by white-paddy fields,
-> of greatly generous Thithan,
+> of greatly generous Tittan,
 > the noble one will not accept them...”
 
 (Purananuru: poem 352  
@@ -42,7 +42,7 @@ Poet: Paranar)
 > on the battlefield!”
 
 (Purananuru: poem 86  
-Poet: Kavarpendu)
+Poet: Kaavarp Penn)
 
 ## Explanation of meaning:
 

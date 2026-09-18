@@ -16,9 +16,9 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 
 ## 9
 
-In Thithan's athani hall at Uraiyur,
+In Tittan's athani hall at Uraiyur,
 commanders stood with swords drawn from their sheaths.
-Viraivenman Veliyan Thithan
+Veeraivenmaan Veliyan Tittan
 was laying out how the warriors should be arrayed,
 and insisting that they must not fail
 to teach the furious Katti and Paanan a fitting lesson.
@@ -33,7 +33,7 @@ and that the teeth of Paanan and Katti be knocked out.
 All the while he stroked the sharp edge of a sword with his fingers
 and set out the methods of war!
 
-Then the minister bowed respectfully before King Thithan:
+Then the minister bowed respectfully before King Tittan:
 “My king,
 do not underestimate the strength of the enemy.
 Paanan, skilled in close combat,

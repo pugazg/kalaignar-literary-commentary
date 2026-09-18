@@ -12,7 +12,7 @@ source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
 ---
 
-Even after Thithan had answered in words like leaping flame,
+Even after Tittan had answered in words like leaping flame,
 the chief minister in the athani hall
 did not think the matter could simply be left there.
 He told the king:
