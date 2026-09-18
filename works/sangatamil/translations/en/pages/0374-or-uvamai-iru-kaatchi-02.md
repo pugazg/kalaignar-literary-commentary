@@ -14,9 +14,9 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 
 leaving the post, it behaves like a black boulder rolling on, blindly destroying everything in its path!
 
-Let us see another scene that the great poet Mangudi Maruthanar presents here as a simile for the rutting elephant's action!
+Let us see another scene that the great poet Mangudi Marudhanar presents here as a simile for the rutting elephant's action!
 
-In the sea where a large kind of fish called *panai* and many kinds of conch move and graze, a violent cyclone suddenly strikes a ship: it snaps the strong rope, tears and breaks the mast at its base, wrenches away even the heavy anchor-stone, and wreaks devastation with its terrible breath. So too, the elephant's rut makes it tremble and leap, defying its mahout! As the sounds of conches resound before and behind, the storm itself seems to roar like an elephant whirling in swelling rut! What splendour there is in the imagination that compares one simile through two scenes; what greatness in the Tamil mastery of the renowned Mangudi Maruthanar!
+In the sea where a large kind of fish called *panai* and many kinds of conch move and graze, a violent cyclone suddenly strikes a ship: it snaps the strong rope, tears and breaks the mast at its base, wrenches away even the heavy anchor-stone, and wreaks devastation with its terrible breath. So too, the elephant's rut makes it tremble and leap, defying its mahout! As the sounds of conches resound before and behind, the storm itself seems to roar like an elephant whirling in swelling rut! What splendour there is in the imagination that compares one simile through two scenes; what greatness in the Tamil mastery of the renowned Mangudi Marudhanar!
 
 *
 
@@ -34,6 +34,6 @@ In the sea where a large kind of fish called *panai* and many kinds of conch mov
 
 (Pattuppattu — Maduraikkanchi)  
 (lines 375 to 383)  
-(Poet: Mangudi Maruthanar)
+(Poet: Mangudi Marudhanar)
 
 *

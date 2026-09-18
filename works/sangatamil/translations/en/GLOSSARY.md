@@ -85,6 +85,12 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | பரணி | parani | Retain the martial literary-genre term when the source uses it as a named form. |
 | குடவோலை | kudavolai | Retain the local-selection / ballot-pot term when the source discusses the historical method itself. |
 | முலைவிலை / முலை விலை / பரிசப்பணம் | bride-price | Use **bride-price** for the source's marriage-payment term; retain *mulai vilai* only where the source wording itself is being discussed. |
+| வெறியாட்டு | veriyattu / possession-rite | Retain *veriyattu* when the ritual name itself is foregrounded; explanatory prose may use **possession-rite**. |
+| நொச்சி | nocchi | Retain the source plant/garland name in transliteration. |
+| தொய்யில் | thoyyil / sandal-paste design | Retain *thoyyil* when the source names the body-decoration practice; explanatory blocks may identify it as a sandal-paste design. |
+| பஞ்சாய்க் கோரை | panchai reed / sedge grass | Retain *panchai* where the plant name itself is foregrounded; explanatory blocks may identify it as a sedge grass. |
+| பசலை | love-pallor | Default maintained-English rendering for the love-separation pallor/illness. |
+| பண் | pann / musical mode | Retain *pann* when the source names a Tamil musical mode; preserve a specific mode name such as Kanchi where supplied. |
 
 ## Classical landscape terms
 
@@ -132,7 +138,7 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | பாண்டியன் பெருவழுதி | Pandiyan Peruvazhuthi | Retain this provenance form. |
 | உறையூர் முதுக்கண்ணன் சாத்தனார் | Uraiyur Mudhukannan Sathanar | Retain this poet-name form. |
 | நெடுஞ்செழியன் / பாண்டியன் நெடுஞ்செழியன் / ஆரியப்படை கடந்த நெடுஞ்செழியப் பாண்டியன் | Nedunchezhiyan / Pandiyan Nedunchezhiyan / Pandya Nedunchezhiyan who crossed the Aryan army | Preserve the source's short, dynastic and epithet-bearing forms by context. |
-| மாங்குடி மருதனார் / மாங்குடிக் கிழார் மருதனார் | Mangudi Marudhanar / Mangudi Kizhar Marudhanar | Preserve source-supported contextual expansion; do not mechanically force one form everywhere. |
+| மாங்குடி மருதன் / மாங்குடி மருதனார் / மாங்குடிக் கிழார் மருதனார் | Mangudi Marudhan / Mangudi Marudhanar / Mangudi Kizhar Marudhanar | Preserve source-supported short, honorific and contextual forms; do not mechanically force one form everywhere. |
 | அள்ளூர் நன்முல்லையார் | Allur Nanmullaiyar | Retain this poet-name form. |
 | ஆலத்தூர் கிழார் | Alathur Kizhar | Retain this poet-name form. |
 | கிள்ளிவளவன் | Killivalavan | Retain this Chola king-name form. |
@@ -219,6 +225,14 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | நீடூர் | Needur | Retain this place-name form. |
 | பிட்டன் | Pittan | Retain this commander-name form. |
 | ஓரேர் உழவர் / ஓரேருழவர் | Orer Uzhavar / Oreruzhavar | Preserve the source's spaced descriptive form and fused poet-name form by context. |
+| காமக்காணியார் / வெறிபாடிய காமக்காணியார் | Kamakkanniyar / Veripaadiya Kamakkanniyar | Preserve the source's short poet-name and epithet-bearing provenance form. |
+| வணங்காமுடி | Vanangamudi | Retain this warrior-name form. |
+| தூயன் | Thuyan | Retain this companion-name form. |
+| வெள்ளிவீதியார் | Velliveethiyar | Retain this woman-poet name form. |
+| பாண்டியன் அறிவுடை நம்பி | Pandiyan Arivudai Nambi | Retain this Pandya poet/ruler-name form in provenance. |
+| கோழிக்கொற்றன் | Kozhikkotran | Retain this poet-name form. |
+| நரிவெரூஉத் தலையார் | Nariverooth Thalaiyar | Retain this poet-name form. |
+| பதுமனார் | Padumanar | Retain this poet-name form. |
 
 ## Recurring maintained-English titles
 

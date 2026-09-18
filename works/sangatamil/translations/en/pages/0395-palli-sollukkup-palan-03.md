@@ -38,7 +38,7 @@ desire will be born in him; he will twirl his young moustache and say,
 *
 
 (Kuruntokai: poem 16  
-Poet: Paalaipaadiya Perunkadungo)
+Poet: Perungadungko who sang the Paalai)
 
 ## Explanation of meaning:
 
