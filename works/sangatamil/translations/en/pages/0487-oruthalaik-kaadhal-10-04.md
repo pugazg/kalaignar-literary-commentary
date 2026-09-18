@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 10"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -21,7 +21,7 @@ Two poets, Mamulanar and Kalladanar,
 met King Katti and his friend Paanan and told them:
 
 ‘Even on a battle-front that takes the lives of enemies,
-there are rules by which culture and honour are preserved!
+there are rules by which culture is preserved!
 You went to seize the princess of Uraiyur
 and fled when you heard that Narkilli had returned.
 Once you understood that the enemy's strength had grown,

@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 10"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -52,7 +52,7 @@ and went to sleep in separate rooms.
 *
 
 Having vowed that at dawn
-he would lay siege to the cities of Paanan and Katti
+he would lay siege to Paanan and Katti's city
 and recover mother Kavarpendu,
 the Chola Narkilli tossed sleeplessly at midnight.
 Then he heard a knock at the door.
