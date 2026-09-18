@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "யாதும் ஊரே; யாவரும் கேளிர்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 source_tamil_visual_fidelity: "verified"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -54,9 +54,9 @@ and of those who enter the battlefield—
 <div align="right">of their love too.</div>
 
 Since they speak of these,  
-I shall make my own path
+I shall make mine
 
-<div align="right">a separate path,</div>
+<div align="right">a path of its own,</div>
 
 and begin to write:  
 Every town is our town;  
