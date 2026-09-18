@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "பல்லி சொல்லுக்குப் பலன்!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -35,7 +35,7 @@ An ocean of joy is waiting for you!
 
 Travelling on and on, striving to seek wealth,
 walking through the cruel, parched wilderness,
-like a spirit that has left its nest—he who
+like a spirit that has left the body—he who
 left you to waste away will come even now!
 
 (The lizard's call)
