@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed **2026-09-18**: Kuraloviyam remains closed; Sangath Tamil Gates **A–I are COMPLETE / PASS** and the Tamil archival pipeline is **CLOSED**; the separately scoped **maintained English project translation is ACTIVE** with first-pass Drafts D1–D14 scans **1–497 COMPLETE / CLOSED**, Source-Check SC1–SC14 scans **1–497 COMPLETE / CLOSED**, Glossary Reconciliation GR1–GR14 scans **1–497 COMPLETE / CLOSED**, Editorial Review ER1 scans **1–37 COMPLETE / PASS**, ER2 scans **38–74 COMPLETE / PASS**, ER3 scans **75–111 COMPLETE / PASS**, and ER4 scans **112–148 next**.
+Last refreshed **2026-09-18**: Kuraloviyam remains closed; Sangath Tamil Gates **A–I are COMPLETE / PASS** and the Tamil archival pipeline is **CLOSED**; the separately scoped **maintained English project translation is ACTIVE** with first-pass Drafts D1–D14 scans **1–497 COMPLETE / CLOSED**, Source-Check SC1–SC14 scans **1–497 COMPLETE / CLOSED**, Glossary Reconciliation GR1–GR14 scans **1–497 COMPLETE / CLOSED**, Editorial Review ER1 scans **1–37 COMPLETE / PASS**, ER2 scans **38–74 COMPLETE / PASS**, ER3 scans **75–111 COMPLETE / PASS**, ER4 scans **112–148 COMPLETE / PASS**, and ER5 scans **149–185 next**.
 
 ## Repository
 
@@ -63,7 +63,7 @@ The mixed page-level statuses are intentional. Gate C2 resolved all recorded Gat
 
 **Exact Tamil archival activity: none — Sangath Tamil archival pipeline closed.**
 
-**Exact downstream activity: maintained English Editorial Review ER4 — scans 112–148.** ER1 scans **1–37**, ER2 scans **38–74**, and ER3 scans **75–111 are COMPLETE / PASS**; maintained-English state is **0 draft + 386 source-checked + 110 editorial-reviewed + 1 source-limited (scan 8)**.
+**Exact downstream activity: maintained English Editorial Review ER5 — scans 149–185.** ER1 scans **1–37**, ER2 scans **38–74**, ER3 scans **75–111**, and ER4 scans **112–148 are COMPLETE / PASS**; maintained-English state is **0 draft + 349 source-checked + 147 editorial-reviewed + 1 source-limited (scan 8)**.
 
 English controls: `works/sangatamil/translations/en/README.md`, `TRANSLATION_GUIDE.md`, `TRANSLATION_STATUS.md`, and `GLOSSARY.md`.
 
@@ -221,13 +221,13 @@ Durable B20 closure: final scans 476–497 completed with 7 page records changed
 The Tamil archival workflow is closed. Continue only the separately scoped maintained-English layer.
 
 1. fetch live `main`;
-2. read `works/sangatamil/translations/en/TRANSLATION_GUIDE.md`, `GLOSSARY.md`, `TRANSLATION_STATUS.md`, `SOURCE_CHECK_SC1_REPORT.md` through `SOURCE_CHECK_SC14_REPORT.md`, `GLOSSARY_RECONCILIATION_GR1_REPORT.md` through `GLOSSARY_RECONCILIATION_GR14_REPORT.md`, `EDITORIAL_REVIEW_ER1_REPORT.md`, `EDITORIAL_REVIEW_ER2_REPORT.md`, and `EDITORIAL_REVIEW_ER3_REPORT.md`;
-3. confirm first-pass drafting, source-check and glossary reconciliation are **COMPLETE / CLOSED 497/497**, ER1 scans **1–37**, ER2 scans **38–74**, and ER3 scans **75–111 are COMPLETE / PASS**;
-4. confirm ER3 exact page-layer compare is **1 commit / exactly 37 modified English page files / 0 canonical Tamil changes / 37 status promotions**, with **5 source-faithful wording refinements**;
-5. process **English Editorial Review ER4 — scans 112–148**; improve readability and consistency only where source meaning remains intact, and consult canonical Tamil whenever an edit could alter meaning;
+2. read `works/sangatamil/translations/en/TRANSLATION_GUIDE.md`, `GLOSSARY.md`, `TRANSLATION_STATUS.md`, `SOURCE_CHECK_SC1_REPORT.md` through `SOURCE_CHECK_SC14_REPORT.md`, `GLOSSARY_RECONCILIATION_GR1_REPORT.md` through `GLOSSARY_RECONCILIATION_GR14_REPORT.md`, `EDITORIAL_REVIEW_ER1_REPORT.md`, `EDITORIAL_REVIEW_ER2_REPORT.md`, `EDITORIAL_REVIEW_ER3_REPORT.md`, and `EDITORIAL_REVIEW_ER4_REPORT.md`;
+3. confirm first-pass drafting, source-check and glossary reconciliation are **COMPLETE / CLOSED 497/497**, ER1 scans **1–37**, ER2 scans **38–74**, ER3 scans **75–111**, and ER4 scans **112–148 are COMPLETE / PASS**;
+4. confirm ER4 exact page-layer compare is **1 commit / exactly 37 modified English page files / 0 canonical Tamil changes / 37 status promotions**, with **6 source-faithful wording refinements**;
+5. process **English Editorial Review ER5 — scans 149–185**; improve readability and consistency only where source meaning remains intact, and consult canonical Tamil whenever an edit could alter meaning;
 6. check omissions, additions, meaning drift, names, titles, quotations, verse blocks, source labels, page function, provenance and cross-page continuity;
-7. promote passing `source-checked` pages in ER4 to `editorial-reviewed`; scan 8 remains permanently `source-limited`;
-8. change 0 canonical Tamil files, create the ER4 closure report, synchronize maintained-English controls, and audit the exact changed-file set;
+7. promote passing `source-checked` pages in ER5 to `editorial-reviewed`; scan 8 remains permanently `source-limited`;
+8. change 0 canonical Tamil files, create the ER5 closure report, synchronize maintained-English controls, and audit the exact changed-file set;
 9. change **0 canonical Tamil page files**.
 
 Whole-volume word-for-word Tamil scan verification remains **NOT CLAIMED**. English workflow progress must not be interpreted as a Tamil status promotion.
