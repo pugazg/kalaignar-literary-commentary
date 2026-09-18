@@ -23,9 +23,9 @@ A young man from a wealthy merchant household was about to leave the parrot of h
 
 Her two eyelids had swollen from weeping. Taking them as a barrier before him, he faltered, hesitated and grew faint; he gave up leaving the woman in order to seek wealth.
 
-Maruthan Ilanaganar, that lion among poets who rules Tamil, gives us as a golden record of the homeland's ancient history the scene in which this merchant's son thinks within himself about the long route he had been about to cross.
+Marudhan Ilanaganar, that lion among poets who rules Tamil, gives us as a golden record of the homeland's ancient history the scene in which this merchant's son thinks within himself about the long route he had been about to cross.
 
-To leave the maiden and travel in search of wealth, he would have had to pass through a vast *palai*. The thunder-spitting sky had given not even a drop of rain there. People had migrated, running in groups merely to fill their bellies. On the boiling hot land, on a battlefield bubbling with valour, two armies had clashed and the bodies of warriors lay scattered in heaps. Vultures and hawks pulled aside their waistcloths, pecked into the bellies until their desire was satisfied, drew out the intestines and made them food for their own guts.
+To leave the maiden and travel in search of wealth, he would have had to pass through a vast *paalai*. The thunder-spitting sky had given not even a drop of rain there. People had migrated, running in groups merely to fill their bellies. On the boiling hot land, on a battlefield bubbling with valour, two armies had clashed and the bodies of warriors lay scattered in heaps. Vultures and hawks pulled aside their waistcloths, pecked into the bellies until their desire was satisfied, drew out the intestines and made them food for their own guts.
 
 For those intestines being drawn out from the fallen warriors, the poet finds a comparison—
 

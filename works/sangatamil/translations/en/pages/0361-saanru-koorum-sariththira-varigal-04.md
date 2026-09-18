@@ -16,7 +16,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 
 The people of the village would gather together in the public assembly. Each would write on a palm leaf whom they wanted as members of the council and cast the vote into a pot bound with cord. The sealed pots would be kept very safely by the presiding officer. Then an official called the keeper of records would come and remove the seal; after that, palm leaf by palm leaf would be drawn from the pot, counted before the people of the village, and the names of those elected as members announced. That council, it seems, possessed many rights for safeguarding the welfare of the village!
 
-It was this honoured custom that Maruthan Ilanaganar fashioned in Sangam literature so that later generations of humankind might recognize it as lines of history bearing witness!
+It was this honoured custom that Marudhan Ilanaganar fashioned in Sangam literature so that later generations of humankind might recognize it as lines of history bearing witness!
 
 The eagle and the hawk pulling out the intestines from the body of a bull fallen on the battlefield—the poet makes it appear before our eyes like a hand reaching into the pot and drawing out the palm-leaf ballots cast for a village-welfare council carrying out its duty!
 

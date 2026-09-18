@@ -12,7 +12,7 @@ source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
 ---
 
-Another piece of news: parts of the lands called *kurinji* and *mullai* change into *palai* when there is no rain!
+Another piece of news: parts of the lands called *kurinji* and *mullai* change into *paalai* when there is no rain!
 
 Another: even if one must die, yielding one's body as prey to birds, the honour of confronting the enemy is the glory of the warrior clan!
 
@@ -44,6 +44,6 @@ With so much news, can there be any measure to the delight that wells up from th
 *
 
 (*Akananuru*: poem 77  
-Poet: Maruthan Ilanaganar)
+Poet: Marudhan Ilanaganar)
 
 <!-- The source-supplied explanation of meaning follows on scan 363. -->

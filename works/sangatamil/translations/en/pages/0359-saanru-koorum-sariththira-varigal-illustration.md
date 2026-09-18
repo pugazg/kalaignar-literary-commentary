@@ -12,7 +12,7 @@ source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
 ---
 
-—functioned well through the *kudavolai* method and performed good public work. Poet Maruthan Ilanaganar unfolds the dignity of people's rule, and we can savour its beauty in a poem of the *akam* tradition.
+—functioned well through the *kudavolai* method and performed good public work. Poet Marudhan Ilanaganar unfolds the dignity of people's rule, and we can savour its beauty in a poem of the *akam* tradition.
 
 The sorrow of separation;
 a young woman's lament;
