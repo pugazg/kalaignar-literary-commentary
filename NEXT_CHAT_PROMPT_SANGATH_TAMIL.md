@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / MAINTAINED ENGLISH EDITORIAL REVIEW ER1
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / MAINTAINED ENGLISH EDITORIAL REVIEW ER2
 
 Continue only from live `main` in `pugazg/kalaignar-literary-commentary`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -49,7 +49,8 @@ Read first:
 33. `works/sangatamil/translations/en/GLOSSARY_RECONCILIATION_GR12_REPORT.md`
 34. `works/sangatamil/translations/en/GLOSSARY_RECONCILIATION_GR13_REPORT.md`
 35. `works/sangatamil/translations/en/GLOSSARY_RECONCILIATION_GR14_REPORT.md`
-36. `works/sangatamil/README.md`
+36. `works/sangatamil/translations/en/EDITORIAL_REVIEW_ER1_REPORT.md`
+37. `works/sangatamil/README.md`
 20. `works/sangatamil/GATE_I_FINAL_CLOSURE.md`
 21. `works/sangatamil/indexes/section-register.md`
 22. `works/sangatamil/indexes/source-citation-register.md`
@@ -265,6 +266,12 @@ Cumulative English state:
 - GR14 exact compare — **3 commits / 10 English page files + `GLOSSARY.md` / 0 canonical Tamil changes / 0 status changes**
 - GR14 page terminology repairs — **10 English page files** (scans 483, 484, 486, 487, 488, 489, 490, 491, 494, 495)
 - glossary reconciliation — **497/497 COMPLETE / CLOSED**
+- ER1 scans **1–37 — COMPLETE / PASS**
+- ER1 page-layer base — `68121fdc8ea1e3d359ae136a4fa9e07d928ead5a`
+- ER1 endpoint — `d0b7deba2e4291bba4647376aec995e19a21412c`
+- ER1 exact compare — **6 commits / exactly 36 modified English page files / 0 canonical Tamil changes / 36 status promotions**
+- ER1 source-faithful readability refinements — **11 English page files** (scans 9, 10, 12, 14, 21, 23, 28, 31, 33, 34, 35)
+- editorial review — **37/497 reviewed**
 - canonical Tamil page changes from English drafting — **0**
 
 ## Translation identity
@@ -289,11 +296,11 @@ Normal glossary-reconciliation cadence: **37 physical scans**.
 
 ## Exact next activity
 
-**Editorial Review ER1 — scans 1–37.**
+**Editorial Review ER2 — scans 38–74.**
 
 Requirements:
 
-- begin at scan **1** and editorial-review through scan **37**;
+- begin at scan **38** and editorial-review through scan **74**;
 - compare every English page with its matching canonical Tamil page paragraph-by-paragraph / block-by-block;
 - check for omissions, additions, meaning drift, names, titles, dialogue, quoted verse, source labels, provenance, visual/page function and cross-page continuity;
 - preserve source order and meaningful repetition;
@@ -302,8 +309,8 @@ Requirements:
 - use this gate for source fidelity, not unrelated stylistic polishing;
 - do **not** change English page statuses during glossary reconciliation; passing pages remain `source-checked`, and scan 8 remains `source-limited`;
 - improve readability, recurring phrasing, names, terminology, quoted verse presentation and source-label consistency only where source meaning remains intact; consult canonical Tamil whenever an edit could alter meaning;
-- promote passing `source-checked` pages in scans **1–37** to `editorial-reviewed`; preserve scan **8** as `source-limited`; create the ER1 closure report and synchronize maintained-English controls;
+- promote passing `source-checked` pages in scans **38–74** to `editorial-reviewed`; preserve scan **8** as `source-limited`; create the ER2 closure report and synchronize maintained-English controls;
 - audit the exact changed-file set;
 - change **0 canonical Tamil page files**.
 
-GR1–GR14 are closed and glossary reconciliation is complete 497/497. Do not import published translations, web wording or external commentary during ER1. Editorial review must remain anchored to the maintained canonical Tamil record.
+GR1–GR14 are closed and glossary reconciliation is complete 497/497. ER1 scans 1–37 are closed. Do not import published translations, web wording or external commentary during ER2. Editorial review must remain anchored to the maintained canonical Tamil record.
