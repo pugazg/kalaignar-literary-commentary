@@ -31,9 +31,9 @@ I too must follow that poet's manner
 and sing Aiyai's beauty until her face blushes with modesty!”
 said King Katti.
 
-Hearing him, Kavarpendu covered her ears!
+Hearing him, Kaavarp Penn covered her ears!
 
-“Enemies! Even if you kill me in this camp,
+“Enemies! Even if you kill me in this war-camp,
 it does not matter.
 Know that I shall not allow the life of green-plumed Aiyai
 to be ruined!” she said.

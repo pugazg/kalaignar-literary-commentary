@@ -13,7 +13,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 ---
 
 “—would he agree to come if called? He would not!
-Minister, that effort is useless!” said Thithan.
+Minister, that effort is useless!” said Tittan.
 
 “Killi did not wait for your invitation, father!
 To keep Uraiyur's greatness from being diminished,
@@ -27,7 +27,7 @@ With the red-fire face of the sun
 then descending into the evening sky,
 Narkilli entered the royal assembly!
 
-“My son!” cried Thithan,
+“My son!” cried Tittan,
 running forward and embracing him to his chest.
 He kissed the great warrior's shoulders and crown of the head!
 When Killi knelt and bowed at his father's feet,
@@ -45,7 +45,7 @@ why are warriors needed?
 Could we not perform a sacrifice and drive him away?”
 
 Killi winked playfully as he asked.
-Thithan, his head lowered in embarrassment,
+Tittan, his head lowered in embarrassment,
 embraced him and said:
 “Let what happened remain what happened, my son!
 Let what happens from now on be good!”
@@ -55,5 +55,5 @@ Then, turning to the warriors in the hall, he ordered:
 Let the great drums of our athani hall thunder
 that the enemy, shocked and afraid, will flee!”
 
-As the command of Thithan Viraivenman rang out,
+As the command of Tittan Veeraivenmaan rang out,
 the leather instruments of the athani hall resounded!
