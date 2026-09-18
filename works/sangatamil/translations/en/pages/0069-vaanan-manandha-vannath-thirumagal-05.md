@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "வாணன் மணந்த வண்ணத் திருமகள்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -42,10 +42,10 @@ and then they put out the oil lamp too.
 
 <div align="center">*</div>
 
-> * “Ghee and smoke have stained my garment;  
-> my shoulder too is marked with black.  
-> Sweet milk spurts from my soft, blemished breasts  
-> after I embrace and feed my child, leaving the scent of nursing.  
+> * “Ghee, smoke and kohl have stained my garment;  
+> my shoulders too, as sweet milk spurts  
+> from my soft, blemished breasts when I embrace my child,  
+> carry the scent of nursing.  
 > We are not like the bright-bangled women  
 > appearing in the courtesans' street, fit for the man who comes there by chariot.  
 > Therefore, though you can raise sweet music  
@@ -69,5 +69,4 @@ and then they put out the oil lamp too.
 **Pilittra** = to well up and spurt. **Pullip puniru naarum** = the smell of milk caused by embracing and feeding the child.  
 **Vaalizhai** = shining ornament.
 
-<!-- First-pass translation uses the canonical quotation and printed gloss; source-check will revisit compressed classical phrasing. -->
 <!-- Source scan page: 69; printed page: 54 -->

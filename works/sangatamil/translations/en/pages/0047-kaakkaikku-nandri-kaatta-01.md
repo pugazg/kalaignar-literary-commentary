@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "காக்கைக்கு நன்றி காட்ட..."
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 source_tamil_visual_fidelity: "verified"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -35,7 +35,7 @@ to taste your coral lips,”
 <div align="right">said</div>
 
 the friend.  
-The heroine's grief moved away a little!
+The heroine's grief eased a little!
 
 When the returning lover embraced her body,  
 the two drank sweetness like sugarcane!

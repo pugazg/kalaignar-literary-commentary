@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "மாவீரன் கண்ட மலர்கள்"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -55,10 +55,10 @@ he orders the charioteer to drive the chariot
 with the speed of lightning that flashes before thunder!
 
 As that warrior races home,  
-he rejoices at the excellence of his town,
+he rejoices in the splendour of his town,
 
-where the woman dear as life  
-dwells in his heart.
+where the woman dear as life—  
+the one who dwells in his heart—lives.
 
 His thought takes wing  
 toward the many-coloured flowers

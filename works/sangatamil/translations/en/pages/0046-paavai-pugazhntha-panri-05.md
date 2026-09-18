@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "பாவை புகழ்ந்த பன்றி"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 source_tamil_visual_fidelity: "verified"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -61,5 +61,4 @@ Poet: Kapilar)
 
 <div align="center">*</div>
 
-<!-- First-pass translation uses the canonical Tamil quotation and its printed explanation; source-check will revisit compressed classical syntax. -->
 <!-- Source scan page: 46; printed page: 31 -->
