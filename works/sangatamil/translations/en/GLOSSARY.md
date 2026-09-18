@@ -87,6 +87,16 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | கூடலூர்ப் பல்கண்ணனார் | Koodaloor Palkannanar | Retain this poet-name form. |
 | ஆலங்குடி வங்கனார் | Alangudi Vanganar | Retain this poet-name form. |
 
+| பிசிராந்தை / பிசிராந்தையார் | Pisiranthai / Pisiranthaiyar | Preserve the source's honorific/contextual variation; do not mechanically force `-yar` into every narrative occurrence. |
+| கோப்பெருஞ்சோழன் | Kopperuncholan | Retain this Chola king-name form. |
+| கிள்ளி / பெருங்கோக்கிள்ளி | Killi / great Killi | Preserve the source epithet where it is used; do not silently replace it with another royal name. |
+| கண்ணகனார் | Kannaganar | Retain this poet-name form. |
+| கானப்பேர் / கானப்பேர் எயில் | Kaanapper / Kaanapper Eyil | Preserve the place/fort distinction shown by the source context. |
+| உக்கிரப்பெருவழுதி / உக்கிரப் பெருவழுதி | Ukkirap Peruvazhuthi | Retain this Pandya king-name form. |
+| ஐயூர் மூலங்கிழார் | Aiyur Moolankizhar | Retain this poet-name form. |
+| பரணர் | Paranar | Retain this poet-name form. |
+| பொன்முடியார் | Ponmudiyar | Retain this poet-name form. |
+
 ## Recurring maintained-English titles
 
 | Tamil | Default English | Editorial note |
