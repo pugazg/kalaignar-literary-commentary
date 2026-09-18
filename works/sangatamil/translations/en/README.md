@@ -69,7 +69,7 @@ Translate only the maintained Tamil archive. Preserve the work's own order, quot
 - current English state — **0 `draft` + 496 `source-checked` + 1 `source-limited` (scan 8)**
 - not yet created — **0**
 - source-check — **497/497 reviewed — SC1+SC2+SC3+SC4+SC5+SC6+SC7+SC8+SC9+SC10+SC11+SC12+SC13+SC14 COMPLETE / CLOSED**
-- glossary reconciliation — **444/497 — GR1+GR2+GR3+GR4+GR5+GR6+GR7+GR8+GR9+GR10+GR11+GR12 COMPLETE / PASS**
+- glossary reconciliation — **481/497 — GR1+GR2+GR3+GR4+GR5+GR6+GR7+GR8+GR9+GR10+GR11+GR12+GR13 COMPLETE / PASS**
 - editorial review — **0/497**
 - release-ready — **0/497**
 - blocked — **0**
@@ -113,5 +113,6 @@ Translate only the maintained Tamil archive. Preserve the work's own order, quot
 - durable GR10 report — `GLOSSARY_RECONCILIATION_GR10_REPORT.md`
 - durable GR11 report — `GLOSSARY_RECONCILIATION_GR11_REPORT.md`
 - durable GR12 report — `GLOSSARY_RECONCILIATION_GR12_REPORT.md`
+- durable GR13 report — `GLOSSARY_RECONCILIATION_GR13_REPORT.md`
 
-Exact next activity: **English Glossary Reconciliation GR13 — scans 445–481**. Use `GLOSSARY.md` as a context-aware control; reconcile only recurring terminology evidenced in Sangatamil, preserve English page statuses, keep scan 8 `source-limited`, and change **0 canonical Tamil page files**.
+Exact next activity: **English Glossary Reconciliation GR14 — scans 482–497 — final 16-page remainder**. Use `GLOSSARY.md` as a context-aware control; reconcile only recurring terminology evidenced in Sangatamil, preserve English page statuses, keep scan 8 `source-limited`, and change **0 canonical Tamil page files**.
