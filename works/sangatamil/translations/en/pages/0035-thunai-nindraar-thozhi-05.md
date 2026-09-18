@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "துணை நின்றாள் தோழி!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -37,7 +37,7 @@ Before they could enter the pavilion
 where even moonlight could not enter,
 
 a voice cried, “Stop!”  
-Alas, it interrupted them without knowing their moment!
+Poor thing—it stopped them without knowing their moment!
 
 As a hen protects its chick  
 from a swooping hawk,
