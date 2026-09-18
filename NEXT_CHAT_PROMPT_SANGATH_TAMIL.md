@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / MAINTAINED ENGLISH GLOSSARY RECONCILIATION GR14
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / MAINTAINED ENGLISH EDITORIAL REVIEW ER1
 
 Continue only from live `main` in `pugazg/kalaignar-literary-commentary`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -48,7 +48,8 @@ Read first:
 32. `works/sangatamil/translations/en/GLOSSARY_RECONCILIATION_GR11_REPORT.md`
 33. `works/sangatamil/translations/en/GLOSSARY_RECONCILIATION_GR12_REPORT.md`
 34. `works/sangatamil/translations/en/GLOSSARY_RECONCILIATION_GR13_REPORT.md`
-35. `works/sangatamil/README.md`
+35. `works/sangatamil/translations/en/GLOSSARY_RECONCILIATION_GR14_REPORT.md`
+36. `works/sangatamil/README.md`
 20. `works/sangatamil/GATE_I_FINAL_CLOSURE.md`
 21. `works/sangatamil/indexes/section-register.md`
 22. `works/sangatamil/indexes/source-citation-register.md`
@@ -258,7 +259,12 @@ Cumulative English state:
 - GR13 endpoint — `f7ab95561fa69f2a5ebab8b87711e72b3eb61b92`
 - GR13 exact compare — **6 commits / 19 English page files + `GLOSSARY.md` / 0 canonical Tamil changes / 0 status changes**
 - GR13 page terminology repairs — **19 English page files** (scans 445, 448, 449, 450, 456, 459, 460, 461, 469, 470, 472, 473, 474, 475, 476, 478, 479, 480, 481)
-- glossary reconciliation — **481/497 reviewed**
+- GR14 scans **482–497 — COMPLETE / PASS — FINAL REMAINDER**
+- GR14 page-layer/control base — `b5ee6ffa0c070a45ad52382c1954f8e3e24964f4`
+- GR14 endpoint — `302634f7c91bdb1e0e05427e9297b959ba84e388`
+- GR14 exact compare — **3 commits / 10 English page files + `GLOSSARY.md` / 0 canonical Tamil changes / 0 status changes**
+- GR14 page terminology repairs — **10 English page files** (scans 483, 484, 486, 487, 488, 489, 490, 491, 494, 495)
+- glossary reconciliation — **497/497 COMPLETE / CLOSED**
 - canonical Tamil page changes from English drafting — **0**
 
 ## Translation identity
@@ -283,11 +289,11 @@ Normal glossary-reconciliation cadence: **37 physical scans**.
 
 ## Exact next activity
 
-**Glossary Reconciliation GR14 — scans 482–497 — final 16-page remainder.**
+**Editorial Review ER1 — scans 1–37.**
 
 Requirements:
 
-- begin at scan **482** and reconcile terminology through scan **497**;
+- begin at scan **1** and editorial-review through scan **37**;
 - compare every English page with its matching canonical Tamil page paragraph-by-paragraph / block-by-block;
 - check for omissions, additions, meaning drift, names, titles, dialogue, quoted verse, source labels, provenance, visual/page function and cross-page continuity;
 - preserve source order and meaningful repetition;
@@ -295,9 +301,9 @@ Requirements:
 - do not silently repair canonical Tamil wording during English review;
 - use this gate for source fidelity, not unrelated stylistic polishing;
 - do **not** change English page statuses during glossary reconciliation; passing pages remain `source-checked`, and scan 8 remains `source-limited`;
-- reconcile recurring names, Sangam work titles, literary terms, provenance labels and repeated English renderings using only terminology actually evidenced in Sangatamil; update `GLOSSARY.md` only when the batch supports the decision;
-- after scans **482–497** are reconciled, create the GR14 closure report, synchronize maintained-English controls, and close glossary reconciliation at **497/497** if the exact audit passes;
+- improve readability, recurring phrasing, names, terminology, quoted verse presentation and source-label consistency only where source meaning remains intact; consult canonical Tamil whenever an edit could alter meaning;
+- promote passing `source-checked` pages in scans **1–37** to `editorial-reviewed`; preserve scan **8** as `source-limited`; create the ER1 closure report and synchronize maintained-English controls;
 - audit the exact changed-file set;
 - change **0 canonical Tamil page files**.
 
-GR1–GR13 are closed. Do not import terminology from published translations, web sources or remembered conventional renderings during GR14.
+GR1–GR14 are closed and glossary reconciliation is complete 497/497. Do not import published translations, web wording or external commentary during ER1. Editorial review must remain anchored to the maintained canonical Tamil record.
