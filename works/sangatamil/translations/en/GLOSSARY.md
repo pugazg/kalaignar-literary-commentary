@@ -48,6 +48,8 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | குறிஞ்சிப்பாட்டு | Kurinjippattu | Retain as the project transliteration. |
 | களவழி நாற்பது | Kalavazhi Narpadu | Retain as the project transliteration. |
 
+| பாலைக்கலி | Paalai Kali | Retain this `Kalithogai` subdivision title when source provenance names it. |
+
 ## Recurring literary/social terms
 
 | Tamil | Default English/transliteration | Editorial note |
@@ -111,6 +113,27 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | அள்ளூர் நன்முல்லையார் | Allur Nanmullaiyar | Retain this poet-name form. |
 | ஆலத்தூர் கிழார் | Alathur Kizhar | Retain this poet-name form. |
 | கிள்ளிவளவன் | Killivalavan | Retain this Chola king-name form. |
+
+| ஆவூர் மூலங்கிழார் | Avur Moolankizhar | Retain this poet-name form. |
+| கோவூர் கிழார் / கோவூர்கிழார் | Kovur Kizhar | Retain this poet-name form despite source spacing variation. |
+| வெள்ளைக்குடி நாகனார் | Vellaikkudi Naganar | Retain this poet-name form. |
+| மாறோக்கத்து நப்பசலையார் / நப்பசலை | Marokkathu Nappasalaiyar / Lady Nappasalai | Preserve source-supported provenance and narrative forms rather than forcing one form everywhere. |
+| பெருங்கடுங்கோ | Perungadungko | Retain this poet-name form. |
+| வேள் ஆய் அண்டிரன் | Vel Ay Andiran | Retain this chieftain-name form. |
+| உறையூர் ஏணிச்சேரி முடமோசியார் | Uraiyur Enicheri Mudamosiyar | Retain this poet-name form. |
+| மருதன் இளநாகனார் | Marudhan Ilanaganar | Retain this poet-name form. |
+| அதியமான் நெடுமான் அஞ்சி | Adiyaman Neduman Anji | Retain this ruler-name form. |
+| அதியர் | Atiyars | Retain this clan/dynastic form where the source names the lineage. |
+| தகடூர் | Thagadoor | Retain this place-name form. |
+| தகரோன் / தகடூரான் | Thagaron / man of Thagadoor | Preserve the source's section-title form `தகரோன்` separately from prose `தகடூரான்`; do not silently collapse them. |
+| தொண்டைமான் | Thondaiman | Retain this ruler-name form. |
+| பெருங்குன்றூர்க் கிழார் | Perungunrur Kizhar | Retain this poet-name form. |
+| குட்டுவன் இரும்பொறை | Kuttuvan Irumporai | Retain this Chera ruler-name form. |
+| இளஞ்சேரல் இரும்பொறை | Ilanjeral Irumporai | Retain this Chera ruler-name form. |
+| குமணன் | Kumanan | Retain this ruler-name form. |
+| பெருஞ்சித்திரனார் | Perunchithiranar | Retain this poet-name form. |
+| வேளிமான் / இளவேளிமான் | Veliman / Ilaveliman | Preserve the source's elder/younger-brother name distinction. |
+| இளங்குமணன் | Ilankumanan | Retain this younger-brother name form. |
 
 ## Recurring maintained-English titles
 
