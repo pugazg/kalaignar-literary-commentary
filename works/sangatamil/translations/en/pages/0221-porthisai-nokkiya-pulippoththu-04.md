@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "போர்த்திசை நோக்கிய புலிப்போத்து!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -32,11 +32,10 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 > to straighten
 > the twisted blade.
 >
-> Then the man
-> who had fled from him
-> would laugh
-> only after seeing
-> his back turned away.”
+> Then he would laugh
+> at the back
+> of the man
+> who had fled from him.”
 
 <div align="center">*</div>
 
