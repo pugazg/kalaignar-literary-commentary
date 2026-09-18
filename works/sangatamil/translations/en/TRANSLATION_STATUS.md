@@ -1,6 +1,6 @@
 # Sangatamil — Maintained English Translation Status
 
-**Status: ACTIVE — GLOSSARY RECONCILIATION GR1 COMPLETE / PASS**
+**Status: ACTIVE — GLOSSARY RECONCILIATION GR1–GR2 COMPLETE / PASS**
 
 Repository: `pugazg/kalaignar-literary-commentary`  
 Branch: `main`
@@ -31,7 +31,7 @@ English work does not alter or promote those Tamil statuses.
 | Control-layer initialization | **COMPLETE / PASS** |
 | First-pass drafting | **497/497 — D1+D2+D3+D4+D5+D6+D7+D8+D9+D10+D11+D12+D13+D14 COMPLETE / CLOSED** |
 | Source-check | **497/497 reviewed — SC1+SC2+SC3+SC4+SC5+SC6+SC7+SC8+SC9+SC10+SC11+SC12+SC13+SC14 COMPLETE / CLOSED (496 source-checked + scan 8 source-limited)** |
-| Glossary reconciliation | **37/497 — GR1 COMPLETE / PASS** |
+| Glossary reconciliation | **74/497 — GR1+GR2 COMPLETE / PASS** |
 | Editorial review | **0/497** |
 | Release-ready | **0/497** |
 
@@ -319,6 +319,18 @@ Current English page inventory:
 - exact compare — **1 commit / 7 changed files total / 6 English pages + `GLOSSARY.md` / 0 Tamil changes / 0 status changes**
 - durable report — `GLOSSARY_RECONCILIATION_GR1_REPORT.md`
 
+### GR2 — COMPLETE / PASS
+- scans **38–74**
+- reviewed — **37/37**
+- English page wording changes — **2 page files** (scans 49, 74)
+- glossary control changes — **1 file: `GLOSSARY.md`**
+- page status changes — **0**
+- canonical Tamil changes — **0**
+- page-layer/control base — `5cddc403389c291576854dbd3cbcdb81936d39d6`
+- endpoint — `43145ae557bb0cc6a03795a3fbb60d0db5de61ac`
+- exact compare — **1 commit / 3 changed files total / 2 English pages + `GLOSSARY.md` / 0 Tamil changes / 0 status changes**
+- durable report — `GLOSSARY_RECONCILIATION_GR2_REPORT.md`
+
 ## Release interpretation
 
 English review/release status is relative to the maintained canonical Tamil archive.
@@ -331,8 +343,8 @@ Normal page-batched cadence: **37 physical scans**.
 
 ## Exact next activity
 
-**English Glossary Reconciliation GR2 — scans 38–74.**
+**English Glossary Reconciliation GR3 — scans 75–111.**
 
 Compare each maintained-English page with its canonical Tamil page paragraph-by-paragraph / block-by-block. Check omissions, additions, meaning drift, names, titles, quotations, verse blocks, page function, provenance and cross-page continuity.
 
-Continue the same context-aware terminology reconciliation for scans **38–74**. Preserve page statuses; scan 8 remains `source-limited`. Change **0 canonical Tamil page files** and do not import terminology from published translations or web sources.
+Continue the same context-aware terminology reconciliation for scans **75–111**. Preserve page statuses; scan 8 remains `source-limited`. Change **0 canonical Tamil page files** and do not import terminology from published translations or web sources.
