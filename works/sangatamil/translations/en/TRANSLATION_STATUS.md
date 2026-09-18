@@ -1,6 +1,6 @@
 # Sangatamil — Maintained English Translation Status
 
-**Status: ACTIVE — FIRST-PASS DRAFTING COMPLETE / CLOSED**
+**Status: ACTIVE — SOURCE-CHECK SC1 COMPLETE / PASS**
 
 Repository: `pugazg/kalaignar-literary-commentary`  
 Branch: `main`
@@ -30,15 +30,15 @@ English work does not alter or promote those Tamil statuses.
 |---|---|
 | Control-layer initialization | **COMPLETE / PASS** |
 | First-pass drafting | **497/497 — D1+D2+D3+D4+D5+D6+D7+D8+D9+D10+D11+D12+D13+D14 COMPLETE / CLOSED** |
-| Source-check | **0/497** |
+| Source-check | **37/497 reviewed — SC1 COMPLETE / PASS (36 source-checked + scan 8 source-limited)** |
 | Glossary reconciliation | **0/497** |
 | Editorial review | **0/497** |
 | Release-ready | **0/497** |
 
 Current English page inventory:
 
-- `draft` — **496**
-- `source-checked` — **0**
+- `draft` — **460**
+- `source-checked` — **36**
 - `editorial-reviewed` — **0**
 - `release-ready` — **0**
 - `source-limited` — **1** (scan 8)
@@ -160,6 +160,19 @@ Current English page inventory:
 - first-pass drafting — **COMPLETE / CLOSED 497/497**
 - durable report — `DRAFT_D14_REPORT.md`
 
+## Source-check progress
+
+### SC1 — COMPLETE / PASS
+- scans **1–37**
+- reviewed — **37/37**
+- promoted to `source-checked` — **36**
+- retained `source-limited` — **1** (scan 8)
+- source-fidelity repairs — **11 English page files**
+- page-layer base — `b4ff1a8cb54c5b6db9da8921e73cc49fbe734d0a`
+- page-layer endpoint — `6369adc94394ddc9c4a2917518d85fb9f614deea`
+- exact page-layer compare — **9 commits / exactly 36 English page files / 0 canonical Tamil page changes / 0 non-English-page changes**
+- durable report — `SOURCE_CHECK_SC1_REPORT.md`
+
 ## Release interpretation
 
 English review/release status is relative to the maintained canonical Tamil archive.
@@ -172,8 +185,8 @@ Normal page-batched cadence: **37 physical scans**.
 
 ## Exact next activity
 
-**English Source-Check SC1 — scans 1–37.**
+**English Source-Check SC2 — scans 38–74.**
 
 Compare each maintained-English page with its canonical Tamil page paragraph-by-paragraph / block-by-block. Check omissions, additions, meaning drift, names, titles, quotations, verse blocks, page function, provenance and cross-page continuity.
 
-Passing `draft` pages may move to `source-checked`. Scan **8** remains `source-limited` and its handwritten body must not be reconstructed or deciphered. Change **0 canonical Tamil page files**. Do not begin glossary reconciliation until source-check closes for the full corpus.
+Passing `draft` pages may move to `source-checked`. Change **0 canonical Tamil page files**. Do not begin glossary reconciliation until source-check closes for the full corpus.
