@@ -51,8 +51,9 @@ D14 scans **482–497 — COMPLETE / PASS**.
 D14 page-layer audit:
 
 - base — `ce6178a0235a74395272b1d77381462885df0ec4`
-- endpoint — `bbd46a1c5a354ddd089548ab0e8d3702f3ebabed`
-- compare — **16 commits / exactly 16 new English page files / 0 canonical Tamil page changes / 0 non-English-page changes**
+- endpoint — `fa4f316b4ef1bd16b84cde035e740ab463c198ba`
+- compare — **17 commits / exactly 16 English page files / 0 canonical Tamil page changes / 0 non-English-page changes**
+- scan **486** received one grammar-only English repair after its initial draft
 
 Cumulative English state:
 
