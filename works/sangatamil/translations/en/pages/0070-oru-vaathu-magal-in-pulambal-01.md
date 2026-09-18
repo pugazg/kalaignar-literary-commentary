@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒரு பொது மகளின் புலம்பல்!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -52,7 +52,7 @@ After that—did I call him my lover? No.
 Did I arrange a formal invitation and summon him?  
 Did I cast the net of my eyes and deceitfully trap him?
 
-Did I display my beauty and draw him in with tricks?  
+Did I display my beauty, sprinkle powder, and draw him in?  
 Did I flash one smile and topple that “holy man”?
 
 <!-- Text continues on scan 71. -->

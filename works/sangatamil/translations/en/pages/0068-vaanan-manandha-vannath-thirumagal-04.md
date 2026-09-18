@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "வாணன் மணந்த வண்ணத் திருமகள்!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -63,7 +63,7 @@ to the street of your women for hire—
 where ornaments cast their light,  
 women dance and sing and give delight,
 
-flower-light garments fly in the breeze,  
+thumbai-flower garments fly in the breeze,  
 and eyes that bewitch men flash—
 
 <!-- The speech continues on scan 69. -->

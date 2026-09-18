@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "வாணன் மணந்த வண்ணத் திருமகள்!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -47,7 +47,7 @@ and then they put out the oil lamp too.
 > Sweet milk spurts from my soft, blemished breasts  
 > after I embrace and feed my child, leaving the scent of nursing.  
 > We are not like the bright-bangled women  
-> appearing in the courtesans' street, fit for the charioteer.  
+> appearing in the courtesans' street, fit for the man who comes there by chariot.  
 > Therefore, though you can raise sweet music  
 > from the little yaazh with gold-like strings,  
 > do not bow here. Take him away, bard!  
