@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "இங்கே வேண்டாம்... தங்கை இருக்கின்றாள்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -80,7 +80,7 @@ where honeyed delight may rain?”
 Holding the shoulders
 of the bull-like man,
 that woman
-whose speech was veena-music
+whose speech was like veena music
 pulled him away.
 
 “If that is your command,

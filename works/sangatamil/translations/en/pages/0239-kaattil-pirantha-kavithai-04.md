@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "காட்டில் பிறந்த கவிதை!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -54,8 +54,8 @@ her mate had fallen.
 
 The male,
 fallen from the branch,
-had struck the mountainside,
-split its head,
+had struck the mountainside
+and split his skull,
 
 and lay sunk
 in death's lap.

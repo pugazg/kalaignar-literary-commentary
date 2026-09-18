@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "பஞ்சணையில் அரசி; பாசறையில் மன்னன்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -83,8 +83,8 @@ surrounded by clusters
 of ripe fruit
 yet unable to eat.
 
-Unable to move
-the hours of day and night,
+Unable to make
+the hours of day and night pass,
 she poured tears!
 
 When the north wind blows,

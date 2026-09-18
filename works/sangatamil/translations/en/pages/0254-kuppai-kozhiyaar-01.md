@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "குப்பைக் கோழியார்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -37,10 +37,10 @@ of today or yesterday.
 It began even before
 the late Sangam age
 that gave birth
-to the learned-celebrated
-*Kalithogai*,
+to *Kalithogai*,
 *Agam*,
-and *Puram* works!
+and *Puram*—
+works praised by the learned!
 
 One piece of evidence
 lies in beautiful *Kuruntokai*—

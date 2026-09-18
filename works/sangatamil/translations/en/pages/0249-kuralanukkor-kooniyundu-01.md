@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "குறளனுக்கோர் கூனியுண்டு!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -22,7 +22,7 @@ radiant as the morning sun—
 
 poet-kings tie
 a perfect knot of love
-between such two
+between the two
 
 and shower poems
 upon the earth!

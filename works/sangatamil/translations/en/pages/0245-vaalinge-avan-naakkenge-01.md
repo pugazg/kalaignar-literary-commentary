@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "வாளிங்கே-அவன் நாக்கெங்கே?"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -39,8 +39,8 @@ or lowering itself.
 
 At the doorway,
 an old woman
-with toothless mouth
-opened it wide,
+opened her toothless mouth
+wide,
 
 mixed a little jaggery
 with rice in a bowl,

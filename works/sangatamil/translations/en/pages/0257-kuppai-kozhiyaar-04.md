@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "குப்பைக் கோழியார்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -17,12 +17,12 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 > torments me to the bone.
 >
 > Yet it is hard for us
-to go to him,
+> to go to him,
 > cherish him,
 > and embrace.
 >
 > Nor is he able
-to come here
+> to come here
 > and remove the suffering
 > that has come upon me.
 >
@@ -35,7 +35,7 @@ to come here
 > between rubbish-heap chickens,
 >
 > there is no one
-to end this illness
+> to end this illness
 > that has come upon me,
 >
 > except when it reaches
