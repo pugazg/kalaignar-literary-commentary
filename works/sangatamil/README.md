@@ -214,22 +214,23 @@ Controls:
 - `translations/en/EDITORIAL_REVIEW_ER6_REPORT.md`
 - `translations/en/EDITORIAL_REVIEW_ER7_REPORT.md`
 - `translations/en/EDITORIAL_REVIEW_ER8_REPORT.md`
+- `translations/en/EDITORIAL_REVIEW_ER9_REPORT.md`
 
 Current maintained-English state:
 
 - page records — **497/497**
 - `draft` — **0**
-- `source-checked` — **201**
-- `editorial-reviewed` — **295**
+- `source-checked` — **164**
+- `editorial-reviewed` — **332**
 - `source-limited` — **1** (scan 8)
 - not yet created — **0**
 - source-check — **497/497 reviewed — SC1+SC2+SC3+SC4+SC5+SC6+SC7+SC8+SC9+SC10+SC11+SC12+SC13+SC14 COMPLETE / CLOSED**
 - glossary reconciliation — **497/497 reviewed — GR1+GR2+GR3+GR4+GR5+GR6+GR7+GR8+GR9+GR10+GR11+GR12+GR13+GR14 COMPLETE / CLOSED**
-- editorial review — **296/497 reviewed — ER1+ER2+ER3+ER4+ER5+ER6+ER7+ER8 COMPLETE / PASS (295 editorial-reviewed + scan 8 source-limited)**
+- editorial review — **333/497 reviewed — ER1+ER2+ER3+ER4+ER5+ER6+ER7+ER8+ER9 COMPLETE / PASS (332 editorial-reviewed + scan 8 source-limited)**
 - canonical Tamil page changes from English drafting — **0**
 
 This downstream layer does **not** reopen or mass-promote the canonical Tamil records and does not change the declaration that whole-volume word-for-word scan verification is not claimed.
 
 ## Exact next activity
 
-**English Editorial Review ER9 — scans 297–333.** ER1 scans **1–37**, ER2 scans **38–74**, ER3 scans **75–111**, ER4 scans **112–148**, ER5 scans **149–185**, ER6 scans **186–222**, ER7 scans **223–259**, and ER8 scans **260–296 are COMPLETE / PASS**. Continue source-faithful editorial review; promote passing `source-checked` pages to `editorial-reviewed`, preserve scan 8 as `source-limited`, and change **0 canonical Tamil page files**.
+**English Editorial Review ER10 — scans 334–370.** ER1 scans **1–37**, ER2 scans **38–74**, ER3 scans **75–111**, ER4 scans **112–148**, ER5 scans **149–185**, ER6 scans **186–222**, ER7 scans **223–259**, ER8 scans **260–296**, and ER9 scans **297–333 are COMPLETE / PASS**. Continue source-faithful editorial review; promote passing `source-checked` pages to `editorial-reviewed`, preserve scan 8 as `source-limited`, and change **0 canonical Tamil page files**.

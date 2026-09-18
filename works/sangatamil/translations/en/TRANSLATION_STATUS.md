@@ -1,6 +1,6 @@
 # Sangatamil — Maintained English Translation Status
 
-**Status: ACTIVE — EDITORIAL REVIEW ER8 COMPLETE / PASS**
+**Status: ACTIVE — EDITORIAL REVIEW ER9 COMPLETE / PASS**
 
 Repository: `pugazg/kalaignar-literary-commentary`  
 Branch: `main`
@@ -32,14 +32,14 @@ English work does not alter or promote those Tamil statuses.
 | First-pass drafting | **497/497 — D1+D2+D3+D4+D5+D6+D7+D8+D9+D10+D11+D12+D13+D14 COMPLETE / CLOSED** |
 | Source-check | **497/497 reviewed — SC1+SC2+SC3+SC4+SC5+SC6+SC7+SC8+SC9+SC10+SC11+SC12+SC13+SC14 COMPLETE / CLOSED (496 source-checked + scan 8 source-limited)** |
 | Glossary reconciliation | **497/497 — GR1+GR2+GR3+GR4+GR5+GR6+GR7+GR8+GR9+GR10+GR11+GR12+GR13+GR14 COMPLETE / CLOSED** |
-| Editorial review | **296/497 reviewed — ER1+ER2+ER3+ER4+ER5+ER6+ER7+ER8 COMPLETE / PASS (295 editorial-reviewed + scan 8 source-limited)** |
+| Editorial review | **333/497 reviewed — ER1+ER2+ER3+ER4+ER5+ER6+ER7+ER8+ER9 COMPLETE / PASS (332 editorial-reviewed + scan 8 source-limited)** |
 | Release-ready | **0/497** |
 
 Current English page inventory:
 
 - `draft` — **0**
-- `source-checked` — **201**
-- `editorial-reviewed` — **295**
+- `source-checked` — **164**
+- `editorial-reviewed` — **332**
 - `release-ready` — **0**
 - `source-limited` — **1** (scan 8)
 - `blocked` — **0**
@@ -571,6 +571,18 @@ Current English page inventory:
 - durable report — `EDITORIAL_REVIEW_ER8_REPORT.md`
 - cumulative editorial review — **296/497**
 
+### ER9 — COMPLETE / PASS
+- scans **297–333**
+- reviewed — **37/37**
+- promoted `source-checked` → `editorial-reviewed` — **37**
+- source-faithful editorial refinements — **10 English page files** (scans 298, 306, 310, 312, 314, 320, 321, 323, 330, 331)
+- readability / wording / consistency refinements — **10 page files**
+- page-layer base — `6813753060c65fcb3210d8c52ef5910720fedffc`
+- endpoint — `d8c91a32c0614131202061578b04bb213acdb349`
+- exact compare — **1 commit / exactly 37 modified English page files / 0 canonical Tamil page changes / 37 status promotions**
+- durable report — `EDITORIAL_REVIEW_ER9_REPORT.md`
+- cumulative editorial review — **333/497**
+
 ## Release interpretation
 
 English review/release status is relative to the maintained canonical Tamil archive.
@@ -583,8 +595,8 @@ Normal page-batched cadence: **37 physical scans**.
 
 ## Exact next activity
 
-**English Editorial Review ER9 — scans 297–333.**
+**English Editorial Review ER10 — scans 334–370.**
 
-Continue the same source-faithful editorial review for scans **297–333**. Compare each maintained-English page with its canonical Tamil page paragraph-by-paragraph / block-by-block; check omissions, additions, meaning drift, names, titles, quotations, verse blocks, page function, provenance and cross-page continuity.
+Continue the same source-faithful editorial review for scans **334–370**. Compare each maintained-English page with its canonical Tamil page paragraph-by-paragraph / block-by-block; check omissions, additions, meaning drift, names, titles, quotations, verse blocks, page function, provenance and cross-page continuity.
 
 Improve readability only where source meaning remains intact; consult canonical Tamil whenever an edit could alter meaning. Promote passing `source-checked` pages to `editorial-reviewed`. Change **0 canonical Tamil page files**.
