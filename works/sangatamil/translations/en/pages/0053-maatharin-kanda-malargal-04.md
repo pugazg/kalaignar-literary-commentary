@@ -6,13 +6,18 @@ work: "sangatamil"
 section: "மாவீரன் கண்ட மலர்கள்"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
 ---
 
-—those flowers, with copper-plate-red new shoots,  
+—warriors bear on their shoulders  
+quivers capped so the sharpness will not be blunted,  
+packed with arrowheads.
+
+Like those arrow-points,  
+the iluppai flowers, with copper-plate-red new shoots,  
 stand rich with buds.
 
 Bees gather to drink their honey and stir them;  
