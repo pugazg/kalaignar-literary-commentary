@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 6"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -43,7 +43,7 @@ that no brush had painted!
 
 Because he had entered the field and fought without rest,
 it seemed he had had no time to shave his face.
-His black hair had grown a little and looked like a short beard;
+Black hair had sprouted a little on his face, giving him the look of a short beard;
 even that poured a new intoxication into Narkannai's eyes
 and made every vein and sinew play the music of love!
 
