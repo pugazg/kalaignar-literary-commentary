@@ -20,7 +20,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 
 <div align="right">
 
-(*Kurunthogai* — Poem 8; Poet: Alangudi Vanganar)
+(*Kuruntokai* — Poem 8; Poet: Alangudi Vanganar)
 
 </div>
 

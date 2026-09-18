@@ -48,6 +48,16 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | குறிஞ்சிப்பாட்டு | Kurinjippattu | Retain as the project transliteration. |
 | களவழி நாற்பது | Kalavazhi Narpadu | Retain as the project transliteration. |
 
+## Recurring literary/social terms
+
+| Tamil | Default English/transliteration | Editorial note |
+|---|---|---|
+| தேறல் | theral | Retain the source beverage name in italics where the maintained English treats it as a named liquor; explanatory blocks may identify it as liquor. |
+| பாணன் | bard | Default role term; use “musician” only where the source explicitly foregrounds இசை / இசைப்பாணன். |
+| பரத்தை | courtesan | Use for the source role term; do not silently merge it with distinct source terms பொதுமகள் or விலைமகள். |
+| பொதுமகள் | public woman / Common Woman | Context-sensitive: prose may use “public woman”; the recurring section title remains “The Lament of a Common Woman.” |
+| விலைமகள் | woman for hire / courtesan | Preserve the transactional force where the source foregrounds விலை; do not mechanically replace every occurrence with one label. |
+
 ## Classical landscape terms
 
 | Tamil | Default English/transliteration | Editorial note |
@@ -67,6 +77,15 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | கணியன் பூங்குன்றன் / கணியன் பூங்குன்றனார் | Kaniyan Poongundran / Kaniyan Poongundranar | Preserve the source's honorific variation rather than forcing one ending everywhere. |
 | சேரமான் கணைக்கால் இரும்பொறை | Cheraman Kanaikkal Irumporai | Retain this dynastic/personal-name form. |
 | அம்மூவனார் | Ammuvanar | Retain this poet-name form. |
+
+| ஒளவை / ஔவை / ஒளவையார் | Avvai / Avvaiyar | Preserve source-supported honorific/contextual variation such as “Mother Avvai” and “Avvai Piratti”; use Avvaiyar for poet attribution where the source has the honorific form. |
+| காக்கைப்பாடினியார் நச்செள்ளையார் | Kaakkaip Paadiniyar Nachellaiyar | Retain this poet-name form. |
+| மோசிகீரனார் | Mosikeeranar | Retain this poet-name form. |
+| வீரைவெளியனார் | Veeraiveliyanar | Retain this poet-name form. |
+| ஔவை துரைசாமிப் பிள்ளை | Avvai Duraisami Pillai | Retain this scholar-name form. |
+| வாணன் | Vaanan | Retain this recurring chieftain/personal-name form. |
+| கூடலூர்ப் பல்கண்ணனார் | Koodaloor Palkannanar | Retain this poet-name form. |
+| ஆலங்குடி வங்கனார் | Alangudi Vanganar | Retain this poet-name form. |
 
 ## Recurring maintained-English titles
 

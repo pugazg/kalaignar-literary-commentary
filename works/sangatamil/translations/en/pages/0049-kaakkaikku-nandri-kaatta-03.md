@@ -23,7 +23,7 @@ Even seven vessels of ghee-rice
 cannot equal the help the crow gave—
 
 that is the meaning of this poem,  
-preserved in beautiful Tamil *Kurunthogai*!
+preserved in beautiful Tamil *Kuruntokai*!
 
 <div align="center">*</div>
 
@@ -39,7 +39,7 @@ preserved in beautiful Tamil *Kurunthogai*!
 
 <div align="right">
 
-(*Kurunthogai* — Poem 210  
+(*Kuruntokai* — Poem 210  
 Poet: Kaakkaip Paadiniyar Nachellaiyar)
 
 </div>
