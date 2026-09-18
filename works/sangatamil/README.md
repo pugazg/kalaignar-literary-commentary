@@ -204,6 +204,7 @@ Controls:
 - `translations/en/GLOSSARY_RECONCILIATION_GR10_REPORT.md`
 - `translations/en/GLOSSARY_RECONCILIATION_GR11_REPORT.md`
 - `translations/en/GLOSSARY_RECONCILIATION_GR12_REPORT.md`
+- `translations/en/GLOSSARY_RECONCILIATION_GR13_REPORT.md`
 
 Current maintained-English state:
 
@@ -213,11 +214,11 @@ Current maintained-English state:
 - `source-limited` — **1** (scan 8)
 - not yet created — **0**
 - source-check — **497/497 reviewed — SC1+SC2+SC3+SC4+SC5+SC6+SC7+SC8+SC9+SC10+SC11+SC12+SC13+SC14 COMPLETE / CLOSED**
-- glossary reconciliation — **444/497 reviewed — GR1+GR2+GR3+GR4+GR5+GR6+GR7+GR8+GR9+GR10+GR11+GR12 COMPLETE / PASS**
+- glossary reconciliation — **481/497 reviewed — GR1+GR2+GR3+GR4+GR5+GR6+GR7+GR8+GR9+GR10+GR11+GR12+GR13 COMPLETE / PASS**
 - canonical Tamil page changes from English drafting — **0**
 
 This downstream layer does **not** reopen or mass-promote the canonical Tamil records and does not change the declaration that whole-volume word-for-word scan verification is not claimed.
 
 ## Exact next activity
 
-**English Glossary Reconciliation GR13 — scans 445–481.** GR1–GR12 scans **1–444 are COMPLETE / PASS**. Reconcile only Sangatamil-evidenced recurring terminology; preserve page statuses and change **0 canonical Tamil page files**.
+**English Glossary Reconciliation GR14 — scans 482–497 — final 16-page remainder.** GR1–GR13 scans **1–481 are COMPLETE / PASS**. Reconcile only Sangatamil-evidenced recurring terminology; preserve page statuses and change **0 canonical Tamil page files**.
