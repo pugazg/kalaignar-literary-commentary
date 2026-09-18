@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "செவிலி தேடிய சித்திரப் பாவை!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -57,7 +57,7 @@ understand one thing.
 Should your daughter remain
 
 like sandalwood  
-never worn,
+never applied,
 
 like a pearl  
 never adorned,
@@ -115,12 +115,7 @@ in *Paalai Kali*:
 > of a raised parasol,
 >
 > with the hanging water-pot  
-> and the famed threefold staff,
->
-> moving with regulated shoulders,  
-> hearts turned to no other purpose,
->
-> men of disciplined conduct—
+> and the famed threefold staff—
 
 <!-- Quotation continues on scan 158. -->
 <!-- Source scan page: 157; printed page: 144 -->
