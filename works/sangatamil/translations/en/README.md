@@ -66,11 +66,11 @@ Translate only the maintained Tamil archive. Preserve the work's own order, quot
 - Draft D14 scans **482–497 — COMPLETE / PASS**
 - English page records — **497/497**
 - first-pass drafting — **497/497 — COMPLETE / CLOSED**
-- current English state — **0 `draft` + 90 `source-checked` + 406 `editorial-reviewed` + 1 `source-limited` (scan 8)**
+- current English state — **0 `draft` + 53 `source-checked` + 443 `editorial-reviewed` + 1 `source-limited` (scan 8)**
 - not yet created — **0**
 - source-check — **497/497 reviewed — SC1+SC2+SC3+SC4+SC5+SC6+SC7+SC8+SC9+SC10+SC11+SC12+SC13+SC14 COMPLETE / CLOSED**
 - glossary reconciliation — **497/497 — GR1+GR2+GR3+GR4+GR5+GR6+GR7+GR8+GR9+GR10+GR11+GR12+GR13+GR14 COMPLETE / CLOSED**
-- editorial review — **407/497 reviewed — ER1+ER2+ER3+ER4+ER5+ER6+ER7+ER8+ER9+ER10+ER11 COMPLETE / PASS (406 editorial-reviewed + scan 8 source-limited)**
+- editorial review — **444/497 reviewed — ER1+ER2+ER3+ER4+ER5+ER6+ER7+ER8+ER9+ER10+ER11+ER12 COMPLETE / PASS (443 editorial-reviewed + scan 8 source-limited)**
 - release-ready — **0/497**
 - blocked — **0**
 - durable D1 report — `DRAFT_D1_REPORT.md`
@@ -126,5 +126,6 @@ Translate only the maintained Tamil archive. Preserve the work's own order, quot
 - durable ER9 report — `EDITORIAL_REVIEW_ER9_REPORT.md`
 - durable ER10 report — `EDITORIAL_REVIEW_ER10_REPORT.md`
 - durable ER11 report — `EDITORIAL_REVIEW_ER11_REPORT.md`
+- durable ER12 report — `EDITORIAL_REVIEW_ER12_REPORT.md`
 
-Exact next activity: **English Editorial Review ER12 — scans 408–444**. Continue the same source-faithful editorial review, improve readability and consistency only where source meaning remains intact, consult canonical Tamil whenever an edit could alter meaning, promote passing `source-checked` pages to `editorial-reviewed`, and change **0 canonical Tamil page files**.
+Exact next activity: **English Editorial Review ER13 — scans 445–481**. Continue the same source-faithful editorial review, improve readability and consistency only where source meaning remains intact, consult canonical Tamil whenever an edit could alter meaning, promote passing `source-checked` pages to `editorial-reviewed`, and change **0 canonical Tamil page files**.
