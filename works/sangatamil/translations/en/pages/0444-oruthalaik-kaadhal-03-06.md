@@ -31,7 +31,7 @@ standing atop a hill, he summoned the warriors!
 
 *Enj* = my lord. *Purkai* = simple food.  
 *Puranchirai* = a nearby place.  
-*Ponnan namme* = golden-hued pallor has spread over us.  
+*Ponnan namme* = golden-hued love-pallor has spread over us.  
 *Emutruk kazhinda mallar* = warriors who boast of their own strength, grow arrogant, and thereby lose that strength. *Umanar* = salt-merchants.
 
 *

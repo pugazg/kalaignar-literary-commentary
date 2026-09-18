@@ -32,8 +32,8 @@ food from Eelam and goods from Kadaram,
 and many other things for import and export,
 raising the distinction of the southern land.
 The poet Kadiyalur Uruthirankannanar saw this,
-and in the ancient Tamil record *Pattinappaalai*
-set down the prosperity of Karikala Chola's age
+and in the ancient Tamil record *Pattinappalai*
+set down the prosperity of Karikal Chola's age
 for the world to praise! In the line of those renowned merchants,
 Perungozhi Naaykan shone in Aamur in those days!
 
