@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஊரின் பெருமை உணர்த்தினள் ஒருத்தி!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -28,8 +28,9 @@ like a flower, without a sound;
 
 to feast her hungry eyes upon his handsome form;
 
-if only he would turn those two lotus-bud shoulders  
-slightly toward her, that would be enough;
+if only, a little later, she could turn  
+those two lotus buds toward his broad shoulders,  
+that would be enough;
 
 yet if, in haste, she placed a budding kiss  
 upon the lips beneath his young moustache,
