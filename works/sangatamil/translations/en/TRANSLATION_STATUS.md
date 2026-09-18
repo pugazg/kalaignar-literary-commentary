@@ -1,6 +1,6 @@
 # Sangatamil — Maintained English Translation Status
 
-**Status: ACTIVE — SOURCE-CHECK SC1–SC13 COMPLETE / PASS**
+**Status: ACTIVE — SOURCE-CHECK COMPLETE / CLOSED; GLOSSARY RECONCILIATION NEXT**
 
 Repository: `pugazg/kalaignar-literary-commentary`  
 Branch: `main`
@@ -30,15 +30,15 @@ English work does not alter or promote those Tamil statuses.
 |---|---|
 | Control-layer initialization | **COMPLETE / PASS** |
 | First-pass drafting | **497/497 — D1+D2+D3+D4+D5+D6+D7+D8+D9+D10+D11+D12+D13+D14 COMPLETE / CLOSED** |
-| Source-check | **481/497 reviewed — SC1+SC2+SC3+SC4+SC5+SC6+SC7+SC8+SC9+SC10+SC11+SC12+SC13 COMPLETE / PASS (480 source-checked + scan 8 source-limited)** |
+| Source-check | **497/497 reviewed — SC1+SC2+SC3+SC4+SC5+SC6+SC7+SC8+SC9+SC10+SC11+SC12+SC13+SC14 COMPLETE / CLOSED (496 source-checked + scan 8 source-limited)** |
 | Glossary reconciliation | **0/497** |
 | Editorial review | **0/497** |
 | Release-ready | **0/497** |
 
 Current English page inventory:
 
-- `draft` — **16**
-- `source-checked` — **480**
+- `draft` — **0**
+- `source-checked` — **496**
 - `editorial-reviewed` — **0**
 - `release-ready` — **0**
 - `source-limited` — **1** (scan 8)
@@ -294,6 +294,17 @@ Current English page inventory:
 - exact page-layer compare — **8 commits / exactly 37 English page files / 0 canonical Tamil page changes / 0 non-English-page changes**
 - durable report — `SOURCE_CHECK_SC13_REPORT.md`
 
+### SC14 — COMPLETE / PASS — FINAL SOURCE-CHECK REMAINDER
+- scans **482–497**
+- reviewed — **16/16**
+- promoted to `source-checked` — **16**
+- source-fidelity repairs — **5 English page files** (scans 482, 484, 486, 487, 494)
+- page-layer base — `d5055ac037fc875b3282dd9dc78630d525f20014`
+- page-layer endpoint — `72869d75fb5735d331d7fc5eb67a6d4cdeb9b64d`
+- exact page-layer compare — **4 commits / exactly 16 English page files / 0 canonical Tamil page changes / 0 non-English-page changes**
+- durable report — `SOURCE_CHECK_SC14_REPORT.md`
+- cumulative source-check — **497/497 COMPLETE / CLOSED**
+
 ## Release interpretation
 
 English review/release status is relative to the maintained canonical Tamil archive.
@@ -306,8 +317,8 @@ Normal page-batched cadence: **37 physical scans**.
 
 ## Exact next activity
 
-**English Source-Check SC14 — scans 482–497.**
+**English Glossary Reconciliation GR1 — scans 1–37.**
 
 Compare each maintained-English page with its canonical Tamil page paragraph-by-paragraph / block-by-block. Check omissions, additions, meaning drift, names, titles, quotations, verse blocks, page function, provenance and cross-page continuity.
 
-Passing `draft` pages may move to `source-checked`. Change **0 canonical Tamil page files**. Do not begin glossary reconciliation until source-check closes for the full corpus.
+Reconcile recurring names, Sangam work titles, literary terms, provenance labels and repeated English renderings using only terminology evidenced in Sangatamil. Preserve page statuses; scan 8 remains `source-limited`. Change **0 canonical Tamil page files** and do not import terminology from published translations or web sources.

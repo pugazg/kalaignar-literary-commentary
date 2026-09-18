@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / MAINTAINED ENGLISH SOURCE-CHECK SC14
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / MAINTAINED ENGLISH GLOSSARY RECONCILIATION GR1
 
 Continue only from live `main` in `pugazg/kalaignar-literary-commentary`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -34,7 +34,8 @@ Read first:
 18. `works/sangatamil/translations/en/SOURCE_CHECK_SC11_REPORT.md`
 19. `works/sangatamil/translations/en/SOURCE_CHECK_SC12_REPORT.md`
 20. `works/sangatamil/translations/en/SOURCE_CHECK_SC13_REPORT.md`
-21. `works/sangatamil/README.md`
+21. `works/sangatamil/translations/en/SOURCE_CHECK_SC14_REPORT.md`
+22. `works/sangatamil/README.md`
 20. `works/sangatamil/GATE_I_FINAL_CLOSURE.md`
 21. `works/sangatamil/indexes/section-register.md`
 22. `works/sangatamil/indexes/source-citation-register.md`
@@ -162,15 +163,23 @@ Source-check closed state:
 - SC13 page-layer endpoint — `e1f4121ea214dbf04c34cfef829463bf48558af3`
 - SC13 exact compare — **8 commits / exactly 37 English page files / 0 canonical Tamil page changes / 0 non-English-page changes**
 - SC13 source-fidelity repairs — **2 English page files** (scans 452, 456)
+- SC14 scans **482–497 — COMPLETE / PASS**
+- SC14 reviewed — **16/16**
+- SC14 result — **16 source-checked**
+- SC14 page-layer base — `d5055ac037fc875b3282dd9dc78630d525f20014`
+- SC14 page-layer endpoint — `72869d75fb5735d331d7fc5eb67a6d4cdeb9b64d`
+- SC14 exact compare — **4 commits / exactly 16 English page files / 0 canonical Tamil page changes / 0 non-English-page changes**
+- SC14 source-fidelity repairs — **5 English page files** (scans 482, 484, 486, 487, 494)
+- full source-check — **497/497 COMPLETE / CLOSED**
 
 Cumulative English state:
 
 - page records — **497/497**
-- `draft` — **16**
-- `source-checked` — **480**
+- `draft` — **0**
+- `source-checked` — **496**
 - `source-limited` — **1** (scan 8)
 - not yet created — **0**
-- source-check — **481/497 reviewed**
+- source-check — **497/497 reviewed — COMPLETE / CLOSED**
 - canonical Tamil page changes from English drafting — **0**
 
 ## Translation identity
@@ -195,20 +204,21 @@ Normal source-check cadence: **37 physical scans**.
 
 ## Exact next activity
 
-**Source-Check SC14 — scans 482–497.**
+**Glossary Reconciliation GR1 — scans 1–37.**
 
 Requirements:
 
-- begin at scan **482** and review through scan **497**;
+- begin at scan **1** and reconcile terminology through scan **37**;
 - compare every English page with its matching canonical Tamil page paragraph-by-paragraph / block-by-block;
 - check for omissions, additions, meaning drift, names, titles, dialogue, quoted verse, source labels, provenance, visual/page function and cross-page continuity;
 - preserve source order and meaningful repetition;
 - do not import published English Sangam renderings, web translations, external editions or remembered conventional wording;
 - do not silently repair canonical Tamil wording during English review;
 - use this gate for source fidelity, not unrelated stylistic polishing;
-- passing `draft` pages may move to `status: "source-checked"`;
-- after scans **482–497** are source-checked, create the SC14 closure report and synchronize maintained-English controls;
+- do **not** change English page statuses during glossary reconciliation; passing pages remain `source-checked`, and scan 8 remains `source-limited`;
+- reconcile recurring names, Sangam work titles, literary terms, provenance labels and repeated English renderings using only terminology actually evidenced in Sangatamil; update `GLOSSARY.md` only when the batch supports the decision;
+- after scans **1–37** are reconciled, create the GR1 closure report and synchronize maintained-English controls;
 - audit the exact changed-file set;
 - change **0 canonical Tamil page files**.
 
-Do not begin glossary reconciliation until source-check closes through all **497** scans.
+Source-check is now closed. Do not import terminology from published translations, web sources or remembered conventional renderings during GR1.

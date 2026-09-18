@@ -191,19 +191,20 @@ Controls:
 - `translations/en/SOURCE_CHECK_SC11_REPORT.md`
 - `translations/en/SOURCE_CHECK_SC12_REPORT.md`
 - `translations/en/SOURCE_CHECK_SC13_REPORT.md`
+- `translations/en/SOURCE_CHECK_SC14_REPORT.md`
 
 Current maintained-English state:
 
 - page records — **497/497**
-- `draft` — **16**
-- `source-checked` — **480**
+- `draft` — **0**
+- `source-checked` — **496**
 - `source-limited` — **1** (scan 8)
 - not yet created — **0**
-- source-check — **481/497 reviewed — SC1+SC2+SC3+SC4+SC5+SC6+SC7+SC8+SC9+SC10+SC11+SC12+SC13 COMPLETE / PASS**
+- source-check — **497/497 reviewed — SC1+SC2+SC3+SC4+SC5+SC6+SC7+SC8+SC9+SC10+SC11+SC12+SC13+SC14 COMPLETE / CLOSED**
 - canonical Tamil page changes from English drafting — **0**
 
 This downstream layer does **not** reopen or mass-promote the canonical Tamil records and does not change the declaration that whole-volume word-for-word scan verification is not claimed.
 
 ## Exact next activity
 
-**English Source-Check SC14 — scans 482–497.** SC1–SC13 scans **1–481 are COMPLETE / PASS** with **480 source-checked + 1 source-limited (scan 8)**. Continue maintained-English fidelity review against canonical Tamil and change **0 canonical Tamil page files**.
+**English Glossary Reconciliation GR1 — scans 1–37.** Source-check is **COMPLETE / CLOSED 497/497** with **496 source-checked + 1 source-limited (scan 8)**. Reconcile only Sangatamil-evidenced recurring terminology; preserve page statuses and change **0 canonical Tamil page files**.
