@@ -31,7 +31,7 @@ the cold wind blew from the north.
 Even the flame of a torch
 leaned southward.
 
-But the king in the camp
+But the king in the war-camp
 to the north—
 no, no—
 he did not turn south

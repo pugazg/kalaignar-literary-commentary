@@ -83,7 +83,7 @@ did not make him
 swerve from his purpose.
 
 The northern wind
-reached his military camp too.
+reached his war-camp too.
 
 Yet because of it,
 he did not forget

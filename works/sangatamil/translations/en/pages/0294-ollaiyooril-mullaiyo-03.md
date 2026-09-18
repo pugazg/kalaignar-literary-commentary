@@ -45,7 +45,7 @@ will not pluck and wear you.
 Women wearing lovely bangles
 will not come to your side.
 
-The minstrel who sings for gifts,
+The bard who sings for gifts,
 and the woman singer too,
 will not pluck you
 and adorn the yaazh with you.
@@ -75,7 +75,7 @@ this culture of our Tamil people.
 > “The young do not wear you;
 > bangle-wearing women do not pluck you.
 >
-> The minstrel does not gently take you
+> The bard does not gently take you
 > to wear upon his fine yaazh;
 > the woman singer does not adorn herself with you.
 >

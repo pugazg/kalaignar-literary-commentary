@@ -51,6 +51,8 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | பாலைக்கலி | Paalai Kali | Retain this `Kalithogai` subdivision title when source provenance names it. |
 
 | பட்டினப்பாலை | Pattinappalai | Retain this Sangam work title as the project transliteration. |
+| நெடுநல்வாடை / நெடுநல் வாடை / நெடு நல் வாடை | Nedunalvaadai | Preserve the maintained-English work-title form across the source's spacing variants. |
+| சிறுபாணாற்றுப்படை | Sirupanarruppadai | Retain this Pattuppattu work title as the maintained-English project transliteration. |
 
 ## Recurring literary/social terms
 
@@ -70,6 +72,8 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | குறளன் | kuralan / short man | Retain *kuralan* when the source discusses the term itself; explanatory prose may identify the physical description as a short man. |
 | கூனி | kooni / hunchbacked woman | Retain *kooni* when the source discusses the term itself; explanatory prose may identify the physical description as a hunchbacked woman. |
 | பாசறை | war-camp | Default contextual rendering for the military camp setting. |
+| வெறி | veri / possession / possession-rite | Retain *veri* when the source discusses the belief or condition itself; use “possession” or “possession-rite” where the maintained prose describes the affliction or ritual action. |
+| வேலன் / வேலர் | Velan / Velars | Retain this source ritual-role name; explanatory prose may identify the role more descriptively only where the source context supports it. |
 
 ## Classical landscape terms
 
@@ -164,6 +168,21 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | குப்பைக் கோழியார் / குப்பைக்கோழியார் | Kuppaik Kozhiyaar | Retain this poet-name form despite source spacing variation. |
 | வேள் எவ்வி | Vel Evvi | Retain this ruler-name form. |
 | சேரமான் யானைக்கட்சேய் இரும்பொறை | Cheraman Yanaikkat-sey Irumporai | Retain this Chera ruler-name form. |
+| நக்கீரர் / நக்கீரனார் | Nakkeerar | Retain this poet-name form across the source's honorific variation. |
+| கோப்பெருந்தேவி | Kopperunthevi | Retain this Pandya queen-name form. |
+| அன்னி / மிஞிலி / அன்னி மிஞிலி | Anni / Minjili / Anni Minjili | Preserve the two warrior names and the combined woman's name as the source distinguishes them. |
+| திதியன் / அழுந்தூர்த் திதியன் | Thithiyan / Thithiyan of Azhundur | Preserve the source's short and place-qualified forms. |
+| கோசர் | Kosars | Retain this people/group name in the maintained English. |
+| இளந்திரையன் / தொண்டைமான் இளந்திரையன் | Ilanthiraiyan / Thondaiman Ilanthiraiyan | Preserve the source's short and full ruler-poet name forms. |
+| பேகன் / வையாவிக் கோப்பெரும் பேகன் | Pegan / Vaiyavik Kopperum Pegan | Preserve the source's short and full ruler-name forms. |
+| கண்ணகி | Kannagi | Retain this personal-name form. |
+| அரிசில் கிழார் | Arisil Kizhar | Retain this poet-name form. |
+| நத்தத்தனார் / நல்லூர் நத்தத்தனார் | Nathathanar / Nallur Nathathanar | Preserve the source's short and place-qualified poet-name forms. |
+| நல்லியக்கோடன் | Nalliyakodan | Retain this ruler-name form. |
+| பெருஞ்சாத்தன் / சாத்தன் | Perunchathan / Sathan | Preserve the source's full and shortened personal-name forms by context. |
+| குடவாயில் கீரத்தனார் | Kudavayil Keerathanar | Retain this poet-name form. |
+| தொடித்தலை விழுத்தண்டினார் | Thodithalai Vizhuthandinar | Retain this poet-name form. |
+| ஒல்லையூர் | Ollaiyur | Retain this place-name form. |
 
 ## Recurring maintained-English titles
 
