@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "காடைப் போர் கண்டுவந்த கணவன்!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -110,7 +110,7 @@ tasting again and again
 
 the courtesans' lips,
 red like coral
-rubbed by many petals,
+from the touch of many lips,
 
 as though each one
 were itself a flower-petal!
