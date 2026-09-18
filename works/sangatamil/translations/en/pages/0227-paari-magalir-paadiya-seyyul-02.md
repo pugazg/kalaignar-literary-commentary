@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "பாரி மகளிர் பாடிய செய்யுள்"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -14,9 +14,10 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 
 —but Kapilar,
 lord among poets,
-blocked their eyes from them
+hid those women
+from their eyes
 and resolved
-to protect those women
+to protect them
 under his own responsibility.
 
 There are people
