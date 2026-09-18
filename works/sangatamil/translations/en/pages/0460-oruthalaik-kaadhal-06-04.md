@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 6"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -15,7 +15,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 “Why still be shy, girl?
 Before the young bull who bears the sword,
 fish-eyed maiden, if you stand and sing a song of praise,
-it will become a Purananuru-like song that conquers time, dear!
+it will become a *puram* song that conquers time, dear!
 Go without hesitation into the middle of the assembly!
 After hearing your song, the man who stole your heart
 will not remain unmoved,” her friend encouraged her.

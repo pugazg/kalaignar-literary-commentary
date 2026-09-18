@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 8"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -26,7 +26,7 @@ Seeing those words, Tittan said:
 I shall not give my daughter to the king called Katti.
 
 That is my final word.
-Go and tell your lord today itself!’
+Go and tell your lord today!’
 
 Hearing the Chola's words,
 King Katti's anger rose to his head.

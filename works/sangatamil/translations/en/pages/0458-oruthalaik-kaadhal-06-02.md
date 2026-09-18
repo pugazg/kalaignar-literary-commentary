@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 6"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -21,7 +21,7 @@ Of another warrior who had vanished upon the field,
 they would place a garland upon his sword and hand it over,
 telling the household the news indirectly.
 Whether parents who had lost a son
-or a wife who had lost her auspicious married state,
+or a wife widowed by battle,
 they would master the storm within their hearts
 and say the land's fame had risen—
 only their eyes would show grief;

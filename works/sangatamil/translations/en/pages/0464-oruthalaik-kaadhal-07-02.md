@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 7"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -34,7 +34,7 @@ he asked, “Do you understand why I have come?”
 She:
 
 “Honey is sweet! A scorpion's venom burns!
-Which of these two have you come seeking
+Which of these two have you come
 to give me?
 For the farmer who looks to the sky and yearns,
 is the reward only a dry wind,

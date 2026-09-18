@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 8"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -22,7 +22,7 @@ like the mountain-cave where the tiger once dwelt, child!”
 Hearing Kaavarp Penn's reply,
 Narkannai set out toward the red battlefield.
 But the mother stopped her
-and ordered her to stay in her house before leaving.
+and asked her to stay at her house before setting out.
 Narkannai did not refuse!
 
 “Eat, rest and sleep.

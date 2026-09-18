@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 7"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -43,9 +43,9 @@ separated from you,
 this woman will not live even a single day now!”
 
 Through the sad music of Narkannai,
-the chariot that had begun moving beside the house
-heard Narkilli's command;
-the horses broke into a four-legged gallop,
+the chariot began moving beside the house.
+At Narkilli's command,
+the horses broke into a gallop,
 and in a moment it flew down the middle of the street and vanished!
 Ignoring the dust raised by the horses,
 she ran behind it.

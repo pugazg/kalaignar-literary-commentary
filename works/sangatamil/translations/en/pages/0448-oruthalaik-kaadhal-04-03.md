@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 4"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -49,7 +49,7 @@ Without raising the head she had bowed in shyness, Narkannai said,
 for the victory of the poem-palm-leaf you gave Narkilli,” he said.
 
 Placing the flower of her hand upon the flower of his feet, she bowed:
-“May the Karantai battle be victorious!”
+“May the Karandhai battle be victorious!”
 
 “What doubt can there be?” said Saathanthai,
 and at once composed a poem.

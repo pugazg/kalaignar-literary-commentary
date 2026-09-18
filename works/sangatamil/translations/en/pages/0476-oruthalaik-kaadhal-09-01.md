@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 9"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -47,5 +47,5 @@ give me your daughter!’
 When death is the end that awaits everyone,
 what does it matter whether it comes in youth or old age?
 Whenever it comes, this is my principle:
-the honour that lives with the life running unfailingly in this body
-must not climb the funeral pyre together with that life!”
+when life inevitably leaves this body,
+honour must not climb the funeral pyre with it!”

@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 8"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -22,7 +22,7 @@ and the silver hairs of his beard held the white pearls of those tears.
 Seeing the poet tremble as though blame itself had come upon him,
 Narkannai mixed calm into her words and began to speak:
 
-“No, poet; give no answer to pain.
+“No, poet; bid farewell to your sorrow.
 Saathanthai shall be a deathless father to Tamil!
 Heaps of gold and jewels, mountains of diamonds, vaidurya and pearls,
 lofty mansions and towers, fortress-gates,

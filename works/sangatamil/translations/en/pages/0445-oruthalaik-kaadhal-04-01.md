@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 4"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -19,7 +19,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 People of Aamur, rise roaring for battle!
 Let the fortress drums of Mukkaval Nadu thunder!
 
-Against the enemy who plants a foot upon our soil beating the tongue-drum,
+Against the enemy who sets foot upon our soil beating the drum of boastful words,
 let us beat the war-drum and reduce them to a mound of dust!
 
 We took form as embryos in a woman's womb;
