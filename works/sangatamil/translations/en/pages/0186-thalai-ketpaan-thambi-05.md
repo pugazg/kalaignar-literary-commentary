@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "தலை கேட்டான் தம்பி!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -59,7 +59,7 @@ that his elder brother
 had given his life.
 
 The younger brother's heart,
-now white and open,
+now pure and open,
 wailed aloud!
 
 “Even if my life

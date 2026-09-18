@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "இசையாகிவிட்டவள்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -75,7 +75,7 @@ In just that way,
 the heroine
 is beside you
 without leaving
-even for an atom's time,
+even for an instant,
 
 yet you behave
 
