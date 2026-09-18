@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed **2026-09-18**: Kuraloviyam remains closed; Sangath Tamil Gates **A–I are COMPLETE / PASS** and the Tamil archival pipeline is **CLOSED**; the separately scoped **maintained English project translation is ACTIVE** with Drafts D1–D13 scans **1–481 COMPLETE / PASS** and final Draft D14 scans **482–497 next**.
+Last refreshed **2026-09-18**: Kuraloviyam remains closed; Sangath Tamil Gates **A–I are COMPLETE / PASS** and the Tamil archival pipeline is **CLOSED**; the separately scoped **maintained English project translation is ACTIVE** with first-pass Drafts D1–D14 scans **1–497 COMPLETE / CLOSED** and Source-Check SC1 scans **1–37 next**.
 
 ## Repository
 
@@ -63,7 +63,7 @@ The mixed page-level statuses are intentional. Gate C2 resolved all recorded Gat
 
 **Exact Tamil archival activity: none — Sangath Tamil archival pipeline closed.**
 
-**Exact downstream activity: maintained English Draft D14 — scans 482–497 / final 16-page first-pass remainder.** D1–D13 are closed at **481/497** with **480 draft + 1 source-limited (scan 8)**.
+**Exact downstream activity: maintained English Source-Check SC1 — scans 1–37.** First-pass drafting is **COMPLETE / CLOSED 497/497** with **496 draft + 1 source-limited (scan 8)**.
 
 English controls: `works/sangatamil/translations/en/README.md`, `TRANSLATION_GUIDE.md`, `TRANSLATION_STATUS.md`, and `GLOSSARY.md`.
 
@@ -221,12 +221,12 @@ Durable B20 closure: final scans 476–497 completed with 7 page records changed
 The Tamil archival workflow is closed. Continue only the separately scoped maintained-English layer.
 
 1. fetch live `main`;
-2. read `works/sangatamil/translations/en/TRANSLATION_GUIDE.md`, `GLOSSARY.md`, `TRANSLATION_STATUS.md`, and `DRAFT_D13_REPORT.md`;
-3. confirm D1–D13 are **COMPLETE / PASS through scan 481** and the D13 compare is **19 commits / exactly 37 English page files / 0 canonical Tamil page changes**;
-4. draft **D14 scans 482–497**, the final **16-page** first-pass remainder;
-5. preserve the direct **481→482** continuation in `ஒருதலைக் காதல் — 9` and preserve scan **497** as the back-cover/source endpoint;
-6. after D14, create the D14 closure report and synchronize all maintained-English controls to **497/497 first-pass drafting COMPLETE / CLOSED**;
-7. do not begin source-check until D14 closes first-pass drafting;
+2. read `works/sangatamil/translations/en/TRANSLATION_GUIDE.md`, `GLOSSARY.md`, `TRANSLATION_STATUS.md`, and `DRAFT_D14_REPORT.md`;
+3. confirm D1–D14 first-pass drafting is **COMPLETE / CLOSED 497/497** and D14's exact page-layer compare is **16 commits / exactly 16 English page files / 0 canonical Tamil page changes / 0 non-English-page changes**;
+4. process **English Source-Check SC1 — scans 1–37** against the maintained canonical Tamil record paragraph-by-paragraph / block-by-block;
+5. check omissions, additions, meaning drift, names, titles, quotations, verse blocks, source labels, page function, provenance and cross-page continuity; preserve scan **8** as description-only / `source-limited`;
+6. promote only passing English `draft` pages to `source-checked`; do not reconstruct the handwritten body on scan 8;
+7. create the SC1 closure report, synchronize maintained-English controls, and audit the exact changed-file set;
 8. change **0 canonical Tamil page files**.
 
 Whole-volume word-for-word Tamil scan verification remains **NOT CLAIMED**. English workflow progress must not be interpreted as a Tamil status promotion.
