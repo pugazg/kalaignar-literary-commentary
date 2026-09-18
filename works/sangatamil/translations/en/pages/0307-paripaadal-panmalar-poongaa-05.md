@@ -6,16 +6,16 @@ work: "sangatamil"
 section: "பரிபாடல்- பன்மலர்ப் பூங்கா!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
 ---
 
-—an image of a *vengai* tree
-painted on the waterside pavilion.
+—a painting of a *vengai* tiger
+on the waterside pavilion.
 Because the painting had been made
-so lifelike that it resembled a real *vengai*,
+so lifelike that it resembled a real tiger,
 and because the female elephant's own heart
 was clouded by the intoxication of pleasure,
 she feared that a living tiger itself
