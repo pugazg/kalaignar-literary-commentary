@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "மாவீரன் கண்ட மலர்கள்"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -70,8 +70,7 @@ as though scattered there by the handful!
 
 > The iluppai flowers blooming thick  
 > on both sides come toward him;  
-> like the sharp tips of arrows packed in quivers  
-> upon the shoulders of victorious archers—
+> bow-bearing, victory-winning—
 
 <!-- The quoted comparison continues after the scan-52 illustration and resumes on scan 53. -->
 <!-- Source scan page: 51; printed page: 36 -->
