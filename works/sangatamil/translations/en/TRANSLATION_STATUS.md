@@ -153,8 +153,9 @@ Current English page inventory:
 - scans **482–497**
 - English pages — **16/16**
 - page-layer base — `ce6178a0235a74395272b1d77381462885df0ec4`
-- page-layer endpoint — `bbd46a1c5a354ddd089548ab0e8d3702f3ebabed`
-- exact page-layer compare — **16 commits / exactly 16 English page files only / 0 canonical Tamil page changes / 0 non-English-page changes**
+- page-layer endpoint — `fa4f316b4ef1bd16b84cde035e740ab463c198ba`
+- exact page-layer compare — **17 commits / exactly 16 English page files only / 0 canonical Tamil page changes / 0 non-English-page changes**
+- post-draft page repair — **scan 486 grammar only** at `fa4f316b4ef1bd16b84cde035e740ab463c198ba`
 - D14 state — **16 draft / 0 source-limited / 0 blocked**
 - first-pass drafting — **COMPLETE / CLOSED 497/497**
 - durable report — `DRAFT_D14_REPORT.md`
