@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "நெஞ்சம் இனிக்கிறது; தஞ்சம்புகத் துடிக்கிறது!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -45,7 +45,7 @@ to seek refuge in you!
 > a seated cripple sees a great honeycomb;
 > cupping his palm like a little bowl and sitting below,
 > he points toward it and licks his empty hand.
-> So too, though the beloved gives nothing and does not love,
+> So too, though the beloved does not desire her and shows no affection,
 > to see him many times is sweet to the heart!”
 
 *
