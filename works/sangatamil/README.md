@@ -211,22 +211,23 @@ Controls:
 - `translations/en/EDITORIAL_REVIEW_ER3_REPORT.md`
 - `translations/en/EDITORIAL_REVIEW_ER4_REPORT.md`
 - `translations/en/EDITORIAL_REVIEW_ER5_REPORT.md`
+- `translations/en/EDITORIAL_REVIEW_ER6_REPORT.md`
 
 Current maintained-English state:
 
 - page records — **497/497**
 - `draft` — **0**
-- `source-checked` — **312**
-- `editorial-reviewed` — **184**
+- `source-checked` — **275**
+- `editorial-reviewed` — **221**
 - `source-limited` — **1** (scan 8)
 - not yet created — **0**
 - source-check — **497/497 reviewed — SC1+SC2+SC3+SC4+SC5+SC6+SC7+SC8+SC9+SC10+SC11+SC12+SC13+SC14 COMPLETE / CLOSED**
 - glossary reconciliation — **497/497 reviewed — GR1+GR2+GR3+GR4+GR5+GR6+GR7+GR8+GR9+GR10+GR11+GR12+GR13+GR14 COMPLETE / CLOSED**
-- editorial review — **185/497 reviewed — ER1+ER2+ER3+ER4+ER5 COMPLETE / PASS (184 editorial-reviewed + scan 8 source-limited)**
+- editorial review — **222/497 reviewed — ER1+ER2+ER3+ER4+ER5+ER6 COMPLETE / PASS (221 editorial-reviewed + scan 8 source-limited)**
 - canonical Tamil page changes from English drafting — **0**
 
 This downstream layer does **not** reopen or mass-promote the canonical Tamil records and does not change the declaration that whole-volume word-for-word scan verification is not claimed.
 
 ## Exact next activity
 
-**English Editorial Review ER6 — scans 186–222.** ER1 scans **1–37**, ER2 scans **38–74**, ER3 scans **75–111**, ER4 scans **112–148**, and ER5 scans **149–185 are COMPLETE / PASS**. Continue source-faithful editorial review; promote passing `source-checked` pages to `editorial-reviewed`, preserve scan 8 as `source-limited`, and change **0 canonical Tamil page files**.
+**English Editorial Review ER7 — scans 223–259.** ER1 scans **1–37**, ER2 scans **38–74**, ER3 scans **75–111**, ER4 scans **112–148**, ER5 scans **149–185**, and ER6 scans **186–222 are COMPLETE / PASS**. Continue source-faithful editorial review; promote passing `source-checked` pages to `editorial-reviewed`, preserve scan 8 as `source-limited`, and change **0 canonical Tamil page files**.

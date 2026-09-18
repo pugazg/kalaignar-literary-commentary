@@ -66,11 +66,11 @@ Translate only the maintained Tamil archive. Preserve the work's own order, quot
 - Draft D14 scans **482–497 — COMPLETE / PASS**
 - English page records — **497/497**
 - first-pass drafting — **497/497 — COMPLETE / CLOSED**
-- current English state — **0 `draft` + 312 `source-checked` + 184 `editorial-reviewed` + 1 `source-limited` (scan 8)**
+- current English state — **0 `draft` + 275 `source-checked` + 221 `editorial-reviewed` + 1 `source-limited` (scan 8)**
 - not yet created — **0**
 - source-check — **497/497 reviewed — SC1+SC2+SC3+SC4+SC5+SC6+SC7+SC8+SC9+SC10+SC11+SC12+SC13+SC14 COMPLETE / CLOSED**
 - glossary reconciliation — **497/497 — GR1+GR2+GR3+GR4+GR5+GR6+GR7+GR8+GR9+GR10+GR11+GR12+GR13+GR14 COMPLETE / CLOSED**
-- editorial review — **185/497 reviewed — ER1+ER2+ER3+ER4+ER5 COMPLETE / PASS (184 editorial-reviewed + scan 8 source-limited)**
+- editorial review — **222/497 reviewed — ER1+ER2+ER3+ER4+ER5+ER6 COMPLETE / PASS (221 editorial-reviewed + scan 8 source-limited)**
 - release-ready — **0/497**
 - blocked — **0**
 - durable D1 report — `DRAFT_D1_REPORT.md`
@@ -120,5 +120,6 @@ Translate only the maintained Tamil archive. Preserve the work's own order, quot
 - durable ER3 report — `EDITORIAL_REVIEW_ER3_REPORT.md`
 - durable ER4 report — `EDITORIAL_REVIEW_ER4_REPORT.md`
 - durable ER5 report — `EDITORIAL_REVIEW_ER5_REPORT.md`
+- durable ER6 report — `EDITORIAL_REVIEW_ER6_REPORT.md`
 
-Exact next activity: **English Editorial Review ER6 — scans 186–222**. Continue the same source-faithful editorial review, improve readability and consistency only where source meaning remains intact, consult canonical Tamil whenever an edit could alter meaning, promote passing `source-checked` pages to `editorial-reviewed`, and change **0 canonical Tamil page files**.
+Exact next activity: **English Editorial Review ER7 — scans 223–259**. Continue the same source-faithful editorial review, improve readability and consistency only where source meaning remains intact, consult canonical Tamil whenever an edit could alter meaning, promote passing `source-checked` pages to `editorial-reviewed`, and change **0 canonical Tamil page files**.
