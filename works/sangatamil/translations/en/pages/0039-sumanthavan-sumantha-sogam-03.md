@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "சுமந்தவள் சுமந்த சோகம்!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 source_tamil_visual_fidelity: "verified"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -47,8 +47,8 @@ I feel your teasing pouring in
 like the medicine of cultivated Tamil.
 
 I have not forgotten the bull-like son  
-before whom this blind old woman once bowed  
-after touching his hand.
+who touched the hand of this blind old woman,  
+bowed, and went on his way.
 
 His body was like the tender shoot  
 of a mango sapling rising from the soil.
