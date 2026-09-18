@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "கள் உண்ட கடுவன்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -33,7 +33,7 @@ Yet he wondered: who had brewed for the *kaduvan*
 that *theral* which makes the dark-clouded sky seem to spin,
 the water-filled earth seem to fly,
 and comes like a breeze riding a chariot
-to root itself in memory and make it stagger?
+to take root in the mind and make it reel?
 What fruit or tree-bark had been used
 to raise such fierce intoxication
 and make him forget the world?

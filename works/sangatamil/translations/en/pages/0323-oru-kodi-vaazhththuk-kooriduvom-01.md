@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒரு கோடி வாழ்த்துக் கூறிடுவோம்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -22,7 +22,7 @@ in precious Tamil.
 
 This was the same poet who, for singing *Pattinappalai*
 on Karikal Valavan,
-received sixteen hundred-thousand pieces of gold as his reward.
+received 1.6 million in gold as his reward.
 These two long poems of the *Pattuppattu*
 speak of the culture and way of life of the ancient Tamils.
 They console and guide the mind, saying:

@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "வீரனைப் பாடிய சேரன்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -24,7 +24,7 @@ bow-force or chariot-force came against him,
 defeat before him was certain.
 He made the flag of victory fly
 from the forehead of Karur's fort,
-yet he was not a man accustomed to pridefully claim
+yet he was not given to claiming with pride
 that such fame came from his ability alone.
 
 Once, in a military campaign,

@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "முரசு கட்டிலில் மோசுகீரனார்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -19,7 +19,7 @@ so he looked around,
 wondering whether there was a place where he could lie down.
 
 He saw a cot, filled with white flowers,
-on which the warrior's drum was placed.
+on which the war-drum was placed.
 Not knowing that it was the cot
 for the drum beaten on battlefields running with blood,
 the great poet lay down upon it

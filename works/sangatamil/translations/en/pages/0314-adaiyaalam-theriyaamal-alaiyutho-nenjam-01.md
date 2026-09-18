@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "அடையாளம் தெரியாமல் அலையுதோ நெஞ்சம்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -44,6 +44,6 @@ Give me leave—with your eyes and with your words.’
 So he spoke when he journeyed away
 as one among the Chera army's warriors.
 And my heart, which had declared
-that it would not remain apart from him even for an atom of time—
+that it would not remain apart from him even for an instant—
 
 <!-- The sentence is interrupted by illustration scan 315 and resumes on scan 316. -->

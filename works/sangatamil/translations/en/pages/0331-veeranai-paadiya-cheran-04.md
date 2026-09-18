@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "வீரனைப் பாடிய சேரன்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -24,7 +24,7 @@ said the old man.
 “My steel-hearted warrior,
 to defeat the army that came against him,
 without the slightest hesitation even to give his precious life,
-received javelins, spears and swords upon himself.
+bore the blows of javelins, spears and swords.
 Though countless arrows swarmed over his body
 and split his chest in two,
 though he fell,

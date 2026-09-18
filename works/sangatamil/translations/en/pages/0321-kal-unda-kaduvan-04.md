@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "கள் உண்ட கடுவன்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -32,7 +32,7 @@ Warmed by the sun's rays,
 it naturally becomes liquor,
 unexpectedly producing a delightful intoxication,
 so that one might joyfully leap up
-and call it ‘self-made *theral*.’
+and call it ‘naturally formed *theral*.’
 A male monkey, thinking it mere water,
 drinks it, grows dizzy and loses awareness.
 Unable to climb the richly fragrant sandalwood tree

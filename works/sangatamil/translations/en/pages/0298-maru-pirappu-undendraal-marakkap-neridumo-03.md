@@ -6,14 +6,14 @@ work: "sangatamil"
 section: "மறு பிறப்பு உண்டென்றால் மறக்க நேரிடுமோ?"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
 ---
 
 If half the heart were cut away and parted,
-death itself would be the nature of life.
+death is simply the nature of life.
 We were like one heart; but he was
 the rising ray, and he vanished in the west.
 Why has he not risen again,
@@ -26,8 +26,8 @@ Yet before giving up life there is one fear.
 They say there is another birth. Very well—
 what use is any birth to me?
 I have given myself over to him.
-Will that next birth too grant me
-this same birth as a woman,
+In that next birth too,
+will I be granted this same birth as a woman,
 so that I may live without forgetting him?
 Thinking so, I suffer without strength;
 and because I fear even death,
