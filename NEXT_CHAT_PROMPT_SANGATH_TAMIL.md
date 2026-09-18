@@ -191,7 +191,8 @@ Cumulative English state:
 
 - page records — **497/497**
 - `draft` — **0**
-- `source-checked` — **496**
+- `source-checked` — **460**
+- `editorial-reviewed` — **36**
 - `source-limited` — **1** (scan 8)
 - not yet created — **0**
 - source-check — **497/497 reviewed — COMPLETE / CLOSED**
@@ -307,7 +308,7 @@ Requirements:
 - do not import published English Sangam renderings, web translations, external editions or remembered conventional wording;
 - do not silently repair canonical Tamil wording during English review;
 - use this gate for source fidelity, not unrelated stylistic polishing;
-- do **not** change English page statuses during glossary reconciliation; passing pages remain `source-checked`, and scan 8 remains `source-limited`;
+- treat editorial status promotion as part of this gate: passing `source-checked` pages move to `editorial-reviewed`; scan 8 remains `source-limited`;
 - improve readability, recurring phrasing, names, terminology, quoted verse presentation and source-label consistency only where source meaning remains intact; consult canonical Tamil whenever an edit could alter meaning;
 - promote passing `source-checked` pages in scans **38–74** to `editorial-reviewed`; preserve scan **8** as `source-limited`; create the ER2 closure report and synchronize maintained-English controls;
 - audit the exact changed-file set;
