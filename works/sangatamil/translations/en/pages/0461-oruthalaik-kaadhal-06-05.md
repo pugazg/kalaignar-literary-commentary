@@ -30,7 +30,7 @@ Narkannai finished her song and trembled as she looked at her mother!
 “Why fear when modesty is with you, maiden?” said the venerable poet,
 turning to the assembly:
 “This chaste lamp of her lineage stands before you.
-Perungozhi Nayakan has come forward to offer her
+Perungozhi Naaykan has come forward to offer her
 as a gift for the victory won by Prince Narkilli!
 I know that the maiden desires it!
 Her father has agreed without objection!

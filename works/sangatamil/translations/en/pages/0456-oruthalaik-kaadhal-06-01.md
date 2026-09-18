@@ -18,10 +18,10 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 
 Having cut clean through the long tail of the formidable enemy,
 and gathered victory in a battle fought for two days,
-with the soil of Mukkaval country trembling to the drums
+with the soil of Mukkaval Nadu trembling to the drums
 and trumpet-calls ringing through all eight directions,
 the people of Aamur welcomed him with blessings:
-“Thiththan's son is returning!”
+“Tittan's son is returning!”
 
 There was no sand upon the streets—only flowers!
 There were no clouds across the sky—only flags!

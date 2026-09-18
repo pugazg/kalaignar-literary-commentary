@@ -43,7 +43,7 @@ and stood bowing to the assembly!
 
 Taking up Tamil like a pearl from the deep sea,
 she offered greetings to the lord of Aamur,
-touched the feet of the eminent scholar Sathanthai and received his blessing,
+touched the feet of the eminent scholar Saathanthai and received his blessing,
 and rejoiced to behold, with fish-swimming eyes,
 the prince of Uraiyur who had defeated the enemy.
 She sang an example of his fearless heart,

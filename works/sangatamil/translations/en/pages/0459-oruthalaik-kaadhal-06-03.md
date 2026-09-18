@@ -27,11 +27,11 @@ Thus,
 taking this vow within his heart,
 he waved to the flood-like mass of people shouting blessings
 and entered the pearl pavilion
-where Mukkaval country celebrated its victory!
+where Mukkaval Nadu celebrated its victory!
 
 The lord of Aamur welcomed him in a close embrace:
 “Fearless-hearted one! You will create a golden age in Chola land!”
-Poet Sathanthai came near, kissed the crown of his head,
+Poet Saathanthai came near, kissed the crown of his head,
 and said, “You will shine as diamond lettering in history!”
 Then the poet looked all around:
 “Where is Narkannai? I still do not see her!”
@@ -39,12 +39,12 @@ Among a thousand people, at the edge of the hall,
 Narkannai sat with her friend!
 
 “Why are you looking for her, revered poet?
-First tell us that,” said Perundevi,
+First tell us that,” said Perunthevi,
 who had become mother to Narkannai, the kuvalai flower.
 “I know why the poet calls for her;
 do not ask something contrary and confuse matters,”
-intervened Perungozhinaaykan, stopping her
-and silencing Perundevi Naachiyar with a gesture.
+intervened Perungozhi Naaykan, stopping her
+and silencing Perunthevi Naachiyar with a gesture.
 
 “Because Narkannai is a fine queen among Tamil poets,
 I called her from a heart flowering with affection,
