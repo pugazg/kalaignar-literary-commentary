@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "துணை நின்றாள் தோழி!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -16,7 +16,7 @@ Just so,
 because you have delayed the day
 
 on which you will wed this heroine,  
-radiant like a lotus,
+who shines like a doll,
 
 elderly men—like those cranes—  
 are coming ahead of you to marry her!

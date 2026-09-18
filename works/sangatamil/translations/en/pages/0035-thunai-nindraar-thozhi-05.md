@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "துணை நின்றாள் தோழி!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -51,7 +51,7 @@ With his eyes he asked,
 “Why needlessly stop a bee  
 that is about to drink honey?”
 
-“This blame is too grave,” she said.
+“This blame is too grave,” he said.
 
 “O man with long shoulders capable of lifting a hill!  
 O man with the power to conquer an enemy!

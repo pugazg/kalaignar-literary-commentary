@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "துணை நின்றாள் தோழி!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -42,12 +42,11 @@ She bowed her head and nodded, “Yes,”
 shy as her cheeks reddened like kumkum;
 
 with the big toe of her foot she scratched a line  
-and drew a little pattern, while stolen delight filled her heart.
+and drew a little pattern, while overwhelming delight filled her heart.
 
-Touching the swelling beauty of her back,  
-curved like the bowl of a veena,
-
-the hero, filled with longing, said:
+The hero, filled with the heat of longing,  
+gave a pat to the swelling beauty of her rear,  
+shaped like the bowl of a veena, and said:
 
 “Do not grieve in vain, my dear!  
 I swear by the moon travelling through the sky:
