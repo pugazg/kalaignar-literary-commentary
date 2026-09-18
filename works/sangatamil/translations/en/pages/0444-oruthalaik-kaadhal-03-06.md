@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 3"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -14,8 +14,8 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 
 yet those warriors will come before my lord
 only to lose their own strength!
-As the warriors of the opposing side torment themselves,
-is it right that my lord should torment me too?”
+Just as my lord torments the warriors of the opposing side,
+is it right that he should torment me too?”
 
 Thus,
 Narkilli saw not only poetic grace
