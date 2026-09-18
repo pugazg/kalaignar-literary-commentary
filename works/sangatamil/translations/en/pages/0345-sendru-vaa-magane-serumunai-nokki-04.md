@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "சென்று வா மகனே; செருமுனை நோக்கி!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -16,7 +16,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 
 The Tamil lotus, a chaste woman who still lived after her very life had gone, cried aloud. This family had been a cluster of flowers! She cursed and reviled cruel death, which had plucked it apart without even plucking it gently. “What remains now?” she cried. “The fruit itself has rotted away!” and she wailed.
 
-Showing eyes that surpassed dew in coolness, speaking words tall as a palmyra, she wept: “Are all the days when we sang poems in the bridal chamber now mere earth? Is this now an eye that will never sleep?” She worshipped toward the battlefield where her beloved's body lay.
+Showing eyes that surpassed dew in coolness, speaking words tall as a palmyra, she wept: “Have all the days when we sang poems in the bridal chamber now turned to dust? Will these eyes never sleep again?” She worshipped toward the battlefield where her beloved's body lay.
 
 *
 

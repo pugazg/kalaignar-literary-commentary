@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "புதுப் பாட்டுப் புலவன்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -18,7 +18,7 @@ At one house he heard the wedding drum sound; at another he heard the beat of th
 
 Though living and dying upon the earth are natural to human beings, he understood that there were two different causes behind each of the scenes he had witnessed.
 
-The wedding drum split the ears. Mango, jackfruit and banana filled the auspicious wedding pavilion. The bride and groom rode in procession on a jewelled chariot. Heaps of meat like a mountain and jars of liquor stood before guests in the mansion. Yet in the street, a crowd of poor people—nothing but bone and skin, without even a sesame-grain's worth of flesh—sat exhausted by hunger, eyes half closed as if in penance, waiting for the saliva-stained leaf-plates to be thrown out with whatever scraps remained on them. Pakkudukkai Nankaniyar saw that scene.
+The wedding drum split the ears. Mango, jackfruit and banana filled the auspicious wedding pavilion. The bride and groom rode in procession on a jewelled chariot. Heaps of meat like a mountain and jars of liquor stood before guests in the mansion. Yet in the street, a crowd of poor people—nothing but bone and skin, without even a sesame-grain's worth of flesh—sat exhausted by hunger, eyes half closed as if in penance, waiting for the used leaf-plates to be thrown out with whatever scraps remained on them. Pakkudukkai Nankaniyar saw that scene.
 
 Dewdrops came to the flowers of his eyes. Hearing that another pitiable story had unfolded nearby, he went there.
 

@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "தமிழ் நெஞ்சங்கள் போற்றிய தலையாலங்கானத்தான்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -20,7 +20,7 @@ As arrows flew against fierce enemies, the enemy elephants suddenly collapsed. W
 
 Many commanders died and fell. Beside them their sons too lay dead. Seeing this, many old women, the skin of their foreheads wrinkled, stood around and wept and lamented; yet they also took pride in having borne heroic sons, asking whether there could be any victory greater than this.
 
-Mangudi Marudhanar, the great poet of Nedunchezhiyan Pandya's court, rejoiced at the prowess of the bull-like Pandya returning crowned with victory after fierce battle. Yet, seeing him revolve continually in his desire to see battle, the poet grew weary.
+Mangudi Marudhanar, the great poet of Nedunchezhiyan Pandya's court, rejoiced at the prowess of the bull-like Pandya returning crowned with victory after fierce battle. Yet, seeing him constantly consumed by the desire for battle, the poet grew weary.
 
 To lessen the great warrior Pandya's thirst for war, Mangudi Marudhanar composed the work *Maduraikkanchi*. In a *Puram* poem he sang:
 

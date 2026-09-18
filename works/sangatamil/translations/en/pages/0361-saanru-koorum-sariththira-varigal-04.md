@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "சான்று கூறும் சரித்திர வரிகள்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -18,7 +18,7 @@ The people of the village would gather together in the public assembly. Each wou
 
 It was this honoured custom that Marudhan Ilanaganar fashioned in Sangam literature so that later generations of humankind might recognize it as lines of history bearing witness!
 
-The eagle and the hawk pulling out the intestines from the body of a bull fallen on the battlefield—the poet makes it appear before our eyes like a hand reaching into the pot and drawing out the palm-leaf ballots cast for a village-welfare council carrying out its duty!
+The eagle and the hawk pulling out the intestines from the body of a warrior fallen on the battlefield—the poet makes it appear before our eyes like a hand reaching into the pot and drawing out the palm-leaf ballots cast for a village-welfare council carrying out its duty!
 
 Though this is a single *akam* poem, how many, how many pieces of news are caught within it!
 

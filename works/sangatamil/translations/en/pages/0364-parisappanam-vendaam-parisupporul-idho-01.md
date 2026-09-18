@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "பரிசப்பணம் வேண்டாம்... பரிசுப்பொருள் இதோ!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -22,7 +22,7 @@ In the custom of those days, if they called it “breast-price,” it is bound t
 
 Once it has been firmly decided, “This is the bride for this man,” the formal gift must be made, together with a purse of money, and offered with affection to the bride's family!
 
-In the *Mullai Kali* of *Kalithokai*, a father, it seems, thumps his shoulder and announces that he is ready to give his shapely flowering-creeper of a daughter without any bride-price. When we read the Tamil poet called Cholan Nalluruthiran telling it with such flavour, we taste a sweetness surpassing the bulb of a jackfruit!
+In the *Mullai Kali* of *Kalithokai*, a father, it seems, thumps his shoulder and announces that he is ready to give his shapely flowering-creeper of a daughter without any bride-price. When we read the Tamil poet called Cholan Nalluruthiran telling it with such flavour, we taste a sweetness surpassing a jackfruit segment!
 
 Listen to what that father of a pearl-like daughter says about the feeling with which the young bull of a man must take on the task of subduing a fierce-horned bull that gores, tears open the gut, and kills!
 

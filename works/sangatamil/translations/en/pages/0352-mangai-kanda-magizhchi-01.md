@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "மாமழை கண்ட மகிழ்ச்சி!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -20,7 +20,7 @@ A stag, seeing his doe suffer without sweet shade, gave her his own shadow while
 
 Like the two eyes of a beloved woman, dried after even the tears she shed in the pain of separation from the man with whom she had once played in delight had run out, the ponds whose banks rose like hills dried into bare ground for want of clouds gathering and pouring rain.
 
-The birds that had once come seeking food and rejoiced there now decided that it would be better to seek another place. They set out, beat their wings, wheeled in changed directions, and circled, searching for a pond that still held abundance.
+The birds that had once come seeking food and rejoiced there now decided that it would be better to seek another place. They set out, beat their wings, changed direction and circled, searching for a pond that still held abundance.
 
 Because no water gathered and the field-soil could not be prepared, the plough slept, useless for tilling or sowing. At the very moment when the cry “famine, famine everywhere” pierced the heart like a sharp arrow—
 

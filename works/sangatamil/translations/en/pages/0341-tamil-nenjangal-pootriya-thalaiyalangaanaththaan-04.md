@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "தமிழ் நெஞ்சங்கள் போற்றிய தலையாலங்கானத்தான்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -18,7 +18,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 
 “Stand as a generous giver and grant life to those who have nothing!” he said.
 
-“Drink the clear liquor offered by bracelet-wearing women; live with joy and peace throughout your life, and shine so that the world praises you!” he said.
+“Drink the *theral* offered by bracelet-wearing women; live with joy and peace throughout your life, and shine so that the world praises you!” he said.
 
 “Know that those who preserve right conduct are the ones who truly live in eminence, and that those without it are not to be called people who live in this world!” he said.
 
