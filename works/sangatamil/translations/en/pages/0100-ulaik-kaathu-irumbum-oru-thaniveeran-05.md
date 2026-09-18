@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "உலைக் களத்து இரும்பும் ஒரு துளிநீரும்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -70,9 +70,9 @@ and sent him off—
 
 the news of triumph.
 
-Upon the wounded king's chest  
-she pressed without rest  
-with the mound of her body;
+Against the wounded king's chest  
+she pressed the mound of her body  
+without pause;
 
 every honourable wound  
 from which blood still seeped

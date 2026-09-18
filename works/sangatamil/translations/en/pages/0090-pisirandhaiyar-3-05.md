@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "பிசிராந்தையார் 3"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -33,7 +33,7 @@ grandson and granddaughter.
 > ‘How have so many years passed  
 > without grey hair appearing?’
 >
-> My worthy wife and my children are full in wisdom;  
+> My worthy wife and my children are rich in wisdom;  
 > my younger attendants are as I would wish them to be.
 >
 > My king does no wrong and protects us.

@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "பிசிராந்தையார் 4"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -68,7 +68,7 @@ Wise ones! Know this!”
 
 Thus answered the king.
 
-The next day he released his life  
+The next day he gave up his life  
 and became a hero-stone.
 
 Though Pisiranthaiyar came late,  
