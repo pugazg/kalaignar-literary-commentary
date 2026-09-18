@@ -16,7 +16,7 @@ He said, “In a land where the unlearned live, every other abundance is barren!
 
 Teachers impart the education that keeps moss from spreading over the heart and makes it clear as crystal. Therefore he strung, like a garland to hang beautifully around Mother Tamil's neck, a *Puram* poem that begins by saying that learned teachers must be protected by helping them in hardship and giving them substantial material support.
 
-Kopperundevi, graceful as a peahen, embraced his shoulder, fondled him, and asked a few questions so that she might understand.
+Kopperunthevi, graceful as a peahen, embraced his shoulder, fondled him, and asked a few questions so that she might understand.
 
 “What does ‘helping in hardship’ mean, my king?” That was her first question.
 

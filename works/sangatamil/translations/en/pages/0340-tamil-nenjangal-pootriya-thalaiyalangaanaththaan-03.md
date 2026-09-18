@@ -20,9 +20,9 @@ As arrows flew against fierce enemies, the enemy elephants suddenly collapsed. W
 
 Many commanders died and fell. Beside them their sons too lay dead. Seeing this, many old women, the skin of their foreheads wrinkled, stood around and wept and lamented; yet they also took pride in having borne heroic sons, asking whether there could be any victory greater than this.
 
-Mangudi Maruthanar, the great poet of Nedunchezhiyan Pandya's court, rejoiced at the prowess of the bull-like Pandya returning crowned with victory after fierce battle. Yet, seeing him revolve continually in his desire to see battle, the poet grew weary.
+Mangudi Marudhanar, the great poet of Nedunchezhiyan Pandya's court, rejoiced at the prowess of the bull-like Pandya returning crowned with victory after fierce battle. Yet, seeing him revolve continually in his desire to see battle, the poet grew weary.
 
-To lessen the great warrior Pandya's thirst for war, Mangudi Maruthanar composed the work *Maduraikkanchi*. In a *Puram* poem he sang:
+To lessen the great warrior Pandya's thirst for war, Mangudi Marudhanar composed the work *Maduraikkanchi*. In a *Puram* poem he sang:
 
 “O Pandya! Behind the elephant force that cuts through the battlefield like a wooden ship cleaving the sea, spear-bearing warriors make hearth-stones of the heads they have severed from sceptre-bearing kings; in a furnace where blood-water boils, they cook the flesh of those slain in war, stir it with shoulders for ladles, and conduct a sacrificial rite with that food!”
 

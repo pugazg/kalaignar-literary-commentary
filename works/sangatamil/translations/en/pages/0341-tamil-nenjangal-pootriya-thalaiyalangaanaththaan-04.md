@@ -22,15 +22,15 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 
 “Know that those who preserve right conduct are the ones who truly live in eminence, and that those without it are not to be called people who live in this world!” he said.
 
-Praised by the gathering of Tamil poets, with every letter of Tamil seeming to honour him, the man of Thalaiyalanganam lived on. That great king lived having received *Maduraikkanchi*, composed and given by Maruthanar. Nakkirar sang and presented *Nedunalvadai*; young Nedunchezhiyan lived long and planted enduring fame in the Tamil land.
+Praised by the gathering of Tamil poets, with every letter of Tamil seeming to honour him, the man of Thalaiyalanganam lived on. That great king lived having received *Maduraikkanchi*, composed and given by Marudhanar. Nakkeerar sang and presented *Nedunalvaadai*; young Nedunchezhiyan lived long and planted enduring fame in the Tamil land.
 
 ## Note:
 
-- *Akananuru* poem 36 — sung by Nakkirar.
+- *Akananuru* poem 36 — sung by Nakkeerar.
 - *Purananuru* poem 25 — sung by Kalladanar.
-- *Purananuru* poem 76 — sung by Idaikkunrur Kilar.
+- *Purananuru* poem 76 — sung by Idaikkunrur Kizhar.
 - *Purananuru* poem 19 — sung by Kudapulaviyanar.
-- *Purananuru* poems 24 and 26 — sung by Mangudi Maruthanar.
+- *Purananuru* poems 24 and 26 — sung by Mangudi Marudhanar.
 
 (This is a gathering of the ideas contained in the poems composed by these distinguished poets about Pandya Nedunchezhiyan, victor of the battle of Thalaiyalanganam.)
 
