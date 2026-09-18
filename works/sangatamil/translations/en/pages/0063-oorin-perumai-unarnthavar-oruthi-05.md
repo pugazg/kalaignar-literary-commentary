@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஊரின் பெருமை உணர்த்தினள் ஒருத்தி!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -48,8 +48,8 @@ heaping thanks upon Veeraiveliyanar!
 > * “In the courtyard, munjai and musundai vines spread thick,  
 > beneath jackfruit shade needing no canopy.  
 > A hunter of elephants had fallen into heavy sleep.  
-> A shy young doe, embraced by a stag,  
-> and another solitary male, released from pursuit, played in delight.  
+> A lone stag, embracing a shy young doe,  
+> revelled and played in another act of union.  
 > Seeing their joyful union, the woman of the house  
 > feared that her husband might wake;  
 > she also feared that the stag might leave the doe.  
