@@ -1,6 +1,6 @@
 # Sangatamil — Maintained English Translation Status
 
-**Status: ACTIVE — GLOSSARY RECONCILIATION GR1–GR13 COMPLETE / PASS**
+**Status: ACTIVE — GLOSSARY RECONCILIATION COMPLETE / CLOSED; EDITORIAL REVIEW ER1 NEXT**
 
 Repository: `pugazg/kalaignar-literary-commentary`  
 Branch: `main`
@@ -31,7 +31,7 @@ English work does not alter or promote those Tamil statuses.
 | Control-layer initialization | **COMPLETE / PASS** |
 | First-pass drafting | **497/497 — D1+D2+D3+D4+D5+D6+D7+D8+D9+D10+D11+D12+D13+D14 COMPLETE / CLOSED** |
 | Source-check | **497/497 reviewed — SC1+SC2+SC3+SC4+SC5+SC6+SC7+SC8+SC9+SC10+SC11+SC12+SC13+SC14 COMPLETE / CLOSED (496 source-checked + scan 8 source-limited)** |
-| Glossary reconciliation | **481/497 — GR1+GR2+GR3+GR4+GR5+GR6+GR7+GR8+GR9+GR10+GR11+GR12+GR13 COMPLETE / PASS** |
+| Glossary reconciliation | **497/497 — GR1+GR2+GR3+GR4+GR5+GR6+GR7+GR8+GR9+GR10+GR11+GR12+GR13+GR14 COMPLETE / CLOSED** |
 | Editorial review | **0/497** |
 | Release-ready | **0/497** |
 
@@ -463,6 +463,19 @@ Current English page inventory:
 - exact compare — **6 commits / 20 changed files total / 19 English pages + `GLOSSARY.md` / 0 Tamil changes / 0 status changes**
 - durable report — `GLOSSARY_RECONCILIATION_GR13_REPORT.md`
 
+### GR14 — COMPLETE / PASS — FINAL REMAINDER
+- scans **482–497**
+- reviewed — **16/16**
+- English page wording changes — **10 page files** (scans 483, 484, 486, 487, 488, 489, 490, 491, 494, 495)
+- glossary control changes — **1 file: `GLOSSARY.md`**
+- page status changes — **0**
+- canonical Tamil changes — **0**
+- page-layer/control base — `b5ee6ffa0c070a45ad52382c1954f8e3e24964f4`
+- endpoint — `302634f7c91bdb1e0e05427e9297b959ba84e388`
+- exact compare — **3 commits / 11 changed files total / 10 English pages + `GLOSSARY.md` / 0 Tamil changes / 0 status changes**
+- durable report — `GLOSSARY_RECONCILIATION_GR14_REPORT.md`
+- cumulative glossary reconciliation — **497/497 COMPLETE / CLOSED**
+
 ## Release interpretation
 
 English review/release status is relative to the maintained canonical Tamil archive.
@@ -475,8 +488,8 @@ Normal page-batched cadence: **37 physical scans**.
 
 ## Exact next activity
 
-**English Glossary Reconciliation GR14 — scans 482–497 — final 16-page remainder.**
+**English Editorial Review ER1 — scans 1–37.**
 
 Compare each maintained-English page with its canonical Tamil page paragraph-by-paragraph / block-by-block. Check omissions, additions, meaning drift, names, titles, quotations, verse blocks, page function, provenance and cross-page continuity.
 
-Complete the final glossary-reconciliation remainder for scans **482–497**. Preserve page statuses; scan 8 remains `source-limited`. Change **0 canonical Tamil page files** and do not import terminology from published translations or web sources.
+Begin editorial consistency review for scans **1–37**. Improve readability only where source meaning remains intact; consult canonical Tamil whenever an edit could alter meaning. Passing `source-checked` pages may move to `editorial-reviewed`; scan 8 remains `source-limited`. Change **0 canonical Tamil page files**.
