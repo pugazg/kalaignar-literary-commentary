@@ -35,7 +35,7 @@ in which Tamil itself seems enthroned
 upon the heads of the three crowned monarchs.
 
 One of those three protectors of Tamil
-was the Chera Irumporai who destroyed Tagadur.
+was the Chera Irumporai who destroyed Thagadoor.
 For Arisil Kizhar's eighth decade in the *Pathitrupathu*,
 praising him and giving him delight,
 the king announced as a gift to the poet

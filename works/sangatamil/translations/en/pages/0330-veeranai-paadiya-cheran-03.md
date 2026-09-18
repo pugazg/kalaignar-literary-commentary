@@ -40,7 +40,7 @@ and walked toward those beating thunderous drums.
 is my son there too?” he asked.
 
 The noble king known in literature
-both as Perunkadungo who sang the Palai
+both as Perungadungko who sang the Paalai
 and as Peruncheral Irumporai who bore the victorious spear
 dismounted from the elephant
 and took both hands of the old man.

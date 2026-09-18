@@ -21,7 +21,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 *
 
 (*Purananuru*: poem 282  
-Poet: Perunkadungo who sang the Palai)
+Poet: Perungadungko who sang the Paalai)
 
 ## Explanation of Meaning:
 

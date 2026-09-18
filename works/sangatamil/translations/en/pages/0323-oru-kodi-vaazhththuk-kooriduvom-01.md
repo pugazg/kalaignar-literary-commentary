@@ -21,7 +21,7 @@ by composing the *Perumpanarruppatai* for him
 in precious Tamil.
 
 This was the same poet who, for singing *Pattinappalai*
-on Karikala Valavan,
+on Karikal Valavan,
 received sixteen hundred-thousand pieces of gold as his reward.
 These two long poems of the *Pattuppattu*
 speak of the culture and way of life of the ancient Tamils.
