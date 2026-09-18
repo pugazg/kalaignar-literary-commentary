@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / MAINTAINED ENGLISH SOURCE-CHECK SC11
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / MAINTAINED ENGLISH SOURCE-CHECK SC12
 
 Continue only from live `main` in `pugazg/kalaignar-literary-commentary`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -31,11 +31,12 @@ Read first:
 15. `works/sangatamil/translations/en/SOURCE_CHECK_SC8_REPORT.md`
 16. `works/sangatamil/translations/en/SOURCE_CHECK_SC9_REPORT.md`
 17. `works/sangatamil/translations/en/SOURCE_CHECK_SC10_REPORT.md`
-18. `works/sangatamil/README.md`
-19. `works/sangatamil/GATE_I_FINAL_CLOSURE.md`
-20. `works/sangatamil/indexes/section-register.md`
-21. `works/sangatamil/indexes/source-citation-register.md`
-22. root `HANDOVER.md`
+18. `works/sangatamil/translations/en/SOURCE_CHECK_SC11_REPORT.md`
+19. `works/sangatamil/README.md`
+20. `works/sangatamil/GATE_I_FINAL_CLOSURE.md`
+21. `works/sangatamil/indexes/section-register.md`
+22. `works/sangatamil/indexes/source-citation-register.md`
+23. root `HANDOVER.md`
 
 Earlier D1–D10 reports remain durable history and may be consulted when needed.
 
@@ -138,15 +139,22 @@ Source-check closed state:
 - SC10 page-layer endpoint — `8ddd15b6dc86a70b96f88f059f5a942afe9fcd84`
 - SC10 exact compare — **8 commits / exactly 37 English page files / 0 canonical Tamil page changes / 0 non-English-page changes**
 - SC10 source-fidelity repairs — **1 English page file** (scan 349 visual orientation)
+- SC11 scans **371–407 — COMPLETE / PASS**
+- SC11 reviewed — **37/37**
+- SC11 result — **37 source-checked**
+- SC11 page-layer base — `40efeae1b50c232f5dd183ec61f4c74d3be3f942`
+- SC11 page-layer endpoint — `81731d0ef091a19f47a53d24ee5978566e6399fe`
+- SC11 exact compare — **8 commits / exactly 37 English page files / 0 canonical Tamil page changes / 0 non-English-page changes**
+- SC11 source-fidelity repairs — **3 English page files** (scans 383, 393, 404)
 
 Cumulative English state:
 
 - page records — **497/497**
-- `draft` — **127**
-- `source-checked` — **369**
+- `draft` — **90**
+- `source-checked` — **406**
 - `source-limited` — **1** (scan 8)
 - not yet created — **0**
-- source-check — **370/497 reviewed**
+- source-check — **407/497 reviewed**
 - canonical Tamil page changes from English drafting — **0**
 
 ## Translation identity
@@ -171,11 +179,11 @@ Normal source-check cadence: **37 physical scans**.
 
 ## Exact next activity
 
-**Source-Check SC11 — scans 371–407.**
+**Source-Check SC12 — scans 408–444.**
 
 Requirements:
 
-- begin at scan **371** and review through scan **407**;
+- begin at scan **408** and review through scan **444**;
 - compare every English page with its matching canonical Tamil page paragraph-by-paragraph / block-by-block;
 - check for omissions, additions, meaning drift, names, titles, dialogue, quoted verse, source labels, provenance, visual/page function and cross-page continuity;
 - preserve source order and meaningful repetition;
@@ -183,7 +191,7 @@ Requirements:
 - do not silently repair canonical Tamil wording during English review;
 - use this gate for source fidelity, not unrelated stylistic polishing;
 - passing `draft` pages may move to `status: "source-checked"`;
-- after scans **371–407** are source-checked, create the SC11 closure report and synchronize maintained-English controls;
+- after scans **408–444** are source-checked, create the SC12 closure report and synchronize maintained-English controls;
 - audit the exact changed-file set;
 - change **0 canonical Tamil page files**.
 
