@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / MAINTAINED ENGLISH GLOSSARY RECONCILIATION GR1
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / MAINTAINED ENGLISH GLOSSARY RECONCILIATION GR2
 
 Continue only from live `main` in `pugazg/kalaignar-literary-commentary`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -35,7 +35,8 @@ Read first:
 19. `works/sangatamil/translations/en/SOURCE_CHECK_SC12_REPORT.md`
 20. `works/sangatamil/translations/en/SOURCE_CHECK_SC13_REPORT.md`
 21. `works/sangatamil/translations/en/SOURCE_CHECK_SC14_REPORT.md`
-22. `works/sangatamil/README.md`
+22. `works/sangatamil/translations/en/GLOSSARY_RECONCILIATION_GR1_REPORT.md`
+23. `works/sangatamil/README.md`
 20. `works/sangatamil/GATE_I_FINAL_CLOSURE.md`
 21. `works/sangatamil/indexes/section-register.md`
 22. `works/sangatamil/indexes/source-citation-register.md`
@@ -180,6 +181,12 @@ Cumulative English state:
 - `source-limited` — **1** (scan 8)
 - not yet created — **0**
 - source-check — **497/497 reviewed — COMPLETE / CLOSED**
+- GR1 scans **1–37 — COMPLETE / PASS**
+- GR1 page-layer base — `f3bc58a661f4207de576044bf602731d1ed45b25`
+- GR1 page-layer endpoint — `191f773fbd74160f20aae10958a58b4d1c6783dd`
+- GR1 exact compare — **1 commit / 6 English page files + `GLOSSARY.md` / 0 canonical Tamil changes / 0 status changes**
+- GR1 page terminology repairs — **6 English page files** (scans 2, 5, 7, 11, 12, 14)
+- glossary reconciliation — **37/497 reviewed**
 - canonical Tamil page changes from English drafting — **0**
 
 ## Translation identity
@@ -200,15 +207,15 @@ English source-check certifies fidelity to the maintained canonical Tamil record
 
 **draft → source-check → glossary reconciliation → editorial review → review → release report → release-ready**
 
-Normal source-check cadence: **37 physical scans**.
+Normal glossary-reconciliation cadence: **37 physical scans**.
 
 ## Exact next activity
 
-**Glossary Reconciliation GR1 — scans 1–37.**
+**Glossary Reconciliation GR2 — scans 38–74.**
 
 Requirements:
 
-- begin at scan **1** and reconcile terminology through scan **37**;
+- begin at scan **38** and reconcile terminology through scan **74**;
 - compare every English page with its matching canonical Tamil page paragraph-by-paragraph / block-by-block;
 - check for omissions, additions, meaning drift, names, titles, dialogue, quoted verse, source labels, provenance, visual/page function and cross-page continuity;
 - preserve source order and meaningful repetition;
@@ -217,8 +224,8 @@ Requirements:
 - use this gate for source fidelity, not unrelated stylistic polishing;
 - do **not** change English page statuses during glossary reconciliation; passing pages remain `source-checked`, and scan 8 remains `source-limited`;
 - reconcile recurring names, Sangam work titles, literary terms, provenance labels and repeated English renderings using only terminology actually evidenced in Sangatamil; update `GLOSSARY.md` only when the batch supports the decision;
-- after scans **1–37** are reconciled, create the GR1 closure report and synchronize maintained-English controls;
+- after scans **38–74** are reconciled, create the GR2 closure report and synchronize maintained-English controls;
 - audit the exact changed-file set;
 - change **0 canonical Tamil page files**.
 
-Source-check is now closed. Do not import terminology from published translations, web sources or remembered conventional renderings during GR1.
+GR1 is closed. Do not import terminology from published translations, web sources or remembered conventional renderings during GR2.
