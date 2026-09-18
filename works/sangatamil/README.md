@@ -218,22 +218,23 @@ Controls:
 - `translations/en/EDITORIAL_REVIEW_ER10_REPORT.md`
 - `translations/en/EDITORIAL_REVIEW_ER11_REPORT.md`
 - `translations/en/EDITORIAL_REVIEW_ER12_REPORT.md`
+- `translations/en/EDITORIAL_REVIEW_ER13_REPORT.md`
 
 Current maintained-English state:
 
 - page records — **497/497**
 - `draft` — **0**
-- `source-checked` — **53**
-- `editorial-reviewed` — **443**
+- `source-checked` — **16**
+- `editorial-reviewed` — **480**
 - `source-limited` — **1** (scan 8)
 - not yet created — **0**
 - source-check — **497/497 reviewed — SC1+SC2+SC3+SC4+SC5+SC6+SC7+SC8+SC9+SC10+SC11+SC12+SC13+SC14 COMPLETE / CLOSED**
 - glossary reconciliation — **497/497 reviewed — GR1+GR2+GR3+GR4+GR5+GR6+GR7+GR8+GR9+GR10+GR11+GR12+GR13+GR14 COMPLETE / CLOSED**
-- editorial review — **444/497 reviewed — ER1+ER2+ER3+ER4+ER5+ER6+ER7+ER8+ER9+ER10+ER11+ER12 COMPLETE / PASS (443 editorial-reviewed + scan 8 source-limited)**
+- editorial review — **481/497 reviewed — ER1+ER2+ER3+ER4+ER5+ER6+ER7+ER8+ER9+ER10+ER11+ER12+ER13 COMPLETE / PASS (480 editorial-reviewed + scan 8 source-limited)**
 - canonical Tamil page changes from English drafting — **0**
 
 This downstream layer does **not** reopen or mass-promote the canonical Tamil records and does not change the declaration that whole-volume word-for-word scan verification is not claimed.
 
 ## Exact next activity
 
-**English Editorial Review ER13 — scans 445–481.** ER1 scans **1–37**, ER2 scans **38–74**, ER3 scans **75–111**, ER4 scans **112–148**, ER5 scans **149–185**, ER6 scans **186–222**, ER7 scans **223–259**, ER8 scans **260–296**, ER9 scans **297–333**, ER10 scans **334–370**, ER11 scans **371–407**, and ER12 scans **408–444 are COMPLETE / PASS**. Continue source-faithful editorial review; promote passing `source-checked` pages to `editorial-reviewed`, preserve scan 8 as `source-limited`, and change **0 canonical Tamil page files**.
+**English Editorial Review ER14 — scans 482–497 (final 16-page remainder).** ER1 scans **1–37**, ER2 scans **38–74**, ER3 scans **75–111**, ER4 scans **112–148**, ER5 scans **149–185**, ER6 scans **186–222**, ER7 scans **223–259**, ER8 scans **260–296**, ER9 scans **297–333**, ER10 scans **334–370**, ER11 scans **371–407**, ER12 scans **408–444**, and ER13 scans **445–481 are COMPLETE / PASS**. Continue source-faithful editorial review; promote passing `source-checked` pages to `editorial-reviewed`, preserve scan 8 as `source-limited`, and change **0 canonical Tamil page files**.
