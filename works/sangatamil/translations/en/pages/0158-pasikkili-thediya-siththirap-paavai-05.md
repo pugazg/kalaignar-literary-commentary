@@ -6,17 +6,16 @@ work: "sangatamil"
 section: "செவிலி தேடிய சித்திரப் பாவை!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
 ---
 
-> “With shoulder-borne staves properly set,
-> pots hanging low,
-> and triple staffs famed in doctrine,
-> O Brahmins of measured conduct,
-> whose minds know no other path!
+> “Moving your shoulders in ordered step,
+> with hearts fixed on no other path,
+> your actions guided by disciplined purpose,
+> O Brahmins of principled conduct!
 >
 > You who travel through
 > these fierce stretches of wasteland—
