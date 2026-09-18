@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "நடுக்கத்தில் கண்ட நயம்!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -36,7 +36,7 @@ One might wish
 that Valluvar be born once more
 
 to write a few more Kurals  
-for the Book of Love—
+for the section on pleasure—
 
 so sweetly, so freshly,  
 the two kept digging out new treasures!
