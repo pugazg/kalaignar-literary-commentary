@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "கண்கண்ட சாட்சி உண்டோ?"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -16,7 +16,7 @@ Thus the heroine wept; taking her friend's hand, she pleaded, “Bring my very l
 
 *
 
-> “There was no one there; the thief himself alone.
+> “There was no one there—only the thief himself.
 > If he should deny it, what can I do?
 > With little green legs like millet stalks,
 > watching for *aaral* fish in the flowing water,

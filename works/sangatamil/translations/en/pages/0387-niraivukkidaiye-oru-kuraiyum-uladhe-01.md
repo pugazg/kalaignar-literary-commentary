@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "நிறைவுக்கிடையே ஒரு குறையும் உளதே!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -21,7 +21,7 @@ Tala: Tisra Adi
 (Opening)
 
 Though mansions and halls surround me—and within them
-fragrant gentle breezes drift and move,
+the fragrant gentle breeze drifts through,
 there is no peace in my heart;
 there is no way to dance in joy!
 

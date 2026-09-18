@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "பல்லி சொல்லுக்குப் பலன்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -23,7 +23,7 @@ with his fingernail to test and set it right,
 a “tik, tik” sound rises. Like that, the lizard's call
 falls upon the ear. The moment your hero hears it,
 desire will be born in him; he will twirl his young moustache and say,
-“I have come to pluck this veena!”
+“I have come to play this veena!”
 
 (The lizard's call)
 

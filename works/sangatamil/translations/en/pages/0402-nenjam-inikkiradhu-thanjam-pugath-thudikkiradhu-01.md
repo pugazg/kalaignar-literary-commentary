@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "நெஞ்சம் இனிக்கிறது; தஞ்சம்புகத் துடிக்கிறது!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -24,7 +24,7 @@ My heart grows sweet—it longs
 to seek refuge in you!
 Enemies fear your broad shoulders that win in fierce battle,
 so great poets say; hearing your triumph
-praised in caressing Tamil,
+praised in tender Tamil,
 my love overflows; and so
 my heart grows sweet—it longs
 to seek refuge in you!

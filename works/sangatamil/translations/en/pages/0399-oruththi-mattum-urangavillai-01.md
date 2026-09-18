@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருத்தி மட்டும் உறங்கவில்லை!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -50,7 +50,7 @@ alone do not sleep!
 
 “They said love must have a boundary, girl;
 do you think your hero will simply fail to return?” they said.
-My relatives flared up at me with a sharp “sul!”
+My relatives snapped at me with a sharp “sul!”
 Yet at midnight even they sleep perfectly well!
 
 When the whole town sleeps—I

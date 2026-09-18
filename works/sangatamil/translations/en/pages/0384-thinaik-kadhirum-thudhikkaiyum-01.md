@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "தினைக் கதிரும் துதிக்கையும்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -16,7 +16,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 
 The doll-like maiden with a lovely body woven of silk climbed to a watch-platform too high to reach, to guard the millet field. Learning of it, the man with palmyra-tree shoulders flew there!
 
-The thumbai-flower maiden, sweet at a touch, stood shaking him with her two buds! He watched without blinking as she drove away the birds with stones from her sling, and stood dazed!
+The thumbai-flower maiden, sweet at a touch, stood stirring him with her two buds! He watched without blinking as she drove away the birds with stones from her sling, and stood dazed!
 
 The fish-eyed girl paid him no heed, intent on protecting the millet ears! The hero had come with so many thoughts, but the pearl-like woman would neither face him nor speak. He came like a devotee merely to taste those sugarcane-sweet lips; it was no use!
 

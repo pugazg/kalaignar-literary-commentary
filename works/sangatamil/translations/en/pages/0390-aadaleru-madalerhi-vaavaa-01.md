@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஆடலேறு; மடலேறி வாவா?"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -21,8 +21,8 @@ Tala: Adi
 (Opening)
 
 Why did she say she would not marry me?
-Shall I ride the *madal* and come ask in the great public assembly? Me—
-why did she say she would not marry me? Shall I
+Shall I ride the *madal* and come ask in the great public assembly?
+Why did she say she would not marry me? Shall I
 ride the *madal* and come ask in the great public assembly?
 
 (Why did she say she would not marry me?)
