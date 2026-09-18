@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "எமக்குத் தென்றல்; எதிரிக்கோ புயல்!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -15,11 +15,11 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 # A Breeze to Us; a Storm to the Enemy!
 
 In the exalted land of Thagadoor,
-where cool wind seems to squeeze water from clouds
-to quench the thirst of mountains,
+where cool wind squeezes water from clouds
+to quench the thirst of mountains
+and moves with a gentle gait,
 King Adiyaman Neduman Anji
-slowly walked,
-tasting victorious Tamil.
+savoured jaggery-sweet Tamil.
 
 In the Aththani hall,
 as usual,
