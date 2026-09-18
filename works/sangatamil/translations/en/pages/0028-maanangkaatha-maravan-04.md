@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "மானங்காத்த மறவன்!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 source_tamil_visual_fidelity: "verified"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -21,7 +21,7 @@ in the bloody mire churned by hooves!
 Among the sword-bearing infantry,  
 when wounds fell upon the backs of a few,
 
-shame drove them on—  
+shame pursued them—  
 they fell and died!
 
 Cries of resolve, streams of blood,  

@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "மானங்காத்த மறவன்!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 source_tamil_visual_fidelity: "verified"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -63,7 +63,7 @@ I fall into your lap.
 Receive me!”
 
 Thus, after writing a seven-line *puram* poem,  
-the Chera king planted his name in fame  
-like a lion among bulls!
+the Chera king, like a male lion,  
+planted his name in fame!
 
 <!-- Source scan page: 29; printed page: 14 -->
