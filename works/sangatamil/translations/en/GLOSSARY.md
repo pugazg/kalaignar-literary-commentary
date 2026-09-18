@@ -50,6 +50,8 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 
 | பாலைக்கலி | Paalai Kali | Retain this `Kalithogai` subdivision title when source provenance names it. |
 
+| பட்டினப்பாலை | Pattinappalai | Retain this Sangam work title as the project transliteration. |
+
 ## Recurring literary/social terms
 
 | Tamil | Default English/transliteration | Editorial note |
@@ -62,6 +64,8 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 
 | வலவன் | valavan / driver / charioteer | Preserve *valavan* when the source's interpretive discussion turns on the term itself; explanatory prose/gloss may identify the role as driver or charioteer. |
 | மடல் | madal | Retain the classical practice/object term in italics where the source discusses mounting/riding the palmyra *madal*; explanatory blocks may identify it as a palmyra frond. |
+
+| பரிசிலன் | parisilan / gift-receiving poet | Use the source gloss “a poet who receives gifts” where an explanation is required; retain transliteration when the term itself is under discussion. |
 
 ## Classical landscape terms
 
@@ -134,6 +138,20 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | பெருஞ்சித்திரனார் | Perunchithiranar | Retain this poet-name form. |
 | வேளிமான் / இளவேளிமான் | Veliman / Ilaveliman | Preserve the source's elder/younger-brother name distinction. |
 | இளங்குமணன் | Ilankumanan | Retain this younger-brother name form. |
+
+| பெருந்தலைச்சாத்தனார் | Perunthalai Sathanar | Retain this poet-name form. |
+| செம்புலப் பெயனீரார் | Sembulap Peyaneerar | Retain this poet-name form used in provenance. |
+| நலங்கிள்ளி / சோழன் நலங்கிள்ளி | Nalangilli / Chola Nalangilli | Preserve the dynastic qualifier where source provenance supplies it. |
+| நெடுங்கிள்ளி / நெடுங்கிள்ளிச் சோழன் | Nedungkilli / Nedungkilli Chola | Preserve the dynastic qualifier where the source supplies it. |
+| பாரி / வேள் பாரி | Pari / Vel Pari | Preserve the source's chieftain-title form where present. |
+| பறம்பு / பறம்புமலை | Parambu / Parambu Hill | Preserve the place/hill distinction shown by context. |
+| தேவநேயப் பாவாணர் | Devaneya Pavanar | Retain this scholar-name form in the source note. |
+| தமிழ்க்குடிமகன் | Tamilkudimagan | Retain this scholar-name form in the source note. |
+| கரிகாலன் / கரிகால் பெருவளத்தான் / கரிகால் வளவன் | Karikalan / Karikal Peruvalathan / Karikal Valavan | Preserve the source's contextual royal-name and epithet variants; do not mechanically flatten them. |
+| காவிரி | Kaveri | Retain this river/place-name form in the maintained English. |
+| கடியலூர் உருத்திரங் கண்ணனார் | Kadiyalur Uruthirankannanar | Retain this poet-name form. |
+| நெடும்பள்ளியத்தை | Nedumpalliyaththai | Retain this woman-poet name form. |
+| ஓரம்போகியார் | Orampogiyar | Retain this poet-name form. |
 
 ## Recurring maintained-English titles
 

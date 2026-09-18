@@ -57,7 +57,7 @@ music itself!
 
 <div align="right">
 
-(*Kurunthogai* — Poem 178  
+(*Kuruntokai* — Poem 178  
 Poet: Nedumpalliyaththai, a woman poet)
 
 </div>

@@ -70,7 +70,7 @@ He looked at her and said:
 > this instant!”
 
 When the young man
-made this *Kurunthogai* poem
+made this *Kuruntokai* poem
 simple in speech,
 
 the good woman
@@ -101,7 +101,7 @@ and he became the rain!
 
 <div align="right">
 
-(*Kurunthogai* — Poem 40  
+(*Kuruntokai* — Poem 40  
 Poet: Sembulap Peyaneerar)
 
 </div>
