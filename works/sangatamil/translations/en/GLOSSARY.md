@@ -49,11 +49,13 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | களவழி நாற்பது | Kalavazhi Narpadu | Retain as the project transliteration. |
 
 | பாலைக்கலி | Paalai Kali | Retain this `Kalithogai` subdivision title when source provenance names it. |
+| முல்லைக்கலி | Mullai Kali | Retain this `Kalithogai` subdivision title when source provenance names it. |
 
 | பட்டினப்பாலை | Pattinappalai | Retain this Sangam work title as the project transliteration. |
 | நெடுநல்வாடை / நெடுநல் வாடை / நெடு நல் வாடை | Nedunalvaadai | Preserve the maintained-English work-title form across the source's spacing variants. |
 | சிறுபாணாற்றுப்படை | Sirupanarruppadai | Retain this Pattuppattu work title as the maintained-English project transliteration. |
 | பெரும்பாணாற்றுப்படை | Perumpanarruppatai | Retain this Pattuppattu work title as the maintained-English project transliteration. |
+| மதுரைக்காஞ்சி | Maduraikkanchi | Retain this Pattuppattu work title as the maintained-English project transliteration. |
 
 ## Recurring literary/social terms
 
@@ -80,6 +82,9 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | கடுவன் | kaduvan / male monkey | Retain *kaduvan* where the source names the male monkey; explanatory prose may identify the sex. |
 | மந்தி | mandhi / female monkey | Retain *mandhi* where the source names the female monkey; explanatory prose may identify the sex. |
 | முரசு | war-drum / drum | Use **war-drum** where the military/royal function is foregrounded; ordinary **drum** is allowed where context does not require the qualifier. |
+| பரணி | parani | Retain the martial literary-genre term when the source uses it as a named form. |
+| குடவோலை | kudavolai | Retain the local-selection / ballot-pot term when the source discusses the historical method itself. |
+| முலைவிலை / முலை விலை / பரிசப்பணம் | bride-price | Use **bride-price** for the source's marriage-payment term; retain *mulai vilai* only where the source wording itself is being discussed. |
 
 ## Classical landscape terms
 
@@ -126,7 +131,7 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | வழுதியார் | Vazhuthiyar | Preserve this source narrative poet-name form where it occurs. |
 | பாண்டியன் பெருவழுதி | Pandiyan Peruvazhuthi | Retain this provenance form. |
 | உறையூர் முதுக்கண்ணன் சாத்தனார் | Uraiyur Mudhukannan Sathanar | Retain this poet-name form. |
-| நெடுஞ்செழியன் / பாண்டியன் நெடுஞ்செழியன் | Nedunchezhiyan / Pandiyan Nedunchezhiyan | Preserve the dynastic qualifier where the source/provenance supplies it. |
+| நெடுஞ்செழியன் / பாண்டியன் நெடுஞ்செழியன் / ஆரியப்படை கடந்த நெடுஞ்செழியப் பாண்டியன் | Nedunchezhiyan / Pandiyan Nedunchezhiyan / Pandya Nedunchezhiyan who crossed the Aryan army | Preserve the source's short, dynastic and epithet-bearing forms by context. |
 | மாங்குடி மருதனார் / மாங்குடிக் கிழார் மருதனார் | Mangudi Marudhanar / Mangudi Kizhar Marudhanar | Preserve source-supported contextual expansion; do not mechanically force one form everywhere. |
 | அள்ளூர் நன்முல்லையார் | Allur Nanmullaiyar | Retain this poet-name form. |
 | ஆலத்தூர் கிழார் | Alathur Kizhar | Retain this poet-name form. |
@@ -172,7 +177,7 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | கடுந்தோள் கரவீரன் | Kadunthol Karaveeran | Retain this poet-name form. |
 | கழார்க் கீரன் எயிற்றி | Kazhark Keeran Eyitri | Retain this poet-name form. |
 | குப்பைக் கோழியார் / குப்பைக்கோழியார் | Kuppaik Kozhiyaar | Retain this poet-name form despite source spacing variation. |
-| வேள் எவ்வி | Vel Evvi | Retain this ruler-name form. |
+| எவ்வி / வேள் எவ்வி | Evvi / Vel Evvi | Preserve the source's short and titled ruler-name forms. |
 | சேரமான் யானைக்கட்சேய் இரும்பொறை | Cheraman Yanaikkat-sey Irumporai | Retain this Chera ruler-name form. |
 | நக்கீரர் / நக்கீரனார் | Nakkeerar | Retain this poet-name form across the source's honorific variation. |
 | கோப்பெருந்தேவி | Kopperunthevi | Retain this Pandya queen-name form. |
@@ -199,6 +204,21 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | மலையமான் | Malaiyaman | Retain this chieftain-title/name form. |
 | திருக்கோவலூர் | Thirukovalur | Retain this place-name form. |
 | கருவூர் | Karur | Retain this place-name form. |
+| எழினி | Ezhini | Retain this ruler-name form. |
+| இருங்கோ வேண்மான் | Irungo Venman | Retain this ruler-name form. |
+| பொருநன் | Porunan | Retain this ruler-name form. |
+| எருமையூரன் | Erumaiyuran | Retain this ruler-name form. |
+| கல்லாடனார் | Kalladanar | Retain this poet-name form. |
+| இடைக்குன்றூர்க்கிழார் | Idaikkunrur Kizhar | Retain this poet-name form. |
+| குடபுலவியனார் | Kudapulaviyanar | Retain this poet-name form. |
+| தலையாலங்கானம் | Thalaiyalanganam | Retain this battle/place-name form. |
+| ஒக்கூர் மாசாத்தியார் | Okkur Masathiyar | Retain this poet-name form. |
+| பக்குடுக்கை நன்கணியார் | Pakkudukkai Nankaniyar | Retain this poet-name form. |
+| வெள்ளெருக்கிலையார் | Vellerukkilaiyar | Retain this poet-name form. |
+| அகுதி | Aguthai | Retain this warrior-name form. |
+| நீடூர் | Needur | Retain this place-name form. |
+| பிட்டன் | Pittan | Retain this commander-name form. |
+| ஓரேர் உழவர் / ஓரேருழவர் | Orer Uzhavar / Oreruzhavar | Preserve the source's spaced descriptive form and fused poet-name form by context. |
 
 ## Recurring maintained-English titles
 
