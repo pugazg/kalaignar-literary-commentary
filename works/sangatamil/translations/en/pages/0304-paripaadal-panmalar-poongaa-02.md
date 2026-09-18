@@ -18,7 +18,7 @@ it compares the river to
 “a maiden who knows no dance”
 and “a joyful woman who knows no sulking.”
 
-Thus, in the lofty gold-mine called *Paripādal*,
+Thus, in the lofty gold-mine called *Paripadal*,
 particles of the soil called Purana fall too,
 while the flavour of golden Tamil melody also drips.
 
@@ -30,7 +30,7 @@ they harness to carts the horses meant for chariots,
 and, without realizing it,
 harness oxen to chariots in turn.
 
-*Paripādal* paints those bewildered,
+*Paripadal* paints those bewildered,
 stumbling people in sweet Tamil:
 
 > “They yoke the strong chariot-horse to the wagon,
@@ -40,7 +40,7 @@ If you have grown weary of watching
 the splendour of warriors marching to battle,
 shall we watch the graceful gait
 of women going to bathe?
-Through the window that is *Paripādal*,
+Through the window that is *Paripadal*,
 shall we drink in all their beauty?
 
 Swan-like walk—

@@ -43,7 +43,7 @@ We too keep asking it, without forgetting.
 Today we proclaim across the earth
 that the fragrance of common ownership must spread.
 This cry is no novelty.
-The great poet Nakkirar sounds
+The great poet Nakkeerar sounds
 the drum of commonality in a *Puram* song. Listen:
 
 For the king who longs

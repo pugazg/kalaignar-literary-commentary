@@ -40,7 +40,7 @@ that shares food and protects all living beings;
 to find happiness in the world through that
 is the purpose of having taken birth.
 
-Nakkirar gathered and gave this thought;
+Nakkeerar gathered and gave this thought;
 all good people in this ancient world
 have continued to hand it onward.
 

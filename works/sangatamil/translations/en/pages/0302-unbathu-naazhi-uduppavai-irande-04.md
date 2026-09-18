@@ -19,7 +19,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 *
 
 (*Purananuru*: poem 189  
-Poet: Nakkiranar)
+Poet: Nakkeerar)
 
 ## Explanation of Meaning:
 
