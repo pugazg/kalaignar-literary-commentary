@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "தலை கேட்டான் தம்பி!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -153,5 +153,5 @@ than the love
 shown by humankind—
 
 <!-- Text continues after the full-page illustration on scan 184 and resumes on scan 185. -->
-<!-- The difficult canonical sentence around the requested elephant is rendered cautiously and left for later source-check rather than silently repaired. -->
+<!-- The difficult canonical sentence around the requested elephant is retained conservatively after source-check; no canonical Tamil repair is inferred. -->
 <!-- Source scan page: 183; printed page: 170 -->
