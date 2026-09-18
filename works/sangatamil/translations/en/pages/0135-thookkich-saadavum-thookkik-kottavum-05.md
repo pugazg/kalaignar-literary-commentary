@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "தேனாகச் சொட்டும் : தேளாகக் கொட்டும்!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -75,9 +75,9 @@ Look at me now, friend!
 A flood breaks its banks  
 between my eyelids,
 
-and the maidens  
+and the pupils  
 of both my eyes  
-roll hidden inside it.
+disappear beneath it.
 
 All the pleasure  
 I saw in the night
@@ -138,5 +138,5 @@ like a scorpion?
 
 <div align="center">*</div>
 
-<!-- The phrase rendered “With his own people—” follows the maintained Tamil wording at the difficult opening of this paragraph and remains subject to source-check. -->
+<!-- The difficult opening of this paragraph follows the maintained Tamil conservatively; no canonical wording repair is inferred here. -->
 <!-- Source scan page: 135; printed page: 120 -->
