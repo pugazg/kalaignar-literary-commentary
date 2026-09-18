@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "பரிபாடல்- பன்மலர்ப் பூங்கா!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -47,7 +47,8 @@ Swan-like walk—
 a very slender waist—
 sugar-cane-sweet speech—
 a body bright as lightning.
-On an unfailing silken form,
+On a silken body
+whose form has not slackened,
 two plantain buds have sprouted,
 reaching out,
 drawing men's hearts,
