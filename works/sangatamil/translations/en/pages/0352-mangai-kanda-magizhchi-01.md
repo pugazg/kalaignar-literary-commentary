@@ -16,7 +16,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 
 A frog, longing and suffering for even a little shade in which to rest, sheltered beneath the shadow of a snake that had reared up and stood on its tail, unable to bear the sun—without knowing that it was the shadow of its enemy. It crouched there and breathed through the terror of summer: such was the season of cruel drought that, as the Sanskrit poet Kalidasa described, swept like a storm.
 
-A stag, seeing his doe suffer without sweet shade, gave her his own shadow while he alone stood in the sun. In the *Kalittokai*, praised by the learned, Perunkadungo sang of the fierce heat of the *palai*: such was that summer.
+A stag, seeing his doe suffer without sweet shade, gave her his own shadow while he alone stood in the sun. In the *Kalithogai*, praised by the learned, Perungadungko sang of the fierce heat of the *paalai*: such was that summer.
 
 Like the two eyes of a beloved woman, dried after even the tears she shed in the pain of separation from the man with whom she had once played in delight had run out, the ponds whose banks rose like hills dried into bare ground for want of clouds gathering and pouring rain.
 

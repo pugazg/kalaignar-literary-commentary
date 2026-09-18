@@ -43,6 +43,6 @@ Poet: Pakkudukkai Nankaniyar)
 
 ## Note:
 
-The distinguished scholar Olvai Duraisamy Pillai, who wrote an explanatory commentary on this *Purananuru* poem, states as follows:
+The distinguished scholar Avvai Duraisami Pillai, who wrote an explanatory commentary on this *Purananuru* poem, states as follows:
 
 <!-- The printed scholarly note continues on scan 351. -->

@@ -18,7 +18,7 @@ The young woman burst into laughter and said, “Go on, dear one!”
 
 He gave the kiss—and then loosed his arrows upon the enemy.
 
-War! War! War! The war drum thundered.
+War! War! War! The war-drum thundered.
 
 *
 

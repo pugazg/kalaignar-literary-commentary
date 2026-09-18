@@ -26,7 +26,7 @@ She had fallen beneath sorrow. Then the victorious war drum beaten by the enemy 
 
 “I shall live for the country of measureless fame, not merely for the household!” she said.
 
-That queen among Tamil women, who knew how to measure a *nazhi* with a bowl, remembered the pure son she had placed in a cradle and raised, now gone without hindrance to learn beneath the banyan tree from his teacher.
+That queen among Tamil women, who knew how to measure a *nāzhi* with a bowl, remembered the pure son she had placed in a cradle and raised, now gone without hindrance to learn beneath the banyan tree from his teacher.
 
 She went there. “Amma!” he cried, rushing toward her—the beloved gold of sweet baby speech.
 
