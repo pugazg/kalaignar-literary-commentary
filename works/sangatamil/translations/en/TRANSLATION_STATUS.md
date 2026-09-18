@@ -1,6 +1,6 @@
 # Sangatamil — Maintained English Translation Status
 
-**Status: ACTIVE — SOURCE-CHECK SC1–SC9 COMPLETE / PASS**
+**Status: ACTIVE — SOURCE-CHECK SC1–SC10 COMPLETE / PASS**
 
 Repository: `pugazg/kalaignar-literary-commentary`  
 Branch: `main`
@@ -30,15 +30,15 @@ English work does not alter or promote those Tamil statuses.
 |---|---|
 | Control-layer initialization | **COMPLETE / PASS** |
 | First-pass drafting | **497/497 — D1+D2+D3+D4+D5+D6+D7+D8+D9+D10+D11+D12+D13+D14 COMPLETE / CLOSED** |
-| Source-check | **333/497 reviewed — SC1+SC2+SC3+SC4+SC5+SC6+SC7+SC8+SC9 COMPLETE / PASS (332 source-checked + scan 8 source-limited)** |
+| Source-check | **370/497 reviewed — SC1+SC2+SC3+SC4+SC5+SC6+SC7+SC8+SC9+SC10 COMPLETE / PASS (369 source-checked + scan 8 source-limited)** |
 | Glossary reconciliation | **0/497** |
 | Editorial review | **0/497** |
 | Release-ready | **0/497** |
 
 Current English page inventory:
 
-- `draft` — **164**
-- `source-checked` — **332**
+- `draft` — **127**
+- `source-checked` — **369**
 - `editorial-reviewed` — **0**
 - `release-ready` — **0**
 - `source-limited` — **1** (scan 8)
@@ -254,6 +254,16 @@ Current English page inventory:
 - exact page-layer compare — **10 commits / exactly 37 English page files / 0 canonical Tamil page changes / 0 non-English-page changes**
 - durable report — `SOURCE_CHECK_SC9_REPORT.md`
 
+### SC10 — COMPLETE / PASS
+- scans **334–370**
+- reviewed — **37/37**
+- promoted to `source-checked` — **37**
+- source-fidelity repairs — **1 English page file** (scan 349 visual orientation)
+- page-layer base — `c51e219cc8470d46bf3e1f2f400e581fa53fccc5`
+- page-layer endpoint — `8ddd15b6dc86a70b96f88f059f5a942afe9fcd84`
+- exact page-layer compare — **8 commits / exactly 37 English page files / 0 canonical Tamil page changes / 0 non-English-page changes**
+- durable report — `SOURCE_CHECK_SC10_REPORT.md`
+
 ## Release interpretation
 
 English review/release status is relative to the maintained canonical Tamil archive.
@@ -266,7 +276,7 @@ Normal page-batched cadence: **37 physical scans**.
 
 ## Exact next activity
 
-**English Source-Check SC10 — scans 334–370.**
+**English Source-Check SC11 — scans 371–407.**
 
 Compare each maintained-English page with its canonical Tamil page paragraph-by-paragraph / block-by-block. Check omissions, additions, meaning drift, names, titles, quotations, verse blocks, page function, provenance and cross-page continuity.
 

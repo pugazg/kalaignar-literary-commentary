@@ -66,9 +66,9 @@ Translate only the maintained Tamil archive. Preserve the work's own order, quot
 - Draft D14 scans **482–497 — COMPLETE / PASS**
 - English page records — **497/497**
 - first-pass drafting — **497/497 — COMPLETE / CLOSED**
-- current English state — **164 `draft` + 332 `source-checked` + 1 `source-limited` (scan 8)**
+- current English state — **127 `draft` + 369 `source-checked` + 1 `source-limited` (scan 8)**
 - not yet created — **0**
-- source-check — **333/497 reviewed — SC1+SC2+SC3+SC4+SC5+SC6+SC7+SC8+SC9 COMPLETE / PASS**
+- source-check — **370/497 reviewed — SC1+SC2+SC3+SC4+SC5+SC6+SC7+SC8+SC9+SC10 COMPLETE / PASS**
 - glossary reconciliation — **0/497**
 - editorial review — **0/497**
 - release-ready — **0/497**
@@ -96,5 +96,6 @@ Translate only the maintained Tamil archive. Preserve the work's own order, quot
 - durable SC7 report — `SOURCE_CHECK_SC7_REPORT.md`
 - durable SC8 report — `SOURCE_CHECK_SC8_REPORT.md`
 - durable SC9 report — `SOURCE_CHECK_SC9_REPORT.md`
+- durable SC10 report — `SOURCE_CHECK_SC10_REPORT.md`
 
-Exact next activity: **English Source-Check SC10 — scans 334–370**. Continue paragraph-by-paragraph / block-by-block fidelity review against the maintained canonical Tamil record. Change **0 canonical Tamil page files**.
+Exact next activity: **English Source-Check SC11 — scans 371–407**. Continue paragraph-by-paragraph / block-by-block fidelity review against the maintained canonical Tamil record. Change **0 canonical Tamil page files**.
