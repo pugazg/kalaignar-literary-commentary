@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "பிசிராந்தையார் 2"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -68,7 +68,7 @@ Poet: Pisiranthaiyar)
 **Aadukol vendri adupor** = winning victory in a battle where enemies are struck down.  
 **Kaiyarubu inaiya** = to grieve helplessly, unable to act.  
 **Ayirai** = a kind of fish.  
-**Kurumpirai** = the female bird, the mate.  
+**Kurumpaṟai** = the female bird, the mate.  
 **Maanda** = possessing greatness.  
 **Nankalam** = ornament.
 
