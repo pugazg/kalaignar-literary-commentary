@@ -95,6 +95,8 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | தொகையறா / தொகையறு | Thogaiyara | Retain this song-section label as the maintained-English transliteration. |
 | கரந்தை (போர்) | Karandhai / battle against cattle-raiders | Retain **Karandhai** when the source names the battle category; explanatory prose may describe its cattle-recovery context. |
 | அத்தாணி மண்டபம் | athani hall / royal assembly hall | Retain **athani hall** when the source names the royal assembly space; explanatory prose may identify its function. |
+| நாளவை | naalavai / athani hall | Retain **naalavai** in quoted/classical wording; explanatory prose may identify it as the king's athani hall where the source itself gives that gloss. |
+| கிணை / தெண்கிணை | kinai drum / clear kinai drum | Retain the drum-name in transliteration where it appears in quoted or explanatory material. |
 | யாளி | yali | Retain the source creature-name in transliteration. |
 | காதம் | kaadam / distance measure | Retain **kaadam** where the source uses the traditional distance measure; explanatory prose may identify it as a distance measure. |
 
@@ -243,6 +245,7 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | நல்லுத்திரனார் | Nalluthiranar | Retain this poet-name form where the source provenance uses the shorter form. |
 | பூங்கண் உத்திரையார் | Poongkan Uthiraiyar | Retain this woman-poet name form. |
 | நற்கண்ணை / நற்கண்ணையார் | Narkannai / Narkannaiyar | Preserve the narrative personal-name and honorific provenance forms by context. |
+| நக்கண்ணையார் | Nakkannaiyar | Preserve this source-printed poet-attribution variant where it appears; do not silently rewrite the frozen Tamil provenance to `நற்கண்ணையார்`. |
 | காவற்பெண்டு | Kaavarp Penn | Retain this woman-poet/foster-mother name form. |
 | பெருநற்கிள்ளி / நற்கிள்ளி / கிள்ளி | Perunarkilli / Narkilli / Killi | Preserve the full, shortened and familiar source forms by context. |
 | போரவைக் கோப்பெரு நற்கிள்ளி / சோழன் போரவைக்கோ பெருநற்கிள்ளி | Poravaik Kopperu Narkilli / Chola Poravaikko Perunarkilli | Preserve the source's epithet-bearing forms rather than flattening them into the short name. |
@@ -251,6 +254,7 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | ஆமூர் | Aamur | Retain this place-name form. |
 | முக்காவல் நாடு | Mukkaval Nadu | Retain this regional name form. |
 | உறையூர் | Uraiyur | Retain this place-name form. |
+| உறந்தை | Urandai | Preserve this source-quoted classical place-name form; do not mechanically normalize it to Uraiyur inside quoted Sangam material. |
 | பெருங்கோழிநாய்கன் | Perungozhi Naaykan | Retain this merchant-name form. |
 | பொற்கொடி | Porkodi | Retain this personal-name form in the one-sided-love sequence. |
 | பெருந்தேவி / பெருந்தேவிநாச்சி | Perunthevi / Perunthevi Naachiyar | Preserve the source's short and honorific personal-name forms. |
