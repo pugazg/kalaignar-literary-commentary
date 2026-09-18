@@ -182,19 +182,20 @@ Controls:
 - `translations/en/SOURCE_CHECK_SC2_REPORT.md`
 - `translations/en/SOURCE_CHECK_SC3_REPORT.md`
 - `translations/en/SOURCE_CHECK_SC4_REPORT.md`
+- `translations/en/SOURCE_CHECK_SC5_REPORT.md`
 
 Current maintained-English state:
 
 - page records — **497/497**
-- `draft` — **349**
-- `source-checked` — **147**
+- `draft` — **312**
+- `source-checked` — **184**
 - `source-limited` — **1** (scan 8)
 - not yet created — **0**
-- source-check — **148/497 reviewed — SC1+SC2+SC3+SC4 COMPLETE / PASS**
+- source-check — **185/497 reviewed — SC1+SC2+SC3+SC4+SC5 COMPLETE / PASS**
 - canonical Tamil page changes from English drafting — **0**
 
 This downstream layer does **not** reopen or mass-promote the canonical Tamil records and does not change the declaration that whole-volume word-for-word scan verification is not claimed.
 
 ## Exact next activity
 
-**English Source-Check SC5 — scans 149–185.** SC1–SC4 scans **1–148 are COMPLETE / PASS** with **147 source-checked + 1 source-limited (scan 8)**. Continue maintained-English fidelity review against canonical Tamil and change **0 canonical Tamil page files**.
+**English Source-Check SC6 — scans 186–222.** SC1–SC5 scans **1–185 are COMPLETE / PASS** with **184 source-checked + 1 source-limited (scan 8)**. Continue maintained-English fidelity review against canonical Tamil and change **0 canonical Tamil page files**.
