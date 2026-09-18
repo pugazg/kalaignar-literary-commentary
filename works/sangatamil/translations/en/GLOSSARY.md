@@ -62,7 +62,7 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | Tamil | Default English/transliteration | Editorial note |
 |---|---|---|
 | தேறல் | theral | Retain the source beverage name in italics where the maintained English treats it as a named liquor; explanatory blocks may identify it as liquor. |
-| பாணன் | bard | Default role term; use “musician” only where the source explicitly foregrounds இசை / இசைப்பாணன். |
+| பாணன் | bard / Paanan | Use **bard** for the role term; use **Paanan** only where the source clearly treats `பாணன்` as the proper name of the warrior in the `ஒருதலைக் காதல்` sequence. Use “musician” only where the source explicitly foregrounds இசை / இசைப்பாணன். |
 | பரத்தை | courtesan | Use for the source role term; do not silently merge it with distinct source terms பொதுமகள் or விலைமகள். |
 | பொதுமகள் | public woman / Common Woman | Context-sensitive: prose may use “public woman”; the recurring section title remains “The Lament of a Common Woman.” |
 | விலைமகள் | woman for hire / courtesan | Preserve the transactional force where the source foregrounds விலை; do not mechanically replace every occurrence with one label. |
@@ -94,6 +94,9 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | காஞ்சி (பண் / பாடல்) | Kanchi | Retain the capitalized named song/mode form where the source foregrounds it; do not confuse it with a place-name use. |
 | தொகையறா / தொகையறு | Thogaiyara | Retain this song-section label as the maintained-English transliteration. |
 | கரந்தை (போர்) | Karandhai / battle against cattle-raiders | Retain **Karandhai** when the source names the battle category; explanatory prose may describe its cattle-recovery context. |
+| அத்தாணி மண்டபம் | athani hall / royal assembly hall | Retain **athani hall** when the source names the royal assembly space; explanatory prose may identify its function. |
+| யாளி | yali | Retain the source creature-name in transliteration. |
+| காதம் | kaadam / distance measure | Retain **kaadam** where the source uses the traditional distance measure; explanatory prose may identify it as a distance measure. |
 
 ## Classical landscape terms
 
@@ -244,17 +247,24 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | பெருநற்கிள்ளி / நற்கிள்ளி / கிள்ளி | Perunarkilli / Narkilli / Killi | Preserve the full, shortened and familiar source forms by context. |
 | போரவைக் கோப்பெரு நற்கிள்ளி / சோழன் போரவைக்கோ பெருநற்கிள்ளி | Poravaik Kopperu Narkilli / Chola Poravaikko Perunarkilli | Preserve the source's epithet-bearing forms rather than flattening them into the short name. |
 | சாத்தந்தை / சாத்தந்தையார் | Saathanthai / Saathanthaiyar | Preserve source-supported short and honorific poet-name forms. |
-| தித்தன் / வீரைவேண்மாண்வெளியன் தித்தன் | Tittan / Veeraivenmaan Veliyan Tittan | Preserve the source's short and full ruler-name forms. |
+| தித்தன் / வீரை வேண்மான் வெளியன் தித்தன் / வீரைவேண்மாண்வெளியன் தித்தன் / மாவண் தித்தன் | Tittan / Veeraivenmaan Veliyan Tittan / Maaven Tittan | Preserve the source's short, spaced/full and epithet-bearing ruler-name forms by context. |
 | ஆமூர் | Aamur | Retain this place-name form. |
 | முக்காவல் நாடு | Mukkaval Nadu | Retain this regional name form. |
 | உறையூர் | Uraiyur | Retain this place-name form. |
 | பெருங்கோழிநாய்கன் | Perungozhi Naaykan | Retain this merchant-name form. |
 | பொற்கொடி | Porkodi | Retain this personal-name form in the one-sided-love sequence. |
-| பெருந்தேவிநாச்சி | Perunthevi Naachiyar | Retain this personal-name form. |
+| பெருந்தேவி / பெருந்தேவிநாச்சி | Perunthevi / Perunthevi Naachiyar | Preserve the source's short and honorific personal-name forms. |
 | காவிரிப்பூம்பட்டினம் | Kaveripoompattinam | Retain this port/place-name form. |
 | குடமலை | Kudamalai | Retain this mountain/place-name form. |
 | ஈழநாடு / ஈழம் | Eelam | Retain **Eelam** for the source's regional name. |
 | கடாரம் | Kadaram | Retain this regional/trade-place name form. |
+| ஐயை | Aiyai | Retain this personal-name form. |
+| பல்வேற்கட்டி / கட்டி | Palverkatti / Katti | Preserve the source's full epithet-bearing and shortened ruler-name forms by context. |
+| முதுகூற்றனார் | Mudukootranar | Retain this poet-name form. |
+| மாமூலனார் | Mamulanar | Retain this poet-name form. |
+| பூம்புகார் | Poompuhar | Retain this place-name form. |
+| அழிசி | Azhisi | Retain this Chola ruler-name form. |
+| ஆர்க்காடு | Aarkkadu | Retain this place-name form. |
 
 ## Recurring maintained-English titles
 
