@@ -169,16 +169,26 @@ Final declaration:
 
 ## Maintained English translation — ACTIVE
 
-A separately scoped project-created English layer is active under `translations/en/`, modeled on the maintained-English Kuraloviyam workflow. Drafts D1–D9 scans **1–333 are COMPLETE / PASS**.
+A separately scoped project-created English layer is active under `translations/en/`, modeled on the maintained-English Kuraloviyam workflow. Drafts D1–D13 scans **1–481 are COMPLETE / PASS**.
 
 Controls:
 - `translations/en/README.md`
 - `translations/en/TRANSLATION_GUIDE.md`
 - `translations/en/TRANSLATION_STATUS.md`
 - `translations/en/GLOSSARY.md`
+- `translations/en/DRAFT_D13_REPORT.md`
+
+Current maintained-English state:
+
+- page records — **481/497**
+- `draft` — **480**
+- `source-limited` — **1** (scan 8)
+- not yet created — **16**
+- source-check — **0/497**
+- canonical Tamil page changes from English drafting — **0**
 
 This downstream layer does **not** reopen or mass-promote the canonical Tamil records and does not change the declaration that whole-volume word-for-word scan verification is not claimed.
 
 ## Exact next activity
 
-**English Draft D10 — scans 334–370**, continuing first-pass page-aligned drafting. D1–D9 are closed at **333/497** with **332 draft + 1 source-limited (scan 8)**.
+**English Draft D14 — scans 482–497**, the final **16-page** first-pass drafting remainder. Begin with the direct continuation from scan **481** into **482** in `ஒருதலைக் காதல் — 9`, continue through scan **497 / back cover**, and change **0 canonical Tamil page files**. Do not begin source-check until D14 is complete.

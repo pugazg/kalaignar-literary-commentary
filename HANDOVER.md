@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed **2026-09-17**: Kuraloviyam remains closed; Sangath Tamil Gates **A–I are COMPLETE / PASS** and the Tamil archival pipeline is **CLOSED**; the separately scoped **maintained English project translation is ACTIVE** with Drafts D1–D6 scans **1–222 COMPLETE / PASS** and Draft D7 scans **223–259 next**.
+Last refreshed **2026-09-18**: Kuraloviyam remains closed; Sangath Tamil Gates **A–I are COMPLETE / PASS** and the Tamil archival pipeline is **CLOSED**; the separately scoped **maintained English project translation is ACTIVE** with Drafts D1–D13 scans **1–481 COMPLETE / PASS** and final Draft D14 scans **482–497 next**.
 
 ## Repository
 
@@ -63,7 +63,7 @@ The mixed page-level statuses are intentional. Gate C2 resolved all recorded Gat
 
 **Exact Tamil archival activity: none — Sangath Tamil archival pipeline closed.**
 
-**Exact downstream activity: maintained English Draft D7 — scans 223–259.** D1–D6 are closed at **222/497** with **221 draft + 1 source-limited (scan 8)**.
+**Exact downstream activity: maintained English Draft D14 — scans 482–497 / final 16-page first-pass remainder.** D1–D13 are closed at **481/497** with **480 draft + 1 source-limited (scan 8)**.
 
 English controls: `works/sangatamil/translations/en/README.md`, `TRANSLATION_GUIDE.md`, `TRANSLATION_STATUS.md`, and `GLOSSARY.md`.
 
@@ -218,19 +218,18 @@ Durable B20 closure: final scans 476–497 completed with 7 page records changed
 
 # Exact next activity — சங்கத் தமிழ்
 
-In a fresh Sangath Tamil chat:
+The Tamil archival workflow is closed. Continue only the separately scoped maintained-English layer.
 
-1. fetch live main
-2. read the active controls listed above, including works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md
-3. confirm Gate E is COMPLETE / PASS at 497/497 with 104 source-order section-role entries and 0 page-wording changes
-4. confirm Gate F F01–F20 scans 1–497 are COMPLETE / PASS and process Gate G metadata/status closure using the closed physical/section/provenance layers
-5. verify only source-visible provenance: anthology/work name, பாடல் number/range, poet attribution, quotation boundaries, `பொருள் விளக்கம்`, and other printed source notes
-6. update `works/sangatamil/indexes/source-citation-register.md` and `works/sangatamil/PROVENANCE_AUDIT.md`
-7. do not import external-edition corrections and do not start Gate C2 unless explicitly authorized
+1. fetch live `main`;
+2. read `works/sangatamil/translations/en/TRANSLATION_GUIDE.md`, `GLOSSARY.md`, `TRANSLATION_STATUS.md`, and `DRAFT_D13_REPORT.md`;
+3. confirm D1–D13 are **COMPLETE / PASS through scan 481** and the D13 compare is **19 commits / exactly 37 English page files / 0 canonical Tamil page changes**;
+4. draft **D14 scans 482–497**, the final **16-page** first-pass remainder;
+5. preserve the direct **481→482** continuation in `ஒருதலைக் காதல் — 9` and preserve scan **497** as the back-cover/source endpoint;
+6. after D14, create the D14 closure report and synchronize all maintained-English controls to **497/497 first-pass drafting COMPLETE / CLOSED**;
+7. do not begin source-check until D14 closes first-pass drafting;
+8. change **0 canonical Tamil page files**.
 
-Gate C remains audit-only. Do not change page wording and do not start Gate C2 without explicit user authorization.
-
-Do not restart Pass 1. Do not resume the discontinued scan-led lexical Pass 2. Gate B is closed. Gate C must remain audit-only unless the user explicitly authorizes Gate C2.
+Whole-volume word-for-word Tamil scan verification remains **NOT CLAIMED**. English workflow progress must not be interpreted as a Tamil status promotion.
 
 # Completed Thirukkural baseline — DO NOT RESTART
 
