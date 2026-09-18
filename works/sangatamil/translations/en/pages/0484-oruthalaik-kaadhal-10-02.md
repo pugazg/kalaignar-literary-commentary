@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 10"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -17,7 +17,7 @@ and send her away yourself!”
 
 As he turned to leave, she stood against him.
 
-“I am the daughter born to a merchant!
+“I am the daughter born to a wealthy merchant!
 I did not come to live by writing Tamil
 for prizes you might give!
 O son of the crowned king,
