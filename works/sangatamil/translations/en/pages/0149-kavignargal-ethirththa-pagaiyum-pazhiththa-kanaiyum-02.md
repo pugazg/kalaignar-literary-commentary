@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "கவிஞர்கள் தெளித்த பன்னீரும் வடித்த கண்ணீரும்!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -113,7 +113,7 @@ that gives good rule
 so that your people  
 do not suffer.
 
-Even if flood, ruin, or drought strikes—
+Even if flood devastation or drought strikes—
 
 <!-- Text continues on scan 150. -->
 <!-- Source scan page: 149; printed page: 136 -->
