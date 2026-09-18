@@ -29,7 +29,7 @@ No! No! Not at all!” he said.
 If, as the townspeople say,
 I had truly been the mother who gave birth to you,
 you would have shone as a son who never disobeyed his mother's word!
-But Kavarpendu is only the nurse-mother who raised this child.
+But Kaavarp Penn is only the nurse-mother who raised this child.
 That is why you treat me lightly.
 Dear prince, I am leaving,” she said, and moved away.
 
@@ -41,7 +41,7 @@ As proof of that,
 tomorrow morning I myself shall go to meet Narkannai
 and tell her a good decision.”
 
-Kavarpendu kissed the crown of Killi's head and blessed him.
+Kaavarp Penn kissed the crown of Killi's head and blessed him.
 
 “It is midnight now, so I shall come tomorrow.
 Both of us will see Narkannai

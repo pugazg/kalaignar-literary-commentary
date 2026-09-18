@@ -14,7 +14,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 
 “Mother! Have you come?” he cried in astonishment.
 
-Yes—Kavarpendu stood before him!
+Yes—Kaavarp Penn stood before him!
 
 “My son Narkilli!
 Two poets, Mamulanar and Kalladanar,
@@ -28,7 +28,7 @@ Once you understood that the enemy's strength had grown,
 your decision was wise.
 But what justice is there
 in arresting one of our Tamil poets?
-Release Kavarpendu without a moment's delay!
+Release Kaavarp Penn without a moment's delay!
 If you do not issue such an order at once,
 put a full stop here and now
 and say that the bond of Kalladanar and Mamulanar with you

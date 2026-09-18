@@ -16,10 +16,10 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 
 ## 10
 
-Kavarpendu—the mother who had raised him
+Kaavarp Penn—the mother who had raised him
 with even greater tenderness than the mother who bore him for ten months—
 was fluttering and trembling like a bird inside a cage
-in the enemy camp.
+in the enemy war-camp.
 Unaware of this, her beloved son Narkilli
 entered the gold-roofed mansion to see Aiyai.
 The moment he saw Narkannai there,

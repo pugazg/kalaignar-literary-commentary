@@ -23,7 +23,7 @@ Turn that event into a poem!” she said.
 
 “I would have been dead by now
 at your brother's hand!
-I have been waiting for the nurse-mother Kavarpendu to return.
+I have been waiting for the nurse-mother Kaavarp Penn to return.
 She said, ‘I myself shall stand at the front and conduct the wedding.’
 Trusting that,
 I am still alive!
@@ -39,7 +39,7 @@ the very life-breath of Perungozhi Nayakan's daughter
 seem to stop.
 
 “Those two villains, Katti and Paanan,
-have shut our Kavarpendu in a prison-cage
+have shut our Kaavarp Penn in a prison-cage
 and dragged her away.
 To rescue the nurse-mother,
 Narkilli goes to the battle-front tomorrow!”
@@ -53,7 +53,7 @@ and went to sleep in separate rooms.
 
 Having vowed that at dawn
 he would lay siege to Paanan and Katti's city
-and recover mother Kavarpendu,
+and recover mother Kaavarp Penn,
 the Chola Narkilli tossed sleeplessly at midnight.
 Then he heard a knock at the door.
 

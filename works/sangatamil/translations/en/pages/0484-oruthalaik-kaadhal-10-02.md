@@ -38,7 +38,7 @@ Have you ever seen a flag that does not sway in a storm?
 There is no lie here—
 see, two flags have become motionless in a gale!
 
-1. By Thithan's command,
+1. By Tittan's command,
 the drum of the naalavai thundered,
 and turmoil spread to all eight directions.
 Paanan and Katti trembled in shock!
@@ -59,7 +59,7 @@ and ran away like a sneering fox!
 we shall have to show our backs—
 and afterward our hearts will sink
 and we shall have to shrink in shame!
-Let Kavarpendu alone remain in our custody.
+Let Kaavarp Penn alone remain in our custody.
 Let infantry, cavalry, elephants and chariots—
 all four divisions—turn back!”
 
