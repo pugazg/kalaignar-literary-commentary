@@ -15,7 +15,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 On the streets of Aamur,
 amid the army marching in formation,
 Narkilli shone like a jewelled crown at its head;
-Sathanthai sat in another chariot beside his,
+Saathanthai sat in another chariot beside his,
 and the host that feared not death came massed together.
 Seeing it, Narkannai buried her face upon Porkodi's shoulder.
 Joy at seeing the sacred form of the man who had entered her heart,
@@ -25,7 +25,7 @@ Striving to show brightness upon her face,
 she stood with tear-filled eyes and blessed them:
 “May the forces of our land return in safety!”
 
-“Look there! Sathanthai!” cried her friend Porkodi, springing up
+“Look there! Saathanthai!” cried her friend Porkodi, springing up
 and pointing to a nearby chariot. That was enough:
 in the blink of an eye Narkannai flew forward,
 outstripping even the wind,
@@ -51,7 +51,7 @@ for the victory of the poem-palm-leaf you gave Narkilli,” he said.
 Placing the flower of her hand upon the flower of his feet, she bowed:
 “May the Karantai battle be victorious!”
 
-“What doubt can there be?” said Sathanthai,
+“What doubt can there be?” said Saathanthai,
 and at once composed a poem.
 
 *

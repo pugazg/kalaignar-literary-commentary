@@ -24,7 +24,7 @@ Then a voice rang out:
 “What is this, girl? Where have you come—to a place like this?
 What business has a fly where iron is being forged?”
 
-Perundevi, her mother, appeared like a chariot of golden jewels.
+Perunthevi, her mother, appeared like a chariot of golden jewels.
 Scolding her until her smile vanished,
 she pulled her back into the house.
 

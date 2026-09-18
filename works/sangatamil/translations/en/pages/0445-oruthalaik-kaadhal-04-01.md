@@ -17,7 +17,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 ## 4
 
 People of Aamur, rise roaring for battle!
-Let the fortress drums of Mukkaval country thunder!
+Let the fortress drums of Mukkaval Nadu thunder!
 
 Against the enemy who plants a foot upon our soil beating the tongue-drum,
 let us beat the war-drum and reduce them to a mound of dust!

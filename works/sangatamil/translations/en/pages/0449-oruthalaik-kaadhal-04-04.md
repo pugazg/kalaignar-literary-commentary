@@ -23,7 +23,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 *
 
 (Purananuru: poem 81  
-Poet: Sathanthaiyar  
+Poet: Saathanthaiyar  
 Subject: Chola Poravaikko Perunarkilli)
 
 Hearing the great poet's verse of firm assurance,
