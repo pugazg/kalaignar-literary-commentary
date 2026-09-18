@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஆயமகன் குழலூதினான்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -25,7 +25,7 @@ cowherd maiden swayed and danced!
 “If he embraces the bull and wins,
 I shall accept him,” she declared!
 With valour he sprang upon the bull—and after
-winning a great victory, he fell upon her in love!
+winning a great victory, he leaned against her in love!
 
 The cowherd youth played his flute; that
 cowherd maiden swayed and danced!

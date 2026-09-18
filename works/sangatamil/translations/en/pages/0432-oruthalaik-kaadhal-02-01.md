@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 2"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -39,12 +39,12 @@ Perungozhi Naaykan shone in Aamur in those days!
 
 Narkannai, the diamond statue shaped by that jewel among merchants,
 was a beauty with the prattling speech of a parrot!
-The whole world would become slave to her luminous eyes!
+The whole world would become a slave to her luminous eyes!
 A peacock's joyous dance lived in her waist and walk!
 When the light of knowledge joins beauty,
 it is as though a thousand pots of honey break into a waterfall—
 nectar! nectar! is it not nectar? Thus
-Narkannai gave fragrance, a poem of Tamil nectar!
+Narkannai blossomed fragrant, a poem of Tamil nectar!
 
 Taking a palm-leaf in her flower-hand and holding the stylus,
 as though breaking the horn of a charging bull,

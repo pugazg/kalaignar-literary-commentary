@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "இருவிழி மழையும் இதய மகிழ்வும்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -20,9 +20,8 @@ will you also see the joy in my heart!
 (Conclusion)
 
 Believing that love should not be forbidden,
-I waited to join him to a casket of sculpted beauty—
+I waited to unite him in marriage with a treasure-chest of sculpted beauty—
 a maiden whose honour suited his heart—
-and to complete the marriage in affection.
 But he himself played ball with elephants, reduced horses to ruin,
 bore the sword-points of villains upon his chest,
 left his beloved to languish,
@@ -31,7 +30,7 @@ floating in tears,
 and completed his duty!
 Joy on one side—tears in my eyes on the other:
 I praise the son who shows me both!
-Am I not the mother who bore him in my womb? By that, I live!
+Am I not the mother who bore him in my womb? That is why I live!
 
 (Opening)
 

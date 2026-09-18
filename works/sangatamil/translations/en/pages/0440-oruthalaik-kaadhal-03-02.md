@@ -6,14 +6,14 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 3"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
 ---
 
-There are those who, when the longing that torments the heart all day
-comes to pierce them upon the bed as though testing its strength,
+There are those whom the longing that torments the heart all day
+assails again upon the bed as though trying its strength,
 feel their hearts cool when evening arrives;
 delighted that the monkey-like day has vanished,
 they praise the night that arrives conveniently for a lovers' meeting!

@@ -6,13 +6,13 @@ work: "sangatamil"
 section: "மணித்தேரில் சென்ற மகன்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
 ---
 
-Not even the thought came to him of racing back
+He did not even think of racing back
 to see his loving mother!
 The others had returned; in their homes
 their kin had already found joy!

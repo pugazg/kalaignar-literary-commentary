@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 2"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -49,4 +49,4 @@ the two mango-fruits swelled still fuller;
 the good maiden's whole body broke into gooseflesh,
 and her cheeks turned henna-red.
 With a leap that would shame a fawn, Narkannai
-fell into her friend's lap without even fainting!
+leaned into her friend's lap without actually fainting!

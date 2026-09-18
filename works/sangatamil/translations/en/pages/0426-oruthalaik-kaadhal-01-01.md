@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 1"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -18,7 +18,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 
 A woman poet called Narkannai,
 who shaped poems in Tamil sweet as sugar-candy,
-did not spend herself composing songs of this world and the next;
+did not spend her time composing songs of this world and the next;
 in the Sangam collections of *Akam*, *Puram* and *Natrinai*,
 she set six poems like golden gems—
 the juice of poetry pressed from the fruits of love!

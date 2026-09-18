@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 3"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -22,7 +22,7 @@ With that well-managed lie she sent her mother away,
 then lay face-down, pressing her breast into the pillow!
 
 Though Narkannai escaped by lying to her mother
-that she had lost sleep because imagination would not conceive
+that she had lost sleep because no idea would take shape
 and she could not compose the poem,
 she did in fact inscribe upon a palm leaf
 a poem like a golden gem,

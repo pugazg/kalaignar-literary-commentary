@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 3"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -18,7 +18,7 @@ Just as my lord torments the warriors of the opposing side,
 is it right that he should torment me too?”
 
 Thus,
-Narkilli saw not only poetic grace
+Narkilli saw more than poetic grace
 in the song Narkannai had written. Afraid that
 if he became entranced by her words he would be caught,
 he frightened his own heart into submission!
