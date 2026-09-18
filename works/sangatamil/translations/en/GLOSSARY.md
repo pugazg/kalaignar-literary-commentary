@@ -53,6 +53,7 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | பட்டினப்பாலை | Pattinappalai | Retain this Sangam work title as the project transliteration. |
 | நெடுநல்வாடை / நெடுநல் வாடை / நெடு நல் வாடை | Nedunalvaadai | Preserve the maintained-English work-title form across the source's spacing variants. |
 | சிறுபாணாற்றுப்படை | Sirupanarruppadai | Retain this Pattuppattu work title as the maintained-English project transliteration. |
+| பெரும்பாணாற்றுப்படை | Perumpanarruppatai | Retain this Pattuppattu work title as the maintained-English project transliteration. |
 
 ## Recurring literary/social terms
 
@@ -74,6 +75,11 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | பாசறை | war-camp | Default contextual rendering for the military camp setting. |
 | வெறி | veri / possession / possession-rite | Retain *veri* when the source discusses the belief or condition itself; use “possession” or “possession-rite” where the maintained prose describes the affliction or ritual action. |
 | வேலன் / வேலர் | Velan / Velars | Retain this source ritual-role name; explanatory prose may identify the role more descriptively only where the source context supports it. |
+| நாழி | nāzhi / grain measure | Retain the source measure as *nāzhi*; explanatory blocks may identify it as a measure of grain. |
+| ஆற்றுப்படை | arruppatai | Retain the classical guide-poem genre term when the source discusses the form itself. |
+| கடுவன் | kaduvan / male monkey | Retain *kaduvan* where the source names the male monkey; explanatory prose may identify the sex. |
+| மந்தி | mandhi / female monkey | Retain *mandhi* where the source names the female monkey; explanatory prose may identify the sex. |
+| முரசு | war-drum / drum | Use **war-drum** where the military/royal function is foregrounded; ordinary **drum** is allowed where context does not require the qualifier. |
 
 ## Classical landscape terms
 
@@ -130,11 +136,11 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | கோவூர் கிழார் / கோவூர்கிழார் | Kovur Kizhar | Retain this poet-name form despite source spacing variation. |
 | வெள்ளைக்குடி நாகனார் | Vellaikkudi Naganar | Retain this poet-name form. |
 | மாறோக்கத்து நப்பசலையார் / நப்பசலை | Marokkathu Nappasalaiyar / Lady Nappasalai | Preserve source-supported provenance and narrative forms rather than forcing one form everywhere. |
-| பெருங்கடுங்கோ | Perungadungko | Retain this poet-name form. |
+| பெருங்கடுங்கோ / பாலைபாடிய பெருங்கடுங்கோ | Perungadungko / Perungadungko who sang the Paalai | Preserve the source's short poet-name and full literary epithet forms. |
 | வேள் ஆய் அண்டிரன் | Vel Ay Andiran | Retain this chieftain-name form. |
 | உறையூர் ஏணிச்சேரி முடமோசியார் | Uraiyur Enicheri Mudamosiyar | Retain this poet-name form. |
 | மருதன் இளநாகனார் | Marudhan Ilanaganar | Retain this poet-name form. |
-| அதியமான் நெடுமான் அஞ்சி | Adiyaman Neduman Anji | Retain this ruler-name form. |
+| அதியமான் / அதியமான் நெடுமான் அஞ்சி | Adiyaman / Adiyaman Neduman Anji | Preserve the source's short and full ruler-name forms. |
 | அதியர் | Atiyars | Retain this clan/dynastic form where the source names the lineage. |
 | தகடூர் | Thagadoor | Retain this place-name form. |
 | தகரோன் / தகடூரான் | Thagaron / man of Thagadoor | Preserve the source's section-title form `தகரோன்` separately from prose `தகடூரான்`; do not silently collapse them. |
@@ -183,6 +189,16 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | குடவாயில் கீரத்தனார் | Kudavayil Keerathanar | Retain this poet-name form. |
 | தொடித்தலை விழுத்தண்டினார் | Thodithalai Vizhuthandinar | Retain this poet-name form. |
 | ஒல்லையூர் | Ollaiyur | Retain this place-name form. |
+| இளம் பெருவழுதி | Ilam Peruvazhuthi | Retain this poet-name form in provenance. |
+| கரும்பிள்ளைப் பூதனார் | Karumpillai Puthanar | Retain this poet-name form. |
+| மருத்துவன் நல்லச்சுதனார் | Maruthuvan Nallachuthanar | Retain this musician/composer-name form where the source credits the musical mode. |
+| செங்குட்டுவன் / சேரன் செங்குட்டுவன் | Senguttuvan / Chera Senguttuvan | Preserve the source's short and dynastic forms by context. |
+| இளவெயினி | Ilaveyini | Retain this poet-name form. |
+| பெருஞ்சேரல் இரும்பொறை / தகடூர் எறிந்த பெருஞ்சேரல் இரும்பொறை | Peruncheral Irumporai / Peruncheral Irumporai who destroyed Thagadoor | Preserve the source's short and epithet-bearing forms. |
+| திருமுடிக்காரி | Thirumudikkari | Retain this ruler-name form. |
+| மலையமான் | Malaiyaman | Retain this chieftain-title/name form. |
+| திருக்கோவலூர் | Thirukovalur | Retain this place-name form. |
+| கருவூர் | Karur | Retain this place-name form. |
 
 ## Recurring maintained-English titles
 
