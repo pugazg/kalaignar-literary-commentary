@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒல்லையூரில் முல்லையோ?"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -20,7 +20,8 @@ with canopies of mullai,
 is identified here with Oliyamangalam
 in the Pudukkottai region.
 
-Born to the elder of that place
+Born to the notable
+Oliyamangalam Kizhar of that place
 was the famed great warrior
 Perunchathan.
 
