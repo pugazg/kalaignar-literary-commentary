@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "இளையோன் எதற்கும் இளையான்!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -95,8 +95,8 @@ of his royal hall—
 Mangudi Kizhar Marudhanar,  
 who sang *Madurai Kanchi*—
 
-so many learned men  
-heard his Tamil verse—
+having heard the Tamil verse  
+of so many learned men—
 
 <!-- Text continues after the full-page illustration on scan 138 and resumes on scan 139. -->
 <!-- Source scan page: 137; printed page: 122 -->
