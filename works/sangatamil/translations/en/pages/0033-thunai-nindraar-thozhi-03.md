@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "துணை நின்றாள் தோழி!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -19,7 +19,7 @@ paints with beauty the scene
 in which those who practise the art of love rejoice!
 
 And in the paalai land too,  
-saying that there are beings who live the culture of love,
+saying that there are birds that live the culture of love,
 
 the poet Othalanthaiyar  
 speaks with compassion of the pain of separation.

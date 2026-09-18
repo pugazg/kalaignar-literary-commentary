@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "மானங்காத்த மறவன்!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 source_tamil_visual_fidelity: "verified"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -29,11 +29,11 @@ You will tremble with feeling!
 
 > * “Even if an infant dies, even if a lump of flesh is born,  
 > they do not spare the sword, saying, ‘It is no person.’  
-> Bound and afflicted like a tethered dog,  
-> would they, before hostile captors, accept a little portion,  
-> lacking strength, merely to cool the fire of the belly—  
-> begging and eating to such a pass—  
-> in this world?”
+> Made to suffer like a tethered dog,  
+> without strength, to beg a small ration of aid from enemies  
+> merely to cool the fire in the belly,  
+> and eat what one has begged—  
+> would mothers bear a child for such a fate in this world?”
 
 <div align="right">
 
