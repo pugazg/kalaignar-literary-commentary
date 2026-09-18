@@ -53,7 +53,7 @@ I have not strayed by even an atom
 from my resolve
 to give my life,
 as I had intended,
-to the strong son of Thithan.
+to the strong son of Tittan.
 I have won a wondrous victory!”
 
 Not even the shadow of pain spread over her face.

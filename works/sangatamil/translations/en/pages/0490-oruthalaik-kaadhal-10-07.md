@@ -15,7 +15,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 ## Explanation of meaning
 
 **Valimigum munpin Paanan** = Paanan possessing great power in war.  
-**Thaarmali Thithan** = Thithan, who wore many garlands of victory.  
+**Thaarmali Tittan** = Tittan, who wore many garlands of victory.  
 **Paadu-in then-kinai paadu** = the resounding of the clear kinai leather-drum, raising a joyful sound.  
 **Naalavai** = the king's athani hall.  
 **Por-adu thaanai Katti** = King Katti, possessing powerful armies able to defeat enemies in battle.  

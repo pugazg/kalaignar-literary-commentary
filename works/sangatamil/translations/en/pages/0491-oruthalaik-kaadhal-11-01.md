@@ -26,7 +26,7 @@ she was sunk in deep sleep!
 
 There had been no exaggeration
 when Katti and Paanan,
-before Kavarpendu,
+before Kaavarp Penn,
 had praised Aiyai's sculpted beauty in imagination.
 
 Paranar had written a poem about a maiden,

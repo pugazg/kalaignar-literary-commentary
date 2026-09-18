@@ -28,7 +28,7 @@ Before that could happen,
 your life has ended
 in the darkness of my ignorance!” he cried.
 
-“Has mother Kavarpendu returned?” she asked,
+“Has mother Kaavarp Penn returned?” she asked,
 her face brightening with joy
 as she inclined her head.
 

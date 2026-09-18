@@ -58,7 +58,7 @@ for the mansion where his sister slept!
 > “With mighty Paanan, of great prowess,
 > hearing the sweet, clear kinai-drum resound
 > in the naalavai of Urandai
-> of garland-rich Thithan Veliyan,
+> of garland-rich Tittan Veliyan,
 > Katti, whose army destroys in battle,
 > fled without fighting........”
 
