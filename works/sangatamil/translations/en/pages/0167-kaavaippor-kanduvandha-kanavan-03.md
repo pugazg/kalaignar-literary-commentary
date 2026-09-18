@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "காடைப் போர் கண்டுவந்த கணவன்!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -56,8 +56,8 @@ Sugarcane, he would say,
 can taste bitter;
 
 but a courtesan's cheek
-is the sweetest segment
-inside the fruit!
+is a segment
+set within a fruit!
 
 While the noble wife at home,
 suffering,
