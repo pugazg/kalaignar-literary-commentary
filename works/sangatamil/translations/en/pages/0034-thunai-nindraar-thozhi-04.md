@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "துணை நின்றாள் தோழி!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -41,18 +41,18 @@ Is that not what you desire?” he asked.
 She bowed her head and nodded, “Yes,”  
 shy as her cheeks reddened like kumkum;
 
-with the big toe of her foot she scratched a line  
+with her big toe she scratched a line  
 and drew a little pattern, while overwhelming delight filled her heart.
 
 The hero, filled with the heat of longing,  
-gave a pat to the swelling beauty of her rear,  
+patted the swelling curve of her rear,  
 shaped like the bowl of a veena, and said:
 
 “Do not grieve in vain, my dear!  
 I swear by the moon travelling through the sky:
 
 I shall soon take your hand and marry you.  
-Cast off sorrow! Only a few days stand between.
+Cast off sorrow! Only a few days remain.
 
 Without peering at the sorrowing side of this world,  
 let us mingle in joy!

@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "துணை நின்றாள் தோழி!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -25,7 +25,7 @@ Whenever the joyful love
 of the hero and heroine buds in secret courtship,
 
 a dear male friend or female confidante  
-gives the needed intelligence
+provides the needed information
 
 and helps it blossom—  
 Tamil literature tells us so;
