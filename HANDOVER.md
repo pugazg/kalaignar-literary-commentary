@@ -222,7 +222,7 @@ The Tamil archival workflow is closed. Continue only the separately scoped maint
 
 1. fetch live `main`;
 2. read `works/sangatamil/translations/en/TRANSLATION_GUIDE.md`, `GLOSSARY.md`, `TRANSLATION_STATUS.md`, and `DRAFT_D14_REPORT.md`;
-3. confirm D1–D14 first-pass drafting is **COMPLETE / CLOSED 497/497** and D14's exact page-layer compare is **16 commits / exactly 16 English page files / 0 canonical Tamil page changes / 0 non-English-page changes**;
+3. confirm D1–D14 first-pass drafting is **COMPLETE / CLOSED 497/497** and D14's exact page-layer compare is **17 commits / exactly 16 English page files / 0 canonical Tamil page changes / 0 non-English-page changes**, with the 17th commit a grammar-only repair to English scan 486;
 4. process **English Source-Check SC1 — scans 1–37** against the maintained canonical Tamil record paragraph-by-paragraph / block-by-block;
 5. check omissions, additions, meaning drift, names, titles, quotations, verse blocks, source labels, page function, provenance and cross-page continuity; preserve scan **8** as description-only / `source-limited`;
 6. promote only passing English `draft` pages to `source-checked`; do not reconstruct the handwritten body on scan 8;
