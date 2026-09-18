@@ -1,6 +1,6 @@
 # Sangatamil — Maintained English Translation Status
 
-**Status: ACTIVE — DRAFT D13 COMPLETE / PASS**
+**Status: ACTIVE — FIRST-PASS DRAFTING COMPLETE / CLOSED**
 
 Repository: `pugazg/kalaignar-literary-commentary`  
 Branch: `main`
@@ -29,7 +29,7 @@ English work does not alter or promote those Tamil statuses.
 | Gate | State |
 |---|---|
 | Control-layer initialization | **COMPLETE / PASS** |
-| First-pass drafting | **481/497 — D1+D2+D3+D4+D5+D6+D7+D8+D9+D10+D11+D12+D13 COMPLETE / PASS** |
+| First-pass drafting | **497/497 — D1+D2+D3+D4+D5+D6+D7+D8+D9+D10+D11+D12+D13+D14 COMPLETE / CLOSED** |
 | Source-check | **0/497** |
 | Glossary reconciliation | **0/497** |
 | Editorial review | **0/497** |
@@ -37,13 +37,13 @@ English work does not alter or promote those Tamil statuses.
 
 Current English page inventory:
 
-- `draft` — **480**
+- `draft` — **496**
 - `source-checked` — **0**
 - `editorial-reviewed` — **0**
 - `release-ready` — **0**
 - `source-limited` — **1** (scan 8)
 - `blocked` — **0**
-- not yet created — **16**
+- not yet created — **0**
 
 ## Drafting closure
 
@@ -149,6 +149,16 @@ Current English page inventory:
 - D13 state — **37 draft / 0 source-limited / 0 blocked**
 - durable report — `DRAFT_D13_REPORT.md`
 
+### D14 — COMPLETE / PASS
+- scans **482–497**
+- English pages — **16/16**
+- page-layer base — `ce6178a0235a74395272b1d77381462885df0ec4`
+- page-layer endpoint — `bbd46a1c5a354ddd089548ab0e8d3702f3ebabed`
+- exact page-layer compare — **16 commits / exactly 16 English page files only / 0 canonical Tamil page changes / 0 non-English-page changes**
+- D14 state — **16 draft / 0 source-limited / 0 blocked**
+- first-pass drafting — **COMPLETE / CLOSED 497/497**
+- durable report — `DRAFT_D14_REPORT.md`
+
 ## Release interpretation
 
 English review/release status is relative to the maintained canonical Tamil archive.
@@ -161,6 +171,8 @@ Normal page-batched cadence: **37 physical scans**.
 
 ## Exact next activity
 
-**Draft D14 — scans 482–497 — final 16-page drafting remainder.**
+**English Source-Check SC1 — scans 1–37.**
 
-Begin with scan **482**, which directly continues scan **481** inside `ஒருதலைக் காதல் — 9`, and continue through scan **497 / back cover**. Complete first-pass drafting before source-check. Preserve page alignment, source status, section/provenance structure, illustration-only records and cross-page continuities. Change **0 canonical Tamil page files**.
+Compare each maintained-English page with its canonical Tamil page paragraph-by-paragraph / block-by-block. Check omissions, additions, meaning drift, names, titles, quotations, verse blocks, page function, provenance and cross-page continuity.
+
+Passing `draft` pages may move to `source-checked`. Scan **8** remains `source-limited` and its handwritten body must not be reconstructed or deciphered. Change **0 canonical Tamil page files**. Do not begin glossary reconciliation until source-check closes for the full corpus.
