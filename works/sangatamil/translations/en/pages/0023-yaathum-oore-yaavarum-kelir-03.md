@@ -6,14 +6,14 @@ work: "sangatamil"
 section: "யாதும் ஊரே; யாவரும் கேளிர்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 source_tamil_visual_fidelity: "verified"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
 ---
 
-—the Tamil Kaniyan Poongundran,  
-born of an ancient people who arose before them,
+—Kaniyan Poongundran,  
+a Tamil born of that ancient people,
 
 plants those truths firmly  
 with the staff of poetic speech!
@@ -68,7 +68,7 @@ that come in life with an even mind,
 not bowing before the wealthy who stand high,  
 not despising the humble who labour in vain—
 
-with many such many-coloured flowers,  
+with many such colourful flowers,  
 we see in this poem a great heart
 
 stringing together lofty thoughts.  

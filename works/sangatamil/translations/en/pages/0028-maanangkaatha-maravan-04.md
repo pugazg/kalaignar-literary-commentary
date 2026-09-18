@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "மானங்காத்த மறவன்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 source_tamil_visual_fidelity: "verified"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -19,7 +19,7 @@ horses sank and stood embedded
 in the bloody mire churned by hooves!
 
 Among the sword-bearing infantry,  
-when wounds fell upon the backs of a few,
+when a few were wounded in the back,
 
 shame pursued them—  
 they fell and died!
@@ -60,7 +60,7 @@ confined him in the prison of Kudavayil fort.
 Unable to let his drawn sword flash,  
 unable to die in battle and add fame to his name,
 
-he withered in pain, every atom of his mind aching,  
-that he had come to live as a prisoner.
+he withered in pain, every atom of his mind aching  
+at having come to live as a prisoner.
 
 <!-- Source scan page: 28; printed page: 13 -->
