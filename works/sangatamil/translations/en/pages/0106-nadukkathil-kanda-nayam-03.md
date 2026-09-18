@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "நடுக்கத்தில் கண்ட நயம்!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -52,7 +52,7 @@ when it is struck and made to roar!
 
 > * “Whenever I think of it, I laugh, friend!  
 > The man of the town whose deep-water aambal blooms  
-> with sharp beaks like the great-clawed rain-bird—  
+> with sharp beaks like a great-clawed bird—  
 > he seized my fragrant fivefold hair,  
 > and in his quarrel tried to strip  
 > the bright bangles from my arm.
