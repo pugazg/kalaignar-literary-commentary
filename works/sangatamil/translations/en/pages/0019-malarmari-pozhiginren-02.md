@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "மலர்மாரி பொழிகின்றேன்!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 source_tamil_visual_fidelity: "verified"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -35,7 +35,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 > paangar, maraam, many-flowered thanakkam,  
 > eengai, ilavam, hanging-clustered kondrai,  
 > arumbu, stately aathi, long-vined avarai,  
-> pagandrarai, palaasam, many-flowered pindi,  
+> paganrai, palaasam, many-flowered pindi,  
 > vanji, pithigam, sindhuvaaram,  
 > thumbai, thuzhaai, flame-flowered thondri,  
 > nandhi, naravam, fragrant punnaagam,  

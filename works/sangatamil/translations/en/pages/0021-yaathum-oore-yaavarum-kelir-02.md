@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "யாதும் ஊரே; யாவரும் கேளிர்!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "verified"
 source_tamil_visual_fidelity: "verified"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -49,15 +49,16 @@ to recover a country or seize a new one—
 very good indeed!
 
 Boundless literatures speak of love,  
-and of the love of those who enter the battlefield;
+and of those who enter the battlefield—
 
-<div align="right">of love too.</div>
+<div align="right">of their love too.</div>
 
-So I shall make my path a path of its own,
+Since they speak of these,  
+I shall make my own path
 
-<div align="right">and begin</div>
+<div align="right">a separate path,</div>
 
-to write:  
+and begin to write:  
 Every town is our town;  
 every human being is our kin.”
 
