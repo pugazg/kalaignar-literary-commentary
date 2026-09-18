@@ -32,7 +32,7 @@ cowherd maiden swayed and danced!
 
 (Verse)
 
-The maiden of the Mullai land, lovely as a bud,
+The maiden of the *mullai* land, lovely as a bud,
 would say of a man who fears the horns of a charging bull:
 “Not only in this birth—even if there is
 another birth after this,

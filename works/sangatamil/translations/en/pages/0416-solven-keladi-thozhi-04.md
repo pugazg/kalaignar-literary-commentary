@@ -18,7 +18,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 
 *
 
-(Kalithokai: poem 51  
+(Kalithogai: poem 51  
 Poet: Kapilar)
 
 ## Explanation of meaning:

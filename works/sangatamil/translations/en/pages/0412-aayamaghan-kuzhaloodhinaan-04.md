@@ -12,7 +12,7 @@ source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
 ---
 
-(Kalithokai: Mullaikkali  
+(Kalithogai: Mullai Kali  
 From poems 101, 103 and 106  
 Poet: Nalluthiranar)
 

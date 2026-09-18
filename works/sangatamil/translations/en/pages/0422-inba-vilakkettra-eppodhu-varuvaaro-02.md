@@ -14,7 +14,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 
 (Verse 3)
 
-I told him pallor would spread over my whole body;
+I told him love-pallor would spread over my whole body;
 on the green-grove earth I held his hand and wept.
 When I realize even that was of no use,
 my heart becomes cotton thrown into fire, my friend!
@@ -52,4 +52,4 @@ when will he come and light the lamp of joy, my friend?
 > stags have grazed; beside the cut stalks,
 > the *mullai* blooming along both sides,
 > its soft little buds like a wildcat's smile,
-> unfold into fragrant flowers in the Mullai land...
+> unfold into fragrant flowers in the *mullai* land...

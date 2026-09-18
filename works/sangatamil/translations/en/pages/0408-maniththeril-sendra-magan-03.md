@@ -33,7 +33,7 @@ he did not wish to return without driving away the enemy.
 
 *
 
-> “Though neem branches are broken and set up, though *kanchi* is sung,
+> “Though neem branches are broken and set up, though *Kanchi* is sung,
 > though hands bearing ghee smoke mustard seed,
 > every house resounds with a clattering din.
 > Is he still raging hot and striking down the foe?

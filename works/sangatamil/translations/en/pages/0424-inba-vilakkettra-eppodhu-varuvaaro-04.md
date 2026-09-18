@@ -18,7 +18,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 *
 
 (Kuruntokai: poem 220  
-Poet: Okkur Maasathiyar  
+Poet: Okkur Masathiyar  
 (woman poet))
 
 ## Explanation of meaning:
@@ -26,7 +26,7 @@ Poet: Okkur Maasathiyar
 *Pazhamazhai kavitha* = made lush by fallen rain.  
 *Iralai* = stag. *Iruvi* = the stalk of millet after its ear has been reaped.  
 *Verugu* = wildcat.  
-*Pasuvee menpinik kurumugai* = the small bud of the *mullai* flower with a soft young bud-tip. *Puravu* = Mullai land.  
+*Pasuvee menpinik kurumugai* = the small bud of the *mullai* flower with a soft young bud-tip. *Puravu* = *mullai* land.  
 *Kandisin thozhi* = friend, consider this and see.
 
 *
