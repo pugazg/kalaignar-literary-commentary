@@ -8,7 +8,7 @@
 - batch: **D14**
 - physical scans: **482–497**
 - page-layer base: `ce6178a0235a74395272b1d77381462885df0ec4`
-- page-layer endpoint: `bbd46a1c5a354ddd089548ab0e8d3702f3ebabed`
+- page-layer endpoint: `fa4f316b4ef1bd16b84cde035e740ab463c198ba`
 
 ## Scope
 
@@ -75,14 +75,14 @@ No canonical Tamil page was changed during this batch.
 
 Compare:
 
-`ce6178a0235a74395272b1d77381462885df0ec4...bbd46a1c5a354ddd089548ab0e8d3702f3ebabed`
+`ce6178a0235a74395272b1d77381462885df0ec4...fa4f316b4ef1bd16b84cde035e740ab463c198ba`
 
 Result:
 
 - compare status — **ahead / non-divergent**
-- commits — **16**
+- commits — **17**
 - changed files — **16**
-- all changed files — newly added English page records for scans **482–497**
+- changed-file set — exactly the **16 English page records for scans 482–497**; scan 486 received one subsequent grammar-only repair within D14
 - canonical Tamil page changes — **0**
 - non-English-page changes during D14 page drafting — **0**
 
@@ -104,6 +104,7 @@ D14 page commits:
 14. `4c3d6eaa4c39fd55bb0eaca93286acd0204479a3` — scan **495**
 15. `02a932a97e239a0e0fa76306b693ea7bb8204d62` — scan **496**
 16. `bbd46a1c5a354ddd089548ab0e8d3702f3ebabed` — scan **497**
+17. `fa4f316b4ef1bd16b84cde035e740ab463c198ba` — scan **486**, narrow English grammar repair only
 
 ## First-pass drafting closure
 
