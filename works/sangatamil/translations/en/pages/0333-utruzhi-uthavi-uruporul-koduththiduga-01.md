@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "உற்றுழி உதவி உறுபொருள் கொடுத்திடுக!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -32,7 +32,7 @@ possessed of noble learning.
 
 There is also the story that, in the haste
 of giving judgement without investigation,
-Kannagi condemned him as an ‘unseeing king.’
+Kannagi condemned him as an ‘undiscerning king.’
 The moment he realized that justice had died,
 he gave his own life to that justice
 and made it walk alive again.
