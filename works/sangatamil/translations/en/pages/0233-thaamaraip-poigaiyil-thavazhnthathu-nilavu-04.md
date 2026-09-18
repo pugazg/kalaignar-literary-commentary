@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "தாமரைப் பொய்கையில் (?) தவழ்ந்தது நிலவு!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -33,9 +33,8 @@ who seats in his assembly
 a wicked man
 who knows no justice,
 
-and conducts a kingdom
-through injustice
-and perverted law!
+and rules a kingdom
+amid injustice!
 
 Let me bear the name
 of a sinner
