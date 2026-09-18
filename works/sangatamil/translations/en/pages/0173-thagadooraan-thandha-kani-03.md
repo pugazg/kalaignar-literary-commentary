@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "தகரோன் தந்த கனி!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -45,8 +45,8 @@ would keep death away.
 The moment he heard
 that this was true,
 
-without even
-an eyelid's hesitation,
+without hesitating
+even for the blink of an eye,
 
 he plucked the fruit
 and took it.

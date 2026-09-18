@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "நீலமலை நீரினும் குளிர்ந்த நெஞ்சம்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -37,8 +37,8 @@ Life is not merely
 eating and sleeping.
 
 Life is to go
-to the battlefront
-where wounds are won,
+to the battlefront,
+face wounds,
 
 and stand in glory
 for victory

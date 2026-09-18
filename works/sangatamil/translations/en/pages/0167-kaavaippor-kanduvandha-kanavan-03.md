@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "காடைப் போர் கண்டுவந்த கணவன்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -57,7 +57,7 @@ can taste bitter;
 
 but a courtesan's cheek
 is a segment
-set within a fruit!
+nestled inside a fruit!
 
 While the noble wife at home,
 suffering,

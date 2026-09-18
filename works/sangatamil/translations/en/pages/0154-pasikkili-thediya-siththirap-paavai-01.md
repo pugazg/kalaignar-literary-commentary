@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "செவிலி தேடிய சித்திரப் பாவை!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -24,7 +24,7 @@ and shakes the sky—
 must I, a young parrot  
 in the bloom of youth,
 
-become useless?
+go to waste?
 
 Lift your eyes  
 and see my state!

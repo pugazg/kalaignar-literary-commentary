@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "பதிலை நெருப்பாக உமிழ்ந்த பாவாணர்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -26,9 +26,9 @@ may go there to dance;
 but enemy kings
 would not set out with armies
 
-and dare even to lay their heads
-in the direction
-of the mountain he ruled!
+or even dare lie down
+with their heads pointing
+toward the mountain he ruled!
 
 He was the warrior
 who opposed the Kongars,
