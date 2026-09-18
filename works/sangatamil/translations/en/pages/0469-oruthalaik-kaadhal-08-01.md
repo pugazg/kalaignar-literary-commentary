@@ -35,7 +35,7 @@ Though I acted in haste in the assembly,
 you do not know what truly happened!
 To learn the heart of Uraiyur's prince,
 I spent a night speaking openly with him on your behalf
-in the tireless battle-camp at the war-front.
+in the tireless war-camp at the war-front.
 
 ‘Let the battle end; we shall speak afterwards.
 Let tomorrow dawn with news of victory,’ he said,

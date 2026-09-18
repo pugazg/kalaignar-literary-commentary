@@ -12,24 +12,24 @@ source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
 ---
 
-“—Viraivenman Veliyan Thithan,
+“—Veeraivenmaan Veliyan Tittan,
 the lord for whom that swiftly arriving evening was meant!”
-Thus the poet Mudukootranar praised Thithan
+Thus the poet Mudukootranar praised Tittan
 with a flower of verse dripping Tamil honey!
 
 Was that all?
 
 2. “Uraiyur, a land rich in distinction, splendour and prosperity,
 with a great elephant-force of small-eyed elephants,
-where the prowess of Thithan, who does not weaken in war,
+where the prowess of Tittan, who does not weaken in war,
 flowers in abundance”—
-so the stately poet Nakkirar
-set down praise of Thithan upon the palm-leaf!
+so the stately poet Nakkeerar
+set down praise of Tittan upon the palm-leaf!
 He had a daughter named Aiyai—
 the beloved younger sister of your dear Killi!
 Taking that Aiyai as the subject,
 the great poet Paranar wrote in praise,
-naming her father Thithan.
+naming her father Tittan.
 If so, is it easy even to tell
 the greatness of that maiden?
 
@@ -42,7 +42,7 @@ upon two lovely forearms that move,
 adorned with pearls, coral and other ornaments,
 her shoulders swelling like bamboo,
 the graceful maiden Aiyai shines with the golden wealth called chastity.
-Her father is the king Maaven Thithan,
+Her father is the king Maaven Tittan,
 who gives bounty like rain!
 
 Many kings dreamed by daylight

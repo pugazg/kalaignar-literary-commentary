@@ -13,7 +13,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 ---
 
 “Now it is only a lifeless body speaking with you, child!
-This Sathanthai is only spent cane with no juice left!
+This Saathanthai is only spent cane with no juice left!
 A top without its string cannot spin;
 your heart, learned in poetry, will understand my state, child!”
 
@@ -23,7 +23,7 @@ Seeing the poet tremble as though blame itself had come upon him,
 Narkannai mixed calm into her words and began to speak:
 
 “No, poet; give no answer to pain.
-Sathanthai shall be a deathless father to Tamil!
+Saathanthai shall be a deathless father to Tamil!
 Heaps of gold and jewels, mountains of diamonds, vaidurya and pearls,
 lofty mansions and towers, fortress-gates,
 the rule of a victory-parasol before which people bow and praise,
@@ -43,7 +43,7 @@ Ashamed, not knowing how to answer the poet's question,
 she immediately changed the subject:
 “For what purpose has Killi gone to Uraiyur?”
 
-“Between Thithan and Killi
+“Between Tittan and Killi
 a battle of principles took place.
 A hurt arose between father and son,
 and that gave an opening to their enemies, child!

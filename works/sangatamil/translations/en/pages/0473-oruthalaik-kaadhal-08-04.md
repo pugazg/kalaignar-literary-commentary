@@ -14,14 +14,14 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 
 “—a man named Palverkatti—
 sent a messenger bearing a sealed palm-leaf,
-asking to marry Thithan's daughter,
+asking to marry Tittan's daughter,
 that sweet mango-fruit!
 
 4. In the message on the palm-leaf he wrote:
 ‘After I give you many peerless, shining navamani jewels
 worthy of Uraiyur itself,
 I shall take your daughter.’
-Seeing those words, Thithan said:
+Seeing those words, Tittan said:
 ‘Whatever he gives, I shall not take it.
 I shall not give my daughter to the king called Katti.
 
@@ -40,7 +40,7 @@ had taken a single form,
 he would kick Katti and Paanan back
 without letting either set foot across the border.
 Sounding the war-drum,
-he has gone to Uraiyur,” Sathanthai said!
+he has gone to Uraiyur,” Saathanthai said!
 
 “I too shall go in search of my god!” she cried,
 and vanished from there
@@ -51,11 +51,11 @@ when Narkannai entered the flower-filled outskirts of Uraiyur,
 her two eyes leapt with wonder.
 
 5. At the front of a small house
-she saw Kavarpendu, poet-queen and nurse of classical Tamil,
+she saw Kaavarp Penn, poet-queen and nurse of classical Tamil,
 standing there!
 Overflowing with eagerness she ran to her,
 clung to a pillar there,
 and asked, “Mother! Where is your son?”
-Kavarpendu knew Narkannai,
+Kaavarp Penn knew Narkannai,
 the golden moon who loved not only Tamil
 but her son as well—
