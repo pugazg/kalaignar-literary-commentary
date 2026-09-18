@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "கீ. இராமலிங்கனார் மடல்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 source_tamil_visual_fidelity: "verified"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -24,7 +24,7 @@ I set myself to write, in the form of an essay, a foreword for *Sangatamil*, a w
 
 Because of the unsteadiness brought on by infirmity, I lost my footing and fell. My left hip was struck, and there is pain so severe that I cannot move it. I am confined to bed. Even eating and attending to bodily needs have to take place in bed.
 
-My friend Professor Murugesan came to see me. Relying on his affection, I was able to prepare this. I am in a condition in which I have lost the opportunity to come in person and converse with you. I request that you yourself refine the foreword and send it to the press.
+My friend Professor Murugesan came to see me. With his affectionate help, I was able to prepare this. I am unable to come in person and converse with you. I request that you yourself refine the foreword and send it to the press.
 
 If, after knowing your views, there is anything further to be done, I am ready to complete it.
 

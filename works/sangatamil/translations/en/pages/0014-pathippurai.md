@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "பதிப்புரை"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 source_tamil_visual_fidelity: "verified"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -22,7 +22,7 @@ We thank Kalaikkani Publications for granting us the publication rights that ena
 
 Our thanks are due to Amudhon, who designed the headings in pictorial form; Suba Sundaram, who supplied Kalaignar's colour photograph; “Kanthalagam,” which set the type in the modern phototypesetting method; Paavai Chandran, associate editor of *Kungumam*, and the *Kungumam* publishing house, who gave every assistance in bringing out this volume; and Srinivas Fine Arts of Sivakasi, who printed the book so finely.
 
-When this book comes to rest in the hands of Tamil people with a love of literature, we can feel that everyone will share the joy we have. Greetings!
+When this book reaches the hands of Tamil readers who love literature, we can feel that they will share our joy. Greetings!
 
 <div align="left">
 

@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "அணிந்துரை"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "verified"
 source_tamil_visual_fidelity: "verified"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -24,11 +24,11 @@ The poems published in the twenty-one issues that have appeared so far are arran
 
 <!-- Visual note: the printed list is arranged in two columns. A later pencil annotation appears near item 6; it is not part of the printed body. -->
 
-Even as one reads and savours the explanatory poems, each title gives delight by revealing how subtly and aptly it has been chosen after entering into the inner substance of the corresponding Sangam poem. At a time when the desire to read and enjoy Sangam Tamil poems has faded, and when the tendency of some people to make the public neglect their brilliance—their literary quality—and neither enjoy nor study them is increasing, the author's explanatory poems bearing these titles perform the rare service of fostering among ordinary people an eagerness to honour and read them.
+As one reads and savours the explanatory poems, each title delights by showing how subtly and aptly it has been chosen from a close understanding of the corresponding Sangam poem. At a time when the desire to read and enjoy Sangam Tamil poems has faded, and when the tendency of some people to make the public neglect their brilliance—their literary quality—and neither enjoy nor study them is increasing, the author's explanatory poems bearing these titles perform the rare service of fostering among ordinary people an eagerness to honour and read them.
 
 Alongside this Tamil service, the material published in the later eleven issues shines as a single short epic under the one title *One-Sided Love*. Drawing on nine *Purananuru* poems and nine poems from works dealing with *akam*—three from *Natrinai*, five from *Akananuru*, and one from *Kuruntokai*—the author's rare artistic skill in imagining a beautiful short epic deserves great praise.
 
-The author of this book possesses the twofold distinction of shining not only as a fine artist but also as a sweet poet. Thus he has the excellence of making his artistic gift blossom as delightful Tamil poetry radiant with poetic grace. Since he also shines as an “elder scholar,” with mature knowledge he is richly capable of shaping many matters filled with refinement—
+The author of this book bears a twofold distinction: he shines not only as a fine artist but also as a sweet poet. Thus he has the excellence of making his artistic gift blossom as delightful Tamil poetry radiant with poetic grace. Since he also shines as an “elder scholar,” with mature knowledge he is richly capable of shaping many matters filled with refinement—
 
 <!-- Text continues on scan 13 / printed page VIII. -->
 <!-- Source scan page: 12; printed page: VII -->
