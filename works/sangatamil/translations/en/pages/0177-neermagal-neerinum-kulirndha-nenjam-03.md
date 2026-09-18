@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "நீர்மகள் நீரினும் குளிர்ந்த நெஞ்சம்!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -122,20 +122,18 @@ Like a peahen
 in its season,
 she wastes away.
 
-Hide the pallor
+The pallor
 that spreads
-across her body,
+across her body
 
-and take in your hand,
-O king,
+is hidden;
+on her face
+she shines
 
-the broad-browed forehead
-that shines on her face
-
-<div align="right">with</div>
+<div align="right">like</div>
 <div align="right">your</div>
 
-radiance like golden light—
+radiant golden light—
 
 <!-- Text continues on scan 178. -->
 <!-- Source scan page: 177; printed page: 164 -->
