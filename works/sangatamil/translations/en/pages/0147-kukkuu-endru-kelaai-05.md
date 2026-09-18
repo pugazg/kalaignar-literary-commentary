@@ -57,7 +57,7 @@ said the friend.
 
 <div align="right">
 
-(*Kurunthogai* — Poem 32  
+(*Kuruntokai* — Poem 32  
 Poet: Allur Nanmullaiyar)
 
 </div>
@@ -78,7 +78,7 @@ Poet: Allur Nanmullaiyar)
 
 <div align="right">
 
-(*Kurunthogai* — Poem 157  
+(*Kuruntokai* — Poem 157  
 Poet: Allur Nanmullaiyar)
 
 </div>

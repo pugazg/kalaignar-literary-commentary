@@ -58,6 +58,9 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | பொதுமகள் | public woman / Common Woman | Context-sensitive: prose may use “public woman”; the recurring section title remains “The Lament of a Common Woman.” |
 | விலைமகள் | woman for hire / courtesan | Preserve the transactional force where the source foregrounds விலை; do not mechanically replace every occurrence with one label. |
 
+| வலவன் | valavan / driver / charioteer | Preserve *valavan* when the source's interpretive discussion turns on the term itself; explanatory prose/gloss may identify the role as driver or charioteer. |
+| மடல் | madal | Retain the classical practice/object term in italics where the source discusses mounting/riding the palmyra *madal*; explanatory blocks may identify it as a palmyra frond. |
+
 ## Classical landscape terms
 
 | Tamil | Default English/transliteration | Editorial note |
@@ -96,6 +99,18 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | ஐயூர் மூலங்கிழார் | Aiyur Moolankizhar | Retain this poet-name form. |
 | பரணர் | Paranar | Retain this poet-name form. |
 | பொன்முடியார் | Ponmudiyar | Retain this poet-name form. |
+
+| சோழன் நல்லுருத்திரன் | Cholan Nalluruthiran | Retain this poet/royal-name form in provenance. |
+| இளஞ்சேட் சென்னி | Ilanchet Senni | Retain this Chola king-name form. |
+| ஊன்பொதிப் பசுங்குடையார் / ஊன்பொழிப் பசுங்குடையார் | Oonpothi Pasungudaiyar / Oonpozhi Pasungudaiyar | Preserve the source's two printed forms by context; do not silently normalize one into the other. |
+| வழுதியார் | Vazhuthiyar | Preserve this source narrative poet-name form where it occurs. |
+| பாண்டியன் பெருவழுதி | Pandiyan Peruvazhuthi | Retain this provenance form. |
+| உறையூர் முதுக்கண்ணன் சாத்தனார் | Uraiyur Mudhukannan Sathanar | Retain this poet-name form. |
+| நெடுஞ்செழியன் / பாண்டியன் நெடுஞ்செழியன் | Nedunchezhiyan / Pandiyan Nedunchezhiyan | Preserve the dynastic qualifier where the source/provenance supplies it. |
+| மாங்குடி மருதனார் / மாங்குடிக் கிழார் மருதனார் | Mangudi Marudhanar / Mangudi Kizhar Marudhanar | Preserve source-supported contextual expansion; do not mechanically force one form everywhere. |
+| அள்ளூர் நன்முல்லையார் | Allur Nanmullaiyar | Retain this poet-name form. |
+| ஆலத்தூர் கிழார் | Alathur Kizhar | Retain this poet-name form. |
+| கிள்ளிவளவன் | Killivalavan | Retain this Chola king-name form. |
 
 ## Recurring maintained-English titles
 
