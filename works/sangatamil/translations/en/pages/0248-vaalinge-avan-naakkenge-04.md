@@ -95,7 +95,7 @@ the red battlefield.
 <div align="right">
 
 (*Purananuru* — Poem 278  
-Poet: Kakkaipadiniyar Nachellaiyar)
+Poet: Kaakkaip Paadiniyar Nachellaiyar)
 
 </div>
 

@@ -67,6 +67,10 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 
 | பரிசிலன் | parisilan / gift-receiving poet | Use the source gloss “a poet who receives gifts” where an explanation is required; retain transliteration when the term itself is under discussion. |
 
+| குறளன் | kuralan / short man | Retain *kuralan* when the source discusses the term itself; explanatory prose may identify the physical description as a short man. |
+| கூனி | kooni / hunchbacked woman | Retain *kooni* when the source discusses the term itself; explanatory prose may identify the physical description as a hunchbacked woman. |
+| பாசறை | war-camp | Default contextual rendering for the military camp setting. |
+
 ## Classical landscape terms
 
 | Tamil | Default English/transliteration | Editorial note |
@@ -152,6 +156,14 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | கடியலூர் உருத்திரங் கண்ணனார் | Kadiyalur Uruthirankannanar | Retain this poet-name form. |
 | நெடும்பள்ளியத்தை | Nedumpalliyaththai | Retain this woman-poet name form. |
 | ஓரம்போகியார் | Orampogiyar | Retain this poet-name form. |
+
+| பூதப் பாண்டியன் | Bootha Pandiyan | Retain this Pandya king-name form. |
+| பெருங்கோப்பெண்டு | Perungoppendu | Retain this Pandya queen-name form. |
+| கடுந்தோள் கரவீரன் | Kadunthol Karaveeran | Retain this poet-name form. |
+| கழார்க் கீரன் எயிற்றி | Kazhark Keeran Eyitri | Retain this poet-name form. |
+| குப்பைக் கோழியார் / குப்பைக்கோழியார் | Kuppaik Kozhiyaar | Retain this poet-name form despite source spacing variation. |
+| வேள் எவ்வி | Vel Evvi | Retain this ruler-name form. |
+| சேரமான் யானைக்கட்சேய் இரும்பொறை | Cheraman Yanaikkat-sey Irumporai | Retain this Chera ruler-name form. |
 
 ## Recurring maintained-English titles
 

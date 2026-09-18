@@ -105,7 +105,7 @@ to the appointed day.
 
 <div align="right">
 
-(*Kurunthogai* — Poem 35  
+(*Kuruntokai* — Poem 35  
 Poet: Kazhark Keeran Eyitri)
 
 </div>

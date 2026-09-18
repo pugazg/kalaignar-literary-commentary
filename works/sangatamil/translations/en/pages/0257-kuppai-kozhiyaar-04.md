@@ -46,7 +46,7 @@ to end this illness
 
 <div align="right">
 
-(*Kurunthogai* — Poem 305  
+(*Kuruntokai* — Poem 305  
 Poet: Kuppaik Kozhiyaar)
 
 </div>

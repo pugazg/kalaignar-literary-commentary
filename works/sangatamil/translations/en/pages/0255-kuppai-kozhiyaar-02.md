@@ -84,7 +84,7 @@ and prevent my destruction,”
 she lamented.
 
 Because the name
-of the *Kurunthogai* poet
+of the *Kuruntokai* poet
 who made the rubbish-heap cockfight
 a simile
 for that maiden's anguished heart
@@ -108,5 +108,5 @@ in that joy!
 
 <div align="center">*</div>
 
-<!-- The Kurunthogai verse follows after illustration scan 256 on scan 257. -->
+<!-- The Kuruntokai verse follows after illustration scan 256 on scan 257. -->
 <!-- Source scan page: 255; printed page: 242 -->

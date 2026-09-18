@@ -41,7 +41,7 @@ unable to survive widowhood,
 
 <div align="right">
 
-(*Kurunthogai* — Poem 69  
+(*Kuruntokai* — Poem 69  
 Poet: Kadunthol Karaveeran)
 
 </div>

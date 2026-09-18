@@ -43,7 +43,7 @@ to the learned-celebrated
 and *Puram* works!
 
 One piece of evidence
-lies in beautiful *Kurunthogai*—
+lies in beautiful *Kuruntokai*—
 
 a sweet segment
 of sugarcane
