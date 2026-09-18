@@ -91,6 +91,9 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | பஞ்சாய்க் கோரை | panchai reed / sedge grass | Retain *panchai* where the plant name itself is foregrounded; explanatory blocks may identify it as a sedge grass. |
 | பசலை | love-pallor | Default maintained-English rendering for the love-separation pallor/illness. |
 | பண் | pann / musical mode | Retain *pann* when the source names a Tamil musical mode; preserve a specific mode name such as Kanchi where supplied. |
+| காஞ்சி (பண் / பாடல்) | Kanchi | Retain the capitalized named song/mode form where the source foregrounds it; do not confuse it with a place-name use. |
+| தொகையறா / தொகையறு | Thogaiyara | Retain this song-section label as the maintained-English transliteration. |
+| கரந்தை (போர்) | Karandhai / battle against cattle-raiders | Retain **Karandhai** when the source names the battle category; explanatory prose may describe its cattle-recovery context. |
 
 ## Classical landscape terms
 
@@ -172,7 +175,7 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | பறம்பு / பறம்புமலை | Parambu / Parambu Hill | Preserve the place/hill distinction shown by context. |
 | தேவநேயப் பாவாணர் | Devaneya Pavanar | Retain this scholar-name form in the source note. |
 | தமிழ்க்குடிமகன் | Tamilkudimagan | Retain this scholar-name form in the source note. |
-| கரிகாலன் / கரிகால் பெருவளத்தான் / கரிகால் வளவன் | Karikalan / Karikal Peruvalathan / Karikal Valavan | Preserve the source's contextual royal-name and epithet variants; do not mechanically flatten them. |
+| கரிகாலன் / கரிகால் பெருவளத்தான் / கரிகால் வளவன் / கரிகால் சோழன் | Karikalan / Karikal Peruvalathan / Karikal Valavan / Karikal Chola | Preserve the source's contextual royal-name, dynastic and epithet variants; do not mechanically flatten them. |
 | காவிரி | Kaveri | Retain this river/place-name form in the maintained English. |
 | கடியலூர் உருத்திரங் கண்ணனார் | Kadiyalur Uruthirankannanar | Retain this poet-name form. |
 | நெடும்பள்ளியத்தை | Nedumpalliyaththai | Retain this woman-poet name form. |
@@ -233,6 +236,25 @@ Defaults are context-aware; do not force one English equivalent mechanically.
 | கோழிக்கொற்றன் | Kozhikkotran | Retain this poet-name form. |
 | நரிவெரூஉத் தலையார் | Nariverooth Thalaiyar | Retain this poet-name form. |
 | பதுமனார் | Padumanar | Retain this poet-name form. |
+| வெள்ளைமாறனார் | Vellaimaranar | Retain this poet-name form. |
+| நல்லுத்திரனார் | Nalluthiranar | Retain this poet-name form where the source provenance uses the shorter form. |
+| பூங்கண் உத்திரையார் | Poongkan Uthiraiyar | Retain this woman-poet name form. |
+| நற்கண்ணை / நற்கண்ணையார் | Narkannai / Narkannaiyar | Preserve the narrative personal-name and honorific provenance forms by context. |
+| காவற்பெண்டு | Kaavarp Penn | Retain this woman-poet/foster-mother name form. |
+| பெருநற்கிள்ளி / நற்கிள்ளி / கிள்ளி | Perunarkilli / Narkilli / Killi | Preserve the full, shortened and familiar source forms by context. |
+| போரவைக் கோப்பெரு நற்கிள்ளி / சோழன் போரவைக்கோ பெருநற்கிள்ளி | Poravaik Kopperu Narkilli / Chola Poravaikko Perunarkilli | Preserve the source's epithet-bearing forms rather than flattening them into the short name. |
+| சாத்தந்தை / சாத்தந்தையார் | Saathanthai / Saathanthaiyar | Preserve source-supported short and honorific poet-name forms. |
+| தித்தன் / வீரைவேண்மாண்வெளியன் தித்தன் | Tittan / Veeraivenmaan Veliyan Tittan | Preserve the source's short and full ruler-name forms. |
+| ஆமூர் | Aamur | Retain this place-name form. |
+| முக்காவல் நாடு | Mukkaval Nadu | Retain this regional name form. |
+| உறையூர் | Uraiyur | Retain this place-name form. |
+| பெருங்கோழிநாய்கன் | Perungozhi Naaykan | Retain this merchant-name form. |
+| பொற்கொடி | Porkodi | Retain this personal-name form in the one-sided-love sequence. |
+| பெருந்தேவிநாச்சி | Perunthevi Naachiyar | Retain this personal-name form. |
+| காவிரிப்பூம்பட்டினம் | Kaveripoompattinam | Retain this port/place-name form. |
+| குடமலை | Kudamalai | Retain this mountain/place-name form. |
+| ஈழநாடு / ஈழம் | Eelam | Retain **Eelam** for the source's regional name. |
+| கடாரம் | Kadaram | Retain this regional/trade-place name form. |
 
 ## Recurring maintained-English titles
 
