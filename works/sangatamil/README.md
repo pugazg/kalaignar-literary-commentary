@@ -2,7 +2,7 @@
 
 Source-first archival workspace for the 497-scan volume TVA_BOK_0042551_சங்கத்_தமிழ்.pdf.
 
-## Current state — 2026-09-17
+## Current state — 2026-09-18
 
 Gate A — COMPLETE / PASS:
 - canonical page records — 497/497
@@ -169,7 +169,7 @@ Final declaration:
 
 ## Maintained English translation — ACTIVE
 
-A separately scoped project-created English layer is active under `translations/en/`, modeled on the maintained-English Kuraloviyam workflow. Drafts D1–D13 scans **1–481 are COMPLETE / PASS**.
+A separately scoped project-created English layer is active under `translations/en/`, modeled on the maintained-English Kuraloviyam workflow. Drafts D1–D14 scans **1–497 are COMPLETE / PASS**; first-pass drafting is **COMPLETE / CLOSED**.
 
 Controls:
 - `translations/en/README.md`
@@ -177,13 +177,14 @@ Controls:
 - `translations/en/TRANSLATION_STATUS.md`
 - `translations/en/GLOSSARY.md`
 - `translations/en/DRAFT_D13_REPORT.md`
+- `translations/en/DRAFT_D14_REPORT.md`
 
 Current maintained-English state:
 
-- page records — **481/497**
-- `draft` — **480**
+- page records — **497/497**
+- `draft` — **496**
 - `source-limited` — **1** (scan 8)
-- not yet created — **16**
+- not yet created — **0**
 - source-check — **0/497**
 - canonical Tamil page changes from English drafting — **0**
 
@@ -191,4 +192,4 @@ This downstream layer does **not** reopen or mass-promote the canonical Tamil re
 
 ## Exact next activity
 
-**English Draft D14 — scans 482–497**, the final **16-page** first-pass drafting remainder. Begin with the direct continuation from scan **481** into **482** in `ஒருதலைக் காதல் — 9`, continue through scan **497 / back cover**, and change **0 canonical Tamil page files**. Do not begin source-check until D14 is complete.
+**English Source-Check SC1 — scans 1–37.** First-pass drafting is **COMPLETE / CLOSED 497/497**. Compare maintained English with canonical Tamil paragraph-by-paragraph / block-by-block; preserve scan **8** as `source-limited`; change **0 canonical Tamil page files**.
