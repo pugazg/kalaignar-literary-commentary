@@ -19,7 +19,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 | Title | : Sangatamil. |
 | Author | : Kalaignar M. Karunanidhi. |
 | Subject | : Literature (explanatory poetic lines on Sangam Tamil, in an accessible style) |
-| Publisher | : Rockfort Publications (P) Ltd. Chennai 600 083. |
+| Publisher | : Rock Fort Publications (P) Ltd. Chennai 600 083. |
 | Publication | : 4. |
 | Edition | : One. |
 | Paper | : Maplitho. |

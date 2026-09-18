@@ -16,6 +16,6 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 
 The works said to have been created and collected by the Third Sangam are the *Ettuthogai*, the *Pattuppattu*, the *Pathinenkilkanakku*, and the Five Great Epics. Of these, the “Ettuthogai” comprises eight books collecting poems on *akam* and *puram*. *Akam* poems speak of the emotions in the hearts of two lovers who stand by the principle of one man for one woman—feelings that take place within their inner world and give joy to them both. Even they cannot readily explain to one another the precise nature of that joy. All other matters belong to *puram*. Of the eight anthologies, five deal with *akam*. *Akam* themes also occur in the work called *Paripadal*. Of the Ettuthogai, *Purananuru* and *Pathitrupathu* are the two that speak of *puram* matters. Poems from *Purananuru* are explained in this book.
 
-From the five Ettuthogai works devoted wholly to *akam* themes—*Natrinai*, *Kurunthogai*, *Akananuru*, *Ainkurunuru* and *Kalithogai*—fifteen poems are interpreted at length in this volume. Likewise, fifteen poems from *Purananuru* are explained. Their authors include three women and fourteen men.
+From the five Ettuthogai works devoted wholly to *akam* themes—*Natrinai*, *Kuruntokai*, *Akananuru*, *Ainkurunuru* and *Kalithogai*—fifteen poems are interpreted at length in this volume. Likewise, fifteen poems from *Purananuru* are explained. Their authors include three women and fourteen men.
 
 <!-- Source scan page: 11; printed page: VI -->
