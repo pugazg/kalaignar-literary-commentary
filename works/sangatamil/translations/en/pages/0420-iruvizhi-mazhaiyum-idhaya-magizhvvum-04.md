@@ -21,7 +21,7 @@ will you also see the joy in my heart!
 
 Believing that love should not be forbidden,
 I waited to unite him in marriage with a treasure-chest of sculpted beauty—
-a maiden whose honour suited his heart—
+a maiden whose honour suited his heart.
 But he himself played ball with elephants, reduced horses to ruin,
 bore the sword-points of villains upon his chest,
 left his beloved to languish,
