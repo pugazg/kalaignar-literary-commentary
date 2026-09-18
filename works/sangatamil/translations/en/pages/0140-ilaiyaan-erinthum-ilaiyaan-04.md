@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "இளையோன் எதற்கும் இளையான்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -31,8 +31,7 @@ like flowers beneath enemy feet
 
 and makes his own life comfortable
 
-is merely a lump of flesh  
-beaten into shape by rice—
+is merely a rice-fed lump of flesh—
 
 a kite  
 whose string has snapped!

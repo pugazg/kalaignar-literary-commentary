@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "குக்கூ! என்றது கோழி!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -23,11 +23,9 @@ and left behind!
 Did he find  
 only his life there?
 
-He also received  
-the sight
-
+He also caught sight  
 of the woman  
-who was like that life itself!
+who was his very life!
 
 After the previous day's experience,  
 that beautiful rose

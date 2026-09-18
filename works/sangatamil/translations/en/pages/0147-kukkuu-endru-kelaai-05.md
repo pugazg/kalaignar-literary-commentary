@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "குக்கூ! என்றது கோழி!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -65,7 +65,7 @@ Poet: Allur Nanmullaiyar)
 > **(2)** “The rooster cried ‘Kukkoo!’
 >
 > At once my pure heart  
-> started in fear:
+> jolted in fear:
 >
 > dawn had come  
 > like a sword

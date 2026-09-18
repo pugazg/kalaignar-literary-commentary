@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "வலவன் ஏவா வான ஊர்தி!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -79,8 +79,8 @@ withered by drought.
 We disappeared  
 into foolish tales.
 
-When I opened my eyes  
-inside a sweet Sangam poem
+When I immersed my eyes  
+in a sweet Sangam poem
 
 to drink the joy  
 of literary Tamil—

@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "தேனாகச் சொட்டும் : தேளாகக் கொட்டும்!"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -17,7 +17,7 @@ and wrapped me around his shoulders
 like a creeper.
 
 “I will never leave you  
-even for the time of an atom,”
+even for an instant,”
 
 I said and clung to him.
 
