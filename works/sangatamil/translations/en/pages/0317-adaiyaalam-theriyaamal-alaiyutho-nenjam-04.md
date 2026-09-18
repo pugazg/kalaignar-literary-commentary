@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "அடையாளம் தெரியாமல் அலையுதோ நெஞ்சம்!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -22,9 +22,9 @@ I have given to you too in simple language.
 > the fragrant flower matured from its little bud;
 > the breeze mingled with and brought the scent carried by bees.
 > In that lovely morning that gives delight to the eyes,
-> the heart that went to the man who loosened my shining bangles,
-> sharing his distress—does it now suffer,
-> longing to return together with him,
+> the heart that, in distress, went
+> to the man who loosened my shining bangles—
+> does it now suffer, longing to return together with him,
 > unable to rest from its task?
 > Or, because he has shown no grace,
 > has it come back here, ruined,

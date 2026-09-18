@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "கள் உண்ட கடுவன்!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -17,7 +17,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 A *kaduvan* means a male monkey;
 a *mandhi* is a female monkey.
 One day, beside a rocky spring,
-a *kaduvan* drank illicit liquor and fell asleep.
+a *kaduvan* drank liquor and fell asleep.
 Kapilar, passing that way,
 is said to have seen him.
 
