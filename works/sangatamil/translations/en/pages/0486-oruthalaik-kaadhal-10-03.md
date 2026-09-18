@@ -34,8 +34,9 @@ like moonlight, breeze, sweet syrup and honey-rain!” she said.
 
 Just then,
 a friend came running, gasping for breath,
-and told news that made the daughter of Perungozhi Nayakan's
-very life-breath seem to stop.
+and told news that made
+the very life-breath of Perungozhi Nayakan's daughter
+seem to stop.
 
 “Those two villains, Katti and Paanan,
 have shut our Kavarpendu in a prison-cage
