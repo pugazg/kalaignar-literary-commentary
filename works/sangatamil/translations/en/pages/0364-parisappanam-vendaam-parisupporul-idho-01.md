@@ -22,7 +22,7 @@ In the custom of those days, if they called it “breast-price,” it is bound t
 
 Once it has been firmly decided, “This is the bride for this man,” the formal gift must be made, together with a purse of money, and offered with affection to the bride's family!
 
-In the *Mullaikkali* of *Kalithokai*, a father, it seems, thumps his shoulder and announces that he is ready to give his shapely flowering-creeper of a daughter without any bride-price. When we read the Tamil poet called Cholan Nalluruththiranar telling it with such flavour, we taste a sweetness surpassing the bulb of a jackfruit!
+In the *Mullai Kali* of *Kalithokai*, a father, it seems, thumps his shoulder and announces that he is ready to give his shapely flowering-creeper of a daughter without any bride-price. When we read the Tamil poet called Cholan Nalluruthiran telling it with such flavour, we taste a sweetness surpassing the bulb of a jackfruit!
 
 Listen to what that father of a pearl-like daughter says about the feeling with which the young bull of a man must take on the task of subduing a fierce-horned bull that gores, tears open the gut, and kills!
 

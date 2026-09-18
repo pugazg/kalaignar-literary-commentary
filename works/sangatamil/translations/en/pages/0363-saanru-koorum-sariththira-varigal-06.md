@@ -14,7 +14,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 
 ## Explanation of meaning:
 
-**சுட்டுடை முதுபாழ்** = an old desolate *palai* tract that can be pointed out.  
+**சுட்டுடை முதுபாழ்** = an old desolate *paalai* tract that can be pointed out.  
 **கயிறு பிணிக் குழிசி** = a pot bound with rope.  
 **பொறி** = seal.  
 **ஆவணமாக்கள்** = officials called keepers of the records.  

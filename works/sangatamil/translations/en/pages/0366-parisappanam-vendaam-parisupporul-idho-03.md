@@ -14,7 +14,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 
 “If, just as her lover sweeps the breasts of the maiden with whom he coos in delight into an embrace, crying, ‘O creeper!’, he leaps without the least fear between the bull's horns, there is no obstacle to giving him my daughter! Not a coin, not even a speck is needed as bride-price; he alone is worthy to receive my daughter as the gift!”
 
-Not shrinking or faltering at the sight of those two horns, but charging between them with the joyous feeling of plunging between the two breasts of his beloved—that is valour. Even today the *Mullaikkali* poem of *Kalithokai* stands like testimony carved upon stone to that truth.
+Not shrinking or faltering at the sight of those two horns, but charging between them with the joyous feeling of plunging between the two breasts of his beloved—that is valour. Even today the *Mullai Kali* poem of *Kalithokai* stands like testimony carved upon stone to that truth.
 
 We behold the scene that shines before us! And if the strong shoulder of a Tamil should droop even a little before his enemies, we feel very, very ashamed!
 
@@ -26,8 +26,8 @@ We behold the scene that shines before us! And if the strong shoulder of a Tamil
 
 *
 
-(*Kalithokai* — *Mullaikkali*, poem 3  
-Poet: Cholan Nalluruththiranar)
+(*Kalithokai* — *Mullai Kali*, poem 3  
+Poet: Cholan Nalluruthiran)
 
 *
 
