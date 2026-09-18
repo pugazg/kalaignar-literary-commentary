@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "கவிஞர்கள் தெளித்த பன்னீரும் வடித்த கண்ணீரும்!"
 language: "en"
 translation_type: "project_translation"
-status: "draft"
+status: "source-checked"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -77,7 +77,7 @@ of the rich Ponni land—
 
 <div align="right">in his eyes</div>
 
-if a poet called Kulamutrathar came,  
+if someone of Kulamutram came,  
 his heart would melt,
 
 he would welcome him  
@@ -116,5 +116,5 @@ who torment loving parents,
 
 there may be forgiveness—
 
-<!-- One physical scan contains a two-page illustrated spread; the section continues to scan 149. -->
+<!-- The maintained Tamil's unusual `குளமுற்றொருவர்` wording is rendered conservatively here without inventing a poet-name identity. One physical scan contains a two-page illustrated spread; the section continues to scan 149. -->
 <!-- Source scan page: 148; printed page: not clearly visible -->
