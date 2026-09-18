@@ -63,10 +63,11 @@ Translate only the maintained Tamil archive. Preserve the work's own order, quot
 - Draft D11 scans **371–407 — COMPLETE / PASS**
 - Draft D12 scans **408–444 — COMPLETE / PASS**
 - Draft D13 scans **445–481 — COMPLETE / PASS**
-- English page records — **481/497**
-- first-pass drafting — **481/497**
-- current English state — **480 `draft` + 1 `source-limited` (scan 8)**
-- not yet created — **16**
+- Draft D14 scans **482–497 — COMPLETE / PASS**
+- English page records — **497/497**
+- first-pass drafting — **497/497 — COMPLETE / CLOSED**
+- current English state — **496 `draft` + 1 `source-limited` (scan 8)**
+- not yet created — **0**
 - source-check — **0/497**
 - glossary reconciliation — **0/497**
 - editorial review — **0/497**
@@ -85,5 +86,6 @@ Translate only the maintained Tamil archive. Preserve the work's own order, quot
 - durable D11 report — `DRAFT_D11_REPORT.md`
 - durable D12 report — `DRAFT_D12_REPORT.md`
 - durable D13 report — `DRAFT_D13_REPORT.md`
+- durable D14 report — `DRAFT_D14_REPORT.md`
 
-Exact next activity: **Draft D14 — scans 482–497**, the final **16-page** first-pass remainder. Scan 482 directly continues scan 481; scan 497 is the physical back cover. Do not begin source-check until D14 closes first-pass drafting.
+Exact next activity: **English Source-Check SC1 — scans 1–37**. Compare English to canonical Tamil paragraph-by-paragraph / block-by-block for omissions, additions, meaning drift, names, titles, quotations, verse blocks, page function, provenance and continuity. Scan **8** remains `source-limited`. Change **0 canonical Tamil page files**.
