@@ -2224,6 +2224,74 @@ No canonical lexical word or character was changed.
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R19_SCANS_181_190.md`.
 
+## Restart R20 — scans 191–200
+
+**Status: COMPLETE / PASS WITH LEXICAL HOLDS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling Part004 PDF, physical scans 191–200
+- reviewed scans: **191–200 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **2** — WFV-023 and WFV-024
+- unresolved new lexical pages: **2** — scans 192, 195
+- page-status promotions: **8**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### New R20 WFV rows
+
+| ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
+|---|---:|---:|---|---|---|---|
+| WFV-023 | 192 | 179 | Kuruntokai 40 quotation `யாயும் ஞாயும் யாரா கியரே?` | source visibly reads `யாயும் ஞாயும் யாரா கியரோ?` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 192 remains needs-review** |
+| WFV-024 | 195 | 182 | `வாடி வதங்கித் துவளுக்கின்ற இழிநிலை` | source visibly reads `வாடி வதங்கித் துவளுகின்ற இழிநிலை` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 195 remains needs-review** |
+
+### R20 findings
+
+- scans **191, 193–194, 196–200** — full lexical/glyph review passed and promoted;
+- scan **192** — WFV-023 opened; C08-003 `அறிந்திட விரும்பாமலே அறிமுகமானோம்!` preserved;
+- scan **195** — WFV-024 opened; C08-004 `முடி புனைந்த மூத்தோர் மறைந்து; அவர்` preserved;
+- scan **199** — C08-005 through C08-007 protected readings preserved;
+- scans **194 and 200** — full-page illustrations verified;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R20_SCANS_191_200.md`.
+
+## Restart R21 — scans 201–210
+
+**Status: COMPLETE / PASS WITH LEXICAL HOLDS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling Part005 PDF, physical scans 201–210
+- reviewed scans: **201–210 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **2** — WFV-025 and WFV-026
+- unresolved new lexical pages: **2** — scans 205, 209
+- page-status promotions: **8**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### New R21 WFV rows
+
+| ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
+|---|---:|---:|---|---|---|---|
+| WFV-025 | 205 | 192 | `முடிவிதுதான் பெற்றோரும் உற்றாரும் எடுத்ததென அவளிடத்தே` | source visibly reads `முடிவிதுதான் பெற்றோரும் உற்றோரும் எடுத்ததென அவளிடத்தே` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 205 remains needs-review** |
+| WFV-026 | 209 | 196 | canonical places existing `கருகியதாம்!` after `கருகிய காலின் கறுப்புத் தழும்பும் - கிழவன் / கண்ணுக்கோர் அழகாய்த் தோன்றியதால்` | source places `கருகியதாம்!` immediately after `பொறித் துகள் பட்டுக் குழந்தை வளவன் கால் சற்றுக்`; the two following lines then continue afterward | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical placement unchanged; scan 209 remains needs-review** |
+
+### R21 findings
+
+- scans **201–204, 206–208, 210** — full lexical/glyph review passed and promoted;
+- scan **205** — WFV-025 opened; no lexical edit applied;
+- scan **208** — C09-001 exact heading `காவிரிநாடன் கரிகாலன்!` preserved;
+- scan **209** — WFV-026 opened for material placement of existing `கருகியதாம்!`; token not moved;
+- scans **204 and 210** — full-page illustrations verified;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R21_SCANS_201_210.md`.
+
 ### Exact next audit range
 
-**R20 + R21 — scans 191–210, 20 pages in the user-requested iteration cadence.**
+**R22 + R23 — scans 211–230, 20 pages in the user-requested iteration cadence.**

@@ -76,7 +76,12 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 175–181 | printed 162, 164–168 with scan-176 illustration | `நீலமலை நீரினும் குளிர்ந்த நெஞ்சம்!` | **R18/R19 complete / scans 175–176, 178, 180–181 verified; scans 177 and 179 remain needs-review on WFV-016..019; section metadata aligned 176–181; C07-004/C08-001 preserved** |
 | 182–187 | printed 169–174 with scan-184 illustration | `தலை கேட்டான் தம்பி!` | **R19 complete / scans 182, 184–187 verified; scan 183 remains needs-review on WFV-020** |
 | 188–190 | printed 175–176 with scan-190 illustration | `அவள் நிலமானாள்; அவன் மழையானான்!` | **R19 complete / scans 188 and 190 verified; scan 189 remains needs-review on WFV-021/WFV-022; C08-002 heading preserved** |
-| 191–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
+| 191–192 | printed 178–179 | end of `அவள் நிலமானாள்; அவன் மழையானான்!` | **R20 complete / scan 191 verified; scan 192 needs-review on WFV-023; C08-003 preserved** |
+| 193–197 | printed 180, 182–184 with scan-194 illustration | `ஆட்சியும் மாட்சியும்!` | **R20 complete / scans 193–194 and 196–197 verified; scan 195 needs-review on WFV-024; C08-004 preserved** |
+| 198–202 | printed 185–189 with scan-200 illustration | `பறம்புமலைப் பாவேந்தர்` | **R20/R21 complete / all scans verified; C08-005..007 preserved** |
+| 203–207 | printed 190, 192–194 with scan-204 illustration | `பிறந்த வீடும் புகுந்த வீடும்!` | **R21 complete / scans 203–204 and 206–207 verified; scan 205 needs-review on WFV-025** |
+| 208–210 | printed 195–196 with scan-210 illustration | start of `காவிரிநாடன் கரிகாலன்!` | **R21 complete / scans 208 and 210 verified; scan 209 needs-review on WFV-026; C09-001 heading preserved** |
+| 211–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
 | 497 | — | back cover / end matter | **Gate D closed / physical endpoint** |
 
 ## Important controls
