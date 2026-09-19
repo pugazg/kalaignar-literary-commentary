@@ -1,8 +1,8 @@
 # சங்கத் தமிழ் — Gemini lexical/text lock
 
-**Current status: HISTORICAL LEXICAL-LOCK BASELINE. Gate C2 is COMPLETE / APPLIED.**
+**Current status: ACTIVE LEXICAL LOCK FOR THE 2026-09-19 WORD-FOR-WORD AUDIT. Gate C2 remains COMPLETE / APPLIED for its 140 explicitly adjudicated historical records.**
 
-This file records the user-approved lexical-lock rule that governed Gates B/C before user-adjudicated Gate C2 corrections. It remains methodology/provenance evidence, not a live claim that any scan range is still locked.
+This file records the user-approved lexical-lock rule. It governed Gates B/C, was superseded only for the exact Gate-C2 items explicitly adjudicated by the user, and is **again the live lexical rule** for the new 2026-09-19 word-for-word audit of remaining `needs-review` pages.
 
 ## Controlling rule
 
@@ -64,3 +64,17 @@ Where a user C2 ruling said **Gemini is correct**, the Gemini wording remains pr
 Special rule for scan **8** remains durable: the handwritten `முன்னுரை` facsimile is **description-only**. Do not interpret or transcribe the handwritten letter.
 
 Gate C2 closure does **not** mean that every token in every scan was freshly re-verified. Whole-volume word-for-word scan verification is therefore **not claimed**.
+
+
+## 2026-09-19 audit reaffirmation
+
+The user explicitly reaffirmed:
+
+- **do not correct any lexical words directly** during the new needs-review audit;
+- compare source scans word-by-word;
+- place every newly discovered lexical difference in `LEXICAL_DISCREPANCY_LEDGER.md`;
+- wait for explicit user adjudication before changing canonical wording.
+
+Therefore the scan is **comparison evidence**, not automatic lexical authority. Structural/punctuation/layout corrections remain permitted where they do not substitute lexical wording.
+
+A page with a newly discovered unresolved lexical discrepancy must remain `needs-review` until adjudication.

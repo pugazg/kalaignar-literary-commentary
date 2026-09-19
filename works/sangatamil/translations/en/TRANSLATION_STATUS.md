@@ -7,11 +7,11 @@ Branch: `main`
 
 ## Tamil source-baseline change — release gate paused
 
-A user-directed source-first Tamil word-for-word verification pass began on **2026-09-19** after the whole-volume English review had closed.
+A user-directed Tamil word-for-word audit began on **2026-09-19** after the whole-volume English review had closed. The user has reaffirmed that **Gemini/canonical lexical wording must not be source-corrected directly**; new word-level differences go to `LEXICAL_DISCREPANCY_LEDGER.md` for explicit adjudication.
 
-Part001 scans **1–50** has now source-verified all six pages that were still `needs-review` in that source part and promoted them to Tamil `verified`. Canonical Tamil corrections occurred on scans **7, 31 and 34**; scans **33, 35 and 36** passed unchanged.
+Part001 examined six prior `needs-review` pages. Five clean/structurally resolved pages are `verified`; scan **7** remains a lexical hold and its mistaken direct source-word substitution has been reverted. Structural-only adjustments remain on scans **31 and 34**.
 
-Therefore the English release-report gate is **PAUSED** until the affected English pages are reconciled to the updated Tamil baseline and the user-directed Tamil verification frontier is advanced as intended. Existing English review evidence remains historical evidence for its prior canonical baseline; do not promote any page to `release-ready` during this pause.
+Part002 scans **51–100** is now active; scans **51–96** have been compared and newly found word-level discrepancies on scans **62, 69, 83 and 91** are ledger-only. The English release-report gate remains **PAUSED** until the Tamil audit/adjudication frontier is resolved and any genuine downstream English impact is reconciled. Do not promote any English page to `release-ready` during this pause.
 
 ## Tamil prerequisite
 
@@ -24,10 +24,10 @@ The Sangatamil Tamil archival pipeline is closed through Gates A–I.
 - source-note-only records — **4**
 - whole-volume word-for-word scan verification — **NOT CLAIMED**
 
-Final Tamil page state remains:
+Current Tamil page state during the reopened audit:
 
-- `verified` — **43**
-- `needs-review` — **453**
+- `verified` — **48**
+- `needs-review` — **448**
 - `partial` — **1** (scan 8)
 
 English work does not alter or promote those Tamil statuses.

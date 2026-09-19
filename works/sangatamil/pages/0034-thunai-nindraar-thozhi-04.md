@@ -8,7 +8,7 @@ status: "verified"
 visual_fidelity: "verified"
 visual_notes: "running author header; dialogue and verse blocks with source-offset continuation lines; printed page number centered at foot"
 language: "ta"
-transcription_method: "source-first word-for-word and visual verification against user-supplied Part001 scan; 2026-09-19"
+transcription_method: "Gemini-locked lexical wording; source scan audited word-by-word for discrepancy detection and structural/visual verification; no unadjudicated lexical change applied"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_to_scan: 35
 ---
@@ -60,5 +60,5 @@ continues_to_scan: 35
 அன்பன் கரம்பட்டுச் சிலிர்த்துப்போய்,  
 என்புதோல் நரம்பனைத்தும் சூடேறி;
 
-<!-- 2026-09-19 word-for-word/visual verification against the user-supplied Part001 scan: `அதுவரையில்` restored to its exact source position inside the closing speech, immediately before `காதல் எல்லை...`; all other wording verified. -->
+<!-- 2026-09-19 audit: PASS under Gemini lexical lock; existing token `அதுவரையில்` was structurally repositioned to its source-supported location, with no lexical-word substitution. -->
 <!-- மூல ஸ்கேன் பக்கம்: 34; அச்சுப் பக்கம்: 19 -->

@@ -84,25 +84,40 @@ Clearly unsupported extraction debris is excluded. Legitimate scan/Gemini lexica
 
 ## Status rule
 
-Gate-B structural completion does not automatically promote a page to verified. Gate C2 closed all 140 recorded Gate-C discrepancies, but did not itself equal a fresh token-by-token verification of every word in all 497 scans.
+Gate-B structural completion does not automatically promote a page to verified. Gate C2 closed the **140 historical discrepancy rows** only after explicit user adjudication.
 
-A new **user-directed source-first Tamil word-for-word verification pass is now IN PROGRESS**. For pages entering this pass, the user-supplied Tamil PDF scan is the lexical, punctuation, lineation and visual authority; the historical Gemini lexical lock is background only for those reviewed pages.
+A new **word-for-word audit of remaining `needs-review` pages is IN PROGRESS**, but its lexical rule remains Gemini-locked:
+
+- PDF scan — comparison evidence + physical/structural authority;
+- Gemini/canonical wording — lexical authority unless an exact discrepancy has been explicitly adjudicated by the user;
+- newly found lexical differences — append to `LEXICAL_DISCREPANCY_LEDGER.md`;
+- **do not directly source-correct words**;
+- structural/punctuation/lineation/layout corrections may be applied without changing lexical words;
+- pages with unresolved lexical discrepancies remain `needs-review`;
+- clean fully audited pages may move to `verified`.
 
 Durable tracker: `TAMIL_WORD_FOR_WORD_VERIFICATION.md`.
 
-Part001 scans **1–50** is **COMPLETE / PASS for all current needs-review pages**:
-- reviewed from `needs-review` — **6 pages: scans 7, 31, 33, 34, 35, 36**
-- promoted to `verified` — **6**
-- canonical corrections — **3 pages: scans 7, 31, 34**
-- unchanged after direct source verification — **3 pages: scans 33, 35, 36**
-- scan 8 — remains `partial` by explicit handwritten-facsimile policy
-- Part001 final state — **49 verified / 0 needs-review / 1 partial**
+Part001 scans **1–50**:
+- six prior `needs-review` pages examined — scans **7, 31, 33, 34, 35, 36**;
+- promoted to `verified` — **5: 31, 33, 34, 35, 36**;
+- lexical hold — **scan 7**;
+- direct new lexical substitutions retained — **0**;
+- scan 8 — remains `partial`;
+- Part001 current state — **48 verified / 1 needs-review / 1 partial**.
 
-Current whole-volume Tamil state after Part001:
-- `verified` — **49**
-- `needs-review` — **447**
+Part002 scans **51–100**:
+- source supplied;
+- scans **51–96** compared;
+- new lexical holds currently ledgered — **62, 69, 83, 91**;
+- scans **97–100** — exact next review range;
+- no Part002 status promotions committed yet.
+
+Current whole-volume Tamil state:
+- `verified` — **48**
+- `needs-review` — **448**
 - `partial` — **1**
-- word-for-word verification — **IN PROGRESS; whole-volume completion not yet claimed**
+- whole-volume completion — **NOT YET CLAIMED**
 
 Gate D — COMPLETE / PASS:
 - physical scans — 497/497
@@ -156,9 +171,9 @@ Gate G — **COMPLETE / PASS**:
 - required metadata field presence after repair — **497/497**
 - demonstrable defects repaired — **11 missing `visual_fidelity` fields**
 - Gate-G historical `status` distribution — **43 verified / 453 needs-review / 1 partial**
-- current post-Part001 word-for-word state — **49 verified / 447 needs-review / 1 partial**
+- current post-policy-repair state — **48 verified / 448 needs-review / 1 partial**
 - Gate-G historical `visual_fidelity` distribution — **43 verified / 454 needs-review / 0 missing**
-- current post-Part001 visual-fidelity state — **49 verified / 448 needs-review / 0 missing**
+- current post-policy-repair visual-fidelity state — **48 verified / 449 needs-review / 0 missing**
 - canonical wording changes — **0**
 - unresolved Gate-G inconsistencies — **0**
 - durable report — `GATE_G_METADATA_STATUS_AUDIT.md`

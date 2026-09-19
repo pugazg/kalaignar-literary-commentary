@@ -56,17 +56,17 @@ Earlier Gate-B/C/F checkpoints remain historical evidence only. Later commits ma
 - Gate H — **COMPLETE / PASS — 104 sections / 115 formal units / 4 note-only / 119 provenance leaves / 0 canonical page changes**
 - Gate I — **COMPLETE / PASS — final synchronization / closure**
 - Gate-G historical page status distribution — **43 verified / 453 needs-review / 1 partial**
-- current Tamil word-for-word state after Part001 — **49 verified / 447 needs-review / 1 partial**
-- current visual-fidelity state after Part001 — **49 verified / 448 needs-review / 0 missing**
+- current Tamil audit state after policy repair — **48 verified / 448 needs-review / 1 partial**
+- current visual-fidelity state after policy repair — **48 verified / 449 needs-review / 0 missing**
 - user-directed Tamil word-for-word verification — **IN PROGRESS**
-- Part001 scans **1–50** — **COMPLETE / PASS for all six prior needs-review pages**
+- Part001 scans **1–50** — **AUDIT COMPLETE — 5 verified / scan 7 lexical hold / scan 8 partial**
 - whole-volume word-for-word completion — **NOT YET CLAIMED**
 
 The mixed page-level statuses are intentional. Gate C2 resolved all recorded Gate-C discrepancies but did not perform a fresh exhaustive token-by-token reread of every source word.
 
-**Exact active Tamil activity: user-directed source-first word-for-word verification of the remaining `needs-review` pages.** Part001 scans **1–50** is complete for its six needs-review pages; exact next Tamil source unit is **Part002 scans 51–100**, once the user supplies that PDF.
+**Exact active Tamil activity: Gemini-locked word-for-word audit of remaining `needs-review` pages.** Part002 scans **51–100** is active from the supplied PDF; scans **51–96** have been compared and **97–100 are next**.
 
-For this new pass, the user-supplied Tamil PDF scan supersedes the historical Gemini lexical lock for each page actually reviewed. Do not source-correct already-`verified` pages unless the user explicitly expands scope or a clear new defect is discovered.
+For this pass, **do not correct any lexical word directly from the scan**. Keep Gemini/canonical wording unless the user explicitly adjudicates a discrepancy. Append every newly found word-level difference to `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`. Source-supported structure, punctuation, lineation, placement and visual corrections remain allowed when they do not substitute words.
 
 **Maintained English release-report gate is PAUSED while the new Tamil word-for-word verification pass is active.** The English layer remains at **496 editorial-reviewed + 1 source-limited (scan 8)**. Tamil corrections discovered by this pass must receive targeted English impact reconciliation before any release approval or `release-ready` promotion.
 

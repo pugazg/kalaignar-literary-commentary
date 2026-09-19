@@ -8,7 +8,7 @@ status: "verified"
 visual_fidelity: "verified"
 visual_notes: "running சங்கத் தமிழ் header; multiple verse blocks; quoted dialogue near page foot; printed page number centered"
 language: "ta"
-transcription_method: "source-first word-for-word and visual verification against user-supplied Part001 scan; 2026-09-19"
+transcription_method: "Gemini-locked lexical wording; source scan audited word-by-word for discrepancy detection and structural/visual verification; no unadjudicated lexical change applied"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -55,5 +55,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 விரிந்து பரந்த கடற்கரை மெத்தையில்  
 விழுந்தனர், புரண்டனர், எழுந்தனர், மகிழ்ந்தனர்!
 
-<!-- 2026-09-19 word-for-word/visual verification against the user-supplied Part001 scan: PASS / no canonical wording or structure correction required. -->
+<!-- 2026-09-19 audit: PASS under Gemini lexical lock; no lexical discrepancy or structural correction required. -->
 <!-- மூல ஸ்கேன் பக்கம்: 33; அச்சுப் பக்கம்: 18 -->

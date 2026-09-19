@@ -8,7 +8,7 @@ status: "verified"
 visual_fidelity: "verified"
 visual_notes: "running author header; continuation from scan 35; concluding Kalaignar text; centered separator; Sangam quotation; right-side provenance block; பொருள் விளக்கம் block; final separator; printed page number centered"
 language: "ta"
-transcription_method: "source-first word-for-word and visual verification against user-supplied Part001 scan; 2026-09-19"
+transcription_method: "Gemini-locked lexical wording; source scan audited word-by-word for discrepancy detection and structural/visual verification; no unadjudicated lexical change applied"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 35
 ---
@@ -65,5 +65,5 @@ continues_from_scan: 35
 
 <div align="center">*</div>
 
-<!-- 2026-09-19 word-for-word/visual verification against the user-supplied Part001 scan: PASS / quoted Sangam text, provenance, பொருள் விளக்கம், punctuation and page structure all verified. -->
+<!-- 2026-09-19 audit: PASS under Gemini lexical lock; no new lexical discrepancy found and quotation/provenance/structure were verified. -->
 <!-- மூல ஸ்கேன் பக்கம்: 36; அச்சுப் பக்கம்: 21 -->

@@ -8,7 +8,7 @@ status: "verified"
 visual_fidelity: "verified"
 visual_notes: "large decorative section heading at top; source text set as short verse lines beneath; printed page number centered at foot"
 language: "ta"
-transcription_method: "source-first word-for-word and visual verification against user-supplied Part001 scan; 2026-09-19"
+transcription_method: "Gemini-locked lexical wording; source scan audited word-by-word for discrepancy detection and structural/visual verification; no unadjudicated lexical change applied"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -46,5 +46,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 பேயனார் எனும் கவிக்கோ - தமிழர்  
 பெருமைக்கோர் சான்றாகப் பேசிடுவார்!
 
-<!-- 2026-09-19 word-for-word/visual verification against the user-supplied Part001 scan: PASS after restoring source verse lineation and the printed dash in `கவிக்கோ - தமிழர்`. -->
+<!-- 2026-09-19 audit: PASS under Gemini lexical lock; source-supported verse lineation and punctuation were restored, with no lexical-word substitution. -->
 <!-- மூல ஸ்கேன் பக்கம்: 31; அச்சுப் பக்கம்: 16 -->

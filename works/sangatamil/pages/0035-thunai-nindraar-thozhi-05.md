@@ -8,7 +8,7 @@ status: "verified"
 visual_fidelity: "verified"
 visual_notes: "running சங்கத் தமிழ் header; dialogue and narrative verse blocks; source-offset continuation around அவன்; Gate C2 moves existing locked token வீணே to its user-confirmed source sentence; analogy begins near page foot and continues directly to scan 36"
 language: "ta"
-transcription_method: "source-first word-for-word and visual verification against user-supplied Part001 scan; 2026-09-19"
+transcription_method: "Gemini-locked lexical wording; source scan audited word-by-word for discrepancy detection and structural/visual verification; no unadjudicated lexical change applied"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 34
 continues_to_scan: 36
@@ -60,5 +60,5 @@ continues_to_scan: 36
 பறிப்பதற்குக் காத்திருக்கும் காட்சிதனைக் கண்டிலையோ அதுபோல
 
 <!-- Gate C2 / user manual review: existing locked token `வீணே` moved from the later clause to `தேன் குடிக்கப் போகின்ற வண்டை - வீணே / ஏன் தடுக்கின்றாய்?`; no lexical substitution introduced. -->
-<!-- 2026-09-19 word-for-word/visual verification against the user-supplied Part001 scan: PASS / the corrected `வீணே` placement and all remaining printed wording/lineation verified. -->
+<!-- 2026-09-19 audit: PASS under Gemini lexical lock; prior user-adjudicated `வீணே` placement and source structure were confirmed; no new lexical-word substitution. -->
 <!-- மூல ஸ்கேன் பக்கம்: 35; அச்சுப் பக்கம்: 20 -->

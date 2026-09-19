@@ -1589,3 +1589,33 @@ Do **not** start Gate C2 unless explicitly authorized.
 - durable correction record — `C2_SOURCE_CORRECTION_PROGRESS.md`
 - whole-volume word-for-word scan verification — **NOT CLAIMED**
 - exact next gate — **Gate G metadata/status closure**
+
+
+# Post-C2 word-for-word audit additions — 2026-09-19
+
+**Status: ACTIVE / AUDIT-ONLY**
+
+The user re-confirmed the governing lexical rule on 2026-09-19:
+
+> Compare every word, but **do not correct words directly**. Any new word-level difference must be recorded in this Gemini discrepancy ledger and left for explicit user adjudication.
+
+These rows are therefore **not correction authorizations**. Canonical wording stays unchanged unless the user later adjudicates an individual row.
+
+| ID | Scan | Printed page | Canonical page | Locked repository wording | Source-visible wording | Classification | Disposition |
+|---|---:|---:|---|---|---|---|---|
+| WFV-001 | 7 | II | `0007-publication-details.md` | `ராக்போர்ட்` | `ராக்ஃபோர்ட்` | `likely-gemini-error` | **PENDING USER ADJUDICATION — do not change word** |
+| WFV-002 | 62 | 47 | `0062-oorin-perumai-unarnthavar-oruthi-04.md` | after `படர்ந்துள்ள கொடியுதிர் மலர்களில்` canonical proceeds to `பாதம் படுகின்ற...` | source visibly contains intervening lexical token `தனது` | `likely-gemini-error` | **PENDING USER ADJUDICATION — do not add word** |
+| WFV-003 | 69 | 54 | `0069-vaanan-manandha-vannath-thirumagal-05.md` | `தலைமகனாம் என் கணவர்` | `தலைமகனும் என் கணவர்` | `likely-gemini-error` | **PENDING USER ADJUDICATION — do not change word** |
+| WFV-004 | 83 | 68 | `0083-pisiranthaiyar-2-02.md` | `மாலையாவதில்ல - ஆழல்` | `மாலையாவதில்ல - ஆனால்` | `likely-gemini-error` | **PENDING USER ADJUDICATION — do not change word** |
+| WFV-005 | 91 | 76 | `0091-pisirandhaiyar-4-01.md` | `வாராத காரணம்தான்` | `வராத காரணம்தான்` | `likely-gemini-error` | **PENDING USER ADJUDICATION — do not change word** |
+
+Non-lexical observations from the same review, such as token placement, lineation or punctuation, are not entered here unless they change the lexical reading.
+
+Higher-resolution review rejected earlier provisional suspicions on scans **59, 73, 78 and 79**; no new lexical discrepancy row is created for those scans.
+
+## Current exact frontier
+
+- Part001 scans **1–50** — audit complete; scan 7 remains a lexical hold.
+- Part002 scans **51–96** — compared.
+- Part002 scans **97–100** — exact next review range.
+- canonical lexical page changes authorized by these WFV rows — **0**.
