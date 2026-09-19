@@ -46,17 +46,17 @@ Historical Gate-G baseline:
 - `needs-review` — **453**
 - `partial` — **1**
 
-Current state after R45 scans 441–450:
+Current state after R47 scans 461–470:
 
-- `verified` — **405**
-- `needs-review` — **91**
+- `verified` — **425**
+- `needs-review` — **71**
 - `partial` — **1**
-- visual `verified` — **405**
-- visual `needs-review` — **92**
+- visual `verified` — **425**
+- visual `needs-review` — **72**
 - blocked — **0**
-- restart coverage — **450/497**
+- restart coverage — **470/497**
 
-R01–R45 changed **0 lexical words**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** on scan **49**; R06 discovered **1** on scan **55**; R07 reconfirmed WFV-002 and WFV-003 and discovered WFV-011 on scan **67**; R08 found **0** new discrepancies; R09 reconfirmed WFV-004 and discovered WFV-012 and WFV-013; R10 reconfirmed WFV-005 and discovered WFV-014; R11–R17 found **0** new discrepancies; R18 opened **WFV-015 through WFV-019**; R19 opened **WFV-020 through WFV-022**; R20 opened **WFV-023 and WFV-024**; R21 opened **WFV-025 and WFV-026**; R22 opened **WFV-027 through WFV-029**; R23 opened **WFV-030 through WFV-032**; R24 opened **WFV-033 through WFV-039**; R25 opened **WFV-040**; R26 opened **WFV-041**; R27 opened **WFV-042 through WFV-044**; R28 opened **0** new discrepancies; R29 opened **WFV-045 through WFV-048**; R30 opened **WFV-049**; R31–R32 opened **0** new discrepancies; R33 opened **WFV-050**; R34 opened **WFV-051 and WFV-052**; R35 opened **WFV-053**; R36–R41 opened **0** new discrepancies; R42 opened **WFV-054**; R43–R44 opened **0** new discrepancies; R45 opened **WFV-055 and WFV-056**. All disputed lexical wording and material token placement remain unchanged pending user adjudication.
+R01–R47 changed **0 lexical words**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** on scan **49**; R06 discovered **1** on scan **55**; R07 reconfirmed WFV-002 and WFV-003 and discovered WFV-011 on scan **67**; R08 found **0** new discrepancies; R09 reconfirmed WFV-004 and discovered WFV-012 and WFV-013; R10 reconfirmed WFV-005 and discovered WFV-014; R11–R17 found **0** new discrepancies; R18 opened **WFV-015 through WFV-019**; R19 opened **WFV-020 through WFV-022**; R20 opened **WFV-023 and WFV-024**; R21 opened **WFV-025 and WFV-026**; R22 opened **WFV-027 through WFV-029**; R23 opened **WFV-030 through WFV-032**; R24 opened **WFV-033 through WFV-039**; R25 opened **WFV-040**; R26 opened **WFV-041**; R27 opened **WFV-042 through WFV-044**; R28 opened **0** new discrepancies; R29 opened **WFV-045 through WFV-048**; R30 opened **WFV-049**; R31–R32 opened **0** new discrepancies; R33 opened **WFV-050**; R34 opened **WFV-051 and WFV-052**; R35 opened **WFV-053**; R36–R41 opened **0** new discrepancies; R42 opened **WFV-054**; R43–R44 opened **0** new discrepancies; R45 opened **WFV-055 and WFV-056**; R46–R47 opened **0** new discrepancies. All disputed lexical wording and material token placement remain unchanged pending user adjudication.
 
 ## R01 — scans 1–10
 
@@ -877,6 +877,44 @@ Results:
 - whole-volume state after R45 — **405 verified / 91 needs-review / 1 partial**;
 - restart coverage — **450/497**.
 
+## R46 — scans 451–460
+
+**COMPLETE / PASS**
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R46_SCANS_451_460.md`
+
+Results:
+
+- scans **451–460** — full restart audit completed;
+- new lexical discrepancy rows — **0**;
+- unresolved new lexical pages — **0**;
+- canonical lexical substitutions — **0**;
+- source-supported non-lexical body corrections — **0**;
+- page-status promotions — **10**;
+- protected C19-001..008 on scans **451, 454, 455, 456 and 458** preserved;
+- scans **453 and 457** full-page illustrations verified;
+- whole-volume state after R46 — **415 verified / 81 needs-review / 1 partial**;
+- restart coverage — **460/497**.
+
+## R47 — scans 461–470
+
+**COMPLETE / PASS**
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R47_SCANS_461_470.md`
+
+Results:
+
+- scans **461–470** — full restart audit completed;
+- new lexical discrepancy rows — **0**;
+- unresolved new lexical pages — **0**;
+- canonical lexical substitutions — **0**;
+- source-supported non-lexical body corrections — **0**;
+- page-status promotions — **10**;
+- protected C19-009..014 on scans **463, 467, 468 and 470** preserved;
+- scan **465** full-page illustration verified;
+- whole-volume state after R47 — **425 verified / 71 needs-review / 1 partial**;
+- restart coverage — **470/497**.
+
 ## Pre-restart Part002 candidate rows
 
 The earlier interrupted Part002 review is **not counted as completed restart coverage**.
@@ -934,23 +972,25 @@ Do not change any pending lexical wording before explicit user adjudication.
 | R43 | 421–430 | **COMPLETE / PASS** |
 | R44 | 431–440 | **COMPLETE / PASS** |
 | R45 | 441–450 | **COMPLETE / PASS WITH LEXICAL HOLDS** |
-| R46–R49 | 451–490 | pending in 10-scan cadence |
+| R46 | 451–460 | **COMPLETE / PASS** |
+| R47 | 461–470 | **COMPLETE / PASS** |
+| R48–R49 | 471–490 | pending in 10-scan cadence |
 | R50 | 491–497 | final 7-scan remainder |
 
 ## Exact next activity
 
-Process **R46 + R47 — scans 451–470** as the next **20-page iteration**.
+Process **R48 + R49 — scans 471–490** as the next **20-page iteration**.
 
 Source:
 
 - user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf`
-- scans **451–470** = PDF pages **1–20**
+- scans **471–490** = PDF pages **21–40**
 
-At R47 close:
+At R49 close:
 
 - inspect all scans at enlarged/native resolution;
 - apply the historical-glyph guide and check all 13 known families where present;
-- preserve exact prior C19 adjudications on scans **451, 454, 455, 456, 458, 463, 467, 468 and 470**;
+- preserve exact prior C19/C20 adjudications on scans **472, 473, 478 and 481**;
 - record every new lexical/glyph/material-placement difference in the discrepancy ledger starting at the next live WFV ID after **WFV-056**;
 - change **0 lexical words without user adjudication**;
 - apply only source-supported non-lexical structure/punctuation/layout changes;

@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / 20-PAGE RE-AUDIT R46+R47 scans 451–470
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / 20-PAGE RE-AUDIT R48+R49 scans 471–490
 
 Continue only from live `main` in `pugazg/kalaignar-literary-commentary`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -10,30 +10,30 @@ Tamil word-for-word / historical-glyph re-audit uses the user's fixed cadence:
 
 Keep durable audit reports in **10-scan R batches** inside each 20-page iteration.
 
-R01 through R45 are complete through physical scan **450**.
+R01 through R47 are complete through physical scan **470**.
 
 Latest frontier:
 
-- R42 scans **411–420 — COMPLETE / PASS WITH LEXICAL HOLD**
-- R43 scans **421–430 — COMPLETE / PASS**
 - R44 scans **431–440 — COMPLETE / PASS**
 - R45 scans **441–450 — COMPLETE / PASS WITH LEXICAL HOLDS**
+- R46 scans **451–460 — COMPLETE / PASS**
+- R47 scans **461–470 — COMPLETE / PASS**
 
-**Exact next user iteration: R46 + R47 = scans 451–470.**
+**Exact next user iteration: R48 + R49 = scans 471–490.**
 
 Use only the user's supplied controlling PDF:
 
 `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf`
 
-Physical scans **451–470 = PDF pages 1–20**.
+Physical scans **471–490 = PDF pages 21–40**.
 
 Do not substitute web copies.
 
 ## Read first — mandatory
 
 1. `works/sangatamil/TAMIL_WORD_FOR_WORD_VERIFICATION.md`
-2. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R44_SCANS_431_440.md`
-3. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R45_SCANS_441_450.md`
+2. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R46_SCANS_451_460.md`
+3. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R47_SCANS_461_470.md`
 4. `works/sangatamil/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
 5. `works/sangatamil/GEMINI_TEXT_LOCK.md`
 6. `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`
@@ -72,90 +72,73 @@ For every printed page:
 
 Even strongly supported glyph/source differences are **ledger-first**.
 
-## Durable state through R45
+## Durable state through R47
 
 Current Tamil state:
 
-- `verified` — **405**
-- `needs-review` — **91**
+- `verified` — **425**
+- `needs-review` — **71**
 - `partial` — **1**
-- visual `verified` — **405**
-- visual `needs-review` — **92**
-- restart coverage — **450/497**
+- visual `verified` — **425**
+- visual `needs-review` — **72**
+- restart coverage — **470/497**
 
 ### Confirmed unresolved lexical holds — DO NOT CHANGE
 
 WFV-002 through WFV-056 remain pending explicit user adjudication. WFV-001 remains rejected.
 
-### R44 / R45 closure
+### R46 / R47 closure
 
-R44 scans **431–440 — COMPLETE / PASS**:
+R46 scans **451–460 — COMPLETE / PASS**:
 
 - new WFV rows — **0**
 - unresolved new pages — **0**
 - lexical substitutions — **0**
 - status promotions — **10**
-- C18-003..008 preserved
+- C19-001..008 preserved
 
-R45 scans **441–450 — COMPLETE / PASS WITH LEXICAL HOLDS**:
+R47 scans **461–470 — COMPLETE / PASS**:
 
-- new WFV rows — **WFV-055, WFV-056**
-- scan **445** remains `needs-review`
-  - canonical `நாயினும் கீழாய்ப் பிறரை மதிப்பவனேத்`
-  - source historical `னை` identity `நாயினும் கீழாய்ப் பிறரை மதிப்பவனைத்`
-  - same-edition witness: scan **435** `இவனைத்தான்`
-- scan **446** remains `needs-review`
-  - canonical `அணிமணிகள், அரண்மனைகள் தக்கவைக்கும் மனிதர்களேத்`
-  - source historical `ளை` identity `அணிமணிகள், அரண்மனைகள் தக்கவைக்கும் மனிதர்களைத்`
-  - same-edition witness: scan **441** `வெள்ளை`
+- new WFV rows — **0**
+- unresolved new pages — **0**
 - lexical substitutions — **0**
-- status promotions — **8**
-- C18-009..018 preserved
+- status promotions — **10**
+- C19-009..014 preserved
 
-## R46+R47 protected C19 rulings — scans 451–470
+## R48+R49 protected C19/C20 rulings — scans 471–490
 
 Preserve these exact prior user adjudications:
 
-- **scan 451 / C19-001** — `உறையூரின் சோழமகன் போர்முனைக்குச் செல்லும்போது`
-- **scan 451 / C19-002** — `அறிவுரை புகன்ற அன்னை, அவளை விட்டகன்றபின்னே`
-- **scan 454 / C19-003** — `கன்னியென்னையும் கனவொன்று மெய்மறக்கச்`
-- **scan 455 / C19-004** — protected Gemini-correct `காதலரிருவர் கட்டுண்டு மகிழ்ந்திருப்போம்!`
-- **scan 455 / C19-005** — protected Gemini-correct `கண்கள் செய்த தவறாலே விழித்துக் கொண்டேன்;`
-- **scan 456 / C19-006** — `“வேறு யாருக்குக் கிட்டும்?”`
-- **scan 456 / C19-007** — protected Gemini-correct `முகம், மழிக்க நேரமில்லை போலும்`
-- **scan 458 / C19-008** — protected Gemini-correct `கொலைக்காடாய் ஆக்குகின்ற போர் ஒன்று தேவைதானா?`
-- **scan 463 / C19-009** — protected Gemini-correct `சோகத்தின் ஆழத்திலிருந்து கண்ணோளியைப் பாயவிட்டு`
-- **scan 467 / C19-010** — protected Gemini-correct `இறாமீனின் உடல்போன்றுச் சொரசொரப்புக் கொண்ட`
-- **scan 467 / C19-011** — protected Gemini-correct `சுறாமீனின் முகத்தில் நீண்ட கொம்புகள் போல்`
-- **scan 468 / C19-012** — protected Gemini-correct glossary `இறவு = இறாமீன்.`
-- **scan 468 / C19-013** — protected Gemini-correct glossary `சுறவு = சுறாமீன்.`
-- **scan 470 / C19-014** — protected Gemini-correct `கவிகற்ற உன்நெஞ்சுக் கென்நிலை புரியுமம்மா!`
+- **scan 472 / C19-015** — `மதுவூறும் கவிமலரால் புகழ்ந்தார் தித்தனை!`
+- **scan 473 / C19-016** — `ஓலையில் உள்ள குறிப்பில்;`
+- **scan 478 / C20-001** — standalone `என்று` between `புலிப்போத்து` and `பாணன் வீரத்தைக்...`
+- **scan 481 / C20-002** — quotation continues with `எழாஅப் பாணன்........` before the quotation close
 
 Do not reopen these merely because an earlier Gemini/source comparison disagreed.
 
 ## Exact activity — 20 pages
 
-### R46 — scans 451–460
+### R48 — scans 471–480
 
-1. source-check Part010 PDF pages **1–10** word-for-word;
+1. source-check Part010 PDF pages **21–30** word-for-word;
 2. apply historical-glyph review;
-3. preserve C19-001 through C19-008 exactly where applicable;
+3. preserve C19-015, C19-016 and C20-001 exactly where applicable;
 4. ledger every new lexical/glyph/material-placement difference starting with **WFV-057**;
 5. make **0 lexical substitutions** without user adjudication;
 6. apply only source-supported nonlexical structure/punctuation/layout changes;
 7. promote only clean fully audited pages;
 8. create:
-   `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R46_SCANS_451_460.md`.
+   `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R48_SCANS_471_480.md`.
 
-### R47 — scans 461–470
+### R49 — scans 481–490
 
-1. continue immediately using Part010 PDF pages **11–20**;
-2. preserve C19-009 through C19-014 exactly;
+1. continue immediately using Part010 PDF pages **31–40**;
+2. preserve C20-002 exactly;
 3. ledger every new lexical/glyph/material-placement difference under the next live WFV ID;
 4. make **0 lexical substitutions** without user adjudication;
 5. promote only clean fully audited pages;
 6. create:
-   `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R47_SCANS_461_470.md`.
+   `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R49_SCANS_481_490.md`.
 
 At the end synchronize:
 
@@ -169,4 +152,4 @@ At the end synchronize:
 
 The maintained-English release-report gate remains **PAUSED**.
 
-After R46+R47, the next user iteration is **R48+R49 — scans 471–490 (20 pages)** using Part010 PDF pages **21–40**.
+After R48+R49, the final Tamil restart activity is **R50 — scans 491–497 (7 pages)** using Part010 PDF pages **41–47**.

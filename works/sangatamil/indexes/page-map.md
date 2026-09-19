@@ -154,7 +154,12 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 438–440 | printed 426, 428 with scan-439 illustration | start of `ஒருதலைக் காதல் — 3` | **R44 complete / all three verified; continues at scan 441** |
 | 441–444 | printed 429–432 | end of `ஒருதலைக் காதல் — 3` | **R45 complete / all four verified; C18-009..017 preserved** |
 | 445–450 | printed 433–438 with scan-447 illustration | `ஒருதலைக் காதல் — 4` | **R45 complete / scans 447–450 verified; scans 445 and 446 needs-review on WFV-055/WFV-056; C18-018 preserved** |
-| 451–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
+| 451–455 | printed 439–443 with scan-453 illustration | `ஒருதலைக் காதல் — 5` | **R46 complete / all five verified; C19-001..005 preserved** |
+| 456–460 | printed 444, 446–448 with scan-457 illustration | start of `ஒருதலைக் காதல் — 6` | **R46 complete / all five verified; C19-006..008 preserved; continues at scan 461** |
+| 461–462 | printed 449–450 | end of `ஒருதலைக் காதல் — 6` | **R47 complete / both verified** |
+| 463–468 | printed 451–456 with scan-465 illustration | `ஒருதலைக் காதல் — 7` | **R47 complete / all six verified; C19-009..013 preserved** |
+| 469–470 | printed 457–458 | start of `ஒருதலைக் காதல் — 8` | **R47 complete / both verified; C19-014 preserved; continues at scan 471** |
+| 471–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
 | 497 | — | back cover / end matter | **Gate D closed / physical endpoint** |
 
 ## Important controls

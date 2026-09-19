@@ -3044,6 +3044,58 @@ No canonical lexical word or character was changed.
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R45_SCANS_441_450.md`.
 
+## Restart R46 — scans 451–460
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf`, physical scans 451–460 / PDF pages 1–10
+- reviewed scans: **451–460 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **0**
+- unresolved new lexical pages: **0**
+- source-supported non-lexical body corrections: **0**
+- page-status promotions: **10**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R46 findings
+
+- scans **451–460** — full lexical/glyph review passed and promoted;
+- C19-001 through C19-008 were preserved exactly;
+- scans **453 and 457** are full-page illustrations;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R46_SCANS_451_460.md`.
+
+## Restart R47 — scans 461–470
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf`, physical scans 461–470 / PDF pages 11–20
+- reviewed scans: **461–470 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **0**
+- unresolved new lexical pages: **0**
+- source-supported non-lexical body corrections: **0**
+- page-status promotions: **10**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R47 findings
+
+- scans **461–470** — full lexical/glyph review passed and promoted;
+- C19-009 through C19-014 were preserved exactly;
+- scan **465** is a full-page illustration;
+- WFV-055/WFV-056 and all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R47_SCANS_461_470.md`.
+
 ### Exact next audit range
 
-**R46 + R47 — scans 451–470, 20 pages in the user-requested iteration cadence, using Part010 PDF pages 1–20.**
+**R48 + R49 — scans 471–490, 20 pages in the user-requested iteration cadence, using Part010 PDF pages 21–40.**
