@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 10"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -34,8 +34,8 @@ That is why you treat me lightly.
 Dear prince, I am leaving,” she said, and moved away.
 
 “Mother, you have hurled a spear into my heart!
-I shall no longer cling stubbornly,
-like a monitor lizard, to the hold I have taken!
+I shall no longer cling like a monitor lizard
+to the stand I have taken!
 You are the mother who gave birth to me.
 As proof of that,
 tomorrow morning I myself shall go to meet Narkannai

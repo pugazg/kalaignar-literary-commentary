@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 10"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -29,7 +29,7 @@ Then the shower of dream-mist broke apart
 and the sun of waking memory rose.
 Killi opened his eyes,
 his face spilling joy,
-and stretched one leg over the pillow.
+and rested one leg on the pillow.
 
 As Killi lay there in rapture upon the bed,
 a rolled palm-leaf flew in and fell upon him!

@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 10"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -35,7 +35,7 @@ like moonlight, breeze, sweet syrup and honey-rain!” she said.
 Just then,
 a friend came running, gasping for breath,
 and told news that made
-the very life-breath of Perungozhi Nayakan's daughter
+the very life-breath of Perungozhi Naaykan's daughter
 seem to stop.
 
 “Those two villains, Katti and Paanan,

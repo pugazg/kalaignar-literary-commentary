@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 11"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -33,7 +33,7 @@ Narkilli spoke dismissively:
 Now look!
 Look at whose sword has brought me down!
 
-By altering the writing
+By changing the message
 and throwing in a palm-leaf saying
 that you, the princess, would be carried away,
 I deceived your brother.

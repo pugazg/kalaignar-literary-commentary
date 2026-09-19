@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 10"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -42,15 +42,15 @@ where is she?” she asked.
 
 “Mother, forgive me!
 If I marry her,
-many literary ornaments that Tamil ought to receive
-may never come into being.
+Tamil may lose many literary jewels
+it ought to receive.
 She must compose nectar-like poems
 so that Tamil's honour as a people
 and its broad-shouldered valour rise still higher.
 Instead,
 if that singing bird is shut away
 in the prison of the women's quarters,
-what smallest benefit will Tamil gain?” he asked.
+what benefit at all will Tamil gain?” he asked.
 
 “Who said that household life
 stands in the way of literature being poured into Tamil?

@@ -6,7 +6,7 @@ work: "sangatamil"
 section: "ஒருதலைக் காதல் — 11"
 language: "en"
 translation_type: "project_translation"
-status: "source-checked"
+status: "editorial-reviewed"
 source_tamil_status: "needs-review"
 source_tamil_visual_fidelity: "needs-review"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
@@ -35,14 +35,14 @@ and raised his sword,
 taking aim to hurl it!
 
 Realizing that one more moment of delay
-would prevent the intended aim from being achieved,
+would prevent the plan from succeeding,
 the dark figure seized the dagger again.
 Aiyai's hand tried to stop it;
 but the figure thrust her back upon the bed
 and raised the dagger directly over her chest.
 
-At the black-cloaked figure,
-iron-hearted Narkilli hurled his sword.
+Iron-hearted Narkilli hurled his sword
+at the black-cloaked figure.
 The lamp beside the bed fell to the floor,
 and black darkness spread everywhere—alas!
 
