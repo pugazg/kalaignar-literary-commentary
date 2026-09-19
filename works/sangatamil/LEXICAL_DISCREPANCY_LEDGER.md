@@ -1611,6 +1611,7 @@ These rows are therefore **not correction authorizations**. Canonical wording st
 | WFV-006 | 25 | 10 | `0025-maanangkaatha-maravan-01.md` | `வளையாத முதுகெலும்பு பெற்றவனோ?` | `வளையாத முதுகெலும்பு பெற்றவனே?` | `likely-gemini-error` | **R03 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 25 reopened to needs-review** |
 | WFV-007 | 30 | 15 | `0030-maanangkaatha-maravan-06.md` | quotation `ஆள்அன்று என்று வாளின் தப்பார்;` | quotation source `ஆளன்று என்று வாளின் தப்பார்;` | `old-or-uncommon-form` | **R03 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 30 reopened to needs-review** |
 | WFV-008 | 30 | 15 | `0030-maanangkaatha-maravan-06.md` | gloss `ஆள்அன்று என்று வாளின் தப்பார் = ...` | gloss source `ஆளன்று என்று வாளின் தப்பார் = ...` | `old-or-uncommon-form` | **R03 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; same scan-30 lexical hold** |
+| WFV-009 | 49 | 34 | `0049-kaakkaikku-nandri-kaatta-03.md` | quotation `திண்டோர் நள்ளி கானத் தண்டர்` | quotation source `திண்டேர் நள்ளி கானத் தண்டர்` | `likely-gemini-error` | **R05 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 49 reopened to needs-review** |
 
 Non-lexical observations from the same review, such as token placement, lineation or punctuation, are not entered here unless they change the lexical reading.
 
@@ -1741,6 +1742,35 @@ No canonical word or character was changed.
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R04_SCANS_031_040.md`.
 
+## Restart R05 — scans 41–50
+
+**Status: COMPLETE / PASS WITH LEXICAL HOLD**
+
+- date: **2026-09-19**
+- source: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_001_pages_1-50.pdf`
+- cadence: **10 physical scans per iteration**
+- reviewed scans: **41–50 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **1** — WFV-009
+- unresolved new lexical pages: **1** — scan 49
+- source-supported non-lexical page corrections: **0**
+- page-layer lexical mutations: **0**
+- page metadata/status mutation: **scan 49 only**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R05 findings
+
+- scans **41–46, 48, 50** — no new lexical/glyph discrepancy;
+- scan **47** — prior C2 heading `காக்கைக்கு நன்றி காட்ட...` and protected `அப்படியொரு காகம் கரைந்திற்றாங்கே!` remain controlling;
+- scan **49** — WFV-009 confirmed: canonical quotation `திண்டோர் நள்ளி கானத் தண்டர்` vs source-visible `திண்டேர் நள்ளி கானத் தண்டர்`; canonical left unchanged and page reopened to `needs-review`;
+- same-page glyph evidence distinguishes source `டே` in `திண்டேர்` from the source-visible `றோ` in `றோழி`; this is ledgered rather than silently normalized;
+- existing R03 WFV-006 through WFV-008 remain pending explicit user adjudication and were not altered.
+
+No canonical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R05_SCANS_041_050.md`.
+
 ### Exact next audit range
 
-**R05 — scans 41–50.**
+**R06 — scans 51–60.**
