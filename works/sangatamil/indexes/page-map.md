@@ -43,8 +43,8 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 31–36 | printed 16–21 with scan-32 illustration | `துணை நின்றாள் தோழி!` | **Gemini-assisted regression reconciliation complete; text scans 31, 33–36 reopened `needs-review`; scan 32 illustration remains `verified`** |
 | 37–41 | printed 22–26 with scan-38 illustration | `சுமந்தவன் சுமந்த சோகம்!` | **section complete / verified under earlier workflow; subject to later systematic Pass 2/3 sweep** |
 | 42–46 | printed 27–31 with scan-44 illustration | `பாவை புகழ்ந்த பன்றி` | **section complete / verified under earlier workflow; subject to later systematic Pass 2/3 sweep** |
-| 47–49 | printed 32–34 with scan-48 illustration | `காக்கைக்கு நன்றி காட்ட...` | **section complete / verified under earlier workflow; subject to later systematic Pass 2/3 sweep** |
-| 50 | printed 35 | `மாதரின் கண்ட மலர்கள்` opening | `verified` under earlier mixed cadence; subject to later systematic sweep |
+| 47–49 | printed 32–34 with scan-48 illustration | `காக்கைக்கு நன்றி காட்ட...` | **R05 source re-audit: scans 47–48 verified; scan 49 `needs-review` / visual `needs-review` for WFV-009 (`திண்டோர்` vs source `திண்டேர்`); 0 lexical mutations** |
+| 50 | printed 35 | `மாதரின் கண்ட மலர்கள்` opening | **R05 source re-audit PASS / verified; no new lexical discrepancy** |
 | 51 | printed 36 | continuation of `மாதரின் கண்ட மலர்கள்` | transcription-only first pass; `needs-review` |
 | 52 | — | full-page illustration | single-pass capture; `needs-review`; no visible printed page number |
 | 53 | printed 38 | continuation of `மாதரின் கண்ட மலர்கள்` | fast transcription-only first pass; `needs-review` |
