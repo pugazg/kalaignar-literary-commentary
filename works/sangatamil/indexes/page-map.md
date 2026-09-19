@@ -103,7 +103,13 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 281–284 | printed 269–270, 272 with scan-283 illustration | `கிலு கிலுப்பை வழங்கும் கிறுகிறுப்பு!` | **R29 complete / scans 283–284 verified; scans 281–282 needs-review on WFV-045..047; C12-001 preserved** |
 | 285–287 | printed 273, 275 with scan-286 illustration | `'இனம்' காட்டும் இயற்கைக் காட்சி!` | **R29 complete / all three verified** |
 | 288–290 | printed 276, 278 with scan-289 illustration | start of `வெறியாடும் வேலன் எதற்காக?` | **R29 complete / scans 288–289 verified; scan 290 needs-review on WFV-048; C12-002/C12-003 preserved; continues at scan 291** |
-| 291–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
+| 291 | printed 279 | end of `வெறியாடும் வேலன் எதற்காக?` | **R30 complete / verified** |
+| 292–295 | printed 280, 282–283 with scan-293 illustration | `ஒல்லையூரில் முல்லையோ?` | **R30 complete / scans 292–293, 295 verified; scan 294 needs-review on WFV-049; C12-004/C12-005 preserved** |
+| 296–298 | printed 284, 286 with scan-297 illustration | `மறு பிறப்பு உண்டென்றால் மறக்க நேரிடுமோ?` | **R30 complete / all three verified; C12-006 preserved** |
+| 299–302 | printed 287–288, 290 with scan-301 illustration | `உண்பது நாழி; உடுப்பவை இரண்டே!` | **R30/R31 complete / all four verified** |
+| 303–308 | printed 291–292, 294–296 with scan-305 illustration | `பரிபாடல்- பன்மலர்ப் பூங்கா!` | **R31 complete / all six verified; C13-001/C13-002 preserved** |
+| 309–310 | printed 297–298 | start of `முரசு கட்டிலில் மோசுகீரனார்!` | **R31 complete / both verified; C13-003 heading preserved; continues at scan 311** |
+| 311–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
 | 497 | — | back cover / end matter | **Gate D closed / physical endpoint** |
 
 ## Important controls

@@ -2571,6 +2571,68 @@ No canonical lexical word or character was changed.
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R29_SCANS_281_290.md`.
 
+## Restart R30 — scans 291–300
+
+**Status: COMPLETE / PASS WITH LEXICAL HOLD**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_006_pages_251-300.pdf`, physical scans 291–300
+- reviewed scans: **291–300 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy row: **1** — WFV-049
+- unresolved new lexical page: **1** — scan 294
+- source-supported non-lexical body corrections: **0**
+- page-status promotions: **9**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### New R30 WFV row
+
+| ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
+|---|---:|---:|---|---|---|---|
+| WFV-049 | 294 | 282 | `அரண் போன்றான் வீழ்ந்தான் என்ற அதிர்ச்சியினால் தாக்குண்டு` | source visibly reads `அரண் போன்றவன் வீழ்ந்தான் என்ற அதிர்ச்சியினால் தாக்குண்டு` | `missing-source-token / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 294 remains needs-review** |
+
+### R30 findings
+
+- scans **291–293, 295–300** — full lexical/glyph review passed and promoted;
+- scan **294 / WFV-049** — source-visible `போன்றவன்` differs from canonical `போன்றான்`; no lexical edit applied;
+- scan **292 / C12-004**, scan **294 / C12-005**, scan **296 / C12-006** — earlier user rulings preserved exactly;
+- scans **293 and 297** — full-page illustrations verified;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R30_SCANS_291_300.md`.
+
+## Restart R31 — scans 301–310
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_007_pages_301-350.pdf`, physical scans 301–310
+- reviewed scans: **301–310 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **0**
+- unresolved new lexical pages: **0**
+- source-supported non-lexical correction: **scan 310 quote-spacing**
+- page-status promotions: **10**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R31 findings
+
+- scans **301–310** — full lexical/glyph review passed and promoted;
+- scan **304 / C13-001** — restored quotation continuation `தாள் தாமரை தோள் தமனியக் கயமலர்` preserved;
+- scan **307 / C13-002** — `யாருக்கும் அடங்காமல் பிளிறிற்றங்கே!` preserved;
+- scan **309 / C13-003** — heading `முரசு கட்டிலில் / மோசுகீரனார்!` preserved;
+- scan **310** — source-supported quote-spacing aligned without lexical change;
+- scans **301 and 305** — full-page illustrations verified;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R31_SCANS_301_310.md`.
+
 ### Exact next audit range
 
-**R30 + R31 — scans 291–310, 20 pages in the user-requested iteration cadence.**
+**R32 + R33 — scans 311–330, 20 pages in the user-requested iteration cadence.**
