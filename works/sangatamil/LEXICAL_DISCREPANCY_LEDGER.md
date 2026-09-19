@@ -1844,6 +1844,35 @@ No canonical word or character was changed.
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R07_SCANS_061_070.md`.
 
+## Restart R08 — scans 71–80
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-19**
+- source: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_002_pages_51-100.pdf`
+- cadence: **10 physical scans per iteration**
+- reviewed scans: **71–80 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **0**
+- unresolved new lexical pages: **0**
+- source-supported non-lexical body corrections: **0**
+- page-status promotions: **10**
+- page-layer lexical mutations: **0**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R08 findings
+
+- scans **71, 73–75, 77–80** — full printed-page lexical/glyph review passed with no new discrepancy;
+- scans **72 and 76** — full-page illustrations verified;
+- scan **77** — prior C2 user-authorized `பாண்டிநாட்டுச் சிற்றூரில்` remains controlling and was not reopened;
+- earlier provisional suspicions on scans **73, 78 and 79** remain rejected after enlarged/high-resolution review; no WFV row is created;
+- existing unresolved WFV-002, WFV-003 and WFV-006 through WFV-011 remain pending explicit user adjudication and were not altered.
+
+No canonical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R08_SCANS_071_080.md`.
+
 ### Exact next audit range
 
-**R08 — scans 71–80.**
+**R09 — scans 81–90.**
