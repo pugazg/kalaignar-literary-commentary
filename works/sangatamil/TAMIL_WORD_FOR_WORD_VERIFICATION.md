@@ -46,16 +46,16 @@ Historical Gate-G baseline:
 - `needs-review` — **453**
 - `partial` — **1**
 
-Current state after R11 scans 101–110:
+Current state after R13 scans 121–130:
 
-- `verified` — **97**
-- `needs-review` — **399**
+- `verified` — **117**
+- `needs-review` — **379**
 - `partial` — **1**
-- visual `verified` — **97**
-- visual `needs-review` — **400**
+- visual `verified` — **117**
+- visual `needs-review` — **380**
 - blocked — **0**
 
-R01–R11 changed **0 lexical words**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** on scan **49**; R06 discovered **1** on scan **55**; R07 reconfirmed WFV-002 and WFV-003 and discovered WFV-011 on scan **67**; R08 found **0** new discrepancies; R09 reconfirmed WFV-004 and discovered WFV-012 and WFV-013; R10 reconfirmed WFV-005 and discovered WFV-014; R11 found **0** new discrepancies. All disputed lexical wording remains unchanged.
+R01–R13 changed **0 lexical words**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** on scan **49**; R06 discovered **1** on scan **55**; R07 reconfirmed WFV-002 and WFV-003 and discovered WFV-011 on scan **67**; R08 found **0** new discrepancies; R09 reconfirmed WFV-004 and discovered WFV-012 and WFV-013; R10 reconfirmed WFV-005 and discovered WFV-014; R11–R13 found **0** new lexical discrepancies. All disputed lexical wording remains unchanged.
 
 ## R01 — scans 1–10
 
@@ -258,6 +258,40 @@ Results:
 - no C2 user-adjudicated item falls inside scans **101–110**;
 - whole-volume state now **97 verified / 399 needs-review / 1 partial**.
 
+## R12 — scans 111–120
+
+**COMPLETE / PASS**
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R12_SCANS_111_120.md`
+
+Results:
+
+- scans **111–120** — full restart audit completed;
+- new lexical discrepancy rows — **0**;
+- canonical lexical substitutions — **0**;
+- source-supported non-lexical body corrections — **0**;
+- source-supported metadata alignments — **3** (scans 113–115 section metadata aligned to exact C2 heading);
+- page-status promotions — **10**;
+- protected C2 rulings on scans **112, 113 and 120** preserved;
+- whole-volume state after R12 — **107 verified / 389 needs-review / 1 partial**.
+
+## R13 — scans 121–130
+
+**COMPLETE / PASS**
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R13_SCANS_121_130.md`
+
+Results:
+
+- scans **121–130** — full restart audit completed;
+- new lexical discrepancy rows — **0**;
+- canonical lexical substitutions — **0**;
+- source-supported non-lexical body corrections — **0**;
+- page-status promotions — **10**;
+- protected C2 scan-123 restored opening prose preserved;
+- C2-06 scans 126–130 remain a no-discrepancy range;
+- whole-volume state now **117 verified / 379 needs-review / 1 partial**.
+
 ## Pre-restart Part002 candidate rows
 
 The earlier interrupted Part002 review is **not counted as completed restart coverage**.
@@ -281,15 +315,17 @@ Do not change any pending lexical wording before explicit user adjudication.
 | R09 | 81–90 | **COMPLETE / PASS WITH LEXICAL HOLDS** |
 | R10 | 91–100 | **COMPLETE / PASS WITH LEXICAL HOLDS** |
 | R11 | 101–110 | **COMPLETE / PASS** |
-| R12 | 111–120 | **NEXT** |
-| R13–R49 | 121–490 | pending in 10-scan cadence |
+| R12 | 111–120 | **COMPLETE / PASS** |
+| R13 | 121–130 | **COMPLETE / PASS** |
+| R14 | 131–140 | **NEXT** |
+| R15–R49 | 141–490 | pending in 10-scan cadence |
 | R50 | 491–497 | final 7-scan remainder |
 
 ## Exact next activity
 
-Process **R12 — scans 111–120** from the supplied Part003 / controlling source PDF.
+Process **R14 — scans 131–140** from the supplied Part003 / controlling source PDF.
 
-At R12 close:
+At R14 close:
 
 - inspect all 10 scans at enlarged/native resolution;
 - apply the historical-glyph guide;
