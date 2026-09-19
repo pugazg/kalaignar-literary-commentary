@@ -1,3 +1,5 @@
+> **Operational note — SUPERSEDED FOR LIVE EXECUTION.** On 2026-09-19 the user restarted the audit from scan 1 in **10-page iterations** and added the historical-glyph guide. Use `TAMIL_WORD_FOR_WORD_VERIFICATION.md` and the R01+ re-audit reports for the live frontier. This file is retained as historical evidence only.
+
 # Sangatamil — Tamil Word-for-Word Audit Part001 Report
 
 **Status: AUDIT COMPLETE / 5 VERIFIED / 1 LEXICAL HOLD**

@@ -56,17 +56,17 @@ Earlier Gate-B/C/F checkpoints remain historical evidence only. Later commits ma
 - Gate H — **COMPLETE / PASS — 104 sections / 115 formal units / 4 note-only / 119 provenance leaves / 0 canonical page changes**
 - Gate I — **COMPLETE / PASS — final synchronization / closure**
 - Gate-G historical page status distribution — **43 verified / 453 needs-review / 1 partial**
-- current Tamil audit state after policy repair — **48 verified / 448 needs-review / 1 partial**
-- current visual-fidelity state after policy repair — **48 verified / 449 needs-review / 0 missing**
+- current Tamil re-audit state after R01 — **49 verified / 447 needs-review / 1 partial**
+- current visual-fidelity state after R01 — **49 verified / 448 needs-review / 0 missing**
 - user-directed Tamil word-for-word verification — **IN PROGRESS**
-- Part001 scans **1–50** — **AUDIT COMPLETE — 5 verified / scan 7 lexical hold / scan 8 partial**
+- restart R01 scans **1–10** — **COMPLETE / PASS — 0 new lexical discrepancies / WFV-001 rejected / scan8 partial**
 - whole-volume word-for-word completion — **NOT YET CLAIMED**
 
 The mixed page-level statuses are intentional. Gate C2 resolved all recorded Gate-C discrepancies but did not perform a fresh exhaustive token-by-token reread of every source word.
 
-**Exact active Tamil activity: Gemini-locked word-for-word audit of remaining `needs-review` pages.** Part002 scans **51–100** is active from the supplied PDF; scans **51–96** have been compared and **97–100 are next**.
+**Exact active Tamil activity: restarted Gemini-locked word-for-word + historical-glyph re-audit in 10-page iterations.** R01 scans **1–10 is COMPLETE / PASS**; exact next range is **R02 scans 11–20** from the supplied Part001 PDF.
 
-For this pass, **do not correct any lexical word directly from the scan**. Keep Gemini/canonical wording unless the user explicitly adjudicates a discrepancy. Append every newly found word-level difference to `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`. Source-supported structure, punctuation, lineation, placement and visual corrections remain allowed when they do not substitute words.
+Mandatory companion control: `works/sangatamil/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Inspect difficult glyphs at enlarged/native resolution, check the 13 known families, and compare same-edition evidence. **Do not correct lexical words directly**: every new lexical/glyph difference goes to `LEXICAL_DISCREPANCY_LEDGER.md` and awaits explicit user adjudication.
 
 **Maintained English release-report gate is PAUSED while the new Tamil word-for-word verification pass is active.** The English layer remains at **496 editorial-reviewed + 1 source-limited (scan 8)**. Tamil corrections discovered by this pass must receive targeted English impact reconciliation before any release approval or `release-ready` promotion.
 

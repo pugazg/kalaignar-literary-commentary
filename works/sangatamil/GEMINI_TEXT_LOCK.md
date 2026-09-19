@@ -78,3 +78,23 @@ The user explicitly reaffirmed:
 Therefore the scan is **comparison evidence**, not automatic lexical authority. Structural/punctuation/layout corrections remain permitted where they do not substitute lexical wording.
 
 A page with a newly discovered unresolved lexical discrepancy must remain `needs-review` until adjudication.
+
+
+## Historical-glyph guide integration — 2026-09-19
+
+Mandatory companion control:
+
+`works/sangatamil/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
+
+The guide requires reviewers to distinguish historical character identity from modern visual resemblance, explicitly check the known families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`, inspect enlarged/native pixels, and use same-edition evidence when needed.
+
+For **Sangatamil**, the user's stricter lexical-lock instruction controls mutation:
+
+- use the guide to detect and explain a possible glyph/lexical discrepancy;
+- **do not directly rewrite the canonical word or character**;
+- append the difference to `LEXICAL_DISCREPANCY_LEDGER.md`;
+- leave unresolved pages `needs-review`;
+- wait for explicit user adjudication;
+- do not global-replace any historical-glyph family.
+
+Thus the guide improves **reading accuracy and discrepancy detection** without weakening the Gemini lexical lock.

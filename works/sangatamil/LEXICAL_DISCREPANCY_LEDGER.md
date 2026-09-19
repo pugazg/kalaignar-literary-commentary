@@ -1603,11 +1603,11 @@ These rows are therefore **not correction authorizations**. Canonical wording st
 
 | ID | Scan | Printed page | Canonical page | Locked repository wording | Source-visible wording | Classification | Disposition |
 |---|---:|---:|---|---|---|---|---|
-| WFV-001 | 7 | II | `0007-publication-details.md` | `ராக்போர்ட்` | `ராக்ஃபோர்ட்` | `likely-gemini-error` | **PENDING USER ADJUDICATION — do not change word** |
-| WFV-002 | 62 | 47 | `0062-oorin-perumai-unarnthavar-oruthi-04.md` | after `படர்ந்துள்ள கொடியுதிர் மலர்களில்` canonical proceeds to `பாதம் படுகின்ற...` | source visibly contains intervening lexical token `தனது` | `likely-gemini-error` | **PENDING USER ADJUDICATION — do not add word** |
-| WFV-003 | 69 | 54 | `0069-vaanan-manandha-vannath-thirumagal-05.md` | `தலைமகனாம் என் கணவர்` | `தலைமகனும் என் கணவர்` | `likely-gemini-error` | **PENDING USER ADJUDICATION — do not change word** |
-| WFV-004 | 83 | 68 | `0083-pisiranthaiyar-2-02.md` | `மாலையாவதில்ல - ஆழல்` | `மாலையாவதில்ல - ஆனால்` | `likely-gemini-error` | **PENDING USER ADJUDICATION — do not change word** |
-| WFV-005 | 91 | 76 | `0091-pisirandhaiyar-4-01.md` | `வாராத காரணம்தான்` | `வராத காரணம்தான்` | `likely-gemini-error` | **PENDING USER ADJUDICATION — do not change word** |
+| WFV-001 | 7 | II | `0007-publication-details.md` | `ராக்போர்ட்` | earlier provisional read `ராக்ஃபோர்ட்` | `likely-gemini-error` | **REJECTED ON R01 RE-AUDIT — high-resolution scan + same-edition evidence support canonical `ராக்போர்ட்`; no lexical discrepancy** |
+| WFV-002 | 62 | 47 | `0062-oorin-perumai-unarnthavar-oruthi-04.md` | after `படர்ந்துள்ள கொடியுதிர் மலர்களில்` canonical proceeds to `பாதம் படுகின்ற...` | source visibly contains intervening lexical token `தனது` | `likely-gemini-error` | **PENDING RECONFIRMATION IN RESTART 10-PAGE AUDIT — do not add word** |
+| WFV-003 | 69 | 54 | `0069-vaanan-manandha-vannath-thirumagal-05.md` | `தலைமகனாம் என் கணவர்` | `தலைமகனும் என் கணவர்` | `likely-gemini-error` | **PENDING RECONFIRMATION IN RESTART 10-PAGE AUDIT — do not change word** |
+| WFV-004 | 83 | 68 | `0083-pisiranthaiyar-2-02.md` | `மாலையாவதில்ல - ஆழல்` | `மாலையாவதில்ல - ஆனால்` | `likely-gemini-error` | **PENDING RECONFIRMATION IN RESTART 10-PAGE AUDIT — do not change word** |
+| WFV-005 | 91 | 76 | `0091-pisirandhaiyar-4-01.md` | `வாராத காரணம்தான்` | `வராத காரணம்தான்` | `likely-gemini-error` | **PENDING RECONFIRMATION IN RESTART 10-PAGE AUDIT — do not change word** |
 
 Non-lexical observations from the same review, such as token placement, lineation or punctuation, are not entered here unless they change the lexical reading.
 
@@ -1619,3 +1619,35 @@ Higher-resolution review rejected earlier provisional suspicions on scans **59, 
 - Part002 scans **51–96** — compared.
 - Part002 scans **97–100** — exact next review range.
 - canonical lexical page changes authorized by these WFV rows — **0**.
+
+
+## Restart R01 — scans 1–10
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-19**
+- source: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_001_pages_1-50.pdf`
+- cadence: **10 physical scans per iteration**
+- reviewed scans: **1–10 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **0**
+- historical-glyph review control: `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
+- known 13 families explicitly checked where present: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+- difficult forms reviewed at enlarged/native resolution and, where useful, against same-edition evidence
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R01 findings
+
+- scans **1–4, 6, 9–10** — no new lexical discrepancy;
+- scan **5** — historical C01-001 / C2-01 user adjudication `வெளியீட்டாளர் — Gemini is correct` remains protected; not reopened;
+- scan **7** — earlier WFV-001 `ராக்ஃபோர்ட்` suspicion was a false read. High-resolution scan and same-edition publisher evidence on scans 5/7 support canonical `ராக்போர்ட்`; WFV-001 is rejected. Source punctuation/spacing only was synchronized;
+- scan **8** — handwritten `முன்னுரை` remains description-only / `partial` by explicit user direction;
+- scan **9** — historical C01-004 / C2-01 user adjudication remains protected; no new lexical discrepancy;
+- scan **10** — full printed page, including reform-sensitive glyph families present on the page, matched the canonical lexical layer; no new discrepancy.
+
+The attached historical-glyph guide was used to distinguish **character identity** from modern visual resemblance. Under the project-specific user rule, even a future glyph-identity disagreement must first be ledgered and must **not** be directly applied to canonical wording without explicit adjudication.
+
+### Exact next audit range
+
+**R02 — scans 11–20.**

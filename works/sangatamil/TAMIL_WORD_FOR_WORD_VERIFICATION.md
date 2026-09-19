@@ -1,119 +1,120 @@
-# Sangatamil — Tamil Word-for-Word Audit / Verification Tracker
+# Sangatamil — Tamil Word-for-Word / Historical-Glyph Re-Audit Tracker
 
-**Status: IN PROGRESS**
+**Status: IN PROGRESS — RESTARTED FROM SCAN 1 IN 10-PAGE ITERATIONS**
 
-- started: **2026-09-19**
-- controlling source for comparison: user-supplied split PDFs from `TVA_BOK_0042551_சங்கத்_தமிழ்.pdf`
-- lexical authority: **Gemini-locked canonical wording + prior explicit user adjudications**
+- restart date: **2026-09-19**
+- repository: `pugazg/kalaignar-literary-commentary`
+- branch: `main`
+- cadence: **10 physical scans per iteration**
+- comparison source: user-supplied split PDFs from `TVA_BOK_0042551_சங்கத்_தமிழ்.pdf`
+- lexical authority: **Gemini/canonical wording + exact prior user adjudications**
 - structural/visual authority: **PDF scan**
-- discrepancy ledger: `LEXICAL_DISCREPANCY_LEDGER.md`
-- scope: canonical Tamil pages currently marked `needs-review`
+- lexical discrepancy ledger: `LEXICAL_DISCREPANCY_LEDGER.md`
+- historical-glyph control: `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
 - permanent exception: scan **8** remains `partial` / handwritten facsimile unless the user explicitly changes that policy
 
-## Governing rule — user corrected 2026-09-19
+## Highest-priority user rule
 
-This pass is **word-for-word comparison, not automatic source correction**.
+> **Do not correct any words directly.**
 
-For every page entering this pass:
+The review is word-for-word and glyph-aware, but a source/Gemini lexical difference is **ledger evidence**, not automatic permission to mutate the page.
 
-1. compare every printed word against the supplied source scan;
-2. **do not replace, normalize, modernize or source-correct Gemini/canonical words directly**;
-3. any newly discovered lexical/word discrepancy must be appended to `LEXICAL_DISCREPANCY_LEDGER.md`;
-4. lexical wording changes require a later explicit user adjudication;
-5. source-supported structure may still be corrected: page placement, paragraph order, punctuation, quotation structure, headings, speaker labels, poetry lineation, spacing, separators, continuation placement, illustration/divider/blank classification and provenance/gloss layout;
-6. a page with an unresolved lexical discrepancy remains `needs-review`;
-7. a clean page may be promoted to `verified` only after its full word-by-word comparison plus structural/visual audit passes;
-8. `visual_fidelity` follows the physical/visual audit independently;
-9. do not reopen pages already `verified` unless the user expands scope or a clear new problem is discovered.
+For every scan:
 
-The historical Gemini lock is therefore **active for lexical wording during this pass**. The PDF is used to detect discrepancies and to control structure; it does not silently overrule Gemini words.
+1. inspect the whole page first;
+2. use enlarged/native pixels for difficult text;
+3. explicitly check the 13 historical/reform-sensitive families:
+   `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+4. use same-edition examples when a glyph is uncertain;
+5. separate historical glyph identity from expected modern spelling;
+6. never use OCR as lexical authority;
+7. **do not substitute a lexical word or character directly** when source and Gemini/canonical wording differ;
+8. append every such lexical/glyph difference to `LEXICAL_DISCREPANCY_LEDGER.md`;
+9. preserve exact prior user C2 adjudications unless the user explicitly reopens them;
+10. structural/punctuation/layout corrections may be applied only when they do not change lexical wording;
+11. unresolved lexical pages stay `needs-review`;
+12. clean fully audited pages may remain/become `verified`;
+13. no global replacements.
 
-## Policy repair after Part001
+The attached historical-glyph guide says to read character identity rather than modern visual resemblance. For **this Sangatamil project**, its general glyph-decoding method is used for detection and evidence gathering, while the user's stricter Gemini-lock rule controls mutation: **ledger first, user adjudication before any lexical edit**.
 
-The earlier Part001 closure mistakenly treated the source scan as direct lexical authority on scan 7.
+## Restart status
 
-That unauthorized lexical change has been **reverted**. Scan 7 returns to its pre-pass canonical wording/state and the newly noticed publisher-name difference is now recorded in the lexical discrepancy ledger instead.
+Historical Gate-G baseline:
 
-Part001 now stands:
-
-- prior `needs-review` pages examined — **6: scans 7, 31, 33, 34, 35, 36**
-- promoted to `verified` — **5: scans 31, 33, 34, 35, 36**
-- unresolved lexical hold — **1: scan 7**
-- direct new lexical substitutions retained — **0**
-- structural-only changes retained — **scans 31 and 34**
-- scan 8 — remains `partial`
-
-Part001 state:
-
-- `verified` — **48**
-- `needs-review` — **1** (scan 7)
-- `partial` — **1** (scan 8)
-
-Whole-volume state after policy repair:
-
-- `verified` — **48**
-- `needs-review` — **448**
+- `verified` — **43**
+- `needs-review` — **453**
 - `partial` — **1**
+
+Current state after R01 scans 1–10:
+
+- `verified` — **49**
+- `needs-review` — **447**
+- `partial` — **1**
+- visual `verified` — **49**
+- visual `needs-review` — **448**
 - blocked — **0**
 
-## New discrepancy additions from this pass
+R01 changed **0 lexical words**.
 
-Newly detected lexical differences are **ledger-only until user adjudication**.
+## R01 — scans 1–10
 
-Current new rows:
+**COMPLETE / PASS**
 
-- scan **7** — canonical `ராக்போர்ட்` vs source-visible `ராக்ஃபோர்ட்`;
-- scan **62** — source contains lexical token `தனது` before `பாதம் படுகின்ற...`, absent from canonical wording;
-- scan **69** — canonical `தலைமகனாம்` vs source-visible `தலைமகனும்`;
-- scan **83** — canonical `ஆழல்` vs source-visible `ஆனால்`;
-- scan **91** — canonical `வாராத` vs source-visible `வராத`.
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R01_SCANS_001_010.md`
 
-These rows do **not** authorize page-wording changes.
+Results:
 
-## Part002 progress
+- scans **1–7, 9–10** — full restart audit completed;
+- scan **8** — description-only handwritten facsimile; permanent special handling;
+- new lexical discrepancies — **0**;
+- WFV-001 scan 7 — **REJECTED** after high-resolution/same-edition comparison;
+- scan 7 — promoted back to `verified` after lexical hold cleared; only punctuation/spacing synchronized;
+- protected earlier C2 adjudications on scans 5 and 9 — preserved;
+- historical-glyph guide — applied page-by-page;
+- canonical lexical substitutions — **0**.
 
-Source supplied:
+## Pre-restart Part002 candidate rows
 
-`TVA_BOK_0042551_சங்கத்_தமிழ்_part_002_pages_51-100.pdf`
+The earlier interrupted Part002 review is **not counted as completed restart coverage**.
 
-All **50 scans 51–100** are currently `needs-review` and therefore belong to this audit unit.
+WFV-002 through WFV-005 remain ledger-only candidate holds and must be **reconfirmed when their 10-page restart batches are reached**:
 
-Durable progress at this checkpoint:
+- WFV-002 — scan 62
+- WFV-003 — scan 69
+- WFV-004 — scan 83
+- WFV-005 — scan 91
 
-- scans **51–96** — source comparison performed;
-- new lexical discrepancies confirmed — **4 pages: 62, 69, 83, 91**;
-- those lexical differences — **ledger-only / no direct page wording mutation**;
-- structural observations may be applied only if they do not alter lexical wording;
-- scans **97–100** — exact next comparison range;
-- Part002 page-status promotions — **not yet committed**.
+Do not change those words before re-audit + user adjudication.
 
-Earlier provisional suspicions on scans **59, 73, 78 and 79** were rejected after higher-resolution source review and must **not** be turned into lexical corrections or ledger rows.
+## 10-page iteration plan
 
-## Source-part progress
-
-| Source part | Scans | State |
+| Iteration | Scans | State |
 |---|---:|---|
-| Part001 | 1–50 | **AUDIT COMPLETE — 5 verified / 1 lexical hold / scan8 partial** |
-| Part002 | 51–100 | **IN PROGRESS — scans51–96 compared; 97–100 next** |
-| Part003 | 101–150 | pending source |
-| Part004 | 151–200 | pending source |
-| Part005 | 201–250 | pending source |
-| Part006 | 251–300 | pending source |
-| Part007 | 301–350 | pending source |
-| Part008 | 351–400 | pending source |
-| Part009 | 401–450 | pending source |
-| Part010 | 451–497 | pending source |
+| R01 | 1–10 | **COMPLETE / PASS** |
+| R02 | 11–20 | **NEXT** |
+| R03 | 21–30 | pending |
+| R04 | 31–40 | pending |
+| R05 | 41–50 | pending |
+| R06 | 51–60 | pending |
+| R07 | 61–70 | pending |
+| R08 | 71–80 | pending |
+| R09 | 81–90 | pending |
+| R10 | 91–100 | pending |
+| R11–R49 | 101–490 | pending in 10-scan cadence |
+| R50 | 491–497 | final 7-scan remainder |
 
 ## Exact next activity
 
-Continue **Part002 scans 97–100**.
+Process **R02 — scans 11–20** from the supplied Part001 PDF.
 
-At Part002 closure:
+At R02 close:
 
-1. do not change any lexical word merely because the scan differs;
-2. append every newly confirmed lexical difference to `LEXICAL_DISCREPANCY_LEDGER.md`;
-3. apply only source-supported non-lexical structural/punctuation/layout corrections;
-4. promote only clean fully audited pages to `verified`;
-5. leave pages with unresolved lexical discrepancies as `needs-review`;
-6. create/update the Part002 audit report;
-7. synchronize `README.md`, `HANDOVER.md`, `NEXT_CHAT_PROMPT_SANGATH_TAMIL.md`, tracker and English-release pause controls.
+- inspect all 10 scans at enlarged/native resolution;
+- apply the historical-glyph guide;
+- check all 13 known families where present;
+- preserve prior explicit C2 adjudications;
+- record every new lexical/glyph difference in the discrepancy ledger;
+- change **0 lexical words without user adjudication**;
+- apply only non-lexical source-supported structure/punctuation/layout changes;
+- synchronize this tracker, README, HANDOVER, English-release pause state and `NEXT_CHAT_PROMPT_SANGATH_TAMIL.md`.

@@ -55,7 +55,8 @@ B15 mixed-page repair preserved: 6525498cd8e14871575e9ae0203060af2fe4450a — sc
 2. C2_SOURCE_CORRECTION_PROGRESS.md
 3. POST_C2_RECONCILIATION.md
 4. GATE_G_METADATA_STATUS_AUDIT.md
-5. GEMINI_TEXT_LOCK.md — historical lexical-lock baseline
+5. GEMINI_TEXT_LOCK.md — active lexical lock for current audit
+6. HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md — mandatory historical-glyph review control
 6. STRUCTURAL_FIDELITY_PROGRESS.md
 7. GATE_A_HYGIENE_REPORT.md
 8. ../../SANGATH_TAMIL_ARCHIVAL_GUIDELINES.md
@@ -84,40 +85,32 @@ Clearly unsupported extraction debris is excluded. Legitimate scan/Gemini lexica
 
 ## Status rule
 
-Gate-B structural completion does not automatically promote a page to verified. Gate C2 closed the **140 historical discrepancy rows** only after explicit user adjudication.
+The Tamil audit has been **restarted from scan 1 in 10-page iterations**.
 
-A new **word-for-word audit of remaining `needs-review` pages is IN PROGRESS**, but its lexical rule remains Gemini-locked:
+Live controls:
 
-- PDF scan — comparison evidence + physical/structural authority;
-- Gemini/canonical wording — lexical authority unless an exact discrepancy has been explicitly adjudicated by the user;
-- newly found lexical differences — append to `LEXICAL_DISCREPANCY_LEDGER.md`;
-- **do not directly source-correct words**;
-- structural/punctuation/lineation/layout corrections may be applied without changing lexical words;
-- pages with unresolved lexical discrepancies remain `needs-review`;
-- clean fully audited pages may move to `verified`.
+- Gemini/canonical wording + exact user adjudications — lexical authority;
+- PDF scan — physical/structural/visual authority and lexical-comparison evidence;
+- `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` — mandatory glyph-decoding review method;
+- `LEXICAL_DISCREPANCY_LEDGER.md` — destination for every newly found word/glyph difference.
 
-Durable tracker: `TAMIL_WORD_FOR_WORD_VERIFICATION.md`.
+**Do not correct lexical words directly.** A historical-glyph finding is evidence for the ledger, not automatic permission to mutate canonical wording. Source-supported punctuation, placement, lineation and other non-lexical structure may be synchronized.
 
-Part001 scans **1–50**:
-- six prior `needs-review` pages examined — scans **7, 31, 33, 34, 35, 36**;
-- promoted to `verified` — **5: 31, 33, 34, 35, 36**;
-- lexical hold — **scan 7**;
-- direct new lexical substitutions retained — **0**;
-- scan 8 — remains `partial`;
-- Part001 current state — **48 verified / 1 needs-review / 1 partial**.
-
-Part002 scans **51–100**:
-- source supplied;
-- scans **51–96** compared;
-- new lexical holds currently ledgered — **62, 69, 83, 91**;
-- scans **97–100** — exact next review range;
-- no Part002 status promotions committed yet.
+R01 scans **1–10 — COMPLETE / PASS**:
+- 10/10 inspected at enlarged/native resolution;
+- 13 known historical/reform-sensitive families kept in scope on every printed page;
+- new lexical discrepancies — **0**;
+- WFV-001 scan 7 — **REJECTED** after high-resolution + same-edition review;
+- scan 7 — `verified` again; only punctuation/spacing synchronized;
+- scan 8 — remains `partial` / description-only;
+- canonical lexical substitutions — **0**.
 
 Current whole-volume Tamil state:
-- `verified` — **48**
-- `needs-review` — **448**
+- `verified` — **49**
+- `needs-review` — **447**
 - `partial` — **1**
-- whole-volume completion — **NOT YET CLAIMED**
+- current restart coverage — **10/497**
+- exact next range — **R02 scans 11–20**
 
 Gate D — COMPLETE / PASS:
 - physical scans — 497/497
@@ -171,9 +164,9 @@ Gate G — **COMPLETE / PASS**:
 - required metadata field presence after repair — **497/497**
 - demonstrable defects repaired — **11 missing `visual_fidelity` fields**
 - Gate-G historical `status` distribution — **43 verified / 453 needs-review / 1 partial**
-- current post-policy-repair state — **48 verified / 448 needs-review / 1 partial**
+- current restart-R01 state — **49 verified / 447 needs-review / 1 partial**
 - Gate-G historical `visual_fidelity` distribution — **43 verified / 454 needs-review / 0 missing**
-- current post-policy-repair visual-fidelity state — **48 verified / 449 needs-review / 0 missing**
+- current restart-R01 visual-fidelity state — **49 verified / 448 needs-review / 0 missing**
 - canonical wording changes — **0**
 - unresolved Gate-G inconsistencies — **0**
 - durable report — `GATE_G_METADATA_STATUS_AUDIT.md`
@@ -275,4 +268,6 @@ This downstream layer does **not** reopen or mass-promote the canonical Tamil re
 
 ## Exact next activity
 
-**Maintained-English whole-volume English release report — active release unit scans 1–497.** The whole-volume / section-level review is **COMPLETE / PASS**. Create the release report, preserve scan 8 as `source-limited`, decide whether the **496 editorial-reviewed pages** are approved for release, and do not promote any page until that report explicitly approves release.
+**Tamil re-audit R02 — scans 11–20.** Process exactly 10 scans from the supplied Part001 PDF. Apply the historical-glyph guide, preserve the Gemini lexical lock, ledger every new lexical/glyph discrepancy, change no word without user adjudication, and keep `NEXT_CHAT_PROMPT_SANGATH_TAMIL.md` synchronized.
+
+The maintained-English release-report gate remains paused while this Tamil re-audit is active.
