@@ -9,15 +9,24 @@ Branch: `main`
 
 A user-directed Tamil re-audit restarted from scan **1** on **2026-09-19** in **10-page iterations**. It combines word-for-word comparison with the historical-glyph guide while retaining the Gemini lexical lock.
 
-R01 scans **1–10** is **COMPLETE / PASS**:
+R01 scans **1–10** and R02 scans **11–20** are **COMPLETE / PASS**.
 
+R01:
 - canonical lexical substitutions — **0**;
 - new lexical discrepancies — **0**;
 - WFV-001 scan 7 — rejected after high-resolution + same-edition review;
 - scan 7 — only non-lexical punctuation/spacing synchronized;
 - scan 8 — remains `partial`.
 
-Current Tamil state is **49 verified / 447 needs-review / 1 partial**.
+R02:
+- canonical lexical substitutions — **0**;
+- new lexical discrepancies — **0**;
+- source-supported non-lexical page corrections — **0**;
+- prior C2 rulings on scans 11, 13 and 19 — preserved;
+- scan 20 old-type `கூறாக` cluster — confirmed as historical `றா` identity, not a new lexical discrepancy;
+- page-layer mutations — **0**.
+
+Current Tamil state remains **49 verified / 447 needs-review / 1 partial**. Exact next Tamil range is **R03 scans 21–30**.
 
 The English release-report gate remains **PAUSED** until the restarted Tamil audit and any eventual user-adjudicated lexical impacts are reconciled. Do not promote any English page to `release-ready` during this pause.
 
@@ -694,6 +703,6 @@ Normal page-batched cadence: **37 physical scans**.
 
 ## Exact next activity
 
-**Maintained-English whole-volume English release report — active release unit scans 1–497.**
+**Tamil re-audit R03 — scans 21–30.**
 
-Use `reviews/WHOLE_VOLUME_ENGLISH_REVIEW.md` as the authoritative prior gate. Decide release approval for the active release unit. Preserve scan **8** as permanent `source-limited`; only the **496 `editorial-reviewed`** pages are eligible for promotion. If approved, promotion must be status-token-only (`editorial-reviewed` → `release-ready`) with **0 English wording changes** and **0 canonical Tamil page changes**.
+The maintained-English release-report gate is **PAUSED** while the restarted Tamil word-for-word / historical-glyph audit remains active. Do **not** promote any English page to `release-ready` yet. After the Tamil re-audit and any user-adjudicated lexical impacts are reconciled into English, the release report may resume from `reviews/WHOLE_VOLUME_ENGLISH_REVIEW.md`.
