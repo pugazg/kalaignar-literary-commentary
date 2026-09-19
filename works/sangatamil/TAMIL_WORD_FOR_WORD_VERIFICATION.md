@@ -46,16 +46,16 @@ Historical Gate-G baseline:
 - `needs-review` — **453**
 - `partial` — **1**
 
-Current state after R07 scans 61–70:
+Current state after R08 scans 71–80:
 
-- `verified` — **62**
-- `needs-review` — **434**
+- `verified` — **72**
+- `needs-review` — **424**
 - `partial` — **1**
-- visual `verified` — **62**
-- visual `needs-review` — **435**
+- visual `verified` — **72**
+- visual `needs-review` — **425**
 - blocked — **0**
 
-R01–R07 changed **0 lexical words**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** on scan **49**; R06 discovered **1** on scan **55**; R07 reconfirmed WFV-002 and WFV-003 and discovered new WFV-011 on scan **67**. All disputed lexical wording remains unchanged.
+R01–R08 changed **0 lexical words**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** on scan **49**; R06 discovered **1** on scan **55**; R07 reconfirmed WFV-002 and WFV-003 and discovered WFV-011 on scan **67**; R08 found **0** new lexical discrepancies. All disputed lexical wording remains unchanged.
 
 ## R01 — scans 1–10
 
@@ -185,6 +185,24 @@ Results:
 - prior C2 rulings on scans **64 and 70** preserved;
 - whole-volume state now **62 verified / 434 needs-review / 1 partial**.
 
+## R08 — scans 71–80
+
+**COMPLETE / PASS**
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R08_SCANS_071_080.md`
+
+Results:
+
+- scans **71–80** — full restart audit completed at enlarged/native resolution;
+- new lexical discrepancy rows — **0**;
+- unresolved new lexical pages — **0**;
+- canonical lexical substitutions — **0**;
+- source-supported non-lexical body corrections — **0**;
+- page-status promotions — **10**;
+- prior C2 ruling on scan **77** preserved;
+- earlier provisional suspicions on scans **73, 78 and 79** remain rejected after high-resolution review;
+- whole-volume state now **72 verified / 424 needs-review / 1 partial**.
+
 ## Pre-restart Part002 candidate rows
 
 The earlier interrupted Part002 review is **not counted as completed restart coverage**.
@@ -207,17 +225,17 @@ Do not change any pending lexical wording before re-audit + user adjudication.
 | R05 | 41–50 | **COMPLETE / PASS WITH LEXICAL HOLD** |
 | R06 | 51–60 | **COMPLETE / PASS WITH LEXICAL HOLD** |
 | R07 | 61–70 | **COMPLETE / PASS WITH LEXICAL HOLDS** |
-| R08 | 71–80 | **NEXT** |
-| R09 | 81–90 | pending |
+| R08 | 71–80 | **COMPLETE / PASS** |
+| R09 | 81–90 | **NEXT** |
 | R10 | 91–100 | pending |
 | R11–R49 | 101–490 | pending in 10-scan cadence |
 | R50 | 491–497 | final 7-scan remainder |
 
 ## Exact next activity
 
-Process **R08 — scans 71–80** from the supplied Part002 PDF.
+Process **R09 — scans 81–90** from the supplied Part002 PDF.
 
-At R08 close:
+At R09 close:
 
 - inspect all 10 scans at enlarged/native resolution;
 - apply the historical-glyph guide;
