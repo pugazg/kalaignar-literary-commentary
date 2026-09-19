@@ -127,7 +127,15 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 364–366 | printed 352–354 with scan-365 illustration | `பரிசப்பணம் வேண்டாம்... பரிசுப்பொருள் இதோ!` | **R37 complete / all three verified; C15-006/C15-007 preserved** |
 | 367–369 | printed 355–357 with scan-368 illustration | `உறவுடன் இணைந்து உயர்ந்து வாழ்க!` | **R37 complete / all three verified** |
 | 370 | printed 358 | start of `கண்கண்ட சாட்சி உண்டோ?` | **R37 complete / verified; C15-008/C15-009 preserved; continues at scan 371** |
-| 371–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
+| 371–372 | printed 360 with scan-371 illustration | end of `கண்கண்ட சாட்சி உண்டோ?` | **R38 complete / both verified** |
+| 373–376 | printed 361–364 with scan-375 illustration | `ஓர் உவமை; இரு காட்சி!` | **R38 complete / all four verified; C15-010 preserved** |
+| 377–379 | printed 365–367 with scan-378 illustration | `உச்சிக்குச் சென்ற நொச்சி!` | **R38 complete / all three verified; C16-001 preserved** |
+| 380 | printed 368 | start of `பாறையில் உருகுது பசு வெண்ணெய்!` | **R38 complete / verified; continues at scan 381** |
+| 381–383 | printed 370–371 with scan-381 illustration | end of `பாறையில் உருகுது பசு வெண்ணெய்!` | **R39 complete / all three verified; C16-002/C16-003 preserved; scan383 dash/right-edge placement aligned without lexical change** |
+| 384–386 | printed 372–374 with scan-385 illustration | `தினைக் கதிரும் துதிக்கையும்!` | **R39 complete / all three verified** |
+| 387–389 | printed 375–377 with scan-388 illustration | `நிறைவுக்கிடையே ஒரு குறையும் உளதே!` | **R39 complete / all three verified** |
+| 390 | printed 378 | start of `ஆடலேறு; மடலேறி வாவா?` | **R39 complete / verified; continues at scan 391** |
+| 391–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
 | 497 | — | back cover / end matter | **Gate D closed / physical endpoint** |
 
 ## Important controls

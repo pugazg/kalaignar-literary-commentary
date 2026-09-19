@@ -46,17 +46,17 @@ Historical Gate-G baseline:
 - `needs-review` — **453**
 - `partial` — **1**
 
-Current state after R37 scans 361–370:
+Current state after R39 scans 381–390:
 
-- `verified` — **328**
-- `needs-review` — **168**
+- `verified` — **348**
+- `needs-review` — **148**
 - `partial` — **1**
-- visual `verified` — **328**
-- visual `needs-review` — **169**
+- visual `verified` — **348**
+- visual `needs-review` — **149**
 - blocked — **0**
-- restart coverage — **370/497**
+- restart coverage — **390/497**
 
-R01–R37 changed **0 lexical words**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** on scan **49**; R06 discovered **1** on scan **55**; R07 reconfirmed WFV-002 and WFV-003 and discovered WFV-011 on scan **67**; R08 found **0** new discrepancies; R09 reconfirmed WFV-004 and discovered WFV-012 and WFV-013; R10 reconfirmed WFV-005 and discovered WFV-014; R11–R17 found **0** new discrepancies; R18 opened **WFV-015 through WFV-019**; R19 opened **WFV-020 through WFV-022**; R20 opened **WFV-023 and WFV-024**; R21 opened **WFV-025 and WFV-026**; R22 opened **WFV-027 through WFV-029**; R23 opened **WFV-030 through WFV-032**; R24 opened **WFV-033 through WFV-039**; R25 opened **WFV-040**; R26 opened **WFV-041**; R27 opened **WFV-042 through WFV-044**; R28 opened **0** new discrepancies; R29 opened **WFV-045 through WFV-048**; R30 opened **WFV-049**; R31–R32 opened **0** new discrepancies; R33 opened **WFV-050**; R34 opened **WFV-051 and WFV-052**; R35 opened **WFV-053**; R36–R37 opened **0** new discrepancies. All disputed lexical wording and material token placement remain unchanged pending user adjudication.
+R01–R37 changed **0 lexical words**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** on scan **49**; R06 discovered **1** on scan **55**; R07 reconfirmed WFV-002 and WFV-003 and discovered WFV-011 on scan **67**; R08 found **0** new discrepancies; R09 reconfirmed WFV-004 and discovered WFV-012 and WFV-013; R10 reconfirmed WFV-005 and discovered WFV-014; R11–R17 found **0** new discrepancies; R18 opened **WFV-015 through WFV-019**; R19 opened **WFV-020 through WFV-022**; R20 opened **WFV-023 and WFV-024**; R21 opened **WFV-025 and WFV-026**; R22 opened **WFV-027 through WFV-029**; R23 opened **WFV-030 through WFV-032**; R24 opened **WFV-033 through WFV-039**; R25 opened **WFV-040**; R26 opened **WFV-041**; R27 opened **WFV-042 through WFV-044**; R28 opened **0** new discrepancies; R29 opened **WFV-045 through WFV-048**; R30 opened **WFV-049**; R31–R32 opened **0** new discrepancies; R33 opened **WFV-050**; R34 opened **WFV-051 and WFV-052**; R35 opened **WFV-053**; R36–R39 opened **0** new discrepancies. All disputed lexical wording and material token placement remain unchanged pending user adjudication.
 
 ## R01 — scans 1–10
 
@@ -724,6 +724,44 @@ Results:
 - whole-volume state after R37 — **328 verified / 168 needs-review / 1 partial**;
 - restart coverage — **370/497**.
 
+## R38 — scans 371–380
+
+**COMPLETE / PASS**
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R38_SCANS_371_380.md`
+
+Results:
+
+- scans **371–380** — full restart audit completed;
+- new lexical discrepancy rows — **0**;
+- unresolved lexical pages — **0**;
+- canonical lexical substitutions — **0**;
+- source-supported non-lexical body corrections — **0**;
+- page-status promotions — **10**;
+- protected C15-010 and C16-001 on scans **373 and 377** preserved;
+- scans **371, 375 and 378** full-page illustrations verified;
+- whole-volume state after R38 — **338 verified / 158 needs-review / 1 partial**;
+- restart coverage — **380/497**.
+
+## R39 — scans 381–390
+
+**COMPLETE / PASS**
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R39_SCANS_381_390.md`
+
+Results:
+
+- scans **381–390** — full restart audit completed;
+- new lexical discrepancy rows — **0**;
+- unresolved lexical pages — **0**;
+- canonical lexical substitutions — **0**;
+- source-supported non-lexical body correction — **scan 383 dash/right-edge placement before `எனக்கு`**;
+- page-status promotions — **10**;
+- protected C16-002/C16-003 on scan **383** preserved;
+- scans **381, 385 and 388** full-page illustrations verified;
+- whole-volume state after R39 — **348 verified / 148 needs-review / 1 partial**;
+- restart coverage — **390/497**.
+
 ## Pre-restart Part002 candidate rows
 
 The earlier interrupted Part002 review is **not counted as completed restart coverage**.
@@ -773,18 +811,25 @@ Do not change any pending lexical wording before explicit user adjudication.
 | R35 | 341–350 | **COMPLETE / PASS WITH LEXICAL HOLD** |
 | R36 | 351–360 | **COMPLETE / PASS** |
 | R37 | 361–370 | **COMPLETE / PASS** |
-| R38–R49 | 371–490 | pending in 10-scan cadence |
+| R38 | 371–380 | **COMPLETE / PASS** |
+| R39 | 381–390 | **COMPLETE / PASS** |
+| R40–R49 | 391–490 | pending in 10-scan cadence |
 | R50 | 491–497 | final 7-scan remainder |
 
 ## Exact next activity
 
-Process **R38 + R39 — scans 371–390** as the next **20-page iteration** using only the user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf`, PDF pages **21–40**.
+Process **R40 + R41 — scans 391–410** as the next **20-page iteration**.
 
-At R39 close:
+Source split:
+
+- scans **391–400** — user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf`, PDF pages **41–50**;
+- scans **401–410** — user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf`, PDF pages **1–10**.
+
+At R41 close:
 
 - inspect all scans at enlarged/native resolution;
 - apply the historical-glyph guide and check all 13 known families where present;
-- preserve exact prior C15/C16 adjudications, including C15-010 on scan **373**, C16-001 on scan **377**, and C16-002/C16-003 on scan **383**;
+- preserve exact prior C17 adjudications on scans **402, 404 and 410**;
 - record every new lexical/glyph/material-placement difference in the discrepancy ledger starting at the next live WFV ID after **WFV-053**;
 - change **0 lexical words without user adjudication**;
 - apply only source-supported non-lexical structure/punctuation/layout changes;

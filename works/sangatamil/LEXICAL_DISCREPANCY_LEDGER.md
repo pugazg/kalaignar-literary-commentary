@@ -2821,6 +2821,59 @@ No canonical lexical word or character was changed.
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R37_SCANS_361_370.md`.
 
+## Restart R38 — scans 371–380
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf`, physical scans 371–380 / PDF pages 21–30
+- reviewed scans: **371–380 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **0**
+- unresolved new lexical pages: **0**
+- source-supported non-lexical body corrections: **0**
+- page-status promotions: **10**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R38 findings
+
+- scans **371–380** — full lexical/glyph review passed and promoted;
+- C15-010 on scan **373** and C16-001 on scan **377** were preserved exactly;
+- scans **371, 375 and 378** are full-page illustrations;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R38_SCANS_371_380.md`.
+
+## Restart R39 — scans 381–390
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf`, physical scans 381–390 / PDF pages 31–40
+- reviewed scans: **381–390 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **0**
+- unresolved new lexical pages: **0**
+- source-supported non-lexical body correction: **1** — scan 383 dash/right-edge placement before `எனக்கு`
+- page-status promotions: **10**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R39 findings
+
+- scans **381–390** — full lexical/glyph review passed and promoted;
+- C16-002/C16-003 on scan **383** were preserved exactly;
+- scan **383** received only source-supported punctuation/layout alignment; lexical wording unchanged;
+- scans **381, 385 and 388** are full-page illustrations;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R39_SCANS_381_390.md`.
+
 ### Exact next audit range
 
-**R38 + R39 — scans 371–390, 20 pages in the user-requested iteration cadence, using Part008 PDF pages 21–40.**
+**R40 + R41 — scans 391–410, 20 pages in the user-requested iteration cadence.** Use Part008 PDF pages **41–50** for scans 391–400 and Part009 PDF pages **1–10** for scans 401–410.
