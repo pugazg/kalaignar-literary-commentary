@@ -2032,6 +2032,62 @@ No canonical word or character was changed.
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R13_SCANS_121_130.md`.
 
+## Restart R14 — scans 131–140
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்.pdf`, physical scans 131–140
+- reviewed scans: **131–140 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **0**
+- unresolved new lexical pages: **0**
+- source-supported non-lexical body corrections: **0**
+- page-status promotions: **10**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R14 findings
+
+- scans **131, 133–137, 139–140** — full printed-page lexical/glyph review passed with no new discrepancy;
+- scans **132 and 138** — full-page illustrations verified;
+- prior Gate-B extraction exclusions on scans **131** and **137** remain supported and were not converted into literary text;
+- C2-06 contains no discrepancy records for scans **131–140**;
+- all earlier WFV holds remain unchanged.
+
+No canonical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R14_SCANS_131_140.md`.
+
+## Restart R15 — scans 141–150
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்.pdf`, physical scans 141–150
+- reviewed scans: **141–150 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **0**
+- unresolved new lexical pages: **0**
+- source-supported non-lexical body corrections: **0**
+- page-status promotions: **10**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R15 findings
+
+- scans **141–142, 144–147, 149–150** — full printed-page lexical/glyph review passed with no new discrepancy;
+- scan **143** — two-page colour spread verified; prior non-source extraction debris exclusions remain supported;
+- scan **148** — two-page illustrated spread verified; prior source-aligned opening reconstruction remains intact;
+- scan **149** — source-supported placement of locked `மன்னன்!` remains intact;
+- scan **150** — source physical boundary at `பட்டமும்` remains intact; later `ஈந்தான்!` is not pulled backward;
+- C2-06 contains no discrepancy records for scans **141–150**;
+- all earlier WFV holds remain unchanged.
+
+No canonical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R15_SCANS_141_150.md`.
+
 ### Exact next audit range
 
-**R14 — scans 131–140.**
+**R16 + R17 — scans 151–170, 20 pages in the user-requested iteration cadence.**
