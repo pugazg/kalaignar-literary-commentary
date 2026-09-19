@@ -9,7 +9,7 @@ Branch: `main`
 
 A user-directed Tamil re-audit restarted from scan **1** on **2026-09-19** in **10-page iterations**. It combines word-for-word comparison with the historical-glyph guide while retaining the Gemini lexical lock.
 
-R01 scans **1–10**, R02 scans **11–20**, R04 scans **31–40**, R08 scans **71–80**, R11 scans **101–110**, R12 scans **111–120**, R13 scans **121–130**, R14 scans **131–140**, R15 scans **141–150**, R16 scans **151–160**, R17 scans **161–170**, and R28 scans **271–280** are **COMPLETE / PASS**. R03 scans **21–30**, R05 scans **41–50**, R06 scans **51–60**, R07 scans **61–70**, R09 scans **81–90**, R10 scans **91–100**, R18 scans **171–180**, R19 scans **181–190**, R20 scans **191–200**, R21 scans **201–210**, R22 scans **211–220**, R23 scans **221–230**, R24 scans **231–240**, R27 scans **261–270**, and R29 scans **281–290** are **COMPLETE / PASS WITH LEXICAL HOLDS**. R25 scans **241–250** and R26 scans **251–260** are **COMPLETE / PASS WITH LEXICAL HOLD**.
+R01 through R37 are **COMPLETE** through physical scan **370**. Detailed per-batch PASS / lexical-hold state follows below. R36 and R37 are **COMPLETE / PASS** with **0** new lexical discrepancy rows and **0** English wording/status changes.
 
 R01:
 - canonical lexical substitutions — **0**;
@@ -269,7 +269,22 @@ R35:
 - Tamil status promotions — **9** clean pages;
 - English page wording/status changes from R35 — **0**.
 
-Current Tamil state is **308 verified / 188 needs-review / 1 partial**. Exact next Tamil iteration is **R36 + R37 scans 351–370 (20 pages)**.
+R36:
+- canonical lexical substitutions — **0**;
+- new lexical discrepancy rows — **0**;
+- unresolved Tamil pages — **0**;
+- Tamil status promotions — **10** clean pages;
+- non-lexical Tamil metadata alignments — scans **353–354** only;
+- English page wording/status changes from R36 — **0**.
+
+R37:
+- canonical lexical substitutions — **0**;
+- new lexical discrepancy rows — **0**;
+- unresolved Tamil pages — **0**;
+- Tamil status promotions — **10** clean pages;
+- English page wording/status changes from R37 — **0**.
+
+Current Tamil state is **328 verified / 168 needs-review / 1 partial**. Exact next Tamil iteration is **R38 + R39 scans 371–390 (20 pages)**.
 
 The English release-report gate remains **PAUSED** until the restarted Tamil audit and any eventual user-adjudicated lexical impacts are reconciled. Do not promote any English page to `release-ready` during this pause.
 
@@ -286,8 +301,8 @@ The Sangatamil Tamil archival pipeline is closed through Gates A–I.
 
 Current Tamil page state during the restarted audit:
 
-- `verified` — **308**
-- `needs-review` — **188**
+- `verified` — **328**
+- `needs-review` — **168**
 - `partial` — **1** (scan 8)
 
 English work does not alter or promote those Tamil statuses.
@@ -946,6 +961,6 @@ Normal page-batched cadence: **37 physical scans**.
 
 ## Exact next activity
 
-**Tamil re-audit R24 + R25 — scans 231–250 (20 pages).**
+**Tamil re-audit R38 + R39 — scans 371–390 (20 pages), using Part008 PDF pages 21–40.**
 
-The maintained-English release-report gate is **PAUSED** while the restarted Tamil word-for-word / historical-glyph audit remains active. Confirmed holds WFV-002 through WFV-032 remain unresolved pending explicit user adjudication. No English wording should be changed for any pending hold until explicit user adjudication. Do **not** promote any English page to `release-ready` yet. After the Tamil re-audit and any user-adjudicated lexical impacts are reconciled into English, the release report may resume from `reviews/WHOLE_VOLUME_ENGLISH_REVIEW.md`.
+The maintained-English release-report gate is **PAUSED** while the restarted Tamil word-for-word / historical-glyph audit remains active. Confirmed holds WFV-002 through WFV-053 remain unresolved pending explicit user adjudication. No English wording should be changed for any pending hold until explicit user adjudication. Do **not** promote any English page to `release-ready` yet. After the Tamil re-audit and any user-adjudicated lexical impacts are reconciled into English, the release report may resume from `reviews/WHOLE_VOLUME_ENGLISH_REVIEW.md`.

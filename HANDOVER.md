@@ -56,8 +56,8 @@ Earlier Gate-B/C/F checkpoints remain historical evidence only. Later commits ma
 - Gate H — **COMPLETE / PASS — 104 sections / 115 formal units / 4 note-only / 119 provenance leaves / 0 canonical page changes**
 - Gate I — **COMPLETE / PASS — final synchronization / closure**
 - Gate-G historical page status distribution — **43 verified / 453 needs-review / 1 partial**
-- current Tamil re-audit state after R35 — **308 verified / 188 needs-review / 1 partial**
-- current visual-fidelity state after R35 — **308 verified / 189 needs-review / 0 missing**
+- current Tamil re-audit state after R37 — **328 verified / 168 needs-review / 1 partial**
+- current visual-fidelity state after R37 — **328 verified / 169 needs-review / 0 missing**
 - user-directed Tamil word-for-word verification — **IN PROGRESS**
 - restart R01 scans **1–10** — **COMPLETE / PASS — 0 new lexical discrepancies / WFV-001 rejected / scan8 partial**
 - restart R02 scans **11–20** — **COMPLETE / PASS — 0 new lexical discrepancies / 0 lexical substitutions / 0 page-layer mutations**
@@ -94,11 +94,13 @@ Earlier Gate-B/C/F checkpoints remain historical evidence only. Later commits ma
 - restart R33 scans **321–330** — **COMPLETE / PASS WITH LEXICAL HOLD — WFV-050 / scan324 needs-review / 0 lexical substitutions / 9 status promotions / C13-007+C14-001..003 preserved**
 - restart R34 scans **331–340** — **COMPLETE / PASS WITH LEXICAL HOLDS — WFV-051..052 / scans334+336 needs-review / 0 lexical substitutions / 8 status promotions / C14-004..005 preserved**
 - restart R35 scans **341–350** — **COMPLETE / PASS WITH LEXICAL HOLD — WFV-053 / scan342 needs-review / 0 lexical substitutions / 9 status promotions**
+- restart R36 scans **351–360** — **COMPLETE / PASS — 0 new lexical discrepancies / 0 lexical substitutions / 2 metadata alignments / 10 status promotions / C15-001..003 preserved**
+- restart R37 scans **361–370** — **COMPLETE / PASS — 0 new lexical discrepancies / 0 lexical substitutions / 10 status promotions / C15-004..009 preserved**
 - whole-volume word-for-word completion — **NOT YET CLAIMED**
 
 The mixed page-level statuses are intentional. Gate C2 resolved all recorded Gate-C discrepancies but did not perform a fresh exhaustive token-by-token reread of every source word.
 
-**Exact active Tamil activity: restarted Gemini-locked word-for-word + historical-glyph re-audit.** The user-fixed cadence remains **20 pages per iteration**, with durable reporting in 10-scan R batches. R01 scans **1–10** through R35 scans **341–350** are complete. R34+R35 opened **3 new ledger rows (WFV-051 through WFV-053)** across unresolved scans **334, 336 and 342**. No lexical word or materially disputed token placement was changed. Seventeen clean pages were promoted. Protected C14 rulings on scans **331 and 340** remain intact. Current state is **308 verified / 188 needs-review / 1 partial**. Exact next iteration is **R36 + R37 scans 351–370 (20 pages)** using Part008 pages 1–20.
+**Exact active Tamil activity: restarted Gemini-locked word-for-word + historical-glyph re-audit.** The user-fixed cadence remains **20 pages per iteration**, with durable reporting in 10-scan R batches. R01 scans **1–10** through R37 scans **361–370** are complete. R36+R37 opened **0 new ledger rows** and promoted all **20** reviewed pages. No lexical word or materially disputed token placement was changed. C15-001 through C15-009 remain intact; scans **353–354** received metadata-only alignment to the exact heading `மாமழை கண்ட மகிழ்ச்சி!`. Current state is **328 verified / 168 needs-review / 1 partial**. Exact next iteration is **R38 + R39 scans 371–390 (20 pages)** using Part008 pages 21–40.
 
 Mandatory companion control: `works/sangatamil/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Inspect difficult glyphs at enlarged/native resolution, check the 13 known families, and compare same-edition evidence. **Do not correct lexical words directly**: every new lexical/glyph difference goes to `LEXICAL_DISCREPANCY_LEDGER.md` and awaits explicit user adjudication.
 

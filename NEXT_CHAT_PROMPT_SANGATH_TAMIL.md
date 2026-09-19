@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / 20-PAGE RE-AUDIT R36+R37 scans 351–370
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / 20-PAGE RE-AUDIT R38+R39 scans 371–390
 
 Continue only from live `main` in `pugazg/kalaignar-literary-commentary`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -10,28 +10,28 @@ Tamil word-for-word / historical-glyph re-audit uses the user's fixed cadence:
 
 Keep durable audit reports in **10-scan R batches** inside each 20-page iteration.
 
-R01 through R35 are complete through physical scan **350**.
+R01 through R37 are complete through physical scan **370**.
 
 Latest frontier:
 
-- R32 scans **311–320 — COMPLETE / PASS**
-- R33 scans **321–330 — COMPLETE / PASS WITH LEXICAL HOLD**
 - R34 scans **331–340 — COMPLETE / PASS WITH LEXICAL HOLDS**
 - R35 scans **341–350 — COMPLETE / PASS WITH LEXICAL HOLD**
+- R36 scans **351–360 — COMPLETE / PASS**
+- R37 scans **361–370 — COMPLETE / PASS**
 
-**Exact next user iteration: R36 + R37 = scans 351–370.**
+**Exact next user iteration: R38 + R39 = scans 371–390.**
 
 Use only the user's supplied controlling:
 
 `TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf`
 
-Physical scans **351–370** correspond to Part008 PDF pages **1–20**. Do not substitute web copies.
+Physical scans **371–390** correspond to Part008 PDF pages **21–40**. Do not substitute web copies.
 
 ## Read first — mandatory
 
 1. `works/sangatamil/TAMIL_WORD_FOR_WORD_VERIFICATION.md`
-2. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R34_SCANS_331_340.md`
-3. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R35_SCANS_341_350.md`
+2. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R36_SCANS_351_360.md`
+3. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R37_SCANS_361_370.md`
 4. `works/sangatamil/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
 5. `works/sangatamil/GEMINI_TEXT_LOCK.md`
 6. `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`
@@ -70,92 +70,81 @@ For every printed page:
 
 Even strongly supported glyph/source differences are **ledger-first**.
 
-## Durable state through R35
+## Durable state through R37
 
 Current Tamil state:
 
-- `verified` — **308**
-- `needs-review` — **188**
+- `verified` — **328**
+- `needs-review` — **168**
 - `partial` — **1**
-- visual `verified` — **308**
-- visual `needs-review` — **189**
-- restart coverage — **350/497**
+- visual `verified` — **328**
+- visual `needs-review` — **169**
+- restart coverage — **370/497**
 
 ### Confirmed unresolved lexical holds — DO NOT CHANGE
 
 WFV-002 through WFV-053 remain pending explicit user adjudication. WFV-001 remains rejected.
 
-### R34 / R35 closure
+### R36 / R37 closure
 
-R34 scans **331–340 — COMPLETE / PASS WITH LEXICAL HOLDS**:
-- new WFV rows — **2**: WFV-051, WFV-052
-- unresolved pages — **334, 336**
+R36 scans **351–360 — COMPLETE / PASS**:
+
+- new WFV rows — **0**
+- unresolved new pages — **0**
 - lexical substitutions — **0**
-- status promotions — **8**
-- C14-004/C14-005 preserved
+- metadata alignments — scans **353–354**
+- status promotions — **10**
+- C15-001 through C15-003 preserved
 
-R35 scans **341–350 — COMPLETE / PASS WITH LEXICAL HOLD**:
-- new WFV row — **1**: WFV-053
-- unresolved page — **342**
+R37 scans **361–370 — COMPLETE / PASS**:
+
+- new WFV rows — **0**
+- unresolved new pages — **0**
 - lexical substitutions — **0**
-- status promotions — **9**
+- status promotions — **10**
+- C15-004 through C15-009 preserved
 
-## R36+R37 protected C15 rulings — scans 351–370
+## R38+R39 protected C15/C16 rulings — scans 371–390
 
 Preserve these exact prior user adjudications:
 
-- **scan 352 / C15-001**
-  - exact heading: `மாமழை கண்ட மகிழ்ச்சி!`
+- **scan 373 / C15-010**
+  - exact heading: `ஓர் உவமை; இரு காட்சி!`
 
-- **scan 359 / C15-002**
-  - exact protected wording: `குடவோலை முறையினாலே - நன்கு`
+- **scan 377 / C16-001**
+  - exact source wording: `அகன்ற வாய்ப் பருந்துகளும் வட்டமிட்டுச் சூழ்ந்தபோது;`
 
-- **scan 360 / C15-003**
-  - exact protected wording: `தான் கடந்து செலஇருந்த தடங் குறித்துத்`
+- **scan 383 / C16-002**
+  - exact protected wording: `நீண்ட அறிவுரைகளை நீட்டி முழக்குகின்றாய்!`
 
-- **scan 361 / C15-004**
-  - exact source wording: `விரோதிகளை வீழ்த்துகின்ற சேரமானின் தளபதியாம்`
+- **scan 383 / C16-003**
+  - exact protected quotation reading begins: `இடிக்கும் கேளிர்! நுங்குறை ஆகம் நிறுக்கல்...`
 
-- **scan 363 / C15-005**
-  - exact glossary: `இத்திப் புகர்படு நீழல் = இத்தி மரத்தின் புள்ளிகள் பொருந்திய நிழல்`
-
-- **scan 364 / C15-006**
-  - exact protected wording: `சற்று முகம் சுளீப்பீர்!`
-
-- **scan 366 / C15-007**
-  - exact protected wording: `கொஞ்சி மகிழும் குமரியின் கொங்கையினை அவள் காதலன்;`
-
-- **scan 370 / C15-008**
-  - exact protected wording: `கணப்பொழுதும் அகலாதிரு கண்ணா என;`
-
-- **scan 370 / C15-009**
-  - exact protected wording: `ஓருயிராய் நாங்களாகி உலகத்தை மறந்ததும் பொய்யா?`
-
-C15-010 is on scan **373** and belongs to the following iteration; do not pull it forward.
+Do not reopen these merely because an earlier Gemini/source comparison disagreed.
 
 ## Exact activity — 20 pages
 
-### R36 — scans 351–360
+### R38 — scans 371–380
 
-1. source-check Part008 PDF pages **1–10** word-for-word;
+1. source-check Part008 PDF pages **21–30** word-for-word;
 2. apply historical-glyph review;
-3. preserve C15-001 through C15-003 where applicable;
+3. preserve C15-010 and C16-001 where applicable;
 4. ledger every new lexical/glyph/material-placement difference starting with the next live WFV ID after WFV-053;
 5. make **0 lexical substitutions** without user adjudication;
 6. apply only source-supported nonlexical structure/punctuation/layout changes;
 7. promote only clean fully audited pages;
 8. create:
-   `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R36_SCANS_351_360.md`.
+   `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R38_SCANS_371_380.md`.
 
-### R37 — scans 361–370
+### R39 — scans 381–390
 
-1. continue immediately using Part008 PDF pages **11–20**;
-2. preserve C15-004 through C15-009 exactly;
+1. continue immediately using Part008 PDF pages **31–40**;
+2. preserve C16-002 and C16-003 exactly;
 3. ledger every new lexical/glyph/material-placement difference under the next live WFV ID;
 4. make **0 lexical substitutions** without user adjudication;
 5. promote only clean fully audited pages;
 6. create:
-   `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R37_SCANS_361_370.md`.
+   `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R39_SCANS_381_390.md`.
 
 At the end synchronize:
 
@@ -169,4 +158,4 @@ At the end synchronize:
 
 The maintained-English release-report gate remains **PAUSED**.
 
-After R36+R37, the next user iteration is **R38+R39 — scans 371–390 (20 pages)** using Part008 PDF pages **21–40**.
+After R38+R39, the next user iteration is **R40+R41 — scans 391–410 (20 pages)**: Part008 PDF pages **41–50** followed by Part009 PDF pages **1–10**.

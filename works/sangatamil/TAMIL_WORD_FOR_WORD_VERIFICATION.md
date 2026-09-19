@@ -46,17 +46,17 @@ Historical Gate-G baseline:
 - `needs-review` — **453**
 - `partial` — **1**
 
-Current state after R35 scans 341–350:
+Current state after R37 scans 361–370:
 
-- `verified` — **308**
-- `needs-review` — **188**
+- `verified` — **328**
+- `needs-review` — **168**
 - `partial` — **1**
-- visual `verified` — **308**
-- visual `needs-review` — **189**
+- visual `verified` — **328**
+- visual `needs-review` — **169**
 - blocked — **0**
-- restart coverage — **350/497**
+- restart coverage — **370/497**
 
-R01–R35 changed **0 lexical words**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** on scan **49**; R06 discovered **1** on scan **55**; R07 reconfirmed WFV-002 and WFV-003 and discovered WFV-011 on scan **67**; R08 found **0** new discrepancies; R09 reconfirmed WFV-004 and discovered WFV-012 and WFV-013; R10 reconfirmed WFV-005 and discovered WFV-014; R11–R17 found **0** new discrepancies; R18 opened **WFV-015 through WFV-019**; R19 opened **WFV-020 through WFV-022**; R20 opened **WFV-023 and WFV-024**; R21 opened **WFV-025 and WFV-026**; R22 opened **WFV-027 through WFV-029**; R23 opened **WFV-030 through WFV-032**; R24 opened **WFV-033 through WFV-039**; R25 opened **WFV-040**; R26 opened **WFV-041**; R27 opened **WFV-042 through WFV-044**; R28 opened **0** new discrepancies; R29 opened **WFV-045 through WFV-048**; R30 opened **WFV-049**; R31–R32 opened **0** new discrepancies; R33 opened **WFV-050**; R34 opened **WFV-051 and WFV-052**; R35 opened **WFV-053**. All disputed lexical wording and material token placement remain unchanged pending user adjudication.
+R01–R37 changed **0 lexical words**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** on scan **49**; R06 discovered **1** on scan **55**; R07 reconfirmed WFV-002 and WFV-003 and discovered WFV-011 on scan **67**; R08 found **0** new discrepancies; R09 reconfirmed WFV-004 and discovered WFV-012 and WFV-013; R10 reconfirmed WFV-005 and discovered WFV-014; R11–R17 found **0** new discrepancies; R18 opened **WFV-015 through WFV-019**; R19 opened **WFV-020 through WFV-022**; R20 opened **WFV-023 and WFV-024**; R21 opened **WFV-025 and WFV-026**; R22 opened **WFV-027 through WFV-029**; R23 opened **WFV-030 through WFV-032**; R24 opened **WFV-033 through WFV-039**; R25 opened **WFV-040**; R26 opened **WFV-041**; R27 opened **WFV-042 through WFV-044**; R28 opened **0** new discrepancies; R29 opened **WFV-045 through WFV-048**; R30 opened **WFV-049**; R31–R32 opened **0** new discrepancies; R33 opened **WFV-050**; R34 opened **WFV-051 and WFV-052**; R35 opened **WFV-053**; R36–R37 opened **0** new discrepancies. All disputed lexical wording and material token placement remain unchanged pending user adjudication.
 
 ## R01 — scans 1–10
 
@@ -683,6 +683,47 @@ Results:
 - whole-volume state after R35 — **308 verified / 188 needs-review / 1 partial**;
 - restart coverage — **350/497**.
 
+## R36 — scans 351–360
+
+**COMPLETE / PASS**
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R36_SCANS_351_360.md`
+
+Results:
+
+- scans **351–360** — full restart audit completed;
+- new lexical discrepancy rows — **0**;
+- unresolved lexical pages — **0**;
+- canonical lexical substitutions — **0**;
+- source-supported non-lexical body corrections — **0**;
+- source-supported metadata alignments — scans **353–354** only;
+- derived section-069 boundary label aligned to C15-001;
+- page-status promotions — **10**;
+- protected C15-001..003 on scans **352, 359 and 360** preserved;
+- scans **353 and 356** full-page illustrations verified; scan **359** mixed text + illustration verified;
+- whole-volume state after R36 — **318 verified / 178 needs-review / 1 partial**;
+- restart coverage — **360/497**.
+
+## R37 — scans 361–370
+
+**COMPLETE / PASS**
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R37_SCANS_361_370.md`
+
+Results:
+
+- scans **361–370** — full restart audit completed;
+- new lexical discrepancy rows — **0**;
+- unresolved lexical pages — **0**;
+- canonical lexical substitutions — **0**;
+- source-supported non-lexical body corrections — **0**;
+- source-supported metadata alignments — **0**;
+- page-status promotions — **10**;
+- protected C15-004..009 on scans **361, 363, 364, 366 and 370** preserved;
+- scans **365 and 368** full-page illustrations verified;
+- whole-volume state after R37 — **328 verified / 168 needs-review / 1 partial**;
+- restart coverage — **370/497**.
+
 ## Pre-restart Part002 candidate rows
 
 The earlier interrupted Part002 review is **not counted as completed restart coverage**.
@@ -730,18 +771,20 @@ Do not change any pending lexical wording before explicit user adjudication.
 | R33 | 321–330 | **COMPLETE / PASS WITH LEXICAL HOLD** |
 | R34 | 331–340 | **COMPLETE / PASS WITH LEXICAL HOLDS** |
 | R35 | 341–350 | **COMPLETE / PASS WITH LEXICAL HOLD** |
-| R36–R49 | 351–490 | pending in 10-scan cadence |
+| R36 | 351–360 | **COMPLETE / PASS** |
+| R37 | 361–370 | **COMPLETE / PASS** |
+| R38–R49 | 371–490 | pending in 10-scan cadence |
 | R50 | 491–497 | final 7-scan remainder |
 
 ## Exact next activity
 
-Process **R36 + R37 — scans 351–370** as the next **20-page iteration** using only the user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf`, PDF pages **1–20**.
+Process **R38 + R39 — scans 371–390** as the next **20-page iteration** using only the user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf`, PDF pages **21–40**.
 
-At R37 close:
+At R39 close:
 
 - inspect all scans at enlarged/native resolution;
 - apply the historical-glyph guide and check all 13 known families where present;
-- preserve explicit C15 adjudications on scans **352, 359, 360, 361, 363, 364, 366 and 370**;
+- preserve exact prior C15/C16 adjudications, including C15-010 on scan **373**, C16-001 on scan **377**, and C16-002/C16-003 on scan **383**;
 - record every new lexical/glyph/material-placement difference in the discrepancy ledger starting at the next live WFV ID after **WFV-053**;
 - change **0 lexical words without user adjudication**;
 - apply only source-supported non-lexical structure/punctuation/layout changes;

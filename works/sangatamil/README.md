@@ -373,12 +373,27 @@ R35 scans **341–350 — COMPLETE / PASS WITH LEXICAL HOLD**:
 - canonical lexical substitutions — **0**;
 - page-status promotions — **9**.
 
+R36 scans **351–360 — COMPLETE / PASS**:
+- new lexical discrepancy rows — **0**;
+- unresolved pages — **0**;
+- canonical lexical substitutions — **0**;
+- source-supported metadata alignments — scans **353–354**;
+- page-status promotions — **10**;
+- protected C15-001..003 preserved.
+
+R37 scans **361–370 — COMPLETE / PASS**:
+- new lexical discrepancy rows — **0**;
+- unresolved pages — **0**;
+- canonical lexical substitutions — **0**;
+- page-status promotions — **10**;
+- protected C15-004..009 preserved.
+
 Current whole-volume Tamil state:
-- `verified` — **308**
-- `needs-review` — **188**
+- `verified` — **328**
+- `needs-review` — **168**
 - `partial` — **1**
-- current restart coverage — **350/497**
-- exact next iteration — **R36 + R37 scans 351–370 (20 pages)**
+- current restart coverage — **370/497**
+- exact next iteration — **R38 + R39 scans 371–390 (20 pages)**
 
 Gate D — COMPLETE / PASS:
 - physical scans — 497/497
@@ -432,9 +447,9 @@ Gate G — **COMPLETE / PASS**:
 - required metadata field presence after repair — **497/497**
 - demonstrable defects repaired — **11 missing `visual_fidelity` fields**
 - Gate-G historical `status` distribution — **43 verified / 453 needs-review / 1 partial**
-- current restart-R35 state — **308 verified / 188 needs-review / 1 partial**
+- current restart-R37 state — **328 verified / 168 needs-review / 1 partial**
 - Gate-G historical `visual_fidelity` distribution — **43 verified / 454 needs-review / 0 missing**
-- current restart-R35 visual-fidelity state — **308 verified / 189 needs-review / 0 missing**
+- current restart-R37 visual-fidelity state — **328 verified / 169 needs-review / 0 missing**
 - canonical wording changes — **0**
 - unresolved Gate-G inconsistencies — **0**
 - durable report — `GATE_G_METADATA_STATUS_AUDIT.md`
@@ -536,6 +551,6 @@ This downstream layer does **not** reopen or mass-promote the canonical Tamil re
 
 ## Exact next activity
 
-**Tamil re-audit R24 + R25 — scans 231–250.** Process **20 pages per user iteration**, retaining two durable 10-scan reports. Use Part005 pages 31–50. Apply the historical-glyph guide, preserve the Gemini lexical lock, ledger every new lexical/glyph/material-placement discrepancy, change no word without user adjudication, and keep `NEXT_CHAT_PROMPT_SANGATH_TAMIL.md` synchronized. Confirmed holds WFV-002 through WFV-032 remain pending explicit user adjudication.
+**Tamil re-audit R38 + R39 — scans 371–390.** Process **20 pages per user iteration**, retaining two durable 10-scan reports. Use only Part008 PDF pages **21–40**. Apply the historical-glyph guide, preserve the Gemini lexical lock and prior C15/C16 adjudications, ledger every new lexical/glyph/material-placement discrepancy, change no word without user adjudication, and keep `NEXT_CHAT_PROMPT_SANGATH_TAMIL.md` synchronized. Confirmed holds WFV-002 through WFV-053 remain pending explicit user adjudication.
 
 The maintained-English release-report gate remains paused while this Tamil re-audit is active.

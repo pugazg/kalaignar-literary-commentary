@@ -119,7 +119,15 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 338–341 | printed 326, 328–329 with scan-339 illustration | `தமிழ் நெஞ்சங்கள் போற்றிய தலையாலங்கானத்தான்!` | **R34/R35 complete / all four verified; C14-005 scan-340 preserved** |
 | 342–346 | printed 330, 332–334 with scan-343 illustration | `சென்று வா மகனே; செருமுனை நோக்கி!` | **R35 complete / scans 343–346 verified; scan 342 needs-review on WFV-053** |
 | 347–350 | printed 335–336, 338 with scan-349 illustration | start of `புதுப் பாட்டுப் புலவன்!` | **R35 complete / all four verified; continues at scan 351** |
-| 351–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
+| 351 | printed 339 | end of `புதுப் பாட்டுப் புலவன்!` | **R36 complete / verified; closing scholarly note and ornament source-checked** |
+| 352–354 | printed 340–342 with scan-353 illustration | `மாமழை கண்ட மகிழ்ச்சி!` | **R36 complete / all three verified; C15-001 preserved; scans 353–354 section metadata aligned to exact user heading** |
+| 355–357 | printed 343–345 with scan-356 illustration | `பொய்யாகிப் போகாதோ?` | **R36 complete / all three verified** |
+| 358–360 | printed 348 visible on scan 360; scan 359 mixed text + illustration | start of `சான்று கூறும் சரித்திர வரிகள்!` | **R36 complete / all three verified; C15-002/C15-003 preserved** |
+| 361–363 | printed 349–351 | end of `சான்று கூறும் சரித்திர வரிகள்!` | **R37 complete / all three verified; C15-004/C15-005 preserved** |
+| 364–366 | printed 352–354 with scan-365 illustration | `பரிசப்பணம் வேண்டாம்... பரிசுப்பொருள் இதோ!` | **R37 complete / all three verified; C15-006/C15-007 preserved** |
+| 367–369 | printed 355–357 with scan-368 illustration | `உறவுடன் இணைந்து உயர்ந்து வாழ்க!` | **R37 complete / all three verified** |
+| 370 | printed 358 | start of `கண்கண்ட சாட்சி உண்டோ?` | **R37 complete / verified; C15-008/C15-009 preserved; continues at scan 371** |
+| 371–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
 | 497 | — | back cover / end matter | **Gate D closed / physical endpoint** |
 
 ## Important controls

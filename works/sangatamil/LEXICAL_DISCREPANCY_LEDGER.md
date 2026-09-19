@@ -2765,6 +2765,62 @@ No canonical lexical word or character was changed.
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R35_SCANS_341_350.md`.
 
+## Restart R36 — scans 351–360
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf`, physical scans 351–360 / PDF pages 1–10
+- reviewed scans: **351–360 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **0**
+- unresolved new lexical pages: **0**
+- source-supported non-lexical body corrections: **0**
+- source-supported metadata alignments: **2** — scans 353–354
+- page-status promotions: **10**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R36 findings
+
+- scans **351–360** — full lexical/glyph review passed and promoted;
+- C15-001 through C15-003 were preserved exactly;
+- stale section metadata on scans **353–354** and the derived section-069 boundary label were aligned to `மாமழை கண்ட மகிழ்ச்சி!`;
+- scans **353 and 356** are full-page illustrations; scan **359** is mixed text + illustration;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R36_SCANS_351_360.md`.
+
+## Restart R37 — scans 361–370
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf`, physical scans 361–370 / PDF pages 11–20
+- reviewed scans: **361–370 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **0**
+- unresolved new lexical pages: **0**
+- source-supported non-lexical body corrections: **0**
+- source-supported metadata alignments: **0**
+- page-status promotions: **10**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R37 findings
+
+- scans **361–370** — full lexical/glyph review passed and promoted;
+- C15-004 through C15-009 were preserved exactly;
+- C15-010 on scan **373** was not pulled forward;
+- scans **365 and 368** are full-page illustrations;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R37_SCANS_361_370.md`.
+
 ### Exact next audit range
 
-**R36 + R37 — scans 351–370, 20 pages in the user-requested iteration cadence.**
+**R38 + R39 — scans 371–390, 20 pages in the user-requested iteration cadence, using Part008 PDF pages 21–40.**
