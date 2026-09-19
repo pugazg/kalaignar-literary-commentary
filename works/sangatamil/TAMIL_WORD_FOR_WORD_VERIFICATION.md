@@ -46,7 +46,7 @@ Historical Gate-G baseline:
 - `needs-review` — **453**
 - `partial` — **1**
 
-Current state after R01 scans 1–10:
+Current state after R02 scans 11–20:
 
 - `verified` — **49**
 - `needs-review` — **447**
@@ -55,7 +55,7 @@ Current state after R01 scans 1–10:
 - visual `needs-review` — **448**
 - blocked — **0**
 
-R01 changed **0 lexical words**.
+R01–R02 changed **0 lexical words**. R02 required **0 page-layer mutations** and discovered **0 new lexical discrepancies**.
 
 ## R01 — scans 1–10
 
@@ -73,6 +73,24 @@ Results:
 - protected earlier C2 adjudications on scans 5 and 9 — preserved;
 - historical-glyph guide — applied page-by-page;
 - canonical lexical substitutions — **0**.
+
+## R02 — scans 11–20
+
+**COMPLETE / PASS**
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R02_SCANS_011_020.md`
+
+Results:
+
+- scans **11–20** — full restart audit completed at enlarged/native resolution;
+- new lexical discrepancies — **0**;
+- canonical lexical substitutions — **0**;
+- source-supported non-lexical page corrections — **0**;
+- page-layer mutations — **0**;
+- earlier explicit C2 rulings on scans **11, 13 and 19** — preserved and not relitigated;
+- scan **20** old-type `கூறாக` cluster — confirmed as historical `றா` identity, not a new lexical discrepancy;
+- all ten pages retain their existing appropriate `verified` / visual `verified` states;
+- whole-volume state remains **49 verified / 447 needs-review / 1 partial**.
 
 ## Pre-restart Part002 candidate rows
 
@@ -92,8 +110,8 @@ Do not change those words before re-audit + user adjudication.
 | Iteration | Scans | State |
 |---|---:|---|
 | R01 | 1–10 | **COMPLETE / PASS** |
-| R02 | 11–20 | **NEXT** |
-| R03 | 21–30 | pending |
+| R02 | 11–20 | **COMPLETE / PASS** |
+| R03 | 21–30 | **NEXT** |
 | R04 | 31–40 | pending |
 | R05 | 41–50 | pending |
 | R06 | 51–60 | pending |
@@ -106,9 +124,9 @@ Do not change those words before re-audit + user adjudication.
 
 ## Exact next activity
 
-Process **R02 — scans 11–20** from the supplied Part001 PDF.
+Process **R03 — scans 21–30** from the supplied Part001 PDF.
 
-At R02 close:
+At R03 close:
 
 - inspect all 10 scans at enlarged/native resolution;
 - apply the historical-glyph guide;
