@@ -55,7 +55,11 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 75–80 | printed 60–65 with scan-76 illustration | `பிசிராந்தையார் 1` | **R08 source re-audit PASS / all six verified; protected C2 scan-77 `பாண்டிநாட்டுச் சிற்றூரில்` retained; 0 lexical discrepancies** |
 | 81–84 | printed 66–69 with scan-82 illustration | `பிசிராந்தையார் 2` | **R09 source re-audit: scans 81–82 and 84 verified; scan 83 `needs-review` / visual `needs-review` for reconfirmed WFV-004 (`ஆழல்` vs source `ஆனால்`); prior C2 restored prose block preserved** |
 | 85–90 | printed 70–75 with scan-86 illustration | `பிசிராந்தையார் 3` | **R09 source re-audit: scans 86 and 88–90 verified; scans 85 and 87 `needs-review` for WFV-012 and WFV-013; scan 88 punctuation corrected; 0 lexical mutations** |
-| 91–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
+| 91–95 | printed 76–80 with scan-92 illustration | `பிசிராந்தையார் 4` | **R10 source re-audit: scans 92–93 and 95 verified; scan 91 `needs-review` for reconfirmed WFV-005; scan 94 `needs-review` for WFV-014 (`உயிர்ஒம்` vs source `உயிர்ஓம்`); 0 lexical mutations** |
+| 96–102 | printed 81–87 with scan-98 illustration | `உலைக் களத்து இரும்பும் ஒரு துளிநீரும்!` | **R10/R11 source re-audit PASS / scans 96–102 verified; protected C2 scan-96 heading and `சிவகெங்கைச் சீமை` retained** |
+| 103–106 | printed 88–91 with scan-104 illustration | `நடுக்கத்தில் கண்ட நயம்!` | **R11 source re-audit PASS / all four verified; 0 lexical discrepancies** |
+| 107–110 | printed 92–95 with scan-108 illustration | `ஒரு தாயின் தாலாட்டு!` | **R11 source re-audit PASS / all four verified; 0 lexical discrepancies** |
+| 111–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
 | 497 | — | back cover / end matter | **Gate D closed / physical endpoint** |
 
 ## Important controls
