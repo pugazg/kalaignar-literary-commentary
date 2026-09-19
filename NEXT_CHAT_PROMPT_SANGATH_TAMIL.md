@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / RE-AUDIT R09 scans 81–90
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / RE-AUDIT R10 scans 91–100
 
 Continue only from live `main` in `pugazg/kalaignar-literary-commentary`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -13,9 +13,10 @@ R04 scans **31–40 — COMPLETE / PASS**.
 R05 scans **41–50 — COMPLETE / PASS WITH LEXICAL HOLD**.  
 R06 scans **51–60 — COMPLETE / PASS WITH LEXICAL HOLD**.  
 R07 scans **61–70 — COMPLETE / PASS WITH LEXICAL HOLDS**.  
-R08 scans **71–80 — COMPLETE / PASS**.
+R08 scans **71–80 — COMPLETE / PASS**.  
+R09 scans **81–90 — COMPLETE / PASS WITH LEXICAL HOLDS**.
 
-**Exact next range: R09 scans 81–90.**
+**Exact next range: R10 scans 91–100.**
 
 Use:
 
@@ -24,8 +25,8 @@ Use:
 ## Read first — mandatory
 
 1. `works/sangatamil/TAMIL_WORD_FOR_WORD_VERIFICATION.md`
-2. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R07_SCANS_061_070.md`
-3. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R08_SCANS_071_080.md`
+2. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R08_SCANS_071_080.md`
+3. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R09_SCANS_081_090.md`
 4. `works/sangatamil/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
 5. `works/sangatamil/GEMINI_TEXT_LOCK.md`
 6. `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`
@@ -64,62 +65,65 @@ For every printed page:
 
 Even strongly supported glyph differences are **ledger-first**.
 
-## Durable state through R08
+## Durable state through R09
 
-### Current unresolved holds — DO NOT CHANGE
+### Current confirmed unresolved holds — DO NOT CHANGE
 
-- **WFV-002 / scan 62** — token-placement discrepancy for `தனது`; canonical placement unchanged
+- **WFV-002 / scan 62** — token-placement discrepancy for `தனது`
 - **WFV-003 / scan 69** — `தலைமகனாம் என் கணவர்` vs source `தலைமகனும் என் கணவர்`
+- **WFV-004 / scan 83** — `மாலையாவதில்ல - ஆழல்` vs source `மாலையாவதில்ல - ஆனால்`
 - **WFV-006 / scan 25** — `பெற்றவனோ?` vs source `பெற்றவனே?`
 - **WFV-007 / scan 30 quotation** — `ஆள்அன்று` vs source `ஆளன்று`
 - **WFV-008 / scan 30 gloss** — `ஆள்அன்று` vs source `ஆளன்று`
 - **WFV-009 / scan 49** — `திண்டோர்` vs source `திண்டேர்`
 - **WFV-010 / scan 55** — `கூடிற்றாம்!` vs source `கூடிற்றும்!`
 - **WFV-011 / scan 67** — `தேர்ஏறி!` vs source `தேரேறி!`
+- **WFV-012 / scan 85** — source-visible `- அவர்கள்` missing from canonical
+- **WFV-013 / scan 87** — source places `நல்ல` with the `அகில், மிளகு, முத்து` trade line; canonical places it before `இலக்கிய மேதைகள்`
 
-### R08
+### R09
 
-- scans **71–80** — COMPLETE / PASS
-- new lexical discrepancy rows — **0**
+- scans **81–90** — COMPLETE / PASS WITH LEXICAL HOLDS
+- WFV-004 — reconfirmed
+- new rows — WFV-012, WFV-013
 - canonical lexical substitutions — **0**
-- page-status promotions — **10**
-- protected C2 scan-77 `பாண்டிநாட்டுச் சிற்றூரில்` retained
-- earlier provisional suspicions on scans **73, 78, 79** remain rejected after high-resolution review
-- current Tamil state — **72 verified / 424 needs-review / 1 partial**
-- current visual state — **72 verified / 425 needs-review**
+- source-supported non-lexical body corrections — **1** (scan 88 punctuation)
+- page-status promotions — **7**
+- current Tamil state — **79 verified / 417 needs-review / 1 partial**
+- current visual state — **79 verified / 418 needs-review**
 
-## R09 pre-existing candidate — MUST RECONFIRM, NOT APPLY
+## R10 pre-existing candidate — MUST RECONFIRM, NOT APPLY
 
-R09 contains earlier interrupted-cadence candidate:
+R10 contains earlier interrupted-cadence candidate:
 
-- **WFV-004 / scan 83 / printed 68**
-  - canonical: `மாலையாவதில்ல - ஆழல்`
-  - earlier source observation: `மாலையாவதில்ல - ஆனால்`
-  - status before R09: **PENDING RECONFIRMATION — do not change word**
+- **WFV-005 / scan 91 / printed 76**
+  - canonical: `வாராத காரணம்தான்`
+  - earlier source observation: `வராத காரணம்தான்`
+  - status before R10: **PENDING RECONFIRMATION — do not change word**
 
-Scan 83 also has a prior **C2-04 user-authorized restored introductory prose block before the quotation**. Preserve that restored block. Reconfirm only the WFV-004 disputed lexical form at enlarged/native resolution; do not silently alter it.
+Reinspect scan 91 at enlarged/native resolution. If confirmed, update the existing WFV-005 disposition to R10 confirmed / pending user adjudication. **Do not alter canonical wording automatically.**
 
-## R09 exact activity — scans 81–90
+## R10 exact activity — scans 91–100
 
-Process exactly **10 physical scans: 81–90** from Part002.
+Process exactly **10 physical scans: 91–100** from Part002.
 
 For each page:
 
 1. compare canonical Tamil word-for-word against the source scan;
 2. inspect at enlarged/native resolution;
 3. apply the historical-glyph checklist;
-4. preserve prior explicit C2 rulings, especially scan 83;
-5. reconfirm WFV-004 when scan 83 is reached;
+4. preserve prior explicit C2 rulings in scans 91–100;
+5. reconfirm WFV-005 when scan 91 is reached;
 6. record any additional lexical/glyph difference in the ledger;
 7. **change 0 lexical words without explicit user adjudication**;
 8. apply only source-supported non-lexical structure/punctuation/layout corrections;
 9. promote clean fully audited pages to `verified` / visual `verified` where appropriate;
 10. unresolved lexical pages stay `needs-review`;
-11. do not alter WFV-002, WFV-003 or WFV-006 through WFV-011.
+11. do not alter the confirmed holds listed above.
 
-At R09 close create:
+At R10 close create:
 
-`works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R09_SCANS_081_090.md`
+`works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R10_SCANS_091_100.md`
 
 Then synchronize:
 
@@ -133,4 +137,4 @@ Then synchronize:
 
 The English release-report gate stays paused.
 
-After R09, exact next range becomes **R10 scans 91–100**. R10 contains pre-existing candidate **WFV-005 / scan 91**, which must be reconfirmed there rather than altered in advance.
+After R10, exact next range becomes **R11 scans 101–110**, using Part003.
