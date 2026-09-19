@@ -4,8 +4,8 @@ printed_page: "298"
 work: "sangatamil"
 section: "முரசு கட்டிலில் மோசுகீரனார்!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 visual_notes: "running work header; narrative continuation; printed page number 298"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
@@ -46,7 +46,7 @@ continues_from_scan: 309
 முரசு கட்டிலருகே விரைந்தான் - ஆங்கு
 மோசுகீரனார் உறங்குதல் கண்டான்!
 
-“வாள் எடுத்து வந்திடவோ அரசே?” யென்று
+“வாள் எடுத்து வந்திடவோ அரசே?”யென்று
 ஆள் ஒருவன் வணங்கி நின்றான்...
 போர் முரசம் வைக்கின்ற கட்டில் மீது
 யார் ஒருவர் படுத்தாலும் அவரைத்
