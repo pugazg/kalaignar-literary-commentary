@@ -712,6 +712,6 @@ Normal page-batched cadence: **37 physical scans**.
 
 ## Exact next activity
 
-**Tamil re-audit R04 — scans 31–40.**
+**Tamil re-audit R05 — scans 41–50.**
 
 The maintained-English release-report gate is **PAUSED** while the restarted Tamil word-for-word / historical-glyph audit remains active. WFV-006 through WFV-008 remain unresolved Tamil lexical holds; no English wording should be changed for them until explicit user adjudication. Do **not** promote any English page to `release-ready` yet. After the Tamil re-audit and any user-adjudicated lexical impacts are reconciled into English, the release report may resume from `reviews/WHOLE_VOLUME_ENGLISH_REVIEW.md`.
