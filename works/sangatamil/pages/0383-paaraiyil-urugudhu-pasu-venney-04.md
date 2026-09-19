@@ -4,11 +4,11 @@ printed_page: "371"
 work: "sangatamil"
 section: "பாறையில் உருகுது பசு வெண்ணெய்!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 visual_notes: "running author header; section closure; Kuruntokai quotation, provenance and பொருள் விளக்கம்; printed page number 371"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording with user-authorized C2 quotation correction and protected prose"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 quotation correction and protected prose; R39 source-verified"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 382
 ---
@@ -28,7 +28,7 @@ continues_from_scan: 382
 கண்கொண்டு பார்க்கும் காவலனாக மட்டும்
 நின்று கொண்டிருக்கும் பரிதாபத்தைப் போல்
 நீயும்; காதல் பிரிவால் உருகிக் கொண்டிருக்கும்
-எனக்கு
+<div align="right">- எனக்கு</div>
 நீண்ட அறிவுரைகளை நீட்டி முழக்குகின்றாய்!”
 
 வில்லேருழவன் - வீரர் திலகம் - வணங்காமுடியோன்
@@ -61,3 +61,5 @@ continues_from_scan: 382
 *
 
 <!-- C2-16: user confirmed prose `நீண்ட அறிவுரைகளை நீட்டி முழக்குகின்றாய்!` as Gemini-correct and protected it; quotation `நும்குறை` is corrected to source `நுங்குறை`. Source-supported `நிறுக்கல்` remains unchanged. -->
+
+<!-- R39 non-lexical source alignment: restored the printed dash and right-edge placement before `எனக்கு`; lexical wording unchanged. -->
