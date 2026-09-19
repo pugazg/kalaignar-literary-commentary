@@ -2292,6 +2292,80 @@ No canonical lexical word or character was changed.
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R21_SCANS_201_210.md`.
 
+## Restart R22 — scans 211–220
+
+**Status: COMPLETE / PASS WITH LEXICAL HOLDS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_005_pages_201-250.pdf`, physical scans 211–220
+- reviewed scans: **211–220 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **3** — WFV-027 through WFV-029
+- unresolved new lexical pages: **3** — scans 213, 215, 219
+- source-supported non-lexical body corrections: **0**
+- page-status promotions: **7**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### New R22 WFV rows
+
+| ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
+|---|---:|---:|---|---|---|---|
+| WFV-027 | 213 | 200 | `பெருமகனாம் கரிகால் பெருவளத்தான்` | source visibly reads `பெருமகனும் கரிகால் பெருவளத்தான்` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 213 remains needs-review** |
+| WFV-028 | 215 | 202 | canonical places existing `நோக்கி.` after `அணுப்போதும் பிரியாமல் தலைவி அருகிருக்க` | source places `நோக்கி.` immediately after `கோதையாம் அத்தோழி; கொஞ்சமும் அஞ்சாமல் அவனை` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical placement unchanged; scan 215 remains needs-review** |
+| WFV-029 | 219 | 206 | `முடிகள் களத்தின் குருதியில் நனைந்து மிதந்திடவே` | source visibly reads `முடிகள் களத்தின் குருதியில் நீந்தி மிதந்திடவே` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 219 remains needs-review** |
+
+### R22 findings
+
+- scans **211–212, 214, 216–218, 220** — full lexical/glyph review passed and promoted;
+- scan **213** — WFV-027 opened; no lexical edit applied;
+- scan **215** — WFV-028 opened for material placement of existing `நோக்கி.`; token not moved;
+- scan **219** — WFV-029 opened; no lexical edit applied;
+- scans **216** and **220** — full-page illustrations verified;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R22_SCANS_211_220.md`.
+
+## Restart R23 — scans 221–230
+
+**Status: COMPLETE / PASS WITH LEXICAL HOLDS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_005_pages_201-250.pdf`, physical scans 221–230
+- reviewed scans: **221–230 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **3** — WFV-030 through WFV-032
+- unresolved new lexical pages: **2** — scans 227, 230
+- source-supported non-lexical body corrections: **0**
+- page-status promotions: **8**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### New R23 WFV rows
+
+| ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
+|---|---:|---:|---|---|---|---|
+| WFV-030 | 227 | 214 | canonical places existing `முனைந்தார்.` after `சுவைத்துவிட்டுத்` | source places `முனைந்தார்.` immediately after `பெண்களைத் தனது பொறுப்பில் காத்திடத் துணிந்து` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical placement unchanged; scan 227 remains needs-review** |
+| WFV-031 | 227 | 214 | `தமிழாய்ந்த தமிழ் மகனாம் கபிலர் பிரானை` | source visibly reads `தமிழாய்ந்த தமிழ் மகனும் கபிலர் பிரானை` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; same scan-227 hold** |
+| WFV-032 | 230 | 217 | canonical `புண்களை மார்பில் ஆரமாய் அணிந்த / பண்புடை வீரன்...` | source visibly prints `புண்களை மார்பில் ஆரமாய் அணிந்த - தமிழ்ப் / பண்புடை வீரன்...` | `missing-source-token / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 230 remains needs-review** |
+
+### R23 findings
+
+- scans **221–226, 228–229** — full lexical/glyph review passed and promoted;
+- scan **221 / C09-002** — `தனக்கு இரிந்தானைப் பெயர்புறம் நகுமே` preserved exactly;
+- scan **223 / C09-003** — adjudicated `எனை` placement preserved;
+- scan **226 / C10-001** — exact heading `பாரி மகளிர் பாடிய செய்யுள்` preserved;
+- scan **227** — WFV-030/WFV-031 opened; no lexical edit or token move applied;
+- scan **230 / C10-002** — `அந்துவன் சாத்தனையும் ஆதன் அழிசையையும்` preserved exactly; WFV-032 opened for the omitted source token `தமிழ்ப்`;
+- scans **224** and **228** — full-page illustrations verified;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R23_SCANS_221_230.md`.
+
 ### Exact next audit range
 
-**R22 + R23 — scans 211–230, 20 pages in the user-requested iteration cadence.**
+**R24 + R25 — scans 231–250, 20 pages in the user-requested iteration cadence.**

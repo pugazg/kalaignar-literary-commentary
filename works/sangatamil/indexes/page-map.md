@@ -81,7 +81,13 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 198–202 | printed 185–189 with scan-200 illustration | `பறம்புமலைப் பாவேந்தர்` | **R20/R21 complete / all scans verified; C08-005..007 preserved** |
 | 203–207 | printed 190, 192–194 with scan-204 illustration | `பிறந்த வீடும் புகுந்த வீடும்!` | **R21 complete / scans 203–204 and 206–207 verified; scan 205 needs-review on WFV-025** |
 | 208–210 | printed 195–196 with scan-210 illustration | start of `காவிரிநாடன் கரிகாலன்!` | **R21 complete / scans 208 and 210 verified; scan 209 needs-review on WFV-026; C09-001 heading preserved** |
-| 211–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
+| 211–213 | printed 198–200 | end of `காவிரிநாடன் கரிகாலன்!` | **R22 complete / scans 211–212 verified; scan 213 needs-review on WFV-027** |
+| 214–217 | printed 201–202, 204 with scan-216 illustration | `இசையாகிவிட்டவள்!` | **R22 complete / scans 214, 216–217 verified; scan 215 needs-review on WFV-028** |
+| 218–221 | printed 205–206, 208 with scan-220 illustration | `போர்த்திசை நோக்கிய புலிப்போத்து!` | **R22/R23 complete / scans 218, 220–221 verified; scan 219 needs-review on WFV-029; C09-002 preserved** |
+| 222–225 | printed 209–210, 212 with scan-224 illustration | `இங்கே வேண்டாம்... தங்கை இருக்கின்றாள்!` | **R23 complete / all four verified; C09-003 placement preserved** |
+| 226–229 | printed 213–214, 216 with scan-228 illustration | `பாரி மகளிர் பாடிய செய்யுள்` | **R23 complete / scans 226, 228–229 verified; scan 227 needs-review on WFV-030/WFV-031; C10-001 heading preserved** |
+| 230 | printed 217 | start of `தாமரைப் பொய்கையில் (?) தவழ்ந்தது நிலவு!` | **R23 complete / needs-review on WFV-032; C10-002 preserved** |
+| 231–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
 | 497 | — | back cover / end matter | **Gate D closed / physical endpoint** |
 
 ## Important controls

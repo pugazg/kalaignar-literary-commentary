@@ -56,8 +56,8 @@ Earlier Gate-B/C/F checkpoints remain historical evidence only. Later commits ma
 - Gate H — **COMPLETE / PASS — 104 sections / 115 formal units / 4 note-only / 119 provenance leaves / 0 canonical page changes**
 - Gate I — **COMPLETE / PASS — final synchronization / closure**
 - Gate-G historical page status distribution — **43 verified / 453 needs-review / 1 partial**
-- current Tamil re-audit state after R21 — **188 verified / 308 needs-review / 1 partial**
-- current visual-fidelity state after R21 — **188 verified / 309 needs-review / 0 missing**
+- current Tamil re-audit state after R23 — **203 verified / 293 needs-review / 1 partial**
+- current visual-fidelity state after R23 — **203 verified / 294 needs-review / 0 missing**
 - user-directed Tamil word-for-word verification — **IN PROGRESS**
 - restart R01 scans **1–10** — **COMPLETE / PASS — 0 new lexical discrepancies / WFV-001 rejected / scan8 partial**
 - restart R02 scans **11–20** — **COMPLETE / PASS — 0 new lexical discrepancies / 0 lexical substitutions / 0 page-layer mutations**
@@ -80,11 +80,13 @@ Earlier Gate-B/C/F checkpoints remain historical evidence only. Later commits ma
 - restart R19 scans **181–190** — **COMPLETE / PASS WITH LEXICAL HOLDS — WFV-020..022 / scans183+189 needs-review / 0 lexical substitutions / 8 status promotions**
 - restart R20 scans **191–200** — **COMPLETE / PASS WITH LEXICAL HOLDS — WFV-023..024 / scans192+195 needs-review / 0 lexical substitutions / 8 status promotions**
 - restart R21 scans **201–210** — **COMPLETE / PASS WITH LEXICAL HOLDS — WFV-025..026 / scans205+209 needs-review / 0 lexical substitutions / 8 status promotions**
+- restart R22 scans **211–220** — **COMPLETE / PASS WITH LEXICAL HOLDS — WFV-027..029 / scans213+215+219 needs-review / 0 lexical substitutions / 7 status promotions**
+- restart R23 scans **221–230** — **COMPLETE / PASS WITH LEXICAL HOLDS — WFV-030..032 / scans227+230 needs-review / 0 lexical substitutions / 8 status promotions**
 - whole-volume word-for-word completion — **NOT YET CLAIMED**
 
 The mixed page-level statuses are intentional. Gate C2 resolved all recorded Gate-C discrepancies but did not perform a fresh exhaustive token-by-token reread of every source word.
 
-**Exact active Tamil activity: restarted Gemini-locked word-for-word + historical-glyph re-audit.** The user-fixed cadence remains **20 pages per iteration**, with durable reporting in 10-scan R batches. R01 scans **1–10** through R21 scans **201–210** are complete. R20+R21 opened **4 new ledger rows (WFV-023 through WFV-026)** on scans **192, 195, 205 and 209**. No lexical word or materially disputed token placement was changed. Sixteen clean pages were promoted. Protected C2 rulings on scans 192, 195, 199 and 208 remain intact. Current state is **188 verified / 308 needs-review / 1 partial**. Exact next iteration is **R22 + R23 scans 211–230 (20 pages)** using Part005 pages 11–30.
+**Exact active Tamil activity: restarted Gemini-locked word-for-word + historical-glyph re-audit.** The user-fixed cadence remains **20 pages per iteration**, with durable reporting in 10-scan R batches. R01 scans **1–10** through R23 scans **221–230** are complete. R22+R23 opened **6 new ledger rows (WFV-027 through WFV-032)** across five unresolved pages: scans **213, 215, 219, 227 and 230**. No lexical word or materially disputed token placement was changed. Fifteen clean pages were promoted. Protected C2 rulings on scans **221, 223, 226 and 230** remain intact. Current state is **203 verified / 293 needs-review / 1 partial**. Exact next iteration is **R24 + R25 scans 231–250 (20 pages)** using Part005 pages 31–50.
 
 Mandatory companion control: `works/sangatamil/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Inspect difficult glyphs at enlarged/native resolution, check the 13 known families, and compare same-edition evidence. **Do not correct lexical words directly**: every new lexical/glyph difference goes to `LEXICAL_DISCREPANCY_LEDGER.md` and awaits explicit user adjudication.
 
