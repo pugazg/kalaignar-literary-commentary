@@ -6,7 +6,7 @@ section: "நெல்லும் உயிர் அன்றே! நீரு
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "decorative two-line section heading; verse-like text below; `உடலுக்கு` set off at the right; printed page number 40 visible"
+visual_notes: "decorative two-line section heading; verse-like text below; `உடலுக்கு` set off at the right; R06 WFV-010 holds canonical `கூடிற்றாம்!` unchanged against source-visible `கூடிற்றும்!`; printed page number 40 visible"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
