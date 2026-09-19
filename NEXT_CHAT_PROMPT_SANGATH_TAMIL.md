@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / RE-AUDIT R12 scans 111–120
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / RE-AUDIT R14 scans 131–140
 
 Continue only from live `main` in `pugazg/kalaignar-literary-commentary`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,28 +6,28 @@ Continue only from live `main` in `pugazg/kalaignar-literary-commentary`. **LIVE
 
 Tamil word-for-word / historical-glyph re-audit runs in **10-page physical-scan iterations**.
 
-R01 through R11 are complete through physical scan **110**.
+R01 through R13 are complete through physical scan **130**.
 
 Recent frontier:
 
-- R08 scans **71–80 — COMPLETE / PASS**
-- R09 scans **81–90 — COMPLETE / PASS WITH LEXICAL HOLDS**
 - R10 scans **91–100 — COMPLETE / PASS WITH LEXICAL HOLDS**
 - R11 scans **101–110 — COMPLETE / PASS**
+- R12 scans **111–120 — COMPLETE / PASS**
+- R13 scans **121–130 — COMPLETE / PASS**
 
-**Exact next range: R12 scans 111–120.**
+**Exact next range: R14 scans 131–140.**
 
-Preferred split source when available:
+Preferred split source:
 
 `TVA_BOK_0042551_சங்கத்_தமிழ்_part_003_pages_101-150.pdf`
 
-R12 physical scans 111–120 correspond to Part003 PDF pages **11–20**. The same user-supplied controlling full source `TVA_BOK_0042551_சங்கத்_தமிழ்.pdf` may be used for those physical scans if needed.
+R14 physical scans 131–140 correspond to Part003 PDF pages **31–40**. The same user-supplied controlling full source `TVA_BOK_0042551_சங்கத்_தமிழ்.pdf` may be used if needed.
 
 ## Read first — mandatory
 
 1. `works/sangatamil/TAMIL_WORD_FOR_WORD_VERIFICATION.md`
-2. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R10_SCANS_091_100.md`
-3. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R11_SCANS_101_110.md`
+2. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R12_SCANS_111_120.md`
+3. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R13_SCANS_121_130.md`
 4. `works/sangatamil/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
 5. `works/sangatamil/GEMINI_TEXT_LOCK.md`
 6. `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`
@@ -66,63 +66,61 @@ For every printed page:
 
 Even strongly supported glyph/source differences are **ledger-first**.
 
-## Durable state through R11
+## Durable state through R13
 
 Current Tamil state:
 
-- `verified` — **97**
-- `needs-review` — **399**
+- `verified` — **117**
+- `needs-review` — **379**
 - `partial` — **1**
-- visual `verified` — **97**
-- visual `needs-review` — **400**
-- restart coverage — **110/497**
+- visual `verified` — **117**
+- visual `needs-review` — **380**
+- restart coverage — **130/497**
 
 ### Confirmed unresolved lexical holds — DO NOT CHANGE
 
-All **WFV-002 through WFV-014** are confirmed / pending explicit user adjudication.
+WFV-002 through WFV-014 remain pending explicit user adjudication. No pending hold may be silently applied.
 
-Most recent:
+### R12 / R13 closure
 
-- **WFV-005 / scan 91** — `வாராத காரணம்தான்` vs source `வராத காரணம்தான்`
-- **WFV-012 / scan 85** — source-visible `- அவர்கள்` missing from canonical
-- **WFV-013 / scan 87** — `நல்ல` token-placement discrepancy
-- **WFV-014 / scan 94** — quotation `என் உயிர்ஒம் புநனே` vs source `என் உயிர்ஓம் புநனே`
+- R12 scans **111–120** — COMPLETE / PASS
+  - new WFV rows — **0**
+  - lexical substitutions — **0**
+  - scans 113–115 section metadata aligned to exact user-adjudicated heading `புரிந்துகொண்டான்; பிரிந்துசென்றார்!`
+  - protected C2 scans 112, 113, 120 preserved
+- R13 scans **121–130** — COMPLETE / PASS
+  - new WFV rows — **0**
+  - lexical substitutions — **0**
+  - protected C2 scan-123 restored opening prose preserved
+  - C2-06 scans 126–130 — no discrepancy records
 
-No pending hold may be silently applied.
+## R14 C2 control
 
-## R12 protected C2 rulings — scans 111–120
+C2-06 covers scans **126–150** and is **COMPLETE / NO DISCREPANCY RECORDS / NO PAGE ACTION**.
 
-Preserve these exact prior user adjudications:
+Therefore scans **131–140** have no pre-existing C2 discrepancy rulings to invent or apply. Audit the actual source page-by-page; if a new lexical/glyph difference is found, ledger it under the current WFV sequence and do not mutate the lexical body without user adjudication.
 
-- **scan 112 / C05-001** — exact heading:
-  `புரிந்துகொண்டான்; பிரிந்துசென்றார்!`
-- **scan 113 / C05-002** — source opening quotation stanza after the prose is a true missing whole lexical block and was user-authorized/restored; preserve that restored block.
-- **scan 120 / C05-003** — note `ஊன்பொழிப் பசுங்குடையார்` — **Gemini is correct**; preserve.
+## R14 exact activity
 
-Do not reopen these unless the user explicitly does so.
-
-## R12 exact activity
-
-Process exactly **physical scans 111–120**.
+Process exactly **physical scans 131–140**.
 
 For each scan:
 
 1. compare canonical Tamil word-for-word against the controlling source;
-2. inspect the full page and enlarged/native details;
+2. inspect the full page and difficult clusters at enlarged/native resolution;
 3. apply the historical-glyph checklist;
-4. preserve C2 rulings above;
-5. ledger every new lexical/glyph difference;
-6. **change 0 lexical words without explicit user adjudication**;
-7. apply only source-supported non-lexical structure/punctuation/layout corrections;
-8. promote clean fully audited pages to `verified` / visual `verified`;
-9. unresolved lexical pages remain `needs-review`;
-10. do not alter WFV-002 through WFV-014.
+4. ledger every new lexical/glyph difference;
+5. **change 0 lexical words without explicit user adjudication**;
+6. apply only source-supported non-lexical structure/punctuation/layout corrections;
+7. promote clean fully audited pages to `verified` / visual `verified`;
+8. unresolved lexical pages remain `needs-review`;
+9. do not alter WFV-002 through WFV-014.
 
-At R12 close create:
+At R14 close create:
 
-`works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R12_SCANS_111_120.md`
+`works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R14_SCANS_131_140.md`
 
-Synchronize:
+Then synchronize:
 
 - `works/sangatamil/TAMIL_WORD_FOR_WORD_VERIFICATION.md`
 - `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`
@@ -134,4 +132,4 @@ Synchronize:
 
 The maintained-English release-report gate remains **PAUSED**.
 
-After R12, exact next range becomes **R13 scans 121–130**.
+After R14, exact next range becomes **R15 scans 141–150**, completing Part003.
