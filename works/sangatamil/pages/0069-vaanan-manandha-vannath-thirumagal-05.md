@@ -6,7 +6,7 @@ section: "வாணன் மணந்த வண்ணத் திருமக�
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "running சங்கத் தமிழ் header; continuation from scan 68; narrative conclusion followed by centered Sangam quotation, provenance and பொருள் விளக்கம்; printed page number 54 visible"
+visual_notes: "running சங்கத் தமிழ் header; continuation from scan 68; R07 reconfirms WFV-003: canonical `தலைமகனாம் என் கணவர்` vs source-visible `தலைமகனும் என் கணவர்`; canonical unchanged pending user adjudication; narrative conclusion followed by centered Sangam quotation, provenance and பொருள் விளக்கம்; printed page number 54 visible"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
