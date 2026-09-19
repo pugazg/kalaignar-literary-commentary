@@ -6,7 +6,7 @@ section: "ஊரின் பெருமை உணர்த்தினள் �
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "running கலைஞர் மு. கருணாநிதி header; continuation arranged in printed verse/prose blocks; printed page number 47 visible"
+visual_notes: "running கலைஞர் மு. கருணாநிதி header; continuation arranged in printed verse/prose blocks; R07 reconfirms WFV-002: canonical places `தனது` before `பலாமரத்து`, while the source places `- தனது` after `படர்ந்துள்ள கொடியுதிர் மலர்களில்`; canonical wording/placement remains unchanged pending user adjudication; printed page number 47 visible"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
