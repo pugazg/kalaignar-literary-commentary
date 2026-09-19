@@ -4,8 +4,8 @@ printed_page: "73"
 work: "sangatamil"
 section: "பிசிராந்தையார் 3"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
@@ -22,7 +22,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 கூடியுள்ளனர் அவ்வூர்ச் சான்றோர் எனக் கேள்வியுற்று
 
 வார்த்தையில் அடங்காப் பரபரப்புடனே இதயம் துடிக்கப்  
-போர்ப்புகை அணைந்ததா என்றறிய அங்கு சென்றார்.
+போர்ப்புகை, அணைந்ததா என்றறிய அங்கு சென்றார்.
 
 பொத்தியார், பூதநாகனார், நத்தத்தனார் மற்றும்  
 புல்லாற்றூர் எயிற்றியனார் எனும் புலவர் பெருமக்கள்
