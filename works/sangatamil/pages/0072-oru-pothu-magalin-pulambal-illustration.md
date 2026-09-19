@@ -4,11 +4,11 @@ printed_page: null
 work: "sangatamil"
 section: "ஒரு பொது மகளின் புலம்பல்!"
 page_type: "illustration"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 visual_notes: "full-page colour illustration; no printed caption visible; no visible printed page number"
 language: "ta"
-transcription_method: "single-pass visual capture; verification intentionally deferred"
+transcription_method: "source-verified illustration capture"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
