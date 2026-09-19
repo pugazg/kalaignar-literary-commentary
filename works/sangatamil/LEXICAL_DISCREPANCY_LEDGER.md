@@ -1604,8 +1604,8 @@ These rows are therefore **not correction authorizations**. Canonical wording st
 | ID | Scan | Printed page | Canonical page | Locked repository wording | Source-visible wording | Classification | Disposition |
 |---|---:|---:|---|---|---|---|---|
 | WFV-001 | 7 | II | `0007-publication-details.md` | `ராக்போர்ட்` | earlier provisional read `ராக்ஃபோர்ட்` | `likely-gemini-error` | **REJECTED ON R01 RE-AUDIT — high-resolution scan + same-edition evidence support canonical `ராக்போர்ட்`; no lexical discrepancy** |
-| WFV-002 | 62 | 47 | `0062-oorin-perumai-unarnthavar-oruthi-04.md` | after `படர்ந்துள்ள கொடியுதிர் மலர்களில்` canonical proceeds to `பாதம் படுகின்ற...` | source visibly contains intervening lexical token `தனது` | `likely-gemini-error` | **PENDING RECONFIRMATION IN RESTART 10-PAGE AUDIT — do not add word** |
-| WFV-003 | 69 | 54 | `0069-vaanan-manandha-vannath-thirumagal-05.md` | `தலைமகனாம் என் கணவர்` | `தலைமகனும் என் கணவர்` | `likely-gemini-error` | **PENDING RECONFIRMATION IN RESTART 10-PAGE AUDIT — do not change word** |
+| WFV-002 | 62 | 47 | `0062-oorin-perumai-unarnthavar-oruthi-04.md` | canonical places `தனது` before `பலாமரத்து இலைச்சருகுகளில்`, then proceeds `படர்ந்துள்ள கொடியுதிர் மலர்களில் / பாதம்...` | source places the same token later as `படர்ந்துள்ள கொடியுதிர் மலர்களில் - தனது / பாதம்...` | `token-placement / likely-gemini-error` | **R07 CONFIRMED / PENDING USER ADJUDICATION — canonical wording/placement unchanged; scan 62 remains needs-review** |
+| WFV-003 | 69 | 54 | `0069-vaanan-manandha-vannath-thirumagal-05.md` | `தலைமகனாம் என் கணவர்` | `தலைமகனும் என் கணவர்` | `likely-gemini-error` | **R07 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 69 remains needs-review** |
 | WFV-004 | 83 | 68 | `0083-pisiranthaiyar-2-02.md` | `மாலையாவதில்ல - ஆழல்` | `மாலையாவதில்ல - ஆனால்` | `likely-gemini-error` | **PENDING RECONFIRMATION IN RESTART 10-PAGE AUDIT — do not change word** |
 | WFV-005 | 91 | 76 | `0091-pisirandhaiyar-4-01.md` | `வாராத காரணம்தான்` | `வராத காரணம்தான்` | `likely-gemini-error` | **PENDING RECONFIRMATION IN RESTART 10-PAGE AUDIT — do not change word** |
 | WFV-006 | 25 | 10 | `0025-maanangkaatha-maravan-01.md` | `வளையாத முதுகெலும்பு பெற்றவனோ?` | `வளையாத முதுகெலும்பு பெற்றவனே?` | `likely-gemini-error` | **R03 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 25 reopened to needs-review** |
@@ -1613,6 +1613,7 @@ These rows are therefore **not correction authorizations**. Canonical wording st
 | WFV-008 | 30 | 15 | `0030-maanangkaatha-maravan-06.md` | gloss `ஆள்அன்று என்று வாளின் தப்பார் = ...` | gloss source `ஆளன்று என்று வாளின் தப்பார் = ...` | `old-or-uncommon-form` | **R03 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; same scan-30 lexical hold** |
 | WFV-009 | 49 | 34 | `0049-kaakkaikku-nandri-kaatta-03.md` | quotation `திண்டோர் நள்ளி கானத் தண்டர்` | quotation source `திண்டேர் நள்ளி கானத் தண்டர்` | `likely-gemini-error` | **R05 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 49 reopened to needs-review** |
 | WFV-010 | 55 | 40 | `0055-nellum-uyir-anre-neerum-uyir-anre-01.md` | `ஆன்றவிந் தடங்கிய மேலோர் புலவர் அவை கூடிற்றாம்!` | source `ஆன்றவிந் தடங்கிய மேலோர் புலவர் அவை கூடிற்றும்!` | `likely-gemini-error` | **R06 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 55 remains needs-review** |
+| WFV-011 | 67 | 52 | `0067-vaanan-manandha-vannath-thirumagal-03.md` | `அவசரமாய்ப் புறப்பட்டான் தேர்ஏறி!` | source `அவசரமாய்ப் புறப்பட்டான் தேரேறி!` | `likely-gemini-error` | **R07 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 67 remains needs-review** |
 
 Non-lexical observations from the same review, such as token placement, lineation or punctuation, are not entered here unless they change the lexical reading.
 
@@ -1807,6 +1808,42 @@ No canonical word or character was changed.
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R06_SCANS_051_060.md`.
 
+## Restart R07 — scans 61–70
+
+**Status: COMPLETE / PASS WITH LEXICAL HOLDS**
+
+- date: **2026-09-19**
+- source: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_002_pages_51-100.pdf`
+- cadence: **10 physical scans per iteration**
+- reviewed scans: **61–70 / 10**
+- canonical lexical substitutions: **0**
+- reconfirmed pre-restart rows: **2** — WFV-002 and WFV-003
+- new lexical discrepancy rows: **1** — WFV-011
+- unresolved lexical pages in this batch: **3** — scans 62, 67, 69
+- source-supported non-lexical body corrections: **0**
+- page-status promotions: **7** — scans 61, 63–66, 68, 70
+- page-layer lexical mutations: **0**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R07 findings
+
+- scan **61** — full-page lexical/glyph review passed; no new discrepancy;
+- scan **62** — WFV-002 reconfirmed at native resolution. The source does not add a second `தனது`; instead it places the existing token after `படர்ந்துள்ள கொடியுதிர் மலர்களில் -`, whereas canonical places `தனது` before `பலாமரத்து இலைச்சருகுகளில்`. Canonical wording/placement remains unchanged pending user adjudication;
+- scan **63** — narrative, quotation, provenance and omission-dot structure reviewed; no new lexical/glyph discrepancy;
+- scan **64** — prior C2 `கனைதுயில்` correction and protected `ஔவை துரைசாமிப் பிள்ளை` remain controlling; no new discrepancy;
+- scan **65** — decorative-heading page and full printed body reviewed; no new discrepancy;
+- scan **66** — full-page illustration verified;
+- scan **67** — new WFV-011 confirmed: canonical `தேர்ஏறி!` vs source-visible `தேரேறி!`; canonical unchanged;
+- scan **68** — dialogue-heavy continuation reviewed; no new discrepancy;
+- scan **69** — WFV-003 reconfirmed: canonical `தலைமகனாம் என் கணவர்` vs source-visible `தலைமகனும் என் கணவர்`; canonical unchanged;
+- scan **70** — prior C2 heading `ஒரு பொது மகளின் புலம்பல்!` remains protected; no new discrepancy;
+- existing WFV-006 through WFV-010 remain pending explicit user adjudication and were not altered.
+
+No canonical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R07_SCANS_061_070.md`.
+
 ### Exact next audit range
 
-**R07 — scans 61–70.**
+**R08 — scans 71–80.**
