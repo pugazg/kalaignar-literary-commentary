@@ -1,6 +1,6 @@
 # Sangatamil — Maintained English Translation Status
 
-**Status: ACTIVE — EDITORIAL REVIEW COMPLETE / CLOSED 497/497**
+**Status: ACTIVE — WHOLE-VOLUME / SECTION-LEVEL REVIEW COMPLETE / PASS**
 
 Repository: `pugazg/kalaignar-literary-commentary`  
 Branch: `main`
@@ -33,7 +33,8 @@ English work does not alter or promote those Tamil statuses.
 | Source-check | **497/497 reviewed — SC1+SC2+SC3+SC4+SC5+SC6+SC7+SC8+SC9+SC10+SC11+SC12+SC13+SC14 COMPLETE / CLOSED (496 source-checked + scan 8 source-limited)** |
 | Glossary reconciliation | **497/497 — GR1+GR2+GR3+GR4+GR5+GR6+GR7+GR8+GR9+GR10+GR11+GR12+GR13+GR14 COMPLETE / CLOSED** |
 | Editorial review | **497/497 reviewed — ER1+ER2+ER3+ER4+ER5+ER6+ER7+ER8+ER9+ER10+ER11+ER12+ER13+ER14 COMPLETE / CLOSED (496 editorial-reviewed + scan 8 source-limited)** |
-| Whole-volume / section-level review | **NOT STARTED — exact next activity** |
+| Whole-volume / section-level review | **COMPLETE / PASS — active release unit scans 1–497** |
+| Release report | **NOT STARTED — exact next activity** |
 | Release-ready | **0/497** |
 
 Current English page inventory:
@@ -643,6 +644,28 @@ Current English page inventory:
 - cumulative editorial review — **497/497 COMPLETE / CLOSED**
 - closure inventory — **496 editorial-reviewed + 1 source-limited (scan 8)**
 
+## Whole-volume / section-level review closure
+
+**Status: COMPLETE / PASS**
+
+- active release unit — **scans 1–497**
+- English page records present — **497/497**
+- source-order section roles — **104/104**
+- formal Sangam provenance units — **115/115**
+- source-note-only provenance records — **4/4**
+- current page state preserved — **496 `editorial-reviewed` + 1 `source-limited` (scan 8)**
+- English wording changes during whole-volume review — **0**
+- English page-status changes during whole-volume review — **0**
+- canonical Tamil page changes — **0**
+- glossary changes — **0**
+- unresolved whole-work English consistency blockers — **0**
+- durable report — `reviews/WHOLE_VOLUME_ENGLISH_REVIEW.md`
+- review base — `a64036972f069cd8c495409baf02f64207c1cff8`
+
+The review preserves the physical/section/provenance closure: scans **1–497** remain continuous, scan **425** remains the `ஒருதலைக் காதல்` divider, scans **426–496** remain its eleven numbered units, scan **496** closes the narrative and final quoted/gloss unit, and scan **497** remains the physical back cover.
+
+Scan **8** remains permanently `source-limited` under the standing handwritten-facsimile policy and is not eligible for `release-ready` promotion.
+
 ## Release interpretation
 
 English review/release status is relative to the maintained canonical Tamil archive.
@@ -655,6 +678,6 @@ Normal page-batched cadence: **37 physical scans**.
 
 ## Exact next activity
 
-**Maintained-English whole-volume / section-level review — active release unit scans 1–497.**
+**Maintained-English whole-volume English release report — active release unit scans 1–497.**
 
-Editorial review is now closed. Review the **active release unit as a whole** across scans **1–497** for section continuity, titles, recurring names and terminology, quoted-verse handling, provenance, visual/page function, cross-section continuity and final narrative/back-cover closure. Preserve scan 8 as `source-limited`, preserve the **496 `editorial-reviewed`** page states, change **0 canonical Tamil page files**, and do **not** promote pages to `release-ready` until an approved release report exists.
+Use `reviews/WHOLE_VOLUME_ENGLISH_REVIEW.md` as the authoritative prior gate. Decide release approval for the active release unit. Preserve scan **8** as permanent `source-limited`; only the **496 `editorial-reviewed`** pages are eligible for promotion. If approved, promotion must be status-token-only (`editorial-reviewed` → `release-ready`) with **0 English wording changes** and **0 canonical Tamil page changes**.

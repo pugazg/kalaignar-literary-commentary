@@ -220,6 +220,7 @@ Controls:
 - `translations/en/EDITORIAL_REVIEW_ER12_REPORT.md`
 - `translations/en/EDITORIAL_REVIEW_ER13_REPORT.md`
 - `translations/en/EDITORIAL_REVIEW_ER14_REPORT.md`
+- `translations/en/reviews/WHOLE_VOLUME_ENGLISH_REVIEW.md`
 
 Current maintained-English state:
 
@@ -232,10 +233,11 @@ Current maintained-English state:
 - source-check — **497/497 reviewed — SC1+SC2+SC3+SC4+SC5+SC6+SC7+SC8+SC9+SC10+SC11+SC12+SC13+SC14 COMPLETE / CLOSED**
 - glossary reconciliation — **497/497 reviewed — GR1+GR2+GR3+GR4+GR5+GR6+GR7+GR8+GR9+GR10+GR11+GR12+GR13+GR14 COMPLETE / CLOSED**
 - editorial review — **497/497 reviewed — ER1+ER2+ER3+ER4+ER5+ER6+ER7+ER8+ER9+ER10+ER11+ER12+ER13+ER14 COMPLETE / CLOSED (496 editorial-reviewed + scan 8 source-limited)**
+- whole-volume / section-level review — **COMPLETE / PASS — active release unit scans 1–497**
 - canonical Tamil page changes from English drafting — **0**
 
 This downstream layer does **not** reopen or mass-promote the canonical Tamil records and does not change the declaration that whole-volume word-for-word scan verification is not claimed.
 
 ## Exact next activity
 
-**Maintained-English whole-volume / section-level review — active release unit scans 1–497.** Drafting, source-check, glossary reconciliation and editorial review are now **COMPLETE / CLOSED 497/497**. Review the active release unit as a whole; preserve **496 `editorial-reviewed` + 1 `source-limited` (scan 8)**, make no canonical Tamil changes, and do not promote pages to `release-ready` until an approved English release report exists.
+**Maintained-English whole-volume English release report — active release unit scans 1–497.** The whole-volume / section-level review is **COMPLETE / PASS**. Create the release report, preserve scan 8 as `source-limited`, decide whether the **496 editorial-reviewed pages** are approved for release, and do not promote any page until that report explicitly approves release.

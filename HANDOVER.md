@@ -63,7 +63,7 @@ The mixed page-level statuses are intentional. Gate C2 resolved all recorded Gat
 
 **Exact Tamil archival activity: none — Sangath Tamil archival pipeline closed.**
 
-**Exact downstream activity: maintained English whole-volume / section-level review — active release unit scans 1–497.** First-pass drafting, source-check, glossary reconciliation and editorial review are all **COMPLETE / CLOSED 497/497**; maintained-English state is **0 draft + 0 source-checked + 496 editorial-reviewed + 1 source-limited (scan 8)**. Review the active release unit as a whole before any release report or `release-ready` promotion.
+**Exact downstream activity: maintained English release-report gate — active release unit scans 1–497.** First-pass drafting, source-check, glossary reconciliation, editorial review and whole-volume / section-level review are all **COMPLETE / CLOSED**. Current maintained-English state remains **496 editorial-reviewed + 1 source-limited (scan 8)**. Create the whole-volume English release report, decide release approval, and only after approval may the 496 eligible pages be promoted to `release-ready`; scan 8 must remain `source-limited`.
 
 English controls: `works/sangatamil/translations/en/README.md`, `TRANSLATION_GUIDE.md`, `TRANSLATION_STATUS.md`, and `GLOSSARY.md`.
 
@@ -221,14 +221,14 @@ Durable B20 closure: final scans 476–497 completed with 7 page records changed
 The Tamil archival workflow is closed. Continue only the separately scoped maintained-English layer.
 
 1. fetch live `main`;
-2. read `works/sangatamil/translations/en/TRANSLATION_GUIDE.md`, `GLOSSARY.md`, `TRANSLATION_STATUS.md`, `SOURCE_CHECK_SC1_REPORT.md` through `SOURCE_CHECK_SC14_REPORT.md`, `GLOSSARY_RECONCILIATION_GR1_REPORT.md` through `GLOSSARY_RECONCILIATION_GR14_REPORT.md`, `EDITORIAL_REVIEW_ER1_REPORT.md`, `EDITORIAL_REVIEW_ER2_REPORT.md`, `EDITORIAL_REVIEW_ER3_REPORT.md`, `EDITORIAL_REVIEW_ER4_REPORT.md`, `EDITORIAL_REVIEW_ER5_REPORT.md`, `EDITORIAL_REVIEW_ER6_REPORT.md`, `EDITORIAL_REVIEW_ER7_REPORT.md`, `EDITORIAL_REVIEW_ER8_REPORT.md`, `EDITORIAL_REVIEW_ER9_REPORT.md`, `EDITORIAL_REVIEW_ER10_REPORT.md`, `EDITORIAL_REVIEW_ER11_REPORT.md`, `EDITORIAL_REVIEW_ER12_REPORT.md`, `EDITORIAL_REVIEW_ER13_REPORT.md`, and `EDITORIAL_REVIEW_ER14_REPORT.md`;
+2. read `works/sangatamil/translations/en/TRANSLATION_GUIDE.md`, `GLOSSARY.md`, `TRANSLATION_STATUS.md`, `SOURCE_CHECK_SC1_REPORT.md` through `SOURCE_CHECK_SC14_REPORT.md`, `GLOSSARY_RECONCILIATION_GR1_REPORT.md` through `GLOSSARY_RECONCILIATION_GR14_REPORT.md`, `EDITORIAL_REVIEW_ER1_REPORT.md`, `EDITORIAL_REVIEW_ER2_REPORT.md`, `EDITORIAL_REVIEW_ER3_REPORT.md`, `EDITORIAL_REVIEW_ER4_REPORT.md`, `EDITORIAL_REVIEW_ER5_REPORT.md`, `EDITORIAL_REVIEW_ER6_REPORT.md`, `EDITORIAL_REVIEW_ER7_REPORT.md`, `EDITORIAL_REVIEW_ER8_REPORT.md`, `EDITORIAL_REVIEW_ER9_REPORT.md`, `EDITORIAL_REVIEW_ER10_REPORT.md`, `EDITORIAL_REVIEW_ER11_REPORT.md`, `EDITORIAL_REVIEW_ER12_REPORT.md`, `EDITORIAL_REVIEW_ER13_REPORT.md`, `EDITORIAL_REVIEW_ER14_REPORT.md`, and `reviews/WHOLE_VOLUME_ENGLISH_REVIEW.md`;
 3. confirm first-pass drafting, source-check and glossary reconciliation are **COMPLETE / CLOSED 497/497**, ER1 scans **1–37**, ER2 scans **38–74**, ER3 scans **75–111**, ER4 scans **112–148**, ER5 scans **149–185**, ER6 scans **186–222**, ER7 scans **223–259**, ER8 scans **260–296**, ER9 scans **297–333**, ER10 scans **334–370**, ER11 scans **371–407**, ER12 scans **408–444**, ER13 scans **445–481**, and ER14 scans **482–497 are COMPLETE / PASS — editorial review COMPLETE / CLOSED 497/497**;
 4. confirm ER14 exact page-layer compare is **1 commit / exactly 16 modified English page files / 0 canonical Tamil changes / 16 status promotions**, with **8 source-faithful editorial refinements**;
-5. begin the **whole-volume / section-level review for the active release unit — scans 1–497**; review section continuity, terminology, titles, quoted-verse handling, provenance, page function, source-limited handling and whole-work consistency without silently rewriting approved page wording;
-6. check omissions, additions, meaning drift, names, titles, quotations, verse blocks, source labels, page function, provenance and cross-page continuity;
-7. preserve the **496 `editorial-reviewed` + 1 `source-limited`** page states during whole-release-unit review; do not promote to `release-ready` until an approved release report exists; scan 8 remains permanently `source-limited`;
-8. change 0 canonical Tamil files, record the whole-volume / section-level review durably, synchronize maintained-English controls, and only then advance to the release-report gate;
-9. change **0 canonical Tamil page files**.
+5. read `works/sangatamil/translations/en/reviews/WHOLE_VOLUME_ENGLISH_REVIEW.md` and confirm the whole-volume / section-level review is **PASS / CLOSED**;
+6. create `works/sangatamil/translations/en/reviews/WHOLE_VOLUME_ENGLISH_RELEASE_REPORT.md` for the active release unit scans **1–497**;
+7. decide release approval using the closed English review state; preserve scan 8 as permanent `source-limited` and treat only the **496 `editorial-reviewed`** pages as eligible for promotion;
+8. if and only if the release report approves release, promote eligible pages `editorial-reviewed` → `release-ready` by status-token-only changes with **0 approved English wording changes**;
+9. change **0 canonical Tamil page files**, preserve `translation_type: "project_translation"`, and audit the exact promotion change-set before final synchronization.
 
 Whole-volume word-for-word Tamil scan verification remains **NOT CLAIMED**. English workflow progress must not be interpreted as a Tamil status promotion.
 

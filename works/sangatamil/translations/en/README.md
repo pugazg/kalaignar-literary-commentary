@@ -71,6 +71,7 @@ Translate only the maintained Tamil archive. Preserve the work's own order, quot
 - source-check — **497/497 reviewed — SC1+SC2+SC3+SC4+SC5+SC6+SC7+SC8+SC9+SC10+SC11+SC12+SC13+SC14 COMPLETE / CLOSED**
 - glossary reconciliation — **497/497 — GR1+GR2+GR3+GR4+GR5+GR6+GR7+GR8+GR9+GR10+GR11+GR12+GR13+GR14 COMPLETE / CLOSED**
 - editorial review — **497/497 reviewed — ER1+ER2+ER3+ER4+ER5+ER6+ER7+ER8+ER9+ER10+ER11+ER12+ER13+ER14 COMPLETE / CLOSED (496 editorial-reviewed + scan 8 source-limited)**
+- whole-volume / section-level review — **COMPLETE / PASS — active release unit scans 1–497**
 - release-ready — **0/497**
 - blocked — **0**
 - durable D1 report — `DRAFT_D1_REPORT.md`
@@ -129,5 +130,6 @@ Translate only the maintained Tamil archive. Preserve the work's own order, quot
 - durable ER12 report — `EDITORIAL_REVIEW_ER12_REPORT.md`
 - durable ER13 report — `EDITORIAL_REVIEW_ER13_REPORT.md`
 - durable ER14 report — `EDITORIAL_REVIEW_ER14_REPORT.md`
+- durable whole-volume review — `reviews/WHOLE_VOLUME_ENGLISH_REVIEW.md`
 
-Exact next activity: **maintained-English whole-volume / section-level review — active release unit scans 1–497**. Review the work as a whole after editorial closure, preserve the current page wording/statuses unless a genuine whole-work consistency issue is found, keep scan 8 `source-limited`, change **0 canonical Tamil page files**, and do not promote to `release-ready` before an approved release report.
+Exact next activity: **maintained-English whole-volume English release report — active release unit scans 1–497**. Use `reviews/WHOLE_VOLUME_ENGLISH_REVIEW.md` as the authoritative prior gate, decide release approval, preserve scan 8 as `source-limited`, and only after approval promote the **496 eligible editorial-reviewed pages** to `release-ready` by status-token-only changes.
