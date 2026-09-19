@@ -105,12 +105,21 @@ R01 scans **1–10 — COMPLETE / PASS**:
 - scan 8 — remains `partial` / description-only;
 - canonical lexical substitutions — **0**.
 
+R02 scans **11–20 — COMPLETE / PASS**:
+- 10/10 inspected at enlarged/native resolution;
+- new lexical discrepancies — **0**;
+- canonical lexical substitutions — **0**;
+- source-supported non-lexical page corrections — **0**;
+- prior C2 rulings on scans 11, 13 and 19 preserved;
+- scan 20 `கூறாக` old-type cluster confirmed as historical `றா` identity, not a new discrepancy;
+- page-layer mutations — **0**.
+
 Current whole-volume Tamil state:
 - `verified` — **49**
 - `needs-review` — **447**
 - `partial` — **1**
-- current restart coverage — **10/497**
-- exact next range — **R02 scans 11–20**
+- current restart coverage — **20/497**
+- exact next range — **R03 scans 21–30**
 
 Gate D — COMPLETE / PASS:
 - physical scans — 497/497
@@ -164,9 +173,9 @@ Gate G — **COMPLETE / PASS**:
 - required metadata field presence after repair — **497/497**
 - demonstrable defects repaired — **11 missing `visual_fidelity` fields**
 - Gate-G historical `status` distribution — **43 verified / 453 needs-review / 1 partial**
-- current restart-R01 state — **49 verified / 447 needs-review / 1 partial**
+- current restart-R02 state — **49 verified / 447 needs-review / 1 partial**
 - Gate-G historical `visual_fidelity` distribution — **43 verified / 454 needs-review / 0 missing**
-- current restart-R01 visual-fidelity state — **49 verified / 448 needs-review / 0 missing**
+- current restart-R02 visual-fidelity state — **49 verified / 448 needs-review / 0 missing**
 - canonical wording changes — **0**
 - unresolved Gate-G inconsistencies — **0**
 - durable report — `GATE_G_METADATA_STATUS_AUDIT.md`
@@ -268,6 +277,6 @@ This downstream layer does **not** reopen or mass-promote the canonical Tamil re
 
 ## Exact next activity
 
-**Tamil re-audit R02 — scans 11–20.** Process exactly 10 scans from the supplied Part001 PDF. Apply the historical-glyph guide, preserve the Gemini lexical lock, ledger every new lexical/glyph discrepancy, change no word without user adjudication, and keep `NEXT_CHAT_PROMPT_SANGATH_TAMIL.md` synchronized.
+**Tamil re-audit R03 — scans 21–30.** Process exactly 10 scans from the supplied Part001 PDF. Apply the historical-glyph guide, preserve the Gemini lexical lock, ledger every new lexical/glyph discrepancy, change no word without user adjudication, and keep `NEXT_CHAT_PROMPT_SANGATH_TAMIL.md` synchronized.
 
 The maintained-English release-report gate remains paused while this Tamil re-audit is active.
