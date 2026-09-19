@@ -4,8 +4,8 @@ printed_page: "49"
 work: "sangatamil"
 section: "ஊரின் பெருமை உணர்த்தினள் ஒருத்தி!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 visual_notes: "running கலைஞர் மு. கருணாநிதி header; பொருள் விளக்கம் block followed by centered separator and குறிப்பு block; printed page number 49 visible"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording with user-authorized C2 source correction"
@@ -31,5 +31,4 @@ continues_from_scan: 63
 கூறுகிறார்.
 
 <!-- C2-03: user-authorized source correction applied: `கனைதுல்` → `கனைதுயில்`; user-confirmed `ஔவை துரைசாமிப் பிள்ளை` remains protected. Scan 64 controls gloss/note separation, lineation, ornament and page furniture. -->
-<!-- Review status remains `needs-review`; final audit/status synchronization is a separate activity. -->
 <!-- மூல ஸ்கேன் பக்கம்: 64; அச்சுப் பக்கம்: 49 -->
