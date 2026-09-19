@@ -1612,6 +1612,7 @@ These rows are therefore **not correction authorizations**. Canonical wording st
 | WFV-007 | 30 | 15 | `0030-maanangkaatha-maravan-06.md` | quotation `ஆள்அன்று என்று வாளின் தப்பார்;` | quotation source `ஆளன்று என்று வாளின் தப்பார்;` | `old-or-uncommon-form` | **R03 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 30 reopened to needs-review** |
 | WFV-008 | 30 | 15 | `0030-maanangkaatha-maravan-06.md` | gloss `ஆள்அன்று என்று வாளின் தப்பார் = ...` | gloss source `ஆளன்று என்று வாளின் தப்பார் = ...` | `old-or-uncommon-form` | **R03 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; same scan-30 lexical hold** |
 | WFV-009 | 49 | 34 | `0049-kaakkaikku-nandri-kaatta-03.md` | quotation `திண்டோர் நள்ளி கானத் தண்டர்` | quotation source `திண்டேர் நள்ளி கானத் தண்டர்` | `likely-gemini-error` | **R05 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 49 reopened to needs-review** |
+| WFV-010 | 55 | 40 | `0055-nellum-uyir-anre-neerum-uyir-anre-01.md` | `ஆன்றவிந் தடங்கிய மேலோர் புலவர் அவை கூடிற்றாம்!` | source `ஆன்றவிந் தடங்கிய மேலோர் புலவர் அவை கூடிற்றும்!` | `likely-gemini-error` | **R06 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 55 remains needs-review** |
 
 Non-lexical observations from the same review, such as token placement, lineation or punctuation, are not entered here unless they change the lexical reading.
 
@@ -1771,6 +1772,41 @@ No canonical word or character was changed.
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R05_SCANS_041_050.md`.
 
+## Restart R06 — scans 51–60
+
+**Status: COMPLETE / PASS WITH LEXICAL HOLD**
+
+- date: **2026-09-19**
+- source: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_002_pages_51-100.pdf`
+- cadence: **10 physical scans per iteration**
+- reviewed scans: **51–60 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **1** — WFV-010
+- unresolved new lexical pages: **1** — scan 55
+- source-supported non-lexical page corrections: **2 page files** — scans 51 and 57
+- page-status promotions: **9** — scans 51–54 and 56–60
+- page-layer lexical mutations: **0**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R06 findings
+
+- scan **51** — prior C2 `எதிரிகளைக்` correction remains protected; source-leading quotation asterisk restored structurally; no lexical change;
+- scan **52** — full-page illustration verified;
+- scan **53** — prior C2 `விருப்பைச்` ruling remains protected; no new lexical/glyph discrepancy;
+- scan **54** — quotation/provenance/gloss verified; no new discrepancy;
+- scan **55** — WFV-010 confirmed: canonical `கூடிற்றாம்!` vs source-visible `கூடிற்றும்!`; canonical left unchanged; page remains `needs-review`;
+- scan **56** — full-page illustration verified;
+- scan **57** — source-positioned carryover alignment restored for `அடிமையாகி,`, `உயிராம்!`, `படைகளிருப்பினும்`, `வேண்டுமன்றோ?`, `சோம்பலினால்` and `அமைந்துவிடின்`; no lexical change;
+- scan **58** — prior C2 `வேந்தர்க்குக்` ruling remains protected; no new discrepancy;
+- scan **59** — prior C2 user-authorized `முசுண்டை கொடியும்` remains protected; no new discrepancy;
+- scan **60** — full-page illustration verified;
+- existing WFV-006 through WFV-009 remain pending explicit user adjudication and were not altered.
+
+No canonical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R06_SCANS_051_060.md`.
+
 ### Exact next audit range
 
-**R06 — scans 51–60.**
+**R07 — scans 61–70.**
