@@ -4,9 +4,9 @@ printed_page: "36"
 work: "sangatamil"
 section: "மாவீரன் கண்ட மலர்கள்"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "running சங்கத் தமிழ் header; continuation text arranged in printed verse/prose blocks; centered separator before a three-line quoted continuation; horizontal rule above centered printed page number"
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "running சங்கத் தமிழ் header; continuation text arranged in printed verse/prose blocks; R06 restores the source-leading asterisk on the three-line quoted continuation instead of a centered separator; horizontal rule above centered printed page number"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording with user-authorized C2 source correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
@@ -53,9 +53,7 @@ continues_to_scan: 53
 வண்ண வண்ண மலர்கள் பற்றி அவன்  
 எண்ணம் பறக்கிறது சிறகடித்து!
 
-<div align="center">*</div>
-
-> இருமருங்கும் நிறைந்து மலர்ந்துள்ள  
+> \* இருமருங்கும் நிறைந்து மலர்ந்துள்ள  
 > இலுப்பைப் பூக்கள் எதிர்வந்து;  
 > வில்லேந்தி வெற்றி விளைக்கின்ற
 
