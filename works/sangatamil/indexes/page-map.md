@@ -51,7 +51,9 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 61–64 | printed 46–49 | closure of `ஊரின் பெருமை உணர்த்தினள் ஒருத்தி!` | **R07 source re-audit: scans 61, 63–64 verified; scan 62 `needs-review` / visual `needs-review` for WFV-002 token-placement discrepancy; 0 lexical mutations** |
 | 65–69 | printed 50–54 with scan-66 illustration | `வாணன் மணந்த வண்ணத் திருமகள்!` | **R07 source re-audit: scans 65–66 and 68 verified; scans 67 and 69 `needs-review` for WFV-011 and WFV-003; 0 lexical mutations** |
 | 70 | printed 55 | `ஒரு பொது மகளின் புலம்பல்!` opening | **R07 source re-audit PASS / verified; protected C2 heading retained** |
-| 71–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
+| 71–74 | printed 56–59 with scan-72 illustration | closure of `ஒரு பொது மகளின் புலம்பல்!` | **R08 source re-audit PASS / all four verified; 0 lexical discrepancies** |
+| 75–80 | printed 60–65 with scan-76 illustration | `பிசிராந்தையார் 1` | **R08 source re-audit PASS / all six verified; protected C2 scan-77 `பாண்டிநாட்டுச் சிற்றூரில்` retained; 0 lexical discrepancies** |
+| 81–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
 | 497 | — | back cover / end matter | **Gate D closed / physical endpoint** |
 
 ## Important controls
