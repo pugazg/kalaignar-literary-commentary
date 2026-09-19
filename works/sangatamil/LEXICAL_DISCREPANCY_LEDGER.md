@@ -2697,6 +2697,74 @@ No canonical lexical word or character was changed.
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R33_SCANS_321_330.md`.
 
+## Restart R34 — scans 331–340
+
+**Status: COMPLETE / PASS WITH LEXICAL HOLDS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_007_pages_301-350.pdf`, physical scans 331–340
+- reviewed scans: **331–340 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **2** — WFV-051 through WFV-052
+- unresolved new lexical pages: **2** — scans 334, 336
+- source-supported non-lexical correction: **scan 331 dash placement**
+- page-status promotions: **8**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### New R34 WFV rows
+
+| ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
+|---|---:|---:|---|---|---|---|
+| WFV-051 | 334 | 322 | `உடன் சென்று துணை நிற்க வேண்டு` | source visibly reads `உடன் சென்று துணை நிற்க வேண்டும்` | `missing-source-character / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 334 remains needs-review** |
+| WFV-052 | 336 | 324 | `அறம், திறம் உணர்த்துக்கின்ற கல்வி நீரோடையிலே` | source visibly reads `அறம், திறம் உணர்த்துகின்ற கல்வி நீரோடையிலே` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 336 remains needs-review** |
+
+### R34 findings
+
+- scans **331–333, 335, 337–340** — full lexical/glyph review passed and promoted;
+- scan **334 / WFV-051** and scan **336 / WFV-052** — no lexical edit applied;
+- scan **331 / C14-004** and scan **340 / C14-005** — prior user rulings preserved exactly;
+- scan **331** — source-visible dash restored in `பூட்டினாற்போல் - இன்னும்`;
+- scans **335 and 339** — full-page illustrations verified;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R34_SCANS_331_340.md`.
+
+## Restart R35 — scans 341–350
+
+**Status: COMPLETE / PASS WITH LEXICAL HOLD**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_007_pages_301-350.pdf`, physical scans 341–350
+- reviewed scans: **341–350 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy row: **1** — WFV-053
+- unresolved new lexical page: **1** — scan 342
+- source-supported non-lexical correction: **scan 345 dash placement**
+- page-status promotions: **9**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### New R35 WFV row
+
+| ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
+|---|---:|---:|---|---|---|---|
+| WFV-053 | 342 | 330 | `அடைபட்ட கண்ணீர், அணை உடைத்ததத்தான்” என்றாள்.` | source visibly reads `அடைபட்ட கண்ணீர், அணை உடைத்ததுதான்” என்றாள்.` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 342 remains needs-review** |
+
+### R35 findings
+
+- scans **341, 343–350** — full lexical/glyph review passed and promoted;
+- scan **342 / WFV-053** — no lexical edit applied;
+- scan **345** — source-visible dash after `அச்சடித்த தமிழ்ப்பதுமை -` restored without lexical change;
+- scans **343 and 349** — full-page illustrations verified;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R35_SCANS_341_350.md`.
+
 ### Exact next audit range
 
-**R34 + R35 — scans 331–350, 20 pages in the user-requested iteration cadence.**
+**R36 + R37 — scans 351–370, 20 pages in the user-requested iteration cadence.**

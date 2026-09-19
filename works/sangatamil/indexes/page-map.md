@@ -114,7 +114,12 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 318–322 | printed 306, 308–310 with scan-319 illustration | `கள் உண்ட கடுவன்!` | **R32/R33 complete / all five verified; C13-007 scan-321 preserved** |
 | 323–327 | printed 311–312, 314–315 with scan-325 illustration | `ஒரு கோடி வாழ்த்துக் கூறிடுவோம்!` | **R33 complete / scans 323, 325–327 verified; scan 324 needs-review on WFV-050; C14-001/C14-002 preserved** |
 | 328–330 | printed 316, 318 with scan-329 illustration | start of `வீரனைப் பாடிய சேரன்!` | **R33 complete / all three verified; C14-003 heading preserved; continues at scan 331** |
-| 331–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
+| 331–332 | printed 319–320 | end of `வீரனைப் பாடிய சேரன்!` | **R34 complete / both verified; C14-004 scan-331 preserved** |
+| 333–337 | printed 321–322, 324–325 with scan-335 illustration | `உற்றுழி உதவி உறுபொருள் கொடுத்திடுக!` | **R34 complete / scans 333, 335, 337 verified; scans 334 and 336 needs-review on WFV-051/WFV-052** |
+| 338–341 | printed 326, 328–329 with scan-339 illustration | `தமிழ் நெஞ்சங்கள் போற்றிய தலையாலங்கானத்தான்!` | **R34/R35 complete / all four verified; C14-005 scan-340 preserved** |
+| 342–346 | printed 330, 332–334 with scan-343 illustration | `சென்று வா மகனே; செருமுனை நோக்கி!` | **R35 complete / scans 343–346 verified; scan 342 needs-review on WFV-053** |
+| 347–350 | printed 335–336, 338 with scan-349 illustration | start of `புதுப் பாட்டுப் புலவன்!` | **R35 complete / all four verified; continues at scan 351** |
+| 351–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
 | 497 | — | back cover / end matter | **Gate D closed / physical endpoint** |
 
 ## Important controls
