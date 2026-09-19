@@ -39,7 +39,7 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 16 | — | internal `சங்கத் தமிழ்` title leaf | `verified` |
 | 17–19 | printed 2–4 | `மலர்மாரி பொழிகின்றேன்!` | **section complete / verified** |
 | 20–24 | printed 5–9 with scan-22 illustration | `யாதும் ஊரே; யாவரும் கேளிர்!` | **section complete / verified** |
-| 25–30 | printed 10–15 with scan-26 illustration | `மானங்காத்த மறவன்!` | **section complete / verified** |
+| 25–30 | printed 10–15 with scan-26 illustration | `மானங்காத்த மறவன்!` | **R03 source re-audit: scans 26–29 verified; scans 25 and 30 `needs-review` / visual `needs-review` for WFV-006 through WFV-008; 0 lexical mutations** |
 | 31–36 | printed 16–21 with scan-32 illustration | `துணை நின்றாள் தோழி!` | **Gemini-assisted regression reconciliation complete; text scans 31, 33–36 reopened `needs-review`; scan 32 illustration remains `verified`** |
 | 37–41 | printed 22–26 with scan-38 illustration | `சுமந்தவன் சுமந்த சோகம்!` | **section complete / verified under earlier workflow; subject to later systematic Pass 2/3 sweep** |
 | 42–46 | printed 27–31 with scan-44 illustration | `பாவை புகழ்ந்த பன்றி` | **section complete / verified under earlier workflow; subject to later systematic Pass 2/3 sweep** |
