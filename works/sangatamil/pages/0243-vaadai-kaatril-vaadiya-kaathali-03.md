@@ -4,8 +4,8 @@ printed_page: "230"
 work: "sangatamil"
 section: "வாடைக் காற்றில் வாடிய காதலி!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
@@ -14,12 +14,12 @@ continues_to_scan: 244
 ---
 'நாக்கு நுனியிரண்டும் பிணைந்து மீண்ட பின்னர்  
 வாக்குத் தவறாதீர் அத்தான்" என்று  
-கண்ணிரண்டின் கடை விழியும் ;  
+கண்ணிரண்டின் கடை விழியும்;  
 மின்னுகின்ற துளிகளுடன் - அவனை  
 வழியனுப்பி வைத்த காட்சிக்கு; வான்பிறை போல்  
 வடுக்களாய் நிலைத்துவிட்ட அவன் நகக்குறி பற்குறியே சாட்சி!  
-சாட்சிகள் இத்தனை இருந்தென்ன ;  
-சத்தியம் அத்தனை செய்தென்ன ;  
+சாட்சிகள் இத்தனை இருந்தென்ன;  
+சத்தியம் அத்தனை செய்தென்ன;  
 கோடையில் இளநீர் போன்றவளை  
 கூடிக் களித்திடக் கோமகனும்,  
 வாடைநாள் வந்தும் வரவில்லை - அவளோ  
@@ -49,7 +49,7 @@ continues_to_scan: 244
 விழியிரண்டுக்கும் வெட்கமில்லை என்பேன்  
 விரல்விட்டு நாள் எண்ணி வரும் வேளை குறித்து - அவன்  
 விடை கேட்டபோது  
-சரியென்று ஒப்பிவிட்டு;இன்று - இமய  
+சரியென்று ஒப்பிவிட்டு; இன்று - இமய  
 கிரி விட்டு வழிகின்ற நதிபோல அழுதென்ன பயன்?  
 
 <!-- Gate B excludes stray File5 numeric `66` / quote-marker debris, restores locked `அது` to its source-supported carryover, and re-lineates the Kurunthokai verse. -->

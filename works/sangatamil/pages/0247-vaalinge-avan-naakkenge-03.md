@@ -4,8 +4,8 @@ printed_page: "234"
 work: "sangatamil"
 section: "வாளிங்கே-அவன் நாக்கெங்கே?"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
@@ -35,7 +35,7 @@ continues_to_scan: 248
 வீணை நரம்பினிலே இசை துடிக்கும்  
 அதுவும் மானம் மானமென்றே முழக்கும்!  
 மாற்றார்க்கு மண்டியிட்டு வாழுகின்ற  
-மானமற்ற வம்சமா நீ  
+மானமற்ற வம்சமா நீ -  
 ஏடா  
 மறத் தமிழ்க் குடியிலே மாசு தூவி விட்டாய்  
 மார்பு கொடுத்தேன்  
@@ -44,7 +44,7 @@ continues_to_scan: 248
 திமிர் பாய்ந்த தோள்களெங்கே?  
 தினவெடுக்கவில்லையா? அந்தோ! பகைவர்  
 வேலுக்கு வழி சொல்ல வகையற்ற  
-கோழையே  
+கோழையே -  
 என் வீரப்  
 பாலுக்கு வழி சொல்வாய்!  
 என்று கதறினாள்  

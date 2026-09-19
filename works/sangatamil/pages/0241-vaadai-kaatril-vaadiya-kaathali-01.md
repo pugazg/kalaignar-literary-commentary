@@ -4,8 +4,8 @@ printed_page: "228"
 work: "sangatamil"
 section: "வாடைக் காற்றில் வாடிய காதலி!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
@@ -38,7 +38,7 @@ continues_to_scan: 243
 புகல்வதுகேள்; பூங்குயிலே!  
 போர்முனையில் வில், வேல், வாள் எனும்  
 ஏர்பூட்டி வெற்றி விளைச்சல் நடத்திவிட்டு  
-வாடைநாள் தொடங்கு முன்னர்,வடிவழகே!  
+வாடைநாள் தொடங்கு முன்னர், வடிவழகே!  
 ஓடைமலர் உனைக்காண ஓடிவருகின்றேன்''  
 <div align="right">என</div>  
 நாள் குறித்து நான்மகிழ உறுதிமொழி  
