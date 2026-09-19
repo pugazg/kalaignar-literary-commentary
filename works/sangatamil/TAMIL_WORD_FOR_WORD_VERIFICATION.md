@@ -46,16 +46,16 @@ Historical Gate-G baseline:
 - `needs-review` — **453**
 - `partial` — **1**
 
-Current state after R06 scans 51–60:
+Current state after R07 scans 61–70:
 
-- `verified` — **55**
-- `needs-review` — **441**
+- `verified` — **62**
+- `needs-review` — **434**
 - `partial` — **1**
-- visual `verified` — **55**
-- visual `needs-review` — **442**
+- visual `verified` — **62**
+- visual `needs-review` — **435**
 - blocked — **0**
 
-R01–R06 changed **0 lexical words**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** on scan **49**; R06 discovered **1** on scan **55**. All disputed lexical wording remains unchanged.
+R01–R07 changed **0 lexical words**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** on scan **49**; R06 discovered **1** on scan **55**; R07 reconfirmed WFV-002 and WFV-003 and discovered new WFV-011 on scan **67**. All disputed lexical wording remains unchanged.
 
 ## R01 — scans 1–10
 
@@ -164,18 +164,37 @@ Results:
 - prior C2 rulings on scans **51, 53, 58 and 59** preserved;
 - whole-volume state now **55 verified / 441 needs-review / 1 partial**.
 
+## R07 — scans 61–70
+
+**COMPLETE / PASS WITH LEXICAL HOLDS**
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R07_SCANS_061_070.md`
+
+Results:
+
+- scans **61–70** — full restart audit completed at enlarged/native resolution;
+- reconfirmed pre-restart rows — **2**: WFV-002 and WFV-003;
+- new lexical discrepancy rows — **1**: WFV-011;
+- unresolved lexical pages in this batch — **3**: scans **62, 67, 69**;
+- canonical lexical substitutions — **0**;
+- source-supported non-lexical body corrections — **0**;
+- page-status promotions — **7**: scans **61, 63–66, 68, 70**;
+- scan **62** — WFV-002 refined/reconfirmed as a `தனது` token-placement discrepancy; canonical wording/placement unchanged;
+- scan **67** — canonical `தேர்ஏறி!` held against source-visible `தேரேறி!`;
+- scan **69** — WFV-003 reconfirmed: canonical `தலைமகனாம் என் கணவர்` vs source `தலைமகனும் என் கணவர்`;
+- prior C2 rulings on scans **64 and 70** preserved;
+- whole-volume state now **62 verified / 434 needs-review / 1 partial**.
+
 ## Pre-restart Part002 candidate rows
 
 The earlier interrupted Part002 review is **not counted as completed restart coverage**.
 
-WFV-002 through WFV-005 remain ledger-only candidate holds and must be **reconfirmed when their 10-page restart batches are reached**:
+WFV-002 and WFV-003 have now been **R07 reconfirmed / pending user adjudication**. The remaining interrupted-cadence candidates are:
 
-- WFV-002 — scan 62
-- WFV-003 — scan 69
 - WFV-004 — scan 83
 - WFV-005 — scan 91
 
-Do not change those words before re-audit + user adjudication.
+Do not change any pending lexical wording before re-audit + user adjudication.
 
 ## 10-page iteration plan
 
@@ -187,8 +206,8 @@ Do not change those words before re-audit + user adjudication.
 | R04 | 31–40 | **COMPLETE / PASS** |
 | R05 | 41–50 | **COMPLETE / PASS WITH LEXICAL HOLD** |
 | R06 | 51–60 | **COMPLETE / PASS WITH LEXICAL HOLD** |
-| R07 | 61–70 | **NEXT** |
-| R08 | 71–80 | pending |
+| R07 | 61–70 | **COMPLETE / PASS WITH LEXICAL HOLDS** |
+| R08 | 71–80 | **NEXT** |
 | R09 | 81–90 | pending |
 | R10 | 91–100 | pending |
 | R11–R49 | 101–490 | pending in 10-scan cadence |
@@ -196,9 +215,9 @@ Do not change those words before re-audit + user adjudication.
 
 ## Exact next activity
 
-Process **R07 — scans 61–70** from the supplied Part002 PDF.
+Process **R08 — scans 71–80** from the supplied Part002 PDF.
 
-At R07 close:
+At R08 close:
 
 - inspect all 10 scans at enlarged/native resolution;
 - apply the historical-glyph guide;
