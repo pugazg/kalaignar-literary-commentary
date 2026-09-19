@@ -109,7 +109,12 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 299–302 | printed 287–288, 290 with scan-301 illustration | `உண்பது நாழி; உடுப்பவை இரண்டே!` | **R30/R31 complete / all four verified** |
 | 303–308 | printed 291–292, 294–296 with scan-305 illustration | `பரிபாடல்- பன்மலர்ப் பூங்கா!` | **R31 complete / all six verified; C13-001/C13-002 preserved** |
 | 309–310 | printed 297–298 | start of `முரசு கட்டிலில் மோசுகீரனார்!` | **R31 complete / both verified; C13-003 heading preserved; continues at scan 311** |
-| 311–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
+| 311–313 | printed 300–301 with scan-311 illustration | end of `முரசு கட்டிலில் மோசுகீரனார்!` | **R32 complete / all three verified; C13-004..006 preserved** |
+| 314–317 | printed 302, 304–305 with scan-315 illustration | `அடையாளம் தெரியாமல் அலையுதோ நெஞ்சம்!` | **R32 complete / all four verified** |
+| 318–322 | printed 306, 308–310 with scan-319 illustration | `கள் உண்ட கடுவன்!` | **R32/R33 complete / all five verified; C13-007 scan-321 preserved** |
+| 323–327 | printed 311–312, 314–315 with scan-325 illustration | `ஒரு கோடி வாழ்த்துக் கூறிடுவோம்!` | **R33 complete / scans 323, 325–327 verified; scan 324 needs-review on WFV-050; C14-001/C14-002 preserved** |
+| 328–330 | printed 316, 318 with scan-329 illustration | start of `வீரனைப் பாடிய சேரன்!` | **R33 complete / all three verified; C14-003 heading preserved; continues at scan 331** |
+| 331–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
 | 497 | — | back cover / end matter | **Gate D closed / physical endpoint** |
 
 ## Important controls

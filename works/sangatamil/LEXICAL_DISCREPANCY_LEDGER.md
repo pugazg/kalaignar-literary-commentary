@@ -2633,6 +2633,70 @@ No canonical lexical word or character was changed.
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R31_SCANS_301_310.md`.
 
+## Restart R32 — scans 311–320
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_007_pages_301-350.pdf`, physical scans 311–320
+- reviewed scans: **311–320 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **0**
+- unresolved new lexical pages: **0**
+- source-supported non-lexical body corrections: **0**
+- page-status promotions: **10**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R32 findings
+
+- scans **311–320** — full lexical/glyph review passed and promoted;
+- scan **312 / C13-004** — exact user reading `குளிர் சாமரம் வீசுகின்ற காட்சி என்னே? என்றயர்ந்தார்` preserved;
+- scan **312 / C13-005** — `நான் செய்த தொண்டு இஃதெ` preserved;
+- scan **313 / C13-006** — `அதூவும் சாலும், நற் றமிழ் முழுது அறிதல்;` preserved;
+- scans **311, 315 and 319** — full-page illustrations verified;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R32_SCANS_311_320.md`.
+
+## Restart R33 — scans 321–330
+
+**Status: COMPLETE / PASS WITH LEXICAL HOLD**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_007_pages_301-350.pdf`, physical scans 321–330
+- reviewed scans: **321–330 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy row: **1** — WFV-050
+- unresolved new lexical page: **1** — scan 324
+- source-supported non-lexical body corrections: **0**
+- page-status promotions: **9**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### New R33 WFV row
+
+| ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
+|---|---:|---:|---|---|---|---|
+| WFV-050 | 324 | 312 | `அழகுறவே அலுவல்களை அயர்வின்றி ஆற்றும் பாங்கும்;` | source visibly reads `அழகுறவே அலுவல்களே அயர்வின்றி ஆற்றும் பாங்கும்;` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 324 remains needs-review** |
+
+### R33 findings
+
+- scans **321–323, 325–330** — full lexical/glyph review passed and promoted;
+- scan **324 / WFV-050** — source-visible `அலுவல்களே` differs from canonical `அலுவல்களை`; no lexical edit applied;
+- scan **321 / C13-007** — second `இவ்வாறு` preserved before `கபிலர் மலை நாட்டுச் செழுமையினை...`;
+- scan **326 / C14-001** — restored `என்றார்!` remains preserved;
+- scan **326 / C14-002** — source/canonical `கடையும்போது கயிற்றால் எழுகின்ற ஒலியோ - ஒரு / காட்டில் உறுமுகின்ற புலிபோல...` remains preserved;
+- scan **328 / C14-003** — exact heading `வீரனைப் பாடிய / சேரன்!` remains preserved;
+- scans **325 and 329** — full-page illustrations verified;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R33_SCANS_321_330.md`.
+
 ### Exact next audit range
 
-**R32 + R33 — scans 311–330, 20 pages in the user-requested iteration cadence.**
+**R34 + R35 — scans 331–350, 20 pages in the user-requested iteration cadence.**
