@@ -6,14 +6,14 @@ section: "மானங்காத்த மறவன்!"
 page_type: "poetry"
 status: "verified"
 visual_fidelity: "verified"
-visual_notes: "running header; continuous verse blocks; later pencil arrows/marks excluded from body text; user C2 adjudication preserves Gemini நானோ while correcting the source-visible placement of மனப்"
+visual_notes: "running header; continuous verse blocks; later pencil arrows/marks excluded from body text; user C2 adjudication preserves Gemini நானோ while correcting the source-visible placement of மனப்; R03 restores the source trailing dash after அழைத்து and the standalone இப்படி line"
 language: "ta"
 transcription_method: "Gemini wording retained with user-authorized Gate C2 structural placement correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
 தாகம் ஒருநாள் அவன் நாவை உலர்த்த - சிறைக்  
-காவல் வீரனை அருகே அழைத்து  
+காவல் வீரனை அருகே அழைத்து -  
 தண்ணீர் விரைவில் கொணர்க என்றான் - சற்றுத்  
 தாமதமாகக் குவளையில் தண்ணீர்  
 கொண்டு வந்து கொடுத்ததினாலே - நெருப்பை  
@@ -47,7 +47,8 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 உன் மடிதனிலே விழுகின்றேன்;  
 தாங்கிக் கொள்க!”
 
-இப்படி ஏழடிப் புறப்பாடல் ஒன்றை எழுதிவிட்டு - சிங்க  
+இப்படி  
+ஏழடிப் புறப்பாடல் ஒன்றை எழுதிவிட்டு - சிங்க  
 ஏறுபோல் சேரமன்னன் பெயரைப் புகழில் நட்டான்!
 
 <!-- Gate C2 / user manual review: `வந்துதித்த நானோ` retained as Gemini-correct; `மனப்` moved to its source-supported position before `புண்பட்டு`. -->
