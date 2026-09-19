@@ -332,12 +332,26 @@ R29 scans **281–290 — COMPLETE / PASS WITH LEXICAL HOLDS**:
 - page-status promotions — **7**;
 - protected C12-001, C12-002 and C12-003 on scans **281, 288 and 290** preserved.
 
+R30 scans **291–300 — COMPLETE / PASS WITH LEXICAL HOLD**:
+- new lexical discrepancy row — **1** (WFV-049);
+- unresolved page — scan **294**;
+- canonical lexical substitutions — **0**;
+- page-status promotions — **9**;
+- protected C12-004/C12-005/C12-006 on scans **292, 294 and 296** preserved.
+
+R31 scans **301–310 — COMPLETE / PASS**:
+- new lexical discrepancy rows — **0**;
+- unresolved pages — **0**;
+- canonical lexical substitutions — **0**;
+- page-status promotions — **10**;
+- protected C13-001/C13-002/C13-003 on scans **304, 307 and 309** preserved.
+
 Current whole-volume Tamil state:
-- `verified` — **253**
-- `needs-review` — **243**
+- `verified` — **272**
+- `needs-review` — **224**
 - `partial` — **1**
-- current restart coverage — **290/497**
-- exact next iteration — **R30 + R31 scans 291–310 (20 pages)**
+- current restart coverage — **310/497**
+- exact next iteration — **R32 + R33 scans 311–330 (20 pages)**
 
 Gate D — COMPLETE / PASS:
 - physical scans — 497/497
@@ -391,9 +405,9 @@ Gate G — **COMPLETE / PASS**:
 - required metadata field presence after repair — **497/497**
 - demonstrable defects repaired — **11 missing `visual_fidelity` fields**
 - Gate-G historical `status` distribution — **43 verified / 453 needs-review / 1 partial**
-- current restart-R29 state — **253 verified / 243 needs-review / 1 partial**
+- current restart-R31 state — **272 verified / 224 needs-review / 1 partial**
 - Gate-G historical `visual_fidelity` distribution — **43 verified / 454 needs-review / 0 missing**
-- current restart-R29 visual-fidelity state — **253 verified / 244 needs-review / 0 missing**
+- current restart-R31 visual-fidelity state — **272 verified / 225 needs-review / 0 missing**
 - canonical wording changes — **0**
 - unresolved Gate-G inconsistencies — **0**
 - durable report — `GATE_G_METADATA_STATUS_AUDIT.md`
