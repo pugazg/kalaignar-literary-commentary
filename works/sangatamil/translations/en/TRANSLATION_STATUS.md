@@ -255,7 +255,21 @@ R33:
 - Tamil status promotions — **9** clean pages;
 - English page wording/status changes from R33 — **0**.
 
-Current Tamil state is **291 verified / 205 needs-review / 1 partial**. Exact next Tamil iteration is **R34 + R35 scans 331–350 (20 pages)**.
+R34:
+- canonical lexical substitutions — **0**;
+- new lexical discrepancy rows — **2** (WFV-051 through WFV-052);
+- unresolved Tamil pages — **334, 336**;
+- Tamil status promotions — **8** clean pages;
+- English page wording/status changes from R34 — **0**.
+
+R35:
+- canonical lexical substitutions — **0**;
+- new lexical discrepancy row — **1** (WFV-053);
+- unresolved Tamil page — **342**;
+- Tamil status promotions — **9** clean pages;
+- English page wording/status changes from R35 — **0**.
+
+Current Tamil state is **308 verified / 188 needs-review / 1 partial**. Exact next Tamil iteration is **R36 + R37 scans 351–370 (20 pages)**.
 
 The English release-report gate remains **PAUSED** until the restarted Tamil audit and any eventual user-adjudicated lexical impacts are reconciled. Do not promote any English page to `release-ready` during this pause.
 
@@ -272,8 +286,8 @@ The Sangatamil Tamil archival pipeline is closed through Gates A–I.
 
 Current Tamil page state during the restarted audit:
 
-- `verified` — **291**
-- `needs-review` — **205**
+- `verified` — **308**
+- `needs-review` — **188**
 - `partial` — **1** (scan 8)
 
 English work does not alter or promote those Tamil statuses.
