@@ -64,7 +64,11 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 116–120 | printed 101–105 with scan-118 illustration | `மயங்கா மார்புடை மறவன் நீயே!` | **R12 source re-audit PASS / all five verified; protected scan-120 `ஊன்பொழிப் பசுங்குடையார்` retained** |
 | 121–125 | printed 106–110 with scan-122 illustration | `வண்டு வந்தது ஏனடி?` | **R13 source re-audit PASS / all five verified; scan-123 user-authorized restored opening prose preserved** |
 | 126–130 | printed 111–115 with scan-128 illustration | `வலவன் ஏவா வான ஊர்தி!` | **R13 source re-audit PASS / all five verified; C2-06 contains no discrepancy records; 0 lexical discrepancies** |
-| 131–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
+| 131–136 | printed 116–121 with scan-132 illustration | `தேனாகச் சொட்டும் : தேளாகக் கொட்டும்!` | **R14 source re-audit PASS / all six verified; prior extraction-debris exclusions preserved; 0 lexical discrepancies** |
+| 137–142 | printed 122–127 with scan-138 illustration | `இளையோன் எதற்கும் இளையான்!` | **R14/R15 source re-audit PASS / all six verified; section identity and quotation/gloss structure preserved; 0 lexical discrepancies** |
+| 143–147 | scan-143 two-page spread; printed 130–133 visible after opener | `குக்கூ! என்றது கோழி!` | **R15 source re-audit PASS / all five verified; spread structure and prior extraction-debris exclusions preserved** |
+| 148–150 | scan-148 two-page illustrated opener; printed 136–137 visible on scans 149–150 | start of `கவிஞர்கள் தெளித்த பன்னீரும் வடித்த கண்ணீரும்!` | **R15 source re-audit PASS / scans 148–150 verified; scan-149 `மன்னன்!` placement and scan-150 `பட்டமும்` boundary preserved** |
+| 151–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
 | 497 | — | back cover / end matter | **Gate D closed / physical endpoint** |
 
 ## Important controls
