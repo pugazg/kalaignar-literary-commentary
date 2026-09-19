@@ -56,8 +56,8 @@ Earlier Gate-B/C/F checkpoints remain historical evidence only. Later commits ma
 - Gate H — **COMPLETE / PASS — 104 sections / 115 formal units / 4 note-only / 119 provenance leaves / 0 canonical page changes**
 - Gate I — **COMPLETE / PASS — final synchronization / closure**
 - Gate-G historical page status distribution — **43 verified / 453 needs-review / 1 partial**
-- current Tamil re-audit state after R13 — **117 verified / 379 needs-review / 1 partial**
-- current visual-fidelity state after R13 — **117 verified / 380 needs-review / 0 missing**
+- current Tamil re-audit state after R15 — **137 verified / 359 needs-review / 1 partial**
+- current visual-fidelity state after R15 — **137 verified / 360 needs-review / 0 missing**
 - user-directed Tamil word-for-word verification — **IN PROGRESS**
 - restart R01 scans **1–10** — **COMPLETE / PASS — 0 new lexical discrepancies / WFV-001 rejected / scan8 partial**
 - restart R02 scans **11–20** — **COMPLETE / PASS — 0 new lexical discrepancies / 0 lexical substitutions / 0 page-layer mutations**
@@ -72,11 +72,13 @@ Earlier Gate-B/C/F checkpoints remain historical evidence only. Later commits ma
 - restart R11 scans **101–110** — **COMPLETE / PASS — 0 new lexical discrepancies / 0 lexical substitutions / 10 status promotions**
 - restart R12 scans **111–120** — **COMPLETE / PASS — 0 new lexical discrepancies / 0 lexical substitutions / 3 metadata alignments / 10 status promotions**
 - restart R13 scans **121–130** — **COMPLETE / PASS — 0 new lexical discrepancies / 0 lexical substitutions / 10 status promotions**
+- restart R14 scans **131–140** — **COMPLETE / PASS — 0 new lexical discrepancies / 0 lexical substitutions / 10 status promotions**
+- restart R15 scans **141–150** — **COMPLETE / PASS — 0 new lexical discrepancies / 0 lexical substitutions / 10 status promotions**
 - whole-volume word-for-word completion — **NOT YET CLAIMED**
 
 The mixed page-level statuses are intentional. Gate C2 resolved all recorded Gate-C discrepancies but did not perform a fresh exhaustive token-by-token reread of every source word.
 
-**Exact active Tamil activity: restarted Gemini-locked word-for-word + historical-glyph re-audit in 10-page iterations.** R01 scans **1–10** through R13 scans **121–130** are complete. The user's 20-page continuation processed R12 and R13 together. R12 closed **PASS** with 0 new lexical discrepancies, 0 lexical substitutions, 10 status promotions, and 3 source-supported metadata alignments on scans 113–115 to the exact user-adjudicated heading `புரிந்துகொண்டான்; பிரிந்துசென்றார்!`. R13 closed **PASS** with 0 new lexical discrepancies, 0 lexical substitutions, and 10 status promotions; the scan-123 restored source prose was preserved and C2-06 scans 126–130 remained a no-discrepancy range. **No lexical mutation was made.** Current state is **117 verified / 379 needs-review / 1 partial**. Exact next range is **R14 scans 131–140** from Part003 / the controlling user-supplied source.
+**Exact active Tamil activity: restarted Gemini-locked word-for-word + historical-glyph re-audit.** The user has now fixed the execution cadence at **20 pages per iteration**, while durable reporting remains in 10-scan R batches. R01 scans **1–10** through R15 scans **141–150** are complete. The latest 20-page iteration processed R14 and R15 together. Both closed **PASS** with **0 new lexical discrepancies**, **0 lexical substitutions**, and **20 status promotions** total. Scan-143 and scan-148 spread structures were verified; scan-149 `மன்னன்!` placement and scan-150 `பட்டமும்` physical boundary remain intact. **No lexical mutation was made.** Current state is **137 verified / 359 needs-review / 1 partial**. Exact next iteration is **R16 + R17 scans 151–170 (20 pages)** using Part004 / the controlling user-supplied source.
 
 Mandatory companion control: `works/sangatamil/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Inspect difficult glyphs at enlarged/native resolution, check the 13 known families, and compare same-edition evidence. **Do not correct lexical words directly**: every new lexical/glyph difference goes to `LEXICAL_DISCREPANCY_LEDGER.md` and awaits explicit user adjudication.
 
