@@ -1613,12 +1613,16 @@ Non-lexical observations from the same review, such as token placement, lineatio
 
 Higher-resolution review rejected earlier provisional suspicions on scans **59, 73, 78 and 79**; no new lexical discrepancy row is created for those scans.
 
-## Current exact frontier
+## Historical pre-restart frontier
 
-- Part001 scans **1–50** — audit complete; scan 7 remains a lexical hold.
-- Part002 scans **51–96** — compared.
-- Part002 scans **97–100** — exact next review range.
-- canonical lexical page changes authorized by these WFV rows — **0**.
+The following was the interrupted pre-restart frontier and is retained only as historical context:
+
+- Part001 scans **1–50** — compared under the earlier interrupted cadence; scan 7 was then held;
+- Part002 scans **51–96** — compared;
+- Part002 scans **97–100** — was the next range under that superseded cadence;
+- canonical lexical page changes authorized by those WFV rows — **0**.
+
+The 2026-09-19 restart supersedes that coverage claim. R01 later **rejected WFV-001** on scan 7. Restart coverage is counted only through the completed 10-scan R batches below.
 
 
 ## Restart R01 — scans 1–10
@@ -1648,6 +1652,35 @@ Higher-resolution review rejected earlier provisional suspicions on scans **59, 
 
 The attached historical-glyph guide was used to distinguish **character identity** from modern visual resemblance. Under the project-specific user rule, even a future glyph-identity disagreement must first be ledgered and must **not** be directly applied to canonical wording without explicit adjudication.
 
+## Restart R02 — scans 11–20
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-19**
+- source: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_001_pages_1-50.pdf`
+- cadence: **10 physical scans per iteration**
+- reviewed scans: **11–20 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **0**
+- source-supported non-lexical page corrections: **0**
+- page-layer mutations: **0**
+- historical-glyph review control: `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R02 findings
+
+- scan **11** — C01-005 / C2-01 user ruling `ஆண்பாலர் பதினால்வர்` remains protected; no new discrepancy;
+- scan **12** — printed prose and two-column title list re-audited; later pencil annotation remains non-body material;
+- scan **13** — C01-006 and C01-007 / C2-01 user rulings remain protected; no new discrepancy;
+- scans **14–18** — no new lexical/glyph discrepancy; scan 15 remains a blank leaf and scan 18 remains a full-page illustration;
+- scan **19** — C01-008 / C2-01 user ruling `அரும்பு, அமர் ஆத்தி` remains protected; no new discrepancy;
+- scan **20** — the old-type cluster in canonical `கூறாக` was confirmed as historical `றா` identity under enlarged review; this is not a lexical discrepancy and no WFV row is created.
+
+No prior C2 adjudication was reopened. No canonical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R02_SCANS_011_020.md`.
+
 ### Exact next audit range
 
-**R02 — scans 11–20.**
+**R03 — scans 21–30.**
