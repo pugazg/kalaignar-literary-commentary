@@ -87,7 +87,12 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 222–225 | printed 209–210, 212 with scan-224 illustration | `இங்கே வேண்டாம்... தங்கை இருக்கின்றாள்!` | **R23 complete / all four verified; C09-003 placement preserved** |
 | 226–229 | printed 213–214, 216 with scan-228 illustration | `பாரி மகளிர் பாடிய செய்யுள்` | **R23 complete / scans 226, 228–229 verified; scan 227 needs-review on WFV-030/WFV-031; C10-001 heading preserved** |
 | 230 | printed 217 | start of `தாமரைப் பொய்கையில் (?) தவழ்ந்தது நிலவு!` | **R23 complete / needs-review on WFV-032; C10-002 preserved** |
-| 231–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
+| 231–235 | printed 218, 220–222 with scan-232 illustration | continuation/end of `தாமரைப் பொய்கையில் (?) தவழ்ந்தது நிலவு!` | **R24 complete / scans 232, 234–235 verified; scans 231 and 233 needs-review on WFV-033..039** |
+| 236–240 | printed 223–224, 226–227 with scan-238 illustration | `காட்டில் பிறந்த கவிதை!` | **R24 complete / all five verified; C10-003 and C10-004 preserved** |
+| 241–244 | printed 228, 230–231 with scan-242 illustration | `வாடைக் காற்றில் வாடிய காதலி!` | **R25 complete / all four verified** |
+| 245–248 | printed 232, 234–235 with scan-246 illustration | `வாளிங்கே-அவன் நாக்கெங்கே?` | **R25 complete / scans 245–247 verified; scan 248 needs-review on WFV-040; C10-005 preserved** |
+| 249–250 | printed 236 with scan-250 illustration | start of `குறளனுக்கோர் கூனியுண்டு!` | **R25 complete / both verified; continues at scan 251** |
+| 251–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
 | 497 | — | back cover / end matter | **Gate D closed / physical endpoint** |
 
 ## Important controls

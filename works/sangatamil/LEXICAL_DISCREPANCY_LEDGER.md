@@ -2366,6 +2366,78 @@ No canonical lexical word or character was changed.
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R23_SCANS_221_230.md`.
 
+## Restart R24 — scans 231–240
+
+**Status: COMPLETE / PASS WITH LEXICAL HOLDS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_005_pages_201-250.pdf`, physical scans 231–240
+- reviewed scans: **231–240 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **7** — WFV-033 through WFV-039
+- unresolved new lexical pages: **2** — scans 231, 233
+- source-supported non-lexical body corrections: **2 page files** — scans 234, 240
+- page-status promotions: **8**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### New R24 WFV rows
+
+| ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
+|---|---:|---:|---|---|---|---|
+| WFV-033 | 231 | 218 | canonical places `கருவிழிகள் நீர்மேல் மிதக்க அவனைத் தடுத்துப் பார்த்தாள்!` before `திருமலியும் முகமுடைய பெருங்கோப் பெண்டு` | source places `திருமலியும் முகமுடைய பெருங்கோப் பெண்டு` before the `கருவிழிகள்...` line | `token-order / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical order unchanged; scan 231 remains needs-review** |
+| WFV-034 | 231 | 218 | canonical contains a standalone `பின்` before `சாய்த்திடவோ; பின்` | source supports only the `பின்` in `சாய்த்திடவோ; பின்` | `extra-canonical-token / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; same scan-231 hold** |
+| WFV-035 | 231 | 218 | canonical places existing `இந்த` after `குவித்துக் கொண்டிருக்கும் உதடுகளும் இரு குன்றுகளும்` | source places `இந்த` after `அத்தான் —` before `மணற்பரப்பில்` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — token not moved; same scan-231 hold** |
+| WFV-036 | 231 | 218 | canonical places existing `என்` immediately before `தேனே, மானே...` | source places `என்` after `மாற்றாரைப் புறங்காணச் செய்யுங்கள் —` before `மடிமீது` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — token not moved; same scan-231 hold** |
+| WFV-037 | 231 | 218 | `மடிமீது தலைவைத்து விழுப்புண்களுக்கு மருந்து பெறத்` | source visibly reads `மடிமீது தலைவைத்து விழுப்புண்களுக்கு மருந்து பெற்ற` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; same scan-231 hold** |
+| WFV-038 | 233 | 220 | canonical begins page with `அன்றிப் / போர் புரிந்து வெற்றி காண்போம்` | source places `அன்றிப்` after `போர் புரிந்து வெற்றி காண்போம்` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — token not moved; scan 233 remains needs-review** |
+| WFV-039 | 233 | 220 | canonical places `பெயர் எடுப்பேன்!` after `மாசு வந்து என்னைப் பற்றிக்கொள்ள;` | source places `பெயர் எடுப்பேன்!` immediately after `ஆழ்ந்த நட்பாளர் அனைவரையும் இழந்திட்ட பாவியெனும்` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — token not moved; same scan-233 hold** |
+
+### R24 findings
+
+- scans **232, 234–240** — full lexical/glyph review passed and promoted;
+- scans **231 and 233** — WFV-033 through WFV-039 opened; no lexical edit or material token move applied;
+- scan **237 / C10-003** and scan **240 / C10-004** — prior user adjudications preserved exactly;
+- scans **232 and 238** — full-page illustrations verified;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R24_SCANS_231_240.md`.
+
+## Restart R25 — scans 241–250
+
+**Status: COMPLETE / PASS WITH LEXICAL HOLD**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_005_pages_201-250.pdf`, physical scans 241–250
+- reviewed scans: **241–250 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **1** — WFV-040
+- unresolved new lexical pages: **1** — scan 248
+- source-supported non-lexical body corrections: **3 page files** — scans 241, 243, 247
+- page-status promotions: **9**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### New R25 WFV row
+
+| ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
+|---|---:|---:|---|---|---|---|
+| WFV-040 | 248 | 235 | glossary ends `சிதைந்து வேறாகிய படுமகன் = விழுப்புண் பெற்றுக் கிடக்கும்` | source visibly continues `சிதைந்து வேறாகிய படுமகன் = விழுப்புண் பெற்றுக் கிடக்கும் / மகன்.` | `missing-source-token / likely-gemini-error` | **PENDING USER ADJUDICATION — final `மகன்.` not inserted; scan 248 remains needs-review** |
+
+### R25 findings
+
+- scans **241–247, 249–250** — full lexical/glyph review passed and promoted;
+- scan **248 / C10-005** — restored `வயிறுடைய கிழவி.` and `மாண்டான்.` remain preserved exactly;
+- scan **248 / WFV-040** — source glossary has final `மகன்.`; canonical remains unchanged pending user adjudication;
+- scans **242, 246 and 250** — full-page illustrations verified;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R25_SCANS_241_250.md`.
+
 ### Exact next audit range
 
-**R24 + R25 — scans 231–250, 20 pages in the user-requested iteration cadence.**
+**R26 + R27 — scans 251–270, 20 pages in the user-requested iteration cadence.**
