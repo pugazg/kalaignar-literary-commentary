@@ -6,7 +6,7 @@ section: "யாதும் ஊரே; யாவரும் கேளிர்
 page_type: "poetry"
 status: "verified"
 visual_fidelity: "verified"
-visual_notes: "running header 'சங்கத் தமிழ்' excluded from body; source-positioned right-aligned continuation lines காதலையும், ஆக்கிக்கொண்டு and அந்த; final phrase continues after the scan-22 full-page illustration onto scan 23; printed page number centered at foot"
+visual_notes: "running header 'சங்கத் தமிழ்' excluded from body; source-positioned right-aligned carryovers பெற்றிடுவர்!, இருந்திடவே;, கழித்தான்!, காதலையும், ஆக்கிக்கொண்டு and அந்த; R03 removed one unsupported dash between ஆனையென்றும் and சேனையென்றும்; final phrase continues after the scan-22 full-page illustration onto scan 23; printed page number centered at foot"
 language: "ta"
 transcription_method: "Gemini-locked lexical layer with user-authorized Gate C2 source corrections"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
@@ -14,9 +14,10 @@ continues_to_scan: 23
 ---
 
 அரசர்களின் அவைக்களத்தில் அரிய தமிழ்க் கவிகள்பாடி  
-ஆனையென்றும் - சேனையென்றும் ஆயிரம் பொற்கிழிகள் என்றும்  
-மானியங்கள் மற்றும் பல பரிசில் என்றும் மலைமலையாய்ப்  
-பெற்றிடுவர்!
+ஆனையென்றும் சேனையென்றும் ஆயிரம் பொற்கிழிகள் என்றும்  
+மானியங்கள் மற்றும் பல பரிசில் என்றும் மலைமலையாய்ப்
+
+<div align="right">பெற்றிடுவர்!</div>
 
 இந்நாளில் சில புலவர்போல் வாழ்வார்க்கு வாழ்த்துரைத்து  
 இன்னலுற்று அவர் தாழ்வாராயின் அக்கணமே சிறகடித்து  
@@ -24,13 +25,15 @@ continues_to_scan: 23
 இயல்புடையார் அப்போதும் சிலர் இருந்திடத்தான் செய்தார்கள்!  
 கணியூர்ப் பூங்குன்றனோ; அவர்கண்டு கவலைமிகக் கொண்டதனால்  
 அணிமணிகள் தமிழில் செய்து அரசர்க்கும் வள்ளல்கட்கும்  
-பூட்டி மகிழ்வதிலே ஆர்வமொரு கடுகளவும் காட்டாமல்  
-இருந்திடவே;
+பூட்டி மகிழ்வதிலே ஆர்வமொரு கடுகளவும் காட்டாமல்
+
+<div align="right">இருந்திடவே;</div>
 
 நீட்டி முழக்கிச் சிலபேர்; “அரசை அணுகிப் பரிசு பெறப்  
 பாடல்களை இயற்றிடுக!” எனக் கேட்டபோது - கணியன்;  
-பக்குவமாய் விடையளித்து அவர் விருப்பமதைத் தட்டிக்  
-கழித்தான்!
+பக்குவமாய் விடையளித்து அவர் விருப்பமதைத் தட்டிக்
+
+<div align="right">கழித்தான்!</div>
 
 “நாடு பற்றிப் பாடுகின்றீர் - நன்று! நன்று!  
 நாடாளும் மன்னர் பற்றிப் பாடுகின்றீர் - அதுவும் நன்று!  
