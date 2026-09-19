@@ -4,9 +4,9 @@ printed_page: "42"
 work: "sangatamil"
 section: "நெல்லும் உயிர் அன்றே! நீரும் உயிர் அன்றே!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "running சங்கத் தமிழ் header; continuation after the scan-56 illustration; verse-like lineation with isolated transition lines; printed page number 42 visible"
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "running சங்கத் தமிழ் header; continuation after the scan-56 illustration; R06 restores source-positioned right-aligned carryovers அடிமையாகி, உயிராம்!, படைகளிருப்பினும், வேண்டுமன்றோ?, சோம்பலினால் and அமைந்துவிடின்; printed page number 42 visible"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
@@ -23,8 +23,9 @@ continues_to_scan: 58
 சிறிதளவும் நடுமுள் நடுங்காமல் தீர்ப்பளிப்பீர்!
 
 நாடாளும் அரசொன்று இருக்கும்போது - அவ்வரசு;  
-கேடான செயல்களுக்கும் கீழான குணங்களுக்கும்  
-அடிமையாகி,  
+கேடான செயல்களுக்கும் கீழான குணங்களுக்கும்
+
+<div align="right">அடிமையாகி,</div>  
 நீரும் நெல்லும் இல்லா நிலையில்  
 ஊரும் உலகும் தவித்திடும் வகையில்  
 சீரும் சிறப்பும் இல்லாச் “செங்கோல்”  
@@ -34,13 +35,16 @@ continues_to_scan: 58
 ஒன்றைவிட்டு ஒன்றகன்று பிணமாக மாறிவிடும்!  
 அதனாலே;  
 மன்பதை ஆளும் ஆட்சியின் மாட்சியே - அந்த  
-மக்களுக்குயிராம்; அவர்கள் வாழும் மண்ணுக்கும்  
-உயிராம்!
+மக்களுக்குயிராம்; அவர்கள் வாழும் மண்ணுக்கும்
 
-வேற்படை விற்படையென விதவிதப்  
-படைகளிருப்பினும்  
-விழிப்புடன் வேந்தன் விரைந்து செயல்படல்  
-வேண்டுமன்றோ?
+<div align="right">உயிராம்!</div>
+
+வேற்படை விற்படையென விதவிதப்
+
+<div align="right">படைகளிருப்பினும்</div>  
+விழிப்புடன் வேந்தன் விரைந்து செயல்படல்
+
+<div align="right">வேண்டுமன்றோ?</div>
 
 வெளிநாட்டுப் பகைப்புலத்தை விரட்டுகின்ற வீரமுடன்  
 ஒளிநாடாய்த் தன்னாட்டை உருவாக்கி வைப்பதற்கு  
@@ -49,8 +53,9 @@ continues_to_scan: 58
 <div align="right">சோம்பலினால்</div>
 
 நெளிகின்ற போக்கிருந்தால்; நெல் எங்கே? நீர் எங்கே?  
-அறிவார்ந்த அரசொன்றே நாட்டுக்குயிராய்  
-அமைந்துவிடின்  
+அறிவார்ந்த அரசொன்றே நாட்டுக்குயிராய்
+
+<div align="right">அமைந்துவிடின்</div>  
 அதன்பின்னர் நீர்வளமும் நிலவளமும் பிறவளமும்  
 நிறைந்து குலுங்கிவிடும் அறிவீர்!” என்றார்.
 
