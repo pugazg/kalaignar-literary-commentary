@@ -6,6 +6,7 @@ section: "பிசிராந்தையார் 3"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
+visual_notes: "R09 WFV-012: source visibly prints right-offset `- அவர்கள்` after `வளர்ந்த மகன், மனைவியுடன் வயலுக்குச் சென்றுளான்`; canonical omits that printed token. Body remains unchanged pending user adjudication."
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
@@ -51,5 +52,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 தையலோ தாவிப்பாய்ந்து கணவன் தலையிலே ஒரு  
 தட்டுத்தட்டிக்
 
-<!-- Gate B restores File2 lexical wording. File2's stray `அவர்கள்` / `66` sequence is treated as non-source OCR noise because the controlling scan does not support it; scan structure controls page placement and lineation. -->
+<!-- R09 source re-audit supersedes the earlier noise note: the controlling scan visibly supports printed `- அவர்கள்`; WFV-012 records the missing canonical token. No lexical body mutation is made pending user adjudication. -->
 <!-- மூல ஸ்கேன் பக்கம்: 85; அச்சுப் பக்கம்: 70 -->
