@@ -6,9 +6,9 @@ section: "ஒருதலைக் காதல் — 4"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "running work header; continuation of Narkilli's martial exhortation on honour and sacrifice; printed page number 434"
+visual_notes: "R45 WFV-056: canonical `அணிமணிகள், அரண்மனைகள் தக்கவைக்கும் மனிதர்களேத்` differs from source historical `ளை` identity `அணிமணிகள், அரண்மனைகள் தக்கவைக்கும் மனிதர்களைத்`; same-edition scan 441 `வெள்ளை` confirms the old `ளை` form. Canonical lexical wording remains unchanged pending user adjudication."
 language: "ta"
-transcription_method: "direct source-first transcription from controlling scan because File10.md omits this printed-page range; textual/visual verification deferred"
+transcription_method: "Gemini/canonical lexical wording retained under R45 historical-glyph source review; WFV-056 pending user adjudication"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 445
 ---

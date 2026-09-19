@@ -6,9 +6,9 @@ section: "ஒருதலைக் காதல் — 4"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "numbered unit 4 opening; exhortation to the people of Aamur and reflection on honour; printed page number 433"
+visual_notes: "R45 WFV-055: canonical `நாயினும் கீழாய்ப் பிறரை மதிப்பவனேத்` differs from source historical `னை` identity `நாயினும் கீழாய்ப் பிறரை மதிப்பவனைத்`; same-edition scan 435 `இவனைத்தான்` confirms the old `னை` form. Canonical lexical wording remains unchanged pending user adjudication."
 language: "ta"
-transcription_method: "direct source-first transcription from controlling scan because File10.md omits this printed-page range; textual/visual verification deferred"
+transcription_method: "Gemini/canonical lexical wording retained under R45 historical-glyph source review; WFV-055 pending user adjudication"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
