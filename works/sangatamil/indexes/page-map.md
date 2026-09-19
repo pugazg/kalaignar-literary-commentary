@@ -45,10 +45,10 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 42–46 | printed 27–31 with scan-44 illustration | `பாவை புகழ்ந்த பன்றி` | **section complete / verified under earlier workflow; subject to later systematic Pass 2/3 sweep** |
 | 47–49 | printed 32–34 with scan-48 illustration | `காக்கைக்கு நன்றி காட்ட...` | **R05 source re-audit: scans 47–48 verified; scan 49 `needs-review` / visual `needs-review` for WFV-009 (`திண்டோர்` vs source `திண்டேர்`); 0 lexical mutations** |
 | 50 | printed 35 | `மாதரின் கண்ட மலர்கள்` opening | **R05 source re-audit PASS / verified; no new lexical discrepancy** |
-| 51 | printed 36 | continuation of `மாதரின் கண்ட மலர்கள்` | transcription-only first pass; `needs-review` |
-| 52 | — | full-page illustration | single-pass capture; `needs-review`; no visible printed page number |
-| 53 | printed 38 | continuation of `மாதரின் கண்ட மலர்கள்` | fast transcription-only first pass; `needs-review` |
-| 54–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
+| 51–54 | printed 36–39 with scan-52 illustration | continuation/closure of `மாவீரன் கண்ட மலர்கள்` | **R06 source re-audit PASS / all four verified; scan 51 quote-marker structure corrected with 0 lexical mutations** |
+| 55–58 | printed 40–43 with scan-56 illustration | `நெல்லும் உயிர் அன்றே! நீரும் உயிர் அன்றே!` | **R06 source re-audit: scans 56–58 verified; scan 55 `needs-review` / visual `needs-review` for WFV-010 (`கூடிற்றாம்!` vs source `கூடிற்றும்!`); scan 57 layout corrected; 0 lexical mutations** |
+| 59–60 | printed 44 + scan-60 illustration | `ஊரின் பெருமை உணர்த்தினள் ஒருத்தி!` opening | **R06 source re-audit PASS / verified; protected C2 `முசுண்டை கொடியும்` preserved** |
+| 61–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
 | 497 | — | back cover / end matter | **Gate D closed / physical endpoint** |
 
 ## Important controls
