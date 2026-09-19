@@ -2984,6 +2984,66 @@ No canonical lexical word or character was changed.
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R43_SCANS_421_430.md`.
 
+## Restart R44 — scans 431–440
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf`, physical scans 431–440 / PDF pages 31–40
+- reviewed scans: **431–440 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **0**
+- unresolved new lexical pages: **0**
+- source-supported non-lexical body corrections: **0**
+- page-status promotions: **10**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R44 findings
+
+- scans **431–440** — full lexical/glyph review passed and promoted;
+- C18-003 through C18-008 were preserved exactly;
+- scans **433 and 439** are full-page illustrations;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R44_SCANS_431_440.md`.
+
+## Restart R45 — scans 441–450
+
+**Status: COMPLETE / PASS WITH LEXICAL HOLDS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf`, physical scans 441–450 / PDF pages 41–50
+- reviewed scans: **441–450 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **2 — WFV-055, WFV-056**
+- unresolved new lexical pages: **2 — scans 445, 446**
+- source-supported non-lexical body corrections: **0**
+- page-status promotions: **8**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### New R45 WFV rows
+
+| ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
+|---|---:|---:|---|---|---|---|
+| WFV-055 | 445 | 433 | `நாயினும் கீழாய்ப் பிறரை மதிப்பவனேத்` | historical `னை` identity reads `நாயினும் கீழாய்ப் பிறரை மதிப்பவனைத்`; same-edition scan 435 `இவனைத்தான்` matches the old `னை` form | `historical-glyph / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 445 remains needs-review** |
+| WFV-056 | 446 | 434 | `அணிமணிகள், அரண்மனைகள் தக்கவைக்கும் மனிதர்களேத்` | historical `ளை` identity reads `அணிமணிகள், அரண்மனைகள் தக்கவைக்கும் மனிதர்களைத்`; same-edition scan 441 `வெள்ளை` matches the old `ளை` form | `historical-glyph / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 446 remains needs-review** |
+
+### R45 findings
+
+- scans **441–444, 447–450** — full lexical/glyph review passed and promoted;
+- scans **445 / WFV-055** and **446 / WFV-056** — no lexical edits applied;
+- C18-009 through C18-018 were preserved exactly;
+- scan **447** is a full-page illustration;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R45_SCANS_441_450.md`.
+
 ### Exact next audit range
 
-**R44 + R45 — scans 431–450, 20 pages in the user-requested iteration cadence, using Part009 PDF pages 31–50.**
+**R46 + R47 — scans 451–470, 20 pages in the user-requested iteration cadence, using Part010 PDF pages 1–20.**

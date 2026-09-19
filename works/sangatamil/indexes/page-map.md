@@ -149,7 +149,12 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 421–424 | printed 409–412 with scan-423 illustration | `இன்ப விளக்கேற்ற எப்போது வருவாரோ?` | **R43 complete / all four verified; C17-007/C17-008 preserved** |
 | 425 | unnumbered sideways divider | `ஒருதலைக் காதல்` | **R43 complete / verified** |
 | 426–430 | printed 414, 416–418 with scan-427 illustration | start of `ஒருதலைக் காதல் — 1` | **R43 complete / scans 426–430 verified; C18-001/C18-002 preserved; continues at scan 431** |
-| 431–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
+| 431 | printed 419 | end of `ஒருதலைக் காதல் — 1` | **R44 complete / verified; C18-003/C18-004 preserved** |
+| 432–437 | printed 420–425 with scan-433 illustration | `ஒருதலைக் காதல் — 2` | **R44 complete / all six verified; C18-005..008 preserved** |
+| 438–440 | printed 426, 428 with scan-439 illustration | start of `ஒருதலைக் காதல் — 3` | **R44 complete / all three verified; continues at scan 441** |
+| 441–444 | printed 429–432 | end of `ஒருதலைக் காதல் — 3` | **R45 complete / all four verified; C18-009..017 preserved** |
+| 445–450 | printed 433–438 with scan-447 illustration | `ஒருதலைக் காதல் — 4` | **R45 complete / scans 447–450 verified; scans 445 and 446 needs-review on WFV-055/WFV-056; C18-018 preserved** |
+| 451–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
 | 497 | — | back cover / end matter | **Gate D closed / physical endpoint** |
 
 ## Important controls
