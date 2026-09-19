@@ -36,13 +36,14 @@ Historical-glyph evidence remains source evidence, not automatic permission to c
 
 1. `works/sangatamil/TAMIL_WORD_FOR_WORD_VERIFICATION.md`
 2. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R50_SCANS_491_497.md`
-3. `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`
-4. `works/sangatamil/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
-5. `works/sangatamil/GEMINI_TEXT_LOCK.md`
-6. `works/sangatamil/C2_SOURCE_CORRECTION_PROGRESS.md`
-7. `works/sangatamil/README.md`
-8. root `HANDOVER.md`
-9. `works/sangatamil/translations/en/TRANSLATION_STATUS.md`
+3. `works/sangatamil/WFV_DISCREPANCY_COMPARISON.md` — compact repository-vs-source adjudication table
+4. `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`
+5. `works/sangatamil/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
+6. `works/sangatamil/GEMINI_TEXT_LOCK.md`
+7. `works/sangatamil/C2_SOURCE_CORRECTION_PROGRESS.md`
+8. `works/sangatamil/README.md`
+9. root `HANDOVER.md`
+10. `works/sangatamil/translations/en/TRANSLATION_STATUS.md`
 
 ## Exact next activity — Adjudication Batch A
 
