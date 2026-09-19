@@ -6,6 +6,7 @@ section: "அவள் நிலமானாள்; அவன் மழையா
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
+visual_notes: "R20 WFV-023: Kuruntokai 40 quotation canonical `யாயும் ஞாயும் யாரா கியரே?` differs from source-visible `யாயும் ஞாயும் யாரா கியரோ?`; canonical wording remains unchanged pending user adjudication. C08-003 `அறிந்திட விரும்பாமலே அறிமுகமானோம்!` remains protected."
 language: "ta"
 transcription_method: "Gemini-locked lexical wording with user-authorized C2 source correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
