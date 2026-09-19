@@ -6,6 +6,7 @@ section: "போர்த்திசை நோக்கிய புலிப�
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
+visual_notes: "R22 WFV-029: canonical `முடிகள் களத்தின் குருதியில் நனைந்து மிதந்திடவே` differs from source-visible `முடிகள் களத்தின் குருதியில் நீந்தி மிதந்திடவே`; canonical wording remains unchanged pending user adjudication."
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
