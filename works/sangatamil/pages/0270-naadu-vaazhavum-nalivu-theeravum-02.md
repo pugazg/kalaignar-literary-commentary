@@ -6,8 +6,9 @@ section: "நாடு வாழவும் நலிவு தீரவும�
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
+visual_notes: "R27 WFV-044: source places existing `வழங்கி -,` immediately after `அவரையெல்லாம் வரவேற்று அவர்க்கு வேண்டுவன`, before `அரசுதனை நடத்துகின்ற அறவழி பலவும் அன்பாய்`; canonical places it after the latter line. Canonical placement remains unchanged pending user adjudication."
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; R27 source-reviewed with lexical hold"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 269
 ---
@@ -51,5 +52,5 @@ continues_from_scan: 269
 > தீநோய் தலைத்தலைத் தருமே.”
 
 <!-- continues on scan 272 after illustration scan 271 -->
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
+<!-- R27 word-for-word / historical-glyph source review complete; lexical hold remains. -->
 <!-- மூல ஸ்கேன் பக்கம்: 270; அச்சுப் பக்கம்: 258 -->

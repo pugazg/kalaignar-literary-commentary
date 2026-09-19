@@ -6,8 +6,9 @@ section: "பஞ்சணையில் அரசி; பாசறையில�
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
+visual_notes: "R27 WFV-043: source visibly includes standalone/right-edge `பாசறையை!` after `கடமையினை ஆற்றுதற்குக் கால்கடுக்கச் சுற்றுகின்றான்;`; canonical omits this source token. Canonical remains unchanged pending user adjudication."
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; R27 source-reviewed with lexical hold"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 261
 ---
@@ -52,6 +53,6 @@ continues_from_scan: 261
 எனும் இலக்கியத்தை அடிப்படையாகக்கொண்டு எளிய நடையில்
 எழுதப்பட்டது, இது!)
 
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
+<!-- R27 word-for-word / historical-glyph source review complete; lexical hold remains. -->
 <!-- This scan visibly closes the section. -->
 <!-- மூல ஸ்கேன் பக்கம்: 262; அச்சுப் பக்கம்: 250 -->

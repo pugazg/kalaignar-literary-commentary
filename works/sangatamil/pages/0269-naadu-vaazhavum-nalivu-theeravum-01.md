@@ -4,10 +4,10 @@ printed_page: "257"
 work: "sangatamil"
 section: "நாடு வாழவும் நலிவு தீரவும்..."
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; decorative heading checked against source scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; R27 source-verified"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -42,5 +42,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 நாடியிவன் மாளிகைக்கு விருந்தாக வந்திடுவர்; இவனோ
 
 <!-- continues on scan 270 -->
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
+<!-- R27 word-for-word / historical-glyph source re-audit complete. -->
 <!-- மூல ஸ்கேன் பக்கம்: 269; அச்சுப் பக்கம்: 257 -->

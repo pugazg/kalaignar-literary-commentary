@@ -4,8 +4,8 @@ printed_page: "252"
 work: "sangatamil"
 section: "பழி தீர்த்துப் பகை முடித்தாள்!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
@@ -13,7 +13,7 @@ continues_from_scan: 263
 ---
 
 > இரும்பிடம் படுத்த வடுவுடை முகத்தர்
-> கடுங்கண் கோசர் நியமம்
+> கடுங்கண் கோசர் நியமம்”
 
 *
 

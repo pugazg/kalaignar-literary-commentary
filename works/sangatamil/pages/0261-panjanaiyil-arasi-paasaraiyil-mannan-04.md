@@ -6,8 +6,9 @@ section: "பஞ்சணையில் அரசி; பாசறையில�
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
+visual_notes: "R27 WFV-042: canonical places existing `அவன்;` after `வாளேந்தும் போர் முகத்தை மறந்துவிட்டு,`; source places `அவன்;` immediately after `அதனாலே`, before `வாளேந்தும் போர் முகத்தை மறந்துவிட்டு,`. Canonical placement remains unchanged pending user adjudication."
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; R27 source-reviewed with lexical hold"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 260
 ---
@@ -56,5 +57,5 @@ continues_from_scan: 260
 அதனாலே வாளேந்தும் போர் முகத்தை மறந்துவிட்டு, அவன்;
 
 <!-- continues on scan 262 -->
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
+<!-- R27 word-for-word / historical-glyph source review complete; lexical hold remains. -->
 <!-- மூல ஸ்கேன் பக்கம்: 261; அச்சுப் பக்கம்: 249 -->
