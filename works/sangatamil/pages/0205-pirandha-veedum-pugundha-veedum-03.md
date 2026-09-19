@@ -6,6 +6,7 @@ section: "பிறந்த வீடும் புகுந்த வீட�
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
+visual_notes: "R21 WFV-025: canonical `முடிவிதுதான் பெற்றோரும் உற்றாரும் எடுத்ததென அவளிடத்தே` differs from source-visible `முடிவிதுதான் பெற்றோரும் உற்றோரும் எடுத்ததென அவளிடத்தே`; canonical wording remains unchanged pending user adjudication."
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
