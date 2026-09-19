@@ -46,7 +46,7 @@ Historical Gate-G baseline:
 - `needs-review` — **453**
 - `partial` — **1**
 
-Current state after R03 scans 21–30:
+Current state after R04 scans 31–40:
 
 - `verified` — **47**
 - `needs-review` — **449**
@@ -55,7 +55,7 @@ Current state after R03 scans 21–30:
 - visual `needs-review` — **450**
 - blocked — **0**
 
-R01–R03 changed **0 lexical words**. R03 discovered **3 new lexical discrepancy rows** on scans **25 and 30**, left all disputed lexical wording unchanged, and applied only source-supported non-lexical corrections on scans **21, 25 and 29**.
+R01–R04 changed **0 lexical words**. R03 discovered **3 new lexical discrepancy rows** on scans **25 and 30** and left all disputed lexical wording unchanged. R04 found **0** new lexical discrepancies and required **0** page-layer mutations.
 
 ## R01 — scans 1–10
 
@@ -111,6 +111,23 @@ Results:
 - prior C2 rulings on scans **21, 28 and 29** preserved and not relitigated;
 - whole-volume state now **47 verified / 449 needs-review / 1 partial**.
 
+## R04 — scans 31–40
+
+**COMPLETE / PASS**
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R04_SCANS_031_040.md`
+
+Results:
+
+- scans **31–40** — full restart audit completed at enlarged/native resolution;
+- new lexical discrepancy rows — **0**;
+- canonical lexical substitutions — **0**;
+- source-supported non-lexical page corrections — **0**;
+- page-layer mutations — **0**;
+- earlier explicit C2 rulings on scans **35, 39 and 40** — preserved and not relitigated;
+- existing R03 WFV-006 through WFV-008 — unchanged / pending user adjudication;
+- whole-volume state remains **47 verified / 449 needs-review / 1 partial**.
+
 ## Pre-restart Part002 candidate rows
 
 The earlier interrupted Part002 review is **not counted as completed restart coverage**.
@@ -131,8 +148,8 @@ Do not change those words before re-audit + user adjudication.
 | R01 | 1–10 | **COMPLETE / PASS** |
 | R02 | 11–20 | **COMPLETE / PASS** |
 | R03 | 21–30 | **COMPLETE / PASS WITH LEXICAL HOLDS** |
-| R04 | 31–40 | **NEXT** |
-| R05 | 41–50 | pending |
+| R04 | 31–40 | **COMPLETE / PASS** |
+| R05 | 41–50 | **NEXT** |
 | R06 | 51–60 | pending |
 | R07 | 61–70 | pending |
 | R08 | 71–80 | pending |
@@ -143,9 +160,9 @@ Do not change those words before re-audit + user adjudication.
 
 ## Exact next activity
 
-Process **R04 — scans 31–40** from the supplied Part001 PDF.
+Process **R05 — scans 41–50** from the supplied Part001 PDF.
 
-At R04 close:
+At R05 close:
 
 - inspect all 10 scans at enlarged/native resolution;
 - apply the historical-glyph guide;
