@@ -4,8 +4,8 @@ printed_page: "53"
 work: "sangatamil"
 section: "வாணன் மணந்த வண்ணத் திருமகள்!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 visual_notes: "running கலைஞர் மு. கருணாநிதி header; dialogue-heavy continuation arranged in printed verse-like blocks; page ends mid-speech and continues to scan 69; printed page number 53 visible"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
@@ -60,5 +60,4 @@ continues_to_scan: 69
 ஆள்மயக்கும் விழிகாட்டும் உம்
 
 <!-- Gemini-locked wording is retained; scan 68 controls dialogue grouping, emphasis, lineation and the continuation boundary. -->
-<!-- Review status remains `needs-review`; final audit/status synchronization is a separate activity. -->
 <!-- மூல ஸ்கேன் பக்கம்: 68; அச்சுப் பக்கம்: 53 -->
