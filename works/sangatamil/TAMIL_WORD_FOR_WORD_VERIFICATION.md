@@ -46,16 +46,16 @@ Historical Gate-G baseline:
 - `needs-review` — **453**
 - `partial` — **1**
 
-Current state after R17 scans 161–170:
+Current state after R19 scans 181–190:
 
-- `verified` — **157**
-- `needs-review` — **339**
+- `verified` — **172**
+- `needs-review` — **324**
 - `partial` — **1**
-- visual `verified` — **157**
-- visual `needs-review` — **340**
+- visual `verified` — **172**
+- visual `needs-review` — **325**
 - blocked — **0**
 
-R01–R17 changed **0 lexical words**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** on scan **49**; R06 discovered **1** on scan **55**; R07 reconfirmed WFV-002 and WFV-003 and discovered WFV-011 on scan **67**; R08 found **0** new discrepancies; R09 reconfirmed WFV-004 and discovered WFV-012 and WFV-013; R10 reconfirmed WFV-005 and discovered WFV-014; R11–R17 found **0** new lexical discrepancies. All disputed lexical wording remains unchanged.
+R01–R19 changed **0 lexical words**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** on scan **49**; R06 discovered **1** on scan **55**; R07 reconfirmed WFV-002 and WFV-003 and discovered WFV-011 on scan **67**; R08 found **0** new discrepancies; R09 reconfirmed WFV-004 and discovered WFV-012 and WFV-013; R10 reconfirmed WFV-005 and discovered WFV-014; R11–R17 found **0** new discrepancies; R18 opened **WFV-015 through WFV-019**; R19 opened **WFV-020 through WFV-022**. All disputed lexical wording and material token placement remain unchanged pending user adjudication.
 
 ## R01 — scans 1–10
 
@@ -362,6 +362,41 @@ Results:
 - scan 170 historical `னா` identity in `கானாங் கோழி` confirmed by same-page edition evidence; no discrepancy row opened;
 - whole-volume state now **157 verified / 339 needs-review / 1 partial**.
 
+## R18 — scans 171–180
+
+**COMPLETE / PASS WITH LEXICAL HOLDS**
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R18_SCANS_171_180.md`
+
+Results:
+
+- scans **171–180** — full restart audit completed;
+- new lexical discrepancy rows — **5**: WFV-015 through WFV-019;
+- unresolved lexical pages — **3**: scans **174, 177, 179**;
+- canonical lexical substitutions — **0**;
+- source-supported non-lexical body corrections — **1**: scan 174 punctuation/spacing only;
+- source-supported section-metadata alignments — **5**: scans 176–180;
+- page-status promotions — **7**;
+- protected C2 rulings on scans 174, 175 and 180 preserved;
+- whole-volume state after R18 — **164 verified / 332 needs-review / 1 partial**.
+
+## R19 — scans 181–190
+
+**COMPLETE / PASS WITH LEXICAL HOLDS**
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R19_SCANS_181_190.md`
+
+Results:
+
+- scans **181–190** — full restart audit completed;
+- new lexical discrepancy rows — **3**: WFV-020 through WFV-022;
+- unresolved lexical pages — **2**: scans **183, 189**;
+- canonical lexical substitutions — **0**;
+- source-supported section-metadata alignments — **1**: scan 181;
+- page-status promotions — **8**;
+- protected C2 ruling on scan 188 preserved;
+- whole-volume state now **172 verified / 324 needs-review / 1 partial**.
+
 ## Pre-restart Part002 candidate rows
 
 The earlier interrupted Part002 review is **not counted as completed restart coverage**.
@@ -391,19 +426,26 @@ Do not change any pending lexical wording before explicit user adjudication.
 | R15 | 141–150 | **COMPLETE / PASS** |
 | R16 | 151–160 | **COMPLETE / PASS** |
 | R17 | 161–170 | **COMPLETE / PASS** |
-| R18–R49 | 171–490 | pending in 10-scan cadence |
+| R18 | 171–180 | **COMPLETE / PASS WITH LEXICAL HOLDS** |
+| R19 | 181–190 | **COMPLETE / PASS WITH LEXICAL HOLDS** |
+| R20–R49 | 191–490 | pending in 10-scan cadence |
 | R50 | 491–497 | final 7-scan remainder |
 
 ## Exact next activity
 
-Process **R18 + R19 — scans 171–190** as the next **20-page iteration** using Part004 / the controlling user-supplied source.
+Process **R20 + R21 — scans 191–210** as the next **20-page iteration**.
 
-At R19 close:
+Sources:
+
+- scans **191–200** — Part004 PDF pages **41–50**;
+- scans **201–210** — Part005 PDF pages **1–10**.
+
+At R21 close:
 
 - inspect all scans at enlarged/native resolution;
 - apply the historical-glyph guide and check all 13 known families where present;
-- preserve prior explicit C2 adjudications, including scans 174, 175, 180 and 188;
+- preserve explicit C2 adjudications on scans **192, 195, 199 and 208**;
 - record every new lexical/glyph difference in the discrepancy ledger;
 - change **0 lexical words without user adjudication**;
-- apply only non-lexical source-supported structure/punctuation/layout changes;
+- apply only source-supported non-lexical structure/punctuation/layout changes;
 - synchronize this tracker, README, HANDOVER, English-release pause state and `NEXT_CHAT_PROMPT_SANGATH_TAMIL.md`.

@@ -72,7 +72,11 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 154–158 | printed 141–145 with scan-156 illustration | `செவிலி தேடிய சித்திரப் பாவை!` | **R16 source re-audit PASS / all five verified; quotation/provenance/gloss order preserved; 0 lexical discrepancies** |
 | 159–164 | printed 146, 148–151 with scan-160 illustration | `பதிலை நெருப்பாக உமிழ்ந்த பாவாணர்!` | **R16/R17 source re-audit PASS / all six verified; scan-163 C07-001 `குடகடல் ஓட்டிய ஞான்றைத்` preserved; 0 lexical discrepancies** |
 | 165–170 | printed 152–157 with scan-166 illustration | `காடைப் போர் கண்டுவந்த கணவன்!` | **R17 source re-audit PASS / all six verified; C07-002 heading preserved; scan-170 historical `னா` identity source-checked; 0 lexical discrepancies** |
-| 171–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
+| 171–174 | printed 158–161 with scan-172 illustration | `தகரோன் தந்த கனி!` | **R18 complete / scans 171–173 verified; scan 174 remains needs-review on WFV-015; C07-003 preserved** |
+| 175–181 | printed 162, 164–168 with scan-176 illustration | `நீலமலை நீரினும் குளிர்ந்த நெஞ்சம்!` | **R18/R19 complete / scans 175–176, 178, 180–181 verified; scans 177 and 179 remain needs-review on WFV-016..019; section metadata aligned 176–181; C07-004/C08-001 preserved** |
+| 182–187 | printed 169–174 with scan-184 illustration | `தலை கேட்டான் தம்பி!` | **R19 complete / scans 182, 184–187 verified; scan 183 remains needs-review on WFV-020** |
+| 188–190 | printed 175–176 with scan-190 illustration | `அவள் நிலமானாள்; அவன் மழையானான்!` | **R19 complete / scans 188 and 190 verified; scan 189 remains needs-review on WFV-021/WFV-022; C08-002 heading preserved** |
+| 191–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
 | 497 | — | back cover / end matter | **Gate D closed / physical endpoint** |
 
 ## Important controls

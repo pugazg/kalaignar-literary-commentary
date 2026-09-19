@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / 20-PAGE RE-AUDIT R18+R19 scans 171–190
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / 20-PAGE RE-AUDIT R20+R21 scans 191–210
 
 Continue only from live `main` in `pugazg/kalaignar-literary-commentary`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -10,28 +10,29 @@ Tamil word-for-word / historical-glyph re-audit uses the user's fixed cadence:
 
 Keep durable audit reports in **10-scan R batches** inside each 20-page iteration.
 
-R01 through R17 are complete through physical scan **170**.
+R01 through R19 are complete through physical scan **190**.
 
 Latest frontier:
 
-- R14 scans **131–140 — COMPLETE / PASS**
-- R15 scans **141–150 — COMPLETE / PASS**
 - R16 scans **151–160 — COMPLETE / PASS**
 - R17 scans **161–170 — COMPLETE / PASS**
+- R18 scans **171–180 — COMPLETE / PASS WITH LEXICAL HOLDS**
+- R19 scans **181–190 — COMPLETE / PASS WITH LEXICAL HOLDS**
 
-**Exact next user iteration: R18 + R19 = scans 171–190.**
+**Exact next user iteration: R20 + R21 = scans 191–210.**
 
-Preferred split source:
+Use only the user's supplied controlling split PDFs:
 
-`TVA_BOK_0042551_சங்கத்_தமிழ்_part_004_pages_151-200.pdf`
+- scans **191–200** → `TVA_BOK_0042551_சங்கத்_தமிழ்_part_004_pages_151-200.pdf`, PDF pages **41–50**;
+- scans **201–210** → `TVA_BOK_0042551_சங்கத்_தமிழ்_part_005_pages_201-250.pdf`, PDF pages **1–10**.
 
-Physical scans **171–190** correspond to Part004 PDF pages **21–40**. Use only the user's controlling source / attachment; do not substitute web copies.
+Do not substitute web copies.
 
 ## Read first — mandatory
 
 1. `works/sangatamil/TAMIL_WORD_FOR_WORD_VERIFICATION.md`
-2. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R16_SCANS_151_160.md`
-3. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R17_SCANS_161_170.md`
+2. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R18_SCANS_171_180.md`
+3. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R19_SCANS_181_190.md`
 4. `works/sangatamil/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
 5. `works/sangatamil/GEMINI_TEXT_LOCK.md`
 6. `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`
@@ -46,9 +47,9 @@ Physical scans **171–190** correspond to Part004 PDF pages **21–40**. Use on
 
 > **Do not correct any words directly.**
 
-For every source/Gemini word or character difference:
+For every source/Gemini word, character, omitted phrase, or materially meaningful token-placement difference:
 
-1. keep current canonical wording unchanged;
+1. keep current canonical wording/placement unchanged;
 2. record the difference in `LEXICAL_DISCREPANCY_LEDGER.md` under the next live WFV ID;
 3. keep/reopen the page as `needs-review`;
 4. wait for explicit user adjudication before lexical mutation.
@@ -70,86 +71,95 @@ For every printed page:
 
 Even strongly supported glyph/source differences are **ledger-first**.
 
-## Durable state through R17
+## Durable state through R19
 
 Current Tamil state:
 
-- `verified` — **157**
-- `needs-review` — **339**
+- `verified` — **172**
+- `needs-review` — **324**
 - `partial` — **1**
-- visual `verified` — **157**
-- visual `needs-review` — **340**
-- restart coverage — **170/497**
+- visual `verified` — **172**
+- visual `needs-review` — **325**
+- restart coverage — **190/497**
 
 ### Confirmed unresolved lexical holds — DO NOT CHANGE
 
-WFV-002 through WFV-014 remain pending explicit user adjudication. No pending hold may be silently applied.
+WFV-002 through WFV-022 remain pending explicit user adjudication. WFV-001 remains rejected. No pending hold may be silently applied.
 
-### R16 / R17 closure
+### R18 / R19 closure
 
-R16 scans **151–160 — COMPLETE / PASS**:
-- new WFV rows — **0**
+R18 scans **171–180 — COMPLETE / PASS WITH LEXICAL HOLDS**:
+- new WFV rows — **5**: WFV-015 through WFV-019
+- unresolved pages — **174, 177, 179**
 - lexical substitutions — **0**
-- status promotions — **10**
-- scans 156 and 160 full-page illustrations verified
-- C2-07 contains no adjudication records within scans 151–160
+- status promotions — **7**
+- metadata aligned to exact `நீலமலை நீரினும் குளிர்ந்த நெஞ்சம்!` on scans 176–180
+- C07-003, C07-004 and C08-001 protected
 
-R17 scans **161–170 — COMPLETE / PASS**:
-- new WFV rows — **0**
+R19 scans **181–190 — COMPLETE / PASS WITH LEXICAL HOLDS**:
+- new WFV rows — **3**: WFV-020 through WFV-022
+- unresolved pages — **183, 189**
 - lexical substitutions — **0**
-- status promotions — **10**
-- scan 163 `கொங்கர்க் குடகடல் ஓட்டிய ஞான்றைத்` preserved
-- scan 165 heading `காடைப் போர் கண்டுவந்த கணவன்!` preserved
-- scan 166 full-page illustration verified
-- scan 170 historical `னா` identity in `கானாங் கோழி` confirmed with same-page `இளநாகனார்` evidence
+- status promotions — **8**
+- scan-181 section metadata aligned
+- C08-002 heading protected
 
-## R18+R19 protected C2 rulings — scans 171–190
+## R20+R21 protected C2 rulings — scans 191–210
 
 Preserve these exact prior user adjudications:
 
-- **scan 174 / C07-003**
-  - `சிறுயிலை நெல்லித் தீங்கனி குறியாது`
-  - Gemini is correct; do not alter it.
+- **scan 192 / C08-003**
+  - source/user-authorized: `அறிந்திட விரும்பாமலே அறிமுகமானோம்!`
+  - do not regress to malformed `விருமபாமலே`.
 
-- **scan 175 / C07-004**
-  - exact heading: `நீலமலை நீரினும் குளிர்ந்த நெஞ்சம்!`
-  - do not restore either historical incorrect heading candidate.
+- **scan 195 / C08-004**
+  - source/user-authorized: `முடி புனைந்த மூத்தோர் மறைந்து; அவர்`
+  - do not regress to `முத்தோர்`.
 
-- **scan 180 / C08-001**
-  - quotation contains `... வானி நீரினும் தீந்தன் சாயலன் ...`
+- **scan 199 / C08-005**
+  - source/user-authorized: `கிழங்குகளின் குறும்புதான் என்னே...`
+  - preserve the corrected form.
+
+- **scan 199 / C08-006**
+  - Purananuru 109 quotation: `தீஞ்சுனைப் பலவின் பழம்`
   - Gemini is correct; preserve it.
 
-- **scan 188 / C08-002**
-  - exact decorative/source heading: `அவள் நிலமானாள்; அவன் மழையானான்!`
-  - preserve corrected `மழையானான்!`; do not regress to `மழையானன்!`.
+- **scan 199 / C08-007**
+  - `கலைஉளமும் பெற்றதாலே கபிலர்க்கு உயிரே ஆனான்`
+  - Gemini is correct; preserve it.
 
-C08-003 scan 192 and later C08 rulings belong to the **following** 20-page iteration and must not be pulled forward.
+- **scan 208 / C09-001**
+  - exact decorative/source heading: `காவிரிநாடன் கரிகாலன்!`
+  - preserve corrected `கரிகாலன்!`; do not regress to `கபிகாலன்!`.
+
+C09-002 scan 221 and C09-003 scan 223 belong to a later iteration and must not be pulled forward.
 
 ## Exact activity — 20 pages
 
-Process physical scans **171–190** in one user iteration:
+Process physical scans **191–210** in one user iteration:
 
-### R18 — scans 171–180
+### R20 — scans 191–200
 
 1. source-check all 10 scans word-for-word;
 2. apply historical-glyph review;
-3. preserve C2 scans 174, 175 and 180 exactly;
-4. ledger every new lexical/glyph difference;
+3. preserve C2 scans 192, 195 and 199 exactly;
+4. ledger every new lexical/glyph/material-placement difference;
 5. make **0 lexical substitutions** without user adjudication;
 6. apply only source-supported nonlexical structure/punctuation/layout changes;
 7. promote only clean fully audited pages;
 8. create:
-   `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R18_SCANS_171_180.md`.
+   `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R20_SCANS_191_200.md`.
 
-### R19 — scans 181–190
+### R21 — scans 201–210
 
 1. continue immediately without stopping;
-2. preserve C2 scan 188 exactly;
-3. ledger any new difference under the next live WFV ID;
-4. make **0 lexical substitutions** without user adjudication;
-5. promote only clean fully audited pages;
-6. create:
-   `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R19_SCANS_181_190.md`.
+2. switch to Part005 at physical scan 201 / PDF page 1;
+3. preserve C2 scan 208 exactly;
+4. ledger any new lexical/glyph/material-placement difference under the next live WFV ID;
+5. make **0 lexical substitutions** without user adjudication;
+6. promote only clean fully audited pages;
+7. create:
+   `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R21_SCANS_201_210.md`.
 
 At the end of the full 20-page iteration synchronize:
 
@@ -163,4 +173,4 @@ At the end of the full 20-page iteration synchronize:
 
 The maintained-English release-report gate remains **PAUSED**.
 
-After R18+R19, the next user iteration is **R20+R21 — scans 191–210 (20 pages)**.
+After R20+R21, the next user iteration is **R22+R23 — scans 211–230 (20 pages)**.
