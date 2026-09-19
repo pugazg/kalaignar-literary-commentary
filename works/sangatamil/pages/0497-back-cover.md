@@ -4,11 +4,11 @@ printed_page: null
 work: "sangatamil"
 section: "back-matter"
 page_type: "cover"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 visual_notes: "back cover; full-page colour photographic portrait of an unlabelled smiling man wearing dark sunglasses; yellow publisher panel at bottom with ROCK FORT Publications (P) Ltd. and MADRAS - 600083; no printed page number"
 language: "ta"
-transcription_method: "direct visual pass against controlling source scan; final verification deferred"
+transcription_method: "direct visual alignment to controlling source scan under Gemini-locked workflow; R50 source-verified"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 496
 ---
