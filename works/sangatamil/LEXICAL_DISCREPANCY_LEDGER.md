@@ -1713,6 +1713,34 @@ Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R02_SCANS_011_020.md`.
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R03_SCANS_021_030.md`.
 
+## Restart R04 — scans 31–40
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-19**
+- source: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_001_pages_1-50.pdf`
+- cadence: **10 physical scans per iteration**
+- reviewed scans: **31–40 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **0**
+- unresolved new lexical pages: **0**
+- source-supported non-lexical page corrections: **0**
+- page-layer mutations: **0**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R04 findings
+
+- scans **31–34, 36–38** — no new lexical/glyph discrepancy;
+- scan **35** — earlier C2 `வீணே` placement remains protected and source-aligned;
+- scan **39** — earlier C2 `ஔவைக்குக்` ruling remains protected; not reopened;
+- scan **40** — earlier C2 `ஔவைப் பிராட்டி` and `வெள்ளை வெள்யாட்டுச் செச்சை போலத்` rulings remain protected; not reopened;
+- existing R03 WFV-006 through WFV-008 remain pending explicit user adjudication and were not altered.
+
+No canonical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R04_SCANS_031_040.md`.
+
 ### Exact next audit range
 
-**R04 — scans 31–40.**
+**R05 — scans 41–50.**
