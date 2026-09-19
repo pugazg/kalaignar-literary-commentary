@@ -4,10 +4,10 @@ printed_page: "261"
 work: "sangatamil"
 section: "அன்றைக்கே ஒரு கண்ணகி!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; decorative heading checked directly against source scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; R28 source-verified"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -47,5 +47,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 படைமடம் படான்” என்று
 
 <!-- continues on scan 274 -->
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
+<!-- R28 word-for-word / historical-glyph source re-audit complete. -->
 <!-- மூல ஸ்கேன் பக்கம்: 273; அச்சுப் பக்கம்: 261 -->

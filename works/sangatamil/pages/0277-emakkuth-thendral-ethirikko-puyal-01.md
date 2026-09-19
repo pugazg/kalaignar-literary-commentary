@@ -4,11 +4,11 @@ printed_page: "265"
 work: "sangatamil"
 section: "எமக்குத் தென்றல்; எதிரிக்கோ புயல்!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 visual_notes: "decorative multicolour section heading; text page"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; heading checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; R28 source-verified"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -40,5 +40,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 தமிழ்நிலம் பெற்ற பெருமையாமன்றோ!
 
 <!-- continues on scan 278 -->
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
+<!-- R28 word-for-word / historical-glyph source re-audit complete. -->
 <!-- மூல ஸ்கேன் பக்கம்: 277; அச்சுப் பக்கம்: 265 -->
