@@ -46,16 +46,16 @@ Historical Gate-G baseline:
 - `needs-review` — **453**
 - `partial` — **1**
 
-Current state after R05 scans 41–50:
+Current state after R06 scans 51–60:
 
-- `verified` — **46**
-- `needs-review` — **450**
+- `verified` — **55**
+- `needs-review` — **441**
 - `partial` — **1**
-- visual `verified` — **46**
-- visual `needs-review` — **451**
+- visual `verified` — **55**
+- visual `needs-review` — **442**
 - blocked — **0**
 
-R01–R05 changed **0 lexical words**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** new lexical discrepancy row on scan **49**. All disputed lexical wording remains unchanged.
+R01–R06 changed **0 lexical words**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** on scan **49**; R06 discovered **1** on scan **55**. All disputed lexical wording remains unchanged.
 
 ## R01 — scans 1–10
 
@@ -146,6 +146,24 @@ Results:
 - prior C2 rulings on scan **47** preserved and not relitigated;
 - whole-volume state now **46 verified / 450 needs-review / 1 partial**.
 
+## R06 — scans 51–60
+
+**COMPLETE / PASS WITH LEXICAL HOLD**
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R06_SCANS_051_060.md`
+
+Results:
+
+- scans **51–60** — full restart audit completed at enlarged/native resolution;
+- new lexical discrepancy rows — **1**: WFV-010;
+- unresolved new lexical pages — **1**: scan **55**;
+- canonical lexical substitutions — **0**;
+- source-supported non-lexical page corrections — **2 page files**: scans **51, 57**;
+- page-status promotions — **9**: scans **51–54, 56–60**;
+- scan **55** — canonical `கூடிற்றாம்!` held against source-visible `கூடிற்றும்!`; page remains `needs-review`;
+- prior C2 rulings on scans **51, 53, 58 and 59** preserved;
+- whole-volume state now **55 verified / 441 needs-review / 1 partial**.
+
 ## Pre-restart Part002 candidate rows
 
 The earlier interrupted Part002 review is **not counted as completed restart coverage**.
@@ -168,8 +186,8 @@ Do not change those words before re-audit + user adjudication.
 | R03 | 21–30 | **COMPLETE / PASS WITH LEXICAL HOLDS** |
 | R04 | 31–40 | **COMPLETE / PASS** |
 | R05 | 41–50 | **COMPLETE / PASS WITH LEXICAL HOLD** |
-| R06 | 51–60 | **NEXT** |
-| R07 | 61–70 | pending |
+| R06 | 51–60 | **COMPLETE / PASS WITH LEXICAL HOLD** |
+| R07 | 61–70 | **NEXT** |
 | R08 | 71–80 | pending |
 | R09 | 81–90 | pending |
 | R10 | 91–100 | pending |
@@ -178,9 +196,9 @@ Do not change those words before re-audit + user adjudication.
 
 ## Exact next activity
 
-Process **R06 — scans 51–60** from the supplied Part002 PDF.
+Process **R07 — scans 61–70** from the supplied Part002 PDF.
 
-At R06 close:
+At R07 close:
 
 - inspect all 10 scans at enlarged/native resolution;
 - apply the historical-glyph guide;
