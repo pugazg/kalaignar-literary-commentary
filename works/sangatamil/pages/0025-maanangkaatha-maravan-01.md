@@ -4,9 +4,9 @@ printed_page: "10"
 work: "sangatamil"
 section: "மானங்காத்த மறவன்!"
 page_type: "poetry"
-status: "verified"
-visual_fidelity: "verified"
-visual_notes: "large decorative section heading; source verse lineation retained; final '- அதனாலே' is preserved as a right-aligned carryover rather than a Markdown list item; printed page number centered"
+status: "needs-review"
+visual_fidelity: "needs-review"
+visual_notes: "large decorative section heading; source verse lineation retained; R03 restores source order of the final இரும்பொறை / இரும்பொத்த lines; final '- அதனாலே' remains a right-aligned carryover; unresolved WFV-006 lexical hold keeps canonical பெற்றவனோ? unchanged against source-visible பெற்றவனே?; printed page number centered"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
@@ -45,8 +45,8 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 வாய் பிளந்து மூக்கின்மேல் விரல் வைத்து - அவனை  
 வாழ்த்தியவர் பலருண்டு!
 
-இரும்பொத்த கணையமரம் போல கால் படைத்த சேரனவன்;  
-“இரும்பொறை” மரபில் வந்த இணையிலா வீரனவன்.
+“இரும்பொறை” மரபில் வந்த இணையிலா வீரனவன்.  
+இரும்பொத்த கணையமரம் போல கால் படைத்த சேரனவன்;
 
 <div align="right">- அதனாலே</div>
 
