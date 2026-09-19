@@ -6,9 +6,9 @@ section: "வெறியாடும் வேலன் எதற்காக?"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "running work header; continuation text; closing ornamental separator; printed page number 278"
+visual_notes: "R29 C12-003 `முறித்துப் போட்டதுபோல் நெளிகின்றாள், வளைகின்றாள்!` remains protected. WFV-048: canonical `வெறியாடி நோய் தீர்க்கும் வேலனாம் பூசாரி தேவையில்லை;` vs source-visible `வெறியாடி நோய் தீர்க்கும் வேலனும் பூசாரி தேவையில்லை;`. Canonical lexical wording remains unchanged pending user adjudication."
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; page structure checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; R29 source-reviewed with lexical hold"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 289
 ---

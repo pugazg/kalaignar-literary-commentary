@@ -4,10 +4,10 @@ printed_page: "272"
 work: "sangatamil"
 section: "கிலு கிலுப்பை வழங்கும் கிறுகிறுப்பு!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; R29 source-verified"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 283
 ---
@@ -24,5 +24,5 @@ continues_from_scan: 283
 
 *
 
-<!-- Pass 1 fast transcription / physical capture only. Verification intentionally deferred. -->
+<!-- R29 word-for-word / historical-glyph source re-audit complete. -->
 <!-- மூல ஸ்கேன் பக்கம்: 284; அச்சுப் பக்கம்: 272 -->

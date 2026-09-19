@@ -6,7 +6,7 @@ section: "கிலு கிலுப்பை வழங்கும் கி�
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "decorative multicolour section heading; source heading includes 'கிலு கிலுப்பை' omitted by Gemini scaffold"
+visual_notes: "R29 C12-001 heading remains protected. WFV-045: canonical `மன்னவனாம்;` vs source-visible `மன்னவனும்;`. WFV-046: canonical places existing `அந்த` before `சிறுபாணாற்றுப்படையினிலே`, while source places `அந்த` before `நாவலரின் கற்பனையில்...`. Canonical wording/placement unchanged pending user adjudication."
 language: "ta"
 transcription_method: "Gemini-locked lexical wording with user-authorized C2 heading restoration"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"

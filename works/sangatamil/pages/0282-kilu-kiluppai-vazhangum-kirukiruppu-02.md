@@ -6,6 +6,7 @@ section: "கிலு கிலுப்பை வழங்கும் கி�
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
+visual_notes: "R29 WFV-047: canonical `வலிய எருதுக்கள்` differs from source-visible `வலிய எருதுகள்`. Canonical lexical wording remains unchanged pending user adjudication."
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
