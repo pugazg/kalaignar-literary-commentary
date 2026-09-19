@@ -56,8 +56,8 @@ Earlier Gate-B/C/F checkpoints remain historical evidence only. Later commits ma
 - Gate H — **COMPLETE / PASS — 104 sections / 115 formal units / 4 note-only / 119 provenance leaves / 0 canonical page changes**
 - Gate I — **COMPLETE / PASS — final synchronization / closure**
 - Gate-G historical page status distribution — **43 verified / 453 needs-review / 1 partial**
-- current Tamil re-audit state after R39 — **348 verified / 148 needs-review / 1 partial**
-- current visual-fidelity state after R39 — **348 verified / 149 needs-review / 0 missing**
+- current Tamil re-audit state after R41 — **368 verified / 128 needs-review / 1 partial**
+- current visual-fidelity state after R41 — **368 verified / 129 needs-review / 0 missing**
 - user-directed Tamil word-for-word verification — **IN PROGRESS**
 - restart R01 scans **1–10** — **COMPLETE / PASS — 0 new lexical discrepancies / WFV-001 rejected / scan8 partial**
 - restart R02 scans **11–20** — **COMPLETE / PASS — 0 new lexical discrepancies / 0 lexical substitutions / 0 page-layer mutations**
@@ -98,11 +98,13 @@ Earlier Gate-B/C/F checkpoints remain historical evidence only. Later commits ma
 - restart R37 scans **361–370** — **COMPLETE / PASS — 0 new lexical discrepancies / 0 lexical substitutions / 10 status promotions / C15-004..009 preserved**
 - restart R38 scans **371–380** — **COMPLETE / PASS — 0 new lexical discrepancies / 0 lexical substitutions / 10 status promotions / C15-010+C16-001 preserved**
 - restart R39 scans **381–390** — **COMPLETE / PASS — 0 new lexical discrepancies / 0 lexical substitutions / scan383 nonlexical dash placement / 10 status promotions / C16-002..003 preserved**
+- restart R40 scans **391–400** — **COMPLETE / PASS — 0 new lexical discrepancies / 0 lexical substitutions / 10 status promotions**
+- restart R41 scans **401–410** — **COMPLETE / PASS — 0 new lexical discrepancies / 0 lexical substitutions / 10 status promotions / C17-001..003 preserved**
 - whole-volume word-for-word completion — **NOT YET CLAIMED**
 
 The mixed page-level statuses are intentional. Gate C2 resolved all recorded Gate-C discrepancies but did not perform a fresh exhaustive token-by-token reread of every source word.
 
-**Exact active Tamil activity: restarted Gemini-locked word-for-word + historical-glyph re-audit.** The user-fixed cadence remains **20 pages per iteration**, with durable reporting in 10-scan R batches. R01 scans **1–10** through R39 scans **381–390** are complete. R38+R39 opened **0 new ledger rows** and promoted all **20** reviewed pages. No lexical word or materially disputed token placement was changed. C15-010 and C16-001..003 remain intact; scan **383** received one source-supported nonlexical dash/right-edge placement correction before the existing token `எனக்கு`. Current state is **348 verified / 148 needs-review / 1 partial**. Exact next iteration is **R40 + R41 scans 391–410 (20 pages)** using Part008 pages 41–50 and Part009 pages 1–10.
+**Exact active Tamil activity: restarted Gemini-locked word-for-word + historical-glyph re-audit.** The user-fixed cadence remains **20 pages per iteration**, with durable reporting in 10-scan R batches. R01 scans **1–10** through R41 scans **401–410** are complete. R40+R41 opened **0 new ledger rows** and promoted all **20** reviewed pages. No lexical word or materially disputed token placement was changed. C17-001..003 remain intact. Current state is **368 verified / 128 needs-review / 1 partial**. Exact next iteration is **R42 + R43 scans 411–430 (20 pages)** using Part009 pages 11–30.
 
 Mandatory companion control: `works/sangatamil/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Inspect difficult glyphs at enlarged/native resolution, check the 13 known families, and compare same-edition evidence. **Do not correct lexical words directly**: every new lexical/glyph difference goes to `LEXICAL_DISCREPANCY_LEDGER.md` and awaits explicit user adjudication.
 
@@ -261,19 +263,18 @@ Durable B20 closure: final scans 476–497 completed with 7 page records changed
 
 # Exact next activity — சங்கத் தமிழ்
 
-The Tamil archival workflow is closed. Continue only the separately scoped maintained-English layer.
+Continue the restarted Tamil word-for-word / historical-glyph re-audit before resuming the maintained-English release report.
 
 1. fetch live `main`;
-2. read `works/sangatamil/translations/en/TRANSLATION_GUIDE.md`, `GLOSSARY.md`, `TRANSLATION_STATUS.md`, `SOURCE_CHECK_SC1_REPORT.md` through `SOURCE_CHECK_SC14_REPORT.md`, `GLOSSARY_RECONCILIATION_GR1_REPORT.md` through `GLOSSARY_RECONCILIATION_GR14_REPORT.md`, `EDITORIAL_REVIEW_ER1_REPORT.md`, `EDITORIAL_REVIEW_ER2_REPORT.md`, `EDITORIAL_REVIEW_ER3_REPORT.md`, `EDITORIAL_REVIEW_ER4_REPORT.md`, `EDITORIAL_REVIEW_ER5_REPORT.md`, `EDITORIAL_REVIEW_ER6_REPORT.md`, `EDITORIAL_REVIEW_ER7_REPORT.md`, `EDITORIAL_REVIEW_ER8_REPORT.md`, `EDITORIAL_REVIEW_ER9_REPORT.md`, `EDITORIAL_REVIEW_ER10_REPORT.md`, `EDITORIAL_REVIEW_ER11_REPORT.md`, `EDITORIAL_REVIEW_ER12_REPORT.md`, `EDITORIAL_REVIEW_ER13_REPORT.md`, `EDITORIAL_REVIEW_ER14_REPORT.md`, and `reviews/WHOLE_VOLUME_ENGLISH_REVIEW.md`;
-3. confirm first-pass drafting, source-check and glossary reconciliation are **COMPLETE / CLOSED 497/497**, ER1 scans **1–37**, ER2 scans **38–74**, ER3 scans **75–111**, ER4 scans **112–148**, ER5 scans **149–185**, ER6 scans **186–222**, ER7 scans **223–259**, ER8 scans **260–296**, ER9 scans **297–333**, ER10 scans **334–370**, ER11 scans **371–407**, ER12 scans **408–444**, ER13 scans **445–481**, and ER14 scans **482–497 are COMPLETE / PASS — editorial review COMPLETE / CLOSED 497/497**;
-4. confirm ER14 exact page-layer compare is **1 commit / exactly 16 modified English page files / 0 canonical Tamil changes / 16 status promotions**, with **8 source-faithful editorial refinements**;
-5. read `works/sangatamil/translations/en/reviews/WHOLE_VOLUME_ENGLISH_REVIEW.md` and confirm the whole-volume / section-level review is **PASS / CLOSED**;
-6. create `works/sangatamil/translations/en/reviews/WHOLE_VOLUME_ENGLISH_RELEASE_REPORT.md` for the active release unit scans **1–497**;
-7. decide release approval using the closed English review state; preserve scan 8 as permanent `source-limited` and treat only the **496 `editorial-reviewed`** pages as eligible for promotion;
-8. if and only if the release report approves release, promote eligible pages `editorial-reviewed` → `release-ready` by status-token-only changes with **0 approved English wording changes**;
-9. change **0 canonical Tamil page files**, preserve `translation_type: "project_translation"`, and audit the exact promotion change-set before final synchronization.
+2. read the live tracker, R40/R41 reports, historical-glyph guide, Gemini lock, lexical ledger, C2 progress, README, page-map, section/source registers and English translation status;
+3. process **R42 scans 411–420** from Part009 PDF pages **11–20**;
+4. process **R43 scans 421–430** from Part009 PDF pages **21–30**;
+5. preserve C17-004/C17-005 on scan **413**, C17-006 on **420**, C17-007 on **421**, C17-008 on **422**, C18-001 on **429**, and C18-002 on **430**;
+6. record every new lexical/glyph/material-placement difference under the next WFV ID after **WFV-053** and make **0 lexical substitutions** without explicit user adjudication;
+7. promote only clean fully audited pages and create R42/R43 durable reports;
+8. synchronize tracker, ledger, README, this HANDOVER, page-map, English pause state and `NEXT_CHAT_PROMPT_SANGATH_TAMIL.md`.
 
-Whole-volume word-for-word Tamil scan verification remains **NOT CLAIMED**. English workflow progress must not be interpreted as a Tamil status promotion.
+The maintained-English release-report gate remains **PAUSED** until this Tamil re-audit and any resulting user-adjudicated impacts are reconciled.
 
 # Completed Thirukkural baseline — DO NOT RESTART
 

@@ -135,7 +135,15 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 384–386 | printed 372–374 with scan-385 illustration | `தினைக் கதிரும் துதிக்கையும்!` | **R39 complete / all three verified** |
 | 387–389 | printed 375–377 with scan-388 illustration | `நிறைவுக்கிடையே ஒரு குறையும் உளதே!` | **R39 complete / all three verified** |
 | 390 | printed 378 | start of `ஆடலேறு; மடலேறி வாவா?` | **R39 complete / verified; continues at scan 391** |
-| 391–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
+| 391–392 | printed 380 with scan-391 illustration | end of `ஆடலேறு; மடலேறி வாவா?` | **R40 complete / both verified** |
+| 393–395 | printed 381–383 with scan-394 illustration | `பல்லி சொல்லுக்குப் பலன்!` | **R40 complete / all three verified** |
+| 396–398 | printed 384–386 with scan-397 illustration | `பாசியும் பசலையும்!` | **R40 complete / all three verified** |
+| 399–400 | printed 387 with scan-400 illustration | start of `ஒருத்தி மட்டும் உறங்கவில்லை!` | **R40 complete / both verified; continues at scan 401** |
+| 401 | printed 389 | end of `ஒருத்தி மட்டும் உறங்கவில்லை!` | **R41 complete / verified** |
+| 402–405 | printed 390–393 with scan-403 illustration | `நெஞ்சம் இனிக்கிறது; தஞ்சம்புகத் துடிக்கிறது!` | **R41 complete / all four verified; C17-001/C17-002 preserved** |
+| 406–408 | printed 394–396 with scan-407 illustration | `மணித்தேரில் சென்ற மகன்!` | **R41 complete / all three verified** |
+| 409–410 | printed 397–398 | start of `ஆயமகன் குழலூதினான்!` | **R41 complete / both verified; C17-003 preserved; continues at scan 411** |
+| 411–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
 | 497 | — | back cover / end matter | **Gate D closed / physical endpoint** |
 
 ## Important controls

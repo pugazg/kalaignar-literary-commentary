@@ -2874,6 +2874,57 @@ No canonical lexical word or character was changed.
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R39_SCANS_381_390.md`.
 
+## Restart R40 — scans 391–400
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_008_pages_351-400.pdf`, physical scans 391–400 / PDF pages 41–50
+- reviewed scans: **391–400 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **0**
+- unresolved new lexical pages: **0**
+- source-supported non-lexical body corrections: **0**
+- page-status promotions: **10**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R40 findings
+
+- scans **391–400** — full lexical/glyph review passed and promoted;
+- scans **391, 394, 397 and 400** are full-page illustrations;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R40_SCANS_391_400.md`.
+
+## Restart R41 — scans 401–410
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf`, physical scans 401–410 / PDF pages 1–10
+- reviewed scans: **401–410 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **0**
+- unresolved new lexical pages: **0**
+- source-supported non-lexical body corrections: **0**
+- page-status promotions: **10**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R41 findings
+
+- scans **401–410** — full lexical/glyph review passed and promoted;
+- C17-001/C17-002/C17-003 on scans **402, 404 and 410** were preserved exactly;
+- scans **403 and 407** are full-page illustrations;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R41_SCANS_401_410.md`.
+
 ### Exact next audit range
 
-**R40 + R41 — scans 391–410, 20 pages in the user-requested iteration cadence.** Use Part008 PDF pages **41–50** for scans 391–400 and Part009 PDF pages **1–10** for scans 401–410.
+**R42 + R43 — scans 411–430, 20 pages in the user-requested iteration cadence, using Part009 PDF pages 11–30.**
