@@ -6,6 +6,7 @@ section: "அவள் நிலமானாள்; அவன் மழையா
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
+visual_notes: "R19 WFV-021/WFV-022: source places `அதுபோலக்` before `கூடல் விழா தொடங்குதற்கு;` and `சொல்வேன்!` after `பொழிகின்ற இன்ப மழைச் சுகத்தை நான் என்னென்று`; canonical materially displaces both tokens. Canonical placement remains unchanged pending user adjudication."
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
