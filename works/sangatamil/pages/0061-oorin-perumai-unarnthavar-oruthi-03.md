@@ -4,8 +4,8 @@ printed_page: "46"
 work: "sangatamil"
 section: "ஊரின் பெருமை உணர்த்தினள் ஒருத்தி!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 visual_notes: "running சங்கத் தமிழ் header; continuation text arranged in printed verse/prose blocks; printed page number 46 visible"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
@@ -60,5 +60,4 @@ continues_to_scan: 62
 நடக்கலுற்றாள்!
 
 <!-- Gemini-locked wording is retained; scan 61 controls page-local lineation, paragraph grouping, punctuation and running furniture. -->
-<!-- Review status remains `needs-review`; final audit/status synchronization is a separate activity. -->
 <!-- மூல ஸ்கேன் பக்கம்: 61; அச்சுப் பக்கம்: 46 -->
