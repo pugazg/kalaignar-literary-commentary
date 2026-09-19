@@ -4,8 +4,8 @@ printed_page: "240"
 work: "sangatamil"
 section: "குறளனுக்கோர் கூனியுண்டு!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
@@ -48,8 +48,11 @@ continues_from_scan: 252
 *
 
 > “என் நோற்றனை கொல்லோ? -
-> நீருள் நிழல் போல் நுடங்கிய மென்சாயல்
-> ...
+> நீருள் நிழல்போல் நுடங்கிய மென்சாயல்
+> ................
+> ................
+> ................
+> ................
 > துகள் தபு காட்சி அவையத்தார் ஓலை
 > முகடு காப்பு யாத்து விட்டாங்கு”
 
