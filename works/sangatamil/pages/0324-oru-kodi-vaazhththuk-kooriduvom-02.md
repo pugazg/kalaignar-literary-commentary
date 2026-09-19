@@ -6,9 +6,9 @@ section: "ஒரு கோடி வாழ்த்துக் கூறிட�
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "running work header; explanatory prose followed by direct-address passage; printed page number 312"
+visual_notes: "R33 WFV-050: canonical `அழகுறவே அலுவல்களை அயர்வின்றி ஆற்றும் பாங்கும்;` differs from source-visible `அழகுறவே அலுவல்களே அயர்வின்றி ஆற்றும் பாங்கும்;`. Canonical lexical wording remains unchanged pending user adjudication."
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; R33 source-reviewed with lexical hold"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 323
 ---
