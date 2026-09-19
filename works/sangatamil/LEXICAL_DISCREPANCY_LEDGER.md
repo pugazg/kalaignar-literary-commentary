@@ -2507,6 +2507,70 @@ No canonical lexical word or character was changed.
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R27_SCANS_261_270.md`.
 
+## Restart R28 — scans 271–280
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_006_pages_251-300.pdf`, physical scans 271–280
+- reviewed scans: **271–280 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **0**
+- unresolved new lexical pages: **0**
+- source-supported non-lexical body corrections: **0**
+- page-status promotions: **10**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R28 findings
+
+- scans **271–280** — full lexical/glyph review passed and promoted;
+- scan **274 / C11-006** — `பொன்மானின் துயர்துடைக்கப் புறப்படுக மன்னா; என்றார்!` confirmed and preserved exactly;
+- scans **271, 275 and 279** — full-page illustrations verified;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R28_SCANS_271_280.md`.
+
+## Restart R29 — scans 281–290
+
+**Status: COMPLETE / PASS WITH LEXICAL HOLDS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_006_pages_251-300.pdf`, physical scans 281–290
+- reviewed scans: **281–290 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **4** — WFV-045 through WFV-048
+- unresolved new lexical pages: **3** — scans 281, 282, 290
+- source-supported non-lexical body corrections: **0**
+- page-status promotions: **7**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### New R29 WFV rows
+
+| ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
+|---|---:|---:|---|---|---|---|
+| WFV-045 | 281 | 269 | `கடையேழு வள்ளல்களைக் குறுநில மன்னவனாம்;` | source visibly reads `கடையேழு வள்ளல்களைக் குறுநில மன்னவனும்;` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 281 remains needs-review** |
+| WFV-046 | 281 | 269 | canonical places existing `அந்த` in `நாவலரின் கற்பனையில் விளைந்திட்ட அந்த சிறுபாணாற்றுப்படையினிலே;` | source places `அந்த` before `நாவலரின் கற்பனையில்...`, yielding source order `அந்த / நாவலரின் கற்பனையில் விளைந்திட்ட / சிறுபாணாற்றுப்படையினிலே;` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — token not moved; same scan-281 hold** |
+| WFV-047 | 282 | 270 | `வலிய எருதுக்கள் பூட்டிய அந்த வண்டிகளுடன் முந்தி` | source visibly reads `வலிய எருதுகள் பூட்டிய அந்த வண்டிகளுடன் முந்தி` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 282 remains needs-review** |
+| WFV-048 | 290 | 278 | `வெறியாடி நோய் தீர்க்கும் வேலனாம் பூசாரி தேவையில்லை;` | source visibly reads `வெறியாடி நோய் தீர்க்கும் வேலனும் பூசாரி தேவையில்லை;` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 290 remains needs-review** |
+
+### R29 findings
+
+- scans **283–289** — full lexical/glyph review passed and promoted;
+- scans **281, 282 and 290** — WFV-045 through WFV-048 opened; no lexical edit or material token move applied;
+- scan **281 / C12-001** — exact heading `கிலு கிலுப்பை / வழங்கும் / கிறுகிறுப்பு!` preserved;
+- scan **288 / C12-002** — exact heading `வெறியாடும் / வேலன் / எதற்காக?` preserved;
+- scan **290 / C12-003** — `முறித்துப் போட்டதுபோல் நெளிகின்றாள், வளைகின்றாள்!` preserved;
+- scans **283, 286 and 289** — full-page illustrations verified;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R29_SCANS_281_290.md`.
+
 ### Exact next audit range
 
-**R28 + R29 — scans 271–290, 20 pages in the user-requested iteration cadence.**
+**R30 + R31 — scans 291–310, 20 pages in the user-requested iteration cadence.**

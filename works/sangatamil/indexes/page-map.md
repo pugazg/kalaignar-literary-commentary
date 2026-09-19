@@ -97,7 +97,13 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 258–262 | printed 245, 248–250 plus scan-259 illustrated text spread | `பஞ்சணையில் அரசி; பாசறையில் மன்னன்!` | **R26/R27 complete / scans 258–260 verified; scans 261–262 needs-review on WFV-042/WFV-043** |
 | 263–268 | printed 251–252, 254–256 with scan-265 illustration | `பழி தீர்த்துப் பகை முடித்தாள்!` | **R27 complete / all six verified** |
 | 269–270 | printed 257–258 | start of `நாடு வாழவும் நலிவு தீரவும்...` | **R27 complete / scan 269 verified; scan 270 needs-review on WFV-044; continues at scan 271** |
-| 271–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
+| 271–272 | printed 260 with scan-271 illustration | end of `நாடு வாழவும் நலிவு தீரவும்...` | **R28 complete / both verified** |
+| 273–276 | printed 261–262, 264 with scan-275 illustration | `அன்றைக்கே ஒரு கண்ணகி!` | **R28 complete / all four verified; C11-006 scan-274 preserved** |
+| 277–280 | printed 265–266, 268 with scan-279 illustration | `எமக்குத் தென்றல்; எதிரிக்கோ புயல்!` | **R28 complete / all four verified** |
+| 281–284 | printed 269–270, 272 with scan-283 illustration | `கிலு கிலுப்பை வழங்கும் கிறுகிறுப்பு!` | **R29 complete / scans 283–284 verified; scans 281–282 needs-review on WFV-045..047; C12-001 preserved** |
+| 285–287 | printed 273, 275 with scan-286 illustration | `'இனம்' காட்டும் இயற்கைக் காட்சி!` | **R29 complete / all three verified** |
+| 288–290 | printed 276, 278 with scan-289 illustration | start of `வெறியாடும் வேலன் எதற்காக?` | **R29 complete / scans 288–289 verified; scan 290 needs-review on WFV-048; C12-002/C12-003 preserved; continues at scan 291** |
+| 291–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
 | 497 | — | back cover / end matter | **Gate D closed / physical endpoint** |
 
 ## Important controls
