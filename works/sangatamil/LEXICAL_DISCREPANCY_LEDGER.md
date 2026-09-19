@@ -1606,7 +1606,7 @@ These rows are therefore **not correction authorizations**. Canonical wording st
 | WFV-001 | 7 | II | `0007-publication-details.md` | `ராக்போர்ட்` | earlier provisional read `ராக்ஃபோர்ட்` | `likely-gemini-error` | **REJECTED ON R01 RE-AUDIT — high-resolution scan + same-edition evidence support canonical `ராக்போர்ட்`; no lexical discrepancy** |
 | WFV-002 | 62 | 47 | `0062-oorin-perumai-unarnthavar-oruthi-04.md` | canonical places `தனது` before `பலாமரத்து இலைச்சருகுகளில்`, then proceeds `படர்ந்துள்ள கொடியுதிர் மலர்களில் / பாதம்...` | source places the same token later as `படர்ந்துள்ள கொடியுதிர் மலர்களில் - தனது / பாதம்...` | `token-placement / likely-gemini-error` | **R07 CONFIRMED / PENDING USER ADJUDICATION — canonical wording/placement unchanged; scan 62 remains needs-review** |
 | WFV-003 | 69 | 54 | `0069-vaanan-manandha-vannath-thirumagal-05.md` | `தலைமகனாம் என் கணவர்` | `தலைமகனும் என் கணவர்` | `likely-gemini-error` | **R07 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 69 remains needs-review** |
-| WFV-004 | 83 | 68 | `0083-pisiranthaiyar-2-02.md` | `மாலையாவதில்ல - ஆழல்` | `மாலையாவதில்ல - ஆனால்` | `likely-gemini-error` | **PENDING RECONFIRMATION IN RESTART 10-PAGE AUDIT — do not change word** |
+| WFV-004 | 83 | 68 | `0083-pisiranthaiyar-2-02.md` | `மாலையாவதில்ல - ஆழல்` | `மாலையாவதில்ல - ஆனால்` | `likely-gemini-error` | **R09 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 83 remains needs-review** |
 | WFV-005 | 91 | 76 | `0091-pisirandhaiyar-4-01.md` | `வாராத காரணம்தான்` | `வராத காரணம்தான்` | `likely-gemini-error` | **PENDING RECONFIRMATION IN RESTART 10-PAGE AUDIT — do not change word** |
 | WFV-006 | 25 | 10 | `0025-maanangkaatha-maravan-01.md` | `வளையாத முதுகெலும்பு பெற்றவனோ?` | `வளையாத முதுகெலும்பு பெற்றவனே?` | `likely-gemini-error` | **R03 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 25 reopened to needs-review** |
 | WFV-007 | 30 | 15 | `0030-maanangkaatha-maravan-06.md` | quotation `ஆள்அன்று என்று வாளின் தப்பார்;` | quotation source `ஆளன்று என்று வாளின் தப்பார்;` | `old-or-uncommon-form` | **R03 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 30 reopened to needs-review** |
@@ -1614,6 +1614,8 @@ These rows are therefore **not correction authorizations**. Canonical wording st
 | WFV-009 | 49 | 34 | `0049-kaakkaikku-nandri-kaatta-03.md` | quotation `திண்டோர் நள்ளி கானத் தண்டர்` | quotation source `திண்டேர் நள்ளி கானத் தண்டர்` | `likely-gemini-error` | **R05 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 49 reopened to needs-review** |
 | WFV-010 | 55 | 40 | `0055-nellum-uyir-anre-neerum-uyir-anre-01.md` | `ஆன்றவிந் தடங்கிய மேலோர் புலவர் அவை கூடிற்றாம்!` | source `ஆன்றவிந் தடங்கிய மேலோர் புலவர் அவை கூடிற்றும்!` | `likely-gemini-error` | **R06 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 55 remains needs-review** |
 | WFV-011 | 67 | 52 | `0067-vaanan-manandha-vannath-thirumagal-03.md` | `அவசரமாய்ப் புறப்பட்டான் தேர்ஏறி!` | source `அவசரமாய்ப் புறப்பட்டான் தேரேறி!` | `likely-gemini-error` | **R07 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 67 remains needs-review** |
+| WFV-012 | 85 | 70 | `0085-pisirandhaiyar-3-01.md` | canonical moves directly from `வளர்ந்த மகன், மனைவியுடன் வயலுக்குச் சென்றுளான்` to `வருவதற்கு நேரமாகும்; அஞ்சாதே!` | source visibly includes right-offset `- அவர்கள்` between those lines | `missing-source-token / likely-gemini-error` | **R09 CONFIRMED / PENDING USER ADJUDICATION — canonical body unchanged; scan 85 remains needs-review** |
+| WFV-013 | 87 | 72 | `0087-pisirandhaiyar-3-02.md` | canonical places `நல்ல` before `இலக்கிய மேதைகள்` | source places `நல்ல` with `இமிழ் கடல் தாண்டியும் புகழ் மணம் பரப்பி - நல்ல / அகில், மிளகு, முத்து வாணிபம் புரிவார்!` | `token-placement / likely-gemini-error` | **R09 CONFIRMED / PENDING USER ADJUDICATION — canonical token placement unchanged; scan 87 remains needs-review** |
 
 Non-lexical observations from the same review, such as token placement, lineation or punctuation, are not entered here unless they change the lexical reading.
 
@@ -1873,6 +1875,41 @@ No canonical word or character was changed.
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R08_SCANS_071_080.md`.
 
+## Restart R09 — scans 81–90
+
+**Status: COMPLETE / PASS WITH LEXICAL HOLDS**
+
+- date: **2026-09-19**
+- source: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_002_pages_51-100.pdf`
+- cadence: **10 physical scans per iteration**
+- reviewed scans: **81–90 / 10**
+- canonical lexical substitutions: **0**
+- reconfirmed pre-restart rows: **1** — WFV-004
+- new lexical discrepancy rows: **2** — WFV-012 and WFV-013
+- unresolved lexical pages in this batch: **3** — scans 83, 85, 87
+- source-supported non-lexical body corrections: **1 page file** — scan 88 punctuation only
+- page-status promotions: **7** — scans 81, 82, 84, 86, 88, 89, 90
+- page-layer lexical mutations: **0**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R09 findings
+
+- scan **81** — decorative heading/body reviewed; no new lexical/glyph discrepancy;
+- scan **82** — full-page illustration verified;
+- scan **83** — WFV-004 reconfirmed at enlarged/native resolution: canonical `மாலையாவதில்ல - ஆழல்` vs source-visible `மாலையாவதில்ல - ஆனால்`; prior C2-04 restored introductory prose block preserved; no lexical edit;
+- scan **84** — quotation/provenance/gloss reviewed; no new discrepancy;
+- scan **85** — new WFV-012: source visibly prints right-offset `- அவர்கள்` after `வளர்ந்த மகன், மனைவியுடன் வயலுக்குச் சென்றுளான்`; canonical omits the token. The earlier comment treating `அவர்கள்` as unsupported noise was corrected, but the canonical body remains unchanged;
+- scan **86** — full-page illustration verified;
+- scan **87** — new WFV-013: source places `நல்ல` with the `அகில், மிளகு, முத்து` trade line, whereas canonical places `நல்ல` before `இலக்கிய மேதைகள்`; canonical token placement unchanged. Prior C2 scan-87 `சந்தையில் தொலைத்துவிட்ட பொருளாயிற்றே தமது மகிழ்ச்சி` remains protected;
+- scan **88** — source-supported comma restored in `போர்ப்புகை, அணைந்ததா`; no lexical change;
+- scans **89–90** — full lexical/glyph review passed with no new discrepancy;
+- existing WFV-002, WFV-003 and WFV-006 through WFV-011 remain pending explicit user adjudication and were not altered.
+
+No canonical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R09_SCANS_081_090.md`.
+
 ### Exact next audit range
 
-**R09 — scans 81–90.**
+**R10 — scans 91–100.**
