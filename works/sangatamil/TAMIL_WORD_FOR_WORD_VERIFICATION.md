@@ -46,16 +46,16 @@ Historical Gate-G baseline:
 - `needs-review` — **453**
 - `partial` — **1**
 
-Current state after R15 scans 141–150:
+Current state after R17 scans 161–170:
 
-- `verified` — **137**
-- `needs-review` — **359**
+- `verified` — **157**
+- `needs-review` — **339**
 - `partial` — **1**
-- visual `verified` — **137**
-- visual `needs-review` — **360**
+- visual `verified` — **157**
+- visual `needs-review` — **340**
 - blocked — **0**
 
-R01–R15 changed **0 lexical words**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** on scan **49**; R06 discovered **1** on scan **55**; R07 reconfirmed WFV-002 and WFV-003 and discovered WFV-011 on scan **67**; R08 found **0** new discrepancies; R09 reconfirmed WFV-004 and discovered WFV-012 and WFV-013; R10 reconfirmed WFV-005 and discovered WFV-014; R11–R15 found **0** new lexical discrepancies. All disputed lexical wording remains unchanged.
+R01–R17 changed **0 lexical words**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** on scan **49**; R06 discovered **1** on scan **55**; R07 reconfirmed WFV-002 and WFV-003 and discovered WFV-011 on scan **67**; R08 found **0** new discrepancies; R09 reconfirmed WFV-004 and discovered WFV-012 and WFV-013; R10 reconfirmed WFV-005 and discovered WFV-014; R11–R17 found **0** new lexical discrepancies. All disputed lexical wording remains unchanged.
 
 ## R01 — scans 1–10
 
@@ -327,6 +327,41 @@ Results:
 - C2-06 contains no discrepancy records for scans 141–150;
 - whole-volume state now **137 verified / 359 needs-review / 1 partial**.
 
+## R16 — scans 151–160
+
+**COMPLETE / PASS**
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R16_SCANS_151_160.md`
+
+Results:
+
+- scans **151–160** — full restart audit completed;
+- new lexical discrepancy rows — **0**;
+- canonical lexical substitutions — **0**;
+- source-supported non-lexical body corrections — **0**;
+- page-status promotions — **10**;
+- scans 156 and 160 full-page illustrations verified;
+- C2-07 contains no adjudication records within scans 151–160;
+- whole-volume state after R16 — **147 verified / 349 needs-review / 1 partial**.
+
+## R17 — scans 161–170
+
+**COMPLETE / PASS**
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R17_SCANS_161_170.md`
+
+Results:
+
+- scans **161–170** — full restart audit completed;
+- new lexical discrepancy rows — **0**;
+- canonical lexical substitutions — **0**;
+- source-supported non-lexical body corrections — **0**;
+- page-status promotions — **10**;
+- scan 163 C07-001 `கொங்கர்க் குடகடல் ஓட்டிய ஞான்றைத்` preserved;
+- scan 165 C07-002 heading `காடைப் போர் கண்டுவந்த கணவன்!` preserved;
+- scan 170 historical `னா` identity in `கானாங் கோழி` confirmed by same-page edition evidence; no discrepancy row opened;
+- whole-volume state now **157 verified / 339 needs-review / 1 partial**.
+
 ## Pre-restart Part002 candidate rows
 
 The earlier interrupted Part002 review is **not counted as completed restart coverage**.
@@ -354,21 +389,20 @@ Do not change any pending lexical wording before explicit user adjudication.
 | R13 | 121–130 | **COMPLETE / PASS** |
 | R14 | 131–140 | **COMPLETE / PASS** |
 | R15 | 141–150 | **COMPLETE / PASS** |
-| R16 | 151–160 | **NEXT — process together with R17** |
-| R17 | 161–170 | **NEXT — same 20-page iteration** |
+| R16 | 151–160 | **COMPLETE / PASS** |
+| R17 | 161–170 | **COMPLETE / PASS** |
 | R18–R49 | 171–490 | pending in 10-scan cadence |
 | R50 | 491–497 | final 7-scan remainder |
 
 ## Exact next activity
 
-Process **R16 + R17 — scans 151–170** as the next **20-page iteration** using the supplied Part004 / controlling source PDF.
+Process **R18 + R19 — scans 171–190** as the next **20-page iteration** using Part004 / the controlling user-supplied source.
 
-At R17 close:
+At R19 close:
 
-- inspect all 10 scans at enlarged/native resolution;
-- apply the historical-glyph guide;
-- check all 13 known families where present;
-- preserve prior explicit C2 adjudications;
+- inspect all scans at enlarged/native resolution;
+- apply the historical-glyph guide and check all 13 known families where present;
+- preserve prior explicit C2 adjudications, including scans 174, 175, 180 and 188;
 - record every new lexical/glyph difference in the discrepancy ledger;
 - change **0 lexical words without user adjudication**;
 - apply only non-lexical source-supported structure/punctuation/layout changes;

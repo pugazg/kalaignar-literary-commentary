@@ -68,7 +68,11 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 137–142 | printed 122–127 with scan-138 illustration | `இளையோன் எதற்கும் இளையான்!` | **R14/R15 source re-audit PASS / all six verified; section identity and quotation/gloss structure preserved; 0 lexical discrepancies** |
 | 143–147 | scan-143 two-page spread; printed 130–133 visible after opener | `குக்கூ! என்றது கோழி!` | **R15 source re-audit PASS / all five verified; spread structure and prior extraction-debris exclusions preserved** |
 | 148–150 | scan-148 two-page illustrated opener; printed 136–137 visible on scans 149–150 | start of `கவிஞர்கள் தெளித்த பன்னீரும் வடித்த கண்ணீரும்!` | **R15 source re-audit PASS / scans 148–150 verified; scan-149 `மன்னன்!` placement and scan-150 `பட்டமும்` boundary preserved** |
-| 151–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
+| 151–153 | printed 138–140 | end of `கவிஞர்கள் தெளித்த பன்னீரும் வடித்த கண்ணீரும்!` | **R16 source re-audit PASS / all three verified; quotation, note and gloss structure preserved; 0 lexical discrepancies** |
+| 154–158 | printed 141–145 with scan-156 illustration | `செவிலி தேடிய சித்திரப் பாவை!` | **R16 source re-audit PASS / all five verified; quotation/provenance/gloss order preserved; 0 lexical discrepancies** |
+| 159–164 | printed 146, 148–151 with scan-160 illustration | `பதிலை நெருப்பாக உமிழ்ந்த பாவாணர்!` | **R16/R17 source re-audit PASS / all six verified; scan-163 C07-001 `குடகடல் ஓட்டிய ஞான்றைத்` preserved; 0 lexical discrepancies** |
+| 165–170 | printed 152–157 with scan-166 illustration | `காடைப் போர் கண்டுவந்த கணவன்!` | **R17 source re-audit PASS / all six verified; C07-002 heading preserved; scan-170 historical `னா` identity source-checked; 0 lexical discrepancies** |
+| 171–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
 | 497 | — | back cover / end matter | **Gate D closed / physical endpoint** |
 
 ## Important controls

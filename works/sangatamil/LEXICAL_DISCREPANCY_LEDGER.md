@@ -2088,6 +2088,63 @@ No canonical word or character was changed.
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R15_SCANS_141_150.md`.
 
+## Restart R16 — scans 151–160
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_004_pages_151-200.pdf`, physical scans 151–160
+- reviewed scans: **151–160 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **0**
+- unresolved new lexical pages: **0**
+- source-supported non-lexical body corrections: **0**
+- page-status promotions: **10**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R16 findings
+
+- scans **151–155, 157–159** — full printed-page lexical/glyph review passed with no new discrepancy;
+- scans **156 and 160** — full-page colour illustrations verified; no literary text inferred;
+- scan **158** quotation/provenance/gloss order remains source-supported;
+- C2-07 contains no adjudication records within scans **151–160**;
+- all earlier WFV holds remain unchanged.
+
+No canonical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R16_SCANS_151_160.md`.
+
+## Restart R17 — scans 161–170
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_004_pages_151-200.pdf`, physical scans 161–170
+- reviewed scans: **161–170 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **0**
+- unresolved new lexical pages: **0**
+- source-supported non-lexical body corrections: **0**
+- page-status promotions: **10**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R17 findings
+
+- scans **161–162, 164, 167–170** — full printed-page lexical/glyph review passed with no new discrepancy;
+- scan **163** — C07-001 user-authorized `கொங்கர்க் குடகடல் ஓட்டிய ஞான்றைத்` remains exact; no regression to `ஓடிய`;
+- scan **165** — C07-002 decorative/source heading `காடைப் போர் கண்டுவந்த கணவன்!` remains exact;
+- scan **166** — full-page colour illustration verified;
+- scan **169** — four source-visible dotted omission rows retained as punctuation structure, not invented lexical text;
+- scan **170** — historical `னா` identity in glossary `கானாங் கோழி` was checked at enlarged/native resolution against same-page `இளநாகனார்`; canonical character identity is supported, so no WFV row was opened;
+- C07-003 scan 174 and C07-004 scan 175 were not pulled forward;
+- all earlier WFV holds remain unchanged.
+
+No canonical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R17_SCANS_161_170.md`.
+
 ### Exact next audit range
 
-**R16 + R17 — scans 151–170, 20 pages in the user-requested iteration cadence.**
+**R18 + R19 — scans 171–190, 20 pages in the user-requested iteration cadence.**
