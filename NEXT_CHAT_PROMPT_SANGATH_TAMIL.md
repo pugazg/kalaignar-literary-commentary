@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / RE-AUDIT R08 scans 71–80
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / RE-AUDIT R09 scans 81–90
 
 Continue only from live `main` in `pugazg/kalaignar-literary-commentary`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -12,9 +12,10 @@ R03 scans **21–30 — COMPLETE / PASS WITH LEXICAL HOLDS**.
 R04 scans **31–40 — COMPLETE / PASS**.  
 R05 scans **41–50 — COMPLETE / PASS WITH LEXICAL HOLD**.  
 R06 scans **51–60 — COMPLETE / PASS WITH LEXICAL HOLD**.  
-R07 scans **61–70 — COMPLETE / PASS WITH LEXICAL HOLDS**.
+R07 scans **61–70 — COMPLETE / PASS WITH LEXICAL HOLDS**.  
+R08 scans **71–80 — COMPLETE / PASS**.
 
-**Exact next range: R08 scans 71–80.**
+**Exact next range: R09 scans 81–90.**
 
 Use:
 
@@ -23,8 +24,8 @@ Use:
 ## Read first — mandatory
 
 1. `works/sangatamil/TAMIL_WORD_FOR_WORD_VERIFICATION.md`
-2. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R06_SCANS_051_060.md`
-3. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R07_SCANS_061_070.md`
+2. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R07_SCANS_061_070.md`
+3. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R08_SCANS_071_080.md`
 4. `works/sangatamil/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
 5. `works/sangatamil/GEMINI_TEXT_LOCK.md`
 6. `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`
@@ -63,7 +64,7 @@ For every printed page:
 
 Even strongly supported glyph differences are **ledger-first**.
 
-## Durable state through R07
+## Durable state through R08
 
 ### Current unresolved holds — DO NOT CHANGE
 
@@ -76,36 +77,49 @@ Even strongly supported glyph differences are **ledger-first**.
 - **WFV-010 / scan 55** — `கூடிற்றாம்!` vs source `கூடிற்றும்!`
 - **WFV-011 / scan 67** — `தேர்ஏறி!` vs source `தேரேறி!`
 
-### R07
+### R08
 
-- scans **61–70** — COMPLETE / PASS WITH LEXICAL HOLDS
-- WFV-002 and WFV-003 — reconfirmed
-- new WFV row — WFV-011
+- scans **71–80** — COMPLETE / PASS
+- new lexical discrepancy rows — **0**
 - canonical lexical substitutions — **0**
-- page-status promotions — **7**
-- current Tamil state — **62 verified / 434 needs-review / 1 partial**
-- current visual state — **62 verified / 435 needs-review**
+- page-status promotions — **10**
+- protected C2 scan-77 `பாண்டிநாட்டுச் சிற்றூரில்` retained
+- earlier provisional suspicions on scans **73, 78, 79** remain rejected after high-resolution review
+- current Tamil state — **72 verified / 424 needs-review / 1 partial**
+- current visual state — **72 verified / 425 needs-review**
 
-## R08 exact activity — scans 71–80
+## R09 pre-existing candidate — MUST RECONFIRM, NOT APPLY
 
-Process exactly **10 physical scans: 71–80** from Part002.
+R09 contains earlier interrupted-cadence candidate:
+
+- **WFV-004 / scan 83 / printed 68**
+  - canonical: `மாலையாவதில்ல - ஆழல்`
+  - earlier source observation: `மாலையாவதில்ல - ஆனால்`
+  - status before R09: **PENDING RECONFIRMATION — do not change word**
+
+Scan 83 also has a prior **C2-04 user-authorized restored introductory prose block before the quotation**. Preserve that restored block. Reconfirm only the WFV-004 disputed lexical form at enlarged/native resolution; do not silently alter it.
+
+## R09 exact activity — scans 81–90
+
+Process exactly **10 physical scans: 81–90** from Part002.
 
 For each page:
 
 1. compare canonical Tamil word-for-word against the source scan;
 2. inspect at enlarged/native resolution;
 3. apply the historical-glyph checklist;
-4. preserve prior explicit C2 rulings;
-5. record every newly confirmed lexical/glyph difference in the ledger;
-6. **change 0 lexical words without explicit user adjudication**;
-7. apply only source-supported non-lexical structure/punctuation/layout corrections;
-8. promote clean fully audited pages to `verified` / visual `verified` where appropriate;
-9. unresolved lexical pages remain `needs-review`;
-10. do not alter unresolved WFV-002, WFV-003 or WFV-006 through WFV-011.
+4. preserve prior explicit C2 rulings, especially scan 83;
+5. reconfirm WFV-004 when scan 83 is reached;
+6. record any additional lexical/glyph difference in the ledger;
+7. **change 0 lexical words without explicit user adjudication**;
+8. apply only source-supported non-lexical structure/punctuation/layout corrections;
+9. promote clean fully audited pages to `verified` / visual `verified` where appropriate;
+10. unresolved lexical pages stay `needs-review`;
+11. do not alter WFV-002, WFV-003 or WFV-006 through WFV-011.
 
-At R08 close create:
+At R09 close create:
 
-`works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R08_SCANS_071_080.md`
+`works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R09_SCANS_081_090.md`
 
 Then synchronize:
 
@@ -119,4 +133,4 @@ Then synchronize:
 
 The English release-report gate stays paused.
 
-After R08, exact next range becomes **R09 scans 81–90**. R09 contains pre-existing candidate **WFV-004 / scan 83**, which must be reconfirmed there rather than altered in advance.
+After R09, exact next range becomes **R10 scans 91–100**. R10 contains pre-existing candidate **WFV-005 / scan 91**, which must be reconfirmed there rather than altered in advance.
