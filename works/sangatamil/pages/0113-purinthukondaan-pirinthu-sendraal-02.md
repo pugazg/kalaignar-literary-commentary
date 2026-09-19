@@ -2,10 +2,10 @@
 scan_page: 113
 printed_page: "98"
 work: "sangatamil"
-section: "புரிந்துகொண்டான்; பிரிந்து சென்றாள்!"
+section: "புரிந்துகொண்டான்; பிரிந்துசென்றார்!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording with user-authorized C2 source-block restoration"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
