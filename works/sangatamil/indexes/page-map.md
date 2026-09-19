@@ -92,7 +92,12 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 241–244 | printed 228, 230–231 with scan-242 illustration | `வாடைக் காற்றில் வாடிய காதலி!` | **R25 complete / all four verified** |
 | 245–248 | printed 232, 234–235 with scan-246 illustration | `வாளிங்கே-அவன் நாக்கெங்கே?` | **R25 complete / scans 245–247 verified; scan 248 needs-review on WFV-040; C10-005 preserved** |
 | 249–250 | printed 236 with scan-250 illustration | start of `குறளனுக்கோர் கூனியுண்டு!` | **R25 complete / both verified; continues at scan 251** |
-| 251–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
+| 251–253 | printed 238–240 | continuation/end of `குறளனுக்கோர் கூனியுண்டு!` | **R26 complete / all three verified** |
+| 254–257 | printed 241–242, 244 with scan-256 illustration | `குப்பைக் கோழியார்!` | **R26 complete / scans 255–257 verified; scan 254 needs-review on WFV-041; C11-001..005 preserved** |
+| 258–262 | printed 245, 248–250 plus scan-259 illustrated text spread | `பஞ்சணையில் அரசி; பாசறையில் மன்னன்!` | **R26/R27 complete / scans 258–260 verified; scans 261–262 needs-review on WFV-042/WFV-043** |
+| 263–268 | printed 251–252, 254–256 with scan-265 illustration | `பழி தீர்த்துப் பகை முடித்தாள்!` | **R27 complete / all six verified** |
+| 269–270 | printed 257–258 | start of `நாடு வாழவும் நலிவு தீரவும்...` | **R27 complete / scan 269 verified; scan 270 needs-review on WFV-044; continues at scan 271** |
+| 271–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
 | 497 | — | back cover / end matter | **Gate D closed / physical endpoint** |
 
 ## Important controls

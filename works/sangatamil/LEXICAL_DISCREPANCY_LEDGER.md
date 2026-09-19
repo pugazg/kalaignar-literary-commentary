@@ -2438,6 +2438,75 @@ No canonical lexical word or character was changed.
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R25_SCANS_241_250.md`.
 
+## Restart R26 — scans 251–260
+
+**Status: COMPLETE / PASS WITH LEXICAL HOLD**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_006_pages_251-300.pdf`, physical scans 251–260
+- reviewed scans: **251–260 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy row: **1** — WFV-041
+- unresolved new lexical page: **1** — scan 254
+- source-supported non-lexical correction: **scan 253**
+- page-status promotions: **9**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### New R26 WFV row
+
+| ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
+|---|---:|---:|---|---|---|---|
+| WFV-041 | 254 | 241 | `‘கண்மணீ!’ என்றழைத்துக் கட்டித் தழுவிடவே` | source visibly prints `“கண்மணி!” என்றழைத்துக் கட்டித் தழுவிடவே` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical `கண்மணீ!` unchanged; scan 254 remains needs-review** |
+
+### R26 findings
+
+- scans **251–253, 255–260** — full lexical/glyph review passed and promoted;
+- scan **254 / WFV-041** — source/canonical vowel difference ledgered; no lexical edit applied;
+- scan **254 / C11-001** — one source-supported `இந்தச்` remains protected;
+- scan **257 / C11-002..005** — all earlier explicit user rulings preserved exactly;
+- scan **256** — full-page illustration verified;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R26_SCANS_251_260.md`.
+
+## Restart R27 — scans 261–270
+
+**Status: COMPLETE / PASS WITH LEXICAL HOLDS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_006_pages_251-300.pdf`, physical scans 261–270
+- reviewed scans: **261–270 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **3** — WFV-042 through WFV-044
+- unresolved new lexical pages: **3** — scans 261, 262, 270
+- source-supported non-lexical correction: **cross-page quotation punctuation on scans 263–264**
+- page-status promotions: **7**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### New R27 WFV rows
+
+| ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
+|---|---:|---:|---|---|---|---|
+| WFV-042 | 261 | 249 | canonical places `அவன்;` after `வாளேந்தும் போர் முகத்தை மறந்துவிட்டு,` | source places existing `அவன்;` immediately after `அதனாலே`, before `வாளேந்தும் போர் முகத்தை மறந்துவிட்டு,` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — token not moved; scan 261 remains needs-review** |
+| WFV-043 | 262 | 250 | canonical proceeds from `கடமையினை ஆற்றுதற்குக் கால்கடுக்கச் சுற்றுகின்றான்;` directly to `அகமென்றும்...` | source visibly inserts standalone/right-edge `பாசறையை!` after `...சுற்றுகின்றான்;` | `missing-source-token / likely-gemini-error` | **PENDING USER ADJUDICATION — `பாசறையை!` not inserted; scan 262 remains needs-review** |
+| WFV-044 | 270 | 258 | canonical places existing `வழங்கி -,` after `அரசுதனை நடத்துகின்ற அறவழி பலவும் அன்பாய்` | source places `வழங்கி -,` immediately after `அவரையெல்லாம் வரவேற்று அவர்க்கு வேண்டுவன`, before the `அரசுதனை...` line | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — token not moved; scan 270 remains needs-review** |
+
+### R27 findings
+
+- scans **263–269** — full lexical/glyph review passed and promoted;
+- scans **261, 262 and 270** — WFV-042 through WFV-044 opened; no lexical edit or material token move applied;
+- scans **263–264** — quotation-boundary punctuation aligned to the source without changing lexical wording;
+- scan **265** — full-page illustration verified;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R27_SCANS_261_270.md`.
+
 ### Exact next audit range
 
-**R26 + R27 — scans 251–270, 20 pages in the user-requested iteration cadence.**
+**R28 + R29 — scans 271–290, 20 pages in the user-requested iteration cadence.**

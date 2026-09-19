@@ -46,17 +46,17 @@ Historical Gate-G baseline:
 - `needs-review` — **453**
 - `partial` — **1**
 
-Current state after R25 scans 241–250:
+Current state after R27 scans 261–270:
 
-- `verified` — **220**
-- `needs-review` — **276**
+- `verified` — **236**
+- `needs-review` — **260**
 - `partial` — **1**
-- visual `verified` — **220**
-- visual `needs-review` — **277**
+- visual `verified` — **236**
+- visual `needs-review` — **261**
 - blocked — **0**
-- restart coverage — **250/497**
+- restart coverage — **270/497**
 
-R01–R25 changed **0 lexical words**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** on scan **49**; R06 discovered **1** on scan **55**; R07 reconfirmed WFV-002 and WFV-003 and discovered WFV-011 on scan **67**; R08 found **0** new discrepancies; R09 reconfirmed WFV-004 and discovered WFV-012 and WFV-013; R10 reconfirmed WFV-005 and discovered WFV-014; R11–R17 found **0** new discrepancies; R18 opened **WFV-015 through WFV-019**; R19 opened **WFV-020 through WFV-022**; R20 opened **WFV-023 and WFV-024**; R21 opened **WFV-025 and WFV-026**; R22 opened **WFV-027 through WFV-029**; R23 opened **WFV-030 through WFV-032**; R24 opened **WFV-033 through WFV-039**; R25 opened **WFV-040**. All disputed lexical wording and material token placement remain unchanged pending user adjudication.
+R01–R27 changed **0 lexical words**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** on scan **49**; R06 discovered **1** on scan **55**; R07 reconfirmed WFV-002 and WFV-003 and discovered WFV-011 on scan **67**; R08 found **0** new discrepancies; R09 reconfirmed WFV-004 and discovered WFV-012 and WFV-013; R10 reconfirmed WFV-005 and discovered WFV-014; R11–R17 found **0** new discrepancies; R18 opened **WFV-015 through WFV-019**; R19 opened **WFV-020 through WFV-022**; R20 opened **WFV-023 and WFV-024**; R21 opened **WFV-025 and WFV-026**; R22 opened **WFV-027 through WFV-029**; R23 opened **WFV-030 through WFV-032**; R24 opened **WFV-033 through WFV-039**; R25 opened **WFV-040**; R26 opened **WFV-041**; R27 opened **WFV-042 through WFV-044**. All disputed lexical wording and material token placement remain unchanged pending user adjudication.
 
 ## R01 — scans 1–10
 
@@ -500,6 +500,42 @@ Results:
 - scans **242, 246 and 250** full-page illustrations verified;
 - whole-volume state after R25 — **220 verified / 276 needs-review / 1 partial**.
 
+## R26 — scans 251–260
+
+**COMPLETE / PASS WITH LEXICAL HOLD**
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R26_SCANS_251_260.md`
+
+Results:
+
+- scans **251–260** — full restart audit completed;
+- new lexical discrepancy row — **1**: WFV-041;
+- unresolved lexical page — **1**: scan **254**;
+- canonical lexical substitutions — **0**;
+- source-supported non-lexical correction — **scan 253** quotation omission layout;
+- page-status promotions — **9**;
+- C11-001 on scan **254** and C11-002..005 on scan **257** preserved;
+- scan **256** full-page illustration verified;
+- whole-volume state after R26 — **229 verified / 267 needs-review / 1 partial**.
+
+## R27 — scans 261–270
+
+**COMPLETE / PASS WITH LEXICAL HOLDS**
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R27_SCANS_261_270.md`
+
+Results:
+
+- scans **261–270** — full restart audit completed;
+- new lexical discrepancy rows — **3**: WFV-042 through WFV-044;
+- unresolved lexical pages — **3**: scans **261, 262, 270**;
+- canonical lexical substitutions — **0**;
+- source-supported non-lexical correction — **cross-page quotation punctuation on scans 263–264**;
+- page-status promotions — **7**;
+- scan **265** full-page illustration verified;
+- whole-volume state after R27 — **236 verified / 260 needs-review / 1 partial**;
+- restart coverage — **270/497**.
+
 ## Pre-restart Part002 candidate rows
 
 The earlier interrupted Part002 review is **not counted as completed restart coverage**.
@@ -537,19 +573,21 @@ Do not change any pending lexical wording before explicit user adjudication.
 | R23 | 221–230 | **COMPLETE / PASS WITH LEXICAL HOLDS** |
 | R24 | 231–240 | **COMPLETE / PASS WITH LEXICAL HOLDS** |
 | R25 | 241–250 | **COMPLETE / PASS WITH LEXICAL HOLD** |
-| R26–R49 | 251–490 | pending in 10-scan cadence |
+| R26 | 251–260 | **COMPLETE / PASS WITH LEXICAL HOLD** |
+| R27 | 261–270 | **COMPLETE / PASS WITH LEXICAL HOLDS** |
+| R28–R49 | 271–490 | pending in 10-scan cadence |
 | R50 | 491–497 | final 7-scan remainder |
 
 ## Exact next activity
 
-Process **R26 + R27 — scans 251–270** as the next **20-page iteration** using the user-supplied Part006 PDF pages **1–20**.
+Process **R28 + R29 — scans 271–290** as the next **20-page iteration** using the user-supplied Part006 PDF pages **21–40**.
 
-At R27 close:
+At R29 close:
 
 - inspect all scans at enlarged/native resolution;
 - apply the historical-glyph guide and check all 13 known families where present;
-- preserve explicit C11 adjudications on scans **254 and 257**;
-- record every new lexical/glyph/material-placement difference in the discrepancy ledger starting at the next live WFV ID after **WFV-040**;
+- preserve explicit C11/C12 adjudications on scans **274, 281, 288 and 290**;
+- record every new lexical/glyph/material-placement difference in the discrepancy ledger starting at the next live WFV ID after **WFV-044**;
 - change **0 lexical words without user adjudication**;
 - apply only source-supported non-lexical structure/punctuation/layout changes;
 - synchronize this tracker, README, HANDOVER, English-release pause state and `NEXT_CHAT_PROMPT_SANGATH_TAMIL.md`.

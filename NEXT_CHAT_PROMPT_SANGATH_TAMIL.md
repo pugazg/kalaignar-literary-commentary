@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / 20-PAGE RE-AUDIT R26+R27 scans 251–270
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / 20-PAGE RE-AUDIT R28+R29 scans 271–290
 
 Continue only from live `main` in `pugazg/kalaignar-literary-commentary`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -10,28 +10,28 @@ Tamil word-for-word / historical-glyph re-audit uses the user's fixed cadence:
 
 Keep durable audit reports in **10-scan R batches** inside each 20-page iteration.
 
-R01 through R25 are complete through physical scan **250**.
+R01 through R27 are complete through physical scan **270**.
 
 Latest frontier:
 
-- R22 scans **211–220 — COMPLETE / PASS WITH LEXICAL HOLDS**
-- R23 scans **221–230 — COMPLETE / PASS WITH LEXICAL HOLDS**
 - R24 scans **231–240 — COMPLETE / PASS WITH LEXICAL HOLDS**
 - R25 scans **241–250 — COMPLETE / PASS WITH LEXICAL HOLD**
+- R26 scans **251–260 — COMPLETE / PASS WITH LEXICAL HOLD**
+- R27 scans **261–270 — COMPLETE / PASS WITH LEXICAL HOLDS**
 
-**Exact next user iteration: R26 + R27 = scans 251–270.**
+**Exact next user iteration: R28 + R29 = scans 271–290.**
 
 Use only the user's supplied controlling:
 
 `TVA_BOK_0042551_சங்கத்_தமிழ்_part_006_pages_251-300.pdf`
 
-Physical scans **251–270** correspond to Part006 PDF pages **1–20**. Do not substitute web copies.
+Physical scans **271–290** correspond to Part006 PDF pages **21–40**. Do not substitute web copies.
 
 ## Read first — mandatory
 
 1. `works/sangatamil/TAMIL_WORD_FOR_WORD_VERIFICATION.md`
-2. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R24_SCANS_231_240.md`
-3. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R25_SCANS_241_250.md`
+2. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R26_SCANS_251_260.md`
+3. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R27_SCANS_261_270.md`
 4. `works/sangatamil/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
 5. `works/sangatamil/GEMINI_TEXT_LOCK.md`
 6. `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`
@@ -64,90 +64,90 @@ For every printed page:
 - explicitly keep in scope:
   `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
 - compare same-edition evidence when uncertain;
-- distinguish historical glyph identity from expected modern spelling;
+- distinguish character identity from expected modern spelling;
 - OCR is not lexical authority;
 - never global-replace.
 
 Even strongly supported glyph/source differences are **ledger-first**.
 
-## Durable state through R25
+## Durable state through R27
 
 Current Tamil state:
 
-- `verified` — **220**
-- `needs-review` — **276**
+- `verified` — **236**
+- `needs-review` — **260**
 - `partial` — **1**
-- visual `verified` — **220**
-- visual `needs-review` — **277**
-- restart coverage — **250/497**
+- visual `verified` — **236**
+- visual `needs-review` — **261**
+- restart coverage — **270/497**
 
 ### Confirmed unresolved lexical holds — DO NOT CHANGE
 
-WFV-002 through WFV-040 remain pending explicit user adjudication. WFV-001 remains rejected.
+WFV-002 through WFV-044 remain pending explicit user adjudication. WFV-001 remains rejected.
 
-### R24 / R25 closure
+### R26 / R27 closure
 
-R24 scans **231–240 — COMPLETE / PASS WITH LEXICAL HOLDS**:
-- new WFV rows — **7**: WFV-033 through WFV-039
-- unresolved pages — **231, 233**
-- lexical substitutions — **0**
-- status promotions — **8**
-- C10-003 and C10-004 protected
-
-R25 scans **241–250 — COMPLETE / PASS WITH LEXICAL HOLD**:
-- new WFV row — **1**: WFV-040
-- unresolved page — **248**
+R26 scans **251–260 — COMPLETE / PASS WITH LEXICAL HOLD**:
+- new WFV row — **1**: WFV-041
+- unresolved page — **254**
 - lexical substitutions — **0**
 - status promotions — **9**
-- C10-005 protected
-- WFV-040 records source glossary continuation `மகன்.`; canonical remains unchanged
+- C11-001 through C11-005 protected where applicable
 
-## R26+R27 protected C11 rulings — scans 251–270
+R27 scans **261–270 — COMPLETE / PASS WITH LEXICAL HOLDS**:
+- new WFV rows — **3**: WFV-042 through WFV-044
+- unresolved pages — **261, 262, 270**
+- lexical substitutions — **0**
+- status promotions — **7**
+
+## R28+R29 protected C11/C12 rulings — scans 271–290
 
 Preserve these exact prior user adjudications:
 
-- **scan 254 / C11-001**
-  - retain only one `இந்தச்`, after `சிற்றூர் முதல் பேரூர் நகரங்கள் வரை -`;
-  - do not reintroduce the removed duplicate.
+- **scan 274 / C11-006**
+  - exact protected wording:
+    `பொன்மானின் துயர்துடைக்கப் புறப்படுக மன்னா; என்றார்!`
 
-- **scan 257 / C11-002**
-  - exact poem term: `காம ஒள்எரி`.
+- **scan 281 / C12-001**
+  - exact source decorative heading:
+    `கிலு கிலுப்பை / வழங்கும் / கிறுகிறுப்பு!`
+  - do not regress to the prior malformed heading.
 
-- **scan 257 / C11-003**
-  - quotation: `என்புஉற நலியினும்`.
+- **scan 288 / C12-002**
+  - exact source heading:
+    `வெறியாடும் / வேலன் / எதற்காக?`
 
-- **scan 257 / C11-004**
-  - quotation: `பிரித்துஇடை களையார்`.
+- **scan 290 / C12-003**
+  - source/canonical protected wording:
+    `முறித்துப் போட்டதுபோல் நெளிகின்றாள், வளைகின்றாள்!`
 
-- **scan 257 / C11-005**
-  - glossary: `காம ஒள்எரி = காமமெனும் ஒளிபொருந்திய தீ.`
-
-C11-006 is on scan **274** and belongs to a later iteration; do not pull it forward.
+C12-004 onward begin after scan 290 and belong to later iterations; do not pull them forward.
 
 ## Exact activity — 20 pages
 
-Process physical scans **251–270** in one user iteration:
+Process physical scans **271–290** in one user iteration:
 
-### R26 — scans 251–260
+### R28 — scans 271–280
 
 1. source-check all 10 scans word-for-word;
 2. apply historical-glyph review;
-3. preserve C11 scans 254 and 257 exactly;
-4. ledger every new lexical/glyph/material-placement difference starting with the next live WFV ID after WFV-040;
+3. preserve C11-006 on scan 274 exactly;
+4. ledger every new lexical/glyph/material-placement difference starting with the next live WFV ID after WFV-044;
 5. make **0 lexical substitutions** without user adjudication;
 6. apply only source-supported nonlexical structure/punctuation/layout changes;
 7. promote only clean fully audited pages;
 8. create:
-   `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R26_SCANS_251_260.md`.
+   `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R28_SCANS_271_280.md`.
 
-### R27 — scans 261–270
+### R29 — scans 281–290
 
 1. continue immediately without stopping;
-2. ledger every new lexical/glyph/material-placement difference under the next live WFV ID;
-3. make **0 lexical substitutions** without user adjudication;
-4. promote only clean fully audited pages;
-5. create:
-   `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R27_SCANS_261_270.md`.
+2. preserve C12-001, C12-002 and C12-003 on scans 281, 288 and 290 exactly;
+3. ledger every new lexical/glyph/material-placement difference under the next live WFV ID;
+4. make **0 lexical substitutions** without user adjudication;
+5. promote only clean fully audited pages;
+6. create:
+   `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R29_SCANS_281_290.md`.
 
 At the end synchronize:
 
@@ -161,4 +161,4 @@ At the end synchronize:
 
 The maintained-English release-report gate remains **PAUSED**.
 
-After R26+R27, the next user iteration is **R28+R29 — scans 271–290 (20 pages)**.
+After R28+R29, the next user iteration is **R30+R31 — scans 291–310 (20 pages)**.
