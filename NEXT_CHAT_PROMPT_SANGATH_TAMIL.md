@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / RE-AUDIT R04 scans 31–40
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / RE-AUDIT R05 scans 41–50
 
 Continue only from live `main` in `pugazg/kalaignar-literary-commentary`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,9 +8,10 @@ Tamil word-for-word / historical-glyph re-audit has been **restarted from scan 1
 
 R01 scans **1–10 — COMPLETE / PASS**.  
 R02 scans **11–20 — COMPLETE / PASS**.  
-R03 scans **21–30 — COMPLETE / PASS WITH LEXICAL HOLDS**.
+R03 scans **21–30 — COMPLETE / PASS WITH LEXICAL HOLDS**.  
+R04 scans **31–40 — COMPLETE / PASS**.
 
-**Exact next range: R04 scans 31–40.**
+**Exact next range: R05 scans 41–50.**
 
 Use the already supplied:
 
@@ -22,15 +23,16 @@ Use the already supplied:
 2. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R01_SCANS_001_010.md`
 3. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R02_SCANS_011_020.md`
 4. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R03_SCANS_021_030.md`
-5. `works/sangatamil/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
-6. `works/sangatamil/GEMINI_TEXT_LOCK.md`
-7. `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`
-8. `works/sangatamil/C2_SOURCE_CORRECTION_PROGRESS.md`
-9. `works/sangatamil/README.md`
-10. root `HANDOVER.md`
-11. `works/sangatamil/indexes/page-map.md`
-12. `works/sangatamil/indexes/section-register.md`
-13. `works/sangatamil/indexes/source-citation-register.md`
+5. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R04_SCANS_031_040.md`
+6. `works/sangatamil/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
+7. `works/sangatamil/GEMINI_TEXT_LOCK.md`
+8. `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`
+9. `works/sangatamil/C2_SOURCE_CORRECTION_PROGRESS.md`
+10. `works/sangatamil/README.md`
+11. root `HANDOVER.md`
+12. `works/sangatamil/indexes/page-map.md`
+13. `works/sangatamil/indexes/section-register.md`
+14. `works/sangatamil/indexes/source-citation-register.md`
 
 ## Highest-priority lexical rule
 
@@ -62,7 +64,7 @@ For each scan:
 
 For this Sangatamil project, even a strongly supported historical-glyph difference must be **ledgered first**, not directly applied.
 
-## Durable restart state through R03
+## Durable restart state through R04
 
 ### R01 scans 1–10
 
@@ -82,14 +84,22 @@ For this Sangatamil project, even a strongly supported historical-glyph differen
 
 ### R03 scans 21–30
 
-- reviewed — **10/10**;
 - new lexical discrepancy rows — **3**;
 - canonical lexical substitutions — **0**;
 - source-supported non-lexical corrections — scans **21, 25, 29**;
 - page files mutated — scans **21, 25, 29, 30**;
 - prior C2 rulings on scans **21, 28, 29** preserved;
-- scan25 final `இரும்பொறை` / `இரும்பொத்த` lines restored to source order without lexical mutation;
-- scan29 punctuation/lineation synchronized without lexical mutation.
+- scan25 and scan30 remain lexical holds.
+
+### R04 scans 31–40
+
+- reviewed — **10/10**;
+- new lexical discrepancy rows — **0**;
+- canonical lexical substitutions — **0**;
+- source-supported non-lexical page corrections — **0**;
+- page-layer mutations — **0**;
+- prior C2 rulings on scans **35, 39, 40** preserved;
+- no new lexical or historical-glyph hold created.
 
 ### Unresolved R03 lexical holds — DO NOT CHANGE
 
@@ -105,7 +115,7 @@ For this Sangatamil project, even a strongly supported historical-glyph differen
   canonical: `ஆள்அன்று என்று வாளின் தப்பார் = ...`  
   source-visible: `ஆளன்று என்று வாளின் தப்பார் = ...`
 
-These remain pending explicit user adjudication. Do not mutate them while processing R04.
+These remain pending explicit user adjudication. Do not mutate them while processing R05.
 
 Current Tamil state:
 
@@ -120,9 +130,9 @@ Current visual-fidelity state:
 
 The earlier interrupted Part002 findings WFV-002 through WFV-005 remain ledger-only candidates and are **not counted as restart coverage**. Reconfirm them only when their new 10-page batches are reached.
 
-## R04 exact activity — scans 31–40
+## R05 exact activity — scans 41–50
 
-Process exactly **10 physical scans: 31–40**.
+Process exactly **10 physical scans: 41–50**.
 
 For each page:
 
@@ -138,9 +148,9 @@ For each page:
 10. scan-level historical-glyph ambiguity must not be guessed from context;
 11. do not alter WFV-006 through WFV-008 while awaiting user adjudication.
 
-At R04 close create:
+At R05 close create:
 
-`works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R04_SCANS_031_040.md`
+`works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R05_SCANS_041_050.md`
 
 Then synchronize:
 
@@ -154,4 +164,4 @@ Then synchronize:
 
 The English release-report gate stays paused.
 
-After R04, exact next range becomes **R05 scans 41–50**.
+After R05, exact next range becomes **R06 scans 51–60** using Part002.
