@@ -318,12 +318,26 @@ R27 scans **261–270 — COMPLETE / PASS WITH LEXICAL HOLDS**:
 - canonical lexical substitutions — **0**;
 - page-status promotions — **7**.
 
+R28 scans **271–280 — COMPLETE / PASS**:
+- new lexical discrepancy rows — **0**;
+- unresolved pages — **0**;
+- canonical lexical substitutions — **0**;
+- page-status promotions — **10**;
+- protected C11-006 on scan **274** preserved.
+
+R29 scans **281–290 — COMPLETE / PASS WITH LEXICAL HOLDS**:
+- new lexical discrepancy rows — **4** (WFV-045 through WFV-048);
+- unresolved pages — scans **281, 282, 290**;
+- canonical lexical substitutions — **0**;
+- page-status promotions — **7**;
+- protected C12-001, C12-002 and C12-003 on scans **281, 288 and 290** preserved.
+
 Current whole-volume Tamil state:
-- `verified` — **236**
-- `needs-review` — **260**
+- `verified` — **253**
+- `needs-review` — **243**
 - `partial` — **1**
-- current restart coverage — **270/497**
-- exact next iteration — **R28 + R29 scans 271–290 (20 pages)**
+- current restart coverage — **290/497**
+- exact next iteration — **R30 + R31 scans 291–310 (20 pages)**
 
 Gate D — COMPLETE / PASS:
 - physical scans — 497/497
@@ -377,9 +391,9 @@ Gate G — **COMPLETE / PASS**:
 - required metadata field presence after repair — **497/497**
 - demonstrable defects repaired — **11 missing `visual_fidelity` fields**
 - Gate-G historical `status` distribution — **43 verified / 453 needs-review / 1 partial**
-- current restart-R27 state — **236 verified / 260 needs-review / 1 partial**
+- current restart-R29 state — **253 verified / 243 needs-review / 1 partial**
 - Gate-G historical `visual_fidelity` distribution — **43 verified / 454 needs-review / 0 missing**
-- current restart-R27 visual-fidelity state — **236 verified / 261 needs-review / 0 missing**
+- current restart-R29 visual-fidelity state — **253 verified / 244 needs-review / 0 missing**
 - canonical wording changes — **0**
 - unresolved Gate-G inconsistencies — **0**
 - durable report — `GATE_G_METADATA_STATUS_AUDIT.md`
