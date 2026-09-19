@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / RE-AUDIT R03 scans 21–30
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / RE-AUDIT R04 scans 31–40
 
 Continue only from live `main` in `pugazg/kalaignar-literary-commentary`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -7,9 +7,10 @@ Continue only from live `main` in `pugazg/kalaignar-literary-commentary`. **LIVE
 Tamil word-for-word / historical-glyph re-audit has been **restarted from scan 1 in 10-page iterations**.
 
 R01 scans **1–10 — COMPLETE / PASS**.  
-R02 scans **11–20 — COMPLETE / PASS**.
+R02 scans **11–20 — COMPLETE / PASS**.  
+R03 scans **21–30 — COMPLETE / PASS WITH LEXICAL HOLDS**.
 
-**Exact next range: R03 scans 21–30.**
+**Exact next range: R04 scans 31–40.**
 
 Use the already supplied:
 
@@ -20,15 +21,16 @@ Use the already supplied:
 1. `works/sangatamil/TAMIL_WORD_FOR_WORD_VERIFICATION.md`
 2. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R01_SCANS_001_010.md`
 3. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R02_SCANS_011_020.md`
-4. `works/sangatamil/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
-5. `works/sangatamil/GEMINI_TEXT_LOCK.md`
-6. `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`
-7. `works/sangatamil/C2_SOURCE_CORRECTION_PROGRESS.md`
-8. `works/sangatamil/README.md`
-9. root `HANDOVER.md`
-10. `works/sangatamil/indexes/page-map.md`
-11. `works/sangatamil/indexes/section-register.md`
-12. `works/sangatamil/indexes/source-citation-register.md`
+4. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R03_SCANS_021_030.md`
+5. `works/sangatamil/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
+6. `works/sangatamil/GEMINI_TEXT_LOCK.md`
+7. `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`
+8. `works/sangatamil/C2_SOURCE_CORRECTION_PROGRESS.md`
+9. `works/sangatamil/README.md`
+10. root `HANDOVER.md`
+11. `works/sangatamil/indexes/page-map.md`
+12. `works/sangatamil/indexes/section-register.md`
+13. `works/sangatamil/indexes/source-citation-register.md`
 
 ## Highest-priority lexical rule
 
@@ -60,40 +62,67 @@ For each scan:
 
 For this Sangatamil project, even a strongly supported historical-glyph difference must be **ledgered first**, not directly applied.
 
-## R01 durable state
+## Durable restart state through R03
 
-Scans **1–10**:
+### R01 scans 1–10
 
 - new lexical discrepancies — **0**;
 - WFV-001 scan7 — **REJECTED**;
 - scan7 canonical `ராக்போர்ட்` confirmed by high-resolution + same-edition evidence;
-- scan7 punctuation/spacing only synchronized;
 - scan8 — `partial`, description-only handwritten `முன்னுரை`;
 - canonical lexical substitutions — **0**.
 
-## R02 durable state
+### R02 scans 11–20
 
-Scans **11–20**:
-
-- reviewed — **10/10**;
 - new lexical discrepancies — **0**;
 - canonical lexical substitutions — **0**;
-- source-supported non-lexical page corrections — **0**;
 - page-layer mutations — **0**;
-- scan11 C2 ruling `ஆண்பாலர் பதினால்வர்` — preserved;
-- scan13 C2 rulings `அதனைக் களைகின்ற திறல் மிக்க` and `சொல் நயத்தை மற்றாரும் நுகரும் வண்ணம்` — preserved;
-- scan19 C2 ruling `அரும்பு, அமர் ஆத்தி` — preserved;
-- scan20 `கூறாக` — old-type cluster confirmed as historical `றா` identity, **not** a new lexical discrepancy;
-- all ten scans retain their existing appropriate `verified` / visual `verified` states.
+- prior C2 rulings on scans 11, 13 and 19 preserved;
+- scan20 `கூறாக` confirmed as historical `றா` identity, not a discrepancy.
 
-Current Tamil state remains **49 verified / 447 needs-review / 1 partial**.  
-Current visual-fidelity state remains **49 verified / 448 needs-review**.
+### R03 scans 21–30
+
+- reviewed — **10/10**;
+- new lexical discrepancy rows — **3**;
+- canonical lexical substitutions — **0**;
+- source-supported non-lexical corrections — scans **21, 25, 29**;
+- page files mutated — scans **21, 25, 29, 30**;
+- prior C2 rulings on scans **21, 28, 29** preserved;
+- scan25 final `இரும்பொறை` / `இரும்பொத்த` lines restored to source order without lexical mutation;
+- scan29 punctuation/lineation synchronized without lexical mutation.
+
+### Unresolved R03 lexical holds — DO NOT CHANGE
+
+- **WFV-006 / scan 25**  
+  canonical: `வளையாத முதுகெலும்பு பெற்றவனோ?`  
+  source-visible: `வளையாத முதுகெலும்பு பெற்றவனே?`
+
+- **WFV-007 / scan 30 quotation**  
+  canonical: `ஆள்அன்று என்று வாளின் தப்பார்;`  
+  source-visible: `ஆளன்று என்று வாளின் தப்பார்;`
+
+- **WFV-008 / scan 30 gloss**  
+  canonical: `ஆள்அன்று என்று வாளின் தப்பார் = ...`  
+  source-visible: `ஆளன்று என்று வாளின் தப்பார் = ...`
+
+These remain pending explicit user adjudication. Do not mutate them while processing R04.
+
+Current Tamil state:
+
+- `verified` — **47**
+- `needs-review` — **449**
+- `partial` — **1**
+
+Current visual-fidelity state:
+
+- `verified` — **47**
+- `needs-review` — **450**
 
 The earlier interrupted Part002 findings WFV-002 through WFV-005 remain ledger-only candidates and are **not counted as restart coverage**. Reconfirm them only when their new 10-page batches are reached.
 
-## R03 exact activity — scans 21–30
+## R04 exact activity — scans 31–40
 
-Process exactly **10 physical scans: 21–30**.
+Process exactly **10 physical scans: 31–40**.
 
 For each page:
 
@@ -106,11 +135,12 @@ For each page:
 7. apply only source-supported non-lexical structure/punctuation/layout corrections;
 8. mark clean fully audited pages `verified` / visual `verified` only when appropriate;
 9. unresolved lexical pages remain `needs-review`;
-10. scan-level historical-glyph ambiguity must not be guessed from context.
+10. scan-level historical-glyph ambiguity must not be guessed from context;
+11. do not alter WFV-006 through WFV-008 while awaiting user adjudication.
 
-At R03 close create:
+At R04 close create:
 
-`works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R03_SCANS_021_030.md`
+`works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R04_SCANS_031_040.md`
 
 Then synchronize:
 
@@ -118,9 +148,10 @@ Then synchronize:
 - `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`
 - `works/sangatamil/README.md`
 - root `HANDOVER.md`
+- `works/sangatamil/indexes/page-map.md` if statuses change
 - `works/sangatamil/translations/en/TRANSLATION_STATUS.md`
 - **`NEXT_CHAT_PROMPT_SANGATH_TAMIL.md`**
 
 The English release-report gate stays paused.
 
-After R03, exact next range becomes **R04 scans 31–40**.
+After R04, exact next range becomes **R05 scans 41–50**.
