@@ -4,18 +4,18 @@ printed_page: "333"
 work: "sangatamil"
 section: "சென்று வா மகனே; செருமுனை நோக்கி!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 visual_notes: "running author header; bereavement narrative continuation; printed page number 333"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; R35 source-verified"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 344
 ---
 
 சாவிலே வீழ்ந்துவிட்டான் -
 ஆவிதான் போனபின்னும் உயிர்வாழும் ஆரணங்கு
-அச்சடித்த தமிழ்ப்பதுமை
+அச்சடித்த தமிழ்ப்பதுமை -
 கூவி அழுதாள் - கொத்தான மலர்
 இந்தக் குடும்பம்!
 அதைக் கொத்தாமல் கொத்திவிட்ட

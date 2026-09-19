@@ -6,9 +6,9 @@ section: "சென்று வா மகனே; செருமுனை ந�
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "decorative multicolour section heading; body text; printed page number 330"
+visual_notes: "R35 WFV-053: canonical `அடைபட்ட கண்ணீர், அணை உடைத்ததத்தான்” என்றாள்.` differs from source-visible `அடைபட்ட கண்ணீர், அணை உடைத்ததுதான்” என்றாள்.` Canonical lexical wording remains unchanged pending user adjudication."
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; section heading and visible line order checked directly against scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; R35 source-reviewed with lexical hold"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
