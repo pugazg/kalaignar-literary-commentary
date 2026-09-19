@@ -6,7 +6,7 @@ section: "உற்றுழி உதவி உறுபொருள் கொ�
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "running work header; explanatory dialogue between Nedunchezhiyan and the queen; printed page number 322"
+visual_notes: "R34 WFV-051: canonical `உடன் சென்று துணை நிற்க வேண்டு` differs from source-visible `உடன் சென்று துணை நிற்க வேண்டும்`. Canonical lexical wording remains unchanged pending user adjudication."
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"

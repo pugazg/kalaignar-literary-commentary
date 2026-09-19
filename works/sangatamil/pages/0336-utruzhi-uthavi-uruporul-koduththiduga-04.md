@@ -6,7 +6,7 @@ section: "உற்றுழி உதவி உறுபொருள் கொ�
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "running work header; narrative continuation; section-closing Sangam quotation begins; printed page number 324"
+visual_notes: "R34 WFV-052: canonical `அறம், திறம் உணர்த்துக்கின்ற கல்வி நீரோடையிலே` differs from source-visible `அறம், திறம் உணர்த்துகின்ற கல்வி நீரோடையிலே`. Canonical lexical wording remains unchanged pending user adjudication."
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"

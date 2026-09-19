@@ -4,8 +4,8 @@ printed_page: "319"
 work: "sangatamil"
 section: "வீரனைப் பாடிய சேரன்!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 visual_notes: "running author header; narrative continuation; Sangam quotation begins near foot of page; printed page number 319"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
@@ -17,7 +17,7 @@ continues_from_scan: 330
 தேன் சொட்டும் தமிழில் என் மகனைக் குளிப்பாட்டி - இந்த
 வையம் இருக்கு மட்டும் அவன் புகழ் விளங்க - நீர்
 வடித்தெடுத்த புறப்பாடல் கேட்பின்; அவனை
-வளர்த்த கைகளுக்குப் பொன் கடகம் பூட்டினாற்போல் இன்னும்
+வளர்த்த கைகளுக்குப் பொன் கடகம் பூட்டினாற்போல் - இன்னும்
 வாழுகின்ற நான், உம்மை வாழ்த்திடுவேன்” என்றார்.
 
 “எஃகு உளம் கொண்ட எனது வீரன்
