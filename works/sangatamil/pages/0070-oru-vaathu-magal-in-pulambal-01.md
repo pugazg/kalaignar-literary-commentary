@@ -4,8 +4,8 @@ printed_page: "55"
 work: "sangatamil"
 section: "ஒரு பொது மகளின் புலம்பல்!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 visual_notes: "large decorative source heading `ஒரு பொது மகளின் புலம்பல்!`; C2-03 user adjudication authorizes the leading `ஒரு` in the canonical body heading; printed page number 55 visible; narrative continues to scan 71"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording with user-authorized C2 source correction"
@@ -55,5 +55,4 @@ continues_to_scan: 71
 
 <!-- C2-03: user-authorized source correction applied to the heading: `பொது மகளின் புலம்பல்!` → `ஒரு பொது மகளின் புலம்பல்!`; scan 70 controls decorative-heading placement, printed lineation, punctuation and the continuation boundary. -->
 <!-- The legacy repository filename is left unchanged; the user-adjudicated canonical heading above is authoritative. -->
-<!-- Review status remains `needs-review`; final audit/status synchronization is a separate activity. -->
 <!-- மூல ஸ்கேன் பக்கம்: 70; அச்சுப் பக்கம்: 55 -->
