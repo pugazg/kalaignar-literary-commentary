@@ -2145,6 +2145,85 @@ No canonical word or character was changed.
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R17_SCANS_161_170.md`.
 
+## Restart R18 — scans 171–180
+
+**Status: COMPLETE / PASS WITH LEXICAL HOLDS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_004_pages_151-200.pdf`, physical scans 171–180
+- reviewed scans: **171–180 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **5** — WFV-015 through WFV-019
+- unresolved new lexical pages: **3** — scans 174, 177, 179
+- source-supported non-lexical body corrections: **1** — scan 174 punctuation/spacing only
+- source-supported section-metadata alignments: **5** — scans 176–180
+- page-status promotions: **7**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### New R18 WFV rows
+
+| ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
+|---|---:|---:|---|---|---|---|
+| WFV-015 | 174 | 161 | glossary `வலம்படுவாய் வாள் = / தவறாத வாள்.` | `வலம்படுவாய் வாள் = வெற்றிமிகுந்த / தவறாத வாள்.` | `missing-source-token / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical lexical wording unchanged; scan 174 remains needs-review** |
+| WFV-016 | 177 | 164 | canonical moves `முகத்தில்` to after `படர்கின்ற பசலை நிறம் மறைத்து` | source places it as `இருவாட்சியும் செண்பகமும் சூடி - முகத்தில்` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical placement unchanged; scan 177 remains needs-review** |
+| WFV-017 | 177 | 164 | canonical moves `உன்` to immediately before `சுடர்கின்ற பொன்னொளி...` | source places it as `தருநிழலின்றித் தவிக்கின்ற மான்போல் - உன் / பருவமயில்...` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical placement unchanged; same scan-177 hold** |
+| WFV-018 | 179 | 166 | `பாயிரம் பாடி வாழ்த்துக்கின்றாள் புலவரையே!` | `பாயிரம் பாடி வாழ்த்துகின்றாள் புலவரையே!` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 179 remains needs-review** |
+| WFV-019 | 179 | 166 | canonical moves from `பெருங்குன்றூர்க் கிழார் இல்லையேல்` directly to `கிட்டாதன்றோ?` | source prints `பெருங்குன்றூர்க் கிழார் இல்லையேல் - இன்று / அருந்தேனை இனித்த இன்பம் கிட்டாதன்றோ?`; old-type `னை` identity checked at enlarged resolution | `missing-source-phrase / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; same scan-179 hold** |
+
+### R18 findings
+
+- scans **171–173, 175–176, 178, 180** — full lexical/glyph review passed and promoted;
+- scan **174** — WFV-015 opened; protected C07-003 `சிறுயிலை நெல்லித் தீங்கனி குறியாது` remains unchanged; punctuation-only `ஒன்னார் = பகைவர். ஆர்கலிநறவு = ...` alignment applied;
+- scans **176–180** — section metadata aligned to the prior user-adjudicated exact heading `நீலமலை நீரினும் குளிர்ந்த நெஞ்சம்!`;
+- scan **177** — WFV-016/WFV-017 opened for materially displaced existing tokens; no token moved;
+- scan **179** — WFV-018/WFV-019 opened; no omitted/source-different lexical wording inserted;
+- scan **180** — C08-001 protected `... வானி நீரினும் தீந்தன் சாயலன் ...` retained exactly;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R18_SCANS_171_180.md`.
+
+## Restart R19 — scans 181–190
+
+**Status: COMPLETE / PASS WITH LEXICAL HOLDS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_004_pages_151-200.pdf`, physical scans 181–190
+- reviewed scans: **181–190 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **3** — WFV-020 through WFV-022
+- unresolved new lexical pages: **2** — scans 183, 189
+- source-supported non-lexical body corrections: **0**
+- source-supported section-metadata alignments: **1** — scan 181
+- page-status promotions: **8**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### New R19 WFV rows
+
+| ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
+|---|---:|---:|---|---|---|---|
+| WFV-020 | 183 | 170 | canonical places existing `மறுக்கின்றான்.` after `காவல் மரத்தில் கட்டி வைத்துக்` | source places `மறுக்கின்றான்.` immediately after `இளவெளிமான் இருக்கின்றான் - கொடை வழங்க`; later proceeds directly from `காவல் மரத்தில் கட்டி வைத்துக்` to `கடையனவன்...` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical placement unchanged; scan 183 remains needs-review** |
+| WFV-021 | 189 | 176 | canonical places `அதுபோலக்` after `ஊடல்தான் கொடியேற்றி வைக்க வேண்டும்!` | source places right-aligned `அதுபோலக்` before `கூடல் விழா தொடங்குதற்கு;` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical placement unchanged; scan 189 remains needs-review** |
+| WFV-022 | 189 | 176 | canonical places `சொல்வேன்!` before `பொழிகின்ற இன்ப மழைச் சுகத்தை நான் என்னென்று` | source completes the phrase `பொழிகின்ற இன்ப மழைச் சுகத்தை நான் என்னென்று / சொல்வேன்!` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical placement unchanged; same scan-189 hold** |
+
+### R19 findings
+
+- scans **181–182, 184–188, 190** — full lexical/glyph review passed and promoted;
+- scan **181** — section metadata aligned to `நீலமலை நீரினும் குளிர்ந்த நெஞ்சம்!`;
+- scan **183** — WFV-020 opened for materially displaced `மறுக்கின்றான்.`; token not moved;
+- scan **184** and scan **190** — full-page illustrations verified;
+- scan **188** — C08-002 exact heading `அவள் நிலமானாள்; அவன் மழையானான்!` preserved;
+- scan **189** — WFV-021/WFV-022 opened for materially displaced carryover tokens; no token moved;
+- C08-003 scan 192 and later rulings were not pulled forward;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R19_SCANS_181_190.md`.
+
 ### Exact next audit range
 
-**R18 + R19 — scans 171–190, 20 pages in the user-requested iteration cadence.**
+**R20 + R21 — scans 191–210, 20 pages in the user-requested iteration cadence.**
