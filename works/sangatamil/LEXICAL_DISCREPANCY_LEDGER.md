@@ -1974,6 +1974,64 @@ No canonical word or character was changed.
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R11_SCANS_101_110.md`.
 
+## Restart R12 — scans 111–120
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்.pdf`, physical scans 111–120
+- reviewed scans: **111–120 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **0**
+- unresolved new lexical pages: **0**
+- source-supported non-lexical body corrections: **0**
+- source-supported metadata alignments: **3 page files** — scans 113–115 section metadata aligned to the user-adjudicated exact heading `புரிந்துகொண்டான்; பிரிந்துசென்றார்!`
+- page-status promotions: **10**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R12 findings
+
+- scans **111–113, 115–117, 119–120** — full printed-page lexical/glyph review passed with no new discrepancy;
+- scans **114 and 118** — full-page illustrations verified;
+- scan **112** exact C2 heading `புரிந்துகொண்டான்; பிரிந்துசென்றார்!` preserved;
+- scan **113** user-authorized restored Kalithogai opening stanza preserved;
+- scans **113–115** section metadata synchronized to the same exact user-adjudicated heading; no body wording changed;
+- scan **120** protected `ஊன்பொழிப் பசுங்குடையார்` note preserved;
+- all earlier WFV holds remain unchanged.
+
+No canonical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R12_SCANS_111_120.md`.
+
+## Restart R13 — scans 121–130
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்.pdf`, physical scans 121–130
+- reviewed scans: **121–130 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **0**
+- unresolved new lexical pages: **0**
+- source-supported non-lexical body corrections: **0**
+- page-status promotions: **10**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R13 findings
+
+- scans **121, 123–127, 129–130** — full printed-page lexical/glyph review passed with no new discrepancy;
+- scans **122 and 128** — full-page illustrations verified;
+- scan **123** user-authorized restored source opening prose before `சென்றனள்!` preserved;
+- C2-06 contains no discrepancy records for scans **126–130** and no artificial adjudication was introduced;
+- stale provisional/deferred review comments on clean audited pages were removed where applicable;
+- all earlier WFV holds remain unchanged.
+
+No canonical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R13_SCANS_121_130.md`.
+
 ### Exact next audit range
 
-**R12 — scans 111–120.**
+**R14 — scans 131–140.**
