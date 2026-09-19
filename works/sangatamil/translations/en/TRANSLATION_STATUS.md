@@ -9,7 +9,7 @@ Branch: `main`
 
 A user-directed Tamil re-audit restarted from scan **1** on **2026-09-19** in **10-page iterations**. It combines word-for-word comparison with the historical-glyph guide while retaining the Gemini lexical lock.
 
-R01 scans **1–10** and R02 scans **11–20** are **COMPLETE / PASS**.
+R01 scans **1–10** and R02 scans **11–20** are **COMPLETE / PASS**. R03 scans **21–30** is **COMPLETE / PASS WITH LEXICAL HOLDS**.
 
 R01:
 - canonical lexical substitutions — **0**;
@@ -26,7 +26,16 @@ R02:
 - scan 20 old-type `கூறாக` cluster — confirmed as historical `றா` identity, not a new lexical discrepancy;
 - page-layer mutations — **0**.
 
-Current Tamil state remains **49 verified / 447 needs-review / 1 partial**. Exact next Tamil range is **R03 scans 21–30**.
+R03:
+- canonical lexical substitutions — **0**;
+- new lexical discrepancy rows — **3** (WFV-006 through WFV-008);
+- scans **25** and **30** — reopened to `needs-review`;
+- scan 25 — canonical `பெற்றவனோ?` vs source `பெற்றவனே?`, pending user adjudication;
+- scan 30 — canonical `ஆள்அன்று` vs source `ஆளன்று` in quotation and gloss, pending user adjudication;
+- source-supported non-lexical corrections — scans **21, 25, 29** only;
+- English page wording/status changes from R03 — **0**.
+
+Current Tamil state is **47 verified / 449 needs-review / 1 partial**. Exact next Tamil range is **R04 scans 31–40**.
 
 The English release-report gate remains **PAUSED** until the restarted Tamil audit and any eventual user-adjudicated lexical impacts are reconciled. Do not promote any English page to `release-ready` during this pause.
 
@@ -703,6 +712,6 @@ Normal page-batched cadence: **37 physical scans**.
 
 ## Exact next activity
 
-**Tamil re-audit R03 — scans 21–30.**
+**Tamil re-audit R04 — scans 31–40.**
 
-The maintained-English release-report gate is **PAUSED** while the restarted Tamil word-for-word / historical-glyph audit remains active. Do **not** promote any English page to `release-ready` yet. After the Tamil re-audit and any user-adjudicated lexical impacts are reconciled into English, the release report may resume from `reviews/WHOLE_VOLUME_ENGLISH_REVIEW.md`.
+The maintained-English release-report gate is **PAUSED** while the restarted Tamil word-for-word / historical-glyph audit remains active. WFV-006 through WFV-008 remain unresolved Tamil lexical holds; no English wording should be changed for them until explicit user adjudication. Do **not** promote any English page to `release-ready` yet. After the Tamil re-audit and any user-adjudicated lexical impacts are reconciled into English, the release report may resume from `reviews/WHOLE_VOLUME_ENGLISH_REVIEW.md`.
