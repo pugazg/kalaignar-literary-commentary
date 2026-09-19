@@ -48,7 +48,10 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 51–54 | printed 36–39 with scan-52 illustration | continuation/closure of `மாவீரன் கண்ட மலர்கள்` | **R06 source re-audit PASS / all four verified; scan 51 quote-marker structure corrected with 0 lexical mutations** |
 | 55–58 | printed 40–43 with scan-56 illustration | `நெல்லும் உயிர் அன்றே! நீரும் உயிர் அன்றே!` | **R06 source re-audit: scans 56–58 verified; scan 55 `needs-review` / visual `needs-review` for WFV-010 (`கூடிற்றாம்!` vs source `கூடிற்றும்!`); scan 57 layout corrected; 0 lexical mutations** |
 | 59–60 | printed 44 + scan-60 illustration | `ஊரின் பெருமை உணர்த்தினள் ஒருத்தி!` opening | **R06 source re-audit PASS / verified; protected C2 `முசுண்டை கொடியும்` preserved** |
-| 61–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
+| 61–64 | printed 46–49 | closure of `ஊரின் பெருமை உணர்த்தினள் ஒருத்தி!` | **R07 source re-audit: scans 61, 63–64 verified; scan 62 `needs-review` / visual `needs-review` for WFV-002 token-placement discrepancy; 0 lexical mutations** |
+| 65–69 | printed 50–54 with scan-66 illustration | `வாணன் மணந்த வண்ணத் திருமகள்!` | **R07 source re-audit: scans 65–66 and 68 verified; scans 67 and 69 `needs-review` for WFV-011 and WFV-003; 0 lexical mutations** |
+| 70 | printed 55 | `ஒரு பொது மகளின் புலம்பல்!` opening | **R07 source re-audit PASS / verified; protected C2 heading retained** |
+| 71–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
 | 497 | — | back cover / end matter | **Gate D closed / physical endpoint** |
 
 ## Important controls
