@@ -291,12 +291,26 @@ R23 scans **221–230 — COMPLETE / PASS WITH LEXICAL HOLDS**:
 - page-status promotions — **8**;
 - protected C2 rulings on scans **221, 223, 226 and 230** preserved.
 
+R24 scans **231–240 — COMPLETE / PASS WITH LEXICAL HOLDS**:
+- new lexical discrepancy rows — **7** (WFV-033 through WFV-039);
+- unresolved pages — scans **231, 233**;
+- canonical lexical substitutions — **0**;
+- page-status promotions — **8**;
+- protected C2 rulings on scans **237 and 240** preserved.
+
+R25 scans **241–250 — COMPLETE / PASS WITH LEXICAL HOLD**:
+- new lexical discrepancy row — **1** (WFV-040);
+- unresolved page — scan **248**;
+- canonical lexical substitutions — **0**;
+- page-status promotions — **9**;
+- protected C2 ruling on scan **248** preserved.
+
 Current whole-volume Tamil state:
-- `verified` — **203**
-- `needs-review` — **293**
+- `verified` — **220**
+- `needs-review` — **276**
 - `partial` — **1**
-- current restart coverage — **230/497**
-- exact next iteration — **R24 + R25 scans 231–250 (20 pages)**
+- current restart coverage — **250/497**
+- exact next iteration — **R26 + R27 scans 251–270 (20 pages)**
 
 Gate D — COMPLETE / PASS:
 - physical scans — 497/497
@@ -350,9 +364,9 @@ Gate G — **COMPLETE / PASS**:
 - required metadata field presence after repair — **497/497**
 - demonstrable defects repaired — **11 missing `visual_fidelity` fields**
 - Gate-G historical `status` distribution — **43 verified / 453 needs-review / 1 partial**
-- current restart-R23 state — **203 verified / 293 needs-review / 1 partial**
+- current restart-R25 state — **220 verified / 276 needs-review / 1 partial**
 - Gate-G historical `visual_fidelity` distribution — **43 verified / 454 needs-review / 0 missing**
-- current restart-R23 visual-fidelity state — **203 verified / 294 needs-review / 0 missing**
+- current restart-R25 visual-fidelity state — **220 verified / 277 needs-review / 0 missing**
 - canonical wording changes — **0**
 - unresolved Gate-G inconsistencies — **0**
 - durable report — `GATE_G_METADATA_STATUS_AUDIT.md`
