@@ -4,11 +4,11 @@ printed_page: "56"
 work: "sangatamil"
 section: "ஒரு பொது மகளின் புலம்பல்!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 visual_notes: "running author header; first-person verse-like narrative with quoted speech; continuation into later scan; printed page number 56 visible"
 language: "ta"
-transcription_method: "Gemini lexical scaffold aligned to controlling source scan; textual/visual verification deferred"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; R08 source-verified"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -62,5 +62,4 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 உருள்கின்ற காலத்தின் கோலம் பார் -  
 சுருள்கின்ற கத்திபோல நாக்குச் சுழலும்
 
-<!-- Pass 1 only. Gemini supplied the lexical scaffold; source-visible line groups and emphasized transition were aligned to scan 71. Textual and visual verification remain deferred. -->
 <!-- மூல ஸ்கேன் பக்கம்: 71; அச்சுப் பக்கம்: 56 -->
