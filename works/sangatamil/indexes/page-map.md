@@ -59,7 +59,12 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 96–102 | printed 81–87 with scan-98 illustration | `உலைக் களத்து இரும்பும் ஒரு துளிநீரும்!` | **R10/R11 source re-audit PASS / scans 96–102 verified; protected C2 scan-96 heading and `சிவகெங்கைச் சீமை` retained** |
 | 103–106 | printed 88–91 with scan-104 illustration | `நடுக்கத்தில் கண்ட நயம்!` | **R11 source re-audit PASS / all four verified; 0 lexical discrepancies** |
 | 107–110 | printed 92–95 with scan-108 illustration | `ஒரு தாயின் தாலாட்டு!` | **R11 source re-audit PASS / all four verified; 0 lexical discrepancies** |
-| 111–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
+| 111 | printed 96 | closure of `ஒரு தாயின் தாலாட்டு!` | **R12 source re-audit PASS / verified** |
+| 112–115 | printed 97–100 with scan-114 illustration | `புரிந்துகொண்டான்; பிரிந்துசென்றார்!` | **R12 source re-audit PASS / all four verified; scans 113–115 section metadata aligned to exact user-adjudicated heading; restored scan-113 Kalithogai opening stanza preserved** |
+| 116–120 | printed 101–105 with scan-118 illustration | `மயங்கா மார்புடை மறவன் நீயே!` | **R12 source re-audit PASS / all five verified; protected scan-120 `ஊன்பொழிப் பசுங்குடையார்` retained** |
+| 121–125 | printed 106–110 with scan-122 illustration | `வண்டு வந்தது ஏனடி?` | **R13 source re-audit PASS / all five verified; scan-123 user-authorized restored opening prose preserved** |
+| 126–130 | printed 111–115 with scan-128 illustration | `வலவன் ஏவா வான ஊர்தி!` | **R13 source re-audit PASS / all five verified; C2-06 contains no discrepancy records; 0 lexical discrepancies** |
+| 131–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
 | 497 | — | back cover / end matter | **Gate D closed / physical endpoint** |
 
 ## Important controls
