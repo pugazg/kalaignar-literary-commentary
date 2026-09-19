@@ -153,12 +153,24 @@ R06 scans **51–60 — COMPLETE / PASS WITH LEXICAL HOLD**:
 - prior C2 rulings on scans 51, 53, 58 and 59 preserved;
 - scan 55 `கூடிற்றாம்!` vs source `கூடிற்றும்!` — ledgered only.
 
+R07 scans **61–70 — COMPLETE / PASS WITH LEXICAL HOLDS**:
+- 10/10 inspected at enlarged/native resolution;
+- WFV-002 and WFV-003 — **reconfirmed**;
+- new lexical discrepancy rows — **1** (WFV-011);
+- unresolved lexical pages in this batch — **3** (scans 62, 67, 69);
+- canonical lexical substitutions — **0**;
+- source-supported non-lexical body corrections — **0**;
+- page-status promotions — **7** (61, 63–66, 68, 70);
+- scan 62 WFV-002 refined as a `தனது` token-placement discrepancy;
+- scan 67 `தேர்ஏறி!` vs source `தேரேறி!` — ledgered only;
+- scan 69 `தலைமகனாம்` vs source `தலைமகனும்` — reconfirmed / ledgered only.
+
 Current whole-volume Tamil state:
-- `verified` — **55**
-- `needs-review` — **441**
+- `verified` — **62**
+- `needs-review` — **434**
 - `partial` — **1**
-- current restart coverage — **60/497**
-- exact next range — **R07 scans 61–70**
+- current restart coverage — **70/497**
+- exact next range — **R08 scans 71–80**
 
 Gate D — COMPLETE / PASS:
 - physical scans — 497/497
@@ -212,9 +224,9 @@ Gate G — **COMPLETE / PASS**:
 - required metadata field presence after repair — **497/497**
 - demonstrable defects repaired — **11 missing `visual_fidelity` fields**
 - Gate-G historical `status` distribution — **43 verified / 453 needs-review / 1 partial**
-- current restart-R06 state — **55 verified / 441 needs-review / 1 partial**
+- current restart-R07 state — **62 verified / 434 needs-review / 1 partial**
 - Gate-G historical `visual_fidelity` distribution — **43 verified / 454 needs-review / 0 missing**
-- current restart-R06 visual-fidelity state — **55 verified / 442 needs-review / 0 missing**
+- current restart-R07 visual-fidelity state — **62 verified / 435 needs-review / 0 missing**
 - canonical wording changes — **0**
 - unresolved Gate-G inconsistencies — **0**
 - durable report — `GATE_G_METADATA_STATUS_AUDIT.md`
@@ -316,6 +328,6 @@ This downstream layer does **not** reopen or mass-promote the canonical Tamil re
 
 ## Exact next activity
 
-**Tamil re-audit R07 — scans 61–70.** Process exactly 10 scans from the supplied Part002 PDF. Apply the historical-glyph guide, preserve the Gemini lexical lock, ledger every new lexical/glyph discrepancy, change no word without user adjudication, and keep `NEXT_CHAT_PROMPT_SANGATH_TAMIL.md` synchronized. WFV-006 through WFV-010 remain pending explicit user adjudication; do not alter those lexical forms while continuing later batches.
+**Tamil re-audit R08 — scans 71–80.** Process exactly 10 scans from the supplied Part002 PDF. Apply the historical-glyph guide, preserve the Gemini lexical lock, ledger every new lexical/glyph discrepancy, change no word without user adjudication, and keep `NEXT_CHAT_PROMPT_SANGATH_TAMIL.md` synchronized. WFV-002, WFV-003 and WFV-006 through WFV-011 remain pending explicit user adjudication; do not alter those lexical forms while continuing later batches.
 
 The maintained-English release-report gate remains paused while this Tamil re-audit is active.
