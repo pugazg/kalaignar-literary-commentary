@@ -2,10 +2,10 @@
 scan_page: 180
 printed_page: "167"
 work: "sangatamil"
-section: "நீர்மகள் நீரினும் குளிர்ந்த நெஞ்சம்!"
+section: "நீலமலை நீரினும் குளிர்ந்த நெஞ்சம்!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"

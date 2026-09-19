@@ -2,10 +2,11 @@
 scan_page: 177
 printed_page: "164"
 work: "sangatamil"
-section: "நீர்மகள் நீரினும் குளிர்ந்த நெஞ்சம்!"
+section: "நீலமலை நீரினும் குளிர்ந்த நெஞ்சம்!"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
+visual_notes: "R18 WFV-016/WFV-017: source places `முகத்தில்` after `இருவாட்சியும் செண்பகமும் சூடி -` and `உன்` after `தருநிழலின்றித் தவிக்கின்ற மான்போல் -`; canonical materially displaces both tokens. Canonical placement remains unchanged pending user adjudication."
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"

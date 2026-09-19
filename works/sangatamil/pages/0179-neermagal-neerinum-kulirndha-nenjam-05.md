@@ -2,10 +2,11 @@
 scan_page: 179
 printed_page: "166"
 work: "sangatamil"
-section: "நீர்மகள் நீரினும் குளிர்ந்த நெஞ்சம்!"
+section: "நீலமலை நீரினும் குளிர்ந்த நெஞ்சம்!"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
+visual_notes: "R18 WFV-018/WFV-019: canonical `வாழ்த்துக்கின்றாள்` differs from source `வாழ்த்துகின்றாள்`; canonical also omits source-visible `- இன்று / அருந்தேனை இனித்த இன்பம்` before `கிட்டாதன்றோ?`. Canonical lexical wording remains unchanged pending user adjudication."
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
