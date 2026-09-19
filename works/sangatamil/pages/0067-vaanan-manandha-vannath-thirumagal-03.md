@@ -6,7 +6,7 @@ section: "வாணன் மணந்த வண்ணத் திருமக�
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "running சங்கத் தமிழ் header; continuation after scan-66 illustration; verse-like narrative text; dialogue begins near page foot; printed page number 52 visible"
+visual_notes: "running சங்கத் தமிழ் header; continuation after scan-66 illustration; verse-like narrative text; R07 WFV-011 holds canonical `தேர்ஏறி!` unchanged against source-visible `தேரேறி!`; dialogue begins near page foot; printed page number 52 visible"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
