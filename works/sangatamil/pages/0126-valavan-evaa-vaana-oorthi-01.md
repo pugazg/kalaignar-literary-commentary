@@ -4,8 +4,8 @@ printed_page: "111"
 work: "sangatamil"
 section: "வலவன் ஏவா வான ஊர்தி!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
@@ -49,5 +49,4 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 இனிய சங்கப் பாடல் ஒன்றில் கண்புதைத்தபோது;
 
 <!-- Gate B restores File3 lexical wording; source scan controls decorative heading, paragraph flow, punctuation and printed pagination. -->
-<!-- One-pass readings remain provisional for Pass 2. -->
 <!-- மூல ஸ்கேன் பக்கம்: 126; அச்சுப் பக்கம்: 111 -->
