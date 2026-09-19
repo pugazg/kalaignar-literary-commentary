@@ -46,16 +46,16 @@ Historical Gate-G baseline:
 - `needs-review` — **453**
 - `partial` — **1**
 
-Current state after R08 scans 71–80:
+Current state after R09 scans 81–90:
 
-- `verified` — **72**
-- `needs-review` — **424**
+- `verified` — **79**
+- `needs-review` — **417**
 - `partial` — **1**
-- visual `verified` — **72**
-- visual `needs-review` — **425**
+- visual `verified` — **79**
+- visual `needs-review` — **418**
 - blocked — **0**
 
-R01–R08 changed **0 lexical words**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** on scan **49**; R06 discovered **1** on scan **55**; R07 reconfirmed WFV-002 and WFV-003 and discovered WFV-011 on scan **67**; R08 found **0** new lexical discrepancies. All disputed lexical wording remains unchanged.
+R01–R09 changed **0 lexical words**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** on scan **49**; R06 discovered **1** on scan **55**; R07 reconfirmed WFV-002 and WFV-003 and discovered WFV-011 on scan **67**; R08 found **0** new discrepancies; R09 reconfirmed WFV-004 and discovered WFV-012 and WFV-013. All disputed lexical wording remains unchanged.
 
 ## R01 — scans 1–10
 
@@ -203,13 +203,32 @@ Results:
 - earlier provisional suspicions on scans **73, 78 and 79** remain rejected after high-resolution review;
 - whole-volume state now **72 verified / 424 needs-review / 1 partial**.
 
+## R09 — scans 81–90
+
+**COMPLETE / PASS WITH LEXICAL HOLDS**
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R09_SCANS_081_090.md`
+
+Results:
+
+- scans **81–90** — full restart audit completed at enlarged/native resolution;
+- WFV-004 — **reconfirmed** on scan **83**;
+- new lexical discrepancy rows — **2**: WFV-012 and WFV-013;
+- unresolved lexical pages in this batch — **3**: scans **83, 85, 87**;
+- canonical lexical substitutions — **0**;
+- source-supported non-lexical body corrections — **1 page file**: scan **88** punctuation only;
+- page-status promotions — **7**: scans **81, 82, 84, 86, 88, 89, 90**;
+- scan **85** — source-visible `- அவர்கள்` remains ledger-only / canonical body unchanged;
+- scan **87** — source places `நல்ல` with the `அகில், மிளகு, முத்து` trade line; canonical token placement unchanged;
+- prior C2 rulings on scans **83 and 87** preserved;
+- whole-volume state now **79 verified / 417 needs-review / 1 partial**.
+
 ## Pre-restart Part002 candidate rows
 
 The earlier interrupted Part002 review is **not counted as completed restart coverage**.
 
-WFV-002 and WFV-003 have now been **R07 reconfirmed / pending user adjudication**. The remaining interrupted-cadence candidates are:
+WFV-002 and WFV-003 were **R07 reconfirmed / pending user adjudication** and WFV-004 was **R09 reconfirmed / pending user adjudication**. The remaining interrupted-cadence candidate is:
 
-- WFV-004 — scan 83
 - WFV-005 — scan 91
 
 Do not change any pending lexical wording before re-audit + user adjudication.
@@ -226,16 +245,16 @@ Do not change any pending lexical wording before re-audit + user adjudication.
 | R06 | 51–60 | **COMPLETE / PASS WITH LEXICAL HOLD** |
 | R07 | 61–70 | **COMPLETE / PASS WITH LEXICAL HOLDS** |
 | R08 | 71–80 | **COMPLETE / PASS** |
-| R09 | 81–90 | **NEXT** |
-| R10 | 91–100 | pending |
+| R09 | 81–90 | **COMPLETE / PASS WITH LEXICAL HOLDS** |
+| R10 | 91–100 | **NEXT** |
 | R11–R49 | 101–490 | pending in 10-scan cadence |
 | R50 | 491–497 | final 7-scan remainder |
 
 ## Exact next activity
 
-Process **R09 — scans 81–90** from the supplied Part002 PDF.
+Process **R10 — scans 91–100** from the supplied Part002 PDF.
 
-At R09 close:
+At R10 close:
 
 - inspect all 10 scans at enlarged/native resolution;
 - apply the historical-glyph guide;
