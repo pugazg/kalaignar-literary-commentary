@@ -10,7 +10,7 @@
 
 ## Boundary evidence
 
-Closes at scan 351; scan 352 begins `மங்கை கண்ட மகிழ்ச்சி!`.
+Closes at scan 351; scan 352 begins `மாமழை கண்ட மகிழ்ச்சி!`.
 
 The section identity and physical range are derived from the scan-controlled canonical page metadata closed by Gates B and D. Gate E does not source-correct lexical wording.
 

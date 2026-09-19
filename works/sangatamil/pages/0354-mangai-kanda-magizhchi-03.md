@@ -2,13 +2,13 @@
 scan_page: 354
 printed_page: "342"
 work: "sangatamil"
-section: "மங்கை கண்ட மகிழ்ச்சி!"
+section: "மாமழை கண்ட மகிழ்ச்சி!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 visual_notes: "running work header; narrative closure; Akananuru quotation, provenance and பொருள் விளக்கம்; printed page number 342"
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; R36 source-verified"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 353
 ---
