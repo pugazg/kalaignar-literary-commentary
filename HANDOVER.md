@@ -56,16 +56,17 @@ Earlier Gate-B/C/F checkpoints remain historical evidence only. Later commits ma
 - Gate H — **COMPLETE / PASS — 104 sections / 115 formal units / 4 note-only / 119 provenance leaves / 0 canonical page changes**
 - Gate I — **COMPLETE / PASS — final synchronization / closure**
 - Gate-G historical page status distribution — **43 verified / 453 needs-review / 1 partial**
-- current Tamil re-audit state after R02 — **49 verified / 447 needs-review / 1 partial**
-- current visual-fidelity state after R02 — **49 verified / 448 needs-review / 0 missing**
+- current Tamil re-audit state after R03 — **47 verified / 449 needs-review / 1 partial**
+- current visual-fidelity state after R03 — **47 verified / 450 needs-review / 0 missing**
 - user-directed Tamil word-for-word verification — **IN PROGRESS**
 - restart R01 scans **1–10** — **COMPLETE / PASS — 0 new lexical discrepancies / WFV-001 rejected / scan8 partial**
 - restart R02 scans **11–20** — **COMPLETE / PASS — 0 new lexical discrepancies / 0 lexical substitutions / 0 page-layer mutations**
+- restart R03 scans **21–30** — **COMPLETE / PASS WITH LEXICAL HOLDS — WFV-006..008 / 0 lexical substitutions / scans 25+30 needs-review**
 - whole-volume word-for-word completion — **NOT YET CLAIMED**
 
 The mixed page-level statuses are intentional. Gate C2 resolved all recorded Gate-C discrepancies but did not perform a fresh exhaustive token-by-token reread of every source word.
 
-**Exact active Tamil activity: restarted Gemini-locked word-for-word + historical-glyph re-audit in 10-page iterations.** R01 scans **1–10** and R02 scans **11–20** are **COMPLETE / PASS**; exact next range is **R03 scans 21–30** from the supplied Part001 PDF. R02 preserved the prior C2 rulings on scans 11, 13 and 19, found **0** new lexical discrepancies, and made **0** page-layer mutations.
+**Exact active Tamil activity: restarted Gemini-locked word-for-word + historical-glyph re-audit in 10-page iterations.** R01 scans **1–10**, R02 scans **11–20**, and R03 scans **21–30** are complete. R03 closed **PASS WITH LEXICAL HOLDS**: WFV-006 scan 25 (`பெற்றவனோ?` vs source `பெற்றவனே?`) and WFV-007/WFV-008 scan 30 (`ஆள்அன்று` vs source `ஆளன்று` in quotation and gloss) remain pending explicit user adjudication. **No lexical mutation was made.** Exact next range is **R04 scans 31–40** from the supplied Part001 PDF.
 
 Mandatory companion control: `works/sangatamil/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Inspect difficult glyphs at enlarged/native resolution, check the 13 known families, and compare same-edition evidence. **Do not correct lexical words directly**: every new lexical/glyph difference goes to `LEXICAL_DISCREPANCY_LEDGER.md` and awaits explicit user adjudication.
 
