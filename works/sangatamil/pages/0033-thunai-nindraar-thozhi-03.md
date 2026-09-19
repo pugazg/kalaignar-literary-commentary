@@ -4,11 +4,11 @@ printed_page: "18"
 work: "sangatamil"
 section: "துணை நின்றாள் தோழி!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 visual_notes: "running சங்கத் தமிழ் header; multiple verse blocks; quoted dialogue near page foot; printed page number centered"
 language: "ta"
-transcription_method: "Gemini lexical scaffold reconciled to controlling source scan; legacy verified status reopened pending systematic textual/visual passes"
+transcription_method: "source-first word-for-word and visual verification against user-supplied Part001 scan; 2026-09-19"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -55,5 +55,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 விரிந்து பரந்த கடற்கரை மெத்தையில்  
 விழுந்தனர், புரண்டனர், எழுந்தனர், மகிழ்ந்தனர்!
 
-<!-- Gemini supplied the lexical scaffold; page-local lineation and dialogue grouping were reconciled against the controlling scan. Systematic Pass 2/3 verification remains pending. -->
+<!-- 2026-09-19 word-for-word/visual verification against the user-supplied Part001 scan: PASS / no canonical wording or structure correction required. -->
 <!-- மூல ஸ்கேன் பக்கம்: 33; அச்சுப் பக்கம்: 18 -->

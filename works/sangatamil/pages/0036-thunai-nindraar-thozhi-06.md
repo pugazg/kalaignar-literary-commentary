@@ -4,11 +4,11 @@ printed_page: "21"
 work: "sangatamil"
 section: "துணை நின்றாள் தோழி!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 visual_notes: "running author header; continuation from scan 35; concluding Kalaignar text; centered separator; Sangam quotation; right-side provenance block; பொருள் விளக்கம் block; final separator; printed page number centered"
 language: "ta"
-transcription_method: "Gemini lexical scaffold reconciled to controlling source scan; legacy verified status reopened pending systematic textual/visual passes"
+transcription_method: "source-first word-for-word and visual verification against user-supplied Part001 scan; 2026-09-19"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 35
 ---
@@ -65,5 +65,5 @@ continues_from_scan: 35
 
 <div align="center">*</div>
 
-<!-- The previous `verified` record contained substantive lexical mismatches, including the quoted Sangam forms. Gemini supplied the recovery scaffold; quote/provenance/block placement was checked against the controlling scan. Systematic Pass 2/3 verification remains pending. -->
+<!-- 2026-09-19 word-for-word/visual verification against the user-supplied Part001 scan: PASS / quoted Sangam text, provenance, பொருள் விளக்கம், punctuation and page structure all verified. -->
 <!-- மூல ஸ்கேன் பக்கம்: 36; அச்சுப் பக்கம்: 21 -->

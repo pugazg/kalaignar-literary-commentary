@@ -4,11 +4,11 @@ printed_page: "19"
 work: "sangatamil"
 section: "துணை நின்றாள் தோழி!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 visual_notes: "running author header; dialogue and verse blocks with source-offset continuation lines; printed page number centered at foot"
 language: "ta"
-transcription_method: "Gemini lexical scaffold reconciled to controlling source scan; legacy verified status reopened pending systematic textual/visual passes"
+transcription_method: "source-first word-for-word and visual verification against user-supplied Part001 scan; 2026-09-19"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_to_scan: 35
 ---
@@ -50,6 +50,9 @@ continues_to_scan: 35
 அலையில் ஆடும் படகுபோல் மிதத்தல் நலமா? - அதனாலே  
 கலையழகே! என் கலாபமே! கண்மணியே!  
 கணவன் மனைவி ஆவதற்குச் சற்றுக் காத்திருப்போம்!  
+
+<div align="right">அதுவரையில்</div>
+
 காதல் எல்லை எதுவென்று - அந்தக்  
 கடலின் ஆழம் கண்டறிவோம்!” என்றுரைத்தான்.
 
@@ -57,7 +60,5 @@ continues_to_scan: 35
 அன்பன் கரம்பட்டுச் சிலிர்த்துப்போய்,  
 என்புதோல் நரம்பனைத்தும் சூடேறி;
 
-<div align="right">அதுவரையில்</div>
-
-<!-- The earlier record misplaced `அதுவரையில்` inside the preceding speech. It is restored to the page-end continuation position supported by the scan/Gemini sequence. Systematic Pass 2/3 verification remains pending. -->
+<!-- 2026-09-19 word-for-word/visual verification against the user-supplied Part001 scan: `அதுவரையில்` restored to its exact source position inside the closing speech, immediately before `காதல் எல்லை...`; all other wording verified. -->
 <!-- மூல ஸ்கேன் பக்கம்: 34; அச்சுப் பக்கம்: 19 -->

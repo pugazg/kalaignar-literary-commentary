@@ -5,6 +5,14 @@
 Repository: `pugazg/kalaignar-literary-commentary`  
 Branch: `main`
 
+## Tamil source-baseline change — release gate paused
+
+A user-directed source-first Tamil word-for-word verification pass began on **2026-09-19** after the whole-volume English review had closed.
+
+Part001 scans **1–50** has now source-verified all six pages that were still `needs-review` in that source part and promoted them to Tamil `verified`. Canonical Tamil corrections occurred on scans **7, 31 and 34**; scans **33, 35 and 36** passed unchanged.
+
+Therefore the English release-report gate is **PAUSED** until the affected English pages are reconciled to the updated Tamil baseline and the user-directed Tamil verification frontier is advanced as intended. Existing English review evidence remains historical evidence for its prior canonical baseline; do not promote any page to `release-ready` during this pause.
+
 ## Tamil prerequisite
 
 The Sangatamil Tamil archival pipeline is closed through Gates A–I.
@@ -34,7 +42,7 @@ English work does not alter or promote those Tamil statuses.
 | Glossary reconciliation | **497/497 — GR1+GR2+GR3+GR4+GR5+GR6+GR7+GR8+GR9+GR10+GR11+GR12+GR13+GR14 COMPLETE / CLOSED** |
 | Editorial review | **497/497 reviewed — ER1+ER2+ER3+ER4+ER5+ER6+ER7+ER8+ER9+ER10+ER11+ER12+ER13+ER14 COMPLETE / CLOSED (496 editorial-reviewed + scan 8 source-limited)** |
 | Whole-volume / section-level review | **COMPLETE / PASS — active release unit scans 1–497** |
-| Release report | **NOT STARTED — exact next activity** |
+| Release report | **PAUSED — Tamil word-for-word verification / targeted English impact reconciliation pending** |
 | Release-ready | **0/497** |
 
 Current English page inventory:

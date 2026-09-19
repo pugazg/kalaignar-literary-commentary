@@ -4,11 +4,11 @@ printed_page: "16"
 work: "sangatamil"
 section: "துணை நின்றாள் தோழி!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 visual_notes: "large decorative section heading at top; source text set as short verse lines beneath; printed page number centered at foot"
 language: "ta"
-transcription_method: "Gemini lexical scaffold reconciled to controlling source scan; legacy verified status reopened pending systematic textual/visual passes"
+transcription_method: "source-first word-for-word and visual verification against user-supplied Part001 scan; 2026-09-19"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -16,7 +16,8 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 
 தளிர் என்றால் கொழுந்தன்றோ!  
 தடம் என்றால் வழியன்றோ!  
-அஃதேபோல் தலைவன் என்று துணைவனையும்  
+அஃதேபோல்  
+தலைவன் என்று துணைவனையும்  
 தலைவி என்று துணைவியையும் - பழந்  
 தமிழ் நூல்கள் குறிப்பது வழக்கமன்றோ!
 
@@ -42,8 +43,8 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 புவிக்கோர் விருந்தாய்ப் படைத்திடுவார்!  
 ஆயனார் வாழும் முல்லை நிலத்தில்  
 ஆவிநிகர்க் காதலர் ஆடி மகிழ்வதை  
-பேயனார் எனும் கவிக்கோ தமிழர்  
+பேயனார் எனும் கவிக்கோ - தமிழர்  
 பெருமைக்கோர் சான்றாகப் பேசிடுவார்!
 
-<!-- Gemini supplied the lexical scaffold; heading, page boundary and line organization were reconciled against the controlling scan. Systematic Pass 2/3 verification remains pending. -->
+<!-- 2026-09-19 word-for-word/visual verification against the user-supplied Part001 scan: PASS after restoring source verse lineation and the printed dash in `கவிக்கோ - தமிழர்`. -->
 <!-- மூல ஸ்கேன் பக்கம்: 31; அச்சுப் பக்கம்: 16 -->

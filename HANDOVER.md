@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed **2026-09-18**: Kuraloviyam remains closed; Sangath Tamil Gates **A–I are COMPLETE / PASS** and the Tamil archival pipeline is **CLOSED**; the separately scoped **maintained English project translation is ACTIVE** with first-pass Drafts D1–D14 scans **1–497 COMPLETE / CLOSED**, Source-Check SC1–SC14 scans **1–497 COMPLETE / CLOSED**, Glossary Reconciliation GR1–GR14 scans **1–497 COMPLETE / CLOSED**, Editorial Review ER1 scans **1–37 COMPLETE / PASS**, ER2 scans **38–74 COMPLETE / PASS**, ER3 scans **75–111 COMPLETE / PASS**, ER4 scans **112–148 COMPLETE / PASS**, ER5 scans **149–185 COMPLETE / PASS**, ER6 scans **186–222 COMPLETE / PASS**, ER7 scans **223–259 COMPLETE / PASS**, ER8 scans **260–296 COMPLETE / PASS**, ER9 scans **297–333 COMPLETE / PASS**, ER10 scans **334–370 COMPLETE / PASS**, ER11 scans **371–407 COMPLETE / PASS**, ER12 scans **408–444 COMPLETE / PASS**, ER13 scans **445–481 COMPLETE / PASS**, and ER14 scans **482–497 COMPLETE / PASS — EDITORIAL REVIEW CLOSED 497/497**.
+Last refreshed **2026-09-19**: Kuraloviyam remains closed; Sangath Tamil Gates **A–I are COMPLETE / PASS** and the Tamil archival pipeline is **CLOSED**; the separately scoped **maintained English project translation is ACTIVE** with first-pass Drafts D1–D14 scans **1–497 COMPLETE / CLOSED**, Source-Check SC1–SC14 scans **1–497 COMPLETE / CLOSED**, Glossary Reconciliation GR1–GR14 scans **1–497 COMPLETE / CLOSED**, Editorial Review ER1 scans **1–37 COMPLETE / PASS**, ER2 scans **38–74 COMPLETE / PASS**, ER3 scans **75–111 COMPLETE / PASS**, ER4 scans **112–148 COMPLETE / PASS**, ER5 scans **149–185 COMPLETE / PASS**, ER6 scans **186–222 COMPLETE / PASS**, ER7 scans **223–259 COMPLETE / PASS**, ER8 scans **260–296 COMPLETE / PASS**, ER9 scans **297–333 COMPLETE / PASS**, ER10 scans **334–370 COMPLETE / PASS**, ER11 scans **371–407 COMPLETE / PASS**, ER12 scans **408–444 COMPLETE / PASS**, ER13 scans **445–481 COMPLETE / PASS**, and ER14 scans **482–497 COMPLETE / PASS — EDITORIAL REVIEW CLOSED 497/497**.
 
 ## Repository
 
@@ -55,15 +55,20 @@ Earlier Gate-B/C/F checkpoints remain historical evidence only. Later commits ma
 - Gate G — **COMPLETE / PASS — 497/497 metadata/status audited / 11 missing `visual_fidelity` fields repaired / 0 unresolved / 0 wording changes**
 - Gate H — **COMPLETE / PASS — 104 sections / 115 formal units / 4 note-only / 119 provenance leaves / 0 canonical page changes**
 - Gate I — **COMPLETE / PASS — final synchronization / closure**
-- final Gate-G page status distribution — **43 verified / 453 needs-review / 1 partial**
-- final Gate-G visual-fidelity distribution — **43 verified / 454 needs-review / 0 missing**
-- whole-volume word-for-word scan verification — **NOT CLAIMED**
+- Gate-G historical page status distribution — **43 verified / 453 needs-review / 1 partial**
+- current Tamil word-for-word state after Part001 — **49 verified / 447 needs-review / 1 partial**
+- current visual-fidelity state after Part001 — **49 verified / 448 needs-review / 0 missing**
+- user-directed Tamil word-for-word verification — **IN PROGRESS**
+- Part001 scans **1–50** — **COMPLETE / PASS for all six prior needs-review pages**
+- whole-volume word-for-word completion — **NOT YET CLAIMED**
 
 The mixed page-level statuses are intentional. Gate C2 resolved all recorded Gate-C discrepancies but did not perform a fresh exhaustive token-by-token reread of every source word.
 
-**Exact Tamil archival activity: none — Sangath Tamil archival pipeline closed.**
+**Exact active Tamil activity: user-directed source-first word-for-word verification of the remaining `needs-review` pages.** Part001 scans **1–50** is complete for its six needs-review pages; exact next Tamil source unit is **Part002 scans 51–100**, once the user supplies that PDF.
 
-**Exact downstream activity: maintained English release-report gate — active release unit scans 1–497.** First-pass drafting, source-check, glossary reconciliation, editorial review and whole-volume / section-level review are all **COMPLETE / CLOSED**. Current maintained-English state remains **496 editorial-reviewed + 1 source-limited (scan 8)**. Create the whole-volume English release report, decide release approval, and only after approval may the 496 eligible pages be promoted to `release-ready`; scan 8 must remain `source-limited`.
+For this new pass, the user-supplied Tamil PDF scan supersedes the historical Gemini lexical lock for each page actually reviewed. Do not source-correct already-`verified` pages unless the user explicitly expands scope or a clear new defect is discovered.
+
+**Maintained English release-report gate is PAUSED while the new Tamil word-for-word verification pass is active.** The English layer remains at **496 editorial-reviewed + 1 source-limited (scan 8)**. Tamil corrections discovered by this pass must receive targeted English impact reconciliation before any release approval or `release-ready` promotion.
 
 English controls: `works/sangatamil/translations/en/README.md`, `TRANSLATION_GUIDE.md`, `TRANSLATION_STATUS.md`, and `GLOSSARY.md`.
 
