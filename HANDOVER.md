@@ -56,8 +56,8 @@ Earlier Gate-B/C/F checkpoints remain historical evidence only. Later commits ma
 - Gate H — **COMPLETE / PASS — 104 sections / 115 formal units / 4 note-only / 119 provenance leaves / 0 canonical page changes**
 - Gate I — **COMPLETE / PASS — final synchronization / closure**
 - Gate-G historical page status distribution — **43 verified / 453 needs-review / 1 partial**
-- current Tamil re-audit state after R09 — **79 verified / 417 needs-review / 1 partial**
-- current visual-fidelity state after R09 — **79 verified / 418 needs-review / 0 missing**
+- current Tamil re-audit state after R11 — **97 verified / 399 needs-review / 1 partial**
+- current visual-fidelity state after R11 — **97 verified / 400 needs-review / 0 missing**
 - user-directed Tamil word-for-word verification — **IN PROGRESS**
 - restart R01 scans **1–10** — **COMPLETE / PASS — 0 new lexical discrepancies / WFV-001 rejected / scan8 partial**
 - restart R02 scans **11–20** — **COMPLETE / PASS — 0 new lexical discrepancies / 0 lexical substitutions / 0 page-layer mutations**
@@ -68,11 +68,13 @@ Earlier Gate-B/C/F checkpoints remain historical evidence only. Later commits ma
 - restart R07 scans **61–70** — **COMPLETE / PASS WITH LEXICAL HOLDS — WFV-002+003 reconfirmed / WFV-011 new / 0 lexical substitutions / scans62+67+69 needs-review / 7 status promotions**
 - restart R08 scans **71–80** — **COMPLETE / PASS — 0 new lexical discrepancies / 0 lexical substitutions / 10 status promotions**
 - restart R09 scans **81–90** — **COMPLETE / PASS WITH LEXICAL HOLDS — WFV-004 reconfirmed / WFV-012+013 new / 0 lexical substitutions / scans83+85+87 needs-review / 7 status promotions**
+- restart R10 scans **91–100** — **COMPLETE / PASS WITH LEXICAL HOLDS — WFV-005 reconfirmed / WFV-014 new / 0 lexical substitutions / scans91+94 needs-review / 8 status promotions**
+- restart R11 scans **101–110** — **COMPLETE / PASS — 0 new lexical discrepancies / 0 lexical substitutions / 10 status promotions**
 - whole-volume word-for-word completion — **NOT YET CLAIMED**
 
 The mixed page-level statuses are intentional. Gate C2 resolved all recorded Gate-C discrepancies but did not perform a fresh exhaustive token-by-token reread of every source word.
 
-**Exact active Tamil activity: restarted Gemini-locked word-for-word + historical-glyph re-audit in 10-page iterations.** R01 scans **1–10** through R09 scans **81–90** are complete. R09 closed **PASS WITH LEXICAL HOLDS**: WFV-004 scan 83 was reconfirmed (`ஆழல்` vs source `ஆனால்`); new WFV-012 scan 85 records the source-visible `- அவர்கள்` token missing from canonical; new WFV-013 scan 87 records the source placement of `நல்ல` with the `அகில், மிளகு, முத்து` trade line rather than before `இலக்கிய மேதைகள்`. Scan 88 received one source-supported comma correction only. Seven clean R09 pages were promoted to `verified`. **No lexical mutation was made.** Exact next range is **R10 scans 91–100** from the supplied Part002 PDF; R10 must reconfirm WFV-005 on scan 91 without applying it automatically.
+**Exact active Tamil activity: restarted Gemini-locked word-for-word + historical-glyph re-audit in 10-page iterations.** R01 scans **1–10** through R11 scans **101–110** are complete. The user requested a 20-page run, so R10 and R11 were processed together. R10 closed **PASS WITH LEXICAL HOLDS**: WFV-005 scan 91 was reconfirmed (`வாராத` vs source `வராத`) and new WFV-014 scan 94 records quotation `உயிர்ஒம்` vs source-visible `உயிர்ஓம்`; 8 clean R10 pages were promoted. R11 closed **PASS** with 0 new lexical discrepancies and 10 status promotions. **No lexical mutation was made.** Current state is **97 verified / 399 needs-review / 1 partial**. Exact next range is **R12 scans 111–120** from Part003 / the controlling user-supplied source.
 
 Mandatory companion control: `works/sangatamil/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Inspect difficult glyphs at enlarged/native resolution, check the 13 known families, and compare same-edition evidence. **Do not correct lexical words directly**: every new lexical/glyph difference goes to `LEXICAL_DISCREPANCY_LEDGER.md` and awaits explicit user adjudication.
 
