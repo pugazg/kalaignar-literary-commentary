@@ -3096,6 +3096,58 @@ No canonical lexical word or character was changed.
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R47_SCANS_461_470.md`.
 
+## Restart R48 — scans 471–480
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf`, physical scans 471–480 / PDF pages 21–30
+- reviewed scans: **471–480 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **0**
+- unresolved new lexical pages: **0**
+- source-supported non-lexical body corrections: **0**
+- page-status promotions: **10**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R48 findings
+
+- scans **471–480** — full lexical/glyph review passed and promoted;
+- C19-015/C19-016 and C20-001 were preserved exactly;
+- scans **471 and 477** are full-page illustrations;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R48_SCANS_471_480.md`.
+
+## Restart R49 — scans 481–490
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf`, physical scans 481–490 / PDF pages 31–40
+- reviewed scans: **481–490 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **0**
+- unresolved new lexical pages: **0**
+- source-supported non-lexical body corrections: **0**
+- page-status promotions: **10**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R49 findings
+
+- scans **481–490** — full lexical/glyph review passed and promoted;
+- C20-002 on scan **481** was preserved exactly;
+- scan **485** is a full-page illustration;
+- WFV-055/WFV-056 and all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R49_SCANS_481_490.md`.
+
 ### Exact next audit range
 
-**R48 + R49 — scans 471–490, 20 pages in the user-requested iteration cadence, using Part010 PDF pages 21–40.**
+**R50 — scans 491–497, final 7-page restart batch, using Part010 PDF pages 41–47.**

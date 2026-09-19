@@ -1,39 +1,35 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / 20-PAGE RE-AUDIT R48+R49 scans 471–490
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / FINAL RE-AUDIT R50 scans 491–497
 
 Continue only from live `main` in `pugazg/kalaignar-literary-commentary`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Active workflow
 
-Tamil word-for-word / historical-glyph re-audit uses the user's fixed cadence:
+Tamil word-for-word / historical-glyph re-audit has reached its final source batch.
 
-> **20 physical scans per user iteration**
-
-Keep durable audit reports in **10-scan R batches** inside each 20-page iteration.
-
-R01 through R47 are complete through physical scan **470**.
+R01 through R49 are complete through physical scan **490**.
 
 Latest frontier:
 
-- R44 scans **431–440 — COMPLETE / PASS**
-- R45 scans **441–450 — COMPLETE / PASS WITH LEXICAL HOLDS**
 - R46 scans **451–460 — COMPLETE / PASS**
 - R47 scans **461–470 — COMPLETE / PASS**
+- R48 scans **471–480 — COMPLETE / PASS**
+- R49 scans **481–490 — COMPLETE / PASS**
 
-**Exact next user iteration: R48 + R49 = scans 471–490.**
+**Exact next activity: R50 = scans 491–497, final 7 physical scans.**
 
 Use only the user's supplied controlling PDF:
 
 `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf`
 
-Physical scans **471–490 = PDF pages 21–40**.
+Physical scans **491–497 = PDF pages 41–47**.
 
 Do not substitute web copies.
 
 ## Read first — mandatory
 
 1. `works/sangatamil/TAMIL_WORD_FOR_WORD_VERIFICATION.md`
-2. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R46_SCANS_451_460.md`
-3. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R47_SCANS_461_470.md`
+2. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R48_SCANS_471_480.md`
+3. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R49_SCANS_481_490.md`
 4. `works/sangatamil/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
 5. `works/sangatamil/GEMINI_TEXT_LOCK.md`
 6. `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`
@@ -72,75 +68,65 @@ For every printed page:
 
 Even strongly supported glyph/source differences are **ledger-first**.
 
-## Durable state through R47
+## Durable state through R49
 
 Current Tamil state:
 
-- `verified` — **425**
-- `needs-review` — **71**
+- `verified` — **445**
+- `needs-review` — **51**
 - `partial` — **1**
-- visual `verified` — **425**
-- visual `needs-review` — **72**
-- restart coverage — **470/497**
+- visual `verified` — **445**
+- visual `needs-review` — **52**
+- restart coverage — **490/497**
 
 ### Confirmed unresolved lexical holds — DO NOT CHANGE
 
 WFV-002 through WFV-056 remain pending explicit user adjudication. WFV-001 remains rejected.
 
-### R46 / R47 closure
+### R48 / R49 closure
 
-R46 scans **451–460 — COMPLETE / PASS**:
-
-- new WFV rows — **0**
-- unresolved new pages — **0**
-- lexical substitutions — **0**
-- status promotions — **10**
-- C19-001..008 preserved
-
-R47 scans **461–470 — COMPLETE / PASS**:
+R48 scans **471–480 — COMPLETE / PASS**:
 
 - new WFV rows — **0**
 - unresolved new pages — **0**
 - lexical substitutions — **0**
 - status promotions — **10**
-- C19-009..014 preserved
+- C19-015/C19-016/C20-001 preserved
 
-## R48+R49 protected C19/C20 rulings — scans 471–490
+R49 scans **481–490 — COMPLETE / PASS**:
+
+- new WFV rows — **0**
+- unresolved new pages — **0**
+- lexical substitutions — **0**
+- status promotions — **10**
+- C20-002 preserved
+
+## R50 protected C20 rulings — scans 491–497
 
 Preserve these exact prior user adjudications:
 
-- **scan 472 / C19-015** — `மதுவூறும் கவிமலரால் புகழ்ந்தார் தித்தனை!`
-- **scan 473 / C19-016** — `ஓலையில் உள்ள குறிப்பில்;`
-- **scan 478 / C20-001** — standalone `என்று` between `புலிப்போத்து` and `பாணன் வீரத்தைக்...`
-- **scan 481 / C20-002** — quotation continues with `எழாஅப் பாணன்........` before the quotation close
+- **scan 492 / C20-003** — `ஆரணங்கின் குரலாய் இருப்பதை உணர்ந்து`
+- **scan 494 / C20-004** — protected Gemini-correct `எடுத்தெறிந்து பேசினாரே, நற்கிள்ளி!`
+- **scan 494 / C20-005** — `ஏமாந்துபோனார் உன் அண்ணன்!`
+- **scan 495 / C20-006** — protected Gemini-correct `இனியவரே! இன்றென்காதல் கைகூடியது! எனை,`
 
 Do not reopen these merely because an earlier Gemini/source comparison disagreed.
 
-## Exact activity — 20 pages
+## Exact activity — 7 pages
 
-### R48 — scans 471–480
+### R50 — scans 491–497
 
-1. source-check Part010 PDF pages **21–30** word-for-word;
+1. source-check Part010 PDF pages **41–47** word-for-word;
 2. apply historical-glyph review;
-3. preserve C19-015, C19-016 and C20-001 exactly where applicable;
+3. preserve C20-003 through C20-006 exactly where applicable;
 4. ledger every new lexical/glyph/material-placement difference starting with **WFV-057**;
 5. make **0 lexical substitutions** without user adjudication;
 6. apply only source-supported nonlexical structure/punctuation/layout changes;
 7. promote only clean fully audited pages;
 8. create:
-   `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R48_SCANS_471_480.md`.
+   `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R50_SCANS_491_497.md`.
 
-### R49 — scans 481–490
-
-1. continue immediately using Part010 PDF pages **31–40**;
-2. preserve C20-002 exactly;
-3. ledger every new lexical/glyph/material-placement difference under the next live WFV ID;
-4. make **0 lexical substitutions** without user adjudication;
-5. promote only clean fully audited pages;
-6. create:
-   `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R49_SCANS_481_490.md`.
-
-At the end synchronize:
+At R50 close synchronize:
 
 - `works/sangatamil/TAMIL_WORD_FOR_WORD_VERIFICATION.md`
 - `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`
@@ -150,6 +136,8 @@ At the end synchronize:
 - `works/sangatamil/translations/en/TRANSLATION_STATUS.md`
 - **`NEXT_CHAT_PROMPT_SANGATH_TAMIL.md`**
 
-The maintained-English release-report gate remains **PAUSED**.
+## Post-R50 rule
 
-After R48+R49, the final Tamil restart activity is **R50 — scans 491–497 (7 pages)** using Part010 PDF pages **41–47**.
+After R50, fresh restart source coverage is **497/497**.
+
+Do **not** claim whole-volume lexical closure while WFV-002 through WFV-056 remain pending explicit user adjudication. The next workflow must be the user-adjudication / reconciliation phase for those held rows, followed by targeted English impact reconciliation. The maintained-English release-report gate remains **PAUSED** until then.
