@@ -1608,6 +1608,9 @@ These rows are therefore **not correction authorizations**. Canonical wording st
 | WFV-003 | 69 | 54 | `0069-vaanan-manandha-vannath-thirumagal-05.md` | `தலைமகனாம் என் கணவர்` | `தலைமகனும் என் கணவர்` | `likely-gemini-error` | **PENDING RECONFIRMATION IN RESTART 10-PAGE AUDIT — do not change word** |
 | WFV-004 | 83 | 68 | `0083-pisiranthaiyar-2-02.md` | `மாலையாவதில்ல - ஆழல்` | `மாலையாவதில்ல - ஆனால்` | `likely-gemini-error` | **PENDING RECONFIRMATION IN RESTART 10-PAGE AUDIT — do not change word** |
 | WFV-005 | 91 | 76 | `0091-pisirandhaiyar-4-01.md` | `வாராத காரணம்தான்` | `வராத காரணம்தான்` | `likely-gemini-error` | **PENDING RECONFIRMATION IN RESTART 10-PAGE AUDIT — do not change word** |
+| WFV-006 | 25 | 10 | `0025-maanangkaatha-maravan-01.md` | `வளையாத முதுகெலும்பு பெற்றவனோ?` | `வளையாத முதுகெலும்பு பெற்றவனே?` | `likely-gemini-error` | **R03 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 25 reopened to needs-review** |
+| WFV-007 | 30 | 15 | `0030-maanangkaatha-maravan-06.md` | quotation `ஆள்அன்று என்று வாளின் தப்பார்;` | quotation source `ஆளன்று என்று வாளின் தப்பார்;` | `old-or-uncommon-form` | **R03 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 30 reopened to needs-review** |
+| WFV-008 | 30 | 15 | `0030-maanangkaatha-maravan-06.md` | gloss `ஆள்அன்று என்று வாளின் தப்பார் = ...` | gloss source `ஆளன்று என்று வாளின் தப்பார் = ...` | `old-or-uncommon-form` | **R03 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; same scan-30 lexical hold** |
 
 Non-lexical observations from the same review, such as token placement, lineation or punctuation, are not entered here unless they change the lexical reading.
 
@@ -1681,6 +1684,35 @@ No prior C2 adjudication was reopened. No canonical word or character was change
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R02_SCANS_011_020.md`.
 
+## Restart R03 — scans 21–30
+
+**Status: COMPLETE / PASS WITH LEXICAL HOLDS**
+
+- date: **2026-09-19**
+- source: `TVA_BOK_0042551_சங்கத்_தமிழ்_part_001_pages_1-50.pdf`
+- cadence: **10 physical scans per iteration**
+- reviewed scans: **21–30 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **3** — WFV-006 through WFV-008
+- unresolved lexical pages: **2** — scans 25 and 30
+- source-supported non-lexical page corrections: **3 page files** — scans 21, 25, 29
+- page files mutated: **4** — scans 21, 25, 29, 30
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R03 findings
+
+- scan **21** — earlier C2 running-header and continuation-line rulings preserved; source-only punctuation/alignment corrections applied with **0 lexical changes**;
+- scans **22–24** — no new lexical/glyph discrepancy;
+- scan **25** — WFV-006 confirmed: canonical `பெற்றவனோ?` vs source `பெற்றவனே?`; canonical left unchanged; page now `needs-review`;
+- scan **25** — final `இரும்பொறை` / `இரும்பொத்த` lines restored to source order without changing words;
+- scan **26–27** — no new lexical/glyph discrepancy;
+- scan **28** — prior C2 `அடடா` ruling preserved; no new discrepancy;
+- scan **29** — prior C2 `நானோ` ruling and `மனப்` placement preserved; source punctuation/lineation synchronized with **0 lexical changes**;
+- scan **30** — WFV-007/WFV-008 confirmed: source compact `ஆளன்று` vs canonical `ஆள்அன்று` in quotation and gloss; canonical left unchanged; page now `needs-review`.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R03_SCANS_021_030.md`.
+
 ### Exact next audit range
 
-**R03 — scans 21–30.**
+**R04 — scans 31–40.**
