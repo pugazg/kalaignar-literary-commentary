@@ -4,8 +4,8 @@ printed_page: "227"
 work: "sangatamil"
 section: "காட்டில் பிறந்த கவிதை!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording with user-authorized C2 repository-divergence restoration"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
@@ -19,7 +19,8 @@ continues_from_scan: 239
 “கருங்கண் தாக்கலை பெரும்பிறிது உற்றென,  
 கைம்மை உய்யாக் காமர் மந்தி  
 கல்லா வன்பறழ் கிளைமுதல் சேர்த்தி  
-ஓங்குவரை அடுக்கத்துப் பாய்ந்து உயிர் செகுக்கும்...”  
+ஓங்குவரை அடுக்கத்துப் பாய்ந்து உயிர் செகுக்கும்...  
+.........................”  
   
 \*  
   

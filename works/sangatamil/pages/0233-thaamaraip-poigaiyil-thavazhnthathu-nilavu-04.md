@@ -6,6 +6,7 @@ section: "தாமரைப் பொய்கையில் (?) தவழ்�
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
+visual_notes: "R24 WFV-038/WFV-039: source places `அன்றிப்` after `போர் புரிந்து வெற்றி காண்போம்` rather than before it, and places `பெயர் எடுப்பேன்!` immediately after `ஆழ்ந்த நட்பாளர் அனைவரையும் இழந்திட்ட பாவியெனும்`; canonical placement remains unchanged pending user adjudication."
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"

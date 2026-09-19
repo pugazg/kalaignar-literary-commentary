@@ -6,6 +6,7 @@ section: "தாமரைப் பொய்கையில் (?) தவழ்�
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
+visual_notes: "R24 WFV-033..WFV-037: source/canonical material order differs around `திருமலியும்...` / `கருவிழிகள்...`; canonical has an extra standalone `பின்`; source positions existing `இந்த` and `என்` earlier than canonical; canonical `மருந்து பெறத்` differs from source `மருந்து பெற்ற`. Canonical wording/placement remains unchanged pending user adjudication."
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"

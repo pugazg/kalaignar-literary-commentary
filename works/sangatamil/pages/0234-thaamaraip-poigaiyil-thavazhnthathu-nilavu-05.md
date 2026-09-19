@@ -4,8 +4,8 @@ printed_page: "221"
 work: "sangatamil"
 section: "தாமரைப் பொய்கையில் (?) தவழ்ந்தது நிலவு!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
+status: "verified"
+visual_fidelity: "verified"
 language: "ta"
 transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
@@ -21,8 +21,9 @@ continues_to_scan: 235
   
 \*  
   
-"மடங்கலின் சினைஇ  
-அவர்ப்புறம் காணேன் ஆயின் -சிறந்த  
+"மடங்கலின் சினைஇ ........  
+................  
+அவர்ப்புறம் காணேன் ஆயின் - சிறந்த  
 பேரமர் உண்கண் இவளினும் பிரிக;  
 அறன்நிலை திரியா அன்பின் அவையத்துத்,  
 திறன்இல் ஒருவனை நாட்டி, முறை திரிந்து  
