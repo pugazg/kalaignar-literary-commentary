@@ -143,7 +143,13 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 402–405 | printed 390–393 with scan-403 illustration | `நெஞ்சம் இனிக்கிறது; தஞ்சம்புகத் துடிக்கிறது!` | **R41 complete / all four verified; C17-001/C17-002 preserved** |
 | 406–408 | printed 394–396 with scan-407 illustration | `மணித்தேரில் சென்ற மகன்!` | **R41 complete / all three verified** |
 | 409–410 | printed 397–398 | start of `ஆயமகன் குழலூதினான்!` | **R41 complete / both verified; C17-003 preserved; continues at scan 411** |
-| 411–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
+| 411–412 | printed 400 with scan-411 illustration | end of `ஆயமகன் குழலூதினான்!` | **R42 complete / both verified** |
+| 413–416 | printed 401–404 with scan-415 illustration | `சொல்வேன் கேளடி தோழி!` | **R42 complete / scans 413, 415–416 verified; scan 414 needs-review on WFV-054; C17-004/C17-005 preserved** |
+| 417–420 | printed 405–408 with scan-419 illustration | `இருவிழி மழையும் இதய மகிழ்வும்!` | **R42 complete / all four verified; C17-006 preserved** |
+| 421–424 | printed 409–412 with scan-423 illustration | `இன்ப விளக்கேற்ற எப்போது வருவாரோ?` | **R43 complete / all four verified; C17-007/C17-008 preserved** |
+| 425 | unnumbered sideways divider | `ஒருதலைக் காதல்` | **R43 complete / verified** |
+| 426–430 | printed 414, 416–418 with scan-427 illustration | start of `ஒருதலைக் காதல் — 1` | **R43 complete / scans 426–430 verified; C18-001/C18-002 preserved; continues at scan 431** |
+| 431–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
 | 497 | — | back cover / end matter | **Gate D closed / physical endpoint** |
 
 ## Important controls

@@ -2925,6 +2925,65 @@ No canonical lexical word or character was changed.
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R41_SCANS_401_410.md`.
 
+## Restart R42 — scans 411–420
+
+**Status: COMPLETE / PASS WITH LEXICAL HOLD**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf`, physical scans 411–420 / PDF pages 11–20
+- reviewed scans: **411–420 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy row: **1 — WFV-054**
+- unresolved new lexical page: **1 — scan 414**
+- source-supported non-lexical body corrections: **0**
+- page-status promotions: **9**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### New R42 WFV row
+
+| ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
+|---|---:|---:|---|---|---|---|
+| WFV-054 | 414 | 402 | `நாலு பேர் கண்டுவிட்டால் என்னகும் தோழி!` | direct enlarged source review reads `நாலு பேர் கண்டுவிட்டால் என்னாகும் தோழி!` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 414 remains needs-review** |
+
+### R42 findings
+
+- scans **411–413, 415–420** — full lexical/glyph review passed and promoted;
+- scan **414 / WFV-054** — no lexical edit applied;
+- C17-004/C17-005 on scan **413** and C17-006 on scan **420** were preserved exactly;
+- scans **411, 415 and 419** are full-page illustrations;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R42_SCANS_411_420.md`.
+
+## Restart R43 — scans 421–430
+
+**Status: COMPLETE / PASS**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_009_pages_401-450.pdf`, physical scans 421–430 / PDF pages 21–30
+- reviewed scans: **421–430 / 10**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **0**
+- unresolved new lexical pages: **0**
+- source-supported non-lexical body corrections: **0**
+- page-status promotions: **10**
+- OCR authority used: **none**
+- global replacement: **none**
+
+### R43 findings
+
+- scans **421–430** — full lexical/glyph review passed and promoted;
+- C17-007/C17-008 and C18-001/C18-002 on scans **421, 422, 429 and 430** were preserved exactly;
+- scans **423 and 427** are full-page illustrations; scan **425** is the sideways decorative divider;
+- WFV-054 and all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R43_SCANS_421_430.md`.
+
 ### Exact next audit range
 
-**R42 + R43 — scans 411–430, 20 pages in the user-requested iteration cadence, using Part009 PDF pages 11–30.**
+**R44 + R45 — scans 431–450, 20 pages in the user-requested iteration cadence, using Part009 PDF pages 31–50.**
