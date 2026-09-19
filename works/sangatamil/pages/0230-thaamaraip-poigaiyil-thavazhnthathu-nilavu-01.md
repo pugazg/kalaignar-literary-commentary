@@ -6,6 +6,7 @@ section: "தாமரைப் பொய்கையில் (?) தவழ்�
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
+visual_notes: "R23 WFV-032: canonical omits source-visible `தமிழ்ப்` in `புண்களை மார்பில் ஆரமாய் அணிந்த - தமிழ்ப் / பண்புடை வீரன்...`; lexical wording remains unchanged pending user adjudication. C10-002 `அந்துவன் சாத்தனையும் ஆதன் அழிசையையும்` remains protected."
 language: "ta"
 transcription_method: "Gemini-locked lexical wording with user-authorized C2 source correction"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
