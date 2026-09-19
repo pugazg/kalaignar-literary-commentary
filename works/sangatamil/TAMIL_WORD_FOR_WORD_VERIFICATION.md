@@ -46,16 +46,16 @@ Historical Gate-G baseline:
 - `needs-review` — **453**
 - `partial` — **1**
 
-Current state after R09 scans 81–90:
+Current state after R11 scans 101–110:
 
-- `verified` — **79**
-- `needs-review` — **417**
+- `verified` — **97**
+- `needs-review` — **399**
 - `partial` — **1**
-- visual `verified` — **79**
-- visual `needs-review` — **418**
+- visual `verified` — **97**
+- visual `needs-review` — **400**
 - blocked — **0**
 
-R01–R09 changed **0 lexical words**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** on scan **49**; R06 discovered **1** on scan **55**; R07 reconfirmed WFV-002 and WFV-003 and discovered WFV-011 on scan **67**; R08 found **0** new discrepancies; R09 reconfirmed WFV-004 and discovered WFV-012 and WFV-013. All disputed lexical wording remains unchanged.
+R01–R11 changed **0 lexical words**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** on scan **49**; R06 discovered **1** on scan **55**; R07 reconfirmed WFV-002 and WFV-003 and discovered WFV-011 on scan **67**; R08 found **0** new discrepancies; R09 reconfirmed WFV-004 and discovered WFV-012 and WFV-013; R10 reconfirmed WFV-005 and discovered WFV-014; R11 found **0** new discrepancies. All disputed lexical wording remains unchanged.
 
 ## R01 — scans 1–10
 
@@ -223,15 +223,48 @@ Results:
 - prior C2 rulings on scans **83 and 87** preserved;
 - whole-volume state now **79 verified / 417 needs-review / 1 partial**.
 
+## R10 — scans 91–100
+
+**COMPLETE / PASS WITH LEXICAL HOLDS**
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R10_SCANS_091_100.md`
+
+Results:
+
+- scans **91–100** — full restart audit completed;
+- WFV-005 — **reconfirmed** on scan **91**;
+- new lexical discrepancy row — **WFV-014** on scan **94**;
+- unresolved lexical pages in this batch — **2**: scans **91, 94**;
+- canonical lexical substitutions — **0**;
+- source-supported non-lexical body corrections — **0**;
+- page-status promotions — **8**: scans **92, 93, 95–100**;
+- prior C2 scan-96 heading and `சிவகெங்கைச் சீமை` rulings preserved;
+- whole-volume state after R10 — **87 verified / 409 needs-review / 1 partial**.
+
+## R11 — scans 101–110
+
+**COMPLETE / PASS**
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R11_SCANS_101_110.md`
+
+Results:
+
+- scans **101–110** — full restart audit completed;
+- new lexical discrepancy rows — **0**;
+- unresolved new lexical pages — **0**;
+- canonical lexical substitutions — **0**;
+- source-supported non-lexical body corrections — **0**;
+- page-status promotions — **10**;
+- no C2 user-adjudicated item falls inside scans **101–110**;
+- whole-volume state now **97 verified / 399 needs-review / 1 partial**.
+
 ## Pre-restart Part002 candidate rows
 
 The earlier interrupted Part002 review is **not counted as completed restart coverage**.
 
-WFV-002 and WFV-003 were **R07 reconfirmed / pending user adjudication** and WFV-004 was **R09 reconfirmed / pending user adjudication**. The remaining interrupted-cadence candidate is:
+WFV-002 and WFV-003 were **R07 reconfirmed / pending user adjudication**, WFV-004 was **R09 reconfirmed**, and WFV-005 was **R10 reconfirmed**. There are now **no unreconfirmed pre-restart Part002 candidate rows**.
 
-- WFV-005 — scan 91
-
-Do not change any pending lexical wording before re-audit + user adjudication.
+Do not change any pending lexical wording before explicit user adjudication.
 
 ## 10-page iteration plan
 
@@ -246,15 +279,17 @@ Do not change any pending lexical wording before re-audit + user adjudication.
 | R07 | 61–70 | **COMPLETE / PASS WITH LEXICAL HOLDS** |
 | R08 | 71–80 | **COMPLETE / PASS** |
 | R09 | 81–90 | **COMPLETE / PASS WITH LEXICAL HOLDS** |
-| R10 | 91–100 | **NEXT** |
-| R11–R49 | 101–490 | pending in 10-scan cadence |
+| R10 | 91–100 | **COMPLETE / PASS WITH LEXICAL HOLDS** |
+| R11 | 101–110 | **COMPLETE / PASS** |
+| R12 | 111–120 | **NEXT** |
+| R13–R49 | 121–490 | pending in 10-scan cadence |
 | R50 | 491–497 | final 7-scan remainder |
 
 ## Exact next activity
 
-Process **R10 — scans 91–100** from the supplied Part002 PDF.
+Process **R12 — scans 111–120** from the supplied Part003 / controlling source PDF.
 
-At R10 close:
+At R12 close:
 
 - inspect all 10 scans at enlarged/native resolution;
 - apply the historical-glyph guide;
