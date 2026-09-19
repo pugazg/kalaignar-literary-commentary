@@ -3148,6 +3148,56 @@ No canonical lexical word or character was changed.
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R49_SCANS_481_490.md`.
 
-### Exact next audit range
+## Restart R50 — scans 491–497
 
-**R50 — scans 491–497, final 7-page restart batch, using Part010 PDF pages 41–47.**
+**Status: COMPLETE / PASS — FINAL SOURCE-COVERAGE BATCH**
+
+- date: **2026-09-19**
+- source: user-supplied controlling `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf`, physical scans 491–497 / PDF pages 41–47
+- reviewed scans: **491–497 / 7**
+- canonical lexical substitutions: **0**
+- new lexical discrepancy rows: **0**
+- unresolved new lexical pages: **0**
+- source-supported non-lexical body corrections: **0**
+- page-status promotions: **7**
+- OCR authority used: **none**
+- global replacement: **none**
+- fresh restart source coverage: **497/497 COMPLETE**
+
+### R50 findings
+
+- scans **491–497** — full lexical/glyph/visual review passed and promoted;
+- C20-003 through C20-006 were preserved exactly;
+- scan **493** is a full-page illustration;
+- scan **497** is the back cover;
+- all earlier WFV holds remain unchanged.
+
+No canonical lexical word or character was changed.
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R50_SCANS_491_497.md`.
+
+## Post-R50 pending state
+
+- WFV-001 — **REJECTED**
+- WFV-002 through WFV-056 — **55 PENDING USER ADJUDICATION rows**
+- affected physical pages — **44**
+- fresh source coverage — **497/497 COMPLETE**
+- whole-volume lexical closure — **NOT CLAIMED**
+- maintained-English release-report gate — **PAUSED**
+
+### Exact next activity — Adjudication Batch A
+
+Present and await user decisions for the earliest **10 held physical pages**:
+
+1. scan 25 — WFV-006
+2. scan 30 — WFV-007, WFV-008
+3. scan 49 — WFV-009
+4. scan 55 — WFV-010
+5. scan 62 — WFV-002
+6. scan 67 — WFV-011
+7. scan 69 — WFV-003
+8. scan 83 — WFV-004
+9. scan 85 — WFV-012
+10. scan 87 — WFV-013
+
+No row may be applied without explicit user adjudication.

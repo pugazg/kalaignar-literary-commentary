@@ -164,8 +164,8 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 476–480 | printed 464, 466–468 with scan-477 illustration | start of `ஒருதலைக் காதல் — 9` | **R48 complete / all five verified; C20-001 preserved; continues at scan 481** |
 | 481–482 | printed 469–470 | end of `ஒருதலைக் காதல் — 9` | **R49 complete / both verified; C20-002 preserved** |
 | 483–490 | printed 471–478 with scan-485 illustration | `ஒருதலைக் காதல் — 10` | **R49 complete / all eight verified** |
-| 491–496 | later body | physical capture present | **Gate B/D closed; page status remains independently governed** |
-| 497 | — | back cover / end matter | **Gate D closed / physical endpoint** |
+| 491–496 | printed 479–484 with scan-493 illustration | `ஒருதலைக் காதல் — 11` | **R50 complete / all six verified; C20-003..006 preserved** |
+| 497 | unnumbered | back cover / end matter | **R50 complete / verified / physical endpoint** |
 
 ## Important controls
 

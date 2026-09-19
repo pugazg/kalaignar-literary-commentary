@@ -1,143 +1,93 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / FINAL RE-AUDIT R50 scans 491–497
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / WFV ADJUDICATION BATCH A
 
 Continue only from live `main` in `pugazg/kalaignar-literary-commentary`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Active workflow
+## Source re-audit — COMPLETE
 
-Tamil word-for-word / historical-glyph re-audit has reached its final source batch.
+R01 through R50 are complete.
 
-R01 through R49 are complete through physical scan **490**.
+Fresh physical source coverage:
 
-Latest frontier:
+- **497/497 scans — COMPLETE**
+- current Tamil state — **452 verified / 44 needs-review / 1 partial**
+- current visual-fidelity state — **452 verified / 45 needs-review**
+- WFV-001 — **REJECTED**
+- WFV-002 through WFV-056 — **55 PENDING USER ADJUDICATION rows across 44 pages**
+- lexical substitutions made by R01–R50 — **0**
+- maintained-English release-report gate — **PAUSED**
 
-- R46 scans **451–460 — COMPLETE / PASS**
-- R47 scans **461–470 — COMPLETE / PASS**
-- R48 scans **471–480 — COMPLETE / PASS**
-- R49 scans **481–490 — COMPLETE / PASS**
+Do **not** restart the source re-audit.
 
-**Exact next activity: R50 = scans 491–497, final 7 physical scans.**
+## Governing rule
 
-Use only the user's supplied controlling PDF:
+No pending WFV row may be applied without explicit user adjudication.
 
-`TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf`
+For each row:
 
-Physical scans **491–497 = PDF pages 41–47**.
+1. show the canonical wording/placement;
+2. show the direct source evidence already recorded in `LEXICAL_DISCREPANCY_LEDGER.md`;
+3. identify the discrepancy type;
+4. ask the user to choose **keep canonical** or **apply source** (or provide a different explicit reading);
+5. do not modify the repository until the user adjudicates.
 
-Do not substitute web copies.
+Historical-glyph evidence remains source evidence, not automatic permission to change canonical wording.
 
-## Read first — mandatory
+## Read first
 
 1. `works/sangatamil/TAMIL_WORD_FOR_WORD_VERIFICATION.md`
-2. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R48_SCANS_471_480.md`
-3. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R49_SCANS_481_490.md`
+2. `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R50_SCANS_491_497.md`
+3. `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`
 4. `works/sangatamil/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
 5. `works/sangatamil/GEMINI_TEXT_LOCK.md`
-6. `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`
-7. `works/sangatamil/C2_SOURCE_CORRECTION_PROGRESS.md`
-8. `works/sangatamil/README.md`
-9. root `HANDOVER.md`
-10. `works/sangatamil/indexes/page-map.md`
-11. `works/sangatamil/indexes/section-register.md`
-12. `works/sangatamil/indexes/source-citation-register.md`
+6. `works/sangatamil/C2_SOURCE_CORRECTION_PROGRESS.md`
+7. `works/sangatamil/README.md`
+8. root `HANDOVER.md`
+9. `works/sangatamil/translations/en/TRANSLATION_STATUS.md`
 
-## Highest-priority lexical rule
+## Exact next activity — Adjudication Batch A
 
-> **Do not correct any words directly.**
+Present these earliest **10 held physical pages** in a compact comparison table:
 
-For every source/Gemini word, character, omitted phrase, historical-glyph difference, or materially meaningful token-placement difference:
+| Scan | WFV |
+|---:|---|
+| 25 | WFV-006 |
+| 30 | WFV-007, WFV-008 |
+| 49 | WFV-009 |
+| 55 | WFV-010 |
+| 62 | WFV-002 |
+| 67 | WFV-011 |
+| 69 | WFV-003 |
+| 83 | WFV-004 |
+| 85 | WFV-012 |
+| 87 | WFV-013 |
 
-1. keep current canonical wording/placement unchanged;
-2. record the difference in `LEXICAL_DISCREPANCY_LEDGER.md` under the next live WFV ID;
-3. keep/reopen the page as `needs-review`;
-4. wait for explicit user adjudication before lexical mutation.
+### Exact ledger evidence
 
-Earlier explicit C2 user adjudications remain controlling.
+- **WFV-006 / scan 25** — canonical `வளையாத முதுகெலும்பு பெற்றவனோ?`; source `வளையாத முதுகெலும்பு பெற்றவனே?`.
+- **WFV-007 / scan 30** — quotation canonical `ஆள்அன்று என்று வாளின் தப்பார்;`; source `ஆளன்று என்று வாளின் தப்பார்;`.
+- **WFV-008 / scan 30** — gloss canonical `ஆள்அன்று என்று வாளின் தப்பார் = ...`; source `ஆளன்று என்று வாளின் தப்பார் = ...`.
+- **WFV-009 / scan 49** — quotation canonical `திண்டோர் நள்ளி கானத் தண்டர்`; source `திண்டேர் நள்ளி கானத் தண்டர்`.
+- **WFV-010 / scan 55** — canonical `ஆன்றவிந் தடங்கிய மேலோர் புலவர் அவை கூடிற்றாம்!`; source `ஆன்றவிந் தடங்கிய மேலோர் புலவர் அவை கூடிற்றும்!`.
+- **WFV-002 / scan 62** — canonical places `தனது` before `பலாமரத்து இலைச்சருகுகளில்`; source places the same token later as `படர்ந்துள்ள கொடியுதிர் மலர்களில் - தனது / பாதம்...`.
+- **WFV-011 / scan 67** — canonical `அவசரமாய்ப் புறப்பட்டான் தேர்ஏறி!`; source `அவசரமாய்ப் புறப்பட்டான் தேரேறி!`.
+- **WFV-003 / scan 69** — canonical `தலைமகனாம் என் கணவர்`; source `தலைமகனும் என் கணவர்`.
+- **WFV-004 / scan 83** — canonical `மாலையாவதில்ல - ஆழல்`; source `மாலையாவதில்ல - ஆனால்`.
+- **WFV-012 / scan 85** — canonical omits a right-offset `- அவர்கள்`; source visibly includes it between `வளர்ந்த மகன், மனைவியுடன் வயலுக்குச் சென்றுளான்` and `வருவதற்கு நேரமாகும்; அஞ்சாதே!`.
+- **WFV-013 / scan 87** — canonical places `நல்ல` before `இலக்கிய மேதைகள்`; source places `நல்ல` with the trade line `இமிழ் கடல் தாண்டியும் புகழ் மணம் பரப்பி - நல்ல / அகில், மிளகு, முத்து வாணிபம் புரிவார்!`.
 
-## Historical-glyph rule
+Do not apply any of these until the user replies with explicit adjudications.
 
-For every printed page:
+## After user adjudication
 
-- inspect the whole page;
-- use enlarged/native pixels for difficult clusters;
-- explicitly keep in scope:
-  `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-- compare same-edition evidence when uncertain;
-- distinguish character identity from expected modern spelling;
-- OCR is not lexical authority;
-- never global-replace.
+For each accepted source correction:
 
-Even strongly supported glyph/source differences are **ledger-first**.
+- update only the exact affected Tamil page/placement;
+- preserve all unrelated wording;
+- update that WFV ledger row to the user's final disposition;
+- promote the page to `verified` / visual `verified` only when all holds on that page are cleared;
+- perform targeted English impact reconciliation if the Tamil change affects meaning or translation;
+- synchronize tracker, README, HANDOVER, page-map, English status, ledger and this next-chat prompt.
 
-## Durable state through R49
+For rejected source corrections, retain canonical wording and mark the WFV row rejected/resolved by user.
 
-Current Tamil state:
-
-- `verified` — **445**
-- `needs-review` — **51**
-- `partial` — **1**
-- visual `verified` — **445**
-- visual `needs-review` — **52**
-- restart coverage — **490/497**
-
-### Confirmed unresolved lexical holds — DO NOT CHANGE
-
-WFV-002 through WFV-056 remain pending explicit user adjudication. WFV-001 remains rejected.
-
-### R48 / R49 closure
-
-R48 scans **471–480 — COMPLETE / PASS**:
-
-- new WFV rows — **0**
-- unresolved new pages — **0**
-- lexical substitutions — **0**
-- status promotions — **10**
-- C19-015/C19-016/C20-001 preserved
-
-R49 scans **481–490 — COMPLETE / PASS**:
-
-- new WFV rows — **0**
-- unresolved new pages — **0**
-- lexical substitutions — **0**
-- status promotions — **10**
-- C20-002 preserved
-
-## R50 protected C20 rulings — scans 491–497
-
-Preserve these exact prior user adjudications:
-
-- **scan 492 / C20-003** — `ஆரணங்கின் குரலாய் இருப்பதை உணர்ந்து`
-- **scan 494 / C20-004** — protected Gemini-correct `எடுத்தெறிந்து பேசினாரே, நற்கிள்ளி!`
-- **scan 494 / C20-005** — `ஏமாந்துபோனார் உன் அண்ணன்!`
-- **scan 495 / C20-006** — protected Gemini-correct `இனியவரே! இன்றென்காதல் கைகூடியது! எனை,`
-
-Do not reopen these merely because an earlier Gemini/source comparison disagreed.
-
-## Exact activity — 7 pages
-
-### R50 — scans 491–497
-
-1. source-check Part010 PDF pages **41–47** word-for-word;
-2. apply historical-glyph review;
-3. preserve C20-003 through C20-006 exactly where applicable;
-4. ledger every new lexical/glyph/material-placement difference starting with **WFV-057**;
-5. make **0 lexical substitutions** without user adjudication;
-6. apply only source-supported nonlexical structure/punctuation/layout changes;
-7. promote only clean fully audited pages;
-8. create:
-   `works/sangatamil/TAMIL_WORD_FOR_WORD_REAUDIT_R50_SCANS_491_497.md`.
-
-At R50 close synchronize:
-
-- `works/sangatamil/TAMIL_WORD_FOR_WORD_VERIFICATION.md`
-- `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`
-- `works/sangatamil/README.md`
-- root `HANDOVER.md`
-- `works/sangatamil/indexes/page-map.md`
-- `works/sangatamil/translations/en/TRANSLATION_STATUS.md`
-- **`NEXT_CHAT_PROMPT_SANGATH_TAMIL.md`**
-
-## Post-R50 rule
-
-After R50, fresh restart source coverage is **497/497**.
-
-Do **not** claim whole-volume lexical closure while WFV-002 through WFV-056 remain pending explicit user adjudication. The next workflow must be the user-adjudication / reconciliation phase for those held rows, followed by targeted English impact reconciliation. The maintained-English release-report gate remains **PAUSED** until then.
+The maintained-English release-report gate remains **PAUSED** until all WFV rows are resolved.

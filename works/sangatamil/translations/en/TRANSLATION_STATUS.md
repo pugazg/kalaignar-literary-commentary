@@ -9,7 +9,7 @@ Branch: `main`
 
 A user-directed Tamil re-audit restarted from scan **1** on **2026-09-19** in **10-page iterations**. It combines word-for-word comparison with the historical-glyph guide while retaining the Gemini lexical lock.
 
-R01 through R49 are **COMPLETE** through physical scan **490**. Detailed per-batch PASS / lexical-hold state follows below. R48 and R49 are **COMPLETE / PASS** with **0** new lexical discrepancy rows and **0** English wording/status changes.
+R01 through R50 are **COMPLETE** through physical scan **497**. Fresh Tamil source coverage is **497/497 COMPLETE**. R50 is **COMPLETE / PASS** with **0** new lexical discrepancy rows and **0** English wording/status changes. Whole-volume lexical closure is not yet claimed because WFV-002 through WFV-056 remain pending user adjudication.
 
 R01:
 - canonical lexical substitutions — **0**;
@@ -374,7 +374,16 @@ R49:
 - protected C20-002 preserved;
 - English page wording/status changes from R49 — **0**.
 
-Current Tamil state is **445 verified / 51 needs-review / 1 partial**. Exact next Tamil activity is **R50 scans 491–497 (7 pages)**.
+R50:
+- canonical lexical substitutions — **0**;
+- new lexical discrepancy rows — **0**;
+- unresolved new Tamil pages — **0**;
+- Tamil status promotions — **7** clean pages;
+- protected C20-003..006 preserved;
+- fresh Tamil source coverage — **497/497 COMPLETE**;
+- English page wording/status changes from R50 — **0**.
+
+Current Tamil state is **452 verified / 44 needs-review / 1 partial**. Fresh source coverage is **497/497 COMPLETE**. Exact next Tamil workflow is **WFV user adjudication / reconciliation**.
 
 The English release-report gate remains **PAUSED** until the restarted Tamil audit and any eventual user-adjudicated lexical impacts are reconciled. Do not promote any English page to `release-ready` during this pause.
 
@@ -391,8 +400,8 @@ The Sangatamil Tamil archival pipeline is closed through Gates A–I.
 
 Current Tamil page state during the restarted audit:
 
-- `verified` — **445**
-- `needs-review` — **51**
+- `verified` — **452**
+- `needs-review` — **44**
 - `partial` — **1** (scan 8)
 
 English work does not alter or promote those Tamil statuses.
@@ -1051,6 +1060,8 @@ Normal page-batched cadence: **37 physical scans**.
 
 ## Exact next activity
 
-**Tamil re-audit R50 — scans 491–497 (7 pages).** Use Part010 PDF pages **41–47**.
+The fresh Tamil source re-audit is complete at **497/497 scans**.
 
-The maintained-English release-report gate is **PAUSED** while the restarted Tamil word-for-word / historical-glyph audit remains active. Confirmed holds WFV-002 through WFV-056 remain unresolved pending explicit user adjudication. No English wording should be changed for any pending hold until explicit user adjudication. Do **not** promote any English page to `release-ready` yet. Completing R50 will finish fresh Tamil source coverage but will not, by itself, clear the outstanding lexical holds.
+Proceed to **WFV user adjudication / reconciliation**, beginning with Adjudication Batch A on the earliest 10 held physical pages. Do not make English wording changes for any WFV hold until the user has explicitly adjudicated the corresponding Tamil row.
+
+The maintained-English release-report gate remains **PAUSED**. After all pending WFV rows are dispositioned, perform targeted English impact reconciliation for accepted Tamil changes, then resume the release report. Do **not** promote any English page to `release-ready` yet.

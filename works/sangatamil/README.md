@@ -473,12 +473,20 @@ R49 scans **481–490 — COMPLETE / PASS**:
 - page-status promotions — **10**;
 - C20-002 preserved.
 
+R50 scans **491–497 — COMPLETE / PASS — FINAL SOURCE-COVERAGE BATCH**:
+- new lexical discrepancy rows — **0**;
+- unresolved new pages — **0**;
+- canonical lexical substitutions — **0**;
+- page-status promotions — **7**;
+- C20-003..006 preserved;
+- fresh restart source coverage — **497/497 COMPLETE**.
+
 Current whole-volume Tamil state:
-- `verified` — **445**
-- `needs-review` — **51**
+- `verified` — **452**
+- `needs-review` — **44**
 - `partial` — **1**
-- current restart coverage — **490/497**
-- exact next iteration — **R50 scans 491–497 (7 pages)**
+- current restart coverage — **497/497 COMPLETE**
+- pending adjudication — **WFV-002 through WFV-056 / 55 rows across 44 pages**
 
 Gate D — COMPLETE / PASS:
 - physical scans — 497/497
@@ -532,9 +540,9 @@ Gate G — **COMPLETE / PASS**:
 - required metadata field presence after repair — **497/497**
 - demonstrable defects repaired — **11 missing `visual_fidelity` fields**
 - Gate-G historical `status` distribution — **43 verified / 453 needs-review / 1 partial**
-- current restart-R49 state — **445 verified / 51 needs-review / 1 partial**
+- current restart-R50 state — **452 verified / 44 needs-review / 1 partial**
 - Gate-G historical `visual_fidelity` distribution — **43 verified / 454 needs-review / 0 missing**
-- current restart-R49 visual-fidelity state — **445 verified / 52 needs-review / 0 missing**
+- current restart-R50 visual-fidelity state — **452 verified / 45 needs-review / 0 missing**
 - canonical wording changes — **0**
 - unresolved Gate-G inconsistencies — **0**
 - durable report — `GATE_G_METADATA_STATUS_AUDIT.md`
@@ -636,8 +644,8 @@ This downstream layer does **not** reopen or mass-promote the canonical Tamil re
 
 ## Exact next activity
 
-**Tamil re-audit R50 — scans 491–497.** Process the final **7 physical scans** using the user-supplied Part010 PDF pages **41–47**. Apply the historical-glyph guide, preserve the Gemini lexical lock and prior C20 adjudications, ledger every new lexical/glyph/material-placement discrepancy from **WFV-057** onward, change no word without user adjudication, and keep `NEXT_CHAT_PROMPT_SANGATH_TAMIL.md` synchronized.
+The fresh Tamil word-for-word / historical-glyph source pass is complete at **497/497 physical scans**.
 
-Confirmed holds WFV-002 through WFV-056 remain pending explicit user adjudication. Completing R50 will finish fresh source coverage, not automatically resolve those holds.
+Next: **WFV adjudication / reconciliation**, beginning with the earliest 10 held physical pages (scans **25, 30, 49, 55, 62, 67, 69, 83, 85, 87**; WFV-006/007/008/009/010/002/011/003/004/012/013). Present canonical vs source evidence and await explicit user decisions. Do not apply any lexical change before adjudication.
 
-The maintained-English release-report gate remains paused while this Tamil re-audit is active.
+After each adjudication batch, update affected Tamil pages/statuses and perform targeted English impact reconciliation where required. The maintained-English release-report gate remains paused until all pending WFV rows are resolved.

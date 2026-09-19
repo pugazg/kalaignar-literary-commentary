@@ -46,17 +46,17 @@ Historical Gate-G baseline:
 - `needs-review` — **453**
 - `partial` — **1**
 
-Current state after R49 scans 481–490:
+Current state after R50 scans 491–497:
 
-- `verified` — **445**
-- `needs-review` — **51**
+- `verified` — **452**
+- `needs-review` — **44**
 - `partial` — **1**
-- visual `verified` — **445**
-- visual `needs-review` — **52**
+- visual `verified` — **452**
+- visual `needs-review` — **45**
 - blocked — **0**
-- restart coverage — **490/497**
+- restart coverage — **497/497 COMPLETE**
 
-R01–R49 changed **0 lexical words**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** on scan **49**; R06 discovered **1** on scan **55**; R07 reconfirmed WFV-002 and WFV-003 and discovered WFV-011 on scan **67**; R08 found **0** new discrepancies; R09 reconfirmed WFV-004 and discovered WFV-012 and WFV-013; R10 reconfirmed WFV-005 and discovered WFV-014; R11–R17 found **0** new discrepancies; R18 opened **WFV-015 through WFV-019**; R19 opened **WFV-020 through WFV-022**; R20 opened **WFV-023 and WFV-024**; R21 opened **WFV-025 and WFV-026**; R22 opened **WFV-027 through WFV-029**; R23 opened **WFV-030 through WFV-032**; R24 opened **WFV-033 through WFV-039**; R25 opened **WFV-040**; R26 opened **WFV-041**; R27 opened **WFV-042 through WFV-044**; R28 opened **0** new discrepancies; R29 opened **WFV-045 through WFV-048**; R30 opened **WFV-049**; R31–R32 opened **0** new discrepancies; R33 opened **WFV-050**; R34 opened **WFV-051 and WFV-052**; R35 opened **WFV-053**; R36–R41 opened **0** new discrepancies; R42 opened **WFV-054**; R43–R44 opened **0** new discrepancies; R45 opened **WFV-055 and WFV-056**; R46–R49 opened **0** new discrepancies. All disputed lexical wording and material token placement remain unchanged pending user adjudication.
+R01–R50 changed **0 lexical words**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** on scan **49**; R06 discovered **1** on scan **55**; R07 reconfirmed WFV-002 and WFV-003 and discovered WFV-011 on scan **67**; R08 found **0** new discrepancies; R09 reconfirmed WFV-004 and discovered WFV-012 and WFV-013; R10 reconfirmed WFV-005 and discovered WFV-014; R11–R17 found **0** new discrepancies; R18 opened **WFV-015 through WFV-019**; R19 opened **WFV-020 through WFV-022**; R20 opened **WFV-023 and WFV-024**; R21 opened **WFV-025 and WFV-026**; R22 opened **WFV-027 through WFV-029**; R23 opened **WFV-030 through WFV-032**; R24 opened **WFV-033 through WFV-039**; R25 opened **WFV-040**; R26 opened **WFV-041**; R27 opened **WFV-042 through WFV-044**; R28 opened **0** new discrepancies; R29 opened **WFV-045 through WFV-048**; R30 opened **WFV-049**; R31–R32 opened **0** new discrepancies; R33 opened **WFV-050**; R34 opened **WFV-051 and WFV-052**; R35 opened **WFV-053**; R36–R41 opened **0** new discrepancies; R42 opened **WFV-054**; R43–R44 opened **0** new discrepancies; R45 opened **WFV-055 and WFV-056**; R46–R50 opened **0** new discrepancies. All disputed lexical wording and material token placement remain unchanged pending user adjudication.
 
 ## R01 — scans 1–10
 
@@ -953,6 +953,28 @@ Results:
 - whole-volume state after R49 — **445 verified / 51 needs-review / 1 partial**;
 - restart coverage — **490/497**.
 
+## R50 — scans 491–497
+
+**COMPLETE / PASS — FINAL SOURCE-COVERAGE BATCH**
+
+Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R50_SCANS_491_497.md`
+
+Results:
+
+- scans **491–497** — final restart source audit completed;
+- new lexical discrepancy rows — **0**;
+- unresolved new lexical pages — **0**;
+- canonical lexical substitutions — **0**;
+- source-supported non-lexical body corrections — **0**;
+- page-status promotions — **7**;
+- protected C20-003..006 on scans **492, 494 and 495** preserved;
+- scan **493** full-page illustration and scan **497** back cover verified;
+- whole-volume state after R50 — **452 verified / 44 needs-review / 1 partial**;
+- fresh restart source coverage — **497/497 COMPLETE**;
+- pending lexical rows — **WFV-002 through WFV-056 = 55 rows across 44 pages**;
+- WFV-001 remains **REJECTED**;
+- whole-volume lexical closure — **NOT CLAIMED** pending user adjudication.
+
 ## Pre-restart Part002 candidate rows
 
 The earlier interrupted Part002 review is **not counted as completed restart coverage**.
@@ -1014,25 +1036,27 @@ Do not change any pending lexical wording before explicit user adjudication.
 | R47 | 461–470 | **COMPLETE / PASS** |
 | R48 | 471–480 | **COMPLETE / PASS** |
 | R49 | 481–490 | **COMPLETE / PASS** |
-| R50 | 491–497 | final 7-scan remainder |
+| R50 | 491–497 | **COMPLETE / PASS — FINAL SOURCE-COVERAGE BATCH** |
 
 ## Exact next activity
 
-Process **R50 — scans 491–497** as the final **7-page restart batch**.
+Fresh restart source coverage is now **497/497 COMPLETE**.
 
-Source:
+The next workflow is **WFV user adjudication / reconciliation**. Do not change any held lexical wording until the user explicitly decides the corresponding row.
 
-- user-supplied `TVA_BOK_0042551_சங்கத்_தமிழ்_part_010_pages_451-497.pdf`
-- scans **491–497** = PDF pages **41–47**
+Start with **Adjudication Batch A — earliest 10 held physical pages**:
 
-At R50 close:
+- scan 25 — WFV-006
+- scan 30 — WFV-007, WFV-008
+- scan 49 — WFV-009
+- scan 55 — WFV-010
+- scan 62 — WFV-002
+- scan 67 — WFV-011
+- scan 69 — WFV-003
+- scan 83 — WFV-004
+- scan 85 — WFV-012
+- scan 87 — WFV-013
 
-- inspect all seven scans at enlarged/native resolution;
-- apply the historical-glyph guide and check all 13 known families where present;
-- preserve exact prior C20 adjudications on scans **492, 494 and 495**;
-- record every new lexical/glyph/material-placement difference in the discrepancy ledger starting at the next live WFV ID after **WFV-056**;
-- change **0 lexical words without user adjudication**;
-- apply only source-supported non-lexical structure/punctuation/layout changes;
-- synchronize this tracker, README, HANDOVER, English-release pause state and `NEXT_CHAT_PROMPT_SANGATH_TAMIL.md`.
+For each row, present canonical wording/placement beside direct source evidence and await explicit user adjudication. Do not silently resolve any row. After adjudication, apply only the user's decisions, update affected page status, reconcile English impact where necessary, and keep all control documents synchronized.
 
-After R50, restart source coverage will be **497/497**, but whole-volume lexical closure must not be claimed until the outstanding WFV rows are explicitly adjudicated.
+The maintained-English release-report gate remains **PAUSED**.
