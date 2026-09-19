@@ -6,9 +6,9 @@ section: "சொல்வேன் கேளடி தோழி!"
 page_type: "text"
 status: "needs-review"
 visual_fidelity: "needs-review"
-visual_notes: "running work header; song continuation and beginning of Kuruntokai quotation; printed page number 402"
+visual_notes: "R42 WFV-054: canonical `நாலு பேர் கண்டுவிட்டால் என்னகும் தோழி!` differs from source-visible `நாலு பேர் கண்டுவிட்டால் என்னாகும் தோழி!`; canonical lexical wording remains unchanged pending user adjudication."
 language: "ta"
-transcription_method: "direct visual transcription from controlling source scan because Gemini scaffold mis-segmented/replaced this page; final textual/visual verification deferred"
+transcription_method: "Gemini/canonical lexical wording retained under R42 source review; WFV-054 lexical hold pending user adjudication"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 413
 ---
