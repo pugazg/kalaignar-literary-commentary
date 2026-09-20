@@ -1,5 +1,8 @@
 # சங்கத் தமிழ் — WFV Discrepancy Comparison
 
+> **CURRENT AUTHORITATIVE CHECKPOINT — 2026-09-20:** Fresh physical-source WFV coverage is **497/497 COMPLETE**; Tamil is **496 verified / 0 needs-review / 1 source-limited partial (scan 8)**; visual fidelity is **496 verified / 1 needs-review**; WFV-001 is **REJECTED / canonical retained**; WFV-002..WFV-056 are **55/55 USER ADJUDICATED / CLOSED**; pending WFV rows are **0**. Maintained English is **RELEASE COMPLETE / CLOSED — 496 release-ready + 1 source-limited (scan 8) / 0 blocked**. Any deeper pre-WFV status/frontier text is historical evidence only.
+
+
 **Purpose:** durable user-adjudication record comparing repository readings with source-visible/source-aligned evidence.
 
 ## Current state

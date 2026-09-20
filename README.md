@@ -107,6 +107,11 @@ B15 mixed-page repair preserved: 6525498cd8e14871575e9ae0203060af2fe4450a — sc
 - works/sangatamil/README.md
 - works/sangatamil/PRODUCTIVE_COMPLETION_PLAN.md
 - works/sangatamil/GEMINI_TEXT_LOCK.md
+- works/sangatamil/TAMIL_WORD_FOR_WORD_VERIFICATION.md
+- works/sangatamil/WFV_DISCREPANCY_COMPARISON.md
+- works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md
+- works/sangatamil/translations/en/TRANSLATION_STATUS.md
+- works/sangatamil/translations/en/reviews/WHOLE_VOLUME_ENGLISH_RELEASE_REPORT.md
 - works/sangatamil/STRUCTURAL_FIDELITY_PROGRESS.md
 - works/sangatamil/indexes/page-map.md
 - works/sangatamil/indexes/section-register.md
@@ -114,7 +119,7 @@ B15 mixed-page repair preserved: 6525498cd8e14871575e9ae0203060af2fe4450a — sc
 
 MULTI_PASS_WORKFLOW.md and GEMINI_RECONCILIATION_PLAN.md are retained as historical/superseded methodology records.
 
-## அடுத்த செயல்
+## Closed downstream gate summary
 
 Gate D — **COMPLETE / PASS**: 497/497 physical scans closed; 497 canonical records; 0 unresolved physical / visual / continuity issues; durable report `works/sangatamil/PHYSICAL_CONTINUITY_AUDIT.md`.
 

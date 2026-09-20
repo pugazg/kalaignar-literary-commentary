@@ -2,7 +2,7 @@
 
 Source-first archival workspace for the 497-scan volume TVA_BOK_0042551_சங்கத்_தமிழ்.pdf.
 
-## Current state — 2026-09-19
+## Current state — 2026-09-20
 
 Gate A — COMPLETE / PASS:
 - canonical page records — 497/497

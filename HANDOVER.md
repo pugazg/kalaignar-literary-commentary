@@ -1,5 +1,8 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
+> **CURRENT AUTHORITATIVE CHECKPOINT — 2026-09-20:** Fresh physical-source WFV coverage is **497/497 COMPLETE**; Tamil is **496 verified / 0 needs-review / 1 source-limited partial (scan 8)**; visual fidelity is **496 verified / 1 needs-review**; WFV-001 is **REJECTED / canonical retained**; WFV-002..WFV-056 are **55/55 USER ADJUDICATED / CLOSED**; pending WFV rows are **0**. Maintained English is **RELEASE COMPLETE / CLOSED — 496 release-ready + 1 source-limited (scan 8) / 0 blocked**. Any deeper pre-WFV status/frontier text is historical evidence only.
+
+
 Last refreshed **2026-09-20**: Kuraloviyam remains closed; Sangath Tamil Gates **A–I are COMPLETE / PASS**; dedicated Tamil WFV is **COMPLETE / CLOSED — 497/497 fresh source coverage, 496 verified / 0 needs-review / 1 source-limited partial (scan 8), WFV-001 rejected/canonical retained, WFV-002..WFV-056 55/55 user-adjudicated/closed, 20 repository/Gemini readings retained, 35 user-authorized corrections applied, 0 pending**; maintained English is **RELEASE COMPLETE / CLOSED — 496 release-ready + 1 source-limited (scan 8) / 0 blocked**.
 
 ## Repository
