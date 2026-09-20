@@ -87,22 +87,22 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 222–225 | printed 209–210, 212 with scan-224 illustration | `இங்கே வேண்டாம்... தங்கை இருக்கின்றாள்!` | **R23 complete / all four verified; C09-003 placement preserved** |
 | 226–229 | printed 213–214, 216 with scan-228 illustration | `பாரி மகளிர் பாடிய செய்யுள்` | **verified after user adjudication; WFV-030 placement applied and WFV-031 repository reading retained; C10-001 heading preserved** |
 | 230 | printed 217 | start of `தாமரைப் பொய்கையில் (?) தவழ்ந்தது நிலவு!` | **verified after user adjudication; WFV-032 restored `தமிழ்ப்`; C10-002 preserved** |
-| 231–235 | printed 218, 220–222 with scan-232 illustration | continuation/end of `தாமரைப் பொய்கையில் (?) தவழ்ந்தது நிலவு!` | **R24 complete; scan 231 verified after WFV-033..037 adjudication; scan 233 remains needs-review on WFV-038/WFV-039; scans 232, 234–235 verified** |
+| 231–235 | printed 218, 220–222 with scan-232 illustration | continuation/end of `தாமரைப் பொய்கையில் (?) தவழ்ந்தது நிலவு!` | **verified after user adjudication; WFV-033..039 fully resolved; scans 231 and 233 corrections applied; scans 232, 234–235 verified** |
 | 236–240 | printed 223–224, 226–227 with scan-238 illustration | `காட்டில் பிறந்த கவிதை!` | **R24 complete / all five verified; C10-003 and C10-004 preserved** |
 | 241–244 | printed 228, 230–231 with scan-242 illustration | `வாடைக் காற்றில் வாடிய காதலி!` | **R25 complete / all four verified** |
-| 245–248 | printed 232, 234–235 with scan-246 illustration | `வாளிங்கே-அவன் நாக்கெங்கே?` | **R25 complete / scans 245–247 verified; scan 248 needs-review on WFV-040; C10-005 preserved** |
+| 245–248 | printed 232, 234–235 with scan-246 illustration | `வாளிங்கே-அவன் நாக்கெங்கே?` | **verified after user adjudication; WFV-040 restored final glossary `மகன்.`; C10-005 preserved** |
 | 249–250 | printed 236 with scan-250 illustration | start of `குறளனுக்கோர் கூனியுண்டு!` | **R25 complete / both verified; continues at scan 251** |
 | 251–253 | printed 238–240 | continuation/end of `குறளனுக்கோர் கூனியுண்டு!` | **R26 complete / all three verified** |
-| 254–257 | printed 241–242, 244 with scan-256 illustration | `குப்பைக் கோழியார்!` | **R26 complete / scans 255–257 verified; scan 254 needs-review on WFV-041; C11-001..005 preserved** |
-| 258–262 | printed 245, 248–250 plus scan-259 illustrated text spread | `பஞ்சணையில் அரசி; பாசறையில் மன்னன்!` | **R26/R27 complete / scans 258–260 verified; scans 261–262 needs-review on WFV-042/WFV-043** |
+| 254–257 | printed 241–242, 244 with scan-256 illustration | `குப்பைக் கோழியார்!` | **verified after user adjudication; WFV-041 retained repository/Gemini `கண்மணீ!`; C11-001..005 preserved** |
+| 258–262 | printed 245, 248–250 plus scan-259 illustrated text spread | `பஞ்சணையில் அரசி; பாசறையில் மன்னன்!` | **verified after user adjudication; WFV-042 placement applied on scan 261 and WFV-043 `பாசறையை!` restored on scan 262** |
 | 263–268 | printed 251–252, 254–256 with scan-265 illustration | `பழி தீர்த்துப் பகை முடித்தாள்!` | **R27 complete / all six verified** |
-| 269–270 | printed 257–258 | start of `நாடு வாழவும் நலிவு தீரவும்...` | **R27 complete / scan 269 verified; scan 270 needs-review on WFV-044; continues at scan 271** |
+| 269–270 | printed 257–258 | start of `நாடு வாழவும் நலிவு தீரவும்...` | **verified after user adjudication; WFV-044 placement applied on scan 270; continues at scan 271** |
 | 271–272 | printed 260 with scan-271 illustration | end of `நாடு வாழவும் நலிவு தீரவும்...` | **R28 complete / both verified** |
 | 273–276 | printed 261–262, 264 with scan-275 illustration | `அன்றைக்கே ஒரு கண்ணகி!` | **R28 complete / all four verified; C11-006 scan-274 preserved** |
 | 277–280 | printed 265–266, 268 with scan-279 illustration | `எமக்குத் தென்றல்; எதிரிக்கோ புயல்!` | **R28 complete / all four verified** |
-| 281–284 | printed 269–270, 272 with scan-283 illustration | `கிலு கிலுப்பை வழங்கும் கிறுகிறுப்பு!` | **R29 complete / scans 283–284 verified; scans 281–282 needs-review on WFV-045..047; C12-001 preserved** |
+| 281–284 | printed 269–270, 272 with scan-283 illustration | `கிலு கிலுப்பை வழங்கும் கிறுகிறுப்பு!` | **verified after user adjudication; WFV-045 retained repository; WFV-046 placement and WFV-047 `எருதுகள்` applied; C12-001 preserved** |
 | 285–287 | printed 273, 275 with scan-286 illustration | `'இனம்' காட்டும் இயற்கைக் காட்சி!` | **R29 complete / all three verified** |
-| 288–290 | printed 276, 278 with scan-289 illustration | start of `வெறியாடும் வேலன் எதற்காக?` | **R29 complete / scans 288–289 verified; scan 290 needs-review on WFV-048; C12-002/C12-003 preserved; continues at scan 291** |
+| 288–290 | printed 276, 278 with scan-289 illustration | start of `வெறியாடும் வேலன் எதற்காக?` | **verified after user adjudication; WFV-048 retained repository/Gemini reading; C12-002/C12-003 preserved; continues at scan 291** |
 | 291 | printed 279 | end of `வெறியாடும் வேலன் எதற்காக?` | **R30 complete / verified** |
 | 292–295 | printed 280, 282–283 with scan-293 illustration | `ஒல்லையூரில் முல்லையோ?` | **R30 complete / scans 292–293, 295 verified; scan 294 needs-review on WFV-049; C12-004/C12-005 preserved** |
 | 296–298 | printed 284, 286 with scan-297 illustration | `மறு பிறப்பு உண்டென்றால் மறக்க நேரிடுமோ?` | **R30 complete / all three verified; C12-006 preserved** |

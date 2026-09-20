@@ -9,7 +9,7 @@ Branch: `main`
 
 A user-directed Tamil re-audit restarted from scan **1** on **2026-09-19** in **10-page iterations**. It combines word-for-word comparison with the historical-glyph guide while retaining the Gemini lexical lock.
 
-R01 through R50 are **COMPLETE** through physical scan **497**. Fresh Tamil source coverage is **497/497 COMPLETE**. R50 is **COMPLETE / PASS** with **0** new lexical discrepancy rows and **0** English wording/status changes. Whole-volume lexical closure is not yet claimed. The first three user-adjudication sets resolved **36 WFV rows across 27 pages**; **19 rows across 17 pages remain pending**.
+R01 through R50 are **COMPLETE** through physical scan **497**. Fresh Tamil source coverage is **497/497 COMPLETE**. R50 is **COMPLETE / PASS** with **0** new lexical discrepancy rows and **0** English wording/status changes. Whole-volume lexical closure is not yet claimed. The first four user-adjudication sets resolved **47 WFV rows across 36 pages**; **8 rows across 8 pages remain pending**.
 
 ## First WFV user-adjudication set
 
@@ -45,6 +45,18 @@ R01 through R50 are **COMPLETE** through physical scan **497**. Fresh Tamil sour
 - scans **213, 219 and 227** required source-status synchronization only;
 - current Tamil state — **479 verified / 17 needs-review / 1 partial**;
 - remaining WFV rows — **19 across 17 pages**;
+- maintained-English release-report gate — **PAUSED**.
+
+## Fourth WFV user-adjudication set
+
+- reviewed WFV rows — **11 across 9 pages**;
+- Tamil corrections applied — **8 rows**;
+- repository/Gemini retained — **3 rows**;
+- Tamil pages cleared — **9**;
+- targeted English wording reconciliation — **scan 262**, restoring the explicit war-camp referent from `பாசறையை!`;
+- scans **233, 248, 254, 261, 270, 281, 282 and 290** required source-status synchronization only;
+- current Tamil state — **488 verified / 8 needs-review / 1 partial**;
+- remaining WFV rows — **8 across 8 pages**;
 - maintained-English release-report gate — **PAUSED**.
 
 R01:
@@ -419,7 +431,7 @@ R50:
 - fresh Tamil source coverage — **497/497 COMPLETE**;
 - English page wording/status changes from R50 — **0**.
 
-Current Tamil state is **479 verified / 17 needs-review / 1 partial**. Fresh source coverage is **497/497 COMPLETE**. WFV adjudication remains active with **19 rows across 17 pages** pending.
+Current Tamil state is **488 verified / 8 needs-review / 1 partial**. Fresh source coverage is **497/497 COMPLETE**. WFV adjudication remains active with **8 rows across 8 pages** pending.
 
 The English release-report gate remains **PAUSED** until the restarted Tamil audit and any eventual user-adjudicated lexical impacts are reconciled. Do not promote any English page to `release-ready` during this pause.
 
@@ -1096,6 +1108,6 @@ Normal page-batched cadence: **37 physical scans**.
 
 ## Exact next activity
 
-Continue WFV user adjudication from **WFV-038 onward**. Do not alter English wording for any remaining hold until the user explicitly adjudicates the corresponding Tamil row.
+Continue WFV user adjudication from **WFV-049 through WFV-056**. Do not alter English wording for any remaining hold until the user explicitly adjudicates the corresponding Tamil row.
 
-The maintained-English release-report gate remains **PAUSED**. After all remaining WFV rows are resolved, perform any further targeted English impact reconciliation and then resume release reporting.
+The maintained-English release-report gate remains **PAUSED**. After these final eight rows are resolved, perform any remaining targeted English impact reconciliation and then resume release reporting.
