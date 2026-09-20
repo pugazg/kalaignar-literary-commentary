@@ -6,23 +6,21 @@ Continue only from live `main` in `pugazg/kalaignar-literary-commentary`. **LIVE
 
 Fresh physical source coverage is **497/497 COMPLETE**. Do not restart source auditing.
 
-Current state after two user WFV review sets:
+Current state after three user WFV review sets:
 
-- Tamil — **472 verified / 24 needs-review / 1 partial**
-- visual — **472 verified / 25 needs-review**
+- Tamil — **479 verified / 17 needs-review / 1 partial**
+- visual — **479 verified / 18 needs-review**
 - WFV-001 — **REJECTED**
-- cumulative user-reviewed rows — **24 across 20 pages CLOSED**
-- repository/Gemini retained — **9 rows total**
-- corrections applied — **15 rows total**
-- remaining pending — **31 WFV rows across 24 physical pages**
+- cumulative user-reviewed rows — **36 across 27 pages CLOSED**
+- repository/Gemini retained — **13 rows total**
+- corrections applied — **23 rows total**
+- remaining pending — **19 WFV rows across 17 physical pages**
 - maintained-English release-report gate — **PAUSED**
 
-Second reviewed set specifics:
+Third reviewed set specifics:
 
-- WFV-015 through WFV-024 — user-authorized corrections applied
-- WFV-025 — repository/Gemini retained
-- WFV-015 exact reading — `வலம்படுவாய் வாள் = வெற்றி தரத் / தவறாத வாள்.`
-- WFV-019 exact user-corrected phrase — `பெருங்குன்றூர்க் கிழார் இல்லையேல் - இன்று / அருந்தேனாய் இனித்த இன்பம் கிட்டாதன்றோ?`
+- corrections — WFV-026, WFV-028, WFV-030, WFV-032, WFV-033, WFV-034, WFV-035, WFV-036
+- repository/Gemini retained — WFV-027, WFV-029, WFV-031, WFV-037
 
 ## Mandatory read-first
 
@@ -53,15 +51,15 @@ The next 10 held physical pages are:
 
 | Scan | WFV |
 |---:|---|
-| 209 | WFV-026 |
-| 213 | WFV-027 |
-| 215 | WFV-028 |
-| 219 | WFV-029 |
-| 227 | WFV-030, WFV-031 |
-| 230 | WFV-032 |
-| 231 | WFV-033, WFV-034, WFV-035, WFV-036, WFV-037 |
 | 233 | WFV-038, WFV-039 |
 | 248 | WFV-040 |
 | 254 | WFV-041 |
+| 261 | WFV-042 |
+| 262 | WFV-043 |
+| 270 | WFV-044 |
+| 281 | WFV-045, WFV-046 |
+| 282 | WFV-047 |
+| 290 | WFV-048 |
+| 294 | WFV-049 |
 
 Do not make any further adjudication changes until the user provides their next review comments.

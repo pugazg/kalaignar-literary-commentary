@@ -46,18 +46,18 @@ Historical Gate-G baseline:
 - `needs-review` — **453**
 - `partial` — **1**
 
-Current state after second user WFV adjudication set:
+Current state after third user WFV adjudication set:
 
-- `verified` — **472**
-- `needs-review` — **24**
+- `verified` — **479**
+- `needs-review` — **17**
 - `partial` — **1**
-- visual `verified` — **472**
-- visual `needs-review` — **25**
+- visual `verified` — **479**
+- visual `needs-review` — **18**
 - blocked — **0**
 - restart coverage — **497/497 COMPLETE**
-- pending WFV rows — **31 across 24 pages**
+- pending WFV rows — **19 across 17 pages**
 
-R01–R50 re-audit itself changed **0 lexical words**. The first two user-adjudication sets have now resolved **24 WFV rows across 20 pages**: **9 repository/Gemini readings retained** and **15 user-authorized corrections applied**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** on scan **49**; R06 discovered **1** on scan **55**; R07 reconfirmed WFV-002 and WFV-003 and discovered WFV-011 on scan **67**; R08 found **0** new discrepancies; R09 reconfirmed WFV-004 and discovered WFV-012 and WFV-013; R10 reconfirmed WFV-005 and discovered WFV-014; R11–R17 found **0** new discrepancies; R18 opened **WFV-015 through WFV-019**; R19 opened **WFV-020 through WFV-022**; R20 opened **WFV-023 and WFV-024**; R21 opened **WFV-025 and WFV-026**; R22 opened **WFV-027 through WFV-029**; R23 opened **WFV-030 through WFV-032**; R24 opened **WFV-033 through WFV-039**; R25 opened **WFV-040**; R26 opened **WFV-041**; R27 opened **WFV-042 through WFV-044**; R28 opened **0** new discrepancies; R29 opened **WFV-045 through WFV-048**; R30 opened **WFV-049**; R31–R32 opened **0** new discrepancies; R33 opened **WFV-050**; R34 opened **WFV-051 and WFV-052**; R35 opened **WFV-053**; R36–R41 opened **0** new discrepancies; R42 opened **WFV-054**; R43–R44 opened **0** new discrepancies; R45 opened **WFV-055 and WFV-056**; R46–R50 opened **0** new discrepancies. Remaining disputed lexical wording and material token placement stay unchanged pending further user adjudication.
+R01–R50 re-audit itself changed **0 lexical words**. The first three user-adjudication sets have now resolved **36 WFV rows across 27 pages**: **13 repository/Gemini readings retained** and **23 user-authorized corrections applied**. R03 discovered **3** lexical discrepancy rows on scans **25 and 30**; R05 discovered **1** on scan **49**; R06 discovered **1** on scan **55**; R07 reconfirmed WFV-002 and WFV-003 and discovered WFV-011 on scan **67**; R08 found **0** new discrepancies; R09 reconfirmed WFV-004 and discovered WFV-012 and WFV-013; R10 reconfirmed WFV-005 and discovered WFV-014; R11–R17 found **0** new discrepancies; R18 opened **WFV-015 through WFV-019**; R19 opened **WFV-020 through WFV-022**; R20 opened **WFV-023 and WFV-024**; R21 opened **WFV-025 and WFV-026**; R22 opened **WFV-027 through WFV-029**; R23 opened **WFV-030 through WFV-032**; R24 opened **WFV-033 through WFV-039**; R25 opened **WFV-040**; R26 opened **WFV-041**; R27 opened **WFV-042 through WFV-044**; R28 opened **0** new discrepancies; R29 opened **WFV-045 through WFV-048**; R30 opened **WFV-049**; R31–R32 opened **0** new discrepancies; R33 opened **WFV-050**; R34 opened **WFV-051 and WFV-052**; R35 opened **WFV-053**; R36–R41 opened **0** new discrepancies; R42 opened **WFV-054**; R43–R44 opened **0** new discrepancies; R45 opened **WFV-055 and WFV-056**; R46–R50 opened **0** new discrepancies. Remaining disputed lexical wording and material token placement stay unchanged pending further user adjudication.
 
 ## User adjudication — first reviewed set
 
@@ -87,6 +87,19 @@ R01–R50 re-audit itself changed **0 lexical words**. The first two user-adjudi
 - visual state — **472 verified / 25 needs-review**;
 - pending — **31 WFV rows across 24 pages**;
 - targeted English reconciliation applied on scans **174, 177, 179, 183 and 189**; other cleared English pages required source-status synchronization only.
+
+## User adjudication — third reviewed set
+
+**COMPLETE / APPLIED**
+
+- reviewed WFV rows — **12**;
+- cleared physical pages — **7**;
+- corrections applied — **WFV-026, WFV-028, WFV-030, WFV-032, WFV-033, WFV-034, WFV-035, WFV-036**;
+- repository/Gemini retained — **WFV-027, WFV-029, WFV-031, WFV-037**;
+- Tamil state after adjudication — **479 verified / 17 needs-review / 1 partial**;
+- visual state — **479 verified / 18 needs-review**;
+- pending — **19 WFV rows across 17 pages**;
+- targeted English reconciliation applied on scans **209, 215, 230 and 231**; other cleared English pages required source-status synchronization only.
 
 ## R01 — scans 1–10
 
@@ -1070,19 +1083,19 @@ Do not change any pending lexical wording before explicit user adjudication.
 
 ## Exact next activity
 
-The user has now adjudicated through **WFV-025**. These decisions are applied and closed.
+The user has now adjudicated through **WFV-037**. These decisions are applied and closed.
 
 The next pending rows begin with:
 
-- scan 209 — WFV-026
-- scan 213 — WFV-027
-- scan 215 — WFV-028
-- scan 219 — WFV-029
-- scan 227 — WFV-030, WFV-031
-- scan 230 — WFV-032
-- scan 231 — WFV-033 through WFV-037
 - scan 233 — WFV-038, WFV-039
 - scan 248 — WFV-040
 - scan 254 — WFV-041
+- scan 261 — WFV-042
+- scan 262 — WFV-043
+- scan 270 — WFV-044
+- scan 281 — WFV-045, WFV-046
+- scan 282 — WFV-047
+- scan 290 — WFV-048
+- scan 294 — WFV-049
 
 Do not apply any remaining WFV row until the user supplies an explicit decision. The maintained-English release-report gate remains **PAUSED**.

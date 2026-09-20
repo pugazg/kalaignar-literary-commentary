@@ -80,14 +80,14 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 193–197 | printed 180, 182–184 with scan-194 illustration | `ஆட்சியும் மாட்சியும்!` | **verified after user adjudication; WFV-024 source reading applied; C08-004 preserved** |
 | 198–202 | printed 185–189 with scan-200 illustration | `பறம்புமலைப் பாவேந்தர்` | **R20/R21 complete / all scans verified; C08-005..007 preserved** |
 | 203–207 | printed 190, 192–194 with scan-204 illustration | `பிறந்த வீடும் புகுந்த வீடும்!` | **verified after user adjudication; WFV-025 retained repository/Gemini reading** |
-| 208–210 | printed 195–196 with scan-210 illustration | start of `காவிரிநாடன் கரிகாலன்!` | **R21 complete / scans 208 and 210 verified; scan 209 needs-review on WFV-026; C09-001 heading preserved** |
-| 211–213 | printed 198–200 | end of `காவிரிநாடன் கரிகாலன்!` | **R22 complete / scans 211–212 verified; scan 213 needs-review on WFV-027** |
-| 214–217 | printed 201–202, 204 with scan-216 illustration | `இசையாகிவிட்டவள்!` | **R22 complete / scans 214, 216–217 verified; scan 215 needs-review on WFV-028** |
-| 218–221 | printed 205–206, 208 with scan-220 illustration | `போர்த்திசை நோக்கிய புலிப்போத்து!` | **R22/R23 complete / scans 218, 220–221 verified; scan 219 needs-review on WFV-029; C09-002 preserved** |
+| 208–210 | printed 195–196 with scan-210 illustration | start of `காவிரிநாடன் கரிகாலன்!` | **verified after user adjudication; WFV-026 token placement applied on scan 209; C09-001 heading preserved** |
+| 211–213 | printed 198–200 | end of `காவிரிநாடன் கரிகாலன்!` | **verified after user adjudication; WFV-027 retained repository/Gemini reading** |
+| 214–217 | printed 201–202, 204 with scan-216 illustration | `இசையாகிவிட்டவள்!` | **verified after user adjudication; WFV-028 token placement applied on scan 215** |
+| 218–221 | printed 205–206, 208 with scan-220 illustration | `போர்த்திசை நோக்கிய புலிப்போத்து!` | **verified after user adjudication; WFV-029 retained repository/Gemini reading; C09-002 preserved** |
 | 222–225 | printed 209–210, 212 with scan-224 illustration | `இங்கே வேண்டாம்... தங்கை இருக்கின்றாள்!` | **R23 complete / all four verified; C09-003 placement preserved** |
-| 226–229 | printed 213–214, 216 with scan-228 illustration | `பாரி மகளிர் பாடிய செய்யுள்` | **R23 complete / scans 226, 228–229 verified; scan 227 needs-review on WFV-030/WFV-031; C10-001 heading preserved** |
-| 230 | printed 217 | start of `தாமரைப் பொய்கையில் (?) தவழ்ந்தது நிலவு!` | **R23 complete / needs-review on WFV-032; C10-002 preserved** |
-| 231–235 | printed 218, 220–222 with scan-232 illustration | continuation/end of `தாமரைப் பொய்கையில் (?) தவழ்ந்தது நிலவு!` | **R24 complete / scans 232, 234–235 verified; scans 231 and 233 needs-review on WFV-033..039** |
+| 226–229 | printed 213–214, 216 with scan-228 illustration | `பாரி மகளிர் பாடிய செய்யுள்` | **verified after user adjudication; WFV-030 placement applied and WFV-031 repository reading retained; C10-001 heading preserved** |
+| 230 | printed 217 | start of `தாமரைப் பொய்கையில் (?) தவழ்ந்தது நிலவு!` | **verified after user adjudication; WFV-032 restored `தமிழ்ப்`; C10-002 preserved** |
+| 231–235 | printed 218, 220–222 with scan-232 illustration | continuation/end of `தாமரைப் பொய்கையில் (?) தவழ்ந்தது நிலவு!` | **R24 complete; scan 231 verified after WFV-033..037 adjudication; scan 233 remains needs-review on WFV-038/WFV-039; scans 232, 234–235 verified** |
 | 236–240 | printed 223–224, 226–227 with scan-238 illustration | `காட்டில் பிறந்த கவிதை!` | **R24 complete / all five verified; C10-003 and C10-004 preserved** |
 | 241–244 | printed 228, 230–231 with scan-242 illustration | `வாடைக் காற்றில் வாடிய காதலி!` | **R25 complete / all four verified** |
 | 245–248 | printed 232, 234–235 with scan-246 illustration | `வாளிங்கே-அவன் நாக்கெங்கே?` | **R25 complete / scans 245–247 verified; scan 248 needs-review on WFV-040; C10-005 preserved** |
