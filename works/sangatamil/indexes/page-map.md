@@ -72,14 +72,14 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 154–158 | printed 141–145 with scan-156 illustration | `செவிலி தேடிய சித்திரப் பாவை!` | **R16 source re-audit PASS / all five verified; quotation/provenance/gloss order preserved; 0 lexical discrepancies** |
 | 159–164 | printed 146, 148–151 with scan-160 illustration | `பதிலை நெருப்பாக உமிழ்ந்த பாவாணர்!` | **R16/R17 source re-audit PASS / all six verified; scan-163 C07-001 `குடகடல் ஓட்டிய ஞான்றைத்` preserved; 0 lexical discrepancies** |
 | 165–170 | printed 152–157 with scan-166 illustration | `காடைப் போர் கண்டுவந்த கணவன்!` | **R17 source re-audit PASS / all six verified; C07-002 heading preserved; scan-170 historical `னா` identity source-checked; 0 lexical discrepancies** |
-| 171–174 | printed 158–161 with scan-172 illustration | `தகரோன் தந்த கனி!` | **R18 complete / scans 171–173 verified; scan 174 remains needs-review on WFV-015; C07-003 preserved** |
-| 175–181 | printed 162, 164–168 with scan-176 illustration | `நீலமலை நீரினும் குளிர்ந்த நெஞ்சம்!` | **R18/R19 complete / scans 175–176, 178, 180–181 verified; scans 177 and 179 remain needs-review on WFV-016..019; section metadata aligned 176–181; C07-004/C08-001 preserved** |
-| 182–187 | printed 169–174 with scan-184 illustration | `தலை கேட்டான் தம்பி!` | **R19 complete / scans 182, 184–187 verified; scan 183 remains needs-review on WFV-020** |
-| 188–190 | printed 175–176 with scan-190 illustration | `அவள் நிலமானாள்; அவன் மழையானான்!` | **R19 complete / scans 188 and 190 verified; scan 189 remains needs-review on WFV-021/WFV-022; C08-002 heading preserved** |
-| 191–192 | printed 178–179 | end of `அவள் நிலமானாள்; அவன் மழையானான்!` | **R20 complete / scan 191 verified; scan 192 needs-review on WFV-023; C08-003 preserved** |
-| 193–197 | printed 180, 182–184 with scan-194 illustration | `ஆட்சியும் மாட்சியும்!` | **R20 complete / scans 193–194 and 196–197 verified; scan 195 needs-review on WFV-024; C08-004 preserved** |
+| 171–174 | printed 158–161 with scan-172 illustration | `தகரோன் தந்த கனி!` | **verified after user adjudication; WFV-015 exact glossary correction applied; C07-003 preserved** |
+| 175–181 | printed 162, 164–168 with scan-176 illustration | `நீலமலை நீரினும் குளிர்ந்த நெஞ்சம்!` | **verified after user adjudication; WFV-016..019 corrections applied; section metadata and C07-004/C08-001 preserved** |
+| 182–187 | printed 169–174 with scan-184 illustration | `தலை கேட்டான் தம்பி!` | **verified after user adjudication; WFV-020 token placement applied** |
+| 188–190 | printed 175–176 with scan-190 illustration | `அவள் நிலமானாள்; அவன் மழையானான்!` | **verified after user adjudication; WFV-021/WFV-022 placements applied; C08-002 heading preserved** |
+| 191–192 | printed 178–179 | end of `அவள் நிலமானாள்; அவன் மழையானான்!` | **verified after user adjudication; WFV-023 source reading applied; C08-003 preserved** |
+| 193–197 | printed 180, 182–184 with scan-194 illustration | `ஆட்சியும் மாட்சியும்!` | **verified after user adjudication; WFV-024 source reading applied; C08-004 preserved** |
 | 198–202 | printed 185–189 with scan-200 illustration | `பறம்புமலைப் பாவேந்தர்` | **R20/R21 complete / all scans verified; C08-005..007 preserved** |
-| 203–207 | printed 190, 192–194 with scan-204 illustration | `பிறந்த வீடும் புகுந்த வீடும்!` | **R21 complete / scans 203–204 and 206–207 verified; scan 205 needs-review on WFV-025** |
+| 203–207 | printed 190, 192–194 with scan-204 illustration | `பிறந்த வீடும் புகுந்த வீடும்!` | **verified after user adjudication; WFV-025 retained repository/Gemini reading** |
 | 208–210 | printed 195–196 with scan-210 illustration | start of `காவிரிநாடன் கரிகாலன்!` | **R21 complete / scans 208 and 210 verified; scan 209 needs-review on WFV-026; C09-001 heading preserved** |
 | 211–213 | printed 198–200 | end of `காவிரிநாடன் கரிகாலன்!` | **R22 complete / scans 211–212 verified; scan 213 needs-review on WFV-027** |
 | 214–217 | printed 201–202, 204 with scan-216 illustration | `இசையாகிவிட்டவள்!` | **R22 complete / scans 214, 216–217 verified; scan 215 needs-review on WFV-028** |

@@ -488,12 +488,20 @@ First WFV user-adjudication set — COMPLETE / APPLIED:
 - targeted English impact reconciled — scans **62 and 87**;
 - user will continue reviewing the remaining rows.
 
+Second WFV user-adjudication set — COMPLETE / APPLIED:
+- reviewed rows — **11 across 8 pages**;
+- corrections applied — **10 rows**;
+- repository/Gemini retained — **WFV-025**;
+- exact WFV-015 correction — `வலம்படுவாய் வாள் = வெற்றி தரத் / தவறாத வாள்.`;
+- exact WFV-019 phrase — `பெருங்குன்றூர்க் கிழார் இல்லையேல் - இன்று / அருந்தேனாய் இனித்த இன்பம் கிட்டாதன்றோ?`;
+- targeted English impact reconciled — scans **174, 177, 179, 183, 189**.
+
 Current whole-volume Tamil state:
 - `verified` — **452**
 - `needs-review` — **44**
 - `partial` — **1**
 - current restart coverage — **497/497 COMPLETE**
-- pending adjudication — **42 WFV rows across 32 pages**
+- pending adjudication — **31 WFV rows across 24 pages**
 
 Gate D — COMPLETE / PASS:
 - physical scans — 497/497
@@ -547,9 +555,9 @@ Gate G — **COMPLETE / PASS**:
 - required metadata field presence after repair — **497/497**
 - demonstrable defects repaired — **11 missing `visual_fidelity` fields**
 - Gate-G historical `status` distribution — **43 verified / 453 needs-review / 1 partial**
-- current post-adjudication state — **464 verified / 32 needs-review / 1 partial**
+- current post-adjudication state — **472 verified / 24 needs-review / 1 partial**
 - Gate-G historical `visual_fidelity` distribution — **43 verified / 454 needs-review / 0 missing**
-- current post-adjudication visual-fidelity state — **464 verified / 33 needs-review / 0 missing**
+- current post-adjudication visual-fidelity state — **472 verified / 25 needs-review / 0 missing**
 - canonical wording changes — **0**
 - unresolved Gate-G inconsistencies — **0**
 - durable report — `GATE_G_METADATA_STATUS_AUDIT.md`
@@ -651,8 +659,8 @@ This downstream layer does **not** reopen or mass-promote the canonical Tamil re
 
 ## Exact next activity
 
-The user has completed the first WFV review set and will continue the remaining discrepancies.
+The user has reviewed through **WFV-025** and will continue the remaining discrepancies.
 
-Continue from **WFV-015 onward**, using `works/sangatamil/WFV_DISCREPANCY_COMPARISON.md` as the compact adjudication table. Do not modify any remaining pending row without an explicit user decision.
+Continue from **WFV-026 onward**, using `works/sangatamil/WFV_DISCREPANCY_COMPARISON.md` as the compact adjudication table. Do not modify any remaining pending row without an explicit user decision.
 
-Current unresolved state: **42 WFV rows across 32 physical pages**. The maintained-English release-report gate remains **PAUSED** until those rows are resolved and any resulting English impact is reconciled.
+Current unresolved state: **31 WFV rows across 24 physical pages**. The maintained-English release-report gate remains **PAUSED** until those rows are resolved and any resulting English impact is reconciled.

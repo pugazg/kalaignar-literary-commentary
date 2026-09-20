@@ -6,19 +6,23 @@ Continue only from live `main` in `pugazg/kalaignar-literary-commentary`. **LIVE
 
 Fresh physical source coverage is **497/497 COMPLETE**. Do not restart source auditing.
 
-Current state after the user's first WFV review:
+Current state after two user WFV review sets:
 
-- Tamil — **464 verified / 32 needs-review / 1 partial**
-- visual — **464 verified / 33 needs-review**
+- Tamil — **472 verified / 24 needs-review / 1 partial**
+- visual — **472 verified / 25 needs-review**
 - WFV-001 — **REJECTED**
-- first user-reviewed set — **13 WFV rows across 12 pages CLOSED**
-- repository/Gemini retained — **WFV-003, WFV-005, WFV-006, WFV-007, WFV-008, WFV-009, WFV-010, WFV-011**
-- corrections applied — **WFV-002, WFV-004, WFV-012, WFV-013, WFV-014**
-- WFV-004 exact user correction — `மாலையாவதில்லை - ஆனால்`
-- remaining pending — **42 WFV rows across 32 physical pages**
+- cumulative user-reviewed rows — **24 across 20 pages CLOSED**
+- repository/Gemini retained — **9 rows total**
+- corrections applied — **15 rows total**
+- remaining pending — **31 WFV rows across 24 physical pages**
 - maintained-English release-report gate — **PAUSED**
 
-The user has explicitly said they will continue reviewing the remaining discrepancies.
+Second reviewed set specifics:
+
+- WFV-015 through WFV-024 — user-authorized corrections applied
+- WFV-025 — repository/Gemini retained
+- WFV-015 exact reading — `வலம்படுவாய் வாள் = வெற்றி தரத் / தவறாத வாள்.`
+- WFV-019 exact user-corrected phrase — `பெருங்குன்றூர்க் கிழார் இல்லையேல் - இன்று / அருந்தேனாய் இனித்த இன்பம் கிட்டாதன்றோ?`
 
 ## Mandatory read-first
 
@@ -37,11 +41,11 @@ For every remaining pending WFV row:
 
 1. preserve current repository wording until the user comments;
 2. treat the user's explicit comment as controlling;
-3. if the user says Gemini/repository is correct, retain it and close the WFV row;
+3. if the user says Gemini/repository is correct, retain it and close the row;
 4. if the user says correction required, apply exactly the user-authorized source/user reading or placement;
 5. promote a Tamil page only when all holds on that page are resolved;
 6. reconcile English only when the accepted Tamil change affects meaning/translation;
-7. keep `WFV_DISCREPANCY_COMPARISON.md`, the ledger, tracker and controls synchronized.
+7. keep the comparison file, ledger, tracker and controls synchronized.
 
 ## Next unresolved rows
 
@@ -49,15 +53,15 @@ The next 10 held physical pages are:
 
 | Scan | WFV |
 |---:|---|
-| 174 | WFV-015 |
-| 177 | WFV-016, WFV-017 |
-| 179 | WFV-018, WFV-019 |
-| 183 | WFV-020 |
-| 189 | WFV-021, WFV-022 |
-| 192 | WFV-023 |
-| 195 | WFV-024 |
-| 205 | WFV-025 |
 | 209 | WFV-026 |
 | 213 | WFV-027 |
+| 215 | WFV-028 |
+| 219 | WFV-029 |
+| 227 | WFV-030, WFV-031 |
+| 230 | WFV-032 |
+| 231 | WFV-033, WFV-034, WFV-035, WFV-036, WFV-037 |
+| 233 | WFV-038, WFV-039 |
+| 248 | WFV-040 |
+| 254 | WFV-041 |
 
 Do not make any further adjudication changes until the user provides their next review comments.
