@@ -4,11 +4,11 @@ printed_page: "161"
 work: "sangatamil"
 section: "தகரோன் தந்த கனி!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "R18 WFV-015: canonical glossary omits source-visible `வெற்றிமிகுந்த` after `வலம்படுவாய் வாள் =`; lexical wording remains unchanged pending user adjudication. Source punctuation around `ஒன்னார் = பகைவர். ஆர்கலிநறவு = ...` is aligned nonlexically."
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "WFV user adjudication complete for scan 174; WFV-015 user-authorized correction applied; page verified."
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; WFV user-adjudicated"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 173
 ---
@@ -29,7 +29,7 @@ continues_from_scan: 173
 ## பொருள் விளக்கம் :
 
 தெவ்விர் = பகைவீர். பொருநன் = வீரன். வைகல் = ஒரு நாள்.  
-வலித்த = செய்யப்பட்ட. வலம்படுவாய் வாள் =  
+வலித்த = செய்யப்பட்ட. வலம்படுவாய் வாள் = வெற்றி தரத்  
 தவறாத வாள். ஒன்னார் = பகைவர். ஆர்கலிநறவு = ஆரவாரம்  
 செய்கின்ற மது.
 

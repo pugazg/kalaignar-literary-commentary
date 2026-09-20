@@ -2165,11 +2165,11 @@ Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R17_SCANS_161_170.md`.
 
 | ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
 |---|---:|---:|---|---|---|---|
-| WFV-015 | 174 | 161 | glossary `வலம்படுவாய் வாள் = / தவறாத வாள்.` | `வலம்படுவாய் வாள் = வெற்றிமிகுந்த / தவறாத வாள்.` | `missing-source-token / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical lexical wording unchanged; scan 174 remains needs-review** |
-| WFV-016 | 177 | 164 | canonical moves `முகத்தில்` to after `படர்கின்ற பசலை நிறம் மறைத்து` | source places it as `இருவாட்சியும் செண்பகமும் சூடி - முகத்தில்` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical placement unchanged; scan 177 remains needs-review** |
-| WFV-017 | 177 | 164 | canonical moves `உன்` to immediately before `சுடர்கின்ற பொன்னொளி...` | source places it as `தருநிழலின்றித் தவிக்கின்ற மான்போல் - உன் / பருவமயில்...` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical placement unchanged; same scan-177 hold** |
-| WFV-018 | 179 | 166 | `பாயிரம் பாடி வாழ்த்துக்கின்றாள் புலவரையே!` | `பாயிரம் பாடி வாழ்த்துகின்றாள் புலவரையே!` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 179 remains needs-review** |
-| WFV-019 | 179 | 166 | canonical moves from `பெருங்குன்றூர்க் கிழார் இல்லையேல்` directly to `கிட்டாதன்றோ?` | source prints `பெருங்குன்றூர்க் கிழார் இல்லையேல் - இன்று / அருந்தேனை இனித்த இன்பம் கிட்டாதன்றோ?`; old-type `னை` identity checked at enlarged resolution | `missing-source-phrase / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; same scan-179 hold** |
+| WFV-015 | 174 | 161 | glossary `வலம்படுவாய் வாள் = / தவறாத வாள்.` | `வலம்படுவாய் வாள் = வெற்றிமிகுந்த / தவறாத வாள்.` — user exact reading: `வலம்படுவாய் வாள் = வெற்றி தரத் / தவறாத வாள்.` | `missing-source-token / likely-gemini-error` | **USER ADJUDICATED / APPLIED — `வலம்படுவாய் வாள் = வெற்றி தரத் / தவறாத வாள்.`; scan 174 verified** |
+| WFV-016 | 177 | 164 | canonical moves `முகத்தில்` to after `படர்கின்ற பசலை நிறம் மறைத்து` | source places it as `இருவாட்சியும் செண்பகமும் சூடி - முகத்தில்` | `token-placement / likely-gemini-error` | **USER ADJUDICATED / APPLIED — source placement of `முகத்தில்` applied; scan 177 verified** |
+| WFV-017 | 177 | 164 | canonical moves `உன்` to immediately before `சுடர்கின்ற பொன்னொளி...` | source places it as `தருநிழலின்றித் தவிக்கின்ற மான்போல் - உன் / பருவமயில்...` | `token-placement / likely-gemini-error` | **USER ADJUDICATED / APPLIED — source placement of `உன்` applied; scan 177 verified** |
+| WFV-018 | 179 | 166 | `பாயிரம் பாடி வாழ்த்துக்கின்றாள் புலவரையே!` | `பாயிரம் பாடி வாழ்த்துகின்றாள் புலவரையே!` | `likely-gemini-error` | **USER ADJUDICATED / APPLIED — `பாயிரம் பாடி வாழ்த்துகின்றாள் புலவரையே!`; scan 179 verified** |
+| WFV-019 | 179 | 166 | canonical moves from `பெருங்குன்றூர்க் கிழார் இல்லையேல்` directly to `கிட்டாதன்றோ?` | source prints `பெருங்குன்றூர்க் கிழார் இல்லையேல் - இன்று / அருந்தேனை இனித்த இன்பம் கிட்டாதன்றோ?`; old-type `னை` identity checked at enlarged resolution — user corrected source phrase: `பெருங்குன்றூர்க் கிழார் இல்லையேல் - இன்று / அருந்தேனாய் இனித்த இன்பம் கிட்டாதன்றோ?` | `missing-source-phrase / likely-gemini-error` | **USER ADJUDICATED / APPLIED — exact user-corrected missing phrase restored; scan 179 verified** |
 
 ### R18 findings
 
@@ -2205,9 +2205,9 @@ Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R18_SCANS_171_180.md`.
 
 | ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
 |---|---:|---:|---|---|---|---|
-| WFV-020 | 183 | 170 | canonical places existing `மறுக்கின்றான்.` after `காவல் மரத்தில் கட்டி வைத்துக்` | source places `மறுக்கின்றான்.` immediately after `இளவெளிமான் இருக்கின்றான் - கொடை வழங்க`; later proceeds directly from `காவல் மரத்தில் கட்டி வைத்துக்` to `கடையனவன்...` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical placement unchanged; scan 183 remains needs-review** |
-| WFV-021 | 189 | 176 | canonical places `அதுபோலக்` after `ஊடல்தான் கொடியேற்றி வைக்க வேண்டும்!` | source places right-aligned `அதுபோலக்` before `கூடல் விழா தொடங்குதற்கு;` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical placement unchanged; scan 189 remains needs-review** |
-| WFV-022 | 189 | 176 | canonical places `சொல்வேன்!` before `பொழிகின்ற இன்ப மழைச் சுகத்தை நான் என்னென்று` | source completes the phrase `பொழிகின்ற இன்ப மழைச் சுகத்தை நான் என்னென்று / சொல்வேன்!` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical placement unchanged; same scan-189 hold** |
+| WFV-020 | 183 | 170 | canonical places existing `மறுக்கின்றான்.` after `காவல் மரத்தில் கட்டி வைத்துக்` | source places `மறுக்கின்றான்.` immediately after `இளவெளிமான் இருக்கின்றான் - கொடை வழங்க`; later proceeds directly from `காவல் மரத்தில் கட்டி வைத்துக்` to `கடையனவன்...` | `token-placement / likely-gemini-error` | **USER ADJUDICATED / APPLIED — source token placement applied; scan 183 verified** |
+| WFV-021 | 189 | 176 | canonical places `அதுபோலக்` after `ஊடல்தான் கொடியேற்றி வைக்க வேண்டும்!` | source places right-aligned `அதுபோலக்` before `கூடல் விழா தொடங்குதற்கு;` | `token-placement / likely-gemini-error` | **USER ADJUDICATED / APPLIED — source token placement applied; scan 189 verified** |
+| WFV-022 | 189 | 176 | canonical places `சொல்வேன்!` before `பொழிகின்ற இன்ப மழைச் சுகத்தை நான் என்னென்று` | source completes the phrase `பொழிகின்ற இன்ப மழைச் சுகத்தை நான் என்னென்று / சொல்வேன்!` | `token-placement / likely-gemini-error` | **USER ADJUDICATED / APPLIED — source token placement applied; scan 189 verified** |
 
 ### R19 findings
 
@@ -2242,8 +2242,8 @@ Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R19_SCANS_181_190.md`.
 
 | ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
 |---|---:|---:|---|---|---|---|
-| WFV-023 | 192 | 179 | Kuruntokai 40 quotation `யாயும் ஞாயும் யாரா கியரே?` | source visibly reads `யாயும் ஞாயும் யாரா கியரோ?` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 192 remains needs-review** |
-| WFV-024 | 195 | 182 | `வாடி வதங்கித் துவளுக்கின்ற இழிநிலை` | source visibly reads `வாடி வதங்கித் துவளுகின்ற இழிநிலை` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 195 remains needs-review** |
+| WFV-023 | 192 | 179 | Kuruntokai 40 quotation `யாயும் ஞாயும் யாரா கியரே?` | source visibly reads `யாயும் ஞாயும் யாரா கியரோ?` | `likely-gemini-error` | **USER ADJUDICATED / APPLIED — `யாயும் ஞாயும் யாரா கியரோ?`; scan 192 verified** |
+| WFV-024 | 195 | 182 | `வாடி வதங்கித் துவளுக்கின்ற இழிநிலை` | source visibly reads `வாடி வதங்கித் துவளுகின்ற இழிநிலை` | `likely-gemini-error` | **USER ADJUDICATED / APPLIED — `வாடி வதங்கித் துவளுகின்ற இழிநிலை`; scan 195 verified** |
 
 ### R20 findings
 
@@ -2276,7 +2276,7 @@ Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R20_SCANS_191_200.md`.
 
 | ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
 |---|---:|---:|---|---|---|---|
-| WFV-025 | 205 | 192 | `முடிவிதுதான் பெற்றோரும் உற்றாரும் எடுத்ததென அவளிடத்தே` | source visibly reads `முடிவிதுதான் பெற்றோரும் உற்றோரும் எடுத்ததென அவளிடத்தே` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 205 remains needs-review** |
+| WFV-025 | 205 | 192 | `முடிவிதுதான் பெற்றோரும் உற்றாரும் எடுத்ததென அவளிடத்தே` | source visibly reads `முடிவிதுதான் பெற்றோரும் உற்றோரும் எடுத்ததென அவளிடத்தே` | `likely-gemini-error` | **USER ADJUDICATED — GEMINI/REPOSITORY CORRECT; canonical retained; scan 205 verified** |
 | WFV-026 | 209 | 196 | canonical places existing `கருகியதாம்!` after `கருகிய காலின் கறுப்புத் தழும்பும் - கிழவன் / கண்ணுக்கோர் அழகாய்த் தோன்றியதால்` | source places `கருகியதாம்!` immediately after `பொறித் துகள் பட்டுக் குழந்தை வளவன் கால் சற்றுக்`; the two following lines then continue afterward | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical placement unchanged; scan 209 remains needs-review** |
 
 ### R21 findings
@@ -3158,6 +3158,18 @@ Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R49_SCANS_481_490.md`.
 - affected physical pages cleared — **12** (25, 30, 49, 55, 62, 67, 69, 83, 85, 87, 91, 94);
 - pending WFV rows remaining — **42 across 32 physical pages**;
 - user will continue review of the remaining rows.
+
+## User adjudication — second reviewed set
+
+**Status: APPLIED / CLOSED for 11 reviewed WFV rows**
+
+- **apply correction** — WFV-015 through WFV-024;
+- **retain repository/Gemini** — WFV-025;
+- WFV-015 exact user correction — `வலம்படுவாய் வாள் = வெற்றி தரத் / தவறாத வாள்.`;
+- WFV-019 exact user-corrected phrase — `பெருங்குன்றூர்க் கிழார் இல்லையேல் - இன்று / அருந்தேனாய் இனித்த இன்பம் கிட்டாதன்றோ?`;
+- affected physical pages cleared — **8** (174, 177, 179, 183, 189, 192, 195, 205);
+- cumulative user-reviewed WFV rows — **24**;
+- pending WFV rows remaining — **31 across 24 physical pages**.
 
 ## Restart R50 — scans 491–497
 

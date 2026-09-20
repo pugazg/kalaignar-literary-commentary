@@ -4,11 +4,11 @@ printed_page: "179"
 work: "sangatamil"
 section: "அவள் நிலமானாள்; அவன் மழையானான்!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "R20 WFV-023: Kuruntokai 40 quotation canonical `யாயும் ஞாயும் யாரா கியரே?` differs from source-visible `யாயும் ஞாயும் யாரா கியரோ?`; canonical wording remains unchanged pending user adjudication. C08-003 `அறிந்திட விரும்பாமலே அறிமுகமானோம்!` remains protected."
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "WFV user adjudication complete for scan 192; WFV-023 user-authorized correction applied; page verified."
 language: "ta"
-transcription_method: "Gemini-locked lexical wording with user-authorized C2 source correction"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 source correction; WFV user-adjudicated"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 191
 ---
@@ -40,7 +40,7 @@ continues_from_scan: 191
 
 \*
 
-"யாயும் ஞாயும் யாரா கியரே?  
+"யாயும் ஞாயும் யாரா கியரோ?  
 எந்தையும் நுந்தையும் எம்முறைக் கேளிர்?  
 யானும் நீயும் எவ்வழி அறிதும்!  
 செம்புலப் பெயல்நீர் போல  

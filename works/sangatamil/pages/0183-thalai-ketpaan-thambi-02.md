@@ -4,11 +4,11 @@ printed_page: "170"
 work: "sangatamil"
 section: "தலை கேட்டான் தம்பி!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "R19 WFV-020: source places existing `மறுக்கின்றான்.` immediately after `இளவெளிமான் இருக்கின்றான் - கொடை வழங்க`; canonical materially displaces it after `காவல் மரத்தில் கட்டி வைத்துக்`. Canonical placement remains unchanged pending user adjudication."
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "WFV user adjudication complete for scan 183; WFV-020 user-authorized correction applied; page verified."
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; WFV user-adjudicated"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 182
 continues_to_scan: 185
@@ -19,12 +19,12 @@ continues_to_scan: 185
 தருகின்ற பொருள் வாங்க நடந்து சென்றேன்; அந்தோ மன்னா!  
 அவனிறந்து ஆண்டொன்று ஆனதாலே - அவன் தம்பி  
 இளவெளிமான் இருக்கின்றான் - கொடை வழங்க  
+மறுக்கின்றான்.  
 கொடிய பதில் உரைக்கின்றான்.  
 வளங் கொட்டும் முதிரமலை ஆள்கின்ற காவலனே!  
 தரங் கெட்ட இளவெளிமான் தருக்கடக்க  
 ஆனை ஒன்று தரவேண்டும் - அதனை அவன்றன்  
 காவல் மரத்தில் கட்டி வைத்துக்  
-மறுக்கின்றான்.  
 கடையனவன் தலைகுனியச் செய்ய வேண்டும்; தருவீர்' என்றார்.  
 தந்து விட்டான்.  
 வீர வெளிமானுக்கொரு தம்பி இளவெளிமான் போல்  

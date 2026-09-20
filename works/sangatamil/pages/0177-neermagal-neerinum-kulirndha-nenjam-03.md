@@ -4,11 +4,11 @@ printed_page: "164"
 work: "sangatamil"
 section: "நீலமலை நீரினும் குளிர்ந்த நெஞ்சம்!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "R18 WFV-016/WFV-017: source places `முகத்தில்` after `இருவாட்சியும் செண்பகமும் சூடி -` and `உன்` after `தருநிழலின்றித் தவிக்கின்ற மான்போல் -`; canonical materially displaces both tokens. Canonical placement remains unchanged pending user adjudication."
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "WFV user adjudication complete for scan 177; WFV-016 user-authorized correction applied; WFV-017 user-authorized correction applied; page verified."
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; WFV user-adjudicated"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 175
 continues_to_scan: 178
@@ -46,15 +46,11 @@ continues_to_scan: 178
 மாசறு பொன்னாம் அவன் மனையாள்  
 மன்னன் பிரிவால் மனமிக நொந்து  
 இன்னலுறும் செய்தியினைச் சொன்னார்!  
-"இருவாட்சியும் செண்பகமும் சூடி  
+"இருவாட்சியும் செண்பகமும் சூடி - முகத்தில்  
 திருஆட்சி புரிகின்ற ஆய மகளிர் முன்னே  
-தருநிழலின்றித் தவிக்கின்ற மான்போல்  
+தருநிழலின்றித் தவிக்கின்ற மான்போல் - உன்  
 பருவமயில் படுகின்ற துயரால்; மேனியில்  
 படர்கின்ற பசலை நிறம் மறைத்து  
-
-<div align="right">முகத்தில்</div>
-<div align="right">உன்</div>
-
 சுடர்கின்ற பொன்னொளி போல் திகழும் - அவள்  
 
 <!-- Gate B restores File4 wording and source-supported paragraph/quotation placement after illustration scan 176. Stray File4 numeric token `10000` is excluded as non-source extraction debris. -->

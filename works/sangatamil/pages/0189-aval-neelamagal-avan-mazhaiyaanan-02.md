@@ -4,11 +4,11 @@ printed_page: "176"
 work: "sangatamil"
 section: "அவள் நிலமானாள்; அவன் மழையானான்!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "R19 WFV-021/WFV-022: source places `அதுபோலக்` before `கூடல் விழா தொடங்குதற்கு;` and `சொல்வேன்!` after `பொழிகின்ற இன்ப மழைச் சுகத்தை நான் என்னென்று`; canonical materially displaces both tokens. Canonical placement remains unchanged pending user adjudication."
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "WFV user adjudication complete for scan 189; WFV-021 user-authorized correction applied; WFV-022 user-authorized correction applied; page verified."
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; WFV user-adjudicated"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 188
 continues_to_scan: 191
@@ -22,10 +22,11 @@ continues_to_scan: 191
 ஆருயிரே; அகம் நொந்து நீ ஊடுவது நியாயம்தானா?  
 ஊடல் புரிவதிலும் ஓர் அழகைத்தான் காணுகின்றேன்.  
 பாடல் பிறப்பதற்கு இசை கூட்டல் வேண்டுமன்றோ!  
-கூடல் விழா தொடங்குதற்கு,  
-ஊடல்தான் கொடியேற்றி வைக்க வேண்டும்!  
 
 <div align="right">அதுபோலக்</div>
+
+கூடல் விழா தொடங்குதற்கு,  
+ஊடல்தான் கொடியேற்றி வைக்க வேண்டும்!
 
 அதனாலே உன் ஊடல் கண்டு உவகை மிகக் கொள்கின்றேன்!  
 ஆனாலும் அளவுக்கு மீறிவிட்டால் அமுதமும்  
@@ -42,9 +43,9 @@ continues_to_scan: 191
 விழி மட்டும் ரகசியமாய் ஓர் உடன்பாட்டுக்கு வருதல் கண்டு;  
 
 <div align="right">இதயம்,</div>
-<div align="right">சொல்வேன்!</div>
 
 பொழிகின்ற இன்ப மழைச் சுகத்தை நான் என்னென்று  
+<div align="right">சொல்வேன்!</div>  
 வழிகின்ற தேனருவிப் பக்கம் போவோம் வா ! வீணாய்க்  
 கழிகின்றதே பொழுது என; நம் வரவுக்காகக்  
 காத்திருக்கும் மலர் மெத்தையினைப் பார்!  

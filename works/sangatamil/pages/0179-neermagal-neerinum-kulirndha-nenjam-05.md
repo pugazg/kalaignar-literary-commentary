@@ -4,16 +4,16 @@ printed_page: "166"
 work: "sangatamil"
 section: "நீலமலை நீரினும் குளிர்ந்த நெஞ்சம்!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "R18 WFV-018/WFV-019: canonical `வாழ்த்துக்கின்றாள்` differs from source `வாழ்த்துகின்றாள்`; canonical also omits source-visible `- இன்று / அருந்தேனை இனித்த இன்பம்` before `கிட்டாதன்றோ?`. Canonical lexical wording remains unchanged pending user adjudication."
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "WFV user adjudication complete for scan 179; WFV-018 user-authorized correction applied; WFV-019 user-authorized correction applied; page verified."
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; WFV user-adjudicated"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 178
 continues_to_scan: 180
 ---
-பாயிரம் பாடி வாழ்த்துக்கின்றாள் புலவரையே!  
+பாயிரம் பாடி வாழ்த்துகின்றாள் புலவரையே!  
 அவரால் தானே அவனும் வந்தான்  
 அதனால் அவர்க்கே வாழ்த்து என்றாள்!  
 ஆளன் முகத்தில் முகம் பதித்து - அவன்  
@@ -26,8 +26,8 @@ continues_to_scan: 180
 எந்த வரம் கேட்டாலும் தருவேன்" என்றான்!  
 ''இந்த ஒரு நாள் என்னுயிர் பிழைக்க நீவிர்  
 வந்தது எதனால் என்பதை நினைத்தேன்  
-பெருங்குன்றூர்க் கிழார் இல்லையேல்  
-கிட்டாதன்றோ?  
+பெருங்குன்றூர்க் கிழார் இல்லையேல் - இன்று  
+அருந்தேனாய் இனித்த இன்பம் கிட்டாதன்றோ?  
 அதனாலே அவர் மகிழ அட்டியின்றி  
 அள்ளி வழங்கிடுக அவர்க்குப் பரிசை!'' என்றாள்.  
 ''இன்பமே! இதோ உனக்கோர் பரிசெ'ன்று - அவள்  

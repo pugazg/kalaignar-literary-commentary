@@ -4,11 +4,11 @@ printed_page: "182"
 work: "sangatamil"
 section: "ஆட்சியும் மாட்சியும்!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "R20 WFV-024: canonical `வாடி வதங்கித் துவளுக்கின்ற இழிநிலை` differs from source-visible `வாடி வதங்கித் துவளுகின்ற இழிநிலை`; canonical wording remains unchanged pending user adjudication. C08-004 `முடி புனைந்த மூத்தோர் மறைந்து; அவர்` remains protected."
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "WFV user adjudication complete for scan 195; WFV-024 user-authorized correction applied; page verified."
 language: "ta"
-transcription_method: "Gemini-locked lexical wording with user-authorized C2 source correction"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 source correction; WFV user-adjudicated"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 193
 continues_to_scan: 196
@@ -19,7 +19,7 @@ continues_to_scan: 196
 தாங்கிடும் வண்ணம் அவன் வீழ்ந்திடானாயின்;  
 உள்ளத்தால் காதலின்றி உடலால் இன்பமூட்டும்  
 கள்ளியராம் பொதுமகளிர் பலரைத் தழுவி  
-வாடி வதங்கித் துவளுக்கின்ற இழிநிலை; நான் மார்பில்  
+வாடி வதங்கித் துவளுகின்ற இழிநிலை; நான் மார்பில்  
 சூடியிருக்கும் மாலைக்கு வாய்க்கட்டும்!" என்றான்.  
 இந்தச் சூளுரையால் சோழன் விளக்கும் செய்தி;  
 இழிதகை விலைமகளை உயர்ந்தோர் நாடார் என்பதாம்!  
