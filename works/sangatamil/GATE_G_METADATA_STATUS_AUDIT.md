@@ -1,5 +1,8 @@
 # சங்கத் தமிழ் — Gate G Metadata / Status Audit
 
+> **CURRENT AUTHORITATIVE CHECKPOINT — 2026-09-20:** A later dedicated WFV cycle supersedes any pre-WFV “not claimed”, “in progress”, legacy `needs-review`, or historical next-activity language below. Fresh physical-source WFV coverage is **497/497 COMPLETE**; Tamil is **496 verified / 0 needs-review / 1 source-limited partial (scan 8)**; visual fidelity is **496 verified / 1 needs-review**; WFV-001 is **REJECTED / canonical retained**; WFV-002..WFV-056 are **55/55 USER ADJUDICATED / CLOSED**; pending WFV rows are **0**. Maintained English is **RELEASE COMPLETE / CLOSED — 496 release-ready + 1 source-limited (scan 8) / 0 blocked**. Historical checkpoint text below remains audit evidence only.
+
+
 **Status: COMPLETE / PASS**
 
 - date: **2026-09-16**
