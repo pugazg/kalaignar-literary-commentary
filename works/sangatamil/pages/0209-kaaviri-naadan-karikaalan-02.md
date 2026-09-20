@@ -4,11 +4,11 @@ printed_page: "196"
 work: "sangatamil"
 section: "காவிரிநாடன் கரிகாலன்!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "R21 WFV-026: source places existing `கருகியதாம்!` immediately after `பொறித் துகள் பட்டுக் குழந்தை வளவன் கால் சற்றுக்`; canonical materially moves `கருகியதாம்!` after `கருகிய காலின் கறுப்புத் தழும்பும் - கிழவன் / கண்ணுக்கோர் அழகாய்த் தோன்றியதால்`. Canonical placement remains unchanged pending user adjudication."
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "WFV user adjudication complete for scan 209; WFV-026 user-authorized correction applied; page verified."
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; WFV user-adjudicated"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 208
 continues_to_scan: 211
@@ -47,9 +47,9 @@ continues_to_scan: 211
 வெறுப்புறு பகைவர் சிலர் உயிரையும் போக்கி  
 பொறுப்புடை பணியினைக் கிழவன் ஆற்றியபோது - தீப்  
 பொறித் துகள் பட்டுக் குழந்தை வளவன் கால் சற்றுக்  
-கருகிய காலின் கறுப்புத் தழும்பும் - கிழவன்  
-கண்ணுக்கோர் அழகாய்த் தோன்றியதால்  
 <div align="right">கருகியதாம்!</div>
+கருகிய காலின் கறுப்புத் தழும்பும் - கிழவன்  
+கண்ணுக்கோர் அழகாய்த் தோன்றியதால்
 
 <!-- Gate B restores File5 wording and source-supported carryover placement for பிள்ளை, எண்ணியெண்ணி, and கருகியதாம்!. -->
 <!-- மூல ஸ்கேன் பக்கம்: 209; அச்சுப் பக்கம்: 196 -->

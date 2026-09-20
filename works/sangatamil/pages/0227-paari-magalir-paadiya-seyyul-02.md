@@ -4,20 +4,20 @@ printed_page: "214"
 work: "sangatamil"
 section: "பாரி மகளிர் பாடிய செய்யுள்"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "R23 WFV-030/WFV-031: source places existing `முனைந்தார்.` immediately after `பெண்களைத் தனது பொறுப்பில் காத்திடத் துணிந்து`, while canonical materially moves it after `சுவைத்துவிட்டுத்`; source also reads `தமிழாய்ந்த தமிழ் மகனும் கபிலர் பிரானை` against canonical `தமிழாய்ந்த தமிழ் மகனாம் கபிலர் பிரானை`. Canonical wording/placement remains unchanged pending user adjudication."
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "WFV user adjudication complete for scan 227; WFV-030 user-authorized correction applied; WFV-031 repository/Gemini retained; page verified."
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; WFV user-adjudicated"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 226
 continues_to_scan: 229
 ---
 கண்களை மறைத்துக் கபிலர் எனும் புலவர் பிரான் அந்தப்  
 பெண்களைத் தனது பொறுப்பில் காத்திடத் துணிந்து  
+முனைந்தார்.  
 நண்பர்க்கு நல்வாழ்வு வாய்த்தபோது அருகிருந்து  
 <div align="right">சுவைத்துவிட்டுத்</div>  
-முனைந்தார்.  
 துன்பத்தால் துயருறும்போழ்து தொலைவில் ஓடுதல்  
 துரோகமென்பதை  
 எண்ணியும் பார்க்கா பிறவிகள் சிலபேர்  

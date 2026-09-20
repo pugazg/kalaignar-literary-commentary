@@ -4,11 +4,11 @@ printed_page: "202"
 work: "sangatamil"
 section: "இசையாகிவிட்டவள்!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "R22 WFV-028: source places existing `நோக்கி.` immediately after `கோதையாம் அத்தோழி; கொஞ்சமும் அஞ்சாமல் அவனை`; canonical materially moves it after `அணுப்போதும் பிரியாமல் தலைவி அருகிருக்க`. Canonical placement remains unchanged pending user adjudication."
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "WFV user adjudication complete for scan 215; WFV-028 user-authorized correction applied; page verified."
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; WFV user-adjudicated"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 214
 continues_to_scan: 217
@@ -18,6 +18,7 @@ continues_to_scan: 217
 செய்தான்!  
 குறும்பாகப் பேசுவதில் குமரருக்கு ஈடு கொடுக்கும்  
 கோதையாம் அத்தோழி; கொஞ்சமும் அஞ்சாமல் அவனை  
+நோக்கி.  
 "கரும்பனைய தலைவியைச் சந்திக்க முடியாமல்  
 கார்த்திகைப் பிறை காண்பதுபோல் என்றோ ஒருநாள்;  
 காணுகின்ற நிலையாலே பெருங் கவலை நீயுற்று  
@@ -30,7 +31,6 @@ continues_to_scan: 217
 அப் பொய்கை நீரின் நடுவிலே நின்றுகொண்டு  
 'அப்பப்பா; தாகவிடாய் தாங்கவில்லை' என்பது போல்  
 அணுப்போதும் பிரியாமல் தலைவி அருகிருக்க  
-நோக்கி.  
 அவசரம் ஏன்; நேரம் - காலம் -தெரியாமல்" எனக் கேட்டாள்..  
 "தாகம் தணிப்பதற்குத் தகுந்த நேரம் எதுவென்று; உன்  
 தலைவியிடம் குறித்துக் கூறிவிட்டுப் போ! அதனையவள்  

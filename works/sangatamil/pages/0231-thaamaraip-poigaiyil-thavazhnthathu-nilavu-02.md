@@ -4,11 +4,11 @@ printed_page: "218"
 work: "sangatamil"
 section: "தாமரைப் பொய்கையில் (?) தவழ்ந்தது நிலவு!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "R24 WFV-033..WFV-037: source/canonical material order differs around `திருமலியும்...` / `கருவிழிகள்...`; canonical has an extra standalone `பின்`; source positions existing `இந்த` and `என்` earlier than canonical; canonical `மருந்து பெறத்` differs from source `மருந்து பெற்ற`. Canonical wording/placement remains unchanged pending user adjudication."
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "WFV user adjudication complete for scan 231; WFV-033 user-authorized correction applied; WFV-034 user-authorized correction applied; WFV-035 user-authorized correction applied; WFV-036 user-authorized correction applied; WFV-037 repository/Gemini retained; page verified."
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; WFV user-adjudicated"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 230
 continues_to_scan: 233
@@ -16,12 +16,11 @@ continues_to_scan: 233
 'இருமன்னர் எதிர்ப்பதாலே அஞ்சுகின்றேன் மன்னா ;  
 <div align="right">அவர்பால்</div>  
 பெரும்படைகள் உண்டென்று அறிவதாலே சற்று சிந்திப்பீர் கண்ணா என  
-கருவிழிகள் நீர்மேல் மிதக்க அவனைத் தடுத்துப் பார்த்தாள்!  
 திருமலியும் முகமுடைய பெருங்கோப் பெண்டு  
+கருவிழிகள் நீர்மேல் மிதக்க அவனைத் தடுத்துப் பார்த்தாள்!  
 "என்னை என்ன செய்யச் சொல்கின்றாய் தேவி?  
 பொன்னை, பொருளை, இப்பூமியை, உன்னைக் காப்பதற்கு;  
 முழங்கால் வளைத்து முடித்தலையை, மாற்றார் முன்  
-<div align="right">பின்</div>  
 சாய்த்திடவோ; பின்  
 முகத்திலொரு மீசை எனக்கெதற்குச் செப்பிடுவாய்?  
 வாள் பிடித்துச் செத்து நெடும்புகழை ஏட்டில் நட்டலின்றி;  
@@ -29,15 +28,15 @@ continues_to_scan: 233
 வால்பிடித்து வாழ்ந்து மறைந்தால் காரி உமிழுமே உலகம் நம்  
 கல்லறையில்!"  
 கனல் பறக்கச் சிங்க ஏறாய்ச் சிலிர்த்தவனின் தோள் சாய்ந்து;  
-அனல் தணித்து உம்மை அடிமையாகச் சொல்லவில்லை அத்தான்  
+அனல் தணித்து உம்மை அடிமையாகச் சொல்லவில்லை அத்தான் - இந்த  
 மணற்பரப்பில் "மண்டியிடல்'" எனும் சொற்றொடரை  
 மனிதரில் பதர்கூட எழுதிடத் தயங்கி நிற்பான்!  
 மாவீரர் நீங்கள் - மாற்றாரைப் புறங்காணச் செய்யுங்கள்  
+<div align="right">என்</div>  
 மடிமீது தலைவைத்து விழுப்புண்களுக்கு மருந்து பெறத்  
 திரும்புங்கள்!  
-குவித்துக் கொண்டிருக்கும் உதடுகளும் இரு குன்றுகளும் இந்த  
+குவித்துக் கொண்டிருக்கும் உதடுகளும் இரு குன்றுகளும்  
 தவித்துக் கொண்டிருக்குமத்தான் ஒத்தடம் தந்திடவே!  
-<div align="right">என்</div>  
 தேனே, மானேயென்று என் தேகமெல்லாம் முத்த மீந்தவர்க்கு  
 நானே தருகின்றேன் போர்வாளை; புறப்படுங்கள், பொல்லாப்  
 பகை வெட்டிச் சாய்க்க!''  

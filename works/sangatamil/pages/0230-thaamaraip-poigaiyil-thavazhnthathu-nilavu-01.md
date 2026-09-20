@@ -4,11 +4,11 @@ printed_page: "217"
 work: "sangatamil"
 section: "தாமரைப் பொய்கையில் (?) தவழ்ந்தது நிலவு!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "R23 WFV-032: canonical omits source-visible `தமிழ்ப்` in `புண்களை மார்பில் ஆரமாய் அணிந்த - தமிழ்ப் / பண்புடை வீரன்...`; lexical wording remains unchanged pending user adjudication. C10-002 `அந்துவன் சாத்தனையும் ஆதன் அழிசையையும்` remains protected."
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "WFV user adjudication complete for scan 230; WFV-032 user-authorized correction applied; page verified."
 language: "ta"
-transcription_method: "Gemini-locked lexical wording with user-authorized C2 source correction"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 source correction; WFV user-adjudicated"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_to_scan: 231
 ---
@@ -19,7 +19,7 @@ continues_to_scan: 231
   
 தண் புனல் வைகை தவழ்ந்திடும் மண்ணில்  
 பெண்குலக் கண்மணி பெருங்கோப் பெண்டு - விழுப்  
-புண்களை மார்பில் ஆரமாய் அணிந்த  
+புண்களை மார்பில் ஆரமாய் அணிந்த - தமிழ்ப்  
 பண்புடை வீரன் பூதப் பாண்டிய வேந்தனைக்  
 கொழுநனாய்க் கொண்டு குடும்ப விளக்காய்ப்  
 பழுதிலா மனையறப் பணிகளை ஏற்று  

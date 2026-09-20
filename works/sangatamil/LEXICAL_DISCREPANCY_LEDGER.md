@@ -2277,7 +2277,7 @@ Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R20_SCANS_191_200.md`.
 | ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
 |---|---:|---:|---|---|---|---|
 | WFV-025 | 205 | 192 | `முடிவிதுதான் பெற்றோரும் உற்றாரும் எடுத்ததென அவளிடத்தே` | source visibly reads `முடிவிதுதான் பெற்றோரும் உற்றோரும் எடுத்ததென அவளிடத்தே` | `likely-gemini-error` | **USER ADJUDICATED — GEMINI/REPOSITORY CORRECT; canonical retained; scan 205 verified** |
-| WFV-026 | 209 | 196 | canonical places existing `கருகியதாம்!` after `கருகிய காலின் கறுப்புத் தழும்பும் - கிழவன் / கண்ணுக்கோர் அழகாய்த் தோன்றியதால்` | source places `கருகியதாம்!` immediately after `பொறித் துகள் பட்டுக் குழந்தை வளவன் கால் சற்றுக்`; the two following lines then continue afterward | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical placement unchanged; scan 209 remains needs-review** |
+| WFV-026 | 209 | 196 | canonical places existing `கருகியதாம்!` after `கருகிய காலின் கறுப்புத் தழும்பும் - கிழவன் / கண்ணுக்கோர் அழகாய்த் தோன்றியதால்` | source places `கருகியதாம்!` immediately after `பொறித் துகள் பட்டுக் குழந்தை வளவன் கால் சற்றுக்`; the two following lines then continue afterward | `token-placement / likely-gemini-error` | **USER ADJUDICATED / APPLIED — source token placement applied; scan 209 verified** |
 
 ### R21 findings
 
@@ -2311,9 +2311,9 @@ Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R21_SCANS_201_210.md`.
 
 | ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
 |---|---:|---:|---|---|---|---|
-| WFV-027 | 213 | 200 | `பெருமகனாம் கரிகால் பெருவளத்தான்` | source visibly reads `பெருமகனும் கரிகால் பெருவளத்தான்` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 213 remains needs-review** |
-| WFV-028 | 215 | 202 | canonical places existing `நோக்கி.` after `அணுப்போதும் பிரியாமல் தலைவி அருகிருக்க` | source places `நோக்கி.` immediately after `கோதையாம் அத்தோழி; கொஞ்சமும் அஞ்சாமல் அவனை` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical placement unchanged; scan 215 remains needs-review** |
-| WFV-029 | 219 | 206 | `முடிகள் களத்தின் குருதியில் நனைந்து மிதந்திடவே` | source visibly reads `முடிகள் களத்தின் குருதியில் நீந்தி மிதந்திடவே` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 219 remains needs-review** |
+| WFV-027 | 213 | 200 | `பெருமகனாம் கரிகால் பெருவளத்தான்` | source visibly reads `பெருமகனும் கரிகால் பெருவளத்தான்` | `likely-gemini-error` | **USER ADJUDICATED — GEMINI/REPOSITORY CORRECT; canonical retained; scan 213 verified** |
+| WFV-028 | 215 | 202 | canonical places existing `நோக்கி.` after `அணுப்போதும் பிரியாமல் தலைவி அருகிருக்க` | source places `நோக்கி.` immediately after `கோதையாம் அத்தோழி; கொஞ்சமும் அஞ்சாமல் அவனை` | `token-placement / likely-gemini-error` | **USER ADJUDICATED / APPLIED — source token placement applied; scan 215 verified** |
+| WFV-029 | 219 | 206 | `முடிகள் களத்தின் குருதியில் நனைந்து மிதந்திடவே` | source visibly reads `முடிகள் களத்தின் குருதியில் நீந்தி மிதந்திடவே` | `likely-gemini-error` | **USER ADJUDICATED — GEMINI/REPOSITORY CORRECT; canonical retained; scan 219 verified** |
 
 ### R22 findings
 
@@ -2347,9 +2347,9 @@ Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R22_SCANS_211_220.md`.
 
 | ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
 |---|---:|---:|---|---|---|---|
-| WFV-030 | 227 | 214 | canonical places existing `முனைந்தார்.` after `சுவைத்துவிட்டுத்` | source places `முனைந்தார்.` immediately after `பெண்களைத் தனது பொறுப்பில் காத்திடத் துணிந்து` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical placement unchanged; scan 227 remains needs-review** |
-| WFV-031 | 227 | 214 | `தமிழாய்ந்த தமிழ் மகனாம் கபிலர் பிரானை` | source visibly reads `தமிழாய்ந்த தமிழ் மகனும் கபிலர் பிரானை` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; same scan-227 hold** |
-| WFV-032 | 230 | 217 | canonical `புண்களை மார்பில் ஆரமாய் அணிந்த / பண்புடை வீரன்...` | source visibly prints `புண்களை மார்பில் ஆரமாய் அணிந்த - தமிழ்ப் / பண்புடை வீரன்...` | `missing-source-token / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 230 remains needs-review** |
+| WFV-030 | 227 | 214 | canonical places existing `முனைந்தார்.` after `சுவைத்துவிட்டுத்` | source places `முனைந்தார்.` immediately after `பெண்களைத் தனது பொறுப்பில் காத்திடத் துணிந்து` | `token-placement / likely-gemini-error` | **USER ADJUDICATED / APPLIED — source token placement applied; scan 227 verified** |
+| WFV-031 | 227 | 214 | `தமிழாய்ந்த தமிழ் மகனாம் கபிலர் பிரானை` | source visibly reads `தமிழாய்ந்த தமிழ் மகனும் கபிலர் பிரானை` | `likely-gemini-error` | **USER ADJUDICATED — GEMINI/REPOSITORY CORRECT; canonical retained; scan 227 verified** |
+| WFV-032 | 230 | 217 | canonical `புண்களை மார்பில் ஆரமாய் அணிந்த / பண்புடை வீரன்...` | source visibly prints `புண்களை மார்பில் ஆரமாய் அணிந்த - தமிழ்ப் / பண்புடை வீரன்...` | `missing-source-token / likely-gemini-error` | **USER ADJUDICATED / APPLIED — source token `தமிழ்ப்` restored; scan 230 verified** |
 
 ### R23 findings
 
@@ -2385,11 +2385,11 @@ Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R23_SCANS_221_230.md`.
 
 | ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
 |---|---:|---:|---|---|---|---|
-| WFV-033 | 231 | 218 | canonical places `கருவிழிகள் நீர்மேல் மிதக்க அவனைத் தடுத்துப் பார்த்தாள்!` before `திருமலியும் முகமுடைய பெருங்கோப் பெண்டு` | source places `திருமலியும் முகமுடைய பெருங்கோப் பெண்டு` before the `கருவிழிகள்...` line | `token-order / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical order unchanged; scan 231 remains needs-review** |
-| WFV-034 | 231 | 218 | canonical contains a standalone `பின்` before `சாய்த்திடவோ; பின்` | source supports only the `பின்` in `சாய்த்திடவோ; பின்` | `extra-canonical-token / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; same scan-231 hold** |
-| WFV-035 | 231 | 218 | canonical places existing `இந்த` after `குவித்துக் கொண்டிருக்கும் உதடுகளும் இரு குன்றுகளும்` | source places `இந்த` after `அத்தான் —` before `மணற்பரப்பில்` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — token not moved; same scan-231 hold** |
-| WFV-036 | 231 | 218 | canonical places existing `என்` immediately before `தேனே, மானே...` | source places `என்` after `மாற்றாரைப் புறங்காணச் செய்யுங்கள் —` before `மடிமீது` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — token not moved; same scan-231 hold** |
-| WFV-037 | 231 | 218 | `மடிமீது தலைவைத்து விழுப்புண்களுக்கு மருந்து பெறத்` | source visibly reads `மடிமீது தலைவைத்து விழுப்புண்களுக்கு மருந்து பெற்ற` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; same scan-231 hold** |
+| WFV-033 | 231 | 218 | canonical places `கருவிழிகள் நீர்மேல் மிதக்க அவனைத் தடுத்துப் பார்த்தாள்!` before `திருமலியும் முகமுடைய பெருங்கோப் பெண்டு` | source places `திருமலியும் முகமுடைய பெருங்கோப் பெண்டு` before the `கருவிழிகள்...` line | `token-order / likely-gemini-error` | **USER ADJUDICATED / APPLIED — source line order applied; scan 231 verified** |
+| WFV-034 | 231 | 218 | canonical contains a standalone `பின்` before `சாய்த்திடவோ; பின்` | source supports only the `பின்` in `சாய்த்திடவோ; பின்` | `extra-canonical-token / likely-gemini-error` | **USER ADJUDICATED / APPLIED — extra canonical token removed; scan 231 verified** |
+| WFV-035 | 231 | 218 | canonical places existing `இந்த` after `குவித்துக் கொண்டிருக்கும் உதடுகளும் இரு குன்றுகளும்` | source places `இந்த` after `அத்தான் —` before `மணற்பரப்பில்` | `token-placement / likely-gemini-error` | **USER ADJUDICATED / APPLIED — source token placement applied; scan 231 verified** |
+| WFV-036 | 231 | 218 | canonical places existing `என்` immediately before `தேனே, மானே...` | source places `என்` after `மாற்றாரைப் புறங்காணச் செய்யுங்கள் —` before `மடிமீது` | `token-placement / likely-gemini-error` | **USER ADJUDICATED / APPLIED — source token placement applied; scan 231 verified** |
+| WFV-037 | 231 | 218 | `மடிமீது தலைவைத்து விழுப்புண்களுக்கு மருந்து பெறத்` | source visibly reads `மடிமீது தலைவைத்து விழுப்புண்களுக்கு மருந்து பெற்ற` | `likely-gemini-error` | **USER ADJUDICATED — GEMINI/REPOSITORY CORRECT; canonical retained; scan 231 verified** |
 | WFV-038 | 233 | 220 | canonical begins page with `அன்றிப் / போர் புரிந்து வெற்றி காண்போம்` | source places `அன்றிப்` after `போர் புரிந்து வெற்றி காண்போம்` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — token not moved; scan 233 remains needs-review** |
 | WFV-039 | 233 | 220 | canonical places `பெயர் எடுப்பேன்!` after `மாசு வந்து என்னைப் பற்றிக்கொள்ள;` | source places `பெயர் எடுப்பேன்!` immediately after `ஆழ்ந்த நட்பாளர் அனைவரையும் இழந்திட்ட பாவியெனும்` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — token not moved; same scan-233 hold** |
 
@@ -3170,6 +3170,16 @@ Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R49_SCANS_481_490.md`.
 - affected physical pages cleared — **8** (174, 177, 179, 183, 189, 192, 195, 205);
 - cumulative user-reviewed WFV rows — **24**;
 - pending WFV rows remaining — **31 across 24 physical pages**.
+
+## User adjudication — third reviewed set
+
+**Status: APPLIED / CLOSED for 12 reviewed WFV rows**
+
+- **apply correction** — WFV-026, WFV-028, WFV-030, WFV-032, WFV-033, WFV-034, WFV-035, WFV-036;
+- **retain repository/Gemini** — WFV-027, WFV-029, WFV-031, WFV-037;
+- affected physical pages cleared — **7** (209, 213, 215, 219, 227, 230, 231);
+- cumulative user-reviewed WFV rows — **36**;
+- pending WFV rows remaining — **19 across 17 physical pages**.
 
 ## Restart R50 — scans 491–497
 
