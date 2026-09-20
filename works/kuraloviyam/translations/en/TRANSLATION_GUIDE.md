@@ -4,6 +4,8 @@ This guide governs the **project-created English translation** of the audited Ta
 
 It follows the repository-wide literary-commentary workflow while preserving Kuraloviyam's own source structure.
 
+> **CURRENT AUTHORITATIVE CHECKPOINT — 2026-09-20:** Maintained English is **RELEASE COMPLETE / CLOSED across Parts 001–006**: **662 release-ready + 4 source-limited (scans 13, 14, 15, 19) / 0 blocked**. There is no active page-batched frontier. Historical per-Part workflow notes below remain evidence of earlier checkpoints.
+
 ## 1. Translation identity
 
 This English layer is a project translation. It is **not** a publisher-issued or official English edition.
@@ -221,7 +223,7 @@ Part 001 covers overall scans 1–111.
 
 Historical Part 001 batch sizes are retained in the durable status/review records and are not retroactively changed by the current 37-page directive.
 
-## 14. Part 002 current English record
+## 14. Part 002 closed English record
 
 Part 002 covers scans **112–222 / printed 95–205**.
 
@@ -240,9 +242,9 @@ The Part-level review passed inventory/alignment, exact status state, terminolog
 
 Durable release report: `reviews/PART_002_ENGLISH_RELEASE_REPORT.md` — **APPROVED / CLOSED**. All scans **112–222** are now `release-ready`; the release changed only the English status field and changed no approved wording or Tamil record.
 
-The internal Part ending at scan **222** is closed. The external **222→223** split boundary remains deferred until Part 003 intake.
+The internal Part ending at scan **222** is closed. The external **222→223** split boundary was subsequently resolved as **CLEAN** during Part 003 intake.
 
-Final Part 002 checkpoint: **PASS / CLOSED**. The next activity is **Part 003 source intake when the controlling source is supplied**, beginning with source identity and the real 222→223 boundary before continuing at overall scan **223**.
+Final Part 002 checkpoint: **PASS / CLOSED**. Historical then-next activity was Part 003 intake; that work and all later Parts are now complete.
 
 ## 15. Part 003 closed English record
 
@@ -264,7 +266,7 @@ Durable records:
 - `reviews/PART_003_ENGLISH_RELEASE_REPORT.md`;
 - `../../PART_003_FINAL_CLOSURE.md`.
 
-All release page changes were status-token-only; approved English wording and Tamil archival records were unchanged. The internal Part ending at scan **333** is closed. External **333→334** remains deferred until Part 004 source intake.
+All release page changes were status-token-only; approved English wording and Tamil archival records were unchanged. The internal Part ending at scan **333** is closed. External **333→334 is CLEAN / source-resolved** from Part 004 intake.
 
 Part 004 has now completed source intake and the full Tamil archival workflow.
 
@@ -288,9 +290,7 @@ Durable records:
 - `reviews/PART_004_ENGLISH_RELEASE_REPORT.md`;
 - `../../PART_004_FINAL_CLOSURE.md`.
 
-All release page changes were status-token-only. Approved English wording and Tamil archival records were unchanged by release/final closure. Scan **444 / printed 427** remains source-open and external **444→445** remains deferred until the actual Part 005 controlling source is supplied.
-
-Part 005 English work must not begin before Part 005 source intake and Tamil archival processing establish the controlling source and adjacent boundary.
+All release page changes were status-token-only. Approved English wording and Tamil archival records were unchanged by release/final closure. External **444→445 is a GENUINE CONTINUATION / source-resolved** from the completed Part 005 intake. Historical pre-Part-005 gating is therefore closed.
 
 
 ## 17. Part 005 closed English record

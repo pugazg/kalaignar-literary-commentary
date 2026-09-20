@@ -1,5 +1,17 @@
 # English Translation Status — Kuraloviyam
 
+## Current authoritative state — 2026-09-20
+
+- Parts **001–006** — **RELEASE COMPLETE / CLOSED**;
+- English records — **666/666**;
+- `release-ready` — **662**;
+- `source-limited` — **4** (scans **13, 14, 15, 19**);
+- `blocked` — **0**;
+- active page-batched English frontier — **none**;
+- derived section/navigation layer — **S1–S3 COMPLETE / PASS**.
+
+Historical batch sections below retain their gate-time status distributions as audit evidence.
+
 ## Translation identity
 
 - type: **project-created English translation**

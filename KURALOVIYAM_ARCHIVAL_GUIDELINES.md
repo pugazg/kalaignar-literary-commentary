@@ -1,5 +1,7 @@
 # Kuraloviyam — Archival Guidelines
 
+> **CURRENT AUTHORITATIVE CHECKPOINT — 2026-09-20:** Kuraloviyam Parts **001–006 / scans 1–666** are fully closed. Tamil = **662 verified + 4 partial/source-limited (scans 13, 14, 15, 19)** with **666/666 visual fidelity verified**; maintained English = **662 release-ready + 4 source-limited / 0 blocked**; derived sections **S1–S3 are COMPLETE / PASS**; required next activity = **none**. Historical batch/frontier text below remains audit evidence only.
+
 This is the work-specific operating guide for `works/kuraloviyam/` in `pugazg/kalaignar-literary-commentary`.
 
 It supplements `LITERARY_COMMENTARY_PROCESSING_GUIDE.md`. The controlling scan and the stricter source-preservation rule always govern.
@@ -116,7 +118,7 @@ The cross-Part boundary itself is checked only when the adjacent Part source bec
 
 ## 9. Batch discipline
 
-Default source-dependent work may use smaller batches when no user override exists. **Part 004 Pass 1 and Pass 2A used 11 physical scans per normal iteration. For Part 004 Pass 3, the user-directed cadence from Batch 7 onward was 30 physical scans per normal iteration. For active Part 005 Pass 3, Batches 1–3 used 11 scans, Batches 4–5 used 12 scans, and the user-directed cadence from Batch 6 onward is 25 physical scans per normal iteration**, with a shorter final remainder when fewer than 25 scans remain.
+Default source-dependent work may use smaller batches when no user override exists. Historical completed cadences are preserved as evidence: **Part 004 Pass 1 and Pass 2A used 11 physical scans per normal iteration; Part 004 Pass 3 used 30 scans from Batch 7 onward; Part 005 Pass 3 used 11 scans for Batches 1–3, 12 scans for Batches 4–5, and 25 scans from Batch 6 onward**, with a shorter final remainder when fewer pages remained. There is **no active Kuraloviyam page-batched frontier** after Part 006 closure.
 
 For every source-dependent batch:
 

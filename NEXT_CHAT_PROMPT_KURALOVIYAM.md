@@ -2,13 +2,22 @@
 
 ## Scope note
 
-This file intentionally tracks Kuraloviyam only. Kuraloviyam remains closed; do not repurpose this prompt as the repository-wide active-work prompt. Current Sangath Tamil continuation is maintained separately in NEXT_CHAT_PROMPT_SANGATH_TAMIL.md.
+This file intentionally tracks Kuraloviyam only. Kuraloviyam remains closed; do not repurpose this prompt as the repository-wide active-work prompt. Sangatamil controls are maintained separately in `NEXT_CHAT_PROMPT_SANGATH_TAMIL.md`; both maintained works are currently closed.
 
 Continue in `pugazg/kalaignar-literary-commentary`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Maintained corpus state
 
 The six-Part archival + maintained English workflow remains **FULLY CLOSED**.
+
+Current whole-work disposition:
+
+- physical scans — **1–666 complete**;
+- Tamil — **662 verified + 4 partial/source-limited** (scans **13, 14, 15, 19**);
+- Tamil visual fidelity — **666/666 verified**;
+- maintained English — **662 release-ready + 4 source-limited**;
+- blocked — **0**;
+- Parts **001–006** — all closed.
 
 Do not modify closed Tamil or English page records unless genuinely new source evidence requires reopening.
 

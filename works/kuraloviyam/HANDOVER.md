@@ -2,11 +2,11 @@
 
 Repository: `pugazg/kalaignar-literary-commentary`  
 Branch: `main`  
-Active work: `works/kuraloviyam/`
+Maintained work: `works/kuraloviyam/`
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable Kuraloviyam work. Parts **001–005 are closed**; do not reopen them unless a genuinely new source/provenance/fidelity issue appears. Part 006 Tamil is **ARCHIVAL-READY / CLOSED — 111/111 textual verified + 111/111 visual verified / 0 exceptions**. Part 006 English drafting is **COMPLETE / CLOSED 111/111** under the current **37-page** cadence. Part 006 English source-check is **COMPLETE / CLOSED 111/111**; the exact live frontier is Glossary Reconciliation GR1.
+Fetch live `main` first and preserve newer durable Kuraloviyam work. Parts **001–006 are fully closed**. Whole-work disposition: **1–666 complete; Tamil 662 verified + 4 partial/source-limited (scans 13, 14, 15, 19), visual 666/666 verified; maintained English 662 release-ready + 4 source-limited / 0 blocked; derived sections S1–S3 COMPLETE / PASS; no required next activity**. Do not reopen a closed Part unless genuinely new source/provenance/fidelity evidence or an explicit new derivative requires it.
 
 ## Mandatory startup
 
@@ -18,17 +18,14 @@ Read before changing anything:
 4. `NEXT_CHAT_PROMPT_KURALOVIYAM.md`
 5. this file
 6. `works/kuraloviyam/README.md`
-7. `works/kuraloviyam/PART_003_AUDIT.md`
-8. `works/kuraloviyam/PART_003_FINAL_STATUS_SYNC.md`
-9. `works/kuraloviyam/PART_003_DOCUMENTATION_SYNC.md`
-10. `works/kuraloviyam/PART_003_TAMIL_ARCHIVAL_READY.md`
-11. `works/kuraloviyam/translations/en/README.md`
-12. `works/kuraloviyam/translations/en/TRANSLATION_GUIDE.md`
-13. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
-14. `works/kuraloviyam/translations/en/GLOSSARY.md`
-15. `works/kuraloviyam/PART_003_FINAL_CLOSURE.md`
-16. `works/kuraloviyam/SOURCE_INTAKE_PART_004.md`
-17. `works/kuraloviyam/PART_004_PASS1_PROGRESS.md`
+7. `works/kuraloviyam/PART_006_FINAL_CLOSURE.md`
+8. `works/kuraloviyam/translations/en/README.md`
+9. `works/kuraloviyam/translations/en/TRANSLATION_GUIDE.md`
+10. `works/kuraloviyam/translations/en/TRANSLATION_STATUS.md`
+11. `works/kuraloviyam/sections/SECTIONS_BUILD_STATUS.md`
+12. `works/kuraloviyam/sections/S3_COMPLETION_REPORT.md`
+
+> Historical workflow detail below preserves the sequence of earlier Part/gate frontiers. The current authoritative state above controls.
 
 ## Durable closed state
 

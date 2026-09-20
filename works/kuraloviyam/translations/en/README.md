@@ -10,6 +10,15 @@ Every English page declares:
 translation_type: "project_translation"
 ```
 
+## Current maintained-English closure
+
+- English records — **666/666 present**;
+- `release-ready` — **662**;
+- `source-limited` — **4** (Part 001 scans **13, 14, 15, 19**);
+- `blocked` — **0**;
+- Parts **001–006** — **RELEASE COMPLETE / CLOSED**;
+- active page-batched frontier — **none**.
+
 ## Authority
 
 Normal translation/review work uses the audited Tamil page records under `../../pages/`. The original Tamil scan remains the ultimate source authority if a new provenance or fidelity problem is discovered, but a closed Tamil Part is not routinely reopened.
@@ -52,7 +61,7 @@ Part 003 covers scans **223–333 / printed 206–316**, 111 physical pages. Tam
 
 Durable Tamil closure: `../../PART_003_TAMIL_ARCHIVAL_READY.md`.
 
-Incoming **222→223 is CLEAN**. Internal **332→333** is a genuine continuation closed within Part 003. External **333→334** remains deferred until Part 004 source intake.
+Incoming **222→223 is CLEAN**. Internal **332→333** is a genuine continuation closed within Part 003. External **333→334 is CLEAN / source-resolved** from the completed Part 004 intake.
 
 ## Part 003 English — FIRST-PASS DRAFTING COMPLETE
 
@@ -281,7 +290,7 @@ SC3:
 
 Part 006 English source-check is now **COMPLETE / CLOSED 111/111**.
 
-Current Part-006 English inventory:
+Historical Part-006 pre-release English inventory:
 
 - `source-checked` — **111**;
 - `draft` — **0**;
