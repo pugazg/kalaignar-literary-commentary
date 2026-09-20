@@ -7,8 +7,8 @@ section: "தலை கேட்டான் தம்பி!"
 language: "en"
 translation_type: "project_translation"
 status: "editorial-reviewed"
-source_tamil_status: "needs-review"
-source_tamil_visual_fidelity: "needs-review"
+source_tamil_status: "verified"
+source_tamil_visual_fidelity: "verified"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
 ---
 
@@ -34,8 +34,9 @@ His younger brother,
 Ilaveliman,
 now lives there,
 
-and when asked to give,
-he speaks a cruel reply.
+and refuses to give.
+
+He speaks a cruel reply.
 
 Guardian of rich Mudiramalai,
 where prosperity pours!
@@ -48,8 +49,6 @@ I need one elephant.
 
 Let me tie it
 to his guard-tree.
-
-He refuses.
 
 That base man
 must be made

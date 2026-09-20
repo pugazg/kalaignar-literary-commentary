@@ -7,8 +7,8 @@ section: "தகரோன் தந்த கனி!"
 language: "en"
 translation_type: "project_translation"
 status: "editorial-reviewed"
-source_tamil_status: "needs-review"
-source_tamil_visual_fidelity: "needs-review"
+source_tamil_status: "verified"
+source_tamil_visual_fidelity: "verified"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
 ---
 
@@ -60,7 +60,7 @@ translation_basis: "maintained canonical Tamil archival record after Gate C2; co
 **Porunan** = warrior.  
 **Vaikal** = one day.  
 **Valiththa** = made / fashioned.  
-**Valampadu vaay vaal** = an unfailing sword.  
+**Valampadu vaay vaal** = a sword that unfailingly brings victory.  
 **Onnaar** = enemies.  
 **Aarkali naravu** = liquor that resounds with revelry.
 

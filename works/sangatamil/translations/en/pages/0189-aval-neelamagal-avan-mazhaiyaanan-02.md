@@ -7,8 +7,8 @@ section: "அவள் நிலமானாள்; அவன் மழையா
 language: "en"
 translation_type: "project_translation"
 status: "editorial-reviewed"
-source_tamil_status: "needs-review"
-source_tamil_visual_fidelity: "needs-review"
+source_tamil_status: "verified"
+source_tamil_visual_fidelity: "verified"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
 ---
 
@@ -49,16 +49,16 @@ Does not a song
 need music
 before it can be born?
 
-And before
+<div align="right">Just so—</div>
+
+before
 the festival of union
 can begin,
 
 must not sulking
 raise the flag first?
 
-<div align="right">Just so—</div>
-
-that is why
+That is why
 your sulking
 fills me with delight.
 
@@ -94,12 +94,12 @@ to some agreement
 
 my heart—
 
-<div align="right">and I shall tell you!</div>
-
 How shall I describe
 the pleasure
 of the rain of delight
 that pours from it?
+
+<div align="right">and I shall tell you!</div>
 
 Come,
 let us go

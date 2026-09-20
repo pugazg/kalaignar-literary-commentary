@@ -7,8 +7,8 @@ section: "நீர்மகள் நீரினும் குளிர்�
 language: "en"
 translation_type: "project_translation"
 status: "editorial-reviewed"
-source_tamil_status: "needs-review"
-source_tamil_visual_fidelity: "needs-review"
+source_tamil_status: "verified"
+source_tamil_visual_fidelity: "verified"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
 ---
 
@@ -118,7 +118,7 @@ she suffers
 like a deer
 without sheltering shade.
 
-Like a peahen
+Like your peahen
 in its season,
 she wastes away.
 
@@ -129,11 +129,7 @@ across her body
 is hidden;
 on her face
 she shines
-
-<div align="right">like</div>
-<div align="right">your</div>
-
-radiant golden light—
+like radiant golden light—
 
 <!-- Text continues on scan 178. -->
 <!-- Source scan page: 177; printed page: 164 -->

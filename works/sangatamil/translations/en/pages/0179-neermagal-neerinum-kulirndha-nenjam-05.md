@@ -7,8 +7,8 @@ section: "நீர்மகள் நீரினும் குளிர்�
 language: "en"
 translation_type: "project_translation"
 status: "editorial-reviewed"
-source_tamil_status: "needs-review"
-source_tamil_visual_fidelity: "needs-review"
+source_tamil_status: "verified"
+source_tamil_visual_fidelity: "verified"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
 ---
 
@@ -55,8 +55,10 @@ he said.
 why you came today
 and saved my life.
 
-Would that have happened
-without Perungunrur Kizhar?
+Without Perungunrur Kizhar,
+would this joy,
+sweet as rare honey,
+have come to me today?
 
 So, for his joy,
 give him gifts
