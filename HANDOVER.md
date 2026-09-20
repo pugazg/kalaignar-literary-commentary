@@ -56,9 +56,9 @@ Earlier Gate-B/C/F checkpoints remain historical evidence only. Later commits ma
 - Gate H — **COMPLETE / PASS — 104 sections / 115 formal units / 4 note-only / 119 provenance leaves / 0 canonical page changes**
 - Gate I — **COMPLETE / PASS — final synchronization / closure**
 - Gate-G historical page status distribution — **43 verified / 453 needs-review / 1 partial**
-- current Tamil state after fourth WFV user-adjudication set — **488 verified / 8 needs-review / 1 partial**
-- current visual-fidelity state after fourth WFV user-adjudication set — **488 verified / 9 needs-review / 0 missing**
-- user-directed Tamil word-for-word verification — **SOURCE PASS COMPLETE 497/497; WFV USER ADJUDICATION IN PROGRESS**
+- current Tamil state after final WFV user-adjudication set — **496 verified / 0 needs-review / 1 partial**
+- current visual-fidelity state after final WFV user-adjudication set — **496 verified / 1 needs-review / 0 missing**
+- user-directed Tamil word-for-word verification — **COMPLETE / PASS — 497/497 SOURCE PASS / 55/55 WFV USER-ADJUDICATED / 0 PENDING / scan8 source-limited partial**
 - restart R01 scans **1–10** — **COMPLETE / PASS — 0 new lexical discrepancies / WFV-001 rejected / scan8 partial**
 - restart R02 scans **11–20** — **COMPLETE / PASS — 0 new lexical discrepancies / 0 lexical substitutions / 0 page-layer mutations**
 - restart R03 scans **21–30** — **COMPLETE / PASS WITH LEXICAL HOLDS — WFV-006..008 / 0 lexical substitutions / scans 25+30 needs-review**
@@ -112,16 +112,17 @@ Earlier Gate-B/C/F checkpoints remain historical evidence only. Later commits ma
 - first WFV user-adjudication set — **COMPLETE / APPLIED — 13 rows across 12 pages / 8 repository readings retained / 5 corrections applied**
 - second WFV user-adjudication set — **COMPLETE / APPLIED — 11 rows across 8 pages / 10 corrections applied / WFV-025 repository reading retained**
 - third WFV user-adjudication set — **COMPLETE / APPLIED — 12 rows across 7 pages / 8 corrections applied / 4 repository readings retained**
-- fourth WFV user-adjudication set — **COMPLETE / APPLIED — 11 rows across 9 pages / 8 corrections applied / 3 repository readings retained / Tamil 488 verified / 8 needs-review / 1 partial / 8 rows remain across 8 pages**
-- whole-volume word-for-word completion — **NOT YET CLAIMED**
+- fourth WFV user-adjudication set — **COMPLETE / APPLIED — 11 rows across 9 pages / 8 corrections applied / 3 repository readings retained**
+- final WFV user-adjudication set — **COMPLETE / APPLIED — 8 rows across 8 pages / 4 corrections applied / 4 repository readings retained / cumulative 55/55 closed / Tamil 496 verified / 0 needs-review / 1 partial / 0 WFV pending**
+- whole-volume word-for-word verification — **COMPLETE / PASS WITH DOCUMENTED SCAN-8 SOURCE-LIMITED PARTIAL**
 
 The mixed page-level statuses are intentional. Gate C2 resolved all recorded Gate-C discrepancies but did not perform a fresh exhaustive token-by-token reread of every source word.
 
-**Exact active Tamil activity: WFV user adjudication / reconciliation.** The fresh source re-audit is complete at **497/497 scans**. The user has now adjudicated **47 WFV rows across 36 pages** through WFV-048. Across the four reviewed sets, **16 repository/Gemini readings were retained** and **31 corrections were explicitly authorized and applied**. Current state is **488 verified / 8 needs-review / 1 partial** with **8 WFV rows across 8 pages** still pending.
+**Exact active Tamil activity: COMPLETE / CLOSED.** The fresh source re-audit covers **497/497 scans**. All **55 WFV rows (WFV-002 through WFV-056)** have explicit user adjudication; WFV-001 remains rejected/canonical-retained from high-resolution re-audit. Across all five user-reviewed sets, **20 repository/Gemini readings were retained** and **35 corrections were explicitly authorized and applied**. Current Tamil state is **496 verified / 0 needs-review / 1 permanent source-limited partial (scan 8)**. No lexical hold remains.
 
 Mandatory companion control: `works/sangatamil/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Inspect difficult glyphs at enlarged/native resolution, check the 13 known families, and compare same-edition evidence. **Do not correct lexical words directly**: every new lexical/glyph difference goes to `LEXICAL_DISCREPANCY_LEDGER.md` and awaits explicit user adjudication.
 
-**Maintained English release-report gate is PAUSED while the new Tamil word-for-word verification pass is active.** The English layer remains at **496 editorial-reviewed + 1 source-limited (scan 8)**. Tamil corrections discovered by this pass must receive targeted English impact reconciliation before any release approval or `release-ready` promotion.
+**Maintained English release-report gate is UNBLOCKED after completion of Tamil WFV adjudication and targeted English impact reconciliation.** The English layer remains at **496 editorial-reviewed + 1 source-limited (scan 8)**. Tamil corrections discovered by this pass must receive targeted English impact reconciliation before any release approval or `release-ready` promotion.
 
 English controls: `works/sangatamil/translations/en/README.md`, `TRANSLATION_GUIDE.md`, `TRANSLATION_STATUS.md`, and `GLOSSARY.md`.
 
@@ -276,20 +277,21 @@ Durable B20 closure: final scans 476–497 completed with 7 page records changed
 
 # Exact next activity — சங்கத் தமிழ்
 
-Do not restart source auditing. Continue only the user's WFV adjudication / reconciliation workflow.
+Tamil WFV source verification and user adjudication are **COMPLETE / CLOSED**.
 
-The final unresolved rows are:
+Durable final state:
 
-- scan 294 — WFV-049
-- scan 324 — WFV-050
-- scan 334 — WFV-051
-- scan 336 — WFV-052
-- scan 342 — WFV-053
-- scan 414 — WFV-054
-- scan 445 — WFV-055
-- scan 446 — WFV-056
+- source coverage — **497/497 COMPLETE**
+- WFV-001 — **REJECTED / canonical retained**
+- WFV-002..WFV-056 — **55/55 USER ADJUDICATED / CLOSED**
+- pending lexical holds — **0**
+- Tamil — **496 verified / 0 needs-review / 1 source-limited partial**
+- visual — **496 verified / 1 needs-review**
+- scan 8 — permanent source-limited handwritten-facsimile exception
+- English impact reconciliation — **COMPLETE**
+- maintained-English release-report gate — **UNBLOCKED**
 
-Use `works/sangatamil/WFV_DISCREPANCY_COMPARISON.md` as the compact user-review table. Apply only explicit user decisions. Keep the maintained-English release-report gate **PAUSED** until these final rows are dispositioned and targeted English reconciliation is complete.
+Do not restart Tamil source auditing. Next productive work is maintained-English final release/readiness synchronization.
 
 # Completed Thirukkural baseline — DO NOT RESTART
 

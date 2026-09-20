@@ -1,61 +1,43 @@
-# NEXT CHAT PROMPT — சங்கத் தமிழ் / FINAL WFV ADJUDICATION SET
+# NEXT CHAT PROMPT — சங்கத் தமிழ் / POST-WFV FINAL RELEASE READINESS
 
 Continue only from live `main` in `pugazg/kalaignar-literary-commentary`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Source re-audit — COMPLETE
+## Tamil WFV — COMPLETE / CLOSED
 
-Fresh physical source coverage is **497/497 COMPLETE**. Do not restart source auditing.
+Fresh physical source coverage is **497/497 COMPLETE**.
 
-Current state after four user WFV review sets:
+Final state:
 
-- Tamil — **488 verified / 8 needs-review / 1 partial**
-- visual — **488 verified / 9 needs-review**
-- WFV-001 — **REJECTED**
-- cumulative user-reviewed rows — **47 across 36 pages CLOSED**
-- repository/Gemini retained — **16 rows total**
-- corrections applied — **31 rows total**
-- remaining pending — **8 WFV rows across 8 physical pages**
-- maintained-English release-report gate — **PAUSED**
+- Tamil — **496 verified / 0 needs-review / 1 source-limited partial**
+- visual — **496 verified / 1 needs-review**
+- scan 8 — permanent handwritten-facsimile/source-limited partial
+- WFV-001 — **REJECTED / canonical retained**
+- WFV-002 through WFV-056 — **55/55 USER ADJUDICATED / CLOSED**
+- cumulative affected pages cleared — **44**
+- repository/Gemini readings retained — **20**
+- user-authorized corrections applied — **35**
+- pending WFV rows — **0**
+- targeted English impact reconciliation — **COMPLETE**
+- maintained-English release-report gate — **UNBLOCKED**
 
-Fourth reviewed set specifics:
+Final reviewed set:
 
-- corrections — WFV-038, WFV-039, WFV-040, WFV-042, WFV-043, WFV-044, WFV-046, WFV-047
-- repository/Gemini retained — WFV-041, WFV-045, WFV-048
+- repository/Gemini retained — WFV-049, WFV-050, WFV-051, WFV-053
+- corrections applied — WFV-052, WFV-054, WFV-055, WFV-056
 
 ## Mandatory read-first
 
 1. `works/sangatamil/WFV_DISCREPANCY_COMPARISON.md`
 2. `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`
 3. `works/sangatamil/TAMIL_WORD_FOR_WORD_VERIFICATION.md`
-4. `works/sangatamil/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
-5. `works/sangatamil/GEMINI_TEXT_LOCK.md`
-6. `works/sangatamil/README.md`
-7. root `HANDOVER.md`
-8. `works/sangatamil/translations/en/TRANSLATION_STATUS.md`
+4. `works/sangatamil/README.md`
+5. root `HANDOVER.md`
+6. `works/sangatamil/translations/en/TRANSLATION_STATUS.md`
+7. `works/sangatamil/translations/en/TRANSLATION_GUIDE.md`
+8. `works/sangatamil/translations/en/GLOSSARY.md`
 
 ## Governing rule
 
-For every remaining pending WFV row:
+Tamil source auditing and WFV adjudication are closed. Do not reopen canonical Tamil wording unless new source evidence is supplied or the user explicitly requests a new correction.
 
-1. preserve current repository wording until the user comments;
-2. treat the user's explicit comment as controlling;
-3. if the user says Gemini/repository is correct, retain it and close the row;
-4. if the user says correction required, apply exactly the user-authorized source/user reading or placement;
-5. promote a Tamil page only when all holds on that page are resolved;
-6. reconcile English only when the accepted Tamil change affects meaning/translation;
-7. keep the comparison file, ledger, tracker and controls synchronized.
-
-## Final unresolved rows
-
-| Scan | WFV |
-|---:|---|
-| 294 | WFV-049 |
-| 324 | WFV-050 |
-| 334 | WFV-051 |
-| 336 | WFV-052 |
-| 342 | WFV-053 |
-| 414 | WFV-054 |
-| 445 | WFV-055 |
-| 446 | WFV-056 |
-
-Do not make any further adjudication changes until the user provides their final review comments.
+The next productive activity is maintained-English final release/readiness synchronization. Preserve the documented scan-8 source-limited exception; do not falsely promote it to fully source-verified.

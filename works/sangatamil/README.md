@@ -508,12 +508,21 @@ Fourth WFV user-adjudication set — COMPLETE / APPLIED:
 - repository/Gemini retained — **3 rows**;
 - targeted English impact reconciled — scan **262**.
 
+Final WFV user-adjudication set — COMPLETE / APPLIED:
+- reviewed rows — **8 across 8 pages**;
+- corrections applied — **WFV-052, WFV-054, WFV-055, WFV-056**;
+- repository/Gemini retained — **WFV-049, WFV-050, WFV-051, WFV-053**;
+- cumulative WFV rows closed — **55/55**;
+- pending WFV rows — **0**;
+- final English impact review — **COMPLETE / no final-set wording changes required**;
+- maintained-English release-report gate — **UNBLOCKED**.
+
 Current whole-volume Tamil state:
 - `verified` — **452**
 - `needs-review` — **44**
 - `partial` — **1**
 - current restart coverage — **497/497 COMPLETE**
-- pending adjudication — **8 WFV rows across 8 pages**
+- pending adjudication — **0 WFV rows**
 
 Gate D — COMPLETE / PASS:
 - physical scans — 497/497
@@ -567,9 +576,9 @@ Gate G — **COMPLETE / PASS**:
 - required metadata field presence after repair — **497/497**
 - demonstrable defects repaired — **11 missing `visual_fidelity` fields**
 - Gate-G historical `status` distribution — **43 verified / 453 needs-review / 1 partial**
-- current post-adjudication state — **488 verified / 8 needs-review / 1 partial**
+- current post-adjudication state — **496 verified / 0 needs-review / 1 partial**
 - Gate-G historical `visual_fidelity` distribution — **43 verified / 454 needs-review / 0 missing**
-- current post-adjudication visual-fidelity state — **488 verified / 9 needs-review / 0 missing**
+- current post-adjudication visual-fidelity state — **496 verified / 1 needs-review / 0 missing**
 - canonical wording changes — **0**
 - unresolved Gate-G inconsistencies — **0**
 - durable report — `GATE_G_METADATA_STATUS_AUDIT.md`
@@ -671,8 +680,13 @@ This downstream layer does **not** reopen or mass-promote the canonical Tamil re
 
 ## Exact next activity
 
-The user has reviewed through **WFV-048**.
+Tamil WFV work is **COMPLETE / CLOSED**.
 
-The final pending discrepancy rows are **WFV-049 through WFV-056** across **8 physical pages**. Continue from WFV-049 using `works/sangatamil/WFV_DISCREPANCY_COMPARISON.md`. Do not modify any remaining pending row without an explicit user decision.
+- source coverage — **497/497 COMPLETE**
+- WFV pending — **0**
+- Tamil — **496 verified / 0 needs-review / 1 source-limited partial**
+- scan 8 — permanent documented facsimile/source limitation
+- English impact reconciliation — **COMPLETE**
+- maintained-English release-report gate — **UNBLOCKED**
 
-The maintained-English release-report gate remains **PAUSED** until these final rows are resolved and any resulting English impact is reconciled.
+Next: resume the maintained-English final release/readiness workflow. Do not reopen Tamil wording unless new source evidence is supplied or the user explicitly requests a new correction.

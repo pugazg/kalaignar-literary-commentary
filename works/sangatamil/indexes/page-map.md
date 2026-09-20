@@ -104,7 +104,7 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 285–287 | printed 273, 275 with scan-286 illustration | `'இனம்' காட்டும் இயற்கைக் காட்சி!` | **R29 complete / all three verified** |
 | 288–290 | printed 276, 278 with scan-289 illustration | start of `வெறியாடும் வேலன் எதற்காக?` | **verified after user adjudication; WFV-048 retained repository/Gemini reading; C12-002/C12-003 preserved; continues at scan 291** |
 | 291 | printed 279 | end of `வெறியாடும் வேலன் எதற்காக?` | **R30 complete / verified** |
-| 292–295 | printed 280, 282–283 with scan-293 illustration | `ஒல்லையூரில் முல்லையோ?` | **R30 complete / scans 292–293, 295 verified; scan 294 needs-review on WFV-049; C12-004/C12-005 preserved** |
+| 292–295 | printed 280, 282–283 with scan-293 illustration | `ஒல்லையூரில் முல்லையோ?` | **verified after user adjudication; WFV-049 retained repository/Gemini reading; C12-004/C12-005 preserved** |
 | 296–298 | printed 284, 286 with scan-297 illustration | `மறு பிறப்பு உண்டென்றால் மறக்க நேரிடுமோ?` | **R30 complete / all three verified; C12-006 preserved** |
 | 299–302 | printed 287–288, 290 with scan-301 illustration | `உண்பது நாழி; உடுப்பவை இரண்டே!` | **R30/R31 complete / all four verified** |
 | 303–308 | printed 291–292, 294–296 with scan-305 illustration | `பரிபாடல்- பன்மலர்ப் பூங்கா!` | **R31 complete / all six verified; C13-001/C13-002 preserved** |
@@ -112,12 +112,12 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 311–313 | printed 300–301 with scan-311 illustration | end of `முரசு கட்டிலில் மோசுகீரனார்!` | **R32 complete / all three verified; C13-004..006 preserved** |
 | 314–317 | printed 302, 304–305 with scan-315 illustration | `அடையாளம் தெரியாமல் அலையுதோ நெஞ்சம்!` | **R32 complete / all four verified** |
 | 318–322 | printed 306, 308–310 with scan-319 illustration | `கள் உண்ட கடுவன்!` | **R32/R33 complete / all five verified; C13-007 scan-321 preserved** |
-| 323–327 | printed 311–312, 314–315 with scan-325 illustration | `ஒரு கோடி வாழ்த்துக் கூறிடுவோம்!` | **R33 complete / scans 323, 325–327 verified; scan 324 needs-review on WFV-050; C14-001/C14-002 preserved** |
+| 323–327 | printed 311–312, 314–315 with scan-325 illustration | `ஒரு கோடி வாழ்த்துக் கூறிடுவோம்!` | **verified after user adjudication; WFV-050 retained repository/Gemini reading; C14-001/C14-002 preserved** |
 | 328–330 | printed 316, 318 with scan-329 illustration | start of `வீரனைப் பாடிய சேரன்!` | **R33 complete / all three verified; C14-003 heading preserved; continues at scan 331** |
 | 331–332 | printed 319–320 | end of `வீரனைப் பாடிய சேரன்!` | **R34 complete / both verified; C14-004 scan-331 preserved** |
-| 333–337 | printed 321–322, 324–325 with scan-335 illustration | `உற்றுழி உதவி உறுபொருள் கொடுத்திடுக!` | **R34 complete / scans 333, 335, 337 verified; scans 334 and 336 needs-review on WFV-051/WFV-052** |
+| 333–337 | printed 321–322, 324–325 with scan-335 illustration | `உற்றுழி உதவி உறுபொருள் கொடுத்திடுக!` | **verified after user adjudication; WFV-051 retained repository reading and WFV-052 source `உணர்த்துகின்ற` applied** |
 | 338–341 | printed 326, 328–329 with scan-339 illustration | `தமிழ் நெஞ்சங்கள் போற்றிய தலையாலங்கானத்தான்!` | **R34/R35 complete / all four verified; C14-005 scan-340 preserved** |
-| 342–346 | printed 330, 332–334 with scan-343 illustration | `சென்று வா மகனே; செருமுனை நோக்கி!` | **R35 complete / scans 343–346 verified; scan 342 needs-review on WFV-053** |
+| 342–346 | printed 330, 332–334 with scan-343 illustration | `சென்று வா மகனே; செருமுனை நோக்கி!` | **verified after user adjudication; WFV-053 retained repository/Gemini reading** |
 | 347–350 | printed 335–336, 338 with scan-349 illustration | start of `புதுப் பாட்டுப் புலவன்!` | **R35 complete / all four verified; continues at scan 351** |
 | 351 | printed 339 | end of `புதுப் பாட்டுப் புலவன்!` | **R36 complete / verified; closing scholarly note and ornament source-checked** |
 | 352–354 | printed 340–342 with scan-353 illustration | `மாமழை கண்ட மகிழ்ச்சி!` | **R36 complete / all three verified; C15-001 preserved; scans 353–354 section metadata aligned to exact user heading** |
@@ -144,7 +144,7 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 406–408 | printed 394–396 with scan-407 illustration | `மணித்தேரில் சென்ற மகன்!` | **R41 complete / all three verified** |
 | 409–410 | printed 397–398 | start of `ஆயமகன் குழலூதினான்!` | **R41 complete / both verified; C17-003 preserved; continues at scan 411** |
 | 411–412 | printed 400 with scan-411 illustration | end of `ஆயமகன் குழலூதினான்!` | **R42 complete / both verified** |
-| 413–416 | printed 401–404 with scan-415 illustration | `சொல்வேன் கேளடி தோழி!` | **R42 complete / scans 413, 415–416 verified; scan 414 needs-review on WFV-054; C17-004/C17-005 preserved** |
+| 413–416 | printed 401–404 with scan-415 illustration | `சொல்வேன் கேளடி தோழி!` | **verified after user adjudication; WFV-054 source `என்னாகும்` applied; C17-004/C17-005 preserved** |
 | 417–420 | printed 405–408 with scan-419 illustration | `இருவிழி மழையும் இதய மகிழ்வும்!` | **R42 complete / all four verified; C17-006 preserved** |
 | 421–424 | printed 409–412 with scan-423 illustration | `இன்ப விளக்கேற்ற எப்போது வருவாரோ?` | **R43 complete / all four verified; C17-007/C17-008 preserved** |
 | 425 | unnumbered sideways divider | `ஒருதலைக் காதல்` | **R43 complete / verified** |
@@ -153,7 +153,7 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 432–437 | printed 420–425 with scan-433 illustration | `ஒருதலைக் காதல் — 2` | **R44 complete / all six verified; C18-005..008 preserved** |
 | 438–440 | printed 426, 428 with scan-439 illustration | start of `ஒருதலைக் காதல் — 3` | **R44 complete / all three verified; continues at scan 441** |
 | 441–444 | printed 429–432 | end of `ஒருதலைக் காதல் — 3` | **R45 complete / all four verified; C18-009..017 preserved** |
-| 445–450 | printed 433–438 with scan-447 illustration | `ஒருதலைக் காதல் — 4` | **R45 complete / scans 447–450 verified; scans 445 and 446 needs-review on WFV-055/WFV-056; C18-018 preserved** |
+| 445–450 | printed 433–438 with scan-447 illustration | `ஒருதலைக் காதல் — 4` | **verified after user adjudication; WFV-055 historical `னை` and WFV-056 historical `ளை` readings applied; C18-018 preserved** |
 | 451–455 | printed 439–443 with scan-453 illustration | `ஒருதலைக் காதல் — 5` | **R46 complete / all five verified; C19-001..005 preserved** |
 | 456–460 | printed 444, 446–448 with scan-457 illustration | start of `ஒருதலைக் காதல் — 6` | **R46 complete / all five verified; C19-006..008 preserved; continues at scan 461** |
 | 461–462 | printed 449–450 | end of `ஒருதலைக் காதல் — 6` | **R47 complete / both verified** |
