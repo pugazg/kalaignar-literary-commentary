@@ -265,6 +265,6 @@ English project translation page-ல் source identity front matter-ல் expl
 
 ## 9. தொடர்ச்சித் திட்டம்
 
-இந்த repository முதலில் `திருக்குறள் — கலைஞர் உரை` மூலம் தொடங்கியது. `சங்கத் தமிழ்` active source-first work ஆக உள்ளது; பின்னர் `குறளோவியம்` தமிழ்/ஆங்கில பதிப்புகள் சேர்க்கப்படும்.
+இந்த repository-இல் `திருக்குறள் — கலைஞர் உரை` completed benchmark ஆக உள்ளது. `குறளோவியம்` Parts 001–006 / scans 1–666 Tamil archival + maintained-English release + derived sections S1–S3 வரை **COMPLETE / CLOSED**. `சங்கத் தமிழ்` Tamil WFV + maintained-English release-மும் **COMPLETE / CLOSED**. புதிய source evidence அல்லது explicit correction/derivative request இல்லாமல் closed source layers-ஐ மீண்டும் திறக்கக் கூடாது.
 
 ஒவ்வொரு நூலின் source identity தனித்தனியாகக் காக்கப்பட வேண்டும். இரண்டு published editions-ன் உரையை ஒரே transcription-ல் கலக்கக்கூடாது; project-created English translation-ஐ published English source என்று காட்டக்கூடாது.

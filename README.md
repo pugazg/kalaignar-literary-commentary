@@ -13,8 +13,8 @@ Last synchronized with live main: **2026-09-20**.
 | Thirukkural semantic structure | பால் → இயல் → அதிகாரம் | **COMPLETE — 3 பால் / 13 இயல் / 133 அதிகாரம் / 1,330 குறள் mapped** |
 | சங்கத் தமிழ் | தமிழ் | **CLOSED — Gates A–I + Gate C2 + dedicated WFV COMPLETE / PASS; 497/497 source coverage; 496 verified + scan 8 source-limited partial** |
 | Sangatamil | English project translation | **RELEASE COMPLETE / CLOSED — 496 release-ready + 1 source-limited (scan 8); 0 blocked** |
-| குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
-| Kuraloviyam | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
+| குறளோவியம் | தமிழ் | **CLOSED — Parts 001–006 / scans 1–666; 662 verified + 4 partial/source-limited; visual 666/666 verified; S1–S3 COMPLETE** |
+| Kuraloviyam | English project translation | **RELEASE COMPLETE / CLOSED — 662 release-ready + 4 source-limited / 0 blocked** |
 
 ## மூலக் கொள்கை
 
@@ -35,6 +35,23 @@ The supplied **திருக்குறள் — கலைஞர் உர�
 - final semantic audit: [`works/thirukkural/structure/STRUCTURE_AUDIT.md`](works/thirukkural/structure/STRUCTURE_AUDIT.md) — **PASS**.
 
 Do not restart completed Thirukkural batches unless a new source or explicit correction task requires it.
+
+# Canonical completed state — குறளோவியம்
+
+The supplied six-Part **குறளோவியம்** source family is complete and closed:
+
+- physical source — **Parts 001–006 / scans 1–666 complete**;
+- Tamil textual state — **662 verified + 4 partial/source-limited**;
+- permanent Tamil limitations — Part 001 scans **13, 14, 15, 19**;
+- Tamil visual fidelity — **666/666 verified**;
+- maintained English project translation — **662 release-ready + 4 source-limited / 0 blocked**;
+- Part 006 endpoint — scan **666 / unnumbered pictorial back cover / no external continuation**;
+- derived sections S1–S3 — **COMPLETE / PASS**;
+- S2 contents crosswalk — **300/300 processed / 298 resolved / 2 partial-source-metadata / 0 unresolved**;
+- S3 entry leaves — **300/300 complete**;
+- required next Kuraloviyam activity — **none**.
+
+Current Kuraloviyam controls: `KURALOVIYAM_ARCHIVAL_GUIDELINES.md`, `NEXT_CHAT_PROMPT_KURALOVIYAM.md`, `works/kuraloviyam/HANDOVER.md`, `works/kuraloviyam/README.md`, and `works/kuraloviyam/DOCUMENTATION_AUDIT_2026-09-20.md`.
 
 # Canonical closed state — சங்கத் தமிழ்
 

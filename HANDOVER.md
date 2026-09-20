@@ -1,9 +1,11 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
+> **KURALOVIYAM CURRENT AUTHORITATIVE CHECKPOINT — 2026-09-20:** Parts **001–006 / scans 1–666** are fully closed. Tamil = **662 verified + 4 partial/source-limited (scans 13, 14, 15, 19)** with **666/666 visual fidelity verified**; maintained English = **662 release-ready + 4 source-limited / 0 blocked**; derived sections **S1–S3 COMPLETE / PASS**; required next Kuraloviyam activity = **none**. Any later Kuraloviyam headings describing Part 005/006 as active are historical workflow evidence only.
+
 > **CURRENT AUTHORITATIVE CHECKPOINT — 2026-09-20:** Fresh physical-source WFV coverage is **497/497 COMPLETE**; Tamil is **496 verified / 0 needs-review / 1 source-limited partial (scan 8)**; visual fidelity is **496 verified / 1 needs-review**; WFV-001 is **REJECTED / canonical retained**; WFV-002..WFV-056 are **55/55 USER ADJUDICATED / CLOSED**; pending WFV rows are **0**. Maintained English is **RELEASE COMPLETE / CLOSED — 496 release-ready + 1 source-limited (scan 8) / 0 blocked**. Any deeper pre-WFV status/frontier text is historical evidence only.
 
 
-Last refreshed **2026-09-20**: Kuraloviyam remains closed; Sangath Tamil Gates **A–I are COMPLETE / PASS**; dedicated Tamil WFV is **COMPLETE / CLOSED — 497/497 fresh source coverage, 496 verified / 0 needs-review / 1 source-limited partial (scan 8), WFV-001 rejected/canonical retained, WFV-002..WFV-056 55/55 user-adjudicated/closed, 20 repository/Gemini readings retained, 35 user-authorized corrections applied, 0 pending**; maintained English is **RELEASE COMPLETE / CLOSED — 496 release-ready + 1 source-limited (scan 8) / 0 blocked**.
+Last refreshed **2026-09-20**: Kuraloviyam is **FULLY CLOSED** across Parts 001–006 / scans 1–666 with Tamil **662 verified + 4 partial/source-limited**, visual **666/666 verified**, maintained English **662 release-ready + 4 source-limited / 0 blocked**, and S1–S3 **COMPLETE / PASS**; Sangath Tamil Gates **A–I + dedicated WFV are COMPLETE / CLOSED** with **497/497 fresh source coverage, 496 verified / 0 needs-review / 1 source-limited partial (scan 8), 55/55 WFV rows adjudicated / 0 pending**, and maintained English **496 release-ready + 1 source-limited / 0 blocked**.
 
 ## Repository
 
@@ -11,7 +13,7 @@ Last refreshed **2026-09-20**: Kuraloviyam remains closed; Sangath Tamil Gates *
 
 Branch: `main`
 
-Current active/source-ready works:
+Maintained works:
 
 - `works/sangatamil/`
 - `works/kuraloviyam/`
@@ -310,7 +312,7 @@ Do not restart Tamil source auditing. Next productive work is maintained-English
 - semantic provenance complete for **3 பால் / 13 இயல் / 133 அதிகாரம் / 1,330 குறள்**;
 - final structure audit PASS.
 
-# Active source-ready work — குறளோவியம்
+# Historical குறளோவியம் workflow log — superseded by final maintained closure below
 
 ## Durable Kuraloviyam state
 
@@ -321,7 +323,7 @@ Do not restart Tamil source auditing. Next productive work is maintained-English
 - English — **111/111 `release-ready`**;
 - durable final record — `works/kuraloviyam/PART_004_FINAL_CLOSURE.md`.
 
-### Part 005 — PASS 1 COMPLETE / PASS 2A ACTIVE
+### Historical Part 005 workflow checkpoint — superseded / Part 005 now FULLY CLOSED
 
 Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_pages_445-555.pdf`.
 
@@ -555,7 +557,7 @@ Controlling source: `TVA_BOK_0065733_குறளோவியம்_part_005_
 - durable final closure — `works/kuraloviyam/PART_005_FINAL_CLOSURE.md`;
 - Part 005 — **TAMIL + MAINTAINED ENGLISH FULLY CLOSED**.
 
-### Part 006 — TAMIL CLOSED / ENGLISH GLOSSARY RECONCILIATION ACTIVE
+### Historical Part 006 workflow checkpoint — superseded / Part 006 now FULLY CLOSED
 
 - source intake — **PASS / COMPLETE**;
 - scans — **556–666**;
@@ -687,7 +689,7 @@ The four durable source limitations remain Part 001 scans **13, 14, 15, 19**.
 
 ## Kuraloviyam derived sections
 
-The maintained archival/release workflow remains **fully closed**. A downstream navigation layer is now active under `works/kuraloviyam/sections/`.
+The maintained archival/release workflow remains **fully closed**. The downstream navigation layer under `works/kuraloviyam/sections/` is also **complete through S3**.
 
 S1 — **COMPLETE / PASS**:
 
