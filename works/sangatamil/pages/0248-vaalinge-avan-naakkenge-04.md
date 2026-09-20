@@ -4,11 +4,11 @@ printed_page: "235"
 work: "sangatamil"
 section: "வாளிங்கே-அவன் நாக்கெங்கே?"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "R25 WFV-040: source glossary continues `சிதைந்து வேறாகிய படுமகன் = விழுப்புண் பெற்றுக் கிடக்கும் / மகன்.`; canonical currently omits the final `மகன்.`. Canonical wording remains unchanged pending user adjudication. C10-005 restored `வயிறுடைய கிழவி.` and `மாண்டான்.` lines remain protected."
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "WFV user adjudication complete for scan 248; WFV-040 user-authorized correction applied; page verified."
 language: "ta"
-transcription_method: "Gemini-locked lexical wording with user-authorized C2 repository-divergence restoration"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 repository-divergence restoration; WFV user-adjudicated"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 247
 ---
@@ -54,6 +54,7 @@ continues_from_scan: 247
 மண்டமர் = களப்போர்.  
 சினைஇ =சினந்து.  
 சிதைந்து வேறாகிய படுமகன் = விழுப்புண் பெற்றுக் கிடக்கும்  
+மகன்.  
   
 \*  
 

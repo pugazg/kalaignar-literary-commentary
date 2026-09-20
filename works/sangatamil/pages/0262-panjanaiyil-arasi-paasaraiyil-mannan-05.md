@@ -4,11 +4,11 @@ printed_page: "250"
 work: "sangatamil"
 section: "பஞ்சணையில் அரசி; பாசறையில் மன்னன்!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "R27 WFV-043: source visibly includes standalone/right-edge `பாசறையை!` after `கடமையினை ஆற்றுதற்குக் கால்கடுக்கச் சுற்றுகின்றான்;`; canonical omits this source token. Canonical remains unchanged pending user adjudication."
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "WFV user adjudication complete for scan 262; WFV-043 user-authorized correction applied; page verified."
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; R27 source-reviewed with lexical hold"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; R27 source-reviewed with lexical hold; WFV user-adjudicated"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 261
 ---
@@ -41,6 +41,7 @@ continues_from_scan: 261
 பறந்தனவாம்; தம் தலைவன் பனிப்பார்வை பட்டதாலே!
 காதலனைத் தேடிப் பேரரசி கலங்குகின்றாள்; அவனோ,
 கடமையினை ஆற்றுதற்குக் கால்கடுக்கச் சுற்றுகின்றான்;
+<div align="right">பாசறையை!</div>
 அகமென்றும் புறமென்றும் வாழ்க்கையினை
 அழகாக வகுத்துக்கொண்டு
 அன்று தொட்டு வாழ்ந்து வரும் இனம்

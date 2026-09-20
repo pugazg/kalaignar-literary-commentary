@@ -4,11 +4,11 @@ printed_page: "249"
 work: "sangatamil"
 section: "பஞ்சணையில் அரசி; பாசறையில் மன்னன்!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "R27 WFV-042: canonical places existing `அவன்;` after `வாளேந்தும் போர் முகத்தை மறந்துவிட்டு,`; source places `அவன்;` immediately after `அதனாலே`, before `வாளேந்தும் போர் முகத்தை மறந்துவிட்டு,`. Canonical placement remains unchanged pending user adjudication."
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "WFV user adjudication complete for scan 261; WFV-042 user-authorized correction applied; page verified."
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; R27 source-reviewed with lexical hold"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; R27 source-reviewed with lexical hold; WFV user-adjudicated"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 260
 ---
@@ -54,7 +54,8 @@ continues_from_scan: 260
 கோப்பெருந்தேவியின் நினைவாலே - அவன்
 கொண்ட குறிக்கோள் தவறவில்லை!
 வாடைக்காற்று அவன் பாசறைக்கும் வந்ததுண்டு!
-அதனாலே வாளேந்தும் போர் முகத்தை மறந்துவிட்டு, அவன்;
+அதனாலே அவன்;
+வாளேந்தும் போர் முகத்தை மறந்துவிட்டு,
 
 <!-- continues on scan 262 -->
 <!-- R27 word-for-word / historical-glyph source review complete; lexical hold remains. -->

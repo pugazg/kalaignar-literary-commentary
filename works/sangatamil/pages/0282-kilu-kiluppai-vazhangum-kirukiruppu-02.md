@@ -4,16 +4,16 @@ printed_page: "270"
 work: "sangatamil"
 section: "கிலு கிலுப்பை வழங்கும் கிறுகிறுப்பு!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "R29 WFV-047: canonical `வலிய எருதுக்கள்` differs from source-visible `வலிய எருதுகள்`. Canonical lexical wording remains unchanged pending user adjudication."
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "WFV user adjudication complete for scan 282; WFV-047 user-authorized correction applied; page verified."
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; WFV user-adjudicated"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 281
 ---
 
-வலிய எருதுக்கள் பூட்டிய அந்த வண்டிகளுடன் முந்தி
+வலிய எருதுகள் பூட்டிய அந்த வண்டிகளுடன் முந்தி
 வந்தவையோ அவர்கள் பிள்ளைபோல் வளர்த்த மந்திகளாம்!
 
 கடற்கரையில் ஒதுங்கியுள்ள கிளிஞ்சல்களைக் காட்சியாக்கி

@@ -2390,8 +2390,8 @@ Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R23_SCANS_221_230.md`.
 | WFV-035 | 231 | 218 | canonical places existing `இந்த` after `குவித்துக் கொண்டிருக்கும் உதடுகளும் இரு குன்றுகளும்` | source places `இந்த` after `அத்தான் —` before `மணற்பரப்பில்` | `token-placement / likely-gemini-error` | **USER ADJUDICATED / APPLIED — source token placement applied; scan 231 verified** |
 | WFV-036 | 231 | 218 | canonical places existing `என்` immediately before `தேனே, மானே...` | source places `என்` after `மாற்றாரைப் புறங்காணச் செய்யுங்கள் —` before `மடிமீது` | `token-placement / likely-gemini-error` | **USER ADJUDICATED / APPLIED — source token placement applied; scan 231 verified** |
 | WFV-037 | 231 | 218 | `மடிமீது தலைவைத்து விழுப்புண்களுக்கு மருந்து பெறத்` | source visibly reads `மடிமீது தலைவைத்து விழுப்புண்களுக்கு மருந்து பெற்ற` | `likely-gemini-error` | **USER ADJUDICATED — GEMINI/REPOSITORY CORRECT; canonical retained; scan 231 verified** |
-| WFV-038 | 233 | 220 | canonical begins page with `அன்றிப் / போர் புரிந்து வெற்றி காண்போம்` | source places `அன்றிப்` after `போர் புரிந்து வெற்றி காண்போம்` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — token not moved; scan 233 remains needs-review** |
-| WFV-039 | 233 | 220 | canonical places `பெயர் எடுப்பேன்!` after `மாசு வந்து என்னைப் பற்றிக்கொள்ள;` | source places `பெயர் எடுப்பேன்!` immediately after `ஆழ்ந்த நட்பாளர் அனைவரையும் இழந்திட்ட பாவியெனும்` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — token not moved; same scan-233 hold** |
+| WFV-038 | 233 | 220 | canonical begins page with `அன்றிப் / போர் புரிந்து வெற்றி காண்போம்` | source places `அன்றிப்` after `போர் புரிந்து வெற்றி காண்போம்` | `token-placement / likely-gemini-error` | **USER ADJUDICATED / APPLIED — source token placement applied; scan 233 verified** |
+| WFV-039 | 233 | 220 | canonical places `பெயர் எடுப்பேன்!` after `மாசு வந்து என்னைப் பற்றிக்கொள்ள;` | source places `பெயர் எடுப்பேன்!` immediately after `ஆழ்ந்த நட்பாளர் அனைவரையும் இழந்திட்ட பாவியெனும்` | `token-placement / likely-gemini-error` | **USER ADJUDICATED / APPLIED — source token placement applied; scan 233 verified** |
 
 ### R24 findings
 
@@ -2424,7 +2424,7 @@ Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R24_SCANS_231_240.md`.
 
 | ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
 |---|---:|---:|---|---|---|---|
-| WFV-040 | 248 | 235 | glossary ends `சிதைந்து வேறாகிய படுமகன் = விழுப்புண் பெற்றுக் கிடக்கும்` | source visibly continues `சிதைந்து வேறாகிய படுமகன் = விழுப்புண் பெற்றுக் கிடக்கும் / மகன்.` | `missing-source-token / likely-gemini-error` | **PENDING USER ADJUDICATION — final `மகன்.` not inserted; scan 248 remains needs-review** |
+| WFV-040 | 248 | 235 | glossary ends `சிதைந்து வேறாகிய படுமகன் = விழுப்புண் பெற்றுக் கிடக்கும்` | source visibly continues `சிதைந்து வேறாகிய படுமகன் = விழுப்புண் பெற்றுக் கிடக்கும் / மகன்.` | `missing-source-token / likely-gemini-error` | **USER ADJUDICATED / APPLIED — source token `மகன்.` restored; scan 248 verified** |
 
 ### R25 findings
 
@@ -2457,7 +2457,7 @@ Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R25_SCANS_241_250.md`.
 
 | ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
 |---|---:|---:|---|---|---|---|
-| WFV-041 | 254 | 241 | `‘கண்மணீ!’ என்றழைத்துக் கட்டித் தழுவிடவே` | source visibly prints `“கண்மணி!” என்றழைத்துக் கட்டித் தழுவிடவே` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical `கண்மணீ!` unchanged; scan 254 remains needs-review** |
+| WFV-041 | 254 | 241 | `‘கண்மணீ!’ என்றழைத்துக் கட்டித் தழுவிடவே` | source visibly prints `“கண்மணி!” என்றழைத்துக் கட்டித் தழுவிடவே` | `likely-gemini-error` | **USER ADJUDICATED — GEMINI/REPOSITORY CORRECT; canonical retained; scan 254 verified** |
 
 ### R26 findings
 
@@ -2491,9 +2491,9 @@ Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R26_SCANS_251_260.md`.
 
 | ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
 |---|---:|---:|---|---|---|---|
-| WFV-042 | 261 | 249 | canonical places `அவன்;` after `வாளேந்தும் போர் முகத்தை மறந்துவிட்டு,` | source places existing `அவன்;` immediately after `அதனாலே`, before `வாளேந்தும் போர் முகத்தை மறந்துவிட்டு,` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — token not moved; scan 261 remains needs-review** |
-| WFV-043 | 262 | 250 | canonical proceeds from `கடமையினை ஆற்றுதற்குக் கால்கடுக்கச் சுற்றுகின்றான்;` directly to `அகமென்றும்...` | source visibly inserts standalone/right-edge `பாசறையை!` after `...சுற்றுகின்றான்;` | `missing-source-token / likely-gemini-error` | **PENDING USER ADJUDICATION — `பாசறையை!` not inserted; scan 262 remains needs-review** |
-| WFV-044 | 270 | 258 | canonical places existing `வழங்கி -,` after `அரசுதனை நடத்துகின்ற அறவழி பலவும் அன்பாய்` | source places `வழங்கி -,` immediately after `அவரையெல்லாம் வரவேற்று அவர்க்கு வேண்டுவன`, before the `அரசுதனை...` line | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — token not moved; scan 270 remains needs-review** |
+| WFV-042 | 261 | 249 | canonical places `அவன்;` after `வாளேந்தும் போர் முகத்தை மறந்துவிட்டு,` | source places existing `அவன்;` immediately after `அதனாலே`, before `வாளேந்தும் போர் முகத்தை மறந்துவிட்டு,` | `token-placement / likely-gemini-error` | **USER ADJUDICATED / APPLIED — source token placement applied; scan 261 verified** |
+| WFV-043 | 262 | 250 | canonical proceeds from `கடமையினை ஆற்றுதற்குக் கால்கடுக்கச் சுற்றுகின்றான்;` directly to `அகமென்றும்...` | source visibly inserts standalone/right-edge `பாசறையை!` after `...சுற்றுகின்றான்;` | `missing-source-token / likely-gemini-error` | **USER ADJUDICATED / APPLIED — source token `பாசறையை!` restored; scan 262 verified** |
+| WFV-044 | 270 | 258 | canonical places existing `வழங்கி -,` after `அரசுதனை நடத்துகின்ற அறவழி பலவும் அன்பாய்` | source places `வழங்கி -,` immediately after `அவரையெல்லாம் வரவேற்று அவர்க்கு வேண்டுவன`, before the `அரசுதனை...` line | `token-placement / likely-gemini-error` | **USER ADJUDICATED / APPLIED — source token placement applied; scan 270 verified** |
 
 ### R27 findings
 
@@ -2552,10 +2552,10 @@ Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R28_SCANS_271_280.md`.
 
 | ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
 |---|---:|---:|---|---|---|---|
-| WFV-045 | 281 | 269 | `கடையேழு வள்ளல்களைக் குறுநில மன்னவனாம்;` | source visibly reads `கடையேழு வள்ளல்களைக் குறுநில மன்னவனும்;` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 281 remains needs-review** |
-| WFV-046 | 281 | 269 | canonical places existing `அந்த` in `நாவலரின் கற்பனையில் விளைந்திட்ட அந்த சிறுபாணாற்றுப்படையினிலே;` | source places `அந்த` before `நாவலரின் கற்பனையில்...`, yielding source order `அந்த / நாவலரின் கற்பனையில் விளைந்திட்ட / சிறுபாணாற்றுப்படையினிலே;` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION — token not moved; same scan-281 hold** |
-| WFV-047 | 282 | 270 | `வலிய எருதுக்கள் பூட்டிய அந்த வண்டிகளுடன் முந்தி` | source visibly reads `வலிய எருதுகள் பூட்டிய அந்த வண்டிகளுடன் முந்தி` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 282 remains needs-review** |
-| WFV-048 | 290 | 278 | `வெறியாடி நோய் தீர்க்கும் வேலனாம் பூசாரி தேவையில்லை;` | source visibly reads `வெறியாடி நோய் தீர்க்கும் வேலனும் பூசாரி தேவையில்லை;` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 290 remains needs-review** |
+| WFV-045 | 281 | 269 | `கடையேழு வள்ளல்களைக் குறுநில மன்னவனாம்;` | source visibly reads `கடையேழு வள்ளல்களைக் குறுநில மன்னவனும்;` | `likely-gemini-error` | **USER ADJUDICATED — GEMINI/REPOSITORY CORRECT; canonical retained; scan 281 verified** |
+| WFV-046 | 281 | 269 | canonical places existing `அந்த` in `நாவலரின் கற்பனையில் விளைந்திட்ட அந்த சிறுபாணாற்றுப்படையினிலே;` | source places `அந்த` before `நாவலரின் கற்பனையில்...`, yielding source order `அந்த / நாவலரின் கற்பனையில் விளைந்திட்ட / சிறுபாணாற்றுப்படையினிலே;` | `token-placement / likely-gemini-error` | **USER ADJUDICATED / APPLIED — source token placement applied; scan 281 verified** |
+| WFV-047 | 282 | 270 | `வலிய எருதுக்கள் பூட்டிய அந்த வண்டிகளுடன் முந்தி` | source visibly reads `வலிய எருதுகள் பூட்டிய அந்த வண்டிகளுடன் முந்தி` | `likely-gemini-error` | **USER ADJUDICATED / APPLIED — source reading `எருதுகள்` applied; scan 282 verified** |
+| WFV-048 | 290 | 278 | `வெறியாடி நோய் தீர்க்கும் வேலனாம் பூசாரி தேவையில்லை;` | source visibly reads `வெறியாடி நோய் தீர்க்கும் வேலனும் பூசாரி தேவையில்லை;` | `likely-gemini-error` | **USER ADJUDICATED — GEMINI/REPOSITORY CORRECT; canonical retained; scan 290 verified** |
 
 ### R29 findings
 
@@ -3180,6 +3180,16 @@ Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R49_SCANS_481_490.md`.
 - affected physical pages cleared — **7** (209, 213, 215, 219, 227, 230, 231);
 - cumulative user-reviewed WFV rows — **36**;
 - pending WFV rows remaining — **19 across 17 physical pages**.
+
+## User adjudication — fourth reviewed set
+
+**Status: APPLIED / CLOSED for 11 reviewed WFV rows**
+
+- **apply correction** — WFV-038, WFV-039, WFV-040, WFV-042, WFV-043, WFV-044, WFV-046, WFV-047;
+- **retain repository/Gemini** — WFV-041, WFV-045, WFV-048;
+- affected physical pages cleared — **9** (233, 248, 254, 261, 262, 270, 281, 282, 290);
+- cumulative user-reviewed WFV rows — **47**;
+- pending WFV rows remaining — **8 across 8 physical pages**.
 
 ## Restart R50 — scans 491–497
 

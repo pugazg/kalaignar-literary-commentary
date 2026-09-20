@@ -4,18 +4,18 @@ printed_page: "258"
 work: "sangatamil"
 section: "நாடு வாழவும் நலிவு தீரவும்..."
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "R27 WFV-044: source places existing `வழங்கி -,` immediately after `அவரையெல்லாம் வரவேற்று அவர்க்கு வேண்டுவன`, before `அரசுதனை நடத்துகின்ற அறவழி பலவும் அன்பாய்`; canonical places it after the latter line. Canonical placement remains unchanged pending user adjudication."
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "WFV user adjudication complete for scan 270; WFV-044 user-authorized correction applied; page verified."
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; R27 source-reviewed with lexical hold"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; R27 source-reviewed with lexical hold; WFV user-adjudicated"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 269
 ---
 
 அவரையெல்லாம் வரவேற்று அவர்க்கு வேண்டுவன
-அரசுதனை நடத்துகின்ற அறவழி பலவும் அன்பாய்
 வழங்கி -,
+அரசுதனை நடத்துகின்ற அறவழி பலவும் அன்பாய்
 விளக்கிடுவான்!
 
 அவ்வாறு ஒருமுறை அவன் தந்த அரசியல் அறிவுரைதான்;

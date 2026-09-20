@@ -4,11 +4,11 @@ printed_page: "269"
 work: "sangatamil"
 section: "கிலு கிலுப்பை வழங்கும் கிறுகிறுப்பு!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "R29 C12-001 heading remains protected. WFV-045: canonical `மன்னவனாம்;` vs source-visible `மன்னவனும்;`. WFV-046: canonical places existing `அந்த` before `சிறுபாணாற்றுப்படையினிலே`, while source places `அந்த` before `நாவலரின் கற்பனையில்...`. Canonical wording/placement unchanged pending user adjudication."
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "WFV user adjudication complete for scan 281; WFV-045 repository/Gemini retained; WFV-046 user-authorized correction applied; page verified."
 language: "ta"
-transcription_method: "Gemini-locked lexical wording with user-authorized C2 heading restoration"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 heading restoration; WFV user-adjudicated"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -30,7 +30,9 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 மாத்தமிழன் நல்லியக்கோடன் ஆட்சியிலே மணம் பரப்பியதை;
 பாவலராம் நத்தத்தனார் விளக்கிடும் பாங்கே தனிச் சிறப்பாம்!
 
-நாவலரின் கற்பனையில் விளைந்திட்ட அந்த சிறுபாணாற்றுப்படையினிலே;
+அந்த
+நாவலரின் கற்பனையில் விளைந்திட்ட
+சிறுபாணாற்றுப்படையினிலே;
 உவமைகள் ஓடிவந்து கொஞ்சும் - ஊரின் வர்ணனையோ ஒன்றையொன்று மிஞ்சும்!
 
 உப்பு வணிகர் ஓட்டி வருகின்ற வண்டிகளைத் தொடர்ந்து; புலவர்,

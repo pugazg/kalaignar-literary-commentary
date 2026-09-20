@@ -4,17 +4,17 @@ printed_page: "220"
 work: "sangatamil"
 section: "தாமரைப் பொய்கையில் (?) தவழ்ந்தது நிலவு!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "R24 WFV-038/WFV-039: source places `அன்றிப்` after `போர் புரிந்து வெற்றி காண்போம்` rather than before it, and places `பெயர் எடுப்பேன்!` immediately after `ஆழ்ந்த நட்பாளர் அனைவரையும் இழந்திட்ட பாவியெனும்`; canonical placement remains unchanged pending user adjudication."
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "WFV user adjudication complete for scan 233; WFV-038 user-authorized correction applied; WFV-039 user-authorized correction applied; page verified."
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; WFV user-adjudicated"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 231
 continues_to_scan: 234
 ---
-அன்றிப்  
 போர் புரிந்து வெற்றி காண்போம்  
+அன்றிப்  
 போர்முனையில் மாற்றார் தோளில் வெற்றி மாலை  
 விழுந்ததெனில்;  
 பொன்னார் மேனியாள் என்னுயிர்த் துணைவி  
@@ -24,9 +24,9 @@ continues_to_scan: 234
 பழியைக் கொள்வேன்!  
 சூழ்ந்திருந்து தோழமையால் எனை மகிழ்வித்த  
 ஆழ்ந்த நட்பாளர் அனைவரையும் இழந்திட்ட பாவியெனும்  
+பெயர் எடுப்பேன்!  
 மறுபிறவி என ஒன்றிருந்தால் பெரும்  
 மாசு வந்து என்னைப் பற்றிக்கொள்ள;  
-பெயர் எடுப்பேன்!  
 தென்புலம் காத்த மன்னவன் என்ற நிலைமாறிக் கொடியோரின்  
 வன்புலம் காத்திடும் வஞ்சகனாய்ப் பிறந்திடுவேன்!"  
 இவ்வாறு,  
