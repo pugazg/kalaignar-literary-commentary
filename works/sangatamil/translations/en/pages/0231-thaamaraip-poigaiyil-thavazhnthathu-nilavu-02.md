@@ -7,8 +7,8 @@ section: "தாமரைப் பொய்கையில் (?) தவழ்�
 language: "en"
 translation_type: "project_translation"
 status: "editorial-reviewed"
-source_tamil_status: "needs-review"
-source_tamil_visual_fidelity: "needs-review"
+source_tamil_status: "verified"
+source_tamil_visual_fidelity: "verified"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
 ---
 
@@ -67,8 +67,8 @@ to become a slave.
 
 Even the meanest among men
 would hesitate
-to write the phrase
-‘fall to one's knees’
+to write this phrase—
+‘fall to one's knees’—
 upon the sand!
 
 You are a great warrior.
@@ -89,8 +89,8 @@ this suffering lord of mine!
 
 To the man
 who called me
-‘my honey,
-my deer’
+‘honey,
+deer’
 
 and left kisses
 all over my body,
