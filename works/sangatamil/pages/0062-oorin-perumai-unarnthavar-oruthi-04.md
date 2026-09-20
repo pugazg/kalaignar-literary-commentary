@@ -58,6 +58,6 @@ continues_to_scan: 63
 கலவி நடுப்பாதையிலே பலியாக வேண்டுமே என்றும்  
 கவலை மிகக் கொண்டுவிட்டாள்!
 
-<!-- Gemini-locked wording is retained; scan 62 controls paragraph grouping, lineation, emphasis and page furniture. -->
-<!-- Review status remains `needs-review`; final audit/status synchronization is a separate activity. -->
+<!-- WFV-002 user adjudication applied the source-supported `தனது` token placement; scan 62 otherwise retains established paragraph grouping, lineation, emphasis and page furniture. -->
+<!-- WFV-002 is resolved; scan 62 is verified. -->
 <!-- மூல ஸ்கேன் பக்கம்: 62; அச்சுப் பக்கம்: 47 -->

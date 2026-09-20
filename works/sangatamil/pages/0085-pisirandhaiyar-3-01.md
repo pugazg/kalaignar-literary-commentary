@@ -55,5 +55,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 தையலோ தாவிப்பாய்ந்து கணவன் தலையிலே ஒரு  
 தட்டுத்தட்டிக்
 
-<!-- R09 source re-audit supersedes the earlier noise note: the controlling scan visibly supports printed `- அவர்கள்`; WFV-012 records the missing canonical token. No lexical body mutation is made pending user adjudication. -->
+<!-- WFV-012 user adjudication accepted the source-visible right-offset `- அவர்கள்`; the token is restored and scan 85 is verified. -->
 <!-- மூல ஸ்கேன் பக்கம்: 85; அச்சுப் பக்கம்: 70 -->

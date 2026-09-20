@@ -60,5 +60,5 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 எல்லாம் சரிதான்; ஆனால் ஒன்று -  
 பொல்லா உட்பகைப் புயலில் சிக்கி
 
-<!-- Gate B places File2's page-86 continuation and page-87 text together on physical scan 87, as required by the PDF. Gemini lexical wording is preserved; scan structure controls placement. -->
+<!-- Gate B page-86/page-87 continuation placement remains intact. WFV-013 user adjudication moved `நல்ல` to the source-supported trade line; scan 87 is verified. -->
 <!-- மூல ஸ்கேன் பக்கம்: 87; அச்சுப் பக்கம்: 72 -->

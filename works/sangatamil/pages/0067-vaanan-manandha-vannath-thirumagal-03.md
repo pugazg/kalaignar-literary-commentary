@@ -63,5 +63,5 @@ continues_to_scan: 68
 கொண்ட கணவன் அனுப்பினான் என்னை!
 
 <!-- Gemini-locked wording is retained; scan 67 controls lineation, dialogue placement, punctuation and page boundary. -->
-<!-- Review status remains `needs-review`; final audit/status synchronization is a separate activity. -->
+<!-- WFV-011 was user-adjudicated in favor of the repository/Gemini reading; scan 67 is verified. -->
 <!-- மூல ஸ்கேன் பக்கம்: 67; அச்சுப் பக்கம்: 52 -->

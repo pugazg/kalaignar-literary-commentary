@@ -68,5 +68,5 @@ continues_from_scan: 68
 வாலிழை = ஒளிவிடும் அணி.
 
 <!-- Gemini-locked wording is retained; scan 69 controls continuation, quotation/provenance/gloss separation, lineation and page furniture. -->
-<!-- Review status remains `needs-review`; final audit/status synchronization is a separate activity. -->
+<!-- WFV-003 was user-adjudicated in favor of the repository/Gemini reading; scan 69 is verified. -->
 <!-- மூல ஸ்கேன் பக்கம்: 69; அச்சுப் பக்கம்: 54 -->
