@@ -103,3 +103,21 @@ There is no deferred continuation and no unresolved English release blocker.
 **SANGATAMIL MAINTAINED ENGLISH RELEASE: PASS / APPROVED**
 
 Authorized next step: promote the **496 eligible English pages** to `release-ready` by status-token-only changes, retain scan 8 as `source-limited`, then perform final control/documentation synchronization and exact changed-file-set audit.
+
+## Final promotion and synchronization result
+
+**COMPLETE / CLOSED**
+
+- release promotion commit — `522923deb6ae1bcfdedd024ddf4439c0cf4a7868`
+- post-WFV English metadata synchronization commit — `5a9b877a7b315a466ffe1067b60a0a04de3d356d`
+- final English inventory — **496 `release-ready` + 1 `source-limited` (scan 8)**
+- scan 8 status — **unchanged / permanent source-limited exception**
+- approved English body wording changes during promotion/synchronization — **0**
+- canonical Tamil page changes during promotion/synchronization — **0**
+- glossary wording changes during promotion/synchronization — **0**
+- unresolved release blockers — **0**
+
+The English frontmatter source-status/fidelity snapshot was synchronized to the completed WFV state: all non-scan-8 pages now record verified Tamil/source-fidelity status, while scan 8 remains `partial / needs-review` by source policy.
+
+**SANGATAMIL MAINTAINED ENGLISH: RELEASE COMPLETE / CLOSED.**
+

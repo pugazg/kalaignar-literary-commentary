@@ -16,13 +16,14 @@ Normal English work uses the canonical Tamil page records under `../../pages/`, 
 
 The Tamil archive is structurally, physically, sectionally, provenance-wise, metadata-wise and navigationally closed through Gates A–I. Gate C2 also adjudicated all **140/140 recorded Gate-C discrepancies**.
 
-However, the corpus is **not claimed to have received a fresh exhaustive word-for-word reread of every source token**. Final Tamil page status remains:
+The later user-directed WFV cycle is now **COMPLETE across 497/497 physical scans**. Final Tamil state is:
 
-- `verified` — 43
-- `needs-review` — 453
-- `partial` — 1 (scan 8 handwritten `முன்னுரை`, description-only)
+- `verified` — **496**
+- `needs-review` — **0**
+- `partial` — **1** (scan 8 handwritten `முன்னுரை`, description-only)
+- visual fidelity — **496 verified / 1 needs-review** (scan 8)
 
-English release status therefore means **reviewed against the maintained canonical Tamil record**, not that the underlying Tamil scan has become exhaustively word-for-word verified.
+English release status is relative to that completed maintained Tamil state and preserves the scan-8 source limitation.
 
 The original Tamil scan remains the ultimate source authority when a genuine source/fidelity problem is discovered. Do not reopen the closed Tamil layer merely for translation polishing.
 
@@ -66,13 +67,14 @@ Translate only the maintained Tamil archive. Preserve the work's own order, quot
 - Draft D14 scans **482–497 — COMPLETE / PASS**
 - English page records — **497/497**
 - first-pass drafting — **497/497 — COMPLETE / CLOSED**
-- current English state — **0 `draft` + 0 `source-checked` + 496 `editorial-reviewed` + 1 `source-limited` (scan 8)**
+- current English state — **0 `draft` + 0 `source-checked` + 0 `editorial-reviewed` + 496 `release-ready` + 1 `source-limited` (scan 8)**
 - not yet created — **0**
 - source-check — **497/497 reviewed — SC1+SC2+SC3+SC4+SC5+SC6+SC7+SC8+SC9+SC10+SC11+SC12+SC13+SC14 COMPLETE / CLOSED**
 - glossary reconciliation — **497/497 — GR1+GR2+GR3+GR4+GR5+GR6+GR7+GR8+GR9+GR10+GR11+GR12+GR13+GR14 COMPLETE / CLOSED**
 - editorial review — **497/497 reviewed — ER1+ER2+ER3+ER4+ER5+ER6+ER7+ER8+ER9+ER10+ER11+ER12+ER13+ER14 COMPLETE / CLOSED (496 editorial-reviewed + scan 8 source-limited)**
 - whole-volume / section-level review — **COMPLETE / PASS — active release unit scans 1–497**
-- release-ready — **0/497**
+- release report — **PASS / APPROVED / CLOSED**
+- release-ready — **496/497 eligible pages; scan 8 remains source-limited**
 - blocked — **0**
 - durable D1 report — `DRAFT_D1_REPORT.md`
 - durable D2 report — `DRAFT_D2_REPORT.md`
@@ -131,5 +133,8 @@ Translate only the maintained Tamil archive. Preserve the work's own order, quot
 - durable ER13 report — `EDITORIAL_REVIEW_ER13_REPORT.md`
 - durable ER14 report — `EDITORIAL_REVIEW_ER14_REPORT.md`
 - durable whole-volume review — `reviews/WHOLE_VOLUME_ENGLISH_REVIEW.md`
+- durable release report — `reviews/WHOLE_VOLUME_ENGLISH_RELEASE_REPORT.md`
+- release promotion commit — `522923deb6ae1bcfdedd024ddf4439c0cf4a7868`
+- post-WFV English metadata synchronization commit — `5a9b877a7b315a466ffe1067b60a0a04de3d356d`
 
-Exact next activity: **maintained-English whole-volume English release report — active release unit scans 1–497**. Use `reviews/WHOLE_VOLUME_ENGLISH_REVIEW.md` as the authoritative prior gate, decide release approval, preserve scan 8 as `source-limited`, and only after approval promote the **496 eligible editorial-reviewed pages** to `release-ready` by status-token-only changes.
+Exact next activity: **none required — maintained-English release is COMPLETE / CLOSED**. Preserve scan 8 as `source-limited`; reopen only for new source evidence or an explicit user correction.

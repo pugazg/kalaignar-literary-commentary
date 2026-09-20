@@ -605,9 +605,11 @@ Gate I — **COMPLETE / PASS**. The Sangath Tamil archival pipeline is closed th
 
 Final declaration:
 
-**ARCHIVAL STRUCTURE / PHYSICAL / SECTION / PROVENANCE / METADATA / NAVIGATION CLOSED — RECORDED C2 DISCREPANCIES ADJUDICATED — WHOLE-VOLUME WORD-FOR-WORD SCAN VERIFICATION NOT CLAIMED.**
+**ARCHIVAL STRUCTURE / PHYSICAL / SECTION / PROVENANCE / METADATA / NAVIGATION CLOSED — RECORDED C2 DISCREPANCIES ADJUDICATED.**
 
-## Maintained English translation — ACTIVE
+Post-Gate-I WFV superseding state: fresh physical-source coverage is **497/497 COMPLETE**; Tamil is **496 verified / 0 needs-review / 1 source-limited partial**; scan **8** remains the permanent handwritten-facsimile exception.
+
+## Maintained English translation — RELEASE COMPLETE / CLOSED
 
 A separately scoped project-created English layer is active under `translations/en/`, modeled on the maintained-English Kuraloviyam workflow. Drafts D1–D14 scans **1–497 are COMPLETE / PASS**; first-pass drafting is **COMPLETE / CLOSED**.
 
@@ -667,26 +669,25 @@ Current maintained-English state:
 - page records — **497/497**
 - `draft` — **0**
 - `source-checked` — **0**
-- `editorial-reviewed` — **496**
+- `editorial-reviewed` — **0**
+- `release-ready` — **496**
 - `source-limited` — **1** (scan 8)
 - not yet created — **0**
 - source-check — **497/497 reviewed — SC1+SC2+SC3+SC4+SC5+SC6+SC7+SC8+SC9+SC10+SC11+SC12+SC13+SC14 COMPLETE / CLOSED**
 - glossary reconciliation — **497/497 reviewed — GR1+GR2+GR3+GR4+GR5+GR6+GR7+GR8+GR9+GR10+GR11+GR12+GR13+GR14 COMPLETE / CLOSED**
 - editorial review — **497/497 reviewed — ER1+ER2+ER3+ER4+ER5+ER6+ER7+ER8+ER9+ER10+ER11+ER12+ER13+ER14 COMPLETE / CLOSED (496 editorial-reviewed + scan 8 source-limited)**
 - whole-volume / section-level review — **COMPLETE / PASS — active release unit scans 1–497**
-- canonical Tamil page changes from English drafting — **0**
+- whole-volume English release report — **PASS / APPROVED / CLOSED**
+- release report — `translations/en/reviews/WHOLE_VOLUME_ENGLISH_RELEASE_REPORT.md`
+- release promotion — **496 eligible pages → `release-ready`**
+- release promotion commit — `522923deb6ae1bcfdedd024ddf4439c0cf4a7868`
+- post-WFV English metadata synchronization commit — `5a9b877a7b315a466ffe1067b60a0a04de3d356d`
+- canonical Tamil page changes from English drafting/release — **0**
 
-This downstream layer does **not** reopen or mass-promote the canonical Tamil records and does not change the declaration that whole-volume word-for-word scan verification is not claimed.
+This downstream layer preserves the completed Tamil WFV state: **496 verified / 0 needs-review / 1 source-limited partial**, with scan **8** permanently description-only.
 
 ## Exact next activity
 
-Tamil WFV work is **COMPLETE / CLOSED**.
+**None required. Sangatamil Tamil WFV and maintained-English release are COMPLETE / CLOSED.**
 
-- source coverage — **497/497 COMPLETE**
-- WFV pending — **0**
-- Tamil — **496 verified / 0 needs-review / 1 source-limited partial**
-- scan 8 — permanent documented facsimile/source limitation
-- English impact reconciliation — **COMPLETE**
-- maintained-English release-report gate — **UNBLOCKED**
-
-Next: resume the maintained-English final release/readiness workflow. Do not reopen Tamil wording unless new source evidence is supplied or the user explicitly requests a new correction.
+Reopen only for new source evidence or an explicit user-requested correction; preserve scan 8 as the permanent source-limited handwritten-facsimile exception.

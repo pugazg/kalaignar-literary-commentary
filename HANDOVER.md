@@ -749,3 +749,29 @@ Use `works/kuraloviyam/sections/entries/index.json` as the preferred structured 
 - Gate I — **COMPLETE / PASS — final closure**
 - current state — **CLOSED / no pending archival gate**
 
+# Sangath Tamil post-WFV final release closure — 2026-09-20
+
+**CURRENT AUTHORITATIVE CHECKPOINT — supersedes earlier Sangatamil Gate-G/Gate-I “WFV not claimed” workflow notes.**
+
+- fresh physical-source WFV coverage — **497/497 COMPLETE**
+- final Tamil — **496 verified / 0 needs-review / 1 source-limited partial**
+- final visual fidelity — **496 verified / 1 needs-review**
+- scan **8** — permanent handwritten-facsimile / description-only source limitation
+- WFV-001 — **REJECTED / canonical retained**
+- WFV-002..WFV-056 — **55/55 USER ADJUDICATED / CLOSED**
+- repository/Gemini readings retained — **20**
+- user-authorized corrections applied — **35**
+- pending WFV rows — **0**
+- targeted English impact reconciliation — **COMPLETE**
+- maintained-English whole-volume / section-level review — **PASS / CLOSED**
+- English release report — **PASS / APPROVED / CLOSED**
+- release report — `works/sangatamil/translations/en/reviews/WHOLE_VOLUME_ENGLISH_RELEASE_REPORT.md`
+- final English inventory — **496 release-ready / 1 source-limited (scan 8) / 0 blocked**
+- release promotion commit — `522923deb6ae1bcfdedd024ddf4439c0cf4a7868`
+- post-WFV English metadata synchronization commit — `5a9b877a7b315a466ffe1067b60a0a04de3d356d`
+- English body wording changed by promotion/synchronization — **0**
+- canonical Tamil changed by English release promotion/synchronization — **0**
+- Sangatamil next activity — **NONE REQUIRED**
+
+Do not reopen canonical Tamil wording unless new source evidence is supplied or the user explicitly requests a correction. Never promote scan 8 to fully source-verified without a source-policy change.
+

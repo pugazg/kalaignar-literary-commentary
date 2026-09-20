@@ -1,6 +1,6 @@
 # Sangatamil — Maintained English Translation Status
 
-**Status: ACTIVE — WHOLE-VOLUME / SECTION-LEVEL REVIEW COMPLETE / PASS**
+**Status: RELEASE COMPLETE / CLOSED — 496 RELEASE-READY + 1 SOURCE-LIMITED**
 
 Repository: `pugazg/kalaignar-literary-commentary`  
 Branch: `main`
@@ -445,7 +445,7 @@ R50:
 
 Current Tamil state is **496 verified / 0 needs-review / 1 partial**. Fresh source coverage is **497/497 COMPLETE**. WFV adjudication is **COMPLETE / 0 pending**.
 
-The English release-report gate remains **PAUSED** until the restarted Tamil audit and any eventual user-adjudicated lexical impacts are reconciled. Do not promote any English page to `release-ready` during this pause.
+The maintained-English release workflow is **COMPLETE / CLOSED**. The whole-volume English release report is approved, all **496 eligible pages** are `release-ready`, and scan **8** remains permanently `source-limited`.
 
 ## Tamil prerequisite
 
@@ -456,12 +456,16 @@ The Sangatamil Tamil archival pipeline is closed through Gates A–I.
 - sections — **104**
 - formal provenance units — **115**
 - source-note-only records — **4**
-- whole-volume word-for-word scan verification — **NOT CLAIMED**
+- fresh physical-source WFV coverage — **497/497 COMPLETE**
+- WFV adjudication — **55/55 rows CLOSED / 0 pending**
+- final Tamil state — **496 verified / 0 needs-review / 1 source-limited partial**
+- final visual state — **496 verified / 1 needs-review**
+- permanent exception — **scan 8 handwritten facsimile / description-only**
 
-Current Tamil page state during the restarted audit:
+Current Tamil page state after WFV closure:
 
-- `verified` — **452**
-- `needs-review` — **44**
+- `verified` — **496**
+- `needs-review` — **0**
 - `partial` — **1** (scan 8)
 
 English work does not alter or promote those Tamil statuses.
@@ -476,15 +480,15 @@ English work does not alter or promote those Tamil statuses.
 | Glossary reconciliation | **497/497 — GR1+GR2+GR3+GR4+GR5+GR6+GR7+GR8+GR9+GR10+GR11+GR12+GR13+GR14 COMPLETE / CLOSED** |
 | Editorial review | **497/497 reviewed — ER1+ER2+ER3+ER4+ER5+ER6+ER7+ER8+ER9+ER10+ER11+ER12+ER13+ER14 COMPLETE / CLOSED (496 editorial-reviewed + scan 8 source-limited)** |
 | Whole-volume / section-level review | **COMPLETE / PASS — active release unit scans 1–497** |
-| Release report | **PAUSED — Tamil word-for-word verification / targeted English impact reconciliation pending** |
-| Release-ready | **0/497** |
+| Release report | **PASS / APPROVED / CLOSED — `reviews/WHOLE_VOLUME_ENGLISH_RELEASE_REPORT.md`** |
+| Release-ready | **496/497 eligible pages; scan 8 remains source-limited** |
 
 Current English page inventory:
 
 - `draft` — **0**
 - `source-checked` — **0**
-- `editorial-reviewed` — **496**
-- `release-ready` — **0**
+- `editorial-reviewed` — **0**
+- `release-ready` — **496**
 - `source-limited` — **1** (scan 8)
 - `blocked` — **0**
 - not yet created — **0**
@@ -1112,14 +1116,24 @@ Scan **8** remains permanently `source-limited` under the standing handwritten-f
 
 English review/release status is relative to the maintained canonical Tamil archive.
 
-It must never be described as proving that the underlying Tamil corpus received a fresh exhaustive word-for-word scan verification.
+The underlying Tamil WFV cycle is now complete across **497/497 physical scans**, with **496 verified pages** and the permanent scan-8 handwritten-facsimile/source-limited exception. English release status does not remove or reinterpret that exception.
 
 ## Batch cadence
 
 Normal page-batched cadence: **37 physical scans**.
 
+## Final release closure
+
+**Maintained-English release — COMPLETE / CLOSED.**
+
+- release report — `reviews/WHOLE_VOLUME_ENGLISH_RELEASE_REPORT.md`
+- release promotion commit — `522923deb6ae1bcfdedd024ddf4439c0cf4a7868`
+- post-WFV English metadata synchronization commit — `5a9b877a7b315a466ffe1067b60a0a04de3d356d`
+- final English inventory — **496 `release-ready` + 1 `source-limited` (scan 8)**
+- English body-wording changes during release promotion/synchronization — **0**
+- canonical Tamil changes during English release promotion/synchronization — **0**
+- unresolved English release blockers — **0**
+
 ## Exact next activity
 
-Tamil WFV adjudication and all targeted English impact reconciliation are **COMPLETE**.
-
-The maintained-English release-report gate is now **UNBLOCKED**. Resume final English release/readiness synchronization, while preserving scan 8 as the documented source-limited exception. Do not reopen Tamil wording unless new source evidence or an explicit user correction is supplied.
+**None required for Sangatamil maintained-English release.** Reopen only if new source evidence is supplied or the user explicitly requests a correction.
