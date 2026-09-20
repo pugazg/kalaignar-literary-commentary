@@ -7,8 +7,8 @@ section: "பிசிராந்தையார் 3"
 language: "en"
 translation_type: "project_translation"
 status: "editorial-reviewed"
-source_tamil_status: "needs-review"
-source_tamil_visual_fidelity: "needs-review"
+source_tamil_status: "verified"
+source_tamil_visual_fidelity: "verified"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
 ---
 
@@ -67,9 +67,9 @@ If the day comes when they must bow before an enemy,
 they will give up life without hesitation!
 
 Their fame crosses the roaring sea;  
-they trade in eaglewood, pepper and pearls.
+they trade in fine eaglewood, pepper and pearls.
 
-They are fine masters of literature,  
+They are masters of literature,  
 sweet and good poets;
 
 they praise nature  

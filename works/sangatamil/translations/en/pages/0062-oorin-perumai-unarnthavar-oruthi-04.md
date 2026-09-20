@@ -7,8 +7,8 @@ section: "ஊரின் பெருமை உணர்த்தினள் �
 language: "en"
 translation_type: "project_translation"
 status: "editorial-reviewed"
-source_tamil_status: "needs-review"
-source_tamil_visual_fidelity: "needs-review"
+source_tamil_status: "verified"
+source_tamil_visual_fidelity: "verified"
 translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
 ---
 
@@ -50,7 +50,7 @@ If the slightest sound
 of her foot touching
 
 the flowers shed from the vines  
-over the leaf-litter beneath her jackfruit tree
+over the jackfruit-leaf litter
 
 were to wake the young hunter  
 who slept with eyes closed, forgetting the world—
