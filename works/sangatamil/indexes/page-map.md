@@ -39,23 +39,23 @@ Gate A repository hygiene is complete: **497 canonical page files / 0 duplicate 
 | 16 | — | internal `சங்கத் தமிழ்` title leaf | `verified` |
 | 17–19 | printed 2–4 | `மலர்மாரி பொழிகின்றேன்!` | **section complete / verified** |
 | 20–24 | printed 5–9 with scan-22 illustration | `யாதும் ஊரே; யாவரும் கேளிர்!` | **section complete / verified** |
-| 25–30 | printed 10–15 with scan-26 illustration | `மானங்காத்த மறவன்!` | **R03 source re-audit: scans 26–29 verified; scans 25 and 30 `needs-review` / visual `needs-review` for WFV-006 through WFV-008; 0 lexical mutations** |
+| 25–30 | printed 10–15 with scan-26 illustration | `மானங்காத்த மறவன்!` | **verified after user adjudication; WFV-006..008 retained repository/Gemini readings** |
 | 31–36 | printed 16–21 with scan-32 illustration | `துணை நின்றாள் தோழி!` | **Gemini-assisted regression reconciliation complete; text scans 31, 33–36 reopened `needs-review`; scan 32 illustration remains `verified`** |
 | 37–41 | printed 22–26 with scan-38 illustration | `சுமந்தவன் சுமந்த சோகம்!` | **section complete / verified under earlier workflow; subject to later systematic Pass 2/3 sweep** |
 | 42–46 | printed 27–31 with scan-44 illustration | `பாவை புகழ்ந்த பன்றி` | **section complete / verified under earlier workflow; subject to later systematic Pass 2/3 sweep** |
-| 47–49 | printed 32–34 with scan-48 illustration | `காக்கைக்கு நன்றி காட்ட...` | **R05 source re-audit: scans 47–48 verified; scan 49 `needs-review` / visual `needs-review` for WFV-009 (`திண்டோர்` vs source `திண்டேர்`); 0 lexical mutations** |
+| 47–49 | printed 32–34 with scan-48 illustration | `காக்கைக்கு நன்றி காட்ட...` | **verified after user adjudication; WFV-009 retained repository/Gemini reading** |
 | 50 | printed 35 | `மாதரின் கண்ட மலர்கள்` opening | **R05 source re-audit PASS / verified; no new lexical discrepancy** |
 | 51–54 | printed 36–39 with scan-52 illustration | continuation/closure of `மாவீரன் கண்ட மலர்கள்` | **R06 source re-audit PASS / all four verified; scan 51 quote-marker structure corrected with 0 lexical mutations** |
-| 55–58 | printed 40–43 with scan-56 illustration | `நெல்லும் உயிர் அன்றே! நீரும் உயிர் அன்றே!` | **R06 source re-audit: scans 56–58 verified; scan 55 `needs-review` / visual `needs-review` for WFV-010 (`கூடிற்றாம்!` vs source `கூடிற்றும்!`); scan 57 layout corrected; 0 lexical mutations** |
+| 55–58 | printed 40–43 with scan-56 illustration | `நெல்லும் உயிர் அன்றே! நீரும் உயிர் அன்றே!` | **verified after user adjudication; WFV-010 retained repository/Gemini reading; scan 57 layout correction preserved** |
 | 59–60 | printed 44 + scan-60 illustration | `ஊரின் பெருமை உணர்த்தினள் ஒருத்தி!` opening | **R06 source re-audit PASS / verified; protected C2 `முசுண்டை கொடியும்` preserved** |
-| 61–64 | printed 46–49 | closure of `ஊரின் பெருமை உணர்த்தினள் ஒருத்தி!` | **R07 source re-audit: scans 61, 63–64 verified; scan 62 `needs-review` / visual `needs-review` for WFV-002 token-placement discrepancy; 0 lexical mutations** |
-| 65–69 | printed 50–54 with scan-66 illustration | `வாணன் மணந்த வண்ணத் திருமகள்!` | **R07 source re-audit: scans 65–66 and 68 verified; scans 67 and 69 `needs-review` for WFV-011 and WFV-003; 0 lexical mutations** |
+| 61–64 | printed 46–49 | closure of `ஊரின் பெருமை உணர்த்தினள் ஒருத்தி!` | **verified after user adjudication; WFV-002 source token placement applied on scan 62** |
+| 65–69 | printed 50–54 with scan-66 illustration | `வாணன் மணந்த வண்ணத் திருமகள்!` | **verified after user adjudication; WFV-011 and WFV-003 retained repository/Gemini readings** |
 | 70 | printed 55 | `ஒரு பொது மகளின் புலம்பல்!` opening | **R07 source re-audit PASS / verified; protected C2 heading retained** |
 | 71–74 | printed 56–59 with scan-72 illustration | closure of `ஒரு பொது மகளின் புலம்பல்!` | **R08 source re-audit PASS / all four verified; 0 lexical discrepancies** |
 | 75–80 | printed 60–65 with scan-76 illustration | `பிசிராந்தையார் 1` | **R08 source re-audit PASS / all six verified; protected C2 scan-77 `பாண்டிநாட்டுச் சிற்றூரில்` retained; 0 lexical discrepancies** |
-| 81–84 | printed 66–69 with scan-82 illustration | `பிசிராந்தையார் 2` | **R09 source re-audit: scans 81–82 and 84 verified; scan 83 `needs-review` / visual `needs-review` for reconfirmed WFV-004 (`ஆழல்` vs source `ஆனால்`); prior C2 restored prose block preserved** |
-| 85–90 | printed 70–75 with scan-86 illustration | `பிசிராந்தையார் 3` | **R09 source re-audit: scans 86 and 88–90 verified; scans 85 and 87 `needs-review` for WFV-012 and WFV-013; scan 88 punctuation corrected; 0 lexical mutations** |
-| 91–95 | printed 76–80 with scan-92 illustration | `பிசிராந்தையார் 4` | **R10 source re-audit: scans 92–93 and 95 verified; scan 91 `needs-review` for reconfirmed WFV-005; scan 94 `needs-review` for WFV-014 (`உயிர்ஒம்` vs source `உயிர்ஓம்`); 0 lexical mutations** |
+| 81–84 | printed 66–69 with scan-82 illustration | `பிசிராந்தையார் 2` | **verified after user adjudication; scan 83 WFV-004 corrected exactly to `மாலையாவதில்லை - ஆனால்`; prior C2 restored prose preserved** |
+| 85–90 | printed 70–75 with scan-86 illustration | `பிசிராந்தையார் 3` | **verified after user adjudication; WFV-012 inserted `- அவர்கள்`; WFV-013 source placement of `நல்ல` applied; scan 88 punctuation correction preserved** |
+| 91–95 | printed 76–80 with scan-92 illustration | `பிசிராந்தையார் 4` | **verified after user adjudication; WFV-005 retained repository/Gemini reading; WFV-014 source `உயிர்ஓம்` applied on scan 94** |
 | 96–102 | printed 81–87 with scan-98 illustration | `உலைக் களத்து இரும்பும் ஒரு துளிநீரும்!` | **R10/R11 source re-audit PASS / scans 96–102 verified; protected C2 scan-96 heading and `சிவகெங்கைச் சீமை` retained** |
 | 103–106 | printed 88–91 with scan-104 illustration | `நடுக்கத்தில் கண்ட நயம்!` | **R11 source re-audit PASS / all four verified; 0 lexical discrepancies** |
 | 107–110 | printed 92–95 with scan-108 illustration | `ஒரு தாயின் தாலாட்டு!` | **R11 source re-audit PASS / all four verified; 0 lexical discrepancies** |

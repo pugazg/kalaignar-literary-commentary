@@ -481,12 +481,19 @@ R50 scans **491–497 — COMPLETE / PASS — FINAL SOURCE-COVERAGE BATCH**:
 - C20-003..006 preserved;
 - fresh restart source coverage — **497/497 COMPLETE**.
 
+First WFV user-adjudication set — COMPLETE / APPLIED:
+- reviewed rows — **13 across 12 pages**;
+- retained repository/Gemini — **8 rows**;
+- applied corrections — **5 rows**;
+- targeted English impact reconciled — scans **62 and 87**;
+- user will continue reviewing the remaining rows.
+
 Current whole-volume Tamil state:
 - `verified` — **452**
 - `needs-review` — **44**
 - `partial` — **1**
 - current restart coverage — **497/497 COMPLETE**
-- pending adjudication — **WFV-002 through WFV-056 / 55 rows across 44 pages**
+- pending adjudication — **42 WFV rows across 32 pages**
 
 Gate D — COMPLETE / PASS:
 - physical scans — 497/497
@@ -540,9 +547,9 @@ Gate G — **COMPLETE / PASS**:
 - required metadata field presence after repair — **497/497**
 - demonstrable defects repaired — **11 missing `visual_fidelity` fields**
 - Gate-G historical `status` distribution — **43 verified / 453 needs-review / 1 partial**
-- current restart-R50 state — **452 verified / 44 needs-review / 1 partial**
+- current post-adjudication state — **464 verified / 32 needs-review / 1 partial**
 - Gate-G historical `visual_fidelity` distribution — **43 verified / 454 needs-review / 0 missing**
-- current restart-R50 visual-fidelity state — **452 verified / 45 needs-review / 0 missing**
+- current post-adjudication visual-fidelity state — **464 verified / 33 needs-review / 0 missing**
 - canonical wording changes — **0**
 - unresolved Gate-G inconsistencies — **0**
 - durable report — `GATE_G_METADATA_STATUS_AUDIT.md`
@@ -644,8 +651,8 @@ This downstream layer does **not** reopen or mass-promote the canonical Tamil re
 
 ## Exact next activity
 
-The fresh Tamil word-for-word / historical-glyph source pass is complete at **497/497 physical scans**.
+The user has completed the first WFV review set and will continue the remaining discrepancies.
 
-Next: **WFV adjudication / reconciliation**, beginning with the earliest 10 held physical pages (scans **25, 30, 49, 55, 62, 67, 69, 83, 85, 87**; WFV-006/007/008/009/010/002/011/003/004/012/013). Present canonical vs source evidence and await explicit user decisions. Do not apply any lexical change before adjudication.
+Continue from **WFV-015 onward**, using `works/sangatamil/WFV_DISCREPANCY_COMPARISON.md` as the compact adjudication table. Do not modify any remaining pending row without an explicit user decision.
 
-After each adjudication batch, update affected Tamil pages/statuses and perform targeted English impact reconciliation where required. The maintained-English release-report gate remains paused until all pending WFV rows are resolved.
+Current unresolved state: **42 WFV rows across 32 physical pages**. The maintained-English release-report gate remains **PAUSED** until those rows are resolved and any resulting English impact is reconciled.
