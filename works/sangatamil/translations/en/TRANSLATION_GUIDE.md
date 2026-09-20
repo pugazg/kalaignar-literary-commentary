@@ -29,7 +29,7 @@ For normal translation/review work:
 
 The controlling scan remains ultimate source authority if a new fidelity problem is discovered.
 
-Important: Gates A–I are closed, but the corpus is **not** claimed to be exhaustively word-for-word scan verified. Do not convert English review into an implicit Tamil status promotion.
+Important: Gates A–I and the later dedicated Tamil WFV cycle are closed. Tamil WFV is **COMPLETE / PASS across 497/497 physical scans** with **496 verified / 0 needs-review / 1 source-limited partial (scan 8)**. English review/release status remains a separate workflow and must not alter Tamil source status.
 
 ## 3. Objective
 
@@ -72,9 +72,9 @@ section: "மலர்மாரி பொழிகின்றேன்!"
 language: "en"
 translation_type: "project_translation"
 status: "draft"
-source_tamil_status: "needs-review"
-source_tamil_visual_fidelity: "needs-review"
-translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
+source_tamil_status: "verified"
+source_tamil_visual_fidelity: "verified"
+translation_basis: "maintained canonical Tamil archival record after completed 497-scan WFV; controlling scan remains ultimate source authority; scan 8 remains source-limited"
 ---
 ```
 
@@ -89,7 +89,7 @@ Copy the Tamil status fields factually. Never promote a Tamil `needs-review` or 
 - `source-limited` — English is necessarily incomplete because the maintained Tamil record itself is partial or description-only.
 - `blocked` — a documented source or interpretive problem prevents safe translation.
 
-An English `release-ready` status certifies the maintained-English workflow only. It does **not** certify exhaustive scan-level Tamil verification.
+An English `release-ready` status certifies the maintained-English workflow only. Tamil WFV is separately and independently **COMPLETE / PASS**; English release status neither creates nor overrides that Tamil verification state.
 
 ## 6. Scan 8 permanent source limitation
 
@@ -199,8 +199,13 @@ For release:
 
 For every gate, fetch live `main` first, preserve newer state, update `TRANSLATION_STATUS.md`, and audit the exact changed-file set before advancing.
 
-## 15. Initial frontier
+## 15. Final closed state
 
-English controls initialized from live `main` after Tamil Gate-I closure.
+The maintained-English workflow is **RELEASE COMPLETE / CLOSED**:
 
-Exact first drafting frontier: **D1 — scans 1–37**.
+- English records — **497/497**;
+- `release-ready` — **496**;
+- `source-limited` — **1** (scan 8);
+- `blocked` — **0**;
+- release report — `reviews/WHOLE_VOLUME_ENGLISH_RELEASE_REPORT.md`;
+- exact next activity — **none required** unless new source evidence or an explicit correction reopens the work.
