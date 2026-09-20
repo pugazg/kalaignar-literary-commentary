@@ -1,37 +1,37 @@
 # சங்கத் தமிழ் — WFV Discrepancy Comparison
 
-**Purpose:** compact adjudication view of every discrepancy found by the restarted word-for-word / historical-glyph verification pass, comparing the **current repository/canonical reading** with the **source-visible reading/evidence**.
-
-**Generated from live `main`:** `604dade6e33d946dff21a771514c01f992a9e675`
+**Purpose:** user-adjudication view comparing repository readings with source-visible/source-aligned evidence.
 
 ## Current state
 
 - fresh source coverage — **497/497 COMPLETE**
-- pending WFV rows — **55**
-- affected physical pages — **44**
-- canonical lexical changes applied from these pending rows — **0**
+- adjudicated in the current user review — **13 WFV rows across 12 pages**
+- pending WFV rows — **42**
+- affected physical pages still pending — **32**
 - maintained-English release-report gate — **PAUSED**
-- authoritative detailed ledger — [`LEXICAL_DISCREPANCY_LEDGER.md`](LEXICAL_DISCREPANCY_LEDGER.md)
 
-> This file is a comparison/adjudication aid. The **Repository / canonical** column is the wording or token placement currently preserved by the repository and recorded in the live discrepancy ledger. The **Source-visible / source-aligned** column records what the source scan showed during direct review. No pending row is permission to change the repository until the user explicitly adjudicates it.
+## User-reviewed / adjudicated rows
 
-## Pending discrepancies — repository vs source
+| WFV | Scan | Printed | Repository page | Repository before adjudication | Source-visible / source-aligned | User adjudication / comment | Repository after adjudication |
+|---|---:|---:|---|---|---|---|---|
+| WFV-002 | 62 | 47 | [`0062-oorin-perumai-unarnthavar-oruthi-04.md`](pages/0062-oorin-perumai-unarnthavar-oruthi-04.md) | canonical places `தனது` before `பலாமரத்து இலைச்சருகுகளில்`, then proceeds `படர்ந்துள்ள கொடியுதிர் மலர்களில் / பாதம்...` | source places the same token later as `படர்ந்துள்ள கொடியுதிர் மலர்களில் - தனது / பாதம்...` | Gemini error — apply source token placement. | source token placement applied (`தனது` now modifies `பாதம்`) |
+| WFV-003 | 69 | 54 | [`0069-vaanan-manandha-vannath-thirumagal-05.md`](pages/0069-vaanan-manandha-vannath-thirumagal-05.md) | `தலைமகனாம் என் கணவர்` | `தலைமகனும் என் கணவர்` | Gemini is correct. Retain repository. No change required. | `தலைமகனாம் என் கணவர்` |
+| WFV-004 | 83 | 68 | [`0083-pisiranthaiyar-2-02.md`](pages/0083-pisiranthaiyar-2-02.md) | `மாலையாவதில்ல - ஆழல்` | `மாலையாவதில்ல - ஆனால்` | Both prior readings are incorrect. Apply exact user correction: `மாலையாவதில்லை - ஆனால்`. | `மாலையாவதில்லை - ஆனால்` |
+| WFV-005 | 91 | 76 | [`0091-pisirandhaiyar-4-01.md`](pages/0091-pisirandhaiyar-4-01.md) | `வாராத காரணம்தான்` | `வராத காரணம்தான்` | Gemini is correct. Retain repository. No change required. | `வாராத காரணம்தான்` |
+| WFV-006 | 25 | 10 | [`0025-maanangkaatha-maravan-01.md`](pages/0025-maanangkaatha-maravan-01.md) | `வளையாத முதுகெலும்பு பெற்றவனோ?` | `வளையாத முதுகெலும்பு பெற்றவனே?` | Gemini is correct. Retain repository. No change required. | `வளையாத முதுகெலும்பு பெற்றவனோ?` |
+| WFV-007 | 30 | 15 | [`0030-maanangkaatha-maravan-06.md`](pages/0030-maanangkaatha-maravan-06.md) | quotation `ஆள்அன்று என்று வாளின் தப்பார்;` | quotation source `ஆளன்று என்று வாளின் தப்பார்;` | Gemini is correct. Retain repository. No change required. | quotation `ஆள்அன்று என்று வாளின் தப்பார்;` |
+| WFV-008 | 30 | 15 | [`0030-maanangkaatha-maravan-06.md`](pages/0030-maanangkaatha-maravan-06.md) | gloss `ஆள்அன்று என்று வாளின் தப்பார் = ...` | gloss source `ஆளன்று என்று வாளின் தப்பார் = ...` | Gemini is correct. Retain repository. No change required. | gloss `ஆள்அன்று என்று வாளின் தப்பார் = ...` |
+| WFV-009 | 49 | 34 | [`0049-kaakkaikku-nandri-kaatta-03.md`](pages/0049-kaakkaikku-nandri-kaatta-03.md) | quotation `திண்டோர் நள்ளி கானத் தண்டர்` | quotation source `திண்டேர் நள்ளி கானத் தண்டர்` | Gemini is correct. Retain repository. No change required. | quotation `திண்டோர் நள்ளி கானத் தண்டர்` |
+| WFV-010 | 55 | 40 | [`0055-nellum-uyir-anre-neerum-uyir-anre-01.md`](pages/0055-nellum-uyir-anre-neerum-uyir-anre-01.md) | `ஆன்றவிந் தடங்கிய மேலோர் புலவர் அவை கூடிற்றாம்!` | source `ஆன்றவிந் தடங்கிய மேலோர் புலவர் அவை கூடிற்றும்!` | Gemini is correct. Retain repository. No change required. | `ஆன்றவிந் தடங்கிய மேலோர் புலவர் அவை கூடிற்றாம்!` |
+| WFV-011 | 67 | 52 | [`0067-vaanan-manandha-vannath-thirumagal-03.md`](pages/0067-vaanan-manandha-vannath-thirumagal-03.md) | `அவசரமாய்ப் புறப்பட்டான் தேர்ஏறி!` | source `அவசரமாய்ப் புறப்பட்டான் தேரேறி!` | Gemini is correct. Retain repository. No change required. | `அவசரமாய்ப் புறப்பட்டான் தேர்ஏறி!` |
+| WFV-012 | 85 | 70 | [`0085-pisirandhaiyar-3-01.md`](pages/0085-pisirandhaiyar-3-01.md) | canonical moves directly from `வளர்ந்த மகன், மனைவியுடன் வயலுக்குச் சென்றுளான்` to `வருவதற்கு நேரமாகும்; அஞ்சாதே!` | source visibly includes right-offset `- அவர்கள்` between those lines | Gemini error — insert the source-visible right-offset `- அவர்கள்`. | right-offset `- அவர்கள்` inserted |
+| WFV-013 | 87 | 72 | [`0087-pisirandhaiyar-3-02.md`](pages/0087-pisirandhaiyar-3-02.md) | canonical places `நல்ல` before `இலக்கிய மேதைகள்` | source places `நல்ல` with `இமிழ் கடல் தாண்டியும் புகழ் மணம் பரப்பி - நல்ல / அகில், மிளகு, முத்து வாணிபம் புரிவார்!` | Gemini error — apply source placement of `நல்ல` with the trade line. | `நல்ல` moved to the trade line before `அகில், மிளகு, முத்து...` |
+| WFV-014 | 94 | 79 | [`0094-pisirandhaiyar-4-03.md`](pages/0094-pisirandhaiyar-4-03.md) | Purananuru 215 quotation `பிசிரோன் என்ப, என் உயிர்ஒம் புநனே;` | source-visible `பிசிரோன் என்ப, என் உயிர்ஓம் புநனே;` | Gemini error — apply source-visible `பிசிரோன் என்ப, என் உயிர்ஓம் புநனே;`. | `பிசிரோன் என்ப, என் உயிர்ஓம் புநனே;` |
+
+## Remaining pending discrepancies — repository vs source
 
 | WFV | Scan | Printed | Repository page | Repository / canonical | Source-visible / source-aligned | Type | Status |
 |---|---:|---:|---|---|---|---|---|
-| WFV-006 | 25 | 10 | [`0025-maanangkaatha-maravan-01.md`](pages/0025-maanangkaatha-maravan-01.md) | `வளையாத முதுகெலும்பு பெற்றவனோ?` | `வளையாத முதுகெலும்பு பெற்றவனே?` | `likely-gemini-error` | **PENDING USER ADJUDICATION** |
-| WFV-007 | 30 | 15 | [`0030-maanangkaatha-maravan-06.md`](pages/0030-maanangkaatha-maravan-06.md) | quotation `ஆள்அன்று என்று வாளின் தப்பார்;` | quotation source `ஆளன்று என்று வாளின் தப்பார்;` | `old-or-uncommon-form` | **PENDING USER ADJUDICATION** |
-| WFV-008 | 30 | 15 | [`0030-maanangkaatha-maravan-06.md`](pages/0030-maanangkaatha-maravan-06.md) | gloss `ஆள்அன்று என்று வாளின் தப்பார் = ...` | gloss source `ஆளன்று என்று வாளின் தப்பார் = ...` | `old-or-uncommon-form` | **PENDING USER ADJUDICATION** |
-| WFV-009 | 49 | 34 | [`0049-kaakkaikku-nandri-kaatta-03.md`](pages/0049-kaakkaikku-nandri-kaatta-03.md) | quotation `திண்டோர் நள்ளி கானத் தண்டர்` | quotation source `திண்டேர் நள்ளி கானத் தண்டர்` | `likely-gemini-error` | **PENDING USER ADJUDICATION** |
-| WFV-010 | 55 | 40 | [`0055-nellum-uyir-anre-neerum-uyir-anre-01.md`](pages/0055-nellum-uyir-anre-neerum-uyir-anre-01.md) | `ஆன்றவிந் தடங்கிய மேலோர் புலவர் அவை கூடிற்றாம்!` | source `ஆன்றவிந் தடங்கிய மேலோர் புலவர் அவை கூடிற்றும்!` | `likely-gemini-error` | **PENDING USER ADJUDICATION** |
-| WFV-002 | 62 | 47 | [`0062-oorin-perumai-unarnthavar-oruthi-04.md`](pages/0062-oorin-perumai-unarnthavar-oruthi-04.md) | canonical places `தனது` before `பலாமரத்து இலைச்சருகுகளில்`, then proceeds `படர்ந்துள்ள கொடியுதிர் மலர்களில் / பாதம்...` | source places the same token later as `படர்ந்துள்ள கொடியுதிர் மலர்களில் - தனது / பாதம்...` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION** |
-| WFV-011 | 67 | 52 | [`0067-vaanan-manandha-vannath-thirumagal-03.md`](pages/0067-vaanan-manandha-vannath-thirumagal-03.md) | `அவசரமாய்ப் புறப்பட்டான் தேர்ஏறி!` | source `அவசரமாய்ப் புறப்பட்டான் தேரேறி!` | `likely-gemini-error` | **PENDING USER ADJUDICATION** |
-| WFV-003 | 69 | 54 | [`0069-vaanan-manandha-vannath-thirumagal-05.md`](pages/0069-vaanan-manandha-vannath-thirumagal-05.md) | `தலைமகனாம் என் கணவர்` | `தலைமகனும் என் கணவர்` | `likely-gemini-error` | **PENDING USER ADJUDICATION** |
-| WFV-004 | 83 | 68 | [`0083-pisiranthaiyar-2-02.md`](pages/0083-pisiranthaiyar-2-02.md) | `மாலையாவதில்ல - ஆழல்` | `மாலையாவதில்ல - ஆனால்` | `likely-gemini-error` | **PENDING USER ADJUDICATION** |
-| WFV-012 | 85 | 70 | [`0085-pisirandhaiyar-3-01.md`](pages/0085-pisirandhaiyar-3-01.md) | canonical moves directly from `வளர்ந்த மகன், மனைவியுடன் வயலுக்குச் சென்றுளான்` to `வருவதற்கு நேரமாகும்; அஞ்சாதே!` | source visibly includes right-offset `- அவர்கள்` between those lines | `missing-source-token / likely-gemini-error` | **PENDING USER ADJUDICATION** |
-| WFV-013 | 87 | 72 | [`0087-pisirandhaiyar-3-02.md`](pages/0087-pisirandhaiyar-3-02.md) | canonical places `நல்ல` before `இலக்கிய மேதைகள்` | source places `நல்ல` with `இமிழ் கடல் தாண்டியும் புகழ் மணம் பரப்பி - நல்ல / அகில், மிளகு, முத்து வாணிபம் புரிவார்!` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION** |
-| WFV-005 | 91 | 76 | [`0091-pisirandhaiyar-4-01.md`](pages/0091-pisirandhaiyar-4-01.md) | `வாராத காரணம்தான்` | `வராத காரணம்தான்` | `likely-gemini-error` | **PENDING USER ADJUDICATION** |
-| WFV-014 | 94 | 79 | [`0094-pisirandhaiyar-4-03.md`](pages/0094-pisirandhaiyar-4-03.md) | Purananuru 215 quotation `பிசிரோன் என்ப, என் உயிர்ஒம் புநனே;` | source-visible `பிசிரோன் என்ப, என் உயிர்ஓம் புநனே;` | `vowel-length-glyph / likely-gemini-error` | **PENDING USER ADJUDICATION** |
 | WFV-015 | 174 | 161 | [`0174-thagadooraan-thandha-kani-04.md`](pages/0174-thagadooraan-thandha-kani-04.md) | glossary `வலம்படுவாய் வாள் = / தவறாத வாள்.` | `வலம்படுவாய் வாள் = வெற்றிமிகுந்த / தவறாத வாள்.` | `missing-source-token / likely-gemini-error` | **PENDING USER ADJUDICATION** |
 | WFV-016 | 177 | 164 | [`0177-neermagal-neerinum-kulirndha-nenjam-03.md`](pages/0177-neermagal-neerinum-kulirndha-nenjam-03.md) | canonical moves `முகத்தில்` to after `படர்கின்ற பசலை நிறம் மறைத்து` | source places it as `இருவாட்சியும் செண்பகமும் சூடி - முகத்தில்` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION** |
 | WFV-017 | 177 | 164 | [`0177-neermagal-neerinum-kulirndha-nenjam-03.md`](pages/0177-neermagal-neerinum-kulirndha-nenjam-03.md) | canonical moves `உன்` to immediately before `சுடர்கின்ற பொன்னொளி...` | source places it as `தருநிழலின்றித் தவிக்கின்ற மான்போல் - உன் / பருவமயில்...` | `token-placement / likely-gemini-error` | **PENDING USER ADJUDICATION** |
@@ -75,12 +75,6 @@
 | WFV-055 | 445 | 433 | [`0445-oruthalaik-kaadhal-04-01.md`](pages/0445-oruthalaik-kaadhal-04-01.md) | `நாயினும் கீழாய்ப் பிறரை மதிப்பவனேத்` | historical `னை` identity reads `நாயினும் கீழாய்ப் பிறரை மதிப்பவனைத்`; same-edition scan 435 `இவனைத்தான்` matches the old `னை` form | `historical-glyph / likely-gemini-error` | **PENDING USER ADJUDICATION** |
 | WFV-056 | 446 | 434 | [`0446-oruthalaik-kaadhal-04-02.md`](pages/0446-oruthalaik-kaadhal-04-02.md) | `அணிமணிகள், அரண்மனைகள் தக்கவைக்கும் மனிதர்களேத்` | historical `ளை` identity reads `அணிமணிகள், அரண்மனைகள் தக்கவைக்கும் மனிதர்களைத்`; same-edition scan 441 `வெள்ளை` matches the old `ளை` form | `historical-glyph / likely-gemini-error` | **PENDING USER ADJUDICATION** |
 
-## Resolved / rejected discrepancy
+## Previously resolved / rejected
 
-| WFV | Scan | Printed | Repository page | Repository / canonical | Earlier source candidate | Type | Final status |
-|---|---:|---:|---|---|---|---|---|
-| WFV-001 | 7 | II | [`0007-publication-details.md`](pages/0007-publication-details.md) | `ராக்போர்ட்` | earlier provisional read `ராக்ஃபோர்ட்` | `likely-gemini-error` | **REJECTED / canonical retained** |
-
-## Adjudication rule
-
-For every pending row, the user may choose **keep repository/canonical**, **apply source**, or provide a different explicit reading. Until that decision is given, the page stays unchanged and the WFV row remains pending. After adjudication, update only the exact affected wording/placement, then reconcile page status and any English impact.
+WFV-001 remains **REJECTED / canonical retained**.

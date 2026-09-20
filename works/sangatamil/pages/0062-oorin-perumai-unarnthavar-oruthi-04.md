@@ -4,11 +4,11 @@ printed_page: "47"
 work: "sangatamil"
 section: "ஊரின் பெருமை உணர்த்தினள் ஒருத்தி!"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "running கலைஞர் மு. கருணாநிதி header; continuation arranged in printed verse/prose blocks; R07 reconfirms WFV-002: canonical places `தனது` before `பலாமரத்து`, while the source places `- தனது` after `படர்ந்துள்ள கொடியுதிர் மலர்களில்`; canonical wording/placement remains unchanged pending user adjudication; printed page number 47 visible"
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "WFV user adjudication complete for scan 62; WFV-002 user-authorized correction applied; page verified."
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; WFV user-adjudicated"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 61
 continues_to_scan: 63
@@ -38,8 +38,8 @@ continues_to_scan: 63
 அப்பால் ஓர் அடிதனை எடுத்து வைக்கவும்  
 தயக்கமுற்றாள்!
 
-தனது பலாமரத்து இலைச்சருகுகளில்  
-படர்ந்துள்ள கொடியுதிர் மலர்களில்  
+பலாமரத்து இலைச்சருகுகளில்  
+படர்ந்துள்ள கொடியுதிர் மலர்களில் - தனது  
 பாதம் படுகின்ற சிறிய ஒலி கூட;  
 இமை மூடி இவ்வுலகை மறந்து துயில்கின்ற  
 இளமை மிகு வேடனையே எழுப்பிவிட்டால்,  

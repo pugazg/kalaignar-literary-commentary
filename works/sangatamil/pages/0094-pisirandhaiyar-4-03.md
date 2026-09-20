@@ -4,11 +4,11 @@ printed_page: "79"
 work: "sangatamil"
 section: "பிசிராந்தையார் 4"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "R10 WFV-014: in the Purananuru 215 quotation, canonical `என் உயிர்ஒம் புநனே` differs from source-visible `என் உயிர்ஓம் புநனே`; canonical unchanged pending user adjudication."
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "WFV user adjudication complete for scan 94; WFV-014 user-authorized correction applied; page verified."
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; WFV user-adjudicated"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 continues_from_scan: 93
 ---
@@ -35,7 +35,7 @@ continues_from_scan: 93
 <div align="center">*</div>
 
 > \* “தென்னம் பொருப்பன் நன்னாட்டு உள்ளும்  
-> பிசிரோன் என்ப, என் உயிர்ஒம் புநனே;  
+> பிசிரோன் என்ப, என் உயிர்ஓம் புநனே;  
 > செல்வக்காலை நிற்பினும்,  
 > அல்லற்காலை நில்லலன் மன்னே.”
 

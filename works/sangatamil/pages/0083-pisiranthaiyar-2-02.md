@@ -4,11 +4,11 @@ printed_page: "68"
 work: "sangatamil"
 section: "பிசிராந்தையார் 2"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "R09 reconfirms WFV-004 at enlarged/native resolution: canonical `மாலையாவதில்ல - ஆழல்` vs source-visible `மாலையாவதில்ல - ஆனால்`; canonical unchanged pending user adjudication. Prior C2-04 restored introductory prose block remains protected."
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "WFV user adjudication complete for scan 83; WFV-004 user-authorized correction applied; page verified."
 language: "ta"
-transcription_method: "Gemini-locked lexical wording with user-authorized C2 source-block restoration"
+transcription_method: "Gemini-locked lexical wording with user-authorized C2 source-block restoration; WFV user-adjudicated"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -24,7 +24,7 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 மனப்புயல் ஒருபுறம், அடக்கிக்கொண்டு - அவன்  
 மாப்புகழ்பற்றி எடுத்துரைத்தார்!
 
-கோக்காமல் முத்துக்கள் மாலையாவதில்ல - ஆழல்  
+கோக்காமல் முத்துக்கள் மாலையாவதில்லை - ஆனால்  
 பார்க்காமலே சோழனும் புலவரும் நட்பின் ஆரமாய்த் திகழ
 
 தமிழே மணியாய் - தமிழ் உணர்வே இழையாய் ஆனதுவாம்!  

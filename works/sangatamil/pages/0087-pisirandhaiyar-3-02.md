@@ -4,11 +4,11 @@ printed_page: "72"
 work: "sangatamil"
 section: "பிசிராந்தையார் 3"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "R09 WFV-013: source places `நல்ல` with `இமிழ் கடல் தாண்டியும் புகழ் மணம் பரப்பி - நல்ல / அகில், மிளகு, முத்து வாணிபம் புரிவார்!`; canonical places `நல்ல` before `இலக்கிய மேதைகள்`. Canonical token placement remains unchanged pending user adjudication. Prior C2 scan-87 `சந்தையில் தொலைத்துவிட்ட பொருளாயிற்றே தமது மகிழ்ச்சி` remains protected."
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "WFV user adjudication complete for scan 87; WFV-013 user-authorized correction applied; page verified."
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; WFV user-adjudicated"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -45,10 +45,9 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 “தமிழினத்தார் தன்மானம் மிக்குடையார் - பகைவர்க்குத்  
 தலைதாழ்த்தும் நிலை வந்தால் தயங்காமல் உயிர் துறப்பார்!
 
-இமிழ் கடல் தாண்டியும் புகழ் மணம் பரப்பி  
+இமிழ் கடல் தாண்டியும் புகழ் மணம் பரப்பி - நல்ல  
 அகில், மிளகு, முத்து வாணிபம் புரிவார்!
 
-நல்ல  
 இலக்கிய மேதைகள், இனிய நற்கவிஞர்கள்  
 இயற்கையைப் போற்றுவர், எழில் மாடம் அமைப்பர்!
 

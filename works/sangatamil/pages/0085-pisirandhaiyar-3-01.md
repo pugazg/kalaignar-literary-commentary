@@ -4,11 +4,11 @@ printed_page: "70"
 work: "sangatamil"
 section: "பிசிராந்தையார் 3"
 page_type: "text"
-status: "needs-review"
-visual_fidelity: "needs-review"
-visual_notes: "R09 WFV-012: source visibly prints right-offset `- அவர்கள்` after `வளர்ந்த மகன், மனைவியுடன் வயலுக்குச் சென்றுளான்`; canonical omits that printed token. Body remains unchanged pending user adjudication."
+status: "verified"
+visual_fidelity: "verified"
+visual_notes: "WFV user adjudication complete for scan 85; WFV-012 user-authorized correction applied; page verified."
 language: "ta"
-transcription_method: "Gemini-locked lexical wording aligned to controlling source structure"
+transcription_method: "Gemini-locked lexical wording aligned to controlling source structure; WFV user-adjudicated"
 source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 ---
 
@@ -40,7 +40,10 @@ source_filename: "TVA_BOK_0042551_சங்கத்_தமிழ்.pdf"
 வார்த்தெடுத்த வைரச்சிலைகளுக்கு இம்மொழி புரிய வயது  
 போதாது!
 
-வளர்ந்த மகன், மனைவியுடன் வயலுக்குச் சென்றுளான்  
+வளர்ந்த மகன், மனைவியுடன் வயலுக்குச் சென்றுளான்
+
+<div align="right">- அவர்கள்</div>
+
 வருவதற்கு நேரமாகும்; அஞ்சாதே!” என்றார்.
 
 “வந்துவிடுவார் இப்போது கொஞ்சாதீர்” என எச்சரித்தாள்!  

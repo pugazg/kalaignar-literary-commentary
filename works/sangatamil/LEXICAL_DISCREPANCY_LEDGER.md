@@ -1604,19 +1604,19 @@ These rows are therefore **not correction authorizations**. Canonical wording st
 | ID | Scan | Printed page | Canonical page | Locked repository wording | Source-visible wording | Classification | Disposition |
 |---|---:|---:|---|---|---|---|---|
 | WFV-001 | 7 | II | `0007-publication-details.md` | `ராக்போர்ட்` | earlier provisional read `ராக்ஃபோர்ட்` | `likely-gemini-error` | **REJECTED ON R01 RE-AUDIT — high-resolution scan + same-edition evidence support canonical `ராக்போர்ட்`; no lexical discrepancy** |
-| WFV-002 | 62 | 47 | `0062-oorin-perumai-unarnthavar-oruthi-04.md` | canonical places `தனது` before `பலாமரத்து இலைச்சருகுகளில்`, then proceeds `படர்ந்துள்ள கொடியுதிர் மலர்களில் / பாதம்...` | source places the same token later as `படர்ந்துள்ள கொடியுதிர் மலர்களில் - தனது / பாதம்...` | `token-placement / likely-gemini-error` | **R07 CONFIRMED / PENDING USER ADJUDICATION — canonical wording/placement unchanged; scan 62 remains needs-review** |
-| WFV-003 | 69 | 54 | `0069-vaanan-manandha-vannath-thirumagal-05.md` | `தலைமகனாம் என் கணவர்` | `தலைமகனும் என் கணவர்` | `likely-gemini-error` | **R07 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 69 remains needs-review** |
-| WFV-004 | 83 | 68 | `0083-pisiranthaiyar-2-02.md` | `மாலையாவதில்ல - ஆழல்` | `மாலையாவதில்ல - ஆனால்` | `likely-gemini-error` | **R09 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 83 remains needs-review** |
-| WFV-005 | 91 | 76 | `0091-pisirandhaiyar-4-01.md` | `வாராத காரணம்தான்` | `வராத காரணம்தான்` | `likely-gemini-error` | **R10 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 91 remains needs-review** |
-| WFV-006 | 25 | 10 | `0025-maanangkaatha-maravan-01.md` | `வளையாத முதுகெலும்பு பெற்றவனோ?` | `வளையாத முதுகெலும்பு பெற்றவனே?` | `likely-gemini-error` | **R03 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 25 reopened to needs-review** |
-| WFV-007 | 30 | 15 | `0030-maanangkaatha-maravan-06.md` | quotation `ஆள்அன்று என்று வாளின் தப்பார்;` | quotation source `ஆளன்று என்று வாளின் தப்பார்;` | `old-or-uncommon-form` | **R03 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 30 reopened to needs-review** |
-| WFV-008 | 30 | 15 | `0030-maanangkaatha-maravan-06.md` | gloss `ஆள்அன்று என்று வாளின் தப்பார் = ...` | gloss source `ஆளன்று என்று வாளின் தப்பார் = ...` | `old-or-uncommon-form` | **R03 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; same scan-30 lexical hold** |
-| WFV-009 | 49 | 34 | `0049-kaakkaikku-nandri-kaatta-03.md` | quotation `திண்டோர் நள்ளி கானத் தண்டர்` | quotation source `திண்டேர் நள்ளி கானத் தண்டர்` | `likely-gemini-error` | **R05 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 49 reopened to needs-review** |
-| WFV-010 | 55 | 40 | `0055-nellum-uyir-anre-neerum-uyir-anre-01.md` | `ஆன்றவிந் தடங்கிய மேலோர் புலவர் அவை கூடிற்றாம்!` | source `ஆன்றவிந் தடங்கிய மேலோர் புலவர் அவை கூடிற்றும்!` | `likely-gemini-error` | **R06 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 55 remains needs-review** |
-| WFV-011 | 67 | 52 | `0067-vaanan-manandha-vannath-thirumagal-03.md` | `அவசரமாய்ப் புறப்பட்டான் தேர்ஏறி!` | source `அவசரமாய்ப் புறப்பட்டான் தேரேறி!` | `likely-gemini-error` | **R07 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 67 remains needs-review** |
-| WFV-012 | 85 | 70 | `0085-pisirandhaiyar-3-01.md` | canonical moves directly from `வளர்ந்த மகன், மனைவியுடன் வயலுக்குச் சென்றுளான்` to `வருவதற்கு நேரமாகும்; அஞ்சாதே!` | source visibly includes right-offset `- அவர்கள்` between those lines | `missing-source-token / likely-gemini-error` | **R09 CONFIRMED / PENDING USER ADJUDICATION — canonical body unchanged; scan 85 remains needs-review** |
-| WFV-013 | 87 | 72 | `0087-pisirandhaiyar-3-02.md` | canonical places `நல்ல` before `இலக்கிய மேதைகள்` | source places `நல்ல` with `இமிழ் கடல் தாண்டியும் புகழ் மணம் பரப்பி - நல்ல / அகில், மிளகு, முத்து வாணிபம் புரிவார்!` | `token-placement / likely-gemini-error` | **R09 CONFIRMED / PENDING USER ADJUDICATION — canonical token placement unchanged; scan 87 remains needs-review** |
-| WFV-014 | 94 | 79 | `0094-pisirandhaiyar-4-03.md` | Purananuru 215 quotation `பிசிரோன் என்ப, என் உயிர்ஒம் புநனே;` | source-visible `பிசிரோன் என்ப, என் உயிர்ஓம் புநனே;` | `vowel-length-glyph / likely-gemini-error` | **R10 CONFIRMED / PENDING USER ADJUDICATION — canonical unchanged; scan 94 remains needs-review** |
+| WFV-002 | 62 | 47 | `0062-oorin-perumai-unarnthavar-oruthi-04.md` | canonical places `தனது` before `பலாமரத்து இலைச்சருகுகளில்`, then proceeds `படர்ந்துள்ள கொடியுதிர் மலர்களில் / பாதம்...` | source places the same token later as `படர்ந்துள்ள கொடியுதிர் மலர்களில் - தனது / பாதம்...` | `token-placement / likely-gemini-error` | **USER ADJUDICATED / APPLIED — source token placement applied; scan 62 verified** |
+| WFV-003 | 69 | 54 | `0069-vaanan-manandha-vannath-thirumagal-05.md` | `தலைமகனாம் என் கணவர்` | `தலைமகனும் என் கணவர்` | `likely-gemini-error` | **USER ADJUDICATED — GEMINI/REPOSITORY CORRECT; canonical retained; scan 69 verified** |
+| WFV-004 | 83 | 68 | `0083-pisiranthaiyar-2-02.md` | `மாலையாவதில்ல - ஆழல்` | `மாலையாவதில்ல - ஆனால்` — user exact reading: `மாலையாவதில்லை - ஆனால்` | `likely-gemini-error` | **USER ADJUDICATED / APPLIED — user correction applied; scan 83 verified** |
+| WFV-005 | 91 | 76 | `0091-pisirandhaiyar-4-01.md` | `வாராத காரணம்தான்` | `வராத காரணம்தான்` | `likely-gemini-error` | **USER ADJUDICATED — GEMINI/REPOSITORY CORRECT; canonical retained; scan 91 verified** |
+| WFV-006 | 25 | 10 | `0025-maanangkaatha-maravan-01.md` | `வளையாத முதுகெலும்பு பெற்றவனோ?` | `வளையாத முதுகெலும்பு பெற்றவனே?` | `likely-gemini-error` | **USER ADJUDICATED — GEMINI/REPOSITORY CORRECT; canonical retained; scan 25 verified** |
+| WFV-007 | 30 | 15 | `0030-maanangkaatha-maravan-06.md` | quotation `ஆள்அன்று என்று வாளின் தப்பார்;` | quotation source `ஆளன்று என்று வாளின் தப்பார்;` | `old-or-uncommon-form` | **USER ADJUDICATED — GEMINI/REPOSITORY CORRECT; canonical retained; scan 30 verified** |
+| WFV-008 | 30 | 15 | `0030-maanangkaatha-maravan-06.md` | gloss `ஆள்அன்று என்று வாளின் தப்பார் = ...` | gloss source `ஆளன்று என்று வாளின் தப்பார் = ...` | `old-or-uncommon-form` | **USER ADJUDICATED — GEMINI/REPOSITORY CORRECT; canonical retained; scan 30 verified** |
+| WFV-009 | 49 | 34 | `0049-kaakkaikku-nandri-kaatta-03.md` | quotation `திண்டோர் நள்ளி கானத் தண்டர்` | quotation source `திண்டேர் நள்ளி கானத் தண்டர்` | `likely-gemini-error` | **USER ADJUDICATED — GEMINI/REPOSITORY CORRECT; canonical retained; scan 49 verified** |
+| WFV-010 | 55 | 40 | `0055-nellum-uyir-anre-neerum-uyir-anre-01.md` | `ஆன்றவிந் தடங்கிய மேலோர் புலவர் அவை கூடிற்றாம்!` | source `ஆன்றவிந் தடங்கிய மேலோர் புலவர் அவை கூடிற்றும்!` | `likely-gemini-error` | **USER ADJUDICATED — GEMINI/REPOSITORY CORRECT; canonical retained; scan 55 verified** |
+| WFV-011 | 67 | 52 | `0067-vaanan-manandha-vannath-thirumagal-03.md` | `அவசரமாய்ப் புறப்பட்டான் தேர்ஏறி!` | source `அவசரமாய்ப் புறப்பட்டான் தேரேறி!` | `likely-gemini-error` | **USER ADJUDICATED — GEMINI/REPOSITORY CORRECT; canonical retained; scan 67 verified** |
+| WFV-012 | 85 | 70 | `0085-pisirandhaiyar-3-01.md` | canonical moves directly from `வளர்ந்த மகன், மனைவியுடன் வயலுக்குச் சென்றுளான்` to `வருவதற்கு நேரமாகும்; அஞ்சாதே!` | source visibly includes right-offset `- அவர்கள்` between those lines | `missing-source-token / likely-gemini-error` | **USER ADJUDICATED / APPLIED — source token inserted; scan 85 verified** |
+| WFV-013 | 87 | 72 | `0087-pisirandhaiyar-3-02.md` | canonical places `நல்ல` before `இலக்கிய மேதைகள்` | source places `நல்ல` with `இமிழ் கடல் தாண்டியும் புகழ் மணம் பரப்பி - நல்ல / அகில், மிளகு, முத்து வாணிபம் புரிவார்!` | `token-placement / likely-gemini-error` | **USER ADJUDICATED / APPLIED — source token placement applied; scan 87 verified** |
+| WFV-014 | 94 | 79 | `0094-pisirandhaiyar-4-03.md` | Purananuru 215 quotation `பிசிரோன் என்ப, என் உயிர்ஒம் புநனே;` | source-visible `பிசிரோன் என்ப, என் உயிர்ஓம் புநனே;` | `vowel-length-glyph / likely-gemini-error` | **USER ADJUDICATED / APPLIED — source reading applied; scan 94 verified** |
 
 Non-lexical observations from the same review, such as token placement, lineation or punctuation, are not entered here unless they change the lexical reading.
 
@@ -3147,6 +3147,17 @@ Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R48_SCANS_471_480.md`.
 No canonical lexical word or character was changed.
 
 Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R49_SCANS_481_490.md`.
+
+## User adjudication — first reviewed set
+
+**Status: APPLIED / CLOSED for 13 reviewed WFV rows**
+
+- **retain repository/Gemini** — WFV-003, WFV-005, WFV-006, WFV-007, WFV-008, WFV-009, WFV-010, WFV-011;
+- **apply correction** — WFV-002, WFV-004, WFV-012, WFV-013, WFV-014;
+- WFV-004 exact user correction — `மாலையாவதில்லை - ஆனால்`;
+- affected physical pages cleared — **12** (25, 30, 49, 55, 62, 67, 69, 83, 85, 87, 91, 94);
+- pending WFV rows remaining — **42 across 32 physical pages**;
+- user will continue review of the remaining rows.
 
 ## Restart R50 — scans 491–497
 
