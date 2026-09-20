@@ -1,15 +1,15 @@
 # சங்கத் தமிழ் — WFV Discrepancy Comparison
 
-**Purpose:** user-adjudication view comparing repository readings with source-visible/source-aligned evidence.
+**Purpose:** durable user-adjudication record comparing repository readings with source-visible/source-aligned evidence.
 
 ## Current state
 
 - fresh source coverage — **497/497 COMPLETE**
-- cumulative user-adjudicated WFV rows — **47**
-- cumulative cleared physical pages — **36**
-- pending WFV rows — **8**
-- affected physical pages still pending — **8**
-- maintained-English release-report gate — **PAUSED**
+- cumulative user-adjudicated WFV rows — **55**
+- cumulative cleared physical pages — **44**
+- pending WFV rows — **0**
+- affected physical pages still pending — **0**
+- WFV adjudication gate — **COMPLETE / CLOSED**
 
 ## User-reviewed / adjudicated rows
 
@@ -62,19 +62,18 @@
 | WFV-046 | 281 | 269 | [`0281-kilu-kiluppai-vazhangum-kirukiruppu-01.md`](pages/0281-kilu-kiluppai-vazhangum-kirukiruppu-01.md) | canonical places existing `அந்த` in `நாவலரின் கற்பனையில் விளைந்திட்ட அந்த சிறுபாணாற்றுப்படையினிலே;` | source places `அந்த` before `நாவலரின் கற்பனையில்...`, yielding source order `அந்த / நாவலரின் கற்பனையில் விளைந்திட்ட / சிறுபாணாற்றுப்படையினிலே;` | Gemini error — move `அந்த` before `நாவலரின் கற்பனையில்...`, yielding source order `அந்த / நாவலரின் கற்பனையில் விளைந்திட்ட / சிறுபாணாற்றுப்படையினிலே;`. | source token placement applied |
 | WFV-047 | 282 | 270 | [`0282-kilu-kiluppai-vazhangum-kirukiruppu-02.md`](pages/0282-kilu-kiluppai-vazhangum-kirukiruppu-02.md) | `வலிய எருதுக்கள் பூட்டிய அந்த வண்டிகளுடன் முந்தி` | source visibly reads `வலிய எருதுகள் பூட்டிய அந்த வண்டிகளுடன் முந்தி` | Gemini error — apply `வலிய எருதுகள் பூட்டிய அந்த வண்டிகளுடன் முந்தி`. | source reading `எருதுகள்` applied |
 | WFV-048 | 290 | 278 | [`0290-veriyaadum-velan-etharkaaga-03.md`](pages/0290-veriyaadum-velan-etharkaaga-03.md) | `வெறியாடி நோய் தீர்க்கும் வேலனாம் பூசாரி தேவையில்லை;` | source visibly reads `வெறியாடி நோய் தீர்க்கும் வேலனும் பூசாரி தேவையில்லை;` | Gemini is correct. Retain repository. No change required. | repository retained |
+| WFV-049 | 294 | 282 | [`0294-ollaiyooril-mullaiyo-03.md`](pages/0294-ollaiyooril-mullaiyo-03.md) | `அரண் போன்றான் வீழ்ந்தான் என்ற அதிர்ச்சியினால் தாக்குண்டு` | source visibly reads `அரண் போன்றவன் வீழ்ந்தான் என்ற அதிர்ச்சியினால் தாக்குண்டு` | Gemini is correct. Retain repository. No change required. | repository retained |
+| WFV-050 | 324 | 312 | [`0324-oru-kodi-vaazhththuk-kooriduvom-02.md`](pages/0324-oru-kodi-vaazhththuk-kooriduvom-02.md) | `அழகுறவே அலுவல்களை அயர்வின்றி ஆற்றும் பாங்கும்;` | source visibly reads `அழகுறவே அலுவல்களே அயர்வின்றி ஆற்றும் பாங்கும்;` | Gemini is correct. Retain repository. No change required. | repository retained |
+| WFV-051 | 334 | 322 | [`0334-utruzhi-uthavi-uruporul-koduththiduga-02.md`](pages/0334-utruzhi-uthavi-uruporul-koduththiduga-02.md) | `உடன் சென்று துணை நிற்க வேண்டு` | source visibly reads `உடன் சென்று துணை நிற்க வேண்டும்` | Gemini is correct. Retain repository. No change required. | repository retained |
+| WFV-052 | 336 | 324 | [`0336-utruzhi-uthavi-uruporul-koduththiduga-04.md`](pages/0336-utruzhi-uthavi-uruporul-koduththiduga-04.md) | `அறம், திறம் உணர்த்துக்கின்ற கல்வி நீரோடையிலே` | source visibly reads `அறம், திறம் உணர்த்துகின்ற கல்வி நீரோடையிலே` | Gemini error — apply source-visible `அறம், திறம் உணர்த்துகின்ற கல்வி நீரோடையிலே`. | source reading `உணர்த்துகின்ற` applied |
+| WFV-053 | 342 | 330 | [`0342-sendru-vaa-magane-serumunai-nokki-01.md`](pages/0342-sendru-vaa-magane-serumunai-nokki-01.md) | `அடைபட்ட கண்ணீர், அணை உடைத்ததத்தான்” என்றாள்.` | source visibly reads `அடைபட்ட கண்ணீர், அணை உடைத்ததுதான்” என்றாள்.` | Gemini is correct. Retain repository. No change required. | repository retained |
+| WFV-054 | 414 | 402 | [`0414-solven-keladi-thozhi-02.md`](pages/0414-solven-keladi-thozhi-02.md) | `நாலு பேர் கண்டுவிட்டால் என்னகும் தோழி!` | direct enlarged source review reads `நாலு பேர் கண்டுவிட்டால் என்னாகும் தோழி!` | Gemini error — apply `நாலு பேர் கண்டுவிட்டால் என்னாகும் தோழி!`. | source reading `என்னாகும்` applied |
+| WFV-055 | 445 | 433 | [`0445-oruthalaik-kaadhal-04-01.md`](pages/0445-oruthalaik-kaadhal-04-01.md) | `நாயினும் கீழாய்ப் பிறரை மதிப்பவனேத்` | historical `னை` identity reads `நாயினும் கீழாய்ப் பிறரை மதிப்பவனைத்`; same-edition scan 435 `இவனைத்தான்` matches the old `னை` form | Historical-glyph/Gemini error — apply historical `னை` identity `நாயினும் கீழாய்ப் பிறரை மதிப்பவனைத்`. | historical-glyph source reading applied |
+| WFV-056 | 446 | 434 | [`0446-oruthalaik-kaadhal-04-02.md`](pages/0446-oruthalaik-kaadhal-04-02.md) | `அணிமணிகள், அரண்மனைகள் தக்கவைக்கும் மனிதர்களேத்` | historical `ளை` identity reads `அணிமணிகள், அரண்மனைகள் தக்கவைக்கும் மனிதர்களைத்`; same-edition scan 441 `வெள்ளை` matches the old `ளை` form | Historical-glyph/Gemini error — apply historical `ளை` identity `அணிமணிகள், அரண்மனைகள் தக்கவைக்கும் மனிதர்களைத்`. | historical-glyph source reading applied |
 
-## Remaining pending discrepancies — repository vs source
+## Remaining pending discrepancies
 
-| WFV | Scan | Printed | Repository page | Repository / canonical | Source-visible / source-aligned | Type | Status |
-|---|---:|---:|---|---|---|---|---|
-| WFV-049 | 294 | 282 | [`0294-ollaiyooril-mullaiyo-03.md`](pages/0294-ollaiyooril-mullaiyo-03.md) | `அரண் போன்றான் வீழ்ந்தான் என்ற அதிர்ச்சியினால் தாக்குண்டு` | source visibly reads `அரண் போன்றவன் வீழ்ந்தான் என்ற அதிர்ச்சியினால் தாக்குண்டு` | `missing-source-token / likely-gemini-error` | **PENDING USER ADJUDICATION** |
-| WFV-050 | 324 | 312 | [`0324-oru-kodi-vaazhththuk-kooriduvom-02.md`](pages/0324-oru-kodi-vaazhththuk-kooriduvom-02.md) | `அழகுறவே அலுவல்களை அயர்வின்றி ஆற்றும் பாங்கும்;` | source visibly reads `அழகுறவே அலுவல்களே அயர்வின்றி ஆற்றும் பாங்கும்;` | `likely-gemini-error` | **PENDING USER ADJUDICATION** |
-| WFV-051 | 334 | 322 | [`0334-utruzhi-uthavi-uruporul-koduththiduga-02.md`](pages/0334-utruzhi-uthavi-uruporul-koduththiduga-02.md) | `உடன் சென்று துணை நிற்க வேண்டு` | source visibly reads `உடன் சென்று துணை நிற்க வேண்டும்` | `missing-source-character / likely-gemini-error` | **PENDING USER ADJUDICATION** |
-| WFV-052 | 336 | 324 | [`0336-utruzhi-uthavi-uruporul-koduththiduga-04.md`](pages/0336-utruzhi-uthavi-uruporul-koduththiduga-04.md) | `அறம், திறம் உணர்த்துக்கின்ற கல்வி நீரோடையிலே` | source visibly reads `அறம், திறம் உணர்த்துகின்ற கல்வி நீரோடையிலே` | `likely-gemini-error` | **PENDING USER ADJUDICATION** |
-| WFV-053 | 342 | 330 | [`0342-sendru-vaa-magane-serumunai-nokki-01.md`](pages/0342-sendru-vaa-magane-serumunai-nokki-01.md) | `அடைபட்ட கண்ணீர், அணை உடைத்ததத்தான்” என்றாள்.` | source visibly reads `அடைபட்ட கண்ணீர், அணை உடைத்ததுதான்” என்றாள்.` | `likely-gemini-error` | **PENDING USER ADJUDICATION** |
-| WFV-054 | 414 | 402 | [`0414-solven-keladi-thozhi-02.md`](pages/0414-solven-keladi-thozhi-02.md) | `நாலு பேர் கண்டுவிட்டால் என்னகும் தோழி!` | direct enlarged source review reads `நாலு பேர் கண்டுவிட்டால் என்னாகும் தோழி!` | `likely-gemini-error` | **PENDING USER ADJUDICATION** |
-| WFV-055 | 445 | 433 | [`0445-oruthalaik-kaadhal-04-01.md`](pages/0445-oruthalaik-kaadhal-04-01.md) | `நாயினும் கீழாய்ப் பிறரை மதிப்பவனேத்` | historical `னை` identity reads `நாயினும் கீழாய்ப் பிறரை மதிப்பவனைத்`; same-edition scan 435 `இவனைத்தான்` matches the old `னை` form | `historical-glyph / likely-gemini-error` | **PENDING USER ADJUDICATION** |
-| WFV-056 | 446 | 434 | [`0446-oruthalaik-kaadhal-04-02.md`](pages/0446-oruthalaik-kaadhal-04-02.md) | `அணிமணிகள், அரண்மனைகள் தக்கவைக்கும் மனிதர்களேத்` | historical `ளை` identity reads `அணிமணிகள், அரண்மனைகள் தக்கவைக்கும் மனிதர்களைத்`; same-edition scan 441 `வெள்ளை` matches the old `ளை` form | `historical-glyph / likely-gemini-error` | **PENDING USER ADJUDICATION** |
+**None. All WFV-002 through WFV-056 rows have explicit user adjudication.**
 
 ## Previously resolved / rejected
 

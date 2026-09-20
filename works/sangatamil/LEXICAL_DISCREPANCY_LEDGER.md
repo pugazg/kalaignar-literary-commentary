@@ -2590,7 +2590,7 @@ Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R29_SCANS_281_290.md`.
 
 | ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
 |---|---:|---:|---|---|---|---|
-| WFV-049 | 294 | 282 | `அரண் போன்றான் வீழ்ந்தான் என்ற அதிர்ச்சியினால் தாக்குண்டு` | source visibly reads `அரண் போன்றவன் வீழ்ந்தான் என்ற அதிர்ச்சியினால் தாக்குண்டு` | `missing-source-token / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 294 remains needs-review** |
+| WFV-049 | 294 | 282 | `அரண் போன்றான் வீழ்ந்தான் என்ற அதிர்ச்சியினால் தாக்குண்டு` | source visibly reads `அரண் போன்றவன் வீழ்ந்தான் என்ற அதிர்ச்சியினால் தாக்குண்டு` | `missing-source-token / likely-gemini-error` | **USER ADJUDICATED — GEMINI/REPOSITORY CORRECT; canonical retained; scan 294 verified** |
 
 ### R30 findings
 
@@ -2680,7 +2680,7 @@ Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R32_SCANS_311_320.md`.
 
 | ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
 |---|---:|---:|---|---|---|---|
-| WFV-050 | 324 | 312 | `அழகுறவே அலுவல்களை அயர்வின்றி ஆற்றும் பாங்கும்;` | source visibly reads `அழகுறவே அலுவல்களே அயர்வின்றி ஆற்றும் பாங்கும்;` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 324 remains needs-review** |
+| WFV-050 | 324 | 312 | `அழகுறவே அலுவல்களை அயர்வின்றி ஆற்றும் பாங்கும்;` | source visibly reads `அழகுறவே அலுவல்களே அயர்வின்றி ஆற்றும் பாங்கும்;` | `likely-gemini-error` | **USER ADJUDICATED — GEMINI/REPOSITORY CORRECT; canonical retained; scan 324 verified** |
 
 ### R33 findings
 
@@ -2716,8 +2716,8 @@ Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R33_SCANS_321_330.md`.
 
 | ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
 |---|---:|---:|---|---|---|---|
-| WFV-051 | 334 | 322 | `உடன் சென்று துணை நிற்க வேண்டு` | source visibly reads `உடன் சென்று துணை நிற்க வேண்டும்` | `missing-source-character / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 334 remains needs-review** |
-| WFV-052 | 336 | 324 | `அறம், திறம் உணர்த்துக்கின்ற கல்வி நீரோடையிலே` | source visibly reads `அறம், திறம் உணர்த்துகின்ற கல்வி நீரோடையிலே` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 336 remains needs-review** |
+| WFV-051 | 334 | 322 | `உடன் சென்று துணை நிற்க வேண்டு` | source visibly reads `உடன் சென்று துணை நிற்க வேண்டும்` | `missing-source-character / likely-gemini-error` | **USER ADJUDICATED — GEMINI/REPOSITORY CORRECT; canonical retained; scan 334 verified** |
+| WFV-052 | 336 | 324 | `அறம், திறம் உணர்த்துக்கின்ற கல்வி நீரோடையிலே` | source visibly reads `அறம், திறம் உணர்த்துகின்ற கல்வி நீரோடையிலே` | `likely-gemini-error` | **USER ADJUDICATED / APPLIED — source reading `உணர்த்துகின்ற` applied; scan 336 verified** |
 
 ### R34 findings
 
@@ -2751,7 +2751,7 @@ Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R34_SCANS_331_340.md`.
 
 | ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
 |---|---:|---:|---|---|---|---|
-| WFV-053 | 342 | 330 | `அடைபட்ட கண்ணீர், அணை உடைத்ததத்தான்” என்றாள்.` | source visibly reads `அடைபட்ட கண்ணீர், அணை உடைத்ததுதான்” என்றாள்.` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 342 remains needs-review** |
+| WFV-053 | 342 | 330 | `அடைபட்ட கண்ணீர், அணை உடைத்ததத்தான்” என்றாள்.` | source visibly reads `அடைபட்ட கண்ணீர், அணை உடைத்ததுதான்” என்றாள்.` | `likely-gemini-error` | **USER ADJUDICATED — GEMINI/REPOSITORY CORRECT; canonical retained; scan 342 verified** |
 
 ### R35 findings
 
@@ -2944,7 +2944,7 @@ Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R41_SCANS_401_410.md`.
 
 | ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
 |---|---:|---:|---|---|---|---|
-| WFV-054 | 414 | 402 | `நாலு பேர் கண்டுவிட்டால் என்னகும் தோழி!` | direct enlarged source review reads `நாலு பேர் கண்டுவிட்டால் என்னாகும் தோழி!` | `likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 414 remains needs-review** |
+| WFV-054 | 414 | 402 | `நாலு பேர் கண்டுவிட்டால் என்னகும் தோழி!` | direct enlarged source review reads `நாலு பேர் கண்டுவிட்டால் என்னாகும் தோழி!` | `likely-gemini-error` | **USER ADJUDICATED / APPLIED — source reading `என்னாகும்` applied; scan 414 verified** |
 
 ### R42 findings
 
@@ -3029,8 +3029,8 @@ Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R44_SCANS_431_440.md`.
 
 | ID | Scan | Printed page | Canonical / locked wording or placement | Source-visible / source-aligned evidence | Classification | Disposition |
 |---|---:|---:|---|---|---|---|
-| WFV-055 | 445 | 433 | `நாயினும் கீழாய்ப் பிறரை மதிப்பவனேத்` | historical `னை` identity reads `நாயினும் கீழாய்ப் பிறரை மதிப்பவனைத்`; same-edition scan 435 `இவனைத்தான்` matches the old `னை` form | `historical-glyph / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 445 remains needs-review** |
-| WFV-056 | 446 | 434 | `அணிமணிகள், அரண்மனைகள் தக்கவைக்கும் மனிதர்களேத்` | historical `ளை` identity reads `அணிமணிகள், அரண்மனைகள் தக்கவைக்கும் மனிதர்களைத்`; same-edition scan 441 `வெள்ளை` matches the old `ளை` form | `historical-glyph / likely-gemini-error` | **PENDING USER ADJUDICATION — canonical unchanged; scan 446 remains needs-review** |
+| WFV-055 | 445 | 433 | `நாயினும் கீழாய்ப் பிறரை மதிப்பவனேத்` | historical `னை` identity reads `நாயினும் கீழாய்ப் பிறரை மதிப்பவனைத்`; same-edition scan 435 `இவனைத்தான்` matches the old `னை` form | `historical-glyph / likely-gemini-error` | **USER ADJUDICATED / APPLIED — historical-glyph source reading applied; scan 445 verified** |
+| WFV-056 | 446 | 434 | `அணிமணிகள், அரண்மனைகள் தக்கவைக்கும் மனிதர்களேத்` | historical `ளை` identity reads `அணிமணிகள், அரண்மனைகள் தக்கவைக்கும் மனிதர்களைத்`; same-edition scan 441 `வெள்ளை` matches the old `ளை` form | `historical-glyph / likely-gemini-error` | **USER ADJUDICATED / APPLIED — historical-glyph source reading applied; scan 446 verified** |
 
 ### R45 findings
 
@@ -3190,6 +3190,17 @@ Durable report: `TAMIL_WORD_FOR_WORD_REAUDIT_R49_SCANS_481_490.md`.
 - affected physical pages cleared — **9** (233, 248, 254, 261, 262, 270, 281, 282, 290);
 - cumulative user-reviewed WFV rows — **47**;
 - pending WFV rows remaining — **8 across 8 physical pages**.
+
+## User adjudication — final reviewed set
+
+**Status: COMPLETE / APPLIED / 0 WFV PENDING**
+
+- **retain repository/Gemini** — WFV-049, WFV-050, WFV-051, WFV-053;
+- **apply correction** — WFV-052, WFV-054, WFV-055, WFV-056;
+- affected physical pages cleared — **8** (294, 324, 334, 336, 342, 414, 445, 446);
+- cumulative user-reviewed WFV rows — **55**;
+- pending WFV rows remaining — **0**;
+- all user-adjudication lexical holds are closed.
 
 ## Restart R50 — scans 491–497
 
