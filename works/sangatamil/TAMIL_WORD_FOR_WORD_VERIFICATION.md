@@ -1,6 +1,6 @@
 # Sangatamil — Tamil Word-for-Word / Historical-Glyph Re-Audit Tracker
 
-**Status: IN PROGRESS — RESTARTED FROM SCAN 1 IN 10-PAGE ITERATIONS**
+**Status: COMPLETE / CLOSED — 497/497 FRESH SOURCE COVERAGE; 496 VERIFIED / 0 NEEDS-REVIEW / 1 SOURCE-LIMITED PARTIAL (SCAN 8); 55/55 WFV ROWS USER-ADJUDICATED / 0 PENDING**
 
 - restart date: **2026-09-19**
 - repository: `pugazg/kalaignar-literary-commentary`

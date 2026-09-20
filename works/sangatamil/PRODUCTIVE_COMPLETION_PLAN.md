@@ -1,5 +1,8 @@
 # சங்கத் தமிழ் — Productive Completion Plan
 
+> **CURRENT AUTHORITATIVE CHECKPOINT — 2026-09-20:** A later dedicated WFV cycle supersedes any pre-WFV “not claimed”, “in progress”, legacy `needs-review`, or historical next-activity language below. Fresh physical-source WFV coverage is **497/497 COMPLETE**; Tamil is **496 verified / 0 needs-review / 1 source-limited partial (scan 8)**; visual fidelity is **496 verified / 1 needs-review**; WFV-001 is **REJECTED / canonical retained**; WFV-002..WFV-056 are **55/55 USER ADJUDICATED / CLOSED**; pending WFV rows are **0**. Maintained English is **RELEASE COMPLETE / CLOSED — 496 release-ready + 1 source-limited (scan 8) / 0 blocked**. Historical checkpoint text below remains audit evidence only.
+
+
 ## Purpose
 
 This plan replaces the older open-ended eight-pass cadence with a **Kuraloviyam-style gated closure workflow**: one clearly bounded gate at a time, durable closure records, explicit exceptions, and no reopening of closed work without new evidence.
@@ -231,15 +234,15 @@ Synchronize:
 
 Final declaration for this archive:
 
-**ARCHIVAL STRUCTURE / PHYSICAL / SECTION / PROVENANCE / METADATA / NAVIGATION CLOSED — RECORDED GATE-C2 DISCREPANCIES ADJUDICATED — WHOLE-VOLUME WORD-FOR-WORD SCAN VERIFICATION NOT CLAIMED.**
+**ARCHIVAL STRUCTURE / PHYSICAL / SECTION / PROVENANCE / METADATA / NAVIGATION CLOSED — RECORDED GATE-C2 DISCREPANCIES ADJUDICATED — whole-volume word-for-word scan verification later completed separately (497/497 fresh source coverage; 496 verified / 0 needs-review / 1 source-limited partial).**
 
 Gate C2 authorization resolved the **140 recorded Gate-C discrepancies**; it did not constitute a fresh exhaustive token-by-token reread of every source word.
 
 ## Current active gate
 
-**Gate I — COMPLETE / final whole-volume closure.**
+**NONE — Sangatamil archival gates, dedicated WFV, and maintained-English release are COMPLETE / CLOSED.**
 
-Current durable state — **2026-09-16**:
+Current durable state — **2026-09-20**:
 - Gate A — COMPLETE / PASS
 - canonical page records — 497/497
 - duplicate aliases — 0
@@ -250,7 +253,7 @@ Current durable state — **2026-09-16**:
 - unresolved structural placement issues — **0**
 - latest B20 page-layer endpoint — `e8919ea260fdc3c8a5e8fef643bdd1ff3691a49c`
 - Gate-B closure / durable B20 progress commit — `90caaeb3bd92201a75d45f617727721b9c3e0df7`
-- wording state — **Gate C2 disposition complete across scans 1–497 for all 140 recorded Gate-C discrepancies; whole-volume word-for-word scan verification not claimed**
+- wording state — **Gate C2 disposition complete across scans 1–497 for all 140 recorded Gate-C discrepancies; whole-volume word-for-word scan verification later completed separately (497/497 fresh source coverage; 496 verified / 0 needs-review / 1 source-limited partial)**
 - Gate C C01–C20 — **COMPLETE / PASS**
 - Gate-C audited — **497/497**
 - Gate-C remaining — **0**
@@ -285,6 +288,6 @@ Gate F durable outputs are closed:
 - standalone source-note-only provenance records — **4**;
 - Gate-F page-wording changes — **0**.
 
-Gate C is closed at **497/497** with **140** historical discrepancy records. Gate C2 is also closed: **140/140 historical discrepancy records user-adjudicated across scans 1–497**, with no C2-locked remainder. Durable C2 record: `C2_SOURCE_CORRECTION_PROGRESS.md`. Whole-volume word-for-word scan verification is still not claimed.
+Gate C is closed at **497/497** with **140** historical discrepancy records. Gate C2 is also closed: **140/140 historical discrepancy records user-adjudicated across scans 1–497**, with no C2-locked remainder. Durable C2 record: `C2_SOURCE_CORRECTION_PROGRESS.md`. A later dedicated WFV cycle is **COMPLETE / PASS — 497/497 fresh source coverage; 496 verified / 0 needs-review / 1 source-limited partial (scan 8); 55/55 WFV rows adjudicated; 0 pending**.
 
 Gate C remains historical/audit-only evidence. Gate C2, R1, Gates D–H, and final Gate I synchronization are closed. Preserve all user-adjudicated lexical decisions and the closed canonical page layer.

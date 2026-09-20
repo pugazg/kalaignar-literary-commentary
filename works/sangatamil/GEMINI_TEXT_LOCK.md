@@ -1,8 +1,8 @@
 # சங்கத் தமிழ் — Gemini lexical/text lock
 
-**Current status: ACTIVE LEXICAL LOCK FOR THE 2026-09-19 WORD-FOR-WORD AUDIT. Gate C2 remains COMPLETE / APPLIED for its 140 explicitly adjudicated historical records.**
+**Current status: RETAINED LEXICAL / ADJUDICATION CONTROL — the 2026-09-19/20 WFV cycle is COMPLETE / CLOSED. Gate C2 remains COMPLETE / APPLIED for its 140 explicitly adjudicated historical records.**
 
-This file records the user-approved lexical-lock rule. It governed Gates B/C, was superseded only for the exact Gate-C2 items explicitly adjudicated by the user, and is **again the live lexical rule** for the new 2026-09-19 word-for-word audit of remaining `needs-review` pages.
+This file records the user-approved lexical-lock rule. It governed Gates B/C, was superseded only for exact Gate-C2/user-adjudicated items, and governed mutation during the later WFV audit. That WFV audit is now **COMPLETE / CLOSED**; the rule remains durable for any future reopening.
 
 ## Controlling rule
 
@@ -63,7 +63,7 @@ Where a user C2 ruling said **Gemini is correct**, the Gemini wording remains pr
 
 Special rule for scan **8** remains durable: the handwritten `முன்னுரை` facsimile is **description-only**. Do not interpret or transcribe the handwritten letter.
 
-Gate C2 closure does **not** mean that every token in every scan was freshly re-verified. Whole-volume word-for-word scan verification is therefore **not claimed**.
+Gate C2 closure by itself did **not** mean that every token in every scan was freshly re-verified. That historical limitation was later resolved by the separate dedicated WFV cycle: **497/497 fresh source coverage, 496 verified / 0 needs-review / 1 source-limited partial (scan 8), 55/55 WFV rows adjudicated, 0 pending**.
 
 
 ## 2026-09-19 audit reaffirmation

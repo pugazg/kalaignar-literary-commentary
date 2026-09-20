@@ -1,6 +1,6 @@
 # HANDOVER — Kalaignar Literary Commentary Archive
 
-Last refreshed **2026-09-19**: Kuraloviyam remains closed; Sangath Tamil Gates **A–I are COMPLETE / PASS** and the Tamil archival pipeline is **CLOSED**; the separately scoped **maintained English project translation is ACTIVE** with first-pass Drafts D1–D14 scans **1–497 COMPLETE / CLOSED**, Source-Check SC1–SC14 scans **1–497 COMPLETE / CLOSED**, Glossary Reconciliation GR1–GR14 scans **1–497 COMPLETE / CLOSED**, Editorial Review ER1 scans **1–37 COMPLETE / PASS**, ER2 scans **38–74 COMPLETE / PASS**, ER3 scans **75–111 COMPLETE / PASS**, ER4 scans **112–148 COMPLETE / PASS**, ER5 scans **149–185 COMPLETE / PASS**, ER6 scans **186–222 COMPLETE / PASS**, ER7 scans **223–259 COMPLETE / PASS**, ER8 scans **260–296 COMPLETE / PASS**, ER9 scans **297–333 COMPLETE / PASS**, ER10 scans **334–370 COMPLETE / PASS**, ER11 scans **371–407 COMPLETE / PASS**, ER12 scans **408–444 COMPLETE / PASS**, ER13 scans **445–481 COMPLETE / PASS**, and ER14 scans **482–497 COMPLETE / PASS — EDITORIAL REVIEW CLOSED 497/497**.
+Last refreshed **2026-09-20**: Kuraloviyam remains closed; Sangath Tamil Gates **A–I are COMPLETE / PASS**; dedicated Tamil WFV is **COMPLETE / CLOSED — 497/497 fresh source coverage, 496 verified / 0 needs-review / 1 source-limited partial (scan 8), WFV-001 rejected/canonical retained, WFV-002..WFV-056 55/55 user-adjudicated/closed, 20 repository/Gemini readings retained, 35 user-authorized corrections applied, 0 pending**; maintained English is **RELEASE COMPLETE / CLOSED — 496 release-ready + 1 source-limited (scan 8) / 0 blocked**.
 
 ## Repository
 
@@ -27,6 +27,10 @@ Current Sangath Tamil durable controls:
 - `works/sangatamil/GATE_G_METADATA_STATUS_AUDIT.md`
 - `works/sangatamil/GATE_H_DERIVED_NAVIGATION_REPORT.md`
 - `works/sangatamil/GATE_I_FINAL_CLOSURE.md`
+- `works/sangatamil/TAMIL_WORD_FOR_WORD_VERIFICATION.md`
+- `works/sangatamil/WFV_DISCREPANCY_COMPARISON.md`
+- `works/sangatamil/LEXICAL_DISCREPANCY_LEDGER.md`
+- `works/sangatamil/translations/en/reviews/WHOLE_VOLUME_ENGLISH_RELEASE_REPORT.md`
 - `works/sangatamil/navigation/README.md`
 - `works/sangatamil/indexes/section-register.md`
 - `works/sangatamil/indexes/source-citation-register.md`
@@ -122,15 +126,15 @@ The mixed page-level statuses are intentional. Gate C2 resolved all recorded Gat
 
 Mandatory companion control: `works/sangatamil/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Inspect difficult glyphs at enlarged/native resolution, check the 13 known families, and compare same-edition evidence. **Do not correct lexical words directly**: every new lexical/glyph difference goes to `LEXICAL_DISCREPANCY_LEDGER.md` and awaits explicit user adjudication.
 
-**Maintained English release-report gate is UNBLOCKED after completion of Tamil WFV adjudication and targeted English impact reconciliation.** The English layer remains at **496 editorial-reviewed + 1 source-limited (scan 8)**. Tamil corrections discovered by this pass must receive targeted English impact reconciliation before any release approval or `release-ready` promotion.
+**Maintained English release is COMPLETE / CLOSED.** The approved whole-volume release report is `works/sangatamil/translations/en/reviews/WHOLE_VOLUME_ENGLISH_RELEASE_REPORT.md`; final English inventory is **496 release-ready + 1 source-limited (scan 8) / 0 blocked**. Post-WFV English source-status/fidelity metadata synchronization is complete.
 
 English controls: `works/sangatamil/translations/en/README.md`, `TRANSLATION_GUIDE.md`, `TRANSLATION_STATUS.md`, and `GLOSSARY.md`.
 
-Do not reopen the canonical Tamil layer for translation work. English release state does not imply fresh whole-volume word-for-word scan verification.
+Do not reopen the canonical Tamil layer for translation work. Fresh whole-volume WFV is independently **COMPLETE / PASS across 497/497 physical scans**; English release does not remove or reinterpret the permanent scan-8 source limitation.
 
 > Historical workflow sections later in this handover may preserve the frontier that was true when they were written. They are evidence, not the live execution frontier. The current state above controls.
 
-## Mandatory startup — active சங்கத் தமிழ் work
+## Mandatory startup — only if சங்கத் தமிழ் is explicitly reopened
 
 Before making any repository change, read completely:
 

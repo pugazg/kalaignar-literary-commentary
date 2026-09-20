@@ -518,11 +518,12 @@ Final WFV user-adjudication set — COMPLETE / APPLIED:
 - maintained-English release-report gate — **UNBLOCKED**.
 
 Current whole-volume Tamil state:
-- `verified` — **452**
-- `needs-review` — **44**
-- `partial` — **1**
-- current restart coverage — **497/497 COMPLETE**
-- pending adjudication — **0 WFV rows**
+- `verified` — **496**
+- `needs-review` — **0**
+- `partial` / source-limited — **1** (scan 8)
+- fresh WFV source coverage — **497/497 COMPLETE**
+- WFV adjudication — **55/55 CLOSED / 0 pending**
+- visual fidelity — **496 verified / 1 needs-review**
 
 Gate D — COMPLETE / PASS:
 - physical scans — 497/497
@@ -567,7 +568,7 @@ Gate C2 is **COMPLETE / APPLIED**:
 - reconciliation record — `POST_C2_RECONCILIATION.md`
 - scan 8 handwritten `முன்னுரை` remains description-only by explicit user direction
 
-Whole-volume word-for-word verification is now **IN PROGRESS**. Do not describe it as complete until the remaining `needs-review` pages have been source-verified and the permanent scan-8 limitation is stated.
+Whole-volume word-for-word verification is **COMPLETE / CLOSED**. Fresh source coverage is **497/497**; all WFV rows are adjudicated; scan 8 remains the documented permanent source-limited handwritten-facsimile exception.
 
 ## Gate G closure
 

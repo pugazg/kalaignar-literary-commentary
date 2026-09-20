@@ -2,7 +2,7 @@
 
 கலைஞர் மு. கருணாநிதியின் இலக்கிய உரை / விளக்க நூல்களை மூல ஸ்கேன்களின் பக்க வரிசையைக் காக்கும் வகையில் Markdown வடிவில் பாதுகாக்கும் களஞ்சியம்.
 
-Last synchronized with live main: **2026-09-17**.
+Last synchronized with live main: **2026-09-20**.
 
 ## திட்டமிட்ட / உள்ள நூல்கள்
 
@@ -11,8 +11,8 @@ Last synchronized with live main: **2026-09-17**.
 | திருக்குறள் — கலைஞர் உரை | தமிழ் | Parts 001–015 **ARCHIVAL-READY through scan 323**; commentary through printed page 270 / Kural 1330 |
 | Thirukkural — Kalaignar's Commentary | English project translation | Parts 001–015 **RELEASED through the end of the supplied volume** |
 | Thirukkural semantic structure | பால் → இயல் → அதிகாரம் | **COMPLETE — 3 பால் / 13 இயல் / 133 அதிகாரம் / 1,330 குறள் mapped** |
-| சங்கத் தமிழ் | தமிழ் | **CLOSED — Gates A–I + Gate C2 COMPLETE / PASS; post-C2 reconciliation R1 COMPLETE / PASS** |
-| Sangatamil | English project translation | **ACTIVE — Drafts D1–D9 scans 1–333 COMPLETE / PASS; 333/497 drafted; D10 scans 334–370 next** |
+| சங்கத் தமிழ் | தமிழ் | **CLOSED — Gates A–I + Gate C2 + dedicated WFV COMPLETE / PASS; 497/497 source coverage; 496 verified + scan 8 source-limited partial** |
+| Sangatamil | English project translation | **RELEASE COMPLETE / CLOSED — 496 release-ready + 1 source-limited (scan 8); 0 blocked** |
 | குறளோவியம் | தமிழ் | பின்னர் சேர்க்கப்படும் |
 | Kuraloviyam | ஆங்கில வெளியிடப்பட்ட மொழிபெயர்ப்பு | source கிடைக்கும் போது தனித்த edition ஆக archive செய்யப்படும் |
 
@@ -36,7 +36,7 @@ The supplied **திருக்குறள் — கலைஞர் உர�
 
 Do not restart completed Thirukkural batches unless a new source or explicit correction task requires it.
 
-# Canonical active state — சங்கத் தமிழ்
+# Canonical closed state — சங்கத் தமிழ்
 
 Active path: works/sangatamil/
 
@@ -44,7 +44,7 @@ Controlling source: TVA_BOK_0042551_சங்கத்_தமிழ்.pdf
 
 Canonical physical range: 1–497; scan 497 is the back cover.
 
-## Active workflow
+## Current workflow authority
 
 Authoritative plan: works/sangatamil/PRODUCTIVE_COMPLETION_PLAN.md
 Historical lexical-lock baseline: works/sangatamil/GEMINI_TEXT_LOCK.md
@@ -136,7 +136,7 @@ Current handover: HANDOVER.md.
 - durable progress — `works/sangatamil/C2_SOURCE_CORRECTION_PROGRESS.md`
 - post-C2 reconciliation R1 — **COMPLETE / PASS**
 - reconciliation record — `works/sangatamil/POST_C2_RECONCILIATION.md`
-- whole-volume word-for-word scan verification — **NOT CLAIMED**
+- whole-volume word-for-word scan verification — **COMPLETE / PASS — fresh physical-source coverage 497/497; Tamil 496 verified / 0 needs-review / 1 source-limited partial (scan 8); visual 496 verified / 1 needs-review; WFV-002..WFV-056 55/55 adjudicated; 0 pending**
 
 Gate G — **COMPLETE / PASS — 497/497 metadata/status audited / 11 missing visual-fidelity fields repaired / 0 unresolved / 0 wording changes**.
 
@@ -144,4 +144,4 @@ Gate H — **COMPLETE / PASS — derived navigation built from 104 sections / 11
 
 Gate I — **COMPLETE / PASS — final synchronization / closure**.
 
-Exact Tamil archival activity: **none; Sangath Tamil archival pipeline is closed**. Separate downstream activity: **maintained English Draft D10, scans 334–370**; D1–D9 are complete at **333/497**.
+Exact Sangatamil activity: **none required**. Tamil WFV and maintained-English release are both **COMPLETE / CLOSED**. Reopen only for new source evidence or an explicit user-requested correction; preserve scan 8 as the permanent source-limited handwritten-facsimile exception.

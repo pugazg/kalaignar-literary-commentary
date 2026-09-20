@@ -1,5 +1,8 @@
 # சங்கத் தமிழ் — archival / provenance guidelines
 
+> **CURRENT AUTHORITATIVE CHECKPOINT — 2026-09-20:** A later dedicated WFV cycle supersedes any pre-WFV “not claimed”, “in progress”, legacy `needs-review`, or historical next-activity language below. Fresh physical-source WFV coverage is **497/497 COMPLETE**; Tamil is **496 verified / 0 needs-review / 1 source-limited partial (scan 8)**; visual fidelity is **496 verified / 1 needs-review**; WFV-001 is **REJECTED / canonical retained**; WFV-002..WFV-056 are **55/55 USER ADJUDICATED / CLOSED**; pending WFV rows are **0**. Maintained English is **RELEASE COMPLETE / CLOSED — 496 release-ready + 1 source-limited (scan 8) / 0 blocked**. Historical checkpoint text below remains audit evidence only.
+
+
 This document governs active work under works/sangatamil/ in pugazg/kalaignar-literary-commentary.
 
 The authoritative execution plan is works/sangatamil/PRODUCTIVE_COMPLETION_PLAN.md. `GEMINI_TEXT_LOCK.md` is the historical lexical-lock baseline; the final user-adjudicated lexical authority for recorded discrepancies is `works/sangatamil/C2_SOURCE_CORRECTION_PROGRESS.md`. Post-C2 dependency synchronization is recorded in `works/sangatamil/POST_C2_RECONCILIATION.md`.
@@ -73,10 +76,10 @@ Illustration/divider/blank pages remain canonical physical records. For illustra
 - Gate E — **COMPLETE / PASS**
 - Gate F — **COMPLETE / PASS**
 - Gate G — **COMPLETE / PASS — 497/497 metadata/status audited / 11 missing visual-fidelity fields repaired / 0 unresolved**
-- Gate H — **ACTIVE / NEXT — derived navigation**
-- Gate I — final whole-volume synchronization/closure
+- Gate H — **COMPLETE / PASS — derived navigation closed**
+- Gate I — **COMPLETE / PASS — final whole-volume synchronization/closure**
 
-Do not claim whole-volume word-for-word verification merely from C2 closure; C2 resolved the recorded discrepancy ledger rather than re-running every token in the source.
+C2 closure alone did **not** establish whole-volume WFV; that limitation remains historically important. A later dedicated WFV cycle separately completed fresh physical-source coverage across **497/497 scans**, ending at **496 verified / 0 needs-review / 1 source-limited partial (scan 8)** with **55/55 WFV rows adjudicated and 0 pending**.
 
 ## 8. Documentation synchronization discipline
 
@@ -100,7 +103,7 @@ Historical Gate-B/C/D/E/F reports may retain their original gate-time methodolog
 - Gate-H durable report — `works/sangatamil/GATE_H_DERIVED_NAVIGATION_REPORT.md`
 - Gate I — **COMPLETE / PASS — final whole-volume synchronization / closure**
 - no C2-locked scan range remains
-- whole-volume word-for-word scan verification — **NOT CLAIMED**
+- whole-volume word-for-word scan verification — **COMPLETE / PASS — 497/497 fresh source coverage; 496 verified / 0 needs-review / 1 source-limited partial (scan 8); 55/55 WFV rows adjudicated; 0 pending**
 - reconciliation record — `works/sangatamil/POST_C2_RECONCILIATION.md`
 
 ### Exact next activity
