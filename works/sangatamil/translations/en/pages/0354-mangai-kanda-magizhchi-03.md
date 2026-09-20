@@ -7,9 +7,9 @@ section: "மங்கை கண்ட மகிழ்ச்சி!"
 language: "en"
 translation_type: "project_translation"
 status: "release-ready"
-source_tamil_status: "needs-review"
-source_tamil_visual_fidelity: "needs-review"
-translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
+source_tamil_status: "verified"
+source_tamil_visual_fidelity: "verified"
+translation_basis: "maintained canonical Tamil archival record after completed 497-scan WFV cycle; scan 8 remains the permanent source-limited handwritten-facsimile exception"
 ---
 
 —if the sky suddenly darkened and rain came; if that rain poured as though the sky itself had been torn open; what joy would arise in the farmer withered because his field had dried, in the people who had wept because prosperity had vanished, and in the women taking their pots to draw water, rejoicing that fish would now leap again in the ponds!

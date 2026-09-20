@@ -7,9 +7,9 @@ section: "புதுப் பாட்டுப் புலவன்!"
 language: "en"
 translation_type: "project_translation"
 status: "release-ready"
-source_tamil_status: "needs-review"
-source_tamil_visual_fidelity: "needs-review"
-translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
+source_tamil_status: "verified"
+source_tamil_visual_fidelity: "verified"
+translation_basis: "maintained canonical Tamil archival record after completed 497-scan WFV cycle; scan 8 remains the permanent source-limited handwritten-facsimile exception"
 ---
 
 > “In the time of Pakkudukkai Nankaniyar, the kings and other wealthy people living in the country developed a great attachment to worldly life. They held that ‘this world belongs only to those who possess physical strength; it is not fitting to say that it is common to all who are born in the world,’ and that ‘because wealth is indispensable for preserving that strength without loss, the pursuit of wealth is suited to the strong.’ Thinking thus, they came to spend every day concerned only with war and the acquisition of wealth. As a result, there was no place in the country for a life of happiness.

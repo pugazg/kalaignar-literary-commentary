@@ -9,7 +9,7 @@ translation_type: "project_translation"
 status: "release-ready"
 source_tamil_status: "verified"
 source_tamil_visual_fidelity: "verified"
-translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
+translation_basis: "maintained canonical Tamil archival record after completed 497-scan WFV cycle; scan 8 remains the permanent source-limited handwritten-facsimile exception"
 ---
 
 —many works of literature must have existed. The grammatical work called *Agathiyam* is also said to have belonged to the First Sangam. Many literary works must have existed as the basis from which it could arise. Even today, poets repeat the *Agathiyam* aphorism that grammar is drawn from literature just as oil is drawn from sesame. Such is the course of time! It is clear that even before the three Sangams, our ancestors must have formed many assemblies suited to the ages in which they lived and spread the wealth of Tamil. Though the ravages of time destroyed so much, we owe it to the Tamil devotion of our ancestors that at least the Sangam Tamil works now available to us survived instead of being lost altogether. Written and incised with a stylus on palm leaves, and guarded from damage by water, earth, wind and fire, those *poththagangal*—a word that later became *puththagam* and even *pusthagam*—have reached our hands today. That itself is a great wonder!

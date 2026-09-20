@@ -7,9 +7,9 @@ section: "உச்சிக்குச் சென்ற நொச்சி!"
 language: "en"
 translation_type: "project_translation"
 status: "release-ready"
-source_tamil_status: "needs-review"
-source_tamil_visual_fidelity: "needs-review"
-translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
+source_tamil_status: "verified"
+source_tamil_visual_fidelity: "verified"
+translation_basis: "maintained canonical Tamil archival record after completed 497-scan WFV cycle; scan 8 remains the permanent source-limited handwritten-facsimile exception"
 ---
 
 [Full-page colour illustration of a large bird of prey carrying blood-red plant matter above a battlefield-like landscape; no printed page number is visible.]

@@ -9,7 +9,7 @@ translation_type: "project_translation"
 status: "release-ready"
 source_tamil_status: "verified"
 source_tamil_visual_fidelity: "verified"
-translation_basis: "maintained canonical Tamil archival record after Gate C2; controlling scan remains ultimate source authority; whole-volume word-for-word scan verification not claimed"
+translation_basis: "maintained canonical Tamil archival record after completed 497-scan WFV cycle; scan 8 remains the permanent source-limited handwritten-facsimile exception"
 ---
 
 The poems published in the twenty-one issues that have appeared so far are arranged in two parts. The explanatory pieces on the twelve poems published in the first ten issues are introduced under the following ten attractive titles.
